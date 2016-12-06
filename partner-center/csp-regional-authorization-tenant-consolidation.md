@@ -142,7 +142,7 @@ Mithilfe des Aktivitätsprotokolls können Partner Informationen zu allen den Ku
 **Anzeigen des Aktivitätsprotokolls**
 
 1.  Klicken Sie auf dem Partner Center-Dashboard auf den Link **Aktivitätsprotokoll**.
-2.  Sehen Sie sich auf der Seite **Aktivitätsprotokoll** die Änderungen an, die an Kundenkonten vorgenommen wurden. Wählen Sie zum Filtern des Aktivitätsprotokolls nach Datum Start- und Enddatum aus, ********um die ausgewählten Einträge im Protokoll einzuschränken. Verwenden Sie das Suchfeld, um im **Aktivitätsprotokoll** nach Kunde zu filtern.
+2.  Sehen Sie sich auf der Seite **Aktivitätsprotokoll** die Änderungen an, die an Kundenkonten vorgenommen wurden. Wählen Sie zum Filtern des Aktivitätsprotokolls nach **Datum Start-** und **Enddatum** aus, um die ausgewählten Einträge im Protokoll einzuschränken. Verwenden Sie das Suchfeld, um im **Aktivitätsprotokoll** nach Kunde zu filtern.
 
 **Exportieren des Aktivitätsprotokolls**
 

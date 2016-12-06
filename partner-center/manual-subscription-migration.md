@@ -72,7 +72,7 @@ Der Wiederverkäufer muss einen Kunden mit einem vorhandenen Dynamics AX Enterpr
 
 **Kauf des neuen Abonnements**
 
-1.  Wählen Sie im Menü **Dashboard** **Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend **Abonnements hinzufügen** aus.
+1.  Wählen Sie im Menü **Dashboard ****Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend **Abonnements hinzufügen** aus.
 2.  Wählen Sie aus dem Katalog das Abonnement aus, das Sie kaufen möchten (in diesem Fall Dynamics365 for Operations Enterprise Edition), kaufen Sie die nötigen Anzahl von Lizenzen, und wählen Sie **Übermitteln** aus.
 
     Ihr Kunde sollte nun alte und neue Abonnements besitzen. In diesem Beispiel sind dies das alte Dynamics AX Enterprise-Abonnement und das neue Abonnement von Dynamics365 for Operations Enterprise Edition.
@@ -82,7 +82,7 @@ Im nächsten Schritt werden alle vorhandenen Benutzerlizenzen dem neuen Abonneme
 
 **Neuzuweisen von Benutzerlizenzen**
 
-1.  Wählen Sie im Menü **Dashboard** **Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend **Benutzer und Lizenzen** aus. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
+1.  Wählen Sie im Menü **Dashboard ****Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend **Benutzer und Lizenzen** aus. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
 2.  Um Benutzerlizenzen neu zuzuweisen, wählen Sie den Benutzer aus, der neu zugewiesen werden soll, und anschließend **Verwalten von Lizenzen**.
 3.  Deaktivieren Sie auf der Seite **Verwalten von Lizenzen** das Kontrollkästchen für die Lizenz **Dynamics AX Enterprise**, und wählen Sie die Lizenz **Dynamics365 for Operations** aus.
 4.  Wählen Sie **Übermitteln** aus. Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt.
@@ -93,7 +93,7 @@ Nachdem Sie die Benutzerlizenzen zum neuen Dienst migriert haben, können Sie da
 
 **Stornieren des alten Abonnements.**
 
-1.  Wählen Sie im Menü **Dashboard** **Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend das Abonnement aus, das Sie stornieren möchten.
+1.  Wählen Sie im Menü **Dashboard ****Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend das Abonnement aus, das Sie stornieren möchten.
 2.  Legen Sie auf der Seite für Abonnementdetails **Status** auf **Ausgesetzt** fest.
 3.  Wählen Sie **Übermitteln** aus.
 

@@ -28,11 +28,11 @@ Wenn Sie Ihr Pinpoint-Profil importieren, wird Ihr Pinpoint-Konto deaktiviert, u
 **Importieren von Pinpoint-Profilinformationen**
 
 1.  Melden Sie sich bei [Partner Center](https://partnercenter.microsoft.com/) an, um Ihre Marketingprofile und Empfehlungen zu verwalten.
-2.  Wählen Sie in Partner Center im Menü **Dashboard ****Kontoeinstellungen &gt; Marketingprofil** aus.
+2.  Wählen Sie in Partner Center im Menü **Dashboard**&nbsp;**Kontoeinstellungen &gt; Marketingprofil** aus.
 
 3.  Klicken Sie auf der Registerkarte **Profile** auf **Aus Pinpoint importieren**. Nach Abschluss des Imports können Sie auf der Seite für die Erstellung von Partnerprofilen das Pinpoint-Profil auswählen, aus dem Ihre Daten kopiert werden sollen, und die **Lösungen** wählen, die für die einzelnen Standorte jeweils vermarktet werden sollen. Beachten Sie, dass Ihre automatisch importierten Pinpoint-Anwendungen oder -Dienste in Ihrem Partner Center-Marketingprofil als Lösungen angezeigt werden.
 
-Sie können nur die **Lösungen ****bearbeiten** oder **löschen**, die Sie in Ihr Partner Center-Marketingprofil importiert haben. Sie können Ihrem Partner Center-Profil keine neuen Lösungen hinzufügen.
+Sie können nur die **Lösungen**&nbsp;**bearbeiten** oder **löschen**, die Sie in Ihr Partner Center-Marketingprofil importiert haben. Sie können Ihrem Partner Center-Profil keine neuen Lösungen hinzufügen.
 
 Weitere Informationen zu Partner Center-Marketingprofilen finden Sie auf der [Hauptseite für Partner Center-Profile](https://partnercenter.microsoft.com/pcv/publishing). Dort können Sie auch die Ergebnisse des Imports Ihres Pinpoint-Profils anzeigen. Weitere Informationen zum Erstellen von Marketingprofilen in Pinpoint finden Sie unter [Erstellen eines Marketingprofils für Ihr Unternehmen](create-a-marketing-profile.md).)
 

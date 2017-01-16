@@ -1,6 +1,6 @@
 ---
-title: Migrieren von Dynamics AX-Abonnements zu Dynamics365 | Partner Center
-description: "Microsoft führt Dynamics365 ein, die nächste Generation intelligenter Unternehmensanwendungen, mit denen Ihre Organisation wachsen, sich entwickeln und transformiert werden kann, um die Anforderungen Ihrer Kunden zu erfüllen und neue Geschäftschancen zu nutzen."
+title: "Migrieren von Dynamics AX-Abonnements zu Dynamics 365 | Partner Center"
+description: "Microsoft führt Dynamics 365 ein, die nächste Generation intelligenter Unternehmensanwendungen, mit denen Ihre Organisation wachsen, sich entwickeln und transformiert werden kann, um die Anforderungen Ihrer Kunden zu erfüllen und neue Geschäftschancen zu nutzen."
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 translationtype: Human Translation
@@ -12,13 +12,13 @@ ms.openlocfilehash: 1d17213d3b591056d6af2dd1855d6c52a17801f5
 # Migrieren von Dynamics AX-Abonnements zu Dynamics 365
 
 
-Microsoft führt Dynamics365 ein, die nächste Generation intelligenter Unternehmensanwendungen, mit denen Ihre Organisation wachsen, sich entwickeln und transformiert werden kann, um die Anforderungen Ihrer Kunden zu erfüllen und neue Geschäftschancen zu nutzen. Im Rahmen des neuen Produkts führt Microsoft am 1.November2016 neue Microsoft Dynamics-Abonnementpläne für Kunden ein, die den aktuellen Plänen zwar ähnlich, jedoch nicht mit diesen identisch sind.
+Microsoft führt Dynamics 365 ein, die nächste Generation intelligenter Unternehmensanwendungen, mit denen Ihre Organisation wachsen, sich entwickeln und transformiert werden kann, um die Anforderungen Ihrer Kunden zu erfüllen und neue Geschäftschancen zu nutzen. Im Rahmen des neuen Produkts führt Microsoft am 1. November 2016 neue Microsoft Dynamics-Abonnementpläne für Kunden ein, die den aktuellen Plänen zwar ähnlich, jedoch nicht mit diesen identisch sind.
 
-Die Anweisungen in diesem Dokument beschrieben, wie indirekte Anbieter vorhandene Microsoft Dynamics AX-Abonnements von Kunden zum neuen Microsoft Dynamics365 migrieren können. Die Anweisungen gelten auch für andere Microsoft-Produkte, die auf neue Versionen aktualisiert werden, sodass Anbieter Kundenabonnements zu einer neuen SKU migrieren müssen.
+Die Anweisungen in diesem Dokument beschrieben, wie indirekte Anbieter vorhandene Microsoft Dynamics AX-Abonnements von Kunden zum neuen Microsoft Dynamics 365 migrieren können. Die Anweisungen gelten auch für andere Microsoft-Produkte, die auf neue Versionen aktualisiert werden, sodass Anbieter Kundenabonnements zu einer neuen SKU migrieren müssen.
 
 **Änderungen für die Microsoft Dynamics AX-Lizenzierung**
 
-Die Microsoft Dynamics AX-Produktlinie wird mit Wirkung vom 1.November2016 eingestellt. Weitere Informationen zu den neuen Lizenzierungsoptionen für Dynamics365 finden Sie im Lizenzierungshandbuch, das in Kürze veröffentlicht wird. Die folgende Tabelle enthält Details zur Lizenzzuordnung:
+Die Microsoft Dynamics AX-Produktlinie wird mit Wirkung vom 1. November 2016 eingestellt. Weitere Informationen zu den neuen Lizenzierungsoptionen für Dynamics 365 finden Sie im Lizenzierungshandbuch, das in Kürze veröffentlicht wird. Die folgende Tabelle enthält Details zur Lizenzzuordnung:
 
 <table>
 <colgroup>
@@ -32,8 +32,8 @@ Die Microsoft Dynamics AX-Produktlinie wird mit Wirkung vom 1.November2016 einge
 </tr>
 <tr class="even">
 <td><p>Dynamics AX Enterprise</p></td>
-<td><p>Dynamics365 Enterprise Edition Plan2</p>
-<p>ODER Dynamics365 for Operations</p></td>
+<td><p>Dynamics 365 Enterprise Edition Plan 2</p>
+<p>ODER Dynamics 365 for Operations</p></td>
 </tr>
 <tr class="odd">
 <td><p>Dynamics AX Task</p></td>
@@ -54,7 +54,7 @@ Die Microsoft Dynamics AX-Produktlinie wird mit Wirkung vom 1.November2016 einge
 
 **Microsoft Dynamics CRM Online**
 
-Der aktuelle Microsoft Dynamics CRM Online-Plan wird mit Wirkung vom 1.November2016 eingestellt. Weitere Informationen zu neuen Lizenzierungsoptionen finden Sie unter [Wichtige Informationen für CRM Online-Kunden](https://go.microsoft.com/fwlink/?linkid=831667).
+Der aktuelle Microsoft Dynamics CRM Online-Plan wird mit Wirkung vom 1. November 2016 eingestellt. Weitere Informationen zu neuen Lizenzierungsoptionen finden Sie unter [Wichtige Informationen für CRM Online-Kunden](https://go.microsoft.com/fwlink/?linkid=831667).
 
 ## Migrieren von Kunden zu neuen Produktplänen
 
@@ -65,26 +65,26 @@ Microsoft bietet Wiederverkäufern und Anbietern kontinuierlich neue Produkte un
 -   [Neuzuweisen der aktuellen Benutzerlizenzen](#manual-subscription-migration-reassignlicenses);
 -   [Stornieren des alten Abonnements](#manual-subscription-migration-cancelsubscriptions).
 
-Mit den folgenden Verfahren migrieren Sie einen Kunden von Dynamics AX7 Enterprise zu Dynamics365 for Operations.
+Mit den folgenden Verfahren migrieren Sie einen Kunden von Dynamics AX7 Enterprise zu Dynamics 365 for Operations.
 
 <a href="" id="purchasenewsubsc"></a>
-Der Wiederverkäufer muss einen Kunden mit einem vorhandenen Dynamics AX Enterprise-Abonnement zu Dynamics365 for Operations migrieren. Der erste Schritt besteht im Kauf von Dynamics365 for Operations.
+Der Wiederverkäufer muss einen Kunden mit einem vorhandenen Dynamics AX Enterprise-Abonnement zu Dynamics 365 for Operations migrieren. Der erste Schritt besteht im Kauf von Dynamics 365 for Operations.
 
 **Kauf des neuen Abonnements**
 
-1.  Wählen Sie im Menü **Dashboard ****Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend **Abonnements hinzufügen** aus.
-2.  Wählen Sie aus dem Katalog das Abonnement aus, das Sie kaufen möchten (in diesem Fall Dynamics365 for Operations Enterprise Edition), kaufen Sie die nötigen Anzahl von Lizenzen, und wählen Sie **Übermitteln** aus.
+1.  Wählen Sie im Menü **Dashboard**&nbsp;**Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend **Abonnements hinzufügen** aus.
+2.  Wählen Sie aus dem Katalog das Abonnement aus, das Sie kaufen möchten (in diesem Fall Dynamics 365 for Operations Enterprise Edition), kaufen Sie die nötigen Anzahl von Lizenzen, und wählen Sie **Übermitteln** aus.
 
-    Ihr Kunde sollte nun alte und neue Abonnements besitzen. In diesem Beispiel sind dies das alte Dynamics AX Enterprise-Abonnement und das neue Abonnement von Dynamics365 for Operations Enterprise Edition.
+    Ihr Kunde sollte nun alte und neue Abonnements besitzen. In diesem Beispiel sind dies das alte Dynamics AX Enterprise-Abonnement und das neue Abonnement von Dynamics 365 for Operations Enterprise Edition.
 
 <a href="" id="reassignlicenses"></a>
 Im nächsten Schritt werden alle vorhandenen Benutzerlizenzen dem neuen Abonnement neu zugewiesen.
 
 **Neuzuweisen von Benutzerlizenzen**
 
-1.  Wählen Sie im Menü **Dashboard ****Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend **Benutzer und Lizenzen** aus. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
+1.  Wählen Sie im Menü **Dashboard**&nbsp;**Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend **Benutzer und Lizenzen** aus. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
 2.  Um Benutzerlizenzen neu zuzuweisen, wählen Sie den Benutzer aus, der neu zugewiesen werden soll, und anschließend **Verwalten von Lizenzen**.
-3.  Deaktivieren Sie auf der Seite **Verwalten von Lizenzen** das Kontrollkästchen für die Lizenz **Dynamics AX Enterprise**, und wählen Sie die Lizenz **Dynamics365 for Operations** aus.
+3.  Deaktivieren Sie auf der Seite **Verwalten von Lizenzen** das Kontrollkästchen für die Lizenz **Dynamics AX Enterprise**, und wählen Sie die Lizenz **Dynamics 365 for Operations** aus.
 4.  Wählen Sie **Übermitteln** aus. Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt.
 5.  Führen Sie diese Schritte für alle Benutzer des Kunden aus, deren Lizenz neu zugewiesen werden muss.
 
@@ -93,11 +93,11 @@ Nachdem Sie die Benutzerlizenzen zum neuen Dienst migriert haben, können Sie da
 
 **Stornieren des alten Abonnements.**
 
-1.  Wählen Sie im Menü **Dashboard ****Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend das Abonnement aus, das Sie stornieren möchten.
+1.  Wählen Sie im Menü **Dashboard**&nbsp;**Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend das Abonnement aus, das Sie stornieren möchten.
 2.  Legen Sie auf der Seite für Abonnementdetails **Status** auf **Ausgesetzt** fest.
 3.  Wählen Sie **Übermitteln** aus.
 
-Das alte Abonnement ist nun ausgesetzt, und das neue Abonnement ist aktiv. Die Bereitstellung des ausgesetzten Abonnements wird nach 120Tagen automatisch aufgehoben. Für den Kunden fallen für das alte Abonnement keine zusätzlichen Kosten an.
+Das alte Abonnement ist nun ausgesetzt, und das neue Abonnement ist aktiv. Die Bereitstellung des ausgesetzten Abonnements wird nach 120 Tagen automatisch aufgehoben. Für den Kunden fallen für das alte Abonnement keine zusätzlichen Kosten an.
 
 ## Weitere Aspekte
 

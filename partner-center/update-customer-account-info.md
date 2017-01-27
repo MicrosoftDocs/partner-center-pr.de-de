@@ -1,16 +1,20 @@
 ---
-title: Aktualisieren von Kundenkontoinformationen | Partner Center
+title: Aktualisieren der Kundenkontoinformationen | Partner Center
 description: "Sie können die Abrechnungsinformationen eines Kunden und weitere Unternehmensdetails in Partner Center aktualisieren."
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 7fa9220ee66fc207f34dbcc4782247ba88701232
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 7150ff922dd87b50dc67d8c00ebc6db1c4036b6d
 
 ---
 
-# Aktualisieren von Kundenkontoinformationen
+# Aktualisieren der Kundenkontoinformationen
 
+**Betrifft**
+
+-  Partner Center
+-  Partner Center für Microsoft-Cloud Deutschland
 
 Sie können die Abrechnungsinformationen eines Kunden und weitere Unternehmensdetails in Partner Center aktualisieren.
 
@@ -29,6 +33,6 @@ Sie können die Abrechnungsinformationen eines Kunden und weitere Unternehmensde
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

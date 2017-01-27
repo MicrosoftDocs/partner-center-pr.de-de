@@ -4,13 +4,16 @@ description: "Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr U
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: b1c82f315a00ac275af576d084fca1b43e666716
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 
 ---
 
 # Steigerung von Einführungsrate und Zufriedenheit
 
+**Betrifft**
+
+-  Partner Center
 
 Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wächst und auf welche Bereiche sie ihre Investitionen konzentrieren sollten. Das Partner Center liefert ihnen Informationen darüber, ob und wie die Kunden die erworbenen Lizenzen nutzen. Die Informationen sind für Office-Produkte (einschließlich OneDrive for Business, das mit SharePoint als eine Position gezählt wird) verfügbar.
 
@@ -30,9 +33,9 @@ Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wä
 
 Terminologie:
 
--   **Berechtigung** Eine Lizenz, zu deren Verwendung der Benutzer berechtigt ist (die also z.B. nicht wegen Betrugs oder Nichtbezahlung ausgesetzt, auf eine andere Lizenz aktualisiert, vom Benutzer storniert wurde usw.).
+-   **Berechtigung** Eine Lizenz, zu deren Verwendung der Benutzer berechtigt ist (die also z. B. nicht wegen Betrugs oder Nichtbezahlung ausgesetzt, auf eine andere Lizenz aktualisiert, vom Benutzer storniert wurde usw.).
 
--   **Aktiv** Der Abonnent hat die Berechtigung in den letzten 28Kalendertagen für eine Aufgabe genutzt.
+-   **Aktiv** Der Abonnent hat die Berechtigung in den letzten 28 Kalendertagen für eine Aufgabe genutzt.
 
 -   **Bereitstellung %** = zugewiesene Lizenzen/verkaufte Lizenzen
 
@@ -83,6 +86,6 @@ Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Za
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,13 +4,17 @@ description: "Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 9fd2f33c50c767e55e93295f39d9603afacf4ae4
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
 
 ---
 
 # Steuern und Steuerbefreiungen
 
+**Betrifft**
+
+-  Partner Center
+-  Partner Center für Microsoft-Cloud Deutschland
 
 Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf den Weiterverkauf von Produkten durch Partner konzentriert, ist Microsoft nicht in allen Fällen verpflichtet, bei Partnerrechnungen die Mehrwertsteuer zu berechnen. Die Bestimmungen variieren je nach Land/Region. Partner sollten basierend auf ihrem Handelsstandort und dem ihrer Kunden mit Unterstützung ihres Steuerberaters die geeigneten Steuerbefreiungen beantragen. Um nachzuweisen, dass sein Microsoft-Handelspartnerkonto steuerbefreit ist, sollte der Partner die Bescheinigung zur Umsatzsteuerbefreiung an Microsoft übermitteln.
 
@@ -75,6 +79,6 @@ Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

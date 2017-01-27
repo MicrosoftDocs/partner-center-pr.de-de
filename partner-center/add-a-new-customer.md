@@ -1,18 +1,22 @@
 ---
-title: "Hinzufügen eines neuen Kunden | Partner Center"
-description: "Damit Sie Abonnements verkaufen, die Abrechnung verwalten oder Support bereitstellen können, müssen Sie einen Datensatz für den Kunden in Partner Center erstellen. Dieser Datensatz enthält die Kontaktinformationen und eine AzureAD-Domäne."
+title: "Neuen Kunden hinzufügen | Partner Center"
+description: "Damit Sie Abonnements verkaufen, die Abrechnung verwalten oder Support bereitstellen können, müssen Sie einen Datensatz für den Kunden in Partner Center erstellen. Dieser Datensatz enthält die Kontaktinformationen und eine Azure AD-Domäne."
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: bae4e34ebed7511c13848826a3059b308abe0388
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 7066cdc60202a842502ca6a7f2e979c14280750b
 
 ---
 
-# Hinzufügen eines neuen Kunden
+# Neuen Kunden hinzufügen
 
+**Betrifft**
 
-Damit Sie Abonnements verkaufen, die Abrechnung verwalten oder Support bereitstellen können, müssen Sie einen Datensatz für den Kunden in Partner Center erstellen. Dieser Datensatz enthält die Kontaktinformationen und eine AzureAD-Domäne.
+-  Partner Center
+-  Partner Center für Microsoft-Cloud Deutschland
+
+Damit Sie Abonnements verkaufen, die Abrechnung verwalten oder Support bereitstellen können, müssen Sie einen Datensatz für den Kunden in Partner Center erstellen. Dieser Datensatz enthält die Kontaktinformationen und eine Azure AD-Domäne.
 
 Für Kunden, die aufgrund eines [Multichannel](multichannel.md)- oder [Multipartner](multipartner.md)-Szenarios bereits ein Kundenkonto besitzen, können Sie [eine Kundenbeziehung anfordern](request-a-relationship-with-a-customer.md), statt die hier aufgeführten Schritte auszuführen.
 
@@ -35,6 +39,6 @@ Details zum Überprüfen der Kundendaten zu einem späteren Zeitpunkt, einschlie
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

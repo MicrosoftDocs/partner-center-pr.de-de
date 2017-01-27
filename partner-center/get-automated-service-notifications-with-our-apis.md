@@ -4,13 +4,16 @@ description: "Office 365 und Microsoft Azure bieten jeweils eine API, die Partne
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 3e61c181c450cb31e167ce3cb8063886ce521aa7
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: 42b29f9cf8c450560284fea39efd0638672f32b1
 
 ---
 
 # Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs
 
+**Betrifft**
+
+-  Partner Center
 
 Office 365 und Microsoft Azure bieten jeweils eine API, die Partner in Echtzeit zum Abrufen der Dienstintegrität, der Message Center-Kommunikationsvorgänge und der geplanten Wartungsereignisse verwenden können. Diese APIs sind öffentlich verfügbar und können von Partnern aufgrund ihrer delegierten Administratorrechte im Auftrag der Kunden verwendet werden.
 
@@ -29,6 +32,6 @@ Azure Insights REST API: [Code-](http://go.microsoft.com/fwlink/p/?LinkId=617299
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

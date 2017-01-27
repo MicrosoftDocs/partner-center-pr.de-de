@@ -1,18 +1,21 @@
 ---
 title: "Sonderpreise für Angebote | Partner Center"
-Description: "Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z.B. für Bildungsinstitute, Wohltätigkeitsorganisationen und Behörden oder sehr große Kundenstämme."
+Description: "Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z. B. für Bildungsinstitute, Wohltätigkeitsorganisationen und Behörden oder sehr große Kundenstämme."
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 8dba4037c4d9703922b05a9d52eef93c914f49bc
+ms.sourcegitcommit: f5fcec2df909ef089846cd7b443a890c7ac2f067
+ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
 
 ---
 
 # Sonderpreise für Angebote
 
+**Betrifft**
 
-Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z.B. für Bildungsinstitute, Wohltätigkeitsorganisationen und Behörden oder sehr große Kundenstämme. Händler müssen zertifiziert sein, um von diesen Preisen profitieren zu können. Der Kunde muss sich zudem für den Sonderpreis qualifizieren.
+-  Partner Center
+
+Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z. B. für Bildungsinstitute, Wohltätigkeitsorganisationen und Behörden oder sehr große Kundenstämme. Händler müssen zertifiziert sein, um von diesen Preisen profitieren zu können. Der Kunde muss sich zudem für den Sonderpreis qualifizieren.
 
 **Überprüfen Ihrer Händlerqualifikationen**
 
@@ -56,6 +59,6 @@ Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z.B. 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

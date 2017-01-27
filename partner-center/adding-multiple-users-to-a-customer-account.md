@@ -4,13 +4,16 @@ description: "Sie können dem Konto eines Kunden mehrere Benutzer gleichzeitig h
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: d8aa280363bc654170c10ea0497a77bcd1e09e11
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
 
 ---
 
-# Erstellen mehrerer Benutzer für ein Kundenkonto
+# Hinzufügen von mehreren Benutzern zu einem Kundenkonto
 
+**Betrifft**
+
+-  Partner Center
 
 Sie können dem Konto eines Kunden mehrere Benutzer gleichzeitig hinzufügen, indem Sie eine Datendatei im CSV-Format in Partner Center hochladen. Sie können eine Beispieldatendatei aus Partner Center herunterladen und sie für Ihre Zwecke anpassen oder anhand des unten definierten Datenmodells eine neue Datendatei erstellen.
 
@@ -21,7 +24,7 @@ Damit Sie mit dem Massenupload mehrere Benutzer zum Konto eines Kunden hinzufüg
 
 -   Sie müssen über globale Administratorberechtigungen für das Kundenkonto verfügen.
 -   Jeder Benutzer muss eine eindeutige E-Mail-Adresse besitzen, die an die E-Mail-Domäne(n) des Kunden angehängt sind.
--   Sie können bis zu 100Datensätze gleichzeitig hochladen. Wenn Sie mehr als 100Benutzer hinzufügen müssen, erstellen Sie zusätzliche Datendateien, und laden Sie sie hoch.
+-   Sie können bis zu 100 Datensätze gleichzeitig hochladen. Wenn Sie mehr als 100 Benutzer hinzufügen müssen, erstellen Sie zusätzliche Datendateien, und laden Sie sie hoch.
 -   Alle Benutzer müssen sich am gleichen geografischen **Standort** befinden.
 -   Geben Sie nur die unten beschriebenen Daten ein. Zusätzliche Daten führen zu einem Uploadfehler.
 
@@ -30,9 +33,9 @@ Geben Sie die folgenden Daten in die Datendatei ein:
 |                 |                                                                              |                                            |
 |-----------------|------------------------------------------------------------------------------|--------------------------------------------|
 | **Name der Spalte** | **Beschreibung**                                                              | **Einschränkung**                             |
-| Vorname      | Vorname des Benutzers (optionales Feld)                                           | Begrenzung von 50Zeichen                         |
-| Nachname       | Nachname des Benutzers (optionales Feld)                                            | Begrenzung von 50Zeichen                         |
-| Anzeigename    | Der in Partner Center angezeigte Name (erforderliches Feld)                            | Begrenzung von 50Zeichen                         |
+| Vorname      | Vorname des Benutzers (optionales Feld)                                           | Begrenzung von 50 Zeichen                         |
+| Nachname       | Nachname des Benutzers (optionales Feld)                                            | Begrenzung von 50 Zeichen                         |
+| Anzeigename    | Der in Partner Center angezeigte Name (erforderliches Feld)                            | Begrenzung von 50 Zeichen                         |
 | E-Mail           | Geschäftliche E-Mail-Adresse des Benutzers beim Kundenunternehmen (erforderliches Feld)           | Jeder Benutzer muss eine eindeutige E-Mail-Adresse besitzen. |
 | Statusupdate   | Hiermit wird angegeben, ob der Datensatz des neuen Benutzers erfolgreich erstellt wurde. | \*\*Keine Angabe\*\*                        |
 
@@ -69,6 +72,6 @@ Partner Center ordnet den neuen Benutzern automatisch die Berechtigungen **Can u
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

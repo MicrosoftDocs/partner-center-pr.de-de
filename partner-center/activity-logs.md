@@ -4,13 +4,17 @@ description: "Aktivitätsprotokolle enthalten Informationen zu Transaktionen und
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: eafa7a85ecea207bbdbd01809bdc4c47d0b8fd97
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
 
 ---
 
 # Anzeigen von Kundenaktivitätsprotokollen
 
+**Betrifft**
+
+-  Partner Center
+-  Partner Center für Microsoft-Cloud Deutschland
 
 Aktivitätsprotokolle enthalten Informationen zu Transaktionen und Partnerverwaltungsaktionen für Kunden. Protokolle für Transaktionen bieten detaillierte Informationen zu Transaktionen, einschließlich zahlungspflichtiger Abonnements. Sie können Aktivitätsprotokolle auch in eine mit Excel kompatible durch Trennzeichen getrennte Datei (.csv) exportieren.
 
@@ -26,7 +30,7 @@ Aktivitätsprotokolle enthalten Datensätze für Partneraktionen für Kundenkont
 
     Wählen Sie für ein beliebiges Aktivitätsprotokoll den Pfeil nach unten, um Details zu einer protokollierten Aktion anzuzeigen. Ein einzelnes Aktivitätsprotokoll kann eine große Menge von Daten enthalten, beispielsweise Daten zur Bestellung mehrerer Produkte.
 
-3.  Wählen Sie **Export Log**. Partner Center konvertiert die Abonnementdaten des Kunden in eine CSV-Datei und lädt sie in den Standarddownloadordner auf Ihrem Computer hoch. Die Datei enthält u.a. folgende Datenspalten:
+3.  Wählen Sie **Export Log**. Partner Center konvertiert die Abonnementdaten des Kunden in eine CSV-Datei und lädt sie in den Standarddownloadordner auf Ihrem Computer hoch. Die Datei enthält u. a. folgende Datenspalten:
     -   **Affected customer**: Firmenname des Kunden
     -   **Aktion**: Produktname für das Abonnement
     -   **Partnerbenutzer**: Der der Aktivität zugeordnete Partner
@@ -42,6 +46,6 @@ Aktivitätsprotokolle enthalten Datensätze für Partneraktionen für Kundenkont
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

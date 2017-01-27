@@ -4,17 +4,32 @@ description: "Jedes Jahr besuchen Millionen von qualifizierten potenziellen Kund
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 1b1eb67c279511fa8cff391140e00145b186601d
+ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
+ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
 
 ---
 
 # Erstellen eines Marketingprofils
 
+**Betrifft**
+
+-  Partner Center
 
 Jedes Jahr besuchen Millionen von qualifizierten potenziellen Kunden die Webpräsenzen von Microsoft. Wir unterstützen Sie durch Zusammenfassen Ihrer Lösungen für Kunden beim Wachstum Ihres Unternehmens. Microsoft-Empfehlungen helfen Ihnen dabei, eine Verbindung mit Kunden herzustellen, die sich für Ihre einzigartigen Lösungen zum Erfüllen ihrer geschäftlichen Bedürfnisse interessieren. Erstellen Sie ein Marketingprofil in Partner Center, um teilzunehmen.
 
 Falls Sie ein Pinpoint-Konto besitzen, [können Sie Ihr Pinpoint-Marketingprofil in Partner Center importieren](importing-pinpoint-profiles-into-partner-center.md).
+
+**Wichtige Informationen für Partner, die Profile auf Pinpoint verwalten**
+
+Wie Sie vielleicht wissen, bemüht sich Microsoft, seinen Partnern neue und verbesserte Features anzubieten, um deren Profile zu veröffentlichen und zu verwalten. Alle Partnerprofile werden letztlich auf dieses neue Feature migrieren und Pinpoint wird Ende 2017 offline geschaltet.
+
+Wir danken Ihnen für Ihre Geduld, während wir dieses interessante Upgrade durchführen. Während des Prozesses werden wir Updates und Hinweise anbieten. Bitte beachten Sie in der Zwischenzeit Folgendes:
+
+-   Wenn sich Ihr Profil auf [manage.pinpoint.com](https://go.microsoft.com/fwlink/?linkid=838399) befindet und Sie dies ändern möchten, [Melden Sie sich hier](https://go.microsoft.com/fwlink/?linkid=838394) für das Tool an.
+-   Wenn Sie beim Microsoft-[Clouddienstanbieter](https://go.microsoft.com/fwlink/?linkid=838395)-Programm (CSP) angemeldet sind, melden Sie sich bitte im [Partner Center](https://go.microsoft.com/fwlink/?linkid=838396) an. Sie können entweder ein neues Profil erstellen oder Ihr vorhandenes Pinpoint-Profil importieren. Beachten Sie, dass jegliche Änderungen an Ihrem Profil vor dem Import vorgenommen werden müssen. Weitere Informationen finden Sie weiter unten.
+-   Wenn Sie Ihr Profil nicht ändern können, wenden Sie sich an Ihr [Regionales Servicecenter](https://go.microsoft.com/fwlink/?linkid=838398). 
+
+**Kundenrezensionen:** Im Rahmen des geplanten Wechsels von Pinpoint auf Partner Center wurde die vorherige Kundenrezensions-Eintragsfunktion eingestellt. Der Zugriff auf Kundenrezensionen steht Partnern daher nicht mehr zur Verfügung. Es wurde vor dem Entfernen der Funktion und der dazugehörigen Rezensionen eine Mitteilung an alle betroffenen E-Mail-Kontakte der Partner gesendet. Wir planen, das System in naher Zukunft durch ein stabileres und zuverlässigeres zu ersetzen.
 
 **Erstellen eines Marketingprofils**
 
@@ -25,7 +40,7 @@ Falls Sie ein Pinpoint-Konto besitzen, [können Sie Ihr Pinpoint-Marketingprofil
 ## Profilrichtlinien
 
 
--   Ihr Profil kann bis zu 2500Zeichen lang sein, aber knapp formulierte Profile sind häufig am effektivsten.
+-   Ihr Profil kann bis zu 2500 Zeichen lang sein, aber knapp formulierte Profile sind häufig am effektivsten.
 
 -   Beschreiben Sie Ihre Qualifikationen und Erfahrungen oder die Ihres Unternehmens.
 
@@ -52,7 +67,7 @@ Falls Sie ein Pinpoint-Konto besitzen, [können Sie Ihr Pinpoint-Marketingprofil
 
 5.  **Zeigen, dass Sie die Kundenwünsche kennen** Konzentrieren Sie sich auf wertorientierte Begriffe und die Vorteile, die Ihr Angebot den Kunden eröffnet, nicht auf Prozesse oder Softwarefeatures.
 
-6.  **Aktive Sprache verwenden** Schreiben Sie mit Verben und Aktionsanweisungen. Vermeiden Sie passive Sprache wie „Wir haben Expertise bereitgestellt..."
+6.  **Aktive Sprache verwenden** Schreiben Sie mit Verben und Aktionsanweisungen. Vermeiden Sie passive Sprache wie „Wir haben Expertise bereitgestellt ..."
 
 7.  **Aufzählungspunkte verwenden** Teilen Sie sequenzierte Informationen (a, b, c, d, usw.) in Aufzählungen auf, um das Überfliegen zu erleichtern.
 
@@ -65,7 +80,7 @@ Falls Sie ein Pinpoint-Konto besitzen, [können Sie Ihr Pinpoint-Marketingprofil
 ## Verwandte Themen
 
 
-[Übergang von Pinpoint zu Partner Center](importing-pinpoint-profiles-into-partner-center.md)
+[Wechsel von Pinpoint zu Partner Center](importing-pinpoint-profiles-into-partner-center.md)
 
  
 
@@ -76,6 +91,6 @@ Falls Sie ein Pinpoint-Konto besitzen, [können Sie Ihr Pinpoint-Marketingprofil
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

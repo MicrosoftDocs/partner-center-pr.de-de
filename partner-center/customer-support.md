@@ -4,13 +4,17 @@ description: "Sie sind die erste Anlaufstelle für Ihre Kunden, und es wird erwa
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 8be0016bb5a2d3c383e58847f60762933b382bc4
-ms.openlocfilehash: 69e9c76355c5e94509abe2dc689025b943d8d719
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 6541bd47fb66d9e51163b178d4b377b9e3714ccb
 
 ---
 
 # Kundensupport
 
+**Betrifft**
+
+-  Partner Center
+-  Partner Center für Microsoft-Cloud Deutschland
 
 Sie sind die erste Anlaufstelle für Ihre Kunden, und es wird erwartet, dass Sie die folgenden technischen und kontospezifischen Supportleistungen für Ihre Kunden bereitstellen:
 
@@ -29,7 +33,7 @@ Cloudlösungsanbieter müssen eine klare Beschreibung davon bereitstellen, wie K
 ## <a href="" id="supportingtrainingcustomers"></a>Support und Schulungen für Kunden
 
 
-Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Zahlen der zunehmenden Verbreitung für Ihr Konto niedrig sind oder Sie nach weiteren Möglichkeiten für Zusatzverkäufe suchen, sollten Sie in Betracht ziehen, Schulungen anzubieten. Indem Sie Ihren Kunden beibringen, wie sie die von ihnen erworbene Cloudlösungssoftware besser nutzen können, werden Sie wahrscheinlich eine Zunahme der Produktivität und Zufriedenheit sowie eine Abnahme der Supportanfragen feststellen können. Vorschläge und Tipps finden Sie unter [Zunehmende Verbreitung und Zufriedenheit](increasing-adoption-and-satisfaction.md).
+Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Zahlen der zunehmenden Verbreitung für Ihr Konto niedrig sind oder Sie nach weiteren Möglichkeiten für Zusatzverkäufe suchen, sollten Sie in Betracht ziehen, Schulungen anzubieten. Indem Sie Ihren Kunden beibringen, wie sie die von ihnen erworbene Cloudlösungssoftware besser nutzen können, werden Sie wahrscheinlich eine Zunahme der Produktivität und Zufriedenheit sowie eine Abnahme der Supportanfragen feststellen können. Vorschläge und Tipps finden Sie unter [Steigerung von Einführungsrate und Zufriedenheit](increasing-adoption-and-satisfaction.md).
 
 ## Kundensupport
 
@@ -53,6 +57,6 @@ Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Za
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

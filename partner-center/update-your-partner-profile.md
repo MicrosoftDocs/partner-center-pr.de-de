@@ -4,13 +4,17 @@ description: "Wenn Sie sich zum ersten Mal als Administrator bei Partner Center 
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 87dcec53f175eb554cb69823a2c0056454ec808a
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
 
 ---
 
 # Aktualisieren von Partnerprofilen
 
+**Betrifft**
+
+-  Partner Center
+-  Partner Center für Microsoft-Cloud Deutschland
 
 Wenn Sie sich zum ersten Mal als Administrator bei Partner Center anmelden, sollten Sie überprüfen, ob die Supportdetails korrekt sind, Steuerbefreiungen beantragen, wenn zutreffend, und die Kontaktinformationen in Ihren Profilen überprüfen.
 
@@ -38,6 +42,6 @@ Wenn Sie sich zum ersten Mal als Administrator bei Partner Center anmelden, soll
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,17 +4,20 @@ description: "Kunden können den Partner im Programm für Cloud-Lösungsanbieter
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 29ced9a3a7256f86f0f8708a4c72ac75b9269ffc
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
 
 ---
 
 # Übertragen von Azure-Abonnements auf einen anderen Partner
 
+**Betrifft**
+
+-  Partner Center
 
 Kunden können den Partner im Programm für Cloud-Lösungsanbieter ändern, den sie für Microsoft Azure-Dienste verwenden möchten. Dies ist jedoch ein manueller Vorgang, der Aktionen von Partnern und Kunden erfordert.
 
-**Hinweis** Zurzeit gibt es keinen automatischen Vorgang, über den Azure-Kunden von EA, Open oder anderen Lizenzierungsprogrammen zu CSP wechseln können. Dies ist ein manueller Vorgang, der Aktionen von Partnern und Kunden erfordert. Darüber hinaus ist es zurzeit nicht möglich, für Office365-, Enterprise Mobility Suite- oder Microsoft Dynamics CRM-Abonnements den Partner im Programm für Cloud-Lösungsanbieter zu ändern.
+**Hinweis** Zurzeit gibt es keinen automatischen Vorgang, über den Azure-Kunden von EA, Open oder anderen Lizenzierungsprogrammen zu CSP wechseln können. Dies ist ein manueller Vorgang, der Aktionen von Partnern und Kunden erfordert. Darüber hinaus ist es zurzeit nicht möglich, für Office 365-, Enterprise Mobility Suite- oder Microsoft Dynamics CRM-Abonnements den Partner im Programm für Cloud-Lösungsanbieter zu ändern.
 
  
 
@@ -32,7 +35,7 @@ Kunden können den Partner im Programm für Cloud-Lösungsanbieter ändern, den 
 
         Wählen Sie in Schritt 1 **Abonnementverwaltung** als Art des Problems aus, geben Sie die ID des Abonnements ein, das Sie übertragen möchten, und wählen Sie **Cloud-Lösungsanbieter** als Supportplan aus.
 
-        Wählen Sie in Schritt2 **C – Minimale Auswirkungen** und anschließend als Problemtyp **Andere allgemeine Fragen** aus.
+        Wählen Sie in Schritt 2 **C – Minimale Auswirkungen** und anschließend als Problemtyp **Andere allgemeine Fragen** aus.
 
         Laden Sie das [Formular für Übertragungen von CSP-Abonnements](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip) herunter.
 
@@ -52,7 +55,7 @@ Kunden können den Partner im Programm für Cloud-Lösungsanbieter ändern, den 
 
 5.  Aktueller CSP-Partner:
 
-    Stellen Sie sicher, dass das Formular Kontaktinformationen für die Administratoren beider Partner enthält. Microsoft Support wird sich an beide Administratoren wenden, um die Übertragung zu verifizieren. Stellen Sie sicher, dass alle drei Unterschriften vorhanden sind, und fügen Sie dann das ausgefüllte Formular über die Option **Dateiupload** der vorhandenen Serviceanfrage hinzu. Ein Microsoft Support-Mitarbeiter wird innerhalb von 8Geschäftsstunden Kontakt mit Ihnen aufnehmen, um Erhalt und Abschluss zu bestätigen.
+    Stellen Sie sicher, dass das Formular Kontaktinformationen für die Administratoren beider Partner enthält. Microsoft Support wird sich an beide Administratoren wenden, um die Übertragung zu verifizieren. Stellen Sie sicher, dass alle drei Unterschriften vorhanden sind, und fügen Sie dann das ausgefüllte Formular über die Option **Dateiupload** der vorhandenen Serviceanfrage hinzu. Ein Microsoft Support-Mitarbeiter wird innerhalb von 8 Geschäftsstunden Kontakt mit Ihnen aufnehmen, um Erhalt und Abschluss zu bestätigen.
 
 6.  Neuer CSP-Partner:
 
@@ -79,6 +82,6 @@ Kunden können den Partner im Programm für Cloud-Lösungsanbieter ändern, den 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

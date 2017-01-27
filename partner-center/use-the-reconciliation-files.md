@@ -1,18 +1,22 @@
 ---
 title: Verwenden der Abstimmungsdateien | Partner Center
-description: "Laden Sie die Abgleichungsdateien aus dem PartnerCenter-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen."
+description: "Laden Sie die Abgleichungsdateien aus dem Partner Center-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 8024efe9149ff224a8b2c7d76f46b664df328a3a
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 
 ---
 
 # Verwenden der Abstimmungsdateien
 
+**Betrifft**
 
-Laden Sie die Abgleichungsdateien aus dem PartnerCenter-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen. Zu diesen Informationen zählen Gebühren für die einzelnen Abonnements von Kunden und ausführliche Ereignisinformationen (wie z.B. das Hinzufügen von Arbeitsplätzen zu einem Abonnement mitten in einem Abrechnungszeitraum).
+-  Partner Center
+-  Partner Center für Microsoft-Cloud Deutschland
+
+Laden Sie die Abgleichungsdateien aus dem Partner Center-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen. Zu diesen Informationen zählen Gebühren für die einzelnen Abonnements von Kunden und ausführliche Ereignisinformationen (wie z. B. das Hinzufügen von Arbeitsplätzen zu einem Abonnement mitten in einem Abrechnungszeitraum).
 
 ## Inhalt dieses Abschnitts
 
@@ -59,7 +63,7 @@ Partner im indirekten Modell können diese zusätzlichen Felder in den beiden li
 ## <a href="" id="licencebasedfiles"></a> Lizenzbasierte Dateifelder
 
 
-Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Sie die Informationen unter Syndication\_Partner\_Subscription\_Number in der Abgleichungsdatei mit der Abonnement-ID aus PartnerCenter.
+Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Sie die Informationen unter Syndication\_Partner\_Subscription\_Number in der Abgleichungsdatei mit der Abonnement-ID aus Partner Center.
 
 <table>
 <colgroup>
@@ -417,22 +421,22 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 <tr class="odd">
 <td>ListPrice</td>
 <td><p>Gültiger Angebotspreis ab Anfangsdatum des Abonnements.</p></td>
-<td>0,0808$</td>
+<td>0,0808 $</td>
 </tr>
 <tr class="even">
 <td>PretaxCharges</td>
 <td><p>ListPrist mal OverageQuantity, auf den nächsten Cent gerundet.</p></td>
-<td>0,085$</td>
+<td>0,085 $</td>
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
 <td><p>USt.-Betrag auf der Grundlage der Steuervorschriften und spezifischen Gegebenheiten Ihres Markts.</p></td>
-<td>0,08$</td>
+<td>0,08 $</td>
 </tr>
 <tr class="even">
 <td>PostTaxTotal</td>
 <td><p>Gesamtbetrag nach Steuern, wo Steuern berechnet werden.</p></td>
-<td>0,93$</td>
+<td>0,93 $</td>
 </tr>
 <tr class="odd">
 <td>Währung</td>
@@ -442,12 +446,12 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 <tr class="even">
 <td>PretaxEffectiveRate</td>
 <td><p>Nettopreis pro Einheit. Gleich PretaxCharges / OverageQuantity, auf den nächsten Cent gerundet.</p></td>
-<td>0,08$</td>
+<td>0,08 $</td>
 </tr>
 <tr class="odd">
 <td>PostTaxEffectiveRate</td>
 <td><p>Bruttopreis pro Einheit. Gleich PostTaxTotal / OverageQuantity oder PretaxEffectiveRate + Steuersatz pro Einheit, auf den nächsten Cent gerundet.</p></td>
-<td>0,08$</td>
+<td>0,08 $</td>
 </tr>
 <tr class="even">
 <td>ChargeType</td>
@@ -503,6 +507,6 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

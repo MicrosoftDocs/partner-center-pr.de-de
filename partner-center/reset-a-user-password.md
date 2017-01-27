@@ -4,15 +4,20 @@ description: "Wenn Benutzer ihr Kennwort vergessen, können Sie ihnen ein neues 
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 6b62003ef9ca7c8d40141a3adaaca5f704eb7fa6
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
 
 ---
 
 # Zurücksetzen von Benutzerkennwörtern
 
+**Betrifft**
 
-Wenn Benutzer ihr Kennwort vergessen, können Sie ihnen ein neues temporäres Kennwort zuweisen. Sie können es für die nächste Anmeldung beim Partner Center verwenden.
+-  Partner Center
+   
+>**Hinweis:** Wenn Sie als Cloud-Lösungsanbieter (CSP) für das Microsoft-Cloud Deutschland-Programm registriert sind, finden Sie unter [Benutzerverwaltung im Partner Center für Microsoft-Cloud Deutschland](user-management-in-partner-center-for-microsoft-cloud-germany.md) Informationen zum Zurücksetzen des Kennworts eines Benutzers.
+
+Wenn Benutzer ihr Kennwort vergessen, weisen Sie ihnen ein neues temporäres Kennwort zu. Sie können es für die nächste Anmeldung beim Partner Center verwenden.
 
 **Zurücksetzen von Benutzerkennwörtern als Administrator**
 
@@ -26,6 +31,7 @@ Wenn Benutzer ihr Kennwort vergessen, können Sie ihnen ein neues temporäres Ke
 **Zurücksetzen des eigenen Kennworts**
 
 1.  Melden Sie sich beim Partner Center an. Wählen Sie dann am oberen Bildschirmrand Ihren Namen aus, und wählen Sie **Mein Profil** aus.
+
 2.  Sie können Ihre eigenen Rollen und Anweisungen zum Ändern Ihres Kennworts anzeigen.
 
  
@@ -37,6 +43,6 @@ Wenn Benutzer ihr Kennwort vergessen, können Sie ihnen ein neues temporäres Ke
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

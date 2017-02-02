@@ -4,15 +4,19 @@ description: "Im Katalog sind alle Microsoft-Produkte und -Add-Ons aufgeführt, 
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 4484ae1e2c38f1e41aecde5e9e261b9f32997ae1
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: c4e1f1813add283f67669cc8ea0cc88fb0bb4610
 
 ---
 
 # Anpassen des Katalogs
 
+**Betrifft**
 
-Im Katalog sind alle Microsoft-Produkte und -Add-Ons aufgeführt, die Partnern zum Verkauf zur Verfügung stehen. Diese Angebote werden nach Kundensegment (z.B. Unternehmen, Kleinunternehmen oder Regierungsbehörden) gruppiert. Wenn Sie Ihren Vertriebsmitarbeitern das Auswählen der Angebote, die von Ihrer Organisation am häufigsten verwendet werden, erleichtern möchten, kann der Administrator entsprechende Angebote am Anfang der Liste hervorheben. Dieses Feature ist auch nützlich, wenn Sie Ihren Vertretern bestimmte Verkaufsanreize anbieten oder neue Angebote präsentieren möchten.
+-  Partner Center
+-  Partner Center für Microsoft-Cloud Deutschland
+
+Im Katalog sind Microsoft-Produkte und -Add-Ons aufgeführt, die Sie Ihren Kunden anbieten können. Diese Angebote werden nach Kundensegment gruppiert, inklusive Unternehmen, Kleinunternehmen oder Regierungsbehörden. Um leichter auf die Angebote zuzugreifen, die Ihre Organisation am häufigsten verwendet oder Ihren Vertriebsmitarbeitern neue Angebote zu präsentieren, können Sie bis zu fünf Angebote am Anfang der Katalogliste anheften.
 
 **Anpassen des Katalogs**
 
@@ -28,6 +32,6 @@ Im Katalog sind alle Microsoft-Produkte und -Add-Ons aufgeführt, die Partnern z
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

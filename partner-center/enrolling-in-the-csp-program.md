@@ -4,13 +4,19 @@ description: "Lesen Sie mehr über die CSP-Programmanforderungen, bevor Sie sich
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: bc49a7d800839a02bee99c99d67068d6f7ceb403
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
 
 ---
 
-# Registrieren für das CSP-Programm (Cloud Solution Provider, Cloud-Lösungsanbieter)
+# Registrieren für das Programm für Cloud-Lösungsanbieter
 
+**Betrifft**
+
+-  Partner Center
+
+>**Hinweis**<br>
+Weitere Informationen zur Registrierung für das Cloud-Lösungsanbieter-Programm für Microsoft-Cloud Deutschland finden Sie unter [Registrierung für das Cloud-Lösungsanbieter-Programm für Microsoft-Cloud Deutschland](enroll-in-csp-for-microsoft-cloud-germany.md) und [Partner Center für Microsoft-Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md).
 
 Lesen Sie mehr über die [CSP-Programmanforderungen]( http://go.microsoft.com/fwlink/p/?LinkId=617116), bevor Sie sich für das Cloud-Lösungsanbieter-Programm registrieren.
 
@@ -46,7 +52,7 @@ Das Programm für Cloud-Lösungsanbieter ist für Unternehmen mit Sitz in den fo
 ## Partner Center-Konto
 
 
-Partner Center erfordert, dass der Administrator Ihres Unternehmens über eine E-Mail-Adresse verfügt, die von Azure AD authentifiziert wurde. Der Administrator kann eines seiner vorhandenen geschäftlichen E-Mail-Kontos von einem Microsoft-Clouddienst, einschließlich Office365, AzureAD, Microsoft Intune, Enterprise Mobility Services usw. verwenden. Durch den Prozess des Bewerbens als Händler wird diese E-Mail-Adresse in die Administrator-E-Mail für ein Händlerkonto umgewandelt.
+Partner Center erfordert, dass der Administrator Ihres Unternehmens über eine E-Mail-Adresse verfügt, die von Azure AD authentifiziert wurde. Der Administrator kann eines seiner vorhandenen geschäftlichen E-Mail-Kontos von einem Microsoft-Clouddienst, einschließlich Office 365, Azure AD, Microsoft Intune, Enterprise Mobility Services usw. verwenden. Durch den Prozess des Bewerbens als Händler wird diese E-Mail-Adresse in die Administrator-E-Mail für ein Händlerkonto umgewandelt.
 
 Beachten Sie, dass die vorhandene, von Azure AD authentifizierte E-Mail-Adresse bereits in einem bestimmten Markt registriert ist. Wenn Sie in einem anderen Markt oder in mehreren Märkten verkaufen möchten, müssen Sie eine separate E-Mail-Adresse erstellen, die in jedem Markt registriert ist, und diese E-Mail-Adressen für die Registrierung verwenden.
 
@@ -59,6 +65,6 @@ Beachten Sie, dass die vorhandene, von Azure AD authentifizierte E-Mail-Adresse 
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

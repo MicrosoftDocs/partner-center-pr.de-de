@@ -4,8 +4,8 @@ description: "Mithilfe der regionalen Autorisierung können international tätig
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 4e069db47de242d8aa3807bc238c5f213c26a1fd
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
 ---
 
@@ -18,8 +18,9 @@ Mithilfe der regionalen Autorisierung können international tätige Partner jetz
 
 In der Vergangenheit mussten Partner in jedem Land physisch präsent sein, in dem sie Transaktionen durchführen wollten, mit Ausnahme der Europäischen Union/EFTA. Das bedeutete, dass Partner mehrere Mandanten mit unterschiedlichen Abrechnungsdaten und weiteren unterschiedlichen Einstellungen in Partner Center einrichten mussten. In Regionen wie Lateinamerika konnten Partner nicht problemlos mit Kunden aus einer benachbarten Region oder einem benachbarten Land arbeiten. In einigen Fällen war dies völlig unmöglich.
 
-## Planen
+>**Hinweis**<br> Wenn Sie für [CSP für Microsoft-Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md) registriert sind und Sie an Kunden in EU- und EFTA-Ländern/Regionen verkaufen, können Sie die Mandanten für Partner Center für Microsoft-Cloud Deutschland nicht mit Ihren anderen Mandanten konsolidieren.  
 
+## Planen
 
 Partner haben mehrere Optionen für die Konsolidierung ihrer regionalen Mandanten. Diese werden im Folgenden beschrieben.
 
@@ -143,9 +144,6 @@ Wenn Sie Mandanten konsolidieren möchten, empfehlen wir Folgendes:
 
 -   **Mehrere Länder/Regionen, Transaktionen jedoch nur in einem Land/einer Region.** Wenn Sie Transaktionen in einer Reihe von Ländern/Regionen durchführen, empfehlen wir eine Konsolidierung auf den Mandanten mit der größten Zahl von Lizenzen. Sie sollten die Abonnements in den Ländern/Regionen stornieren, in denen Sie kleinere Mengen an Lizenzen verwalten.
 
-    **Hinweis** Überprüfen Sie die Richtlinien für die Stornierung von Abonnements in [Mandantenkonsolidierung für regionale CSP-Autorisierung](csp-regional-authorization-tenant-consolidation.md), bevor Sie Abonnements stornieren.
-
-     
 
 ## Informationen zu Ländern/Regionen
 
@@ -161,6 +159,9 @@ Berücksichtigen Sie vor der Konsolidierung von Mandanten die folgenden Punkte:
 -   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Argentinien, Bahamas, Barbados, Belize, Bermuda, Bolivien, Chile, Costa Rica, Curaçao, Dominikanische Republik, Ecuador, El Salvador, Guatemala, Honduras, Jamaika, Kaiman-Inseln, Kolumbien, Mexiko, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, St. Kitts und Nevis, Trinidad und Tobago, Uruguay, Venezuela, Jungferninseln.
 
 -   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Belgien, Bulgarien, Dänemark, Deutschland, Estland, Färöer, Finnland, Frankreich, Griechenland, Irland, Island, Italien, Kroatien, Lettland, Liechtenstein, Litauen, Luxemburg, Malta, Monaco, Niederlande, Norwegen, Österreich, Polen, Portugal, Rumänien, Schweden, Schweiz, Slowakei, Slowenien, Spanien, Tschechische Republik, Ungarn, Vereinigtes Königreich, Zypern.
+
+    >**Hinweis**<br> Wenn Sie für [CSP für Microsoft-Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md) registriert sind und Sie an Kunden in EU- und EFTA-Ländern/Regionen verkaufen, können Sie die Mandanten für Partner Center für Microsoft-Cloud Deutschland nicht mit Ihren anderen Mandanten konsolidieren.  
+
 
 -   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Ägypten, Afghanistan, Albanien, Algerien, Armenien, Aserbaidschan, Bahrain, Belarus, Bosnien und Herzegowina, Georgien, Irak, Israel, Jemen, Jordanien, Kasachstan, Katar, Kuwait, Kirgisien, Libanon, Libyen, Marokko, Republik von Mazedonien (FYROM), Republik Moldau, Mongolei, Montenegro, Oman, Pakistan, Palästinensische Autonomiegebiete, Saudi-Arabien, Serbien, Simbabwe, Südafrika, Tadschikistan, Türkei, Tunesien, Turkmenistan, Ukraine, Usbekistan, Vereinigte Arabische Emirate.
 
@@ -191,6 +192,6 @@ Berücksichtigen Sie vor der Konsolidierung von Mandanten die folgenden Punkte:
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

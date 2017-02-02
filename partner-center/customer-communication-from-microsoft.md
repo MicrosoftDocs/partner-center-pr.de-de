@@ -4,13 +4,17 @@ description: "Im Allgemeinen wird davon ausgegangen, dass die Cloud-Lösungsanbi
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: da25e037b1eaebc4327eb643a7b5717ae1301a41
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 2f30083f5acf278a651baaae5318938fe72cadaa
 
 ---
 
 # Kundenkommunikation von Microsoft
 
+**Betrifft**
+
+-  Partner Center
+-  Partner Center für Microsoft-Cloud Deutschland
 
 Im Allgemeinen wird davon ausgegangen, dass die Cloud-Lösungsanbieter-Partner die gesamte Kommunikation mit dem Kunden übernehmen. Da Sie die Abrechnung mit dem Kunden direkt abwickeln, übernimmt Microsoft keinerlei Kommunikation mit ihren Kunden, die mit Abonnements zusammenhängen.
 
@@ -27,6 +31,6 @@ Für Kunden, die bereits über eine Geschäftsbeziehung mit Microsoft verfügen,
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

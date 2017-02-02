@@ -1,13 +1,12 @@
-
-# [Registrieren für das CSP-Programm](enrolling-in-the-csp-program.md)
-## [Wechsel von Pinpoint zu Partner Center](importing-pinpoint-profiles-into-partner-center.md)
-## [CSP-Verträge, Preislisten und Angebote](csp-documents-and-learning-resources.md)
-# [Verwalten des PartnerCenter-Kontos](partner-center-account-setup.md)
+# [Registrieren für das CSP-Programm (Cloud Solution Provider, Cloud-Lösungsanbieter)](enrolling-in-the-csp-program.md)
+## [CSP-Vereinbarungen, Preislisten und Angebote](csp-documents-and-learning-resources.md)
+# [Verwalten des Partner Center-Kontos](partner-center-account-setup.md)
 ## [Aktualisieren von Partnerprofilen](update-your-partner-profile.md)
-## [Erstellen von Benutzerkonten und Festlegen von Berechtigungen](create-user-accounts-and-set-permissions.md)
-## [Wiederherstellen ausgesetzter PartnerCenter-Konten](suspended-partner-center-account.md)
-## [Zurücksetzen von Benutzerkennwörtern](reset-a-user-password.md)
+## [Wechsel von Pinpoint zu Partner Center](importing-pinpoint-profiles-into-partner-center.md)
 ## [Erstellen eines Marketingprofils](create-a-marketing-profile.md)
+## [Erstellen von Benutzerkonten und Festlegen von Berechtigungen](create-user-accounts-and-set-permissions.md)
+## [Wiederherstellen ausgesetzter Partner Center-Konten](suspended-partner-center-account.md)
+## [Zurücksetzen von Benutzerkennwörtern](reset-a-user-password.md)
 ## [Anzeigen von Angeboten und Preisen](see-offers-and-pricing.md)
 ## [Anpassen des Katalogs](customize-the-catalog.md)
 # [Abrechnung](billing.md)
@@ -20,9 +19,9 @@
 ## [PSTN-Dienste](o365-e5-in-csp-advisory.md)
 # [Kundenkonten](customer-accounts.md)
 ## [Anzeigen der Kundenliste](see-your-customer-list.md)
-## [Hinzufügen eines neuen Kunden](add-a-new-customer.md)
+## [Neuen Kunden hinzufügen](add-a-new-customer.md)
 ## [Übertragen von Azure-Abonnements auf einen anderen Partner](switch-azure-subscriptions-to-a-different-partner.md)
-## [Aktualisieren von Kundenkontoinformationen](update-customer-account-info.md)
+## [Aktualisieren der Kundenkontoinformationen](update-customer-account-info.md)
 ## [Erstellen mehrerer Benutzer für einen Kunden](adding-multiple-users-to-a-customer-account.md)
 # [Kundenabonnements](customer-subscriptions.md)
 ## [Erstellen eines neuen Abonnements](create-a-new-subscription.md)
@@ -30,10 +29,10 @@
 ## [Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer](bulk-license-provisioning-for-multiple-users.md)
 ## [Aussetzen eines Abonnements](suspend-a-subscription.md)
 ## [Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement](add-licenses-or-services-to-an-existing-subscription.md)
-## [Abrufen von Sonderpreisen für Angebote](get-special-pricing-for-offers.md)
+## [Sonderpreise für Angebote](get-special-pricing-for-offers.md)
 ## [Steigerung von Einführungsrate und Zufriedenheit](increasing-adoption-and-satisfaction.md)
 ## [Übersicht über die regionale CSP-Autorisierung](regional-authorization-overview.md)
-## [Mandantenkonsolidierung für die regionale CSP-Autorisierung](csp-regional-authorization-tenant-consolidation.md)
+## [Mandantenkonsolidierung für regionale CSP-Autorisierung](csp-regional-authorization-tenant-consolidation.md)
 # [Zusammenarbeit mit anderen Partnern](work-with-other-partners.md)
 ## [Multichannel](multichannel.md)
 ## [Multipartner](multipartner.md)
@@ -50,8 +49,12 @@
 ## [Kundenselbsthilfe](customer-self-support.md)
 ## [Eskalieren von Problemen an Microsoft](escalate-problems-to-microsoft.md)
 # [Vorlagen für Kundenverträge](agreements.md)
+# [Partner Center für Microsoft-Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md)
+## [Registrieren für das Partner Center für Microsoft-Cloud Deutschland](enroll-in-csp-for-microsoft-cloud-germany.md)
+## [Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland](user-management-in-partner-center-for-microsoft-cloud-germany.md)
 
 
-<!--HONumber=Nov16_HO4-->
+
+<!--HONumber=Jan17_HO2-->
 
 

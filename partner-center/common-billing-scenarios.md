@@ -4,13 +4,17 @@ description: "In diesem Thema wird erläutert, was auf Ihrer Rechnung nach dem H
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 877f2d0e773fc7a42ddb8f62fa320be94b5921a8
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
 
 ---
 
 # Allgemeine Abrechnungsszenarien
 
+**Betrifft**
+
+-  Partner Center
+-  Partner Center für Microsoft-Cloud Deutschland
 
 In diesem Thema wird erläutert, was auf Ihrer Rechnung nach dem Hinzufügen neuer Abonnements, dem Anpassen der Arbeitsplätze für ein Abonnement oder dem Kündigen eines Abonnements angezeigt werden sollte. Die Auswirkungen fallen für nutzungsbasierte und lizenzbasierte Abonnements unterschiedlich aus.
 
@@ -139,6 +143,6 @@ Rückerstattung der im Voraus anfallenden Gebühren für den gesamten Monatszeit
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

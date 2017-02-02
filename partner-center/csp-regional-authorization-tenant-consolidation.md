@@ -4,13 +4,17 @@ description: "Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschi
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 5d4b1acaa23f37df8fe66166f932956526e75271
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
 
 ---
 
 # Mandantenkonsolidierung für regionale CSP-Autorisierung
 
+**Betrifft**
+
+-  Partner Center
+-  Partner Center für Microsoft-Cloud Deutschland
 
 \[Einige Informationen beziehen sich auf die Vorabversion, die vor der kommerziellen Freigabe möglicherweise wesentlichen Änderungen unterliegt. Microsoft übernimmt für die hier bereitgestellten Informationen keine Garantie, weder ausdrücklicher noch impliziter Art.\]
 
@@ -34,20 +38,20 @@ Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschiedene Länder/
 
 2.  Wählen Sie die gewünschten Kunden.
 
-3.  Klicken Sie auf **Vertriebspartnerschaft beantragen**. Ihnen wird eine Standard-E-Mail-Nachricht für die Weiterleitung an Ihre Kunden angezeigt. Diese Nachricht enthält eine URL mit der Organisations-ID für Ihr neues PartnerCenter-Konto.
+3.  Klicken Sie auf **Vertriebspartnerschaft beantragen**. Ihnen wird eine Standard-E-Mail-Nachricht für die Weiterleitung an Ihre Kunden angezeigt. Diese Nachricht enthält eine URL mit der Organisations-ID für Ihr neues Partner Center-Konto.
 
-4.  **Kundenaktion:** Stellen Sie sicher, dass alle aktiven Kunden, die Sie migrieren möchten, diese URL aufrufen. Beim Öffnen der URL wird der Kunde zur Anmeldung beim Office365-Portal aufgefordert. Der Kunde meldet sich mit der gleichen Organisations-ID an, mit der er auch auf die Verwaltungsportale von Azure und Office365 zugreift.
+4.  **Kundenaktion:** Stellen Sie sicher, dass alle aktiven Kunden, die Sie migrieren möchten, diese URL aufrufen. Beim Öffnen der URL wird der Kunde zur Anmeldung beim Office 365-Portal aufgefordert. Der Kunde meldet sich mit der gleichen Organisations-ID an, mit der er auch auf die Verwaltungsportale von Azure und Office 365 zugreift.
 
 5.  Nach der Anmeldung wird der globale Administrator für das Kundenkonto aufgefordert, eine Vereinbarung zu übermitteln, um dem neuen CSP-Konto delegierte Administratorrechte zu gewähren. Ist er einverstanden, aktiviert der Kunde das Kontrollkästchen und stimmt damit der Autorisierung der Beziehung zu.
 
 Die Kunden werden nach Übermittlung der Vereinbarung nacheinander in der Kundenliste des Partners angezeigt.
 
-## Migrieren von nutzungsbasierten Office365-Abonnements und anderen nutzungsbasierten Abonnements (nicht Azure)
+## Migrieren von nutzungsbasierten Office 365-Abonnements und anderen nutzungsbasierten Abonnements (nicht Azure)
 
 
 1.  Nachdem der Kunde die Vereinbarung unterzeichnet hat, können Sie die Abonnements unter dem zentralisierten Partnermandanten erneut erstellen.
 
-2.  Klicken Sie auf dem PartnerCenter-Dashboard im linken Navigationsmenü auf **Kunden**.
+2.  Klicken Sie auf dem Partner Center-Dashboard im linken Navigationsmenü auf **Kunden**.
 
 3.  Öffnen Sie den Unternehmensnamen für den Kunden, den Sie migrieren möchten.
 
@@ -69,7 +73,7 @@ Bevor Sie mit dem nächsten Abschnitt fortfahren, stellen Sie sicher, dass alle 
 
  
 
-## Deaktivieren der Office365-Abonnements unter dem Partnerkonto vom Typ „Transitioning From“
+## Deaktivieren der Office 365-Abonnements unter dem Partnerkonto vom Typ „Transitioning From“
 
 
 Durch die Deaktivierung des CSP-Abonnements unter den Partnerkonten vom Typ **Transitioning From** erfolgen keine zukünftigen Abrechnungen mehr. Azure-Abonnements müssen nicht manuell deaktiviert werden, da diese Abonnements während des Migrationsprozesses automatisch deaktiviert werden.
@@ -92,7 +96,7 @@ Durch die Deaktivierung des CSP-Abonnements unter den Partnerkonten vom Typ **Tr
 ## Migrieren von nutzungsbasierten Azure-Abonnements
 
 
-Beachten Sie, dass nutzungsbasierte Azure-CSP-Abonnements nicht wie Office365-CSP-Abonnements manuell migriert werden müssen. Der Microsoft Azure-Support kann die Azure-Abonnements sowie alle bereitgestellten Dienste oder Ressourcen von den CSP-Vertriebspartnerkonten vom Typ **Transitioning From** zum CSP-Vertriebspartnerkonto vom Typ **Transitioning To** migrieren. Während dieses Übergangs treten beim Kunden keine Dienstunterbrechungen auf.
+Beachten Sie, dass nutzungsbasierte Azure-CSP-Abonnements nicht wie Office 365-CSP-Abonnements manuell migriert werden müssen. Der Microsoft Azure-Support kann die Azure-Abonnements sowie alle bereitgestellten Dienste oder Ressourcen von den CSP-Vertriebspartnerkonten vom Typ **Transitioning From** zum CSP-Vertriebspartnerkonto vom Typ **Transitioning To** migrieren. Während dieses Übergangs treten beim Kunden keine Dienstunterbrechungen auf.
 
 1.  Stellen Sie sicher, dass für die Kundenkonten, deren Azure-Abonnements migriert werden müssen, die Vereinbarung für das neue CSP-Konto vom Typ **Transitioning To** akzeptiert wurde.
 2.  Partner informieren Microsoft darüber, welche Kundenkonten mit Azure-Abonnements migriert werden können, und stellen die Firmennamen dieser Kunden bereit.
@@ -159,6 +163,6 @@ Mithilfe des Aktivitätsprotokolls können Partner Informationen zu allen den Ku
 
 
 
-<!--HONumber=Nov16_HO4-->
+<!--HONumber=Jan17_HO2-->
 
 

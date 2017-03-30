@@ -3,13 +3,11 @@ title: CSP-Vereinbarungen, Preislisten und Angebote | Partner Center
 description: "Microsoft veröffentlicht eine Reihe von Dokumenten, die CSP-Partner benötigen, um zu entscheiden, ob sie sich für das Programm registrieren möchten, um neue Kunden zu registrieren, um Microsoft-Produkte und -Dienste an Kunden zu verkaufen und um deren Rechnungen abzustimmen."
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# CSP-Vereinbarungen, Preislisten und Angebote
+# <a name="csp-agreements-price-lists-and-offers"></a>CSP-Vereinbarungen, Preislisten und Angebote
 
 **Betrifft**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
 
 Microsoft veröffentlicht eine Reihe von Dokumenten, die CSP-Partner benötigen, um zu entscheiden, ob sie sich für das Programm registrieren möchten, um neue Kunden zu registrieren, um Microsoft-Produkte und -Dienste an Kunden zu verkaufen und um deren Rechnungen abzustimmen.
 
-## Inhalt dieses Abschnitts
+## <a name="in-this-section"></a>Inhalt dieses Abschnitts
 
 
 -   [Programmleitfaden](#programguide)
@@ -64,7 +62,7 @@ Partner sind dafür verantwortlich sicherzustellen, dass Kunden die Nutzungsbedi
 
 [Vorlagen für Kundenverträge](agreements.md)
 
-## Preise
+## <a name="pricing"></a>Preise
 
 
 Auf der Seite **Vertrieb** können Sie Preisdetails für Partner herunterladen. Es gibt zwei separate Preislisten – eine für lizenzbasierte Dienste, einschließlich Office 365, Enterprise Mobility Suite und Microsoft Dynamics CRM, und eine für nutzungsbasierte Dienste, einschließlich Microsoft Azure.
@@ -73,10 +71,10 @@ Die lizenzbasierte Preisliste wird monatlich aktualisiert, und Microsoft veröff
 
 Die nutzungsbasierten Preise sind dynamisch und ändern sich ständig.
 
-## Angebote
+## <a name="offers"></a>Angebote
 
 
-CSP-Partner können Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM und Microsoft Azure verkaufen. Weitere Informationen dazu, welche SKUs und Produktpakete für den Verkauf innerhalb dieser Produktfamilien verfügbar sind, veröffentlicht Microsoft in der Angebotsmatrix für Cloudhändler auf der Seite **Vertrieb**. Dieses Dokument wird monatlich aktualisiert.
+CSP-Partner können Office365, Enterprise Mobility Suite, Microsoft Dynamics CRM und Microsoft Azure verkaufen. Weitere Informationen dazu, welche SKUs und Produktpakete für den Verkauf innerhalb dieser Produktfamilien verfügbar sind, veröffentlicht Microsoft in der Angebotsmatrix für Cloudhändler auf der Seite **Vertrieb**. Dieses Dokument wird monatlich aktualisiert.
 
 Für CSP-Partner, die die CREST-API für die Nutzungsaufzeichnung verwenden, veröffentlicht Microsoft auf der Seite **Vertrieb** auch eine Liste der Azure-Dienste in CSP.
 
@@ -84,11 +82,5 @@ Für CSP-Partner, die die CREST-API für die Nutzungsaufzeichnung verwenden, ver
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

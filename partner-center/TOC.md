@@ -1,11 +1,11 @@
 # [Registrieren für das CSP-Programm (Cloud Solution Provider, Cloud-Lösungsanbieter)](enrolling-in-the-csp-program.md)
 ## [CSP-Vereinbarungen, Preislisten und Angebote](csp-documents-and-learning-resources.md)
-# [Verwalten des Partner Center-Kontos](partner-center-account-setup.md)
+# [Verwalten des PartnerCenter-Kontos](partner-center-account-setup.md)
 ## [Aktualisieren von Partnerprofilen](update-your-partner-profile.md)
 ## [Wechsel von Pinpoint zu Partner Center](importing-pinpoint-profiles-into-partner-center.md)
 ## [Erstellen eines Marketingprofils](create-a-marketing-profile.md)
 ## [Erstellen von Benutzerkonten und Festlegen von Berechtigungen](create-user-accounts-and-set-permissions.md)
-## [Wiederherstellen ausgesetzter Partner Center-Konten](suspended-partner-center-account.md)
+## [Wiederherstellen ausgesetzter PartnerCenter-Konten](suspended-partner-center-account.md)
 ## [Zurücksetzen von Benutzerkennwörtern](reset-a-user-password.md)
 ## [Anzeigen von Angeboten und Preisen](see-offers-and-pricing.md)
 ## [Anpassen des Katalogs](customize-the-catalog.md)
@@ -52,9 +52,4 @@
 # [Partner Center für Microsoft-Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md)
 ## [Registrieren für das Partner Center für Microsoft-Cloud Deutschland](enroll-in-csp-for-microsoft-cloud-germany.md)
 ## [Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland](user-management-in-partner-center-for-microsoft-cloud-germany.md)
-
-
-
-<!--HONumber=Jan17_HO2-->
-
 

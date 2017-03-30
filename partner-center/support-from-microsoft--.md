@@ -3,13 +3,11 @@ title: Support von Microsoft | Partner Center
 description: "Bei Problemen mit einem Microsoft-Dienst oder mit Partner Center können Sie den Fall an Microsoft eskalieren, um Hilfe zu erhalten, und das Problem nachverfolgen, bis es behoben ist."
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 2be8a2651af3207fd2bb3349b0146a651a8afdb7
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Support von Microsoft
+# <a name="support-from-microsoft"></a>Support von Microsoft
 
 **Betrifft**
 
@@ -30,11 +28,5 @@ Bei Problemen mit einem Microsoft-Dienst oder mit Partner Center können Sie den
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

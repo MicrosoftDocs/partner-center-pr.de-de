@@ -3,13 +3,11 @@ title: Bereitstellen von technischem Support | Partner Center
 description: "Als Partner im Programm für Cloud-Lösungsanbieter verfügen Sie über delegierte Administratorrechte, die Ihnen den Zugriff auf die Umgebungen Ihrer Kunden ermöglichen."
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Bereitstellen von technischem Support
+# <a name="provide-technical-support"></a>Bereitstellen von technischem Support
 
 **Betrifft**
 
@@ -34,7 +32,7 @@ Im Partner Center können Sie folgende Aktionen ausführen:
 
 3.  Wählen Sie im Abschnitt **Dienste verwalten** den Dienst aus, den Sie verwalten müssen, um das Verwaltungsportal für den Dienst zu öffnen.
 
-4.  Wenn Sie ein Problem mit dem jeweiligen Kundenkonto feststellen, z. B. Dienste sind ausgefallen oder weisen eine beeinträchtigte oder fehlerhafte Funktionalität auf, sollten Sie zunächst die Dienstintegrität überprüfen. Siehe [Überprüfen der Dienstintegrität](check-service-health.md).
+4.  Wenn Sie ein Problem mit dem jeweiligen Kundenkonto feststellen, z.B. Dienste sind ausgefallen oder weisen eine beeinträchtigte oder fehlerhafte Funktionalität auf, sollten Sie zunächst die Dienstintegrität überprüfen. Siehe [Überprüfen der Dienstintegrität](check-service-health.md).
 
 5.  Zum Eskalieren eines vorhandenen Problems an Microsoft reichen Sie eine Serviceanfrage ein. Siehe [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md).
 
@@ -42,11 +40,5 @@ Im Partner Center können Sie folgende Aktionen ausführen:
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

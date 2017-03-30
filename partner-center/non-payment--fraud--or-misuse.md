@@ -3,13 +3,11 @@ title: Nichtbezahlung, Betrug oder Missbrauch | Partner Center
 description: "Sie sind für betrügerische Käufe und/oder Nichtbezahlung gekaufter Dienste durch Ihre Kunden finanziell verantwortlich. Daher empfehlen wir Ihnen, entsprechende Maßnahmen zur Verhinderung von Betrug und Erkennung von Betrugsrisiken zu treffen."
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 6375910eab5b8aa0e64dc67fd772f564044e88a6
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Nichtbezahlung, Betrug oder Missbrauch
+# <a name="non-payment-fraud-or-misuse"></a>Nichtbezahlung, Betrug oder Missbrauch
 
 **Betrifft**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: 6375910eab5b8aa0e64dc67fd772f564044e88a6
 
 Sie sind für betrügerische Käufe und/oder Nichtbezahlung gekaufter Dienste durch Ihre Kunden finanziell verantwortlich. Daher empfehlen wir Ihnen, entsprechende Maßnahmen zur Verhinderung von Betrug und Erkennung von Betrugsrisiken zu treffen. Es liegt in Ihrem Ermessen, Kunden einen Kreditrahmen einzuräumen.
 
-## Inhalt dieses Abschnitts
+## <a name="in-this-section"></a>Inhalt dieses Abschnitts
 
 
 -   [Nichtbezahlung](#nonpayment)
@@ -61,11 +59,5 @@ Wenn Microsoft eine Partner- oder Kundenaktivität erkennt, die von uns als Vers
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

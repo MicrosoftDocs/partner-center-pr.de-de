@@ -3,13 +3,11 @@ title: Kundenselbsthilfe | Partner Center
 description: Kundenselbsthilfe
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: d32bba4fafb0f1b6dde3cc8d10b4312f0cb4b977
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Kundenselbsthilfe
+# <a name="customer-self-support"></a>Kundenselbsthilfe
 
 **Betrifft**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: d32bba4fafb0f1b6dde3cc8d10b4312f0cb4b977
 
 Kunden können sich in ihrem eigenen Microsoft Office 365 Admin Center oder Azure-Verwaltungsportal anmelden und ihre eigenen Konten verwalten:
 
--   Anzeigen der in die Produkte integrierten Kommunikation und Benachrichtigungen im Nachrichtencenter, z. B. Informationen zur Dienstintegrität.
+-   Anzeigen der in die Produkte integrierten Kommunikation und Benachrichtigungen im Nachrichtencenter, z.B. Informationen zur Dienstintegrität.
 
 -   Ausführen aller Dienstkonfigurations- und Verwaltungsaufgaben auf die gleiche Weise wie im Falle eines direkten Erwerbs über Microsoft. Dies umfasst das Konfigurieren von Exchange Online, SharePoint Online, Skype for Business oder andere Dienste, die sie erworben haben.
 
@@ -30,11 +28,5 @@ Kunden finden Informationen zu Hilfefragen und Vorgehensweisen entweder über da
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

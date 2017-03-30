@@ -1,30 +1,29 @@
 ---
 title: Multichannel | Partner Center
-description: "Das Programm für Cloud-Lösungsanbieter bietet u. a. die Option, den gesamten Lebenszyklus eines Kundenabonnements durch den Partner verwalten zu lassen, einschließlich Verkauf, Bereitstellung, Support und Verlängerung."
+description: "Das Programm für Cloud-Lösungsanbieter bietet u.a. die Option, den gesamten Lebenszyklus eines Kundenabonnements durch den Partner verwalten zu lassen, einschließlich Verkauf, Bereitstellung, Support und Verlängerung."
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 6f0444d2df562453e21ff973549262782b31ef22
-
+ms.openlocfilehash: fb3df0b095fb04552bcf5492467e319be943dd0d
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
+# <a name="multichannel-support"></a>Multichannel-Support
 
-# Multichannel
-
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud Deutschland
 
-Das Programm für Cloud-Lösungsanbieter bietet u. a. die Option, den gesamten Lebenszyklus eines Kundenabonnements durch den Partner verwalten zu lassen, einschließlich Verkauf, Bereitstellung, Support und Verlängerung. Häufig verfügen Kunden bereits über Abonnements, die sie über andere Kanäle erworben haben und für die Sie die Bereitstellung und den Support übernehmen müssen.
+In einigen Fällen können Kunden Sie zum Bereitstellen und Unterstützen eines Abonnements einstellen, das sie an anderer Stelle erworben haben. Dieser Multichannel-Support ist in folgenden Fällen erforderlich:
 
-Dieser Multichannel-Support ist in folgenden Fällen erforderlich:
+-   Der Kunde hat bereits Abonnements direkt von Microsoft oder über die Programme Advisor, Open oder EA erworben.
 
--   Der Kunde hat bereits Abonnements direkt von Microsoft erworben oder über die Programme Advisor, Open oder EA.
+-   Der Kunde hat das Abonnement von Ihnen gekauft, während Sie am Advisor-Programm teilgenommen haben. Sie sind nun aber indirekter Wiederverkäufer im Programm für Cloud-Lösungsanbieter.
 
--   Der Kunde hat die Abonnements von Ihnen gekauft, während Sie am Advisor-Programm teilgenommen haben. Sie sind nun aber Teilnehmer am Programm für Cloud-Lösungsanbieter.
+-   Der Kunde hat die Abonnements von einem Drittanbieter gekauft, der weder dem Programm für Cloud-Lösungsanbieter angehört noch ein Microsoft Syndication-Partner ist. Kunden können lizenzbasierte Abonnements nicht auf einen anderen Partner aus dem Programm für Cloud-Lösungsanbieter übertragen – sie müssen dazu bis zum Ende ihrer Abonnementlaufzeit warten oder das Abonnement kündigen.
 
--   Der Kunde hat die Abonnements von einem Drittanbieter gekauft, der weder dem Programm für Cloud-Lösungsanbieter angehört noch ein Microsoft Syndication-Partner ist. Kunden können lizenzbasierte CSP-Abonnements nicht auf einen anderen Partner aus dem Programm für Cloud-Lösungsanbieter übertragen – sie müssen dazu bis zum Ende ihrer Abonnementlaufzeit warten oder das Abonnement kündigen.
+>**Wichtig**<br>
+Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Ankündigungen der künftigen Versionen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner Center. 
 
 <table>
 <colgroup>
@@ -44,11 +43,13 @@ Dieser Multichannel-Support ist in folgenden Fällen erforderlich:
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Indirekte Partner</strong></p></td>
+<td><p><strong>Indirekte Wiederverkäufer in CSP</strong></p></td>
 <td><ul>
-<li><p>Der indirekte Partner erstellt die CSP-Einladung basierend auf dem Link im Partner Center und sendet sie entweder direkt an den Endkunden oder an Ihre Wiederverkäufer, die sie an die Endkunden weiterleiten können.</p></li>
-<li><p>Wiederverkäufer, die für einen indirekten Partner im CSP-Programm arbeiten, können keine eigenen CSP-Einladungen erstellen. Sie müssen die von ihrem indirekten Partner bereitgestellte Einladung verwenden.</p></li>
-<li><p>Der indirekte Partner wird die Beziehung besitzen, kann jedoch einen Wiederverkäufer angeben, der die delegierten Administratorrechte erhalten soll, die zum Verwalten der Bereitstellung und für den Support erforderlich sind.</p></li>
+<li><p>Indirekte Wiederverkäufer für einen direkten Partner in CSP können keine eigenen CSP-Einladungen erstellen. Sie müssen die von ihrem direkten Partner bereitgestellte Einladung verwenden.</p></li>
+
+<li><p>Der direkte Partner erstellt eine Einladung für den Endkunden und kann sie an Sie senden, damit Sie sie an den Kunden oder direkt an den Endkunden senden können.</p></li>
+
+<li><p>Der direkte Partner besitzt die Kundenbeziehung, kann allerdings beantragen, dass der Kunde einem indirekten Händler delegierte Administratorrechte gewährt.</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -60,11 +61,5 @@ Dieser Multichannel-Support ist in folgenden Fällen erforderlich:
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "Überprüfen der Dienstintegrität | Partner Center"
 description: "Wenn ein Kunde mit einem Dienst Probleme hat, sollten Sie zuerst die Dienstintegrität überprüfen."
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 0db8a0954aae1a590dbad2c948ad9209792249aa
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Überprüfen der Dienstintegrität
+# <a name="check-service-health"></a>Überprüfen der Dienstintegrität
 
 **Betrifft**
 
@@ -33,11 +31,5 @@ Wenn das Problem auch nach dem Ende des Dienstausfalls noch auftritt, übermitte
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

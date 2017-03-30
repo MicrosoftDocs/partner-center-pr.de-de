@@ -3,13 +3,11 @@ title: Anpassen des Katalogs | Partner Center
 description: "Im Katalog sind alle Microsoft-Produkte und -Add-Ons aufgeführt, die Partnern zum Verkauf zur Verfügung stehen."
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: c4e1f1813add283f67669cc8ea0cc88fb0bb4610
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Anpassen des Katalogs
+# <a name="customize-the-catalog"></a>Anpassen des Katalogs
 
 **Betrifft**
 
@@ -27,11 +25,5 @@ Im Katalog sind Microsoft-Produkte und -Add-Ons aufgeführt, die Sie Ihren Kunde
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

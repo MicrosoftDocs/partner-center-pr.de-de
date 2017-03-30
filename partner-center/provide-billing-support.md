@@ -3,13 +3,11 @@ title: Bereitstellen von Abrechnungssupport | Partner Center
 description: Die Abrechnung mit Ihren Kunden und die Beantwortung aller Fragen zu Abrechnungen liegen in Ihrer Verantwortung.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 3806b7b4934c0af85573936dc6d978bf09bdbf18
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Bereitstellen von Abrechnungssupport
+# <a name="provide-billing-support"></a>Bereitstellen von Abrechnungssupport
 
 **Betrifft**
 
@@ -48,11 +46,5 @@ Die Abrechnung mit Ihren Kunden und die Beantwortung aller Fragen zu Abrechnunge
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

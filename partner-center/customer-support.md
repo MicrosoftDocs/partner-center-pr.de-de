@@ -3,13 +3,11 @@ title: Kundensupport | Partner Center
 description: "Sie sind die erste Anlaufstelle für Ihre Kunden, und es wird erwartet, dass Sie die folgenden technischen und Kontosupportleistungen für Ihre Kunden bereitstellen: Support für Abrechnung und Abonnements Hilfe bei Bereitstellung und Softwarekonfiguration Beheben von Leistungsproblemen, Dienstverfügbarkeitsproblemen, Problemen bei der Netzwerkkonnektivität und Clientdesktopproblemen aufgrund fehlender oder nicht ordnungsgemäß konfigurierter Einstellungen, unvollständiger Softwareintegration, Berechtigungsproblemen oder anderen Bereitstellungsproblemen. Verwalten von Updates für Dienste und Software Antworten auf Nutzungsfragen Cloud-Lösungsanbieter müssen eine klare Beschreibung davon bereitstellen, wie Kunden Support erhalten. Wenn Sie keinen telefonischen Support rund um die Uhr anbieten, müssen Sie eine Vereinbarung zum Servicelevel bereitstellen, um Ihren Kunden die verfügbaren Optionen zu erläutern. Microsoft bietet keinen Support für CSP-Kunden."
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 6541bd47fb66d9e51163b178d4b377b9e3714ccb
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Kundensupport
+# <a name="customer-support"></a>Kundensupport
 
 **Betrifft**
 
@@ -35,7 +33,7 @@ Cloudlösungsanbieter müssen eine klare Beschreibung davon bereitstellen, wie K
 
 Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Zahlen der zunehmenden Verbreitung für Ihr Konto niedrig sind oder Sie nach weiteren Möglichkeiten für Zusatzverkäufe suchen, sollten Sie in Betracht ziehen, Schulungen anzubieten. Indem Sie Ihren Kunden beibringen, wie sie die von ihnen erworbene Cloudlösungssoftware besser nutzen können, werden Sie wahrscheinlich eine Zunahme der Produktivität und Zufriedenheit sowie eine Abnahme der Supportanfragen feststellen können. Vorschläge und Tipps finden Sie unter [Steigerung von Einführungsrate und Zufriedenheit](increasing-adoption-and-satisfaction.md).
 
-## Kundensupport
+## <a name="customer-support"></a>Kundensupport
 
 
 [Bereitstellen von Abrechnungssupport](provide-billing-support.md)
@@ -52,11 +50,5 @@ Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Za
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

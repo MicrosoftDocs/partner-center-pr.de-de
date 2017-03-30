@@ -3,13 +3,11 @@ title: Verwalten Ihres Partner Center-Kontos | Partner Center
 description: "Nach der Aufnahme in das Programm für Cloud-Lösungsanbieter müssen Sie oder Ihr Administrator Ihr Unternehmenskonto in Partner Center einrichten."
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 04f7b861800653c0a8948432a9e1323a1acb169a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Verwalten des Partner Center-Kontos
+# <a name="manage-your-partner-center-account"></a>Verwalten des PartnerCenter-Kontos
 
 **Betrifft**
 
@@ -21,7 +19,7 @@ Nach der Aufnahme in das Programm für Cloud-Lösungsanbieter müssen Sie oder I
 
 [Erstellen von Benutzerkonten und Festlegen von Berechtigungen](create-user-accounts-and-set-permissions.md)
 
-[Wiederherstellen ausgesetzter Partner Center-Konten](suspended-partner-center-account.md)
+[Wiederherstellen ausgesetzter PartnerCenter-Konten](suspended-partner-center-account.md)
 
 [Zurücksetzen von Benutzerkennwörtern](reset-a-user-password.md)
 
@@ -35,11 +33,5 @@ Nach der Aufnahme in das Programm für Cloud-Lösungsanbieter müssen Sie oder I
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

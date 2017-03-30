@@ -3,13 +3,11 @@ title: Erstellen eines neuen Abonnements | Partner Center
 description: "Nachdem Sie für Ihre Kunden einen Datensatz in Partner Center erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen."
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: e23594a9bb9371cb1af1a2ff9047ef559050def0
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Erstellen eines neuen Abonnements
+# <a name="create-a-new-subscription"></a>Erstellen eines neuen Abonnements
 
 **Betrifft**
 
@@ -22,8 +20,7 @@ Nachdem Sie für Ihre Kunden einen Datensatz in Partner Center erstellt haben, k
 
 1.  Wählen Sie im **Dashboard**-Menü **Kunden**, und wählen Sie dann einen Kunden aus der Liste aus.
 2.  Wählen Sie **Abonnement hinzufügen**.
-3.  Überprüfen Sie das Abonnement, das Sie hinzufügen möchten, und geben Sie die Anzahl der Lizenzen ein. 
-          **Übermitteln** Sie dann die Bestellung.
+3.  Überprüfen Sie das Abonnement, das Sie hinzufügen möchten, und geben Sie die Anzahl der Lizenzen ein. **Übermitteln** Sie dann die Bestellung.
 4.  Nachdem das Abonnement hinzugefügt wurde, öffnen Sie es durch Klicken auf den Abonnementnamen. Auf dieser Bearbeitungsseite können Sie Add-On-Lizenzen auswählen, sofern verfügbar.
 5.  Auf der Bearbeitungsseite können Sie auch die Menge der Lizenzen ändern oder das Abonnement aussetzen.
 
@@ -39,11 +36,5 @@ Nachdem Sie ein Microsoft Azure-Abonnement für einen Kunden erstellt haben, kö
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

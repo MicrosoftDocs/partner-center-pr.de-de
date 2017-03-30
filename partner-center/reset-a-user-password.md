@@ -3,13 +3,11 @@ title: "Zurücksetzen von Benutzerkennwörtern | Partner Center"
 description: "Wenn Benutzer ihr Kennwort vergessen, können Sie ihnen ein neues temporäres Kennwort zuweisen. Sie können es für die nächste Anmeldung beim Partner Center verwenden."
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Zurücksetzen von Benutzerkennwörtern
+# <a name="reset-a-user-password"></a>Zurücksetzen von Benutzerkennwörtern
 
 **Betrifft**
 
@@ -38,11 +36,5 @@ Wenn Benutzer ihr Kennwort vergessen, weisen Sie ihnen ein neues temporäres Ken
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

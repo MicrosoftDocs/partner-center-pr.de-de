@@ -3,13 +3,11 @@ title: Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs | Partn
 description: "Office 365 und Microsoft Azure bieten jeweils eine API, die Partner in Echtzeit zum Abrufen der Dienstintegrität, der Message Center-Kommunikationsvorgänge und der geplanten Wartungsereignisse verwenden können."
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: 42b29f9cf8c450560284fea39efd0638672f32b1
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs
+# <a name="get-automated-service-notifications-with-our-apis"></a>Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs
 
 **Betrifft**
 
@@ -27,11 +25,5 @@ Azure Insights REST API: [Code-](http://go.microsoft.com/fwlink/p/?LinkId=617299
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

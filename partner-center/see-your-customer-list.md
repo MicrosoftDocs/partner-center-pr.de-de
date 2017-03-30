@@ -3,13 +3,11 @@ title: Verwalten der Kundenliste | Partner Center
 description: "Kundendatensätze gehören zu den wichtigsten Informationsressourcen in Partner Center."
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
-
+ms.openlocfilehash: 0a6ed78cb9b04160e7e220074c5aa3c682ba81ec
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Verwalten der Kundenliste
+# <a name="manage-your-customer-list"></a>Verwalten der Kundenliste
 
 **Betrifft**
 
@@ -18,28 +16,22 @@ ms.openlocfilehash: 6b5c27330b677acfb8e779309597373ee2b4de3d
 
 Kundendatensätze gehören zu den wichtigsten Informationsressourcen in Partner Center. Sie können Ihre Kundenkontendatenbank durchsuchen oder die gesamte Kundendatenbank bzw. eine Teilmenge in eine Excel-kompatible, durch Trennzeichen getrennte Datei (CSV-Datei) exportieren. Sie können auch Informationen zu Kundenabonnements in eine CSV-Datei exportieren.
 
-Darüber hinaus enthalten die Aktivitätsprotokolle exportierbare Daten zu Transaktionen und Verwaltungsaktionen für Kunden. Weitere Informationen finden Sie unter [Kundenaktivitätsprotokolle anzeigen](#pc-cloud-sltn-provider-activity-logs).
+Darüber hinaus enthalten die Aktivitätsprotokolle exportierbare Daten zu Transaktionen und Verwaltungsaktionen für Kunden. Weitere Informationen finden Sie unter [Kundenaktivitätsprotokolle anzeigen](activity-logs.md).
 
-Weitere Informationen finden Sie in den folgenden Abschnitten:
 
--   [Suchen nach einem Kunden](#see-your-customer-list-viewcustomerlist)
--   [Exportieren der Kundenliste](#see-your-customer-list-exportcustomerlist)
--   [Exportieren der Abonnementliste eines Kunden](#see-your-customer-list-exportsubscriptions)
-
-<a href="" id="viewcustomerlist"></a>
-**Suchen nach einem Kunden**
+## <a name="search-for-a-customer"></a>Suchen nach einem Kunden
 
 1.  Wählen Sie im Menü **Dashboard** die Option **Kunden** aus.
 2.  Um nach einem Kunden zu suchen, geben Sie den Kundennamen oder den Domänennamen in das Suchfeld ein.
 3.  Wählen Sie den **Pfeil nach unten** am Ende einer Kundenzeile aus, um die Microsoft-ID des Kunden sowie die verknüpften Abonnements und Quicklinks zu Diensten anzuzeigen.
 
-<a href="" id="exportcustomerlist"></a>
-**Exportieren der Kundenliste**
+
+## <a name="export-your-customer-list"></a>Exportieren der Kundenliste
 
 1.  Wählen Sie im Menü **Dashboard** die Option **Kunden** aus.
 2.  Wählen Sie **Kunden exportieren** aus.
 
-    Partner Center konvertiert die gesamte Kundenliste in eine CSV-Datei und lädt sie in den Standarddownloadordner auf Ihrem Computer hoch. Sie können auch Teilmengen von Kundendaten exportieren. Zu den Datenspalten gehören u. a.:
+    Partner Center konvertiert die gesamte Kundenliste in eine CSV-Datei und lädt sie in den Standarddownloadordner auf Ihrem Computer hoch. Sie können auch Teilmengen von Kundendaten exportieren. Zu den Datenspalten gehören u.a.:
 
     -   **Microsoft-ID**;
     -   **Unternehmensname**;
@@ -48,22 +40,22 @@ Weitere Informationen finden Sie in den folgenden Abschnitten:
 
     Standardmäßig exportiert Partner Center die gesamte Kundenliste, unabhängig von der Länge. Sie können die Kundenliste auch nach dem Namen des Unternehmens oder der Domäne auflisten und diese Teilmenge von Daten exportieren.
 
-3.  Wenn Sie indirekter Anbieter sind, können Sie die Kundenliste nach indirekten Händlern filtern. Wählen Sie die Dropdownliste **Nach indirekten Händlern filtern** aus, und wählen Sie den Händler aus der Liste aus.
+3.  Wenn Sie indirekter Anbieter sind, können Sie die Kundenliste nach indirekten Händlern filtern. Wählen Sie die Liste **Nach indirekten Händlern filtern** aus, und wählen Sie einen Händler aus.
 
-<a href="" id="exportsubscriptions"></a>
-**Exportieren der Abonnementliste eines Kunden**
+
+## <a name="export-customer-subscription-information"></a>Exportieren von Informationen zum Kundenabonnement
 
 1.  Wählen Sie im Menü **Dashboard** die Option **Kunden** aus.
 2.  Wählen Sie den **Unternehmensnamen** eines Kunden aus. Die Seite **Abonnements** des Kunden wird geöffnet und zeigt die vollständige Liste der Produktabonnements an.
-3.  Wählen Sie **Abonnements exportieren** aus. Partner Center konvertiert die Abonnementdaten des Kunden in eine CSV-Datei und lädt sie in den Standarddownloadordner auf Ihrem Computer hoch. Zu den Datenspalten gehören u. a.:
+3.  Wählen Sie **Abonnements exportieren** aus. Partner Center konvertiert die Abonnementdaten des Kunden in eine CSV-Datei und lädt sie in den Standarddownloadordner auf Ihrem Computer hoch. Zu den Datenspalten gehören u.a.:
     -   **Abonnement-ID**;
-    -   **Abonnement** – der Produktname für das Abonnement;
-    -   **Menge** – die Anzahl der gekauften Lizenzen;
+    -   **Abonnement**–der Produktname für das Abonnement;
+    -   **Menge**–die Anzahl der gekauften Lizenzen;
     -   **Status**;
-    -   **Händler** – die ID des Händlers, der das Abonnement besitzt und verwaltet.
+    -   **Händler**–die ID des Händlers, der das Abonnement besitzt und verwaltet.
 
-    **Hinweis**  
-    Weitere Informationen zum Verwalten von Abonnements finden Sie unter [Verwalten von Kundenabonnements](#pc-cloud-sltn-provider-adding-and-managing-customers--subscriptions).
+>**Hinweis**<br>
+Weitere Informationen zur Abonnementverwaltung finden Sie unter [Kundenabonnements](customer-subscriptions.md).
 
      
 
@@ -71,11 +63,5 @@ Weitere Informationen finden Sie in den folgenden Abschnitten:
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

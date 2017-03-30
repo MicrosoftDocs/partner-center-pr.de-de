@@ -3,13 +3,11 @@ title: Wechsel von Pinpoint zu Partner Center | Partner Center
 Description: "Auf dieser Seite finden Sie Informationen dazu, wie Sie den Wechsel von Pinpoint zu Partner Center durchführen."
 ms.assetid: 2ba05c48-5817-4078-bdb3-44e42d484c54
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
 ms.openlocfilehash: c604ab4f027119d10c4903431455c97c484eb831
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Wechsel von Pinpoint zu Partner Center
+# <a name="transition-from-pinpoint-to-partner-center"></a>Wechsel von Pinpoint zu Partner Center
 
 **Betrifft**
 
@@ -46,7 +44,7 @@ Sie können nur die **Lösungen**&nbsp;**bearbeiten** oder **löschen**, die Sie
 
 Weitere Informationen zu Partner Center-Marketingprofilen finden Sie auf der [Hauptseite für Partner Center-Profile](https://partnercenter.microsoft.com/pcv/publishing). Dort können Sie auch die Ergebnisse des Imports Ihres Pinpoint-Profils anzeigen. Weitere Informationen zum Erstellen von Marketingprofilen in Pinpoint finden Sie unter [Erstellen eines Marketingprofils für Ihr Unternehmen](create-a-marketing-profile.md).)
 
-## Verwandte Themen
+## <a name="related-topics"></a>Verwandte Themen
 
 
 [Erstellen eines Marketingprofils für Ihr Unternehmen](create-a-marketing-profile.md)
@@ -57,11 +55,5 @@ Weitere Informationen zu Partner Center-Marketingprofilen finden Sie auf der [Ha
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

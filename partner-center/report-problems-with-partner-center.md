@@ -3,13 +3,11 @@ title: Melden von Problemen mit dem Partner Center | Partner Center
 description: "Informationen zum Melden von Problemen mit Partner Center und zum Sammeln von Diagnoseinformationen für unser Support-Team."
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 671be5c70498194b0fb8081afd9ada750b732690
-ms.openlocfilehash: 539ed7d366713060aa1d559512f31462f7f0aace
-
+ms.openlocfilehash: 33e8c3191f433b7b414cb682e93cc10ce57c2447
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Melden von Problemen mit dem Partner Center
+# <a name="report-problems-with-partner-center"></a>Melden von Problemen mit dem Partner Center
 
 **Betrifft**
 
@@ -33,26 +31,20 @@ Wenn ein Fehler auftritt, während Sie sich auf einer Partner Center-Seite befin
 >**Hinweis**<br>
 Auf Partner Center-Seiten, die **/pcv/** in der URL enthalten, können Sie das Tool manuell öffnen, um diese Informationen zu erfassen.
 
-1.  Wechseln Sie auf die Seite mit dem Problem.
+1.    Wechseln Sie auf die Seite mit dem Problem.
 
-2.  Drücken Sie **STRG+ALT+D**, um das Partner Center-Client-Diagnosetool zu öffnen.
+2.    Drücken Sie **STRG+ALT+D**, um das Partner Center-Client-Diagnosetool zu öffnen.
 
 Sie erhalten eine Vorschau der Diagnoseinformationen und können diese auf eine Datei speichern, die Sie der Anfrage hinzufügen können. So senden Sie uns die Informationen:
 
-1.  Überprüfen Sie vor dem Senden die Informationen in der Datei, da sie persönlich identifizierbare Informationen enthalten können, die Sie entfernen möchten. 
+1.    Überprüfen Sie vor dem Senden die Informationen in der Datei, da sie persönlich identifizierbare Informationen enthalten können, die Sie entfernen möchten. 
 
     >**Hinweis**<br>
     In einigen Browsern wird der Abschnitt **Seitenansicht** am unteren Rand der Seite **Vorschau** möglicherweise leer angezeigt. Dies ist in Ordnung.
 
-2.  Folgen Sie den Anweisungen auf dem Bildschirm, um die Datei zu speichern.
+2.    Folgen Sie den Anweisungen auf dem Bildschirm, um die Datei zu speichern.
 
-3.  Fügen Sie die Datei Ihrer Partner Center-Supportanfrage hinzu.
+3.    Fügen Sie die Datei Ihrer Partner Center-Supportanfrage hinzu.
 
 Partner Center-Support fragt Sie möglicherweise, dieses Tool mehrmals auszuführen, um die aktuellsten Informationen zu erhalten.
-
-
-
-
-<!--HONumber=Jan17_HO3-->
-
 

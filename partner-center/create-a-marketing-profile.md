@@ -3,13 +3,11 @@ title: Erstellen eines Marketingprofils | Partner Center
 description: "Jedes Jahr besuchen Millionen von qualifizierten potenziellen Kunden die Webpräsenzen von Microsoft."
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
 ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Erstellen eines Marketingprofils
+# <a name="create-a-marketing-profile"></a>Erstellen eines Marketingprofils
 
 **Betrifft**
 
@@ -37,10 +35,10 @@ Wir danken Ihnen für Ihre Geduld, während wir dieses interessante Upgrade durc
 2.  Wählen Sie auf der Registerkarte **Profile** die Option zum **Add a marketing profile**.
 3.  Aktualisieren Sie die Informationen zu Ihrem Unternehmen, einschließlich Kontaktinformationen, Informationen zu Ihrer Unternehmensexpertise und eine Beschreibung, die den folgenden *Profilrichtlinien* entspricht.
 
-## Profilrichtlinien
+## <a name="profile-guidelines"></a>Profilrichtlinien
 
 
--   Ihr Profil kann bis zu 2500 Zeichen lang sein, aber knapp formulierte Profile sind häufig am effektivsten.
+-   Ihr Profil kann bis zu 2500Zeichen lang sein, aber knapp formulierte Profile sind häufig am effektivsten.
 
 -   Beschreiben Sie Ihre Qualifikationen und Erfahrungen oder die Ihres Unternehmens.
 
@@ -54,7 +52,7 @@ Wir danken Ihnen für Ihre Geduld, während wir dieses interessante Upgrade durc
 
 -   Schlüsselwörter, die Kunden bei der Suche eingeben, haben die stärkste Gewichtung. Geben Sie Schlüsselwörter zur präzisen Beschreibung Ihrer Angebote sowie Branchenterminologie ein, die Ihre Kunden möglicherweise zum Suchen nach Lösungen verwenden.
 
-## Zehn Tipps für ein hervorragendes Profil
+## <a name="ten-tips-for-a-great-profile"></a>Zehn Tipps für ein hervorragendes Profil
 
 
 1.  **Ihr Publikum kennen** Schreiben Sie, als ob Sie mit Ihren Kunden sprechen, nicht mit Ihrem internen Team oder Microsoft.
@@ -67,7 +65,7 @@ Wir danken Ihnen für Ihre Geduld, während wir dieses interessante Upgrade durc
 
 5.  **Zeigen, dass Sie die Kundenwünsche kennen** Konzentrieren Sie sich auf wertorientierte Begriffe und die Vorteile, die Ihr Angebot den Kunden eröffnet, nicht auf Prozesse oder Softwarefeatures.
 
-6.  **Aktive Sprache verwenden** Schreiben Sie mit Verben und Aktionsanweisungen. Vermeiden Sie passive Sprache wie „Wir haben Expertise bereitgestellt ..."
+6.  **Aktive Sprache verwenden** Schreiben Sie mit Verben und Aktionsanweisungen. Vermeiden Sie passive Sprache wie „Wir haben Expertise bereitgestellt..."
 
 7.  **Aufzählungspunkte verwenden** Teilen Sie sequenzierte Informationen (a, b, c, d, usw.) in Aufzählungen auf, um das Überfliegen zu erleichtern.
 
@@ -77,7 +75,7 @@ Wir danken Ihnen für Ihre Geduld, während wir dieses interessante Upgrade durc
 
 10. **Ihr Profil aktuell halten** Halten Sie Ihr Profil mit der Webpräsenz Ihres Unternehmens synchron. Aktualisieren Sie Ihr Profil und Ihre Seite, wenn eine neue Software oder ein neuer Service veröffentlicht wird, um eine nahtlose Benutzererfahrung sicherzustellen.
 
-## Verwandte Themen
+## <a name="related-topics"></a>Verwandte Themen
 
 
 [Wechsel von Pinpoint zu Partner Center](importing-pinpoint-profiles-into-partner-center.md)
@@ -86,11 +84,5 @@ Wir danken Ihnen für Ihre Geduld, während wir dieses interessante Upgrade durc
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

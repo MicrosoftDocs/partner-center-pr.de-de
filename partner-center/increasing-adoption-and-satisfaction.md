@@ -3,13 +3,11 @@ title: "Steigerung von Einführungsrate und Zufriedenheit | Partner Center"
 description: "Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wächst und auf welche Bereiche sie ihre Investitionen konzentrieren sollten. Das Partner Center liefert ihnen Informationen darüber, ob und wie die Kunden die erworbenen Lizenzen nutzen."
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Steigerung von Einführungsrate und Zufriedenheit
+# <a name="increase-adoption-and-satisfaction"></a>Steigerung von Einführungsrate und Zufriedenheit
 
 **Betrifft**
 
@@ -19,7 +17,7 @@ Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wä
 
 Über das Programm für Cloud-Lösungsanbieter können Sie Daten für alle Ihre Kunden einsehen. Beachten Sie, dass einige Kunden Lizenzen von anderen Partnern oder direkt von Microsoft erwerben können. In diesem Fall wird die Gesamtanzahl der Lizenzen für alle Partner angezeigt. Um nur Ihre eigenen Lizenzen anzuzeigen, rufen Sie stattdessen die Abonnements des Kunden auf.
 
-## Suchen nach Lizenz- und Benutzerdaten
+## <a name="find-license-and-user-data"></a>Suchen nach Lizenz- und Benutzerdaten
 
 
 **Einzelner Kunde**
@@ -33,9 +31,9 @@ Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wä
 
 Terminologie:
 
--   **Berechtigung** Eine Lizenz, zu deren Verwendung der Benutzer berechtigt ist (die also z. B. nicht wegen Betrugs oder Nichtbezahlung ausgesetzt, auf eine andere Lizenz aktualisiert, vom Benutzer storniert wurde usw.).
+-   **Berechtigung** Eine Lizenz, zu deren Verwendung der Benutzer berechtigt ist (die also z.B. nicht wegen Betrugs oder Nichtbezahlung ausgesetzt, auf eine andere Lizenz aktualisiert, vom Benutzer storniert wurde usw.).
 
--   **Aktiv** Der Abonnent hat die Berechtigung in den letzten 28 Kalendertagen für eine Aufgabe genutzt.
+-   **Aktiv** Der Abonnent hat die Berechtigung in den letzten 28Kalendertagen für eine Aufgabe genutzt.
 
 -   **Bereitstellung %** = zugewiesene Lizenzen/verkaufte Lizenzen
 
@@ -51,7 +49,7 @@ Terminologie:
 
     -   Wenn einige Kunden Yammer viel intensiver nutzen als per Lizenz vereinbart, können die Daten erheblich verzerrt sein.
 
-## Nächste Schritte
+## <a name="next-steps"></a>Nächste Schritte
 
 
 Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Zahlen der zunehmenden Verbreitung für Ihr Konto niedrig sind oder Sie nach weiteren Möglichkeiten für Zusatzverkäufe suchen, sollten Sie in Betracht ziehen, Schulungen anzubieten. Indem Sie Ihren Kunden beibringen, wie sie die von ihnen erworbene Cloudlösungssoftware besser nutzen können, werden Sie wahrscheinlich eine Zunahme der Produktivität und Zufriedenheit sowie eine Abnahme der Supportanfragen feststellen können.
@@ -62,14 +60,14 @@ Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Za
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problem:</strong> Die Einführungsrate bei den Benutzern ist niedrig, und viele Lizenzen werden nicht verwendet.</p>
-<p><strong>Mögliche Ursache:</strong> Kunden erkennen die Vorteile nicht, die die Software bieten kann. Sie benötigen Unterstützung, um Möglichkeiten aufzuzeigen, wie sie die Software in ihre tägliche Arbeit integrieren können, um Aufgaben zu vereinfachen, die sie bereits täglich durchführen, oder um neue Wege zur Steigerung ihrer Produktivität zu finden.</p>
-<p><strong>Mögliche Strategien:</strong> Fallstudien, Benutzerempfehlungen zu bestimmten Szenarien, Blogs mit Lernprogrammen oder Videos.</p></td>
+<td><p><strong>Problem:</strong> Die Verbreitungsrate bei den Benutzern ist niedrig, und viele Lizenzen werden nicht verwendet.</p>
+<p><strong>Mögliche Ursache:</strong> Die Kunden erkennen den Wert nicht, den Ihnen die Software bieten kann. Sie benötigen Unterstützung, um Möglichkeiten aufzuzeigen, wie sie die Software in ihre tägliche Arbeit integrieren können, um Aufgaben zu vereinfachen, die sie bereits täglich durchführen, oder um neue Wege zur Steigerung ihrer Produktivität zu finden.</p>
+<p><strong>Was Sie nutzen können:</strong> Fallstudien, Benutzerempfehlungen zu bestimmten Szenarien, Blogs mit Lernprogrammen oder Videos.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Problem:</strong> Sie erhalten eine große Zahl von Supportanrufen und Fragen zu Vorgehensweisen.</p>
-<p><strong>Mögliche Ursache:</strong> Die Software, die Produktversion oder die Aufgabe ist für Kunden neu.</p>
-<p><strong>Mögliche Strategie:</strong> Sie können eine zweigleisige Strategie anwenden, indem Sie Schulungen (Präsenz- oder Onlineschulungen) anbieten, um die Kenntnisse der Kunden insgesamt zu verbessern, während Sie gleichzeitig einige der Self-Service-Optionen bewerben, die für Kunden verfügbar sind.</p>
+<td><p><strong>Problem:</strong> Sie erhalten eine große Anzahl von Hilfe-Supportanrufen und Fragen zu Vorgehensweisen.</p>
+<p><strong>Mögliche Ursache:</strong> Kunden kennen die Software, die Produktversion oder ihre Aufgabe noch nicht so gut.</p>
+<p><strong>Was Sie nutzen können:</strong> Sie können eine zweigleisige Strategie anwenden, indem Sie Schulungen (Präsenz- und Onlineschulungen) anbieten, um die Kenntnisse der Benutzer zu vertiefen, während Sie gleichzeitig einige der für Kunden zur Verfügung stehenden Self-Service-Optionen bewerben.</p>
 <p>Sie können ggf. auch Ihre Supportwebsite so anpassen, dass sie zusätzlich zu den Supportkontaktinformationen auch die Self-Service-Optionen umfasst, die im Thema [Kundenselbsthilfe](customer-self-support.md) beschrieben sind.</p></td>
 </tr>
 </tbody>
@@ -81,11 +79,5 @@ Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Za
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

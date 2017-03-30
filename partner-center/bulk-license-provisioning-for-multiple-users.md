@@ -3,13 +3,11 @@ title: "Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer | Partner Ce
 description: "Sie können Lizenzen und Dienste einem Benutzer oder gleichzeitig mehreren Benutzern in einem Benutzerkonto zuweisen und die Lizenzzuweisung für Benutzer aufheben."
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer
+# <a name="assign-or-revoke-licenses-to-multiple-users"></a>Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer
 
 **Betrifft**
 
@@ -19,7 +17,7 @@ Sie können Lizenzen und Dienste einem Benutzer oder gleichzeitig mehreren Benut
 
 Partner Center verfolgt alle Lizenzansprüche im Besitz des Kunden nach und zeigt sie an.
 
-## Inhalt dieses Abschnitts
+## <a name="in-this-section"></a>Inhalt dieses Abschnitts
 
 
 -   [Zuweisen von Lizenzen zu mehreren Benutzern](#assign-licenses-to-groups)
@@ -71,10 +69,10 @@ Partner Center verfolgt alle Lizenzansprüche im Besitz des Kunden nach und zeig
 
 4.  Klicken Sie nach dem Auswählen der Benutzer auf den Link **Ausgewählte Benutzer**. Die angezeigte Liste enthält nur die ausgewählten Benutzer.
 5.  Wählen Sie den Link **Lizenzen verwalten**.
-6.  Deaktivieren Sie unter **Assign and revoke licenses** die Kontrollkästchen für den Benutzern zugewiesene Produkte. Beispiel: Wenn alle ausgewählten Benutzer Office 365 Enterprise-Lizenzen besitzen und Sie diese widerrufen möchten, deaktivieren Sie das Kontrollkästchen.
+6.  Deaktivieren Sie unter **Assign and revoke licenses** die Kontrollkästchen für den Benutzern zugewiesene Produkte. Beispiel: Wenn alle ausgewählten Benutzer Office365Enterprise-Lizenzen besitzen und Sie diese widerrufen möchten, deaktivieren Sie das Kontrollkästchen.
 7.  Wählen Sie **Speichern**.
 
-## Verwandte Themen
+## <a name="related-topics"></a>Verwandte Themen
 
 
 [Zuweisen von Lizenzen zu einem Benutzer](assign-licenses-to-users.md)
@@ -83,11 +81,5 @@ Partner Center verfolgt alle Lizenzansprüche im Besitz des Kunden nach und zeig
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

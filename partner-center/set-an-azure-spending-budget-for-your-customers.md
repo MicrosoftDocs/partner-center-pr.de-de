@@ -3,13 +3,11 @@ title: "Einrichten eines Kundenbudgets für Azure-Kosten | Partner Center"
 description: "In Partner Center können Sie für jeden Kunden ein monatliches Budget festlegen, sodass die Azure-Rechnung am Monatsende nicht zu einer Überraschung wird."
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: a4afd889720acdfcb280486a3c05195aa7778674
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Einrichten eines Kundenbudgets für Azure-Kosten
+# <a name="set-an-azure-spending-budget-for-your-customers"></a>Einrichten eines Kundenbudgets für Azure-Kosten
 
 **Betrifft**
 
@@ -61,11 +59,5 @@ Die Azure-Ausgaben sind nur ein Schätzwert, die aktuellen Abrechnungsbeträge k
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

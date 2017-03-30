@@ -3,13 +3,11 @@ title: "Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement |
 description: "Wenn Ihr Kunde mehr Lizenzen benötigt, als das aktuelle Abonnement zur Verfügung stellt, oder wenn er eine andere Version mit zusätzlichen Services benötigt, können Sie das Abonnement aktualisieren."
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 69a1975e40a15e4a17a71b06ac741b4641e5b903
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement
+# <a name="add-licenses-or-services-to-an-existing-subscription"></a>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement
 
 **Betrifft**
 
@@ -93,11 +91,5 @@ Weitere Informationen über die Auswirkung auf die Abrechnung finden Sie unter d
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

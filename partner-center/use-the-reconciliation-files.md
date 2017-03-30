@@ -1,29 +1,20 @@
 ---
 title: Verwenden der Abstimmungsdateien | Partner Center
-description: "Laden Sie die Abgleichungsdateien aus dem Partner Center-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen."
+description: "Laden Sie die Abgleichungsdateien aus dem PartnerCenter-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
-
+ms.openlocfilehash: 851230d50a7fd9805964a287104c55f13ad28cd2
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Verwenden der Abstimmungsdateien
+# <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
 **Betrifft**
 
 -  Partner Center
 -  Partner Center für Microsoft-Cloud Deutschland
 
-Laden Sie die Abgleichungsdateien aus dem Partner Center-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen. Zu diesen Informationen zählen Gebühren für die einzelnen Abonnements von Kunden und ausführliche Ereignisinformationen (wie z. B. das Hinzufügen von Arbeitsplätzen zu einem Abonnement mitten in einem Abrechnungszeitraum).
-
-## Inhalt dieses Abschnitts
-
-
--   [Aufschlüsseln nach Partner](#itemizebypartner)
--   [Lizenzbasierte Abstimmungsdateien](#licencebasedfiles)
--   [Nutzungsbasierte Abstimmungsdateien](#usagebasedfiles)
+Laden Sie die Abgleichungsdateien aus dem PartnerCenter-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen. Zu diesen Informationen zählen Gebühren für die einzelnen Abonnements von Kunden und ausführliche Ereignisinformationen (wie z.B. das Hinzufügen von Arbeitsplätzen zu einem Abonnement mitten in einem Abrechnungszeitraum).
 
 ## <a href="" id="itemizebypartner"></a>Aufschlüsseln nach Partner
 
@@ -44,7 +35,7 @@ Partner im indirekten Modell können diese zusätzlichen Felder in den beiden li
 <tbody>
 <tr class="odd">
 <td>MPN-ID</td>
-<td><p>Die MPN-ID des CSP Partners (direkt oder indirekt).</p></td>
+<td><p>Die Microsoft Partner Network (MPN)-ID des CSP-Partners (direkt oder indirekt).</p></td>
 </tr>
 <tr class="even">
 <td>MPN-ID der Handelspartner</td>
@@ -63,7 +54,7 @@ Partner im indirekten Modell können diese zusätzlichen Felder in den beiden li
 ## <a href="" id="licencebasedfiles"></a> Lizenzbasierte Dateifelder
 
 
-Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Sie die Informationen unter Syndication\_Partner\_Subscription\_Number in der Abgleichungsdatei mit der Abonnement-ID aus Partner Center.
+Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Sie die Informationen unter Syndication\_Partner\_Subscription\_Number in der Abgleichungsdatei mit der Abonnement-ID aus PartnerCenter.
 
 <table>
 <colgroup>
@@ -83,9 +74,9 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 <td>8ddd03642-test-test-test-46b58d356b4e</td>
 </tr>
 <tr class="odd">
-<td>CustomerNumber</td>
-<td><p>Eindeutiger Bezeichner für den Kunden auf der Microsoft-Abrechnungsplattform. Kann beim Kontakt zum Support zum Identifizieren des Kunden hilfreich sein, jedoch nicht zur Abstimmung.</p></td>
-<td>123456789</td>
+<td>CustomerID</td>
+<td><p>Eindeutige Microsoft-ID im GUID-Format: wird zur Identifizierung des Kunden verwendet.</p></td>
+<td>12ABCD34-001A-BCD2-987C-3210ABCD5678</td>
 </tr>
 <tr class="even">
 <td>OrderID</td>
@@ -106,12 +97,14 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="odd">
 <td>OfferID</td>
-<td><p>Eindeutige Angebot-ID. Standard-Angebot-ID gemäß der Preisliste.</p></td>
-<td>306855</td>
+<td><p>Eindeutige Angebot-ID. Standard-Angebots-ID gemäß der Preisliste.</p>
+<p><b>Hinweis</b>: Dieser Wert entspricht nicht der Angebots-ID aus der Preisliste. Siehe DurableOfferID unten.</p></td>
+<td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>Eindeutige dauerhafte Angebot-ID gemäß Definition in der Preisliste.</p></td>
+<td><p>Eindeutige dauerhafte Angebots-ID gemäß Definition in der Preisliste.</p>
+<p><b>Hinweis</b>: Dieser Wert entspricht der Angebots-ID aus der Preisliste.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -148,70 +141,8 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>Art der Gebühren oder der Anpassungen.</p>
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Gebühren:</td>
-<td><ul>
-<li>PURCHASE_FEE: Anfängliche Gebühr für ein Abonnement</li>
-<li>CYCLE_FEE: Periodische Gebühren für ein Abonnement</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>ConvertResources</td>
-<td><ul>
-<li>CANCEL_USAGEFEE: Nutzungsgebühr für Zugriffe für die nicht bezahlte Verwendung während des aktuellen Abrechnungszeitraums bei der Kündigung</li>
-<li>CYCLE_USAGEFEE: Nutzungsgebühr für Zugriffe für den aktuellen Abrechnungszeitraum</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Anteilige Kosten:</td>
-<td><ul>
-<li>PURCHASE_PRORATE: Anteilige Gebühren beim Kauf</li>
-<li>CANCEL_PRORATE: Anteilige Erstattung für nicht verwendete Teile des Diensts bei einer Stornierung</li>
-<li>ACTIVATION_PRORATE: Anteilige Gebühren von der Aktivierung bis zum Ende des Abrechnungszeitraums</li>
-<li>RENEW_PRORATE: Anteilige Gebühren nach Verlängerung des Abonnements</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>InstanceProrates:</td>
-<td><ul>
-<li>CANCEL_INSTANCEPRORATE: Anteilige Gebührenerstattung an den Kunden, wenn verknüpfte Lizenzen geändert werden</li>
-<li>CYCLE_INSTANCEPRORATE: Anteilige vom Kunden geschätzte Gebühren, wenn verknüpfte Lizenzen geändert werden</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Gutschriften:</td>
-<td><ul>
-<li>CREDIT: Auf ein Zahlungsmittel angewendetes Guthaben</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Offsets:</td>
-<td><ul>
-<li>OFFSET_LINEITEM: Teilweise oder vollständige Erstattung auf eine Position</li>
-<li>ONE_TIME_REFUND: Einmalige, für den Kunden verarbeitete Erstattung</li>
-<li>TAX_REFUND: Erstattung aufgrund der Validierung des Steuerfreistellungszertifikats</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Rabatte:</td>
-<td><ul>
-<li>ACTIVATION_DISCOUNT: Rabatt auf die Aktivierung des Abonnements</li>
-<li>CYCLE_DISCOUNT: Rabatt auf periodische Gebühren</li>
-<li>RENEW_DISCOUNT: Rabatt auf die Verlängerung des Abonnement</li>
-<li>CANCEL_DISCOUNT: Anfallende Gebühren, wenn Rabatte storniert werden</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-<p> </p></td>
-<td></td>
+<td><p>Art der Gebühren oder der Anpassung. Siehe <a href="#charge_types">Zuordnung von Gebühren zwischen einer Rechnung und der Erstattungsdatei</a></p></td>
+<td><p>Siehe <a href="#charge_types">Zuordnung von Gebühren zwischen einer Rechnung und der Erstattungsdatei</a></p></td>
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
@@ -268,10 +199,24 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 <td><p>MPN-ID des registrierten Handelspartners für das Abonnement. Siehe [Aufschlüsseln nach Partner](#itemizebypartner).</p></td>
 <td>4390934</td>
 </tr>
+<tr class="even">
+<td>DomainName</td>
+<td><p>Kundendomänenname: wird zur Identifizierung des Kunden verwendet.</p></td>
+<td>example.onmicrosoft.com</td>
+</tr>
+<tr class="odd">
+<td>SubscriptionName</td>
+<td><p>Abonnement-Nickname. Wenn kein Nickname angegeben ist, verwendet Partner Center den OfferName.</p></td>
+<td>PROJECT ONLINE</td>
+</tr>
+<tr class="even">
+<td>SubscriptionDescription</td>
+<td><p>Der Name des Service-Angebots, das der Kunde gekauft hat, wie in der Preisliste definiert. (Dies ist ein identisches Feld für den Angebotsnamen).</p></td>
+<td>PROJECT ONLINE PREMIUM OHNE PROJECT-CLIENT</td>
+</tr>
 </tbody>
 </table>
 
- 
 
 ## <a href="" id="usagebasedfiles"></a>Nutzungsbasierte Dateifelder
 
@@ -347,7 +292,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 <tr class="even">
 <td>SubscriptionName</td>
-<td><p>Name des Service-Angebots</p></td>
+<td><p>Nickname des Service-Angebots.</p></td>
 <td>Microsoft Azure</td>
 </tr>
 <tr class="odd">
@@ -421,22 +366,22 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 <tr class="odd">
 <td>ListPrice</td>
 <td><p>Gültiger Angebotspreis ab Anfangsdatum des Abonnements.</p></td>
-<td>0,0808 $</td>
+<td>0,0808$</td>
 </tr>
 <tr class="even">
 <td>PretaxCharges</td>
 <td><p>ListPrist mal OverageQuantity, auf den nächsten Cent gerundet.</p></td>
-<td>0,085 $</td>
+<td>0,085$</td>
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
 <td><p>USt.-Betrag auf der Grundlage der Steuervorschriften und spezifischen Gegebenheiten Ihres Markts.</p></td>
-<td>0,08 $</td>
+<td>0,08$</td>
 </tr>
 <tr class="even">
 <td>PostTaxTotal</td>
 <td><p>Gesamtbetrag nach Steuern, wo Steuern berechnet werden.</p></td>
-<td>0,93 $</td>
+<td>0,93$</td>
 </tr>
 <tr class="odd">
 <td>Währung</td>
@@ -446,17 +391,17 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 <tr class="even">
 <td>PretaxEffectiveRate</td>
 <td><p>Nettopreis pro Einheit. Gleich PretaxCharges / OverageQuantity, auf den nächsten Cent gerundet.</p></td>
-<td>0,08 $</td>
+<td>0,08$</td>
 </tr>
 <tr class="odd">
 <td>PostTaxEffectiveRate</td>
 <td><p>Bruttopreis pro Einheit. Gleich PostTaxTotal / OverageQuantity oder PretaxEffectiveRate + Steuersatz pro Einheit, auf den nächsten Cent gerundet.</p></td>
-<td>0,08 $</td>
+<td>0,08$</td>
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>Beschreibung des Positionstyps.</p></td>
-<td>ZUGRIFFSNUTZUNGSGEBÜHR FÜR DEN AKTUELLEN ZYKLUS</td>
+<td><p>Art der Gebühren oder der Anpassung. Siehe <a href="#charge_types">Zuordnung von Gebühren zwischen einer Rechnung und der Erstattungsdatei</a></p></td>
+<td><p>Siehe <a href="#charge_types">Zuordnung von Gebühren zwischen einer Rechnung und der Erstattungsdatei</a></p></td>
 </tr>
 <tr class="odd">
 <td>CustomerBillableAccount</td>
@@ -493,20 +438,235 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 <td><p>Die Anzahl der ServiceBus-Verbindungen, die bereitgestellt und an einem bestimmten Tag genutzt wurden.</p></td>
 <td>Beispiel: Wenn Sie während eines Monats mit 30 Tagen über eine individuell bereitgestellte Verbindung verfügen, wird für Service Info 1 „1,000000 Verbindungen/30 Tage” angegeben. Wenn ein Paket von 25 ServiceBus-Verbindungen bereitgestellt wurden und Sie an diesem Tag 1 genutzt haben, wird als tägliche Nutzung für diesen Tag „25 Verbindungen/30 Tage – Verwendet: 1,000000“ angegeben.</td>
 </tr>
+<tr class="even">
+<td>CustomerID</td>
+<td><p>Eindeutige Microsoft-ID im GUID-Format: wird zur Identifizierung des Kunden verwendet.</p></td>
+<td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
+</tr>
+<tr class="odd">
+<td>DomainName</td>
+<td><p>Kundendomänenname: wird zur Identifizierung des Kunden verwendet.</p></td>
+<td>example.onmicrosoft.com</td></tr>
 </tbody>
 </table>
 
- 
-
- 
-
- 
 
 
+## <a href="" id="charge_types"></a>Siehe Zuordnung von Gebühren zwischen einer Rechnung und der Erstattungsdatei
+
+Ihre Rechnung enthält eine Zusammenfassung der Gebühren, während die Erstattungsdatei eine detaillierte Aufschlüsselung der Positionstransaktionen bereitstellt, einschließlich der Gebührentypen.
+
+Zum Erstellen von Querverweisen der Gebührenbeträge zwischen der Rechnung und der Abstimmungsdatei können Sie Microsoft Excel-Filteroptionen verwenden, indem Sie in der Erstattungsdatei nach Gebührentypen filtern, um die Rechnungsgebühren einer Reihe von Gebührenauflistungen in der Erstattungsdatei zuzuordnen.
+
+Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund zugehörigen Gebührentypen, die möglicherweise auf den Erstattungsdateien angezeigt werden. 
+
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Beschreibung der Rechnungsgebühr</strong></p>
+</td>
+<td>
+<p><strong>Gebührenbeschreibung der Abstimmungsdatei (ChargeType-Spalte)</strong></p>
+</td>
+<td>
+<p><strong>Um welche Gebühr handelt es sich?</strong></p>
+</td>
+<td>
+<p><strong>Wie ordne ich diese ChargeTypes der Rechnung zu?</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p><strong>Laufende Gebühren</strong></p>
+</td>
+<td>
+<p>Instanz anteilig stornieren</p>
+</td>
+<td>
+<p>Anteilige Gebühren werden an den Kunden zurückerstattet, wenn verknüpfte Lizenzen geändert werden.</p>
+</td>
+<td rowspan="8">
+<p>Erstellen Sie in der lizenzbasierten Datei die Summe der Spalte <strong>Betrag</strong>.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gebühr für Zyklus</p>
+</td>
+<td>
+<p>Periodische Gebühren für ein Abonnement</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Anteiliger Zyklus für Instanz</p>
+</td>
+<td>
+<p>Anteilige vom Kunden geschätzte Gebühren, wenn verknüpfte Lizenzen geändert werden</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gebühren bei Abbrechen anteilig zuordnen</p>
+</td>
+<td>
+<p>Anteilige Erstattung für nicht verwendete Teile des Diensts bei einer Stornierung</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Anteilige Gebühren beim Kauf</p>
+</td>
+<td>
+<p>Anteilige Gebühren beim Kauf</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Kaufgebühr</p>
+</td>
+<td>
+<p>Anfängliche Gebühr für ein Abonnement</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Anteilige Gebühr bei Verlängerung</p>
+</td>
+<td>
+<p>Anteilige Gebühren nach Verlängerung des Abonnements</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Verlängerungsgebühr</p>
+</td>
+<td>
+<p>Gebühr für Verlängerung eines Abonnements</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Weitere Produkte und Dienste</strong></p>
+</td>
+<td>
+<p>Anteilige Gebühren beim Aktivieren</p>
+</td>
+<td>
+<p>Anteilige Gebühren bei Aktivierung bis zum Ende des Abrechnungszeitraums</p>
+</td>
+<td>
+<p>Erstellen Sie in der lizenzbasierten Datei die Summe der Spalte <strong>Betrag</strong>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p><strong>Nutzungsgebühren</strong></p>
+</td>
+<td>
+<p>Nutzungsgebühr beim Abbrechen bewerten</p>
+</td>
+<td>
+<p>Nutzungsgebühr für Zugriffe für die nicht bezahlte Verwendung während des aktuellen Abrechnungszeitraums bei der Kündigung</p>
+</td>
+<td rowspan="2">
+<p>Erstellen Sie in der nutzungsbasierten Datei die Summe der Spalte <strong>PretaxCharges</strong>.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nutzungsgebühr für den aktuellen Zyklus bewerten</p>
+</td>
+<td>
+<p>Zugriffsnutzungsgebühr für den aktuellen Abrechnungszeitraum</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Guthaben und Anpassungen</strong></p>
+</td>
+<td>
+<p>Einen Artikel versetzen</p>
+</td>
+<td>
+<p>Teilweise oder vollständige Erstattung an eine Position, einschließlich Steuern</p>
+</td>
+<td>
+<p>Erstellen Sie in der lizenzbasierten Datei die Summe der Spalte <strong>TotalForCustomer</strong>.</p>
+<p>Erstellen Sie in der nutzungsbasierten Datei die Summe der Spalte <strong>PostTaxTotal</strong>.</p>
+</td>
+</tr>
 
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+<tr>
+<td rowspan="4">
+<p><strong>Andere Rabatte</strong></br>
+<em>(nutzungsbasiert)</em></p>
+</td>
+<td>
+<p>Aktivierungsrabatt</p>
+</td>
+<td>
+<p>Rabatt auf Aktivierung des Abonnements</p>
+</td>
+<td rowspan="4">
+<p>Erstellen Sie in der nutzungsbasierten Datei die Summe der Spalte <strong>PretaxCharges</strong>.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zyklusrabatt</p>
+</td>
+<td>
+<p>Rabatt auf periodische Gebühren</p>
+</td>
+</tr><tr>
+<td>
+<p>Verlängerungsrabatt</p>
+</td>
+<td>
+<p>Rabatt auf Verlängerung des Abonnements</p>
+</td>
+</tr><tr>
+<td>
+<p>Stornorabatt</p>
+</td>
+<td>
+<p>Gebühren, wenn Rabatte storniert werden</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Andere Rabatte</strong></br>
+<em>(lizenzbasiert)</em></p>
+</td>
+<td>
+<p><em>Kann auf mehrere Gebührentypen angewendet werden</em></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p>Erstellen Sie in der lizenzbasierten Datei die Summe der Spalte <strong>TotalOtherDiscount</strong>.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Steuern</strong>&nbsp;oder&nbsp;<strong>Umsatzsteuer</strong></p>
+</td>
+<td>
+<p><em>Kann auf mehrere Gebührentypen angewendet werden</em></p>
+<p><em>Ausnahme: "Einen Artikel versetzen" enthält bereits Steuern. Siehe "Guthaben und Anpassungen" oben.</em></p>
+</td>
+<td>
+<p>Steuern oder Umsatzsteuern (Umsatzsteuer)</p>
+</td>
+<td>
+<p>Erstellen Sie in der lizenzbasierten Datei die Summe der Spalte <strong>Steuern</strong>.</p>
+<p>Erstellen Sie in der nutzungsbasierten Datei die Summe der Spalte <strong>TaxAmount</strong>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>

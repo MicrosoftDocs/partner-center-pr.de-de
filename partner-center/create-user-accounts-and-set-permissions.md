@@ -3,13 +3,11 @@ title: Erstellen von Benutzerkonten und Festlegen von Berechtigungen | Partner C
 description: "Der Administrator erstellt ein Benutzerkonto für jeden Partnermitarbeiter, der Zugriff auf Partner Center benötigt."
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: a755c9375c7bd5e61345d7d7e1ab27e00af3fe4d
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Erstellen von Benutzerkonten und Festlegen von Berechtigungen
+# <a name="create-user-accounts-and-set-permissions"></a>Erstellen von Benutzerkonten und Festlegen von Berechtigungen
 
 **Betrifft**
 
@@ -148,11 +146,5 @@ Die folgende Tabelle erläutert die gesamten Aktivitäten, die die einzelnen Rol
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

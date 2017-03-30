@@ -3,13 +3,11 @@ title: Regionale CSP-Autorisierung | Partner Center
 description: "Mithilfe der regionalen Autorisierung können international tätige Partner jetzt Kunden in verschiedenen Regionen und Ländern auf der ganzen Welt einfacher verwalten."
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Regionale CSP-Autorisierung
+# <a name="csp-regional-authorization"></a>Regionale CSP-Autorisierung
 
 
 \[Einige Informationen beziehen sich auf die Vorabversion, die vor der kommerziellen Freigabe möglicherweise wesentlichen Änderungen unterliegt. Microsoft übernimmt für die hier bereitgestellten Informationen keine Garantien, weder ausdrücklicher noch impliziter Art.\]
@@ -20,11 +18,11 @@ In der Vergangenheit mussten Partner in jedem Land physisch präsent sein, in de
 
 >**Hinweis**<br> Wenn Sie für [CSP für Microsoft-Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md) registriert sind und Sie an Kunden in EU- und EFTA-Ländern/Regionen verkaufen, können Sie die Mandanten für Partner Center für Microsoft-Cloud Deutschland nicht mit Ihren anderen Mandanten konsolidieren.  
 
-## Planen
+## <a name="planning"></a>Planen
 
 Partner haben mehrere Optionen für die Konsolidierung ihrer regionalen Mandanten. Diese werden im Folgenden beschrieben.
 
-### Getrennte Mandanten für die einzelnen Regionen oder Länder
+### <a name="separate-tenants-for-single-regions-or-countries"></a>Getrennte Mandanten für die einzelnen Regionen oder Länder
 
 Die Mandantenkonsolidierung ist optional. Partner können internationale Kunden weiterhin über getrennte Mandanten verwalten, wie in der folgenden Tabelle gezeigt.
 
@@ -67,7 +65,7 @@ Die Mandantenkonsolidierung ist optional. Partner können internationale Kunden 
 
  
 
-## Ein einziger Mandant für mehrere Regionen oder Länder
+## <a name="one-tenant-for-multiple-regions-or-countries"></a>Ein einziger Mandant für mehrere Regionen oder Länder
 
 
 Partner können ihre Vorgänge aus mehreren CSP-Mandanten auf einen einzigen CSP-Mandanten konsolidieren.
@@ -99,7 +97,7 @@ Partner können ihre Vorgänge aus mehreren CSP-Mandanten auf einen einzigen CSP
 
  
 
-## Einige Mandanten für einige Regionen oder Länder
+## <a name="some-tenants-for-some-regions-or-countries"></a>Einige Mandanten für einige Regionen oder Länder
 
 
 Partner können ihre Vorgänge aus mehreren CSP-Mandanten auf eine kleinere Zahl von CSP-Mandanten konsolidieren.
@@ -135,7 +133,7 @@ Partner können ihre Vorgänge aus mehreren CSP-Mandanten auf eine kleinere Zahl
 
  
 
-## Konsolidieren von Mandanten
+## <a name="consolidating-tenants"></a>Konsolidieren von Mandanten
 
 
 Wenn Sie Mandanten konsolidieren möchten, empfehlen wir Folgendes:
@@ -145,7 +143,7 @@ Wenn Sie Mandanten konsolidieren möchten, empfehlen wir Folgendes:
 -   **Mehrere Länder/Regionen, Transaktionen jedoch nur in einem Land/einer Region.** Wenn Sie Transaktionen in einer Reihe von Ländern/Regionen durchführen, empfehlen wir eine Konsolidierung auf den Mandanten mit der größten Zahl von Lizenzen. Sie sollten die Abonnements in den Ländern/Regionen stornieren, in denen Sie kleinere Mengen an Lizenzen verwalten.
 
 
-## Informationen zu Ländern/Regionen
+## <a name="countryregion-information"></a>Informationen zu Ländern/Regionen
 
 
 Berücksichtigen Sie vor der Konsolidierung von Mandanten die folgenden Punkte:
@@ -187,11 +185,5 @@ Berücksichtigen Sie vor der Konsolidierung von Mandanten die folgenden Punkte:
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

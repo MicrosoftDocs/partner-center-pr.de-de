@@ -3,13 +3,11 @@ title: "Registrieren für das CSP-Programm | Partner Center"
 description: "Lesen Sie mehr über die CSP-Programmanforderungen, bevor Sie sich für das Cloud-Lösungsanbieter-Programm registrieren."
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
-ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
-
+ms.openlocfilehash: 88fd35cea2e44d905bec63a7963c886dbd27c07f
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Registrieren für das Programm für Cloud-Lösungsanbieter
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud-Lösungsanbieter
 
 **Betrifft**
 
@@ -18,9 +16,10 @@ ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
 >**Hinweis**<br>
 Weitere Informationen zur Registrierung für das Cloud-Lösungsanbieter-Programm für Microsoft-Cloud Deutschland finden Sie unter [Registrierung für das Cloud-Lösungsanbieter-Programm für Microsoft-Cloud Deutschland](enroll-in-csp-for-microsoft-cloud-germany.md) und [Partner Center für Microsoft-Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md).
 
-Lesen Sie mehr über die [CSP-Programmanforderungen]( http://go.microsoft.com/fwlink/p/?LinkId=617116), bevor Sie sich für das Cloud-Lösungsanbieter-Programm registrieren.
+Lesen Sie mehr über die [CSP-Programmanforderungen]( http://go.microsoft.com/fwlink/p/?LinkId=617116), bevor Sie sich für das Cloud-Lösungsanbieter-Programm registrieren. Weitere Informationen zur Partnervereinbarung und anderen Programmanforderungen finden Sie unter [CSP-Vereinbarungen, Preislisten und Angebote](csp-documents-and-learning-resources.md). 
 
-Weitere Informationen zur Partnervereinbarung und anderen Programmanforderungen finden Sie unter [CSP-Vereinbarungen, Preislisten und Angebote](csp-documents-and-learning-resources.md).
+>**Wichtig**<br>
+Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Ankündigungen der künftigen Versionen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner Center.  
 
 Erfahren Sie, wie Sie sich für CSP-Programmanreize qualifizieren, die Anreizplattform integrieren und Anreize sammeln. Weitere Informationen finden Sie unter [Programmdetails](https://go.microsoft.com/fwlink/?linkid=831533).
 
@@ -49,10 +48,10 @@ Das Programm für Cloud-Lösungsanbieter ist für Unternehmen mit Sitz in den fo
 
  
 
-## Partner Center-Konto
+## <a name="partner-center-account"></a>Partner Center-Konto
 
 
-Partner Center erfordert, dass der Administrator Ihres Unternehmens über eine E-Mail-Adresse verfügt, die von Azure AD authentifiziert wurde. Der Administrator kann eines seiner vorhandenen geschäftlichen E-Mail-Kontos von einem Microsoft-Clouddienst, einschließlich Office 365, Azure AD, Microsoft Intune, Enterprise Mobility Services usw. verwenden. Durch den Prozess des Bewerbens als Händler wird diese E-Mail-Adresse in die Administrator-E-Mail für ein Händlerkonto umgewandelt.
+Partner Center erfordert, dass der Administrator Ihres Unternehmens über eine E-Mail-Adresse verfügt, die von Azure AD authentifiziert wurde. Der Administrator kann eines seiner vorhandenen geschäftlichen E-Mail-Kontos von einem Microsoft-Clouddienst, einschließlich Office365, AzureAD, Microsoft Intune, Enterprise Mobility Services usw. verwenden. Durch den Prozess des Bewerbens als Händler wird diese E-Mail-Adresse in die Administrator-E-Mail für ein Händlerkonto umgewandelt.
 
 Beachten Sie, dass die vorhandene, von Azure AD authentifizierte E-Mail-Adresse bereits in einem bestimmten Markt registriert ist. Wenn Sie in einem anderen Markt oder in mehreren Märkten verkaufen möchten, müssen Sie eine separate E-Mail-Adresse erstellen, die in jedem Markt registriert ist, und diese E-Mail-Adressen für die Registrierung verwenden.
 
@@ -60,11 +59,5 @@ Beachten Sie, dass die vorhandene, von Azure AD authentifizierte E-Mail-Adresse 
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: Allgemeine Abrechnungsszenarien | Partner Center
 description: "In diesem Thema wird erläutert, was auf Ihrer Rechnung nach dem Hinzufügen neuer Abonnements, dem Anpassen der Arbeitsplätze für ein Abonnement oder dem Kündigen eines Abonnements angezeigt werden sollte. Die Auswirkungen fallen für nutzungsbasierte und lizenzbasierte Abonnements unterschiedlich aus."
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Allgemeine Abrechnungsszenarien
+# <a name="common-billing-scenarios"></a>Allgemeine Abrechnungsszenarien
 
 **Betrifft**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
 
 In diesem Thema wird erläutert, was auf Ihrer Rechnung nach dem Hinzufügen neuer Abonnements, dem Anpassen der Arbeitsplätze für ein Abonnement oder dem Kündigen eines Abonnements angezeigt werden sollte. Die Auswirkungen fallen für nutzungsbasierte und lizenzbasierte Abonnements unterschiedlich aus.
 
-## Inhalt dieses Abschnitts
+## <a name="in-this-section"></a>Inhalt dieses Abschnitts
 
 
 -   [Nutzungsbasierte Abrechnung](#usagebased)
@@ -138,11 +136,5 @@ Rückerstattung der im Voraus anfallenden Gebühren für den gesamten Monatszeit
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

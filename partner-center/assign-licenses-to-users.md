@@ -3,13 +3,11 @@ title: "Benutzerverwaltungsaufgaben für Kundenkonten | Partner Center"
 description: "Nach dem Kauf eines neuen Abonnements für einen Kunden können Sie bestimmten Benutzern Lizenzen zuweisen."
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
 ms.openlocfilehash: 0102f9bf590627c3a27c045022b4de025e5a8f64
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Benutzerverwaltungsaufgaben für Kundenkonten
+# <a name="user-management-tasks-for-customer-accounts"></a>Benutzerverwaltungsaufgaben für Kundenkonten
 
 **Betrifft**
 
@@ -23,7 +21,7 @@ Dieses Thema enthält Anweisungen zu Verwaltungsaufgaben für Kundenkonten:
 -   [Löschen von Benutzerkonten für einen Kunden](#deleteuseraccounts)
 -   [Wiederherstellen gelöschter Benutzerkonten](#restoreuseraccounts)
 
-Sie können neue Benutzer erstellen und Benutzer im Konto eines Kunden löschen. Sofern erforderlich, können Sie auch zuvor gelöschte Benutzerkonten wiederherstellen. Sie können Benutzerkonten innerhalb von 30 Tagen nach ihrer Löschung wiederherstellen. Die vorherigen Abonnementzuweisungen des Benutzers werden ebenfalls wiederhergestellt (vorausgesetzt, die vorherigen Zuweisungen sind verfügbar).
+Sie können neue Benutzer erstellen und Benutzer im Konto eines Kunden löschen. Sofern erforderlich, können Sie auch zuvor gelöschte Benutzerkonten wiederherstellen. Sie können Benutzerkonten innerhalb von 30Tagen nach ihrer Löschung wiederherstellen. Die vorherigen Abonnementzuweisungen des Benutzers werden ebenfalls wiederhergestellt (vorausgesetzt, die vorherigen Zuweisungen sind verfügbar).
 
 Nach dem Kauf eines neuen Abonnements für einen Kunden können Sie bestimmten Benutzern Lizenzen zuweisen. Bitten Sie dazu den Kunden um eine Liste mit allen Mitarbeitern oder Benutzern, die Konten benötigen, sowie um die Benutzerberechtigungen und Angaben dazu, welche Benutzer oder Gruppen Lizenzen für unterschiedliche Dienste benötigen.
 
@@ -44,7 +42,7 @@ Um effizient eine größere Gruppe mit Kunden für das Kundenkonto zu erstellen,
 
 1.  Wählen Sie im Menü **Dashboard** die Option **Kunden**. Wählen Sie den Kunden aus der Liste aus.
 2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**.
-3.  Wählen Sie einen oder mehrere Benutzer aus der Liste aus. Wenn der Kunde beispielsweise gerade neue Lizenzen erworben hat und Sie diese den Personen zuweisen möchten, die noch keine Lizenzen besitzen, können Sie mit der Option **Benutzer filtern nach …** die richtige Gruppe finden.
+3.  Wählen Sie einen oder mehrere Benutzer aus der Liste aus. Wenn der Kunde beispielsweise gerade neue Lizenzen erworben hat und Sie diese den Personen zuweisen möchten, die noch keine Lizenzen besitzen, können Sie mit der Option **Benutzer filtern nach…** die richtige Gruppe finden.
 4.  Wählen Sie **Lizenzen verwalten**. Nehmen Sie Ihre Änderungen vor, und wählen Sie anschließend **Speichern**.
 
 <a href="" id="resetpassword"></a>
@@ -62,7 +60,7 @@ Um effizient eine größere Gruppe mit Kunden für das Kundenkonto zu erstellen,
 2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**. Wählen Sie den Benutzer aus der Liste aus.
 3.  Wählen Sie am unteren Bildschirmrand **Benutzerkonto löschen**.
 
-Wenn Sie dieses Konto innerhalb von 30 Tagen wiederherstellen müssen, finden Sie es auf der Registerkarte **Gelöschte Benutzer** der Liste **Benutzer und Lizenzen** des Kunden.
+Wenn Sie dieses Konto innerhalb von 30Tagen wiederherstellen müssen, finden Sie es auf der Registerkarte **Gelöschte Benutzer** der Liste **Benutzer und Lizenzen** des Kunden.
 
 <a href="" id="restoreuseraccounts"></a>
 **Wiederherstellen gelöschter Benutzerkonten**
@@ -74,7 +72,7 @@ Wenn Sie dieses Konto innerhalb von 30 Tagen wiederherstellen müssen, finden S
 
     Alle ausgewählten Benutzerkonten werden erneut auf der Seite **Benutzer und Lizenzen** angezeigt.
 
-## Verwandte Themen
+## <a name="related-topics"></a>Verwandte Themen
 
 
 [Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer](bulk-license-provisioning-for-multiple-users.md)
@@ -85,11 +83,5 @@ Wenn Sie dieses Konto innerhalb von 30 Tagen wiederherstellen müssen, finden S
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

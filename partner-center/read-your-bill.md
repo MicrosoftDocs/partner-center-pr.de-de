@@ -3,24 +3,22 @@ title: Informationen zu Ihrer Rechnung | Partner Center
 description: "Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar. Sie steht über das Partner Center-Dashboard zur Verfügung."
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Informationen zu Ihrer Rechnung
+# <a name="read-your-bill"></a>Informationen zu Ihrer Rechnung
 
 **Betrifft**
 
 -  Partner Center
 -  Partner Center für Microsoft-Cloud Deutschland
 
-Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar. Sie steht über das Partner Center-Dashboard zur Verfügung.
+Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar. Sie steht über das PartnerCenter-Dashboard zur Verfügung.
 
 Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen Abstimmungsdateien. Die Abstimmungsdateien enthalten die Kunden-IDs und Abonnement-IDs, mit deren Hilfe Sie Kundenrechnungen erstellen. Weitere Informationen finden Sie unter [So wird's gemacht: Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md).
 
-## Definitionen zur Rechnungsdatei
+## <a name="invoice-file-definitions"></a>Definitionen zur Rechnungsdatei
 
 
 <table>
@@ -114,11 +112,5 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

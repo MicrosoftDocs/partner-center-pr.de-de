@@ -3,22 +3,20 @@ title: Anfordern einer Beziehung mit einem Kunden | Partner Center
 description: "Das Beantragen einer Partnerschaft mit einem Kunden wird in Multipartner- und Multichannelszenarien verwendet. Dieser Vorgang ist auch hilfreich, wenn ein Kunde Ihre delegierten Administratorrechte entfernt und Sie sie für Bereitstellungen oder Supportleistungen wiederherstellen müssen."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
-
+ms.openlocfilehash: 11c855af950c58423aaf9155d4fe64ceacf1ce6e
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Beantragen einer Partnerschaft mit einem Kunden
+# <a name="request-a-relationship-with-a-customer"></a>Beantragen einer Partnerschaft mit einem Kunden
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud Deutschland
 
-Das Beantragen einer Partnerschaft mit einem Kunden wird in [Multipartner](multipartner.md)- und [Multichannelszenarien](multichannel.md) verwendet. Dieser Vorgang ist auch hilfreich, wenn ein Kunde Ihre delegierten Administratorrechte entfernt und Sie sie für Bereitstellungen oder Supportleistungen wiederherstellen müssen.
+Das Beantragen einer Partnerschaft mit einem Kunden wird in [Multipartner](multipartner.md)- und [Multichannel](multichannel.md)szenarien verwendet. Dieser Vorgang ist auch hilfreich, wenn ein Kunde Ihre delegierten Administratorrechte entfernt und Sie sie für Bereitstellungen oder Supportleistungen wiederherstellen müssen.
 
-Beachten Sie, dass dieser Vorgang nur delegierte Administratorrechte hinzufügt. Wenn der Partner nicht der ursprüngliche CSP-Handelspartner für das Abonnement war, erhält der Partner keine Rechnung für diese Abonnements. Er kann auch keine Lizenzen hinzufügen oder entfernen, keine Add-ons bestellen, Abonnements nicht übertragen oder migrieren oder den registrierten Abonnementberater ändern.
+Beachten Sie, dass dieser Vorgang nur delegierte Administratorrechte hinzufügt. Wenn der Partner nicht der ursprüngliche Cloud-Lösungsanbieter (CSP)-Handelspartner für das Abonnement war, erhält der Partner keine Rechnung für diese Abonnements. Er kann auch keine Lizenzen hinzufügen oder entfernen, keine Add-ons bestellen, Abonnements nicht übertragen oder migrieren oder den registrierten Abonnementberater ändern.
 
 <a href="" id="requestarelationship"></a>
 **Anfordern einer Beziehung**
@@ -40,11 +38,5 @@ Um delegierte Administratorrechte wiederherzustellen, die der Kunde entfernt hat
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

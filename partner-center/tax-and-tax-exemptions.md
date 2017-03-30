@@ -3,13 +3,11 @@ title: Steuern und Steuerbefreiungen | Partner Center
 description: "Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf den Weiterverkauf von Produkten durch Partner konzentriert, ist Microsoft nicht in allen Fällen verpflichtet, bei Partnerrechnungen die Mehrwertsteuer zu berechnen."
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Steuern und Steuerbefreiungen
+# <a name="tax-and-tax-exemptions"></a>Steuern und Steuerbefreiungen
 
 **Betrifft**
 
@@ -26,7 +24,7 @@ Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf
 4.  Füllen Sie das Formular aus. Wählen Sie unter **Problemtyp** die Option **Ich kann mein Profil nicht verwalten** aus. Geben Sie in der Beschreibung Ihre MPN-ID und Microsoft-ID an.
 5.  Nachdem Sie das Ticket übermittelt haben, erhalten Sie von Microsoft eine E-Mail mit der Bitte um weitere Informationen. Fügen Sie Ihrer Antwort die erforderlichen Bescheinigungen für Ihre Steuerbefreiung bei.
 
-## Details nach Land/Region
+## <a name="details-by-countryregion"></a>Details nach Land/Region
 
 
 <table>
@@ -74,11 +72,5 @@ Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

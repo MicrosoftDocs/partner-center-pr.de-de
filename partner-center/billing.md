@@ -1,22 +1,20 @@
 ---
 title: Abrechnung | Partner Center
-Description: "Als Cloud-Lösungsanbieter bezahlen Sie Microsoft rückwirkend für 60 Tage für die lizenzbasierten und die nutzungsbasierten Abonnements Ihrer Kunden."
+Description: "Als Cloud-Lösungsanbieter bezahlen Sie Microsoft rückwirkend für 60Tage für die lizenzbasierten und die nutzungsbasierten Abonnements Ihrer Kunden."
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Abrechnung
+# <a name="billing"></a>Abrechnung
 
 **Betrifft**
 
 -  Partner Center
 -  Partner Center für Microsoft-Cloud Deutschland
 
-Als Cloud-Lösungsanbieter bezahlen Sie Microsoft rückwirkend für 60 Tage für die lizenzbasierten und die nutzungsbasierten Abonnements Ihrer Kunden.
+Als Cloud-Lösungsanbieter bezahlen Sie Microsoft rückwirkend für 60Tage für die lizenzbasierten und die nutzungsbasierten Abonnements Ihrer Kunden.
 
 Ihre Rechnung finden Sie im **Dashboard**-Menü unter **Abrechnung**. Auf dieser Abrechnungsseite können Sie Ihren Abrechnungsverlauf und -trend, den fälligen Betrag für den aktuellen Monat, Links zu Ihrer Rechnung und zu den Abstimmungsdateien sowie Ihre letzte Zahlung anzeigen.
 
@@ -25,7 +23,7 @@ Ihre Rechnung finden Sie im **Dashboard**-Menü unter **Abrechnung**. Auf dieser
 -   Fügen Sie Ihre eigenen Gebühren für Dienste und Produkte hinzu, die Sie bereitstellen.
 -   Senden Sie eine einzige Rechnung für alle Kosten an den Kunden.
 
-## Abrechnung
+## <a name="billing"></a>Abrechnung
 
 
 [Informationen zu Ihrer Rechnung](read-your-bill.md)
@@ -42,7 +40,7 @@ Ihre Rechnung finden Sie im **Dashboard**-Menü unter **Abrechnung**. Auf dieser
 
 [PSTN-Dienste](o365-e5-in-csp-advisory.md)
 
-## Inhalt dieses Abschnitts
+## <a name="in-this-section"></a>Inhalt dieses Abschnitts
 
 
 -   [Grundlagen zur Abrechnung](#billingbasics)
@@ -71,7 +69,7 @@ Ihre Rechnung finden Sie im **Dashboard**-Menü unter **Abrechnung**. Auf dieser
 <td>Zahlungsbedingungen</td>
 <td><ul>
 <li>Zahlungsbedingungen – 60 Tage netto.</li>
-<li>Zahlungen müssen zum Fälligkeitsdatum der Rechnung (60 Tage nach dem Abrechnungsdatum) erfolgen, ansonsten ist das Konto im Rückstand.</li>
+<li>Zahlungen müssen zum Fälligkeitsdatum der Rechnung (60Tage nach dem Abrechnungsdatum) erfolgen, ansonsten ist das Konto im Rückstand.</li>
 <li>Rückständige Konten können zeitweilig aufgehoben und/oder vom Programm für Cloud-Lösungsanbieter ausgeschlossen werden. Mit aufgehobenen Konten können keine neue Kunden oder Bestellungen erstellt, keine Handelspartnerbeziehung angefordert, Abonnementmengen erhöht oder verringert, Add-on-Abonnements bestellt, Abonnements konvertiert oder übertragen werden. Sie sind auf die Verwaltung vorhandener Kunden, Abonnements und Ressourcen beschränkt, bis das Konto wieder aktuell ist. Partner erhalten den vollen Funktionsumfang der aufgehobenen Konten zurück, wenn sie ihre ausstehenden Rechnungen beglichen haben.</li>
 </ul></td>
 </tr>
@@ -194,11 +192,5 @@ Azure verwendet das Modell der nutzungsbasierten Bezahlung, bei der Ihnen nur ge
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

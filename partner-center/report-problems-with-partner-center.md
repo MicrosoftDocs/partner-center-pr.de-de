@@ -39,7 +39,7 @@ Sie erhalten eine Vorschau der Diagnoseinformationen und können diese auf eine 
 
 1.    Überprüfen Sie vor dem Senden die Informationen in der Datei, da sie persönlich identifizierbare Informationen enthalten können, die Sie entfernen möchten. 
 
-    >**Hinweis**<br>
+    >**Hinweis**<br />
     In einigen Browsern wird der Abschnitt **Seitenansicht** am unteren Rand der Seite **Vorschau** möglicherweise leer angezeigt. Dies ist in Ordnung.
 
 2.    Folgen Sie den Anweisungen auf dem Bildschirm, um die Datei zu speichern.

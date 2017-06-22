@@ -3,16 +3,18 @@ title: Verwenden der Abstimmungsdateien | Partner Center
 description: "Laden Sie die Abgleichungsdateien aus dem PartnerCenter-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
-ms.openlocfilehash: 851230d50a7fd9805964a287104c55f13ad28cd2
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 7a059bfa12655334b02a76af17608569e4f42a41
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: de-DE
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud Deutschland
 
 Laden Sie die Abgleichungsdateien aus dem PartnerCenter-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen. Zu diesen Informationen zählen Gebühren für die einzelnen Abonnements von Kunden und ausführliche Ereignisinformationen (wie z.B. das Hinzufügen von Arbeitsplätzen zu einem Abonnement mitten in einem Abrechnungszeitraum).
 

@@ -1,11 +1,13 @@
 ---
 title: Erstellen eines Marketingprofils | Partner Center
-description: "Jedes Jahr besuchen Millionen von qualifizierten potenziellen Kunden die Webpräsenzen von Microsoft."
+description: Gewinnen Sie mehr potenzielle Kunden, indem Sie ein Marketingprofil in Partner Center erstellen.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: MaggiePucciEvans
-ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+author: KPacquer
+ms.openlocfilehash: 04e436d61636b0f47683f3ac9644484bb8bfe3d7
+ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 06/06/2017
 ---
 # <a name="create-a-marketing-profile"></a>Erstellen eines Marketingprofils
 
@@ -13,76 +15,92 @@ translationtype: HT
 
 -  Partner Center
 
-Jedes Jahr besuchen Millionen von qualifizierten potenziellen Kunden die Webpräsenzen von Microsoft. Wir unterstützen Sie durch Zusammenfassen Ihrer Lösungen für Kunden beim Wachstum Ihres Unternehmens. Microsoft-Empfehlungen helfen Ihnen dabei, eine Verbindung mit Kunden herzustellen, die sich für Ihre einzigartigen Lösungen zum Erfüllen ihrer geschäftlichen Bedürfnisse interessieren. Erstellen Sie ein Marketingprofil in Partner Center, um teilzunehmen.
+Als qualifizierter Microsoft-Partner können Sie ein Marketingprofil erstellen, um Ihr Unternehmen für Kunden zu präsentieren, die nach Ihren einzigartigen Lösungen und Kenntnissen für ihre geschäftlichen Anforderungen suchen.
 
-Falls Sie ein Pinpoint-Konto besitzen, [können Sie Ihr Pinpoint-Marketingprofil in Partner Center importieren](importing-pinpoint-profiles-into-partner-center.md).
+Microsoft interagiert jedes Jahr über Marketing, Vertrieb und Services mit Millionen von Kunden. Die meisten dieser Interaktionen schaffen Möglichkeiten für uns, unseren Partnern Empfehlungen in Form von Vertriebsleads bereitzustellen. 
 
-**Wichtige Informationen für Partner, die Profile auf Pinpoint verwalten**
+Erstellen Sie zunächst ein Marketingprofil, um von diesen Leads zu profitieren. Wir zeigen Ihr Profil Kunden, die Partner suchen, die ihnen beim Implementieren von Microsoft-Produkten und -Lösungen helfen können, und zwar über:
 
-Wie Sie vielleicht wissen, bemüht sich Microsoft, seinen Partnern neue und verbesserte Features anzubieten, um deren Profile zu veröffentlichen und zu verwalten. Alle Partnerprofile werden letztlich auf dieses neue Feature migrieren und Pinpoint wird Ende 2017 offline geschaltet.
+*  **Die Suchfunktion [Partner suchen](https://partnercenter.microsoft.com/pcv/search)**. Potenzielle Kunden können selbst Partnereinträge durchsuchen, um Partner ausfindig zu machen die ihren Suchkriterien entsprechen. 
+*  **Empfehlungen von Vertriebs- und Servicemitarbeitern von Microsoft**. Potenzielle Kunden, die an der Bereitstellung cloudbasierter Technologielösungen interessiert sind, kontaktieren Microsoft, um Hilfe bei der Suche von Experten zu erhalten, die ihre geschäftlichen Anforderungen erfüllen können. Diese Microsoft-Experten können dann potenzielle Kunden für Ihr Unternehmen empfehlen.
 
-Wir danken Ihnen für Ihre Geduld, während wir dieses interessante Upgrade durchführen. Während des Prozesses werden wir Updates und Hinweise anbieten. Bitte beachten Sie in der Zwischenzeit Folgendes:
+## <a name="create-a-profile"></a>Erstellen eines Profils
 
--   Wenn sich Ihr Profil auf [manage.pinpoint.com](https://go.microsoft.com/fwlink/?linkid=838399) befindet und Sie dies ändern möchten, [Melden Sie sich hier](https://go.microsoft.com/fwlink/?linkid=838394) für das Tool an.
--   Wenn Sie beim Microsoft-[Clouddienstanbieter](https://go.microsoft.com/fwlink/?linkid=838395)-Programm (CSP) angemeldet sind, melden Sie sich bitte im [Partner Center](https://go.microsoft.com/fwlink/?linkid=838396) an. Sie können entweder ein neues Profil erstellen oder Ihr vorhandenes Pinpoint-Profil importieren. Beachten Sie, dass jegliche Änderungen an Ihrem Profil vor dem Import vorgenommen werden müssen. Weitere Informationen finden Sie weiter unten.
--   Wenn Sie Ihr Profil nicht ändern können, wenden Sie sich an Ihr [Regionales Servicecenter](https://go.microsoft.com/fwlink/?linkid=838398). 
+Erstellen Sie ein Profil für jedes Land, in dem Sie berechtigt sind, Geschäfte zu tätigen.
 
-**Kundenrezensionen:** Im Rahmen des geplanten Wechsels von Pinpoint auf Partner Center wurde die vorherige Kundenrezensions-Eintragsfunktion eingestellt. Der Zugriff auf Kundenrezensionen steht Partnern daher nicht mehr zur Verfügung. Es wurde vor dem Entfernen der Funktion und der dazugehörigen Rezensionen eine Mitteilung an alle betroffenen E-Mail-Kontakte der Partner gesendet. Wir planen, das System in naher Zukunft durch ein stabileres und zuverlässigeres zu ersetzen.
+1.  Wählen Sie in [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) im Menü **Dashboard** die Optionen **Empfehlungen** &gt; **Marketingprofile** &gt; **[Add a marketing profile](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-**Erstellen eines Marketingprofils**
+2.    Wählen Sie auf der Seite **Erstellen eines Marketingprofils** eine Region aus, und geben Sie Ihre Profilinformationen, einschließlich Partnerinformationen und Erfahrung, ein.
 
-1.  Wählen Sie in [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) im Menü **Dashboard** die Optionen **Kontoeinstellungen** &gt; **Marketingprofil**.
-2.  Wählen Sie auf der Registerkarte **Profile** die Option zum **Add a marketing profile**.
-3.  Aktualisieren Sie die Informationen zu Ihrem Unternehmen, einschließlich Kontaktinformationen, Informationen zu Ihrer Unternehmensexpertise und eine Beschreibung, die den folgenden *Profilrichtlinien* entspricht.
+    Nach dem Fertigstellen Ihres ersten Profils können Sie weitere Profile basierend auf diesem Profil erstellen, indem Sie **Copy from an existing profile** auswählen.
 
-## <a name="profile-guidelines"></a>Profilrichtlinien
+### <a href="" id="partner_info"></a>Partnerinformationen
 
+Stellen Sie Ihr Unternehmen vor, indem Sie ein Logo, eine kurze Beschreibung sowie einen Link zu Ihrer Website hinzufügen. 
 
--   Ihr Profil kann bis zu 2500Zeichen lang sein, aber knapp formulierte Profile sind häufig am effektivsten.
+Das Logo kann eine GIF-, JPG- oder PNG-Datei mit einer maximalen Breite von 300 Pixeln sein. Wir empfehlen die Verwendung von quadratischen oder langen Seitenverhältnissen. Hohe Seitenverhältnisse werden nicht empfohlen.
 
--   Beschreiben Sie Ihre Qualifikationen und Erfahrungen oder die Ihres Unternehmens.
+Die Beschreibung kann bis zu 1000Zeichen lang sein. Tipps für eine hervorragende Beschreibung: 
 
--   Verwenden Sie Ihren rechtsgültigen Firmennamen.
+*  **Halten Sie sich kurz**. Die ersten ein oder zwei Sätze sollten die wichtigsten Informationen enthalten. Dies sollte die Überschrift sein, die die Aufmerksamkeit der Kunden erregt. Auf der Seite zum Suchen von Partnern werden die ersten ein oder zwei Zeilen in der Vorschau der Suchergebnisse angezeigt.
+*  **Konzentrieren Sie sich auf Ihre Erfahrungen mit Microsoft-spezifischen Angeboten**. Kunden, die nach Empfehlungen suchen, möchten in der Regel Partner mit Microsoft-spezifischen Erfahrungen ausfindig machen.
+*  **Aufzählungen verwenden**. Unterteilen Sie Informationen in eine Liste mit Aufzählungszeichen, die leichter zu überfliegen ist.
+*  **Fachsprache vermeiden**. Verwenden Sie einfache Alltagssprache, und benennen Sie Ihre Angebote nach ihren Funktionen – welche Geschäftsanforderungen sie erfüllen oder welche Aufgaben und Ziele Kunden mit ihnen erreichen.
+*  **Machen Sie sich keine Gedanken darüber, die Beschreibung mit Schlüsselwörtern zu füllen**. Die Kundensuchtools suchen nicht in der Beschreibung, sondern im Abschnitt mit den Partnerkenntnissen nach Schlüsselwörtern.
+*  **Ihr Profil aktuell halten**. Aktualisieren Sie mit jeder Software- oder Diensteveröffentlichung Ihr Profil, und stimmen Sie es mit Ihrer Unternehmenswebsite ab.
+*  **Verweisen Sie nicht auf ein anderes Microsoft-Partnerunternehmen nach Namen**, es sei denn, es ist eine Tochtergesellschaft oder ist Ihrem Unternehmens aus irgendeinem anderen Grund zugeordnet, oder Sie haben eine aktuelle Vereinbarung mit diesem Partnerunternehmen, gemeinsame Arbeitschancen partnerschaftlich zu nutzen oder einander dabei zu begünstigen.
 
--   Fügen Sie den Link zur Unternehmens-Homepage im Feld „Website” ein.
+#### <a href="" id="linkedin"></a> LinkedIn-Unternehmensseite: mehr Möglichkeiten für Kundenbeziehungen
 
--   Stellen Sie sicher, dass alle Ihre Informationen aktuell und korrekt sind.
+Fügen Sie Ihre LinkedIn-Unternehmensseite hinzu, um die Beziehungen mit potenziellen Kunden zu stärken. 
 
--   Verweisen Sie nicht auf ein anderes Microsoft-Partnerunternehmen nach Namen, es sei denn, es ist eine Tochtergesellschaft oder ist Ihrem Unternehmens aus irgendeinem Grund zugeordnet, oder Sie haben eine aktuelle Vereinbarung mit diesem Partnerunternehmen, gemeinsame Arbeitschancen partnerschaftlich zu nutzen oder einander dabei zu begünstigen.
+Wenn Sie diesen Link aufnehmen, können Kunden schnell über die LinkedIn-Plattform weitere Informationen zu Ihrer Organisation anzeigen.
 
--   Schlüsselwörter, die Kunden bei der Suche eingeben, haben die stärkste Gewichtung. Geben Sie Schlüsselwörter zur präzisen Beschreibung Ihrer Angebote sowie Branchenterminologie ein, die Ihre Kunden möglicherweise zum Suchen nach Lösungen verwenden.
+Wenn Sie nicht bereits über eine LinkedIn-Unternehmensseite verfügen, können Sie [jetzt eine erstellen](https://www.linkedin.com/company-beta/setup/new/).
 
-## <a name="ten-tips-for-a-great-profile"></a>Zehn Tipps für ein hervorragendes Profil
+### <a name="partner-expertise"></a>Partnererfahrung
 
+Die Kundensuchtools suchen nach Fachwissen-Tags. Wenn Sie Ihr Profil anpassen, um die Sichtbarkeit zu gewährleisten, lohnt es sich, Zeit in die Optimierung dieser Tags zu investieren.
 
-1.  **Ihr Publikum kennen** Schreiben Sie, als ob Sie mit Ihren Kunden sprechen, nicht mit Ihrem internen Team oder Microsoft.
+Starten Sie, indem Sie Ihre eigenen Tags im Abschnitt mit den Partnerkenntnissen hinzufügen. Tags, die Sie hinzufügen können: 
 
-2.  **Einen ansprechenden ersten Satz formulieren** Wenn Kunden nicht in den ersten zwei Sätzen erkennen können, dass Sie über das Wissen und Know-how verfügen, um ihre Anforderungen erfüllen, werden sie zum nächsten Partner in den Suchergebnissen übergehen.
+*  **Branchenfokus-Tags**. Bis zu 5 Branchen
+*  **Produkte**. Beschränkt auf Microsoft-Produkte
+*  **Diensttyp** 
+*  **Lösungen, Kenntnisse und Fähigkeiten**. Diese Tags können frei formuliert werden und bieten Ihnen die Möglichkeit, Suchbegriffe hinzuzufügen, die speziell für Ihre Fähigkeiten gelten.
 
-3.  **Präzise sein** Leute lesen online nicht, sie überfliegen lediglich. Formulieren Sie klar und knapp, indem Sie sachliche Informationen zu Ihren Kenntnissen und Kompetenzen angeben. Weniger ist mehr.
+Andere in der Suche verwendete Tags:
+*  **[Kompetenz-Tags](https://partner.microsoft.com/membership/competencies)** sind eine Auszeichnung, die sich Ihr Unternehmen für seine Kenntnisse verdient hat.
+*  **Unterstützungs-Tags** werden erzielt, wenn Microsoft oder Ihre Kunden, die mit Ihnen gearbeitet haben, Ihre Arbeit unterstützen.
 
-4.  **Relevante Schlüsselwörter einschließen** Das Einschließen von Schlüsselwörtern zählt zu den wichtigsten Dingen beim Optimieren Ihres Profils für Ihre Seitensuche und Suchmaschinen. Schlüsselwörter können Microsoft-Produktnamen, Unternehmensanforderungen, Branchentrends und Branchenkanäle sein.
+#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Microsoft die Unterstützung meiner Fachgebiete erlauben
 
-5.  **Zeigen, dass Sie die Kundenwünsche kennen** Konzentrieren Sie sich auf wertorientierte Begriffe und die Vorteile, die Ihr Angebot den Kunden eröffnet, nicht auf Prozesse oder Softwarefeatures.
+Wenn Sie Erfolge mit Kunden über Partner Center oder durch die Teilnahme an anderen Microsoft-Zertifizierungen oder -Programmen nachweisen, fügen wir automatisch Unterstützungen für Ihre spezifischen Produkte, Dienste und Branchen hinzu, die zu diesem Erfolg beitragen. Unterstützungen sind ein wichtiger Faktor bei Suchergebnissen.
 
-6.  **Aktive Sprache verwenden** Schreiben Sie mit Verben und Aktionsanweisungen. Vermeiden Sie passive Sprache wie „Wir haben Expertise bereitgestellt..."
+Es wird empfohlen, diese Einstellung aktiviert zu lassen. Liegen jedoch Produkte vor, für die Sie zwar Dienstleistungen anbieten, die aber nicht in Ihrem Profil angezeigt werden können, können Sie dieses Kontrollkästchen deaktivieren und Ihr Profil manuell verwalten. Diese Unterstützungen werden in der Ansicht der Kunden ausgeblendet, Sie können sie jedoch später jederzeit wieder zu Ihrem Profil hinzufügen.
 
-7.  **Aufzählungspunkte verwenden** Teilen Sie sequenzierte Informationen (a, b, c, d, usw.) in Aufzählungen auf, um das Überfliegen zu erleichtern.
+### <a name="customer-preferences"></a>Kundenpräferenzen
 
-8.  **Fachsprache vermeiden** Verwenden Sie einfache Alltagssprache, auch wenn Sie etwas sehr Technisches beschreiben.
+#### <a href="" id="#target_size"></a>Zielgröße
 
-9.  **Um Klarheit bemühen** Vermeiden Sie abweichende oder erfundene Namen für Ihre Anwendungen oder Dienste. Benennen Sie Ihre Angebote nach ihren Funktionen – welche Geschäftsanforderungen sie erfüllen oder welche Aufgaben und Ziele Kunden mit ihnen erreichen.
+Um die Arten der Empfehlungen einzuschränken, die Sie erhalten, können Sie eine Präferenz hinzufügen, um nur mit Unternehmen einer bestimmten Größe zu arbeiten. Durch Hinzufügen dieser Präferenzen erhalten Sie keine Empfehlungen von Unternehmen anderer Größen mehr.
 
-10. **Ihr Profil aktuell halten** Halten Sie Ihr Profil mit der Webpräsenz Ihres Unternehmens synchron. Aktualisieren Sie Ihr Profil und Ihre Seite, wenn eine neue Software oder ein neuer Service veröffentlicht wird, um eine nahtlose Benutzererfahrung sicherzustellen.
+Kundensuchergebnisse nutzen die Reaktionsfähigkeit Ihres Unternehmens als Faktor. Damit Sie die Sichtbarkeit für künftige Suchvorgänge verbessern können, reagieren Sie schnell auf eingehende Kundenanfragen.
+
+Die Deaktivierung von Empfehlungen von Unternehmen, die nicht mit der Zielkundengröße übereinstimmen, trägt dazu bei, dass Sie insgesamt schneller sind.
+
+### <a href="" id="#locations"></a> Standorte
+
+Sie können bis zu 5 Standorte pro Region hinzufügen. Diese Standorte werden angezeigt, wenn Kunden nach Partnern basierend auf der Lage suchen. 
+
+Geben Sie Standorte an, die offizielle Geschäftssitze sind und überprüft werden können. Wählen Sie Standorte aus, die für die Märkte, die Sie bedienen, von zentraler Bedeutung sind, und die die Fähigkeit Ihres Unternehmens, Anforderungen zu erfüllen, am besten repräsentieren.
+
+## <a name="improve-the-visibility-of-your-profile"></a>Verbessern der Sichtbarkeit Ihres Profils 
+
+*  **[Reagieren Sie schnell auf Anfragen](responding-to-referrals.md)**. Wenn Sie eine Kundenempfehlung erhalten, kann eine schnellere Antwort für zukünftige Kunden zu besseren Ergebnissen auf den Suchseiten führen.
+*  **Seien Sie wählerisch bei Ihren Tags**.  Es ist besser, weniger Tags zu haben, die die Angebote, Lösungen, Nutzenversprechen und eindeutige Position Ihres Unternehmens am besten darstellen, damit Sie konsistent Erfolge nachweisen können.  Davon profitieren Sie in zukünftigen Suchergebnissen.
+*  **Verdienen Sie [Kompetenz-Tags](https://partner.microsoft.com/membership/competencies)** über Microsoft, um Ihr Sachverständnis in Bezug auf unsere Produkte zu demonstrieren.
+*  **Verdienen Sie Unterstützungs-Tags** von Kunden, die Ihre Arbeit zu schätzen wissen.
 
 ## <a name="related-topics"></a>Verwandte Themen
-
-
-[Wechsel von Pinpoint zu Partner Center](importing-pinpoint-profiles-into-partner-center.md)
-
- 
-
- 
-
-
-
+[Reaktion auf Empfehlungen](responding-to-referrals.md)

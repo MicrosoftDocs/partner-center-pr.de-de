@@ -3,16 +3,18 @@ title: Aussetzen eines Abonnements | Partner Center
 description: "Partner können ein Abonnement auf Anforderung des Kunden, bei Nichtbezahlung oder bei Betrug aussetzen oder kündigen."
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
-ms.openlocfilehash: e0911a3dbc43cf7797e1626e6924a2fedbddb3f0
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 6252a494e69c2a2d2b33a0896092b064b52c1881
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: de-DE
 ---
 # <a name="suspend-a-subscription"></a>Aussetzen eines Abonnements
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud Deutschland
 
 Partner können ein Abonnement auf Anforderung des Kunden, bei Nichtbezahlung oder bei Betrug aussetzen oder kündigen.
 

@@ -3,16 +3,18 @@ title: "Mandantenkonsolidierung für regionale CSP-Autorisierung | Partner Cente
 description: "Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschiedene Länder/Regionen."
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
-ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: fe08fcfbb555b4913fa747d538abf08a18658e09
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: de-DE
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Mandantenkonsolidierung für regionale CSP-Autorisierung
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud Deutschland
 
 \[Einige Informationen beziehen sich auf die Vorabversion, die vor der kommerziellen Freigabe möglicherweise wesentlichen Änderungen unterliegt. Microsoft übernimmt für die hier bereitgestellten Informationen keine Garantie, weder ausdrücklicher noch impliziter Art.\]
 

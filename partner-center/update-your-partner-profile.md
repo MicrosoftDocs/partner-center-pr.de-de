@@ -3,16 +3,18 @@ title: Aktualisieren von Partnerprofilen | Partner Center
 description: "Wenn Sie sich zum ersten Mal als Administrator bei Partner Center anmelden, sollten Sie überprüfen, ob die Supportdetails korrekt sind, Steuerbefreiungen beantragen, wenn zutreffend, und die Kontaktinformationen in Ihren Profilen überprüfen."
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 007401c88d64c7201c23c0c64bb84a9c47dcdf92
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: de-DE
 ---
 # <a name="update-your-partner-profile"></a>Aktualisieren von Partnerprofilen
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud Deutschland
 
 Wenn Sie sich zum ersten Mal als Administrator bei Partner Center anmelden, sollten Sie überprüfen, ob die Supportdetails korrekt sind, Steuerbefreiungen beantragen, wenn zutreffend, und die Kontaktinformationen in Ihren Profilen überprüfen.
 

@@ -3,16 +3,18 @@ title: Melden von Problemen im Auftrag eines Kunden | Partner Center
 Description: "Wenn ein Kunde ein Problem mit einem Dienst meldet, das Sie nicht beheben können und das die unter „Eskalieren von Problemen an Microsoft“ beschriebenen Kriterien erfüllt, beantragen Sie ein Supportticket für den Kunden."
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
-ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 8c59c9d67ab06bd515945e613b14b79d21d318b8
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: de-DE
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Melden von Problemen im Auftrag eines Kunden
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud Deutschland
 
 Wenn ein Kunde ein Problem mit einem Dienst meldet, das Sie nicht beheben können und das die unter [Eskalieren von Problemen an Microsoft](escalate-problems-to-microsoft.md) beschriebenen Kriterien erfüllt, beantragen Sie ein Supportticket für den Kunden. Dieser Vorgang eignet sich auch zum Eskalieren von Abrechnungsproblemen oder -streitigkeiten und Betrugsverdachtsfällen.
 

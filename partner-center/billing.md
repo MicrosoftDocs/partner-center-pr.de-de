@@ -3,20 +3,22 @@ title: Abrechnung | Partner Center
 Description: "Als Cloud-Lösungsanbieter bezahlen Sie Microsoft rückwirkend für 60Tage für die lizenzbasierten und die nutzungsbasierten Abonnements Ihrer Kunden."
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 85a187589eebf1724f98f16f15ae58e5ea105baf
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: de-DE
 ---
 # <a name="billing"></a>Abrechnung
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud Deutschland
 
 Als Cloud-Lösungsanbieter bezahlen Sie Microsoft rückwirkend für 60Tage für die lizenzbasierten und die nutzungsbasierten Abonnements Ihrer Kunden.
 
-Ihre Rechnung finden Sie im **Dashboard**-Menü unter **Abrechnung**. Auf dieser Abrechnungsseite können Sie Ihren Abrechnungsverlauf und -trend, den fälligen Betrag für den aktuellen Monat, Links zu Ihrer Rechnung und zu den Abstimmungsdateien sowie Ihre letzte Zahlung anzeigen.
+Ihre Rechnung finden Sie im **Dashboard**-Menü unter **Abrechnung**. Auf dieser Abrechnungsseite können Sie Ihren Abrechnungsverlauf und -trend, den fälligen Betrag für den aktuellen Monat (oder für das aktuelle Jahr, falls die Abrechnung jährlich erfolgt), Links zu Ihrer Rechnung und zu den Abstimmungsdateien sowie Ihre letzte Zahlung anzeigen.
 
 -   Microsoft hat keine Anforderungen oder Bedingungen hinsichtlich Ihrer eigenen Abrechnung.
 -   Um die Nutzung durch die Kunden zu ermitteln, verwenden Sie die Kunden-ID/den Kundennamen und andere relevante Felder in den Erstattungsdateien.
@@ -76,7 +78,7 @@ Ihre Rechnung finden Sie im **Dashboard**-Menü unter **Abrechnung**. Auf dieser
 <tr class="odd">
 <td>Abrechnungsregeln</td>
 <td><ul>
-<li>Sie erhalten jeden Monat eine Rechnung für das CSP-Programm.</li>
+<li>Sie erhalten jeden Monat (oder jedes Jahr, wenn die Abrechnung jährlich erfolgt) eine Rechnung für das CSP-Programm.</li>
 <li>Lizenzbasierte Abonnements werden basierend auf erworbenen Lizenzen und nicht anhand verwendeter Lizenzen abgerechnet.</li>
 <li>Azure (nutzungsbasierte Abonnements) werden gemäß den gemessenen Sätzen, basierend auf der Nutzung belastet.</li>
 <li>Der Preis wird während der Laufzeit des Abonnements garantiert. Preise können sich bei der Abonnementverlängerung ändern.</li>
@@ -92,7 +94,7 @@ Ihre Rechnung finden Sie im **Dashboard**-Menü unter **Abrechnung**. Auf dieser
 <td>Anpassungen/Guthaben/Kündigungen</td>
 <td><ul>
 <li>Guthaben für Testkonten und Integrationstests sind nicht zulässig. Um Abonnementgebühren oder Gebühren bei vorzeitiger Beendigung zu vermeinen, wenn Sie Tests durchführen, können Sie das Abonnement während des kostenlosen Zeitraums kündigen. Alle Nutzungsgebühren für Azure-Dienste liegen in Ihrer Verantwortung.</li>
-<li>Anpassungen und rückständige Guthaben werden in der nächsten monatlichen Rechnung angezeigt, nachdem das Guthaben oder die Anpassung angerechnet wurde.</li>
+<li>Anpassungen und rückständige Guthaben werden in der nächsten monatlichen (oder jährlichen) Rechnung angezeigt, nachdem das Guthaben oder die Anpassung angerechnet wurde.</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -103,6 +105,18 @@ Ihre Rechnung finden Sie im **Dashboard**-Menü unter **Abrechnung**. Auf dieser
 <li>Für eine <strong>Freistellung von der Quellensteuer und Verkaufssteuer</strong> müssen Sie Steuerunterlagen über eine Serviceanfrage übermitteln. Die Änderungen und entsprechenden Erstattungen werden in Ihrem nächsten Abrechnungszyklus angezeigt.</li>
 <li>Für eine <strong>Freistellung von der Umsatzsteuer</strong> müssen Sie Ihre Umsatzsteueridentifikationsnummer (von Microsoft überprüft) über eine Serviceanfrage übermitteln. Die Änderungen und entsprechenden Erstattungen werden in Ihrem nächsten Abrechnungszyklus angezeigt.</li>
 <li>Weitere Steuerinformationen erhalten Sie von Ihrem örtlichen Finanzamt oder Steuerberater.</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Frequenz</td>
+<td>
+Lizenzbasierte Abrechnung kann monatlich oder jährlich erfolgen. Führen Sie zum Auswählen einer Option folgende Schritte aus:
+<ol>
+<li>Wählen Sie den Kunden aus.</li>
+<li>Klicken Sie auf Abonnement hinzufügen.</li>
+<li>Wählen Sie unter Billing frequency Monatlich oder Jährlich aus. (Hinweis: Wenn Sie eine Auswahl getroffen haben, können Sie sie nicht mehr ändern.)</li>
+<li>Wählen Sie das Abonnement aus dem Katalog.</li>
+</ol>
 </ul></td>
 </tr>
 </tbody>
@@ -132,10 +146,10 @@ Ihre Rechnung finden Sie im **Dashboard**-Menü unter **Abrechnung**. Auf dieser
 <td>Abrechnungsregeln</td>
 <td><ul>
 <li>Abonnements gelten für ein Jahr und werden automatisch verlängert.</li>
-<li>Die Abrechnung erfolgt in 12 monatlichen Zahlungen pro Jahresabonnement.</li>
+<li>Die Abrechnung erfolgt in 12 monatlichen Zahlungen oder einer jährlichen Zahlung pro Jahresabonnement.</li>
 <li>Lizenzbasierte Dienste werden (basierend auf der Anzahl an Lizenzen am Ende des vorherigen Abrechnungszeitraums) im Voraus für den nächsten Abrechnungszeitraum abgerechnet.</li>
 <li>Änderungen an der Anzahl der Lizenzen (anteilsmäßige Berechnung basierend auf Lizenzen/Tagen) werden nachträglich in Rechnung gestellt/gutgeschrieben. Die anteilsmäßige Berechnung verwendet die folgende Formel: [ROUND((ROUND(Einheitenpreis * Menge/Anzahl von Tagen im anteilsmäßigen Monat, 2) * Anzahl von anteilsmäßigen Tagen)/Menge, 2) * Menge]</li>
-<li>Zahlungen basieren auf verkauften Arbeitsplätzen (und nicht auf bereitgestellten Arbeitsplätzen).</li>
+<li>Zahlungen basieren auf verkauften Plätzen (und nicht auf bereitgestellten Plätzen).</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -143,6 +157,18 @@ Ihre Rechnung finden Sie im **Dashboard**-Menü unter **Abrechnung**. Auf dieser
 <td><ul>
 <li>Gebühren für eine vorzeitige Beendigung werden derzeit nicht für die Kündigung lizenzbasierter Dienste in Rechnung gestellt.</li>
 <li>Gutschriften für Kündigungen für lizenzbasierte Dienste werden bei Kündigungen in der Zyklusmitte für nicht genutzte Tage anteilsmäßig berechnet (und Lizenzreduzierungen nach der Formel oben).</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Frequenz</td>
+<td>
+Lizenzbasierte Abrechnung kann monatlich oder jährlich erfolgen. Führen Sie zum Auswählen einer Option folgende Schritte aus:
+<ol>
+<li>Wählen Sie den Kunden aus.</li>
+<li>Klicken Sie auf Abonnement hinzufügen.</li>
+<li>Wählen Sie unter Billing frequency Monatlich oder Jährlich aus. (Hinweis: Wenn Sie eine Auswahl getroffen haben, können Sie sie nicht mehr ändern.)</li>
+<li>Wählen Sie das Abonnement aus dem Katalog.</li>
+</ol>
 </ul></td>
 </tr>
 </tbody>

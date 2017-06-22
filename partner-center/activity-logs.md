@@ -3,16 +3,19 @@ title: "Anzeigen von Kundenaktivitätsprotokollen | Partner Center"
 description: "Aktivitätsprotokolle enthalten Informationen zu Transaktionen und Partnerverwaltungsaktionen für Kunden."
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
-ms.openlocfilehash: 5f6c4eb0574bbe73a41a38a1312f0da4240d531e
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 6033b58f52889f8656b3827a0aaef5525abd3c9d
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: de-DE
 ---
 # <a name="view-customer-activity-logs"></a>Anzeigen von Kundenaktivitätsprotokollen
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud Deutschland
+
 
 Aktivitätsprotokolle enthalten Informationen zu Transaktionen und Partnerverwaltungsaktionen für Kunden. Protokolle für Transaktionen bieten detaillierte Informationen zu Transaktionen, einschließlich zahlungspflichtiger Abonnements. Sie können Aktivitätsprotokolle auch in eine mit Excel kompatible durch Trennzeichen getrennte Datei (.csv) exportieren.
 

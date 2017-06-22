@@ -2,9 +2,11 @@
 title: "Registrieren für das Cloud-Lösungsanbieter-Programm für Microsoft Cloud für US-Behörden | Partner Center für Microsoft Cloud für US-Behörden"
 description: "Lesen Sie mehr über die CSP-Programmanforderungen, bevor Sie sich für das Cloud-Lösungsanbieter-Programm für Microsoft Cloud für US-Behörden registrieren."
 author: MaggiePucciEvans
-ms.openlocfilehash: fec9ea2ddebda84d2110d34313cfdc8492727fee
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 152634d9aca087396c46d841b085b0231c5498c8
+ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 06/06/2017
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registrieren für das Microsoft Cloud-Lösungsanbieter-Programm für Microsoft Cloud für US-Behörden
 
@@ -18,7 +20,7 @@ Microsoft-Partner im Cloud-Lösungsanbieter (CSP)-Programm können Partner Cente
 
 Weitere Informationen finden Sie unter [Partner Center für Microsoft Cloud für US-Behörden](partner-center-for-microsoft-us-govt-cloud.md).
 
-Vor der Registrierung für das Cloud-Lösungsanbieter (CSP)-Programm müssen Sie ein neues Konto für Microsoft Azure Government erstellen. Um dieses Konto zu erstellen, füllen Sie das [Formular zur Microsoft Government Cloud-Überprüfung](https://aka.ms/azgovcspreq) aus und senden Sie es per E-Mail an <azgovcsp@microsoft.com>.
+Vor der Registrierung für das Cloud-Lösungsanbieter (CSP)-Programm müssen Sie ein neues Konto für Microsoft Azure Government erstellen. Um dieses Konto zu erstellen, füllen Sie das [Formular zur Microsoft Government Cloud-Überprüfung](http://azuregov.microsoft.com/csp) aus und senden Sie es per E-Mail an <azgovcsp@microsoft.com>.
 
 >**Wichtig**<br>
 Wenn Sie im Partner Center über ein vorhandenes Konto verfügen und Sie bei CSP für Microsoft Cloud für US <Government></Government> anmelden möchten, müssen Sie ein neues, separates Konto für Partner Center für Microsoft Cloud für US Behörden erstellen.
@@ -35,7 +37,7 @@ Um für CSP für Microsoft Cloud für US-Behörden ein Partner Center-Konto zu e
 
 1.  Starten Sie den Registrierungsprozess. 
 
-2.  Melden Sie sich mit den globalen Administrator-Anmeldeinformationen für das Microsoft Cloud für US-Behörden-Konto Ihrer Organisation für Microsoft Azure an. Wenn Ihre Organisation kein Konto für dieses Portal besitzt, können Sie eines erstellen, indem Sie das [Formular zur Microsoft Government Cloud-Überprüfung](https://aka.ms/azgovcspreq) ausfüllen und per E-Mail an <azgovcsp@microsoft.com> senden.
+2.  Melden Sie sich mit den globalen Administrator-Anmeldeinformationen für das Microsoft Cloud für US-Behörden-Konto Ihrer Organisation für Microsoft Azure an. Wenn Ihre Organisation kein Konto für dieses Portal besitzt, können Sie eines erstellen, indem Sie das [Formular zur Microsoft Government Cloud-Überprüfung](http://azuregov.microsoft.com/csp) ausfüllen.
 
 
 ### <a name="step-2---apply-to-become-a-cloud-solution-provider-partner-within-microsoft-cloud-for-us-government"></a>Schritt2: Bewerben Sie sich als Cloud-Lösungsanbieter in Microsoft Cloud für US-Behörden

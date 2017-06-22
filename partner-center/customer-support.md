@@ -3,16 +3,18 @@ title: Kundensupport | Partner Center
 description: "Sie sind die erste Anlaufstelle für Ihre Kunden, und es wird erwartet, dass Sie die folgenden technischen und Kontosupportleistungen für Ihre Kunden bereitstellen: Support für Abrechnung und Abonnements Hilfe bei Bereitstellung und Softwarekonfiguration Beheben von Leistungsproblemen, Dienstverfügbarkeitsproblemen, Problemen bei der Netzwerkkonnektivität und Clientdesktopproblemen aufgrund fehlender oder nicht ordnungsgemäß konfigurierter Einstellungen, unvollständiger Softwareintegration, Berechtigungsproblemen oder anderen Bereitstellungsproblemen. Verwalten von Updates für Dienste und Software Antworten auf Nutzungsfragen Cloud-Lösungsanbieter müssen eine klare Beschreibung davon bereitstellen, wie Kunden Support erhalten. Wenn Sie keinen telefonischen Support rund um die Uhr anbieten, müssen Sie eine Vereinbarung zum Servicelevel bereitstellen, um Ihren Kunden die verfügbaren Optionen zu erläutern. Microsoft bietet keinen Support für CSP-Kunden."
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
-ms.openlocfilehash: 6541bd47fb66d9e51163b178d4b377b9e3714ccb
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: ee8ccd7ab7222eedcc3455b91c522f0005f60b9e
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: de-DE
 ---
 # <a name="customer-support"></a>Kundensupport
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud Deutschland
 
 Sie sind die erste Anlaufstelle für Ihre Kunden, und es wird erwartet, dass Sie die folgenden technischen und kontospezifischen Supportleistungen für Ihre Kunden bereitstellen:
 

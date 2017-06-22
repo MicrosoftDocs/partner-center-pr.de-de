@@ -2,9 +2,11 @@
 title: "Partner Center für Microsoft Cloud für US-Behörden | Partner Center für Microsoft Cloud für US-Behörden"
 description: "Partner Center für Microsoft Cloud für US-Behörden ist das Unternehmensportal für Microsoft-Partner, die Microsoft-Cloudlösungen für Kunden anbieten möchten, die mit Regierungsbehörden in den USA arbeiten."
 author: MaggiePucciEvans
-ms.openlocfilehash: 38bdfa4ca862dc2cfb6854505c43d83cc4a252bd
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 2eac70334691c353310d21168c2f48e3bea452c5
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 06/09/2017
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Partner Center für Microsoft Cloud für US-Behörden
 
@@ -34,7 +36,7 @@ Zum Zeitpunkt der Veröffentlichung dieses Artikels, waren folgende Partner Cent
 - Partner suchen
 - Marketingprofile
 - Empfehlung
-- Partnerschaft mit einem vorhandenen Kunden (Multichannel, Multipartner) beantragen
+- Vertriebspartnerschaft mit einem Kunden (Multichannel, Multipartner) beantragen
 - Lizenzanalyse
 - Kundendaten
 - Indirekte Händler/Anbietermodelle und -Einstellungen

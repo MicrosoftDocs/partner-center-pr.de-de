@@ -2,9 +2,10 @@
 title: "Registrieren für das Cloud-Lösungsanbieter-Programm für Microsoft-Cloud Deutschland | Partner Center für Microsoft-Cloud Deutschland"
 description: "Lesen Sie mehr über die CSP-Programmanforderungen, bevor Sie sich für das Microsoft Cloud Deutschland-Programm registrieren."
 author: MaggiePucciEvans
-ms.openlocfilehash: c804ca7136be7b34ef48e06ee36ef2899f3030f9
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d7251d597357573010e589bfea8ed6bae1a91630
+ms.sourcegitcommit: a9d2fc656bec004a0c229bd855d2e661773c05c7
+ms.translationtype: HT
+ms.contentlocale: de-DE
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Registrieren für das Microsoft Cloud-Lösungsanbieter-Programm für Microsoft-Cloud Deutschland
 
@@ -32,7 +33,7 @@ Um für CSP für Microsoft-Cloud Deutschland ein Partner Center-Konto zu erstell
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>Schritt1: Erstellen eines Kontos für Partner Center für Microsoft-Cloud Deutschland 
 
-1.  Starten Sie den Registrierungsprozess. 
+1.  Rufen Sie für die Registrierung im CSP für Microsoft Cloud Deutschland [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) auf und wählen Sie **Anmelden**. 
 
 2.  Melden Sie sich mit globalen Administrator-Anmeldeinformationen für das Microsoft-Cloud Deutschland Konto Ihres Unternehmens für Office365, Microsoft Azure- oder Microsoft Dynamics an. Wenn Ihr Unternehmen kein Konto für diese Portale besitzt, erstellen Sie dieses durch auswählen der Option **Konto erstellen**.
 

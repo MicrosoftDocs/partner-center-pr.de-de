@@ -3,16 +3,18 @@ title: Steuern und Steuerbefreiungen | Partner Center
 description: "Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf den Weiterverkauf von Produkten durch Partner konzentriert, ist Microsoft nicht in allen Fällen verpflichtet, bei Partnerrechnungen die Mehrwertsteuer zu berechnen."
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 91a25481aa3074166a2010ef3e309767183829f0
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: de-DE
 ---
 # <a name="tax-and-tax-exemptions"></a>Steuern und Steuerbefreiungen
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud Deutschland
 
 Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf den Weiterverkauf von Produkten durch Partner konzentriert, ist Microsoft nicht in allen Fällen verpflichtet, bei Partnerrechnungen die Mehrwertsteuer zu berechnen. Die Bestimmungen variieren je nach Land/Region. Partner sollten basierend auf ihrem Handelsstandort und dem ihrer Kunden mit Unterstützung ihres Steuerberaters die geeigneten Steuerbefreiungen beantragen. Um nachzuweisen, dass sein Microsoft-Handelspartnerkonto steuerbefreit ist, sollte der Partner die Bescheinigung zur Umsatzsteuerbefreiung an Microsoft übermitteln.
 

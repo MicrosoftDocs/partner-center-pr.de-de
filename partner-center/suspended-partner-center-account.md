@@ -3,9 +3,10 @@ title: Wiederherstellen ausgesetzter PartnerCenter-Konten | Partner Center
 description: "Erfahren Sie, wie Sie ein ausgesetztes Partner Center-Konto wiederherstellen, warum Partner Center-Konten ausgesetzt werden, und wie Sie Ihr Konto verwenden können, während es ausgesetzt ist."
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
-ms.openlocfilehash: e749e49fe70d4f20d1d428d9c0ad9ede5751ae1d
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: b3eecda15bc4dc6363a288a768463acec86aa29f
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: de-DE
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Wiederherstellen ausgesetzter PartnerCenter-Konten
 
@@ -14,7 +15,8 @@ In diesem Artikel wird erläutert, was zu tun ist, wenn Ihr Partner Center-Konto
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud Deutschland
 
 >**Wichtig**<br>
 Während Ihr Partner Center-Konto ausgesetzt ist, können Sie vorhandene Bereitstellungen, Lizenzen und Dienste weiter verwalten. Sie können allerdings keine neuen Lizenzen oder Dienste autorisieren oder verkaufen, bis Ihr Konto wieder einwandfrei führen.

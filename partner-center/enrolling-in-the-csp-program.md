@@ -3,9 +3,11 @@ title: "Registrieren für das CSP-Programm | Partner Center"
 description: "Lesen Sie mehr über die CSP-Programmanforderungen, bevor Sie sich für das Cloud-Lösungsanbieter-Programm registrieren."
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
-ms.openlocfilehash: 88fd35cea2e44d905bec63a7963c886dbd27c07f
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f5e4f345ed3bdf33022e135f17f2f9e908b67457
+ms.sourcegitcommit: a905afc18ffc20e3469933fa005336f1e9b520f4
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 06/07/2017
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud-Lösungsanbieter
 
@@ -19,7 +21,7 @@ Weitere Informationen zur Registrierung für das Cloud-Lösungsanbieter-Programm
 Lesen Sie mehr über die [CSP-Programmanforderungen]( http://go.microsoft.com/fwlink/p/?LinkId=617116), bevor Sie sich für das Cloud-Lösungsanbieter-Programm registrieren. Weitere Informationen zur Partnervereinbarung und anderen Programmanforderungen finden Sie unter [CSP-Vereinbarungen, Preislisten und Angebote](csp-documents-and-learning-resources.md). 
 
 >**Wichtig**<br>
-Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Ankündigungen der künftigen Versionen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner Center.  
+Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Diese Einschränkung gilt nur für Mandanten, die für die Durchführung von CSP-Transaktionen verwendet werden. CSP-Partner, die einen Nicht-CSP-Mandanten für ihre Unternehmensnutzung verwenden, können Onlinedienste von einem anderen CSP erwerben. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Ankündigungen der künftigen Versionen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner Center.  
 
 Erfahren Sie, wie Sie sich für CSP-Programmanreize qualifizieren, die Anreizplattform integrieren und Anreize sammeln. Weitere Informationen finden Sie unter [Programmdetails](https://go.microsoft.com/fwlink/?linkid=831533).
 
@@ -40,11 +42,32 @@ Das Programm für Cloud-Lösungsanbieter ist für Unternehmen mit Sitz in den fo
 | Taiwan                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | USA                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Australien, Fidschi                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Argentinien, Bahamas, Barbados, Belize, Bermuda, Bolivien, Kaimaninseln, Chile, Kolumbien, Costa Rica, Curacao, Dominikanische Republik, Ecuador, El Salvador, Guatemala, Honduras, Jamaika, Mexiko, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, St. Kitts und Nevis, Trinidad und Tobago, Uruguay, Venezuela, Jungferninseln                                                                                                           |
-| Österreich, Belgien, Bulgarien, Kroatien, Zypern, Tschechische Republik, Dänemark, Estland, Finnland, Frankreich, Deutschland, Griechenland, Ungarn, Island, Irland, Italien, Lettland, Liechtenstein, Litauen, Luxemburg, Malta, Monaco, Niederlande, Norwegen, Polen, Portugal, Rumänien, Slowakei, Slowenien, Spanien, Schweden, Schweiz, Vereinigtes Königreich, Färöer                                                                                          |
-| Afghanistan, Albanien, Algerien, Armenien, Aserbaidschan, Bahrain, Belarus, Bosnien und Herzegowina, Ägypten, Georgien, Irak, Israel, Jordanien, Kasachstan, Kuwait, Kirgisistan, Libanon, Libyen, Mazedonien (ehem. jugoslawische Republik Mazedonien), Moldawien, Mongolei, Montenegro, Marokko, Oman, Pakistan, Palästinensische Autonomiebehörde, Katar, Serbien, Tadschikistan, Tunesien, Turkmenistan, Ukraine, Vereinigte Arabische Emirate, Usbekistan, Saudi-Arabien, Südafrika, Türkei, Jemen, Simbabwe |
+| Anguilla, Antigua und Barbuda, Argentinien, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivien, Bonaire, Kaimaninseln, Chile, Kolumbien, Costa Rica, Curacao, Dominikanische Republik, Ecuador, El Salvador, Französisch-Guayana, Guadeloupe, Guatemala, Honduras, Jamaika, Martinique, Mexiko, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, St. Kitts und Nevis, St. Lucia, St. Martin, St. Vincent und die Grenadinen, Sint Maarten, Suriname, Trinidad und Tobago, Turks- und Caicosinseln, Uruguay, Venezuela, Amerikanische Jungferninseln                                                                                                           |
+| Andorra, Österreich, Belgien, Bulgarien, Kroatien, Zypern, Tschechische Republik, Dänemark, Estland, Finnland, Frankreich, Deutschland, Griechenland, Grönland, Ungarn, Island, Irland, Isle of Man, Italien, Jersey, Lettland, Liechtenstein, Litauen, Luxemburg, Madagaskar, Malawi, Mali, Malta, Mayotte, Monaco, Niederlande, Neukaledonien, Norwegen, Polen, Portugal, Rumänien, San Marino, Slowakei, Slowenien, Spanien, Schweden, Schweiz, Vereinigtes Königreich, Vatikanstadt, Färöer                                                                                          |
+| Afghanistan, Albanien, Algerien, Armenien, Aserbaidschan, Bahrain, Belarus, Benin, Bosnien und Herzegowina, Burundi, Komoren, Ägypten, Französisch-Polynesien, Georgien, Irak, Israel, Jordanien, Kasachstan, Kuwait, Kirgisistan, Libanon, Libyen, Mazedonien (ehem. jugoslawische Republik Mazedonien), Republik Moldau, Mongolei, Montenegro, Marokko, Mosambik, Oman, Pakistan, Palästinensische Behörde, Katar, Réunion, Serbien, Seychellen, Tadschikistan, Togo, Tunesien, Turkmenistan, Ukraine, Vereinigte Arabische Emirate, Usbekistan, Saudi-Arabien, Südafrika, Türkei, Jemen, Simbabwe |
 | Angola, Botsuana, Kamerun, Cabo Verde, Côte d'Ivoire, Äthiopien, Ghana, Kenia, Mauritius, Namibia, Nigeria, Ruanda, Senegal, Tansania, Uganda, Sambia                                                                                                                                                                                                                                                                                  |
-| Bangladesch, Brunei Darussalam, Hongkong (SAR), Indonesien, Malaysia, Nepal, Philippinen, Singapur, Sri Lanka, Thailand, Vietnam, Macau (SAR)                                                                                                                                                                                                                                                                                              |
+| Bangladesch, Bhutan, Brunei Darussalam, Kambodscha, Hongkong (SAR), Indonesien, Laos, Malaysia, Malediven, Marshallinseln, Myanmar, Nepal, Papua-Neuguinea, Philippinen, Singapur, Sri Lanka, Thailand, Tonga, Vietnam, Macau SAR                                                                                                                                                                                                                                                                                           |
+## <a name="billing-currencies-by-country"></a>Abrechnungswährungen nach Land
+
+Ihr geografischer Standort bestimmt die Währung, in der Ihre Rechnungen gestellt werden, wie in der folgenden Tabelle gezeigt. 
+
+| Währung | Land |
+| ---- | ---- |
+| USD | Albanien, Anguilla, Antigua und Barbuda, Argentinien, Armenien, Aruba, Aserbeidschan, Bahamas, Bahrain, Bangladesch, Barbados, Belarus, Belize, Benin, Bermuda, Bolivien, Bonaire, Brasilien, Brunei Darussalam, Burundi, Kamerun, Kaimaninseln, Chile, Kolumbien, Komoren, Costa Rica, Curaçao, Dominikanische Republik, Ecuador, Ägypten, El Salvador, Fidschi, Französisch-Guayana, Französisch-Polynesien, Georgien, Ghana, Guatemala, Honduras, Hongkong (SAR), Indonesien, Irak, Israel, Jamaika, Kasachstan, Kenia, Kuwait, Kirgisistan, Libanon, Macau SAR, Madagaskar, Malawi, Malaysia, Mali, Mauritius, Mayotte, Mexiko, Marokko, Namibia, Neukaledonien, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Peru, Philippinen, Puerto Rico, Katar, Réunion, Ruanda, St. Lucia, St. Martin, St. Vincent und die Grenadinen, Saudi-Arabien, Serbien, Seychellen, Singapur, Sint Maarten, Südafrika, Sri Lanka, Suriname, Tansania, Thailand, Timor-Leste, Togo, Trinidad und Tobago, Tunesien, Türkei, Turks- und Caicosinseln, Amerikanische Jungferninseln, Ukraine, Vereinigte Arabische Emirate, Vereinigte Staaten, Uruguay, Venezuela, Vietnam  | 
+| TWD | Taiwan |
+| SEK | Schweden |
+| INR | Indien |
+| RUB | Russland |
+| NZD | Neuseeland |
+| NOK | Norwegen |
+| KRW | Südkorea |
+| JPY | Japan |
+| GBP | Isle Of Man, Jersey, Vereinigtes Königreich |
+| EUR | Andorra, Österreich, Belgien, Kroatien, Tschechische Republik, Estland, Färöer, Finnland, Frankreich, Deutschland, Griechenland, Ungarn, Island, Irland, Italien, Lettland, Liechtenstein, Litauen, Luxemburg/Belgien, Niederlande, Polen, Portugal, Rumänien, San Marino, Slowakei, Slowenien, Spanien |
+| DKK | Dänemark |
+| CHF | Schweiz |
+| CAD | Kanada |
+| AUD | Australien, Marshallinseln, Papua-Neuguinea, Tonga |
 
  
 

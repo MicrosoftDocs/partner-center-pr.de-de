@@ -2,9 +2,10 @@
 title: "Benutzer- und Lizenzverwaltung im Partner Center für Microsoft Cloud für US-Behörden | Partner Center für Microsoft Cloud für US-Behörden"
 description: "Zur Einhaltung der nationalen, regionalen und branchenspezifischen Anforderungen, die für die Erfassung und Verwendung von Personendaten gelten, sind Benutzerverwaltungsfunktionen nicht im Partner Center für Microsoft Cloud für US-Behörden verfügbar. Stattdessen können Sie Benutzer im Azure-Portal für Microsoft Cloud für US-Behörden hinzufügen und verwalten."
 author: MaggiePucciEvans
-ms.openlocfilehash: 656f670433207aefc0762db6fd968c4423bb56c2
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 03941b023a59a004589854fdde63070971a89d3d
+ms.sourcegitcommit: f5cd8c7b90920ca30be0a16bbe008fbf499a79c7
+ms.translationtype: HT
+ms.contentlocale: de-DE
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Benutzer- und Lizenzverwaltung im Partner Center für Microsoft Cloud für US-Behörden
 
@@ -14,11 +15,12 @@ translationtype: HT
 
 Die folgenden Partner Center-Aufgaben werden mithilfe des Azure-Verwaltungsportals für Microsoft Cloud für US-Behörden verwaltet:
 
-Verwaltung der Benutzer des Partners
+- Verwaltung der Benutzer des Partners
 
-Kundenbenutzer- und -lizenzverwaltung
+- Kundenbenutzer- und -lizenzverwaltung
 
-Benutzerkennwort zurücksetzen
+- Benutzerkennwort zurücksetzen
+
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Verwalten von Benutzern im Azure-Portal für Microsoft Cloud für US-Behörden
 

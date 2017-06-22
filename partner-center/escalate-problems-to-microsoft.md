@@ -3,16 +3,18 @@ title: Eskalieren von Problemen an Microsoft | Partner Center
 description: "Es wird erwartet, dass Sie Probleme im Auftrag Ihrer Kunden lösen."
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
-ms.openlocfilehash: 51e095c5f0b7c0c8c1305905ccdb4b20683d386b
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 1875758bbaeb1b19efe0132d7b4157586479a81d
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: de-DE
 ---
 # <a name="escalate-problems-to-microsoft"></a>Eskalieren von Problemen an Microsoft
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud Deutschland
 
 Es wird erwartet, dass Sie Probleme im Auftrag Ihrer Kunden lösen. Ihre ersten Schritte sollten die [Überprüfung der Dienstintegrität](check-service-health.md) und der dokumentierten Probleme umfassen. Wenn das Problem des Kunden auf diese Weise nicht behoben werden kann, können Sie mithilfe der Administratorrechte Probleme mit der Software, den Einstellungen und der Konfiguration beheben.
 

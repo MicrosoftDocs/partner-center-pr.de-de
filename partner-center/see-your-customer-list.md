@@ -3,16 +3,18 @@ title: Verwalten der Kundenliste | Partner Center
 description: "Kundendatensätze gehören zu den wichtigsten Informationsressourcen in Partner Center."
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-ms.openlocfilehash: 0a6ed78cb9b04160e7e220074c5aa3c682ba81ec
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f5ca9d3bfde754e617eda5b172e19683469fcfe2
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: de-DE
 ---
 # <a name="manage-your-customer-list"></a>Verwalten der Kundenliste
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud Deutschland
 
 Kundendatensätze gehören zu den wichtigsten Informationsressourcen in Partner Center. Sie können Ihre Kundenkontendatenbank durchsuchen oder die gesamte Kundendatenbank bzw. eine Teilmenge in eine Excel-kompatible, durch Trennzeichen getrennte Datei (CSV-Datei) exportieren. Sie können auch Informationen zu Kundenabonnements in eine CSV-Datei exportieren.
 

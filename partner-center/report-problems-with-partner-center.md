@@ -3,16 +3,19 @@ title: Melden von Problemen mit dem Partner Center | Partner Center
 description: "Informationen zum Melden von Problemen mit Partner Center und zum Sammeln von Diagnoseinformationen für unser Support-Team."
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
-ms.openlocfilehash: 33e8c3191f433b7b414cb682e93cc10ce57c2447
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d7f6bc00f7936560acbe92386e1cb587107f584d
+ms.sourcegitcommit: 9701da2050a391b6ac2f6301691127e9665c9635
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 05/26/2017
 ---
 # <a name="report-problems-with-partner-center"></a>Melden von Problemen mit dem Partner Center
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud Deutschland
 
 Nehmen Sie Kontakt mit Partner Center-Support auf, wenn Sie Probleme mit Partner Center haben, einschließlich Fehlern oder Dienstausfällen.
 
@@ -28,7 +31,8 @@ Nehmen Sie Kontakt mit Partner Center-Support auf, wenn Sie Probleme mit Partner
 
 Wenn ein Fehler auftritt, während Sie sich auf einer Partner Center-Seite befinden, werden Sie eventuell aufgefordert, Protokollinformationen zu sammeln. Wählen Sie **Weitere Informationen sammeln** über den Link, der vom oberen Rand der Seite nach unten klappt, um das Partner Center-Client-Diagnosetool zu öffnen. Dieses Tool sammelt Informationen, die das Partner Center-Support-Team benötigt, um die Ursache des Fehlers zu ermitteln. 
 
->**Hinweis**<br>
+**Hinweis**
+
 Auf Partner Center-Seiten, die **/pcv/** in der URL enthalten, können Sie das Tool manuell öffnen, um diese Informationen zu erfassen.
 
 1.    Wechseln Sie auf die Seite mit dem Problem.
@@ -39,7 +43,7 @@ Sie erhalten eine Vorschau der Diagnoseinformationen und können diese auf eine 
 
 1.    Überprüfen Sie vor dem Senden die Informationen in der Datei, da sie persönlich identifizierbare Informationen enthalten können, die Sie entfernen möchten. 
 
-    >**Hinweis**<br />
+    >**Hinweis**<br>
     In einigen Browsern wird der Abschnitt **Seitenansicht** am unteren Rand der Seite **Vorschau** möglicherweise leer angezeigt. Dies ist in Ordnung.
 
 2.    Folgen Sie den Anweisungen auf dem Bildschirm, um die Datei zu speichern.

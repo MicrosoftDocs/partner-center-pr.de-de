@@ -3,16 +3,20 @@ title: "Neuen Kunden hinzufügen | Partner Center"
 description: "Damit Sie Abonnements verkaufen, die Abrechnung verwalten oder Support bereitstellen können, müssen Sie einen Datensatz für den Kunden in Partner Center erstellen. Dieser Datensatz enthält die Kontaktinformationen und eine AzureAD-Domäne."
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
-ms.openlocfilehash: 7066cdc60202a842502ca6a7f2e979c14280750b
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: c6bb20cdc2dbb7bc6c3a04bb8c01b5cfe685dfe4
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 06/09/2017
 ---
 # <a name="add-a-new-customer"></a>Neuen Kunden hinzufügen
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud Deutschland
+
 
 Damit Sie Abonnements verkaufen, die Abrechnung verwalten oder Support bereitstellen können, müssen Sie einen Datensatz für den Kunden in Partner Center erstellen. Dieser Datensatz enthält die Kontaktinformationen und eine AzureAD-Domäne.
 

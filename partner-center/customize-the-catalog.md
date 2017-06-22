@@ -3,16 +3,18 @@ title: Anpassen des Katalogs | Partner Center
 description: "Im Katalog sind alle Microsoft-Produkte und -Add-Ons aufgeführt, die Partnern zum Verkauf zur Verfügung stehen."
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
-ms.openlocfilehash: c4e1f1813add283f67669cc8ea0cc88fb0bb4610
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 3599d41e754e5602fbd2d82bf2c47f6e1964160a
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: de-DE
 ---
 # <a name="customize-the-catalog"></a>Anpassen des Katalogs
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud Deutschland
 
 Im Katalog sind Microsoft-Produkte und -Add-Ons aufgeführt, die Sie Ihren Kunden anbieten können. Diese Angebote werden nach Kundensegment gruppiert, inklusive Unternehmen, Kleinunternehmen oder Regierungsbehörden. Um leichter auf die Angebote zuzugreifen, die Ihre Organisation am häufigsten verwendet oder Ihren Vertriebsmitarbeitern neue Angebote zu präsentieren, können Sie bis zu fünf Angebote am Anfang der Katalogliste anheften.
 

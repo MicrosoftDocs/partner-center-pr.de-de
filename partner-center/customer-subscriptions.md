@@ -3,10 +3,11 @@ title: Kundenabonnements | Partner Center
 description: "Partner können Abonnements an Kunden verkaufen und über Partner Center verwalten."
 ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
 author: MaggiePucciEvans
-ms.openlocfilehash: 63a4b666447d3775d9e5943419e236201f097a22
-ms.sourcegitcommit: dab14e98f39e14025625a366ffcdd34c8c744376
+ms.openlocfilehash: ffc2189f9c5a8d5df3b07707c23f540142917499
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
 ms.translationtype: HT
 ms.contentlocale: de-DE
+ms.lasthandoff: 06/14/2017
 ---
 # <a name="customer-subscriptions"></a>Kundenabonnements
 
@@ -23,6 +24,8 @@ Sie können Abonnements an Kunden verkaufen und über Partner Center verwalten.
 [Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer](bulk-license-provisioning-for-multiple-users.md)
 
 [Aussetzen eines Abonnements](suspend-a-subscription.md)
+
+[Entfernen einer Partnerschaft mit einem Händler oder Kunden](remove-a-relationship.md)
 
 [Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement](add-licenses-or-services-to-an-existing-subscription.md)
 

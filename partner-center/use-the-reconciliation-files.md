@@ -2,11 +2,12 @@
 title: Verwenden der Abstimmungsdateien | Partner Center
 description: "Laden Sie die Abgleichungsdateien aus dem PartnerCenter-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
-author: MaggiePucciEvans
-ms.openlocfilehash: 7a059bfa12655334b02a76af17608569e4f42a41
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+author: KPacquer
+ms.openlocfilehash: 61e71d4207d9e8ac68ee4fcfc1f0d04282474032
+ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
 ms.translationtype: HT
 ms.contentlocale: de-DE
+ms.lasthandoff: 06/19/2017
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 

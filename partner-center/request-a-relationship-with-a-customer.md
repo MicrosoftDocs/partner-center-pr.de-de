@@ -3,11 +3,11 @@ title: Anfordern einer Beziehung mit einem Kunden | Partner Center
 description: "Das Beantragen einer Partnerschaft mit einem Kunden wird in Multipartner- und Multichannelszenarien verwendet. Dieser Vorgang ist auch hilfreich, wenn ein Kunde Ihre delegierten Administratorrechte entfernt und Sie sie für Bereitstellungen oder Supportleistungen wiederherstellen müssen."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 4497163d59cce019936ce054eb3e3911ea44ce96
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: 529f7d1ae3db3c5e9ea0dc8bec615fc606ec5dcd
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 06/14/2017
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Kontaktaufnahme mit Kunden im Partner Center
 
@@ -40,13 +40,6 @@ Um den Dienst oder das Abonnement im Namen eines Kunden zu verwalten, muss der K
 >**Wichtig**<br>
 Kunden können Administratorberechtigungen im Verwaltungsportal eines Diensts neu zuweisen oder entfernen. Erst wenn Sie Ihre Vereinbarung mit dem Kunden erneut verhandeln, sind Sie jedoch weiterhin für die Bereitstellung des Supports und die Einhaltung der Bedingungen des Cloud Reseller Agreement verantwortlich, auch nachdem ein Kunde die Administratorberechtigungen neu zugewiesen oder entfernt hat. In diesem Fall können Sie Microsoft-Support anrufen, wenn der Kunde Hilfe benötigt, um eine Serviceanfrage im Auftrag des Kunden zu öffnen.
 
+## <a name="related-topics"></a>Verwandte Themen
 
-
-
-
- 
-
- 
-
-
-
+[Entfernen einer Beziehung](remove-a-relationship.md)

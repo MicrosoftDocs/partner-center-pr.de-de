@@ -3,11 +3,11 @@ title: Erstellen eines Marketingprofils | Partner Center
 description: Gewinnen Sie mehr potenzielle Kunden, indem Sie ein Marketingprofil in Partner Center erstellen.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 04e436d61636b0f47683f3ac9644484bb8bfe3d7
-ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.openlocfilehash: 873963b3d29ff1ebf41e6aee9b8d1faebde7ec09
+ms.sourcegitcommit: 311c8477ab86bcbe742f0a7b2a41f67b0c5c72df
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2017
+ms.lasthandoff: 06/12/2017
 ---
 # <a name="create-a-marketing-profile"></a>Erstellen eines Marketingprofils
 
@@ -30,7 +30,7 @@ Erstellen Sie ein Profil für jedes Land, in dem Sie berechtigt sind, Geschäfte
 
 1.  Wählen Sie in [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) im Menü **Dashboard** die Optionen **Empfehlungen** &gt; **Marketingprofile** &gt; **[Add a marketing profile](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-2.    Wählen Sie auf der Seite **Erstellen eines Marketingprofils** eine Region aus, und geben Sie Ihre Profilinformationen, einschließlich Partnerinformationen und Erfahrung, ein.
+2.  Wählen Sie auf der Seite **Erstellen eines Marketingprofils** eine Region aus, und geben Sie Ihre Profilinformationen, einschließlich Partnerinformationen und Erfahrung, ein.
 
     Nach dem Fertigstellen Ihres ersten Profils können Sie weitere Profile basierend auf diesem Profil erstellen, indem Sie **Copy from an existing profile** auswählen.
 
@@ -83,11 +83,9 @@ Es wird empfohlen, diese Einstellung aktiviert zu lassen. Liegen jedoch Produkte
 
 #### <a href="" id="#target_size"></a>Zielgröße
 
-Um die Arten der Empfehlungen einzuschränken, die Sie erhalten, können Sie eine Präferenz hinzufügen, um nur mit Unternehmen einer bestimmten Größe zu arbeiten. Durch Hinzufügen dieser Präferenzen erhalten Sie keine Empfehlungen von Unternehmen anderer Größen mehr.
+Sie können Empfehlungen von Unternehmen ablehnen, die nicht Ihrer Kundenzielgröße entsprechen.
 
-Kundensuchergebnisse nutzen die Reaktionsfähigkeit Ihres Unternehmens als Faktor. Damit Sie die Sichtbarkeit für künftige Suchvorgänge verbessern können, reagieren Sie schnell auf eingehende Kundenanfragen.
-
-Die Deaktivierung von Empfehlungen von Unternehmen, die nicht mit der Zielkundengröße übereinstimmen, trägt dazu bei, dass Sie insgesamt schneller sind.
+Durch die Ablehnung haben Sie mehr Zeit für Unternehmen, die dem Unternehmen entsprechen, mit dem Sie zusammenarbeiten möchten.
 
 ### <a href="" id="#locations"></a> Standorte
 

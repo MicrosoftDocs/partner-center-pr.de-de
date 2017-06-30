@@ -3,11 +3,11 @@ title: Erstellen von Benutzerkonten und Festlegen von Berechtigungen | Partner C
 description: "Der Administrator erstellt ein Benutzerkonto für jeden Partnermitarbeiter, der Zugriff auf Partner Center benötigt."
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: 920f4590f94fbcc382286b206b532fcb204166be
-ms.sourcegitcommit: b8146a4a959ef26efc09ead1788ff5e264ae121e
+ms.openlocfilehash: 842071dad94251ee498c9dee3e8b689e2e036485
+ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/25/2017
+ms.lasthandoff: 06/19/2017
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen
 
@@ -65,6 +65,8 @@ In der folgende Tabelle wird erläutert, welche Möglichkeiten Benutzer mit den 
 <td><p><strong>Administratoragent</strong></p></td>
 <td><ul>
 <li><p>Kundenverwaltung</p></li>
+<li><p>Liste der Geräte zu Partner Center hinzufügen</p></li>
+<p><li>Erstellen und Anwenden von Profilen auf Geräte</p></li>
 <li><p>Abonnementverwaltung</p></li>
 <li><p>Dienstintegrität und Serviceanfragen für Kunden</p></li>
 <li><p>Delegierte Administratorrechte anfordern</p></li>
@@ -82,6 +84,7 @@ In der folgende Tabelle wird erläutert, welche Möglichkeiten Benutzer mit den 
 <td><p><strong>Vertriebsbeauftragter</strong></p></td>
 <td><ul>
 <li><p>Kundenverwaltung</p></li>
+<li><p>Liste der Geräte zu Partner Center hinzufügen</p></li>
 <li><p>Abonnementverwaltung</p></li>
 <li><p>Supportanfragen anzeigen</p></li>
 <li><p>Beantragen einer Partnerschaft mit einem Kunden</p></li>

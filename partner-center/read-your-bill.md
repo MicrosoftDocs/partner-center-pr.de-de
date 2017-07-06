@@ -3,10 +3,11 @@ title: Informationen zu Ihrer Rechnung | Partner Center
 description: "Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar. Sie steht über das Partner Center-Dashboard zur Verfügung."
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-ms.openlocfilehash: d51bb3d8cf637e50e47c211c00d90b14e55a1c6d
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 65c3777c0bd35933f2622fc0de105c051001974e
+ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
 ms.translationtype: HT
 ms.contentlocale: de-DE
+ms.lasthandoff: 07/01/2017
 ---
 # <a name="read-your-bill"></a>Informationen zu Ihrer Rechnung
 
@@ -83,7 +84,7 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 </tr>
 <tr class="odd">
 <td>Abrechnungszeitraum</td>
-<td>Für CSP-Partner erfolgt die Abrechnung monatlich.</td>
+<td>Für CSP-Partner erfolgt die Abrechnung monatlich oder jährlich.</td>
 </tr>
 <tr class="even">
 <td>Rechnungsdatum</td>

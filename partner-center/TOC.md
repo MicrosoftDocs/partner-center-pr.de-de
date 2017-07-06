@@ -37,7 +37,6 @@
 ## [Zuweisen von Lizenzen zu Benutzern](assign-licenses-to-users.md)
 ## [Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer](bulk-license-provisioning-for-multiple-users.md)
 ## [Aussetzen eines Abonnements](suspend-a-subscription.md)
-## [Entfernen einer Partnerschaft mit einem Händler oder Kunden](remove-a-relationship.md)
 ## [Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement](add-licenses-or-services-to-an-existing-subscription.md)
 ## [Migrieren von Dynamics AX-Abonnements zu Dynamics 365](manual-subscription-migration.md)
 ## [Migrieren von Abonnements für Office365 Enterprise E4 zu neueren Versionen von Office365](migrate-office365-e4-subscriptions-to-newer-versions.md)

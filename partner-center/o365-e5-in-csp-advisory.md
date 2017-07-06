@@ -3,9 +3,11 @@ title: "Verfügbarkeit der Office365 E5-Einzel-SKU in CSP | Partner Center"
 description: "Die Office365 Enterprise E5-Einzel-SKU ist in CSP verfügbar und umfasst PSTN-Konferenzfunktionen."
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
-ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 76ca9b8599862c0b17a1281aa3e420ecb3c26ea2
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office365 Partner Advisory: Verfügbarkeit der Office365 E5-Einzel-SKU in CSP
 
@@ -30,12 +32,12 @@ Informieren Sie sich bei Ihren Steuer- und Rechtsberatern über die Verantwortli
 ## <a name="details"></a>Details
 
 
-In den Vereinigten Staaten und Puerto Rico unterliegen PSTN-Dienste im Rahmen von Skype for Business besonderen steuerlichen und gesetzlichen Bestimmungen. Die Microsoft-Preise für PSTN verstehen sich einschließlich Steuern. Office365-Partner, die Transaktionen für das neue vereinheitlichte Office365 E5-Angebot durchführen, unterliegen spezifischen Steuern und Bestimmungen für PSTN-Dienste. Wenn ein Partner einen Aufschlag auf den Preis eines PSTN-Diensts von Microsoft erhebt, ist er möglicherweise für die Berechnung und Abführung von Steuern und Gebühren für PSTN-Dienste verantwortlich.
+In den Vereinigten Staaten, Puerto Rico und Kanada unterliegen PSTN-Dienste im Rahmen von Skype for Business besonderen steuerlichen und gesetzlichen Bestimmungen. Die Microsoft-Preise für PSTN verstehen sich einschließlich Steuern. Office365-Partner, die Transaktionen für das neue vereinheitlichte Office365 E5-Angebot durchführen, unterliegen spezifischen Steuern und Bestimmungen für PSTN-Dienste. Wenn ein Partner einen Aufschlag auf den Preis eines PSTN-Diensts von Microsoft erhebt, ist er möglicherweise für die Berechnung und Abführung von Steuern und Gebühren für PSTN-Dienste verantwortlich.
 
 ## <a name="price-list-and-catalog-availability"></a>Preislisten- und Katalogverfügbarkeit
 
 
-Zahlreiche CSP-Partner benötigen für die Integration ihrer Bestellverwaltungssysteme mit der Microsoft-E-Commerce-Plattform über APIs lange Vorlaufzeiten. Damit Partner E5-Opportunitys schließen können, bevor ihre Systeme Transaktionen in Bezug auf die Office365 Enterprise E5-Einzel-SKU verarbeiten können, werden die folgenden SKUs bis zum 1.Juli2017 weiter auf der CSP-Preisliste aufgeführt:
+Zahlreiche CSP-Partner benötigen für die Integration ihrer Bestellverwaltungssysteme mit der Microsoft-E-Commerce-Plattform über APIs lange Vorlaufzeiten. Damit Partner E5-Opportunitys schließen können, bevor ihre Systeme Transaktionen in Bezug auf die Office365 Enterprise E5-Einzel-SKU verarbeiten können, werden die folgenden SKUs bis zum 1.Juli2017 weiter auf der CSP-Preisliste aufgeführt: 
 
 -   Office365 Enterprise E5 ohne PSTN-Konferenzfunktionen
 -   SKUs mit Add-On für PSTN-Konferenzfunktionen (in Märkten, in denen PSTN unterstützt wird)
@@ -53,6 +55,7 @@ Nach der Einführung am 5.Oktober werden einige SKUs den gleichen Angebotsanzeig
 **Angebots-ID**
 
 **Preis pro Einheit**
+
 
 **ERP**
 

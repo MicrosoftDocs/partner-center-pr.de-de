@@ -3,11 +3,11 @@ title: Erstellen von Benutzerkonten und Festlegen von Berechtigungen | Partner C
 description: "Der Administrator erstellt ein Benutzerkonto für jeden Partnermitarbeiter, der Zugriff auf Partner Center benötigt."
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: 842071dad94251ee498c9dee3e8b689e2e036485
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
+ms.openlocfilehash: bc699214c7919c7cff9788144d472063ba60ad10
+ms.sourcegitcommit: 4a1cd51e5986f47badcde9412a7c7b22718500f0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 06/26/2017
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen
 
@@ -45,7 +45,10 @@ Sie müssen für jeden Benutzer zwei Berechtigungsstufen auswählen:
 
 -   Administratorberechtigungen steuern die Ebene des Zugriffs, über den der Benutzer für Partner Center-Funktionen verfügt. Diese Einstellung hat auch Auswirkungen außerhalb von Partner Center: Ein Abrechnungsadministrator kann auf alle Rechnungen für alle Microsoft-Dienste zugreifen (auch auf solche, die sich nicht auf CSP beziehen), und ein globaler Administrator hat ebenfalls über CSP hinausgehenden Zugriff auf Benutzerkonten und Kundenkonten.
 
->**Wichtig** Die Standardeinstellung sollten immer **No admin** sein, es sei denn, der Benutzer benötigt diesen zusätzlichen Zugriff tatsächlich im Rahmen seiner Arbeit.
+##<a name="assign-permissions-for-incentives-users"></a>Zuweisen von Berechtigungen für Anreizbenutzer
+Wenn Sie Ihre Anreizbenutzer einrichten, können Sie ihnen entweder die Anreizadministratorrolle oder die Anreizbenutzerrolle zuweisen.  Der Anreizadministrator kann Bank- und Steuerinformationen bearbeiten, Zahlungsansprüche an Microsoft senden sowie Anreizbenutzer verwalten. Anreizbenutzer können Programm-, Bank- und Steuerinformationen überprüfen, jedoch nicht bearbeiten. Sie stellen häufig die tatsächlichen Anreizprogramme für Kunden bereit. Anreizadministratoren und -benutzer können andere Rollen in Partner Center für Ihre Organisation besitzen, um jedoch an Anreizprogrammen zu arbeiten, muss ein Benutzer entweder Anreizadministrator oder Anreizbenutzer sein.
+
+>**Wichtig** Die Standardeinstellung sollte immer **No admin** sein, es sei denn, der Benutzer benötigt diesen zusätzlichen Zugriff tatsächlich im Rahmen seiner Arbeit.
 
 In der folgende Tabelle wird erläutert, welche Möglichkeiten Benutzer mit den jeweiligen Rollen in Partner Center haben.
 
@@ -148,6 +151,23 @@ In der folgende Tabelle wird erläutert, welche Möglichkeiten Benutzer mit den 
 <td><ul>
 <li><p>Benutzer anzeigen, erstellen und verwalten</p></li>
 <li><p>Alle Partnerprofile anzeigen</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>Anreizadministrator</strong></p></td>
+<td><ul>
+<li><p>Anzeigen und Verwalten aller Incentives-Programme</p></li>
+<li><p>Bearbeiten von Bank- und Steuerprofilen für Incentives-Programme</p></li>
+<LI><p>Verwalten von Anreizbenutzern</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Anreizbenutzer</strong></p></td>
+<td><ul>
+<li><p>Anzeigen von Anreizprogrammen</p></li>
+<li><p>Anzeigen von Bank- und Steuerprofilen</p></li>
 </ul></td>
 <td></td>
 </tr>

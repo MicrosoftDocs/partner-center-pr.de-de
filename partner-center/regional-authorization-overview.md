@@ -3,11 +3,11 @@ title: Regionale CSP-Autorisierung | Partner Center
 description: "Mithilfe der regionalen Autorisierung können international tätige Partner jetzt Kunden in verschiedenen Regionen und Ländern auf der ganzen Welt einfacher verwalten."
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-ms.openlocfilehash: f79c2f0a56f88faf554543fa2bb0a0ab504e0614
-ms.sourcegitcommit: a905afc18ffc20e3469933fa005336f1e9b520f4
+ms.openlocfilehash: 71beef8899e292bec99fc803ad8aa2cd0ac4b4dc
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/07/2017
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="csp-regional-authorization"></a>Regionale CSP-Autorisierung
 
@@ -189,7 +189,7 @@ Ihr geografischer Standort bestimmt die Währung, in der Ihre Rechnungen gestell
 
 | Währung | Land |
 | ---- | ---- |
-| USD | Albanien, Anguilla, Antigua und Barbuda, Argentinien, Armenien, Aruba, Aserbeidschan, Bahamas, Bahrain, Bangladesch, Barbados, Belarus, Belize, Benin, Bermuda, Bolivien, Bonaire, Brasilien, Brunei Darussalam, Burundi, Kamerun, Kaimaninseln, Chile, Kolumbien, Komoren, Costa Rica, Curaçao, Dominikanische Republik, Ecuador, Ägypten, El Salvador, Fidschi, Französisch-Guayana, Französisch-Polynesien, Georgien, Ghana, Guatemala, Honduras, Hongkong (SAR), Indonesien, Irak, Israel, Jamaika, Kasachstan, Kenia, Kuwait, Kirgisistan, Libanon, Macau SAR, Madagaskar, Malawi, Malaysia, Mali, Mauritius, Mayotte, Mexiko, Marokko, Namibia, Neukaledonien, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Peru, Philippinen, Puerto Rico, Katar, Réunion, Ruanda, St. Lucia, St. Martin, St. Vincent und die Grenadinen, Saudi-Arabien, Serbien, Seychellen, Singapur, Sint Maarten, Südafrika, Sri Lanka, Suriname, Tansania, Thailand, Timor-Leste, Togo, Trinidad und Tobago, Tunesien, Türkei, Turks- und Caicosinseln, Amerikanische Jungferninseln, Ukraine, Vereinigte Arabische Emirate, Vereinigte Staaten, Uruguay, Venezuela, Vietnam  | 
+| USD | Albanien, Anguilla, Antigua und Barbuda, Argentinien, Armenien, Aruba, Aserbeidschan, Bahamas, Bahrain, Bangladesch, Barbados, Belarus, Belize, Benin, Bermuda, Bolivien, Bonaire, Brasilien, Brunei Darussalam, Burundi, Kamerun, Kaimaninseln, Chile, Kolumbien, Komoren, Costa Rica, Curaçao, Dominikanische Republik, Ecuador, Ägypten, El Salvador, Französisch-Guayana, Französisch-Polynesien, Georgien, Ghana, Guatemala, Honduras, Hongkong (SAR), Indonesien, Irak, Israel, Jamaika, Kasachstan, Kenia, Kuwait, Kirgisistan, Libanon, Macau SAR, Madagaskar, Malawi, Malaysia, Mali, Mauritius, Mayotte, Mexiko, Marokko, Namibia, Neukaledonien, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Peru, Philippinen, Puerto Rico, Katar, Réunion, Ruanda, St. Lucia, St. Martin, St. Vincent und die Grenadinen, Saudi-Arabien, Serbien, Seychellen, Singapur, Sint Maarten, Südafrika, Sri Lanka, Suriname, Tansania, Thailand, Timor-Leste, Togo, Trinidad und Tobago, Tunesien, Türkei, Turks- und Caicosinseln, Amerikanische Jungferninseln, Ukraine, Vereinigte Arabische Emirate, Vereinigte Staaten, Uruguay, Venezuela, Vietnam  | 
 | TWD | Taiwan |
 | SEK | Schweden |
 | INR | Indien |
@@ -203,7 +203,7 @@ Ihr geografischer Standort bestimmt die Währung, in der Ihre Rechnungen gestell
 | DKK | Dänemark |
 | CHF | Schweiz |
 | CAD | Kanada |
-| AUD | Australien, Marshallinseln, Papua-Neuguinea, Tonga |
+| AUD | Australien, Fidschi, Marshallinseln, Papua-Neuguinea, Tonga |
 
 
  

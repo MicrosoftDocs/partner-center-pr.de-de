@@ -3,48 +3,43 @@ title: Anfordern einer Beziehung mit einem Kunden | Partner Center
 description: "Das Beantragen einer Partnerschaft mit einem Kunden wird in Multipartner- und Multichannelszenarien verwendet. Dieser Vorgang ist auch hilfreich, wenn ein Kunde Ihre delegierten Administratorrechte entfernt und Sie sie für Bereitstellungen oder Supportleistungen wiederherstellen müssen."
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
-
+ms.openlocfilehash: 529f7d1ae3db3c5e9ea0dc8bec615fc606ec5dcd
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 06/14/2017
 ---
+# <a name="connect-with-customers-in-partner-center"></a><span data-ttu-id="8b3f2-104">Kontaktaufnahme mit Kunden im Partner Center</span><span class="sxs-lookup"><span data-stu-id="8b3f2-104">Connect with customers in Partner Center</span></span>
 
-# Beantragen einer Partnerschaft mit einem Kunden
+**<span data-ttu-id="8b3f2-105">Betrifft</span><span class="sxs-lookup"><span data-stu-id="8b3f2-105">Applies to</span></span>**
 
-**Betrifft**
+-  <span data-ttu-id="8b3f2-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="8b3f2-106">Partner Center</span></span>
+-  <span data-ttu-id="8b3f2-107">Partner Center für Microsoft Cloud für US-Behörden</span><span class="sxs-lookup"><span data-stu-id="8b3f2-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="8b3f2-108">Partner Center für Microsoft Cloud Deutschland</span><span class="sxs-lookup"><span data-stu-id="8b3f2-108">Partner Center for Microsoft Cloud Germany</span></span>
 
--  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+<span data-ttu-id="8b3f2-109">Um den Dienst oder das Abonnement im Namen eines Kunden zu verwalten, muss der Kunde Ihnen Administratorberechtigungen für diesen Dienst gewähren.</span><span class="sxs-lookup"><span data-stu-id="8b3f2-109">To manage a customer's service or subscription on their behalf, the customer must grant you administrator permissions for that service.</span></span> <span data-ttu-id="8b3f2-110">Um Administratorberechtigungen von einem Kunden zu erhalten, senden Sie ihm per E-Mail einen Vertriebspartnerschaftsantrag.</span><span class="sxs-lookup"><span data-stu-id="8b3f2-110">To get administrator permissions from a customer, email them a reseller relationship request.</span></span> <span data-ttu-id="8b3f2-111">Nachdem der Kunde den Antrag genehmigt hat, können Sie sich beim Verwaltungsportal des Diensts anmelden und den Dienst im Namen des Kunden verwalten.</span><span class="sxs-lookup"><span data-stu-id="8b3f2-111">After the customer approves your request, you'll be able to log on to the service's admin portal and manage the service on the customer's behalf.</span></span> 
 
-Das Beantragen einer Partnerschaft mit einem Kunden wird in [Multipartner](multipartner.md)- und [Multichannelszenarien](multichannel.md) verwendet. Dieser Vorgang ist auch hilfreich, wenn ein Kunde Ihre delegierten Administratorrechte entfernt und Sie sie für Bereitstellungen oder Supportleistungen wiederherstellen müssen.
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a><span data-ttu-id="8b3f2-112">Laden Sie einen Kunden ein, eine Vertriebspartnerschaft mit Ihnen einzugehen.</span><span class="sxs-lookup"><span data-stu-id="8b3f2-112">Invite a customer to establish a reseller relationship with you</span></span>
 
-Beachten Sie, dass dieser Vorgang nur delegierte Administratorrechte hinzufügt. Wenn der Partner nicht der ursprüngliche CSP-Handelspartner für das Abonnement war, erhält der Partner keine Rechnung für diese Abonnements. Er kann auch keine Lizenzen hinzufügen oder entfernen, keine Add-ons bestellen, Abonnements nicht übertragen oder migrieren oder den registrierten Abonnementberater ändern.
+1.  <span data-ttu-id="8b3f2-113">Wählen Sie im Menü **Dashboard** die Option **Kunden** und anschließend **Vertriebspartnerschaft beantragen** aus.</span><span class="sxs-lookup"><span data-stu-id="8b3f2-113">Select **Customers** from your **Dashboard** menu and then select **Request a reseller relationship**.</span></span>
 
-<a href="" id="requestarelationship"></a>
-**Anfordern einer Beziehung**
+2.  <span data-ttu-id="8b3f2-114">Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht.</span><span class="sxs-lookup"><span data-stu-id="8b3f2-114">On the next page, review the draft email message.</span></span> <span data-ttu-id="8b3f2-115">Sie können den Nachrichtenentwurf in Ihrer standardmäßigen E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.</span><span class="sxs-lookup"><span data-stu-id="8b3f2-115">You can open the draft message in your default email application or you can copy the message to your clipboard and paste it into an email.</span></span> 
 
-1.  Wechseln Sie in Partner Center im Menü „Dashboard“ zu &gt; **Kunden** &gt; **Vertriebspartnerschaft beantragen**.
-2.  Kopieren Sie den E-Mail-Text. Sie können die ersten beiden Absätze bearbeiten oder löschen. Der Link sollte jedoch nicht geändert werden. Der URL dieses Links gilt speziell für Ihr Handelspartnerkonto und enthält keine Kundeninformationen. Sie können jedes Mal, wenn Sie eine Beziehung anfordern, den gleichen Link verwenden.
-3.  Senden Sie den Link Ihren Kunden. Kunden können auf den Einladungslink klicken und sich mit einem Administratorkonto anmelden, um die Anforderung zu akzeptieren.
-4.  Danach kann der Kunde alle seine Partner für verschiedene Dienste auf der Seite **Partnerbeziehungen** überprüfen, z. B. welche Partner über delegierte Administratorrechte für die einzelnen Dienste verfügen.
+    <span data-ttu-id="8b3f2-116">Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist und den Kunden direkt mit Ihrem Konto verknüpft.</span><span class="sxs-lookup"><span data-stu-id="8b3f2-116">You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account.</span></span> <span data-ttu-id="8b3f2-117">Wählen Sie **Fertig**, wenn Sie diesen Schrittabgeschlossen haben.</span><span class="sxs-lookup"><span data-stu-id="8b3f2-117">Select **Done** when you’ve completed this step.</span></span>
 
-    Beachten Sie, dass Kunden im Multichannel-Modell nur einen CSP-Transaktionspartner mit delegierten Administratorrechten pro Dienst haben können. Sie können auch anderen Partnern Berechtigungen erteilt haben, die nicht Teil des CSP-Programms sind.
+3.  <span data-ttu-id="8b3f2-118">Senden Sie die E-Mail an den Kunden.</span><span class="sxs-lookup"><span data-stu-id="8b3f2-118">Send the email to your customer.</span></span>
 
-5.  Der Partner kann sehen, dass der Kunde die Einladung angenommen hat, wenn der Kunde in der Kundenliste des Partners im Partner Center angezeigt wird. Der Partner kann dann die CSP-Abonnements für den Kunden bereitstellen und verwalten.
+4.  <span data-ttu-id="8b3f2-119">Nachdem der Kunde die Einladung angenommen hat, wird er auf der Seite **Kunden** angezeigt, und Sie können den Dienst für den Kunden von dort aus bereitstellen und verwalten.</span><span class="sxs-lookup"><span data-stu-id="8b3f2-119">After the customer accepts your invitation, they'll appear on your **Customers** page, and you'll be able to provision and manage the service for the customer from there.</span></span>
 
-Kunden können die delegierten Administratorrechte einzelner oder aller Partner (einschließlich derjenigen im CSP-Programm) entfernen. Kunden können dies in ihrem eigenen Verwaltungsportal durchführen. Das Kundenkonto und die kommerzielle Beziehung bleibt trotzdem bestehen, bis sie vom Kunden und vom Partner neu ausgehandelt wird. Der Partner ist weiterhin für den Support für den Kunden verantwortlich und muss sich an die Bestimmungen des Cloud Reseller Agreement halten, auch wenn ein Kunde die delegierten Administratorrechte des Partners entfernt. In diesem Fall muss der Partner Microsoft Support aufrufen, wenn der Kunde Hilfe benötigt, um eine Serviceanfrage im Auftrag des Kunden zu öffnen.
+ >**<span data-ttu-id="8b3f2-120">Hinweis:</span><span class="sxs-lookup"><span data-stu-id="8b3f2-120">Note</span></span>**<br>
+    <span data-ttu-id="8b3f2-121">In einem Multichannel-Szenario kann nur ein Partner Administratorberechtigungen zum Verwalten eines Diensts im Auftrag des Kunden haben.</span><span class="sxs-lookup"><span data-stu-id="8b3f2-121">In a multi-channel scenario, only one partner can have administrator permissions to manage a service on the customer's behalf.</span></span> 
 
-Um delegierte Administratorrechte wiederherzustellen, die der Kunde entfernt hat, können Sie den Prozess zum Beantragen einer Partnerschaft wiederholen.
-
- 
-
- 
+5.  <span data-ttu-id="8b3f2-122">Erweitern Sie zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem Sie neben seinem Namen auf den Pfeil nach unten klicken.</span><span class="sxs-lookup"><span data-stu-id="8b3f2-122">To manage the customer’s account, services, users, and licenses, expand the customer’s record by selecting the down arrow near their name.</span></span>
 
 
+>**<span data-ttu-id="8b3f2-123">Wichtig</span><span class="sxs-lookup"><span data-stu-id="8b3f2-123">Important</span></span>**<br>
+<span data-ttu-id="8b3f2-124">Kunden können Administratorberechtigungen im Verwaltungsportal eines Diensts neu zuweisen oder entfernen.</span><span class="sxs-lookup"><span data-stu-id="8b3f2-124">Customers can reassign or remove administrator permisions in a service's admin portal.</span></span> <span data-ttu-id="8b3f2-125">Erst wenn Sie Ihre Vereinbarung mit dem Kunden erneut verhandeln, sind Sie jedoch weiterhin für die Bereitstellung des Supports und die Einhaltung der Bedingungen des Cloud Reseller Agreement verantwortlich, auch nachdem ein Kunde die Administratorberechtigungen neu zugewiesen oder entfernt hat.</span><span class="sxs-lookup"><span data-stu-id="8b3f2-125">However, unless and until you renegotiate your agreement with the customer, you continue to be responsible for providing customer support and adhering to the terms of the Cloud Reseller Agreement, even after a customer reassigns or removes administrator permissions.</span></span> <span data-ttu-id="8b3f2-126">In diesem Fall können Sie Microsoft-Support anrufen, wenn der Kunde Hilfe benötigt, um eine Serviceanfrage im Auftrag des Kunden zu öffnen.</span><span class="sxs-lookup"><span data-stu-id="8b3f2-126">In this situation, if the customer requires help, you can call Microsoft support to open a service request on behalf of the customer.</span></span>
 
+## <a name="related-topics"></a><span data-ttu-id="8b3f2-127">Verwandte Themen</span><span class="sxs-lookup"><span data-stu-id="8b3f2-127">Related topics</span></span>
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+[<span data-ttu-id="8b3f2-128">Entfernen einer Beziehung</span><span class="sxs-lookup"><span data-stu-id="8b3f2-128">Remove a relationship</span></span>](remove-a-relationship.md)

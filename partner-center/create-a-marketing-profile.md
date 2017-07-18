@@ -1,96 +1,124 @@
 ---
 title: Erstellen eines Marketingprofils | Partner Center
-description: "Jedes Jahr besuchen Millionen von qualifizierten potenziellen Kunden die Webpräsenzen von Microsoft."
+description: Gewinnen Sie mehr potenzielle Kunden, indem Sie ein Marketingprofil in Partner Center erstellen.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
-ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
-
+author: KPacquer
+ms.openlocfilehash: 5b680c5e547f237951085ba619f62d818d612e54
+ms.sourcegitcommit: b6b3c66694cd631a1141d10348e4e063189a7131
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 07/01/2017
 ---
-
-# Erstellen eines Marketingprofils
-
-**Betrifft**
-
--  Partner Center
-
-Jedes Jahr besuchen Millionen von qualifizierten potenziellen Kunden die Webpräsenzen von Microsoft. Wir unterstützen Sie durch Zusammenfassen Ihrer Lösungen für Kunden beim Wachstum Ihres Unternehmens. Microsoft-Empfehlungen helfen Ihnen dabei, eine Verbindung mit Kunden herzustellen, die sich für Ihre einzigartigen Lösungen zum Erfüllen ihrer geschäftlichen Bedürfnisse interessieren. Erstellen Sie ein Marketingprofil in Partner Center, um teilzunehmen.
-
-Falls Sie ein Pinpoint-Konto besitzen, [können Sie Ihr Pinpoint-Marketingprofil in Partner Center importieren](importing-pinpoint-profiles-into-partner-center.md).
-
-**Wichtige Informationen für Partner, die Profile auf Pinpoint verwalten**
-
-Wie Sie vielleicht wissen, bemüht sich Microsoft, seinen Partnern neue und verbesserte Features anzubieten, um deren Profile zu veröffentlichen und zu verwalten. Alle Partnerprofile werden letztlich auf dieses neue Feature migrieren und Pinpoint wird Ende 2017 offline geschaltet.
-
-Wir danken Ihnen für Ihre Geduld, während wir dieses interessante Upgrade durchführen. Während des Prozesses werden wir Updates und Hinweise anbieten. Bitte beachten Sie in der Zwischenzeit Folgendes:
-
--   Wenn sich Ihr Profil auf [manage.pinpoint.com](https://go.microsoft.com/fwlink/?linkid=838399) befindet und Sie dies ändern möchten, [Melden Sie sich hier](https://go.microsoft.com/fwlink/?linkid=838394) für das Tool an.
--   Wenn Sie beim Microsoft-[Clouddienstanbieter](https://go.microsoft.com/fwlink/?linkid=838395)-Programm (CSP) angemeldet sind, melden Sie sich bitte im [Partner Center](https://go.microsoft.com/fwlink/?linkid=838396) an. Sie können entweder ein neues Profil erstellen oder Ihr vorhandenes Pinpoint-Profil importieren. Beachten Sie, dass jegliche Änderungen an Ihrem Profil vor dem Import vorgenommen werden müssen. Weitere Informationen finden Sie weiter unten.
--   Wenn Sie Ihr Profil nicht ändern können, wenden Sie sich an Ihr [Regionales Servicecenter](https://go.microsoft.com/fwlink/?linkid=838398). 
-
-**Kundenrezensionen:** Im Rahmen des geplanten Wechsels von Pinpoint auf Partner Center wurde die vorherige Kundenrezensions-Eintragsfunktion eingestellt. Der Zugriff auf Kundenrezensionen steht Partnern daher nicht mehr zur Verfügung. Es wurde vor dem Entfernen der Funktion und der dazugehörigen Rezensionen eine Mitteilung an alle betroffenen E-Mail-Kontakte der Partner gesendet. Wir planen, das System in naher Zukunft durch ein stabileres und zuverlässigeres zu ersetzen.
-
-**Erstellen eines Marketingprofils**
-
-1.  Wählen Sie in [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) im Menü **Dashboard** die Optionen **Kontoeinstellungen** &gt; **Marketingprofil**.
-2.  Wählen Sie auf der Registerkarte **Profile** die Option zum **Add a marketing profile**.
-3.  Aktualisieren Sie die Informationen zu Ihrem Unternehmen, einschließlich Kontaktinformationen, Informationen zu Ihrer Unternehmensexpertise und eine Beschreibung, die den folgenden *Profilrichtlinien* entspricht.
-
-## Profilrichtlinien
+<!--
+FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
+FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
+FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
+FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
+FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
+ -->
 
 
--   Ihr Profil kann bis zu 2500 Zeichen lang sein, aber knapp formulierte Profile sind häufig am effektivsten.
+# <a name="create-a-marketing-profile"></a><span data-ttu-id="2e8b4-103">Erstellen eines Marketingprofils</span><span class="sxs-lookup"><span data-stu-id="2e8b4-103">Create a marketing profile</span></span>
 
--   Beschreiben Sie Ihre Qualifikationen und Erfahrungen oder die Ihres Unternehmens.
+**<span data-ttu-id="2e8b4-104">Betrifft</span><span class="sxs-lookup"><span data-stu-id="2e8b4-104">Applies to</span></span>**
 
--   Verwenden Sie Ihren rechtsgültigen Firmennamen.
+-  <span data-ttu-id="2e8b4-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="2e8b4-105">Partner Center</span></span>
 
--   Fügen Sie den Link zur Unternehmens-Homepage im Feld „Website” ein.
+<span data-ttu-id="2e8b4-106">Als qualifizierter Microsoft-Partner können Sie ein Marketingprofil erstellen, um Ihr Unternehmen für Kunden zu präsentieren, die nach Ihren einzigartigen Lösungen und Kenntnissen für ihre geschäftlichen Anforderungen suchen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-106">As a qualified Microsoft partner, you can create a marketing profile to showcase your business to customers who are looking for your unique solutions and expertise to address their business needs.</span></span>
 
--   Stellen Sie sicher, dass alle Ihre Informationen aktuell und korrekt sind.
+<span data-ttu-id="2e8b4-107">Microsoft interagiert jedes Jahr über Marketing, Vertrieb und Services mit Millionen von Kunden.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-107">Microsoft engages millions of customers every year through marketing, sales and service efforts.</span></span> <span data-ttu-id="2e8b4-108">Die meisten dieser Interaktionen schaffen Möglichkeiten für uns, unseren Partnern Empfehlungen in Form von Vertriebsleads bereitzustellen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-108">Most of these engagements create opportunities for us to provide referrals to our partners in the form of sales leads.</span></span> 
 
--   Verweisen Sie nicht auf ein anderes Microsoft-Partnerunternehmen nach Namen, es sei denn, es ist eine Tochtergesellschaft oder ist Ihrem Unternehmens aus irgendeinem Grund zugeordnet, oder Sie haben eine aktuelle Vereinbarung mit diesem Partnerunternehmen, gemeinsame Arbeitschancen partnerschaftlich zu nutzen oder einander dabei zu begünstigen.
+<span data-ttu-id="2e8b4-109">Erstellen Sie zunächst ein Marketingprofil, um von diesen Leads zu profitieren.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-109">As the first step to getting these leads, create a marketing profile.</span></span> <span data-ttu-id="2e8b4-110">Wir zeigen Ihr Profil Kunden, die Partner suchen, die ihnen beim Implementieren von Microsoft-Produkten und -Lösungen helfen können, und zwar über:</span><span class="sxs-lookup"><span data-stu-id="2e8b4-110">We'll show your profile to customers who are searching for partners who can help them implement Microsoft products and solutions, through:</span></span>
 
--   Schlüsselwörter, die Kunden bei der Suche eingeben, haben die stärkste Gewichtung. Geben Sie Schlüsselwörter zur präzisen Beschreibung Ihrer Angebote sowie Branchenterminologie ein, die Ihre Kunden möglicherweise zum Suchen nach Lösungen verwenden.
+*  <span data-ttu-id="2e8b4-111">**Die Suchfunktion [Partner suchen](https://partnercenter.microsoft.com/pcv/search)**.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-111">**The [Find a partner](https://partnercenter.microsoft.com/pcv/search) search experience**.</span></span> <span data-ttu-id="2e8b4-112">Potenzielle Kunden können selbst Partnereinträge durchsuchen, um Partner ausfindig zu machen die ihren Suchkriterien entsprechen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-112">Potential customers can search partner listings on their own to locate partners who meet their search criteria.</span></span> 
+*  <span data-ttu-id="2e8b4-113">**Empfehlungen von Vertriebs- und Servicemitarbeitern von Microsoft**.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-113">**Referrals from Microsoft sales and service employees**.</span></span> <span data-ttu-id="2e8b4-114">Potenzielle Kunden, die an der Bereitstellung cloudbasierter Technologielösungen interessiert sind, kontaktieren Microsoft, um Hilfe bei der Suche von Experten zu erhalten, die ihre geschäftlichen Anforderungen erfüllen können.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-114">Potential customers interested in deploying cloud-based technology solutions contact Microsoft for help finding professionals who can meet their business needs.</span></span> <span data-ttu-id="2e8b4-115">Diese Microsoft-Experten können dann potenzielle Kunden für Ihr Unternehmen empfehlen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-115">These Microsoft professionals can then refer potential customers to your company.</span></span>
 
-## Zehn Tipps für ein hervorragendes Profil
+<span data-ttu-id="2e8b4-116">**Benutzer von Pinpoint, C2PC und Sales Connect**: Diese Tools werden in Partner Center zusammengeführt.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-116">**Pinpoint, C2PC, and Sales Connect users**: we’re merging these tools into Partner Center.</span></span> <span data-ttu-id="2e8b4-117">Wenn Sie diese Tools in der Vergangenheit verwendet haben, erstellen Sie ein neues Marketingprofil in Partner Center, um weiterhin Ihre Vertriebsleads zu generieren und zu verwalten.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-117">If you’ve used these tools in the past, create a new marketing profile in Partner Center to continue to generate and manage your sales leads.</span></span> <span data-ttu-id="2e8b4-118">Beachten Sie, dass das Importieren von Profilen aus der vorherigen Websites derzeit nicht unterstützt wird.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-118">Note, we don’t currently support importing profiles from the previous sites.</span></span> 
 
+## <a name="create-a-profile"></a><span data-ttu-id="2e8b4-119">Erstellen eines Profils</span><span class="sxs-lookup"><span data-stu-id="2e8b4-119">Create a profile</span></span>
 
-1.  **Ihr Publikum kennen** Schreiben Sie, als ob Sie mit Ihren Kunden sprechen, nicht mit Ihrem internen Team oder Microsoft.
+<span data-ttu-id="2e8b4-120">Erstellen Sie Profile für jede Region, in der Sie berechtigt sind, Geschäfte zu tätigen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-120">Create profiles for each region you are authorized to do business in.</span></span> 
 
-2.  **Einen ansprechenden ersten Satz formulieren** Wenn Kunden nicht in den ersten zwei Sätzen erkennen können, dass Sie über das Wissen und Know-how verfügen, um ihre Anforderungen erfüllen, werden sie zum nächsten Partner in den Suchergebnissen übergehen.
+1.  <span data-ttu-id="2e8b4-121">Melden Sie sich bei [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) mit einem [globalen Administratorkonto oder Administrator-Agentkonto](create-user-accounts-and-set-permissions.md) an.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-121">Log into [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) using a [global admin or admin agent account](create-user-accounts-and-set-permissions.md).</span></span>
 
-3.  **Präzise sein** Leute lesen online nicht, sie überfliegen lediglich. Formulieren Sie klar und knapp, indem Sie sachliche Informationen zu Ihren Kenntnissen und Kompetenzen angeben. Weniger ist mehr.
+2.  <span data-ttu-id="2e8b4-122">Wählen Sie im Menü **Dashboard** die Optionen **Empfehlungen** &gt; **Marketingprofile** &gt; **[Add a marketing profile](https://partnercenter.microsoft.com/pcv/publishing)**.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-122">From the **Dashboard** menu, select **Referrals** &gt; **Marketing profiles** &gt; **[Add a marketing profile](https://partnercenter.microsoft.com/pcv/publishing)**.</span></span>
 
-4.  **Relevante Schlüsselwörter einschließen** Das Einschließen von Schlüsselwörtern zählt zu den wichtigsten Dingen beim Optimieren Ihres Profils für Ihre Seitensuche und Suchmaschinen. Schlüsselwörter können Microsoft-Produktnamen, Unternehmensanforderungen, Branchentrends und Branchenkanäle sein.
+3.  <span data-ttu-id="2e8b4-123">Wählen Sie auf der Seite **Erstellen eines Marketingprofils** eine Region aus, und geben Sie Ihre Profilinformationen, einschließlich Partnerinformationen und Erfahrung, ein.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-123">In the **Create a marketing profile** page, select a region, then enter your profile information, including the partner info and expertise sections.</span></span>
+    
+    <span data-ttu-id="2e8b4-124">Hinweis: Partner Center unterstützt zwar mehrere Sprachen, einige Elemente wie die Beschreibung und frei formulierte Tags müssen jedoch vielleicht Text aus anderen Sprachen beinhalten, wie in diesem Thema angegeben.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-124">Note, while Partner Center supports multiple languages, some elements such as the description and free-form tags may need to include text from different languages, as noted in this topic.</span></span>
 
-5.  **Zeigen, dass Sie die Kundenwünsche kennen** Konzentrieren Sie sich auf wertorientierte Begriffe und die Vorteile, die Ihr Angebot den Kunden eröffnet, nicht auf Prozesse oder Softwarefeatures.
+### <span data-ttu-id="2e8b4-125"><a href="" id="partner_info"></a>Partnerinformationen</span><span class="sxs-lookup"><span data-stu-id="2e8b4-125"><a href="" id="partner_info"></a>Partner information</span></span>
 
-6.  **Aktive Sprache verwenden** Schreiben Sie mit Verben und Aktionsanweisungen. Vermeiden Sie passive Sprache wie „Wir haben Expertise bereitgestellt ..."
+<span data-ttu-id="2e8b4-126">Stellen Sie Ihr Unternehmen vor, indem Sie ein Logo, eine kurze Beschreibung sowie einen Link zu Ihrer Website hinzufügen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-126">Introduce your company, adding a logo and a brief description, and a link to your website.</span></span> 
 
-7.  **Aufzählungspunkte verwenden** Teilen Sie sequenzierte Informationen (a, b, c, d, usw.) in Aufzählungen auf, um das Überfliegen zu erleichtern.
+<span data-ttu-id="2e8b4-127">Das Logo kann eine GIF-, JPG- oder PNG-Datei mit einer maximalen Breite von 300 Pixeln sein.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-127">The logo can be a GIF, JPG, or PNG file, with a maximum width of 300 pixels.</span></span> <span data-ttu-id="2e8b4-128">Wir empfehlen die Verwendung von quadratischen oder langen Seitenverhältnissen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-128">We recommend using square or long aspect ratios.</span></span> <span data-ttu-id="2e8b4-129">Hohe Seitenverhältnisse werden nicht empfohlen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-129">Tall aspect ratios are not recommended.</span></span>
 
-8.  **Fachsprache vermeiden** Verwenden Sie einfache Alltagssprache, auch wenn Sie etwas sehr Technisches beschreiben.
+<span data-ttu-id="2e8b4-130">Die Beschreibung kann bis zu 1000Zeichen lang sein.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-130">Your description can be up to 1000 characters.</span></span> <span data-ttu-id="2e8b4-131">Tipps für eine hervorragende Beschreibung:</span><span class="sxs-lookup"><span data-stu-id="2e8b4-131">Tips for a great description:</span></span> 
 
-9.  **Um Klarheit bemühen** Vermeiden Sie abweichende oder erfundene Namen für Ihre Anwendungen oder Dienste. Benennen Sie Ihre Angebote nach ihren Funktionen – welche Geschäftsanforderungen sie erfüllen oder welche Aufgaben und Ziele Kunden mit ihnen erreichen.
+*  <span data-ttu-id="2e8b4-132">**Halten Sie sich kurz**. Die ersten ein oder zwei Sätze sollten die wichtigsten Informationen enthalten.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-132">**Be brief**, leading with what’s important in the first sentence or two.</span></span> <span data-ttu-id="2e8b4-133">Dies sollte die Überschrift sein, die die Aufmerksamkeit der Kunden erregt.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-133">This should be the headline that catches customers’ attention.</span></span> <span data-ttu-id="2e8b4-134">Auf der Seite zum Suchen von Partnern werden die ersten ein oder zwei Zeilen in der Vorschau der Suchergebnisse angezeigt.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-134">In the Find a partner search experience, we show the first line or two in the search results preview.</span></span>
+*  <span data-ttu-id="2e8b4-135">**Konzentrieren Sie sich auf Ihre Erfahrungen mit Microsoft-spezifischen Angeboten**.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-135">**Focus on your company’s experiences with Microsoft-specific offerings**.</span></span> <span data-ttu-id="2e8b4-136">Kunden, die nach Empfehlungen suchen, möchten in der Regel Partner mit Microsoft-spezifischen Erfahrungen ausfindig machen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-136">Customers searching for referrals are generally looking for partners with Microsoft-specific experience.</span></span>
+*  <span data-ttu-id="2e8b4-137">**Aufzählungen verwenden**.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-137">**Use bullets**.</span></span> <span data-ttu-id="2e8b4-138">Unterteilen Sie Informationen in eine Liste mit Aufzählungszeichen, die leichter zu überfliegen ist.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-138">Break up information into bulleted lists to make it easier to scan.</span></span>
+*  <span data-ttu-id="2e8b4-139">**Fachsprache vermeiden**.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-139">**Avoid jargon**.</span></span> <span data-ttu-id="2e8b4-140">Verwenden Sie einfache Alltagssprache, und benennen Sie Ihre Angebote nach ihren Funktionen – welche Geschäftsanforderungen sie erfüllen oder welche Aufgaben und Ziele Kunden mit ihnen erreichen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-140">Use simple, everyday language, naming your offerings for what they do: the business needs they address, or task or objective they help customers accomplish.</span></span>
+*  <span data-ttu-id="2e8b4-141">**Machen Sie sich keine Gedanken darüber, die Beschreibung mit Schlüsselwörtern zu füllen**.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-141">**Don’t worry about filling the description with search keywords**.</span></span> <span data-ttu-id="2e8b4-142">Die Kundensuchtools suchen nicht in der Beschreibung, sondern im Abschnitt mit den Partnerkenntnissen nach Schlüsselwörtern.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-142">The customer search tools search for keywords generated in the Partner Expertise section, not the description.</span></span>
+*  <span data-ttu-id="2e8b4-143">**Ihr Profil aktuell halten**.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-143">**Keep your profile current**.</span></span> <span data-ttu-id="2e8b4-144">Aktualisieren Sie mit jeder Software- oder Diensteveröffentlichung Ihr Profil, und stimmen Sie es mit Ihrer Unternehmenswebsite ab.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-144">With each software or service release, update your profile, keeping it in sync with your company's website.</span></span>
+*  <span data-ttu-id="2e8b4-145">**Verweisen Sie nicht auf ein anderes Microsoft-Partnerunternehmen nach Namen**, es sei denn, es ist eine Tochtergesellschaft oder ist Ihrem Unternehmens aus irgendeinem anderen Grund zugeordnet, oder Sie haben eine aktuelle Vereinbarung mit diesem Partnerunternehmen, gemeinsame Arbeitschancen partnerschaftlich zu nutzen oder einander dabei zu begünstigen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-145">**Do not refer to another Microsoft partner company by name**, unless it is a subsidiary or is otherwise affiliated with your company, or you have a current agreement with that partner company to act in partnership and/or promote each other for shared work opportunities.</span></span>
+*  <span data-ttu-id="2e8b4-146">Ziehen Sie **für Regionen mit mehreren Sprachen** die Aufnahme von Text aus mehreren Sprachen in der Beschreibung in Erwägung.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-146">**For regions with multiple languages**, consider including text from multiple languages in the description.</span></span>
 
-10. **Ihr Profil aktuell halten** Halten Sie Ihr Profil mit der Webpräsenz Ihres Unternehmens synchron. Aktualisieren Sie Ihr Profil und Ihre Seite, wenn eine neue Software oder ein neuer Service veröffentlicht wird, um eine nahtlose Benutzererfahrung sicherzustellen.
+#### <span data-ttu-id="2e8b4-147"><a href="" id="linkedin"></a> LinkedIn-Unternehmensseite: mehr Möglichkeiten für Kundenbeziehungen</span><span class="sxs-lookup"><span data-stu-id="2e8b4-147"><a href="" id="linkedin"></a> LinkedIn company page: more ways to connect</span></span>
 
-## Verwandte Themen
+<span data-ttu-id="2e8b4-148">Fügen Sie Ihre LinkedIn-Unternehmensseite hinzu, um die Beziehungen mit potenziellen Kunden zu stärken.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-148">Add your LinkedIn company page to strengthen your connections to potential customers.</span></span> 
 
+<span data-ttu-id="2e8b4-149">Wenn Sie diesen Link aufnehmen, können Kunden schnell über die LinkedIn-Plattform weitere Informationen zu Ihrer Organisation anzeigen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-149">When you include this link, customers will be able to quickly view more about your organization through the LinkedIn platform.</span></span>
 
-[Wechsel von Pinpoint zu Partner Center](importing-pinpoint-profiles-into-partner-center.md)
+<span data-ttu-id="2e8b4-150">Wenn Sie nicht bereits über eine LinkedIn-Unternehmensseite verfügen, können Sie [jetzt eine erstellen](https://www.linkedin.com/company-beta/setup/new/).</span><span class="sxs-lookup"><span data-stu-id="2e8b4-150">If you don't already have a LinkedIn company page, you can [create one now](https://www.linkedin.com/company-beta/setup/new/).</span></span>
 
- 
+### <a name="partner-expertise"></a><span data-ttu-id="2e8b4-151">Partnererfahrung</span><span class="sxs-lookup"><span data-stu-id="2e8b4-151">Partner expertise</span></span>
 
- 
+<span data-ttu-id="2e8b4-152">Die Kundensuchtools suchen nach Fachwissen-Tags.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-152">The customer search tools look for expertise tags.</span></span> <span data-ttu-id="2e8b4-153">Wenn Sie Ihr Profil anpassen, um die Sichtbarkeit zu gewährleisten, lohnt es sich, Zeit in die Optimierung dieser Tags zu investieren.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-153">When adjusting your profile to gain visibility, it’s worth spending some time here to optimize these.</span></span>
 
+<span data-ttu-id="2e8b4-154">Starten Sie, indem Sie Ihre eigenen Tags im Abschnitt mit den Partnerkenntnissen hinzufügen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-154">Start by adding your own tags into the Partner Expertise section.</span></span> <span data-ttu-id="2e8b4-155">Tags, die Sie hinzufügen können:</span><span class="sxs-lookup"><span data-stu-id="2e8b4-155">Tags you can add:</span></span> 
 
+*  <span data-ttu-id="2e8b4-156">**Branchenfokus-Tags**.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-156">**Industry focus tags**.</span></span> <span data-ttu-id="2e8b4-157">Bis zu 5 Branchen</span><span class="sxs-lookup"><span data-stu-id="2e8b4-157">Up to 5 industries</span></span>
+*  <span data-ttu-id="2e8b4-158">**Produkte**.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-158">**Products**.</span></span> <span data-ttu-id="2e8b4-159">Beschränkt auf Microsoft-Produkte</span><span class="sxs-lookup"><span data-stu-id="2e8b4-159">Limited to Microsoft products</span></span>
+*  **<span data-ttu-id="2e8b4-160">Diensttyp</span><span class="sxs-lookup"><span data-stu-id="2e8b4-160">Service type</span></span>** 
+*  <span data-ttu-id="2e8b4-161">**Lösungen, Kenntnisse und Fähigkeiten**.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-161">**Solutions, skills, and capabilities**.</span></span> <span data-ttu-id="2e8b4-162">Diese Tags können frei formuliert werden und bieten Ihnen die Möglichkeit, Suchbegriffe hinzuzufügen, die speziell für Ihre Fähigkeiten gelten.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-162">These tags are free-form, and provide you the ability to add search keywords that are unique to your capabilities.</span></span>
 
+<span data-ttu-id="2e8b4-163">Andere in der Suche verwendete Tags:</span><span class="sxs-lookup"><span data-stu-id="2e8b4-163">Other tags used in search:</span></span>
+*  <span data-ttu-id="2e8b4-164">**Kompetenz-Tags** sind eine Auszeichnung, die sich Ihr Unternehmen für seine Kenntnisse verdient hat.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-164">**Competency tags** are an earned designation showcasing your company’s capabilities.</span></span>
+*  <span data-ttu-id="2e8b4-165">**Unterstützungs-Tags** werden erzielt, wenn Microsoft oder Ihre Kunden, die mit Ihnen gearbeitet haben, Ihre Arbeit unterstützen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-165">**Endorsement tags** are earned when Microsoft or your customers who have worked with you endorse your work.</span></span>
 
+#### <span data-ttu-id="2e8b4-166"><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Microsoft die Unterstützung meiner Fachgebiete erlauben</span><span class="sxs-lookup"><span data-stu-id="2e8b4-166"><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Allow Microsoft to endorse my areas of expertise</span></span>
 
+<span data-ttu-id="2e8b4-167">Wenn Sie Erfolge mit Kunden über Partner Center oder durch die Teilnahme an anderen Microsoft-Zertifizierungen oder -Programmen nachweisen, fügen wir automatisch Unterstützungen für Ihre spezifischen Produkte, Dienste und Branchen hinzu, die zu diesem Erfolg beitragen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-167">As you demonstrate success with customers through Partner Center, or by participating in other Microsoft certifications or programs, we’ll automatically add endorsements for your specific products, services and industries contributing to that success.</span></span> <span data-ttu-id="2e8b4-168">Unterstützungen sind ein wichtiger Faktor bei Suchergebnissen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-168">Endorsements are an important factor in search results.</span></span>
 
-<!--HONumber=Jan17_HO2-->
+<span data-ttu-id="2e8b4-169">Es wird empfohlen, diese Einstellung aktiviert zu lassen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-169">We recommend that you leave this setting checked.</span></span> <span data-ttu-id="2e8b4-170">Liegen jedoch Produkte vor, für die Sie zwar Dienstleistungen anbieten, die aber nicht in Ihrem Profil angezeigt werden können, können Sie dieses Kontrollkästchen deaktivieren und Ihr Profil manuell verwalten.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-170">However, if there are products that you provide services for that you’d rather not show up on your profile, you can uncheck this box and manage your profile manually.</span></span> <span data-ttu-id="2e8b4-171">Diese Unterstützungen werden in der Ansicht der Kunden ausgeblendet, Sie können sie jedoch später jederzeit wieder zu Ihrem Profil hinzufügen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-171">These endorsements will be hidden from your customers view, but you can add them back to your profile later at any time.</span></span>
 
+### <a name="customer-preferences"></a><span data-ttu-id="2e8b4-172">Kundenpräferenzen</span><span class="sxs-lookup"><span data-stu-id="2e8b4-172">Customer preferences</span></span>
 
+#### <span data-ttu-id="2e8b4-173"><a href="" id="#target_size"></a>Zielgröße</span><span class="sxs-lookup"><span data-stu-id="2e8b4-173"><a href="" id="#target_size"></a>Target size</span></span>
+
+<span data-ttu-id="2e8b4-174">Sie können Empfehlungen von Unternehmen ablehnen, die nicht Ihrer Kundenzielgröße entsprechen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-174">You can opt out of referrals from businesses that don’t meet your target customer size.</span></span>
+
+<span data-ttu-id="2e8b4-175">Durch die Ablehnung haben Sie mehr Zeit für Unternehmen, die dem Unternehmen entsprechen, mit dem Sie zusammenarbeiten möchten.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-175">By opting out, you’ll have more time to spend on businesses that are a match for the businesses that you prefer to work with.</span></span>
+
+### <span data-ttu-id="2e8b4-176"><a href="" id="#locations"></a> Standorte</span><span class="sxs-lookup"><span data-stu-id="2e8b4-176"><a href="" id="#locations"></a> Locations</span></span>
+
+<span data-ttu-id="2e8b4-177">Sie können bis zu 5 Standorte pro Region hinzufügen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-177">You can add up to 5 locations per region.</span></span> <span data-ttu-id="2e8b4-178">Diese Standorte werden angezeigt, wenn Kunden nach Partnern basierend auf der Lage suchen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-178">These locations appear when customers search for partners by proximity.</span></span> 
+
+<span data-ttu-id="2e8b4-179">Geben Sie Standorte an, die offizielle Geschäftssitze sind und überprüft werden können.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-179">Indicate locations that are official company locations and can be validated.</span></span> <span data-ttu-id="2e8b4-180">Wählen Sie Standorte aus, die für die Märkte, die Sie bedienen, von zentraler Bedeutung sind, und die die Fähigkeit Ihres Unternehmens, Anforderungen zu erfüllen, am besten repräsentieren.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-180">Pick locations that are central to the markets you serve, and best represent your company’s ability to fulfill.</span></span>
+
+<span data-ttu-id="2e8b4-181">Jeder Ort, den Sie hinzufügen, wird eine separate Profilseite.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-181">Each location you add becomes a separate profile page.</span></span> <span data-ttu-id="2e8b4-182">Stellen Sie beim Aktualisieren von Profilseiten sicher, dass Sie sie für jeden Ort aktualisieren.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-182">When updating profile pages, make sure that you update them for each location.</span></span>
+
+## <a name="review-your-profile"></a><span data-ttu-id="2e8b4-183">Überprüfen des Profils</span><span class="sxs-lookup"><span data-stu-id="2e8b4-183">Review your profile</span></span>
+
+<span data-ttu-id="2e8b4-184">Nachdem Sie Ihr Profil veröffentlicht haben, werden Updates in Suchanfangen unter [Partner suchen](https://partnercenter.microsoft.com/pcv/search) innerhalb von 24 Stunden angezeigt.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-184">After you publish your profile, updates appear in the [Find a partner](https://partnercenter.microsoft.com/pcv/search) searches within 24 hours.</span></span> 
+
+## <a name="improve-the-visibility-of-your-profile"></a><span data-ttu-id="2e8b4-185">Verbessern der Sichtbarkeit Ihres Profils</span><span class="sxs-lookup"><span data-stu-id="2e8b4-185">Improve the visibility of your profile</span></span> 
+
+*  <span data-ttu-id="2e8b4-186">**[Reagieren Sie schnell auf Anfragen](responding-to-referrals.md)**.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-186">**[Respond quickly to requests](responding-to-referrals.md)**.</span></span> <span data-ttu-id="2e8b4-187">Wenn Sie eine Kundenempfehlung erhalten, kann eine schnellere Antwort für zukünftige Kunden zu besseren Ergebnissen auf den Suchseiten führen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-187">When you receive a customer referral, a faster response can lead to better results on the search pages for future customers.</span></span>
+*  <span data-ttu-id="2e8b4-188">**Seien Sie wählerisch bei Ihren Tags**.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-188">**Be selective with your tags**.</span></span>  <span data-ttu-id="2e8b4-189">Es ist besser, weniger Tags zu haben, die die Angebote, Lösungen, Nutzenversprechen und eindeutige Position Ihres Unternehmens am besten darstellen, damit Sie konsistent Erfolge nachweisen können.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-189">It’s better to have fewer tags that best represent your company’s offers, solutions, value propositions, and unique position where you can consistently demonstrate success.</span></span>  <span data-ttu-id="2e8b4-190">Davon profitieren Sie in zukünftigen Suchergebnissen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-190">That will pay dividends in future search results.</span></span>
+*  <span data-ttu-id="2e8b4-191">**Verdienen Sie Kompetenz-Tags** über Microsoft, um Ihr Sachverständnis in Bezug auf unsere Produkte zu demonstrieren.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-191">**Earn competency tags** through Microsoft to demonstrate your proficiency in our products.</span></span>
+*  <span data-ttu-id="2e8b4-192">**Verdienen Sie Unterstützungs-Tags** von Kunden, die Ihre Arbeit zu schätzen wissen.</span><span class="sxs-lookup"><span data-stu-id="2e8b4-192">**Earn endorsement tags** from customers who appreciate your work.</span></span>
+
+## <a name="related-topics"></a><span data-ttu-id="2e8b4-193">Verwandte Themen</span><span class="sxs-lookup"><span data-stu-id="2e8b4-193">Related topics</span></span>
+[<span data-ttu-id="2e8b4-194">Reaktion auf Empfehlungen</span><span class="sxs-lookup"><span data-stu-id="2e8b4-194">Responding to referrals</span></span>](responding-to-referrals.md)

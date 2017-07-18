@@ -3,38 +3,32 @@ title: Support von Microsoft | Partner Center
 description: "Bei Problemen mit einem Microsoft-Dienst oder mit Partner Center können Sie den Fall an Microsoft eskalieren, um Hilfe zu erhalten, und das Problem nachverfolgen, bis es behoben ist."
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 2be8a2651af3207fd2bb3349b0146a651a8afdb7
-
+ms.openlocfilehash: 66bb02c8ef2677c8f962785f415739c0ea3c9311
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: de-DE
 ---
+# <a name="support-from-microsoft"></a><span data-ttu-id="7f0d5-103">Support von Microsoft</span><span class="sxs-lookup"><span data-stu-id="7f0d5-103">Support from Microsoft</span></span>
 
-# Support von Microsoft
+**<span data-ttu-id="7f0d5-104">Betrifft</span><span class="sxs-lookup"><span data-stu-id="7f0d5-104">Applies to</span></span>**
 
-**Betrifft**
+-  <span data-ttu-id="7f0d5-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="7f0d5-105">Partner Center</span></span>
+-  <span data-ttu-id="7f0d5-106">Partner Center für Microsoft Cloud für US-Behörden</span><span class="sxs-lookup"><span data-stu-id="7f0d5-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="7f0d5-107">Partner Center für Microsoft Cloud Deutschland</span><span class="sxs-lookup"><span data-stu-id="7f0d5-107">Partner Center for Microsoft Cloud Germany</span></span>
 
--  Partner Center
--  Partner Center für Microsoft-Cloud Deutschland
+<span data-ttu-id="7f0d5-108">Bei Problemen mit einem Microsoft-Dienst oder mit Partner Center können Sie den Fall an Microsoft eskalieren, um Hilfe zu erhalten, und das Problem nachverfolgen, bis es behoben ist.</span><span class="sxs-lookup"><span data-stu-id="7f0d5-108">When you encounter problems with a Microsoft service or with Partner Center, you can escalate to Microsoft for help, and track the issue until it's resolved.</span></span>
 
-Bei Problemen mit einem Microsoft-Dienst oder mit Partner Center können Sie den Fall an Microsoft eskalieren, um Hilfe zu erhalten, und das Problem nachverfolgen, bis es behoben ist.
+[<span data-ttu-id="7f0d5-109">Überprüfen der Dienstintegrität</span><span class="sxs-lookup"><span data-stu-id="7f0d5-109">Check service health</span></span>](check-service-health.md)
 
-[Überprüfen der Dienstintegrität](check-service-health.md)
+[<span data-ttu-id="7f0d5-110">Melden von Problemen mit dem Partner Center</span><span class="sxs-lookup"><span data-stu-id="7f0d5-110">Report problems with Partner Center</span></span>](report-problems-with-partner-center.md)
 
-[Melden von Problemen mit dem Partner Center](report-problems-with-partner-center.md)
+[<span data-ttu-id="7f0d5-111">Melden von Problemen im Auftrag eines Kunden</span><span class="sxs-lookup"><span data-stu-id="7f0d5-111">Report problems on behalf of a customer</span></span>](report-problems-on-behalf-of-a-customer.md)
 
-[Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md)
-
-[Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs](get-automated-service-notifications-with-our-apis.md)
-
- 
+[<span data-ttu-id="7f0d5-112">Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs</span><span class="sxs-lookup"><span data-stu-id="7f0d5-112">Get automated service notifications with our APIs</span></span>](get-automated-service-notifications-with-our-apis.md)
 
  
 
+ 
 
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

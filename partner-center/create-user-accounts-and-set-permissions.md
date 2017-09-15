@@ -1,56 +1,56 @@
 ---
-title: Erstellen von Benutzerkonten und Festlegen von Berechtigungen | Partner Center
-description: "Der Administrator erstellt ein Benutzerkonto für jeden Partnermitarbeiter, der Zugriff auf Partner Center benötigt."
+title: Create user accounts and set permissions | Partner Center
+description: The admin creates a user account for each partner employee who needs access to Partner Center.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: bc699214c7919c7cff9788144d472063ba60ad10
-ms.sourcegitcommit: 4a1cd51e5986f47badcde9412a7c7b22718500f0
+ms.openlocfilehash: 6a54dd2a221f38edb2439596ba2637907dad73de
+ms.sourcegitcommit: f62ea44fb20c2ada21154e254984413ee2a685f3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 08/18/2017
 ---
-# <a name="create-user-accounts-and-assign-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen
+# <a name="create-user-accounts-and-assign-permissions"></a>Create user accounts and assign permissions
 
-**Betrifft**
+**Applies to**
 
 -  Partner Center
 
-Erstellen Sie Benutzerkonten für Mitarbeiter, die Zugriff auf Partner Center benötigen. Diese Aufgaben müssen von einem Administrator durchgeführt werden, der über die Berechtigungen eines Benutzerverwaltungsadministrators verfügt. 
+Create user accounts for employees who need access to Partner Center. These tasks must be done by an admin with user management admin permissions. 
 
-## <a name="add-a-new-user"></a>Hinzufügen eines neuen Benutzers
+## <a name="add-a-new-user"></a>Add a new user
 
-1. Wählen Sie im Menü **Dashboard** **Kontoeinstellungen > Benutzerverwaltung**.
+1. On the **Dashboard** menu, select **Account settings > User management**.
 
-2.  Wählen Sie **Benutzer hinzufügen**.
+2.  Select **Add user**.
 
-3.  Geben Sie den vollständigen Namen und die eindeutige E-Mail-Adresse des Benutzers ein.
+3.  Enter the user’s full name and unique email address.
 
-4.  Wählen Sie den Agent- und Administratortyp aus. Partner Center-Zugriff ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt. Weitere Informationen dazu, welche Möglichkeiten Benutzer mit den jeweiligen Rollen haben, finden Sie unter [Zuweisen von Benutzerberechtigungen](#assignuserpermissions).
+4.  Select the type of agent and the type of admin. Partner Center access is role-based, so you can assign permissions to customize the user's view to show only the features the user needs to complete specific tasks. For more information about what each role can do, see [Assign user permissions](#assignuserpermissions).
 
-5.  Wählen Sie **Hinzufügen**, um das Benutzerkonto zu erstellen. Bestätigen Sie die Details des Benutzers auf der nächsten Seite.
+5.  Select **Add** to create the user account. Confirm the user's details on the next page.
 
->**Wichtig**<br>
-Notieren Sie sich die Anmeldeinformationen des neuen Benutzers, die auf dieser Seite angezeigt werden. Achten Sie darauf, diese Informationen zu kopieren und an den neuen Benutzer zu senden, da Sie später nicht erneut darauf zugreifen können. <br>
+>**Important**<br>
+Make a note of the new user's sign-in information displayed on this page. Be sure to copy and send this information to the new user as you will not be able to access it again later. <br>
 
->Der Benutzer muss sich bei Partner Center mit seinem Benutzernamen und einem temporären Kennwort anmelden. Wenn sich der Benutzer zum ersten Mal bei Partner Center anmeldet, wird er aufgefordert, sein Kennwort zu ändern.    
+>The user will need to sign in to Partner Center with their user name and temporary password. When the user signs in to Partner Center for the first time, they are prompted to change their password.    
 
 
-### <a href="" id="assignuserpermissions"></a>Zuweisen von Benutzerberechtigungen
+### <a href="" id="assignuserpermissions"></a>Assign user permissions
 
-Partner Center-Zugriff ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt. 
+Partner Center access is role-based, so you can assign permissions to customize the user's view to show only the features the user needs to complete specific tasks. 
 
-Sie müssen für jeden Benutzer zwei Berechtigungsstufen auswählen:
+For each user, you must select two permission levels:
 
--   Agent-Berechtigungen steuern, welche Art von Kundendaten und Kontoinformationen der Benutzer anzeigen und ändern kann.
+-   Agent permissions control what kind of customer data and account information the user can see and change.
 
--   Administratorberechtigungen steuern die Ebene des Zugriffs, über den der Benutzer für Partner Center-Funktionen verfügt. Diese Einstellung hat auch Auswirkungen außerhalb von Partner Center: Ein Abrechnungsadministrator kann auf alle Rechnungen für alle Microsoft-Dienste zugreifen (auch auf solche, die sich nicht auf CSP beziehen), und ein globaler Administrator hat ebenfalls über CSP hinausgehenden Zugriff auf Benutzerkonten und Kundenkonten.
+-   Admin permissions control the level of access the user has to Partner Center features. This setting has impact outside of Partner Center -- a billing admin can access bills for all Microsoft services (even those unrelated to CSP), and a global admin can access user accounts and customer accounts beyond CSP as well.
 
-##<a name="assign-permissions-for-incentives-users"></a>Zuweisen von Berechtigungen für Anreizbenutzer
-Wenn Sie Ihre Anreizbenutzer einrichten, können Sie ihnen entweder die Anreizadministratorrolle oder die Anreizbenutzerrolle zuweisen.  Der Anreizadministrator kann Bank- und Steuerinformationen bearbeiten, Zahlungsansprüche an Microsoft senden sowie Anreizbenutzer verwalten. Anreizbenutzer können Programm-, Bank- und Steuerinformationen überprüfen, jedoch nicht bearbeiten. Sie stellen häufig die tatsächlichen Anreizprogramme für Kunden bereit. Anreizadministratoren und -benutzer können andere Rollen in Partner Center für Ihre Organisation besitzen, um jedoch an Anreizprogrammen zu arbeiten, muss ein Benutzer entweder Anreizadministrator oder Anreizbenutzer sein.
+## <a name="assign-permissions-for-incentives-users"></a>Assign permissions for Incentives users
+When you set up your incentives users, you can give them either the incentive admin role or incentive user role.  Der Incentiveadministrator kann Incentiveanmeldungen migrieren und registrieren, Bank- und Steuerinformationsprofile bearbeiten und alle Berichte anzeigen. Incentivebenutzer können Programm Registrierungen und Berichte´anzeigen. Incentives admins and users can have other roles in Partner Center for your organization but to work on Incentives programs a user must be either incentives admin or user.
 
->**Wichtig** Die Standardeinstellung sollte immer **No admin** sein, es sei denn, der Benutzer benötigt diesen zusätzlichen Zugriff tatsächlich im Rahmen seiner Arbeit.
+>**Important** The default setting should always be **No admin**, unless the user's role requires additional access to complete tasks and support customers.
 
-In der folgende Tabelle wird erläutert, welche Möglichkeiten Benutzer mit den jeweiligen Rollen in Partner Center haben.
+The following table explains what each role can do in Partner Center.
 
 <table>
 <colgroup>
@@ -60,114 +60,117 @@ In der folgende Tabelle wird erläutert, welche Möglichkeiten Benutzer mit den 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Rolle im Partner Center</strong></p></td>
-<td><p><strong>Was diese Rolle kann</strong></p></td>
-<td><p><strong>Was diese Rolle nicht kann</strong></p></td>
+<td><p><strong>Role in Partner Center</strong></p></td>
+<td><p><strong>What they can do</strong></p></td>
+<td><p><strong>What they can't do</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Administratoragent</strong></p></td>
+<td><p><strong>Admin agent</strong></p></td>
 <td><ul>
-<li><p>Kundenverwaltung</p></li>
-<li><p>Liste der Geräte zu Partner Center hinzufügen</p></li>
-<p><li>Erstellen und Anwenden von Profilen auf Geräte</p></li>
-<li><p>Abonnementverwaltung</p></li>
-<li><p>Dienstintegrität und Serviceanfragen für Kunden</p></li>
-<li><p>Delegierte Administratorrechte anfordern</p></li>
-<li><p>Preise und Angebote anzeigen</p></li>
-<li><p>Abrechnung</p></li>
-<li><p>Im Auftrag eines Kunden verwalten</p></li>
-<li><p>Vertragshändler registrieren</p></li>
+<li><p>Customer management</p></li>
+<li><p>Add device list to Partner Center</p></li>
+<p><li>Create and apply profiles to devices</p></li>
+<li><p>Subscription management</p></li>
+<li><p>Service health and service requests for customers</p></li>
+<li><p>Request delegated administrator privileges</p></li>
+<li><p>View pricing and offers</p></li>
+<li><p>Billing</p></li>
+<li><p>Administer on behalf of a customer</p></li>
+<li><p>Register a value added reseller</p></li>
 </ul></td>
 <td><ul>
-<li><p>Benutzerverwaltung</p></li>
-<li><p>Serviceanfragen für Partner Center</p></li>
+<li><p>User management</p></li>
+<li><p>Service requests for Partner Center</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Vertriebsbeauftragter</strong></p></td>
+<td><p><strong>Sales agent</strong></p></td>
 <td><ul>
-<li><p>Kundenverwaltung</p></li>
-<li><p>Liste der Geräte zu Partner Center hinzufügen</p></li>
-<li><p>Abonnementverwaltung</p></li>
-<li><p>Supportanfragen anzeigen</p></li>
-<li><p>Beantragen einer Partnerschaft mit einem Kunden</p></li>
-<li><p>Potenzielle Kunden verwalten</p></li>
-<li><p>Kundenvertrag anzeigen</p></li>
-<li><p>Vertragshändler registrieren</p></li>
+<li><p>Customer management</p></li>
+<li><p>Add device list to Partner Center</p></li>
+<li><p>Subscription management</p></li>
+<li><p>View support tickets</p></li>
+<li><p>Request a relationship with a customer</p></li>
+<li><p>Manage customer leads</p></li>
+<li><p>View the customer agreement</p></li>
+<li><p>Register a value added reseller</p></li>
 </ul></td>
 <td><ul>
-<li><p>Serviceanfragen für Probleme mit Partner Center erstellen</p></li>
-<li><p>Supportanfragen lösen</p></li>
-<li><p>Dienstintegrität anzeigen</p></li>
-<li><p>Preise und Angebote anzeigen</p></li>
-<li><p>Abrechnung</p></li>
-<li><p>Im Auftrag eines Kunden verwalten</p></li>
+<li><p>Create service requests for problems with Partner Center</p></li>
+<li><p>Resolve support tickets</p></li>
+<li><p>View service health</p></li>
+<li><p>View pricing and offers</p></li>
+<li><p>Billing</p></li>
+<li><p>Administer on behalf of a customer</p></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>Helpdesk-Agent</strong></p></td>
+<td><p><strong>Helpdesk agent</strong></p></td>
 <td><ul>
-<li><p>Nach Kunden suchen und anzeigen</p></li>
+<li><p>Search for and view a customer</p></li>
 <li><p>Kundendetails bearbeiten</p></li>
-<li><p>Dienstintegrität</p></li>
+<li><p>Unterstützten der Lösung von Kunden bei Problemen mit der Abrechnung oder der Abonnementverwaltung</p></li>
 <li><p>Anfordern von Support im Auftrag der Kunden (Hinweis: Sie müssen ein Administrator-Agent zum Ausführen dieser Aufgabe für Office365-Abonnements sein.)</p></li>
 <li><p>Verwalten von Abonnements und Diensten im Auftrag der Kunden (Hinweis: Sie müssen ein Administrator-Agent zum Ausführen dieser Aufgabe für Office365-Abonnements sein.)</p></li>
 </ul></td>
 <td><ul>
 <li><p>Partnerprofile anzeigen</p></li>
-<li><p>Neues Kundenkonto erstellen</p></li>
+<li><p>Create a new customer account</p></li>
 <li><p>Rechnungsinformationen des Kunden bearbeiten</p></li>
-<li><p>Abonnements verwalten</p></li>
-<li><p>Beantragen einer Partnerschaft mit einem Kunden</p></li>
-<li><p>Potenzielle Kunden verwalten</p></li>
-<li><p>Preise und Angebote anzeigen</p></li>
-<li><p>Kundenvertrag anzeigen</p></li>
-<li><p>Abrechnung</p></li>
-<li><p>Vertragshändler registrieren</p></li>
+<li><p>Technischen Support für Azure anfordern.</p></li>
+<li><p>Manage subscriptions</p></li>
+<li><p>Request a relationship with a customer</p></li>
+<li><p>Manage customer leads</p></li>
+<li><p>View pricing and offers</p></li>
+<li><p>View the customer agreement</p></li>
+<li><p>Billing</p></li>
+<li><p>Register a value added reseller</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Globaler Administrator</strong></p></td>
+<td><p><strong>Global admin</strong></p></td>
 <td><ul>
-<li><p>Zugriff auf alle Microsoft-Konten/-Dienste mit allen Berechtigungen</p></li>
-<li><p>Supportanfragen für Partner Center erstellen</p></li>
-<li><p>Verträge, Preislisten und Angebote anzeigen</p></li>
-<li><p>Abrechnung</p></li>
-<li><p>Partnerbenutzer anzeigen, erstellen und verwalten</p></li>
+<li><p>Can access all Microsoft account/services with full privileges</p></li>
+<li><p>Create support tickets for Partner Center</p></li>
+<li><p>View agreements, price lists, and offers</p></li>
+<li><p>Billing</p></li>
+<li><p>View, create, and manage partner users</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>Abrechnungsadministrator</strong></p></td>
+<td><p><strong>Billing admin</strong></p></td>
 <td><ul>
-<li><p>Zugriff auf alle Rechnungen von Microsoft mit allen Berechtigungen</p></li>
-<li><p>Verträge, Preislisten und Angebote anzeigen</p></li>
-<li><p>Abrechnung</p></li>
+<li><p>Can access all bills from Microsoft with full privileges</p></li>
+<li><p>View agreements, price lists, and offers</p></li>
+<li><p>Billing</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Benutzerverwaltungsadministrator</strong></p></td>
+<td><p><strong>User management admin</strong></p></td>
 <td><ul>
-<li><p>Benutzer anzeigen, erstellen und verwalten</p></li>
-<li><p>Alle Partnerprofile anzeigen</p></li>
+<li><p>View, create, and manage users</p></li>
+<li><p>View all partner profiles</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>Anreizadministrator</strong></p></td>
+<td><p><strong>Incentivebenutzer oder -administrator</strong></p></td>
 <td><ul>
+<li><p>Registrieren für Incentiveprogramme</p></li>
+<li><p>Migrieren von Incentiveregistrierung zum Partner Center</p></li>
 <li><p>Anzeigen und Verwalten aller Incentives-Programme</p></li>
 <li><p>Bearbeiten von Bank- und Steuerprofilen für Incentives-Programme</p></li>
-<LI><p>Verwalten von Anreizbenutzern</p></li>
+<li><p>Alle Incentiveberichte anzeigen</p></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Anreizbenutzer</strong></p></td>
+<td><p><strong>Incentivebenutzer oder -administrator</strong></p></td>
 <td><ul>
-<li><p>Anzeigen von Anreizprogrammen</p></li>
-<li><p>Anzeigen von Bank- und Steuerprofilen</p></li>
+<li><p>Registrierungen anzeigen</p></li>
+<li><p>Bericht anzeigen</p></li>
 </ul></td>
 <td></td>
 </tr>

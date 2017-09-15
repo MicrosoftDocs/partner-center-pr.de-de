@@ -1,33 +1,32 @@
 ---
-title: Small and Midmarket Cloud Solutions-Kompetenz
-description: "Mit der Kompetenz \"Small and Midmarket Cloud Solutions\" können Sie sich den Ruf als Partner erwerben, der darauf spezialisiert ist, kleinen und mittelständischen Unternehmen Office 365-Lösungen zu verkaufen und bereitzustellen."
+title: Small and Midmarket Cloud Solutions Competency
+description: The Small and Midmarket Cloud Solutions competency helps you to create your brand as a partner specialized in selling and deploying Office 365 solutions to small and midsized businesses.
 author: Daniel Simpson
-keywords: Kompetenz, Kompetenzen, Small and Midmarket Cloud Solutions
-robots: noindex,nofollow
-ms.openlocfilehash: e4c684cfd4f2ff17b5f9677c75f6d560c9f808ce
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency, competencies, Small and Midmarket Cloud Solutions
+ms.openlocfilehash: 2eb5c2a643831854cc781d2aa3f93f2a3fb192aa
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
 # <a name="small-and-midmarket-cloud-solutions"></a>Small and Midmarket Cloud Solutions 
-Mit der Kompetenz "Small and Midmarket Cloud Solutions" können Sie sich den Ruf als Partner erwerben, der darauf spezialisiert ist, kleinen und mittelständischen Unternehmen Office 365-Lösungen zu verkaufen und bereitzustellen.
+The Small and Midmarket Cloud Solutions competency helps you to create your brand as a partner specialized in selling and deploying Office 365 solutions to small and midsized businesses.
 
-## <a name="o365-services-option"></a>O365 Services-Option
-Die Office 365 Services-Option ist ideal für Partner, die Office 365-Dienste für ihre Kunden verkaufen und bereitstellen. Durchlaufen Sie alle Schritte in der Option, um die Small and Midmarket Cloud Solutions-Kompetenz zu erreichen.
+## <a name="o365-services-option"></a>O365 Services option
+The Office 365 Services option is ideal for partners that sell and provide Office 365 services for their customers. Complete all the steps within the option to attain the Small and Midmarket Cloud Solutions competency.
 
 ### <a name="silver"></a>Silver
-1. Ihre Organisation muss die Leistungsschwellenwerte erfüllen.
+1. Your organization must meet the performance thresholds.
     
-    - Sie müssen mindestens 4 Office365-Nettoneukunden in den letzten 12Monaten geworben haben.
-    - Für diese Kunden müssen Sie als delegierter Office365-Administrator oder Transacting Partner oder Digital Partner of Record zugeordnet sein.
+    - You must have at least 4 net new Office 365 customers in the last 12 months.
+    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record.
     - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.
 
 ### <a name="gold"></a>Gold
-1. Ihre Organisation muss die Leistungsschwellenwerte erfüllen.
+1. Your organization must meet the performance thresholds.
 
-    - Sie müssen mindestens 25 Office365-Nettoneukunden in den letzten 12Monaten geworben haben.
-    - Für diese Kunden müssen Sie als delegierter Office365-Administrator oder Transacting Partner oder Digital Partner of Record zugeordnet sein.
+    - You must have at least 25 net new Office 365 customers in the last 12 months.
+    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record.
     - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.  
   
 2. **2** Personen in Ihrer Organisation müssen die Prüfungsanforderungen erfüllen.

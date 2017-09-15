@@ -1,52 +1,53 @@
 ---
-title: Aktualisieren der Microsoft Partner Network-Mitgliedschaft | Partner Center
-description: "Wenn Sie Ihre Microsoft Partner Network-Mitgliedschaft aktualisieren, haben Sie Anspruch auf exklusive Mitgliedschaftsvorteile. Enthält Informationen zum Suchen und Kaufen verfügbarer Angebote."
+title: Upgrade your Microsoft Partner Network membership | Partner Center
+description: When you upgrade your Microsoft Partner Network membership, you're eligible for exclusive membership benefits. Learn how to find and purchase available offers.
 author: MaggiePucciEvans
 robots: noindex,nofollow
-ms.openlocfilehash: aa4d27652f81d32ceeac0286a321dd374fb5db54
-ms.sourcegitcommit: e402720a8b5f734e9f7ffd16f17983157c78e16f
+ms.openlocfilehash: 9503ce2188adf77122a1eb48efe748abddaabcb6
+ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
 ms.translationtype: HT
 ms.contentlocale: de-DE
+ms.lasthandoff: 07/08/2017
 ---
-# <a name="upgrade-your-microsoft-partner-network-membership"></a>Aktualisieren der Microsoft Partner Network-Mitgliedschaft
+# <a name="upgrade-your-microsoft-partner-network-membership"></a>Upgrade your Microsoft Partner Network membership
 
-**Betrifft:**
+**Applies to**
 
 -  Partner Center
 
-Das Partnerprogramm von Microsoft bietet die folgenden drei Mitgliedschaftsoptionen, mit inkrementellen Vorteilen zum Erreichen Ihrer Geschäftsziele.
+Microsoft’s partner program offers the following three membership options, with incremental benefits to help you achieve your business goals.
 
-- **Netzwerkmitgliedschaft.** Die Basismitgliedschaft bietet Einstiegsvorteile für Schulungen, Support und Kundenkontakte. Sie müssen ein Netzwerkmitglied sein, um Ihre Mitgliedschaft zu aktualisieren.
+- **Network membership.** The core membership level, offering entry-level benefits for training, support, and customer connections. You must be a network member to upgrade your membership.
 
-- **Microsoft Action Pack-Abonnement-Mitgliedschaft.** Ein kostengünstiges Jahresabonnement für kleine und mittelständische Partnerunternehmen. Enthält die Einsteigervorteile, die in der Basisnetzwerkmitgliedschaft enthalten sind, plus Bereitstellungen von Dienstabonnements, Softwarelizenzen und Support mit internen Nutzungsrechten.
+- **Microsoft Action Pack subscription membership.** An affordable annual subscription, serving small and mid-sized partner companies. Includes the entry-level benefits that come with basic network membership plus allocations of internal-use rights service subscriptions, software licenses, and support.
 
-- **Microsoft-Kompetenzen.** Ein Auszeichnung, die sich Ihr Unternehmen für seine Kenntnisse verdient hat. Umfasst Einsteigervorteile, zusätzliche interne Nutzungsrechte, Qualifikation für Partner-Incentives und zusätzliche Support- und Beratungsstunden.
+- **Microsoft competencies.** An earned designation showcasing your company’s capabilities. Includes entry-level benefits, additional internal-use rights, eligibility for partner incentives, and additional support and advisory hours.
 
-  - Silver-Kompetenz – einheitliche Funktionalität, Erfahrung und Engagement
+  - Silver competency – consistent capability, expertise, and commitment
 
-  - Gold-Kompetenz – erstklassige Kenntnisse in einem bestimmten Bereich der Microsoft-Lösungen
+  - Gold competency – best-in-class capability within a specific Microsoft solution area
 
-Nachdem Sie dem Microsoft Partner Network beigetreten sind, haben Sie Anspruch auf die Aktualisierung Ihrer Mitgliedschaft und den Erwerb exklusiver Mitgliedschaftsvorteilsangebote. Weitere Informationen über die Mitgliedschaft im Microsoft Partner Network finden Sie unter [https://partner.microsoft.com](https://partner.microsoft.com).
+After you join the Microsoft Partner Network, you’re eligible to upgrade your membership and purchase exclusive membership benefit offers. Weitere Informationen über die Mitgliedschaft im Microsoft Partner Network finden Sie unter [https://partner.microsoft.com](https://partner.microsoft.com).
 
 
-## <a name="subscribe-to-microsoft-action-pack"></a>Abonnieren von Microsoft Action Pack
+## <a name="purchase-a-microsoft-action-pack-subscription"></a>Kauf eines Microsoft Action Pack-Abonnements
 
-Action Pack ist ein kostengünstiges jährliches Abonnement für Dienste, Software und Support für Unternehmen, die in einer Welt, in der mobile Geräte und Clouddienste zunehmend an Bedeutung gewinnen, ihr Microsoft-Geschäft ausbauen möchten. Abonnieren Sie Action Pack, um:
+Action Pack is an affordable yearly subscription to services, software, and support for businesses that want to grow their Microsoft practice in the cloud-first, mobile-first world. Subscribe to Action Pack to:
 
-- erstklassige Entwicklertools zum Erstellen von Anwendungen und Lösungen für Ihre Kunden unter iOS, Android, Linux und Windows zu verwenden. 
+- Use world-class developer tools to create applications and solutions for your customers on iOS, Android, Linux, and Windows 
 
-- zehn Windows10 Enterprise-Lizenzen (Upgrade), drei Visual Studio Professional-Lizenzen und ein kostenloses Visual Studio Team Services-Konto zu erhalten. 
+- Get ten Windows 10 Enterprise (upgrade) licenses, three Visual Studio Professional licenses, and a no-cost Visual Studio Team Services account 
 
-- bis zu zehn Office 365 (E3)-Arbeitsplätze sowie fünf Arbeitsplätze von Enterprise Mobility Suite und Microsoft Dynamics CRM Online Professional zu erhalten.
+- Get up to ten Office 365 (E3) seats, plus five seats of Enterprise Mobility Suite and Microsoft Dynamics CRM Online Professional
 
-- monatlich 100 US-Dollar Microsoft Azure-Gutschriften zu erhalten.
+- Receive US$100 of Microsoft Azure credits every month
 
 Weitere Informationen zu Microsoft Action Pack finden Sie unter [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
->**Hinweis:** Über diesen Link gelangen Sie zu einer anderen Website. Kehren Sie zurück zu dieser Website (Partner Center), um Action Pack zu abonnieren.
+>**Hinweis:** Über diesen Link gelangen Sie zu einer anderen Website. Return to this site, Partner Center, to subscribe to Action Pack.
 
 
-#### <a name="purchase-microsoft-action-pack"></a>Microsoft Action Pack erwerben
+### <a name="subscribe-to-microsoft-action-pack"></a>Abonnieren von Microsoft Action Pack
 
 1. Wählen Sie im Menü **Dashboard** **Partnerschaft > Angebote**. Microsoft Action Pack ist unter **Verfügbare Angebote** aufgeführt. Wählen Sie **Subscribe now**. 
 
@@ -58,14 +59,13 @@ Weitere Informationen zu Microsoft Action Pack finden Sie unter [https://partner
 
 5. Geben Sie Ihre Zahlungsdetails ein, und wählen Sie dann **Weiter**.
 
-6. Überprüfen Sie Ihre Auftragsdetails, und wählen Sie dann **Kaufen**, wenn Sie bereit sind, Action Pack zu erwerben. Ihre Kreditkarte wird sofort belastet.
+6. Überprüfen Sie Ihre Auftragsdetails, und wählen Sie dann **Kaufen**, wenn Sie bereit sind, Action Pack zu erwerben. Your credit card will be charged immediately.
 
-7. Ihre Bestellung ist bestätigt. Wählen Sie **Schließen**.
+7. Your order is confirmed. Wählen Sie **Schließen**.
 
-Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Tag verlängert. Sie können die automatische Verlängerung jederzeit in der Liste der erworbenen Angebote deaktivieren. Allerdings ist es nicht möglich, die automatische Abonnementverlängerung wieder zu aktivieren, bis Sie erneut Ihr Abonnement verlängern. 
+Your Action Pack subscription will renew automatically each year on this date. You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
 
-
-## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Deaktivieren der automatischen Verlängerung des Action Pack-Abonnements
+### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Turn off automatic Action Pack subscription renewal
 
 1. Wählen Sie im Menü **Dashboard** **Partnerschaft > Angebote**. Microsoft Action Pack ist unter **Purchased offers** aufgeführt.
 
@@ -73,11 +73,11 @@ Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Tag verlängert
 
 3. Wählen Sie **Turn off automatic renewal**, wenn Sie nicht möchten, dass Ihr Action Pack-Abonnement automatisch jährlich erneuert wird. 
 
->**Hinweis:**<br>
-Wenn Sie die automatische Abonnementverlängerung deaktivieren, ist es nicht möglich, sie wieder zu aktivieren, bis Sie erneut das Abonnement verlängern. Wir erinnern Sie vor Ablauf Ihres Abonnements daran, es zu verlängern.
+    >**Note**<br>
+If you turn off automatic subscription renewal, you won’t be able to turn it back on until you renew the subscription again. We’ll remind you to renew before your subscription expires.
 
 
-## <a name="renew-your-action-pack-subscription"></a>Action Pack-Abonnement verlängern
+### <a name="renew-your-action-pack-subscription"></a>Renew your Action Pack subscription
 
 1. Wählen Sie im Menü **Dashboard** **Partnerschaft > Angebote**. Microsoft Action Pack ist unter **Purchased offers** aufgeführt.
 
@@ -93,36 +93,34 @@ Wenn Sie die automatische Abonnementverlängerung deaktivieren, ist es nicht mö
 
 7. Geben Sie Ihre Zahlungsdetails ein, und wählen Sie dann **Weiter**.
 
-8. Überprüfen Sie Ihre Auftragsdetails, und wählen Sie dann **Kaufen**, wenn Sie bereit sind, Action Pack zu erwerben. Ihre Kreditkarte wird sofort belastet.
+8. Überprüfen Sie Ihre Auftragsdetails, und wählen Sie dann **Kaufen**, wenn Sie bereit sind, Action Pack zu erwerben. Your credit card will be charged immediately.
 
-9. Ihre Bestellung ist bestätigt. Wählen Sie **Schließen**.
+9. Your order is confirmed. Wählen Sie **Schließen**.
 
-Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Tag verlängert. Sie können die automatische Verlängerung jederzeit in der Liste der erworbenen Angebote deaktivieren. Allerdings ist es nicht möglich, die automatische Abonnementverlängerung wieder zu aktivieren, bis Sie erneut Ihr Abonnement verlängern. 
+    Your Action Pack subscription will renew automatically each year on this date. You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
 
 
-## <a name="cancel-your-action-pack-subscription"></a>Action Pack-Abonnement kündigen
+### <a name="cancel-your-action-pack-subscription"></a>Cancel your Action Pack subscription
 
-Wenn Sie Ihr Microsoft Action Pack-Abonnement kündigen möchten, müssen Sie sich an den Partner Center-Support wenden.
+To cancel your Microsoft Action Pack subscription, you must contact Partner Center Support.
 
-1. Gehen Sie zu https://partnercenter.microsoft.com/partner/support.
+1. Go to https://partnercenter.microsoft.com/partner/support.
 
 2. Wählen Sie **Probleme mit dem Partner Center melden**, und wählen Sie dann **Neue Anfrage** auf der nächsten Seite.
 
 3. Erweitern Sie die Liste **Problemtyp**, und wählen Sie **Help with partner invoice, payment, or reconciliation file**. 
 
-4. Geben Sie die erforderlichen Informationen ein, und wählen Sie dann **Übermitteln**. Das Partner Center-Support-Team wird Sie kontaktieren, um Sie beim Kündigen Ihres Abonnement zu unterstützen.
+4. Geben Sie die erforderlichen Informationen ein, und wählen Sie dann **Übermitteln**. The Partner Center Support team will contact you to help you cancel your subscription.
 
-Um den Status Ihrer Serviceanfrage zu überprüfen, wählen Sie **Serviceanfragen > Partner Center-Anfragen** und dann **Öffnen**. Wählen Sie die entsprechende Serviceanfrage aus der Liste aus.  
+    Um den Status Ihrer Serviceanfrage zu überprüfen, wählen Sie **Serviceanfragen > Partner Center-Anfragen** und dann **Öffnen**. Choose the appropriate service request from the list.  
 
  
-## <a name="next-steps"></a>Nächste Schritte
+### <a name="next-steps"></a>Next steps
 
-[Aktivieren Ihres Action Pack-Abonnements](manage-your-partner-network-benefits.md)
+[Activate your Action Pack subscription](manage-your-partner-network-benefits.md)
 
 
-## <a name="related-topics"></a>Verwandte Themen
-
-[Verwalten Ihrer Partner Network-Mitgliedschaft](manage-your-partner-network-benefits.md)
+### <a name="related-topics"></a>Related topics
 
 [Hinzufügen von Benutzern und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
 

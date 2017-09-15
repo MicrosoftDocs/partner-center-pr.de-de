@@ -1,19 +1,18 @@
 ---
-title: Rechenzentrum-Kompetenz
-description: "Die Rechenzentrum-Kompetenz erkennt Partner an, die Rechenzentren in flexible, skalierbare und kosteneffektive Lösungen verwandeln."
+title: Data Center Competency
+description: The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
 author: Daniel Simpson
-keywords: Kompetenz, Kompetenzen, Rechenzentrum
-robots: noindex,nofollow
-ms.openlocfilehash: 1d1efbc21817a63c1de86ebb4862525afff43945
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency, competencies, Datacenter
+ms.openlocfilehash: fd24df57e7bf18764e4281947443b37dc7f49713
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-#<a name="datacenter"></a>Rechenzentrum
-Die Rechenzentrum-Kompetenz erkennt Partner an, die Rechenzentren in flexible, skalierbare und kosteneffektive Lösungen verwandeln.
-##<a name="datacenter-solutions-option"></a>Datacenter Solutions-Option
-Die Datacenter Solutions-Option ist ideal, wenn Sie es vorziehen, Ihr Wissen mithilfe von Prüfungen oder Zertifizierungen nachzuweisen. Wählen Sie Prüfungen aus dem Fokusbereich Ihrer Wahl, um die Rechenzentrum-Kompetenz zu erreichen.
+#<a name="datacenter"></a>Datacenter
+The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
+##<a name="datacenter-solutions-option"></a>Datacenter Solutions option
+The Datacenter Solutions option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice to attain the Datacenter competency.
 ###<a name="silver"></a>Silver
 1. **2** Personen in Ihrer Organisation müssen eine der Prüfungen bestehen.
 

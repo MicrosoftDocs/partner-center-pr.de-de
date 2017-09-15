@@ -1,29 +1,32 @@
 ---
-title: Enterprise Resource Planning-Kompetenz
-description: "Werden Sie Microsoft-Partner, indem Sie dafür sorgen, dass Sie für die Entwicklung und Bereitstellung von Microsoft Dynamics-Lösungen für ERP-Anforderungen (Enterprise Resource Planning) anerkannt werden."
+title: Enterprise Resource Planning Competency
+description: "Become a Microsoft partner by proving your organization’s caliber in developing and deploying Dynamics solutions for enterprise resource planning needs."
 author: Daniel Simpson
-keywords: Kompetenz,Kompetenzen,Enterprise Resource Planning
-robots: noindex,nofollow
-ms.openlocfilehash: d4bf2ab195776dfafea9f6e69db0667df28a5816
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies,Enterprise Resource Planning
+ms.openlocfilehash: 7608e8bb44134fde6ff05db360db9fd2ccb04d7d
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
 #<a name="enterprise-resource-planning"></a>Enterprise Resource Planning 
-Werden Sie Microsoft-Partner, indem Sie dafür sorgen, dass Sie für die Entwicklung und Bereitstellung von Microsoft Dynamics-Lösungen für ERP-Anforderungen (Enterprise Resource Planning) anerkannt werden.
+Become a Microsoft partner by proving your organization’s caliber in developing and deploying Dynamics solutions for enterprise resource planning needs.
 
-##<a name="erp-reseller-option"></a>ERP Reseller-Option
-Die Enterprise Resource Planning-Option (ERP) ist ideal für Partner, die ihre Fähigkeit durch Erfüllen der Umsatzschwellenwerte und Prüfungsanforderungen nachweisen möchten. Durchlaufen Sie alle Schritte dieser Option, um die Enterprise Resource Planning-Kompetenz zu erreichen.
+##<a name="erp-reseller-option"></a>ERP Reseller option
+The Enterprise Resource Planning (ERP) Reseller option is ideal for partners who want to prove their capability by meeting revenue thresholds and exam requirements. Complete all the steps within the option to attain the Enterprise Resource Planning competency.
 
 ###<a name="silver"></a>Silver
 
-1. Ihre Organisation muss die Leistungsschwellenwerte erfüllen.
+1. Your organization must meet the performance thresholds.
 
-    **Industrieländer**
-    - Partner müssen einen jährlichen Bruttogesamtumsatz von 75.000US-Dollar erzielt haben.
-    - Erfüllen Sie die Umsatzanforderungen für Microsoft Dynamics AX Lokal & Dynamics AX Online; Dynamics GP, Dynamics SL, Dynamics NAV und/oder Dynamics 365 Plan 2.  
-  
+    - **Developed Markets**
+        - Partner must have earned a total annual gross license revenue of US$75,000
+       
+    - **Entwicklungsländer**
+        - Partner müssen einen jährlichen Bruttogesamtumsatz von 40.000US-Dollar erzielt haben.
+ 
+    - Meet Revenue Requirements for Microsoft Dynamics AX on Premise & Dynamics AX online; Dynamics GP, Dynamics SL, Dynamics NAV and/or Dynamics 365 Plan 2.  
+
 2. **5** Personen in Ihrer Organisation müssen die Prüfungsanforderungen erfüllen.
 
     - **1** Person muss die folgende Prüfung bestehen:
@@ -51,12 +54,16 @@ Die Enterprise Resource Planning-Option (ERP) ist ideal für Partner, die ihre F
 
 ###<a name="gold"></a>Gold
 
-1. Ihre Organisation muss die Leistungsschwellenwerte erfüllen.
+1. Your organization must meet the performance thresholds.
 
-    **Industrieländer**
-    - Partner müssen einen jährlichen Bruttogesamtumsatz von 175.000US-Dollar erzielt haben.
-    - Erfüllen Sie die Umsatzanforderungen für Microsoft Dynamics AX Lokal & Dynamics AX Online; Dynamics GP, Dynamics SL, Dynamics NAV und/oder Dynamics 365 Plan 2.  
+    - **Developed Markets**
+    -   Partner müssen einen jährlichen Bruttogesamtumsatz von 175.000US-Dollar erzielt haben.
   
+    - **Entwicklungsländer**
+        - Partner müssen einen jährlichen Bruttogesamtumsatz von 75.000US-Dollar erzielt haben. 
+
+    - Meet Revenue Requirements for Microsoft Dynamics AX on Premise & Dynamics AX online; Dynamics GP, Dynamics SL, Dynamics NAV and/or Dynamics 365 Plan 2.  
+
 2. **5** Personen in Ihrer Organisation müssen die Prüfungsanforderungen erfüllen.
 
     - **1** Person muss die folgende Prüfung bestehen:

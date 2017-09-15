@@ -1,31 +1,35 @@
 ---
-title: Cloud Business Applications-Kompetenz
-description: "Die Cloud Business Applications-Kompetenz ist für Partner, die sich auf die Bereitstellung und Verwaltung von Microsoft Dynamics 365 für ihre Kunden spezialisieren."
+title: Cloud Business Applications Competency
+description: The Cloud Business Applications competency is for partners who specialize in deployment and management of Microsoft Dynamics 365 for their customers.
 author: Daniel Simpson
-keywords: "Kompetenz, Kompetenzen, Cloudgeschäftsanwendungen"
-robots: noindex,nofollow
-ms.openlocfilehash: d3a04e666685622d706b0a13341f4c25a3cd6420
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies, Cloud Business Applications
+ms.openlocfilehash: 978f3b8939f7f5fb3e4788182fa4d49bb89b3ec0
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
 #<a name="cloud-business-applications"></a>Cloud Business Applications 
-Die Cloud Business Applications-Kompetenz ist für Partner, die sich auf die Bereitstellung und Verwaltung von Microsoft Dynamics 365 für ihre Kunden spezialisieren.
+The Cloud Business Applications competency is for partners who specialize in deployment and management of Microsoft Dynamics 365 for their customers.
 
-- [Enterprise Customer Engagement-Option](#enterprise-customer-engagement-option)
-- [Enterprise Operations-Option](#enterprise-operations-option)
+- [Enterprise Customer Engagement option](#enterprise-customer-engagement-option)
+- [Enterprise Operations option](#enterprise-operations-option)
 
 
-##<a name="enterprise-customer-engagement-option"></a>Enterprise Customer Engagement-Option
-Die Enterprise Customer Engagement-Option eignet sich ideal für Partner, die mit Unternehmenskunden interagieren. Führen Sie alle erforderlichen Schritte aus, um die Cloud Business Applications-Kompetenz zu erreichen.
+##<a name="enterprise-customer-engagement-option"></a>Enterprise Customer Engagement option
+The Enterprise Customer Engagement option is ideal for partners engaging with enterprise customers. Complete all the steps within to attain the Cloud Business Applications competency.
 
 ###<a name="silver"></a>Silver
-1. Ihre Organisation muss die Leistungsschwellenwerte erfüllen.
+1. Your organization must meet the performance thresholds.
 
-    **Industrieländer**
+    - **Developed Markets**
 
-    - Der Partner muss einen Umsatz von mindestens 100.000 US-Dollar erzielt haben – neuer Nettoumsatz im TTM-Zeitraum.
+        - Partner must have earned at least US$100,000 Revenue - Net New Revenue in the TTM period.
+    
+    - **Entwicklungsländer**
+
+        - Der Partner muss einen Umsatz von mindestens 50.000 US-Dollar erzielt haben – neuer Nettoumsatz im TTM-Zeitraum.
+
     - Erfüllen Sie die Umsatzschwellenwerte für Dynamics 365 Enterprise Plan 1 und seine Komponenten-Apps, Dynamics 365 Enterprise Plan 2.
     - Für diese Kunden müssen Sie als Digital Partner of Record zugewiesen sein.
     - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.
@@ -43,15 +47,20 @@ Die Enterprise Customer Engagement-Option eignet sich ideal für Partner, die mi
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
 
 ###<a name="gold"></a>Gold
-1. Ihre Organisation muss die Leistungsschwellenwerte erfüllen.
+1. Your organization must meet the performance thresholds.
 
-    **Industrieländer**
+    - **Industrieländer**
     
-    - Der Partner muss einen Umsatz von mindestens 300.000 US-Dollar erzielt haben – neuer Nettoumsatz im TTM-Zeitraum.
+        - Der Partner muss einen Umsatz von mindestens 300.000 US-Dollar erzielt haben – neuer Nettoumsatz im TTM-Zeitraum.
+
+    - **Industrieländer**
+
+        - Der Partner muss einen Umsatz von mindestens 150.000 US-Dollar erzielt haben – neuer Nettoumsatz im TTM-Zeitraum.
+  
     - Erfüllen Sie die Umsatzschwellenwerte von Dynamics 365 Enterprise Plan 1 und seinen Komponenten-Apps, Dynamics 365 Enterprise Plan 2.
     - Für diese Kunden müssen Sie als Digital Partner of Record zugewiesen sein.
     - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.  
-  
+
 2. **15** Personen in Ihrer Organisation müssen die Prüfungsanforderungen erfüllen.
 
     - **15** Personen müssen alle folgenden Prüfungen bestehen:
@@ -65,18 +74,24 @@ Die Enterprise Customer Engagement-Option eignet sich ideal für Partner, die mi
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
 
 ##<a name="enterprise-operations-option"></a>Enterprise Operations-Option
-Die Enterprise Operations-Option eignet sich ideal für Partner, die mit Unternehmenskunden interagieren, insbesondere in Bezug auf die Dynamics 365 Operations-SKU. Führen Sie alle erforderlichen Schritte aus, um die Cloud Business Applications-Kompetenz zu erreichen.
+The Enterprise Operations option is ideal for partners engaging with enterprise customers, especially on the Dynamics 365 Operations SKU. Complete all the steps within to attain the Cloud Business Applications competency.
 
 ###<a name="silver"></a>Silver
-1. Ihre Organisation muss die Leistungsschwellenwerte erfüllen.
+1. Your organization must meet the performance thresholds.
 
-    **Industrieländer**
+    - **Developed Markets**
     
-    - Der Partner muss einen Umsatz von mindestens 100.000 US-Dollar mit Dynamics 365 Enterprise Plan 2, Operations-SKU und AX 2012 (lokal) erzielt haben.
-    - Der Partner muss einen Umsatz von mindestens 25.000 US-Dollar mit Dynamics 365 Enterprise Plan 2 und Operations-SKU erzielt haben (neuer Nettoumsatz im TTM-Zeitraum).
-    - Für diese Kunden müssen Sie als Digital Partner of Record zugewiesen sein. 
-    - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.  
+        - Partner must have earned at least US$100,000 Revenue from Dynamics 365 Enterprise Plan 2, Operations SKU, and AX 2012 On-Premise
+        - Partner must have earned a minimum of US$25,000 from Dynamics 365 Enterprise Plan 2 and Operations SKU, Net New Revenue in the TTM period
   
+    - **Industrieländer**
+
+        - Der Partner muss einen Umsatz von mindestens 50.000 US-Dollar mit Dynamics 365 Enterprise Plan 2, Operations-SKU und AX 2012 (lokal) erzielt haben.
+        - Der Partner muss einen Umsatz von mindestens 12.000 US-Dollar mit Dynamics 365 Enterprise Plan 2 und Operations-SKU erzielt haben (neuer Nettoumsatz im TTM-Zeitraum). 
+
+    - Für diese Kunden müssen Sie als Digital Partner of Record zugewiesen sein.
+    - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.  
+
 2. **5** Personen in Ihrer Organisation müssen die Prüfungsanforderungen erfüllen.
  
     - **5** Personen müssen alle folgenden Prüfungen bestehen:
@@ -87,15 +102,22 @@ Die Enterprise Operations-Option eignet sich ideal für Partner, die mit Unterne
 
 ###<a name="gold"></a>Gold
 
-1. Ihre Organisation muss die Leistungsschwellenwerte erfüllen.
+1. Your organization must meet the performance thresholds.
 
-    **Industrieländer**
+    - **Developed Markets**
 
-    - Der Partner muss einen Umsatz von mindestens 300.000 US-Dollar mit Dynamics 365 Enterprise Plan 2, Operations-SKU und AX 2012 (lokal) erzielt haben.
-    - Der Partner muss einen Umsatz von mindestens 75.000 US-Dollar mit Dynamics 365 Enterprise Plan 2 und Operations-SKU erzielt haben (neuer Nettoumsatz im TTM-Zeitraum).
+        - Partner must have earned at least US$300,000 Revenue from Dynamics 365 Enterprise Plan 2, Operations SKU, and AX 2012 On-Premise
+        - Partner must have earned a minimum of US$75,000 from Dynamics 365 Enterprise Plan 2 and Operations SKU, Net New Revenue in the TTM period
+  
+    - **Industrieländer**
+
+        - Der Partner muss einen Umsatz von mindestens 150.000 US-Dollar mit Dynamics 365 Enterprise Plan 2, Operations-SKU und AX 2012 (lokal) erzielt haben. 
+        - Der Partner muss einen Umsatz von mindestens 37.000 US-Dollar mit Dynamics 365 Enterprise Plan 2 und Operations-SKU erzielt haben (neuer Nettoumsatz im TTM-Zeitraum). 
+
     - Für diese Kunden müssen Sie als Digital Partner of Record zugewiesen sein.
     - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.  
-  
+
+
 2. **15** Personen in Ihrer Organisation müssen die Prüfungsanforderungen erfüllen.
 
     - **15** Personen müssen alle folgenden Prüfungen bestehen:

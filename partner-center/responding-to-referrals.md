@@ -1,72 +1,72 @@
 ---
-title: Reaktion auf Empfehlungen | Partner Center
-description: "Bewerten, Verhandeln und Beantworten von Empfehlungen über Partner Center."
+title: Responding to referrals | Partner Center
+description: Evaluate, negotiate, and respond to referrals through Partner Center.
 author: KPacquer
-keywords: Empfehlung, RFI, Partner suchen
-ms.openlocfilehash: 4172cc60825d445aa9b119780d22002c6c2ea189
-ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
+keywords: referral, RFI, Find a Partner
+ms.openlocfilehash: 4662b270e6684b8b7cf2e3e59cc6d8e797aad086
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2017
+ms.lasthandoff: 07/07/2017
 ---
-# <a name="responding-to-referrals-in-partner-center"></a>Reaktion auf Empfehlungen in Partner Center
+# <a name="responding-to-referrals-in-partner-center"></a>Responding to referrals in Partner Center
 
-**Betrifft:**
+**Applies to**
 
 -  Partner Center
 
-Als qualifizierter Microsoft-Partner können Sie potenzielle Geschäftsleads über Partner Center-Empfehlungen erhalten. Verwalten Sie eingehende Leads, reagieren Sie schnell auf passende Leads, und überspringen Sie diejenigen, die nicht passen, oder lehnen Sie sie ab. Überprüfen Sie die Typen von eingehenden Leads. 
+As a qualified Microsoft partner, you can receive potential business leads through Partner Center referrals. Manage your incoming leads, respond quickly to those that are a good fit, and skip or decline those that aren’t. Review the types of leads that come in. 
 
-## <a name="referral-management"></a>Empfehlungsverwaltung
+## <a name="referral-management"></a>Referral management
 
-Beginnen Sie durch das Einrichten eines [Marketingprofils](create-a-marketing-profile.md) für jede Region, in der Sie Geschäfte tätigen. Sobald Ihr Profil aktiviert ist, können wir Kunden an Ihr Unternehmen weiterleiten und zwar durch:
+Beginnen Sie durch das Einrichten eines [Marketingprofils](create-a-marketing-profile.md) für jede Region, in der Sie Geschäfte tätigen. Once your profile is active, we’ll be able to direct customers to your business, through:
 
-*  Microsoft-Marketingaktivitäten
-*  interne Vertriebs- und Dienstvertreter von Microsoft
+*  Microsoft marketing activities
+*  Internal Microsoft sales and service agents
 *  Kundensuchanfragen, für die das Tool **[Einen Partner suchen](https://partnercenter.microsoft.com/pcv/search)** verwendet wird.
 
-Wenn ein Kunde interessiert daran ist, sich an Sie zu wenden, übermittelt er eine Informationsanfrage (Request for Information, RFI). 
+When a customer is interested in contacting you, they’ll submit a request for information (RFI). 
 
 In diesem Fall senden wir eine E-Mail an den Kontakt in Ihrem [Marketingprofil](create-a-marketing-profile.md), das speziell für die ausgewählte Region und den ausgewählten Standort gilt. Sie können auch eingehende RFIs im Partner Center anzeigen: Wechseln Sie zu **Dashboard > Empfehlungen > Customer referrals**.
 
-Kunden senden häufig die gleiche RFI an mehrere Unternehmen gleichzeitig. Um Ihre Erfolgschancen zu erhöhen, empfehlen wir, innerhalb von maximal 24Stunden auf neue Empfehlungen zu reagieren und sie zu akzeptieren oder abzulehnen.
+Customers often choose to send the same RFI to multiple companies at the same time. To increase your chance of success, we recommend responding to and accepting or declining new referrals within 24 hours or less.
 
-### <a name="new-referrals"></a>Neue Empfehlungen
+### <a name="new-referrals"></a>New referrals
 
-Wir zeigen Ihnen einen Überblick über die RFI. Hier können Sie entscheiden, ob Sie an weiteren Informationen zur Empfehlung interessiert sind. 
+We’ll show you an overview of the RFI. From here, you can decide whether you’re interested in learning more about the referral. 
 
 *  **I’m interested**: Die Empfehlung wird in **Evaluating** verschoben, und Sie sehen alle Details zum Kunden und zum Angebot. 
-*  **Nein danke**: Die Empfehlung wird als **Übersprungen** archiviert. Wir benachrichtigen den Kunden, einen anderen Partner zu wählen.
-*  Wenn Sie nicht innerhalb von 72Stunden reagieren, wird die Empfehlung als **Missed** archiviert. Wir benachrichtigen den Kunden, einen anderen Partner zu wählen.
+*  **Nein danke**: Die Empfehlung wird als **Übersprungen** archiviert. We’ll notify the customer to choose a different partner.
+*  Wenn Sie nicht innerhalb von 72Stunden reagieren, wird die Empfehlung als **Missed** archiviert. We’ll notify the customer to choose a different partner.
 
-### <a name="evaluating-referrals"></a>Bewerten von Empfehlungen
+### <a name="evaluating-referrals"></a>Evaluating referrals
 
-Überprüfen Sie die Details, und wenden Sie sich an den Kunden. Sprechen Sie mit ihm über seine geschäftlichen Anforderungen und ermitteln Sie, ob Sie ein Angebot besitzen, das ihm weiterhilft. Annehmen oder Ablehnen der Empfehlung: 
+Review the details, and contact the customer. Talk to them about their business needs, and determine if you have an offer that can help them. Accept or decline the referral: 
 
-*  **Annehmen**: Geben Sie den geschätzten Geschäftswert und das geschätzte Enddatum ein, und wählen Sie **Annehmen**. Wir verwenden diese Informationen, um ähnliche Angebote zu finden. Wir verschieben die Empfehlung in **Wird verhandelt**. Hiermit wird angegeben, dass Sie aktiv mit dem Kunden zusammenarbeiten möchten, um ihn bei der Lösungsfindung zu unterstützen.
-*  **Ablehnen**: Die Empfehlung wird als **Abgelehnt** archiviert. Wir benachrichtigen den Kunden, einen anderen Partner zu wählen.
-*  Wenn Sie nicht innerhalb von 7Tagen reagieren, wird die Empfehlung als **Abgelaufen** archiviert. Wir benachrichtigen den Kunden, einen anderen Partner zu wählen.
+*  **Annehmen**: Geben Sie den geschätzten Geschäftswert und das geschätzte Enddatum ein, und wählen Sie **Annehmen**. We’ll use this information to help you find similar deals. Wir verschieben die Empfehlung in **Wird verhandelt**. This tells us that you plan to actively engage with the customer to address their need.
+*  **Ablehnen**: Die Empfehlung wird als **Abgelehnt** archiviert. We’ll notify the customer to choose a different partner.
+*  Wenn Sie nicht innerhalb von 7Tagen reagieren, wird die Empfehlung als **Abgelaufen** archiviert. We’ll notify the customer to choose a different partner.
 
-### <a name="negotiating-referrals"></a>Verhandeln von Empfehlungen
+### <a name="negotiating-referrals"></a>Negotiating referrals
 
-Bemühen Sie sich, das Geschäft mit dem Kunden abzuschließen. Lassen Sie uns wissen, ob Sie den Auftrag gewonnen oder verloren haben, und archivieren Sie ihn als **Gewonnen** oder **Verloren**. 
+Work to close the deal with the customer. Lassen Sie uns wissen, ob Sie den Auftrag gewonnen oder verloren haben, und archivieren Sie ihn als **Gewonnen** oder **Verloren**. 
 
-### <a name="archived-referrals"></a>Archivierte Empfehlungen
+### <a name="archived-referrals"></a>Archived referrals
 
 Überprüfen Sie die letzten Empfehlungen (**gewonnen, verloren, übersprungen, missed, abgelehnt** oder **abgelaufen**) jederzeit. 
 
-## <a name="getting-more-referrals"></a>Erhalten weiterer Empfehlungen
+## <a name="getting-more-referrals"></a>Getting more referrals
 
-Hier sehen Sie einige Tipps, wie Sie sicherstellen, dass Sie weitere Empfehlungen erhalten, die für Ihr Unternehmen geeignet sind:
+Here’s some tips to help make sure you’re getting more referrals that are appropriate to your business:
 
 *  **Überprüfen Sie Ihre Kontaktinformationen in Ihrem [Marketingprofil](create-a-marketing-profile.md)** für jeden Standort, um sicherzustellen, dass Ihr Team eingehende Benachrichtigungen erhält.
 
-*  **Wählen Sie Schlüsselwörter und Einstellungen, die Ihr einzigartiges Expertenwissen und Geschäftsmodell darstellen,** in Ihrem [Marketingprofil](create-a-marketing-profile.md). Entfernen Sie Schlüsselwörter, die Empfehlungen generieren würden, die für Sie nicht interessiert sind. Wenn Sie nicht an Unternehmen einer bestimmten Größe interessiert sind, aktualisieren Sie diese Einstellung.
+*  **Wählen Sie Schlüsselwörter und Einstellungen, die Ihr einzigartiges Expertenwissen und Geschäftsmodell darstellen,** in Ihrem [Marketingprofil](create-a-marketing-profile.md). Remove keywords that would generate referrals for you’re not interested in. If you’re not interested in dealing with businesses of a certain size, update this preference.
 
-*  **Reagieren Sie schnell auf Empfehlungen**. Wenn Sie rechtzeitig auf eingehende Anfragen reagieren, erhöhen wir Ihre Sichtbarkeit in künftigen Suchergebnissen von Kunden. Stellen Sie sicher, dass Ihr Team schnell reagiert.
+*  **Reagieren Sie schnell auf Empfehlungen**. When you respond in a timely fashion to incoming requests, we’ll increase your visibility in future customer search results. Make sure your team responds quickly with your intent.
 
-*  **Seien Sie bei den Angeboten, die Sie akzeptieren, wählerisch**. Wir überwachen die Art der Angebote, die Sie akzeptieren und ablehnen, und helfen Ihnen anhand dieser Informationen ähnliche Angebote ausfindig zu machen. 
+*  **Seien Sie bei den Angeboten, die Sie akzeptieren, wählerisch**. We monitor the types of deals that you accept and decline, and use this information to help find you similar deals. 
 
-   Wenn Sie Angebote akzeptieren, die sich nicht gut eignen, werden Ihre Suchergebnisse nicht verbessert und die Qualität der erhaltenen Leads kann beeinträchtigt werden.
+   Accepting deals that aren’t a good fit won’t improve your search results and could impact the quality of the leads you receive.
 
-*  **Melden Sie den geschätzten Geschäftsumfang, Enddatum und den endgültigen Status Ihrer Geschäfte ** (gewonnen oder verloren). Wir verwenden diese Informationen, um Ihnen weiterhin Empfehlungen hoher Qualität bereitzustellen.
+*  **Melden Sie den geschätzten Geschäftsumfang, Enddatum und den endgültigen Status Ihrer Geschäfte ** (gewonnen oder verloren). We’ll use this info to continue to provide you with quality referrals.

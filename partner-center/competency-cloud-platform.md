@@ -1,39 +1,41 @@
 ---
-title: Cloud Platform-Kompetenz
-description: "Die Kompetenz „Cloud Platform“ wurde so konzipiert, dass Partner die Möglichkeit haben, von der wachsenden Nachfrage nach Infrastruktur und SaaS-Lösungen zu profitieren, die auf Microsoft Azure basieren."
+title: Cloud Platform Competency
+description: The Cloud Platform competency is designed for partners to capitalize on the growing demand for infrastructure and software as a service (SaaS) solutions built on Microsoft Azure.
 author: Daniel Simpson
-keywords: Kompetenz,Kompetenzen,Cloud Platform
-robots: noindex,nofollow
-ms.openlocfilehash: 6c074aa294db5da42d420fbbd6ba3f14b40fea91
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies,Cloud Platform
+ms.openlocfilehash: bb248411da4bb35b448bea9a3a8d371104beec69
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
 #<a name="cloud-platform"></a>Cloud Platform
-Die Kompetenz „Cloud Platform“ wurde so konzipiert, dass Partner die Möglichkeit haben, von der wachsenden Nachfrage nach Infrastruktur und SaaS-Lösungen zu profitieren, die auf Microsoft Azure basieren.
+The Cloud Platform competency is designed for partners to capitalize on the growing demand for infrastructure and software as a service (SaaS) solutions built on Microsoft Azure.
 
-##<a name="azure-consumption-option"></a>Azure-Nutzungsoption
-Die Azure-Nutzungsoption eignet sich ideal für Partner, die die Azure-Nutzung/-Einführung bei ihren Kunden vorantreiben und eine Kompetenz erwerben möchten, indem sie die Leistungsschwellenwerte erfüllen. Führen Sie alle Schritte aus, um die Kompetenz "Cloud Platform" zu erlangen.
+##<a name="azure-consumption-option"></a>Azure Consumption option
+The Azure Consumption option is ideal for partners who are driving Azure usage/adoption with their customers, and who choose to attain competency by meeting the performance thresholds. Complete all the steps within to attain the Cloud Platform competency.
 
 ###<a name="silver"></a>Silver
 
-1. Ihre Organisation muss die Leistungsschwellenwerte erfüllen.
+1. Your organization must meet the performance thresholds.
 
-    **Industrieländer**
+    - **Developed Markets**
+        - Partners must demonstrate US$15,000 Azure customer consumption within the previous 12 months
     
-    - Partner müssen Azure-Nutzung durch Kunden in Höhe von 15.000US-Dollar in den vergangenen zwölf Monaten nachweisen.
+    - **Entwicklungsländer** 
+        - Partner müssen Azure-Nutzung durch Kunden in Höhe von 10.000US-Dollar in den vergangenen zwölf Monaten nachweisen.
+
     - Für diese Kunden müssen Sie als Digital Partner of Record oder Transacting Partner of Record zugewiesen sein.
     - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.  
   
 2. **1** Person in Ihrer Organisation muss die Prüfungs- oder Assessmentanforderungen erfüllen.
 
     - **1** Person muss eine der folgenden Assessments bestehen:
-        - [Technisches Assessment für die Verwendung von Microsoft Azure for Datacenter Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
+        - [Technisches Assessment für Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
         - [Technisches Assessment für die Verwendung von Azure for Data Analytics and Data Platform Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
-        - [Technisches Assessment für die Verwendung von Microsoft Azure für Application Development](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
-        - [Technisches Assessment für die Verwendung von Azure for Internet of Things Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
-        - [Technisches Assessment für die Verwendung von Azure Remote Desktop Service](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
+        - [Technical Assessment for Using Microsoft Azure for Application Development](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
+        - [Technical Assessment for Using Azure for Internet of Things Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
+        - [Technical Assessment for Using Azure Remote Desktop Service](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
 
     **ODER**
 
@@ -47,20 +49,20 @@ Die Azure-Nutzungsoption eignet sich ideal für Partner, die die Azure-Nutzung/-
 
 ###<a name="gold"></a>Gold
 
-1. Ihre Organisation muss die Leistungsschwellenwerte erfüllen.
+1. Your organization must meet the performance thresholds.
 
-    - Partner müssen Azure-Nutzung durch Kunden in Höhe von 100.000US-Dollar in den vergangenen zwölf Monaten nachweisen.
+    - Partners must demonstrate US$100,000 Azure customer consumption within the previous 12 months
     - Für diese Kunden müssen Sie als Digital Partner of Record oder Transacting Partner of Record zugewiesen sein.
     - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.
 
 2. **2** Personen in Ihrer Organisation müssen die Prüfungs- oder Assessmentanforderungen erfüllen.
 
     - **2** Personen müssen eins der folgenden Assessments bestehen:
-        - [Technisches Assessment für die Verwendung von Microsoft Azure for Datacenter Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
+        - [Technisches Assessment für Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
         - [Technisches Assessment für die Verwendung von Azure for Data Analytics and Data Platform Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
-        - [Technisches Assessment für die Verwendung von Microsoft Azure für Application Development](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
-        - [Technisches Assessment für die Verwendung von Azure for Internet of Things Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
-        - [Technisches Assessment für die Verwendung von Azure Remote Desktop Service](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
+        - [Technical Assessment for Using Microsoft Azure for Application Development](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
+        - [Technical Assessment for Using Azure for Internet of Things Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
+        - [Technical Assessment for Using Azure Remote Desktop Service](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
 
     **ODER**
 

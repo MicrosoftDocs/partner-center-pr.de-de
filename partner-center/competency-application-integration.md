@@ -1,24 +1,23 @@
 ---
-title: Kompetenz Application Integration
-description: "Die Kompetenz „Application Integration“ erkennt Partner und Entwickler an, die einzigartige Anwendungen und Lösungen in die verschiedenen Produkte innerhalb des Microsoft-Ökosystems integrieren."
+title: Application Integration Competency
+description: The Application Integration competency recognizes partners and developers who integrate unique applications and solutions into various products across the Microsoft ecosystem.
 author: Daniel Simpson
-keywords: Kompetenz, Kompetenzen, Anwendungsintegration
-robots: noindex,nofollow
-ms.openlocfilehash: 4b690cbf419f99ec9bf7f32dced87a59a93250ed
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies, applications integration
+ms.openlocfilehash: 968cf5bdbe4e6c78ad330d94ad618a821927483a
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
 # <a name="application-integration"></a>Application Integration 
-Die Kompetenz „Application Integration“ erkennt Partner und Entwickler an, die einzigartige Anwendungen und Lösungen in die verschiedenen Produkte innerhalb des Microsoft-Ökosystems integrieren. 
+The Application Integration competency recognizes partners and developers who integrate unique applications and solutions into various products across the Microsoft ecosystem. 
 
-## <a name="application-integrator-option"></a>Application Integrator-Option
+## <a name="application-integrator-option"></a>Application Integrator option
 
-Die Application Integrator-Option ist ideal, wenn Sie es vorziehen, Ihr Wissen mithilfe von Prüfungen oder Zertifizierungen nachzuweisen. Wählen Sie Prüfungen aus dem Fokusbereich Ihrer Wahl. Führen Sie alle erforderlichen Schritte aus, um die Kompetenz Application Development zu erreichen.
+The Application Integrator option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice. Führen Sie alle erforderlichen Schritte aus, um die Kompetenz Application Development zu erreichen.
 
 ###<a name="silver"></a>Silver
-1. **4** Personen in Ihrer Organisation müssen sowohl Prüfungen als auch Assessments bestehen.
+1. **2** Personen in Ihrer Organisation müssen sowohl Prüfungen als auch Assessments bestehen.
 
     - **2** Personen müssen eine der folgenden Prüfungen bestehen:
 
@@ -44,14 +43,14 @@ Die Application Integrator-Option ist ideal, wenn Sie es vorziehen, Ihr Wissen m
             - [Prüfung 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
             - [Prüfung 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
 
-        **UND**
+        **AND**
 
-    - **2** andere Personen müssen die folgende Assessments bestehen:
+    - **2** Personen müssen das folgende Assessment bestehen:
 
         - [BizTalk Technical Competency Assessment for Application Integration (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
 
 ###<a name="gold"></a>Gold
-1. **8** Personen in Ihrer Organisation müssen sowohl Prüfungen als auch Assessments bestehen.
+1. **4** Personen in Ihrer Organisation müssen sowohl Prüfungen als auch Assessments bestehen.
 
     - **4** Personen müssen eine der folgenden Prüfungen bestehen:
 
@@ -78,9 +77,9 @@ Die Application Integrator-Option ist ideal, wenn Sie es vorziehen, Ihr Wissen m
             - [Prüfung 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
             - [Prüfung 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
 
-        **UND**
+        **AND**
 
-    - **4** andere Personen müssen die folgenden Assessments bestehen:
+    - **4** Personen müssen das folgende Assessment bestehen: Dieser kann durch die gleichen 4 Personen durchgeführt werden, die die oben genannten Prüfung bestehen. :
 
         - [BizTalk Technical Competency Assessment for Application Integration (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
 

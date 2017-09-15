@@ -1,20 +1,21 @@
 ---
-title: Anwendungsentwicklungskompetenz
-description: "Ermöglichen Sie schnellere Softwarebereitstellung und kontinuierliche Verbesserung. Schließen Sie sich unseren mehr als 60.000 Partnern in der Anwendungsentwicklung an, um Ihr Unternehmen abzugrenzen und etablieren Sie sich als Microsoft-Partner, indem Sie die Kompetenz Application Development erwerben."
+title: Application Development Competency
+description: Enable faster software delivery and continuous improvement. Join our more than 60K application builder partners to differentiate your business and establish yourself as Microsoft Partner by attaining the Application Development competency.
 author: Daniel Simpson
-keywords: "Kompetenz, Kompetenzen, Cloudgeschäftsanwendungen, Anwendungsentwicklung"
-robots: noindex,nofollow
-ms.openlocfilehash: 0271d5b1101e51e48c443ade70f3cfc1d78e1f20
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies,Cloud Business Applications, application development
+ms.openlocfilehash: 153a40815f99950fa379f9bf35e55151fb159c96
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
 # <a name="application-development"></a>Application Development 
 
-Ermöglichen Sie schnellere Softwarebereitstellung und kontinuierliche Verbesserung. Schließen Sie sich unseren mehr als 60.000 Partnern in der Anwendungsentwicklung an, um Ihr Unternehmen abzugrenzen und etablieren Sie sich als Microsoft-Partner, indem Sie die Kompetenz Application Development erwerben.
+Enable faster software delivery and continuous improvement. Join our more than 60K application builder partners to differentiate your business and establish yourself as Microsoft Partner by attaining the Application Development competency.
 
-## <a name="application-builder-option"></a>Application Builder-Option
+## <a name="application-builder-option"></a>Application Builder option
+Die Application Integrator-Option ist ideal, wenn Sie es vorziehen, Ihr Wissen mithilfe von Prüfungen oder Zertifizierungen nachzuweisen.  Wählen Sie Prüfungen aus dem Fokusbereich Ihrer Wahl, um die Rechenzentrum-Kompetenz zu erreichen.
+
 
 ### <a name="silver"></a>Silver
 1. **2** Personen in Ihrer Organisation müssen eine der folgenden Prüfungen bestehen oder die Assessmentanforderungen erfüllen.
@@ -34,12 +35,9 @@ Ermöglichen Sie schnellere Softwarebereitstellung und kontinuierliche Verbesser
         - [Prüfung 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
         - [Prüfung 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions   
 
-    **ODER** 
-
-    -  [Technisches Assessment für die Verwendung von Microsoft Azure für Application Development](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12213&scoId=lyCxoLBVB_4105299993)
-    
-    *Zum 30.September2017 eingestellt  
 
 ### <a name="gold"></a>Gold
 1. **4** Personen in Ihrer Organisation müssen die erforderliche Zertifizierung erlangen.
     - [MCSD](https://www.microsoft.com/en-us/learning/mcsd-app-builder-certification.aspx): App Builder 
+
+*Zum 30.September2017 eingestellt

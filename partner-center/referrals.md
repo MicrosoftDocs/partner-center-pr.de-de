@@ -1,26 +1,32 @@
 ---
-title: Umsatzsteigerung mit Empfehlungen von Microsoft | Partner Center
-description: "Generieren Sie Geschäftsleads, und nehmen Sie Kontakt zu Kunden auf, die Unterstützung bei der Implementierung von Microsoft-Produkten und -Lösungen benötigen."
+title: Grow your business with referrals from Microsoft | Partner Center
+description: Generate business leads and get connected to customers who need help implementing Microsoft products and solutions.
 author: KPacquer
-keywords: Empfehlungen, Marketingprofil, Partner suchen
-ms.openlocfilehash: 1903b08af0dadbf4fc639c06fc95d2734b13ee11
-ms.sourcegitcommit: 5216c9d8a5aa1cbe825cefe27d35e3f380fa90b4
+keywords: referrals, marketing profile, find a partner
+ms.openlocfilehash: f694f846187b99b79e461b0e4d631157f9536087
+ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2017
+ms.lasthandoff: 09/01/2017
 ---
-# <a name="grow-your-business-with-referrals-from-microsoft"></a>Umsatzsteigerung mit Empfehlungen von Microsoft
+<!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
-**Betrifft:**
+# <a name="grow-your-business-with-referrals-from-microsoft"></a>Grow your business with referrals from Microsoft
+
+**Applies to**
 
 -  Partner Center
 
-Kunden benötigen beispielsweise Ihre Erfahrung, um Lösungen mit Microsoft-Produkten und -Technologien zu implementieren. Wir möchten die Kontaktaufnahme erleichtern.
+Customers need expertise like yours to help implement solutions with Microsoft products and technologies. We’d like to get you connected.
 
-Wir erhalten häufig direkte Hilfeanforderungen von Kunden über unsere Marketingaktivitäten und von unseren internen Microsoft-Verkaufsvertretern. Kunden verwenden auch das Tool **Einen Partner suchen** im Partner Center zum Suchen von qualifizierten Microsoft-Partnern. 
+We often get direct requests for help from customers through our marketing activities and from our internal Microsoft sales agents. Customers also use the **Find a Partner** tool in Partner Center to search for qualified Microsoft partners. 
 
-Steigern Sie Ihre Umsätze, indem Sie Ihr Unternehmen für diese potenziellen Kunden präsentieren und mit ihnen zusammenarbeiten, um zu ihrem Erfolg beizutragen.
+Grow your business by showcasing your business to these potential customers, and working with them to help them be successful.
 
-*  [Erstellen eines Marketingprofils](create-a-marketing-profile.md). Unsere Verkaufsvertreter und Suchtools verwenden diese Profile, um passende Partnerunternehmen mit der entsprechenden Erfahrung zu finden, um unseren Kunden zu helfen.
+*  [Create a marketing profile](create-a-marketing-profile.md). Our sales agents and search tools use these profiles to find appropriate partner businesses with the relevant experience to help our customers.
 
-*  [Reagieren Sie auf Empfehlungen](responding-to-referrals.md), wenn Kunden ihr Interesse an den Kontakten in Ihrem Marketingprofil bekunden. Enthält Informationen dazu, wie Sie diese Kunden nachverfolgen und ihnen schnell antworten.
+*  [Respond to referrals](responding-to-referrals.md) When customers express an interest in the contacts you have included in your marketing profile. Learn how to track and quickly respond to these customers.
+
+<!-- 
+*  [Analyze your marketing profile](analyze-your-marketing-profile.md) Regularly review and optimize your marketing profile to make sure you’re getting in front of your target customers.
+-->

@@ -1,20 +1,19 @@
 ---
-title: DevOps-Kompetenz
-description: Wenn Sie Erfahrung bei der Zusammenarbeit mit Unternehmen haben und ihnen bei der Verwaltung von Softwarelebenszyklen helfen, indem Sie die DevOps Features der Entwicklungsplattform von Microsoft gezielt einsetzen, ist die DevOps-Kompetenz die richtige Wahl, sich mit Ihrer Organisation als Partner von Microsoft zu etablieren.
+title: DevOps Competency
+description: "If you have deep experience working with businesses helping them manage software lifecycles by leveraging the DevOps features of Microsoft’s development platform, then DevOps competency is the right choice to establish your organization as Microsoft's partner."
 author: Daniel Simpson
-keywords: Kompetenz, Kompetenzen, DevOps
-robots: noindex,nofollow
-ms.openlocfilehash: 0af79ae10ef678fe79e93dac9fe1514daebe10fa
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency, competencies, DevOps
+ms.openlocfilehash: a50b05f815f9eacfb52600b923dc53ff7c1fb8f6
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
 # <a name="devops"></a>DevOps
- Wenn Sie Erfahrung bei der Zusammenarbeit mit Unternehmen haben und ihnen bei der Verwaltung von Softwarelebenszyklen helfen, indem Sie die DevOps Features der Entwicklungsplattform von Microsoft gezielt einsetzen, ist die DevOps-Kompetenz die richtige Wahl, sich mit Ihrer Organisation als Partner von Microsoft zu etablieren.
+ If you have deep experience working with businesses helping them manage software lifecycles by leveraging the DevOps features of Microsoft’s development platform, then DevOps competency is the right choice to establish your organization as Microsoft's partner.
 
-## <a name="devops-partner-option"></a>DevOps Partner-Option
-Die DevOps Partner-Option ist ideal für Partner, die Microsoft Visual Studio verwenden, um Softwarelebenszyklusverwaltung für ihre Kunden bereitzustellen. Durchlaufen Sie alle Schrittein der Option, um die DevOps-Kompetenz zu erlangen.
+## <a name="devops-partner-option"></a>DevOps Partner option
+The DevOps Partner option is ideal for partners who use Microsoft Visual Studio to deliver software lifecycle management for their customers. Complete all the steps within the option to attain the DevOps competency.
 
 ###<a name="silver"></a>Silver
 1. **2** Personen in Ihrer Organisation müssen die Prüfungsanforderungen erfüllen.
@@ -24,7 +23,7 @@ Die DevOps Partner-Option ist ideal für Partner, die Microsoft Visual Studio ve
         - [Prüfung 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012, Administration
         - [Prüfung 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Delivering Continuous Value with Visual Studio Application Lifecycle Management
 
-    **UND**
+    **AND**
 
     - **1** der **2** Personen muss eine der folgenden Prüfungen bestehen:
 
@@ -41,7 +40,7 @@ Die DevOps Partner-Option ist ideal für Partner, die Microsoft Visual Studio ve
         - [Prüfung 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012, Administration
         - [Prüfung 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Delivering Continuous Value with Visual Studio Application Lifecycle Management
 
-    **UND**
+    **AND**
 
     - **2** der **4** Personen müssen eine der folgenden Prüfungen bestehen:
 

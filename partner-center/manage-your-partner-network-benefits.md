@@ -1,113 +1,99 @@
 ---
-title: Verwalten der Microsoft Partner Network-Vorteile | Partner Center
-description: "Als Microsoft Partner Network-Mitglied haben Sie Anspruch auf bestimmte Mitgliedschaftsvorteile. Erläutert das Aktivieren und Verwalten Ihre Mitgliedschaftsvorteile im Partner Center."
+title: Manage your Microsoft Partner Network benefits | Partner Center
+description: As a Microsoft Partner Network member, you're entitled to certain membership benefits. Explains how to activate and manage your membership benefits on Partner Center.
 author: MaggiePucciEvans
-ms.openlocfilehash: b462d5326d22a403ba250b34097679280d7f67cb
-ms.sourcegitcommit: e402720a8b5f734e9f7ffd16f17983157c78e16f
+ms.openlocfilehash: c74c00c06c02be98cd07ea639d38526f534f629c
+ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
 ms.translationtype: HT
 ms.contentlocale: de-DE
+ms.lasthandoff: 07/08/2017
 ---
-# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile
+# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Manage your Microsoft Partner Network membership benefits
 
-**Betrifft:**
+**Applies to**
 
 -  Partner Center
 
 Die Mitgliedschaft im Microsoft Partner Network berechtigt Sie zu bestimmten Vorteilen. Damit Sie Mitgliedschaftsvorteile kaufen und aktivieren können, muss Ihre Organisation ein Mitglied des Microsoft Partner Network sein. Wenn Sie kein Mitglied des Netzwerks sind, können Sie unter [https://partner.microsoft.com](https://partner.microsoft.com) beitreten.
 
->**Hinweis:** Über diesen Link gelangen Sie zu einer anderen Website. Kehren Sie zurück zu dieser Website (Partner Center), um Ihre Netzwerkmitgliedschaft zu verlängern und zu aktualisieren.
+>**Hinweis:** Über diesen Link gelangen Sie zu einer anderen Website. Return to this site, Partner Center, to renew and upgrade your network membership.
 
 Nach dem Beitritt oder der Verlängerung Ihrer Mitgliedschaft im Microsoft Partner Network, können Sie ein Upgrade Ihrer Mitgliedschaft durchführen und Vorteile erwerben, z.B. Microsoft Action Pack.
 
 
-## <a name="manage-your-microsoft-action-pack-subscription-benefits"></a>Verwalten der Vorteile Ihres Microsoft Action Pack-Abonnements
+## <a name="manage-your-membership-benefits"></a>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile
 
-Action Pack ist ein kostengünstiges jährliches Abonnement für Dienste, Software und Support für Unternehmen, die in einer Welt, in der mobile Geräte und Clouddienste zunehmend an Bedeutung gewinnen, ihr Microsoft-Geschäft ausbauen möchten.
+Nach dem Erwerb eines Vorteilspakets weisen Sie Lizenzen, Abonnements und anderen Vorteile zu Mitarbeitern zu. 
 
-Nachdem Sie ein Action Pack-Abonnement erworben haben, aktivieren Sie es, damit Sie mit der Verwendung der Vorteilskomponenten beginnen können. Dazu gehören:
+Ihr Action Pack-Abonnement enthält Zuweisungen von Softwarelizenzen, Clouddiensten, Visual Studio-Abonnements und Support mit internen Nutzungsrechten. 
 
-- Erstklassige Entwicklertools zum Erstellen von Anwendungen und Lösungen für Ihre Kunden unter iOS, Android, Linux und Windows
-
-- Zehn Windows10 Enterprise-Lizenzen (Upgrade), drei Visual Studio Professional-Lizenzen und ein kostenloses Visual Studio Team Services-Konto 
-
-- Bis zu zehn Office 365 (E3)-Arbeitsplätze sowie fünf Arbeitsplätze von Enterprise Mobility Suite und Microsoft Dynamics CRM Online Professional2 
-
-- 100 US-Dollar Microsoft Azure-Gutschriften monatlich
-
-Weitere Informationen zu Microsoft Action Pack finden Sie unter [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack).
-
->**Hinweis:** Über diesen Link gelangen Sie zu einer anderen Website. Kehren Sie zurück zu dieser Website (Partner Center), um die Vorteile Ihres Action Pack-Abonnements zu aktivieren. 
-
-
-### <a name="activate-your-action-pack-subscription-benefits"></a>Aktivieren der Vorteile Ihres Action Pack-Abonnements
-
-Ihr Action Pack-Abonnement enthält Zuweisungen von Softwarelizenzen, Clouddiensten, Visual Studio-Abonnements und Support mit internen Nutzungsrechten. Lesen Sie die Bestimmungen für interne Nutzungsrechte, die durch das Microsoft Partner Network gewährt werden.
-
+Um alle Mitgliedschaftsborteile, die Sie erhalten haben, anzeigen und verwalten zu können, wechseln Sie zu Ihrem **Dashboard**-Menü und wählen Sie dann **Partnerschaft > Vorteile** aus. Die Seite **Vorteile** wird geöffnet. 
 
 #### <a name="manage-software-benefits"></a>Verwalten von Softwarevorteilen
 
-1. Wählen Sie im Menü **Dashboard** **Partnerschaft > Vorteile**.
+1.  Wählen Sie **Software** aus, um die Softwarevorteile anzuzeigen. 
 
-2. Wählen Sie **Software**, um die Liste der in Action Pack enthaltenen Softwarevorteile anzuzeigen, und wählen Sie dann das Produkt, das Sie installieren möchten. 
+2.  Suchen Sie das Produkt, das Sie verwenden möchten, und wählen Sie dann den Pfeil unten rechts in der Zeile für das Produkt aus. 
 
 3. Für jedes Softwareprodukt, das Sie verwenden möchten:
 
     a. Wählen Sie **Schlüssel abrufen**, um die Produktlizenzschlüssel anzuzeigen. Achten Sie darauf, dass Sie spezielle aufgeführte Anweisungen befolgen.
 
-    b. Wählen Sie die Sprache, in der das Produkt angezeigt werden soll.
+    b. Select the language you want the product to be displayed in.
 
-    c. Wählen Sie den Betriebssystemtyp des Computers, auf dem Sie die Installation der Software planen.
+    c. Select the operating system (OS) type of the computers you plan to install the software on.
 
-    d. Folgen Sie den Links zum Herunterladen und Installieren der Softwareinstallationspakete.
+    d. Follow the links to download and install the software installation packages.
 
-   
+
 #### <a name="manage-cloud-services-benefits"></a>Verwalten der Clouddienstvorteile
 
-1. Wählen Sie im Menü **Dashboard** **Partnerschaft > Vorteile**.
+1. Wählen Sie **Cloud**, um die Liste der Abonnements für cloudbasierte Dienste in Action Pack anzuzeigen.
 
-2. Wählen Sie **Cloud**, um die Liste der Abonnements für cloudbasierte Dienste in Action Pack anzuzeigen.
+2. Suchen Sie das Abonnement, das Sie verwenden möchten, und wählen Sie dann den Pfeil unten rechts in der Zeile für das Abonnement oder Produkt aus. 
 
-3. Wählen Sie das Abonnement aus, das Sie aktivieren möchten. 
-
-    Um das nutzungsbasierte Microsoft Azure-Abonnement zu aktivieren, weisen Sie sich selbst als Benutzer zu. Rufen Sie das Microsoft Azure-Portal auf, um das Abonnement zu verwalten.
+3. Um das nutzungsbasierte Microsoft Azure-Abonnement zu aktivieren, weisen Sie sich selbst als Benutzer zu. Rufen Sie das Microsoft Azure-Portal auf, um das Abonnement zu verwalten.
 
     Um lizenzbasierte Abonnements zu aktivieren, wählen Sie **Schlüssel abrufen**, um die Produktlizenzschlüssel zu kopieren, und befolgen Sie dann alle speziellen Anweisungen zum Aktivieren des Abonnements.  
 
 
 #### <a name="manage-visual-studio-subscriptions"></a>Verwalten von Visual Studio-Abonnements
 
-1. Wählen Sie im Menü **Dashboard** **Partnerschaft > Vorteile**.
+1. Wählen Sie **Visual Studio-Abonnements** zum Anzeigen von Visual Studio-Abonnements aus. 
 
-2. Wählen Sie **Visual Studio-Abonnements**. Um ein Visual Studio-Abonnement zu aktivieren, wählen Sie einen Benutzer aus der Liste aus, und wählen Sie dann **Benutzer zuweisen**. 
+2. Suchen Sie das Abonnement, das Sie verwenden möchten, und wählen Sie dann den Pfeil unten rechts in der Zeile für das Abonnement aus. 
+
+3. Um ein Visual Studio-Abonnement zu aktivieren, wählen Sie einen Benutzer aus der Liste aus, und wählen Sie dann **Benutzer zuweisen**. 
 
     >**Wichtig**<br>
 Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen** [neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
 
-3. Wiederholen Sie diesen Vorgang für jedes Abonnement, das Sie zuweisen möchten. Benutzer können ihre Abonnements im Visual Studio-Portal verwalten. 
+3. Wiederholen Sie diesen Vorgang für jedes Abonnement, das Sie zuweisen möchten. Users can manage their subscriptions in the Visual Studio portal. 
 
-    Sie können jederzeit Abonnements zuweisen, indem Sie einen zugewiesenen Benutzer entfernen und dann einen anderen Benutzer zuweisen. 
+    You can reassign subscriptions any time by removing an assigned user and then assigning a different user. 
 
 
 #### <a name="manage-support-benefits"></a>Verwalten von Supportvorteilen
 
-1. Wählen Sie im Menü **Dashboard** **Partnerschaft > Vorteile**.
+1. Wählen Sie **Support** zum Anzeigen von Microsoft-Support-bezogenen Vorteilen aus. 
 
-2. Wählen Sie **Support**. Um den Supportvorteil zu aktivieren, weisen Sie ihm einen Benutzer zu. 
+2. Suchen Sie den Supportvorteil, den Sie verwenden möchten, und wählen Sie dann den Pfeil unten rechts in der Zeile für den Vorteil aus. 
+
+3. Um den Supportvorteil zu aktivieren, weisen Sie ihm einen Benutzer zu. 
    
     a.  Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen** [neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
 
     b.  Geben Sie eine E-Mail-Adresse für den Benutzer ein, die sich von der E-Mail-Adresse unterscheidet, die dem Partner Center-Konto zugeordnet ist. 
     
-    Zur Sicherheit werden wir Anweisungen für den Zugriff auf den Microsoft-Produktsupport nicht nur an die Partner Center-Konto-E-Mail, sondern auch an diese E-Mail-Adresse senden. Beachten Sie, dass das Aktivieren dieses Vorteils und das Senden von Anweisungen per E-Mail an den zugewiesenen Benutzer mehrere Tage dauern kann.    
+    As a safeguard, we'll email instructions for accessing Microsoft Product Support to this email address in addition to the user's Partner Center account email. Note that it can take several days to activate this benefit and email instructions to the assigned user.    
     
     c.  Wenn Sie die alternative E-Mail-Adresse eingegeben haben, wählen Sie **Benutzer zuweisen**. 
 
 
-#### <a name="related-topics"></a>Verwandte Themen
-
-[Verwalten Ihrer Partner Network-Mitgliedschaft](manage-your-partner-network-membership.md)
-
-[Kaufen von Mitgliedschaftsvorteilen](upgrade-your-partner-network-membership.md)
+#### <a name="see-also"></a>Weitere Informationen
 
 [Hinzufügen von Benutzern und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
+
+[Kauf oder Verlängerung eines Microsoft Action Pack-Abonnements](mpn-get-action-pack.md)
+
 

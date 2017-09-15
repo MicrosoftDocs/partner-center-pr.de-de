@@ -1,13 +1,13 @@
 ---
-title: Erstellen eines Marketingprofils | Partner Center
-description: Gewinnen Sie mehr potenzielle Kunden, indem Sie ein Marketingprofil in Partner Center erstellen.
+title: Create a marketing profile | Partner Center
+description: Attract more prospective customers by creating a marketing profile in Partner Center.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 5b680c5e547f237951085ba619f62d818d612e54
-ms.sourcegitcommit: b6b3c66694cd631a1141d10348e4e063189a7131
+ms.openlocfilehash: b4ff498f7c44e4f2fcb49cb5e4c1d659175ac60a
+ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 09/01/2017
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -18,107 +18,115 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
  -->
 
 
-# <a name="create-a-marketing-profile"></a>Erstellen eines Marketingprofils
+# <a name="create-a-marketing-profile"></a>Create a marketing profile
 
-**Betrifft**
+**Applies to**
 
 -  Partner Center
 
-Als qualifizierter Microsoft-Partner können Sie ein Marketingprofil erstellen, um Ihr Unternehmen für Kunden zu präsentieren, die nach Ihren einzigartigen Lösungen und Kenntnissen für ihre geschäftlichen Anforderungen suchen.
+As a qualified Microsoft partner, you can create a marketing profile to showcase your business to customers who are looking for your unique solutions and expertise to address their business needs.
 
-Microsoft interagiert jedes Jahr über Marketing, Vertrieb und Services mit Millionen von Kunden. Die meisten dieser Interaktionen schaffen Möglichkeiten für uns, unseren Partnern Empfehlungen in Form von Vertriebsleads bereitzustellen. 
+Microsoft engages millions of customers every year through marketing, sales and service efforts. Most of these engagements create opportunities for us to provide referrals to our partners in the form of sales leads. 
 
-Erstellen Sie zunächst ein Marketingprofil, um von diesen Leads zu profitieren. Wir zeigen Ihr Profil Kunden, die Partner suchen, die ihnen beim Implementieren von Microsoft-Produkten und -Lösungen helfen können, und zwar über:
+As the first step to getting these leads, create a marketing profile. We'll show your profile to customers who are searching for partners who can help them implement Microsoft products and solutions, through:
 
-*  **Die Suchfunktion [Partner suchen](https://partnercenter.microsoft.com/pcv/search)**. Potenzielle Kunden können selbst Partnereinträge durchsuchen, um Partner ausfindig zu machen die ihren Suchkriterien entsprechen. 
-*  **Empfehlungen von Vertriebs- und Servicemitarbeitern von Microsoft**. Potenzielle Kunden, die an der Bereitstellung cloudbasierter Technologielösungen interessiert sind, kontaktieren Microsoft, um Hilfe bei der Suche von Experten zu erhalten, die ihre geschäftlichen Anforderungen erfüllen können. Diese Microsoft-Experten können dann potenzielle Kunden für Ihr Unternehmen empfehlen.
+*  **The [Find a partner](https://partnercenter.microsoft.com/pcv/search) search experience**. Potential customers can search partner listings on their own to locate partners who meet their search criteria. 
+*  **Referrals from Microsoft sales and service employees**. Potential customers interested in deploying cloud-based technology solutions contact Microsoft for help finding professionals who can meet their business needs. These Microsoft professionals can then refer potential customers to your company.
 
-**Benutzer von Pinpoint, C2PC und Sales Connect**: Diese Tools werden in Partner Center zusammengeführt. Wenn Sie diese Tools in der Vergangenheit verwendet haben, erstellen Sie ein neues Marketingprofil in Partner Center, um weiterhin Ihre Vertriebsleads zu generieren und zu verwalten. Beachten Sie, dass das Importieren von Profilen aus der vorherigen Websites derzeit nicht unterstützt wird. 
+**Pinpoint und C2PC**: Diese Tools werden in Partner Center zusammengeführt. If you’ve used these tools in the past, create a new marketing profile in Partner Center to continue to generate and manage your sales leads. Note, we don’t currently support importing profiles from the previous sites. 
 
-## <a name="create-a-profile"></a>Erstellen eines Profils
+## <a name="create-a-profile"></a>Create a profile
 
-Erstellen Sie Profile für jede Region, in der Sie berechtigt sind, Geschäfte zu tätigen. 
+Create profiles for each region you are authorized to do business in. 
 
-1.  Melden Sie sich bei [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) mit einem [globalen Administratorkonto oder Administrator-Agentkonto](create-user-accounts-and-set-permissions.md) an.
+1.  Log into [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) using a [global admin or admin agent account](create-user-accounts-and-set-permissions.md).
 
-2.  Wählen Sie im Menü **Dashboard** die Optionen **Empfehlungen** &gt; **Marketingprofile** &gt; **[Add a marketing profile](https://partnercenter.microsoft.com/pcv/publishing)**.
+2.  Wählen Sie im Menü **Dashboard** die Optionen **Empfehlungen** &gt; **Marketingprofile anzeigen** &gt; Land/Region auswählen > **[Marketingprofil erstellen](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 3.  Wählen Sie auf der Seite **Erstellen eines Marketingprofils** eine Region aus, und geben Sie Ihre Profilinformationen, einschließlich Partnerinformationen und Erfahrung, ein.
     
-    Hinweis: Partner Center unterstützt zwar mehrere Sprachen, einige Elemente wie die Beschreibung und frei formulierte Tags müssen jedoch vielleicht Text aus anderen Sprachen beinhalten, wie in diesem Thema angegeben.
+    Note, while Partner Center supports multiple languages, some elements such as the description and free-form tags may need to include text from different languages, as noted in this topic.
 
-### <a href="" id="partner_info"></a>Partnerinformationen
+### <a href="" id="partner_info"></a>Partner information
 
-Stellen Sie Ihr Unternehmen vor, indem Sie ein Logo, eine kurze Beschreibung sowie einen Link zu Ihrer Website hinzufügen. 
+Introduce your company, adding a logo and a brief description, and a link to your website. 
 
-Das Logo kann eine GIF-, JPG- oder PNG-Datei mit einer maximalen Breite von 300 Pixeln sein. Wir empfehlen die Verwendung von quadratischen oder langen Seitenverhältnissen. Hohe Seitenverhältnisse werden nicht empfohlen.
+The logo can be a GIF, JPG, or PNG file, with a maximum width of 300 pixels. We recommend using square or long aspect ratios. Tall aspect ratios are not recommended.
 
-Die Beschreibung kann bis zu 1000Zeichen lang sein. Tipps für eine hervorragende Beschreibung: 
+Your description can be up to 1000 characters. Tips for a great description: 
 
-*  **Halten Sie sich kurz**. Die ersten ein oder zwei Sätze sollten die wichtigsten Informationen enthalten. Dies sollte die Überschrift sein, die die Aufmerksamkeit der Kunden erregt. Auf der Seite zum Suchen von Partnern werden die ersten ein oder zwei Zeilen in der Vorschau der Suchergebnisse angezeigt.
-*  **Konzentrieren Sie sich auf Ihre Erfahrungen mit Microsoft-spezifischen Angeboten**. Kunden, die nach Empfehlungen suchen, möchten in der Regel Partner mit Microsoft-spezifischen Erfahrungen ausfindig machen.
-*  **Aufzählungen verwenden**. Unterteilen Sie Informationen in eine Liste mit Aufzählungszeichen, die leichter zu überfliegen ist.
-*  **Fachsprache vermeiden**. Verwenden Sie einfache Alltagssprache, und benennen Sie Ihre Angebote nach ihren Funktionen – welche Geschäftsanforderungen sie erfüllen oder welche Aufgaben und Ziele Kunden mit ihnen erreichen.
-*  **Machen Sie sich keine Gedanken darüber, die Beschreibung mit Schlüsselwörtern zu füllen**. Die Kundensuchtools suchen nicht in der Beschreibung, sondern im Abschnitt mit den Partnerkenntnissen nach Schlüsselwörtern.
-*  **Ihr Profil aktuell halten**. Aktualisieren Sie mit jeder Software- oder Diensteveröffentlichung Ihr Profil, und stimmen Sie es mit Ihrer Unternehmenswebsite ab.
-*  **Verweisen Sie nicht auf ein anderes Microsoft-Partnerunternehmen nach Namen**, es sei denn, es ist eine Tochtergesellschaft oder ist Ihrem Unternehmens aus irgendeinem anderen Grund zugeordnet, oder Sie haben eine aktuelle Vereinbarung mit diesem Partnerunternehmen, gemeinsame Arbeitschancen partnerschaftlich zu nutzen oder einander dabei zu begünstigen.
-*  Ziehen Sie **für Regionen mit mehreren Sprachen** die Aufnahme von Text aus mehreren Sprachen in der Beschreibung in Erwägung.
+*  **Be brief**, leading with what’s important in the first sentence or two. This should be the headline that catches customers’ attention. In the Find a partner search experience, we show the first line or two in the search results preview.
+*  **Focus on your company’s experiences with Microsoft-specific offerings**. Customers searching for referrals are generally looking for partners with Microsoft-specific experience.
+*  **Use bullets**. Break up information into bulleted lists to make it easier to scan.
+*  **Avoid jargon**. Use simple, everyday language, naming your offerings for what they do: the business needs they address, or task or objective they help customers accomplish.
+*  **Don’t worry about filling the description with search keywords**. The customer search tools search for keywords generated in the Partner Expertise section, not the description.
+*  **Keep your profile current**. With each software or service release, update your profile, keeping it in sync with your company's website.
+*  **Do not refer to another Microsoft partner company by name**, unless it is a subsidiary or is otherwise affiliated with your company, or you have a current agreement with that partner company to act in partnership and/or promote each other for shared work opportunities.
+*  **For regions with multiple languages**, consider including text from multiple languages in the description.
 
-#### <a href="" id="linkedin"></a> LinkedIn-Unternehmensseite: mehr Möglichkeiten für Kundenbeziehungen
+#### <a href="" id="linkedin"></a> LinkedIn company page: more ways to connect
 
-Fügen Sie Ihre LinkedIn-Unternehmensseite hinzu, um die Beziehungen mit potenziellen Kunden zu stärken. 
+Add your LinkedIn company page to strengthen your connections to potential customers. 
 
-Wenn Sie diesen Link aufnehmen, können Kunden schnell über die LinkedIn-Plattform weitere Informationen zu Ihrer Organisation anzeigen.
+When you include this link, customers will be able to quickly view more about your organization through the LinkedIn platform.
 
-Wenn Sie nicht bereits über eine LinkedIn-Unternehmensseite verfügen, können Sie [jetzt eine erstellen](https://www.linkedin.com/company-beta/setup/new/).
+If you don't already have a LinkedIn company page, you can [create one now](https://www.linkedin.com/company-beta/setup/new/).
 
-### <a name="partner-expertise"></a>Partnererfahrung
+### <a name="partner-expertise"></a>Partner expertise
 
-Die Kundensuchtools suchen nach Fachwissen-Tags. Wenn Sie Ihr Profil anpassen, um die Sichtbarkeit zu gewährleisten, lohnt es sich, Zeit in die Optimierung dieser Tags zu investieren.
+Die „Partner suchen“-Suchtools suchen nach Fachwissen-Tags. Optimieren Sie diese Tags, um mehr Sichtbarkeit für Ihr Profil zu generieren.
 
-Starten Sie, indem Sie Ihre eigenen Tags im Abschnitt mit den Partnerkenntnissen hinzufügen. Tags, die Sie hinzufügen können: 
+Start by adding your own tags into the Partner Expertise section. Tags you can add: 
 
-*  **Branchenfokus-Tags**. Bis zu 5 Branchen
-*  **Produkte**. Beschränkt auf Microsoft-Produkte
-*  **Diensttyp** 
-*  **Lösungen, Kenntnisse und Fähigkeiten**. Diese Tags können frei formuliert werden und bieten Ihnen die Möglichkeit, Suchbegriffe hinzuzufügen, die speziell für Ihre Fähigkeiten gelten.
+*  **Industry focus tags**. Up to 5 industries
+*  **Products**. Limited to Microsoft products
+*  **Service type** 
+*  **Solutions, skills, and capabilities**. These tags are free-form, and provide you the ability to add search keywords that are unique to your capabilities.
 
-Andere in der Suche verwendete Tags:
-*  **Kompetenz-Tags** sind eine Auszeichnung, die sich Ihr Unternehmen für seine Kenntnisse verdient hat.
-*  **Unterstützungs-Tags** werden erzielt, wenn Microsoft oder Ihre Kunden, die mit Ihnen gearbeitet haben, Ihre Arbeit unterstützen.
+Other tags used in search:
+*  **Competency tags** are an earned designation showcasing your company’s capabilities.
+*  **Endorsement tags** are earned when Microsoft or your customers who have worked with you endorse your work.
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Microsoft die Unterstützung meiner Fachgebiete erlauben
+#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Allow Microsoft to endorse my areas of expertise
+
+Es wird empfohlen, diese Einstellung aktiviert zu lassen. 
 
 Wenn Sie Erfolge mit Kunden über Partner Center oder durch die Teilnahme an anderen Microsoft-Zertifizierungen oder -Programmen nachweisen, fügen wir automatisch Unterstützungen für Ihre spezifischen Produkte, Dienste und Branchen hinzu, die zu diesem Erfolg beitragen. Unterstützungen sind ein wichtiger Faktor bei Suchergebnissen.
 
-Es wird empfohlen, diese Einstellung aktiviert zu lassen. Liegen jedoch Produkte vor, für die Sie zwar Dienstleistungen anbieten, die aber nicht in Ihrem Profil angezeigt werden können, können Sie dieses Kontrollkästchen deaktivieren und Ihr Profil manuell verwalten. Diese Unterstützungen werden in der Ansicht der Kunden ausgeblendet, Sie können sie jedoch später jederzeit wieder zu Ihrem Profil hinzufügen.
+Liegen jedoch Produkte vor, für die Sie zwar Dienstleistungen anbieten, die aber nicht in Ihrem Profil angezeigt werden können, können Sie dieses Kontrollkästchen deaktivieren und Ihr Profil manuell verwalten. These endorsements will be hidden from your customers view, but you can add them back to your profile later at any time.
 
-### <a name="customer-preferences"></a>Kundenpräferenzen
+### <a name="customer-preferences"></a>Customer preferences
 
-#### <a href="" id="#target_size"></a>Zielgröße
+#### <a href="" id="#target_size"></a>Target size
 
-Sie können Empfehlungen von Unternehmen ablehnen, die nicht Ihrer Kundenzielgröße entsprechen.
+You can opt out of referrals from businesses that don’t meet your target customer size.
 
-Durch die Ablehnung haben Sie mehr Zeit für Unternehmen, die dem Unternehmen entsprechen, mit dem Sie zusammenarbeiten möchten.
+By opting out, you’ll have more time to spend on businesses that are a match for the businesses that you prefer to work with.
 
-### <a href="" id="#locations"></a> Standorte
+### <a href="" id="#locations"></a> Locations
 
-Sie können bis zu 5 Standorte pro Region hinzufügen. Diese Standorte werden angezeigt, wenn Kunden nach Partnern basierend auf der Lage suchen. 
+Sie können bis zu 5 Standorte pro Region hinzufügen. These locations appear when customers search for partners by proximity. 
 
-Geben Sie Standorte an, die offizielle Geschäftssitze sind und überprüft werden können. Wählen Sie Standorte aus, die für die Märkte, die Sie bedienen, von zentraler Bedeutung sind, und die die Fähigkeit Ihres Unternehmens, Anforderungen zu erfüllen, am besten repräsentieren.
+Indicate locations that are official company locations and can be validated. Pick locations that are central to the markets you serve, and best represent your company’s ability to fulfill.
+
+Wählen Sie die Standortinfos aktualisiert haben, wählen Sei **Diesen Standort speichern** oder **Diesen Standort speichern und einen weiteren hinzufügen** aus (auch, wenn Sie nur einen Standort hinzufügen).
 
 Jeder Ort, den Sie hinzufügen, wird eine separate Profilseite. Stellen Sie beim Aktualisieren von Profilseiten sicher, dass Sie sie für jeden Ort aktualisieren.
 
+Um die Adresse des Standortes zu aktualisieren, müssen Sie den Standort erst **löschen** und dann erneut hinzufügen.
+
+Wenn Sie in den 5 Top-Standorten sind, und einen ändern müssen, **löschen** Sie einen bestehenden Standort und fügen Sie dann den neuen Standort hinzu.
+
 ## <a name="review-your-profile"></a>Überprüfen des Profils
 
-Nachdem Sie Ihr Profil veröffentlicht haben, werden Updates in Suchanfangen unter [Partner suchen](https://partnercenter.microsoft.com/pcv/search) innerhalb von 24 Stunden angezeigt. 
+After you publish your profile, updates appear in the [Find a partner](https://partnercenter.microsoft.com/pcv/search) searches within 24 hours. 
 
-## <a name="improve-the-visibility-of-your-profile"></a>Verbessern der Sichtbarkeit Ihres Profils 
+## <a name="improve-the-visibility-of-your-profile"></a>Improve the visibility of your profile 
 
-*  **[Reagieren Sie schnell auf Anfragen](responding-to-referrals.md)**. Wenn Sie eine Kundenempfehlung erhalten, kann eine schnellere Antwort für zukünftige Kunden zu besseren Ergebnissen auf den Suchseiten führen.
-*  **Seien Sie wählerisch bei Ihren Tags**.  Es ist besser, weniger Tags zu haben, die die Angebote, Lösungen, Nutzenversprechen und eindeutige Position Ihres Unternehmens am besten darstellen, damit Sie konsistent Erfolge nachweisen können.  Davon profitieren Sie in zukünftigen Suchergebnissen.
-*  **Verdienen Sie Kompetenz-Tags** über Microsoft, um Ihr Sachverständnis in Bezug auf unsere Produkte zu demonstrieren.
-*  **Verdienen Sie Unterstützungs-Tags** von Kunden, die Ihre Arbeit zu schätzen wissen.
+*  **[Respond quickly to requests](responding-to-referrals.md)**. When you receive a customer referral, a faster response can lead to better results on the search pages for future customers.
+*  **Be selective with your tags**.  It’s better to have fewer tags that best represent your company’s offers, solutions, value propositions, and unique position where you can consistently demonstrate success.  That will pay dividends in future search results.
+*  **Earn competency tags** through Microsoft to demonstrate your proficiency in our products.
+*  **Earn endorsement tags** from customers who appreciate your work.
 
-## <a name="related-topics"></a>Verwandte Themen
-[Reaktion auf Empfehlungen](responding-to-referrals.md)
+## <a name="related-topics"></a>Related topics
+[Responding to referrals](responding-to-referrals.md)

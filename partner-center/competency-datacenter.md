@@ -1,24 +1,23 @@
 ---
-title: Data Center Competency
-description: The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
+title: Rechenzentrum-Kompetenz
+description: "Die Rechenzentrum-Kompetenz erkennt Partner an, die Rechenzentren in flexible, skalierbare und kosteneffektive Lösungen verwandeln."
 author: Daniel Simpson
-keywords: competency, competencies, Datacenter
-ms.openlocfilehash: fd24df57e7bf18764e4281947443b37dc7f49713
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
+keywords: Kompetenz, Kompetenzen, Rechenzentrum
+ms.openlocfilehash: 1af1a00f68d726377017dffbdc96ed636b027576
+ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 09/29/2017
 ---
-#<a name="datacenter"></a>Datacenter
-The Datacenter competency recognizes partners who are transforming data centers into more flexible, scalable, and cost effective solutions.
-##<a name="datacenter-solutions-option"></a>Datacenter Solutions option
-The Datacenter Solutions option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice to attain the Datacenter competency.
+#<a name="datacenter"></a>Rechenzentrum
+Die Rechenzentrum-Kompetenz erkennt Partner an, die Rechenzentren in flexible, skalierbare und kosteneffektive Lösungen verwandeln.
+##<a name="datacenter-solutions-option"></a>Datacenter Solutions-Option
+Die Datacenter Solutions-Option ist ideal, wenn Sie es vorziehen, Ihr Wissen mithilfe von Prüfungen oder Zertifizierungen nachzuweisen. Wählen Sie Prüfungen aus dem Fokusbereich Ihrer Wahl, um die Rechenzentrum-Kompetenz zu erreichen.
 ###<a name="silver"></a>Silver
 1. **2** Personen in Ihrer Organisation müssen eine der Prüfungen bestehen.
 
     - **System Center** 2012-Fokus
 
-        - [Prüfung 70-243](https://www.microsoft.com/en-us/learning/exam-70-243.aspx): Administering and Deploying System Center 2012 Configuration Manager
         - [Prüfung 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): Monitoring and Operating a Private Cloud with System Center 2012
         - [Prüfung 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): Configuring and Deploying a Private Cloud with System Center 2012
 

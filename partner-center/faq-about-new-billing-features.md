@@ -3,18 +3,18 @@ title: "Häufig gestellte Fragen zu neuen Abrechnungsfunktionen | Partner Center
 Description: "Im folgende sind häufig gestellte Fragen zur jährlichen Abrechnung, kostenlose Test und den Abrechnungfunktionen aufgeführt."
 ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: a0ed40409cfb7ea92713e89a3fea39c4b3f836b6
-ms.sourcegitcommit: c11d72ccf5c92c12eb8ba50fccf85820c4112198
+ms.openlocfilehash: ce871392c529cdfc7b11eddcad92f04b7e3054c2
+ms.sourcegitcommit: bf2476ae1163f5b486d7ba12e784904e47e0b85a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2017
+ms.lasthandoff: 09/29/2017
 ---
 # <a name="faq-about-new-billing-features"></a>Häufig gestellte Fragen zu Abrechnungfunktionen
 
 **Betrifft:**
 
 -  Partner Center
--  Partner Center for Microsoft Cloud for US Government
+-  Partner Center für Microsoft Cloud für US-Behörden
 -  Partner Center für Microsoft Cloud Deutschland
 
 Im folgende sind häufig gestellte Fragen zur jährlichen Abrechnung, kostenlose Test und den Abrechnungfunktionen aufgeführt. 
@@ -245,11 +245,11 @@ Die Dokumentation sollte durchgelesen und alle Vorbereitung getroffen werden, um
 - Dynamics 365 Customer Engagement Plan 1  
 - Dynamics 365 for Financials  
 
-**F: **Wann ist die Änderung verfügbar?
+**F:** Wann sind die Testversionen verfügbar?
 
-**A:** Wir planen die Verfügbarkeit für September2018.
+**A:** Wir planen die Verfügbarkeit für den 17. Oktober 2017.
 
-**F: **Wer kann daran teilnehmen?
+**F:** Wer kann daran teilnehmen?
 
 **A:** Alle Partner können teilnehmen. In China wird die kostenlose Testversion für mehrere Monate nicht verfügbar sein. 
 

@@ -1,52 +1,51 @@
 ---
-title: Azure Active Directory tenants and Partner Center | Partner Center
-description: "To create a Partner Center account, your company must have an Azure Active Directory (Azure AD) tenant. Azure AD is Microsoft’s cloud-based directory and identity management service."
+title: "Geschäftskonten und PartnerCenter | Partner Center"
+description: "Um ein Partner Center-Konto erstellen zu können, muss Ihr Unternehmen ein Arbeitskonto besitzen."
 author: labrenne
 robots: 
-ms.openlocfilehash: ab16d167fc978d76c96fc6ef7c1b8eabe26a1ad5
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+ms.openlocfilehash: 503d8af5d299a6dd9098fb5f7aafcf998159fb72
+ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 09/29/2017
 ---
-# <a name="azure-active-directory-tenants-and-partner-center"></a>Azure Active Directory tenants and Partner Center  
+# <a name="your-work-account-and-partner-center"></a>Arbeitskonto und Partner Center  
 
-**Applies to**
+**Betrifft:**
 
 -  Partner Center
 
-#<a name="why-you-need-an-azure-ad-tenant"></a>Why you need an Azure AD tenant
+# <a name="why-you-need-a-work-account"></a>Warum Sie ein Arbeitskonto benötigen
 
-We need to link your organization’s Azure AD tenant to your new Partner Center account, so your tenant users can sign in to Partner Center with their Azure AD (Microsoft account) user names and passwords.
+Wir müssen das Arbeitskonto Ihrer Organisation mit Ihrem neuen Partner Center-Konto verknüpfen, damit sich Ihre Mandantenbenutzer im Partner Center mit ihren Benutzernamen und Kennwörtern für Azure AD (Arbeitskonto) anmelden können.
 
-If your company already has an Azure AD tenant, you can link it to your Partner Center account. 
+Wenn Ihr Unternehmen bereits ein Arbeitskonto besitzt, können Sie es mit Ihrem Partner Center-Konto verknüpfen. 
 
-**Hinweis** Bevor Sie sich entschließen, einen vorhandenen Azure AD-Mandanten zu verwenden, bedenken Sie, wie viele Benutzer im Mandanten Partner Center verwenden müssen. If you have users in the tenant who won’t need to work in Partner Center, consider creating a new tenant for only those users who will need to work in Partner Center.
+**Hinweis** Bevor Sie sich entschließen, ein vorhandenes Arbeitskonto zu verwenden, bedenken Sie, wie viele Benutzer des Kontos mit dem Partner Center arbeiten müssen. Wenn das Konto Benutzer enthält, die nicht im Partner Center arbeiten müssen, ziehen Sie die Erstellung eines neuen Kontos nur für diese Benutzer in Betracht.
 
-Falls Ihr Unternehmen nicht bereits über einen Azure AD-Mandanten verfügt, können Sie während des Registrierungsprozesses kostenlos einen erstellen. Wählen Sie **Neuen Mandanten erstellen** auf der Seite **Bei Azure Active Directory anmelden**. 
+Falls Ihr Unternehmen noch nicht über ein Arbeitskonto verfügt, können Sie ein solches während des Registrierungsprozesses kostenlos erstellen. Wählen Sie **Neuen Mandanten erstellen** auf der Seite **Bei Azure Active Directory anmelden**. Wenn Sie einen neuen Azure Active Directory-Mandanten erstellen, erstellen Sie ein neues Arbeitskonto. Azure Active Directory ist die Identitätsverwaltungslösung von Microsoft mit Einmalanmeldung.
 
+## <a name="not-sure-if-your-company-already-has-an-azure-work-account"></a>Sie sind nicht sicher, ob Ihre Firma bereits ein Azure-Arbeitskonto besitzt?
 
-## <a name="not-sure-if-your-company-already-has-an-azure-ad-tenant"></a>Sie sind nicht sicher, ob Ihre Firma bereits einen Azure AD-Mandanten besitzt?
+Wenn Sie nicht sicher sind, ob Ihr Unternehmen ein Azure-Arbeitskonto besitzt, können Sie das folgendermaßen überprüfen. Beachten Sie: Mit einem aktiven Abonnement für Microsoft Azure oder Office365 besitzen Sie bereits ein Azure-Arbeitskonto.
+1.  Melden Sie sich im Azure-Verwaltungsportal unter https://ms.portal.azure.com an.
+2.  Wählen Sie „Azure Active Directory” im Menü, und wählen Sie dann „Domänennamen”.
+3.  Wenn Sie bereits ein Arbeitskonto besitzen, wird Ihr Domänenname aufgeführt.
 
-If you’re not sure whether your company has an Azure AD tenant, follow these steps to check. Note that If you have an active subscription to Microsoft Azure or Office 365, you already have an Azure AD tenant.
-1.  Sign in to the Azure admin portal at https://ms.portal.azure.com
-2.  Select Azure Active Directory from the menu and then select Domain Names.
-3.  Wenn Sie bereits einen Mandanten haben, wird Ihr Domänenname aufgeführt.
+## <a name="using-an-existing-work-account"></a>Verwenden eines vorhandenes Arbeitskontos
 
-##<a name="using-an-existing-tenant"></a>Verwenden Sie einen vorhandenen Mandanten?
+Wenn Sie ein vorhandenes Arbeitskonto verwenden möchten, aber Probleme beim Anmelden haben, suchen Sie im folgenden Diagramm das Szenario, das Ihrer Situation am ehesten entspricht, und befolgen Sie die empfohlenen Schritte. 
 
-If you want to use an existing Azure AD tenant but you’re having trouble signing in, find the scenario on the diagram below that best matches your situation and follow the recommended steps. 
-
-![Haben Sie einen Azure AD-Mandanten oder müssen Sie einen erstellen?](images/onboardingAADFlow.png)
+![Besitzen Sie ein Azure-Arbeitskonto oder müssen Sie ein solches erstellen?](images/onboardingAADFlow.png)
 
 Weitere Informationen zum Hinzufügen von Domänen in Azure AD finden Sie unter [Hinzufügen oder Zuweisen einer Domäne in Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain).
 
 # <a name="about-microsoft-azure"></a>Informationen zu Microsoft Azure
 
-Microsoft Azure is a public cloud platform that companies can use to build, deploy, and manage applications across a global network of Microsoft-managed datacenters. Companies use Azure to build a virtual IT infrastructure with virtual functions, or services, instead of physical machines. 
+Microsoft Azure ist eine öffentliche Cloudplattform, die Unternehmen zum Erstellen, Bereitstellen und Verwalten von Apps in einem globalen Netzwerk von durch Microsoft verwalteten Rechenzentren verwenden können. Unternehmen nutzen Azure zum Erstellen einer virtuellen IT-Infrastruktur mit virtuellen Funktionen oder Diensten anstelle von physischen Computern. 
 
-When you purchase an Azure subscription, you’re essentially renting a dedicated, secure space in the Azure public cloud, not too different from renting a floor in an office building to house your company’s physical business. To the office building’s owner, your company is a tenant. 
+Wenn Sie ein Azure-Abonnement erwerben, mieten Sie im Wesentlichen einen dedizierten, sicheren Platz in der öffentlichen Azure-Cloud. Dies unterscheidet sich nicht allzu sehr vom Mieten eines Stockwerks in einem Bürogebäude für die physische Einrichtung Ihres Unternehmens. Für den Eigentümer des Bürogebäudes ist Ihr Unternehmen ein Mandant. 
 
-An Azure AD tenant is a dedicated and isolated virtual representation of your company in the Azure public cloud, created for you when you subscribe to a Microsoft cloud service such as Azure, Microsoft Intune, or Office 365. 
+Ein Azure-Arbeitskonto ist eine dedizierte und isolierte virtuelle Darstellung Ihres Unternehmens in der öffentlichen Azure-Cloud. Das Konto wird für Sie erstellt, wenn Sie einen der Microsoft Cloud Services wie Azure, Microsoft Intune oder Office365 abonnieren. 
 
-Der Mandanten hostet die Azure AD-Benutzer und die Informationen zu ihnen – ihre Kennwörter, Profildaten, Berechtigungen usw. Der Mandant enthält darüber hinaus Gruppen, Anwendungen und andere Informationen, die ein Unternehmen und seine Sicherheit betreffen. 
+Das Arbeitskonto hostet die Azure AD-Benutzer und die zugehörigen Informationen – Kennwörter, Profildaten, Berechtigungen usw. Zudem enthält das Arbeitskonto Gruppen, Anwendungen und andere Informationen, die ein Unternehmen und seine Sicherheit betreffen. 

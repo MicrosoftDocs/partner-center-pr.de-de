@@ -3,11 +3,11 @@ title: Allgemeine Abrechnungsszenarien | Partner Center
 description: "In diesem Thema wird erläutert, was auf Ihrer Rechnung nach dem Hinzufügen neuer Abonnements, dem Anpassen der Lizenzen für ein Abonnement oder dem Kündigen eines Abonnements angezeigt werden sollte. Die Auswirkungen fallen für nutzungsbasierte und lizenzbasierte Abonnements unterschiedlich aus."
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
-ms.openlocfilehash: 92805672975e319b53c2cd89063442df2feb1267
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+ms.openlocfilehash: 2ed2dded5f96c5f3887cd40db04cd21e548efe5f
+ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 10/17/2017
 ---
 # <a name="common-billing-scenarios"></a>Allgemeine Abrechnungsszenarien
 
@@ -21,13 +21,11 @@ In diesem Thema wird erläutert, was auf Ihrer Rechnung nach dem Hinzufügen neu
 
 ## <a name="in-this-section"></a>In diesem Abschnitt
 
-
 -   [Nutzungsbasierte Abrechnung](#usagebased)
 
 -   [Lizenzbasierte Abrechnung](#licensebased)
 
 ## <a href="" id="usagebased"></a>Nutzungsbasierte Abrechnung
-
 
 Es werden Ihnen nur Dienste berechnet, die im vorherigen Abrechnungszeitraums genutzt wurden. Alle Azure-Dienste oder -Anwendungen, die während des Abrechnungszeitraums aktiviert und genutzt werden, erscheinen in der nächsten Rechnung.
 
@@ -40,101 +38,199 @@ Es werden Ihnen nur Dienste berechnet, die im vorherigen Abrechnungszeitraums ge
 
 ## <a href="" id="licensebased"></a>Lizenzbasierte Abrechnung
 
-Bei Monaten ohne Änderungen an lizenzbasierten Abonnements sehen Sie eine einzelne Position für die einzelnen Abonnements in Ihrer Rechnung. Dies ist für die im Voraus anfallende Gebühr für den kommenden Monat.
+**Abrechnung:** lizenzbasierte Abonnements werden im Voraus zum Dauerauftragsdatum abgerechnet.
 
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Szenario</td>
-<td>Beschreibung</td>
-<td>Beispiel</td>
-</tr>
-<tr class="even">
-<td>Neues Abonnement hinzugefügt</td>
-<td><p>Der Zeitraum zwischen dem Startdatum des Abonnements und dem ersten Abrechnungsdatum ist KOSTENLOS.</p>
-<p>Ihre Erstattungsdatei enthält einen einzelnen Posten:</p>
-<ul>
-<li>Im Voraus anfallende Gebühren für den nächsten Monat</li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Neues Abonnement: vor dem ersten Abrechnungstermin gekündigt</td>
-<td>Das Konto wird nicht mit Gebühren belastet. Das Abonnement wird nicht in der Erstattungsdatei aufgeführt. Dies ist hilfreich, wenn Sie Tests ohne zusätzliche Abonnementgebühren ausführen möchten.</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Neues Abonnement: mit Anpassungen der Lizenzmenge während der kostenlosen Testphase</td>
-<td><p>Die Erstattungsdatei enthält mehrere Positionen:</p>
-<ul>
-<li>Änderungen der Lizenzmenge zum Einheitenpreis von 0. (Während der kostenlosen Testphase fallen keine Kosten für Lizenzänderungen an.)</li>
-<li>Die im Voraus anfallende Gebühr für den nächsten Monat spiegelt die neue Menge wider.</li>
-</ul></td>
-<td>Anteilige Nutzung:
-<ul>
-<li>3. Juni bis 7. Juni für 10 Lizenzen = KEINE Gebühr</li>
-<li>8. Juni bis 11. Juni für 20 Lizenzen = KEINE Gebühr</li>
-<li>12. Juni bis 14. Juni für 15 Lizenzen = KEINE Gebühr</li>
-</ul>
-<p>Abrechnungstermin: im Voraus anfallende Gebühr für den ganzen Monatszeitraum vom 15. Juni bis 14. Juli für 15 Lizenzen. Wenn die Gebühren pro Abonnement und Monat beispielsweise 10 US-Dollar betragen, ist die Gebühr 10 US-Dollar x 15 Lizenzen = 150 US-Dollar.</p></td>
-</tr>
-<tr class="odd">
-<td>Bestehendes Abonnement: Erhöhung oder Verringerung der Lizenzmenge</td>
-<td><p>Die Erstattungsdatei enthält mehrere Positionen:</p>
-<ul>
-<li>Erstattung der im Voraus anfallenden Gebühren</li>
-<li>Gebühren für die anteilige Nutzung</li>
-<li>Im Voraus anfallende Gebühr für den nächsten Monat</li>
-</ul></td>
-<td><p>Anteilige Nutzung:</p>
-<ul>
-<li>15. Juli bis 19. Juli für 15 Lizenzen = 26,61 US-Dollar</li>
-<li>20. Juli bis 30. Juli für 12 Lizenzen = 46,84 US-Dollar</li>
-<li>31. Juli bis 9. August für 18 Lizenzen = 63,87 US-Dollar</li>
-<li>10. August bis 14. August für 10 Lizenzen = 17,74 US-Dollar</li>
-</ul>
-Rückerstattung der im Voraus anfallenden Gebühren für den gesamten Monatszeitraum vom 15. Juli bis 14. August = -165 US-Dollar.
-<p>Abrechnungstermin: im Voraus anfallende Gebühr für den ganzen Monatszeitraum vom 15. August bis 14. September für 10 Lizenzen = 110 US-Dollar.</p></td>
-</tr>
-<tr class="even">
-<td>Kündigung: keine vorherigen Lizenzänderungen</td>
-<td><p>Ihre Erstattungsdatei enthält einen einzelnen Posten:</p>
-<ul>
-<li>Erstattung für nicht genutzte Tage, da der gesamte Zeitraum in der vorherigen Abrechnung im Voraus in Rechnung gestellt wurde. Dieser Betrag wird basierend auf dem Abonnementenddatum berechnet.</li>
-</ul></td>
-<td>Zuvor in Rechnung gestellte im Voraus anfallende Gebühren: 15. August bis 14. September für 10 Arbeitsplätze = 100 US-Dollar.
-<p>Verbrauchter Teil der im Voraus anfallenden Gebühr vom 15. August bis 24. August.</p>
-<p>Erstattung für nicht genutzte Tage: 25. August bis 14. September für 10 Lizenzen = -74,51 US-Dollar.</p></td>
-</tr>
-<tr class="odd">
-<td>Kündigung: mit vorherigen Lizenzänderungen</td>
-<td><p>Die Erstattungsdatei enthält mehrere Positionen:</p>
-<ul>
-<li>Erstattung der im Voraus anfallenden Gebühren</li>
-<li>Gebühren für die anteilige Nutzung</li>
-<li>Erstattung für alle nicht genutzten Tage</li>
-</ul></td>
-<td>Zuvor in Rechnung gestellte im Voraus anfallende Gebühren: 15. August bis 14. September für 10 Arbeitsplätze = 100 US-Dollar.
-<p>Anteilige Nutzung:</p>
-<ul>
-<li>15. August bis 24. August für 10 Lizenzen</li>
-<li>25. August bis 14. September für 5 Lizenzen</li>
-</ul>
-<p>Erstattung für nicht genutzte Tage: 1. September bis 14. September für 5 Lizenzen</p>
-<p>Rückerstattung der im Voraus anfallenden Gebühren für den gesamten Monatszeitraum vom 15. August bis 14. September = -100 US-Dollar.</p></td>
-</tr>
-</tbody>
-</table>
+**Dauerauftragsdatum:** Abonnements mit monatlichen Abrechnungen stimmen mit dem Abrechnungsdatum des Partners überein und Abonnements mit einer jährlichen Abrechnung stimmen mit dem Kaufdatum überein.
 
+**Kostenloser Zeitraum:** Abonnements mit monatlichen Abrechnungen erhalten eine kostenlose Testphase ab dem Kaufdatum bis zum nächsten Abrechnungsdatum des Partners.
 
+**Laufzeit:** alle lizenzbasierten Abonnements haben einen kostenpflichtigen 12-Monats-Zahlungszeitraum. Der kostenpflichtige Zahlungszeitraum beginnt mit dem Kaufdatum für Abonnements mit einer jährlichen Abrechnung und mit dem Abrechnungsdatum nach dem Kaufdatum für Abonnements mit monatlichen Abrechnungen.
 
+**Stornierung:** Wird das Abonnement in den ersten 30Tagen des kostenpflichtigen Zahlungszeitraums storniert, wird der gesamte Betrag dem Abonnement gutgeschrieben. Wird das Abonnement nach den ersten 30Tagen storniert, wird der anteilige Betrag dem Abonnement gutgeschrieben.
 
- 
+**Verlängerung:** alle lizenzbasierte Abonnements werden automatisch 12Monate nach dem kostenpflichtigen Zahlungszeitraum erneuert.
 
+## <a href="" id="licensebasedmonthly"></a>Monatliche Abrechnungsszenarien
 
+**Szenario 1: Neues Abonnement**
+
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13.Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine monatliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungspositionen:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+|13.01.2018         | 14.01.2018   |Kaufgebühr   |0,00       |1       |0,00    
+|15.01.2018         |14.02.2018    |Gebühr für Zyklus   |4,00       |1        |4,00    
+
+Am 15. Februar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungsposition:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+|15.02.2018         |14.03.2018    |Gebühr für Zyklus   |4,00       |1        |4,00    
+Sie werden weiterhin am 15.Tag des Monats in Rechnung gestellt, bis das Abonnement ausgesetzt wird.
+
+**Szenario 2: Die Anzahl der Lizenzen ändern**
+
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13.Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine monatliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungspositionen:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+|13.01.2018         |14.01.2018    |Kaufgebühr   |0,00       |1        |0,00    
+|15.01.2018         |14.02.2018    |Gebühr für Zyklus   |4,00       |1        |4,00    
+
+Am 1.Februar erhöhen Sie die Anzahl der Lizenzen von 1 auf 2. Am 15. Februar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungspositionen:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+| 15.01.2018        |14.02.2018    |Anteiliger Zyklus für Instanz   |-4,00       |1        |4,00    
+|15.01.2018         |31.01.2018    | Anteiliger Zyklus für Instanz   |2,21       |1        |2,21    
+|1.2.2018         |14.02.2018    | Anteiliger Zyklus für Instanz   |1,82       |2        |3,64    
+|15.02.2018         |14.03.2018    | Anteiliger Zyklus für Instanz   |4,00       |2        |8,00    
+
+**Preisformel pro Einheit:**
+
+Die monatliche Gebühr liegt bei 4,00 und es gibt 31Tage im Dienstzeitraum vom 15.1.2018-14.2.2018. Dies entspricht einem täglichen Preis von 0,13 (4 x 31).
+
+Es gibt 17Tage im anteiligen Zeitraum vom 15.01.2018-31.01.2018.
+
+Anteiliger Preis pro Einheit = 2,21 = 17 x 0,13
+
+Es gibt 14Tage im anteiligen Zeitraum vom 01.02.2018-14.02.2018.
+
+Anteiliger Preis pro Einheit = 1,82 = 14 x 0,13
+
+**Szenario 3: Aussetzen eines Abonnements innerhalb von 30Tagen**
+
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13.Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine monatliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungspositionen:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+|13.01.2018         |14.01.2018    |Kaufgebühr   |0,00       |1        |0,00    
+|15.01.2018         |14.02.2018    |Gebühr für Zyklus   |4,00       |1        |4,00    
+
+Am 1.Februar setzen Sie das Abonnement aus. Am 15. Februar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungsposition:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+15.01.2018|14.02.2018|Stornierungsgebühr|-4,00|1|4,00
+
+**Szenario 4: Aussetzen eines Abonnements nach 30Tagen**
+
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13.Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine monatliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungspositionen:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13.01.2018|14.01.2018|Kaufgebühr|0,00|1|0,00
+15.01.2018|14.02.2018|Gebühr für Zyklus|4,00|1|4,00
+
+Am 15. Februar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungsposition:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+15.02.2018|14.03.2018|Gebühr für Zyklus|4,00|1|4,00
+
+Am 1.März setzen Sie das Abonnement aus. Am 15. März enthält die lizenzbasierte Erstattungsdatei folgende Rechnungsposition:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+01.03.2018|14.03.2018|Stornierungsgebühr|-1,96|1|-1,96
+
+**Preisformel pro Einheit:**
+
+Die monatliche Gebühr liegt bei 4,00 und es gibt 31Tage im Dienstzeitraum vom 15.02.2018-14.03.2018. Dies entspricht einem täglichen Preis von 0,14 (28 x 04).
+
+Preis pro Einheit = Tage Service-Zeitraum x täglicher Preis x Anzahl der Lizenzen.
+
+Es gibt 14Tage im anteiligen Zeitraum vom 01.03.2018-14.03.2018. 
+
+Der Preis pro Einheit beträgt also =-1,96 (14 x 0,14 x (-1)).
+
+## <a name="annual-billing-scenarios"></a>Jährliche Abrechnung: Szenarien
+
+**Szenario 1: Neues Abonnement**
+
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13.Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine jährliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungsposition:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13.01.2018|12.01.2019|Anteilige Gebühren beim Kauf|48,00|1|48,00
+
+**Szenario 2: Die Anzahl der Lizenzen ändern**
+
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13.Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine jährliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungsposition:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13.01.2018|12.01.2019|Anteilige Gebühren beim Kauf|48,00|1|48,00
+
+Am 1.Februar erhöhen Sie die Anzahl der Lizenzen von 1 auf 2. Am 15. Februar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungspositionen:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  | 
+13.01.2018|12.01.2019|Anteiliger Zyklus für Instanz|-48,00|1|-48,00
+13.01.2018|31.01.2018|Anteiliger Zyklus für Instanz|2,47|1|2,47
+1.2.2018|12.01.2019|Anteiliger Zyklus für Instanz|44,98|2|89,96
+
+**Preisformel pro Einheit:**
+
+Der jährliche Preis ist 48,00, was einem täglichen Preis von 0,13 entspricht (48,00/365).
+
+Preis pro Einheit = Tage Service-Zeitraum x täglicher Preis x Anzahl der Lizenzen.
+
+Es gibt 19Tage im Service-Zeitraum vom 13.01.2018-31.01.2018. 
+
+Der Preis pro Einheit beträgt also = 2,47 (19 x 0.13 x 1)
+
+Es gibt 346Tage im Service-Zeitraum vom 01.02.2018-12.01.2019. 
+
+Der Preis pro Einheit beträgt also = 44,98 (346 x 0,13 x 2)
+
+**Szenario 3: Aussetzen eines Abonnements innerhalb von 30Tagen**
+
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13.Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine jährliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungsposition:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13.01.2018|12.01.2019|Anteilige Gebühren beim Kauf|48,00|1|48,00
+
+Am 1.Februar setzen Sie Ihr Abonnement aus. Am 15. Februar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungsposition:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13.01.2018|12.01.2019|Stornierungsgebühr|-48,00|1|-48,00
+
+**Szenario 4: Aussetzen eines Abonnements nach 30Tagen**
+
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13.Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine jährliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungsposition:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13.01.2018|12.01.2019|Anteilige Gebühren beim Kauf|48,00|1|48,00
+
+Am 15. Februar enthält die lizenzbasierte Erstattungsdatei keine Rechnungspositionen für dieses Abonnement.
+Am 1.März setzen Sie Ihr Abonnement aus. Am 15. März enthält die lizenzbasierte Erstattungsdatei folgende Rechnungsposition:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+01.03.2018|12.01.2019|Stornierungsgebühr|-41,34|1|-41,34
+
+**Preisformel pro Einheit:**
+
+Der jährliche Preis ist 48,00, was einem täglichen Preis von 0,13 entspricht (48,00/365).
+
+Preis pro Einheit = Tage Service-Zeitraum x täglicher Preis x Anzahl der Lizenzen.
+
+Es gibt 318Tage im Service-Zeitraum vom 01.03.2018-12.01.2019. 
+
+Der Preis pro Einheit beträgt also = 41,34 (318 x 0,13 x 1). Da dies eine Erstattung ist, beträgt der Preis pro Einheit -41,34.
+
+**Szenario 5: Anhalten und neu aktivieren**
+
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13.Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine jährliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungsposition:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13.01.2018|12.01.2019|Anteilige Gebühren beim Kauf|48,00|1|48,00
+
+Am 1.Februar setzen Sie Ihr Abonnement aus. Am 15. Februar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungsposition:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+13.01.2018|12.01.2019|Stornierungsgebühr|-48,00|1|-48,00
+
+Am 1.März aktivieren Sie Ihr Abonnement erneut. Am 15. März enthält die lizenzbasierte Erstattungsdatei folgende Rechnungsposition:
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Typ der Abrechnung |Preis pro Einheit |Anzahl |Betrag |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+01.03.2018|12.01.2019|Anteilige Gebühren beim Kauf|41,34|1|41,34
+
+**Preisformel pro Einheit:**
+
+Der jährliche Preis ist 48,00, was einem täglichen Preis von 0,13 entspricht (48,00/365).
+
+Preis pro Einheit = Tage Service-Zeitraum x täglicher Preis x Anzahl der Lizenzen.
+
+Es gibt 318Tage im Service-Zeitraum vom 01.03.2018-12.01.2019. 
+
+Der Preis pro Einheit beträgt also = 41,34 (318 x 0,13 x 1).
 

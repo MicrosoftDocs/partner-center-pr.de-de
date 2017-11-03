@@ -3,10 +3,11 @@ title: Erstellen eines neuen Abonnements | Partner Center
 description: "Nachdem Sie für Ihre Kunden einen Datensatz in Partner Center erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen."
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-ms.openlocfilehash: 7573af36bfe8c1c0a0840bee6840cd4e58610625
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 4bb9bfe2d620ba6a82d1f4960b8bdc497c6fdf16
+ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
 ms.translationtype: HT
 ms.contentlocale: de-DE
+ms.lasthandoff: 10/17/2017
 ---
 # <a name="create-a-new-subscription"></a>Erstellen eines neuen Abonnements
 
@@ -17,6 +18,9 @@ ms.contentlocale: de-DE
 -  Partner Center für Microsoft Cloud Deutschland
 
 Nachdem Sie für Ihre Kunden einen Datensatz in Partner Center erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen.
+
+Bitte beachten Sie, dass bestimmte Angebote auf ein Abonnement pro Kunde beschränkt sind. Eine Liste der eingeschränkten Angebote finden Sie auf der Partner Center-Seite für Preise und Angebote. Öffnen Sie dort die Angebotsmatrix, und wählen Sie die Registerkarte „Office_Dynamics_Windows_Intune”, Spalte I. 
+
 
 **Erstellen eines neuen Abonnements**
 

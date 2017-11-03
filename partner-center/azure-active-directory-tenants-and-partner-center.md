@@ -3,11 +3,11 @@ title: "Geschäftskonten und PartnerCenter | Partner Center"
 description: "Um ein Partner Center-Konto erstellen zu können, muss Ihr Unternehmen ein Arbeitskonto besitzen."
 author: labrenne
 robots: 
-ms.openlocfilehash: 503d8af5d299a6dd9098fb5f7aafcf998159fb72
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: 75d4f4f9665078ab88911b5d7104eb8f5796f4c9
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 # <a name="your-work-account-and-partner-center"></a>Arbeitskonto und Partner Center  
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 09/29/2017
 
 # <a name="why-you-need-a-work-account"></a>Warum Sie ein Arbeitskonto benötigen
 
-Wir müssen das Arbeitskonto Ihrer Organisation mit Ihrem neuen Partner Center-Konto verknüpfen, damit sich Ihre Mandantenbenutzer im Partner Center mit ihren Benutzernamen und Kennwörtern für Azure AD (Arbeitskonto) anmelden können.
+Wir müssen das Arbeitskonto Ihrer Organisation mit Ihrem neuen Partner Center-Konto verknüpfen, damit sich Ihre Kontobenutzer im Partner Center mit dem Benutzernamen und dem Kennwort für ihr Arbeitskonto anmelden können.
 
 Wenn Ihr Unternehmen bereits ein Arbeitskonto besitzt, können Sie es mit Ihrem Partner Center-Konto verknüpfen. 
 
@@ -25,9 +25,9 @@ Wenn Ihr Unternehmen bereits ein Arbeitskonto besitzt, können Sie es mit Ihrem 
 
 Falls Ihr Unternehmen noch nicht über ein Arbeitskonto verfügt, können Sie ein solches während des Registrierungsprozesses kostenlos erstellen. Wählen Sie **Neuen Mandanten erstellen** auf der Seite **Bei Azure Active Directory anmelden**. Wenn Sie einen neuen Azure Active Directory-Mandanten erstellen, erstellen Sie ein neues Arbeitskonto. Azure Active Directory ist die Identitätsverwaltungslösung von Microsoft mit Einmalanmeldung.
 
-## <a name="not-sure-if-your-company-already-has-an-azure-work-account"></a>Sie sind nicht sicher, ob Ihre Firma bereits ein Azure-Arbeitskonto besitzt?
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Sie sind nicht sicher, ob Ihre Firma bereits ein Arbeitskonto besitzt?
 
-Wenn Sie nicht sicher sind, ob Ihr Unternehmen ein Azure-Arbeitskonto besitzt, können Sie das folgendermaßen überprüfen. Beachten Sie: Mit einem aktiven Abonnement für Microsoft Azure oder Office365 besitzen Sie bereits ein Azure-Arbeitskonto.
+Wenn Sie nicht sicher sind, ob Ihr Unternehmen ein Arbeitskonto besitzt, können Sie das folgendermaßen überprüfen. Beachten Sie: Mit einem aktiven Abonnement für Microsoft Azure oder Office365 besitzen Sie bereits ein Arbeitskonto.
 1.  Melden Sie sich im Azure-Verwaltungsportal unter https://ms.portal.azure.com an.
 2.  Wählen Sie „Azure Active Directory” im Menü, und wählen Sie dann „Domänennamen”.
 3.  Wenn Sie bereits ein Arbeitskonto besitzen, wird Ihr Domänenname aufgeführt.
@@ -36,7 +36,7 @@ Wenn Sie nicht sicher sind, ob Ihr Unternehmen ein Azure-Arbeitskonto besitzt, k
 
 Wenn Sie ein vorhandenes Arbeitskonto verwenden möchten, aber Probleme beim Anmelden haben, suchen Sie im folgenden Diagramm das Szenario, das Ihrer Situation am ehesten entspricht, und befolgen Sie die empfohlenen Schritte. 
 
-![Besitzen Sie ein Azure-Arbeitskonto oder müssen Sie ein solches erstellen?](images/onboardingAADFlow.png)
+![Besitzen Sie ein Arbeitskonto oder müssen Sie ein solches erstellen?](images/onboardingAADFlow.png)
 
 Weitere Informationen zum Hinzufügen von Domänen in Azure AD finden Sie unter [Hinzufügen oder Zuweisen einer Domäne in Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain).
 

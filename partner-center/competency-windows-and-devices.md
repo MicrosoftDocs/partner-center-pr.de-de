@@ -4,11 +4,11 @@ description: "Tragen Sie zu unserem Ziel bei, 1 Milliarde Geräte mit Windows 10
 author: Daniel Simpson
 robots: noindex,nofollow
 keywords: Kompetenz,Kompetenzen,Windows and Devices
-ms.openlocfilehash: cb41a30e8a578471fd0866cfe343a9b8dd11978b
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: f10523cb7b16ac0122198c372ea95ff62c160866
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 #<a name="windows-and-devices"></a>Windows and Devices 
 Tragen Sie zu unserem Ziel bei, 1 Milliarde Geräte mit Windows 10 auszustatten. Diese Geschäftschance umfasst Dienste, Anwendungen und Geräte. Diese Kompetenz bietet Ihnen Tools, Inhalte und Ressourcen, die Sie bei der Erweiterung Ihrer Geschäftstätigkeit mit Windows 10 unterstützen.
@@ -87,7 +87,7 @@ Die Device Partner-Option ist ideal, wenn Sie es vorziehen, Ihr Wissen durch Bes
 
         - **System Builder**-Fokus
 
-            - [Prüfung 70-734](https://www.microsoft.com/en-us/learning/exam-70-734.aspx): OEM pre-installation for Windows 10
+            - [Prüfung 70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): OEM-Herstellung und Bereitstellung für Windows10
 
     **ODER**
 

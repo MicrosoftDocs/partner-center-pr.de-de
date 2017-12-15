@@ -3,11 +3,11 @@ title: Rechenzentrum-Kompetenz
 description: "Die Rechenzentrum-Kompetenz erkennt Partner an, die Rechenzentren in flexible, skalierbare und kosteneffektive Lösungen verwandeln."
 author: Daniel Simpson
 keywords: Kompetenz, Kompetenzen, Rechenzentrum
-ms.openlocfilehash: 1af1a00f68d726377017dffbdc96ed636b027576
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: 1a3e4c8b9bb2334e9a500ee7b8c32a184c26124e
+ms.sourcegitcommit: 5d287f46ef841f21e2171498efb2e309662c7965
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 11/21/2017
 ---
 #<a name="datacenter"></a>Rechenzentrum
 Die Rechenzentrum-Kompetenz erkennt Partner an, die Rechenzentren in flexible, skalierbare und kosteneffektive Lösungen verwandeln.
@@ -18,14 +18,16 @@ Die Datacenter Solutions-Option ist ideal, wenn Sie es vorziehen, Ihr Wissen mit
 
     - **System Center** 2012-Fokus
 
-        - [Prüfung 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): Monitoring and Operating a Private Cloud with System Center 2012
-        - [Prüfung 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): Configuring and Deploying a Private Cloud with System Center 2012
+        - [Prüfung 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx): Monitoring and Operating a Private Cloud with System Center 2012*
+        - [Prüfung 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx): Configuring and Deploying a Private Cloud with System Center 2012*
 
-    - **Virtualisierungs**-Fokus
+\*Zum 31.Dezember2017 eingestellt. Diese Prüfung werden bis zum 31.Dezember2018 für die Kompetenzqualifizierung akzeptiert. Sie können sich für diese Prüfung bis zum 30.November2017 registrieren.
+
+   - **Virtualisierungs**-Fokus
 
         - [Prüfung 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx): Server Virtualization with Windows Server Hyper-V and System Center
 
-    - **Windows Server 2012**-Fokus
+   - **Windows Server 2012**-Fokus
 
         - [Prüfung 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx): Installing and Configuring Windows Server 2012
         - [Prüfung 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx): Administering Windows Server 2012
@@ -34,7 +36,7 @@ Die Datacenter Solutions-Option ist ideal, wenn Sie es vorziehen, Ihr Wissen mit
         - [Prüfung 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx): Implementing an Advanced Server Infrastructure
         - [Prüfung 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx): Upgrading Your Skills to MCSA Windows Server 2012
 
-    - **Windows Server** 2016-Fokus
+   - **Windows Server** 2016-Fokus
         - [Prüfung 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage, and Compute with Windows Server 2016
         - [Prüfung 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
         - [Prüfung 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016

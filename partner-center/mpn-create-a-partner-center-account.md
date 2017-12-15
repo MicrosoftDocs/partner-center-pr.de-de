@@ -2,11 +2,11 @@
 title: PartnerCenter-Konto erstellen | Partner Center
 description: Erfahren Sie, wie Sie Ihre Microsoft Partner Network-Mitgliedschaft, -Angebot und -Vorteile im Partner Center verwalten.
 author: MaggiePucciEvans
-ms.openlocfilehash: a69cee525d9abdde2b02f6fac3353415a699f3d5
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: 819570228cb86157915bfc00c67e45615bd44ca7
+ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/01/2017
 ---
 # <a name="create-a-partner-center-account"></a>Erstellen eines Partner Center-Kontos
 
@@ -25,15 +25,15 @@ Nachdem Sie ein Partner Center-Konto erstellt und Ihre Microsoft Partner Network
 
 -   Erwerben von Mitgliedschaftsvorteilsangeboten, einschließlich Microsoft Action Pack 
 
--   Activate and manage your network membership benefits
+-   Aktivieren und Verwalten Ihrer Netzwerkmitgliedschaftsvorteile
 
 ## <a name="before-you-begin"></a>Vorbemerkungen
 
 Zum Erstellen eines Kontos in Partner Center und zum Verlängern Ihrer Microsoft Partner Network-Mitgliedschaft müssen Sie die folgenden Informationen zur Hand haben. Es empfiehlt sich unter Umständen, vor Beginn des Vorgangs folgende Angaben zu sammeln:
 
--   Globale Administratoranmeldeinformationen für den Microsoft Azure Active Directory-Mandanten der Organisation Wenn Sie nicht sicher sind, ob Ihr Unternehmen bereits über einen Azure AD-Mandanten verfügt, finden Sie unter [Azure Active Directory-Mandanten und Partner Center](azure-active-directory-tenants-and-partner-center.md) weitere Infos.
+-   Geschäftliche E-Mail-Adresse des globalen Administrators Wenn Sie das Geschäftskonto Ihres Unternehmen nicht kennen, finden Sie unter [Azure Active Directory-Mandanten und Partner Center](azure-active-directory-tenants-and-partner-center.md) weitere Infos.
 
-    Falls Ihr Unternehmen nicht bereits über einen Azure AD-Mandanten verfügt, können Sie während des Registrierungsprozesses kostenlos einen erstellen. 
+    Falls Ihr Unternehmen nicht bereits über ein Geschäftskonto verfügt, können Sie während des Registrierungsprozesses kostenlos einen erstellen. 
 
 -   Offizieller Name, Adresse und Hauptansprechpartner Ihrer Organisation Wir benötigen diese Informationen, um sicherzustellen, dass Ihre Organisation über ein eingerichtetes Profil verfügt und Sie berechtigt sind, in ihrem Auftrag zu handeln. 
 
@@ -41,17 +41,17 @@ Zum Erstellen eines Kontos in Partner Center und zum Verlängern Ihrer Microsoft
 
 -   Name und geschäftliche E-Mail-Adresse der Person, die als Hauptansprechpartner fungieren soll. Aus Sicherheits- und Datenschutzgründen kontaktieren wir Ihren Hauptansprechpartner per E-Mail, um uns zu vergewissern, dass (1) er/sie sich für ein Partner Center-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrer Organisation gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung Ihrer Angaben fort.
 
-We’ll verify this information during the account creation process. 
+Wir werden diese Informationen während des Kontoerstellungsprozesses überprüfen. 
  
 ## <a name="create-a-partner-center-account"></a>Erstellen eines Partner Center-Kontos
 
 1.  Lesen Sie die Informationen auf der Seite **Willkommen**, und wählen Sie dann **Weiter**.
 
-2.  Melden Sie sich beim Azure AD-Mandanten Ihrer Organisation als globaler Administrator an. Wenn Sie nicht sicher sind, ob Ihr Unternehmen bereits über einen Azure AD-Mandanten verfügt, finden Sie unter [Azure Active Directory-Mandanten und Partner Center](azure-active-directory-tenants-and-partner-center.md) weitere Infos.
+2.  Melden Sie sich mit Ihrer geschäftlichen E-Mail-Adresse als globaler Administrator an. Wenn Sie das Geschäftskonto Ihres Unternehmen nicht kennen, finden Sie unter [Azure Active Directory-Mandanten und Partner Center](azure-active-directory-tenants-and-partner-center.md) weitere Infos.
 
-    Wählen Sie **Bei Azure AD anmelden** aus, wenn Sie wissen, dass Ihre Organisation über einen Azure AD-Mandanten verfügt. Geben Sie auf der nächsten Seite die globalen Administratoranmeldeinformationen für den Mandanten ein. 
+    Wählen Sie **Bei Azure AD anmelden** aus, wenn Sie wissen, dass Ihre Organisation über eine geschäftliche E-Mail-Adresse verfügt. Geben Sie auf der nächsten Seite die globalen Administratoranmeldeinformationen für den Mandanten ein. 
 
-    Wenn Ihre Organisation keinen Azure AD-Mandanten besitzt, wählen Sie **Neuen Mandanten erstellen** aus, um einen einzurichten. Nach dem Einrichten eines Azure AD-Mandanten melden Sie sich mit den globalen Administratoranmeldeinformationen für den neuen Mandanten an.
+    Wenn Ihre Organisation keine geschäftliche E-Mail-Adresse besitzt, wählen Sie **Neuen Mandanten erstellen** aus, um einen einzurichten. Nach dem Einrichten eines Azure AD-Mandanten (Geschäftskonto) melden Sie sich mit den globalen Administratoranmeldeinformationen für die neue E-Mail-Adresse an.
 
 3.  Geben Sie das offizielle Geschäftsprofil und Informationen zum Hauptansprechpartner Ihrer Organisation an, oder aktualisieren Sie sie, und wählen Sie dann **Jetzt registrieren**. 
 
@@ -59,9 +59,9 @@ We’ll verify this information during the account creation process.
 
     >**Wichtig**<br> Aus Sicherheits- und Datenschutzgründen kontaktieren wir Ihren Hauptansprechpartner per E-Mail, um uns zu vergewissern, dass (1) er/sie sich für ein Partner Center-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrer Organisation gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung Ihrer Angaben fort.
 
-4.  Read and accept the terms and conditions in the Microsoft Partner Network agreement. 
+4.  Lesen und akzeptieren Sie die Bestimmungen der Microsoft Partner Network-Vereinbarung. 
 
-5.  Verify that you’ve been added to the admin agent group. To finish setting up your account, including adding other users, you must have admin agent permissions. Follow these steps to view or update your permissions:
+5.  Stellen Sie sicher, dass Sie der Administratorgruppe hinzugefügt wurden. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
 
     a. Navigieren Sie im Menü **Dashboard** zu **Kontoeinstellungen > Benutzerverwaltung**, und wählen Sie dann in der Benutzerliste Ihren Namen aus. 
 

@@ -1,22 +1,22 @@
 ---
-title: Manage your Microsoft Partner Network benefits | Partner Center
-description: As a Microsoft Partner Network member, you're entitled to certain membership benefits. Explains how to activate and manage your membership benefits on Partner Center.
+title: Verwalten der Microsoft Partner Network-Vorteile | Partner Center
+description: "Als Microsoft Partner Network-Mitglied haben Sie Anspruch auf bestimmte Mitgliedschaftsvorteile. Erläutert das Aktivieren und Verwalten Ihre Mitgliedschaftsvorteile im Partner Center."
 author: MaggiePucciEvans
-ms.openlocfilehash: c74c00c06c02be98cd07ea639d38526f534f629c
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: 2e21313612acc7383cde0333b57b3b6068a7723c
+ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/03/2017
 ---
-# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Manage your Microsoft Partner Network membership benefits
+# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile
 
-**Applies to**
+**Betrifft:**
 
 -  Partner Center
 
 Die Mitgliedschaft im Microsoft Partner Network berechtigt Sie zu bestimmten Vorteilen. Damit Sie Mitgliedschaftsvorteile kaufen und aktivieren können, muss Ihre Organisation ein Mitglied des Microsoft Partner Network sein. Wenn Sie kein Mitglied des Netzwerks sind, können Sie unter [https://partner.microsoft.com](https://partner.microsoft.com) beitreten.
 
->**Hinweis:** Über diesen Link gelangen Sie zu einer anderen Website. Return to this site, Partner Center, to renew and upgrade your network membership.
+>**Hinweis:** Über diesen Link gelangen Sie zu einer anderen Website. Kehren Sie zurück zu dieser Website (Partner Center), um Ihre Netzwerkmitgliedschaft zu verlängern und zu aktualisieren.
 
 Nach dem Beitritt oder der Verlängerung Ihrer Mitgliedschaft im Microsoft Partner Network, können Sie ein Upgrade Ihrer Mitgliedschaft durchführen und Vorteile erwerben, z.B. Microsoft Action Pack.
 
@@ -39,11 +39,11 @@ Um alle Mitgliedschaftsborteile, die Sie erhalten haben, anzeigen und verwalten 
 
     a. Wählen Sie **Schlüssel abrufen**, um die Produktlizenzschlüssel anzuzeigen. Achten Sie darauf, dass Sie spezielle aufgeführte Anweisungen befolgen.
 
-    b. Select the language you want the product to be displayed in.
+    b. Wählen Sie die Sprache, in der das Produkt angezeigt werden soll.
 
-    c. Select the operating system (OS) type of the computers you plan to install the software on.
+    c. Wählen Sie den Betriebssystemtyp des Computers, auf dem Sie die Installation der Software planen.
 
-    d. Follow the links to download and install the software installation packages.
+    d. Folgen Sie den Links zum Herunterladen und Installieren der Softwareinstallationspakete.
 
 
 #### <a name="manage-cloud-services-benefits"></a>Verwalten der Clouddienstvorteile
@@ -68,9 +68,9 @@ Um alle Mitgliedschaftsborteile, die Sie erhalten haben, anzeigen und verwalten 
     >**Wichtig**<br>
 Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen** [neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
 
-3. Wiederholen Sie diesen Vorgang für jedes Abonnement, das Sie zuweisen möchten. Users can manage their subscriptions in the Visual Studio portal. 
+3. Wiederholen Sie diesen Vorgang für jedes Abonnement, das Sie zuweisen möchten. Benutzer können ihre Abonnements im Visual Studio-Portal verwalten. 
 
-    You can reassign subscriptions any time by removing an assigned user and then assigning a different user. 
+    Sie können jederzeit Abonnements zuweisen, indem Sie einen zugewiesenen Benutzer entfernen und dann einen anderen Benutzer zuweisen. 
 
 
 #### <a name="manage-support-benefits"></a>Verwalten von Supportvorteilen
@@ -85,7 +85,7 @@ Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, 
 
     b.  Geben Sie eine E-Mail-Adresse für den Benutzer ein, die sich von der E-Mail-Adresse unterscheidet, die dem Partner Center-Konto zugeordnet ist. 
     
-    As a safeguard, we'll email instructions for accessing Microsoft Product Support to this email address in addition to the user's Partner Center account email. Note that it can take several days to activate this benefit and email instructions to the assigned user.    
+    Zur Sicherheit werden wir Anweisungen für den Zugriff auf den Microsoft-Produktsupport nicht nur an die Partner Center-Konto-E-Mail, sondern auch an diese E-Mail-Adresse senden. Beachten Sie, dass das Aktivieren dieses Vorteils und das Senden von Anweisungen per E-Mail an den zugewiesenen Benutzer mehrere Tage dauern kann.    
     
     c.  Wenn Sie die alternative E-Mail-Adresse eingegeben haben, wählen Sie **Benutzer zuweisen**. 
 

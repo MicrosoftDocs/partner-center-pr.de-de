@@ -3,9 +3,11 @@ title: "Steigerung von Einführungsrate und Zufriedenheit | Partner Center"
 description: "Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wächst und auf welche Bereiche sie ihre Investitionen konzentrieren sollten. Das Partner Center liefert ihnen Informationen darüber, ob und wie die Kunden die erworbenen Lizenzen nutzen."
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 8d02f753307991cd740c78db9e751a44358597f6
+ms.sourcegitcommit: a8c51a2aade51c6fd7f134613fad121e89ffd719
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 11/21/2017
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Steigerung von Einführungsrate und Zufriedenheit
 
@@ -16,6 +18,8 @@ translationtype: HT
 Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wächst und auf welche Bereiche sie ihre Investitionen konzentrieren sollten. Das Partner Center liefert ihnen Informationen darüber, ob und wie die Kunden die erworbenen Lizenzen nutzen. Die Informationen sind für Office-Produkte (einschließlich OneDrive for Business, das mit SharePoint als eine Position gezählt wird) verfügbar.
 
 Über das Programm für Cloud-Lösungsanbieter können Sie Daten für alle Ihre Kunden einsehen. Beachten Sie, dass einige Kunden Lizenzen von anderen Partnern oder direkt von Microsoft erwerben können. In diesem Fall wird die Gesamtanzahl der Lizenzen für alle Partner angezeigt. Um nur Ihre eigenen Lizenzen anzuzeigen, rufen Sie stattdessen die Abonnements des Kunden auf.
+
+>**Hinweis:**<br> Aktuell werden nur Daten für Office365 und Dynamics 365 angezeigt. Wir werden Daten für weitere Produkte in Zukunft aktivieren.
 
 ## <a name="find-license-and-user-data"></a>Suchen nach Lizenz- und Benutzerdaten
 

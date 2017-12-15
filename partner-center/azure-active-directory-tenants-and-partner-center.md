@@ -3,13 +3,13 @@ title: "Geschäftskonten und PartnerCenter | Partner Center"
 description: "Um ein Partner Center-Konto erstellen zu können, muss Ihr Unternehmen ein Arbeitskonto besitzen."
 author: labrenne
 robots: 
-ms.openlocfilehash: 75d4f4f9665078ab88911b5d7104eb8f5796f4c9
-ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
+ms.openlocfilehash: 8885f20d2f5975da8e4585e1bc314697fa04ad6d
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/03/2017
+ms.lasthandoff: 11/22/2017
 ---
-# <a name="your-work-account-and-partner-center"></a>Arbeitskonto und Partner Center  
+# <a name="your-company-work-account-and-partner-center"></a>Unternehmenskonto Ihrer Firma und Partner Center  
 
 **Betrifft:**
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 10/03/2017
 
 # <a name="why-you-need-a-work-account"></a>Warum Sie ein Arbeitskonto benötigen
 
-Wir müssen das Arbeitskonto Ihrer Organisation mit Ihrem neuen Partner Center-Konto verknüpfen, damit sich Ihre Kontobenutzer im Partner Center mit dem Benutzernamen und dem Kennwort für ihr Arbeitskonto anmelden können.
+Wir müssen das Arbeitskonto Ihres Unternehmens mit Ihrem neuen Partner Center-Konto verknüpfen, damit sich Ihre Kontobenutzer im Partner Center mit dem Benutzernamen und dem Kennwort für ihr Arbeitskonto anmelden können.
 
 Wenn Ihr Unternehmen bereits ein Arbeitskonto besitzt, können Sie es mit Ihrem Partner Center-Konto verknüpfen. 
 

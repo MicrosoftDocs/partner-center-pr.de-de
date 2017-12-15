@@ -3,11 +3,11 @@ title: Reaktion auf Empfehlungen | Partner Center
 description: "Bewerten, Verhandeln und Beantworten von Empfehlungen über Partner Center."
 author: KPacquer
 keywords: Empfehlung, RFI, Partner suchen
-ms.openlocfilehash: 4662b270e6684b8b7cf2e3e59cc6d8e797aad086
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
+ms.openlocfilehash: 43e04eaf34b788ceb41c70fa2a9c1ee08812ea2d
+ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Reaktion auf Empfehlungen in Partner Center
 
@@ -19,7 +19,7 @@ Als qualifizierter Microsoft-Partner können Sie potenzielle Geschäftsleads üb
 
 ## <a name="referral-management"></a>Empfehlungsverwaltung
 
-Beginnen Sie durch das Einrichten eines [Marketingprofils](create-a-marketing-profile.md) für jede Region, in der Sie Geschäfte tätigen. Sobald Ihr Profil aktiviert ist, können wir Kunden an Ihr Unternehmen weiterleiten und zwar durch:
+Beginnen Sie durch das Einrichten eines [Unternehmensprofils](create-a-marketing-profile.md) für jede Region, in der Sie Geschäfte tätigen. Sobald Ihr Profil aktiviert ist, können wir Kunden an Ihr Unternehmen weiterleiten und zwar durch:
 
 *  Microsoft-Marketingaktivitäten
 *  interne Vertriebs- und Dienstvertreter von Microsoft
@@ -27,7 +27,7 @@ Beginnen Sie durch das Einrichten eines [Marketingprofils](create-a-marketing-pr
 
 Wenn ein Kunde interessiert daran ist, sich an Sie zu wenden, übermittelt er eine Informationsanfrage (Request for Information, RFI). 
 
-In diesem Fall senden wir eine E-Mail an den Kontakt in Ihrem [Marketingprofil](create-a-marketing-profile.md), das speziell für die ausgewählte Region und den ausgewählten Standort gilt. Sie können auch eingehende RFIs im Partner Center anzeigen: Wechseln Sie zu **Dashboard > Empfehlungen > Customer referrals**.
+In diesem Fall senden wir eine E-Mail an den Kontakt in Ihrem [Unternehmensprofil](create-a-marketing-profile.md), das speziell für die ausgewählte Region und den ausgewählten Standort gilt. Sie können auch eingehende RFIs im Partner Center anzeigen: Wechseln Sie zu **Dashboard > Empfehlungen > Customer referrals**.
 
 Kunden senden häufig die gleiche RFI an mehrere Unternehmen gleichzeitig. Um Ihre Erfolgschancen zu erhöhen, empfehlen wir, innerhalb von maximal 24Stunden auf neue Empfehlungen zu reagieren und sie zu akzeptieren oder abzulehnen.
 
@@ -59,9 +59,9 @@ Bemühen Sie sich, das Geschäft mit dem Kunden abzuschließen. Lassen Sie uns w
 
 Hier sehen Sie einige Tipps, wie Sie sicherstellen, dass Sie weitere Empfehlungen erhalten, die für Ihr Unternehmen geeignet sind:
 
-*  **Überprüfen Sie Ihre Kontaktinformationen in Ihrem [Marketingprofil](create-a-marketing-profile.md)** für jeden Standort, um sicherzustellen, dass Ihr Team eingehende Benachrichtigungen erhält.
+*  **Überprüfen Sie Ihre Kontaktinformationen in Ihrem [Unternehmensprofil](create-a-marketing-profile.md)** für jeden Standort, um sicherzustellen, dass Ihr Team eingehende Benachrichtigungen erhält.
 
-*  **Wählen Sie Schlüsselwörter und Einstellungen, die Ihr einzigartiges Expertenwissen und Geschäftsmodell darstellen,** in Ihrem [Marketingprofil](create-a-marketing-profile.md). Entfernen Sie Schlüsselwörter, die Empfehlungen generieren würden, die für Sie nicht interessiert sind. Wenn Sie nicht an Unternehmen einer bestimmten Größe interessiert sind, aktualisieren Sie diese Einstellung.
+*  **Wählen Sie Schlüsselwörter und Einstellungen, die Ihr einzigartiges Expertenwissen und Geschäftsmodell darstellen,** in Ihrem [Unternehmensprofil](create-a-marketing-profile.md). Entfernen Sie Schlüsselwörter, die Empfehlungen generieren würden, die für Sie nicht interessiert sind. Wenn Sie nicht an Unternehmen einer bestimmten Größe interessiert sind, aktualisieren Sie diese Einstellung.
 
 *  **Reagieren Sie schnell auf Empfehlungen**. Wenn Sie rechtzeitig auf eingehende Anfragen reagieren, erhöhen wir Ihre Sichtbarkeit in künftigen Suchergebnissen von Kunden. Stellen Sie sicher, dass Ihr Team schnell reagiert.
 

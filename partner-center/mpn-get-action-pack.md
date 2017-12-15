@@ -2,11 +2,11 @@
 title: "Kauf oder Verlängerung eines Action Packs | Partner Center"
 description: "Erfahren Sie, wie Sie ein Microsoft Action Pack-Abonnement kaufen oder verlängern."
 author: MaggiePucciEvans
-ms.openlocfilehash: 6302cb1322933d7d35ac9ceba9cbbf642ba8a2c6
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: a1b9bc4e606555d472e1e27c8b71c52c9ccb7091
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/22/2017
 ---
 # <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>Kauf oder Verlängerung eines Microsoft Action Pack-Abonnements
 
@@ -44,7 +44,7 @@ Weitere Informationen zu den Vorteilen des Microsoft Action Packs enthalten Sie 
 
 7. Ihre Bestellung ist bestätigt. Wählen Sie **Schließen**.
 
-Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Tag verlängert. You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Tag verlängert. Sie können die automatische Verlängerung jederzeit in der Liste der erworbenen Angebote deaktivieren. Allerdings ist es nicht möglich, die automatische Abonnementverlängerung wieder zu aktivieren, bis Sie erneut Ihr Abonnement verlängern. 
 
 
 ## <a name="renew-your-action-pack-subscription"></a>Action Pack-Abonnement verlängern
@@ -67,7 +67,7 @@ Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Tag verlängert
 
 9. Ihre Bestellung ist bestätigt. Wählen Sie **Schließen**.
 
-Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Tag verlängert. You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Tag verlängert. Sie können die automatische Verlängerung jederzeit in der Liste der erworbenen Angebote deaktivieren. Allerdings ist es nicht möglich, die automatische Abonnementverlängerung wieder zu aktivieren, bis Sie erneut Ihr Abonnement verlängern. 
 
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Deaktivieren der automatischen Verlängerung des Action Pack-Abonnements
@@ -79,12 +79,12 @@ Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Tag verlängert
 3. Wählen Sie **Turn off automatic renewal**, wenn Sie nicht möchten, dass Ihr Action Pack-Abonnement automatisch jährlich erneuert wird. 
 
     >**Hinweis:**<br>
-    If you turn off automatic subscription renewal, you won’t be able to turn it back on until you renew the subscription again. Wir erinnern Sie vor Ablauf Ihres Abonnements daran, es zu verlängern.
+    Wenn Sie die automatische Abonnementverlängerung deaktivieren, ist es nicht möglich, sie wieder zu aktivieren, bis Sie erneut das Abonnement verlängern. Wir erinnern Sie vor Ablauf Ihres Abonnements daran, es zu verlängern.
 
 
 ## <a name="cancel-your-action-pack-subscription"></a>Action Pack-Abonnement kündigen
 
-To cancel your Microsoft Action Pack subscription, you must contact Partner Center Support.
+Wenn Sie Ihr Microsoft Action Pack-Abonnement kündigen möchten, müssen Sie sich an den Partner Center-Support wenden.
 
 1. Gehen Sie zu https://partnercenter.microsoft.com/partner/support.
 
@@ -106,9 +106,7 @@ Um den Status Ihrer Serviceanfrage zu überprüfen, wählen Sie **Serviceanfrage
 
 [Hinzufügen von Benutzern und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
 
-[Erfahren Sie mehr über die Kompetenzanforderungen für die Silber und Gold-Mitgliedschaft](learn-about-competencies.md)
-
-[Erstellen eines Marketingprofils um Vertriebskontakte von Microsoft zu erhalten](create-a-marketing-profile.md)
+[Erstellen eines Unternehmensprofils um Vertriebskontakte von Microsoft zu erhalten](create-a-marketing-profile.md)
 
 
 

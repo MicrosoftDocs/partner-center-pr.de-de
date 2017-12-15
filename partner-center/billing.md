@@ -1,13 +1,13 @@
 ---
 title: Abrechnung | Partner Center
-Description: "Als Cloud-Lösungsanbieter bezahlen Sie Microsoft rückwirkend für 60Tage für die lizenzbasierten und die nutzungsbasierten Abonnements Ihrer Kunden."
+Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-ms.openlocfilehash: 971416c2fc4ac5fdc88cc6f64878bacf0e5b69ad
-ms.sourcegitcommit: c65facdf2eea370598bf9a10880239676e047c04
+ms.openlocfilehash: 1147875ebe6ed9a7cdb95c4d044833c2f9d1ece0
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="billing"></a>Abrechnung
 
@@ -17,9 +17,14 @@ ms.lasthandoff: 10/18/2017
 -  Partner Center für Microsoft Cloud für US-Behörden
 -  Partner Center für Microsoft Cloud Deutschland
 
-Als Cloud-Lösungsanbieter bezahlen Sie Microsoft rückwirkend für 60Tage für die lizenzbasierten und die nutzungsbasierten Abonnements Ihrer Kunden.
+Die Abrechnung befindet sich im Menü **Dashboard** unter **Abrechnung**. Dort können Sie Ihren Abrechnungsverlauf und -trend, Links zu Ihrer Rechnung und zu den Abstimmungsdateien sowie Ihre letzte Zahlung anzeigen.
 
-Ihre Rechnung finden Sie im **Dashboard**-Menü unter **Abrechnung**. Auf dieser Abrechnungsseite können Sie Ihren Abrechnungsverlauf und -trend, Links zu Ihrer Rechnung und zu den Abstimmungsdateien sowie Ihre letzte Zahlung anzeigen.
+Partner im Cloud-Lösungsanbieter-Programm mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte und die nutzungsbasierte Abonnements).
+
+>**Hinweis:**<br>
+Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und Kundenübergreifend) für den aktuellen Monatszeitraum dar und ist innerhalb von vier (4) Tagen nach Ablauf des ausgewählten Abrechnungsdatums verfügbar.
+
+Wichtige Informationen über die Abrechnung mit Ihren Kunden:
 
 -   Microsoft hat keine Anforderungen oder Bedingungen hinsichtlich Ihrer eigenen Abrechnung.
 -   Um die Nutzung durch die Kunden zu ermitteln, verwenden Sie die Kunden-ID/den Kundennamen und andere relevante Felder in den Erstattungsdateien.
@@ -89,7 +94,7 @@ Ihre Rechnung finden Sie im **Dashboard**-Menü unter **Abrechnung**. Auf dieser
 <tr class="even">
 <td>Rechnungsverfügbarkeit</td>
 <td><ul>
-<li>Sie können Ihre Rechnungen und Erstattungsdateien auf der Abrechnungsseite im Partner Center anzeigen und herunterladen.</li>
+<li>Sie können Ihre Rechnungen und Erstattungsdateien auf der Abrechnungsseite im Partner Center anzeigen und herunterladen. Monatliche Rechnungen sind im Partner Center innerhalb von vier (4) Tagen nach Ablauf des ausgewählten Abrechnungsdatums verfügbar.</li>
 </ul></td>
 </tr>
 <tr class="odd">

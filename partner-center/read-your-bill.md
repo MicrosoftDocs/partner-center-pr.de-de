@@ -3,11 +3,12 @@ title: Informationen zu Ihrer Rechnung | Partner Center
 description: "Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar. Sie steht über das Partner Center-Dashboard zur Verfügung."
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-ms.openlocfilehash: 65c3777c0bd35933f2622fc0de105c051001974e
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+keywords: "Abonnementabrechnungen, Abrechnung, Abrechnung im Partner Center, Partner Center-Abrechnung, meine Rechnung lesen, Rechnung, Rechnung für Partner Center, CSP-Abrechnung, wo ist meine Rechnung?"
+ms.openlocfilehash: d24c9ad9ac90597c8e56843a25a69b9108c020d2
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="read-your-bill"></a>Informationen zu Ihrer Rechnung
 
@@ -17,7 +18,13 @@ ms.lasthandoff: 07/01/2017
 -  Partner Center für Microsoft Cloud für US-Behörden
 -  Partner Center für Microsoft Cloud Deutschland
 
-Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar. Sie steht über das PartnerCenter-Dashboard zur Verfügung.
+Die Abrechnung befindet sich im Menü **Dashboard** unter **Abrechnung**. Dort können Sie Ihren Abrechnungsverlauf und -trend, Links zu Ihrer Rechnung und zu den Abstimmungsdateien sowie Ihre letzte Zahlung anzeigen.
+
+Partner im Cloud-Lösungsanbieter-Programm mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte und die nutzungsbasierte Abonnements).
+
+>**Hinweis:**<br>
+Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und Kundenübergreifend) für den aktuellen Monatszeitraum dar und ist innerhalb von vier (4) Tagen nach Ablauf des ausgewählten Abrechnungsdatums verfügbar.
+
 
 Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen Abstimmungsdateien. Die Abstimmungsdateien enthalten die Kunden-IDs und Abonnement-IDs, mit deren Hilfe Sie Kundenrechnungen erstellen. Weitere Informationen finden Sie unter [So wird's gemacht: Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md).
 
@@ -44,7 +51,7 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 </tr>
 <tr class="even">
 <td>Rechnungsempfänger</td>
-<td>Die Adresse, an die wir Ihre Rechnung senden. Zum Ändern dieser Adresse bearbeiten Sie Ihr Partner Center-Kontoprofil.</td>
+<td>Die Adresse, an die wir Ihre Rechnung senden. Um diese Adresse zu ändern, wechseln Sie zu Einstellungen > Partnerabrechnungsprofil. </td>
 </tr>
 <tr class="odd">
 <td>Laufende Gebühren</td>

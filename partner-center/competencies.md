@@ -1,14 +1,14 @@
 ---
-title: Earn Microsoft Competencies | Partner Center
-description: Earn Silver and Gold Microsoft competencies to demonstrate your proven expertise in delivering quality solutions in a specialized area of business
+title: Verdienen von Microsoft-Kompetenzen | Partner Center
+description: "Verdienen Sie Silver- und Gold-Kompetenzen von Microsoft, um Ihre nachgewiesene Erfahrung bei der Bereitstellung von Qualitätslösungen in einem speziellen Geschäftsbereich zu demonstrieren."
 author: KPacquer
-keywords: competencies, silver membership, gold membership, mpn, MAPS, proficiency
+keywords: "Kompetenzen, Silver-Mitgliedschaft, Gold-Mitgliedschaft, MPN, MAPS, Sachverständnis"
 robots: noindex,nofollow
-ms.openlocfilehash: 849b6355c9e838ccf29c95c18e8720c496828738
-ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
+ms.openlocfilehash: 6323613d785958db9bd511f10ca03988681f1867
+ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 11/10/2017
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -22,74 +22,74 @@ ms.lasthandoff: 09/01/2017
 
  -->
 
-# <a name="competencies"></a>Competencies
+# <a name="competencies"></a>Kompetenzen
 
-**Applies to**
+**Betrifft:**
 -  Partner Center
 
-Microsoft competency achievements show your proven experience in delivering quality solutions. Join the elite tier of Microsoft Partners and stand out from your peers. Use them to: 
+Microsoft-Kompetenz-Erfolge zeigen Ihre nachgewiesene Erfahrung bei der Bereitstellung von Qualitätslösungen. Werden Sie Teil der Microsoft-Partnerelite, und heben Sie sich von anderen Anbietern ab. Verwenden Sie sie für Folgendes: 
 
-*  **Earn offers and benefit packs** such as discounts to the Microsoft Action Pack. Benefits vary by competency and level. 
+*  **Verdienen Sie Angebote und Vorteilspakete** wie Rabatte auf das Microsoft Action Pack. Vorteile variieren je nach Kompetenz und Stufe. 
 
-*  **Demonstrate your proven expertise**. [Earn more business referrals](referrals.md) by showing prospective customers that you're able to meet their needs for a specific line of business.
+*  **Demonstrieren Sie Ihre nachgewiesene Erfahrung**. [Verdienen Sie Geschäftsempfehlungen](referrals.md), indem Sie potenziellen Kunden zeigen, dass Sie in der Lage sind, ihre Anforderungen für eine bestimmte Branche zu erfüllen.
 
-## <a href="" id="attainment_paths"></a> Competency paths
+## <a href="" id="attainment_paths"></a> Kompetenzpfade
 
 [Kompetenzanforderungen für die Silver- und Gold-Mitgliedschaft](learn-about-competencies.md)
 
 ## <a name="earn-competencies"></a>Erlangen von Kompetenzen
 
-After you [join the Microsoft Partner Network](mpn-overview.md), you can meet either performance-based or skill-based goals to earn Microsoft competencies. 
+Nachdem Sie [Microsoft Partner Network beigetreten sind](mpn-overview.md), können Sie entweder leistungs- oder kenntnisbasierte Ziele erfüllen, um Microsoft-Kompetenzen zu erwerben. 
 
-**Performance-based goals** include: 
-* Revenue goals
-* Active usage
-* Deployed seat count
-* New customer additions
+Zu **leistungsbasierten Zielen** zählen: 
+* Umsatzziele
+* Aktive Nutzung
+* Anzahl der bereitgestellten Arbeitsplätze
+* Hinzugefügte neue Kunden
 
-**Skill-based goals** include: 
-* Microsoft certifications
-* Online assessments 
+Zu **kenntnisbasierten Zielen** zählen: 
+* Microsoft-Zertifizierungen
+* Online-Assessments 
 
-Some competencies have multiple ways to achieve the Silver or Gold level.
+Bei einigen Kompetenzen gibt es mehrere Möglichkeiten, die Silber- oder Gold-Stufe zu erreichen.
 
-To check your progress in a competency, from the Partner Center dashboard, go to the **Partnership > Competencies**. 
+Um den Fortschritt in einer Kompetenz zu überprüfen, navigieren Sie vom Partner Center-Dashboard zu **Partnerschaft > Kompetenzen**. 
 
-### <a href="" id="associating_achievements"></a>Get your employees connected to complete skill-based goals
+### <a href="" id="associating_achievements"></a>Verknüpfen von Mitarbeitern zum Erreichen kenntnisbasierter Ziele
 
-1.  Add user accounts for the employees in your organization. From the [Partner Center](http://partnercenter.microsoft.com) dashboard, go to **Account settings > Add user**. (PMC users can add multiple users at a time by selecting **Add users using PMC data**.)
+1.  Fügen Sie Benutzerkonten für die Mitarbeiter in Ihrer Organisation hinzu. Navigieren Sie vom [Partner Center](http://partnercenter.microsoft.com)-Dashboard zu **Kontoeinstellungen > Benutzer hinzufügen**. (PMC-Benutzer können mehrere Benutzer gleichzeitig durch die Auswahl von **Add users using PMC data** hinzufügen.)
 
-    After the user accounts are created, we'll send them a new user name and password, and will prompt you to download a log file which contains info to help reset the user name and password as needed. You can also [set up the user accounts so they can reset the passwords by themselves](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
+    Nachdem die Benutzerkonten erstellt wurden, erhalten sie einen neuen Benutzernamen und ein Kennwort und Sie werden aufgefordert, eine Protokolldatei mit Informationen zum Zurücksetzen des Benutzernamens und des Kennworts herunterzuladen. Sie können auch [die Benutzerkonten so einrichten, dass sie das Kennwort selbst zurücksetzen können](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
 
-2. Ask the employees in your organization to sign in and associate their Microsoft account (MSA) to their user account. (From the [Partner Center](http://partnercenter.microsoft.com) dashboard, go to **Account settings**.) Employees can use the same or different MSAs to associate their Microsoft technical exams and certifications and their accounts through Microsoft Partner University.
+2. Bitten Sie die Mitarbeiter in Ihrer Organisation, sich anzumelden und ihr Microsoft-Konto (MSA) mit ihrem Benutzerkonto zu verknüpfen. (Wechseln Sie auf dem [Partner Center](http://partnercenter.microsoft.com)-Dashboard zu **Kontoeinstellungen**.) Mitarbeiter können die gleichen oder unterschiedliche MSAs verwenden, um ihre technischen Microsoft-Prüfungen und -Zertifizierungen und ihre Konten über Microsoft Partner University zu verknüpfen.
 
-3.  **Wait 24 hours** after an employee has associated their account or completed a skill-based goal. After this time, the progress displays in the **Competencies** section.
+3.  **Warten Sie 24 Stunden**, nachdem ein Mitarbeiter sein Konto verknüpft oder ein kenntnisbasiertes Ziel abgeschlossen hat. Danach wird der Fortschritt im Abschnitt **Kompetenzen** angezeigt.
 
-Note, employees can only associate these to one organization at a time. Once they associate achievements to your organization, they’ll sever any previous organization account associations.
+Hinweis: Mitarbeiter können sie nur jeweils einer Organisation zuordnen. Nachdem sie Erfolge mit Ihrer Organisation verknüpft haben, werden alle vorherigen Organisationskontozuordnungen aufgelöst.
 
-Likewise, when employees leave your organization, you may need other employees to achieve the skill-based goals in order to [maintain your membership](#maintaining_membership) at the same level.
+Dementsprechend gilt: Wenn Mitarbeiter das Unternehmen verlassen, müssen möglicherweise andere Mitarbeiter die kenntnisbasierten Ziele erreichen, damit [Ihre Mitgliedschaft](#maintaining_membership) auf derselben Stufe beibehalten wird.
 
-## <a name="display-your-competency-awards"></a>Display your competency awards
+## <a name="display-your-competency-awards"></a>Anzeigen der Kompetenzprämien
 
-Once you've met these goals for a single competency, you'll be able to upgrade your membership.
+Nachdem Sie diese Ziele für eine einzelne Kompetenz erreicht haben, können Sie Ihre Mitgliedschaft aktualisieren.
 
-### <a name="upgrade-your-membership"></a>Upgrade your membership
+### <a name="upgrade-your-membership"></a>Aktualisieren Ihrer Mitgliedschaft
 
-To buy the Silver benefit pack, you only need to demonstrate silver-level proficiency in one path. Once you upgrade to Silver, we display all of the Silver-level competencies you’ve achieved in your marketing profile. 
+Um das Silver-Vorteilspaket zu erlangen, müssen Sie nur Kenntnisse der Silver-Stufe in einem Pfad demonstrieren. Nach dem Upgrade auf Silver zeigen wir alle Kompetenzen der Silver-Stufe an, die Sie in Ihrem Unternehmensprofil erreicht haben. 
 
-To buy the Gold benefit pack, you only need to demonstrate gold-level proficiency in one path. Once you upgrade to Gold, we display both the Silver-level and Gold-level competencies you’ve achieved in your marketing profile. 
+Um das Gold-Vorteilspaket zu erwerben, müssen Sie nur Kenntnisse der Gold-Stufe in einem Pfad demonstrieren. Nach dem Upgrade auf Gold zeigen wir Kompetenzen der Silver- und der Gold-Stufe an, die Sie in Ihrem Unternehmensprofil erreicht haben. 
 
-### <a href="" id="maintain_membership"></a> Maintain and renew membership
+### <a href="" id="maintain_membership"></a> Verwalten und Verlängern der Mitgliedschaft
 
-To renew your membership, you’ll need to continue to demonstrate proficiency in Microsoft products and services. Your subscription status remains until the end of the year that you purchased it.
+Um Ihre Mitgliedschaft zu verlängern, müssen Sie weiterhin Kenntnisse zu Microsoft-Produkten und -Diensten demonstrieren. Ihr Abonnementstatus verbleibt bis zum Ende des Jahres, in dem Sie es gekauft haben.
 
-Expired achievements may make you ineligible for upgrading or renewing your partner memberships at the same level. 
+Bei abgelaufenen Erfolgen sind Sie unter Umständen nicht für die Aktualisierung oder Verlängerung Ihrer Partnermitgliedschaften auf der gleichen Stufe berechtigt. 
 
-If you receive the alert: **“A recent change to your competency achievement has put your membership renewal eligibility at risk”**, this means one or more of your competency achievements is at risk of expiring. 
+Wenn Sie die Benachrichtigung **A recent change to your competency achievement has put your membership renewal eligibility at risk** erhalten, bedeutet dies, dass mindestens ein Kompetenzerfolg bald abläuft. 
 
-This often happens when an employee who helped your organization meet exam or certification requirements for a competency achievement leaves your organization. 
+Dies ist häufig der Fall, wenn ein Mitarbeiter Ihrer Organisation, der zur Erfüllung der Prüfungs- oder Zertifizierungsanforderungen für eine Kompetenz beigetragen hat, Ihre Organisation verlässt. 
 
-Even though your membership renewal is at risk, your organization’s proficiency status continues to display until the one-year subscription has elapsed.
+Auch wenn Ihre Mitgliedschaftsverlängerung gefährdet ist, wird der Kenntnisstatus Ihrer Organisation weiterhin angezeigt, bis das Jahresabonnement abgelaufen ist.
 
 Zum Verlängern oder Aktualisieren Ihrer Mitgliedschaft auf derselben Ebene muss Ihre Organisation erneut die Kompetenzanforderungen erfüllen.
 

@@ -1,77 +1,90 @@
 ---
-title: Cloud Customer Relationship Management Competency
-description: Be known as premium provider of Microsoft Dynamics CRM Online or Dynamics 365 by attaining the Cloud Customer Relationship Management competency.
+title: Cloud Customer Relationship Management-Kompetenz
+description: Machen Sie sich einen Namen als Premiumanbieter von Microsoft Dynamics CRM Online oder Dynamics 365, indem Sie die Kompetenz "Cloud Customer Relationship Management" erwerben.
 author: Daniel Simpson
-keywords: competency,competencies,Cloud Customer Relationship Management
-ms.openlocfilehash: 08feb30386219b11a2fd471d66db4cedb5cd680d
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
+keywords: Kompetenz,Kompetenzen,Cloud Customer Relationship Management
+ms.openlocfilehash: 42d2080f953d336687de355acd17f639fff23990
+ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 11/16/2017
 ---
 #<a name="cloud-customer-relationship-management"></a>Cloud Customer Relationship Management
-Be known as premium provider of Microsoft Dynamics CRM Online or Dynamics 365 by attaining the Cloud Customer Relationship Management competency.
+Machen Sie sich einen Namen als Premiumanbieter von Microsoft Dynamics CRM Online oder Dynamics 365, indem Sie die Kompetenz "Cloud Customer Relationship Management" erwerben.
 
-##<a name="cloud-crm-reseller-option"></a>Cloud CRM Reseller option
+##<a name="cloud-crm-reseller-option"></a>Cloud CRM Reseller-Option
 
-The Cloud Customer Relationship Management option is ideal for partners who want to prove their capability by meeting revenue thresholds and exam requirements. 
+Die Cloud Customer Relationship Management-Option eignet sich ideal für Partner, die Ihre Qualifikation durch Erfüllen der Umsatzschwellenwerte und Prüfungsanforderungen nachweisen möchten. 
 
 ###<a name="silver"></a>Silver
 
-1. Your organization must meet the performance thresholds.
+1. Ihre Organisation muss die Leistungsschwellenwerte erfüllen.
 
-    - **Developed Markets**
-        - Partner must have earned at least US$100,000 in CRM Online or Dynamics 365 Plan 1 Net New Revenue in the TTM period
+    - **Industrieländer**
+        - Der Partner muss mindestens einen neuen Netto-Cloudumsatz von mindestens 100.000 US-Dollar mit CRM Online oder Dynamics 365 Customer Engagement (ehemals Plan 1) im TTM-Zeitraum erzielt haben.
 
     - **Entwicklungsländer**
-        - Der Partner muss einen neuen Nettoumsatz von mindestens 50.000 US-Dollar mit CRM Online oder Dynamics 365 Plan 1 im TTM-Zeitraum erzielt haben.
+        - Der Partner muss mindestens einen neuen Netto-Cloudumsatz von mindestens 50.000 US-Dollar mit CRM Online oder Dynamics 365 Customer Engagement (ehemals Plan 1) im TTM-Zeitraum erzielt haben.
 
-    - Für diese Kunden müssen Sie als Digital Partner of Record für Microsoft CRM Online oder Dynamics 365 zugewiesen sein.
+    - Für diese Kunden müssen Sie als Digital Partner of Record zugewiesen sein.
     - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.  
   
-2. **2** Personen in Ihrer Organisation müssen die Prüfungsanforderungen erfüllen.
+2. In Ihrer Organisation müssen mindestens **2** Personen die Prüfungsanforderungen erfüllen.
 
     - **1** Person muss eine der folgenden Prüfungen bestehen:
         - [MB2-714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): Dynamics CRM Customer Service
         - [MB2-713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): Microsoft Dynamics CRM 2016 Sales
-        - [MB2-709](https://www.microsoft.com/en-us/learning/exam-mb2-709.aspx): Dynamics CRM Marketing 
+        - [MB2-709](https://www.microsoft.com/en-us/learning/exam-mb2-709.aspx): Dynamics CRM Marketing* 
+        - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
+        - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
+        - MB2-877: Microsoft Dynamics 365 for Field Service (verfügbar im Januar 2018)
 
     - Die gleiche Person muss eine der folgenden Prüfungen bestehen:
-        - [Prüfung MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM Online Deployment (2015)
-        - [Prüfung MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM Online Deployment
+        - [MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM Online Deployment (2015)
+        - [MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM Online Deployment
+        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 customer engagement Online Deployment
         
     - Die andere Person muss eine der folgenden Prüfungen bestehen:
-        - [Prüfung MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016 Customization and Configuration
-        - [Prüfung MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM Customization and Configuration
+        - [MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016 Customization and Configuration
+        - [MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM Customization and Configuration
+        - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration
 
+\*Zum 31.Dezember2017 eingestellt. Diese Prüfung werden bis zum 31.Dezember2018 für die Kompetenzqualifizierung akzeptiert. 
 
 ###<a name="gold"></a>Gold
 
-1. Your organization must meet the performance thresholds.
+1. Ihre Organisation muss die Leistungsschwellenwerte erfüllen.
 
-    - **Developed Markets**
+    - **Entwickelte Märkte**
     
-        - Der Partner muss einen neuen Nettoumsatz von mindestens 300.000 US-Dollar mit CRM Online oder Dynamics 365 Plan 1 im TTM-Zeitraum erzielt haben.
+        - Der Partner muss mindestens einen neuen Netto-Cloudumsatz von mindestens 300.000 US-Dollar mit CRM Online oder Dynamics 365 Customer Engagement (ehemals Plan 1) im TTM-Zeitraum erzielt haben.
      
-    - **Entwicklungsländer**
+    - **Entwicklungsmärkte**
 
-        - Der Partner muss einen neuen Nettoumsatz von mindestens 150.000 US-Dollar mit CRM Online oder Dynamics 365 Plan 1 im TTM-Zeitraum erzielt haben.
+        - Der Partner muss mindestens einen neuen Netto-Cloudumsatz von mindestens 150.000 US-Dollar mit CRM Online oder Dynamics 365 Customer Engagement (ehemals Plan 1) im TTM-Zeitraum erzielt haben.
 
-    - Für diese Kunden müssen Sie als Digital Partner of Record für Microsoft CRM Online oder Dynamics 365 zugewiesen sein.
+    - Für diese Kunden müssen Sie als Digital Partner of Record zugewiesen sein.
     - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.  
 
 
-2. **4** Personen in Ihrer Organisation müssen die Prüfungsanforderungen erfüllen.
+2. In Ihrer Organisation müssen mindestens **4** Personen die Prüfungsanforderungen erfüllen.
 
     - **2** Personen müssen jeweils eine der folgenden Prüfungen bestehen:
         - [MB2-714](https://www.microsoft.com/en-us/learning/exam-mb2-714.aspx): Dynamics CRM Customer Service
         - [MB2-713](https://www.microsoft.com/en-us/learning/exam-mb2-713.aspx): Microsoft Dynamics CRM 2016 Sales
-        - [MB2-709](https://www.microsoft.com/en-us/learning/exam-mb2-709.aspx): Dynamics CRM Marketing 
-
-    - Die gleichen **2** Personen müssen jeweils auch eine der folgenden Prüfungen bestehen:
-        - [Prüfung MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM Online Deployment (2015)
-        - [Prüfung MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM Online Deployment
+        - [MB2-709](https://www.microsoft.com/en-us/learning/exam-mb2-709.aspx): Dynamics CRM Marketing* 
+        - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
+        - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
+        - MB2-877: Microsoft Dynamics 365 for Field Service (verfügbar im Januar 2018)
+        
+        - Die gleichen **2** Personen müssen jeweils auch eine der folgenden Prüfungen bestehen:
+        - [MB2-710](https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx): Microsoft Dynamics CRM Online Deployment (2015)
+        - [MB2-706](https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx): Microsoft Dynamics CRM Online Deployment
+        - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 customer engagement Online Deployment
 
     - Die anderen **2** Personen müssen jeweils eine der folgenden Prüfungen bestehen:
-        - [Prüfung MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016 Customization and Configuration
-        - [Prüfung MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM Customization and Configuration
+        - [MB2-712](https://www.microsoft.com/en-us/learning/exam-mb2-712.aspx): Microsoft Dynamics CRM 2016 Customization and Configuration
+        - [MB2-707](https://www.microsoft.com/en-us/learning/exam-mb2-707.aspx): Microsoft Dynamics CRM Customization and Configuration
+        - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration
+
+\*Zum 31.Dezember2017 eingestellt. Diese Prüfung werden bis zum 31.Dezember2018 für die Kompetenzqualifizierung akzeptiert. 

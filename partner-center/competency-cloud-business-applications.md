@@ -3,13 +3,14 @@ title: Cloud Business Applications-Kompetenz
 description: "Die Cloud Business Applications-Kompetenz ist für Partner, die sich auf die Bereitstellung und Verwaltung von Microsoft Dynamics 365 für ihre Kunden spezialisieren."
 author: Daniel Simpson
 keywords: "Kompetenz, Kompetenzen, Cloudgeschäftsanwendungen"
-ms.openlocfilehash: d38847cf292c15334bc850e0782a1af9842f3d33
-ms.sourcegitcommit: 581682c6f2098dc4cf19ca82fcdec90bc6bfe975
+ms.openlocfilehash: 073e31972c8abcfdb176d6ceec65bbda67e8a5f0
+ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2017
+ms.lasthandoff: 11/16/2017
 ---
-#<a name="cloud-business-applications"></a>Cloud Business Applications 
+# <a name="cloud-business-applications"></a>Cloud Business Applications 
+
 Die Cloud Business Applications-Kompetenz ist für Partner, die sich auf die Bereitstellung und Verwaltung von Microsoft Dynamics 365 für ihre Kunden spezialisieren.
 
 - [Enterprise Customer Engagement-Option](#enterprise-customer-engagement-option)
@@ -24,10 +25,10 @@ Die Cloud Business Applications-Kompetenz unterstützt Partner bei der Auswahl e
 Digitale Badges können dazu dienen, individuelle Leistungen im Unternehmen in Echtzeit zu erkennen, zu differenzieren und hervorzuheben. [Weitere Informationen](https://www.microsoft.com/en-us/learning/badges.aspx).  
 
 
-##<a name="enterprise-customer-engagement-option"></a>Enterprise Customer Engagement-Option
+## <a name="enterprise-customer-engagement-option"></a>Enterprise Customer Engagement-Option
 Die Enterprise Customer Engagement-Option eignet sich ideal für Partner, die mit Unternehmenskunden interagieren. Führen Sie alle erforderlichen Schritte aus, um die Cloud Business Applications-Kompetenz zu erreichen.
 
-###<a name="silver"></a>Silber
+### <a name="silver"></a>Silber
 1. Ihre Organisation muss die folgenden Leistungswerte erreichen.
 
     - **Entwickelte Märkte**
@@ -50,13 +51,12 @@ Die Enterprise Customer Engagement-Option eignet sich ideal für Partner, die mi
     
     **UND**
     
-    - Die gleichen oder **5** andere Personen müssen jeweils auch eine der folgenden Prüfungen bestehen:
+    - Die gleichen **5** Personen müssen eine der folgenden funktionalen Prüfungen bestehen:
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
-        - MB2-877: Microsoft Dynamics 365 for Field Service (verfügbar im Dezember 2017)
-        
+        - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx): Microsoft Dynamics 365 for Field Service *Neue Prüfung ab Dezember 2017 verfügbar
 
-###<a name="gold"></a>Gold
+### <a name="gold"></a>Gold
 1. Ihre Organisation muss die folgenden Leistungswerte erreichen.
 
     - **Entwickelte Märkte**
@@ -82,13 +82,13 @@ Die Enterprise Customer Engagement-Option eignet sich ideal für Partner, die mi
     - Die gleichen oder **15** andere Personen müssen jeweils auch eine der folgenden Prüfungen bestehen:
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
-        - MB2-877: Microsoft Dynamics 365 for Field Service (verfügbar im Dezember 2017)
+        - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx): Microsoft Dynamics 365 for Field Service 
 
-##<a name="enterprise-operations-option"></a>Enterprise Operations-Option
+## <a name="enterprise-operations-option"></a>Enterprise Operations-Option
 
 Die Enterprise Operations-Option ist ideal für Partner mit Unternehmenskunden, insbesondere in Bezug auf den Dynamics 365 Unified Operations Plan. Führen Sie alle erforderlichen Schritte aus, um die Cloud Business Applications-Kompetenz zu erreichen.
 
-###<a name="silver"></a>Silber
+### <a name="silver"></a>Silber
 1. Ihre Organisation muss die folgenden Leistungswerte erreichen.
 
     - **Entwickelte Märkte**
@@ -107,35 +107,21 @@ Die Enterprise Operations-Option ist ideal für Partner mit Unternehmenskunden, 
     - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.  
 
 2. In Ihrer Organisation müssen **5** Personen die Prüfungsanforderungen bestanden haben.
-
-    - **5** Personen müssen alle folgenden technischen Prüfungen bestehen: 
-
-        - MB6-894: Development, Extensions and Deployment for Dynamics 365 Finance and Operations, Enterprise edition (verfügbar im November2017)
-
-        - 70-534: Architecting Microsoft Azure Solutions (verfügbar im November2017)
-
-    **UND**
+ 
+    - **5** Personen müssen alle folgenden technischen Prüfungen bestehen:
+        - [MB6-894](https://www.microsoft.com/en-us/learning/exam-MB6-894.aspx): Development, Extensions and Deployment for Microsoft Dynamics 365 for Finance and Operations* 
+        - [70-535](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions
     
-    - Die gleichen oder **5** andere Personen müssen jeweils auch eine der folgenden funktionalen Prüfungen bestehen (verfügbar im November 2017):
+    **UND**
+
+    - Die gleichen oder **5** andere Personen müssen eine der folgenden funktionalen Prüfungen bestehen: 
+        - [MB6-895](https://www.microsoft.com/en-us/learning/exam-MB6-895.aspx): Financial Management in Microsoft Dynamics 365 for Finance and Operations
+        - [MB6-896](https://www.microsoft.com/en-us/learning/exam-mb6-896.aspx): Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations
+        - [MB6-897](https://www.microsoft.com/en-us/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail 
         
-        - MB6-895: Financials Management in Microsoft Dynamics 365 for Finance and Operations, Enterprise edition (verfügbar im November2017)
-        
-        - MB6-896: Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations, Enterprise edition (verfügbar im November2017)
-        
-        - MB6-897: Microsoft Dynamics 365 for Retail (verfügbar im November2017)
+* Neue Prüfung ab Dezember2017 verfügbar
 
-    **ODER**
-
-    - **5** Personen müssen alle folgenden funktionalen und technischen Prüfungen bestehen:
-        - [MB6-705]: Microsoft Dynamics AX2012R3 CU8 Installation and Configuration*  
-        - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX Financials*
-        - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX Distribution and Trade*
-        - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX Development Introduction*
-        - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a Microsoft SQL Database Infrastructure*
-
-\*Zum 31.Dezember2017 eingestellt. Diese Prüfung werden bis zum 31.Dezember2018 für die Kompetenzqualifizierung akzeptiert.
-
-###<a name="gold"></a>Gold
+### <a name="gold"></a>Gold
 
 1. Ihre Organisation muss die folgenden Leistungswerte erreichen.
 
@@ -161,22 +147,15 @@ Die Enterprise Operations-Option ist ideal für Partner mit Unternehmenskunden, 
 
         - MB6-894: Development, Extensions and Deployment for Dynamics 365 Finance and Operations, Enterprise edition (verfügbar im November2017)
 
-        - 70-534: Architecting Microsoft Azure Solutions (verfügbar im November2017)
+    - **15** Personen müssen alle folgenden Prüfungen bestehen:
+        - [MB6-894](https://www.microsoft.com/en-us/learning/exam-MB6-894.aspx): Development, Extensions and Deployment for Microsoft Dynamics 365 for Finance and Operations* 
+        - [70-535](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions 
 
-   **UND**
-    
-    - Die gleichen oder **15** andere Personen müssen jeweils auch eine der folgenden funktionalen Prüfungen bestehen:
-        
-        - MB6-895: Financials Management in Microsoft Dynamics 365 for Finance and Operations, Enterprise edition (verfügbar im November2017)
-        - MB6-896: Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations, Enterprise edition (verfügbar im November2017)
-        - MB6-897: Microsoft Dynamics 365 for Retail (verfügbar im November2017)
+    **UND** 
 
-    **ODER**
-    - **15** Personen müssen alle folgenden funktionalen und technischen Prüfungen bestehen:
-       - [MB6-705]: Microsoft Dynamics AX2012R3 CU8 Installation and Configuration*  
-       - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx): Microsoft Dynamics AX Financials*
-       - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx): Microsoft Dynamics AX Distribution and Trade*
-       - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx): Microsoft Dynamics AX Development Introduction*
-       - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a Microsoft SQL Database Infrastructure*
- 
-\*Zum 31.Dezember2017 eingestellt. Diese Prüfung werden bis zum 31.Dezember2018 für die Kompetenzqualifizierung akzeptiert.
+    - Die gleichen oder **15** andere Personen müssen eine der folgenden funktionalen Prüfungen bestehen: 
+        - [MB6-895](https://www.microsoft.com/en-us/learning/exam-MB6-895.aspx): Financial Management in Microsoft Dynamics 365 for Finance and Operations
+        - [MB6-896](https://www.microsoft.com/en-us/learning/exam-mb6-896.aspx): Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations
+        - [MB6-897](https://www.microsoft.com/en-us/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail
+
+* Neue Prüfung ab Dezember2017 verfügbar

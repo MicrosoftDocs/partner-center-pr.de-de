@@ -1,32 +1,30 @@
 ---
-title: Grow your business with referrals from Microsoft | Partner Center
-description: Generate business leads and get connected to customers who need help implementing Microsoft products and solutions.
+title: Umsatzsteigerung mit Empfehlungen von Microsoft | Partner Center
+description: "Generieren Sie Geschäftsleads, und nehmen Sie Kontakt zu Kunden auf, die Unterstützung bei der Implementierung von Microsoft-Produkten und -Lösungen benötigen."
 author: KPacquer
-keywords: referrals, marketing profile, find a partner
-ms.openlocfilehash: f694f846187b99b79e461b0e4d631157f9536087
-ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
+keywords: Empfehlungen, Unternehmensprofil, Partner suchen
+ms.openlocfilehash: a654991846cddb86d936b2f79fa1eccb9c6a3d38
+ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 11/16/2017
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
-# <a name="grow-your-business-with-referrals-from-microsoft"></a>Grow your business with referrals from Microsoft
+# <a name="grow-your-business-with-referrals-from-microsoft"></a>Umsatzsteigerung mit Empfehlungen von Microsoft
 
-**Applies to**
+**Betrifft:**
 
 -  Partner Center
 
-Customers need expertise like yours to help implement solutions with Microsoft products and technologies. We’d like to get you connected.
+Viele Kunden suchen nach qualifizierten Experten, die bei der Implementierung der Microsoft-Technologie und -Lösungen helfen. Bei Microsoft erhalten wir häufig direkte Hilfeanforderungen von Kunden über unsere Marketingaktivitäten und von unseren internen Microsoft-Verkaufsvertretern. Kunden lesen ebenfalls [**Einen Lösungsanbieter finden**](https://www.microsoft.com/solution-providers/search), um Unternehmen zu finden, die ihnen helfen, ihre Unternehmensanforderungen zu erfüllen. 
 
-We often get direct requests for help from customers through our marketing activities and from our internal Microsoft sales agents. Customers also use the **Find a Partner** tool in Partner Center to search for qualified Microsoft partners. 
+Wir möchten für Sie eine Verbindung mit Kunden herstellen, die Ihre Lösungen und das Fachwissen benötigen. Der wichtigste Schritt, Vertriebskontakte von uns zu erhalten ist unter [Erstellen eines Unternehmensprofils](create-a-marketing-profile.md), auf denen Sie Beispiele zu Angeboten, Lösungen und dem Fachwissen Ihres Unternehmens finden. Ihr Unternehmensprofil wird auf allen Orten aufgeführt, auf denen Kunden und interne Microsoft-Vertreter nach qualifizierten Partnern suchen. 
 
-Grow your business by showcasing your business to these potential customers, and working with them to help them be successful.
+ Nachdem Sie Ihr Unternehmensprofil veröffentlicht haben können Sie Vertriebskontakten über die Funktion "Empfehlungen" im Partner Center erhalten. Es ist wichtig, auf Empfehlungen im erforderlichen Zeitraum zu reagieren, um weiterhin Leads zu erhalten und vor allen Dingen, Geschäfte zu gewinnen. Ausführliche Informationen über das Verwalten von Vertriebskontakten im Partner Center finden Sie unter [Antworten auf Empfehlungen](responding-to-referrals.md).  
 
-*  [Create a marketing profile](create-a-marketing-profile.md). Our sales agents and search tools use these profiles to find appropriate partner businesses with the relevant experience to help our customers.
-
-*  [Respond to referrals](responding-to-referrals.md) When customers express an interest in the contacts you have included in your marketing profile. Learn how to track and quickly respond to these customers.
+Viel Glück!
 
 <!-- 
-*  [Analyze your marketing profile](analyze-your-marketing-profile.md) Regularly review and optimize your marketing profile to make sure you’re getting in front of your target customers.
+*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you’re getting in front of your target customers.
 -->

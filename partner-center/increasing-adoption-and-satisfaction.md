@@ -3,58 +3,60 @@ title: "Steigerung von Einführungsrate und Zufriedenheit | Partner Center"
 description: "Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wächst und auf welche Bereiche sie ihre Investitionen konzentrieren sollten. Das Partner Center liefert ihnen Informationen darüber, ob und wie die Kunden die erworbenen Lizenzen nutzen."
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
-
+ms.openlocfilehash: 8d02f753307991cd740c78db9e751a44358597f6
+ms.sourcegitcommit: a8c51a2aade51c6fd7f134613fad121e89ffd719
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 11/21/2017
 ---
+# <a name="increase-adoption-and-satisfaction"></a><span data-ttu-id="1464b-104">Steigerung von Einführungsrate und Zufriedenheit</span><span class="sxs-lookup"><span data-stu-id="1464b-104">Increase adoption and satisfaction</span></span>
 
-# Steigerung von Einführungsrate und Zufriedenheit
+**<span data-ttu-id="1464b-105">Betrifft</span><span class="sxs-lookup"><span data-stu-id="1464b-105">Applies to</span></span>**
 
-**Betrifft**
+-  <span data-ttu-id="1464b-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="1464b-106">Partner Center</span></span>
 
--  Partner Center
+<span data-ttu-id="1464b-107">Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wächst und auf welche Bereiche sie ihre Investitionen konzentrieren sollten.</span><span class="sxs-lookup"><span data-stu-id="1464b-107">Our partners use many metrics to gauge whether their business is growing and where to focus investment.</span></span> <span data-ttu-id="1464b-108">Das Partner Center liefert ihnen Informationen darüber, ob und wie die Kunden die erworbenen Lizenzen nutzen.</span><span class="sxs-lookup"><span data-stu-id="1464b-108">Partner Center can help by providing data about if and how your customers are using the licenses that they've purchased.</span></span> <span data-ttu-id="1464b-109">Die Informationen sind für Office-Produkte (einschließlich OneDrive for Business, das mit SharePoint als eine Position gezählt wird) verfügbar.</span><span class="sxs-lookup"><span data-stu-id="1464b-109">This information is available for Office products (including OneDrive for Business, which is counted together with SharePoint).</span></span>
 
-Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wächst und auf welche Bereiche sie ihre Investitionen konzentrieren sollten. Das Partner Center liefert ihnen Informationen darüber, ob und wie die Kunden die erworbenen Lizenzen nutzen. Die Informationen sind für Office-Produkte (einschließlich OneDrive for Business, das mit SharePoint als eine Position gezählt wird) verfügbar.
+<span data-ttu-id="1464b-110">Über das Programm für Cloud-Lösungsanbieter können Sie Daten für alle Ihre Kunden einsehen.</span><span class="sxs-lookup"><span data-stu-id="1464b-110">You can see data for all of your customers through the Cloud Solution Provider program.</span></span> <span data-ttu-id="1464b-111">Beachten Sie, dass einige Kunden Lizenzen von anderen Partnern oder direkt von Microsoft erwerben können. In diesem Fall wird die Gesamtanzahl der Lizenzen für alle Partner angezeigt.</span><span class="sxs-lookup"><span data-stu-id="1464b-111">Note that some customers may buy licenses from other partners or directly from Microsoft—in that case, you will see the total licenses across all partners.</span></span> <span data-ttu-id="1464b-112">Um nur Ihre eigenen Lizenzen anzuzeigen, rufen Sie stattdessen die Abonnements des Kunden auf.</span><span class="sxs-lookup"><span data-stu-id="1464b-112">To see only your own licenses, go to the customer's subscriptions instead.</span></span>
 
-Über das Programm für Cloud-Lösungsanbieter können Sie Daten für alle Ihre Kunden einsehen. Beachten Sie, dass einige Kunden Lizenzen von anderen Partnern oder direkt von Microsoft erwerben können. In diesem Fall wird die Gesamtanzahl der Lizenzen für alle Partner angezeigt. Um nur Ihre eigenen Lizenzen anzuzeigen, rufen Sie stattdessen die Abonnements des Kunden auf.
+>**<span data-ttu-id="1464b-113">Hinweis:</span><span class="sxs-lookup"><span data-stu-id="1464b-113">Note</span></span>**<br> <span data-ttu-id="1464b-114">Aktuell werden nur Daten für Office365 und Dynamics 365 angezeigt.</span><span class="sxs-lookup"><span data-stu-id="1464b-114">Currently, we only show data for Office 365 and Dynamics 365.</span></span> <span data-ttu-id="1464b-115">Wir werden Daten für weitere Produkte in Zukunft aktivieren.</span><span class="sxs-lookup"><span data-stu-id="1464b-115">We will be enabling data for additional products in the future.</span></span>
 
-## Suchen nach Lizenz- und Benutzerdaten
-
-
-**Einzelner Kunde**
-
--   Wählen Sie im Menü „Partner Center“ die Option **Kunden**, dann einen Kundennamen und schließlich **Kundendaten** aus.
-
-**Ganzes Portfolio**
-
-1.  Führen Sie im Partner Center-**Dashboard** einen Bildlauf nach unten zum Abschnitt **Office-Lizenzanalyse** aus.
-2.  Laden Sie Bereitstellungs- und Nutzungsdaten Ihres gesamten Kundenstamms herunter, indem Sie die Optionen für den **Export** auswählen.
-
-Terminologie:
-
--   **Berechtigung** Eine Lizenz, zu deren Verwendung der Benutzer berechtigt ist (die also z. B. nicht wegen Betrugs oder Nichtbezahlung ausgesetzt, auf eine andere Lizenz aktualisiert, vom Benutzer storniert wurde usw.).
-
--   **Aktiv** Der Abonnent hat die Berechtigung in den letzten 28 Kalendertagen für eine Aufgabe genutzt.
-
--   **Bereitstellung %** = zugewiesene Lizenzen/verkaufte Lizenzen
-
--   **Nutzung %** = aktive Berechtigungen/Gesamtzahl der Berechtigungen
-
-    Manchmal ist die prozentuale Nutzung überhöht oder größer als 100 %. Dies kann verschiedene Ursachen haben:
-
-    -   Die Lizenz wurde aufgrund eines Mitarbeiterwechsels beim Kunden auf einen neuen Benutzer übertragen.
-
-    -   Wenn der Kunde über zwei Abonnements für eine SKU verfügt, eines davon aber in Karenzzeit, deaktiviert oder nicht mehr bereitgestellt ist, kann die aktive Nutzung während des 28-Tage-Zeitraums für die Berechtigungen beider Abonnements erfasst werden, es wird aber nur ein Abonnement auf die Gesamtsumme angerechnet.
-
-    -   Wenn der Kunde über ein Testabonnement verfügt, wird die Aktivität erfasst, aber das Abonnement wird nicht auf die Gesamtberechtigungen angerechnet.
-
-    -   Wenn einige Kunden Yammer viel intensiver nutzen als per Lizenz vereinbart, können die Daten erheblich verzerrt sein.
-
-## Nächste Schritte
+## <a name="find-license-and-user-data"></a><span data-ttu-id="1464b-116">Suchen nach Lizenz- und Benutzerdaten</span><span class="sxs-lookup"><span data-stu-id="1464b-116">Find license and user data</span></span>
 
 
-Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Zahlen der zunehmenden Verbreitung für Ihr Konto niedrig sind oder Sie nach weiteren Möglichkeiten für Zusatzverkäufe suchen, sollten Sie in Betracht ziehen, Schulungen anzubieten. Indem Sie Ihren Kunden beibringen, wie sie die von ihnen erworbene Cloudlösungssoftware besser nutzen können, werden Sie wahrscheinlich eine Zunahme der Produktivität und Zufriedenheit sowie eine Abnahme der Supportanfragen feststellen können.
+**<span data-ttu-id="1464b-117">Einzelner Kunde</span><span class="sxs-lookup"><span data-stu-id="1464b-117">For a single customer</span></span>**
+
+-   <span data-ttu-id="1464b-118">Wählen Sie im Menü „Partner Center“ die Option **Kunden**, dann einen Kundennamen und schließlich **Kundendaten** aus.</span><span class="sxs-lookup"><span data-stu-id="1464b-118">Select **Customers** from the Partner Center menu, choose a customer, then select **Customer insights**.</span></span>
+
+**<span data-ttu-id="1464b-119">Ganzes Portfolio</span><span class="sxs-lookup"><span data-stu-id="1464b-119">Across your portfolio</span></span>**
+
+1.  <span data-ttu-id="1464b-120">Führen Sie im Partner Center-**Dashboard** einen Bildlauf nach unten zum Abschnitt **Office-Lizenzanalyse** aus.</span><span class="sxs-lookup"><span data-stu-id="1464b-120">On the Partner Center **Dashboard**, scroll down to the **Office license analytics** section.</span></span>
+2.  <span data-ttu-id="1464b-121">Laden Sie Bereitstellungs- und Nutzungsdaten Ihres gesamten Kundenstamms herunter, indem Sie die Optionen für den **Export** auswählen.</span><span class="sxs-lookup"><span data-stu-id="1464b-121">Download deployment and usage data across your entire customer set by selecting the **export** options.</span></span>
+
+<span data-ttu-id="1464b-122">Terminologie:</span><span class="sxs-lookup"><span data-stu-id="1464b-122">Terminology:</span></span>
+
+-   <span data-ttu-id="1464b-123">**Berechtigung** Eine Lizenz, zu deren Verwendung der Benutzer berechtigt ist (die also z.B. nicht wegen Betrugs oder Nichtbezahlung ausgesetzt, auf eine andere Lizenz aktualisiert, vom Benutzer storniert wurde usw.).</span><span class="sxs-lookup"><span data-stu-id="1464b-123">**Entitlement:** a license that the user is entitled to use (it is not suspended for fraud or non-payment, it hasn't been upgraded to a different license, it hasn't been cancelled by the user, etc.)</span></span>
+
+-   <span data-ttu-id="1464b-124">**Aktiv** Der Abonnent hat die Berechtigung in den letzten 28Kalendertagen für eine Aufgabe genutzt.</span><span class="sxs-lookup"><span data-stu-id="1464b-124">**Active:** if the subscribed user has used the entitlement for a task in the last 28 calendar days.</span></span>
+
+-   <span data-ttu-id="1464b-125">**Bereitstellung %** = zugewiesene Lizenzen/verkaufte Lizenzen</span><span class="sxs-lookup"><span data-stu-id="1464b-125">**Deployment %** = assigned licenses/sold licenses</span></span>
+
+-   <span data-ttu-id="1464b-126">**Nutzung %** = aktive Berechtigungen/Gesamtzahl der Berechtigungen</span><span class="sxs-lookup"><span data-stu-id="1464b-126">**Usage %** = active entitlements/total entitlements</span></span>
+
+    <span data-ttu-id="1464b-127">Manchmal ist die prozentuale Nutzung überhöht oder größer als 100 %.</span><span class="sxs-lookup"><span data-stu-id="1464b-127">Sometimes the usage % is inflated, or greater than 100%.</span></span> <span data-ttu-id="1464b-128">Dies kann verschiedene Ursachen haben:</span><span class="sxs-lookup"><span data-stu-id="1464b-128">This can happen for several reasons:</span></span>
+
+    -   <span data-ttu-id="1464b-129">Die Lizenz wurde aufgrund eines Mitarbeiterwechsels beim Kunden auf einen neuen Benutzer übertragen.</span><span class="sxs-lookup"><span data-stu-id="1464b-129">If the customer had employee turnover and the license was transferred to a new user.</span></span>
+
+    -   <span data-ttu-id="1464b-130">Wenn der Kunde über zwei Abonnements für eine SKU verfügt, eines davon aber in Karenzzeit, deaktiviert oder nicht mehr bereitgestellt ist, kann die aktive Nutzung während des 28-Tage-Zeitraums für die Berechtigungen beider Abonnements erfasst werden, es wird aber nur ein Abonnement auf die Gesamtsumme angerechnet.</span><span class="sxs-lookup"><span data-stu-id="1464b-130">If the customer has two subscriptions for a SKU, but one is In Grace Period, Disabled or De-provisioned, entitlements in both subscriptions may register active usage during the 28-day period but only one is counted in the total.</span></span>
+
+    -   <span data-ttu-id="1464b-131">Wenn der Kunde über ein Testabonnement verfügt, wird die Aktivität erfasst, aber das Abonnement wird nicht auf die Gesamtberechtigungen angerechnet.</span><span class="sxs-lookup"><span data-stu-id="1464b-131">If the customer has a trial subscription, activity is counted but the subscription isn't counted towards the total entitlements.</span></span>
+
+    -   <span data-ttu-id="1464b-132">Wenn einige Kunden Yammer viel intensiver nutzen als per Lizenz vereinbart, können die Daten erheblich verzerrt sein.</span><span class="sxs-lookup"><span data-stu-id="1464b-132">If some customers are using Yammer significantly more than they are entitled to by their license it can skew the data dramatically.</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="1464b-133">Nächste Schritte</span><span class="sxs-lookup"><span data-stu-id="1464b-133">Next steps</span></span>
+
+
+<span data-ttu-id="1464b-134">Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Zahlen der zunehmenden Verbreitung für Ihr Konto niedrig sind oder Sie nach weiteren Möglichkeiten für Zusatzverkäufe suchen, sollten Sie in Betracht ziehen, Schulungen anzubieten.</span><span class="sxs-lookup"><span data-stu-id="1464b-134">If you are fielding a lot of Help and How-to questions, the adoption numbers on your account are low, or you’re looking for upsell opportunities, you may want to consider offering training courses.</span></span> <span data-ttu-id="1464b-135">Indem Sie Ihren Kunden beibringen, wie sie die von ihnen erworbene Cloudlösungssoftware besser nutzen können, werden Sie wahrscheinlich eine Zunahme der Produktivität und Zufriedenheit sowie eine Abnahme der Supportanfragen feststellen können.</span><span class="sxs-lookup"><span data-stu-id="1464b-135">By teaching your customers how to better use the cloud solution software they have purchased, you’re more likely to see an increase in productivity and satisfaction, and a decrease in support needs.</span></span>
 
 <table>
 <colgroup>
@@ -62,15 +64,15 @@ Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Za
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problem:</strong> Die Einführungsrate bei den Benutzern ist niedrig, und viele Lizenzen werden nicht verwendet.</p>
-<p><strong>Mögliche Ursache:</strong> Kunden erkennen die Vorteile nicht, die die Software bieten kann. Sie benötigen Unterstützung, um Möglichkeiten aufzuzeigen, wie sie die Software in ihre tägliche Arbeit integrieren können, um Aufgaben zu vereinfachen, die sie bereits täglich durchführen, oder um neue Wege zur Steigerung ihrer Produktivität zu finden.</p>
-<p><strong>Mögliche Strategien:</strong> Fallstudien, Benutzerempfehlungen zu bestimmten Szenarien, Blogs mit Lernprogrammen oder Videos.</p></td>
+<td><p><span data-ttu-id="1464b-136"><strong>Problem:</strong> Die Verbreitungsrate bei den Benutzern ist niedrig, und viele Lizenzen werden nicht verwendet.</span><span class="sxs-lookup"><span data-stu-id="1464b-136"><strong>Problem:</strong> The user adoption rate is low, and many licenses aren't being used.</span></span></p>
+<p><span data-ttu-id="1464b-137"><strong>Mögliche Ursache:</strong> Die Kunden erkennen den Wert nicht, den Ihnen die Software bieten kann.</span><span class="sxs-lookup"><span data-stu-id="1464b-137"><strong>What to consider:</strong> Customers might not understand the value that the software could provide.</span></span> <span data-ttu-id="1464b-138">Sie benötigen Unterstützung, um Möglichkeiten aufzuzeigen, wie sie die Software in ihre tägliche Arbeit integrieren können, um Aufgaben zu vereinfachen, die sie bereits täglich durchführen, oder um neue Wege zur Steigerung ihrer Produktivität zu finden.</span><span class="sxs-lookup"><span data-stu-id="1464b-138">They need help envisioning the ways they could incorporate it into their day to simplify tasks that they’re already doing, or to enable new kinds of productivity.</span></span></p>
+<p><span data-ttu-id="1464b-139"><strong>Was Sie nutzen können:</strong> Fallstudien, Benutzerempfehlungen zu bestimmten Szenarien, Blogs mit Lernprogrammen oder Videos.</span><span class="sxs-lookup"><span data-stu-id="1464b-139"><strong>What to try:</strong> Case studies, user testimonials about specific scenarios, tutorial blogs, or videos.</span></span></p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Problem:</strong> Sie erhalten eine große Zahl von Supportanrufen und Fragen zu Vorgehensweisen.</p>
-<p><strong>Mögliche Ursache:</strong> Die Software, die Produktversion oder die Aufgabe ist für Kunden neu.</p>
-<p><strong>Mögliche Strategie:</strong> Sie können eine zweigleisige Strategie anwenden, indem Sie Schulungen (Präsenz- oder Onlineschulungen) anbieten, um die Kenntnisse der Kunden insgesamt zu verbessern, während Sie gleichzeitig einige der Self-Service-Optionen bewerben, die für Kunden verfügbar sind.</p>
-<p>Sie können ggf. auch Ihre Supportwebsite so anpassen, dass sie zusätzlich zu den Supportkontaktinformationen auch die Self-Service-Optionen umfasst, die im Thema [Kundenselbsthilfe](customer-self-support.md) beschrieben sind.</p></td>
+<td><p><span data-ttu-id="1464b-140"><strong>Problem:</strong> Sie erhalten eine große Anzahl von Hilfe-Supportanrufen und Fragen zu Vorgehensweisen.</span><span class="sxs-lookup"><span data-stu-id="1464b-140"><strong>Problem:</strong> There is a high volume of support calls for help and how-to questions.</span></span></p>
+<p><span data-ttu-id="1464b-141"><strong>Mögliche Ursache:</strong> Kunden kennen die Software, die Produktversion oder ihre Aufgabe noch nicht so gut.</span><span class="sxs-lookup"><span data-stu-id="1464b-141"><strong>What to consider:</strong> Customers may be new to the software, to the product version, or to their task.</span></span></p>
+<p><span data-ttu-id="1464b-142"><strong>Was Sie nutzen können:</strong> Sie können eine zweigleisige Strategie anwenden, indem Sie Schulungen (Präsenz- und Onlineschulungen) anbieten, um die Kenntnisse der Benutzer zu vertiefen, während Sie gleichzeitig einige der für Kunden zur Verfügung stehenden Self-Service-Optionen bewerben.</span><span class="sxs-lookup"><span data-stu-id="1464b-142"><strong>What to try:</strong> You can use a dual strategy of offering training (in person or online) to increase customer's overall expertise, while also promoting some of the self-service options available to customers.</span></span></p>
+<p><span data-ttu-id="1464b-143">Sie können ggf. auch Ihre Supportwebsite so anpassen, dass sie zusätzlich zu den Supportkontaktinformationen auch die Self-Service-Optionen umfasst, die im Thema [Kundenselbsthilfe](customer-self-support.md) beschrieben sind.</span><span class="sxs-lookup"><span data-stu-id="1464b-143">You may want to redesign your support site to also include the self-service options described in the topic [Customer self-support](customer-self-support.md) in addition to your support contact information.</span></span></p></td>
 </tr>
 </tbody>
 </table>
@@ -81,11 +83,5 @@ Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Za
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -1,42 +1,43 @@
 ---
-title: Assign support contacts | Partner Center
-description: As a reseller partner, you can designate a reseller as a support contact.
+title: Zuweisen von Supportkontakten | Partner Center
+description: "Als Händlerpartner können Sie einen Händler als Supportkontakt bestimmen."
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
-ms.openlocfilehash: 9fedebc3c7b2deb6b6e3911905d3ca92bd15ee43
-ms.sourcegitcommit: 7ed78315d2a4f4f60a0bf51ec658e019ff5b7fe3
+keywords: Hilfeagent, Support, Supportkontakt zuweisen, zugewiesener Supportkontakt
+ms.openlocfilehash: dd69715d77fc94f24e93c3ecfbd26f145e84c332
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 12/21/2017
 ---
-# <a name="assign-support-contacts"></a>Assign support contacts
+# <a name="assign-support-contacts"></a>Zuweisen von Supportkontakten
 
-**Applies to**
+**Betrifft:**
 
 -  Partner Center
 
-When you set up subscriptions for Microsoft services for your customers, you may want to assign the technical support for these products to a designated product reseller, rather than providing the support yourself.
+Wenn Sie Abonnements für Microsoft-Dienste für Ihre Kunden einrichten, können Sie den technischen Support für diese Produkte einem festgelegten Produkthändler zuweisen, anstelle den Support selbst bereitzustellen.
 
-After you set up support contacts, customers see your assigned support contact's information on the product support pages. For example, when Office customers need support, they can go into the Office.com page, log in with their admin credentials, select the **Admin** tile, and under the **Support** section, see the assigned support contact information.
+Nach dem Einrichten von Supportkontakten sehen die Kunden die Informationen Ihrer persönlichen Supportkontakte auf den Produktsupportseiten. Beispiel: Wenn Office-Kunden Unterstützung benötigen, können Sie sich auf der Seite Office.com mit ihren Administratoranmeldeinformationen anmelden, die Kachel **Administrator** wählen und im Abschnitt **Support** die Informationen des zugewiesenen Supportkontakts anzeigen.
 
-This can be used for [multi-partner](multipartner.md) and [multi-channel](multichannel.md) scenarios. 
+Dies kann für [Multipartner](multipartner.md)- und [Multichannel](multichannel.md)-Szenarien verwendet werden. 
 
 <a href="" id="assigncontacts"></a>
-## <a name="assign-contacts"></a>Assign contacts
+## <a name="assign-contacts"></a>Zuweisen von Kontakten
 
-1.  Start by [requesting a relationship](request-a-relationship-with-a-customer.md) with your designated product reseller. Negotiate a support agreement with them for handling technical support.
+1.  Beginnen Sie, in dem Sie beim angegebenen Produkthändler [eine Beziehung anfordern](request-a-relationship-with-a-customer.md). Handeln Sie einen Support-Vertrag mit ihnen für den technischen Support aus.
 
-2.  From the Partner Center Dashboard, select **Customers**, then select a customer, then select a subscription, for example, Office 365 Business Premium.
+2.  Wählen Sie auf dem Partner Center-Dashboard **Kunden** einen Kunden und dann ein Abonnement aus, z.B. Office365 Business Premium.
 
-3.  In  **Designated support contact**, select the designated product reseller, and then click **Submit**. 
+3.  Wählen Sie unter **Designated support contact** den angegebenen Produkthändler aus, und klicken Sie dann auf **Übermitteln**. 
 
-    Notes: 
+    Hinweise: 
     
-    *  For new subscriptions, the designated support contact defaults to the indirect provider. Sie können diese Angabe auch in einen indirekten Händler mit Delegationsadministratorberechtigungen (Delegation Admin Privileges, DAP) ändern.
+    *  Bei neuen Abonnements wird für den designierten Supportkontakt standardmäßig der indirekte Anbieter festgelegt. Sie können diese Angabe auch in einen indirekten Händler mit Delegationsadministratorberechtigungen (Delegation Admin Privileges, DAP) ändern.
     
-    *  If your reseller's name doesn't appear in the list of available support contacts, add them in by [requesting a relationship](request-a-relationship-with-a-customer.md). After the relationship is established, they should appear in the list.  
+    *  Wenn des Name Ihres Händlers nicht in der Liste der verfügbaren Supportkontakte angezeigt wird, fügen Sie ihn durch [Anfordern einer Beziehung](request-a-relationship-with-a-customer.md) hinzu. Nachdem die Beziehung eingerichtet ist, sollte er in der Liste angezeigt werden.  
 
-4.  Review that the changes are correct, and then select **Close**.
+4.  Überprüfen Sie, ob die Änderungen richtig sind, und wählen Sie dann **Schließen**.
 
 ## <a name="related-topics"></a>Verwandte Themen
 

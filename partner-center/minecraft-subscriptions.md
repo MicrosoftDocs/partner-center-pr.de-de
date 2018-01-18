@@ -3,11 +3,11 @@ title: "Abonnements für Minecraft: Education Edition für Bildungseinrichtungen
 description: "Abonnements für Minecraft: Education Edition für Bildungseinrichtungen verkaufen"
 author: KPacquer
 keywords: Autorisierte Education-Partner
-ms.openlocfilehash: e5d9b276e89e9a506948a4cb1f905d53fca57e25
-ms.sourcegitcommit: db945c0cf04f675c4cb71ae3dd1d1737d086e7e2
+ms.openlocfilehash: b719fb858abe5e171e4bf785fc2c4b3e4500d7c5
+ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/23/2017
+ms.lasthandoff: 12/02/2017
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Abonnements für Minecraft: Education Edition für Bildungseinrichtungen
 
@@ -20,15 +20,15 @@ Partner können Bildungseinrichtungen Abonnements für die **Minecraft: Educatio
 ## <a name="purchase-through-partner-center-portal"></a>Kauf über das Partner Center-Portal 
 Sie kaufen Minecraft: Education Edition für Ihre Education-Kunden über das Partner Center-Portal: 
 
-  1.  Erstellen oder wählen Sie im Partner Center ein Education-Kundenkonto oder wechseln Sie zur Registerkarte „Education”, wenn Sie ein neues Abonnement hinzufügen.  Wählen Sie das Minecraft: Education Edition-Abonnement und kaufen Sie die Anzahl der Lizenzen, die der Kunde benötigt. Das Minecraft: Education Edition-Abonnement wird in gleicher Weise angezeigt wie die anderen Education-Angebote, die CSP momentan bietet. Informationen zum Hinzufügen des Abonnements finden Sie unter [Erstellen eines neuen Abonnements](create-a-new-subscription.md). Diese Lizenzen werden im Partner Center angezeigt werden und auch im [Microsoft Store for Business](https://www.microsoft.com/business-store)-Bestand des Education-Kunden unter der [Minecraft-Detailseite](https://businessstore.microsoft.com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online) (sie müssen am Store für Unternehmen angemeldet sein, um die Details-Seite zu sehen). 
+  1.  Erstellen oder wählen Sie im Partner Center ein Education-Kundenkonto oder wechseln Sie zur Registerkarte „Education”, wenn Sie ein neues Abonnement hinzufügen.  Wählen Sie das Minecraft: Education Edition-Abonnement und kaufen Sie die Anzahl der Lizenzen, die der Kunde benötigt. Das Minecraft: Education Edition-Abonnement wird in gleicher Weise angezeigt wie die anderen Education-Angebote, die CSP momentan bietet. Informationen zum Hinzufügen des Abonnements finden Sie unter [Erstellen eines neuen Abonnements](create-a-new-subscription.md). Diese Lizenzen werden im Partner Center angezeigt und auch im [Microsoft Education Store](https://educationstore.microsoft.com/en-us/store)-Bestand des Education-Kunden auf der [Minecraft-Detailseite](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) (sie müssen im Education Store angemeldet sein, um die Details-Seite zu sehen). 
 
-  2.  Ihr Education-Kunde installieren die Minecraft-App, weist die App an andere Personen zu und lädt die App für die Verteilung über die [Minecraft Detailseite](https://businessstore.microsoft. com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online) im Microsoft Store für Unternehmen herunter. (Partner Center unterstützt derzeit keine dieser Aufgaben.)
+  2.  Ihr Education-Kunde installiert die Minecraft-App, weist die App anderen zu und lädt die App herunter, um sie über die [Minecraft-Detailseite](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) des Microsoft Education Store zu verteilen. 
 
       a. Falls noch nicht geschehen, wird der IT-Administrator der Bildungseinrichtung die Servicevereinbarung für den Microsoft Store für Unternehmen akzeptieren. 
 
-      b. Der Administrator wird die App von der [Minecraft-Detailseite](https://businessstore.microsoft.com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online) herunterladen und an die Benutzer verteilen. Weitere Informationen finden Sie unter [Für IT-Administratoren – Minecraft: Education Edition: Minecraft abrufen und verteilen](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft).
+      b. Der Administrator wird die App von der [Minecraft-Detailseite](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) herunterladen und an die Benutzer verteilen. Weitere Informationen finden Sie unter [Für IT-Administratoren – Minecraft: Education Edition: Minecraft abrufen und verteilen](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft).
     
-  Wenn der IT-Administrator der Bildungseinrichtung nicht mit dem Microsoft Store für Unternehmen vertraut ist, verweisen Sie ihn auf [Windows Store für Unternehmen (Übersicht)](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview). 
+  Wenn der IT-Administrator der Bildungseinrichtung nicht mit dem Microsoft Store für Unternehmen vertraut ist, verweisen Sie ihn auf die [Übersicht für den Microsoft Store für Unternehmen und den Microsoft Store für Bildungseinrichtungen](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview). 
 
 <!-- ## Purchase through Partner Center API 
 

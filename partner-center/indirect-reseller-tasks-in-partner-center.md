@@ -3,13 +3,14 @@ title: Zusammenarbeiten mit indirekten Anbietern in CSP | Partner Center
 description: "Als indirekter Vertriebspartner in CSP arbeiten Sie mit indirekten Anbietern (auch Distributoren genannt) zusammen, die eine direkte Beziehung mit Microsoft haben und Kundensupport sowie Abrechnungsleistungen erbringen können. Sie können bei Ihren ersten Schritten also von der Unterstützung durch einen erfahrenen Technologieanbieter profitieren. Im Rahmen des (zweistufigen) Anbieter-Vertriebspartner-Modells erwirbt der Anbieter Cloudlösungen und -dienste von Microsoft, die Sie dann an Kunden weiterverkaufen."
 ms.prod: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 1ee00b2fae46c49eaf7df2b0f2d6329231f2e4ab
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+keywords: "Indirekte Wiederverkäufer, Händler, indirekten Anbieter, Anbieter, Partnerschaft, VAR, Ebene2, Ebene 2"
+ms.openlocfilehash: b55b8c65a0d7e989bed494230101d905befeed50
+ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 11/28/2017
 ---
-# <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Zusammenarbeiten mit indirekten Anbietern im Programm für Cloud-Lösungsanbieter
+# <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Anbietern im Programm für Cloud Solution Provider
 
 Die rasant wachsende Nachfrage nach cloudbasierten Lösungen und Diensten bietet Microsoft-Partnern aller Größen zahlreiche Chancen für den Aufbau eines rentablen Cloudlösungsgeschäfts. Partner, die auf diesem Markt Fuß fassen möchten, die jedoch nicht mehrere Anbieter verwalten möchten, oder über keine End-to-End-Infrastruktur für die Kundenverwaltung verfügen, können sich beim Microsoft-Programm für Cloud-Lösungsanbieter (Cloud Solution Provider, CSP) als indirekter Vertriebspartner registrieren.
 
@@ -155,7 +156,7 @@ In der folgende Tabelle wird erläutert, welche Möglichkeiten Benutzer mit den 
 <li><p>Zugriff auf alle Microsoft-Konten/-Dienste mit allen Berechtigungen</p></li>
 <li><p>Supportanfragen für Partner Center erstellen</p></li>
 <li><p>Partnerbenutzer anzeigen, erstellen und verwalten</p></li>
-<li><p>Eine Partnerschaft Anforderung von einem indirekten Anbieter akzeptiert</p></li>
+<li><p>Eine Partnerschaftsanfrage von einem indirekten Anbieter akzeptieren</p></li>
 </ul></td>
 <td></td>
 </tr>
@@ -184,7 +185,7 @@ Wenn ein indirekter Anbieter im Partner Center mit Ihnen zusammenarbeiten möcht
 
 3.  Um die Zusammenarbeit mit dem Anbieter zu bestätigen, aktivieren Sie das Kontrollkästchen, und wählen Sie dann **Authorize indirect provider** aus. Der Anbieter wird nun bei Ihnen auf der Seite **Indirect providers** aufgeführt, und Ihr Unternehmen erscheint auf der Seite **Indirect resellers** des Anbieters.
 
-    >**Hinweis:** Wenn Sie eine Zusammenarbeit mit einem indirekten Anbieter einrichten, gestatten Sie ihm dadurch, im Namen Ihrer Kunden Aufträge zu übermitteln und Abonnements hinzuzufügen. Außerdem gewähren Sie ihm Administratorzugriff auf Ihren Azure AD-Mandanten.
+    >**Hinweis:** Wenn Sie eine Zusammenarbeit mit einem indirekten Anbieter einrichten, gestatten Sie ihm dadurch, im Namen Ihrer Kunden Aufträge zu übermitteln und Abonnements hinzuzufügen. Außerdem gewähren Sie ihm Administratorzugriff auf das Geschäftskonto Ihres Unternehmens. Nachdem Ihre Partnerschaft mit dem Anbieter eingerichtet wurde, können Sie den Administratorzugriff des Anbieters auf das Geschäftskonto im Office365-Portal entfernen. 
 
 4.  Wählen Sie im Menü **Dashboard** die Option **Indirect providers** aus, um eine Liste mit den Anbietern anzuzeigen, mit denen Sie zusammenarbeiten. 
 

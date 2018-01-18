@@ -3,11 +3,12 @@ title: "Neuen Kunden hinzufügen | Partner Center"
 description: "Damit Sie Abonnements verkaufen, die Abrechnung verwalten oder Support bereitstellen können, müssen Sie einen Datensatz für den Kunden in Partner Center erstellen. Dieser Datensatz enthält die Kontaktinformationen und eine AzureAD-Domäne."
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
-ms.openlocfilehash: c6bb20cdc2dbb7bc6c3a04bb8c01b5cfe685dfe4
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+keywords: "Kunden, Kunden hinzufügen, Kundenkonto, Kundenkonto im Partner Center, Hinzufügen von Kunden, Kundenkonto erstellen"
+ms.openlocfilehash: 222fe2acb5abd09061b83a8ee67540666413d04d
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 12/08/2017
 ---
 # <a name="add-a-new-customer"></a>Neuen Kunden hinzufügen
 

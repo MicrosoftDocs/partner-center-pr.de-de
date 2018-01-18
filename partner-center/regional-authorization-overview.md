@@ -1,32 +1,33 @@
 ---
-title: CSP regional authorization | Partner Center
-description: With regional authorization, partners with international businesses can now more easily manage customers in different regions and countries around the world.
+title: Regionale CSP-Autorisierung | Partner Center
+description: "Mithilfe der regionalen Autorisierung können international tätige Partner jetzt Kunden in verschiedenen Regionen und Ländern auf der ganzen Welt einfacher verwalten."
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-ms.openlocfilehash: b1875f5a814a2432a757dc5619b408041659eb26
-ms.sourcegitcommit: c11d72ccf5c92c12eb8ba50fccf85820c4112198
+keywords: "Azure AD-Mandanten, Mandanten konsolidieren, Mandantenstrategie, Mandanten in CSP, Partnerkonten in CSP, CSP-Märkte und -Gebiete, wo ich über CSP verkaufen?"
+ms.openlocfilehash: 096f8421a9ccb95c00c79929124ed3c9adaf6933
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2017
+ms.lasthandoff: 12/08/2017
 ---
-# <a name="csp-regional-authorization"></a>CSP regional authorization
+# <a name="tenant-consolidation-strategies-in-csp"></a>Mandanten-Konsolidierungsstrategien in CSP
 
 
-\[Some information relates to pre-released product which may be substantially modified before it's commercially released. Microsoft makes no warranties, express or implied, with respect to the information provided here.\]
+\[Einige Informationen beziehen sich auf die Vorabversion, die vor der kommerziellen Freigabe möglicherweise wesentlichen Änderungen unterliegt. Microsoft übernimmt für die hier bereitgestellten Informationen keine Garantien, weder ausdrücklicher noch impliziter Art.\]
 
-With regional authorization, partners with international businesses can now more easily manage customers in different regions and countries around the world. This reduces the number of tenants that partners need to manage, reduces the billing dates that partners have to handle, and gives partners a more consolidated view of their sales.
+Mithilfe der regionalen Autorisierung können international tätige Partner jetzt Kunden in verschiedenen Regionen und Ländern auf der ganzen Welt einfacher verwalten. Dies reduziert die Anzahl von Mandanten, die von Partnern verwaltet werden müssen, sowie die Abrechnungsdaten, die von Partnern verarbeitet werden müssen. Darüber hinaus erhalten Partner eine stärker konsolidierte Sicht auf ihre Verkäufe.
 
-In the past, with the exception of the European Union/EFTA, partners needed to have a physical entity in each country where they wanted to transact. This meant that partners needed to have multiple tenants set up in Partner Center, with multiple billing dates and other settings. In regions such as Latin America, partners were not able to easily work with customers in a neighboring region or country, and in some cases, they were restricted completely.
+In der Vergangenheit mussten Partner in jedem Land physisch präsent sein, in dem sie Transaktionen durchführen wollten, mit Ausnahme der Europäischen Union/EFTA. Das bedeutete, dass Partner mehrere Mandanten mit unterschiedlichen Abrechnungsdaten und weiteren unterschiedlichen Einstellungen in Partner Center einrichten mussten. In Regionen wie Lateinamerika konnten Partner nicht problemlos mit Kunden aus einer benachbarten Region oder einem benachbarten Land arbeiten. In einigen Fällen war dies völlig unmöglich.
 
->**Note**<br> If you are enrolled in [CSP for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) and you sell to customers in the EU and EFTA countries/regions, you cannot consolidate your tenant for Partner Center for Microsoft Cloud Germany with your other tenants.  
+>**Hinweis**<br> Wenn Sie für [CSP für Microsoft-Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md) registriert sind und Sie an Kunden in EU- und EFTA-Ländern/Regionen verkaufen, können Sie die Mandanten für Partner Center für Microsoft-Cloud Deutschland nicht mit Ihren anderen Mandanten konsolidieren.  
 
-## <a name="planning"></a>Planning
+## <a name="planning"></a>Planen
 
-Partners have multiple options for consolidating their regional tenants, as outlined below.
+Partner haben mehrere Optionen für die Konsolidierung ihrer regionalen Mandanten. Diese werden im Folgenden beschrieben.
 
-### <a name="separate-tenants-for-single-regions-or-countries"></a>Separate tenants for single regions or countries
+### <a name="separate-tenants-for-single-regions-or-countries"></a>Getrennte Mandanten für die einzelnen Regionen oder Länder
 
-Tenant consolidation is optional. Partners can continue to manage their international customers with separate tenants, as shown in the following table.
+Die Mandantenkonsolidierung ist optional. Partner können internationale Kunden weiterhin über getrennte Mandanten verwalten, wie in der folgenden Tabelle gezeigt.
 
 <table>
 <colgroup>
@@ -36,30 +37,30 @@ Tenant consolidation is optional. Partners can continue to manage their internat
 </colgroup>
 <thead>
 <tr class="header">
-<th>Partner location(s)</th>
-<th>Billing Date(s)</th>
-<th>Customer location(s)</th>
+<th>Partnerstandort(e)</th>
+<th>Abrechnungsdatum/-daten</th>
+<th>Kundenstandort(e)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Colombia</p></td>
-<td><p>Billing date 10th</p></td>
-<td><p>Colombia</p></td>
+<td><p>Kolumbien</p></td>
+<td><p>Abrechnungsdatum: 10. des Monats</p></td>
+<td><p>Kolumbien</p></td>
 </tr>
 <tr class="even">
 <td><p>Chile</p></td>
-<td><p>Billing date 15th</p></td>
+<td><p>Abrechnungsdatum: 15. des Monats</p></td>
 <td><p>Chile</p></td>
 </tr>
 <tr class="odd">
 <td><p>Paraguay</p></td>
-<td><p>Billing date 5th</p></td>
+<td><p>Abrechnungsdatum: 5. des Monats</p></td>
 <td><p>Paraguay</p></td>
 </tr>
 <tr class="even">
 <td><p>Peru</p></td>
-<td><p>Billing date 2nd</p></td>
+<td><p>Abrechnungsdatum: 2. des Monats</p></td>
 <td><p>Peru</p></td>
 </tr>
 </tbody>
@@ -67,10 +68,10 @@ Tenant consolidation is optional. Partners can continue to manage their internat
 
  
 
-## <a name="one-tenant-for-multiple-regions-or-countries"></a>One tenant for multiple regions or countries
+## <a name="one-tenant-for-multiple-regions-or-countries"></a>Ein einziger Mandant für mehrere Regionen oder Länder
 
 
-Partners can choose to consolidate their operations from multiple CSP tenants to a single CSP tenant.
+Partner können ihre Vorgänge aus mehreren CSP-Mandanten in einem einzigen CSP-Mandanten konsolidieren.
 
 <table>
 <colgroup>
@@ -80,16 +81,16 @@ Partners can choose to consolidate their operations from multiple CSP tenants to
 </colgroup>
 <thead>
 <tr class="header">
-<th>Partner location</th>
-<th>Billing Date</th>
-<th>Customer location(s)</th>
+<th>Partnerstandort</th>
+<th>Abrechnungsdatum</th>
+<th>Kundenstandort(e)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Colombia</p></td>
-<td><p>Billing date 10th</p></td>
-<td><p>Colombia</p>
+<td><p>Kolumbien</p></td>
+<td><p>Abrechnungsdatum: 10. des Monats</p></td>
+<td><p>Kolumbien</p>
 <p>Chile</p>
 <p>Paraguay</p>
 <p>Peru</p></td>
@@ -99,10 +100,10 @@ Partners can choose to consolidate their operations from multiple CSP tenants to
 
  
 
-## <a name="some-tenants-for-some-regions-or-countries"></a>Some tenants for some regions or countries
+## <a name="some-tenants-for-some-regions-or-countries"></a>Einige Mandanten für einige Regionen oder Länder
 
 
-Partners can choose to consolidate their operations from multiple CSP tenants to fewer CSP tenants.
+Partner können ihre Vorgänge aus mehreren CSP-Mandanten auf eine kleinere Zahl von CSP-Mandanten konsolidieren.
 
 <table>
 <colgroup>
@@ -112,21 +113,21 @@ Partners can choose to consolidate their operations from multiple CSP tenants to
 </colgroup>
 <thead>
 <tr class="header">
-<th>Partner location(s)</th>
-<th>Billing Date(s)</th>
-<th>Customer location(s)</th>
+<th>Partnerstandort(e)</th>
+<th>Abrechnungsdatum/-daten</th>
+<th>Kundenstandort(e)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Colombia</p></td>
-<td><p>Billing date 10th</p></td>
-<td><p>Colombia</p>
+<td><p>Kolumbien</p></td>
+<td><p>Abrechnungsdatum: 10. des Monats</p></td>
+<td><p>Kolumbien</p>
 <p>Chile</p></td>
 </tr>
 <tr class="even">
 <td><p>Paraguay</p></td>
-<td><p>Billing date 5th</p></td>
+<td><p>Abrechnungsdatum: 5. des Monats</p></td>
 <td><p>Paraguay</p>
 <p>Peru</p></td>
 </tr>
@@ -135,75 +136,75 @@ Partners can choose to consolidate their operations from multiple CSP tenants to
 
  
 
-## <a name="consolidating-tenants"></a>Consolidating tenants
+## <a name="consolidating-tenants"></a>Konsolidieren von Mandanten
 
 
-If you want to consolidate tenants, we recommend the following:
+Wenn Sie Mandanten konsolidieren möchten, empfehlen wir Folgendes:
 
--   **Multiple regions/countries but only one transacting**. If you are only transacting in one country/region, but have a number of other tenants set up, use the transacting tenant as your new centralized tenant for that region and cancel your other tenants.
+-   **Mehrere Regionen/Länder, Transaktionen jedoch nur in einem Land/einer Region**. Wenn Sie Transaktionen nur in einem Land/einer Region durchführen, jedoch eine Reihe weiterer Mandanten eingerichtet haben, verwenden Sie den Mandanten, über den Sie Transaktionen durchführen, als neuen zentralen Mandanten für dieses Land/diese Region und stornieren die übrigen Mandanten.
 
--   **Multiple countries/regions but only one Transacting.** If you are transacting in a number of countries/regions, we recommend that you centralize to the tenant with the largest number of seats. You should cancel the subscriptions in the countries/regions where you have smaller amounts of seats.
-
-
-## <a name="countryregion-information"></a>Country/region information
+-   **Mehrere Länder/Regionen, Transaktionen jedoch nur in einem Land/einer Region.** Wenn Sie Transaktionen in einer Reihe von Ländern/Regionen durchführen, empfehlen wir eine Konsolidierung auf den Mandanten mit der größten Zahl von Lizenzen. Sie sollten die Abonnements in den Ländern/Regionen stornieren, in denen Sie kleinere Mengen an Lizenzen verwalten.
 
 
-Consider the following before beginning consolidating tenants:
+## <a name="countryregion-information"></a>Informationen zu Ländern/Regionen
 
--   **If your Microsoft sell-to location is the United States**, your Territory includes customers located in the United States.
 
--   **If your Microsoft sell-to location is Canada**, your Territory includes customers located in Canada.
+Berücksichtigen Sie vor der Konsolidierung von Mandanten die folgenden Punkte:
 
--   **If your Microsoft sell-to location is Brazil**, your Territory includes customers located in Brazil.
+-   **Wenn Ihr Microsoft-Verkaufsstandort die Vereinigten Staaten sind**, umfasst Ihr Gebiet Kunden in den Vereinigten Staaten.
+
+-   **Wenn Ihr Microsoft-Verkaufsstandort Kanada ist**, umfasst Ihr Gebiet Kunden in Kanada.
+
+-   **Wenn Ihr Microsoft-Verkaufsstandort Brasilien ist**, umfasst Ihr Gebiet Kunden in Brasilien.
 
 -   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Anguilla, Antigua und Barbuda, Argentinien, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivien, Bonaire, Saba, St. Eustatius, Kaimaninseln, Chile, Kolumbien, Costa Rica, Curacao, Dominikanische Republik, Ecuador, El Salvador, Französisch-Guayana, Guadeloupe, Guatemala, Honduras, Jamaika, Martinique, Mexiko, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, St. Kitts und Nevis, St. Lucia, St. Martin, St. Vincent und die Grenadinen, Sint Maarten, Suriname, Trinidad und Tobago, Turks- und Caicosinseln, Uruguay, Venezuela, Amerikanische Jungferninseln.
 
--   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Greece, Greenland, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Latvia, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Mali, Malta, Mayotte, Monaco, Netherlands, New Caledonia, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, United Kingdom, Vatican City.
+-   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Andorra, Österreich, Belgien, Bulgarien, Kroatien, Zypern, Tschechische Republik, Dänemark, Estland, Färöer, Finnland, Frankreich, Deutschland, Griechenland, Grönland, Ungarn, Island, Irland, Isle of Man, Italien, Jersey, Lettland, Liechtenstein, Litauen, Luxemburg, Madagaskar, Malawi, Mali, Malta, Mayotte, Monaco, Niederlande, Neukaledonien, Norwegen, Polen, Portugal, Rumänien, San Marino, Slowakei, Slowenien, Spanien, Schweden, Schweiz, Vereinigtes Königreich, Vatikanstadt.
 
-    >**Note**<br> If you are enrolled in [CSP for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) and you sell to customers in the EU and EFTA countries/regions, you cannot consolidate your tenant for Partner Center for Microsoft Cloud Germany with your other tenants.  
+    >**Hinweis**<br> Wenn Sie für [CSP für Microsoft-Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md) registriert sind und Sie an Kunden in EU- und EFTA-Ländern/Regionen verkaufen, können Sie die Mandanten für Partner Center für Microsoft-Cloud Deutschland nicht mit Ihren anderen Mandanten konsolidieren.  
 
 
--   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Afghanistan, Albania, Algeria, Armenia, Azerbaijan, Bahrain, Belarus, Benin, Bosnia and Herzegovina, Burundi, Comoros, Egypt, French Polynesia, Georgia, Iraq, Israel, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Libya, Republic of Macedonia (FYROM), Moldova, Mongolia, Montenegro, Morocco, Mozambique, Oman, Pakistan, Palestinian Authority, Qatar, Reunion, Saudi Arabia, Serbia, Seychelles, South Africa, Tajikistan, Togo, Tunisia, Turkey, Turkmenistan, Ukraine, United Arab Emirates, Uzbekistan, Yemen, Zimbabwe.
+-   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Afghanistan, Albanien, Algerien, Armenien, Aserbeidschan, Bahrain, Belarus, Benin, Bosnien und Herzegowina, Burundi, Komoren, Ägypten, Französisch-Polynesien, Georgien, Irak, Israel, Jordanien, Kasachstan, Kuwait, Kirgisistan, Libanon, Libyen, Republik Mazedonien (Ehemalige jugoslawische Republik Mazedonien), Republik Moldau, Mongolei, Montenegro, Marokko, Mosambik, Oman, Pakistan, Palästinensische Behörde, Katar, Réunion, Saudi-Arabien, Serbien, Seychellen, Südafrika, Tadschikistan, Togo, Tunesien, Türkei, Turkmenistan, Ukraine, Vereinigte Arabische Emirate, Usbekistan, Jemen, Simbabwe.
 
--   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Angola, Botswana, Cameroon, Cabo Verde, Côte d'Ivoire, Ethiopia, Ghana, Kenya, Mauritius, Namibia, Nigeria, Rwanda, Senegal, Tanzania, Uganda, Zambia.
+-   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Äthiopien, Angola, Botsuana, Cabo Verde, Elfenbeinküste, Ghana, Kamerun, Kenia, Mauritius, Namibia, Nigeria, Ruanda, Sambia, Senegal, Tansania, Uganda.
 
--   **If your Microsoft sell-to location is Russia**, your Territory includes customers located in Russia.
+-   **Wenn Ihr Microsoft-Verkaufsstandort Russland ist**, umfasst Ihr Gebiet Kunden in Russland.
 
--   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Bangladesh, Bhutan, Brunei Darussalam, Cambodia, Hong Kong SAR, Indonesia, Laos, Macao SAR, Malaysia, Maldives, Marshall Islands, Myanmar, Nepal, Papua New Guinea, Philippines, Singapore, Sri Lanka, Thailand, Timor-Leste, Tonga, Vietnam.
+-   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Bangladesch, Bhutan, Brunei Darussalam, Kambodscha, Hongkong (SAR), Indonesien, Laos, Macau SAR, Malaysia, Malediven, Marshallinseln, Myanmar, Nepal, Papua-Neuguinea, Philippinen, Singapur, Sri Lanka, Thailand, Timor-Leste, Tonga, Vietnam.
 
--   **If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Australia or Fiji.
+-   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Australien oder Fidschi.
 
--   **If your Microsoft sell-to location is New Zealand**, your Territory includes customers located in New Zealand.
+-   **Wenn Ihr Microsoft-Verkaufsstandort Neuseeland ist**, umfasst Ihr Gebiet Kunden in Neuseeland.
 
--   **If your Microsoft sell-to location is India**, your Territory includes customers located in India.
+-   **Wenn Ihr Microsoft-Verkaufsstandort Indien ist**, umfasst Ihr Gebiet Kunden in Indien.
 
--   **If your Microsoft sell-to location is Japan**, your Territory includes customers located in Japan.
+-   **Wenn Ihr Microsoft-Verkaufsstandort Japan ist**, umfasst Ihr Gebiet Kunden in Japan.
 
--   **If your Microsoft sell-to location is Korea**, your Territory includes customers located in Korea.
+-   **Wenn Ihr Microsoft-Verkaufsstandort Korea ist**, umfasst Ihr Gebiet Kunden in Korea.
 
--   **If your Microsoft sell-to location is Taiwan**, your Territory includes customers located in Taiwan.
+-   **Wenn Ihr Microsoft-Verkaufsstandort Taiwan ist**, umfasst Ihr Gebiet Kunden in Taiwan.
 
-## <a name="billing-currencies-by-country"></a>Billing currencies by country
+## <a name="billing-currencies-by-country"></a>Abrechnungswährungen nach Land
 
-Your geographic location determines the currency in which you are billed, as shown in the following table. Note that due to tax and legal implications, if you want to use a different billing currency, you'll need to create a new tenant and specify that currency. 
+Ihr geografischer Standort bestimmt die Währung, in der Ihre Rechnungen gestellt werden, wie in der folgenden Tabelle gezeigt. Hinweis: Wenn Sie eine andere Abrechnungswährung verwenden möchten, müssen Sie aufgrund von steuerlichen und rechtlichen Auswirkungen einen neuen Mandanten erstellen und diese Währung angeben. 
 
-| Currency | Country |
+| Währung | Land |
 | ---- | ---- |
 | USD | Albanien, Anguilla, Antigua und Barbuda, Argentinien, Armenien, Aruba, Aserbeidschan, Bahamas, Bahrain, Bangladesch, Barbados, Belarus, Belize, Benin, Bermuda, Bolivien, Bonaire, Saba, St. Eustatius, Brasilien, Brunei Darussalam, Burundi, Kamerun, Kaimaninseln, Chile, Kolumbien, Komoren, Costa Rica, Curaçao, Dominikanische Republik, Ecuador, Ägypten, El Salvador, Fidschi, Französisch-Guayana, Französisch-Polynesien, Georgien, Ghana, Guatemala, Honduras, Hongkong (SAR), Indonesien, Irak, Israel, Jamaika, Kasachstan, Kenia, Kuwait, Kirgisistan, Libanon, Macau SAR, Madagaskar, Malawi, Malaysia, Mali, Mauritius, Mayotte, Mexiko, Marokko, Namibia, Neukaledonien, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Peru, Philippinen, Puerto Rico, Katar, Réunion, Ruanda, St. Lucia, St. Martin, St. Vincent und die Grenadinen, Saudi-Arabien, Serbien, Seychellen, Singapur, Sint Maarten, Südafrika, Sri Lanka, Suriname, Tansania, Thailand, Timor-Leste, Togo, Trinidad und Tobago, Tunesien, Türkei, Turks- und Caicosinseln, Amerikanische Jungferninseln, Ukraine, Vereinigte Arabische Emirate, Vereinigte Staaten, Uruguay, Venezuela, Vietnam  | 
 | TWD | Taiwan |
-| SEK | Sweden |
-| INR | India |
-| RUB | Russia |
-| NZD | New Zealand |
-| NOK | Norway |
-| KRW | Korea |
+| SEK | Schweden |
+| INR | Indien |
+| RUB | Russland |
+| NZD | Neuseeland |
+| NOK | Norwegen |
+| KRW | Südkorea |
 | JPY | Japan |
-| GBP | Isle of Man, Jersey, United Kingdom |
-| EUR | Andorra, Austria, Belgium, Croatia, Czech Republic, Estonia, Faroe Islands, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg/Belgium, Netherlands, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain |
-| DKK | Denmark |
-| CHF | Switzerland |
-| CAD | Canada |
-| AUD | Australia, Fiji, Marshall Islands, Papua New Guinea, Tonga |
+| GBP | Isle Of Man, Jersey, Vereinigtes Königreich |
+| EUR | Andorra, Österreich, Belgien, Kroatien, Tschechische Republik, Estland, Färöer, Finnland, Frankreich, Deutschland, Griechenland, Ungarn, Island, Irland, Italien, Lettland, Liechtenstein, Litauen, Luxemburg/Belgien, Niederlande, Polen, Portugal, Rumänien, San Marino, Slowakei, Slowenien, Spanien |
+| DKK | Dänemark |
+| CHF | Schweiz |
+| CAD | Kanada |
+| AUD | Australien, Fidschi, Marshallinseln, Papua-Neuguinea, Tonga |
 
 
  

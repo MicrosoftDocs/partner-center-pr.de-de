@@ -1,28 +1,29 @@
 ---
-title: Change your temporary password | Partner Center
-description: As soon as you get your temporary password, log on to Partner Center and change it.
+title: "Ändern des temporären Kennworts | Partner Center"
+description: "Sobald Sie das temporäre Kennwort erhalten haben, melden Sie sich bei Partner Center an, und ändern Sie es."
 author: labrenne
-ms.openlocfilehash: 8d9fb0c2bc1982b34e6a818a95915542f9005fcf
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+Keywords: temporary password, change password, reset password
+ms.openlocfilehash: 51ec7c393357c8e349e725fb6276cdc0469af757
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 12/21/2017
 ---
-# <a name="change-your-temporary-password"></a>Change your temporary password
+# <a name="change-your-temporary-password"></a>Ändern des temporären Kennworts
 
-**Applies to**
+**Betrifft:**
 
 -  Partner Center
 
-Log on to Partner Center and change your temporary password.
+Melden Sie sich bei Partner Center an, und ändern Sie das temporäre Kennwort.
 
-As soon as you receive your temporary password from the global admin, log on to Partner Center and change it. If you are an incentives admin, doing so will permit you to complete the migration of your organization’s incentive enrollment. If you are an incentives user, you will then be able to access all your incentives data.
+Sobald Sie vom globalen Administrator das temporäre Kennwort erhalten haben, melden Sie sich bei Partner Center an und ändern Sie es. Wenn Sie ein Anreizadministrator sind, ermöglicht dies den Abschluss der Migration der Anreizregistrierung Ihrer Organisation. Wenn Sie einen Anreizbenutzer sind, können Sie dann auf alle Ihre Anreizdaten zugreifen.
 
 1.  Melden Sie sich auf dem **Dashboard** mit der neuen Benutzer-ID und dem temporären Kennwort an.
 
-2.  When you log in to Partner Center for the first time, you will be prompted to change your password.
+2.  Wenn Sie sich zum ersten Mal bei Partner Center anmelden, werden Sie aufgefordert, Ihr Kennwort zu ändern.
 
-If you lose your password, your global admin will need to go to  **Account settings** >**User management** to create a new temporary password for you.
+Wenn Sie Ihr Kennwort vergessen haben, muss der globale Administrator unter **Kontoeinstellungen** >**Benutzerverwaltung** ein neues temporäres Kennwort für Sie erstellen.
 Weitere Informationen finden Sie unter [Zurücksetzen von Benutzerkennwörtern](reset-a-user-password.md).
 
 

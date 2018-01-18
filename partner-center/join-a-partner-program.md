@@ -2,11 +2,11 @@
 title: Beitreten zum Microsoft Partner Network | Partner Center
 description: Erwerben Sie das Microsoft Action Pack und verdienen Sie Kompetenzen im Partner Center
 author: labrenne
-ms.openlocfilehash: 7ac5c9fc7b66adf7796c23e97be994bffd751799
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: cf9ac91a4d8ad7a642863693c5db2193e12f25d9
+ms.sourcegitcommit: eca4ff8ce011fb5c687b333e5d08d085df2f5dcb
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/12/2017
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Microsoft Partner Network beitreten (MPN)
 
@@ -19,7 +19,9 @@ ms.lasthandoff: 11/22/2017
 
  Durch die Partnerschaft mit Microsoft erhalten Sie Zugriff auf neue Möglichkeiten zum Transformieren Ihres Unternehmens. Im Partner Center können Sie das Microsoft Action Pack erwerben und erneuern. Sie haben einen einfachen Zugriff auf Informationen über Kompetenzen und wie Sie diese erreichen können
 
-## <a name="get-your-mpn-id"></a>Erhalten der MPN-ID
+ Wir werden Partner nach und nach zum Zeitpunkt ihres MAPS- oder Kompetenz-Startdatums dazu einladen, ihre Mitgliedschaft im Partner Center zu verwalten, oder dann, wenn wichtige und für den Partner nützliche Funktionen im Partner-Center verfügbar sind.  Bis Sie eine Einladung zum Umzug erhalten, sollten Sie Ihre Mitgliedschaft im Partner Membership Center (PMC) erneuern und verwalten.
+
+## <a name="get-your-mpn-id"></a>MPN-ID abrufen
 
 Um Geschäfte als Microsoft-Partner zu tätigen, benötigen Sie eine MPN-ID-Nummer. Dies zeigt, dass Sie offiziell von Microsoft im Microsoft Partner Network registriert wurden. Verwenden Sie ebenfalls Ihre MPN-ID, um sich für das Programm für Cloud-Lösungsanbieter und andere Partnerprogramme zu registrieren.  
 

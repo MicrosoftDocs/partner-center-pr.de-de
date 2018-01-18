@@ -1,13 +1,14 @@
 ---
 title: Erstellen eines Unternehmensprofils | Partner Center
-description: Gewinnen Sie mehr potenzielle Kunden, indem Sie ein Unternehmensprofil in Partner Center erstellen.
+description: Erstellen Sie ein Unternehmensprofil in Partner Center, um Vertriebskontakte von Microsoft zu erhalten.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: edcecf3372453e17d85017a93a258919e29d6608
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+keywords: "Pinpoint, Empfehlungen, Vertriebskontakte, C2PC, Unternehmensprofil, Unternehmen vermarkten, Partner finden, Lösungsanbieter finden, Unternehmensprofil, Marketingprofil"
+ms.openlocfilehash: e4e663d5c148f72f7ad352e21c4178a95e044c5f
+ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 11/28/2017
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -18,25 +19,30 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
  -->
 
 
-# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Erstellen eines Unternehmensprofils um Vertriebskontakte von Microsoft zu erhalten
+# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Erstellen eines Unternehmensprofils, um Vertriebskontakte von Microsoft zu erhalten
 
 **Betrifft**
 
 -  Partner Center
+-  Partner im Microsoft Partner Network
+-  Partner im Programm für Cloud Solution Provider
 
 Als qualifizierter Microsoft-Partner können Sie ein Unternehmensprofil erstellen, um Ihr Unternehmen für Kunden zu präsentieren, die nach Ihren einzigartigen Lösungen und Kenntnissen für ihre geschäftlichen Anforderungen suchen.
 
-Microsoft interagiert jedes Jahr über Marketing, Vertrieb und Services mit Millionen von Kunden. Die meisten dieser Interaktionen schaffen Möglichkeiten für uns, unseren Partnern Empfehlungen in Form von Vertriebsleads bereitzustellen. 
+Microsoft vermittelt jedes Jahr Millionen von Kunden durch Marketing-, Vertriebs- und Servicemaßnahmen. Die meisten dieser Interaktionen schaffen Möglichkeiten für uns, unseren Partnern Empfehlungen in Form von Vertriebsleads bereitzustellen. 
 
-Erstellen Sie zunächst ein Unternehmensprofil, um von diesen Leads zu profitieren. Wir zeigen Ihr Profil Kunden, die Partner suchen, die ihnen beim Implementieren von Microsoft-Produkten und -Lösungen helfen können, und zwar über:
+Erstellen Sie zunächst ein Unternehmensprofil, um von diesen Leads zu profitieren. Wir zeigen Ihr Profil allen Kunden, die Partner suchen, die beim Implementieren von Microsoft-Produkten und -Lösungen helfen können, und zwar über:
 
-*  **Die Suchfunktion [Partner suchen](https://partnercenter.microsoft.com/pcv/search)**. Potenzielle Kunden können selbst Partnereinträge durchsuchen, um Partner ausfindig zu machen die ihren Suchkriterien entsprechen.
+*  **Die Suchfunktion [Partner suchen](https://partnercenter.microsoft.com/pcv/search)**. Potenzielle Kunden können selbst Partnereinträge durchsuchen, um Partner ausfindig zu machen, die ihren Suchkriterien entsprechen.
 
 *  **Empfehlungen von Vertriebs- und Servicemitarbeitern von Microsoft**. Potenzielle Kunden, die an der Bereitstellung cloudbasierter Technologielösungen interessiert sind, kontaktieren Microsoft, um Hilfe bei der Suche von Experten zu erhalten, die ihre geschäftlichen Anforderungen erfüllen können. Diese Microsoft-Experten können dann potenzielle Kunden für Ihr Unternehmen empfehlen.
 
-**Pinpoint und C2PC**: Diese Tools werden in Partner Center zusammengeführt. Wenn Sie diese Tools in der Vergangenheit verwendet haben, erstellen Sie ein neues Unternehmensprofil in Partner Center, um weiterhin Ihre Vertriebsleads zu generieren und zu verwalten. Beachten Sie, dass das Importieren von Profilen aus der vorherigen Websites derzeit nicht unterstützt wird. 
+>**Wichtig**<br>
+Um unseren Partnern zu helfen, ihre Geschäftsabläufe zu optimieren, fassen wir Features und Funktionen, die früher auf verschiedene Tools und Websites im Partner Center verteilt waren, auf dieser Website zusammen. Gleichzeitig haben wir alle auf Empfehlungen bezogene Funktionen ins Partner Center verschoben und die Sites Pinpoint und C2PC eingestellt. Wenn Sie bisher Pinpoint oder C2PC verwendet haben, um Empfehlungen von Microsoft zu erhalten und zu verwalten, müssen Sie ein neues Unternehmensprofil im Partner Center erstellen, um weiterhin Empfehlungen zu erhalten. Das Importieren von Profilen von diesen Sites wird nicht mehr unterstützt. 
 
 ## <a name="create-a-profile"></a>Erstellen eines Profils
+
+>**Hinweis:** Um ein Unternehmensprofil erstellen zu können, benötigen Sie ein Partner Center-Konto. Unter [Erstellen eines Partner Center-Kontos](mpn-create-a-partner-center-account.md) finden Sie eine entsprechende Anleitung. 
 
 Erstellen Sie Profile für jede Region, in der Sie berechtigt sind, Geschäfte zu tätigen. 
 
@@ -44,9 +50,9 @@ Erstellen Sie Profile für jede Region, in der Sie berechtigt sind, Geschäfte z
 
 2.  Wählen Sie im Menü **Dashboard** die Optionen **Empfehlungen** &gt; **Unternehmensprofil anzeigen** &gt; Land/Region auswählen > **[Unternehmensprofil erstellen](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-3.  Wählen Sie auf der Seite **Erstellen eines Unternehmensprofils** eine Region aus, und geben Sie Ihre Profilinformationen, einschließlich Partnerinformationen und Erfahrung, ein.
+3.  Wählen Sie auf der Seite **Erstellen eines Unternehmensprofils** eine Region aus, und geben Sie Ihre Profilinformationen ein.
     
-    Hinweis: Partner Center unterstützt zwar mehrere Sprachen, einige Elemente wie die Beschreibung und frei formulierte Tags müssen jedoch vielleicht Text aus anderen Sprachen beinhalten, wie in diesem Thema angegeben.
+    >**Hinweis:** Partner Center unterstützt zwar mehrere Sprachen, einige Elemente wie die Beschreibung und frei formulierte Tags müssen jedoch vielleicht Text aus anderen Sprachen beinhalten, wie in diesem Thema angegeben.
 
 ### <a href="" id="partner_info"></a>Partnerinformationen
 

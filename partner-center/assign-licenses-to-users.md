@@ -1,17 +1,18 @@
 ---
-title: User management tasks for customer accounts | Partner Center
-description: After you buy a new subscription for a customer, you can assign licenses to specific users.
+title: "Benutzerverwaltungsaufgaben für Kundenkonten | Partner Center"
+description: "Nach dem Kauf eines neuen Abonnements für einen Kunden können Sie bestimmten Benutzern Lizenzen zuweisen."
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
-ms.openlocfilehash: 9bd854b4abd8c916e98cc0e771c711e40a9d71ff
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
+ms.openlocfilehash: e1ac2234dfb0b6da431fe79c00dee4653b48a12a
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 12/21/2017
 ---
-# <a name="user-management-tasks-for-customer-accounts"></a>User management tasks for customer accounts
+# <a name="user-management-tasks-for-customer-accounts"></a>Benutzerverwaltungsaufgaben für Kundenkonten
 
-**Applies to**
+**Betrifft**
 
 -  Partner Center
 
@@ -45,7 +46,7 @@ Können [Abonnements gleichzeitig für mehrere Benutzer zuweisen](bulk-license-p
 
 2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**.
 
-3.  Wählen Sie einen oder mehrere Benutzer aus der Liste aus. If, for example, the customer just purchased new licenses and you wanted to assign them to people who don't have them yet, you can use the **Filter users by...** option to find the right group.
+3.  Wählen Sie einen oder mehrere Benutzer aus der Liste aus. Wenn der Kunde beispielsweise gerade neue Lizenzen erworben hat und Sie diese den Personen zuweisen möchten, die noch keine Lizenzen besitzen, können Sie mit der Option **Benutzer filtern nach…** die richtige Gruppe finden.
 
 4.  Wählen Sie **Lizenzen verwalten**. Nehmen Sie Ihre Änderungen vor, und wählen Sie anschließend **Speichern**.
 
@@ -63,9 +64,9 @@ Können [Abonnements gleichzeitig für mehrere Benutzer zuweisen](bulk-license-p
 <a href="" id="deleteuseraccounts"></a>
 **Löschen von Benutzerkonten für einen Kunden**
 
-1.  Wählen Sie im **Dashboard**-Menü **Kunden**. Choose the customer from the list.
+1.  Wählen Sie im **Dashboard**-Menü **Kunden**. Wählen Sie den Kunden aus der Liste aus.
 
-2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**. Choose the user from the list.
+2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**. Wählen Sie den Benutzer aus der Liste aus.
 
 3.  Wählen Sie am unteren Bildschirmrand **Benutzerkonto löschen**.
 
@@ -78,7 +79,7 @@ Wenn Sie dieses Konto innerhalb von 30Tagen wiederherstellen müssen, finden Sie
 
 2.  Wählen Sie **Benutzer und Lizenzen**.
 
-3.  Wählen Sie die Registerkarte **Gelöschte Benutzer**. Sie sollte **(1)** oder mehr anzeigen, wenn gelöschten Benutzer vorhanden sind, die wiederhergestellt werden können.
+3.  Wählen Sie die Registerkarte **Gelöschte Benutzer ( )**. Sie sollte mindestens **(1)** anzeigen, wenn gelöschte Benutzer vorhanden sind, die wiederhergestellt werden können.
 
 4.  Aktivieren Sie das Kontrollkästchen von mindestens einem gelöschten Benutzer, und wählen Sie **Wiederherstellen**.
 
@@ -87,9 +88,9 @@ Wenn Sie dieses Konto innerhalb von 30Tagen wiederherstellen müssen, finden Sie
 ## <a name="related-topics"></a>Verwandte Themen
 
 
-[Assign or revoke licenses to multiple users](bulk-license-provisioning-for-multiple-users.md)
+[Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer](bulk-license-provisioning-for-multiple-users.md)
 
-[Create multiple users for a customer account](adding-multiple-users-to-a-customer-account.md)
+[Erstellen mehrerer Benutzer für ein Kundenkonto](adding-multiple-users-to-a-customer-account.md)
 
  
 

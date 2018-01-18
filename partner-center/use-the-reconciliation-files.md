@@ -3,11 +3,11 @@ title: Verwenden der Abstimmungsdateien | Partner Center
 description: "Laden Sie die Abgleichungsdateien aus dem PartnerCenter-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen."
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892204ebcdfe1e1318985f2d50df8af2238bd4c1
-ms.sourcegitcommit: 2436cb77fbefc41cc9cb3e62e8a616b6326c557f
+ms.openlocfilehash: bcb5677d2b1309df0e33e093a3908d55e5792580
+ms.sourcegitcommit: ac370f5d2d5b74e1e4752eaeec6fde73e5328225
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2017
+ms.lasthandoff: 12/15/2017
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -149,7 +149,7 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
-<td><p>Preis pro Lizenz. Stellen Sie sicher, dass dies den Informationen entspricht, die in Ihrem Abrechnungssystem während der Abstimmung gespeichert wurden.</p></td>
+<td><p>Preis pro Arbeitsplatz, wie zum Zeitpunkt des Kaufs in der Preisliste veröffentlicht. Stellen Sie sicher, dass dies den Informationen entspricht, die in Ihrem Abrechnungssystem während der Abstimmung gespeichert wurden.</p></td>
 <td>6,82</td>
 </tr>
 <tr class="even">
@@ -492,13 +492,21 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund 
 <p><strong>Laufende Gebühren</strong></p>
 </td>
 <td>
+<p>Aktivierungsgebühr</p>
+</td>
+<td>
+<p>Der Betrag, der dem Kunden in Rechnung gestellt wird, wenn er das Abonnement nach dem Kauf nutzt</p>
+</td>
+<td rowspan="8">
+<p>Erstellen Sie in der lizenzbasierten Datei die Summe der Spalte <strong>Betrag</strong>.</p>
+</td>
+</tr>
+<tr>
+<td>
 <p>Instanz anteilig stornieren</p>
 </td>
 <td>
 <p>Anteilige Gebühren werden an den Kunden zurückerstattet, wenn verknüpfte Lizenzen geändert werden.</p>
-</td>
-<td rowspan="8">
-<p>Erstellen Sie in der lizenzbasierten Datei die Summe der Spalte <strong>Betrag</strong>.</p>
 </td>
 </tr>
 <tr>

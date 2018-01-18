@@ -2,11 +2,11 @@
 title: "Programm für Cloud-Lösungsanbieter – begehrte Cloudlösungen verkaufen | Partner Center"
 description: "Mit dem Programm für Cloud-Lösungsanbieter kann Ihr Unternehmen mit neuem Expertenwissen und neuem Kunden wachsen."
 author: labrenne
-ms.openlocfilehash: f6b2b3ea1e42f82b8e391c4a65a86a314e7f4c40
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: c3fe4a3dfc80f17eda3c87548d30417ecdd9527a
+ms.sourcegitcommit: 71fcb32b5c5636db5fdeea72ba9ea96a3cd49328
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/07/2017
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programm für Cloud-Lösungsanbieter – begehrte Cloudlösungen verkaufen 
 

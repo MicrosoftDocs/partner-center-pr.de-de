@@ -18,11 +18,13 @@
 ## [Arbeitskonten und Partner Center](azure-active-directory-tenants-and-partner-center.md)
 ## [Aktualisieren von Partnerprofilen](update-your-partner-profile.md)
 ## [Wiederherstellen ausgesetzter PartnerCenter-Konten](suspended-partner-center-account.md)
-## [Zurücksetzen von Benutzerkennwörtern](reset-a-user-password.md)
 ## [Erstellen von Benutzerkonten und Festlegen von Berechtigungen](create-user-accounts-and-set-permissions.md)
+## [Zurücksetzen von Benutzerkennwörtern](reset-a-user-password.md)
 ## [Hinzufügen von Azure Partner Shared Services](shared-services.md)
 ## [Preise und Angebote](pricing-and-offers.md)
 ## [Anpassen des Katalogs](customize-the-catalog.md)
+
+# [Erweitern des Geschäft](grow-your-business.md)
 
 # [Empfehlungen](referrals.md)
 ## [Erstellen eines Marketingprofils](create-a-marketing-profile.md)
@@ -77,12 +79,12 @@
 ## [Multipartner](multipartner.md)
 
 # [Support von Microsoft](support-from-microsoft.md)
-## [Überprüfen der Dienstintegrität](check-service-health.md)
 ## [Melden von Problemen mit dem Partner Center](report-problems-with-partner-center.md)
 ## [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md)
 ## [Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs](get-automated-service-notifications-with-our-apis.md)
 
-# [Kundensupport](customer-support.md)
+# [Bereitstellen von Support für Kunden](customer-support.md)
+## [Überprüfen der Dienstintegrität](check-service-health.md)
 ## [Bereitstellen von Abrechnungssupport](provide-billing-support.md)
 ## [Bereitstellen von technischem Support](provide-technical-support.md)
 ## [Kundenkommunikation von Microsoft](customer-communication-from-microsoft.md)

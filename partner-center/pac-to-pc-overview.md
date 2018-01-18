@@ -1,0 +1,36 @@
+---
+title: Vorbereiten des Wechsels vom Partner Admin Center zum Partner Center | Partner Center
+description: "Die Office365-Partner Admin Center-Funktionalität wird in das Partner Center verschoben."
+author: labrenne
+Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
+ms.openlocfilehash: 3124845c9397b5d9a03f376fe99fea2d7e45963c
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 12/21/2017
+---
+# <a name="partner-admin-center-is-moving-to-partner-center"></a><span data-ttu-id="4834b-103">Partner Admin Center wird in das Partner Center verschoben</span><span class="sxs-lookup"><span data-stu-id="4834b-103">Partner Admin Center is moving to Partner Center</span></span>
+
+**<span data-ttu-id="4834b-104">Betriff:</span><span class="sxs-lookup"><span data-stu-id="4834b-104">Applies to</span></span>**
+
+-  <span data-ttu-id="4834b-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="4834b-105">Partner Center</span></span>
+
+<span data-ttu-id="4834b-106">Das Office365 Partner Admin Center (PAC) wird in das Microsoft Partner Center-Portal verschoben.</span><span class="sxs-lookup"><span data-stu-id="4834b-106">The Office 365 Partner Admin Center (PAC) is moving to the Microsoft Partner Center portal.</span></span>
+
+<span data-ttu-id="4834b-107">Wir entwickeln das Partner Center zum einzigen Ort, an dem Sie Ihre Partnerschaft mit Microsoft und Ihren Kunden verwalten.</span><span class="sxs-lookup"><span data-stu-id="4834b-107">We are evolving Microsoft Partner Center into the single place where you will manage your partnership with Microsoft and with your customers.</span></span> <span data-ttu-id="4834b-108">Im Partner Center können Sie Ihre Mitgliedschaft, Kundenempfehlungen, Incentives (Anreize) und alle anderen Aspekte des Cloud Solution Provider (CSP)-Programms verwalten.</span><span class="sxs-lookup"><span data-stu-id="4834b-108">In Partner Center you can manage membership, customer referrals, incentives, and all other aspects of the Cloud Solution Provider (CSP) Program.</span></span> <span data-ttu-id="4834b-109">Wir werden das PAC ab März2018 abwickeln.</span><span class="sxs-lookup"><span data-stu-id="4834b-109">We will retire the PAC starting March 2018.</span></span>
+
+## <a name="the-office-365-partner-admin-center-pac-will-be-retired"></a><span data-ttu-id="4834b-110">Das Office365 Partner Admin Center (PAC) wird eingestellt.</span><span class="sxs-lookup"><span data-stu-id="4834b-110">The Office 365 Partner Admin Center (PAC) will be retired</span></span>
+
+<span data-ttu-id="4834b-111">Während der Monate März und April2018 wird das PAC eingestellt. Partner werden automatisch in das Microsoft Partner Center umgeleitet.</span><span class="sxs-lookup"><span data-stu-id="4834b-111">During the months of March and April 2018, PAC will be retiring, and partners will start being automatically redirected to Microsoft Partner Center.</span></span> <span data-ttu-id="4834b-112">Die Umleitung erfolgt schrittweise. Nachdem Sie in das Partner Center umgeleitet wurden, können Sie nicht mehr im PAC arbeiten.</span><span class="sxs-lookup"><span data-stu-id="4834b-112">The redirection will happen in stages, and once you are redirected to Partner Center, you will not be able to work in PAC.</span></span> 
+
+<span data-ttu-id="4834b-113">**Cloud Solution Provider-Partner** Als CSP-Partner werden Sie ab März2018 automatisch in das Partner Center umgeleitet.</span><span class="sxs-lookup"><span data-stu-id="4834b-113">**Cloud Solutions Provider partners** If you are a CSP partner, we will automatically redirect you to Partner Center starting March 2018.</span></span> 
+
+<span data-ttu-id="4834b-114">**Berater-Partner** Als Berater-Partner werden im März2018 automatisch in das Partner Center umgeleitet.</span><span class="sxs-lookup"><span data-stu-id="4834b-114">**Advisor partners** If you are an Advisor partner, we will automatically redirect you to Partner Center during April 2018.</span></span>
+
+><span data-ttu-id="4834b-115">**Hinweis für Berater**: Derzeit können Sie über das Partner Center weder Testangebote noch kostenpflichtige Angebote an Kunden senden.</span><span class="sxs-lookup"><span data-stu-id="4834b-115">**Note to Advisors**:  Currently, you can’t send Paid and Trial Quotes to customers through Partner Center.</span></span>  <span data-ttu-id="4834b-116">Sie können im Office 365 Partner Admin Center die Funktionalität zum **Ausbau des Geschäfts** solange verwenden, bis die Funktion für **Kostenpflichtige Angebote und Testversionen** im Partner Center aktiviert ist.</span><span class="sxs-lookup"><span data-stu-id="4834b-116">You can continue to use the **Build your Business** functionality in the Office 365 Partner Admin Center until the **Paid and Trial Quotes** function is enabled in Partner Center.</span></span>
+
+## <a name="start-using-the-microsoft-partner-center-now"></a><span data-ttu-id="4834b-117">Verwenden Sie das Microsoft Partner Center ab sofort!</span><span class="sxs-lookup"><span data-stu-id="4834b-117">Start using the Microsoft Partner Center now!</span></span>
+
+<span data-ttu-id="4834b-118">Verwendung Sie das [Microsoft Partner Center](https://partnercenter.microsoft.com/)  jetzt als Vorbereitung für den Wechsel aus dem PAC.</span><span class="sxs-lookup"><span data-stu-id="4834b-118">Start using [Microsoft Partner Center](https://partnercenter.microsoft.com/)  now to get ready for the move from PAC.</span></span>  <span data-ttu-id="4834b-119">Sie können für das Partner Center dieselben Anmeldeinformationen verwenden wie für das PAC.</span><span class="sxs-lookup"><span data-stu-id="4834b-119">You’ll use the same credentials for Partner Center that you use for PAC.</span></span> <span data-ttu-id="4834b-120">Alle Features und Funktionen, die Sie aus dem PAC kennen, stehen bereits im Partner Center zur Verfügung (siehe die obige Anmerkung für Berater).</span><span class="sxs-lookup"><span data-stu-id="4834b-120">All the features and functions you are used to in PAC are available today in Partner Center (see above Note to Advisors).</span></span> <span data-ttu-id="4834b-121">Machen Sie sich unter [Side-by-Side-Vergleich](moving-from-pac-to-pc.md)  mit dem neuen Erscheinungsbild der Funktionen in Partner Center vertraut.</span><span class="sxs-lookup"><span data-stu-id="4834b-121">See the [Side-by-side comparison](moving-from-pac-to-pc.md)  to familiarize yourself with the new look and feel of the features in Partner Center.</span></span>  <span data-ttu-id="4834b-122">Unter [Hilfe für Microsoft Partner Center](https://partnercenter.microsoft.com/partner/help) finden Sie weitere Informationen zu Kontoverwaltung, Kundenverwaltung, Lizenzen, Abonnements, Preisen, Angeboten usw.</span><span class="sxs-lookup"><span data-stu-id="4834b-122">You will find additional information on account management, customer management, licenses and subscriptions, pricing and offers, and more in [Microsoft Partner Center Help](https://partnercenter.microsoft.com/partner/help).</span></span>
+
+ 

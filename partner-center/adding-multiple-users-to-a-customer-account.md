@@ -3,75 +3,70 @@ title: "Erstellen mehrerer Benutzer für ein Kundenkonto | Partner Center"
 description: "Sie können dem Konto eines Kunden mehrere Benutzer gleichzeitig hinzufügen, indem Sie eine Datendatei im CSV-Format in Partner Center hochladen."
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
-ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
-
+keywords: "Stapelweises Hochladen, mehrere Benutzer einem Kundenkonto hinzufügen, Kunden eines Benutzers hinzufügen, stapelweises Hochladen der Benutzer des Kunden, Kundenkonto, Kunden des Benutzers, Benutzer"
+ms.openlocfilehash: b360ced878973cde19b1a6aa8470ac4218ea6773
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 12/08/2017
 ---
+# <a name="add-multiple-users-to-a-customer-account"></a><span data-ttu-id="ac430-104">Hinzufügen von mehreren Benutzern zu einem Kundenkonto</span><span class="sxs-lookup"><span data-stu-id="ac430-104">Add multiple users to a customer account</span></span>
 
-# Hinzufügen von mehreren Benutzern zu einem Kundenkonto
+**<span data-ttu-id="ac430-105">Betrifft</span><span class="sxs-lookup"><span data-stu-id="ac430-105">Applies to</span></span>**
 
-**Betrifft**
+-  <span data-ttu-id="ac430-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="ac430-106">Partner Center</span></span>
 
--  Partner Center
+<span data-ttu-id="ac430-107">Sie können dem Konto eines Kunden mehrere Benutzer gleichzeitig hinzufügen, indem Sie eine Datendatei im CSV-Format in Partner Center hochladen.</span><span class="sxs-lookup"><span data-stu-id="ac430-107">You can add multiple users to a customer's account all at once, by uploading a data file in the comma-separated value file format (.csv) to Partner Center.</span></span> <span data-ttu-id="ac430-108">Sie können eine Beispieldatendatei aus Partner Center herunterladen und sie für Ihre Zwecke anpassen oder anhand des unten definierten Datenmodells eine neue Datendatei erstellen.</span><span class="sxs-lookup"><span data-stu-id="ac430-108">You can download a sample data file from Partner Center and then edit it for your use, or you can create a new data file using the data model defined below.</span></span>
 
-Sie können dem Konto eines Kunden mehrere Benutzer gleichzeitig hinzufügen, indem Sie eine Datendatei im CSV-Format in Partner Center hochladen. Sie können eine Beispieldatendatei aus Partner Center herunterladen und sie für Ihre Zwecke anpassen oder anhand des unten definierten Datenmodells eine neue Datendatei erstellen.
-
-## <a href="" id="creatingtheimportcsvfile"></a>Anforderungen an die Datendatei
+## <a href="" id="creatingtheimportcsvfile"></a><span data-ttu-id="ac430-109">Anforderungen an die Datendatei</span><span class="sxs-lookup"><span data-stu-id="ac430-109">Data file requirements</span></span>
 
 
-Damit Sie mit dem Massenupload mehrere Benutzer zum Konto eines Kunden hinzufügen können, müssen die folgenden Voraussetzungen erfüllt sein:
+<span data-ttu-id="ac430-110">Damit Sie mit dem Massenupload mehrere Benutzer zum Konto eines Kunden hinzufügen können, müssen die folgenden Voraussetzungen erfüllt sein:</span><span class="sxs-lookup"><span data-stu-id="ac430-110">To add multiple users to a customer’s account using the bulk upload process, you’ll need to meet the following requirements:</span></span>
 
--   Sie müssen über globale Administratorberechtigungen für das Kundenkonto verfügen.
--   Jeder Benutzer muss eine eindeutige E-Mail-Adresse besitzen, die an die E-Mail-Domäne(n) des Kunden angehängt sind.
--   Sie können bis zu 100 Datensätze gleichzeitig hochladen. Wenn Sie mehr als 100 Benutzer hinzufügen müssen, erstellen Sie zusätzliche Datendateien, und laden Sie sie hoch.
--   Alle Benutzer müssen sich am gleichen geografischen **Standort** befinden.
--   Geben Sie nur die unten beschriebenen Daten ein. Zusätzliche Daten führen zu einem Uploadfehler.
+-   <span data-ttu-id="ac430-111">Sie müssen über globale Administratorberechtigungen für das Kundenkonto verfügen.</span><span class="sxs-lookup"><span data-stu-id="ac430-111">You must have global administrator permissions to the customer account;</span></span>
+-   <span data-ttu-id="ac430-112">Jeder Benutzer muss eine eindeutige E-Mail-Adresse besitzen, die an die E-Mail-Domäne(n) des Kunden angehängt sind.</span><span class="sxs-lookup"><span data-stu-id="ac430-112">Each user must have a unique email address, appended to the customer's email domain(s);</span></span>
+-   <span data-ttu-id="ac430-113">Sie können bis zu 100Datensätze gleichzeitig hochladen.</span><span class="sxs-lookup"><span data-stu-id="ac430-113">You can upload up to 100 records at a time.</span></span> <span data-ttu-id="ac430-114">Wenn Sie mehr als 100Benutzer hinzufügen müssen, erstellen Sie zusätzliche Datendateien, und laden Sie sie hoch.</span><span class="sxs-lookup"><span data-stu-id="ac430-114">If you need to add more than 100 users, create and upload additional data files.</span></span>
+-   <span data-ttu-id="ac430-115">Alle Benutzer müssen sich am gleichen geografischen **Standort** befinden.</span><span class="sxs-lookup"><span data-stu-id="ac430-115">All users must be in the same geographic **Location**.</span></span>
+-   <span data-ttu-id="ac430-116">Geben Sie nur die unten beschriebenen Daten ein.</span><span class="sxs-lookup"><span data-stu-id="ac430-116">Enter only the data described below.</span></span> <span data-ttu-id="ac430-117">Zusätzliche Daten führen zu einem Uploadfehler.</span><span class="sxs-lookup"><span data-stu-id="ac430-117">Extraneous data will cause the upload to fail.</span></span>
 
-Geben Sie die folgenden Daten in die Datendatei ein:
+<span data-ttu-id="ac430-118">Geben Sie die folgenden Daten in die Datendatei ein:</span><span class="sxs-lookup"><span data-stu-id="ac430-118">Enter the following data in the data file:</span></span>
 
 |                 |                                                                              |                                            |
 |-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **Name der Spalte** | **Beschreibung**                                                              | **Einschränkung**                             |
-| Vorname      | Vorname des Benutzers (optionales Feld)                                           | Begrenzung von 50 Zeichen                         |
-| Nachname       | Nachname des Benutzers (optionales Feld)                                            | Begrenzung von 50 Zeichen                         |
-| Anzeigename    | Der in Partner Center angezeigte Name (erforderliches Feld)                            | Begrenzung von 50 Zeichen                         |
-| E-Mail           | Geschäftliche E-Mail-Adresse des Benutzers beim Kundenunternehmen (erforderliches Feld)           | Jeder Benutzer muss eine eindeutige E-Mail-Adresse besitzen. |
-| Statusupdate   | Hiermit wird angegeben, ob der Datensatz des neuen Benutzers erfolgreich erstellt wurde. | \*\*Keine Angabe\*\*                        |
+| **<span data-ttu-id="ac430-119">Name der Spalte</span><span class="sxs-lookup"><span data-stu-id="ac430-119">Column name</span></span>** | **<span data-ttu-id="ac430-120">Beschreibung</span><span class="sxs-lookup"><span data-stu-id="ac430-120">Description</span></span>**                                                              | **<span data-ttu-id="ac430-121">Einschränkung</span><span class="sxs-lookup"><span data-stu-id="ac430-121">Limitation</span></span>**                             |
+| <span data-ttu-id="ac430-122">Vorname</span><span class="sxs-lookup"><span data-stu-id="ac430-122">First name</span></span>      | <span data-ttu-id="ac430-123">Vorname des Benutzers (optionales Feld)</span><span class="sxs-lookup"><span data-stu-id="ac430-123">User’s first name (optional field)</span></span>                                           | <span data-ttu-id="ac430-124">Begrenzung von 50Zeichen</span><span class="sxs-lookup"><span data-stu-id="ac430-124">50-character limit</span></span>                         |
+| <span data-ttu-id="ac430-125">Nachname</span><span class="sxs-lookup"><span data-stu-id="ac430-125">Last name</span></span>       | <span data-ttu-id="ac430-126">Nachname des Benutzers (optionales Feld)</span><span class="sxs-lookup"><span data-stu-id="ac430-126">User's last name (optional field)</span></span>                                            | <span data-ttu-id="ac430-127">Begrenzung von 50Zeichen</span><span class="sxs-lookup"><span data-stu-id="ac430-127">50-character limit</span></span>                         |
+| <span data-ttu-id="ac430-128">Anzeigename</span><span class="sxs-lookup"><span data-stu-id="ac430-128">Display name</span></span>    | <span data-ttu-id="ac430-129">Der in Partner Center angezeigte Name (erforderliches Feld)</span><span class="sxs-lookup"><span data-stu-id="ac430-129">Name displayed in Partner Center (required field)</span></span>                            | <span data-ttu-id="ac430-130">Begrenzung von 50Zeichen</span><span class="sxs-lookup"><span data-stu-id="ac430-130">50-character limit</span></span>                         |
+| <span data-ttu-id="ac430-131">E-Mail</span><span class="sxs-lookup"><span data-stu-id="ac430-131">Email</span></span>           | <span data-ttu-id="ac430-132">Geschäftliche E-Mail-Adresse des Benutzers beim Kundenunternehmen (erforderliches Feld)</span><span class="sxs-lookup"><span data-stu-id="ac430-132">User’s business email address at customer company (required field)</span></span>           | <span data-ttu-id="ac430-133">Jeder Benutzer muss eine eindeutige E-Mail-Adresse besitzen.</span><span class="sxs-lookup"><span data-stu-id="ac430-133">Each user must have a unique email address</span></span> |
+| <span data-ttu-id="ac430-134">Statusupdate</span><span class="sxs-lookup"><span data-stu-id="ac430-134">Status update</span></span>   | <span data-ttu-id="ac430-135">Hiermit wird angegeben, ob der Datensatz des neuen Benutzers erfolgreich erstellt wurde.</span><span class="sxs-lookup"><span data-stu-id="ac430-135">Used to indicate whether or not the new user record was successfully created</span></span> | <span data-ttu-id="ac430-136">\*\*Keine Angabe\*\*</span><span class="sxs-lookup"><span data-stu-id="ac430-136">\*\*Leave empty\*\*</span></span>                        |
 
  
 
-### <a href="" id="createmultipleuseraccounts"></a>So erstellen Sie mehrere Benutzerkonten
+### <a href="" id="createmultipleuseraccounts"></a><span data-ttu-id="ac430-137">So erstellen Sie mehrere Benutzerkonten</span><span class="sxs-lookup"><span data-stu-id="ac430-137">To create multiple user accounts</span></span>
 
 <a href="" id="creatingtheaccounts"></a>
-1.  Erstellen Sie eine durch Trennzeichen getrennte Datendatei (.csv) mit den oben beschriebenen Daten. Speichern Sie die Datei, sodass Sie in einem späteren Schritt zu dieser Datei navigieren können.
-2.  Wählen Sie im Menü **Dashboard** die Option **Kunden**, und wählen Sie anschließend einen Kunden aus der Liste aus.
-3.  Wählen Sie **Upload users**.
-4.  Wählen Sie unter **Upload user info** die Option **Durchsuchen**.
-5.  Wählen Sie in der Dateiauswahl Ihre Datendatei aus, und klicken Sie dann auf **Öffnen**.
-6.  Wählen Sie **Überprüfen**.
+1.  <span data-ttu-id="ac430-138">Erstellen Sie eine durch Trennzeichen getrennte Datendatei (.csv) mit den oben beschriebenen Daten.</span><span class="sxs-lookup"><span data-stu-id="ac430-138">Create a comma-separated value (.csv) data file with the data described above.</span></span> <span data-ttu-id="ac430-139">Speichern Sie die Datei, sodass Sie in einem späteren Schritt zu dieser Datei navigieren können.</span><span class="sxs-lookup"><span data-stu-id="ac430-139">Save the file so you can browse to it in a later step.</span></span>
+2.  <span data-ttu-id="ac430-140">Wählen Sie im Menü **Dashboard** die Option **Kunden**, und wählen Sie anschließend einen Kunden aus der Liste aus.</span><span class="sxs-lookup"><span data-stu-id="ac430-140">From the **Dashboard** menu, select **Customers**, then choose a customer from the list.</span></span>
+3.  <span data-ttu-id="ac430-141">Wählen Sie **Upload users**.</span><span class="sxs-lookup"><span data-stu-id="ac430-141">Select **Upload users**.</span></span>
+4.  <span data-ttu-id="ac430-142">Wählen Sie unter **Upload user info** die Option **Durchsuchen**.</span><span class="sxs-lookup"><span data-stu-id="ac430-142">Under **Upload user info**, select **Browse**.</span></span>
+5.  <span data-ttu-id="ac430-143">Wählen Sie in der Dateiauswahl Ihre Datendatei aus, und klicken Sie dann auf **Öffnen**.</span><span class="sxs-lookup"><span data-stu-id="ac430-143">In the file selector, select your data file and then select **Open**.</span></span>
+6.  <span data-ttu-id="ac430-144">Wählen Sie **Überprüfen**.</span><span class="sxs-lookup"><span data-stu-id="ac430-144">Select **Validate**.</span></span>
 
-    **Hinweis:** Der Großteil der Fehler bei der Kontoerstellung wird durch Datendateifehler verursacht, beispielsweise durch fehlende Informationen, falsch formatierte oder doppelte E-Mail-Adressen oder eine zu große Anzahl von Datensätzen in einer Datei.
+    <span data-ttu-id="ac430-145">**Hinweis:** Der Großteil der Fehler bei der Kontoerstellung wird durch Datendateifehler verursacht, beispielsweise durch fehlende Informationen, falsch formatierte oder doppelte E-Mail-Adressen oder eine zu große Anzahl von Datensätzen in einer Datei.</span><span class="sxs-lookup"><span data-stu-id="ac430-145">**Note**  Most account creation errors are caused by data file issues, including missing information, malformed or duplicated email addresses, or too many records in the file.</span></span>
 
      
 
-7.  Wählen Sie nach der Überprüfung der Datei durch Partner Center den geografischen **Standort** für die neuen Benutzer aus.
-8.  Wählen Sie **Speichern**.
-9.  Laden Sie die Informationen zum temporären Kennwort für die Benutzer herunter.
+7.  <span data-ttu-id="ac430-146">Wählen Sie nach der Überprüfung der Datei durch Partner Center den geografischen **Standort** für die neuen Benutzer aus.</span><span class="sxs-lookup"><span data-stu-id="ac430-146">After Partner Center validates the file, select the geographic **Location** for the new users.</span></span>
+8.  <span data-ttu-id="ac430-147">Wählen Sie **Speichern**.</span><span class="sxs-lookup"><span data-stu-id="ac430-147">Select **Save**.</span></span>
+9.  <span data-ttu-id="ac430-148">Laden Sie die Informationen zum temporären Kennwort für die Benutzer herunter.</span><span class="sxs-lookup"><span data-stu-id="ac430-148">Download the temporary password information for the users.</span></span>
 
-**WICHTIG:** Laden Sie die Datei mit den temporären Kennwörtern unbedingt jetzt herunter, da dies später nicht mehr möglich ist. Neue Benutzer müssen sich mit dem temporären Kennwort für die neuen Konten beim neuen Konto anmelden.
+<span data-ttu-id="ac430-149">**WICHTIG:** Laden Sie die Datei mit den temporären Kennwörtern unbedingt jetzt herunter, da dies später nicht mehr möglich ist.</span><span class="sxs-lookup"><span data-stu-id="ac430-149">**IMPORTANT:** Be sure to download the file with the temporary passwords now as you won't be able to do this later.</span></span> <span data-ttu-id="ac430-150">Neue Benutzer müssen sich mit dem temporären Kennwort für die neuen Konten beim neuen Konto anmelden.</span><span class="sxs-lookup"><span data-stu-id="ac430-150">New users must log in to their new account using the temporary password for their new accounts.</span></span>
 
-Partner Center ordnet den neuen Benutzern automatisch die Berechtigungen **Can use licenses and services** zu.
-
- 
+<span data-ttu-id="ac430-151">Partner Center ordnet den neuen Benutzern automatisch die Berechtigungen **Can use licenses and services** zu.</span><span class="sxs-lookup"><span data-stu-id="ac430-151">Partner Center automatically assigns permissions of **Can use licenses and services** to the new users.</span></span>
 
  
 
+ 
 
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

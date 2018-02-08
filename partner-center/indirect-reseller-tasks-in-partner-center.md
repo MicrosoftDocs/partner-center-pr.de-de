@@ -4,11 +4,11 @@ description: "Als indirekter Vertriebspartner in CSP arbeiten Sie mit indirekten
 ms.prod: 
 author: MaggiePucciEvans
 keywords: "Indirekte Wiederverkäufer, Händler, indirekten Anbieter, Anbieter, Partnerschaft, VAR, Ebene2, Ebene 2"
-ms.openlocfilehash: b55b8c65a0d7e989bed494230101d905befeed50
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+ms.openlocfilehash: d3d41a15fc8836a84ba86acc26642a4c49c2e290
+ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Anbietern im Programm für Cloud Solution Provider
 
@@ -102,74 +102,8 @@ Notieren Sie sich die Anmeldeinformationen des neuen Benutzers, die auf dieser S
 
 ## <a name="assign-user-permissions"></a>Zuweisen von Benutzerberechtigungen
 
-Partner Center-Zugriff ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt. 
+Partner Center-Zugriff ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt. Informationen darüber, wie Sie Rollen am besten zuweisen, finden Sie unter [Erstellen von Benutzerkonten und Festlegen von Berechtigungen](Create-user-accounts-and-set-permissions.md)
 
-Für jeden Benutzer müssen zwei Berechtigungsstufen auswählen oder **Kein Administrator** oder **Kein Agent** auswählen:
-
--   Agent-Berechtigungen steuern, welche Art von Kundendaten und Kontoinformationen der Benutzer anzeigen und ändern kann.
-
--   Administratorberechtigungen steuern die Ebene des Zugriffs, über den der Benutzer für Partner Center-Funktionen verfügt. Diese Einstellung hat auch Auswirkungen außerhalb von Partner Center: Ein Abrechnungsadministrator kann auf alle Rechnungen für alle Microsoft-Dienste zugreifen (auch auf solche, die sich nicht auf CSP beziehen), und ein globaler Administrator hat ebenfalls über CSP hinausgehenden Zugriff auf Benutzerkonten und Kundenkonten.
-
-In der folgende Tabelle wird erläutert, welche Möglichkeiten Benutzer mit den jeweiligen Rollen in Partner Center haben.
-
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Rolle im Partner Center</strong></p></td>
-<td><p><strong>Was diese Rolle kann</strong></p></td>
-<td><p><strong>Was diese Rolle nicht kann</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Administratoragent</strong></p></td>
-<td><ul>
-<li><p>Dienstintegrität und Serviceanfragen für Kunden</p></li>
-<li><p>Delegierte Administratorrechte anfordern</p></li>
-<li><p>Im Auftrag eines Kunden verwalten</p></li>
-</ul></td>
-<td><ul>
-<li><p>Benutzerverwaltung</p></li>
-<li><p>Serviceanfragen für Partner Center</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Helpdesk-Agent</strong></p></td>
-<td><ul>
-<li><p>Nach Kunden suchen und anzeigen</p></li>
-<li><p>Dienstintegrität</p></li>
-<li><p>Anfordern von Support im Auftrag der Kunden (Hinweis: Sie müssen ein Administrator-Agent zum Ausführen dieser Aufgabe für Office365-Abonnements sein.)</p></li>
-<li><p>Verwalten von Abonnements und Diensten im Auftrag der Kunden (Hinweis: Sie müssen ein Administrator-Agent zum Ausführen dieser Aufgabe für Office365-Abonnements sein.)</p></li>
-</ul></td>
-<td><ul>
-<li><p>Partnerprofile anzeigen</p></li>
-<li><p>Beantragen einer Partnerschaft mit einem Kunden</p></li>
-<li><p>Potenzielle Kunden verwalten</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>Globaler Administrator</strong></p></td>
-<td><ul>
-<li><p>Zugriff auf alle Microsoft-Konten/-Dienste mit allen Berechtigungen</p></li>
-<li><p>Supportanfragen für Partner Center erstellen</p></li>
-<li><p>Partnerbenutzer anzeigen, erstellen und verwalten</p></li>
-<li><p>Eine Partnerschaftsanfrage von einem indirekten Anbieter akzeptieren</p></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Benutzerverwaltungsadministrator</strong></p></td>
-<td><ul>
-<li><p>Benutzer anzeigen, erstellen und verwalten</p></li>
-<li><p>Alle Partnerprofile anzeigen</p></li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 ## <a name="connect-with-an-indirect-provider"></a>Zusammenarbeiten mit einem indirekten Anbieter
 
@@ -197,13 +131,13 @@ Wenn ein indirekter Anbieter im Partner Center mit Ihnen zusammenarbeiten möcht
  
 ## <a name="connect-with-customers"></a>Interagieren mit Kunden
 
-Um mit Kunden im Partner Center Transaktionen durchzuführen, müssen Ihre Kunden Partner Center-Konten haben, und Sie müssen eine Reseller-Geschäftsbeziehungen mit ihnen herstellen. Damit ihr indirekter Anbieter Abonnements und Dienste im Namen Ihres Kunden erwerben kann, muss auch der Anbieter über eine Reseller-Partnerschaft mit Ihren Kunden verfügen. 
+ Um mit Kunden im Partner Center Transaktionen durchzuführen, müssen Ihre Kunden Partner Center-Konten haben, und Sie müssen eine Reseller-Geschäftsbeziehungen mit ihnen herstellen. Damit ihr indirekter Anbieter Abonnements und Dienste im Namen Ihres Kunden erwerben kann, muss auch der Anbieter über eine Reseller-Partnerschaft mit Ihren Kunden verfügen. 
 
 ### <a name="connect-with-existing-customers"></a>Interagieren mit bestehenden Kunden
 
 Kunden, mit denen Sie bereits mit über andere Portale Transaktionen durchgeführt haben (z.B. Office365 Partner Administrationscenter oder die Microsoft Azure-Verwaltungsportal), werden in der Kundenliste im Partner Center angezeigt, nachdem Sie erfolgreich als indirekter Reseller registriert sind. Wählen Sie **Dashboard** und **Kunden** aus, um die Kundenliste anzuzeigen. 
 
-Wenn Ihre Kunden in der Kundenliste fehlen, müssen Sie möglicherweise eine Reseller-Geschäftsbeziehungen mit ihnen herstellen. Zu diesem Zweck laden Sie sie per E-Mail zur Verbindung mit Ihnen im Partner Center ein (wie unten beschrieben).
+Wenn Sie mit einem indirekten Anbieter zusammenarbeiten, gewinnen Sie nicht automatisch Kunden des indirekten Anbieters. Ebenso werden die Kunden, mit denen Sie entweder allein oder über Ihren indirekten Anbieter (nicht aber über Partner Center) zusammenarbeiten, nicht automatisch in Ihrer Kundenliste angezeigt, wenn Sie sich beim Partner Center registrieren. Sie müssen eine Vertriebspartnerschaft mit Kunden abschließen, um im Partner Center Transaktionen durchführen zu können.  Zu diesem Zweck laden Sie sie per E-Mail zur Zusammenarbeit mit Ihnen im Partner Center ein (wie unten beschrieben).
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden zur Einrichtung einer Reseller-Partnerschaft mit Ihnen
 

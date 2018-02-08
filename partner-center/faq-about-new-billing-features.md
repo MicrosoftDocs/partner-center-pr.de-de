@@ -3,11 +3,11 @@ title: "Häufig gestellte Fragen zu neuen Abrechnungsfunktionen | Partner Center
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
 ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: ddd10efe487effdd2571869f2a4231118f946b8b
-ms.sourcegitcommit: 4b697e2e18426edc95b9165f380b784bb10937ed
+ms.openlocfilehash: 0c468df2176160ca5a1fdf8b90ce5b6f9b669cc2
+ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/20/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="faq-about-new-billing-features"></a>Häufig gestellte Fragen zu neuen Abrechnungsfunktionen
 
@@ -312,7 +312,7 @@ Abschnitte:
 
 **F:** Wird die kostenlose Testversion in meiner Rechnung und Abstimmungsdatei angezeigt?
 
--   **A:** Nein, die kostenlose Testversion wird nicht in Ihrer Rechnung oder der lizenzbasierten Abstimmungsdatei angezeigt. Erst nach der Umwandlung einer kostenlosen Testversion in ein kostenpflichtiges Abonnement erscheint sie auf Ihrer Rechnung und in der lizenzbasierten Abstimmungsdatei. Das konvertierte Abonnement wird in gleicher Weise wie jedes andere neue Abonnement in Ihrer Rechnung und der lizenzbasierten Abstimmungsdatei angezeigt. 
+-   **A:** Nein, die kostenlose Testversion wird nicht in Ihrer Rechnung oder der lizenzbasierten Abstimmungsdatei angezeigt. Erst nach der Umwandlung einer kostenlosen Testversion in ein kostenpflichtiges Abonnement erscheint sie auf Ihrer Rechnung und in der lizenzbasierten Abstimmungsdatei. Das konvertierte Abonnement wird in gleicher Weise wie jedes andere neue Abonnement in Ihrer Rechnung und der lizenzbasierten Abstimmungsdatei angezeigt.
 
 **F:** Hat die kostenlose Testversion Auswirkungen auf Incentives?
 
@@ -526,7 +526,7 @@ Der Partner storniert das Abonnement am 5.Juli und reaktiviert es am 15.Juli. Di
 |-----------------|:-------------|:----------------|:------------|:------|
 |1.7.2018   |31.7.2018   |30 USD  |1   |30 USD   |
 |5.7.2018   |31.7.2018   |   -26,19 USD   |1   |-26,19 USD|
-|10.7.2018   |31.7.2018   |-21,34 USD   |1   |21,34 USD|
+|10.7.2018   |31.7.2018   |-21,37 USD   |1   |21,37 USD|
 
 ### <a name="scenario-change-license-quantity"></a>Szenario: Anzahl der Lizenzen ändern 
 
@@ -564,7 +564,7 @@ Die Abstimmungsdatei vom 15. Juni wird Folgendes enthalten:
 |**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |
 |-----------------|:-------------|:----------------|:------------|:------|
 |1.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |
-|10.6.2018   |30.6.2018   |5 USD   |1   |5 USD   |
+|10.6.2018   |30.6.2018   |3,50 USD   |1   |3,50 USD   |
 
 Die Abstimmungsdatei vom 15. Juli wird Folgendes enthalten:
 
@@ -578,7 +578,7 @@ Die Abstimmungsdatei vom 15. Juli wird Folgendes enthalten:
 
 ### <a name="scenario-new-purchase-on-the-29th-30th-or-31st"></a>Szenario: Neue Bestellung am 29., 30. oder 31. 
 
-Das Abrechnungsdatum des Partners ist der 15. Am 31. Mai kauft der Partner ein neues Abonnement zum Preis von 30 USD pro Monat. Am 29., 30. oder 31. erworbene Abonnements erhalten einen freien Zeitraum bis zum Beginn des Folgemonats. In diesem Beispiel erhält der Kunde einen kostenlosen Zeitraum von einem Tag, da der 12-monatige kostenpflichtige Zeitraum am 1.Juni beginnt. 
+Das Abrechnungsdatum des Partners ist der 15. jeden Monats. Am 29.Mai erwirbt der Partner ein neues Abonnement (1 Lizenz à 30 USD/Monat) mit monatlichem Abrechnungsintervall. Der Jahrestag für Abonnements, die am 29., 30. oder 31. erworben werden, ist standardmäßig der 1. In diesem Szenario erhält das Abonnement einen kostenlosen Testzeitraum vom 29. bis 31.Mai; die Rechnungsposition erscheint am 1.Juni und zeigt die Vorausgebühr für einen Monat.
 
 Die Abstimmungsdatei vom 15. Juni wird Folgendes enthalten:
 

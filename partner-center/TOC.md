@@ -70,6 +70,7 @@
 ## [Vereinfachen der Geräteinstallation mit Windows Autopilot](autopilot.md)
 
 # Partner Center-Daten und Analysen
+## [Daten zum Analysieren Ihres Unternehmens](data-analysis-lp.md)
 ## [Partner Center Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners.md)
 
 # [Zusammenarbeit mit anderen Partnern](work-with-other-partners.md)

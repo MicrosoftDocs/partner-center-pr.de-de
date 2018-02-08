@@ -1,20 +1,21 @@
 ---
-title: "Programm für Cloud-Lösungsanbieter – begehrte Cloudlösungen verkaufen | Partner Center"
-description: "Mit dem Programm für Cloud-Lösungsanbieter kann Ihr Unternehmen mit neuem Expertenwissen und neuem Kunden wachsen."
+title: "Programm für Cloud Solution Provider – begehrte Cloudlösungen verkaufen | Partner Center"
+description: "Mit dem Programm für Cloud Solution Provider kann Ihr Unternehmen mit neuem Expertenwissen und neuem Kunden wachsen."
 author: labrenne
-ms.openlocfilehash: c3fe4a3dfc80f17eda3c87548d30417ecdd9527a
-ms.sourcegitcommit: 71fcb32b5c5636db5fdeea72ba9ea96a3cd49328
+keywords: "CSP, direktes Modell, indirektes Modell, indirekter Wiederverkäufer, indirekter Anbieter, Anbieter, Händler, Programm für Cloud Solution Provider"
+ms.openlocfilehash: 4ba8be87b3d7e5c92045c7c2c19112219131bdd0
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 01/17/2018
 ---
-# <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programm für Cloud-Lösungsanbieter – begehrte Cloudlösungen verkaufen 
+# <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programm für Cloud Solution Provider – begehrte Cloudlösungen verkaufen 
 
-**Betriff:**
+**Betrifft:**
 
 -  Partner Center
 
-Mit dem Programm für Cloud-Lösungsanbieter (CSP) können Sie über den Wiederverkauf von Lizenzen hinausgehen und sich in die Arbeit mit den Unternehmen Ihrer Kunden vertiefen.
+Mit dem Programm für Cloud Solution Provider (CSP) können Sie über den Wiederverkauf von Lizenzen hinausgehen und sich in die Arbeit mit den Unternehmen Ihrer Kunden vertiefen.
  
 - Vertiefen Sie die Kundenbetreuung – dank einer regelmäßigen Besprechung mit Ihren Kunden erhalten Sie ein besseres Verständnis der Unternehmen und Anforderungen.
 - Erhöhen Sie Ihre Gewinne – bieten Sie verbesserte Unterstützung und Dienste an, ob alleine oder über einen indirekten Anbieter, um neue Umsatzquellen zu eröffnen.  
@@ -38,7 +39,7 @@ Mit dem Programm für Cloud-Lösungsanbieter (CSP) können Sie über den Wiederv
 
 ### <a name="where-can-i-sell-through-the-csp-program"></a>Wo kann ich über das CSP-Programm verkaufen?
 
-Das Programm für Cloud-Lösungsanbieter ist in den aufgeführten Regionen und Ländern verfügbar, die auf der Liste der [Seite der verfügbaren Märkte und Kundenvereinbarungen für Microsoft Cloud-Lösungsanbieter](agreements.md) aufgeführt sind.  
+Das Programm für Cloud Solution Provider ist in den aufgeführten Regionen und Ländern verfügbar, die auf der Liste der [Seite der verfügbaren Märkte und Kundenvereinbarungen für Microsoft Cloud Solution Provider](agreements.md) aufgeführt sind.  
 
 ### <a name="what-can-i-sell-through-the-csp-program"></a>Was kann ich über das CSP-Programm verkaufen?
 
@@ -46,8 +47,8 @@ Sie können das gesamte Spektrum der [Microsoft Cloud Services](https://partner.
 
 |**Informationen hierzu**   |**Lesen Sie**   |
 |---------------------------|:--------------------|
-|Anforderungen für die einzelnen CSP-Modelle   | [Programm für Cloud-Lösungsanbieter](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
+|Anforderungen für die einzelnen CSP-Modelle   | [Programm für Cloud Solution Provider](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |In nationalen Clouds von Microsoft verkaufen   | [Bewerben für den Verkauf in nationalen Clouds von Microsoft](csp-national-clouds-overview.md)|
-|Wo und was Sie verkaufen können   |[Märkte und Kundenvereinbarungen für Microsoft Cloud-Lösungsanbieter](agreements.md)|
-|Aufgaben indirekter Anbieter im Partner Center  |[Arbeiten mit indirekten Wiederverkäufern im Programm für Cloud-Lösungsanbieter](indirect-provider-tasks-in-partner-center.md)|
-|Aufgaben indirekter Wiederverkäufer im Partner Center   |[Arbeiten mit indirekten Anbietern im Programm für Cloud-Lösungsanbieter](indirect-reseller-tasks-in-partner-center.md)|
+|Wo und was Sie verkaufen können   |[Märkte und Kundenvereinbarungen für Microsoft Cloud Solution Provider](agreements.md)|
+|Aufgaben indirekter Anbieter im Partner Center  |[Arbeiten mit indirekten Wiederverkäufern im Programm für Cloud Solution Provider](indirect-provider-tasks-in-partner-center.md)|
+|Aufgaben indirekter Wiederverkäufer im Partner Center   |[Arbeiten mit indirekten Anbietern im Programm für Cloud Solution Provider](indirect-reseller-tasks-in-partner-center.md)|

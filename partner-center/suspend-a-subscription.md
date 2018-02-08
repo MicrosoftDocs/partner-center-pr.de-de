@@ -3,10 +3,11 @@ title: Aussetzen eines Abonnements | Partner Center
 description: "Partner können ein Abonnement auf Anforderung des Kunden, bei Nichtbezahlung oder bei Betrug aussetzen oder kündigen."
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
-ms.openlocfilehash: 6252a494e69c2a2d2b33a0896092b064b52c1881
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: d5f0c3d4e424980a3e39ca0d798097b517e7c9f7
+ms.sourcegitcommit: d75170bb6b14aeee1a5d33dd8a36cc3cd7e9dfd2
 ms.translationtype: HT
 ms.contentlocale: de-DE
+ms.lasthandoff: 01/04/2018
 ---
 # <a name="suspend-a-subscription"></a>Aussetzen eines Abonnements
 
@@ -26,3 +27,5 @@ Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Be
 2.  Wählen Sie das Abonnement aus, das Sie verwalten möchten.
 3.  Wählen Sie im Abschnitt **Status** den Eintrag **Ausgesetzt** aus. **Übermitteln** Sie dann Ihre Änderungen.
 4.  Alle Daten werden gelöscht, solange das Abonnement nicht innerhalb von 90Tagen oder 90Tagen zuzüglich der Anzahl der Tage zwischen der Eröffnung des Kontos und dem ersten Abrechnungszeitraum (maximal 120Tage) reaktiviert wird.
+
+Wenn Sie ein Abonnement stornieren, gibt das Datum, das unter der Schaltfläche **Ausgesetzt** angezeigt wird, an, wann das Abonnement automatisch ablaufen würde, wenn Sie es nicht erneut aktivieren. 

@@ -4,11 +4,11 @@ description: "Der Administrator erstellt ein Benutzerkonto für jeden Partnermit
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
-ms.openlocfilehash: 4345db8cf8e383edbb58c269a3b0a948eade9d65
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: 809641e488595e59beb63b0867b4758f3912106e
+ms.sourcegitcommit: fc49a5e334ed37db4ff4c594ecf89a1527a3bd1d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 01/18/2018
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen
 
@@ -38,7 +38,7 @@ Notieren Sie sich die Anmeldeinformationen des neuen Benutzers, die auf dieser S
 
 Der Benutzer muss sich bei Partner Center mit seinem Benutzernamen und einem temporären Kennwort anmelden. Wenn sich der Benutzer zum ersten Mal bei Partner Center anmeldet, wird er aufgefordert, sein Kennwort zu ändern. 
 
-
+>**Hinweis**<br> Wenn der globale Administrator Ihr Unternehmen verlassen oder intern die Stelle gewechselt hat und Sie einen neuen globalen Administrator hinzufügen müssen, müssen Sie eine Serviceanfrage auf dem [MPN-Portal](https://partner.microsoft.com/support) stellen. Der Support-Mitarbeiter kann eine Heraufstufung eines Benutzers zum globalen Administrator anfordern, wenn der Antragsteller die benötigten persönlichen Informationen sowie zusätzliche Informationen zu Ihrem Unternehmen bereitstellen kann.
 
 ## <a name="assign-user-permissions"></a>Zuweisen von Benutzerberechtigungen
 
@@ -61,7 +61,7 @@ Innerhalb jeder dieser allgemeinen Kategorien kann ein Benutzer nur eine Rolle b
 
 >**Wichtig** Wenn ein Benutzer keine bestimmte Rolle benötigt, übernehmen Sie die Standardeinstellung für **Verwaltet das Konto Ihrer Organisation als**. Jedem Benutzer muss mindestens eine Rolle zugewiesen werden, damit er im Partner Center arbeiten kann.
 
-In der folgende Tabelle wird erläutert, welche Möglichkeiten Benutzer mit den jeweiligen Rollen in Partner Center haben. Berücksichtigen Sie bei der Zuweisung von Rollen, welche Aufgabe ein Benutzer in Ihrer Organisation ausführt. Sie können z.B. den globalen Administrator als Administratoragent einsetzten. Und die für das Marketing zuständige Person könnte auch die Verwaltung des Unternehmensprofils übernehmen.
+In der folgende Tabelle wird erläutert, welche Möglichkeiten Benutzer mit den jeweiligen Rollen in Partner Center haben. Berücksichtigen Sie bei der Zuweisung von Rollen, welche Aufgabe ein Benutzer in Ihrer Organisation ausführt. Sie können z.B. den globalen Administrator auch als Administratoragent einsetzen. Und die für das Marketing zuständige Person könnte auch die Verwaltung des Unternehmensprofils übernehmen.
 
 <table>
 <colgroup>
@@ -94,7 +94,7 @@ In der folgende Tabelle wird erläutert, welche Möglichkeiten Benutzer mit den 
 <tr class="odd">
 <td><p><strong>Benutzerverwaltungsadministrator</strong></p></td>
 <td><ul>
-<li><p>Benutzer anzeigen, erstellen und verwalten</p></li>
+<li><p>Anzeigen, erstellen und verwalten von Benutzern</p></li>
 <li><p>Alle Partnerprofile anzeigen</p></li>
 </ul></td>
 </tr>
@@ -122,13 +122,6 @@ In der folgende Tabelle wird erläutert, welche Möglichkeiten Benutzer mit den 
 <li><p>Anzeigen und Verwalten von Vorteilen</p></li>
 <li><p>Anzeigen und Kaufen von MPN-Angeboten</p></li>
 <li><p>Anzeigen von Rechnungen und des Bestellverlaufs für MPN-Angebote</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Administrator für Benutzerverwaltung</strong></p></td>
-<td><ul>
-<li><p>Anzeigen, erstellen und verwalten von Benutzern</p></li>
-<li><p>Anzeigen aller Partnerprofile</p></li>
 </ul></td>
 </tr>
 <tr class="even">

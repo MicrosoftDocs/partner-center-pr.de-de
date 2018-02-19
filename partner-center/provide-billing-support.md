@@ -3,10 +3,11 @@ title: Bereitstellen von Abrechnungssupport | Partner Center
 description: Die Abrechnung mit Ihren Kunden und die Beantwortung aller Fragen zu Abrechnungen liegen in Ihrer Verantwortung.
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: d9f550f05d1555781ddd29c8d1eb95297a9e9a53
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 60a8fa1271d73e07f31b7172da31a66f702ce342
+ms.sourcegitcommit: b1cfc52b956a25bd81a449bdce21fe94f4823482
 ms.translationtype: HT
 ms.contentlocale: de-DE
+ms.lasthandoff: 01/25/2018
 ---
 # <a name="provide-billing-support"></a>Bereitstellen von Abrechnungssupport
 
@@ -36,17 +37,15 @@ Die Abrechnung mit Ihren Kunden und die Beantwortung aller Fragen zu Abrechnunge
 ## <a href="" id="billingdisputes"></a>Abrechnungsstreitigkeiten
 
 
--   [Melden Sie Probleme im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md), um Fragen zu Abrechnungen oder Einsprüche zu erstellen.
+-   [Probleme melden](report-problems-with-partner-center.md) über Abrechnungsfragen oder -streitigkeiten.
 
 ## <a href="" id="escalatingissues"></a>Übergeben von Problemen
 
 
 -   [Eskalieren Sie Problemen an Microsoft](escalate-problems-to-microsoft.md) über den Partner Support-Kanal im Auftrag des Kunden, wenn Sie unsere Unterstützung benötigen.
--   Sie müssen kommunizieren und den geschlossenen Kreis mit dem Kunden unterbrechen, wenn das Problem gelöst ist.
+-   Sie müssen kommunizieren und den geschlossenen Kreis mit dem Kunden unterbrechen, wenn das Problem gelöst ist. 
 
  
-
- 
-
+Abrechnungsstreitigkeiten: Melden Sie Probleme (https://msdn.microsoft.com/en-us/partner-center/report-problems-with-partner-center), um Fragen zur Rechnungsstellung oder zu Streitigkeiten zu klären.
 
 

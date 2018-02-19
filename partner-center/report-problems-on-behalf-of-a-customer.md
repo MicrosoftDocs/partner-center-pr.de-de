@@ -1,12 +1,14 @@
 ---
 title: Melden von Problemen im Auftrag eines Kunden | Partner Center
-Description: "Wenn ein Kunde ein Problem mit einem Dienst meldet, das Sie nicht beheben können und das die unter „Eskalieren von Problemen an Microsoft“ beschriebenen Kriterien erfüllt, beantragen Sie ein Supportticket für den Kunden."
+Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
-ms.openlocfilehash: 8c59c9d67ab06bd515945e613b14b79d21d318b8
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
+ms.openlocfilehash: af69b2fd3ad63e9b926afbb6ffef3cf575c5e997
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: de-DE
+ms.lasthandoff: 02/01/2018
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Melden von Problemen im Auftrag eines Kunden
 
@@ -26,24 +28,25 @@ Wenn ein Kunde ein Problem mit einem Dienst meldet, das Sie nicht beheben könne
 
 3.  Wählen Sie für den problematischen Dienst **Serviceanfrage erstellen oder anzeigen** aus. Sie werden zum Microsoft Azure-Portal oder Office 365 Admin Center umgeleitet.
 
-    **Microsoft Azure**
+**Microsoft Azure**
 
-    1.  Wählen Sie **Neue Supportanfrage** aus.
-    2.  Füllen Sie die Supportanfrage mit den entsprechenden Informationen aus, und wählen Sie dann **Erstellen**:
+**Hinweis:** Damit Sie in Azure Serviceanfragen für Ihren Kunden erstellen können, muss Ihr indirekter Anbieter Ihnen Zugriff auf das Azure-Konto des Kunden gewähren. Dies unterscheidet sich von der Verwaltung im Auftrag von Kunden für Office 365.   
+
+1.  Wählen Sie **Neue Supportanfrage** aus.
+2.  Füllen Sie die Supportanfrage mit den entsprechenden Informationen aus, und wählen Sie dann **Erstellen**:
         -   Wählen Sie im Abschnitt **Grundlagen** im Feld **Supportplan** die Option **Cloud-Lösungsanbieter**.
         -   Geben Sie im Abschnitt **Kontakt** der Supportanfrage Ihre Informationen und nicht die Ihres Kunden ein.
 
-    3.  Überprüfen Sie später die Serviceanfragen Ihres Kunden im Microsoft Azure-Portal, indem Sie **Supportanfragen verwalten** auswählen.
+3.  Überprüfen Sie später die Serviceanfragen Ihres Kunden im Microsoft Azure-Portal, indem Sie **Supportanfragen verwalten** auswählen.
 
-    **Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
 
-    1.  Wählen Sie im Abschnitt **Serviceanfrage erstellen** die geeignete Supportkategorie aus. Möglicherweise müssen Sie **Mehr...** auswählen, um weitere Themen anzuzeigen.
-    2.  Füllen Sie das Formular für die Serviceanfrage aus, und wählen Sie **Übermitteln** aus.
-        **Hinweis** Geben Sie Ihre Kontaktinformationen und nicht die Ihres Kunden an.
 
-         
+**Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
 
-    3.  Überprüfen Sie später die Serviceanfragen Ihres Kunden, indem Sie zum Office 365 Admin Center wechseln und **Alle Supporttickets anzeigen** auswählen.
+1. Wählen Sie im Abschnitt **Serviceanfrage erstellen** die geeignete Supportkategorie aus. Möglicherweise müssen Sie **Mehr...** auswählen, um weitere Themen anzuzeigen.    
+2. Füllen Sie das Formular für die Serviceanfrage aus, und wählen Sie **Übermitteln** aus.
+    **Hinweis** Geben Sie Ihre Kontaktinformationen und nicht die Ihres Kunden an.
+3. Überprüfen Sie später die Serviceanfragen Ihres Kunden, indem Sie zum Office 365 Admin Center wechseln und **Alle Supporttickets anzeigen** auswählen.
 
 ## <a name="faq"></a>Häufig gestellte Fragen
 

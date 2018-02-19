@@ -3,11 +3,11 @@ title: "Verfügbare Märkte und Kundenvereinbarungen für Microsoft Cloud-Lösun
 description: Herunterladen von markt- und sprachspezifischen Kundenvereinbarungsvorlagen aus dem Partner Center
 author: Maggie Evans
 keywords: "Microsoft-Cloud-Verträge, Vorlagen für Kundenverträge, CSP-Vereinbarungen für Kunden, MCA, MCAs, CSP, wo kann ich über CSP verkaufen?, CSP-Länder und -Regionen, CSP-MCAs in mehreren Sprachen, CSP Nordamerika, CSP Mittelamerika, CSP Südamerika, CSP Karibik, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud Deutschland, CSP Naher Osten, CSP Afrika, CSP Europa, CSP Asien, CSP Pazifik, CSP-MCAs"
-ms.openlocfilehash: 76d14f29db45d59bab06d094aeb2c7cf213533ad
-ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+ms.openlocfilehash: 6ed6c017eaea2607c930e403fbca71b49516d265
+ms.sourcegitcommit: 4964383ea9dcd51d27256a2969a453d67c5ebf0c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2017
+ms.lasthandoff: 02/03/2018
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Märkte und Kundenvereinbarungen für Microsoft Cloud Solution Provider
 
@@ -142,7 +142,7 @@ Die unten aufgeführten Microsoft Cloud Agreement-Kundenvorlagen sind ab dem 1.S
 - Vatikanstadt: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 
 ## <a name="microsoft-cloud-germany"></a>Microsoft Cloud Deutschland
-- Alle EU-/EFTA-Länder: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_ENG_Sep20172_GermanCloud.pdf), [Deutsch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_GER_Sep20172_GermanCloud.pdf)
+- Alle EU-/EFTA-Länder: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_ENG_Sep20173_GermanCloud.pdf), [Deutsch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_GER_Sep20173_GermanCloud.pdf)
 
 ## <a name="middle-east-and-africa"></a>Naher Osten und Afrika
 - Algerien: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [Französisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf), [Arabisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     

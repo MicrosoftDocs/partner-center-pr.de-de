@@ -3,11 +3,11 @@ title: Vorbereiten des Wechsels vom Partner Admin Center zum Partner Center | Pa
 description: "Die Office365-Partner Admin Center-Funktionalität wird in das Partner Center verschoben."
 author: labrenne
 Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
-ms.openlocfilehash: 3124845c9397b5d9a03f376fe99fea2d7e45963c
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: 54348d9f5c7845dc60fd6d9a2f62a0b6d180a257
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 02/01/2018
 ---
 # <a name="partner-admin-center-is-moving-to-partner-center"></a>Partner Admin Center wird in das Partner Center verschoben
 

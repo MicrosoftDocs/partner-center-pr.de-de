@@ -3,11 +3,11 @@ title: Cloud Business Applications-Kompetenz
 description: "Die Cloud Business Applications-Kompetenz ist für Partner, die sich auf die Bereitstellung und Verwaltung von Microsoft Dynamics 365 für ihre Kunden spezialisieren."
 author: Daniel Simpson
 keywords: "Kompetenz, Kompetenzen, Cloudgeschäftsanwendungen"
-ms.openlocfilehash: 073e31972c8abcfdb176d6ceec65bbda67e8a5f0
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
+ms.openlocfilehash: 89459db489bce42c7b91ac1b76bebe6e34c5a705
+ms.sourcegitcommit: 201493cd49b1b65206aa46442677ec1979287358
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 01/25/2018
 ---
 # <a name="cloud-business-applications"></a>Cloud Business Applications 
 
@@ -51,7 +51,7 @@ Die Enterprise Customer Engagement-Option eignet sich ideal für Partner, die mi
     
     **UND**
     
-    - Die gleichen **5** Personen müssen eine der folgenden funktionalen Prüfungen bestehen:
+    - Die gleichen oder **5** andere Personen müssen jeweils auch eine der folgenden funktionalen Prüfungen bestehen:
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
         - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx): Microsoft Dynamics 365 for Field Service *Neue Prüfung ab Dezember 2017 verfügbar

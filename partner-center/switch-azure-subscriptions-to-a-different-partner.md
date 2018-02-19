@@ -3,9 +3,12 @@ title: "Übertragen von Azure-Abonnements auf einen anderen Partner | Partner Ce
 description: "Kunden können den Partner im Programm für Cloud-Lösungsanbieter ändern, den sie für Microsoft Azure-Dienste verwenden möchten. Dies ist jedoch ein manueller Vorgang, der Aktionen von Partnern und Kunden erfordert."
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
-ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+keywords: "Azure-Abonnement, Partner wechseln, Partner ändern, neue Partner, andere Partner"
+ms.openlocfilehash: 5bc29e78cb94068a5d7675f6f030bc31e78f40a4
+ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 01/24/2018
 ---
 # <a name="switch-azure-subscriptions-to-a-different-partner"></a>Übertragen von Azure-Abonnements auf einen anderen Partner
 
@@ -17,11 +20,14 @@ Kunden können den Partner im Programm für Cloud-Lösungsanbieter ändern, den 
 
 **Hinweis** Zurzeit gibt es keinen automatischen Vorgang, über den Azure-Kunden von EA, Open oder anderen Lizenzierungsprogrammen zu CSP wechseln können. Dies ist ein manueller Vorgang, der Aktionen von Partnern und Kunden erfordert. Darüber hinaus ist es zurzeit nicht möglich, für Office365-, Enterprise Mobility Suite- oder Microsoft Dynamics CRM-Abonnements den Partner im Programm für Cloud-Lösungsanbieter zu ändern.
 
+
  
 
 **Partner für Azure-Abonnements wechseln**
 
-1.  Um ein Azure-Abonnement auf einen neuen Partner zu übertragen, muss der Kunde den Vorgang starten und sich schriftlich an den aktuellen eingetragenen CSP-Partner wenden.
+1.  Um ein Azure-Abonnement auf einen neuen Partner zu übertragen, muss der Kunde den Vorgang starten und sich schriftlich an den aktuellen eingetragenen CSP-Partner wenden. 
+
+    >**Hinweis:**<br> Es liegt in der Verantwortung des aktuellen Partners, das Serviceticket zu erstellen, das den Übertragungsprozess initiiert. Microsoft kann nicht im Auftrag der Kunden oder des neuen Partner eingreifen. Der Kunde sollte planen, eng mit dem aktuellen Partner zusammenzuarbeiten, um den Übergang reibungslos zu gestalten.
 
 2.  Der CSP-Partner für das Abonnement muss folgende Schritte ausführen:
 
@@ -69,7 +75,12 @@ Kunden können den Partner im Programm für Cloud-Lösungsanbieter ändern, den 
 
         **PS C:\\&gt; Get-AzureRMRoleAssignment**
 
-    Entfernen Sie veraltete Berechtigungen für das Abonnement und Ressourcen, indem Sie das Abonnement im Azure-Portal verwalten. Wählen Sie im Menü „Partner Center” **Kunden**. Erweitern Sie den Kundeneintrag und wählen Sie **Abonnements anzeigen**. Wählen Sie im Menü „Kunden” **Service management**. Unter **Microsoft Azure** klicken Sie auf den Link, um zum **Microsoft Azure-Verwaltungsportal** zu wechseln.
+7. Entfernen veralteter Zugriffsberechtigungen
+
+    -  Wählen Sie **Kunden** im Partner Center-Menü. 
+    -  Erweitern Sie den Kundeneintrag und wählen Sie **Abonnements anzeigen**. 
+    -  Wählen Sie im Menü „Kunden” **Service management**. 
+    -  Unter **Microsoft Azure** klicken Sie auf den Link, um zum **Microsoft Azure-Verwaltungsportal** zu wechseln.
 
  
 

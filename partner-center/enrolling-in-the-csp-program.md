@@ -2,11 +2,11 @@
 title: "Registrieren für das Programm für Cloud-Lösungsanbieter | Partner Center"
 description: "Grundlegendes zu den verschiedenen Modellen für den Verkauf in CSP und herausfinden, welche Lösung am besten zu Ihrem Unternehmen passt"
 author: labrenne
-ms.openlocfilehash: 648be8e9df0c72096278c3b8881cf986721293ab
-ms.sourcegitcommit: 9952a3abf59a561a650d56ee23aed1ef1b94a50c
+ms.openlocfilehash: 198e2189d7346849be67f4a93515a9da8a4deb4f
+ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2017
+ms.lasthandoff: 01/24/2018
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud-Lösungsanbieter
 
@@ -38,6 +38,8 @@ Die Überprüfung Ihrer Angaben kann mehrere Tage dauern. Wir werden Sie per E-M
 4. Der Mitarbeiter, der die Rolle des Unternehmensprofil-Administrator ausführt, sollte Ihr Unternehmensprofil einrichten, damit Sie Empfehlungen für Kunden erhalten können.
 
 ### <a name="enroll-as-a-direct-partner"></a>Sich als direkter Partner registrieren
+
+>**Hinweis:**<br> Wir sind gerade dabei, unsere Anforderungen für direkte Partneranmeldungen zu aktualisieren und akzeptieren derzeit keine neuen Anwendungen. Wir planen, den Bewerbungsprozess ab CY18 Q2 wieder zu eröffnen. Ziehen Sie eine Registrierung als indirekter Händler in Erwägung.
 
 Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit Microsoft.
 

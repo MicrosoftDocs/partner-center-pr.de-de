@@ -1,12 +1,14 @@
 ---
 title: Nichtbezahlung, Betrug oder Missbrauch | Partner Center
-description: "Sie sind für betrügerische Käufe und/oder Nichtbezahlung gekaufter Dienste durch Ihre Kunden finanziell verantwortlich. Daher empfehlen wir Ihnen, entsprechende Maßnahmen zur Verhinderung von Betrug und Erkennung von Betrugsrisiken zu treffen."
+description: "Strategien für die Verwaltung von Onlinetransaktionsrisiken, einschließlich der Nichtzahlung von Waren und Dienstleistungen durch den Kunden sowie betrügerische Aktivitäten oder Missbrauch."
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
+keywords: Betrug, Missbrauch, akzeptable Nutzung, akzeptable Nutzungsrichtlinien, Nichtzahlung, Zahlung durch den Kunden, Onlinerisiko, Diebstahl von Diensten, Dienstmissbrauch, Anhalten eines Abonnements,
 author: MaggiePucciEvans
-ms.openlocfilehash: d4b4703901b157324a3a1b9205f9bc2570dd9cb8
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 9513347d1a7d176a074877dc60d164695484c314
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: de-DE
+ms.lasthandoff: 02/01/2018
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Nichtbezahlung, Betrug oder Missbrauch
 
@@ -16,46 +18,62 @@ ms.contentlocale: de-DE
 -  Partner Center für Microsoft Cloud für US-Behörden
 -  Partner Center für Microsoft Cloud Deutschland
 
-Sie sind für betrügerische Käufe und/oder Nichtbezahlung gekaufter Dienste durch Ihre Kunden finanziell verantwortlich. Daher empfehlen wir Ihnen, entsprechende Maßnahmen zur Verhinderung von Betrug und Erkennung von Betrugsrisiken zu treffen. Es liegt in Ihrem Ermessen, Kunden einen Kreditrahmen einzuräumen.
+Sie sind finanziell verantwortlich für betrügerische Einkäufe Ihrer Kunden und/oder für die Nichtzahlung von gekauften Dienstleistungen durch Ihre Kunden. Aus diesem Grund empfehlen wir Ihnen dringend, Kontrollen zur Betrugsprävention und zur Risikominderung einzuführen.
 
-## <a name="in-this-section"></a>Inhalt dieses Abschnitts
+## <a name="types-of-online-risk"></a>Arten von Onlinerisiken
 
+Um betrügerische Aktivitäten oder Missbrauch zu vermeiden und/oder zu bekämpfen, ist es wichtig, potenzielle Risiken zu verstehen und Richtlinien und Praktiken zu entwickeln, die Ihre Gefährdung verringern können.
 
--   [Nichtbezahlung](#nonpayment)
+#### <a name="risk-exposure-to-be-mitigated"></a>Zu minimierende Risiken
 
--   [Schadensminderung bei Betrug oder Missbrauch](#fraudmisusemitigation)
+- **Diebstahl des Diensts** Kunden, die nicht beabsichtigen, genutzte Dienste zu bezahlen, indem sie gestohlene Zahlungsinstrumente verwenden, falsche Rechnungsinformationen angeben und/oder ausstehende Rechnungen nicht begleichen
 
-## <a href="" id="nonpayment"></a>Nichtbezahlung
+- **Missbrauch des Diensts** Kunden, die Clouddienste unter Verstoß gegen Microsofts Verwendungsrichtlinien nutzen
 
+#### <a name="examples-of-possible-fraud-or-service-abuse"></a>Beispiele für möglichen Betrug oder Missbrauch des Diensts
+- Spamming
+- Hacking
+- DDOS-Angriffe
+- Bitcoin-Mining
+- Malwareverteilung
+- Weiterverkauf illegal erworbener Abonnements 
 
--   Es wird empfohlen, eine klare Abrechnungsrichtlinie für Kunden aufzustellen, in der Ihr Abrechnungsprozess detailliert geregelt wird und in der die Auswirkungen auf den Abonnementzugriff beschrieben sind.
--   Sie können den Zugriff deaktivieren oder die Abonnements Ihrer Kunden bei Nichtbezahlung direkt kündigen.
+#### <a name="examples-of-online-transaction-risk"></a>Beispiele für Onlinetransaktionsrisiken
+- „Kreditkarte ist nicht vorhanden”, d.h. unpersönliche Transaktionen
+- Falsch angegebene Identitäten
+- Dienste bereitgestellt und verwendet, bevor die erste Zahlung eintrifft
+- Aufstrebende Märkte und hochriskante Regionen für Onlinebetrug
+- Möglichkeiten für kriminelle Akteure, Kontoerstellung und Einkauf zu automatisieren
 
-## <a href="" id="fraudmisusemitigation"></a>Schadensminderung bei Betrug oder Missbrauch
+## <a name="strategies-for-managing-online-risk"></a>Strategien zum Verwalten von Onlinerisiken
 
+Diese Empfehlungen können Ihnen dabei helfen, Richtlinien und Praktiken zu entwickeln, mit denen Sie das Risiko von Onlinetransaktionen über den gesamten Lebenszyklus Ihrer Kundenbeziehungen reduzieren können.  
 
-Sie haben folgende Möglichkeiten, um betrügerische Handlungen oder Missbrauch zu unterbinden:
+#### <a name="when-onboarding-new-customers"></a>Bei Gewinnung von Neukunden
+- Versuchen Sie, möglichst persönliche Beziehungen zu den Kunden aufbauen, z.B. durch telefonische Kontaktaufnahme.
+- Suchen Sie nach besseren Möglichkeiten, um die Referenzen und den Hintergrund Ihrer Kunden zu überprüfen (Kreditbüros und Wirtschaftsauskunfteien). 
+- Aktivieren Sie die SMS-Überprüfung bei der Registrierung, um das Risiko für automatische Kontoerstellung und automatische Einkäufe zu minimieren.
+- Verwenden Sie zur Identitätsverwaltung und Nachverfolgung digitale Identifizierungsdienste.
+- Verwenden Sie Systeme zur Erkennung von Kreditkartenbetrug, um die finanzielle Stärke der Kunden zu beurteilen.
+- Richten Sie eine klare Inkassorichtlinie ein, die Ihre Inkassoprozesse detailliert beschreibt und die den Zugriff auf Abonnements regelt (Sie müssen bei Nichtzahlung den Zugriff deaktivieren oder [die Abonnements eines Kunden sperren](suspend-a-subscription.md) können).
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>Aussetzen eines Abonnements</td>
-<td><p>Sie können Abonnements selbst über das Partner Center aussetzen, während Sie das Problem untersuchen. Siehe [Aussetzen eines Abonnements](suspend-a-subscription.md).</p></td>
-</tr>
-<tr class="even">
-<td>Erstellen eines Diensttickets</td>
-<td><p>Erstellen Sie eine Serviceanfrage im Partner Center, wenn Sie weitere Fragen oder Bedenken zu verdächtigen Aktivitäten haben. Siehe [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md).</p></td>
-</tr>
-</tbody>
-</table>
+#### <a name="post-purchase-customer-account-management"></a>Kundenkontoverwaltung nach dem Kauf
+- Arbeiten Sie mit den Kunden zusammen, um deren grundlegenden Geschäftsanforderungen an die Clouddienstnutzung zu verstehen und geeignete Überwachung von Schwellenwerten festzulegen.
+    >**Hinweis:** Sie können [ein monatliches Azure-Ausgabenbudget](set-an-azure-spending-budget-for-your-customers.md) im Partner Center festlegen, um die Kundennutzung während des Monats zu überwachen und benachrichtigt zu werden, wenn Kunden nahe an ihrem Budget sind.
+- Prüfen Sie die [Kundenaktivitätsprotokolle](activity-logs.md) regelmäßig, um Betrug früh zu erkennen
+- Handeln Sie schnell, wenn Sie verdächtige Aktivitäten entdecken.
+- Vermeiden Sie es, Kunden vollständigen Administratorzugriff auf Abonnements zu gewähren, wenn Sie noch keine Kontrollmechanismen zur Risikominderung implementiert haben.
+- Implementieren Sie entsprechende Prozesse, um Microsoft-Benachrichtigungen schnell zu empfangen, zu überprüfen, auf diese zu reagieren und sie zu beantworten.
 
- 
+#### <a name="post-purchase-customer-billing-management"></a>Kundenrechnungsverwaltung nach dem Kauf
+- Fordern Sie Vorauszahlungen vor den ersten Transaktionen und der Abrechnung an. 
+- Akzeptieren Sie keine risikoreichen Zahlungsinstrumente wie Prepaid- oder Wertkarten.
+- Überwachen Sie Kundenzahlungen und verspätet eingegangene Zahlungen sehr genau, und erzwingen Sie standardisierte Mahnverfahren bei nicht termingerechten oder Nichtzahlung.
 
-Wenn Microsoft eine Partner- oder Kundenaktivität erkennt, die von uns als Verstoß gegen die Acceptable Use Policy angesehen wird, werden wir entsprechende Durchsetzungsmaßnahmen ergreifen. Der Kunde kann unter Umständen sofort ausgesetzt werden. Sie werden über die Durchsetzungsmaßnahmen informiert oder erhalten von Microsoft aktuelle Informationen zu Ihren Anfragen.
+Detailliertere Strategien zur Minderung des Onlinerisikos finden Sie im der [Anleitung zur Verwaltung von Onlinetransaktionsrisiken](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip).
+
+>**Wichtig**<br>
+Wenn Microsoft eine Partner- oder Kundenaktivität erkennt, die von uns als Verstoß gegen die Acceptable Use-Richtlinie angesehen wird, werden wir entsprechende Durchsetzungsmaßnahmen ergreifen. Der Kunde kann unter Umständen sofort suspendiert werden. Sie werden über die Durchsetzungsmaßnahmen informiert oder erhalten von Microsoft aktuelle Informationen zu Ihren Anfragen.
 
  
 

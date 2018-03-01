@@ -1,14 +1,14 @@
 ---
-title: Verschieben von Lizenz-Services-Kunden zum Cloud Service Programm im Partner Center | Partner Center
+title: Verschieben von Kunden mit lizenzbasierten Diensten in das Cloud Solution Provider-Programm im Partner Center | Partner Center
 description: "Sie können Kunden und Abonnements nicht automatisch zum Partner Center verschieben. Sie können dies jedoch manuell erledigen."
 author: labrenne
-ms.openlocfilehash: bc115ad57614dc48ca8d75e4347f1cd2dbcd9d50
-ms.sourcegitcommit: db945c0cf04f675c4cb71ae3dd1d1737d086e7e2
+ms.openlocfilehash: 43494cb92655dca4c4ed74753ac1c82cf61f73e2
+ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/23/2017
+ms.lasthandoff: 02/09/2018
 ---
-# <a name="moving-license-based-services-customers-to-the-cloud-service-program-on-partner-center"></a>Verschieben von lizenzbasierten Services-Kunden zum Cloud Service Programm im Partner Center
+# <a name="moving-license-based-services-customers-to-the-cloud-solution-provider-program-on-partner-center"></a>Verschieben von Kunden mit lizenzbasierten Diensten in das Cloud Solution Provider-Programm im Partner Center
 
 **Betrifft:**
 
@@ -16,7 +16,7 @@ ms.lasthandoff: 08/23/2017
 
 Derzeit können Sie im Partner Center Ihre Kunden und Abonnements nicht automatisch aus einem Lizenzierungsprogramm in ein anderes verschieben. Mithilfe der Multichannel- und Multi-Partner-Funktionen im Partner Center können Sie jedoch einzelne Kunden manuell verschieben. Erfahren Sie mehr über die [Multi-Channel- und Multi-Partner-Funktionen im CSP](https://microsoft.sharepoint.com/sites/infopedia/pages/layouts/KCDoc.aspx?k=G03KC-1-5871). 
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-service-program-csp"></a>Verschieben der lizenzbasierten Abonnements Ihrer Kunden zum Cloud Service Programm (CSP)
+## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Verschieben der lizenzbasierten Abonnements Ihrer Kunden in das Cloud Solution Provider-Programm (CSP)
 
 1. Wählen Sie im Menü **Dashboard** die Option Kunden und anschließend **Vertriebspartnerschaft beantragen** aus.
 

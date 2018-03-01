@@ -1,12 +1,13 @@
 ---
 title: "Häufig gestellte Fragen zu neuen Abrechnungsfunktionen | Partner Center"
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
+ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 503a1fac539b2cd40e8b95ab458143801c5d0134
-ms.sourcegitcommit: 4964383ea9dcd51d27256a2969a453d67c5ebf0c
+ms.openlocfilehash: cd6e267dd691529998cf43e7a21a3abac066e2d7
+ms.sourcegitcommit: 6eec754e269e8744d4e09df64a690d0c74525dbb
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/03/2018
+ms.lasthandoff: 02/14/2018
 ---
 # <a name="faq-about-new-billing-features"></a>Häufig gestellte Fragen zu neuen Abrechnungsfunktionen
 
@@ -193,7 +194,7 @@ Abschnitte:
 
 **F:** Wie werden Kauf, Änderung oder Stornierung eines Jahresabonnements in Spalte P der Nutzungsdateien angezeigt?
 
--   **A:** Die anfängliche Gebühr wird als „Anteilige Gebühren bei Erwerb” angezeigt. Lizenzänderungen, die zur Gutschrift und Neuberechnung führen, werden als „Anteilige Zyklusinstanz” angezeigt. Stornierungsgutschriften werden als „Stornierungsgebühr” angezeigt.
+-   **A:** Die anfängliche Gebühr wird als „Anteilige Gebühren beim Kauf” angezeigt. Lizenzänderungen, die zur Gutschrift und Neuberechnung führen, werden als „Anteilige Zyklusinstanz” angezeigt. Stornierungsgutschriften werden als „Stornierungsgebühr” angezeigt.
 
 **F:** Was wird in der Abstimmungsdatei angezeigt, wenn ein Jahresabonnement storniert wird?   
 
@@ -251,12 +252,12 @@ Abschnitte:
 
 **F:** Was geschieht, wenn ich mein Abonnement storniere? 
 
--   **A:** Wenn Sie ein Abonnement entweder im Partner Center oder über API innerhalb von 30Tagen nach dem Kauf anhalten, erhalten Sie eine Erstattung von 100%, unabhängig von der Abrechnungsfrequenz. 
+-   **A:** Wenn Sie ein Abonnement entweder im Partner Center oder über API innerhalb von 30Tagen nach dem Kauf stornieren, erhalten Sie eine Erstattung von 100%, unabhängig von der Abrechnungsfrequenz. 
 
     Mit einer jährlichen Abrechnung würde es wie folgt aussehen:
 
     - Der Partner kauft ein Abonnement am 1.Januar = Rechnungsposition der Gebühr für den Aktivierungszeitraum 1.1 – 31.12.
-    - Der Partner kauft ein Abonnement am 1.Januar = Rechnungsposition der Gebühr für den Aktivierungszeitraum 01.01 – 31.12.
+    - Der Partner storniert ein Abonnement am 25.Januar = Rechnungsposition der Gebühr für den Aktivierungszeitraum 01.01 – 31.12.
     - Der Partner kauft ein Abonnement am 1.Januar = Rechnungsposition der Gebühr für den Aktivierungszeitraum 29.01 – 31.12.
 
     Mit einer monatlichen Abrechnung würde es wie folgt aussehen:
@@ -397,192 +398,271 @@ Vor der Anpassung des Abrechnungsdatums sind wir bei der Rechnungsstellung vom d
 
 Abonnements, deren kostenloser Zeitraum den 20. Februar umfasst, werden im Zeitraum zwischen Kaufdatum und dem Abrechnungsdatum für den Partner nicht berechnet. Zudem sind sie im Monat 1 des 12-monatigen Abrechnungszeitraums kostenlos. Wenn Sie eine Abstimmungsdatei für die Überprüfung verwenden, beachten Sie, dass die Gebühren für diesen ersten Monat nicht mehr angezeigt werden.  
 
+APIs, Abrechnung oder Incentives werden aufgrund dieser Änderung nicht geändert. Bitte informieren Sie Ihre Verkaufs- und Buchhaltungsteams über diese neue Abrechnungslogik, und stellen Sie sicher, dass deren Abläufe entsprechend angepasst werden. Häufig gestellte Fragen mit detaillierten Abrechnungsszenarien finden sie nachstehend.  
 
-**F:** Was ändert sich?
 
--   **A:** Für lizenzbasierte Abonnements gibt es keinen kostenlosen Zeitraum mehr zwischen Kaufdatum und Rechnungsdatum des Partners.
+**F1:** Was ändern sich mit dem Abrechnungsdatum?
 
-**F:** Wann entfällt der kostenlose Zeitraum?
+-   **A:** Für lizenzbasierte Abonnements gibt es keinen kostenlosen Testzeitraum mehr. Derzeit ist der Zeitraum zwischen Kaufdatum und Partnerabrechnungsdatum kostenlos.
+
+**F2:** Wann entfällt der kostenlose Zeitraum?
 
 - **A:** Ab dem 20. Februar 2018 gibt es für neue Abonnements keinen freien Zeitraum mehr.
 
-**F:** Sind Abonnements betroffen, deren kostenloser Zeitraum den 20. Februar 2018 umfasst?
+**F3:** Wie wird sich das auf die Abonnements im kostenlosen Zeitraum am 20. Februar auswirken?
 
-- **A:** Der kostenlose Zeitraum wird bis zum Partnerabrechnungsdatum für Abonnements fortgesetzt, die sich bereits am 20. Februar 2018 im kostenlosen Zeitraum befinden. Zudem sind sie im Monat 1 des 12-monatigen Abrechnungszeitraums kostenlos. Wenn Sie die Abstimmungsdatei für die Überprüfung verwenden, beachten Sie, dass die Gebühren für diesen ersten Monat nicht mehr angezeigt werden. Die nachstehenden Szenarien enthalten eine genauere Beschreibung.
+- **A:** Abonnements, für die am 20. Februar 2018 ein kostenloser Zeitraum gilt, erhalten diesen weiterhin ab Kaufdatum bis zum Partnerabrechnungsdatum. Diese Lizenzen erhalten zudem einen „verlängerten kostenlosen Zeitraum” und werden für den 1. Monat der 12-monatigen Laufzeit nicht berechnet. Der „erweiterte kostenlose Zeitraum” gilt nicht für Lizenzen, die im 1. Monat hinzugefügt werden. Wenn Sie die Lizenzanzahl im 1.Monat erhöhen, werden Ihnen die zusätzlichen Lizenzen mit der nächste Rechnung/Abstimmung berechnet. Wenn Sie die Abstimmungsdatei für die Überprüfung verwenden, beachten Sie, dass die Gebühren für diesen ersten Monat möglicherweise nicht mehr in der Datei angezeigt werden. Die nachstehenden Szenarien enthalten eine genauere Beschreibung.
 
-**F:** Wann beginnt der kostenpflichtig Zeitraum von 12 Monaten?
+**F4:** Wann beginnt der kostenpflichtige Zeitraum von 12Monaten für ein neues Abonnement?
 
-- **A:** Derzeit beginnt die bezahlte Periode an dem auf das Kaufdatum folgenden Partnerabrechnungsdatum. Nach Abschaffung des kostenlosen Zeitraums beginnt der bezahlte Zeitraum für neue Abonnements mit dem Kaufdatum.
+- **A:** Derzeit beginnt der bezahlte Zeitraum an dem auf das Kaufdatum folgenden Partnerabrechnungsdatum. Ab dem 20. Februar 2018 beginnt der bezahlte Zeitraum für neue Abonnements mit dem Kaufdatum.
 
-**F:** Wann werden Abonnements automatisch verlängert?
+**F5:** Wann werden Abonnements automatisch verlängert?
 
-- **A:** Derzeit verlängern sich Abonnements automatisch 12 Monate nach dem auf das Kaufdatum folgende Partnerabrechnungsdatum. Nach Abschaffung des kostenlosen Zeitraums verlängern sich Abonnements automatisch nach 12 Monaten ab dem Kaufdatum.
+- **A:** Abonnements verlängern sich automatisch 12 Monate nach dem ersten Abrechnungsdatum. Derzeit verlängern sich Abonnements automatisch 12 Monate nach dem auf das Kaufdatum folgende Partnerabrechnungsdatum. Ab dem 20. Februar 2018 werden alle neuen Abonnements automatisch 12Monate nach dem Kaufdatum erneuert.
 
-**F:** Was geschieht, wenn ich das Abonnement am 29., 30. oder 31. erwerbe?
+**F6:** Was geschieht, wenn ich das Abonnement am 29., 30. oder 31. eines Monats erwerbe?
 
-- **A:** Das Abonnement wird ab Kaufdatum bereitgestellt, aber der kostenpflichtige 12-Monatszeitraum beginnt erst mit dem Folgemonat.
+- **A:** Das Abonnement ist ab Kaufdatum verfügbar, aber der kostenpflichtige Zeitraum von 12 Monaten beginnt erst mit ersten Tags des Folgemonats.
 
-**F:** Welche Angebote sind von dieser Änderung betroffen?
+**F7:** Welche Angebote sind betroffen?
 
-- **A:** Es sind alle lizenzbasierten CSP-Abonnements betroffen.
+- **A:** Der kostenlose Zeitraum entfällt für alle lizenzbasierten CSP-Abonnements.
 
-**F:** Wie wirkt sich diese Änderung auf die Rechnung und die Abstimmungsdatei aus?
+**F8:** Wie wirkt sich diese Änderung auf die Rechnung und die Abstimmungsdatei aus? 
 
-- **A:** Partnern wird keine Rechnungszeile mehr mit einem Nullbetrag angezeigt, die den kostenlosen Zeitraum in der Abstimmungsdatei darstellt.
+- **A:** Die Nullbetragszeile ist nicht mehr in der Rechnung bzw. Abstimmungsdatei vorhanden. Derzeit bezeichnet die Nullbetragszeile einen kostenlosen Zeitraum.
 
-**F:** Ändert sich mein Abrechnungsdatum?
+**F9:** Ändert sich mein Abrechnungsdatum?
 
 - **A:** Nein, Sie erhalten die Rechnung und die Abstimmungsdatei weiterhin an Ihrem bisherigen Abrechnungsdatum.
 
-**F:** Ändern sich das monatliche Anfangs- und Enddatum für bestehende Abonnements?
+**F10:** Ändern sich das monatliche Anfangs- und Enddatum für bestehende Abonnements?
 
 - **A:** Nein, das monatliche Anfangs- und Enddatum für bestehende Abonnements entspricht weiterhin Ihrem Abrechnungsdatum. Neue Abonnements werden jedoch nach dem Kaufdatum berechnet. Siehe Beispiel unten.
 
-**F**: Ändert sich die Berechnung der Incentives?
+**F11**: Ändert sich die Berechnung der Incentives?
 
-- **A:** Nein.
+- **A:** Nein, es gibt keine Änderung bei den Incentives-Berechnungen.
 
-**F:** Ändern sich die APIs?
+**F12:** Wurden die APIs geändert?
 
-- **A:** Nein.
+- **A:** Nein, es gibt keine Änderung bei den APIs.
 
 ### <a name="common-scenarios"></a>Häufige Szenarien
 
 
 |**Szenarien**   |**Szenario 1: Der kostenlose Zeitraum des Abonnement endet vor dem 20. Februar 2018.**   |**Szenario 2: Der kostenlose Zeitraum des Abonnement umfasst den 20. Februar 2018.**  | **Szenario 3: Das Abonnement wurde am oder nach dem 20. Februar 2018 erworben.**   |
 |----------|:------------|:--------------------|:------------|
-|Kaufdatum |1. Februar    | 1. Februar    | 1. Juni     |
-|Bereitstellungsdatum | 1. Februar   |1. Februar   |1. Juni   |
-|Abrechnungsdatum   | 15   |25   | 15|
-|Kostenloser Zeitraum   | 1. Februar – 15. Februar|1. Februar – 24. Februar   |Kein kostenloser Zeitraum|
-|Gebühr für Monat 1   | 15.Februar – 14. März | 25.Februar2018 – 24.März2018 keine Belastung, nicht in Abstimmungsdatei aufgeführt|1.Juni – 30.Juni   |
-|Gebühr für Monat 2   | 15.März – 14. April|25.März – 24. April   |1. Juli – 31. Juli|
-|Beginn des kostenpflichtigen Zeitraums   | 15. Februar 2018 | 25. März 2018| 1. Juni 2018| 
-|Ende des kostenpflichtigen Zeitraums | 14. Februar 2019   |24. Februar 2019   | 31. Mai 2019  |
-|Verlängerungsdatum | 15. Februar 2019 |25. Februar 2019   |1.Juni2019|
+|Kaufdatum |1. Februar 2018    | 1. Februar 2018    | 1. Juni 2018     |
+|Bereitstellungsdatum | 1. Februar 2018   |1. Februar 2018   |1. Juni 2018   |
+|Abrechnungsdatum   | 15. in jedem Monat   |25. in jedem Monat   | 15. in jedem Monat|
+|Kostenloser Zeitraum   | 1.Februar2018 – 14. Februar2018|1.Februar2018 – 24. Februar2018   |Kein kostenloser Zeitraum|
+|Gebühr für Monat 1   | 15.Februar2018 – 14 März2018 | Am 24.Februar2018 bestehende Lizenzen erhalten einen erweiterten kostenlosen Zeitraum bis zum 24.März2018. Nach dem 24.Februar2018 hinzugefügte Lizenzen werden in Rechnung gestellt werden. |1. Juni 2018 – 30. Juni 2018   |
+|Gebühr für Monat 2   | 15.März 2018 – 14. April 2018|25.März 2018 – 24. April 2018   |1. Juli 2018 – 31. Juli 2018|
+|Beginn des kostenpflichtigen Zeitraums   | 15.Februar 2018 | 25.Februar 2018| 1. Juni 2018| 
+|Ende des kostenpflichtigen Zeitraums | 14.Februar 2019   |24.Februar 2019   | 31. Mai 2019  |
+|Verlängerungsdatum | 15.Februar 2019 |25.Februar 2019   |1.Juni2019|
 
-### <a name="scenario---new-purchase"></a>Szenario: Neuer Kauf
+### <a name="scenario-4---new-purchase"></a>Szenario 4 – Neukauf
 
-Das Abrechnungsdatum des Partners ist der 15. Am 1. Juni kauft der Partner ein neues Abonnement zum Preis von 30 USD pro Monat. Die Abstimmungsdatei vom 15. Juni wird Folgendes enthalten:
+Das Abrechnungsdatum des Partners ist der 15. jeden Monats. Am 1. Juni 2018 kauft der Partner ein neues Abonnement. Das Abonnement kostet 30 USD pro Lizenz und Monat. 
 
-- 30 USD Gebühr für Monat 1 (1.Juni – 30.Juni)
+Die Abstimmungsdatei vom 15. Juni enthält dann folgende Rechnungspositionen:
 
-|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |
+- 30 USD Gebühr für Servicezeitraum 1. Juni – 30.Juni
 
-### <a name="scenario-suspend-and-reactivate-a-subscription-in-less-than-30-days-after-purchase"></a>Szenario: Stornieren und Reaktivieren eines Abonnements in weniger als 30Tagen nach dem Kauf
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|--------------|
+|1.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |Anteilige Gebühren beim Kauf |
 
-Das Abrechnungsdatum des Partners ist der 15. Am 1. Juni kauft der Partner ein neues Abonnement zum Preis von 30 USD pro Monat. Am 5.Juni storniert der Partner das Abonnement. Am 10.Juni reaktiviert der Partner das Abonnement. Die Abstimmungsdatei vom 15. Juni wird Folgendes enthalten:
+### <a name="scenario-5a-suspend-and-reactivate-before-billing-date"></a>Szenario 5a: Stornieren und Fortsetzen vor dem Abrechnungsdatum
 
-- 30 USD Gebühr für Monat 1 (1.Juni – 30.Juni) 
-- -30 USD Erstattung für Stornierung Beachten Sie, dass die Gebühr ab dem 5. Juni berechnet wird, dem Datum, an dem der Partner das Abonnement storniert hat. Die Erstattung ist nicht anteilig. Der Partner erhält eine Erstattung von 100%, da er das Abonnement innerhalb der ersten 30Tage storniert hat.
-- 30 USD Reaktivierungsgebühr Beachten Sie, dass die Gebühr ab dem 10. Juni berechnet wird, dem Datum, an dem der Partner das Abonnement reaktiviert hat. Der Betrag ist nicht anteilig. Alle Stornierungen und Reaktivierungen innerhalb von 30Tagen nach dem Kaufdatum werden nicht anteilig berechnet.
+Das Abrechnungsdatum des Partners ist der 15. jeden Monats. Am 1. Juni 2018 kauft der Partner ein neues Abonnement. Das Abonnement kostet 30 USD pro Lizenz und Monat. Am 5.Juni 2018 storniert der Partner das Abonnement. Am 10.Juni 2018 reaktiviert der Partner das Abonnement. Die Abstimmungsdatei vom 15. Juni enthält dann folgende Rechnungspositionen:
 
+- 30 USD Gebühr für Servicezeitraum 1. Juni – 30.Juni 
+- -30 USD Stornierungsguthaben für Servicezeitraum 5. Juni – 30.Juni Das Guthaben ist nicht anteilig, da das Abonnement in den ersten 30 Tagen storniert wurde. 
+- 30 USD Gebühr für Servicezeitraum 10. Juni – 30.Juni Die Gebühr ist nicht anteilig, da das Abonnement in den ersten 30 Tagen reaktiviert wurde. 
 
-|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |
-|5.6.2018   |30.6.2018   |-30 USD   |1   |30 USD   |
-|10.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|1.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |Anteilige Gebühren beim Kauf |
+|5.6.2018   |30.6.2018   |-30 USD   |1   |30 USD   |Stornierungsgebühr |
+|10.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |Aktivierungsgebühr |
 
+Beachten Sie, dass bei Stornierung und Reaktivierung eines Abonnements die automatische Verlängerung weiterhin nach 12 Monaten ab dem ursprünglichen Kaufdatum erfolgt.
 
-### <a name="scenario-suspend-a-subscription-in-less-than-30-days-after-purchase-and-reactivate-after-30-days"></a>Szenario: Stornieren eines Abonnements in weniger als 30Tagen nach dem Kauf und Reaktivieren nach 30 Tagen
+### <a name="scenario-5b-suspend-and-reactivate-after-billing-date-but-less-than-30-days-from-purchase-date"></a>Szenario 5b: Stornieren und Reaktivieren eines Abonnements nach dem Rechnungsdatum, aber in weniger als 30Tagen nach dem Kaufdatum
 
-Das Abrechnungsdatum des Partners ist der 15. Am 1. Juni kauft der Partner ein neues Abonnement zum Preis von 30 USD pro Monat. Am 5.Juni storniert der Partner das Abonnement. Die Abstimmungsdatei vom 15. Juni wird Folgendes enthalten:
+Das Abrechnungsdatum des Partners ist der 15. jeden Monats. Am 1. Juni 2018 kauft der Partner ein neues Abonnement. Das Abonnement kostet 30 USD pro Lizenz und Monat. Am 20.Juni 2018 storniert der Partner das Abonnement. Am 25.Juni 2018 reaktiviert der Partner das Abonnement. Die Abstimmungsdatei vom 15. Juni enthält dann folgende Rechnungspositionen:
 
-|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |
-|5.6.2018   |30.6.2018   |-30 USD   |1   |30 USD   |
+- 30 USD Gebühr für Servicezeitraum 1. Juni – 30.Juni 
 
-Am 10.Juli reaktiviert der Partner das Abonnement. Die Abstimmungsdatei vom 15. Juli wird folgende Gebühren enthalten:
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|1.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |Anteilige Gebühren beim Kauf |
 
-- 21,29 USD Reaktivierungsgebühr Die Gebühr wird ab dem 10.Juli berechnet, dem Datum, an dem der Partner das Abonnement reaktiviert hat, und der anteilige Betrag ist 21,29 USD. Alle Stornierungen und Reaktivierungen nach 30Tagen ab dem Kaufdatum werden anteilig berechnet. 
+Die Abstimmungsdatei vom 15. Juli enthält dann folgende Rechnungspositionen:
+- -30 USD Stornierungsguthaben für Servicezeitraum 20. Juni – 30.Juni Das Guthaben ist nicht anteilig, da das Abonnement in den ersten 30 Tagen storniert wurde.
+- 30 USD Gebühr für Servicezeitraum 25. Juni – 30.Juni Die Gebühr ist nicht anteilig, da das Abonnement in den ersten 30 Tagen reaktiviert wurde.
+- 30 USD Gebühr für Servicezeitraum 1. Juli – 31.Juli
 
-|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|10.7.2018   |31.7.2018   |21,29 USD   |1   |21,29 USD   |
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|20.6.2018   |30.6.2018   |-30 USD   |1   |-30 USD   |Stornierungsgebühr |
+|25.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |Aktivierungsgebühr |
+|1.7.2018   |31.7.2018   |30 USD   |1   |30 USD   |Gebühr für Zyklus |
 
-Das Verlängerungsdatum des Abonnements bleibt der 1. Juni des Folgejahrs, weil es 12 Monate nach dem ursprünglichen Kaufdatum liegt.
+### <a name="scenario-5c-suspend-and-reactivate-different-license-quantity-after-billing-date-but-less-than-30-days-from-purchase-date"></a>Szenario 5c: Stornieren und Reaktivieren unterschiedlicher Lizenzmengen nach dem Rechnungsdatum, aber in weniger als 30Tagen nach dem Kaufdatum
 
-### <a name="scenario-subscription-suspension-and-reactivation-more-than-30-days-after-purchase"></a>Szenario: Stornieren und Reaktivieren eines Abonnements nach mehr als 30Tagen nach dem Kauf 
-Das Abrechnungsdatum des Partners der 15. jeden Monats. Am 1. Juni kauft der Partner ein neues Abonnement mit einer Lizenz zum Preis von 30 USD pro Monat. Die Abstimmungsdatei vom 15. Juni wird nur Folgendes enthalten: 30 USD Gebühr für Monat 1 (1. Juni – 30. Juni).
+Das Abrechnungsdatum des Partners ist der 15. jeden Monats. Am 1. Juni 2018 kauft der Partner ein neues Abonnement. Das Abonnement kostet 30 USD pro Lizenz und Monat. Am 20.Juni 2018 storniert der Partner das Abonnement. Am 25.Juni 2018 reaktiviert der Partner das Abonnement mit 2 Lizenzen. Die Abstimmungsdatei vom 15. Juni enthält dann folgende Rechnungspositionen:
 
-|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |
+- 30 USD Gebühr für Servicezeitraum 1. Juni – 30.Juni 
 
-Der Partner storniert das Abonnement am 5.Juli und reaktiviert es am 15.Juli. Die Abstimmungsdatei vom 15. Juli wird Folgendes enthalten:
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|1.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |Anteilige Gebühren beim Kauf |
 
-- 30 USD Gebühr für Monat 2 (1. Juli – 31. Juli)
+Die Abstimmungsdatei vom 15. Juli enthält dann folgende Rechnungspositionen:
+- -30 USD Stornierungsguthaben für Servicezeitraum 20. Juni – 30.Juni Das Guthaben ist nicht anteilig, da das Abonnement in den ersten 30 Tagen storniert wurde.
+- 30 USD Gebühr für Servicezeitraum 25. Juni – 30.Juni Das Gebühr ist nicht anteilig, da das Abonnement in den ersten 30 Tagen storniert wurde.
+- -30 USD Guthaben für Servicezeitraum 1. Juni – 30.Juni Der Partner reaktiviert das Abonnement mit einer anderen Anzahl von Lizenzen, was zu einer neuen Abrechnung mit Guthaben und anteiligen Gebühren führt.
+- 24 USD anteilige Gebühr für Servicezeitraum 1. Juni – 24.Juni Der Partner verfügte während dieses Servicezeitraums über 1 Lizenz. Auch wenn das Abonnement vom 20. Juni bis zum 24. Juni storniert war, wird dem Kunden dieser Zeitraum in Rechnung gestellt. Der Preis pro Einheit wird wie folgt berechnet: (monatlicher Preis/Anzahl Tage im gesamten Servicezeitraum)*Anzahl Tage im anteiligen Servicezeitraum*Anzahl Lizenzen (30/30)*24*1 = 24 USD.
+- 12 USD anteilige Gebühr für Servicezeitraum 25. Juni – 30.Juni Der Partner verfügte während dieses Servicezeitraums über 2 Lizenzen. Der Preis pro Einheit wird wie folgt berechnet: (30/30)*6*2= 12 USD.
+- 60 USD Gebühr für Servicezeitraum 1. Juli – 31.Juli
 
-- -26,19 USD Erstattung für Stornierung Die Gebühr wird ab dem 5.Juli berechnet, dem Datum, an dem der Partner das Abonnement storniert hat. Die Erstattung ist anteilig. Alle Stornierungen und Reaktivierungen nach 30Tagen ab dem Kaufdatum werden anteilig berechnet.
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
+|20.6.2018   |30.6.2018   |-30 USD   |1   |-30 USD   |Stornierungsgebühr |
+|25.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |Aktivierungsgebühr |
+|1.6.2018   |30.6.2018   |-30 USD   |1   |-30 USD   |Anteiliger Zyklus für Instanz |
+|1.6.2018   |24.6.2018   |24 USD   |1   |24 USD   |Anteiliger Zyklus für Instanz |
+|25.6.2018   |30.6.2018   |6 USD   |2   |12 USD   |Anteiliger Zyklus für Instanz |
+|1.7.2018   |31.7.2018   |30 USD   |2   |60 USD   |Gebühr für Zyklus |
 
-- 21,37 USD Reaktivierungsgebühr Die Gebühr wird ab dem 10.Juli berechnet, dem Datum, an dem der Partner das Abonnement reaktiviert hat. Die Erstattung ist anteilig.
+### <a name="scenario-6-subscription-suspension-less-than-30-days-after-purchase-and-reactivation-more-than-30-days-after-purchase"></a>Szenario 6: Stornieren eines Abonnements in weniger als 30Tagen nach dem Kauf und Reaktivieren später als 30 Tage nach Kaufdatum 
 
-|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1.7.2018   |31.7.2018   |30 USD  |1   |30 USD   |
-|5.7.2018   |31.7.2018   |   -26,19 USD   |1   |-26,19 USD|
-|10.7.2018   |31.7.2018   |-21,37 USD   |1   |21,37 USD|
+Das Abrechnungsdatum des Partners ist der 15. jeden Monats. Am 1. Juni kauft der Partner ein neues Abonnement mit einer Lizenz zum Preis von 30 USD pro Monat. Am 5.Juni storniert der Partner das Abonnement. Die Abstimmungsdatei vom 15. Juni enthält dann folgende Rechnungspositionen:
 
-### <a name="scenario-change-license-quantity"></a>Szenario: Anzahl der Lizenzen ändern 
+- 30 USD Gebühr für Servicezeitraum 1. Juni – 30.Juni
+- -30 USD Stornierungsguthaben für Servicezeitraum 5. Juni – 30.Juni Das Guthaben ist nicht anteilig, da das Abonnement in den ersten 30 Tagen storniert wurde.
 
-Das Abrechnungsdatum des Partners ist der 15. Am 1. Juni kauft der Partner ein neues Abonnement zum Preis von 30 USD pro Monat. Am 10.Juni erhöht der Partner die Anzahl der Lizenzen von 1 auf 2. Die Abstimmungsdatei vom 15. Juni wird Folgendes enthalten:
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|---------|
+|1.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |Anteilige Gebühren beim Kauf
+|5.6.2018   |30.6.2018   |-30 USD   |1   |-30 USD   |Stornierungsgebühr
 
-- 30 USD Gebühr für Monat 1 (1.Juni – 30.Juni) Obwohl der Partner die Anzahl der Lizenzen vor seinem Abrechnungsdatum (15.Juni) erhöht hat, wird die Änderung im Microsoft-Abrechnungssystem nicht vor dem Startdatum des Abonnements (1.Juli) registriert.
+Am 10.Juli reaktiviert der Partner das Abonnement. Die Abstimmungsdatei vom 15. Juli enthält dann folgende Rechnungspositionen:
 
-|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |
+- 21,30 USD Reaktivierungsgebühr für Servicezeitraum 10. Juli – 31.Juli Reaktivierungen nach 30Tagen ab dem Kaufdatum werden anteilig berechnet. 
 
-Am 1. Juli, dem Startdatum des Abonnements, registriert das Microsoft-Abrechnungssystem, dass die Anzahl der Lizenzen am 10. Juli von 1 auf 2 erhöht wurde. Das Abrechnungssystem generiert eine Erstattung und anteilige Gebühren für den Monat 1 und eine Gebühr für Monat 2. Die Abstimmungsdatei vom 15. Juli wird Folgendes enthalten:
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|10.7.2018   |31.7.2018   |21,30 USD   |1   |21,30 USD   |Aktivierungsgebühr |
 
-- -30 USD Erstattung für Monat 1
-- 9 USD anteilige Gebühr für Monat 1 (1.Juni – 9. Juni) für 1 Lizenz
-- 42 USD anteilige Gebühr für Monat 1 (10.Juni – 30. Juni) für 2 Lizenzen
-- 60 USD Gebühr für Monat 2 (1.Juli – 31.Juli) für 2 Lizenzen
+Die Abstimmungsdatei vom 15. August enthält dann folgende Rechnungspositionen:
+- $30 Gebühr für Servicezeitraum 1.August – 31.August
 
-|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1.6.2018   |30.6.2018   |-30 USD   |1   |-30 USD|
-|1.6.2018   |9.6.2018   |9 USD   |1   |9 USD|
-|10.6.2018   |30.6.2018   |21 USD   |2   |42 USD|
-|1.7.2018   |31.7.2018   |30 USD   |2   |60 USD   |
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|1.8.2018   |31.8.2018   |30 USD   |1   |30 USD   |Gebühr für Zyklus |
 
-### <a name="scenario-add-on-subscriptions"></a>Szenario: Add-On-Abonnements
+Beachten Sie, dass bei Stornierung und Reaktivierung eines Abonnements die automatische Verlängerung weiterhin nach 12 Monaten ab dem ursprünglichen Kaufdatum erfolgt. 
 
-Das Abrechnungsdatum des Partners ist der 15. Am 1. Juni kauft der Partner ein neues Abonnement zum Preis von 30 USD pro Monat. Am 10. Juni kauft der Partner ein neues Add-On-Abonnement zum Preis von 5 USD pro Monat. Das Verlängerungsdatum für das Add-On-Abonnement wird das Verlängerungsdatum des Basisabonnement (1.Juni). 
+### <a name="scenario-7-subscription-suspension-and-reactivation-more-than-30-days-after-purchase"></a>Szenario 7: Stornieren und Reaktivieren eines Abonnements nach mehr als 30Tagen ab dem Kauf 
+Das Abrechnungsdatum des Partners ist der 15. jeden Monats. Am 1. Juni kauft der Partner ein neues Abonnement mit einer Lizenz zum Preis von 30 USD pro Monat. 
 
-Die Abstimmungsdatei vom 15. Juni wird Folgendes enthalten:
+Die Abstimmungsdatei vom 15. Juni enthält dann folgende Rechnungspositionen:
 
-- 30 USD Gebühr für Monat 1 (1.Juni – 30.Juni) Dies gilt für das Basisabonnement.
-- 3,50 USD anteilige Gebühr für Monat 1 (10.Juni – 30.Juni) für das Add-On-Abonnement. Die Gebühr wird ab dem 10.Juni berechnet, dem Datum, an dem der Partner das Add-On-Abonnement gekauft hat. Der Betrag ist anteilig.
+- 30 USD Gebühr für Servicezeitraum 1. Juni – 30.Juni
 
-|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |
-|10.6.2018   |30.6.2018   |3,50 USD   |1   |3,50 USD   |
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|---------|
+|1.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |Anteilige Gebühren beim Kauf |
+
+Der Partner storniert das Abonnement am 5.Juli und reaktiviert es am 15.Juli. Die Abstimmungsdatei vom 15. Juli enthält dann folgende Rechnungspositionen:
+
+- 30 USD Gebühr für Servicezeitraum 1. Juli – 31.Juli
+- -26,14 USD Stornierungsguthaben für Servicezeitraum 5. Juli – 31.Juli Stornierung nach 30Tagen ab Kaufdatum führt zu einem anteiligen Guthaben. Berechnung: (monatlicher Preis/Tage im gesamten Servicezeitraum) x Tage in anteiligem Servicezeitraum x Lizenzanzahl x (-1) = (30/31) x 27 x 1 x (-1) =-26,14
+- 21,30 USD Reaktivierungsgebühr für Servicezeitraum 10. Juli – 31.Juli Reaktivierungen nach 30Tagen ab dem Kaufdatum werden anteilig berechnet. Berechnung: (30/31) x 22 x 1 = 21,30
+
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|1.7.2018   |31.7.2018   |30 USD  |1   |30 USD   |Gebühr für Zyklus |
+|5.7.2018   |31.7.2018   |   -26,14 USD   |1   |-26,14 USD|Stornierungsgebühr |
+|10.7.2018   |31.7.2018   |-21,30 USD   |1   |21,30 USD|Aktivierungsgebühr |
+
+Die Abstimmungsdatei vom 15. August wird Folgendes enthalten:
+- $30 Gebühr für Servicezeitraum 1.August – 31.August
+
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|1.8.2018   |31.8.2018   |30 USD  |1   |30 USD   |Gebühr für Zyklus |
+
+### <a name="scenario-8-change-of-license-quantity"></a>Szenario 8: Änderung der Lizenzanzahl 
+
+Das Abrechnungsdatum des Partners ist der 15. Am 1. Juni kauft der Partner ein neues Abonnement zum Preis von 30 USD pro Monat. Am 10.Juni erhöht der Partner die Anzahl der Lizenzen von 1 auf 2. Die Abstimmungsdatei vom 15. Juni enthält dann folgende Rechnungspositionen:
+
+- 30 USD Gebühr für Servicezeitraum 1. Juni – 30.Juni Obwohl der Partner die Anzahl der Lizenzen vor seinem Abrechnungsdatum (15.Juni) erhöht hat, wird die Änderung im Microsoft-Abrechnungssystem nicht vor dem Startdatum des Abonnements (1.Juli) registriert.
+
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|1.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |Anteilige Gebühren beim Kauf |
+
+Am 1. Juli, dem Startdatum des Abonnements, registriert das Microsoft-Abrechnungssystem, dass die Anzahl der Lizenzen am 10. Juli von 1 auf 2 erhöht wurde. Die Abrechnungssystem generiert eine Erstattung und anteilige Gebühren für den Servicezeitraum 1.Juni – Juni 9 und 10.Juni – 30.Juni. 
 
 Die Abstimmungsdatei vom 15. Juli wird Folgendes enthalten:
 
-- 30 USD Gebühr für Monat 2 (1. Juli – 31. Juli) Dies gilt für das Basisabonnement.
-- 5 USD Gebühr für Monat 2 (1. Juli – 31. Juli) Dies gilt für das Add-On-Abonnement.
+- -30 USD Guthaben für Servicezeitraum 1. Juni – 30.Juni
+- 9 USD anteilige Gebühr für Servicezeitraum 1. Juni – 9.Juni Dies ist der Zeitraum, in dem der Kunde über 1 Lizenz verfügte. Berechnung: (monatlicher Preis/Tage im gesamten Servicezeitraum) x Tage in anteiligem Servicezeitraum x Lizenzanzahl = (30/30) x 9 x 1 = 9
+- 42 USD anteilige Gebühr für Servicezeitraum 10. Juni – 30.Juni Dies ist der Zeitraum, in dem der Kunde über 2 Lizenzen verfügte. Berechnung: (30/30) x 21 x 2 = 42
+- 60 USD Gebühr für Servicezeitraum 1. Juli – 31.Juli
 
-|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1.7.2018   |31.7.2018   |30 USD   |1   |30 USD   |
-|1.7.2018   |31.7.2018   |5 USD   |1   |5 USD   |
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|1.6.2018   |30.6.2018   |-30 USD   |1   |-30 USD|Anteiliger Zyklus für Instanz |
+|1.6.2018   |9.6.2018   |9 USD   |1   |9 USD|Anteiliger Zyklus für Instanz |
+|10.6.2018   |30.6.2018   |21 USD   |2   |42 USD|Anteiliger Zyklus für Instanz |
+|1.7.2018   |31.7.2018   |30 USD   |2   |60 USD   |Gebühr für Zyklus |
 
-### <a name="scenario-new-purchase-on-the-29th-30th-or-31st"></a>Szenario: Neue Bestellung am 29., 30. oder 31. 
+### <a name="scenario-9-add-on-subscriptions"></a>Szenario 9: Add-On-Abonnements
 
-Das Abrechnungsdatum des Partners ist der 15. jeden Monats. Am 29.Mai erwirbt der Partner ein neues Abonnement (1 Lizenz à 30 USD/Monat) mit monatlichem Abrechnungsintervall. Der Jahrestag für Abonnements, die am 29., 30. oder 31. erworben werden, ist standardmäßig der 1. In diesem Szenario erhält das Abonnement einen kostenlosen Testzeitraum vom 29. bis 31.Mai; die Rechnungsposition erscheint am 1.Juni und zeigt die Vorausgebühr für einen Monat.
+Das Abrechnungsdatum des Partners ist der 15. jeden Monats. Am 1. Juni kauft der Partner ein neues Abonnement mit einer Lizenz zum Preis von 30 USD pro Monat. Am 10. Juni kauft der Partner ein neues Add-On-Abonnement zum Preis von 5 USD pro Monat. Das Verlängerungsdatum für das Add-On-Abonnement wird das Verlängerungsdatum des Basisabonnement (1.Juni). 
 
-Die Abstimmungsdatei vom 15. Juni wird Folgendes enthalten:
+Am 10. Juni kauft der Partner ein Add-On-Abonnement mit einer Lizenz zum Preis von 5 USD pro Monat. 
 
-- 30 USD Gebühr für Monat 1 (1.Juni – 30.Juni)
+Die Abstimmungsdatei vom 15. Juni enthält dann folgende Rechnungspositionen:
 
-|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |
-|-----------------|:-------------|:----------------|:------------|:------|
-|1.6.2018   | 30.6.2018   |30 USD   |1   |30 USD  |
+- 30 USD Gebühr für Servicezeitraum 1. Juni – 30.Juni Dies gilt für das Basisabonnement.
+- 3,50 USD anteilige Gebühr für Servicezeitraum 10. Juni – 30.Juni Dies gilt für das Add-On-Abonnement. 
+
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|--------|
+|1.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |Anteilige Gebühren beim Kauf |
+|10.6.2018   |30.6.2018   |3,50 USD   |1   |3,50 USD   |Anteilige Gebühren beim Kauf |
+
+Die Abstimmungsdatei vom 15. Juli enthält dann folgende Rechnungspositionen:
+
+- 30 USD Gebühr für Servicezeitraum 1. Juli – 31.Juli Dies gilt für das Basisabonnement.
+- 5 USD Gebühr für Servicezeitraum 1. Juli – 31.Juli Dies gilt für das Add-On-Abonnement.
+
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|-------|
+|1.7.2018   |31.7.2018   |30 USD   |1   |30 USD   |Gebühr für Zyklus |
+|1.7.2018   |31.7.2018   |5 USD   |1   |5 USD   |Gebühr für Zyklus |
+
+Beachten Sie, dass für das Add-On-Abonnement das automatische Verlängerungsdatum 1. Juni 2019 des Basisabonnements gilt.
+
+### <a name="scenario-10-new-purchase-on-the-29th-30th-or-31st"></a>Szenario 10: Neukauf am 29., 30. oder 31. 
+
+Das Abrechnungsdatum des Partners ist der 15. jeden Monats. Am 29. Mai kauft der Partner ein neues Abonnement mit einer Lizenz zum Preis von 30 USD pro Monat. Am 29., 30. oder 31. erworbene Abonnements erhalten einen kostenlosen Zeitraum ab Kaufdatum bis zum 1. des Folgemonats. Das Abonnementdatum wird standardmäßig der 1. sein. In diesem Szenario erhält das Abonnement einen kostenlosen Zeitraum vom 29.Mai bis zum 31.Mai, und der kostenpflichtige Zeitraum von 12 Monaten beginnt am 1.Juni. 
+
+Die Abstimmungsdatei vom 15. Juni enthält dann folgende Rechnungspositionen:
+
+- 30 USD Gebühr für Servicezeitraum 1. Juni – 30.Juni
+
+|**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
+|-----------------|:-------------|:----------------|:------------|:------|------|
+|1.6.2018   | 30.6.2018   |30 USD   |1   |30 USD  |Anteilige Gebühren beim Kauf |
+
+Beachten Sie, dass sich das Abonnement automatisch am 1.Juni2019 verlängert.

@@ -1,14 +1,14 @@
 ---
 title: CSP-Vereinbarungen, Preislisten und Angebote | Partner Center
-description: "Dieser Artikel enthält Links zu Programmleitfaden, Partnervereinbarungen, Kundenverträgen, Preislisten und Angeboten für Cloud-Lösungsanbieter."
+description: "Dieser Artikel enthält Links zu Programmleitfaden, Partnervereinbarungen, Kundenverträgen, Preislisten und Angeboten für Cloud Solution Provider."
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: "CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote"
-ms.openlocfilehash: df704239dfc51f756405e0da19a64bca709b0035
-ms.sourcegitcommit: bd389c848158d41d1a012e246f57eefacec2ea2b
+ms.openlocfilehash: 98d4a76faff8289a1d5875b9da8ad8f7ba9faa94
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/29/2018
+ms.lasthandoff: 01/17/2018
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>Vereinbarungen, Preislisten und Angebote für Cloud Solution Provider
 
@@ -19,19 +19,19 @@ ms.lasthandoff: 01/29/2018
 -  Partner Center für Microsoft Cloud Deutschland
 
 
-Sehen Sie sich die Informationen in diesem Artikel am, um die Anforderungen für die Teilnahme am Programm für Cloud-Lösungsanbieter (Cloud Solution Provider, CSP) von Microsoft zu verstehen. 
+Sehen Sie sich die Informationen in diesem Artikel am, um die Anforderungen für die Teilnahme am Programm für Cloud Solution Provider (CSP) von Microsoft zu verstehen. 
 
-## <a href="" id="programguide"></a>Programmleitfaden für Cloud-Lösungsanbieter
+## <a href="" id="programguide"></a>Programmleitfaden für Cloud Solution Provider
 
 
 Lesen Sie die Anforderungen, wie Sie ein Partner im CSP-Programm werden.
 
-[Programmleitfaden für Cloud-Lösungsanbieter-Partner](http://go.microsoft.com/fwlink/p/?LinkId=617100)
+[Programmleitfaden für Cloud Solution Provider-Partner](http://go.microsoft.com/fwlink/p/?LinkId=617100)
 
-## <a href="" id="partneragreement"></a>Cloud-Lösungsanbieter – Partnervereinbarung
+## <a href="" id="partneragreement"></a>Cloud Solution Provider – Partnervereinbarung
 
 
-Partner müssen diese Vereinbarung unterzeichnen, um an dem Programm für Cloud-Lösungsanbieter teilzunehmen. Überprüfen Sie den Leitfaden für den Markt oder die nationale Cloud, in dem bzw. der Sie verkaufen möchten.
+Partner müssen diese Vereinbarung unterzeichnen, um an dem Programm für Cloud Solution Provider teilzunehmen. Überprüfen Sie den Leitfaden für den Markt oder die nationale Cloud, in dem bzw. der Sie verkaufen möchten.
 
 [Vereinbarung für Microsoft Cloud-Handelspartner – Nordamerika, Mittelamerika, Südamerika, Karibik](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_ENG_Sep20172_CR.pdf)
 
@@ -45,7 +45,7 @@ Partner müssen diese Vereinbarung unterzeichnen, um an dem Programm für Cloud-
 
 [Vereinbarung für Microsoft Cloud-Handelspartner – Taiwan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_TAI_ENG_Sep20172_CR.pdf)
 
-[Vereinbarung für Microsoft Cloud-Handelspartner – Microsoft Cloud Deutschland](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_ENG_Sep20173_GermanCloud.pdf)
+[Vereinbarung für Microsoft Cloud-Handelspartner – Microsoft Cloud Deutschland](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_GER_ENG_Sep20172_CR_GermanCloud.pdf)
 
 [Vereinbarung für Microsoft Cloud-Handelspartner – Microsoft Cloud Deutschland](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_USGCC_ENG_Sep20172_CR.pdf)
 

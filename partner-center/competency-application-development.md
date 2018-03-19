@@ -1,8 +1,8 @@
 ---
-title: Application Development Competency
-description: Enable faster software delivery and continuous improvement. Join our more than 60K application builder partners to differentiate your business and establish yourself as Microsoft Partner by attaining the Application Development competency.
+title: Anwendungsentwicklungskompetenz
+description: "Ermöglichen Sie schnellere Softwarebereitstellung und kontinuierliche Verbesserung. Schließen Sie sich unseren mehr als 60.000 Partnern in der Anwendungsentwicklung an, um Ihr Unternehmen abzugrenzen und etablieren Sie sich als Microsoft-Partner, indem Sie die Kompetenz Application Development erwerben."
 author: Daniel Simpson
-keywords: competency,competencies,Cloud Business Applications, application development
+keywords: "Kompetenz, Kompetenzen, Cloudgeschäftsanwendungen, Anwendungsentwicklung"
 ms.openlocfilehash: 153a40815f99950fa379f9bf35e55151fb159c96
 ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
@@ -11,9 +11,9 @@ ms.lasthandoff: 07/07/2017
 ---
 # <a name="application-development"></a>Application Development 
 
-Enable faster software delivery and continuous improvement. Join our more than 60K application builder partners to differentiate your business and establish yourself as Microsoft Partner by attaining the Application Development competency.
+Ermöglichen Sie schnellere Softwarebereitstellung und kontinuierliche Verbesserung. Schließen Sie sich unseren mehr als 60.000 Partnern in der Anwendungsentwicklung an, um Ihr Unternehmen abzugrenzen und etablieren Sie sich als Microsoft-Partner, indem Sie die Kompetenz Application Development erwerben.
 
-## <a name="application-builder-option"></a>Application Builder option
+## <a name="application-builder-option"></a>Application Builder-Option
 Die Application Integrator-Option ist ideal, wenn Sie es vorziehen, Ihr Wissen mithilfe von Prüfungen oder Zertifizierungen nachzuweisen.  Wählen Sie Prüfungen aus dem Fokusbereich Ihrer Wahl, um die Rechenzentrum-Kompetenz zu erreichen.
 
 

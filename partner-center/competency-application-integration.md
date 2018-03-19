@@ -1,8 +1,8 @@
 ---
-title: Application Integration Competency
-description: The Application Integration competency recognizes partners and developers who integrate unique applications and solutions into various products across the Microsoft ecosystem.
+title: Kompetenz Application Integration
+description: "Die Kompetenz „Application Integration“ erkennt Partner und Entwickler an, die einzigartige Anwendungen und Lösungen in die verschiedenen Produkte innerhalb des Microsoft-Ökosystems integrieren."
 author: Daniel Simpson
-keywords: competency,competencies, applications integration
+keywords: Kompetenz, Kompetenzen, Anwendungsintegration
 ms.openlocfilehash: 968cf5bdbe4e6c78ad330d94ad618a821927483a
 ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
@@ -10,11 +10,11 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 07/07/2017
 ---
 # <a name="application-integration"></a>Application Integration 
-The Application Integration competency recognizes partners and developers who integrate unique applications and solutions into various products across the Microsoft ecosystem. 
+Die Kompetenz „Application Integration“ erkennt Partner und Entwickler an, die einzigartige Anwendungen und Lösungen in die verschiedenen Produkte innerhalb des Microsoft-Ökosystems integrieren. 
 
-## <a name="application-integrator-option"></a>Application Integrator option
+## <a name="application-integrator-option"></a>Application Integrator-Option
 
-The Application Integrator option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice. Führen Sie alle erforderlichen Schritte aus, um die Kompetenz Application Development zu erreichen.
+Die Application Integrator-Option ist ideal, wenn Sie es vorziehen, Ihr Wissen mithilfe von Prüfungen oder Zertifizierungen nachzuweisen. Wählen Sie Prüfungen aus dem Fokusbereich Ihrer Wahl. Führen Sie alle erforderlichen Schritte aus, um die Kompetenz Application Development zu erreichen.
 
 ###<a name="silver"></a>Silver
 1. **2** Personen in Ihrer Organisation müssen sowohl Prüfungen als auch Assessments bestehen.
@@ -43,7 +43,7 @@ The Application Integrator option is ideal if you prefer to prove your skills by
             - [Prüfung 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
             - [Prüfung 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
 
-        **AND**
+        **UND**
 
     - **2** Personen müssen das folgende Assessment bestehen:
 
@@ -77,7 +77,7 @@ The Application Integrator option is ideal if you prefer to prove your skills by
             - [Prüfung 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
             - [Prüfung 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
 
-        **AND**
+        **UND**
 
     - **4** Personen müssen das folgende Assessment bestehen: Dieser kann durch die gleichen 4 Personen durchgeführt werden, die die oben genannten Prüfung bestehen. :
 

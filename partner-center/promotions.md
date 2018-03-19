@@ -10,7 +10,7 @@ ms.lasthandoff: 08/24/2017
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Verwenden von Werbeaktionen, um neue Kunden gewinnen  
 
-**Applies to: Partner Center**
+**Betrifft: Partner Center**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
@@ -32,18 +32,18 @@ Nehmen Sie sich einen Moment Zeit, diese wichtigen Fakten zu Werbeaktionen zu ü
 
 Sie können auf der Seite **Werbeaktionen** sehen, auf welche Aktionen Sie ggf. Anspruch haben. Wählen Sie **Werbeaktionen** im Menü **Dashboard**, um eine Liste der aktuellen Werbeaktionen zusammen mit dem Rabatt, dem Angebotstyp und dem Start- und Enddatum für das Abonnement anzuzeigen. Wenn keine Aktionen verfügbar sind, sehen Sie eine Nachricht, die dieses anzeigt. 
 
->**Note**<br>
-You can also see promotions when making a purchase. Wenn Sie ein Abonnement auswählen, wird der Rabattprozentsatz auf der Seite **Überprüfung** angezeigt.
+>**Hinweis:**<br>
+Sie können Werbeaktionen beim Einkaufen anzeigen. Wenn Sie ein Abonnement auswählen, wird der Rabattprozentsatz auf der Seite **Überprüfung** angezeigt.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Abonnements zu reduzierten Preisen kaufen
 
-1. On your **Dashboard** menu, select **Customers** and then select the customer who’s buying the subscription. 
+1. Wählen Sie im Menü **Dashboard** die Option **Kunden** und anschließend den Kunden, der das Abonnement kauft. 
 
-2. Select **Add subscription**.
+2. Wählen Sie **Abonnement hinzufügen**.
 
 3. Wählen Sie auf der Seite **Neues Abonnement** das Abonnement aus, für das die Aktion gilt.
 
-4. Enter the number of licenses the customer needs. 
+4. Geben Sie die Anzahl der Lizenzen ein, die der Kunde benötigt. 
 
 5. Überprüfen Sie die Bestellung. Sie sehen den angewendeten Aktionspreis in der **Rabatt** Spalte.  
 

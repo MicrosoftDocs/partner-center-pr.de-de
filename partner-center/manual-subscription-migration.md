@@ -1,6 +1,6 @@
 ---
-title: Migrate Dynamics AX subscriptions to Dynamics 365 | Partner Center
-description: Microsoft introduces Dynamics 365, the next generation of intelligent business applications that enable your organization to grow, evolve and transform to meet the needs of your customers and capture new opportunities.
+title: Migrieren von Dynamics AX-Abonnements zu Dynamics365 | Partner Center
+description: "Microsoft führt Dynamics365 ein, die nächste Generation intelligenter Unternehmensanwendungen, mit denen Ihre Organisation wachsen, sich entwickeln und transformiert werden kann, um die Anforderungen Ihrer Kunden zu erfüllen und neue Geschäftschancen zu nutzen."
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.openlocfilehash: 39f254488dab4335a24a5a36fc593d2e281adbf8
@@ -9,15 +9,15 @@ ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 07/24/2017
 ---
-# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrate Dynamics AX subscriptions to Dynamics 365
+# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrieren von Dynamics AX-Abonnements zu Dynamics 365
 
-**Applies to**
+**Betrifft**
 
 -  Partner Center
 
-Microsoft introduces Dynamics 365, the next generation of intelligent business applications that enable your organization to grow, evolve and transform to meet the needs of your customers and capture new opportunities. Im Rahmen des neuen Produkts führt Microsoft am 1.November2016 neue Microsoft Dynamics-Abonnementpläne für Kunden ein, die den aktuellen Plänen zwar ähnlich, jedoch nicht mit diesen identisch sind.
+Microsoft führt Dynamics365 ein, die nächste Generation intelligenter Unternehmensanwendungen, mit denen Ihre Organisation wachsen, sich entwickeln und transformiert werden kann, um die Anforderungen Ihrer Kunden zu erfüllen und neue Geschäftschancen zu nutzen. Im Rahmen des neuen Produkts führt Microsoft am 1.November2016 neue Microsoft Dynamics-Abonnementpläne für Kunden ein, die den aktuellen Plänen zwar ähnlich, jedoch nicht mit diesen identisch sind.
 
-Die Anweisungen in diesem Dokument beschrieben, wie indirekte Anbieter vorhandene Microsoft Dynamics AX- und Microsoft Dymanics CRM Online-Abonnements von Kunden zum neuen Microsoft Dynamics365 migrieren können. The instructions also apply to other Microsoft products that update to new versions, requiring providers to migrate customers’ subscriptions to a new SKU.
+Die Anweisungen in diesem Dokument beschrieben, wie indirekte Anbieter vorhandene Microsoft Dynamics AX- und Microsoft Dymanics CRM Online-Abonnements von Kunden zum neuen Microsoft Dynamics365 migrieren können. Die Anweisungen gelten auch für andere Microsoft-Produkte, die auf neue Versionen aktualisiert werden, sodass Anbieter Kundenabonnements zu einer neuen SKU migrieren müssen.
 
 Die Microsoft Dynamics CRM Online und AX-Pläne werden deaktiviert.  Ab dem 1.Juli2017 können die älteren Pläne nicht mehr verlängert werden. Auch bestehende E4-Abonnements werden nicht automatisch verlängert.
 
@@ -62,10 +62,10 @@ Die folgende Tabelle enthält Details zur Lizenzzuordnung:
 ## <a name="transition-customers-to-new-product-plans"></a>Migrieren von Kunden zu neuen Produktplänen
 
 
-Microsoft continuously offers new products and services to resellers and providers. In these cases, a reseller may need to upgrade customers to new services or migrate their subscriptions from SKUs that will eventually be shut down. Migrating customers from old SKUs to newer ones requires the following sequence:
+Microsoft bietet Wiederverkäufern und Anbietern kontinuierlich neue Produkte und Dienste an. In diesen Fällen müssen Wiederverkäufer Kunden möglicherweise auf neue Dienste aktualisieren oder Kundenabonnements von alten SKUs, die letzten Endes vom Markt genommen werden, zu neueren SKUs migrieren. Die Migration von Kunden von alten SKUs auf neuere SKUs muss in dieser Reihenfolge erfolgen:
 
--   [Purchase the new subscription](#manual-subscription-migration-purchasenewsubsc);
--   [Re-assign current user licenses](#manual-subscription-migration-reassignlicenses);
+-   [Kauf des neuen Abonnements](#manual-subscription-migration-purchasenewsubsc);
+-   [Neuzuweisen der aktuellen Benutzerlizenzen](#manual-subscription-migration-reassignlicenses);
 -   [Stornieren des alten Abonnements](#manual-subscription-migration-cancelsubscriptions).
 
 Mit den folgenden Verfahren migrieren Sie einen Kunden von Microsoft Dynamics AX oder CRM Online zu Dynamics365.
@@ -76,40 +76,40 @@ Der Wiederverkäufer muss einen Kunden mit einem vorhandenen Dynamics AX Enterpr
 
 **Kauf des neuen Abonnements**
 
-1.  From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and choose **Add Subscriptions**.
-2.  Select the subscription you want to purchase from the catalog (in this case, Dynamics 365 for Operations, Enterprise Edition), enter the number of licenses, and choose **Submit**.
+1.  Wählen Sie im Menü **Dashboard**&nbsp;**Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend **Abonnements hinzufügen** aus.
+2.  Wählen Sie aus dem Katalog das Abonnement aus, das Sie kaufen möchten (in diesem Fall Dynamics365 for Operations Enterprise Edition), kaufen Sie die nötigen Anzahl von Lizenzen, und wählen Sie **Übermitteln** aus.
 
-    Your customer should now have both old and new subscriptions: in this example, the old Dynamics AX Enterprise, and the new ‘target’ subscription, Dynamics 365 for Operations, Enterprise Edition.
+    Ihr Kunde sollte nun alte und neue Abonnements besitzen. In diesem Beispiel sind dies das alte Dynamics AX Enterprise-Abonnement und das neue Abonnement von Dynamics365 for Operations Enterprise Edition.
 
-<a href="" id="reassignlicenses"></a> The next step is to reassign all existing user licenses to the new subscription.
+<a href="" id="reassignlicenses"></a> Im nächsten Schritt werden alle vorhandenen Benutzerlizenzen dem neuen Abonnement neu zugewiesen.
 
-**Reassign user licenses**
+**Neuzuweisen von Benutzerlizenzen**
 
-1.  From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and choose **Users and licenses**. The customer’s Users and Licenses page opens.
-2.  To re-assign user licenses, select the user to reassign and then select **Manage licenses**.
-3.  On the **Manage licenses** page, clear the **Dynamics AX Enterprise** license check box and select the **Dynamics 365 for Operations** license.
-4.  Select **Submit**. A confirmation page lists the new license assignments.
-5.  Continue the same steps with any other customer users that need license reassignment.
+1.  Wählen Sie im Menü **Dashboard**&nbsp;**Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend **Benutzer und Lizenzen** aus. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
+2.  Um Benutzerlizenzen neu zuzuweisen, wählen Sie den Benutzer aus, der neu zugewiesen werden soll, und anschließend **Verwalten von Lizenzen**.
+3.  Deaktivieren Sie auf der Seite **Verwalten von Lizenzen** das Kontrollkästchen für die Lizenz **Dynamics AX Enterprise**, und wählen Sie die Lizenz **Dynamics365 for Operations** aus.
+4.  Wählen Sie **Übermitteln** aus. Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt.
+5.  Führen Sie diese Schritte für alle Benutzer des Kunden aus, deren Lizenz neu zugewiesen werden muss.
 
-<a href="" id="cancelsubscriptions"></a> After moving the user licenses to the new service, you can safely cancel the old subscription at the top Customer level.
+<a href="" id="cancelsubscriptions"></a> Nachdem Sie die Benutzerlizenzen zum neuen Dienst migriert haben, können Sie das alte Abonnement auf der obersten Kundenebene ohne Bedenken stornieren.
 
-**Cancel the old subscription**
+**Stornieren des alten Abonnements.**
 
-1.  From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and select the subscription you want to cancel.
-2.  In the subscription details page, set the subscription **Status** to **Suspended**.
-3.  Select **Submit**.
+1.  Wählen Sie im Menü **Dashboard**&nbsp;**Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend das Abonnement aus, das Sie stornieren möchten.
+2.  Legen Sie auf der Seite für Abonnementdetails **Status** auf **Ausgesetzt** fest.
+3.  Wählen Sie **Übermitteln** aus.
 
-The old subscription is suspended, and the new subscription is active. The suspended subscription will automatically be de-provisioned after 120 days. The customer incurs no additional costs for the old subscription.
+Das alte Abonnement ist nun ausgesetzt, und das neue Abonnement ist aktiv. Die Bereitstellung des ausgesetzten Abonnements wird nach 120Tagen automatisch aufgehoben. Für den Kunden fallen für das alte Abonnement keine zusätzlichen Kosten an.
 
-## <a name="additional-considerations"></a>Additional considerations
+## <a name="additional-considerations"></a>Weitere Aspekte
 
 
-If your customer is moving from the Open Channel to the Cloud Services Program for further subscription provisioning, you will also need to migrate their existing subscriptions:
+Wenn Kunden vom Open-Programm zum Programm für Cloud-Lösungsanbieter wechseln, um weitere Abonnements bereitzustellen, müssen Sie die vorhandenen Abonnements ebenfalls migrieren:
 
--   If the customer received their old subscription through the Open Channel, moving to the CSP on the new SKU is straightforward.
--   If the customer is not yet established as your customer, you can invite them. For information, see the [Request a relationship with a customer](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx) help topic.
+-   Wenn Kunden das alte Abonnement über das Open-Programm erhalten haben, ist die Migration zum CSP-Programm für die neue SKU einfach.
+-   Wenn Kunden noch nicht als Ihre Kunden eingerichtet sind, können Sie diese einladen. Weitere Informationen finden Sie im Hilfethema [Anfordern einer Beziehung zu einem Kunden](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx).
 
-After the customer accepts you as their indirect provider, the provisioning steps are mostly the same as described above: you purchase the new subscription, and then assign the user licenses. The only difference involves cancellation of old subscription(s). A new provider cannot cancel suspend/cancel subscriptions acquired via other channels. If the customer acquired prior subscriptions in another sales channel, such as the Open channel, the customer will need to cancel it themselves through that channel.
+Nachdem der Kunde Sie als indirekten Anbieter akzeptiert hat, sind die Bereitstellungsschritte größtenteils mit den oben beschriebenen Schritten identisch: Sie kaufen das neue Abonnement und weisen die Benutzerlizenzen zu. Der einzige Unterschied besteht in der Stornierung des/der alten Abonnements. Ein neuer Anbieter kann keine Abonnements aussetzen/stornieren, die über andere Kanäle gekauft wurden. Wenn ein Kunde zuvor Abonnements über einen anderen Vertriebskanal gekauft hat, beispielsweise Open, muss der Kunde die Abonnements selbst über diesen Kanal stornieren.
 
  
 

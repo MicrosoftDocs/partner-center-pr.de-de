@@ -1,8 +1,8 @@
 ---
-title: Messaging Competency
-description: The Messaging competency recognizes partners who gain a competitive advantage, shorten sales cycles, and grow their business by showcasing skills as a qualified Microsoft Exchange solution provider.
+title: Messaging-Kompetenz
+description: "Die Messaging-Kompetenz erkennt Partner an, die sich einen Wettbewerbsvorteil verschaffen, Vertriebszyklen verkürzen und ihr Unternehmen ausweiten, indem sie ihre Fähigkeiten als qualifizierter Microsoft Exchange-Lösungsanbieter demonstrieren."
 author: Daniel Simpson
-keywords: competency,competencies,Messaging
+keywords: Kompetenz,Kompetenzen,Messaging
 ms.openlocfilehash: 41a8bd44f5a0dacf49554907dd381e1ec7140a21
 ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
@@ -10,10 +10,10 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 07/07/2017
 ---
 #<a name="messaging"></a>Messaging
-The Messaging competency recognizes partners who gain a competitive advantage, shorten sales cycles, and grow their business by showcasing skills as a qualified Microsoft Exchange solution provider.
+Die Messaging-Kompetenz erkennt Partner an, die sich einen Wettbewerbsvorteil verschaffen, Vertriebszyklen verkürzen und ihr Unternehmen ausweiten, indem sie ihre Fähigkeiten als qualifizierter Microsoft Exchange-Lösungsanbieter demonstrieren.
 
-##<a name="hybrid-services-partner-option"></a>Hybrid Services Partner option
-Put your product knowledge to the test by passing exams or certifications.
+##<a name="hybrid-services-partner-option"></a>Hybrid Services Partner-Option
+Testen Sie Ihr Produktwissen, indem Sie Prüfungen bestehen oder Zertifizierungen erlangen.
 
 ###<a name="silver"></a>Silver
 1. **2** Personen in Ihrer Organisation müssen die Prüfungs- oder Zertifizierungsanforderungen erfüllen.
@@ -22,7 +22,7 @@ Put your product knowledge to the test by passing exams or certifications.
         - [Prüfung 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
         - [Prüfung 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016
 
-    **OR**
+    **ODER**
 
      - **2** Personen müssen die folgende Zertifizierung erlangen:
         - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Produktivität
@@ -34,7 +34,7 @@ Put your product knowledge to the test by passing exams or certifications.
         - [Prüfung 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
         - [Prüfung 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016
 
-    **OR**
+    **ODER**
 
     - **4** Personen müssen die folgende Zertifizierung erlangen:
         - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Produktivität

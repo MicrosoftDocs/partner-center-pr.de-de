@@ -1,5 +1,5 @@
 ---
-title: Understand your incentive payouts | Partner Center
+title: Informationen zu den Anreizauszahlungen | Partner Center
 description: "Zeigen Sie die Einnahmen und Auszahlungen für Incentiveprogramme an."
 author: labrenne
 ms.openlocfilehash: 2169f0b57f29b04cda61914a4b3dde1f6b52f43a
@@ -10,13 +10,13 @@ ms.lasthandoff: 07/10/2017
 ---
 #<a name="understand-your-incentive-payouts"></a>Informationen zu den Incentiveauszahlungen
 
-**Applies to**
+**Betrifft:**
 
 -  Partner Center
 
 Incentive-Administratoren und -Benutzer erhalten einen Überblick über die Einnahmen und Zahlungen, die sie entweder empfangen haben oder über Ihre Bonusprogramme erhalten werden.   
 
-##<a name="summary-information-on-earnings-and-payout"></a>Summary information on earnings and payout
+##<a name="summary-information-on-earnings-and-payout"></a>Zusammengefasste Informationen zu Einnahmen und Auszahlung
 
 CSP-Partner, die Incentivebenutzer und Incentiveadministratoren sind, können ihre Finanzposition in den Incentiveprogrammen, an denen sie teilnehmen, unter **Auszahlungszusammenfassung** anzeigen. Sie können bei Bedarf für jeden Bereich der Zusammenfassungsinformationen detailliertere Informationen anzeigen. 
 
@@ -49,7 +49,7 @@ Die Tabelle mit den Produkt-/Programmeinnahmen und Zahlungen zeigt eine Aufschl�
 
 ## <a name="analyze-incentives-earnings"></a>Analysieren Sie Incentiveeinnahmen
 
-Ermitteln Sie, wo Ihre Organisation mehr über die Incentiveprogramme verdienen kann und wo Sie bereits bezahlt wurden. This data makes it clear where you have earned but have not yet been paid.  Understand which programs and activities have been most successful as well as find out which of your locations is earning. By program you can see what the total earnings potential is, the time during which you can participate in the program and when it expires. Für jedes Programm und jeden Einnahmentyp gelten unterschiedliche Anforderungen und Start- und Enddaten. 
+Ermitteln Sie, wo Ihre Organisation mehr über die Incentiveprogramme verdienen kann und wo Sie bereits bezahlt wurden. Diese Daten verdeutlichen, wo Sie Einnahmen erzielt, aber noch nicht ausbezahlt wurden.  Vollziehen Sie nach, welche Programme und Aktivitäten am erfolgreichsten waren, und ermitteln Sie, welche Standorte Einnahmen erzielen. Nach Programm können Sie das Potenzial der Gesamteinnahmen, den Zeitraum, währenddessen Sie am Programm teilnehmen können, und sein Ablaufdatum anzeigen. Für jedes Programm und jeden Einnahmentyp gelten unterschiedliche Anforderungen und Start- und Enddaten. 
 
 ## <a name="earning-trends"></a>Einnahmentrends 
 
@@ -100,8 +100,8 @@ In der folgenden Tabelle werden die Felder der CSV-Datei erläutert. Beachten Si
 |--------------------|:-------------------------------------------------|                                                 
 |EarningID      |Eindeutiger Bezeichner für jedes Einnahmenelement |               
 |Partnername   | Registrierter Name des Partners in Partner Center                    |
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | Land/Region der MPN-V-Organisations-ID des Partners|
+|MPN/PCN        |MPN-ID (Microsoft Partner Network-ID des Partners)/öffentliche Kundennummer|
+|Standort       | Land/Region der MPN-V-Organisations-ID des Partners|
 |Programmname   |Namen des Incentiveprogramms |
 |Kundenname  |   Name des Kunden, der das Abonnement erworben hat |
 |Kundenstandort  | Land, in dem sich der Kunde befindet  |
@@ -113,11 +113,11 @@ In der folgenden Tabelle werden die Felder der CSV-Datei erläutert. Beachten Si
 |Vereinbarungsenddatum |Enddatum des Lizenzvertrag, einschließlich Verlängerungen und Erweiterungen |
 |Startdatum des Abonnements    |Startdatum eines Abonnements|
 |Enddatum des Abonnements  |Enddatum eines Abonnements|
-|Product SKU    |SKU-Nummer für ein Produkt|
+|Produkt-SKU    |SKU-Nummer für ein Produkt|
 |Produktname   |Name des Microsoft-Produkts|
 |Transaktionsdatum   |Das Datum und die Uhrzeit der Transaktion (UTC).|
 |Lizenzzahl  |Anzahl der verkauften Lizenzen |
-|Quantity   |Anzahl der verkauften Einheiten| 
+|Anzahl   |Anzahl der verkauften Einheiten| 
 |Vorherige Menge |Menge der Einheiten aus dem letzten Einnahmenzeitraum |
 |Preis pro Einheit |Preis pro verkaufter Einheit| 
 |Transaktionsbetrag |Die Berechnungsrate wird mit diesem Betrag multipliziert, um die Incentiveeinnahmen zu berechnen.|
@@ -128,7 +128,7 @@ In der folgenden Tabelle werden die Felder der CSV-Datei erläutert. Beachten Si
 |Einnahmenzeitraum     |Einnahmenzeitraum basierend auf Programm |
 |Beginn des Einnahmenzeitraums   |Beginn eines Einnahmenzeitraums für ein Programm (UTC) |
 |Ende des Einnahmenzeitraums |Ende eines Einnahmenzeitraums für ein Programm (UTC)|
-|Calculation Date   |Berechnungszeitpunkt der Einnahmen (UTC)|
+|Berechnungsdatum   |Berechnungszeitpunkt der Einnahmen (UTC)|
 |Einnahmenwährung   |Währung des Einnahmenbetrags |
 |Einnahmen-FX-Rate|Die FX-Rate wird zur Umrechnung der Transaktionswährung in die Auszahlungswährung verwendet|
 |Berichtswährung|Währung, die für Berichte verwendet wird|
@@ -145,8 +145,8 @@ In der folgenden Tabelle werden die Felder der CSV-Datei erläutert. Beachten Si
 |**Name der Spalte**   |**Beschreibung**   |
 |-------------------|:--------------------|
 |Partnername|Registrierter Name des Partners in Partner Center|
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | Country/Region of Partner's MPN V-Org ID|
+|MPN/PCN        |MPN-ID (Microsoft Partner Network-ID des Partners)/öffentliche Kundennummer|
+|Standort       | Land/Region der MPN-V-Organisations-ID des Partners|
 |Programmname   |Namen des Incentiveprogramms |
 |Einahmetyp   |Einnahmetyp (Rabatt, Anpassung) |
 |Währung für Auszahlungsbetrag|   Die Währung, die für die Zahlung verwendet wird|

@@ -10,43 +10,43 @@ ms.lasthandoff: 07/07/2017
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>Verwalten Ihrer Incentives in Partner Center 
 
-**Applies to**
+**Betrifft:**
 
 -  Partner Center
 
-## <a name="partner-incentives"></a>Partner Incentives 
+## <a name="partner-incentives"></a>Partneranreize 
 
-Whether you are doing business in the cloud, on-premises, or somewhere in between, Partner Incentives support your profitability and growth.
+Ob Sie Ihre Geschäfte in der Cloud, lokal oder irgendwo dazwischen tätigen – Partneranreize fördern Rentabilität und Wachstum.
 
-## <a name="qualify-for-the-partner-incentives-program"></a>Qualify for the Partner Incentives program
+## <a name="qualify-for-the-partner-incentives-program"></a>Qualifizieren für das Partner-Incentives-Programm
 
-You're eligible for the CSP Incentives Program when you meet the following criteria:
+Sie sind für das CSP-Anreizprogramm berechtigt, wenn Sie die folgenden Kriterien erfüllen:
 
--   Have an active Microsoft Partner Network (MPN) agreement 
--   A valid Cloud Distributor agreement (indirect providers only)
--   A Reseller agreement (direct sellers only)
--   Meet the competency requirement
+-   Sie besitzen eine aktive MPN-Vereinbarung (Microsoft Partner Network). 
+-   Sie haben einen gültigen Vertrag für Händler in der Microsoft Cloud (Microsoft Cloud Distributor Agreement) (nur für indirekte Anbieter).
+-   Sie haben eine Handelspartnervereinbarung (nur für direkte Händler).
+-   Sie erfüllen die Kompetenzanforderung.
 
-As soon as you become eligible, you will be invited to join the program.
+Sobald Sie berechtigt sind, werden Sie eingeladen, am Programm teilzunehmen.
 
-## <a name="one-site-one-sign-in"></a>One site, one sign in
+## <a name="one-site-one-sign-in"></a>Eine Website, eine Anmeldung
 
-Now that Partner incentives management is available in Partner Center, you can sign up for incentives, access your tax and payment profiles, access your earnings and payment statements, and manage users – all here in Partner Center. 
+Nun, da die Partneranreizverwaltung in Partner Center verfügbar ist, können Sie sich für Anreize registrieren, auf Ihre Steuer- und Zahlungsprofile sowie auf Einnahmen- und Zahlungsaufstellungen zugreifen und Benutzer verwalten – alles hier in Partner Center. 
 
-Beginning with already enrolled Partners, we are enabling partners to manage incentives in Partner Center in phases starting in July. Look out for an email from us letting you know that it is time to set up your organization for incentives in Partner Center. 
+Beginnend mit bereits registrierten Partnern ermöglichen wir Partnern die Verwaltung von Anreizen in Partner Center in mehreren Phasen ab Juli. Achten Sie auf eine E-Mail von uns, die darauf hinweist, dass es an der Zeit ist, Ihre Organisation für Anreize in Partner Center einzurichten. 
 
-Admins, if you have received the email, follow these three easy steps today:
+Administratoren: Wenn Sie die E-Mail erhalten haben, führen Sie noch heute die folgenden drei einfachen Schritte aus:
 
 1.  Beim Partner Center anmelden 
 2.  Incentivebenutzer gemäß den Anweisungen in der E-Mail einrichten 
 3.  Partner Center-Anmeldeinformationen an die neu eingerichteten Incentivebenutzer weitergeben
 
-When the Incentive Admin has received credentials, they can complete the migration of your organization which will enable your organization to manage your incentives here – in Partner center.
+Wenn der Anreizadministrator Anmeldeinformationen erhalten hat, kann er die Migration Ihrer Organisation durchführen. Anschließend kann Ihre Organisation Ihre Anreize hier in Partner Center verwalten.
 
 
-[Create user accounts and assign permissions](create-user-accounts-and-set-permissions.md)
+[Erstellen von Benutzerkonten und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
 
-[Reset a user password](reset-a-user-password.md)
+[Zurücksetzen von Benutzerkennwörtern](reset-a-user-password.md)
 
-[Understand your Incentive payouts](understand-incentive-payouts.md)
+[Informationen zu den Anreizauszahlungen](understand-incentive-payouts.md)
 

@@ -2,12 +2,12 @@
 title: Grundlagen zur Abrechnung | Partner Center
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
-keywords: "Abrechnung, Zahlungen, Aufträge, Abbruch, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Abstimmungsdateien, Abstimmungsdatei"
-ms.openlocfilehash: 59cdd6a3b0024356479ef0da87a87ac79148d316
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+keywords: Abrechnung, Zahlungen, Aufträge, Abbruch, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Abstimmungsdateien, Abstimmungsdatei
+ms.openlocfilehash: 6992c2f0a7ac235e8ee62bd82a134631ec35b0db
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="billing-basics"></a>Grundlagen zur Abrechnung
 
@@ -38,7 +38,7 @@ Sie haben nun eine Option für jährliche Abrechnung zusätzlich zur Option "Mon
 <td><ul>
 <li>Zahlungsbedingungen – 60 Tage netto.</li>
 <li>Zahlungen müssen zum Fälligkeitsdatum der Rechnung (60Tage nach dem Abrechnungsdatum) erfolgen, ansonsten ist das Konto im Rückstand.</li>
-<li>Rückständige Konten können zeitweilig aufgehoben und/oder vom Programm für Cloud-Lösungsanbieter ausgeschlossen werden. Mit aufgehobenen Konten können keine neue Kunden oder Bestellungen erstellt, keine Handelspartnerbeziehung angefordert, Abonnementmengen erhöht oder verringert, Add-on-Abonnements bestellt, Abonnements konvertiert oder übertragen werden. Sie sind auf die Verwaltung vorhandener Kunden, Abonnements und Ressourcen beschränkt, bis das Konto wieder aktuell ist. Partner erhalten den vollen Funktionsumfang der aufgehobenen Konten zurück, wenn sie ihre ausstehenden Rechnungen beglichen haben.</li>
+<li>Rückständige Konten können zeitweilig aufgehoben und/oder vom Programm für Cloud Solution Provider ausgeschlossen werden. Mit aufgehobenen Konten können keine neue Kunden oder Bestellungen erstellt, keine Handelspartnerbeziehung angefordert, Abonnementmengen erhöht oder verringert, Add-on-Abonnements bestellt, Abonnements konvertiert oder übertragen werden. Sie sind auf die Verwaltung vorhandener Kunden, Abonnements und Ressourcen beschränkt, bis das Konto wieder aktuell ist. Partner erhalten den vollen Funktionsumfang der aufgehobenen Konten zurück, wenn sie ihre ausstehenden Rechnungen beglichen haben.</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -59,7 +59,6 @@ Sie haben nun eine Option für jährliche Abrechnung zusätzlich zur Option "Mon
 <tr class="odd">
 <td>Anpassungen/Guthaben/Kündigungen</td>
 <td><ul>
-<li>Guthaben für Testkonten und Integrationstests sind nicht zulässig. Um Abonnementgebühren oder Gebühren bei vorzeitiger Beendigung zu vermeinen, wenn Sie Tests durchführen, können Sie das Abonnement während des kostenlosen Zeitraums kündigen. Alle Nutzungsgebühren für Azure-Dienste liegen in Ihrer Verantwortung.</li>
 <li>Anpassungen und rückständige Guthaben werden in der nächsten Rechnung angezeigt, nachdem das Guthaben oder die Anpassung angerechnet wurde.</li>
 </ul></td>
 </tr>
@@ -89,15 +88,6 @@ Sie haben nun eine Option für jährliche Abrechnung zusätzlich zur Option "Mon
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>Bis zu ein kostenloser Monat</td>
-<td><ul>
-<li>Neue Abonnements mit monatlichen Abrechnungen erhalten auch weiterhin einen kostenlosen Zeitraum und richten sich nach dem Abrechnungsdatum des Partners.</li>
-<LI> Abonnements mit jährlicher Abrechnung bieten diesen kostenlosen nicht an und sind am Kaufdatum ausgerichtet. Partner erhalten auch weiterhin ihre Rechnung und Erstattungsdateien an ihrem monatlichem Abrechnungsdatum, das die Abrechnungsaktivität für die monatlichen und jährlichen Abonnements enthält.
-<li>Alle Abonnements werden automatisch um weitere 12 Monate (mit 12 im Voraus zu bezahlenden monatlichen Gebühren) verlängert, wenn das Abonnement nicht gemäß der entsprechenden Vereinbarungen gekündigt wird.</li>
-<li>Der kostenlose Zeitraum gilt nicht für nutzungsbasierte Dienste.</li>
-</ul></td>
-</tr>
-<tr class="even">
 <td>Abrechnungsregeln</td>
 <td><ul>
 <li>Abonnements gelten für ein Jahr und werden automatisch verlängert.</li>
@@ -107,7 +97,7 @@ Sie haben nun eine Option für jährliche Abrechnung zusätzlich zur Option "Mon
 <li>Zahlungen basieren auf verkauften Plätzen (und nicht auf bereitgestellten Plätzen).</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Anpassungen/Guthaben/Kündigungen</td>
 <td><ul>
 <li>Gebühren für eine vorzeitige Beendigung werden derzeit nicht für die Kündigung lizenzbasierter Dienste in Rechnung gestellt.</li>
@@ -133,7 +123,6 @@ Azure verwendet das Modell der nutzungsbasierten Bezahlung, bei der Ihnen nur ge
 <tr class="odd">
 <td>Abrechnungsregeln</td>
 <td><ul>
-<li>Die Abrechnung beginnt am Anfangsdatum des Abonnements. Für die nutzungsbasierte Abrechnung gibt es keinen kostenlosen Zeitraum.</li>
 <li>Abonnements laufen von Monat zu Monat und werden automatisch zu den getakteten Dienstleistungspreisen verlängert. Die Abrechnung erfolgt monatlich im Nachhinein, basierend auf der Nutzung.</li>
 <li>Getaktete Dienstleistungspreise können sich innerhalb des Abrechnungszyklus ändern.
 <ul>

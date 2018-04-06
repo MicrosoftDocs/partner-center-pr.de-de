@@ -1,19 +1,28 @@
 ---
-title: "Sonderpreise für Angebote | Partner Center"
-Description: "Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z.B. für Bildungsinstitute, Wohltätigkeitsorganisationen und Behörden oder sehr große Kundenstämme."
+title: An spezielle Branchen verkaufen | Partner Center
+Description: Microsoft provides special, reduced pricing for select groups of customers, such as for education, non-profit, and government uses, or for very large customer sets.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 02eb734789fa27e08c5e2a42cc0f5b57428f7c06
+ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 03/09/2018
 ---
-# <a name="get-special-pricing-for-offers"></a>Sonderpreise für Angebote
+# <a name="sell-to-specialized-industries"></a>An spezielle Branchen verkaufen
 
-**Betrifft**
+**Betriff:**
 
 -  Partner Center
 
-Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z.B. für Bildungsinstitute, Wohltätigkeitsorganisationen und Behörden oder sehr große Kundenstämme. Händler müssen zertifiziert sein, um von diesen Preisen profitieren zu können. Der Kunde muss sich zudem für den Sonderpreis qualifizieren.
+Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z.B. für Bildungsinstitute, Wohltätigkeitsorganisationen und Behörden oder sehr große Kundenstämme. Händler müssen zertifiziert sein, um von diesen Angeboten profitieren zu können. Der Kunde muss sich zudem für den Sonderpreis qualifizieren.
+
+|**Sonderpreise**   |**Erforderliche Händlerqualifikationen**   |**Erforderliche Kundenqualifikationen**   |
+|----------------------------|:---------------------------------|:------------------------------------------|
+|Bildung   |Werden Sie ein [autorisierter Verkäufer im Bildungsbereich](https://www.mepn.com/MEPN/AEPHome.aspx)   | Sie müssen ein [qualifizierter Benutzer der Bildung](https://www.microsoft.com/Licensing/licensing-programs/licensing-for-industries.aspx#tab=2) sein   |
+|Behörden   |Registrieren mithilfe des [Formulars zur Microsoft Government Cloud-Überprüfung](http://azuregov.microsoft.com/csp)|   keiner|
+|Gemeinnützige Organisation  |Keins   |Melden Sie sich über das [Microsoft-Programm für gemeinnützige Organisationen](https://nonprofit.microsoft.com/#/register) an, um berechtigt zu sein   |
+
 
 **Überprüfen Ihrer Händlerqualifikationen**
 
@@ -27,24 +36,10 @@ Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z.B. 
 2.  Wählen Sie im Kundenmenü **Konto**. Prüfen Sie unter **Unternehmensinformationen** den Abschnitt **besondere Qualifikationen**.
 3.  Wenn für **Besondere Qualifikationen** die Auswahl **Keine** lautet, aber der Kunde die Qualifikationen tatsächlich erfüllt, können Sie ihre Daten **aktualisieren**, um diese einzuschließen.
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>Bildungsangebote</p></td>
-<td><p>Wenn Sie Zugriff auf die Bildungsangebote in CSP erhalten möchten, [müssen Sie Authorized Education Partner werden](http://go.microsoft.com/fwlink/p/?LinkId=808781)(AEP).</p>
-<p>Angebote zum Sonderpreis für Bildungsinstitute kaufen</strong></p>
-<ol>
-<li>Sie müssen [Authorized Education Partner](http://go.microsoft.com/fwlink/p/?LinkId=808781) ein.</li>
-<li>Der Kunde muss die Definition eines[Qualified Educational User](http://go.microsoft.com/fwlink/p/?LinkId=808795) für Ihren Markt erfüllen.</li>
-<li>Führen Sie die gewohnten Schritte zum [Erstellen eines neuen Abonnements](create-a-new-subscription.md) aus. Wenn Sie das Angebot aus dem Katalog auswählen, wählen Sie es auf der Registerkarte <strong>Bildung</strong>.</li>
-</ol></td>
-</tr>
-</tbody>
-</table>
+**So finden Sie Sonderangebote**
+
+Nachdem Sie und der Kunde für ein Sonderangebotsprogramm qualifiziert wurden, führen Sie die gewohnten Schritte zum [Erstellen eines neuen Abonnements](create-a-new-subscription.md) durch. Der Katalog enthält Registerkarten für Sonderangebote wie z.B. **Bildung**, die Sie verkaufen können. 
+
 
  
 

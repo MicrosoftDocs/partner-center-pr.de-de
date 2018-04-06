@@ -1,13 +1,13 @@
 ---
-title: "Häufig gestellte Fragen zu neuen Abrechnungsfunktionen | Partner Center"
+title: Häufig gestellte Fragen zu neuen Abrechnungsfunktionen | Partner Center
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
-ms.assetid: 
+ms.assetid: ''
 author: MaggiePucciEvans
-ms.openlocfilehash: cd6e267dd691529998cf43e7a21a3abac066e2d7
-ms.sourcegitcommit: 6eec754e269e8744d4e09df64a690d0c74525dbb
+ms.openlocfilehash: 31c6625226fa24d56861739865c5988c9da260d0
+ms.sourcegitcommit: 770e46901be73dd18f0a95f1f813cbb102b4fd2e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/14/2018
+ms.lasthandoff: 03/15/2018
 ---
 # <a name="faq-about-new-billing-features"></a>Häufig gestellte Fragen zu neuen Abrechnungsfunktionen
 
@@ -87,7 +87,7 @@ Abschnitte:
 
 -   **A:** Zur Nutzung der jährliche Abrechnung sind einige Änderungen an Ihren APIs erforderlich. Weitere Informationen finden Sie in den folgenden Artikeln:
 
-    - https://partnercenter.microsoft.com/de-de/partner/developer
+    - https://partnercenter.microsoft.com/en-us/partner/developer
 
     - https://msdn.microsoft.com/en-us/library/partnercenter/microsoft.store.partnercenter.models.orders.order.billingcycle.aspx 
 
@@ -105,7 +105,7 @@ Abschnitte:
 
 **F:** Wenn ich mich für die jährliche Abrechnung entscheide, wann erfolgt die Abrechnung?    
 
--   **A:** Die Abrechnung erfolgt am folgenden Rechnungsdatum. Wenn beispielsweise Ihr Abrechnungsdatum der 1. Februar ist, erfolgt die Abrechnung immer am 1. Februar. Wenn Sie also ein jährlich abgerechnetes Abonnement am 29. Oktober 2017 oder am 15. Januar 2018 erwerben, wird Ihnen in beiden Fällen ein Jahresabonnement ab dem 1. Februar 2018 in Rechnung gestellt. 
+-   **A:** Die Abrechnung erfolgt am nächsten Rechnungsdatum. Wenn Ihr Abrechnungsdatum beispielsweise der 1. ist und Sie am 29.Oktober2017 ein jährlich in Rechnung gestelltes Abonnement erwerben, wird Ihnen dieses am 1.November2017 in Rechnung gestellt. Vorausgesetzt, dass Sie keine Änderungen an der Lizenz vornehmen, erfolgt die Rechnungslegung erneut am 1.November2018. Wenn Sie Änderungen an der Lizenz vornehmen, erhalten Sie eine Gutschrift und eine anteilige Rechnung zum nächsten Abrechnungsdatum. 
 
 **F:** Kann ich ein Abonnement so aufteilen, dass ein Teil monatlich und der andere jährlich abgerechnet wird?  
 
@@ -270,136 +270,129 @@ Abschnitte:
 
 ## <a href="" id="freetrialsfaq"></a>FAQ zu kostenlosen Testversionen
 
-**F:** Was sind kostenlose Testversionen?
+**F1:** Was sind kostenlose Testversionen?
 
 -   **A:** Sie können Ihren Kunden eine 30-tägige kostenlose Testversion von bestimmten Produkten anbieten. Dadurch können Ihre Kunden das Produkt vor dem Kauf bewerten. Kostenlose Testversionen sind für folgende Produkte verfügbar: 
 
-    - Office 365 Business Premium  
-    - Office 365 E3  
-    - Office 365 E5 mit PSTN  
-    - Office 365 E5 ohne PSTN  
-    - Enterprise Mobility & Security E5  
-    - Dynamics 365 Customer Engagement Plan 1  
-    - Dynamics 365 for Financials  
+    - Office365 Business Premium (ab dem 17.Oktober2017)
+    - Office365 E3 (ab dem 17.Oktober2017)
+    - Office365 E5 mit PSTN (ab dem 17.Oktober2017)
+    - Office365 E3 ohne PSTN (ab dem 17.Oktober2017)
+    - Enterprise Mobility & Security E5 (ab dem 17.Oktober2017)
+    - Dynamics 365 Customer Engagement Plan 1 (ab dem 17.Oktober2017)
+    - Dynamics 365 for Financials (ab dem 17.Oktober2017)
+    - Microsoft 365 Business (ab dem 1.März2018)
     
-**F:** Wird die kostenlose Testphase durch die Bereitstellung einer kostenlosen Testversionen entfernt?
-
--   **A:** Nein, Abonnements mit monatlicher Rechnung erhalten auch weiterhin einen „kostenlosen Zeitraum”. Es steht jedoch kein kostenloser Zeitraum für die jährliche Abrechnung zur Verfügung.
-
-**F:** Die Abrechnungsanpassung wird bis zum ersten Quartal des Geschäftsjahrs 2018 verzögert. Wie wirkt sich dies auf den kostenlosen Zeitraum und die Abrechnung im Allgemeinen aus?
-
--   **A:** Neue Abonnements mit monatlichen Abrechnungen erhalten auch weiterhin eine Rechnung und werden am Abrechnungsdatum des Partners ausgerichtet. Abonnements mit jährlicher Abrechnung bieten diesen kostenlosen nicht an und sind am Kaufdatum ausgerichtet. Partner erhalten auch weiterhin ihre Rechnung und Erstattungsdateien an ihrem monatlichem Abrechnungsdatum, das die Abrechnungsaktivität für die monatlichen und jährlichen Abonnements enthält.
-
-**F:** Wann wird die kostenlose Testphase für Abonnements mit monatlicher Abrechnungsfrequenz entfernt?
-
--   **A:** im ersten Quartal des Geschäftsjahrs 2018.
-
-**F:** Sind jährliche Abrechnungen und kostenlose Testphasen unterschiedliche in der unabhängiger Cloud im Vergleich zur öffentlichen Cloud?
+**F2:** Sind jährliche Abrechnungen und kostenlose Testphasen unterschiedliche in der unabhängiger Cloud im Vergleich zur öffentlichen Cloud?
 
 -   **A:** Nein. Sie sind identisch. Der einzige Unterschied liegt in den Testversions-SKUs, die zum Zeitpunkt des Starts verfügbar sind.
 
-**F:** Wenn wird dies für die oben aufgeführten SKUs verfügbar sein?
+**F3:** Wer kann teilnehmen?
 
--   **A:** 17. Oktober 2017.
+-   **A:** Alle Partner können daran teilnehmen. Allerdings sind in China derzeit keine Testversionen verfügbar. 
 
-**F:** Wer kann teilnehmen?
-
--   **A:** Alle Partner können teilnehmen. Allerdings sind in China derzeit keine Testversionen verfügbar. Die kostenlosen Testversionen stehen für chinesische Partner und Kunden Ende 2017 zur Verfügung. 
-
-**F:** Was muss ich unternehmen, um von diesen kostenlosen Testversionen profitieren zu können?
+**F4:** Was muss ich unternehmen, um von diesen kostenlosen Testversionen profitieren zu können?
 
 -   **A:** Überlegen Sie, wie die kostenlose Testversion in Ihren Verkaufsprozess integriert werden kann und welchen Einfluss sie auf interne Vorgänge hat. Sie müssen außerdem möglicherweise die APIs ändern, um die Umwandlung einer kostenlosen Testversion in ein kostenpflichtiges Abonnement zu ermöglichen. Im Ankündigungsbereich des Partner Centers werden detaillierte technische Spezifikationen für diese API-Änderungen zur Verfügung gestellt.
 
-**F:** Wird die kostenlose Testversion in meiner Rechnung und Abstimmungsdatei angezeigt?
+**F5:** Wird die kostenlose Testversion in meiner Rechnung und Abstimmungsdatei angezeigt?
 
 -   **A:** Nein, die kostenlose Testversion wird nicht in Ihrer Rechnung oder der lizenzbasierten Abstimmungsdatei angezeigt. Erst nach der Umwandlung einer kostenlosen Testversion in ein kostenpflichtiges Abonnement erscheint sie auf Ihrer Rechnung und in der lizenzbasierten Abstimmungsdatei. Das konvertierte Abonnement wird in gleicher Weise wie jedes andere neue Abonnement in Ihrer Rechnung und der lizenzbasierten Abstimmungsdatei angezeigt.
 
-**F:** Hat die kostenlose Testversion Auswirkungen auf Incentives?
+**F6:** Hat die kostenlose Testversion Auswirkungen auf Incentives?
 
 -   **A:** Nein. Die kostenlose Testversion hat keine Auswirkung auf Anreize.
 
-**Q:** Werden kostenlose Testversionen für zusätzliche Office-Produkte und CSPs in Zukunft zur Verfügung gestellt?
+**F7:** Werden kostenlose Testversionen für weitere Office-Produkte in Zukunft zur Verfügung gestellt?
 
--   **A:** Wir wissen es noch nicht. Wir bieten kostenlose Testversionen für diese Produkte an, da sie die umfassendsten und beliebtesten geschäftlichen Angebote sind. Wir werden in Zukunft möglicherweise weitere kostenlose Testangebote hinzufügen.
+-   **A:** Wir bieten kostenlose Testversionen für diese Produkte an, da sie die umfassendsten und beliebtesten geschäftlichen Angebote sind. Wir werden in Zukunft möglicherweise weitere kostenlose Testangebote hinzufügen.
 
-**F:** Kann ein Kunde mehr als eine kostenlose Testversion erhalten?
+**F8:** Kann ein Kunde mehr als eine kostenlose Testversion erhalten?
 
 -   **A:** Jeder Kunde erhält eine kostenlose Testversion pro Angebot.
 
-**F:** Gibt es Beschränkungen für eine kostenlose Testversion?
+**F9:** Gibt es Beschränkungen für eine kostenlose Testversion?
 
 -   **A:** Ja. Die Testversion gilt für maximal 25 Lizenzen. Die Anzahl der Lizenzen kann während des Testzeitraums nicht geändert werden. Nachdem die Testversion in ein kostenpflichtiges Abonnement umgewandelt wurde, können Sie zusätzliche Lizenzen für das Abonnement hinzufügen.
 
-**F:** Wird eine kostenlose Testversion automatisch in ein kostenpflichtiges Abonnement umgewandelt?
+**F10:** Wird eine kostenlose Testversion automatisch in ein kostenpflichtiges Abonnement umgewandelt?
 
 -   **A:** Nein. Sie müssen das Abonnement selbst umwandeln, entweder im Partner Center oder über die API.
 
-**F:** Können kostenlose Testversionen sowohl für monatlich als auch für jährliche in Rechnung gestellte Abonnements verwendet werden?
+**F11:** Können kostenlose Testversionen sowohl für monatlich als auch für jährliche in Rechnung gestellte Abonnements verwendet werden?
 
 -   **A:** Ja. Sie können die Abrechnungshäufigkeit auswählen, wenn Sie die Testversion in ein kostenpflichtiges Abonnement umwandeln.
 
-**F:** Wird das Startdatum des Abonnements basierend auf dem Datum der kostenlosen Testversion bestimmt, oder basierend auf dem Datum, an dem es in ein kostenpflichtiges Abonnement umgewandelt wird? 
+**F12:** Wird das Startdatum des Abonnements basierend auf dem Datum der kostenlosen Testversion bestimmt, oder basierend auf dem Datum, an dem es in ein kostenpflichtiges Abonnement umgewandelt wird? 
 
 -   **A:** Das Startdatum basiert auf dem Datum der Konvertierung. Wenn die kostenlose Testversion in ein kostenpflichtiges Angebot mit jährlicher Abrechnung umgewandelt wird, ist zwölf Monate nach dem Datum der Umwandlung das Verlängerungsdatum erreicht. Wenn die kostenlose Testversion in ein kostenpflichtiges Angebot mit monatlicher Abrechnung umgewandelt, liegt das Verlängerungsdatum des Abonnements zwölf Monate nach dem Verlängerungsdatum der Konvertierung.
 
-**F:** Können während der kostenlosen Testphase Plätze hinzugefügt oder entfernt werden?
+**F13:** Können während der kostenlosen Testphase Plätze hinzugefügt oder entfernt werden?
 
 -   **A:** Nein. Kostenlose Testversionen umfassen standardmäßig 25Lizenzen und können nicht erhöht werden.
 
-**F:** Gibt es Testversionen für Add-On-Angebote wie ATP und PSTN?
+**F14:** Gibt es Testversionen für Add-On-Angebote wie ATP und PSTN?
 
--   **A:** Es gibt keine kostenlosen Testversionen für Add-On-Angebote.
+-   **A:** Es gibt zur Zeit keine kostenlosen Testversionen für Add-On-Angebote.
 
-**F:** Kann ich eine Testphase für ein Angebot anbieten, das ein Kunde bereits besitzt?
+**F15:** Kann ich eine Testphase für ein Angebot anbieten, das ein Kunde bereits besitzt?
 
 -   **A:** Nein. Nein, wenn der Kunde das Angebot bereits besitzt kann, dafür keine kostenlose Testversion bereitgestellt werden.
 
-**F:** Kann ich meine ausstehenden Testangebote anzeigen?
+**F16:** Kann ich meine ausstehenden Testangebote anzeigen?
 
 -   **A:** Ja. Auf der Kundenseite sind alle Abonnements aufgeführt. Es werden sowohl die kostenlosen Testabonnements als auch die kostenpflichtigen Abonnements angezeigt.
 
-**F:** Werde ich über ablaufende kostenlose Testversionen benachrichtigt?
+**F17:** Werde ich über ablaufende kostenlose Testversionen benachrichtigt?
 
 -   **A:** Nein. Sie können anstehende Ablaufdaten im Partner Center verfolgen oder die API zum Abrufen des Datums nutzen. Sie sollten diese Daten häufig überwachen, damit die entsprechende Transaktion zusammen mit dem Kunden durchgeführt werden kann.
 
-**F:** Kann ein Kunde, der bereits eine kostenlose Testversion für ein Angebot besitzt, zusätzlich Testversionen für andere Angebote erhalten? 
+**F18:** Kann ein Kunde, der bereits eine kostenlose Testversion für ein Angebot besitzt, zusätzlich Testversionen für andere Angebote erhalten? 
 
 -   **A:** Ja. Kunden können sich für ein Testabonnement pro Angebot registrieren. Sie können z.B. eine kostenlose Testversion für Office365 Business Premium und eine kostenlose Testversion für Office365 E3 erhalten.
 
-**F:** Was geschieht, wenn die Testversion abläuft? Erhalten ich und der Kunde eine Benachrichtigung? Welche Benachrichtigungen werden angezeigt, wenn ich versuche, mich bei einer abgelaufenen Testversion anzumelden?
+**F19:** Was geschieht, wenn die Testversion abläuft? Erhalten ich und der Kunde eine Benachrichtigung? Welche Benachrichtigungen werden angezeigt, wenn ich versuche, mich bei einer abgelaufenen Testversion anzumelden?
 
 -   **A: **Nachdem die Testversion abgelaufen ist und der Kunde versucht, sich anzumelden, wird eine Nachricht auf der Testversion angezeigt, dass die Testversion abgelaufen ist. Es gibt keine Benachrichtigungen, dass die Testversion abläuft. Als Partner können dies allerdings über die Kundenansicht oder API-Abfragen nachverfolgen.
 
-**F:** Kann eine Testversion verlängert werden?
+**F20:** Kann eine Testversion verlängert werden?
 
 -   **A:** Nein. Die Testversion muss entweder umgewandelt werden oder läuft nach 30 Tagen ab.
 
-**Q:** Kann auf die Informationen der Testversion zugegriffen werden, wenn sie abgelaufen ist?
+**F21:** Kann auf die Informationen der Testversion zugegriffen werden, wenn sie abgelaufen ist?
 
--   **A:** Ja. Die Informationen werden entsprechend den Standards für die Aufbewahrung von Daten gespeichert. Nachdem Sie ein neues Abonnement mit den gleichen Serviceplänen erworben haben, können Sie über das neu aktivierte Abonnement auf die Daten zugreifen.
+-   **A:** Ja. Die Informationen werden entsprechend den Standards für die Aufbewahrung von Daten gespeichert. Nachdem Sie ein neues Abonnement mit den gleichen Serviceplänen erworben haben, können Sie über das neu aktivierte Abonnement auf die Daten Ihres Kunden zugreifen.
 
-**F:** Gibt es kostenlose Testversionen für Behörden und Bildungseinrichtungen?
+**F22:** Gibt es kostenlose Testversionen für Behörden und Bildungseinrichtungen?
 
 -   **A:** Es gibt im Moment noch keine kostenlosen Testversionen für Behörden und Bildungseinrichtungen.
 
-**F:** Können Testversionen für Kunden im Cloud Solution Provider (CSP)-Programm auf andere Programm-Mandanten wie EA, Open oder MOSP übertragen werden? 
+**F23:** Können Testversionen für Kunden im Cloud Solution Provider (CSP)-Programm auf andere Programm-Mandanten wie EA, Open oder MOSP übertragen werden? 
 
 -   **A:** Nein. Abonnements können nicht vom CSP auf andere Programme übertragen werden.
 
-**F:** Wie erhalte ich Support für kostenlose Testversionen? 
+**F24:** Wie erhalte ich Support für kostenlose Testversionen? 
 
 -   **A:** Bitte übermitteln Sie eine Serviceanfrage über das Partner Center.
 
 ## <a href="" id="billingalignmentfaq"></a>Anpassung des Abrechnungsdatums – kein freier Zeitraum mehr
 
-Am 20. Februar wird im CSP-Programm eine „Anpassung des Abrechnungsdatums” für neue Abonnements mit monatlicher Abrechnung implementiert. Diese „Anpassung des Abrechnungsdatums” wird den Partnern mehr Flexibilität und Vorhersagbarkeit für Vertrieb, Abrechnung, Bereitstellung und Verwaltung von Kundenabonnements bieten. Abonnements, die vor dem 20. Februar gekauft wurden, erhalten einen kostenlosen Zeitraum vom Kaufdatum bis zum Rechnungsdatum des Partners. Abonnements, die nach dem 20. Februar gekauft wurden, erhalten keinen kostenlosen Zeitraum mehr. Die 12-monatige Zahlungsfrist beginnt mit dem Kaufdatum auf der Partnerabrechnung. Partnern wird keine Rechnungszeile mehr mit einem Nullbetrag angezeigt, die den kostenlosen Zeitraum in der Abstimmungsdatei darstellt. Es gibt keine Änderungen an APIs, Fakturierung oder Incentives.  Partner sollten ihre Verkaufs- und Buchhaltungsteams über diese neue Abrechnungslogik informieren und sicherstellen, dass alle Vorgänge bei Bedarf angepasst werden.  
+Die Anpassung des Abrechnungsdatums für neue Abonnements mit monatlicher Abrechnung wird ab dem 21. Februar 2018 im Cloud Solution Provider (CSP)-Programm implementiert. Diese „Anpassung des Abrechnungsdatums” wird den Partnern mehr Flexibilität und Vorhersagbarkeit für Vertrieb, Abrechnung, Bereitstellung und Verwaltung von Kundenabonnements bieten. 
 
-Vor der Anpassung des Abrechnungsdatums sind wir bei der Rechnungsstellung vom dem Datum ausgegangen, an dem der Partner dem CSP-Programm beigetreten ist, und nicht von dem Jahrestag, an dem der Kunde sein Abonnement erworben hat. Der daraus resultierende kostenlose Zeitraum entfällt nach dem 20. Februar, da die Abrechnung mit einem Partner ab dann auf dem Jahrestag seines Abonnements basiert.  Partner erhalten weiterhin Rechnungen zu ihrem Abrechnungsdatum, aber das effektive Rechnungsdatum wird der Jahrestag des Kundenabonnements sein. 
+**UPDATE FÜR DEN 23. FEBRUAR:**Wir hatten die Implementierung bereits für den 20. Februar angekündigt, aber sie hat sich leicht verzögert und ist nach Produktkategorien gestaffelt.  Im unten aufgeführten Diagramm finden Sie weitere Informationen über das Einführungsdatum nach Produktkategorie. 
 
-Abonnements, deren kostenloser Zeitraum den 20. Februar umfasst, werden im Zeitraum zwischen Kaufdatum und dem Abrechnungsdatum für den Partner nicht berechnet. Zudem sind sie im Monat 1 des 12-monatigen Abrechnungszeitraums kostenlos. Wenn Sie eine Abstimmungsdatei für die Überprüfung verwenden, beachten Sie, dass die Gebühren für diesen ersten Monat nicht mehr angezeigt werden.  
+|**Produktkategorie**   |**Einführungsdatum**   |
+|-----------------|:-------------|
+|Office  |Februar 21   |
+|Windows, Minecraft   |Februar 22   |
+|Office365 China   |Februar 23   |
+|Dynamics/Intune   |Februar 23   |
 
-APIs, Abrechnung oder Incentives werden aufgrund dieser Änderung nicht geändert. Bitte informieren Sie Ihre Verkaufs- und Buchhaltungsteams über diese neue Abrechnungslogik, und stellen Sie sicher, dass deren Abläufe entsprechend angepasst werden. Häufig gestellte Fragen mit detaillierten Abrechnungsszenarien finden sie nachstehend.  
+Abonnements, die vor dem Datum der Implementierung gekauft wurden (siehe Tabelle oben), erhalten einen kostenlosen Zeitraum vom Kaufdatum bis zum Partnerabrechnungsdatum. Abonnements, die nach dem Einführungsdatum gekauft wurden, erhalten keinen kostenlosen Zeitraum mehr. Die 12-monatige Zahlungsfrist beginnt mit dem Kaufdatum auf der Partnerabrechnung. Partnern wird keine Rechnungszeile mehr mit einem Nullbetrag angezeigt, die den kostenlosen Zeitraum in der Abstimmungsdatei darstellt. Es gibt keine Änderungen an APIs, Fakturierung oder Incentives.  Partner sollten ihre Verkaufs- und Buchhaltungsteams über diese neue Abrechnungslogik informieren und sicherstellen, dass alle Vorgänge bei Bedarf angepasst werden.  
 
+Vor der Anpassung des Abrechnungsdatums sind wir bei der Rechnungsstellung vom dem Datum ausgegangen, an dem der Partner dem CSP-Programm beigetreten ist, und nicht von dem Jahrestag, an dem der Kunde sein Abonnement erworben hat. Der daraus resultierende kostenlose Zeitraum entfällt nach dem Einführungsdatum, da die Abrechnung mit einem Partner ab dann auf dem Jahrestag seines Abonnements basiert.  Partner erhalten weiterhin Rechnungen zu ihrem Abrechnungsdatum, aber das effektive Rechnungsdatum wird der Jahrestag des Kundenabonnements sein. 
+
+Abonnements, deren kostenloser Zeitraum das Einführungsdatum umfasst, werden im Zeitraum zwischen Kaufdatum und dem Abrechnungsdatum für den Partner nicht berechnet. Zudem sind sie im Monat 1 des 12-monatigen Abrechnungszeitraums kostenlos. Wenn Sie eine Abstimmungsdatei für die Überprüfung verwenden, beachten Sie, dass die Gebühren für diesen ersten Monat nicht mehr angezeigt werden.  
 
 **F1:** Was ändern sich mit dem Abrechnungsdatum?
 
@@ -407,19 +400,26 @@ APIs, Abrechnung oder Incentives werden aufgrund dieser Änderung nicht geänder
 
 **F2:** Wann entfällt der kostenlose Zeitraum?
 
-- **A:** Ab dem 20. Februar 2018 gibt es für neue Abonnements keinen freien Zeitraum mehr.
+- **A:** Ab dem in der folgenden Tabelle aufgeführten Einführungsdatum erhalten neue Abonnements keinen kostenlosen Zeitraum mehr.
 
-**F3:** Wie wird sich das auf die Abonnements im kostenlosen Zeitraum am 20. Februar auswirken?
+|**Produktkategorie**   |**Einführungsdatum**   |
+|-----------------|:-------------|
+|Office  |Februar 21   |
+|Windows, Minecraft   |Februar 22   |
+|Office365 China   |Februar 23   |
+|Dynamics/Intune   |Februar 23   |
 
-- **A:** Abonnements, für die am 20. Februar 2018 ein kostenloser Zeitraum gilt, erhalten diesen weiterhin ab Kaufdatum bis zum Partnerabrechnungsdatum. Diese Lizenzen erhalten zudem einen „verlängerten kostenlosen Zeitraum” und werden für den 1. Monat der 12-monatigen Laufzeit nicht berechnet. Der „erweiterte kostenlose Zeitraum” gilt nicht für Lizenzen, die im 1. Monat hinzugefügt werden. Wenn Sie die Lizenzanzahl im 1.Monat erhöhen, werden Ihnen die zusätzlichen Lizenzen mit der nächste Rechnung/Abstimmung berechnet. Wenn Sie die Abstimmungsdatei für die Überprüfung verwenden, beachten Sie, dass die Gebühren für diesen ersten Monat möglicherweise nicht mehr in der Datei angezeigt werden. Die nachstehenden Szenarien enthalten eine genauere Beschreibung.
+**F3:** Wie wird sich das auf die Abonnements im kostenlosen Zeitraum am Einführungsdatum auswirken?
+
+- **A:** Abonnements, für die am Einführungsdatum ein kostenloser Zeitraum gilt, erhalten diesen weiterhin ab Kaufdatum bis zum Partnerabrechnungsdatum. Diese Lizenzen erhalten zudem einen „verlängerten kostenlosen Zeitraum” und werden für den 1. Monat der 12-monatigen Laufzeit nicht berechnet. Der „erweiterte kostenlose Zeitraum” gilt nicht für Lizenzen, die im 1. Monat hinzugefügt werden. Wenn Sie die Lizenzanzahl im 1.Monat erhöhen, werden Ihnen die zusätzlichen Lizenzen mit der nächste Rechnung/Abstimmung berechnet. Wenn Sie die Abstimmungsdatei für die Überprüfung verwenden, beachten Sie, dass die Gebühren für diesen ersten Monat möglicherweise nicht mehr in der Datei angezeigt werden. Die nachstehenden Szenarien enthalten eine genauere Beschreibung.
 
 **F4:** Wann beginnt der kostenpflichtige Zeitraum von 12Monaten für ein neues Abonnement?
 
-- **A:** Derzeit beginnt der bezahlte Zeitraum an dem auf das Kaufdatum folgenden Partnerabrechnungsdatum. Ab dem 20. Februar 2018 beginnt der bezahlte Zeitraum für neue Abonnements mit dem Kaufdatum.
+- **A:** Derzeit beginnt der bezahlte Zeitraum an dem auf das Kaufdatum folgenden Partnerabrechnungsdatum. Ab dem Einführungsdatum beginnt der bezahlte Zeitraum für neue Abonnements mit dem Kaufdatum.
 
 **F5:** Wann werden Abonnements automatisch verlängert?
 
-- **A:** Abonnements verlängern sich automatisch 12 Monate nach dem ersten Abrechnungsdatum. Derzeit verlängern sich Abonnements automatisch 12 Monate nach dem auf das Kaufdatum folgende Partnerabrechnungsdatum. Ab dem 20. Februar 2018 werden alle neuen Abonnements automatisch 12Monate nach dem Kaufdatum erneuert.
+- **A:** Abonnements verlängern sich automatisch 12 Monate nach dem ersten Abrechnungsdatum. Derzeit verlängern sich Abonnements automatisch 12 Monate nach dem auf das Kaufdatum folgende Partnerabrechnungsdatum. Ab dem Einführungsdatum werden alle neuen Abonnements automatisch 12Monate nach dem Kaufdatum erneuert.
 
 **F6:** Was geschieht, wenn ich das Abonnement am 29., 30. oder 31. eines Monats erwerbe?
 
@@ -452,7 +452,7 @@ APIs, Abrechnung oder Incentives werden aufgrund dieser Änderung nicht geänder
 ### <a name="common-scenarios"></a>Häufige Szenarien
 
 
-|**Szenarien**   |**Szenario 1: Der kostenlose Zeitraum des Abonnement endet vor dem 20. Februar 2018.**   |**Szenario 2: Der kostenlose Zeitraum des Abonnement umfasst den 20. Februar 2018.**  | **Szenario 3: Das Abonnement wurde am oder nach dem 20. Februar 2018 erworben.**   |
+|**Szenarien**   |**Szenario 1: Der kostenlose Zeitraum des Abonnement endet vor dem Einführungsdatum.**   |**Szenario 2: Der kostenlose Zeitraum des Abonnement umfasst das Einführungsdatum.**  | **Szenario 3: Das Abonnement wurde am oder nach dem Einführungsdatum erworben.**   |
 |----------|:------------|:--------------------|:------------|
 |Kaufdatum |1. Februar 2018    | 1. Februar 2018    | 1. Juni 2018     |
 |Bereitstellungsdatum | 1. Februar 2018   |1. Februar 2018   |1. Juni 2018   |
@@ -525,9 +525,8 @@ Das Abrechnungsdatum des Partners ist der 15. jeden Monats. Am 1. Juni 2018 kauf
 
 Die Abstimmungsdatei vom 15. Juli enthält dann folgende Rechnungspositionen:
 - -30 USD Stornierungsguthaben für Servicezeitraum 20. Juni – 30.Juni Das Guthaben ist nicht anteilig, da das Abonnement in den ersten 30 Tagen storniert wurde.
-- 30 USD Gebühr für Servicezeitraum 25. Juni – 30.Juni Das Gebühr ist nicht anteilig, da das Abonnement in den ersten 30 Tagen storniert wurde.
-- -30 USD Guthaben für Servicezeitraum 1. Juni – 30.Juni Der Partner reaktiviert das Abonnement mit einer anderen Anzahl von Lizenzen, was zu einer neuen Abrechnung mit Guthaben und anteiligen Gebühren führt.
-- 24 USD anteilige Gebühr für Servicezeitraum 1. Juni – 24.Juni Der Partner verfügte während dieses Servicezeitraums über 1 Lizenz. Auch wenn das Abonnement vom 20. Juni bis zum 24. Juni storniert war, wird dem Kunden dieser Zeitraum in Rechnung gestellt. Der Preis pro Einheit wird wie folgt berechnet: (monatlicher Preis/Anzahl Tage im gesamten Servicezeitraum)*Anzahl Tage im anteiligen Servicezeitraum*Anzahl Lizenzen (30/30)*24*1 = 24 USD.
+- 30 USD Gebühr für Servicezeitraum 25. Juni – 30.Juni Die Reaktivierungsgebühr ist nicht anteilig, da das Abonnement in den ersten 30 Tagen reaktiviert wurde. Die Gebühr basiert ebenfalls auf der ursprünglichen Anzahl der Lizenzen.
+- -6 USD Guthaben für Servicezeitraum 25. Juni – 30.Juni Die Reaktivierungsgebühr wurde nur für eine Lizenz während des Servicezeitraums vom 25. 6. – 30.6. erhoben, als Sie 2 Lizenzen hatten. Da Guthaben von 6 USD macht die fälschlicherweise erhobene Gebühr für den Zeitraum vom 25. 6. – 30.6. rückgängig.
 - 12 USD anteilige Gebühr für Servicezeitraum 25. Juni – 30.Juni Der Partner verfügte während dieses Servicezeitraums über 2 Lizenzen. Der Preis pro Einheit wird wie folgt berechnet: (30/30)*6*2= 12 USD.
 - 60 USD Gebühr für Servicezeitraum 1. Juli – 31.Juli
 
@@ -535,8 +534,7 @@ Die Abstimmungsdatei vom 15. Juli enthält dann folgende Rechnungspositionen:
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
 |20.6.2018   |30.6.2018   |-30 USD   |1   |-30 USD   |Stornierungsgebühr |
 |25.6.2018   |30.6.2018   |30 USD   |1   |30 USD   |Aktivierungsgebühr |
-|1.6.2018   |30.6.2018   |-30 USD   |1   |-30 USD   |Anteiliger Zyklus für Instanz |
-|1.6.2018   |24.6.2018   |24 USD   |1   |24 USD   |Anteiliger Zyklus für Instanz |
+|25.6.2018   |30.6.2018   |6 USD   |1   |6 USD   |Anteiliger Zyklus für Instanz |
 |25.6.2018   |30.6.2018   |6 USD   |2   |12 USD   |Anteiliger Zyklus für Instanz |
 |1.7.2018   |31.7.2018   |30 USD   |2   |60 USD   |Gebühr für Zyklus |
 

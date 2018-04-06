@@ -1,16 +1,16 @@
 ---
-title: Erstellen eines neuen Abonnements | Partner Center
-description: "Nachdem Sie für Ihre Kunden einen Datensatz in Partner Center erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen."
+title: Erstellen, Anhalten oder Abbrechen von Kundenabonnements | Partner Center
+description: Nachdem Sie für Ihre Kunden einen Datensatz in Partner Center erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
-Keywords: subscription, create new, add subscription,
-ms.openlocfilehash: 22c19d5f8530f4c79bda522e8087379b488f6474
-ms.sourcegitcommit: 86b5aa793bc453219246c667f82dbebc3a37c3eb
+Keywords: subscription, create new, add subscription, suspend, cancel,
+ms.openlocfilehash: d05ac5683a9f8c7f620debc57966247a1b7a50d2
+ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/03/2018
+ms.lasthandoff: 03/01/2018
 ---
-# <a name="create-a-new-subscription"></a>Erstellen eines neuen Abonnements
+# <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Anhalten oder Abbrechen von Kundenabonnements
 
 **Betrifft**
 
@@ -42,18 +42,23 @@ Bitte beachten Sie, dass bestimmte Angebote auf ein Abonnement pro Kunde beschr�
 
 7.  Auf der Bearbeitungsseite können Sie auch die Menge der Lizenzen ändern oder das Abonnement aussetzen.
 
+## <a name="suspend-or-cancel-a-subscription"></a>Anhalten oder Kündigen eines Abonnements
 
-**Kunden die Verwaltung ihrer Azure-Abonnements ermöglichen**
+Partner können ein Abonnement auf Anforderung des Kunden, bei Nichtbezahlung oder bei Betrug aussetzen oder kündigen.
 
-Nachdem Sie ein Microsoft Azure-Abonnement für einen Kunden erstellt haben, können Sie ihnen die Verwaltung des Abonnements ermöglichen. Hierzu müssen Sie sich beim Microsoft Azure-Verwaltungsportal des Kunden anmelden. 
+Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Benutzer nicht anmelden oder auf Dienste zugreifen. Administratoren können sich weiterhin anmelden und auf Daten zugreifen.
 
-1.  Um das Azure-Portal des Kunden zu öffnen, erweitern Sie entweder den Kundeneintrag oder wählen Sie den Namen und anschließend das **Microsoft Azure-Verwaltungsportal** aus.
-    
- >**Hinweis** <br> Wenn Sie aufgefordert werden, Sie sich beim Azure-Portal anzumelden, fehlen Ihnen wahrscheinlich die übertragenen Administratorrechte. Wählen Sie **Partnerschaft beantragen** aus, um den Kunden aufzufordern, Sie als registrierten Abonnementberater zu identifizieren. Nachdem der Kunde die Aufforderung annimmt, werden Ihnen automatisch delegierte Administratorrechte gewährt. 
+**Aussetzen eines Abonnements**
 
-2.  Öffnen Sie im Azure-Portal die Abonnementliste des Kunden und wählen Sie das Azure-Abonnement des Kunden aus.
+1.  Wählen Sie im Menü **Dashboard** die Option **Kunden** und dann einen Kunden aus der Liste aus.
+2.  Wählen Sie das Abonnement aus, das Sie verwalten möchten.
+3.  Wählen Sie im Abschnitt **Status** den Eintrag **Ausgesetzt** aus. **Übermitteln** Sie dann Ihre Änderungen.
+4.  Alle Daten werden gelöscht, solange das Abonnement nicht innerhalb von 90Tagen oder 90Tagen zuzüglich der Anzahl der Tage zwischen der Eröffnung des Kontos und dem ersten Abrechnungszeitraum (maximal 120Tage) reaktiviert wird.
 
-3.  Weisen Sie beliebigen Benutzern des Kunden eine Rolle zu, sodass sie Ressourcen in ihrem Abonnement erstellen und verwalten können.
+Wenn Sie ein Abonnement stornieren, gibt das Datum, das unter der Schaltfläche **Ausgesetzt** angezeigt wird, an, wann das Abonnement automatisch ablaufen würde, wenn Sie es nicht erneut aktivieren. 
+
+
+
 
  
 

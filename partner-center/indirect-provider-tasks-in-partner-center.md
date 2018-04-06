@@ -1,18 +1,18 @@
 ---
 title: Zusammenarbeiten mit indirekten Vertriebspartnern in CSP | Partner Center
-description: "Als indirekter Anbieter (oder Distributor) können Sie mit indirekten Vertriebspartnern zusammenarbeiten, um Ihre Reichweite zu erhöhen."
+description: Als indirekter Anbieter (oder Distributor) können Sie mit indirekten Vertriebspartnern zusammenarbeiten, um Ihre Reichweite zu erhöhen.
 author: MaggiePucciEvans
-ms.openlocfilehash: a06ba13e11ce640ca7985090125270b4b62fb447
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
+ms.openlocfilehash: cc39be08953c88be2e55f6c53c41c1528f0c7493
+ms.sourcegitcommit: c51de6e6cbb71d11d31af21943583e9e17d66502
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 03/12/2018
 ---
-# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Zusammenarbeiten mit indirekten Vertriebspartnern im Programm für Cloud-Lösungsanbieter
+# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Zusammenarbeiten mit indirekten Vertriebspartnern im Programm für Cloud Solution Provider
 
 Angesichts der Komplexität und hohen Dynamik des Technologiemarkts möchten sich Kunden mit Technologielösungen einen Wettbewerbsvorteil verschaffen. In einem solchen Umfeld ist es für Partner sinnvoll, in Partner-zu-Partner-Programme zu investieren, um ihr Angebot zu erweitern und den Kunden noch mehr Möglichkeiten zu bieten.
 
-Neue Vertriebspartner versuchen, auf dem Markt Fuß zu fassen, und möchten ihre Lösungen auch Kunden außerhalb ihrer Märkte und Regionen anbieten. Als etablierter Technologieanbieter können Sie Ihnen beim Einstieg in den Markt helfen. Tun Sie sich mit indirekten Vertriebspartnern im Programm für Cloud-Lösungsanbieter (Cloud Solution Providers, CSPs) zusammen, um sich mit anderen Partnern zu vernetzen, neue Lösungen auf den Markt zu bringen und die Nutzung von Clouddiensten bei den Kunden voranzutreiben.
+Neue Vertriebspartner versuchen, auf dem Markt Fuß zu fassen, und möchten ihre Lösungen auch Kunden außerhalb ihrer Märkte und Regionen anbieten. Als etablierter Technologieanbieter können Sie Ihnen beim Einstieg in den Markt helfen. Tun Sie sich mit indirekten Vertriebspartnern im Programm für Cloud Solution Provider (Cloud Solution Providers, CSPs) zusammen, um sich mit anderen Partnern zu vernetzen, neue Lösungen auf den Markt zu bringen und die Nutzung von Clouddiensten bei den Kunden voranzutreiben.
 
 Im (zweistufigen) Modell mit indirektem Anbieter und Vertriebspartner bieten Sie Kunden in Zusammenarbeit mit indirekten Vertriebspartnern Cloudlösungen von Microsoft an. Sie kaufen Produkte und Abonnements direkt von Microsoft und bieten diese Lösungen dann den Kunden über Vertriebspartner an. 
 
@@ -72,6 +72,7 @@ Abhängig davon, inwieweit der Vertriebspartner Zugriff haben und eingebunden se
 | **Ziel** | **Vorgehensweise** | **Ort** |
 |   ------------------   |   -------   |   -----   |
 | Ermöglichen der Verwaltung eines Kundenkontos durch den Vertriebspartner und Gewähren von Administratorberechtigungen für die Verwaltung von Abonnements | Ordnen Sie einen Vertriebspartner einem Kundenkonto zu, wenn Sie einen neuen Kunden hinzufügen. | Auf der Seite **Neuer Kunde** |
+|Dem Händler ermöglichen, das Azure-Konto eines Kunden zu verwalten|Ordnen Sie einen Vertriebspartner einem Azure-Kundenkonto zu, wenn Sie einen neuen Kunden hinzufügen.|Wählen Sie auf dem **Azure Service-Portal** [Benutzereinstellungen](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) aus, um dem indirekten Händler eine **Mandanten-Besitzer** Berechtigungen zu erteilen|
 | Zuschreiben von Anreizen für Vertriebspartner | Ordnen Sie den Vertriebspartner dem (neuen oder vorhandenen) Abonnement zu. | Auf der Seite **Neues Abonnement** |
 | Delegieren des Kundensupports für bestimmte Abonnements an den Vertriebspartner | Wählen Sie den Vertriebspartner in der Liste **Designated support contact** aus. | Auf der Seite mit den Abonnementdetails: Wählen Sie auf der Seite **Kunden** den Kunden und anschließend auf der kundenspezifischen Seite **Abonnements** das Abonnement aus. |
 

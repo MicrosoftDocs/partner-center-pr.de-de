@@ -1,13 +1,13 @@
 ---
-title: "Abonnements für Minecraft: Education Edition für Bildungseinrichtungen verkaufen"
-description: "Abonnements für Minecraft: Education Edition für Bildungseinrichtungen verkaufen"
+title: 'Abonnements für Minecraft: Education Edition für Bildungseinrichtungen verkaufen'
+description: 'Abonnements für Minecraft: Education Edition für Bildungseinrichtungen verkaufen'
 author: KPacquer
 keywords: Autorisierte Education-Partner
-ms.openlocfilehash: b719fb858abe5e171e4bf785fc2c4b3e4500d7c5
-ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
+ms.openlocfilehash: 7404c2d98f8463ab3d1182216de2ada956bc6079
+ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/02/2017
+ms.lasthandoff: 02/21/2018
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Abonnements für Minecraft: Education Edition für Bildungseinrichtungen
 
@@ -15,7 +15,7 @@ ms.lasthandoff: 12/02/2017
 
 -  Partner Center
 
-Partner können Bildungseinrichtungen Abonnements für die **Minecraft: Education Edition** über eine Kombination von Partner Center und Microsoft Store für Unternehmen anbieten.  Partner müssen als Cloud-Lösungsanbieter (CSP) und als Partner für Bildungseinrichtungen (AEP) autorisiert sein, um über CSP auf Education-SKUs zugreifen zu können.  Alle Partner in diesem Programm dürfen akademische Lizenzen nur für qualifizierte Benutzer aus dem Bildungsbereich (QEUs) anbieten. 
+Partner können Bildungseinrichtungen Abonnements für die **Minecraft: Education Edition** über eine Kombination von Partner Center und Microsoft Store für Unternehmen anbieten.  Partner müssen als Cloud Solution Provider (CSP) und als Partner für Bildungseinrichtungen (AEP) autorisiert sein, um über CSP auf Education-SKUs zugreifen zu können.  Alle Partner in diesem Programm dürfen akademische Lizenzen nur für qualifizierte Benutzer aus dem Bildungsbereich (QEUs) anbieten. 
 
 ## <a name="purchase-through-partner-center-portal"></a>Kauf über das Partner Center-Portal 
 Sie kaufen Minecraft: Education Edition für Ihre Education-Kunden über das Partner Center-Portal: 
@@ -29,6 +29,37 @@ Sie kaufen Minecraft: Education Edition für Ihre Education-Kunden über das Par
       b. Der Administrator wird die App von der [Minecraft-Detailseite](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) herunterladen und an die Benutzer verteilen. Weitere Informationen finden Sie unter [Für IT-Administratoren – Minecraft: Education Edition: Minecraft abrufen und verteilen](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft).
     
   Wenn der IT-Administrator der Bildungseinrichtung nicht mit dem Microsoft Store für Unternehmen vertraut ist, verweisen Sie ihn auf die [Übersicht für den Microsoft Store für Unternehmen und den Microsoft Store für Bildungseinrichtungen](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview). 
+
+## <a name="special-pricing-for-education-offers"></a>Sonderpreise für Bildungsangebote
+
+Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z.B. für Bildungsinstitute, Wohltätigkeitsorganisationen und Behörden oder sehr große Kundenstämme. Händler müssen zertifiziert sein, um von diesen Preisen profitieren zu können. Der Kunde muss sich zudem für den Sonderpreis qualifizieren.
+
+**Überprüfen Ihrer Händlerqualifikationen**
+
+1.  Wählen Sie im **Dashboard**-Menü die Option **Kontoeinstellungen**.
+2.  Prüfen Sie in Ihrem **Partner-Profil** in den **CSP-Programminformationen** den Abschnitt **Händlerqualifikationen**.
+3.  Wenn Sie den Abschnitt **Händlerqualifikationen** nicht sehen können, wurden Sie noch nicht zum Erwerben von Sonderangeboten autorisiert.
+
+**Überprüfen der Kundenqualifikationen**
+
+1.  Wählen Sie im **Dashboard**-Menü **Kunden**. Wählen Sie den Kunden aus der Liste aus.
+2.  Wählen Sie im Kundenmenü **Konto**. Prüfen Sie unter **Unternehmensinformationen** den Abschnitt **besondere Qualifikationen**.
+3.  Wenn für **Besondere Qualifikationen** die Auswahl **Keine** lautet, aber der Kunde die Qualifikationen tatsächlich erfüllt, können Sie ihre Daten **aktualisieren**, um diese einzuschließen.
+
+## <a name="access-education-offers"></a>Zugriff auf Bildungsangebote 
+
+Wenn Sie Zugriff auf die Bildungsangebote in CSP erhalten möchten, [müssen Sie Authorized Education Partner werden](http://go.microsoft.com/fwlink/p/?LinkId=808781)(AEP).
+
+### <a name="purchase-offers-at-education-pricing"></a>Angebote zum Sonderpreis für Bildungsinstitute kaufen
+
+1. Sie müssen [Authorized Education Partner](http://go.microsoft.com/fwlink/p/?LinkId=808781) ein.
+Der Kunde muss die Definition eines[Qualified Educational User](http://go.microsoft.com/fwlink/p/?LinkId=808795) für Ihren Markt erfüllen.
+2. Führen Sie die gewohnten Schritte zum [Erstellen eines neuen Abonnements](create-a-new-subscription.md) aus. Wenn Sie das Angebot aus dem Katalog auswählen, wählen Sie es auf der Registerkarte Bildung.
+
+
+
+
+
 
 <!-- ## Purchase through Partner Center API 
 

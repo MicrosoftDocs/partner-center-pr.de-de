@@ -1,14 +1,14 @@
 ---
 title: Allgemeine Abrechnungsszenarien | Partner Center
-description: "In diesem Thema wird erläutert, was auf Ihrer Rechnung nach dem Hinzufügen neuer Abonnements, dem Anpassen der Lizenzen für ein Abonnement oder dem Kündigen eines Abonnements angezeigt werden sollte. Die Auswirkungen fallen für nutzungsbasierte und lizenzbasierte Abonnements unterschiedlich aus."
+description: In diesem Thema wird erläutert, was auf Ihrer Rechnung nach dem Hinzufügen neuer Abonnements, dem Anpassen der Lizenzen für ein Abonnement oder dem Kündigen eines Abonnements angezeigt werden sollte. Die Auswirkungen fallen für nutzungsbasierte und lizenzbasierte Abonnements unterschiedlich aus.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
-Keywords: billing, payments, orders, usage, license-based billing, anniversary date, free period, term, cancellation, renewal, price formula,reconciliation file, recon file
-ms.openlocfilehash: 0bfdf6e5f5a9617413981f0a0758f25e0a0eca54
-ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
+Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
+ms.openlocfilehash: 92c253bb7d73a48eb9b6acc36f54d7f33482c1ad
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2018
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="common-billing-scenarios"></a>Allgemeine Abrechnungsszenarien
 
@@ -42,8 +42,6 @@ Es werden Ihnen nur Dienste berechnet, die im vorherigen Abrechnungszeitraums ge
 **Abrechnung:** lizenzbasierte Abonnements werden im Voraus zum Dauerauftragsdatum abgerechnet.
 
 **Dauerauftragsdatum:** Abonnements mit monatlichen Abrechnungen stimmen mit dem Abrechnungsdatum des Partners überein und Abonnements mit einer jährlichen Abrechnung stimmen mit dem Kaufdatum überein.
-
-**Kostenloser Zeitraum:** Abonnements mit monatlichen Abrechnungen erhalten eine kostenlose Testphase ab dem Kaufdatum bis zum nächsten Abrechnungsdatum des Partners.
 
 **Laufzeit:** alle lizenzbasierten Abonnements haben einen kostenpflichtigen 12-Monats-Zahlungszeitraum. Der kostenpflichtige Zahlungszeitraum beginnt mit dem Kaufdatum für Abonnements mit einer jährlichen Abrechnung und mit dem Abrechnungsdatum nach dem Kaufdatum für Abonnements mit monatlichen Abrechnungen.
 

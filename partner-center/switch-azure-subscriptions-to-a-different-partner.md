@@ -1,35 +1,34 @@
 ---
-title: "Übertragen von Azure-Abonnements auf einen anderen Partner | Partner Center"
-description: "Kunden können den Partner im Programm für Cloud-Lösungsanbieter ändern, den sie für Microsoft Azure-Dienste verwenden möchten. Dies ist jedoch ein manueller Vorgang, der Aktionen von Partnern und Kunden erfordert."
+title: Übertragen von Azure-Abonnements | Partner Center
+description: Kunden können den Partner im Programm für Cloud Solution Provider ändern, den sie für Microsoft Azure-Dienste verwenden möchten. Dies ist jedoch ein manueller Vorgang, der Aktionen von Partnern und Kunden erfordert.
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
-keywords: "Azure-Abonnement, Partner wechseln, Partner ändern, neue Partner, andere Partner"
-ms.openlocfilehash: 5bc29e78cb94068a5d7675f6f030bc31e78f40a4
-ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
+keywords: Azure-Abonnement, Partner wechseln, Partner ändern, neue Partner, andere Partner
+ms.openlocfilehash: fa4e7128a052c291f26f9ff47101c85bcd764bc1
+ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2018
+ms.lasthandoff: 02/21/2018
 ---
-# <a name="switch-azure-subscriptions-to-a-different-partner"></a>Übertragen von Azure-Abonnements auf einen anderen Partner
+# <a name="transfer-azure-subscriptions"></a>Übertragen von Azure-Abonnements 
 
 **Betrifft**
 
 -  Partner Center
 
-Kunden können den Partner im Programm für Cloud-Lösungsanbieter ändern, den sie für Microsoft Azure-Dienste verwenden möchten. Dies ist jedoch ein manueller Vorgang, der Aktionen von Partnern und Kunden erfordert.
+Kunden können den Cloud Solution Provider-Partner oder einen anderen Partner für Microsoft Azure-Dienste ändern. Dies ist jedoch ein manueller Vorgang, der Aktionen von Partnern und Kunden erfordert.
 
-**Hinweis** Zurzeit gibt es keinen automatischen Vorgang, über den Azure-Kunden von EA, Open oder anderen Lizenzierungsprogrammen zu CSP wechseln können. Dies ist ein manueller Vorgang, der Aktionen von Partnern und Kunden erfordert. Darüber hinaus ist es zurzeit nicht möglich, für Office365-, Enterprise Mobility Suite- oder Microsoft Dynamics CRM-Abonnements den Partner im Programm für Cloud-Lösungsanbieter zu ändern.
+**Hinweis** Es ist zurzeit nicht möglich, Partner für Cloud Solution Provider-Abonnements für Office 365, Enterprise Mobility Suite oder Microsoft Dynamics CRM-Abonnements zu ändern.
 
 
- 
 
 **Partner für Azure-Abonnements wechseln**
 
-1.  Um ein Azure-Abonnement auf einen neuen Partner zu übertragen, muss der Kunde den Vorgang starten und sich schriftlich an den aktuellen eingetragenen CSP-Partner wenden. 
+1.  Um ein Azure-Abonnement auf einen neuen Partner zu übertragen, muss der Kunde den Prozess starten und sich schriftlich an seinen aktuellen registrierten Abonnementberater wenden. 
 
     >**Hinweis:**<br> Es liegt in der Verantwortung des aktuellen Partners, das Serviceticket zu erstellen, das den Übertragungsprozess initiiert. Microsoft kann nicht im Auftrag der Kunden oder des neuen Partner eingreifen. Der Kunde sollte planen, eng mit dem aktuellen Partner zusammenzuarbeiten, um den Übergang reibungslos zu gestalten.
 
-2.  Der CSP-Partner für das Abonnement muss folgende Schritte ausführen:
+2.  Der Partner für das Abonnement muss folgende Schritte ausführen:
 
     Erstellen eines Azure-Servicetickets in Partner Center, um eine Abonnementübertragung anzufordern.
 
@@ -37,13 +36,13 @@ Kunden können den Partner im Programm für Cloud-Lösungsanbieter ändern, den 
 
     -   Wählen Sie im Azure-Portal **Neue Supportanfrage** aus.
 
-        Wählen Sie in Schritt 1 **Abonnementverwaltung** als Art des Problems aus, geben Sie die ID des Abonnements ein, das Sie übertragen möchten, und wählen Sie **Cloud-Lösungsanbieter** als Supportplan aus.
+        Wählen Sie in Schritt 1 **Abonnementverwaltung** als Art des Problems aus, geben Sie die ID des Abonnements ein, das Sie übertragen möchten, und wählen Sie **Cloud Solution Provider** als Supportplan aus.
 
         Wählen Sie in Schritt2 **C – Minimale Auswirkungen** und anschließend als Problemtyp **Andere allgemeine Fragen** aus.
 
         Laden Sie das [Formular für Übertragungen von CSP-Abonnements](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip) herunter.
 
-3.  Aktueller CSP-Partner für das Abonnement: Füllen Sie das [Formular zur Übertragung des CSP-Abonnements](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip) aus, signieren Sie es, und senden Sie es dann an den Kunden. Sie benötigen folgende Informationen, um das Formular auszufüllen:
+3.  Der Partner für das Abonnement: Füllen Sie das [Formular zur Übertragung des CSP-Abonnements](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip) aus, signieren Sie es, und senden Sie es dann an den Kunden. Sie benötigen folgende Informationen, um das Formular auszufüllen:
 
     -   Die Kontaktinformationen und die Microsoft-ID des aktuellen Partners. Wählen Sie im Partner Center-Menü **Kontoeinstellungen** &gt; **Organisationsprofil** aus, und verwenden Sie die **Microsoft-ID**, den **Organisationsnamen** und die **Adresse**, die hier aufgeführt werden.
 
@@ -51,17 +50,20 @@ Kunden können den Partner im Programm für Cloud-Lösungsanbieter ändern, den 
 
     -   Die zu übertragende Abonnement-ID. Wählen Sie in der erweiterten Kundenliste **Abonnements anzeigen** aus. Erweitern Sie das ausgewählte Abonnement, um die **Abonnement-ID** anzuzeigen.
 
-4.  Kunde und neuer CSP-Partner für das Abonnement:
+    >**Hinweis:**<br> Das Übertragen eines Abonnements führt zu zwei Abonnement-IDs, die auf der Seite **Anmeldung bearbeiten** des übertragenen Abonnements angezeigt werden: **1**- die Partner Center-Abonnement-ID dient zu Abrechnungszwecken. Diese ID wird in der Abstimmungsdatei angezeigt. 
+    **2**- die ursprüngliche Azure-Abonnement-ID bleibt erhalten und wird im Partner Center genau wie im Azure-Verwaltungsportal angezeigt. **Bei der Anmeldung von Supportanfragen müssen Sie beide IDs verwenden.**
+
+4.  Der Kunde und der neue CSP-Partner für das Abonnement:
 
     Überprüfen Sie das Formular, geben Sie Daten zum neuen Partner ein, und signieren Sie es. Überprüfen Sie, ob der neue Kunde über einen Vertrag verfügt. Senden Sie das Formular an den aktuellen eingetragenen Partner zurück.
 
     *Wichtig*: Wenn der neue CSP-Partner keine Vertriebspartnerbeziehung mit dem Kunden hat, muss diese vor der Übertragung des Abonnements eingerichtet werden. [Informationen hierzu finden Sie hier](https://int.msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx).
 
-5.  Aktueller CSP-Partner:
+5.  Aktueller Partner:
 
-    Stellen Sie sicher, dass das Formular Kontaktinformationen für die Administratoren beider Partner enthält. Microsoft Support wird sich an beide Administratoren wenden, um die Übertragung zu verifizieren. Stellen Sie sicher, dass alle drei Unterschriften vorhanden sind, und fügen Sie dann das ausgefüllte Formular über die Option **Dateiupload** der vorhandenen Serviceanfrage hinzu. Ein Microsoft Support-Mitarbeiter wird innerhalb von 8Geschäftsstunden Kontakt mit Ihnen aufnehmen, um Erhalt und Abschluss zu bestätigen.
+    Stellen Sie sicher, dass das Formular Kontaktinformationen für die Administratoren beider Partner enthält. Microsoft-Support wird sich an beide Administratoren wenden, um die Übertragung zu verifizieren. Stellen Sie sicher, dass alle drei Unterschriften vorhanden sind, und fügen Sie dann das ausgefüllte Formular über die Option **Dateiupload** der vorhandenen Serviceanfrage hinzu. Ein Microsoft-Support-Mitarbeiter wird Sie innerhalb von acht Geschäftsstunden kontaktieren, um den Erhalt und den Abschluss zu bestätigen.
 
-6.  Neuer CSP-Partner:
+6.  Neuer Partner:
 
     Aktualisieren Sie die Einstellungen des Azure-Abonnements, um den alten Partner aus dem Konto zu entfernen. Um anzuzeigen, welche Rollenzuweisungen bereitgestellt wurden, führen Sie zwei PowerShell-Commandlets aus.
 

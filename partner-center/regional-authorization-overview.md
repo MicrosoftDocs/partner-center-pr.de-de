@@ -1,14 +1,14 @@
 ---
 title: Regionale CSP-Autorisierung | Partner Center
-description: "Mithilfe der regionalen Autorisierung können international tätige Partner jetzt Kunden in verschiedenen Regionen und Ländern auf der ganzen Welt einfacher verwalten."
+description: Mithilfe der regionalen Autorisierung können international tätige Partner jetzt Kunden in verschiedenen Regionen und Ländern auf der ganzen Welt einfacher verwalten.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-keywords: "Azure AD-Mandanten, Mandanten konsolidieren, Mandantenstrategie, Mandanten in CSP, Partnerkonten in CSP, CSP-Märkte und -Gebiete, wo ich über CSP verkaufen?"
-ms.openlocfilehash: 096f8421a9ccb95c00c79929124ed3c9adaf6933
-ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+keywords: Azure AD-Mandanten, Mandanten konsolidieren, Mandantenstrategie, Mandanten in CSP, Partnerkonten in CSP, CSP-Märkte und -Gebiete, wo ich über CSP verkaufen?
+ms.openlocfilehash: 45d9c6730cf3274d68915a453b1a33ed5239f68d
+ms.sourcegitcommit: e56f07feb1c6748efda48a8d2cd00185331f904a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2017
+ms.lasthandoff: 02/19/2018
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>Mandanten-Konsolidierungsstrategien in CSP
 
@@ -157,22 +157,22 @@ Berücksichtigen Sie vor der Konsolidierung von Mandanten die folgenden Punkte:
 
 -   **Wenn Ihr Microsoft-Verkaufsstandort Brasilien ist**, umfasst Ihr Gebiet Kunden in Brasilien.
 
--   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Anguilla, Antigua und Barbuda, Argentinien, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivien, Bonaire, Saba, St. Eustatius, Kaimaninseln, Chile, Kolumbien, Costa Rica, Curacao, Dominikanische Republik, Ecuador, El Salvador, Französisch-Guayana, Guadeloupe, Guatemala, Honduras, Jamaika, Martinique, Mexiko, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, St. Kitts und Nevis, St. Lucia, St. Martin, St. Vincent und die Grenadinen, Sint Maarten, Suriname, Trinidad und Tobago, Turks- und Caicosinseln, Uruguay, Venezuela, Amerikanische Jungferninseln.
+-   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Anguilla, Antigua und Barbuda, Antarktis, Argentinien, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivien, Bonaire, Saba, St. Eustatius, Britische Jungferninseln, Kaimaninseln, Chile, Kolumbien, Costa Rica, Curacao, Dominika, Dominikanische Republik, Ecuador, El Salvador, Falklandinseln, Französisch-Guayana, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaika, Martinique, Mexiko, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saba, Saint Barthélemy, St. Kitts und Nevis, St. Lucia, St. Martin, St. Vincent und die Grenadinen, Sint Maarten, Südgeorgien und die Südlichen Sandwichinseln, Suriname, Trinidad und Tobago, Turks- und Caicosinseln, Uruguay, Venezuela, Amerikanische Jungferninseln. 
 
--   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Andorra, Österreich, Belgien, Bulgarien, Kroatien, Zypern, Tschechische Republik, Dänemark, Estland, Färöer, Finnland, Frankreich, Deutschland, Griechenland, Grönland, Ungarn, Island, Irland, Isle of Man, Italien, Jersey, Lettland, Liechtenstein, Litauen, Luxemburg, Madagaskar, Malawi, Mali, Malta, Mayotte, Monaco, Niederlande, Neukaledonien, Norwegen, Polen, Portugal, Rumänien, San Marino, Slowakei, Slowenien, Spanien, Schweden, Schweiz, Vereinigtes Königreich, Vatikanstadt.
+-   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Ålandinseln, Andorra, Österreich, Belgien, Bouvetinsel, Bulgarien, Kroatien, Zypern, Tschechische Republik, Dänemark, Estland, Färöer, Finnland, Frankreich, Deutschland, Griechenland, Gibraltar, Guernsey, Grönland, Ungarn, Island, Irland, Isle of Man, Italien, Jersey, Jan Mayen, Lettland, Liechtenstein, Litauen, Luxemburg, Madagaskar, Malawi, Mali, Malta, Mayotte, Monaco, Niederlande, Neukaledonien, Norwegen, Polen, Portugal, Rumänien, San Marino, Slowakei, Slowenien, Spanien, Svalbard, Schweden, Schweiz, Vereinigtes Königreich, Vatikanstadt. 
 
     >**Hinweis**<br> Wenn Sie für [CSP für Microsoft-Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md) registriert sind und Sie an Kunden in EU- und EFTA-Ländern/Regionen verkaufen, können Sie die Mandanten für Partner Center für Microsoft-Cloud Deutschland nicht mit Ihren anderen Mandanten konsolidieren.  
 
 
--   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Afghanistan, Albanien, Algerien, Armenien, Aserbeidschan, Bahrain, Belarus, Benin, Bosnien und Herzegowina, Burundi, Komoren, Ägypten, Französisch-Polynesien, Georgien, Irak, Israel, Jordanien, Kasachstan, Kuwait, Kirgisistan, Libanon, Libyen, Republik Mazedonien (Ehemalige jugoslawische Republik Mazedonien), Republik Moldau, Mongolei, Montenegro, Marokko, Mosambik, Oman, Pakistan, Palästinensische Behörde, Katar, Réunion, Saudi-Arabien, Serbien, Seychellen, Südafrika, Tadschikistan, Togo, Tunesien, Türkei, Turkmenistan, Ukraine, Vereinigte Arabische Emirate, Usbekistan, Jemen, Simbabwe.
+-   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Afghanistan, Albanien, Algerien, Armenien, Aserbeidschan, Bahrain, Belarus, Benin, Bosnien und Herzegowina, Britisches Territorium im Indischen Ozean, Burkina Faso, Burundi, Zentralafrikanische Republik, Chad, Komoren, Kongo, Kongo (DRK), Kongo, Djibouti, Ägypten, Äquatorialguinea, Eritrea, Französisch-Polynesien, Gabon, Gambia, Guinea, Guinea-Bissau, Georgien, Irak, Israel, Jordanien, Kasachstan, Kuwait, Kirgisistan, Libanon, Liberia, Libyen, Madagaskar, Malawi, Mali, Mayotte, Republik Moldau, Mongolei, Montenegro, Marokko, Neukaledonien, Niger, Oman, Pakistan, Palästinensische Behörde, Katar, Republik von Mazedonien (FYROM), Réunion, Saudi-Arabien, Serbien, Seychellen, Sierra Leone, Somalia, Südafrika, Tadschikistan, Togo, Tunesien, Türkei, Turkmenistan, Ukraine, Vereinigte Arabische Emirate, Usbekistan, Jemen, Simbabwe. 
 
--   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Äthiopien, Angola, Botsuana, Cabo Verde, Elfenbeinküste, Ghana, Kamerun, Kenia, Mauritius, Namibia, Nigeria, Ruanda, Sambia, Senegal, Tansania, Uganda.
+-   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Angola, Botsuana, Britisches Territorium im Indischen Ozean, Cabo Verde, Kamerun, Elfenbeinküste, Ghana, Kamerun, Kenia, Kosovo, Lesotho, Mauritius, Mosambik, Namibia, Nigeria, Ruanda, Sambia, Senegal, Swasiland, Tansania, Uganda, Yemen, Sambia. 
 
 -   **Wenn Ihr Microsoft-Verkaufsstandort Russland ist**, umfasst Ihr Gebiet Kunden in Russland.
 
--   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Bangladesch, Bhutan, Brunei Darussalam, Kambodscha, Hongkong (SAR), Indonesien, Laos, Macau SAR, Malaysia, Malediven, Marshallinseln, Myanmar, Nepal, Papua-Neuguinea, Philippinen, Singapur, Sri Lanka, Thailand, Timor-Leste, Tonga, Vietnam.
+-   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Amerikanisch-Samoa, Bangladesch, Bhutan, Brunei Darussalam, Kambodscha, Hongkong (SAR), Indonesien, Laos, Macau SAR, Malaysia, Malediven, Marshallinseln, Myanmar, Nepal, Papua-Neuguinea, Philippinen, Saint Pierre und Miquelon, Singapur, Sri Lanka, Thailand, Timor-Leste, Tonga, Vanuatu, Vietnam. 
 
--   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/eine Region aus der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen aus der folgenden Liste: Australien oder Fidschi.
+-   **Wenn Ihr Microsoft-Verkaufsstandort ein Land/Region in der folgenden Liste ist**, umfasst Ihr Gebiet Kunden in den Ländern/Regionen in der folgenden Liste: Australien, Fidschi, Weihnachtsinsel, Kokosinseln, Cookinseln, Guam, Heard und McDonaldinseln, Kiribati, Marshallinseln, Mikronesien, Nauru, Niue, Norfolkinsel, Nördliche Marianen, Palau, Papua-Neuguinea, Pitcairninseln, Salomonen, Tokelau, Tonga, Tuvalu, Wallis und Futuna. 
 
 -   **Wenn Ihr Microsoft-Verkaufsstandort Neuseeland ist**, umfasst Ihr Gebiet Kunden in Neuseeland.
 
@@ -190,21 +190,21 @@ Ihr geografischer Standort bestimmt die Währung, in der Ihre Rechnungen gestell
 
 | Währung | Land |
 | ---- | ---- |
-| USD | Albanien, Anguilla, Antigua und Barbuda, Argentinien, Armenien, Aruba, Aserbeidschan, Bahamas, Bahrain, Bangladesch, Barbados, Belarus, Belize, Benin, Bermuda, Bolivien, Bonaire, Saba, St. Eustatius, Brasilien, Brunei Darussalam, Burundi, Kamerun, Kaimaninseln, Chile, Kolumbien, Komoren, Costa Rica, Curaçao, Dominikanische Republik, Ecuador, Ägypten, El Salvador, Fidschi, Französisch-Guayana, Französisch-Polynesien, Georgien, Ghana, Guatemala, Honduras, Hongkong (SAR), Indonesien, Irak, Israel, Jamaika, Kasachstan, Kenia, Kuwait, Kirgisistan, Libanon, Macau SAR, Madagaskar, Malawi, Malaysia, Mali, Mauritius, Mayotte, Mexiko, Marokko, Namibia, Neukaledonien, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Peru, Philippinen, Puerto Rico, Katar, Réunion, Ruanda, St. Lucia, St. Martin, St. Vincent und die Grenadinen, Saudi-Arabien, Serbien, Seychellen, Singapur, Sint Maarten, Südafrika, Sri Lanka, Suriname, Tansania, Thailand, Timor-Leste, Togo, Trinidad und Tobago, Tunesien, Türkei, Turks- und Caicosinseln, Amerikanische Jungferninseln, Ukraine, Vereinigte Arabische Emirate, Vereinigte Staaten, Uruguay, Venezuela, Vietnam  | 
+| USD | Albanien und St. Eustatius, Anguilla, Antarktis, Antigua und Barbuda, Argentinien, Armenien, Aruba, Aserbeidschan, Bahamas, Bahrain, Bangladesch, Barbados, Belarus, Belize, Benin, Bermuda, Bolivien, Bonaire, Brasilien, Britisches Territorium im Indischen Ozean, Brunei Darussalam, Burundi, Kamerun, Kaimaninseln, Zentralafrikanische Republik, Chile, Kolumbien, Komoren, Costa Rica, Curaçao, Dominikanische Republik, Ecuador, Ägypten, El Salvador, Äquatorialguinea, Fidschi, Französisch-Guayana, Französisch-Polynesien, Georgien, Ghana, Guatemala, Guinea-Bissau, Honduras, Hongkong (SAR), Indonesien, Irak, Israel, Jamaika, Kasachstan, Kenia, Kuwait, Kirgisistan, Libanon, Lesotho, Macau SAR, Madagaskar, Malawi, Malaysia, Mali, Mauretanien, Mauritius, Mayotte, Mexiko, Marokko, Namibia, Neukaledonien, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Peru, Philippinen, Puerto Rico, Katar, Réunion, Ruanda, Saba, St. Lucia, St. Martin, St. Vincent und die Grenadinen, Saudi-Arabien, Serbien, Seychellen, Sierra Leone, Singapur, St. Maarten, Somalia, Südafrika, Südsudan, Sri Lanka, Suriname, Swasiland, Tansania, Thailand, Timor-Leste, Togo, Trinidad und Tobago, Tunesien, Türkei, Turks- und Caicosinseln, Amerikanische Jungferninseln, Ukraine, Vereinigte Arabische Emirate, Vereinigte Staaten, Uruguay, Venezuela, Vietnam, Yemen.| 
 | TWD | Taiwan |
 | SEK | Schweden |
 | INR | Indien |
 | RUB | Russland |
-| NZD | Neuseeland |
-| NOK | Norwegen |
+| NZD | Neuseeland, Vanuatu |
+| NOK | Jan Mayen, Norwegen, Svalbard |
 | KRW | Südkorea |
 | JPY | Japan |
 | GBP | Isle Of Man, Jersey, Vereinigtes Königreich |
-| EUR | Andorra, Österreich, Belgien, Kroatien, Tschechische Republik, Estland, Färöer, Finnland, Frankreich, Deutschland, Griechenland, Ungarn, Island, Irland, Italien, Lettland, Liechtenstein, Litauen, Luxemburg/Belgien, Niederlande, Polen, Portugal, Rumänien, San Marino, Slowakei, Slowenien, Spanien |
+| EUR | Andorra, Österreich, Belgien, Bouvetinsel, Kroatien, Tschechische Republik, Estland, Färöer, Finnland, Frankreich, Deutschland, Griechenland, Ungarn, Island, Irland, Italien, Lettland, Liechtenstein, Litauen, Luxemburg/Belgien, Niederlande, Polen, Portugal, Rumänien, San Marino, Slowakei, Slowenien, Spanien |
 | DKK | Dänemark |
 | CHF | Schweiz |
 | CAD | Kanada |
-| AUD | Australien, Fidschi, Marshallinseln, Papua-Neuguinea, Tonga |
+| AUD | Australien, Weihnachtsinsel, Kokosinseln, Cookinseln, Fidschi, Heard und McDonaldinseln, Kiribati, Marshallinseln, Nauru, Niue, Norfolkinsel, Nördliche Marianen, Palau, Papua-Neuguinea, Pitcairninseln, Salomonen, Tokelau, Tonga, Tuvalu, Wallis und Futuna. |
 
 
  

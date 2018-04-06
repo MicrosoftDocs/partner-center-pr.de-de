@@ -1,13 +1,13 @@
 ---
 title: Verwenden der Abstimmungsdateien | Partner Center
-description: "Laden Sie die Abgleichungsdateien aus dem PartnerCenter-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen."
+description: Laden Sie die Abgleichungsdateien aus dem PartnerCenter-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: bcb5677d2b1309df0e33e093a3908d55e5792580
-ms.sourcegitcommit: ac370f5d2d5b74e1e4752eaeec6fde73e5328225
+ms.openlocfilehash: 51716e8abedf83237050cb51bc76e54a954cd28b
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2017
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -503,7 +503,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund 
 </tr>
 <tr>
 <td>
-<p>Instanz anteilig stornieren</p>
+<p>Stornierungsgebühr</p>
 </td>
 <td>
 <p>Anteilige Gebühren werden an den Kunden zurückerstattet, wenn verknüpfte Lizenzen geändert werden.</p>

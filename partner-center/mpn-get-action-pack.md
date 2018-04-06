@@ -1,12 +1,12 @@
 ---
-title: "Kauf oder Verlängerung eines Action Packs | Partner Center"
-description: "Erfahren Sie, wie Sie ein Microsoft Action Pack-Abonnement kaufen oder verlängern."
+title: Kauf oder Verlängerung eines Action Packs | Partner Center
+description: Erfahren Sie, wie Sie ein Microsoft Action Pack-Abonnement kaufen oder verlängern.
 author: MaggiePucciEvans
-ms.openlocfilehash: a1b9bc4e606555d472e1e27c8b71c52c9ccb7091
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 9213901def90384076102655a2df1c0605455d7a
+ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 03/09/2018
 ---
 # <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>Kauf oder Verlängerung eines Microsoft Action Pack-Abonnements
 
@@ -96,6 +96,14 @@ Wenn Sie Ihr Microsoft Action Pack-Abonnement kündigen möchten, müssen Sie si
 
 Um den Status Ihrer Serviceanfrage zu überprüfen, wählen Sie **Serviceanfragen > Partner Center-Anfragen** und dann **Öffnen**. Wählen Sie die entsprechende Serviceanfrage aus der Liste aus.  
 
+## <a name="how-to-get-your-maps-invoice"></a>So erhalten Sie Ihre MAPS-Rechnung
+
+Um eine Kopie der Rechnung Ihres Microsoft Action Pack-Abonnements herunterzuladen, müssen Sie die unten angegebenen Schritte durchführen.
+
+1. Melden Sie sich auf [partnercenter.microsoft.com](https://partnercenter.microsoft.com) an 
+2. Klicken Sie auf Partnerschaft. 
+3. Wählen Sie „Angebote” aus, und klicken Sie dann auf „Gekauft”. 
+4. Klicken Sie auf „Rechnung herunterladen”
  
 ## <a name="next-steps"></a>Nächste Schritte
 

@@ -1,12 +1,13 @@
 ---
 title: Anpassen des Katalogs | Partner Center
-description: "Im Katalog sind alle Microsoft-Produkte und -Add-Ons aufgeführt, die Partnern zum Verkauf zur Verfügung stehen."
+description: Im Katalog sind alle Microsoft-Produkte und -Add-Ons aufgeführt, die Partnern zum Verkauf zur Verfügung stehen.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
-ms.openlocfilehash: 3599d41e754e5602fbd2d82bf2c47f6e1964160a
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: a0a8cf983abdbcd08f0c7f75307ea265092182d8
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="customize-the-catalog"></a>Anpassen des Katalogs
 
@@ -20,7 +21,7 @@ Im Katalog sind Microsoft-Produkte und -Add-Ons aufgeführt, die Sie Ihren Kunde
 
 **Anpassen des Katalogs**
 
-1.  Wechseln Sie in Partner Center zum Menü „Dashboard“ &gt; **Kontoeinstellungen** &gt; **Katalog**.
+1.  Wechseln Sie zum Dashboard-Menü auf &gt; **Verkaufen** &gt; **Katalog**.
 2.  Wählen Sie bis zu fünf Angebote aus, die am Anfang des Katalogs angezeigt werden sollen.
 
  

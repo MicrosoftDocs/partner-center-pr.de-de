@@ -3,12 +3,12 @@ title: Erstellen eines Unternehmensprofils | Partner Center
 description: Erstellen Sie ein Unternehmensprofil in Partner Center, um Vertriebskontakte von Microsoft zu erhalten.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-keywords: "Pinpoint, Empfehlungen, Vertriebskontakte, C2PC, Unternehmensprofil, Unternehmen vermarkten, Partner finden, Lösungsanbieter finden, Unternehmensprofil, Marketingprofil"
-ms.openlocfilehash: e4e663d5c148f72f7ad352e21c4178a95e044c5f
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+keywords: Pinpoint, Empfehlungen, Vertriebskontakte, C2PC, Unternehmensprofil, Unternehmen vermarkten, Partner finden, Lösungsanbieter finden, Unternehmensprofil, Marketingprofil
+ms.openlocfilehash: 847b535429620d96b7fffc843904c03190928449
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 04/08/2018
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -38,21 +38,19 @@ Erstellen Sie zunächst ein Unternehmensprofil, um von diesen Leads zu profitier
 *  **Empfehlungen von Vertriebs- und Servicemitarbeitern von Microsoft**. Potenzielle Kunden, die an der Bereitstellung cloudbasierter Technologielösungen interessiert sind, kontaktieren Microsoft, um Hilfe bei der Suche von Experten zu erhalten, die ihre geschäftlichen Anforderungen erfüllen können. Diese Microsoft-Experten können dann potenzielle Kunden für Ihr Unternehmen empfehlen.
 
 >**Wichtig**<br>
-Um unseren Partnern zu helfen, ihre Geschäftsabläufe zu optimieren, fassen wir Features und Funktionen, die früher auf verschiedene Tools und Websites im Partner Center verteilt waren, auf dieser Website zusammen. Gleichzeitig haben wir alle auf Empfehlungen bezogene Funktionen ins Partner Center verschoben und die Sites Pinpoint und C2PC eingestellt. Wenn Sie bisher Pinpoint oder C2PC verwendet haben, um Empfehlungen von Microsoft zu erhalten und zu verwalten, müssen Sie ein neues Unternehmensprofil im Partner Center erstellen, um weiterhin Empfehlungen zu erhalten. Das Importieren von Profilen von diesen Sites wird nicht mehr unterstützt. 
+Um unseren Partnern zu helfen, ihre Geschäftsabläufe zu optimieren, fassen wir Features und Funktionen, die früher auf verschiedene Tools und Websites im Partner-Dashboard verteilt waren, auf dieser Website zusammen. Gleichzeitig haben wir alle auf Empfehlungen bezogene Funktionen ins Partner-Dashboard verschoben und die Sites Pinpoint und C2PC eingestellt. Wenn Sie bisher Pinpoint oder C2PC verwendet haben, um Empfehlungen von Microsoft zu erhalten und zu verwalten, müssen Sie ein neues Unternehmensprofil im Partner-Dashboard erstellen, um weiterhin Empfehlungen zu erhalten. Das Importieren von Profilen von diesen Sites wird nicht mehr unterstützt. 
 
 ## <a name="create-a-profile"></a>Erstellen eines Profils
 
->**Hinweis:** Um ein Unternehmensprofil erstellen zu können, benötigen Sie ein Partner Center-Konto. Unter [Erstellen eines Partner Center-Kontos](mpn-create-a-partner-center-account.md) finden Sie eine entsprechende Anleitung. 
+>**Hinweis:** Um ein Unternehmensprofil erstellen zu können, benötigen Sie ein Partner-Dashboard-Konto. Unter [Erstellen eines Partner-Dashboard-Kontos](mpn-create-a-partner-center-account.md) finden Sie eine entsprechende Anleitung. 
 
 Erstellen Sie Profile für jede Region, in der Sie berechtigt sind, Geschäfte zu tätigen. 
 
-1.  Melden Sie sich beim [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) mit einem [globalen Administratorkonto oder Administrator-Agentkonto](create-user-accounts-and-set-permissions.md) an.
+1.  Wählen Sie im Menü **Dashboard** die Optionen **Empfehlungen** &gt; **Unternehmensprofil** &gt; Land/Region auswählen > **[Unternehmensprofil erstellen](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-2.  Wählen Sie im Menü **Dashboard** die Optionen **Empfehlungen** &gt; **Unternehmensprofil anzeigen** &gt; Land/Region auswählen > **[Unternehmensprofil erstellen](https://partnercenter.microsoft.com/pcv/publishing)**.
-
-3.  Wählen Sie auf der Seite **Erstellen eines Unternehmensprofils** eine Region aus, und geben Sie Ihre Profilinformationen ein.
+2.  Wählen Sie auf der Seite **Erstellen eines Unternehmensprofils** eine Region aus, und geben Sie Ihre Profilinformationen ein.
     
-    >**Hinweis:** Partner Center unterstützt zwar mehrere Sprachen, einige Elemente wie die Beschreibung und frei formulierte Tags müssen jedoch vielleicht Text aus anderen Sprachen beinhalten, wie in diesem Thema angegeben.
+    >**Hinweis:** Partner-Dashboard unterstützt zwar mehrere Sprachen, einige Elemente wie die Beschreibung und frei formulierte Tags müssen jedoch vielleicht Text aus anderen Sprachen beinhalten, wie in diesem Thema angegeben.
 
 ### <a href="" id="partner_info"></a>Partnerinformationen
 
@@ -98,7 +96,7 @@ Andere in der Suche verwendete Tags:
 
 Es wird empfohlen, diese Einstellung aktiviert zu lassen. 
 
-Wenn Sie Erfolge mit Kunden über Partner Center oder durch die Teilnahme an anderen Microsoft-Zertifizierungen oder -Programmen nachweisen, fügen wir automatisch Unterstützungen für Ihre spezifischen Produkte, Dienste und Branchen hinzu, die zu diesem Erfolg beitragen. Unterstützungen sind ein wichtiger Faktor bei Suchergebnissen.
+Wenn Sie Erfolge mit Kunden über Partner-Dashboard oder durch die Teilnahme an anderen Microsoft-Zertifizierungen oder -Programmen nachweisen, fügen wir automatisch Unterstützungen für Ihre spezifischen Produkte, Dienste und Branchen hinzu, die zu diesem Erfolg beitragen. Unterstützungen sind ein wichtiger Faktor bei Suchergebnissen.
 
 Liegen jedoch Produkte vor, für die Sie zwar Dienstleistungen anbieten, die aber nicht in Ihrem Profil angezeigt werden können, können Sie dieses Kontrollkästchen deaktivieren und Ihr Profil manuell verwalten. Diese Unterstützungen werden in der Ansicht der Kunden ausgeblendet, Sie können sie jedoch später jederzeit wieder zu Ihrem Profil hinzufügen.
 

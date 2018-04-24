@@ -1,13 +1,13 @@
 ---
-title: "Vereinfachen der Geräteinstallation mit Windows Autopilot | Partner Center"
-description: "Hinzufügen eines Windows AutoPilot-Bereitstellungsprofils in Partner Center zur Vereinfachung der Geräteeinrichtung mit Windows Autopilot"
+title: Vereinfachen der Geräteinstallation mit Windows Autopilot | Partner Center
+description: Hinzufügen eines Windows AutoPilot-Bereitstellungsprofils in Partner Center zur Vereinfachung der Geräteeinrichtung mit Windows Autopilot
 author: KPacquer
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero-Touch Deployment, Windows-Willkommensseite, Anmeldebildschirme
-ms.openlocfilehash: 061ee1cedbd3bc849419044bad022ccb12ef9b9f
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: b106577ef60dba6535f89d2ef4bce4a5d19bedd9
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Vereinfachen der Geräteinstallation mit Windows Autopilot 
 
@@ -23,7 +23,7 @@ Windows Autopilot optimiert und sichert die Geräteeinrichtung für neue Windows
 ## <a name="requirements"></a>Anforderungen
 
 *  Geräte, auf denen Windows 10 Pro Creators Update (mind. Version 1703) oder Windows 10 Pro for Advanced PCs installiert ist.
-*  Geräte-ID, die als Hardwarehash (128 HWH oder 4k HWH) bezeichnet wird und in der Regel von einem OEM bereitgestellt wird. Sie verwenden IDs, um Organisationsprofile im Partner Center zuzuweisen. Nach August2017 benötigen Sie nicht mehr den Hardwarehash. 
+*  Geräte-ID, die als Hardwarehash (128 HWH oder 4k HWH) bezeichnet wird und in der Regel von einem OEM bereitgestellt wird. Sie verwenden IDs, um Organisationsprofile im Partner-Dashboard zuzuweisen. 
 *  Die Geräte müssen Zugriff auf das Internet haben. Wenn das Gerät keine Verbindung herstellen kann, zeigt es die standardmäßigen Bildschirme der Windows-Willkommensseite an.
 *  Die Registrierung des Geräts in einer MDM erfordert Azure Active Directory Premium.
 
@@ -34,7 +34,7 @@ Um unternehmensspezifische Seiten hinzuzufügen, fügen Sie die Geräte dem [Azu
 
 ## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>Entfernen Sie Windows-Seiten von der Windows-Willkommensseite mit einem Windows AutoPilot-Bereitstellungsprofil.
 
-### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Beispiele für Einstellungen in einem Windows AutoPilot-Bereitstellungsprofil
+**Beispiele für Einstellungen in einem Windows AutoPilot-Bereitstellungsprofil**
 *  Überspringen der Datenschutzeinstellungen im Setup
 *  Deaktivieren des lokalen Administratorkontos während des Setups
 *  Automatisches Überspringen von Seiten im Setup
@@ -43,19 +43,19 @@ Um unternehmensspezifische Seiten hinzuzufügen, fügen Sie die Geräte dem [Azu
 
 ### <a name="add-devices-and-apply-a-profile"></a>Hinzufügen von Geräten und Anwenden eines Profils
 
-In Partner Center können Sie ein Windows AutoPilot-Bereitstellungsprofil erstellen und auf eine Liste der Geräte anwenden.
+Von Ihrem Dashboard können Sie ein Windows AutoPilot-Bereitstellungsprofil erstellen und auf eine Liste der Geräte anwenden.
 
-Laden Sie zum Konfigurieren von Geräten eine Liste der Geräte in Partner Center hoch, erstellen Sie ein Profil, das für die Geräte gilt, und wenden Sie es an.
+Laden Sie zum Konfigurieren von Geräten eine Liste der Geräte hoch, erstellen Sie ein Profil, das für die Geräte gilt, und wenden Sie es an.
 
-1.  Fügen Sie die Liste der Geräte in Partner Center hinzu.
+1.  Fügen Sie die Liste der Geräte hinzu.
 
-    (Verkaufsvertreter und Admin-Agents haben Zugriff, um die Liste der Geräte in Partner Center hinzuzufügen.)
+    Verkaufsvertreter und Admin-Agents haben Zugriff, um die Liste der Geräte in Partner-Dashboard hinzuzufügen.
     
     Indirekte Reseller können hierzu mit einem indirekten Anbieter zusammenarbeiten.
 
     a.  Erstellen Sie eine CSV-Datei mit dem PowerShell-Skript aus dem Thema [Übersicht über Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). Diese CSV-Datei enthält Geräteinformationen, z.B. die Seriennummer, den OEM-Namen, den Modellnamen, die Produkt-ID und die Geräte-ID. 
 
-    b.  Navigieren Sie über das Partner Center-Dashboard zu **Kunden**. Wählen Sie den Kunden aus, der die Geräte erhält, und navigieren Sie zu **Geräte > Geräte hinzufügen**.
+    b.  Navigieren Sie über das Dashboard zu **Kunden**. Wählen Sie den Kunden aus, der die Geräte erhält, und navigieren Sie zu **Geräte > Geräte hinzufügen**.
 
     c.  Geben Sie der Gerätegruppe einen Namen, z.B. "PCs der Contoso-Vertriebsabteilung – Bestellung April 2017". 
 
@@ -63,7 +63,7 @@ Laden Sie zum Konfigurieren von Geräten eine Liste der Geräte in Partner Cente
 
     **Hinweis:** Wenn Sie nach dem Versuch, die CSV-Datei hochzuladen, eine Fehlermeldung erhalten, überprüfen Sie das Format der Datei. Ab August können Sie nur den Hardwarehash oder den OEM-Namen, die Seriennummer und das Modell in dieser Spaltenreihenfolge oder die Windows-Produkt-ID. Sie können auch die Beispiel-CSV-Datei verwenden, die über den Link neben **Geräte hinzufügen** bereitgestellt wird.
 
-2.  Erstellen Sie ein Profil, das Sie auf die Geräte anwenden können. (Nur Admin-Agents haben Zugriff zum Erstellen und Anwenden von Profilen in Partner Center.)
+2.  Erstellen Sie ein Profil, das Sie auf die Geräte anwenden können. (Nur Admin-Agents haben Zugriff zum Erstellen und Anwenden von Profilen in Partner-Dashboard.)
 
     a.  Klicken Sie unter **Geräte** auf **Neues Profil hinzufügen**.
 

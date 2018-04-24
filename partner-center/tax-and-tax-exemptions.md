@@ -1,13 +1,13 @@
 ---
 title: Steuern und Steuerbefreiungen | Partner Center
-description: "Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf den Weiterverkauf von Produkten durch Partner konzentriert, ist Microsoft nicht in allen Fällen verpflichtet, bei Partnerrechnungen die Mehrwertsteuer zu berechnen."
+description: Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf den Weiterverkauf von Produkten durch Partner konzentriert, ist Microsoft nicht in allen Fällen verpflichtet, bei Partnerrechnungen die Mehrwertsteuer zu berechnen.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-ms.openlocfilehash: 91a25481aa3074166a2010ef3e309767183829f0
-ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
+ms.openlocfilehash: bc1bee6104c5eb7f540e9379305764d9b040fb6b
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="tax-and-tax-exemptions"></a>Steuern und Steuerbefreiungen
 
@@ -23,7 +23,7 @@ Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf
 
 1.  Schlagen Sie Ihre **Microsoft-ID** im Menü „Dashboard“ &gt; **Kontoeinstellungen** &gt; **Organisationsprofil** nach
 2.  Schlagen Sie Ihre **MPN-ID** im Menü „Dashboard“ &gt; **Kontoeinstellungen** &gt; **Partnerprofil** nach.
-3.  Erstellen Sie ein neues Supportticket. Wählen Sie im Menü „Dashboard“ die Option **Supporttickets** &gt; **Partner Center-Tickets** &gt; **Neues Ticket** aus.
+3.  Erstellen Sie ein neues Supportticket. Wählen Sie im Menü Dashboard **Serviceanfragen** &gt; **Partner Center-Anfragen** &gt; **Neue Anfrage**.
 4.  Füllen Sie das Formular aus. Wählen Sie unter **Problemtyp** die Option **Ich kann mein Profil nicht verwalten** aus. Geben Sie in der Beschreibung Ihre MPN-ID und Microsoft-ID an.
 5.  Nachdem Sie das Ticket übermittelt haben, erhalten Sie von Microsoft eine E-Mail mit der Bitte um weitere Informationen. Fügen Sie Ihrer Antwort die erforderlichen Bescheinigungen für Ihre Steuerbefreiung bei.
 

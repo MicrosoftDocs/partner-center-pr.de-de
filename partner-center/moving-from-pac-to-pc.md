@@ -3,22 +3,22 @@ title: Wechseln von Partner Admin Center zu Partner Center
 description: Hinweise zum Verwenden der Funktionen aus dem Partner Admin Center im Partner Center
 author: labrenne
 keywords: PAC, Office365-Administrator, PAC-Features
-ms.openlocfilehash: 5ead4e1461050ff093b91ffc836984f77f59400f
-ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
+ms.openlocfilehash: 7bcb12a918cf007a474287183c2aa0956c161431
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/09/2018
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="moving-from-partner-admin-center-pac-to-partner-center"></a>Wechseln von Partner Admin Center (PAC) zu Partner Center
+# <a name="moving-from-partner-admin-center-pac-to-the-partner-dashboard"></a>Wechseln von Partner Admin Center (PAC) zu Partner-Dashboard
 
 Betrifft:
 - Partner Center
 - Partner Admin Center
 
-Willkommen im Partner Center! Das Partner Center entwickelt sich zum einzigen Ort, an dem Sie Ihre Partnerschaft mit Microsoft und Ihren Kunden verwalten. Sie können im Partner Center die Mitgliedschaft, Kundenempfehlungen, Incentives und alle anderen Aspekte des Programm für Cloud Solution Provider (CSP) verwalten. Sie können dort fast alle Aufgaben ausführen, die Sie im PAC im Partner Center ausgeführt haben, obwohl einige der Features oder Aktionen anders funktionieren. 
+Willkommen beim Partner-Dashboard! Das Partner-Dashboard entwickelt sich zum einzigen Ort, an dem Sie Ihre Partnerschaft mit Microsoft und Ihren Kunden verwalten. Sie können im Partner-Dashboard die Mitgliedschaft, Kundenempfehlungen, Incentives und alle anderen Aspekte des Programm für Cloud Solution Provider (CSP) verwalten. Sie können dort fast alle Aufgaben ausführen, die Sie im PAC im Partner-Dashboard ausgeführt haben, obwohl einige der Features oder Aktionen anders funktionieren. 
 
 
-|**Aktion**   |**PAC**   |**Partner Center**   |
+|**Aktion**   |**PAC**   |**Partner-Dashboard**   |
 |--------------|:--------------|:---------------|
 |Detaillierte Übersicht über Kontoaktivitäten und Kunden|Startbildschirm|Dashboard|
 |Neue Kunden gewinnen und Angebote für kostenpflichtige Dienste und Testversionen bereitstellen|Geschäft ausbauen -> Angebot senden|Kostenpflichtige Angebote sind nicht verfügbar. Im CSP sind Testversionen verfügbar, wenn Advisor-Partner in einen indirekten CSP-Händler umgewandelt werden und ein indirekter CSP-Anbieter zugeordnet wird, der die Testversionen unterstützt. |
@@ -31,4 +31,4 @@ Willkommen im Partner Center! Das Partner Center entwickelt sich zum einzigen Or
 |Integrität der von Ihnen verwalteten Microsoft-Onlinedienste anzeigen|Dienstintegrität -> Aggregierter Zustand|Dashboard -> Dienstintegrität|
 
 >Wichtig<br>
-Sie können über das Partner Center weder Testangebote noch kostenpflichtige Angebote an Kunden senden. Verwenden Sie darüber hinaus zur Suche von Kunden im Partner Center entweder den Kundennamen oder die verfügbare Kunden-Domäne, wenn Sie eine Partnerbeziehung mit dem Kunden erstellen.
+Sie können über das Partner-Dashboard weder Testangebote noch kostenpflichtige Angebote an Kunden senden. Verwenden Sie darüber hinaus zur Suche von Kunden im Partner-Dashboard entweder den Kundennamen oder die verfügbare Kunden-Domäne, wenn Sie eine Partnerbeziehung mit dem Kunden erstellen.

@@ -1,14 +1,14 @@
 ---
 title: Verdienen von Microsoft-Kompetenzen | Partner Center
-description: "Verdienen Sie Silver- und Gold-Kompetenzen von Microsoft, um Ihre nachgewiesene Erfahrung bei der Bereitstellung von Qualitätslösungen in einem speziellen Geschäftsbereich zu demonstrieren."
+description: Verdienen Sie Silver- und Gold-Kompetenzen von Microsoft, um Ihre nachgewiesene Erfahrung bei der Bereitstellung von Qualitätslösungen in einem speziellen Geschäftsbereich zu demonstrieren.
 author: KPacquer
-keywords: "Kompetenzen, Silber-Mitgliedschaft, Gold-Mitgliedschaft, Mpn, MAPS, Kompetenz, Vorteile, Leistungsziele, Fähigkeitsziele"
+keywords: Kompetenzen, Silber-Mitgliedschaft, Gold-Mitgliedschaft, Mpn, MAPS, Kompetenz, Vorteile, Leistungsziele, Fähigkeitsziele
 robots: noindex,nofollow
-ms.openlocfilehash: b4ca5bff38a4d2b3e40616c971379e743ad87032
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: 0e1fc6639888c67f6ce420106e9a0e41a267ac36
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -57,11 +57,11 @@ Um den Fortschritt in einer Kompetenz zu überprüfen, navigieren Sie vom Partne
 
 ### <a href="" id="associating_achievements"></a>Verknüpfen von Mitarbeitern zum Erreichen kenntnisbasierter Ziele
 
-1.  Fügen Sie Benutzerkonten für die Mitarbeiter in Ihrer Organisation hinzu. Navigieren Sie vom [Partner Center](http://partnercenter.microsoft.com)-Dashboard zu **Kontoeinstellungen > Benutzer hinzufügen**. (PMC-Benutzer können mehrere Benutzer gleichzeitig durch die Auswahl von **Add users using PMC data** hinzufügen.)
+1.  Fügen Sie Benutzerkonten für die Mitarbeiter in Ihrer Organisation hinzu. Navigieren Sie vom [Partner-Dashboard](http://partnercenter.microsoft.com) zu **Kontoeinstellungen > Benutzer hinzufügen**. (PMC-Benutzer können mehrere Benutzer gleichzeitig durch die Auswahl von **Add users using PMC data** hinzufügen.)
 
     Nachdem die Benutzerkonten erstellt wurden, erhalten sie einen neuen Benutzernamen und ein Kennwort und Sie werden aufgefordert, eine Protokolldatei mit Informationen zum Zurücksetzen des Benutzernamens und des Kennworts herunterzuladen. Sie können auch [die Benutzerkonten so einrichten, dass sie das Kennwort selbst zurücksetzen können](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
 
-2. Bitten Sie die Mitarbeiter in Ihrer Organisation, sich anzumelden und ihr Microsoft-Konto (MSA) mit ihrem Benutzerkonto zu verknüpfen. (Wechseln Sie auf dem [Partner Center](http://partnercenter.microsoft.com)-Dashboard zu **Kontoeinstellungen**.) Mitarbeiter können die gleichen oder unterschiedliche MSAs verwenden, um ihre technischen Microsoft-Prüfungen und -Zertifizierungen und ihre Konten über Microsoft Partner University zu verknüpfen.
+2. Bitten Sie die Mitarbeiter in Ihrer Organisation, sich anzumelden und ihr Microsoft-Konto (MSA) mit ihrem Benutzerkonto zu verknüpfen. (Wechseln Sie auf dem [Partner-Dashboard](http://partnercenter.microsoft.com) zu **Kontoeinstellungen**.) Mitarbeiter können die gleichen oder unterschiedliche MSAs verwenden, um ihre technischen Microsoft-Prüfungen und -Zertifizierungen und ihre Konten über Microsoft Partner University zu verknüpfen.
 
 3.  **Warten Sie 24 Stunden**, nachdem ein Mitarbeiter sein Konto verknüpft oder ein kenntnisbasiertes Ziel abgeschlossen hat. Danach wird der Fortschritt im Abschnitt **Kompetenzen** angezeigt.
 

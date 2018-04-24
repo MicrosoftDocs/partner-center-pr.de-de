@@ -1,16 +1,16 @@
 ---
-title: "Geschäftskonten und PartnerCenter | Partner Center"
-description: "Damit ein Partner Center-Konto erstellt werden kann, muss Ihr Unternehmen ein Geschäftskonto besitzen."
+title: Geschäftskonten und PartnerCenter | Partner Center
+description: Damit ein Partner Center-Konto erstellt werden kann, muss Ihr Unternehmen ein Geschäftskonto besitzen.
 author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
-robots: 
-ms.openlocfilehash: 91ee16676e6525180c5ed4351ca502914d98b65b
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+robots: ''
+ms.openlocfilehash: 347a884c1ea752b892c64d2c1bf9bb40629f8f6e
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="your-company-work-account-and-partner-center"></a>Unternehmenskonto Ihrer Firma und Partner Center  
+# <a name="your-company-work-account-and-the-partner-dashboard"></a>Unternehmenskonto Ihrer Firma und des Partner-Dashboards  
 
 **Betrifft:**
 
@@ -18,18 +18,18 @@ ms.lasthandoff: 12/21/2017
 
 ## <a name="why-you-need-a-work-account"></a>Warum Sie ein Geschäftskonto benötigen
 
-Wir müssen das Geschäftskonto Ihres Unternehmens mit Ihrem neuen Partner Center-Konto verknüpfen, damit sich Ihre Kontobenutzer im Partner Center mit dem Benutzernamen und dem Kennwort für ihr Geschäftskonto anmelden können.
+Wir müssen das Geschäftskonto Ihres Unternehmens mit Ihrem neuen Partner-Dashboard-Konto verknüpfen, damit sich Ihre Kontobenutzer im Partner-Dashboard mit dem Benutzernamen und dem Kennwort für ihr Geschäftskonto anmelden können.
 
-Wenn Ihr Unternehmen bereits ein Geschäftskonto besitzt, können Sie es mit Ihrem Partner Center-Konto verknüpfen. 
+Wenn Ihr Unternehmen bereits ein Geschäftskonto besitzt, können Sie es mit Ihrem Partner-Dashboard-Konto verknüpfen. 
 
->**Hinweis** Bevor Sie sich entschließen, ein vorhandenes Geschäftskonto zu verwenden, bedenken Sie, wie viele Benutzer des Kontos mit dem Partner Center arbeiten müssen. Wenn das Konto Benutzer enthält, die nicht im Partner Center arbeiten müssen, ziehen Sie die Erstellung eines neuen Kontos nur für diese Benutzer in Betracht.
+>**Hinweis** Bevor Sie sich entschließen, ein vorhandenes Geschäftskonto zu verwenden, bedenken Sie, wie viele Benutzer des Kontos mit dem Partner-Dashboard arbeiten müssen. Wenn das Konto Benutzer enthält, die nicht im Partner-Dashboard arbeiten müssen, ziehen Sie die Erstellung eines neuen Kontos nur für diese Benutzer in Betracht.
 
 Falls Ihr Unternehmen noch nicht über ein Geschäftskonto verfügt, können Sie ein solches während des Registrierungsprozesses erstellen. 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Sie sind nicht sicher, ob Ihre Firma bereits ein Geschäftskonto besitzt?
 
 Wenn Sie nicht sicher sind, ob Ihr Unternehmen ein Geschäftskonto besitzt, können Sie das folgendermaßen überprüfen. Beachten Sie: Mit einem aktiven Abonnement für Microsoft Azure oder Office365 besitzen Sie bereits ein Geschäftskonto.
-1.  Melden Sie sich im Azure-Verwaltungsportal unter https://ms.portal.azure.com an.
+1.  Melden Sie sich beim Microsoft Azure-Portal unter https://ms.portal.azure.com an
 2.  Wählen Sie „Azure Active Directory” im Menü, und wählen Sie dann „Domänennamen”.
 3.  Wenn Sie bereits ein Geschäftskonto besitzen, wird Ihr Domänenname aufgeführt.
 

@@ -3,11 +3,11 @@ title: 'Abonnements für Minecraft: Education Edition für Bildungseinrichtungen
 description: 'Abonnements für Minecraft: Education Edition für Bildungseinrichtungen verkaufen'
 author: KPacquer
 keywords: Autorisierte Education-Partner
-ms.openlocfilehash: 7404c2d98f8463ab3d1182216de2ada956bc6079
-ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
+ms.openlocfilehash: 276e5365eec99468becf9522284c6048f3750011
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/21/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Abonnements für Minecraft: Education Edition für Bildungseinrichtungen
 
@@ -36,7 +36,7 @@ Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z.B. 
 
 **Überprüfen Ihrer Händlerqualifikationen**
 
-1.  Wählen Sie im **Dashboard**-Menü die Option **Kontoeinstellungen**.
+1.  Wählen Sie oben rechts auf dem **Dashboard** die Option **Einstellungen** und dann **Alle Einstellungen anzeigen**.
 2.  Prüfen Sie in Ihrem **Partner-Profil** in den **CSP-Programminformationen** den Abschnitt **Händlerqualifikationen**.
 3.  Wenn Sie den Abschnitt **Händlerqualifikationen** nicht sehen können, wurden Sie noch nicht zum Erwerben von Sonderangeboten autorisiert.
 

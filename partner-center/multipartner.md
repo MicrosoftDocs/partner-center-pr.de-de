@@ -1,13 +1,13 @@
 ---
-title: "Multipartner-Unterstützung | Partner Center"
-description: "Ein Kunde möchte möglicherweise mit mehreren Partnern aus dem Programm für Cloud-Lösungsanbieter zusammenarbeiten, die sich auf unterschiedliche Dienste spezialisiert haben."
+title: Multipartner-Unterstützung | Partner Center
+description: Ein Kunde möchte möglicherweise mit mehreren Partnern aus dem Programm für Cloud-Lösungsanbieter zusammenarbeiten, die sich auf unterschiedliche Dienste spezialisiert haben.
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
-ms.openlocfilehash: a3ef6c100324e6793c369dc21f37f5bcc795933d
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: e6d6b8d6c2c65738fb1fa5a1c84b523fb28257fe
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="multi-partner-support"></a>Multipartner-Unterstützung
 
@@ -17,9 +17,9 @@ ms.lasthandoff: 06/09/2017
 -  Partner Center für Microsoft Cloud für US-Behörden
 -  Partner Center für Microsoft Cloud Deutschland
 
-Das Multipartner-Feature in Partner Center unterstützt Szenarien, in denen ein Kunde mit mehreren Partnern zusammenarbeiten möchte. Beispielsweise möchte ein Kunde mit einem Partner aufgrund seiner Kenntnisse in Bezug auf Office365 zusammenarbeiten, gleichzeitig aber mit einem anderen Partner zusammenarbeiten, der auf Microsoft Azure spezialisiert ist.
+Das Multipartner-Feature in Partner-Dashboard unterstützt Szenarien, in denen ein Kunde mit mehreren Partnern zusammenarbeiten möchte. Beispielsweise möchte ein Kunde mit einem Partner aufgrund seiner Kenntnisse in Bezug auf Office365 zusammenarbeiten, gleichzeitig aber mit einem anderen Partner zusammenarbeiten, der auf Microsoft Azure spezialisiert ist.
 
-Um das Multipartner-Feature im Partner Center zu verwenden, bitten Sie den Kunden, Ihnen delegierte Administratorrechte einzuräumen. Unter [Beantragen einer Partnerschaft mit einem Kunden](request-a-relationship-with-a-customer.md) finden Sie Informationen zum Erstellen einer Beziehung mit einem Kunden, die bereits mit einem Partner arbeitet.
+Um das Multipartner-Feature im Partner-Dashboard verwenden, bitten Sie den Kunden, Ihnen delegierte Administratorrechte einzuräumen. Unter [Beantragen einer Partnerschaft mit einem Kunden](request-a-relationship-with-a-customer.md) finden Sie Informationen zum Erstellen einer Beziehung mit einem Kunden, die bereits mit einem Partner arbeitet.
 
 Folgendes ist mit der Multipartner-Funktionalität nicht möglich:
 
@@ -32,7 +32,7 @@ Folgendes ist mit der Multipartner-Funktionalität nicht möglich:
 -   Ändern des eingetragenen Partners für ein Abonnement
 
 >**Wichtig**<br>
-Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Ankündigungen der künftigen Versionen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner Center.  
+Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Ankündigungen der künftigen Versionen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich dem Partner-Dashboard.  
 
  
 

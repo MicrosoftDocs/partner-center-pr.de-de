@@ -1,15 +1,15 @@
 ---
-title: "Azure Partner Shared Services für Azure Partner verfügbar | Partner Center"
-description: "CSP-Partner können nun Azure-Abonnements zur eigenen Verwendung erwerben."
+title: Azure Partner Shared Services für Azure Partner verfügbar | Partner Center
+description: CSP-Partner können nun Azure-Abonnements zur eigenen Verwendung erwerben.
 author: labrenne
-Keywords: Azure, gemeinsame Dienste, Mandant
-ms.openlocfilehash: 0329f2ae97444a8a8c3799b2dfcb42378c4f2f80
-ms.sourcegitcommit: aa846217ee4158d835ec3c8f776d1fb299594994
+Keywords: Azure, shared services, tenant
+ms.openlocfilehash: 2cff9cb607618dbee7734bdbce109d729e9646ba
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/04/2017
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="add-azure-partner-shared-services"></a>Azure Partner Shared Services für Azure-Partner verfügbar
+# <a name="add-azure-partner-shared-services"></a>Hinzufügen von Azure Partner Shared Services
 
 **Betrifft:**
 
@@ -19,7 +19,7 @@ Azure Partner Shared Services ist eine neue Art von Angebot für Partner im CSP-
 
 ## <a name="create-the-shared-services-tenant"></a>Erstellen des Mandanten für gemeinsame Dienste
 
-1. Wechseln Sie im Partner Center zu **Dashboard** > **Kontoeinstellungen** > **Gemeinsame Dienste**.
+1. Wechseln Sie zu **Einstellungen** > **Alle Einstellungen anzeigen** > **Gemeinsame Dienste**.
 
     ![** Konto Einstellungen** > **Gemeinsame Dienste**](images/sharedservices2.png)
 
@@ -41,7 +41,7 @@ Azure Partner Shared Services ist eine neue Art von Angebot für Partner im CSP-
 
 - Der Zweck des Abonnements „Azure – Internal/Shared Services” ist, Azure für eigene Entwicklungen zu verwenden. Der gemeinsame Mandant, mit dem Sie dieses Angebot bereitstellen, kann nicht für andere Dienste wie Office365 oder Dynamics Arbeitsplätze verwendet werden. 
 
-- Sie können das Abonnement wie alle anderen Abonnements kündigen. Wechseln Sie dazu im Partner Center zu **Dashboard** > **Kontoeinstellungen** > **Gemeinsame Dienste**. Wählen Sie das Abonnement „Azure – Internal/Shared Services” und beenden Sie es.
+- Sie können das Abonnement wie alle anderen Abonnements kündigen. Wechseln Sie zu den **Einstellungen** > **Alle Einstellungen anzeigen** > **Gemeinsame Dienste**. Wählen Sie das Abonnement „Azure – Internal/Shared Services” und beenden Sie es.
 
 ## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Überprüfen der Azure Partner Shared Services-Verbrauchsdetails
 
@@ -49,6 +49,6 @@ Sie finden den Azure-Verbrauch in Ihrer CSP-Rechnung und in der Abgleichsdatei. 
 
 ## <a name="azure-partner-shared-services-pricing"></a>Preise für Azure Partner Shared Services
 
-Die neu Preisedatei für Azure Partner Shared Services finden Sie unter **Nutzungsbasierte Dienste > Preise und Angebote**. Wählen Sie dort die Preisliste für den aktuellen Monat. In den kommenden Wochen wird auch eine spezielle Bewertungskarten-API veröffentlicht.
+Die neu Preisedatei für Azure Partner Shared Services finden Sie unter **Verkaufen** > **Preise und Angebote**. Wählen Sie dort die Preisliste für den aktuellen Monat. In den kommenden Wochen wird auch eine spezielle Bewertungskarten-API veröffentlicht.
 
 

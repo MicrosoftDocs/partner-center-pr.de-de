@@ -1,12 +1,12 @@
 ---
-title: "Anbieten von Testversionen von Microsoft-Produkten für Kunden | Partner Center"
-description: "Ihre Kunden können Microsoft-Abonnements für 30Tage testen."
+title: Anbieten von Testversionen von Microsoft-Produkten für Kunden | Partner Center
+description: Ihre Kunden können Microsoft-Abonnements für 30Tage testen.
 author: labrenne
-ms.openlocfilehash: a35a4e1c1aca22df6b262bd2f7d64a4d234d33ed
-ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
+ms.openlocfilehash: 238681a6b19fa4f021ef9882aa477a1a8937d462
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/17/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Anbieten von Testversionen von Microsoft-Produkten für Kunden
 
@@ -18,7 +18,7 @@ Eine gute Möglichkeit, Kunden neue Microsoft-Produkte vorzustellen, ist eine ko
 
 ## <a name="sign-your-customer-up-for-a-trial"></a>Registrieren des Kunden für eine Testversion
 
-1.  Von **Kontoeinstellungen** wechseln Sie zu **Katalog**. 
+1.  Unter **Verkaufen** im Dashboard, wechseln Sie zu **Katalog**. 
 2.  Klicken Sie im Katalog unter **Abrechnungshäufigkeit** auf **Testangebot**. Dadurch werden nur kostenlose Testversionen angezeigt und Angebote ausgeblendet, die nicht kostenlos sind. Testversionen werden im Katalog auf der Registerkarte **Testversionen** angezeigt.
 3.  Wählen Sie die kostenlose Testversion aus, die Sie anbieten möchten, und wählen Sie dann **Übermitteln**. Alle Testversionen gelten für 30Tage, in denen keine Kosten in Rechnung gestellt werden. Sie können sie zu einem beliebigen Zeitpunkt während der Testphase auch in ein kostenpflichtiges Abonnement umwandeln.
 

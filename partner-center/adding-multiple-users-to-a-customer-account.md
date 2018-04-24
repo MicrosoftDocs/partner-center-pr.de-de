@@ -1,14 +1,14 @@
 ---
-title: "Erstellen mehrerer Benutzer für ein Kundenkonto | Partner Center"
-description: "Sie können dem Konto eines Kunden mehrere Benutzer gleichzeitig hinzufügen, indem Sie eine Datendatei im CSV-Format in Partner Center hochladen."
+title: Erstellen mehrerer Benutzer für ein Kundenkonto | Partner Center
+description: Sie können dem Konto eines Kunden mehrere Benutzer gleichzeitig hinzufügen, indem Sie eine Datendatei im CSV-Format in Partner Center hochladen.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
-keywords: "Stapelweises Hochladen, mehrere Benutzer einem Kundenkonto hinzufügen, Kunden eines Benutzers hinzufügen, stapelweises Hochladen der Benutzer des Kunden, Kundenkonto, Kunden des Benutzers, Benutzer"
-ms.openlocfilehash: b360ced878973cde19b1a6aa8470ac4218ea6773
-ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+keywords: Stapelweises Hochladen, mehrere Benutzer einem Kundenkonto hinzufügen, Kunden eines Benutzers hinzufügen, stapelweises Hochladen der Benutzer des Kunden, Kundenkonto, Kunden des Benutzers, Benutzer
+ms.openlocfilehash: 2c695cd6c6e3b302d91730638358616ca3465188
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Hinzufügen von mehreren Benutzern zu einem Kundenkonto
 
@@ -16,7 +16,7 @@ ms.lasthandoff: 12/08/2017
 
 -  Partner Center
 
-Sie können dem Konto eines Kunden mehrere Benutzer gleichzeitig hinzufügen, indem Sie eine Datendatei im CSV-Format in Partner Center hochladen. Sie können eine Beispieldatendatei aus Partner Center herunterladen und sie für Ihre Zwecke anpassen oder anhand des unten definierten Datenmodells eine neue Datendatei erstellen.
+Sie können dem Konto eines Kunden mehrere Benutzer gleichzeitig hinzufügen, indem Sie eine Datendatei im CSV-Format in Partner-Dashboard hochladen. Sie können eine Beispieldatendatei aus dem Partner-Dashboard herunterladen und sie für Ihre Zwecke anpassen oder anhand des unten definierten Datenmodells eine neue Datendatei erstellen.
 
 ## <a href="" id="creatingtheimportcsvfile"></a>Anforderungen an die Datendatei
 
@@ -36,7 +36,7 @@ Geben Sie die folgenden Daten in die Datendatei ein:
 | **Name der Spalte** | **Beschreibung**                                                              | **Einschränkung**                             |
 | Vorname      | Vorname des Benutzers (optionales Feld)                                           | Begrenzung von 50Zeichen                         |
 | Nachname       | Nachname des Benutzers (optionales Feld)                                            | Begrenzung von 50Zeichen                         |
-| Anzeigename    | Der in Partner Center angezeigte Name (erforderliches Feld)                            | Begrenzung von 50Zeichen                         |
+| Anzeigename    | Der im Partner-Dashboard angezeigte Name (erforderliches Feld)                            | Begrenzung von 50Zeichen                         |
 | E-Mail           | Geschäftliche E-Mail-Adresse des Benutzers beim Kundenunternehmen (erforderliches Feld)           | Jeder Benutzer muss eine eindeutige E-Mail-Adresse besitzen. |
 | Statusupdate   | Hiermit wird angegeben, ob der Datensatz des neuen Benutzers erfolgreich erstellt wurde. | \*\*Keine Angabe\*\*                        |
 
@@ -56,13 +56,13 @@ Geben Sie die folgenden Daten in die Datendatei ein:
 
      
 
-7.  Wählen Sie nach der Überprüfung der Datei durch Partner Center den geografischen **Standort** für die neuen Benutzer aus.
+7.  Wählen Sie nach der Überprüfung der Datei durch das Partner-Dashboard den geografischen **Standort** für die neuen Benutzer aus.
 8.  Wählen Sie **Speichern**.
 9.  Laden Sie die Informationen zum temporären Kennwort für die Benutzer herunter.
 
 **WICHTIG:** Laden Sie die Datei mit den temporären Kennwörtern unbedingt jetzt herunter, da dies später nicht mehr möglich ist. Neue Benutzer müssen sich mit dem temporären Kennwort für die neuen Konten beim neuen Konto anmelden.
 
-Partner Center ordnet den neuen Benutzern automatisch die Berechtigungen **Can use licenses and services** zu.
+Das Partner-Dashboard ordnet den neuen Benutzern automatisch die Berechtigungen **Can use licenses and services** zu.
 
  
 

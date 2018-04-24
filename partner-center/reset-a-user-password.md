@@ -1,11 +1,13 @@
 ---
-title: "Zurücksetzen von Benutzerkennwörtern | Partner Center"
-description: "Wenn Benutzer ihr Kennwort vergessen, können Sie ihnen ein neues temporäres Kennwort zuweisen. Sie können es für die nächste Anmeldung beim Partner Center verwenden."
+title: Zurücksetzen von Benutzerkennwörtern | Partner Center
+description: Wenn Benutzer ihr Kennwort vergessen, können Sie ihnen ein neues temporäres Kennwort zuweisen. Sie können es für die nächste Anmeldung beim Partner Center verwenden.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
-ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 5f0c1914bf1627f8175f2db9a31469a08159fce7
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="reset-a-user-password"></a>Zurücksetzen von Benutzerkennwörtern
 
@@ -19,7 +21,7 @@ Wenn Benutzer ihr Kennwort vergessen, weisen Sie ihnen ein neues temporäres Ken
 
 **Zurücksetzen von Benutzerkennwörtern als Administrator**
 
-1.  Wechseln Sie in Partner Center zum Menü „Dashboard“ &gt; **Kontoeinstellungen** &gt; **Benutzerverwaltung**.
+1.  Wechseln Sie zu **Einstellungen** &gt; **Benutzerverwaltung**.
 2.  Wählen Sie den Benutzer aus der Liste aus.
 
 3.  Wählen Sie unten auf der Seite **Kennwort zurücksetzen** aus.

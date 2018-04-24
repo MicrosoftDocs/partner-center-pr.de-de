@@ -2,11 +2,11 @@
 title: Zusammenarbeiten mit indirekten Vertriebspartnern in CSP | Partner Center
 description: Als indirekter Anbieter (oder Distributor) können Sie mit indirekten Vertriebspartnern zusammenarbeiten, um Ihre Reichweite zu erhöhen.
 author: MaggiePucciEvans
-ms.openlocfilehash: cc39be08953c88be2e55f6c53c41c1528f0c7493
-ms.sourcegitcommit: c51de6e6cbb71d11d31af21943583e9e17d66502
+ms.openlocfilehash: 9b0d644698676a28236c37b3cef5f5fbd905b602
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Zusammenarbeiten mit indirekten Vertriebspartnern im Programm für Cloud Solution Provider
 
@@ -16,7 +16,7 @@ Neue Vertriebspartner versuchen, auf dem Markt Fuß zu fassen, und möchten ihre
 
 Im (zweistufigen) Modell mit indirektem Anbieter und Vertriebspartner bieten Sie Kunden in Zusammenarbeit mit indirekten Vertriebspartnern Cloudlösungen von Microsoft an. Sie kaufen Produkte und Abonnements direkt von Microsoft und bieten diese Lösungen dann den Kunden über Vertriebspartner an. 
 
-Als indirekter Anbieter verwenden Sie Partner Center für Folgendes:
+Als indirekter Anbieter verwenden Sie Partner-Dashboard für Folgendes:
 
 -   Vernetzen mit indirekten Vertriebspartnern, die Sie bei der Erweiterung Ihrer Reichweite und Ihres Kundenstamms unterstützen
 -   Zusammenarbeiten mit indirekten Vertriebspartnern zur Bedienung gemeinsamer Kunden
@@ -25,17 +25,17 @@ Als indirekter Anbieter verwenden Sie Partner Center für Folgendes:
 
 Weitere Informationen zum indirekten Modell in CSP finden Sie auf der [Microsoft Partner Network-Website]( https://partner.microsoft.com) unter [Erkunden Sie das indirekte Modell](https://partner.microsoft.com/cloud-solution-provider/indirect). 
 
-## <a name="indirect-provider-tasks-on-partner-center"></a>Aufgaben indirekter Anbieter im Partner Center
+## <a name="indirect-provider-tasks-in-the-partner-dashboard"></a>Aufgaben indirekter Anbieter im Partner-Dashboard
 
-Führen Sie zum Einrichten und Verwalten Ihrer Partnerschaft mit indirekten Vertriebspartnern und Kunden im Partner Center folgende Schritte aus. Die Schritte2 und 3 werden im folgenden ausführlicher beschrieben.
+Führen Sie zum Einrichten und Verwalten Ihrer Partnerschaft mit indirekten Vertriebspartnern und Kunden im Partner-Dashboard folgende Schritte aus. Die Schritte2 und 3 werden im folgenden ausführlicher beschrieben.
 
-1.  Überprüfen Sie Ihr Unternehmensprofil in [der offizielle Liste der indirekten Anbieter von Microsoft](https://partnercenter.microsoft.com/en-us/partner/find-a-provider). 
+1.  Überprüfen Sie Ihr Unternehmensprofil in [der offizielle Liste der indirekten Anbieter von Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider). 
 
-    -   Zum Ändern Ihres Profils als indirekter Anbieter-senden Sie eine Partner Center-Supportanfrage mit Ihrem Firmennamen, dem Logo und der Ziel-URL für jeden Standort. Wir werden Ihr Profil innerhalb von zwei bis drei Wochen aktualisieren.<br>
+    -   Zum Ändern Ihres Profils als indirekter Anbieter-senden Sie eine Partner-Dashboard-Supportanfrage mit Ihrem Firmennamen, dem Logo und der Ziel-URL für jeden Standort. Wir werden Ihr Profil innerhalb von zwei bis drei Wochen aktualisieren.<br>
 
 2.  Vernetzen mit indirekten Vertriebspartnern
 
-    - Bevor Sie mit Vertriebspartnern interagieren und Transaktionen abwickeln können, müssen Sie im Partner Center Partnerschaften mit ihnen einrichten. <br>
+    - Bevor Sie mit Vertriebspartnern interagieren und Transaktionen abwickeln können, müssen Sie im Partner-Dashboard Partnerschaften mit ihnen einrichten. <br>
 
 3.  Interagieren mit Kunden
 
@@ -44,11 +44,11 @@ Führen Sie zum Einrichten und Verwalten Ihrer Partnerschaft mit indirekten Vert
 
 Nach Abschluss dieser Schritte können Sie Ihre Vertriebspartnerschaften im Menü **Dashboard** auf der Seite **Indirect resellers** verwalten.
 
->**Wichtig**<br> Um mit Vertriebspartnern im Partner Center zusammenarbeiten zu können, müssen diese als indirekte Vertriebspartner im CSP-Programm registriert sein und über Partner Center-Konten verfügen. Registrierungsinformationen für das CSP-Programm finden Vertriebspartner unter [Zusammenarbeiten mit indirekten Anbietern in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md). 
+>**Wichtig**<br> Um mit Vertriebspartnern im Partner Center zusammenarbeiten zu können, müssen diese als indirekte Vertriebspartner im CSP-Programm registriert sein und über Partner-Dashboard-Konten verfügen. Registrierungsinformationen für das CSP-Programm finden Vertriebspartner unter [Zusammenarbeiten mit indirekten Anbietern in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md). 
 
 ## <a name="connect-with-indirect-resellers"></a>Vernetzen mit indirekten Vertriebspartnern
 
-Um mit indirekten Vertriebspartnern im Partner Center interagieren und Transaktionen abwickeln zu können, müssen Sie eine Partnerschaft mit ihnen einrichten. Durch eine Partnerschaft mit einem indirekten Vertriebspartner können Sie und der Vertriebspartner die gleichen Kunden bedienen.
+Um mit indirekten Vertriebspartnern im Partner-Dashboard interagieren und Transaktionen abwickeln zu können, müssen Sie eine Partnerschaft mit ihnen einrichten. Durch eine Partnerschaft mit einem indirekten Vertriebspartner können Sie und der Vertriebspartner die gleichen Kunden bedienen.
 
 Senden Sie zum Einrichten einer Partnerschaft eine E-Mail mit einer Partnerschaftsanfrage an den Vertriebspartner. Achten Sie darauf, dass Sie die E-Mail-Adresse des Vertriebspartners zur Hand haben, bevor Sie beginnen. 
 
@@ -58,7 +58,7 @@ Senden Sie zum Einrichten einer Partnerschaft eine E-Mail mit einer Partnerschaf
 
 3. Wählen Sie **In E-Mail öffnen** aus, um die Nachricht in Ihrer Standardanwendung für E-Mails zu öffnen, oder wählen Sie **In Zwischenablage kopieren** aus, um den Text zu kopieren, und fügen Sie ihn dann in eine E-Mail ein. Wählen Sie abschließend **Fertig** aus.
 
-   >**Wichtig:** Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er speziell auf Ihr Partner Center-Konto zugeschnitten ist.
+   >**Wichtig:** Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er speziell auf Ihr Partner-Dashboard-Konto zugeschnitten ist.
 
 4. Nachdem der Vertriebspartner Ihre Partnerschaftsanfrage angenommen hat, wird er in der Liste mit Ihren indirekten Vertragspartnern angezeigt, und Sie können nun folgende Aktionen ausführen: 
 
@@ -79,7 +79,7 @@ Abhängig davon, inwieweit der Vertriebspartner Zugriff haben und eingebunden se
 
 ## <a name="connect-with-customers"></a>Interagieren mit Kunden
 
-Wenn Sie neue Kunden gewinnen, müssen Sie im Partner Center entsprechende Konten erstellen. Wenn Sie ein neues Kundenkonto hinzufügen, können Sie einen bestimmten Vertriebspartner festlegen, der das Konto und die Abonnements und Dienste des Kunden in dessen Auftrag verwalten soll. 
+Wenn Sie neue Kunden gewinnen, müssen Sie im Partner-Dashboard entsprechende Konten erstellen. Wenn Sie ein neues Kundenkonto hinzufügen, können Sie einen bestimmten Vertriebspartner festlegen, der das Konto und die Abonnements und Dienste des Kunden in dessen Auftrag verwalten soll. 
 
 Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren Sie dadurch die Konto- und Abonnementverwaltung an diesen Vertriebspartner. Das bedeutet, dass der Vertriebspartner Administratorzugriff auf die Abonnements und Dienste des Kunden erhält und sie im Auftrag des Kunden verwalten kann.
 

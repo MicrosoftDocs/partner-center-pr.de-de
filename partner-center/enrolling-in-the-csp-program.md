@@ -2,11 +2,11 @@
 title: Registrieren für das Programm für Cloud Solution Provider | Partner Center
 description: Grundlegendes zu den verschiedenen Modellen für den Verkauf in CSP und herausfinden, welche Lösung am besten zu Ihrem Unternehmen passt
 author: labrenne
-ms.openlocfilehash: 073daadbe2cfee4eb891e2698a2b11c31da39ec0
-ms.sourcegitcommit: e56f07feb1c6748efda48a8d2cd00185331f904a
+ms.openlocfilehash: f1f5fcdda8c162ae42fb5d619c8ee04e420b4c8c
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/19/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud Solution Provider
 
@@ -19,21 +19,21 @@ ms.lasthandoff: 02/19/2018
 
 Um sich beim Programm für Cloud Solution Provider zu registrieren, benötigen Sie zuerst eine MPN-ID. Sie besitzen noch keine? Treten Sie [hier](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=) bei.
 
-Beim Ausfüllen der CSP-Anwendung benötigen Sie Ihre MPN-ID, eine vollständige Geschäftsadresse, Bankverbindungen und die E-Mail-Adresse des Mitarbeiters, der als Administrator für Partner Center fungiert.
+Beim Ausfüllen der CSP-Anwendung benötigen Sie Ihre MPN-ID, eine vollständige Geschäftsadresse, Bankverbindungen und die E-Mail-Adresse des Mitarbeiters, der als Administrator für Partner-Dashboard fungiert.
 
 Entscheiden Sie, welches [CSP-Modell zutrifft](http://partner-l1.microsoft.com/cloud-solution-provider-direct-or-indirect.html?ocid=cx-pcprograms-cspprogram-tellusmorebusiness) und führen Sie den Prozess durch. 
 
 Die Überprüfung Ihrer Angaben kann mehrere Tage dauern. Wir werden Sie per E-Mail informieren, wenn unsere Überprüfung abgeschlossen ist.
 
->**Wichtig**<br> Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Diese Einschränkung gilt nur für Mandanten, die für die Durchführung von CSP-Transaktionen verwendet werden. CSP-Partner, die einen Nicht-CSP-Mandanten für ihre Unternehmensnutzung verwenden, können Onlinedienste von einem anderen CSP-Partner erwerben. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Neuigkeiten der künftigen Versionen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner Center.
+>**Wichtig**<br> Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Diese Einschränkung gilt nur für Mandanten, die für die Durchführung von CSP-Transaktionen verwendet werden. CSP-Partner, die einen Nicht-CSP-Mandanten für ihre Unternehmensnutzung verwenden, können Onlinedienste von einem anderen CSP-Partner erwerben. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Neuigkeiten der künftigen Versionen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner-Dashboard.
 
 ### <a name="enroll-as-an-indirect-reseller"></a>Sich als indirekter Wiederverkäufer registrieren
 
 1. Nachdem Sie sich als indirekten Händler registriert haben, müssen Sie [einen indirekten Anbieter](https://partnercenter.microsoft.com/partner/find-a-provider) finden. Der Anbieter, mit dem Sie zusammenarbeiten, sendet Ihnen Kunden, verwalten den Erwerb der Software, die Sie verkaufen und erledigt die Kundenabrechnung und den Support, damit Sie sich auf den Aufbau Ihres Reseller-Geschäfts konzentrieren können.
 
-2. Der globale Administrator sollte Ihr Konto im Partner Center einrichten. Der globale Administrator kann Mitarbeiter Ihrer Organisation hinzufügen, die im Partner Center arbeiten und Ihnen je nach deren Arbeit Rollen und Berechtigungen zuweisen sowie das Organisationsprofil einrichten.
+2. Der globale Administrator sollte Ihr Konto im Partner-Dashboard einrichten. Der globale Administrator kann Mitarbeiter Ihrer Organisation hinzufügen, die im Partner-Dashboard arbeiten und Ihnen je nach deren Arbeit Rollen und Berechtigungen zuweisen sowie das Organisationsprofil einrichten.
 
-3. Ihre Mitarbeiter erhalten eine E-Mail mit ihren temporären Kennwörtern. Sie sollten sich im Partner Center anmelden und das Kennwort ändern. Sie können danach mit der Arbeit beginnen.
+3. Ihre Mitarbeiter erhalten eine E-Mail mit ihren temporären Kennwörtern. Sie sollten sich im Partner-Dashboard anmelden und das Kennwort ändern. Sie können danach mit der Arbeit beginnen.
 
 4. Der Mitarbeiter, der die Rolle des Unternehmensprofil-Administrator ausführt, sollte Ihr Unternehmensprofil einrichten, damit Sie Empfehlungen für Kunden erhalten können.
 
@@ -45,7 +45,7 @@ Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit 
 
 - Sobald Sie angemeldet sind und die Kriterien als direkter Partner erfüllen, kann der globale Administrator Ihr Konto einrichten, Mitarbeiter hinzufügen, diesen Rollen und Berechtigungen gemäß ihrer Arbeit zuweisen und das Organisationsprofil einrichten. 
 
-- Wenn Sie Ihre Arbeit mit Kunden im Partner Center fortsetzen möchten, müssen Sie diese Ihrem Partner Center-Konto [zuordnen](request-a-relationship-with-a-customer.md).  Microsoft kann so die Abrechnung und Fakturierung mit Ihnen verbinden. 
+- Wenn Sie Ihre Arbeit mit Kunden im Partner Center fortsetzen möchten, müssen Sie diese Ihrem Partner-Dashboard-Konto [zuordnen](request-a-relationship-with-a-customer.md).  Microsoft kann so die Abrechnung und Fakturierung mit Ihnen verbinden. 
 
 | Verfügbarkeit nach Markt |
 |----------------------------------------------------------------------------------------------|

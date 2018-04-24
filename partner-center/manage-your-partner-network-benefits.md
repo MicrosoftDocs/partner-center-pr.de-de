@@ -1,12 +1,12 @@
 ---
 title: Verwalten der Microsoft Partner Network-Vorteile | Partner Center
-description: "Als Microsoft Partner Network-Mitglied haben Sie Anspruch auf bestimmte Mitgliedschaftsvorteile. Erläutert das Aktivieren und Verwalten Ihre Mitgliedschaftsvorteile im Partner Center."
+description: Als Microsoft Partner Network-Mitglied haben Sie Anspruch auf bestimmte Mitgliedschaftsvorteile. Erläutert das Aktivieren und Verwalten Ihre Mitgliedschaftsvorteile im Partner Center.
 author: MaggiePucciEvans
-ms.openlocfilehash: 2e21313612acc7383cde0333b57b3b6068a7723c
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
+ms.openlocfilehash: 7feb6c46834011ef679442a5ce261221e4800067
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile
 
@@ -14,7 +14,7 @@ ms.lasthandoff: 11/03/2017
 
 -  Partner Center
 
-Die Mitgliedschaft im Microsoft Partner Network berechtigt Sie zu bestimmten Vorteilen. Damit Sie Mitgliedschaftsvorteile kaufen und aktivieren können, muss Ihre Organisation ein Mitglied des Microsoft Partner Network sein. Wenn Sie kein Mitglied des Netzwerks sind, können Sie unter [https://partner.microsoft.com](https://partner.microsoft.com) beitreten.
+Die Mitgliedschaft im Microsoft Partner Network berechtigt Sie zu bestimmten Vorteilen. Damit Sie Mitgliedschaftsvorteile kaufen und aktivieren können, muss Ihre Organisation ein Mitglied des Microsoft Partner Network sein. Wenn Sie kein Mitglied des Netzwerks sind, können Sie jetzt auf [https://partner.microsoft.com](https://partner.microsoft.com) beitreten.
 
 >**Hinweis:** Über diesen Link gelangen Sie zu einer anderen Website. Kehren Sie zurück zu dieser Website (Partner Center), um Ihre Netzwerkmitgliedschaft zu verlängern und zu aktualisieren.
 
@@ -23,11 +23,11 @@ Nach dem Beitritt oder der Verlängerung Ihrer Mitgliedschaft im Microsoft Partn
 
 ## <a name="manage-your-membership-benefits"></a>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile
 
-Nach dem Erwerb eines Vorteilspakets weisen Sie Lizenzen, Abonnements und anderen Vorteile zu Mitarbeitern zu. 
+Nach dem Erwerb eines Vorteilspakets müssen Sie Lizenzen, Abonnements und anderen Vorteile zu Mitarbeitern zuweisen. 
 
 Ihr Action Pack-Abonnement enthält Zuweisungen von Softwarelizenzen, Clouddiensten, Visual Studio-Abonnements und Support mit internen Nutzungsrechten. 
 
-Um alle Mitgliedschaftsborteile, die Sie erhalten haben, anzeigen und verwalten zu können, wechseln Sie zu Ihrem **Dashboard**-Menü und wählen Sie dann **Partnerschaft > Vorteile** aus. Die Seite **Vorteile** wird geöffnet. 
+Wählen Sie zum Anzeigen und Verwalten Ihrer Mitgliedschaftsvorteile **Vorteile** aus dem **Dashboard**-Menü aus. Die Seite **Vorteile** wird geöffnet. 
 
 #### <a name="manage-software-benefits"></a>Verwalten von Softwarevorteilen
 

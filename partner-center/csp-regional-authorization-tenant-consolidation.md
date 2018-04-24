@@ -1,14 +1,14 @@
 ---
-title: "Mandantenkonsolidierung für regionale CSP-Autorisierung | Partner Center"
-description: "Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschiedene Länder/Regionen."
+title: Mandantenkonsolidierung für regionale CSP-Autorisierung | Partner Center
+description: Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschiedene Länder/Regionen.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 keywords: Migrieren von Kunden, Bereitstellung, Mandantenkonto, Mandanten konsolidieren
-ms.openlocfilehash: e895fd049211a3dfcb4db930b75d94906563b700
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+ms.openlocfilehash: 4a8d1e993c11d379819ef9628db1f2399c6e6b49
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Mandantenkonsolidierung für regionale CSP-Autorisierung
 
@@ -29,14 +29,14 @@ Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschiedene Länder/
 ## <a name="prepare-for-migration"></a>Vorbereitung auf die Migration
 
 
--   Melden Sie sich mit dem zu migrierenden (vorhandenen) Konto unter <https://partnercenter.microsoft.com> an, und notieren Sie alle Kunden und alle für diese Kunden bereitgestellten Dienste.
+-   Melden Sie sich im **Dashboard** mit dem zu **migrierenden** (vorhandenen) Konto an, und notieren Sie alle Kunden und alle für diese Kunden bereitgestellten Dienste.
 
 ![Liste regionaler Kunden](images/regionalcustomer1.png)
 
 ## <a name="migrate-customer-accounts"></a>Migrieren von Kundenkonten
 
 
-1.  Melden Sie sich mit dem zu migrierenden (vorhandenen) Konto unter <https://partnercenter.microsoft.com> an, und navigieren Sie auf dem Partner Center-Dashboard zur Kundenliste.
+1.  Melden Sie sich beim **Dashboard** mit dem zu **migrierenden** (neuen) Konto an und navigieren Sie von **Kunden** aus zur Liste der Kunden.
 
 2.  Wählen Sie die gewünschten Kunden.
 
@@ -53,7 +53,7 @@ Die Kunden werden nach Übermittlung der Vereinbarung nacheinander in der Kunden
 
 1.  Nachdem der Kunde die Vereinbarung unterzeichnet hat, können Sie die Abonnements unter dem zentralisierten Partnermandanten erneut erstellen.
 
-2.  Klicken Sie auf dem PartnerCenter-Dashboard im linken Navigationsmenü auf **Kunden**.
+2.  Wählen Sie im **Dashboard** die Option **Kunden** aus.
 
 3.  Öffnen Sie den Unternehmensnamen für den Kunden, den Sie migrieren möchten.
 
@@ -80,7 +80,7 @@ Bevor Sie mit dem nächsten Abschnitt fortfahren, stellen Sie sicher, dass alle 
 
 Durch die Deaktivierung des CSP-Abonnements unter den Partnerkonten vom Typ **Transitioning From** erfolgen keine zukünftigen Abrechnungen mehr. Azure-Abonnements müssen nicht manuell deaktiviert werden, da diese Abonnements während des Migrationsprozesses automatisch deaktiviert werden.
 
-1.  Melden Sie sich mit dem CSP-Konto vom Typ **Transitioning From** unter <https://partnercenter.microsoft.com> an, und navigieren Sie zur Kundenliste.
+1.  Melden Sie sich im **Dashboard** mit dem **Transitioning From** CSP-Konto an, und navigieren Sie zur Kundenliste.
 
 2.  Öffnen Sie den Kunden, für den Sie Abonnements deaktivieren möchten, und wählen Sie das erste zu deaktivierende Angebot aus.
 3.  Legen Sie für das Abonnement **suspended** fest, und klicken Sie anschließend auf **Übermitteln**.
@@ -140,21 +140,6 @@ Mit der **Exportfunktion** können Sie die Abonnements erfassen, die Sie in der 
 
 Weitere Informationen zur API-Registrierung finden Sie in [auf dieser Seite](https://go.microsoft.com/fwlink/?linkid=847990).
 
-## <a name="partner-center-activity-log"></a>Partner Center-Aktivitätsprotokoll
-
-
-Mithilfe des Aktivitätsprotokolls können Partner Informationen zu allen den Kunden betreffenden Änderungen anzeigen, die auf dem Mandanten vorgenommen wurden. Dies ermöglicht Partnern die Nachverfolgung von Änderungen an einem Kundenmandanten.
-
-**Anzeigen des Aktivitätsprotokolls**
-
-1.  Klicken Sie auf dem Partner Center-Dashboard auf den Link **Aktivitätsprotokoll**.
-2.  Sehen Sie sich auf der Seite **Aktivitätsprotokoll** die Änderungen an, die an Kundenkonten vorgenommen wurden. Wählen Sie zum Filtern des Aktivitätsprotokolls nach **Datum Start-** und **Enddatum** aus, um die ausgewählten Einträge im Protokoll einzuschränken. Verwenden Sie das Suchfeld, um im **Aktivitätsprotokoll** nach Kunde zu filtern.
-
-**Exportieren des Aktivitätsprotokolls**
-
--   Klicken Sie auf **Export log**, um die Daten Ihres Aktivitätsprotokolls in eine CSV-Datei zu exportieren.
-
-    Sie können auch die Kunden- und die Abonnementliste eines einzelnen Kunden exportieren (auf der Abonnementseite des Kunden).
 
  
 

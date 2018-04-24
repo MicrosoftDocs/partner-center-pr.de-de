@@ -1,12 +1,12 @@
 ---
 title: PartnerCenter-Konto erstellen | Partner Center
-description: "Mitglieder im Microsoft Partner Network müssen ein Partner Center-Konto erstellen, um ihre Netzwerkvorteile und Kompetenzen verwalten und ein Unternehmensprofil erstellen zu können."
+description: Mitglieder im Microsoft Partner Network müssen ein Partner Center-Konto erstellen, um ihre Netzwerkvorteile und Kompetenzen verwalten und ein Unternehmensprofil erstellen zu können.
 author: MaggiePucciEvans
-ms.openlocfilehash: 3020524ba6f41af31001a808af1d7a1aa394592a
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+ms.openlocfilehash: 3b1d54e3d95a7ea1bcad0643e685d9313c6ed978
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="create-a-partner-center-account"></a>Erstellen eines Partner Center-Kontos
 
@@ -18,7 +18,7 @@ ms.lasthandoff: 11/28/2017
 
 In diesem Artikel wird erläutert, wie ein Partner Center-Konto erstellen. Er ist für Partner gedacht, die ihrer Partner-Mitgliedschaftsinformationen aus dem Partner Membership Center in das Partner Center verschieben. 
 
-Damit Sie ein Konto in Partner Center erstellen oder sich für ein Partnerprogramm registrieren können, muss Ihre Organisation ein Mitglied des Microsoft Partner Network sein. Wenn Sie kein Mitglied des Netzwerks sind, können Sie [jetzt beitreten](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx). [Weitere Informationen](https://partner.microsoft.com/membership) über die Mitgliedschaft im Microsoft Partner Network.  
+Damit Sie ein Konto in Partner Center erstellen oder sich für ein Partnerprogramm registrieren können, muss Ihre Organisation ein Mitglied des Microsoft Partner Network sein. Wenn Sie kein Mitglied des Netzwerks sind, können Sie [jetzt beitreten](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  [Weitere Informationen](https://partner.microsoft.com/membership) über die Mitgliedschaft im Microsoft Partner Network.  
 
 Nachdem Sie ein Partner Center-Konto erstellt und Ihre Microsoft Partner Network-Mitgliedschaft verlängert haben, können Sie:
 
@@ -64,9 +64,9 @@ Wir werden diese Informationen während des Kontoerstellungsprozesses überprüf
 
 5.  Stellen Sie sicher, dass Sie der Administratorgruppe hinzugefügt wurden. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
 
-    a. Navigieren Sie im Menü **Dashboard** zu **Kontoeinstellungen > Benutzerverwaltung**, und wählen Sie dann in der Benutzerliste Ihren Namen aus. 
+    a. Wählen Sie im **Dashboard** das **Einstellungssymbol** aus und dann **Benutzerverwaltung**.  
 
-    b. Wählen Sie **Administrator-Agent** (sofern nicht bereits ausgewählt) und anschließend **Aktualisieren** aus. 
+    b. Wählen Sie Ihren Namen aus der Anwenderliste aus und dann **Administrator-Agent**, sofern nicht bereits ausgewählt. Wählen Sie **Update**.  
 
 ## <a name="next-steps"></a>Nächste Schritte
 

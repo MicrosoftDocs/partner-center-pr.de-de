@@ -1,13 +1,13 @@
 ---
 title: Multichannel | Partner Center
-description: "In einigen Fällen können Kunden Sie zum Bereitstellen und Unterstützen eines Abonnements einstellen, das sie an anderer Stelle erworben haben."
+description: In einigen Fällen können Kunden Sie zum Bereitstellen und Unterstützen eines Abonnements einstellen, das sie an anderer Stelle erworben haben.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
-ms.openlocfilehash: 2f0354c8e8e0f80bd42af363dc86b829b96b9bbf
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.openlocfilehash: bbba14ec95a99ad2f36cf9173d43fb244d3ca677
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="multi-channel-support"></a>Multichannel-Unterstützung
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 06/09/2017
 -  Partner Center für Microsoft Cloud für US-Behörden
 -  Partner Center für Microsoft Cloud Deutschland
 
-Das Multichannel-Feature in Partner Center unterstützt Szenarien, in denen ein Kunde einen Partner für die Verwaltung und den Support eines an anderer Stelle erworbenen Abonnements beauftragen möchte. Dieser Multichannel-Support ist in folgenden Fällen erforderlich:
+Das Multichannel-Feature in Partner-Dashboard unterstützt Szenarien, in denen ein Kunde einen Partner für die Verwaltung und den Support eines an anderer Stelle erworbenen Abonnements beauftragen möchte. Dieser Multichannel-Support ist in folgenden Fällen erforderlich:
 
 -   Der Kunde hat bereits Abonnements direkt von Microsoft oder über die Programme Advisor, Open oder EA erworben.
 
@@ -45,7 +45,7 @@ Das Multichannel-Feature in Partner Center unterstützt Szenarien, in denen ein 
 </table>
 
 >**Wichtig**<br>
-Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Ankündigungen der künftigen Versionen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner Center. 
+Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Ankündigungen der künftigen Versionen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich dem Partner-Dashboard. 
 
 ## <a name="see-also"></a>Weitere Informationen:
 

@@ -1,13 +1,13 @@
 ---
 title: Umsatzsteigerung mit Empfehlungen von Microsoft | Partner Center
-description: "Generieren Sie Geschäftsleads, und nehmen Sie Kontakt zu Kunden auf, die Unterstützung bei der Implementierung von Microsoft-Produkten und -Lösungen benötigen."
+description: Generieren Sie Geschäftsleads, und nehmen Sie Kontakt zu Kunden auf, die Unterstützung bei der Implementierung von Microsoft-Produkten und -Lösungen benötigen.
 author: KPacquer
 keywords: Empfehlungen, Unternehmensprofil, Partner suchen
-ms.openlocfilehash: a654991846cddb86d936b2f79fa1eccb9c6a3d38
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
+ms.openlocfilehash: b73feb1df95e7ed7cea4c8a39d9be6d986309f84
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 04/08/2018
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -21,7 +21,7 @@ Viele Kunden suchen nach qualifizierten Experten, die bei der Implementierung de
 
 Wir möchten für Sie eine Verbindung mit Kunden herstellen, die Ihre Lösungen und das Fachwissen benötigen. Der wichtigste Schritt, Vertriebskontakte von uns zu erhalten ist unter [Erstellen eines Unternehmensprofils](create-a-marketing-profile.md), auf denen Sie Beispiele zu Angeboten, Lösungen und dem Fachwissen Ihres Unternehmens finden. Ihr Unternehmensprofil wird auf allen Orten aufgeführt, auf denen Kunden und interne Microsoft-Vertreter nach qualifizierten Partnern suchen. 
 
- Nachdem Sie Ihr Unternehmensprofil veröffentlicht haben können Sie Vertriebskontakten über die Funktion "Empfehlungen" im Partner Center erhalten. Es ist wichtig, auf Empfehlungen im erforderlichen Zeitraum zu reagieren, um weiterhin Leads zu erhalten und vor allen Dingen, Geschäfte zu gewinnen. Ausführliche Informationen über das Verwalten von Vertriebskontakten im Partner Center finden Sie unter [Antworten auf Empfehlungen](responding-to-referrals.md).  
+ Nachdem Sie Ihr Unternehmensprofil veröffentlicht haben können Sie Vertriebskontakten über die Funktion "Empfehlungen" im Partner-Dashboard erhalten. Es ist wichtig, auf Empfehlungen im erforderlichen Zeitraum zu reagieren, um weiterhin Leads zu erhalten und vor allen Dingen, Geschäfte zu gewinnen. Ausführliche Informationen über das Verwalten von Vertriebskontakten im Partner-Dashboard finden Sie unter [Antworten auf Empfehlungen](responding-to-referrals.md).  
 
 Viel Glück!
 

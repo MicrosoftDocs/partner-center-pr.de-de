@@ -4,11 +4,11 @@ description: Nachdem Sie für Ihre Kunden einen Datensatz in Partner Center erst
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
-ms.openlocfilehash: d05ac5683a9f8c7f620debc57966247a1b7a50d2
-ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
+ms.openlocfilehash: 5bb34d1b98cf8890bcc092c4fe6c8dbe502ed4a1
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/01/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Anhalten oder Abbrechen von Kundenabonnements
 
@@ -18,9 +18,9 @@ ms.lasthandoff: 03/01/2018
 -  Partner Center für Microsoft Cloud für US-Behörden
 -  Partner Center für Microsoft Cloud Deutschland
 
-Nachdem Sie für Ihre Kunden einen Datensatz in Partner Center erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen.
+Nachdem Sie für Ihre Kunden einen Datensatz in Partner-Dashboard erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen.
 
-Bitte beachten Sie, dass bestimmte Angebote auf ein Abonnement pro Kunde beschränkt sind. Eine Liste der eingeschränkten Angebote finden Sie im Partner Center auf der Seite für Preise und Angebote. 
+Bitte beachten Sie, dass bestimmte Angebote auf ein Abonnement pro Kunde beschränkt sind. Eine Liste der eingeschränkten Angebote finden Sie im Partner-Dashboard auf der Seite für Preise und Angebote. 
 
 
 **Erstellen eines neuen Abonnements**

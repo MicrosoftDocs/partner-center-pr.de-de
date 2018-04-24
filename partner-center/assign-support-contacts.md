@@ -1,14 +1,14 @@
 ---
 title: Zuweisen von Supportkontakten | Partner Center
-description: "Als Händlerpartner können Sie einen Händler als Supportkontakt bestimmen."
+description: Als Händlerpartner können Sie einen Händler als Supportkontakt bestimmen.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
 keywords: Hilfeagent, Support, Supportkontakt zuweisen, zugewiesener Supportkontakt
-ms.openlocfilehash: dd69715d77fc94f24e93c3ecfbd26f145e84c332
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: f67d314ca0e6fe70cdaba70395f1e80a7e049b88
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="assign-support-contacts"></a>Zuweisen von Supportkontakten
 
@@ -16,9 +16,9 @@ ms.lasthandoff: 12/21/2017
 
 -  Partner Center
 
-Wenn Sie Abonnements für Microsoft-Dienste für Ihre Kunden einrichten, können Sie den technischen Support für diese Produkte einem festgelegten Produkthändler zuweisen, anstelle den Support selbst bereitzustellen.
+Wenn Sie Abonnements für Microsoft-Dienste für Ihre Kunden einrichten, können Sie den technischen Support für diese Produkte einem festgelegten Händler zuweisen, anstelle den Support selbst bereitzustellen.
 
-Nach dem Einrichten von Supportkontakten sehen die Kunden die Informationen Ihrer persönlichen Supportkontakte auf den Produktsupportseiten. Beispiel: Wenn Office-Kunden Unterstützung benötigen, können Sie sich auf der Seite Office.com mit ihren Administratoranmeldeinformationen anmelden, die Kachel **Administrator** wählen und im Abschnitt **Support** die Informationen des zugewiesenen Supportkontakts anzeigen.
+Nach dem Einrichten von Supportkontakten sehen die Kunden die Informationen Ihrer persönlichen Supportkontakte auf den Produktsupportseiten. Beispiel: Wenn Office 365-Kunden Unterstützung benötigen, können Sie sich auf der Seite Office.com mit ihren Administratoranmeldeinformationen anmelden, die Kachel **Administrator** wählen und im Abschnitt **Support** die Informationen des zugewiesenen Supportkontakts anzeigen.
 
 Dies kann für [Multipartner](multipartner.md)- und [Multichannel](multichannel.md)-Szenarien verwendet werden. 
 
@@ -27,7 +27,7 @@ Dies kann für [Multipartner](multipartner.md)- und [Multichannel](multichannel.
 
 1.  Beginnen Sie, in dem Sie beim angegebenen Produkthändler [eine Beziehung anfordern](request-a-relationship-with-a-customer.md). Handeln Sie einen Support-Vertrag mit ihnen für den technischen Support aus.
 
-2.  Wählen Sie auf dem Partner Center-Dashboard **Kunden** einen Kunden und dann ein Abonnement aus, z.B. Office365 Business Premium.
+2.  Wählen Sie auf dem Partner-Dashboard **Kunden** einen Kunden und dann ein Abonnement aus, z.B. Office365 Business Premium.
 
 3.  Wählen Sie unter **Designated support contact** den angegebenen Produkthändler aus, und klicken Sie dann auf **Übermitteln**. 
 

@@ -3,11 +3,11 @@ title: Microsoft Partner Network-Mitgliedschaft | Partner Center
 description: Informationen zu den Vorteilen des Beitritts zum Microsoft Partner Network.
 author: MaggiePucciEvans
 keywords: Partner, Partnerschaft, MPN, Microsoft Partner Network Action Pack, MAPS, Aktion Pack-Abonnement, Vorteile, MPN-Vorteile, Mitgliedschaft
-ms.openlocfilehash: 55781109f58c424ee7bdbd5be80ca13cc49f612b
-ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
+ms.openlocfilehash: b6e50f92769aeafa4a06671ef7372b1aac9ac80a
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="partner-with-microsoft"></a>Partner von Microsoft
 
@@ -36,15 +36,15 @@ Das Microsoft Partner Network bietet Ihnen drei Arten der Mitgliedschaft. Jeder 
     [Weitere Informationen zu Silber- und Gold-Kompetenzen](https://partner.microsoft.com/membership/competencies)
 
    
-## <a name="get-started-with-partner-center"></a>Erste Schrittemit Partner Center
+## <a name="get-started-with-the-partner-dashboard"></a>Erste Schrittemit dem Partner-Dashboard
 
-Um die Partnerschaft von Microsoft einfacher zu gestalten und Zeit und Geld zu sparen, arbeiten wir im Hintergrund, um Funktionen, Features und Arbeitsabläufe zu verbessern, die derzeit über mehrere Websites verteilt sind sowie Tools für das Partner Center. 
+Um die Partnerschaft von Microsoft einfacher zu gestalten und Zeit und Geld zu sparen, arbeiten wir im Hintergrund, um Funktionen, Features und Arbeitsabläufe zu verbessern, die derzeit über mehrere Websites verteilt sind sowie Tools für das Partner-Dashboard. 
 
-Während wir bestimmte Funktionen in das Partner Center verschieben, beenden wir die ältere Websites, auf der es enthalten war. Um weiterhin diese Features nutzen zu können, müssen Sie ein Konto auf dieser Website, Partner Center, erstellen. 
+Während wir bestimmte Funktionen in das Partner-Dashboard verschieben, beenden wir die ältere Websites, auf der es enthalten war. Um weiterhin diese Features nutzen zu können, müssen Sie ein Konto auf dieser Website, Partner-Dashboard, erstellen. 
 
-Wenn Sie beispielsweise Empfehlungen über Pinpoint erhalten und verwaltet haben und die Website beendet wurde, befinden sich jetzt alle empfehlungsbezogenen Funktionen im Partner Center. Führen Sie die folgenden Schritte durch, um im Partner Center zu beginnen:   
+Wenn Sie beispielsweise Empfehlungen über Pinpoint erhalten und verwaltet haben und die Website beendet wurde, befinden sich jetzt alle empfehlungsbezogenen Funktionen im Partner-Dashboard. Führen Sie die folgenden Schritte durch, um im Partner-Dashboard zu beginnen:   
 
--   [Erstellen eines Partner Center-Kontos](mpn-create-a-partner-center-account.md)
+-   [Erstellen Sie ein Partner-Dashboard-Konto](mpn-create-a-partner-center-account.md)
 
 -   [Erstellen Sie ein Unternehmensprofil, um Kundenempfehlungen zu erhalten.](create-a-marketing-profile.md)
 

@@ -1,23 +1,24 @@
-# [Informationen zum Microsoft Partner Center](index.md)
+# [Informationen zum Microsoft Partner-Dashboard](index.md)
 
-# Einem Partnerprogramm beitreten
-## [Microsoft Partner Network](mpn-overview.md)
-### [Kauf oder Verlängerung eines Microsoft Action Pack-Abonnements](mpn-get-action-pack.md)
-### [Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile](manage-your-partner-network-benefits.md)
+# [Partner Network-Mitgliedschaft](mpn-overview.md)
+## [Microsoft Action Pack erwerben](mpn-get-action-pack.md)
+## [Silber oder Gold-Mitgliedschaft erhalten](learn-about-competencies.md)
+## [Microsoft Partner Network-Mitgliedschaftsvorteile erhalten](manage-your-partner-network-benefits.md)
 
-## [Cloud Solution Provider](csp-overview.md)
-### [Registrieren für das Programm für Cloud Solution Provider](enrolling-in-the-csp-program.md)
-### [CSP-Vereinbarungen, Preislisten und Angebote](csp-documents-and-learning-resources.md)
-### [Vorlagen für Kundenverträge](agreements.md)
+
+# [Cloud Solution Provider](csp-overview.md)
+## [Registrieren für das Programm für Cloud Solution Provider](enrolling-in-the-csp-program.md)
+## [CSP-Vereinbarungen, Preislisten und Angebote](csp-documents-and-learning-resources.md)
+## [Vorlagen für Kundenverträge](agreements.md)
 
 ## [Bewerben für den Verkauf in nationalen Clouds](csp-national-clouds-overview.md)
-### [Partner Center für Microsoft Cloud für US-Behörden](partner-center-for-microsoft-us-govt-cloud.md)
-### [Partner Center für Microsoft Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md)
+### [Partner-Dashboard für Microsoft Cloud für US-Behörden](partner-center-for-microsoft-us-govt-cloud.md)
+### [Partner-Dashboard für Microsoft Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md)
 
-# [Verwalten Ihres PartnerCenter-Kontos](partner-center-account-setup.md)
-## [Arbeitskonten und Partner Center](azure-active-directory-tenants-and-partner-center.md)
+# [Verwalten Ihres Partner-Dashboard-Kontos](partner-center-account-setup.md)
+## [Arbeitskonten und Partner-Dashboard](azure-active-directory-tenants-and-partner-center.md)
 ## [Aktualisieren von Partnerprofilen](update-your-partner-profile.md)
-## [Wiederherstellen ausgesetzter PartnerCenter-Konten](suspended-partner-center-account.md)
+## [Wiederherstellen ausgesetzter Partner-Dashboard-Konten](suspended-partner-center-account.md)
 ## [Erstellen von Benutzerkonten und Festlegen von Berechtigungen](create-user-accounts-and-set-permissions.md)
 ## [Zurücksetzen von Benutzerkennwörtern](reset-a-user-password.md)
 ## [Hinzufügen von Azure Partner Shared Services](shared-services.md)
@@ -54,12 +55,12 @@
 # [Kundenabonnements](customer-subscriptions.md)
 ## [Erstellen, Anhalten oder Abbrechen von Kundenabonnements](create-a-new-subscription.md)
 ## [Anbieten von Testversionen von Microsoft-Produkten für Kunden](offer-your-customers-trials-of-microsoft-products.md)
-## [Zuweisen von Azure-Abonnements in Partner Center](assign-azure-subscriptions.md)
+## [Zuweisen von Azure-Abonnements im Partner-Dashboard](assign-azure-subscriptions.md)
 ## [Zuweisen von Lizenzen an Benutzer](assign-licenses-to-users.md)
 ## [Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement](add-licenses-or-services-to-an-existing-subscription.md)
 ## [Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer](bulk-license-provisioning-for-multiple-users.md)
-## [Verschieben von lizenzbasierten Services-Kunden zum Clouddienstanbieter-Programm im Partner Center](transition-seat-based-services.md)
-## [Migrieren von Dynamics AX-Abonnements zu Dynamics 365](manual-subscription-migration.md)
+## [Verschieben von lizenzbasierten Services-Kunden zum Clouddienstanbieter-Programm im Partner-Dashboard](transition-seat-based-services.md)
+## [Upgrade von Dynamics AX-Abonnements zu Dynamics 365](manual-subscription-migration.md)
 ## [Migrieren von Abonnements für Office365 Enterprise E4 zu neueren Versionen von Office365](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ## [Übertragen von Azure-Abonnements](switch-azure-subscriptions-to-a-different-partner.md)
 ## [Minecraft: Education Edition-Abonnements verkaufen](minecraft-subscriptions.md)
@@ -68,18 +69,18 @@
 ## [Mandantenkonsolidierung für regionale CSP-Autorisierung](csp-regional-authorization-tenant-consolidation.md)
 ## [Vereinfachen der Geräteinstallation mit Windows Autopilot](autopilot.md)
 
-# Partner Center-Daten und Analysen
+# Partner-Dashboard-Daten und Datenanalyse
 ## [Daten zum Analysieren Ihres Unternehmens](data-analysis-lp.md)
 ## [Partner Center Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners.md)
 
 # [Zusammenarbeit mit anderen Partnern](work-with-other-partners.md)
-## [Aufgaben indirekter Anbieter im Partner Center](indirect-provider-tasks-in-partner-center.md)
-## [Aufgaben indirekter Wiederverkäufer im Partner Center](indirect-reseller-tasks-in-partner-center.md)
+## [Aufgaben indirekter Anbieter im Partner-Dashboard](indirect-provider-tasks-in-partner-center.md)
+## [Aufgaben indirekter Händler im Partner-Dashboard](indirect-reseller-tasks-in-partner-center.md)
 ## [Multichannel](multichannel.md)
 ## [Multipartner](multipartner.md)
 
 # [Support von Microsoft](support-from-microsoft.md)
-## [Melden von Problemen mit dem Partner Center](report-problems-with-partner-center.md)
+## [Melden von Problemen mit Partner-Dashboard](report-problems-with-partner-center.md)
 ## [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md)
 ## [Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs](get-automated-service-notifications-with-our-apis.md)
 

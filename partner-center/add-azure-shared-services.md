@@ -1,6 +1,6 @@
 ---
-title: "Azure Partner Shared Services für Azure Partner verfügbar | Partner Center"
-description: "CSP-Partner können nun Azure-Abonnements zur eigenen Verwendung erwerben."
+title: Azure Partner Shared Services für Azure Partner verfügbar | Partner Center
+description: CSP-Partner können nun Azure-Abonnements zur eigenen Verwendung erwerben.
 author: labrenne
 Keywords: Azure, gemeinsame Dienste, Mandant
 ms.openlocfilehash: 859e4a1b08e26f2370493ad611a6126b74aeaf64

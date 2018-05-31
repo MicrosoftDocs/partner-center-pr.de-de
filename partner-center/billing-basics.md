@@ -3,18 +3,19 @@ title: Grundlagen zur Abrechnung | Partner Center
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: Abrechnung, Zahlungen, Aufträge, Abbruch, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Abstimmungsdateien, Abstimmungsdatei
-ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 87e8dc8620a31ccbcdcd6e6b2987f8d304d62541
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 05/10/2018
+ms.locfileid: "1867482"
 ---
 # <a name="billing-basics"></a>Grundlagen zur Abrechnung
 
 **Betrifft:**
 
 -  Partner Center
--  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud for US Government
 -  Partner Center für Microsoft Cloud Deutschland
 
 ## <a name="overview-of-billing"></a>Übersicht über die Abrechnung
@@ -144,3 +145,32 @@ Azure verwendet das Modell der nutzungsbasierten Bezahlung, bei der Ihnen nur ge
 </tbody>
 </table>
 
+## <a name="one-time-billing"></a>Einmalige Gebühr
+
+Partner im Cloud Solution Provider-Programm (CSP) können Angebote ihren Kunden reservierte Instanzen auf Microsoft Azure-VMs anbieten. Kunden können virtuelle Maschinen im Voraus reservieren – für ein Jahr oder drei Jahre – und erhebliche Einsparungen bei der Azure-Nutzung erhalten.   
+
+Die Kunden bezahlen im Voraus für Azure Reserved VM Instances. Wenn Sie Azure Reserved VM Instances im Auftrag eines Kunden kaufen, erhalten Sie Rechnungen und Abgleichungsdateien für die einmaligen Gebühren. 
+
+>[!IMPORTANT]
+>Wenn Sie Azure Reserved VM Instances für einen Kunden in einem Markt mit einer anderen Währung, als der standardmäßigen Währung erwerben, basiert die Abrechnung auf dem Markt des Kunden, nicht Ihrem Standort. Wenn Sie Kunden in mehreren Märkten haben, erhalten Sie verschiedene Rechnungen und Abgleichungsdateien für jede Währung der Kunden, die in Rechnung gestellt werden, damit Ihre Kunden in der entsprechenden Währung in Rechnung gestellt werden. 
+
+Um auf einmalige Rechnungen und Abgleichungsdateien zuzugreifen, wählen Sie **Abrechnung** von Ihrem Partner-Dashboard und dann **einmal**. 
+
+### <a name="manage-your-one-time-billing"></a>Die einmalige Gebühr verwalten
+
+#### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>Anzeigen des aktuellen Abrechnungsstatus, Rechnungen und Abstimmungsdateien
+
+1.  Wählen Sie in Partner-Dashboard **Abrechnung** und **einmal** aus, um Ihren Rechnungsstatus anzuzeigen. 
+2.  Wählen Sie eine Rechnung oder Abstimmungsdatei, um ausführlichere Informationen anzuzeigen. 
+
+#### <a name="view-a-customers-order-history"></a>Bestellverlauf eines Kunden anzeigen
+
+1.  Wählen Sie im Menü Dashboard die Option **Kunden** aus.
+2.  Auf der Seite **Kunden**, suchen Sie den Kunden, deren Bestellverlauf Sie anzeigen möchten, und wählen Sie dann den Pfeil nach unten, um den Datensatz des Kunden zu erweitern. 
+3.  Wählen Sie **Aufträge anzeigen**, um den Bestellverlauf anzuzeigen.
+
+#### <a name="create-a-credit-or-void-note"></a>Erstellen Sie eine Gutschrift oder eine leere Rechnung
+
+Zu einem bestimmten Zeitpunkt müssen Sie möglicherweise eine Rechnung stornieren und eine neue ausstellen. Beispielsweise kann ein Kunde den Namen der Geschäftsabläufe ändern, und dann eine Rechnung mit dem alten Namen erhalten. 
+
+Um eine Rechnung zu stornieren und eine neue auszustellen, laden Sie das Formular aus der Abrechnungsseite unter „Anpassen” herunter.

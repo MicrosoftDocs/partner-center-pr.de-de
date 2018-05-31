@@ -3,18 +3,19 @@ title: Verwenden der Abstimmungsdateien | Partner Center
 description: Laden Sie die Abgleichungsdateien aus dem PartnerCenter-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 51716e8abedf83237050cb51bc76e54a954cd28b
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 05/10/2018
+ms.locfileid: "1867452"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud for US Government
 -  Partner Center für Microsoft Cloud Deutschland
 
 Laden Sie die Abgleichungsdateien aus dem PartnerCenter-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen. Zu diesen Informationen zählen Gebühren für die einzelnen Abonnements von Kunden und ausführliche Ereignisinformationen (wie z.B. das Hinzufügen von Arbeitsplätzen zu einem Abonnement mitten in einem Abrechnungszeitraum).
@@ -204,7 +205,7 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Kundendomänenname: wird zur Identifizierung des Kunden verwendet.</p></td>
+<td><p>Kundendomänenname: wird zur Identifizierung des Kunden verwendet. Dieses Feld wird bis zum zweiten Rechnungszyklus leer angezeigt.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -448,7 +449,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Kundendomänenname: wird zur Identifizierung des Kunden verwendet.</p></td>
+<td><p>Kundendomänenname: wird zur Identifizierung des Kunden verwendet. Dieses Feld wird bis zum zweiten Rechnungszyklus leer angezeigt.</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -458,6 +459,34 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 </tbody>
 </table>
+
+## <a href="" id="onetimefiles"></a>Feld für das einmalige Erwerben der Datei
+
+|**Feld** |**Definition**|
+|:----------------|:-----------------------------|
+|PartnerID |Partner-ID im GUID-Format. |
+|Kunden-ID |Eindeutige Microsoft-ID im GUID-Format: wird zur Identifizierung des Kunden verwendet. |
+|CustomerName |Firmenname des Kunden wie im Partner Center angegeben. Dies ist sehr wichtig für die Abstimmung der Rechnung mit Ihren Systeminformationen. |
+|CustomerDomainName |Domänenname des Kunden. |
+|CustomerCountry |Land, in dem sich der Kunde befindet. |
+|InvoiceNumber |Rechnungsnummer, in der die angegebene Transaktion angezeigt wird. |
+|MPNID |Die MPN-ID des CSP Partners (direkt oder indirekt). |
+|MPN-ID der Handelspartner |Wird nur in den Abstimmungsdateien für Partner im indirekten Modell angezeigt. Die MPN-ID des registrierten Handelspartners für die Reservierung. Dies entspricht der Handelspartner-ID, die für die spezifische Reservierung im Partner Center aufgeführt ist. Wenn ein CSP-Partner die Reservierung direkt an den Kunden veräußert hat, wird seine MPN-ID zweimal aufgeführt: als MPN-ID und als MPN-ID des Handelspartners. Wenn ein CSP-Partner über einen Handelspartner ohne MPN-ID verfügt, wird dieser Wert stattdessen auf die MPN-ID des Partners festgelegt. Wenn der CSP-Partner eine Handelspartner-ID entfernt, wird dieser Wert auf-1 festgelegt. |
+|OrderID |Eindeutiger Bezeichner für eine Bestellung auf der Microsoft-Abrechnungsplattform. Kann beim Kontakt zum Support zum Identifizieren von Azur Reservations hilfreich sein, jedoch nicht zur Abstimmung. |
+|Bestellungsdatum |Der Zeitpunkt der Auftragserstellung. |
+|ProductId |Die ID für das Produkt. |
+|SkuID  |Die ID für eine bestimmte SKU. |
+|AvailabilityId |Die ID für eine bestimmte Verfügbarkeit. "Verfügbarkeit" bezieht sich darauf, ob eine bestimmte SKU für ein bestimmtes Land, Währung, Branche usw. erhältlich ist. |
+|SkuName  |Titel für eine bestimmte SKU. |
+|ProductName |Name des Produkts. |
+|ChargeType |Art der Gebühren oder der Anpassung. |
+|UnitPrice |Preis pro bestelltem Produkt. |
+|Anzahl |Anzahl der bestellten Produkte. |
+|Zwischensumme |Gesamtbetrag vor Steuern Überprüft, ob bei Rabatten Ihre Zwischensumme mit dem erwarteten Gesamtbetrag übereinstimmt. |
+|TaxTotal |Die Summe aller anwendbaren Steuern. |
+|Gesamt |Dies ist die Gesamtanzahl der Käufe. |
+|Währung |Währungstyp Jede Abrechnungsentität verfügt nur über eine Währung. Überprüft auf Übereinstimmung in Ihrer ersten Rechnung und nach jedem großen Update der Abrechnungsplattform. |
+|DiscountDetails |Detaillierte Liste der relevanten Rabatte. |
 
 
 

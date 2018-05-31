@@ -2,11 +2,12 @@
 title: Registrieren für das Programm für Cloud Solution Provider | Partner Center
 description: Grundlegendes zu den verschiedenen Modellen für den Verkauf in CSP und herausfinden, welche Lösung am besten zu Ihrem Unternehmen passt
 author: labrenne
-ms.openlocfilehash: f1f5fcdda8c162ae42fb5d619c8ee04e420b4c8c
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 3fb617c78ac0120c2f1588022441469fa0345708
+ms.sourcegitcommit: f6681a0bd9f09242b3544448573d30f5a0aa1f3c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 04/26/2018
+ms.locfileid: "1808661"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud Solution Provider
 
@@ -29,6 +30,7 @@ Die Überprüfung Ihrer Angaben kann mehrere Tage dauern. Wir werden Sie per E-M
 
 ### <a name="enroll-as-an-indirect-reseller"></a>Sich als indirekter Wiederverkäufer registrieren
 
+
 1. Nachdem Sie sich als indirekten Händler registriert haben, müssen Sie [einen indirekten Anbieter](https://partnercenter.microsoft.com/partner/find-a-provider) finden. Der Anbieter, mit dem Sie zusammenarbeiten, sendet Ihnen Kunden, verwalten den Erwerb der Software, die Sie verkaufen und erledigt die Kundenabrechnung und den Support, damit Sie sich auf den Aufbau Ihres Reseller-Geschäfts konzentrieren können.
 
 2. Der globale Administrator sollte Ihr Konto im Partner-Dashboard einrichten. Der globale Administrator kann Mitarbeiter Ihrer Organisation hinzufügen, die im Partner-Dashboard arbeiten und Ihnen je nach deren Arbeit Rollen und Berechtigungen zuweisen sowie das Organisationsprofil einrichten.
@@ -39,7 +41,7 @@ Die Überprüfung Ihrer Angaben kann mehrere Tage dauern. Wir werden Sie per E-M
 
 ### <a name="enroll-as-a-direct-partner"></a>Sich als direkter Partner registrieren
 
->**Hinweis:**<br> Wir sind gerade dabei, unsere Anforderungen für direkte Partneranmeldungen zu aktualisieren und akzeptieren derzeit keine neuen Anwendungen. Wir planen, den Bewerbungsprozess ab CY18 Q2 wieder zu eröffnen. Ziehen Sie eine Registrierung als indirekter Händler in Erwägung.
+>**Hinweis:**<br> Wir sind gerade dabei, unsere Anforderungen für direkte Partneranmeldungen zu aktualisieren und akzeptieren derzeit keine neuen Anwendungen. Wir planen, den Bewerbungsprozess ab dem 31. August wieder zu eröffnen. Ziehen Sie eine Registrierung als indirekter Händler in Erwägung. 
 
 Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit Microsoft.
 

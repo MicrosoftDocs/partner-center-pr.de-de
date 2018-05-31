@@ -1,26 +1,27 @@
 ---
 title: Informationen zu Ihrer Rechnung | Partner Center
-description: "Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar. Sie steht über das Partner Center-Dashboard zur Verfügung."
+description: Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar. Sie steht über das Partner Center-Dashboard zur Verfügung.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-keywords: "Abonnementabrechnungen, Abrechnung, Abrechnung im Partner Center, Partner Center-Abrechnung, meine Rechnung lesen, Rechnung, Rechnung für Partner Center, CSP-Abrechnung, wo ist meine Rechnung?"
-ms.openlocfilehash: d24c9ad9ac90597c8e56843a25a69b9108c020d2
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+keywords: Abonnementabrechnungen, Abrechnung, Abrechnung im Partner Center, Partner Center-Abrechnung, meine Rechnung lesen, Rechnung, Rechnung für Partner Center, CSP-Abrechnung, wo ist meine Rechnung?
+ms.openlocfilehash: ce930f95eb14405e46a371fb85fc9af02f39db73
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 05/10/2018
+ms.locfileid: "1867462"
 ---
 # <a name="read-your-bill"></a>Informationen zu Ihrer Rechnung
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud for US Government
 -  Partner Center für Microsoft Cloud Deutschland
 
 Die Abrechnung befindet sich im Menü **Dashboard** unter **Abrechnung**. Dort können Sie Ihren Abrechnungsverlauf und -trend, Links zu Ihrer Rechnung und zu den Abstimmungsdateien sowie Ihre letzte Zahlung anzeigen.
 
-Partner im Cloud-Lösungsanbieter-Programm mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte und die nutzungsbasierte Abonnements).
+Partner im Cloud Solution Provider-Programm mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte und die nutzungsbasierte Abonnements).
 
 >**Hinweis:**<br>
 Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und Kundenübergreifend) für den aktuellen Monatszeitraum dar und ist innerhalb von vier (4) Tagen nach Ablauf des ausgewählten Abrechnungsdatums verfügbar.
@@ -97,29 +98,44 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 <td>Rechnungsdatum</td>
 <td>Das Ausstellungsdatum Ihrer Rechnung.</td>
 </tr>
+
 <tr class="odd">
+<td>Zahlungsbedingungen</td>
+<td>Für einmalige Einkäufe wird dies immer 60Tage sein.</td>
+</tr>
+
+
+<tr class="even">
 <td>Fälligkeitsdatum der Zahlung</td>
 <td>Ihre Zahlung muss bis zu diesem Datum eingegangen sein.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Name des Kunden</td>
 <td>Ihre Bestellnummer.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Kundendienst</td>
 <td>Die Adresse der Kundendienst-Website.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Dienstempfänger</td>
 <td>Die Adresse, an der der Dienst verwendet wird. (Dies ist die rechtlich gültige Unternehmensadresse. Sie ist mit der Unternehmensprüfung verknüpft und kann nicht geändert werden.)</td>
 </tr>
 </tbody>
 </table>
 
- 
+## <a name="itemized-list-of-one-time-charges"></a>Detaillierte Liste einmaliger Gebühren
 
- 
-
+|**Feld** |**Definition**|
+|:----------------|:-----------------------------|
+|Datum |Kaufdatum. |
+|Beschreibung |Produktname. |
+|Anzahl |Die Anzahl von erworbenen Produkten (Reservierungen etc). |
+|Preis pro Einheit |Preis pro Produkt (Reservierungen etc). |
+|Rabatte |Alle anwendbaren Rabatte. |
+|Vorsteuerbetrag |Zwischensumme vor Steuern. |
+|Mehrwertsteuer |Steuerbetrag. |
+|Gesamt |Zahlungen gesamt. |
  
 
 

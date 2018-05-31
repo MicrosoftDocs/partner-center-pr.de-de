@@ -4,11 +4,12 @@ description: Azure Cost Management von Cloudyn erfordert einen Zugriff über die
 author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
-ms.openlocfilehash: 01553b850d5839d721de5406c3f1c63094f76bd6
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 1b778dee20e449f778b9a67ea681a9ee9a430c8c
+ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 05/11/2018
+ms.locfileid: "1873778"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>App zum Azure-Kostenmanagement für Azure CSP-Partner  
 
@@ -20,16 +21,17 @@ ms.lasthandoff: 04/08/2018
 
 ## <a name="before-you-begin"></a>Vorbemerkungen
 Bevor Sie Azure Cost Management verwenden können, sollten Sie die folgenden Anforderungen erfüllen:
-- Sie sind Partner im Cloud-Lösungsanbieter-Programm.
-- Sie haben die Möglichkeit, eine Partner-Dashboard-API-Web-App zu erstellen.
+
+- Sie sind Partner im Cloud Solution Provider-Programm.
+- Sie haben die Möglichkeit, eine Partner Center-API-Web-App zu erstellen.
 
 ## <a name="overview"></a>Übersicht
 
-Azure Cost Management von Cloudyn ist eine Web-App, mit dem Sie die Azure-Nutzung Ihrer Kunden und die Kosten dieser Nutzung nachverfolgen und verwalten können. Sie können die App über die Partner-Dashboard-API nutzen.
+Azure Cost Management von Cloudyn ist eine Web-App, mit dem Sie die Azure-Nutzung Ihrer Kunden und die Kosten dieser Nutzung nachverfolgen und verwalten können. Sie können die App über die Partner Center-API nutzen.
 
-## <a name="register-your-web-app-in-the-partner-dashboard"></a>Registrieren Ihrer Web-App im Partner-Dashboard
-Wenn Sie eine Azure Active Directory-Web-App im Partner-Dashboard registrieren, können Sie auf die Partner-Dashboard-API zugreifen. 
-1.  Melden Sie sich beim [Partner-Dashboard](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview) mit einem [globalen Administratorkonto oder Administrator-Agentkonto](create-user-accounts-and-set-permissions.md) an.
+## <a name="register-your-web-app-in-the-partner-center"></a>Registrieren Ihrer Web-App im Partner Center
+Wenn Sie eine Azure Active Directory-Web-App im Partner Center registrieren, können Sie auf die Partner Center-API zugreifen. 
+1.  Melden Sie sich beim [Partner Center](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview) mit einem [globalen Administratorkonto oder Administrator-Agentkonto](create-user-accounts-and-set-permissions.md) an.
 2.  Wählen Sie im **Dashboard** **Kontoeinstellungen** &gt; **[App-Verwaltung](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)** aus.
 3.  Klicken Sie im Abschnitt **Web-app** auf **Neue Web-App hinzufügen**.
 <br> **Hinweis:**: Wenn Sie bereits zuvor eine Web-App erstellt haben, können Sie Schritt3 überspringen.
@@ -44,7 +46,7 @@ Wenn Sie eine Azure Active Directory-Web-App im Partner-Dashboard registrieren, 
 ## <a name="next-steps"></a>Nächste Schritte
 Starten Sie mit einer [kostenlosen 30-Tage-Testversion](https://go.microsoft.com/fwlink/?linkid=857895).
 Zum Start der Testversion benötigen Sie folgende Informationen:
-- Anmeldeinformationen für das Partner-Dashboard
+- Anmeldeinformationen für das Partner Center
 - Commerce-ID-GUID
 - App-ID-GUID
 - Geheimer Anwendungsschlüssel

@@ -3,18 +3,19 @@ title: Häufig gestellte Fragen zu neuen Abrechnungsfunktionen | Partner Center
 Description: The following are frequently asked questions about Partner Center's annual billing and free trial features.
 ms.assetid: ''
 author: MaggiePucciEvans
-ms.openlocfilehash: 31c6625226fa24d56861739865c5988c9da260d0
-ms.sourcegitcommit: 770e46901be73dd18f0a95f1f813cbb102b4fd2e
+ms.openlocfilehash: 9cb79ba60c06d273bcf2d6435d9146c4920b3ace
+ms.sourcegitcommit: f1abc58390563a61a3a2678a7420cd54dfbe2d38
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/15/2018
+ms.lasthandoff: 06/01/2018
+ms.locfileid: "1936229"
 ---
 # <a name="faq-about-new-billing-features"></a>Häufig gestellte Fragen zu neuen Abrechnungsfunktionen
 
 **Betrifft:**
 
 -  Partner Center
--  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud for US Government
 -  Partner Center für Microsoft Cloud Deutschland
 
 Im folgende sind häufig gestellte Fragen zur jährlichen Abrechnung und kostenlose Testphase von Partner Center aufgeführt. 
@@ -133,7 +134,7 @@ Abschnitte:
 
 -   **A:** Ja. Sie können die Anzahl der Lizenzen für Ihre Abonnements jederzeit ändern. Das Hinzufügen von zusätzlichen Lizenzen wirkt sich nicht auf die Abrechnungshäufigkeit aus. 
 
-**F:**Kann ich Lizenzen mit monatlicher Abrechnung zu einem vorhandenen Abonnement mit jährlicher Abrechnung hinzufügen? 
+**F:** Kann ich Lizenzen mit monatlicher Abrechnung zu einem vorhandenen Abonnement mit jährlicher Abrechnung hinzufügen? 
 
 -   **A:** Nach dem Kauf eines Abonnement mit jährlicher Abrechnung gilt dieser Abrechnungsrhythmus für alle zusätzlichen Lizenzen. Wenn Sie Lizenzen mit einem monatlichen Abonnement benötigen, müssen Sie ein neues Abonnement kaufen.
 
@@ -379,7 +380,7 @@ Abschnitte:
 
 Die Anpassung des Abrechnungsdatums für neue Abonnements mit monatlicher Abrechnung wird ab dem 21. Februar 2018 im Cloud Solution Provider (CSP)-Programm implementiert. Diese „Anpassung des Abrechnungsdatums” wird den Partnern mehr Flexibilität und Vorhersagbarkeit für Vertrieb, Abrechnung, Bereitstellung und Verwaltung von Kundenabonnements bieten. 
 
-**UPDATE FÜR DEN 23. FEBRUAR:**Wir hatten die Implementierung bereits für den 20. Februar angekündigt, aber sie hat sich leicht verzögert und ist nach Produktkategorien gestaffelt.  Im unten aufgeführten Diagramm finden Sie weitere Informationen über das Einführungsdatum nach Produktkategorie. 
+**UPDATE FÜR DEN 23. FEBRUAR:** Wir hatten die Implementierung bereits für den 20. Februar angekündigt, aber sie hat sich leicht verzögert und ist nach Produktkategorien gestaffelt.  Im unten aufgeführten Diagramm finden Sie weitere Informationen über das Einführungsdatum nach Produktkategorie. 
 
 |**Produktkategorie**   |**Einführungsdatum**   |
 |-----------------|:-------------|
@@ -661,6 +662,6 @@ Die Abstimmungsdatei vom 15. Juni enthält dann folgende Rechnungspositionen:
 
 |**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
 |-----------------|:-------------|:----------------|:------------|:------|------|
-|1.6.2018   | 30.6.2018   |30 USD   |1   |30 USD  |Anteilige Gebühren beim Kauf |
+|29.05.2018   | 30.06.2018   |30 USD   |1   |30 USD  |Anteilige Gebühren beim Kauf |
 
 Beachten Sie, dass sich das Abonnement automatisch am 1.Juni2019 verlängert.

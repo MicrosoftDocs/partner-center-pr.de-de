@@ -4,12 +4,12 @@ description: Benachrichtigung über potenzielles Krypto-Mining.
 author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
-ms.openlocfilehash: 1e7e695ec19600fd1f32138982c8f609db168cc7
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
+ms.openlocfilehash: 5b96f3d5adf717eae6d4dc739e9678b69300a4b4
+ms.sourcegitcommit: f1abc58390563a61a3a2678a7420cd54dfbe2d38
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/10/2018
-ms.locfileid: "1867586"
+ms.lasthandoff: 06/01/2018
+ms.locfileid: "1936199"
 ---
 # <a name="partner-dashboard-notification-for-cryptocurrency-mining-activity"></a>Partner-Dashboard-Benachrichtigung für Krypto-Mining-Aktivität | Partner-Dashboard
 
@@ -45,6 +45,16 @@ Wenn die Aktivität nicht normal ist, beachten Sie Folgendes:
 
 Die Erkennung von Krypto-Mining-Aktivitäten basiert auf Heuristik und ist möglicherweise nicht 100%ig genau. Achten Sie darauf, dass Überwachungssysteme zum Schutz vor betrügerischen oder andere nicht erlaubten Aktivitäten haben. Weitere Informationen finden Sie unter [Nichtbezahlung, Betrug oder Missbrauch](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
 
+Wenn Sie Fragen oder Bedenken bezüglich der Benachrichtigung haben, können Sie das folgende Verfahren verwenden, um eine Supportanfrage zu öffnen.
+
+1.  Wählen Sie im Dashboard **Support** und dann **Partner Center-Anfragen**.
+3.  Wählen Sie **Neue Anfrage**. 
+4.  Im Dropdownmenü **Problemtyp** wählen Sie **Hinzufügen oder Verwalten von Kunden**.
+5.  Im Dropdownmenü **Auswirkungen** wählen Sie **Mittel**.
+6.  Im Feld **Titel** geben Sie **Krypto-Mining-Benachrichtigung** ein.
+7.  Im Feld **Beschreibung** geben Sie den Namen des betroffenen Abonnements zusammen mit Ihren Fragen oder Bedenken ein. 
+8.  Geben Sie Ihre Kontaktinformationen ein.
+9.  Wählen Sie **Übermitteln** aus.
 
 
 

@@ -3,12 +3,12 @@ title: Microsoft Azure Übersicht über die VM-Reservierungen | Partner Center
 Description: Overview of selling Microsoft Azure Reserved VM Instances in CSP.
 author: v-petand
 keywords: Azure, Reservierungen, virtuelle Computer verwalten, Abrechnung, kaufen, Azure-RI, Azure Reserved VM Instances
-ms.openlocfilehash: 9fac5749fda6106772d8fed28a320432206d528c
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
+ms.openlocfilehash: 65306d265c88769c83a948a192bc96b2a0a76294
+ms.sourcegitcommit: 052c3a98216ad30a27fcd813de740fb54e8d8da7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/11/2018
-ms.locfileid: "1873818"
+ms.lasthandoff: 06/05/2018
+ms.locfileid: "1978567"
 ---
 # <a name="sell-microsoft-azure-reserved-vm-instances"></a>Verkaufen von Microsoft Azure Reserved VM Instances 
 
@@ -26,6 +26,15 @@ Partner im Cloud Solution Provider-Programm (CSP) können jetzt Angebote ihren K
 -   Verwalten Sie reservierte Instanzen auf Organisations- oder auf Abteilungsebene. 
 
 Weitere Informationen zu Azure Reserved VM Instances finden Sie unter [Azure Reserved VM Instances-Angebote](https://azure.microsoft.com/pricing/reserved-vm-instances/) auf der Microsoft Azure-Website und [Better together: Azure Reserved VM Instances und Server Abonnements](https://blogs.partner.microsoft.com/mpn/better-together-azure-reserved-instances-server-subscriptions/).
+
+> [!NOTE]  
+> Azure Reserved VM Instances sind nicht in den folgenden Märkten verfügbar:  
+> * Brasilien  
+> * China  
+> * Indien  
+> * Russische Föderation  
+> * Südkorea  
+> * Taiwan  
 
 Die Verfügbarkeit von Azure Reserved VM Instances ist auf folgende Weise für Ihre Kunden nützlich:
 

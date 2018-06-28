@@ -4,6 +4,7 @@
 ## [Microsoft Action Pack erwerben](mpn-get-action-pack.md)
 ## [Silber oder Gold-Mitgliedschaft erhalten](learn-about-competencies.md)
 ## [Microsoft Partner Network-Mitgliedschaftsvorteile erhalten](manage-your-partner-network-benefits.md)
+## [Verlängern von MPN-Angeboten](renew-mpn-offers.md)
 
 
 # [Cloud Solution Provider](csp-overview.md)

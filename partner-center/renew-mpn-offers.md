@@ -3,12 +3,12 @@ title: Verlängern von MPN-Angeboten | Partner Center
 description: Verlängern von MPN-Angeboten im Partner-Dashboard
 author: labrenne
 keywords: MPN, Microsoft Action Pact, MAPS, Kompetenz erneuern, Verlängerungsdatum
-ms.openlocfilehash: ed037f6445d18a57033da51bc87d8f61d58370c3
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
+ms.openlocfilehash: 5b5009006ec6e4052e564e0c23deb2511485025e
+ms.sourcegitcommit: e84af3f0fd7683b83d0e15ad880aa92ee5efb0c7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991698"
+ms.lasthandoff: 06/11/2018
+ms.locfileid: "2018221"
 ---
 # <a name="renew-your-mpn-offers"></a>Verlängern von MPN-Angeboten
 
@@ -31,7 +31,7 @@ Auf der Registerkarte **Gekauft** wird für jedes von Ihnen gekaufte Angebot Fol
 
 Sie können das Abonnement innerhalb von 30 Tage ab dem Jahrestag erneuern. Ihre Vorteile bleiben während dieser Zeit aktiv. 15 Tage vor dem Jahrestag wird Microsoft Sie an diesen erinnern. Sie werden 23 Tage nach dem Jahrestag eine weitere Erinnerung erhalten. Wenn Sie innerhalb von 30 Tagen ab diesem Jahrestag verlängern, bleiben Ihre Vorteile erhalten. Wenn Sie nicht innerhalb dieses Zeitfensters verlängern, verlieren Sie Ihre Vorteile und Kompetenzen.
 
-Wenn Sie innerhalb des Zeitfensters verlängern, liegt der neue Jahrestag 365 Tage nach dem Verlängerungstag.
+Wenn Sie innerhalb des Zeitfensters der Verlängerung verlängern, liegt der neue Jahrestag 365 Tage nach Ihrem aktuellen Jahrestag.
 
 ## <a name="manage-auto-renewal"></a>Automatische Verlängerung verwalten
 

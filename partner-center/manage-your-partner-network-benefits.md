@@ -1,12 +1,14 @@
 ---
 title: Verwalten der Microsoft Partner Network-Vorteile | Partner Center
-description: Als Microsoft Partner Network-Mitglied haben Sie Anspruch auf bestimmte Mitgliedschaftsvorteile. Erläutert das Aktivieren und Verwalten Ihre Mitgliedschaftsvorteile im Partner Center.
+description: Als Microsoft Partner Network-Mitglied haben Sie Anspruch auf den Erwerb bestimmter Mitgliedschaftsvorteile. Hier wird erläutert, wie Sie Ihre Mitgliedschaftsvorteile in Ihrem Partner-Dashboard aktivieren und verwalten.
 author: MaggiePucciEvans
-ms.openlocfilehash: 7feb6c46834011ef679442a5ce261221e4800067
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: MPN, Mitgliedschaftsvorteile, Mitgliedschaft
+ms.openlocfilehash: 650db44e4a240ca8f05ea421dec6ffc15ec8ceb2
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207280"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile
 
@@ -14,20 +16,19 @@ ms.lasthandoff: 04/08/2018
 
 -  Partner Center
 
-Die Mitgliedschaft im Microsoft Partner Network berechtigt Sie zu bestimmten Vorteilen. Damit Sie Mitgliedschaftsvorteile kaufen und aktivieren können, muss Ihre Organisation ein Mitglied des Microsoft Partner Network sein. Wenn Sie kein Mitglied des Netzwerks sind, können Sie jetzt auf [https://partner.microsoft.com](https://partner.microsoft.com) beitreten.
+>[!IMPORTANT]
+>In diesem Artikel wird erläutert, wie Sie beginnen können, Ihre Microsoft Partner Network (MPN)-Mitgliedschaftsvorteile im Partner-Dashboard (früher als Partner Center bezeichnet) zu nutzen – diese Website. Wenn Sie keine Einladung zum Verschieben Ihrer Unternehmensinformationen vom Partner Membership Center (PMC) zum Partner-Dashboard erhalten haben, sollten Sie Ihre MPN-Mitgliedschaftsvorteile weiterhin im PMC verwalten. [Melden Sie sich](https://partner.microsoft.com/_login?authType=OpenIdConnect) jetzt beim PMC an.   
 
->**Hinweis:** Über diesen Link gelangen Sie zu einer anderen Website. Kehren Sie zurück zu dieser Website (Partner Center), um Ihre Netzwerkmitgliedschaft zu verlängern und zu aktualisieren.
-
-Nach dem Beitritt oder der Verlängerung Ihrer Mitgliedschaft im Microsoft Partner Network, können Sie ein Upgrade Ihrer Mitgliedschaft durchführen und Vorteile erwerben, z.B. Microsoft Action Pack.
+Wenn Sie dem Microsoft Partner Network (MPN) beitreten, erhalten Sie Zugriff auf Mitgliedschaftsvorteile, die Ihnen können, Ihr Geschäft auf- und auszubauen. Wenn Sie noch kein Mitglied von MPN sind, können Sie jetzt auf der [MPN-Website](https://partner.microsoft.com/membership) beitreten.
 
 
-## <a name="manage-your-membership-benefits"></a>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile
+## <a name="manage-your-membership-benefits-in-the-dashboard"></a>Verwalten Ihrer Mitgliedschaftsvorteile im Dashboard
 
-Nach dem Erwerb eines Vorteilspakets müssen Sie Lizenzen, Abonnements und anderen Vorteile zu Mitarbeitern zuweisen. 
+Nach dem Erwerb eines Mitgliedschaftsvorteilspakets müssen Sie Softwareschlüssel erhalten und Lizenzen, Abonnements sowie andere Vorteile zu Mitarbeitern zuweisen, damit diese sie nutzen können. 
 
-Ihr Action Pack-Abonnement enthält Zuweisungen von Softwarelizenzen, Clouddiensten, Visual Studio-Abonnements und Support mit internen Nutzungsrechten. 
+Vorteilspakete umfassen Zuweisungen von Softwarelizenzen, Clouddiensten, Visual Studio-Abonnements und Support mit internen Nutzungsrechten. Sie finden die Details zum Action Pack-Abonnement auf der [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software)-Website.  
 
-Wählen Sie zum Anzeigen und Verwalten Ihrer Mitgliedschaftsvorteile **Vorteile** aus dem **Dashboard**-Menü aus. Die Seite **Vorteile** wird geöffnet. 
+Navigieren Sie zum Anzeigen und Verwalten Ihrer Mitgliedschaftsvorteile zur Seite [**Vorteile**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich).
 
 #### <a name="manage-software-benefits"></a>Verwalten von Softwarevorteilen
 
@@ -72,10 +73,11 @@ Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, 
 
     Sie können jederzeit Abonnements zuweisen, indem Sie einen zugewiesenen Benutzer entfernen und dann einen anderen Benutzer zuweisen. 
 
+#### <a name="manage-technical-benefits"></a>Verwalten von technischen Vorteilen
 
-#### <a name="manage-support-benefits"></a>Verwalten von Supportvorteilen
+1. Wählen Sie **Technische Vorteile** aus, um die Liste Ihrer technischen Vorteile von Microsoft anzuzeigen.
 
-1. Wählen Sie **Support** zum Anzeigen von Microsoft-Support-bezogenen Vorteilen aus. 
+    Technische Vorteile umfassen beispielsweise Microsoft-Produktsupportfälle, Partnerberatungsstunden sowie technische Vorverkaufs- und Bereitstellungsdienste.   
 
 2. Suchen Sie den Supportvorteil, den Sie verwenden möchten, und wählen Sie dann den Pfeil unten rechts in der Zeile für den Vorteil aus. 
 
@@ -83,11 +85,14 @@ Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, 
    
     a.  Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen** [neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
 
-    b.  Geben Sie eine E-Mail-Adresse für den Benutzer ein, die sich von der E-Mail-Adresse unterscheidet, die dem Partner Center-Konto zugeordnet ist. 
+    b.  Geben Sie eine E-Mail-Adresse für den Benutzer an, die sich von der E-Mail-Adresse unterscheidet, die dem Dashboard-Konto Ihres Unternehmens zugeordnet ist. 
     
-    Zur Sicherheit werden wir Anweisungen für den Zugriff auf den Microsoft-Produktsupport nicht nur an die Partner Center-Konto-E-Mail, sondern auch an diese E-Mail-Adresse senden. Beachten Sie, dass das Aktivieren dieses Vorteils und das Senden von Anweisungen per E-Mail an den zugewiesenen Benutzer mehrere Tage dauern kann.    
+    Zur Sicherheit senden wir Anweisungen für den Zugriff auf den Microsoft-Produktsupport nicht nur an die Dashboard-Konto-E-Mail-Adresse des Benutzers, sondern auch an diese E-Mail-Adresse. Beachten Sie, dass das Aktivieren dieses Vorteils und das Senden von Anweisungen per E-Mail an den zugewiesenen Benutzer mehrere Tage dauern kann.    
     
-    c.  Wenn Sie die alternative E-Mail-Adresse eingegeben haben, wählen Sie **Benutzer zuweisen**. 
+    c.  Nachdem Sie die alternative E-Mail-Adresse eingegeben haben, wählen Sie **Benutzer zuweisen** aus. 
+
+4. Sie können Sie Ihre Vorteile rund um technische Vorverkaufsunterstützung oder Beratungsstunden nutzen, um technische Unterstützung in den Phasen des Vorverkaufs, des Designs, der Bereitstellung und der App-Entwicklung Ihrer Cloud- und hybriden Lösungen anzufordern. Um Unterstützung anzufordern, füllen Sie das [Anfrageformular](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
+) aus, und wählen Sie dann **Anforderung einreichen** aus.
 
 
 #### <a name="see-also"></a>Weitere Informationen

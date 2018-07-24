@@ -3,11 +3,12 @@ title: Vorbereiten des Wechsels vom Partner Admin Center zum Partner Center | Pa
 description: Die Office365-Partner Admin Center-Funktionalität wird in das Partner Center verschoben.
 author: labrenne
 Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
-ms.openlocfilehash: 5167ed6c6f29cccc5d9bee41c7cd7b97e9d90257
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: a72b35ef214b84a876c1dc6783009e284baee996
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1911294"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-dashboard"></a>Das Partner Admin Center (PAC) wird das Partner-Dashboard
 
@@ -27,7 +28,7 @@ Im April2018 wird das PAC eingestellt. CSP-Partner werden automatisch in das Mic
 
 **Cloud Solution Provider-Partner** Als CSP-Partner werden Sie ab April2018 automatisch in das Partner-Dashboard umgeleitet. 
 
-**Berater-Partner** Als Berater-Partner werden im Mai2018 automatisch in das Partner-Dashboard umgeleitet.
+**Advisor-Partner** (wenn Sie keine Transaktionen über CSP durchführen und PAC verwenden, um Testversionen/Angebote für Ihre Kunden bereitzustellen) Sobald wir den Zeitablauf für Ihre automatische Umleitung zum Partner Center festgelegt haben, werden wir ihn hier ankündigen. 
 
 
 ## <a name="start-using-the-microsoft-partner-dashboard-now"></a>Verwenden Sie das Microsoft Partner-Dashboard ab sofort!

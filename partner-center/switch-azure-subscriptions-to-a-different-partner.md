@@ -4,11 +4,12 @@ description: Kunden können den Partner im Programm für Cloud Solution Provider
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: Azure-Abonnement, Partner wechseln, Partner ändern, neue Partner, andere Partner
-ms.openlocfilehash: 5aa7bdd710268e6fe251e153c0a83999497f35dd
-ms.sourcegitcommit: d249bea4296f862112e8974706d1dc81c0a20580
+ms.openlocfilehash: a4b9c0a320808f1d8a4a630a035660813a3f9c74
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2018
+ms.lasthandoff: 06/22/2018
+ms.locfileid: "2088957"
 ---
 # <a name="transfer-azure-subscriptions"></a>Übertragen von Azure-Abonnements 
 
@@ -50,8 +51,8 @@ Kunden können den Cloud Solution Provider-Partner oder einen anderen Partner f�
 
     -   Die zu übertragende Abonnement-ID. Wählen Sie in der erweiterten Kundenliste **Abonnements anzeigen** aus. Erweitern Sie das ausgewählte Abonnement, um die **Abonnement-ID** anzuzeigen.
 
-    >**Hinweis:**<br> Das Übertragen eines Abonnements führt zu zwei Abonnement-IDs, die auf der Seite **Anmeldung bearbeiten** des übertragenen Abonnements angezeigt werden: **1**- die Partner Center-Abonnement-ID dient zu Abrechnungszwecken. Diese ID wird in der Abstimmungsdatei angezeigt. 
-    **2**- die ursprüngliche Azure-Abonnement-ID bleibt erhalten und wird im Partner Center genau wie im Azure-Verwaltungsportal angezeigt. **Bei der Anmeldung von Supportanfragen müssen Sie beide IDs verwenden.**
+    >**Hinweis:**<br> Das Übertragen eines Abonnements führt zu zwei Abonnement-IDs, die auf der Seite **Anmeldung bearbeiten** des übertragenen Abonnements angezeigt werden: **1**- die Partner Center-Abonnement-ID dient zu Abrechnungszwecken. 
+    **2**- Die ursprüngliche Azure-Abonnement-ID bleibt erhalten und wird im Partner Center genau wie im Azure-Verwaltungsportal angezeigt. Diese ID wird in der Abstimmungsdatei angezeigt.  **Bei der Anmeldung von Supportanfragen müssen Sie beide IDs verwenden.**
 
 4.  Der Kunde und der neue CSP-Partner für das Abonnement:
 

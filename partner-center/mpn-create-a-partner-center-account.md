@@ -2,11 +2,12 @@
 title: PartnerCenter-Konto erstellen | Partner Center
 description: Mitglieder im Microsoft Partner Network müssen ein Partner Center-Konto erstellen, um ihre Netzwerkvorteile und Kompetenzen verwalten und ein Unternehmensprofil erstellen zu können.
 author: MaggiePucciEvans
-ms.openlocfilehash: 3b1d54e3d95a7ea1bcad0643e685d9313c6ed978
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 27b0915cdd199e479371864dfba2879eadeaea0d
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207270"
 ---
 # <a name="create-a-partner-center-account"></a>Erstellen eines Partner Center-Kontos
 
@@ -76,6 +77,6 @@ Wir werden diese Informationen während des Kontoerstellungsprozesses überprüf
 
 -   [Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile](manage-your-partner-network-benefits.md)
 
--   [Erfahren Sie mehr über die Kompetenzanforderungen für die Silber und Gold-Mitgliedschaft](learn-about-competencies.md)
+-   [Erfahren Sie mehr über die Kompetenzanforderungen für die Silber und Gold-Mitgliedschaft](https://partner.microsoft.com/membership/competencies)
 
 -   [Erstellen eines Unternehmensprofils um Vertriebskontakte von Microsoft zu erhalten](create-a-marketing-profile.md)

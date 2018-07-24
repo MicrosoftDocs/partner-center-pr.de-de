@@ -2,11 +2,12 @@
 title: Angebote von Drittanbietern | Partner Center
 description: Wenn Ihr Unternehmen wächst, können Sie Ihr Portfolio weiterentwickeln und um Angebote von Drittanbietern für Ihre Produktpakete erweitern.
 author: labrenne
-ms.openlocfilehash: 5ca1abee7b32a04ed098132a1505a8a0a6baeda7
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 70945db54e006e99760112ca71884b5b0a6f4197
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1931091"
 ---
 # <a name="third-party-offers"></a>Drittanbieterangebote 
 
@@ -14,15 +15,32 @@ ms.lasthandoff: 04/08/2018
 
 - Partner Center
 
-Wenn Ihr Unternehmen wächst, können Sie Ihr Portfolio weiterentwickeln und um Angebote von Drittanbietern für Ihre Produktpakete erweitern. Im Partner Center finden Sie jetzt viele verschiedene Drittanbieterangebote, die mit Microsoft-Produkten zusammenarbeiten. Ihre Kunden profitieren von einer größeren Auswahl unterschiedlichster Lösungen, die von Ihnen– ihrem vertrauenswürdigen Microsoft-Partner– bequem an einer zentralen Stelle entdeckt, verkauft und verwaltet werden können. Partner Center vereinfacht die Entdeckung, Abwicklung und Verwaltung dieser Services, sodass Sie Lösungen und ihre Vorteile schneller bereitstellen können.
+Drittanbieterangebote sind ein neues kommerzielles Feature im Partner Center, mit dem direkte und indirekte Händlerpartner, die über das Cloud Solution Provider-Programm (CSP) verkaufen, die Abwicklung, die Verwaltung und den Support von SaaS-Lösungen von Drittanbietern durchführen können.  
 
-Derzeit umfasst Partner Center Softwareangebote von Drittanbietern, die sich in Azure, Office365 oder Dynamics integrieren lassen.
+Mit den Drittanbieterangeboten können CSP-Partner nicht nur Erstanbieter- oder Microsoft-Lösungen erwerben, sondern auch von Lösungen von Drittanbietern oder ISV-Partnern … all das über eine einzelne kommerzielle Plattform und mit einer Rechnung.  Wenn Ihr Unternehmen wächst, können Sie Ihr Portfolio weiterentwickeln und um Angebote von Drittanbietern für Ihre Produktpakete erweitern. 
 
+Im Partner Center finden Sie jetzt viele verschiedene Drittanbieterangebote, die mit Microsoft-Produkten zusammenarbeiten. Ihre Kunden profitieren von einer größeren Auswahl unterschiedlichster Lösungen, die von Ihnen– ihrem vertrauenswürdigen Microsoft-Partner– bequem an einer zentralen Stelle erkundet, verkauft und verwaltet werden können. Partner Center vereinfacht die Entdeckung, Abwicklung und Verwaltung dieser Services, sodass Sie Lösungen und ihre Vorteile schneller bereitstellen können.
 
-## <a name="start-adding-third-party-offers-today"></a>Nehmen Sie noch heute Angebote von Drittanbietern ins Sortiment
+## <a name="microsoft-partners-that-sell-through-our-cloud-solutions-program"></a>Microsoft-Partner, die über unser Programm für Cloud-Lösungen verkaufen
 
-|**Zu diesem Zweck**   |**Bitte lesen**   |
+Drittanbieterangebote sind auf eine einfache Verwaltung und problemlose Transaktionen ausgelegt.  Um Ihren Erfolg und die beste Erfahrung für Sie und Ihre Kunden sicherzustellen, empfehlen wir, die folgende Checkliste, mit der Sie noch heute Ihre ersten Schrittemit Drittanbieterangebote durchführen können:
+
+1. Lesen Sie alle unten aufgeführten Materialien, beginnend mit dem Onboarding-Webinar und den häufig gestellten Fragen.
+2. Machen Sie sich mit den Drittanbieterangeboten im Partner Center-Katalog vertraut.
+3. Wenden Sie sich an den ISV für Drittanbieterangebote, die Sie interessieren.
+4. Legen Sie Kontingente und Ziele für Ihre Verkäufer fest.
+5. Schulen Sie Ihre Verkäufer.
+6. Beginnen Sie jetzt, die Nachfrage zu generieren.
+7. Ermitteln Sie, wie Sie Erfolg messen möchten.
+8. Stellen Sie Feedback an (mailto:pilot3PO@microsoft.com) bereit, und teilen Sie uns mit, wie es läuft – wir freuen uns, von Ihnen zu hören!
+
+## <a name="get-started"></a>Erste Schritte 
+
+|**Aktion**   |**Bitte lesen**   |
 |------------------|:--------------------|
-|Überblick über das Drittanbieterprogramm für CSPs  |[Überblick über Drittanbieterressourcen](https://assets.microsoft.com/ThirdPartyOffers-Overview.pptx)|
-|Suche nach Drittanbieterprodukten, Zusammenarbeit mit ISVs, Nachvollziehen von Transaktionen und Abrechnungen usw.| [Verfügbare Drittanbietersoftware im Partner Center](third-party-help.md) 
+|Überblick über das Drittanbieterprogramm für CSPs  |[Überblick über Drittanbieterressourcen]( http://assetsprod.microsoft.com/mpn/third-party-offers-overview.pptx)|
+|Suche nach Drittanbieterprodukten, Zusammenarbeit mit ISVs, Nachvollziehen von Transaktionen und Abrechnungen usw.| [Weitere Informationen zu Drittanbieterangeboten im Partner Center](third-party-help.md) |
+|Antworten auf Ihre Fragen| [Häufig gestellte Fragen zu Drittanbieterangeboten](http://assetsprod.microsoft.com/mpn/third-party-offers-faq.docx) |
+|Video zu Drittanbieterangeboten (10Minuten, 16Sekunden)   |[Demo zu Drittanbieterangeboten](http://assetsprod.microsoft.com/mpn/third-party-offers-demo.wma)|
+
 

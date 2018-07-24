@@ -3,12 +3,12 @@ title: Microsoft Azure VM-Größe für die Verwendung der maximalen Reservierung
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
 keywords: Azure, Reservierungen, virtueller Computer, verwalten, Nutzung, Größe
-ms.openlocfilehash: 4050780f9d3dc3ad7d3c4ece0d363845ec1efe9c
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
+ms.openlocfilehash: 9ddf74d209f9174b4192a9d89b65a41e371f37ae
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/11/2018
-ms.locfileid: "1873788"
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1883101"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Microsoft Azure VM-Größe für die maximale Reservations-Nutzung 
 
@@ -120,7 +120,7 @@ Sie erhalten die Reservierungsnutzungsdaten mit der Azure-Nutzungs-API, um siche
 -   ConsumptionMeter ist die MeterId für den virtuellen Computer, auf den der Reservierungsrabatt angewendet wurde.
 -   ReservationMeter zeigt $0, da der Reservierungsrabatt angewendet wurde. 
 
-Weitere Informationen finden Sie unter [Get a customer’s utilization records for Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) in der [Partner-Dashboard-API](https://docs.microsoft.com/partner-center/develop/).
+Weitere Informationen finden Sie unter [Abrufen der Nutzungseinträge eines Kunden für Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) in der [Partner Center-API](https://docs.microsoft.com/partner-center/develop/).
 
 >[!IMPORTANT]
 >Kosten für Software, z.B. Microsoft Windows Server sind derzeit nicht im Preis einer VM-Reservierung enthalten und werden als separate Positionen in den Daten und auf Ihrer Rechnung angezeigt. Wenn ein Kunde über die Azure-Hybridnutzung verfügt, werden die Softwarekosten nicht angewendet. Weitere Informationen finden Sie unter [Windows software costs not included with Reserved Instances](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs).  

@@ -1,0 +1,52 @@
+---
+title: Vergleich Ihres CSP-Geschäfts mit anderen Partnern | Partner Center
+Description: Use partner contributions to understand how your business is growing and succeeding
+Author: labrenne
+keywords: Geschäftsdaten
+ms.openlocfilehash: d27ecce0020e11f71c43328e17975fa711c8de57
+ms.sourcegitcommit: 393cb5a8c9b71a737dc1a7aa8d1639937470be3d
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2204974"
+---
+# <a name="compare-your-csp-business-to-other-partners"></a><span data-ttu-id="975a3-103">Vergleich Ihres CSP-Geschäfts mit anderen Partnern</span><span class="sxs-lookup"><span data-stu-id="975a3-103">Compare your CSP business to other partners</span></span> 
+
+**<span data-ttu-id="975a3-104">Betrifft</span><span class="sxs-lookup"><span data-stu-id="975a3-104">Applies to</span></span>**
+- <span data-ttu-id="975a3-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="975a3-105">Partner Center</span></span>
+
+<span data-ttu-id="975a3-106">Daten unterstützen Geschäftsentscheidungen.</span><span class="sxs-lookup"><span data-stu-id="975a3-106">Data drives business decisions.</span></span> <span data-ttu-id="975a3-107">Verwenden Sie die Metriken auf der Seite mit Partnerbeiträgen, um Ihren Erfolg, den Erfolg Ihrer Kunden und Bereiche zu identifizieren, die mehr Aufmerksamkeit erfordern.</span><span class="sxs-lookup"><span data-stu-id="975a3-107">Use the metrics in the Partner Contribution page to identify your successes, your customers’ successes, and areas that need more attention.</span></span> <span data-ttu-id="975a3-108">Sie können außerdem sehen, wie Sie im Vergleich zu anderen Partnern dastehen.</span><span class="sxs-lookup"><span data-stu-id="975a3-108">You can also see how you’re doing compared to other partners.</span></span> <span data-ttu-id="975a3-109">Verwenden Sie diese Informationen für die Planung neuer Geschäftsziele.</span><span class="sxs-lookup"><span data-stu-id="975a3-109">Use this information as you plan new business goals.</span></span>
+
+>[!NOTE]
+><span data-ttu-id="975a3-110">Partnerbeträge sind derzeit nur für Partner verfügbar, die Dynamics 365 verkaufen.</span><span class="sxs-lookup"><span data-stu-id="975a3-110">Partner Contribution is currently available only for those partners selling Dynamics 365.</span></span>
+
+<span data-ttu-id="975a3-111">Wir verfolgen die folgenden Metriken:</span><span class="sxs-lookup"><span data-stu-id="975a3-111">We are tracking the following metrics:</span></span>
+
+**<span data-ttu-id="975a3-112">Partnerleistung</span><span class="sxs-lookup"><span data-stu-id="975a3-112">Partner performance</span></span>**
+
+1. <span data-ttu-id="975a3-113">**Umsatz**: Neuer Umsatz über alle Lizenztypen hinweg (EA, CSP, Web, Direct), aufgeführt für das Produkt und die Filter, die Sie ausgewählt haben</span><span class="sxs-lookup"><span data-stu-id="975a3-113">**Revenue**: Net new revenue across all license types (EA, CSP, Web, Direct), rolled for the product and filters you have selected</span></span>
+2. <span data-ttu-id="975a3-114">**Hinzugefügte neue Kunden**: Anzahl der Kunden, die Sie hinzufügen</span><span class="sxs-lookup"><span data-stu-id="975a3-114">**New customers added**: Number of customers you are adding.</span></span>
+3. <span data-ttu-id="975a3-115">**Hinzugefügte kostenpflichtige Lizenzen**: Anzahl der von Ihnen hinzugefügten neuen kostenpflichtigen Lizenzen für das Produkt und die Filter, die Sie ausgewählt haben</span><span class="sxs-lookup"><span data-stu-id="975a3-115">**Net paid seat adds**: Number of new paid seats you’ve added for the product and filter you have selected.</span></span>  <span data-ttu-id="975a3-116">Hinzugefügte neue Kunden = (hinzugefügte Lizenzen) – (verlorene Lizenzen)</span><span class="sxs-lookup"><span data-stu-id="975a3-116">Net customers added = (Seats added) – (Seats lost)</span></span> 
+
+**<span data-ttu-id="975a3-117">Partnerkompetenz</span><span class="sxs-lookup"><span data-stu-id="975a3-117">Partner capability</span></span>**
+4. <span data-ttu-id="975a3-118">**Zertifizierte Personen**: Investitionen in die Schulung Ihrer Beraterbasis.</span><span class="sxs-lookup"><span data-stu-id="975a3-118">**Certified individuals**: Efforts invested in training your consultant base.</span></span> <span data-ttu-id="975a3-119">Hierbei handelt es sich um die Anzahl der Personen, die 1 oder mehr der 5 Prüfungen bestanden haben, die für die von Ihnen ausgewählte Arbeitslast zählen.</span><span class="sxs-lookup"><span data-stu-id="975a3-119">This is the count of individuals who have passed 1 or more of the 5 exams that count towards the work load you have selected.</span></span> <span data-ttu-id="975a3-120">Entspricht der Summe aller Personen, die Ihnen an allen Geschäftsstandorten zugeordnet sind.</span><span class="sxs-lookup"><span data-stu-id="975a3-120">Sum of all individuals associated with you, across all your business locations.</span></span>
+5. <span data-ttu-id="975a3-121">**-Verfügbare Produktionsinstanzen**: Erfolgreich abgeschlossene Bereitstellungen.</span><span class="sxs-lookup"><span data-stu-id="975a3-121">**Available production instances**: Successfully completed deployments.</span></span> <span data-ttu-id="975a3-122">Dies ist die aktuelle Momentaufnahme der verfügbaren Produktionsinstanzen.</span><span class="sxs-lookup"><span data-stu-id="975a3-122">This is the latest snapshot of available production instances.</span></span>
+
+**<span data-ttu-id="975a3-123">Kundenerfolg</span><span class="sxs-lookup"><span data-stu-id="975a3-123">Customer success</span></span>**
+
+6.  <span data-ttu-id="975a3-124">**Monatliche aktive Benutzer (MAU)**: Steigerung der aktiven Nutzung des Produkts.</span><span class="sxs-lookup"><span data-stu-id="975a3-124">**Monthly active users (MAU)**: Increasing active use of the product.</span></span>
+<span data-ttu-id="975a3-125">(Anzahl der eindeutigen Benutzer, die eine beabsichtigte Aktion in TTM ausgeführt haben) / 12</span><span class="sxs-lookup"><span data-stu-id="975a3-125">(Count of unique users who have performed an intentional action in TTM) / 12</span></span>
+7. <span data-ttu-id="975a3-126">**MAU im Vergleich zu zugewiesen Lizenzen**: Steigerung der der aktiven Nutzung des Produkts im Vergleich zu dem, was Kunden bereitstellen wollten.</span><span class="sxs-lookup"><span data-stu-id="975a3-126">**MAU vs assigned seats**: Increasing active use for the product compared to what customers intended to deploy.</span></span> <span data-ttu-id="975a3-127">"(MAU) / (aktuelle Anzahl der zugewiesen Lizenzen)".</span><span class="sxs-lookup"><span data-stu-id="975a3-127">“(MAU) / (Current count of assigned seats)”.</span></span> <span data-ttu-id="975a3-128">Die zugewiesenen Lizenzen umfassen Lizenzen, die für bestimmte Benutzerkonten bereitgestellt wurden.</span><span class="sxs-lookup"><span data-stu-id="975a3-128">Assigned seats includes licenses that have been deployed to specific user accounts.</span></span>  <span data-ttu-id="975a3-129">Enthält nur aktive und im Aktivierungszeitraums erworbene Abonnements.</span><span class="sxs-lookup"><span data-stu-id="975a3-129">Includes only active and in-grace subscriptions.</span></span> 
+8.  <span data-ttu-id="975a3-130">**Net Promoter Score**: Erkennt, wie Sie die Produktzufriedenheit für das ausgewählte Produkt steigern.</span><span class="sxs-lookup"><span data-stu-id="975a3-130">**Net promoter score**: Recognizes how you are increasing product satisfaction for the selected product.</span></span>
+<span data-ttu-id="975a3-131">"(Promoter – Detractor) / (Promoter + Neutrale + Detractor)" Promoter sind Benutzer, die das Produkt mit einer Bewertung von 10 oder 9 bewerten, Neutrale bedeutet 8 oder 7 und Detractor 0 bis 6.</span><span class="sxs-lookup"><span data-stu-id="975a3-131">"(Promoters – Detractors) / (Promoters + Neutrals + Detractors)" Promoters are users who rate the product with a score of 10 or 9, neutral is 8 or 7, and detractor is 0 to 6</span></span>
+
+**<span data-ttu-id="975a3-132">Messen</span><span class="sxs-lookup"><span data-stu-id="975a3-132">Measure</span></span>**
+
+<span data-ttu-id="975a3-133">Jede Metrik wird anhand einer Leiste angezeigt (1 bis 4), die darstellt, wie Sie im Vergleich zu anderen Partnern bewertet werden. Dabei werden die ausgewählten Filter (Produkt, Workload, Kundenstandort) angewendet.</span><span class="sxs-lookup"><span data-stu-id="975a3-133">Each metric is displayed by a bar (1 to 4) representing where you scale against other partners using the selected filters (Product, Workload, Customer location).</span></span> <span data-ttu-id="975a3-134">Die Werte unter diese Leisten sind die minimalen und maximalen (min. und max.) Wertbereiche.</span><span class="sxs-lookup"><span data-stu-id="975a3-134">Values below these bars are the minimum and maximum (min & max) value ranges.</span></span> <span data-ttu-id="975a3-135">Die min. und max. Bereiche jeder Leiste werden angezeigt, wenn Sie mit der Maus auf die Leiste zeigen.</span><span class="sxs-lookup"><span data-stu-id="975a3-135">Each bar’s min & max range displays by hovering over the bar.</span></span>  
+
+>[!NOTE] 
+>- <span data-ttu-id="975a3-136">Metriken werden für alle Kunden über 12Monate (TTM) zusammengefasst, mit Ausnahme von „zertifizierten Einzelpersonen“.</span><span class="sxs-lookup"><span data-stu-id="975a3-136">Metrics are rolled up across all customers over the trailing 12 months (TTM), with the exception of “certified individuals”</span></span>        
+>- <span data-ttu-id="975a3-137">Metriken werden basierend auf den Filtern berechnet, die Sie für Produkt, Arbeitsauslastung und Kundenstandort anwenden.</span><span class="sxs-lookup"><span data-stu-id="975a3-137">Metrics are computed based on the filters you apply for Product, Workload, and Customer location</span></span>
+>- <span data-ttu-id="975a3-138">Metrikdaten werden nur für die Kunden gesammelt, die Sie als ihren Digital Partner of Record (DPOR) ausgewählt haben.</span><span class="sxs-lookup"><span data-stu-id="975a3-138">Metrics data is gathered only for your customers who have chosen you as their digital partner of record (DPOR).</span></span> 
+
+  

@@ -4,7 +4,7 @@
 ## [Microsoft Action Pack erwerben](mpn-get-action-pack.md)
 ## [Silber oder Gold-Mitgliedschaft erhalten](learn-about-competencies.md)
 ## [Microsoft Partner Network-Mitgliedschaftsvorteile erhalten](manage-your-partner-network-benefits.md)
-## [Verlängern von MPN-Angeboten](renew-mpn-offers.md)
+
 
 
 # [Cloud Solution Provider](csp-overview.md)
@@ -71,14 +71,17 @@
 ### [Verschieben von lizenzbasierten Services-Kunden zum Clouddienstanbieter-Programm im Partner-Dashboard](transition-seat-based-services.md)
 ### [Upgrade von Dynamics AX-Abonnements zu Dynamics 365](manual-subscription-migration.md)
 ### [Migrieren von Abonnements für Office365 Enterprise E4 zu neueren Versionen von Office365](migrate-office365-e4-subscriptions-to-newer-versions.md)
+### [Migrieren von Skype for Business Online Plan 1-Abonnements zu neueren Versionen von Office365](skype-retiring.md)
 ### [Übertragen von Azure-Abonnements](switch-azure-subscriptions-to-a-different-partner.md)
 ### [Minecraft: Education Edition-Abonnements verkaufen](minecraft-subscriptions.md)
+### [An spezielle Branchen verkaufen](Get-special-pricing-for-offers.md)
 ### [Steigern von Akzeptanz und Zufriedenheit](increasing-adoption-and-satisfaction.md)
 ### [Vereinfachen der Geräteinstallation mit Windows Autopilot](autopilot.md)
 
 # Partner-Dashboard-Daten und Datenanalyse
 ## [Daten zum Analysieren Ihres Unternehmens](data-analysis-lp.md)
 ## [Partner Center Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## [Vergleich Ihres CSP-Geschäfts mit anderen Partnern](partner-contributions.md)
 
 # [Zusammenarbeit mit anderen Partnern](work-with-other-partners.md)
 ## [Aufgaben indirekter Anbieter im Partner-Dashboard](indirect-provider-tasks-in-partner-center.md)

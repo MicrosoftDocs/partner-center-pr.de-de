@@ -3,18 +3,20 @@ title: Multichannel | Partner Center
 description: In einigen Fällen können Kunden Sie zum Bereitstellen und Unterstützen eines Abonnements einstellen, das sie an anderer Stelle erworben haben.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
-ms.openlocfilehash: bbba14ec95a99ad2f36cf9173d43fb244d3ca677
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4fcb572f7afc9d7f75b8330a23b45eb5696c30e3
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875840"
 ---
 # <a name="multi-channel-support"></a>Multichannel-Unterstützung
 
 **Gilt für**
 
 -  Partner Center
--  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud for US Government
 -  Partner Center für Microsoft Cloud Deutschland
 
 Das Multichannel-Feature in Partner-Dashboard unterstützt Szenarien, in denen ein Kunde einen Partner für die Verwaltung und den Support eines an anderer Stelle erworbenen Abonnements beauftragen möchte. Dieser Multichannel-Support ist in folgenden Fällen erforderlich:

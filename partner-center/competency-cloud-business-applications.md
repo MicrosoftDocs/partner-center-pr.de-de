@@ -1,161 +1,171 @@
 ---
 title: Cloud Business Applications-Kompetenz
-description: "Die Cloud Business Applications-Kompetenz ist für Partner, die sich auf die Bereitstellung und Verwaltung von Microsoft Dynamics 365 für ihre Kunden spezialisieren."
+description: Die Cloud Business Applications-Kompetenz ist für Partner, die sich auf die Bereitstellung und Verwaltung von Microsoft Dynamics 365 für ihre Kunden spezialisieren.
 author: Daniel Simpson
-keywords: "Kompetenz, Kompetenzen, Cloudgeschäftsanwendungen"
-ms.openlocfilehash: 89459db489bce42c7b91ac1b76bebe6e34c5a705
-ms.sourcegitcommit: 201493cd49b1b65206aa46442677ec1979287358
-ms.translationtype: HT
+keywords: Kompetenz, Kompetenzen, Cloudgeschäftsanwendungen
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 217f988b6a7003cc1cdabeb3f8663eeaa619b362
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876700"
 ---
-# <a name="cloud-business-applications"></a>Cloud Business Applications 
+>[!IMPORTANT]
+>Informationen zu den Anforderungen für die Erreichung dieses Kompetenz finden Sie auf der [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
 
-Die Cloud Business Applications-Kompetenz ist für Partner, die sich auf die Bereitstellung und Verwaltung von Microsoft Dynamics 365 für ihre Kunden spezialisieren.
+<!--
 
-- [Enterprise Customer Engagement-Option](#enterprise-customer-engagement-option)
-- [Enterprise Operations-Option](#enterprise-operations-option)
+# Cloud Business Applications 
 
-Die Cloud Business Applications-Kompetenz hilft Ihnen, sich auf Ihr Unternehmen zu konzentrieren und neue Geschäfte abzuschließen. Microsoft Dynamics 365 verfügt über eine breite Palette funktionaler und technischer Zertifizierungen für die Cloud Business Applications-Kompetenz.  
+The Cloud Business Applications competency is for partners who specialize in deployment and management of Microsoft Dynamics 365 for their customers.
 
-Die funktionalen Zertifizierungen bereiten Ihre funktionalen Rollen für die gesamte Lösung vor, die Sie verkaufen, vorführen, implementieren oder entwickeln möchten. Die Lösung umfasst nicht nur die Dynamics 365-Geschäftsanwendungen, sondern auch die gesamte Microsoft-Palette einschließlich solcher Produkte wie Azure, Office 365 und LinkedIn. Wenn Kunden Dynamics 365 verwenden, haben sie die Möglichkeit, alles zu nutzen, was Microsoft anbietet. 
+- [Enterprise Customer Engagement option](#enterprise-customer-engagement-option)
+- [Enterprise Operations option](#enterprise-operations-option)
 
-Die Cloud Business Applications-Kompetenz unterstützt Partner bei der Auswahl eines einzigartigen Angebots und ermöglicht es ihnen, sich auf dem Markt durch eine Auswahl funktionaler Zertifizierungen zu differenzieren. Die technischen Zertifizierungen unterstützen Ihre technischen Rollen zu Themen wie Anpassung, Konfiguration, Bereitstellung und Entwicklung. 
+The Cloud Business Applications competency helps you focus and grow your business and close deals. Microsoft Dynamics 365 has a wide range of functional and technical certifications across the Cloud Business Applications competency.  
 
-Digitale Badges können dazu dienen, individuelle Leistungen im Unternehmen in Echtzeit zu erkennen, zu differenzieren und hervorzuheben. [Weitere Informationen](https://www.microsoft.com/en-us/learning/badges.aspx).  
+The functional certifications will prepare your functional roles for the entire solution that you plan to sell, demo, implement, or develop. The solution will not only include the Dynamics 365 business applications but also the entire Microsoft stack including products such as Azure, Office 365 and LinkedIn. When customers use Dynamics 365 they will have the opportunity to use everything that Microsoft has to offer. 
+
+The Cloud Business Applications competency supports partners in having a unique proposition and allows them to differentiate in the marketplace with a choice of functional certifications. The technical certifications will support your technical roles on topics such as customization and configuration as well as deployment and development. 
+
+You can also celebrate your individual employee accomplishments along the way with digital badging which recognizes and differentiates your achievements in real time. [Learn more](https://www.microsoft.com/en-us/learning/badges.aspx).  
 
 
-## <a name="enterprise-customer-engagement-option"></a>Enterprise Customer Engagement-Option
-Die Enterprise Customer Engagement-Option eignet sich ideal für Partner, die mit Unternehmenskunden interagieren. Führen Sie alle erforderlichen Schritte aus, um die Cloud Business Applications-Kompetenz zu erreichen.
+## Enterprise Customer Engagement option
+The Enterprise Customer Engagement option is ideal for partners engaging with enterprise customers. Complete all the steps within to attain the Cloud Business Applications competency.
 
-### <a name="silver"></a>Silber
-1. Ihre Organisation muss die folgenden Leistungswerte erreichen.
+### Silver
+1. Your organization must meet the following performance thresholds.
 
-    - **Entwickelte Märkte**
+    - **Developed Markets**
 
-        - Der Partner muss mindestens Cloudeinnahmen von 100.000 USD erzielt haben – Nettoeinnahmen im TTM-Zeitraum (nach zwölf Monaten).
+        - Partner must have earned at least US$100,000 Cloud Revenue - Net New Revenue in the TTM (trailing twelve months) period.
     
-    - **Entwicklungsmärkte**
+    - **Developing Markets**
 
-        - Der Partner muss mindestens einen Cloudumsatz von 50.000 USD erzielt haben – Nettoeinnahmen im TTM-Zeitraum (nach zwölf Monaten).
+        - Partner must have earned at least US$50,000 Cloud Revenue -  Net New Revenue in the TTM period.
 
-    - Die Einnahmeschwellenwerte im Dynamics 365 Customer Engagement Plan (früher Plan 1) und der zugehörigen Anwendungen müssen erreicht worden sein.
-    - Für diese Kunden müssen Sie als Digital Partner of Record zugewiesen sein.
-    - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.
+    - Meet the revenue thresholds for Dynamics 365 Customer Engagement Plan (formerly Plan 1) and its associated applications.
+    - For these customers, you have to be associated as Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-2. In Ihrer Organisation müssen mindestens **5** Personen die Prüfungsanforderungen erfüllen.
+2. Your organization must have at least **5** individuals pass the exam requirements.
 
-    - **5** Personen müssen alle folgenden technischen Prüfungen bestehen:
+    - **5** individuals must pass all of the following technical exams:
         - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 customer engagement Online Deployment
         - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration
     
-    **UND**
+    **AND**
     
-    - Die gleichen oder **5** andere Personen müssen jeweils auch eine der folgenden funktionalen Prüfungen bestehen:
+    - The same or different **5** individuals must pass one of the following functional exams:
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
-        - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx): Microsoft Dynamics 365 for Field Service *Neue Prüfung ab Dezember 2017 verfügbar
+        - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx): Microsoft Dynamics 365 for Field Service
+*New exam available from December 2017
 
-### <a name="gold"></a>Gold
-1. Ihre Organisation muss die folgenden Leistungswerte erreichen.
+### Gold
+1. Your organization must meet the following performance thresholds.
 
-    - **Entwickelte Märkte**
+    - **Developed Markets**
     
-        - Der Partner muss mindestens Cloudeinnahmen von 300.000 USD erzielt haben – Nettoeinnahmen im TTM-Zeitraum (nach zwölf Monaten).
+        - Partner must have earned at least US$300,000 Cloud Revenue -  Net New Revenue in the TTM (trailing twelve months) period.
 
-    - **Entwicklungsmärkte**
+    - **Developing Markets**
 
-        - Der Partner muss mindestens einen Cloudumsatz von 150.000 USD erzielt haben – Nettoeinnahmen im TTM-Zeitraum (nach zwölf Monaten).
+        - Partner must have earned at least US$150,000 Cloud Revenue -  Net New Revenue in the TTM period.
   
-    - Die Einnahmeschwellenwerte im Dynamics 365 Customer Engagement Plan und der zugehörigen Anwendungen müssen erreicht werden. 
-    - Für diese Kunden müssen Sie als Digital Partner of Record zugewiesen sein.
-    - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.  
+    - Meet the revenue thresholds for Dynamics 365 Customer Engagement Plan and its associated applications. 
+    - For these customers, you have to be associated as Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
 
-2. In Ihrer Organisation müssen mindestens **15** Personen die Prüfungsanforderungen erfüllen.
+2. Your organization must have at least **15** individuals pass the exam requirements.
 
-    - **15** Personen müssen alle folgenden technischen Prüfungen bestehen:
+    - **15** individuals must pass all of the following technical exams:
         - [MB2-715](https://www.microsoft.com/en-us/learning/exam-mb2-715.aspx): Microsoft Dynamics 365 customer engagement Online Deployment
         - [MB2-716](https://www.microsoft.com/en-us/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration
     
-    **UND**
+    **AND**
 
-    - Die gleichen oder **15** andere Personen müssen jeweils auch eine der folgenden Prüfungen bestehen:
+    - The same or different **15** individuals must pass one of the following exams:
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx): Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx): Microsoft Dynamics 365 for Customer Service
         - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx): Microsoft Dynamics 365 for Field Service 
 
-## <a name="enterprise-operations-option"></a>Enterprise Operations-Option
+## Enterprise Operations option
 
-Die Enterprise Operations-Option ist ideal für Partner mit Unternehmenskunden, insbesondere in Bezug auf den Dynamics 365 Unified Operations Plan. Führen Sie alle erforderlichen Schritte aus, um die Cloud Business Applications-Kompetenz zu erreichen.
+The Enterprise Operations option is ideal for partners engaging with enterprise customers, especially on the Dynamics 365 Unified Operations Plan. Complete all the steps within to attain the Cloud Business Applications competency.
 
-### <a name="silver"></a>Silber
-1. Ihre Organisation muss die folgenden Leistungswerte erreichen.
+### Silver
+1. Your organization must meet the following performance thresholds.
 
-    - **Entwickelte Märkte**
+    - **Developed Markets**
     
-        - Der Partner muss mindestens Einnahmen von 100.000 USD aus dem Dynamics 365 Enterprise Plan (früher Plan 2), dem Unified Operations Plan und den zugehörigen Anwendungen sowie durch AX 2012 On-Premises oder Dynamics 365 for Operations (On-Premises) erzielt haben.
+        - Partner must have earned at least US$100,000 Revenue from Dynamics 365 Enterprise Plan (formerly Plan 2), Unified Operations Plan and its associated applications, and AX 2012 On-Premises or Dynamics 365 for Operations (On-Premises)
 
-        - Der Partner muss mindestens 25.000 USD Cloudeinnahmen – Nettoeinnahmen im TTM-Zeitraum –aus dem Dynamics 365 Enterprise Plan (früher Plan 2) sowie dem Unified Operations Plan und den zugehörigen Anwendungen erzielt haben. 
+        - Partner must have earned a minimum of US$25,000 Cloud Revenue, Net New Revenue in the TTM period from Dynamics 365 Enterprise Plan (formerly Plan 2) and Unified Operations Plan and its associated applications. 
   
-    - **Entwicklungsmärkte**
+    - **Developing Markets**
 
-        - Der Partner muss mindestens Einnahmen von 50.000 USD aus dem Dynamics 365 Enterprise Plan (früher Plan 2), dem Unified Operations Plan und den zugehörigen Anwendungen sowie durch AX 2012 On-Premises oder Dynamics 365 for Operations (On-Premises) erzielt haben.
+        - Partner must have earned at least US$50,000 Revenue from Dynamics 365 Enterprise Plan (formerly Plan 2), Unified Operations Plan and its associated applications, and AX 2012 On-Premises or Dynamics 365 for Operations (On-Premises)
 
-        - Der Partner muss mindestens 12.000 USD Cloudeinnahmen – Nettoeinnahmen im TTM-Zeitraum –aus dem Dynamics 365 Enterprise Plan (früher Plan 2) sowie dem Unified Operations Plan und den zugehörigen Anwendungen erzielt haben. 
+        - Partner must have earned a minimum of US$12,000 Cloud Revenue, Net New Revenue in the TTM period from Dynamics 365 Enterprise Plan (formerly Plan 2) and Unified Operations Plan and its associated applications 
       
-    - Für diese Kunden müssen Sie als Digital Partner of Record zugewiesen sein.
-    - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.  
+    - For these customers, you have to be associated as Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
 
-2. In Ihrer Organisation müssen **5** Personen die Prüfungsanforderungen bestanden haben.
+2. Your organization must have **5** individuals pass the exam requirements.
  
-    - **5** Personen müssen alle folgenden technischen Prüfungen bestehen:
+    - **5** individuals  must pass all the following technical exams:
         - [MB6-894](https://www.microsoft.com/en-us/learning/exam-MB6-894.aspx): Development, Extensions and Deployment for Microsoft Dynamics 365 for Finance and Operations* 
         - [70-535](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions
     
-    **UND**
+    **AND**
 
-    - Die gleichen oder **5** andere Personen müssen eine der folgenden funktionalen Prüfungen bestehen: 
+    - The same or different **5** individuals must pass one the following functional exams: 
         - [MB6-895](https://www.microsoft.com/en-us/learning/exam-MB6-895.aspx): Financial Management in Microsoft Dynamics 365 for Finance and Operations
         - [MB6-896](https://www.microsoft.com/en-us/learning/exam-mb6-896.aspx): Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations
         - [MB6-897](https://www.microsoft.com/en-us/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail 
         
-* Neue Prüfung ab Dezember2017 verfügbar
+*New exam available from December 2017
 
-### <a name="gold"></a>Gold
+### Gold
 
-1. Ihre Organisation muss die folgenden Leistungswerte erreichen.
+1. Your organization must meet the following performance thresholds.
 
-    - **Entwickelte Märkte**
+    - **Developed Markets**
 
-        - Der Partner muss mindestens Einnahmen von 300.000 USD aus dem Dynamics 365 Enterprise Plan (früher Plan 2), dem Unified Operations Plan und den zugehörigen Anwendungen sowie durch AX 2012 On-Premises oder Dynamics 365 for Operations (On-Premises) erzielt haben.
+        - Partner must have earned at least US$300,000 Revenue from Dynamics 365 Enterprise Plan (formerly Plan 2), Unified Operations Plan and its associated applications, and AX 2012 On-Premises or Dynamics 365 for Operations (On-Premises)
 
-        - Der Partner muss mindestens 75.000 USD Cloudeinnahmen – Nettoeinnahmen im TTM-Zeitraum –aus dem Dynamics 365 Enterprise Plan (früher Plan 2) sowie dem Unified Operations Plan und den zugehörigen Anwendungen erzielt haben. 
+        - Partner must have earned a minimum of US$75,000 Cloud Revenue, Net New Revenue in the TTM period from Dynamics 365 Enterprise Plan (formerly Plan 2) and Unified Operations Plan and its associated applications. 
 
-    - **Entwicklungsmärkte**
+    - **Developing Markets**
 
-        - Der Partner muss mindestens Einnahmen von 150.000 USD aus dem Dynamics 365 Enterprise Plan (früher Plan 2), dem Unified Operations Plan und den zugehörigen Anwendungen sowie durch AX 2012 On-Premise oder Dynamics 365 for Operations (On-Premises) erzielt haben.
+        - Partner must have earned at least US$150,000 Revenue from Dynamics 365 Enterprise Plan (formerly Plan 2), Unified Operations Plan and its associated applications, and AX 2012 On-Premise or Dynamics 365 for Operations (On-Premises)
 
-        - Der Partner muss mindestens 37.000 USD Cloudeinnahmen – Nettoeinnahmen im TTM-Zeitraum –aus dem Dynamics 365 Enterprise Plan (früher Plan 2) sowie dem Unified Operations Plan und den zugehörigen Anwendungen erzielt haben. 
+        - Partner must have earned a minimum of US$37,000 Cloud Revenue, Net New Revenue in the TTM period from Dynamics 365 Enterprise Plan (formerly Plan 2) and Unified Operations Plan and its associated applications. 
 
-    - Für diese Kunden müssen Sie als Digital Partner of Record zugewiesen sein.
-    - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.  
+    - For these customers, you have to be associated as Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
 
 
-2. In Ihrer Organisation müssen mindestens **15** Personen die Prüfungsanforderungen erfüllen.
+2. Your organization must have at least **15** individuals pass the exam requirements.
 
-   - **15** Personen müssen alle folgenden technischen Prüfungen bestehen: 
+   - **15** individuals must pass all of the following technical exams: 
 
-        - MB6-894: Development, Extensions and Deployment for Dynamics 365 Finance and Operations, Enterprise edition (verfügbar im November2017)
+        - MB6-894: Development, Extensions and Deployment for Dynamics 365 Finance and Operations, Enterprise edition (Available in November 2017)
 
-    - **15** Personen müssen alle folgenden Prüfungen bestehen:
+    - **15** individuals must pass all the following exams:
         - [MB6-894](https://www.microsoft.com/en-us/learning/exam-MB6-894.aspx): Development, Extensions and Deployment for Microsoft Dynamics 365 for Finance and Operations* 
         - [70-535](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions 
 
-    **UND** 
+    **AND** 
 
-    - Die gleichen oder **15** andere Personen müssen eine der folgenden funktionalen Prüfungen bestehen: 
+    - The same or different **15** individuals must pass one the following functional exams: 
         - [MB6-895](https://www.microsoft.com/en-us/learning/exam-MB6-895.aspx): Financial Management in Microsoft Dynamics 365 for Finance and Operations
         - [MB6-896](https://www.microsoft.com/en-us/learning/exam-mb6-896.aspx): Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations
         - [MB6-897](https://www.microsoft.com/en-us/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail
 
-* Neue Prüfung ab Dezember2017 verfügbar
+*New exam available from December 2017
+-->

@@ -2,12 +2,13 @@
 title: Angebote von Drittanbietern | Partner Center
 description: Wenn Ihr Unternehmen wächst, können Sie Ihr Portfolio weiterentwickeln und um Angebote von Drittanbietern für Ihre Produktpakete erweitern.
 author: labrenne
-ms.openlocfilehash: 70945db54e006e99760112ca71884b5b0a6f4197
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8972c59781276e9c1c839e02f3dd0d196bed7f71
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1931091"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874590"
 ---
 # <a name="third-party-offers"></a>Drittanbieterangebote 
 

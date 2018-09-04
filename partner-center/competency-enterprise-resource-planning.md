@@ -1,32 +1,39 @@
 ---
 title: Enterprise Resource Planning-Kompetenz
-description: "Werden Sie Microsoft-Partner, indem Sie dafür sorgen, dass Sie für die Entwicklung und Bereitstellung von Microsoft Dynamics-Lösungen für ERP-Anforderungen (Enterprise Resource Planning) anerkannt werden."
+description: Werden Sie Microsoft-Partner, indem Sie dafür sorgen, dass Sie für die Entwicklung und Bereitstellung von Microsoft Dynamics-Lösungen für ERP-Anforderungen (Enterprise Resource Planning) anerkannt werden.
 author: Daniel Simpson
 keywords: Kompetenz,Kompetenzen,Enterprise Resource Planning
-ms.openlocfilehash: f9aa424e4bbc6e0cce3e9abdd4a284183675c6cf
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
-ms.translationtype: HT
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 581dbe631117776c9f437a1d23d70f1a983c1a3d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875660"
 ---
-#<a name="enterprise-resource-planning"></a>Enterprise Resource Planning 
-Werden Sie Microsoft-Partner, indem Sie dafür sorgen, dass Sie für die Entwicklung und Bereitstellung von Microsoft Dynamics-Lösungen für ERP-Anforderungen (Enterprise Resource Planning) anerkannt werden.
+>[!IMPORTANT]
+>Informationen zu den Anforderungen für die Erreichung dieses Kompetenz finden Sie auf der [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
 
-##<a name="erp-reseller-option"></a>ERP Reseller-Option
-Die Enterprise Resource Planning-Option (ERP) ist ideal für Partner, die ihre Fähigkeit durch Erfüllen der Umsatzschwellenwerte nachweisen möchten. Durchlaufen Sie alle Schritte dieser Option, um die Enterprise Resource Planning-Kompetenz zu erreichen.
+<!--
+#Enterprise Resource Planning 
+Become a Microsoft partner by proving your organization’s caliber in developing and deploying Dynamics solutions for enterprise resource planning needs.
 
-###<a name="gold"></a>Gold
+##ERP Reseller option
+The Enterprise Resource Planning (ERP) Reseller option is ideal for partners who want to prove their capability by meeting revenue thresholds. Complete all the steps within the option to attain the Enterprise Resource Planning competency.
 
-Ihre Organisation muss die Leistungsschwellenwerte erfüllen.
+###Gold
 
-    - **Industrieländer**
-    -   Partner müssen einen jährlichen Bruttogesamtumsatz von 175.000US-Dollar erzielt haben.
+Your organization must meet the performance thresholds.
+
+    - **Developed Markets**
+    -   Partner must have earned a total annual gross license revenue of US$175,000
   
-    - **Entwicklungsländer**
-        - Partner müssen einen jährlichen Bruttogesamtumsatz von 75.000US-Dollar erzielt haben. 
+    - **Developing Markets**
+        - Partner must have earned  a total annual gross license revenue of US$75,000 
 
-        - Erfüllen Sie die Umsatzanforderungen für Microsoft Dynamics AX Lokal & Dynamics AX Online; Dynamics GP, Dynamics SL, Dynamics NAV und/oder Dynamics 365 Plan oder Unified Operations Plan.  
-
+        - Meet Revenue Requirements for Microsoft Dynamics AX on Premise & Dynamics AX online; Dynamics GP, Dynamics SL, Dynamics NAV and/or Dynamics 365 Plan or Unified Operations Plan.  
+-->
 
 
 

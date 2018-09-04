@@ -1,38 +1,47 @@
 ---
 title: Project and Portfolio Management-Kompetenz
-description: "Die Project and Portfolio Management-Kompetenz erkennt Partner an, die ihre Fähigkeit demonstrieren, Kunden Enterprise Project Management (EPM)-Lösungen bereitzustellen."
+description: Die Project and Portfolio Management-Kompetenz erkennt Partner an, die ihre Fähigkeit demonstrieren, Kunden Enterprise Project Management (EPM)-Lösungen bereitzustellen.
 author: Daniel Simpson
 keywords: Kompetenz, Kompetenzen
-ms.openlocfilehash: 489825fd6d16c8fa275fdc89691bb9f5ebb4f83b
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 8006e86ce2c5b0e4b9c9c4383d14976efc2b46cc
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876030"
 ---
-# <a name="project-and-portfolio-management"></a>Project and Portfolio Management 
-Die Project and Portfolio Management-Kompetenz erkennt Partner an, die ihre Fähigkeit demonstrieren, Kunden Enterprise Project Management (EPM)-Lösungen bereitzustellen.
+>[!IMPORTANT]
+>Informationen zu den Anforderungen für die Erreichung dieses Kompetenz finden Sie auf der [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
 
-## <a name="project-and-portfolio-partner-option"></a>Project and Portfolio Partner-Option
-Die Project and Portfolio Partner-Option ist ideal für Partner, die unternehmensweite Projekt- und Portfolioverwaltung in lokalen und cloudbasierten Umgebungen bereitstellen. Durchlaufen Sie alle Schrittein der Option, um die Project and Portfolio Management-Kompetenz zu erlangen.
+<!--
 
-###<a name="silver"></a>Silver
-1. **2** Personen in Ihrer Organisation müssen die Prüfungsanforderungen erfüllen.
+# Project and Portfolio Management 
+The Project and Portfolio Management competency recognizes partners who demonstrate the ability to deliver enterprise project management solutions to customers.
 
-    - **2** Personen müssen jeweils alle folgenden Prüfungen bestehen:
+## Project and Portfolio Partner option
+The Project and Portfolio Partner Option is ideal for partners that deliver enterprise-wide project and portfolio management in both on-premises and cloud environments. Complete all the steps within the option to attain the Project and Portfolio Management competency.
 
-        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Managing Projects with Microsoft Project
-        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Managing Projects and Portfolios with Microsoft PPM
+###Silver
+1. Your organization must have **2** individuals pass the exam requirements.
 
-###<a name="gold"></a>Gold
-1. **4** Personen in Ihrer Organisation müssen die Prüfungsanforderungen erfüllen.
-
-    - **4** Personen müssen jeweils alle folgenden Prüfungen bestehen:
+    - **2** individuals must each pass all the following exams:
 
         * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Managing Projects with Microsoft Project
         * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Managing Projects and Portfolios with Microsoft PPM
 
-    **UND** 
+###Gold
+1. Your organization must have **4** individuals pass the exam requirements.
 
-    - **2** von den **4** Personen müssen jeweils die folgende Prüfung bestehen:
+    - **4** individuals must each pass all the following exams:
+
+        * [74-343](https://www.microsoft.com/en-us/learning/exam-74-343.aspx): Managing Projects with Microsoft Project
+        * [70-348](https://www.microsoft.com/en-us/learning/exam-70-348.aspx): Managing Projects and Portfolios with Microsoft PPM
+
+    **AND** 
+
+    - **2** of the same **4** individuals must each pass the following exam:
 
         *  [70-339](https://www.microsoft.com/en-us/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016
+-->

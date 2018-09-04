@@ -3,11 +3,13 @@ title: Wechseln von Partner Admin Center zu Partner Center
 description: Hinweise zum Verwenden der Funktionen aus dem Partner Admin Center im Partner Center
 author: labrenne
 keywords: PAC, Office365-Administrator, PAC-Features
-ms.openlocfilehash: 7bcb12a918cf007a474287183c2aa0956c161431
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f2982e1e517c02a78d01b68f21122eebcabf3bf9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876250"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-dashboard"></a>Wechseln von Partner Admin Center (PAC) zu Partner-Dashboard
 

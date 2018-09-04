@@ -1,13 +1,15 @@
 ---
 title: Verwalten Ihres Partner Center-Kontos | Partner Center
-description: Nach der Aufnahme in das Programm für Cloud-Lösungsanbieter müssen Sie oder Ihr Administrator Ihr Unternehmenskonto in Partner Center einrichten.
+description: Verwalten Sie Ihrer Organisation Profil, Bank- und steuerprofilen Informationen und Ihre Benutzer.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
-ms.openlocfilehash: eee73df917d894fa780e15eedb61b7180b511047
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 225e2e6ea5bb9d0f5527974edc488707aa46989a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875960"
 ---
 # <a name="manage-your-partner-dashboard-account"></a>Verwalten Ihres Partner-Dashboard-Kontos
 
@@ -15,9 +17,12 @@ ms.lasthandoff: 04/08/2018
 
 -  Partner Center
 
-Das Konto, das Sie bei der Registrierung im Partner-Dashboard erstellen, besteht aus Ihrer beruflichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem Sie ein Konto im Partner-Dashboard erstellt haben, müssen Sie oder Ihr Administrator die Einrichtung Ihres Unternehmensprofils abschließen (einschließlich Supportinformationen, ggf. Steuerbefreiungen und primärer Kontaktinformationen). 
+Das Konto, das Sie bei der Registrierung im Partner-Dashboard erstellen, besteht aus Ihrer beruflichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem Sie ein Konto im Partner-Dashboard erstellen, müssen Sie oder Ihr Administrator zum Abschließen der Einrichtung Ihres Unternehmens vollständiges Profil einschließlich Supportinformationen, ggf. steuerbefreiungen und primärer Kontaktinformationen. 
 
-Der Administrator muss außerdem Benutzerkonten für alle Personen erstellen, die das Partner-Dashboard zum Hinzufügen oder Verwalten von Kunden, zum Verkaufen von Abonnements, zum Arbeiten mit Rechnungen, zur Rechnungsstellung, zum Erstellen von Unternehmensprofilen, zum Verwalten von Empfehlungen und zum Bereitstellen von Support verwenden.
+Sie oder Ihr Administrator erstellt auch Benutzerkonten für alle Benutzer das Partner-Dashboard zum Hinzufügen oder Verwalten von Kunden verwenden, zum Verkaufen von Abonnements, arbeiten mit Abrechnung und Fakturierung, zum Erstellen von Unternehmensprofilen, zum Verwalten von Empfehlungen, arbeiten mit incentives Programme und bereitstellenden Unterstützung.
+
+>[!NOTE]
+>Kontoeinstellungen befindet sich in der oberen rechten Ecke des Dashboards. Wenn Sie das Symbol auswählen, werden Sie können auswählen, was Sie verwalten möchten. Angenommen, wählen Sie das **Konto-Symbol**, und wählen Sie dann **benutzerverwaltung**. Dadurch gelangen Sie die Benutzer-Management-Seite und eröffnet auch eine zusätzliche Bereich, in dem alle **kontoeinstellungen** Optionen enthält.
 
 
 ## <a name="resources-to-help-you-manage-your-partner-dashboard-account"></a>Ressourcen, die Ihnen beim Verwalten Ihres Partner-Dashboard-Kontos helfen

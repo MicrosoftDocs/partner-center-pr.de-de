@@ -3,49 +3,57 @@ title: DevOps-Kompetenz
 description: Wenn Sie Erfahrung bei der Zusammenarbeit mit Unternehmen haben und ihnen bei der Verwaltung von Softwarelebenszyklen helfen, indem Sie die DevOps Features der Entwicklungsplattform von Microsoft gezielt einsetzen, ist die DevOps-Kompetenz die richtige Wahl, sich mit Ihrer Organisation als Partner von Microsoft zu etablieren.
 author: Daniel Simpson
 keywords: Kompetenz, Kompetenzen, DevOps
-ms.openlocfilehash: a50b05f815f9eacfb52600b923dc53ff7c1fb8f6
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 575027d70b033085db21a30b7e703df53790f996
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875720"
 ---
-# <a name="devops"></a>DevOps
- Wenn Sie Erfahrung bei der Zusammenarbeit mit Unternehmen haben und ihnen bei der Verwaltung von Softwarelebenszyklen helfen, indem Sie die DevOps Features der Entwicklungsplattform von Microsoft gezielt einsetzen, ist die DevOps-Kompetenz die richtige Wahl, sich mit Ihrer Organisation als Partner von Microsoft zu etablieren.
+>[!IMPORTANT]
+>Informationen zu den Anforderungen für die Erreichung dieses Kompetenz finden Sie auf der [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
 
-## <a name="devops-partner-option"></a>DevOps Partner-Option
-Die DevOps Partner-Option ist ideal für Partner, die Microsoft Visual Studio verwenden, um Softwarelebenszyklusverwaltung für ihre Kunden bereitzustellen. Durchlaufen Sie alle Schrittein der Option, um die DevOps-Kompetenz zu erlangen.
+<!--
 
-###<a name="silver"></a>Silver
-1. **2** Personen in Ihrer Organisation müssen die Prüfungsanforderungen erfüllen.
+# DevOps
+ If you have deep experience working with businesses helping them manage software lifecycles by leveraging the DevOps features of Microsoft’s development platform, then DevOps competency is the right choice to establish your organization as Microsoft's partner.
 
-    - **2** Personen müssen jeweils alle folgenden Prüfungen bestehen:
+## DevOps Partner option
+The DevOps Partner option is ideal for partners who use Microsoft Visual Studio to deliver software lifecycle management for their customers. Complete all the steps within the option to attain the DevOps competency.
 
-        - [Prüfung 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012, Administration
-        - [Prüfung 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Delivering Continuous Value with Visual Studio Application Lifecycle Management
+###Silver
+1. Your organization must have **2** individuals pass the exam requirements.
 
-    **UND**
+    - **2** individuals must each pass all the following exams:
 
-    - **1** der **2** Personen muss eine der folgenden Prüfungen bestehen:
+        - [Exam 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012, Administration
+        - [Exam 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Delivering Continuous Value with Visual Studio Application Lifecycle Management
 
-        * [Prüfung 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Software Testing with Visual Studio 2012
+    **AND**
+
+    - **1** of the same **2** individuals must pass one of the following exams:
+
+        * [Exam 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Software Testing with Visual Studio 2012
         * [PMI Agile Certified Practitioner (PMI-ACP)](http://www.pmi.org/certifications/types/agile-acp)
         * [Professional Scrum Master level 1 (PSM I)](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
         * [Scrum Alliance Certified Scrum Master](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
     
-###<a name="gold"></a>Gold
-1. **4** Personen in Ihrer Organisation müssen die Prüfungsanforderungen erfüllen.
+###Gold
+1. Your organization must have **4** individuals pass the exam requirements.
 
-    - **4** Personen müssen jeweils alle folgenden Prüfungen bestehen:
+    - **4** individuals must each pass all the following exams:
 
-        - [Prüfung 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012, Administration
-        - [Prüfung 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Delivering Continuous Value with Visual Studio Application Lifecycle Management
+        - [Exam 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012, Administration
+        - [Exam 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Delivering Continuous Value with Visual Studio Application Lifecycle Management
 
-    **UND**
+    **AND**
 
-    - **2** der **4** Personen müssen eine der folgenden Prüfungen bestehen:
+    - **2** of the same **4** individuals must pass one of the following exams:
 
-        * [Prüfung 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Software Testing with Visual Studio 2012
+        * [Exam 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Software Testing with Visual Studio 2012
         * [PMI Agile Certified Practitioner (PMI-ACP)](http://www.pmi.org/certifications/types/agile-acp)
         * [Professional Scrum Master level 1 (PSM I)](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
         * [Scrum Alliance Certified Scrum Master](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
-        
+-->        

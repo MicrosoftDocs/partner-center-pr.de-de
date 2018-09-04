@@ -1,13 +1,15 @@
 ---
 title: Aktualisieren der Microsoft Partner Network-Mitgliedschaft | Partner Center
-description: "Wenn Sie Ihre Microsoft Partner Network-Mitgliedschaft aktualisieren, haben Sie Anspruch auf exklusive Mitgliedschaftsvorteile. Enthält Informationen zum Suchen und Kaufen verfügbarer Angebote."
+description: Wenn Sie Ihre Microsoft Partner Network-Mitgliedschaft aktualisieren, haben Sie Anspruch auf exklusive Mitgliedschaftsvorteile. Enthält Informationen zum Suchen und Kaufen verfügbarer Angebote.
 author: MaggiePucciEvans
 robots: noindex,nofollow
-ms.openlocfilehash: 9503ce2188adf77122a1eb48efe748abddaabcb6
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875710"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Aktualisieren der Microsoft Partner Network-Mitgliedschaft
 
@@ -27,7 +29,7 @@ Das Partnerprogramm von Microsoft bietet die folgenden drei Mitgliedschaftsoptio
 
   - Gold-Kompetenz – erstklassige Kenntnisse in einem bestimmten Bereich der Microsoft-Lösungen
 
-Nachdem Sie dem Microsoft Partner Network beigetreten sind, haben Sie Anspruch auf die Aktualisierung Ihrer Mitgliedschaft und den Erwerb exklusiver Mitgliedschaftsvorteilsangebote. Weitere Informationen über die Mitgliedschaft im Microsoft Partner Network finden Sie unter [https://partner.microsoft.com](https://partner.microsoft.com).
+Nachdem Sie dem Microsoft Partner Network beigetreten sind, haben Sie Anspruch auf die Aktualisierung Ihrer Mitgliedschaft und den Erwerb exklusiver Mitgliedschaftsvorteilsangebote. Weitere Informationen über die Mitgliedschaft im Microsoft Partner Network, wechseln Sie zu [https://partner.microsoft.com](https://partner.microsoft.com).
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Kauf eines Microsoft Action Pack-Abonnements
@@ -104,9 +106,9 @@ Wenn Sie die automatische Abonnementverlängerung deaktivieren, ist es nicht mö
 
 Wenn Sie Ihr Microsoft Action Pack-Abonnement kündigen möchten, müssen Sie sich an den Partner Center-Support wenden.
 
-1. Gehen Sie zu https://partnercenter.microsoft.com/partner/support.
+1. Wechseln Sie zu https://partnercenter.microsoft.com/partner/support.
 
-2. Wählen Sie **Probleme mit dem Partner Center melden**, und wählen Sie dann **Neue Anfrage** auf der nächsten Seite.
+2. Wählen Sie **Probleme mit dem Partner Center melden** und dann **Neue Anfrage** auf der nächsten Seite aus.
 
 3. Erweitern Sie die Liste **Problemtyp**, und wählen Sie **Help with partner invoice, payment, or reconciliation file**. 
 

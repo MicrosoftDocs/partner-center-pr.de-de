@@ -3,12 +3,13 @@ title: Hinzufügen von Drittanbietersoftware zu Ihrem Portfolio | Partner Center
 description: Kaufen von Drittanbietersoftware, die mit Microsoft-Produkten funktioniert
 author: labrenne
 keywords: Drittanbieter-Angebote, Kaufsoftware
-ms.openlocfilehash: 5b2e06b026f1ab9c9e1dfbe14d22aef9af83fa7d
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7efeaee27abf7c08574c7ab81fc4303ffda3221f
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991702"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875520"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Hinzufügen von Drittanbietersoftware zu Ihrem Portfolio
 

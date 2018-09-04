@@ -1,45 +1,63 @@
 ---
 title: Bereitstellen von technischem Support | Partner Center
-description: "Als Partner im Programm für Cloud-Lösungsanbieter verfügen Sie über delegierte Administratorrechte, die Ihnen den Zugriff auf die Umgebungen Ihrer Kunden ermöglichen."
+description: Als Partner im Programm für Cloud-Lösungsanbieter verfügen Sie über delegierte Administratorrechte, die Ihnen den Zugriff auf die Umgebungen Ihrer Kunden ermöglichen.
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
-ms.openlocfilehash: f9252b0cde71b1265458f374eec1470f29ddb433
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 79a502898058897c6ae05667b951ddc47d7d4697
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874600"
 ---
 # <a name="provide-technical-support"></a>Bereitstellen von technischem Support
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud for US Government
 -  Partner Center für Microsoft Cloud Deutschland
 
 Als Partner im Programm für Cloud-Lösungsanbieter verfügen Sie über delegierte Administratorrechte, die Ihnen den Zugriff auf die Umgebungen Ihrer Kunden ermöglichen. Mit diesen Rechten können Sie direkten Support für Kundenabonnements bereitstellen, diese konfigurieren und verwalten.
 
 Im Partner Center können Sie folgende Aktionen ausführen:
 
--   Anzeigen der Integrität der von Kunden abonnierten Dienste
-
--   Anzeigen der Dienstvorfälle von Kunden
-
--   Ausführen von Verwaltungsaufgaben im Auftrag von Kunden, um fehlende oder nicht ausreichend konfigurierte Einstellungen zu korrigieren
+-   Kunden-dienstintegrität anzeigen
+-   Dienstvorfälle von Kunden anzeigen
 
 **Ausführen von Verwaltungsaufgaben für Kunden**
 
 1.  Wählen Sie im Menü **Dashboard** die Option **Kunden** aus. Wählen Sie den Kunden aus der Liste aus.
-
 2.  Wählen Sie im Menü „Kunde” die Option **Dienstverwaltung** aus.
-
-3.  Wählen Sie im Abschnitt **Dienste verwalten** den Dienst aus, den Sie verwalten müssen, um das Verwaltungsportal für den Dienst zu öffnen.
-
-4.  Wenn Sie ein Problem mit dem jeweiligen Kundenkonto feststellen, z.B. Dienste sind ausgefallen oder weisen eine beeinträchtigte oder fehlerhafte Funktionalität auf, sollten Sie zunächst die Dienstintegrität überprüfen. Siehe [Überprüfen der Dienstintegrität](check-service-health.md).
-
+3.  Wählen Sie den Dienst, die Sie arbeiten, um das Verwaltungsportal für den Dienst zu öffnen, im Abschnitt **Dienste verwalten** .
+4.  Wenn Sie ein Problem mit dem Konto eines Kunden wie z. B. Dienste sind finden ausgefallen oder weisen eine beeinträchtigte Funktionalität, sollten Sie zunächst die dienstintegrität überprüfen. Siehe [Überprüfen der Dienstintegrität](check-service-health.md).
 5.  Zum Eskalieren eines vorhandenen Problems an Microsoft reichen Sie eine Serviceanfrage ein. Siehe [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md).
 
  
+## <a name="microsoft-partner-support-guidance"></a>Microsoft Partner-Support-Richtlinien
 
+Partner im CSP-Modell Transaktionen sind die als vertrauenswürdiger Berater für Kunden und die Beziehung End-to-End, einschließlich Unterstützung, wenn ihre Kunden eine Frage oder ein Problem hat besitzen. Über Unterstützung Touch Informationen Punkte Partner Weitere zum Kunden und ihr Unternehmen neue Dienste und Lösungen, die Wert Laufwerk identifizieren.
+
+Um die Support-Anforderung zu erfüllen kann der Partner Support aus einer anderen Entität weiterverkaufen, sie können alle oder einen Teil ihrer Supportstruktur Auslagern bzw. sie möglicherweise eine Struktur eingerichtet, um Unterstützung direkt bereitzustellen.  Der Partner kann für alle oder einen Teil der Unterstützung bereitgestellt werden, um Kunden zu belasten. Der Partner sollten an ihre Kunden den Support zu gliedern, den Sie bieten, den Dienst Stunden und wenden Sie sich an Methode als auch die Preise (Wenn für die Unterstützung geladen) werden. 
+
+Partner sind erforderlich, um eingehende Supportanfragen von Kunden zu erhalten, Probleme, die die besten Merkmale von des Partners Möglichkeit zu diagnostizieren und Beheben von Problemen, die innerhalb des Bereichs, der die grundlegende Unterstützung Grenzen liegen dann. Ist der Partner ein Problem nicht beheben, können sie eskalieren von Problemen an Microsoft über die folgenden Unterstützung Fahrzeuge:
+
+- **Commercial** Problem-Unterstützung ist für alle Partner im CSP-Programm verfügbar
+-   **Technischen** Support von Problem wird bereitgestellt durch:
+    -   Premier-Support für Partner (Gebühr Basis)
+    -   Erweiterte Support für Partner (Gebühr Basis)
+    -   Signature Cloud Support (in Gold-/Silver-Kompetenz enthalten)
+
+### <a name="providing-billing-subscription-management-and-technical-support"></a>Bereitstellen von Abrechnung und abonnementverwaltung und technische Unterstützung 
+
+Jede online-Dienste verfügt über spezifische und ausführliche für Abrechnung und abonnementverwaltung technischen Support für Kunden bereitstellen. In den folgenden Dokumenten für Weitere Informationen zu verweisen.
+
+-   [Dynamics 365-Abonnements über CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+
+-   [Azure-Abonnements über CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+
+-   [Office 365-Abonnements über CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 
 

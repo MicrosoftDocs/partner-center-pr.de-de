@@ -1,13 +1,15 @@
 ---
-title: "Verfügbarkeit der Office365 E5-Einzel-SKU in CSP | Partner Center"
-description: "Die Office365 Enterprise E5-Einzel-SKU ist in CSP verfügbar und umfasst PSTN-Konferenzfunktionen."
+title: Verfügbarkeit der Office365 E5-Einzel-SKU in CSP | Partner Center
+description: Die Office365 Enterprise E5-Einzel-SKU ist in CSP verfügbar und umfasst PSTN-Konferenzfunktionen.
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
-ms.openlocfilehash: 76ca9b8599862c0b17a1281aa3e420ecb3c26ea2
-ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: cce364069f6710d81435f8d973cd187c98543f96
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876290"
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office365 Partner Advisory: Verfügbarkeit der Office365 E5-Einzel-SKU in CSP
 

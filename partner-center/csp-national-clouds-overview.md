@@ -1,13 +1,15 @@
 ---
-title: "Bewerben für den Verkauf in den nationalen Clouds von Microsoft | Partner Center"
-description: "Microsoft-Partner im Programm für Cloud-Lösungsanbieter können an Kunden verkaufen, die in unterstützten nationalen Clouds registriert sind."
+title: Bewerben für den Verkauf in den nationalen Clouds von Microsoft | Partner Center
+description: Microsoft-Partner im Programm für Cloud-Lösungsanbieter können an Kunden verkaufen, die in unterstützten nationalen Clouds registriert sind.
 author: MaggiePucciEvans
 keywords: Nationale Clouds, Microsoft-Cloud Deutschland, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud China
-ms.openlocfilehash: b900715218818d7e007360fcdcde707f7288049e
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 1650183fd51f1fdc933456fffdf0ef8c3e53b1ed
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875890"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Bewerben für den Verkauf in nationalen Clouds von Microsoft
 

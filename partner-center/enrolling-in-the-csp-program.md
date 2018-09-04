@@ -2,16 +2,17 @@
 title: Registrieren für das Programm für Cloud Solution Provider | Partner Center
 description: Grundlegendes zu den verschiedenen Modellen für den Verkauf in CSP und herausfinden, welche Lösung am besten zu Ihrem Unternehmen passt
 author: labrenne
-ms.openlocfilehash: 3fb617c78ac0120c2f1588022441469fa0345708
-ms.sourcegitcommit: f6681a0bd9f09242b3544448573d30f5a0aa1f3c
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 609ef0bd1e280e41cd74088b8a42ffe7771d5ef9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/26/2018
-ms.locfileid: "1808661"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876400"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud Solution Provider
 
-**Betriff:**---
+**Betrifft**
 
 -  Partner Center
 
@@ -22,7 +23,7 @@ Um sich beim Programm für Cloud Solution Provider zu registrieren, benötigen S
 
 Beim Ausfüllen der CSP-Anwendung benötigen Sie Ihre MPN-ID, eine vollständige Geschäftsadresse, Bankverbindungen und die E-Mail-Adresse des Mitarbeiters, der als Administrator für Partner-Dashboard fungiert.
 
-Entscheiden Sie, welches [CSP-Modell zutrifft](http://partner-l1.microsoft.com/cloud-solution-provider-direct-or-indirect.html?ocid=cx-pcprograms-cspprogram-tellusmorebusiness) und führen Sie den Prozess durch. 
+Entscheiden Sie, welches [CSP-Modell zutrifft](https://partnercenter.microsoft.com/en-us/cloud-solution-provider/csp-enrollment) und führen Sie den Prozess durch. 
 
 Die Überprüfung Ihrer Angaben kann mehrere Tage dauern. Wir werden Sie per E-Mail informieren, wenn unsere Überprüfung abgeschlossen ist.
 
@@ -41,15 +42,29 @@ Die Überprüfung Ihrer Angaben kann mehrere Tage dauern. Wir werden Sie per E-M
 
 ### <a name="enroll-as-a-direct-partner"></a>Sich als direkter Partner registrieren
 
->**Hinweis:**<br> Wir sind gerade dabei, unsere Anforderungen für direkte Partneranmeldungen zu aktualisieren und akzeptieren derzeit keine neuen Anwendungen. Wir planen, den Bewerbungsprozess ab dem 31. August wieder zu eröffnen. Ziehen Sie eine Registrierung als indirekter Händler in Erwägung. 
-
 Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit Microsoft.
 
 - Sobald Sie angemeldet sind und die Kriterien als direkter Partner erfüllen, kann der globale Administrator Ihr Konto einrichten, Mitarbeiter hinzufügen, diesen Rollen und Berechtigungen gemäß ihrer Arbeit zuweisen und das Organisationsprofil einrichten. 
 
 - Wenn Sie Ihre Arbeit mit Kunden im Partner Center fortsetzen möchten, müssen Sie diese Ihrem Partner-Dashboard-Konto [zuordnen](request-a-relationship-with-a-customer.md).  Microsoft kann so die Abrechnung und Fakturierung mit Ihnen verbinden. 
 
-| Verfügbarkeit nach Markt |
+>**Hinweis:**<br> Die Anforderungen für eine direkte Partnerschaft zuletzt geändert wurden und wirksam ab 31. August 2018. Direkte Partner müssen die neue erfüllen ab ihrer nächsten Registrierung Zeitraum nach dem 31. August 2018.
+
+#### <a name="new-expanded-requirements"></a>Neue erweiterte Anforderungen:
+
+Unterstützung
+- Erweitern Sie Ihre Fähigkeiten Unterstützung durch den Erwerb persönlichen, priorisierten Cloud-Unterstützung mit einem Microsoft Advanced Support für Partner-Paket aus. Oder Sie wählen einen Microsoft Premier Support für Partner-Paket auf den vollständigen Katalog der proaktive Dienste zugreifen, 24/7 mit erhöhten Rechten Problembehebung Support und technische Kontenverwaltung über Cloud, Hybrid- und lokale. 
+
+Dienste
+
+- Führen Sie vor, dass Sie mindestens ein verwalteter Dienst, IP-Dienst oder Kunden Lösung Anwendung bereitstellen. Erfahren Sie mehr über verwaltete Dienste hinzufügen
+
+- Erfüllen Sie die minimale Infrastrukturfunktionen, z. B. Abrechnung und Bereitstellung.
+Wir sind jährliche Leistung, um sicherzustellen, dass die Online-Dienst-Partner, die diese Anforderungen erfüllt stetig Unternehmenswachstum demonstrieren sind überwachen. Es gibt keine spezifische Leistungsziele im Ort zu diesem Zeitpunkt, aber Microsoft möglicherweise eine Leistung Leiste in Zukunft implementieren. 
+
+- Eine aktive Microsoft Partner Network (MPN)-ID für den Standort, in dem Sie den Verkauf tätigen möchten
+
+|**Verfügbarkeit nach Markt**|
 |----------------------------------------------------------------------------------------------|
 | Brasilien  |
 | Kanada  |
@@ -71,7 +86,7 @@ Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit 
 
 Ihr geografischer Standort bestimmt die Währung, in der Ihre Rechnungen gestellt werden, wie in der folgenden Tabelle gezeigt. Hinweis: Wenn Sie eine andere Abrechnungswährung verwenden möchten, müssen Sie aufgrund von steuerlichen und rechtlichen Auswirkungen einen neuen Mandanten erstellen und diese Währung angeben. 
 
-| Währung | Land |
+| **Währung** | **Land** |
 | ---- | ---- |
 | USD | Albanien und St. Eustatius, Anguilla, Antarktis, Antigua und Barbuda, Argentinien, Armenien, Aruba, Aserbeidschan, Bahamas, Bahrain, Bangladesch, Barbados, Belarus, Belize, Benin, Bermuda, Bolivien, Bonaire, Brasilien, Britisches Territorium im Indischen Ozean, Brunei Darussalam, Burundi, Kamerun, Kaimaninseln, Zentralafrikanische Republik, Chile, Kolumbien, Komoren, Costa Rica, Curaçao, Dominikanische Republik, Ecuador, Ägypten, El Salvador, Äquatorialguinea, Fidschi, Französisch-Guayana, Französisch-Polynesien, Georgien, Ghana, Guatemala, Guinea-Bissau, Honduras, Hongkong (SAR), Indonesien, Irak, Israel, Jamaika, Kasachstan, Kenia, Kuwait, Kirgisistan, Libanon, Lesotho, Macau SAR, Madagaskar, Malawi, Malaysia, Mali, Mauretanien, Mauritius, Mayotte, Mexiko, Marokko, Namibia, Neukaledonien, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Peru, Philippinen, Puerto Rico, Katar, Réunion, Ruanda, Saba, St. Lucia, St. Martin, St. Vincent und die Grenadinen, Saudi-Arabien, Serbien, Seychellen, Sierra Leone, Singapur, St. Maarten, Somalia, Südafrika, Sri Lanka, Suriname, Swasiland, Tansania, Thailand, Timor-Leste, Togo, Trinidad und Tobago, Tunesien, Türkei, Turks- und Caicosinseln, Amerikanische Jungferninseln, Ukraine, Vereinigte Arabische Emirate, Vereinigte Staaten, Uruguay, Venezuela, Vietnam, Yemen. | 
 | TWD | Taiwan |

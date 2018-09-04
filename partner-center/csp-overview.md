@@ -3,15 +3,17 @@ title: Programm für Cloud-Lösungsanbieter – begehrte Cloudlösungen verkaufe
 description: Mit dem Programm für Cloud-Lösungsanbieter kann Ihr Unternehmen mit neuem Expertenwissen und neuem Kunden wachsen.
 author: labrenne
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Office365, Dynamics, CSP-Partner im CSP, direkte Partner, direkter CSP-Partner, indirekter CSP-Händler, direkter CSP, indirekter CSP, direktes Modell, indirektes Modell, indirekter Händler, indirekter Anbieter, Anbieter, Verteiler, Cloud Solution Provider-Programm
-ms.openlocfilehash: 1e23de4014e9d3dd85134c17e60dfeacc8acf9d7
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7075949392621c73d8c5d45f2971c759b1114f9e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875750"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programm für Cloud Solution Provider – begehrte Cloudlösungen verkaufen 
 
-**Betriff:**
+**Betrifft:**
 
 -  Partner Center
 
@@ -26,11 +28,22 @@ Mit dem Programm für Cloud-Lösungsanbieter (CSP) können Sie über den Wiederv
 
 ### <a name="direct-bill-model"></a>Direktrechnungsmodell
 
- Im Direktrechnungsmodell erwerben Partner Produkte und Abonnements von Microsoft direkt von Microsoft und verkaufen sie über ihre internen Vertriebsmitarbeiter direkt an ihre Kunden. Partner, die bereits über eine bestehende – oder sich in der Entwicklung befindliche – Verkaufs-, Abrechnungs und Support-Infrastruktur verfügen das direkte CSP-Modell wählen. Geeignete Partner für das direkte CSP-Modell sollten diese Voraussetzungen erfüllen:
+ Im Direktrechnungsmodell erwerben Partner Produkte und Abonnements von Microsoft direkt von Microsoft und verkaufen sie über ihre internen Vertriebsmitarbeiter direkt an ihre Kunden. Partner, die bereits über eine bestehende – oder sich in der Entwicklung befindliche – Verkaufs-, Abrechnungs und Support-Infrastruktur verfügen das direkte CSP-Modell wählen. Die Anforderungen für eine direkte Partnerschaft zuletzt geändert wurden und wirksam ab 31. August 2018. Direkte Partner müssen die neue erfüllen ab ihrer nächsten Registrierung Zeitraum nach dem 31. August 2018.
+
+
+#### <a name="new-expanded-requirements"></a>Neue erweiterte Anforderungen:
+
+Unterstützung
+- Erweitern Sie Ihre Fähigkeiten Unterstützung durch den Erwerb persönlichen, priorisierten Cloud-Unterstützung mit einem Microsoft Advanced Support für Partner-Paket aus. Oder Sie wählen einen Microsoft Premier Support für Partner-Paket auf den vollständigen Katalog der proaktive Dienste zugreifen, 24/7 mit erhöhten Rechten Problembehebung Support und technische Kontenverwaltung über Cloud, Hybrid- und lokale. 
+
+Dienste
+
+- Führen Sie vor, dass Sie mindestens ein verwalteter Dienst, IP-Dienst oder Kunden Lösung Anwendung bereitstellen. Erfahren Sie mehr über verwaltete Dienste hinzufügen
+
+- Erfüllen Sie die minimale Infrastrukturfunktionen, z. B. Abrechnung und Bereitstellung.
+Wir sind jährliche Leistung, um sicherzustellen, dass die Online-Dienst-Partner, die diese Anforderungen erfüllt stetig Unternehmenswachstum demonstrieren sind überwachen. Es gibt keine spezifische Leistungsziele im Ort zu diesem Zeitpunkt, aber Microsoft möglicherweise eine Leistung Leiste in Zukunft implementieren. 
+
 - Eine aktive Microsoft Partner Network (MPN)-ID für den Standort, in dem Sie den Verkauf tätigen möchten
-- Bereits vorhandene Infrastruktur für Kundensupport
-- Bereits vorhandene Infrastruktur für die Abrechnung
-- Finanzielle Mittel zur Investition in die technische Integration und Support-Bereitschaft
 
 
 ### <a name="indirect-model"></a>Indirektes Modell

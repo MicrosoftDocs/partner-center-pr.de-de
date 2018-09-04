@@ -1,13 +1,15 @@
 ---
 title: Reaktion auf Empfehlungen | Partner Center
-description: "Bewerten, Verhandeln und Beantworten von Empfehlungen über Partner Center."
+description: Bewerten, Verhandeln und Beantworten von Empfehlungen über Partner Center.
 author: KPacquer
 keywords: Empfehlung, RFI, Partner suchen
-ms.openlocfilehash: 43e04eaf34b788ceb41c70fa2a9c1ee08812ea2d
-ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 70ba5b0afac8283806955410e57d459c849ed4f4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875420"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Reaktion auf Empfehlungen in Partner Center
 

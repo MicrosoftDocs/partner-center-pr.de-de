@@ -4,19 +4,22 @@ description: Nachdem Sie für Ihre Kunden einen Datensatz in Partner Center erst
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
-ms.openlocfilehash: 5bb34d1b98cf8890bcc092c4fe6c8dbe502ed4a1
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 103fb80729c82287136dd3f006cc514d795a91be
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874850"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Anhalten oder Abbrechen von Kundenabonnements
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud for US Government
 -  Partner Center für Microsoft Cloud Deutschland
+-  CSP-Partner
 
 Nachdem Sie für Ihre Kunden einen Datensatz in Partner-Dashboard erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen.
 
@@ -31,10 +34,11 @@ Bitte beachten Sie, dass bestimmte Angebote auf ein Abonnement pro Kunde beschr�
 
 3.  Wählen Sie den zu verwendenden Typ für die Abonnementabrechnung aus.  Unter [Häufig gestellte Fragen zu neuen Abrechnungsfunktionen](faq-about-new-billing-features.md) finden Sie Informationen, die Ihnen bei der Wahl zwischen monatlichem und jährlichem Abrechnungsintervall helfen.
  
- >**Hinweis**<br> Sie haben nun die Möglichkeit, Ihren Kunden für bestimmte Produkte eine kostenlose Testversion anzubieten. Zum Testen verfügbare Produkte befinden sich im Katalog auf der Registerkarte "Testversion". Siehe [Anbieten von Testversionen von Microsoft-Produkten für Kunden](offer-your-customers-trials-of-microsoft-products.md).
+ >[!Note]
+ >Sie können Kunden Testabonnements anbieten. Zum Testen verfügbare Produkte befinden sich unter der Registerkarte "Testversion" im Katalog. Siehe [Anbieten von Testversionen von Microsoft-Produkten für Kunden](offer-your-customers-trials-of-microsoft-products.md).
 
  
-4. Wählen Sie nach Auswahl des Abrechnungsintervalls im Katalog die Produkte aus, für die Sie Abonnements wünschen. Die Produktverfügbarkeit hängt vom Typ des Kunden (Bildungseinrichtung, Behörde usw.) und vom ausgewählten Abrechnungsintervall ab. Wenn ein Produkt nicht verfügbar ist, hat der Kunde möglicherweise bereits ein Abonnement für dieses Produkt, und es ist nur eines zulässig. Oder Sie haben das Abonnement möglicherweise storniert. In diesem Fall können Sie es erneut aktivieren, anstatt ein neues zu erwerben.
+4. Wählen Sie nachdem Sie die abrechnungshäufigkeit ausgewählt die Produkte, die Sie Abonnements für im Katalog möchten. Die Produktverfügbarkeit hängt vom Typ des Kunden (Bildungseinrichtung, Behörde usw.) und vom ausgewählten Abrechnungsintervall ab. Wenn ein Produkt nicht verfügbar ist, hat der Kunde möglicherweise bereits ein Abonnement für dieses Produkt, und es ist nur eines zulässig. Oder Sie haben das Abonnement möglicherweise storniert. In diesem Fall können Sie es erneut aktivieren, anstatt ein neues zu erwerben.
 
 5. Überprüfen Sie das Abonnement, das Sie hinzufügen möchten, und geben Sie die Anzahl der Lizenzen ein. **Übermitteln** Sie dann die Bestellung.
 

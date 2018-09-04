@@ -3,11 +3,13 @@ title: Analysieren der Effektivität von Unternehmensprofilen | Partner Center
 description: Bewerten, Verhandeln und Beantworten von Empfehlungen über Partner Center.
 author: KPacquer
 robots: noindex,nofollow
-ms.openlocfilehash: 15050124e65f7740a4f76eb075ad7701ed918154
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: def007588180904b929cd568b43a04548e574cd6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875360"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analysieren der Effektivität von Unternehmensprofilen
 <!-- 

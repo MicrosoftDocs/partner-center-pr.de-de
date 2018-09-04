@@ -1,12 +1,14 @@
 ---
 title: Verwalten Ihres Partner Center-Kontos | Partner Center
-description: "Microsoft Partner-Incentives-Programme fördern Partnerrentabilität und -wachstum."
+description: Microsoft Partner-Incentives-Programme fördern Partnerrentabilität und -wachstum.
 author: labrenne
-ms.openlocfilehash: 7a924526d90843b44aeb192fed3c2c994be89133
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8141d3cf0796885ff911b75c3898af7065612f06
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875880"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>Verwalten Ihrer Incentives in Partner Center 
 
@@ -50,3 +52,4 @@ Wenn der Anreizadministrator Anmeldeinformationen erhalten hat, kann er die Migr
 
 [Informationen zu den Anreizauszahlungen](understand-incentive-payouts.md)
 
+Weitere Informationen finden Sie im [Partner Incentives Co-op-Leitfaden](https://assets.microsoft.com/coop-guidebook.pdf)

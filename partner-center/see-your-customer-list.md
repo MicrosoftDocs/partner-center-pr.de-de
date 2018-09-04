@@ -1,19 +1,22 @@
 ---
 title: Verwalten der Kundenliste | Partner Center
-description: "Kundendatensätze gehören zu den wichtigsten Informationsressourcen in Partner Center."
+description: Kundendatensätze gehören zu den wichtigsten Informationsressourcen in Partner Center.
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-ms.openlocfilehash: f5ca9d3bfde754e617eda5b172e19683469fcfe2
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8242a5b00af5517aa9b480077201b32bae7b251e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876820"
 ---
 # <a name="manage-your-customer-list"></a>Verwalten der Kundenliste
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud for US Government
 -  Partner Center für Microsoft Cloud Deutschland
 
 Kundendatensätze gehören zu den wichtigsten Informationsressourcen in Partner Center. Sie können Ihre Kundenkontendatenbank durchsuchen oder die gesamte Kundendatenbank bzw. eine Teilmenge in eine Excel-kompatible, durch Trennzeichen getrennte Datei (CSV-Datei) exportieren. Sie können auch Informationen zu Kundenabonnements in eine CSV-Datei exportieren.
@@ -27,6 +30,12 @@ Darüber hinaus enthalten die Aktivitätsprotokolle exportierbare Daten zu Trans
 2.  Um nach einem Kunden zu suchen, geben Sie den Kundennamen oder den Domänennamen in das Suchfeld ein.
 3.  Wählen Sie den **Pfeil nach unten** am Ende einer Kundenzeile aus, um die Microsoft-ID des Kunden sowie die verknüpften Abonnements und Quicklinks zu Diensten anzuzeigen.
 
+## <a name="update-a-customers-company-name"></a>Firmenname des Kunden zu aktualisieren
+
+Wählen Sie im Menü **Dashboard** die Option **Kunden** aus.
+2.  Um nach einem Kunden zu suchen, geben Sie den Kundennamen oder den Domänennamen in das Suchfeld ein.
+3.  Wählen Sie den **Pfeil nach unten** am Ende einer Kundenzeile aus, um die Microsoft-ID des Kunden sowie die verknüpften Abonnements und Quicklinks zu Diensten anzuzeigen.
+4.  Aktualisieren Sie unter die Informationen des Kunden **Rechnungsempfänger** den Namen des Unternehmens. Wenn Sie den neuen Wert speichern, wird es in der Kundenliste widergespiegelt werden. Dies ändert sich nur auf den Unternehmensnamen Rechnungsempfänger und den Wert der Kunden Liste aus. Es wird nicht überall sonst widergespiegelt werden.
 
 ## <a name="export-your-customer-list"></a>Exportieren der Kundenliste
 

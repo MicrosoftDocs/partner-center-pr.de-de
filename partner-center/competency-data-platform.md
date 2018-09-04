@@ -1,83 +1,91 @@
 ---
 title: Data Platform-Kompetenz
-description: "Die Data Platform-Kompetenz erkennt Partner an, die leistungsfähige und vielseitige Datenbankplattformen für Ihr Unternehmen entwickeln möchten."
+description: Die Data Platform-Kompetenz erkennt Partner an, die leistungsfähige und vielseitige Datenbankplattformen für Ihr Unternehmen entwickeln möchten.
 author: Daniel Simpson
 keywords: Kompetenz,Kompetenzen,Data Platform
-ms.openlocfilehash: c415e79d831ccb742f39915574014f1d939c5821
-ms.sourcegitcommit: 6c5a1ce9da7ee313ef88ef584dbf4ecb4dc0d12c
-ms.translationtype: HT
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 57fee0a3d7c8b1ff3cf00893b641295b2b271813
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/21/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875650"
 ---
-#<a name="data-platform"></a>Data Platform
-Die Data Platform-Kompetenz erkennt Partner an, die leistungsfähige und vielseitige Datenbankplattformen für ihr Unternehmen entwickeln möchten.
+>[!IMPORTANT]
+>Informationen zu den Anforderungen für die Erreichung dieses Kompetenz finden Sie auf der [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
 
-- [Big Data-Option](#big-data-option) 
-- [SQL Server Specialist-Option](#sql-server-specialist-option)
+<!--
 
-##<a name="big-data-option"></a>Big Data-Option
-Die Big Data-Option ist ideal, wenn Sie es vorziehen, Ihr Wissen durch Bestehen von Assessments nachzuweisen. Führen Sie alle Schritte aus, um die Kompetenz "Data Platform" zu erlangen.
+#Data Platform
+The Data Platform competency recognizes partners who are looking to design and develop powerful and versatile database platforms to run their business.
 
-###<a name="silver"></a>Silver
-1. **2** Personen in Ihrer Organisation müssen die erforderlichen Assessments bestehen.
+- [Big Data option](#big-data-option) 
+- [SQL Server Specialist option](#sql-server-specialist-option)
 
-    - **2** Personen müssen das folgende Assessment bestehen:
+##Big Data option
+The Big Data option is ideal if you prefer to prove your skills by passing assessments. Complete all the steps within to attain the Data Platform competency.
+
+###Silver
+1. Your organization must have **2** individuals pass the required assessments.
+
+    - **2** individuals must pass the following assessment:
         - [Technical Assessment for Data Platform Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
 
-    **UND**
+    **AND**
 
-    - Die gleichen **2** Personen müssen eins der folgenden Assessments bestehen:
+    - The same **2** individuals must pass one of the following assessments:
         - [Technical Assessment for SQL Server 2016](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14355&scoId=nzHk0hygB_7404778676)
         - [Technical Assessment for Azure Data Warehouse](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17491&scoId=1yUZ01TnD_1606265419)
-        - [Technisches Assessment für Azure Data Services](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
+        - [Technical Assessment Azure Data Services](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
 
-###<a name="gold"></a>Gold
-1. **4** Personen in Ihrer Organisation müssen die erforderlichen Assessments bestehen.
+###Gold
+1. Your organization must have **4** individuals pass the required assessments.
 
-    - **4** Personen müssen das folgende Assessment bestehen:
+    - **4** individuals must pass the following assessment:
         - [Technical Assessment for Data Platform Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
 
-    **UND**
+    **AND**
 
-    - Die gleichen **4** Personen müssen eins der folgenden Assessments bestehen:
+    - The same **4** individuals must pass one of the following assessments:
         - [Technical Assessment for SQL Server 2016](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14355&scoId=nzHk0hygB_7404778676)
         - [Technical Assessment for Azure Data Warehouse](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17491&scoId=1yUZ01TnD_1606265419)
-        - [Technisches Assessment für Azure Data Services](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
+        - [Technical Assessment Azure Data Services](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
 
-##<a name="sql-server-specialist-option"></a>SQL Server Specialist-Option
-Die SQL Server Specialist-Option eignet sich ideal, wenn Sie es vorziehen, Ihr Wissen durch Bestehen von Prüfungen in einem bestimmten Fachgebiet nachzuweisen. Durchlaufen Sie alle Schrittein der Option, um die Data Platform-Kompetenz zu erlangen.
+##SQL Server Specialist option
+The SQL Server Specialist option is ideal if you prefer to prove your skills by passing exams within a particular area of specialization. Complete all the steps within the option to attain the Data Platform competency.
 
-###<a name="silver"></a>Silver
-1. **1** Person in Ihrer Organisation muss alle Prüfungen in einem der beiden Fokusbereiche bestehen: **Datenbankverwaltung** ODER **Datenbankentwicklung**. Zudem muss die Person ein Assessment bestehen.
+###Silver
+1. Your organization must have **1** individual pass all of the exams in any one of the two focus areas: **Database Administration** OR **Database Development**, and the individual must pass an assessment.
 
-    - Fokus **Datenbankverwaltung**
-        - [Prüfung 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure 
-        - [Prüfung 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): Provisioning SQL Databases
+    - **Database Administration** focus area
+        - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure 
+        - [Exam 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): Provisioning SQL Databases
 
-    - Fokus **Datenbankentwicklung**
-        - [Prüfung 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
-        - [Prüfung 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): Querying Data with Transact-SQL
-        - [Prüfung 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
+    - **Database Development** focus area
+        - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+        - [Exam 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): Querying Data with Transact-SQL
+        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
 
-    **UND**
+    **AND**
 
     - [Technical Assessment Data Platform Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
 
-###<a name="gold"></a>Gold
-1. 2 Personen in Ihrer Organisation müssen alle Prüfungen in einem der beiden Fokusbereiche bestehen: **Datenbankverwaltung** ODER **Datenbankentwicklung**. Zudem müssen die Personen ein Assessment bestehen.
+###Gold
+1. Your organization must have 2 individuals pass all of the exams in any one of the two focus areas: **Database Administration** OR **Database Development**, and the individuals must pass an assessment.
 
-    - Fokus **Datenbankverwaltung**
-        - [Prüfung 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure 
-        - [Prüfung 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): Provisioning SQL Databases
+    - **Database Administration** focus area
+        - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure 
+        - [Exam 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): Provisioning SQL Databases
 
-    - Fokus **Datenbankentwicklung**
-        - [Prüfung 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
-        - [Prüfung 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): Querying Data with Transact-SQL
-        - [Prüfung 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
+    - **Database Development** focus area
+        - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+        - [Exam 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): Querying Data with Transact-SQL
+        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
 
-    **UND**
+    **AND**
 
     - [Technical Assessment Data Platform Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
-
+-->
 
 

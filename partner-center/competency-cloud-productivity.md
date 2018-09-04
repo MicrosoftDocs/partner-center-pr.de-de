@@ -1,66 +1,73 @@
 ---
 title: Cloud Productivity-Kompetenz
-description: "Die Kompetenz „Cloud Productivity“ erkennt Partner an, die sich auf Unternehmensbereitstellungen von Office365 spezialisieren. Heben Sie Ihr Unternehmen anhand dieser Kompetenz als bewährten Cloud-Lösungsanbieter für Kunden hervor, die nach qualifizierten Partnern für Cloudlösungen Ausschau halten."
+description: Die Kompetenz „Cloud Productivity“ erkennt Partner an, die sich auf Unternehmensbereitstellungen von Office365 spezialisieren. Heben Sie Ihr Unternehmen anhand dieser Kompetenz als bewährten Cloud-Lösungsanbieter für Kunden hervor, die nach qualifizierten Partnern für Cloudlösungen Ausschau halten.
 author: Daniel Simpson
 keywords: Kompetenz, Kompetenzen, Cloud Productivity
-ms.openlocfilehash: b9616b455fae524af82ce0880b99bcdde5816fa7
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 4d6915bc270500c926d17f10b6d6c0734a360c05
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874940"
 ---
-# <a name="cloud-productivity-competency"></a>Cloud Productivity-Kompetenz
+>[!IMPORTANT]
+>Informationen zu den Anforderungen für die Erreichung dieses Kompetenz finden Sie auf der [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
 
-Die Kompetenz „Cloud Productivity“ erkennt Partner an, die sich auf Unternehmensbereitstellungen von Office365 spezialisieren. Heben Sie Ihr Unternehmen anhand dieser Kompetenz als bewährten Cloud-Lösungsanbieter für Kunden hervor, die nach qualifizierten Partnern für Cloudlösungen Ausschau halten.
+<!--
+# Cloud Productivity competency
 
-## <a name="managed-service-partner-option"></a>Managed Service Partner-Option
-Die Managed Service Partner-Option eignet sich ideal für Partner, die Office 365-Umgebungen für ihre Kunden verwalten und Bereitstellungsdienste bieten. Durchlaufen Sie alle Schrittein der Option, um die Cloud Productivity-Kompetenz zu erlangen.
-### <a name="silver"></a>Silver
-1.  Ihre Organisation muss die Leistungsschwellenwerte erfüllen:
-    - **Industrieländer** 
-        - Partner müssen 2.000 aktive Berechtigungen (aktive Benutzer) bereitgestellt haben.
-    - **Entwicklungsländer**
-        -  Partner müssen 1.000 aktive Berechtigungen (aktive Benutzer) bereitgestellt haben.
+The Cloud Productivity competency is for partners who specialize in enterprise deployments of Office 365. Differentiate your company with this competency as a proven cloud solution provider for customers searching for qualified cloud solution partners.
+
+## Managed Service Partner option
+The Managed Service Partner option is ideal for partners who manage Office 365 environments for their customer as well as provide deployment services. Complete all the steps within the option to attain the Cloud Productivity competency.
+### Silver
+1.  Your organization must meet the performance thresholds:
+    - **Developed markets** 
+        - Partners must have deployed 2,000 active entitlements (active users)
+    - **Developing markets**
+        -  Partners must have deployed 1,000 active entitlements (active users)
     
-    - Bei den Bereitstellungen kann es sich um beliebige Microsoft Office 365-Workloads (Exchange Online, SharePoint Online, Skype for Business oder Yammer) oder ProPlus handeln. Jedoch nicht um Test-SKUs.     
-    - Hinweis: Für die aktiven Berechtigungen wird die Anzahl der aktiven Nutzer auf einer bestimmten Workload gemessen. 
-    - Für diese Kunden müssen Sie als delegierter Office365-Administrator oder Transacting Partner oder Digital Partner of Record zugeordnet sein.
-    - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.
+    - The deployments can be any Microsoft Office 365 workload (Exchange Online, SharePoint Online, Skype for Business, or Yammer) or ProPlus. Trial SKUs are not included.     
+    - Note: Active entitlements measures the count of active users on a specific workload 
+    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record or Fast Track Partner.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-2. **1** Person in Ihrer Organisation muss die Prüfungsanforderungen erfüllen.
+2. Your organization must have **1** individual pass the exam requirements.
 
-    - **1** Person muss alle folgenden Prüfungen bestehen:
+    - **1** individual must pass all the following exams:
 
-        - [Prüfung 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
-        - [Prüfung 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
     
-    **ODER**
+    **OR**
 
-    - **1** Person muss die folgende Zertifizierung erlangen:  
+    - **1** individual must obtain the following certification:  
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx): Office 365
 
-### <a name="gold"></a>Gold
+### Gold
 
-1.  Ihre Organisation muss die Leistungsschwellenwerte erfüllen. 
+1.  Your organization must meet the performance thresholds. 
 
-    - Partner müssen 4.000 aktive Berechtigungen (aktive Benutzer) bereitgestellt haben.
-    - Bei den Bereitstellungen kann es sich um beliebige Microsoft Office 365-Workloads (Exchange Online, SharePoint Online, Skype for Business oder Yammer) oder ProPlus handeln. Jedoch nicht um Test-SKUs.
-    - Hinweis: Für die aktiven Berechtigungen wird die Anzahl der aktiven Nutzer auf einer bestimmten Workload gemessen.
-    - Für diese Kunden müssen Sie als delegierter Office365-Administrator oder Transacting Partner oder Digital Partner of Record zugeordnet sein.
-    - [Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.
+    - Partners must have deployed 4,000 active entitlements (active users).
+    - The deployments can be any Microsoft Office 365 workload (Exchange Online, SharePoint Online, Skype for Business, or Yammer) or ProPlus. Trial SKUs are not included.
+    - Note: Active entitlements measures the count of active users on a specific workload
+    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record or Fast Track Partner.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-2.  **2** Personen in Ihrer Organisation müssen die Prüfungsanforderungen bestehen.
+2.  Your organization must have **2** individuals pass the exam requirements.
 
-    - **2** Personen müssen alle folgenden Prüfungen bestehen:
+    - **2** individuals must pass all the following exams:
 
-        - [Prüfung 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
-        - [Prüfung 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
         
-    **ODER**
+    **OR**
     
-    - **2** Personen müssen die folgende Zertifizierung erlangen:
+    - **2** individuals must obtain the following certification:
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx): Office 365
-
+-->
 
 
 

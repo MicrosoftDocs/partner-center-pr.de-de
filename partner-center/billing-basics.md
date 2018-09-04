@@ -3,12 +3,13 @@ title: Grundlagen zur Abrechnung | Partner Center
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: Abrechnung, Zahlungen, Aufträge, Abbruch, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Abstimmungsdateien, Abstimmungsdatei
-ms.openlocfilehash: 87e8dc8620a31ccbcdcd6e6b2987f8d304d62541
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 98b4edcbc7c10e73b59f89b74494ae363a306745
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/10/2018
-ms.locfileid: "1867482"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876390"
 ---
 # <a name="billing-basics"></a>Grundlagen zur Abrechnung
 
@@ -169,8 +170,8 @@ Um auf einmalige Rechnungen und Abgleichungsdateien zuzugreifen, wählen Sie **A
 2.  Auf der Seite **Kunden**, suchen Sie den Kunden, deren Bestellverlauf Sie anzeigen möchten, und wählen Sie dann den Pfeil nach unten, um den Datensatz des Kunden zu erweitern. 
 3.  Wählen Sie **Aufträge anzeigen**, um den Bestellverlauf anzuzeigen.
 
-#### <a name="create-a-credit-or-void-note"></a>Erstellen Sie eine Gutschrift oder eine leere Rechnung
+#### <a name="download-a-credit-note"></a>Eine Gutschrift herunterladen
 
-Zu einem bestimmten Zeitpunkt müssen Sie möglicherweise eine Rechnung stornieren und eine neue ausstellen. Beispielsweise kann ein Kunde den Namen der Geschäftsabläufe ändern, und dann eine Rechnung mit dem alten Namen erhalten. 
-
-Um eine Rechnung zu stornieren und eine neue auszustellen, laden Sie das Formular aus der Abrechnungsseite unter „Anpassen” herunter.
+Den Fall, dass Sie eine vollständige Gutschrift (Void Rechnung) und Rückbuchung testen, müssen wir Sie eine Gutschrift der ursprünglichen Rechnung und auch ein vollständiger neues Dokument Abbrechen bieten. Sie können eine Gutschrift/Rückbuchung aus folgenden Gründen anfordern:
+-   Beheben oder -Einkaufs-Reihenfolge Korrekturen
+-   Rechnung generiert, und klicken Sie dann eine Steuerrückerstattung angewendet wurde. Sie können eine Gutschrift/Rückbuchung, die Steuer Rückerstattung gezogen zurück in die ursprüngliche Rechnung anfordern. Dies gilt auch für Erstattungen, wie Sie eine Gutschrift/Rückbuchung der ursprünglichen Rechnung und dann durch Ziehen in eine Rückerstattung anfordern können.

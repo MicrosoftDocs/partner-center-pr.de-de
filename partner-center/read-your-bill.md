@@ -4,12 +4,13 @@ description: Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: Abonnementabrechnungen, Abrechnung, Abrechnung im Partner Center, Partner Center-Abrechnung, meine Rechnung lesen, Rechnung, Rechnung für Partner Center, CSP-Abrechnung, wo ist meine Rechnung?
-ms.openlocfilehash: ce930f95eb14405e46a371fb85fc9af02f39db73
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 70158f70388e4f0c458b22bccea539c36eef3700
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/10/2018
-ms.locfileid: "1867462"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875180"
 ---
 # <a name="read-your-bill"></a>Informationen zu Ihrer Rechnung
 
@@ -26,6 +27,7 @@ Partner im Cloud Solution Provider-Programm mit monatlicher Rechnung bezahlen Mi
 >**Hinweis:**<br>
 Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und Kundenübergreifend) für den aktuellen Monatszeitraum dar und ist innerhalb von vier (4) Tagen nach Ablauf des ausgewählten Abrechnungsdatums verfügbar.
 
+Sie erhalten eine Rechnung für lizenzbasierte (Office 365) und Gebühren für nutzungsbasierte (Azure) und eine separate Rechnung für einmalige (Azure reserved VM Instances) Gebühren.
 
 Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen Abstimmungsdateien. Die Abstimmungsdateien enthalten die Kunden-IDs und Abonnement-IDs, mit deren Hilfe Sie Kundenrechnungen erstellen. Weitere Informationen finden Sie unter [So wird's gemacht: Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md).
 
@@ -55,22 +57,26 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 <td>Die Adresse, an die wir Ihre Rechnung senden. Um diese Adresse zu ändern, wechseln Sie zu Einstellungen > Partnerabrechnungsprofil. </td>
 </tr>
 <tr class="odd">
-<td>Laufende Gebühren</td>
+<td>Lizenzbasierte Gebühren</td>
 <td>Die monatlichen (oder jährlichen) pauschalen Gebühren für die gekauften nutzungsbasierten Lizenzen, die im Voraus in Rechnung gestellt werden. Diese Zahl ist die Summe aller Gebühren in der Spalte &quot;Zwischensumme&quot; der lizenzbasierten Abgleichungsdatei (Spalte T).</td>
 </tr>
 <tr class="even">
-<td>Nutzungsgebühren</td>
+<td>Nutzungsbasierte Gebühren</td>
 <td>Azure-Nutzung, einschließlich neuer Dienste oder Anwendungen, die während des Abrechnungsmonats aktiviert und verwendet wurden. Diese Zahl ist die Summe aller Gebühren in der Spalte &quot;PretaxCharges&quot; der nutzungsbasierten Abgleichungsdatei (Spalte Z).</td>
 </tr>
 <tr class="odd">
-<td>Guthaben und Anpassungen</td>
-<td>Guthaben oder Anpassungen für Änderungen an Abonnements (Beispiel: Erhöhung oder Reduzierung der Lizenzzahl).</td>
-</tr>
-<tr class="even">
-<td>Andere Rabatte</td>
+<td>Rabatte</td>
 <td>Beispielsweise der Rabatt, den der Kunde auf den normalen Preis des Abonnements erhält. Dies wird als Pauschbetrag und nicht als Preis pro Einheit oder Lizenz aufgeführt.</td>
 </tr>
 <tr class="odd">
+<td>Guthaben</td>
+<td>Guthaben oder Anpassungen für Änderungen an Abonnements (Beispiel: Erhöhung oder Reduzierung der Lizenzzahl).</td>
+</tr>
+<tr class="even">
+<tr class="even">
+<td>Zwischensumme</td>
+<td>Gesamtbetrag vor Steuern und Gebühren exklusive und Guthaben.</td>
+</tr>
 <td>Steuern</td>
 <td>Die gesamten Steuern für die aktuellen Gebühren, wie im Abschnitt „Details“ auf Seite 2 der Rechnung summiert. Diese Zahl ist die Summe aller Gebühren in folgenden Spalten:
 <ul>
@@ -78,8 +84,12 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 <li>Spalte &quot;Steuern&quot; der lizenzbasierten Abgleichungsdatei (Spalte U).</li>
 </ul></td>
 </tr>
+<tr class="odd">
+<td>Andere Guthaben</td>
+<td>Exklusive Guthaben.</td>
+</tr>
 <tr class="even">
-<td>Gesamtsumme der aktuellen Gebühren</td>
+<td>Aktuelle Gebühren insgesamt</td>
 <td>Der in Ihrer Abrechnungswährung für den Abrechnungszeitraum zum angegebenen Termin fällige Betrag.</td>
 </tr>
 <tr class="odd">
@@ -98,13 +108,10 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 <td>Rechnungsdatum</td>
 <td>Das Ausstellungsdatum Ihrer Rechnung.</td>
 </tr>
-
 <tr class="odd">
 <td>Zahlungsbedingungen</td>
 <td>Für einmalige Einkäufe wird dies immer 60Tage sein.</td>
 </tr>
-
-
 <tr class="even">
 <td>Fälligkeitsdatum der Zahlung</td>
 <td>Ihre Zahlung muss bis zu diesem Datum eingegangen sein.</td>

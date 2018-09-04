@@ -3,11 +3,13 @@ title: Zuweisen von Azure-Abonnements im Partner Center | Partner Center
 description: Sie können Ihren Kunden im Partner Center jetzt Azure-Abonnements zuordnen. Ihre Kunden haben auch die Möglichkeit, die Abonnements selbst zu verwalten
 author: Labrenne
 keywords: Azure, Abonnement für Azure, Abonnement, Abonnements, Abonnement zuweisen, Abonnement für Azure verwalten
-ms.openlocfilehash: 756e5499bacf600397ce78e130645897ffa8acf1
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: cc847b9a0cab253c911141c26c4ab457ad0d98cc
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875010"
 ---
 # <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>Zuweisen von Azure-Abonnements im Partner-Dashboard
 

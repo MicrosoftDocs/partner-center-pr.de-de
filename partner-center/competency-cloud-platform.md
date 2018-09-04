@@ -1,85 +1,93 @@
 ---
 title: Cloud Platform-Kompetenz
-description: "Die Kompetenz „Cloud Platform“ wurde so konzipiert, dass Partner die Möglichkeit haben, von der wachsenden Nachfrage nach Infrastruktur und SaaS-Lösungen zu profitieren, die auf Microsoft Azure basieren."
+description: Die Kompetenz „Cloud Platform“ wurde so konzipiert, dass Partner die Möglichkeit haben, von der wachsenden Nachfrage nach Infrastruktur und SaaS-Lösungen zu profitieren, die auf Microsoft Azure basieren.
 author: Daniel Simpson
 keywords: Kompetenz,Kompetenzen,Cloud Platform
-ms.openlocfilehash: 1ae6408b2fc7efca904e84907be1735c76ea480e
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
-ms.translationtype: HT
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 625bf04a692a13ae88ad3487d99aea36be50be02
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875190"
 ---
-#<a name="cloud-platform"></a><span data-ttu-id="f51ce-104">Cloud Platform</span><span class="sxs-lookup"><span data-stu-id="f51ce-104">Cloud Platform</span></span>
-<span data-ttu-id="f51ce-105">Die Kompetenz „Cloud Platform“ wurde so konzipiert, dass Partner die Möglichkeit haben, von der wachsenden Nachfrage nach Infrastruktur und SaaS-Lösungen zu profitieren, die auf Microsoft Azure basieren.</span><span class="sxs-lookup"><span data-stu-id="f51ce-105">The Cloud Platform competency is designed for partners to capitalize on the growing demand for infrastructure and software as a service (SaaS) solutions built on Microsoft Azure.</span></span>
+>[!IMPORTANT]
+><span data-ttu-id="e5a42-104">Informationen zu den Anforderungen für die Erreichung dieses Kompetenz finden Sie auf der [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="e5a42-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
-##<a name="azure-consumption-option"></a><span data-ttu-id="f51ce-106">Azure-Nutzungsoption</span><span class="sxs-lookup"><span data-stu-id="f51ce-106">Azure Consumption option</span></span>
-<span data-ttu-id="f51ce-107">Die Azure-Nutzungsoption eignet sich ideal für Partner, die die Azure-Nutzung/-Einführung bei ihren Kunden vorantreiben und eine Kompetenz erwerben möchten, indem sie die Leistungsschwellenwerte erfüllen.</span><span class="sxs-lookup"><span data-stu-id="f51ce-107">The Azure Consumption option is ideal for partners who are driving Azure usage/adoption with their customers, and who choose to attain competency by meeting the performance thresholds.</span></span> <span data-ttu-id="f51ce-108">Führen Sie alle Schritte aus, um die Kompetenz "Cloud Platform" zu erlangen.</span><span class="sxs-lookup"><span data-stu-id="f51ce-108">Complete all the steps within to attain the Cloud Platform competency.</span></span>
+<!--
+#Cloud Platform
+The Cloud Platform competency is designed for partners to capitalize on the growing demand for infrastructure and software as a service (SaaS) solutions built on Microsoft Azure.
 
-###<a name="silver"></a><span data-ttu-id="f51ce-109">Silver</span><span class="sxs-lookup"><span data-stu-id="f51ce-109">Silver</span></span>
+##Azure Consumption option
+The Azure Consumption option is ideal for partners who are driving Azure usage/adoption with their customers, and who choose to attain competency by meeting the performance thresholds. Complete all the steps within to attain the Cloud Platform competency.
 
-1. <span data-ttu-id="f51ce-110">Ihre Organisation muss die Leistungsschwellenwerte erfüllen.</span><span class="sxs-lookup"><span data-stu-id="f51ce-110">Your organization must meet the performance thresholds.</span></span>
+###Silver
 
-    - **<span data-ttu-id="f51ce-111">Industrieländer</span><span class="sxs-lookup"><span data-stu-id="f51ce-111">Developed Markets</span></span>**
-        - <span data-ttu-id="f51ce-112">Partner müssen Azure-Nutzung durch Kunden in Höhe von 15.000US-Dollar in den vergangenen zwölf Monaten nachweisen.</span><span class="sxs-lookup"><span data-stu-id="f51ce-112">Partners must demonstrate US$15,000 Azure customer consumption within the previous 12 months</span></span>
+1. Your organization must meet the performance thresholds.
+
+    - **Developed Markets**
+        - Partners must demonstrate US$15,000 Azure customer consumption within the previous 12 months
     
-    - **<span data-ttu-id="f51ce-113">Entwicklungsländer</span><span class="sxs-lookup"><span data-stu-id="f51ce-113">Developing Markets</span></span>** 
-        - <span data-ttu-id="f51ce-114">Partner müssen Azure-Nutzung durch Kunden in Höhe von 10.000US-Dollar in den vergangenen zwölf Monaten nachweisen.</span><span class="sxs-lookup"><span data-stu-id="f51ce-114">Partners must demonstrate US$10,000 Azure customer consumption within the previous 12 months</span></span>
+    - **Developing Markets** 
+        - Partners must demonstrate US$10,000 Azure customer consumption within the previous 12 months
 
-    - <span data-ttu-id="f51ce-115">Für diese Kunden müssen Sie als Digital Partner of Record oder Transacting Partner of Record zugewiesen sein.</span><span class="sxs-lookup"><span data-stu-id="f51ce-115">For these customers, you have to be associated as Digital Partner of Record or Transacting Partner of Record.</span></span>
-    - <span data-ttu-id="f51ce-116">[Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.</span><span class="sxs-lookup"><span data-stu-id="f51ce-116">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>  
+    - For these customers, you have to be associated as Digital Partner of Record or Transacting Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. <span data-ttu-id="f51ce-117">**1** Person in Ihrer Organisation muss die Prüfungs- oder Assessmentanforderungen erfüllen.</span><span class="sxs-lookup"><span data-stu-id="f51ce-117">Your organization must have **1** individual pass the exam or assessment requirements.</span></span>
+2. Your organization must have **1** individual pass the exam or assessment requirements.
 
-    - <span data-ttu-id="f51ce-118">**1** Person muss eine der folgenden Assessments bestehen:</span><span class="sxs-lookup"><span data-stu-id="f51ce-118">**1** individual must pass one of the following assessments:</span></span>
-        - [<span data-ttu-id="f51ce-119">Technisches Assessment für Cloud App Security</span><span class="sxs-lookup"><span data-stu-id="f51ce-119">Technical Assessment for Cloud Platform</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
-        - [<span data-ttu-id="f51ce-120">Technisches Assessment für die Verwendung von Azure for Data Analytics and Data Platform Solutions</span><span class="sxs-lookup"><span data-stu-id="f51ce-120">Technical Assessment for Using Azure for Data Analytics and Data Platform Solutions</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
-        - [<span data-ttu-id="f51ce-121">Technisches Assessment für die Verwendung von Microsoft Azure für Application Development</span><span class="sxs-lookup"><span data-stu-id="f51ce-121">Technical Assessment for Using Microsoft Azure for Application Development</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
-        - [<span data-ttu-id="f51ce-122">Technisches Assessment für die Verwendung von Azure for Internet of Things Solutions</span><span class="sxs-lookup"><span data-stu-id="f51ce-122">Technical Assessment for Using Azure for Internet of Things Solutions</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
-        - [<span data-ttu-id="f51ce-123">Technisches Assessment für die Verwendung von Azure Remote Desktop Service</span><span class="sxs-lookup"><span data-stu-id="f51ce-123">Technical Assessment for Using Azure Remote Desktop Service</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
+    - **1** individual must pass one of the following assessments:
+        - [Technical Assessment for Cloud Platform](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
+        - [Technical Assessment for Using Azure for Data Analytics and Data Platform Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
+        - [Technical Assessment for Using Microsoft Azure for Application Development](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
+        - [Technical Assessment for Using Azure for Internet of Things Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
+        - [Technical Assessment for Using Azure Remote Desktop Service](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
 
-    **<span data-ttu-id="f51ce-124">ODER</span><span class="sxs-lookup"><span data-stu-id="f51ce-124">OR</span></span>**
+    **OR**
 
-    - <span data-ttu-id="f51ce-125">**1** Person muss eine der folgenden Prüfungen bestehen:</span><span class="sxs-lookup"><span data-stu-id="f51ce-125">**1** individual must pass one of the following exams:</span></span>
-        - <span data-ttu-id="f51ce-126">[Prüfung 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions</span><span class="sxs-lookup"><span data-stu-id="f51ce-126">[Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions</span></span>
-        - <span data-ttu-id="f51ce-127">[Prüfung 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions</span><span class="sxs-lookup"><span data-stu-id="f51ce-127">[Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions</span></span>
-        - <span data-ttu-id="f51ce-128">[Prüfung 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions*</span><span class="sxs-lookup"><span data-stu-id="f51ce-128">[Exam 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions*</span></span>
-        - <span data-ttu-id="f51ce-129">[Prüfung 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions</span><span class="sxs-lookup"><span data-stu-id="f51ce-129">[Exam 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions</span></span> 
-        - <span data-ttu-id="f51ce-130">[Prüfung 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions</span><span class="sxs-lookup"><span data-stu-id="f51ce-130">[Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions</span></span>
-        - <span data-ttu-id="f51ce-131">[Prüfung 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions</span><span class="sxs-lookup"><span data-stu-id="f51ce-131">[Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions</span></span>
-        - <span data-ttu-id="f51ce-132">[MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux on Azure</span><span class="sxs-lookup"><span data-stu-id="f51ce-132">[MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux on Azure</span></span>
+    - **1** individual must pass one of the following exams:
+        - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
+        - [Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions
+        - [Exam 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions*
+        - [Exam 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions 
+        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
+        - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
+        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux on Azure
 
-<span data-ttu-id="f51ce-133">*Zum 31.Dezember2017 eingestellt.</span><span class="sxs-lookup"><span data-stu-id="f51ce-133">*Retiring December 31, 2017.</span></span> <span data-ttu-id="f51ce-134">Diese Prüfung werden bis zum 31.Dezember2018 für die Kompetenzqualifizierung akzeptiert.</span><span class="sxs-lookup"><span data-stu-id="f51ce-134">This exam will continue to be accepted for competency qualification until December 31, 2018.</span></span> <span data-ttu-id="f51ce-135">Sie können sich für diese Prüfung bis zum 30.November2017 registrieren.</span><span class="sxs-lookup"><span data-stu-id="f51ce-135">You may register for this exam until November 30, 2017.</span></span>
+*Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. You may register for this exam until November 30, 2017.
 
-<span data-ttu-id="f51ce-136">Nach dem 30.November2017 müssen Sie sich für die oben aufgeführte Ersatzprüfung registrieren – Prüfung 70-535.</span><span class="sxs-lookup"><span data-stu-id="f51ce-136">After November 30, 2017 you will need to register for the replacement exam listed above, exam 70-535.</span></span>  
+After November 30, 2017 you will need to register for the replacement exam listed above, exam 70-535.  
 
-###<a name="gold"></a><span data-ttu-id="f51ce-137">Gold</span><span class="sxs-lookup"><span data-stu-id="f51ce-137">Gold</span></span>
+###Gold
 
-1. <span data-ttu-id="f51ce-138">Ihre Organisation muss die Leistungsschwellenwerte erfüllen.</span><span class="sxs-lookup"><span data-stu-id="f51ce-138">Your organization must meet the performance thresholds.</span></span>
+1. Your organization must meet the performance thresholds.
 
-    - <span data-ttu-id="f51ce-139">Partner müssen Azure-Nutzung durch Kunden in Höhe von 100.000US-Dollar in den vergangenen zwölf Monaten nachweisen.</span><span class="sxs-lookup"><span data-stu-id="f51ce-139">Partners must demonstrate US$100,000 Azure customer consumption within the previous 12 months</span></span>
-    - <span data-ttu-id="f51ce-140">Für diese Kunden müssen Sie als Digital Partner of Record oder Transacting Partner of Record zugewiesen sein.</span><span class="sxs-lookup"><span data-stu-id="f51ce-140">For these customers, you have to be associated as Digital Partner of Record or Transacting Partner of Record.</span></span>
-    - <span data-ttu-id="f51ce-141">[Erfahren Sie mehr](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) über diese Zuordnungen.</span><span class="sxs-lookup"><span data-stu-id="f51ce-141">[Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.</span></span>
+    - Partners must demonstrate US$100,000 Azure customer consumption within the previous 12 months
+    - For these customers, you have to be associated as Digital Partner of Record or Transacting Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-2. <span data-ttu-id="f51ce-142">**2** Personen in Ihrer Organisation müssen die Prüfungs- oder Assessmentanforderungen erfüllen.</span><span class="sxs-lookup"><span data-stu-id="f51ce-142">Your organization must have **2** individuals pass the exam or assessment requirements.</span></span>
+2. Your organization must have **2** individuals pass the exam or assessment requirements.
 
-    - <span data-ttu-id="f51ce-143">**2** Personen müssen eins der folgenden Assessments bestehen:</span><span class="sxs-lookup"><span data-stu-id="f51ce-143">**2** individuals must pass one of the following assessments:</span></span>
-        - [<span data-ttu-id="f51ce-144">Technisches Assessment für Cloud App Security</span><span class="sxs-lookup"><span data-stu-id="f51ce-144">Technical Assessment for Cloud Platform</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
-        - [<span data-ttu-id="f51ce-145">Technisches Assessment für die Verwendung von Azure for Data Analytics and Data Platform Solutions</span><span class="sxs-lookup"><span data-stu-id="f51ce-145">Technical Assessment for Using Azure for Data Analytics and Data Platform Solutions</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
-        - [<span data-ttu-id="f51ce-146">Technisches Assessment für die Verwendung von Microsoft Azure für Application Development</span><span class="sxs-lookup"><span data-stu-id="f51ce-146">Technical Assessment for Using Microsoft Azure for Application Development</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
-        - [<span data-ttu-id="f51ce-147">Technisches Assessment für die Verwendung von Azure for Internet of Things Solutions</span><span class="sxs-lookup"><span data-stu-id="f51ce-147">Technical Assessment for Using Azure for Internet of Things Solutions</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
-        - [<span data-ttu-id="f51ce-148">Technisches Assessment für die Verwendung von Azure Remote Desktop Service</span><span class="sxs-lookup"><span data-stu-id="f51ce-148">Technical Assessment for Using Azure Remote Desktop Service</span></span>](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
+    - **2** individuals must pass one of the following assessments:
+        - [Technical Assessment for Cloud Platform](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13736&scoId=N3FXNd7VB_8805299994)
+        - [Technical Assessment for Using Azure for Data Analytics and Data Platform Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13735&scoId=eOi68a7VB_1905299994)
+        - [Technical Assessment for Using Microsoft Azure for Application Development](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13979&scoId=enD8qylbB_9305299993)
+        - [Technical Assessment for Using Azure for Internet of Things Solutions](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16252&scoId=ABMqsgVLC_4605996570)
+        - [Technical Assessment for Using Azure Remote Desktop Service](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16571&scoId=R4xnMbpgC_3505996570)
 
-    **<span data-ttu-id="f51ce-149">ODER</span><span class="sxs-lookup"><span data-stu-id="f51ce-149">OR</span></span>**
+    **OR**
 
-    - <span data-ttu-id="f51ce-150">**2** Personen müssen eine der folgenden Prüfungen bestehen:</span><span class="sxs-lookup"><span data-stu-id="f51ce-150">**2** individuals must pass one of the following exams:</span></span>
-        - <span data-ttu-id="f51ce-151">[Prüfung 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions</span><span class="sxs-lookup"><span data-stu-id="f51ce-151">[Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions</span></span>
-        - <span data-ttu-id="f51ce-152">[Prüfung 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions</span><span class="sxs-lookup"><span data-stu-id="f51ce-152">[Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions</span></span>
-        - <span data-ttu-id="f51ce-153">[Prüfung 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions*</span><span class="sxs-lookup"><span data-stu-id="f51ce-153">[Exam 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions*</span></span>
-        - <span data-ttu-id="f51ce-154">[Prüfung 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions</span><span class="sxs-lookup"><span data-stu-id="f51ce-154">[Exam 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions</span></span> 
-        - <span data-ttu-id="f51ce-155">[Prüfung 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions</span><span class="sxs-lookup"><span data-stu-id="f51ce-155">[Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions</span></span>
-        - <span data-ttu-id="f51ce-156">[Prüfung 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions</span><span class="sxs-lookup"><span data-stu-id="f51ce-156">[Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions</span></span>
-        - <span data-ttu-id="f51ce-157">[MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux on Azure</span><span class="sxs-lookup"><span data-stu-id="f51ce-157">[MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux on Azure</span></span>
+    - **2** individuals must pass one of the following exams:
+        - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
+        - [Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions
+        - [Exam 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions*
+        - [Exam 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions 
+        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
+        - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
+        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux on Azure
 
-<span data-ttu-id="f51ce-158">*Zum 31.Dezember2017 eingestellt.</span><span class="sxs-lookup"><span data-stu-id="f51ce-158">*Retiring December 31, 2017.</span></span> <span data-ttu-id="f51ce-159">Diese Prüfung werden bis zum 31.Dezember2018 für die Kompetenzqualifizierung akzeptiert.</span><span class="sxs-lookup"><span data-stu-id="f51ce-159">This exam will continue to be accepted for competency qualification until December 31, 2018.</span></span> <span data-ttu-id="f51ce-160">Sie können sich für diese Prüfung bis zum 30.November2017 registrieren.</span><span class="sxs-lookup"><span data-stu-id="f51ce-160">You may register for this exam until November 30, 2017.</span></span>
+*Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. You may register for this exam until November 30, 2017.
 
-<span data-ttu-id="f51ce-161">Nach dem 30.November2017 müssen Sie sich für die oben aufgeführte Ersatzprüfung registrieren – Prüfung 70-535.</span><span class="sxs-lookup"><span data-stu-id="f51ce-161">After November 30, 2017 you will need to register for the replacement exam listed above, exam 70-535.</span></span> 
+After November 30, 2017 you will need to register for the replacement exam listed above, exam 70-535. 
+-->

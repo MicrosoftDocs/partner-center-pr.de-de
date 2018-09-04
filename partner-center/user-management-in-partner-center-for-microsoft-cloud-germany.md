@@ -1,54 +1,49 @@
 ---
-title: "Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland | Partner Center für Microsoft-Cloud Deutschland"
-description: "Zur Einhaltung der nationalen, regionalen und branchenspezifischen Anforderungen, die für die Erfassung und Verwendung von Personendaten gelten, sind Benutzerverwaltungsfunktionen nicht im Partner Center für Microsoft-Cloud Deutschland verfügbar. Stattdessen können Sie Benutzer im Azure-Portal für Microsoft-Cloud Deutschland hinzufügen und verwalten."
+title: Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland | Partner Center für Microsoft-Cloud Deutschland
+description: Zur Einhaltung der nationalen, regionalen und branchenspezifischen Anforderungen, die für die Erfassung und Verwendung von Personendaten gelten, sind Benutzerverwaltungsfunktionen nicht im Partner Center für Microsoft-Cloud Deutschland verfügbar. Stattdessen können Sie Benutzer im Azure-Portal für Microsoft-Cloud Deutschland hinzufügen und verwalten.
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: c17bf920fe54dab315be695baa3090f71c210e8e
-ms.openlocfilehash: 3f8cbf220a794f911de1326626135cad40607fea
-
+ms.localizationpriority: medium
+ms.openlocfilehash: 4e354fd3f5bf20ef10600a454a94704fe2db0700
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875770"
 ---
+# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a><span data-ttu-id="64d4d-104">Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland</span><span class="sxs-lookup"><span data-stu-id="64d4d-104">User and license management in Partner Center for Microsoft Cloud Germany</span></span>
 
-# Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland
+**<span data-ttu-id="64d4d-105">Betrifft</span><span class="sxs-lookup"><span data-stu-id="64d4d-105">Applies to</span></span>**
 
-**Betrifft**
+-  <span data-ttu-id="64d4d-106">Partner Center für Microsoft-Cloud Deutschland</span><span class="sxs-lookup"><span data-stu-id="64d4d-106">Partner Center for Microsoft Cloud Germany</span></span>
 
--  Partner Center für Microsoft-Cloud Deutschland
+<span data-ttu-id="64d4d-107">Um mit deutschen Gesetzen und Vorschriften übereinzustimmen, die sowohl die Erfassung und Verwendung von Personendaten als auch wichtige internationale Standards regeln, sind die folgenden Benutzer- und Lizenz-Management-Funktionen nicht im Partner Center für Microsoft-Cloud-Deutschland verfügbar.</span><span class="sxs-lookup"><span data-stu-id="64d4d-107">To comply with German laws and regulations that govern the collection and use of individuals' data as well as key international standards, the following user and license management capabilities are not available in Partner Center for Microsoft Cloud Germany.</span></span> <span data-ttu-id="64d4d-108">Sie können stattdessen Benutzer und Lizenzen im Azure-Portal für Microsoft-Cloud Deutschland oder im Office365 Admin Center hinzufügen und verwalten.</span><span class="sxs-lookup"><span data-stu-id="64d4d-108">Instead, add and manage users and licenses in the Azure portal for Microsoft Cloud Germany or the Office 365 admin center.</span></span>
 
-Um mit deutschen Gesetzen und Vorschriften übereinzustimmen, die sowohl die Erfassung und Verwendung von Personendaten als auch wichtige internationale Standards regeln, sind die folgenden Benutzer- und Lizenz-Management-Funktionen nicht im Partner Center für Microsoft-Cloud-Deutschland verfügbar. Sie können stattdessen Benutzer und Lizenzen im Azure-Portal für Microsoft-Cloud Deutschland oder im Office 365 Admin Center hinzufügen und verwalten.
-
-Feature oder Funktion | Vollständige Aufgaben im
+<span data-ttu-id="64d4d-109">Feature oder Funktion</span><span class="sxs-lookup"><span data-stu-id="64d4d-109">Feature or capability</span></span> | <span data-ttu-id="64d4d-110">Vollständige Aufgaben im</span><span class="sxs-lookup"><span data-stu-id="64d4d-110">Complete tasks in</span></span>
 :--- | :---
-Verwaltung der Benutzer des Partners | Office 365 Admin Zentrum oder Azure für Verwaltungsportale von Microsoft-Cloud Deutschland
-Verwaltung der Benutzer des Kundens | Office 365 Admin-Zentrum oder Azure für Verwaltungsportale von Microsoft-Cloud Deutschland
-Benutzerkennwort zurücksetzen | Verwaltungsportal von Azur für Microsoft-Cloud Deutschland
-Lizenzverwaltung | Office 365 Admin-Zentrum oder Microsoft Cloud Deutschland Azure Active Directory Lizenzportal
+<span data-ttu-id="64d4d-111">Verwaltung der Benutzer des Partners</span><span class="sxs-lookup"><span data-stu-id="64d4d-111">Partner user management</span></span> | <span data-ttu-id="64d4d-112">Office 365 Admin Zentrum oder Azure für Verwaltungsportale von Microsoft-Cloud Deutschland</span><span class="sxs-lookup"><span data-stu-id="64d4d-112">Office 365 admin center or Azure for Microsoft Cloud Germany admin portal</span></span>
+<span data-ttu-id="64d4d-113">Verwaltung der Benutzer des Kundens</span><span class="sxs-lookup"><span data-stu-id="64d4d-113">Customer user management</span></span> | <span data-ttu-id="64d4d-114">Office 365 Admin-Zentrum oder Azure für Verwaltungsportale von Microsoft-Cloud Deutschland</span><span class="sxs-lookup"><span data-stu-id="64d4d-114">Office 365 admin center or Azure for Microsoft Cloud Germany admin portal</span></span>
+<span data-ttu-id="64d4d-115">Benutzerkennwort zurücksetzen</span><span class="sxs-lookup"><span data-stu-id="64d4d-115">Reset user password</span></span> | <span data-ttu-id="64d4d-116">Verwaltungsportal von Azur für Microsoft-Cloud Deutschland</span><span class="sxs-lookup"><span data-stu-id="64d4d-116">Azure for Microsoft Cloud Germany admin portal</span></span>
+<span data-ttu-id="64d4d-117">Lizenzverwaltung</span><span class="sxs-lookup"><span data-stu-id="64d4d-117">License management</span></span> | <span data-ttu-id="64d4d-118">Office 365 Admin-Zentrum oder Microsoft Cloud Deutschland Azure Active Directory Lizenzportal</span><span class="sxs-lookup"><span data-stu-id="64d4d-118">Office 365 admin center or Microsoft Cloud Germany Azure Active Directory Licensing portal</span></span>
 
->**Hinweis**<br>
-Zum Zeitpunkt der Veröffentlichung dieses Artikels war noch keine Dokumentation zum Verwalten von Lizenzen für Benutzer von Kunden im Azure-Verwaltungsportal oder dem Verwaltungsportal von Office 365 verfügbar.
+>**<span data-ttu-id="64d4d-119">Hinweis</span><span class="sxs-lookup"><span data-stu-id="64d4d-119">Note</span></span>**<br>
+<span data-ttu-id="64d4d-120">Zum Zeitpunkt der Veröffentlichung dieses Artikels war noch keine Dokumentation zum Verwalten von Lizenzen für Benutzer von Kunden im Azure-Verwaltungsportal oder dem Verwaltungsportal von Office365 verfügbar.</span><span class="sxs-lookup"><span data-stu-id="64d4d-120">At the time this article was published, documentation about managing customer user licenses in the Azure admin portal or the Office 365 admin portal was not yet available.</span></span>
 
-## Verwalten von Benutzern im Azure-Portal für Microsoft-Cloud Deutschland 
+## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a><span data-ttu-id="64d4d-121">Verwalten von Benutzern im Azure-Portal für Microsoft-Cloud Deutschland</span><span class="sxs-lookup"><span data-stu-id="64d4d-121">How to manage users in the Azure portal for Microsoft Cloud Germany</span></span> 
 
-Wenn Sie sich beim Partner Center für Microsoft-Cloud Deutschland angemeldet haben, können Sie das Azure-Portal für Microsoft-Cloud Deutschland öffnen, ohne sich erneut anzumelden. Wenn Sie sich allerdings direkt im Azure-Portal für Microsoft-Cloud Deutschland anmelden müssen, wechseln Sie zu [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
+<span data-ttu-id="64d4d-122">Wenn Sie sich beim Partner Center für Microsoft-Cloud Deutschland angemeldet haben, können Sie das Azure-Portal für Microsoft-Cloud Deutschland öffnen, ohne sich erneut anzumelden.</span><span class="sxs-lookup"><span data-stu-id="64d4d-122">If you are signed in to Partner Center for Microsoft Cloud Germany, you can open the Azure portal for Microsoft Cloud Germany without having to sign in again.</span></span> <span data-ttu-id="64d4d-123">Wenn Sie direkt mit Azure-Portal für Microsoft Cloud Deutschland anmelden müssen, jedoch, wechseln Sie zu [https://portal.microsoftazure.de](https://portal.microsoftazure.de).</span><span class="sxs-lookup"><span data-stu-id="64d4d-123">However, if you need to sign in directly to the Azure portal for Microsoft Cloud Germany, go to [https://portal.microsoftazure.de](https://portal.microsoftazure.de).</span></span> 
 
-Nachdem Sie sich erfolgreich beim Azure-Portal für Microsoft-Cloud Deutschland angemeldet haben, öffnen Sie die Übersicht der Seite Azure Active Directory (Azure AD) und folgen Sie den Anweisungen für folgende Themen:
+<span data-ttu-id="64d4d-124">Nachdem Sie sich erfolgreich beim Azure-Portal für Microsoft-Cloud Deutschland angemeldet haben, öffnen Sie die Übersicht der Seite Azure Active Directory (Azure AD) und folgen Sie den Anweisungen für folgende Themen:</span><span class="sxs-lookup"><span data-stu-id="64d4d-124">After you have signed in successfully to the Azure portal for Microsoft Cloud Germany, open your Azure Active Directory (Azure AD) overview page and then follow the instructions in these topics:</span></span>
 
->**Hinweis**
- Die Auswahl der unten stehenden Links führt auf eine andere Website. 
+><span data-ttu-id="64d4d-125">**Hinweis** Die Auswahl der unten stehenden Links führt auf eine andere Website.</span><span class="sxs-lookup"><span data-stu-id="64d4d-125">**Note** Selecting the links below will take you to a different website.</span></span> 
 
--  [**Azure Active Directory neue Benutzer hinzufügen**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [**<span data-ttu-id="64d4d-126">Azure Active Directory neue Benutzer hinzufügen</span><span class="sxs-lookup"><span data-stu-id="64d4d-126">Add new users to Azure Active Directory</span></span>**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [**Einem Benutzers Administratorrollen in Azure Active Directory zuweisen**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [**<span data-ttu-id="64d4d-127">Einem Benutzers Administratorrollen in Azure Active Directory zuweisen</span><span class="sxs-lookup"><span data-stu-id="64d4d-127">Assign a user to administrator roles in Azure Active Directory</span></span>**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [**Kennwort für einen Benutzer in Azure Active Directory zurücksetzen**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [**<span data-ttu-id="64d4d-128">Kennwort für einen Benutzer in Azure Active Directory zurücksetzen</span><span class="sxs-lookup"><span data-stu-id="64d4d-128">Reset the password for a user in Azure Active Directory</span></span>**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**Verwandte Themen**
+**<span data-ttu-id="64d4d-129">Verwandte Themen</span><span class="sxs-lookup"><span data-stu-id="64d4d-129">Related topics</span></span>**
 
--  [**Partner Center für Microsoft-Cloud Deutschland**](partner-center-for-microsoft-cloud-germany.md)
+-  [**<span data-ttu-id="64d4d-130">Partner Center für Microsoft-Cloud Deutschland</span><span class="sxs-lookup"><span data-stu-id="64d4d-130">Partner Center for Microsoft Cloud Germany</span></span>**](partner-center-for-microsoft-cloud-germany.md)
 
--  [**Registrieren für das Microsoft Cloud-Lösungsanbieter-Programm für Microsoft-Cloud Deutschland**](enroll-in-csp-for-microsoft-cloud-germany.md)
-
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+-  [**<span data-ttu-id="64d4d-131">Registrieren für das Microsoft Cloud-Lösungsanbieter-Programm für Microsoft-Cloud Deutschland</span><span class="sxs-lookup"><span data-stu-id="64d4d-131">Enroll in the Cloud Solution Provider program for Microsoft Cloud Germany</span></span>**](enroll-in-csp-for-microsoft-cloud-germany.md)

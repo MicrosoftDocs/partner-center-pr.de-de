@@ -2,20 +2,21 @@
 layout: LandingPage
 hide_bc: true
 title: Hilfe zum Partner-Dashboard
-description: Benötigen Sie Hilfe beim Einrichten Ihres Kontos, beim Herstellen einer Verbindung mit Kunden oder beim Kauf eines Action Pack-Abonnements? Anleitungen finden Sie in der Hilfebibliothek für das Partner-Dashboard.
+description: Benötigen Sie Hilfe beim Einrichten Ihres Kontos, beim Herstellen einer Verbindung mit Kunden oder beim Kauf eines Action Pack-Abonnements? Antworten Sie in dieser Dashboard Hilfe-Bibliothek, die speziell für Partner in den CSP und MPN-Programmen erstellt.
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
-ms.openlocfilehash: 731362ac654cf8ea3d70985316a881ce81cac5d9
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1919900"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876370"
 ---
-# <a name="start-here-for-help-with-partner-center-dashboard"></a>Hilfe zum Partner Center-Dashboard
+# <a name="start-here-for-help-with-partner-dashboard"></a>Hilfe zum Partner-Dashboard
 
-Benötigen Sie Hilfe beim Einrichten Ihres Kontos, beim Herstellen einer Verbindung mit Kunden oder beim Kauf eines Action Pack-Abonnements? Anleitungen finden Sie in der Hilfebibliothek für das Partner Center-Dashboard.
+Benötigen Sie Hilfe beim Einrichten Ihres Kontos, beim Herstellen einer Verbindung mit Kunden oder beim Kauf eines Action Pack-Abonnements? Antworten Sie in dieser Dashboard Hilfe-Bibliothek, die speziell für Partner in den CSP und MPN-Programmen erstellt.
 
 Wenn Sie bereits mit dem Dashboard vertraut sind, sehen Sie sich die [Neuigkeiten](/partner-center/whats-new-in-pc) an.
 

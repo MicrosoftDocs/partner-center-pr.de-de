@@ -1,11 +1,14 @@
 ---
-title: "Registrieren für das Cloud-Lösungsanbieter-Programm für Microsoft-Cloud Deutschland | Partner Center für Microsoft-Cloud Deutschland"
-description: "Lesen Sie mehr über die CSP-Programmanforderungen, bevor Sie sich für das Microsoft Cloud Deutschland-Programm registrieren."
+title: Registrieren für das Cloud-Lösungsanbieter-Programm für Microsoft-Cloud Deutschland | Partner Center für Microsoft-Cloud Deutschland
+description: Lesen Sie mehr über die CSP-Programmanforderungen, bevor Sie sich für das Microsoft Cloud Deutschland-Programm registrieren.
 author: MaggiePucciEvans
-ms.openlocfilehash: d7251d597357573010e589bfea8ed6bae1a91630
-ms.sourcegitcommit: a9d2fc656bec004a0c229bd855d2e661773c05c7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: de500792bc0af3d7e8dac82daef28e16777a27b1
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877500"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Registrieren für das Microsoft Cloud-Lösungsanbieter-Programm für Microsoft-Cloud Deutschland
 
@@ -33,7 +36,7 @@ Um für CSP für Microsoft-Cloud Deutschland ein Partner Center-Konto zu erstell
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>Schritt1: Erstellen eines Kontos für Partner Center für Microsoft-Cloud Deutschland 
 
-1.  Rufen Sie für die Registrierung im CSP für Microsoft Cloud Deutschland [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) auf und wählen Sie **Anmelden**. 
+1.  Um in CSP für Microsoft Cloud Deutschland zu registrieren, wechseln Sie zu [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) und **Melden Sie sich beim**auswählen. 
 
 2.  Melden Sie sich mit globalen Administrator-Anmeldeinformationen für das Microsoft-Cloud Deutschland Konto Ihres Unternehmens für Office365, Microsoft Azure- oder Microsoft Dynamics an. Wenn Ihr Unternehmen kein Konto für diese Portale besitzt, erstellen Sie dieses durch auswählen der Option **Konto erstellen**.
 
@@ -69,7 +72,7 @@ Microsoft Cloud Deutschland bietet eine separate Instanz von Microsoft Azure, be
 >**Hinweis**<br>
 Nachdem Sie Benutzern die Administrator-Agent-Rolle zuweisen, wird das Menü **Kunden** in Ihrem Dashboard angezeigt, und Sie können auf die Kundenliste zugreifen und [neue Kunden hinzufügen](add-a-new-customer.md).   
 
-1.  Melden Sie sich im Azure-Portal für Deutschland unter https://portal.microsoftazure.de/ an.
+1.  Melden Sie sich auf das Portal Azure Deutschland unter https://portal.microsoftazure.de/.
 
 2.  Weisen Sie die entsprechenden Benutzer in Ihrer Organisation der Administrator-Agent-Rolle zu. Zu diesem Zweck müssen Sie die integrierte **AdminAgent**-Gruppe diesen Benutzern hinzufügen. Weitere Informationen dazu finden Sie unter [Mitglieder für eine Gruppe in Azure Active Directory verwalten](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal).
  

@@ -1,11 +1,15 @@
 ---
 title: Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs | Partner Center
-description: "Office 365 und Microsoft Azure bieten jeweils eine API, die Partner in Echtzeit zum Abrufen der Dienstintegrität, der Message Center-Kommunikationsvorgänge und der geplanten Wartungsereignisse verwenden können."
+description: Office 365 und Microsoft Azure bieten jeweils eine API, die Partner in Echtzeit zum Abrufen der Dienstintegrität, der Message Center-Kommunikationsvorgänge und der geplanten Wartungsereignisse verwenden können.
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
-ms.openlocfilehash: 42b29f9cf8c450560284fea39efd0638672f32b1
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 02a478aa0822eb0709424623a9fa2822e6cbe935
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877310"
 ---
 # <a name="get-automated-service-notifications-with-our-apis"></a>Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs
 

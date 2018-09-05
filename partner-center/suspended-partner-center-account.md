@@ -1,12 +1,15 @@
 ---
 title: Wiederherstellen ausgesetzter PartnerCenter-Konten | Partner Center
-description: "Erfahren Sie, wie Sie ein ausgesetztes Partner Center-Konto wiederherstellen, warum Partner Center-Konten ausgesetzt werden, und wie Sie Ihr Konto verwenden können, während es ausgesetzt ist."
+description: Erfahren Sie, wie Sie ein ausgesetztes Partner Center-Konto wiederherstellen, warum Partner Center-Konten ausgesetzt werden, und wie Sie Ihr Konto verwenden können, während es ausgesetzt ist.
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
-ms.openlocfilehash: b3eecda15bc4dc6363a288a768463acec86aa29f
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e24b176e5973512afc755d684a08615c6ff06289
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877030"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Wiederherstellen ausgesetzter PartnerCenter-Konten
 
@@ -15,7 +18,7 @@ In diesem Artikel wird erläutert, was zu tun ist, wenn Ihr Partner Center-Konto
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud for US Government
 -  Partner Center für Microsoft Cloud Deutschland
 
 >**Wichtig**<br>
@@ -39,9 +42,9 @@ Wenn Ihr Konto überfällig ist, folgen Sie den Anweisungen auf Ihrer Rechnung u
 
 **So übermitteln Sie eine Supportanfrage:**
 
-1.    Wählen Sie im Menü **Dashboard** **Supportanfragen > Partner Center-Anfragen** aus.
-2.    Wählen Sie **Neue Anfrage** aus. 
-3.    Füllen Sie das Formular aus, und wählen Sie dann **Übermitteln** aus. Ein Partner Center-Supportmitarbeiter wird Sie kontaktieren, um zu erläutern, warum Ihr Konto gesperrt wurde und wie Sie dieses wieder aktivieren können.
+1.  Wählen Sie im Menü **Dashboard** **Supportanfragen > Partner Center-Anfragen** aus.
+2.  Wählen Sie **Neue Anfrage** aus. 
+3.  Füllen Sie das Formular aus, und wählen Sie dann **Übermitteln** aus. Ein Partner Center-Supportmitarbeiter wird Sie kontaktieren, um zu erläutern, warum Ihr Konto gesperrt wurde und wie Sie dieses wieder aktivieren können.
 
 
 

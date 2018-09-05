@@ -3,12 +3,13 @@ title: Verwalten der Microsoft Partner Network-Vorteile | Partner Center
 description: Als Microsoft Partner Network-Mitglied haben Sie Anspruch auf den Erwerb bestimmter Mitgliedschaftsvorteile. Hier wird erläutert, wie Sie Ihre Mitgliedschaftsvorteile in Ihrem Partner-Dashboard aktivieren und verwalten.
 author: MaggiePucciEvans
 keywords: MPN, Mitgliedschaftsvorteile, Mitgliedschaft
-ms.openlocfilehash: 650db44e4a240ca8f05ea421dec6ffc15ec8ceb2
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2518cc915b658a74372cd34b02e96bbbc1991aa0
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207280"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876910"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile
 
@@ -25,6 +26,9 @@ Wenn Sie dem Microsoft Partner Network (MPN) beitreten, erhalten Sie Zugriff auf
 ## <a name="manage-your-membership-benefits-in-the-dashboard"></a>Verwalten Ihrer Mitgliedschaftsvorteile im Dashboard
 
 Nach dem Erwerb eines Mitgliedschaftsvorteilspakets müssen Sie Softwareschlüssel erhalten und Lizenzen, Abonnements sowie andere Vorteile zu Mitarbeitern zuweisen, damit diese sie nutzen können. 
+
+>[!IMPORTANT]
+>Obwohl Sie nicht als ein globaler Administrator in Ihrer Organisation Vorteile erwerben, müssen Sie der globale Administrator Vorteile zu Mitarbeitern zuweisen werden.  Wenn Sie möchten, können Sie ein globaler Administrator teilnehmen, gemäß die Anweisungen auf der [Seite **Vorteile** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Außerdem haben Ihrer Organisation möglicherweise bereits einen globalen Administrator, um zu überprüfen, mit Ihrem Team Achten Sie also.
 
 Vorteilspakete umfassen Zuweisungen von Softwarelizenzen, Clouddiensten, Visual Studio-Abonnements und Support mit internen Nutzungsrechten. Sie finden die Details zum Action Pack-Abonnement auf der [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software)-Website.  
 

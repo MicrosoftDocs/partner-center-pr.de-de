@@ -4,11 +4,13 @@ description: Erstellen Sie ein Unternehmensprofil in Partner Center, um Vertrieb
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: Pinpoint, Empfehlungen, Vertriebskontakte, C2PC, Unternehmensprofil, Unternehmen vermarkten, Partner finden, Lösungsanbieter finden, Unternehmensprofil, Marketingprofil
-ms.openlocfilehash: 847b535429620d96b7fffc843904c03190928449
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 1a53d9b1dd663b63193295068e6692645247cf0e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877625"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -16,7 +18,7 @@ FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
 FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
 FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
 FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
- -->
+-->
 
 
 # <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Erstellen eines Unternehmensprofils, um Vertriebskontakte von Microsoft zu erhalten
@@ -58,7 +60,7 @@ Stellen Sie Ihr Unternehmen vor, indem Sie ein Logo, eine kurze Beschreibung sow
 
 Das Logo kann eine GIF-, JPG- oder PNG-Datei mit einer maximalen Breite von 300 Pixeln sein. Wir empfehlen die Verwendung von quadratischen oder langen Seitenverhältnissen. Hohe Seitenverhältnisse werden nicht empfohlen.
 
-Die Beschreibung kann bis zu 1000Zeichen lang sein. Tipps für eine hervorragende Beschreibung: 
+Die Beschreibung kann bis zu 2500 Zeichen sein. Tipps für eine hervorragende Beschreibung: 
 
 *  **Halten Sie sich kurz**. Die ersten ein oder zwei Sätze sollten die wichtigsten Informationen enthalten. Dies sollte die Überschrift sein, die die Aufmerksamkeit der Kunden erregt. Auf der Seite zum Suchen von Partnern werden die ersten ein oder zwei Zeilen in der Vorschau der Suchergebnisse angezeigt.
 *  **Konzentrieren Sie sich auf Ihre Erfahrungen mit Microsoft-spezifischen Angeboten**. Kunden, die nach Empfehlungen suchen, möchten in der Regel Partner mit Microsoft-spezifischen Erfahrungen ausfindig machen.

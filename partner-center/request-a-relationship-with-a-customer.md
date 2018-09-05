@@ -1,20 +1,22 @@
 ---
 title: Anfordern einer Beziehung mit einem Kunden | Partner Center
-description: "Das Beantragen einer Partnerschaft mit einem Kunden wird in Multipartner- und Multichannelszenarien verwendet. Dieser Vorgang ist auch hilfreich, wenn ein Kunde Ihre delegierten Administratorrechte entfernt und Sie sie für Bereitstellungen oder Supportleistungen wiederherstellen müssen."
+description: Das Beantragen einer Partnerschaft mit einem Kunden wird in Multipartner- und Multichannelszenarien verwendet. Dieser Vorgang ist auch hilfreich, wenn ein Kunde Ihre delegierten Administratorrechte entfernt und Sie sie für Bereitstellungen oder Supportleistungen wiederherstellen müssen.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 65909045a8b3b7fe7d47cf7a44e767a5b93dfdf2
-ms.sourcegitcommit: 7ed78315d2a4f4f60a0bf51ec658e019ff5b7fe3
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a1c0bb93becbc3290c24a4530aa33fda38fa8942
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877220"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Kontaktaufnahme mit Kunden im Partner Center
 
 **Betrifft**
 
 -  Partner Center
--  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud for US Government
 -  Partner Center für Microsoft Cloud Deutschland
 
 Um den Dienst oder das Abonnement im Namen eines Kunden zu verwalten, muss der Kunde Ihnen Administratorberechtigungen für diesen Dienst gewähren. Um Administratorberechtigungen von einem Kunden zu erhalten, senden Sie ihm per E-Mail einen Vertriebspartnerschaftsantrag. Nachdem der Kunde den Antrag genehmigt hat, können Sie sich beim Verwaltungsportal des Diensts anmelden und den Dienst im Namen des Kunden verwalten. 
@@ -31,9 +33,7 @@ Um den Dienst oder das Abonnement im Namen eines Kunden zu verwalten, muss der K
 
 4.  Nachdem der Kunde die Einladung angenommen hat, wird er auf der Seite **Kunden** angezeigt, und Sie können den Dienst für den Kunden von dort aus bereitstellen und verwalten.
 
- >**Hinweis:**<br>
-    In einem Multichannel-Szenario kann nur ein Partner Administratorberechtigungen zum Verwalten eines Diensts im Auftrag des Kunden haben. 
-
+ 
 5.  Erweitern Sie zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem Sie neben seinem Namen auf den Pfeil nach unten klicken.
 
 

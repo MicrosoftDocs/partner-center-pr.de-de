@@ -3,11 +3,13 @@ title: Verfügbare Drittanbietersoftware im Partner Center | Partner Center
 description: Sie können nun Drittanbietersoftware entdecken und erwerben, um diese Ihrem Portfolio hinzuzufügen, das Sie Kunden anbieten.
 author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
-ms.openlocfilehash: 78e586321305422d7e03153127b833b477491bf6
-ms.sourcegitcommit: 07bb4ad82a7f431ae4f04bcd488fa72e49b6ae7c
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8076104d1707ed4441340f82c34ff7d587938778
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/28/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877440"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Hinzufügen von Drittanbietersoftware zu Ihrem Portfolio
 

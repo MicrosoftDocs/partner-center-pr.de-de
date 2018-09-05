@@ -2,10 +2,13 @@
 title: Migrieren von Office365 E4-Abonnements zu neueren Versionen von Office365 | Partner Center
 description: Microsoft Office365 Enterprise E4 Edition ist seit 7.April2017 eingestellt. Hier erfahren Sie, wie Sie Ihre Kundenabonnements zu neueren Versionen von Office365 migrieren.
 author: MaggiePucciEvans
-ms.openlocfilehash: aa8bc051b85f60242b1cc08e05b8c2b2d22ac413
-ms.sourcegitcommit: dab14e98f39e14025625a366ffcdd34c8c744376
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 545cfa5c635c9093cd0261bf35e01ba2823571ef
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876930"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrieren von Abonnements für Office365 E4 zu neueren Versionen von Office365
 

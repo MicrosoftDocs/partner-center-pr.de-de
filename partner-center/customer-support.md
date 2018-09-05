@@ -1,52 +1,49 @@
 ---
-title: Kundensupport | Partner Center
-description: "Sie sind die erste Anlaufstelle für Ihre Kunden, und es wird erwartet, dass Sie die folgenden technischen und Kontosupportleistungen für Ihre Kunden bereitstellen: Support für Abrechnung und Abonnements Hilfe bei Bereitstellung und Softwarekonfiguration Beheben von Leistungsproblemen, Dienstverfügbarkeitsproblemen, Problemen bei der Netzwerkkonnektivität und Clientdesktopproblemen aufgrund fehlender oder nicht ordnungsgemäß konfigurierter Einstellungen, unvollständiger Softwareintegration, Berechtigungsproblemen oder anderen Bereitstellungsproblemen. Verwalten von Updates für Dienste und Software Antworten auf Nutzungsfragen Cloud-Lösungsanbieter müssen eine klare Beschreibung davon bereitstellen, wie Kunden Support erhalten. Wenn Sie keinen telefonischen Support rund um die Uhr anbieten, müssen Sie eine Vereinbarung zum Servicelevel bereitstellen, um Ihren Kunden die verfügbaren Optionen zu erläutern. Microsoft bietet keinen Support für CSP-Kunden."
+title: Bereitstellen von Support für Ihre Kunden | Partner Center
+description: Partner sind erforderlich, um eingehende Supportanfragen von Kunden zu erhalten, Probleme, die die besten Merkmale von des Partners Möglichkeit zu diagnostizieren und Beheben von Problemen, die innerhalb des Bereichs, der die grundlegende Unterstützung Grenzen liegen dann.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
-ms.openlocfilehash: ee8ccd7ab7222eedcc3455b91c522f0005f60b9e
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 62a3a469180b084123f409e97f093056d36bfdd9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877270"
 ---
-# <a name="customer-support"></a>Kundensupport
+# <a name="providing-support-to-your-customers"></a>Bereitstellen von Support für Ihre Kunden
 
-**Betrifft**
+**Betrifft:**
 
 -  Partner Center
--  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud for US Government
 -  Partner Center für Microsoft Cloud Deutschland
 
-Sie sind die erste Anlaufstelle für Ihre Kunden, und es wird erwartet, dass Sie die folgenden technischen und kontospezifischen Supportleistungen für Ihre Kunden bereitstellen:
+## <a name="microsoft-partner-support-guidance"></a>Microsoft Partner-Support-Richtlinien
 
--   Support für Abrechnung und Abonnements
+Partner im CSP-Modell Transaktionen sind die als vertrauenswürdiger Berater für Kunden und die Beziehung End-to-End, einschließlich Unterstützung, wenn ihre Kunden eine Frage oder ein Problem hat besitzen. Über Unterstützung Touch Informationen Punkte Partner Weitere zum Kunden und ihr Unternehmen neue Dienste und Lösungen, die Wert Laufwerk identifizieren.
 
--   Hilfe bei Bereitstellung und Softwarekonfiguration
+Um die Support-Anforderung zu erfüllen kann der Partner Support aus einer anderen Entität weiterverkaufen, sie können alle oder einen Teil ihrer Supportstruktur Auslagern bzw. sie möglicherweise eine Struktur eingerichtet, um Unterstützung direkt bereitzustellen.  Der Partner kann für alle oder einen Teil der Unterstützung bereitgestellt werden, um Kunden zu belasten. Der Partner sollten an ihre Kunden den Support zu gliedern, den Sie bieten, den Dienst Stunden und wenden Sie sich an Methode als auch die Preise (Wenn für die Unterstützung geladen) werden. 
 
--   Beheben von Leistungsproblemen, Dienstverfügbarkeitsproblemen, Problemen bei der Netzwerkkonnektivität und Clientdesktopproblemen aufgrund fehlender oder nicht ordnungsgemäß konfigurierter Einstellungen, unvollständiger Softwareintegration, Berechtigungsproblemen oder anderen Bereitstellungsproblemen.
+Partner sind erforderlich, um eingehende Supportanfragen von Kunden zu erhalten, Probleme, die die besten Merkmale von des Partners Möglichkeit zu diagnostizieren und Beheben von Problemen, die innerhalb des Bereichs, der die grundlegende Unterstützung Grenzen liegen dann. Ist der Partner ein Problem nicht beheben, können sie eskalieren von Problemen an Microsoft über die folgenden Unterstützung Fahrzeuge:
 
--   Verwalten von Updates für Dienste und Software
+- **Commercial** Problem-Unterstützung ist für alle Partner im CSP-Programm verfügbar
+-   **Technischen** Support von Problem wird bereitgestellt durch:
+    -   Premier-Support für Partner (Gebühr Basis)
+    -   Erweiterte Support für Partner (Gebühr Basis)
+    -   Signature Cloud Support (in Gold-/Silver-Kompetenz enthalten)
 
--   Antworten auf Nutzungsfragen
+## <a name="providing-billing-subscription-management-and-technical-support"></a>Bereitstellen von Abrechnung und abonnementverwaltung und technische Unterstützung 
 
-Cloudlösungsanbieter müssen eine klare Beschreibung davon bereitstellen, wie Kunden Support erhalten. Wenn Sie keinen telefonischen Support rund um die Uhr anbieten, müssen Sie eine Vereinbarung zum Servicelevel bereitstellen, um Ihren Kunden die verfügbaren Optionen zu erläutern. Microsoft bietet keinen Support für CSP-Kunden.
+Jede online-Dienste verfügt über spezifische und ausführliche für Abrechnung und abonnementverwaltung technischen Support für Kunden bereitstellen. In den folgenden Dokumenten für Weitere Informationen zu verweisen.
 
-## <a href="" id="supportingtrainingcustomers"></a>Support und Schulungen für Kunden
+-   [Dynamics 365-Abonnements über CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+
+-   [Azure-Abonnements über CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+
+-   [Office 365-Abonnements über CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 
-Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Zahlen der zunehmenden Verbreitung für Ihr Konto niedrig sind oder Sie nach weiteren Möglichkeiten für Zusatzverkäufe suchen, sollten Sie in Betracht ziehen, Schulungen anzubieten. Indem Sie Ihren Kunden beibringen, wie sie die von ihnen erworbene Cloudlösungssoftware besser nutzen können, werden Sie wahrscheinlich eine Zunahme der Produktivität und Zufriedenheit sowie eine Abnahme der Supportanfragen feststellen können. Vorschläge und Tipps finden Sie unter [Steigerung von Einführungsrate und Zufriedenheit](increasing-adoption-and-satisfaction.md).
-
-## <a name="customer-support"></a>Kundensupport
-
-
-[Bereitstellen von Abrechnungssupport](provide-billing-support.md)
-
-[Bereitstellen von technischem Support](provide-technical-support.md)
-
-[Kundenkommunikation von Microsoft](customer-communication-from-microsoft.md)
-
-[Kundenselbsthilfe](customer-self-support.md)
-
-[Eskalieren von Problemen an Microsoft](escalate-problems-to-microsoft.md)
 
  
 

@@ -1,16 +1,17 @@
 ---
-title: Microsoft Azure Übersicht über die VM-Reservierungen | Partner Center
-Description: Overview of selling Microsoft Azure Reserved VM Instances in CSP.
+title: Übersicht über Microsoft Azure-Reservierungen | Partner Center
+Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
-keywords: Azure, Reservierungen, virtuelle Computer verwalten, Abrechnung, kaufen, Azure-RI, Azure Reserved VM Instances
-ms.openlocfilehash: 65306d265c88769c83a948a192bc96b2a0a76294
-ms.sourcegitcommit: 052c3a98216ad30a27fcd813de740fb54e8d8da7
-ms.translationtype: HT
+keywords: Azure, Reservierungen, verwalten, Abrechnung, kaufen, Azure-RI, Azure Reserved Instances
+ms.localizationpriority: medium
+ms.openlocfilehash: 3f5073bfd82d16485e3f0d5f4c9f79b1d5b5e7c7
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2018
-ms.locfileid: "1978567"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876960"
 ---
-# <a name="sell-microsoft-azure-reserved-vm-instances"></a>Verkaufen von Microsoft Azure Reserved VM Instances 
+# <a name="sell-microsoft-azure-reserved-instances"></a>Verkaufen Microsoft Azure Reserved Instances 
 
 **Betriff:**
 
@@ -18,32 +19,40 @@ ms.locfileid: "1978567"
 -  Microsoft Azure-Portal
 -  CSP-Partner
 
-Partner im Cloud Solution Provider-Programm (CSP) können jetzt Angebote ihren Kunden reservierte Instanzen auf Microsoft Azure-VMs anbieten. Kunden erhalten deutliche Einsparungen, wenn sie Speicherplatz auf virtuellen Azure-Computern im Voraus reservieren. Azure Reserved VM Instances bieten Kunden Einfachheit und Flexibilität auf folgende Weise:
+Partner im Cloud-Lösungsanbieter-Programm (CSP) bieten ihren Kunden reservierte Instanzen von Microsoft Azure. Kunden erhalten deutliche einsparungen, wenn sie im Voraus reservieren. Azure Reserved Instances bieten Kunden Einfachheit und Flexibilität auf folgende Weise:
 
 -   Ein-Jahres- oder Drei-Jahres-Reservierung 
--   Einfache Einrichtung von virtuellen Maschinen in Sekunden 
+-   Einfach für den Einstieg; Setup abgeschlossen in Sekunden 
 -   Stornieren oder tauschen Sie reservierte Instanzen zu jedem beliebigen Zeitpunkt gegen eine angepasste Rückerstattung aus 
 -   Verwalten Sie reservierte Instanzen auf Organisations- oder auf Abteilungsebene. 
 
-Weitere Informationen zu Azure Reserved VM Instances finden Sie unter [Azure Reserved VM Instances-Angebote](https://azure.microsoft.com/pricing/reserved-vm-instances/) auf der Microsoft Azure-Website und [Better together: Azure Reserved VM Instances und Server Abonnements](https://blogs.partner.microsoft.com/mpn/better-together-azure-reserved-instances-server-subscriptions/).
-
 > [!NOTE]  
-> Azure Reserved VM Instances sind nicht in den folgenden Märkten verfügbar:  
-> * Brasilien  
-> * China  
-> * Indien  
-> * Russische Föderation  
-> * Südkorea  
-> * Taiwan  
+> Azure Reserved Instances sind nicht in den folgenden Märkten verfügbar:  
+> * Argentinien
+> * Aserbaidschan
+> * Belarus
+> * Brasilien
+> * China
+> * Indien
+> * Indonesien
+> * Kasachstan
+> * Liechtenstein
+> * Malaysia
+> * Mexiko
+> * Russland
+> * Saudi-Arabien
+> * Südafrika
+> * Südkorea
+> * Taiwan
+> * Türkei
+> * Ukraine
 
-Die Verfügbarkeit von Azure Reserved VM Instances ist auf folgende Weise für Ihre Kunden nützlich:
+Die Verfügbarkeit von Azure Reserved Instances ist auf folgende Weise für Ihre Kunden nützlich:
 
 -   Reservierte Instanzen können erhebliche Einsparungen für nutzungsbasierte Zahlungsmodelle (PAYG) anbieten.
 -   Eine bessere Budgetierung und Prognose mit Zahlung im Voraus für ein Jahr oder drei Jahre 
 -   Nach Priorität sortierte Rechenkapazität in der Azure-Region des nächstgelegenen Büros  
--   Azure Reservations bilden die Grundlage für die End-to-End-Infrastruktur-Lösung in Kombination mit Software wie Microsoft Windows Server und Azure SQL-Datenbank (bald auch für das Partner-Dashboard).   
-
-Weitere Informationen darüber, wie Kunden vom Kauf von Instanzen auf Azure Virtual Machines im Voraus profitieren können, finden Sie unter [Save money on virtual machines with Reserved Virtual Machine Instances](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations) in der Azure-Hilfe.
+-   Azure Reservations bilden die Grundlage für Ende zum Infrastruktur-Lösung in Kombination mit Software wie Microsoft Windows Server und Azure SQL-Datenbank.   
 
 ## <a name="before-you-begin"></a>Vorbemerkungen
 
@@ -57,18 +66,15 @@ Vor dem Kauf von Azure Reservations im Auftrag Ihrer Kunden, achten Sie darauf, 
 -   Wenn ein Kunde ein Azure-Abonnement von Direct oder EA oder SP übertragen möchte, werden Reservierungen nicht übertragen. 
 
 >[!NOTE]
-> Sie können Azure Reserved Instances im Partner-Dashboard und Azure-Portal und mit der Partner-Dashboard-API kaufen, verkaufen und verwalten. Weitere Informationen finden Sie im folgenden Link. 
+> Sie können kaufen, verkaufen und Verwalten von Azure Reservations im Partner-Dashboard und Azure-Portal, und mit der Partner Center-API. Weitere Informationen finden Sie im folgenden Link. 
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations-Ressourcen
 |**Weitere Informationen**   |**Bitte lesen**    |
 |:-----------------------------|:-----------------|
 |Erwerb von Azure Reservations für Ihre Kunden im Partner-Dashboard   |[Azure Reservations kaufen](azure-reservations-buying.md)
-|Abrechnung für Azure Reservations   |[Abrechnung für Azure Reservations](azure-reservations-billing.md)   |
 |Verwalten von Azure Reservations in Ihrem Partner-Dashboard | [Verwalten von Azure Reservations in Ihrem Partner-Dashboard](azure-reservations-manage.md)
 |Bestimmen Sie die richtige Größe für den virtuellen Computer, und überprüfen Sie die Kunden VM-Nutzung   |[VM-Größe für die maximale Azure Reservations-Nutzung](azure-usage.md)   |
-|Erwerb von Azure Reservations im Azure-Portal | [Für virtuelle Maschinen mit Azure Reserved VM Instances im Voraus bezahlen](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) in der Azure-Hilfe |
-|Verwalten von Azure Reservations im Azure-Portal   |[Verwalten von reservierten VM-Instanzen](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) in der Azure-Hilfe  |
-|Erwerb von Azure Reservations über die Partner Center-API | [Erwerben Sie Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances) in die Partner Center-Entwicklerdokumentation
+|Erwerb von Azure Reservations über die Partner Center-API | [Erwerben Sie Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in die Partner Center-Entwicklerdokumentation
 
  
 

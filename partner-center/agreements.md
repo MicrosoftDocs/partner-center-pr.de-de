@@ -3,11 +3,13 @@ title: Verfügbare Märkte und Kundenvereinbarungen für Microsoft Cloud Solutio
 description: Herunterladen von markt- und sprachspezifischen Kundenvereinbarungsvorlagen aus dem Partner Center
 author: Maggie Evans
 keywords: Microsoft-Cloud-Verträge, Vorlagen für Kundenverträge, CSP-Vereinbarungen für Kunden, MCA, MCAs, CSP, wo kann ich über CSP verkaufen?, CSP-Länder und -Regionen, CSP-MCAs in mehreren Sprachen, CSP Nordamerika, CSP Mittelamerika, CSP Südamerika, CSP Karibik, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud Deutschland, CSP Naher Osten, CSP Afrika, CSP Europa, CSP Asien, CSP Pazifik, CSP-MCAs
-ms.openlocfilehash: 5dbf1003967cbc9895eb89e81371f8f230dedc68
-ms.sourcegitcommit: e56f07feb1c6748efda48a8d2cd00185331f904a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 3cd5615693a7cea51dfc11f1b6039c3a333e979b
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/19/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877510"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Märkte und Kundenvereinbarungen für Microsoft Cloud Solution Provider
 
@@ -80,7 +82,7 @@ Die unten aufgeführten Microsoft Cloud Agreement-Kundenvorlagen sind ab dem 1.S
 - Amerikanische Jungferninseln: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_NA_ENG_Sep20172_CR.pdf)
 
 ## <a name="microsoft-cloud-for-us-government"></a>Microsoft Cloud für US-Behörden
- - Vereinigte Staaten: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017_NAOC_USGCC_ENG_Sep20172_CR.pdf)
+ - Vereinigte Staaten: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017_NAOC_USGCC_ENG_Mar2018_CR.pdf)
 
 ## <a name="europe"></a>Europa
 - Åland: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
@@ -146,7 +148,7 @@ Die unten aufgeführten Microsoft Cloud Agreement-Kundenvorlagen sind ab dem 1.S
 - Vatikanstadt: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 
 ## <a name="microsoft-cloud-germany"></a>Microsoft Cloud Deutschland
-- Alle EU-/EFTA-Länder: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_ENG_Sep20173_GermanCloud.pdf), [Deutsch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_GER_Sep20173_GermanCloud.pdf)
+- Alle EU-/EFTA-Länder: [Englisch](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F2%2FC%2F8%2F2C8CAC17-FCE7-4F51-9556-4D77C7022DF5%2FMCA2017Agr_EMEA_EU-EFTA_GER_ENG_Aug2018_GermanCloud_CR.pdf&data=02%7C01%7C%7C3099d55ab6df4b5d1ea608d5fd8a8cfd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636693693863183184&sdata=FF2w1Zx1MhkKliW25tsvegd67%2FZy2VwE7QsRPEIkb9U%3D&reserved=0), [Deutsch](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F2%2FC%2F8%2F2C8CAC17-FCE7-4F51-9556-4D77C7022DF5%2FMCA2017Agr_EMEA_EU-EFTA_GER_GER_Aug2018_GermanCloud_CR.pdf&data=02%7C01%7C%7C3099d55ab6df4b5d1ea608d5fd8a8cfd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636693693863193193&sdata=bnijpI%2Fw442YANA8y2wVHKfg5gbqYp8WTS1dfGhBIxQ%3D&reserved=0)
 
 ## <a name="middle-east-and-africa"></a>Naher Osten und Afrika
 - Algerien: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [Französisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf), [Arabisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     

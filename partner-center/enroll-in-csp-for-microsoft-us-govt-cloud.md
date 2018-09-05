@@ -1,12 +1,14 @@
 ---
-title: "Registrieren für das Cloud-Lösungsanbieter-Programm für Microsoft Cloud für US-Behörden | Partner Center für Microsoft Cloud für US-Behörden"
-description: "Lesen Sie mehr über die CSP-Programmanforderungen, bevor Sie sich für das Cloud-Lösungsanbieter-Programm für Microsoft Cloud für US-Behörden registrieren."
+title: Registrieren für das Cloud-Lösungsanbieter-Programm für Microsoft Cloud für US-Behörden | Partner Center für Microsoft Cloud für US-Behörden
+description: Lesen Sie mehr über die CSP-Programmanforderungen, bevor Sie sich für das Cloud-Lösungsanbieter-Programm für Microsoft Cloud für US-Behörden registrieren.
 author: MaggiePucciEvans
-ms.openlocfilehash: 69e50e7b16c7b39eef68b0e841f21414c1923f14
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 75d39cba230966dc8c457c7a4e564714f9ee6c58
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877200"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registrieren für das Microsoft Cloud-Lösungsanbieter-Programm für Microsoft Cloud für US-Behörden
 
@@ -64,7 +66,7 @@ Microsoft Cloud für US-Behörden bietet eine separate Instanz von Microsoft Azu
 >**Hinweis:**<br>
 Nachdem Sie Benutzer zur Rolle der Admin-Agents zugewiesen haben, können Sie auf der Seite **Kunden** auf Ihre Kundenliste zugreifen und [neue Kunden hinzufügen](add-a-new-customer.md).   
 
-1.  Melden Sie sich im Microsoft Azure-Verwaltungsportal unter https://portal.azure.us/ an.
+1.  Melden Sie sich im Microsoft Azure-Verwaltungsportal unter https://portal.azure.us/.
 
 2.  Weisen Sie die entsprechenden Benutzer in Ihrer Organisation der Administrator-Agent-Rolle zu. Zu diesem Zweck müssen Sie die integrierte **AdminAgent**-Gruppe diesen Benutzern hinzufügen. Weitere Informationen dazu finden Sie unter [Mitglieder für eine Gruppe in Azure Active Directory verwalten](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal).
  

@@ -2,12 +2,13 @@
 title: Zusammenarbeiten mit indirekten Vertriebspartnern in CSP | Partner Center
 description: Als indirekter Anbieter (oder Distributor) können Sie mit indirekten Vertriebspartnern zusammenarbeiten, um Ihre Reichweite zu erhöhen.
 author: MaggiePucciEvans
-ms.openlocfilehash: 295dfa22feb6864697d8ffd94708f0868479b52a
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: bdb60386eda7c9b46f7616662cec6775b111ca1d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1919890"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876770"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Zusammenarbeiten mit indirekten Vertriebspartnern im Programm für Cloud Solution Provider
 

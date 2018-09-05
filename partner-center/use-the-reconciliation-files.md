@@ -3,12 +3,13 @@ title: Verwenden der Abstimmungsdateien | Partner Center
 description: Laden Sie die Abgleichungsdateien aus dem PartnerCenter-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f4135bfeb4bf4245f7fc78a4d95946d094390a2a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/10/2018
-ms.locfileid: "1867452"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877550"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -517,8 +518,8 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund 
 </td>
 </tr>
 <tr>
-<td rowspan="8">
-<p><strong>Laufende Gebühren</strong></p>
+<td rowspan="10">
+<p><strong>Lizenzbasierte Gebühren</strong></p>
 </td>
 <td>
 <p>Aktivierungsgebühr</p>
@@ -526,7 +527,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund 
 <td>
 <p>Der Betrag, der dem Kunden in Rechnung gestellt wird, wenn er das Abonnement nach dem Kauf nutzt</p>
 </td>
-<td rowspan="8">
+<td rowspan="10">
 <p>Erstellen Sie in der lizenzbasierten Datei die Summe der Spalte <strong>Betrag</strong>.</p>
 </td>
 </tr>
@@ -587,6 +588,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund 
 </td>
 </tr>
 <tr>
+
 <td>
 <p>Verlängerungsgebühr</p>
 </td>
@@ -596,16 +598,10 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund 
 </tr>
 <tr>
 <td>
-<p><strong>Weitere Produkte und Dienste</strong></p>
-</td>
-<td>
 <p>Anteilige Gebühren beim Aktivieren</p>
 </td>
 <td>
 <p>Anteilige Gebühren bei Aktivierung bis zum Ende des Abrechnungszeitraums</p>
-</td>
-<td>
-<p>Erstellen Sie in der lizenzbasierten Datei die Summe der Spalte <strong>Betrag</strong>.</p>
 </td>
 </tr>
 <tr>
@@ -632,7 +628,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund 
 </tr>
 <tr>
 <td>
-<p><strong>Guthaben und Anpassungen</strong></p>
+<p><strong>Guthaben</strong></p>
 </td>
 <td>
 <p>Einen Artikel versetzen</p>
@@ -645,12 +641,9 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund 
 <p>Erstellen Sie in der nutzungsbasierten Datei die Summe der Spalte <strong>PostTaxTotal</strong>.</p>
 </td>
 </tr>
-
-
 <tr>
 <td rowspan="4">
-<p><strong>Andere Rabatte</strong></br>
-<em>(nutzungsbasiert)</em></p>
+<p><strong>Nutzungsbasierte Rabatte</strong></p>
 </td>
 <td>
 <p>Aktivierungsrabatt</p>
@@ -658,6 +651,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund 
 <td>
 <p>Rabatt auf Aktivierung des Abonnements</p>
 </td>
+
 <td rowspan="4">
 <p>Erstellen Sie in der nutzungsbasierten Datei die Summe der Spalte <strong>PretaxCharges</strong>.</p>
 </td>
@@ -669,14 +663,16 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund 
 <td>
 <p>Rabatt auf periodische Gebühren</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>Verlängerungsrabatt</p>
 </td>
 <td>
 <p>Rabatt auf Verlängerung des Abonnements</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>Stornorabatt</p>
 </td>
@@ -684,16 +680,17 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund 
 <p>Gebühren, wenn Rabatte storniert werden</p>
 </td>
 </tr>
+
+
 <tr>
 <td>
-<p><strong>Andere Rabatte</strong></br>
-<em>(lizenzbasiert)</em></p>
+<p><strong>Lizenzbasierte Rabatte</strong></p>
 </td>
 <td>
 <p><em>Kann auf mehrere Gebührentypen angewendet werden</em></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td>
 <p>Erstellen Sie in der lizenzbasierten Datei die Summe der Spalte <strong>TotalOtherDiscount</strong>.</p>
@@ -705,7 +702,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund 
 </td>
 <td>
 <p><em>Kann auf mehrere Gebührentypen angewendet werden</em></p>
-<p><em>Ausnahme: "Einen Artikel versetzen" enthält bereits Steuern. Siehe "Guthaben und Anpassungen" oben.</em></p>
+<p><em>Ausnahme: "Einen Artikel versetzen" enthält bereits Steuern. Siehe Guthaben, oben.</em></p>
 </td>
 <td>
 <p>Steuern oder Umsatzsteuern (Umsatzsteuer)</p>

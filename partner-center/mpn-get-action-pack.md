@@ -3,12 +3,13 @@ title: Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements | Partn
 description: Erfahren Sie, wie Sie ein Microsoft Action Pack-Abonnement erhalten, ganz egal, ob Sie es erstmalig erwerben oder verlängern.
 author: MaggiePucciEvans
 keywords: Action Pack, MAPS, MAPS verlängern, Action Pack verlängern, Action pack erwerben
-ms.openlocfilehash: 709966b80a0e8f39c3dbc70da16c9928df43f6cc
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 9fab4b0abe282e12a505c242597345717fad22b6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207260"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876710"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Erstmaliges Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements
 
@@ -55,7 +56,7 @@ Nachdem Sie dem Partner Network erfolgreich beigetreten sind, befolgen Sie die [
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-dashboard"></a>So verlängern Sie ein Microsoft Action Pack-Abonnement im Partner-Dashboard
 
-1. Wechseln Sie zur Seite [**Mitgliedschaftsangebote**](https://partnercenter.microsoft.com/pcv/partnership/offers), und wählen Sie dann **Gekauft** aus. Suchen Sie nach der Kachel **Microsoft Action Pack-Abonnement**.  
+1. Wechseln Sie zur Seite [**Mitgliedschaftsangebote**](https://partnercenter.microsoft.com/pcv/partnership/offers), und wählen Sie dann **Gekauft** aus. Suchen Sie die Kachel **Microsoft Action Pack-Abonnement** .  
 
 2. Wählen Sie **Abonnement verlängern** und dann Ihre Zahlungsmethode aus. Sie können mit einer Kreditkarte oder einer elektronischen Überweisung bezahlen.
 

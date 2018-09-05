@@ -3,11 +3,13 @@ title: Vereinfachen der Geräteinstallation mit Windows Autopilot | Partner Cent
 description: Hinzufügen eines Windows AutoPilot-Bereitstellungsprofils in Partner Center zur Vereinfachung der Geräteeinrichtung mit Windows Autopilot
 author: KPacquer
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero-Touch Deployment, Windows-Willkommensseite, Anmeldebildschirme
-ms.openlocfilehash: b106577ef60dba6535f89d2ef4bce4a5d19bedd9
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: b9fc13accd5d229f66ed425ace68e0df00e14016
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877580"
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Vereinfachen der Geräteinstallation mit Windows Autopilot 
 

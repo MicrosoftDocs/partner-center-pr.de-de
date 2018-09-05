@@ -1,12 +1,14 @@
 ---
-title: "Office365 Partner Admin Center-Kunden: Ihre Geschäftsvorgänge werden auf das Partner Center| Partner Center übertragen"
-description: "Wichtige Überlegungen für Office365 Partner Admin Center-Kunden bei der Migration zum Partner Center"
+title: 'Office365 Partner Admin Center-Kunden: Ihre Geschäftsvorgänge werden auf das Partner Center| Partner Center übertragen'
+description: Wichtige Überlegungen für Office365 Partner Admin Center-Kunden bei der Migration zum Partner Center
 author: KPacquer
-ms.openlocfilehash: 2ef8450988027c480b60a51f2626bb94c95c1cb3
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: ebed2c963a85edad05440a4d5adb61eb25ceb097
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876890"
 ---
 # <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Office365 Partner Admin Center-Kunden: Bereiten Sie sich auf den Wechsel der Geschäftsvorgänge zum Partner Center vor
 

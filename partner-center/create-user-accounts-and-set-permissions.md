@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: a3c5735a61a867c06268bb2257f3295d49bbe83f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 402920613cb5b45608f9099d250d79809a8d9f5a
+ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874570"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "3405432"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen
 
@@ -61,6 +61,12 @@ Innerhalb jeder dieser allgemeinen Kategorien kann ein Benutzer nur eine Rolle b
 
 >[!Important]
 >Jedem Benutzer muss mindestens eine Rolle zugewiesen werden, damit er im Partner-Dashboard arbeiten kann.
+
+
+### <a name="find-your-global-admin"></a>Suchen Sie des globalen Administrators
+
+In einigen Fällen muss ein Benutzer möglicherweise ihre Rolle geändert haben, oder ein neuer Benutzer möglicherweise eine bestimmte rollenzuweisung möchten.  
+Wenn einen globalen Administrator suchen, der Änderungen an der Rolle oder Zuweisung von Rollen an einen neuen Benutzer über das **Symbol "Einstellungen"** oben rechts in der das Dashboard vornehmen können, wählen Sie **benutzerverwaltung** und Filter auf globalen Administrator. 
 
 Spezifische Informationen zu den Rollen und was den jeweiligen Rollen haben finden Sie unter [Zuweisen von Benutzerberechtigungen](permissions-overview.md).
 

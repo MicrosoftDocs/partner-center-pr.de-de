@@ -4,12 +4,12 @@ description: Alle Mitarbeiter, die im Partner-Dashboard arbeiten muss eine Rolle
 author: labrenne
 keywords: Rollen, Berechtigungen, Admin-agent
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e6e32b5e65d2d1dc52a5703fc405a14f9d5bc3e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
+ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875990"
+ms.lasthandoff: 09/07/2018
+ms.locfileid: "3630611"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Weisen Sie Benutzer Rollen und Berechtigungen
 
@@ -62,6 +62,7 @@ In der folgende Tabelle wird erläutert, welche Möglichkeiten Benutzer mit den 
 <td><ul>
 <li><p>Anzeigen, erstellen und verwalten von Benutzern</p></li>
 <li><p>Alle Partnerprofile anzeigen</p></li>
+<li><p>Partnerbenutzer anzeigen, erstellen und verwalten</p></li>
 </ul></td>
 </tr>
 <tr class="even">

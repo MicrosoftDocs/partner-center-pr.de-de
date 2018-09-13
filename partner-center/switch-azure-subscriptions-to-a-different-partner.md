@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: Azure-Abonnement, Partner wechseln, Partner ändern, neue Partner, andere Partner
 ms.localizationpriority: medium
-ms.openlocfilehash: 21737fd9b9633fb2a1c1fb05daba4d43dd50444d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: bfaf3d96760d8520935f3a872a11f14566eb0a52
+ms.sourcegitcommit: c45611276b62105c170ac3f2f3c8030b889c08f1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877560"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "3966157"
 ---
 # <a name="transfer-azure-subscriptions"></a>Übertragen von Azure-Abonnements 
 
@@ -20,9 +20,11 @@ ms.locfileid: "2877560"
 
 Kunden können den Cloud Solution Provider-Partner oder einen anderen Partner für Microsoft Azure-Dienste ändern. Dies ist jedoch ein manueller Vorgang, der Aktionen von Partnern und Kunden erfordert.
 
-**Hinweis:**  Zu diesem Zeitpunkt können nur direkter oder indirekter Anbieter Abonnements übertragen.
+>[!Note]  
+>Zu diesem Zeitpunkt können nur direkter oder indirekter Anbieter Abonnements übertragen.
 
-**Hinweis** Es ist zurzeit nicht möglich, Partner für Cloud Solution Provider-Abonnements für Office 365, Enterprise Mobility Suite oder Microsoft Dynamics CRM-Abonnements zu ändern.
+>[!Note] 
+>Es ist nicht derzeit möglich, Partner für Cloud Solution Provider-Abonnements für Office 365, Enterprise Mobility Suite oder Microsoft Dynamics CRM-Abonnements zu ändern.
 
 
 
@@ -30,7 +32,8 @@ Kunden können den Cloud Solution Provider-Partner oder einen anderen Partner f�
 
 1.  Um ein Azure-Abonnement auf einen neuen Partner zu übertragen, muss der Kunde den Prozess starten und sich schriftlich an seinen aktuellen registrierten Abonnementberater wenden. 
 
-    >**Hinweis:**<br> Es liegt in der Verantwortung des aktuellen Partners, das Serviceticket zu erstellen, das den Übertragungsprozess initiiert. Microsoft kann nicht im Auftrag der Kunden oder des neuen Partner eingreifen. Der Kunde sollte planen, eng mit dem aktuellen Partner zusammenzuarbeiten, um den Übergang reibungslos zu gestalten.
+    >[!Note]
+    >Es liegt in der Verantwortung des aktuellen Partners, das Serviceticket zu erstellen, das den Übertragungsprozess initiiert. Microsoft kann nicht im Auftrag der Kunden oder des neuen Partner eingreifen. Der Kunde sollte planen, eng mit dem aktuellen Partner zusammenzuarbeiten, um den Übergang reibungslos zu gestalten.
 
 2.  Der Partner für das Abonnement muss folgende Schritte ausführen:
 
@@ -54,7 +57,8 @@ Kunden können den Cloud Solution Provider-Partner oder einen anderen Partner f�
 
     -   Die zu übertragende Abonnement-ID. Wählen Sie in der erweiterten Kundenliste **Abonnements anzeigen** aus. Erweitern Sie das ausgewählte Abonnement, um die **Abonnement-ID** anzuzeigen.
 
-    >**Hinweis:**<br> Das Übertragen eines Abonnements führt zu zwei Abonnement-IDs, die auf der Seite **Anmeldung bearbeiten** des übertragenen Abonnements angezeigt werden: **1**- die Partner Center-Abonnement-ID dient zu Abrechnungszwecken. 
+     >[!Note]
+     >Das Übertragen eines Abonnements führt zu zwei Abonnement-IDs, die auf der Seite **Anmeldung bearbeiten** des übertragenen Abonnements angezeigt werden: **1**- die Partner Center-Abonnement-ID dient zu Abrechnungszwecken. 
     **2**- Die ursprüngliche Azure-Abonnement-ID bleibt erhalten und wird im Partner Center genau wie im Azure-Verwaltungsportal angezeigt. Diese ID wird in der Abstimmungsdatei angezeigt.  **Bei der Anmeldung von Supportanfragen müssen Sie beide IDs verwenden.**
 
 4.  Der Kunde und der neue CSP-Partner für das Abonnement:
@@ -62,6 +66,9 @@ Kunden können den Cloud Solution Provider-Partner oder einen anderen Partner f�
     Überprüfen Sie das Formular, geben Sie Daten zum neuen Partner ein, und signieren Sie es. Überprüfen Sie, ob der neue Kunde über einen Vertrag verfügt. Senden Sie das Formular an den aktuellen eingetragenen Partner zurück.
 
     *Wichtig*: Wenn der neue CSP-Partner keine Vertriebspartnerbeziehung mit dem Kunden hat, muss diese vor der Übertragung des Abonnements eingerichtet werden. [Informationen hierzu finden Sie hier](request-a-relationship-with-a-customer.md).
+
+    >[!Note]
+    >Der neue CSP-Partner und dem kundenmandanten müssen in derselben Region sein. 
 
 5.  Aktueller Partner:
 

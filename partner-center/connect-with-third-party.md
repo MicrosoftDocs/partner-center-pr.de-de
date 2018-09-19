@@ -4,12 +4,12 @@ description: Kaufen von Drittanbietersoftware, die mit Microsoft-Produkten funkt
 author: labrenne
 keywords: Drittanbieter-Angebote, Kaufsoftware
 ms.localizationpriority: medium
-ms.openlocfilehash: 7efeaee27abf7c08574c7ab81fc4303ffda3221f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d7ab7e1f8886a63c9b97d3b85dfa51d26464dc06
+ms.sourcegitcommit: 535b52aa23e1250a7294f57d17078c77ee54e0cd
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875520"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "4062162"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Hinzufügen von Drittanbietersoftware zu Ihrem Portfolio
 
@@ -21,7 +21,7 @@ Sie können nun im Partner Center Drittanbietersoftware erwerben, die Sie Kunden
 
 Derzeit enthält das Partner Center Softwareangebote von Drittanbietern, die sich in Azure, Office365 oder Dynamics integrieren lassen. 
 
-## <a name="connecting-with-third-party-partners"></a>Herstellen einer Verbindung mit Drittanbieter-Partnern
+## <a name="connect-with-third-party-partners"></a>Vernetzen Sie mit Drittanbieter-Partnern
  
 Als CSP-Partner können Sie Softwareangebote von Drittanbietern durchsuchen. Sie können sich mit ISV-Partnern verbinden und Ihren Produktkatalog erstellen. ISV-Partner können zudem nach CSP-Partnern suchen, mit denen sie arbeiten möchten. Sie können nach den von Ihnen verkauften Microsoft-Produkten suchen und Ihr Geschäftsprofil überprüfen. Es ist deshalb wichtig, Ihr Geschäftsprofil auf dem aktuellen Stand zu halten. Sie teilen einem ISV-Partner Ihr Interesse an seinem Produkt mit, indem Sie in der Produktidentifikation auf den Button „Ich bin interessiert ”klicken und das Formular ausfüllen. Microsoft sendet es an den ISV-Partner. Ihre Antwort wird im Partner Center verwaltet. Wenn ein ISV-Partner Interesse an einer Zusammenarbeit mit Ihnen bekundet, erhalten Sie ebenfalls eine Benachrichtigung über das Partner Center. Antworten Sie möglichst innerhalb von 48 Stunden.
 

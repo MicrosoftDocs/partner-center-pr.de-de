@@ -5,20 +5,18 @@ ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: ff329480cec68e45c809016da64f6604c9837bb6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 9757b3c4cc03ea26744f995e4931c94952de2a10
+ms.sourcegitcommit: 082795279b2beb9cecee3072cbabe584cfda1b9c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876590"
+ms.lasthandoff: 09/21/2018
+ms.locfileid: "4121115"
 ---
 # <a name="common-billing-scenarios"></a>Allgemeine Abrechnungsszenarien
 
 **Betrifft**
 
--  Partner Center
--  Partner Center für Microsoft Cloud for US Government
--  Partner Center für Microsoft Cloud Deutschland
+-   Cloud Solution Provider-Programm Abrechnung
 
 In diesem Thema wird erläutert, was auf Ihrer Rechnung nach dem Hinzufügen neuer Abonnements, dem Anpassen der Lizenzen für ein Abonnement oder dem Kündigen eines Abonnements angezeigt werden sollte. Die Auswirkungen fallen für nutzungsbasierte und lizenzbasierte Abonnements unterschiedlich aus.
 
@@ -74,7 +72,7 @@ Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13.Januar erwerben Sie ein neu
 Am 1.Februar erhöhen Sie die Anzahl der Lizenzen von 1 auf 2. Am 15. Februar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungspositionen:
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührenart |Preis pro Einheit |Anzahl |Betrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-| 13.01.2018        |12. Februar 2018    |Anteiliger Zyklus für Instanz   |-4,00       |1        |4,00    
+| 13.01.2018        |12. Februar 2018    |Anteiliger Zyklus für Instanz   |-4,00       |1        |-4,00    
 |13.01.2018         |31.01.2018    | Anteiliger Zyklus für Instanz   |2.45       |1        |2.45    
 |1.2.2018         |12. Februar 2018    | Anteiliger Zyklus für Instanz   |1.55       |2        |3.10    
 |13. Februar 2018         |12. März 2018    | Anteiliger Zyklus für Instanz   |4,00       |2        |8,00    
@@ -98,10 +96,10 @@ Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13.Januar erwerben Sie ein neu
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13.01.2018         |12. Februar 2018    |Gebühr für Zyklus   |4,00       |1        |4,00    
 
-Am 1.Februar stornieren Sie das Abonnement. Am 15. Februar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungsposition:
+Am 1. Februar stornieren Sie ein Abonnement. Am 15. Februar enthält die lizenzbasierte Erstattungsdatei folgende Rechnungsposition:
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührenart |Preis pro Einheit |Anzahl |Betrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13.01.2018|12. Februar 2018|Stornierungsgebühr|-4,00|1|4,00
+13.01.2018|12. Februar 2018|Stornierungsgebühr|-4,00|1|-4,00
 
 **Szenario 4: Stornieren eines Abonnements nach 30Tagen**
 
@@ -128,7 +126,7 @@ Preis pro Einheit = Tage Service-Zeitraum x täglicher Preis x Anzahl der Lizenz
 
 Es gibt 12Tage im anteiligen Zeitraum vom 01.03.2018-12.03.2018. 
 
-Der Preis pro Einheit beträgt also =-1,716 (14 x 0,14 x (-1)).
+Der Preis pro Einheit =-1,716 x (12 x 0,143 x (-1)).
 
 ## <a name="annual-billing-scenarios"></a>Jährliche Abrechnung: Szenarien
 

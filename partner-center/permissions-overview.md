@@ -1,15 +1,15 @@
 ---
 title: Weisen Sie Benutzer Rollen und Berechtigungen | Partner Center
-description: Alle Mitarbeiter, die im Partner-Dashboard arbeiten muss eine Rolle zugewiesen werden.
+description: Jeder Mitarbeiter, die im Partner-Dashboard arbeiten muss eine Rolle zugewiesen werden.
 author: labrenne
 keywords: Rollen, Berechtigungen, Admin-agent
 ms.localizationpriority: medium
-ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
-ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
+ms.openlocfilehash: b020c7b57874859d54c2b9c638302ab74a21b93a
+ms.sourcegitcommit: 6de78bec6b51b3b30052dfd0ad3f9fbdec31abae
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/07/2018
-ms.locfileid: "3630611"
+ms.lasthandoff: 09/26/2018
+ms.locfileid: "4227444"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Weisen Sie Benutzer Rollen und Berechtigungen
 
@@ -19,15 +19,17 @@ ms.locfileid: "3630611"
 
 Jede Rolle im Dashboard verfügt über bestimmte Berechtigungen, die einem Benutzer für bestimmte Aufgaben. Jeder Benutzer, der im Dashboard funktioniert muss eine Rolle zugewiesen werden.
 
-Je nach Größe Ihrer Organisation möglicherweise einige Benutzer funktionieren, verschiedenen Standorten und nur für einen Standort. 
+Abhängig von der Größe Ihrer Organisation funktionieren einige Benutzer verschiedenen Standorten oder nur für einen Standort. 
 
 Beispiel:
 
-- Der globale Administrator kann der Administrator für den offizieller und einen bestimmten Ort sein. oder der globale Administrator kann nur eine von den Speicherorten der geschäftlichen Administrator sein. 
+- Der globale Administrator kann der Administrator für den offizieller und einen bestimmten Ort sein. oder der globale Administrator kann ein Administrator nur für eines der Speicherorte von einem Unternehmen. 
 - Anreizadministratoren können für einen oder mehrere Orte verwalten, aber diese Speicherorte müssen angegeben werden.
 
 
 In der folgende Tabelle wird erläutert, welche Möglichkeiten Benutzer mit den jeweiligen Rollen in Partner-Dashboard haben. Berücksichtigen Sie bei der Zuweisung von Rollen, welche Aufgabe ein Benutzer in Ihrer Organisation ausführt. Sie können z.B. den globalen Administrator auch als Administratoragent einsetzen. Und die für das Marketing zuständige Person könnte auch die Verwaltung des Unternehmensprofils übernehmen.
+
+Eine Übersicht über Rollen und Berechtigungen finden Sie unter [Erstellen von Benutzerkonten und Festlegen von Berechtigungen](create-user-accounts-and-set-permissions.md).
 
 <table>
 <colgroup>
@@ -115,8 +117,8 @@ In der folgende Tabelle wird erläutert, welche Möglichkeiten Benutzer mit den 
 <tr class="odd">
 <td><p><strong>Anreizbenutzer</strong></p></td>
 <td><ul>
-<li><p>Können Anreizprogramme anzeigen</p></li>
-<li><p>Kann anzeigen und Incentives Ansprüche initiieren</p></li>
+<li><p>Incentives-Programme können angezeigt werden.</p></li>
+<li><p>Kann anzeigen und initiieren Incentives Ansprüche</p></li>
 <li><p>Anzeigen von Bank-und Steuerinformationen können</p></li>
 <li><p>Anzeigen und gemeinschaftliche Einnahmen erhalten</p></li>
 <LI><p>Anzeigen und gemeinschaftliche Einnahmen erhalten</p></li>

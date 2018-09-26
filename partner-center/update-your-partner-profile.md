@@ -4,12 +4,12 @@ description: Wenn Sie sich zum ersten Mal als Administrator anmelden, sollten Si
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ce6ba69f39bd23e9c7a8275e5d619881419dc3d
-ms.sourcegitcommit: 602f29fb7c1ec054f6f7ddac2e7d85a6f1657f8e
+ms.openlocfilehash: 34372626af495800abba254b06a161243a991e6f
+ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/20/2018
-ms.locfileid: "4095882"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "4197668"
 ---
 # <a name="update-your-partner-profile"></a>Aktualisieren von Partnerprofilen
 
@@ -24,13 +24,13 @@ Wenn Sie sich zum ersten Mal als Administrator bei Partner Center anmelden, soll
 
 **Ordnen Sie Ihre MPN-ID für Ihr Partner-Dashboard-Konto**
 
-Um Incentives, mitgliedsvorteilen und Kompetenzen verwalten und Benutzer verwalten können, muss Ihre MPN-Speicherort für Ihr Partner-Dashboard-Konto verknüpft werden.
+Um können Sie Ihre Anreizen, mitgliedsvorteilen und Kompetenzen verwalten und Verwalten von Benutzern, muss Ihre MPN-Speicherort für Ihr Partner-Dashboard-Konto verknüpft werden.
 
-Wie Sie im Partner-Dashboard, auf dem Bildschirm, **Ihre MPN-ID für Ihr Partner-Dashboard-Konto zuordnen registrieren**, geben Sie eine MPN-ID in das Suchfeld ein. Dies ermöglicht uns, Ihre Position der MPN-ID herstellen.
+Wie Sie in Partner-Dashboard, auf dem Bildschirm, **Ihre MPN-ID für Ihr Partner-Dashboard-Konto verknüpfen registrieren**, geben Sie eine MPN-ID in das Suchfeld ein. Dadurch können wir Ihre Position der MPN-ID herstellen.
 
-1. Sie können auch für Partner-Dashboard anmelden, rufen Sie die **Einstellungsseite** &gt; **Alle Einstellungen anzeigen** &gt; **Partner-Profil**.
+1. Sie können auch in Partner-Dashboard anmelden, wechseln Sie auf das **Symbol "Einstellungen"** und **Partner bearbeiten**.
 
-2. Wählen Sie aus der Liste der Speicherorte in Ihrem Partnerprofil die Speicherorte, die Sie verwenden möchten, ordnen Sie die MPN-ID oder geben die MPN-ID in das Suchfeld ein.
+2. Wählen Sie aus der Liste der Speicherorte auf Ihr Partner-Profil das Speicherorte ein, die mit der MPN-ID zugeordnet, oder geben die MPN-ID in das Suchfeld ein.
 
 >[!Note]
 >Die MPN-Position muss mit Ihrem Azure AD-Mandanten in derselben Land oder Region befinden. 
@@ -38,8 +38,8 @@ Wie Sie im Partner-Dashboard, auf dem Bildschirm, **Ihre MPN-ID für Ihr Partner
 
 **Aktualisieren von Supportdetails** 
 
-1.  Wechseln Sie zu **Einstellungen** &gt; **Alle Einstellungen anzeigen** &gt;**Partnerprofil**.
-2.  Wählen Sie im Abschnitt **Support** die Option **Aktualisieren** aus.
+1.  Wechseln Sie auf das **Symbol "Einstellungen"** , und wählen Sie **Partner-Einstellungen**.
+2.  Wählen Sie im Abschnitt **Unterstützung** der Seite **Aktualisieren**.
 3.  Wenn sich Ihre Kunden mit einer Supportanfrage an Microsoft wenden, verweist Microsoft Kunden auf die Website, E-Mail-Adresse und Kontakttelefonnummer, die Sie in Ihrem Supportprofil angegeben haben.
 
 **Beantragen von Steuerbefreiungen**
@@ -48,9 +48,9 @@ Wie Sie im Partner-Dashboard, auf dem Bildschirm, **Ihre MPN-ID für Ihr Partner
 
 **Überprüfen Sie und aktualisieren Sie Ihre Profilinformationen**
 
-1.  Gehen Sie zu **Einstellungen** &gt;**Alle Einstellungen anzeigen** . 
+1.  Wechseln Sie auf das **Symbol "Einstellungen"** , und wählen Sie **Partner-Einstellungen**. 
 2.  Überprüfen Sie das **Partnerprofil**, **Partnerabrechnungsprofil** und **Organisationsprofil**.
-3.  Wenn Sie die Details Ihrer juristische Adresse ändern müssen, kann Ihr Unternehmen für die Überprüfung Verbindung hergestellt werden. Wenn Sie Ihre rechtlichen Details ändern, kann es sich Ihre Daten auswirken. Stellen Sie sicher, dass Ihre Daten präzise bleibt. Wenden Sie sich an mit Fragen [zu unterstützen](https://partner.microsoft.com/support/contact-support) .
+3.  Wenn Sie die Details Ihrer juristische Adresse ändern müssen, kann Ihr Unternehmen für die Überprüfung Verbindung hergestellt werden. Wenn Sie Ihre rechtlichen Informationen Änderungen vornehmen, kann es sich Ihre Steuerinformationen auswirken. Stellen Sie sicher, dass Ihre Daten präzise bleibt. Wenden Sie sich an mit Fragen [zu unterstützen](https://partner.microsoft.com/support/contact-support) .
 
  
 

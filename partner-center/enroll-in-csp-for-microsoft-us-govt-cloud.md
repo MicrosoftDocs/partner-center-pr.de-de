@@ -3,12 +3,12 @@ title: Registrieren für das Cloud-Lösungsanbieter-Programm für Microsoft Clou
 description: Lesen Sie mehr über die CSP-Programmanforderungen, bevor Sie sich für das Cloud-Lösungsanbieter-Programm für Microsoft Cloud für US-Behörden registrieren.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 75d39cba230966dc8c457c7a4e564714f9ee6c58
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2b4aff04574a4c16fbfe0ba28e1e7603857d3796
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877200"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377662"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registrieren für das Microsoft Cloud-Lösungsanbieter-Programm für Microsoft Cloud für US-Behörden
 
@@ -30,8 +30,8 @@ Um für CSP für Microsoft Cloud für US-Behörden ein Partner Center-Konto zu e
 -  Die Microsoft Partner Network (MPN)-ID Ihrer Organisation 
 -  Eine Geschäftsadresse in den USA
 
->**Wichtig**<br>
-Wenn Sie im Partner Center über ein vorhandenes Konto verfügen und sich bei CSP für Microsoft Cloud für US-Behörden registrieren möchten, müssen Sie ein neues, separates Konto speziell für die US-Regierung erstellen.
+> [!IMPORTANT]  
+> Wenn Sie im Partner Center über ein vorhandenes Konto verfügen und sich bei CSP für Microsoft Cloud für US-Behörden registrieren möchten, müssen Sie ein neues, separates Konto speziell für die US-Regierung erstellen.
 
 ## <a name="how-to-enroll"></a>Registrierung 
 
@@ -48,8 +48,8 @@ Wenn Sie im Partner Center über ein vorhandenes Konto verfügen und sich bei CS
 
 2.  Wählen Sie **Zustimmen und fortfahren** aus. Das Überprüfen Ihrer Bewerbung kann mehrere Tage dauern. Wir werden Sie per E-Mail informieren, wenn unsere Überprüfung abgeschlossen ist.
 
-    >**Wichtig**<br>
-    Durch die Auswahl von **Zustimmen und fortfahren** bestätigen Sie, dass Sie berechtigt sind, im Namen Ihrer Organisation zu handeln und Sie Microsoft erlauben vor dem Durchlesen der Microsoft Cloud-Lösungsanbieter-Bewerbung Ihrer Organisation eine Bonitätsprüfung auszuführen.
+    > [!IMPORTANT]  
+    > Durch die Auswahl von **Zustimmen und fortfahren** bestätigen Sie, dass Sie berechtigt sind, im Namen Ihrer Organisation zu handeln und Sie Microsoft erlauben vor dem Durchlesen der Microsoft Cloud-Lösungsanbieter-Bewerbung Ihrer Organisation eine Bonitätsprüfung auszuführen.
 
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>Schritt3 – Unterschreiben Sie den Händlervertrag für Microsoft Cloud für US-Behörden
@@ -63,8 +63,8 @@ Wenn Sie im Partner Center über ein vorhandenes Konto verfügen und sich bei CS
 
 Microsoft Cloud für US-Behörden bietet eine separate Instanz von Microsoft Azure, die Standards für Behörden im Hinblick auf Compliance, Sicherheit und Datenschutz erfüllt. Um Administratoren das Verwalten von Benutzern und Lizenzen im Microsoft Azure-Portal zu ermöglichen, müssen Sie die Administrator-Agent-Rolle manuell zuweisen.
 
->**Hinweis:**<br>
-Nachdem Sie Benutzer zur Rolle der Admin-Agents zugewiesen haben, können Sie auf der Seite **Kunden** auf Ihre Kundenliste zugreifen und [neue Kunden hinzufügen](add-a-new-customer.md).   
+> [!NOTE]  
+> Nachdem Sie Benutzer zur Rolle der Admin-Agents zugewiesen haben, können Sie auf der Seite **Kunden** auf Ihre Kundenliste zugreifen und [neue Kunden hinzufügen](add-a-new-customer.md).   
 
 1.  Melden Sie sich im Microsoft Azure-Verwaltungsportal unter https://portal.azure.us/.
 

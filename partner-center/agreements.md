@@ -4,12 +4,12 @@ description: Herunterladen von markt- und sprachspezifischen Kundenvereinbarungs
 author: Maggie Evans
 keywords: Microsoft-Cloud-Verträge, Vorlagen für Kundenverträge, CSP-Vereinbarungen für Kunden, MCA, MCAs, CSP, wo kann ich über CSP verkaufen?, CSP-Länder und -Regionen, CSP-MCAs in mehreren Sprachen, CSP Nordamerika, CSP Mittelamerika, CSP Südamerika, CSP Karibik, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud Deutschland, CSP Naher Osten, CSP Afrika, CSP Europa, CSP Asien, CSP Pazifik, CSP-MCAs
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cd5615693a7cea51dfc11f1b6039c3a333e979b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 1248e8f658fc7a851dbc92b2a88d75490fb9b7df
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877510"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377812"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Märkte und Kundenvereinbarungen für Microsoft Cloud Solution Provider
 
@@ -17,8 +17,8 @@ Dieser Artikel enthält eine Liste der Märkte, die derzeit im Microsoft Cloud S
 
 An einigen Standorten stehen je nach der vom Kunden bevorzugten Sprache mehrere Sprachversionen des Vertrags zur Verfügung. Der Kunden sollte die Version in seiner bevorzugten Sprache erhalten.
 
->**Hinweis:**<br>
-Die unten aufgeführten Microsoft Cloud Agreement-Kundenvorlagen sind ab dem 1.September2017 für alle Regionen und alle Sprachen gültig.
+> [!NOTE]  
+> Die unten aufgeführten Microsoft Cloud Agreement-Kundenvorlagen sind ab dem 1.September2017 für alle Regionen und alle Sprachen gültig.
 
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>Nordamerika, Mittelamerika, Südamerika und Karibik

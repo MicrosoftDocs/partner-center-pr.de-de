@@ -3,12 +3,12 @@ title: Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deu
 description: Zur Einhaltung der nationalen, regionalen und branchenspezifischen Anforderungen, die für die Erfassung und Verwendung von Personendaten gelten, sind Benutzerverwaltungsfunktionen nicht im Partner Center für Microsoft-Cloud Deutschland verfügbar. Stattdessen können Sie Benutzer im Azure-Portal für Microsoft-Cloud Deutschland hinzufügen und verwalten.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 4e354fd3f5bf20ef10600a454a94704fe2db0700
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0ee4215c106076d3bc548efa50dd921ae3d5987a
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875770"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377412"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland
 
@@ -25,8 +25,8 @@ Verwaltung der Benutzer des Kundens | Office 365 Admin-Zentrum oder Azure für V
 Benutzerkennwort zurücksetzen | Verwaltungsportal von Azur für Microsoft-Cloud Deutschland
 Lizenzverwaltung | Office 365 Admin-Zentrum oder Microsoft Cloud Deutschland Azure Active Directory Lizenzportal
 
->**Hinweis**<br>
-Zum Zeitpunkt der Veröffentlichung dieses Artikels war noch keine Dokumentation zum Verwalten von Lizenzen für Benutzer von Kunden im Azure-Verwaltungsportal oder dem Verwaltungsportal von Office365 verfügbar.
+> [!NOTE]  
+> Zum Zeitpunkt der Veröffentlichung dieses Artikels war noch keine Dokumentation zum Verwalten von Lizenzen für Benutzer von Kunden im Azure-Verwaltungsportal oder dem Verwaltungsportal von Office365 verfügbar.
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Verwalten von Benutzern im Azure-Portal für Microsoft-Cloud Deutschland 
 
@@ -34,7 +34,8 @@ Wenn Sie sich beim Partner Center für Microsoft-Cloud Deutschland angemeldet ha
 
 Nachdem Sie sich erfolgreich beim Azure-Portal für Microsoft-Cloud Deutschland angemeldet haben, öffnen Sie die Übersicht der Seite Azure Active Directory (Azure AD) und folgen Sie den Anweisungen für folgende Themen:
 
->**Hinweis** Die Auswahl der unten stehenden Links führt auf eine andere Website. 
+> [!NOTE]  
+> Wählen die unten angegebenen Links gelangen Sie zu einer anderen Website. 
 
 -  [**Azure Active Directory neue Benutzer hinzufügen**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 

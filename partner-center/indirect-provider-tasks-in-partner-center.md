@@ -3,12 +3,12 @@ title: Zusammenarbeiten mit indirekten Vertriebspartnern in CSP | Partner Center
 description: Als indirekter Anbieter (oder Distributor) können Sie mit indirekten Vertriebspartnern zusammenarbeiten, um Ihre Reichweite zu erhöhen.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: bdb60386eda7c9b46f7616662cec6775b111ca1d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 3564c7119ea2149703bcb5a6f7f1bb0d5f09d69b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876770"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377762"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Zusammenarbeiten mit indirekten Vertriebspartnern im Programm für Cloud Solution Provider
 
@@ -46,7 +46,8 @@ Führen Sie zum Einrichten und Verwalten Ihrer Partnerschaft mit indirekten Vert
 
 Nach Abschluss dieser Schritte können Sie Ihre Vertriebspartnerschaften im Menü **Dashboard** auf der Seite **Indirect resellers** verwalten.
 
->**Wichtig**<br> Um mit Vertriebspartnern im Partner Center zusammenarbeiten zu können, müssen diese als indirekte Vertriebspartner im CSP-Programm registriert sein und über Partner-Dashboard-Konten verfügen. Registrierungsinformationen für das CSP-Programm finden Vertriebspartner unter [Zusammenarbeiten mit indirekten Anbietern in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md). 
+> [!IMPORTANT]   
+> Um mit Vertriebspartnern im Partner Center zusammenarbeiten zu können, müssen diese als indirekte Vertriebspartner im CSP-Programm registriert sein und über Partner-Dashboard-Konten verfügen. Registrierungsinformationen für das CSP-Programm finden Vertriebspartner unter [Zusammenarbeiten mit indirekten Anbietern in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md). 
 
 ## <a name="connect-with-indirect-resellers"></a>Vernetzen mit indirekten Vertriebspartnern
 
@@ -59,8 +60,8 @@ Senden Sie zum Einrichten einer Partnerschaft eine E-Mail mit einer Partnerschaf
 2. Wählen Sie auf der Seite **Indirect resellers** die Option **Request a partnership** aus. Ein E-Mail-Entwurf wird angezeigt.
 
 3. Wählen Sie **In E-Mail öffnen** aus, um die Nachricht in Ihrer Standardanwendung für E-Mails zu öffnen, oder wählen Sie **In Zwischenablage kopieren** aus, um den Text zu kopieren, und fügen Sie ihn dann in eine E-Mail ein. Wählen Sie abschließend **Fertig** aus.
-
-   >**Wichtig:** Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er speziell auf Ihr Partner-Dashboard-Konto zugeschnitten ist.
+    > [!IMPORTANT]  
+    >  Sie können den Text in der e-Mail bearbeiten, aber Achten Sie darauf, dass Sie den Link mit, da er speziell auf Ihr Partner-Dashboard-Konto zugeschnitten ist.
 
 4. Nachdem der Vertriebspartner Ihre Partnerschaftsanfrage angenommen hat, wird er in der Liste mit Ihren indirekten Vertragspartnern angezeigt, und Sie können nun folgende Aktionen ausführen: 
 
@@ -97,8 +98,8 @@ Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren S
 5.  Ist der Auftrag korrekt, wählen Sie **Übermitteln** aus. Ist eine Korrektur erforderlich, wählen Sie **Abbrechen** aus, um den gesamten Vorgang abzubrechen, und beginnen Sie von vorn.
 
 6.  Nach Übermittlung des Auftrags erscheint die Seite **Bestätigung**. Unter **Einrichtungsinfos** werden der Name des Administratorbenutzerkontos und das temporäre Kennwort angezeigt. Notieren Sie sich den Namen des Benutzerkontos und das Kennwort, um sie dem neuen Kunden senden zu können. 
-
-    >**Wichtig:** Notieren Sie sich unbedingt den Namen des Benutzerkontos und das Kennwort, da Sie nach dem Schließen der Seite nicht mehr darauf zugreifen können.
+    > [!IMPORTANT]  
+    > Achten Sie darauf, dass Sie notieren Sie den Namen des Benutzerkontos und das Kennwort, da Sie nicht auf diese Informationen erneut zugreifen, nach dem Schließen der Seite.
 
 7.  Wählen Sie **Fertig** aus. Der neue Kunde erscheint in Ihrer Kundenliste und ist dem indirekten Vertriebspartner zugeordnet. Der Vertriebspartner hat nun Administratorzugriff auf die Kontoinformationen und Abonnements des Kunden und kann die Abonnements im Auftrag des Kunden verwalten.
 

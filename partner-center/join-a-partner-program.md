@@ -3,12 +3,12 @@ title: Beitreten zum Microsoft Partner Network | Partner Center
 description: Erwerben Sie das Microsoft Action Pack und verdienen Sie Kompetenzen im Partner Center
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0983b5f9b62e29495d98248e88a2820721d3e828
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6d38a3bce720d4accca4387d279f222181e337ff
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877110"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377792"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Microsoft Partner Network beitreten (MPN)
 
@@ -37,7 +37,8 @@ Um Geschäfte als Microsoft-Partner zu tätigen, benötigen Sie eine MPN-ID-Numm
 
 4.  Wenn Sie sich über eine vorhandene Organisation registrieren, müssen Sie den Namen und die Adresse des Unternehmens angeben.
 
->**Hinweis:**<br> Sie müssen die Adresse für den Hauptsitz Ihrer Organisation für jeden Standort angeben, an dem Sie verkaufen.
+> [!NOTE]  
+>  Sie müssen die Adresse für den Hauptsitz Ihrer Organisation für jeden Standort angeben, an dem Sie verkaufen.
 
 Als Network-Mitglied erhalten Sie [grundlegende interne Nutzungsrechte](https://partner.microsoft.com/membership/core-benefits), die Sie beim Aufbau Ihres Geschäfts unterstützen. 
 

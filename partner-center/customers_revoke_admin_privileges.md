@@ -4,12 +4,12 @@ description: Als Händlerpartner kann Ihre Kunden Sie ihren Administrator delegi
 author: labrenne
 keywords: Rechte als stellvertretender Administrator entfernen, Administrator im Namen von, Berechtigungen, DAP AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a6d14398bdd9a439bc001ecb3d03bc9d7774937
-ms.sourcegitcommit: 3478fc6fe1a061e5973307fffd039b4bee5d8e1c
+ms.openlocfilehash: 77613468d03d62d1eb8a42e8bc9288458461166d
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/08/2018
-ms.locfileid: "3806678"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377432"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Kunden delegieren Administratorrechte an Partner
 
@@ -34,15 +34,15 @@ Um den Dienst oder das Abonnement im Namen eines Kunden zu verwalten, muss der K
 
 5.  Nachdem der Kunde die Einladung angenommen hat, wird er auf der Seite **Kunden** angezeigt, und Sie können den Dienst für den Kunden von dort aus bereitstellen und verwalten.
 
-6.  Um das Konto, Services, Benutzern und Lizenzen des Kunden zu verwalten, erweitern Sie den Kundendatensatz durch Auswählen des Abwärtspfeils neben seinem Namen, und wählen Sie dann das Verwaltungsportal für den Dienst, die, den Sie verwalten möchten.
+6.  Um das Konto, Services, Benutzern und Lizenzen des Kunden zu verwalten, erweitern Sie den Kundendatensatz durch Auswählen des Abwärtspfeils neben seinem Namen, und wählen Sie dann das Verwaltungsportal für den Dienst, den Sie verwalten möchten.
 
 
->**Wichtig**<br>
-Kunden können Administratorberechtigungen im Verwaltungsportal eines Diensts neu zuweisen oder entfernen. Erst wenn Sie Ihre Vereinbarung mit dem Kunden erneut verhandeln, sind Sie jedoch weiterhin für die Bereitstellung des Supports und die Einhaltung der Bedingungen des Cloud Reseller Agreement verantwortlich, auch nachdem ein Kunde die Administratorberechtigungen neu zugewiesen oder entfernt hat. In diesem Fall wenn der Kunde Hilfe benötigt, wenden Sie sich an Microsoft Support, um eine Serviceanfrage im Auftrag des Kunden zu öffnen.
+> [!IMPORTANT]  
+> Kunden können Administratorberechtigungen im Verwaltungsportal eines Diensts neu zuweisen oder entfernen. Erst wenn Sie Ihre Vereinbarung mit dem Kunden erneut verhandeln, sind Sie jedoch weiterhin für die Bereitstellung des Supports und die Einhaltung der Bedingungen des Cloud Reseller Agreement verantwortlich, auch nachdem ein Kunde die Administratorberechtigungen neu zugewiesen oder entfernt hat. In diesem Fall wenn der Kunde Hilfe benötigt, wenden Sie sich an Microsoft Support, um eine Serviceanfrage im Auftrag des Kunden zu öffnen.
 
-Ihre Kunden können ermitteln, welche ihrer Partner über Administratorrechte für ihren Mandanten von innerhalb der Office 365-Verwaltungsportal verfügen. Gehen Sie dazu folgendermaßen vor:
+Ihre Kunden können ermitteln, welche ihrer Partner über Administratorrechte für ihren Mandanten aus innerhalb der Office 365-Verwaltungsportal verfügen. Gehen Sie dazu folgendermaßen vor:
 
-1. Der Kunde benötigt, für die Anmeldung bei Office 365 Admin-Portal als ein globaler Administrator aus.
+1. Der Kunde muss sich im Office 365-Verwaltungsportal als einen globalen Administrator anmelden
 
 2. Wählen Sie **Einstellungen** → **Partnerbeziehungen** aus.
 
@@ -62,8 +62,8 @@ So entfernen Sie die stellvertretenden Administratorrechte eines Partners:
 2. Wählen Sie im Detailbereich **Stellvertretenden Administrator entfernen** aus.
 3. Wählen Sie im Bestätigungsbereich **Entfernen** aus.
 
->**Wichtig**<br>
-Die Azure AD-Rollenzuweisungen für den Partner sind implizit. Wenn Sie versuchen, die Mitglieder der Azure AD-Rollen mithilfe des Azure AD-Portals bzw. PowerShell oder Graph aufzulisten, wird der Partner nicht zurückgegeben. Um festzustellen, ob den Partnern Azure AD-Rollen zugewiesen sind, müssen Sie sich auf die Seite mit den Partnerbeziehungen im Office365 Admin-Portal beziehen, um herauszufinden, ob dem Partner Rechte als stellvertretender Administrator gewährt wurden oder nicht.
+> [!IMPORTANT]  
+> Die Azure AD-Rollenzuweisungen für den Partner sind implizit. Wenn Sie versuchen, die Mitglieder der Azure AD-Rollen mithilfe des Azure AD-Portals bzw. PowerShell oder Graph aufzulisten, wird der Partner nicht zurückgegeben. Um festzustellen, ob den Partnern Azure AD-Rollen zugewiesen sind, müssen Sie sich auf die Seite mit den Partnerbeziehungen im Office365 Admin-Portal beziehen, um herauszufinden, ob dem Partner Rechte als stellvertretender Administrator gewährt wurden oder nicht.
 
 ## <a name="delegated-admin-privileges-in-azure-ad"></a>Rechte als stellvertretender Administrator in Azure AD 
 
@@ -103,14 +103,15 @@ Was Sie tun können, hängt davon ab, auf welches CSP-Modell Sie registriert sin
 |Anwenden eines Profils auf Geräte   |Ja   |Ja   |
 |Entfernen eines Profils von Geräten   |Ja   |Ja   | 
 
-- Wenn ein Kunde delegierte Verwaltung Berechtigungen entfernt, aber eine vertriebspartnerschaft mit Ihnen behält, können Sie weiterhin zum Verwalten von Autopilot Profile für sie.
+- Wenn ein Kunde behält eine vertriebspartnerschaft mit Ihnen delegierte Verwaltung Berechtigungen entfernt, können Sie weiterhin zum Verwalten von Autopilot Profile für sie.
 
 - Sie können Geräte von Kunden, die Sie oder einen anderen Partner hinzugefügt wurden verwalten. 
 
 - Sie können keine Geräte verwalten, die Ihre Kunden über den Microsoft Store für Unternehmen, Microsoft Store für Bildungseinrichtungen oder Microsoft Intune-Portal hinzugefügt hat.
 
->**Wichtige** Die aktuelle Autopilot-Management-Erfahrung im Dashboard möglicherweise weiterhin ändern. Zum Zeitpunkt der Veröffentlichung dieses Artikels, sind die folgenden Änderungen in Betracht gezogen:
+> [!IMPORTANT]  
+> Die aktuelle Autopilot-Management-Erfahrung im Dashboard möglicherweise weiterhin ändern. Zum Zeitpunkt der Veröffentlichung dieses Artikels, sind die folgenden Änderungen in Betracht gezogen:
 
   - Dem Partner muss die Berechtigung als stellvertretender Administrator vom Kunden gewährt werden, bevor der Partner Profile hinzufügen/aktualisieren/entfernen und ein Profil anwenden oder von Geräten im Kundenmandanten entfernen kann.
 
-- Partner muss erteilt werden stellvertretender Administrator vom Kunden vor der Partner Geräte hinzugefügt von anderen Partnern oder durch den Kunden in den kundenmandanten entfernen kann. Andernfalls kann der Partner nur Geräte, die zuvor vom selben Partner hinzugefügt wurden entfernen.
+- Partner muss erteilt werden stellvertretender Administrator vom Kunden vor der Partner Geräte hinzugefügt, von anderen Partnern oder durch den Kunden in den kundenmandanten entfernen kann. Andernfalls kann der Partner nur Geräte, die zuvor vom selben Partner hinzugefügt wurden entfernen.

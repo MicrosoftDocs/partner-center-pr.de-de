@@ -3,12 +3,12 @@ title: Partner Center für Microsoft-Cloud Deutschland | Partner Center für Mic
 description: Partner Center für Microsoft-Cloud Deutschland ist das Unternehmensportal für Microsoft-Partner, die Kunden die Microsoft-Cloudlösungen in EU und EFTA-Ländern anbieten möchten. Microsoft-Cloud Deutschland stellt sicher, dass Ihre Kundendaten in Deutschland bleiben und ein angegebener Datenverwalter den Zugriff darauf kontrolliert. Gewerbliche Kunden in der Europäischen Union (EU) und der EFTA können Kundendaten in Übereinstimmung mit den zutreffenden deutschen Gesetzen und Vorschriften sowie wichtigen internationalen Standards speichern und verwalten. Microsoft kann nicht ohne Genehmigung und Überwachung des deutschen Datenverwalters oder Kunden auf die Kundendaten zugreifen.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f1640281ee3f14c266d33da54a17aa1968d3fbc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 53d0b70d8123369f631dc03e139a58432a455528
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876340"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377582"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Partner Center für Microsoft-Cloud Deutschland
 
@@ -28,8 +28,8 @@ Weitere Informationen finden Sie unter [Datenblatt von Microsoft Cloud Deutschla
 
 Nachdem Sie als Cloud Solution Provider (CSP) für das Microsoft-Cloud Deutschland-Programm registriert sind, können Sie Partner Center verwenden, um deutsche Cloud-spezifische Lösungen und Dienste an Kunden in EU- und EFTA-Ländern/Regionen zu verkaufen. 
 
->**Hinweis**<br>
-Zum Zeitpunkt der Veröffentlichung dieses Artikels, waren folgende Partner Center-Funktionen nicht noch nicht im Partner Center für Microsoft-Cloud Deutschland verfügbar (seit der Veröffentlichung sind möglicherweise einige Funktionen dem Partner Center hinzugefügt worden und diese Liste ist möglicherweise nicht mehr aktuell):
+> [!NOTE]  
+> Zum Zeitpunkt der Veröffentlichung dieses Artikels, waren folgende Partner Center-Funktionen nicht noch nicht im Partner Center für Microsoft-Cloud Deutschland verfügbar (seit der Veröffentlichung sind möglicherweise einige Funktionen dem Partner Center hinzugefügt worden und diese Liste ist möglicherweise nicht mehr aktuell):
 
 - Partner suchen
 - Unternehmensprofile

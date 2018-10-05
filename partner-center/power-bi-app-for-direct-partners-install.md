@@ -4,12 +4,12 @@ description: Gehen Sie folgendermaßen vor, um die Partner Center Analytics-App 
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0164a650fb92e4a445b195f3e7b34f1359759a8c
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dd91d16ffe5e49271dd3c5fe50e8910299f1a1c
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874760"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377512"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installation und Vorschau mit der Partner Center Analytics-App für Microsoft Power BI
 
@@ -39,7 +39,8 @@ Bevor Sie die Preview-Version der Partner Center Analytics-App installieren, ste
 
 4.  Prüfen Sie im Popup-Fenster **Mit Partner Center Analytics verbinden**, ob die **Authentifizierungsmethode** auf **oAuth2** festgelegt ist oder wählen Sie **oAuth2** aus der Liste aus. 
 
-    >**Hinweis:**<br> Dieses Fenster erscheint möglicherweise erst nach einigen Minuten.
+    > [!NOTE]  
+>  Dieses Fenster erscheint möglicherweise erst nach einigen Minuten.
 
 5.  Melden Sie sich auf der **Partner Center Analytics Connector** als globaler Administrator, Admin-Agent oder Abrechnungsadministrator für den Azure AD-Mandanten Ihres Unternehmen an und wählen Sie dann **Anmelden** aus.
  

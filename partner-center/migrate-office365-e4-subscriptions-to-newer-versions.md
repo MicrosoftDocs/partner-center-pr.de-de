@@ -3,12 +3,12 @@ title: Migrieren von Office365 E4-Abonnements zu neueren Versionen von Office365
 description: Microsoft Office365 Enterprise E4 Edition ist seit 7.April2017 eingestellt. Hier erfahren Sie, wie Sie Ihre Kundenabonnements zu neueren Versionen von Office365 migrieren.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 545cfa5c635c9093cd0261bf35e01ba2823571ef
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e6efcc3227f426a9b83c7579534e0b6ad68188da
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876930"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377712"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrieren von Abonnements für Office365 E4 zu neueren Versionen von Office365
 
@@ -20,7 +20,8 @@ Der Office 365 Enterprise E4-Plan wird ab 7. April 2017 eingestellt. Sie können
 
 Wenn E4-Abonnements enden, werden sie storniert. Um Kontinuität für Kunden zu gewährleisten, sollten Sie Kunden mit ablaufenden E4-Abonnements auf eine unterstützte SKU-Option (nachfolgend aufgeführt) übertragen. Es wird empfohlen, Kunden auf neue Abonnements vor dem jährlichen Enddatum des Abonnements umzustellen, um Dienstausfälle für Kunden zu vermeiden. 
 
->**Hinweis:** Sowohl kommerzielle SKUs als auch Behörden-SKUs für Office365 Enterprise E4 werden eingestellt.
+> [!NOTE]  
+>  Office 365 Enterprise E4 commercial auch Behörden-SKUs werden eingestellt.
  
 Auf der Detailseite des Abonnements wurde der E4-Abonnementstatus von "Datum der automatischen Verlängerung: [Datum]" in "Gültig bis [Datum]" geändert. 
 

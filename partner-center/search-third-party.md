@@ -4,12 +4,12 @@ description: Es ist ganz einfach, die Angebote von Drittanbietern zu suchen und 
 author: labrenne
 keywords: Drittanbieterangebote, Kaufsoftware, Suchen nach Drittanbietern
 ms.localizationpriority: medium
-ms.openlocfilehash: dc7d7c8a0d24f184c2e6a21406a1d5d26c961902
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6c734282aed8493d68d6ff9e8dc6d732d952c0a8
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876720"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377502"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Suchen der Angebote von Drittanbietern, die Sie verkaufen möchten
 
@@ -51,7 +51,8 @@ Sie erwerben Drittanbietersoftware genauso wie Erstanbietersoftware.
 7.  Nachdem das Abonnement hinzugefügt wurde, öffnen Sie es durch Klicken auf den Abonnementnamen. 
 8.  Auf der **Abonnement-Bearbeitungsseite** können Sie die Anzahl der Lizenzen ändern oder das Abonnement unterbrechen.
 
->**Hinweis:**<br> Sie weisen die Lizenz an den Kunden auf der Drittanbieter-Administratorwebsite zu.
+> [!NOTE]  
+>  Sie weisen die Lizenz an den Kunden auf der Drittanbieter-Administratorwebsite zu.
 
     
 

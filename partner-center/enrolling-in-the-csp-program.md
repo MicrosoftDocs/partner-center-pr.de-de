@@ -3,12 +3,12 @@ title: Registrieren für das Programm für Cloud Solution Provider | Partner Cen
 description: Grundlegendes zu den verschiedenen Modellen für den Verkauf in CSP und herausfinden, welche Lösung am besten zu Ihrem Unternehmen passt
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 609ef0bd1e280e41cd74088b8a42ffe7771d5ef9
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: dac0ea001011ad4a3b3ee11bb465e793ca6ef323
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876400"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377672"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud Solution Provider
 
@@ -27,7 +27,8 @@ Entscheiden Sie, welches [CSP-Modell zutrifft](https://partnercenter.microsoft.c
 
 Die Überprüfung Ihrer Angaben kann mehrere Tage dauern. Wir werden Sie per E-Mail informieren, wenn unsere Überprüfung abgeschlossen ist.
 
->**Wichtig**<br> Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Diese Einschränkung gilt nur für Mandanten, die für die Durchführung von CSP-Transaktionen verwendet werden. CSP-Partner, die einen Nicht-CSP-Mandanten für ihre Unternehmensnutzung verwenden, können Onlinedienste von einem anderen CSP-Partner erwerben. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Neuigkeiten der künftigen Versionen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner-Dashboard.
+> [!IMPORTANT]  
+> Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Diese Einschränkung gilt nur für Mandanten, die für die Durchführung von CSP-Transaktionen verwendet werden. CSP-Partner, die einen Nicht-CSP-Mandanten für ihre Unternehmensnutzung verwenden, können Onlinedienste von einem anderen CSP-Partner erwerben. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Neuigkeiten der künftigen Versionen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner-Dashboard.
 
 ### <a name="enroll-as-an-indirect-reseller"></a>Sich als indirekter Wiederverkäufer registrieren
 
@@ -48,19 +49,20 @@ Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit 
 
 - Wenn Sie Ihre Arbeit mit Kunden im Partner Center fortsetzen möchten, müssen Sie diese Ihrem Partner-Dashboard-Konto [zuordnen](request-a-relationship-with-a-customer.md).  Microsoft kann so die Abrechnung und Fakturierung mit Ihnen verbinden. 
 
->**Hinweis:**<br> Die Anforderungen für eine direkte Partnerschaft zuletzt geändert wurden und wirksam ab 31. August 2018. Direkte Partner müssen die neue erfüllen ab ihrer nächsten Registrierung Zeitraum nach dem 31. August 2018.
+> [!NOTE]  
+>  Die Anforderungen für eine direkte Partnerschaft zuletzt geändert wurden und wirksam ab dem 31. August 2018. Direkte Partner müssen die neue ab ihrer nächsten Registrierung Zeitraum nach dem 31. August 2018 erfüllen.
 
 #### <a name="new-expanded-requirements"></a>Neue erweiterte Anforderungen:
 
 Unterstützung
-- Erweitern Sie Ihre Fähigkeiten Unterstützung durch den Erwerb persönlichen, priorisierten Cloud-Unterstützung mit einem Microsoft Advanced Support für Partner-Paket aus. Oder Sie wählen einen Microsoft Premier Support für Partner-Paket auf den vollständigen Katalog der proaktive Dienste zugreifen, 24/7 mit erhöhten Rechten Problembehebung Support und technische Kontenverwaltung über Cloud, Hybrid- und lokale. 
+- Erweitern Sie Ihre Fähigkeiten Unterstützung durch den Erwerb persönlichen, priorisierte Cloud-Unterstützung mit einem Microsoft Advanced Support für Partner-Paket. Oder Sie wählen einen Microsoft Premier Support für Partner-Paket auf den vollständigen Katalog der proaktive Dienste zugreifen, 24/7 mit erhöhten Rechten Break-Fix-Support und technische Kontenverwaltung über die Cloud, Hybrid- und lokale. 
 
 Dienste
 
 - Führen Sie vor, dass Sie mindestens ein verwalteter Dienst, IP-Dienst oder Kunden Lösung Anwendung bereitstellen. Erfahren Sie mehr über verwaltete Dienste hinzufügen
 
-- Erfüllen Sie die minimale Infrastrukturfunktionen, z. B. Abrechnung und Bereitstellung.
-Wir sind jährliche Leistung, um sicherzustellen, dass die Online-Dienst-Partner, die diese Anforderungen erfüllt stetig Unternehmenswachstum demonstrieren sind überwachen. Es gibt keine spezifische Leistungsziele im Ort zu diesem Zeitpunkt, aber Microsoft möglicherweise eine Leistung Leiste in Zukunft implementieren. 
+- Die minimale Infrastrukturfunktionen, z. B. Abrechnung und Bereitstellung zu erfüllen.
+Wir überwachen jährliche Leistung, um sicherzustellen, dass die Online-Dienst-Partner, die diese Anforderungen erfüllt stetig Unternehmenswachstum veranschaulicht werden. Es gibt keine spezifische Leistungsziele im Ort zu diesem Zeitpunkt, aber Microsoft möglicherweise eine Leistung Leiste in Zukunft implementieren. 
 
 - Eine aktive Microsoft Partner Network (MPN)-ID für den Standort, in dem Sie den Verkauf tätigen möchten
 

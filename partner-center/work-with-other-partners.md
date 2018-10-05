@@ -3,12 +3,12 @@ title: Zusammenarbeit mit anderen Partnern | Partner Center
 description: Arbeiten Sie mit anderen Partnern im CSP zusammen, um die Bedürfnisse Ihrer gemeinsamen Kunden zu erfüllen.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: bab729b1a9021d095566395048a4eb7fa3c8d7f8
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7bac4fd3fa01495125aa054c90b79cc777455f98
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877100"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377692"
 ---
 # <a name="work-with-other-partners"></a>Zusammenarbeit mit anderen Partnern
 
@@ -48,6 +48,6 @@ Das Multichannel-Feature in Partner Center unterstützt Szenarien, in denen ein 
 
 Die Multichannel-Unterstützung ist auch in Microsoft-Angeboten für die nationale Cloud verfügbar
 
->**Wichtig**<br>
-Ein Partner in CSP kann derzeit keine Onlinedienste an einen anderen Partner in CSP weiterverkaufen. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Ankündigungen der künftigen Versionen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner Center. 
+> [!IMPORTANT]  
+> Ein Partner in CSP kann derzeit keine Onlinedienste an einen anderen Partner in CSP weiterverkaufen. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Ankündigungen der künftigen Versionen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner Center. 
 

@@ -3,12 +3,12 @@ title: Benutzer- und Lizenzverwaltung im Partner Center für Microsoft Cloud fü
 description: Zur Einhaltung der nationalen, regionalen und branchenspezifischen Anforderungen, die für die Erfassung und Verwendung von Personendaten gelten, sind Benutzerverwaltungsfunktionen nicht im Partner Center für Microsoft Cloud für US-Behörden verfügbar. Stattdessen können Sie Benutzer im Azure-Portal für Microsoft Cloud für US-Behörden hinzufügen und verwalten.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 5cf8f4f33043f6130789ea2402067f759fa98343
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7fc99106d522fc8b7c36a36267873a65826b9f68
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876210"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377732"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Benutzer- und Lizenzverwaltung im Partner Center für Microsoft Cloud für US-Behörden
 
@@ -31,7 +31,8 @@ Wenn Sie sich beim Partner Center für Microsoft Cloud für US-Behörden angemel
 
 Nachdem Sie sich erfolgreich beim Azure-Portal für Microsoft Cloud für US-Behörden angemeldet haben, öffnen Sie die Übersicht der Seite Azure Active Directory (Azure AD) und folgen Sie den Anweisungen für folgende Themen:
 
->**Hinweis** Die Auswahl der unten stehenden Links führt auf eine andere Website. 
+> [!NOTE]  
+> Wählen die unten angegebenen Links gelangen Sie zu einer anderen Website. 
 
 -  [**Azure Active Directory neue Benutzer hinzufügen**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 

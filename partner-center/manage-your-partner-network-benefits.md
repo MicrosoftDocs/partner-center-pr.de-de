@@ -4,12 +4,12 @@ description: Als Microsoft Partner Network-Mitglied haben Sie Anspruch auf den E
 author: MaggiePucciEvans
 keywords: MPN, Mitgliedschaftsvorteile, Mitgliedschaft
 ms.localizationpriority: medium
-ms.openlocfilehash: 2518cc915b658a74372cd34b02e96bbbc1991aa0
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5b79073435715c91a6c77da266ec3420c139d8e3
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876910"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377722"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile
 
@@ -28,7 +28,7 @@ Wenn Sie dem Microsoft Partner Network (MPN) beitreten, erhalten Sie Zugriff auf
 Nach dem Erwerb eines Mitgliedschaftsvorteilspakets müssen Sie Softwareschlüssel erhalten und Lizenzen, Abonnements sowie andere Vorteile zu Mitarbeitern zuweisen, damit diese sie nutzen können. 
 
 >[!IMPORTANT]
->Obwohl Sie nicht als ein globaler Administrator in Ihrer Organisation Vorteile erwerben, müssen Sie der globale Administrator Vorteile zu Mitarbeitern zuweisen werden.  Wenn Sie möchten, können Sie ein globaler Administrator teilnehmen, gemäß die Anweisungen auf der [Seite **Vorteile** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Außerdem haben Ihrer Organisation möglicherweise bereits einen globalen Administrator, um zu überprüfen, mit Ihrem Team Achten Sie also.
+>Während Sie nicht in Ihrer Organisation Vorteile erwerben ein globaler Administrator sein müssen, müssen Sie der globale Administrator Vorteile zu Mitarbeitern zuweisen werden.  Wenn Sie möchten, können Sie ein globaler Administrator teilnehmen, gemäß die Anweisungen auf der [Seite **Vorteile** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Außerdem haben Ihrer Organisation möglicherweise bereits einen globalen Administrator, um zu überprüfen, mit Ihrem Team Achten Sie also.
 
 Vorteilspakete umfassen Zuweisungen von Softwarelizenzen, Clouddiensten, Visual Studio-Abonnements und Support mit internen Nutzungsrechten. Sie finden die Details zum Action Pack-Abonnement auf der [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software)-Website.  
 
@@ -70,8 +70,8 @@ Navigieren Sie zum Anzeigen und Verwalten Ihrer Mitgliedschaftsvorteile zur Seit
 
 3. Um ein Visual Studio-Abonnement zu aktivieren, wählen Sie einen Benutzer aus der Liste aus, und wählen Sie dann **Benutzer zuweisen**. 
 
-    >**Wichtig**<br>
-Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen** [neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
+> [!IMPORTANT]  
+> Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen** [neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
 
 3. Wiederholen Sie diesen Vorgang für jedes Abonnement, das Sie zuweisen möchten. Benutzer können ihre Abonnements im Visual Studio-Portal verwalten. 
 

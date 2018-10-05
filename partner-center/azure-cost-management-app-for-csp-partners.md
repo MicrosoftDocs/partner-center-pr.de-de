@@ -5,12 +5,12 @@ author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ab388f9a178a0bfd3b3d3133da855bcddee9d4f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b24e69d21a50306cbd9bf3495fc55015d5966b17
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877450"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377802"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>App zum Azure-Kostenmanagement für Azure CSP-Partner  
 
@@ -41,8 +41,9 @@ Wenn Sie eine Azure Active Directory-Web-App im Partner Center registrieren, kö
 ## <a name="add-a-secret-key-to-your-app"></a>Hinzufügen eines geheimen Schlüssels zu Ihrer App
 1.  Wählen Sie in der Dropdownliste neben der **Schlüssel hinzufügen**-Schaltfläche eine Dauer von 1 oder 2Jahren aus.
 2.  Klicken Sie auf **Schlüssel hinzufügen**. 
-3.  Kopieren Sie und speichern Sie den Wert des geheimen Schlüssels. Sie benötigen diesen für die kostenlose 30-Tage-Testversion.
-<br>**Hinweis:**: Die geheimen Anwendungsschlüssel sind wie Kennwörter mit längeren Ablaufdaten. Speichern Sie die Schlüsselwerte für die zukünftige Verwendung an einem sicheren Ort.
+3.  Kopieren Sie und speichern Sie den Wert des geheimen Schlüssels. Sie benötigen diesen für die kostenlose 30-Tage-Testversion.<br>
+> [!NOTE]  
+> Die geheimen Anwendungsschlüssel sind wie Kennwörter mit längeren Ablaufdaten. Speichern Sie die Schlüsselwerte für die zukünftige Verwendung an einem sicheren Ort.
 
 ## <a name="next-steps"></a>Nächste Schritte
 Starten Sie mit einer [kostenlosen 30-Tage-Testversion](https://go.microsoft.com/fwlink/?linkid=857895).

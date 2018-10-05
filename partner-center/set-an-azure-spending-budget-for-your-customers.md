@@ -4,12 +4,12 @@ description: In Partner Center können Sie für jeden Kunden ein monatliches Bud
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: adea2e44dcde77ae8f6c020407cd65957fdfd5cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e7fd895c3c8e0acda51fb79ab142a7723ecb227
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875370"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377472"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Einrichten eines Kundenbudgets für Azure-Kosten
 
@@ -29,7 +29,8 @@ Um Kunden bei der Verwaltung der Azure-Kosten behilflich zu sein, können Sie ei
 
 Die Azure-Ausgaben sind nur ein Schätzwert, die aktuellen Abrechnungsbeträge können variieren, und der Betrag enthält keine Steuern, Gutschriften, Korrekturen oder andere Gebühren, die auftreten können. Die Ausgaben werden einmal pro Tag aktualisiert. Ihre Kunden können Azure-Dienste und -Ressourcen weiterhin nutzen und diese in Rechnung stellen, solange Sie die Kontoeinstellungen im Azure-Portal nicht ändern. 
 
->**Hinweis:**   Dieses Feature ist nicht in Sandbox oder bei TIP-Konten (Test in Production) verfügbar.
+> [!NOTE]  
+> Dieses Feature ist nicht in Sandbox oder Test in Production (TIP) Konten verfügbar.
 
 **Aktivieren von E-Mail-Benachrichtigungen**
 1.  Wählen Sie im Dashboardmenü **Azure-Ausgaben**.

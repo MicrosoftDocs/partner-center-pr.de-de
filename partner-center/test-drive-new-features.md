@@ -3,12 +3,12 @@ title: Testen von neuen Partner Center-Features
 description: Testen Sie die neuen Partner Center-Features vor der Freigabe, und teilen Sie uns Ihre Meinung mit. Helfen Sie bei der Gestaltung der Zukunft von Partner Center!
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 2860e3c2fbcce28030a8b5441b542db9e98cf119
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e07db213f755fe24e98bd6dbfde08d226b09c75f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876660"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377572"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Testen von neuen Partner Center-Features
 
@@ -22,7 +22,8 @@ Wir veröffentlichen laufend neue Features und Funktionen für das Partner Cente
 
 Wir freuen uns, Sie zum Testen neuer Features einzuladen, bevor sie in der weltweiten Partner Center-Community veröffentlicht werden, und uns Ihre Gedanken dazu mitzuteilen. Sehen Sie sich die Informationen zu neuen Features auf der [Partner Center-Ankündigungsseite](https://partnercenter.microsoft.com/pcv/announcements) an, damit Sie mit der Planung ihrer Nutzung zum Ausbau Ihres Unternehmens beginnen können. Beachten Sie, dass zu einem bestimmten Zeitpunkt mehrere Features zum Testen verfügbar sein können.
 
->**Wichtig**<br> Während der Vorschauphase zukünftiger Featureversionen arbeiten wir weiterhin an der Behebung von Fehlern und der Verbesserung der Featureleistung. Dies kann zu einer veränderten endgültigen Funktionsweise des Features führen. Vorschauversionen können unter anderem aus diesen Gründen ein unvorhersehbares Verhalten aufweisen, und Microsoft schließt jegliche Gewährleistung in Verbindung mit diesen Features aus.
+> [!IMPORTANT]  
+> Während der Vorschauphase zukünftiger Featureversionen arbeiten wir weiterhin an der Behebung von Fehlern und der Verbesserung der Featureleistung. Dies kann zu einer veränderten endgültigen Funktionsweise des Features führen. Vorschauversionen können unter anderem aus diesen Gründen ein unvorhersehbares Verhalten aufweisen, und Microsoft schließt jegliche Gewährleistung in Verbindung mit diesen Features aus.
 
 Für jedes neues Feature können Sie folgende Aktionen ausführen:
 
@@ -32,11 +33,13 @@ Für jedes neues Feature können Sie folgende Aktionen ausführen:
 
 -   Sie sehen unser Zieldatum für die Bereitstellung eines Features für die Vorschau und unser Zieldatum für die Veröffentlichung des Features in der weltweiten Partner Center-Community 
 
-    >**Hinweis**<br> Mit *Zieldatum für die Veröffentlichung* meinen wir das geplante Datum der Veröffentlichung des Features für alle weltweiten Partner Center-Benutzer. Jedoch können mehrere Faktoren das Veröffentlichungsdatum beeinflussen, einschließlich einer Entscheidung, Feedback zu integrieren, das das Feature verbessert. Wir können das Veröffentlichungsdatum verschieben oder keine kommerzielle Version des Features veröffentlichen.  
+    > [!NOTE]  
+>  Mit *Zieldatum für die Veröffentlichung* meinen wir das geplante Datum der Veröffentlichung des Features für alle weltweiten Partner Center-Benutzer. Jedoch können mehrere Faktoren das Veröffentlichungsdatum beeinflussen, einschließlich einer Entscheidung, Feedback zu integrieren, das das Feature verbessert. Wir können das Veröffentlichungsdatum verschieben oder keine kommerzielle Version des Features veröffentlichen.  
 
 -   Aktivieren Sie die Feature-Vorschau, indem Sie den Schiebregler auf **Ein** schieben.
 
->**Hinweis**<br> Nur globale Administratoren und Admin-Agents können Vorabversionen von Features aktivieren. Allerdings können alle Partner Center-Benutzer die Vorschaufeatures sehen und verwenden, wenn sie über die entsprechenden Berechtigungen verfügen.
+> [!NOTE]  
+>  Nur globale Administratoren und Admin-Agents können Vorabversionen von Features aktivieren. Allerdings können alle Partner Center-Benutzer die Vorschaufeatures sehen und verwenden, wenn sie über die entsprechenden Berechtigungen verfügen.
  
 ## <a name="tell-us-what-you-think"></a>Teilen Sie uns Ihre Meinung mit.
 

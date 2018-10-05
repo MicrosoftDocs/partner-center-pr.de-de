@@ -3,12 +3,12 @@ title: PartnerCenter-Konto erstellen | Partner Center
 description: Mitglieder im Microsoft Partner Network müssen ein Partner Center-Konto erstellen, um ihre Netzwerkvorteile und Kompetenzen verwalten und ein Unternehmensprofil erstellen zu können.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 5687b933923da3e554924e14cfd0dca88a64243e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dff860f75ef36cdb59c3cae8382c56f834da0ff
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876780"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377772"
 ---
 # <a name="create-a-partner-center-account"></a>Erstellen eines Partner Center-Kontos
 
@@ -60,7 +60,8 @@ Wir werden diese Informationen während des Kontoerstellungsprozesses überprüf
 
     Der Hauptansprechpartner muss eine Person in Ihrer Organisation sein, die wir im Zusammenhang mit Ihrer Bewerbung kontaktieren können (entweder Sie selbst oder eine andere Person in Ihrer Organisation). Wir werden diese Informationen auch verwenden, um sicherzustellen, dass diese Person in Ihrer Organisation arbeitet und sich für ein Partner Center-Konto registriert hat.
 
-    >**Wichtig**<br> Aus Sicherheits- und Datenschutzgründen kontaktieren wir Ihren Hauptansprechpartner per E-Mail, um uns zu vergewissern, dass (1) er/sie sich für ein Partner Center-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrer Organisation gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung Ihrer Angaben fort.
+    > [!IMPORTANT]  
+    > Aus Sicherheits- und Datenschutzgründen kontaktieren wir Ihren Hauptansprechpartner per E-Mail, um uns zu vergewissern, dass (1) er/sie sich für ein Partner Center-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrer Organisation gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung Ihrer Angaben fort.
 
 4.  Lesen und akzeptieren Sie die Bestimmungen der Microsoft Partner Network-Vereinbarung. 
 

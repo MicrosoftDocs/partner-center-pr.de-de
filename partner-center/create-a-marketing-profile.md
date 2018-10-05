@@ -5,12 +5,12 @@ ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: Pinpoint, Empfehlungen, Vertriebskontakte, C2PC, Unternehmensprofil, Unternehmen vermarkten, Partner finden, Lösungsanbieter finden, Unternehmensprofil, Marketingprofil
 ms.localizationpriority: medium
-ms.openlocfilehash: 1a53d9b1dd663b63193295068e6692645247cf0e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 61a38d6d0f4f56a980bf6bb8ef44be5f6ee6cd46
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877625"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377622"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -39,20 +39,21 @@ Erstellen Sie zunächst ein Unternehmensprofil, um von diesen Leads zu profitier
 
 *  **Empfehlungen von Vertriebs- und Servicemitarbeitern von Microsoft**. Potenzielle Kunden, die an der Bereitstellung cloudbasierter Technologielösungen interessiert sind, kontaktieren Microsoft, um Hilfe bei der Suche von Experten zu erhalten, die ihre geschäftlichen Anforderungen erfüllen können. Diese Microsoft-Experten können dann potenzielle Kunden für Ihr Unternehmen empfehlen.
 
->**Wichtig**<br>
-Um unseren Partnern zu helfen, ihre Geschäftsabläufe zu optimieren, fassen wir Features und Funktionen, die früher auf verschiedene Tools und Websites im Partner-Dashboard verteilt waren, auf dieser Website zusammen. Gleichzeitig haben wir alle auf Empfehlungen bezogene Funktionen ins Partner-Dashboard verschoben und die Sites Pinpoint und C2PC eingestellt. Wenn Sie bisher Pinpoint oder C2PC verwendet haben, um Empfehlungen von Microsoft zu erhalten und zu verwalten, müssen Sie ein neues Unternehmensprofil im Partner-Dashboard erstellen, um weiterhin Empfehlungen zu erhalten. Das Importieren von Profilen von diesen Sites wird nicht mehr unterstützt. 
+> [!IMPORTANT]  
+> Um unseren Partnern zu helfen, ihre Geschäftsabläufe zu optimieren, fassen wir Features und Funktionen, die früher auf verschiedene Tools und Websites im Partner-Dashboard verteilt waren, auf dieser Website zusammen. Gleichzeitig haben wir alle auf Empfehlungen bezogene Funktionen ins Partner-Dashboard verschoben und die Sites Pinpoint und C2PC eingestellt. Wenn Sie bisher Pinpoint oder C2PC verwendet haben, um Empfehlungen von Microsoft zu erhalten und zu verwalten, müssen Sie ein neues Unternehmensprofil im Partner-Dashboard erstellen, um weiterhin Empfehlungen zu erhalten. Das Importieren von Profilen von diesen Sites wird nicht mehr unterstützt. 
 
 ## <a name="create-a-profile"></a>Erstellen eines Profils
 
->**Hinweis:** Um ein Unternehmensprofil erstellen zu können, benötigen Sie ein Partner-Dashboard-Konto. Unter [Erstellen eines Partner-Dashboard-Kontos](mpn-create-a-partner-center-account.md) finden Sie eine entsprechende Anleitung. 
+> [!NOTE]  
+>  Bevor Sie ein Unternehmensprofil erstellen können, müssen Sie ein Partner-Dashboard-Konto haben. Unter [Erstellen eines Partner-Dashboard-Kontos](mpn-create-a-partner-center-account.md) finden Sie eine entsprechende Anleitung. 
 
 Erstellen Sie Profile für jede Region, in der Sie berechtigt sind, Geschäfte zu tätigen. 
 
 1.  Wählen Sie im Menü **Dashboard** die Optionen **Empfehlungen** &gt; **Unternehmensprofil** &gt; Land/Region auswählen > **[Unternehmensprofil erstellen](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 2.  Wählen Sie auf der Seite **Erstellen eines Unternehmensprofils** eine Region aus, und geben Sie Ihre Profilinformationen ein.
-    
-    >**Hinweis:** Partner-Dashboard unterstützt zwar mehrere Sprachen, einige Elemente wie die Beschreibung und frei formulierte Tags müssen jedoch vielleicht Text aus anderen Sprachen beinhalten, wie in diesem Thema angegeben.
+    > [!NOTE]  
+    >  Während das Partner-Dashboard mehrere Sprachen unterstützt, eventuell einige Elemente, z. B. die Beschreibung und frei formulierte Tags müssen Text aus anderen Sprachen beinhalten, wie in diesem Thema beschrieben.
 
 ### <a href="" id="partner_info"></a>Partnerinformationen
 

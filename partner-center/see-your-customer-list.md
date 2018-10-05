@@ -4,12 +4,12 @@ description: Kundendatensätze gehören zu den wichtigsten Informationsressource
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8242a5b00af5517aa9b480077201b32bae7b251e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8eeaff75547426440a0a303423cf62444362035a
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876820"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377462"
 ---
 # <a name="manage-your-customer-list"></a>Verwalten der Kundenliste
 
@@ -65,8 +65,8 @@ Wählen Sie im Menü **Dashboard** die Option **Kunden** aus.
     -   **Status**;
     -   **Händler**–die ID des Händlers, der das Abonnement besitzt und verwaltet.
 
->**Hinweis**<br>
-Weitere Informationen zur Abonnementverwaltung finden Sie unter [Kundenabonnements](customer-subscriptions.md).
+> [!NOTE]  
+> Weitere Informationen zur Abonnementverwaltung finden Sie unter [Kundenabonnements](customer-subscriptions.md).
 
      
 

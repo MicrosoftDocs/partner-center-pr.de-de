@@ -5,12 +5,12 @@ author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ebc5490d724b49836b0051802038c4ba4c86e20
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f559d6c670a289c46d1e990a55113152ec83d37b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876080"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377492"
 ---
 # <a name="your-company-work-account-and-the-partner-dashboard"></a>Unternehmenskonto Ihrer Firma und des Partner-Dashboards  
 
@@ -24,7 +24,8 @@ Wir müssen das Geschäftskonto Ihres Unternehmens mit Ihrem neuen Partner-Dashb
 
 Wenn Ihr Unternehmen bereits ein Geschäftskonto besitzt, können Sie es mit Ihrem Partner-Dashboard-Konto verknüpfen. 
 
->**Hinweis** Bevor Sie sich entschließen, ein vorhandenes Geschäftskonto zu verwenden, bedenken Sie, wie viele Benutzer des Kontos mit dem Partner-Dashboard arbeiten müssen. Wenn das Konto Benutzer enthält, die nicht im Partner-Dashboard arbeiten müssen, ziehen Sie die Erstellung eines neuen Kontos nur für diese Benutzer in Betracht.
+> [!NOTE]  
+>  Bevor Sie sich entschließen, ein vorhandenes Geschäftskonto zu verwenden, Bedenken Sie, wie viele Benutzer im Konto im Partner-Dashboard arbeiten müssen. Wenn das Konto Benutzer enthält, die nicht im Partner-Dashboard arbeiten müssen, ziehen Sie die Erstellung eines neuen Kontos nur für diese Benutzer in Betracht.
 
 Falls Ihr Unternehmen noch nicht über ein Geschäftskonto verfügt, können Sie ein solches während des Registrierungsprozesses erstellen. 
 

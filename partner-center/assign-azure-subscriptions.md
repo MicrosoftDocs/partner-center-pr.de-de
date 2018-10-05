@@ -4,12 +4,12 @@ description: Sie können Ihren Kunden im Partner Center jetzt Azure-Abonnements 
 author: Labrenne
 keywords: Azure, Abonnement für Azure, Abonnement, Abonnements, Abonnement zuweisen, Abonnement für Azure verwalten
 ms.localizationpriority: medium
-ms.openlocfilehash: cc847b9a0cab253c911141c26c4ab457ad0d98cc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: cb683e97d5983b3bb8693efb93b91c0569ab0513
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875010"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377562"
 ---
 # <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>Zuweisen von Azure-Abonnements im Partner-Dashboard
 
@@ -37,7 +37,8 @@ Nachdem Sie ein Microsoft Azure-Abonnement für einen Kunden erstellt haben, kö
 
 1.  Um das Azure-Portal des Kunden zu öffnen, erweitern Sie entweder den Kundeneintrag oder wählen Sie den Namen und anschließend das **Microsoft Azure-Verwaltungsportal** aus.
     
- >**Hinweis:** <br> Wenn Sie aufgefordert werden, Sie sich beim Azure-Portal anzumelden, fehlen Ihnen wahrscheinlich die übertragenen Administratorrechte. Wählen Sie **Partnerschaft beantragen** aus, um den Kunden aufzufordern, Sie als registrierten Abonnementberater zu identifizieren. Nachdem der Kunde die Aufforderung annimmt, werden Ihnen automatisch delegierte Administratorrechte gewährt. 
+> [!NOTE]  
+> Wenn Sie aufgefordert werden, Sie sich beim Azure-Portal anzumelden, fehlen Ihnen wahrscheinlich die übertragenen Administratorrechte. Wählen Sie **Partnerschaft beantragen** aus, um den Kunden aufzufordern, Sie als registrierten Abonnementberater zu identifizieren. Nachdem der Kunde die Aufforderung annimmt, werden Ihnen automatisch delegierte Administratorrechte gewährt. 
 
 2.  Öffnen Sie im Azure-Portal die Abonnementliste des Kunden und wählen Sie das Azure-Abonnement des Kunden aus.
 

@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: 402920613cb5b45608f9099d250d79809a8d9f5a
-ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
+ms.openlocfilehash: 038c8b200e7f2bb5731297b8ad8c51986bdfdc44
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "3405432"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377602"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen
 
@@ -29,22 +29,23 @@ Erstellen von Benutzerkonten für Mitarbeiter, die Zugriff auf das Dashboard ben
 
 3.  Geben Sie den vollständigen Namen und die eindeutige E-Mail-Adresse des Benutzers ein.
 
-4.  Wählen Sie den Agent- bzw. Administratortyp, den Sie dem Benutzer zuweisen möchten. Partner-Dashboard-Zugriff ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt.  Wenn Benutzer ein rollenzuweisung möchten, finden sie Konten-Admins, indem Sie **benutzerverwaltung** und Filterung auf Konto Administrator zu kontaktieren
+4.  Wählen Sie den Agent- bzw. Administratortyp, den Sie dem Benutzer zuweisen möchten. Partner-Dashboard-Zugriff ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt.  Wenn Benutzer ein rollenzuweisung möchten, finden sie Konten-Admins zu kontaktieren, indem Sie **benutzerverwaltung** und Filterung auf Konto-Administrator.
 
 5.  Wählen Sie **Hinzufügen**, um das Benutzerkonto zu erstellen. Bestätigen Sie die Details des Benutzers auf der nächsten Seite.
 
->**Wichtig**<br>
-Notieren Sie sich die Anmeldeinformationen des neuen Benutzers, die auf dieser Seite angezeigt werden. Achten Sie darauf, diese Informationen zu kopieren und an den neuen Benutzer zu senden, da Sie später nicht erneut darauf zugreifen können. 
+> [!IMPORTANT]  
+> Notieren Sie sich die Anmeldeinformationen des neuen Benutzers, die auf dieser Seite angezeigt werden. Achten Sie darauf, diese Informationen zu kopieren und an den neuen Benutzer zu senden, da Sie später nicht erneut darauf zugreifen können. 
 
 Der Benutzer muss sich bei Partner-Dashboard mit seinem Benutzernamen und einem temporären Kennwort anmelden. Wenn sich der Benutzer zum ersten Mal bei Partner-Dashboard anmeldet, wird er aufgefordert, sein Kennwort zu ändern. 
 
->**Hinweis**<br> Wenn der globale Administrator Ihr Unternehmen verlassen oder intern die Stelle gewechselt hat und Sie einen neuen globalen Administrator hinzufügen müssen, müssen Sie eine Serviceanfrage auf dem [MPN-Portal](https://partner.microsoft.com/support) stellen. Der Support-Mitarbeiter kann eine Heraufstufung eines Benutzers zum globalen Administrator anfordern, wenn der Antragsteller die benötigten persönlichen Informationen sowie zusätzliche Informationen zu Ihrem Unternehmen bereitstellen kann.
+> [!NOTE]  
+>  Wenn der globale Administrator Ihr Unternehmen verlassen oder intern die Stelle gewechselt hat und Sie einen neuen globalen Administrator hinzufügen müssen, müssen Sie eine Serviceanfrage auf dem [MPN-Portal](https://partner.microsoft.com/support) stellen. Der Support-Mitarbeiter kann eine Heraufstufung eines Benutzers zum globalen Administrator anfordern, wenn der Antragsteller die benötigten persönlichen Informationen sowie zusätzliche Informationen zu Ihrem Unternehmen bereitstellen kann.
 
 ## <a name="assign-user-permissions"></a>Zuweisen von Benutzerberechtigungen
 
 Der Zugriff auf Partner-Dashboard ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt. 
 
-Wenn im Dashboard arbeiten möchten, müssen Sie zugewiesene Rolle verfügen.  Es gibt zwei allgemeine Arten von Rollen: Administratoren und Agents.
+Wenn im Dashboard arbeiten möchten, müssen Sie die zugewiesene Rolle verfügen.  Es gibt zwei allgemeine Arten von Rollen: Administratoren und Agents.
 
 - Administratorberechtigungen steuern die Ebene des Zugriffs, über den der Benutzer für Partner-Dashboard-Funktionen verfügt. Diese Einstellung hat auch Auswirkungen außerhalb von Partner-Dashboard: Ein Abrechnungsadministrator kann auf alle Rechnungen für alle Microsoft-Dienste zugreifen (auch auf solche, die sich nicht auf CSP beziehen), und ein globaler Administrator hat ebenfalls über CSP hinausgehenden Zugriff auf Benutzerkonten und Kundenkonten.
 
@@ -65,8 +66,8 @@ Innerhalb jeder dieser allgemeinen Kategorien kann ein Benutzer nur eine Rolle b
 
 ### <a name="find-your-global-admin"></a>Suchen Sie des globalen Administrators
 
-In einigen Fällen muss ein Benutzer möglicherweise ihre Rolle geändert haben, oder ein neuer Benutzer möglicherweise eine bestimmte rollenzuweisung möchten.  
-Wenn einen globalen Administrator suchen, der Änderungen an der Rolle oder Zuweisung von Rollen an einen neuen Benutzer über das **Symbol "Einstellungen"** oben rechts in der das Dashboard vornehmen können, wählen Sie **benutzerverwaltung** und Filter auf globalen Administrator. 
+In einigen Fällen müssen ein Benutzer möglicherweise ihre Rolle geändert haben, oder ein neuer Benutzer eine bestimmte Rolle Zuordnung möchten.  
+Wenn einen globalen Administrator suchen, der Änderungen an der Rolle oder Zuweisung von Rollen an einen neuen Benutzer, über das **Symbol "Einstellungen"** oben rechts in der das Dashboard vornehmen können, wählen Sie **benutzerverwaltung** und Filter auf globalen Administrator. 
 
 Spezifische Informationen zu den Rollen und was den jeweiligen Rollen haben finden Sie unter [Zuweisen von Benutzerberechtigungen](permissions-overview.md).
 

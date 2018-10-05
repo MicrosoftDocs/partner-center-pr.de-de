@@ -5,12 +5,12 @@ ms.prod: ''
 author: MaggiePucciEvans
 keywords: Indirekte Wiederverkäufer, Händler, indirekten Anbieter, Anbieter, Partnerschaft, VAR, Ebene2, Ebene 2
 ms.localizationpriority: medium
-ms.openlocfilehash: 2f148d04b9e65624332bba8a2e687209856aa676
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 9d2c9953244eda43be5af02f5324087df571047a
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877210"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377752"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Anbietern im Programm für Cloud Solution Provider
 
@@ -32,7 +32,8 @@ Weitere Informationen zu den Anforderungen für den Vertrieb im CSP-Programm als
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>Registrieren als neuer indirekter Vertriebspartner beim Programm für Cloud-Lösungsanbieter
 
->**Hinweis:** Wenn Sie bereits in CSP registriert sind, müssen Sie möglicherweise nur Kontaktinformationen für den Kundensupport angeben, um ein Vertriebspartnerkonto im Partner-Dashboard zu erstellen. 
+> [!NOTE]  
+> Wenn Sie bereits in CSP registriert sind, müssen Sie möglicherweise nur Kundensupport angeben Kontaktinformationen, um ein vertriebspartnerkonto im Partner-Dashboard zu erstellen. 
 
 ### <a name="before-you-begin"></a>Vorbemerkungen
 
@@ -69,14 +70,14 @@ Beachten Sie, dass die Überprüfung Ihrer Angaben mehrere Tage dauern kann. Wir
 7.  Wählen Sie das Organisationsprofil mit der MPN-ID aus, die mit Ihren Anreizen, Mitgliedsvorteilen und Kompetenzen verknüpft ist, damit wir diese Informationen auf Ihr Partner-Dashboard-Konto übertragen können. Wählen Sie **Weiter** aus.
 
     Wenn die MPN-ID, die Sie verwenden möchten, auf dieser Seite nicht aufgeführt wird, wählen Sie **Abbrechen** aus, und melden Sie sich mit dem Benutzernamen und Kennwort für das gewünschte Organisationsprofil an. 
-
-    >**Wichtig:** Wählen Sie die MPN-ID aus, die mit einem aktiven Organisationsprofil verknüpft ist, das sich im gleichen Land/in der gleichen Region befindet wie Ihr Azure AD-Mandant.
+    > [!IMPORTANT]  
+    > Wählen Sie die MPN-ID, die mit einem aktiven Organisationsprofil, die in der gleichen Land/Region als Ihre Azure AD-Mandanten befindet verknüpft ist.
 
 8.  Geben Sie das offizielle Geschäftsprofil, Informationen zum Hauptansprechpartner und Kundensupportinformationen Ihrer Organisation an, oder aktualisieren Sie sie. Wählen Sie **Jetzt anmelden** aus.
 
     Der Hauptansprechpartner muss eine Person in Ihrer Organisation sein, die wir im Zusammenhang mit Ihrer Bewerbung kontaktieren können (entweder Sie selbst oder eine andere Person in Ihrer Organisation). Beachten Sie, dass wir keine E-Mail-Adressen von webbasierten E-Mail-Diensten wie Gmail, Yahoo!, Mail, iCloud Mail, AOL Mail oder Outlook-Mail akzeptieren. 
-
-    >**Wichtig:** Aus Sicherheits- und Datenschutzgründen kontaktieren wir Ihren Hauptansprechpartner per E-Mail, um uns zu vergewissern, dass er/sie (1) sich für ein Partner-Dashboard-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrer Organisation gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung Ihrer Angaben fort. Wir halten den Hauptansprechpartner per E-Mail über den Status der Registrierung auf dem Laufenden.
+    > [!IMPORTANT]  
+    > Um Sicherheit und Datenschutz Ihres Unternehmens zu gewährleisten, kontaktieren wir Ihren Hauptansprechpartner, um sicherzustellen, dass (1) er sich für ein Partner-Dashboard-Konto angemeldet, und (2) die e-Mail-Adresse zu Ihrer Organisation gehört e-Mail. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung Ihrer Angaben fort. Wir halten den Hauptansprechpartner per E-Mail über den Status der Registrierung auf dem Laufenden.
 
 9.  Wenn Ihr Partner-Dashboard-Konto verwendungsbereit ist, vergewissern Sie sich, dass Sie der Administratorgruppe hinzugefügt wurden. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
 
@@ -97,8 +98,8 @@ Beachten Sie, dass die Überprüfung Ihrer Angaben mehrere Tage dauern kann. Wir
 5. Wählen Sie **Hinzufügen**, um das Benutzerkonto zu erstellen. Bestätigen Sie die Details des Benutzers auf der nächsten Seite.
 
 
->**Wichtig**<br>
-Notieren Sie sich die Anmeldeinformationen des neuen Benutzers, die auf dieser Seite angezeigt werden. Achten Sie darauf, diese Informationen zu kopieren und an den neuen Benutzer zu senden, da Sie später nicht erneut darauf zugreifen können. <br>
+> [!IMPORTANT]  
+> Notieren Sie sich die Anmeldeinformationen des neuen Benutzers, die auf dieser Seite angezeigt werden. Achten Sie darauf, diese Informationen zu kopieren und an den neuen Benutzer zu senden, da Sie später nicht erneut darauf zugreifen können. <br>
 
 >Der Benutzer muss sich bei Partner-Dashboard mit seinem Benutzernamen und einem temporären Kennwort anmelden. Wenn sich der Benutzer zum ersten Mal bei Partner-Dashboard anmeldet, wird er aufgefordert, sein Kennwort zu ändern.        
 
@@ -121,15 +122,16 @@ Wenn ein indirekter Anbieter im Partner-Dashboard mit Ihnen zusammenarbeiten mö
 
 3.  Um die Zusammenarbeit mit dem Anbieter zu bestätigen, aktivieren Sie das Kontrollkästchen, und wählen Sie dann **Authorize indirect provider** aus. Der Anbieter wird nun bei Ihnen auf der Seite **Indirect providers** aufgeführt, und Ihr Unternehmen erscheint auf der Seite **Indirect resellers** des Anbieters.
 
-    >**Hinweis:** Wenn Sie eine Zusammenarbeit mit einem indirekten Anbieter einrichten, gestatten Sie ihm dadurch, im Namen Ihrer Kunden Aufträge zu übermitteln und Abonnements hinzuzufügen. Außerdem gewähren Sie ihm Administratorzugriff auf das Geschäftskonto Ihres Unternehmens. Nachdem Ihre Partnerschaft mit dem Anbieter eingerichtet wurde, können Sie den Administratorzugriff des Anbieters auf das Geschäftskonto im Office365-Portal entfernen. 
+    > [!NOTE]  
+    > Wenn Sie eine Partnerschaft mit einem indirekten Anbieter einrichten, Administratorzugriff diese Aufträge zu übermitteln und Abonnements im Auftrag Ihrer Kunden hinzufügen, und Sie sind ihnen Administratorzugriff auf das Geschäftskonto Ihres Unternehmens gewähren. Nachdem Ihre Partnerschaft mit dem Anbieter eingerichtet wurde, können Sie den Administratorzugriff des Anbieters auf das Geschäftskonto im Office365-Portal entfernen. 
 
 4.  Wählen Sie im Menü **Dashboard** die Option **Indirect providers** aus, um eine Liste mit den Anbietern anzuzeigen, mit denen Sie zusammenarbeiten. 
 
 5.  Wählen Sie **Kunden anzeigen** aus, um eine Liste mit den Kunden anzuzeigen, die Sie sich mit dem Anbieter teilen.
 
 6.  Wählen Sie **Invite new customers** aus, um einen neuen Kunden zu bitten, Vertriebspartnerschaften mit Ihnen und Ihrem indirekten Anbieter zu autorisieren. Halten Sie die E-Mail-Adresse des Kunden bereit, um die Einladung per E-Mail senden zu können.  
-
-    >**Wichtig:** Ihr indirekter Anbieter muss eine Vertriebspartnerschaft mit Ihren Kunden haben, um in ihrem Namen Aufträge übermitteln zu können. 
+    > [!IMPORTANT]  
+    > Ihr indirekte Anbieter muss eine vertriebspartnerschaft mit Ihren Kunden Aufträge im Namen übermitteln verfügen. 
  
 ## <a name="connect-with-customers"></a>Interagieren mit Kunden
 

@@ -4,12 +4,12 @@ description: Wenn Benutzer ihr Kennwort vergessen, können Sie ihnen ein neues t
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: d8b69ed976b8ee24edc9060a7d0d5fd252ea02bd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 02c45caba9b1a3c5452626d728359eaa300f93b8
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876840"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377422"
 ---
 # <a name="reset-a-user-password"></a>Zurücksetzen von Benutzerkennwörtern
 
@@ -17,7 +17,8 @@ ms.locfileid: "2876840"
 
 -  Partner Center
    
->**Hinweis:** Wenn Sie als Cloud-Lösungsanbieter (CSP) für das Microsoft-Cloud Deutschland-Programm registriert sind, finden Sie unter [Benutzerverwaltung im Partner Center für Microsoft-Cloud Deutschland](user-management-in-partner-center-for-microsoft-cloud-germany.md) Informationen zum Zurücksetzen des Kennworts eines Benutzers.
+> [!NOTE]  
+>  Wenn Sie Microsoft-Cloud Deutschland-Programm (Cloud Solution Provider, CSP) registriert sind, finden Sie Informationen zum Zurücksetzen eines Benutzerkennworts [benutzerverwaltung im Partner Center für Microsoft Cloud Deutschland](user-management-in-partner-center-for-microsoft-cloud-germany.md) .
 
 Wenn Benutzer ihr Kennwort vergessen, weisen Sie ihnen ein neues temporäres Kennwort zu. Sie können es für die nächste Anmeldung beim Partner Center verwenden.
 

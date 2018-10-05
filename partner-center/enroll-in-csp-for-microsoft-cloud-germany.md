@@ -3,12 +3,12 @@ title: Registrieren für das Cloud-Lösungsanbieter-Programm für Microsoft-Clou
 description: Lesen Sie mehr über die CSP-Programmanforderungen, bevor Sie sich für das Microsoft Cloud Deutschland-Programm registrieren.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: de500792bc0af3d7e8dac82daef28e16777a27b1
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: db996ad4fdfda05f190abdfe2028d5c8b023e40b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877500"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377652"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Registrieren für das Microsoft Cloud-Lösungsanbieter-Programm für Microsoft-Cloud Deutschland
 
@@ -24,8 +24,8 @@ Weitere Informationen finden Sie unter [Partner Center für Microsoft-Cloud Deut
 
 Wenn Sie im Partner Center über ein vorhandenes Konto verfügen und Sie bei CSP für Microsoft-Cloud Deutschland anmelden möchten, müssen Sie ein neues, separates Konto für Partner Center für Microsoft-Cloud Deutschland erstellen.
 
->**Wichtig**<br>
-Wenn Sie bereits im CSP-Programm registriert sind und Sie an Kunden und Partner in den Microsoft-Cloud Deutschland Ländern/Regionen verkaufen möchten, müssen Sie ein neues Partner Center-Konto für diesen bestimmten Markt erstellen.  
+> [!IMPORTANT]  
+> Wenn Sie bereits im CSP-Programm registriert sind und Sie an Kunden und Partner in den Microsoft-Cloud Deutschland Ländern/Regionen verkaufen möchten, müssen Sie ein neues Partner Center-Konto für diesen bestimmten Markt erstellen.  
 
 Um für CSP für Microsoft-Cloud Deutschland ein Partner Center-Konto zu erstellen und zu registrieren, müssen Sie folgende Informationen angeben (Sie sollten diese Informationen vor dem Registrierungsprozess einholen):
 
@@ -56,8 +56,8 @@ Um für CSP für Microsoft-Cloud Deutschland ein Partner Center-Konto zu erstell
 
 2.  Wählen Sie **Zustimmen und fortfahren** aus. Das Überprüfen Ihrer Bewerbung kann mehrere Tage dauern. Wir werden Sie per E-Mail informieren, wenn unsere Überprüfung abgeschlossen ist.
 
-    >**Wichtig**<br>
-    Durch die Auswahl von **Zustimmen und fortfahren** bestätigen Sie, dass Sie berechtigt sind, im Namen Ihres Unternehmens zu handeln und Sie Microsoft erlauben vor dem Durchlesen der Microsoft Cloud-Lösungsanbieter-Bewerbung Ihres Unternehmens eine Bonitätsprüfung auszuführen.
+> [!IMPORTANT]  
+> Durch die Auswahl von **Zustimmen und fortfahren** bestätigen Sie, dass Sie berechtigt sind, im Namen Ihres Unternehmens zu handeln und Sie Microsoft erlauben vor dem Durchlesen der Microsoft Cloud-Lösungsanbieter-Bewerbung Ihres Unternehmens eine Bonitätsprüfung auszuführen.
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-germany"></a>Schritt3 – Unterschreiben Sie den Händlervertrag für Microsoft-Cloud Deutschland 
 
@@ -69,8 +69,8 @@ Um für CSP für Microsoft-Cloud Deutschland ein Partner Center-Konto zu erstell
 
 Microsoft Cloud Deutschland bietet eine separate Instanz von Microsoft Azure, bereitgestellt in deutschen Rechenzentren mit einem dedizierten Netzwerk, das in Deutschland operiert. Um Administratoren das Verwalten von Benutzern und Lizenzen im Azure-Portal für Deutschland zu ermöglichen, müssen Sie die Administrator-Agent-Rolle manuell zuweisen.
 
->**Hinweis**<br>
-Nachdem Sie Benutzern die Administrator-Agent-Rolle zuweisen, wird das Menü **Kunden** in Ihrem Dashboard angezeigt, und Sie können auf die Kundenliste zugreifen und [neue Kunden hinzufügen](add-a-new-customer.md).   
+> [!NOTE]  
+> Nachdem Sie Benutzern die Administrator-Agent-Rolle zuweisen, wird das Menü **Kunden** in Ihrem Dashboard angezeigt, und Sie können auf die Kundenliste zugreifen und [neue Kunden hinzufügen](add-a-new-customer.md).   
 
 1.  Melden Sie sich auf das Portal Azure Deutschland unter https://portal.microsoftazure.de/.
 

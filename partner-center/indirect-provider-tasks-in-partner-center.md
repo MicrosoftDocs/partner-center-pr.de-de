@@ -3,12 +3,12 @@ title: Zusammenarbeiten mit indirekten Vertriebspartnern in CSP | Partner Center
 description: Als indirekter Anbieter (oder Distributor) können Sie mit indirekten Vertriebspartnern zusammenarbeiten, um Ihre Reichweite zu erhöhen.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 3564c7119ea2149703bcb5a6f7f1bb0d5f09d69b
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: f5c5a745ba3ea8f57353529a90d09ee4fae17ccd
+ms.sourcegitcommit: 4175a0670df8c52ae5214fd0672c3fe33071210b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377762"
+ms.lasthandoff: 10/08/2018
+ms.locfileid: "4445462"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Zusammenarbeiten mit indirekten Vertriebspartnern im Programm für Cloud Solution Provider
 
@@ -33,7 +33,7 @@ Führen Sie zum Einrichten und Verwalten Ihrer Partnerschaft mit indirekten Vert
 
 1.  Überprüfen Sie Ihr Unternehmensprofil in [der offizielle Liste der indirekten Anbieter von Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider). 
 
-    -   Zum Ändern Ihres Profils als indirekter Anbieter-senden Sie eine Partner-Dashboard-Supportanfrage mit Ihrem Firmennamen, dem Logo und der Ziel-URL für jeden Standort. Wir werden Ihr Profil innerhalb von zwei bis drei Wochen aktualisieren.<br>
+    -   Zum Ändern Ihres Profils als indirekter Anbieter, wenden Sie sich an Ihren Microsoft-Vertreter.<br>
 
 2.  Vernetzen mit indirekten Vertriebspartnern
 

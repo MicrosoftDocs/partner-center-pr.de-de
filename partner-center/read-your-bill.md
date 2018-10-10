@@ -1,37 +1,37 @@
 ---
 title: Informationen zu Ihrer Rechnung | Partner Center
-description: Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar. Sie steht über das Partner Center-Dashboard zur Verfügung.
+description: Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar. Es ist im Partner Center verfügbar.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: Abonnementabrechnungen, Abrechnung, Abrechnung im Partner Center, Partner Center-Abrechnung, meine Rechnung lesen, Rechnung, Rechnung für Partner Center, CSP-Abrechnung, wo ist meine Rechnung?
 ms.localizationpriority: medium
-ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 81262c11ab402dcd1748f9f8fde5cdeceac0f4f9
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377542"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489406"
 ---
-# <a name="read-your-bill"></a><span data-ttu-id="cd602-105">Informationen zu Ihrer Rechnung</span><span class="sxs-lookup"><span data-stu-id="cd602-105">Read your bill</span></span>
+# <a name="read-your-bill"></a><span data-ttu-id="a0fb7-105">Informationen zu Ihrer Rechnung</span><span class="sxs-lookup"><span data-stu-id="a0fb7-105">Read your bill</span></span>
 
-**<span data-ttu-id="cd602-106">Betrifft</span><span class="sxs-lookup"><span data-stu-id="cd602-106">Applies to</span></span>**
+**<span data-ttu-id="a0fb7-106">Betrifft</span><span class="sxs-lookup"><span data-stu-id="a0fb7-106">Applies to</span></span>**
 
--  <span data-ttu-id="cd602-107">Partner Center</span><span class="sxs-lookup"><span data-stu-id="cd602-107">Partner Center</span></span>
--  <span data-ttu-id="cd602-108">Partner Center für Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="cd602-108">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="cd602-109">Partner Center für Microsoft Cloud Deutschland</span><span class="sxs-lookup"><span data-stu-id="cd602-109">Partner Center for Microsoft Cloud Germany</span></span>
+-  <span data-ttu-id="a0fb7-107">Partner Center</span><span class="sxs-lookup"><span data-stu-id="a0fb7-107">Partner Center</span></span>
+-  <span data-ttu-id="a0fb7-108">Partner Center für Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="a0fb7-108">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="a0fb7-109">Partner Center für Microsoft Cloud Deutschland</span><span class="sxs-lookup"><span data-stu-id="a0fb7-109">Partner Center for Microsoft Cloud Germany</span></span>
 
-<span data-ttu-id="cd602-110">Die Abrechnung befindet sich im Menü **Dashboard** unter **Abrechnung**. Dort können Sie Ihren Abrechnungsverlauf und -trend, Links zu Ihrer Rechnung und zu den Abstimmungsdateien sowie Ihre letzte Zahlung anzeigen.</span><span class="sxs-lookup"><span data-stu-id="cd602-110">For your bill, go to the **Dashboard** menu and then select **Billing** to see your billing history and trends, links to your invoice and reconciliation file, and your most recent payment.</span></span>
+<span data-ttu-id="a0fb7-110">Ihre Rechnung wechseln Sie zum Menü " **Partner Center** ", und wählen Sie dann, **Abrechnung** , um Ihren Abrechnungsverlauf und -Trend, Links zu Ihrer Rechnung und abstimmungsdatei sowie Ihre letzte Zahlung anzeigen anzuzeigen.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-110">For your bill, go to the **Partner Center** menu and then select **Billing** to see your billing history and trends, links to your invoice and reconciliation file, and your most recent payment.</span></span>
 
-<span data-ttu-id="cd602-111">Partner im Cloud Solution Provider-Programm mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte und die nutzungsbasierte Abonnements).</span><span class="sxs-lookup"><span data-stu-id="cd602-111">Partners in the Cloud Solution Provider program who have chosen to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based).</span></span>
+<span data-ttu-id="a0fb7-111">Partner im Cloud Solution Provider-Programm mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte und die nutzungsbasierte Abonnements).</span><span class="sxs-lookup"><span data-stu-id="a0fb7-111">Partners in the Cloud Solution Provider program who have chosen to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based).</span></span>
 
 > [!NOTE]  
-> <span data-ttu-id="cd602-112">Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und Kundenübergreifend) für den aktuellen Monatszeitraum dar und ist innerhalb von vier (4) Tagen nach Ablauf des ausgewählten Abrechnungsdatums verfügbar.</span><span class="sxs-lookup"><span data-stu-id="cd602-112">Your invoice is a summary of all charges -- across the program, products, and customers -- for the current billing period and is available within four (4) days of your selected billing date.</span></span>
+> <span data-ttu-id="a0fb7-112">Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und Kundenübergreifend) für den aktuellen Monatszeitraum dar und ist innerhalb von vier (4) Tagen nach Ablauf des ausgewählten Abrechnungsdatums verfügbar.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-112">Your invoice is a summary of all charges -- across the program, products, and customers -- for the current billing period and is available within four (4) days of your selected billing date.</span></span>
 
-<span data-ttu-id="cd602-113">Sie erhalten eine Rechnung für lizenzbasierte (Office 365) und Gebühren für nutzungsbasierte (Azure) und eine separate Rechnung für einmalige (Azure reserved VM Instances) Gebühren.</span><span class="sxs-lookup"><span data-stu-id="cd602-113">You will receive one invoice for license-based (Office365) and usage-based (Azure) charges, and a separate invoice for one-time (Azure reserved VM instances) charges.</span></span>
+<span data-ttu-id="a0fb7-113">Sie erhalten eine Rechnung für lizenzbasierte (Office 365) und Gebühren für nutzungsbasierte (Azure) und eine separate Rechnung für einmalige (Azure reserved VM Instances) Gebühren.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-113">You will receive one invoice for license-based (Office365) and usage-based (Azure) charges, and a separate invoice for one-time (Azure reserved VM instances) charges.</span></span>
 
-<span data-ttu-id="cd602-114">Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen Abstimmungsdateien.</span><span class="sxs-lookup"><span data-stu-id="cd602-114">For itemized details about the charges, use the accompanying reconciliation files.</span></span> <span data-ttu-id="cd602-115">Die Abstimmungsdateien enthalten die Kunden-IDs und Abonnement-IDs, mit deren Hilfe Sie Kundenrechnungen erstellen.</span><span class="sxs-lookup"><span data-stu-id="cd602-115">The reconciliation files include the customer IDs and subscription IDs that you will use to create customer invoices.</span></span> <span data-ttu-id="cd602-116">Weitere Informationen finden Sie unter [So wird's gemacht: Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md).</span><span class="sxs-lookup"><span data-stu-id="cd602-116">For more information, see [How to use the reconciliation files](use-the-reconciliation-files.md).</span></span>
+<span data-ttu-id="a0fb7-114">Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen Abstimmungsdateien.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-114">For itemized details about the charges, use the accompanying reconciliation files.</span></span> <span data-ttu-id="a0fb7-115">Die Abstimmungsdateien enthalten die Kunden-IDs und Abonnement-IDs, mit deren Hilfe Sie Kundenrechnungen erstellen.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-115">The reconciliation files include the customer IDs and subscription IDs that you will use to create customer invoices.</span></span> <span data-ttu-id="a0fb7-116">Weitere Informationen finden Sie unter [So wird's gemacht: Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md).</span><span class="sxs-lookup"><span data-stu-id="a0fb7-116">For more information, see [How to use the reconciliation files](use-the-reconciliation-files.md).</span></span>
 
-## <a name="invoice-file-definitions"></a><span data-ttu-id="cd602-117">Definitionen zur Rechnungsdatei</span><span class="sxs-lookup"><span data-stu-id="cd602-117">Invoice file definitions</span></span>
+## <a name="invoice-file-definitions"></a><span data-ttu-id="a0fb7-117">Definitionen zur Rechnungsdatei</span><span class="sxs-lookup"><span data-stu-id="a0fb7-117">Invoice file definitions</span></span>
 
 
 <table>
@@ -41,108 +41,108 @@ ms.locfileid: "4377542"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong><span data-ttu-id="cd602-118">Feld</span><span class="sxs-lookup"><span data-stu-id="cd602-118">Field</span></span></strong></td>
-<td><strong><span data-ttu-id="cd602-119">Beschreibung</span><span class="sxs-lookup"><span data-stu-id="cd602-119">Description</span></span></strong></td>
+<td><strong><span data-ttu-id="a0fb7-118">Feld</span><span class="sxs-lookup"><span data-stu-id="a0fb7-118">Field</span></span></strong></td>
+<td><strong><span data-ttu-id="a0fb7-119">Beschreibung</span><span class="sxs-lookup"><span data-stu-id="a0fb7-119">Description</span></span></strong></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="cd602-120">US FEIN</span><span class="sxs-lookup"><span data-stu-id="cd602-120">US FEIN</span></span></td>
-<td><span data-ttu-id="cd602-121">Ihre Steuernummer.</span><span class="sxs-lookup"><span data-stu-id="cd602-121">Your Federal Tax ID Number.</span></span></td>
+<td><span data-ttu-id="a0fb7-120">US FEIN</span><span class="sxs-lookup"><span data-stu-id="a0fb7-120">US FEIN</span></span></td>
+<td><span data-ttu-id="a0fb7-121">Ihre Steuernummer.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-121">Your Federal Tax ID Number.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="cd602-122">Kundennummer</span><span class="sxs-lookup"><span data-stu-id="cd602-122">Customer number</span></span></td>
-<td><span data-ttu-id="cd602-123">Ihre Kundennummer.</span><span class="sxs-lookup"><span data-stu-id="cd602-123">Your customer number.</span></span></td>
+<td><span data-ttu-id="a0fb7-122">Kundennummer</span><span class="sxs-lookup"><span data-stu-id="a0fb7-122">Customer number</span></span></td>
+<td><span data-ttu-id="a0fb7-123">Ihre Kundennummer.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-123">Your customer number.</span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="cd602-124">Rechnungsempfänger</span><span class="sxs-lookup"><span data-stu-id="cd602-124">Bill to</span></span></td>
-<td><span data-ttu-id="cd602-125">Die Adresse, an die wir Ihre Rechnung senden.</span><span class="sxs-lookup"><span data-stu-id="cd602-125">The address where we send your invoice.</span></span> <span data-ttu-id="cd602-126">Um diese Adresse zu ändern, wechseln Sie zu Einstellungen > Partnerabrechnungsprofil.</span><span class="sxs-lookup"><span data-stu-id="cd602-126">To change this address, go to Account settings > Partner billing profile.</span></span> </td>
+<td><span data-ttu-id="a0fb7-124">Rechnungsempfänger</span><span class="sxs-lookup"><span data-stu-id="a0fb7-124">Bill to</span></span></td>
+<td><span data-ttu-id="a0fb7-125">Die Adresse, an die wir Ihre Rechnung senden.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-125">The address where we send your invoice.</span></span> <span data-ttu-id="a0fb7-126">Um diese Adresse zu ändern, wechseln Sie zu Einstellungen > Partnerabrechnungsprofil.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-126">To change this address, go to Account settings > Partner billing profile.</span></span> </td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="cd602-127">Lizenzbasierte Gebühren</span><span class="sxs-lookup"><span data-stu-id="cd602-127">License-based charges</span></span></td>
-<td><span data-ttu-id="cd602-128">Die monatlichen (oder jährlichen) pauschalen Gebühren für die gekauften nutzungsbasierten Lizenzen, die im Voraus in Rechnung gestellt werden.</span><span class="sxs-lookup"><span data-stu-id="cd602-128">The flat monthly (or annual) charges for the purchased usage-based licenses, billed in advance of the service.</span></span> <span data-ttu-id="cd602-129">Diese Zahl ist die Summe aller Gebühren in der Spalte &quot;Zwischensumme&quot; der lizenzbasierten Abgleichungsdatei (Spalte T).</span><span class="sxs-lookup"><span data-stu-id="cd602-129">This number is the sum of all charges in the &quot;Subtotal&quot; column in the License-based reconciliation file (column T).</span></span></td>
+<td><span data-ttu-id="a0fb7-127">Lizenzbasierte Gebühren</span><span class="sxs-lookup"><span data-stu-id="a0fb7-127">License-based charges</span></span></td>
+<td><span data-ttu-id="a0fb7-128">Die monatlichen (oder jährlichen) pauschalen Gebühren für die gekauften nutzungsbasierten Lizenzen, die im Voraus in Rechnung gestellt werden.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-128">The flat monthly (or annual) charges for the purchased usage-based licenses, billed in advance of the service.</span></span> <span data-ttu-id="a0fb7-129">Diese Zahl ist die Summe aller Gebühren in der Spalte &quot;Zwischensumme&quot; der lizenzbasierten Abgleichungsdatei (Spalte T).</span><span class="sxs-lookup"><span data-stu-id="a0fb7-129">This number is the sum of all charges in the &quot;Subtotal&quot; column in the License-based reconciliation file (column T).</span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="cd602-130">Nutzungsbasierte Gebühren</span><span class="sxs-lookup"><span data-stu-id="cd602-130">Usage-based charges</span></span></td>
-<td><span data-ttu-id="cd602-131">Azure-Nutzung, einschließlich neuer Dienste oder Anwendungen, die während des Abrechnungsmonats aktiviert und verwendet wurden.</span><span class="sxs-lookup"><span data-stu-id="cd602-131">Azure usage, including new services or applications enabled and used during the billing month.</span></span> <span data-ttu-id="cd602-132">Diese Zahl ist die Summe aller Gebühren in der Spalte &quot;PretaxCharges&quot; der nutzungsbasierten Abgleichungsdatei (Spalte Z).</span><span class="sxs-lookup"><span data-stu-id="cd602-132">This number is the sum of all charges in the &quot;PretaxCharges&quot; column in the Usage-based reconciliation file (column Z).</span></span></td>
+<td><span data-ttu-id="a0fb7-130">Nutzungsbasierte Gebühren</span><span class="sxs-lookup"><span data-stu-id="a0fb7-130">Usage-based charges</span></span></td>
+<td><span data-ttu-id="a0fb7-131">Azure-Nutzung, einschließlich neuer Dienste oder Anwendungen, die während des Abrechnungsmonats aktiviert und verwendet wurden.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-131">Azure usage, including new services or applications enabled and used during the billing month.</span></span> <span data-ttu-id="a0fb7-132">Diese Zahl ist die Summe aller Gebühren in der Spalte &quot;PretaxCharges&quot; der nutzungsbasierten Abgleichungsdatei (Spalte Z).</span><span class="sxs-lookup"><span data-stu-id="a0fb7-132">This number is the sum of all charges in the &quot;PretaxCharges&quot; column in the Usage-based reconciliation file (column Z).</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="cd602-133">Rabatte</span><span class="sxs-lookup"><span data-stu-id="cd602-133">Discounts</span></span></td>
-<td><span data-ttu-id="cd602-134">Beispielsweise der Rabatt, den der Kunde auf den normalen Preis des Abonnements erhält.</span><span class="sxs-lookup"><span data-stu-id="cd602-134">For example, the discount that the customer receives from the normal price of the subscription.</span></span> <span data-ttu-id="cd602-135">Dies wird als Pauschbetrag und nicht als Preis pro Einheit oder Lizenz aufgeführt.</span><span class="sxs-lookup"><span data-stu-id="cd602-135">This is shown as a flat amount, not as a price per unit or license.</span></span></td>
+<td><span data-ttu-id="a0fb7-133">Rabatte</span><span class="sxs-lookup"><span data-stu-id="a0fb7-133">Discounts</span></span></td>
+<td><span data-ttu-id="a0fb7-134">Beispielsweise der Rabatt, den der Kunde auf den normalen Preis des Abonnements erhält.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-134">For example, the discount that the customer receives from the normal price of the subscription.</span></span> <span data-ttu-id="a0fb7-135">Dies wird als Pauschbetrag und nicht als Preis pro Einheit oder Lizenz aufgeführt.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-135">This is shown as a flat amount, not as a price per unit or license.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="cd602-136">Guthaben</span><span class="sxs-lookup"><span data-stu-id="cd602-136">Credits</span></span></td>
-<td><span data-ttu-id="cd602-137">Guthaben oder Anpassungen für Änderungen an Abonnements (Beispiel: Erhöhung oder Reduzierung der Lizenzzahl).</span><span class="sxs-lookup"><span data-stu-id="cd602-137">Credits or adjustments for changes made to subscriptions (example: seat increases or decreases).</span></span></td>
+<td><span data-ttu-id="a0fb7-136">Guthaben</span><span class="sxs-lookup"><span data-stu-id="a0fb7-136">Credits</span></span></td>
+<td><span data-ttu-id="a0fb7-137">Guthaben oder Anpassungen für Änderungen an Abonnements (Beispiel: Erhöhung oder Reduzierung der Lizenzzahl).</span><span class="sxs-lookup"><span data-stu-id="a0fb7-137">Credits or adjustments for changes made to subscriptions (example: seat increases or decreases).</span></span></td>
 </tr>
 <tr class="even">
 <tr class="even">
-<td><span data-ttu-id="cd602-138">Zwischensumme</span><span class="sxs-lookup"><span data-stu-id="cd602-138">Subtotal</span></span></td>
-<td><span data-ttu-id="cd602-139">Gesamtbetrag vor Steuern und Gebühren exklusive und Guthaben.</span><span class="sxs-lookup"><span data-stu-id="cd602-139">Total before taxes and tax-exclusive charges and credits.</span></span></td>
+<td><span data-ttu-id="a0fb7-138">Zwischensumme</span><span class="sxs-lookup"><span data-stu-id="a0fb7-138">Subtotal</span></span></td>
+<td><span data-ttu-id="a0fb7-139">Gesamtbetrag vor Steuern und Gebühren exklusive und Guthaben.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-139">Total before taxes and tax-exclusive charges and credits.</span></span></td>
 </tr>
-<td><span data-ttu-id="cd602-140">Steuern</span><span class="sxs-lookup"><span data-stu-id="cd602-140">Tax</span></span></td>
-<td><span data-ttu-id="cd602-141">Die gesamten Steuern für die aktuellen Gebühren, wie im Abschnitt „Details“ auf Seite 2 der Rechnung summiert.</span><span class="sxs-lookup"><span data-stu-id="cd602-141">The total tax for the current charges as totaled in the details section beginning on page 2 of the invoice.</span></span> <span data-ttu-id="cd602-142">Diese Zahl ist die Summe aller Gebühren in folgenden Spalten:</span><span class="sxs-lookup"><span data-stu-id="cd602-142">This number is the sum of all the charges in:</span></span>
+<td><span data-ttu-id="a0fb7-140">Steuern</span><span class="sxs-lookup"><span data-stu-id="a0fb7-140">Tax</span></span></td>
+<td><span data-ttu-id="a0fb7-141">Die gesamten Steuern für die aktuellen Gebühren, wie im Abschnitt „Details“ auf Seite 2 der Rechnung summiert.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-141">The total tax for the current charges as totaled in the details section beginning on page 2 of the invoice.</span></span> <span data-ttu-id="a0fb7-142">Diese Zahl ist die Summe aller Gebühren in folgenden Spalten:</span><span class="sxs-lookup"><span data-stu-id="a0fb7-142">This number is the sum of all the charges in:</span></span>
 <ul>
-<li><span data-ttu-id="cd602-143">Spalte &quot;TaxAmount&quot; der nutzungsbasierten Abstimmungsdatei (Spalte AA) und</span><span class="sxs-lookup"><span data-stu-id="cd602-143">the &quot;TaxAmount&quot; column of the Usage-based reconciliation file (column AA), and</span></span></li>
-<li><span data-ttu-id="cd602-144">Spalte &quot;Steuern&quot; der lizenzbasierten Abgleichungsdatei (Spalte U).</span><span class="sxs-lookup"><span data-stu-id="cd602-144">the &quot;Tax&quot; column of the License-based file (column U).</span></span></li>
+<li><span data-ttu-id="a0fb7-143">Spalte &quot;TaxAmount&quot; der nutzungsbasierten Abstimmungsdatei (Spalte AA) und</span><span class="sxs-lookup"><span data-stu-id="a0fb7-143">the &quot;TaxAmount&quot; column of the Usage-based reconciliation file (column AA), and</span></span></li>
+<li><span data-ttu-id="a0fb7-144">Spalte &quot;Steuern&quot; der lizenzbasierten Abgleichungsdatei (Spalte U).</span><span class="sxs-lookup"><span data-stu-id="a0fb7-144">the &quot;Tax&quot; column of the License-based file (column U).</span></span></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="cd602-145">Andere Guthaben</span><span class="sxs-lookup"><span data-stu-id="cd602-145">Other credits</span></span></td>
-<td><span data-ttu-id="cd602-146">Exklusive Guthaben.</span><span class="sxs-lookup"><span data-stu-id="cd602-146">Tax-exclusive credits.</span></span></td>
+<td><span data-ttu-id="a0fb7-145">Andere Guthaben</span><span class="sxs-lookup"><span data-stu-id="a0fb7-145">Other credits</span></span></td>
+<td><span data-ttu-id="a0fb7-146">Exklusive Guthaben.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-146">Tax-exclusive credits.</span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="cd602-147">Aktuelle Gebühren insgesamt</span><span class="sxs-lookup"><span data-stu-id="cd602-147">Total current charges</span></span></td>
-<td><span data-ttu-id="cd602-148">Der in Ihrer Abrechnungswährung für den Abrechnungszeitraum zum angegebenen Termin fällige Betrag.</span><span class="sxs-lookup"><span data-stu-id="cd602-148">The amount due in your billing currency for the billing period, due by the payment due date.</span></span></td>
+<td><span data-ttu-id="a0fb7-147">Aktuelle Gebühren insgesamt</span><span class="sxs-lookup"><span data-stu-id="a0fb7-147">Total current charges</span></span></td>
+<td><span data-ttu-id="a0fb7-148">Der in Ihrer Abrechnungswährung für den Abrechnungszeitraum zum angegebenen Termin fällige Betrag.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-148">The amount due in your billing currency for the billing period, due by the payment due date.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="cd602-149">Zahlungsanweisungen</span><span class="sxs-lookup"><span data-stu-id="cd602-149">Payment instructions</span></span></td>
-<td><span data-ttu-id="cd602-150">Beschreibt, wie Ihre Rechnung auf der Grundlage Ihrer Region bezahlt wird.</span><span class="sxs-lookup"><span data-stu-id="cd602-150">Describes how to pay your invoice, based on your region.</span></span> <span data-ttu-id="cd602-151">Geben Sie bei einer Zahlung stets die Rechnungsnummer an.</span><span class="sxs-lookup"><span data-stu-id="cd602-151">Always include your invoice number when making a payment.</span></span></td>
+<td><span data-ttu-id="a0fb7-149">Zahlungsanweisungen</span><span class="sxs-lookup"><span data-stu-id="a0fb7-149">Payment instructions</span></span></td>
+<td><span data-ttu-id="a0fb7-150">Beschreibt, wie Ihre Rechnung auf der Grundlage Ihrer Region bezahlt wird.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-150">Describes how to pay your invoice, based on your region.</span></span> <span data-ttu-id="a0fb7-151">Geben Sie bei einer Zahlung stets die Rechnungsnummer an.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-151">Always include your invoice number when making a payment.</span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="cd602-152">Rechnungsnummer</span><span class="sxs-lookup"><span data-stu-id="cd602-152">Invoice no</span></span></td>
-<td><span data-ttu-id="cd602-153">Die Nummer Ihrer Rechnung.</span><span class="sxs-lookup"><span data-stu-id="cd602-153">The number of your invoice.</span></span></td>
+<td><span data-ttu-id="a0fb7-152">Rechnungsnummer</span><span class="sxs-lookup"><span data-stu-id="a0fb7-152">Invoice no</span></span></td>
+<td><span data-ttu-id="a0fb7-153">Die Nummer Ihrer Rechnung.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-153">The number of your invoice.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="cd602-154">Abrechnungszeitraum</span><span class="sxs-lookup"><span data-stu-id="cd602-154">Billing period</span></span></td>
-<td><span data-ttu-id="cd602-155">Für CSP-Partner erfolgt die Abrechnung monatlich oder jährlich.</span><span class="sxs-lookup"><span data-stu-id="cd602-155">CSP partners are billed either monthly or annually.</span></span></td>
+<td><span data-ttu-id="a0fb7-154">Abrechnungszeitraum</span><span class="sxs-lookup"><span data-stu-id="a0fb7-154">Billing period</span></span></td>
+<td><span data-ttu-id="a0fb7-155">Für CSP-Partner erfolgt die Abrechnung monatlich oder jährlich.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-155">CSP partners are billed either monthly or annually.</span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="cd602-156">Rechnungsdatum</span><span class="sxs-lookup"><span data-stu-id="cd602-156">Invoice date</span></span></td>
-<td><span data-ttu-id="cd602-157">Das Ausstellungsdatum Ihrer Rechnung.</span><span class="sxs-lookup"><span data-stu-id="cd602-157">The date you receive your invoice.</span></span></td>
+<td><span data-ttu-id="a0fb7-156">Rechnungsdatum</span><span class="sxs-lookup"><span data-stu-id="a0fb7-156">Invoice date</span></span></td>
+<td><span data-ttu-id="a0fb7-157">Das Ausstellungsdatum Ihrer Rechnung.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-157">The date you receive your invoice.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="cd602-158">Zahlungsbedingungen</span><span class="sxs-lookup"><span data-stu-id="cd602-158">Payment terms</span></span></td>
-<td><span data-ttu-id="cd602-159">Für einmalige Einkäufe wird dies immer 60Tage sein.</span><span class="sxs-lookup"><span data-stu-id="cd602-159">For one-time purchases this will always be 60 days.</span></span></td>
+<td><span data-ttu-id="a0fb7-158">Zahlungsbedingungen</span><span class="sxs-lookup"><span data-stu-id="a0fb7-158">Payment terms</span></span></td>
+<td><span data-ttu-id="a0fb7-159">Für einmalige Einkäufe wird dies immer 60Tage sein.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-159">For one-time purchases this will always be 60 days.</span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="cd602-160">Fälligkeitsdatum der Zahlung</span><span class="sxs-lookup"><span data-stu-id="cd602-160">Payment due date</span></span></td>
-<td><span data-ttu-id="cd602-161">Ihre Zahlung muss bis zu diesem Datum eingegangen sein.</span><span class="sxs-lookup"><span data-stu-id="cd602-161">Your payment must be received by this date.</span></span></td>
+<td><span data-ttu-id="a0fb7-160">Fälligkeitsdatum der Zahlung</span><span class="sxs-lookup"><span data-stu-id="a0fb7-160">Payment due date</span></span></td>
+<td><span data-ttu-id="a0fb7-161">Ihre Zahlung muss bis zu diesem Datum eingegangen sein.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-161">Your payment must be received by this date.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="cd602-162">Name des Kunden</span><span class="sxs-lookup"><span data-stu-id="cd602-162">Customer PO</span></span></td>
-<td><span data-ttu-id="cd602-163">Ihre Bestellnummer.</span><span class="sxs-lookup"><span data-stu-id="cd602-163">Your purchase order number.</span></span></td>
+<td><span data-ttu-id="a0fb7-162">Name des Kunden</span><span class="sxs-lookup"><span data-stu-id="a0fb7-162">Customer PO</span></span></td>
+<td><span data-ttu-id="a0fb7-163">Ihre Bestellnummer.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-163">Your purchase order number.</span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="cd602-164">Kundendienst</span><span class="sxs-lookup"><span data-stu-id="cd602-164">Customer service</span></span></td>
-<td><span data-ttu-id="cd602-165">Die Adresse der Kundendienst-Website.</span><span class="sxs-lookup"><span data-stu-id="cd602-165">The website address to access customer service.</span></span></td>
+<td><span data-ttu-id="a0fb7-164">Kundendienst</span><span class="sxs-lookup"><span data-stu-id="a0fb7-164">Customer service</span></span></td>
+<td><span data-ttu-id="a0fb7-165">Die Adresse der Kundendienst-Website.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-165">The website address to access customer service.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="cd602-166">Dienstempfänger</span><span class="sxs-lookup"><span data-stu-id="cd602-166">Service recipient</span></span></td>
-<td><span data-ttu-id="cd602-167">Die Adresse, an der der Dienst verwendet wird.</span><span class="sxs-lookup"><span data-stu-id="cd602-167">The address where the service is used.</span></span> <span data-ttu-id="cd602-168">(Dies ist die rechtlich gültige Unternehmensadresse. Sie ist mit der Unternehmensprüfung verknüpft und kann nicht geändert werden.)</span><span class="sxs-lookup"><span data-stu-id="cd602-168">(This is the legal company address associated with company vetting and cannot be changed.)</span></span></td>
+<td><span data-ttu-id="a0fb7-166">Dienstempfänger</span><span class="sxs-lookup"><span data-stu-id="a0fb7-166">Service recipient</span></span></td>
+<td><span data-ttu-id="a0fb7-167">Die Adresse, an der der Dienst verwendet wird.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-167">The address where the service is used.</span></span> <span data-ttu-id="a0fb7-168">(Dies ist die rechtlich gültige Unternehmensadresse. Sie ist mit der Unternehmensprüfung verknüpft und kann nicht geändert werden.)</span><span class="sxs-lookup"><span data-stu-id="a0fb7-168">(This is the legal company address associated with company vetting and cannot be changed.)</span></span></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="itemized-list-of-one-time-charges"></a><span data-ttu-id="cd602-169">Detaillierte Liste einmaliger Gebühren</span><span class="sxs-lookup"><span data-stu-id="cd602-169">Itemized list of one-time charges</span></span>
+## <a name="itemized-list-of-one-time-charges"></a><span data-ttu-id="a0fb7-169">Detaillierte Liste einmaliger Gebühren</span><span class="sxs-lookup"><span data-stu-id="a0fb7-169">Itemized list of one-time charges</span></span>
 
-|**<span data-ttu-id="cd602-170">Feld</span><span class="sxs-lookup"><span data-stu-id="cd602-170">Field</span></span>** |**<span data-ttu-id="cd602-171">Definition</span><span class="sxs-lookup"><span data-stu-id="cd602-171">Definition</span></span>**|
+|**<span data-ttu-id="a0fb7-170">Feld</span><span class="sxs-lookup"><span data-stu-id="a0fb7-170">Field</span></span>** |**<span data-ttu-id="a0fb7-171">Definition</span><span class="sxs-lookup"><span data-stu-id="a0fb7-171">Definition</span></span>**|
 |:----------------|:-----------------------------|
-|<span data-ttu-id="cd602-172">Datum</span><span class="sxs-lookup"><span data-stu-id="cd602-172">Date</span></span> |<span data-ttu-id="cd602-173">Kaufdatum.</span><span class="sxs-lookup"><span data-stu-id="cd602-173">Date of purchase.</span></span> |
-|<span data-ttu-id="cd602-174">Beschreibung</span><span class="sxs-lookup"><span data-stu-id="cd602-174">Description</span></span> |<span data-ttu-id="cd602-175">Produktname.</span><span class="sxs-lookup"><span data-stu-id="cd602-175">Product name.</span></span> |
-|<span data-ttu-id="cd602-176">Anzahl</span><span class="sxs-lookup"><span data-stu-id="cd602-176">Quantity</span></span> |<span data-ttu-id="cd602-177">Die Anzahl von erworbenen Produkten (Reservierungen etc).</span><span class="sxs-lookup"><span data-stu-id="cd602-177">The number of products (reservations, e.g.) purchased.</span></span> |
-|<span data-ttu-id="cd602-178">Preis pro Einheit</span><span class="sxs-lookup"><span data-stu-id="cd602-178">Unit price</span></span> |<span data-ttu-id="cd602-179">Preis pro Produkt (Reservierungen etc).</span><span class="sxs-lookup"><span data-stu-id="cd602-179">Price per product (reservation, e.g.).</span></span> |
-|<span data-ttu-id="cd602-180">Rabatte</span><span class="sxs-lookup"><span data-stu-id="cd602-180">Discounts</span></span> |<span data-ttu-id="cd602-181">Alle anwendbaren Rabatte.</span><span class="sxs-lookup"><span data-stu-id="cd602-181">Any applicable discounts.</span></span> |
-|<span data-ttu-id="cd602-182">Vorsteuerbetrag</span><span class="sxs-lookup"><span data-stu-id="cd602-182">Pre-tax amount</span></span> |<span data-ttu-id="cd602-183">Zwischensumme vor Steuern.</span><span class="sxs-lookup"><span data-stu-id="cd602-183">Sub-total of the purchases before taxes.</span></span> |
-|<span data-ttu-id="cd602-184">Mehrwertsteuer</span><span class="sxs-lookup"><span data-stu-id="cd602-184">Sales tax</span></span> |<span data-ttu-id="cd602-185">Steuerbetrag.</span><span class="sxs-lookup"><span data-stu-id="cd602-185">Tax amount.</span></span> |
-|<span data-ttu-id="cd602-186">Gesamt</span><span class="sxs-lookup"><span data-stu-id="cd602-186">Total</span></span> |<span data-ttu-id="cd602-187">Zahlungen gesamt.</span><span class="sxs-lookup"><span data-stu-id="cd602-187">Total to be paid.</span></span> |
+|<span data-ttu-id="a0fb7-172">Datum</span><span class="sxs-lookup"><span data-stu-id="a0fb7-172">Date</span></span> |<span data-ttu-id="a0fb7-173">Kaufdatum.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-173">Date of purchase.</span></span> |
+|<span data-ttu-id="a0fb7-174">Beschreibung</span><span class="sxs-lookup"><span data-stu-id="a0fb7-174">Description</span></span> |<span data-ttu-id="a0fb7-175">Produktname.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-175">Product name.</span></span> |
+|<span data-ttu-id="a0fb7-176">Anzahl</span><span class="sxs-lookup"><span data-stu-id="a0fb7-176">Quantity</span></span> |<span data-ttu-id="a0fb7-177">Die Anzahl von erworbenen Produkten (Reservierungen etc).</span><span class="sxs-lookup"><span data-stu-id="a0fb7-177">The number of products (reservations, e.g.) purchased.</span></span> |
+|<span data-ttu-id="a0fb7-178">Preis pro Einheit</span><span class="sxs-lookup"><span data-stu-id="a0fb7-178">Unit price</span></span> |<span data-ttu-id="a0fb7-179">Preis pro Produkt (Reservierungen etc).</span><span class="sxs-lookup"><span data-stu-id="a0fb7-179">Price per product (reservation, e.g.).</span></span> |
+|<span data-ttu-id="a0fb7-180">Rabatte</span><span class="sxs-lookup"><span data-stu-id="a0fb7-180">Discounts</span></span> |<span data-ttu-id="a0fb7-181">Alle anwendbaren Rabatte.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-181">Any applicable discounts.</span></span> |
+|<span data-ttu-id="a0fb7-182">Vorsteuerbetrag</span><span class="sxs-lookup"><span data-stu-id="a0fb7-182">Pre-tax amount</span></span> |<span data-ttu-id="a0fb7-183">Zwischensumme vor Steuern.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-183">Sub-total of the purchases before taxes.</span></span> |
+|<span data-ttu-id="a0fb7-184">Mehrwertsteuer</span><span class="sxs-lookup"><span data-stu-id="a0fb7-184">Sales tax</span></span> |<span data-ttu-id="a0fb7-185">Steuerbetrag.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-185">Tax amount.</span></span> |
+|<span data-ttu-id="a0fb7-186">Gesamt</span><span class="sxs-lookup"><span data-stu-id="a0fb7-186">Total</span></span> |<span data-ttu-id="a0fb7-187">Zahlungen gesamt.</span><span class="sxs-lookup"><span data-stu-id="a0fb7-187">Total to be paid.</span></span> |
  
 
 

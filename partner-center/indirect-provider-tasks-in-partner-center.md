@@ -3,12 +3,12 @@ title: Zusammenarbeiten mit indirekten Vertriebspartnern in CSP | Partner Center
 description: Als indirekter Anbieter (oder Distributor) können Sie mit indirekten Vertriebspartnern zusammenarbeiten, um Ihre Reichweite zu erhöhen.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: f5c5a745ba3ea8f57353529a90d09ee4fae17ccd
-ms.sourcegitcommit: 4175a0670df8c52ae5214fd0672c3fe33071210b
+ms.openlocfilehash: 1ac9099cc1b0805c3af9c77af9df1e8f0bfcc7aa
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/08/2018
-ms.locfileid: "4445462"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490136"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Zusammenarbeiten mit indirekten Vertriebspartnern im Programm für Cloud Solution Provider
 
@@ -18,7 +18,7 @@ Neue Vertriebspartner versuchen, auf dem Markt Fuß zu fassen, und möchten ihre
 
 Im (zweistufigen) Modell mit indirektem Anbieter und Vertriebspartner bieten Sie Kunden in Zusammenarbeit mit indirekten Vertriebspartnern Cloudlösungen von Microsoft an. Sie kaufen Produkte und Abonnements direkt von Microsoft und bieten diese Lösungen dann den Kunden über Vertriebspartner an. 
 
-Als indirekter Anbieter verwenden Sie Partner-Dashboard für Folgendes:
+Als indirekter Anbieter verwenden Sie die Partner-Center, um:
 
 -   Vernetzen mit indirekten Vertriebspartnern, die Sie bei der Erweiterung Ihrer Reichweite und Ihres Kundenstamms unterstützen
 -   Zusammenarbeiten mit indirekten Vertriebspartnern zur Bedienung gemeinsamer Kunden
@@ -27,7 +27,7 @@ Als indirekter Anbieter verwenden Sie Partner-Dashboard für Folgendes:
 
 Weitere Informationen zum indirekten Modell in CSP finden Sie auf der [Microsoft Partner Network-Website]( https://partner.microsoft.com) unter [Erkunden Sie das indirekte Modell](https://partner.microsoft.com/cloud-solution-provider/indirect). 
 
-## <a name="indirect-provider-tasks-in-the-partner-dashboard"></a>Aufgaben indirekter Anbieter im Partner-Dashboard
+## <a name="indirect-provider-tasks-in-the-partner-center"></a>Aufgaben indirekter Anbieter im Partner Center
 
 Führen Sie zum Einrichten und Verwalten Ihrer Partnerschaft mit indirekten Vertriebspartnern und Kunden im Partner-Dashboard folgende Schritte aus. Die Schritte2 und 3 werden im folgenden ausführlicher beschrieben.
 
@@ -37,31 +37,31 @@ Führen Sie zum Einrichten und Verwalten Ihrer Partnerschaft mit indirekten Vert
 
 2.  Vernetzen mit indirekten Vertriebspartnern
 
-    - Bevor Sie mit Vertriebspartnern interagieren und Transaktionen abwickeln können, müssen Sie im Partner-Dashboard Partnerschaften mit ihnen einrichten. <br>
+    - Bevor Sie interagieren und Transaktionen, um mit Vertriebspartnern durchführen können, müssen Sie im Partner Center Partnerschaften mit ihnen einrichten. <br>
 
 3.  Interagieren mit Kunden
 
     - Zuordnen neuer Kunden und Abonnements zu Vertriebspartnern
     - Aufbauen von Vertriebspartnerschaften mit Bestandskunden <br>
 
-Nach Abschluss dieser Schritte können Sie Ihre Vertriebspartnerschaften im Menü **Dashboard** auf der Seite **Indirect resellers** verwalten.
+Nachdem Sie diese Schritte abgeschlossen haben, können Sie Ihre Vertriebspartnerschaften auf der Seite **indirekte Händler** aus Ihrem **Partner Center** -Menü verwalten.
 
 > [!IMPORTANT]   
-> Um mit Vertriebspartnern im Partner Center zusammenarbeiten zu können, müssen diese als indirekte Vertriebspartner im CSP-Programm registriert sein und über Partner-Dashboard-Konten verfügen. Registrierungsinformationen für das CSP-Programm finden Vertriebspartner unter [Zusammenarbeiten mit indirekten Anbietern in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md). 
+> Bevor Sie beginnen können, um mit Vertriebspartnern zusammenarbeiten, sie müssen als indirekte Vertriebspartner im CSP-Programm registriert sein und über Partner Center-Konten verfügen. Registrierungsinformationen für das CSP-Programm finden Vertriebspartner unter [Zusammenarbeiten mit indirekten Anbietern in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md). 
 
 ## <a name="connect-with-indirect-resellers"></a>Vernetzen mit indirekten Vertriebspartnern
 
-Um mit indirekten Vertriebspartnern im Partner-Dashboard interagieren und Transaktionen abwickeln zu können, müssen Sie eine Partnerschaft mit ihnen einrichten. Durch eine Partnerschaft mit einem indirekten Vertriebspartner können Sie und der Vertriebspartner die gleichen Kunden bedienen.
+Interaktion und mit indirekten Vertriebspartnern im Partner Center Transaktionen durchzuführen, müssen Sie eine Partnerschaft mit ihnen einrichten. Durch eine Partnerschaft mit einem indirekten Vertriebspartner können Sie und der Vertriebspartner die gleichen Kunden bedienen.
 
 Senden Sie zum Einrichten einer Partnerschaft eine E-Mail mit einer Partnerschaftsanfrage an den Vertriebspartner. Achten Sie darauf, dass Sie die E-Mail-Adresse des Vertriebspartners zur Hand haben, bevor Sie beginnen. 
 
-1. Wählen Sie im Menü **Dashboard** die Option **Indirect resellers** aus. 
+1. Wählen Sie **indirekte Händler** aus Ihrem **Partner Center** -Menü. 
 
 2. Wählen Sie auf der Seite **Indirect resellers** die Option **Request a partnership** aus. Ein E-Mail-Entwurf wird angezeigt.
 
 3. Wählen Sie **In E-Mail öffnen** aus, um die Nachricht in Ihrer Standardanwendung für E-Mails zu öffnen, oder wählen Sie **In Zwischenablage kopieren** aus, um den Text zu kopieren, und fügen Sie ihn dann in eine E-Mail ein. Wählen Sie abschließend **Fertig** aus.
     > [!IMPORTANT]  
-    >  Sie können den Text in der e-Mail bearbeiten, aber Achten Sie darauf, dass Sie den Link mit, da er speziell auf Ihr Partner-Dashboard-Konto zugeschnitten ist.
+    >  Sie können den Text in der e-Mail bearbeiten, aber Achten Sie darauf, dass Sie den Link mit, da er speziell auf Ihr Partner Center-Konto zugeschnitten ist.
 
 4. Nachdem der Vertriebspartner Ihre Partnerschaftsanfrage angenommen hat, wird er in der Liste mit Ihren indirekten Vertragspartnern angezeigt, und Sie können nun folgende Aktionen ausführen: 
 
@@ -82,13 +82,13 @@ Abhängig davon, inwieweit der Vertriebspartner Zugriff haben und eingebunden se
 
 ## <a name="connect-with-customers"></a>Interagieren mit Kunden
 
-Wenn Sie neue Kunden gewinnen, müssen Sie im Partner-Dashboard entsprechende Konten erstellen. Wenn Sie ein neues Kundenkonto hinzufügen, können Sie einen bestimmten Vertriebspartner festlegen, der das Konto und die Abonnements und Dienste des Kunden in dessen Auftrag verwalten soll. 
+Wenn Sie neue Kunden gewinnen, müssen Sie im Partner Center entsprechende Konten erstellen. Wenn Sie ein neues Kundenkonto hinzufügen, können Sie einen bestimmten Vertriebspartner festlegen, der das Konto und die Abonnements und Dienste des Kunden in dessen Auftrag verwalten soll. 
 
 Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren Sie dadurch die Konto- und Abonnementverwaltung an diesen Vertriebspartner. Das bedeutet, dass der Vertriebspartner Administratorzugriff auf die Abonnements und Dienste des Kunden erhält und sie im Auftrag des Kunden verwalten kann.
 
 ### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Hinzufügen neuer Kunden und Zuordnen zu indirekten Vertriebspartnern
 
-1.  Wählen Sie im Menü **Dashboard** die Option **Indirect resellers** aus. 
+1.  Wählen Sie **indirekte Händler** aus Ihrem **Partner Center** -Menü. 
 
 2.  Suchen Sie den indirekten Vertriebspartner, dem Sie neue Kunden zuweisen möchten, und wählen Sie dann **Neuen Kunden hinzufügen** aus. Beachten Sie, dass der indirekte Vertriebspartner im Formular mit den Kundendetails bereits für Sie ausgewählt ist. Geben Sie die Kundeninformationen an, und wählen Sie anschließend **Weiter: Abonnements** aus. 
 3.  Wählen Sie auf der Seite **Neues Abonnement** die Abonnements aus, die der Kunde kaufen möchte, und geben Sie die Anzahl der benötigten Lizenzen ein. 
@@ -107,7 +107,7 @@ Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren S
 
 Wenn Kunden neue Abonnements kaufen, vorhandene Abonnements upgraden oder zusätzliche Lizenzen erwerben möchten, können Sie diese Änderungen im Konto des Kunden vornehmen. 
 
-1.  Wählen Sie im Menü **Dashboard** die Option **Kunden** aus. 
+1.  Wählen Sie **Kunden** in Ihr **Partner Center** aus. 
 
 2.  Suchen Sie den Kunden, dessen Konto Sie ändern möchten. Sie können die Liste nach indirektem Vertriebspartner filtern, um Ihre Auswahl einzugrenzen. Erweitern Sie den Kundendatensatz durch Auswählen des Abwärtspfeils, und wählen Sie dann **Abonnement hinzufügen** aus.
 

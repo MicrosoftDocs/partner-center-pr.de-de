@@ -3,12 +3,12 @@ title: Beitreten zum Microsoft Partner Network | Partner Center
 description: Erwerben Sie das Microsoft Action Pack und verdienen Sie Kompetenzen im Partner Center
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d38a3bce720d4accca4387d279f222181e337ff
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 23f6b0d0f8bcc680a4bfc3ae63ea0297186942ed
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377792"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489716"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>Microsoft Partner Network beitreten (MPN)
 
@@ -17,11 +17,11 @@ ms.locfileid: "4377792"
 -  Partner Center
 -  Microsoft Partner Network
 
-## <a name="new-to-the-partner-dashboard"></a>Neu im Partner-Dashboard
+## <a name="new-to-the-partner-center"></a>Neu bei Partner Center
 
- Durch die Partnerschaft mit Microsoft erhalten Sie Zugriff auf neue Möglichkeiten zum Transformieren Ihres Unternehmens. Im Partner-Dashboard können Sie das Microsoft Action Pack erwerben und erneuern. Sie haben einen einfachen Zugriff auf Informationen über Kompetenzen und wie Sie diese erreichen können
+ Durch die Partnerschaft mit Microsoft erhalten Sie Zugriff auf neue Möglichkeiten zum Transformieren Ihres Unternehmens. Im Partner Center können Sie kaufen und das Microsoft Action Pack verlängern, und Sie haben einen einfachen Zugriff auf Informationen über Kompetenzen und wie Sie diese erreichen.
 
- Wir werden Partner nach und nach zum Zeitpunkt ihres MAPS- oder Kompetenz-Startdatums dazu einladen, ihre Mitgliedschaft im Partner-Dashboard zu verwalten, oder dann, wenn wichtige und für den Partner nützliche Funktionen im Partner-Dashboard verfügbar sind.  Bis Sie eine Einladung zum Umzug erhalten, sollten Sie Ihre Mitgliedschaft im Partner Membership Center (PMC) erneuern und verwalten.
+ Wir Startdatums schrittweise Partner ihre Mitgliedschaft im Partner Center an ihre Karten oder Kompetenz verwalten Anniversary Datum, wenn die wichtige Partner Center-Funktionen verfügbar und für den Bedürfnissen ihres Unternehmens sind.  Bis Sie eine Einladung zum Umzug erhalten, sollten Sie Ihre Mitgliedschaft im Partner Membership Center (PMC) erneuern und verwalten.
 
 ## <a name="get-your-mpn-id"></a>MPN-ID abrufen
 
@@ -54,7 +54,7 @@ Als Network-Mitglied erhalten Sie [grundlegende interne Nutzungsrechte](https://
 |**Aufgabe**   |**Lesen Sie**   |
 |------------------|:---------------|
 |Werden Sie ein Microsoft-Partner|[Mitgliedschaft: Funktionsweise](https://partner.microsoft.com/membership/how-it-works)|
-Verwalten der Microsoft Partner Network-Mitgliedschaft | Partner-Dashboard   |[Verwalten der Microsoft Partner Network-Mitgliedschaft](mpn-overview.md)
+Verwalten der Microsoft Partner Network-Mitgliedschaft im Partner Center   |[Verwalten der Microsoft Partner Network-Mitgliedschaft](mpn-overview.md)
 |Das Action Pack erwerben   |[Kauf oder Verlängerung des Microsoft Action Packs](https://msdn.microsoft.com/partner-center/mpn-get-action-pack)|
 |Verdienen Sie Silver- und Gold-Kompetenzen   |[Kompetenzanforderungen für die Silver- und Gold-Mitgliedschaft](https://msdn.microsoft.com/en-us/partner-center/learn-about-competencies)|
 |Erwägen Sie die Teilnahme am Programm für Cloud-Lösungsanbieter|[Cloud-Lösungsanbieter – begehrte Cloudlösungen verkaufen](csp-overview.md)|

@@ -4,12 +4,12 @@ Description: Microsoft provides special, reduced pricing for select groups of cu
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e60dd18ff9066efa72a4a290150faa6b1e7e8252
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f9e79f6705559056295c167e0825b3b5b3f9b16b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877490"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489586"
 ---
 # <a name="sell-to-specialized-industries"></a>An spezielle Branchen verkaufen
 
@@ -36,7 +36,7 @@ Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z.B. 
 
 ## <a name="check-the-customer-qualifications"></a>Überprüfen der Kundenqualifikationen
 
-1.  Wählen Sie im **Dashboard**-Menü **Kunden**. Wählen Sie den Kunden aus der Liste aus.
+1.  Wählen Sie im **Partner Center** -Menü **Kunden**aus. Wählen Sie den Kunden aus der Liste aus.
 2.  Wählen Sie im Kundenmenü **Konto**. Prüfen Sie unter **Unternehmensinformationen** den Abschnitt **besondere Qualifikationen**.
 3.  Wenn für **Besondere Qualifikationen** die Auswahl **Keine** lautet, aber der Kunde die Qualifikationen tatsächlich erfüllt, können Sie ihre Daten **aktualisieren**, um diese einzuschließen.
 

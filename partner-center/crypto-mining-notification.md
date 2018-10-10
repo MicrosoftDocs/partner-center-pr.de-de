@@ -1,25 +1,25 @@
 ---
-title: Partner-Dashboard-Benachrichtigung für Krypto-Mining-Aktivität | Partner-Dashboard
+title: Partner Center-Benachrichtigung für Krypto-Mining-Aktivität | Partner Center
 description: Benachrichtigung über potenzielles Krypto-Mining.
 author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f8dec91ae62b27c031739e59848118395ab52f7f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 93f4031d8e084c206ee21ff96b6c16a4c0d2ea0e
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876230"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488926"
 ---
-# <a name="partner-dashboard-notification-for-cryptocurrency-mining-activity"></a>Partner-Dashboard-Benachrichtigung für Krypto-Mining-Aktivität | Partner-Dashboard
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Partner Center-Benachrichtigung für Krypto-Mining-Aktivität
 
 **Betriff:**
 
--  Partner-Dashboard
+-  Partner Center
 -  CSP-Partner
 
-Möglicherweise haben Sie die folgende Partner-Dashboard-Benachrichtigung über Krypto-Mining erhalten:
+Möglicherweise haben Sie die folgende Partner Center-Benachrichtigung über Krypto-Mining erhalten:
  
 ![](images/crypto1.png)
 
@@ -42,13 +42,13 @@ Wenn die Aktivität nicht normal ist, beachten Sie Folgendes:
 
 2.  Verstehen Sie, wie die Ressourcen erstellt wurden. Dazu müssen Sie das Azure-Ressourcenmanagement-Protokoll für die Ressourcenbereitstellungsaktivitäten überprüfen.
 
-3.  Wenn Sie herausfinden möchten, wer das Abonnement erstellt hat, überprüfen Sie das Aktivitätsprotokoll des Partner-Dashboards.
+3.  Wenn Sie herausfinden, wer das Abonnement erstellt hat, sollten Sie Partner Center Aktivitätsprotokolle überprüfen müssen.
 
 Die Erkennung von Krypto-Mining-Aktivitäten basiert auf Heuristik und ist möglicherweise nicht 100%ig genau. Achten Sie darauf, dass Überwachungssysteme zum Schutz vor betrügerischen oder andere nicht erlaubten Aktivitäten haben. Weitere Informationen finden Sie unter [Nichtbezahlung, Betrug oder Missbrauch](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
 
 Wenn Sie Fragen oder Bedenken bezüglich der Benachrichtigung haben, können Sie das folgende Verfahren verwenden, um eine Supportanfrage zu öffnen.
 
-1.  Wählen Sie im Dashboard **Support** und dann **Partner Center-Anfragen**.
+1.  Wählen Sie im Partner Center **Support** , und wählen Sie dann **Partner Center-Anfragen**.
 3.  Wählen Sie **Neue Anfrage**. 
 4.  Im Dropdownmenü **Problemtyp** wählen Sie **Hinzufügen oder Verwalten von Kunden**.
 5.  Im Dropdownmenü **Auswirkungen** wählen Sie **Mittel**.

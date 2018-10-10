@@ -4,12 +4,12 @@ description: Es ist ganz einfach, die Angebote von Drittanbietern zu suchen und 
 author: labrenne
 keywords: Drittanbieterangebote, Kaufsoftware, Suchen nach Drittanbietern
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c734282aed8493d68d6ff9e8dc6d732d952c0a8
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: e156f6d473517b36db3d48072a112f11e83817d9
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377502"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488586"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Suchen der Angebote von Drittanbietern, die Sie verkaufen möchten
 
@@ -42,7 +42,7 @@ Wenn Sie die Software möglicherweise erwerben möchten, aber weitere Fragen daz
 
 Sie erwerben Drittanbietersoftware genauso wie Erstanbietersoftware. 
 
-1. Wählen Sie im **Dashboard** die Option **Kunden** aus.
+1. Wählen Sie aus dem **Partner Center** **Kunden**
 2. Wählen Sie **Neues Abonnement** aus.
 3. Weitere Informationen finden Sie unter [Erstellen, Unterbrechen oder Stornieren von Kundenabonnements](create-a-new-subscription.md).
 4.  Wählen Sie die monatliche Abrechnung für Drittanbietersoftware aus. Die jährliche Abrechnung und Testversionsabrechnung sind derzeit für Drittanbieter nicht verfügbar.

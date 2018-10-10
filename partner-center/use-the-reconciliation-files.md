@@ -1,15 +1,15 @@
 ---
 title: Verwenden der Abstimmungsdateien | Partner Center
-description: Laden Sie die Abgleichungsdateien aus dem PartnerCenter-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen.
+description: Eine detaillierte rechnungspositionsinformationen Ansicht der einzelnen Gebühren Abrechnungszyklus wird herunterladen Sie die abstimmungsdateien aus dem Partner Center.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.localizationpriority: medium
-ms.openlocfilehash: f4135bfeb4bf4245f7fc78a4d95946d094390a2a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: de2050db9ec6202e43713d62269146291b5ded99
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877550"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489956"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -19,7 +19,7 @@ ms.locfileid: "2877550"
 -  Partner Center für Microsoft Cloud for US Government
 -  Partner Center für Microsoft Cloud Deutschland
 
-Laden Sie die Abgleichungsdateien aus dem PartnerCenter-Dashboard herunter, um detaillierte Rechnungspositionsinformationen für einen Abrechnungszyklus anzuzeigen. Zu diesen Informationen zählen Gebühren für die einzelnen Abonnements von Kunden und ausführliche Ereignisinformationen (wie z.B. das Hinzufügen von Arbeitsplätzen zu einem Abonnement mitten in einem Abrechnungszeitraum).
+Eine detaillierte rechnungspositionsinformationen Ansicht der einzelnen Gebühren Abrechnungszyklus wird herunterladen Sie die abstimmungsdateien aus dem Partner Center. Zu diesen Informationen zählen Gebühren für die einzelnen Abonnements von Kunden und ausführliche Ereignisinformationen (wie z.B. das Hinzufügen von Arbeitsplätzen zu einem Abonnement mitten in einem Abrechnungszeitraum).
 
 ## <a href="" id="itemizebypartner"></a>Aufschlüsseln nach Partner
 
@@ -46,7 +46,7 @@ Partner im indirekten Modell können diese zusätzlichen Felder in den beiden li
 <td>MPN-ID der Handelspartner</td>
 <td><p>Wird nur in den Abstimmungsdateien für Partner im indirekten Modell angezeigt.</p>
 <p>Die MPN-ID des registrierten Handelspartners für das Abonnement. Dies entspricht der Handelspartner-ID, die für das spezifische Abonnement im Partner Center aufgeführt ist.</p>
-<p>Wählen Sie zum Anzeigen oder Aktualisieren des Handelspartners im Menü „Partner Center” <strong>Kunden</strong> aus, und wählen Sie dann den Kunden aus der Liste aus. Wählen Sie im Menü „Kunden” <strong>Abonnements</strong> und dann das Abonnement aus der Liste aus. Wählen Sie <strong>Aktualisieren</strong> aus, um <strong>Vertriebspartner (MPN-ID)</strong> zu ändern.</p>
+<p>Wählen Sie zum Anzeigen oder Aktualisieren des Handelspartners im Partner Center-Menü, wählen Sie <strong>Kunden</strong>und dann den Kunden aus der Liste. Wählen Sie im Menü „Kunden” <strong>Abonnements</strong> und dann das Abonnement aus der Liste aus. Wählen Sie <strong>Aktualisieren</strong> aus, um <strong>Vertriebspartner (MPN-ID)</strong> zu ändern.</p>
 <p>Wenn ein CSP-Partner das Abonnement direkt an den Kunden veräußert hat, wird seine MPN-ID zweimal aufgeführt: als MPN-ID und als MPN-ID des Handelspartners.</p>
 <p>Wenn ein CSP-Partner über einen Handelspartner ohne MPN-ID verfügt, wird dieser Wert stattdessen auf die MPN-ID des Partners festgelegt.</p>
 <p>Wenn der CSP-Partner eine Handelspartner-ID entfernt, wird dieser Wert auf-1 festgelegt.</p></td>

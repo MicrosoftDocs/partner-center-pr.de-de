@@ -4,12 +4,12 @@ description: Erfahren Sie, wie Sie ein Microsoft Action Pack-Abonnement erhalten
 author: MaggiePucciEvans
 keywords: Action Pack, MAPS, MAPS verlängern, Action Pack verlängern, Action pack erwerben
 ms.localizationpriority: medium
-ms.openlocfilehash: 9fab4b0abe282e12a505c242597345717fad22b6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 585fa5f61339f07282b4caab5f678eb4bce9db65
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876710"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490126"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Erstmaliges Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements
 
@@ -36,7 +36,7 @@ Nachdem Sie dem Partner Network erfolgreich beigetreten sind, befolgen Sie die [
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Verlängern eines Microsoft Action Pack-Abonnements
 
 >[!IMPORTANT]
->Zwischen jetzt und dem Ende des Kalenderjahres verschieben wir die Action Pack-Abonnementverwaltung vom Partner Membership Center (PMC) zum Partner-Dashboard – dieser Website. Da sich das Verlängern Ihres Action Pack-Abonnements zwischen diesen Zeitpunkten unterscheiden kann, lesen Sie die folgenden Informationen sorgfältig.  
+>Zwischen jetzt und dem Ende des Kalenderjahres sind verschieben wir die Action Pack-abonnementverwaltung vom Partner Membership Center (PMC) zum Partner Center – dieser Website. Da sich das Verlängern Ihres Action Pack-Abonnements zwischen diesen Zeitpunkten unterscheiden kann, lesen Sie die folgenden Informationen sorgfältig.  
 
 ### <a name="check-your-renewal-eligibility"></a>Überprüfen Ihrer Berechtigung für eine Verlängerung
 
@@ -46,15 +46,15 @@ Nachdem Sie dem Partner Network erfolgreich beigetreten sind, befolgen Sie die [
 
     - Sie können die Schrittezum Verlängern Ihres Abonnements in PMC durchführen, oder
 
-    - Sie erhalten eine Nachricht, in der Sie eingeladen werden, Ihr Abonnement im Partner-Dashboard – dieser Website – zu verlängern.
+    - Erhalten Sie eine Nachricht, die Sie eingeladen werden, Ihr Abonnement im Partner Center – dieser Website verlängern
 
 >[!IMPORTANT]
->Wenn Sie eingeladen werden, Ihr Abonnement im Partner-Dashboard zu verlängern, beachten Sie, dass wir die Richtlinie für das Zeitfenster der Verlängerung geändert haben und Sie das Abonnement erst verlängern können, nachdem es abgelaufen ist. Wenn Ihr Abonnement beispielsweise am 22.Juni abläuft, können Sie es ab dem 23. Juni für einen Zeitraum von 30Tagen verlängern.       
->Sie finden das Ablaufdatum Ihres Abonnements auf der Seite [**Mitgliedschaftsangebote**](https://partnercenter.microsoft.com/pcv/partnership/offers) (Anmeldung erforderlich). Wenn Sie zur Verlängerung im Partner-Dashboard berechtigt sind, führen Sie die folgenden Schritteaus.  
+>Wenn Sie eingeladen werden, Ihr Abonnement im Partner Center zu verlängern, beachten Sie, dass wir unsere Richtlinie Zeitfenster der Verlängerung geändert haben, und Sie können Ihr Abonnement erst nach Ablauf verlängern. Wenn Ihr Abonnement beispielsweise am 22.Juni abläuft, können Sie es ab dem 23. Juni für einen Zeitraum von 30Tagen verlängern.       
+>Sie finden das Ablaufdatum Ihres Abonnements auf der Seite [**Mitgliedschaftsangebote**](https://partnercenter.microsoft.com/pcv/partnership/offers) (Anmeldung erforderlich). Wenn Sie zur Verlängerung im Partner Center berechtigt sind, führen Sie die folgenden Schritte aus.  
 
 
 
-### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-dashboard"></a>So verlängern Sie ein Microsoft Action Pack-Abonnement im Partner-Dashboard
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Verlängern ein Microsoft Action Pack-Abonnements im Partner Center
 
 1. Wechseln Sie zur Seite [**Mitgliedschaftsangebote**](https://partnercenter.microsoft.com/pcv/partnership/offers), und wählen Sie dann **Gekauft** aus. Suchen Sie die Kachel **Microsoft Action Pack-Abonnement** .  
 

@@ -5,12 +5,12 @@ ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 keywords: Hinzufügen von Lizenzen zu einem vorhandenen Abonnement, Plätze zu einem vorhandenen Abonnement hinzufügen, Abonnement andern, Ändern eines Abonnements, Weitere Lizenzen für einen Kunden erwerben
 ms.localizationpriority: medium
-ms.openlocfilehash: 089baed41e278dff269c622641fa685d684ea4fe
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: aa3ca83353b5efece1cb86395f82f6e876deb25b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874870"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489726"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement
 
@@ -90,7 +90,7 @@ Weitere Informationen über die Auswirkung auf die Abrechnung finden Sie unter d
 1.  Um festzustellen, ob ein Abonnement für Upgrade berechtigt ist, wählen Sie Ihren Kunden, und öffnen Sie die Liste der Abonnements.
 2.  Wenn ein Upgrade auf das Abonnement durchgeführt werden kann, sehen Sie ein Informationssymbol direkt hinter dem Abonnementnamen. Zeigen Sie auf dieses Symbol, und wählen Sie dann **Jetzt aktualisieren**.
 3.  Wählen Sie das neue Angebot und dann **Absenden**.
-4.  Möglicherweise ist zusätzliche Arbeit erforderlich, um einige Benutzerkonten für bestimmte Dienste zu aktualisieren. Wenn dies der Fall ist, zeigt das Partner Dashboard eine Liste der Konten und Dienste an, die betroffen sind. Hilfe finden Sie im Knowledge Base-Artikel [Bei Lizenzen neu zuweisen, während Sie Pläne in Office 365 wechseln](http://go.microsoft.com/fwlink/p/?LinkId=723576).
+4.  Möglicherweise ist zusätzliche Arbeit erforderlich, um einige Benutzerkonten für bestimmte Dienste zu aktualisieren. Wenn dies der Fall ist, enthält das Partner Center eine Liste der Konten und Dienste, die betroffen sind. Hilfe finden Sie im Knowledge Base-Artikel [Bei Lizenzen neu zuweisen, während Sie Pläne in Office 365 wechseln](http://go.microsoft.com/fwlink/p/?LinkId=723576).
 
  
 

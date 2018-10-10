@@ -4,18 +4,18 @@ Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
 keywords: Azure, Reservierungen, verwalten, Abrechnung, kaufen, Azure-RI, Azure Reserved Instances
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f5073bfd82d16485e3f0d5f4c9f79b1d5b5e7c7
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: c580553aa484611790b2c83bab968025c0bb1379
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876960"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489756"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>Verkaufen Microsoft Azure Reserved Instances 
 
 **Betriff:**
 
--  Partner-Dashboard
+-  Partner Center
 -  Microsoft Azure-Portal
 -  CSP-Partner
 
@@ -66,13 +66,13 @@ Vor dem Kauf von Azure Reservations im Auftrag Ihrer Kunden, achten Sie darauf, 
 -   Wenn ein Kunde ein Azure-Abonnement von Direct oder EA oder SP übertragen möchte, werden Reservierungen nicht übertragen. 
 
 >[!NOTE]
-> Sie können kaufen, verkaufen und Verwalten von Azure Reservations im Partner-Dashboard und Azure-Portal, und mit der Partner Center-API. Weitere Informationen finden Sie im folgenden Link. 
+> Sie können kaufen, verkaufen und Verwalten von Azure Reservations im Partner Center und Azure-Portal, und mit der Partner Center-API. Weitere Informationen finden Sie im folgenden Link. 
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations-Ressourcen
 |**Weitere Informationen**   |**Bitte lesen**    |
 |:-----------------------------|:-----------------|
-|Erwerb von Azure Reservations für Ihre Kunden im Partner-Dashboard   |[Azure Reservations kaufen](azure-reservations-buying.md)
-|Verwalten von Azure Reservations in Ihrem Partner-Dashboard | [Verwalten von Azure Reservations in Ihrem Partner-Dashboard](azure-reservations-manage.md)
+|Erwerb von Azure Reservations für Ihre Kunden im Partner Center   |[Azure Reservations kaufen](azure-reservations-buying.md)
+|Verwalten von Azure Reservations im Partner Center | [Verwalten von Azure Reservations im Partner Center](azure-reservations-manage.md)
 |Bestimmen Sie die richtige Größe für den virtuellen Computer, und überprüfen Sie die Kunden VM-Nutzung   |[VM-Größe für die maximale Azure Reservations-Nutzung](azure-usage.md)   |
 |Erwerb von Azure Reservations über die Partner Center-API | [Erwerben Sie Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in die Partner Center-Entwicklerdokumentation
 

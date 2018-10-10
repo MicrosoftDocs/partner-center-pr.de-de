@@ -4,12 +4,12 @@ description: Sie können nun Drittanbietersoftware entdecken und erwerben, um di
 author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
 ms.localizationpriority: medium
-ms.openlocfilehash: 8076104d1707ed4441340f82c34ff7d587938778
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5b98707f1d14ea689f718f386c09e0f3ebbc558c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877440"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489996"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Hinzufügen von Drittanbietersoftware zu Ihrem Portfolio
 
@@ -48,7 +48,7 @@ Wenn Sie das Produkt möglicherweise erwerben möchten, aber weitere Fragen dazu
 
 Sie erwerben Drittanbietersoftware genauso wie Erstanbietersoftware. 
 
-1.  Wählen Sie im **Dashboard** die Option **Kunden** aus.
+1.  Wählen Sie aus dem **Partner Center** **Kunden**.
 2.  Wählen Sie **Neues Abonnement** aus.
 3.  Wählen Sie die monatliche Abrechnung für Drittanbietersoftware aus. Die jährliche Abrechnung und Testversionsabrechnung sind derzeit für Drittanbieter nicht verfügbar.
 4.  Wählen Sie auf der Registerkarte **Drittanbieter** das Produkt aus, das Sie kaufen möchten.

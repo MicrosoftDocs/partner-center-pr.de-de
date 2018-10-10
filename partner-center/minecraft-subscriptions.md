@@ -4,12 +4,12 @@ description: 'Verkaufen Sie Abonnements für Minecraft: Education Edition an qua
 author: KPacquer
 keywords: Autorisierte Education-Partner
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d7c108471290194a4f96d9e0608d4951c4785f3
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: cb968300a2254aac6c56b3ecdfc8ac32eb7345a8
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875810"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489686"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Abonnements für Minecraft: Education Edition für Bildungseinrichtungen
 
@@ -17,7 +17,7 @@ ms.locfileid: "2875810"
 
 -  Partner Center
 
-Partner, die mit Bildungseinrichtungen zusammenarbeiten, können diesen **Minecraft: Education Edition**-Abonnements anbieten. Sie erwerben das Abonnement im Auftrag des Kunden im Partner-Dashboard, und der Kunde lädt die Software dann aus dem [Microsoft Store für Bildungseinrichtungen](https://educationstore.microsoft.com) herunter. 
+Partner, die mit Bildungseinrichtungen zusammenarbeiten, können diesen **Minecraft: Education Edition**-Abonnements anbieten. Sie erwerben das Abonnement im Auftrag des Kunden im Partner Center, und klicken Sie dann der Kunden die Software aus dem [Microsoft Store für Bildungseinrichtungen](https://educationstore.microsoft.com)downloads. 
 
 >[!IMPORTANT]
 >Zum Verkauf von Bildungsangeboten an Kunden im Bildungsbereich müssen Sie im Cloud Solution Provider (CSP)-Programm registriert und ein [autorisierter Verkäufer für den Bildungsbereich (AEP)](https://www.mepn.com) sein. Darüber hinaus muss Ihr Kunde ein [qualifizierter Benutzer von Bildungsangeboten](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) sein.  
@@ -25,10 +25,10 @@ Partner, die mit Bildungseinrichtungen zusammenarbeiten, können diesen **Minecr
  
 ## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>Erwerb von **Minecraft: Education Edition** im Auftrag des Kunden
 
-Führen Sie die folgenden Schritte aus, um **Minecraft: Education Edition**-Abonnements im [Partner-Dashboard](https://partnercenter.microsoft.com/pcv/dashboard/overview
-) zu erwerben (Anmeldung erforderlich):
+Führen Sie die folgenden Schritte zum Kauf **Minecraft: Education Edition** Abonnements im [Partner Center](https://partnercenter.microsoft.com/pcv/dashboard/overview
+) (Anmeldung erforderlich):
 
-  1.  Wählen Sie in Ihrem Partner-Dashboard-Menü die Option **Kunden** aus.
+  1.  Wählen Sie **Kunden** aus dem Menü "Partner Center".
   
   2.  Wählen Sie den Bildungskunden aus der Kundenliste aus, und wählen Sie dann **Abonnements hinzufügen** aus.
   
@@ -37,7 +37,7 @@ Führen Sie die folgenden Schritte aus, um **Minecraft: Education Edition**-Abon
   4.  Wählen Sie das Minecraft-Abonnement aus, das Sie im Auftrag des Kunden erwerben möchten, und geben Sie die Anzahl der Lizenzen ein. Wählen Sie **Weiter: Überprüfung** aus.
 
       >[!NOTE]
-      >Sie können diese Lizenzen in Ihrem Partner-Dashboard anzeigen und verwalten. Ihre Kunden können diese Lizenzen in ihrem Bestand auf der [Minecraft: Education Edition-Detailseite](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) anzeigen und verwalten (Sie müssen im Store für Bildungseinrichtungen angemeldet sein, um die Detailseite anzeigen zu können). 
+      >Sie müssen möglicherweise diese Lizenzen im Partner Center anzeigen und verwalten. Ihre Kunden können diese Lizenzen in ihrem Bestand auf der [Minecraft: Education Edition-Detailseite](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) anzeigen und verwalten (Sie müssen im Store für Bildungseinrichtungen angemeldet sein, um die Detailseite anzeigen zu können). 
 
   5.  Ist der Auftrag korrekt, wählen Sie **Übermitteln** aus. Wenn Sie Änderungen an dem Auftrag vornehmen müssen, wählen Sie **Abbrechen** aus, und nehmen Sie die gewünschten Änderungen vor.   
 

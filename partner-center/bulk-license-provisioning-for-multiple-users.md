@@ -5,12 +5,12 @@ ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 Keywords: assign license, revoke license, assign to multiple users,
 ms.localizationpriority: medium
-ms.openlocfilehash: 483d0d13415c204106c2269d9cdcd80298e59bc2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: fafbb038214d31f6e0a3298705128ac3ba1ab722
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877090"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490006"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer
 
@@ -20,7 +20,7 @@ ms.locfileid: "2877090"
 
 Sie können Lizenzen und Dienste einem Benutzer oder gleichzeitig mehreren Benutzern in einem Benutzerkonto zuweisen und die Lizenzzuweisung für Benutzer aufheben.
 
-Das Partner-Dashboard verfolgt alle Lizenzansprüche im Besitz des Kunden nach und zeigt sie an.
+Das Partner Center verfolgt lizenzansprüche und zeigt alle Besitz des Kunden.
 
 ## <a name="in-this-section"></a>Inhalt dieses Abschnitts
 
@@ -31,7 +31,7 @@ Das Partner-Dashboard verfolgt alle Lizenzansprüche im Besitz des Kunden nach u
 <a href="" id="assign-licenses-to-groups"></a>
 **Zuweisen von Lizenzen zu mehreren Benutzern**
 
-1.  Wählen Sie im Menü **Dashboard** die Option **Kunden**, und wählen Sie dann einen Kunden aus der Liste aus.
+1.  Das **Partner Center** -Menü Wählen Sie **Kunden**, und wählen Sie dann einen Kunden aus der Liste.
 2.  Wählen Sie **Benutzer und Lizenzen**.
 3.  Aktivieren Sie das Kontrollkästchen für zwei oder mehr Benutzer aus der Liste. (Aktivieren Sie zum Auswählen aller Benutzer auf der aktuellen Seite das Kontrollkästchen oben in der Spalte **Benutzer**.)
 
@@ -57,7 +57,7 @@ Das Partner-Dashboard verfolgt alle Lizenzansprüche im Besitz des Kunden nach u
 7.  Durch Aktivierung des Kontrollkästchens aller Produkte wählen Sie mehrere Produkte für die Benutzer aus.
     -   Wählen Sie für ein beliebiges Produkt **View service plans**, um die von den Benutzern benötigten Servicepläne anzuzeigen und auszuwählen.
 
-8.  Wählen Sie **Speichern**. Das Partner-Dashboard öffnet die Bestätigungsseite **Licenses updated**, auf der die Benutzer und ihre neuen Lizenzen aufgeführt sind.
+8.  Wählen Sie **Speichern**. Das Partner Center öffnet **Lizenzen aktualisiert** auf einer Bestätigungsseite die Benutzer und ihre neuen Lizenzen aufgeführt.
 
 **Hinweis:** Einige Microsoft-Produkte sind an bestimmten Standorten unter Umständen nicht verfügbar. Wieder andere Produkte sind abhängig von anderen Produkten oder Diensten oder können dem gleichen Benutzer nicht zusammen zugewiesen werden. Nach dem Speichern werden auf der Bestätigungsseite die Ergebnisse der erfolgreichen Lizenzzuweisung für alle Benutzer sowie fehlerhafte Lizenzzuweisungen angezeigt.
 
@@ -66,7 +66,7 @@ Das Partner-Dashboard verfolgt alle Lizenzansprüche im Besitz des Kunden nach u
 <a href="" id="revoking-licenses"></a>
 **Wiederrufen der Lizenzzuweisungen von Benutzern**
 
-1.  Wählen Sie im Menü **Dashboard** die Option **Kunden**, und wählen Sie dann einen Kunden aus der Liste aus.
+1.  Das **Partner Center** -Menü Wählen Sie **Kunden**, und wählen Sie dann einen Kunden aus der Liste.
 2.  Wählen Sie **Benutzer und Lizenzen**.
 3.  Aktivieren Sie das Kontrollkästchen für zwei oder mehr Benutzer aus der Liste. (Aktivieren Sie zum Auswählen aller Benutzer auf der aktuellen Seite das Kontrollkästchen oben in der Spalte **Benutzer**.)
 

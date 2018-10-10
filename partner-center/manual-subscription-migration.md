@@ -4,12 +4,12 @@ description: Microsoft führt Dynamics365 ein, die nächste Generation intellige
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a8aaf2591b6a67114da7d2226dde7bf94dd06b0
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f5e03825226171b8002b260e1b00a59a5eb53ebb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876300"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489786"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrieren von Dynamics AX-Abonnements zu Dynamics 365
 
@@ -78,7 +78,7 @@ Der Wiederverkäufer muss einen Kunden mit einem vorhandenen Dynamics AX Enterpr
 
 **Kauf des neuen Abonnements**
 
-1.  Wählen Sie im Menü **Dashboard**&nbsp;**Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend **Abonnements hinzufügen** aus.
+1.  Klicken Sie im **Partner Center** wählen Sie **Kunden aus**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie **Abonnements hinzufügen**.
 2.  Wählen Sie aus dem Katalog das Abonnement aus, das Sie kaufen möchten (in diesem Fall Dynamics365 for Operations Enterprise Edition), kaufen Sie die nötigen Anzahl von Lizenzen, und wählen Sie **Übermitteln** aus.
 
     Ihr Kunde sollte nun alte und neue Abonnements besitzen. In diesem Beispiel sind dies das alte Dynamics AX Enterprise-Abonnement und das neue Abonnement von Dynamics365 for Operations Enterprise Edition.
@@ -87,7 +87,7 @@ Der Wiederverkäufer muss einen Kunden mit einem vorhandenen Dynamics AX Enterpr
 
 **Neuzuweisen von Benutzerlizenzen**
 
-1.  Wählen Sie im Menü **Dashboard**&nbsp;**Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend **Benutzer und Lizenzen** aus. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
+1.  Wählen Sie über das **Partner Center** -Menü **Kunden**, wählen Sie den Kunden, die, den Sie verschieben möchten, und **Benutzer und Lizenzen**. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
 2.  Um Benutzerlizenzen neu zuzuweisen, wählen Sie den Benutzer aus, der neu zugewiesen werden soll, und anschließend **Verwalten von Lizenzen**.
 3.  Deaktivieren Sie auf der Seite **Verwalten von Lizenzen** das Kontrollkästchen für die Lizenz **Dynamics AX Enterprise**, und wählen Sie die Lizenz **Dynamics365 for Operations** aus.
 4.  Wählen Sie **Übermitteln** aus. Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt.
@@ -97,7 +97,7 @@ Der Wiederverkäufer muss einen Kunden mit einem vorhandenen Dynamics AX Enterpr
 
 **Stornieren des alten Abonnements.**
 
-1.  Wählen Sie im Menü **Dashboard**&nbsp;**Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend das Abonnement aus, das Sie stornieren möchten.
+1.  Im **Partner Center** -Menü Wählen Sie **Kunden**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie das Abonnement, das Sie stornieren möchten.
 2.  Legen Sie auf der Seite für Abonnementdetails **Status** auf **Ausgesetzt** fest.
 3.  Wählen Sie **Übermitteln** aus.
 

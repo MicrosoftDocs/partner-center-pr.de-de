@@ -3,12 +3,12 @@ title: Angebote und Preise | Partner Center
 description: ''
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f64114cfcce49bac9958cddb8e0f3663a1e49203
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2a971f5d4ac812ff6067be2dcab9f533282d4ebf
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875080"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490196"
 ---
 # <a name="pricing-and-offers"></a>Preise und Angebote
 
@@ -18,7 +18,7 @@ ms.locfileid: "2875080"
 
 Um die neuesten Preislisten und Angebote des Programms für Cloud Solution Provider zu sehen, wechseln Sie auf **Verkaufen > Preise und Angebote**. Sie finden separate Preislisten für lizenzbasierte Dienste wie Office 365, Enterprise Mobility Suite und Microsoft Dynamics CRM, sowie für nutzungsbasierte Dienste, einschließlich Azure. 
 
-Die Liste der Angebote umfasst die verschiedenen Produktfamilien, die über das Partner-Dashboard erworben werden können. Diese umfassen zur Zeit Office365, Enterprise Mobility Suite, Microsoft Dynamics CRM und Microsoft Azure. Diese Liste wird erweitert.
+Liste der Angebote umfasst die verschiedenen Produktfamilien, die über das Partner Center erworben werden können. Diese umfassen zur Zeit Office365, Enterprise Mobility Suite, Microsoft Dynamics CRM und Microsoft Azure. Diese Liste wird erweitert.
 
 Innerhalb dieser Produktfamilien gibt es verschiedene SKUs und Produkt-Bündel, die Sie je nach Ihrem Geschäft verkaufen können. Mithilfe der Angebotsmatrix für Cloud-Vertriebspartner auf der Seite "Preise und Angebote" können Sie stets auf die neuesten Informationen zugreifen.
 
@@ -47,8 +47,8 @@ Lizenzbasierte Dienste umfassen eine Vorschau für die Preisliste, die 30Tage vo
 
 Informationen darüber, welche SKUs und Produktpakete für den Verkauf verfügbar sind, finden Sie in der Angebotsmatrix für Cloud-Vertriebspartner auf der Seite Preise und Angebote. Die Angebotsmatrix enthält die Angebote, die für jedes Gebietsschema verfügbar sind. Wenn ein Artikel auf der Preisliste aber noch nicht in der Angebotsmatrix aufgeführt wird, bedeutet dies, das die Produkte noch nicht bestellt werden können. Sobald diese zur Verfügung stehen, wird die Angebotsmatrix aktualisiert.
 
-Für CSP-Partner, die den Partner-Dashboard Software Development Kits (SDKs) verwenden. Microsoft veröffentlicht ebenfalls eine Liste der Azure-Dienste in CSP auf der Seite Preise und Angebote.
+Für CSP-Partner, die mit dem Partner Center Software Development Kits (SDKs). Microsoft veröffentlicht ebenfalls eine Liste der Azure-Dienste in CSP auf der Seite Preise und Angebote.
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>Fragen zur Angebotsmatrix und Preisliste
 
-Wenn Sie Fragen zur Angebotsmatrix oder der Preisliste haben, senden Sie eine Serviceanfrage über das Partner-Dashboard.
+Wenn Sie Fragen zur Angebotsmatrix Preisliste oder haben, übermitteln Sie eine Serviceanfrage über das Partner Center.

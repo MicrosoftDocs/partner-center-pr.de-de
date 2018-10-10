@@ -5,12 +5,12 @@ ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: c441e8c78886fa53152b85bcfff98a1c6765862a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 79a0dc432e1d5407ffd1cc424019d5994d39ef48
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875900"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488646"
 ---
 # <a name="view-customer-activity-logs"></a>Anzeigen von Kundenaktivitätsprotokollen
 
@@ -27,7 +27,7 @@ Aktivitätsprotokolle enthalten Datensätze für Partneraktionen für Kundenkont
 
 **Anzeigen und Exportieren von Aktivitätsprotokollen**
 
-1.  Wählen Sie auf dem **Dashboard** die Option **Aktivitätsprotokoll**.
+1.  Wählen Sie im **Partner Center** -Menü **Aktivitätsprotokoll**.
 2.  Wählen Sie mithilfe der Felder **Von** und **Bis** den Aktivitätsprotokollierungszeitraum aus. Für den Export des Aktivitätsprotokolls wird standardmäßig der letzte Monat festgelegt.
 
     Jedes Aktivitätsprotokoll enthält einen Link zur Seite **Abonnements** des aufgeführten Kunden.

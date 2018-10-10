@@ -1,16 +1,16 @@
 ---
 title: Informationen zu Ihrer Rechnung | Partner Center
-description: Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar. Sie steht über das Partner Center-Dashboard zur Verfügung.
+description: Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar. Es ist im Partner Center verfügbar.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: Abonnementabrechnungen, Abrechnung, Abrechnung im Partner Center, Partner Center-Abrechnung, meine Rechnung lesen, Rechnung, Rechnung für Partner Center, CSP-Abrechnung, wo ist meine Rechnung?
 ms.localizationpriority: medium
-ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 81262c11ab402dcd1748f9f8fde5cdeceac0f4f9
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377542"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489406"
 ---
 # <a name="read-your-bill"></a>Informationen zu Ihrer Rechnung
 
@@ -20,7 +20,7 @@ ms.locfileid: "4377542"
 -  Partner Center für Microsoft Cloud for US Government
 -  Partner Center für Microsoft Cloud Deutschland
 
-Die Abrechnung befindet sich im Menü **Dashboard** unter **Abrechnung**. Dort können Sie Ihren Abrechnungsverlauf und -trend, Links zu Ihrer Rechnung und zu den Abstimmungsdateien sowie Ihre letzte Zahlung anzeigen.
+Ihre Rechnung wechseln Sie zum Menü " **Partner Center** ", und wählen Sie dann, **Abrechnung** , um Ihren Abrechnungsverlauf und -Trend, Links zu Ihrer Rechnung und abstimmungsdatei sowie Ihre letzte Zahlung anzeigen anzuzeigen.
 
 Partner im Cloud Solution Provider-Programm mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte und die nutzungsbasierte Abonnements).
 

@@ -4,22 +4,22 @@ description: Sie können Ihren Kunden im Partner Center jetzt Azure-Abonnements 
 author: Labrenne
 keywords: Azure, Abonnement für Azure, Abonnement, Abonnements, Abonnement zuweisen, Abonnement für Azure verwalten
 ms.localizationpriority: medium
-ms.openlocfilehash: cb683e97d5983b3bb8693efb93b91c0569ab0513
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 3c0c82d60ec5032357ab21421b89c5f578d5fe1d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377562"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489026"
 ---
-# <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>Zuweisen von Azure-Abonnements im Partner-Dashboard
+# <a name="assign-azure-subscriptions-in-partner-center"></a>Zuweisen von Azure-Abonnements im Partner Center
 
 **Betrifft:**
 
 -  Partner Center
  
-## <a name="assign-azure-subcriptions-to-your-customers-in-the-partner-dashboard"></a>Zuweisen von Azure-Abonnements an Kunden im Partner-Dashboard
+## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>Zuweisen von Azure-Abonnements an Kunden im Partner Center
 
-1. Wählen Sie **Kunden** aus dem Menü des **Dashboards**, und suchen Sie den Kunden, den verwalten möchten.
+1. Wählen Sie **Kunden** aus Ihrem **Partner Center** -Menü, und suchen Sie den Kunden, die, den Sie verwalten möchten.
 
 2.  Wählen Sie den Pfeil nach unten am Ende der Zeile, um die Kundendaten zu erweitern, und wählen Sie dann **Microsoft Azure-Verwaltungsportal** aus. Sie werden an das Azure-Portal weitergeleitet, in dem Sie das Abonnement des Kunden verwalten können. 
 

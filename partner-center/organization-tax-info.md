@@ -3,12 +3,12 @@ title: Organisationssteuerinformationen | Partner Center
 description: Gegebenenfalls muss die Umsatzsteuer-Identifikationsnummer Ihres Unternehmens hinzugefügt werden
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 20fef48dcd72de52abe6917c363e5d96f1213072
-ms.sourcegitcommit: a4ac47d85af00696d3b625ecaf448d8ecaf8275d
+ms.openlocfilehash: 84e85e54f9098c7cae57e1bd7f5415b0389b409d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4381760"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488656"
 ---
 # <a name="organization-tax-information"></a>Organisationssteuerinformationen
 
@@ -20,7 +20,7 @@ Steuern für Einkäufe im Windows Store für Unternehmen werden durch Ihre Gesch
 
 ### <a name="add-your-vat-id"></a>Hinzufügen Ihrer Umsatzsteuer-ID
 
-1.  Wechseln Sie im **Dashboard** zu **mitgliedschaftsangebote**-> **verfügbar**
+1.  Wechseln Sie im **Partner Center** zu **mitgliedschaftsangebote**-> **verfügbar**
 2.  Wählen Sie **Hinzufügen Ihrer Umsatzsteuer-ID**
 3.  Geben Sie die USt-ID für Ihre Organisation, wählen Sie **Hinzufügen** , und wählen Sie dann **Weiter**.
 

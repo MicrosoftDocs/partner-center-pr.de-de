@@ -4,12 +4,12 @@ description: In einigen Fällen können Kunden Sie zum Bereitstellen und Unterst
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a10d766f9b9f92a26e0c247b3a20dfab1fb50fe
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6706d8326de77da1ccfb952d39c294f271b3d3ef
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377482"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489416"
 ---
 # <a name="multi-channel-support"></a>Multichannel-Unterstützung
 
@@ -19,7 +19,7 @@ ms.locfileid: "4377482"
 -  Partner Center für Microsoft Cloud for US Government
 -  Partner Center für Microsoft Cloud Deutschland
 
-Das Multichannel-Feature in Partner-Dashboard unterstützt Szenarien, in denen ein Kunde einen Partner für die Verwaltung und den Support eines an anderer Stelle erworbenen Abonnements beauftragen möchte. Dieser Multichannel-Support ist in folgenden Fällen erforderlich:
+Das Multichannel-Feature im Partner Center unterstützt Szenarien, wenn ein Kunde einen Partner für Verwaltung und den support eines an anderer Stelle erworbenen Abonnements beauftragen möchte. Dieser Multichannel-Support ist in folgenden Fällen erforderlich:
 
 -   Der Kunde hat bereits Abonnements direkt von Microsoft oder über die Programme Advisor, Open oder EA erworben.
 
@@ -47,7 +47,7 @@ Das Multichannel-Feature in Partner-Dashboard unterstützt Szenarien, in denen e
 </table>
 
 > [!IMPORTANT]  
-> Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Ankündigungen der künftigen Versionen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich dem Partner-Dashboard. 
+> Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Ankündigungen der künftigen Versionen werden über die üblichen Kommunikationskanäle, einschließlich dem Partner Center Kommunikationskanäle vorgenommen werden. 
 
 ## <a name="see-also"></a>Weitere Informationen:
 

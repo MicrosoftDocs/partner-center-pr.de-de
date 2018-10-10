@@ -1,27 +1,27 @@
 ---
 title: Microsoft Azure Reservations im Auftrag Ihrer Kunden kaufen | Partner Center
-Description: Buy Azure reservations on behalf of customers in your Partner Dashboard.
+Description: Buy Azure reservations on behalf of customers in Partner Center.
 author: v-petand
 keywords: Azure, Reservierungen, verwalten, Abrechnung, kaufen
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a557bdea13e69b9d02a2a6039625d43c8483751
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e318331f779052dedb9fe7ee25351dc66b14b463
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877140"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488766"
 ---
-# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-the-partner-dashboard"></a>Kaufen Sie Microsoft Azure Reservations im Auftrag Ihrer Kunden im Partner-dashboard 
+# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-the-partner-center"></a>Kaufen Sie Microsoft Azure Reservations im Auftrag Ihrer Kunden im Partner Center 
 
 **Betriff:**
 
--  Partner-dashboard
+-  Partner Center
 -  Microsoft Azure-Portal
 -  CSP-Partner
 
-Gehen Sie folgendermaßen vor, um Microsoft Azure Reservations im Auftrag Ihrer Kunden im Partner-Dashboard kaufen.
+Gehen Sie folgendermaßen vor, um Microsoft Azure Reservations im Auftrag Ihrer Kunden im Partner Center kaufen.
 
-1. Wählen Sie im Menü Dashboard die Option **Kunden** aus.  
+1. Wählen Sie **Kunden** aus dem Menü "Partner Center".  
 
 2. Auf der Seite **Kunden**, suchen Sie den Kunden, der Azure Reservations kaufen möchte, und wählen Sie dann den Pfeil nach unten, um den Datensatz des Kunden zu erweitern.  
 
@@ -32,9 +32,9 @@ Gehen Sie folgendermaßen vor, um Microsoft Azure Reservations im Auftrag Ihrer 
     >[!IMPORTANT] 
     >Wenn der Kunde bereits ein Azure-Abonnement besitzt, wählen Sie **Online-Dienste** , um ein neues hinzuzufügen. 
 
-5. Verwenden Sie die Filter, um reservierte Instanzen zu suchen, die Ihre Kunden zu erfüllen.  
+5. Verwenden Sie die Filter, um reservierte Instanzen zu suchen, die Ihre Kunden erfüllen.  
 
-6. Nachdem Sie reservierten Instanzen, die Sie kaufen finden, geben Sie die Anzahl der reservierten Instanzen möchten wird der Kunde müssen in **Menge** und wählen Sie dann **in den Einkaufswagen**.  
+6. Nach dem finden Sie auf der reservierten Instanzen, die Sie verwenden möchten, kaufen, geben Sie die Anzahl der reservierten Instanzen wird der Kunde müssen in **Menge** und wählen Sie dann **in den Einkaufswagen**.  
 
 7. Wiederholen Sie die Schritte5 und 6, bis Sie alle erforderlichen Elemente hinzugefügt haben. Wählen Sie **Überprüfung**, um sicherzustellen, dass Ihre Bestellung korrekt ist.  
 
@@ -42,9 +42,9 @@ Gehen Sie folgendermaßen vor, um Microsoft Azure Reservations im Auftrag Ihrer 
 
     a. Überprüfen Sie oder ändern Sie die Menge der reservierten Instanzen.
 
-    b. Wählen Sie den reservierungsbereich aus. Der Reservierungsbereich kann ein Abonnement oder mehrere Abonnements (freigegebener Bereich) umfassen. Wenn Sie ein einzelnes Abonnement auswählen, wird der reservierungsrabatt auf diesem Abonnement angewendet. Bei Auswahl freigegeben, um alle Abonnements im Kontext der kundenabrechnung des Kunden der reservierungsrabatt angewendet wird. 
+    b. Wählen Sie den reservierungsbereich aus. Der Reservierungsbereich kann ein Abonnement oder mehrere Abonnements (freigegebener Bereich) umfassen. Wenn Sie ein einzelnes Abonnement auswählen, wird der reservierungsrabatt auf diesem Abonnement angewendet. Bei Auswahl von freigegeben, um alle Abonnements im Kontext der kundenabrechnung des Kunden der reservierungsrabatt angewendet wird. 
 
-    c. Wenn Sie ein Lösungsanbieter-Partner sind, wählen Sie den Vertriebspartner, die, den Sie mit dem Produkt zuordnen möchten.
+    c. Wenn Sie ein Lösungsanbieter-Partner sind, wählen Sie den Vertriebspartner, dem Produkt zugeordnet werden soll.
 
 9. Wählen Sie **Kaufen**, um die Bestellung zu erwerben. 
 
@@ -57,7 +57,7 @@ Gehen Sie folgendermaßen vor, um Microsoft Azure Reservations im Auftrag Ihrer 
 |**Weitere Informationen**   |**Bitte lesen**    |
 |:-----------------------------|:-----------------|
 |Azure Reservations in CSP (Übersicht)  | [Verkaufen Microsoft Azure Reserved Instances](azure-reservations.md) |
-|Verwalten von Azure Reservations in Ihrem Partner-Dashboard | [Verwalten von Azure Reservations in Ihrem Partner-Dashboard](azure-reservations-manage.md)
+|Verwalten von Azure Reservations im Partner Center | [Verwalten von Azure Reservations im Partner Center](azure-reservations-manage.md)
 |Bestimmen Sie die richtige Größe für den virtuellen Computer, und überprüfen Sie die Kunden VM-Nutzung   |[VM-Größe für die maximale Azure Reservations-Nutzung](azure-usage.md)   |
 |Erwerb von Azure Reservations über die Partner Center-API | [Erwerben Sie Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in die Partner Center-Entwicklerdokumentation
 

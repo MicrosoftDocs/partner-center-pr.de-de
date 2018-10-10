@@ -4,12 +4,12 @@ description: Bewerten, Verhandeln und Beantworten von Empfehlungen über Partner
 author: KPacquer
 keywords: Empfehlung, RFI, Partner suchen
 ms.localizationpriority: medium
-ms.openlocfilehash: 70ba5b0afac8283806955410e57d459c849ed4f4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 4467a6404718a21d206980e77a9a84d7f77432dc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875420"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489456"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Reaktion auf Empfehlungen in Partner Center
 
@@ -29,7 +29,7 @@ Beginnen Sie durch das Einrichten eines [Unternehmensprofils](create-a-marketing
 
 Wenn ein Kunde interessiert daran ist, sich an Sie zu wenden, übermittelt er eine Informationsanfrage (Request for Information, RFI). 
 
-In diesem Fall senden wir eine E-Mail an den Kontakt in Ihrem [Unternehmensprofil](create-a-marketing-profile.md), das speziell für die ausgewählte Region und den ausgewählten Standort gilt. Sie können auch eingehende RFIs im Partner Center anzeigen: Wechseln Sie zu **Dashboard > Empfehlungen > Customer referrals**.
+In diesem Fall senden wir eine E-Mail an den Kontakt in Ihrem [Unternehmensprofil](create-a-marketing-profile.md), das speziell für die ausgewählte Region und den ausgewählten Standort gilt. Sie können auch eingehende RFIs im Partner Center anzeigen: Wechseln Sie zu **Partner Center > Empfehlungen > Customer Referrals**.
 
 Kunden senden häufig die gleiche RFI an mehrere Unternehmen gleichzeitig. Um Ihre Erfolgschancen zu erhöhen, empfehlen wir, innerhalb von maximal 24Stunden auf neue Empfehlungen zu reagieren und sie zu akzeptieren oder abzulehnen.
 

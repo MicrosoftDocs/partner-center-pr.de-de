@@ -4,12 +4,12 @@ description: Bewerten, Verhandeln und Beantworten von Empfehlungen über Partner
 author: KPacquer
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: def007588180904b929cd568b43a04548e574cd6
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2eae340cdd0b2418b8498f69ea4fd17d76a30b58
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875360"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489336"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analysieren der Effektivität von Unternehmensprofilen
 <!-- 
@@ -26,7 +26,7 @@ Nachdem Sie das [Unternehmensprofil](create-a-marketing-profile.md) Ihres Untern
 
 Wenn Sie [auf Empfehlungen reagieren](responding-to-referrals.md) erhalten Sie Daten zu diese RFIs und deren Umwandlung in Geschäftsabschlüsse.
 
-Mithilfe dieser Berichte können Sie Ihre Unternehmensprofile optimieren, mehr Leads generieren und relevantere Leads generieren. Ihre Daten zeigen die Leistung des Profils, Trendanalysen und zeigen Bereichen auf, die eine Aktion erfordern. Navigieren Sie vom Partner-Dashboard zu **Empfehlungen > Marketingseiten**.
+Mithilfe dieser Berichte können Sie Ihre Unternehmensprofile optimieren, mehr Leads generieren und relevantere Leads generieren. Ihre Daten zeigen die Leistung des Profils, Trendanalysen und zeigen Bereichen auf, die eine Aktion erfordern. Das Partner Center-Menü, wechseln Sie zu **Empfehlungen > Marketingseiten**.
 
 Diese Berichte zeigen die Leistung der Unternehmensprofile für alle Regionen an. Die Berichte zeigen Daten für die letzten 90Tage nach Wochen gruppiert an.
 

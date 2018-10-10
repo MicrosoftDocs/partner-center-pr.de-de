@@ -4,12 +4,12 @@ description: Analysieren Sie Ihr Unternehmen mithilfe der Datenfunktionen im Par
 author: labrenne
 keywords: Daten, Analysen, Datenanalysen, Power BI
 ms.localizationpriority: medium
-ms.openlocfilehash: e76fc54712628808599d63a799d009821c81343b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 472fea265a29b457bb29ac0545a69e5dd87c160d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877160"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489696"
 ---
 # <a name="get-data-and-analyze-your-business"></a>Daten zum Analysieren Ihres Unternehmens 
 
@@ -25,7 +25,7 @@ Die Planung von Möglichkeiten zur Entwicklung Ihres CSP-Geschäfts setzt voraus
 
 |**Daten**   |**Bitte herunterladen**   |**Bitte lesen**   | **Betrifft:**    |
 |---------------------|:-----------------------|:---------------|:--------------|
-|Wie Ihre Kunden erworbene Lizenzen verwenden   |Bereitstellung und Nutzung von Daten aus Ihrem Dashboard = > Produktanalyse   |[Steigern von Akzeptanz und Zufriedenheit](increasing-adoption-and-satisfaction.md)|CSP-Partner|
+|Wie Ihre Kunden erworbene Lizenzen verwenden   |Bereitstellung und Verwendung von Daten aus dem Partner Center = > Produktanalyse   |[Steigern von Akzeptanz und Zufriedenheit](increasing-adoption-and-satisfaction.md)|CSP-Partner|
 |Kundenaktivität in Bezug auf Abonnements   |Aktivitätsprotokolle   |[Anzeigen von Kundenaktivitätsprotokollen](activity-logs.md)|CSP-Partner   |
 |Ausbau des Kundenstamms, Verwendung, Azure-Nutzung und vieles mehr   |Partner Center-App für Power BI   |[Partner Center Analytics-App für Power BI (für direkte Partner im CSP)](power-bi-app-for-direct-partners.md)|CSP-Direktpartner|
 

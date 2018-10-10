@@ -4,12 +4,12 @@ description: Informationen zum Melden von Problemen mit Partner Center und zum S
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 373b233fda147f0d282a70322e04ce81e0b8d8a2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: c7010f70ae6af549aab1a8f1affb926cf261d534
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875290"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489276"
 ---
 # <a name="report-problems-with-partner-center"></a>Melden von Problemen mit dem Partner Center
 
@@ -19,11 +19,11 @@ ms.locfileid: "2875290"
 -  Partner Center für Microsoft Cloud for US Government
 -  Partner Center für Microsoft Cloud Deutschland
 
-Nehmen Sie Kontakt mit Partner-Dashboard-Support auf, wenn Sie Probleme mit Partner-Dashboard haben, einschließlich Fehlern oder Dienstausfällen.
+Kontakt Partner Center-Support, wenn Sie Probleme mit dem Partner Center, einschließlich Fehlern oder Dienstausfällen.
 
-**Melden eines Problems mit Partner-Dashboard**
+**Melden eines Problems mit Partner Center**
 
-1.  Wählen Sie im **Partner-Dashboard** das Symbol **Unterstützung** und dann **Partner Center-Anfragen** aus.
+1.  Klicken Sie in Ihrem **Partner Center**wählen Sie das Symbol " **Unterstützung** ", und wählen Sie dann **Partner Center-Anfragen**.
 
 2.  Wählen Sie **Neue Anfrage** aus.
 
@@ -31,10 +31,10 @@ Nehmen Sie Kontakt mit Partner-Dashboard-Support auf, wenn Sie Probleme mit Part
 
 **Senden von Diagnosen**
 
-Wenn ein Fehler auftritt, während Sie sich auf einer Partner-Dashboard-Seite befinden, werden Sie eventuell aufgefordert, Protokollinformationen zu sammeln. Wählen Sie aus den Link, der vom oberen Rand der Seite, um die Client-Diagnosetool zu öffnen nach unten klappt, **Weitere Informationen sammeln** . Dieses Tool sammelt Informationen, die das Partner-Support-Team benötigt, um die Ursache des Fehlers zu ermitteln. 
+Wenn ein Fehler auftritt, während Sie sich auf einer Partner Center-Seite befinden, werden Sie eventuell aufgefordert, Protokollinformationen zu sammeln. Wählen Sie aus den Link, der vom oberen Rand der Seite, um die Client-Diagnosetool zu öffnen nach unten klappt, **Weitere Informationen sammeln** . Dieses Tool sammelt Informationen, die das Partner-Support-Team benötigt, um die Ursache des Fehlers zu ermitteln. 
 
 >[!NOTE]
->Auf Partner-Dashboard-Seiten, die **/pcv/** in der URL enthalten, können Sie das Tool manuell öffnen, um diese Informationen zu erfassen.
+>Auf Partner Center-Seiten, die **/pcv/** in der URL enthalten, können Sie das Tool manuell öffnen, um diese Informationen zu erfassen.
 
 1.  Wechseln Sie auf die Seite mit dem Problem.
 
@@ -49,7 +49,7 @@ Sie erhalten eine Vorschau der Diagnoseinformationen und können diese auf eine 
 
 4.  Folgen Sie den Anweisungen auf dem Bildschirm, um die Datei zu speichern.
 
-5.  Fügen Sie die Datei Ihrer Supportanfrage an.
+5.  Fügen Sie die Datei auf Ihre Anfrage an.
 
 Partner-Support fordert möglicherweise, dieses Tool mehrmals auszuführen, um die aktuellsten Informationen zu erhalten.
 

@@ -4,12 +4,12 @@ description: Generieren Sie Geschäftsleads, und nehmen Sie Kontakt zu Kunden au
 author: KPacquer
 keywords: Empfehlungen, Unternehmensprofil, Partner suchen
 ms.localizationpriority: medium
-ms.openlocfilehash: ce9879cd727fd65ae3db1a7ee78b59556662ad53
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d06f2a6d435c9db5bc9b4d54ceb95cdeafc956b8
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874610"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489236"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -23,7 +23,7 @@ Viele Kunden suchen nach qualifizierten Experten, die bei der Implementierung de
 
 Wir möchten für Sie eine Verbindung mit Kunden herstellen, die Ihre Lösungen und das Fachwissen benötigen. Der wichtigste Schritt, Vertriebskontakte von uns zu erhalten ist unter [Erstellen eines Unternehmensprofils](create-a-marketing-profile.md), auf denen Sie Beispiele zu Angeboten, Lösungen und dem Fachwissen Ihres Unternehmens finden. Ihr Unternehmensprofil wird auf allen Orten aufgeführt, auf denen Kunden und interne Microsoft-Vertreter nach qualifizierten Partnern suchen. 
 
- Nachdem Sie Ihr Unternehmensprofil veröffentlicht haben können Sie Vertriebskontakten über die Funktion "Empfehlungen" im Partner-Dashboard erhalten. Es ist wichtig, auf Empfehlungen im erforderlichen Zeitraum zu reagieren, um weiterhin Leads zu erhalten und vor allen Dingen, Geschäfte zu gewinnen. Ausführliche Informationen über das Verwalten von Vertriebskontakten im Partner-Dashboard finden Sie unter [Antworten auf Empfehlungen](responding-to-referrals.md).  
+ Nachdem Sie Ihr Unternehmensprofil veröffentlicht haben, beginnen Sie Vertriebskontakten über die Funktion "Empfehlungen" im Partner Center zu erhalten. Es ist wichtig, auf Empfehlungen im erforderlichen Zeitraum zu reagieren, um weiterhin Leads zu erhalten und vor allen Dingen, Geschäfte zu gewinnen. Finden Sie weitere Informationen über das Verwalten von [Antworten auf Empfehlungen](responding-to-referrals.md) in Partner Center führt.  
 
 Viel Glück!
 

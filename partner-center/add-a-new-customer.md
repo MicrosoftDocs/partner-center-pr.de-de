@@ -5,12 +5,12 @@ ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 keywords: Kunden, Kunden hinzufügen, Kundenkonto, Kundenkonto im Partner Center, Hinzufügen von Kunden, Kundenkonto erstellen
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c157074bc2d64a1f25f27455e0d362c8050d5fe
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: abe2e5f39718ddebb69d875febe3d06637b7ebc2
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876860"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490206"
 ---
 # <a name="add-a-new-customer"></a>Neuen Kunden hinzufügen
 
@@ -21,13 +21,13 @@ ms.locfileid: "2876860"
 -  Partner Center für Microsoft Cloud Deutschland
 
 
-Damit Sie Abonnements verkaufen, die Abrechnung verwalten oder Support bereitstellen können, müssen Sie ein Konto für den Kunden in Partner-Dashboard erstellen. Dieser Datensatz enthält die Kontaktinformationen und eine AzureAD-Domäne.
+Bevor Sie können Abonnements verkaufen, Abrechnung verwalten oder unterstützen, müssen Sie ein Konto für Ihre Kunden in Ihrem Partner Center erstellen. Dieser Datensatz enthält die Kontaktinformationen und eine AzureAD-Domäne.
 
 Für Kunden, die aufgrund eines [Multichannel](multichannel.md)- oder [Multipartner](multipartner.md)-Szenarios bereits ein Kundenkonto besitzen, können Sie [eine Kundenbeziehung anfordern](request-a-relationship-with-a-customer.md), statt die hier aufgeführten Schritte auszuführen.
 
 **Neuen Kunden hinzufügen**
 
-1.  Wählen Sie im Menü **Dashboard** die Option **Kunden**. Wählen Sie dann **Kunden hinzufügen**.
+1.  Wählen Sie im **Partner Center** -Menü **Kunden**aus. Wählen Sie dann **Kunden hinzufügen**.
 
 2.  Geben Sie auf der Seite **Kontoinformationen** die Unternehmensdetails und die primären Kontaktinformationen ein, und wählen Sie dann **Weiter: Abonnements**.
 

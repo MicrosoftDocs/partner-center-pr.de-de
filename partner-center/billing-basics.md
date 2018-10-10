@@ -4,12 +4,12 @@ Description: Information on basic billing scenarios and the differences between 
 author: labrenne
 keywords: Abrechnung, Zahlungen, Aufträge, Abbruch, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Abstimmungsdateien, Abstimmungsdatei
 ms.localizationpriority: medium
-ms.openlocfilehash: 98b4edcbc7c10e73b59f89b74494ae363a306745
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 85b1fc90a65ca8c982dd58bc51130488e09e86de
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876390"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490066"
 ---
 # <a name="billing-basics"></a>Grundlagen zur Abrechnung
 
@@ -55,7 +55,7 @@ Sie haben nun eine Option für jährliche Abrechnung zusätzlich zur Option "Mon
 <tr class="even">
 <td>Rechnungsverfügbarkeit</td>
 <td><ul>
-<li>Sie können Ihre Rechnungen und Erstattungsdateien auf der Abrechnungsseite im Partner-Dashboard anzeigen und herunterladen. Monatliche Rechnungen sind im Partner-Dashboard innerhalb von vier (4) Tagen nach Ablauf des ausgewählten Abrechnungsdatums verfügbar.</li>
+<li>Sie können Ihre Rechnungen und Erstattungsdateien auf der Abrechnungsseite im Partner Center anzeigen und herunterladen. Monatliche Rechnungen sind im Partner Center innerhalb von vier (4) Tagen nach Ablauf des ausgewählten Abrechnungsdatums verfügbar.</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -155,23 +155,23 @@ Die Kunden bezahlen im Voraus für Azure Reserved VM Instances. Wenn Sie Azure R
 >[!IMPORTANT]
 >Wenn Sie Azure Reserved VM Instances für einen Kunden in einem Markt mit einer anderen Währung, als der standardmäßigen Währung erwerben, basiert die Abrechnung auf dem Markt des Kunden, nicht Ihrem Standort. Wenn Sie Kunden in mehreren Märkten haben, erhalten Sie verschiedene Rechnungen und Abgleichungsdateien für jede Währung der Kunden, die in Rechnung gestellt werden, damit Ihre Kunden in der entsprechenden Währung in Rechnung gestellt werden. 
 
-Um auf einmalige Rechnungen und Abgleichungsdateien zuzugreifen, wählen Sie **Abrechnung** von Ihrem Partner-Dashboard und dann **einmal**. 
+Um auf einmalige Rechnungen und abgleichungsdateien zuzugreifen, wählen Sie aus dem Partner Center **Abrechnung** , und wählen Sie dann **ein Mal**. 
 
 ### <a name="manage-your-one-time-billing"></a>Die einmalige Gebühr verwalten
 
 #### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>Anzeigen des aktuellen Abrechnungsstatus, Rechnungen und Abstimmungsdateien
 
-1.  Wählen Sie in Partner-Dashboard **Abrechnung** und **einmal** aus, um Ihren Rechnungsstatus anzuzeigen. 
+1.  Wählen Sie im Partner Center **Abrechnung** und anschließend **einmal** um Ihren Rechnungsstatus anzuzeigen. 
 2.  Wählen Sie eine Rechnung oder Abstimmungsdatei, um ausführlichere Informationen anzuzeigen. 
 
 #### <a name="view-a-customers-order-history"></a>Bestellverlauf eines Kunden anzeigen
 
-1.  Wählen Sie im Menü Dashboard die Option **Kunden** aus.
+1.  Wählen Sie **Kunden** aus dem Menü "Partner Center".
 2.  Auf der Seite **Kunden**, suchen Sie den Kunden, deren Bestellverlauf Sie anzeigen möchten, und wählen Sie dann den Pfeil nach unten, um den Datensatz des Kunden zu erweitern. 
 3.  Wählen Sie **Aufträge anzeigen**, um den Bestellverlauf anzuzeigen.
 
-#### <a name="download-a-credit-note"></a>Eine Gutschrift herunterladen
+#### <a name="download-a-credit-note"></a>Laden Sie eine Gutschrift
 
-Den Fall, dass Sie eine vollständige Gutschrift (Void Rechnung) und Rückbuchung testen, müssen wir Sie eine Gutschrift der ursprünglichen Rechnung und auch ein vollständiger neues Dokument Abbrechen bieten. Sie können eine Gutschrift/Rückbuchung aus folgenden Gründen anfordern:
--   Beheben oder -Einkaufs-Reihenfolge Korrekturen
--   Rechnung generiert, und klicken Sie dann eine Steuerrückerstattung angewendet wurde. Sie können eine Gutschrift/Rückbuchung, die Steuer Rückerstattung gezogen zurück in die ursprüngliche Rechnung anfordern. Dies gilt auch für Erstattungen, wie Sie eine Gutschrift/Rückbuchung der ursprünglichen Rechnung und dann durch Ziehen in eine Rückerstattung anfordern können.
+Den Fall, dass Sie eine vollständige Gutschrift (Void Rechnung) und Rückbuchung ausüben, erhalten wir Sie eine Gutschrift der ursprünglichen Rechnung und auch ein vollständig neues Dokument abbrechen. Sie können eine Gutschrift/Rückbuchung aus folgenden Gründen anfordern:
+-   Adresse oder den Kauf Reihenfolge Korrekturen
+-   Rechnung generiert und anschließend eine Steuerrückerstattung angewendet wurde. Sie können eine Gutschrift/Rückbuchung für das Geschäftsjahr Rückerstattung wieder in der ursprünglichen Rechnung gezogen anfordern. Dies gilt auch für Erstattungen, wie Sie eine Gutschrift/Rückbuchung der ursprünglichen Rechnung und dann durch Ziehen in eine Rückerstattung anfordern können.

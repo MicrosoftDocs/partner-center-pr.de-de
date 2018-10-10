@@ -1,15 +1,15 @@
 ---
 title: Verwalten der Microsoft Partner Network-Vorteile | Partner Center
-description: Als Microsoft Partner Network-Mitglied haben Sie Anspruch auf den Erwerb bestimmter Mitgliedschaftsvorteile. Hier wird erläutert, wie Sie Ihre Mitgliedschaftsvorteile in Ihrem Partner-Dashboard aktivieren und verwalten.
+description: Als Microsoft Partner Network-Mitglied haben Sie Anspruch auf den Erwerb bestimmter Mitgliedschaftsvorteile. Erläutert das Aktivieren und Verwalten Ihrer mitgliedschaftsvorteile im Partner Center.
 author: MaggiePucciEvans
 keywords: MPN, Mitgliedschaftsvorteile, Mitgliedschaft
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b79073435715c91a6c77da266ec3420c139d8e3
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a7cd65f2f846357ed9ae98def154bf8e8db94314
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377722"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489796"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile
 
@@ -18,12 +18,12 @@ ms.locfileid: "4377722"
 -  Partner Center
 
 >[!IMPORTANT]
->In diesem Artikel wird erläutert, wie Sie beginnen können, Ihre Microsoft Partner Network (MPN)-Mitgliedschaftsvorteile im Partner-Dashboard (früher als Partner Center bezeichnet) zu nutzen – diese Website. Wenn Sie keine Einladung zum Verschieben Ihrer Unternehmensinformationen vom Partner Membership Center (PMC) zum Partner-Dashboard erhalten haben, sollten Sie Ihre MPN-Mitgliedschaftsvorteile weiterhin im PMC verwalten. [Melden Sie sich](https://partner.microsoft.com/_login?authType=OpenIdConnect) jetzt beim PMC an.   
+>In diesem Artikel wird erläutert, wie für die Verwendung Ihrer Microsoft Partner Network (MPN)-mitgliedschaftsvorteile im Partner Center (früher als Partner Center bezeichnet) – dieser Website. Wenn Sie eine Einladung zum Verschieben Ihrer Unternehmensinformationen vom Partner Membership Center (PMC) zum Partner Center erhalten haben, sollten Sie weiterhin Ihre MPN-mitgliedschaftsvorteile in PMC verwalten. [Melden Sie sich](https://partner.microsoft.com/_login?authType=OpenIdConnect) jetzt beim PMC an.   
 
 Wenn Sie dem Microsoft Partner Network (MPN) beitreten, erhalten Sie Zugriff auf Mitgliedschaftsvorteile, die Ihnen können, Ihr Geschäft auf- und auszubauen. Wenn Sie noch kein Mitglied von MPN sind, können Sie jetzt auf der [MPN-Website](https://partner.microsoft.com/membership) beitreten.
 
 
-## <a name="manage-your-membership-benefits-in-the-dashboard"></a>Verwalten Ihrer Mitgliedschaftsvorteile im Dashboard
+## <a name="manage-your-membership-benefits-in-the-partner-center"></a>Verwalten Sie Ihrer mitgliedschaftsvorteile im Partner Center
 
 Nach dem Erwerb eines Mitgliedschaftsvorteilspakets müssen Sie Softwareschlüssel erhalten und Lizenzen, Abonnements sowie andere Vorteile zu Mitarbeitern zuweisen, damit diese sie nutzen können. 
 
@@ -89,9 +89,9 @@ Navigieren Sie zum Anzeigen und Verwalten Ihrer Mitgliedschaftsvorteile zur Seit
    
     a.  Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen** [neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
 
-    b.  Geben Sie eine E-Mail-Adresse für den Benutzer an, die sich von der E-Mail-Adresse unterscheidet, die dem Dashboard-Konto Ihres Unternehmens zugeordnet ist. 
+    b.  Geben Sie eine E-Mail-Adresse für den Benutzer ein, die sich von der E-Mail-Adresse unterscheidet, die dem Partner Center-Konto zugeordnet ist. 
     
-    Zur Sicherheit senden wir Anweisungen für den Zugriff auf den Microsoft-Produktsupport nicht nur an die Dashboard-Konto-E-Mail-Adresse des Benutzers, sondern auch an diese E-Mail-Adresse. Beachten Sie, dass das Aktivieren dieses Vorteils und das Senden von Anweisungen per E-Mail an den zugewiesenen Benutzer mehrere Tage dauern kann.    
+    Zur Sicherheit werden wir Anweisungen für den Zugriff auf den Microsoft-Produktsupport nicht nur an die Partner Center-Konto-E-Mail, sondern auch an diese E-Mail-Adresse senden. Beachten Sie, dass das Aktivieren dieses Vorteils und das Senden von Anweisungen per E-Mail an den zugewiesenen Benutzer mehrere Tage dauern kann.    
     
     c.  Nachdem Sie die alternative E-Mail-Adresse eingegeben haben, wählen Sie **Benutzer zuweisen** aus. 
 

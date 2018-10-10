@@ -3,12 +3,12 @@ title: Migrieren von Office365 E4-Abonnements zu neueren Versionen von Office365
 description: Microsoft Office365 Enterprise E4 Edition ist seit 7.April2017 eingestellt. Hier erfahren Sie, wie Sie Ihre Kundenabonnements zu neueren Versionen von Office365 migrieren.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e6efcc3227f426a9b83c7579534e0b6ad68188da
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 75999aa004ae03d4ec871fc706d757a192105320
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377712"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490176"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrieren von Abonnements für Office365 E4 zu neueren Versionen von Office365
 
@@ -65,7 +65,7 @@ Führen Sie die folgenden Schritteaus, um das Office365 Enterprise E4-Abonnement
 
 ### <a name="step-1---purchase-the-new-subscription"></a>Schritt 1: Kauf des neuen Abonnements
 
-1. Wählen Sie im Menü **Dashboard**&nbsp;**Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend **Abonnements hinzufügen** aus.
+1. Wählen Sie im **Partner Center** wählen Sie **Kunden aus**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie dann **Abonnements hinzufügen**.
 
 2. Wählen Sie aus dem Katalog das Abonnement aus, das Sie kaufen möchten (in diesem Fall eine der oben genannten Optionen), geben Sie die nötigen Anzahl von Lizenzen ein, und wählen Sie dann **Übermitteln** aus.
 
@@ -73,7 +73,7 @@ Führen Sie die folgenden Schritteaus, um das Office365 Enterprise E4-Abonnement
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>Schritt2: Neuzuweisen der Benutzerlizenzen des Kunden
 
-1. Wählen Sie im Menü **Dashboard**&nbsp;**Kunden** aus, und wählen Sie den Kunden aus, den Sie migrieren möchten. Wählen Sie anschließend **Benutzer und Lizenzen** aus. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
+1. Wählen Sie im **Partner Center** wählen Sie **Kunden aus**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie dann **Benutzer und Lizenzen**. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
 
 2. Um Benutzerlizenzen neu zuzuweisen, wählen Sie den Benutzer aus, der neu zugewiesen werden soll, und anschließend **Verwalten von Lizenzen**.
 
@@ -87,7 +87,7 @@ Nachdem Sie die Benutzerlizenzen zum neuen Dienst migriert haben, können Sie da
 
 ### <a name="step-3---cancel-the-old-subscription"></a>Schritt 3: Stornieren des alten Abonnements
 
-1. Wählen Sie im Menü **Dashboard** die Option **Kunden** aus. Wählen Sie den Kunden aus, den Sie verschieben möchten, und wählen Sie das Abonnement, das Sie stornieren möchten.
+1. Wählen Sie im **Partner Center** -Menü **Kunden**aus. Wählen Sie den Kunden aus, den Sie verschieben möchten, und wählen Sie das Abonnement, das Sie stornieren möchten.
 
 2. Legen Sie auf der Seite für Abonnementdetails den Abonnementstatus auf **Ausgesetzt** fest.
 

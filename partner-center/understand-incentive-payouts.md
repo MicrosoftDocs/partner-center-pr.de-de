@@ -3,14 +3,14 @@ title: Informationen zu den Anreizauszahlungen | Partner Center
 description: Zeigen Sie die Einnahmen und Auszahlungen für Incentiveprogramme an.
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fb41598dfb79b8bbaee593aaffbd0cd79efbdd2c
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 962d7d518d6d6842aee512bd48a50b6e4695d849
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877430"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489866"
 ---
-#<a name="understand-your-incentive-payouts"></a>Informationen zu den Incentiveauszahlungen
+#<a name="incentive-payouts-overview"></a>Übersicht über die Incentive Auszahlungen
 
 **Betrifft:**
 

@@ -4,12 +4,12 @@ description: Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Un
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 07061b8223001922b91e7d94b33340f7cd4a6aa1
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 8159d203a64632ff8802af5acdd1cb35a194a2ae
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377612"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489596"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Steigerung von Einführungsrate und Zufriedenheit
 
@@ -29,11 +29,11 @@ Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wä
 
 **Einzelner Kunde**
 
--   Wählen Sie im **Dashboard** die Option **Kunden**, dann einen Kundennamen und schließlich **Kundendaten** aus.
+-   Wählen Sie **Kunden** aus dem **Partner Center**, wählen Sie einen Kunden, und wählen Sie dann **Kundendaten**.
 
 **Ganzes Portfolio**
 
-1.  Wählen Sie auf dem **Dashboard** die Option **Analysieren**.
+1.  Wählen Sie im **Partner Center** **Analysieren**.
 2.  Laden Sie Bereitstellungs- und Nutzungsdaten Ihres gesamten Kundenstamms herunter, indem Sie die Optionen für den **Export** auswählen.
 
 Terminologie:

@@ -1,15 +1,15 @@
 ---
 title: Verlängern von MPN-Angeboten | Partner Center
-description: Verlängern von MPN-Angeboten im Partner-Dashboard
+description: Verlängern von MPN-angeboten im Partner Center
 author: labrenne
 keywords: MPN, Microsoft Action Pact, MAPS, Kompetenz erneuern, Verlängerungsdatum
 ms.localizationpriority: medium
-ms.openlocfilehash: 6347536a0b2dfd4af682ef98d1c130f65a68410e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b31a73706c6f88d67aabc8ec4bf0e79297de2978
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875480"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489346"
 ---
 # <a name="renew-your-mpn-offers"></a>Verlängern von MPN-Angeboten
 
@@ -17,9 +17,9 @@ ms.locfileid: "2875480"
 
 - Partner Center
 
-Ihr Verlängerungsfenster für ein MPN-Abonnement beginnt am Jahrestag des Kaufdatums plus einem Tag. Wenn Sie beispielsweise das Microsoft Action Pack am 1 September 2018 gekauft haben, beginnt das Verlängerungsfenster am 2. September 2019. Sie können Ihr Abonnement über das Partner-Dashboard verlängern.
+Ihr Verlängerungsfenster für ein MPN-Abonnement beginnt am Jahrestag des Kaufdatums plus einem Tag. Wenn Sie beispielsweise das Microsoft Action Pack am 1 September 2018 gekauft haben, beginnt das Verlängerungsfenster am 2. September 2019. Sie können Ihr Abonnement im Partner Center verlängern.
 
-Im **Dashboard** wählen Sie **Mitgliedschaftsangebote**.
+Wählen Sie aus dem **Partner Center** **mitgliedschaftsangebote**.
 Auf der Registerkarte **Gekauft** wird für jedes von Ihnen gekaufte Angebot Folgendes angezeigt:
 
 - Ablaufdatum

@@ -3,12 +3,12 @@ title: Angebote von Drittanbietern | Partner Center
 description: Wenn Ihr Unternehmen wächst, können Sie Ihr Portfolio weiterentwickeln und um Angebote von Drittanbietern für Ihre Produktpakete erweitern.
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8972c59781276e9c1c839e02f3dd0d196bed7f71
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 087154d9e1729eb80273094edba285ce83cc4b4c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874590"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490116"
 ---
 # <a name="third-party-offers"></a>Drittanbieterangebote 
 
@@ -16,18 +16,18 @@ ms.locfileid: "2874590"
 
 - Partner Center
 
-Drittanbieterangebote sind ein neues kommerzielles Feature im Partner Center, mit dem direkte und indirekte Händlerpartner, die über das Cloud Solution Provider-Programm (CSP) verkaufen, die Abwicklung, die Verwaltung und den Support von SaaS-Lösungen von Drittanbietern durchführen können.  
+Drittanbieter-Angebote ist ein Feature im Partner Center, die direkte bereitstellt und indirekte Händlerpartner, die über das Cloud-Lösungsanbieter-Programm (CSP) die Möglichkeit, Transaktionen durchzuführen, verkaufen Verwaltung und den support von SaaS-Lösungen von Drittanbietern.  
 
 Mit den Drittanbieterangeboten können CSP-Partner nicht nur Erstanbieter- oder Microsoft-Lösungen erwerben, sondern auch von Lösungen von Drittanbietern oder ISV-Partnern … all das über eine einzelne kommerzielle Plattform und mit einer Rechnung.  Wenn Ihr Unternehmen wächst, können Sie Ihr Portfolio weiterentwickeln und um Angebote von Drittanbietern für Ihre Produktpakete erweitern. 
 
-Im Partner Center finden Sie jetzt viele verschiedene Drittanbieterangebote, die mit Microsoft-Produkten zusammenarbeiten. Ihre Kunden profitieren von einer größeren Auswahl unterschiedlichster Lösungen, die von Ihnen– ihrem vertrauenswürdigen Microsoft-Partner– bequem an einer zentralen Stelle erkundet, verkauft und verwaltet werden können. Partner Center vereinfacht die Entdeckung, Abwicklung und Verwaltung dieser Services, sodass Sie Lösungen und ihre Vorteile schneller bereitstellen können.
+Finden Sie verschiedene Arten von drittanbieterangeboten im Partner Center, die mit Microsoft-Produkten zusammenarbeiten. Ihre Kunden profitieren von einer größeren Auswahl unterschiedlichster Lösungen, die entdeckt, verkauft und verwaltet werden einfach an einer zentralen Stelle von Ihnen – ihrem vertrauenswürdigen Microsoft-Partner werden müssen. Partner Center erleichtert das erkennen, Abwicklung und Verwaltung dieser Services, sodass Sie Lösungen und ihre Vorteile schneller bereitstellen können.
 
-## <a name="microsoft-partners-that-sell-through-our-cloud-solutions-program"></a>Microsoft-Partner, die über unser Programm für Cloud-Lösungen verkaufen
+## <a name="microsoft-partners-in-the-cloud-solution-provider-program"></a>Microsoft-Partner im Programm für Cloud-Lösungsanbieter
 
-Drittanbieterangebote sind auf eine einfache Verwaltung und problemlose Transaktionen ausgelegt.  Um Ihren Erfolg und die beste Erfahrung für Sie und Ihre Kunden sicherzustellen, empfehlen wir, die folgende Checkliste, mit der Sie noch heute Ihre ersten Schrittemit Drittanbieterangebote durchführen können:
+Drittanbieterangebote sind auf eine einfache Verwaltung und problemlose Transaktionen ausgelegt. Um die beste Erfahrung für Sie und Ihre Kunden zu gewährleisten, empfehlen wir die folgende Checkliste zum mit Drittanbieter-Angebote zu beginnen:
 
-1. Lesen Sie alle unten aufgeführten Materialien, beginnend mit dem Onboarding-Webinar und den häufig gestellten Fragen.
-2. Machen Sie sich mit den Drittanbieterangeboten im Partner Center-Katalog vertraut.
+1. Überprüfen Sie alle unten aufgeführten Materialien, beginnend mit dem Onboarding-Webinar und den häufig gestellten Fragen
+2. Machen Sie sich mit den drittanbieterangeboten im Partner Center-Katalog
 3. Wenden Sie sich an den ISV für Drittanbieterangebote, die Sie interessieren.
 4. Legen Sie Kontingente und Ziele für Ihre Verkäufer fest.
 5. Schulen Sie Ihre Verkäufer.

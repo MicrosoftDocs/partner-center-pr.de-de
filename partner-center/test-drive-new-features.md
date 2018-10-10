@@ -3,12 +3,12 @@ title: Testen von neuen Partner Center-Features
 description: Testen Sie die neuen Partner Center-Features vor der Freigabe, und teilen Sie uns Ihre Meinung mit. Helfen Sie bei der Gestaltung der Zukunft von Partner Center!
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e07db213f755fe24e98bd6dbfde08d226b09c75f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 38b6652275106dd7258e264f84a9d45259ffab5d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377572"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489466"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Testen von neuen Partner Center-Features
 
@@ -49,7 +49,7 @@ Wir bitten Sie, Ihre Ideen und Gedanken über eine bestimmte Vorschauversion ode
 
 -   Das Feedback-Formular in der unteren rechten Ecke des Partner Center-Fensters verwenden, um Ihr Feedback direkt an uns zu senden. 
 
--   Support anfordern, wenn Probleme mit einem Vorschaufeature auftreten. Wählen Sie zum Erstellen einer Supportanfrage **Supportanfragen > Partner Center-Anfragen** im Menü **Dashboard** und dann **Neue Anforderung** auf der Seite **Partner Center-Anfragen** aus.
+-   Support anfordern, wenn Probleme mit einem Vorschaufeature auftreten. Wählen Sie zum Erstellen einer Supportanfrage **Supportanfragen > Partner Center-Anfragen** aus dem Menü " **Partner Center** " und wählen Sie dann **neu anfordern** , auf der Seite " **Partner Center-Anfragen** ".
 
 Helfen Sie uns, Ihnen zu helfen.
 

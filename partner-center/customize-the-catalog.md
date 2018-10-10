@@ -4,12 +4,12 @@ description: Im Katalog sind alle Microsoft-Produkte und -Add-Ons aufgeführt, d
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 604bd206b8f80b990579a12fee019bf8a12689ca
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: ba9d9efd51d4b647e02e7f27b54e4259e90d782f
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874930"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488546"
 ---
 # <a name="customize-the-catalog"></a>Anpassen des Katalogs
 
@@ -23,7 +23,7 @@ Im Katalog sind Microsoft-Produkte und -Add-Ons aufgeführt, die Sie Ihren Kunde
 
 **Anpassen des Katalogs**
 
-1.  Wechseln Sie zum Dashboard-Menü auf &gt; **Verkaufen** &gt; **Katalog**.
+1.  Wechseln Sie zum Menü "Partner Center" &gt; **verkaufen** &gt; **Katalog**.
 2.  Wählen Sie bis zu fünf Angebote aus, die am Anfang des Katalogs angezeigt werden sollen.
 
  

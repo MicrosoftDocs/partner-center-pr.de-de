@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: Azure-Abonnement, Partner wechseln, Partner ändern, neue Partner, andere Partner
 ms.localizationpriority: medium
-ms.openlocfilehash: bfaf3d96760d8520935f3a872a11f14566eb0a52
-ms.sourcegitcommit: c45611276b62105c170ac3f2f3c8030b889c08f1
+ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "3966157"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488966"
 ---
 # <a name="transfer-azure-subscriptions"></a>Übertragen von Azure-Abonnements 
 
@@ -39,7 +39,7 @@ Kunden können den Cloud Solution Provider-Partner oder einen anderen Partner f�
 
     Erstellen eines Azure-Servicetickets in Partner Center, um eine Abonnementübertragung anzufordern.
 
-    -   Wählen Sie vom Menü „Dashboard“ die Option **Kunden** aus, und wählen Sie den Kunden aus der Liste aus. Wählen Sie anschließend **Dienstverwaltung** aus. Wählen Sie im Abschnitt **Supporttickets** die Dropdownliste **Neues Ticket** aus und anschließend **Microsoft Azure**.
+    -   Wählen Sie im Partner Center wählen Sie **Kunden aus**, wählen Sie den Kunden aus der Liste, und wählen Sie dann **Servicemanagement**. Wählen Sie im Abschnitt **Supporttickets** die Dropdownliste **Neues Ticket** aus und anschließend **Microsoft Azure**.
 
     -   Wählen Sie im Azure-Portal **Neue Supportanfrage** aus.
 
@@ -68,7 +68,7 @@ Kunden können den Cloud Solution Provider-Partner oder einen anderen Partner f�
     *Wichtig*: Wenn der neue CSP-Partner keine Vertriebspartnerbeziehung mit dem Kunden hat, muss diese vor der Übertragung des Abonnements eingerichtet werden. [Informationen hierzu finden Sie hier](request-a-relationship-with-a-customer.md).
 
     >[!Note]
-    >Der neue CSP-Partner und dem kundenmandanten müssen in derselben Region sein. 
+    >Der neue CSP-Partner und kundenmandanten müssen in derselben Region sein. 
 
 5.  Aktueller Partner:
 

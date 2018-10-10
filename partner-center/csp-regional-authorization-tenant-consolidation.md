@@ -5,12 +5,12 @@ ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 keywords: Migrieren von Kunden, Bereitstellung, Mandantenkonto, Mandanten konsolidieren
 ms.localizationpriority: medium
-ms.openlocfilehash: 7301786b62169da72f52cf26dd4ad8c755367ff4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b5506927a8786665c55e6e68b2f81bdc6cdf73c1
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875980"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489666"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Mandantenkonsolidierung für regionale CSP-Autorisierung
 
@@ -31,14 +31,14 @@ Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschiedene Länder/
 ## <a name="prepare-for-migration"></a>Vorbereitung auf die Migration
 
 
--   Melden Sie sich im **Dashboard** mit dem zu **migrierenden** (vorhandenen) Konto an, und notieren Sie alle Kunden und alle für diese Kunden bereitgestellten Dienste.
+-   Melden Sie sich bei Ihrem **Partner Center** mit dem **zu migrierenden** (vorhandenen) Konto (demjenigen, Sie tauschen) und notieren Sie alle Kunden und alle für diese Kunden bereitgestellten Dienste.
 
 ![Liste regionaler Kunden](images/regionalcustomer1.png)
 
 ## <a name="migrate-customer-accounts"></a>Migrieren von Kundenkonten
 
 
-1.  Melden Sie sich beim **Dashboard** mit dem zu **migrierenden** (neuen) Konto an und navigieren Sie von **Kunden** aus zur Liste der Kunden.
+1.  Melden Sie sich bei Ihrem **Partner Center** mit dem **zu migrierenden** (neu)-Konto (diejenige, die Sie in transitioning sind), und navigieren Sie zur Liste Kunden von **Kunden**.
 
 2.  Wählen Sie die gewünschten Kunden.
 
@@ -55,7 +55,7 @@ Die Kunden werden nach Übermittlung der Vereinbarung nacheinander in der Kunden
 
 1.  Nachdem der Kunde die Vereinbarung unterzeichnet hat, können Sie die Abonnements unter dem zentralisierten Partnermandanten erneut erstellen.
 
-2.  Wählen Sie im **Dashboard** die Option **Kunden** aus.
+2.  Wählen Sie aus dem **Partner Center** - **Kunden**.
 
 3.  Öffnen Sie den Unternehmensnamen für den Kunden, den Sie migrieren möchten.
 
@@ -82,7 +82,7 @@ Bevor Sie mit dem nächsten Abschnitt fortfahren, stellen Sie sicher, dass alle 
 
 Durch die Deaktivierung des CSP-Abonnements unter den Partnerkonten vom Typ **Transitioning From** erfolgen keine zukünftigen Abrechnungen mehr. Azure-Abonnements müssen nicht manuell deaktiviert werden, da diese Abonnements während des Migrationsprozesses automatisch deaktiviert werden.
 
-1.  Melden Sie sich im **Dashboard** mit dem **Transitioning From** CSP-Konto an, und navigieren Sie zur Kundenliste.
+1.  Melden Sie sich beim **Partner Center** mit dem **Transitioning From** -CSP-Konto, und navigieren Sie zur Kundenliste.
 
 2.  Öffnen Sie den Kunden, für den Sie Abonnements deaktivieren möchten, und wählen Sie das erste zu deaktivierende Angebot aus.
 3.  Legen Sie für das Abonnement **suspended** fest, und klicken Sie anschließend auf **Übermitteln**.
@@ -130,7 +130,7 @@ Beachten Sie, dass nutzungsbasierte Azure-CSP-Abonnements nicht wie Office365-CS
 
 Mit der **Exportfunktion** können Sie die Abonnements erfassen, die Sie in der neuen konsolidierten Struktur benötigen:
 
-1.  Klicken Sie auf dem Dashboard auf **Kunden**, um die Liste der Kunden in der vorhandenen Struktur anzuzeigen.
+1.  Klicken Sie auf **Kunden** im Partner Center um die Liste der Kunden in der vorhandenen Struktur anzuzeigen.
 
 2.  Öffnen Sie den Namen des gewünschten Kunden.
 

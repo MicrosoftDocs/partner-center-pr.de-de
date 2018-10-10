@@ -5,12 +5,12 @@ ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
 ms.localizationpriority: medium
-ms.openlocfilehash: 4ae156f50adf64ebb18b7cddb79ff6415e9c2714
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 153ed656ff217241079439e8b48c46c8d18ba144
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877000"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489816"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Benutzerverwaltungsaufgaben für Kundenkonten
 
@@ -29,7 +29,7 @@ Können [Abonnements gleichzeitig für mehrere Benutzer zuweisen](bulk-license-p
 <a href="" id="createuseraccounts"></a>
 **Erstellen von Benutzerkonten für einen Kunden**
 
-1.  Wählen Sie im Menü **Dashboard** die Option **Kunden** aus. Wählen Sie einen Kunden aus der Liste aus.
+1.  Wählen Sie im **Partner Center** -Menü **Kunden**aus. Wählen Sie einen Kunden aus der Liste aus.
 
 2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**.
 
@@ -44,7 +44,7 @@ Können [Abonnements gleichzeitig für mehrere Benutzer zuweisen](bulk-license-p
 <a href="" id="userlicensing"></a>
 **Hinzufügen oder Entfernen von Benutzerlizenzen für einen Kunden**
 
-1.  Wählen Sie im Menü **Dashboard** die Option **Kunden**. Wählen Sie den Kunden aus der Liste aus.
+1.  Wählen Sie im **Partner Center** -Menü **Kunden**aus. Wählen Sie den Kunden aus der Liste aus.
 
 2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**.
 
@@ -55,7 +55,7 @@ Können [Abonnements gleichzeitig für mehrere Benutzer zuweisen](bulk-license-p
 <a href="" id="resetpassword"></a>
 **Zurücksetzen eines Benutzerkennworts für einen Kunden**
 
-1.  Wählen Sie im Menü **Dashboard** die Option **Kunden**. Wählen Sie den Kunden aus der Liste aus.
+1.  Wählen Sie im **Partner Center** -Menü **Kunden**aus. Wählen Sie den Kunden aus der Liste aus.
 
 2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**. Wählen Sie den Benutzer aus der Liste aus.
 
@@ -66,7 +66,7 @@ Können [Abonnements gleichzeitig für mehrere Benutzer zuweisen](bulk-license-p
 <a href="" id="deleteuseraccounts"></a>
 **Löschen von Benutzerkonten für einen Kunden**
 
-1.  Wählen Sie im **Dashboard**-Menü **Kunden**. Wählen Sie den Kunden aus der Liste aus.
+1.  Wählen Sie im **Partner Center** -Menü **Kunden**aus. Wählen Sie den Kunden aus der Liste aus.
 
 2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**. Wählen Sie den Benutzer aus der Liste aus.
 
@@ -77,7 +77,7 @@ Wenn Sie dieses Konto innerhalb von 30Tagen wiederherstellen müssen, finden Sie
 <a href="" id="restoreuseraccounts"></a>
 **Wiederherstellen gelöschter Benutzerkonten**
 
-1.  Wählen Sie im Menü **Dashboard** die Option **Kunden**, und wählen Sie dann den Kunden aus der Liste aus.
+1.  Wählen Sie **Kunden**im **Partner Center** -Menü, und wählen Sie den Kunden aus der Liste.
 
 2.  Wählen Sie **Benutzer und Lizenzen**.
 

@@ -3,12 +3,12 @@ title: Häufig gestellte Fragen zum Partner Center für Microsoft Cloud for US G
 description: Verwenden Sie die häufig gestellten Fragen, um mehr zum Cloud Solution Provider-Programm (CSP) für Microsoft Cloud for US Government zu erfahren. Wenden Sie sich bei Bedarf für weitere Informationen an Ihren Account Manager.
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e2a90125a294959f927b39aa694e8a148deec3f7
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 917731fa0cc8148e3c542d612776b18507e6b11d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876350"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490216"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Häufig gestellte Fragen für Partner Center für Microsoft Cloud für US-Behörden
 
@@ -23,7 +23,7 @@ Verwenden Sie die häufig gestellten Fragen, um mehr zum Cloud Solution Provider
 ### <a name="common"></a>Allgemein
 **Was ist Microsoft Cloud for US Government?**
 
-So konzipiert, für die US-Behörden von Grund, Microsoft Cloud für Behörden ermöglicht Kunden im öffentlichen Sektor in den USA – von großen Bundesbehörden Behörden kleinen Städten – Auswahl aus einer Reihe von Cloud computing-Diensten. Um den spezifischen Bedürfnissen seiner Kunden gerecht zu werden, hat Microsoft erhebliche Investitionen in Rechenzentren getätigt und sichergestellt, dass alle staatlichen Richtlinien, Mandate und Anforderungen erfüllt werden. 
+Microsoft Cloud for Government wurde für die US-Regierung von Grund entwickelt und ermöglicht es Kunden im öffentlichen Sektor in den USA – von großen Bundesbehörden Behörden kleinen Städten – Auswahl aus einer Reihe von Cloud computing-Diensten. Um den spezifischen Bedürfnissen seiner Kunden gerecht zu werden, hat Microsoft erhebliche Investitionen in Rechenzentren getätigt und sichergestellt, dass alle staatlichen Richtlinien, Mandate und Anforderungen erfüllt werden. 
 
 **Wer kann am CSP-Programm für Microsoft Cloud for US Government teilnehmen?**
 
@@ -41,7 +41,7 @@ Ja. Das Partner-Rabattgewährungsmodell für das CSP-Programm für Microsoft Clo
 
 Das CSP-Programm für die Microsoft Government-Cloud unterscheidet sich von CSP Commercial in folgenden Punkten:
 
--   Teilnahmeberechtigung: Das CSP-Programm für Microsoft Government-Cloud ist nur für Partner in den Vereinigten Staaten, uns Bundesbehörden, Zustand und lokalen Regierungsstellen Kommunen Kommunen verfügbar. Microsoft überprüft Partner in einem strengen Validierungsverfahren, bevor sie auf die Cloud for US Government zugreifen dürfen.
+-   Teilnahmeberechtigung: Das CSP-Programm für Microsoft Government-Cloud ist nur für Partner in den Vereinigten Staaten, uns Bundesbehörden, staatliche, und lokale Regierungsstellen Kommunen Kommunen verfügbar. Microsoft überprüft Partner in einem strengen Validierungsverfahren, bevor sie auf die Cloud for US Government zugreifen dürfen.
 
 -   Onboarding: Partner müssen das Onboarding in das CSP-Programm für Microsoft Cloud for US Government separat von CSP Commercial vornehmen.
 
@@ -116,7 +116,7 @@ Die Azure Government-Cloud bietet eine Cloudplattform, die den grundlegenden Pri
 
 **Bietet das CSP-Programm für Microsoft Cloud for US Government alle Azure-Dienste an?**
 
-Infrastructure-as-a-Service (IaaS) und grundlegende Plattform- und Datenangebote sind bereits jetzt verfügbar. Die Roadmap wird regelmäßig aktualisiert, und wir stellen eine ähnliche Dokumentation wie für CSP Commercial im Partner Center-Dashboard bereit (Authentifizierung ist erforderlich). Sie können dort prüfen, welche Azure Government-Dienste derzeit verfügbar sind. Beachten Sie aber, dass einige Dienste wie z.B. klassische Computing-, Netzwerk-, Speicher- und Clouddienste nicht für CSP ausgelegt sind und dort nicht funktionieren.
+Infrastructure-as-a-Service (IaaS) und grundlegende Plattform- und Datenangebote sind bereits jetzt verfügbar. Die Roadmap wird regelmäßig aktualisiert, und wir bieten für CSP Commercial im Partner Center (Authentifizierung ist erforderlich) ähnliche Dokumentation. Sie können dort prüfen, welche Azure Government-Dienste derzeit verfügbar sind. Beachten Sie aber, dass einige Dienste wie z.B. klassische Computing-, Netzwerk-, Speicher- und Clouddienste nicht für CSP ausgelegt sind und dort nicht funktionieren.
 
 **Was benötige ich zum Entwickeln mit dem CSP-Programm für Microsoft Cloud for US Government?**
 

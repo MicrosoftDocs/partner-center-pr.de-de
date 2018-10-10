@@ -5,12 +5,12 @@ ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote
 ms.localizationpriority: medium
-ms.openlocfilehash: 792eea1f482eb539aef84b2b3a2c79f7c33d508a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 06fa6178b5d0c1f655ba412c75ec8b950430b812
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876430"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489636"
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>Vereinbarungen, Preislisten und Angebote für Cloud Solution Provider
 
@@ -61,7 +61,7 @@ Als Partner im CSP sind Sie dafür verantwortlich, die Nutzungsbedingungen von M
 ## <a name="pricing"></a>Preise
 
 
-Laden Sie Preisdetails für lizenzbasierte nutzungsbasierte und einmalige Einkäufe von der Seite **Preise und Angebote** , aus Ihrem **Dashboard** -Menü verfügbar. 
+Laden Sie Preisdetails für lizenzbasierte nutzungsbasierte und einmalige Einkäufe von der Seite **Preise und Angebote** , von Ihrem **Partner Center** -Menü verfügbar. 
 
 Die lizenzbasierte Preisliste wird monatlich aktualisiert, und Microsoft veröffentlicht neue Preise 30 Tage, bevor diese wirksam werden. Beispiele für lizenzbasierte Dienste sind Office365, Enterprise Mobility Suite und Microsoft Dynamics CRM. 
 
@@ -73,7 +73,7 @@ Einmalig erworbenes Preise sind dynamisch. Beispiele für einmalige Einkäufe si
 ## <a name="offers"></a>Angebote
 
 
-Als Partner im CSP können Sie Office365, Enterprise Mobility Suite, Microsoft Dynamics CRM und Microsoft Azure an Kunden verkaufen. Weitere Informationen dazu, welche Angebote und Produktpakete für den Verkauf innerhalb dieser Produktfamilien verfügbar sind, finden Sie in der CSP-Angebotsmatrix auf der Seite **Preise und Angebote** (verfügbar im Menü **Dashboard**). Dieses Dokument wird jeden Monat aktualisiert.
+Als Partner im CSP können Sie Office365, Enterprise Mobility Suite, Microsoft Dynamics CRM und Microsoft Azure an Kunden verkaufen. Weitere Informationen dazu, welche Angebote und Produktpakete für den Verkauf innerhalb dieser Produktfamilien verfügbar sind, finden Sie unter dem CSP-Angebotsmatrix auf der Seite **Preise und Angebote** , von Ihrem **Partner Center** -Menü verfügbar. Dieses Dokument wird jeden Monat aktualisiert.
 
 Für CSP-Partner, die die CREST-API für die Nutzungsaufzeichnung verwenden, veröffentlicht Microsoft auf der Seite **Preise und Angebote** auch eine Liste der Azure-Dienste in CSP.
 

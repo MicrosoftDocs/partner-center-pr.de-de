@@ -4,12 +4,12 @@ description: Hinzufügen eines Windows AutoPilot-Bereitstellungsprofils in Partn
 author: KPacquer
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero-Touch Deployment, Windows-Willkommensseite, Anmeldebildschirme
 ms.localizationpriority: medium
-ms.openlocfilehash: b9fc13accd5d229f66ed425ace68e0df00e14016
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 09dc187347c7d433a5edfd1feb616d0b0275acce
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877580"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489396"
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>Vereinfachen der Geräteinstallation mit Windows Autopilot 
 
@@ -25,7 +25,7 @@ Windows Autopilot optimiert und sichert die Geräteeinrichtung für neue Windows
 ## <a name="requirements"></a>Anforderungen
 
 *  Geräte, auf denen Windows 10 Pro Creators Update (mind. Version 1703) oder Windows 10 Pro for Advanced PCs installiert ist.
-*  Geräte-ID, die als Hardwarehash (128 HWH oder 4k HWH) bezeichnet wird und in der Regel von einem OEM bereitgestellt wird. Sie verwenden IDs, um Organisationsprofile im Partner-Dashboard zuzuweisen. 
+*  Geräte-ID, die als Hardwarehash (128 HWH oder 4k HWH) bezeichnet wird und in der Regel von einem OEM bereitgestellt wird. Sie verwenden IDs, um Organisationsprofile im Partner Center zuzuweisen. 
 *  Die Geräte müssen Zugriff auf das Internet haben. Wenn das Gerät keine Verbindung herstellen kann, zeigt es die standardmäßigen Bildschirme der Windows-Willkommensseite an.
 *  Die Registrierung des Geräts in einer MDM erfordert Azure Active Directory Premium.
 
@@ -45,19 +45,19 @@ Um unternehmensspezifische Seiten hinzuzufügen, fügen Sie die Geräte dem [Azu
 
 ### <a name="add-devices-and-apply-a-profile"></a>Hinzufügen von Geräten und Anwenden eines Profils
 
-Von Ihrem Dashboard können Sie ein Windows AutoPilot-Bereitstellungsprofil erstellen und auf eine Liste der Geräte anwenden.
+Partner Center können Sie Windows AutoPilot-Bereitstellungsprofil erstellen und auf eine Liste der Geräte anwenden.
 
 Laden Sie zum Konfigurieren von Geräten eine Liste der Geräte hoch, erstellen Sie ein Profil, das für die Geräte gilt, und wenden Sie es an.
 
 1.  Fügen Sie die Liste der Geräte hinzu.
 
-    Verkaufsvertreter und Admin-Agents haben Zugriff, um die Liste der Geräte in Partner-Dashboard hinzuzufügen.
+    (Verkaufsvertreter und Admin-Agents haben Zugriff, um die Liste der Geräte in Partner Center hinzuzufügen.)
     
     Indirekte Reseller können hierzu mit einem indirekten Anbieter zusammenarbeiten.
 
     a.  Erstellen Sie eine CSV-Datei mit dem PowerShell-Skript aus dem Thema [Übersicht über Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). Diese CSV-Datei enthält Geräteinformationen, z.B. die Seriennummer, den OEM-Namen, den Modellnamen, die Produkt-ID und die Geräte-ID. 
 
-    b.  Navigieren Sie über das Dashboard zu **Kunden**. Wählen Sie den Kunden aus, der die Geräte erhält, und navigieren Sie zu **Geräte > Geräte hinzufügen**.
+    b.  Navigieren Sie vom Partner Center für **Kunden** > Wählen Sie den Kunden, die die Geräte erhält > **Geräte > Geräte hinzufügen**.
 
     c.  Geben Sie der Gerätegruppe einen Namen, z.B. "PCs der Contoso-Vertriebsabteilung – Bestellung April 2017". 
 
@@ -65,7 +65,7 @@ Laden Sie zum Konfigurieren von Geräten eine Liste der Geräte hoch, erstellen 
 
     **Hinweis:** Wenn Sie nach dem Versuch, die CSV-Datei hochzuladen, eine Fehlermeldung erhalten, überprüfen Sie das Format der Datei. Ab August können Sie nur den Hardwarehash oder den OEM-Namen, die Seriennummer und das Modell in dieser Spaltenreihenfolge oder die Windows-Produkt-ID. Sie können auch die Beispiel-CSV-Datei verwenden, die über den Link neben **Geräte hinzufügen** bereitgestellt wird.
 
-2.  Erstellen Sie ein Profil, das Sie auf die Geräte anwenden können. (Nur Admin-Agents haben Zugriff zum Erstellen und Anwenden von Profilen in Partner-Dashboard.)
+2.  Erstellen Sie ein Profil, das Sie auf die Geräte anwenden können. (Nur Admin-Agents haben Zugriff zum Erstellen und Anwenden von Profilen in Partner Center.)
 
     a.  Klicken Sie unter **Geräte** auf **Neues Profil hinzufügen**.
 

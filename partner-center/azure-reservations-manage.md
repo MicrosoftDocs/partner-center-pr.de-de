@@ -4,12 +4,12 @@ Description: Purchasing and managing Azure reservations on behalf of your custom
 author: v-petand
 keywords: Azure, Reservierungen, verwalten, Abrechnung, kaufen
 ms.localizationpriority: medium
-ms.openlocfilehash: d2ade5ff37d98a5667df7016cff2044d5001c036
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 6b3fb1aed57b39976556851c007590743a805671
+ms.sourcegitcommit: 1321f23b1a5be48a0a5dae6d52fd123ec9bacee2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489776"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "4562272"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Microsoft Azure Reservations im Auftrag Ihrer Kunden verwalten | Partner Center
 
@@ -19,11 +19,11 @@ ms.locfileid: "4489776"
 -  Microsoft Azure-Portal
 -  CSP-Partner
 
-Zum Verwalten Ihrer Kunden Azure Reservations nach dem Kauf Sie wählen Sie den Kunden und die Reservierung, die Sie im Partner Center verwalten möchten, und nehmen Sie Änderungen dann die Reservierung im Azure-Portal. 
+Zum Verwalten Ihrer Kunden Azure Reservations nach dem Kauf Sie wählen Sie den Kunden und die Reservierung, die Sie im Partner Center verwalten möchten, und klicken Sie dann ändern Sie die Reservierung im Azure-Portal. 
 
 1. Um zu beginnen, wählen Sie **Kunden** aus Ihrem Partner Center-Menü, und wählen Sie dann den Kunden, deren Reservierungen Sie verwalten möchten. 
 
-2. Der Kunde Detail Seite Menü Wählen Sie **Azure Reservations** , und wählen Sie dann die spezifische Reservierung, die Sie verwalten möchten.  
+2. Der Kunde Details-Seite im Menü Wählen Sie **Azure Reservations aus** , und wählen Sie dann die spezifische Reservierung, die Sie verwalten möchten.  
 
 3. Klicken Sie unter **Aktionen**auf **verwalten** und wechseln Sie zur Kunden-Reservierung im Azure-Portal. Führen Sie auf der Seite der Reservierungsdetails die unten beschriebenen Schrittezum Abschließen der Aufgaben durch.  
 
@@ -42,22 +42,32 @@ Wenn die geschäftliche Anforderung Ihrer Kunden sich ändert, können Sie die R
 
 Kunden können Sie die Reservierung (bis zu 50.000 USD pro Jahr) jederzeit abbrechen. Durch eine Kündigung kann der Kunde die verbleibenden Monate der Azure-Reservierung an Microsoft für eine Gebühr der vorzeitigen Kündigung zurückzugeben. Der anteilige Restbetrag, abzüglich der Gebühr, wird dem Originalkauf des Kunden erstattet. 
 
+Nachfolgend finden Sie Abbruch Details und Gebühren.
+
+|**Kündigungsdatum**<br> (in Tagen)   |**Verwendungszweck**    |**Erstattung**  |**Vorzeitige Beendigung**<br> gebühr    |**Rückerstattung Obergrenze** | 
+|:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
+|Weniger als 5                       | Nein          | 100%       | Nein                              | 50.000 US-DOLLAR   |
+|Weniger als 5                       | Ja         | Anteilsmäßigen  | Nein                              | 50.000 US-DOLLAR   |
+|Mehr als 5                        | Nein          | Anteilsmäßigen  | 12 %                             | 50.000 US-DOLLAR   |
+|Mehr als 5                        | Ja         | Anteilsmäßigen  | 12 %                             | 50.000 US-DOLLAR   |
+
+
 **Funktionsweise des Austauschs** 
 
 Ein Austausch ermöglicht dem Kunden, die anteilige Erstattung basierend auf der verbleibenden Dauer der Reservierung zu erhalten und eine neue Reservierung mit dem Rückerstattungsbetrag einzugehen.   
 
 ## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Fordern Sie eine Rückerstattung oder einen Austausch im Auftrag eines Kunden an 
 
-Um eine Supportanfrage für eine Rückerstattung oder einen Austausch im Auftrag Ihrer Kunden anzufordern, Sie wählen Sie den Kunden und die Reservierung im Partner Center, und erstellen Sie dann die Supportanfrage im Azure-Portal. 
+Um eine Supportanfrage für eine Rückerstattung oder einen Austausch im Auftrag Ihrer Kunden anzufordern, Sie wählen Sie den Kunden und die Reservierung im Partner Center, und klicken Sie dann die Supportanfrage im Azure-Portal erstellen. 
 
 >[!NOTE]
 >Microsoft-Support-Agents können Sie nach der Reservierungs-ID und der Reservierungsbestellungs-ID fragen. Sie finden diese Informationen auf der Reservierungsseite unter **Eigenschaften** im Azure-Portal. 
 
-1. Um zu beginnen, wählen Sie **Kunden** aus der die die im Partner Center-Menü und wählen Sie dann den Kunden, die eine Rückerstattung möchte. 
+1. Um zu beginnen, wählen Sie **Kunden** aus dem Menü "Partner Center", und wählen Sie dann den Kunden, der eine Rückerstattung möchte. 
 
 2. Wählen Sie auf der Detailseite des Kunden **Azure Reservations**, und wählen Sie die spezifische Reservierung, die der Kunde zurückerstattet haben möchte.  
 
-3. Wählen Sie unter **Aktionen**wechseln zur Kunden-Reservierung im Azure-Portal und initiieren eine Supportanfrage **eine Rückerstattung anfordern** .  
+3. Wählen Sie unter **Aktionen**die Kunden-Reservierung im Azure-Portal und initiieren eine Supportanfrage **eine Rückerstattung anfordern** .  
 
 4. Auf der Seite **neue Supportanfrage**, führen Sie die folgenden Schritteaus, um eine Rückerstattung anzufordern. Wählen Sie **Weiter** nach jedem Schritt. 
 

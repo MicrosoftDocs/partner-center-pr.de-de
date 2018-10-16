@@ -2,14 +2,14 @@
 title: Übersicht über Microsoft Azure-Reservierungen | Partner Center
 Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
-keywords: Azure, Reservierungen, verwalten, Abrechnung, kaufen, Azure-RI, Azure Reserved Instances
+keywords: Azure, Reservierungen, verwalten, Abrechnung, kaufen, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
-ms.openlocfilehash: c580553aa484611790b2c83bab968025c0bb1379
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 2d0787466c99810b4d4c73c15b97631bc54c257c
+ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489756"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "4658116"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>Verkaufen Microsoft Azure Reserved Instances 
 
@@ -22,12 +22,13 @@ ms.locfileid: "4489756"
 Partner im Cloud-Lösungsanbieter-Programm (CSP) bieten ihren Kunden reservierte Instanzen von Microsoft Azure. Kunden erhalten deutliche einsparungen, wenn sie im Voraus reservieren. Azure Reserved Instances bieten Kunden Einfachheit und Flexibilität auf folgende Weise:
 
 -   Ein-Jahres- oder Drei-Jahres-Reservierung 
--   Einfach für den Einstieg; Setup abgeschlossen in Sekunden 
+-   Einfach für den Einstieg; Setup in Sekunden abgeschlossen 
 -   Stornieren oder tauschen Sie reservierte Instanzen zu jedem beliebigen Zeitpunkt gegen eine angepasste Rückerstattung aus 
 -   Verwalten Sie reservierte Instanzen auf Organisations- oder auf Abteilungsebene. 
 
 > [!NOTE]  
-> Azure Reserved Instances sind nicht in den folgenden Märkten verfügbar:  
+> Azure Reservations sind nicht in den folgenden Märkten derzeit verfügbar:
+  
 > * Argentinien
 > * Aserbaidschan
 > * Belarus

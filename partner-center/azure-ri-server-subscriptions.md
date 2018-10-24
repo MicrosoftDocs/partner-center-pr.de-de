@@ -2,14 +2,14 @@
 title: Azure Reserved VM Instances (RI) + Server-Abonnements für Azure | Partner Center
 description: Durch das Hinzufügen von Azure RI und Server-Abonnements in das CSP-Programm, unterstützen wir unsere Partner mit der schnell wachsenden Kundennachfrage für kostengünstigere Lösungen zur Unterstützung von verlässlichen, permanenten Cloud-Arbeitslasten. Mit dem CSP-Programm können Partner Azure RI und Server-Abonnements für kommerzielle Kunden über das Microsoft-Partner Center und das Azure-Portal bereitstellen und verwalten.
 author: v-petand
-keywords: Azure, Abonnements, VM-Reservierung, reserverd instance
+keywords: Azure, Abonnements, VM, Reservation, reserviert Instanz
 ms.localizationpriority: medium
-ms.openlocfilehash: 53a6276b1979df3655b946c979d3ee354a827abb
-ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
+ms.openlocfilehash: a29e9b5b6de186f44a9e4c79baf8bfab4e47018a
+ms.sourcegitcommit: 8a189ccdbdaf5a75bab67c77c6a5a5338e63ca89
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4658126"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "5460085"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -19,42 +19,34 @@ ms.locfileid: "4658126"
 
 -  Partner Center
  
-Azure Reserved VM Instances (RI) und jetzt Windows Server und SQL Server-Abonnements sind über die Microsoft-Programm für Cloud Solution Provider (CSP) verfügbar (siehe [Ankündigung](https://blogs.partner.microsoft.com/mpn/better-together-azure-reserved-instances-server-subscriptions/?ln=en-us)). 
+## <a name="what-are-azure-reservations"></a>Was sind Azure Reservations?
 
-Durch das Hinzufügen von Azure RI und Server-Abonnements in das CSP-Programm, unterstützt Microsoft unsere Partner mit der schnell wachsenden Kundennachfrage für kostengünstigere Lösungen zur Unterstützung von verlässlichen, permanenten Cloud-Arbeitslasten. Mit dem CSP-Programm können Partner Azure RI und Server-Abonnements für kommerzielle Kunden über das Microsoft-Partner Center und das Azure-Portal bereitstellen und verwalten.  
+Azure Reservations hilft Ihnen Geld sparen, indem Sie vorab zu bezahlen, ein Jahr oder drei Jahre des virtuellen Computers, SQL-Datenbank Rechenkapazität, Azure Cosmos DB Durchsatz oder andere Azure-Ressourcen. Vorab bezahlen, können Sie einen Rabatt auf die Ressourcen zu erhalten, die Sie verwenden. Andere Ressource Kosten bis zu 72 % im Vergleich zu nutzungsbasierten Preisen und Reservations können Ihre virtuellen Computer, SQL-Datenbank Compute, Azure Cosmos DB erheblich reduzieren. Reservations bieten einen Abrechnungen Rabatt und haben keinen Einfluss auf den Laufzeitstatus Ihrer Ressourcen. Weitere Informationen finden Sie unter [Was Azure Reservations sind?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+
+## <a name="why-should-customers-buy-a-reservation"></a>Warum sollten Kunden eine Reservierung erwerben?
+
+Wenn Kunden haben virtuelle Computer, Azure Cosmos DB oder SQL-Datenbanken, die für längere Zeit ausgeführt werden, stellt eine Reservierung erwerben sie die kostengünstigste Option. Z. B. wenn ein Kunde vier Instanzen eines Diensts ohne eine Reservierung kontinuierlich ausgeführt wird, werden sie zu nutzungsbasierten Preisen in Rechnung gestellt. Wenn sie eine Reservierung für diese Ressourcen erwerben, erhalten sie sofort den reservierungsrabatt. Die Ressourcen sind nicht mehr zu nutzungsbasierten Preisen in Rechnung gestellt.
+
  
 ### <a name="compelling-new-azure-offer-in-csp"></a>Faszinierende neue Azure-Angebote in CSP 
 
-Virtuelle Computer in Azure bieten Kunden die Flexibilität der Virtualisierung für eine Vielzahl von Computing-Lösungen, einschließlich der Entwicklung und dem Ausführen von Testanwendungen und dem erweitern des Datencenters.  
+Durch das Hinzufügen von Azure Reservations und Server-Abonnements in das CSP-Programm, ist Microsoft Partner mit der schnell wachsenden Kundennachfrage für kostengünstigere Lösungen zur Unterstützung von verlässlichen, permanenten Cloud-Arbeitslasten besser aktivieren. Das CSP-Programm kann Partner erwerben, bereitstellen und Verwalten von Azure Reservations und Server-Abonnements für kommerzielle Kunden über das Microsoft Partner Center und Azure-Portal. Azure Reservations bieten Kunden die Flexibilität der Virtualisierung für eine Vielzahl von computing-Lösungen, einschließlich der Entwicklung und Tests ausführen von testanwendungen und Erweitern des Datencenters. 
 
-Mit Reserved VM Instances in CSP können Geschäftskunden bis zu 72% im Vergleich zum nutzungsbasierten Zahlungsmodell für Azur VM sparen, indem sie die virtuelle Maschine für einen 1 – oder 3-Jahres-Zeitraum einkaufen oder reservieren. Windows Server-Kunden mit Azure-Hybridvorteil, mit Software Assurance enthalten werden kann bis zu 80 % im Vergleich zu nutzungsbasierten Preisen sparen.  
+Mit [Azure Reserved VM Instances](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/) können z. B. kommerzielle Kunden jetzt bis zu 72 % im Vergleich zum nutzungsbasierten Azure-VM einfach durch den Erwerb – oder "Reservierung" – die virtuelle Maschine für einen 1 oder 3-Jahres-Zeitraum speichern. Windows Server-Kunden mit Azure-Hybridvorteil, mit Software Assurance enthalten werden kann bis zu 80 % im Vergleich zu nutzungsbasierten Preisen sparen. 
 
-Microsoft verbindet das beeindruckende Einsparpotenzial mit der Einfachheit in Auswahl und der unglaublich flexiblen Bereitstellung. Azure Reserved VM Instances:  
+Mit einer unglaublichen Kombination überzeugenden Preis und beispielloser Bereitstellungsflexibilität erhalten Kunden den besten Gesamtwert, wenn sie Azure Reservations auswählen: 
 
--   Werden für eine "grundlegende VM" festgelegt, d.h., das die Entscheidung für das Bereitstellen eines Windows Server oder nicht Windows Servers nicht im Voraus erfolgen muss. Geben Sie einfach die Azure-Region, den virtuellen Computertyp und den Zeitraum 1Jahr oder 3Jahre an – das ist alles. 
+- [Azure Reserved VM Instances](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Server-Abonnements](https://www.microsoft.com/Licensing/news/windows-sql-server-through-csp) 
+- [Remotedesktopdienste (RDS)-CALs](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/) – bald!
+- [SQL-Datenbank für "-Reservierungen](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+- [SUSE Linux](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [Azure Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [Verwaltete SQL Server-Instanz](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
 
--   Kann mehreren Abonnements eines Kundenkontos oder auf Abonnementebene oder eines einzelnen Abonnements zugewiesen werden.  
 
--   Umfasst die Möglichkeit, Instanzen, Familie, Standort und Begriff zu jedem beliebigen Zeitpunkt zu konvertieren.  
 
--   Kann zu jedem beliebigen Zeitpunkt während der Laufzeit der Reservierung storniert werden.  
 
--   Genießen Sie Computekapazität nach Priorität in Azure-Regionen: 
- 
-Windows Server und SQL Server-Abonnements im CSP umfassen auch Azure-Hybridvorteil, die zuvor verfügbar nur über Software Assurance in herkömmlichen lizenzprogrammen verkauft. Azure-Hybridvorteil können erhebliche einsparungen auf Serversoftware im Vergleich zu nutzungsbasierten Raten darstellen. Durch Verpflichtungen für 1 oder 3Jahre für beide Azure-Computedienste (über RI) und Microsoft Serversoftware (über Abonnements), können CSP-Kunden ihre Einsparungen auf Cloud Compute-Lösungen maximieren. Dieser Vorteil ist für CSP-Kunden besonders interessant, die derzeit keinen Zugriff auf Software Assurance haben. 
-
-Mit einer unglaublichen Kombination aus einem überzeugenden Preis und beispielloser Bereitstellungsflexibilität erhalten Kunden den besten Gesamtwert, wenn sie Azure Reserved VM Instances zusammen mit Server-Abonnements auswählen. 
- 
-### <a name="why-is-this-announcement-good-news-for-microsoft-partners"></a>Warum ist diese Ankündigung eine gute Nachricht für Microsoft-Partner? 
-
-Durch Hinzufügen von Azure Reserved VM Instances und Server-Abonnements mit Azure-Hybridvorteil in CSP, ist Microsoft besser Partner, um ihre Cloud-Lösung-Geschäft ausbauen durch die Verwendung von kostengünstigen Azure VMs und Software Ziel und Win beständige aktivieren Cloud-Arbeitslasten. Bis jetzt konnten CSP-Partner nur nutzungsbasierte Azure-VMs verkaufen und mussten andere Lizenzierungsprogrammen verwenden, um die Software-Abonnements für Windows Server und SQL Server zu erwerben.  
-
-Das Partner-freundliche Geschäftsmodell der Lizenzierung von Azure Reserved VM Instances und Server-Abonnements auf Kundenebene bietet Kosten-Vorhersagbarkeit und verbessert die Skalierbarkeit, was den Verkaufsprozess vereinfacht. Partner müssen keine komplexen Prozesse und Tools bereitstellen, um Reserved Instances für ihre Kunden zu erwerben, verwalten und bewerten – dadurch haben Partner mehr Zeit, sich auf Kunden zu konzentrieren, und ihr Portfolio der IT-Verwaltung an Cloudlösungen zu erweitern. 
-
-Azure Reserved VM Instances und Server-Abonnements sind für Partner attraktiv, da sie die Möglichkeit bieten, als starker Ankerpunkt zu fungieren, um Umsatz und Rentabilität zu erweitern. Azure Cloud Services ermöglicht Partnern, höhere Einnahmen zu entwickeln, sowie wertvolle IT-Dienste anzubieten, die auch in Verkäufe von zusätzlicher Software und/oder Abonnements sowie fortlaufenden Verwaltungsgebühren resultieren können. Zweitens ermöglicht unser Partnermodell der führenden Marktwirtschaft den Partnern die Rentabilität ihrer Cloud-Methode zu maximieren. Außerdem ist es wichtig zu beachten, dass Engagement-Lösungen beständige, vertrauensbasierte Geschäftsbeziehungen fördern, die einen langanhaltenden Wert der Kunden und Rentabilität erhöht.  
-
-Zusammenfassend bieten Azure Reserved VM Instances und Server-Abonnements im CSP einen Mehrwert, während Sie Partnern ermöglichen, das schnell wachsende Cloud-Computing mit einem einfachen, geeigneten kommerziellen Modell anzusprechen, das einen sichere Ankerpunkt für hoch rentables Wachstum bietet.  
- 
 ## <a name="getting-started"></a>Erste Schritte
 
 Um zu verstehen, wie Sie Azure Reservations bei Ihren Kunden positionieren und es so schnell wie möglich einrichten, anzeigen und ausführen, empfehlen wir die folgende Methode zum Überprüfen der Bereitschaft aller Materialien:
@@ -70,44 +62,88 @@ Um zu verstehen, wie Sie Azure Reservations bei Ihren Kunden positionieren und e
 ## <a name="resources"></a>Ressourcen: 
 
 Im folgenden finden Sie eine umfassende Liste der Ressourcen, die Ihnen helfen, Azure Reservations über Partner Center-Partner schnell zu integrieren: 
--   [Azure Reservations + Server-Abonnements mit Azure-Hybridvorteilen – Übersicht über die Präsentation](https://www.yammer.com/cloudpartnercommunity/#/files/133462305)
--   [Server-Abonnements mit Azure-Hybridvorteilen Übersicht über die Präsentation](https://www.yammer.com/cloudpartnercommunity/#/files/141644181)
--   [Azure Reservations Übersicht - Webinar](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1)
--   [Server-Abonnements im CSP (Teil 2)-Webinar](https://commercial-licensing.eventbuilder.com/Server_Subscriptions_in_CSP_P2_July) – Teil 2 der Azure Reservations Übersicht-Webinar wechselt dieser Sitzung tiefer in die Vorteile der Server-Abonnements im CSP verkaufen.  Enthält eine Zusammenfassung der Kunde Vorteile der reservierten Instanzen Verständnis der Server-Abonnements verfügbar sind, verwenden Sie Rechte von Server-Abonnements und Transaktionen durchführen Server-Abonnements im CSP.
--   (Aktualisiert) [Modernen e-Commerce-Betriebshandbuch](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx): Dieses Handbuch umfasst Richtlinien und betriebliche Aspekte wie Verträge, Bestellungen über das Partner Center, Rechnungen, Preislisten Listendetails, Incentives, erstattungsdatei, API-SDK, Sandbox und Azure Partner Shared Services.
--   (Aktualisiert) [Vertriebstabelle](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
--   [Verfügbarkeit in einzelnen Ländern und Kundenwährungsmatrix für moderne Angebote](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
--   [Azure-Lizenzmodul auf Partner University](https://aka.ms/azure_partner_licensing)
--   (Aktualisiert) [Azure RI + Server-Abonnements – häufig gestellte Fragen](https://www.yammer.com/cloudpartnercommunity/#/files/141644205)
--   [Übersicht über die Preise von Azure](https://azure.microsoft.com/en-us/pricing/#explore-cost)
--   [Azure – Preisberechnung](https://azure.microsoft.com/en-us/pricing/calculator/)
--   Azure Reservations Preisliste – befindet sich im Abschnitt " **Azure Reservations** " von der Seite "Partner Center [Preise und Angebote](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) ".
--   Server-Abonnements Preisliste – mit dem Titel "Software-Abonnements" und befindet sich im Abschnitt **Software** von der Seite "Partner Center [Preise und Angebote](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1) ".
--   Verwandte Themen – Partner Center Hilfe:
-    -   [Microsoft Azure Übersicht über die VM-Reservierungen](https://go.microsoft.com/fwlink/?linkid=872806)
-    -   [Microsoft Azure Reservations im Auftrag Ihrer Kunden kaufen | Partner Center](https://go.microsoft.com/fwlink/?linkid=872807)
-    -   [Azure Reservations im Auftrag Ihrer Kunden verwalten | Partner Center](https://go.microsoft.com/fwlink/?linkid=872808)
-    -   [Abrechnung für Azure Reservations](https://go.microsoft.com/fwlink/?linkid=872809)
-    -   [VM-Größe für die maximale Reservations-Nutzung](https://go.microsoft.com/fwlink/?linkid=872810)
+
+**Sales readiness**
+
+- [Server-Abonnements mit Azure-Hybridvorteil (Übersicht)](https://www.yammer.com/cloudpartnercommunity/#/files/141644181) Aktualisiert
+- [Vertriebstabelle](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
+- [Azure VM-RI + Server-Abonnement – häufig gestellte Fragen (aktualisiert)](https://www.yammer.com/cloudpartnercommunity/)
+- [Partner – häufig gestellte Fragen für Azure Reservations und SQL DB](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
+- [Azure Reservations und Server-Abonnements mit Azure Hybridvorteil Übersicht (aktualisiert)](http://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [Partner – häufig gestellte Fragen für Azure Reservations (aktualisiert)](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [SQL DB in Azure Übersicht über die (neu)](http://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
+- [Übersicht über die Preise von Azure](https://azure.microsoft.com/pricing/#explore-cost)
+- [Azure – Preisberechnung](https://azure.microsoft.com/pricing/calculator/)
+- Azure Reservations Preisliste – finden Sie in der Microsoft Azure Reserved Instances Preisliste in der Seite "Partner Center [Preise und Angebote](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) ".
+- Server-Abonnements Preisliste – finden Sie in der Preisliste des Software-Abonnements in der Seite "Partner Center [Preise und Angebote](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx) ".
+
+**Schulungen**
+
+- [November 2018 Commercial Lizenzierung Readiness Webinare](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcommercial-licensing.eventbuilder.com%2F%3Flandingpageid%3DV0Bx6L&data=02%7C01%7Cv-oumaki%40microsoft.com%7C96e24687952242e1ff0c08d62ada13f3%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636743513471330495&sdata=DjPAKnW%2BpVekRS3Zngy2uwAkTpU4z1O%2Fh56NuTOmCzM%3D&reserved=0) für Onlinedienste CSP, CSP Azure und eine allgemeine Lizenzierung Update (einschließlich Azure)
+- [August SQL DB reserviert Kapazität und Instanz Größe Flexibilität - Webinar-Lizenzierung](https://commercial-licensing.eventbuilder.com/view?eventid=d0t9g4)
+- [Server-Abonnements im CSP-Webinar Juli 2018](https://commercial-licensing.eventbuilder.com/Server_Subscriptions_in_CSP_P2_July)
+- [Mai 2018 Azure Reservations Übersicht-Webinar](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1)
+- [Azure-Lizenzmodul auf Partner University](https://aka.ms/azure_partner_licensing)
+
+**Vorgänge**
+
+- [Modernen e-Commerce-Betriebshandbuch](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (aktualisiert): ein umfassendes Handbuch umfasst Richtlinien und betriebliche Aspekte wie Verträge, Bestellungen über das Partner Center, Rechnungen, Preislisten Listendetails, Incentives, erstattungsdatei, API-SDK, Sandbox und Azure Partner Shared Services.
+- [Verfügbarkeit in einzelnen Ländern und Kundenwährungsmatrix für moderne Angebote](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
+- [Verkaufen Microsoft Azure Reserved Instances](https://go.microsoft.com/fwlink/?linkid=872806)
+- [Microsoft Azure Reservations im Auftrag Ihrer Kunden kaufen | Partner Center](https://go.microsoft.com/fwlink/?linkid=872807)
+- [Azure Reservations im Auftrag Ihrer Kunden verwalten | Partner Center](https://go.microsoft.com/fwlink/?linkid=872808)
+- [Abrechnung für Azure Reservations](https://go.microsoft.com/fwlink/?linkid=872809)
+- [VM-Größe für die maximale Reservations-Nutzung](https://go.microsoft.com/fwlink/?linkid=872810)
+- [Partner Center-API (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## <a name="azure-hybrid-benefit"></a>Azure-Hybridvorteil
-Der [Azure-Hybridvorteil](https://azure.microsoft.com/en-us/pricing/hybrid-benefit) hilft Ihnen mehr Wert aus der Windows Server-Lizenzen abrufen und sparen Sie bis zu * 47 Prozent auf virtuellen Computern. Sie können die Vorteile mit dem Windows Server Datacenter und Standard-Editionslizenzen mit Software Assurance verwenden. Je nach Edition können Sie Ihre Lizenzen zum Ausführen von Windows Server-Computern in Azure konvertieren oder erneut verwenden und grundlegende Compute Datenraten zahlen (Tarife für Linux-VM).
-
-Azure-Hybridvorteil – die kostengünstigste Cloud für die Windows Server- oder SQL Server-Migration:
--   Sparen Sie bis zu 80% auf Windows Server mit Azure-Hybridvorteil und Reserved Instances
--   Sparen Sie bis zu 30 % * auf Migrationen mit Azure SQL-Datenbank mit Azure-Hybridvorteil
--   Sparen Sie bis zu 49 % auf einem virtuellen Computer SQL-IaaS durch Stapeln einsparungen durch eine RI, Windows Server + SQL-Abonnement
--   Wählen Sie Ihr eigenes Tempo – verschieben Sie einige Arbeitslasten oder gesamte Datencenter
--   Maximieren Sie Ihre aktuellen Investitionen in Software Assurance
+Der [Azure-Hybridvorteil](https://azure.microsoft.com/pricing/hybrid-benefit) hilft Ihnen mehr Wert aus der Windows Server-Lizenzen abrufen und sparen Sie bis zu * 47 Prozent auf virtuellen Computern. Sie können die Vorteile mit dem Windows Server Datacenter und Standard-Editionslizenzen mit Software Assurance verwenden. Je nach Edition können Sie Ihre Lizenzen zum Ausführen von Windows Server-Computern in Azure konvertieren oder erneut verwenden und grundlegende Compute Datenraten zahlen (Tarife für Linux-VM).
 
 Siehe auch [Azure-Hybridvorteil – häufig gestellte Fragen](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/faq/)
 
-*Aktuelle Einsparungen variieren basierend auf der Region, Instanztyp oder Nutzung
-
-## <a name="questions"></a>Fragen?
-Haben Sie Fragen?  Antworten und Diskussion befinden sich im Yammer-Forum, wählen Sie die entsprechende Website für Sie:
-
-[CSP Yammer Partner Community](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=4989124&trk_event=ticker)
-
-[CSP Indirect Partner Group](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=6392971)
+* Aktuelle einsparungen variieren basierend auf Region, Instanztyp oder Nutzung.
 

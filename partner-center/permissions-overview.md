@@ -4,32 +4,32 @@ description: Jeder Mitarbeiter, die im Partner Center arbeiten muss eine Rolle z
 author: labrenne
 keywords: Rollen, Berechtigungen, Admin-agent
 ms.localizationpriority: medium
-ms.openlocfilehash: be506932a445c427bc3d4249bcab3f07ee1b14ff
-ms.sourcegitcommit: 820ec1ca260b185980ad53f103b95d79eb2c21c1
+ms.openlocfilehash: 71dfdb260fe6baac83c01fbf79e260470f875539
+ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/11/2018
-ms.locfileid: "4528367"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5541472"
 ---
-# <a name="assign-users-roles-and-permissions"></a>Weisen Sie Benutzer Rollen und Berechtigungen
+# <a name="assign-users-roles-and-permissions"></a>Zuweisen von Benutzerrollen und Berechtigungen
 
 **Betrifft:**
 
 - Partner Center
 
-Jede Rolle im Partner Center verfügt über bestimmte Berechtigungen, die einem Benutzer für bestimmte Aufgaben. Jeder Benutzer, die im Partner Center funktioniert, muss eine Rolle zugewiesen werden.
+Jede Rolle im Partner Center verfügt über bestimmte Berechtigungen, die einem Benutzer für bestimmte Aufgaben. Jeder Benutzer, der im Partner Center funktioniert, muss eine Rolle zugewiesen werden.
 
-Je nach Größe Ihrer Organisation möglicherweise einige Benutzer funktionieren, Standorten und nur für eine Position. 
+Abhängig von der Größe Ihrer Organisation funktionieren einige Benutzer verschiedenen Standorten oder nur für einen Standort. 
 
 Beispiel:
 
-- Der globale Administrator kann der Administrator für den offizieller und einen bestimmten Ort sein. oder der globale Administrator kann ein Administrator für eine einzige die Standorte von einem Unternehmen. 
-- Anreizadministratoren können für einen oder mehrere Orte verwalten, aber diese Speicherorte müssen angegeben werden.
+- Der globale Administrator kann der Administrator für den offizieller und einen bestimmten Ort sein. oder der globale Administrator kann Admin nur für eines der Speicherorte eines Unternehmens sein. 
+- Anreizadministratoren können für eine oder mehrere Orte verwalten, aber diese Speicherorte müssen angegeben werden.
 
 
 In der folgenden Tabelle wird erläutert, was den jeweiligen Rollen in Partner Center haben. Berücksichtigen Sie bei der Zuweisung von Rollen, welche Aufgabe ein Benutzer in Ihrer Organisation ausführt. Sie können z.B. den globalen Administrator auch als Administratoragent einsetzen. Und die für das Marketing zuständige Person könnte auch die Verwaltung des Unternehmensprofils übernehmen.
 
-Lesen Sie eine Übersicht über Rollen und Berechtigungen [Erstellen von Benutzerkonten und Festlegen von Berechtigungen](create-user-accounts-and-set-permissions.md).
+Eine Übersicht über Rollen und Berechtigungen finden Sie unter [Erstellen von Benutzerkonten und Festlegen von Berechtigungen](create-user-accounts-and-set-permissions.md).
 
 <table>
 <colgroup>
@@ -94,19 +94,18 @@ Lesen Sie eine Übersicht über Rollen und Berechtigungen [Erstellen von Benutze
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Administratorkonto</strong></p></td>
+<td><p><strong>Konto admin</strong></p></td>
 <td><ul>
 <li><p>Erstellen Sie neue Speicherorte</p></li>
 <li><p>Registrieren Sie Standorte in Programme (Ausnahmen sind CSP und indirekter Händlerprogramme)</p></li>
 <li><p>Verwalten von Profilen, die im Zusammenhang mit der Standort-Konten, die sie verwalten</p></li>
-<li><p>Weist MPN-Administrator, Administrator für das Unternehmensprofil, Administrator für Empfehlungen, Incentives-Administrator, anreizbenutzer Rollen zu Benutzern</p></li>
+<li><p>Zuweisen von anderen Konten-Admins, MPN-Administrator, Administrator für das Unternehmensprofil, Administrator für Empfehlungen, anreizadministrator und Incentive-Benutzerrollen zu Benutzern</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Anreizadministrator</strong></p></td>
 <td><ul>
-<li><p>Können Incentives-Rollen zuweisen</p></li>
-<li><p>Beginn der und verwaltet Incentives Ansprüche</p></li>
+<li><p>Initiiert und verwaltet Incentives Ansprüche</p></li>
 <li><p>Kann anzeigen und bearbeiten alle Aspekte der Incentives-Programme</p></li>
 <li><p>Kann anzeigen und Bearbeiten von Bank-und Steuerinformationen</p></li>
 <LI><p>Anzeigen und gemeinschaftliche Einnahmen erhalten</p></li>
@@ -117,8 +116,8 @@ Lesen Sie eine Übersicht über Rollen und Berechtigungen [Erstellen von Benutze
 <tr class="odd">
 <td><p><strong>Anreizbenutzer</strong></p></td>
 <td><ul>
-<li><p>Incentives-Programme können angezeigt werden.</p></li>
-<li><p>Kann anzeigen und initiieren Incentives Ansprüche</p></li>
+<li><p>Können Anreizprogramme anzeigen</p></li>
+<li><p>Anzeigen und Incentives Ansprüche initiieren können</p></li>
 <li><p>Anzeigen von Bank-und Steuerinformationen können</p></li>
 <li><p>Anzeigen und gemeinschaftliche Einnahmen erhalten</p></li>
 <LI><p>Anzeigen und gemeinschaftliche Einnahmen erhalten</p></li>
@@ -130,7 +129,7 @@ Lesen Sie eine Übersicht über Rollen und Berechtigungen [Erstellen von Benutze
 <td><p><strong>Administratoragent</strong></p></td>
 <td><ul>
 <li><p>Kundenverwaltung</p></li>
-<li><p>Liste der Geräte zum Partner Center hinzufügen <</p></li>
+<li><p>Liste der Geräte beim Partner Center hinzufügen <</p></li>
 <p><li>Erstellen und Anwenden von Profilen auf Geräte</p></li>
 <li><p>Abonnementverwaltung</p></li>
 <li><p>Dienstintegrität und Serviceanfragen für Kunden</p></li>
@@ -145,7 +144,7 @@ Lesen Sie eine Übersicht über Rollen und Berechtigungen [Erstellen von Benutze
 <td><p><strong>Vertriebsbeauftragter</strong></p></td>
 <td><ul>
 <li><p>Kundenverwaltung</p></li>
-<li><p>Liste der Geräte zum Partner Center hinzufügen</p></li>
+<li><p>Liste der Geräte beim Partner Center hinzufügen</p></li>
 <li><p>Abonnementverwaltung</p></li>
 <li><p>Supportanfragen anzeigen</p></li>
 <li><p>Beantragen einer Partnerschaft mit einem Kunden</p></li>

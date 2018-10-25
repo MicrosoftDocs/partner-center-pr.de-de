@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b05a46f7dd9cb4cd2c5621610d55264c4ff3701
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 6308391b632ea61679a23fb56be2e351681e6e59
+ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489836"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5541471"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen
 
@@ -23,13 +23,13 @@ Erstellen von Benutzerkonten für Mitarbeiter, die Zugriff auf das Partner Cente
 
 ## <a name="add-a-new-user"></a>Hinzufügen eines neuen Benutzers
 
-1. Über das Symbol " **Einstellungen** " oben rechts neben dem Partner Center, wählen Sie **Benutzer-Verwaltung**.
+1. Über das Symbol " **Einstellungen** " oben rechts neben dem Partner Center, wählen Sie im **benutzerverwaltung**.
 
 2.  Wählen Sie **Benutzer hinzufügen**.
 
 3.  Geben Sie den vollständigen Namen und die eindeutige E-Mail-Adresse des Benutzers ein.
 
-4.  Wählen Sie den Agent- bzw. Administratortyp, den Sie dem Benutzer zuweisen möchten. Partner Center-Zugriff ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt.  Wenn Benutzer ein rollenzuweisung möchten, finden sie Konten-Admins zu kontaktieren, indem Sie **benutzerverwaltung** und Filterung auf Konto-Administrator.
+4.  Wählen Sie den Agent- bzw. Administratortyp, den Sie dem Benutzer zuweisen möchten. Partner Center-Zugriff ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt.  Wenn Benutzer ein rollenzuweisung möchten, finden sie Konten-Admins, indem Sie **benutzerverwaltung** und Filterung auf Konto Administrator kontaktieren
 
 5.  Wählen Sie **Hinzufügen**, um das Benutzerkonto zu erstellen. Bestätigen Sie die Details des Benutzers auf der nächsten Seite.
 
@@ -45,9 +45,9 @@ Der Benutzer muss sich im Partner Center mit seinem Benutzernamen und einem temp
 
 Der Zugriff auf Partner Center ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt. 
 
-Um im Partner Center arbeiten, benötigen Sie eine Rolle.  Es gibt zwei allgemeine Arten von Rollen: Administratoren und Agents.
+Um im Partner Center arbeiten, müssen Sie zugewiesene Rolle verfügen.  Es gibt zwei allgemeine Arten von Rollen: Administratoren und Agents.
 
-- Administratorberechtigungen steuern die Ebene des Zugriffs, die der Benutzer für Partner Center-Funktionen verfügt. Diese Einstellung wirkt sich außerhalb von Partner Center – ein Abrechnungsadministrator kann auf alle Rechnungen für alle Microsoft-Dienste (auch solche, die sich nicht auf CSP beziehen) zugreifen und ein globaler Administrator Zugriff auf Benutzerkonten und Kundenkonten über CSP sowie.
+- Administratorberechtigungen steuern die Ebene des Zugriffs, die der Benutzer für Partner Center-Funktionen verfügt. Diese Einstellung hat Auswirkungen außerhalb von Partner Center – ein Abrechnungsadministrator kann auf alle Rechnungen für alle Microsoft-Dienste (auch solche, die sich nicht auf CSP beziehen) zugreifen, und ein globaler Administrator Zugriff auf Benutzerkonten und Kundenkonten über CSP auch.
 
 - Agent-Berechtigungen steuern, welche Art von Kundendaten und Kontoinformationen der Benutzer anzeigen und ändern kann.
     
@@ -61,13 +61,13 @@ Die allgemeine Kategorien für Rollen sind:
 Innerhalb jeder dieser allgemeinen Kategorien kann ein Benutzer nur eine Rolle besitzen, aber derselbe Benutzer kann auch Rollen in den anderen allgemeinen Kategorien erhalten. 
 
 >[!Important]
->Benutzer müssen mindestens eine Rolle im Partner Center arbeiten zugewiesen werden.
+>Personen müssen in Ihrem Mandanten Zugang zum Partner Center aufgeführt sein. Rollenzuweisungen bieten zusätzliche Zugriff.
 
 
 ### <a name="find-your-global-admin"></a>Suchen Sie des globalen Administrators
 
-In einigen Fällen müssen ein Benutzer möglicherweise ihre Rolle geändert haben, oder ein neuer Benutzer eine bestimmte Rolle Zuordnung möchten.  
-Wenn einen globalen Administrator suchen, der Änderungen an der Rolle oder Zuweisung von Rollen an einen neuen Benutzer, über das **Symbol "Einstellungen"** oben rechts in der Partner Center vornehmen können, wählen Sie **benutzerverwaltung** und Filter auf globalen Administrator. 
+In einigen Fällen muss ein Benutzer möglicherweise ihre Rolle geändert haben, oder ein neuer Benutzer eine bestimmte rollenzuweisung möchten.  
+Wenn einen globalen Administrator suchen, der Änderungen an der Rolle oder Zuweisung von Rollen an einen neuen Benutzer über das **Symbol "Einstellungen"** oben rechts auf der Partner Center vornehmen können, wählen Sie **benutzerverwaltung** und Filter auf globalen Administrator. 
 
 Spezifische Informationen zu den Rollen und was den jeweiligen Rollen haben finden Sie unter [Zuweisen von Benutzerberechtigungen](permissions-overview.md).
 

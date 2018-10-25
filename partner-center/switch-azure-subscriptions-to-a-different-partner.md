@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: Azure-Abonnement, Partner wechseln, Partner ändern, neue Partner, andere Partner
 ms.localizationpriority: medium
-ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5c4f1b5df62d800f2c3ac14137dd85743e928e90
+ms.sourcegitcommit: 5c8ea8aaa94f79cd2fc031b2b40a0cc363c5d3c7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488966"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5511391"
 ---
 # <a name="transfer-azure-subscriptions"></a>Übertragen von Azure-Abonnements 
 
@@ -21,10 +21,9 @@ ms.locfileid: "4488966"
 Kunden können den Cloud Solution Provider-Partner oder einen anderen Partner für Microsoft Azure-Dienste ändern. Dies ist jedoch ein manueller Vorgang, der Aktionen von Partnern und Kunden erfordert.
 
 >[!Note]  
->Zu diesem Zeitpunkt können nur direkter oder indirekter Anbieter Abonnements übertragen.
+>Zu diesem Zeitpunkt sind nur direkter oder indirekter Anbieter Abonnements übertragen können.
 
->[!Note] 
->Es ist nicht derzeit möglich, Partner für Cloud Solution Provider-Abonnements für Office 365, Enterprise Mobility Suite oder Microsoft Dynamics CRM-Abonnements zu ändern.
+>[!Note]Es ist nicht derzeit möglich, Partner für Cloud Solution Provider-Abonnements für Office 365, Enterprise Mobility Suite oder Microsoft Dynamics CRM-Abonnements zu ändern.
 
 
 
@@ -39,7 +38,7 @@ Kunden können den Cloud Solution Provider-Partner oder einen anderen Partner f�
 
     Erstellen eines Azure-Servicetickets in Partner Center, um eine Abonnementübertragung anzufordern.
 
-    -   Wählen Sie im Partner Center wählen Sie **Kunden aus**, wählen Sie den Kunden aus der Liste, und wählen Sie dann **Servicemanagement**. Wählen Sie im Abschnitt **Supporttickets** die Dropdownliste **Neues Ticket** aus und anschließend **Microsoft Azure**.
+    -   Klicken Sie im Menü "Partner Center" Wählen Sie **Kunden**, wählen Sie den Kunden aus der Liste, und wählen Sie dann **Servicemanagement**. Wählen Sie im Abschnitt **Supporttickets** die Dropdownliste **Neues Ticket** aus und anschließend **Microsoft Azure**.
 
     -   Wählen Sie im Azure-Portal **Neue Supportanfrage** aus.
 
@@ -68,7 +67,7 @@ Kunden können den Cloud Solution Provider-Partner oder einen anderen Partner f�
     *Wichtig*: Wenn der neue CSP-Partner keine Vertriebspartnerbeziehung mit dem Kunden hat, muss diese vor der Übertragung des Abonnements eingerichtet werden. [Informationen hierzu finden Sie hier](request-a-relationship-with-a-customer.md).
 
     >[!Note]
-    >Der neue CSP-Partner und kundenmandanten müssen in derselben Region sein. 
+    >Der neue CSP-Partner und kundenmandanten müssen sich im selben Land befinden. 
 
 5.  Aktueller Partner:
 
@@ -95,9 +94,9 @@ Kunden können den Cloud Solution Provider-Partner oder einen anderen Partner f�
     -  Wählen Sie im Menü „Kunden” **Service management**. 
     -  Unter **Microsoft Azure** klicken Sie auf den Link, um zum **Microsoft Azure-Verwaltungsportal** zu wechseln.
 
- 
+ 
 
- 
+ 
 
 
 

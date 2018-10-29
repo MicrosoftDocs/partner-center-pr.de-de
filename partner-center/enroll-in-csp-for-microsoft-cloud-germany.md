@@ -1,14 +1,17 @@
 ---
 title: Registrieren für das Cloud-Lösungsanbieter-Programm für Microsoft-Cloud Deutschland | Partner Center für Microsoft-Cloud Deutschland
+ms.topic: article
+ms.date: 10/29/2018
 description: Lesen Sie mehr über die CSP-Programmanforderungen, bevor Sie sich für das Microsoft Cloud Deutschland-Programm registrieren.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ff6e0c0ecbf6ef67ae22f21dca25a0026ae0b59
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7ed0b90395e3a15dd03963891dbadc9b1feebeec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489626"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796973"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>Registrieren für das Microsoft Cloud-Lösungsanbieter-Programm für Microsoft-Cloud Deutschland
 
@@ -70,7 +73,7 @@ Um für CSP für Microsoft-Cloud Deutschland ein Partner Center-Konto zu erstell
 Microsoft Cloud Deutschland bietet eine separate Instanz von Microsoft Azure, bereitgestellt in deutschen Rechenzentren mit einem dedizierten Netzwerk, das in Deutschland operiert. Um Administratoren das Verwalten von Benutzern und Lizenzen im Azure-Portal für Deutschland zu ermöglichen, müssen Sie die Administrator-Agent-Rolle manuell zuweisen.
 
 > [!NOTE]  
-> Nachdem Sie Benutzern die Administrator-Agent-Rolle zuweisen, erscheint das Menü " **Kunden** " das Menü "Partner Center", und Sie müssen in der Lage den Zugriff auf Ihre Kundenliste und [neue Kunden hinzufügen](add-a-new-customer.md).   
+> Nachdem Sie Benutzer zur Rolle Admin-Agents zugewiesen, erscheint das Menü " **Kunden** " das Menü "Partner Center", und Sie können den Zugriff auf Ihre Kundenliste und [Hinzufügen neuer Kunden](add-a-new-customer.md)einsehen.   
 
 1.  Melden Sie sich auf das Portal Azure Deutschland unter https://portal.microsoftazure.de/.
 

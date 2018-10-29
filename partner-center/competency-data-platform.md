@@ -1,19 +1,22 @@
 ---
 title: Data Platform-Kompetenz
+ms.topic: article
+ms.date: 10/29/2018
 description: Die Data Platform-Kompetenz erkennt Partner an, die leistungsfähige und vielseitige Datenbankplattformen für Ihr Unternehmen entwickeln möchten.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: Kompetenz,Kompetenzen,Data Platform
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 57fee0a3d7c8b1ff3cf00893b641295b2b271813
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 90b655a6844a69b537b9fabb44adb120b4f961ad
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875650"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797273"
 ---
 >[!IMPORTANT]
->Informationen zu den Anforderungen für die Erreichung dieses Kompetenz finden Sie auf der [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
+>Weitere Informationen zu den Anforderungen für die Erreichung dieses Kompetenz besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

@@ -1,14 +1,17 @@
 ---
 title: Zusammenarbeit mit anderen Partnern | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Arbeiten Sie mit anderen Partnern im CSP zusammen, um die Bedürfnisse Ihrer gemeinsamen Kunden zu erfüllen.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7bac4fd3fa01495125aa054c90b79cc777455f98
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 641acf32646b193622ca4dce59f75970568af9b4
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377692"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794883"
 ---
 # <a name="work-with-other-partners"></a>Zusammenarbeit mit anderen Partnern
 

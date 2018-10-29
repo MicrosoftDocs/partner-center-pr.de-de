@@ -1,14 +1,17 @@
 ---
 title: Registrieren für das Programm für Cloud Solution Provider | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Grundlegendes zu den verschiedenen Modellen für den Verkauf in CSP und herausfinden, welche Lösung am besten zu Ihrem Unternehmen passt
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: dee2136344959b3a22816f9db7ee26d9743eb54a
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 35a23762cb187eb9277a88c8ac54abf694a823b5
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489926"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796593"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud Solution Provider
 
@@ -21,7 +24,7 @@ ms.locfileid: "4489926"
 
 Um sich beim Programm für Cloud Solution Provider zu registrieren, benötigen Sie zuerst eine MPN-ID. Sie besitzen noch keine? Treten Sie [hier](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=) bei.
 
-Beim Ausfüllen der CSP-Anwendung benötigen Sie Ihre MPN-ID, vollständige Geschäftsadresse, Bankverbindungen und die e-Mail-Adresse des Mitarbeiters, als Administrator für das Partner Center fungiert.
+Beim Ausfüllen der CSP-Anwendungs benötigen Sie Ihre MPN-ID, vollständige Geschäftsadresse, Bankverbindungen und die e-Mail-Adresse für den Mitarbeiter, der als Administrator für das Partner Center fungiert.
 
 Entscheiden Sie, welches [CSP-Modell zutrifft](https://partnercenter.microsoft.com/en-us/cloud-solution-provider/csp-enrollment) und führen Sie den Prozess durch. 
 
@@ -37,7 +40,7 @@ Die Überprüfung Ihrer Angaben kann mehrere Tage dauern. Wir werden Sie per E-M
 
 2. Der globale Administrator sollte Ihr Konto im Partner Center einrichten. Der globale Administrator Ihrer Organisation hinzufügen kann Mitarbeiter, die im Partner Center arbeiten, weisen Sie diesen Rollen und Berechtigungen je nach deren Arbeit damit werden dadurch und das Organisationsprofil einrichten.
 
-3. Ihre Mitarbeiter erhalten eine E-Mail mit ihren temporären Kennwörtern. Sie sollten das Partner Center anmelden und das Kennwort ändern. Sie können danach mit der Arbeit beginnen.
+3. Ihre Mitarbeiter erhalten eine E-Mail mit ihren temporären Kennwörtern. Sie sollten in das Partner Center anmelden und das Kennwort ändern. Sie können danach mit der Arbeit beginnen.
 
 4. Der Mitarbeiter, der die Rolle des Unternehmensprofil-Administrator ausführt, sollte Ihr Unternehmensprofil einrichten, damit Sie Empfehlungen für Kunden erhalten können.
 
@@ -47,22 +50,22 @@ Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit 
 
 - Sobald Sie angemeldet sind und die Kriterien als direkter Partner erfüllen, kann der globale Administrator Ihr Konto einrichten, Mitarbeiter hinzufügen, diesen Rollen und Berechtigungen gemäß ihrer Arbeit zuweisen und das Organisationsprofil einrichten. 
 
-- Wenn Sie mit dem Kunden, die Sie über das Partner Center gearbeitet haben mit Arbeit fortsetzen möchten, müssen Sie zum [Zuordnen von Vertriebspartnern](request-a-relationship-with-a-customer.md) für Ihr Konto im Partner Center.  Microsoft kann so die Abrechnung und Fakturierung mit Ihnen verbinden. 
+- Wenn Sie mit dem Kunden, die Sie gearbeitet haben Testabfragen über das Partner Center fortsetzen möchten, müssen Sie zum [Zuordnen von Vertriebspartnern](request-a-relationship-with-a-customer.md) zu Ihrem Konto im Partner Center.  Microsoft kann so die Abrechnung und Fakturierung mit Ihnen verbinden. 
 
 > [!NOTE]  
->  Die Anforderungen für eine direkte Partnerschaft zuletzt geändert wurden und wirksam ab dem 31. August 2018. Direkte Partner müssen die neue ab ihrer nächsten Registrierung Zeitraum nach dem 31. August 2018 erfüllen.
+>  Die Anforderungen für eine direkte Partnerschaft zuletzt geändert wurden und wirksam ab dem 31. August 2018. Direkte Partner müssen die neue ab ihrer nächsten Registrierungsperiode nach dem 31. August 2018 erfüllen.
 
 #### <a name="new-expanded-requirements"></a>Neue erweiterte Anforderungen:
 
 Unterstützung
-- Erweitern Sie Ihre Fähigkeiten Unterstützung durch den Erwerb persönlichen, priorisierte Cloud-Unterstützung mit einem Microsoft Advanced Support für Partner-Paket. Oder Sie wählen einen Microsoft Premier Support für Partner-Paket auf den vollständigen Katalog der proaktive Dienste zugreifen, 24/7 mit erhöhten Rechten Break-Fix-Support und technische Kontenverwaltung über die Cloud, Hybrid- und lokale. 
+- Erweitern Sie Ihre Fähigkeiten Unterstützung durch den Erwerb persönlichen, priorisierte Cloud-Unterstützung mit einer Microsoft erweiterte Support für Partner-Paket. Oder Sie wählen einen Microsoft Premier Support für Partner-Paket auf den vollständigen Katalog der proaktive Dienste zugreifen, 24/7 mit erhöhten Rechten Break-Fix-Support und technische Kontenverwaltung über Cloud, Hybrid- und lokale. 
 
 Dienste
 
-- Führen Sie vor, dass Sie mindestens ein verwalteter Dienst, IP-Dienst oder Kunden Lösung Anwendung bereitstellen. Erfahren Sie mehr über verwaltete Dienste hinzufügen
+- Führen Sie vor, dass Sie mindestens ein verwalteter Dienst, IP-Dienst oder Kunden Lösung Anwendung bereitstellen. Erfahren Sie mehr über das Hinzufügen von verwaltete Dienste
 
 - Die minimale Infrastrukturfunktionen, z. B. Abrechnung und Bereitstellung zu erfüllen.
-Wir überwachen jährliche Leistung, um sicherzustellen, dass die Online-Dienst-Partner, die diese Anforderungen erfüllt stetig Unternehmenswachstum veranschaulicht werden. Es gibt keine spezifische Leistungsziele im Ort zu diesem Zeitpunkt, aber Microsoft möglicherweise eine Leistung Leiste in Zukunft implementieren. 
+Wir sind Überwachen der jährlichen Leistung um sicherzustellen, dass Online-Dienst-Partner, die diese Anforderungen erfüllt sind, stationäre Unternehmenswachstum veranschaulicht. Es gibt keine spezifische Leistungsziele im Ort zu diesem Zeitpunkt, aber Microsoft möglicherweise eine Leistung Leiste in Zukunft implementieren. 
 
 - Eine aktive Microsoft Partner Network (MPN)-ID für den Standort, in dem Sie den Verkauf tätigen möchten
 

@@ -1,15 +1,18 @@
 ---
 title: Microsoft-Kompetenzanforderungen für die Silber- und Gold-Mitgliedschaft | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Erfahren Sie mehr über die Kompetenzanforderungen für die Mitgliedschaftsstufen Silber und Gold.
-author: Maggiepuccievans
+author: MaggiePucciEvans
+ms.author: evansma
 keywords: Kompetenzen, Silver-Mitgliedschaft, Gold-Mitgliedschaft, mpn, MAPS, Kompetenz, Microsoft Partner Network, Network Mitgliedschaft
 ms.localizationpriority: medium
-ms.openlocfilehash: 705a9037282a77d33dd356e8d49fe855b5521a9a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: c4546c8e7675f2d25cd29da765c1320531c8c11f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875730"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796823"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Erfahren Sie mehr über die Microsoft-Kompetenzanforderungen für die Silber und Gold-Mitgliedschaft
 

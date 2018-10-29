@@ -1,15 +1,18 @@
 ---
 title: Hinzufügen von Drittanbietersoftware zu Ihrem Portfolio | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Kaufen von Drittanbietersoftware, die mit Microsoft-Produkten funktioniert
 author: labrenne
+ms.author: labrenne
 keywords: Drittanbieter-Angebote, Kaufsoftware
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ea21f8799faaf34703e51f9620f8169364569dc
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 42aacee4f5d9612f3b55bd1774f9c96b71be8eda
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489846"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795763"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Hinzufügen von Drittanbietersoftware zu Ihrem Portfolio
 
@@ -21,7 +24,7 @@ Sie können nun im Partner Center Drittanbietersoftware erwerben, die Sie Kunden
 
 Derzeit enthält das Partner Center Softwareangebote von Drittanbietern, die sich in Azure, Office365 oder Dynamics integrieren lassen. 
 
-## <a name="connect-with-third-party-partners"></a>Verbinden Sie mit Drittanbieter-Partnern
+## <a name="connect-with-third-party-partners"></a>Vernetzen Sie mit Drittanbieter-Partnern
  
 Als CSP-Partner können Sie Softwareangebote von Drittanbietern durchsuchen. Sie können sich mit ISV-Partnern verbinden und Ihren Produktkatalog erstellen. ISV-Partner können zudem nach CSP-Partnern suchen, mit denen sie arbeiten möchten. Sie können nach den von Ihnen verkauften Microsoft-Produkten suchen und Ihr Geschäftsprofil überprüfen. Es ist deshalb wichtig, Ihr Geschäftsprofil auf dem aktuellen Stand zu halten. Sie teilen einem ISV-Partner Ihr Interesse an seinem Produkt mit, indem Sie in der Produktidentifikation auf den Button „Ich bin interessiert ”klicken und das Formular ausfüllen. Microsoft sendet es an den ISV-Partner. Ihre Antwort wird im Partner Center verwaltet. Wenn ein ISV-Partner Interesse an einer Zusammenarbeit mit Ihnen bekundet, erhalten Sie ebenfalls eine Benachrichtigung über das Partner Center. Antworten Sie möglichst innerhalb von 48 Stunden.
 

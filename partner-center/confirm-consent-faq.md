@@ -1,15 +1,18 @@
 ---
 title: Microsoft Cloud Agreement Kunden Annahme Bestätigung häufig gestellte Fragen | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 Description: FAQ for customer acceptance confirmation
 author: v-petand
-keywords: Kunden, Kunden, Zustimmung, häufig gestellte Fragen
+ms.author: v-petand
+keywords: Kunden, die Kunden, die Zustimmung, häufig gestellte Fragen
 ms.localizationpriority: medium
-ms.openlocfilehash: af521520b8650a8c585a3644eaf7a5263e17ba78
-ms.sourcegitcommit: bbb8bf661c73b260abc6565e287cfef3eb4cfa01
+ms.openlocfilehash: be40b55354c1b307ae29ac8db86e397c2886f682
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2018
-ms.locfileid: "5425217"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796643"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Microsoft Cloud Agreement Kunden Annahme Bestätigung häufig gestellte Fragen 
 
@@ -28,25 +31,25 @@ Weitere Informationen hierzu finden Sie unter [bestätigen Kunden Abnahme der Ve
 
 **Was ist der neue Prozess für die Bestätigung Abnahme durch den Kunden von Microsoft Cloud-Vertrag (MCA)?**
 
-Microsoft ist bestrebt, unsere Kunden und Partner bleibt Ihre Konformität gewahrt. Als Partner im Programm für Microsoft Cloud Solution Provider (CSP) sind Sie für die Überprüfung Microsofts Bestimmungen, einschließlich der akzeptablen Verwendung von Microsoft-Produkte und Dienste mit Kunden verantwortlich. Partner Erfüllung der Compliance-Anforderungen besser unterstützen und die Transparenz sicherzustellen, werden wir einen neuen Prozess aktivieren, der benötigt, CSP-Partner zu bestätigen, dass ihre Kunden die MCA Bestimmungen akzeptiert haben. Ab 7 August 2018 haben wir ein neues Feld in der Partner Center-Dashboard-Benutzeroberfläche sowie eingeführt, ein Partner Center-API für Partner, um diese Informationen bereitzustellen. Zunächst haben, können Sie optional, diese Bestätigung bieten jedoch erforderlich sein, wird ab 7 November 2018. 
+Microsoft ist bestrebt, helfen wir unseren Kunden und Partnern bleibt Ihre Konformität gewahrt. Als Partner im Programm für Microsoft Cloud Solution Provider (CSP) sind Sie für die Überprüfung Microsofts Bestimmungen, einschließlich der zulässigen Verwendung von Microsoft-Produkte und Dienste mit Kunden verantwortlich. Partner Erfüllung der Compliance-Anforderungen besser unterstützen und die Transparenz sicherzustellen, werden wir einen neuen Prozess aktivieren, der benötigt, CSP-Partner, um zu bestätigen, dass ihre Kunden die MCA Bestimmungen akzeptiert haben. Ab 7 August 2018 haben wir ein neues Feld in der Partner Center-Dashboard-Benutzeroberfläche sowie eingeführt, ein Partner Center-API für Partner, um diese Informationen bereitzustellen. Zunächst haben, können Sie optional, um zu diesem Bestätigung jedoch erforderlich sein, wird ab 7 November 2018. 
 
 **Wann wirksam diese Anforderung?**
 
-Partner können beginnen Annahme bestätigt, sobald die Funktionalität 7 August 2018 verfügbar ist. Ab 7 November 2018 Partner Center-Dashboard-Benutzer müssen Kunden Zustimmung des MCA für alle neuen Transaktionen bestätigen. 22 März 2019 können Partner Center-API Benutzer dies erforderlich wird. Die Frist für die API Benutzer wurde erweitert, um zusätzliche können für technischen Implementierung.
+Partner können beginnen Annahme bestätigt, sobald die Funktionalität 7 August 2018 verfügbar ist. Ab 7 November 2018 sind Partner Center-Dashboard-Benutzer müssen Kunden zur Annahme von der MCA für alle neuen Transaktionen zu bestätigen. 22 März 2019 können Partner Center-API-Benutzer dies erforderlich wird. Die Frist für die API-Benutzer wurde erweitert, um zusätzliche können jederzeit für technischen Implementierung.
 
 **NEUE | Überprüft Microsoft die Genauigkeit der Kundeninformationen vom Partner?**
 
-Microsoft überprüft, ob die Kunde e-Mail-Adresse zur Verfügung gestellt des richtigen Formats ist. Es obliegt des Partners genaue Informationen bereitstellen und beheben alle Informationen, die nicht zuverlässig gefunden wird. 
+Microsoft wird überprüft, ob die angegeben Customer e-Mail-Adresse des richtigen Formats. Es obliegt des Partners genaue Informationen bereitstellen und beheben alle Informationen, die nicht zuverlässig gefunden wird. 
 
-**NEUE | Wie kann ein Partner die Zustimmung des Kunden von der MCA nachweisen, ob es die dokumentiert, signiert ist, texturzuordnungen, oder auf Papier?**
+**NEUE | Wie kann ein Partner die Zustimmung des Kunden von der MCA nachweisen, ob es dokumentiert, signiert ist, texturzuordnungen, oder auf Papier?**
 
-Der Partner ist verantwortlich dafür, dass der Kunde die Bestimmungen des der MCA akzeptiert hat und für die Verwaltung von ihren eigenen Prozess und die Datensätze. Mithilfe des Partner Center-Dashboard oder Partner Center-API-Prozess ist der Partner bestätigt haben, dass der Kunde die Bestimmungen des der MCA akzeptiert hat.
+Der Partner ist verantwortlich dafür, dass der Kunde die Bestimmungen des der MCA akzeptiert hat und für die Verwaltung von ihren eigenen Prozess und Datensätze. Mithilfe des Partner Center-Dashboard oder Partner Center-API-Prozess ist der Partner bestätigt, dass der Kunde die Bestimmungen des der MCA akzeptiert hat.
 
-**NEUE | Überprüfen Microsoft wird gezeigt, wie, dass die Bestätigung für einen Kunden abgeschlossen ist?**
+**NEUE | Wie wird Microsoft feststellen, dass die Bestätigung für einen Kunden abgeschlossen ist?**
 
-Ab dem 7 November 2018 Wenn ein CSP-Partner eine Transaktion mit dem Partner Center-Dashboard für einen neuen oder vorhandenen Kunden initiiert, Microsofts Systeme automatisch prüfen, ob die Bestätigung Kundeninformationen in das Partner Center vorhanden ist Dashboard. Wenn es nicht vorhanden ist, werden die Transaktion nicht abgeschlossen werden können. 
+Ab dem 7 November 2018 Wenn ein CSP-Partner mithilfe von Partner Center-Dashboard für einen neuen oder vorhandenen Kunden eine Transaktion initiiert, Microsoft Systeme automatisch prüfen, ob die Bestätigung Kundeninformationen in das Partner Center vorhanden ist Dashboard. Wenn es nicht vorhanden ist, werden die Transaktion nicht abgeschlossen werden können. 
 
-Ab März 22 2019, wenn ein CSP-Partner eine Transaktion für einen neuen oder vorhandenen Kunden mit der Partner Center-API initiiert, prüfen Microsofts Systeme automatisch, ob die Bestätigung Kundeninformationen vorhanden ist. Wenn es nicht vorhanden ist, werden die Transaktion nicht abgeschlossen werden können. 
+Ab März 22 2019, wenn ein CSP-Partner eine Transaktion für einen neuen oder vorhandenen Kunden mit der Partner Center API initiiert, prüfen Microsoft Systeme automatisch, ob die Bestätigung Kundeninformationen vorhanden ist. Wenn es nicht vorhanden ist, werden die Transaktion nicht abgeschlossen werden können. 
 
 **NEUE | Erhalten Benachrichtigung Kunden, deren e-Mail-Adresse in der Bestätigung zu bereitgestellt wird?**
 
@@ -54,11 +57,11 @@ Es werden keine Benachrichtigung.
 
 ## <a href="" id="policyfaq"></a>Richtlinie
 
-**Warum ist Microsoft Partner zu bestätigen, dass Kunden die MCA akzeptiert haben erfordern?** 
+**Warum ist Microsoft Partner zu bestätigen, dass Kunden den MCA akzeptiert haben erfordern?** 
 
-Die Microsoft-Cloud-Vertrag (MCA) schützt Partner, Kunden und Microsoft durch die Bereitstellung der Kunde Nutzungsrechte und Geschäftsbedingungen für Microsoft Cloud-Produkten und Diensten Aufträge gewährt. 
+Die Microsoft-Cloud-Vertrag (MCA) schützt Partner, Kunden und Microsoft durch die Bereitstellung des Kunden Nutzungsrechte und Geschäftsbedingungen für Microsoft Cloud-Produkten und Diensten Aufträge gewährt. 
 
-Ordnungsgemäße Ausführung der MCA schützt unsere Partner, Kunden und Microsoft indem sichergestellt wird gegenseitige Ausrichtung auf viele wichtige Themen einschließlich aber nicht beschränkt auf Sicherheit, Datenschutz und Datenschutz. Der Bestätigung zu wird sichergestellt, dass Transparenz und Ausrichtung und bietet Microsoft Kunden besser zu unterstützen, die umgehend gesetzlichen Anfragen reagieren müssen.
+Ordnungsgemäße Ausführung der MCA schützt unsere Partner, Kunden und Microsoft indem sichergestellt wird gegenseitige Ausrichtung auf viele wichtige Themen einschließlich aber nicht beschränkt auf Sicherheit, Datenschutz und Datenschutz. Der Bestätigung zu wird sichergestellt, dass Transparenz und Ausrichtung und kann Microsoft Kunden besser zu unterstützen, die umgehend behördlichen Anfragen reagieren müssen.
 
 **Welche Kundeninformationen ist erforderlich, um die Bestätigung abzuschließen?**
 In Bezug auf die Person, die den Vertrag akzeptiert ist Folgendes erforderlich:
@@ -67,19 +70,19 @@ In Bezug auf die Person, die den Vertrag akzeptiert ist Folgendes erforderlich:
 -   E-Mail-Adresse
 -   Telefonnummer (optional) 
 
-**NEUE | Was geschieht, wenn wir nicht, dass das Fälligkeitsdatum erfüllen?**
+**NEUE | Was geschieht, wenn wir das Fälligkeitsdatum nicht erfüllen?**
 
-Partner können beginnen Annahme bestätigt, sobald die Funktionalität 7 August 2018 verfügbar ist. Ab 7 November 2018 Partner Center-Dashboard-Benutzer müssen Kunden Zustimmung des MCA für alle neuen Transaktionen bestätigen. 22 März 2019 können Partner Center-API Benutzer dies erforderlich wird.
+Partner können beginnen Annahme bestätigt, sobald die Funktionalität 7 August 2018 verfügbar ist. Ab 7 November 2018 sind Partner Center-Dashboard-Benutzer müssen Kunden zur Annahme von der MCA für alle neuen Transaktionen zu bestätigen. 22 März 2019 können Partner Center-API-Benutzer dies erforderlich wird.
 
-Zum Zeitpunkt der Erzwingung werden neue Verkäufe für einen vorhandenen Kunden oder Änderungen, Anzahl für bestehende Abonnements einzusetzen nicht zugelassen, bis die Annahme Kunden bestätigt wird. Für einen neuen Kunden werden die Transaktionen nicht zugelassen werden, bis die Annahme bestätigt wird. Automatische Verlängerung wird durch diese Anforderung nicht beeinträchtigt.
+Zum Zeitpunkt der Erzwingung werden neue Verkäufe für einen vorhandenen Kunden oder Änderungen, Anzahl für bestehende Abonnements einzusetzen nicht zugelassen, bis die Abnahme durch den Kunden bestätigt wird. Für einen neuen Kunden werden Transaktionen nicht zugelassen, bis die Annahme bestätigt wird. Automatische Verlängerung wird durch diese Anforderung nicht beeinträchtigt.
 
 **Welche Regionen gilt diese Anforderung für?**
 
-Bestätigung der Kunde Aufnahme in den MCA ist erforderlich für alle Regionen unter Microsoft öffentliche Cloud. Bestätigung der Kunde Annahme wird mit nationalen Clouds (einschließlich Microsoft Cloud für US-Behörden und Microsoft-Cloud Deutschland) nicht unterstützt.
+Bestätigung der Abnahme durch den Kunden, die MCA ist erforderlich für alle Regionen unter öffentliche Cloud von Microsoft. Bestätigung der Kunde Annahme wird mit nationalen Clouds (einschließlich Microsoft Cloud für US-Behörden und Microsoft-Cloud Deutschland) nicht unterstützt.
 
-**Welche Partner Abnahme durch den Kunden, die MCA überprüfen verantwortlich sind?**
+**Welche Partner sind verantwortlich für die Bestätigung Abnahme durch den Kunden, die MCA?**
 
-Effektive, 7. November 2018 Cloud Service Provider (CSP) indirekte Anbieter und direkte CSP-Rechnung Partner sind sowohl für die Bestätigung Abnahme durch den Kunden verantwortlich und können dazu das Partner Center-API oder Partner Center-Dashboard verwenden. Indirekte Anbieter müssen zunächst die erforderliche Informationen aus ihren indirekten Vertriebspartnern sammeln und dann über das Partner Center-API oder Partner Center-Dashboard an Microsoft zur Verfügung stellen. Vertraglich, ist es dem indirekten Anbieter, hat eine Bindung Vertrag mit Microsoft, um sicherzustellen, dass ihre CSP Händler Endkunden auf die MCA akzeptiert haben. 
+Effektive, 7. November 2018 indirekte Anbieter Cloud Service Provider (CSP) und direkte Rechnung CSP-Partner sind sowohl für die Bestätigung Abnahme durch den Kunden verantwortlich und können dazu die Partner Center-API oder Partner Center-Dashboard verwenden. Indirekte Anbieter müssen zunächst die erforderliche Informationen vom indirekten Vertriebspartner sammeln und dann über das Partner Center-API oder Partner Center-Dashboard an Microsoft zur Verfügung stellen. Vertraglich, ist es der indirekte Anbieter, hat eine Bindung Vertrag mit Microsoft, um sicherzustellen, dass Endkunden CSP Vertriebspartner auf der MCA akzeptiert haben. 
 
 **Welche Kundenszenarien Bestätigung der Kunde Annahme der MCA erforderlich?**
 
@@ -90,68 +93,68 @@ Die Übernahme von Microsoft Cloud Agreement muss bestätigt werden, wenn der CS
 
 **Kann ich bestätigen die Annahme für vorhandene Kunden unabhängig von deren neue Einkäufe oder einzusetzen Ergänzungen?**
 
-Ja Kunden Annahme kann für alle Kunden, die von der MCA abgedeckten bestätigt werden.
+Ja Abnahme durch den Kunden kann für alle Kunden, die von der MCA abgedeckten bestätigt werden.
 
 **Was sind die Anforderungen für Kunden, die mehrere CSP-Partner haben?**
 
-Bestätigung der Annahme wird vom Partner bestätigt. Wenn ein Kunde mit mehreren CSP-Partnern Regulations, jeden Partner müssen Zustimmung bestätigen.
+Bestätigung der Annahme wird durch den Partner bestätigt. Wenn ein Kunde mit mehreren CSP-Partnern Regulations, jeden Partner erforderlich, Annahme zu bestätigen.
 
 **Ich bin ein indirekter CSP-Händler arbeiten mit indirekten Anbietern CSP. Was ist meine Verantwortlichkeit?**
 
-Vertraglich, ist es dem indirekten Anbieter, hat eine Bindung Vertrag mit Microsoft, um sicherzustellen, dass die Endkunden die MCA akzeptiert hat. Indirekte Anbieter haben jedoch möglicherweise separate Regelung mit indirekten Vertriebspartnern zum Sammeln von Abnahme durch den Kunden. In diesem Fall wird indirekte Anbieter müssen zunächst die erforderlichen Kundeninformationen Annahme von indirekten Vertriebspartner sammeln und dann über das Partner Center-API oder Partner Center-Dashboard an Microsoft zur Verfügung stellen. Sie können diesen Prozess unterstützen, indem umgehend die erforderliche Informationen für Ihre indirekte Anbieter auf ihre Anfrage bereitstellen.
+Vertraglich, ist es der indirekte Anbieter, hat eine Bindung Vertrag mit Microsoft, um sicherzustellen, dass der Endkunden den MCA akzeptiert hat. Indirekte Anbieter haben jedoch möglicherweise separate Regelung mit indirekten Vertriebspartnern zum Sammeln von Abnahme durch den Kunden. In diesem Fall wird indirekte Anbieter müssen zunächst die erforderlichen Kundeninformationen Annahme von indirekten Vertriebspartner sammeln und dann über das Partner Center-API oder Partner Center-Dashboard an Microsoft zur Verfügung stellen. Sie können diesen Prozess unterstützen, indem umgehend die erforderliche Informationen für Ihre indirekte Anbieter auf ihre Anfrage bereitstellen.
 
-**Ich bin einem indirekter CSP-Anbieter. Muss ich mein indirekten CSP-Händler vorbereitet werden abgestimmt?**
+**Ich bin einem indirekter CSP-Anbieter. Muss ich meine indirekten CSP-Händler vorbereitet werden abgestimmt?**
 
-Indirekte Anbieter, die die erforderliche Kundeninformationen Annahme über ihren indirekten Vertriebspartnern sammeln müssen werden empfohlen, um diese Anforderung zu indirekten Vertriebspartner sofort für die Bereitstellung und den Erhalt dieser Informationen zu koordinieren zu kommunizieren.
+Indirekte Anbieter, die die erforderlichen Kundeninformationen Annahme von indirekten Vertriebspartner sammeln müssen werden empfohlen, um diese Anforderung zu indirekten Vertriebspartner sofort an der Bereitstellung und den Erhalt dieser Informationen zu koordinieren zu kommunizieren.
 
-**Wie kann ich meinen Kunden erklären Sie, dass sie ihre Zustimmung von der MCA bestätigen sollte?**
+**Wie kann ich meinen Kunden erklären Sie, dass sie ihre Zustimmung des die MCA bestätigen sollte?**
 
-Die Ausführung des der MCA schützt Microsoft, seine Partner und Kunden durch sicherstellen, dass gegenseitige Ausrichtung auf viele wichtige Themen einschließlich aber nicht beschränkt auf Sicherheit, Datenschutz und Schutz von Daten. Der Bestätigung zu wird sichergestellt, dass Transparenz und Ausrichtung und bietet Microsoft Kunden besser zu unterstützen, die umgehend gesetzlichen Anfragen reagieren müssen.
+Die Ausführung des der MCA schützt Microsoft, seine Partner und Kunden durch sicherstellen, dass gegenseitige Ausrichtung auf viele wichtige Themen einschließlich aber nicht beschränkt auf Sicherheit, Datenschutz und Datenschutz. Der Bestätigung zu wird sichergestellt, dass Transparenz und Ausrichtung und kann Microsoft Kunden besser zu unterstützen, die umgehend behördlichen Anfragen reagieren müssen.
 
-**NEUE | Wenn ein Kunde mit einem einzigen indirekter CSP-Anbieter funktioniert, aber die Transaktionen mit mehreren CSP Indirect Resellers abgeschlossen sind, muss jeder indirekten CSP-Händler, indirekter CSP-Anbieter die Bestätigungsinformationen bereitzustellen?**
+**NEUE | Wenn ein Kunde mit einem einzigen indirekter CSP-Anbieter funktioniert, aber die Transaktionen mit mehreren CSP indirekten Vertriebspartnern abgeschlossen sind, muss jeder indirekten CSP-Händler, indirekter CSP-Anbieter die Bestätigungsinformationen bereitzustellen?**
 
-Der indirekte Anbieter CSP ist für die Bereitstellung der Bestätigung der MCA Kunden Annahme an Microsoft verantwortlich. Für jedes Kundenkonto kann nur eine Bestätigung im Partner Center-Dashboard zu einem bestimmten Zeitpunkt erfasst werden. 
+Der indirekte Anbieter CSP ist für die Bereitstellung der Bestätigungs der MCA Kunden Annahme an Microsoft verantwortlich. Für jedes Kundenkonto kann nur eine Bestätigung im Partner Center-Dashboard zu einem bestimmten Zeitpunkt erfasst werden. 
 
 Der indirekte Anbieter CSP ist verantwortlich für bestätigen, dass eine Kunde Kontaktperson verantwortlich für Ihre an die MCA, unabhängig von der Anzahl der CSP Indirect Resellers, die sie getan hat mit Transaktionen durchzuführen.
 
-**NEUE | Wer sollte die autorisierten Person, die Zustimmung des MCA innerhalb der Organisation des Kunden bestätigen sein?**
+**NEUE | Wer sollte die autorisierten Person, die Zustimmung des die MCA innerhalb der Organisation des Kunden bestätigen sein?**
 
-Es obliegt des Partners Kunden zur Annahme von der MCA von einer Person innerhalb der Organisation des Kunden zu erhalten. Es ist der Verantwortung des Kunden um zu bestimmen, wer berechtigt ist, um Akzeptanz bereitzustellen. 
+Es obliegt des Partners Abnahme durch den Kunden von der MCA von einer Person innerhalb der Organisation des Kunden zu erhalten. Es ist der Verantwortung des Kunden um zu bestimmen, wer berechtigt ist, um Akzeptanz bereitzustellen. 
 
-**NEUE | Welche Version von der MCA sind Partner für die Bestätigung Abnahme der durch den Kunden verantwortlich? Müssen Partner angeben, welche Version von der MCA vom Kunden akzeptiert wurde?**
+**NEUE | Welche Version von den MCA sind Partner für die Bestätigung Abnahme der durch den Kunden verantwortlich? Müssen Partner angeben, welche Version von den MCA vom Kunden akzeptiert wurde?**
 
-Partner sind für die Verwendung der aktuelle MCA, bei der CSP-Transaktionen für einen neuen Kunden verantwortlich. Partner müssen zur Annahme von der aktuellen MCA beim erneuern, ändern oder neue Transaktionen mit einem vorhandenen Kunden abschließen bestätigen. 
+Partner sind für die Verwendung des aktuelle MCA, bei der CSP-Transaktionen für einen neuen Kunden verantwortlich. Partner müssen zur Annahme von der aktuellen MCA beim erneuern, ändern oder neue Transaktionen mit einem vorhandenen Kunden abschließen bestätigen. 
 
-Im Fall, dass die MCA vor der Verlängerung aktualisiert wird Partner sind nicht erforderlich, damit der Kunde Kunden zur Annahme von der MCA sofort erneut abrufen, aber Zustimmung zu den MCA vor der Verlängerung bestätigen müssen. Möglicherweise möchten Sie jedoch, der Kunde vor der Verlängerung bis hin zur neuen und verbesserten Begriffe in den MCA nutzen neue zustimmen.
+Im Fall, dass der MCA vor der Verlängerung aktualisiert wird Partner sind nicht erforderlich, um den Kunden zur Annahme von der MCA sofort erneut erhalten Kunden haben, jedoch müssen zur Zustimmung zu den MCA vor der Verlängerung bestätigen. Möglicherweise möchten Sie jedoch, der Kunde vor der Verlängerung bis hin zur neuen und verbesserten Begriffe in den MCA nutzen neue zustimmen.
 
-**NEUE | Ich bin einem indirekter CSP-Händler. Muss ich diese Informationen über das Partner Center-Dashboard oder Partner Center-API geboten, wenn Aufzeichnen von Kunden zur Annahme von der MCA in meinem Unternehmen Datensätze?**
+**NEUE | Ich bin einem indirekter CSP-Händler. Muss ich diese Informationen über das Partner Center-Dashboard oder Partner Center-API geboten, wenn ich Kunden zur Annahme von der MCA in meinem Unternehmen Datensätzen aufzuzeichnen?**
 
-Vertraglich, ist es dem indirekten Anbieter, hat eine Bindung Vertrag mit Microsoft, um sicherzustellen, dass die Endkunden die MCA akzeptiert hat. Indirekte Anbieter haben jedoch möglicherweise separate Regelung mit indirekten Vertriebspartnern zum Sammeln von Abnahme durch den Kunden. In diesem Fall wird indirekte Anbieter müssen zunächst die erforderlichen Kundeninformationen Annahme von indirekten Vertriebspartner sammeln und dann über das Partner Center-API oder Partner Center-Dashboard an Microsoft zur Verfügung stellen.
+Vertraglich, ist es der indirekte Anbieter, hat eine Bindung Vertrag mit Microsoft, um sicherzustellen, dass der Endkunden den MCA akzeptiert hat. Indirekte Anbieter haben jedoch möglicherweise separate Regelung mit indirekten Vertriebspartnern zum Sammeln von Abnahme durch den Kunden. In diesem Fall wird indirekte Anbieter müssen zunächst die erforderlichen Kundeninformationen Annahme von indirekten Vertriebspartner sammeln und dann über das Partner Center-API oder Partner Center-Dashboard an Microsoft zur Verfügung stellen.
 
-**NEUE | Was geschieht, wenn der Kunde nicht an die Bestimmungen des der MCA übereinstimmt?**
+**NEUE | Was geschieht, wenn mein Kunde nicht von der MCA zuzustimmen?**
 
-Als Partner im CSP-Programm Microsofts sind Sie verantwortlich für Kunden zur Annahme von MCA vor eine Bestellung. Dies ist keine neue Anforderung. Aus irgendeinem Grund Wenn der Kunde nicht mehr mit dem MCA muss dann der Partner die Abonnements Zusammenhang mit diesen Kunden stornieren.
+Als Partner im CSP-Programm für Microsoft sind Sie verantwortlich für Kunden zur Annahme von der MCA vor eine Bestellung. Dies ist keine neue Anforderung. Aus irgendeinem Grund Wenn der Kunde nicht mehr mit dem MCA muss dann der Partner die Abonnements Zusammenhang mit diesen Kunden stornieren.
 
-**NEUE | Kann ein Händler Zustimmung im Auftrag des Kunden geben?**
+**NEUE | Kann ein Händler Zustimmung im Auftrag des Kunden bereitstellen?**
 
 Nein.
 
 **Nachdem sichergestellt werden, dass ein Kunde Annahme bereitgestellt hat, muss ich erneut bestätigen Sie es für den Kunden in der Zukunft?**
 
-Sie haben einmal bestätigt, dass der Kunde die MCA angenommen hat, diese Informationen im Abschnitt mit Konto im Partner Center bleibt und es ist nicht erforderlich, Annahme für die Dauer zu bestätigen, die der Kunde von Bedingungen der Vereinbarung zustimmen abgedeckt ist. Sie müssen nur Annahme vor eine neue Bestellung bestätigen.
+Sie haben einmal bestätigt, dass der Kunde den MCA angenommen hat, diese Informationen im Abschnitt mit Konto im Partner Center bleibt und es ist nicht erforderlich, um Akzeptanz für die Dauer der Zeit erneut zu bestätigen, die der Kunde von Bedingungen der Vereinbarung zustimmen abgedeckt ist. Sie müssen nur Annahme vor eine neue Bestellung bestätigen.
 
-Im Fall, dass die MCA vor der Verlängerung aktualisiert wird Partner sind nicht erforderlich, damit der Kunde Kunden zur Annahme von der MCA sofort erneut abrufen, aber Zustimmung zu den MCA vor der Verlängerung bestätigen müssen. Möglicherweise möchten Sie jedoch, der Kunde vor der Verlängerung bis hin zur neuen und verbesserten Begriffe in den MCA nutzen neue zustimmen.
+Im Fall, dass der MCA vor der Verlängerung aktualisiert wird Partner sind nicht erforderlich, um den Kunden zur Annahme von der MCA sofort erneut erhalten Kunden haben, jedoch müssen zur Zustimmung zu den MCA vor der Verlängerung bestätigen. Möglicherweise möchten Sie jedoch, der Kunde vor der Verlängerung bis hin zur neuen und verbesserten Begriffe in den MCA nutzen neue zustimmen.
 
-**NEUE | Ich bin nicht vertraut mit Microsoft Meine Endkunden direkte Kontaktinformationen. Wie verwendet Microsoft diese Informationen?**
+**NEUE | Ich bin nicht vertraut Microsoft Meine Endkunden direkte Kontaktinformationen erteilen. Wie werden diese Informationen von Microsoft verwendet?**
 
-Wenn ein Partner einen kundenmandanten erstellt wird, ist es erforderlich, um einen primären Kontaktinformationen für den Kunden bereitzustellen. Pro die Online Services-Bestimmungen verarbeitet"Microsoft persönliche Daten nur auf dokumentierten Anweisungen von Kunden."
+Wenn ein Partner eine kundenmandanten erstellt wird, ist es erforderlich, um einen primären Kontaktinformationen für den Kunden bereitzustellen. Pro die Online Services-Bestimmungen verarbeitet"Microsoft persönliche Daten nur auf dokumentierten Anweisungen von Kunden."
 
 ## <a href="" id="technicalfaq"></a>Technische
 
 **Wie Partner bestätigen Kunden Annahme und teilen sie Sie Microsoft? Welche Tools sind verfügbar, um diesen Prozess zu unterstützen?**
 
 Es gibt zwei Methoden, die ab 7 August 2018 verfügbar sind, Partnern helfen: 
-1.  Partner können die Partner Center-API verwenden, um Kunden Zustimmung programmgesteuert zu bestätigen. 
+1.  Partner können die Partner Center-API verwenden, um programmgesteuert Abnahme durch den Kunden zu bestätigen. 
 2.  Partner können im Partner Center-Dashboard verwenden, um Kunden Zustimmung bestätigen.
 
 **NEUE | Ich bin ein CSP-Partner, der das Partner Center-API verwendet. Welche API-Änderungen müssen berücksichtigt?** 
@@ -168,32 +171,32 @@ In diesem Fall gibt die API-Änderungen zu berücksichtigen:
 
 Acceptance kann manuell über das Partner Center-Dashboard bestätigt werden.
 
-**NEUE | Als Alternative zur Verwendung im Partner Center-Dashboard oder die Partner Center-API kann ich Massen Hochladen einer Datei mit den Kunden Bestätigungsinformationen stattdessen?**
+**NEUE | Als Alternative zur Verwendung im Partner Center-Dashboard oder die Partner Center-API kann ich Massen eine Datei mit der Bestätigung Kundeninformationen hochladen?**
 
-Zu diesem Zeitpunkt dienen im Partner Center-Dashboard und die Partner Center-API die einzige zulässige Bestätigung der Kunde Annahme der MCA.
+Zu diesem Zeitpunkt dienen Partner Center-Dashboard und das Partner Center-API die einzige zulässige Bestätigung der Kunde Annahme der MCA.
 
-**NEUE | Ich bin ein Partner über Drittanbieter-Plattform oder "Middleware,", die Funktionen zum Herstellen einer Verbindung mit dem Partner Center meines Unternehmens Systeme führt. Was muss ich unternehmen?**
+**NEUE | Ich bin ein Partner über Drittanbieter-Plattform oder "Middleware,", die Funktionen zum Herstellen einer Verbindung mit dem Partner Center Systeme des Unternehmens ausführt. Was muss ich unternehmen?**
 
-Partner, die mithilfe von Plattformen, die das Partner Center-API integriert werden empfohlen, sprechen Sie direkt mit den Anbietern in Bezug auf ihre Pläne und Zeitachsen für die Integration in der Partner Center-API-Funktionen, die der Kunde Bestätigung Prozess automatisiert.
+Partner mit Plattformen, die das Partner Center-API integriert werden empfohlen, sprechen Sie direkt mit den Anbietern in Bezug auf ihre Pläne und Zeitachsen für die Integration in der Partner Center-API-Funktionen, die den Kunden Bestätigung Prozess automatisiert.
 
-**NEUE | Erhalten Sie ein Beispiel für API-Fluss für den Import von Kunden vollständigen Namen, e-Mail-Adresse und MCA Annahme?**
+**NEUE | Können Sie ein Beispiel für API-Fluss für den Import von den Kunden vollständigen Namen, e-Mail-Adresse und MCA Annahme bereitstellen?**
 
-Partner sollten die Partner Center-API-Dokumentation für ausführliche Informationen und Beispiele zu überprüfen.
+Partner sollten die Partner Center-API-Dokumentation ausführliche Informationen und Beispiele zu überprüfen.
 
-**NEUE | Wie erhalte ich die aktuellsten MCA an den Kunden anzuzeigen und in der Bestätigung Datensatz im Rahmen Ihrer Meine API verwenden?**
+**NEUE | Wie erhalte ich den aktuellsten MCA an den Kunden anzuzeigen und in der Bestätigung Datensatz im Rahmen Ihrer Meine API verwenden?**
 
 Die aktuellen Partner Center-API ist sehr einfach und bietet keine für Partner, die eine Kopie der MCA programmgesteuert abrufen, noch erfasst es Versionen von den MCA von einem Kunden als Teil der Bestätigung akzeptiert. 
 
 **NEUE | Mit der Partner Center-API für dieses Verfahren erfordert einen Benutzer-ID-Parameter. Wie verwalten kann ich diese Anforderung Bestellungen über Drittanbieter-Plattformen platziert werden, die in Azure AD integriert nicht?**
 
-Die Benutzer-ID identifiziert in diesem Fall den Mitarbeiter unter dem partnermandanten, die die Bestätigung der Kunde Zustimmung bereitstellt. Wenn der Mitarbeiter verfügt nicht über ein entsprechendes Azure AD-Benutzerkonto unter Mandanten des Partners, es wird empfohlen, ein bestimmten Benutzerkonto für diesen Zweck zu kennzeichnen, und erstellen Sie einen Prozess, um die Identität des Mitarbeiters bereitstellen separat Erfassen der Bestätigung. 
+Die Benutzer-ID identifiziert in diesem Fall den Mitarbeiter unter dem partnermandanten, die die Bestätigung der Kunde Zustimmung bereitstellt. Wenn der Mitarbeiter verfügt nicht über ein entsprechendes Azure AD-Benutzerkonto unter Mandanten des Partners, es wird empfohlen, ein bestimmtes Benutzerkonto für diesen Zweck zu kennzeichnen, und erstellen Sie einen Prozess, um die Identität des Mitarbeiters bereitstellen separat Erfassen der Bestätigung. 
 
-**NEUE | Warum ist Microsoft die Partner, Kunden Zustimmung zu den MCA nicht direkt aus dem Kunden zu bestätigen, erfordern?**
+**NEUE | Warum ist Microsoft den Partner, Kunden Zustimmung zu den MCA nicht direkt aus dem Kunden zu bestätigen, erfordern?**
 
-Der Kunde ist von der CSP-Partner nicht direkt von Microsoft kaufen. Für die Verwendung der Dienste Begriffe, Microsoft Microsoft bietet bietet, die in den MCA dokumentiert werden. Die MCRA erfordert CSP-Partner haben Kunden lesen und akzeptieren Sie die MCA vor eine Bestellung. 
+Der Kunde ist von der CSP-Partner, nicht direkt von Microsoft kaufen. Für die Verwendung der Dienste Begriffe, dass Microsoft Microsoft bietet bietet, die in den MCA dokumentiert. Die MCRA erfordert CSP-Partner haben Kunden lesen und akzeptieren Sie den MCA vor eine Bestellung. 
 
-**NEUE | Ich bin-API und Partner Center-Dashboard-Web-Benutzeroberfläche verwenden, um zu bestätigen die Annahme MCA Kunden. Was sind nach 7 November 2018 Meine Optionen, um Kunden Zustimmung bestätigen?**
+**NEUE | Ich verwende API und Partner Center-Dashboard-Web-Benutzeroberfläche, um die Annahme MCA Kunden zu bestätigen. Was sind nach 7 November 2018 Meine Optionen, um Kunden Zustimmung bestätigen?**
 
-Beide Optionen sind verfügbar und für die Bestätigung MCA Kunden Annahme akzeptabel. Mit dem Partner Center-Dashboard Transaktionen erfordern eine Bestätigung ab 7 November 2018 vorhanden sein. Transaktionen, die mit der Partner Center-API erfordern eine Bestätigung ab 22 März 2019 vorhanden sein.
+Beide Optionen sind verfügbar und für die Bestätigung MCA Kunden Annahme akzeptabel. Mit dem Partner Center-Dashboard Transaktionen erfordern eine Bestätigung ab 7 November 2018 vorhanden sein. Transaktionen, die mit der Partner Center API erfordern eine Bestätigung ab März 22, 2019 vorhanden sein.
 
 

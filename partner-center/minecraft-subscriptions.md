@@ -1,15 +1,18 @@
 ---
 title: 'Abonnements für Minecraft: Education Edition für Bildungseinrichtungen verkaufen'
+ms.topic: article
+ms.date: 10/29/2018
 description: 'Verkaufen Sie Abonnements für Minecraft: Education Edition an qualifizierte Bildungseinrichtungen.'
 author: KPacquer
+ms.author: kenpacq
 keywords: Autorisierte Education-Partner
 ms.localizationpriority: medium
-ms.openlocfilehash: cb968300a2254aac6c56b3ecdfc8ac32eb7345a8
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: aa86e62d19d3f83ad828afbc8cd1c9880a6c93c3
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489686"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796583"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Abonnements für Minecraft: Education Edition für Bildungseinrichtungen
 
@@ -17,7 +20,7 @@ ms.locfileid: "4489686"
 
 -  Partner Center
 
-Partner, die mit Bildungseinrichtungen zusammenarbeiten, können diesen **Minecraft: Education Edition**-Abonnements anbieten. Sie erwerben das Abonnement im Auftrag des Kunden im Partner Center, und klicken Sie dann der Kunden die Software aus dem [Microsoft Store für Bildungseinrichtungen](https://educationstore.microsoft.com)downloads. 
+Partner, die mit Bildungseinrichtungen zusammenarbeiten, können diesen **Minecraft: Education Edition**-Abonnements anbieten. Sie erwerben das Abonnement im Auftrag des Kunden im Partner Center, und klicken Sie dann der Kunden die Software aus dem [Microsoft Store für Bildungseinrichtungen](https://educationstore.microsoft.com)lädt. 
 
 >[!IMPORTANT]
 >Zum Verkauf von Bildungsangeboten an Kunden im Bildungsbereich müssen Sie im Cloud Solution Provider (CSP)-Programm registriert und ein [autorisierter Verkäufer für den Bildungsbereich (AEP)](https://www.mepn.com) sein. Darüber hinaus muss Ihr Kunde ein [qualifizierter Benutzer von Bildungsangeboten](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) sein.  

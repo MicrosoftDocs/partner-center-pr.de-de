@@ -1,16 +1,19 @@
 ---
 title: Erstellen, Anhalten oder Abbrechen von Kundenabonnements | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Nachdem Sie für Ihre Kunden einen Datensatz in Partner Center erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
-author: Labrenne
+author: labrenne
+ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: effdae8468e30be689acc265d9ae64b5d93c93ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 951d0be7ea1cc17fb61213a25f26a3c558249496
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489106"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796403"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Anhalten oder Abbrechen von Kundenabonnements
 
@@ -28,7 +31,7 @@ Bitte beachten Sie, dass bestimmte Angebote auf ein Abonnement pro Kunde beschr�
 
 **Erstellen eines neuen Abonnements**
 
-1.  Wählen Sie **Kunden**im **Partner Center** -Menü, und wählen Sie einen Kunden aus der Liste.
+1.  Klicken Sie im Menü " **Partner Center** " Wählen Sie **Kunden**, und wählen Sie einen Kunden aus der Liste.
 
 2.  Wählen Sie **Neues Abonnement**.
 
@@ -54,7 +57,7 @@ Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Be
 
 **Aussetzen eines Abonnements**
 
-1.  Wählen Sie **Kunden**im **Partner Center** -Menü, und wählen Sie einen Kunden aus der Liste.
+1.  Klicken Sie im Menü " **Partner Center** " Wählen Sie **Kunden**, und wählen Sie einen Kunden aus der Liste.
 2.  Wählen Sie das Abonnement aus, das Sie verwalten möchten.
 3.  Wählen Sie im Abschnitt **Status** den Eintrag **Ausgesetzt** aus. **Übermitteln** Sie dann Ihre Änderungen.
 4.  Alle Daten werden gelöscht, solange das Abonnement nicht innerhalb von 90Tagen oder 90Tagen zuzüglich der Anzahl der Tage zwischen der Eröffnung des Kontos und dem ersten Abrechnungszeitraum (maximal 120Tage) reaktiviert wird.
@@ -64,7 +67,7 @@ Wenn Sie ein Abonnement stornieren, gibt das Datum, das unter der Schaltfläche 
 
 
 
- 
+ 
 
 
 

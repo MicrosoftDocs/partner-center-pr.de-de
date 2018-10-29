@@ -1,15 +1,18 @@
 ---
 title: Support von Microsoft | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Bei Problemen mit einem Microsoft-Dienst oder mit Partner Center können Sie den Fall an Microsoft eskalieren, um Hilfe zu erhalten, und das Problem nachverfolgen, bis es behoben ist.
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ec944f86dc8011ca753d475d66096b093610d4c3
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 3b69825b95009ea2eaada2b59dc2f59869771191
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876470"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796133"
 ---
 # <a name="support-from-microsoft"></a>Support von Microsoft
 
@@ -29,11 +32,11 @@ Bei Problemen mit einem Microsoft-Dienst oder mit Partner Center können Sie den
 
 [Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs](get-automated-service-notifications-with-our-apis.md)
 
-[Support von Microsoft-Vorteile](https://partner.microsoft.com/support/contact-support)
+[Support von Microsoft Vorteile](https://partner.microsoft.com/support/contact-support)
 
- 
+ 
 
- 
+ 
 
 
 

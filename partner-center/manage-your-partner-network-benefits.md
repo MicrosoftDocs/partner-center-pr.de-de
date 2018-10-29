@@ -1,15 +1,18 @@
 ---
 title: Verwalten der Microsoft Partner Network-Vorteile | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Als Microsoft Partner Network-Mitglied haben Sie Anspruch auf den Erwerb bestimmter Mitgliedschaftsvorteile. Erläutert das Aktivieren und Verwalten Ihrer mitgliedschaftsvorteile im Partner Center.
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: MPN, Mitgliedschaftsvorteile, Mitgliedschaft
 ms.localizationpriority: medium
-ms.openlocfilehash: a7cd65f2f846357ed9ae98def154bf8e8db94314
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489796"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796383"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile
 
@@ -18,7 +21,7 @@ ms.locfileid: "4489796"
 -  Partner Center
 
 >[!IMPORTANT]
->In diesem Artikel wird erläutert, wie für die Verwendung Ihrer Microsoft Partner Network (MPN)-mitgliedschaftsvorteile im Partner Center (früher als Partner Center bezeichnet) – dieser Website. Wenn Sie eine Einladung zum Verschieben Ihrer Unternehmensinformationen vom Partner Membership Center (PMC) zum Partner Center erhalten haben, sollten Sie weiterhin Ihre MPN-mitgliedschaftsvorteile in PMC verwalten. [Melden Sie sich](https://partner.microsoft.com/_login?authType=OpenIdConnect) jetzt beim PMC an.   
+>In diesem Artikel wird erläutert, wie für den Einstieg Ihrer Microsoft Partner Network (MPN)-mitgliedschaftsvorteile im Partner Center (früher als Partner Center bezeichnet) – diese Website. Wenn Sie eine Einladung zum Verschieben Ihrer Unternehmensinformationen vom Partner Membership Center (PMC) zum Partner Center erhalten haben, sollten Sie weiterhin Ihre MPN-mitgliedschaftsvorteile in PMC verwalten. [Melden Sie sich](https://partner.microsoft.com/_login?authType=OpenIdConnect) jetzt beim PMC an.   
 
 Wenn Sie dem Microsoft Partner Network (MPN) beitreten, erhalten Sie Zugriff auf Mitgliedschaftsvorteile, die Ihnen können, Ihr Geschäft auf- und auszubauen. Wenn Sie noch kein Mitglied von MPN sind, können Sie jetzt auf der [MPN-Website](https://partner.microsoft.com/membership) beitreten.
 
@@ -28,7 +31,7 @@ Wenn Sie dem Microsoft Partner Network (MPN) beitreten, erhalten Sie Zugriff auf
 Nach dem Erwerb eines Mitgliedschaftsvorteilspakets müssen Sie Softwareschlüssel erhalten und Lizenzen, Abonnements sowie andere Vorteile zu Mitarbeitern zuweisen, damit diese sie nutzen können. 
 
 >[!IMPORTANT]
->Während Sie nicht in Ihrer Organisation Vorteile erwerben ein globaler Administrator sein müssen, müssen Sie der globale Administrator Vorteile zu Mitarbeitern zuweisen werden.  Wenn Sie möchten, können Sie ein globaler Administrator teilnehmen, gemäß die Anweisungen auf der [Seite **Vorteile** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Außerdem haben Ihrer Organisation möglicherweise bereits einen globalen Administrator, um zu überprüfen, mit Ihrem Team Achten Sie also.
+>Während Sie nicht in Ihrer Organisation Vorteile erwerben ein globaler Administrator sein müssen, müssen Sie der globale Administrator Vorteile zu Mitarbeitern zuweisen werden.  Wenn Sie möchten, können Sie ein globaler Administrator teilnehmen, gemäß die Anweisungen auf der [Seite **Vorteile** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Außerdem haben Ihrer Organisation möglicherweise bereits einen globalen Administrator also mit Ihrem Team überprüft werden.
 
 Vorteilspakete umfassen Zuweisungen von Softwarelizenzen, Clouddiensten, Visual Studio-Abonnements und Support mit internen Nutzungsrechten. Sie finden die Details zum Action Pack-Abonnement auf der [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software)-Website.  
 

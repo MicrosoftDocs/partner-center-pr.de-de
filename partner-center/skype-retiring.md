@@ -1,15 +1,18 @@
 ---
 title: Migrieren von Skype for Business Online Plan 1-Abonnements auf neuere Versionen von Office365 | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 Description: Skype for Business Online Plan 1 subscriptions is retiring.
-Author: labrenne
+author: labrenne
+ms.author: labrenne
 keywords: Skype for Business-Pläne, Einstellung von Skype, Office365
 ms.localizationpriority: medium
-ms.openlocfilehash: 8d41ded7a2315cb8a69871f43d41bad391db9885
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 339fe2b2558b520013752515afc8ae53358aac68
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489806"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797163"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrieren von Skype for Business Online Plan 1-Abonnements auf neuere Versionen von Office365
 
@@ -51,13 +54,13 @@ Microsoft bietet Partnern kontinuierlich neue Produkte und Dienste an. In diesen
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Migrieren Ihrer Kunden zu neuen Plänen
 
-1. Um das neue Abonnement, aus dem **Menü "Partner Center"** erworben haben, wählen Sie **Kunden**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie dann **Abonnements hinzufügen**.
+1. Um das neue Abonnement aus dem **Menü "Partner Center"** erworben haben, wählen Sie **Kunden**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie dann die **Abonnements hinzufügen**.
 
 2. Wählen Sie aus dem Katalog das Abonnement aus, das Sie kaufen möchten (in diesem Fall eine der oben genannten Optionen), geben Sie die nötigen Anzahl von Lizenzen ein, und wählen Sie dann **Übermitteln** aus. 
 
 Ihr Kunde sollte nun sowohl alte als auch neue Abonnements besitzen, das alte Skype for Business Online Plan 1-Abonnement und das neue Zielabonnement, z.B. Option 1: Office365 Enterprise F1.
 
-3. Zuweisen von Benutzern des Kunden Lizenzen, die **Partner Center** -Menü Wählen Sie **Kunden**aus, wählen Sie den Kunden, den Sie verschieben möchten, den und wählen Sie dann **Benutzer und Lizenzen**. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
+3. Wählen Sie **Kunden**, wählen Sie den Kunden, den Sie verschieben möchten, den und wählen Sie dann **Benutzer und Lizenzen**, um Benutzern des Kunden Lizenzen, klicken Sie im Menü " **Partner Center** " neu zuweisen. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
 
 4. Um die Benutzerlizenzen erneut zuzuweisen, wählen Sie den Benutzer aus, der neu zugewiesen werden soll, und anschließend **Verwalten von Lizenzen.**
 
@@ -67,7 +70,7 @@ Ihr Kunde sollte nun sowohl alte als auch neue Abonnements besitzen, das alte Sk
 
 Nachdem Sie die Benutzerlizenz zum neuen Dienst migriert haben, können Sie das eingestellte Abonnement auf der obersten Kundenebene ohne Bedenken stornieren.
 
-7. Wählen Sie im **Partner Center** -Menü **Kunden**aus. Wählen Sie den Kunden, dessen Abonnement Sie stornieren möchten.
+7. Wählen Sie aus dem Menü " **Partner Center** " **Kunden**. Wählen Sie den Kunden, dessen Abonnement Sie stornieren möchten.
 
 8. Legen Sie auf der Seite mit den Abonnementdetails das Abonnement auf **Ausgesetzt** fest.
 

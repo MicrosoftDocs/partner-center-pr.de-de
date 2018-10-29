@@ -1,19 +1,22 @@
 ---
 title: Cloud Business Applications-Kompetenz
+ms.topic: article
+ms.date: 10/29/2018
 description: Die Cloud Business Applications-Kompetenz ist für Partner, die sich auf die Bereitstellung und Verwaltung von Microsoft Dynamics 365 für ihre Kunden spezialisieren.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: Kompetenz, Kompetenzen, Cloudgeschäftsanwendungen
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 217f988b6a7003cc1cdabeb3f8663eeaa619b362
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2e48aa911f554757f75c53c0ebd1301709f06f36
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876700"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794573"
 ---
 >[!IMPORTANT]
->Informationen zu den Anforderungen für die Erreichung dieses Kompetenz finden Sie auf der [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
+>Weitere Informationen zu den Anforderungen für die Erreichung dieses Kompetenz besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

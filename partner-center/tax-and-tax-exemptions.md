@@ -1,15 +1,18 @@
 ---
 title: Steuern und Steuerbefreiungen | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf den Weiterverkauf von Produkten durch Partner konzentriert, ist Microsoft nicht in allen Fällen verpflichtet, bei Partnerrechnungen die Mehrwertsteuer zu berechnen.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 13bacb79b210050b2392d40c6fa77cb0fe22235d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 609a70503eb0418a04cf345d4d1d0a176e39445a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489606"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796005"
 ---
 # <a name="tax-and-tax-exemptions"></a>Steuern und Steuerbefreiungen
 
@@ -25,7 +28,7 @@ Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf
 
 1.  Schlagen Sie Ihre **Microsoft-ID** im Partner Center &gt; **kontoeinstellungen** &gt; **Organisationsprofil**.
 2.  Schlagen Sie Ihre **MPN-ID** im Partner Center &gt; **kontoeinstellungen** &gt; **Partner-Profil**.
-3.  Erstellen Sie ein neues Supportticket. Wählen Sie im Partner Center-Menü **Serviceanfragen** &gt; **Partner Center-Anfragen** &gt; **neue Anforderung**.
+3.  Erstellen Sie ein neues Supportticket. Wählen Sie aus dem Menü "Partner Center" **Serviceanfragen** &gt; **Partner Center-Anfragen** &gt; **neue Anforderung**.
 4.  Füllen Sie das Formular aus. Wählen Sie unter **Problemtyp** die Option **Ich kann mein Profil nicht verwalten** aus. Geben Sie in der Beschreibung Ihre MPN-ID und Microsoft-ID an.
 5.  Nachdem Sie das Ticket übermittelt haben, erhalten Sie von Microsoft eine E-Mail mit der Bitte um weitere Informationen. Fügen Sie Ihrer Antwort die erforderlichen Bescheinigungen für Ihre Steuerbefreiung bei.
 
@@ -71,11 +74,11 @@ Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

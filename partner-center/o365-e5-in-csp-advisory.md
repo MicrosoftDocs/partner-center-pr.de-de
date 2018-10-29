@@ -1,15 +1,18 @@
 ---
 title: Verfügbarkeit der Office365 E5-Einzel-SKU in CSP | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Die Office365 Enterprise E5-Einzel-SKU ist in CSP verfügbar und umfasst PSTN-Konferenzfunktionen.
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cce364069f6710d81435f8d973cd187c98543f96
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876290"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795653"
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office365 Partner Advisory: Verfügbarkeit der Office365 E5-Einzel-SKU in CSP
 
@@ -89,7 +92,7 @@ Conferencing Customers
 
 PSTN-Add-On
 
- 
+ 
 
 **Nach der Veröffentlichung der Office365 Enterprise E5-Einzel-SKU**
 
@@ -143,7 +146,7 @@ Skype for Business PSTN Conferencing for E5 without PSTN Conferencing Customers
 
 PSTN-Add-On
 
- 
+ 
 
 ## <a href="" id="invoices-and-partner-reconciliation-files-"></a>Rechnungen und Abgleichungsdateien für Partner
 
@@ -197,7 +200,7 @@ Beispiel für eine Partnerabgleichung:
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="additional-resources"></a>Weitere Ressourcen
 
@@ -210,9 +213,9 @@ Weitere Details finden Sie auf der [Drumbeat](https://drumbeat.office.com/Pages/
 
 -   **Häufig gestellte Fragen (FAQ) zur Lizenzierung von Office365 E5 und Skype for Business**
 
- 
+ 
 
- 
+ 
 
 
 

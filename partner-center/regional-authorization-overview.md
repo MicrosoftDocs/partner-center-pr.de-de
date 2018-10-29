@@ -1,16 +1,19 @@
 ---
 title: Regionale CSP-Autorisierung | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Mithilfe der regionalen Autorisierung können international tätige Partner jetzt Kunden in verschiedenen Regionen und Ländern auf der ganzen Welt einfacher verwalten.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: Azure AD-Mandanten, Mandanten konsolidieren, Mandantenstrategie, Mandanten in CSP, Partnerkonten in CSP, CSP-Märkte und -Gebiete, wo ich über CSP verkaufen?
 ms.localizationpriority: medium
-ms.openlocfilehash: 46fbc08562cdddd75cabf9822b1fff84c151f031
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 351fbad0bfc818b16ca7a40eccedefb4dfea9307
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377632"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796633"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>Mandanten-Konsolidierungsstrategien in CSP
 
@@ -69,7 +72,7 @@ Die Mandantenkonsolidierung ist optional. Partner können internationale Kunden 
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="one-tenant-for-multiple-regions-or-countries"></a>Ein einziger Mandant für mehrere Regionen oder Länder
 
@@ -101,7 +104,7 @@ Partner können ihre Vorgänge aus mehreren CSP-Mandanten in einem einzigen CSP-
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="some-tenants-for-some-regions-or-countries"></a>Einige Mandanten für einige Regionen oder Länder
 
@@ -137,7 +140,7 @@ Partner können ihre Vorgänge aus mehreren CSP-Mandanten auf eine kleinere Zahl
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="consolidating-tenants"></a>Konsolidieren von Mandanten
 
@@ -211,7 +214,7 @@ Ihr geografischer Standort bestimmt die Währung, in der Ihre Rechnungen gestell
 | AUD | Australien, Weihnachtsinsel, Kokosinseln, Cookinseln, Fidschi, Heard und McDonaldinseln, Kiribati, Marshallinseln, Nauru, Niue, Norfolkinsel, Nördliche Marianen, Palau, Papua-Neuguinea, Pitcairninseln, Salomonen, Tokelau, Tonga, Tuvalu, Wallis und Futuna. |
 
 
- 
+ 
 
 
 

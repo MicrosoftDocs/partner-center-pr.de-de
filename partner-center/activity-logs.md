@@ -1,16 +1,19 @@
 ---
 title: Anzeigen von Kundenaktivitätsprotokollen | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Aktivitätsprotokolle enthalten Informationen zu Transaktionen und Partnerverwaltungsaktionen für Kunden.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: 79a0dc432e1d5407ffd1cc424019d5994d39ef48
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 40bcbde087fda68428c50d1f840a44a87bdebbc3
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488646"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794853"
 ---
 # <a name="view-customer-activity-logs"></a>Anzeigen von Kundenaktivitätsprotokollen
 
@@ -27,7 +30,7 @@ Aktivitätsprotokolle enthalten Datensätze für Partneraktionen für Kundenkont
 
 **Anzeigen und Exportieren von Aktivitätsprotokollen**
 
-1.  Wählen Sie im **Partner Center** -Menü **Aktivitätsprotokoll**.
+1.  Wählen Sie aus dem Menü " **Partner Center** " **Aktivitätsprotokoll**.
 2.  Wählen Sie mithilfe der Felder **Von** und **Bis** den Aktivitätsprotokollierungszeitraum aus. Für den Export des Aktivitätsprotokolls wird standardmäßig der letzte Monat festgelegt.
 
     Jedes Aktivitätsprotokoll enthält einen Link zur Seite **Abonnements** des aufgeführten Kunden.
@@ -41,9 +44,9 @@ Aktivitätsprotokolle enthalten Datensätze für Partneraktionen für Kundenkont
     -   **Status**: Enthält die zur Aktivität gehörenden Daten, etwa eine Bestellnummer. Diese Angabe variiert basierend auf dem Aktionstyp.
     -   **Zusätzliche Informationen**: Transaktionsdaten für das Aktivitätsprotokoll Beispiel: Handelt es sich bei der Aktion um eine Kundenbestellung, ist in diesem Feld der Inhalt des Einkaufs aufgeführt.
 
- 
+ 
 
- 
+ 
 
 
 

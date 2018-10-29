@@ -1,14 +1,17 @@
 ---
 title: Entfernen einer Partnerschaft mit einem Händler oder einem Kunden | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Wenn Sie eine Beziehung entfernen, werden alle geschlossenen Geschäftsbeziehungen aus der Ansicht in Partner Center entfernt.
 author: KPacquer
+ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: a647178ae75b52930cc8eab5258179ed27696912
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 61f2435d7e310623338444524ae5382c6e69fa00
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489736"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797073"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Entfernen einer Partnerschaft mit einem Händler oder Kunden
 
@@ -30,7 +33,7 @@ Um die Beziehung zu entfernen, müssen Sie zunächst Azure RI-Reservierungen sto
 
    Wiederholen Sie diesen Schrittfür jedes aktive Abonnement.
 
-2.  Entfernen der Beziehung in Partner Center: von der Partner Center, gehen Sie zum **Kunden** > Kunden auswählen > **Konto** > **Remove Reseller Relationship**.
+2.  Entfernen der Beziehung in Partner Center: aus der Partner Center, gehen Sie zum **Kunden** > Kunden auswählen > **Konto** > **vertriebspartnerschaft zu entfernen**.
 
     Beachten Sie, wenn ein Abonnement noch aktiv ist, ist der Link **Remove reseller relationship** inaktiv. 
 

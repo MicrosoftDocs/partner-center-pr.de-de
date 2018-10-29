@@ -1,14 +1,17 @@
 ---
 title: Partner Center für Microsoft Cloud for US Government | Partner Center für Microsoft Cloud for US Government
+ms.topic: article
+ms.date: 10/29/2018
 description: Partner Center für Microsoft Cloud for US Government ist das Unternehmensportal für Microsoft-Partner, die Microsoft-Cloudlösungen für Kunden anbieten möchten, die mit Regierungsbehörden in den USA arbeiten.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: efbcf0ee2c6a7f60d50c07320894c908168a10f2
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 245390fdea46f891f3cc75830bd11952d56dbcdc
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377522"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796713"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Partner Center für Microsoft Cloud for US Government
 

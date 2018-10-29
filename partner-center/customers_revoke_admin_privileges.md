@@ -1,15 +1,18 @@
 ---
 title: Kunden delegieren Administratorrechte an Partner | Partner Center
-description: Als Händlerpartner kann Ihre Kunden Sie ihren Administrator delegieren Sie können außerdem Berechtigungen entfernen.
+ms.topic: article
+ms.date: 10/29/2018
+description: Als Händlerpartner kann Ihre Kunden Sie ihren Administrator sein delegieren Sie können außerdem Berechtigungen entfernen.
 author: labrenne
+ms.author: labrenne
 keywords: Rechte als stellvertretender Administrator entfernen, Administrator im Namen von, Berechtigungen, DAP AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 224ed2ea2485420761c7a5f85db5a7a37fd245af
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: cb53cf35eafd40e929c30ee74b2f7e98b3e4332a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489876"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795733"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Kunden delegieren Administratorrechte an Partner
 
@@ -42,7 +45,7 @@ Um den Dienst oder das Abonnement im Namen eines Kunden zu verwalten, muss der K
 
 Ihre Kunden können ermitteln, welche ihrer Partner über Administratorrechte für ihren Mandanten aus innerhalb der Office 365-Verwaltungsportal verfügen. Gehen Sie dazu folgendermaßen vor:
 
-1. Der Kunde muss sich im Office 365-Verwaltungsportal als einen globalen Administrator anmelden
+1. Der Kunde muss im Office 365-Verwaltungsportal als einen globalen Administrator anmelden
 
 2. Wählen Sie **Einstellungen** → **Partnerbeziehungen** aus.
 
@@ -93,7 +96,7 @@ CSP-Partner können über das Partner Center Autopilot Profile für ihre Kunden 
 
 Was Sie tun können, hängt davon ab, auf welches CSP-Modell Sie registriert sind.
 
-|**Vorgang**   |**Online-Dienst-Partner und indirekten Anbieter**   |**Indirekter Händler**   |
+|**Vorgang**   |**Online-Dienst Partner und indirekten Anbieter**   |**Indirekter Händler**   |
 |-----------------|-----------------------------------| -----------------------------|
 |Hinzufügen von Geräten (mithilfe einer CSV-Datei)  |Ja      |Nein|
 |Entfernen von Geräten   |Ja   |Nein|
@@ -103,15 +106,15 @@ Was Sie tun können, hängt davon ab, auf welches CSP-Modell Sie registriert sin
 |Anwenden eines Profils auf Geräte   |Ja   |Ja   |
 |Entfernen eines Profils von Geräten   |Ja   |Ja   | 
 
-- Wenn ein Kunde behält eine vertriebspartnerschaft mit Ihnen delegierte Verwaltung Berechtigungen entfernt, können Sie weiterhin zum Verwalten von Autopilot Profile für sie.
+- Wenn ein Kunde eine vertriebspartnerschaft mit Ihnen behält jedoch delegierte Verwaltung Berechtigungen entfernt, können Sie weiterhin zum Verwalten von Autopilot Profile für sie.
 
 - Sie können Geräte von Kunden, die Sie oder einen anderen Partner hinzugefügt wurden verwalten. 
 
 - Sie können keine Geräte verwalten, die Ihre Kunden über den Microsoft Store für Unternehmen, Microsoft Store für Bildungseinrichtungen oder Microsoft Intune-Portal hinzugefügt hat.
 
 > [!IMPORTANT]  
-> Die aktuelle Autopilot-Management-Erfahrung im Partner Center möglicherweise weiterhin ändern. Zum Zeitpunkt der Veröffentlichung dieses Artikels, sind die folgenden Änderungen in Betracht gezogen:
+> Die aktuelle Autopilot Verwaltungsfunktion im Partner Center möglicherweise weiterhin ändern. Zum Zeitpunkt der Veröffentlichung dieses Artikels, sind die folgenden Änderungen in Betracht gezogen:
 
   - Dem Partner muss die Berechtigung als stellvertretender Administrator vom Kunden gewährt werden, bevor der Partner Profile hinzufügen/aktualisieren/entfernen und ein Profil anwenden oder von Geräten im Kundenmandanten entfernen kann.
 
-- Partner muss erteilt werden stellvertretender Administrator vom Kunden vor der Partner Geräte hinzugefügt, von anderen Partnern oder durch den Kunden in den kundenmandanten entfernen kann. Andernfalls kann der Partner nur Geräte, die zuvor vom selben Partner hinzugefügt wurden entfernen.
+- Partner muss erteilt werden stellvertretender Administrator vom Kunden bevor der Partner Geräte hinzugefügt von anderen Partnern oder durch den Kunden in den kundenmandanten entfernen kann. Andernfalls kann der Partner nur Geräte, die zuvor vom selben Partner hinzugefügt wurden entfernen.

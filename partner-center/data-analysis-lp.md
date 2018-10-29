@@ -1,15 +1,18 @@
 ---
 title: Daten und Datenanalyse im Partner Center | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Analysieren Sie Ihr Unternehmen mithilfe der Datenfunktionen im Partner Center.
 author: labrenne
+ms.author: labrenne
 keywords: Daten, Analysen, Datenanalysen, Power BI
 ms.localizationpriority: medium
-ms.openlocfilehash: 472fea265a29b457bb29ac0545a69e5dd87c160d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 59dcad4e1cf2d3dadf2bdc037d3404f0aa8e2863
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489696"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795903"
 ---
 # <a name="get-data-and-analyze-your-business"></a>Daten zum Analysieren Ihres Unternehmens 
 

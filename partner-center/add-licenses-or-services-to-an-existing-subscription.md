@@ -1,16 +1,19 @@
 ---
 title: Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Wenn Ihr Kunde mehr Lizenzen benötigt, als das aktuelle Abonnement zur Verfügung stellt, oder wenn er eine andere Version mit zusätzlichen Services benötigt, können Sie ein Upgrade für das Abonnement vornehmen.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: Hinzufügen von Lizenzen zu einem vorhandenen Abonnement, Plätze zu einem vorhandenen Abonnement hinzufügen, Abonnement andern, Ändern eines Abonnements, Weitere Lizenzen für einen Kunden erwerben
 ms.localizationpriority: medium
-ms.openlocfilehash: aa3ca83353b5efece1cb86395f82f6e876deb25b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7e16cbd466ccb8f46982ef8c7e38f644737afcdd
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489726"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795973"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement
 
@@ -38,7 +41,7 @@ Die folgenden Updates werden vom Cloud-Lösungsanbieter unterstützt:
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 Business</td>
+<td>Office365Business</td>
 <td><ul>
 <li>Office 365 Business Premium¹</li>
 <li>Office 365 ProPlus</li>
@@ -47,14 +50,14 @@ Die folgenden Updates werden vom Cloud-Lösungsanbieter unterstützt:
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 Business Premium</td>
+<td>Office365BusinessPremium</td>
 <td><ul>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 Business Essentials</td>
+<td>Office365BusinessEssentials</td>
 <td><ul>
 <li>Office 365 Business Premium¹</li>
 <li>Office 365 Enterprise E1</li>
@@ -64,12 +67,12 @@ Die folgenden Updates werden vom Cloud-Lösungsanbieter unterstützt:
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365 Business India und Office 365 Business Essentials India können auf Office 365 Business Premium India, aber nicht auf Office 365 Business Premium aktualisiert werden.</p></td>
+<td><p>¹ Office365BusinessIndia und Office365BusinessEssentialsIndia können auf Office365BusinessPremiumIndia, nicht zu Office365BusinessPremium aktualisiert werden.</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+ 
 
 Upgrades von Abonnements können erfolgen, wenn die folgenden Bedingungen zutreffen:
 
@@ -92,9 +95,9 @@ Weitere Informationen über die Auswirkung auf die Abrechnung finden Sie unter d
 3.  Wählen Sie das neue Angebot und dann **Absenden**.
 4.  Möglicherweise ist zusätzliche Arbeit erforderlich, um einige Benutzerkonten für bestimmte Dienste zu aktualisieren. Wenn dies der Fall ist, enthält das Partner Center eine Liste der Konten und Dienste, die betroffen sind. Hilfe finden Sie im Knowledge Base-Artikel [Bei Lizenzen neu zuweisen, während Sie Pläne in Office 365 wechseln](http://go.microsoft.com/fwlink/p/?LinkId=723576).
 
- 
+ 
 
- 
+ 
 
 
 

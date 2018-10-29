@@ -1,15 +1,18 @@
 ---
 title: Übersicht über Microsoft Azure-Reservierungen | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
+ms.author: v-petand
 keywords: Azure, Reservierungen, verwalten, Abrechnung, kaufen, Azure RI, Azure Reserved Instances
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d0787466c99810b4d4c73c15b97631bc54c257c
-ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
+ms.openlocfilehash: abf8b1aa01168786ff95cd91fe4853e3f7e34e9d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4658116"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797233"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>Verkaufen Microsoft Azure Reserved Instances 
 
@@ -19,10 +22,10 @@ ms.locfileid: "4658116"
 -  Microsoft Azure-Portal
 -  CSP-Partner
 
-Partner im Cloud-Lösungsanbieter-Programm (CSP) bieten ihren Kunden reservierte Instanzen von Microsoft Azure. Kunden erhalten deutliche einsparungen, wenn sie im Voraus reservieren. Azure Reserved Instances bieten Kunden Einfachheit und Flexibilität auf folgende Weise:
+Partner im Cloud Solution Provider-Programm (CSP) bieten ihren Kunden reservierte Instanzen von Microsoft Azure. Kunden erhalten deutliche einsparungen, wenn sie im Voraus reservieren. Azure Reserved Instances bieten Kunden Einfachheit und Flexibilität auf folgende Weise:
 
 -   Ein-Jahres- oder Drei-Jahres-Reservierung 
--   Einfach für den Einstieg; Setup in Sekunden abgeschlossen 
+-   Einfach für den Einstieg; Setup abgeschlossen in Sekunden 
 -   Stornieren oder tauschen Sie reservierte Instanzen zu jedem beliebigen Zeitpunkt gegen eine angepasste Rückerstattung aus 
 -   Verwalten Sie reservierte Instanzen auf Organisations- oder auf Abteilungsebene. 
 

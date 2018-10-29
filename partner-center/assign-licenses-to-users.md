@@ -1,16 +1,19 @@
 ---
 title: Benutzerverwaltungsaufgaben für Kundenkonten | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Nach dem Kauf eines neuen Abonnements für einen Kunden können Sie bestimmten Benutzern Lizenzen zuweisen.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
 ms.localizationpriority: medium
-ms.openlocfilehash: 153ed656ff217241079439e8b48c46c8d18ba144
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489816"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797243"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Benutzerverwaltungsaufgaben für Kundenkonten
 
@@ -29,7 +32,7 @@ Können [Abonnements gleichzeitig für mehrere Benutzer zuweisen](bulk-license-p
 <a href="" id="createuseraccounts"></a>
 **Erstellen von Benutzerkonten für einen Kunden**
 
-1.  Wählen Sie im **Partner Center** -Menü **Kunden**aus. Wählen Sie einen Kunden aus der Liste aus.
+1.  Wählen Sie aus dem Menü " **Partner Center** " **Kunden**. Wählen Sie einen Kunden aus der Liste aus.
 
 2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**.
 
@@ -44,7 +47,7 @@ Können [Abonnements gleichzeitig für mehrere Benutzer zuweisen](bulk-license-p
 <a href="" id="userlicensing"></a>
 **Hinzufügen oder Entfernen von Benutzerlizenzen für einen Kunden**
 
-1.  Wählen Sie im **Partner Center** -Menü **Kunden**aus. Wählen Sie den Kunden aus der Liste aus.
+1.  Wählen Sie aus dem Menü " **Partner Center** " **Kunden**. Wählen Sie den Kunden aus der Liste aus.
 
 2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**.
 
@@ -55,7 +58,7 @@ Können [Abonnements gleichzeitig für mehrere Benutzer zuweisen](bulk-license-p
 <a href="" id="resetpassword"></a>
 **Zurücksetzen eines Benutzerkennworts für einen Kunden**
 
-1.  Wählen Sie im **Partner Center** -Menü **Kunden**aus. Wählen Sie den Kunden aus der Liste aus.
+1.  Wählen Sie aus dem Menü " **Partner Center** " **Kunden**. Wählen Sie den Kunden aus der Liste aus.
 
 2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**. Wählen Sie den Benutzer aus der Liste aus.
 
@@ -66,7 +69,7 @@ Können [Abonnements gleichzeitig für mehrere Benutzer zuweisen](bulk-license-p
 <a href="" id="deleteuseraccounts"></a>
 **Löschen von Benutzerkonten für einen Kunden**
 
-1.  Wählen Sie im **Partner Center** -Menü **Kunden**aus. Wählen Sie den Kunden aus der Liste aus.
+1.  Wählen Sie aus dem Menü " **Partner Center** " **Kunden**. Wählen Sie den Kunden aus der Liste aus.
 
 2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**. Wählen Sie den Benutzer aus der Liste aus.
 
@@ -77,7 +80,7 @@ Wenn Sie dieses Konto innerhalb von 30Tagen wiederherstellen müssen, finden Sie
 <a href="" id="restoreuseraccounts"></a>
 **Wiederherstellen gelöschter Benutzerkonten**
 
-1.  Wählen Sie **Kunden**im **Partner Center** -Menü, und wählen Sie den Kunden aus der Liste.
+1.  Klicken Sie im Menü " **Partner Center** " Wählen Sie **Kunden**, und wählen Sie den Kunden aus der Liste.
 
 2.  Wählen Sie **Benutzer und Lizenzen**.
 
@@ -94,9 +97,9 @@ Wenn Sie dieses Konto innerhalb von 30Tagen wiederherstellen müssen, finden Sie
 
 [Erstellen mehrerer Benutzer für ein Kundenkonto](adding-multiple-users-to-a-customer-account.md)
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,14 +1,17 @@
 ---
 title: Partner-Incentive jetzt im Partner Center | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Incentiveprogramme unterstützen Partner dabei, neue Möglichkeiten zur Vermarktung ihrer Microsoft-Angebote zu entwickeln, Schulungen anzubieten usw.
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ef254f1630cdfb90d16971d31e4688b50c82b614
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: bd6427f035c7cb4107073ab7039a3b1823025968
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488736"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797303"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>Partner-Incentive jetzt im Partner Center 
 
@@ -33,9 +36,9 @@ Wenn Sie am Programm teilnehmen, können Sie Rabatte und gemeinschaftliche Einna
 ## <a name="one-site-one-log-on"></a>Eine Website, eine Anmeldung
 
 Nachdem das Anreizprogramm für Microsoft-Partner nun in das Partner Center verschoben wurde, können Sie hier alle administrativen Aufgaben erledigen – Verwalten von Benutzern, Arbeiten im Kundenauftrag, Anmelden zu Zertifizierungen und Anreizprogrammen, Einsehen von Berichten über Anreizeinnahmen und Veranlassen von Auszahlungen. Alle Ihre anreizdaten ist für Sie in Ihrer Anreize **Partner Center**verfügbar. Diese Daten werden täglich aktualisiert.
- 
+ 
 ## <a name="set-your-users-up-in-partner-center"></a>Einrichten Ihrer Benutzer im Partner Center
- 
+ 
 Der erste Schrittist, das Incentives-Konto im Partner Center zu vervollständigen, indem Sie die Incentives-Benutzer im Partner Center einrichten. Sie haben eine E-Mail mit einer Liste der Incentives-Benutzer in Ihrer Organisation erhalten. Wenn der Incentives-Administrator für Ihre Organisation die Einrichtung der Benutzer abgeschlossen hat, werden alle Ihre anreizdaten auf die Incentives **Partner Center**angezeigt.
 
 **Weitere Informationen:**

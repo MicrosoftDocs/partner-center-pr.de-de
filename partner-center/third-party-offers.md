@@ -1,14 +1,17 @@
 ---
 title: Angebote von Drittanbietern | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Wenn Ihr Unternehmen wächst, können Sie Ihr Portfolio weiterentwickeln und um Angebote von Drittanbietern für Ihre Produktpakete erweitern.
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 087154d9e1729eb80273094edba285ce83cc4b4c
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9cc92120866502244f73efd8de6874b5d3d8428a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490116"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796943"
 ---
 # <a name="third-party-offers"></a>Drittanbieterangebote 
 
@@ -20,7 +23,7 @@ Drittanbieter-Angebote ist ein Feature im Partner Center, die direkte bereitstel
 
 Mit den Drittanbieterangeboten können CSP-Partner nicht nur Erstanbieter- oder Microsoft-Lösungen erwerben, sondern auch von Lösungen von Drittanbietern oder ISV-Partnern … all das über eine einzelne kommerzielle Plattform und mit einer Rechnung.  Wenn Ihr Unternehmen wächst, können Sie Ihr Portfolio weiterentwickeln und um Angebote von Drittanbietern für Ihre Produktpakete erweitern. 
 
-Finden Sie verschiedene Arten von drittanbieterangeboten im Partner Center, die mit Microsoft-Produkten zusammenarbeiten. Ihre Kunden profitieren von einer größeren Auswahl unterschiedlichster Lösungen, die entdeckt, verkauft und verwaltet werden einfach an einer zentralen Stelle von Ihnen – ihrem vertrauenswürdigen Microsoft-Partner werden müssen. Partner Center erleichtert das erkennen, Abwicklung und Verwaltung dieser Services, sodass Sie Lösungen und ihre Vorteile schneller bereitstellen können.
+Sie können verschiedene Arten von drittanbieterangeboten im Partner Center finden, mit denen Microsoft-Produkten zusammenarbeiten. Ihre Kunden profitieren von einer größeren Auswahl unterschiedlichster Lösungen, die entdeckt, verkauft und verwaltet werden einfach an einer zentralen Stelle von Ihnen – ihrem vertrauenswürdigen Microsoft-Partner werden müssen. Partner Center erleichtert das erkennen, Abwicklung und Verwaltung dieser Services, sodass Sie Lösungen und ihre Vorteile schneller bereitstellen können.
 
 ## <a name="microsoft-partners-in-the-cloud-solution-provider-program"></a>Microsoft-Partner im Programm für Cloud-Lösungsanbieter
 

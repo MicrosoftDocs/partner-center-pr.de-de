@@ -1,17 +1,20 @@
 ---
 title: Umsatzsteigerung mit Empfehlungen von Microsoft | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Generieren Sie Geschäftsleads, und nehmen Sie Kontakt zu Kunden auf, die Unterstützung bei der Implementierung von Microsoft-Produkten und -Lösungen benötigen.
 author: KPacquer
+ms.author: kenpacq
 keywords: Empfehlungen, Unternehmensprofil, Partner suchen
 ms.localizationpriority: medium
-ms.openlocfilehash: d06f2a6d435c9db5bc9b4d54ceb95cdeafc956b8
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: c4241c70591d6747f9e5994c43119740d6819791
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489236"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794823"
 ---
-<!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
+<!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Umsatzsteigerung mit Empfehlungen von Microsoft
 
@@ -23,7 +26,7 @@ Viele Kunden suchen nach qualifizierten Experten, die bei der Implementierung de
 
 Wir möchten für Sie eine Verbindung mit Kunden herstellen, die Ihre Lösungen und das Fachwissen benötigen. Der wichtigste Schritt, Vertriebskontakte von uns zu erhalten ist unter [Erstellen eines Unternehmensprofils](create-a-marketing-profile.md), auf denen Sie Beispiele zu Angeboten, Lösungen und dem Fachwissen Ihres Unternehmens finden. Ihr Unternehmensprofil wird auf allen Orten aufgeführt, auf denen Kunden und interne Microsoft-Vertreter nach qualifizierten Partnern suchen. 
 
- Nachdem Sie Ihr Unternehmensprofil veröffentlicht haben, beginnen Sie Vertriebskontakten über die Funktion "Empfehlungen" im Partner Center zu erhalten. Es ist wichtig, auf Empfehlungen im erforderlichen Zeitraum zu reagieren, um weiterhin Leads zu erhalten und vor allen Dingen, Geschäfte zu gewinnen. Finden Sie weitere Informationen über das Verwalten von [Antworten auf Empfehlungen](responding-to-referrals.md) in Partner Center führt.  
+ Nachdem Sie Ihr Unternehmensprofil veröffentlicht haben, beginnen Sie Vertriebskontakten über die Funktion "Empfehlungen" im Partner Center zu erhalten. Es ist wichtig, auf Empfehlungen im erforderlichen Zeitraum zu reagieren, um weiterhin Leads zu erhalten und vor allen Dingen, Geschäfte zu gewinnen. Sehen Sie, dass [Beantworten von Weiterleitungen](responding-to-referrals.md) Einzelheiten zum Verwalten von Vertriebskontakten im Partner Center.  
 
 Viel Glück!
 

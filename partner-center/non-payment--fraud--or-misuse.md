@@ -1,16 +1,19 @@
 ---
 title: Nichtbezahlung, Betrug oder Missbrauch | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Strategien für die Verwaltung von Onlinetransaktionsrisiken, einschließlich der Nichtzahlung von Waren und Dienstleistungen durch den Kunden sowie betrügerische Aktivitäten oder Missbrauch.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: Betrug, Missbrauch, akzeptable Nutzung, akzeptable Nutzungsrichtlinien, Nichtzahlung, Zahlung durch den Kunden, Onlinerisiko, Diebstahl von Diensten, Dienstmissbrauch, Anhalten eines Abonnements,
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e9184a47c5f12900f9a7acb0d33d5d5c9f1f4fa
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: ccfcae0f6a31078e1c298ea6ee0293801c0f6b66
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377702"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795423"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Nichtbezahlung, Betrug oder Missbrauch
 
@@ -62,7 +65,7 @@ Diese Empfehlungen können Ihnen dabei helfen, Richtlinien und Praktiken zu entw
 #### <a name="post-purchase-customer-account-management"></a>Kundenkontoverwaltung nach dem Kauf
 - Arbeiten Sie mit den Kunden zusammen, um deren grundlegenden Geschäftsanforderungen an die Clouddienstnutzung zu verstehen und geeignete Überwachung von Schwellenwerten festzulegen.
     > [!NOTE]  
-    >  Sie können im Partner Center die kundennutzung während des Monats zu überwachen und benachrichtigt werden, wenn Kunden nahe an ihrem Budget sind [ein monatliches Azure-Ausgaben-Budget festlegen](set-an-azure-spending-budget-for-your-customers.md) .
+    >  Sie können im Partner Center die kundennutzung während des Monats zu überwachen und benachrichtigt werden, wenn Kunden nahe an ihrem Budget sind [ein monatliches Azure Ausgaben Budget festlegen](set-an-azure-spending-budget-for-your-customers.md) .
 - Prüfen Sie die [Kundenaktivitätsprotokolle](activity-logs.md) regelmäßig, um Betrug früh zu erkennen
 - Handeln Sie schnell, wenn Sie verdächtige Aktivitäten entdecken.
 - Vermeiden Sie es, Kunden vollständigen Administratorzugriff auf Abonnements zu gewähren, wenn Sie noch keine Kontrollmechanismen zur Risikominderung implementiert haben.
@@ -78,9 +81,9 @@ Detailliertere Strategien zur Minderung des Onlinerisikos finden Sie im der [Anl
 > [!IMPORTANT]  
 > Wenn Microsoft eine Partner- oder Kundenaktivität erkennt, die von uns als Verstoß gegen die Acceptable Use-Richtlinie angesehen wird, werden wir entsprechende Durchsetzungsmaßnahmen ergreifen. Der Kunde kann unter Umständen sofort suspendiert werden. Sie werden über die Durchsetzungsmaßnahmen informiert oder erhalten von Microsoft aktuelle Informationen zu Ihren Anfragen.
 
- 
+ 
 
- 
+ 
 
 
 

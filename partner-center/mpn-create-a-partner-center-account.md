@@ -1,14 +1,17 @@
 ---
 title: PartnerCenter-Konto erstellen | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Mitglieder im Microsoft Partner Network müssen ein Partner Center-Konto erstellen, um ihre Netzwerkvorteile und Kompetenzen verwalten und ein Unternehmensprofil erstellen zu können.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a12b65369d1d82fdf94a4312feb8acd8892f29bb
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 93b8eb679731025cd7ded38abf6e071c5b797893
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488946"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796203"
 ---
 # <a name="create-a-partner-center-account"></a>Erstellen eines Partner Center-Kontos
 
@@ -67,7 +70,7 @@ Wir werden diese Informationen während des Kontoerstellungsprozesses überprüf
 
 5.  Stellen Sie sicher, dass Sie der Administratorgruppe hinzugefügt wurden. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
 
-    a. Klicken Sie in Ihrem **Partner Center**wählen Sie das Symbol " **Einstellungen** ", und wählen Sie dann **benutzerverwaltung**.  
+    a. Wählen Sie in Ihrem **Partner Center**das Symbol " **Einstellungen** ", und wählen Sie dann **benutzerverwaltung**.  
 
     b. Wählen Sie Ihren Namen aus der Anwenderliste aus und dann **Administrator-Agent**, sofern nicht bereits ausgewählt. Wählen Sie **Update**.  
 

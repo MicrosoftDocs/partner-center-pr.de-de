@@ -1,14 +1,17 @@
 ---
 title: Partner Center für Microsoft-Cloud Deutschland | Partner Center für Microsoft-Cloud Deutschland
+ms.topic: article
+ms.date: 10/29/2018
 description: Partner Center für Microsoft-Cloud Deutschland ist das Unternehmensportal für Microsoft-Partner, die Kunden die Microsoft-Cloudlösungen in EU und EFTA-Ländern anbieten möchten. Microsoft-Cloud Deutschland stellt sicher, dass Ihre Kundendaten in Deutschland bleiben und ein angegebener Datenverwalter den Zugriff darauf kontrolliert. Gewerbliche Kunden in der Europäischen Union (EU) und der EFTA können Kundendaten in Übereinstimmung mit den zutreffenden deutschen Gesetzen und Vorschriften sowie wichtigen internationalen Standards speichern und verwalten. Microsoft kann nicht ohne Genehmigung und Überwachung des deutschen Datenverwalters oder Kunden auf die Kundendaten zugreifen.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 53d0b70d8123369f631dc03e139a58432a455528
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 0e7ae56351ab68a6883bdc647851e7e30ecec611
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377582"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797263"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Partner Center für Microsoft-Cloud Deutschland
 

@@ -1,15 +1,18 @@
 ---
 title: Grundlagen zur Abrechnung | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
+ms.author: labrenne
 keywords: Abrechnung, Zahlungen, Aufträge, Abbruch, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Abstimmungsdateien, Abstimmungsdatei
 ms.localizationpriority: medium
-ms.openlocfilehash: 85b1fc90a65ca8c982dd58bc51130488e09e86de
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ebab84673a5651cb40223ef9d1483eb1d0322e51
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490066"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797103"
 ---
 # <a name="billing-basics"></a>Grundlagen zur Abrechnung
 
@@ -77,7 +80,7 @@ Sie haben nun eine Option für jährliche Abrechnung zusätzlich zur Option "Mon
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="license-based-billing"></a>Lizenzbasierte Abrechnung
 
@@ -109,7 +112,7 @@ Sie haben nun eine Option für jährliche Abrechnung zusätzlich zur Option "Mon
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="usage-based-billing"></a>Nutzungsbasierte Abrechnung
 
@@ -170,8 +173,8 @@ Um auf einmalige Rechnungen und abgleichungsdateien zuzugreifen, wählen Sie aus
 2.  Auf der Seite **Kunden**, suchen Sie den Kunden, deren Bestellverlauf Sie anzeigen möchten, und wählen Sie dann den Pfeil nach unten, um den Datensatz des Kunden zu erweitern. 
 3.  Wählen Sie **Aufträge anzeigen**, um den Bestellverlauf anzuzeigen.
 
-#### <a name="download-a-credit-note"></a>Laden Sie eine Gutschrift
+#### <a name="download-a-credit-note"></a>Herunterladen einer Gutschrift
 
-Den Fall, dass Sie eine vollständige Gutschrift (Void Rechnung) und Rückbuchung ausüben, erhalten wir Sie eine Gutschrift der ursprünglichen Rechnung und auch ein vollständig neues Dokument abbrechen. Sie können eine Gutschrift/Rückbuchung aus folgenden Gründen anfordern:
--   Adresse oder den Kauf Reihenfolge Korrekturen
--   Rechnung generiert und anschließend eine Steuerrückerstattung angewendet wurde. Sie können eine Gutschrift/Rückbuchung für das Geschäftsjahr Rückerstattung wieder in der ursprünglichen Rechnung gezogen anfordern. Dies gilt auch für Erstattungen, wie Sie eine Gutschrift/Rückbuchung der ursprünglichen Rechnung und dann durch Ziehen in eine Rückerstattung anfordern können.
+Den Fall, dass Sie eine vollständige Gutschrift (Void Rechnung) und Rückbuchung ausüben, müssen wir Sie eine Gutschrift der ursprünglichen Rechnung und auch ein vollständig neues Dokument Abbrechen bieten. Sie können eine Gutschrift/Rückbuchung aus den folgenden Gründen anfordern:
+-   Beheben oder -Einkaufs-Reihenfolge Korrekturen
+-   Rechnung generiert und anschließend eine Steuerrückerstattung angewendet wurde. Sie können eine Gutschrift/Rückbuchung zum Abrufen der Steuerrückerstattung zurück in die ursprüngliche Rechnung gezogen anfordern. Dies gilt auch für Erstattungen, wie Sie eine Gutschrift/Rückbuchung der ursprünglichen Rechnung und dann durch Ziehen in eine Rückerstattung anfordern können.

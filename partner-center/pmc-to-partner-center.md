@@ -1,18 +1,21 @@
 ---
 title: Übertragen der MPN-Mitgliedschaft von Partner Membership Center zu Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: 'PMC-Benutzer: Wir verwalten die MPN-Mitgliedschaft jetzt über Partner Center. Gehen Sie als Nächstes wie folgt vor.'
 author: KPacquer
+ms.author: kenpacq
 keywords: MPN-Mitgliedschaft, Kompetenzen, PMC zu Partner Center
 robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: f6da4a837ccabc6611e7751a9a22cebbbe998bda
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490076"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794953"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Übertragen der MPN-Mitgliedschaft von Partner Membership Center zu Partner Center
 
@@ -31,7 +34,7 @@ Beginnen Sie sofort mit der Einrichtung Ihrer Benutzer, sodass sie weiterhin auf
 
 Der Administrator der Organisation fügt Mitarbeiter im Partner Center-Konto hinzu, indem er sie entweder einzeln oder mithilfe von PMC-Daten zum Erstellen mehrerer Benutzer auf einmal hinzufügt:
 
-1.  Wählen Sie aus dem Partner Center, **neue Benutzer hinzufügen** , Hinzufügen einer Person oder **Einrichten Ihres Teams** (oder fügen Benutzer mithilfe von PMC-Daten) mehrere Benutzer gleichzeitig hinzufügen.
+1.  Wählen Sie aus dem Partner Center, **neue Benutzer hinzufügen** , Hinzufügen einer Person oder **Einrichten Ihres Teams** (oder fügen Benutzer mithilfe von PMC-Daten) um mehrere Benutzer auf einmal hinzuzufügen.
     
     Folgen Sie den Anweisungen auf dem Bildschirm, um die Einrichtung abzuschließen.
 
@@ -45,16 +48,16 @@ Der Administrator der Organisation fügt Mitarbeiter im Partner Center-Konto hin
 
 ## <a href="" id="nonadmin_tasks"></a>Mitarbeiteraufgaben: Aktualisieren von Konten
 
-1.  Beschaffen Sie Ihre Anmeldung Microsoft Partner Center oder von Ihrem Administrator. Wenn Sie die Anmeldung nicht erhalten, wenden Sie sich an den Administrator Ihrer Organisation, um ihn zu bitten, sie direkt an Sie zu senden. 
+1.  Beschaffen Sie Ihre Anmeldung aus dem Microsoft Partner Center oder von Ihrem Administrator. Wenn Sie die Informationen melden Sie sich nicht erhalten, wenden Sie sich an den Administrator Ihrer Organisation, um ihn zu bitten, sie direkt an Sie zu senden. 
 
 2.  Verknüpfen Sie Ihr Microsoft Partner University-Konto. Wählen Sie aus dem Partner Center, **Aktualisieren Sie Ihr Profil** > **Get Partner University zugreifen**.  Nachdem Sie dieses Konto verbunden haben, können Sie wieder auf Partner University zugreifen.
 
-3.  Ordnen Sie technische Microsoft-Prüfungen und -Zertifizierungen zu. Wählen Sie aus dem Partner Center, **Aktualisieren Sie Ihr Profil** > **Prüfungen und Zertifizierungen zugeordnet**. 
+3.  Ordnen Sie technische Microsoft-Prüfungen und -Zertifizierungen zu. Wählen Sie aus dem Partner Center, **Aktualisieren Sie Ihr Profil** > **Ordnen Sie Prüfungen und Zertifizierungen**. 
 
 4.  Optional: [Richten Sie die Self-Service-Kennwortzurücksetzung ein](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password).
 
 ## <a name="checking-team-status-and-receiving-competency-achievements"></a>Überprüfen des Teamstatus und Erzielen von Kompetenzerfolgen
 
-1.  Sehen Sie, welche Mitarbeiter aus Ihrer Organisation ihre Microsoft Partner University-Konten und ihre Prüfungen und Zertifizierungen zugeordnet haben: Wählen Sie aus Partnercenter, **Überprüfen Sie Ihr Team-Status**.
+1.  Sehen Sie, welche Mitarbeiter aus Ihrer Organisation ihre Microsoft Partner University-Konten verknüpft und haben ihre Prüfungen und Zertifizierungen: aus dem Partnercenter, wählen Sie **Ihr Team Status überprüfen**.
 
 2.  **Warten Sie 24 Stunden**, nachdem ein Mitarbeiter sein Konto verknüpft oder ein kenntnisbasiertes Ziel abgeschlossen hat. Danach wird der Fortschritt im Abschnitt **Partnerschaft > Kompetenzen** angezeigt.

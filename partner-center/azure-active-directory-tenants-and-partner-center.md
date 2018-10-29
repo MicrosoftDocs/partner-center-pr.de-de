@@ -1,16 +1,19 @@
 ---
 title: Geschäftskonten und PartnerCenter | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Damit ein Partner Center-Konto erstellt werden kann, muss Ihr Unternehmen ein Geschäftskonto besitzen.
 author: labrenne
+ms.author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a9187e62d29409ad44dcc58c2da7f54a3c0fc69
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: aa256ad84b598d011ca25b7470342381148ecf2a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489746"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796393"
 ---
 # <a name="your-company-work-account-and-the-partner-center"></a>Ihrer Firma und Partner Center  
 
@@ -20,12 +23,12 @@ ms.locfileid: "4489746"
 
 ## <a name="why-you-need-a-work-account"></a>Warum Sie ein Geschäftskonto benötigen
 
-Wir müssen Geschäftskonto Ihres Unternehmens mit Ihrem neuen Partner Center-Konto verknüpfen, damit Ihre Kontobenutzer im Partner Center mit ihrer Arbeit Benutzernamen und Kennwörter anmelden können.
+Wir müssen Geschäftskonto Ihres Unternehmens mit Ihrem neuen Partner Center-Konto verknüpfen, damit sich Ihre Kontobenutzer im Partner Center mit ihrer Arbeit Benutzernamen und Kennwörter anmelden können.
 
 Wenn Ihr Unternehmen bereits ein Geschäftskonto besitzt, können Sie es mit Ihrem Partner Center-Konto verknüpfen. 
 
 > [!NOTE]  
->  Bevor Sie sich entschließen, ein vorhandenes Geschäftskonto zu verwenden, Bedenken Sie, wie viele Benutzer des Kontos in Partner Center arbeiten müssen. Wenn Sie Benutzer im Konto, die nicht im Partner Center arbeiten müssen verfügen, sollten Sie die Erstellung eines neuen Kontos nur Benutzer, die im Partner Center arbeiten müssen.
+>  Bevor Sie sich entschließen, ein vorhandenes Geschäftskonto verwenden, Bedenken Sie, wie viele Benutzer des Kontos in Partner Center arbeiten müssen. Wenn Sie Benutzer im Konto, die nicht im Partner Center arbeiten müssen verfügen, sollten Sie die Erstellung eines neuen Kontos nur Benutzer, die im Partner Center arbeiten müssen.
 
 Falls Ihr Unternehmen noch nicht über ein Geschäftskonto verfügt, können Sie ein solches während des Registrierungsprozesses erstellen. 
 

@@ -1,15 +1,18 @@
 ---
 title: Migrieren von Dynamics AX-Abonnements zu Dynamics365 | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft führt Dynamics365 ein, die nächste Generation intelligenter Unternehmensanwendungen, mit denen Ihre Organisation wachsen, sich entwickeln und transformiert werden kann, um die Anforderungen Ihrer Kunden zu erfüllen und neue Geschäftschancen zu nutzen.
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f5e03825226171b8002b260e1b00a59a5eb53ebb
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e992a3cdfc0bbb01a303a8b00bfeda3cf60d1882
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489786"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797133"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrieren von Dynamics AX-Abonnements zu Dynamics 365
 
@@ -42,7 +45,7 @@ Die Microsoft Dynamics AX-Produktlinie wird mit Wirkung vom 1.November2016 einge
 |Aufgabe/Self-Service|Microsoft Dynamics 365 for Team Members|
 |Gerät|Microsoft Dynamics 365 for Operations Device|
 
-## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Microsoft Dynamics CRM Online-Lizenzierungsänderungen 
+## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Microsoft Dynamics CRM Online-Lizenzierungsänderungen 
 
 **Microsoft Dynamics CRM Online**
 
@@ -78,7 +81,7 @@ Der Wiederverkäufer muss einen Kunden mit einem vorhandenen Dynamics AX Enterpr
 
 **Kauf des neuen Abonnements**
 
-1.  Klicken Sie im **Partner Center** wählen Sie **Kunden aus**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie **Abonnements hinzufügen**.
+1.  Klicken Sie im Menü " **Partner Center** " Wählen Sie **Kunden**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie **Abonnements hinzufügen**.
 2.  Wählen Sie aus dem Katalog das Abonnement aus, das Sie kaufen möchten (in diesem Fall Dynamics365 for Operations Enterprise Edition), kaufen Sie die nötigen Anzahl von Lizenzen, und wählen Sie **Übermitteln** aus.
 
     Ihr Kunde sollte nun alte und neue Abonnements besitzen. In diesem Beispiel sind dies das alte Dynamics AX Enterprise-Abonnement und das neue Abonnement von Dynamics365 for Operations Enterprise Edition.
@@ -87,7 +90,7 @@ Der Wiederverkäufer muss einen Kunden mit einem vorhandenen Dynamics AX Enterpr
 
 **Neuzuweisen von Benutzerlizenzen**
 
-1.  Wählen Sie über das **Partner Center** -Menü **Kunden**, wählen Sie den Kunden, die, den Sie verschieben möchten, und **Benutzer und Lizenzen**. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
+1.  Klicken Sie im Menü " **Partner Center** " Wählen Sie **Kunden**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie **Benutzer und Lizenzen**. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
 2.  Um Benutzerlizenzen neu zuzuweisen, wählen Sie den Benutzer aus, der neu zugewiesen werden soll, und anschließend **Verwalten von Lizenzen**.
 3.  Deaktivieren Sie auf der Seite **Verwalten von Lizenzen** das Kontrollkästchen für die Lizenz **Dynamics AX Enterprise**, und wählen Sie die Lizenz **Dynamics365 for Operations** aus.
 4.  Wählen Sie **Übermitteln** aus. Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt.
@@ -97,7 +100,7 @@ Der Wiederverkäufer muss einen Kunden mit einem vorhandenen Dynamics AX Enterpr
 
 **Stornieren des alten Abonnements.**
 
-1.  Im **Partner Center** -Menü Wählen Sie **Kunden**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie das Abonnement, das Sie stornieren möchten.
+1.  Klicken Sie im Menü " **Partner Center** " Wählen Sie **Kunden**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie das Abonnement, das Sie stornieren möchten.
 2.  Legen Sie auf der Seite für Abonnementdetails **Status** auf **Ausgesetzt** fest.
 3.  Wählen Sie **Übermitteln** aus.
 
@@ -113,9 +116,9 @@ Wenn Kunden vom Open-Programm zum Programm für Cloud-Lösungsanbieter wechseln,
 
 Nachdem der Kunde Sie als indirekten Anbieter akzeptiert hat, sind die Bereitstellungsschritte größtenteils mit den oben beschriebenen Schritten identisch: Sie kaufen das neue Abonnement und weisen die Benutzerlizenzen zu. Der einzige Unterschied besteht in der Stornierung des/der alten Abonnements. Ein neuer Anbieter kann keine Abonnements aussetzen/stornieren, die über andere Kanäle gekauft wurden. Wenn ein Kunde zuvor Abonnements über einen anderen Vertriebskanal gekauft hat, beispielsweise Open, muss der Kunde die Abonnements selbst über diesen Kanal stornieren.
 
- 
+ 
 
- 
+ 
 
 
 

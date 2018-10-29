@@ -1,16 +1,19 @@
 ---
 title: Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Sie können Lizenzen und Dienste einem Benutzer oder gleichzeitig mehreren Benutzern in einem Benutzerkonto zuweisen und die Lizenzzuweisung für Benutzer aufheben.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: assign license, revoke license, assign to multiple users,
 ms.localizationpriority: medium
-ms.openlocfilehash: fafbb038214d31f6e0a3298705128ac3ba1ab722
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4a5e81d78a8e07b6fc5c5d3b13a6e2d9ebeecd4c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490006"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795353"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer
 
@@ -20,7 +23,7 @@ ms.locfileid: "4490006"
 
 Sie können Lizenzen und Dienste einem Benutzer oder gleichzeitig mehreren Benutzern in einem Benutzerkonto zuweisen und die Lizenzzuweisung für Benutzer aufheben.
 
-Das Partner Center verfolgt lizenzansprüche und zeigt alle Besitz des Kunden.
+Das Partner Center verfolgt lizenzansprüche und zeigt alle im Besitz des Kunden.
 
 ## <a name="in-this-section"></a>Inhalt dieses Abschnitts
 
@@ -31,7 +34,7 @@ Das Partner Center verfolgt lizenzansprüche und zeigt alle Besitz des Kunden.
 <a href="" id="assign-licenses-to-groups"></a>
 **Zuweisen von Lizenzen zu mehreren Benutzern**
 
-1.  Das **Partner Center** -Menü Wählen Sie **Kunden**, und wählen Sie dann einen Kunden aus der Liste.
+1.  Klicken Sie im Menü " **Partner Center** " Wählen Sie **Kunden**, und wählen Sie dann einen Kunden aus der Liste.
 2.  Wählen Sie **Benutzer und Lizenzen**.
 3.  Aktivieren Sie das Kontrollkästchen für zwei oder mehr Benutzer aus der Liste. (Aktivieren Sie zum Auswählen aller Benutzer auf der aktuellen Seite das Kontrollkästchen oben in der Spalte **Benutzer**.)
 
@@ -57,16 +60,16 @@ Das Partner Center verfolgt lizenzansprüche und zeigt alle Besitz des Kunden.
 7.  Durch Aktivierung des Kontrollkästchens aller Produkte wählen Sie mehrere Produkte für die Benutzer aus.
     -   Wählen Sie für ein beliebiges Produkt **View service plans**, um die von den Benutzern benötigten Servicepläne anzuzeigen und auszuwählen.
 
-8.  Wählen Sie **Speichern**. Das Partner Center öffnet **Lizenzen aktualisiert** auf einer Bestätigungsseite die Benutzer und ihre neuen Lizenzen aufgeführt.
+8.  Wählen Sie **Speichern**. Das Partner Center öffnet eine Bestätigungsseite **Lizenzen aktualisiert** die Benutzer und ihre neuen Lizenzen aufgeführt.
 
-**Hinweis:** Einige Microsoft-Produkte sind an bestimmten Standorten unter Umständen nicht verfügbar. Wieder andere Produkte sind abhängig von anderen Produkten oder Diensten oder können dem gleichen Benutzer nicht zusammen zugewiesen werden. Nach dem Speichern werden auf der Bestätigungsseite die Ergebnisse der erfolgreichen Lizenzzuweisung für alle Benutzer sowie fehlerhafte Lizenzzuweisungen angezeigt.
+**Hinweis:** einige Microsoft-Produkte möglicherweise nicht zur Verfügung an bestimmten Standorten. Wieder andere Produkte sind abhängig von anderen Produkten oder Diensten oder können dem gleichen Benutzer nicht zusammen zugewiesen werden. Nach dem Speichern werden auf der Bestätigungsseite die Ergebnisse der erfolgreichen Lizenzzuweisung für alle Benutzer sowie fehlerhafte Lizenzzuweisungen angezeigt.
 
- 
+ 
 
 <a href="" id="revoking-licenses"></a>
 **Wiederrufen der Lizenzzuweisungen von Benutzern**
 
-1.  Das **Partner Center** -Menü Wählen Sie **Kunden**, und wählen Sie dann einen Kunden aus der Liste.
+1.  Klicken Sie im Menü " **Partner Center** " Wählen Sie **Kunden**, und wählen Sie dann einen Kunden aus der Liste.
 2.  Wählen Sie **Benutzer und Lizenzen**.
 3.  Aktivieren Sie das Kontrollkästchen für zwei oder mehr Benutzer aus der Liste. (Aktivieren Sie zum Auswählen aller Benutzer auf der aktuellen Seite das Kontrollkästchen oben in der Spalte **Benutzer**.)
 
@@ -82,9 +85,9 @@ Das Partner Center verfolgt lizenzansprüche und zeigt alle Besitz des Kunden.
 
 [Zuweisen von Lizenzen zu einem Benutzer](assign-licenses-to-users.md)
 
- 
+ 
 
- 
+ 
 
 
 

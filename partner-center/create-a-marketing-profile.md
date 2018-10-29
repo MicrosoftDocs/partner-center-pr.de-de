@@ -1,16 +1,19 @@
 ---
 title: Erstellen eines Unternehmensprofils | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Erstellen Sie ein Unternehmensprofil in Partner Center, um Vertriebskontakte von Microsoft zu erhalten.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
+ms.author: kenpacq
 keywords: Pinpoint, Empfehlungen, Vertriebskontakte, C2PC, Unternehmensprofil, Unternehmen vermarkten, Partner finden, Lösungsanbieter finden, Unternehmensprofil, Marketingprofil
 ms.localizationpriority: medium
-ms.openlocfilehash: 516e898ba6c18458bd85db9517031ca58fcfef8a
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 174fe0a530fd72a17541d5b2a0bdffc9e16d53d6
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489766"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797253"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -40,7 +43,7 @@ Erstellen Sie zunächst ein Unternehmensprofil, um von diesen Leads zu profitier
 *  **Empfehlungen von Vertriebs- und Servicemitarbeitern von Microsoft**. Potenzielle Kunden, die an der Bereitstellung cloudbasierter Technologielösungen interessiert sind, kontaktieren Microsoft, um Hilfe bei der Suche von Experten zu erhalten, die ihre geschäftlichen Anforderungen erfüllen können. Diese Microsoft-Experten können dann potenzielle Kunden für Ihr Unternehmen empfehlen.
 
 > [!IMPORTANT]  
-> Damit können unsere Partner Geschäftsabläufe zu optimieren, fassen wir Features und Funktionen, die verwendet, um auf verschiedene Tools und Websites in das Partner Center dieser Website verteilt werden. Im Rahmen dieser Aufwand haben wir alle auf Empfehlungen bezogene Funktionen ins Partner Center verschoben und die Sites Pinpoint und C2PC eingestellt. Wenn Sie bisher Pinpoint oder C2PC in der Vergangenheit zum verwendet abrufen und Verwalten von Empfehlungen von Microsoft, müssen Sie erstellen ein neues Unternehmensprofil im Partner Center um weiterhin Empfehlungen zu erhalten. Das Importieren von Profilen von diesen Sites wird nicht mehr unterstützt. 
+> Damit können unsere Partner Geschäftsabläufe zu optimieren, fassen wir Features und Funktionen, die verwendet, um auf verschiedene Tools und Websites in das Partner Center dieser Website verteilt werden. Im Rahmen dieser Aufwand haben wir alle auf Empfehlungen bezogene Funktionen ins Partner Center verschoben und die Sites Pinpoint und C2PC eingestellt. Wenn Sie bisher Pinpoint oder C2PC in der Vergangenheit zum verwendet abrufen und Verwalten von Empfehlungen von Microsoft, müssen Sie erstellen ein neues Unternehmensprofil im Partner Center weiterhin Empfehlungen zu erhalten. Das Importieren von Profilen von diesen Sites wird nicht mehr unterstützt. 
 
 ## <a name="create-a-profile"></a>Erstellen eines Profils
 
@@ -49,11 +52,11 @@ Erstellen Sie zunächst ein Unternehmensprofil, um von diesen Leads zu profitier
 
 Erstellen Sie Profile für jede Region, in der Sie berechtigt sind, Geschäfte zu tätigen. 
 
-1.  Wählen Sie im **Partner Center** -Menü **Verweise auf** &gt; **Unternehmensprofile** &gt; Land/Region auswählen > **[Erstellen eines Unternehmensprofils](https://partnercenter.microsoft.com/pcv/publishing)**.
+1.  Wählen Sie aus dem Menü " **Partner Center** " **Verweise auf** &gt; **Unternehmensprofile** &gt; Land/Region auswählen > **[Erstellen eines Unternehmensprofils](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 2.  Wählen Sie auf der Seite **Erstellen eines Unternehmensprofils** eine Region aus, und geben Sie Ihre Profilinformationen ein.
     > [!NOTE]  
-    >  Während das Partner Center mehrere Sprachen unterstützt, eventuell einige Elemente, z. B. die Beschreibung und frei formulierte Tags müssen Text aus anderen Sprachen beinhalten, wie in diesem Thema beschrieben.
+    >  Während das Partner Center mehrere Sprachen unterstützt, können einige Elemente, z. B. die Beschreibung und frei formulierte Tags müssen Text aus anderen Sprachen beinhalten, wie in diesem Thema angegeben.
 
 ### <a href="" id="partner_info"></a>Partnerinformationen
 
@@ -99,7 +102,7 @@ Andere in der Suche verwendete Tags:
 
 Es wird empfohlen, diese Einstellung aktiviert zu lassen. 
 
-Wie Sie mit Kunden über das Partner Center Erfolge oder durch die Teilnahme an anderen Microsoft-Zertifizierungen oder-Programmen, fügen wir automatisch unterstützungen für Ihre spezifischen Produkte, Dienste und Branchen hinzu, die zu diesem Erfolg beitragen. Unterstützungen sind ein wichtiger Faktor bei Suchergebnissen.
+Wenn Sie mit Kunden über das Partner Center Erfolge oder durch die Teilnahme an anderen Microsoft-Zertifizierungen oder-Programmen, fügen wir automatisch unterstützungen für Ihre spezifischen Produkte, Dienste und Branchen hinzu, die zu diesem Erfolg beitragen. Unterstützungen sind ein wichtiger Faktor bei Suchergebnissen.
 
 Liegen jedoch Produkte vor, für die Sie zwar Dienstleistungen anbieten, die aber nicht in Ihrem Profil angezeigt werden können, können Sie dieses Kontrollkästchen deaktivieren und Ihr Profil manuell verwalten. Diese Unterstützungen werden in der Ansicht der Kunden ausgeblendet, Sie können sie jedoch später jederzeit wieder zu Ihrem Profil hinzufügen.
 

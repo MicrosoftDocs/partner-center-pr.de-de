@@ -1,14 +1,17 @@
 ---
 title: Verwenden von Werbeaktionen, um neue Kunden gewinnen | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Als Microsoft-Partner im Cloud-Lösungsanbieter-Programm können Sie Abonnements zu Aktionspreisen erwerben und die Einsparungen an die Kunden weitergeben.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fa719f0824e525a2c63b58970b3385c63056a135
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 011f825d6cd4c47e793dd63fb8b1dcf61979453d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488986"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795053"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Verwenden von Werbeaktionen, um neue Kunden gewinnen  
 
@@ -32,7 +35,7 @@ Nehmen Sie sich einen Moment Zeit, diese wichtigen Fakten zu Werbeaktionen zu ü
 
 ## <a name="see-available-promotions"></a>Verfügbare Werbeaktionen anzeigen
 
-Sie können auf der Seite **Werbeaktionen** sehen, auf welche Aktionen Sie ggf. Anspruch haben. Wählen Sie **Werbeaktionen** aus Ihrem **Partner Center** -Menü, um eine Liste der aktuellen Werbeaktionen zusammen mit dem Rabatt, Angebotstyp und dem Start- und Enddaten für das Abonnement anzuzeigen. Wenn keine Aktionen verfügbar sind, sehen Sie eine Nachricht, die dieses anzeigt. 
+Sie können auf der Seite **Werbeaktionen** sehen, auf welche Aktionen Sie ggf. Anspruch haben. Wählen Sie **Werbeaktionen** aus Ihrem Menü " **Partner Center** ", um eine Liste der aktuellen Werbeaktionen zusammen mit dem Rabatt, Angebotstyp und dem Start- und Enddaten für das Abonnement anzuzeigen. Wenn keine Aktionen verfügbar sind, sehen Sie eine Nachricht, die dieses anzeigt. 
 
 > [!NOTE]  
 > Sie können Werbeaktionen beim Einkaufen anzeigen. Wenn Sie ein Abonnement auswählen, wird der Rabattprozentsatz auf der Seite **Überprüfung** angezeigt.

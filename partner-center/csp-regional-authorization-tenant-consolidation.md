@@ -1,16 +1,19 @@
 ---
 title: Mandantenkonsolidierung für regionale CSP-Autorisierung | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschiedene Länder/Regionen.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: Migrieren von Kunden, Bereitstellung, Mandantenkonto, Mandanten konsolidieren
 ms.localizationpriority: medium
-ms.openlocfilehash: b5506927a8786665c55e6e68b2f81bdc6cdf73c1
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 6285b9dfe88052939a50d6675a190f3e5419cdbb
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489666"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797283"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Mandantenkonsolidierung für regionale CSP-Autorisierung
 
@@ -24,9 +27,9 @@ ms.locfileid: "4489666"
 
 Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschiedene Länder/Regionen.
 
-**Hinweis:** Sie müssen alle Abonnements und die Anzahl von Arbeitsplätzen für Ihre Kunden kennen, die über die Übergangskonten bereitgestellt wurden. Sie werden im Rahmen des Migrationsprozesses unter dem neuen zentralen CSP-Konto genau dieselben Abonnements mit derselben Anzahl von Arbeitsplätzen erneut bereitstellen. Verwenden Sie das Feature zum Exportieren der Liste, um eine Liste mit Kunden zu erstellen, die zum zentralisierten Mandanten migriert werden sollen. Partner entscheiden sich für die Konsolidierung ihrer Mandanten. Nach Abschluss der Konsolidierung können Partner nicht den vorherigen Zustand wiederherstellen. Beachten Sie, dass auch Schritte vonseiten des Kunden erforderlich sind.
+**Hinweis:** müssen Sie im Hinblick auf alle Abonnements und Anzahl von Arbeitsplätzen für Ihre Kunden über die übergangskonten bereitgestellt. Sie werden im Rahmen des Migrationsprozesses unter dem neuen zentralen CSP-Konto genau dieselben Abonnements mit derselben Anzahl von Arbeitsplätzen erneut bereitstellen. Verwenden Sie das Feature zum Exportieren der Liste, um eine Liste mit Kunden zu erstellen, die zum zentralisierten Mandanten migriert werden sollen. Partner entscheiden sich für die Konsolidierung ihrer Mandanten. Nach Abschluss der Konsolidierung können Partner nicht den vorherigen Zustand wiederherstellen. Beachten Sie, dass auch Schritte vonseiten des Kunden erforderlich sind.
 
- 
+ 
 
 ## <a name="prepare-for-migration"></a>Vorbereitung auf die Migration
 
@@ -55,7 +58,7 @@ Die Kunden werden nach Übermittlung der Vereinbarung nacheinander in der Kunden
 
 1.  Nachdem der Kunde die Vereinbarung unterzeichnet hat, können Sie die Abonnements unter dem zentralisierten Partnermandanten erneut erstellen.
 
-2.  Wählen Sie aus dem **Partner Center** - **Kunden**.
+2.  Wählen Sie aus dem **Partner Center** **Kunden**.
 
 3.  Öffnen Sie den Unternehmensnamen für den Kunden, den Sie migrieren möchten.
 
@@ -73,23 +76,23 @@ Wiederholen Sie diese Schritte, um Abonnements für alle weiteren Kunden zu migr
 
 Bevor Sie mit dem nächsten Abschnitt fortfahren, stellen Sie sicher, dass alle Kundenabonnements unter den Partnerkonten vom Typ **Transitioning From** unter dem Partnerkonto vom Typ **Transitioning To** erneut bereitgestellt wurden.
 
-**Hinweis:** Partner müssen Abonnements im Partnermandantenkonto vom Typ **Transitioning From** in Partner Center am selben Tag aussetzen, an dem diese Abonnements migriert und unter dem Partnermandantenkonto vom Typ **Transitioning To** in Partner Center eingerichtet werden, um eine doppelte Abrechnung von Kosten zu vermeiden. Supportanfragen in Bezug auf Kosten, die infolge sich überschneidender Abrechnungen auftreten, weil die Abonnements vom Typ **Transitioning From** nicht ordnungsgemäß deaktiviert wurden, werden abgelehnt.
+**Hinweis:** Partner müssen Aussetzen eines Abonnements für das Konto **Transitioning From** Partnermandanten im Partner Center am selben Tag, die diese Abonnements migriert und unter dem Konto **Transitioning To** Partnermandanten im einrichten Das Partner Center, um sicherzustellen, dass doppelte Abrechnung tritt nicht ein. Supportanfragen in Bezug auf Kosten, die infolge sich überschneidender Abrechnungen auftreten, weil die Abonnements vom Typ **Transitioning From** nicht ordnungsgemäß deaktiviert wurden, werden abgelehnt.
 
- 
+ 
 
 ## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Deaktivieren der Office365-Abonnements unter dem Partnerkonto vom Typ „Transitioning From“
 
 
 Durch die Deaktivierung des CSP-Abonnements unter den Partnerkonten vom Typ **Transitioning From** erfolgen keine zukünftigen Abrechnungen mehr. Azure-Abonnements müssen nicht manuell deaktiviert werden, da diese Abonnements während des Migrationsprozesses automatisch deaktiviert werden.
 
-1.  Melden Sie sich beim **Partner Center** mit dem **Transitioning From** -CSP-Konto, und navigieren Sie zur Kundenliste.
+1.  Melden Sie sich beim **Partner Center** mit dem **Transitioning From** CSP-Konto, und navigieren Sie zur Kundenliste.
 
 2.  Öffnen Sie den Kunden, für den Sie Abonnements deaktivieren möchten, und wählen Sie das erste zu deaktivierende Angebot aus.
 3.  Legen Sie für das Abonnement **suspended** fest, und klicken Sie anschließend auf **Übermitteln**.
 
-    **Hinweis:** Durch Aussetzen des Abonnements wird sichergestellt, dass die Abrechnung nicht doppelt erfolgt.
+    **Hinweis:** durch aussetzen des Abonnements wird sichergestellt, dass doppelte Abrechnung nicht erfolgt.
 
-     
+     
 
     Für das Abonnement wird in der Abonnementliste **suspended** angezeigt.
 
@@ -108,9 +111,9 @@ Beachten Sie, dass nutzungsbasierte Azure-CSP-Abonnements nicht wie Office365-CS
 4.  Der Partner überprüft, ob für das Azure-Abonnement unter den CSP-Vertriebspartnerkonten vom Typ **Transitioning From** in Partner Center im Abschnitt mit den Kundenabonnements jetzt „suspended“ angezeigt wird.
 5.  Der Partner überprüft, ob für das Azure-Abonnement unter dem CSP-Vertriebspartnerkonto vom Typ **Transitioning To** nun in Partner Center im Abschnitt mit den Kundenabonnements der Status **active** angezeigt wird.
 
-    **Hinweis:** Durch die Deaktivierung der Abonnements im Kundeneintrag wird nicht die Darstellung des Kunden in der Kundenliste geändert. Zurzeit besteht keine Möglichkeit, Kunden aus der Liste zu entfernen. Partner sollten in Zukunft das erneute Hinzufügen von Abonnements zu diesen Kunden aus dem Konto vom Typ **Transitioning From** vermeiden.
+    **Hinweis:** Deaktivierung der Abonnements des Kunden ändert sich nicht auf die Darstellung des Kunden in der Kundenliste. Zurzeit besteht keine Möglichkeit, Kunden aus der Liste zu entfernen. Partner sollten in Zukunft das erneute Hinzufügen von Abonnements zu diesen Kunden aus dem Konto vom Typ **Transitioning From** vermeiden.
 
-     
+     
 
 6.  Wiederholen Sie diese Schritte für alle Abonnements in allen Kundendatensätzen, um künftige Kosten für die Konten vom Typ **Transitioning From** zu vermeiden. Der Partner erhält eine endgültige Rechnung mit einer Gutschrift für die Anzahl der nicht genutzten Tage zwischen dem Stornierungsdatum und dem letzten Tag des Abrechnungszeitraums. Nach diesem letzten Abrechnungszeitraum werden keine zukünftigen Rechnungen generiert.
 
@@ -122,9 +125,9 @@ Beachten Sie, dass nutzungsbasierte Azure-CSP-Abonnements nicht wie Office365-CS
 
 -   Zurzeit besteht keine Möglichkeit, einen Kunden vollständig aus der Kundenliste zu entfernen.
 
--   **Hinweis:** Partner müssen Abonnements im Partnermandantenkonto vom Typ **Transitioning From** in Partner Center am selben Tag aussetzen, an dem diese Abonnements migriert und unter dem Partnermandantenkonto vom Typ **Transitioning To** in Partner Center eingerichtet werden, um eine doppelte Abrechnung von Kosten zu vermeiden. Microsoft lehnt Supportanfragen in Bezug auf Kosten ab, die infolge sich überschneidender Abrechnungen auftreten, weil Abonnements vom Typ **Transitioning From** nicht ordnungsgemäß auf „suspended“ gesetzt wurden.
+-   **Hinweis:** Partner müssen Aussetzen eines Abonnements für das Konto **Transitioning From** Partnermandanten im Partner Center am selben Tag, die diese Abonnements unter dem **Transitioning To** Partnermandanten Konto eingerichtet und gewechselt werden in das Partner Center, um sicherzustellen, dass keine doppelte Abrechnung ausgeführt. Microsoft lehnt Supportanfragen in Bezug auf Kosten ab, die infolge sich überschneidender Abrechnungen auftreten, weil Abonnements vom Typ **Transitioning From** nicht ordnungsgemäß auf „suspended“ gesetzt wurden.
 
-     
+     
 
 ### <a name="simplify-migration-using-export"></a>Vereinfachen der Migration mithilfe der Exportfunktion
 
@@ -143,9 +146,9 @@ Mit der **Exportfunktion** können Sie die Abonnements erfassen, die Sie in der 
 Weitere Informationen zur API-Registrierung finden Sie in [auf dieser Seite](https://go.microsoft.com/fwlink/?linkid=847990).
 
 
- 
+ 
 
- 
+ 
 
 
 

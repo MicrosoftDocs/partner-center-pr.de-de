@@ -1,15 +1,18 @@
 ---
 title: Microsoft Azure VM-Größe für die maximale Reservations-Nutzung | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
+ms.author: v-petand
 keywords: Azure, Reservierungen, virtueller Computer, verwalten, Nutzung, Größe
 ms.localizationpriority: medium
-ms.openlocfilehash: 6279ff9e6ecd66af9eb320b2d72a1cdfaad4ccb4
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 00978e8e000dded2e4f7bb5d5d6506711e521c86
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489616"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795923"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Microsoft Azure VM-Größe für die maximale Reservations-Nutzung 
 
@@ -45,7 +48,7 @@ Nachstehend finden Sie Anleitungen für jede dieser Vorgehensweisen. Nachdem Sie
 
 **Rufen Sie die VM-Größeninformationen im Microsoft Azure-Portal ab**
 
-1.  Im Partner Center wechseln Sie zu der Seite " **Kunden** ".
+1.  Wechseln Sie im Partner Center zu Ihrer Seite " **Kunden** ".
 
 2.  Suchen Sie den Kunden, der Azure VM Reservations kaufen möchte, und wählen Sie dann den Pfeil nach unten, um die Informationen des Kunden zu erweitern. Wählen Sie **Microsoft Azure-Verwaltungsportal**, um die Daten des Kunden im Azure-Portal zu öffnen. 
 
@@ -89,7 +92,7 @@ Nachstehend finden Sie Anleitungen für jede dieser Vorgehensweisen.
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Überprüfen Sie die Reservierungsnutzung des Kunden im Microsoft Azure-Portal
 
-1.  Im Partner Center wechseln Sie zu der Seite " **Kunden** ".
+1.  Wechseln Sie im Partner Center zu Ihrer Seite " **Kunden** ".
 
 2.  Suchen Sie den Kunden, dessen Reservierungsrabatt und -nutzung Sie überprüfen möchten, und wählen Sie dann den Pfeil nach unten, um die Informationen des Kunden zu erweitern. Wählen Sie **Microsoft Azure-Verwaltungsportal**, um die Daten des Kunden im Azure-Portal zu öffnen. 
 

@@ -1,19 +1,22 @@
 ---
 title: Project and Portfolio Management-Kompetenz
+ms.topic: article
+ms.date: 10/29/2018
 description: Die Project and Portfolio Management-Kompetenz erkennt Partner an, die ihre Fähigkeit demonstrieren, Kunden Enterprise Project Management (EPM)-Lösungen bereitzustellen.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: Kompetenz, Kompetenzen
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 8006e86ce2c5b0e4b9c9c4383d14976efc2b46cc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 570f1eef7840f5a4944a21c95b2302615ba68edb
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876030"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795473"
 ---
 >[!IMPORTANT]
->Informationen zu den Anforderungen für die Erreichung dieses Kompetenz finden Sie auf der [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
+>Weitere Informationen zu den Anforderungen für die Erreichung dieses Kompetenz besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

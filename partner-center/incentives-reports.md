@@ -1,14 +1,17 @@
 ---
 title: Berichte mit Livedaten ersetzten monatliche Berichte für einige Incentiveprogramme | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Für die OSA Sell and Online Services Usage-Incentiveprogramme können jetzt Berichte mit Livedaten abgerufen werden.
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ae842761eb1de3c0c75c951033e128691e5029a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 815f0a9f7b88d1498381c5135c72eacdd2c8943a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877130"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796183"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>Berichte mit Livedaten ersetzten monatliche Berichte für einige Incentiveprogramme
 
@@ -45,9 +48,9 @@ Derzeit betrifft dies nur die OSA Sell and Online Services Usage-Incentiveprogra
 6. **Anpassungen**, die Standardansicht, enthält möglicherweise keine Daten.  Wählen Sie in diesem Fall die Ansicht **Einnahmen** oder **Zahlungen** aus.
 
 
- 
+ 
 
- 
+ 
 
 
 

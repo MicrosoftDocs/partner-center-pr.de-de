@@ -1,14 +1,17 @@
 ---
 title: Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland | Partner Center für Microsoft-Cloud Deutschland
+ms.topic: article
+ms.date: 10/29/2018
 description: Zur Einhaltung der nationalen, regionalen und branchenspezifischen Anforderungen, die für die Erfassung und Verwendung von Personendaten gelten, sind Benutzerverwaltungsfunktionen nicht im Partner Center für Microsoft-Cloud Deutschland verfügbar. Stattdessen können Sie Benutzer im Azure-Portal für Microsoft-Cloud Deutschland hinzufügen und verwalten.
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ee4215c106076d3bc548efa50dd921ae3d5987a
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: ae81568aeeb703470549d08b0e39b6ec07e0ba6e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377412"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797023"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland
 

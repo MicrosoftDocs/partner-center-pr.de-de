@@ -1,19 +1,22 @@
 ---
 title: Kompetenz Application Integration
+ms.topic: article
+ms.date: 10/29/2018
 description: Die Kompetenz „Application Integration“ erkennt Partner und Entwickler an, die einzigartige Anwendungen und Lösungen in die verschiedenen Produkte innerhalb des Microsoft-Ökosystems integrieren.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: Kompetenz, Kompetenzen, Anwendungsintegration
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: a5c69706898ff791f56a86a4c0f2f32dfb2199d4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5acf238ddb323e7031253e5b9176b8ac6841c0ec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876690"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797313"
 ---
 >[!IMPORTANT]
->Informationen zu den Anforderungen für die Erreichung dieses Kompetenz finden Sie auf der [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
+>Weitere Informationen zu den Anforderungen für die Erreichung dieses Kompetenz besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
 
 <!--
 

@@ -1,19 +1,22 @@
 ---
 title: Windows and Devices-Kompetenz
+ms.topic: article
+ms.date: 10/29/2018
 description: Tragen Sie zu unserem Ziel bei, 1 Milliarde Geräte mit Windows 10 auszustatten. Diese Geschäftschance umfasst Dienste, Anwendungen und Geräte. Diese Kompetenz bietet Ihnen Tools, Inhalte und Ressourcen, die Sie bei der Erweiterung Ihrer Geschäftstätigkeit mit Windows 10 unterstützen.
 author: Daniel Simpson
+ms.author: dansimp
 robots: noindex,nofollow
 keywords: Kompetenz,Kompetenzen,Windows and Devices
 ms.localizationpriority: medium
-ms.openlocfilehash: eee91d5908726893cf8b5f4a0d01d99b5ac442c1
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 12798d8a500cde7a3fb35d806064277fd2b8c6a6
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875740"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795583"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="48b4d-106">Informationen zu den Anforderungen für die Erreichung dieses Kompetenz finden Sie auf der [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="48b4d-106">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="dd603-106">Weitere Informationen zu den Anforderungen für die Erreichung dieses Kompetenz besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="dd603-106">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 
@@ -135,7 +138,7 @@ The Surface Hub option is ideal if you are an authorized Surface Hub ADR and pre
     - **All** individuals must each pass one of the following exams:
 
         - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 services
-        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015 
+        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015 
         - [Exam 70-398](https://www.microsoft.com/en-us/learning/exam-70-398.aspx): Planning for and Managing Devices in the Enterprise
         - [Exam 70-697](https://www.microsoft.com/en-us/learning/exam-70-697.aspx): Configuring Windows Devices 
 -->

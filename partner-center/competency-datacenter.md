@@ -1,19 +1,22 @@
 ---
 title: Rechenzentrum-Kompetenz
+ms.topic: article
+ms.date: 10/29/2018
 description: Die Rechenzentrum-Kompetenz erkennt Partner an, die Rechenzentren in flexible, skalierbare und kosteneffektive Lösungen verwandeln.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: Kompetenz, Kompetenzen, Rechenzentrum
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 28dc7d87b4ce203c423b9f23a006d75d3de638c0
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 803b3c384985564c1504d377bdcee065eff5bfd1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876240"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795563"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="a4b42-104">Informationen zu den Anforderungen für die Erreichung dieses Kompetenz finden Sie auf der [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="a4b42-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="f4f17-104">Weitere Informationen zu den Anforderungen für die Erreichung dieses Kompetenz besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="f4f17-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Datacenter

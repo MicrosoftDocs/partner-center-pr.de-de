@@ -1,19 +1,22 @@
 ---
 title: Messaging-Kompetenz
+ms.topic: article
+ms.date: 10/29/2018
 description: Die Messaging-Kompetenz erkennt Partner an, die sich einen Wettbewerbsvorteil verschaffen, Vertriebszyklen verkürzen und ihr Unternehmen ausweiten, indem sie ihre Fähigkeiten als qualifizierter Microsoft Exchange-Lösungsanbieter demonstrieren.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: Kompetenz,Kompetenzen,Messaging
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 0675b73fa5fa6fb6967734645ad298d500bb1f87
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 04aa26af89dc183ce9e07b9020a50d6d4dfa87d1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875680"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796933"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="9c004-104">Informationen zu den Anforderungen für die Erreichung dieses Kompetenz finden Sie auf der [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="9c004-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="2ec48-104">Weitere Informationen zu den Anforderungen für die Erreichung dieses Kompetenz besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="2ec48-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Messaging

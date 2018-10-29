@@ -1,54 +1,57 @@
 ---
 title: Azure Cost Management von Cloudyn für CSP-Partner | Partner Center
+ms.topic: article
+ms.date: 10/29/2018
 description: Azure Cost Management von Cloudyn erfordert einen Zugriff über die Partner Center-API.
 author: Janet
+ms.author: janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f5439f47dbc99421e493c9f84f8ea2469ba6525
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 32112dd8ba23d371eda554d86cf166562779a1d1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489386"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796093"
 ---
-# <a name="azure-cost-management-app-for-azure-csp-partners"></a><span data-ttu-id="f83fb-103">App zum Azure-Kostenmanagement für Azure CSP-Partner</span><span class="sxs-lookup"><span data-stu-id="f83fb-103">Azure cost management app for Azure CSP partners</span></span>  
+# <a name="azure-cost-management-app-for-azure-csp-partners"></a><span data-ttu-id="baf11-103">App zum Azure-Kostenmanagement für Azure CSP-Partner</span><span class="sxs-lookup"><span data-stu-id="baf11-103">Azure cost management app for Azure CSP partners</span></span>  
 
-**<span data-ttu-id="f83fb-104">Betrifft:</span><span class="sxs-lookup"><span data-stu-id="f83fb-104">Applies to</span></span>**
+**<span data-ttu-id="baf11-104">Betrifft:</span><span class="sxs-lookup"><span data-stu-id="baf11-104">Applies to</span></span>**
 
--  <span data-ttu-id="f83fb-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="f83fb-105">Partner Center</span></span>
+-  <span data-ttu-id="baf11-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="baf11-105">Partner Center</span></span>
 
-[<span data-ttu-id="f83fb-106">Weitere Informationen zu Azure Cost Management</span><span class="sxs-lookup"><span data-stu-id="f83fb-106">Get More information about Azure Cost Management</span></span>](https://go.microsoft.com/fwlink/p/?linkid=857893)
+[<span data-ttu-id="baf11-106">Weitere Informationen zu Azure Cost Management</span><span class="sxs-lookup"><span data-stu-id="baf11-106">Get More information about Azure Cost Management</span></span>](https://go.microsoft.com/fwlink/p/?linkid=857893)
 
-## <a name="before-you-begin"></a><span data-ttu-id="f83fb-107">Vorbemerkungen</span><span class="sxs-lookup"><span data-stu-id="f83fb-107">Before you begin</span></span>
-<span data-ttu-id="f83fb-108">Bevor Sie Azure Cost Management verwenden können, sollten Sie die folgenden Anforderungen erfüllen:</span><span class="sxs-lookup"><span data-stu-id="f83fb-108">Before you can use Azure Cost Management, be sure you meet the following requirements:</span></span>
+## <a name="before-you-begin"></a><span data-ttu-id="baf11-107">Vorbemerkungen</span><span class="sxs-lookup"><span data-stu-id="baf11-107">Before you begin</span></span>
+<span data-ttu-id="baf11-108">Bevor Sie Azure Cost Management verwenden können, sollten Sie die folgenden Anforderungen erfüllen:</span><span class="sxs-lookup"><span data-stu-id="baf11-108">Before you can use Azure Cost Management, be sure you meet the following requirements:</span></span>
 
-- <span data-ttu-id="f83fb-109">Sie sind Partner im Cloud Solution Provider-Programm.</span><span class="sxs-lookup"><span data-stu-id="f83fb-109">You are a partner in the Cloud Solution Provider program.</span></span>
-- <span data-ttu-id="f83fb-110">Sie haben die Möglichkeit, eine Partner Center-API-Web-App zu erstellen.</span><span class="sxs-lookup"><span data-stu-id="f83fb-110">You have the ability to create a Partner Center API web app.</span></span>
+- <span data-ttu-id="baf11-109">Sie sind Partner im Cloud Solution Provider-Programm.</span><span class="sxs-lookup"><span data-stu-id="baf11-109">You are a partner in the Cloud Solution Provider program.</span></span>
+- <span data-ttu-id="baf11-110">Sie haben die Möglichkeit, eine Partner Center-API-Web-App zu erstellen.</span><span class="sxs-lookup"><span data-stu-id="baf11-110">You have the ability to create a Partner Center API web app.</span></span>
 
-## <a name="overview"></a><span data-ttu-id="f83fb-111">Übersicht</span><span class="sxs-lookup"><span data-stu-id="f83fb-111">Overview</span></span>
+## <a name="overview"></a><span data-ttu-id="baf11-111">Übersicht</span><span class="sxs-lookup"><span data-stu-id="baf11-111">Overview</span></span>
 
-<span data-ttu-id="f83fb-112">Azure Cost Management von Cloudyn ist eine Web-App, mit dem Sie die Azure-Nutzung Ihrer Kunden und die Kosten dieser Nutzung nachverfolgen und verwalten können.</span><span class="sxs-lookup"><span data-stu-id="f83fb-112">Azure cost management by Cloudyn is a web app that allows you to track and manage how much your customers are using Azure and the costs of that usage.</span></span> <span data-ttu-id="f83fb-113">Sie können die App über die Partner Center-API nutzen.</span><span class="sxs-lookup"><span data-stu-id="f83fb-113">You use it through the Partner Center API.</span></span>
+<span data-ttu-id="baf11-112">Azure Cost Management von Cloudyn ist eine Web-App, mit dem Sie die Azure-Nutzung Ihrer Kunden und die Kosten dieser Nutzung nachverfolgen und verwalten können.</span><span class="sxs-lookup"><span data-stu-id="baf11-112">Azure cost management by Cloudyn is a web app that allows you to track and manage how much your customers are using Azure and the costs of that usage.</span></span> <span data-ttu-id="baf11-113">Sie können die App über die Partner Center-API nutzen.</span><span class="sxs-lookup"><span data-stu-id="baf11-113">You use it through the Partner Center API.</span></span>
 
-## <a name="register-your-web-app-in-the-partner-center"></a><span data-ttu-id="f83fb-114">Registrieren Ihrer Web-App im Partner Center</span><span class="sxs-lookup"><span data-stu-id="f83fb-114">Register your web app in the Partner Center</span></span>
-<span data-ttu-id="f83fb-115">Wenn Sie eine Azure Active Directory-Web-App im Partner Center registrieren, können Sie auf die Partner Center-API zugreifen.</span><span class="sxs-lookup"><span data-stu-id="f83fb-115">When you register an Azure Active Directory web app in Partner Center you enable access to the the Partner Center API.</span></span> 
-1.  <span data-ttu-id="f83fb-116">Melden Sie sich beim [Partner Center](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview) mit einem [globalen Administratorkonto oder Administrator-Agentkonto](create-user-accounts-and-set-permissions.md) an.</span><span class="sxs-lookup"><span data-stu-id="f83fb-116">Sign into [the Partner Center](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview) using a [global admin or admin agent account](create-user-accounts-and-set-permissions.md).</span></span>
-2.  <span data-ttu-id="f83fb-117">Wählen Sie aus dem **Partner Center**, **kontoeinstellungen** &gt; **[App-Verwaltung](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)**.</span><span class="sxs-lookup"><span data-stu-id="f83fb-117">From the **Partner Center**, select **Account settings** &gt; **[App management](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)**.</span></span>
-3.  <span data-ttu-id="f83fb-118">Klicken Sie im Abschnitt **Web-app** auf **Neue Web-App hinzufügen**.</span><span class="sxs-lookup"><span data-stu-id="f83fb-118">In the **Web App** section, click **Add new web app**.</span></span>
-<br> <span data-ttu-id="f83fb-119">**Hinweis:**: Wenn Sie bereits zuvor eine Web-App erstellt haben, können Sie Schritt3 überspringen.</span><span class="sxs-lookup"><span data-stu-id="f83fb-119">**Note**: If you have previously created a web app, you can skip step 3.</span></span>
-4.  <span data-ttu-id="f83fb-120">Kopieren und speichern Sie die **Commerce-ID**-GUID und die **App-ID**-GUID für Ihre Web-App.</span><span class="sxs-lookup"><span data-stu-id="f83fb-120">Copy and save the **Commerce ID** GUID and the **App ID** GUID for your web app.</span></span> <span data-ttu-id="f83fb-121">Sie benötigen beide IDs für die 30-tägige kostenlose Testversion der Azure Cost Management-App.</span><span class="sxs-lookup"><span data-stu-id="f83fb-121">You will need both IDs to use the 30-day free trial of the Azure cost management app.</span></span>
+## <a name="register-your-web-app-in-the-partner-center"></a><span data-ttu-id="baf11-114">Registrieren Ihrer Web-App im Partner Center</span><span class="sxs-lookup"><span data-stu-id="baf11-114">Register your web app in the Partner Center</span></span>
+<span data-ttu-id="baf11-115">Wenn Sie eine Azure Active Directory-Web-App im Partner Center registrieren, können Sie auf die Partner Center-API zugreifen.</span><span class="sxs-lookup"><span data-stu-id="baf11-115">When you register an Azure Active Directory web app in Partner Center you enable access to the the Partner Center API.</span></span> 
+1.  <span data-ttu-id="baf11-116">Melden Sie sich beim [Partner Center](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview) mit einem [globalen Administratorkonto oder Administrator-Agentkonto](create-user-accounts-and-set-permissions.md) an.</span><span class="sxs-lookup"><span data-stu-id="baf11-116">Sign into [the Partner Center](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview) using a [global admin or admin agent account](create-user-accounts-and-set-permissions.md).</span></span>
+2.  <span data-ttu-id="baf11-117">Wählen Sie aus dem **Partner Center**, **kontoeinstellungen** &gt; **[App-Verwaltung](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)**.</span><span class="sxs-lookup"><span data-stu-id="baf11-117">From the **Partner Center**, select **Account settings** &gt; **[App management](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)**.</span></span>
+3.  <span data-ttu-id="baf11-118">Klicken Sie im Abschnitt **Web-app** auf **Neue Web-App hinzufügen**.</span><span class="sxs-lookup"><span data-stu-id="baf11-118">In the **Web App** section, click **Add new web app**.</span></span>
+<br> <span data-ttu-id="baf11-119">**Hinweis:**: Wenn Sie bereits zuvor eine Web-App erstellt haben, können Sie Schritt3 überspringen.</span><span class="sxs-lookup"><span data-stu-id="baf11-119">**Note**: If you have previously created a web app, you can skip step 3.</span></span>
+4.  <span data-ttu-id="baf11-120">Kopieren und speichern Sie die **Commerce-ID**-GUID und die **App-ID**-GUID für Ihre Web-App.</span><span class="sxs-lookup"><span data-stu-id="baf11-120">Copy and save the **Commerce ID** GUID and the **App ID** GUID for your web app.</span></span> <span data-ttu-id="baf11-121">Sie benötigen beide IDs für die 30-tägige kostenlose Testversion der Azure Cost Management-App.</span><span class="sxs-lookup"><span data-stu-id="baf11-121">You will need both IDs to use the 30-day free trial of the Azure cost management app.</span></span>
 
-## <a name="add-a-secret-key-to-your-app"></a><span data-ttu-id="f83fb-122">Hinzufügen eines geheimen Schlüssels zu Ihrer App</span><span class="sxs-lookup"><span data-stu-id="f83fb-122">Add a secret key to your app</span></span>
-1.  <span data-ttu-id="f83fb-123">Wählen Sie in der Dropdownliste neben der **Schlüssel hinzufügen**-Schaltfläche eine Dauer von 1 oder 2Jahren aus.</span><span class="sxs-lookup"><span data-stu-id="f83fb-123">In the drop down next to the **Add key** button, select a duration of 1 or 2 years.</span></span>
-2.  <span data-ttu-id="f83fb-124">Klicken Sie auf **Schlüssel hinzufügen**.</span><span class="sxs-lookup"><span data-stu-id="f83fb-124">Click **Add key**.</span></span> 
-3.  <span data-ttu-id="f83fb-125">Kopieren Sie und speichern Sie den Wert des geheimen Schlüssels.</span><span class="sxs-lookup"><span data-stu-id="f83fb-125">Copy and save the secret key value.</span></span> <span data-ttu-id="f83fb-126">Sie benötigen diesen für die kostenlose 30-Tage-Testversion.</span><span class="sxs-lookup"><span data-stu-id="f83fb-126">You will need this for the 30-day free trial.</span></span><br>
+## <a name="add-a-secret-key-to-your-app"></a><span data-ttu-id="baf11-122">Hinzufügen eines geheimen Schlüssels zu Ihrer App</span><span class="sxs-lookup"><span data-stu-id="baf11-122">Add a secret key to your app</span></span>
+1.  <span data-ttu-id="baf11-123">Wählen Sie in der Dropdownliste neben der **Schlüssel hinzufügen**-Schaltfläche eine Dauer von 1 oder 2Jahren aus.</span><span class="sxs-lookup"><span data-stu-id="baf11-123">In the drop down next to the **Add key** button, select a duration of 1 or 2 years.</span></span>
+2.  <span data-ttu-id="baf11-124">Klicken Sie auf **Schlüssel hinzufügen**.</span><span class="sxs-lookup"><span data-stu-id="baf11-124">Click **Add key**.</span></span> 
+3.  <span data-ttu-id="baf11-125">Kopieren Sie und speichern Sie den Wert des geheimen Schlüssels.</span><span class="sxs-lookup"><span data-stu-id="baf11-125">Copy and save the secret key value.</span></span> <span data-ttu-id="baf11-126">Sie benötigen diesen für die kostenlose 30-Tage-Testversion.</span><span class="sxs-lookup"><span data-stu-id="baf11-126">You will need this for the 30-day free trial.</span></span><br>
 > [!NOTE]  
-> <span data-ttu-id="f83fb-127">Die geheimen Anwendungsschlüssel sind wie Kennwörter mit längeren Ablaufdaten.</span><span class="sxs-lookup"><span data-stu-id="f83fb-127">The application secret keys are like passwords with longer expiration dates.</span></span> <span data-ttu-id="f83fb-128">Speichern Sie die Schlüsselwerte für die zukünftige Verwendung an einem sicheren Ort.</span><span class="sxs-lookup"><span data-stu-id="f83fb-128">Please save the key value in a secure location for future use.</span></span>
+> <span data-ttu-id="baf11-127">Die geheimen Anwendungsschlüssel sind wie Kennwörter mit längeren Ablaufdaten.</span><span class="sxs-lookup"><span data-stu-id="baf11-127">The application secret keys are like passwords with longer expiration dates.</span></span> <span data-ttu-id="baf11-128">Speichern Sie die Schlüsselwerte für die zukünftige Verwendung an einem sicheren Ort.</span><span class="sxs-lookup"><span data-stu-id="baf11-128">Please save the key value in a secure location for future use.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="f83fb-129">Nächste Schritte</span><span class="sxs-lookup"><span data-stu-id="f83fb-129">Next steps</span></span>
-<span data-ttu-id="f83fb-130">Starten Sie mit einer [kostenlosen 30-Tage-Testversion](https://go.microsoft.com/fwlink/?linkid=857895).</span><span class="sxs-lookup"><span data-stu-id="f83fb-130">Start a [30-day free trial](https://go.microsoft.com/fwlink/?linkid=857895).</span></span>
-<span data-ttu-id="f83fb-131">Zum Start der Testversion benötigen Sie folgende Informationen:</span><span class="sxs-lookup"><span data-stu-id="f83fb-131">You need the following details to start the trial:</span></span>
-- <span data-ttu-id="f83fb-132">Anmeldeinformationen für das Partner Center</span><span class="sxs-lookup"><span data-stu-id="f83fb-132">Partner Center sign in credentials</span></span>
-- <span data-ttu-id="f83fb-133">Commerce-ID-GUID</span><span class="sxs-lookup"><span data-stu-id="f83fb-133">Commerce ID GUID</span></span>
-- <span data-ttu-id="f83fb-134">App-ID-GUID</span><span class="sxs-lookup"><span data-stu-id="f83fb-134">App ID GUID</span></span>
-- <span data-ttu-id="f83fb-135">Geheimer Anwendungsschlüssel</span><span class="sxs-lookup"><span data-stu-id="f83fb-135">Application secret key value</span></span>
+## <a name="next-steps"></a><span data-ttu-id="baf11-129">Nächste Schritte</span><span class="sxs-lookup"><span data-stu-id="baf11-129">Next steps</span></span>
+<span data-ttu-id="baf11-130">Starten Sie mit einer [kostenlosen 30-Tage-Testversion](https://go.microsoft.com/fwlink/?linkid=857895).</span><span class="sxs-lookup"><span data-stu-id="baf11-130">Start a [30-day free trial](https://go.microsoft.com/fwlink/?linkid=857895).</span></span>
+<span data-ttu-id="baf11-131">Zum Start der Testversion benötigen Sie folgende Informationen:</span><span class="sxs-lookup"><span data-stu-id="baf11-131">You need the following details to start the trial:</span></span>
+- <span data-ttu-id="baf11-132">Anmeldeinformationen für das Partner Center</span><span class="sxs-lookup"><span data-stu-id="baf11-132">Partner Center sign in credentials</span></span>
+- <span data-ttu-id="baf11-133">Commerce-ID-GUID</span><span class="sxs-lookup"><span data-stu-id="baf11-133">Commerce ID GUID</span></span>
+- <span data-ttu-id="baf11-134">App-ID-GUID</span><span class="sxs-lookup"><span data-stu-id="baf11-134">App ID GUID</span></span>
+- <span data-ttu-id="baf11-135">Geheimer Anwendungsschlüssel</span><span class="sxs-lookup"><span data-stu-id="baf11-135">Application secret key value</span></span>

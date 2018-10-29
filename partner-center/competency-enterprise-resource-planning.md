@@ -1,19 +1,22 @@
 ---
 title: Enterprise Resource Planning-Kompetenz
+ms.topic: article
+ms.date: 10/29/2018
 description: Werden Sie Microsoft-Partner, indem Sie dafür sorgen, dass Sie für die Entwicklung und Bereitstellung von Microsoft Dynamics-Lösungen für ERP-Anforderungen (Enterprise Resource Planning) anerkannt werden.
 author: Daniel Simpson
+ms.author: dansimp
 keywords: Kompetenz,Kompetenzen,Enterprise Resource Planning
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 581dbe631117776c9f437a1d23d70f1a983c1a3d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f0c69dafa24a61923fbc69521cdc87a89ad87c70
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875660"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795543"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="a610c-104">Informationen zu den Anforderungen für die Erreichung dieses Kompetenz finden Sie auf der [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="a610c-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="d1e5c-104">Weitere Informationen zu den Anforderungen für die Erreichung dieses Kompetenz besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="d1e5c-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Enterprise Resource Planning 

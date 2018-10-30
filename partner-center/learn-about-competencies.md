@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Kompetenzen, Silver-Mitgliedschaft, Gold-Mitgliedschaft, mpn, MAPS, Kompetenz, Microsoft Partner Network, Network Mitgliedschaft
 ms.localizationpriority: medium
-ms.openlocfilehash: c4546c8e7675f2d25cd29da765c1320531c8c11f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 7c739e3e7142eee7dcc0ec4906e2dbc89fc671d4
+ms.sourcegitcommit: bf952686358864cb268f71d039c682ee2a50ba68
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796823"
+ms.locfileid: "5797388"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Erfahren Sie mehr über die Microsoft-Kompetenzanforderungen für die Silber und Gold-Mitgliedschaft
 
@@ -45,6 +45,7 @@ Erfahren Sie, was erforderlich ist, um eine Silver- und Gold-Mitgliedschaft in d
 | [DevOps-Kompetenz](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio, Visual Studio Team Foundation Server (TFS) 2012, Software-Lebenszyklus, Scrum Zertifizierungen |
 | [Enterprise Mobility Management-Kompetenz](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| Enterprise Mobility + Security (EMS), Microsoft Intune, Azure Information Protection, Azure Active Directory Premium (AADP), Mobile Device Management, Identity & Access Management, Info-Schutz, Cloud App-Sicherheit |
 | [Enterprise Resource Planning-Kompetenz](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365, Enterprise Resource Planning (ERP), SQL Server2012-Datenbanken  |
+|[ISV-Kompetenz](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure, SqlServer 2016, Dynamics 365, Office 365, WindowsServer 2019, System Center 2016| 
 | [Messaging-Kompetenz](https://partner.microsoft.com/membership/messaging-competency)| Office 365, Exchange Server 2016 |
 | [Project and Portfolio Management-Kompetenz](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft Project, Project and Portfolio Management (PPM), SharePoint Server 2016|
 | [Small and Midmarket Cloud Solutions-Kompetenz](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |

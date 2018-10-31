@@ -1,10 +1,10 @@
-# [Informationen zum Microsoft Partner-Dashboard](index.md)
+# [Über das Microsoft Partner Center](index.md)
 
 # [Partner Network-Mitgliedschaft](mpn-overview.md)
-## [Erstellen eines Partner-Dashboard-Kontos](mpn-create-a-partner-center-account.md)
+## [Partner Center-Konto erstellen](mpn-create-a-partner-center-account.md)
 ## Mitgliedschaftsangebote
 ### [Action Pack](mpn-get-action-pack.md)
-### [Verlängern von Angeboten](renew-mpn-offers.md)
+### [Ihre Angebote verlängern](renew-mpn-offers.md)
 ## [Kompetenzen](learn-about-competencies.md)
 ## [Vorteile](manage-your-partner-network-benefits.md)
 
@@ -17,16 +17,16 @@
 ## [Mandantenkonsolidierung für regionale CSP-Autorisierung](csp-regional-authorization-tenant-consolidation.md)
 ## [Vorlagen für Kundenverträge](agreements.md)
 
-## [Bewerben für den Verkauf in nationalen Clouds](csp-national-clouds-overview.md)
-### [Partner-Dashboard für Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
-### [Partner-Dashboard für Microsoft Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md)
+## [Für den Vertrieb in nationalen Clouds bewerben](csp-national-clouds-overview.md)
+### [Partner Center für Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
+### [Partner Center für Microsoft Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md)
 
-# [Verwalten Ihres Partner-Dashboard-Kontos](partner-center-account-setup.md)
-## [Arbeitskonten und Partner-Dashboard](azure-active-directory-tenants-and-partner-center.md)
+# [Verwalten Ihres PartnerCenter-Kontos](partner-center-account-setup.md)
+## [Arbeitskonten und Partner Center](azure-active-directory-tenants-and-partner-center.md)
 ## [Aktualisieren von Partnerprofilen](update-your-partner-profile.md)
-## [Wiederherstellen ausgesetzter Partner-Dashboard-Konten](suspended-partner-center-account.md)
-## [Erstellen von Benutzerkonten](create-user-accounts-and-set-permissions.md)
-## [Zuweisen von Benutzerrollen und Berechtigungen](permissions-overview.md)
+## [Wiederherstellen ausgesetzter PartnerCenter-Konten](suspended-partner-center-account.md)
+## [Benutzerkonten erstellen](create-user-accounts-and-set-permissions.md)
+## [Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md)
 ## [Überprüfen Ihres Domänenbesitzes](become-global-admin.md)
 ## [Zurücksetzen von Benutzerkennwörtern](reset-a-user-password.md)
 ## [Hinzufügen von Azure Partner Shared Services](shared-services.md)
@@ -73,7 +73,7 @@
 ## [Onlinedienste (Abonnements)](customer-subscriptions.md)
 ### [Erstellen, Aussetzen oder Stornieren von Kundenabonnements](create-a-new-subscription.md)
 ### [Anbieten von Testversionen von Microsoft-Produkten für Kunden](offer-your-customers-trials-of-microsoft-products.md)
-### [Zuweisen von Azure-Abonnements im Partner-Dashboard](assign-azure-subscriptions.md)
+### [Zuweisen von Azure-Abonnements in Partner Center](assign-azure-subscriptions.md)
 ### [Zuweisen von Lizenzen an Benutzer](assign-licenses-to-users.md)
 ### [Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement](add-licenses-or-services-to-an-existing-subscription.md)
 ### [Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer](bulk-license-provisioning-for-multiple-users.md)
@@ -86,23 +86,23 @@
 ### [Upgrade von Dynamics AX-Abonnements zu Dynamics 365](manual-subscription-migration.md)
 ### [Migrieren von Abonnements für Office365 Enterprise E4 zu neueren Versionen von Office365](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [Migrieren von Skype for Business Online Plan 1-Abonnements zu neueren Versionen von Office365](skype-retiring.md)
-### [Übertragen von Azure-Abonnements](switch-azure-subscriptions-to-a-different-partner.md)
+### [Azure-Abonnements übertragen](switch-azure-subscriptions-to-a-different-partner.md)
 
-# Partner-Dashboard-Daten und Datenanalyse
-## [Daten zum Analysieren Ihres Unternehmens](data-analysis-lp.md)
-## [Partner Center Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners.md)
+# Partner Center-Daten und -Analysen
+## [Daten Unternehmens abrufen und analysieren](data-analysis-lp.md)
+## [Partner Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners.md)
 ## [Partnerbeitrag: Behalten Sie Ihre Leistungsindikatoren im Blick](partner-contributions.md)
 ## [Abrufen von Daten zur Verwendung von Azure-Abonnements Ihrer Kunden](analyze-azure-usage.md)
 ## [Analysieren der Leistung indirekter Vertriebspartner](analyze-indirect-resellers.md)
 ## [Analysieren von Abonnements und Lizenzen](analyze-subscriptions-licenses.md)
 
 # [Zusammenarbeit mit anderen Partnern](work-with-other-partners.md)
-## [Aufgaben indirekter Anbieter im Partner-Dashboard](indirect-provider-tasks-in-partner-center.md)
-## [Aufgaben indirekter Händler im Partner-Dashboard](indirect-reseller-tasks-in-partner-center.md)
+## [Aufgaben indirekter Anbieter im Partner Center](indirect-provider-tasks-in-partner-center.md)
+## [Aufgaben für indirekte Händler im Partner Center](indirect-reseller-tasks-in-partner-center.md)
 
 
 # [Support von Microsoft](support-from-microsoft.md)
-## [Melden von Problemen mit Partner-Dashboard](report-problems-with-partner-center.md)
+## [Melden von Problemen mit dem Partner Center](report-problems-with-partner-center.md)
 ## [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md)
 ## [Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs](get-automated-service-notifications-with-our-apis.md)
 

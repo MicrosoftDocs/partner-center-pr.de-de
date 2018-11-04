@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 021b968f6dad4a47db712f0f0090edb082770000
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4b5fbab84c30743e4d91b32bf4cbd2bb8b950992
+ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797293"
+ms.lasthandoff: 11/04/2018
+ms.locfileid: "6022240"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -209,7 +209,7 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Kundendomänenname: wird zur Identifizierung des Kunden verwendet. Dieses Feld wird bis zum zweiten Rechnungszyklus leer angezeigt.</p></td>
+<td><p>Kundendomänenname: wird zur Identifizierung des Kunden verwendet. Dies sollte nicht verwendet werden, um den Kunden eindeutig zu identifizieren, wie der Kunde/Partner über das Office 365-Portal Vanity/Standarddomäne aktualisieren können. Dieses Feld wird bis zum zweiten Rechnungszyklus leer angezeigt.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">

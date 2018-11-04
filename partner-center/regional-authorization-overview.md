@@ -374,9 +374,9 @@ Wenn Ihr Unternehmen Russland ist, können Sie CSP-Angebote an Kunden in Russlan
 |  Russland         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan Region und Auswählen der Märkte
+## <a name="taiwan-region-and-market"></a>Taiwan region and market
 
-Wenn Ihr Unternehmen Taiwan ist, können Sie CSP-Angebote an Kunden in Taiwan verkaufen.
+If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
 
 |  Land/Region | Währung |
 |  -------------- |:--------:|

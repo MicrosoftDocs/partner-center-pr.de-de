@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Office365, Dynamics, CSP-Partner im CSP, direkte Partner, direkter CSP-Partner, indirekter CSP-Händler, direkter CSP, indirekter CSP, direktes Modell, indirektes Modell, indirekter Händler, indirekter Anbieter, Anbieter, Verteiler, Cloud Solution Provider-Programm
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e8f55bc76d8bda8494b83794184f928d680f68f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ddeaecdca6fe918d6b3d581befa295c66b80a705
+ms.sourcegitcommit: 0c7018284e589f3ab9cf97c741b07f1947f30e65
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795213"
+ms.lasthandoff: 11/05/2018
+ms.locfileid: "6066692"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programm für Cloud Solution Provider – begehrte Cloudlösungen verkaufen 
 
@@ -60,7 +60,9 @@ Im indirekten Modell erwerben Anbieter (auch Distributoren genannt) Microsoft-Pr
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>Wo kann ich über das CSP-Programm verkaufen?
 
-Das Programm für Cloud-Lösungsanbieter ist in den aufgeführten Regionen und Ländern verfügbar, die auf der Liste der [Seite der verfügbaren Märkte und Kundenvereinbarungen für Microsoft Cloud-Lösungsanbieter](agreements.md) aufgeführt sind.  
+Ihr Unternehmen für seine Position bestimmt Ihren Markt. Ihren Markt enthält der Regionen bzw. Ländern, in denen Sie CSP-Angebote verkaufen können. Die vollständige Liste der CSP-Märkte und Währungen finden Sie unter [regionale Märkte für Cloud-Lösungsanbieter-Programm und Währungen](regional-authorization-overview.md) .
+
+Bevor Sie, dass im Auftrag eines Kunden CSP-Angebote bestellen können, muss der Kunde das Microsoft Cloud Agreement signieren. Sie finden die geltenden Microsoft Cloud Agreement für Standort des Kunden [hier](agreements.md).  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>Was kann ich über das CSP-Programm verkaufen?
 
@@ -73,7 +75,6 @@ Sie können das gesamte Spektrum der [Microsoft Cloud Services](https://partner.
 |:---------------------------|:--------------------|
 |Anforderungen für die einzelnen CSP-Modelle   | [Programm für Cloud-Lösungsanbieter](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |In nationalen Clouds von Microsoft verkaufen   | [Bewerben für den Verkauf in nationalen Clouds von Microsoft](csp-national-clouds-overview.md)|
-|Wo und was Sie verkaufen können   |[Märkte und Kundenvereinbarungen für Microsoft Cloud Solution Provider](agreements.md)|
-|  | [Mandantenstrategien in CSP](regional-authorization-overview.md)
+|Microsoft Cloud Agreement-Kundenvorlagen   |[Microsoft Cloud-Verträge nach Region und Sprache](agreements.md)|
 |Aufgaben indirekter Anbieter im Partner Center  |[Zusammenarbeiten mit indirekten Vertriebspartnern im Programm für Cloud Solution Provider](indirect-provider-tasks-in-partner-center.md)|
 |Aufgaben indirekter Wiederverkäufer im Partner Center   |[Arbeiten mit indirekten Anbietern im Programm für Cloud-Lösungsanbieter](indirect-reseller-tasks-in-partner-center.md)|

@@ -1,63 +1,76 @@
 ---
-title: Übertragen der MPN-Mitgliedschaft von Partner Membership Center zu Partner Center
+title: Übertragen der Network-Mitgliedschaft vom Partner Membership Center zu Partner Center
 ms.topic: article
-ms.date: 10/29/2018
-description: 'PMC-Benutzer: Wir verwalten die MPN-Mitgliedschaft jetzt über Partner Center. Gehen Sie als Nächstes wie folgt vor.'
-author: KPacquer
-ms.author: kenpacq
+ms.date: 11/14/2018
+description: Wie Sie Ihr Konto Mitgliedschaft vom Partner Membership Center zu Partner Center übertragen.
+author: maggiepuccievans
+ms.author: maggiepuccievans
 keywords: MPN-Mitgliedschaft, Kompetenzen, PMC zu Partner Center
-robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
+ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794953"
+ms.lasthandoff: 11/15/2018
+ms.locfileid: "7011400"
 ---
-# <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>Übertragen der MPN-Mitgliedschaft von Partner Membership Center zu Partner Center
+# <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>Übertragen Sie Ihre Mitgliedschaft Partnerkonto vom Partner Membership Center zu Partner Center
 
 **Betrifft:**
--  Partner Center
 
-Partner Membership Center-Benutzer: Wir verwalten nun neue Microsoft Partner Network-Mitgliedschaften (MPN) und Verlängerungen über Partner Center.  
+- Partner Center
+- MPN-Partner
 
-Wenn Sie MPN über Partner Membership Center abonniert haben, können Sie Ihre aktuellen Vorteile in PMC überprüfen, bis die Mitgliedschaft des aktuellen Jahres endet, auch wenn Sie die Mitgliedschaft bereits verlängert haben. 
+## <a name="partner-membership-center-being-retired"></a>Partner Membership Center wird eingestellt
 
-Wenn Sie sich erneut bei MPN registrieren, beginnt Ihre neue Mitgliedschaft sofort, aber das Enddatum Ihrer MPN-Mitgliedschaft wird nach hinten verschoben und liegt ein Jahr nach dem Ablaufdatum der aktuellen MPN-Mitgliedschaft. Dadurch entsteht ein Überschneidungszeitraum, in dem Sie auf beide Systeme zugreifen können.
+Bei den nächsten Monaten werden wir Partner, um ihre Mitgliedschaft Partnerkonten vom Partner Membership Center (PMC) auf eine neue Plattform, die das Partner Center verschieben eingeladen werden werden. Partner Center ist das einzige Ziel Ihrer Geschäftsbeziehung mit Microsoft zu verwalten. Finden Sie auf der [Partner-Website](https://partner.microsoft.com/commercial) für Weitere Informationen in der [Mitgliedschaft Management Readiness](https://partner.microsoft.com/support/partner-center-help) .
 
-Beginnen Sie sofort mit der Einrichtung Ihrer Benutzer, sodass sie weiterhin auf Partner University zugreifen können und technische Prüfungen und Zertifizierungen zum [Erzielen von Microsoft-Kompetenz-Erfolgen](competencies.md) anerkannt werden. 
+Nachdem Ihr Konto Mitgliedschaft erfolgreich gewechselt wird, müssen Sie Angaben zu Ihrem Konto, einschließlich (wo zutreffend) verwalten Vorteile, Kompetenzen, Incentives, Angebote und Programme im Partner Center. Sie können auch in der Lage abrufen und Verwalten von Leads von Microsoft und im Cloud Solution Provider-Programm im Partner Center registrieren.
 
-## <a name="admin-tasks-add-employee-accounts"></a>Administratoraufgaben: Hinzufügen von Mitarbeiterkonten
+## <a name="prepare-now-for-a-smooth-transition"></a>Jetzt für einen reibungslosen Übergang vorbereiten
 
-Der Administrator der Organisation fügt Mitarbeiter im Partner Center-Konto hinzu, indem er sie entweder einzeln oder mithilfe von PMC-Daten zum Erstellen mehrerer Benutzer auf einmal hinzufügt:
+Partner werden eingeladen, in Partner Center verschoben, wenn wir die erforderlichen Features haben und Funktionen bereit, um einen reibungslosen Wechsel zu gewährleisten. Wir empfehlen Ihnen nachdrücklich, Zeit dauern, bis die nun Informationen Ihres Unternehmens in PMC überprüfen und unsere empfohlenen Schritte, um eine reibungslose Übergang zu gewährleisten.
 
-1.  Wählen Sie aus dem Partner Center, **neue Benutzer hinzufügen** , Hinzufügen einer Person oder **Einrichten Ihres Teams** (oder fügen Benutzer mithilfe von PMC-Daten) um mehrere Benutzer auf einmal hinzuzufügen.
-    
-    Folgen Sie den Anweisungen auf dem Bildschirm, um die Einrichtung abzuschließen.
+### <a name="pmc-to-partner-center-step-by-step-guide"></a>PMC zu Partner Center schrittweise Anleitung
 
-2.  Wenn Sie ein einzelnes Konto erstellen, senden Sie die Anmeldeinformationen (Benutzername und temporäres Kennwort) direkt an den Benutzer.
+Wir haben die umfassende vorbereitet und detaillierte [PMC zu Partner Center Übergang Handbuch](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf) Sie jedem Schritt der Weg zu einem erfolgreichen Konto Übergang durchlaufen.
 
-    Wenn Sie mehrere Konten basierend auf den Daten von PMC einrichten, wird automatisch eine E-Mail an jeden Benutzer gesendet, die seine Anmeldeinformationen enthält. Sie können auch eine Datei herunterladen, die die gleichen Informationen enthält und die Sie verwenden können, falls einer der Mitarbeiter die Informationen erneut benötigt.
+>[!IMPORTANT]
+>Es gibt mehrere wichtige Komponenten, die in diesem Handbuch, die Zeit in Anspruch nehmen wird enthalten. Wir empfehlen Ihnen, überprüfen Sie sie und starten Sie die Arbeit aus, um diese so schnell wie möglich abzuschließen.
 
-    Das temporäre Kennwort gilt 90Tage. Wenn sich der Benutzer nicht anmeldet, entfernen Sie das Konto, und fügen Sie ihn erneut hinzu.
+### <a name="video-resources"></a>Video-Ressourcen
 
-3.  Optional: Richten Sie die einzelnen Konten ein, um [Self-Service-Kennwortzurücksetzung zu ermöglichen](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started). Wählen Sie dabei aus, welche Arten von Sicherheitsfragen die Benutzer beantworten müssen. 
+Zusätzlich zu den [PMC zu Partner Center Übergang Anleitung](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf)haben wir diese kurzen Videos zu den verschiedenen Phasen des transitioning Ihr Konto erstellt. 
 
-## <a href="" id="nonadmin_tasks"></a>Mitarbeiteraufgaben: Aktualisieren von Konten
+- [Entdecken Sie Ihr Partner Center-dashboard](https://partner.microsoft.com/support/partner-center-help)
+ 
+  Erfahren Sie mehr über die Ressourcen und Tools, die im Partner Center, um Ihre Partnerschaft optimal verfügbar.
 
-1.  Beschaffen Sie Ihre Anmeldung aus dem Microsoft Partner Center oder von Ihrem Administrator. Wenn Sie die Informationen melden Sie sich nicht erhalten, wenden Sie sich an den Administrator Ihrer Organisation, um ihn zu bitten, sie direkt an Sie zu senden. 
+- [An mehreren Standorten Konten leicht gemacht](https://partner.microsoft.com/support/partner-center-help)
+ 
+  Wenn Sie über mehrere Regionen Sitz verwalten, sehen hier Sie zum Einrichten des Kontos an mehreren Standorten und alles über eine leicht zu bedienende Website zu steuern.
 
-2.  Verknüpfen Sie Ihr Microsoft Partner University-Konto. Wählen Sie aus dem Partner Center, **Aktualisieren Sie Ihr Profil** > **Get Partner University zugreifen**.  Nachdem Sie dieses Konto verbunden haben, können Sie wieder auf Partner University zugreifen.
+- [Stellen Sie die Schulung und Prüfungen count](https://partner.microsoft.com/support/partner-center-help)
 
-3.  Ordnen Sie technische Microsoft-Prüfungen und -Zertifizierungen zu. Wählen Sie aus dem Partner Center, **Aktualisieren Sie Ihr Profil** > **Ordnen Sie Prüfungen und Zertifizierungen**. 
+  Verbinden Sie Ihrer Mitarbeiter Learning Anmeldeinformationen zu Ihrem Unternehmensprofil, um weiterhin Zugriff auf Partner University zu gewährleisten und Kompetenzen zu qualifizieren.
 
-4.  Optional: [Richten Sie die Self-Service-Kennwortzurücksetzung ein](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password).
+## <a name="see-also"></a>Weitere Informationen:
 
-## <a name="checking-team-status-and-receiving-competency-achievements"></a>Überprüfen des Teamstatus und Erzielen von Kompetenzerfolgen
+Nachdem Sie Ihr Konto von PMC erfolgreich gewechselt haben, überprüfen Sie die folgenden Artikel um vertrauter mit dem Partner Center zu erhalten.
 
-1.  Sehen Sie, welche Mitarbeiter aus Ihrer Organisation ihre Microsoft Partner University-Konten verknüpft und haben ihre Prüfungen und Zertifizierungen: aus dem Partnercenter, wählen Sie **Ihr Team Status überprüfen**.
+-   [Erstellen eines Unternehmensprofils um Vertriebskontakte von Microsoft zu erhalten](create-a-marketing-profile.md)
 
-2.  **Warten Sie 24 Stunden**, nachdem ein Mitarbeiter sein Konto verknüpft oder ein kenntnisbasiertes Ziel abgeschlossen hat. Danach wird der Fortschritt im Abschnitt **Partnerschaft > Kompetenzen** angezeigt.
+-   [Hinzufügen von neuen Benutzern und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
+
+-   [Kauf oder Verlängerung eines Microsoft Action Pack-Abonnements](mpn-get-action-pack.md)
+
+-   [Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile](manage-your-partner-network-benefits.md)
+
+-   [Erfahren Sie mehr über die Kompetenzanforderungen für die Silber und Gold-Mitgliedschaft](https://partner.microsoft.com/membership/competencies)
+
+
+
+
+

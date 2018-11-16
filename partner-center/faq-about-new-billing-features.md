@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5bdf937ee55a52c9a0e5c88f3e6006204c71ece8
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f0b26856d0fb18062591c2311ef18c68fbbd7498
+ms.sourcegitcommit: 757c2e498334322862932068122665846f528b9c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795593"
+ms.lasthandoff: 11/16/2018
+ms.locfileid: "7012603"
 ---
 # <a name="faq-about-new-billing-features"></a>Häufig gestellte Fragen zu neuen Abrechnungsfunktionen
 
@@ -144,7 +144,7 @@ Abschnitte:
 
 **F:** Kann ich zwischen einem monatlichen und einem jährlichen Abrechnungsintervall für ein Abonnement (und umgekehrt) wechseln? 
 
--   **A:** Nein. Nachdem Sie das Abrechnungsintervall ausgewählt haben, können Sie dieses nicht mehr ändern. 
+-   **A:** Ja. **So ändern Sie die abrechnungshäufigkeit von einem Onlinedienst** [Grundlagen zur Abrechnung](https://docs.microsoft.com/en-us/partner-center/billing-basics)angezeigt.
 
 **F:** Steht die jährliche Abrechnung für Add-On-Angebote zur Verfügung?   
 

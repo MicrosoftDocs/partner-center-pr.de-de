@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Nationale Clouds, Microsoft-Cloud Deutschland, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud China
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f56912c872e3eb02ceb13ee00ba9fe13998ef33
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cf2d126fa7d9c5e62313309b8ff89c7abaa2887b
+ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795243"
+ms.lasthandoff: 11/21/2018
+ms.locfileid: "7460917"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>Bewerben für den Verkauf in nationalen Clouds von Microsoft
 
@@ -36,7 +36,10 @@ Qualifizierte Partner können Microsoft-Cloudlösungen an Kunden in all diesen n
 
 -   [**Microsoft Cloud Deutschland**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud Deutschland bietet Azure, Office365 und Dynamics 365 über ein einzigartiges Modell in deutschen Rechenzentren an. In diesem Modell wird der Zugriff auf Kundendaten durch einen unabhängigen deutschen Datenverwalter unter deutschem Recht gesteuert. T-Systems International GmbH, eine Tochtergesellschaft der deutschen Telecom, fungiert als unabhängiger Datenverwalter für Microsoft Cloud Deutschland. 
 
-    Informationen zum Registrieren in CSP für Microsoft Cloud Deutschland und den Verkauf an Kunden finden Sie unter [Partner Center für Microsoft Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md). 
+    >[!IMPORTANT] Basierend auf der Entwicklungsschritt bei der kundenanforderungen, unsere Cloud-Strategie für Deutschland liegt der Schwerpunkt auf die Übermittlung der neuen Cloud Regionen in Deutschland, die mit unserem globalen Cloud konsistent sind anbieten. In diesem werden wir nicht mehr akzeptieren von neuen Kunden oder Bereitstellen neuer Dienste aus der aktuell verfügbaren Microsoft-Cloud Deutschland. Vorhandene Kunden können weiterhin die aktuelle Cloud-Dienste heute verfügbaren verwenden, die wir mit erforderlichen Sicherheitsupdates verwalten müssen.
+
+    >Vorwärts, haben neue Kunden die Möglichkeit, die derzeit verfügbaren Europäischen Regionen oder die Bereiche in Deutschland verwenden, sobald diese verfügbar sind. Weitere Informationen finden Sie unter [Microsoft Cloud-Dienste von neuen Rechenzentren in Deutschland zu übermitteln](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
+
     
 -   [**Azure und Office365, betrieben von 21Vianet in China**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft bietet Cloud-Dienste in China über eine eindeutige Partnerschaft mit Shanghai Blue Cloud Technology Co., Ltd. (21Vianet) an, ein Tochterunternehmen von Beijing 21Vianet Breitband Daten enthält Center Co., Ltd. 21Vianet ist der größte netzbetreiberneutrale Internetanbieter für Datacenter, Hosting, verwaltete Netzwerke und Cloud Computing-Infrastrukturdienste in China. 
 

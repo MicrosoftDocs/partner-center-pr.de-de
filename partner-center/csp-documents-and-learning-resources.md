@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote
 ms.localizationpriority: medium
-ms.openlocfilehash: a03d8b1a5cdf734831278984a6127951e7d664de
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: be48f5c91d146b0906b3c5927f74531b84bfc14c
+ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796063"
+ms.lasthandoff: 11/21/2018
+ms.locfileid: "7460957"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Programmleitfaden für Cloud-Lösungsanbieter, Vereinbarungen, Preislisten und Angebote
 
@@ -49,22 +49,20 @@ Partner müssen diese Vereinbarung unterzeichnen, um an dem Programm für Cloud 
 
 [Vereinbarung für Microsoft Cloud-Handelspartner – Taiwan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Vereinbarung für Microsoft Cloud-Handelspartner – Microsoft Cloud Deutschland](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_GER_ENG_Sep2018_GermanCloud_CR.pdf)
-
 [Vereinbarung für Microsoft Cloud-Handelspartner – Microsoft Cloud Deutschland](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
 
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Microsoft Cloud Agreement-Vorlagen
 
-Als Partner im CSP sind Sie dafür verantwortlich, die Nutzungsbedingungen von Microsoft, einschließlich einer akzeptablen Verwendung der Microsoft-Produkte und-Dienste, mit Ihren Kunden durchzugehen. Folgen Sie dem Link unten, um das Microsoft Cloud Agreement suchen Sie mit dem neuen Kunden überprüfen müssen. 
+Als Partner im CSP sind Sie dafür verantwortlich, die Nutzungsbedingungen von Microsoft, einschließlich einer akzeptablen Verwendung der Microsoft-Produkte und-Dienste, mit Ihren Kunden durchzugehen. Folgen Sie den Link unten, um das Microsoft Cloud Agreement suchen Sie mit dem neuen Kunden überprüfen müssen. 
 
 Microsoft Cloud Agreement [-Kundenvorlagen](agreements.md)
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Berufsgeheimnis Änderung der Microsoft Cloud Agreement (Deutschland)
 
-In Deutschland müssen der Kriminelle Code (Abschnitt 203) und die professionellen Verhaltensregeln bestimmte Client-Beziehungen sind, z. B. die Beziehung zwischen Patienten und ihre medizinische Ärzte und die Beziehung zwischen vertraulich zu Anwälte und ihren Clients. Diese beruflichen Gruppen müssen Berufsgeheimnis sicherstellen. Für diese und andere Berufe cloudbasierten Diensten von Cloud-Lösungsanbieter beziehen muss der Cloud-Dienstanbieter eine schriftliche Vereinbarung mit dem Kunden schließen, das Berufsgeheimnis sicherstellt. 
+In Deutschland müssen der Kriminelle Code (Abschnitt 203) und die professional Verhaltensregeln bestimmte Client-Beziehungen sind, z. B. die Beziehung zwischen Patienten und ihre medizinische Ärzte und die Beziehung zwischen vertraulich zu Anwälte und ihren Clients. Diese beruflichen Gruppen müssen Berufsgeheimnis sicherzustellen. Für diese und andere Berufe cloudbasierten Diensten von Cloud-Lösungsanbieter beziehen muss der Cloud-Dienstanbieter eine schriftliche Vereinbarung mit dem Kunden schließen, das Berufsgeheimnis sicherstellt. 
 
-Wenn Sie in Deutschland arbeiten, müssen Sie diese Änderung Berufsgeheimnis für Ihre Kunden neben der Microsoft Cloud Agreement bereitzustellen.
+Wenn Sie in Deutschland arbeiten, müssen Sie diese Änderung Berufsgeheimnis für Ihre Kunden zusätzlich zu den Microsoft-Cloud-Vertrag bereitzustellen.
 
 [Microsoft Cloud Agreement Berufsgeheimnis Änderung für Deutschland ("en")](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 

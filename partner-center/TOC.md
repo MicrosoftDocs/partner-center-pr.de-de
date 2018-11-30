@@ -1,4 +1,4 @@
-# [Über das Microsoft Partner Center](index.md)
+# [Informationen zum Microsoft Partner Center](index.md)
 
 # [Partner Network-Mitgliedschaft](mpn-overview.md)
 ## [Partner Center-Konto erstellen](mpn-create-a-partner-center-account.md)
@@ -13,11 +13,10 @@
 ## [Registrieren für das Programm für Cloud Solution Provider](enrolling-in-the-csp-program.md)
 ## [Direkte CSP-Partner– Neue Anforderungen](direct-partner-new-requirements.md) 
 ## [CSP-Vereinbarungen, Preislisten und Angebote](csp-documents-and-learning-resources.md)
-## [Übersicht über die regionale CSP-Autorisierung](regional-authorization-overview.md)
-## [Mandantenkonsolidierung für regionale CSP-Autorisierung](csp-regional-authorization-tenant-consolidation.md)
-## [Vorlagen für Kundenverträge](agreements.md)
+## [Regionale CSP-Märkte und Währungen](regional-authorization-overview.md)
+## [Microsoft Cloud-Verträge nach Region und Sprache](agreements.md)
 
-## [Für den Vertrieb in nationalen Clouds bewerben](csp-national-clouds-overview.md)
+## [Nationale Clouds](csp-national-clouds-overview.md)
 ### [Partner Center für Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 ### [Partner Center für Microsoft Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md)
 
@@ -44,6 +43,7 @@
 
 
 # [Abrechnung und Steuern](billing.md)
+## [CSP-Abrechnungsübersicht](billing-basics.md)
 ## [Häufig gestellte Fragen zu neuen Abrechnungsfunktionen](faq-about-new-billing-features.md)
 ## [Informationen zu Ihrer Rechnung](read-your-bill.md)
 ## [Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md)
@@ -80,6 +80,7 @@
 ### [Verschieben von lizenzbasierten Services-Kunden zum Cloud Service Provider-Programm](transition-seat-based-services.md)
 ### [Minecraft: Education Edition-Abonnements verkaufen](minecraft-subscriptions.md)
 ### [An spezielle Branchen verkaufen](Get-special-pricing-for-offers.md)
+### [Verkaufen von Office365 Government GCC an qualifizierte Behördenkunden](csp-gcc-overview.md)
 ### [Steigern von Akzeptanz und Zufriedenheit](increasing-adoption-and-satisfaction.md)
 ### [Vereinfachen der Geräteinstallation mit Windows Autopilot](autopilot.md)
 ##  Upgrade oder Übertragen von Angeboten auf neuere Versionen

@@ -7,30 +7,37 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f176b71072a67043df2ffe59b004b0ae8411dd4a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: e4eaecc151f8cc4e5e45bbfa7d02236fb1444a24
+ms.sourcegitcommit: 3eb069edf36bdb61518c0c7cc2ccaf2d8dde4adb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795533"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "6131699"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installation und Vorschau mit der Partner Center Analytics-App für Microsoft Power BI
 
 **Betrifft:**
 
--   Partner Center
+- Partner Center
 
 ## <a name="before-you-begin"></a>Vorbemerkungen
 
+Wählen Sie die Anwendung, die die für Ihr Unternehmen aus der folgenden Liste der verfügbaren Power BI-apps relevant ist:
+- [Direkter Partner](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+
+- [Indirekte Partner](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+
+- [Indirekter Wiederverkäufer](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+
 Bevor Sie die Preview-Version der Partner Center Analytics-App installieren, stellen Sie sicher, dass Sie die folgenden Anforderungen erfüllen.
 
--   Sie sind direkter Partner im Cloud-Lösungsanbieter-Programm und im Partner Center. Sie sind direkter Partner, wenn Sie direkt mit Microsoft und Kunden arbeiten.
+- Wählen Sie die richtige Power BI-app für Ihr Unternehmen.
 
--   Sie haben ein aktives Abonnement für Microsoft Power BI Professional oder Microsoft Power BI Premium.
+- Sie haben ein aktives Abonnement für Microsoft Power BI Professional oder Microsoft Power BI Premium.
 
--   Sie können sich in Power BI anmelden.
+- Sie können sich in Power BI anmelden.
 
--   Sie können sich als globaler Administrator, Admin-Agent oder Abrechnungsadministrator [am Azure Active Directory (Azure AD) Mandanten Ihres Unternehmens anmelden](azure-active-directory-tenants-and-partner-center.md).
+- Sie können sich als globaler Administrator, Admin-Agent oder Abrechnungsadministrator [am Azure Active Directory (Azure AD) Mandanten Ihres Unternehmens anmelden](azure-active-directory-tenants-and-partner-center.md).
 
 ## <a name="to-install-the-app"></a>So installieren Sie die App
 

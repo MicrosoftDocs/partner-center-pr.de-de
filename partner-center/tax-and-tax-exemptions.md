@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 609a70503eb0418a04cf345d4d1d0a176e39445a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: dc017fdf17950187694bff1cb3e9ce389a50009d
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796005"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683739"
 ---
 # <a name="tax-and-tax-exemptions"></a>Steuern und Steuerbefreiungen
 
@@ -20,15 +20,15 @@ ms.locfileid: "5796005"
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
--  Partner Center für Microsoft Cloud Deutschland
+
 
 Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf den Weiterverkauf von Produkten durch Partner konzentriert, ist Microsoft nicht in allen Fällen verpflichtet, bei Partnerrechnungen die Mehrwertsteuer zu berechnen. Die Bestimmungen variieren je nach Land/Region. Partner sollten basierend auf ihrem Handelsstandort und dem ihrer Kunden mit Unterstützung ihres Steuerberaters die geeigneten Steuerbefreiungen beantragen. Um nachzuweisen, dass sein Microsoft-Handelspartnerkonto steuerbefreit ist, sollte der Partner die Bescheinigung zur Umsatzsteuerbefreiung an Microsoft übermitteln.
 
 **Beantragen einer Steuerbefreiung**
 
-1.  Schlagen Sie Ihre **Microsoft-ID** im Partner Center &gt; **kontoeinstellungen** &gt; **Organisationsprofil**.
+1.  Suchen nach Ihrer **Microsoft-ID** im Partner Center &gt; **kontoeinstellungen** &gt; **Organisationsprofil**.
 2.  Schlagen Sie Ihre **MPN-ID** im Partner Center &gt; **kontoeinstellungen** &gt; **Partner-Profil**.
-3.  Erstellen Sie ein neues Supportticket. Wählen Sie aus dem Menü "Partner Center" **Serviceanfragen** &gt; **Partner Center-Anfragen** &gt; **neue Anforderung**.
+3.  Erstellen Sie ein neues Supportticket. Wählen Sie im Menü "Partner Center" **Serviceanfragen** &gt; **Partner Center-Anfragen** &gt; **neue Anforderung**.
 4.  Füllen Sie das Formular aus. Wählen Sie unter **Problemtyp** die Option **Ich kann mein Profil nicht verwalten** aus. Geben Sie in der Beschreibung Ihre MPN-ID und Microsoft-ID an.
 5.  Nachdem Sie das Ticket übermittelt haben, erhalten Sie von Microsoft eine E-Mail mit der Bitte um weitere Informationen. Fügen Sie Ihrer Antwort die erforderlichen Bescheinigungen für Ihre Steuerbefreiung bei.
 
@@ -52,7 +52,7 @@ Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf
 <p>Da Microsoft keine Gutschriften und erneute Rechnungsstellungen unterstützt, müssen Sie Ihre USt-IdNr. vor dem Verkauf von Abonnements in Partner Center registrieren.</p>
 <p>Übermitteln der USt-IdNr. an Microsoft</strong></p>
 <ol>
-<li>Wechseln Sie im Partner Center zu Menü "Partner Center" &gt; <strong>kontoeinstellungen</strong> &gt; <strong>Abrechnung Partnerprofil</strong>.</li>
+<li>Wechseln Sie in Partner Center zu Menü "Partner Center" &gt; <strong>kontoeinstellungen</strong> &gt; <strong>Abrechnung Partner-Profil</strong>.</li>
 <li>Wählen Sie im Abschnitt <strong>Finanzdaten</strong> die Option <strong>Aktualisieren</strong> aus.</li>
 <li>Geben Sie unter <strong>Steuernummer des Unternehmens</strong> Ihre  USt-IdNr. an.</li>
 </ol></td>

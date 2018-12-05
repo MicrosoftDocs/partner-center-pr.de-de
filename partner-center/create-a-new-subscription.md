@@ -8,12 +8,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: 951d0be7ea1cc17fb61213a25f26a3c558249496
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4503508ccd5efbd3c983726170bf126088b77a3c
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796403"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683719"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Anhalten oder Abbrechen von Kundenabonnements
 
@@ -21,7 +21,6 @@ ms.locfileid: "5796403"
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
--  Partner Center für Microsoft Cloud Deutschland
 -  CSP-Partner
 
 Nachdem Sie für Ihre Kunden einen Datensatz in Partner Center erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen.
@@ -31,7 +30,7 @@ Bitte beachten Sie, dass bestimmte Angebote auf ein Abonnement pro Kunde beschr�
 
 **Erstellen eines neuen Abonnements**
 
-1.  Klicken Sie im Menü " **Partner Center** " Wählen Sie **Kunden**, und wählen Sie einen Kunden aus der Liste.
+1.  Wählen Sie **Kunden**im **Partner Center** -Menü, und wählen Sie einen Kunden aus der Liste.
 
 2.  Wählen Sie **Neues Abonnement**.
 
@@ -41,7 +40,7 @@ Bitte beachten Sie, dass bestimmte Angebote auf ein Abonnement pro Kunde beschr�
  >Sie können Kunden Testabonnements anbieten. Zum Testen verfügbare Produkte befinden sich unter der Registerkarte "Testversion" im Katalog. Siehe [Anbieten von Testversionen von Microsoft-Produkten für Kunden](offer-your-customers-trials-of-microsoft-products.md).
 
  
-4. Wählen Sie nachdem Sie die abrechnungshäufigkeit ausgewählt die gewünschten Abonnements für im Katalog Produkte. Die Produktverfügbarkeit hängt vom Typ des Kunden (Bildungseinrichtung, Behörde usw.) und vom ausgewählten Abrechnungsintervall ab. Wenn ein Produkt nicht verfügbar ist, hat der Kunde möglicherweise bereits ein Abonnement für dieses Produkt, und es ist nur eines zulässig. Oder Sie haben das Abonnement möglicherweise storniert. In diesem Fall können Sie es erneut aktivieren, anstatt ein neues zu erwerben.
+4. Wählen Sie nachdem Sie die abrechnungshäufigkeit ausgewählt die Produkte, die gewünschten Abonnements für im Katalog. Die Produktverfügbarkeit hängt vom Typ des Kunden (Bildungseinrichtung, Behörde usw.) und vom ausgewählten Abrechnungsintervall ab. Wenn ein Produkt nicht verfügbar ist, hat der Kunde möglicherweise bereits ein Abonnement für dieses Produkt, und es ist nur eines zulässig. Oder Sie haben das Abonnement möglicherweise storniert. In diesem Fall können Sie es erneut aktivieren, anstatt ein neues zu erwerben.
 
 5. Überprüfen Sie das Abonnement, das Sie hinzufügen möchten, und geben Sie die Anzahl der Lizenzen ein. **Übermitteln** Sie dann die Bestellung.
 
@@ -57,7 +56,7 @@ Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Be
 
 **Aussetzen eines Abonnements**
 
-1.  Klicken Sie im Menü " **Partner Center** " Wählen Sie **Kunden**, und wählen Sie einen Kunden aus der Liste.
+1.  Wählen Sie **Kunden**im **Partner Center** -Menü, und wählen Sie einen Kunden aus der Liste.
 2.  Wählen Sie das Abonnement aus, das Sie verwalten möchten.
 3.  Wählen Sie im Abschnitt **Status** den Eintrag **Ausgesetzt** aus. **Übermitteln** Sie dann Ihre Änderungen.
 4.  Alle Daten werden gelöscht, solange das Abonnement nicht innerhalb von 90Tagen oder 90Tagen zuzüglich der Anzahl der Tage zwischen der Eröffnung des Kontos und dem ersten Abrechnungszeitraum (maximal 120Tage) reaktiviert wird.

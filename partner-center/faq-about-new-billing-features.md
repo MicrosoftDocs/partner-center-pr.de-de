@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f0b26856d0fb18062591c2311ef18c68fbbd7498
-ms.sourcegitcommit: 757c2e498334322862932068122665846f528b9c
+ms.openlocfilehash: 19544d00aa0a040b4dcf1a4733714dc80b4e745e
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/16/2018
-ms.locfileid: "7012603"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683809"
 ---
 # <a name="faq-about-new-billing-features"></a>Häufig gestellte Fragen zu neuen Abrechnungsfunktionen
 
@@ -20,7 +20,7 @@ ms.locfileid: "7012603"
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
--  Partner Center für Microsoft Cloud Deutschland
+
 
 Im folgende sind häufig gestellte Fragen zur jährlichen Abrechnung und kostenlose Testphase von Partner Center aufgeführt. 
 
@@ -144,7 +144,7 @@ Abschnitte:
 
 **F:** Kann ich zwischen einem monatlichen und einem jährlichen Abrechnungsintervall für ein Abonnement (und umgekehrt) wechseln? 
 
--   **A:** Ja. **So ändern Sie die abrechnungshäufigkeit von einem Onlinedienst** [Grundlagen zur Abrechnung](https://docs.microsoft.com/en-us/partner-center/billing-basics)angezeigt.
+-   **A:** Ja. **So ändern Sie die abrechnungshäufigkeit der Onlinedienst** [Grundlagen zur Abrechnung](https://docs.microsoft.com/en-us/partner-center/billing-basics)angezeigt.
 
 **F:** Steht die jährliche Abrechnung für Add-On-Angebote zur Verfügung?   
 

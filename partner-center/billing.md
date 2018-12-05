@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Abrechnung, Zahlungen, Aufträge, Abbruch, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Abstimmungsdateien, Abstimmungsdatei
 ms.localizationpriority: medium
-ms.openlocfilehash: 21946e6c3504dae35dc96585878e7714b976ad3a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b8041b6fb5ae913786bf7e755d11e727e636f518
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796363"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683449"
 ---
 # <a name="billing"></a>Abrechnung
 
@@ -21,8 +21,8 @@ ms.locfileid: "5796363"
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
--  Partner Center für Microsoft Cloud Deutschland
-
+ 
+ 
 Ihre Rechnung wechseln Sie zum Menü " **Partner Center** ", und wählen Sie dann die **Abrechnung** , um Ihren Abrechnungsverlauf und -Trend, Links zu Ihrer Rechnung und abstimmungsdatei sowie Ihre letzte Zahlung anzeigen anzuzeigen.
 
 Partner im Programm für Cloud Solution Provider mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte als auch nutzungsbasierte Abonnements).

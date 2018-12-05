@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: 40bcbde087fda68428c50d1f840a44a87bdebbc3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 78f30fc2eadefaf9f9e1624e200f097ad7c57aa8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794853"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683759"
 ---
 # <a name="view-customer-activity-logs"></a>Anzeigen von Kundenaktivitätsprotokollen
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794853"
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
--  Partner Center für Microsoft Cloud Deutschland
+-  
 
 
 Aktivitätsprotokolle enthalten Informationen zu Transaktionen und Partnerverwaltungsaktionen für Kunden. Protokolle für Transaktionen bieten detaillierte Informationen zu Transaktionen, einschließlich zahlungspflichtiger Abonnements. Sie können Aktivitätsprotokolle auch in eine mit Excel kompatible durch Trennzeichen getrennte Datei (.csv) exportieren.
@@ -30,7 +30,7 @@ Aktivitätsprotokolle enthalten Datensätze für Partneraktionen für Kundenkont
 
 **Anzeigen und Exportieren von Aktivitätsprotokollen**
 
-1.  Wählen Sie aus dem Menü " **Partner Center** " **Aktivitätsprotokoll**.
+1.  Wählen Sie im Menü " **Partner Center** " **Aktivitätsprotokoll**.
 2.  Wählen Sie mithilfe der Felder **Von** und **Bis** den Aktivitätsprotokollierungszeitraum aus. Für den Export des Aktivitätsprotokolls wird standardmäßig der letzte Monat festgelegt.
 
     Jedes Aktivitätsprotokoll enthält einen Link zur Seite **Abonnements** des aufgeführten Kunden.

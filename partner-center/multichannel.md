@@ -7,12 +7,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 9d8f5b58e539d214f0b9b11ff6ba06c447ac81d0
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 6dce06b0c65c3ac85318b1c04b5a8b490d620e55
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795743"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683669"
 ---
 # <a name="multi-channel-support"></a>Multichannel-Unterstützung
 
@@ -20,7 +20,7 @@ ms.locfileid: "5795743"
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
--  Partner Center für Microsoft Cloud Deutschland
+
 
 Das Multichannel-Feature im Partner Center unterstützt Szenarien, wenn ein Kunde einen Partner für Verwaltung und den support eines an anderer Stelle erworbenen Abonnements beauftragen möchte. Dieser Multichannel-Support ist in folgenden Fällen erforderlich:
 

@@ -7,12 +7,12 @@ ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 041dc7e1849f0dfd9334159a57a9714396358df9
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b89b8182c8a15026ca91e321e97e3b75ac42a7ee
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796123"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683519"
 ---
 # <a name="suspend-a-subscription"></a>Aussetzen eines Abonnements
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796123"
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
--  Partner Center für Microsoft Cloud Deutschland
+
 
 Partner können ein Abonnement auf Anforderung des Kunden, bei Nichtbezahlung oder bei Betrug aussetzen oder kündigen.
 
@@ -28,7 +28,7 @@ Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Be
 
 **Aussetzen eines Abonnements**
 
-1.  Klicken Sie im Menü " **Partner Center** " Wählen Sie **Kunden**, und wählen Sie einen Kunden aus der Liste.
+1.  Wählen Sie **Kunden**im **Partner Center** -Menü, und wählen Sie einen Kunden aus der Liste.
 2.  Wählen Sie das Abonnement aus, das Sie verwalten möchten.
 3.  Wählen Sie im Abschnitt **Status** den Eintrag **Ausgesetzt** aus. **Übermitteln** Sie dann Ihre Änderungen.
 4.  Alle Daten werden gelöscht, solange das Abonnement nicht innerhalb von 90Tagen oder 90Tagen zuzüglich der Anzahl der Tage zwischen der Eröffnung des Kontos und dem ersten Abrechnungszeitraum (maximal 120Tage) reaktiviert wird.

@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Kundenselbsthilfe, Selbsthilfe
 ms.localizationpriority: medium
-ms.openlocfilehash: 46525d10888ec910ac86421dc018b6d8ff1f68ab
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ac6e78057dc8499ad2e46713afe6ade4b4c8ca1e
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794773"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683479"
 ---
 # <a name="customer-self-support"></a>Kundenselbsthilfe
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794773"
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
--  Partner Center für Microsoft Cloud Deutschland
+
 
 Kunden können sich in ihrem eigenen Microsoft Office 365 Admin Center oder Azure-Verwaltungsportal anmelden und ihre eigenen Konten verwalten:
 
@@ -31,7 +31,7 @@ Kunden können sich in ihrem eigenen Microsoft Office 365 Admin Center oder Azur
 
 Kunden müssen Kontakt zu ihrem Cloud-Lösungsanbieter aufnehmen, um zusätzliche Abonnements zu kaufen oder ihre Abonnements zu beenden. Kunden können ihre eigenen Microsoft-Abonnements nicht direkt ändern.
 
-Wenn Kunden Unterstützung bei Produkte benötigen, können sie Produktressourcen zur [Unterstützung](https://partnercenter.microsoft.com/partner/support)suchen. Wir empfehlen Partnern als ersten Schritt, Kunden auf diese Ressourcen hinzuweisen.
+Wenn Kunden Unterstützung bei Produkte benötigen, können sie Produkt-Ressourcen zur [Unterstützung](https://partnercenter.microsoft.com/partner/support)suchen. Wir empfehlen Partnern als ersten Schritt, Kunden auf diese Ressourcen hinzuweisen.
 
  
 

@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b2698c45a996394e0bbd24bc759e807c4957942
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1907212ff56bed8b3e3345c51bbf79770f2699c8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795613"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683769"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Melden von Problemen im Auftrag eines Kunden
 
@@ -21,13 +21,13 @@ ms.locfileid: "5795613"
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
--  Partner Center für Microsoft Cloud Deutschland
+
 
 Wenn ein Kunde ein Problem mit einem Dienst meldet, das Sie nicht beheben können und das die unter [Eskalieren von Problemen an Microsoft](escalate-problems-to-microsoft.md) beschriebenen Kriterien erfüllt, beantragen Sie ein Supportticket für den Kunden. Dieser Vorgang eignet sich auch zum Eskalieren von Abrechnungsproblemen oder -streitigkeiten und Betrugsverdachtsfällen.
 
 **Übermitteln einer Serviceanfrage für einen Kunden**
 
-1.  Wählen Sie aus dem Menü " **Partner Center** " **Serviceanfragen** und dann **Kundenanfragen**. 
+1.  Wählen Sie im Menü " **Partner Center** " **Serviceanfragen** und dann **Kundenanfragen**aus. 
 
 2.  Suchen Sie auf der Seite der Kundenanforderungen die gewünschten Kunden aus.
 
@@ -35,11 +35,11 @@ Wenn ein Kunde ein Problem mit einem Dienst meldet, das Sie nicht beheben könne
 
 **Microsoft Azure**
 
-**Hinweis:** Wenn Sie eine Serviceanfrage für Ihre Kunden in Azure erstellen müssen, beachten Sie Folgendes:
+**Hinweis:** Wenn Sie eine Serviceanfrage für Ihre Kunden in Azure erstellen möchten, achten Sie darauf, dass Sie Folgendes:
 
 - Damit Sie für Ihre Kunden in Azure Serviceanfragen erstellen können muss Ihr indirekte Anbieter Ihnen Zugriff auf Azure-Konto des Kunden gewähren. Dies unterscheidet sich von der Verwaltung im Auftrag von Kunden für Office 365. 
 
-- Zwar keine der Helpdesk-Administrator im Partner Center Serviceanfragen im Azure Service-Portal erstellen, ist was diese Rolle kann, erstellen Sie eine Supportgruppe im Azure Service-Portal und weisen dieser Gruppenberechtigungen Anmeldung von Supportanfragen.
+- Zwar keine der Helpdesk-Administrator im Partner Center Serviceanfragen im Azure Service-Portal erstellen, ist was diese Rolle kann, erstellen Sie eine Supportgruppe in der Azure Service-Portal, und weisen dieser Gruppenberechtigungen Anmeldung von Supportanfragen.
 
 1.  Wählen Sie **Neue Supportanfrage** aus.
 2.  Füllen Sie die Supportanfrage mit den entsprechenden Informationen aus, und wählen Sie dann **Erstellen**:
@@ -97,7 +97,7 @@ Wenn Sie sich direkt beim Office365 Admin Center anmelden, wird das Center in Ih
 
 **Wie erhalte ich zusätzliche Dynamics 365-Unterstützung?**
 
- Wenn Sie Probleme im Zusammenhang mit auftreten: Dynamics 365 Plan Abonnements, Lizenzierung, Abrechnung, Finanzen & Vorgänge, IURs oder Sie weiteren technischen Support benötigen:
+ Wenn Sie Probleme im Zusammenhang mit auftreten: Dynamics 365 Plan Abonnements, Lizenzierung, Abrechnung, Finanzen und Vorgänge, IURs oder Sie technische Unterstützung benötigen:
  
 [Dynamics Support](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support) kontaktieren
 

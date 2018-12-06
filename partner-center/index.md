@@ -1,23 +1,24 @@
 ---
 layout: LandingPage
 hide_bc: true
-title: Hilfe zum mit dem Partner Center
+title: Hilfe zum Partner Center
 ms.topic: landing-page
 ms.date: 10/29/2018
-description: Benötigen Sie Hilfe beim Einrichten Ihres Kontos, beim Herstellen einer Verbindung mit Kunden oder beim Kauf eines Action Pack-Abonnements? Erkennen Sie, dass die Antworten in dieser Partner Center erstellt speziell für Partner in den CSP und MPN-Programmen Library-Hilfe. 
-author: v-chmccl
+description: Benötigen Sie Hilfe beim Einrichten Ihres Kontos, beim Herstellen einer Verbindung mit Kunden oder beim Kauf eines Action Pack-Abonnements? Erkennen Sie, dass die Antworten in dieser Partner Center-Bibliothek, die speziell für Partner in den CSP und MPN-Programmen erstellt Hilfe. 
+author: labrenne
+ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 5677ad5ea93cef313aa2b7373e75c9621d0a4e48
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: afd4421e000081864394995d75e4671d711825ef
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795913"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776524"
 ---
-# <a name="start-here-for-help-with-partner-center"></a>Hilfe zum mit dem Partner Center
+# <a name="start-here-for-help-with-partner-center"></a>Hilfe zum Partner Center
 
-Benötigen Sie Hilfe beim Einrichten Ihres Kontos, beim Herstellen einer Verbindung mit Kunden oder beim Kauf eines Action Pack-Abonnements? Erkennen Sie, dass die Antworten in dieser Partner Center erstellt speziell für Partner in den CSP und MPN-Programmen Library-Hilfe.
+Benötigen Sie Hilfe beim Einrichten Ihres Kontos, beim Herstellen einer Verbindung mit Kunden oder beim Kauf eines Action Pack-Abonnements? Erkennen Sie, dass die Antworten in dieser Partner Center-Bibliothek, die speziell für Partner in den CSP und MPN-Programmen erstellt Hilfe.
 
 Wenn Sie bereits mit dem Partner Center vertraut sind, finden Sie unter [Neuigkeiten](/partner-center/whats-new-in-pc).
 

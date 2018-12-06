@@ -1,24 +1,24 @@
 ---
 title: Microsoft-Kompetenzanforderungen für die Silber- und Gold-Mitgliedschaft | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 12/5/2018
 description: Erfahren Sie mehr über die Kompetenzanforderungen für die Mitgliedschaftsstufen Silber und Gold.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Kompetenzen, Silver-Mitgliedschaft, Gold-Mitgliedschaft, mpn, MAPS, Kompetenz, Microsoft Partner Network, Network Mitgliedschaft
 ms.localizationpriority: medium
-ms.openlocfilehash: 7c739e3e7142eee7dcc0ec4906e2dbc89fc671d4
-ms.sourcegitcommit: bf952686358864cb268f71d039c682ee2a50ba68
+ms.openlocfilehash: 152f5186471572a3dafbf3a273867e1d64aafa69
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797388"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776454"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Erfahren Sie mehr über die Microsoft-Kompetenzanforderungen für die Silber und Gold-Mitgliedschaft
 
 **Betrifft**
 
--  Partner Center
+- Partner Center
 
 Demonstrieren Sie Ihre Kompetenzen für die Bereitstellung von Qualitätslösungen in einem oder mehreren speziellen Geschäftsbereich. Microsoft-Kompetenzen dienen zur Vorbereitung auf die Umsetzung der Kundenanforderungen. Mit ihnen können Sie neue Kunden gewinnen, die einen für Microsoft-zertifizierten Lösungsanbieter suchen. Werden Sie Teil der Microsoft-Partnerelite, und heben Sie sich von anderen Anbietern ab.
 
@@ -26,8 +26,13 @@ Demonstrieren Sie Ihre Kompetenzen für die Bereitstellung von Qualitätslösung
 
 - Mit einer **Gold-Mitgliedschaft** demonstrieren Sie Ihre herausragende Kompetenz in einem bestimmten Bereich der Microsoft-Lösungen.
 
-Erfahren Sie, was erforderlich ist, um eine Silver- und Gold-Mitgliedschaft in den folgenden Bereichen zu erhalten:
+Erfahren Sie, was erforderlich ist, verdienen Sie Silver- und Gold-Mitgliedschaft in den folgenden Bereichen:
 
+<!-- Removed the ISV competency row as per Sarah Hodge on 12/5/18 
+
+[ISV competency](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure, SQL Server 2016,  Dynamics 365, Office 365, Windows Server 2019, System Center 2016|
+
+-->
 
 | Kompetenzen  | Technologien |
 |   ------------------   |   -------   |
@@ -45,8 +50,8 @@ Erfahren Sie, was erforderlich ist, um eine Silver- und Gold-Mitgliedschaft in d
 | [DevOps-Kompetenz](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio, Visual Studio Team Foundation Server (TFS) 2012, Software-Lebenszyklus, Scrum Zertifizierungen |
 | [Enterprise Mobility Management-Kompetenz](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| Enterprise Mobility + Security (EMS), Microsoft Intune, Azure Information Protection, Azure Active Directory Premium (AADP), Mobile Device Management, Identity & Access Management, Info-Schutz, Cloud App-Sicherheit |
 | [Enterprise Resource Planning-Kompetenz](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365, Enterprise Resource Planning (ERP), SQL Server2012-Datenbanken  |
-|[ISV-Kompetenz](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure, SqlServer 2016, Dynamics 365, Office 365, WindowsServer 2019, System Center 2016| 
 | [Messaging-Kompetenz](https://partner.microsoft.com/membership/messaging-competency)| Office 365, Exchange Server 2016 |
 | [Project and Portfolio Management-Kompetenz](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft Project, Project and Portfolio Management (PPM), SharePoint Server 2016|
 | [Small and Midmarket Cloud Solutions-Kompetenz](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
 | [Windows and Devices-Kompetenz](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows10, Windows10 IoT, Universelle Windows-Plattform, Surface Hub, Office365, Skype for Business 2015, Enterprise-Bereitstellung |
+|

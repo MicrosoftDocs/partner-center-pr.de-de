@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 62b14af53723cd8e28a1a5253e953f08fc03c867
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 800e816ad882b11721f26f7c219997de7a33e416
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795713"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776474"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Aktualisieren der Microsoft Partner Network-Mitgliedschaft
 
@@ -79,7 +79,7 @@ Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Tag verlängert
 
 3. Wählen Sie **Automatische Verlängerung deaktivieren** aus, wenn Sie nicht möchten, dass Ihr Action Pack-Abonnement automatisch jährlich verlängert wird. 
 
-   > [!NOTE]  
+> [!NOTE]  
 > Wenn Sie die automatische Abonnementverlängerung deaktivieren, ist es nicht möglich, sie wieder zu aktivieren, bis Sie erneut das Abonnement verlängern. Wir erinnern Sie vor Ablauf Ihres Abonnements daran, es zu verlängern.
 
 

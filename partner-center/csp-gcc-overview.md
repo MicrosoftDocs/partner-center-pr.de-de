@@ -1,19 +1,20 @@
 ---
-title: Office 365 Behörden GCC für CSP verkaufen | Partner Center
+title: Office 365-Behörden GCC für CSP verkaufen | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Microsoft-Partner im CSP-Programm können Office 365-Behörden GCC CSP-Abonnements für qualifizierte Kunden verkaufen. Office 365-Behörden GCC für CSP ist eine Suite von Clouddiensten Produktivität für die US-Regierung und Behörden Auftragnehmer Kommunen Kommunen entwickelt und Status, lokale, sowie stammeseinrichtungen, federal ziviles und staatliche Defense Behörden enthält.
+description: Microsoft-Partner im CSP-Programm können Office 365-Behörden GCC CSP-Abonnements für qualifizierte Kunden verkaufen. Office 365 Behörden GCC für CSP ist eine Suite von Clouddiensten Produktivität für die US-Regierung und Auftragnehmer Regierung entwickelt.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 27bdeee374bfb25230355186cb2e4e403d51dfcb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: f604fc898646ae18e081f4d13443d7835ebce28e
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794963"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917662"
 ---
-# <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Verkaufen Sie Office 365-Behörden GCC CSP-Abonnements für qualifizierte Kunden
+# <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Verkaufen Sie Office 365-Behörden GCC CSP-Abonnements an Kunden
 
 **Betrifft:**
 
@@ -23,10 +24,10 @@ ms.locfileid: "5794963"
 
 ## <a name="overview"></a>Übersicht
 
-Microsoft-Partner im Cloud Solution Provider-Programm (CSP) können [Office 365 Behörden GCC für CSP](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) -Abonnements für qualifizierte Kunden verkaufen. Office 365-Behörden GCC für CSP ist für die besonderen Anforderungen von US-Behörden Organisationen vorgesehen und stellt die Features und Funktionen von Office 365-Dienste in einer segmentiertes Government-Cloud-Community, die Unternehmen US-Behörden erfüllen können Kompatibilität und Sicherheitsstandards. 
+Microsoft-Partner im Cloud-Lösungsanbieter-Programm (CSP) können [Office 365 Behörden GCC für CSP](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) -Abonnements an Kunden verkaufen. Office 365-Behörden GCC für CSP wurde für die besonderen Anforderungen von US-Behörden Organisationen entwickelt und bietet die Features und Funktionen von Office 365-Dienste in einer segmentiertes Government-Cloud-Community, die Unternehmen US-Behörden erfüllen können Kompatibilität und Sicherheitsstandards. 
 
 >[!IMPORTANT] 
->Bevor Sie Office 365-Behörden GCC CSP-Abonnements verkaufen können, muss Ihr Unternehmen zum Verkauf an qualifizierte Kunden genehmigt werden. Und, bevor Kunden kaufen und Office 365-Behörden GCC CSP-Abonnements verwenden können, müssen sie Qualifizierungskriterien erfüllen. Finden Sie unter [Partnern und Kunden Kriterien](csp-gcc-validate.md) für wichtige Informationen.
+>Bevor Sie Office 365-Behörden GCC CSP-Abonnements verkaufen können, muss Ihr Unternehmen zum Verkauf an Kunden genehmigt werden. Und vor dem Kunden kaufen und Office 365-Behörden GCC CSP-Abonnements verwenden können, müssen sie die Qualifizierungskriterien erfüllen. Finden Sie unter [Partnern und Kunden Kriterien](csp-gcc-validate.md) für wichtige Informationen.
 
 
 ## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>Office 365-Behörden GCC CSP-Abonnements verkaufen
@@ -40,11 +41,11 @@ Nach dem Verkauf Ihres Unternehmens genehmigt wurde bietet Office 365-Behörden 
 
 ## <a name="additional-resources"></a>Zusätzliche Ressourcen
 
-Zugriff auf Informationen auf die [Möglichkeiten für Partner in US-Behörden](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) auf Microsoft 365 für Partner-Website.
+Informationen zum Zugreifen auf die [Möglichkeiten für Partner in US-Behörden](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) auf Microsoft 365 für Partner-Website.
 
 Produkt-Ressourcen:
 
-- [Beschreibung des Office 365-Behörden Dienstes](https://technet.microsoft.com/library/mt774581.aspx)
+- [Beschreibung des Office 365-Behörden](https://technet.microsoft.com/library/mt774581.aspx)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
 - [Microsoft Trust Center](https://www.microsoft.com/TrustCenter/)
 - [Microsoft Service Trust Portal](https://aka.ms/STP)

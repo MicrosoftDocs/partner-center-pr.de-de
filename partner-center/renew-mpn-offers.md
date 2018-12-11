@@ -2,17 +2,18 @@
 title: Verlängern von MPN-Angeboten | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Verlängern von MPN-angeboten im Partner Center
+description: Ihr Verlängerungsfenster für ein MPN-Abonnement beginnt am Jahrestag des Kaufdatums plus einem Tag.
 author: labrenne
 ms.author: labrenne
 keywords: MPN, Microsoft Action Pact, MAPS, Kompetenz erneuern, Verlängerungsdatum
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f611a01118449a1247764d0dcee0de8ba820c00
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 3fb82e65d6ae4d3caa3f4574015f6ee980bc309a
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796143"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917402"
 ---
 # <a name="renew-your-mpn-offers"></a>Verlängern von MPN-Angeboten
 

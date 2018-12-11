@@ -7,12 +7,13 @@ ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e992a3cdfc0bbb01a303a8b00bfeda3cf60d1882
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 276fe6a9b560df49fa255c7d2c6ff698152162c2
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797133"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917292"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrieren von Dynamics AX-Abonnements zu Dynamics 365
 
@@ -69,9 +70,9 @@ Die folgende Tabelle enthält Details zur Lizenzzuordnung:
 
 Microsoft bietet Wiederverkäufern und Anbietern kontinuierlich neue Produkte und Dienste an. In diesen Fällen müssen Wiederverkäufer Kunden möglicherweise auf neue Dienste aktualisieren oder Kundenabonnements von alten SKUs, die letzten Endes vom Markt genommen werden, zu neueren SKUs migrieren. Die Migration von Kunden von alten SKUs auf neuere SKUs muss in dieser Reihenfolge erfolgen:
 
--   [Kauf des neuen Abonnements](#manual-subscription-migration-purchasenewsubsc);
--   [Neuzuweisen der aktuellen Benutzerlizenzen](#manual-subscription-migration-reassignlicenses);
--   [Stornieren des alten Abonnements](#manual-subscription-migration-cancelsubscriptions).
+-   [Kauf des neuen Abonnements](#purchase-the-new-subscription);
+-   [Neuzuweisen der aktuellen Benutzerlizenzen](#reassign-user-license);
+-   [Stornieren des alten Abonnements](#cancel-the-old-subscription).
 
 Mit den folgenden Verfahren migrieren Sie einen Kunden von Microsoft Dynamics AX oder CRM Online zu Dynamics365.
 
@@ -79,18 +80,18 @@ Der Wiederverkäufer muss einen Kunden mit einem vorhandenen Dynamics AX Enterpr
 
 <a href="" id="purchasenewsubsc"></a>
 
-**Kauf des neuen Abonnements**
+### <a name="purchase-the-new-subscription"></a>Kauf des neuen Abonnements
 
-1.  Klicken Sie im Menü " **Partner Center** " Wählen Sie **Kunden**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie **Abonnements hinzufügen**.
+1.  Klicken Sie im **Partner Center** -Menü Wählen Sie **Kunden**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie die **Abonnements hinzufügen**.
 2.  Wählen Sie aus dem Katalog das Abonnement aus, das Sie kaufen möchten (in diesem Fall Dynamics365 for Operations Enterprise Edition), kaufen Sie die nötigen Anzahl von Lizenzen, und wählen Sie **Übermitteln** aus.
 
     Ihr Kunde sollte nun alte und neue Abonnements besitzen. In diesem Beispiel sind dies das alte Dynamics AX Enterprise-Abonnement und das neue Abonnement von Dynamics365 for Operations Enterprise Edition.
 
 <a href="" id="reassignlicenses"></a> Im nächsten Schritt werden alle vorhandenen Benutzerlizenzen dem neuen Abonnement neu zugewiesen.
 
-**Neuzuweisen von Benutzerlizenzen**
+### <a name="reassign-user-licenses"></a>Neuzuweisen von Benutzerlizenzen
 
-1.  Klicken Sie im Menü " **Partner Center** " Wählen Sie **Kunden**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie **Benutzer und Lizenzen**. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
+1.  Klicken Sie im Menü " **Partner Center** " Wählen Sie **Kunden**, wählen Sie den Kunden, die, den Sie verschieben möchten, und **Benutzer und Lizenzen**. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
 2.  Um Benutzerlizenzen neu zuzuweisen, wählen Sie den Benutzer aus, der neu zugewiesen werden soll, und anschließend **Verwalten von Lizenzen**.
 3.  Deaktivieren Sie auf der Seite **Verwalten von Lizenzen** das Kontrollkästchen für die Lizenz **Dynamics AX Enterprise**, und wählen Sie die Lizenz **Dynamics365 for Operations** aus.
 4.  Wählen Sie **Übermitteln** aus. Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt.
@@ -98,7 +99,7 @@ Der Wiederverkäufer muss einen Kunden mit einem vorhandenen Dynamics AX Enterpr
 
 <a href="" id="cancelsubscriptions"></a> Nachdem Sie die Benutzerlizenzen zum neuen Dienst migriert haben, können Sie das alte Abonnement auf der obersten Kundenebene ohne Bedenken stornieren.
 
-**Stornieren des alten Abonnements.**
+### <a name="cancel-the-old-subscription"></a>Stornieren des alten Abonnements.
 
 1.  Klicken Sie im Menü " **Partner Center** " Wählen Sie **Kunden**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie das Abonnement, das Sie stornieren möchten.
 2.  Legen Sie auf der Seite für Abonnementdetails **Status** auf **Ausgesetzt** fest.

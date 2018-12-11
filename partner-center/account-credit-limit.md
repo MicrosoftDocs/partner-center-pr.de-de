@@ -2,17 +2,19 @@
 title: Cloud Solution Provider (CSP)-Konto Kreditlimit | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: ''
+description: Wenn Sie als Partner im CSP-Programm teilnehmen, erhält Ihre Organisation ein Kreditlimit, um Software zu erwerben, die Sie an Ihre Kunden verkaufen können, während Sie darauf warten, dass die Kunden Sie bezahlen.
 ms.assetid: ''
-author: ''
-Keywords: ''
+author: labrenne
+ms.author: labrenne
+keywords: Kreditlimit, erwerben, höhere Grenzen, Kreditlinie
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e6e3f562cc9a8f6f1e8ad78f1fa0c7103b962a3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 29ea91d24e141deb843f7ba00e438f882a092fff
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795135"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917392"
 ---
 # <a name="cloud-solution-provider-csp-account-credit-limits"></a>Cloud Solution Provider (CSP)-Konto Kreditlimit
 

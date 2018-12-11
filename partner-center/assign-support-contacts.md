@@ -2,18 +2,19 @@
 title: Zuweisen von Supportkontakten | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Als Händlerpartner können Sie einen Händler als Supportkontakt bestimmen.
+description: Wenn Sie Abonnements für Microsoft-Dienste für Ihre Kunden einrichten, können Sie den technischen Support für diese Produkte einem festgelegten Händler zuweisen, anstelle den Support selbst bereitzustellen.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
 ms.author: kenpacq
 keywords: Hilfeagent, Support, Supportkontakt zuweisen, zugewiesener Supportkontakt
 ms.localizationpriority: medium
-ms.openlocfilehash: aba162f1a1fa0a5fc7f4337ac6eb0e513d680b74
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c1bcb937a6020e1e6508c6f53e2790680b625051
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795293"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917252"
 ---
 # <a name="assign-support-contacts"></a>Zuweisen von Supportkontakten
 
@@ -32,7 +33,7 @@ Dies kann für [Multipartner](multipartner.md)- und [Multichannel](multichannel.
 
 1.  Beginnen Sie, in dem Sie beim angegebenen Produkthändler [eine Beziehung anfordern](request-a-relationship-with-a-customer.md). Handeln Sie einen Support-Vertrag mit ihnen für den technischen Support aus.
 
-2.  Klicken Sie im Menü " **Partner Center** " Wählen Sie **Kunden**, und klicken Sie dann einen Kunden und dann ein Abonnement aus, z. B. Office 365 Business Premium.
+2.  Im **Partner Center** -Menü Wählen Sie **Kunden**, und klicken Sie dann Kunden Sie einen, und wählen Sie ein Abonnement, z. B. Office 365 Business Premium.
 
 3.  Wählen Sie unter **Designated support contact** den angegebenen Produkthändler aus, und klicken Sie dann auf **Übermitteln**. 
 

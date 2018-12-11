@@ -1,5 +1,5 @@
 ---
-title: Grundlagen zur Abrechnung | Partner Center
+title: Übersicht über die Abrechnung | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
@@ -7,21 +7,21 @@ author: labrenne
 ms.author: labrenne
 keywords: Abrechnung, Zahlungen, Aufträge, Abbruch, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Abstimmungsdateien, Abstimmungsdatei
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c79f3f8eff26aec3af313711e9e83de2a4eace9
-ms.sourcegitcommit: d4e03062ba7ab9f23b0242086cf73a9fdd217ff6
+ms.custom: seodec18
+ms.openlocfilehash: 96a859fda2ba8641c701888c4a865b1a1278c268
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/09/2018
-ms.locfileid: "6224658"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917602"
 ---
-# <a name="billing-basics"></a>Grundlagen zur Abrechnung
+# <a name="billing-overview"></a>Übersicht über die Abrechnung
 
 **Betrifft:**
 
 -  Partner Center
 -  Partner im CSP-Programm
 
-# <a name="billing-overview"></a>Übersicht über die Abrechnung
 Je nach der Produkte, Lösungen und Dienste, die Sie im Auftrag Ihrer Kunden kaufen, Rechnung Sie für diese Käufe in einem oder mehreren der folgenden Arten:
 -   [Lizenzbasierte Abrechnung](#licensebasedbilling)
 
@@ -31,13 +31,13 @@ Je nach der Produkte, Lösungen und Dienste, die Sie im Auftrag Ihrer Kunden kau
 
 -   [Nutzungsbasierte Abrechnung](#usagebasedbilling)
 
-    Wenn Sie online-Dienste, z. B. Azure-Abonnements kaufen, sind Sie für monatliche Nutzung Sätze in Rechnung gestellt. Nur monatliche Abrechnung ist für nutzungsbasierte Produkte verfügbar. Nutzungsbasierte Dienste, z. B. Azure, werden gemäß den gemessenen Sätzen, basierend auf Verbrauch in Rechnung gestellt.
+    Wenn Sie online-Dienste, z. B. Azure-Abonnements kaufen, sind Sie für die monatlichen Nutzung Sätze in Rechnung gestellt. Nur monatliche Abrechnung ist für nutzungsbasierte Produkte verfügbar. Nutzungsbasierte Dienste, z. B. Azure, werden gemäß den gemessenen Sätzen, basierend auf der Nutzung in Rechnung gestellt.
 
 -   [Einmalige Gebühr](#onetimebilling)
 
-    Wenn Sie Azure Reservations oder andere Software-Abonnements kaufen, Zahlen Sie im Voraus für einen vordefinierten Zeitraum. Da Sie im Voraus bezahlen, sind Sie in einem Pauschbetrag Rechnung. 
+    Wenn Sie Azure Reservations oder andere Software-Abonnements kaufen, bezahlen im Voraus für einen vordefinierten Zeitraum. Da Sie im Voraus bezahlen, sind Sie in einem Pauschbetrag Rechnung. 
     
-Wenn Sie monatlich in Rechnung gestellt haben oder wenn Sie nutzungsbasierte Produkte gekauft haben, die monatlich in Rechnung gestellt werden, ist Ihr monatliche Abrechnungsdatum der Tag des Monats, die Sie ausgewählt, wenn Sie Ihr CSP-Konto im Partner Center erstellt haben. Nachdem Sie Ihr CSP-Konto erfolgreich erstellt haben, sendet Microsoft eine Bestätigungs-e-Mail, die Ihr Abrechnungsdatum enthält.
+Wenn Sie monatlich in Rechnung gestellt haben, oder wenn Sie nutzungsbasierte Produkte gekauft haben, die monatlich in Rechnung gestellt werden, ist Ihr monatliche Abrechnungsdatum der Tag des Monats, die Sie ausgewählt, wenn Sie Ihr CSP-Konto im Partner Center erstellt haben. Nachdem Sie Ihr CSP-Konto erfolgreich erstellt haben, sendet Microsoft eine Bestätigungs-e-Mail, die Ihr Abrechnungsdatum enthält.
 
 ## <a name="pricing-and-invoicing"></a>Preise und Fakturierung
 Preislisten sind 1 Monat im Voraus verfügbar, da sie monatlich aktualisiert werden. Lizenzbasierte Preise sind für die Dauer des Abonnements, in der Regel 12 Monate nach dem Kaufdatum, garantiert. Nutzungsbasierte Preise können sich monatlich ändern. 
@@ -50,13 +50,13 @@ Sie können Ihre Rechnungen und Erstattungsdateien auf der Abrechnungsseite im P
 
 ## <a name="payment-terms"></a>Zahlungsbedingungen
 
-Zahlungsbedingungen werden 60 Tage netto. Rechnungen müssen bezahlt werden, indem Sie die Fälligkeitsdatum Rechnung (60 Tage nach dem Abrechnungsdatum), oder Ihr Konto im Rückstand, die können die Registrierung im CSP beeinträchtigen. Sie können alle Funktionen von der aufgehobenen Konten erhalten, bei der Vergangenheit fällige Betrag.
+Zahlungsbedingungen werden 60 Tage netto. Rechnungen müssen bezahlt werden, indem Sie Rechnung (60 Tage nach dem Abrechnungsdatum) oder Ihr Konto im Rückstand, die möglicherweise die Registrierung im CSP auswirken. Sie können alle Funktionen von der aufgehobenen Konten erhalten, bei der Vergangenheit fällige Betrag.
 
 ### <a name="tax"></a>Steuern
 
-Sie werden basierend auf Ihren Details (nicht der Ihrer Kunden) versteuert wie die Abrechnung Beziehung zwischen Microsoft und Ihnen besteht. Sie können Ihre Steuernummer während des Installationsvorgangs Konto oder übermitteln eine Supportanfrage später übermitteln. Die Änderungen werden im nächsten Abrechnungszyklus angezeigt.
+Sie werden basierend auf Ihren Details (nicht der Ihrer Kunden) versteuert wie die zwischen Microsoft und Ihnen besteht. Sie können Ihre Steuernummer während des Konto-Setup zu oder übermitteln eine Supportanfrage später übermitteln. Die Änderungen werden im nächsten Abrechnungszyklus angezeigt.
 
--   Für Freistellung von der Quellensteuer und Verkaufssteuer Befreiung müssen Sie Steuerunterlagen über eine Supportanfrage einreichen. Die Änderungen und entsprechenden Erstattungen werden in Ihrem nächsten Abrechnungszyklus angezeigt.
+-   Für Freistellung von der Quellensteuer und Verkaufssteuer Ausnahme müssen Sie Steuerunterlagen über eine Anfrage senden. Die Änderungen und entsprechenden Erstattungen werden in Ihrem nächsten Abrechnungszyklus angezeigt.
 
 -   Für eine Freistellung von der Umsatzsteuer müssen Sie Ihre Umsatzsteueridentifikationsnummer (von Microsoft überprüft) über eine Serviceanfrage übermitteln. Die Änderungen und entsprechenden Erstattungen werden in Ihrem nächsten Abrechnungszyklus angezeigt.
 
@@ -64,13 +64,13 @@ Sie finden weitere Steuerinformationen erhalten Sie von Ihrem örtlichen Finanza
 
 ## <a href="" id="licensebasedbilling"></a>Lizenzbasierte Abrechnung
 
-Wenn Sie ein Produkt lizenzbasierte im Auftrag eines Kunden kaufen, können Sie monatlich oder jährlich in Rechnung gestellt werden. Wenn Sie die abrechnungshäufigkeit zu einem späteren Zeitpunkt ändern möchten, verwenden Sie das folgenden Verfahren. 
+Wenn Sie ein Produkt lizenzbasierte im Auftrag eines Kunden kaufen, können Sie monatlich oder jährlich in Rechnung gestellt werden. Wenn Sie die abrechnungshäufigkeit zu einem späteren Zeitpunkt ändern möchten, verwenden Sie die folgenden Verfahren. 
 
-Wechseln von monatliche Abrechnung zu jährliche Abrechnung ist hilfreich, wenn zahlreiche Abonnements, die die Abrechnung monatlich sind und Sie, um eine allgemeine Abrechnungsdatum ausrichten möchten. Wechsel von jährliche Abrechnung zu monatlichen Abrechnung eignet sich die Abrechnungsdaten, die einzelnen Kunden anpassen. 
+Wechseln von monatliche Abrechnung zu jährliche Abrechnung ist hilfreich, wenn Sie zahlreiche Abonnements, die monatlich in Rechnung gestellt werden und Sie sie für eine allgemeine Abrechnungsdatum ausrichten möchten. Wechsel von jährliche Abrechnung bei der monatlichen Abrechnung eignet sich die Abrechnungsdaten, mit denen die einzelnen Kunden anpassen. 
 
-Wenn Sie die abrechnungshäufigkeit ändern, wird der jährliche Begriff aktualisiert das Datum, an dem, das Sie die abrechnungshäufigkeit geändert, und eine neue Verlängerungsdatum eingerichtet ist. 
+Wenn Sie die abrechnungshäufigkeit ändern, wird der jährliche Begriff aktualisiert widerspiegeln, dass das Datum, an dem, das Sie die abrechnungshäufigkeit geändert, und eine neue Verlängerungsdatum eingerichtet ist. 
 
-Sie können die abrechnungshäufigkeit ändern, wenn Ihr Unternehmen ändern soll. 
+Sie können die abrechnungshäufigkeit ändern, wenn auf Ihr Unternehmen ändern soll. 
 
 ### <a name="billing-rules-for-annual-billing"></a>Abrechnungsregeln für die jährliche Abrechnung
 
@@ -82,21 +82,21 @@ Sie können die abrechnungshäufigkeit ändern, wenn Ihr Unternehmen ändern sol
 
 -   Änderungen an der Anzahl der Lizenzen (anteilsmäßige Berechnung basierend auf Lizenzen/Tagen) werden nachträglich in Rechnung gestellt/gutgeschrieben. Die anteilsmäßige Berechnung verwendet die folgende Formel: [ROUND((ROUND(Einheitenpreis * Menge/Anzahl von Tagen im anteilsmäßigen Monat, 2) * Anzahl von anteilsmäßigen Tagen)/Menge, 2) * Menge]
 
--   Zahlungen werden für (keine Lizenzen bereitgestellt) verkauften Lizenzen abgerechnet.
+-   Zahlungen werden für Lizenzen verkauft (keine Lizenzen bereitgestellt) in Rechnung gestellt.
 
 ### <a name="to-change-the-billing-frequency-of-an-online-service"></a>So ändern Sie die abrechnungshäufigkeit der Onlinedienst
 
-1.  Wählen Sie **Kunden** aus dem Menü "Partner Center", und wählen Sie dann den Kunden mit dem Abonnement Sie ändern möchten. 
+1.  Wählen Sie **Kunden** im Partner Center, und wählen Sie dann den Kunden mit dem Abonnement Sie ändern möchten. 
 
-2.  Wählen Sie auf der Seite Abonnements des Kunden das Abonnement Sie ändern möchten. 
+2.  Wählen Sie auf der Seite Abonnements des Kunden das Abonnement aus, das Sie ändern möchten. 
 
-3.  Wählen Sie auf der Detailseite unter **Abrechnungsfrequenz** **monatlich** oder **jährlich**. Sie sehen eine Seite "Bestätigung" mit wichtigen Informationen zum Ändern der abrechnungshäufigkeit sowie eine Liste der Abonnements geändert wird. 
+3.  Wählen Sie auf der Detailseite unter **Abrechnungsfrequenz** **monatlich** oder **jährlich**. Sie sehen eine Bestätigungsseite mit wichtigen Informationen zum Ändern der abrechnungshäufigkeit als auch eine Liste der Abonnements geändert wird. 
 
 4.  Wählen Sie **OK** ändern oder **Abbrechen** , rückgängig gemacht. 
 
 ### <a name="adjustmentscreditscancellations"></a>Anpassungen/Guthaben/Kündigungen
 
-Microsoft stellt keine frühen Beendigung Gebühren für die Kündigung lizenzbasierte Dienste Rechnung. 
+Microsoft stellt keine frühen Beendigung Gebühren für lizenzbasierte Dienste Kündigung Rechnung. 
 
 Gutschriften für Kündigungen für lizenzbasierte Dienste werden bei Kündigungen in der Zyklusmitte für nicht genutzte Tage anteilsmäßig berechnet (und Lizenzreduzierungen nach der Formel oben).
 
@@ -105,7 +105,7 @@ Gutschriften für Kündigungen für lizenzbasierte Dienste werden bei Kündigung
 Einige Microsoft-Produkte und Dienste verwenden ein "Quellenbesteuerung" Abrechnung Modell, in dem Sie nur für Dienste verwendet in Rechnung gestellt werden. Beispielsweise verwendet Microsoft Azure dieses Modell. 
 
 ### <a name="billing-rules"></a>Abrechnungsregeln
--   Abonnements laufen von Monat zu Monat und automatisch zu den getakteten dienstleistungspreisen verlängert. Sie können jeden Monat für die Verwendung des vorherigen Monats in Rechnung gestellt.
+-   Abonnements laufen von Monat zu Monat und automatisch zu den getakteten dienstleistungspreisen verlängert. Sie können jeden Monat für die Verwendung des vorherigen Monats in Rechnung.
 
 -   Getaktete Dienstleistungspreise können sich innerhalb des Abrechnungszyklus ändern. 
 
@@ -115,7 +115,7 @@ Einige Microsoft-Produkte und Dienste verwenden ein "Quellenbesteuerung" Abrechn
 
     -   Vorhandene Abonnements verwenden den zum Anfang des Abrechnungszyklus gültigen Preis.
 
-    -   Neue Abonnements, wenn in der gleichen Rechnungszyklus erstellt verwenden die Rate in Kraft auf das Datum, an dem, das Sie sie erstellen. 
+    -   Neue Abonnements, wenn in der gleichen Rechnungszyklus erstellt verwenden die auf das Datum, an dem, das Sie sie erstellen. 
 
 ### <a name="adjustmentscreditscancellations"></a>Anpassungen/Guthaben/Kündigungen
 
@@ -127,7 +127,7 @@ Alle Guthaben, einschließlich SLA-Guthaben, werden in der nächsten monatlichen
 
 ## <a href="" id="onetimebilling"></a>Einmalige Gebühr
 
-Sie können Software-Abonnements und Azure Reservations im Voraus für 1 oder 3-Jahres-Begriffe erwerben. Wenn Sie im Voraus erwerben, sind Sie für die gesamte Kosten in einem 1-Pauschbetrag in Rechnung gestellt. Diese Art der Abrechnung wird einmalige Gebühr bezeichnet.
+Sie können Software-Abonnements und Azure Reservations im Voraus für 1 oder 3-Jahres-Begriffe erwerben. Wenn Sie im Voraus erworben haben, sind Sie für die gesamte Kosten in einer eine Pauschbetrag in Rechnung gestellt. Diese Art der Abrechnung wird einmalige Gebühr bezeichnet.
 
 >[!IMPORTANT]
 >Wenn Sie Azure Reservations und/oder Software-Abonnements für einen Kunden an einer Position mit einer anderen Währung erwerben, basiert die standardmäßige abrechnungswährung auf den Standort des Kunden, nicht Ihrem Standort. Wenn Sie Kunden an mehreren Standorten haben, Sie verschiedene Rechnungen erhalten und abgleichungsdateien für jede Währung der Kunden in Rechnung gestellt werden müssen, damit Ihre Kunden in der entsprechenden Währung in Rechnung. 
@@ -142,7 +142,7 @@ Sie können Software-Abonnements und Azure Reservations im Voraus für 1 oder 3-
 
 **Bestellverlauf eines Kunden anzeigen**
 
-1.  Wählen Sie **Kunden** aus dem Menü "Partner Center".
+1.  Wählen Sie **Kunden** im Partner Center-Menü.
 
 2.  Auf der Seite **Kunden**, suchen Sie den Kunden, deren Bestellverlauf Sie anzeigen möchten, und wählen Sie dann den Pfeil nach unten, um den Datensatz des Kunden zu erweitern. 
 
@@ -150,8 +150,8 @@ Sie können Software-Abonnements und Azure Reservations im Voraus für 1 oder 3-
 
 **Laden Sie eine Gutschrift**
 
-Wenn Sie eine Gutschrift oder eine Gebühr anfordern möchten erhalten wir Sie eine Gutschrift für die ursprüngliche Rechnung stornieren. Sie können eine Gutschrift/Rückbuchung aus den folgenden Gründen anfordern:
+Wenn Sie eine Gutschrift oder eine Gebühr anfordern möchten, müssen Sie eine Gutschrift für die ursprüngliche Rechnung stornieren haben. Sie können eine Gutschrift/Gebühr für den folgenden Gründen anfordern:
 
 -   Beheben oder -Einkaufs-Reihenfolge Korrekturen
 
--   Rechnung generiert, und klicken Sie anschließend eine Steuerrückerstattung angewendet wurde. Sie können eine Gutschrift/Rückbuchung auf die Steuer Rückerstattung gezogen wieder in der ursprünglichen Rechnung anfordern. Dies gilt auch für Erstattungen, wie Sie eine Gutschrift/Rückbuchung der ursprünglichen Rechnung und dann durch Ziehen in eine Rückerstattung anfordern können.
+-   Rechnung generiert, und klicken Sie anschließend eine Steuerrückerstattung angewendet wurde. Sie können eine Gutschrift/Gebühr für die Steuer Rückerstattung gezogen wieder in der ursprünglichen Rechnung anfordern. Dies gilt auch für Erstattungen, wie Sie eine Gutschrift/Gebühr der ursprünglichen Rechnung und dann durch Ziehen in eine Rückerstattung anfordern können.

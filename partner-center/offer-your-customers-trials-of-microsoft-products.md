@@ -2,16 +2,17 @@
 title: Anbieten von Testversionen von Microsoft-Produkten für Kunden | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Ihre Kunden können Microsoft-Abonnements für 30Tage testen.
+description: Ihre Kunden können Microsoft-Abonnements für 30Tage testen. Sie können die Testversionen im Katalog ebenso wie viele andere Onlinedienste registrieren.
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5455d32d1ccd51da1bd1a9537fbead5fbc34a8eb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c9a005c185ab6abc466495fe1b61b6230a4c9955
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795273"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917442"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Anbieten von Testversionen von Microsoft-Produkten für Kunden
 

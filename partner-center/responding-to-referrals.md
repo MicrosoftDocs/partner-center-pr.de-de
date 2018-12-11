@@ -2,17 +2,18 @@
 title: Reaktion auf Empfehlungen | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Bewerten, Verhandeln und Beantworten von Empfehlungen über Partner Center.
+description: Als qualifizierter Microsoft-Partner können bewerten, verhandeln und Beantworten von Empfehlungen über Partner Center.
 author: KPacquer
 ms.author: kenpacq
 keywords: Empfehlung, RFI, Partner suchen
 ms.localizationpriority: medium
-ms.openlocfilehash: d8305212477fab01e96cc966d404d5fa427e1faa
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: cc209f965f4a18d41baedaa993aeb3e21fcfc41e
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796173"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917612"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>Reaktion auf Empfehlungen in Partner Center
 

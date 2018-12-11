@@ -8,12 +8,13 @@ keywords: Betrug, Missbrauch, akzeptable Nutzung, akzeptable Nutzungsrichtlinien
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ccfcae0f6a31078e1c298ea6ee0293801c0f6b66
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c5a78af8e58b61ff5b0ed469eefdd172cf329306
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795423"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917592"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Nichtbezahlung, Betrug oder Missbrauch
 
@@ -21,7 +22,8 @@ ms.locfileid: "5795423"
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
--  Partner Center für Microsoft Cloud Deutschland
+
+
 
 Sie sind finanziell verantwortlich für betrügerische Einkäufe Ihrer Kunden und/oder für die Nichtzahlung von gekauften Dienstleistungen durch Ihre Kunden. Aus diesem Grund empfehlen wir Ihnen dringend, Kontrollen zur Betrugsprävention und zur Risikominderung einzuführen.
 
@@ -65,7 +67,7 @@ Diese Empfehlungen können Ihnen dabei helfen, Richtlinien und Praktiken zu entw
 #### <a name="post-purchase-customer-account-management"></a>Kundenkontoverwaltung nach dem Kauf
 - Arbeiten Sie mit den Kunden zusammen, um deren grundlegenden Geschäftsanforderungen an die Clouddienstnutzung zu verstehen und geeignete Überwachung von Schwellenwerten festzulegen.
     > [!NOTE]  
-    >  Sie können im Partner Center die kundennutzung während des Monats zu überwachen und benachrichtigt werden, wenn Kunden nahe an ihrem Budget sind [ein monatliches Azure Ausgaben Budget festlegen](set-an-azure-spending-budget-for-your-customers.md) .
+    >  Sie können im Partner Center, um die kundennutzung während des Monats zu überwachen und benachrichtigt werden, wenn Kunden nahe an ihrem Budget sind [ein monatliches Azure-Ausgaben-Budget festlegen](set-an-azure-spending-budget-for-your-customers.md) .
 - Prüfen Sie die [Kundenaktivitätsprotokolle](activity-logs.md) regelmäßig, um Betrug früh zu erkennen
 - Handeln Sie schnell, wenn Sie verdächtige Aktivitäten entdecken.
 - Vermeiden Sie es, Kunden vollständigen Administratorzugriff auf Abonnements zu gewähren, wenn Sie noch keine Kontrollmechanismen zur Risikominderung implementiert haben.

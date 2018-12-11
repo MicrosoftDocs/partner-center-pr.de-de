@@ -2,17 +2,18 @@
 title: Microsoft Azure Reservations im Auftrag Ihrer Kunden kaufen | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-Description: Buy Azure reservations on behalf of customers in Partner Center.
+Description: You can buy Azure reservations on behalf of your customers in Partner Center.
 author: v-petand
 ms.author: v-petand
 keywords: Azure, Reservierungen, verwalten, Abrechnung, kaufen
 ms.localizationpriority: medium
-ms.openlocfilehash: 75e1afefbd2b411e5e1778e04e01781ac7bbe080
-ms.sourcegitcommit: 2e6c5b00099f948f61e535129905712d79ed67a7
+ms.custom: seodec18
+ms.openlocfilehash: 6ce50f5269c95ba923b81a062c6f43a94bbff945
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2018
-ms.locfileid: "8382946"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917552"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Kaufen Sie Microsoft Azure Reservations im Auftrag Ihrer Kunden im Partner Center 
 
@@ -28,9 +29,9 @@ ms.locfileid: "8382946"
 
 -   Kunden müssen bereits über ein aktives Azure-Abonnement verfügen, bevor Sie eine Reservierungen in deren Auftrag erwerben können
   
--   Abonnement Softwarekosten z. B. SQL-Datenbank oder SUSE Linux-Software sind nicht in Azure-Reservierung Preise enthalten.
+-   Abonnement Softwarekosten wie z. B. SQL-Datenbank oder SUSE Linux-Software sind nicht in Azure-Reservierung Preise enthalten.
 
--   Microsoft commercial Preisgestaltung bis hin zu Sie ist nicht steuern, enthalten, es sei denn, Ihr Brasilien ist. Wenn Ihr Brasilien ist, enthält der kommerzielle Preis für Sie die entsprechenden steuern 
+-   Microsoft commercial Preise für Sie ist nicht steuern, enthalten, es sei denn, Ihr Brasilien ist. Wenn Ihr Brasilien ist, enthält der kommerzielle Preis für Sie die entsprechenden steuern 
  
 -   Vertreter und Helpdesk-Agents müssen expliziten Zugriff auf das Azure-Abonnement erhalten, damit sie diese im Azure-Portal kaufen und verwalten können und im Auftrag des Kunden Supportanfragen erstellen können, einschließlich für den Austausch und die Rückerstattungen  
 
@@ -63,7 +64,7 @@ ms.locfileid: "8382946"
 > | Brasilien                         | Jersey                            | São Tomé und Príncipe                    |
 > | Britisches Territorium im Indischen Ozean | Kasachstan                        | Seychellen                               |
 > | Britische Jungferninseln         | Kiribati                          | Sierra Leone                             |
-> | Burkina Faso                   | Korea, Republik                | St. Eustatius                           |
+> | Burkina Faso                   | Republik Korea                | St. Eustatius                           |
 > | Burundi                        | Kosovo                            | Sint Maarten                             |
 > | Kambodscha                       | Laos                              | Salomonen                          |
 > | Zentralafrikanische Republik       | Lesotho                           | Somalia                                  |
@@ -90,13 +91,13 @@ ms.locfileid: "8382946"
 
 ## <a name="purchase-azure-reservations"></a>Azure Reservations kaufen
 
-Gehen Sie folgendermaßen vor, um Microsoft Azure Reservations im Auftrag Ihrer Kunden im Partner Center kaufen.
+Führen Sie die folgenden Schritte zum Microsoft Azure Reservations im Auftrag Ihrer Kunden im Partner Center zu erwerben.
 
-1. Wählen Sie **Kunden** aus dem Menü "Partner Center".  
+1. Wählen Sie **Kunden** im Partner Center-Menü.  
 
 2. Auf der Seite **Kunden**, suchen Sie den Kunden, der Azure Reservations kaufen möchte, und wählen Sie dann den Pfeil nach unten, um den Datensatz des Kunden zu erweitern.  
 
-3. Wählen Sie **Produkte hinzufügen** , und wählen Sie dann **Azure**. 
+3. Wählen Sie **Produkte hinzufügen** , und wählen Sie dann die **Azure**. 
 
     a. Wählen Sie die Kundensegment Markt, aus der Liste **Segment** .
 
@@ -104,14 +105,14 @@ Gehen Sie folgendermaßen vor, um Microsoft Azure Reservations im Auftrag Ihrer 
 
     c. Wählen Sie den Typ der Reservierung, die der Kunde möchte, aus der Liste **Reservations-Typ** .
 
-4. Azure Reservations muss einem aktiven Azure-Abonnement zugeordnet werden. Wählen Sie die Abonnementdaten des, die Sie Azure Reservations aus der Liste **Abonnement des Kunden** hinzufügen möchten. 
+4. Azure Reservations muss einem aktiven Azure-Abonnement zugeordnet werden. Wählen Sie Abonnement des Kunden, das Sie Azure Reservations aus der Liste **Abonnement des Kunden** hinzufügen möchten. 
 
    >[!IMPORTANT]
-   >Wenn der Kunde bereits ein aktives Azure-Abonnement besitzt, wählen Sie **Online-Dienste** , um ein neues hinzuzufügen. 
+   >Wenn der Kunde bereits ein aktives Azure-Abonnement besitzt, wählen Sie die **Online-Dienste** , um ein neues hinzuzufügen. 
 
-5. Verwenden Sie den Filter, um Azure Reservations auf virtuellen Computern zu suchen, die Ihre Kunden erfüllen.  
+5. Verwenden Sie den Filter, um Azure Reservations auf virtuellen Computern zu suchen, die Ihre Kunden zu erfüllen.  
 
-6. Nachdem Sie die Reservation(s), die Sie kaufen gefunden, geben Sie die Anzahl der reservierten Instanzen möchten wird der Kunde müssen in **Menge** und wählen Sie dann **in den Einkaufswagen**.  
+6. Nachdem Sie die Reservation(s), die Sie verwenden möchten finden, erwerben, geben Sie die Anzahl der reservierten Instanzen wird der Kunde müssen in **Menge** und wählen Sie dann **in den Einkaufswagen**.  
 
 7. Wiederholen Sie die Schritte5 und 6, bis Sie alle erforderlichen Elemente hinzugefügt haben. Wählen Sie **Überprüfung**, um sicherzustellen, dass Ihre Bestellung korrekt ist.  
 
@@ -119,10 +120,10 @@ Gehen Sie folgendermaßen vor, um Microsoft Azure Reservations im Auftrag Ihrer 
 
     - Überprüfen Sie oder ändern Sie die Menge der reservierten Instanzen.
 
-    - Wählen Sie den reservierungsbereich aus. Der Reservierungsbereich kann ein Abonnement oder mehrere Abonnements (freigegebener Bereich) umfassen. Wenn Sie die Reservierung an ein einzelnes Abonnement beziehen, wird der reservierungsrabatt auf diesem Abonnement angewendet. Bei Auswahl von gemeinsam verwendet, wird der reservierungsrabatt auf alle Abonnements im Kontext der kundenabrechnung des Kunden angewendet. 
+    - Wählen Sie den reservierungsbereich aus. Der Reservierungsbereich kann ein Abonnement oder mehrere Abonnements (freigegebener Bereich) umfassen. Wenn Sie die Reservierung, die auf ein einzelnes Abonnement beziehen, wird der reservierungsrabatt auf diesem Abonnement angewendet. Bei Auswahl von gemeinsam verwendet, um alle Abonnements im Kontext der kundenabrechnung des Kunden der reservierungsrabatt angewendet wird. 
 
       >[!NOTE] 
-      >Wenn Sie sich um den reservierungsbereich auf einem einzelnen Azure-Abonnement zu beschränken, müssen Sie das Abonnement vCPU mit Kontingent zu erhöhen. Um das Abonnement vCPU mit Kontingent zu erhöhen, müssen Sie eine Supportanfrage im Azure-Portal zu erstellen. Führen Sie die Anweisungen [in diesem Thema](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) um die Anforderung zu erstellen.    
+      >Wenn Sie wünschen, um den reservierungsbereich auf einem einzelnen Azure-Abonnement zu beschränken, müssen Sie das Abonnement vCPU mit Kontingent zu erhöhen. Um das Abonnement vCPU mit Kontingent zu erhöhen, müssen Sie eine Supportanfrage im Azure-Portal zu erstellen. Führen Sie die Anweisungen [in diesem Thema](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) um die Anforderung zu erstellen.    
 
     - Wenn Sie ein Lösungsanbieter-Partner sind, wählen Sie den Vertriebspartner, die, den Sie mit dem Produkt zuordnen möchten.
 

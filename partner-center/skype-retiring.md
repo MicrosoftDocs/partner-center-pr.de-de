@@ -2,17 +2,18 @@
 title: Migrieren von Skype for Business Online Plan 1-Abonnements auf neuere Versionen von Office365 | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-Description: Skype for Business Online Plan 1 subscriptions is retiring.
+Description: Transition customers with expiring Skype for Business Online Plan 1 subscriptions to a supported SKU option. We recommend moving customers to new subscriptions before the subscription’s yearly end date.
 author: labrenne
 ms.author: labrenne
 keywords: Skype for Business-Pläne, Einstellung von Skype, Office365
 ms.localizationpriority: medium
-ms.openlocfilehash: 339fe2b2558b520013752515afc8ae53358aac68
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c1e4f4611c6fe3c317339af1a036194031f3d095
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797163"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917622"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrieren von Skype for Business Online Plan 1-Abonnements auf neuere Versionen von Office365
 
@@ -54,13 +55,13 @@ Microsoft bietet Partnern kontinuierlich neue Produkte und Dienste an. In diesen
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Migrieren Ihrer Kunden zu neuen Plänen
 
-1. Um das neue Abonnement aus dem **Menü "Partner Center"** erworben haben, wählen Sie **Kunden**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie dann die **Abonnements hinzufügen**.
+1. Um das neue Abonnement im **Partner Center-Menü**erworben haben, wählen Sie **Kunden**, wählen Sie den Kunden, die, den Sie verschieben möchten, und wählen Sie dann die **Abonnements hinzufügen**.
 
 2. Wählen Sie aus dem Katalog das Abonnement aus, das Sie kaufen möchten (in diesem Fall eine der oben genannten Optionen), geben Sie die nötigen Anzahl von Lizenzen ein, und wählen Sie dann **Übermitteln** aus. 
 
 Ihr Kunde sollte nun sowohl alte als auch neue Abonnements besitzen, das alte Skype for Business Online Plan 1-Abonnement und das neue Zielabonnement, z.B. Option 1: Office365 Enterprise F1.
 
-3. Wählen Sie **Kunden**, wählen Sie den Kunden, den Sie verschieben möchten, den und wählen Sie dann **Benutzer und Lizenzen**, um Benutzern des Kunden Lizenzen, klicken Sie im Menü " **Partner Center** " neu zuweisen. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
+3. Wählen Sie **Kunden**, wählen Sie den Kunden, den Sie verschieben möchten, den und wählen Sie dann **Benutzer und Lizenzen**, um Benutzern des Kunden Lizenzen, wählen Sie im **Partner Center** zuzuweisen. Die Seite mit Benutzern und Lizenzen des Kunden wird geöffnet.
 
 4. Um die Benutzerlizenzen erneut zuzuweisen, wählen Sie den Benutzer aus, der neu zugewiesen werden soll, und anschließend **Verwalten von Lizenzen.**
 
@@ -70,7 +71,7 @@ Ihr Kunde sollte nun sowohl alte als auch neue Abonnements besitzen, das alte Sk
 
 Nachdem Sie die Benutzerlizenz zum neuen Dienst migriert haben, können Sie das eingestellte Abonnement auf der obersten Kundenebene ohne Bedenken stornieren.
 
-7. Wählen Sie aus dem Menü " **Partner Center** " **Kunden**. Wählen Sie den Kunden, dessen Abonnement Sie stornieren möchten.
+7. Wählen Sie im **Partner Center** -Menü **Kunden**. Wählen Sie den Kunden, dessen Abonnement Sie stornieren möchten.
 
 8. Legen Sie auf der Seite mit den Abonnementdetails das Abonnement auf **Ausgesetzt** fest.
 

@@ -2,17 +2,18 @@
 title: Microsoft Partner Network-Mitgliedschaft | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Erfahren Sie mehr zu den Vorteilen einer Partnerschaft mit Microsoft.
+description: Erfahren Sie mehr zu den Vorteilen einer Partnerschaft mit Microsoft. Der Microsoft Partner Network bietet Sie einer breiten Palette von Produkten in der Branche sowie Programm Optionen, um Ihr Unternehmen auszeichnen vermarkten und verkaufen Ihrer Lösungen.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Partner, Partnerschaft, MPN, Microsoft Partner Network Action Pack, MAPS, Aktion Pack-Abonnement, Vorteile, MPN-Vorteile, Mitgliedschaft, Silver, Gold, Kompetenzen
 ms.localizationpriority: medium
-ms.openlocfilehash: 06a8460e2703bffccd4a214fdd3256e859c31937
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.custom: seodec18
+ms.openlocfilehash: 8c07ad4d91e74599e65ab2478de481ef6ca212d6
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776464"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917572"
 ---
 # <a name="partner-with-microsoft"></a>Partner von Microsoft
 
@@ -28,11 +29,11 @@ Der Microsoft Partner Network bietet Sie einer breiten Palette von Produkten in 
 
 Ein Action Pack oder Starter Kit bietet, Software und Support für Microsoft-Lösungen erstellen, und eine Kompetenz veranschaulicht Ihre nachgewiesene Erfahrung an Kunden und anderen Partnern.
 
-Weitere Informationen über das Microsoft Partner Network (MPN) finden Sie auf die [MPN-Website](https://partner.microsoft.com/commercial).
+Weitere Informationen zum Microsoft Partner Network (MPN) finden Sie auf die [MPN-Website](https://partner.microsoft.com/commercial).
 
 ### <a name="how-to-join"></a>Verknüpfen von
 
-Um das Microsoft Partner Network beizutreten, wechseln Sie zu der [ **Mitgliedschaft** Seite](https://partner.microsoft.com/membership) auf die MPN-Website, und wählen Sie **Registrieren** oder **Jetzt beitreten**.
+Klicken Sie zum Microsoft Partner Network beitreten möchten, wechseln Sie zu der [ **Mitgliedschaft** Seite](https://partner.microsoft.com/membership) auf die MPN-Website, und wählen Sie **Registrieren** oder **Jetzt beitreten**.
 
 ## <a name="microsoft-partner-network-membership-types"></a>Microsoft Partner Network-Mitgliedschaft Typen
 
@@ -42,21 +43,21 @@ Microsoft Partner Network bietet drei Arten von Mitgliedschaften, wie unten besc
 
 ### <a name="action-pack"></a>Action Pack
 
-Action Pack bietet Software, Support und Vorteile für Unternehmen, die zu beginnen, Aufbau und Erweiterung ihrer Microsoft-Geschäft in einer Welt cloudzentrierten, Mobile ausgelegt. 
+Action Pack bietet Software, Support und Vorteile für Unternehmen, die zu beginnen, erstellen und ihren Microsoft-Geschäft in einer Welt Cloud und Mobilgeräten vergrößern. 
 
-Überprüfen Sie die unten, um weitere Informationen zu Action Pack Ressourcen:
+Überprüfen Sie die folgenden erfahren Sie mehr über die Action Pack Ressourcen:
 
-- [Bringen Sie Ihr Cloud-Unternehmen vorwärts mit Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
+- [Verschieben Sie die Cloud Business vorwärts mit Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
 - [Action Pack erwerben](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >Wir werden Action Pack-abonnementverwaltung vom Partner Membership Center (PMC) zum Partner Center verschoben. Diese verschieben erfolgt in den nächsten Monaten. Überprüfen Sie die Informationen in [Action Pack erwerben](mpn-get-action-pack.md) sorgfältig, damit Sie wissen, wie und wo erneuern.  
+    >Wir sind Action Pack-abonnementverwaltung vom Partner Membership Center (PMC) zum Partner Center verschoben. Diese verschieben erfolgt in den nächsten Monaten. Überprüfen Sie die Informationen in [Action Pack erwerben](mpn-get-action-pack.md) sorgfältig, damit Sie wissen, wie und wo verlängern.  
 
 - [Verlängern von MPN-Angeboten](renew-mpn-offers.md)
 
 ### <a name="competencies"></a>Kompetenzen
 
-Führen Sie Ihre nachgewiesene Erfahrung bei der Bereitstellung von qualitätslösungen in einem speziellen Geschäftsbereich vor. Microsoft-Kompetenzen dienen dazu, zu Ihrer aktuellen Kunden erfüllen und für potenzielle erkennbar sein. Werden Sie Teil der Microsoft-Partnerelite, und heben Sie sich von anderen Anbietern ab.
+Zeigen Sie Ihre nachgewiesene Erfahrung bei der Bereitstellung von qualitätslösungen in einem speziellen Geschäftsbereich. Microsoft-Kompetenzen dienen dazu, zu Ihrer aktuellen Kunden erfüllen und für potenzielle erkennbar sein. Werden Sie Teil der Microsoft-Partnerelite, und heben Sie sich von anderen Anbietern ab.
 
 Überprüfen Sie die folgenden erfahren Sie mehr über Kompetenzen Ressourcen:
 
@@ -66,10 +67,10 @@ Führen Sie Ihre nachgewiesene Erfahrung bei der Bereitstellung von qualitätsl�
 
 Wenn Sie dem Microsoft Partner Network beitreten, erhalten Sie eine Reihe grundlegender Vorteile, mit denen Sie Zeit und Geld sparen und gleichzeitig Ihre Kenntnisse vertiefen, Kunden besser unterstützen und Beziehungen aufbauen können, um Ihr Geschäftspotenzial voll auszuschöpfen.
 
-Überprüfen Sie die unten, um weitere Informationen zu Netzwerkvorteile und Anforderungen Ressourcen:
+Überprüfen Sie die folgenden erfahren Sie mehr über die Vorteile und Anforderungen Ressourcen:
 
 - [Hauptvorteile](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-1)
-- [Verwalten der MPN-mitgliedschaftsvorteile im Partner Center](manage-your-partner-network-benefits.md)
+- [Verwalten Sie Ihre MPN-Vorteile im Partner Center](manage-your-partner-network-benefits.md)
 - [Core-Anforderungen](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-2)
 
 ## <a name="see-also"></a>Weitere Informationen:

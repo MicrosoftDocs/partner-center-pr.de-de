@@ -2,18 +2,19 @@
 title: Kundenselbsthilfe | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Kundenselbsthilfe
+description: Kunden können sich in ihre eigenen Microsoft Office 365 Administrationscenter oder Azure-Verwaltungsportal anmelden und ihre eigenen Konten verwalten. Kunden müssen Kontakt zu ihrem Cloud-Lösungsanbieter aufnehmen, um zusätzliche Abonnements zu kaufen oder ihre Abonnements zu beenden.
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Kundenselbsthilfe, Selbsthilfe
 ms.localizationpriority: medium
-ms.openlocfilehash: ac6e78057dc8499ad2e46713afe6ade4b4c8ca1e
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.custom: seodec18
+ms.openlocfilehash: 62a4486419183544ba6720c6e23a096fe4dd3841
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683479"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917582"
 ---
 # <a name="customer-self-support"></a>Kundenselbsthilfe
 
@@ -31,7 +32,7 @@ Kunden können sich in ihrem eigenen Microsoft Office 365 Admin Center oder Azur
 
 Kunden müssen Kontakt zu ihrem Cloud-Lösungsanbieter aufnehmen, um zusätzliche Abonnements zu kaufen oder ihre Abonnements zu beenden. Kunden können ihre eigenen Microsoft-Abonnements nicht direkt ändern.
 
-Wenn Kunden Unterstützung bei Produkte benötigen, können sie Produkt-Ressourcen zur [Unterstützung](https://partnercenter.microsoft.com/partner/support)suchen. Wir empfehlen Partnern als ersten Schritt, Kunden auf diese Ressourcen hinzuweisen.
+Wenn Kunden Produkte Hilfe benötigen, können sie Produkt-Ressourcen zur [Unterstützung](https://partnercenter.microsoft.com/partner/support)ermitteln. Wir empfehlen Partnern als ersten Schritt, Kunden auf diese Ressourcen hinzuweisen.
 
  
 

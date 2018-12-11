@@ -1,6 +1,7 @@
 # [Informationen zum Microsoft Partner Center](index.md)
 
 # [Partner Network-Mitgliedschaft](mpn-overview.md)
+## [Wechseln von PMC zu Partner Center](pmc-to-partner-center.md)
 ## [Partner Center-Konto erstellen](mpn-create-a-partner-center-account.md)
 ## Mitgliedschaftsangebote
 ### [Action Pack](mpn-get-action-pack.md)

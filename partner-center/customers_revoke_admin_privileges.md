@@ -1,18 +1,18 @@
 ---
 title: Kunden delegieren Administratorrechte an Partner | Partner Center
 ms.topic: article
-ms.date: 12/7/2018
+ms.date: 12/18/2018
 description: Als Händlerpartner kann Ihre Kunden Sie ihren Administrator delegieren Sie können außerdem Berechtigungen entfernen.
 author: labrenne
 ms.author: labrenne
 keywords: Rechte als stellvertretender Administrator entfernen, Administrator im Namen von, Berechtigungen, DAP AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: bb92bca26c3b6c73750a5bc02f2833172006d0ff
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 92b23c15285db651abab326c18f5b25feaffdb6c
+ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917502"
+ms.lasthandoff: 12/19/2018
+ms.locfileid: "8976817"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a><span data-ttu-id="6d559-104">Kunden delegieren Administratorrechte an Partner</span><span class="sxs-lookup"><span data-stu-id="6d559-104">Customers delegate administration privileges to partners</span></span>
 

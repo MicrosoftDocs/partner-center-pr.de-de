@@ -1,113 +1,160 @@
 ---
-title: Vereinfachen der Geräteinstallation mit Windows Autopilot | Partner Center
-ms.topic: article
-ms.date: 10/29/2018
-description: Hinzufügen eines Windows AutoPilot-Bereitstellungsprofils in Partner Center zur Vereinfachung der Geräteeinrichtung mit Windows Autopilot
-author: KPacquer
-ms.author: kenpacq
-keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero-Touch Deployment, Windows-Willkommensseite, Anmeldebildschirme
+title: Anpassen des Geräts Out-of-Box-Experience mit Windows Autopilot-Profilen | Partner Center
+description: Vorkonfigurieren eines Geräts Out-of-Box-Experience mit Autopilot-Profilen.
+author: maggiepuccievans
+keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero-Touch Deployment, Windows-Willkommensseite, Anmeldebildschirme, Out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d6e6e015424eb8be83bae21b2e15bdc072e480b
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 7df979042799954c5b43a2adef1915941db02e57
+ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917562"
+ms.lasthandoff: 12/19/2018
+ms.locfileid: "8976807"
 ---
-<!--Maggie, 12/7/18 - removed line telling indirect resellers to go through their indirect providers for autopilot stuff as per Bhavya Chopra in bug 19841770.-->
+# <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Anpassen des Geräts Out-of-Box-Experience mit Windows Autopilot-Profilen
 
-# <a name="simplify-device-setup-with-windows-autopilot"></a>Vereinfachen der Geräteinstallation mit Windows Autopilot 
+**Betrifft:**
 
-Windows Autopilot optimiert und sichert die Geräteeinrichtung für neue Windows10 Pro-Geräte vom ersten Start in nur wenigen Schritten. Weitere Informationen hierzu finden Sie unter [Übersicht über Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot).
+- CSP-Rechnung Direct-Partner, indirekte Anbieter und indirekte Wiederverkäufer
 
-## <a name="features"></a>Features
+Wenn Sie Kundengeräte verwalten, müssen Sie die Out-of-Box-Experience (OOBE) für Benutzer des Kunden anpassen. Sie können neue Geräte mit Windows Autopilot-Profilen vorab zu konfigurieren, bevor Sie die Geräte an Kunden liefern und Anwenden von neuen Profilen auf Geräte, die Kunden bereits erworben haben. In diesem Artikel wird erläutert, wie Sie erstellen und Anwenden von Autopilot-Profilen auf Geräte in Partner Center.
 
-- **Deaktivieren der lokalen Administratorberechtigungen** für die Endbenutzer, die Geräte einrichten
-- **Anzeigen einer Anmeldeseite für die Organisation**. Die Organisation kann eine Anmeldeseite vorab definieren, die das Gerät als ein Gerät für die Arbeit hinzufügt und das Gerät mit Azure Active Directory verknüpft.
-- **Registrieren Sie das Gerät in einem MDM (Mobile Device Manager)**, z.B. Microsoft Intune, nachdem die Windows-Willkommensseite abgeschlossen ist.
-- **Optimieren Sie die Windows-Willkommensseite**, um nur die erforderlichen Schritteund Entscheidungen zu verwenden, mithilfe eines Windows AutoPilot-Bereitstellungsprofils.
+Wenn Sie nicht bereits mit Autopilot vertraut sind, lesen Sie die Informationen in diesen Artikeln:
 
-## <a name="requirements"></a>Anforderungen
+- [Übersicht über Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
+- [Autopilot-Referenz-Bereitstellungshandbuch](http://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-- Geräte, auf denen Windows 10 Pro Creators Update (mind. Version 1703) oder Windows 10 Pro for Advanced PCs installiert ist.
-- Geräte-ID, die als Hardwarehash (128 HWH oder 4k HWH) bezeichnet wird und in der Regel von einem OEM bereitgestellt wird. Sie verwenden IDs, um Organisationsprofile im Partner Center zuzuweisen.
-- Die Geräte müssen Zugriff auf das Internet haben. Wenn das Gerät keine Verbindung herstellen kann, zeigt es die standardmäßigen Bildschirme der Windows-Willkommensseite an.
-- Die Registrierung des Geräts in einer MDM erfordert Azure Active Directory Premium.
+## <a name="overview"></a>Übersicht
 
-## <a name="add-company-branded-sign-in-pages-to-oobe"></a>Melden Sie sich Seiten unternehmensspezifische zur Windows-Willkommensseite hinzufügen
+Mit dem Windows Autopilot-Feature im Partner Center können Sie benutzerdefinierte Profile für Kundengeräte erstellen. Zum Zeitpunkt der Veröffentlichung dieses Artikels, waren die folgenden profileinstellungen verfügbar:
 
-Um unternehmensspezifische Seiten hinzuzufügen, fügen Sie die Geräte in Ihrem Unternehmen [Azure AD-Verzeichnis](https://go.microsoft.com/fwlink/?linkid=848958) und erstellen Sie Anmeldeseiten.
+- Überspringen Sie datenschutzeinstellungen. Dieser optionalen Einstellung der Autopilot-Profil kann Organisationen während des Prozesses der Windows-Willkommensseite nicht zu Datenschutz und Fragen.
 
-## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>Entfernen Sie Windows-Seiten von der Windows-Willkommensseite mit einem Windows AutoPilot-Bereitstellungsprofil.
+- Deaktivieren Sie die Erstellung des lokalen Administratorkontos auf dem Gerät. Organisationen können entscheiden, ob der Benutzer das Gerät einrichten Administratorzugriff haben soll, nachdem der Vorgang abgeschlossen ist.
 
-### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Beispiele für Einstellungen in einem Windows AutoPilot-Bereitstellungsprofil
+- Automatisch Gerät für die Arbeit oder Schule einrichten. Alle Geräte mit Autopilot registriert werden automatisch als Arbeit betrachtet werden oder Geräte, Schule, damit diese Frage nicht während der OOBE-Prozesses aufgefordert wird.
 
-- Überspringen der Datenschutzeinstellungen im Setup
-- Deaktivieren des lokalen Administratorkontos während des Setups
-- Automatisches Überspringen von Seiten im Setup
-  - Automatisches Auswählen des Setups für die Arbeit oder Schule
-  - Überspringen der Cortana-, OneDrive- und OEM-Registrierungssetupseiten
+- Überspringen Sie Cortana-, Onedrive- und OEM-registrierungssetupseiten. Alle Geräte mit Autopilot registriert werden automatisch diese Seiten während des Out-of-Box-Experience (OOBE) zu überspringen.
 
-### <a name="add-devices-and-apply-a-profile"></a>Hinzufügen von Geräten und Anwenden eines Profils
+- Überspringen Sie Endbenutzer-Lizenzvertrag (EULA). Ab Windows 10, Version 1709, können Organisationen entscheiden, überspringen die Endbenutzer-Lizenzvertrag-Seite, die bei der Windows-Willkommensseite angezeigt. Finden Sie unter [EULA zu Windows Autopilot](#windows-autopilot-eula-dismissal) unten wichtige Informationen zum Überspringen der Endbenutzer-Lizenzvertrag Seite während des Windows Setup berücksichtigen.
 
-Partner Center können Sie Windows AutoPilot-Bereitstellungsprofil erstellen und auf eine Liste der Geräte anwenden.
+Wenden Sie die folgenden Profil und Geräte-Management-Berechtigungen und Einschränkungen:
 
-Laden Sie zum Konfigurieren von Geräten eine Liste der Geräte hoch, erstellen Sie ein Profil, das für die Geräte gilt, und wenden Sie es an.
+- CSP-Partner können weiterhin zum Verwalten von Autopilot Profile für vorhandene Kunden, mit denen sie Reseller-Geschäftsbeziehungen haben, auch wenn die Kunden die delegierten Administratorrechte des Partners entfernt haben.
 
-1.  Fügen Sie die Liste der Geräte hinzu.
+- Sie können vorhandene Geräte für Ihre Kunden verwalten, die von Ihnen oder von einem anderen CSP-Partner hinzugefügt wurden.
 
-    (Verkaufsvertreter und Admin-Agents haben Zugriff, um die Liste der Geräte in Partner Center hinzuzufügen.)
+- Sie können keine Geräte verwalten, die Microsoft Store für Unternehmen oder Microsoft Intune-Portal Ihr Kunde hochgeladen hat.
 
-    a. Erstellen Sie eine CSV-Datei mit dem PowerShell-Skript aus dem Thema [Übersicht über Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot). Diese CSV-Datei enthält Geräteinformationen, z.B. die Seriennummer, den OEM-Namen, den Modellnamen, die Produkt-ID und die Geräte-ID. 
+## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Erstellen Sie und Verwalten von Autopilot-Profilen in Partner Center
 
-    b. Navigieren Sie vom Partner Center für **Kunden** > Wählen Sie den Kunden, die die Geräte erhält > **Geräte > Geräte hinzufügen**.
+Im Partner Center können Sie Windows Autopilot-bereitstellungsprofile erstellen und diese auf Geräte anzuwenden.
 
-    c. Geben Sie der Gerätegruppe einen Namen, z.B. "PCs der Contoso-Vertriebsabteilung – Bestellung April 2017". 
+>[!NOTE]
+>Nur Admin-Agents können erstellen und Anwenden von Profilen.
 
-    d. Wählen Sie **Durchsuchen** > Geräteinformationsdatei auswählen > **Überprüfen**.
+### <a name="create-a-new-autopilot-profile"></a>Erstellen Sie ein neues Autopilot-Profil
 
-    **Hinweis:** Wenn Sie nach dem Versuch, die CSV-Datei hochzuladen, eine Fehlermeldung erhalten, überprüfen Sie das Format der Datei. Ab August können Sie nur den Hardwarehash oder den OEM-Namen, die Seriennummer und das Modell in dieser Spaltenreihenfolge oder die Windows-Produkt-ID. Sie können auch die Beispiel-CSV-Datei verwenden, die über den Link neben **Geräte hinzufügen** bereitgestellt wird.
+1. Wählen Sie **Kunden** im Partner Center, und wählen Sie dann den Kunden, die, dem Sie für die Autopilot-Bereitstellungsprofil erstellen.
 
-2.  Erstellen Sie ein Profil, das Sie auf die Geräte anwenden können. (Nur Admin-Agents haben Zugriff zum Erstellen und Anwenden von Profilen in Partner Center.)
+2. Wählen Sie auf der Detailseite des Kunden die **Geräte aus**.
 
-    a.  Wählen Sie auf **Geräten** **Neues Profil hinzufügen**.
+3. Wählen Sie unter **Windows Autopilot Profile** **Neues Profil hinzufügen**.
 
-    b.  Benennen Sie das Profil, z.B. "Contoso-Desktopprofil – Gesamte Windows-Willkommensseite überspringen".
+4. Geben Sie Namen und eine Beschreibung des Profils, und konfigurieren Sie die Einstellungen für die Windows-Willkommensseite. Wählen Sie aus:  
 
-    c.  Konfigurieren Sie die Einstellungen der Windows-Willkommensseite. Aktivieren Sie z.B. **Skip Express Settings in setup**.
+   - Überspringen der datenschutzeinstellungen im setup
+   
+   - Deaktivieren des lokalen Administratorkontos während des Setups
+   
+   - Automatisches Überspringen von Seiten im Setup<br>
+        (Einschließlich *Automatisches Setup für Arbeit oder Schule auswählen* und *Überspringen Cortana, OneDrive und OEM-registrierungssetupseiten*)
+   
+   - Endbenutzer-Lizenzvertrag (EULA) überspringen<br> 
+       >[!IMPORTANT] Finden Sie unter [EULA zu Windows Autopilot](#windows-autopilot-eula-dismissal) unten wichtige Informationen zum Überspringen der Endbenutzer-Lizenzvertrag Seite während des Windows Setup berücksichtigen.
 
-    d.  Wählen Sie **Übermitteln** aus.
+5. Wählen Sie abschließend **Übermitteln** aus.
 
-3.  Wenden Sie das Profil an.
+### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Anwenden einer Autopilot-Profilen auf Kundengeräte
 
-    a.  Wählen Sie unter **Geräte** im Bereich **Assign and delete devices** die Geräte aus, die Sie konfigurieren möchten. Um eine gesamte Gruppe auszuwählen, aktivieren Sie das Kontrollkästchen neben dem Gruppennamen (z.B. "PCs der Contoso-Vertriebsabteilung – Bestellung März 2017").
+>[!NOTE]
+>Die folgenden Anweisungen wird davon ausgegangen, dass Sie bereits Geräte des Kunden in das Partner Center hinzugefügt haben, und Sie ihre Liste der Geräte zugreifen können. Wenn Sie Geräte des Kunden bereits hinzugefügt haben, folgen Sie den Anweisungen im [Konto eines Kunden Geräte hinzufügen](#add-devices-to-a-customers-account) , und führen Sie dann die folgenden Schritte aus.
 
-    b.  Wählen Sie **Profil anwenden**, und wählen Sie das Profil (z. B. "Contoso Desktop Profil – alle Windows-Willkommensseite überspringen"). Die Geräte zeigen das Profil in der Spalte Profil an.
+Nachdem Sie ein Autopilot-Profil für einen Kunden erstellt haben, können Sie es an den Kunden Geräte anwenden.
 
-4.  Optional: Überprüfen Sie, ob Ihr Profil funktioniert.
+1. Wählen Sie **Kunden** im Partner Center, und wählen Sie dann den Kunden, die, dem Sie für die Autopilot-Profil erstellt.
 
-    a.  Verbinden Sie ein Gerät mit dem Netzwerk, und klicken Sie dann aktivieren.
+2. Wählen Sie auf der Detailseite des Kunden die **Geräte aus**.
+
+3. Wählen Sie unter **Anwenden von Profilen auf Geräte** die Geräte oder Gerätegruppen, die Sie Profile für, und wählen Sie dann **Profil anwenden**möchten. Das Profil, das Sie nur angewendet, die in der Spalte **Profil** wird angezeigt.
+
+4. Gehen Sie folgendermaßen vor, um sicherzustellen, dass das Profil erfolgreich auf das Gerät angewendet werden.
+
+    a.  Verbinden Sie ein Gerät mit dem Netzwerk, und schalten Sie es ein.
 
     b.  Stellen Sie sicher, dass die entsprechenden Bildschirme der Windows-Willkommensseite (sofern vorhanden) angezeigt werden.
 
-    c.  Um das Gerät für einen neuen Benutzer vorzubereiten, schließen Sie die Windows-Willkommensseite ab, und setzen Sie das Gerät auf die werksseitigen Standardeinstellungen zurück.
+    c.  Wenn der OOBE-Prozess beendet wird, wird zurücksetzen Sie das Gerät auf die werksseitigen Standardeinstellungen, die sie für einen neuen Benutzer vorzubereiten.
 
-## <a name="to-update-or-delete-a-profile"></a>So aktualisieren oder löschen Sie ein Profil 
+### <a name="remove-an-autopilot-profile-from-a-customers-device"></a>Entfernen Sie ein Autopilot-Profil aus dem Gerät eines Kunden
 
-Nachdem Sie ein Profil mit einem Gerät zugeordnet haben, können Sie es aktualisieren, auch wenn Sie das Gerät bereits an dem Kunden übergeben haben. Wenn das Gerät mit dem Internet verbunden ist, lädt es die neueste Version Ihres Profils während des Prozesses der Windows-Willkommensseite herunter. Wenn der Kunde das Gerät auf die werksseitigen Standardeinstellungen wiederherstellt, lädt das Gerät erneut die neuesten Updates an Ihrem Profil herunter. 
+1. Wählen Sie **Kunden** im Partner Center, und wählen Sie dann den Kunden, die, dem Sie für die Autopilot-Profil erstellt.
 
-### <a name="remove-a-profile-from-a-device"></a>Entfernen eines Profils von einem Gerät
+2. Wählen Sie auf der Detailseite des Kunden die **Geräte aus**.
 
-1. Wählen Sie das Gerät (oder die Gruppe von Geräten), von dem Sie das Profil entfernen möchten. 
+3. Wählen Sie unter **Anwenden von Profilen auf Geräte** die Geräte, die Sie verwenden möchten, entfernen Sie das Profil aus, und wählen Sie dann **Entfernen eines Profils**.
 
-2. Wählen Sie unter **Assign and delete devices** die Option **Profil entfernen**.
+  >[!NOTE]
+  >Entfernen eines Profils von einem Gerät wird nicht das Profil aus der Liste gelöscht. Wenn Sie ein Profil löschen möchten, folgen Sie den Anweisungen [Aktualisieren oder Löschen eines Autopilot-Profils](#update-or-delete-an-autopilot-profile).
 
-3. Wechseln Sie zu dem Profil, das Sie entfernen möchten, und löschen Sie es. Das Profil wird von allen Geräten gelöscht.
+### <a name="update-or-delete-an-autopilot-profile"></a>Aktualisieren Sie oder löschen Sie ein Autopilot-Profil
 
-Wählen Sie unter **Geräte** das Profil aus. Von hier aus können Sie die vorhandenen Einstellungen ändern.
+Wenn ein Kunde die Out-of-Box-Experience zu ändern möchte, nachdem Sie die Geräte geliefert haben, können Sie das Profil in Partner Center ändern.
 
-## <a name="windows-autopilot-eula-dismissal--important-information"></a>Ablehnung der EULA zu Windows AutoPilot – wichtige Informationen
+Wenn das Gerät des Kunden mit dem Internet verbunden ist, wird es die neueste Version der Profile herunterladen, während der Windows-Willkommensseite. Außerdem wird jedes Mal ein Kunde ein Gerät auf die werksseitigen Standardeinstellungen wiederherstellt das Gerät erneut herunter die neueste Version der Profile während des Prozesses der Windows-Willkommensseite.
 
-Mit diesem Tool können Sie individuelle Installationen von Windows auf den von Ihnen für Ihre Kunden verwalteten Geräten konfigurieren. Wenn Sie vom Kunden entsprechend autorisiert wurden, können Sie bestimmte Setupbildschirme unterdrücken oder ausblenden, die Benutzern normalerweise beim Einrichten von Windows angezeigt werden, darunter der Bildschirm für das Annehmen der Endbenutzer-Lizenzvereinbarung. 
+1. Wählen Sie **Kunden** im Partner Center, und wählen Sie dann den Kunden, der Sie ein Autopilot-Profil zu ändern möchten.
 
-Durch die Verwendung dieser Funktion stimmen Sie von Ihrem Kunden die Zustimmung und Autorisierung zur Ausblendung von Seiten mit Benutzerinformationen zu oder zur Annahme von Bedingungen erhalten haben. Sie stimmen außerdem zu, dass Sie im Namen des Kunden (Organisation oder einzelner Benutzer) allen Hinweisen zugestimmt und die geltenden Bestimmungen akzeptiert haben. Dazu gehört auch die Zustimmung zu den allgemeinen Geschäftsbedingungen der Lizenz oder des Hinweises, der dem Benutzer angezeigt werden würde, wenn Sie ihn nicht mit diesem Tool unterdrückt oder ausgeblendet hätten. Ihr Kunde darf die Windows-Software auf diesen Geräten nicht nutzen, wenn der Kunde nicht über eine gültig erworbene Lizenz für die Software von Microsoft oder dessen lizenzierten Distributoren verfügen.
+2. Wählen Sie auf der Detailseite des Kunden die **Geräte aus**.
+
+3. Wählen Sie unter **Windows Autopilot Profile** das Profil, das Sie aktualisieren müssen. Nehmen Sie die erforderlichen Änderungen vor, und wählen Sie dann **übermitteln**.
+
+Wählen Sie aus der oberen rechten Ecke der Seite **Profil löschen** , um diesem Profil zu löschen.
+
+### <a name="add-devices-to-a-customers-account"></a>Hinzufügen von Geräten auf dem Konto eines Kunden
+
+>[!NOTE]
+>Verkaufsvertreter und Admin-Agents können Geräte Konto eines Kunden hinzufügen.
+
+Bevor Sie benutzerdefinierte Autopilot Profile auf Kundengeräte anwenden können, müssen Sie auf dem Gerät der Kundenliste zugreifen können.
+
+Wenn Sie die OEM-Namen, Seriennummer und Modell Kombination verwenden möchten, achten Sie darauf, dass Sie diese Einschränkungen:
+
+- Das Tupel funktioniert nur für neue Geräte (4 k Hashes, z. B.) und wird für 128b Hashes (RS2 und vorherigen Geräte) nicht unterstützt.
+
+- Die Registrierung Tupel ist groß-und Kleinschreibung unterschieden, damit die Daten in der Datei der Hersteller und Modell Namen ***genau*** entsprechen müssen, wie durch den OEM-Anbieter (Hardwareanbieter) bereitgestellt.
+
+Führen Sie die folgenden Anweisungen von Geräten auf dem Konto eines Kunden im Partner Center.
+
+1. Wählen Sie **Kunden** im Partner Center, und wählen Sie dann den Kunden, deren Geräte, die Sie verwalten möchten.
+
+2. Wählen Sie auf der Detailseite des Kunden die **Geräte aus**.
+
+3. Wählen Sie unter **Anwenden von Profilen auf Geräte** **Geräte hinzufügen**.
+
+4. Geben Sie einen Namen für die Liste der Geräte, und wählen Sie dann die Kundenliste (im CSV-Format) für das Partner Center hochladen **Durchsuchen** .
+
+    >[!NOTE]
+    >Sie sollten diese CSV-Datei mit dem Gerät Kauf erhalten haben. Wenn Sie eine CSV-Datei nicht erhalten haben, können Sie selbst erstellen, mithilfe der Schritte im [Windows Autopilot-Geräte hinzufügen](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).  
+
+5. Laden Sie die CSV-Datei, und wählen Sie dann **Speichern**.
+
+Wenn Sie eine Fehlermeldung erhalten, bei dem Versuch, die CSV-Datei hochzuladen, überprüfen Sie das Format der Datei. Sie können nur den Hardwarehash oder den OEM-Namen, Seriennummer, und Modell (in dieser Spaltenreihenfolge) oder die Windows-Produkt-ID. Die Beispiel-CSV-Datei über den Link neben **Hinzufügen Geräte** bereitgestellt können auch um eine Liste der Geräte zu erstellen.
+
+## <a name="windows-autopilot-eula-dismissal"></a>EULA zu Windows Autopilot
+
+### <a name="important-information"></a>WICHTIGE INFORMATIONEN
+
+Windows Autopilot können Sie benutzerdefinierte Installationen von Windows auf Geräten zu konfigurieren, die Sie für Ihre Kunden verwalten. Wenn dazu berechtigt, durch den Kunden, können Sie unterdrücken oder ausblenden bestimmte Setupbildschirme, die normalerweise für Benutzer beim Einrichten von Windows, einschließlich des Endbenutzer-Lizenzvertrag (End User License Agreement) Annahme Bildschirms angezeigt werden.
+
+Durch die Verwendung dieser Funktion stimmen Sie, dass das unterdrücken oder Ausblenden von Bildschirmen, die Benutzer bereitstellen, oder die Annahme von Begriffe bedeutet, dass Sie über ausreichende Zustimmung und Autorisierung von ausblenden Begriffe und, die Sie für Ihre Kunden erworben haben Ihre Kunden (gibt an, ob eine Organisation oder einzelner Benutzer die Groß-/Kleinschreibung), stimmen hinweisen und akzeptiert Begriffe, die an den Kunden relevant sind. Dazu gehört auch die Zustimmung zu den allgemeinen Geschäftsbedingungen der Lizenz oder des Hinweises, der dem Benutzer angezeigt werden würde, wenn Sie ihn nicht mit diesem Tool unterdrückt oder ausgeblendet hätten. Ihr Kunde darf die Windows-Software auf diesen Geräten nicht nutzen, wenn der Kunde nicht über eine gültig erworbene Lizenz für die Software von Microsoft oder dessen lizenzierten Distributoren verfügen.

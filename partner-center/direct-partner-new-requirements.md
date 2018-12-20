@@ -1,19 +1,19 @@
 ---
 title: CSP, direkte Partner neue Anforderungen | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 12/18/2018
 Description: If you are currently enrolled in the CSP program as a direct partner, you should prepare to meet these updated support and services requirements.
-author: labrenne
+program.author: labrenne
 ms.author: labrenne
 keywords: CSP, direkte Partner, direkter Rechnung, Anforderungen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1179109ab7a745b61ee38fa2fdb0a8cde656bc42
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 3282e925c9364d443fca52036dd8ae673a8350c3
+ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917642"
+ms.lasthandoff: 12/20/2018
+ms.locfileid: "8980604"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>Direkte CSP-Partner– Neue Anforderungen
 
@@ -21,30 +21,22 @@ ms.locfileid: "8917642"
 
 - Partner Center
 
-Digitale Transformation wird die Art und Weise weiterentwickelt, die unsere Kunden Geschäfte zu tätigen. Um Schritt zu halten und auch weiterhin außergewöhnliche Service, müssen wir, zu entwickeln. Erfolgreich als Teil des laufenden setzen alle Partner im CSP-Programm teilnehmen und vergrößern, wir haben die Anforderungen für direkte Partner aktualisiert. Diese neuen Anforderungen einzuhalten, unsere Unternehmen und technische Beziehungen mit Partner, die die Infrastruktur haben, Funktion und Vorgänge, die eine Skalierung und wachsen ihre Kunden mit einer höheren als Durchschnitt Geschwindigkeit Basis.
+## <a name="enroll-as-a-direct-partner"></a>Sich als direkter Partner registrieren
 
-Wenn Sie derzeit im CSP-Programm als direkter Partner registriert sind, sollten Sie diese aktualisierte Unterstützung und Dienste von Ihrem nächsten Registrierung erfüllen vorbereiten Zeitraum nach dem 31. August 2018. Wenn Sie nicht (oder nicht bevorzugen) um die neuen Anforderungen zu erfüllen, müssen Sie als CSP-Händler erneut zu registrieren.
+Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit Microsoft. Wir haben die Anforderungen für direkte Rechnung Partner ab 31. August 2018 aktualisiert. Diese neuen Anforderungen können Sie das Wachstum Ihres Unternehmens mit dem richtigen CSP-Registrierung Modell zu beschleunigen und Ihre Kunden festigen mit Mehrwert-Services und Support. 
 
-## <a name="the-new-requirements"></a>Die neuen Anforderungen
+### <a name="minimum-requirements"></a>Mindestanforderungen
 
-**Support**
-
-- Erweitern Sie Ihre Fähigkeiten der Unterstützung durch den Erwerb persönlichen, priorisierten Cloud-Unterstützung mit einem Microsoft erweiterte Support für Partner-Paket. Oder Sie wählen einen Microsoft Premier Support für Partner-Paket auf den vollständigen Katalog der proaktive Dienste zugreifen, 24/7 mit erhöhten Rechten Break-Fix-Unterstützung und technische Kontenverwaltung über die Cloud, Hybrid- und lokale. 
-
-**Dienste**
-
-- Zeigen Sie, dass Sie mindestens ein verwalteter Dienst, IP-Dienst oder Kunden Lösung Anwendung bereitstellen. 
-
-Erfahren Sie mehr über das Hinzufügen von [verwaltete Dienste](https://partner.microsoft.com/business-opportunities/managed-services-provider) 
-
-- Erfüllen Sie die minimale Infrastrukturfunktionen, z. B. Abrechnung und Bereitstellung.
-Wir überwachen jährliche Leistung, um sicherzustellen, dass stetig Unternehmenswachstum, direkte Partner, die diese Anforderungen erfüllt veranschaulicht werden. Es sind keine spezifische Leistungsziele zu diesem Zeitpunkt, aber Microsoft möglicherweise eine Leistung Leiste in Zukunft implementieren. 
-
-## <a name="working-with-an-indirect-provider"></a>Arbeiten mit einem indirekten Anbieter
-
-Partner, die (nicht bevorzugen) oder sind die erforderliche direkte Registrierung erfüllen können Anforderungen als Wiederverkäufer im CSP-Programm teilnehmen. Partner funktioniert als Wiederverkäufer mit einem indirekten Anbieter, die Infrastruktur, Unterstützung und Dienste anbietet. Dies ermöglicht Wiederverkäufern ihre Cloud-Lösung abheben Angebote schnell im Voraus Kostenkontrolle und konzentrieren Sie sich auf die Anforderungen von Kunden zu erfüllen.  
+|**Anforderung**|                             |
+|--------------------------------|--------------------------------------------------------------|
+|**MPN-ID**   |Eine aktive Microsoft Partner Network (MPN)-ID für Ihr Unternehmen Speicherort.   |
+|**Endorsement**   |Die Befugnis zum Akzeptieren und Signieren von Vereinbarungen im Auftrag Ihrer Organisation.|
+|**Support**   |Bereitstellen von der ersten Ebene des Cloud-Produkt für Ihre Kunden unterstützen.|
+|**Managed Service**   |Mindestens ein verwalteter Dienst, IP-Dienst oder Kunden Lösung Anwendung. Erfahren Sie mehr über das Hinzufügen von [verwaltete Dienste](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
+|**Konten h.** |Die Organisations-Infrastruktur für Kunden, die Abrechnung und Bereitstellung verwalten. 
 
 Erfahren Sie mehr darüber, wie Sie einen [CSP-Händler](https://partner.microsoft.com/cloud-solution-provider)
 
+## <a name="transition-from-direct-to-indirect-reseller"></a>Übertragen von direkter, indirekter Händler
 
-
+Wenn Sie von einem Unternehmen Online-Dienst für indirekte Reseller-Geschäfts zu verschieben, gibt es mehrere Schritte, die Sie durchführen müssen. Weitere Informationen zu den Übergang zu erhalten, lesen Sie [Übergang von der Cloud Solution Provider (CSP) direkter Partner, indirekter CSP-Händler](transition-direct-to-indirect) 

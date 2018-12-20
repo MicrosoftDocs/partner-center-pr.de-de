@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: Gebiete, wo i über CSP CSP-Angebote verkaufen kann, Regionen, CSP Märkten verkaufen von Cloudlösungen, globaler CSP
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 19a48a5ffc0ab9a3d2555c47cbf67c0376d771bf
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 456a37e965d7594e29df47437dedb587bff46db3
+ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917672"
+ms.lasthandoff: 12/20/2018
+ms.locfileid: "8980624"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Regionale Märkte für Cloud-Lösungsanbieter-Programm und Währungen
 
@@ -27,7 +27,7 @@ Bevor Sie, dass im Auftrag eines Kunden CSP-Angebote bestellen können, muss der
 >[!IMPORTANT]
 > Ab 7 November 2018, müssen Sie bestätigen, dass ein Kunde den Microsoft-Cloud-Vertrag enthält Informationen über die Person, die es signiert akzeptiert hat. Weitere Informationen finden Sie in der [Annahme ein Kunde, der Vereinbarung für Microsoft Cloud bestätigen](confirm-consent.md) .
 
-Um zu bestimmen, in denen Sie CSP-Angebote verkaufen können, finden Sie Ihres Unternehmens-Position in einer der folgenden Listen.
+Um zu bestimmen, in denen Sie CSP-Angebote verkaufen können, finden Sie Ihres Unternehmens-Position in einer der folgenden Listen. Sie müssen eine aktive Microsoft Partner Network (MPN)-ID für den Standort verfügen, die Sie in verkaufen möchten.  
 
 ## <a name="africa-region-and-market"></a>Afrika und Auswählen der Märkte
 
@@ -375,9 +375,9 @@ Wenn Ihr Unternehmen Russland ist, können Sie CSP-Angebote an Kunden in Russlan
 |  Russland         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>Taiwan Region und Auswählen der Märkte
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+Wenn Ihr Unternehmen Taiwan ist, können Sie den CSP-Angebote an Kunden in Taiwan verkaufen.
 
 |  Land/Region | Währung |
 |  -------------- |:--------:|

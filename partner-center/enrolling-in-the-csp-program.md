@@ -6,12 +6,12 @@ description: Grundlegendes zu den verschiedenen Modellen für den Verkauf in CSP
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 35a23762cb187eb9277a88c8ac54abf694a823b5
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: dddd94e08dd4f79050a48e50659c4e716522153e
+ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796593"
+ms.lasthandoff: 12/20/2018
+ms.locfileid: "8980614"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud Solution Provider
 
@@ -24,90 +24,53 @@ ms.locfileid: "5796593"
 
 Um sich beim Programm für Cloud Solution Provider zu registrieren, benötigen Sie zuerst eine MPN-ID. Sie besitzen noch keine? Treten Sie [hier](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=) bei.
 
-Beim Ausfüllen der CSP-Anwendungs benötigen Sie Ihre MPN-ID, vollständige Geschäftsadresse, Bankverbindungen und die e-Mail-Adresse für den Mitarbeiter, der als Administrator für das Partner Center fungiert.
+Beim Ausfüllen der CSP-Anwendungs benötigen Sie Ihre MPN-ID, vollständige Geschäftsadresse, Bankverbindungen und die e-Mail-Adresse des Mitarbeiters, der als Administrator für das Partner Center fungiert.
 
 Entscheiden Sie, welches [CSP-Modell zutrifft](https://partnercenter.microsoft.com/en-us/cloud-solution-provider/csp-enrollment) und führen Sie den Prozess durch. 
 
 Die Überprüfung Ihrer Angaben kann mehrere Tage dauern. Wir werden Sie per E-Mail informieren, wenn unsere Überprüfung abgeschlossen ist.
 
 > [!IMPORTANT]  
-> Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Diese Einschränkung gilt nur für Mandanten, die für die Durchführung von CSP-Transaktionen verwendet werden. CSP-Partner, die einen Nicht-CSP-Mandanten für ihre Unternehmensnutzung verwenden, können Onlinedienste von einem anderen CSP-Partner erwerben. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Neuigkeiten künftigen Versionen werden einschließlich dem Partner Center über die üblichen Kommunikationskanäle vorgenommen.
+> Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Diese Einschränkung gilt nur für Mandanten, die für die Durchführung von CSP-Transaktionen verwendet werden. CSP-Partner, die einen nicht-Csp-Mandanten für seine geschäftlichen verwenden, können Onlinedienste von einem anderen CSP-Partner erwerben. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Neuigkeiten künftigen Versionen werden einschließlich [Partner Center](https://partner.microsoft.com/en-us/pcv/announcements)über die üblichen Kommunikationskanäle vorgenommen.
 
 ### <a name="enroll-as-an-indirect-reseller"></a>Sich als indirekter Wiederverkäufer registrieren
 
+Die rasant wachsende Nachfrage nach cloudbasierten Lösungen und Diensten bietet Microsoft-Partnern aller Größen zahlreiche Chancen für den Aufbau eines rentablen Cloudlösungsgeschäfts. Partner, die auf diesem Markt Fuß fassen möchten, die jedoch nicht mehrere Anbieter verwalten möchten, oder über keine End-to-End-Infrastruktur für die Kundenverwaltung verfügen, können sich beim Microsoft-Programm für Cloud-Lösungsanbieter (Cloud Solution Provider, CSP) als indirekter Vertriebspartner registrieren.
 
-1. Nachdem Sie sich als indirekten Händler registriert haben, müssen Sie [einen indirekten Anbieter](https://partnercenter.microsoft.com/partner/find-a-provider) finden. Der Anbieter, mit dem Sie zusammenarbeiten, sendet Ihnen Kunden, verwalten den Erwerb der Software, die Sie verkaufen und erledigt die Kundenabrechnung und den Support, damit Sie sich auf den Aufbau Ihres Reseller-Geschäfts konzentrieren können.
+Als indirekter Vertriebspartner in CSP arbeiten Sie mit indirekten Anbietern (auch Distributoren genannt) zusammen, die eine direkte Partnerschaft mit Microsoft haben und Kundensupport sowie Abrechnungsleistungen erbringen können. Sie können bei Ihren ersten Schritten also von der Unterstützung durch einen erfahrenen Technologieanbieter profitieren. Im Rahmen des (zweistufigen) Anbieter-Vertriebspartner-Modells erwirbt der Anbieter Cloudlösungen und -dienste von Microsoft, die Sie dann an Kunden weiterverkaufen.
 
-2. Der globale Administrator sollte Ihr Konto im Partner Center einrichten. Der globale Administrator Ihrer Organisation hinzufügen kann Mitarbeiter, die im Partner Center arbeiten, weisen Sie diesen Rollen und Berechtigungen je nach deren Arbeit damit werden dadurch und das Organisationsprofil einrichten.
+Verschiedene indirekte Anbieter bieten unterschiedliche Unterstützung und Leistungen. Ermitteln Sie daher die Anbieter in Ihrer Umgebung, die Ihre Anforderungen am besten erfüllen. Die meisten Anbieter bieten Folgendes: 
 
-3. Ihre Mitarbeiter erhalten eine E-Mail mit ihren temporären Kennwörtern. Sie sollten in das Partner Center anmelden und das Kennwort ändern. Sie können danach mit der Arbeit beginnen.
+• Bieten Sie technische Schulung und Unterstützung
 
-4. Der Mitarbeiter, der die Rolle des Unternehmensprofil-Administrator ausführt, sollte Ihr Unternehmensprofil einrichten, damit Sie Empfehlungen für Kunden erhalten können.
+• Hilfe Sie Ihre Produkte und Dienste zu vermarkten 
+
+• Hilfe, die Sie bei finanzierungs- und Kreditbedingungen
+
+Falls Sie noch nicht mit einem Anbieter (oder Distributor) zusammenarbeiten, können Sie die [Liste mit den offizieller Microsoft-Anbietern](https://partnercenter.microsoft.com/partner/find-a-provider) durchsuchen.
+
+Weitere Informationen zu den Anforderungen für den Vertrieb im CSP-Programm als indirekter Reseller finden Sie unter [Erste Schritteals indirekter Reseller](https://partner.microsoft.com/cloud-solution-provider/whats-required) auf der [Microsoft Partner Network-Website](https://partner.microsoft.com/). 
+
 
 ### <a name="enroll-as-a-direct-partner"></a>Sich als direkter Partner registrieren
 
-Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit Microsoft.
+Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit Microsoft. Wir haben die Anforderungen für direkte Rechnung Partner ab 31. August 2018 aktualisiert. Diese neuen Anforderungen können Sie das Wachstum Ihres Unternehmens mit dem richtigen CSP-Registrierung Modell zu beschleunigen und Ihre Kunden festigen mit Mehrwert-Services und Support. 
 
-- Sobald Sie angemeldet sind und die Kriterien als direkter Partner erfüllen, kann der globale Administrator Ihr Konto einrichten, Mitarbeiter hinzufügen, diesen Rollen und Berechtigungen gemäß ihrer Arbeit zuweisen und das Organisationsprofil einrichten. 
+### <a name="minimum-requirements"></a>Mindestanforderungen
 
-- Wenn Sie mit dem Kunden, die Sie gearbeitet haben Testabfragen über das Partner Center fortsetzen möchten, müssen Sie zum [Zuordnen von Vertriebspartnern](request-a-relationship-with-a-customer.md) zu Ihrem Konto im Partner Center.  Microsoft kann so die Abrechnung und Fakturierung mit Ihnen verbinden. 
+|**Anforderung**|                             |
+|--------------------------------|--------------------------------------------------------------|
+|**MPN-ID**   |Eine aktive Microsoft Partner Network (MPN)-ID für Ihr Unternehmen Speicherort.   |
+|**Endorsement**   |Die Befugnis zum Akzeptieren und Signieren von Vereinbarungen im Auftrag Ihrer Organisation.|
+|**Support**   |Bereitstellen von der ersten Ebene des Cloud-Produkt für Ihre Kunden unterstützen.|
+|**Managed Service**   |Mindestens ein verwalteter Dienst, IP-Dienst oder Kunden Lösung Anwendung. Erfahren Sie mehr über das Hinzufügen von [verwaltete Dienste](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
+|**Konten h.** |Die Organisations-Infrastruktur für Kunden, die Abrechnung und Bereitstellung verwalten. 
 
-> [!NOTE]  
->  Die Anforderungen für eine direkte Partnerschaft zuletzt geändert wurden und wirksam ab dem 31. August 2018. Direkte Partner müssen die neue ab ihrer nächsten Registrierungsperiode nach dem 31. August 2018 erfüllen.
 
-#### <a name="new-expanded-requirements"></a>Neue erweiterte Anforderungen:
 
-Unterstützung
-- Erweitern Sie Ihre Fähigkeiten Unterstützung durch den Erwerb persönlichen, priorisierte Cloud-Unterstützung mit einer Microsoft erweiterte Support für Partner-Paket. Oder Sie wählen einen Microsoft Premier Support für Partner-Paket auf den vollständigen Katalog der proaktive Dienste zugreifen, 24/7 mit erhöhten Rechten Break-Fix-Support und technische Kontenverwaltung über Cloud, Hybrid- und lokale. 
+## <a name="csp-regional-markets-and-currencies"></a>Regionale CSP-Märkte und Währungen
 
-Dienste
-
-- Führen Sie vor, dass Sie mindestens ein verwalteter Dienst, IP-Dienst oder Kunden Lösung Anwendung bereitstellen. Erfahren Sie mehr über das Hinzufügen von verwaltete Dienste
-
-- Die minimale Infrastrukturfunktionen, z. B. Abrechnung und Bereitstellung zu erfüllen.
-Wir sind Überwachen der jährlichen Leistung um sicherzustellen, dass Online-Dienst-Partner, die diese Anforderungen erfüllt sind, stationäre Unternehmenswachstum veranschaulicht. Es gibt keine spezifische Leistungsziele im Ort zu diesem Zeitpunkt, aber Microsoft möglicherweise eine Leistung Leiste in Zukunft implementieren. 
-
-- Eine aktive Microsoft Partner Network (MPN)-ID für den Standort, in dem Sie den Verkauf tätigen möchten
-
-|**Verfügbarkeit nach Markt**|
-|----------------------------------------------------------------------------------------------|
-| Brasilien  |
-| Kanada  |
-| Indien   |
-| Japan   |
-| Korea   |
-| Neuseeland |
-| Russland  |
-| Taiwan  |
-| USA |
-| Australien, Fidschi  |
-| Anguilla, Antarctica, Antigua und Barbuda, Argentinien, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivien, Bonaire, Saba, St. Eustatius, Britische Jungferninseln, Kaimaninseln, Chile, Kolumbien, Costa Rica, Curacao, Dominica, Dominikanische Republik, Ecuador, El Salvador, Falklandinseln, French Guiana, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaika, Martinique, Mexiko, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts und Nevis, Saint Lucia, Saint Martin, St. Vincent und die Grenadinen, St. Eustatius, St. Maarten, Südgeorgien und die Südlichen Sandwichinseln, Suriname, Trinidad und Tobago, Turks- und Caicosinseln, U.S. Virgin Islands, Uruguay, Venezuela |
-| Ålandinseln, Andorra, Österreich, Belgien, Bouvetinsel, Bulgarien, Kroatien, Zypern, Tschechische Republik, Dänemark, Estland, Finnland, Frankreich, Deutschland, Griechenland, Grönland, Guernsey, Ungarn, Island, Irland, Isle of Man, Italien, Jan Mayen, Jersey, Lettland, Liechtenstein, Litauen, Luxemburg, Madagaskar, Malawi, Mali, Malta, Mayotte, Monaco, Niederlande, Neukaledonien, Norwegen, Polen, Portugal, Rumänien, San Marino, Slowakei, Slowenien, Spanien, Svalbard, Schweden, Schweiz, Vereinigtes Königreich, Vatikanstadt, Färöer  |
-| Afghanistan, Albanien, Algerien, Armenien, Aserbeidschan, Bahrain, Belarus, Benin, Bosnien und Herzegowina, Britisches Territorium im Indischen Ozean, Burkina Faso, Burundi, Zentralafrikanische Republik, Chad, Komoren, Kongo, Kongo (DRK), Djibouti, Ägypten, Äquatorialguinea, Eritrea, Französisch-Polynesien, Gabon, Gambia, Guinea, Guinea-Bissau, Georgien, Irak, Israel, Jordanien, Kasachstan, Kosovo, Kuwait, Kirgisistan, Libanon, Lesotho, Liberia, Libyen, Republik Mazedonien (Ehemalige jugoslawische Republik Mazedonien), Madagaskar, Malawi, Mali, Mauretanien, Mayotte, Republik Moldau, Mongolei, Montenegro, Marokko, Mosambik, Neukaledonien, Niger, Oman, Pakistan, Palästinensische Behörde, Katar, Réunion, Saudi-Arabien, Serbien, Seychellen, Sierra Leone, Somalia, Südafrika, Swasiland, Tadschikistan, Togo, Tunesien, Türkei, Turkmenistan, Ukraine, Vereinigte Arabische Emirate, Usbekistan, Jemen, Simbabwe. |
-| Angola, Botsuana, Kamerun, Cabo Verde, Côte d'Ivoire, Äthiopien, Ghana, Kenia, Mauritius, Namibia, Nigeria, Ruanda, Senegal, Tansania, Uganda, Sambia |
-| Amerikanisch-Samoa, Bangladesch, Bhutan, Brunei Darussalam, Kambodscha, Weihnachtsinsel, Kokosinseln, Cookinseln, Guam, Heard und McDonaldinseln, Hongkong SAR, Indonesien, Kiribati, Laos, Macau (SAR), Malaysia, Malediven, Marshallinseln, Mikronesien, Myanmar, Nauru, Nepal, Niue, Norfolkinsel, Nördliche Marianen, Palau, Papua-Neuguinea, Philippinen, Pitcairninseln, Samoa, Singapur, Salomonen, Sri Lanka, Thailand, Tokelau, Tonga, Tuvalu, Vanuatu, Vietnam, Wallis und Futuna |
-
-## <a name="billing-currencies-by-country"></a>Abrechnungswährungen nach Land
-
-Ihr geografischer Standort bestimmt die Währung, in der Ihre Rechnungen gestellt werden, wie in der folgenden Tabelle gezeigt. Hinweis: Wenn Sie eine andere Abrechnungswährung verwenden möchten, müssen Sie aufgrund von steuerlichen und rechtlichen Auswirkungen einen neuen Mandanten erstellen und diese Währung angeben. 
-
-| **Währung** | **Land** |
-| ---- | ---- |
-| USD | Albanien und St. Eustatius, Anguilla, Antarktis, Antigua und Barbuda, Argentinien, Armenien, Aruba, Aserbeidschan, Bahamas, Bahrain, Bangladesch, Barbados, Belarus, Belize, Benin, Bermuda, Bolivien, Bonaire, Brasilien, Britisches Territorium im Indischen Ozean, Brunei Darussalam, Burundi, Kamerun, Kaimaninseln, Zentralafrikanische Republik, Chile, Kolumbien, Komoren, Costa Rica, Curaçao, Dominikanische Republik, Ecuador, Ägypten, El Salvador, Äquatorialguinea, Fidschi, Französisch-Guayana, Französisch-Polynesien, Georgien, Ghana, Guatemala, Guinea-Bissau, Honduras, Hongkong (SAR), Indonesien, Irak, Israel, Jamaika, Kasachstan, Kenia, Kuwait, Kirgisistan, Libanon, Lesotho, Macau SAR, Madagaskar, Malawi, Malaysia, Mali, Mauretanien, Mauritius, Mayotte, Mexiko, Marokko, Namibia, Neukaledonien, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Peru, Philippinen, Puerto Rico, Katar, Réunion, Ruanda, Saba, St. Lucia, St. Martin, St. Vincent und die Grenadinen, Saudi-Arabien, Serbien, Seychellen, Sierra Leone, Singapur, St. Maarten, Somalia, Südafrika, Sri Lanka, Suriname, Swasiland, Tansania, Thailand, Timor-Leste, Togo, Trinidad und Tobago, Tunesien, Türkei, Turks- und Caicosinseln, Amerikanische Jungferninseln, Ukraine, Vereinigte Arabische Emirate, Vereinigte Staaten, Uruguay, Venezuela, Vietnam, Yemen. | 
-| TWD | Taiwan |
-| SEK | Schweden |
-| INR | Indien |
-| RUB | Russland |
-| NZD | Neuseeland, Vanuatu |
-| NOK | Jan Mayen, Norwegen, Svalbard |
-| KRW | Südkorea |
-| JPY | Japan |
-| GBP | Isle Of Man, Jersey, Vereinigtes Königreich |
-| EUR | Andorra, Österreich, Belgien, Bouvetinsel, Kroatien, Tschechische Republik, Estland, Färöer, Finnland, Frankreich, Deutschland, Griechenland, Ungarn, Island, Irland, Italien, Lettland, Liechtenstein, Litauen, Luxemburg/Belgien, Niederlande, Polen, Portugal, Rumänien, San Marino, Slowakei, Slowenien, Spanien |
-| DKK | Dänemark |
-| CHF | Schweiz |
-| CAD | Kanada |
-| AUD | Australien, Weihnachtsinsel, Kokosinseln, Cookinseln, Fidschi, Heard und McDonaldinseln, Kiribati, Marshallinseln, Nauru, Niue, Norfolkinsel, Nördliche Marianen, Palau, Papua-Neuguinea, Pitcairninseln, Salomonen, Tokelau, Tonga, Tuvalu, Wallis und Futuna. |
+Ihres Unternehmens-Standort bestimmt die Markt. Ihren Markt enthält der Regionen bzw. Ländern, in denen Sie CSP-Angebote verkaufen können. Finden Sie unter Markt Speicherorte und Währungen [regionale Märkte für Cloud-Lösungsanbieter-Programm](regional-authorization-overview) und Währungen verwendet
 
 
 

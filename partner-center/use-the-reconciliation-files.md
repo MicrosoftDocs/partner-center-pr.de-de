@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 188f6fe28277cfab624d407bb47157f2dce7e854
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 50af14ab0e8edf6cd4576be6615cd7238b23bd99
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683819"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990992"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -49,7 +49,7 @@ Partner im indirekten Modell können diese zusätzlichen Felder in den beiden li
 <td>MPN-ID der Handelspartner</td>
 <td><p>Wird nur in den Abstimmungsdateien für Partner im indirekten Modell angezeigt.</p>
 <p>Die MPN-ID des registrierten Handelspartners für das Abonnement. Dies entspricht der Handelspartner-ID, die für das spezifische Abonnement im Partner Center aufgeführt ist.</p>
-<p>Wählen Sie zum Anzeigen oder Aktualisieren des Handelspartners im Menü "Partner Center" Wählen Sie <strong>Kunden</strong>, und wählen Sie den Kunden aus der Liste. Wählen Sie im Menü „Kunden” <strong>Abonnements</strong> und dann das Abonnement aus der Liste aus. Wählen Sie <strong>Aktualisieren</strong> aus, um <strong>Vertriebspartner (MPN-ID)</strong> zu ändern.</p>
+<p>Wählen Sie zum Anzeigen oder Aktualisieren des Handelspartners im Partner Center-Menü wählen <strong>Kunden</strong>aus, und wählen Sie den Kunden aus der Liste. Wählen Sie im Menü „Kunden” <strong>Abonnements</strong> und dann das Abonnement aus der Liste aus. Wählen Sie <strong>Aktualisieren</strong> aus, um <strong>Vertriebspartner (MPN-ID)</strong> zu ändern.</p>
 <p>Wenn ein CSP-Partner das Abonnement direkt an den Kunden veräußert hat, wird seine MPN-ID zweimal aufgeführt: als MPN-ID und als MPN-ID des Handelspartners.</p>
 <p>Wenn ein CSP-Partner über einen Handelspartner ohne MPN-ID verfügt, wird dieser Wert stattdessen auf die MPN-ID des Partners festgelegt.</p>
 <p>Wenn der CSP-Partner eine Handelspartner-ID entfernt, wird dieser Wert auf-1 festgelegt.</p></td>
@@ -571,7 +571,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund 
 <p>Anteilige Gebühren beim Kauf</p>
 </td>
 <td>
-<p>Anteilige Gebühren beim Kauf</p>
+<p>Der Typ der Abrechnung für ein Abonnement bei Verwendung der jährlichen Abrechnung</p>
 </td>
 </tr>
 <tr>
@@ -579,7 +579,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund 
 <p>Kaufgebühr</p>
 </td>
 <td>
-<p>Anfängliche Gebühr für ein Abonnement</p>
+<p>Der Typ der Abrechnung für ein Abonnement Verwendung monatliche Abrechnung</p>
 </td>
 </tr>
 <tr>

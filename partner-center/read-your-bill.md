@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Abonnementabrechnungen, Abrechnung, Abrechnung im Partner Center, Partner Center-Abrechnung, meine Rechnung lesen, Rechnung, Rechnung für Partner Center, CSP-Abrechnung, wo ist meine Rechnung?
 ms.localizationpriority: medium
-ms.openlocfilehash: 070d0c78acf9b8af016e1a1d46040fb5de780e97
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683789"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990932"
 ---
 # <a name="read-your-bill"></a>Informationen zu Ihrer Rechnung
 
@@ -23,7 +23,7 @@ ms.locfileid: "8683789"
 -  Partner Center für Microsoft Cloud for US Government
 
 
-Ihre Rechnung wechseln Sie zum Menü " **Partner Center** ", und wählen Sie dann die **Abrechnung** , um Ihren Abrechnungsverlauf und -Trend, Links zu Ihrer Rechnung und abstimmungsdatei sowie Ihre letzte Zahlung anzeigen anzuzeigen.
+Ihre Rechnung wechseln Sie zum Menü " **Partner Center** ", und wählen Sie dann, **Abrechnung** , um Ihren Abrechnungsverlauf und -Trend, Links zu Ihrer Rechnung und abstimmungsdatei sowie Ihre letzte Zahlung anzeigen anzuzeigen.
 
 Partner im Cloud Solution Provider-Programm mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte und die nutzungsbasierte Abonnements).
 
@@ -57,7 +57,7 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 </tr>
 <tr class="even">
 <td>Rechnungsempfänger</td>
-<td>Die Adresse, an die wir Ihre Rechnung senden. Um diese Adresse zu ändern, wechseln Sie zu Einstellungen > Partnerabrechnungsprofil. </td>
+<td>Die Adresse, an die wir Ihre Rechnung senden. Um den Namen des Unternehmens oder die Adresse zu ändern, bearbeiten Sie Ihr Partner Center-Profil Abrechnung. </td>
 </tr>
 <tr class="odd">
 <td>Lizenzbasierte Gebühren</td>
@@ -105,11 +105,11 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 </tr>
 <tr class="odd">
 <td>Abrechnungszeitraum</td>
-<td>Für CSP-Partner erfolgt die Abrechnung monatlich oder jährlich.</td>
+<td>Die monatlichen Zeitraum für das Rechnungsdatum. Dies ist der Zeitraum, während dessen nutzungsbasierte Dienste genutzt werden, und lizenzbasierte Dienste für Gutschrift Anpassungen oder Änderungen der Anzahl der Lizenzen abgestimmt werden.</td>
 </tr>
 <tr class="even">
 <td>Rechnungsdatum</td>
-<td>Das Ausstellungsdatum Ihrer Rechnung.</td>
+<td>Ihr Abrechnungsdatum oder Jahrestag, die auf dem Ihre Rechnung jeden Monat generiert wird.</td>
 </tr>
 <tr class="odd">
 <td>Zahlungsbedingungen</td>
@@ -129,7 +129,7 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 </tr>
 <tr class="odd">
 <td>Dienstempfänger</td>
-<td>Die Adresse, an der der Dienst verwendet wird. (Dies ist die rechtlich gültige Unternehmensadresse. Sie ist mit der Unternehmensprüfung verknüpft und kann nicht geändert werden.)</td>
+<td>Die Adresse, an der der Dienst verwendet wird. (Dies ist die rechtlich gültige Unternehmensadresse-Adresse, die mit der unternehmensprüfung verknüpft ist.)</td>
 </tr>
 </tbody>
 </table>

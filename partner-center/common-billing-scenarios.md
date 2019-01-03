@@ -8,18 +8,18 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: df555040c02f3317445efd391d84684f1a7e6dac
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b4dbfe0b325f4ab9741ae4510fa8e651d7216ac9
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795633"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990962"
 ---
 # <a name="common-billing-scenarios"></a>Allgemeine Abrechnungsszenarien
 
 **Betrifft**
 
--   Cloud Solution Provider-Programm Abrechnung
+-   Cloud-Lösungsanbieter-Programm Abrechnung
 
 In diesem Thema wird erläutert, was auf Ihrer Rechnung nach dem Hinzufügen neuer Abonnements, dem Anpassen der Lizenzen für ein Abonnement oder dem Kündigen eines Abonnements angezeigt werden sollte. Die Auswirkungen fallen für nutzungsbasierte und lizenzbasierte Abonnements unterschiedlich aus.
 
@@ -32,6 +32,8 @@ In diesem Thema wird erläutert, was auf Ihrer Rechnung nach dem Hinzufügen neu
 ## <a href="" id="usagebased"></a>Nutzungsbasierte Abrechnung
 
 Nutzungsbasierte Abonnements werden monatlich zum Dauerauftragsdatum abgerechnet. Wenn beispielsweise das Abonnementdatum am 15. ist, werden Sie am 15.Januar für den Zeitraum vom 15.Dezember – 14.Januar belastet. Sie werden am 15.Februar für den Zeitraum vom 15.Januar – 14.Februar in Rechnung gestellt usw. Die Gebühren, die für das Abonnementdatum generiert werden, werden in der folgenden Rechnungs- und Abstimmungsdatei angezeigt.
+
+Es kann vorkommen, dass einige Nutzungsgebühren in Ihrer Rechnung fehlen oder Nutzung einer vorherigen Monats in Rechnung für den aktuellen Monat berechnet wird. Dies ist kein Fehler. Es bedeutet lediglich, dass der Dienst Zeitstempel wurde, nachdem die Dienste aufgetreten ist. Verwendung innerhalb von 24 Stunden an das Ende des Abrechnungszeitraums gemeldet wird auf den nächsten Monat Rechnung angezeigt. 
 
 Nutzungsbasierte Abonnements können jederzeit angehalten werden. 
 

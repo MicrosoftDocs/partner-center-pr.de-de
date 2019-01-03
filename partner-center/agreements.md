@@ -2,32 +2,32 @@
 title: Microsoft Cloud Agreement-Kundenvorlagen | Partner Center
 ms.topic: article
 ms.date: 11/03/2018
-description: Suchen Sie und herunterladen Sie Region und Sprache-spezifische Versionen von Microsoft Cloud Agreement mit Ihren Kunden überprüfen.
+description: Suchen und Herunterladen von Region und Sprache-spezifische Versionen von Microsoft Cloud Agreement mit Ihren Kunden überprüfen.
 author: Maggie Evans
 ms.author: evensma
 keywords: Microsoft-Cloud-Verträge, Vorlagen für Kundenverträge, CSP-Vereinbarungen für Kunden, MCA, MCAs, CSP, wo kann ich über CSP verkaufen?, CSP-Länder und -Regionen, CSP-MCAs in mehreren Sprachen, CSP Nordamerika, CSP Mittelamerika, CSP Südamerika, CSP Karibik, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud Deutschland, CSP Naher Osten, CSP Afrika, CSP Europa, CSP Asien, CSP Pazifik, CSP-MCAs
 ms.localizationpriority: medium
-ms.openlocfilehash: a664c2bd9486f2f3b32dc09a7d47d32eb9913ed0
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: c3afd36ff14f40ec293ff8dcbda1833d56265c0b
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776534"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990982"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Microsoft Cloud-Verträge nach Region und Sprache
 
-**Betrifft:**
+**Gilt für:**
 
 - CSP-Partner
 
-Bevor Sie eine Bestellung auf im Auftrag des Kunden platzieren können, muss der Kunde akzeptieren und melden Sie den Microsoft-Cloud-Vertrag.
+Damit Sie eine Bestellung im Namen des Kunden festlegen können, muss der Kunde akzeptieren und melden Sie den Microsoft-Cloud-Vertrag.
 
 >[!IMPORTANT]
-> Ab 7 November 2018, müssen Sie bestätigen, dass ein Kunde den Microsoft-Cloud-Vertrag enthält Informationen über die Person, die es signiert akzeptiert hat. Weitere Informationen finden Sie in der [ein Kunde Abnahme der Vereinbarung für Microsoft Cloud zu bestätigen](confirm-consent.md) .
+> Ab 7 November 2018, müssen Sie bestätigen, dass ein Kunde den Microsoft-Cloud-Vertrag enthält Informationen über die Person, die es signiert akzeptiert hat. Weitere Informationen finden Sie in der [Annahme ein Kunde, der Vereinbarung für Microsoft Cloud bestätigen](confirm-consent.md) .
 
-Microsoft-Cloud-Verträge sind regionsspezifische und in mehreren Sprachen verfügbar. Finden Sie Speicherort und bevorzugte Sprache des Kunden eines der unten stehenden Liste den richtigen Vertrag herunterladen.
+Microsoft-Cloud-Verträge sind regionsspezifische und in mehreren Sprachen verfügbar. Finden Sie in einem der unten stehenden Liste Standort und die bevorzugte Sprache des Kunden zum Herunterladen von des richtigen Vertrags.
 
-Wenn Sie nicht sicher sind, welche Regionen und Märkte, die Sie verkaufen können, finden Ihr Unternehmen für seine Position in dieser Liste: [regionale Märkte für Cloud-Lösungsanbieter-Programm und Währungen](regional-authorization-overview.md).
+Wenn Sie nicht sicher sind, welche Regionen und Märkte Sie verkaufen können, finden Ihr Unternehmen für seine Position in dieser Liste: [regionale Märkte für Cloud-Lösungsanbieter-Programm und Währungen](regional-authorization-overview.md).
 
 <!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
@@ -120,7 +120,7 @@ Wenn Sie nicht sicher sind, welche Regionen und Märkte, die Sie verkaufen könn
 - Georgien: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Deutschland: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [Deutsch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_Sep20172_CR.pdf)
     
-    In Deutschland müssen der Kriminelle Code (Abschnitt 203) und die professional Verhaltensregeln bestimmte Client-Beziehungen sind, z. B. die Beziehung zwischen Patienten und ihre medizinische Ärzte und die Beziehung zwischen vertraulich zu Anwälte und ihren Clients. Diese beruflichen Gruppen müssen Berufsgeheimnis sicherstellen. Für diese und andere Berufe cloudbasierten Diensten von Cloud-Lösungsanbieter beziehen muss der Cloud-Dienstanbieter eine schriftliche Vereinbarung mit dem Kunden schließen, die Berufsgeheimnis sicherstellt.
+    In Deutschland müssen der Kriminelle-Code (Abschnitt 203) und die professional Verhaltensregeln bestimmte Client-Beziehungen sind, z. B. die Beziehung zwischen Patienten und ihre medizinische Ärzte und die Beziehung zwischen vertraulich zu Anwälte und ihren Clients. Diese beruflichen Gruppen müssen Berufsgeheimnis sicherzustellen. Für diesen und anderen Berufe cloudbasierten Diensten von Cloud-Lösungsanbieter zu erwerben muss der Cloud-Dienstanbieter eine schriftliche Vereinbarung mit dem Kunden schließen, die Berufsgeheimnis wird sichergestellt, dass.
 
     Wenn Sie in Deutschland arbeiten, müssen Sie diese Änderung Berufsgeheimnis für Ihre Kunden zusätzlich zu den Microsoft-Cloud-Vertrag bereitzustellen.
 
@@ -205,7 +205,7 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 - Guinea: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [Französisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf)    
 - Guinea-Bissau: [Portugiesisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_PTE_Sep20172_CR.pdf)
 - Irak: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep2017_CR.pdf), [Arabisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
-- Israel: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [Hebräisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_HEB_Sep20172_CR.pdf)  
+- Israel: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)  
 - Jordanien: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [Arabisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
 - Kenia: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)     
 - Kosovo: [Englisch](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)

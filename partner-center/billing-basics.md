@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: Abrechnung, Zahlungen, Aufträge, Abbruch, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Abstimmungsdateien, Abstimmungsdatei
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 96a859fda2ba8641c701888c4a865b1a1278c268
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: eebf3573cdb6724497bb7933d7edc08879dc8e5e
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917602"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990942"
 ---
 # <a name="billing-overview"></a>Übersicht über die Abrechnung
 
@@ -37,7 +37,7 @@ Je nach der Produkte, Lösungen und Dienste, die Sie im Auftrag Ihrer Kunden kau
 
     Wenn Sie Azure Reservations oder andere Software-Abonnements kaufen, bezahlen im Voraus für einen vordefinierten Zeitraum. Da Sie im Voraus bezahlen, sind Sie in einem Pauschbetrag Rechnung. 
     
-Wenn Sie monatlich in Rechnung gestellt haben, oder wenn Sie nutzungsbasierte Produkte gekauft haben, die monatlich in Rechnung gestellt werden, ist Ihr monatliche Abrechnungsdatum der Tag des Monats, die Sie ausgewählt, wenn Sie Ihr CSP-Konto im Partner Center erstellt haben. Nachdem Sie Ihr CSP-Konto erfolgreich erstellt haben, sendet Microsoft eine Bestätigungs-e-Mail, die Ihr Abrechnungsdatum enthält.
+Wenn Sie monatlich in Rechnung gestellt haben, oder wenn Sie nutzungsbasierte Produkte gekauft haben, die monatlich in Rechnung gestellt werden, ist Ihr monatliche Abrechnungsdatum der Tag des Monats, die Sie ausgewählt, wenn Sie Ihr CSP-Konto im Partner Center erstellt haben. Nachdem Sie Ihr CSP-Konto erfolgreich erstellt haben, sendet Microsoft eine Bestätigungs-e-Mail, die Ihr Abrechnungsdatum enthält. Sobald Sie erstellt wurden, kann nicht diesem Datum geändert werden. 
 
 ## <a name="pricing-and-invoicing"></a>Preise und Fakturierung
 Preislisten sind 1 Monat im Voraus verfügbar, da sie monatlich aktualisiert werden. Lizenzbasierte Preise sind für die Dauer des Abonnements, in der Regel 12 Monate nach dem Kaufdatum, garantiert. Nutzungsbasierte Preise können sich monatlich ändern. 

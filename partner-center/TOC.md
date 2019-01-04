@@ -12,9 +12,10 @@
 
 # [Cloud Solution Provider](csp-overview.md)
 ## [Registrieren für das Programm für Cloud Solution Provider](enrolling-in-the-csp-program.md)
-## [Direkte CSP-Partner– Neue Anforderungen](direct-partner-new-requirements.md) 
+## [Direkte CSP-Partner – Neue Anforderungen](direct-partner-new-requirements.md) 
 ## [Registrieren als Control Panel-Anbieter](enroll-as-cpv.md)
-## [CSP-Vereinbarungen, Preislisten und Angebote](csp-documents-and-learning-resources.md)
+###[Sie müssen auf Ihrem Mandanten für den Zugriff auf diese Seite Multi-Factor Authentication (MFA) aktivieren.](enable-mfa.md)
+## [CSP-Verträge, Preislisten und Angebote](csp-documents-and-learning-resources.md)
 ## [Regionale CSP-Märkte und Währungen](regional-authorization-overview.md)
 ## [Microsoft Cloud-Verträge nach Region und Sprache](agreements.md)
 

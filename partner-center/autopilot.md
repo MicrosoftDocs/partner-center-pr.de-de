@@ -4,12 +4,12 @@ description: Vorkonfigurieren eines Geräts Out-of-Box-Experience mit Autopilot-
 author: maggiepuccievans
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero-Touch Deployment, Windows-Willkommensseite, Anmeldebildschirme, Out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 7df979042799954c5b43a2adef1915941db02e57
-ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
+ms.openlocfilehash: 70740212f433ad6eb4f2f04d63708fff436024ad
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/19/2018
-ms.locfileid: "8976807"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995934"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a><span data-ttu-id="9d6a2-104">Anpassen des Geräts Out-of-Box-Experience mit Windows Autopilot-Profilen</span><span class="sxs-lookup"><span data-stu-id="9d6a2-104">Customize a device's out-of-box experience with Windows Autopilot profiles</span></span>
 
@@ -64,14 +64,15 @@ ms.locfileid: "8976807"
 4. <span data-ttu-id="9d6a2-138">Geben Sie Namen und eine Beschreibung des Profils, und konfigurieren Sie die Einstellungen für die Windows-Willkommensseite.</span><span class="sxs-lookup"><span data-stu-id="9d6a2-138">Enter the profile's name and description and then configure the OOBE settings.</span></span> <span data-ttu-id="9d6a2-139">Wählen Sie aus:</span><span class="sxs-lookup"><span data-stu-id="9d6a2-139">Choose from:</span></span>  
 
    - <span data-ttu-id="9d6a2-140">Überspringen der datenschutzeinstellungen im setup</span><span class="sxs-lookup"><span data-stu-id="9d6a2-140">Skip privacy settings in setup</span></span>
-   
+
    - <span data-ttu-id="9d6a2-141">Deaktivieren des lokalen Administratorkontos während des Setups</span><span class="sxs-lookup"><span data-stu-id="9d6a2-141">Disable local admin account in setup</span></span>
-   
+  
    - <span data-ttu-id="9d6a2-142">Automatisches Überspringen von Seiten im Setup</span><span class="sxs-lookup"><span data-stu-id="9d6a2-142">Automatically skip pages in setup</span></span><br>
         <span data-ttu-id="9d6a2-143">(Einschließlich *Automatisches Setup für Arbeit oder Schule auswählen* und *Überspringen Cortana, OneDrive und OEM-registrierungssetupseiten*)</span><span class="sxs-lookup"><span data-stu-id="9d6a2-143">(Includes *Automatically select setup for work or school* and *Skip Cortana, OneDrive, and OEM registration setup pages*)</span></span>
-   
+  
    - <span data-ttu-id="9d6a2-144">Endbenutzer-Lizenzvertrag (EULA) überspringen</span><span class="sxs-lookup"><span data-stu-id="9d6a2-144">Skip end user license agreement (EULA)</span></span><br> 
-       >[!IMPORTANT] <span data-ttu-id="9d6a2-145">Finden Sie unter [EULA zu Windows Autopilot](#windows-autopilot-eula-dismissal) unten wichtige Informationen zum Überspringen der Endbenutzer-Lizenzvertrag Seite während des Windows Setup berücksichtigen.</span><span class="sxs-lookup"><span data-stu-id="9d6a2-145">See [Windows Autopilot EULA dismissal](#windows-autopilot-eula-dismissal) below for important information to consider about skipping the EULA page during Windows setup.</span></span>
+       >[!IMPORTANT] 
+       ><span data-ttu-id="9d6a2-145">Finden Sie unter [EULA zu Windows Autopilot](#windows-autopilot-eula-dismissal) unten wichtige Informationen zum Überspringen der Endbenutzer-Lizenzvertrag Seite während des Windows Setup berücksichtigen.</span><span class="sxs-lookup"><span data-stu-id="9d6a2-145">See [Windows Autopilot EULA dismissal](#windows-autopilot-eula-dismissal) below for important information to consider about skipping the EULA page during Windows setup.</span></span>
 
 5. <span data-ttu-id="9d6a2-146">Wählen Sie abschließend **Übermitteln** aus.</span><span class="sxs-lookup"><span data-stu-id="9d6a2-146">Select **Submit** when finished.</span></span>
 
@@ -104,8 +105,8 @@ ms.locfileid: "8976807"
 
 3. <span data-ttu-id="9d6a2-165">Wählen Sie unter **Anwenden von Profilen auf Geräte** die Geräte, die Sie verwenden möchten, entfernen Sie das Profil aus, und wählen Sie dann **Entfernen eines Profils**.</span><span class="sxs-lookup"><span data-stu-id="9d6a2-165">Under **Apply profiles to devices** select the devices you want to remove the profile from and then select **Remove profile**.</span></span>
 
-  >[!NOTE]
-  ><span data-ttu-id="9d6a2-166">Entfernen eines Profils von einem Gerät wird nicht das Profil aus der Liste gelöscht.</span><span class="sxs-lookup"><span data-stu-id="9d6a2-166">Removing a profile from a device does not delete the profile from your list.</span></span> <span data-ttu-id="9d6a2-167">Wenn Sie ein Profil löschen möchten, folgen Sie den Anweisungen [Aktualisieren oder Löschen eines Autopilot-Profils](#update-or-delete-an-autopilot-profile).</span><span class="sxs-lookup"><span data-stu-id="9d6a2-167">If you want to delete a profile, follow the instructions in [Update or delete an Autopilot profile](#update-or-delete-an-autopilot-profile).</span></span>
+   >[!NOTE]
+   ><span data-ttu-id="9d6a2-166">Entfernen eines Profils von einem Gerät wird nicht das Profil aus der Liste gelöscht.</span><span class="sxs-lookup"><span data-stu-id="9d6a2-166">Removing a profile from a device does not delete the profile from your list.</span></span> <span data-ttu-id="9d6a2-167">Wenn Sie ein Profil löschen möchten, folgen Sie den Anweisungen [Aktualisieren oder Löschen eines Autopilot-Profils](#update-or-delete-an-autopilot-profile).</span><span class="sxs-lookup"><span data-stu-id="9d6a2-167">If you want to delete a profile, follow the instructions in [Update or delete an Autopilot profile](#update-or-delete-an-autopilot-profile).</span></span>
 
 ### <a name="update-or-delete-an-autopilot-profile"></a><span data-ttu-id="9d6a2-168">Aktualisieren Sie oder löschen Sie ein Autopilot-Profil</span><span class="sxs-lookup"><span data-stu-id="9d6a2-168">Update or delete an Autopilot profile</span></span>
 

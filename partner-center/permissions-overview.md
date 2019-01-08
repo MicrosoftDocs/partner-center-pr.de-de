@@ -2,19 +2,19 @@
 title: Weisen Sie Benutzer Rollen und Berechtigungen | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Jeder Mitarbeiter, die im Partner Center arbeiten muss eine Rolle zugewiesen werden.
+description: Alle Mitarbeiter, die im Partner Center arbeiten muss eine Rolle zugewiesen werden.
 author: labrenne
 ms.author: labrenne
 keywords: Rollen, Berechtigungen, Admin-agent
 ms.localizationpriority: medium
-ms.openlocfilehash: ad20423242868751665ddb40d204edd17eb8bc1e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: d05656a219cda8a68ded396a7f19b7bb4e5f9cdc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795103"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995914"
 ---
-# <a name="assign-users-roles-and-permissions"></a>Zuweisen von Benutzerrollen und Berechtigungen
+# <a name="assign-users-roles-and-permissions"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern
 
 **Betrifft:**
 
@@ -22,7 +22,7 @@ ms.locfileid: "5795103"
 
 Jede Rolle im Partner Center verfügt über bestimmte Berechtigungen, die einem Benutzer für bestimmte Aufgaben. Jeder Benutzer, der im Partner Center funktioniert, muss eine Rolle zugewiesen werden.
 
-Abhängig von der Größe Ihrer Organisation funktionieren einige Benutzer verschiedenen Standorten oder nur für einen Standort. 
+Je nach Größe Ihrer Organisation funktionieren einige Benutzer verschiedenen Standorten oder nur für einen Standort. 
 
 Beispiel:
 
@@ -97,18 +97,18 @@ Eine Übersicht über Rollen und Berechtigungen finden Sie unter [Erstellen von 
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Konto admin</strong></p></td>
+<td><p><strong>Administratorkonto</strong></p></td>
 <td><ul>
 <li><p>Erstellen Sie neue Speicherorte</p></li>
 <li><p>Registrieren Sie Standorte in Programme (Ausnahmen sind CSP und indirekter Händlerprogramme)</p></li>
 <li><p>Verwalten von Profilen, die im Zusammenhang mit der Standort-Konten, die sie verwalten</p></li>
-<li><p>Zuweisen von anderen Konten-Admins, MPN-Administrator, Administrator für das Unternehmensprofil, Administrator für Empfehlungen, anreizadministrator und Incentive-Benutzerrollen zu Benutzern</p></li>
+<li><p>Zuweisen von anderen Konten-Admins, MPN-Administrator, Administrator für das Unternehmensprofil, Administrator für Empfehlungen, anreizadministrator und Incentive-Benutzer-Rollen zu Benutzern</p></li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Anreizadministrator</strong></p></td>
 <td><ul>
-<li><p>Initiiert und verwaltet Incentives Ansprüche</p></li>
+<li><p>Beginn der und zur Verwaltung der Incentives-Ansprüche</p></li>
 <li><p>Kann anzeigen und bearbeiten alle Aspekte der Incentives-Programme</p></li>
 <li><p>Kann anzeigen und Bearbeiten von Bank-und Steuerinformationen</p></li>
 <LI><p>Anzeigen und gemeinschaftliche Einnahmen erhalten</p></li>
@@ -119,7 +119,7 @@ Eine Übersicht über Rollen und Berechtigungen finden Sie unter [Erstellen von 
 <tr class="odd">
 <td><p><strong>Anreizbenutzer</strong></p></td>
 <td><ul>
-<li><p>Können Anreizprogramme anzeigen</p></li>
+<li><p>Incentives-Programme können angezeigt werden.</p></li>
 <li><p>Anzeigen und Incentives Ansprüche initiieren können</p></li>
 <li><p>Anzeigen von Bank-und Steuerinformationen können</p></li>
 <li><p>Anzeigen und gemeinschaftliche Einnahmen erhalten</p></li>
@@ -132,7 +132,7 @@ Eine Übersicht über Rollen und Berechtigungen finden Sie unter [Erstellen von 
 <td><p><strong>Administratoragent</strong></p></td>
 <td><ul>
 <li><p>Kundenverwaltung</p></li>
-<li><p>Liste der Geräte beim Partner Center hinzufügen <</p></li>
+<li><p>Liste der Geräte zum Partner Center hinzufügen&lt;</p></li>
 <p><li>Erstellen und Anwenden von Profilen auf Geräte</p></li>
 <li><p>Abonnementverwaltung</p></li>
 <li><p>Dienstintegrität und Serviceanfragen für Kunden</p></li>
@@ -147,7 +147,7 @@ Eine Übersicht über Rollen und Berechtigungen finden Sie unter [Erstellen von 
 <td><p><strong>Vertriebsbeauftragter</strong></p></td>
 <td><ul>
 <li><p>Kundenverwaltung</p></li>
-<li><p>Liste der Geräte beim Partner Center hinzufügen</p></li>
+<li><p>Liste der Geräte zum Partner Center hinzufügen</p></li>
 <li><p>Abonnementverwaltung</p></li>
 <li><p>Supportanfragen anzeigen</p></li>
 <li><p>Beantragen einer Partnerschaft mit einem Kunden</p></li>

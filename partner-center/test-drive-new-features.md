@@ -6,12 +6,12 @@ description: Testen Sie die neuen Partner Center-Features vor der Freigabe, und 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 96fe21302e2d4e5a06f7b6c970b95b8739673ac7
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cd09ce1c9896d730f78f6c983e756fc8e8437af6
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797123"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995734"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Testen von neuen Partner Center-Features
 
@@ -30,16 +30,16 @@ Wir freuen uns, Sie zum Testen neuer Features einzuladen, bevor sie in der weltw
 
 Für jedes neues Feature können Sie folgende Aktionen ausführen:
 
--   Informieren Sie sich über das Feature und entscheiden Sie, ob Sie es ausprobieren möchten, indem Sie in der Featurebeschreibung **Weitere Informationen** auswählen. 
+- Informieren Sie sich über das Feature und entscheiden Sie, ob Sie es ausprobieren möchten, indem Sie in der Featurebeschreibung **Weitere Informationen** auswählen. 
 
--   Anweisungen zum Testen des Features
+- Anweisungen zum Testen des Features
 
--   Sie sehen unser Zieldatum für die Bereitstellung eines Features für die Vorschau und unser Zieldatum für die Veröffentlichung des Features in der weltweiten Partner Center-Community 
+- Sehen Sie unser Zieldatum für ein Feature für die Vorschau und unser Zieldatum Go-live für verfügbar machen, wenn wir die Veröffentlichung des Features in der weltweiten Partner Center-Community.
 
-    > [!NOTE]  
+> [!NOTE]  
 >  Mit *Zieldatum für die Veröffentlichung* meinen wir das geplante Datum der Veröffentlichung des Features für alle weltweiten Partner Center-Benutzer. Jedoch können mehrere Faktoren das Veröffentlichungsdatum beeinflussen, einschließlich einer Entscheidung, Feedback zu integrieren, das das Feature verbessert. Wir können das Veröffentlichungsdatum verschieben oder keine kommerzielle Version des Features veröffentlichen.  
 
--   Aktivieren Sie die Feature-Vorschau, indem Sie den Schiebregler auf **Ein** schieben.
+- Aktivieren Sie die Feature-Vorschau, indem Sie den Schiebregler auf **Ein** schieben.
 
 > [!NOTE]  
 >  Nur globale Administratoren und Admin-Agents können Vorabversionen von Features aktivieren. Allerdings können alle Partner Center-Benutzer die Vorschaufeatures sehen und verwenden, wenn sie über die entsprechenden Berechtigungen verfügen.
@@ -52,7 +52,7 @@ Wir bitten Sie, Ihre Ideen und Gedanken über eine bestimmte Vorschauversion ode
 
 -   Das Feedback-Formular in der unteren rechten Ecke des Partner Center-Fensters verwenden, um Ihr Feedback direkt an uns zu senden. 
 
--   Support anfordern, wenn Probleme mit einem Vorschaufeature auftreten. Wählen Sie zum Erstellen einer Supportanfrage **Supportanfragen > Partner Center-Anfragen** aus dem Menü " **Partner Center** " und wählen Sie dann **neu anfordern** , auf der Seite " **Partner Center-Anfragen** ".
+-   Support anfordern, wenn Probleme mit einem Vorschaufeature auftreten. Wählen Sie zum Erstellen einer Supportanfrage **Supportanfragen > Partner Center-Anfragen** aus dem **Partner Center** -Menü, und wählen Sie dann **neu anfordern** , auf der Seite **Partner Center-Anfragen** .
 
 Helfen Sie uns, Ihnen zu helfen.
 

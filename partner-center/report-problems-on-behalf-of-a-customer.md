@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: d128075199f30399641019e37740a8d9a34207f1
-ms.sourcegitcommit: e26f8fa7d88f0ae10d4ef62f7a853114cc565cda
+ms.openlocfilehash: 6d1652493791aedac27aaaa3dcfb03adcd15b67e
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/18/2018
-ms.locfileid: "8973900"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995964"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Melden von Problemen im Auftrag eines Kunden
 
@@ -41,12 +41,12 @@ Wenn ein Kunde ein Problem mit einem Dienst meldet, das Sie nicht beheben könne
 
 - Auch wenn der Helpdesk-Administrator im Partner Center Serviceanfragen in Azure Service-Portal erstellt werden kann, ist was sie tun können, erstellen Sie eine Supportgruppe in Azure Service-Portal, und weisen Sie dieser Gruppenberechtigungen Anmeldung von Supportanfragen.
 
-1.  Wählen Sie **Neue Supportanfrage** aus.
-2.  Füllen Sie die Supportanfrage mit den entsprechenden Informationen aus, und wählen Sie dann **Erstellen**:
-        -   Wählen Sie im Abschnitt **Grundlagen** im Feld **Supportplan** die Option **Cloud-Lösungsanbieter**.
-        -   Geben Sie im Abschnitt **Kontakt** der Supportanfrage Ihre Informationen und nicht die Ihres Kunden ein.
+1. Wählen Sie **Neue Supportanfrage** aus.
+2. Füllen Sie die Supportanfrage mit den entsprechenden Informationen aus, und wählen Sie dann **Erstellen**:
+-   Wählen Sie im Abschnitt **Grundlagen** im Feld **Supportplan** die Option **Cloud-Lösungsanbieter**.
+-   Geben Sie im Abschnitt **Kontakt** der Supportanfrage Ihre Informationen und nicht die Ihres Kunden ein.
 
-3.  Überprüfen Sie später die Serviceanfragen Ihres Kunden im Microsoft Azure-Portal, indem Sie **Supportanfragen verwalten** auswählen.
+3. Überprüfen Sie später die Serviceanfragen Ihres Kunden im Microsoft Azure-Portal, indem Sie **Supportanfragen verwalten** auswählen.
 
 Sie müssen möglicherweise eine Supportanfrage für einen Kunden erstellen, wenn Sie nicht über Administratorberechtigungen für diesen Kunden verfügen. Dies kann passieren, in einem von zwei Szenarien: 
  
@@ -55,20 +55,22 @@ Sie müssen möglicherweise eine Supportanfrage für einen Kunden erstellen, wen
  
 In beiden Fällen können Sie das folgende Verfahren verwenden, um eine Supportanfrage zu erstellen. 
 
-1.  Kopieren Sie den Namen des Kunden-Domäne ihrer Seite Konto im Partner Center.
+1. Kopieren Sie den Namen des Kunden-Domäne ihrer Seite Konto im Partner Center.
 
-2.  Wechseln Sie zu https://portal.azure.com/[Customerdomainname]. 
+2. Wechseln Sie zu https://portal.azure.com/[Customerdomainname]. 
 
-3.  Wählen Sie das Azure-Abonnement, das unterstützt wird, müssen.
+3. Wählen Sie das Azure-Abonnement, das unterstützt wird, müssen.
 
-4.  Wählen Sie die **neue Supportanfrage**, und führen Sie dann die Anweisungen zum Erstellen der Anforderung. 
+4. Wählen Sie die **neue Supportanfrage**, und führen Sie dann die Anweisungen zum Erstellen der Anforderung. 
 
  
 **Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite**
 
 1. Wählen Sie im Abschnitt **Serviceanfrage erstellen** die geeignete Supportkategorie aus. Möglicherweise müssen Sie **Mehr...** auswählen, um weitere Themen anzuzeigen.    
 2. Füllen Sie das Formular für die Serviceanfrage aus, und wählen Sie **Übermitteln** aus.
-    **Hinweis** Geben Sie Ihre Kontaktinformationen und nicht die Ihres Kunden an.
+
+>[**Hinweis:**]  Stellen Sie sicher, dass Ihre Kontaktinformationen und nicht die Ihres Kunden die.
+
 3. Überprüfen Sie später die Serviceanfragen Ihres Kunden, indem Sie zum Office 365 Admin Center wechseln und **Alle Supporttickets anzeigen** auswählen.
 
 ## <a name="faq"></a>Häufig gestellte Fragen
@@ -111,7 +113,7 @@ Wenn Sie sich direkt beim Office365 Admin Center anmelden, wird das Center in Ih
 
 **Wie erhalte ich zusätzliche Dynamics 365-Unterstützung?**
 
- Wenn Sie Probleme im Zusammenhang mit auftreten: Dynamics 365 Plan Abonnements, Lizenzierung, Abrechnung, Finanzen und Vorgänge, IURs oder Sie müssen weitere technischen Support:
+Wenn Sie Probleme im Zusammenhang mit auftreten: Dynamics 365 Plan Abonnements, Lizenzierung, Abrechnung, Finanzen und Vorgänge, IURs oder Sie müssen weitere technischen Support:
  
 [Dynamics Support](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support) kontaktieren
 

@@ -6,12 +6,12 @@ description: Wenn Sie eine Beziehung entfernen, werden alle geschlossenen Gesch�
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 61f2435d7e310623338444524ae5382c6e69fa00
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 2134a8ba118960dabe235d07675b3e340cc2ba16
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797073"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995674"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Entfernen einer Partnerschaft mit einem Händler oder Kunden
 
@@ -28,13 +28,12 @@ Mit dieser Funktion haben Sie folgende Möglichkeiten:
 *  Entfernt die Ihre Möglichkeit für Einkäufe im Auftrag des Kunden
 
 Um die Beziehung zu entfernen, müssen Sie zunächst Azure RI-Reservierungen stornieren, Softwarekäufe stornieren und alle verbleibenden aktiven Abonnements aussetzen:
-
-1.  Setzen Sie alle aktiven Abonnements aus. Das Partner Center, wechseln Sie zu **Kunden** > Kunden auswählen > **Abonnements** > Abonnement auswählen > **angehalten**. 
+1. Setzen Sie alle aktiven Abonnements aus. Das Partner Center, wechseln Sie zu **Kunden** > Kunden auswählen > **Abonnements** > Abonnement auswählen > **angehalten**. 
 
    Wiederholen Sie diesen Schrittfür jedes aktive Abonnement.
 
-2.  Entfernen der Beziehung in Partner Center: aus der Partner Center, gehen Sie zum **Kunden** > Kunden auswählen > **Konto** > **vertriebspartnerschaft zu entfernen**.
+2. Entfernen der Beziehung in Partner Center: von der Partner Center, wechseln Sie zum **Kunden** > Kunden auswählen > **Konto** > **vertriebspartnerschaft zu entfernen**.
 
-    Beachten Sie, wenn ein Abonnement noch aktiv ist, ist der Link **Remove reseller relationship** inaktiv. 
+   Beachten Sie, wenn ein Abonnement noch aktiv ist, ist der Link **Remove reseller relationship** inaktiv. 
 
 Um die Beziehung neu zu erstellen, wiederholen Sie den Vorgang zum [Anfordern einer Beziehung](request-a-relationship-with-a-customer.md).

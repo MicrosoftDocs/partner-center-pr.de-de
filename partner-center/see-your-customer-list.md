@@ -7,12 +7,12 @@ ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 949536273e4b07778f4a9fac4f4779858573fc1f
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a7f334b95f148ca13659a5101293c1e5e9bd9622
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683699"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995774"
 ---
 # <a name="manage-your-customer-list"></a>Verwalten der Kundenliste
 
@@ -29,20 +29,20 @@ Darüber hinaus enthalten die Aktivitätsprotokolle exportierbare Daten zu Trans
 
 ## <a name="search-for-a-customer"></a>Suchen nach einem Kunden
 
-1.  Wählen Sie im **Partner Center** -Menü **Kunden**aus.
+1.  Wählen Sie im **Partner Center** -Menü **Kunden**.
 2.  Um nach einem Kunden zu suchen, geben Sie den Kundennamen oder den Domänennamen in das Suchfeld ein.
 3.  Wählen Sie den **Pfeil nach unten** am Ende einer Kundenzeile aus, um die Microsoft-ID des Kunden sowie die verknüpften Abonnements und Quicklinks zu Diensten anzuzeigen.
 
-## <a name="update-a-customers-company-name"></a>Firmenname des Kunden zu aktualisieren
+## <a name="update-a-customers-company-name"></a>Aktualisieren der Firmenname des Kunden
 
-Wählen Sie im **Partner Center** -Menü **Kunden**aus.
+Wählen Sie im **Partner Center** -Menü **Kunden**.
 2.  Um nach einem Kunden zu suchen, geben Sie den Kundennamen oder den Domänennamen in das Suchfeld ein.
 3.  Wählen Sie den **Pfeil nach unten** am Ende einer Kundenzeile aus, um die Microsoft-ID des Kunden sowie die verknüpften Abonnements und Quicklinks zu Diensten anzuzeigen.
-4.  Aktualisieren Sie unter die Informationen des Kunden **Rechnungsempfänger** den Namen des Unternehmens. Wenn Sie den neuen Wert speichern, wird es in der Kundenliste widergespiegelt werden. Dies ändert sich nur auf den Unternehmensnamen Rechnungsempfänger und der Wert der Kunden Liste aus. Es wird nicht überall sonst widergespiegelt werden.
+4.  Aktualisieren Sie den Namen des Unternehmens unter **Rechnungsempfänger** Informationen des Kunden. Wenn Sie den neuen Wert speichern, wird es in der Kundenliste widergespiegelt werden. Dies wird nur den Unternehmensnamen Rechnungsempfänger und der Kunde Listenwert ändern. Es wird nicht an einer beliebigen Stelle andere widergespiegelt werden.
 
 ## <a name="export-your-customer-list"></a>Exportieren der Kundenliste
 
-1.  Wählen Sie im **Partner Center** -Menü **Kunden**aus.
+1.  Wählen Sie im **Partner Center** -Menü **Kunden**.
 2.  Wählen Sie **Kunden exportieren** aus.
 
     Partner Center konvertiert die gesamte Kundenliste in eine CSV-Datei und lädt sie in den Standarddownloadordner auf Ihrem Computer hoch. Sie können auch Teilmengen von Kundendaten exportieren. Zu den Datenspalten gehören u.a.:
@@ -59,7 +59,7 @@ Wählen Sie im **Partner Center** -Menü **Kunden**aus.
 
 ## <a name="export-customer-subscription-information"></a>Exportieren von Informationen zum Kundenabonnement
 
-1.  Wählen Sie im **Partner Center** -Menü **Kunden**aus.
+1.  Wählen Sie im **Partner Center** -Menü **Kunden**.
 2.  Wählen Sie den **Unternehmensnamen** eines Kunden aus. Die Seite **Abonnements** des Kunden wird geöffnet und zeigt die vollständige Liste der Produktabonnements an.
 3.  Wählen Sie **Abonnements exportieren** aus. Partner Center konvertiert die Abonnementdaten des Kunden in eine CSV-Datei und lädt sie in den Standarddownloadordner auf Ihrem Computer hoch. Zu den Datenspalten gehören u.a.:
     -   **Abonnement-ID**;
@@ -71,11 +71,11 @@ Wählen Sie im **Partner Center** -Menü **Kunden**aus.
 > [!NOTE]  
 > Weitere Informationen zur Abonnementverwaltung finden Sie unter [Kundenabonnements](customer-subscriptions.md).
 
-     
+     
 
- 
+ 
 
- 
+ 
 
 
 

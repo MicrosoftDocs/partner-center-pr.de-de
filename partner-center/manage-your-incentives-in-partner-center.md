@@ -6,12 +6,12 @@ description: Microsoft Partner-Incentives-Programme fördern Partnerrentabilitä
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 46d86931792d94baddaf79cdef72f77960ea35dd
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 3232f52f3c04d61fb57fdada40a98612341972fc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797173"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995644"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>Verwalten Ihrer Incentives in Partner Center 
 
@@ -55,4 +55,4 @@ Wenn der Anreizadministrator Anmeldeinformationen erhalten hat, kann er die Migr
 
 [Informationen zu den Anreizauszahlungen](understand-incentive-payouts.md)
 
-Weitere Informationen finden Sie im [Partner Incentives Co-op-Leitfaden](https://assets.microsoft.com/coop-guidebook.pdf)
+Weitere Informationen finden Sie im [Partner-Incentives Co-op-Leitfaden](https://assets.microsoft.com/coop-guidebook.pdf)

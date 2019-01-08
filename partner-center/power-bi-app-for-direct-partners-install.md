@@ -7,12 +7,12 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e4eaecc151f8cc4e5e45bbfa7d02236fb1444a24
-ms.sourcegitcommit: 3eb069edf36bdb61518c0c7cc2ccaf2d8dde4adb
+ms.openlocfilehash: ef641484ada5332a7129e13f8d7bbd8f1d269f96
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "6131699"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995554"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installation und Vorschau mit der Partner Center Analytics-App für Microsoft Power BI
 
@@ -22,7 +22,7 @@ ms.locfileid: "6131699"
 
 ## <a name="before-you-begin"></a>Vorbemerkungen
 
-Wählen Sie die Anwendung, die die für Ihr Unternehmen aus der folgenden Liste der verfügbaren Power BI-apps relevant ist:
+Wählen Sie die Anwendung, die die für Ihr Unternehmen in der folgenden Liste der verfügbaren Power BI-apps relevant ist:
 - [Direkter Partner](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
 
 - [Indirekte Partner](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
@@ -45,16 +45,16 @@ Bevor Sie die Preview-Version der Partner Center Analytics-App installieren, ste
 
 2. Wählen Sie unter **Sie haben bereits ein Konto?** **Anmelden** aus. 
 
-3.  Geben Sie auf der nächsten Seite den Benutzernamen und das Kennwort für Power BI und wählen Sie dann **Anmelden** aus. 
+3. Geben Sie auf der nächsten Seite den Benutzernamen und das Kennwort für Power BI und wählen Sie dann **Anmelden** aus. 
 
-4.  Prüfen Sie im Popup-Fenster **Mit Partner Center Analytics verbinden**, ob die **Authentifizierungsmethode** auf **oAuth2** festgelegt ist oder wählen Sie **oAuth2** aus der Liste aus. 
+4. Prüfen Sie im Popup-Fenster **Mit Partner Center Analytics verbinden**, ob die **Authentifizierungsmethode** auf **oAuth2** festgelegt ist oder wählen Sie **oAuth2** aus der Liste aus. 
 
-    > [!NOTE]  
+> [!NOTE]  
 >  Dieses Fenster erscheint möglicherweise erst nach einigen Minuten.
 
-5.  Melden Sie sich auf der **Partner Center Analytics Connector** als globaler Administrator, Admin-Agent oder Abrechnungsadministrator für den Azure AD-Mandanten Ihres Unternehmen an und wählen Sie dann **Anmelden** aus.
+5. Melden Sie sich auf der **Partner Center Analytics Connector** als globaler Administrator, Admin-Agent oder Abrechnungsadministrator für den Azure AD-Mandanten Ihres Unternehmen an und wählen Sie dann **Anmelden** aus.
  
-6.  Wählen Sie dazu aufgefordert werden, wählen Sie **Annehmen** aus. 
+6. Wählen Sie dazu aufgefordert werden, wählen Sie **Annehmen** aus. 
 
 Sobald der Partner Center Analytics-Dienst mit Power BI verbunden ist, werden Daten geladen. Abhängig von der Datenmenge kann dies bis zu 10Minuten in Anspruch nehmen. 
 

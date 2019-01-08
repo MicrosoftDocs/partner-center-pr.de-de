@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c5a78af8e58b61ff5b0ed469eefdd172cf329306
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 8a4915f8ae0ad0d0b72f0e8b50f803fb8f84c17e
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917592"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995904"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Nichtbezahlung, Betrug oder Missbrauch
 
@@ -83,9 +83,9 @@ Detailliertere Strategien zur Minderung des Onlinerisikos finden Sie im der [Anl
 > [!IMPORTANT]  
 > Wenn Microsoft eine Partner- oder Kundenaktivität erkennt, die von uns als Verstoß gegen die Acceptable Use-Richtlinie angesehen wird, werden wir entsprechende Durchsetzungsmaßnahmen ergreifen. Der Kunde kann unter Umständen sofort suspendiert werden. Sie werden über die Durchsetzungsmaßnahmen informiert oder erhalten von Microsoft aktuelle Informationen zu Ihren Anfragen.
 
- 
+ 
 
- 
+ 
 
 
 

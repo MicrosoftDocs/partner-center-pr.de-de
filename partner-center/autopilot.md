@@ -4,12 +4,12 @@ description: Vorkonfigurieren eines Geräts Out-of-Box-Experience mit Autopilot-
 author: maggiepuccievans
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero-Touch Deployment, Windows-Willkommensseite, Anmeldebildschirme, Out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 7df979042799954c5b43a2adef1915941db02e57
-ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
+ms.openlocfilehash: 70740212f433ad6eb4f2f04d63708fff436024ad
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/19/2018
-ms.locfileid: "8976807"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995934"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Anpassen des Geräts Out-of-Box-Experience mit Windows Autopilot-Profilen
 
@@ -64,14 +64,15 @@ Im Partner Center können Sie Windows Autopilot-bereitstellungsprofile erstellen
 4. Geben Sie Namen und eine Beschreibung des Profils, und konfigurieren Sie die Einstellungen für die Windows-Willkommensseite. Wählen Sie aus:  
 
    - Überspringen der datenschutzeinstellungen im setup
-   
+
    - Deaktivieren des lokalen Administratorkontos während des Setups
-   
+  
    - Automatisches Überspringen von Seiten im Setup<br>
         (Einschließlich *Automatisches Setup für Arbeit oder Schule auswählen* und *Überspringen Cortana, OneDrive und OEM-registrierungssetupseiten*)
-   
+  
    - Endbenutzer-Lizenzvertrag (EULA) überspringen<br> 
-       >[!IMPORTANT] Finden Sie unter [EULA zu Windows Autopilot](#windows-autopilot-eula-dismissal) unten wichtige Informationen zum Überspringen der Endbenutzer-Lizenzvertrag Seite während des Windows Setup berücksichtigen.
+       >[!IMPORTANT] 
+       >Finden Sie unter [EULA zu Windows Autopilot](#windows-autopilot-eula-dismissal) unten wichtige Informationen zum Überspringen der Endbenutzer-Lizenzvertrag Seite während des Windows Setup berücksichtigen.
 
 5. Wählen Sie abschließend **Übermitteln** aus.
 
@@ -104,8 +105,8 @@ Nachdem Sie ein Autopilot-Profil für einen Kunden erstellt haben, können Sie e
 
 3. Wählen Sie unter **Anwenden von Profilen auf Geräte** die Geräte, die Sie verwenden möchten, entfernen Sie das Profil aus, und wählen Sie dann **Entfernen eines Profils**.
 
-  >[!NOTE]
-  >Entfernen eines Profils von einem Gerät wird nicht das Profil aus der Liste gelöscht. Wenn Sie ein Profil löschen möchten, folgen Sie den Anweisungen [Aktualisieren oder Löschen eines Autopilot-Profils](#update-or-delete-an-autopilot-profile).
+   >[!NOTE]
+   >Entfernen eines Profils von einem Gerät wird nicht das Profil aus der Liste gelöscht. Wenn Sie ein Profil löschen möchten, folgen Sie den Anweisungen [Aktualisieren oder Löschen eines Autopilot-Profils](#update-or-delete-an-autopilot-profile).
 
 ### <a name="update-or-delete-an-autopilot-profile"></a>Aktualisieren Sie oder löschen Sie ein Autopilot-Profil
 

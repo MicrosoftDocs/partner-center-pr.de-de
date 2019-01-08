@@ -1,19 +1,19 @@
 ---
-title: Informationen zu den Anreizauszahlungen | Partner Center
+title: Informationen zu den anreizauszahlungen | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Der Zeitplan für Anreizeinnahmen und -auszahlungen hilft bei der künftigen Planung.
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 74811348b14ecad7afc214337fae760c43e4de63
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 535181676cc03c8e696c613e8a907705c40a8fd5
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796353"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995700"
 ---
-#<a name="understand-your-incentives-payouts"></a>Informationen zu den Anreizauszahlungen
+# <a name="understand-your-incentive-payouts"></a>Informationen zu den Incentiveauszahlungen
 
 **Betrifft:**
 
@@ -28,10 +28,8 @@ Die Anreizdaten werden täglich aktualisiert. Die Diagramme und Tabellen spiegel
 
 Sie können Details zu Einnahmen und Auszahlungen für jedes Anreizprogramm anzeigen. Das Nachverfolgen der Zeitachse zwischen Einnahmen und Auszahlungen ist hilfreich bei der Planung zukünftiger Ressourcenanforderungen und vielem mehr. Sie können auch ermitteln, welche Orte erfolgreicher oder aktiver in Anreizprogrammen sind. 
 
-##<a name="drill-down-on-incentives-earnings"></a>Detaillierte Informationen zu Anreizeinnahmen
+## <a name="drill-down-on-incentives-earnings"></a>Detaillierte Informationen zu Anreizeinnahmen
+Ermitteln Sie, wo Ihre Organisation mehr über die Anreizprogramme verdienen kann und wo Sie bereits bezahlt wurden. Diese Daten verdeutlichen, wo Sie Einnahmen erzielt, aber noch nicht ausbezahlt wurden.  Vollziehen Sie nach, welche Programme und Aktivitäten am erfolgreichsten waren, und ermitteln Sie, welche Standorte Einnahmen erzielen. Nach Programm können Sie das Potenzial der Gesamteinnahmen, den Zeitraum, währenddessen Sie am Programm teilnehmen können, und sein Ablaufdatum anzeigen. Jedes Programm und jeden einnahmentyp haben unterschiedliche Anforderungen, Daten und einnahmelimits. 
 
-Ermitteln Sie, wo Ihre Organisation mehr über die Anreizprogramme verdienen kann und wo Sie bereits bezahlt wurden. Diese Daten verdeutlichen, wo Sie Einnahmen erzielt, aber noch nicht ausbezahlt wurden.  Vollziehen Sie nach, welche Programme und Aktivitäten am erfolgreichsten waren, und ermitteln Sie, welche Standorte Einnahmen erzielen. Nach Programm können Sie das Potenzial der Gesamteinnahmen, den Zeitraum, währenddessen Sie am Programm teilnehmen können, und sein Ablaufdatum anzeigen. Für jedes Programm und jeden Einnahmentyp gelten unterschiedliche Anforderungen, Daten und Einnahmelimits. 
-
-##<a name="drill-down-on-incentive-payouts"></a>Detaillierte Informationen zu Anreizauszahlungen
-
+## <a name="drill-down-on-incentive-payouts"></a>Detaillierte Informationen zu Anreizauszahlungen
 Unter „Auszahlungen” werden gezahlte Beträge sowie Details zu bevorstehenden Auszahlungen angezeigt. Zu den einzelnen Programmen, in denen Sie bezahlt wurden, können Sie Aufstellungen abrufen, die Transaktionsdetails enthalten, z.B. einbehaltene Steuern. Sie können weitere Einzelheiten über jährliche und monatliche Zahlungen pro Transaktion einsehen.

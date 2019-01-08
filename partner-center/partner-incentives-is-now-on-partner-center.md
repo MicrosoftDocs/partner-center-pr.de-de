@@ -6,12 +6,12 @@ description: Incentiveprogramme unterstützen Partner dabei, neue Möglichkeiten
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bd6427f035c7cb4107073ab7039a3b1823025968
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 61138645f20a24ba7eacd17546983715a0045669
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797303"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995634"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>Partner-Incentive jetzt im Partner Center 
 
@@ -27,18 +27,18 @@ Ob Sie Ihre Geschäfte in der Cloud, lokal oder irgendwo dazwischen tätigen –
 
 Sie sind berechtigt, am Anreizprogramm für Microsoft-Partner teilzunehmen, wenn Sie als CSP-Partner ein aktiver Händler sind.
 Wenn Sie am Programm teilnehmen, können Sie Rabatte und gemeinschaftliche Einnahmen erhalten. Um sich für das Anreizprogramm zu registrieren, müssen Sie folgende Voraussetzungen erfüllen: 
--   Sie besitzen eine aktive MPN-Vereinbarung (Microsoft Partner Network).  
--   Indirekte Anbieter müssen eine gültige Cloud Distributor-Vereinbarung besitzen.
--   Direkte Händler müssen eine Handelspartnervereinbarung besitzen.
--   Wenn Sie ein indirekter Handelspartner sind, müssen Sie zum MPN gehören. Indirekte Händler erhalten eine Einladung für das Anreizprogramm, nachdem sie ihre erste Transaktion abgeschlossen haben. 
--   Sie müssen über mindestens eine der folgenden Microsoft-Kompetenzen verfügen. Eine Liste der aktuellen [Microsoft competencies] (competencies.md) finden Sie hier.
+- Sie besitzen eine aktive MPN-Vereinbarung (Microsoft Partner Network).  
+- Indirekte Anbieter müssen eine gültige Cloud Distributor-Vereinbarung besitzen.
+- Direkte Händler müssen eine Handelspartnervereinbarung besitzen.
+- Wenn Sie ein indirekter Handelspartner sind, müssen Sie zum MPN gehören. Indirekte Händler erhalten eine Einladung für das Anreizprogramm, nachdem sie ihre erste Transaktion abgeschlossen haben. 
+- Sie müssen über mindestens eine der folgenden Microsoft-Kompetenzen verfügen. Finden Sie eine Liste der aktuellen [Microsoft-Kompetenzen](competencies.md).
 
 ## <a name="one-site-one-log-on"></a>Eine Website, eine Anmeldung
 
-Nachdem das Anreizprogramm für Microsoft-Partner nun in das Partner Center verschoben wurde, können Sie hier alle administrativen Aufgaben erledigen – Verwalten von Benutzern, Arbeiten im Kundenauftrag, Anmelden zu Zertifizierungen und Anreizprogrammen, Einsehen von Berichten über Anreizeinnahmen und Veranlassen von Auszahlungen. Alle Ihre anreizdaten ist für Sie in Ihrer Anreize **Partner Center**verfügbar. Diese Daten werden täglich aktualisiert.
- 
+Nun, da die Anwendung Microsoft Partner-Incentives in Partner Center verschoben wurde, werden Sie möglicherweise, führen Sie alle Ihre Administrator – Verwalten von Benutzern, arbeiten im Kundenauftrag, anmelden zu Zertifizierungen und anreizprogrammen, Berichten über anreizeinnahmen und veranlassen von Auszahlungen. Alle Ihre anreizdaten ist für Sie in Ihrer Anreize **Partner Center**verfügbar. Diese Daten werden täglich aktualisiert.
+ 
 ## <a name="set-your-users-up-in-partner-center"></a>Einrichten Ihrer Benutzer im Partner Center
- 
+ 
 Der erste Schrittist, das Incentives-Konto im Partner Center zu vervollständigen, indem Sie die Incentives-Benutzer im Partner Center einrichten. Sie haben eine E-Mail mit einer Liste der Incentives-Benutzer in Ihrer Organisation erhalten. Wenn der Incentives-Administrator für Ihre Organisation die Einrichtung der Benutzer abgeschlossen hat, werden alle Ihre anreizdaten auf die Incentives **Partner Center**angezeigt.
 
 **Weitere Informationen:**

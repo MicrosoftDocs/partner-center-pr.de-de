@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: Indirekte Wiederverkäufer, Händler, indirekten Anbieter, Anbieter, Partnerschaft, VAR, Ebene2, Ebene 2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c82e2dffbed0807894c8bd161281bc8e7da23a24
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: cc76d93cb0cdc581943e1785967c7b489bdd5ef9
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917492"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995994"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Anbietern im Programm für Cloud Solution Provider
 
@@ -63,7 +63,7 @@ Beachten Sie, dass die Überprüfung Ihrer Angaben mehrere Tage dauern kann. Wir
 
 3.  Melden Sie sich mit Ihren Kontoinformationen an. Wählen Sie **anmelden** aus und geben Sie dann den Benutzernamen und das Kennwort zum Anmelden als ein globaler Administrator für Office365, Microsoft Azure oder Microsoft Dynamics CRM an. 
 
-    Wenn Sie kein Geschäftskonto besitzen, wählen Sie **Erstellen** aus, um jetzt eines einzurichten. Nach dem Erstellen Ihres Geschäftskontos melden Sie sich mit den globalen Administratoranmeldeinformationen für Ihr neues Konto an.
+Wenn Sie kein Geschäftskonto besitzen, wählen Sie **Erstellen** aus, um jetzt eines einzurichten. Nach dem Erstellen Ihres Geschäftskontos melden Sie sich mit den globalen Administratoranmeldeinformationen für Ihr neues Konto an.
 
 4.  Überprüfen Sie die Informationen dazu, wie Sie Ihre Microsoft Partner Network-ID (MPN-ID) mit Ihrem neuen Partner Center-Konto verknüpfen. Wir müssen die MPN-ID Ihrer Organisation mit Ihrem neuen Partner Center-Konto verknüpfen, damit Sie Ihre Vorteile und Anreize Mitgliedschaft im Partner Center verwalten können. Wählen Sie **Anmelden** aus.
 
@@ -73,21 +73,21 @@ Beachten Sie, dass die Überprüfung Ihrer Angaben mehrere Tage dauern kann. Wir
 
 7.  Wählen Sie das Organisationsprofil mit der MPN-ID aus, die mit Ihren Anreizen, Mitgliedsvorteilen und Kompetenzen verknüpft ist, damit wir diese Informationen auf Ihr Partner Center-Konto übertragen können. Wählen Sie **Weiter** aus.
 
-    Wenn die MPN-ID, die Sie verwenden möchten, auf dieser Seite nicht aufgeführt wird, wählen Sie **Abbrechen** aus, und melden Sie sich mit dem Benutzernamen und Kennwort für das gewünschte Organisationsprofil an. 
-    > [!IMPORTANT]  
-    > Wählen Sie die MPN-ID, die mit einem aktiven Organisationsprofil, die befinden sich in demselben Land/Region mit Ihrem Azure AD-Mandanten verknüpft ist.
+Wenn die MPN-ID, die Sie verwenden möchten, auf dieser Seite nicht aufgeführt wird, wählen Sie **Abbrechen** aus, und melden Sie sich mit dem Benutzernamen und Kennwort für das gewünschte Organisationsprofil an. 
+> [!IMPORTANT]  
+> Wählen Sie die MPN-ID, die mit einem aktiven Organisationsprofil, die befinden sich in demselben Land/Region mit Ihrem Azure AD-Mandanten verknüpft ist.
 
 8.  Geben Sie das offizielle Geschäftsprofil, Informationen zum Hauptansprechpartner und Kundensupportinformationen Ihrer Organisation an, oder aktualisieren Sie sie. Wählen Sie **Jetzt anmelden** aus.
 
-    Der Hauptansprechpartner muss eine Person in Ihrer Organisation sein, die wir im Zusammenhang mit Ihrer Bewerbung kontaktieren können (entweder Sie selbst oder eine andere Person in Ihrer Organisation). Beachten Sie, dass wir keine E-Mail-Adressen von webbasierten E-Mail-Diensten wie Gmail, Yahoo!, Mail, iCloud Mail, AOL Mail oder Outlook-Mail akzeptieren. 
-    > [!IMPORTANT]  
-    > Aus Sicherheits- und Datenschutzgründen kontaktieren wir Ihren Hauptansprechpartner per E-Mail, um uns zu vergewissern, dass (1) er/sie sich für ein Partner Center-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrer Organisation gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung Ihrer Angaben fort. Wir halten den Hauptansprechpartner per E-Mail über den Status der Registrierung auf dem Laufenden.
+Der Hauptansprechpartner muss eine Person in Ihrer Organisation sein, die wir im Zusammenhang mit Ihrer Bewerbung kontaktieren können (entweder Sie selbst oder eine andere Person in Ihrer Organisation). Beachten Sie, dass wir keine E-Mail-Adressen von webbasierten E-Mail-Diensten wie Gmail, Yahoo!, Mail, iCloud Mail, AOL Mail oder Outlook-Mail akzeptieren. 
+> [!IMPORTANT]  
+> Aus Sicherheits- und Datenschutzgründen kontaktieren wir Ihren Hauptansprechpartner per E-Mail, um uns zu vergewissern, dass (1) er/sie sich für ein Partner Center-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrer Organisation gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung Ihrer Angaben fort. Wir halten den Hauptansprechpartner per E-Mail über den Status der Registrierung auf dem Laufenden.
 
 9.  Wenn Ihr Partner Center-Konto verwendungsbereit ist, vergewissern Sie sich, dass Sie der Administratorgruppe hinzugefügt wurden. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
 
-    a.  Wählen Sie in Ihrem **Partner Center**das Symbol " **Einstellungen** " aus, und wählen Sie dann die **Verwaltung der Benutzer**.  
+a.  Wählen Sie in Ihrem **Partner Center**das Symbol " **Einstellungen** " aus, und wählen Sie dann die **Verwaltung der Benutzer**.  
 
-    b.  Wählen Sie Ihren Namen aus der Anwenderliste aus und dann **Administrator-Agent**, sofern nicht bereits ausgewählt. Wählen Sie **Update**.   
+b.  Wählen Sie Ihren Namen aus der Anwenderliste aus und dann **Administrator-Agent**, sofern nicht bereits ausgewählt. Wählen Sie **Update**.   
 
 ## <a name="add-a-new-user"></a>Hinzufügen eines neuen Benutzers
 
@@ -102,10 +102,10 @@ Beachten Sie, dass die Überprüfung Ihrer Angaben mehrere Tage dauern kann. Wir
 5. Wählen Sie **Hinzufügen**, um das Benutzerkonto zu erstellen. Bestätigen Sie die Details des Benutzers auf der nächsten Seite.
 
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > Notieren Sie sich die Anmeldeinformationen des neuen Benutzers, die auf dieser Seite angezeigt werden. Achten Sie darauf, diese Informationen zu kopieren und an den neuen Benutzer zu senden, da Sie später nicht erneut darauf zugreifen können. <br>
-
->Der Benutzer muss sich im Partner Center mit seinem Benutzernamen und einem temporären Kennwort anmelden. Wenn der Benutzer beim Partner Center zum ersten Mal anmeldet, wird er aufgefordert, sein Kennwort zu ändern.        
+> 
+> Der Benutzer muss sich im Partner Center mit seinem Benutzernamen und einem temporären Kennwort anmelden. Wenn der Benutzer beim Partner Center zum ersten Mal anmeldet, wird er aufgefordert, sein Kennwort zu ändern.        
 
 ## <a name="assign-user-permissions"></a>Zuweisen von Benutzerberechtigungen
 
@@ -126,20 +126,20 @@ Wenn Sie indirekter Anbieter im Partner Center mit Ihnen zusammenarbeiten möcht
 
 3.  Um die Zusammenarbeit mit dem Anbieter zu bestätigen, aktivieren Sie das Kontrollkästchen, und wählen Sie dann **Authorize indirect provider** aus. Der Anbieter wird nun bei Ihnen auf der Seite **Indirect providers** aufgeführt, und Ihr Unternehmen erscheint auf der Seite **Indirect resellers** des Anbieters.
 
-    > [!NOTE]  
-    > Wenn Sie eine Partnerschaft mit einem indirekten Anbieter einrichten, Administratorzugriff sie Aufträge zu übermitteln und Abonnements im Auftrag Ihrer Kunden hinzufügen, und Sie sind sie Administratorzugriff auf das Geschäftskonto Ihres Unternehmens gewähren. Nachdem Ihre Partnerschaft mit dem Anbieter eingerichtet wurde, können Sie den Administratorzugriff des Anbieters auf das Geschäftskonto im Office365-Portal entfernen. 
+> [!NOTE]  
+> Wenn Sie eine Partnerschaft mit einem indirekten Anbieter einrichten, Administratorzugriff sie Aufträge zu übermitteln und Abonnements im Auftrag Ihrer Kunden hinzufügen, und Sie sind sie Administratorzugriff auf das Geschäftskonto Ihres Unternehmens gewähren. Nachdem Ihre Partnerschaft mit dem Anbieter eingerichtet wurde, können Sie den Administratorzugriff des Anbieters auf das Geschäftskonto im Office365-Portal entfernen. 
 
 4.  Wählen Sie Ihr **Partner Center** -Menü, um eine Liste mit den Anbietern anzuzeigen haben Sie eine Partnerschaft mit **indirekten Anbietern** . 
 
 5.  Wählen Sie **Kunden anzeigen** aus, um eine Liste mit den Kunden anzuzeigen, die Sie sich mit dem Anbieter teilen.
 
 6.  Wählen Sie **Invite new customers** aus, um einen neuen Kunden zu bitten, Vertriebspartnerschaften mit Ihnen und Ihrem indirekten Anbieter zu autorisieren. Halten Sie die E-Mail-Adresse des Kunden bereit, um die Einladung per E-Mail senden zu können.  
-    > [!IMPORTANT]  
-    > Ihr indirekte Anbieter muss über eine vertriebspartnerschaft mit Ihren Kunden Aufträge im Namen übermitteln verfügen. 
+> [!IMPORTANT]  
+> Ihr indirekte Anbieter muss über eine vertriebspartnerschaft mit Ihren Kunden Aufträge im Namen übermitteln verfügen. 
  
 ## <a name="connect-with-customers"></a>Interagieren mit Kunden
 
- Um mit Kunden im Partner Center Transaktionen durchzuführen, müssen Ihre Kunden Partner Center-Konten haben, und Sie müssen eine Reseller-Geschäftsbeziehungen mit ihnen herstellen. Damit ihr indirekter Anbieter Abonnements und Dienste im Namen Ihres Kunden erwerben kann, muss auch der Anbieter über eine Reseller-Partnerschaft mit Ihren Kunden verfügen. 
+Um mit Kunden im Partner Center Transaktionen durchzuführen, müssen Ihre Kunden Partner Center-Konten haben, und Sie müssen eine Reseller-Geschäftsbeziehungen mit ihnen herstellen. Damit ihr indirekter Anbieter Abonnements und Dienste im Namen Ihres Kunden erwerben kann, muss auch der Anbieter über eine Reseller-Partnerschaft mit Ihren Kunden verfügen. 
 
 ### <a name="connect-with-existing-customers"></a>Interagieren mit bestehenden Kunden
 
@@ -153,7 +153,7 @@ Wenn Sie mit einem indirekten Anbieter zusammenarbeiten, gewinnen Sie nicht auto
 
 2.  Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen. 
 
-    Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist und den Kunden direkt mit Ihrem Konto verknüpft. Wählen Sie **Fertig**, wenn Sie diesen Schrittabgeschlossen haben.
+Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist und den Kunden direkt mit Ihrem Konto verknüpft. Wählen Sie **Fertig**, wenn Sie diesen Schrittabgeschlossen haben.
 
 3.  Senden Sie die E-Mail an den Kunden.
 
@@ -182,7 +182,7 @@ Um Administratorberechtigungen zum Verwalten von Abonnements und Diensten eines 
 
 3.  Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen. 
 
-    Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist, um den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters zu verknüpfen. Wählen Sie **Fertig**, wenn Sie diesen Schrittabgeschlossen haben.
+Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist, um den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters zu verknüpfen. Wählen Sie **Fertig**, wenn Sie diesen Schrittabgeschlossen haben.
 
 4.  Nachdem der Kunde Sie und Ihren Anbieter als Vertriebspartner autorisiert hat, verfügen Sie über die nötigen Administratorberechtigungen zur Verwaltung seiner Abonnements, Lizenzen und Benutzer, und Ihr indirekter Anbieter kann Aufträge im Namen des Kunden übermitteln.
 

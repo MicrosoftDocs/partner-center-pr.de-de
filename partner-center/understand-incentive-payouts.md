@@ -6,14 +6,14 @@ description: Zeigen Sie die Einnahmen und Auszahlungen für Incentiveprogramme a
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c3905fd1841426cd70416599a48be1a9660bae2
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 3cf700332c22fc75605b9eacc3af05997f7a387d
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795943"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995954"
 ---
-#<a name="incentive-payouts-overview"></a>Übersicht über die Incentive Auszahlungen
+# <a name="incentive-payouts-overview"></a>Übersicht über die Incentive Auszahlungen
 
 **Betrifft:**
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795943"
 
 Incentive-Administratoren und -Benutzer erhalten einen Überblick über die Einnahmen und Zahlungen, die sie entweder empfangen haben oder über Ihre Bonusprogramme erhalten werden.   
 
-##<a name="summary-information-on-earnings-and-payout"></a>Zusammengefasste Informationen zu Einnahmen und Auszahlung
+## <a name="summary-information-on-earnings-and-payout"></a>Zusammengefasste Informationen zu Einnahmen und Auszahlung
 
 CSP-Partner, die Incentivebenutzer und Incentiveadministratoren sind, können ihre Finanzposition in den Incentiveprogrammen, an denen sie teilnehmen, unter **Auszahlungszusammenfassung** anzeigen. Sie können bei Bedarf für jeden Bereich der Zusammenfassungsinformationen detailliertere Informationen anzeigen. 
 

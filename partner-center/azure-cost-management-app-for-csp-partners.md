@@ -8,12 +8,12 @@ ms.author: janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 32112dd8ba23d371eda554d86cf166562779a1d1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 586ec2936b8491e91b4f2a56cbc392e4dee350b3
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796093"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995794"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>App zum Azure-Kostenmanagement für Azure CSP-Partner  
 
@@ -42,11 +42,11 @@ Wenn Sie eine Azure Active Directory-Web-App im Partner Center registrieren, kö
 4.  Kopieren und speichern Sie die **Commerce-ID**-GUID und die **App-ID**-GUID für Ihre Web-App. Sie benötigen beide IDs für die 30-tägige kostenlose Testversion der Azure Cost Management-App.
 
 ## <a name="add-a-secret-key-to-your-app"></a>Hinzufügen eines geheimen Schlüssels zu Ihrer App
-1.  Wählen Sie in der Dropdownliste neben der **Schlüssel hinzufügen**-Schaltfläche eine Dauer von 1 oder 2Jahren aus.
-2.  Klicken Sie auf **Schlüssel hinzufügen**. 
-3.  Kopieren Sie und speichern Sie den Wert des geheimen Schlüssels. Sie benötigen diesen für die kostenlose 30-Tage-Testversion.<br>
-> [!NOTE]  
-> Die geheimen Anwendungsschlüssel sind wie Kennwörter mit längeren Ablaufdaten. Speichern Sie die Schlüsselwerte für die zukünftige Verwendung an einem sicheren Ort.
+1. Wählen Sie in der Dropdownliste neben der **Schlüssel hinzufügen**-Schaltfläche eine Dauer von 1 oder 2Jahren aus.
+2. Klicken Sie auf **Schlüssel hinzufügen**. 
+3. Kopieren Sie und speichern Sie den Wert des geheimen Schlüssels. Sie benötigen diesen für die kostenlose 30-Tage-Testversion.<br>
+   > [!NOTE]  
+   > Die geheimen Anwendungsschlüssel sind wie Kennwörter mit längeren Ablaufdaten. Speichern Sie die Schlüsselwerte für die zukünftige Verwendung an einem sicheren Ort.
 
 ## <a name="next-steps"></a>Nächste Schritte
 Starten Sie mit einer [kostenlosen 30-Tage-Testversion](https://go.microsoft.com/fwlink/?linkid=857895).

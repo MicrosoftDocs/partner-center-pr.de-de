@@ -7,12 +7,12 @@ ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b18ebfc5e376478ebdadab51993af78ea92fe97e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795253"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995834"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Steigerung von Einführungsrate und Zufriedenheit
 
@@ -70,24 +70,24 @@ Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Za
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problem:</strong> Die Verbreitungsrate bei den Benutzern ist niedrig, und viele Lizenzen werden nicht verwendet.</p>
+<td><p><strong>Problem:</strong> Die Verbreitungsrate bei Benutzer ist niedrig, und viele Lizenzen & #39; t verwendet wird.</p>
 <p><strong>Mögliche Ursache:</strong> Die Kunden erkennen den Wert nicht, den Ihnen die Software bieten kann. Sie benötigen Unterstützung, um Möglichkeiten aufzuzeigen, wie sie die Software in ihre tägliche Arbeit integrieren können, um Aufgaben zu vereinfachen, die sie bereits täglich durchführen, oder um neue Wege zur Steigerung ihrer Produktivität zu finden.</p>
 <p><strong>Was Sie nutzen können:</strong> Fallstudien, Benutzerempfehlungen zu bestimmten Szenarien, Blogs mit Lernprogrammen oder Videos.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Problem:</strong> Sie erhalten eine große Anzahl von Hilfe-Supportanrufen und Fragen zu Vorgehensweisen.</p>
 <p><strong>Mögliche Ursache:</strong> Kunden kennen die Software, die Produktversion oder ihre Aufgabe noch nicht so gut.</p>
-<p><strong>Was Sie nutzen können:</strong> Sie können eine zweigleisige Strategie anwenden, indem Sie Schulungen (Präsenz- und Onlineschulungen) anbieten, um die Kenntnisse der Benutzer zu vertiefen, während Sie gleichzeitig einige der für Kunden zur Verfügung stehenden Self-Service-Optionen bewerben.</p>
-<p>Sie können ggf. auch Ihre Supportwebsite so anpassen, dass sie zusätzlich zu den Supportkontaktinformationen auch die Self-Service-Optionen umfasst, die im Thema [Kundenselbsthilfe](customer-self-support.md) beschrieben sind.</p></td>
+<p><strong>Mögliche Strategien:</strong> Sie können eine zweigleisige Strategie anwenden, indem Sie Schulungen (Präsenz- oder online) anbieten Kunden & #39; erhöhen s vertiefen, während Sie gleichzeitig einige der Self-service-Optionen für Kunden zur Verfügung bewerben.</p>
+<p>Sie können ggf. auch Ihre Supportwebsite so anpassen, dass sie zusätzlich zu den Supportkontaktinformationen auch die Self-Service-Optionen umfasst, die im Thema <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Kundenselbsthilfe</a> beschrieben sind.</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

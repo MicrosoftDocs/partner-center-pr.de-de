@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Abonnementabrechnungen, Abrechnung, Abrechnung im Partner Center, Partner Center-Abrechnung, meine Rechnung lesen, Rechnung, Rechnung für Partner Center, CSP-Abrechnung, wo ist meine Rechnung?
 ms.localizationpriority: medium
-ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990932"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995874"
 ---
 # <a name="read-your-bill"></a>Informationen zu Ihrer Rechnung
 
@@ -146,7 +146,7 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 |Vorsteuerbetrag |Zwischensumme vor Steuern. |
 |Mehrwertsteuer |Steuerbetrag. |
 |Gesamt |Zahlungen gesamt. |
- 
+ 
 
 
 

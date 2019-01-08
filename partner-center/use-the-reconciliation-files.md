@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 50af14ab0e8edf6cd4576be6615cd7238b23bd99
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: dac94723d8939f83628dfc8cd0992ab3516fa5a1
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990992"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995944"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -57,7 +57,7 @@ Partner im indirekten Modell können diese zusätzlichen Felder in den beiden li
 </tbody>
 </table>
 
- 
+ 
 
 ## <a href="" id="licensebasedfiles"></a> Lizenzbasierte Dateifelder
 
@@ -179,7 +179,7 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="even">
 <td>Steuern</td>
-<td><p>USt.-Betrag auf der Grundlage der Steuervorschriften und spezifischen Gegebenheiten Ihres Markts.</p></td>
+<td><p>USt.-Betrag basierend auf Ihren Markt & #39; s Steuervorschriften und spezifischen gegebenheiten.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Firmenname des Kunden wie im Partner Center angegeben. Dies ist sehr wichtig für die Abstimmung der Rechnung mit Ihren Systeminformationen.</p></td>
+<td><p>Kunden & #39; Name des Unternehmens s wie im Partner Center angegeben. Dies ist sehr wichtig für die Abstimmung der Rechnung mit Ihren Systeminformationen.</p></td>
 <td>Test für Kunde A</td>
 </tr>
 <tr class="even">
@@ -204,12 +204,12 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>MPN-ID des registrierten Handelspartners für das Abonnement. Siehe [Aufschlüsseln nach Partner](#itemizebypartner).</p></td>
+<td><p>MPN-ID des registrierten Handelspartners für das Abonnement. Siehe <a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">Aufschlüsseln nach Partner</a>.</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Kundendomänenname: wird zur Identifizierung des Kunden verwendet. Dies sollte nicht verwendet werden, um den Kunden eindeutig zu identifizieren, wie der Kunde/Partner über das Office 365-Portal Vanity/Standarddomäne aktualisieren können. Dieses Feld wird bis zum zweiten Rechnungszyklus leer angezeigt.</p></td>
+<td><p>Kunden & #39; Domain Name, die zur Identifizierung des Kunden verwendet. Dies sollte nicht verwendet werden, um den Kunden eindeutig zu identifizieren, wie der Kunde/Partner über das Office 365-Portal Vanity/Standarddomäne aktualisieren können. Dieses Feld wird bis zum zweiten Rechnungszyklus leer angezeigt.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Firmenname des Kunden wie im Partner Center angegeben. Dies ist sehr wichtig für die Abstimmung der Rechnung mit Ihren Systeminformationen.</p></td>
+<td><p>Kunden & #39; Name des Unternehmens s wie im Partner Center angegeben. Dies ist sehr wichtig für die Abstimmung der Rechnung mit Ihren Systeminformationen.</p></td>
 <td>Test für Kunde A</td>
 </tr>
 <tr class="even">
@@ -272,7 +272,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>MPN-ID des registrierten Handelspartners für das Abonnement. Siehe [Aufschlüsseln nach Partner](#itemizebypartner).</p></td>
+<td><p>MPN-ID des registrierten Handelspartners für das Abonnement. Siehe <a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">Aufschlüsseln nach Partner</a>.</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>USt.-Betrag auf der Grundlage der Steuervorschriften und spezifischen Gegebenheiten Ihres Markts.</p></td>
+<td><p>USt.-Betrag basierend auf Ihren Markt & #39; s Steuervorschriften und spezifischen gegebenheiten.</p></td>
 <td>0,08$</td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Kundendomänenname: wird zur Identifizierung des Kunden verwendet. Dieses Feld wird bis zum zweiten Rechnungszyklus leer angezeigt.</p></td>
+<td><p>Kunden & #39; Domain Name, die zur Identifizierung des Kunden verwendet. Dieses Feld wird bis zum zweiten Rechnungszyklus leer angezeigt.</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -705,7 +705,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund 
 </td>
 <td>
 <p><em>Kann auf mehrere Gebührentypen angewendet werden</em></p>
-<p><em>Ausnahme: "Einen Artikel versetzen" enthält bereits Steuern. Siehe Guthaben, oben.</em></p>
+<p><em>Ausnahme: &quot;einen Artikel versetzen&quot; enthält bereits steuern. Siehe Guthaben, oben.</em></p>
 </td>
 <td>
 <p>Steuern oder Umsatzsteuern (Umsatzsteuer)</p>

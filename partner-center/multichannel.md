@@ -7,12 +7,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6dce06b0c65c3ac85318b1c04b5a8b490d620e55
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683669"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995604"
 ---
 # <a name="multi-channel-support"></a>Multichannel-Unterstützung
 
@@ -22,7 +22,7 @@ ms.locfileid: "8683669"
 -  Partner Center für Microsoft Cloud for US Government
 
 
-Das Multichannel-Feature im Partner Center unterstützt Szenarien, wenn ein Kunde einen Partner für Verwaltung und den support eines an anderer Stelle erworbenen Abonnements beauftragen möchte. Dieser Multichannel-Support ist in folgenden Fällen erforderlich:
+Das Multichannel-Feature im Partner Center unterstützt Szenarien, wenn ein Kunde einen Partner für die Verwaltung und den support eines an anderer Stelle erworbenen Abonnements beauftragen möchte. Dieser Multichannel-Support ist in folgenden Fällen erforderlich:
 
 -   Der Kunde hat bereits Abonnements direkt von Microsoft oder über die Programme Advisor, Open oder EA erworben.
 
@@ -37,13 +37,13 @@ Das Multichannel-Feature im Partner Center unterstützt Szenarien, wenn ein Kund
 <tbody>
 <tr class="odd">
 <td><p><strong>Lizenzbasierte Dienste</strong></p></td>
-<td><p>Um Support für Multichannel-Konten leisten zu können, müssen Sie vom Kunden die Berechtigungen zum Verwalten seiner Abonnements anfordern. Informationen dazu finden Sie unter [Beantragen einer Vertriebspartnerschaft mit einem Kunden](request-a-relationship-with-a-customer.md).</p></td>
+<td><p>Um Support für Multichannel-Konten leisten zu können, müssen Sie vom Kunden die Berechtigungen zum Verwalten seiner Abonnements anfordern. Informationen dazu finden Sie unter <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Beantragen einer Vertriebspartnerschaft mit einem Kunden</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Nutzungsbasierte Dienste</strong></p></td>
 <td>
-<p>Für Kunden, die bereits ein Abonnement von Microsoft Azure von einem anderen Kanal (z.B. Advisor, Open oder EA) besitzen, müssen Sie ein neues Azure-Abonnement im Partner Center erstellen, die Abonnementdetails manuell eingeben und dann die einzelnen Dienste oder das gesamte Abonnement stornieren.</p>
-<p>Für Kunden, die bereits über ein Abonnement für Microsoft Azure von einem anderen Partner verfügen, können Sie z.B. Azure-Dienste auf den anderen Partner übertragen. Weitere Informationen finden Sie unter [Übertragen von Azure-Abonnements auf einen anderen Partner](switch-azure-subscriptions-to-a-different-partner.md).</p>
+<p>Für einen Kunden, der ein Abonnement für Microsoft Azure von einem anderen Kanal, z. B. Advisor, Open, oder EA, & #39; bereits ll erstellen Sie ein neues Azure-Abonnement im Partner Center die Abonnementdetails manuell eingeben und dann die einzelnen Abbrechen Dienste oder das gesamte Abonnement.</p>
+<p>Für Kunden, die bereits über ein Abonnement für Microsoft Azure von einem anderen Partner verfügen, können Sie z.B. Azure-Dienste auf den anderen Partner übertragen. Weitere Informationen finden Sie unter <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Übertragen von Azure-Abonnements auf einen anderen Partner</a>.</p>
 </td>
 </tr>
 </tbody>
@@ -60,9 +60,9 @@ Wenn Sie ein indirekter Wiederverkäufer sind, lesen Sie die Informationen unter
 
 Wenn Sie ein indirekter Anbieter sind, lesen Sie die Informationen unter [Zusammenarbeiten mit indirekten Wiederverkäufern](indirect-provider-tasks-in-partner-center.md). 
 
- 
+ 
 
- 
+ 
 
 
 

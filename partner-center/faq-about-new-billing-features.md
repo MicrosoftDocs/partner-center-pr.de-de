@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 19544d00aa0a040b4dcf1a4733714dc80b4e745e
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: fe930a85f59420548863831a6e4fd311de09c6bc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683809"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8996014"
 ---
 # <a name="faq-about-new-billing-features"></a>Häufig gestellte Fragen zu neuen Abrechnungsfunktionen
 
@@ -138,7 +138,7 @@ Abschnitte:
 
 -   **A:** Ja. Sie können die Anzahl der Lizenzen für Ihre Abonnements jederzeit ändern. Das Hinzufügen von zusätzlichen Lizenzen wirkt sich nicht auf die Abrechnungshäufigkeit aus. 
 
-**F:** Kann ich Lizenzen mit monatlicher Abrechnung zu einem vorhandenen Abonnement mit jährlicher Abrechnung hinzufügen? 
+**F:** Kann ich Lizenzen hinzufügen mit monatlicher Abrechnung zu einem vorhandenen Abonnement mit jährlicher Abrechnung? 
 
 -   **A:** Nach dem Kauf eines Abonnement mit jährlicher Abrechnung gilt dieser Abrechnungsrhythmus für alle zusätzlichen Lizenzen. Wenn Sie Lizenzen mit einem monatlichen Abonnement benötigen, müssen Sie ein neues Abonnement kaufen.
 
@@ -242,17 +242,17 @@ Abschnitte:
 
 **F:** An wen können Sie sich bei Fragen zu Incentives wenden?
 
--   **A:** Wenden Sie sich an das jeweilige regionale Supportteam für Incentives.
+- **A:** Wenden Sie sich an das jeweilige regionale Supportteam für Incentives.
 
-    - Nordamerika: ocina@microsoft.com
+  - Nordamerika: ocina@microsoft.com
 
-    - Lateinamerika & Brasilien: ocilatam@microsoft.com
+  - Lateinamerika & Brasilien: ocilatam@microsoft.com
 
-    - EMEA: ociemea@microsoft.com
+  - EMEA: ociemea@microsoft.com
 
-    - APOAC (ausgenommen Japan): ociapgc@microsoft.com
+  - APOAC (ausgenommen Japan): ociapgc@microsoft.com
 
-    - Japan: ocijp@microsoft.com
+  - Japan: ocijp@microsoft.com
 
 
 **F:** Was geschieht, wenn ich mein Abonnement storniere? 

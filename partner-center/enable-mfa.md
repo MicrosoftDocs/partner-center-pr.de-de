@@ -8,23 +8,22 @@ author: labrenne
 ms.author: labrenne
 Keywords: health, service health,service problems
 ms.localizationpriority: medium
-ms.openlocfilehash: 2f309cb7aecd9dc9acb09b9fe9f2eaead05f2fea
-ms.sourcegitcommit: 62145037d37cc5e55b3af9c348f4ec41b7c82d48
+ms.openlocfilehash: 2789e333655d27b7009aaa020b461d70086c8ef2
+ms.sourcegitcommit: 365f51b1df6752ab0f6bcf2b26329d354fa36653
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/21/2018
-ms.locfileid: "8981609"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995021"
 ---
 # <a name="you-must-enable-multi-factor-authentication-mfa-on-your-tenant-to-gain-access-to-partner-center"></a>Sie müssen in Ihrem Mandanten für den Zugriff auf Partner Center Multi-Factor Authentication (MFA) aktivieren.
 
 **Betrifft:**
 
 - Partner Center
-- CPVs
+
 
 Microsoft Partner Center erfordert das Aktivieren der Multi-Factor Authentication (MFA) auf Partner Center zugreifen.  
 Partner können aktivieren Multi-Factor Authentication, die mit [Microsoft Azure MFA-Lösung](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks) oder ein Drittanbieter-Anbieter MFA-Lösungen übernehmen. Beachten Sie, dass die ausgewählte Drittanbieter-Lösung von Microsoft Azure Active Directory unterstützt werden muss. Finden Sie in der Dokumentation MFA-Lösung zu bestätigen. 
 
 Weitere Informationen zu [Azure MFA-Bereitstellung](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted). 
  
-Übernehmen Sie, und aktivieren Sie MFA, den Zugriff auf Microsoft Partner Center wieder zu aktivieren. 

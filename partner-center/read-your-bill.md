@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Abonnementabrechnungen, Abrechnung, Abrechnung im Partner Center, Partner Center-Abrechnung, meine Rechnung lesen, Rechnung, Rechnung für Partner Center, CSP-Abrechnung, wo ist meine Rechnung?
 ms.localizationpriority: medium
-ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: aec344eb7e4ed6e0a4d5e7e506c9bcf195654293
+ms.sourcegitcommit: 9eadb7ff6c38a08c694710a8c14b899d0f48059a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995874"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "8997339"
 ---
 # <a name="read-your-bill"></a>Informationen zu Ihrer Rechnung
 
@@ -28,7 +28,7 @@ Ihre Rechnung wechseln Sie zum Menü " **Partner Center** ", und wählen Sie dan
 Partner im Cloud Solution Provider-Programm mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte und die nutzungsbasierte Abonnements).
 
 > [!NOTE]  
-> Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und Kundenübergreifend) für den aktuellen Monatszeitraum dar und ist innerhalb von vier (4) Tagen nach Ablauf des ausgewählten Abrechnungsdatums verfügbar.
+> Ihre Rechnung stellt eine Zusammenfassung aller Gebühren – das Programm, Produkten und Kunden – für den aktuellen Abrechnungszeitraum und ist innerhalb von zwei (2) Tagen nach Ablauf des ausgewählten abrechnungsdatums in UTC-Zeit verfügbar. Z. B. Wenn Sie eine 12. September Abrechnungsdatum haben, Verarbeiten der Rechnung-Generation 00:00 Uhr UTC am 13. beginnt und abschließen, indem Sie 00:00 Uhr UTC auf die 14.. Wenn Sie Ihre Rechnung von UTC 23:59 Uhr am 15. nicht angezeigt werden, Sie aus Ihrer Service Level Agreement und sollte eine Serviceanfrage Datei. 
 
 Sie erhalten eine Rechnung für lizenzbasierte (Office 365) und Gebühren für nutzungsbasierte (Azure) und eine separate Rechnung für einmalige (Azure reserved VM Instances) Gebühren.
 

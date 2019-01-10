@@ -7,19 +7,19 @@ author: v-petand
 ms.author: v-petand
 keywords: Kunden, die Kunden, die Zustimmung
 ms.localizationpriority: medium
-ms.openlocfilehash: baab5e0fb3ac01284b210a2059b006ee2e17f921
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 356782420046cb8b49ac4e05981becd253d7049a
+ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795283"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "9000030"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Bestätigen Sie Abnahme der Vereinbarung für Microsoft Cloud durch den Kunden
+# <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Bestätigen Sie Kunden zur Annahme von den Microsoft-Cloud-Vertrag
 
 **Betrifft:**
 -  Partner Center
 
-Als Partner müssen Sie Ihre Kunden Abnahme der Vereinbarung für Microsoft Cloud zu erhalten, bevor Sie Microsoft-Produkte und Dienste für diesen Kunden bestellen können. Zum besseren erfüllen Partner Compliance-Anforderungen, Microsoft Partner fordert bestätigen Annahme hierzu werden die folgenden Details in Bezug auf die Person, die den Vertrag akzeptiert: 
+Partner müssen Sie Ihre Kunden Abnahme der Vereinbarung für Microsoft Cloud zu erhalten, bevor Sie Microsoft-Produkte und Dienste für diesen Kunden bestellen können. Zum besseren erfüllen Partner Compliance-Anforderungen auffordert, Microsoft Partner bestätigen Annahme hierzu werden die folgenden Details in Bezug auf die Person, die den Vertrag akzeptiert: 
 
 -   Vorname
 
@@ -31,30 +31,30 @@ Als Partner müssen Sie Ihre Kunden Abnahme der Vereinbarung für Microsoft Clou
 
 -   Datum der Annahme
 
-Weitere Informationen hierzu finden Sie in der [Microsoft Cloud Agreement Kunden Annahme Bestätigung häufig gestellte Fragen](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).
+Weitere Informationen finden Sie in der [Microsoft Cloud Agreement Kunden Annahme Bestätigung häufig gestellte Fragen](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).
 
 ## <a name="schedule"></a>Zeitplan
 
 **7 August 2018**
 
--   Online-Dienst Partner und indirekte Anbieter können Kunden Abnahme der Vereinbarung für Microsoft Cloud bestätigen. Bestätigung ist *optional*.
+-   Online-Dienst-Partner und indirekte Anbieter können Kunden zur Annahme von der Microsoft Cloud Agreement überprüfen. Bestätigung ist *optional*.
 
--   Bestätigung der Kunde Annahme kann über Partner Center oder Partner Center-API erfolgen.
+-   Bestätigung der Annahme von Kunden über Partner Center oder Partner Center-API möglich.
 
 -   Bestätigung der Kunde Annahme wird nur mit öffentlichen Cloud von Microsoft unterstützt.
 
 
 **7 November 2018**
 
--   Direkte Rechnung Partner und indirekte Anbieter **müssen** bestätigen Kunden Annahme von der Microsoft Cloud Agreement. Bestätigung ist *obligatorisch*.
+-   Bestätigen Online-Dienst-Partner und indirekte Anbieter **müssen** Kunden zur Annahme von der Microsoft Cloud Agreement. Bestätigung ist *obligatorisch*.
 
 -   Wenn Bestätigung nicht für einen bestimmten Kunden bereitgestellt wird:
 
-    -   Nicht werden mehr neue Aufträge für diesen Kunden erstellt.
+    -   Nicht werden für diese Kunden neue Aufträge erstellt.
 
-    -   Nicht werden mehr die Anzahl der Arbeitsplätze vorhandener arbeitsplatzbasierte Abonnements für diesen Kunden geändert.
+    -   Sie wird nicht die Anzahl der Arbeitsplätze vorhandener arbeitsplatzbasierte Abonnements für diesen Kunden ändern können.
 
--   Bestätigung der Kunde Annahme kann über Partner Center oder Partner Center-API erfolgen.
+-   Bestätigung der Annahme von Kunden über Partner Center oder Partner Center-API möglich.
 
 -   Bestätigung der Kunde Annahme wird nur mit öffentlichen Cloud von Microsoft unterstützt.
 
@@ -63,58 +63,62 @@ Weitere Informationen hierzu finden Sie in der [Microsoft Cloud Agreement Kunden
 
 ### <a name="confirm-customer-acceptance-for-a-new-customer"></a>Vergewissern Sie sich für einen neuen Kunden Abnahme durch den Kunden
 
-Gehen Sie folgendermaßen vor, um Abnahme durch den Kunden zu bestätigen, während Sie einen neuen kundenmandanten für im Partner Center erstellen. Beachten Sie, dass Sie ein Administrator-Agent oder Sales Agent zu diesem Zweck müssen. 
-1.  Wählen Sie **Kunden**und dann **neuen Kunden**.
+Verwenden Sie das folgende Verfahren, um Kunden Zustimmung zu bestätigen, während Sie einen neuen kundenmandanten für im Partner Center erstellen. Beachten Sie, dass Sie ein Administrator-Agent-Verkauf-Agent zu diesem Zweck sein müssen. 
+1.  Wählen Sie **Kunden**, und klicken Sie dann auf **neuen Kunden** , und wählen Sie dann die **Kontoinformationen**.
 
 2.  Geben Sie die Informationen zu dem **Unternehmen** und **Hauptansprechpartner**.
 
-3.  Wählen Sie unter **Microsoft Cloud Agreement** **der Kunde hat den neuesten Microsoft-Cloud-Vertrag akzeptiert**. 
+![Unternehmensinformationen](images/mca/mca1.png)
 
-4.  Geben Sie das entsprechende Datum, unter der **Annahmedatum der Vereinbarung**. Dies kann nicht zu einem späteren Zeitpunkt festgelegt werden.
+3.  Wählen Sie unter **Microsoft-Cloud-Vertrag** **der Kunde hat den neuesten Microsoft-Cloud-Vertrag akzeptiert**. 
+
+4.  Geben Sie unter der **Vereinbarung Annahme Datum, an dem**das entsprechende Datum. Dies kann nicht zu einem späteren Zeitpunkt festgelegt werden.
 
 5.  Geben Sie die Details des Benutzers, der die Annahme bereitgestellt. 
 
-    Standardmäßig wird die primäre Kontakt Benutzerinformationen angezeigt. Wenn dies nicht korrekt ist, wählen Sie **Aktualisieren** , und geben Sie dann die **Vorname**, **Nachname**, **E-Mail-Adresse**, und **Telefonnummer* (optional) der Person, die den Vertrag akzeptiert.
+![Acceptance Datum hinzufügen](images/mca/MCA3.png)
 
-    **Hinweis:** Vor der Bestätigung des Kunden obligatorisch Akzeptanz, Sie zur Bestätigung durch nicht auswählen der Option, die **der Kunde den neuesten Microsoft-Cloud-Vertrag angenommen hat**, und wählen dann **Weiter**überspringen können.
+Standardmäßig wird die primäre Kontakt Informationen angezeigt. Wenn dies nicht korrekt ist, wählen Sie **Aktualisieren** , und geben Sie dann die **Vorname**, **Nachname**, **E-Mail-Adresse**, und **Telefonnummer* (optional) der Person, die den Vertrag akzeptiert.
 
-6.  Wählen Sie **als Nächstes** die verbleibenden Schritte aus, um den kundenmandanten zu erstellen.
+
+6.  Wählen Sie **Weiter** mit die verbleibenden Schritte zum Erstellen von kundenmandanten.
 
 ### <a name="confirm-customer-acceptance-for-an-existing-customer"></a>Vergewissern Sie sich für einen vorhandenen Kunden Abnahme durch den Kunden
 
-Sie müssen ein Administrator-Agent oder Sales Agent zu diesem Zweck sein. 
+Sie müssen ein Administrator-Agent oder Verkäufe Agent, zu diesem Zweck sein. 
 
 1.  Wählen Sie **Kunden**, und suchen Sie und wählen Sie den Kunden, die, den Sie anzeigen möchten. 
 
-2.  Wählen Sie **Konto**.
+2.  Wählen Sie die **Kontoinformationen**.
 
-3.  Wählen Sie unter **Microsoft Cloud Agreement**- **Update**.
+3.  Wählen Sie unter **Microsoft Cloud Agreement** **Update**.
 
-4.  Geben Sie den **Vornamen**, **Nachnamen**, **E-Mail-Adresse**und **Telefonnummer** (optional des Benutzers, der den Vertrag akzeptiert).
+![Update](images/mca/mca4.png)
 
-5.  Geben Sie das entsprechende Datum, unter der **Annahmedatum der Vereinbarung**. Dies kann nicht zu einem späteren Zeitpunkt festgelegt werden.
+4.  Geben Sie die **Vorname**, **Nachname**, **E-Mail-Adresse**und **Telefonnummer** (optional) des Benutzers, der den Vertrag akzeptiert.
 
-6.  Wählen Sie **Speichern und fortsetzen**.
+5.  Geben Sie unter der **Vereinbarung Annahme Datum, an dem**das entsprechende Datum. Dies kann nicht zu einem späteren Zeitpunkt festgelegt werden.
+
+6.  Wählen Sie **Speichern und weiter**.
 
 ### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Vergewissern Sie sich beim Erstellen des neuen Auftrags für einen vorhandenen Kunden Abnahme durch den Kunden
 
-Wenn Sie versuchen, eine neue Bestellung für einen vorhandenen Kunden erstellen, die Sie nicht vor dem bestätigt haben, erhalten Sie eine Aufforderung zur Bestätigung abzuschließen. Gehen Sie folgendermaßen vor, um dies tun. 
+Wenn Sie versuchen, eine neue Bestellung für einen vorhandenen Kunden erstellen, die Sie nicht vor dem bestätigt haben, erhalten Sie dazu aufgefordert, führen Sie die Bestätigung. Verwenden Sie hierzu das folgende Verfahren. 
 
-1.  Geben Sie den **Vornamen**, **Nachnamen**, **E-Mail-Adresse**und **Telefonnummer** (optional des Benutzers, der den Vertrag akzeptiert).
+1.  Geben Sie die **Vorname**, **Nachname**, **E-Mail-Adresse**und **Telefonnummer** (optional) des Benutzers, der den Vertrag akzeptiert.
 
-2.  Geben Sie das entsprechende Datum, unter der **Annahmedatum der Vereinbarung**. Dies kann nicht zu einem späteren Zeitpunkt festgelegt werden.
+2.  Geben Sie unter der **Vereinbarung Annahme Datum, an dem**das entsprechende Datum. Dies kann nicht zu einem späteren Zeitpunkt festgelegt werden.
 
-3.  Wählen Sie **Speichern und fortsetzen**.
+3.  Wählen Sie **Speichern und weiter**.
 
-**Hinweis:** Vor der Bestätigung der Kunde Annahme obligatorisch ist, überspringen Sie zur Bestätigung, durch die Auswahl **Abbrechen**.
 
-### <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>Bestätigung der Kunde Annahme für einen vorhandenen Kunden abrufen
+### <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>Abrufen der Bestätigung der Kunde Annahme für einen vorhandenen Kunden
 
-Sie können zur Bestätigung der Kunde Annahme für einen vorhandenen Kunden abrufen, die Sie zuvor mit dem folgenden Verfahren bereitgestellt haben. Sie müssen ein Administrator-Agent oder Sales Agent zu diesem Zweck sein. 
+Sie können die Bestätigung der Kunde Annahme für einen vorhandenen Kunden abrufen, die Sie zuvor mit dem folgenden Verfahren bereitgestellt haben. Sie müssen ein Administrator-Agent oder Verkäufe Agent, zu diesem Zweck sein. 
 
 1.  Wählen Sie **Kunden**, und suchen Sie und wählen Sie den Kunden, die, den Sie anzeigen möchten. 
 
-2.  Wählen Sie **Konto**.
+2.  Wählen Sie die **Kontoinformationen**.
 
-3.  **Microsoft Cloud Agreement**sehen Sie, ob Bestätigung für diesen Kunden bereitgestellt wurde oder nicht.
+3.  **Microsoft Cloud Agreement**sehen Sie sich, unabhängig davon, ob eine Bestätigung für diesen Kunden zur Verfügung gestellt.
 

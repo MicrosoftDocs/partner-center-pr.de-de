@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote
 ms.localizationpriority: medium
-ms.openlocfilehash: 9318834c508629285265a4c2267e8ada10896db8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a58edd5c7643c5c72f12672d1e289d4266b2af23
+ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683779"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "9000050"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Programmleitfaden für Cloud-Lösungsanbieter, Vereinbarungen, Preislisten und Angebote
 
@@ -31,6 +31,9 @@ Sehen Sie sich die Informationen in diesem Artikel am, um die Anforderungen für
 Lesen Sie die Anforderungen, wie Sie ein Partner im CSP-Programm werden.
 
 [Programmleitfaden für Cloud Solution Provider-Partner](http://go.microsoft.com/fwlink/p/?LinkId=617100)
+
+>[!Note]
+>Fordern Sie Zertifizierung oder Bestätigung Status Buchstaben, Sie können es anfordern, indem Sie [an den Support wenden](https://partner.microsoft.com/pcv/servicerequests/create).
 
 ## <a name="cloud-solution-provider-partner-agreement"></a>Cloud Solution Provider – Partnervereinbarung
 
@@ -59,7 +62,7 @@ Microsoft Cloud Agreement [-Kundenvorlagen](agreements.md)
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Berufsgeheimnis Änderung der Microsoft Cloud Agreement (Deutschland)
 
-In Deutschland müssen der Kriminelle Code (Abschnitt 203) und die professional Verhaltensregeln bestimmte Client-Beziehungen sind, z. B. die Beziehung zwischen Patienten und ihre medizinische Ärzte und die Beziehung zwischen vertraulich zu Anwälte und ihren Clients. Diese beruflichen Gruppen müssen Berufsgeheimnis sicherstellen. Für diese und andere Berufe cloudbasierten Diensten von Cloud-Lösungsanbieter beziehen muss der Cloud-Dienstanbieter eine schriftliche Vereinbarung mit dem Kunden schließen, die Berufsgeheimnis sicherstellt. 
+In Deutschland müssen der Kriminelle-Code (Abschnitt 203) und die professional Verhaltensregeln bestimmte Client-Beziehungen sind, z. B. die Beziehung zwischen Patienten und ihre medizinische Ärzte und die Beziehung zwischen vertraulich zu Anwälte und ihren Clients. Diese beruflichen Gruppen müssen Berufsgeheimnis sicherzustellen. Für diesen und anderen Berufe cloudbasierten Diensten von Cloud-Lösungsanbieter zu erwerben muss der Cloud-Dienstanbieter eine schriftliche Vereinbarung mit dem Kunden schließen, die Berufsgeheimnis wird sichergestellt, dass. 
 
 Wenn Sie in Deutschland arbeiten, müssen Sie diese Änderung Berufsgeheimnis für Ihre Kunden zusätzlich zu den Microsoft-Cloud-Vertrag bereitzustellen.
 
@@ -71,7 +74,7 @@ Wenn Sie in Deutschland arbeiten, müssen Sie diese Änderung Berufsgeheimnis f�
 ## <a name="pricing"></a>Preise
 
 
-Laden Sie Preisdetails für lizenzbasierte nutzungsbasierte und einmalige Einkäufe auf der Seite **Preise und Angebote** , über das **Partner Center** -Menü verfügbar. 
+Laden Sie Preisdetails für lizenzbasierte nutzungsbasierte und einmalige Einkäufe von der Seite **Preise und Angebote, die **Partner Center** -Menü verfügbar** . 
 
 Die lizenzbasierte Preisliste wird monatlich aktualisiert, und Microsoft veröffentlicht neue Preise 30 Tage, bevor diese wirksam werden. Beispiele für lizenzbasierte Dienste sind Office365, Enterprise Mobility Suite und Microsoft Dynamics CRM. 
 
@@ -83,7 +86,7 @@ Einmalig erworbenes Preise sind dynamisch. Beispiele für einmalige Einkäufe si
 ## <a name="offers"></a>Angebote
 
 
-Als Partner im CSP können Sie eine Vielzahl von Microsoft-Produkte, Dienste und Lösungen, einschließlich Office 365, Enterprise Mobility Suite, Microsoft Dynamics und Microsoft Azure verkaufen. Weitere Informationen darüber, welche Angebote für den Verkauf innerhalb dieser Produktfamilien verfügbar sind, finden Sie unter der CSP-Angebotsmatrix auf der Seite **Preise und Angebote** , über das **Partner Center** -Menü verfügbar. Dieses Dokument wird jeden Monat aktualisiert.
+Als Partner im CSP können Sie eine Vielzahl von Microsoft-Produkte, Dienste und Lösungen, einschließlich Office 365, Enterprise Mobility Suite, Microsoft Dynamics und Microsoft Azure verkaufen. Weitere Informationen darüber, welche Angebote für den Verkauf innerhalb dieser Produktfamilien verfügbar sind, finden Sie in der CSP-Angebotsmatrix auf der Seite **Preise und Angebote, die **Partner Center** -Menü verfügbar** . Dieses Dokument wird jeden Monat aktualisiert.
 
 Für CSP-Partner, die die CREST-API für die Nutzungsaufzeichnung verwenden, veröffentlicht Microsoft auf der Seite **Preise und Angebote** auch eine Liste der Azure-Dienste in CSP.
 

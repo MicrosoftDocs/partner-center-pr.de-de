@@ -7,12 +7,12 @@ keywords: Empfehlungen, Antworten auf Empfehlungen, Vertriebskontakt, Leads, Ver
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c0c4dcb50a5805b0ef3a1e7f698b030a61818cc
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 0a654ac3a549d420d1684abe2174a5951026e242
+ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776484"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "9000040"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Umsatzsteigerung für Microsoft-Partner 
 
@@ -38,7 +38,7 @@ Microsoft bietet viele Ressourcen, mit denen Sie Ihr Partnergeschäft ausbauen k
 | Testversionen von Microsoft-Produkte anbieten | Lesen Sie [Testversionen von Microsoft-Produkte anbieten](offer-your-customers-trials-of-microsoft-products.md), um zu erfahren, wie Sie durch Testabonnements für Ihre Kundenbasis die Anzahl der Verkäufe erhöhen können.| CSP-Partner |
 | Sonderpreise für Microsoft-Abonnements anbieten | Microsoft bietet gelegentlich Werbeaktionen für lizenzbasierte Abonnements an, deren Einsparungen Sie an die Kunden weitergeben können. Lesen Sie dazu [Sonderpreise für Microsoft-Abonnements anbieten](promotions.md). | CSP-Partner |
 | In zusätzlichen Märkten verkaufen | Die Cloud Solution Provider-Vertriebskanal ist in vielen Regionen und Ländern verfügbar. Die entsprechende Liste finden Sie unter [Märkte für Cloud Solution Provider](agreements.md). Eine Einführung für den Cloud Solution Provider-Vertriebskanal finden Sie unter [Übersicht über Cloud Solution Provider](csp-overview.md).  | CSP-Partner |
-An spezielle Branchen z. B. dass gemeinnützige Organisationen den gesetzlichen und Bildungseinrichtungen verkaufen|[An spezielle Branchen verkaufen](get-special-pricing-for-offers.md)|CSP-Partner|
-|Steigerung des Umsatzes durch die viele Aktivitäten in der Incentives-op-Programm verfügbar. Datei Ansprüche für die Aktivitäten über das Partner Center.| [Erstellen und Verwalten eines Incentiveanspruchs](create-incentives-claims.md)|CSP-Partner|
-|Erstellen Sie neue Bündel der Software, indem Sie z. B. Drittanbieterangebote, die mit der Microsoft-Software arbeiten, die Sie bereits verkaufen|[Ermitteln von Drittanbieter-Angebote](third-party-offers.md)|CSP-Partner|
-|
+An spezielle Branchen wie strukturieren gemeinnützige Organisationen und Bildungseinrichtungen verkaufen|[An spezielle Branchen verkaufen](get-special-pricing-for-offers.md)|CSP-Partner|
+|Umsatzsteigerung durch die viele Aktivitäten in der Incentives-Co-op-Programm verfügbar. Datei Ansprüche für die Aktivitäten über das Partner Center.| [Erstellen und Verwalten eines Incentiveanspruchs](create-incentives-claims.md)|CSP-Partner|
+|Neue Bündel Software zu erstellen, einschließlich der Angebote von Drittanbietern, die Arbeit mit der Microsoft-Software, die Sie bereits verkaufen|[Ermitteln von Drittanbieter-Angebote](third-party-offers.md)|CSP-Partner|
+|Ist Ihr Unternehmen Superstar verkaufen und Verwalten von Azure? Wenden Sie an, um im Azure-Experte Microsoft Service Provider-Programm registrieren.|[Azure-Experte Microsoft Services Provider-Programm](azure-expert-msp.md)|CSP-Partner|

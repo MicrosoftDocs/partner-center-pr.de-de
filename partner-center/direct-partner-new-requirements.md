@@ -8,14 +8,14 @@ ms.author: labrenne
 keywords: CSP, direkte Partner, direkter Rechnung, Anforderungen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3282e925c9364d443fca52036dd8ae673a8350c3
-ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
+ms.openlocfilehash: c5bf89bd9f02dfd5a01018433bb5328e7c2a50a6
+ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/20/2018
-ms.locfileid: "8980604"
+ms.lasthandoff: 01/11/2019
+ms.locfileid: "9001680"
 ---
-# <a name="csp-direct-partner-new-requirements"></a>Direkte CSP-Partner– Neue Anforderungen
+# <a name="csp-direct-partner-new-requirements"></a>Direkte CSP-Partner – Neue Anforderungen
 
 **Betrifft:**
 
@@ -23,7 +23,7 @@ ms.locfileid: "8980604"
 
 ## <a name="enroll-as-a-direct-partner"></a>Sich als direkter Partner registrieren
 
-Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit Microsoft. Wir haben die Anforderungen für direkte Rechnung Partner ab 31. August 2018 aktualisiert. Diese neuen Anforderungen können Sie das Wachstum Ihres Unternehmens mit dem richtigen CSP-Registrierung Modell zu beschleunigen und Ihre Kunden festigen mit Mehrwert-Services und Support. 
+Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit Microsoft. Wir haben die Anforderungen für direkte Rechnung Partner ab August aktualisiert 31,2018. Diese neuen Anforderungen können Sie das Wachstum Ihres Unternehmens mit dem richtigen CSP-Registrierung Modell zu beschleunigen und Ihre Kunden festigen mit Mehrwert-Services und Support. 
 
 ### <a name="minimum-requirements"></a>Mindestanforderungen
 
@@ -31,12 +31,13 @@ Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit 
 |--------------------------------|--------------------------------------------------------------|
 |**MPN-ID**   |Eine aktive Microsoft Partner Network (MPN)-ID für Ihr Unternehmen Speicherort.   |
 |**Endorsement**   |Die Befugnis zum Akzeptieren und Signieren von Vereinbarungen im Auftrag Ihrer Organisation.|
-|**Support**   |Bereitstellen von der ersten Ebene des Cloud-Produkt für Ihre Kunden unterstützen.|
+|**Unterstützung**   |Bereitstellen von der ersten Ebene des Cloud-Produkt für Ihre Kunden unterstützen.|
 |**Managed Service**   |Mindestens ein verwalteter Dienst, IP-Dienst oder Kunden Lösung Anwendung. Erfahren Sie mehr über das Hinzufügen von [verwaltete Dienste](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
 |**Konten h.** |Die Organisations-Infrastruktur für Kunden, die Abrechnung und Bereitstellung verwalten. 
 
 Erfahren Sie mehr darüber, wie Sie einen [CSP-Händler](https://partner.microsoft.com/cloud-solution-provider)
 
-## <a name="transition-from-direct-to-indirect-reseller"></a>Übertragen von direkter, indirekter Händler
+<!-- for Jan 14 live date
+## Transition from direct to indirect reseller
 
-Wenn Sie von einem Unternehmen Online-Dienst für indirekte Reseller-Geschäfts zu verschieben, gibt es mehrere Schritte, die Sie durchführen müssen. Weitere Informationen zu den Übergang zu erhalten, lesen Sie [Übergang von der Cloud Solution Provider (CSP) direkter Partner, indirekter CSP-Händler](transition-direct-to-indirect) 
+If you decide to move from a direct bill business to indirect reseller business,there are several steps you will need to take. To learn more about the transition, read [Transition from Cloud Solution Provider (CSP) direct partner to CSP indirect reseller](transition-direct-to-indirect) -->

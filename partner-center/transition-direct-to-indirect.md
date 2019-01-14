@@ -1,5 +1,5 @@
 ---
-title: Übergang von der Cloud Solution Provider (CSP) direkte Partner, indirekter CSP-Händler | Partner Center
+title: Übergang von der Cloud Solution Provider (CSP) direkte Rechnung-Partner, indirekter CSP-Händler | Partner Center
 ms.topic: article
 ms.date: 12/18/2018
 description: Verstehen Sie, wie Sie von Online-Dienst-Partner, indirekter Händler übertragen wird
@@ -7,54 +7,64 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Online-Dienst, Übergang, indirekter Händler
-ms.openlocfilehash: 19778c048808dd28eea9ce0dc2f358b783ef5700
-ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
+ms.openlocfilehash: a4a09a4302775fb34cf45f37aed152a765e75ff8
+ms.sourcegitcommit: fe4e7cb7effea3343aec1be96a64323022822e84
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/20/2018
-ms.locfileid: "8980637"
+ms.lasthandoff: 01/14/2019
+ms.locfileid: "9004626"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>Übergang von Cloud Solution Provider (CSP) direkter Partner, indirekter CSP-Händler 
 
 **Betrifft**
  - CSP-Partner
 
-Der Übergang von direkter, indirekter Händler müssen mehrere Phasen den Übergang so einfach wie möglich auf Sie und Ihr Unternehmen zu erleichtern. 
+>[!Note] 
+>In diesem Artikel ist für Partner, die direkte Rechnung konzipiert, die für den Übergang zu indirekten Vertriebspartnern entschieden haben. 
+
+Sie werden in der Lage, sich mit Ihren Mandanten direkte Rechnung indirekter Vertriebspartner beim Programm registrieren. 
 
 ## <a name="get-started"></a>Erste Schritte
 
 1. Stellen Sie sicher, dass Ihr Partner-Profil im Partner Center und MPN-ID aktuell sind.
 
-2. Als globaler Administrator des Unternehmens melden Sie sich beim Partner Center.
+2. Melden Sie sich beim Partner Center als globaler Administrator für den Online-Dienst-Mandanten, die, den Sie in indirekten Händler transitioning sind.
 
-3. Wählen Sie Übersicht über die vom linken Navigationsbereich, und wählen Sie unter der aktuellen Aufgaben werden Sie ein indirekter Wiederverkäufer.
+![Übersicht](images/direct/direct1.png) 
 
-4. Überprüfen Sie die Partner-Informationen im Registrierungsformular aus
+3. Überprüfen Sie die Partner-Informationen im Registrierungsformular aus.
 
-5. Lesen Sie die Bestätigung der Autorisierung, und wählen Sie die Registrierung jetzt. Ihre indirekte Reseller-Geschäfts verwendet die gleiche AAD-Mandant, die Sie für Ihr Unternehmen direkt verwenden.
+![Jetzt registrieren](images/direct/direct2a.png) 
 
->[! Hinweis:] die Möglichkeit, registrieren ein indirekter Händler mit Ihrem AAD-Mandant Online-Dienst ist nur verfügbar, Rechnung Partner werden kann, die für die direkte Rechnung Offboarding identifiziert werden. 
+4. Wählen Sie Jetzt anmelden aus. Ihre indirekte Reseller-Geschäfts verwendet die gleiche AAD-Mandant, die Sie für Ihr Unternehmen direkt verwenden.
+
+>[!Note]
+>Die Option zum Registrieren als indirekter Händler mit Ihrer direkten Rechnung AAD-Mandant ist nur verfügbar, Rechnung Partner werden kann, die für die direkte Rechnung Offboarding identifiziert werden. 
 
 
-Wenn die Registrierung genehmigt wird, melden Sie sich beim Partner Center erneut.
+5. Wenn die Registrierung genehmigt wird, melden Sie sich beim Partner Center erneut.
 
->[! Hinweis:] während eine Genehmigung in der Regel sofort ist, kann es bis zu drei Arbeitstage dauern. Sobald, erhalten Sie eine Benachrichtigung über die e-Mail-Adresse, die Sie unter Hauptansprechpartner in im Registrierungsformular aus angegeben haben. Sie können auch die Registrierung Status unter **Einstellungen** → **Partner Einstellungen** → **Partnerprofil** → Programminformationen überprüfen. 
+>[!Note]
+> Während eine Genehmigung in der Regel sofort ist, kann es bis zu fünf Werktage dauern. Sobald, erhalten Sie eine Benachrichtigung an die e-Mail-Adresse, die Sie unter Hauptansprechpartner in im Registrierungsformular aus angegeben haben. Sie können auch die Registrierung Status unter **Einstellungen** → **Partner Einstellungen** → **Partnerprofil** → Programminformationen überprüfen. 
 
-Auf **der Übersichtsseite** sehen Sie die indirekte Reseller-Vereinbarung. Wählen Sie **Zustimmen und fortfahren** aus. Dies ermöglicht die indirekte Reseller-Funktionen.
+6. Auf **der Übersichtsseite** sehen Sie die indirekte Reseller-Vereinbarung. Wählen Sie **Zustimmen und fortfahren** aus. Dies ermöglicht die indirekte Reseller-Funktionen.
 
-Wenn Sie den Vertrag für indirekte Wiederverkäufer akzeptiert haben, beachten Sie, dass Ihr Partner-Profil Sie als **beide** direkten und indirekten Wiederverkäufer identifiziert.
+Wenn Sie den Vertrag für indirekte Wiederverkäufer akzeptiert haben, beachten Sie, dass Ihr Partner-Profil Sie als **sowohl** einen direkten Rechnung und indirekter Händler identifiziert.
 
->[! Hinweis:], nachdem Sie erfolgreich als indirekter Wiederverkäufer, die mit Ihren vorhandenen Online-Dienst-partnermandanten registriert haben, besteht keine Rollback-Möglichkeit, die indirekte Reseller-Funktionen entfernen. Bevor Sie mit der Registrierung fortfahren, stellen Sie sicher, dass Sie für den Wechsel in einen indirekten Händler möchten.
+![Indirekte Reseller-Vereinbarung](images/direct/direct3.png)
+
+>[!Important] 
+>Nachdem Sie erfolgreich als indirekter Wiederverkäufer, die mit Ihren vorhandenen Online-Dienst-partnermandanten registriert haben, besteht keine Rollback-Möglichkeit, die indirekte Reseller-Funktionen entfernen. Bevor Sie mit der Registrierung fortfahren, stellen Sie sicher, dass Sie für den Wechsel in einen indirekten Händler möchten.
 
 ## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Während Sie zwischen direkte und indirekte Wiederverkäufer Übergang
 
-In dieser Phase, die Sie zum Verwalten von weiterhin benötigt Ihre Kunden den-Abonnement, einschließlich Abrechnungsprozess. Sie müssen nicht bewegt werden über Ihre indirekte Anbieter noch beginnen. Aber Sie können auch beginnen, Kunden aus dem indirekten Anbieter und den Betrieb als indirekter Vertriebspartner akzeptieren.
+In dieser Phase, die Sie zum Verwalten von weiterhin benötigt Ihre Kunden den-Abonnement, einschließlich Abrechnungsprozess. Sie können auch beginnen, Kunden aus dem indirekten Anbieter und den Betrieb als indirekter Vertriebspartner akzeptieren.
 
-Auf der Kundenseite sehen Sie Ihre Kunden und diejenigen, die Sie erhalten als indirekter Vertriebspartner. Nicht, jedoch werden können neue Kunden hinzufügen.
+![Sie sind ein Online-Dienst und die indirekter Händler](images/direct/direct4.png)
 
 ## <a name="find-an-indirect-provider"></a>Suchen Sie einen indirekten Anbieter
 
-Nach dem registrieren, wird eine Verknüpfung mit indirekten Anbietern in der linken Navigationsleiste angezeigt. Als indirekter Händler werden Sie eine Beziehung mit einem indirekten Anbieter einrichten, die dann können bieten Sie Kunden als auch Ihre Infrastruktur und-Support zu behandeln.
+Nach dem registrieren, wird eine Verknüpfung mit indirekten Anbietern in der linken Navigationsleiste angezeigt. Als indirekter Händler werden Sie eine Beziehung mit einem indirekten Anbieter einrichten, dann können behandeln die Abrechnung, kaufen Produkte für Ihre Kunden und Infrastruktur unterstützen.
 
 Verschiedene indirekte Anbieter bieten unterschiedliche Unterstützung und Leistungen. Ermitteln Sie daher die Anbieter in Ihrer Umgebung, die Ihre Anforderungen am besten erfüllen. Die meisten Anbieter bieten Folgendes: 
 
@@ -64,25 +74,39 @@ Verschiedene indirekte Anbieter bieten unterschiedliche Unterstützung und Leist
 
 Suchen Sie die Liste mit den offizieller [Microsoft indirekte Anbieter](https://partnercenter.microsoft.com/partner/find-a-provider).
 
-Weitere Informationen zu lesen [Partner mit indirekten Anbietern](indirect-reseller-tasks-in-partner-center)
+Weitere Informationen zu lesen [Partner mit indirekten Anbietern](indirect-reseller-tasks-in-partner-center.md)
 
 ## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Eine Partnerschaft Einladung aus dem indirekten Anbieter akzeptieren
 
-Wenn Sie einen indirekten Anbieter zu gefunden haben, können herstellen Sie eine Partnerschaft mit der indirekte Anbieter im Partner Center.
+Wenn Sie einen indirekten Anbieter zu finden, können herstellen Sie eine Partnerschaft mit der indirekte Anbieter im Partner Center.
 
 Der indirekte Anbieter, die, den Sie auswählen, sendet in der e-Mail eine Partnerschaft Einladungslink Ihnen, die Sie für die Einladung im Partner Center durchführen wird. Achten Sie der globale Administrator für das Partner Center anmeldet, und der Einladung Hyperlink. Wenn Sie die Einladung annehmen, wird der Name des Anbieters in der Liste der indirekten Anbieter angezeigt.
 
-## <a name="create-an-azure-active-directory-ad-tenant-for-a-new-customer"></a>Erstellen Sie einen Azure Active Directory (AD) Mandanten für einen neuen Kunden
+## <a name="acquire-new-customers-as-indirect-reseller"></a>Gewinnen Sie neue Kunden, als indirekter Händler
+
+Ihnen und Ihrem indirekten Anbieter müssen Reseller-Geschäftsbeziehungen mit Kunden haben. Dadurch können Sie zum Verwalten von Abonnements und Dienste im Auftrag des Kunden. Um einen neuen Kunden zu erwerben, der über einen vorhandenen Azure AD-Mandanten verfügt, können Sie den Kunden, eine vertriebspartnerschaft mit Ihnen und Ihrem Anbieter zur gleichen Zeit können einladen. 
+
+So erstellen Sie eine Einladung indirekter Händler
+
+1. Wählen Sie **indirekte Anbieter** aus der linken Navigationsleiste für Partner Center 
+
+2. Wählen Sie **Invite new customers** aus, um einen Kunden zu bitten, eine Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzurichten. Der Anbieter muss über eine vertriebspartnerschaft mit Ihrem Kunden verfügen, damit er Aufträge im Namen des Kunden übermitteln kann, wenn der Kunde auf dieser neue Abonnements erwerben oder bereits vorhandenen Abonnements neue Lizenzen hinzufügen möchte.
+
+3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in e-Mail öffnen, oder Sie können die Nachricht in die Zwischenablage kopieren und in eine e-Mail einfügen.
+
+4. Bearbeiten Sie den Text in der e-Mail zu sagen, was Sie müssen Sie jedoch unbedingt den Link mit, da er personalisiert ist, um den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters zu verbinden. Wählen Sie dann **durchgeführt**.
+
+5. Nachdem der Kunde Sie und Ihren Anbieter als Vertriebspartner autorisiert hat, verfügen Sie über die nötigen Administratorberechtigungen zur Verwaltung seiner Abonnements, Lizenzen und Benutzer, und Ihr indirekter Anbieter kann Aufträge im Namen des Kunden übermitteln.
+6. Erweitern Sie zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem Sie neben seinem Namen auf den Pfeil nach unten klicken. 
 
 Im Gegensatz zu den Online-Dienst-Partner können keine indirekte Vertriebspartnern Azure AD-Mandanten für ihre neuen Kunden im Partner Center erstellen. Der Anbieter wird Mandanten erstellen und geben Sie als indirekter Vertriebspartner für diese Kunden. Dadurch wird sichergestellt, dass der Kunde in der Kundenliste im Partner Center angezeigt werden.
 
-## <a name="move-your-customers-to-your-indirect-provider"></a>Wechsel Ihrer Kunden auf Ihren indirekten Anbieter
+>[!Note]
+>Sie können kann nicht die Online-Dienst-Funktion zu verwenden, um Käufe für Kunden zu erstellen, die Sie als indirekter Händler erwerben.
 
-Wenn Sie in indirekten Händler übertragen müssen Ihnen und Ihrem indirekten Anbieter Reseller-Geschäftsbeziehungen mit Kunden haben. Dadurch können Sie zum Verwalten von Abonnements und Dienste im Auftrag des Kunden. 
+## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Wechsel Ihrer Kunden Online-Dienst auf dem indirekten Anbieter
 
-Um Administratorberechtigungen zum Verwalten von Abonnements und Diensten eines neuen Kunden zu erhalten **und** damit Ihr indirekter Anbieter neue Aufträge in ihrem Namen übermitteln kann, können Sie den Kunden zum Herstellen eine Reseller-Partnerschaft mit Ihnen und Ihrem Anbieter einladen. 
-
-### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-with-your-indirect-provider-at-the-same-time"></a>Einladen eines Kunden zur Einrichtung einer Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter
+Ihr indirekte Anbieter kann Aufträge für vorhandene Kunden Online-Dienst nicht übermitteln, bis sie eine vertriebspartnerschaft mit ihnen haben. Bitten Sie den Kunden, die mit der Einladung indirekter Händler, um die Reseller-Beziehung zwischen vorhandenen Kunden und Ihrem indirekten Anbieter einzurichten. 
 
 1. Wählen Sie **indirekte Anbieter** aus der linken Navigationsleiste für Partner Center
 
@@ -95,6 +119,9 @@ Um Administratorberechtigungen zum Verwalten von Abonnements und Diensten eines 
 5. Nachdem der Kunde Sie und Ihren Anbieter als Vertriebspartner autorisiert hat, verfügen Sie über die nötigen Administratorberechtigungen zur Verwaltung seiner Abonnements, Lizenzen und Benutzer, und Ihr indirekter Anbieter kann Aufträge im Namen des Kunden übermitteln.
 
 6. Erweitern Sie zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem Sie neben seinem Namen auf den Pfeil nach unten klicken.
+
+>[!Note]
+>Microsoft Store für Unternehmen kann derzeit kein Kunde eine Einladung indirekter Händler aus einer vorhandenen Online-Dienst-Partner zu akzeptieren. Microsoft Store für Unternehmen unterstützt in naher Zukunft. Bis dahin weiterhin für Ihre vorhandenen Online-Dienst-Kunden, die mit Ihrer Funktion Online-Dienst übermitteln.
 
 ## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Verwalten von Ihren Kunden Online-Dienst und Ihre Kunden indirekter Händler
 

@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Online-Dienst, Übergang, indirekter Händler
-ms.openlocfilehash: a4a09a4302775fb34cf45f37aed152a765e75ff8
-ms.sourcegitcommit: fe4e7cb7effea3343aec1be96a64323022822e84
+ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/14/2019
-ms.locfileid: "9004626"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011107"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>Übergang von Cloud Solution Provider (CSP) direkter Partner, indirekter CSP-Händler 
 
@@ -156,3 +156,5 @@ Ihre Kunden Online-Dienst und Verwalten Ihrer indirekter Wiederverkäufer Kunden
 Nachdem Sie erfolgreich als indirekter Händler für Ihren Mandanten Rechnung direkte Partner registriert haben, erhalten Sie eine Einladung innerhalb von 30 Tagen auf indirekter Vertriebspartner registrieren. Die Einladung basiert auf der Partner MPN-Konto, das derzeit mit dem CSP-partnermandanten verknüpft ist. Die Einladung wird an die e-Mail-Adresse mit dem Partner MPN-Konto gesendet werden. 
 
 Sie können auch für Bonusprogramme Online-Dienst, mit dem gleichen partnermandanten registrieren. Sie müssen die Programme separat verwalten.
+
+Siehe auch [zusätzliche Informationen indirekter Wiederverkäufer](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) und die [direkte Rechnung indirekter Händler – häufig gestellte Fragen](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).

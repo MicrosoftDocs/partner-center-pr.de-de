@@ -1,19 +1,19 @@
 ---
 title: CSP, direkte Partner neue Anforderungen | Partner Center
 ms.topic: article
-ms.date: 12/18/2018
+ms.date: 1/14/2018
 Description: If you are currently enrolled in the CSP program as a direct partner, you should prepare to meet these updated support and services requirements.
 program.author: labrenne
 ms.author: labrenne
 keywords: CSP, direkte Partner, direkter Rechnung, Anforderungen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c5bf89bd9f02dfd5a01018433bb5328e7c2a50a6
-ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
+ms.openlocfilehash: 4e4052a54ab7ddbd53f6d793512704de8aa13670
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "9001680"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011087"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>Direkte CSP-Partner – Neue Anforderungen
 
@@ -37,7 +37,8 @@ Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit 
 
 Erfahren Sie mehr darüber, wie Sie einen [CSP-Händler](https://partner.microsoft.com/cloud-solution-provider)
 
-<!-- for Jan 14 live date
-## Transition from direct to indirect reseller
+## <a name="transition-from-direct-to-indirect-reseller"></a>Übertragen von direkter, indirekter Händler
 
-If you decide to move from a direct bill business to indirect reseller business,there are several steps you will need to take. To learn more about the transition, read [Transition from Cloud Solution Provider (CSP) direct partner to CSP indirect reseller](transition-direct-to-indirect) -->
+Wenn Sie von einem Unternehmen Online-Dienst für indirekte Reseller-Geschäfts zu verschieben, gibt es mehrere Schritte, die Sie durchführen müssen. Weitere Informationen zu den Übergang zu erhalten, lesen Sie [Übergang von der Cloud Solution Provider (CSP) direkter Partner, indirekter CSP-Händler](transition-direct-to-indirect.md). 
+
+Siehe auch [zusätzliche Informationen indirekter Wiederverkäufer](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) und die [direkte Rechnung indirekter Händler – häufig gestellte Fragen](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).

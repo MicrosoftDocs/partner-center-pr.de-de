@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Azure-Abonnement, Partner wechseln, Partner ändern, neue Partner, andere Partner
 ms.localizationpriority: medium
-ms.openlocfilehash: d66e24d831aa3ea9d84138d1ca06e5e9be51742b
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: f9df7ac6c1e30f9e0d9d62c5e0c18aae529c472a
+ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995894"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "9014807"
 ---
 # <a name="transfer-azure-subscriptions"></a>Übertragen von Azure-Abonnements 
 
@@ -25,8 +25,7 @@ Kunden können den Cloud Solution Provider-Partner oder einen anderen Partner f�
 
 >[!Note]  
 >Zu diesem Zeitpunkt können nur direkter oder indirekter Anbieter Abonnements übertragen.
-
->[!Note]Es ist nicht derzeit möglich, Partner für Cloud Solution Provider-Abonnements für Office 365, Enterprise Mobility Suite oder Microsoft Dynamics CRM-Abonnements zu ändern.
+>Es ist nicht derzeit möglich, Partner für Cloud Solution Provider-Abonnements für Office 365, Enterprise Mobility Suite oder Microsoft Dynamics CRM-Abonnements zu ändern.
 
 
 

@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Online-Dienst, Übergang, indirekter Händler
-ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
-ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
+ms.openlocfilehash: da130f87825c9e5c81bf87de6e8cde49e5148577
+ms.sourcegitcommit: ebba5c5d0fb1603f787a40003995e168f80ff797
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "9011107"
+ms.lasthandoff: 01/21/2019
+ms.locfileid: "9015726"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>Übergang von Cloud Solution Provider (CSP) direkter Partner, indirekter CSP-Händler 
 
@@ -39,7 +39,7 @@ Sie werden in der Lage, sich mit Ihren Mandanten direkte Rechnung indirekter Ver
 4. Wählen Sie Jetzt anmelden aus. Ihre indirekte Reseller-Geschäfts verwendet die gleiche AAD-Mandant, die Sie für Ihr Unternehmen direkt verwenden.
 
 >[!Note]
->Die Option zum Registrieren als indirekter Händler mit Ihrer direkten Rechnung AAD-Mandant ist nur verfügbar, Rechnung Partner werden kann, die für die direkte Rechnung Offboarding identifiziert werden. 
+>Zunächst wird diese neue Funktion für den Übergang für Partner, die mit September Dezember Anniversary Datumsangaben verfügbar. Wenn Sie nicht "zwischen September und Dezember Jahrestage haben, sehen Sie nicht die Funktion zu diesem Zeitpunkt. Partner mit Anniversary Datumsangaben nach Dezember 2018 später benachrichtigt werden soll, nachdem das Feature für den Partnern aktiviert ist.
 
 
 5. Wenn die Registrierung genehmigt wird, melden Sie sich beim Partner Center erneut.
@@ -54,7 +54,7 @@ Wenn Sie den Vertrag für indirekte Wiederverkäufer akzeptiert haben, beachten 
 ![Indirekte Reseller-Vereinbarung](images/direct/direct3.png)
 
 >[!Important] 
->Nachdem Sie erfolgreich als indirekter Wiederverkäufer, die mit Ihren vorhandenen Online-Dienst-partnermandanten registriert haben, besteht keine Rollback-Möglichkeit, die indirekte Reseller-Funktionen entfernen. Bevor Sie mit der Registrierung fortfahren, stellen Sie sicher, dass Sie für den Wechsel in einen indirekten Händler möchten.
+>Nachdem Sie sich als indirekter Händler mit der neuen Funktion registrieren, gibt es keine Option zum Zurücksetzen auf eine einzige direkte Rechnung - Mandanten. Stellen Sie sicher, dass Sie Ihre geschäftlichen Anforderungen vor der Registrierung als indirekter Vertriebspartner vollständig evaluieren.
 
 ## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Während Sie zwischen direkte und indirekte Wiederverkäufer Übergang
 

@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: Schulungen Belege, Software Assurance, Schulungen, überprüfen, Belege, reservieren Beleg
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ca745281ed0e37ee6ec2e72df4ede4def17bcc7
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 457f2c7e0e43f03bac0f861ae3f4ec87a1173d0f
+ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015365"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "9024872"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Häufig gestellte Fragen: Verwenden der Beleg Überprüfung und bei Einlösung des Tools 
 
@@ -33,12 +33,12 @@ Ab März 31, 2019, werden alle Partner ihre Belege im Partner Center verwalten. 
 
 **Mein Unternehmen wurde von PMC migriert, aber wir noch nicht die DPS/SATV-Programme in den letzten 18 Monaten verwendet.**
 
-- Wenden Sie sich an die [PMC Team zu unterstützen](proghelp@microsoft.com). 
+- Wenden Sie sich an die [PMC Team zu unterstützen](mailto:proghelp@microsoft.com). 
 
 
 **Mein Unternehmen wurde von PMC zu Partner Center migriert. Muss ich VVR arbeiten bestimmte nichts?** 
 
-- Sie müssen VVR im Partner Center verwenden können.  Um VVR zu verwenden, kann der Administrator für MPN-Partner in das Partner Center mit ihrer e-Mail-Adresse Konto anmelden. Wenn Sie neue Benutzer hinzufügen möchten, kann der globale Administrator oder der MPN-Administrator Folgendes tun. Wenn Sie Zugriff auf Partner Center haben, wechseln Sie zur **Verwaltung**, wählen **Benutzer**, und auf **MPN-Administrator**zu filtern. Dadurch erhalten Sie eine Liste der MPN-Administratoren Ihres Unternehmens.  
+- Sie müssen VVR im Partner Center verwenden können.  Um VVR zu verwenden, kann der Administrator für MPN-Partner in das Partner Center mit ihrer e-Mail-Adresse Konto anmelden. Wenn Sie neue Benutzer hinzufügen möchten, möglich der globale Administrator dies. Wenn Sie Zugriff auf Partner Center haben, wechseln Sie zur **Verwaltung**, wählen **Benutzer**, und auf **MPN-Administrator** der **globale Administrator**zu filtern. Dadurch erhalten Sie eine Liste der MPN und globale Administratoren Ihres Unternehmens.  
 
 **Ich möchte nur wenige Benutzer VVR zugreifen können**
 
@@ -49,5 +49,5 @@ Ab März 31, 2019, werden alle Partner ihre Belege im Partner Center verwalten. 
 - Partner Center müssen Sie für die Anmeldung mit einem Geschäftskonto (AAD).  CHIP verwendet derzeit persönliches Konto für die Anmeldung (MSA oder Live ID).  Wenn von VVR im Partner Center zu CHIP navigiert wird, müssen Sie melden Sie sich beim CHIP über das Microsoft-Konto oder das Live ID, die mit CHIP registriert ist.
 
 Informationen zum Registrieren in SATV finden Sie unter [Software Assurance Schulungen Beleg (SATV)-Programm im Partner Center](software-assurance-satv.md).
-
-Informationen zur Verwendung in Software Assurance DPS-Programmen, lesen die [Software Assurance-Programme in Partner Center](software-assurance-dps.md)registrieren.
+ <!--
+For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->

@@ -12,7 +12,8 @@
 
 # [Cloud Solution Provider](csp-overview.md)
 ## [Registrieren für das Programm für Cloud Solution Provider](enrolling-in-the-csp-program.md)
-## [Direkte CSP-Partner – Neue Anforderungen](direct-partner-new-requirements.md) 
+## [Neue Anforderungen für direkte CSP-Partner](direct-partner-new-requirements.md) 
+## [Übergang vom direkten Cloud Solution Provider (CSP)-Partner zum indirekten CSP-Wiederverkäufer](transition-direct-to-indirect.md)
 ## [Registrieren als Control Panel-Anbieter](enroll-as-cpv.md)
 ###[Sie müssen auf Ihrem Mandanten für den Zugriff auf diese Seite Multi-Factor Authentication (MFA) aktivieren.](enable-mfa.md)
 ## [CSP-Verträge, Preislisten und Angebote](csp-documents-and-learning-resources.md)
@@ -42,8 +43,8 @@
 ## [Incentiveansprüche](claims-overview.md)
 ### [Erstellen und Verwalten eines Incentiveanspruchs](create-incentives-claims.md)
 ### [Grundlegende Anforderungen für Incentiveansprüche](core-requirements.md)
-### [Übersicht über die Bezahlung von Incentiveansprüchen](incentives-payouts.md)
-
+### [Übersicht über die Bezahlung von Incentives-Ansprüchen](incentives-payouts.md)
+## [Azure Expert Microsoft Services Provider-Programm](azure-expert-msp.md)
 
 # [Abrechnung und Steuern](billing.md)
 ## [CSP-Abrechnungsübersicht](billing-basics.md)

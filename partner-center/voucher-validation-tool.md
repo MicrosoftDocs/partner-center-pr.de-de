@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ee3449cc4ebde4417bd1b30c3f944ebdbb47d55
-ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
+ms.openlocfilehash: ede912569436c159b2dcc1661298e712f9b2065e
+ms.sourcegitcommit: daa8de3e6a269b28e77e097792ac35d70fa26461
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "9025334"
+ms.lasthandoff: 01/26/2019
+ms.locfileid: "9030070"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Verwenden Sie das Tool Beleg Überprüfung und bei Einlösung des im Partner Center, überprüfen, reservieren und Belege einlösen 
 
@@ -60,7 +60,7 @@ Nachdem Sie einen Beleg reserviert haben, können Sie es einlösen.
 
 Es gibt verschiedene Gründe dafür, dass Sie möglicherweise die Beleg-Reservierung stornieren:
 
-- Das Angebot oder Programm wurde von geändert, wenn die Boucher ursprünglich reserviert wurde.
+- Das Angebot oder Programm wurde von bei der Beleg ursprünglich reserviert wurde geändert.
 
 - Die Interaktion erfolgt nicht mehr.
 

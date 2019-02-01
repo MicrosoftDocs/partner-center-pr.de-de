@@ -6,12 +6,12 @@ description: Grundlegendes zu den verschiedenen Modellen für den Verkauf in CSP
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 60604fd121c3cf47e85e57bb903e2b4dd2fac96c
-ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
+ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
+ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "9001700"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "9042584"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud Solution Provider
 
@@ -26,17 +26,17 @@ Die rasant wachsende Nachfrage nach cloudbasierten Lösungen und Diensten bietet
 
 Um sich beim Programm für Cloud Solution Provider zu registrieren, benötigen Sie zuerst eine MPN-ID. Besitzen noch keine? Treten Sie [hier](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=) bei.
 
-Beim Ausfüllen der CSP-Anwendungs benötigen Sie Ihre MPN-ID, vollständige Geschäftsadresse, Bankverbindungen und die e-Mail-Adresse des Mitarbeiters, der als Administrator für das Partner Center fungiert.
+Beim Ausfüllen der CSP-Anwendungs, benötigen Ihre MPN-ID, vollständige Geschäftsadresse, Bankverbindungen und die e-Mail-Adresse Sie für den Mitarbeiter, der als Administrator für das Partner Center fungiert.
 
-1. Melden Sie sich beim Partner Center mit Ihrer e-Mail-Adresse (AAD-Mandant Anmeldeinformationen)
+1. Melden Sie sich beim Partner Center mit Ihrer e-Mail-Adresse (AAD-Mandanten-Anmeldeinformationen)
 
 2. Erstellen Sie Ihr Partnerprofil, und ordnen Sie Ihre MPN-Id für Ihr Profil.
 Die Überprüfung Ihrer Angaben kann mehrere Tage dauern. Wir werden Sie per E-Mail informieren, wenn unsere Überprüfung abgeschlossen ist.
 
-3. Nachdem wir Ihre Informationen überprüft haben, akzeptieren Sie die Vereinbarung zu Microsoft indirekter Händler.
+3. Nachdem wir Ihre Informationen überprüft haben, akzeptieren Sie die Microsoft indirekter Händler Begriffe.
 
 > [!IMPORTANT]  
-> Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Diese Einschränkung gilt nur für Mandanten, die für die Durchführung von CSP-Transaktionen verwendet werden. CSP-Partner, die einen nicht-Csp-Mandanten für seine geschäftlichen verwenden, können Onlinedienste von einem anderen CSP-Partner erwerben. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Neuigkeiten künftigen Versionen werden einschließlich [Partner Center](https://partner.microsoft.com/en-us/pcv/announcements)über die üblichen Kommunikationskanäle vorgenommen.
+> Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Diese Einschränkung gilt nur für Mandanten, die für die Durchführung von CSP-Transaktionen verwendet werden. CSP-Partner, die einen nicht-Csp-Mandanten für seine geschäftlichen verwenden, können Onlinedienste von einem anderen CSP-Partner erwerben. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Neuigkeiten Versionen werden einschließlich [Partner Center](https://partner.microsoft.com/en-us/pcv/announcements)über die üblichen Kommunikationskanäle vorgenommen werden.
 
 ### <a name="find-an-indirect-provider"></a>Suchen Sie einen indirekten Anbieter
 
@@ -58,23 +58,32 @@ Weitere Informationen zu den Anforderungen für den Vertrieb im CSP-Programm als
 
 ### <a name="enroll-as-a-direct-partner"></a>Sich als direkter Partner registrieren
 
-Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit Microsoft. Wir haben die Anforderungen für direkte Rechnung Partner ab 31. August 2018 aktualisiert. Diese neuen Anforderungen können Sie das Wachstum Ihres Unternehmens mit dem richtigen CSP-Registrierung Modell zu beschleunigen und Ihre Kunden festigen mit Mehrwert-Services und Support. 
+Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit Microsoft. Wir haben die Registrierung Anforderungen für die direkten Rechnung Partner ab 31. August 2018 aktualisiert. Diese neuen Anforderungen hilft Ihnen das Wachstum Ihres Unternehmens mit dem richtigen CSP-Registrierung Modell zu beschleunigen und Ihre Kunden festigen mit Mehrwert-Services und Support. 
 
 ### <a name="minimum-requirements"></a>Mindestanforderungen
 
 |**Anforderung**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN-ID**   |Eine aktive Microsoft Partner Network (MPN)-ID für Ihr Unternehmen Speicherort.   |
+|**MPN-ID**   |Eine aktive Microsoft Partner Network (MPN)-ID für Ihr Unternehmensstandort.   |
 |**Endorsement**   |Die Befugnis zum Akzeptieren und Signieren von Vereinbarungen im Auftrag Ihrer Organisation.|
-|**Unterstützung**   |Bereitstellen von der ersten Ebene des Cloud-Produkt für Ihre Kunden unterstützen.|
+|**Support**   |Für Ihre Kunden unterstützt die Möglichkeit, die erste Ebene der Cloud-Produkt bereitzustellen.|
 |**Managed Service**   |Mindestens ein verwalteter Dienst, IP-Dienst oder Kunden Lösung Anwendung. Erfahren Sie mehr über das Hinzufügen von [verwaltete Dienste](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
-|**Konten h.** |Die Organisations-Infrastruktur für Kunden, die Abrechnung und Bereitstellung verwalten. 
+|**Konten h.** |Die Organisations-Infrastruktur zum Verwalten von Kunden, die Abrechnung und Bereitstellung. 
 
 
+Nachdem Sie die Mindestanforderungen überprüft haben, müssen Sie einen Fragebogen schnelle Überprüfung, um Ihre Berechtigung zu bestätigen ausführen. 
+
+[Cloud-Lösungsanbieter assessment](https://partner.microsoft.com/cloud-solution-provider/assessment)
+
+- Sobald Sie angemeldet sind und die Kriterien als direkter Partner erfüllen, kann der globale Administrator Ihr Konto einrichten, Mitarbeiter hinzufügen, diesen Rollen und Berechtigungen gemäß ihrer Arbeit zuweisen und das Organisationsprofil einrichten.
+
+- Wenn Sie mit Kunden, die Sie über das Partner Center gearbeitet haben mit Arbeit fortsetzen möchten, müssen Sie zum [Zuordnen von Vertriebspartnern](request-a-relationship-with-a-customer.md) für Ihr Konto im Partner Center. Microsoft kann so die Abrechnung und Fakturierung mit Ihnen verbinden. 
+
+Informationen zur Umstellung von einem Online-Dienst-Partner in einen indirekten Händler finden Sie unter [Übergang von Cloud Solution Provider (CSP) Online-Dienst-Partner in CSP indirekten Händler](transition-direct-to-indirect.md)
 
 ## <a name="csp-regional-markets-and-currencies"></a>Regionale CSP-Märkte und Währungen
 
-Ihres Unternehmens-Standort bestimmt die Markt. Ihren Markt enthält der Regionen bzw. Ländern, in denen Sie CSP-Angebote verkaufen können. Finden Sie unter Markt Speicherorte und Währungen [regionale Märkte für Cloud-Lösungsanbieter-Programm](regional-authorization-overview.md) und Währungen verwendet
+Ihres Unternehmens-Standort bestimmt Ihren Markt. Ihren Markt enthält der Regionen bzw. Ländern, in denen Sie CSP-Angebote verkaufen können. Finden Sie unter Markt Speicherorte und Währungen zur [Cloud-Lösungsanbieter-Programm regionale Märkte und Währungen](regional-authorization-overview.md)
 
 
 

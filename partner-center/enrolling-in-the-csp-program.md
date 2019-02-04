@@ -6,12 +6,12 @@ description: Grundlegendes zu den verschiedenen Modellen für den Verkauf in CSP
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
-ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
+ms.openlocfilehash: 56a67d5843394e05007f54683ad4baec93033eb7
+ms.sourcegitcommit: 09ec3a0f1bcf90b52199447314f6905c91dc15e3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "9042584"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043509"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud Solution Provider
 
@@ -56,28 +56,26 @@ Weitere Informationen zu den Anforderungen für den Vertrieb im CSP-Programm als
 
 
 
-### <a name="enroll-as-a-direct-partner"></a>Sich als direkter Partner registrieren
+### <a name="enroll-as-a-direct-bill-partner"></a>Als direkte Rechnung Partner registrieren
 
-Als direkte Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit Microsoft. Wir haben die Registrierung Anforderungen für die direkten Rechnung Partner ab 31. August 2018 aktualisiert. Diese neuen Anforderungen hilft Ihnen das Wachstum Ihres Unternehmens mit dem richtigen CSP-Registrierung Modell zu beschleunigen und Ihre Kunden festigen mit Mehrwert-Services und Support. 
+Online-Dienst-Partner haben Sie die End-to-End-Beziehung mit Ihren Kunden und mit Microsoft. Wir haben die Registrierung Anforderungen für die direkten Rechnung Partner ab 31. August 2018 aktualisiert. Diese neuen Anforderungen hilft Ihnen das Wachstum Ihres Unternehmens mit dem richtigen CSP-Registrierung Modell zu beschleunigen und Ihre Kunden festigen mit Mehrwert-Services und Support. 
 
 ### <a name="minimum-requirements"></a>Mindestanforderungen
 
 |**Anforderung**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN-ID**   |Eine aktive Microsoft Partner Network (MPN)-ID für Ihr Unternehmensstandort.   |
+|**MPN-ID**   |Eine aktive Microsoft Partner Network (MPN)-ID für Ihr Unternehmensstandort.    |
 |**Endorsement**   |Die Befugnis zum Akzeptieren und Signieren von Vereinbarungen im Auftrag Ihrer Organisation.|
-|**Support**   |Für Ihre Kunden unterstützt die Möglichkeit, die erste Ebene der Cloud-Produkt bereitzustellen.|
+|**Support**   |Für Ihre Kunden unterstützt die Möglichkeit, die erste Ebene der Cloud-Produkt bereitzustellen. Ein Microsoft-Supportplan, entweder erweiterte Unterstützung für Partner (ASfP) oder Premier-Support für Partner (PSfP), je nach Bedarf. [Vergleichen Sie Support-Pläne](https://partner.microsoft.com/en-US/support/partnersupport). |
 |**Managed Service**   |Mindestens ein verwalteter Dienst, IP-Dienst oder Kunden Lösung Anwendung. Erfahren Sie mehr über das Hinzufügen von [verwaltete Dienste](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
 |**Konten h.** |Die Organisations-Infrastruktur zum Verwalten von Kunden, die Abrechnung und Bereitstellung. 
 
 
-Nachdem Sie die Mindestanforderungen überprüft haben, müssen Sie einen Fragebogen schnelle Überprüfung, um Ihre Berechtigung zu bestätigen ausführen. 
+Nachdem Sie die oben genannten Mindestanforderungen überprüft haben, müssen Sie einen Fragebogen schnelle Überprüfung, um Ihre Berechtigung zu bestätigen ausführen. 
 
-[Cloud-Lösungsanbieter assessment](https://partner.microsoft.com/cloud-solution-provider/assessment)
+[Cloud-Lösungsanbieter Fragebogen](https://partner.microsoft.com/cloud-solution-provider/assessment)
 
-- Sobald Sie angemeldet sind und die Kriterien als direkter Partner erfüllen, kann der globale Administrator Ihr Konto einrichten, Mitarbeiter hinzufügen, diesen Rollen und Berechtigungen gemäß ihrer Arbeit zuweisen und das Organisationsprofil einrichten.
-
-- Wenn Sie mit Kunden, die Sie über das Partner Center gearbeitet haben mit Arbeit fortsetzen möchten, müssen Sie zum [Zuordnen von Vertriebspartnern](request-a-relationship-with-a-customer.md) für Ihr Konto im Partner Center. Microsoft kann so die Abrechnung und Fakturierung mit Ihnen verbinden. 
+Bewertung des Fragebogens bestimmt berechtigt, im direkten Rechnung CSP-Programm zu registrieren. Sobald Sie über den Fragebogen bestätigt haben, dass Sie die direkte Rechnung Kriterien und im Registrierungsformular aus gesendet wurde, führen wir Geschäftsprofil Ihres Unternehmens, einschließlich einer Gutschrift-Überprüfung. Wenn Sie eine Gutschrift genehmigt sind, müssen Sie den Kauf einer ASfP oder einer PSfP Plan bestätigen und schließlich Lizenzvertrag direkte Rechnung Begriffe beginnen mit Kunden als direkte Rechnung Partner Transaktionen.
 
 Informationen zur Umstellung von einem Online-Dienst-Partner in einen indirekten Händler finden Sie unter [Übergang von Cloud Solution Provider (CSP) Online-Dienst-Partner in CSP indirekten Händler](transition-direct-to-indirect.md)
 

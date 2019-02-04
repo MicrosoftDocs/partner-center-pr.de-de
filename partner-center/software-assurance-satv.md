@@ -1,30 +1,30 @@
 ---
-title: Software Assurance Schulungen Beleg (SATV)-Programm im Partner Center | Partner Center
+title: Software Assurance Schulung Beleg (SATV)-Programm im Partner Center | Partner Center
 ms.topic: article
 ms.date: 01/16/19
-description: Registrieren Sie sich für die Software Assurance Schulungen-Anwendung
+description: Registrieren Sie sich für die Software Assurance Schulung-Anwendung
 author: labrenne
 ms.author: labrenne
 keywords: Schulungen Belege, Software Assurance, Schulungen, registrieren Sie sich für SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0183f63272c06a9b2bcfeffd89b319258c657bfb
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 305ee8fad4de9f9928dd07ee49dd4f4703d0bcc1
+ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015364"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043587"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Software Assurance Schulungen Beleg (SATV)-Programm im Partner Center
+# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>Software Assurance Training Voucher (SATV)-Programm im Partner Center
 
-Umsatzsteigerung durch die Registrierung in Software Assurance-Partnerprogramme. Microsoft kompensiert, dass Partner die Bereitstellung von Schulung, Planung und anderen Diensten für Unternehmenskunden, die Software Assurance verfügen. 
+Umsatzsteigerung durch die Registrierung in Software Assurance Partnerprogramme. Microsoft kompensiert, dass Partner die Bereitstellung von Schulung Planung und anderen Diensten für Unternehmenskunden, die Software Assurance verfügen. 
 
-Als Partner genehmigte Software Assurance Schulungen kompensiert Microsoft Sie für die Bereitstellung von technische Schulung für Unternehmenskunden gegen Belege, die sie mit Software Assurance erhalten. Dieses Programm teilnehmen, können Sie die gewinnen Sie mehr Kunden und ihre vertrauenswürdigen Learning-Partner werden können.
+Als Partner genehmigte Software Assurance Schulung kompensiert Microsoft Sie für die Bereitstellung von technische Schulung für Unternehmenskunden, die im Austausch gegen Belege, die sie mit Software Assurance erhalten. In diesem Programm teilnehmen, können Sie die gewinnen Sie mehr Kunden und ihre vertrauenswürdigen Learning-Partner werden.
 
-Wenn Sie nicht mit Software Assurance Schulung vertraut sind, finden Sie unter [Software Assurance Schulungen Belege](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/default.aspx)
+Wenn Sie nicht mit Software Assurance Schulung vertraut sind, finden Sie unter [Software Assurance Schulung Belege](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/default.aspx)
 
 ## <a name="get-started"></a>Erste Schritte
 
-Wenn Sie mit Software Assurance Schulungen Dienste sind, führen Sie die folgenden Schritte aus. Wenn Sie bereits in die Schulung Beleg Anwendung aktiv, und Ihre Kontoinformationen Partner wurde in Partner Center verschoben, beginnen Sie mit Schritt vier (4) unten. 
+Wenn Sie mit Software Assurance Schulung Dienste sind, führen Sie die folgenden Schritte. Wenn Sie bereits in die Schulung Beleg Anwendung aktiv, und Ihre Kontoinformationen Partner wurde in das Partner Center verschoben, beginnen Sie bei Schritt vier (4) unten. 
 
 1. Vergewissern Sie sich Programm eligibility
 2. Registrieren Sie sich für das Schulungsprogramm
@@ -32,33 +32,33 @@ Wenn Sie mit Software Assurance Schulungen Dienste sind, führen Sie die folgend
 4. Reservieren Kunden Beleg
 5. Identifizieren Sie Kurse und fügen Teilnehmer hinzu
 6. Beleg einlösen
-7. Anfordern der Zahlung
+7. Zahlung anfordern
 
-In diesem Artikel wird erläutert, wie Sie die Schritte auszuführen.
+In diesem Artikel wird erläutert, wie die Schritte auszuführen.
 
 ## <a name="confirm-program-eligibility"></a>Vergewissern Sie sich Programm eligibility
 
-Bevor Sie sich das SATV-Programm registrieren können, müssen Sie zunächst die Anforderungen für die Microsoft Partner Network Learning-Option ausführen, die Microsoft Learning-Kompetenz ersetzt. Erfahren Sie, wie für den Einstieg die [Learning-Option.](https://partner.microsoft.com/en-US/marketing/details/learning-option-enrollment#/)
+Bevor Sie sich das SATV-Programm registrieren können, müssen Sie zunächst die Anforderungen für die Microsoft Partner Network Learning-Option ausführen, die die Microsoft Learning-Kompetenz ersetzt. Erfahren Sie, wie für den Einstieg die [Learning-Option.](https://partner.microsoft.com/en-US/marketing/details/learning-option-enrollment#/)
 
-Außerdem müssen Sie die folgenden Anforderungen erfüllen:
+Sie müssen auch die folgenden Anforderungen erfüllen:
 
-- Damit einverstanden sind, um elektronische Schulungen Belege [festgelegten Preis](https://partner.microsoft.com/en-US/membership/satv-voucher-pricing)zu akzeptieren.
+- Damit einverstanden sind, um elektronische Schulung Belege [festgelegten Preis](https://partner.microsoft.com/en-US/membership/satv-voucher-pricing)zu akzeptieren.
 
-- Lesen Sie die [Vereinbarung für Microsoft SATV Anwendung](https://aka.ms/satv_legal_agreement) , und den allgemeinen Geschäftsbedingungen zustimmen. Dies ist bei der Registrierung meldet. 
+- Lesen Sie die [Vereinbarung für Microsoft SATV Programm](https://aka.ms/satv_legal_agreement) , und den allgemeinen Geschäftsbedingungen zustimmen. Dies ist bei der Registrierung meldet. 
 
-- Die Einhaltung aller aktuellen Learning-Option und SATV Programm Vertragsbedingungen während ein aktives Mitglied des Programms (einschließlich, aber nicht beschränkt auf: Kundenzufriedenheit Garantien, KPIs und digitale MOC Erwerb von Anforderungen), und SATV Programm- [Richtlinien](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ProgramPolicies.aspx).
+- Die Einhaltung aller aktuellen Learning-Option und SATV Programm Vertragsbedingungen während ein aktives Mitglied des Programms (einschließlich, aber nicht beschränkt auf: Kundenzufriedenheit Garantien, KPIs und digitale MOC Einkauf Anforderungen), und SATV Programm- [Richtlinien](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ProgramPolicies.aspx).
 
-- Werden Sie alle geeigneten SATV-Kurse im [Software Assurance Schulungen Vorteil Produktkatalog](https://aka.ms/SATV_catalog)anbieten, wenn ausreichend ist (können Sie dies mit Schritt 3 überprüfen. [Vergewissern Sie sich SATV Kurs Eligibility](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ConfirmEligibility.aspx)).
+- Werden Sie alle im [Software Assurance Schulung Vorteil Produktkatalog](https://aka.ms/SATV_catalog)SATV Kurse berechtigt anbieten, wenn genügend Nachfrage (können Sie dies mit Schritt 3 überprüfen. [Vergewissern Sie sich SATV Kurs Eligibility](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ConfirmEligibility.aspx)).
 
 ## <a name="enroll-in-the-training-program"></a>Registrieren Sie sich für das Schulungsprogramm
 
-Nachdem Ihres Unternehmens die Qualifizierungskriterien für eine Planung Services-Programm erfüllt und die Teilnehmer die Schulung Compliance bestanden haben, können Sie die Registrierung. Die endgültigen Schritte zum Registrieren sind, führen Sie die SATV Compliance Schulungen-Anforderung und Signieren die Programm-Vereinbarung.  
+Nachdem Ihres Unternehmens die Qualifizierungskriterien für ein Planung Serviceprogramm erfüllt und Ihre Anwendung Teilnehmer die Compliance-Schulung bestanden haben, können Sie sich registrieren. Die endgültigen Schritte zum Registrieren sind zum Abschließen der SATV Compliance Schulung-Anforderung und Signieren die Programm-Vereinbarung.  
 
 ## <a name="complete-the-satv-compliance-training"></a>Das SATV Compliance Schulungsmaterial
 
-Mindestens ein Kursleiter von Ihrem Unternehmen muss die online SATV Compliance-Schulung auf Partner University abgeschlossen haben.
+Mindestens ein Kursleiter aus Ihrem Unternehmen muss die online SATV Compliance-Schulung auf Partner University abgeschlossen haben.
  
-1. Wenn Sie dies noch nicht getan haben, verknüpfen Sie Ihre MPN-ID für Ihr Microsoft-Konto. Lesen Sie so [Ordnen Sie Ihre MPN-ID](https://trainingbenefits.partners.extranet.microsoft.com/en/SATBDocuments/How to Associate to Your MPN ID 2015 Regular.pdf)).
+1. Wenn Sie noch nicht erstellt haben, ordnen Sie Ihre MPN-ID für Ihr Microsoft-Konto. Lesen Sie so [Ordnen Sie Ihre MPN-ID](https://trainingbenefits.partners.extranet.microsoft.com/en/SATBDocuments/How to Associate to Your MPN ID 2015 Regular.pdf)).
 
 2. Befolgen Sie die Anweisungen für [den Zugriff auf Partner University](https://trainingbenefits.partners.extranet.microsoft.com/en/SATBDocuments/Partner_University_on-boarding.pdf) zum ersten Mal.
 
@@ -66,19 +66,19 @@ Mindestens ein Kursleiter von Ihrem Unternehmen muss die online SATV Compliance-
 
 ## <a name="sign-the-agreement"></a>Melden Sie sich den Vertrag
 
-Lesen, zu verstehen, und Signieren von [Software Assurance Schulungen Beleg Programm Agreement](https://partners.microsoft.com/partnerprogram/Satv.aspx), das Programm Richtlinien und Partner Aufgaben wird beschrieben. Globaler Administrator Ihres Unternehmens können die Vereinbarung Signieren 24 Stunden, nachdem Sie die SATV Compliance Schulungen Anforderung abgeschlossen haben.
+Lesen, zu verstehen, und melden Sie sich die [Software Assurance Schulung Beleg Vereinbarung zu treffen](https://partners.microsoft.com/partnerprogram/Satv.aspx), das Programm Richtlinien und Partner Aufgaben erläutert. Globaler Administrator Ihres Unternehmens können die Vereinbarung Signieren 24 Stunden nach Abschluss die SATV Compliance Schulung-Anforderung.
 
 Es dauert bis zu 24 Stunden für unsere Systeme widerspiegeln, dass Sie aktiv SATV-Programm registriert sind. 
 
 ## <a name="reserve-and-redeem-training-vouchers"></a>Reservieren und Schulungen Belege einlösen
 
-Sie können jetzt reserviert und einlösen Belege und Schulungen für Kunden zu beginnen. MPN-Administrator Ihres Unternehmens hat Zugriff auf das Tool Beleg Überprüfung und einlösen (VVR) in Partner Center und kann Benutzer hinzufügen, die im Tool arbeiten müssen. Lesen Sie weitere Informationen zum VVR [Verwalten Belege im Beleg Überprüfung und bei Einlösung des Tools](voucher-validation-tool).
+Sie können jetzt reservieren und einlösen Belege und Schulungen für Kunden zu beginnen. MPN-Administrator Ihres Unternehmens hat Zugriff auf das Tool Beleg Überprüfung und bei Einlösung des (VVR) im Partner Center und kann Benutzer hinzufügen, die im Tool arbeiten müssen. Lesen Sie weitere Informationen zum VVR [Verwalten Belege in die Beleg-Überprüfung und bei Einlösung des Tool](voucher-validation-tool.md).
 
 >[!Note]
 >Das Tool VVR wurde in das Partner Center verschoben. Ab März 2019 wird die alte VVR Tool Website außer Kraft gesetzt.
 
-## <a name="request-payment-from-microsoft"></a>Anfordern von Zahlungen von Microsoft
+## <a name="request-payment-from-microsoft"></a>Die Auszahlung von Microsoft anfordern
 
 Zahlungen werden über Software Assurance Beleg Vorteil (SAVB) Onlinetools Zahlung behandelt.  Hier erfahren Sie, wie Sie [eine Rechnung an Microsoft über SAVB übermitteln](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/GetPaid.aspx).
 
-Weitere Informationen finden Sie unter der [häufig gestellten Fragen](vvr-faq.md).
+Weitere Informationen finden Sie unter der [– häufig gestellte Fragen](vvr-faq.md).

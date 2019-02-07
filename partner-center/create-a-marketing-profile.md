@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Erstellen Sie ein Unternehmensprofil in Partner Center, um Vertriebskontakte von Microsoft zu erhalten.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: Pinpoint, Empfehlungen, Vertriebskontakte, C2PC, Unternehmensprofil, Unternehmen vermarkten, Partner finden, Lösungsanbieter finden, Unternehmensprofil, Marketingprofil
 ms.localizationpriority: medium
-ms.openlocfilehash: 174fe0a530fd72a17541d5b2a0bdffc9e16d53d6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 2e6357bcbecf32ef312b6efbdaa8082d29a48d87
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797253"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062358"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -43,7 +43,7 @@ Erstellen Sie zunächst ein Unternehmensprofil, um von diesen Leads zu profitier
 *  **Empfehlungen von Vertriebs- und Servicemitarbeitern von Microsoft**. Potenzielle Kunden, die an der Bereitstellung cloudbasierter Technologielösungen interessiert sind, kontaktieren Microsoft, um Hilfe bei der Suche von Experten zu erhalten, die ihre geschäftlichen Anforderungen erfüllen können. Diese Microsoft-Experten können dann potenzielle Kunden für Ihr Unternehmen empfehlen.
 
 > [!IMPORTANT]  
-> Damit können unsere Partner Geschäftsabläufe zu optimieren, fassen wir Features und Funktionen, die verwendet, um auf verschiedene Tools und Websites in das Partner Center dieser Website verteilt werden. Im Rahmen dieser Aufwand haben wir alle auf Empfehlungen bezogene Funktionen ins Partner Center verschoben und die Sites Pinpoint und C2PC eingestellt. Wenn Sie bisher Pinpoint oder C2PC in der Vergangenheit zum verwendet abrufen und Verwalten von Empfehlungen von Microsoft, müssen Sie erstellen ein neues Unternehmensprofil im Partner Center weiterhin Empfehlungen zu erhalten. Das Importieren von Profilen von diesen Sites wird nicht mehr unterstützt. 
+> Damit können unsere Partner Geschäftsabläufe zu optimieren, fassen wir Features und Funktionen, die verwendet, um verschiedene Tools und Websites in das Partner Center dieser Website verteilt werden. Im Rahmen dieser Aufwand haben wir alle auf Empfehlungen bezogene Funktionen beim Partner Center verschoben und die Sites Pinpoint und C2PC eingestellt. Wenn Sie bisher Pinpoint oder C2PC in der Vergangenheit zum verwendet abrufen und Verwalten von Empfehlungen von Microsoft, müssen Sie erstellen ein neues Unternehmensprofil im Partner Center um weiterhin Empfehlungen zu erhalten. Das Importieren von Profilen von diesen Sites wird nicht mehr unterstützt. 
 
 ## <a name="create-a-profile"></a>Erstellen eines Profils
 
@@ -52,7 +52,7 @@ Erstellen Sie zunächst ein Unternehmensprofil, um von diesen Leads zu profitier
 
 Erstellen Sie Profile für jede Region, in der Sie berechtigt sind, Geschäfte zu tätigen. 
 
-1.  Wählen Sie aus dem Menü " **Partner Center** " **Verweise auf** &gt; **Unternehmensprofile** &gt; Land/Region auswählen > **[Erstellen eines Unternehmensprofils](https://partnercenter.microsoft.com/pcv/publishing)**.
+1.  Wählen Sie aus dem Menü **Partner Center** **Verweise auf** &gt; **Unternehmensprofile** &gt; wählen Sie ein Land/Region > **[Erstellen eines Unternehmensprofils](https://partnercenter.microsoft.com/pcv/publishing)**.
 
 2.  Wählen Sie auf der Seite **Erstellen eines Unternehmensprofils** eine Region aus, und geben Sie Ihre Profilinformationen ein.
     > [!NOTE]  
@@ -102,7 +102,7 @@ Andere in der Suche verwendete Tags:
 
 Es wird empfohlen, diese Einstellung aktiviert zu lassen. 
 
-Wenn Sie mit Kunden über das Partner Center Erfolge oder durch die Teilnahme an anderen Microsoft-Zertifizierungen oder-Programmen, fügen wir automatisch unterstützungen für Ihre spezifischen Produkte, Dienste und Branchen hinzu, die zu diesem Erfolg beitragen. Unterstützungen sind ein wichtiger Faktor bei Suchergebnissen.
+Wie Sie mit Kunden über das Partner Center Erfolge oder durch die Teilnahme an anderen Microsoft-Zertifizierungen oder-Programmen, fügen wir automatisch unterstützungen für Ihre spezifischen Produkte, Dienste und Branchen hinzu, die zu diesem Erfolg beitragen. Unterstützungen sind ein wichtiger Faktor bei Suchergebnissen.
 
 Liegen jedoch Produkte vor, für die Sie zwar Dienstleistungen anbieten, die aber nicht in Ihrem Profil angezeigt werden können, können Sie dieses Kontrollkästchen deaktivieren und Ihr Profil manuell verwalten. Diese Unterstützungen werden in der Ansicht der Kunden ausgeblendet, Sie können sie jedoch später jederzeit wieder zu Ihrem Profil hinzufügen.
 

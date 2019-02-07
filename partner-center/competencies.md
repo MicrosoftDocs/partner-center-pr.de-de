@@ -3,17 +3,17 @@ title: Verdienen von Microsoft-Kompetenzen | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Verdienen Sie Silver- und Gold-Kompetenzen von Microsoft, um Ihre nachgewiesene Erfahrung bei der Bereitstellung von Qualitätslösungen in einem speziellen Geschäftsbereich zu demonstrieren.
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: Kompetenzen, Silber-Mitgliedschaft, Gold-Mitgliedschaft, Mpn, MAPS, Kompetenz, Vorteile, Leistungsziele, Fähigkeitsziele
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 98b8c837001ee8b24288f658d6fe0355fc91fc40
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 10b0b28e3df005df7503c410f98166bd166d9523
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796893"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062338"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -58,11 +58,11 @@ Zu **kenntnisbasierten Zielen** zählen:
 
 Bei einigen Kompetenzen gibt es mehrere Möglichkeiten, die Silber- oder Gold-Stufe zu erreichen.
 
-Wechseln Sie zu, um den Fortschritt in einer Kompetenz aus dem Partner Center Partner Center, überprüfen die **Partnerschaft > Kompetenzen**. 
+Wechseln Sie zu der **Partnerschaft > Kompetenzen**, um Ihren Fortschritt in einer Kompetenz aus dem Partner Center Partner Center, überprüfen. 
 
 ### <a href="" id="associating_achievements"></a>Verknüpfen von Mitarbeitern zum Erreichen kenntnisbasierter Ziele
 
-1.  Fügen Sie Benutzerkonten für die Mitarbeiter in Ihrer Organisation hinzu. Das [Partner Center](http://partnercenter.microsoft.com), wechseln Sie zu **Kontoeinstellungen > Benutzer hinzufügen**. (PMC-Benutzer können mehrere Benutzer gleichzeitig durch die Auswahl von **Add users using PMC data** hinzufügen.)
+1.  Fügen Sie Benutzerkonten für die Mitarbeiter in Ihrer Organisation hinzu. Das [Partner Center](http://partnercenter.microsoft.com)wechseln Sie zur **Konto Einstellungen >-Benutzer hinzufügen**. (PMC-Benutzer können mehrere Benutzer gleichzeitig durch die Auswahl von **Add users using PMC data** hinzufügen.)
 
     Nachdem die Benutzerkonten erstellt wurden, erhalten sie einen neuen Benutzernamen und ein Kennwort und Sie werden aufgefordert, eine Protokolldatei mit Informationen zum Zurücksetzen des Benutzernamens und des Kennworts herunterzuladen. Sie können auch [die Benutzerkonten so einrichten, dass sie das Kennwort selbst zurücksetzen können](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
 

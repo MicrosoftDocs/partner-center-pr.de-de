@@ -3,16 +3,16 @@ title: 'Abonnements für Minecraft: Education Edition für Bildungseinrichtungen
 ms.topic: article
 ms.date: 10/29/2018
 description: 'Verkaufen Sie Abonnements für Minecraft: Education Edition an qualifizierte Bildungseinrichtungen.'
-author: KPacquer
-ms.author: kenpacq
-keywords: Autorisierte Education-Partner
+author: labrenne
+ms.author: labrenne
+keywords: Autorisierte Education-Partner, Education, verkaufen Education, Schulen
 ms.localizationpriority: medium
-ms.openlocfilehash: aa86e62d19d3f83ad828afbc8cd1c9880a6c93c3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 04014dc307744c9eda7038a3e820cd49957fc15c
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796583"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062328"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Abonnements für Minecraft: Education Edition für Bildungseinrichtungen
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796583"
 
 -  Partner Center
 
-Partner, die mit Bildungseinrichtungen zusammenarbeiten, können diesen **Minecraft: Education Edition**-Abonnements anbieten. Sie erwerben das Abonnement im Auftrag des Kunden im Partner Center, und klicken Sie dann der Kunden die Software aus dem [Microsoft Store für Bildungseinrichtungen](https://educationstore.microsoft.com)lädt. 
+Partner, die mit Bildungseinrichtungen zusammenarbeiten, können diesen **Minecraft: Education Edition**-Abonnements anbieten. Sie erwerben das Abonnement im Auftrag des Kunden im Partner Center, und klicken Sie dann der Kunden die Software aus dem [Microsoft Store für Bildungseinrichtungen](https://educationstore.microsoft.com)downloads. 
 
 >[!IMPORTANT]
 >Zum Verkauf von Bildungsangeboten an Kunden im Bildungsbereich müssen Sie im Cloud Solution Provider (CSP)-Programm registriert und ein [autorisierter Verkäufer für den Bildungsbereich (AEP)](https://www.mepn.com) sein. Darüber hinaus muss Ihr Kunde ein [qualifizierter Benutzer von Bildungsangeboten](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) sein.  
@@ -28,7 +28,7 @@ Partner, die mit Bildungseinrichtungen zusammenarbeiten, können diesen **Minecr
  
 ## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>Erwerb von **Minecraft: Education Edition** im Auftrag des Kunden
 
-Führen Sie die folgenden Schritte zum Kauf **Minecraft: Education Edition** Abonnements im [Partner Center](https://partnercenter.microsoft.com/pcv/dashboard/overview
+Führen Sie die folgenden Schritte zum Kaufen **Minecraft: Education Edition** Abonnements im [Partner Center](https://partnercenter.microsoft.com/pcv/dashboard/overview
 ) (Anmeldung erforderlich):
 
   1.  Wählen Sie **Kunden** aus dem Menü "Partner Center".

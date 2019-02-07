@@ -3,15 +3,15 @@ title: Entfernen einer Partnerschaft mit einem Händler oder einem Kunden | Part
 ms.topic: article
 ms.date: 10/29/2018
 description: Wenn Sie eine Beziehung entfernen, werden alle geschlossenen Geschäftsbeziehungen aus der Ansicht in Partner Center entfernt.
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2134a8ba118960dabe235d07675b3e340cc2ba16
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 3697d32af38e0f9cd496a84d442fb05390f63101
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995674"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062268"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Entfernen einer Partnerschaft mit einem Händler oder Kunden
 
@@ -28,11 +28,11 @@ Mit dieser Funktion haben Sie folgende Möglichkeiten:
 *  Entfernt die Ihre Möglichkeit für Einkäufe im Auftrag des Kunden
 
 Um die Beziehung zu entfernen, müssen Sie zunächst Azure RI-Reservierungen stornieren, Softwarekäufe stornieren und alle verbleibenden aktiven Abonnements aussetzen:
-1. Setzen Sie alle aktiven Abonnements aus. Das Partner Center, wechseln Sie zu **Kunden** > Kunden auswählen > **Abonnements** > Abonnement auswählen > **angehalten**. 
+1. Setzen Sie alle aktiven Abonnements aus. Dem Partner Center wechseln Sie zur **Kunden** > wählen ein Kunde > **Abonnements** > wählen Sie ein Abonnement > **angehalten**. 
 
    Wiederholen Sie diesen Schrittfür jedes aktive Abonnement.
 
-2. Entfernen der Beziehung in Partner Center: von der Partner Center, wechseln Sie zum **Kunden** > Kunden auswählen > **Konto** > **vertriebspartnerschaft zu entfernen**.
+2. Entfernen der Beziehung in Partner Center: aus dem Partnercenter, wechseln Sie zu > wählen Sie **Kunden** ein **Konto**des Kunden > > **vertriebspartnerschaft zu entfernen**.
 
    Beachten Sie, wenn ein Abonnement noch aktiv ist, ist der Link **Remove reseller relationship** inaktiv. 
 

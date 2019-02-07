@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Für eine detaillierte rechnungspositionsinformationen anzuzeigen Abrechnungszyklus wird herunterladen Sie die abstimmungsdateien aus dem Partner Center.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: dac94723d8939f83628dfc8cd0992ab3516fa5a1
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 361a2b56b9256a6155927848e8fbd6de5311a7a0
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995944"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062378"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -49,7 +49,7 @@ Partner im indirekten Modell können diese zusätzlichen Felder in den beiden li
 <td>MPN-ID der Handelspartner</td>
 <td><p>Wird nur in den Abstimmungsdateien für Partner im indirekten Modell angezeigt.</p>
 <p>Die MPN-ID des registrierten Handelspartners für das Abonnement. Dies entspricht der Handelspartner-ID, die für das spezifische Abonnement im Partner Center aufgeführt ist.</p>
-<p>Wählen Sie zum Anzeigen oder Aktualisieren des Handelspartners im Partner Center-Menü wählen <strong>Kunden</strong>aus, und wählen Sie den Kunden aus der Liste. Wählen Sie im Menü „Kunden” <strong>Abonnements</strong> und dann das Abonnement aus der Liste aus. Wählen Sie <strong>Aktualisieren</strong> aus, um <strong>Vertriebspartner (MPN-ID)</strong> zu ändern.</p>
+<p>Wählen Sie zum Anzeigen oder Aktualisieren des Handelspartners im Partner Center-Menü, wählen Sie <strong>Kunden</strong>und dann den Kunden aus der Liste. Wählen Sie im Menü „Kunden” <strong>Abonnements</strong> und dann das Abonnement aus der Liste aus. Wählen Sie <strong>Aktualisieren</strong> aus, um <strong>Vertriebspartner (MPN-ID)</strong> zu ändern.</p>
 <p>Wenn ein CSP-Partner das Abonnement direkt an den Kunden veräußert hat, wird seine MPN-ID zweimal aufgeführt: als MPN-ID und als MPN-ID des Handelspartners.</p>
 <p>Wenn ein CSP-Partner über einen Handelspartner ohne MPN-ID verfügt, wird dieser Wert stattdessen auf die MPN-ID des Partners festgelegt.</p>
 <p>Wenn der CSP-Partner eine Handelspartner-ID entfernt, wird dieser Wert auf-1 festgelegt.</p></td>
@@ -179,7 +179,7 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="even">
 <td>Steuern</td>
-<td><p>USt.-Betrag basierend auf Ihren Markt & #39; s Steuervorschriften und spezifischen gegebenheiten.</p></td>
+<td><p>USt.-Betrag basierend auf Ihren Market& #39; s Steuervorschriften und spezifischen gegebenheiten.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Kunden & #39; Name des Unternehmens s wie im Partner Center angegeben. Dies ist sehr wichtig für die Abstimmung der Rechnung mit Ihren Systeminformationen.</p></td>
+<td><p>Customer& #39; s Organisationsnamen im Partner Center gemeldet. Dies ist sehr wichtig für die Abstimmung der Rechnung mit Ihren Systeminformationen.</p></td>
 <td>Test für Kunde A</td>
 </tr>
 <tr class="even">
@@ -209,7 +209,7 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Kunden & #39; Domain Name, die zur Identifizierung des Kunden verwendet. Dies sollte nicht verwendet werden, um den Kunden eindeutig zu identifizieren, wie der Kunde/Partner über das Office 365-Portal Vanity/Standarddomäne aktualisieren können. Dieses Feld wird bis zum zweiten Rechnungszyklus leer angezeigt.</p></td>
+<td><p>Customer& #39; s-Domänennamen, wird zur Identifizierung des Kunden verwendet. Dies sollte nicht verwendet werden, um den Kunden eindeutig zu identifizieren, wie der Kunde/Partner über das Office 365-Portal Vanity/Standarddomäne aktualisieren können. Dieses Feld wird bis zum zweiten Rechnungszyklus leer angezeigt.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Kunden & #39; Name des Unternehmens s wie im Partner Center angegeben. Dies ist sehr wichtig für die Abstimmung der Rechnung mit Ihren Systeminformationen.</p></td>
+<td><p>Customer& #39; s Organisationsnamen im Partner Center gemeldet. Dies ist sehr wichtig für die Abstimmung der Rechnung mit Ihren Systeminformationen.</p></td>
 <td>Test für Kunde A</td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>USt.-Betrag basierend auf Ihren Markt & #39; s Steuervorschriften und spezifischen gegebenheiten.</p></td>
+<td><p>USt.-Betrag basierend auf Ihren Market& #39; s Steuervorschriften und spezifischen gegebenheiten.</p></td>
 <td>0,08$</td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Kunden & #39; Domain Name, die zur Identifizierung des Kunden verwendet. Dieses Feld wird bis zum zweiten Rechnungszyklus leer angezeigt.</p></td>
+<td><p>Customer& #39; s-Domänennamen, wird zur Identifizierung des Kunden verwendet. Dieses Feld wird bis zum zweiten Rechnungszyklus leer angezeigt.</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -579,7 +579,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnittund 
 <p>Kaufgebühr</p>
 </td>
 <td>
-<p>Der Typ der Abrechnung für ein Abonnement Verwendung monatliche Abrechnung</p>
+<p>Der Typ der Abrechnung für ein Abonnement bei Verwendung monatliche Abrechnung</p>
 </td>
 </tr>
 <tr>

@@ -3,15 +3,15 @@ title: 'Office365 Partner Admin Center-Kunden: Ihre Geschäftsvorgänge werden a
 ms.topic: article
 ms.date: 10/29/2018
 description: Wichtige Überlegungen für Office365 Partner Admin Center-Kunden bei der Migration zum Partner Center
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d863fcf84006eed6b22b2160f611a26877efd0c7
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 73c92447cf7f27a6266d6802c3b42526fc9669bc
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797013"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062308"
 ---
 # <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Office365 Partner Admin Center-Kunden: Bereiten Sie sich auf den Wechsel der Geschäftsvorgänge zum Partner Center vor
 
@@ -41,8 +41,8 @@ Das Abschließen von Aufgaben im Partner Center erfolgt anders als im Office365 
 | Aufbauen Ihres Geschäfts: Erstellen eines Angebots | Arbeit mit Ihrem Anbieter, um Angebot an Ihre Kunden zu verkaufen |
 | Aufbauen Ihres Geschäfts: Anforderung delegierter Administratorrechte | Das Partner Center: Kunden > beantragen einer vertriebspartnerschaft |
 | Aufbauen Ihres Geschäfts: Testeinladungen erstellen | Nicht verfügbar. Sie können weiterhin das Office365 Partner Administrationscenter verwenden |
-| Serviceanfragen: Kundenliste: Office365 Administrationscenter | Das Partner Center: Kunden > Dienste verwalten |
-| Serviceanfragen: Kundenliste: Serviceanfragen | Das Partner Center: Serviceanfrage > Kundenanfragen |
+| Serviceanfragen: Kundenliste: Office365 Administrationscenter | Das Partner Center: Kunden >-Dienste verwalten |
+| Serviceanfragen: Kundenliste: Serviceanfragen | Partner Center:-Service-Anforderung > Anfragen Kunden |
 | Serviceanfragen: Markiert | Dasbhoard: Kunden: Wählen Sie den Stern neben dem Unternehmensnamen |
-| Serviceanfrage > Clientverwaltung > Administrator im Namen von (AOBO) | Das Partner Center: Kunden > Kunden auswählen > Abonnement auswählen > gewünschten Produkt-Reseller auswählen |
+| Serviceanfrage > Clientverwaltung > Administrator im Namen von (AOBO) | Das Partner Center: Kunden > wählen Sie einen Kunden > wählen Abonnement > Sie den angegebenen Produkthändler |
 

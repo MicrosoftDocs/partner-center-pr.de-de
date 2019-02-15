@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote
 ms.localizationpriority: medium
-ms.openlocfilehash: 56d18f008237b7d9959afc545f28e67f9b4f72b2
-ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
+ms.openlocfilehash: 3ce6421c103f0f52113dc41ffc3427e7222ceb36
+ms.sourcegitcommit: a9e9b1d1f77922e7aa8a2f900a5ac3ade439dff8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "9075183"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "9079258"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Programmleitfaden für Cloud-Lösungsanbieter, Vereinbarungen, Preislisten und Angebote
 
@@ -56,9 +56,9 @@ Partner müssen diese Vereinbarung unterzeichnen, um an dem Programm für Cloud 
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Microsoft Cloud Agreement-Vorlagen
 
-Als Partner im CSP sind Sie dafür verantwortlich, die Nutzungsbedingungen von Microsoft, einschließlich einer akzeptablen Verwendung der Microsoft-Produkte und-Dienste, mit Ihren Kunden durchzugehen. Führen Sie den Link unten, um den Microsoft-Cloud-Vertrag suchen Sie mit dem neuen Kunden überprüfen müssen. 
+Als Partner im CSP sind Sie dafür verantwortlich, die Nutzungsbedingungen von Microsoft, einschließlich einer akzeptablen Verwendung der Microsoft-Produkte und-Dienste, mit Ihren Kunden durchzugehen. Wechseln Sie zu Microsoft Cloud Agreement [-Kundenvorlagen](agreements.md) der Microsoft Cloud Agreement finden Sie mit dem neuen Kunden überprüfen müssen. 
 
-Microsoft Cloud Agreement [-Kundenvorlagen](agreements.md)
+
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Berufsgeheimnis Änderung der Microsoft Cloud Agreement (Deutschland)
 

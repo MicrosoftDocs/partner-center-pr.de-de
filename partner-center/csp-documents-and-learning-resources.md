@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ce6421c103f0f52113dc41ffc3427e7222ceb36
-ms.sourcegitcommit: a9e9b1d1f77922e7aa8a2f900a5ac3ade439dff8
+ms.openlocfilehash: f4ac831773af2b23500f08bf5dbc2324a5184456
+ms.sourcegitcommit: 3a613625812d9f6d2ac74d2ef17ced7cdccb0684
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079258"
+ms.locfileid: "9079729"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Programmleitfaden für Cloud-Lösungsanbieter, Vereinbarungen, Preislisten und Angebote
 
@@ -43,6 +43,8 @@ Partner müssen diese Vereinbarung unterzeichnen, um an dem Programm für Cloud 
 
 [Vereinbarung für Microsoft Cloud-Handelspartner – Asien, Australien, Pazifischer Raum](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
+
+
 [Vereinbarung für Microsoft Cloud-Handelspartner – Europa , Naher Osten und Afrika](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
 [Vereinbarung für Microsoft Cloud-Handelspartner – Japan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
@@ -57,6 +59,7 @@ Partner müssen diese Vereinbarung unterzeichnen, um an dem Programm für Cloud 
 ## <a name="microsoft-cloud-agreement-templates"></a>Microsoft Cloud Agreement-Vorlagen
 
 Als Partner im CSP sind Sie dafür verantwortlich, die Nutzungsbedingungen von Microsoft, einschließlich einer akzeptablen Verwendung der Microsoft-Produkte und-Dienste, mit Ihren Kunden durchzugehen. Wechseln Sie zu Microsoft Cloud Agreement [-Kundenvorlagen](agreements.md) der Microsoft Cloud Agreement finden Sie mit dem neuen Kunden überprüfen müssen. 
+
 
 
 

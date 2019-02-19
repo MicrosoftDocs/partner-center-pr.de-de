@@ -6,12 +6,12 @@ description: Als indirekter Anbieter (oder Distributor) können Sie mit indirekt
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bbab6f297f96ee12edc032b7f55f7f749933ecc
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 471445521361630ec73ae7490fa363d1bbf19284
+ms.sourcegitcommit: 48684194c75e5ca9df225745b2263a18f2c18943
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795193"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "9081354"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Zusammenarbeiten mit indirekten Vertriebspartnern im Programm für Cloud Solution Provider
 
@@ -21,7 +21,7 @@ Neue Vertriebspartner versuchen, auf dem Markt Fuß zu fassen, und möchten ihre
 
 Im (zweistufigen) Modell mit indirektem Anbieter und Vertriebspartner bieten Sie Kunden in Zusammenarbeit mit indirekten Vertriebspartnern Cloudlösungen von Microsoft an. Sie kaufen Produkte und Abonnements direkt von Microsoft und bieten diese Lösungen dann den Kunden über Vertriebspartner an. 
 
-Als indirekter Anbieter verwenden Sie die Partner Center, um:
+Als indirekter Anbieter verwenden Sie die Partner-Center, um:
 
 -   Vernetzen mit indirekten Vertriebspartnern, die Sie bei der Erweiterung Ihrer Reichweite und Ihres Kundenstamms unterstützen
 -   Zusammenarbeiten mit indirekten Vertriebspartnern zur Bedienung gemeinsamer Kunden
@@ -58,7 +58,7 @@ Interaktion und mit indirekten Vertriebspartnern im Partner Center Transaktionen
 
 Senden Sie zum Einrichten einer Partnerschaft eine E-Mail mit einer Partnerschaftsanfrage an den Vertriebspartner. Achten Sie darauf, dass Sie die E-Mail-Adresse des Vertriebspartners zur Hand haben, bevor Sie beginnen. 
 
-1. Wählen Sie Ihr **Partner Center** im Menü " **indirekten Vertriebspartnern** . 
+1. Wählen Sie **indirekten Vertriebspartnern** in Ihr **Partner Center** aus. 
 
 2. Wählen Sie auf der Seite **Indirect resellers** die Option **Request a partnership** aus. Ein E-Mail-Entwurf wird angezeigt.
 
@@ -75,12 +75,65 @@ Senden Sie zum Einrichten einer Partnerschaft eine E-Mail mit einer Partnerschaf
 
 Abhängig davon, inwieweit der Vertriebspartner Zugriff haben und eingebunden sein soll, empfiehlt es sich unter Umständen, einen oder mehrere der im Anschluss beschriebenen Schritte auszuführen.
 
+Wenn Sie indirekter Wiederverkäufer arbeiten möchten, können Sie für bestehende Abonnements die Abonnementdetails den indirekten Vertriebspartner einzuschließende aktualisieren.
+
+- Fügen Sie auf der Seite für Abonnementdetails im Feld **Vertriebspartner (MPN-ID)** den Vertriebspartner, die, dem Sie arbeiten möchten. Dadurch wird sichergestellt, dass der Vertriebspartner die entsprechenden Incentives erhalten.
+
 | **Ziel** | **Vorgehensweise** | **Ort** |
 |   ------------------   |   -------   |   -----   |
 | Ermöglichen der Verwaltung eines Kundenkontos durch den Vertriebspartner und Gewähren von Administratorberechtigungen für die Verwaltung von Abonnements | Ordnen Sie einen Vertriebspartner einem Kundenkonto zu, wenn Sie einen neuen Kunden hinzufügen. | Auf der Seite **Neuer Kunde** |
 |Dem Händler ermöglichen, das Azure-Konto eines Kunden zu verwalten|Ordnen Sie einen Vertriebspartner einem Azure-Kundenkonto zu, wenn Sie einen neuen Kunden hinzufügen.|Wählen Sie auf dem **Azure Service-Portal** [Benutzereinstellungen](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) aus, um dem indirekten Händler eine **Mandanten-Besitzer** Berechtigungen zu erteilen|
 | Zuschreiben von Anreizen für Vertriebspartner | Ordnen Sie den Vertriebspartner dem (neuen oder vorhandenen) Abonnement zu. | Auf der Seite **Neues Abonnement** |
 | Delegieren des Kundensupports für bestimmte Abonnements an den Vertriebspartner | Wählen Sie den Vertriebspartner in der Liste **Designated support contact** aus. | Auf der Seite mit den Abonnementdetails: Wählen Sie auf der Seite **Kunden** den Kunden und anschließend auf der kundenspezifischen Seite **Abonnements** das Abonnement aus. |
+
+Heute können indirekte Anbieter Partner Center-Dashboard verwenden, um die Bestellung, und wählen Sie optional einen indirekten Händler als die PartnerOnRecord. Wenn sie einen indirekten Wiederverkäufer nicht auswählen, werden wir behandeln Sie dies als eine Transaktion 1-Ebene und als Anreiz den indirekten Anbieter als solche. Wenn sie eine Auswahl wir die Reihenfolge als 2-Ebene Transaktion behandeln, und wir als Anreiz sowohl die indirekter Händler im indirekten Anbieter entsprechend:
+
+ 
+
+Es ist auch eine Umgebung, in denen ein indirekter Anbieter auch das PartnerOnRecord für bestehende Abonnements aktualisiert werden kann:
+
+ 
+
+Sie wissen, haben wir Dokumentation auf wie indirekte Anbieter sollten zu verwalten, wenn die PartnerOnRecord Bitte festlegen?
+Der Grund, die, den ich dies stellen, ist, es scheint eine erhebliche Satz von 2-Ebene Transaktionen, die vom indirekten Anbieter zusammen, wodurch falsche Incentive Auszahlung nicht ordnungsgemäß konfiguriert wurden. Zeit bestanden hat, Partner dies erkannt und Schritte anbieten, an Microsoft, um eine Backpay für Incentive zu erhalten. Wenn wir in diesem Bereich eine Dokumentation Abdeckung besitzen, möchte ich die Hilfe Sie eine zusammenstellen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## <a name="connect-with-customers"></a>Interagieren mit Kunden
@@ -91,7 +144,7 @@ Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren S
 
 ### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Hinzufügen neuer Kunden und Zuordnen zu indirekten Vertriebspartnern
 
-1.  Wählen Sie Ihr **Partner Center** im Menü " **indirekten Vertriebspartnern** . 
+1.  Wählen Sie **indirekten Vertriebspartnern** in Ihr **Partner Center** aus. 
 
 2.  Suchen Sie den indirekten Vertriebspartner, dem Sie neue Kunden zuweisen möchten, und wählen Sie dann **Neuen Kunden hinzufügen** aus. Beachten Sie, dass der indirekte Vertriebspartner im Formular mit den Kundendetails bereits für Sie ausgewählt ist. Geben Sie die Kundeninformationen an, und wählen Sie anschließend **Weiter: Abonnements** aus. 
 3.  Wählen Sie auf der Seite **Neues Abonnement** die Abonnements aus, die der Kunde kaufen möchte, und geben Sie die Anzahl der benötigten Lizenzen ein. 
@@ -102,7 +155,7 @@ Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren S
 
 6.  Nach Übermittlung des Auftrags erscheint die Seite **Bestätigung**. Unter **Einrichtungsinfos** werden der Name des Administratorbenutzerkontos und das temporäre Kennwort angezeigt. Notieren Sie sich den Namen des Benutzerkontos und das Kennwort, um sie dem neuen Kunden senden zu können. 
     > [!IMPORTANT]  
-    > Achten Sie darauf, dass Sie notieren Sie den Namen des Benutzerkontos und das Kennwort, da Sie nicht auf Informationen nicht mehr zugreifen, nachdem Sie diese Seite schließen.
+    > Achten Sie darauf, dass Sie notieren Sie den Namen des Benutzerkontos und das Kennwort, da Sie nicht auf diese Informationen erneut zugreifen, nach dem Schließen der Seite.
 
 7.  Wählen Sie **Fertig** aus. Der neue Kunde erscheint in Ihrer Kundenliste und ist dem indirekten Vertriebspartner zugeordnet. Der Vertriebspartner hat nun Administratorzugriff auf die Kontoinformationen und Abonnements des Kunden und kann die Abonnements im Auftrag des Kunden verwalten.
 
@@ -110,7 +163,7 @@ Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren S
 
 Wenn Kunden neue Abonnements kaufen, vorhandene Abonnements upgraden oder zusätzliche Lizenzen erwerben möchten, können Sie diese Änderungen im Konto des Kunden vornehmen. 
 
-1.  Wählen Sie **Kunden** Ihr **Partner Center** im Menü ". 
+1.  Wählen Sie **Kunden** in Ihr **Partner Center** aus. 
 
 2.  Suchen Sie den Kunden, dessen Konto Sie ändern möchten. Sie können die Liste nach indirektem Vertriebspartner filtern, um Ihre Auswahl einzugrenzen. Erweitern Sie den Kundendatensatz durch Auswählen des Abwärtspfeils, und wählen Sie dann **Abonnement hinzufügen** aus.
 

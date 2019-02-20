@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote
 ms.localizationpriority: medium
-ms.openlocfilehash: f4ac831773af2b23500f08bf5dbc2324a5184456
-ms.sourcegitcommit: 3a613625812d9f6d2ac74d2ef17ced7cdccb0684
+ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079729"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083143"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Programmleitfaden für Cloud-Lösungsanbieter, Vereinbarungen, Preislisten und Angebote
 
@@ -27,13 +27,12 @@ Sehen Sie sich die Informationen in diesem Artikel am, um die Anforderungen für
 
 ## <a name="cloud-solution-provider-program-guide"></a>Programmleitfaden für Cloud Solution Provider
 
-
 Lesen Sie die Anforderungen, wie Sie ein Partner im CSP-Programm werden.
 
 [Programmleitfaden für Cloud Solution Provider-Partner](http://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->Fordern Sie Zertifizierung oder Bestätigung Status Buchstaben, Sie können es anfordern, indem Sie [an den Support wenden](https://partner.microsoft.com/pcv/servicerequests/create).
+>Wenn Sie bestätigen oder zertifizieren Sie Ihren Status als eine genehmigte Microsoft-Partner im Cloud-Lösungsanbieter-Programm, [kontaktieren Sie den Support](https://partner.microsoft.com/pcv/servicerequests/create) , um eine Anforderung von Buchstaben Unternehmen benötigen.
 
 ## <a name="cloud-solution-provider-partner-agreement"></a>Cloud Solution Provider – Partnervereinbarung
 
@@ -42,8 +41,6 @@ Partner müssen diese Vereinbarung unterzeichnen, um an dem Programm für Cloud 
 [Vereinbarung für Microsoft Cloud-Handelspartner – Nordamerika, Mittelamerika, Südamerika, Karibik](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
 [Vereinbarung für Microsoft Cloud-Handelspartner – Asien, Australien, Pazifischer Raum](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
-
-
 
 [Vereinbarung für Microsoft Cloud-Handelspartner – Europa , Naher Osten und Afrika](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
@@ -55,13 +52,12 @@ Partner müssen diese Vereinbarung unterzeichnen, um an dem Programm für Cloud 
 
 [Vereinbarung für Microsoft Cloud-Handelspartner – Microsoft Cloud Deutschland](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
+## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud Agreement-Kundenvorlagen
 
-## <a name="microsoft-cloud-agreement-templates"></a>Microsoft Cloud Agreement-Vorlagen
+Bevor Sie im Auftrag eines Kunden bestellen können, muss der Kunde akzeptieren und die geltenden Microsoft Cloud Agreement signieren. Microsoft Cloud-Verträge sind regionsspezifische und in mehreren Sprachen verfügbar. Wechseln Sie zu Microsoft Cloud Agreement [-Kundenvorlagen](agreements.md) der Microsoft Cloud Agreement finden Sie mit dem neuen Kunden überprüfen müssen.
 
-Als Partner im CSP sind Sie dafür verantwortlich, die Nutzungsbedingungen von Microsoft, einschließlich einer akzeptablen Verwendung der Microsoft-Produkte und-Dienste, mit Ihren Kunden durchzugehen. Wechseln Sie zu Microsoft Cloud Agreement [-Kundenvorlagen](agreements.md) der Microsoft Cloud Agreement finden Sie mit dem neuen Kunden überprüfen müssen. 
-
-
-
+>[!IMPORTANT]
+>Stellen Sie sicher, dass ein Kunde den Microsoft-Cloud-Vertrag akzeptiert hat, enthält Informationen über die Person, die es signiert werden sollen. Weitere Informationen finden Sie [bestätigen, ob ein Kunde Abnahme der Vereinbarung für Microsoft Cloud](confirm-consent.md) und [Microsoft Cloud Agreement Kunden Annahme Bestätigung häufig gestellte Fragen](confirm-consent-faq.md) .
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Berufsgeheimnis Änderung der Microsoft Cloud Agreement (Deutschland)
 

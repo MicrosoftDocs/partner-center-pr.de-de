@@ -2,21 +2,21 @@
 title: Anpassen eines Geräts Out-of-Box-Experience mit Windows Autopilot-Profilen | Partner Center
 description: Vorkonfigurieren eines Geräts Out-of-Box-Experience mit Autopilot-Profilen.
 ms.topic: article
-ms.date: 2/6/19
+ms.date: 02/06/19
 author: maggiepuccievans
 ms.author: evansma
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero-Touch Deployment, Windows-Willkommensseite, Anmeldebildschirme, Out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 62e83c63bb10c041549f5a09bc32bdae979d462d
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: d563ad09d1fa3b67b01835480a348a524455efbc
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062278"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083403"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Anpassen eines Geräts Out-of-Box-Experience mit Windows Autopilot-Profilen
 
-**Gilt für:**
+**Betrifft:**
 
 - CSP-Direct-Rechnung-Partner, indirekte Anbieter und indirekte Wiederverkäufer
 

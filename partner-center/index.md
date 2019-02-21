@@ -4,18 +4,13 @@ hide_bc: true
 title: Hilfe zum mit dem Partner Center
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: Partner Center helfen Ihnen die Ausbau Ihres Unternehmens in das Programm für Microsoft Cloud Solution Provider (CSP). Einrichten des Kontos, interagieren mit Kunden, ein Action Pack-Abonnement kaufen und finden Sie weitere Informationen für Partner, die in den CSP und MPN-Programmen. 
+description: "Partner Center helfen Ihnen die Ausbau Ihres Unternehmens in das Programm für Microsoft Cloud Solution Provider (CSP). Einrichten des Kontos, interagieren mit Kunden, ein Action Pack-Abonnement kaufen und finden Sie weitere Informationen für Partner, die in den CSP und MPN-Programmen.\_"
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 2dbf6aed32caa3b9dd9cfa3047762a4a945ba833
-ms.sourcegitcommit: 9db33fec9bee98b270d5a6d457dad628481bbcd7
-ms.translationtype: MT
-ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066050"
 ---
+
 # <a name="welcome-to-partner-center"></a>Willkommen beim Partner Center
 
 Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer End-to-End-Beziehung mit Microsoft. Es verfügt über Tools und Ressourcen, mit denen Sie Transaktionen durchführen und Umsatzsteigerung, einschließlich Mitgliedschaftsoptionen, kundenempfehlungen und das Programm für Cloud Solution Provider (CSP). Erfahren Sie mehr über bewährte Methoden für die Verwaltung Ihres Kontos, Herstellen einer Verbindung mit Kunden, beim Kauf eines Action Pack-Abonnements und Incentives-Programm in der Hilfebibliothek für Partner Center registrieren.
@@ -28,7 +23,7 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/message-icon.png" data-linktype="external">
+                            <img alt="Message icon" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -46,7 +41,7 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/yammer-logo.png" data-linktype="external">
+                            <img alt="Yammer logo" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -64,7 +59,7 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/i_api.png" data-linktype="external">
+                            <img alt="API icon" src="images/i_api.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -129,7 +124,7 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -146,7 +141,7 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
+                            <img alt="Connection icon" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -163,7 +158,7 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
+                            <img alt="Scenario icon" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -186,7 +181,7 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -202,7 +197,7 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
+                            <img alt="API icon" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
                         </div>
                     </div>                
                     <div class="cardText">
@@ -218,7 +213,7 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
+                            <img alt="Benefits icon" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">

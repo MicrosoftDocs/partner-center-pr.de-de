@@ -7,12 +7,12 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero-Touch Deployment, Windows-Willkommensseite, Anmeldebildschirme, Out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: d563ad09d1fa3b67b01835480a348a524455efbc
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 46b8a74383585c630864079efa42b6e34412b91e
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083403"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098827"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Anpassen eines Geräts Out-of-Box-Experience mit Windows Autopilot-Profilen
 
@@ -25,7 +25,7 @@ Wenn Sie Kundengeräte verwalten, müssen Sie die Out-of-Box-Experience (OOBE) f
 Wenn Sie nicht bereits mit Autopilot vertraut sind, lesen Sie die Informationen in diesen Artikeln:
 
 - [Übersicht über Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
-- [Autopilot-Referenz-Bereitstellungshandbuch](http://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
+- [Autopilot-Referenz-Bereitstellungshandbuch](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Übersicht
 

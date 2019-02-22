@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: CSP, direkte Partner, Online-Dienst, Anforderungen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 80b3f5353c2fab8e0b4049c886407414eeba4771
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 9eaa4eae326bda4ed37fa750d588df961b573822
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083357"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098697"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>Neue Anforderungen für direkte CSP-Partner
 
@@ -45,4 +45,4 @@ Bewertung des Fragebogens bestimmt berechtigt, im direkten Rechnung CSP-Programm
 
 Wenn Sie von einer direkten Rechnung Business auf indirekte Reseller-Geschäfts wechseln möchten, stehen mehrere Schritte, die Sie durchführen müssen. Weitere Informationen zu den Übergang zu erhalten, lesen Sie [Übergang von Cloud Solution Provider (CSP) direkter Partner in CSP indirekten Händler](transition-direct-to-indirect.md). 
 
-Siehe auch [zusätzliche Informationen indirekter Wiederverkäufer](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) und die [direkte Rechnung indirekter Händler – häufig gestellte Fragen](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
+Siehe auch [zusätzliche Informationen indirekter Wiederverkäufer](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) und die [direkte Rechnung indirekter Händler – häufig gestellte Fragen](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).

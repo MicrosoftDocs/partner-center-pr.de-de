@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: Autorisierte Education-Partner, Education, verkaufen Education, Schulen
 ms.localizationpriority: medium
-ms.openlocfilehash: 04014dc307744c9eda7038a3e820cd49957fc15c
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: e71c28f1fcf9b47fffea21eddfa2ab6a2e4313ab
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062328"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098757"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Abonnements für Minecraft: Education Edition für Bildungseinrichtungen
 
@@ -23,7 +23,7 @@ ms.locfileid: "9062328"
 Partner, die mit Bildungseinrichtungen zusammenarbeiten, können diesen **Minecraft: Education Edition**-Abonnements anbieten. Sie erwerben das Abonnement im Auftrag des Kunden im Partner Center, und klicken Sie dann der Kunden die Software aus dem [Microsoft Store für Bildungseinrichtungen](https://educationstore.microsoft.com)downloads. 
 
 >[!IMPORTANT]
->Zum Verkauf von Bildungsangeboten an Kunden im Bildungsbereich müssen Sie im Cloud Solution Provider (CSP)-Programm registriert und ein [autorisierter Verkäufer für den Bildungsbereich (AEP)](https://www.mepn.com) sein. Darüber hinaus muss Ihr Kunde ein [qualifizierter Benutzer von Bildungsangeboten](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) sein.  
+>Zum Verkauf von Bildungsangeboten an Kunden im Bildungsbereich müssen Sie im Cloud Solution Provider (CSP)-Programm registriert und ein [autorisierter Verkäufer für den Bildungsbereich (AEP)](https://www.mepn.com) sein. Darüber hinaus muss Ihr Kunde ein [qualifizierter Benutzer von Bildungsangeboten](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) sein.  
 
  
 ## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>Erwerb von **Minecraft: Education Edition** im Auftrag des Kunden

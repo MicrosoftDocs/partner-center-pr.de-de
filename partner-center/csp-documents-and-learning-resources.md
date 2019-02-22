@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 4300da2261618474e44f28fd8aba0dbf50817313
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083143"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098767"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Programmleitfaden für Cloud-Lösungsanbieter, Vereinbarungen, Preislisten und Angebote
 
@@ -29,7 +29,7 @@ Sehen Sie sich die Informationen in diesem Artikel am, um die Anforderungen für
 
 Lesen Sie die Anforderungen, wie Sie ein Partner im CSP-Programm werden.
 
-[Programmleitfaden für Cloud Solution Provider-Partner](http://go.microsoft.com/fwlink/p/?LinkId=617100)
+[Programmleitfaden für Cloud Solution Provider-Partner](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
 >Wenn Sie bestätigen oder zertifizieren Sie Ihren Status als eine genehmigte Microsoft-Partner im Cloud-Lösungsanbieter-Programm, [kontaktieren Sie den Support](https://partner.microsoft.com/pcv/servicerequests/create) , um eine Anforderung von Buchstaben Unternehmen benötigen.
@@ -38,19 +38,19 @@ Lesen Sie die Anforderungen, wie Sie ein Partner im CSP-Programm werden.
 
 Partner müssen diese Vereinbarung unterzeichnen, um an dem Programm für Cloud Solution Provider teilzunehmen. Überprüfen Sie den Leitfaden für den Markt oder die nationale Cloud, in dem bzw. der Sie verkaufen möchten.
 
-[Vereinbarung für Microsoft Cloud-Handelspartner – Nordamerika, Mittelamerika, Südamerika, Karibik](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[Vereinbarung für Microsoft Cloud-Handelspartner – Nordamerika, Mittelamerika, Südamerika, Karibik](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Vereinbarung für Microsoft Cloud-Handelspartner – Asien, Australien, Pazifischer Raum](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[Vereinbarung für Microsoft Cloud-Handelspartner – Asien, Australien, Pazifischer Raum](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
-[Vereinbarung für Microsoft Cloud-Handelspartner – Europa , Naher Osten und Afrika](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[Vereinbarung für Microsoft Cloud-Handelspartner – Europa , Naher Osten und Afrika](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
-[Vereinbarung für Microsoft Cloud-Handelspartner – Japan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
+[Vereinbarung für Microsoft Cloud-Handelspartner – Japan](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[Vereinbarung für Microsoft Cloud-Handelspartner – Korea](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[Vereinbarung für Microsoft Cloud-Handelspartner – Korea](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[Vereinbarung für Microsoft Cloud-Handelspartner – Taiwan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[Vereinbarung für Microsoft Cloud-Handelspartner – Taiwan](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Vereinbarung für Microsoft Cloud-Handelspartner – Microsoft Cloud Deutschland](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[Vereinbarung für Microsoft Cloud-Handelspartner – Microsoft Cloud Deutschland](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud Agreement-Kundenvorlagen
 

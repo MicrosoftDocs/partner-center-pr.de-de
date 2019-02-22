@@ -6,12 +6,12 @@ description: Für die OSA Sell and Online Services Usage-Incentiveprogramme kön
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 815f0a9f7b88d1498381c5135c72eacdd2c8943a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bc9047e21beafb9973723260b437353bbe291603
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796183"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098717"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>Berichte mit Livedaten ersetzten monatliche Berichte für einige Incentiveprogramme
 
@@ -35,7 +35,7 @@ Derzeit betrifft dies nur die OSA Sell and Online Services Usage-Incentiveprogra
  
 ## <a name="start-using-the-new-reporting-functionality"></a>Verwenden Sie die neuen Reporting-Funktionen: 
 
-1. Laden Sie die Readiness-Ressourcen im MPN herunter ([Partner Incentives Reporting über Partner Incentives Experience](http://aka.ms/osareadiness )).
+1. Laden Sie die Readiness-Ressourcen im MPN herunter ([Partner Incentives Reporting über Partner Incentives Experience](https://aka.ms/osareadiness )).
 
 2. Wechseln Sie zu [PIE](https://partnerincentives.microsoft.com/)
 

@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bf0145b9e82d14d51486f7063329b971451c2fcd
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 58c11c47a5d3e069fcbcea1a234cf6cf548a8006
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995804"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098807"
 ---
 # <a name="tax-and-tax-exemptions"></a>Steuern und Steuerbefreiungen
 
@@ -26,9 +26,9 @@ Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf
 
 **Beantragen einer Steuerbefreiung**
 
-1.  Suchen nach Ihrer **Microsoft-ID** im Partner Center &gt; **kontoeinstellungen** &gt; **Organisationsprofil**.
+1.  Schlagen Sie Ihre **Microsoft-ID** im Partner Center &gt; **kontoeinstellungen** &gt; **Organisationsprofil**.
 2.  Schlagen Sie Ihre **MPN-ID** im Partner Center &gt; **kontoeinstellungen** &gt; **Partner-Profil**.
-3.  Erstellen Sie ein neues Supportticket. Wählen Sie im Partner Center-Menü **Serviceanfragen** &gt; **Partner Center-Anfragen** &gt; **neue Anforderung**.
+3.  Erstellen Sie ein neues Supportticket. Wählen Sie aus dem Menü Partner Center **Serviceanfragen** &gt; **Partner Center-Anfragen** &gt; **neue Anfrage**.
 4.  Füllen Sie das Formular aus. Wählen Sie unter **Problemtyp** die Option **Ich kann mein Profil nicht verwalten** aus. Geben Sie in der Beschreibung Ihre MPN-ID und Microsoft-ID an.
 5.  Nachdem Sie das Ticket übermittelt haben, erhalten Sie von Microsoft eine E-Mail mit der Bitte um weitere Informationen. Fügen Sie Ihrer Antwort die erforderlichen Bescheinigungen für Ihre Steuerbefreiung bei.
 
@@ -48,11 +48,11 @@ Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf
 </tr>
 <tr class="even">
 <td>Europäische Union</td>
-<td><p>In den Mitgliedstaaten der Europäischen Union müssen Partner ihre gültige USt-IdNr. angeben, um eine ordnungsgemäße Steuerschuldumkehr und Abrechnung zu gewährleisten. Die USt-IdNr. muss <a href="http://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](http://go.microsoft.com/fwlink/p/?LinkId=808160)">nachweislich gültig</a> sein.</p>
+<td><p>In den Mitgliedstaaten der Europäischen Union müssen Partner ihre gültige USt-IdNr. angeben, um eine ordnungsgemäße Steuerschuldumkehr und Abrechnung zu gewährleisten. Die USt-IdNr. muss <a href="https://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](https://go.microsoft.com/fwlink/p/?LinkId=808160)">nachweislich gültig</a> sein.</p>
 <p>Da Microsoft keine Gutschriften und erneute Rechnungsstellungen unterstützt, müssen Sie Ihre USt-IdNr. vor dem Verkauf von Abonnements in Partner Center registrieren.</p>
 <p>Übermitteln der USt-IdNr. an Microsoft</strong></p>
 <ol>
-<li>Wechseln Sie im Partner Center zu Partner Center-Menü &gt; <strong>kontoeinstellungen</strong> &gt; <strong>Abrechnung Partner-Profil</strong>.</li>
+<li>Wechseln Sie im Partner Center zu Menü "Partner Center" &gt; <strong>kontoeinstellungen</strong> &gt; <strong>Abrechnung Partner-Profil</strong>.</li>
 <li>Wählen Sie im Abschnitt <strong>Finanzdaten</strong> die Option <strong>Aktualisieren</strong> aus.</li>
 <li>Geben Sie unter <strong>Steuernummer des Unternehmens</strong> Ihre  USt-IdNr. an.</li>
 </ol></td>

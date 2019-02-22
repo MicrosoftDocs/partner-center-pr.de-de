@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: Kompetenzen, Silber-Mitgliedschaft, Gold-Mitgliedschaft, Mpn, MAPS, Kompetenz, Vorteile, Leistungsziele, Fähigkeitsziele
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 10b0b28e3df005df7503c410f98166bd166d9523
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 23abe1e491eab6eb4811bf7d87095b2a525e65bc
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062338"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098787"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -62,11 +62,11 @@ Wechseln Sie zu der **Partnerschaft > Kompetenzen**, um Ihren Fortschritt in ein
 
 ### <a href="" id="associating_achievements"></a>Verknüpfen von Mitarbeitern zum Erreichen kenntnisbasierter Ziele
 
-1.  Fügen Sie Benutzerkonten für die Mitarbeiter in Ihrer Organisation hinzu. Das [Partner Center](http://partnercenter.microsoft.com)wechseln Sie zur **Konto Einstellungen >-Benutzer hinzufügen**. (PMC-Benutzer können mehrere Benutzer gleichzeitig durch die Auswahl von **Add users using PMC data** hinzufügen.)
+1.  Fügen Sie Benutzerkonten für die Mitarbeiter in Ihrer Organisation hinzu. Das [Partner Center](https://partnercenter.microsoft.com)wechseln Sie zur **Konto Einstellungen >-Benutzer hinzufügen**. (PMC-Benutzer können mehrere Benutzer gleichzeitig durch die Auswahl von **Add users using PMC data** hinzufügen.)
 
     Nachdem die Benutzerkonten erstellt wurden, erhalten sie einen neuen Benutzernamen und ein Kennwort und Sie werden aufgefordert, eine Protokolldatei mit Informationen zum Zurücksetzen des Benutzernamens und des Kennworts herunterzuladen. Sie können auch [die Benutzerkonten so einrichten, dass sie das Kennwort selbst zurücksetzen können](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
 
-2. Bitten Sie die Mitarbeiter in Ihrer Organisation, sich anzumelden und ihr Microsoft-Konto (MSA) mit ihrem Benutzerkonto zu verknüpfen. (Aus dem [Partner Center](http://partnercenter.microsoft.com), rufen Sie die **kontoeinstellungen**.) Mitarbeiter können die gleichen oder unterschiedliche MSAs verwenden, um ihre technischen Microsoft-Prüfungen und-Zertifizierungen und ihre Konten über Microsoft Partner University zu verknüpfen.
+2. Bitten Sie die Mitarbeiter in Ihrer Organisation, sich anzumelden und ihr Microsoft-Konto (MSA) mit ihrem Benutzerkonto zu verknüpfen. (Aus dem [Partner Center](https://partnercenter.microsoft.com), rufen Sie die **kontoeinstellungen**.) Mitarbeiter können die gleichen oder unterschiedliche MSAs verwenden, um ihre technischen Microsoft-Prüfungen und-Zertifizierungen und ihre Konten über Microsoft Partner University zu verknüpfen.
 
 3.  **Warten Sie 24 Stunden**, nachdem ein Mitarbeiter sein Konto verknüpft oder ein kenntnisbasiertes Ziel abgeschlossen hat. Danach wird der Fortschritt im Abschnitt **Kompetenzen** angezeigt.
 

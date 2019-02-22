@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Hinzufügen von Lizenzen zu einem vorhandenen Abonnement, Plätze zu einem vorhandenen Abonnement hinzufügen, Abonnement andern, Ändern eines Abonnements, Weitere Lizenzen für einen Kunden erwerben
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e16cbd466ccb8f46982ef8c7e38f644737afcdd
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b76a0d4fd5bf8829c6e2426174f5873f30757315
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795973"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098777"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795973"
 
 -  Partner Center
 
-Wenn Ihr Kunde mehr Lizenzen benötigt, als das aktuelle Abonnement zur Verfügung stellt, oder wenn er eine andere Version mit zusätzlichen Services benötigt, können Sie das Abonnement aktualisieren. Weitere Informationen finden Sie unter [Wechseln zu einem anderen Office 365 Business-Plan](http://go.microsoft.com/fwlink/p/?LinkId=723577).
+Wenn Ihr Kunde mehr Lizenzen benötigt, als das aktuelle Abonnement zur Verfügung stellt, oder wenn er eine andere Version mit zusätzlichen Services benötigt, können Sie das Abonnement aktualisieren. Weitere Informationen finden Sie unter [Wechseln zu einem anderen Office 365 Business-Plan](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
 ## <a href="" id="upgradesubscription"></a>
 
@@ -93,7 +93,7 @@ Weitere Informationen über die Auswirkung auf die Abrechnung finden Sie unter d
 1.  Um festzustellen, ob ein Abonnement für Upgrade berechtigt ist, wählen Sie Ihren Kunden, und öffnen Sie die Liste der Abonnements.
 2.  Wenn ein Upgrade auf das Abonnement durchgeführt werden kann, sehen Sie ein Informationssymbol direkt hinter dem Abonnementnamen. Zeigen Sie auf dieses Symbol, und wählen Sie dann **Jetzt aktualisieren**.
 3.  Wählen Sie das neue Angebot und dann **Absenden**.
-4.  Möglicherweise ist zusätzliche Arbeit erforderlich, um einige Benutzerkonten für bestimmte Dienste zu aktualisieren. Wenn dies der Fall ist, enthält das Partner Center eine Liste der Konten und Dienste, die betroffen sind. Hilfe finden Sie im Knowledge Base-Artikel [Bei Lizenzen neu zuweisen, während Sie Pläne in Office 365 wechseln](http://go.microsoft.com/fwlink/p/?LinkId=723576).
+4.  Möglicherweise ist zusätzliche Arbeit erforderlich, um einige Benutzerkonten für bestimmte Dienste zu aktualisieren. Wenn dies der Fall ist, enthält das Partner Center eine Liste der Konten und Dienste, die betroffen sind. Hilfe finden Sie im Knowledge Base-Artikel [Bei Lizenzen neu zuweisen, während Sie Pläne in Office 365 wechseln](https://go.microsoft.com/fwlink/p/?LinkId=723576).
 
  
 

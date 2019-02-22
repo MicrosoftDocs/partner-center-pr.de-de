@@ -6,18 +6,18 @@ description: Lesen Sie mehr über die CSP-Programmanforderungen, bevor Sie sich 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 557eaa97a65acb7fff2698625acb95ab5c3717f6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9e6aa5187dc52ddd753681a4e14bbaec32ce2420
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796333"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098817"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registrieren für das Microsoft Cloud-Lösungsanbieter-Programm für Microsoft Cloud für US-Behörden
 
 **Gilt für**
 
--  Partner Center für Microsoft Cloud für US-Behörden
+-  Partner Center für Microsoft Cloud for US Government
 
 Microsoft Partner können jetzt Cloudlösungen und -dienste von Microsoft an Bundesbehörden, staatliche und kommunale Einrichtungen sowie Stammeseinrichtungen in den USA über das CSP-Programm (Cloud Solution Provider, Cloud-Lösungsanbieter) für Microsoft Cloud für US-Behörden verkaufen. 
 
@@ -25,7 +25,7 @@ Microsoft Cloud für US-Behörden bietet eine private, dedizierte und isolierte 
 
 ## <a name="before-you-begin"></a>Vorbemerkungen
 
-Bevor Sie sich für das CSP-Programm für Microsoft Cloud für US-Behörden registrieren können, müssen wir sicherstellen, dass Ihr Unternehmen die Anforderungen für den Verkauf an US-Regierungsstellen erfüllt. Bevor Sie den Registrierungsprozess starten, füllen Sie das [Formular zur Microsoft Government Cloud-Überprüfung](http://azuregov.microsoft.com/csp) aus, damit die Qualifikation Ihres Unternehmens überprüft werden kann. Nachdem wir die Qualifikation Ihres Unternehmens überprüft haben, stellen wir einen Azure Active Directory (Azure AD)-Mandanten speziell für Microsoft Cloud für US-Behörden bereit.  
+Bevor Sie sich für das CSP-Programm für Microsoft Cloud für US-Behörden registrieren können, müssen wir sicherstellen, dass Ihr Unternehmen die Anforderungen für den Verkauf an US-Regierungsstellen erfüllt. Bevor Sie den Registrierungsprozess starten, füllen Sie das [Formular zur Microsoft Government Cloud-Überprüfung](https://azuregov.microsoft.com/csp) aus, damit die Qualifikation Ihres Unternehmens überprüft werden kann. Nachdem wir die Qualifikation Ihres Unternehmens überprüft haben, stellen wir einen Azure Active Directory (Azure AD)-Mandanten speziell für Microsoft Cloud für US-Behörden bereit.  
 
 Um für CSP für Microsoft Cloud für US-Behörden ein Partner Center-Konto zu erstellen und zu registrieren, müssen Sie folgende Informationen angeben (Sie sollten diese Informationen vor dem Registrierungsprozess einholen):
 
@@ -42,7 +42,7 @@ Um für CSP für Microsoft Cloud für US-Behörden ein Partner Center-Konto zu e
 
 1.  Starten Sie den [Registrierungsprozess](https://partnercenter.microsoft.com/register/resellerusgjoinnow). 
 
-2.  Melden Sie sich mit den globalen Administrator-Anmeldeinformationen für den AzureAD-Mandanten Ihrer Organisation für Microsoft Cloud für US-Behörden an. Wenn Ihre Organisation kein Konto für dieses Portal besitzt, können Sie eines anfordern, indem Sie das [Formular zur Microsoft Government Cloud-Überprüfung](http://azuregov.microsoft.com/csp) ausfüllen.
+2.  Melden Sie sich mit den globalen Administrator-Anmeldeinformationen für den AzureAD-Mandanten Ihrer Organisation für Microsoft Cloud für US-Behörden an. Wenn Ihre Organisation kein Konto für dieses Portal besitzt, können Sie eines anfordern, indem Sie das [Formular zur Microsoft Government Cloud-Überprüfung](https://azuregov.microsoft.com/csp) ausfüllen.
 
 
 ### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Schritt2: Beantragen der Teilnahme am Programm für Cloud-Lösungsanbieter für Microsoft Cloud für US-Behörden

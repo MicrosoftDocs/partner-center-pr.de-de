@@ -1,18 +1,18 @@
 ---
 title: Bestätigen Sie Kunden Abnahme der Vereinbarung für Microsoft Cloud | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 02/22/2019
 Description: As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing certain details regarding the person who accepted the agreement.
 author: v-petand
 ms.author: v-petand
 keywords: Kunden, Kunden, erklären, MCA, Microsoft Cloud Agreement, Vorlagen für kundenverträge
 ms.localizationpriority: medium
-ms.openlocfilehash: 0cadf9462152786fd5cb5c70f7bd787caf85658b
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 269647b819dda4c86ae7397dac3504268767abba
+ms.sourcegitcommit: 83d2757756ed1ed8f5f7ae06c84e7547174faf9a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083193"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "9099438"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Bestätigen Sie Kunden zur Annahme von den Microsoft-Cloud-Vertrag
 
@@ -46,7 +46,7 @@ Weitere Informationen hierzu finden Sie in der Microsoft Cloud Agreement Kunden 
 
 **7. November 2018**
 
--   Online-Dienst-Partner und indirekte Anbieter **müssen** bestätigen Kunden zur Annahme von der Microsoft Cloud Agreement. Bestätigung ist *obligatorisch*.
+-   Online-Dienst-Partner und indirekte Anbieter **müssen** bestätigen Abnahme durch den Kunden der Vereinbarung für Microsoft Cloud, wenn über Partner Center-Dashboard Transaktionen. Bestätigung ist *obligatorisch*.
 
 -   Wenn Bestätigung nicht für einen bestimmten Kunden bereitgestellt wird:
 
@@ -57,6 +57,33 @@ Weitere Informationen hierzu finden Sie in der Microsoft Cloud Agreement Kunden 
 -   Bestätigung der Kunde Annahme kann über Partner Center oder Partner Center-API erfolgen.
 
 -   Bestätigung der Kunde Annahme wird nur mit öffentlichen Cloud von Microsoft unterstützt.
+
+-   Dies gilt für Produktions- und Sandbox-Umgebung.
+
+**11. März 2018**
+
+- Online-Dienst-Partner und indirekte Providersmust bestätigen Abnahme der Vereinbarung für Microsoft Cloud CSP-Sandkasten-Umgebung durch den Kunden bei der Durchführung von Transaktionen über Partner Center-API.
+- Wenn Bestätigung nicht für einen bestimmten Kunden bereitgestellt wird:
+
+    - Nicht werden mehr neue Aufträge für diesen Kunden über Partner Center-API erstellt.
+ 
+    - Sie wird nicht die Anzahl der Arbeitsplätze vorhandener arbeitsplatzbasierte Abonnements für diesen Kunden über Partner Center-API ändern können.
+- Bestätigung der Kunde Annahme wird nur mit öffentlichen Cloud von Microsoft unterstützt. 
+
+**22. März 12018**
+
+- Online-Dienst-Partner und indirekte Providersmust bestätigen Abnahme der Vereinbarung für Microsoft Cloud in CSP produktiven Umgebung durch den Kunden bei der Durchführung von Transaktionen über Partner Center-API.
+
+- Wenn Bestätigung nicht für einen bestimmten Kunden bereitgestellt wird:
+  - Nicht werden mehr neue Aufträge für diesen Kunden über Partner Center-API erstellt.
+
+  - Sie wird nicht die Anzahl der Arbeitsplätze vorhandener arbeitsplatzbasierte Abonnements für diesen Kunden über Partner Center-API ändern können.
+-  Bestätigung der Kunde Annahme wird nur mit öffentlichen Cloud von Microsoft unterstützt.
+
+
+
+
+
 
 
 ## <a name="confirming-customer-acceptance-in-partner-center"></a>Bestätigen der Abnahme durch den Kunden im Partner Center

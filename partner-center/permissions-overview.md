@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: Rollen, Berechtigungen, Admin-agent
 ms.localizationpriority: medium
-ms.openlocfilehash: d811cb76b03b1784eaf926052e6a00151b2fc347
-ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
+ms.openlocfilehash: cc0e37601b16033bf31faaf5056ca0389d6f5cf6
+ms.sourcegitcommit: 7961476a8fed7cd56a09c6edc8dd1e2dd7f46465
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "9086728"
+ms.lasthandoff: 02/27/2019
+ms.locfileid: "9117213"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern
 
@@ -74,7 +74,7 @@ CPVs Entwickeln von apps für die Verwendung von Cloud Solution Provider (CSP) P
 
 |**Rolle** | **Was Sie tun können**|
 |----------------------------|:----------------------------|
-|MPN-Administrator|•CAN nicht-Mandanten Benutzer hinzufügen
+|Administrator für MPN-Partner|•CAN nicht-Mandanten Benutzer hinzufügen
 ||• Anzeigen, erstellen und Verwalten von Serviceanfragen der partner
 ||• Ansicht rechtliche, Organisation, geschäftlichen und MPN-Profilen
 ||• Ansicht Benutzerdetails Daten und Fähigkeiten
@@ -82,8 +82,9 @@ CPVs Entwickeln von apps für die Verwendung von Cloud Solution Provider (CSP) P
 ||• Anzeigen und Verwalten von Vorteilen
 ||• Anzeigen und kaufen Sie MPN-Angebote
 ||Rechnungen und Bestellverlauf • Ansicht MPN-Angebote
-||• Können Partner Beitrag Daten anzeigen.
+||• Anzeigen Partner Beitrag von Daten
 ||• Können im Beleg Überprüfung Tool arbeiten.|
+||– Anzeigen von Kunden Datenanalyse
 |Administratorkonto| • Können Benutzer nicht-Mandanten hinzufügen.
 ||• Hinzufügen oder Löschen von Speicherorte
 ||-Verwalten Sie Profile, die im Zusammenhang mit der Konten, die Sie Administrator 

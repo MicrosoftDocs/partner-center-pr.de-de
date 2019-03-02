@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 361a2b56b9256a6155927848e8fbd6de5311a7a0
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 081afc547a0ff86010e06fcb5224a615a0075e34
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062378"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122277"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -464,34 +464,428 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tbody>
 </table>
 
-## <a href="" id="onetimefiles"></a>Feld für das einmalige Erwerben der Datei
+## <a href="" id="marketplacefilefields"></a>Einmalige und wiederkehrenden Dateifelder
 
-|**Feld** |**Definition**|
-|:----------------|:-----------------------------|
-|PartnerID |Partner-ID im GUID-Format. |
-|Kunden-ID |Eindeutige Microsoft-ID im GUID-Format: wird zur Identifizierung des Kunden verwendet. |
-|CustomerName |Firmenname des Kunden wie im Partner Center angegeben. Dies ist sehr wichtig für die Abstimmung der Rechnung mit Ihren Systeminformationen. |
-|CustomerDomainName |Domänenname des Kunden. |
-|CustomerCountry |Land, in dem sich der Kunde befindet. |
-|InvoiceNumber |Rechnungsnummer, in der die angegebene Transaktion angezeigt wird. |
-|MPNID |Die MPN-ID des CSP Partners (direkt oder indirekt). |
-|MPN-ID der Handelspartner |Wird nur in den Abstimmungsdateien für Partner im indirekten Modell angezeigt. Die MPN-ID des registrierten Handelspartners für die Reservierung. Dies entspricht der Handelspartner-ID, die für die spezifische Reservierung im Partner Center aufgeführt ist. Wenn ein CSP-Partner die Reservierung direkt an den Kunden veräußert hat, wird seine MPN-ID zweimal aufgeführt: als MPN-ID und als MPN-ID des Handelspartners. Wenn ein CSP-Partner über einen Handelspartner ohne MPN-ID verfügt, wird dieser Wert stattdessen auf die MPN-ID des Partners festgelegt. Wenn der CSP-Partner eine Handelspartner-ID entfernt, wird dieser Wert auf-1 festgelegt. |
-|OrderID |Eindeutiger Bezeichner für eine Bestellung auf der Microsoft-Abrechnungsplattform. Kann beim Kontakt zum Support zum Identifizieren von Azur Reservations hilfreich sein, jedoch nicht zur Abstimmung. |
-|Bestellungsdatum |Der Zeitpunkt der Auftragserstellung. |
-|ProductId |Die ID für das Produkt. |
-|SkuID  |Die ID für eine bestimmte SKU. |
-|AvailabilityId |Die ID für eine bestimmte Verfügbarkeit. "Verfügbarkeit" bezieht sich darauf, ob eine bestimmte SKU für ein bestimmtes Land, Währung, Branche usw. erhältlich ist. |
-|SkuName  |Titel für eine bestimmte SKU. |
-|ProductName |Name des Produkts. |
-|ChargeType |Art der Gebühren oder der Anpassung. |
-|UnitPrice |Preis pro bestelltem Produkt. |
-|Anzahl |Anzahl der bestellten Produkte. |
-|Zwischensumme |Gesamtbetrag vor Steuern Überprüft, ob bei Rabatten Ihre Zwischensumme mit dem erwarteten Gesamtbetrag übereinstimmt. |
-|TaxTotal |Die Summe aller anwendbaren Steuern. |
-|Gesamt |Dies ist die Gesamtanzahl der Käufe. |
-|Währung |Währungstyp Jede Abrechnungsentität verfügt nur über eine Währung. Überprüft auf Übereinstimmung in Ihrer ersten Rechnung und nach jedem großen Update der Abrechnungsplattform. |
-|DiscountDetails |Detaillierte Liste der relevanten Rabatte. |
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Spalte</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
 
+
+<tr class="odd">
+<td>PartnerID</td>
+<td><p>Eindeutiger Bezeichner für Microsoft Azure Active Directory-Mandanten für eine spezifische abrechnungsentität im GUID-Format '. Nicht zur Abstimmung erforderlich, kann jedoch hilfreiche Informationen bereitstellen. In allen Zeilen gleich.</p></td>
+</tr>
+
+<tr class="even">
+<td>Kunden-Id</td>
+<td><p>Eindeutige Microsoft Azure Active Directory-Mandanten-ID im GUID-Format, die zur Identifizierung des Kunden verwendet.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Kundenname</td>
+<td><p>Firmenname des Kunden wie im Partner Center angegeben.</p></td>
+</tr>
+
+<tr class="even">
+<td>CustomerDomainName</td>
+<td><p>Kundendomänenname: wird zur Identifizierung des Kunden verwendet. Dies sollte nicht verwendet werden, um den Kunden eindeutig zu identifizieren, wie der Kunde/Partner über das Office 365-Portal Vanity/Standarddomäne aktualisieren können. Dieses Feld wird bis zum zweiten Rechnungszyklus leer angezeigt.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Kunden Land</td>
+<td><p>Land, in dem sich der Kunde befindet.</p></td>
+</tr>
+
+<tr class="even">
+<td>Rechnungsnummer</td>
+<td><p>Rechnungsnummer, in der die angegebene Transaktion angezeigt wird.</p></td>
+</tr>
+
+<tr class="odd">
+<td>MPNID</td>
+<td><p>MPN-ID des CSP-Partners.</p></td>
+</tr>
+
+<tr class="even">
+<td>Händler MpnId</td>
+<td><p>MPN-ID des registrierten Handelspartners für das Abonnement.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Bestellnummer</td>
+<td><p>Eindeutiger Bezeichner für eine Bestellung auf der Microsoft-e-Commerce-Plattform. Kann beim Kontakt zum Support zum Identifizieren der Bestellung hilfreich sein, jedoch nicht zur Abstimmung.</p></td>
+</tr>
+
+<tr class="even">
+<td>Bestellungsdatum</td>
+<td><p>Der Zeitpunkt der Auftragserstellung.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ProductId</td>
+<td><p>Die ID für das Produkt.</p></td>
+</tr>
+
+<tr class="even">
+<td>SkuID</td>
+<td><p>Die ID für eine bestimmte SKU.</p></td>
+</tr>
+
+<tr class="odd">
+<td>AvailabilityId</td>
+<td><p>Die ID für eine bestimmte Verfügbarkeit. "Verfügbarkeit" bezieht sich darauf, ob eine bestimmte SKU für ein bestimmtes Land, Währung, Branche usw. erhältlich ist.</p></td>
+</tr>
+
+<tr class="even">
+<td>SKU-Namen</td>
+<td><p>Titel für eine bestimmte SKU.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Produktname</td>
+<td><p>Name des Produkts.</p></td>
+</tr>
+
+<tr class="even">
+<td>PublisherName</td>
+<td><p>Der Name des Herausgebers des Produkts.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Des PublisherID</td>
+<td><p>Eindeutige ID für diesen Herausgeber.</p></td>
+</tr>
+
+<tr class="even">
+<td>Abonnement-Beschreibung</td>
+<td><p>Anzeigename eines Abonnements.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Abonnement-ID</td>
+<td><p>Eindeutiger Bezeichner für ein Abonnement auf der Microsoft-e-Commerce-Plattform. Kann zum Identifizieren des Abonnements bei einer Supportanfrage nützlich sein, dient jedoch nicht zu Abstimmungszwecken. Diese unterscheidet sich von der Abonnement-ID auf der Partner-Administratorkonsole.</p></td>
+</tr>
+
+<tr class="even">
+<td>ChargeStartDate</td>
+<td><p>Der erste Tag, an dem Gebühren anfallen. Die Uhrzeit ist immer auf den Tagesbeginn um 0:00 Uhr festgelegt.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ChargeEndDate</td>
+<td><p>Letzter Tag, an dem Gebühren anfallen. Die Uhrzeit ist immer auf das Tagesende um 23:59 Uhr festgelegt.</p></td>
+</tr>
+
+<tr class="even">
+<td>Begriff und Billingcycle</td>
+<td><p>Der Begriff Länge und Rechnungszyklus für die Bestellung. Beispielsweise "1 Jahr, monatlich."</p></td>
+</tr>
+
+<tr class="odd">
+<td>Gebührenart</td>
+<td><p>Art der Gebühren oder der Anpassung.</p></td>
+</tr>
+
+<tr class="even">
+<td>Preis pro Einheit</td>
+<td><p>Der Preis wie zum Zeitpunkt des Kaufs in der Preisliste veröffentlicht. Stellen Sie sicher, dass dies den Informationen entspricht, die in Ihrem Abrechnungssystem während der Abstimmung gespeichert wurden.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Preis pro Einheit effektive</td>
+<td><p>Preis pro Einheit nach Korrekturen vorgenommen wurden.</p></td>
+</tr>
+
+<tr class="even">
+<td>Anzahl</td>
+<td><p>Anzahl der Einheiten. Stellen Sie sicher, dass dies den Informationen entspricht, die in Ihrem Abrechnungssystem während der Abstimmung gespeichert wurden.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Einheitentyp</td>
+<td><p>Der Typ der Einheit erworben wird.</p></td>
+</tr>
+
+<tr class="even">
+<td>DiscountDetails</td>
+<td><p>Eine Erklärung, alle anwendbaren Rabatte.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Zwischensumme</td>
+<td><p>Gesamtbetrag vor Steuern Überprüft, ob bei Rabatten Ihre Zwischensumme mit dem erwarteten Gesamtbetrag übereinstimmt.</p></td>
+</tr>
+
+<tr class="even">
+<td>Steuern</td>
+<td><p>USt.-Betrag auf der Grundlage der Steuervorschriften und spezifischen Gegebenheiten Ihres Markts.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Gesamt</td>
+<td><p>Gesamtsumme nach Steuern. Überprüft, ob in der Rechnung Steuern berechnet werden.</p></td>
+</tr>
+
+<tr class="even">
+<td>Währung</td>
+<td><p>Währungstyp Jede Abrechnungsentität verfügt nur über eine Währung. Überprüft auf Übereinstimmung in Ihrer ersten Rechnung und nach jedem großen Update der Abrechnungsplattform.</p></td>
+</tr>
+
+<tr class="odd">
+<td>AlternateID</td>
+<td><p>Ein alternativer Bezeichner, der eine ID ein.</p></td>
+</tr>
+</tbody>
+</table>
+
+
+## <a href="" id="dailyratedusagefields"></a>Nutzung täglich bewertete Dateifelder
+
+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Spalte</th>
+<th>Beschreibung</th>
+</tr>
+</thead>
+<tbody>
+
+<tr class="odd">
+<td>PartnerID</td>
+<td><p>Partner-ID im GUID-Format.</p></td>
+</tr>
+
+<tr class="even">
+<td>PartnerName</td>
+<td><p>Partnername.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Kunden-ID</td>
+<td><p>Eindeutige Microsoft-ID im GUID-Format: wird zur Identifizierung des Kunden verwendet.</p></td>
+</tr>
+
+<tr class="even">
+<td>CustomerCompanyName</td>
+<td><p>Firmenname des Kunden wie im Partner Center angegeben. Dies ist sehr wichtig für die Abstimmung der Rechnung mit Ihren Systeminformationen.</p></td>
+</tr>
+
+<tr class="odd">
+<td>CustomerDomainName</td>
+<td><p>Domänenname des Kunden. Für die aktuelle Aktivität nicht verfügbar.</p></td>
+</tr>
+
+<tr class="even">
+<td>Kunden Land</td>
+<td><p>Land, in dem sich der Kunde befindet.</p></td>
+</tr>
+
+<tr class="odd">
+<td>MPNID</td>
+<td><p>MPN-ID des CSP-Partners.</p></td>
+</tr>
+
+<tr class="even">
+<td>Händler MPNID</td>
+<td><p>MPN-ID des registrierten Handelspartners für das Abonnement. Für die aktuelle Aktivität nicht verfügbar.</p></td>
+</tr>
+
+<tr class="odd">
+<td>InvoiceNumber</td>
+<td><p>Rechnungsnummer, in der die angegebene Transaktion angezeigt wird. Für die aktuelle Aktivität nicht verfügbar.</p></td>
+</tr>
+
+<tr class="even">
+<td>ProductId</td>
+<td><p>Die ID für das Produkt.</p></td>
+</tr>
+
+<tr class="odd">
+<td>SkuID</td>
+<td><p>Die ID für eine bestimmte SKU.</p></td>
+</tr>
+
+<tr class="even">
+<td>AvailabilityId</td>
+<td><p>Die ID für eine bestimmte Verfügbarkeit. "Verfügbarkeit" bezieht sich darauf, ob eine bestimmte SKU für ein bestimmtes Land, Währung, Branche usw. erhältlich ist.</p></td>
+</tr>
+
+<tr class="odd">
+<td>SKU-Namen</td>
+<td><p>Titel für eine bestimmte SKU.</p></td>
+</tr>
+
+<tr class="even">
+<td>PublisherName</td>
+<td><p>Der Name des Herausgebers.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Des PublisherID</td>
+<td><p>Die ID des Herausgebers, im GUID-Format. Für die aktuelle Aktivität nicht verfügbar.</p></td>
+</tr>
+
+<tr class=”even">
+<td>Abonnement-Beschreibung</td>
+<td><p>Der Name des Service-Angebots, das der Kunde gekauft hat, wie in der Preisliste definiert. (Dies ist ein identisches Feld für den Angebotsnamen).</p></td>
+</tr>
+
+<tr class="odd">
+<td>Abonnement-ID</td>
+<td><p>Eindeutiger Bezeichner für ein Abonnement auf der Microsoft-Abrechnungsplattform. Kann zum Identifizieren des Abonnements bei einer Supportanfrage nützlich sein, dient jedoch nicht zu Abstimmungszwecken. Diese unterscheidet sich von der Abonnement-ID auf der Partner-Administratorkonsole.</p></td>
+</tr>
+
+<tr class="even">
+<td>ChargeStartDate</td>
+<td><p>Anfangsdatum des Abrechnungszeitraums, außer wenn Datumsangaben zu zuvor nicht berechneten latenten Nutzungsdaten (aus dem vorherigen Abrechnungszyklus) vorliegen. Die Uhrzeit ist immer auf den Tagesbeginn um 0:00 Uhr festgelegt.</p></td>
+</tr>
+
+<tr class="odd">
+<td>ChargeEndDate</td>
+<td><p>Enddatum des Abrechnungszeitraums, außer wenn Datumsangaben zu zuvor nicht berechneten latenten Nutzungsdaten (aus dem vorherigen Abrechnungszyklus) vorliegen. Die Uhrzeit ist immer auf das Tagesende um 23:59 Uhr festgelegt.</p></td>
+</tr>
+
+<tr class="even">
+<td>Nutzung Datum</td>
+<td><p>Datum der Service-Nutzung.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Anzeige-Typ</td>
+<td><p>Der Typ der Anzeige.</p></td>
+</tr>
+
+<tr class="even">
+<td>Meter Kategorie</td>
+<td><p>Der obersten Ebene Dienst für die Verwendung.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Anzeige-Id</td>
+<td><p>Die ID für die Anzeige verwendet wird.</p></td>
+</tr>
+
+<tr class="even">
+<td>Meter Unterkategorie</td>
+<td><p>Der Typ des Azure-Dienst, der die Rate auswirken kann.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Meter Name</td>
+<td><p>Die Maßeinheit für die Anzeige genutzt wird.</p></td>
+</tr>
+
+<tr class="even">
+<td>Meter Region</td>
+<td><p>Diese Spalte gibt den Standort eines Rechenzentrums in der Region für die Dienste an, auf die dies zutrifft.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Einheit</td>
+<td><p>Die Einheit des Ressourcennamens.</p></td>
+</tr>
+
+<tr class="even">
+<td>Verbrauchten Menge</td>
+<td><p>Der Betrag für genutzte Dienste (Stunden, GB usw.) während des Berichtszeitraums. Enthält außerdem jede nicht berechnete Nutzung aus dem vorherigen Berichtszeitraum.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Speicherort der Ressource</td>
+<td><p>Die Datacenter, in denen die Anzeige ausgeführt wird.</p></td>
+</tr>
+
+<tr class="even">
+<td>Verbrauchten Service</td>
+<td><p>Der Azure-Plattform-Dienst, den Sie verwendet.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Ressourcengruppe</td>
+<td><p>Der Ressourcengruppe, in der die bereitgestellte Anzeige ausgeführt wird.</p></td>
+</tr>
+
+<tr class="even">
+<td>Ressourcen-URI</td>
+<td><p>Der URI der Ressource verwendet wird.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Gebührenart</td>
+<td><p>Art der Gebühren oder der Anpassung. Für die aktuelle Aktivität nicht verfügbar.</p></td>
+</tr>
+
+<tr class="even">
+<td>Preis pro Einheit</td>
+<td><p>Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dies den Informationen entspricht, die in Ihrem Abrechnungssystem während der Abstimmung gespeichert wurden.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Anzahl</td>
+<td><p>Anzahl der Lizenzen. Stellen Sie sicher, dass dies den Informationen entspricht, die in Ihrem Abrechnungssystem während der Abstimmung gespeichert wurden.</p></td>
+</tr>
+
+<tr class="even">
+<td>Einheitentyp</td>
+<td><p>Der Typ der Einheit der Anzeige ist in in Rechnung gestellt. Für die aktuelle Aktivität nicht verfügbar.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Abrechnung vor Steuern</td>
+<td><p>Gesamtbetrag vor Steuern.</p></td>
+</tr>
+
+<tr class="even">
+<td>Währung der Abrechnung</td>
+<td><p>Die Währung in einer geografischen Region des Kunden</p></td>
+</tr>
+
+<tr class="odd">
+<td>Preise gewöhnlichen insgesamt</td>
+<td><p>Die Preise vor Steuern hinzugefügt werden.</p></td>
+</tr>
+
+<tr class="even">
+<td>Währung Preise</td>
+<td><p>Die Währung, in der Preisliste wiedergegeben werden soll.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Service Info 1</td>
+<td><p>Die Anzahl der ServiceBus-Verbindungen, die bereitgestellt und an einem bestimmten Tag genutzt wurden.</p></td>
+</tr>
+
+<tr class="even">
+<td>Service-Informationen 2</td>
+<td><p>Ein legacy-Feld, das optionale Service-spezifischen Metadaten erfasst.</p></td>
+</tr>
+
+<tr class="odd">
+<td>Schilder</td>
+<td><p>Tags, die Sie für die Anzeige in der Reihenfolge zum Gruppieren Abrechnung zuweisen. Beispielsweise können Sie Tags verwenden, um Kosten von der Abteilung zu verteilen, die die Anzeige verwendet.</p></td>
+</tr>
+
+<tr class="even">
+<td>Zusätzliche Infos</td>
+<td><p>Alle zusätzlichen Informationen, die in anderen Spalten nicht behandelt.</p></td>
+</tr>
+
+</tbody>
+</table>
 
 
 ## <a href="" id="charge_types"></a>Siehe Zuordnung von Gebühren zwischen einer Rechnung und der Erstattungsdatei

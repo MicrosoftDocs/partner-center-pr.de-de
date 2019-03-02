@@ -49,7 +49,9 @@
 
 
 # [Abrechnung und Steuern](billing.md)
-## [Häufig gestellte Fragen zu neuen Abrechnungsfunktionen](faq-about-new-billing-features.md)
+## [Abrechnung – häufig gestellte Fragen](faq-about-new-billing-features.md)
+## [Grundlagen zur Abrechnung](billing-basics.md)
+## [Verständnis der Abrechnung im Partner Center](billing-different-types.md)
 ## [Informationen zu Ihrer Rechnung](read-your-bill.md)
 ## [Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md)
 ## [Steuern und Steuerbefreiungen](tax-and-tax-exemptions.md)
@@ -78,6 +80,7 @@
 ## [Onlinedienste (Abonnements)](customer-subscriptions.md)
 ### [Erstellen, Aussetzen oder Stornieren von Kundenabonnements](create-a-new-subscription.md)
 ### [Anbieten von Testversionen von Microsoft-Produkten für Kunden](offer-your-customers-trials-of-microsoft-products.md)
+### [Verkaufen von Abonnements für Azure Marketplace-Produkte](sell-marketplace-products.md)
 ### [Zuweisen von Azure-Abonnements in Partner Center](assign-azure-subscriptions.md)
 ### [Zuweisen von Lizenzen an Benutzer](assign-licenses-to-users.md)
 ### [Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement](add-licenses-or-services-to-an-existing-subscription.md)

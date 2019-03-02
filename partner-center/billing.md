@@ -2,18 +2,18 @@
 title: Abrechnung | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
+Description: Als Cloud-Lösungsanbieter bezahlen Sie Microsoft rückwirkend für 60Tage für die lizenzbasierten und die nutzungsbasierten Abonnements Ihrer Kunden.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Abrechnung, Zahlungen, Aufträge, Abbruch, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Abstimmungsdateien, Abstimmungsdatei
 ms.localizationpriority: medium
-ms.openlocfilehash: b8041b6fb5ae913786bf7e755d11e727e636f518
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 1d742b014e531539eaf89cffcbbe08b0232a2161
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683449"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122177"
 ---
 # <a name="billing"></a>Abrechnung
 
@@ -23,7 +23,7 @@ ms.locfileid: "8683449"
 -  Partner Center für Microsoft Cloud for US Government
  
  
-Ihre Rechnung wechseln Sie zum Menü " **Partner Center** ", und wählen Sie dann die **Abrechnung** , um Ihren Abrechnungsverlauf und -Trend, Links zu Ihrer Rechnung und abstimmungsdatei sowie Ihre letzte Zahlung anzeigen anzuzeigen.
+Ihre Rechnung wechseln Sie zum Menü " **Partner Center** ", und wählen Sie dann, **Abrechnung** , um Ihren Abrechnungsverlauf und -Trend, Links zu Ihrer Rechnung und abstimmungsdatei sowie Ihre letzte Zahlung anzeigen anzuzeigen.
 
 Partner im Programm für Cloud Solution Provider mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte als auch nutzungsbasierte Abonnements).
 
@@ -42,6 +42,7 @@ Wichtige Informationen über die Abrechnung mit Ihren Kunden:
 |:-----------------------------|:-----------------|
 |Grundlagen zu Abrechnung, Zahlungen, Rechnungen usw.   |[Grundlagen zur Abrechnung](billing-basics.md)
 |Viele neue Abrechnungsfunktionen wie z.B. die jährliche Abrechnung   |[Häufig gestellte Fragen zu neuen Abrechnungsfunktionen](faq-about-new-billing-features.md)|
+|Arten von Abrechnung   |[Verständnis der Abrechnung im Partner Center](billing-different-types.md)   |
 |Wichtiges zum Lesen Ihrer Abrechnung   |[Informationen zu Ihrer Rechnung](read-your-bill.md)   |
 |Lesen und Verwenden Ihrer Abstimmungsdatei   |[Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md)|
 |Allgemeine Abrechnungsszenarien (zusätzliche Abrechnungsszenarien finden Sie unter [Häufig gestellte Fragen zu neuen Abrechnungsfunktionen](faq-about-new-billing-features.md))|[Allgemeine Abrechnungsszenarien](common-billing-scenarios.md)|

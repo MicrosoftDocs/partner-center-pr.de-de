@@ -3,20 +3,20 @@ title: Data Platform-Kompetenz
 ms.topic: article
 ms.date: 10/29/2018
 description: Die Data Platform-Kompetenz erkennt Partner an, die leistungsfähige und vielseitige Datenbankplattformen für Ihr Unternehmen entwickeln möchten.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: Kompetenz,Kompetenzen,Data Platform
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 90b655a6844a69b537b9fabb44adb120b4f961ad
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b2c85185910c859ed69706fb7ab2778ab0e47cbb
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797273"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586443"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="8cf46-104">Weitere Informationen zu den Anforderungen für die Erreichung dieses Kompetenz besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="8cf46-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="d3c7c-104">Weitere Informationen zu den Anforderungen zur Erlangung dieser Kompetenz finden Sie im [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="d3c7c-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

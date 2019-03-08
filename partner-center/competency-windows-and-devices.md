@@ -3,20 +3,20 @@ title: Windows and Devices-Kompetenz
 ms.topic: article
 ms.date: 10/29/2018
 description: Tragen Sie zu unserem Ziel bei, 1 Milliarde Geräte mit Windows 10 auszustatten. Diese Geschäftschance umfasst Dienste, Anwendungen und Geräte. Diese Kompetenz bietet Ihnen Tools, Inhalte und Ressourcen, die Sie bei der Erweiterung Ihrer Geschäftstätigkeit mit Windows 10 unterstützen.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 robots: noindex,nofollow
 keywords: Kompetenz,Kompetenzen,Windows and Devices
 ms.localizationpriority: medium
-ms.openlocfilehash: 12798d8a500cde7a3fb35d806064277fd2b8c6a6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 634aedeafc118cd661f11cb927944499feda46af
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795583"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584613"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="dd603-106">Weitere Informationen zu den Anforderungen für die Erreichung dieses Kompetenz besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="dd603-106">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="184da-106">Weitere Informationen zu den Anforderungen zur Erlangung dieser Kompetenz finden Sie im [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="184da-106">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

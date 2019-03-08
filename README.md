@@ -1,37 +1,37 @@
-# You've added your first ReadMe file!
-A README.md file is intended to quickly orient readers to what your project can do.  New to Markdown? [Learn more](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
+# <a name="youve-added-your-first-readme-file"></a><span data-ttu-id="af48c-101">Sie haben Ihre erste ReadMe-Datei hinzugefügt.</span><span class="sxs-lookup"><span data-stu-id="af48c-101">You've added your first ReadMe file!</span></span>
+<span data-ttu-id="af48c-102">Eine Datei "Readme.MD" soll Leser, was Ihr Projekt tun kann schnell zu orientieren.</span><span class="sxs-lookup"><span data-stu-id="af48c-102">A README.md file is intended to quickly orient readers to what your project can do.</span></span>  <span data-ttu-id="af48c-103">Neu in Markdown?</span><span class="sxs-lookup"><span data-stu-id="af48c-103">New to Markdown?</span></span> [<span data-ttu-id="af48c-104">Weitere Informationen</span><span class="sxs-lookup"><span data-stu-id="af48c-104">Learn more</span></span>](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
 
-## Edit this ReadMe and commit your change to a topic branch
-In Git, branches are cheap.  You should use them whenever you're making changes to your repository.  Edit this file by clicking on the edit icon.
+## <a name="edit-this-readme-and-commit-your-change-to-a-topic-branch"></a><span data-ttu-id="af48c-105">Bearbeiten Sie diese Infodatei und übernehmen Sie die Änderung auf ein Topic-branch</span><span class="sxs-lookup"><span data-stu-id="af48c-105">Edit this ReadMe and commit your change to a topic branch</span></span>
+<span data-ttu-id="af48c-106">In Git sind Branches günstig.</span><span class="sxs-lookup"><span data-stu-id="af48c-106">In Git, branches are cheap.</span></span>  <span data-ttu-id="af48c-107">Sie sollten sie verwenden, wenn Sie Änderungen in Ihrem Repository vornehmen.</span><span class="sxs-lookup"><span data-stu-id="af48c-107">You should use them whenever you're making changes to your repository.</span></span>  <span data-ttu-id="af48c-108">Bearbeiten Sie diese Datei durch Klicken auf das Symbol "Bearbeiten".</span><span class="sxs-lookup"><span data-stu-id="af48c-108">Edit this file by clicking on the edit icon.</span></span>
 
-Then make some changes to this ReadMe file.
+<span data-ttu-id="af48c-109">Klicken Sie dann nehmen Sie einige Änderungen vor, um diese ReadMe-Datei.</span><span class="sxs-lookup"><span data-stu-id="af48c-109">Then make some changes to this ReadMe file.</span></span>
 
-> Make some **edits** to _this_ blockquote
+> <span data-ttu-id="af48c-110">Legen Sie einige **Bearbeitungen** zu _dies_ Blockquote</span><span class="sxs-lookup"><span data-stu-id="af48c-110">Make some **edits** to _this_ blockquote</span></span>
 
-When you are done, click the dropdown arrow next to the save button - that will allow you to commit your changes to a new branch.
+<span data-ttu-id="af48c-111">Wenn Sie fertig sind, klicken Sie auf den Dropdownpfeil neben der Speichervorgang Schaltfläche "-, die Sie Ihre Änderungen in einen neuen Branch zu übernehmen kann.</span><span class="sxs-lookup"><span data-stu-id="af48c-111">When you are done, click the dropdown arrow next to the save button - that will allow you to commit your changes to a new branch.</span></span>
 
-## Create a pull request to contribute your changes back into master
-Pull requests are the way to move changes from a topic branch back into the master branch.
+## <a name="create-a-pull-request-to-contribute-your-changes-back-into-master"></a><span data-ttu-id="af48c-112">Erstellen eines Pull Requests Änderungen wieder in den masterbranch</span><span class="sxs-lookup"><span data-stu-id="af48c-112">Create a pull request to contribute your changes back into master</span></span>
+<span data-ttu-id="af48c-113">Pull Requests sind die Möglichkeit, Änderungen in der master-Branch zurück in ein Topic-Branch zu verschieben.</span><span class="sxs-lookup"><span data-stu-id="af48c-113">Pull requests are the way to move changes from a topic branch back into the master branch.</span></span>
 
-Click on the **Pull Requests** page in the **CODE** hub, then click "New Pull Request" to create a new pull request from your topic branch to the master branch.
+<span data-ttu-id="af48c-114">Klicken Sie auf die **Pull Requests** auf der Seite die **CODE** -Hub, klicken Sie dann auf "Neue Pull Request" um einen neuen Pull Request aus Ihren Topic-Branch in den masterbranch zu erstellen.</span><span class="sxs-lookup"><span data-stu-id="af48c-114">Click on the **Pull Requests** page in the **CODE** hub, then click "New Pull Request" to create a new pull request from your topic branch to the master branch.</span></span>
 
-When you are done adding details, click "Create Pull request". Once a pull request is sent, reviewers can see your changes, recommend modifications, or even push follow-up commits.
+<span data-ttu-id="af48c-115">Wenn Sie das Hinzufügen von Details abgeschlossen haben, klicken Sie auf "Create Pull Request".</span><span class="sxs-lookup"><span data-stu-id="af48c-115">When you are done adding details, click "Create Pull request".</span></span> <span data-ttu-id="af48c-116">Nachdem eine Pull-Anforderung gesendet wurde, können Prüfer die Änderungen angezeigt, wird empfohlen, Änderungen oder Ausführen auch zur nachverfolgung Commits mittels push.</span><span class="sxs-lookup"><span data-stu-id="af48c-116">Once a pull request is sent, reviewers can see your changes, recommend modifications, or even push follow-up commits.</span></span>
 
-First time creating a pull request?  [Learn more](https://go.microsoft.com/fwlink/?LinkId=533211&clcid=0x409)
+<span data-ttu-id="af48c-117">Zum Erstellen eines Pull Requests?</span><span class="sxs-lookup"><span data-stu-id="af48c-117">First time creating a pull request?</span></span>  [<span data-ttu-id="af48c-118">Weitere Informationen</span><span class="sxs-lookup"><span data-stu-id="af48c-118">Learn more</span></span>](https://go.microsoft.com/fwlink/?LinkId=533211&clcid=0x409)
 
-### Congratulations! You've completed the grand tour of the CODE hub!
+### <a name="congratulations-youve-completed-the-grand-tour-of-the-code-hub"></a><span data-ttu-id="af48c-119">Gratulation!</span><span class="sxs-lookup"><span data-stu-id="af48c-119">Congratulations!</span></span> <span data-ttu-id="af48c-120">Sie haben die Führung Grand der CODE-Hub abgeschlossen!</span><span class="sxs-lookup"><span data-stu-id="af48c-120">You've completed the grand tour of the CODE hub!</span></span>
 
-# Next steps
+# <a name="next-steps"></a><span data-ttu-id="af48c-121">Nächste Schritte</span><span class="sxs-lookup"><span data-stu-id="af48c-121">Next steps</span></span>
 
-If you haven't already done so, [install Git](https://git-scm.com/downloads) (as well as [Git Credential Manager](https://java.visualstudio.com/Downloads/gitcredentialmanager/Index) for Linux or Mac OS)
+<span data-ttu-id="af48c-122">Wenn Sie also nicht bereits getan [installieren Sie Git](https://git-scm.com/downloads) (sowie [Git Credential Manager](https://java.visualstudio.com/Downloads/gitcredentialmanager/Index) für Linux oder Mac OS)</span><span class="sxs-lookup"><span data-stu-id="af48c-122">If you haven't already done so, [install Git](https://git-scm.com/downloads) (as well as [Git Credential Manager](https://java.visualstudio.com/Downloads/gitcredentialmanager/Index) for Linux or Mac OS)</span></span>
 
-Choose and install one of these supported IDEs:
-* [Visual Studio](https://go.microsoft.com/fwlink/?LinkId=309297&clcid=0x409&slcid=0x409)
-* [Android Studio](https://developer.android.com/studio) (with [Team Services Plugin](https://java.visualstudio.com/Downloads/intellijplugin/Index))
-* [Eclipse](https://www.eclipse.org/downloads) (with [Team Explorer Everywhere](https://java.visualstudio.com/Downloads/eclipseplugin/Index))
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/download) (with [Team Services Plugin](https://java.visualstudio.com/Downloads/intellijplugin/Index))
-* [Visual Studio Code](https://code.visualstudio.com/Download) (with [Team Services Extension](https://java.visualstudio.com/Downloads/visualstudiocode/Index))
+<span data-ttu-id="af48c-123">Wählen Sie aus, und installieren Sie eine der folgenden IDEs unterstützt:</span><span class="sxs-lookup"><span data-stu-id="af48c-123">Choose and install one of these supported IDEs:</span></span>
+* [<span data-ttu-id="af48c-124">Visual Studio</span><span class="sxs-lookup"><span data-stu-id="af48c-124">Visual Studio</span></span>](https://go.microsoft.com/fwlink/?LinkId=309297&clcid=0x409&slcid=0x409)
+* <span data-ttu-id="af48c-125">[Android Studio](https://developer.android.com/studio) (mit [Team Services-Plug-Ins](https://java.visualstudio.com/Downloads/intellijplugin/Index))</span><span class="sxs-lookup"><span data-stu-id="af48c-125">[Android Studio](https://developer.android.com/studio) (with [Team Services Plugin](https://java.visualstudio.com/Downloads/intellijplugin/Index))</span></span>
+* <span data-ttu-id="af48c-126">[Eclipse](https://www.eclipse.org/downloads) (mit [Team Explorer Everywhere](https://java.visualstudio.com/Downloads/eclipseplugin/Index))</span><span class="sxs-lookup"><span data-stu-id="af48c-126">[Eclipse](https://www.eclipse.org/downloads) (with [Team Explorer Everywhere](https://java.visualstudio.com/Downloads/eclipseplugin/Index))</span></span>
+* <span data-ttu-id="af48c-127">[IntelliJ IDEA](https://www.jetbrains.com/idea/download) (mit [Team Services-Plug-Ins](https://java.visualstudio.com/Downloads/intellijplugin/Index))</span><span class="sxs-lookup"><span data-stu-id="af48c-127">[IntelliJ IDEA](https://www.jetbrains.com/idea/download) (with [Team Services Plugin](https://java.visualstudio.com/Downloads/intellijplugin/Index))</span></span>
+* <span data-ttu-id="af48c-128">[Visual Studio-Code](https://code.visualstudio.com/Download) (mit [Team Services-Erweiterung](https://java.visualstudio.com/Downloads/visualstudiocode/Index))</span><span class="sxs-lookup"><span data-stu-id="af48c-128">[Visual Studio Code](https://code.visualstudio.com/Download) (with [Team Services Extension](https://java.visualstudio.com/Downloads/visualstudiocode/Index))</span></span>
 
-Then clone this repo to your local machine to get started with your own project.
+<span data-ttu-id="af48c-129">Klicken Sie dann Klonen dieses Repositorys auf Ihrem lokalen Computer zum Einstieg in Ihr eigenes Projekt.</span><span class="sxs-lookup"><span data-stu-id="af48c-129">Then clone this repo to your local machine to get started with your own project.</span></span>
   
-Happy coding!
+<span data-ttu-id="af48c-130">Viel Spaß beim Programmieren!</span><span class="sxs-lookup"><span data-stu-id="af48c-130">Happy coding!</span></span>

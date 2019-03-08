@@ -3,20 +3,20 @@ title: DevOps-Kompetenz
 ms.topic: article
 ms.date: 10/29/2018
 description: Wenn Sie Erfahrung bei der Zusammenarbeit mit Unternehmen haben und ihnen bei der Verwaltung von Softwarelebenszyklen helfen, indem Sie die DevOps Features der Entwicklungsplattform von Microsoft gezielt einsetzen, ist die DevOps-Kompetenz die richtige Wahl, sich mit Ihrer Organisation als Partner von Microsoft zu etablieren.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: Kompetenz, Kompetenzen, DevOps
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4258beccb8f6e0d876e60ec6f5fcb16a6e265089
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 6c617358b097517258ed9f83aef9a3a9e9ab6d77
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098887"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585733"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="e29ae-104">Besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies), Informationen zu den Anforderungen für die Erreichung dieses Kompetenz.</span><span class="sxs-lookup"><span data-stu-id="e29ae-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="e36dd-104">Weitere Informationen zu den Anforderungen zur Erlangung dieser Kompetenz finden Sie im [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="e36dd-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

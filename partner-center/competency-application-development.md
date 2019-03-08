@@ -3,20 +3,20 @@ title: Anwendungsentwicklungskompetenz
 ms.topic: article
 ms.date: 10/29/2018
 description: Ermöglichen Sie schnellere Softwarebereitstellung und kontinuierliche Verbesserung. Schließen Sie sich unseren mehr als 60.000 Partnern in der Anwendungsentwicklung an, um Ihr Unternehmen abzugrenzen und etablieren Sie sich als Microsoft-Partner, indem Sie die Kompetenz Application Development erwerben.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: Kompetenz, Kompetenzen, Cloudgeschäftsanwendungen, Anwendungsentwicklung
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: c367960a24cdf278991cc74cd5354c8886d67694
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 5a0123f1ec9052f409ad9964cf9c1761f9df7bb2
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795033"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583893"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="2f6f8-105">Weitere Informationen zu den Anforderungen für die Erreichung dieses Kompetenz besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="2f6f8-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="01b70-105">Weitere Informationen zu den Anforderungen zur Erlangung dieser Kompetenz finden Sie im [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="01b70-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

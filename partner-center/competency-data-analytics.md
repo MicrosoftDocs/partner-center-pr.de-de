@@ -3,20 +3,20 @@ title: Data Analytics-Kompetenz
 ms.topic: article
 ms.date: 10/29/2018
 description: Wenn sich Ihre Organisation mit der Untersuchung von Daten beschäftigt, mit denen Kunden tiefer gehende Einblicke erhalten, Vorhersagen erstellen oder Empfehlungen generieren können, bietet die Data Analytics-Kompetenz die Plattform zum Vertiefen und Nachweisen Ihrer Kenntnisse.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: Kompetenz,Kompetenzen,Data Analytics
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 0adaa5e091614abadf0eebccd3b46459be1a4fdf
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: e7d31e7e96fceb11a64c0653e51dcd03a4b9a389
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796223"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584223"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="0e521-104">Weitere Informationen zu den Anforderungen für die Erreichung dieses Kompetenz besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="0e521-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="298a1-104">Weitere Informationen zu den Anforderungen zur Erlangung dieser Kompetenz finden Sie im [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="298a1-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Data Analytics

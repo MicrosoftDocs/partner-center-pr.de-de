@@ -3,20 +3,20 @@ title: Collaboration and Content-Kompetenz
 ms.topic: article
 ms.date: 10/29/2018
 description: Die Kompetenz "Collaboration and Content" erkennt Partner an, die SharePoint-Lösungen bereitstellen, die Unternehmen dabei helfen, den Austausch und die Zusammenarbeit effizienter zu gestalten und ihre Produktivität zu steigern.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: Kompetenz,Kompetenzen,Collaboration and Content
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 70250f8c8be14a0d6de91ddf32f26fd51424b0e1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 41a64628a2ee016555c2515fcec58cf389899dbd
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795963"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583993"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="c3a29-104">Weitere Informationen zu den Anforderungen für die Erreichung dieses Kompetenz besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="c3a29-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="6574b-104">Weitere Informationen zu den Anforderungen zur Erlangung dieser Kompetenz finden Sie im [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).</span><span class="sxs-lookup"><span data-stu-id="6574b-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

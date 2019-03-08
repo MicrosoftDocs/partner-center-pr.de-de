@@ -1,159 +1,159 @@
 ---
-title: Verfügbarkeit der Office365 E5-Einzel-SKU in CSP | Partner Center
+title: Verfügbarkeit der Office 365 E5-Einzel-SKU in CSP | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Die Office365 Enterprise E5-Einzel-SKU ist in CSP verfügbar und umfasst PSTN-Konferenzfunktionen.
+description: Die Office 365 Enterprise E5-Einzel-SKU ist in CSP verfügbar und umfasst PSTN-Konferenzfunktionen.
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795653"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585333"
 ---
-# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a><span data-ttu-id="95f9f-103">Office365 Partner Advisory: Verfügbarkeit der Office365 E5-Einzel-SKU in CSP</span><span class="sxs-lookup"><span data-stu-id="95f9f-103">Office 365 Partner Advisory: Office 365 E5 Single SKU Availability in CSP</span></span>
+# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a><span data-ttu-id="841c6-103">Office 365-Partner-Sicherheitsempfehlung: Office 365 E5-einzelne SKU-Verfügbarkeit in CSP</span><span class="sxs-lookup"><span data-stu-id="841c6-103">Office 365 Partner Advisory: Office 365 E5 Single SKU Availability in CSP</span></span>
 
-**<span data-ttu-id="95f9f-104">Betrifft</span><span class="sxs-lookup"><span data-stu-id="95f9f-104">Applies to</span></span>**
+<span data-ttu-id="841c6-104">**Gilt für**</span><span class="sxs-lookup"><span data-stu-id="841c6-104">**Applies to**</span></span>
 
--  <span data-ttu-id="95f9f-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="95f9f-105">Partner Center</span></span>
+-  <span data-ttu-id="841c6-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="841c6-105">Partner Center</span></span>
 
-<span data-ttu-id="95f9f-106">Ab dem 5.Oktober2016 ist die Office365 Enterprise E5-Einzel-SKU in CSP verfügbar.</span><span class="sxs-lookup"><span data-stu-id="95f9f-106">As of October 5th, 2016, the Office 365 Enterprise E5 Single SKU is available in CSP.</span></span> <span data-ttu-id="95f9f-107">Im Rahmen dieser Änderung umfasst Office365 Enterprise E5-SKU PSTN-Konferenzfunktionen (wenn der PSTN-Konferenzdienst verfügbar ist).</span><span class="sxs-lookup"><span data-stu-id="95f9f-107">As part of this change, the Office 365 Enterprise E5 SKU includes PSTN Conferencing (where the PSTN Conferencing service is available).</span></span>
+<span data-ttu-id="841c6-106">Ab dem 5. Oktober 2016 ist die Office 365 Enterprise E5-Einzel-SKU in CSP verfügbar.</span><span class="sxs-lookup"><span data-stu-id="841c6-106">As of October 5th, 2016, the Office 365 Enterprise E5 Single SKU is available in CSP.</span></span> <span data-ttu-id="841c6-107">Im Rahmen dieser Änderung umfasst Office 365 Enterprise E5-SKU PSTN-Konferenzfunktionen (wenn der PSTN-Konferenzdienst verfügbar ist).</span><span class="sxs-lookup"><span data-stu-id="841c6-107">As part of this change, the Office 365 Enterprise E5 SKU includes PSTN Conferencing (where the PSTN Conferencing service is available).</span></span>
 
-## <a name="summary"></a><span data-ttu-id="95f9f-108">Zusammenfassung</span><span class="sxs-lookup"><span data-stu-id="95f9f-108">Summary</span></span>
-
-
-<span data-ttu-id="95f9f-109">Dieses Office365 Enterprise E5-Angebot vereinfacht den Kauf der umfassendsten und sichersten Cloudsuite für Produktivität und Kommunikation.</span><span class="sxs-lookup"><span data-stu-id="95f9f-109">This Office 365 Enterprise E5 offer simplifies purchasing the most comprehensive, secure cloud suite for productivity and communications.</span></span> <span data-ttu-id="95f9f-110">Sie können jetzt Skype-Konferenzdienste einschließen, ohne zur Verwaltung der unterschiedlichen Preispunkte Add-Ons verwenden zu müssen.</span><span class="sxs-lookup"><span data-stu-id="95f9f-110">You can now include Skype conferencing services without using add-ons to manage different price points.</span></span>
-
-<span data-ttu-id="95f9f-111">Die oben angegebenen Änderungen wirken sich auf Bestellung und Abrechnung durch Partner aus.</span><span class="sxs-lookup"><span data-stu-id="95f9f-111">The changes noted above affect partner ordering and invoicing.</span></span> <span data-ttu-id="95f9f-112">Darüber hinaus unterliegen PSTN-Dienste in einigen Ländern besonderen steuerlichen und regulatorischen Bestimmungen.</span><span class="sxs-lookup"><span data-stu-id="95f9f-112">PSTN services in some countries also are subject to special tax and regulatory requirements.</span></span>
-
-## <a name="partner-recommendations"></a><span data-ttu-id="95f9f-113">Empfehlungen für Partner</span><span class="sxs-lookup"><span data-stu-id="95f9f-113">Partner recommendations</span></span>
+## <a name="summary"></a><span data-ttu-id="841c6-108">Zusammenfassung</span><span class="sxs-lookup"><span data-stu-id="841c6-108">Summary</span></span>
 
 
-<span data-ttu-id="95f9f-114">Informieren Sie sich bei Ihren Steuer- und Rechtsberatern über die Verantwortlichkeiten Ihres Unternehmens in Bezug auf Bestimmungen, Steuern und Gebühren für PSTN-Dienste und andere mögliche Verpflichtungen.</span><span class="sxs-lookup"><span data-stu-id="95f9f-114">Engage your tax and legal counsel to understand your organization’s responsibility regarding PSTN services’ regulation, taxes and fees, and other potential liabilities.</span></span>
+<span data-ttu-id="841c6-109">Dieses Office 365 Enterprise E5-Angebot vereinfacht den Kauf der umfassendsten und sichersten Cloudsuite für Produktivität und Kommunikation.</span><span class="sxs-lookup"><span data-stu-id="841c6-109">This Office 365 Enterprise E5 offer simplifies purchasing the most comprehensive, secure cloud suite for productivity and communications.</span></span> <span data-ttu-id="841c6-110">Sie können jetzt Skype-Konferenzdienste einschließen, ohne zur Verwaltung der unterschiedlichen Preispunkte Add-Ons verwenden zu müssen.</span><span class="sxs-lookup"><span data-stu-id="841c6-110">You can now include Skype conferencing services without using add-ons to manage different price points.</span></span>
 
-## <a name="details"></a><span data-ttu-id="95f9f-115">Details</span><span class="sxs-lookup"><span data-stu-id="95f9f-115">Details</span></span>
+<span data-ttu-id="841c6-111">Die oben angegebenen Änderungen wirken sich auf Bestellung und Abrechnung durch Partner aus.</span><span class="sxs-lookup"><span data-stu-id="841c6-111">The changes noted above affect partner ordering and invoicing.</span></span> <span data-ttu-id="841c6-112">Darüber hinaus unterliegen PSTN-Dienste in einigen Ländern besonderen steuerlichen und regulatorischen Bestimmungen.</span><span class="sxs-lookup"><span data-stu-id="841c6-112">PSTN services in some countries also are subject to special tax and regulatory requirements.</span></span>
 
-
-<span data-ttu-id="95f9f-116">In den Vereinigten Staaten, Puerto Rico und Kanada unterliegen PSTN-Dienste im Rahmen von Skype for Business besonderen steuerlichen und gesetzlichen Bestimmungen.</span><span class="sxs-lookup"><span data-stu-id="95f9f-116">In the United States, Puerto Rico, and Canada, Skype for Business PSTN services are subject to special tax and regulatory requirements.</span></span> <span data-ttu-id="95f9f-117">Die Microsoft-Preise für PSTN verstehen sich einschließlich Steuern.</span><span class="sxs-lookup"><span data-stu-id="95f9f-117">Microsoft prices PSTN services as tax-inclusive.</span></span> <span data-ttu-id="95f9f-118">Office365-Partner, die Transaktionen für das neue vereinheitlichte Office365 E5-Angebot durchführen, unterliegen spezifischen Steuern und Bestimmungen für PSTN-Dienste.</span><span class="sxs-lookup"><span data-stu-id="95f9f-118">Unique PSTN taxes and regulations will affect Office 365 partners transacting the new unified Office 365 E5 offer.</span></span> <span data-ttu-id="95f9f-119">Wenn ein Partner einen Aufschlag auf den Preis eines PSTN-Diensts von Microsoft erhebt, ist er möglicherweise für die Berechnung und Abführung von Steuern und Gebühren für PSTN-Dienste verantwortlich.</span><span class="sxs-lookup"><span data-stu-id="95f9f-119">If a partner marks up the price of a Microsoft PSTN Service, they may be responsible for calculating and remitting PSTN taxes and fees.</span></span>
-
-## <a name="price-list-and-catalog-availability"></a><span data-ttu-id="95f9f-120">Preislisten- und Katalogverfügbarkeit</span><span class="sxs-lookup"><span data-stu-id="95f9f-120">Price list and catalog availability</span></span>
+## <a name="partner-recommendations"></a><span data-ttu-id="841c6-113">Empfehlungen für Partner</span><span class="sxs-lookup"><span data-stu-id="841c6-113">Partner recommendations</span></span>
 
 
-<span data-ttu-id="95f9f-121">Zahlreiche CSP-Partner benötigen für die Integration ihrer Bestellverwaltungssysteme mit der Microsoft-E-Commerce-Plattform über APIs lange Vorlaufzeiten.</span><span class="sxs-lookup"><span data-stu-id="95f9f-121">Many CSP partners require long lead times to integrate their order management systems with the Microsoft Commerce Platform via APIs.</span></span> <span data-ttu-id="95f9f-122">Damit Partner E5-Opportunitys schließen können, bevor ihre Systeme Transaktionen in Bezug auf die Office365 Enterprise E5-Einzel-SKU verarbeiten können, werden die folgenden SKUs bis zum 1.Juli2017 weiter auf der CSP-Preisliste aufgeführt:</span><span class="sxs-lookup"><span data-stu-id="95f9f-122">To ensure partners can close any E5 opportunities before their systems are ready to transact the Office 365 Enterprise E5 Single SKU, the following SKUs will remain on the CSP Price List until July 1st, 2017:</span></span> 
+<span data-ttu-id="841c6-114">Informieren Sie sich bei Ihren Steuer- und Rechtsberatern über die Verantwortlichkeiten Ihres Unternehmens in Bezug auf Bestimmungen, Steuern und Gebühren für PSTN-Dienste und andere mögliche Verpflichtungen.</span><span class="sxs-lookup"><span data-stu-id="841c6-114">Engage your tax and legal counsel to understand your organization’s responsibility regarding PSTN services’ regulation, taxes and fees, and other potential liabilities.</span></span>
 
--   <span data-ttu-id="95f9f-123">Office365 Enterprise E5 ohne PSTN-Konferenzfunktionen</span><span class="sxs-lookup"><span data-stu-id="95f9f-123">Office 365 Enterprise E5 without PSTN Conferencing</span></span>
--   <span data-ttu-id="95f9f-124">SKUs mit Add-On für PSTN-Konferenzfunktionen (in Märkten, in denen PSTN unterstützt wird)</span><span class="sxs-lookup"><span data-stu-id="95f9f-124">PSTN Conferencing Add-on SKUs (in PSTN-enabled markets)</span></span>
-
-<span data-ttu-id="95f9f-125">Partnern werden mehrere Office365 Enterprise E5-SKUs auf der Preisliste angezeigt werden. Möglicherweise werden diese ihnen auch im Partner Center-Katalog angezeigt, abhängig von der Region.</span><span class="sxs-lookup"><span data-stu-id="95f9f-125">Partners will see multiple Office 365 Enterprise E5 SKUs on the price list and may see them in the Partner Center Catalog depending on their geography.</span></span>
-
-<span data-ttu-id="95f9f-126">Nach der Einführung am 5.Oktober werden einige SKUs den gleichen Angebotsanzeigenamen, jedoch unterschiedliche Preispunkte anzeigen, da die Einzel-SKU weltweit den gleichen Preis haben wird, unabhängig von der PSTN-Verfügbarkeit.</span><span class="sxs-lookup"><span data-stu-id="95f9f-126">Following the launch on October 5, some SKUs will show the same Offer Display Name, but different price points as the Single SKU will be priced the same worldwide, regardless of PSTN availability.</span></span> <span data-ttu-id="95f9f-127">Partner sollten die Einzel-SKU aus der Preisliste (in der Tabelle unten grau markiert und durch die Angebots-ID gekennzeichnet) nach dem angezeigten Angebotsnamen auf der Partner Center-Katalogseite bereitstellen.</span><span class="sxs-lookup"><span data-stu-id="95f9f-127">Partners should provision the single SKU on the price list (highlighted in gray on the table below and identified by Offer ID) and by the displayed Offer Name on the Partner Center catalog page.</span></span> <span data-ttu-id="95f9f-128">In den nächsten Wochen werden die SKUs, die am 1.Juli2017 das Ende des Lebenszyklus erreichen (End Of Life, EOL), durch den Text des Angebotsanzeigenamens definiert werden.</span><span class="sxs-lookup"><span data-stu-id="95f9f-128">In the coming weeks, the Offer Display Name text will define which SKUs will be EOL on July 1st, 2017.</span></span>
-
-### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a><span data-ttu-id="95f9f-129">SKUs auf der CSP-Preisliste nach Datum und PSTN-Verfügbarkeit</span><span class="sxs-lookup"><span data-stu-id="95f9f-129">SKUs appearing on the CSP Price List by date and PSTN availability</span></span>
-
-**<span data-ttu-id="95f9f-130">Vor Einführung der Office365</span><span class="sxs-lookup"><span data-stu-id="95f9f-130">Prior to Single Office 365 Ent.</span></span> <span data-ttu-id="95f9f-131">Enterprise E5-Einzel-SKU</span><span class="sxs-lookup"><span data-stu-id="95f9f-131">E5 Single SKU Launch</span></span>**
-
-**<span data-ttu-id="95f9f-132">Angebotsanzeigename</span><span class="sxs-lookup"><span data-stu-id="95f9f-132">Offer Display Name</span></span>**
-
-**<span data-ttu-id="95f9f-133">Angebots-ID</span><span class="sxs-lookup"><span data-stu-id="95f9f-133">Offer ID</span></span>**
-
-**<span data-ttu-id="95f9f-134">Preis pro Einheit</span><span class="sxs-lookup"><span data-stu-id="95f9f-134">Unit Price</span></span>**
+## <a name="details"></a><span data-ttu-id="841c6-115">Details</span><span class="sxs-lookup"><span data-stu-id="841c6-115">Details</span></span>
 
 
-**<span data-ttu-id="95f9f-135">ERP</span><span class="sxs-lookup"><span data-stu-id="95f9f-135">ERP</span></span>**
+<span data-ttu-id="841c6-116">In den Vereinigten Staaten, Puerto Rico und Kanada unterliegen PSTN-Dienste im Rahmen von Skype for Business besonderen steuerlichen und gesetzlichen Bestimmungen.</span><span class="sxs-lookup"><span data-stu-id="841c6-116">In the United States, Puerto Rico, and Canada, Skype for Business PSTN services are subject to special tax and regulatory requirements.</span></span> <span data-ttu-id="841c6-117">Die Microsoft-Preise für PSTN verstehen sich einschließlich Steuern.</span><span class="sxs-lookup"><span data-stu-id="841c6-117">Microsoft prices PSTN services as tax-inclusive.</span></span> <span data-ttu-id="841c6-118">Office 365-Partner, die Transaktionen für das neue vereinheitlichte Office 365 E5-Angebot durchführen, unterliegen spezifischen Steuern und Bestimmungen für PSTN-Dienste.</span><span class="sxs-lookup"><span data-stu-id="841c6-118">Unique PSTN taxes and regulations will affect Office 365 partners transacting the new unified Office 365 E5 offer.</span></span> <span data-ttu-id="841c6-119">Wenn ein Partner einen Aufschlag auf den Preis eines PSTN-Diensts von Microsoft erhebt, ist er möglicherweise für die Berechnung und Abführung von Steuern und Gebühren für PSTN-Dienste verantwortlich.</span><span class="sxs-lookup"><span data-stu-id="841c6-119">If a partner marks up the price of a Microsoft PSTN Service, they may be responsible for calculating and remitting PSTN taxes and fees.</span></span>
 
-**<span data-ttu-id="95f9f-136">Anmerkung</span><span class="sxs-lookup"><span data-stu-id="95f9f-136">Comment</span></span>**
+## <a name="price-list-and-catalog-availability"></a><span data-ttu-id="841c6-120">Preislisten- und Katalogverfügbarkeit</span><span class="sxs-lookup"><span data-stu-id="841c6-120">Price list and catalog availability</span></span>
 
-<span data-ttu-id="95f9f-137">Office365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="95f9f-137">Office 365 Enterprise E5</span></span>
 
-<span data-ttu-id="95f9f-138">ohne PSTN-Konferenzfunktionen</span><span class="sxs-lookup"><span data-stu-id="95f9f-138">without PSTN Conferencing</span></span>
+<span data-ttu-id="841c6-121">Zahlreiche CSP-Partner benötigen für die Integration ihrer Bestellverwaltungssysteme mit der Microsoft-E-Commerce-Plattform über APIs lange Vorlaufzeiten.</span><span class="sxs-lookup"><span data-stu-id="841c6-121">Many CSP partners require long lead times to integrate their order management systems with the Microsoft Commerce Platform via APIs.</span></span> <span data-ttu-id="841c6-122">Damit Partner E5-Opportunitys schließen können, bevor ihre Systeme Transaktionen in Bezug auf die Office 365 Enterprise E5-Einzel-SKU verarbeiten können, werden die folgenden SKUs bis zum 1. Juli 2017 weiter auf der CSP-Preisliste aufgeführt:</span><span class="sxs-lookup"><span data-stu-id="841c6-122">To ensure partners can close any E5 opportunities before their systems are ready to transact the Office 365 Enterprise E5 Single SKU, the following SKUs will remain on the CSP Price List until July 1st, 2017:</span></span> 
 
-<span data-ttu-id="95f9f-139">4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70</span><span class="sxs-lookup"><span data-stu-id="95f9f-139">4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70</span></span>
+-   <span data-ttu-id="841c6-123">Office 365 Enterprise E5 ohne PSTN-Konferenzfunktionen</span><span class="sxs-lookup"><span data-stu-id="841c6-123">Office 365 Enterprise E5 without PSTN Conferencing</span></span>
+-   <span data-ttu-id="841c6-124">SKUs mit Add-On für PSTN-Konferenzfunktionen (in Märkten, in denen PSTN unterstützt wird)</span><span class="sxs-lookup"><span data-stu-id="841c6-124">PSTN Conferencing Add-on SKUs (in PSTN-enabled markets)</span></span>
 
-<span data-ttu-id="95f9f-140">26,40</span><span class="sxs-lookup"><span data-stu-id="95f9f-140">26.40</span></span>
+<span data-ttu-id="841c6-125">Partnern werden mehrere Office 365 Enterprise E5-SKUs auf der Preisliste angezeigt werden. Möglicherweise werden diese ihnen auch im Partner Center-Katalog angezeigt, abhängig von der Region.</span><span class="sxs-lookup"><span data-stu-id="841c6-125">Partners will see multiple Office 365 Enterprise E5 SKUs on the price list and may see them in the Partner Center Catalog depending on their geography.</span></span>
 
-<span data-ttu-id="95f9f-141">33,00</span><span class="sxs-lookup"><span data-stu-id="95f9f-141">33.00</span></span>
+<span data-ttu-id="841c6-126">Nach der Einführung am 5. Oktober werden einige SKUs den gleichen Angebotsanzeigenamen, jedoch unterschiedliche Preispunkte anzeigen, da die Einzel-SKU weltweit den gleichen Preis haben wird, unabhängig von der PSTN-Verfügbarkeit.</span><span class="sxs-lookup"><span data-stu-id="841c6-126">Following the launch on October 5, some SKUs will show the same Offer Display Name, but different price points as the Single SKU will be priced the same worldwide, regardless of PSTN availability.</span></span> <span data-ttu-id="841c6-127">Partner sollten die Einzel-SKU aus der Preisliste (in der Tabelle unten grau markiert und durch die Angebots-ID gekennzeichnet) nach dem angezeigten Angebotsnamen auf der Partner Center-Katalogseite bereitstellen.</span><span class="sxs-lookup"><span data-stu-id="841c6-127">Partners should provision the single SKU on the price list (highlighted in gray on the table below and identified by Offer ID) and by the displayed Offer Name on the Partner Center catalog page.</span></span> <span data-ttu-id="841c6-128">In den nächsten Wochen werden die SKUs, die am 1. Juli 2017 das Ende des Lebenszyklus erreichen (End Of Life, EOL), durch den Text des Angebotsanzeigenamens definiert werden.</span><span class="sxs-lookup"><span data-stu-id="841c6-128">In the coming weeks, the Offer Display Name text will define which SKUs will be EOL on July 1st, 2017.</span></span>
 
-<span data-ttu-id="95f9f-142">E5 ohne PSTN (EOL)</span><span class="sxs-lookup"><span data-stu-id="95f9f-142">E5 w/o PSTN (EOL)</span></span>
+### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a><span data-ttu-id="841c6-129">SKUs auf der CSP-Preisliste nach Datum und PSTN-Verfügbarkeit</span><span class="sxs-lookup"><span data-stu-id="841c6-129">SKUs appearing on the CSP Price List by date and PSTN availability</span></span>
 
-<span data-ttu-id="95f9f-143">Skype for Business PSTN</span><span class="sxs-lookup"><span data-stu-id="95f9f-143">Skype for Business PSTN</span></span>
+<span data-ttu-id="841c6-130">**Vor der einzelnen Office 365 Enterprise. E5 Single SKU Launch**</span><span class="sxs-lookup"><span data-stu-id="841c6-130">**Prior to Single Office 365 Ent. E5 Single SKU Launch**</span></span>
 
-<span data-ttu-id="95f9f-144">Conferencing for E5 without PSTN</span><span class="sxs-lookup"><span data-stu-id="95f9f-144">Conferencing for E5 without PSTN</span></span>
+<span data-ttu-id="841c6-131">**Anzeigename des Angebots**</span><span class="sxs-lookup"><span data-stu-id="841c6-131">**Offer Display Name**</span></span>
 
-<span data-ttu-id="95f9f-145">Conferencing Customers</span><span class="sxs-lookup"><span data-stu-id="95f9f-145">Conferencing Customers</span></span>
+<span data-ttu-id="841c6-132">**Angebots-ID**</span><span class="sxs-lookup"><span data-stu-id="841c6-132">**Offer ID**</span></span>
 
-<span data-ttu-id="95f9f-146">64c8233d-29d5-47c1-91b2-773226487213</span><span class="sxs-lookup"><span data-stu-id="95f9f-146">64c8233d-29d5-47c1-91b2-773226487213</span></span>
+<span data-ttu-id="841c6-133">**Preis pro Einheit**</span><span class="sxs-lookup"><span data-stu-id="841c6-133">**Unit Price**</span></span>
 
-<span data-ttu-id="95f9f-147">2,00</span><span class="sxs-lookup"><span data-stu-id="95f9f-147">2.00</span></span>
 
-<span data-ttu-id="95f9f-148">2,00</span><span class="sxs-lookup"><span data-stu-id="95f9f-148">2.00</span></span>
+<span data-ttu-id="841c6-134">**ERP**</span><span class="sxs-lookup"><span data-stu-id="841c6-134">**ERP**</span></span>
 
-<span data-ttu-id="95f9f-149">PSTN-Add-On</span><span class="sxs-lookup"><span data-stu-id="95f9f-149">PSTN add-on</span></span>
+<span data-ttu-id="841c6-135">**Anmerkungen**</span><span class="sxs-lookup"><span data-stu-id="841c6-135">**Comment**</span></span>
+
+<span data-ttu-id="841c6-136">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="841c6-136">Office 365 Enterprise E5</span></span>
+
+<span data-ttu-id="841c6-137">ohne PSTN-Konferenzfunktionen</span><span class="sxs-lookup"><span data-stu-id="841c6-137">without PSTN Conferencing</span></span>
+
+<span data-ttu-id="841c6-138">4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70</span><span class="sxs-lookup"><span data-stu-id="841c6-138">4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70</span></span>
+
+<span data-ttu-id="841c6-139">26,40</span><span class="sxs-lookup"><span data-stu-id="841c6-139">26.40</span></span>
+
+<span data-ttu-id="841c6-140">33,00</span><span class="sxs-lookup"><span data-stu-id="841c6-140">33.00</span></span>
+
+<span data-ttu-id="841c6-141">E5 ohne PSTN (EOL)</span><span class="sxs-lookup"><span data-stu-id="841c6-141">E5 w/o PSTN (EOL)</span></span>
+
+<span data-ttu-id="841c6-142">Skype for Business PSTN</span><span class="sxs-lookup"><span data-stu-id="841c6-142">Skype for Business PSTN</span></span>
+
+<span data-ttu-id="841c6-143">Conferencing for E5 without PSTN</span><span class="sxs-lookup"><span data-stu-id="841c6-143">Conferencing for E5 without PSTN</span></span>
+
+<span data-ttu-id="841c6-144">Conferencing Customers</span><span class="sxs-lookup"><span data-stu-id="841c6-144">Conferencing Customers</span></span>
+
+<span data-ttu-id="841c6-145">64c8233d-29d5-47c1-91b2-773226487213</span><span class="sxs-lookup"><span data-stu-id="841c6-145">64c8233d-29d5-47c1-91b2-773226487213</span></span>
+
+<span data-ttu-id="841c6-146">2,00</span><span class="sxs-lookup"><span data-stu-id="841c6-146">2.00</span></span>
+
+<span data-ttu-id="841c6-147">2,00</span><span class="sxs-lookup"><span data-stu-id="841c6-147">2.00</span></span>
+
+<span data-ttu-id="841c6-148">PSTN-Add-On</span><span class="sxs-lookup"><span data-stu-id="841c6-148">PSTN add-on</span></span>
 
  
 
-**<span data-ttu-id="95f9f-150">Nach der Veröffentlichung der Office365</span><span class="sxs-lookup"><span data-stu-id="95f9f-150">After Release of Single Office 365 Ent.</span></span> <span data-ttu-id="95f9f-151">Enterprise E5-Einzel-SKU</span><span class="sxs-lookup"><span data-stu-id="95f9f-151">E5 Single SKU Launch</span></span>**
+<span data-ttu-id="841c6-149">**Nach der Veröffentlichung von einzelnen Office 365 Enterprise. E5 Single SKU Launch**</span><span class="sxs-lookup"><span data-stu-id="841c6-149">**After Release of Single Office 365 Ent. E5 Single SKU Launch**</span></span>
 
-**<span data-ttu-id="95f9f-152">Angebotsanzeigename</span><span class="sxs-lookup"><span data-stu-id="95f9f-152">Offer Display Name</span></span>**
+<span data-ttu-id="841c6-150">**Anzeigename des Angebots**</span><span class="sxs-lookup"><span data-stu-id="841c6-150">**Offer Display Name**</span></span>
 
-**<span data-ttu-id="95f9f-153">Angebots-ID</span><span class="sxs-lookup"><span data-stu-id="95f9f-153">Offer ID</span></span>**
+<span data-ttu-id="841c6-151">**Angebots-ID**</span><span class="sxs-lookup"><span data-stu-id="841c6-151">**Offer ID**</span></span>
 
-**<span data-ttu-id="95f9f-154">Preis pro Einheit</span><span class="sxs-lookup"><span data-stu-id="95f9f-154">Unit Price</span></span>**
+<span data-ttu-id="841c6-152">**Preis pro Einheit**</span><span class="sxs-lookup"><span data-stu-id="841c6-152">**Unit Price**</span></span>
 
-**<span data-ttu-id="95f9f-155">ERP</span><span class="sxs-lookup"><span data-stu-id="95f9f-155">ERP</span></span>**
+<span data-ttu-id="841c6-153">**ERP**</span><span class="sxs-lookup"><span data-stu-id="841c6-153">**ERP**</span></span>
 
-**<span data-ttu-id="95f9f-156">Anmerkung</span><span class="sxs-lookup"><span data-stu-id="95f9f-156">Comment</span></span>**
+<span data-ttu-id="841c6-154">**Anmerkungen**</span><span class="sxs-lookup"><span data-stu-id="841c6-154">**Comment**</span></span>
 
-**<span data-ttu-id="95f9f-157">Office365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="95f9f-157">Office 365 Enterprise E5</span></span>**
+<span data-ttu-id="841c6-155">**Office 365 Enterprise E5**</span><span class="sxs-lookup"><span data-stu-id="841c6-155">**Office 365 Enterprise E5**</span></span>
 
-**<span data-ttu-id="95f9f-158">a044b16a-1861-4308-8086-a3a3b506fac2</span><span class="sxs-lookup"><span data-stu-id="95f9f-158">a044b16a-1861-4308-8086-a3a3b506fac2</span></span>**
+<span data-ttu-id="841c6-156">**a044b16a-1861-4308-8086-a3a3b506fac2**</span><span class="sxs-lookup"><span data-stu-id="841c6-156">**a044b16a-1861-4308-8086-a3a3b506fac2**</span></span>
 
-**<span data-ttu-id="95f9f-159">28,40</span><span class="sxs-lookup"><span data-stu-id="95f9f-159">28.40</span></span>**
+<span data-ttu-id="841c6-157">**28.40**</span><span class="sxs-lookup"><span data-stu-id="841c6-157">**28.40**</span></span>
 
-**<span data-ttu-id="95f9f-160">35,00</span><span class="sxs-lookup"><span data-stu-id="95f9f-160">35.00</span></span>**
+<span data-ttu-id="841c6-158">**35.00**</span><span class="sxs-lookup"><span data-stu-id="841c6-158">**35.00**</span></span>
 
-**<span data-ttu-id="95f9f-161">Neue Einzel-SKU</span><span class="sxs-lookup"><span data-stu-id="95f9f-161">New Single SKU</span></span>**
+<span data-ttu-id="841c6-159">**Neue einzelne SKU**</span><span class="sxs-lookup"><span data-stu-id="841c6-159">**New Single SKU**</span></span>
 
-**<span data-ttu-id="95f9f-162">Office 365 Enterprise E5 ohne PSTN-Konferenzfunktionen</span><span class="sxs-lookup"><span data-stu-id="95f9f-162">Office 365 Enterprise E5 without PSTN Conferencing</span></span>**
+<span data-ttu-id="841c6-160">**Office 365 Enterprise E5 ohne PSTN Conferencing**</span><span class="sxs-lookup"><span data-stu-id="841c6-160">**Office 365 Enterprise E5 without PSTN Conferencing**</span></span>
 
-**<span data-ttu-id="95f9f-163">02c07b64-2cd3-4667-b014-561192fc5d1a</span><span class="sxs-lookup"><span data-stu-id="95f9f-163">02c07b64-2cd3-4667-b014-561192fc5d1a</span></span>**
+<span data-ttu-id="841c6-161">**02c07b64-2cd3-4667-b014-561192fc5d1a**</span><span class="sxs-lookup"><span data-stu-id="841c6-161">**02c07b64-2cd3-4667-b014-561192fc5d1a**</span></span>
 
-**<span data-ttu-id="95f9f-164">28,40</span><span class="sxs-lookup"><span data-stu-id="95f9f-164">28.40</span></span>**
+<span data-ttu-id="841c6-162">**28.40**</span><span class="sxs-lookup"><span data-stu-id="841c6-162">**28.40**</span></span>
 
-**<span data-ttu-id="95f9f-165">35,00</span><span class="sxs-lookup"><span data-stu-id="95f9f-165">35.00</span></span>**
+<span data-ttu-id="841c6-163">**35.00**</span><span class="sxs-lookup"><span data-stu-id="841c6-163">**35.00**</span></span>
 
-**<span data-ttu-id="95f9f-166">Neue Einzel-SKU für Mitglieder ohne PSTN</span><span class="sxs-lookup"><span data-stu-id="95f9f-166">New Single SKU for non-PSTN members</span></span>**
+<span data-ttu-id="841c6-164">**Neue einzelne SKU für nicht-PSTN-Elemente**</span><span class="sxs-lookup"><span data-stu-id="841c6-164">**New Single SKU for non-PSTN members**</span></span>
 
-<span data-ttu-id="95f9f-167">Office 365 Enterprise E5 ohne PSTN-Konferenzfunktionen</span><span class="sxs-lookup"><span data-stu-id="95f9f-167">Office 365 Enterprise E5 without PSTN Conferencing</span></span>
+<span data-ttu-id="841c6-165">Office 365 Enterprise E5 ohne PSTN-Konferenzfunktionen</span><span class="sxs-lookup"><span data-stu-id="841c6-165">Office 365 Enterprise E5 without PSTN Conferencing</span></span>
 
-<span data-ttu-id="95f9f-168">4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70</span><span class="sxs-lookup"><span data-stu-id="95f9f-168">4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70</span></span>
+<span data-ttu-id="841c6-166">4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70</span><span class="sxs-lookup"><span data-stu-id="841c6-166">4f7ecaf1-e9d6-4cac-9687-e22eb3dfdd70</span></span>
 
-<span data-ttu-id="95f9f-169">26,40</span><span class="sxs-lookup"><span data-stu-id="95f9f-169">26.40</span></span>
+<span data-ttu-id="841c6-167">26,40</span><span class="sxs-lookup"><span data-stu-id="841c6-167">26.40</span></span>
 
-<span data-ttu-id="95f9f-170">33,00</span><span class="sxs-lookup"><span data-stu-id="95f9f-170">33.00</span></span>
+<span data-ttu-id="841c6-168">33,00</span><span class="sxs-lookup"><span data-stu-id="841c6-168">33.00</span></span>
 
-<span data-ttu-id="95f9f-171">E5 ohne PSTN (EOL)</span><span class="sxs-lookup"><span data-stu-id="95f9f-171">E5 w/o PSTN (EOL)</span></span>
+<span data-ttu-id="841c6-169">E5 ohne PSTN (EOL)</span><span class="sxs-lookup"><span data-stu-id="841c6-169">E5 w/o PSTN (EOL)</span></span>
 
-<span data-ttu-id="95f9f-172">Skype for Business PSTN Conferencing for E5 without PSTN Conferencing Customers</span><span class="sxs-lookup"><span data-stu-id="95f9f-172">Skype for Business PSTN Conferencing for E5 without PSTN Conferencing Customers</span></span>
+<span data-ttu-id="841c6-170">Skype for Business PSTN Conferencing for E5 without PSTN Conferencing Customers</span><span class="sxs-lookup"><span data-stu-id="841c6-170">Skype for Business PSTN Conferencing for E5 without PSTN Conferencing Customers</span></span>
 
-<span data-ttu-id="95f9f-173">64c8233d-29d5-47c1-91b2-773226487213</span><span class="sxs-lookup"><span data-stu-id="95f9f-173">64c8233d-29d5-47c1-91b2-773226487213</span></span>
+<span data-ttu-id="841c6-171">64c8233d-29d5-47c1-91b2-773226487213</span><span class="sxs-lookup"><span data-stu-id="841c6-171">64c8233d-29d5-47c1-91b2-773226487213</span></span>
 
-<span data-ttu-id="95f9f-174">2,00</span><span class="sxs-lookup"><span data-stu-id="95f9f-174">2.00</span></span>
+<span data-ttu-id="841c6-172">2,00</span><span class="sxs-lookup"><span data-stu-id="841c6-172">2.00</span></span>
 
-<span data-ttu-id="95f9f-175">2,00</span><span class="sxs-lookup"><span data-stu-id="95f9f-175">2.00</span></span>
+<span data-ttu-id="841c6-173">2,00</span><span class="sxs-lookup"><span data-stu-id="841c6-173">2.00</span></span>
 
-<span data-ttu-id="95f9f-176">PSTN-Add-On</span><span class="sxs-lookup"><span data-stu-id="95f9f-176">PSTN add-on</span></span>
+<span data-ttu-id="841c6-174">PSTN-Add-On</span><span class="sxs-lookup"><span data-stu-id="841c6-174">PSTN add-on</span></span>
 
  
 
-## <a href="" id="invoices-and-partner-reconciliation-files-"></a><span data-ttu-id="95f9f-177">Rechnungen und Abgleichungsdateien für Partner</span><span class="sxs-lookup"><span data-stu-id="95f9f-177">Invoices and Partner Reconciliation Files</span></span>
+## <a href="" id="invoices-and-partner-reconciliation-files-"></a><span data-ttu-id="841c6-175">Rechnungen und Kontenabstimmungsdateien für Partner</span><span class="sxs-lookup"><span data-stu-id="841c6-175">Invoices and Partner Reconciliation Files</span></span>
 
 
-<span data-ttu-id="95f9f-178">Die CSP-Abgleichungsdatei und die CSP-Rechnungen enthalten getrennte Positionen für PSTN- und Nicht-PSTN-Komponenten der Office365 Enterprise E5-Einzel-SKU.</span><span class="sxs-lookup"><span data-stu-id="95f9f-178">The CSP reconciliation file and CSP Invoices provide separate line-items for the PSTN and non-PSTN components of the Office 365 Enterprise E5 Single SKU.</span></span> <span data-ttu-id="95f9f-179">Die beiden Positionen haben identische Namen und IDs. Jede Position verfügt jedoch über einen eindeutigen Preis pro Einheit (Beispiel: 28,40USD und 2,00USD).</span><span class="sxs-lookup"><span data-stu-id="95f9f-179">The two line-items have identical names and identical IDs, but each line-item has a unique unit price (example: $28.40 and $2.00).</span></span> <span data-ttu-id="95f9f-180">Dies unterscheidet die Skype for Business PSTN Conferencing-Komponente vom Office365-Angebot, sodass Sie Steuern korrekt anwenden können.</span><span class="sxs-lookup"><span data-stu-id="95f9f-180">This separates the Skype for Business PSTN Conferencing component of the Office 365 offer, so you can correctly apply taxes.</span></span>
+<span data-ttu-id="841c6-176">Die CSP-Abgleichungsdatei und die CSP-Rechnungen enthalten getrennte Positionen für PSTN- und Nicht-PSTN-Komponenten der Office 365 Enterprise E5-Einzel-SKU.</span><span class="sxs-lookup"><span data-stu-id="841c6-176">The CSP reconciliation file and CSP Invoices provide separate line-items for the PSTN and non-PSTN components of the Office 365 Enterprise E5 Single SKU.</span></span> <span data-ttu-id="841c6-177">Die beiden Positionen haben identische Namen und IDs. Jede Position verfügt jedoch über einen eindeutigen Preis pro Einheit (Beispiel: 28,40 USD und 2,00 USD).</span><span class="sxs-lookup"><span data-stu-id="841c6-177">The two line-items have identical names and identical IDs, but each line-item has a unique unit price (example: $28.40 and $2.00).</span></span> <span data-ttu-id="841c6-178">Dies unterscheidet die Skype for Business PSTN Conferencing-Komponente vom Office 365-Angebot, sodass Sie Steuern korrekt anwenden können.</span><span class="sxs-lookup"><span data-stu-id="841c6-178">This separates the Skype for Business PSTN Conferencing component of the Office 365 offer, so you can correctly apply taxes.</span></span>
 
-<span data-ttu-id="95f9f-181">Beispiel für eine Partnerabgleichung:</span><span class="sxs-lookup"><span data-stu-id="95f9f-181">A Partner Reconciliation example:</span></span>
+<span data-ttu-id="841c6-179">Beispiel für eine Partnerabgleichung:</span><span class="sxs-lookup"><span data-stu-id="841c6-179">A Partner Reconciliation example:</span></span>
 
 <table>
 <colgroup>
@@ -168,50 +168,50 @@ ms.locfileid: "5795653"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong><span data-ttu-id="95f9f-182">Permanente Angebots-ID</span><span class="sxs-lookup"><span data-stu-id="95f9f-182">Durable_offer_ID</span></span></strong></td>
-<td><strong><span data-ttu-id="95f9f-183">Angebotsname</span><span class="sxs-lookup"><span data-stu-id="95f9f-183">Offer_Name</span></span></strong></td>
-<td><strong><span data-ttu-id="95f9f-184">Startdatum des Abonnements</span><span class="sxs-lookup"><span data-stu-id="95f9f-184">Subscription_Start_Date</span></span></strong></td>
-<td><strong><span data-ttu-id="95f9f-185">Enddatum des Abonnements</span><span class="sxs-lookup"><span data-stu-id="95f9f-185">Subscription_End_Date</span></span></strong></td>
-<td><strong><span data-ttu-id="95f9f-186">Startdatum der Abrechnung</span><span class="sxs-lookup"><span data-stu-id="95f9f-186">Charge_Start_Date</span></span></strong></td>
-<td><strong><span data-ttu-id="95f9f-187">Enddatum der Abrechnung</span><span class="sxs-lookup"><span data-stu-id="95f9f-187">Charge_End_Date</span></span></strong></td>
-<td><strong><span data-ttu-id="95f9f-188">Typ der Abrechnung</span><span class="sxs-lookup"><span data-stu-id="95f9f-188">Charge_Type</span></span></strong></td>
-<td><strong><span data-ttu-id="95f9f-189">Preis pro Einheit</span><span class="sxs-lookup"><span data-stu-id="95f9f-189">Unit_Price</span></span></strong></td>
+<td><span data-ttu-id="841c6-180"><strong>Durable_offer_ID</strong></span><span class="sxs-lookup"><span data-stu-id="841c6-180"><strong>Durable_offer_ID</strong></span></span></td>
+<td><span data-ttu-id="841c6-181"><strong>Offer_Name</strong></span><span class="sxs-lookup"><span data-stu-id="841c6-181"><strong>Offer_Name</strong></span></span></td>
+<td><span data-ttu-id="841c6-182"><strong>Subscription_Start_Date</strong></span><span class="sxs-lookup"><span data-stu-id="841c6-182"><strong>Subscription_Start_Date</strong></span></span></td>
+<td><span data-ttu-id="841c6-183"><strong>Subscription_End_Date</strong></span><span class="sxs-lookup"><span data-stu-id="841c6-183"><strong>Subscription_End_Date</strong></span></span></td>
+<td><span data-ttu-id="841c6-184"><strong>Charge_Start_Date</strong></span><span class="sxs-lookup"><span data-stu-id="841c6-184"><strong>Charge_Start_Date</strong></span></span></td>
+<td><span data-ttu-id="841c6-185"><strong>Charge_End_Date</strong></span><span class="sxs-lookup"><span data-stu-id="841c6-185"><strong>Charge_End_Date</strong></span></span></td>
+<td><span data-ttu-id="841c6-186"><strong>Charge_Type</strong></span><span class="sxs-lookup"><span data-stu-id="841c6-186"><strong>Charge_Type</strong></span></span></td>
+<td><span data-ttu-id="841c6-187"><strong>Unit_Price</strong></span><span class="sxs-lookup"><span data-stu-id="841c6-187"><strong>Unit_Price</strong></span></span></td>
 </tr>
 <tr class="even">
-<td><p><span data-ttu-id="95f9f-190">a044b16a-1861-4308-8086-a3a3b506fac2</span><span class="sxs-lookup"><span data-stu-id="95f9f-190">a044b16a-1861-4308-8086-a3a3b506fac2</span></span></p></td>
-<td><p><span data-ttu-id="95f9f-191">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="95f9f-191">Office 365 Enterprise E5</span></span></p></td>
-<td><p><span data-ttu-id="95f9f-192">10.08.2016 0:00</span><span class="sxs-lookup"><span data-stu-id="95f9f-192">8/10/2016 0:00</span></span></p></td>
-<td><p><span data-ttu-id="95f9f-193">11.08.2016 0:00</span><span class="sxs-lookup"><span data-stu-id="95f9f-193">8/11/2016 0:00</span></span></p></td>
-<td><p><span data-ttu-id="95f9f-194">11.08.2016 0:00</span><span class="sxs-lookup"><span data-stu-id="95f9f-194">8/11/2016 0:00</span></span></p></td>
-<td><p><span data-ttu-id="95f9f-195">10.09.2016 0:00</span><span class="sxs-lookup"><span data-stu-id="95f9f-195">9/10/2016 0:00</span></span></p></td>
-<td><p><span data-ttu-id="95f9f-196">Gebühr für Zyklus</span><span class="sxs-lookup"><span data-stu-id="95f9f-196">Cycle fee</span></span></p></td>
-<td><p><span data-ttu-id="95f9f-197">28,40</span><span class="sxs-lookup"><span data-stu-id="95f9f-197">28.40</span></span></p></td>
+<td><p><span data-ttu-id="841c6-188">a044b16a-1861-4308-8086-a3a3b506fac2</span><span class="sxs-lookup"><span data-stu-id="841c6-188">a044b16a-1861-4308-8086-a3a3b506fac2</span></span></p></td>
+<td><p><span data-ttu-id="841c6-189">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="841c6-189">Office 365 Enterprise E5</span></span></p></td>
+<td><p><span data-ttu-id="841c6-190">10.08.2016 0:00</span><span class="sxs-lookup"><span data-stu-id="841c6-190">8/10/2016 0:00</span></span></p></td>
+<td><p><span data-ttu-id="841c6-191">11.08.2016 0:00</span><span class="sxs-lookup"><span data-stu-id="841c6-191">8/11/2016 0:00</span></span></p></td>
+<td><p><span data-ttu-id="841c6-192">11.08.2016 0:00</span><span class="sxs-lookup"><span data-stu-id="841c6-192">8/11/2016 0:00</span></span></p></td>
+<td><p><span data-ttu-id="841c6-193">10.09.2016 0:00</span><span class="sxs-lookup"><span data-stu-id="841c6-193">9/10/2016 0:00</span></span></p></td>
+<td><p><span data-ttu-id="841c6-194">Gebühr für Zyklus</span><span class="sxs-lookup"><span data-stu-id="841c6-194">Cycle fee</span></span></p></td>
+<td><p><span data-ttu-id="841c6-195">28,40</span><span class="sxs-lookup"><span data-stu-id="841c6-195">28.40</span></span></p></td>
 </tr>
 <tr class="odd">
-<td><p><span data-ttu-id="95f9f-198">a044b16a-1861-4308-8086-a3a3b506fac2</span><span class="sxs-lookup"><span data-stu-id="95f9f-198">a044b16a-1861-4308-8086-a3a3b506fac2</span></span></p></td>
-<td><p><span data-ttu-id="95f9f-199">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="95f9f-199">Office 365 Enterprise E5</span></span></p></td>
-<td><p><span data-ttu-id="95f9f-200">10.08.2016 0:00</span><span class="sxs-lookup"><span data-stu-id="95f9f-200">8/10/2016 0:00</span></span></p></td>
-<td><p><span data-ttu-id="95f9f-201">11.08.2016 0:00</span><span class="sxs-lookup"><span data-stu-id="95f9f-201">8/11/2016 0:00</span></span></p></td>
-<td><p><span data-ttu-id="95f9f-202">11.08.2016 0:00</span><span class="sxs-lookup"><span data-stu-id="95f9f-202">8/11/2016 0:00</span></span></p></td>
-<td><p><span data-ttu-id="95f9f-203">10.09.2016 0:00</span><span class="sxs-lookup"><span data-stu-id="95f9f-203">9/10/2016 0:00</span></span></p></td>
-<td><p><span data-ttu-id="95f9f-204">Gebühr für Zyklus</span><span class="sxs-lookup"><span data-stu-id="95f9f-204">Cycle fee</span></span></p></td>
-<td><p><span data-ttu-id="95f9f-205">2,00</span><span class="sxs-lookup"><span data-stu-id="95f9f-205">2.00</span></span></p></td>
+<td><p><span data-ttu-id="841c6-196">a044b16a-1861-4308-8086-a3a3b506fac2</span><span class="sxs-lookup"><span data-stu-id="841c6-196">a044b16a-1861-4308-8086-a3a3b506fac2</span></span></p></td>
+<td><p><span data-ttu-id="841c6-197">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="841c6-197">Office 365 Enterprise E5</span></span></p></td>
+<td><p><span data-ttu-id="841c6-198">10.08.2016 0:00</span><span class="sxs-lookup"><span data-stu-id="841c6-198">8/10/2016 0:00</span></span></p></td>
+<td><p><span data-ttu-id="841c6-199">11.08.2016 0:00</span><span class="sxs-lookup"><span data-stu-id="841c6-199">8/11/2016 0:00</span></span></p></td>
+<td><p><span data-ttu-id="841c6-200">11.08.2016 0:00</span><span class="sxs-lookup"><span data-stu-id="841c6-200">8/11/2016 0:00</span></span></p></td>
+<td><p><span data-ttu-id="841c6-201">10.09.2016 0:00</span><span class="sxs-lookup"><span data-stu-id="841c6-201">9/10/2016 0:00</span></span></p></td>
+<td><p><span data-ttu-id="841c6-202">Gebühr für Zyklus</span><span class="sxs-lookup"><span data-stu-id="841c6-202">Cycle fee</span></span></p></td>
+<td><p><span data-ttu-id="841c6-203">2,00</span><span class="sxs-lookup"><span data-stu-id="841c6-203">2.00</span></span></p></td>
 </tr>
 </tbody>
 </table>
 
  
 
-## <a name="additional-resources"></a><span data-ttu-id="95f9f-206">Weitere Ressourcen</span><span class="sxs-lookup"><span data-stu-id="95f9f-206">Additional Resources</span></span>
+## <a name="additional-resources"></a><span data-ttu-id="841c6-204">Weitere Ressourcen</span><span class="sxs-lookup"><span data-stu-id="841c6-204">Additional Resources</span></span>
 
 
-<span data-ttu-id="95f9f-207">Weitere Details finden Sie auf der [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx)-Website.</span><span class="sxs-lookup"><span data-stu-id="95f9f-207">For more details, visit the [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx) site.</span></span> <span data-ttu-id="95f9f-208">Spezifische Ressourcen für Office365 Enterprise E5 finden Sie auf der [Office365 E5-Seite](https://drumbeat.office.com/partner/pages/e5.aspx) auf der Registerkarte **Vermarkten und Verkaufen**:</span><span class="sxs-lookup"><span data-stu-id="95f9f-208">Office 365 Enterprise E5-specific resources are located on the [Office 365 E5 page](https://drumbeat.office.com/partner/pages/e5.aspx) under the **Market and Sell** tab:</span></span>
+<span data-ttu-id="841c6-205">Weitere Details finden Sie auf der [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx)-Website.</span><span class="sxs-lookup"><span data-stu-id="841c6-205">For more details, visit the [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx) site.</span></span> <span data-ttu-id="841c6-206">Spezifische Ressourcen für Office 365 Enterprise E5 finden Sie auf der [Office 365 E5-Seite](https://drumbeat.office.com/partner/pages/e5.aspx) auf der Registerkarte **Vermarkten und Verkaufen**:</span><span class="sxs-lookup"><span data-stu-id="841c6-206">Office 365 Enterprise E5-specific resources are located on the [Office 365 E5 page](https://drumbeat.office.com/partner/pages/e5.aspx) under the **Market and Sell** tab:</span></span>
 
--   **<span data-ttu-id="95f9f-209">Office365 Enterprise E5-Lizenzierung</span><span class="sxs-lookup"><span data-stu-id="95f9f-209">Office 365 Enterprise E5 Licensing</span></span>**
+-   <span data-ttu-id="841c6-207">**Office 365 Enterprise E5-Lizenzierung**</span><span class="sxs-lookup"><span data-stu-id="841c6-207">**Office 365 Enterprise E5 Licensing**</span></span>
 
--   **<span data-ttu-id="95f9f-210">Übersicht über die Lizenzierung von Skype for Business-PSTN-Diensten</span><span class="sxs-lookup"><span data-stu-id="95f9f-210">Skype for Business PSTN Services Licensing Overview</span></span>**
+-   <span data-ttu-id="841c6-208">**Übersicht über die Lizenzierung für Skype for Business-PSTN-Dienste**</span><span class="sxs-lookup"><span data-stu-id="841c6-208">**Skype for Business PSTN Services Licensing Overview**</span></span>
 
--   **<span data-ttu-id="95f9f-211">Häufig gestellte Fragen (FAQ) zur Lizenzierung von Office365 E5 und Skype for Business</span><span class="sxs-lookup"><span data-stu-id="95f9f-211">Office 365 E5 and Skype for Business Licensing FAQ</span></span>**
+-   <span data-ttu-id="841c6-209">**Office 365 E5 und Skype for Business FAQ zur Lizenzierung**</span><span class="sxs-lookup"><span data-stu-id="841c6-209">**Office 365 E5 and Skype for Business Licensing FAQ**</span></span>
 
  
 

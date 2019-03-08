@@ -2,25 +2,25 @@
 title: Software Assurance-Programme | Partner Center
 ms.topic: article
 ms.date: 01/14/19
-description: Registrieren Sie und Verwalten von Software Assurance-Programme im Partner Center
-author: labrenne
+description: Registrieren und Verwalten von Software Assurance-Programme im Partner Center
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e3958256b315249df5dda9778eb81d38d5fe66e
-ms.sourcegitcommit: e571a701aca40384dbc4928f3a5d3c64736fd5d8
+ms.openlocfilehash: 9a2f0fcb90ed13af3f885325f2211523df5c981e
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066027"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587613"
 ---
 # <a name="participate-in-software-assurance-programs"></a>Software Assurance-Programmen teilnehmen
 
-Teilnahme an Software Assurance-Programmen, einschließlich Software Assurance Schulung Belege (SATV) und Planen der Dienste, bietet Ihnen die Möglichkeit zum Ausbau Ihres Unternehmens mit Microsoft Enterprise-Kunden. Als Partner Software Assurance Schulung Belege Microsoft wird Sie zum Bereitstellen von Dozenten durchgeführte, technische Schulung von Experten von Microsoft entwickelt ausgeglichen. Als Partner Planen der Dienste Microsoft wird Sie vordefinierten Implementierung, die Planung von Aufträgen führen zu kompensieren. Über beide Programme erhalten Sie die Möglichkeit, Ihr Unternehmen von der Konkurrenz festlegen, wird eine als vertrauenswürdiger Berater und Nachfolger Dienste an den Kunden anbieten. Registrierung in die Programme und Verwaltung von zugehörige Software Assurance-Belege erfolgt über das Partner Center.
+Teilnahme an der Software Assurance-Programme, einschließlich Software Assurance Training Gutscheine (SATV) und Planning Services, bietet die Möglichkeit Wachstum für Ihr Unternehmen mit Microsoft Enterprise-Kunden. Als Partner Software Assurance-Schulungsgutscheine Microsoft wird Sie zum Bereitstellen von Dozenten geleiteten, technische Seminare entwickelt von Microsoft-Experten zu kompensieren. Als Partner Planning Services Microsoft wird Sie bei der vordefinierten Implementierung planen Engagements führen zu kompensieren. Durch beide Programme erhalten Sie die Möglichkeit, Ihr Unternehmen von der Konkurrenz abzuheben festlegen, werden ein vertrauenswürdiger Berater und mehr Dienste an Ihren Kunden bieten. Registrierung in die Programme und die Verwaltung der zugehörigen Software Assurance-Gutscheine erfolgt über das Partner Center.
 
-|**Erfahren Sie mehr über**   |**Bitte lesen**   |
+|**Informationen zu**   |**Lesen Sie diesen**   |
 |--------------------------|:------------------|
-|Bei der Software Assurance Schulung Belege (SATV)-Programm registriert wird.|[Software Assurance Schulung Belege (SATV)-Programm im Partner Center](software-assurance-satv.md)|
-|Mithilfe des Tools Beleg Überprüfung und einlösen|[Verwenden des Voucher Validation and Redemption (VVR)-Tools im Partner Center, um Belege zu überprüfen, zu reservieren und einzulösen](voucher-validation-tool.md)|
-|Bei der Planung Dienste Software Assurance registriert wird.|[Software Assurance Planning Services im Partner Center](software-assurance-dps.md) 
+|Registrieren in der Software Assurance Training Gutscheine (SATV)-Anwendung|[Software Assurance Training Gutscheine (SATV) Programm im Partner Center](software-assurance-satv.md)|
+|Mithilfe des Tools Gutschein-Überprüfung und einlösen|[Mithilfe des Tools Gutschein-Überprüfung und einlösen im Partner Center zu überprüfen, reservieren und Gutscheine einlösen](voucher-validation-tool.md)|
+|Registrierung von in die Planung der Dienste durch Software Assurance|[Software Assurance Planen von Diensten im Partner Center](software-assurance-dps.md) 
 
 

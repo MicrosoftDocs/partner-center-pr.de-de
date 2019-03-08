@@ -9,28 +9,28 @@ ms.author: evansma
 keywords: Abonnementabrechnungen, Abrechnung, Abrechnung im Partner Center, Partner Center-Abrechnung, meine Rechnung lesen, Rechnung, Rechnung für Partner Center, CSP-Abrechnung, wo ist meine Rechnung?
 ms.localizationpriority: medium
 ms.openlocfilehash: aec344eb7e4ed6e0a4d5e7e506c9bcf195654293
-ms.sourcegitcommit: 9eadb7ff6c38a08c694710a8c14b899d0f48059a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "8997339"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584543"
 ---
 # <a name="read-your-bill"></a>Informationen zu Ihrer Rechnung
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
 
 
-Ihre Rechnung wechseln Sie zum Menü " **Partner Center** ", und wählen Sie dann, **Abrechnung** , um Ihren Abrechnungsverlauf und -Trend, Links zu Ihrer Rechnung und abstimmungsdatei sowie Ihre letzte Zahlung anzeigen anzuzeigen.
+Der Rechnung finden Sie unter den **Partner Center** Menü, und wählen Sie dann **Abrechnung** mit Ihren Abrechnungsverlauf und Trends, finden Sie unter verknüpft werden soll, auf Ihre Rechnung und abstimmungsdatei-Datei, und die letzte Zahlung.
 
-Partner im Cloud Solution Provider-Programm mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte und die nutzungsbasierte Abonnements).
+Partner im Cloud Solution Provider-Programm mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60 Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte und die nutzungsbasierte Abonnements).
 
 > [!NOTE]  
-> Ihre Rechnung stellt eine Zusammenfassung aller Gebühren – das Programm, Produkten und Kunden – für den aktuellen Abrechnungszeitraum und ist innerhalb von zwei (2) Tagen nach Ablauf des ausgewählten abrechnungsdatums in UTC-Zeit verfügbar. Z. B. Wenn Sie eine 12. September Abrechnungsdatum haben, Verarbeiten der Rechnung-Generation 00:00 Uhr UTC am 13. beginnt und abschließen, indem Sie 00:00 Uhr UTC auf die 14.. Wenn Sie Ihre Rechnung von UTC 23:59 Uhr am 15. nicht angezeigt werden, Sie aus Ihrer Service Level Agreement und sollte eine Serviceanfrage Datei. 
+> Ihre Rechnung ist eine Übersicht über alle Gebühren – über das Programm, Produkte und Kunden – für den aktuellen Abrechnungszeitraum deaktivieren, und es steht innerhalb von zwei (2) Tagen nach Ihrer Abrechnung ausgewählte Datum in UTC-Zeit. Z. B. Wenn Sie eine am 12. September Abrechnungsdatum haben, der Generierungsprozess der Rechnung beginnt um 12:00 Uhr UTC am 13. und abschließen, indem die 14. 12:00 Uhr UTC. Wenn Ihre Rechnung von 11:59 Uhr (UTC) am 15. nicht angezeigt wird, Sie haben nicht genügend Ihrer Vereinbarung zum Servicelevel und sollte einen Service Request-Datei. 
 
-Sie erhalten eine Rechnung für lizenzbasierte (Office 365) und Gebühren für nutzungsbasierte (Azure) und eine separate Rechnung für einmalige (Azure reserved VM Instances) Gebühren.
+Sie erhalten eine Rechnung für lizenzbasierte (Office 365) und nutzungsbasierte (Azure) Gebühren und eine separate Rechnung für einmalige Gebühren (Azure Reserved VM Instances).
 
 Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen Abstimmungsdateien. Die Abstimmungsdateien enthalten die Kunden-IDs und Abonnement-IDs, mit deren Hilfe Sie Kundenrechnungen erstellen. Weitere Informationen finden Sie unter [So wird's gemacht: Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md).
 
@@ -57,7 +57,7 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 </tr>
 <tr class="even">
 <td>Rechnungsempfänger</td>
-<td>Die Adresse, an die wir Ihre Rechnung senden. Um den Namen des Unternehmens oder die Adresse zu ändern, bearbeiten Sie Ihr Partner Center-Profil Abrechnung. </td>
+<td>Die Adresse, an die wir Ihre Rechnung senden. Bearbeiten Sie Ihre Partner Center-abrechnungsprofils, um den Firmennamen oder die Adresse zu ändern. </td>
 </tr>
 <tr class="odd">
 <td>Lizenzbasierte Gebühren</td>
@@ -78,7 +78,7 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 <tr class="even">
 <tr class="even">
 <td>Zwischensumme</td>
-<td>Gesamtbetrag vor Steuern und Gebühren exklusive und Guthaben.</td>
+<td>Gesamtbetrag vor Steuern und Gebühren und Guthaben exklusive Steuern</td>
 </tr>
 <td>Steuern</td>
 <td>Die gesamten Steuern für die aktuellen Gebühren, wie im Abschnitt „Details“ auf Seite 2 der Rechnung summiert. Diese Zahl ist die Summe aller Gebühren in folgenden Spalten:
@@ -89,10 +89,10 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 </tr>
 <tr class="odd">
 <td>Andere Guthaben</td>
-<td>Exklusive Guthaben.</td>
+<td>Guthaben exklusive Steuern</td>
 </tr>
 <tr class="even">
-<td>Aktuelle Gebühren insgesamt</td>
+<td>Gesamtsumme der aktuellen Gebühren</td>
 <td>Der in Ihrer Abrechnungswährung für den Abrechnungszeitraum zum angegebenen Termin fällige Betrag.</td>
 </tr>
 <tr class="odd">
@@ -105,15 +105,15 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 </tr>
 <tr class="odd">
 <td>Abrechnungszeitraum</td>
-<td>Die monatlichen Zeitraum für das Rechnungsdatum. Dies ist der Zeitraum, während dessen nutzungsbasierte Dienste genutzt werden, und lizenzbasierte Dienste für Gutschrift Anpassungen oder Änderungen der Anzahl der Lizenzen abgestimmt werden.</td>
+<td>Die monatlich, zu dem Rechnungsdatum führt. Dies ist der Zeitraum, in dem Verwendungsbasierte Dienste verwendet lizenzbasierte Dienste sind für alle Guthaben Anpassungen oder Änderungen bezüglich der Anzahl der Lizenzen abgestimmt.</td>
 </tr>
 <tr class="even">
 <td>Rechnungsdatum</td>
-<td>Ihr Abrechnungsdatum oder Jahrestag, die auf dem Ihre Rechnung jeden Monat generiert wird.</td>
+<td>Ihre Rechnungsdatum oder Jahrestag, die auf dem Ihre Rechnung jeden Monat erstellt wird.</td>
 </tr>
 <tr class="odd">
 <td>Zahlungsbedingungen</td>
-<td>Für einmalige Einkäufe wird dies immer 60Tage sein.</td>
+<td>Für einmalige Einkäufe wird dies immer 60 Tage sein.</td>
 </tr>
 <tr class="even">
 <td>Fälligkeitsdatum der Zahlung</td>
@@ -129,7 +129,7 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 </tr>
 <tr class="odd">
 <td>Dienstempfänger</td>
-<td>Die Adresse, an der der Dienst verwendet wird. (Dies ist die rechtlich gültige Unternehmensadresse-Adresse, die mit der unternehmensprüfung verknüpft ist.)</td>
+<td>Die Adresse, an der der Dienst verwendet wird. (Dies ist die Überprüfung des Unternehmens rechtliche Unternehmensadresse.)</td>
 </tr>
 </tbody>
 </table>

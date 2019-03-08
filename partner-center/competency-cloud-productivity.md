@@ -2,21 +2,21 @@
 title: Cloud Productivity-Kompetenz
 ms.topic: article
 ms.date: 10/29/2018
-description: Die Kompetenz „Cloud Productivity“ erkennt Partner an, die sich auf Unternehmensbereitstellungen von Office365 spezialisieren. Heben Sie Ihr Unternehmen anhand dieser Kompetenz als bewährten Cloud-Lösungsanbieter für Kunden hervor, die nach qualifizierten Partnern für Cloudlösungen Ausschau halten.
-author: Daniel Simpson
+description: Die Kompetenz „Cloud Productivity“ erkennt Partner an, die sich auf Unternehmensbereitstellungen von Office 365 spezialisieren. Heben Sie Ihr Unternehmen anhand dieser Kompetenz als bewährten Cloud-Lösungsanbieter für Kunden hervor, die nach qualifizierten Partnern für Cloudlösungen Ausschau halten.
+author: LauraBrenner
 ms.author: dansimp
 keywords: Kompetenz, Kompetenzen, Cloud Productivity
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 86a423236440dbcf25b7974c1d24ba7f0a14fa2f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f0aabf09435dbb1f08ddd79f6fac5075860c3033
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794643"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585493"
 ---
 >[!IMPORTANT]
->Weitere Informationen zu den Anforderungen für die Erreichung dieses Kompetenz besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
+>Weitere Informationen zu den Anforderungen zur Erlangung dieser Kompetenz finden Sie im [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
 
 <!--
 # Cloud Productivity competency

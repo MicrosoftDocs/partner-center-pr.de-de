@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 10/29/2018
 description: Wenn Sie als Partner im CSP-Programm teilnehmen, erhält Ihre Organisation ein Kreditlimit, um Software zu erwerben, die Sie an Ihre Kunden verkaufen können, während Sie darauf warten, dass die Kunden Sie bezahlen.
 ms.assetid: ''
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
-keywords: Kreditlimit, erwerben, höhere Grenzen, Kreditlinie
+keywords: Kreditgrenze und Erwerb Erhöhung des Grenzwerts, Guthaben Zeile
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 29ea91d24e141deb843f7ba00e438f882a092fff
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 5183e3787f3573b0d7f2bd2f318fa48ef68c3922
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917392"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586183"
 ---
 # <a name="cloud-solution-provider-csp-account-credit-limits"></a>Cloud Solution Provider (CSP)-Konto Kreditlimit
 
-**Betriff:**
+**Gilt für**
 
 - Partner Center
 
@@ -26,7 +26,7 @@ Wenn Sie als Partner im CSP-Programm teilnehmen, erhält Ihre Organisation ein K
 
 ## <a name="what-you-need-to-know-about-your-credit-limit"></a>Was Sie über Ihre Kreditlimit wissen müssen
 
-Sobald Sie 70Prozent des Limits verwendet haben, sendet Microsoft Ihnen eine Bestätigung an die primäre E-Mail-Adresse Ihrer Organisation. Die E-Mail enthält eine Zusammenfassung Ihrer Rechnung, die den zu zahlenden Betrag angibt, um den Dienst beizubehalten. Sie erhalten außerdem eine Benachrichtigung, wenn Sie 85Prozent erreichen. Wenn Sie 100Prozent des Kreditlimits nutzen, informiert Sie Microsoft 24 Stunden im Voraus darüber, dass Sie eine Zahlung durchführen müssen. Andernfalls wird Ihr Konto ausgesetzt. 
+Sobald Sie 70 Prozent des Limits verwendet haben, sendet Microsoft Ihnen eine Bestätigung an die primäre E-Mail-Adresse Ihrer Organisation. Die E-Mail enthält eine Zusammenfassung Ihrer Rechnung, die den zu zahlenden Betrag angibt, um den Dienst beizubehalten. Sie erhalten außerdem eine Benachrichtigung, wenn Sie 85 Prozent erreichen. Wenn Sie 100 Prozent des Kreditlimits nutzen, informiert Sie Microsoft 24 Stunden im Voraus darüber, dass Sie eine Zahlung durchführen müssen. Andernfalls wird Ihr Konto ausgesetzt. 
 
 Wenn Ihre CSP-Konto ausgesetzt ist, können Sie keine neuen Kunden erstellen, neue Abonnements erwerben oder Änderungen an vorhandenen Abonnements vornehmen.
 

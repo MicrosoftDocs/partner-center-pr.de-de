@@ -8,15 +8,15 @@ ms.author: evansma
 keywords: Action Pack, MAPS, MAPS verlängern, Action Pack verlängern, Action pack erwerben
 ms.localizationpriority: medium
 ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795043"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587883"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Erstmaliges Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 -  Partner Membership Center
@@ -32,14 +32,14 @@ Weitere Details zum Action Pack finden Sie auf der [Microsoft Partner Network](h
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Erstmaliges Erwerben eines Microsoft Action Pack-Abonnements
 
-Wenn Sie ein neuer Partner von Microsoft sind, besteht der erste Schrittdarin, dem Microsoft Partner Network beizutreten. Wenn Sie noch kein Mitglied des Partner Network sind, wechseln Sie zur [Mitgliedschaftsseite](https://partner.microsoft.com/membership) auf der Partner Network-Website, und wählen Sie **Jetzt registrieren** aus, wenn Sie sich registrieren möchten. 
+Wenn Sie ein neuer Partner von Microsoft sind, besteht der erste Schritt darin, dem Microsoft Partner Network beizutreten. Wenn Sie noch kein Mitglied des Partner Network sind, wechseln Sie zur [Mitgliedschaftsseite](https://partner.microsoft.com/membership) auf der Partner Network-Website, und wählen Sie **Jetzt registrieren** aus, wenn Sie sich registrieren möchten. 
 
 Nachdem Sie dem Partner Network erfolgreich beigetreten sind, befolgen Sie die [Anweisungen auf der Partner Network-Website](https://partner.microsoft.com/membership/action-pack), um Ihr erstes Action Pack-Abonnement zu erwerben. 
 
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Verlängern eines Microsoft Action Pack-Abonnements
 
 >[!IMPORTANT]
->Zwischen jetzt und dem Ende des Kalenderjahres sind verschieben wir die Action Pack-abonnementverwaltung vom Partner Membership Center (PMC) zum Partner Center – dieser Website. Da sich das Verlängern Ihres Action Pack-Abonnements zwischen diesen Zeitpunkten unterscheiden kann, lesen Sie die folgenden Informationen sorgfältig.  
+>Zwischen jetzt und dem Ende des Kalenderjahres verschieben wir Action Pack-abonnementverwaltung von Partner Membership Center (PMC) Partner Center - diesen Standort. Da sich das Verlängern Ihres Action Pack-Abonnements zwischen diesen Zeitpunkten unterscheiden kann, lesen Sie die folgenden Informationen sorgfältig.  
 
 ### <a name="check-your-renewal-eligibility"></a>Überprüfen Ihrer Berechtigung für eine Verlängerung
 
@@ -47,24 +47,24 @@ Nachdem Sie dem Partner Network erfolgreich beigetreten sind, befolgen Sie die [
 
 2. Nachdem Sie sich erfolgreich angemeldet haben, geschieht Folgendes:
 
-    - Sie können die Schrittezum Verlängern Ihres Abonnements in PMC durchführen, oder
+    - Sie können die Schritte zum Verlängern Ihres Abonnements in PMC durchführen, oder
 
-    - Erhalten Sie eine Nachricht, die Sie eingeladen werden, Ihr Abonnement im Partner Center – dieser Website verlängern
+    - Erhalten Sie eine Meldung mit der Einladung zur Erneuerung Ihres Abonnements im Partner Center - diese Website
 
 >[!IMPORTANT]
->Wenn Sie eingeladen werden, Ihr Abonnement im Partner Center zu verlängern, beachten Sie, dass wir unsere Richtlinie Zeitfenster der Verlängerung geändert haben, und Sie können Ihr Abonnement erst nach Ablauf verlängern. Wenn Ihr Abonnement beispielsweise am 22.Juni abläuft, können Sie es ab dem 23. Juni für einen Zeitraum von 30Tagen verlängern.       
->Sie finden das Ablaufdatum Ihres Abonnements auf der Seite [**Mitgliedschaftsangebote**](https://partnercenter.microsoft.com/pcv/partnership/offers) (Anmeldung erforderlich). Wenn Sie zur Verlängerung im Partner Center berechtigt sind, führen Sie die folgenden Schritte aus.  
+>Wenn Sie zur Erneuerung Ihres Abonnements im Partner Center eingeladen werden, beachten Sie, dass wir unser Fenster vertragsverlängerung geändert haben, und Sie Ihr Abonnement verlängern können, nur nach dem Ablaufdatum. Wenn Ihr Abonnement beispielsweise am 22. Juni abläuft, können Sie es ab dem 23. Juni für einen Zeitraum von 30 Tagen verlängern.       
+>Sie finden das Ablaufdatum Ihres Abonnements auf der Seite [**Mitgliedschaftsangebote**](https://partnercenter.microsoft.com/pcv/partnership/offers) (Anmeldung erforderlich). Wenn, oder wenn Sie die Gelegenheit, im Partner Center erneuern möchten, führen Sie die folgenden Schritte aus.  
 
 
 
-### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Verlängern ein Microsoft Action Pack-Abonnements im Partner Center
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>So erneuern Sie ein Microsoft Action Pack-Abonnement im Partner Center
 
-1. Wechseln Sie zur Seite [**Mitgliedschaftsangebote**](https://partnercenter.microsoft.com/pcv/partnership/offers), und wählen Sie dann **Gekauft** aus. Suchen Sie die Kachel **Microsoft Action Pack-Abonnement** .  
+1. Wechseln Sie zur Seite [**Mitgliedschaftsangebote**](https://partnercenter.microsoft.com/pcv/partnership/offers), und wählen Sie dann **Gekauft** aus. Suchen Sie nach der Kachel **Microsoft Action Pack-Abonnement**.  
 
 2. Wählen Sie **Abonnement verlängern** und dann Ihre Zahlungsmethode aus. Sie können mit einer Kreditkarte oder einer elektronischen Überweisung bezahlen.
 
     >[!NOTE]
-    >Wenn **Abonnement verlängern** nicht angezeigt wird oder ausgeblendet ist, sind Sie noch nicht berechtigt, Ihr Action Pack-Abonnement zu verlängern. Wir haben unsere Richtlinie für das Zeitfenster der Verlängerung geändert, und Sie können Ihr Abonnement erst nach Ablauf verlängern. Wenn Ihr Abonnement beispielsweise am 22.Juni abläuft, können Sie es ab dem 23. Juni für einen Zeitraum von 30Tagen verlängern.  
+    >Wenn **Abonnement verlängern** nicht angezeigt wird oder ausgeblendet ist, sind Sie noch nicht berechtigt, Ihr Action Pack-Abonnement zu verlängern. Wir haben unsere Richtlinie für das Zeitfenster der Verlängerung geändert, und Sie können Ihr Abonnement erst nach Ablauf verlängern. Wenn Ihr Abonnement beispielsweise am 22. Juni abläuft, können Sie es ab dem 23. Juni für einen Zeitraum von 30 Tagen verlängern.  
 
 3. Wenn Sie per Kreditkarte bezahlen, folgen Sie den Anweisungen, um Ihre Kreditkarteninformationen hinzuzufügen. Wenn die Zahlung per elektronischer Überweisung geschieht, geben Sie Namen, Telefonnummer, E-Mail-Adresse ein und wählen Sie dann **Übermitteln** aus. 
      
@@ -93,7 +93,7 @@ Wenn Sie Ihr Microsoft Action Pack-Abonnement kündigen möchten, müssen Sie si
 
 3. Wählen Sie **Abonnement stornieren** aus. Führen Sie die Schritte zum Erstellen einer Supportanfrage durch. 
 
-4. Wählen Sie auf dem Dienstanfrageformular die folgenden Werte aus, um die geeignete Unterstützung anzufordern:
+4. Wählen Sie auf dem Dienstanfrageformular die folgenden Werte, um die geeignete Unterstützung anzufordern:
 
     -  Wählen Sie **Probleme mit dem Partner Center melden** und dann **Neue Anfrage** auf der nächsten Seite aus.
 
@@ -111,13 +111,13 @@ Wählen Sie zum Überprüfung des Status Ihrer Serviceanfrage unter **Support** 
  
 ## <a name="next-steps"></a>Nächste Schritte
 
--   [Nutzung Ihrer Action Pack-Vorteile](manage-your-partner-network-benefits.md)
+-   [Nutzen Sie Ihre Vorteile Action Pack](manage-your-partner-network-benefits.md)
 
--   [Erfahren Sie mehr über die Silver- und Gold-Kompetenzmitgliedschaft](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
+-   [Erfahren Sie mehr über Gold und Silber-Kompetenz mitgliedschaftsebenen](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
 
--   [Hinzufügen von Benutzern und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
+-   [Hinzufügen von Benutzern und Berechtigungen zuweisen](create-user-accounts-and-set-permissions.md)
 
--   [Erstellen eines Unternehmensprofils um Vertriebskontakte von Microsoft zu erhalten](create-a-marketing-profile.md)
+-   [Erstellen eines Geschäftsprofils um Vertriebsleads von Microsoft zu erhalten.](create-a-marketing-profile.md)
 
 
 

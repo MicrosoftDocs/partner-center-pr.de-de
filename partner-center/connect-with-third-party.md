@@ -3,28 +3,28 @@ title: Hinzufügen von Drittanbietersoftware zu Ihrem Portfolio | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Kaufen von Drittanbietersoftware, die mit Microsoft-Produkten funktioniert
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: Drittanbieter-Angebote, Kaufsoftware
 ms.localizationpriority: medium
-ms.openlocfilehash: 42aacee4f5d9612f3b55bd1774f9c96b71be8eda
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: fb378c5fded17bd7f8f7c35d375278097fc32098
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795763"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586813"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>Hinzufügen von Drittanbietersoftware zu Ihrem Portfolio
 
-Betrifft
+Gilt für:
 
 -Partner Center
 
 Sie können nun im Partner Center Drittanbietersoftware erwerben, die Sie Kunden anbieten können. Dies ist eine tolle Möglichkeit, Ihr Unternehmen von der Konkurrenz abzuheben und Ihren Kunden Softwarepakete anzubieten, die ihre speziellen geschäftlichen Anforderungen erfüllen. Und sie können auch weiterhin mit Ihnen, ihrem vertrauenswürdigen Berater, zusammenarbeiten.
 
-Derzeit enthält das Partner Center Softwareangebote von Drittanbietern, die sich in Azure, Office365 oder Dynamics integrieren lassen. 
+Derzeit enthält das Partner Center Softwareangebote von Drittanbietern, die sich in Azure, Office 365 oder Dynamics integrieren lassen. 
 
-## <a name="connect-with-third-party-partners"></a>Vernetzen Sie mit Drittanbieter-Partnern
+## <a name="connect-with-third-party-partners"></a>Herstellen einer Verbindung mit Drittanbieter-Partner
  
 Als CSP-Partner können Sie Softwareangebote von Drittanbietern durchsuchen. Sie können sich mit ISV-Partnern verbinden und Ihren Produktkatalog erstellen. ISV-Partner können zudem nach CSP-Partnern suchen, mit denen sie arbeiten möchten. Sie können nach den von Ihnen verkauften Microsoft-Produkten suchen und Ihr Geschäftsprofil überprüfen. Es ist deshalb wichtig, Ihr Geschäftsprofil auf dem aktuellen Stand zu halten. Sie teilen einem ISV-Partner Ihr Interesse an seinem Produkt mit, indem Sie in der Produktidentifikation auf den Button „Ich bin interessiert ”klicken und das Formular ausfüllen. Microsoft sendet es an den ISV-Partner. Ihre Antwort wird im Partner Center verwaltet. Wenn ein ISV-Partner Interesse an einer Zusammenarbeit mit Ihnen bekundet, erhalten Sie ebenfalls eine Benachrichtigung über das Partner Center. Antworten Sie möglichst innerhalb von 48 Stunden.
 
@@ -40,7 +40,7 @@ Es ist ganz einfach, die Angebote zu suchen und zu finden, die gut zu Ihrem Port
 
 1. Wählen Sie in der linken Navigationsleiste **Drittanbieterangebote** aus.
 2. In der Standardansicht werden alle verfügbaren Angebote angezeigt.
-3. Verfügbare Filter:
+3. Verfügbare Filtern:
     - Verfügbarkeit nach Markt (Region)
     - Microsoft-Produkte, mit denen Produkte von Drittanbietern gut zusammenarbeiten
     - Branchentyp
@@ -48,15 +48,15 @@ Es ist ganz einfach, die Angebote zu suchen und zu finden, die gut zu Ihrem Port
 
 ### <a name="the-details-page"></a>Detailseite
 
-Um mehr Details zu erhalten, wählen Sie ein Produkt aus. Dadurch gelangen Sie auf die Detailseite, auf der Sie ausführliche Informationen über das Produkt erhalten, z.B. darüber, wie es funktioniert, wie es mit Microsoft-Produkten zusammenarbeitet oder wie Sie Ihre Verkäufer für dieses Produkt schulen. Sie erhalten auch Tipps für die Erstellung wirkungsvoller Marketingmaterialien.
+Um mehr Details zu erhalten, wählen Sie ein Produkt aus. Dadurch gelangen Sie auf die Detailseite, auf der Sie ausführliche Informationen über das Produkt erhalten, z. B. darüber, wie es funktioniert, wie es mit Microsoft-Produkten zusammenarbeitet oder wie Sie Ihre Verkäufer für dieses Produkt schulen. Sie erhalten auch Tipps für die Erstellung wirkungsvoller Marketingmaterialien.
 
 Auf der Detailseite finden Sie einen Link zur ISV-Website, Kontaktinformationen und häufig ein Demovideo des Produkts. 
 
-## <a name="purchase-the-third-party-software"></a>Erwerb von Drittanbietersoftware
+## <a name="purchase-the-third-party-software"></a>Kaufen von Drittanbietersoftware
 
 Sie erwerben Drittanbietersoftware genauso wie Erstanbietersoftware. 
 
-1. Wählen Sie aus dem **Partner Center** **Kunden**
+1. Von der **Partner Center**Option **Kunden**
 2. Wählen Sie **Neues Abonnement** aus.
 3. Wählen Sie die monatliche Abrechnung für Drittanbietersoftware aus. Die jährliche Abrechnung und Testversionsabrechnung sind derzeit für Drittanbieter nicht verfügbar.
 4. Wählen Sie auf der Registerkarte „Drittanbieter” das Produkt aus, das Sie kaufen möchten.

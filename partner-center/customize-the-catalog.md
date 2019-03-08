@@ -8,15 +8,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 4eafca2c4d9273157d920197758488d399b9018d
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683749"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584173"
 ---
 # <a name="customize-the-catalog"></a>Anpassen des Katalogs
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -26,7 +26,7 @@ Im Katalog sind Microsoft-Produkte und -Add-Ons aufgeführt, die Sie Ihren Kunde
 
 **Anpassen des Katalogs**
 
-1.  Wechseln Sie zum Menü "Partner Center" &gt; **verkaufen** &gt; **Katalog**.
+1.  Wechseln Sie zu dem Partner Center-Menü &gt; **verkaufen** &gt; **Katalog**.
 2.  Wählen Sie bis zu fünf Angebote aus, die am Anfang des Katalogs angezeigt werden sollen.
 
  

@@ -1,23 +1,23 @@
 ---
-title: Microsoft Azure VM-Größe für die maximale Reservations-Nutzung | Partner Center
+title: Microsoft Azure-VM-Größe für die maximale reservierungsnutzung | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-Description: When buying Microsoft Azure reservations on behalf of your customers, you’ll need to choose a virtual machine (VM) sized to meet the customer’s computing needs.
-author: v-petand
+Description: Wenn Sie Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden kaufen, müssen Sie einen virtuellen Computer (VM) wählen, dessen Größe die Computing-Anforderungen des Kunden erfüllt.
+author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, Reservierungen, virtueller Computer, verwalten, Nutzung, Größe
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 344eb01f363c7a79ca27082e3eeb1531889f134b
-ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
+ms.openlocfilehash: cbe24b3da0b9cadf1ed9e8d9f06b5b575bf16d22
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "9014817"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586963"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Microsoft Azure VM-Größe für die maximale Reservations-Nutzung 
 
-**Betriff:**
+**Gilt für**
 
 -  Partner Center
 -  Azure-Portal
@@ -41,15 +41,15 @@ Nachstehend finden Sie Anleitungen für jede dieser Vorgehensweisen. Nachdem Sie
 >Um den Typ und die Größe des virtuellen Computers im Auftrag des Kunden korrekt identifizieren zu können, müssen Sie die unten aufgeführten Methoden verwenden, da der Typ der VM in der Partner Center-Abstimmungsdatei nicht richtig angezeigt wird.
 
 
-**Rufen Sie die VM-Größeninformationen mit der Azure-Nutzungs-API ab**
+**Abrufen Sie VM mit der Azure-auslastungsdatensatz-API-Größeninformationen**
 
 1.  Verwenden Sie den Wert für Diensttyp-Attribute aus Information in der API-Antwort, um die VM-Größe für den Kauf zu identifizieren. 
 
 2.  Weitere Informationen finden Sie unter [Abrufen der Nutzungseinträge eines Kunden für Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) in der [Partner Center-API](https://docs.microsoft.com/partner-center/develop/). 
 
-**Rufen Sie die VM-Größeninformationen im Microsoft Azure-Portal ab**
+**Abrufen Sie VM-Größeninformationen mithilfe von Microsoft Azure-portal**
 
-1.  Im Partner Center wechseln Sie zu der Seite " **Kunden** ".
+1.  Navigieren Sie im Partner Center zu Ihrer **Kunden** Seite.
 
 2.  Suchen Sie den Kunden, der Azure VM Reservations kaufen möchte, und wählen Sie dann den Pfeil nach unten, um die Informationen des Kunden zu erweitern. Wählen Sie **Microsoft Azure-Verwaltungsportal**, um die Daten des Kunden im Azure-Portal zu öffnen. 
 
@@ -57,15 +57,15 @@ Nachstehend finden Sie Anleitungen für jede dieser Vorgehensweisen. Nachdem Sie
 
 4.  Erhalten Sie auf der Seite mit den Details des virtuellen Computers die Größe und Region, wie unten dargestellt, und verwenden Sie diese Informationen, um die Reservierung im Partner Center zu erwerben.  
 
-    ![Informationen zur Größe und Region auf der Detailseite](images/usage1.png)
+    ![Informationen zur Größe und Region auf der Seite "Details"](images/usage1.png)
 
-**Rufen Sie die VM-Größeninformationen in Microsoft Azure PowerShell ab**
+**Abrufen Sie VM mithilfe von Microsoft Azure PowerShell Größeninformationen**
 
-Verwenden Sie die Informationen in der Abbildungunten zum Abrufen der Position und Größe des virtuellen Computers, für die Sie eine Reservierung erwerben möchten. 
+Verwenden Sie die Informationen in der Abbildung unten zum Abrufen der Position und Größe des virtuellen Computers, für die Sie eine Reservierung erwerben möchten. 
 
 ![VM-Position und Größe](images/usage2.png)
 
-**Rufen Sie die VM-Größeninformationen in der Azure Resource Manager (ARM)-API ab**
+**Abrufen Sie VM mit Azure Resource Manager (ARM) API Größeninformationen**
 
 1.  Rufen Sie mithilfe der ARMClient oder der ARM-APIs den ARM-Client für den virtuellen Computer, für den Sie eine Reservierung erwerben möchten.
 
@@ -93,7 +93,7 @@ Nachstehend finden Sie Anleitungen für jede dieser Vorgehensweisen.
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>Überprüfen Sie die Reservierungsnutzung des Kunden im Microsoft Azure-Portal
 
-1.  Im Partner Center wechseln Sie zu der Seite " **Kunden** ".
+1.  Navigieren Sie im Partner Center zu Ihrer **Kunden** Seite.
 
 2.  Suchen Sie den Kunden, dessen Reservierungsrabatt und -nutzung Sie überprüfen möchten, und wählen Sie dann den Pfeil nach unten, um die Informationen des Kunden zu erweitern. Wählen Sie **Microsoft Azure-Verwaltungsportal**, um die Daten des Kunden im Azure-Portal zu öffnen. 
 
@@ -104,11 +104,11 @@ Nachstehend finden Sie Anleitungen für jede dieser Vorgehensweisen.
     >[!NOTE]
     >Nutzungsdaten können auf bis zu 8 Stunden verzögert werden.
     
-    a.  Ist die Reservierungsauslastung 100%, erhält Ihr Kunde alle möglichen Einsparungen, die der Kauf der Reservierung ermöglicht. 
+    a.  Ist die Reservierungsauslastung 100 %, erhält Ihr Kunde alle möglichen Einsparungen, die der Kauf der Reservierung ermöglicht. 
     
-    b.  Ist die Reservierungsnutzung 0%, wird kein Rabatt auf dem virtuellen Computer angewendet. 
+    b.  Ist die Reservierungsnutzung 0 %, wird kein Rabatt auf dem virtuellen Computer angewendet. 
     
-    c.  Wenn die Reservierung zwischen 1 und 99% ist, gibt es nicht verwendete Vorteile. 
+    c.  Wenn die Reservierung zwischen 1 und 99 % ist, gibt es nicht verwendete Vorteile. 
 
 5.  Um dies zu vermeiden, bestimmen Sie die richtige Größe der VM zur Unterstützung des Computingbedarfs des Kunden vor dem Kauf.
 
@@ -119,7 +119,7 @@ Nachstehend finden Sie Anleitungen für jede dieser Vorgehensweisen.
 
 Sie erhalten die Reservierungsnutzungsdaten mit der Azure-Nutzungs-API, um sicherzustellen, dass der Kunde den Reservierungsrabatt erhält und um zu sehen, auf welche VMs (virtuelle Maschinen) der Rabatt angewendet wird. Vergleichen Sie Beispiel A mit Beispiel B um die Reservierungsnutzung des Kunden zu überprüfen. 
 
-![Beispiele für die Verwendung von Reservierung](images/usage5.png)
+![Verwendungsbeispiele für die Reservierung](images/usage5.png)
 
 -   Die ReservationId identifiziert die Azure-Reservierung, die verwendet wurde, um den Rabatt auf den virtuellen Computer anzuwenden.
 -   ConsumptionMeter ist die MeterId für den virtuellen Computer, auf den der Reservierungsrabatt angewendet wurde.
@@ -128,14 +128,14 @@ Sie erhalten die Reservierungsnutzungsdaten mit der Azure-Nutzungs-API, um siche
 Weitere Informationen finden Sie unter [Abrufen der Nutzungseinträge eines Kunden für Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) in der [Partner Center-API](https://docs.microsoft.com/partner-center/develop/).
 
 >[!IMPORTANT]
->Kosten für Software, z.B. Microsoft Windows Server sind derzeit nicht im Preis einer VM-Reservierung enthalten und werden als separate Positionen in den Daten und auf Ihrer Rechnung angezeigt. Wenn ein Kunde über die Azure-Hybridnutzung verfügt, werden die Softwarekosten nicht angewendet. Weitere Informationen finden Sie unter [Windows software costs not included with Reserved Instances](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs).  
+>Kosten für Software, z. B. Microsoft Windows Server sind derzeit nicht im Preis einer VM-Reservierung enthalten und werden als separate Positionen in den Daten und auf Ihrer Rechnung angezeigt. Wenn ein Kunde über die Azure-Hybridnutzung verfügt, werden die Softwarekosten nicht angewendet. Weitere Informationen finden Sie unter [Windows software costs not included with Reserved Instances](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs).  
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations-Ressourcen
-|**Weitere Informationen**   |**Bitte lesen**    |
+|**Informationen zu**   |**Lesen Sie diesen**    |
 |:-----------------------------|:-----------------|
-|Azure Reservations in CSP (Übersicht)  | [Verkaufen von Microsoft Azure Reserved VM Instances](azure-reservations.md)
-|Erwerb von Azure Reservations für Ihre Kunden im Partner Center   |[Azure Reservations kaufen](azure-reservations-buying.md)
-|Verwalten von Azure Reservations im Partner Center | [Verwalten von Azure Reservations im Partner Center](azure-reservations-manage.md)
+|Azure Reservations in CSP (Übersicht)  | [Verkaufen Sie reservierte Azure-VM-Instanzen von Microsoft](azure-reservations.md)
+|Erwerb von Azure-Reservierungen für Ihre Kunden im Partner Center   |[Erwerben Sie Reservierungen, Azure](azure-reservations-buying.md)
+|Verwalten von Azure-Reservierungen im Partner Center | [Verwalten von Azure-Reservierungen im Partner Center](azure-reservations-manage.md)
 |Erwerb von Azure Reservations im Azure-Portal | [Für virtuelle Maschinen mit Azure Reserved VM Instances im Voraus bezahlen](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) in der Azure-Hilfe |
 |Verwalten von Azure Reservations im Azure-Portal   |[Verwalten von reservierten VM-Instanzen](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) in der Azure-Hilfe  |
 |Erwerb von Azure Reservations über die Partner Center-API | [Erwerben Sie Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in die Partner Center-Entwicklerdokumentation

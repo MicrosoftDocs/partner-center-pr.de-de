@@ -1,121 +1,121 @@
 ---
-title: Weisen Sie Benutzer Rollen und Berechtigungen | Partner Center
+title: Zuweisen von Benutzerrollen und Berechtigungen | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Alle Mitarbeiter, die im Partner Center arbeiten muss eine Rolle zugewiesen werden.
-author: labrenne
+description: Jeder Mitarbeiter im Partner Center funktioniert muss, muss eine Rolle zugewiesen werden.
+author: LauraBrenner
 ms.author: labrenne
-keywords: Rollen, Berechtigungen, Admin-agent
+keywords: Rollen, Berechtigungen, Administrator, Agent
 ms.localizationpriority: medium
-ms.openlocfilehash: cc0e37601b16033bf31faaf5056ca0389d6f5cf6
-ms.sourcegitcommit: 7961476a8fed7cd56a09c6edc8dd1e2dd7f46465
+ms.openlocfilehash: 038a2d6f4d58bbd9a71a2b241ee68982e0e7ef0a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/27/2019
-ms.locfileid: "9117213"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587743"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern
 
 
-Sie haben Ihr Partnerprofil, einschließlich vollständiger Name und Adresse, Supportinformationen, steuerbefreiungen, Bankinformationen und der Hauptansprechpartner für Ihr Unternehmen einrichten. Nächster Schritt: fordern Sie die Benutzer einrichten mit Kennwörtern und Rollen, sodass sie im Partner Center mit Ihnen arbeiten können.
+Sie haben Ihr Profil des Partners, einschließlich offizieller Name und Adresse, Informationen zum Support, Datei steuern Ausnahmen, Bankinformationen und der primäre Ansprechpartner für Ihr Unternehmen einrichten. Nächster Schritt: erhalten Ihre Benutzer richten Sie mit Kennwörtern und Rollen, sodass sie im Partner Center mit Ihnen arbeiten können.
 
-## <a name="set-up-your-employees-to-work-in-partner-center"></a>Richten Sie Ihre Mitarbeiter im Partner Center arbeiten
+## <a name="set-up-your-employees-to-work-in-partner-center"></a>Ihre Mitarbeiter arbeiten im Partner Center einrichten
 
-Sie bestimmen die Art des Zugriffs, die Ihre Benutzer über Partner Center die Rollen und Berechtigungen, die Sie ihnen zuweisen. Rollen beziehen sich auf die Programme, die, denen Ihr Unternehmen beteiligt ist. Beispielsweise, wenn Ihr Unternehmen ein Unternehmen Cloud Solution Provider (CSP) ist, nicht erhalten Sie nur das Azure AD-standard Mandanten-Management-Funktionen wie z. B. globaler Administrator, aber benötigen Rollen speziell für das CSP-Programm. Jedes Programm verfügt über Funktionen, die speziell für sie.
+Sie bestimmen die Zugriffsarten aufgeführt, die Ihre Benutzer müssen Partner Center durch die Rollen und Berechtigungen, die Sie ihnen geben. Rollen beziehen sich auf die Programme, die, denen Ihr Unternehmen beteiligt ist. Z. B. Wenn Ihr Unternehmen einen Cloud Solution Provider (CSP) ist, nicht nur müssen die standardmäßige Azure AD Mandanten Verwaltungsrollen z.B. globaler Administrator, allerdings benötigen Rollen spezifisch für das CSP-Programm. Jedes Programm verfügt über Rollen, die speziell für sie.
 
 >[!Note]
-> Azure Active Directory (AAD) Mandanten Rollen enthalten globaler Administrator, Admin Benutzer und CSP-Rollen. Nicht-AAD Rollen enthalten MPN Administrator, Administrator für das Unternehmensprofil, Administrator für Empfehlungen, Incentives-Administrator und Incentive-Benutzer. 
+> Azure Active Directory (AAD) mandantenrollen enthalten globaler Administrator, Benutzeradministrator und CSP-Rollen. Nicht-AAD-Rollen umfassen MPN Admin, Business-Profil-Admin, Verweis Admin, anreizprogramm Admin und anreizprogramm Benutzer. 
 
-### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Verwalten von kommerziellen Transaktionen im Partner Center (Azure AD und CSP Rollen)
+### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Verwalten von kommerziellen Transaktionen im Partner Center (Azure AD und CSP-Rollen)
 
-|**Rolle**|**Berechtigungen dieser Rolle**|
+|**Rolle**|**Was sie tun können**|
 |----------------------------------|:---------------------------------|
-|Globaler Administrator|• Können alle Microsoft-Konten/-Dienste mit allen Berechtigungen zugreifen.
-|      |• Supportanfragen für Partner Center erstellen
-||• Ansicht Vereinbarungen, Preislisten und Angebote
-||• Anzeigen, erstellen und Verwalten von Partnerbenutzer|
+|Globaler Administrator|• Können auf alle Microsoft-Konto/Dienste mit vollständigen Berechtigungen zugreifen.
+|      |• Erstellen von supporttickets im Partner Center
+||• Anzeigen Vereinbarungen, Preislisten und Angebote
+||• Anzeigen, erstellen und Verwalten von B2B-Zusammenarbeit|
 |Benutzeradministrator   | • Anzeigen, erstellen und Verwalten von Benutzern
-||• Alle Partnerprofile anzeigen
-||• Anzeigen, erstellen und Verwalten von Partnerbenutzer  |
-|Standard-Benutzer|  Mein Profil anzeigen   |
+||• Zeigen Sie alle aufgelisteten Partnerprofile
+||• Anzeigen, erstellen und Verwalten von B2B-Zusammenarbeit  |
+|Standardbenutzer|  Mein Profil anzeigen   |
 |Administratoragent | • Kundenverwaltung
-||• Liste der Geräte, die Partner Center< hinzufügen
-||• Erstellen und Anwenden von Profilen auf Geräte
-||• Abonnementverwaltung
-||• Dienstintegrität und Serviceanfragen für Kunden
-||• Anforderung delegierter Administratorrechte
-||• Ansicht Preise und Angebote
+||• Hinzufügen von Geräteliste zu Partner Center <
+||• Erstellen und Anwenden von Profilen für Geräte
+||• Verwaltung des Abonnements
+||• Service Health und dienstanforderungen für Kunden
+||• Anforderung delegierte Administratorberechtigungen
+||• Die Preise und Angebote
 ||• Abrechnung
 ||• Im Auftrag eines Kunden verwalten
-||• Registrieren einen Wert Vertragshändler|
+||•, Registrieren Sie ein Wert hinzugefügt, reseller|
 |Vertriebsbeauftragter | • Kundenverwaltung
-||• Geräteliste zum Partner Center hinzufügen
-||• Abonnementverwaltung
-||• Ansicht Supportanfragen
-||• Anfordern einer Beziehung mit einem Kunden
-||• Potenzielle Kunden verwalten
-||• Ansicht Kundenvertrag
+||• Das Partner Center Geräteliste hinzugefügt
+||• Verwaltung des Abonnements
+||• Anzeigen-Support-tickets
+||• Anforderung eine Beziehung mit einem Kunden
+||• Verwalten von kundenleads
+||• Anzeigen, die Kunden-Vereinbarung
 ||• Registrieren einen Wiederverkäufer|
 |Helpdesk-Agent| • Suchen und anzeigen ein Kunden
-||• Bearbeiten Kundendetails
-||• Hilfe Resolve Kunden bei Problemen mit Abrechnung oder der abonnementverwaltung
-||• Anforderung Support im Auftrag der Kunden (Hinweis: Sie müssen ein Administrator-Agent zum Ausführen dieser Aufgabe für Office 365-Abonnements sein)
-||• Verwalten von Abonnements und Diensten im Auftrag der Kunden (Hinweis: Sie müssen ein Administrator-Agent zum Ausführen dieser Aufgabe für Office 365-Abonnements sein)|
+||• Kunden Bearbeiten von details
+||• Help Resolve-Kundenprobleme mit der Verwaltung von Abrechnung oder zum Abonnement
+||• Anforderung Support für Kunden (Hinweis: Sie müssen ein Administrator-Agent zur Ausführung dieser Aufgabe für Office 365-Abonnements sein)
+||• Verwalten von Abonnements und Abrechnung Probleme im Namen von Kunden (Hinweis: Sie müssen ein Administrator-Agent zur Ausführung dieser Aufgabe für Office 365-Abonnements sein)|
 |
-### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>Control Panel-Anbieter (CPV). (CSP-Rolle und die nicht-AAD)
-CPVs Entwickeln von apps für die Verwendung von Cloud Solution Provider (CSP) Partnern setzen, um ihre Systeme mit Partner Center-APIs zu integrieren. 
+### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>Hersteller des Steuerelements Bereich (Vocabulary). (CSP-Rolle und nicht-AAD-Rolle)
+CPVs entwickeln Sie apps für die Verwendung durch Partner (Cloud Solution Provider, CSP), damit sie ihre Systeme in Partner Center-APIs integrieren können. 
 
 |**Rolle**   |**Was Sie tun können**|
 |------------------------------|:----------------------------|
 |Globaler Administrator| Zeigen Sie an und verwalten Sie Ihr Profil CPV|
-||Zeigen Sie an und verwalten Sie alle Benutzer, die Zugriff auf CPV Funktionen benötigen|
+||Zeigen Sie an und verwalten Sie Ihrer Benutzer, die Zugriff auf CPV Funktionen benötigen.|
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles"></a>Verwalten von MPN-Mitgliedschaft und Ihr Unternehmen (nicht-AAD Rollen)
+## <a name="manage-mpn-membership-and-your-company-non-aad-roles"></a>Verwalten von MPN-Mitgliedschaft und Ihres Unternehmens (nicht-AAD-Rollen)
 
 |**Rolle** | **Was Sie tun können**|
 |----------------------------|:----------------------------|
-|Administrator für MPN-Partner|•CAN nicht-Mandanten Benutzer hinzufügen
-||• Anzeigen, erstellen und Verwalten von Serviceanfragen der partner
-||• Ansicht rechtliche, Organisation, geschäftlichen und MPN-Profilen
-||• Ansicht Benutzerdetails Daten und Fähigkeiten
-||• Anzeigen von Kompetenzen
-||• Anzeigen und Verwalten von Vorteilen
-||• Anzeigen und kaufen Sie MPN-Angebote
-||Rechnungen und Bestellverlauf • Ansicht MPN-Angebote
-||• Anzeigen Partner Beitrag von Daten
-||• Können im Beleg Überprüfung Tool arbeiten.|
-||– Anzeigen von Kunden Datenanalyse
-|Administratorkonto| • Können Benutzer nicht-Mandanten hinzufügen.
-||• Hinzufügen oder Löschen von Speicherorte
-||-Verwalten Sie Profile, die im Zusammenhang mit der Konten, die Sie Administrator 
-||• Zuweisung von Rollen für Benutzer im Mandanten nicht AAD-Rollen 
-||• Speicherorte in Programme registrieren
+|Administrator für MPN-Partner|•CAN hinzufügen, ohne Benutzer
+||• Anzeigen, erstellen und Verwalten von Serviceanfragen für partner
+||• Anzeigen, die rechtlichen, Unternehmen, Unternehmen und MPN-Profile
+||• Details zum Benutzer und ihre Fähigkeiten-Daten
+||• Anzeigen Kompetenzen
+||• Anzeigen und verwalten Sie die Vorteile
+||• Anzeigen und erwerben von bietet MPN
+||• Anzeigen von MPN bietet, Bestellverlauf und Rechnungen
+||• Anzeigen Beitrag Partnerdaten
+||• Können in den Gutschein Überprüfungstool arbeiten.|
+||– Anzeigen von Datenanalysen für Kunden
+|Kontoadministrator| • Können nicht einem Mandanten Benutzer hinzufügen.
+||• Hinzufügen oder Löschen von Standorten
+||– Verwalten von Profilen, die im Zusammenhang mit den Konten, die, denen Sie Administrator sind 
+||• Zuweisen von Rollen für Benutzer im Mandanten nicht AAD-Rollen 
+||• Standorte in Programmen zu registrieren
 
-## <a name="manage-referrals-non-aad-roles"></a>Verwalten von Empfehlungen (nicht-AAD Rollen)
+## <a name="manage-referrals-non-aad-roles"></a>Verwalten von verweisen (nicht-AAD-Rollen)
 
 |**Rolle**|**Was Sie tun können**|
 |-----------------------------|:------------------------|
-|Verweise auf admin       |• Anzeigen, erstellen und Verwalten von Unternehmensprofilen
-||• Sie erhalten und Verwalten von Empfehlungen
-||• Anzeigen, erstellen und Verwalten von Serviceanfragen der partner|
-|Administrator für das Unternehmensprofil   |•View, erstellen und Verwalten des Unternehmensprofils 
-||• Anzeigen, erstellen und Verwalten von Serviceanfragen der partner|
+|Verweise auf admin       |• Anzeigen, erstellen und Verwalten von Geschäftsprofilen
+||• Empfangen und Verwalten von verweisen
+||• Anzeigen, erstellen und Verwalten von Serviceanfragen für partner|
+|Administrator für das Unternehmensprofil   |• Anzeigen, erstellen und Verwalten von Business-Profil 
+||• Anzeigen, erstellen und Verwalten von Serviceanfragen für partner|
 
-## <a name="manage-incentives--non-aad-roles"></a>Verwalten von Incentives (nicht-AAD Rollen)
+## <a name="manage-incentives--non-aad-roles"></a>Verwalten von Incentives (nicht-AAD-Rollen)
 
 |**Rolle** | **Was Sie tun können**|
 |------------------------------|:-------------------------|
-|Anreizadministrator|• Initiiert und Incentives verwaltet 
-||• Kann anzeigen und bearbeiten alle Aspekte der Incentives-Programme
-||• Kann anzeigen und Bearbeiten von Bank-und Steuerinformationen
-||• Ansicht und gemeinschaftliche Einnahmen erhalten
-||• Zugriff-Unterstützung
-||• Fall Incentive-Zahlungen|
-|Anreizbenutzer|• Können Anreizprogramme anzeigen.
-||• Kann anzeigen und Initiieren eines incentiveanspruchs
-||• Ansicht und gemeinschaftliche Einnahmen erhalten
-||• Ansicht und gemeinschaftliche Einnahmen erhalten
-||• Zugriff-Unterstützung
+|Incentives-Administrator|• Initiiert und Anreize verwaltet 
+||• Anzeigen und bearbeiten alle Aspekte der Anreize für Programme
+||• Anzeigen und bearbeiten die Bank- und Steuerdaten-details
+||• Anzeigen Rebate und Co-op-Ergebnis
+||• Unterstützung des Zugriffs
+||• Im Fall von streitigkeiten Anreize für Zahlungen|
+|Incentivebenutzer|• Können Incentives sammeln, wenn Programme anzuzeigen.
+||• Anzeigen können, und starten Incentives sammeln, wenn Ansprüche
+||• Anzeigen Rebate und Co-op-Ergebnis
+||• Anzeigen Rebate und Co-op-Ergebnis
+||• Unterstützung des Zugriffs
 
 
 

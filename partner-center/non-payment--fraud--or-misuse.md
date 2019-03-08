@@ -10,15 +10,15 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 8a4915f8ae0ad0d0b72f0e8b50f803fb8f84c17e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995904"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584383"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Nichtbezahlung, Betrug oder Missbrauch
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -46,7 +46,7 @@ Um betrügerische Aktivitäten oder Missbrauch zu vermeiden und/oder zu bekämpf
 - Weiterverkauf illegal erworbener Abonnements 
 
 #### <a name="examples-of-online-transaction-risk"></a>Beispiele für Onlinetransaktionsrisiken
-- „Kreditkarte ist nicht vorhanden”, d.h. unpersönliche Transaktionen
+- „Kreditkarte ist nicht vorhanden”, d. h. unpersönliche Transaktionen
 - Falsch angegebene Identitäten
 - Dienste bereitgestellt und verwendet, bevor die erste Zahlung eintrifft
 - Aufstrebende Märkte und hochriskante Regionen für Onlinebetrug
@@ -57,7 +57,7 @@ Um betrügerische Aktivitäten oder Missbrauch zu vermeiden und/oder zu bekämpf
 Diese Empfehlungen können Ihnen dabei helfen, Richtlinien und Praktiken zu entwickeln, mit denen Sie das Risiko von Onlinetransaktionen über den gesamten Lebenszyklus Ihrer Kundenbeziehungen reduzieren können.  
 
 #### <a name="when-onboarding-new-customers"></a>Bei Gewinnung von Neukunden
-- Versuchen Sie, möglichst persönliche Beziehungen zu den Kunden aufbauen, z.B. durch telefonische Kontaktaufnahme.
+- Versuchen Sie, möglichst persönliche Beziehungen zu den Kunden aufbauen, z. B. durch telefonische Kontaktaufnahme.
 - Suchen Sie nach besseren Möglichkeiten, um die Referenzen und den Hintergrund Ihrer Kunden zu überprüfen (Kreditbüros und Wirtschaftsauskunfteien). 
 - Aktivieren Sie die SMS-Überprüfung bei der Registrierung, um das Risiko für automatische Kontoerstellung und automatische Einkäufe zu minimieren.
 - Verwenden Sie zur Identitätsverwaltung und Nachverfolgung digitale Identifizierungsdienste.
@@ -67,7 +67,7 @@ Diese Empfehlungen können Ihnen dabei helfen, Richtlinien und Praktiken zu entw
 #### <a name="post-purchase-customer-account-management"></a>Kundenkontoverwaltung nach dem Kauf
 - Arbeiten Sie mit den Kunden zusammen, um deren grundlegenden Geschäftsanforderungen an die Clouddienstnutzung zu verstehen und geeignete Überwachung von Schwellenwerten festzulegen.
     > [!NOTE]  
-    >  Sie können im Partner Center, um die kundennutzung während des Monats zu überwachen und benachrichtigt werden, wenn Kunden nahe an ihrem Budget sind [ein monatliches Azure-Ausgaben-Budget festlegen](set-an-azure-spending-budget-for-your-customers.md) .
+    >  Sie können [legen Sie eine monatliche Azure-Ausgabenbudgets](set-an-azure-spending-budget-for-your-customers.md) im Partner Center zum Überwachen der Nutzung durch die Kunden während des Monats und benachrichtigt werden, wenn Kunden in der Nähe ihres Budgets sind.
 - Prüfen Sie die [Kundenaktivitätsprotokolle](activity-logs.md) regelmäßig, um Betrug früh zu erkennen
 - Handeln Sie schnell, wenn Sie verdächtige Aktivitäten entdecken.
 - Vermeiden Sie es, Kunden vollständigen Administratorzugriff auf Abonnements zu gewähren, wenn Sie noch keine Kontrollmechanismen zur Risikominderung implementiert haben.
@@ -81,7 +81,7 @@ Diese Empfehlungen können Ihnen dabei helfen, Richtlinien und Praktiken zu entw
 Detailliertere Strategien zur Minderung des Onlinerisikos finden Sie im der [Anleitung zur Verwaltung von Onlinetransaktionsrisiken](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip).
 
 > [!IMPORTANT]  
-> Wenn Microsoft eine Partner- oder Kundenaktivität erkennt, die von uns als Verstoß gegen die Acceptable Use-Richtlinie angesehen wird, werden wir entsprechende Durchsetzungsmaßnahmen ergreifen. Der Kunde kann unter Umständen sofort suspendiert werden. Sie werden über die Durchsetzungsmaßnahmen informiert oder erhalten von Microsoft aktuelle Informationen zu Ihren Anfragen.
+> Wenn Microsoft eine Partner- oder Kundenaktivität erkennt, die von uns als Verstoß gegen die Acceptable Use-Richtlinie angesehen wird, werden wir entsprechende Durchsetzungsmaßnahmen ergreifen. Der Kunde kann unter Umständen sofort ausgesetzt werden. Sie werden über die Durchsetzungsmaßnahmen informiert oder erhalten von Microsoft aktuelle Informationen zu Ihren Anfragen.
 
  
 

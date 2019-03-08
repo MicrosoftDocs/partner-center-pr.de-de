@@ -2,39 +2,39 @@
 title: Neuen Kunden hinzufügen | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Damit Sie Abonnements verkaufen, die Abrechnung verwalten oder Support bereitstellen können, müssen Sie einen Datensatz für den Kunden in Partner Center erstellen. Dieser Datensatz enthält die Kontaktinformationen und eine AzureAD-Domäne.
+description: Damit Sie Abonnements verkaufen, die Abrechnung verwalten oder Support bereitstellen können, müssen Sie einen Datensatz für den Kunden in Partner Center erstellen. Dieser Datensatz enthält die Kontaktinformationen und eine Azure AD-Domäne.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Kunden, Kunden hinzufügen, Kundenkonto, Kundenkonto im Partner Center, Hinzufügen von Kunden, Kundenkonto erstellen
 ms.localizationpriority: medium
 ms.openlocfilehash: 72b02ad430bc0ce434e3de25380ef043e59ac08d
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683689"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586243"
 ---
 # <a name="add-a-new-customer"></a>Neuen Kunden hinzufügen
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
 
 
 
-Bevor Sie können Abonnements verkaufen, Abrechnung verwalten oder Bereitstellen von Support, müssen Sie ein Konto für den Kunden in Ihrem Partner Center erstellen. Dieser Datensatz enthält die Kontaktinformationen und eine AzureAD-Domäne.
+Bevor Sie können Abonnements zu verkaufen, Verwalten der Abrechnung oder unterstützen, müssen Sie ein Konto für Ihren Kunden in Ihrem Partner Center zu erstellen. Dieser Datensatz enthält die Kontaktinformationen und eine Azure AD-Domäne.
 
 Für Kunden, die aufgrund eines [Multichannel](multichannel.md)- oder [Multipartner](multipartner.md)-Szenarios bereits ein Kundenkonto besitzen, können Sie [eine Kundenbeziehung anfordern](request-a-relationship-with-a-customer.md), statt die hier aufgeführten Schritte auszuführen.
 
-**Neuen Kunden hinzufügen**
+**Hinzufügen eines neuen Kunden**
 
-1.  Wählen Sie im **Partner Center** -Menü **Kunden**aus. Wählen Sie dann **Kunden hinzufügen**.
+1.  Von der **Partner Center** , wählen Sie im Menü **Kunden**. Wählen Sie dann **Kunden hinzufügen**.
 
-2.  Geben Sie auf der Seite **Kontoinformationen** die Unternehmensdetails und die primären Kontaktinformationen ein, und wählen Sie dann **Weiter: Abonnements**.
+2.  Auf der **Kontoinformationen** Seite, füllen Sie die Details zu Unternehmen und die primären Kontaktinformationen, und wählen Sie dann **weiter: Abonnements**.
 
-3.  Wählen Sie auf der Seite **Abonnements** die richtigen Angebote aus, geben Sie die Anzahl der Lizenzen ein, und wählen Sie **Weiter: Überprüfung**.
+3.  Auf der **Abonnements** Seite, wählen Sie die richtige Angebote, geben Sie die Anzahl der Lizenzen und wählen Sie dann **weiter: Überprüfen Sie**.
 
 4.  Überprüfen Sie auf der Seite **Überprüfung** Ihre Einträge auf Genauigkeit, klicken Sie auf **Bearbeiten**, um Änderungen am Konto oder an den Angeboten vorzunehmen, und klicken Sie dann auf **Übermitteln**.
 

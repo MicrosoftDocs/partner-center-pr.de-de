@@ -3,20 +3,20 @@ title: Messaging-Kompetenz
 ms.topic: article
 ms.date: 10/29/2018
 description: Die Messaging-Kompetenz erkennt Partner an, die sich einen Wettbewerbsvorteil verschaffen, Vertriebszyklen verkürzen und ihr Unternehmen ausweiten, indem sie ihre Fähigkeiten als qualifizierter Microsoft Exchange-Lösungsanbieter demonstrieren.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: Kompetenz,Kompetenzen,Messaging
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 04aa26af89dc183ce9e07b9020a50d6d4dfa87d1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 886a12c6e9ce4783e465e8562428f01ab5f51a7e
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796933"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586423"
 ---
 >[!IMPORTANT]
->Weitere Informationen zu den Anforderungen für die Erreichung dieses Kompetenz besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
+>Weitere Informationen zu den Anforderungen zur Erlangung dieser Kompetenz finden Sie im [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
 
 <!--
 #Messaging

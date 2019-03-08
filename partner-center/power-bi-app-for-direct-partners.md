@@ -8,16 +8,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: fe82e88bab3c654cbdc5d7b704dc2a9526ba38cb
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: f111fd4f3f75acac025021c24a71f4778dd165c0
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917452"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587123"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Partner Center Analytics-App für Power BI (für direkte Partner im CSP)
 
-**Betrifft**
+**Gilt für**
 
 - Partner Center
 
@@ -30,7 +30,7 @@ Installieren Sie die App, um folgende grafischen Ansichten zu erhalten:
 
 -   Wachstum bei Kundenstamm, Abonnements und Lizenzen
 
--   Verwendung von Office365-, Microsoft Dynamics- und Microsoft Azure-Produkten
+-   Verwendung von Office 365-, Microsoft Dynamics- und Microsoft Azure-Produkten
 
 -   Tägliche Verbrauchseinheiten für jede gemessene Ressource in jedem Azure-Abonnement in den letzten 60 Tagen
 
@@ -47,16 +47,16 @@ Es wird empfohlen, das Sie vor der Installation der App die Antworten auf häufi
 | Was kostet diese App? | Die App ist kostenlos. Um die App als Vorschau anzuzeigen, können Sie sich [für den kostenlosen Power BI-Dienst anmelden](https://go.microsoft.com/fwlink/p/?linkid=845347) und diesen zum Anpassen von Dashboards und Berichten nutzen. Damit andere Personen in Ihrem Unternehmen die App verwenden können, benötigen Sie nur ein aktives Abonnement für Microsoft Power BI Professional oder Microsoft Power BI Premium. |
 | Wer kann sich mit der Partner Center Analytics-App verbinden? | Diese Version der App ist für direkte Partner (Ebene 1) im Cloud-Lösungsanbieter-Programm entwickelt. Sie sind direkter Partner, wenn Sie direkt mit Microsoft und Kunden arbeiten. Um die App zu installieren, müssen Sie ein globaler Administrator, Admin-Agent oder Abrechnungsadministrator Ihres Unternehmens sein. |
 | Ich bin einem indirekter Anbieter. Kann ich die App verwenden? | Ja. Ihre globaler Administrator, Admin-Agent oder die Abrechnungsadmin kann sie installieren und Daten über Ihre Kunden anzeigen. Zukünftige Versionen enthalten möglicherweise Features, mit denen Sie auch Daten über Ihre indirekte Reseller sehen. |
-| Wie kann ich mehr über zukünftige Versionen erfahren? | Ankündigungen und Preview-Versionen werden über das Partner Center Early Adopter-Programm verfügbar gemacht. Wenn Sie noch nicht am Programm teilnehmen, melden Sie sich jetzt unter [https://partnercenter.microsoft.com/en-us/partner/early-adopter-program](https://partnercenter.microsoft.com/en-us/partner/early-adopter-program). Sie können auch Ihr Feedback über das Early Adopter-Programm bereitstellen. |
+| Wie kann ich mehr über zukünftige Versionen erfahren? | Ankündigungen und Preview-Versionen werden über das Partner Center Early Adopter-Programm verfügbar gemacht. Wenn Sie noch nicht am Programm teilnehmen, melden Sie sich jetzt an unter [https://partnercenter.microsoft.com/en-us/partner/early-adopter-program](https://partnercenter.microsoft.com/en-us/partner/early-adopter-program). Sie können auch Ihr Feedback über das Early Adopter-Programm bereitstellen. |
 | Wer kann Dashboards und Berichte in der App anpassen? | Nur der globale Administrator, Admin-Agent oder Abrechnungasdministrator, der die App installiert hat, kann das Dashboard anpassen oder neue Berichte in der Power BI-Web-Benutzeroberfläche erstellen. |
 | Wer kann Dashboards und Berichte in der App anzeigen? | Die globaler Administrator, Admin-Agent oder Abrechnungsadministrators, der die App installiert hat, kann die App-Daten für alle Benutzer freigeben, die über ein aktives Abonnement für Microsoft Power BI Professional oder Microsoft Power BI Premium verfügen. |
 | Kann ich die App zum Anzeigen von Daten aus mehreren Azure AD-Mandanten an verschiedenen Standorten verwenden? | In dieser Version können Sie nur die Daten aus dem Azure AD-Mandanten anzeigen, für den der globale Administrator oder Admin-Agent registriert ist. | 
-| Wann wird die App in weiteren Sprachen verfügbar sein? | Entsprechende Ankündigungen werden über das Partner Center Early Adopter-Programm verfügbar gemacht. Wenn Sie noch nicht am Programm teilnehmen, melden Sie sich jetzt unter [https://partnercenter.microsoft.com/en-us/partner/early-adopter-program](https://partnercenter.microsoft.com/en-us/partner/early-adopter-program). Sie können auch Ihr Feedback über das Early Adopter-Programm bereitstellen. | 
+| Wann wird die App in weiteren Sprachen verfügbar sein? | Entsprechende Ankündigungen werden über das Partner Center Early Adopter-Programm verfügbar gemacht. Wenn Sie noch nicht am Programm teilnehmen, melden Sie sich jetzt an unter [https://partnercenter.microsoft.com/en-us/partner/early-adopter-program](https://partnercenter.microsoft.com/en-us/partner/early-adopter-program). Sie können auch Ihr Feedback über das Early Adopter-Programm bereitstellen. | 
 
 
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-[Installation und Vorschau mit der Partner Center Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
+[Installieren und Anzeigen der Partner Center Analytics-app für Microsoft Power BI-Vorschau](power-bi-app-for-direct-partners-install.md)
 
-[Ihre Geschäftsdaten mit der Partner Center Analytics-App für Microsoft Power BI anzeigen](power-bi-app-for-direct-partners-use.md)
+[Zeigen Sie Ihre Daten mit der Partner Center Analytics-app für Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

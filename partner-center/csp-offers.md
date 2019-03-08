@@ -1,81 +1,81 @@
 ---
-title: Partner im Cloud-Lösungsanbieter-Programm bietet | Partner Center
+title: Partnerangebote im Programm für Cloud Solution Provider | Partner Center
 ms.topic: article
 ms.date: 03/01/2019
-description: Informationen Sie zu Angebote für Partner, die über das Cloud-Lösungsanbieter-Programm verkaufen verfügbar.
+description: Erfahren Sie von den verfügbaren Angeboten für Partner, die über das Cloud Solution Provider-Programm verkaufen.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Hinzufügen eines Produkts, Verkauf an Kunden, Partnerangebote, CSP-Angebote, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner im CSP, Azure RI verkaufen, Azure reserved VM-Instanzen, Azure Reservations, online-Dienste, Abonnementsoftware, AHUB, SQL Server auf Azure, Windows Server auf Azure, Abonnements des Kunden
+keywords: Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Produkt hinzufügen, an Kunden verkaufen, Partnerangebote, CSP-Angebote, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner, in CSP verkaufen, Azure-RI, Azure Reserved Virtual Machine Instances, Azure Reservations, Onlinedienste, Abonnementsoftware, AHUB, SQL Server auf Azure, Windows Server auf Azure, Kundenabonnements
 ms.localizationpriority: medium
 ms.openlocfilehash: ea246701f57615064a87abb37cecafbb0d9151dc
-ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2019
-ms.locfileid: "9122257"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586713"
 ---
-# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Partner bietet im Cloud-Lösungsanbieter-Programm 
+# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Partnerangebote im Cloud Solution Provider-Programm 
 
-**Betrifft:**
+**Gilt für**
 
 -  CSP-Partner
 
-Microsoft-Partner im Cloud-Lösungsanbieter-Programm (CSP) ist einen wachsenden Katalog Angebote, die Ihnen zur Verfügung. Sie können das gesamte Spektrum der [Microsoft Cloud Services](https://partner.microsoft.com/cloud-solution-provider/products-and-services) verkaufen, sowie eine Vielzahl zusätzlicher Angebote, die sich häufig ändern. Um die aktuellen CSP-Angebote dieses Monats zu finden, melden Sie sich im Partner Center an und wechseln Sie auf die Seite [**Preise und Angebote**](https://partnercenter.microsoft.com/pcv/sales).  
+Microsoft-Partner des Cloud Solution Provider-Programms (CSP) verfügen über einen wachsenden Katalog an verfügbaren Angeboten. Sie können das gesamte Spektrum der [Microsoft Cloud Services](https://partner.microsoft.com/cloud-solution-provider/products-and-services) verkaufen sowie eine Vielzahl zusätzlicher Angebote, die sich häufig ändern. Um die aktuellen CSP-Angebote dieses Monats zu finden, melden Sie sich im Partner Center an und wechseln Sie auf die Seite [**Preise und Angebote**](https://partnercenter.microsoft.com/pcv/sales).  
 
-Noch nicht die Cloud-Lösungsanbieter-Programm teilnehmen? Weitere Informationen zum Registrieren finden Sie auf [Cloud-Lösungsanbieter](https://partner.microsoft.com/cloud-solution-provider) . 
+Noch nicht für das Programm für Cloud Solution Provider registriert? Unter [Cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider) finden Sie weitere Informationen zum Registrieren. 
 
-## <a name="what-you-can-sell-through-csp"></a>Was können Sie über CSP verkaufen.
+## <a name="what-you-can-sell-through-csp"></a>Was Sie über CSP verkaufen können
 
-Derzeit können Sie die folgenden Arten von Produkten und Diensten für Ihre Kunden CSP verkaufen:
+Derzeit können Sie die folgenden Arten von Produkten und Dienstleistungen an Ihre CSP-Kunden verkaufen:
 
 - Azure Reservations<br> 
 
-    Kunden können für einen 1 – oder 3-Jahres-Zeitraum Speicherplatz auf virtuellen Azure-Computern im Voraus reservieren.<br>
+    Kunden können im Voraus Speicherplatz auf virtuellen Azure-Maschinen für einen Zeitraum von ein oder drei Jahren reservieren.<br>
     
-    Weitere Informationen finden Sie unter [Verkaufen Microsoft Azure Reserved VM Instances](azure-reservations.md).
+    Weitere Informationen finden Sie unter [verkaufen Microsoft Azure Reserved VM Instances](azure-reservations.md).
 
 - Software<br>
 
-    Kunden können softwareabonnements (für Windows Server und SQL Server für einen 1 – oder 3-Jahres-Zeitraum, auf Azure reserved VM Instances ausgeführt) erwerben.<br>
+    Kunden können Softwareabonnements kaufen (für Windows Server und SQL Server für einen Zeitraum von ein oder drei Jahren zur Ausführung von Azure Reserved VM Instances).<br>
  
-    Weitere Informationen finden Sie in der [softwareabonnements über CSP verkaufen](csp-software-subscriptions.md).  
+    Weitere Informationen finden Sie unter [verkaufen Sie Software von Abonnements im CSP-Programm](csp-software-subscriptions.md).  
 
 - Onlinedienste<br>
 
-    *Online-Dienste* ist der neue Name für die derzeit *Abonnements*werden sogenannte. Um leichter zu bestellen und mehrere Arten von Produkten an einem zentralen Ort bezahlen, haben wir den Ablauf der Aufgabe "Abonnement hinzufügen" in den "Produkte hinzufügen" Aufgabe Flow integriert.<br>
+    *Onlinedienste* ist die neue Bezeichnung für die heutigen *Abonnements*. Um die Bestellung und Bezahlung mehrerer Arten von Produkten an einem zentralen Ort zu vereinfachen, haben wir den Aufgabenverlauf "Abonnement hinzufügen" in den Aufgabenverlauf "Produkte hinzufügen" integriert.<br>
     
     Weitere Informationen finden Sie unter [Kundenabonnements](customer-subscriptions.md).
 
-- Software-as-a-Service (SaaS) und andere [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace) -Produkte<br>
+- Software-as-a-Service (SaaS) und andere [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace) Produkte<br>
 
-    Sie können Abonnements unabhängige Softwareanbieter (ISVs) SaaS-Produkte verkaufen. Um anzuzeigen, dass nur SaaS in **Online-Dienste**bieten, mithilfe der Filter **Herausgeber** auf **Partner**festgelegt. Dadurch werden alle angezeigt, Angebote SaaS, die, die für diesen Kunden erworben werden kann.<br>
+    Sie können Abonnements für SaaS-Produkte von unabhängigen Softwareanbietern (ISVs) verkaufen. Um nur SaaS-Angebote in finden Sie unter **Onlinedienste**, mithilfe der Filter festgelegt **Verleger** zu **Partner**. Dadurch werden alle angezeigt, dass SaaS bietet, die für diesen Kunden erworben werden können.<br>
     
-    Sie können auch Informationen zu diesen Produkten auf der Seite " **Marketplace** " ermitteln. Beachten Sie, dass diese Seite enthält auch Informationen zu anderen Arten von Produkten im Azure-Portal nicht Partner Center erworben werden muss.<br>
+    Sie erhalten auch Informationen zu diesen Produkten auf die **Marketplace** Seite. Beachten Sie, dass diese Seite enthält auch Informationen zu anderen Arten von Produkten über die Azure-Portal nicht Partner Center erworben werden müssen.<br>
 
-    Weitere Informationen finden Sie unter [Verkaufen von Abonnements für Azure Marketplace-Produkte](sell-marketplace-products.md)
+    Weitere Informationen finden Sie unter [Abonnements zu Produkten von Azure Marketplace verkaufen](sell-marketplace-products.md)
 
 
-## <a name="buy-csp-offers"></a>Kaufen Sie CSP-Angebote
+## <a name="buy-csp-offers"></a>Erwerben von CSP-Angeboten
 
-Um Produkte und Dienste im Auftrag Ihrer Kunden CSP erwerben, Sie wählen die Elemente, die der Kunde möchte sie Ihre Einkaufswagen hinzufügen, die eine Bestellung erstellt wird, die und Sie für den Auftrag bezahlen. Die allgemeine Vorgehensweise wird nachfolgend beschrieben. (Weitere Informationen zu Aufträge für ein bestimmtes Produkt-Typ, finden Sie die Links oben.)
+Um Produkte und Dienste im Auftrag Ihrer CSP-Kunden zu kaufen, wählen Sie die Elemente aus, die der Kunde wünscht, fügen sie Ihrem Einkaufswagen hinzu, wodurch eine Bestellung erstellt wird, und überprüfen und bezahlen dann den Auftrag. Der allgemeine Prozess wird unten beschrieben. (Weitere Informationen zu Bestellungen für ein bestimmtes Produkt, finden Sie die oben aufgeführten Links.)
 
-1. Wählen Sie **Kunden** aus dem Menü "Partner Center", und suchen Sie den Kunden, die von Ihnen kaufen möchte. 
+1. Wählen Sie **Kunden** im Partner Center-Menü und suchen Sie dann auf die Kunden, die von Ihnen kaufen möchte. 
 
-2. Wählen Sie den Pfeil nach unten am Ende der Zeile des Kunden, um den Datensatz des Kunden zu erweitern, und wählen Sie dann die **Produkte hinzufügen**. Ab hier out, Sie eine Bestellung erstellen. Eine Bestellung kann mehrere Elemente verschiedener Typen enthalten müssen, aber sie alle für denselben Kunden.
+2. Wählen Sie den Pfeil nach unten am Ende der Kundenzeile, um die Kundendaten zu erweitern, und wählen Sie dann **Produkte hinzufügen** aus. Ab hier wird eine Bestellung erstellt. Eine Bestellung kann mehrere Elemente unterschiedlicher Art enthalten, sie müssen aber alle für denselben Kunden sein.
 
-3. Wählen Sie auf der Seite **Produkte hinzufügen** von **Azure**, **Online-Dienste**oder **Software**.
+3. Wählen Sie auf der Seite **Produkte hinzufügen** aus **Azure**, **Onlinedienste** oder **Software** .
 
-4. Optimieren der verfügbaren Filter, um die Produkte leichter zu finden, die Sie benötigen. Legen Sie die vollständige Liste der verfügbaren finden anwendbar Filter auf **Alle**. 
+4. Optimieren Sie die verfügbaren Filter, um die Produkte leichter zu finden, die Sie suchen. Um die vollständige Liste der verfügbaren Elemente anzuzeigen, legen Sie die entsprechenden Filter auf **beliebig** fest. 
 
-5. Wählen Sie das Produkt, die, das der Kunde möchte, geben Sie die gewünschte Menge, und wählen Sie dann **in den Einkaufswagen**.
+5. Wählen Sie das Produkt aus, das der Kunde möchte, geben Sie die gewünschte Menge ein, und wählen Sie dann **In den Einkaufswagen**.
 
-6. Wiederholen Sie die Schritte 4 und 5, bis Sie alle erforderlichen Elemente Ihrem Warenkorb hinzugefügt haben. Wählen Sie **Überprüfung**, um sicherzustellen, dass Ihre Bestellung korrekt ist.  
+6. Wiederholen Sie die Schritte 4 und 5, bis Sie alle erforderlichen Elemente hinzugefügt haben. Wählen Sie **Überprüfung**, um sicherzustellen, dass Ihre Bestellung korrekt ist.  
 
-7. Überprüfen Sie auf der Seite **Bestellungen überprüfen** oder ändern Sie die Produkte und die Menge ein, und wählen Sie dann **kaufen** , um die Bestellung zu erwerben. 
+7. Überprüfen Sie auf der Seite **Bestellungen überprüfen** die Produkte und die Menge (bzw. ändern Sie diese), und wählen Sie dann **Kaufen** aus. 
 
-8. Die Details Ihrer Bestellung, einschließlich Ihre Bestellnummer, werden auf der nächsten Seite angezeigt. Wählen Sie **Fertig** und wechseln Sie auf die Seite **Bestellverlauf**. 
+8. Die Details Ihrer Bestellung, einschließlich Ihrer Bestellnummer, werden auf der nächsten Seite angezeigt. Wählen Sie **Fertig**, und wechseln Sie auf die Seite **Bestellverlauf**. 
 
 > [!NOTE]
-> [**Grundlagen zur Abrechnung**](https://docs.microsoft.com/en-us/partner-center/billing-basics)finden Sie Informationen zur Funktionsweise von Abrechnungsprozess.
+> Weitere Informationen zur Funktionsweise des Abrechnungsprozesses finden Sie unter [ **Grundlagen der Abrechnung**](https://docs.microsoft.com/en-us/partner-center/billing-basics).
 
 

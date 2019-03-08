@@ -7,16 +7,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 800e816ad882b11721f26f7c219997de7a33e416
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 5322b85cf8fb57d1c8cc203d39a3412f3e119772
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776474"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587673"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Aktualisieren der Microsoft Partner Network-Mitgliedschaft
 
-**Betrifft:**
+**Gilt für**
 
 -  Partner Center
 
@@ -24,7 +24,7 @@ Das Partnerprogramm von Microsoft bietet die folgenden drei Mitgliedschaftsoptio
 
 - **Netzwerkmitgliedschaft.** Die Basismitgliedschaft bietet Einstiegsvorteile für Schulungen, Support und Kundenkontakte. Sie müssen ein Netzwerkmitglied sein, um Ihre Mitgliedschaft zu aktualisieren.
 
-- **Microsoft Action Pack-Abonnement-Mitgliedschaft.** Ein kostengünstiges Jahresabonnement für kleine und mittelständische Partnerunternehmen. Enthält die Einsteigervorteile, die in der Basisnetzwerkmitgliedschaft enthalten sind, plus Bereitstellungen von Dienstabonnements, Softwarelizenzen und Support mit internen Nutzungsrechten.
+- **Mitgliedschaft in der Microsoft Action Pack-Abonnement.** Ein kostengünstiges Jahresabonnement für kleine und mittelständische Partnerunternehmen. Enthält die Einsteigervorteile, die in der Basisnetzwerkmitgliedschaft enthalten sind, plus Bereitstellungen von Dienstabonnements, Softwarelizenzen und Support mit internen Nutzungsrechten.
 
 - **Microsoft-Kompetenzen.** Ein Auszeichnung, die sich Ihr Unternehmen für seine Kenntnisse verdient hat. Umfasst Einsteigervorteile, zusätzliche interne Nutzungsrechte, Qualifikation für Partner-Incentives und zusätzliche Support- und Beratungsstunden.
 
@@ -32,7 +32,7 @@ Das Partnerprogramm von Microsoft bietet die folgenden drei Mitgliedschaftsoptio
 
   - Gold-Kompetenz – erstklassige Kenntnisse in einem bestimmten Bereich der Microsoft-Lösungen
 
-Nachdem Sie dem Microsoft Partner Network beigetreten sind, haben Sie Anspruch auf die Aktualisierung Ihrer Mitgliedschaft und den Erwerb exklusiver Mitgliedschaftsvorteilsangebote. Weitere Informationen über die Mitgliedschaft im Microsoft Partner Network, wechseln Sie zu [https://partner.microsoft.com](https://partner.microsoft.com).
+Nachdem Sie dem Microsoft Partner Network beigetreten sind, haben Sie Anspruch auf die Aktualisierung Ihrer Mitgliedschaft und den Erwerb exklusiver Mitgliedschaftsvorteilsangebote. Weitere Informationen über die Mitgliedschaft im Microsoft Partner Network finden Sie unter [https://partner.microsoft.com](https://partner.microsoft.com).
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Kauf eines Microsoft Action Pack-Abonnements
@@ -41,27 +41,27 @@ Action Pack ist ein kostengünstiges jährliches Abonnement für Dienste, Softwa
 
 - erstklassige Entwicklertools zum Erstellen von Anwendungen und Lösungen für Ihre Kunden unter iOS, Android, Linux und Windows zu verwenden. 
 
-- zehn Windows10 Enterprise-Lizenzen (Upgrade), drei Visual Studio Professional-Lizenzen und ein kostenloses Visual Studio Team Services-Konto zu erhalten. 
+- zehn Windows 10 Enterprise-Lizenzen (Upgrade), drei Visual Studio Professional-Lizenzen und ein kostenloses Visual Studio Team Services-Konto zu erhalten. 
 
 - bis zu zehn Office 365 (E3)-Arbeitsplätze sowie fünf Arbeitsplätze von Enterprise Mobility Suite und Microsoft Dynamics CRM Online Professional zu erhalten.
 
 - monatlich 100 US-Dollar Microsoft Azure-Gutschriften zu erhalten.
 
-Weitere Informationen zu Microsoft Action Pack finden Sie unter [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
+Weitere Informationen zum Microsoft Action Pack finden Sie unter [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
 
 > [!NOTE]  
-> Über diesen Link gelangen Sie zu einer anderen Website. Kehren Sie zurück zu dieser Website, die Partner Center-Website, um Action Pack zu abonnieren.
+> Über diesen Link gelangen Sie zu einer anderen Website. An diesem Standort, der Partner Center-Website, um das Action Pack abonniert zurück.
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Abonnieren von Microsoft Action Pack
 
-1. Wählen Sie auf der **Partner Center** -Menü **Partnerschaft > Angebote**. Microsoft Action Pack ist unter **Verfügbare Angebote** aufgeführt. Wählen Sie **Subscribe now**. 
+1. Auf der **Partner Center** , wählen Sie im Menü **Partnerschaft > bietet**. Microsoft Action Pack ist unter **Verfügbare Angebote** aufgeführt. Wählen Sie **Subscribe now**. 
 
 2. Wählen Sie **Weiter**, um die [Bestimmungen](https://go.microsoft.com/fwlink/?linkid=842232) für interne Nutzungsrechte zu akzeptieren, die durch Microsoft Partner Network gewährt werden.  
 
 3. Wählen Sie **Weiter**, um Zahlungsdetails hinzuzufügen. 
 
-4. Wählen Sie **Get started! Add a way to pay**, wenn Sie Zahlungsdetails eingeben müssen. 
+4. Wählen Sie **beginnen! Fügen Sie eine Möglichkeit, bezahlen** , wenn Sie Payment-Details eingeben müssen. 
 
 5. Geben Sie Ihre Zahlungsdetails ein, und wählen Sie dann **Weiter**.
 
@@ -73,7 +73,7 @@ Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Tag verlängert
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Deaktivieren der automatischen Verlängerung des Action Pack-Abonnements
 
-1. Wählen Sie auf der **Partner Center** -Menü **Partnerschaft > Angebote**. Microsoft Action Pack ist unter **Purchased offers** aufgeführt.
+1. Auf der **Partner Center** , wählen Sie im Menü **Partnerschaft > bietet**. Microsoft Action Pack ist unter **Purchased offers** aufgeführt.
 
 2. Wählen Sie **Microsoft Action Pack-Abonnement** aus, um die Abonnementdetails anzusehen. 
 
@@ -85,7 +85,7 @@ Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Tag verlängert
 
 ### <a name="renew-your-action-pack-subscription"></a>Action Pack-Abonnement verlängern
 
-1. Wählen Sie auf der **Partner Center** -Menü **Partnerschaft > Angebote**. Microsoft Action Pack ist unter **Purchased offers** aufgeführt.
+1. Auf der **Partner Center** , wählen Sie im Menü **Partnerschaft > bietet**. Microsoft Action Pack ist unter **Purchased offers** aufgeführt.
 
 2. Wählen Sie **Microsoft Action Pack-Abonnement** zum Anzeigen der Abonnementdetails, und wählen Sie dann **Renew subscriptions** unter **Aktionen**.  
 
@@ -95,7 +95,7 @@ Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Tag verlängert
 
 5. Wählen Sie **Weiter**, um Zahlungsdetails hinzuzufügen. 
 
-6. Wählen Sie **Get started! Add a way to pay**, wenn Sie Zahlungsdetails eingeben müssen. 
+6. Wählen Sie **beginnen! Fügen Sie eine Möglichkeit, bezahlen** , wenn Sie Payment-Details eingeben müssen. 
 
 7. Geben Sie Ihre Zahlungsdetails ein, und wählen Sie dann **Weiter**.
 
@@ -116,19 +116,19 @@ Wenn Sie Ihr Microsoft Action Pack-Abonnement kündigen möchten, müssen Sie si
 
 3. Erweitern Sie die Liste **Problemtyp**, und wählen Sie **Help with partner invoice, payment, or reconciliation file**. 
 
-4. Geben Sie die erforderlichen Informationen ein, und wählen Sie dann **Übermitteln**. Das Partner Center-Support-Team wird Sie kontaktieren, um Sie beim Kündigen Ihres Abonnement zu unterstützen.
+4. Geben Sie die erforderlichen Informationen ein, und wählen Sie dann **Übermitteln**. Das Partner Center-Support-Team wird Sie kontaktieren, um Sie beim Kündigen Ihres Abonnements zu unterstützen.
 
     Um den Status Ihrer Serviceanfrage zu überprüfen, wählen Sie **Serviceanfragen > Partner Center-Anfragen** und dann **Öffnen**. Wählen Sie die entsprechende Serviceanfrage aus der Liste aus.  
 
  
 ### <a name="next-steps"></a>Nächste Schritte
 
-[Aktivieren Ihres Action Pack-Abonnements](manage-your-partner-network-benefits.md)
+[Aktivieren Sie Ihres Abonnements für Action Pack](manage-your-partner-network-benefits.md)
 
 
 ### <a name="related-topics"></a>Verwandte Themen
 
-[Hinzufügen von Benutzern und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
+[Hinzufügen von Benutzern und Berechtigungen zuweisen](create-user-accounts-and-set-permissions.md)
 
 
 

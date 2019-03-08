@@ -1,61 +1,61 @@
 ---
-title: Office 365-Behörden GCC Partnern und Kunden Eligibility Kriterien | Partner Center
+title: Office 365 Government GCC – Zulassungskriterien für Partner und Kunden | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Verfahren für die Überprüfung von Partnern und Kunden für Office 365-Behörden GCC für CSP.
+description: Verfahren zum Überprüfen von Partnern und Kunden für Office 365 Government GCC für CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a7aa26c44e09285b2d6cdb69d83f756e15493497
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794833"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586953"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Behörden GCC für CSP-Partner und Kundenkriterien
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Government GCC für CSP – Zulassungskriterien für Partner und Kunden
 
-**Betrifft:**
+**Gilt für**
 
 -  Partner Center
 -  CSP-Partner
 
 >[!NOTE]
->Die Validierungsprozess und die unten beschriebenen Kriterien sind spezifisch für direkte Rechnung Partner. Online-Dienst Partnern zählen direkte Händler und indirekte Anbieter.  Wenn Sie ein indirekter Wiederverkäufer sind erkundigen Sie sich bei Ihrem indirekten Anbieter. 
+>Der Überprüfungsprozess und die unten aufgeführten Kriterien gelten spezifisch für Direct Bill-Partner. Direct Bill-Partner umfassen direkte Händler und indirekte Anbieter.  Wenn Sie indirekter Händler sind, arbeiten Sie mit Ihrem indirekten Anbieter zusammen. 
 
-Wenn Sie möchten, dass Ihre Organisation oder Ihrer Kundenorganisation für CSP für Office 365-Behörden GCC genehmigt sind, überprüfen Sie die folgenden Anforderungen.
+Wenn Sie möchten, dass Ihr Unternehmen oder das Ihres Kunden für Office 365 Government GCC für CSP zugelassen wird, überprüfen Sie die folgenden Anforderungen.
 
-Sie konnte genehmigt werden, wenn Sie ein Partner serving US Bundesbehörden, staatliche, lokale oder sowie stammeseinrichtungen Regierungsstellen sind. Um Ihre Organisationen Berechtigung überprüft haben, füllen Sie das kurze Formular befindet sich [hier](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
+Sie können zugelassen werden, wenn Sie ein Partner sind, der für US-Behörden auf staatlicher, bundesstaatlicher, lokaler oder kommunaler Ebene arbeitet. Um die Qualifikation Ihres Unternehmens überprüfen zu lassen, füllen Sie das kurze Formular [hier ](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner) aus.
 
-Ihr Kunde konnte genehmigt werden, wenn sie eine Organisation, die Behörden gesteuert Daten verarbeitet werden oder eine US Bundesbehörden, staatliche, lokale oder sowie stammeseinrichtungen Regierungsbehörde werden. Ihre Kunden haben Organisationen Eligibility überprüft, füllen Sie das kurze Formular befindet sich [hier](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
+Ihr Kunde kann zugelassen werden, wenn er von Behörden regulierten Daten verarbeitet oder eine behördliche Einrichtung auf staatlicher, bundesstaatlicher, lokaler oder kommunaler Ebene ist. Um die Qualifikation Ihres Kunden überprüfen zu lassen, füllen Sie das kurze Formular [hier ](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer) aus. 
 
--   Ihrer Organisation muss in der Cloud-Lösungsanbieter-Programm [registriert](https://partnercenter.microsoft.com/partner/cloud-solution-provider) ist, ist eine Voraussetzung für Office 365-Behörden GCC für CSP genehmigt werden.
--   Ein schrittweise Überprüfung Prozess-Leitfaden für Office 365-Behörden GCC für CSP befindet sich [hier](https://go.microsoft.com/fwlink/?linkid=2007323).
--   Wenden Sie sich an [RSC Unterstützung Eskalationen](mailto:usgcce@microsoft.com) zusätzliche Überprüfung Fragen oder Bedenken.
+-   Ihre Organisation muss für das Cloud Solution Provider-Programm [registriert](https://partnercenter.microsoft.com/partner/cloud-solution-provider) sein. Dies ist eine Voraussetzung für die Zulassung für Office 365 Government GCC für CSP.
+-   Eine schrittweise Anleitung zum Prüfprozess für Office 365 Government GCC für CSP finden Sie [hier](https://go.microsoft.com/fwlink/?linkid=2007323).
+-   Wenn Sie weitere Fragen oder Anliegen haben, kontaktieren Sie [RSC Support Escalations](mailto:usgcce@microsoft.com).
 
-Office 365-Behörden GCC für CSP-Partner und Kunden wird überprüft, für die Berechtigung basierend auf bestimmten Kriterien unten beschrieben.
+Office 365 Government GCC für CSP-Partner und -Kunden werden basierend auf bestimmten Kriterien (siehe unten) überprüft.
 
-**Partner Kriterien**
-1.  Stellt die Dienste oder Lösungen in US-Behördenkunden über direkt oder indirekt Verträge
-2.  Dient US Regierungskunden über GSA oder anderen Vertrag Fahrzeugen
+**Kriterien für Partner**
+1.  Liefert Dienste oder Lösungen an US-Behördenkunden im Rahmen von direkten oder indirekten Verträgen
+2.  Beliefert US-Behördenkunden via GSA oder andere Vertragswerkzeuge
 
 **Kundenkriterien**
-1.  US-Behörden Entität in vollem Kommunen. Beispiel:
+1.  US-Behörde mit entsprechenden Funktionen Zum Beispiel:
  
-    -  Federal Agency (z. B. Bureau, Agency, Abteilung oder andere Entität der US-Regierung)
-    -   Zustand/Local Entität 
-    -   Sowie stammeseinrichtungen Entität
-    -   Regionale oder zwischenstaatlicher Behörden Entitäten (aber keine internationalen Entitäten)
-    -   Regierung finanzierte Forschung und Entwicklung Centers (FERDCs)
+    -  Behörde (z. B. Amt, Agentur, Ministerium oder andere Einrichtung der US-Regierung)
+    -   Staatliche/lokale Entität 
+    -   Kommunale Entität
+    -   Regionale oder zwischenstaatliche Entitäten (jedoch keine internationalen Entitäten)
+    -   Federally Funded Research and Development Center (FERDCs)
 
-2.  Kommerzielle private Entität mit Daten, die unterliegen Vorschriften sind. Zulässige Behörden Datentypen umfassen: 
+2.  Kommerzielle private Entität mit Daten, für die behördliche Bestimmungen gelten Akzeptierte Arten von Behördendaten: 
     -   International Traffic in Arms (ITAR)
-    -   Kontrollierte eingestufte Informationen (CUI)
-    -   Verteidigungsministeriums (DoD) ungeschützten gesteuert nuklearen Informationen (UCNI)
-    -   Department of Energy (Dorner) UCNI
+    -   Controlled Unclassified Information (CUI)
+    -   Department of Defense (DoD) Unclassified Controlled Nuclear Information (UCNI)
+    -   Department of Energy (DoE) UCNI
     -   Criminal Justice Information (CJI)
-    -   Verteidigungsministeriums Auswirkungen Ebene Daten
+    -   Daten mit Auswirkungen auf Ebene des Verteidigungsministeriums
     -   Andere Arten von Daten, die Azure Government erfordern
 
-Ein internationalen gewerbliche Einrichtung möglicherweise qualifizieren, wenn sie die oben aufgeführten Anforderungen erfüllen und US vorhanden ist (z. B. e-Mail-Adresse, Standort, usw.) überprüft haben.
+Eine internationale kommerzielle Entität kann qualifiziert sein, wenn sie die oben angegebenen Anforderungen erfüllt und ihre Präsenz in den USA nachgewiesen wurde (z. B. Postanschrift, physischer Standort usw.).
 

@@ -8,15 +8,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a7f334b95f148ca13659a5101293c1e5e9bd9622
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995774"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584323"
 ---
 # <a name="manage-your-customer-list"></a>Verwalten der Kundenliste
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -29,23 +29,23 @@ Darüber hinaus enthalten die Aktivitätsprotokolle exportierbare Daten zu Trans
 
 ## <a name="search-for-a-customer"></a>Suchen nach einem Kunden
 
-1.  Wählen Sie im **Partner Center** -Menü **Kunden**.
+1.  Von der **Partner Center** , wählen Sie im Menü **Kunden**.
 2.  Um nach einem Kunden zu suchen, geben Sie den Kundennamen oder den Domänennamen in das Suchfeld ein.
 3.  Wählen Sie den **Pfeil nach unten** am Ende einer Kundenzeile aus, um die Microsoft-ID des Kunden sowie die verknüpften Abonnements und Quicklinks zu Diensten anzuzeigen.
 
-## <a name="update-a-customers-company-name"></a>Aktualisieren der Firmenname des Kunden
+## <a name="update-a-customers-company-name"></a>Firmennamen von Kunden aktualisieren
 
-Wählen Sie im **Partner Center** -Menü **Kunden**.
+Von der **Partner Center** , wählen Sie im Menü **Kunden**.
 2.  Um nach einem Kunden zu suchen, geben Sie den Kundennamen oder den Domänennamen in das Suchfeld ein.
 3.  Wählen Sie den **Pfeil nach unten** am Ende einer Kundenzeile aus, um die Microsoft-ID des Kunden sowie die verknüpften Abonnements und Quicklinks zu Diensten anzuzeigen.
-4.  Aktualisieren Sie den Namen des Unternehmens unter **Rechnungsempfänger** Informationen des Kunden. Wenn Sie den neuen Wert speichern, wird es in der Kundenliste widergespiegelt werden. Dies wird nur den Unternehmensnamen Rechnungsempfänger und der Kunde Listenwert ändern. Es wird nicht an einer beliebigen Stelle andere widergespiegelt werden.
+4.  Aktualisieren Sie in den Daten zum **Rechnungsempfänger** den Unternehmensnamen. Wenn Sie den neuen Wert speichern, wird er in die Kundenliste aufgenommen. Dadurch werden nur der Firmenname für die Rechnungsadresse und der Wert in der Kundenliste geändert. Anderswo werden die Änderungen nicht wiedergegeben.
 
 ## <a name="export-your-customer-list"></a>Exportieren der Kundenliste
 
-1.  Wählen Sie im **Partner Center** -Menü **Kunden**.
+1.  Von der **Partner Center** , wählen Sie im Menü **Kunden**.
 2.  Wählen Sie **Kunden exportieren** aus.
 
-    Partner Center konvertiert die gesamte Kundenliste in eine CSV-Datei und lädt sie in den Standarddownloadordner auf Ihrem Computer hoch. Sie können auch Teilmengen von Kundendaten exportieren. Zu den Datenspalten gehören u.a.:
+    Partner Center konvertiert die gesamte Kundenliste in eine CSV-Datei und lädt sie in den Standarddownloadordner auf Ihrem Computer hoch. Sie können auch Teilmengen von Kundendaten exportieren. Zu den Datenspalten gehören u. a.:
 
     -   **Microsoft-ID**;
     -   **Unternehmensname**;
@@ -59,14 +59,14 @@ Wählen Sie im **Partner Center** -Menü **Kunden**.
 
 ## <a name="export-customer-subscription-information"></a>Exportieren von Informationen zum Kundenabonnement
 
-1.  Wählen Sie im **Partner Center** -Menü **Kunden**.
+1.  Von der **Partner Center** , wählen Sie im Menü **Kunden**.
 2.  Wählen Sie den **Unternehmensnamen** eines Kunden aus. Die Seite **Abonnements** des Kunden wird geöffnet und zeigt die vollständige Liste der Produktabonnements an.
-3.  Wählen Sie **Abonnements exportieren** aus. Partner Center konvertiert die Abonnementdaten des Kunden in eine CSV-Datei und lädt sie in den Standarddownloadordner auf Ihrem Computer hoch. Zu den Datenspalten gehören u.a.:
+3.  Wählen Sie **Abonnements exportieren** aus. Partner Center konvertiert die Abonnementdaten des Kunden in eine CSV-Datei und lädt sie in den Standarddownloadordner auf Ihrem Computer hoch. Zu den Datenspalten gehören u. a.:
     -   **Abonnement-ID**;
-    -   **Abonnement**–der Produktname für das Abonnement;
-    -   **Menge**–die Anzahl der gekauften Lizenzen;
+    -   **Abonnement** – der Produktname für das Abonnement;
+    -   **Menge** – die Anzahl der gekauften Lizenzen;
     -   **Status**;
-    -   **Händler**–die ID des Händlers, der das Abonnement besitzt und verwaltet.
+    -   **Händler** – die ID des Händlers, der das Abonnement besitzt und verwaltet.
 
 > [!NOTE]  
 > Weitere Informationen zur Abonnementverwaltung finden Sie unter [Kundenabonnements](customer-subscriptions.md).

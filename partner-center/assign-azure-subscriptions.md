@@ -3,26 +3,26 @@ title: Zuweisen von Azure-Abonnements im Partner Center | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Sie können Ihren Kunden im Partner Center jetzt Azure-Abonnements zuordnen. Ihre Kunden haben auch die Möglichkeit, die Abonnements selbst zu verwalten
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, Abonnement für Azure, Abonnement, Abonnements, Abonnement zuweisen, Abonnement für Azure verwalten
 ms.localizationpriority: medium
-ms.openlocfilehash: 5438803bf25fb40267cbecbdcbe25ed6e6a44cfa
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 974589437392ceb77e90e6cfbd382a4676180545
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796043"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586373"
 ---
-# <a name="assign-azure-subscriptions-in-partner-center"></a>Zuweisen von Azure-Abonnements im Partner Center
+# <a name="assign-azure-subscriptions-in-partner-center"></a>Zuweisen von Azure-Abonnements in Partner Center
 
-**Betrifft:**
+**Gilt für**
 
 -  Partner Center
  
 ## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>Zuweisen von Azure-Abonnements an Kunden im Partner Center
 
-1. Wählen Sie **Kunden** Ihr **Partner Center** im Menü ", und suchen Sie den Kunden, die, den Sie verwalten möchten.
+1. Wählen Sie **Kunden** aus Ihrem **Partner Center** Menü, und suchen Sie den Kunden, die Sie verwalten möchten.
 
 2.  Wählen Sie den Pfeil nach unten am Ende der Zeile, um die Kundendaten zu erweitern, und wählen Sie dann **Microsoft Azure-Verwaltungsportal** aus. Sie werden an das Azure-Portal weitergeleitet, in dem Sie das Abonnement des Kunden verwalten können. 
 
@@ -34,7 +34,7 @@ ms.locfileid: "5796043"
 
 7. Nachdem Sie dem Abonnement den Benutzer hinzugefügt haben, können Sie ihm eine Rolle und das spezifische Konto zuweisen, auf das er Zugriff haben soll. 
 
-**Kunden die Verwaltung ihrer Azure-Abonnements ermöglichen**
+**Können Sie Kunden ihre Azure-Abonnements verwalten**
 
 Nachdem Sie ein Microsoft Azure-Abonnement für einen Kunden erstellt haben, können Sie ihnen die Verwaltung des Abonnements ermöglichen. Hierzu müssen Sie sich beim Microsoft Azure-Verwaltungsportal des Kunden anmelden. 
 

@@ -3,19 +3,19 @@ title: Informationen zu den Anreizauszahlungen | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Zeigen Sie die Einnahmen und Auszahlungen für Incentiveprogramme an.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cf700332c22fc75605b9eacc3af05997f7a387d
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: c7c40434f8d762507623ac4ee4b84d4c7b42616a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995954"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585383"
 ---
-# <a name="incentive-payouts-overview"></a>Übersicht über die Incentive Auszahlungen
+# <a name="incentive-payouts-overview"></a>Übersicht über die anreizprogramm Auszahlungen
 
-**Betrifft:**
+**Gilt für**
 
 -  Partner Center
 
@@ -40,7 +40,7 @@ Zeigen Sie Details zu Einnahmen und Auszahlungen für jedes Incentiveprogramm an
 
 ## <a name="payment-trends"></a>Zahlungstrends
 
-Im Zahlungstrends-Abschnittder Zusammenfassung wird Ihre Auszahlungen nach den registrierten Programmen aufgeschlüsselt. Die Zahlungstrends-Ansicht wird mit den Datenfilter auf der Seite gesteuert. Die Auszahlungsplan wird durch das Programm bestimmt. Weitere Informationen finden Sie im Programmhandbuch. 
+Im Zahlungstrends-Abschnitt der Zusammenfassung wird Ihre Auszahlungen nach den registrierten Programmen aufgeschlüsselt. Die Zahlungstrends-Ansicht wird mit den Datenfilter auf der Seite gesteuert. Die Auszahlungsplan wird durch das Programm bestimmt. Weitere Informationen finden Sie im Programmhandbuch. 
 
 ## <a name="total-earnings-map"></a>Karte der Gesamteinnahmen
 
@@ -62,7 +62,7 @@ Das Einahmentrendsdiagramm zeigt die allgemeine Richtung, in die sich Ihre Einna
 
 ### <a name="earning-trends-category-definitions"></a>Einnahmentrends-Kategoriedefinitionen
 
-|   |**Definitionen**   |
+|   |**Definitions**   |
 |----------------|:--------------|
 |Ausgezahlte Einnahmen|Erfolgreich ausgezahlt Einnahmen|
 |Nicht bezahlte Einnahmen|Einnahmen, für die noch keine Auszahlung geplant ist|
@@ -84,7 +84,7 @@ Die Karte auf der Seite zu Zahlungen und Aufstellungen zeigt die Zahlungen aus T
 
 ## <a name="payments"></a>Zahlungen
 
-Die Zahlungen-Tabelle enthält alle Zahlungen, die in den letzten 12Monaten durchgeführt wurden. Sie ist nach Programm und Einnahmentyp unterteilt. Sie sehen das Start- und Abschlussdatum des Zeitraums. Wenn die Zahlung an die Bank gesendet wird, sehen Sie die das Zahlungsdatum und die Zahlungs-ID.
+Die Zahlungen-Tabelle enthält alle Zahlungen, die in den letzten 12 Monaten durchgeführt wurden. Sie ist nach Programm und Einnahmentyp unterteilt. Sie sehen das Start- und Abschlussdatum des Zeitraums. Wenn die Zahlung an die Bank gesendet wird, sehen Sie die das Zahlungsdatum und die Zahlungs-ID.
 
 ## <a name="statements"></a>Auszüge
 
@@ -106,7 +106,7 @@ In der folgenden Tabelle werden die Felder der CSV-Datei erläutert. Beachten Si
 |EarningID      |Eindeutiger Bezeichner für jedes Einnahmenelement |               
 |Partnername   | Registrierter Name des Partners in Partner Center                    |
 |MPN/PCN        |MPN-ID (Microsoft Partner Network-ID des Partners)/öffentliche Kundennummer|
-|Standort       | Land/Region der MPN-V-Organisations-ID des Partners|
+|Pfad       | Land/Region der MPN-V-Organisations-ID des Partners|
 |Programmname   |Namen des Incentiveprogramms |
 |Kundenname  |   Name des Kunden, der das Abonnement erworben hat |
 |Kundenstandort  | Land, in dem sich der Kunde befindet  |
@@ -151,7 +151,7 @@ In der folgenden Tabelle werden die Felder der CSV-Datei erläutert. Beachten Si
 |-------------------|:--------------------|
 |Partnername|Registrierter Name des Partners in Partner Center|
 |MPN/PCN        |MPN-ID (Microsoft Partner Network-ID des Partners)/öffentliche Kundennummer|
-|Standort       | Land/Region der MPN-V-Organisations-ID des Partners|
+|Pfad       | Land/Region der MPN-V-Organisations-ID des Partners|
 |Programmname   |Namen des Incentiveprogramms |
 |Einahmetyp   |Einnahmetyp (Rabatt, Anpassung) |
 |Währung für Auszahlungsbetrag|   Die Währung, die für die Zahlung verwendet wird|

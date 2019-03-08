@@ -3,23 +3,23 @@ title: Analysieren der Effektivität von Unternehmensprofilen | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Bewerten, Verhandeln und Beantworten von Empfehlungen über Partner Center.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e621ecb2c57b150b35aa363a19a35747a88a3931
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 1bc4282bb4864a7b3a009ab367d384ced519a5b8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062258"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584513"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>Analysieren der Effektivität von Unternehmensprofilen
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Betrifft:**
+**Gilt für**
 
 -  Partner Center
 
@@ -29,25 +29,25 @@ Nachdem Sie das [Unternehmensprofil](create-a-marketing-profile.md) Ihres Untern
 
 Wenn Sie [auf Empfehlungen reagieren](responding-to-referrals.md) erhalten Sie Daten zu diese RFIs und deren Umwandlung in Geschäftsabschlüsse.
 
-Mithilfe dieser Berichte können Sie Ihre Unternehmensprofile optimieren, mehr Leads generieren und relevantere Leads generieren. Ihre Daten zeigen die Leistung des Profils, Trendanalysen und zeigen Bereichen auf, die eine Aktion erfordern. Partner Center-Menü Wechseln Sie zur **Verweise auf > Marketing Seiten**.
+Mithilfe dieser Berichte können Sie Ihre Unternehmensprofile optimieren, mehr Leads generieren und relevantere Leads generieren. Ihre Daten zeigen die Leistung des Profils, Trendanalysen und zeigen Bereichen auf, die eine Aktion erfordern. Wechseln Sie über das Partner Center-Menü zu **Verweise > Marketing Seiten**.
 
-Diese Berichte zeigen die Leistung der Unternehmensprofile für alle Regionen an. Die Berichte zeigen Daten für die letzten 90Tage nach Wochen gruppiert an.
+Diese Berichte zeigen die Leistung der Unternehmensprofile für alle Regionen an. Die Berichte zeigen Daten für die letzten 90 Tage nach Wochen gruppiert an.
 
-*  **Trends**: Zeigt den letzten 90Tagen nach Wochen gruppiert an. Wöchentliche daten für die letzten 90Tage und prozentuale Änderungen zum vorherigen Zeitraum für die folgenden Metriken:
+*  **Trends**: Zeigt den letzten 90 Tagen, Wochen gruppiert werden. Wöchentliche daten für die letzten 90 Tage und prozentuale Änderungen zum vorherigen Zeitraum für die folgenden Metriken:
 
-   * **Marketingseitenaufrufe**: Wie oft Personen Unternehmensprofile angezeigt haben
-   * **Klicks auf Kontaktschaltfläche**: Wie oft Kontakte Ihr Unternehmensprofil auf der Seite **Einen Partner suchen** ausgewählt haben. Dies entspricht möglicherweise nicht der Häufigkeit der Informationsanfrage (RFI).
-   * **RFI wird akzeptiert,**: Anzahl der [akzeptierten Kundenempfehlungen](responding-to-referrals.md) nach dem diese eine Informationsanfrage (RFI) gesendet haben.
+   * **Seitenaufrufe Marketing**: Wie viele Male Personen Ihre Business-Profil angezeigt.
+   * **Wenden Sie sich an Klicks auf Schaltflächen**: Wie oft Benutzer ausgewählt, Ihr Business-Profil aus der **Partnersuche** Seite. Dies entspricht möglicherweise nicht der Häufigkeit der Informationsanfrage (RFI).
+   * **RFI wird akzeptiert,**: Häufigkeit, mit Sie [Customer-Verweise akzeptiert](responding-to-referrals.md) , nachdem sie eine Anforderung für Informationen (RFI) gesendet.
 
 
-*  **Seitenaufrufe**: Zeigt wöchentliche Trenddaten der letzten 90Tage.
-   *  **Marketingseitenaufrufe durch Kunden**
-   *  **Vom Kunden übermittelte RFIs**
+*  **Seitenaufrufe**: Zeigt Trenddaten über die wöchentliche für die letzten 90 Tage.
+   *  **Marketing-Seitenansichten von Kunden**
+   *  **Durch den Kunden übermittelt RFIs**
 
-Sehen Sie sich die Suchbegriffe an, die Kunden verwenden wurden, um Ihr Profil zu suchen. Diese Berichte zeigen wöchentliche Daten für die letzten 90Tage.
+Sehen Sie sich die Suchbegriffe an, die Kunden verwenden wurden, um Ihr Profil zu suchen. Diese Berichte zeigen wöchentliche Daten für die letzten 90 Tage.
 
 *  **Schlüsselwörter** (Die häufigsten Suchschlüsselwörter) 
-*  **Branche**
+*  **Industry**
 *  **Produkt**
 *  **Diensttyp**
 

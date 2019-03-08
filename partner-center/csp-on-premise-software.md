@@ -1,79 +1,79 @@
 ---
-title: Lokale Software über CSP verkaufen | Partner Center
+title: Verkaufen lokaler Software über CSP | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Verkaufen Sie lokale Software über CSP.
+description: Verkaufen lokaler Software über CSP
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Office365, Dynamics, CSP-Partner im CSP, direkte Partner, direkter CSP-Partner, indirekter CSP-Händler, direkter CSP, indirekter CSP, direktes Modell, indirektes Modell, indirekter Händler, indirekter Anbieter, Anbieter, Verteiler, Cloud Solution Provider-Programm
+keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner im CSP, direkte Partner, direkter CSP-Partner, indirekter CSP-Händler, direkter CSP, indirekter CSP, direktes Modell, indirektes Modell, indirekter Händler, indirekter Anbieter, Anbieter, Verteiler, Cloud Solution Provider-Programm
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.openlocfilehash: fde92419bf0cfbe0095502e5b0684d1c86545b70
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795233"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584603"
 ---
-# <a name="sell-on-premise-software-through-csp"></a>Lokale Software über CSP verkaufen
+# <a name="sell-on-premise-software-through-csp"></a>Verkaufen lokaler Software über CSP
 
-Lokale Software im CSP unterstützt einen reibungslosen Übergang in die Cloud durch die Einführung von Software in einem Programm cloudorientierte lokal.Dieses neue Angebot hilft dabei, den Mehrwert Partner in jedem Kauf Szenario zu bringen, wie sie eine einzelne Plattform für alle Microsoft-Produkte Transaktionen bieten. Als ein CSP können Sie jetzt lokal Software über Partner Center zusätzlich zu öffnen, EA und andere Programme aktuell verwendeter verkaufen. Lokale Software in CSP ist ein neues sales Programm und ist nicht dafür vorgesehen, eines Microsofts andere Volume licensing-Programme ersetzen. 
+Lokale Software in CSP unterstützt einen nahtlosen Übergang in die Cloud durch Einführung lokaler Software in einem Cloud-orientierten Programm.  Dieses neue Angebot hilft dabei, mit den Value-Added Partner für jedes Purchase-Szenario zu bringen, wie sie eine einzelne Plattform für alle Microsoft-Produkte transact. Als CSP können Sie nun lokale Software über das Partner Center verkaufen, zusätzlich zu Open-, EA- und anderen Programmen. Lokale Software in CSP ist ein neues Vertriebsprogramm. Es ersetzt keines der anderen Programme von Microsoft zur Volumenlizenzierung. 
  
-Während sicherstellen, dass den besten Kunden Gesamtwert mit lokalen Softwarelizenzen Optionen, haben wir das Geschäftsmodell auch als Partner-freundliche wie möglich gemacht. Einfach lokal Software im CSP-Lizenzierung bedeutet, dass Kosten-Vorhersagbarkeit und eine optimierte sales Prozess für Sie. Dieses neue Geschäftsmodell erleichtert das bereitstellen, verwalten und Preis lokal Software für Ihre Kunden, sodass Sie konzentrieren, gewinnen Unternehmen mit ein erweitertes Portfolio der IT-Verwaltung Mehrwert Lösungen. 
+Indem wir mit Lizenzierungsoptionen für lokale Software einen optimalen allgemeinen Kundenwert sicherstellen, haben wir auch das Geschäftsmodell so partnerfreundlich wie möglich gestaltet. Eine einfache Lizenzierung lokaler Software in CSP bedeutet Kostenvorhersagbarkeit und einen optimierten Verkaufsprozess für Sie. Dieses neue Geschäftsmodell vereinfacht den Einkauf, die Verwaltung und Preisfindung für lokale Software für Ihre Kunden, während Sie sich darauf konzentrieren können, neue Geschäfte mit einem erweiterten Portfolio an Mehrwertlösungen für die IT-Verwaltung zu machen. 
 
 >[!NOTE]
->Lokale Software ist derzeit für eingeschränkte Partner zur Verfügung. Um herauszufinden, ob Sie berechtigt sind, finden Sie in Ihrem Microsoft-Kontakt. 
+>Lokale Software steht derzeit nur eingeschränkten Partnern zur Verfügung. Um festzustellen, ob Sie dazu berechtigt sind, wenden Sie sich an Ihren Microsoft-Kontakt. 
 
 
-## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Software-Abonnements im Auftrag der Kunden kaufen
+## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Kaufen von Softwareabonnements im Auftrag der Kunden
 
-Wechseln Sie zum Software-Abonnements im Auftrag eines Kunden erwerben möchten, wählen Sie auf der Detailseite des Kunden Produkte hinzufügen, und führen Sie dann die auf dem Bildschirm Anweisungen zum Erstellen und für Ihre Bestellung zu bezahlen.
+Um Softwareabonnements im Auftrag eines Kunden zu erwerben, wechseln Sie zur Detailseite des Kunden, wählen Sie "Produkte hinzufügen" aus, und befolgen Sie dann die Bildschirmanweisungen, um die Bestellung zu erstellen und zu bezahlen.
 
-## <a name="activate-and-manage-software-subscriptions"></a>Aktivieren und Verwalten von Software-Abonnements
+## <a name="activate-and-manage-software-subscriptions"></a>Aktivieren und Verwalten von Softwareabonnements
 
-Sobald Sie die Software erworben haben, müssen Sie und Ihre Kunden zum download. Gehen Sie folgendermaßen vor, um dies tun. 
+Nachdem Sie die Software erworben haben, müssen Sie und Ihre Kunden sie herunterladen. Führen Sie dazu die nachfolgend aufgeführten Schritte aus. 
 
 >[!NOTE]
->Sie müssen ein Administrator-Agent-Schlüsseln und Downloads abrufen können. 
+>Sie müssen ein Administratoragent sein, um Schlüssel abrufen und Software herunterladen zu können. 
 
-1. Wechseln Sie zur Detailseite des Kunden, und wählen Sie dann die **Software**. Sie sehen eine Liste der gesamten Software, die Sie im Auftrag des Kunden erworben haben. 
-2.  Erweitern Sie das Produkt, die, das Sie herunterladen möchten. Wählen Sie im Feld **Produkt auswählen** der **Version**, **Sprache**und **Datei-Typ/OS** , die Sie möchten. 
-3.  Wählen Sie **übermitteln** an bestimmte Produkte angezeigt. 
+1. Wechseln Sie zur Detailseite des Kunden, und wählen Sie dann **Software** aus. Sie sehen eine Liste der gesamten Software, die Sie im Auftrag des Kunden erworben haben. 
+2.  Erweitern Sie das Produkt, das Sie herunterladen möchten. Wählen Sie im Feld **Produkt auswählen** die **Version**, **Sprache** sowie **Dateityp/Betriebssystem** aus. 
+3.  Wählen Sie **Absenden**, um die spezifischen Produkte anzuzeigen. 
 4.  Wählen Sie **Schlüssel und Downloads abrufen**. 
-5.  Wählen Sie zum Starten des Downloads **herunterladen** , oder wählen Sie **Link kopieren** , kopieren Sie den Link und an den Kunden senden. 
+5.  Wählen Sie **Herunterladen**, um den Download zu starten, oder wählen Sie **Link kopieren**, um den Link zu kopieren und an den Kunden zu senden. 
 
 >[!NOTE]
->Dieser Link läuft nach zwei Wochen oder 50 herunterlädt, je nachdem, was zuerst eintritt. Sobald die Verknüpfung abgelaufen ist, kehren Sie zurück zu dieser Seite, und wählen Sie erneut aus, um einen anderen zwei Wochen oder 50 Downloads aktivieren **Schlüssel und Downloads erhalten** . Sie können dies tun, so oft wie notwendig. 
+>Dieser Link läuft nach zwei Wochen bzw. 50 Downloads ab, je nachdem, was zuerst eintritt. Kehren Sie nach Ablauf des Links zu dieser Seite zurück, und wählen Sie erneut **Schlüssel und Downloads abrufen** aus, um ihn für weitere zwei Wochen oder 50 Downloads zu aktivieren. Sie können dies beliebig oft tun. 
 
 
-## <a name="cancel-a-purchase"></a>Abbrechen einer Bestellung
-Gehen Sie folgendermaßen vor, um ein Kauf stornieren. Sobald der Abbruch abgeschlossen ist, wird der Softwareschlüssel widerrufen werden. 
+## <a name="cancel-a-purchase"></a>Stornieren eines Einkaufs
+Gehen Sie wie folgt vor, um einen Kauf zu stornieren. Sobald die Stornierung abgeschlossen ist, wird der Softwareschlüssel gesperrt. 
 
 >[!NOTE]
->Sie müssen ein Administrator-Agent zum Kauf einen Abbrechen sein. 
+>Sie müssen ein Administratoragent sein, um einen Kauf zu stornieren. 
 
-1.  Stellen Sie bevor Sie beginnen sicher, dass Sie über Folgendes verfügen: 
-    -   Mandanten-GUID oder Domäne den Namen des Kunden
-    -   Auftrags-ID oder Abonnement-ID
-    -   Rückerstattung Grund
-    -   Angeforderte Größe
+1.  Bevor Sie beginnen, sollten Sie sicherstellen, dass Sie über Folgendes verfügen: 
+    -   Mandanten-GUID oder Domänenname des Kunden
+    -   Auftrags- oder Abonnement-ID
+    -   Grund für Rückerstattung
+    -   Angeforderter Betrag
 
-2.  Wählen Sie auf der Detailseite des Kunden die **Software**. Sie sehen eine Liste der gesamten Software, die Sie erworben haben. 
+2.  Wählen Sie auf der Detailseite des Kunden **Software** aus. Sie sehen eine Liste der gesamten Software, die Sie erworben haben. 
 
-3.  Suchen Sie die Software, die Sie abbrechen möchten, und wählen Sie **Abbrechen**. Die Berichtsseite **ein Problem mit dem Partner Center** wird geöffnet. 
+3.  Suchen Sie die Software, die Sie stornieren möchten, und wählen Sie **Abbrechen**. Die Seite **Melden eines Problems mit Partner Center** wird geöffnet. 
 
-4.  Wählen Sie unter **Details**in der Liste **Problemtyp** **CSP Kauf/Rückerstattung im Auftrag der Kunden**.
+4.  Wählen Sie unter **Details** in der Liste **Art des Problems** die Option **CSP Kauf/Rückerstattung im Auftrag der Kunden** aus.
 
-5.  Füllen Sie die Felder **Auswirkungen** und **Titel** . 
+5.  Füllen Sie die Felder **Auswirkungen** und **Titel** aus. 
 
-6.  Enthalten Sie im Feld **Beschreibung** folgende Informationen: 
-    -   Mandanten-GUID oder Domäne den Namen des Kunden
-    -   Auftrags-ID oder Abonnement-ID
-    -   Rückerstattung Grund
-    -   Angeforderte Größe
+6.  Geben Sie im Feld **Beschreibung** Folgendes ein: 
+    -   Mandanten-GUID oder Domänenname des Kunden
+    -   Auftrags- oder Abonnement-ID
+    -   Grund für Rückerstattung
+    -   Angeforderter Betrag
 
-7.  Geben Sie im Feld **Kontakt** Ihre Namen, e-Mail-Adresse und Telefonnummer. 
+7.  Geben Sie im Feld **Kontakt** Ihren Namen, Ihre E-Mail-Adresse und Telefonnummer ein. 
 
-8.  Wenn Sie eine Datei aus irgendeinem Grund anfügen müssen, wählen Sie **Dateien hinzufügen**. Dieser Schritt ist optional. 
+8.  Wenn Sie eine Datei anfügen möchten, wählen Sie **Dateien hinzufügen**. Dieser Schritt ist optional. 
 
-9.  Wenn Sie fertig sind, wählen Sie **übermitteln**.
+9.  Wenn Sie fertig sind, wählen Sie **Absenden**.

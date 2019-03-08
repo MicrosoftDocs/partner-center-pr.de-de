@@ -3,25 +3,25 @@ title: Azure Partner Shared Services für Azure Partner verfügbar | Partner Cen
 ms.topic: article
 ms.date: 10/29/2018
 description: Azure Partner Shared Services ist eine neue Art von Angebot für Partner im CSP-Programm. Partner können Azure-Abonnements nun zur eigenen Verwendung erwerben.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
-Keywords: Azure, shared services, tenant
+Keywords: Azure, gemeinsame Dienste, Mandant
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 51f235cfc840ab60e90fbbce44cb239b82273ce1
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ad0d7fcaa1a4a8f65f26dd2a3e826f44b10be80a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917632"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586983"
 ---
 # <a name="add-azure-partner-shared-services"></a>Hinzufügen von Azure Partner Shared Services
 
-**Betrifft:**
+**Gilt für**
 
 -  Partner Center
 
-Azure Partner Shared Services ist eine neue Art von Angebot für Partner im CSP-Programm. Partner können Azure-Abonnements nun zur eigenen Verwendung erwerben.  Damit können Partner eine einheitliche Methode für den Kauf, die Nachverfolgung und die Verwaltung von Azure verwenden und haben zudem die Möglichkeit, ihre Lizenz- und Weiterverkaufsvereinbarungen für Azure mit Microsoft zu konsolidieren. Mit Azure Partner Shared Services verfügen Partner jetzt über die gleiche Flexibilität, Azure-Abonnements im CSP zu verwenden, wie in den Microsoft Enterprise- und Web-Direct-Programmen, was folgende Szenarien ermöglicht: Erstellen und Entwickeln von Testumgebungen, Bereitstellen interner Workloads, über den Host geteilte Dienste und Multimandantenanwendungen.  
+Azure Partner Shared Services ist eine neue Art von Angebot für Partner im CSP-Programm. Partner können Azure-Abonnements nun zur eigenen Verwendung erwerben.  Er erstellt die Möglichkeit für Partner eine einheitliche Methode für Erwerb, nachverfolgung und Verwaltung von Azure zusätzlich zur Möglichkeit zu verwenden, um ihre Azure Lizenz- und weiterverkaufsvereinbarungen mit Microsoft zu konsolidieren. Mit Azure Partner Shared Services verfügen Partner jetzt über die gleiche Flexibilität, Azure-Abonnements im CSP zu verwenden, wie in den Microsoft Enterprise- und Web-Direct-Programmen, was folgende Szenarien ermöglicht: Erstellen und Entwickeln von Testumgebungen, Bereitstellen interner Workloads, über den Host geteilte Dienste und Multimandantenanwendungen.  
 
 ## <a name="create-the-shared-services-tenant"></a>Erstellen des Mandanten für gemeinsame Dienste
 
@@ -45,7 +45,7 @@ Azure Partner Shared Services ist eine neue Art von Angebot für Partner im CSP-
 
 - Das Angebot „Azure – Internal/Shared Services” kann nur auf den Mandanten für gemeinsame Dienste angewendet werden.
 
-- Der Zweck des Abonnements „Azure – Internal/Shared Services” ist, Azure für eigene Entwicklungen zu verwenden. Der gemeinsame Mandant, mit dem Sie dieses Angebot bereitstellen, kann nicht für andere Dienste wie Office365 oder Dynamics Arbeitsplätze verwendet werden. 
+- Der Zweck des Abonnements „Azure – Internal/Shared Services” ist, Azure für eigene Entwicklungen zu verwenden. Der gemeinsame Mandant, mit dem Sie dieses Angebot bereitstellen, kann nicht für andere Dienste wie Office 365 oder Dynamics Arbeitsplätze verwendet werden. 
 
 - Sie können das Abonnement wie alle anderen Abonnements kündigen. Wechseln Sie zu den **Einstellungen** > **Alle Einstellungen anzeigen** > **Gemeinsame Dienste**. Wählen Sie das Abonnement „Azure – Internal/Shared Services” und beenden Sie es.
 

@@ -3,20 +3,20 @@ title: Small and Midmarket Cloud Solutions-Kompetenz
 ms.topic: article
 ms.date: 10/29/2018
 description: Mit der Kompetenz "Small and Midmarket Cloud Solutions" können Sie sich den Ruf als Partner erwerben, der darauf spezialisiert ist, kleinen und mittelständischen Unternehmen Office 365-Lösungen zu verkaufen und bereitzustellen.
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: Kompetenz, Kompetenzen, Small and Midmarket Cloud Solutions
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f7533c113f1daa8a088b2d0c74402f16f661b48
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1d273e9011871edc9f65c41ae234264a28360c42
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796853"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583923"
 ---
 >[!IMPORTANT]
->Weitere Informationen zu den Anforderungen für die Erreichung dieses Kompetenz besuchen Sie das [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
+>Weitere Informationen zu den Anforderungen zur Erlangung dieser Kompetenz finden Sie im [Microsoft Partner Network-Portal](https://partner.microsoft.com/membership/competencies).
 
 <!--
 # Small and Midmarket Cloud Solutions 

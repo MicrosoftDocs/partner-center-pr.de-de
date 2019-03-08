@@ -2,22 +2,22 @@
 title: Abrechnung für Azure Reservations | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-Description: Information about billing for Azure reservations.
-author: v-petand
+Description: Informationen zur Abrechnung von Azure-Reservierungen.
+author: LauraBrenner
 ms.author: v-petand
 keywords: Azure RI, Azure Reserved Instances, Reservierungen, virtuelle Computer, verwalten, Abrechnung, kaufen
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 7aec5102d2ff76d321474e6e580acde6a854a9b5
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b32c0da58cefea764f7f0cb3adb6d3a13faa46b5
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796723"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586903"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure Reserved VM Instances – Abrechnung
 
-**Betriff:**
+**Gilt für**
 
 -  Partner Center
 -  Microsoft Azure-Portal
@@ -30,13 +30,13 @@ Die Kunden bezahlen im Voraus für Azure Reserved VM Instances. Wenn Sie Azure R
 >[!IMPORTANT]
 >Wenn Sie Azure Reserved VM Instances für einen Kunden in einem Markt mit einer anderen Währung, als der standardmäßigen Währung erwerben, basiert die Abrechnung auf dem Markt des Kunden, nicht Ihrem Standort. Wenn Sie Kunden in mehreren Märkten haben, erhalten Sie verschiedene Rechnungen und Abgleichungsdateien für jede Währung der Kunden, die in Rechnung gestellt werden, damit Ihre Kunden in der entsprechenden Währung in Rechnung gestellt werden. 
 
-Um auf einmalige Rechnungen und abgleichungsdateien zuzugreifen, wählen Sie aus dem Partner Center **Abrechnung** , und wählen Sie dann **ein Mal**. 
+Um einmalige Gebühr an Rechnungen und kontenabstimmungsdateien zuzugreifen, wählen **Abrechnung** von Partner Center, und wählen Sie dann **einmal**. 
 
 Weitere allgemeine Informationen zur Abrechnung im Cloud Solution Provider-Programm finden Sie unter [Grundlagen zur Abrechnung](billing-basics.md).
 
 ## <a name="azure-reserved-vm-instance-invoice-file-definitions"></a>Azure Reserved VM Instance – Definitionen zur Rechnungsdatei
 
-**Allgemeine Rechnungsinformationen**
+**Allgemeine Abrechnungsinformationen**
 
 |**Feld** |**Definition**|
 |:----------------|:-----------------------------|
@@ -46,15 +46,15 @@ Weitere allgemeine Informationen zur Abrechnung im Cloud Solution Provider-Progr
 |Guthaben |Guthaben für Rückerstattungsaktivität seit dem ersten Kauf. |
 |Rabatte |Rabatte, die für Azure Reservations oder andere Elemente in der jeweiligen Kundenbestellung gelten. |
 |Steuern |Die gesamten Steuern für die aktuellen Gebühren, wie im Abschnitt „Details“ auf Seite 2 der Rechnung summiert. |
-|Aktuelle Gebühren insgesamt |Der in Ihrer Abrechnungswährung für den Abrechnungszeitraum zum angegebenen Termin fällige Betrag. |
+|Gesamtsumme der aktuellen Gebühren |Der in Ihrer Abrechnungswährung für den Abrechnungszeitraum zum angegebenen Termin fällige Betrag. |
 |Zahlungsanweisungen |Beschreibt, wo und wie Ihre Rechnung auf der Grundlage Ihrer Region bezahlt wird. Geben Sie bei einer Zahlung stets die Rechnungsnummer an. |
 |Rechnungsnr. |Die Nummer Ihrer Rechnung. |
 |Rechnungsdatum |Das Ausstellungsdatum Ihrer Rechnung. |
-|Zahlungsbedingungen |Für einmalige Einkäufe wird dies immer 60Tage sein. |
+|Zahlungsbedingungen |Für einmalige Einkäufe wird dies immer 60 Tage sein. |
 |Fälligkeitsdatum der Zahlung |Ihre Zahlung muss bis zu diesem Datum eingegangen sein. |
 
 
-**Detaillierte Liste einmaliger Gebühren**
+**Detaillierte Liste der einmaligen Gebühren**
 
 |**Feld** |**Definition**|
 |:----------------|:-----------------------------|
@@ -82,12 +82,12 @@ Weitere allgemeine Informationen zur Abrechnung im Cloud Solution Provider-Progr
 |MPN-ID der Handelspartner |Wird nur in den Abstimmungsdateien für Partner im indirekten Modell angezeigt. Die MPN-ID des registrierten Handelspartners für die Reservierung. Dies entspricht der Handelspartner-ID, die für die spezifische Reservierung im Partner Center aufgeführt ist. Wenn ein CSP-Partner die Reservierung direkt an den Kunden veräußert hat, wird seine MPN-ID zweimal aufgeführt: als MPN-ID und als MPN-ID des Handelspartners. Wenn ein CSP-Partner über einen Handelspartner ohne MPN-ID verfügt, wird dieser Wert stattdessen auf die MPN-ID des Partners festgelegt. Wenn der CSP-Partner eine Handelspartner-ID entfernt, wird dieser Wert auf-1 festgelegt. |
 |OrderID |Eindeutiger Bezeichner für eine Bestellung auf der Microsoft-Abrechnungsplattform. Kann beim Kontakt zum Support zum Identifizieren von Azur Reservations hilfreich sein, jedoch nicht zur Abstimmung. |
 |Bestellungsdatum |Der Zeitpunkt der Auftragserstellung. |
-|ProductId |Die ID für das Produkt. |
+|ProductID |Die ID für das Produkt. |
 |SkuID  |Die ID für eine bestimmte SKU. |
 |AvailabilityId |Die ID für eine bestimmte Verfügbarkeit. "Verfügbarkeit" bezieht sich darauf, ob eine bestimmte SKU für ein bestimmtes Land, Währung, Branche usw. erhältlich ist. |
 |SkuName  |Titel für eine bestimmte SKU. |
 |ProductName |Name des Produkts. |
-|ChargeType |Art der Gebühren oder der Anpassung. |
+|ChargeType |Art der Gebühren oder der Anpassungen. |
 |UnitPrice |Preis pro bestelltem Produkt. |
 |Anzahl |Anzahl der bestellten Produkte. |
 |Zwischensumme |Gesamtbetrag vor Steuern Überprüft, ob bei Rabatten Ihre Zwischensumme mit dem erwarteten Gesamtbetrag übereinstimmt. |
@@ -101,12 +101,12 @@ Weitere allgemeine Informationen zur Abrechnung im Cloud Solution Provider-Progr
 
 ### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>Anzeigen des aktuellen Abrechnungsstatus, Rechnungen und Abstimmungsdateien
 
-1.  Wählen Sie im Partner Center **Abrechnung** und anschließend **einmal** um Ihren Rechnungsstatus anzuzeigen. 
+1.  Wählen Sie im Partner Center **Abrechnung** und dann **einmal** Ihre Abrechnungen Status anzeigen. 
 2.  Wählen Sie eine Rechnung oder Abstimmungsdatei, um ausführlichere Informationen anzuzeigen. 
 
 ### <a name="view-a-customers-order-history"></a>Bestellverlauf eines Kunden anzeigen
 
-1.  Wählen Sie **Kunden** aus dem Menü "Partner Center".
+1.  Wählen Sie **Kunden** im Partner Center-Menü.
 2.  Auf der Seite **Kunden**, suchen Sie den Kunden, deren Bestellverlauf Sie anzeigen möchten, und wählen Sie dann den Pfeil nach unten, um den Datensatz des Kunden zu erweitern. 
 3.  Wählen Sie **Aufträge anzeigen**, um den Bestellverlauf anzuzeigen.
 
@@ -117,11 +117,11 @@ Zu einem bestimmten Zeitpunkt müssen Sie möglicherweise eine Rechnung stornier
 Um eine Rechnung zu stornieren und eine neue auszustellen, laden Sie das Formular aus der Abrechnungsseite unter „Anpassen” herunter.
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations-Ressourcen
-|**Weitere Informationen**   |**Bitte lesen**    |
+|**Informationen zu**   |**Lesen Sie diesen**    |
 |:-----------------------------|:-----------------|
-|Azure Reservations in CSP (Übersicht)  | [Verkaufen von Microsoft Azure Reserved VM Instances](azure-reservations.md)
-|Erwerb von Azure Reservations für Ihre Kunden im Partner Center   |[Azure Reservations kaufen](azure-reservations-buying.md)
-| Verwalten von Azure Reservations im Partner Center | [Verwalten von Azure Reservations im Partner Center](azure-reservations-manage.md)
+|Azure Reservations in CSP (Übersicht)  | [Verkaufen Sie reservierte Azure-VM-Instanzen von Microsoft](azure-reservations.md)
+|Erwerb von Azure-Reservierungen für Ihre Kunden im Partner Center   |[Erwerben Sie Reservierungen, Azure](azure-reservations-buying.md)
+| Verwalten von Azure-Reservierungen im Partner Center | [Verwalten von Azure-Reservierungen im Partner Center](azure-reservations-manage.md)
 |Erwerb von Azure Reservations im Azure-Portal | [Für virtuelle Maschinen mit Azure Reserved VM Instances im Voraus bezahlen](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) in der Azure-Hilfe |
 |Verwalten von Azure Reservations im Azure-Portal   |[Verwalten von reservierten VM-Instanzen](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) in der Azure-Hilfe  |
 |Erwerb von Azure Reservations über die Partner Center-API | [Erwerben Sie Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in die Partner Center-Entwicklerdokumentation

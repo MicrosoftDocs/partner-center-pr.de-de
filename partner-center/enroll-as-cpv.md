@@ -1,42 +1,42 @@
 ---
-title: Registrieren für Partner Center als ein Bereich den Anbieter | Partner Center
+title: Registrieren Sie im Partner Center als Control Panel Kreditor | Partner Center
 ms.topic: article
 ms.date: 12/11/2018
-Description: How to enroll in Partner Center as a Control Panel Vendor
-author: labrenne
+Description: Wie Sie im Partner Center als Lieferant Panel-Steuerelement registrieren.
+author: LauraBrenner
 ms.author: labrenne
-keywords: Steuern Sie Panel-Anbieter, registrieren Sie CPV apps, Verwalten von CPV apps
+keywords: Panel-Anbieter zu steuern, CPV apps registrieren, CPV apps verwalten
 ms.localizationpriority: medium
-ms.openlocfilehash: 1404b74f63c8c78f3a9c7b2f1fefa9967d8f1518
-ms.sourcegitcommit: 365f51b1df6752ab0f6bcf2b26329d354fa36653
+ms.openlocfilehash: 7d00cfc7addf120a3b42597cda3758597533dd5e
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995011"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586053"
 ---
-# <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>Registrieren Sie als ein Bereich den Anbieter im Partner Center
+# <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>Registrieren Sie als eine Control Panel-Anbieter im Partner Center
 
-**Betrifft:**
+**Gilt für**
 
 - Partner Center
 
-Ein Steuerelement Panel Anbieter (CPV) ist eine unabhängige Softwareanbieter, der Entwicklung von Apps für die Verwendung durch Partner des Cloud Solution Provider (CSP) setzen, um ihre Systeme mit Partner Center-APIs zu integrieren. Ein Anbieter Systemsteuerung ist nicht für CSP-Partner mit direktem Zugriff auf Partner Center-Dashboard oder Partner Center-APIs.
+Ein Control Panel Hersteller (Vocabulary) ist ein unabhängiger Softwarehersteller, der Entwicklung von Anwendungen für die Verwendung von Partnern für Cloud Solution Provider (CSP), damit sie ihre Systeme in Partner Center-APIs integrieren können. Ein Hersteller Systemsteuerung ist kein CSP-Partner mit direktem Zugriff auf Partner Center-Dashboard oder der Partner Center-APIs.
 
-Ob Sie eine aktuelle Steuerelement Panel-Anbieter (CPV) oder eine neue CPV, die mit Microsoft-Partnern zusammenarbeiten möchte, erfordert Microsoft jetzt im Partner Center, um Ihre Anwendung zu registrieren und unterstützen von Cloud-Lösungsanbieter-Partner zu registrieren. Zum Erstellen eines Kontos CPV Partner kann entweder eine vorhandene CSP-partnermandanten oder vorhandenen CPV Mandanten verwenden oder einen neuen Mandanten im Rahmen der Integration erstellen kann. Wenn der Partner CPV entscheidet, die vorhandenen CSP-Mandanten verwenden, müssen sie separate multimandantenanwendungen erstellen und für CPV Aktivitäten im Partner Center registrieren. Eine Anwendung kann nicht als ein CSP und die CPV Anwendung registriert werden. Nachdem Sie im Partner Center registriert und Ihre Anwendung registriert haben, müssen Sie den Zugriff auf die Partner Center-APIs.  Microsoft kontaktiert Sie über eine Partner Center-Benachrichtigung mit der Sandbox-Informationen. Wenn jedoch Sie bereits eine Sandbox-Konto verfügen, es weiterhin verwenden. Dazu benötigen Sie keine neuen Sandbox.   
+Eine aktuelle Control Panel Hersteller (Vocabulary) oder eine neue CPV, möchte der Arbeit mit Microsoft-Partner, sind, muss Microsoft jetzt registrieren Sie sich für Partner Center, um Ihre Anwendungen registrieren und die Cloud Solution Provider-Partner zu unterstützen. Um ein Konto zu erstellen, CPV Partner kann entweder einen vorhandenen Mandanten der CSP-Partner, oder vorhandene CPV-Mandanten verwenden oder einen neuen Mandanten im Rahmen des Onboarding-Prozesses erstellen kann. Wenn der Partner CPV entscheidet, den vorhandenen CSP-Mandanten verwenden, müssen sie separate mehrinstanzenfähige Anwendungen erstellen und registrieren sie im Partner Center für CPV Aktivitäten. Eine Anwendung kann nicht sowohl die CPV ein CSP-Anwendung registriert werden. Nachdem Sie im Partner Center registriert und Ihre Anwendungen registriert haben, müssen Sie den Zugriff auf Partner Center-APIs.  Microsoft kontaktiert Sie über eine Benachrichtigung der Partner Center mit Ihren Sandkasten-Informationen. Wenn Sie allerdings verfügen Sie bereits ein sandboxkonto das Produkt weiterhin verwenden. Sie brauchen kein neues Sandkastens.   
 
-Lesen Sie die [Vereinbarung für Microsoft-Steuerelement Panel-Anbieter](https://go.microsoft.com/fwlink/?linkid=2055198)
+Überprüfen Sie die [Microsoft Control Panel Hersteller-Vereinbarung](https://go.microsoft.com/fwlink/?linkid=2055198)
 
 
-## <a name="working-in-partner-center"></a>Im Partner Center arbeiten
-Sobald Sie in der Partner Center CPV Erfahrung registriert und akzeptiert die CPV Vereinbarung können Sie haben:
+## <a name="working-in-partner-center"></a>Arbeiten im Partner Center
+Sobald Sie auf der Partner Center CPV-Oberfläche registriert und akzeptiert die CPV Vereinbarung können Sie:
 
-- Verwalten von multimandantenanwendungen (Hinzufügen von Anwendungen zu Azure-Portal anmelden und Abmelden, Anwendungen im Partner Center).
+- Verwalten von Anwendungen mit mehreren Mandanten, die (Hinzufügen von Anwendungen auf Azure-Portal registrieren und Aufheben der Registrierung in Partner Center-Anwendung).
 
 >[!Note] 
->CPVs müssen ihren Anwendungen im Partner Center registrieren, um die erforderlichen Berechtigungen für Partner Center-APIs erhalten. Hinzufügen von Anwendungen allein Azure-Portal autorisiert keine CPV Anwendungen für Partner Center-APIs. 
+>CPVs müssen ihre Anwendungen im Partner Center registrieren, um für Partner Center-APIs autorisiert werden. Hinzufügen von Anwendungen in Azure-Portal allein ist CPV-Anwendungen für Partner Center-APIs nicht autorisiert. 
 
 - Zeigen Sie an und verwalten Sie Ihr Profil CPV 
 
-- Anzeigen und Verwalten von Benutzern, die Zugriff auf Funktionen CPV benötigen. Die einzige Rolle einer CPV haben ist globalen Administrator.
+- Zeigen Sie an und verwalten Sie Ihre Benutzer Zugriff auf CPV Funktionen benötigen. Die einzige Rolle, die eine CPV verwenden kann, wird globalen Administrator.
 
 

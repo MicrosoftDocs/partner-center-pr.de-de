@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995604"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587083"
 ---
 # <a name="multi-channel-support"></a>Multichannel-Unterstützung
 
@@ -22,7 +22,7 @@ ms.locfileid: "8995604"
 -  Partner Center für Microsoft Cloud for US Government
 
 
-Das Multichannel-Feature im Partner Center unterstützt Szenarien, wenn ein Kunde einen Partner für die Verwaltung und den support eines an anderer Stelle erworbenen Abonnements beauftragen möchte. Dieser Multichannel-Support ist in folgenden Fällen erforderlich:
+Der Partner Center mit mehreren Kanälen Feature unterstützt Szenarien, wenn möchte, dass ein Kunde einen Partner, verwalten und unterstützen ein Abonnement an anderer Stelle erworbenen einstellen. Dieser Multichannel-Support ist in folgenden Fällen erforderlich:
 
 -   Der Kunde hat bereits Abonnements direkt von Microsoft oder über die Programme Advisor, Open oder EA erworben.
 
@@ -42,17 +42,17 @@ Das Multichannel-Feature im Partner Center unterstützt Szenarien, wenn ein Kund
 <tr class="even">
 <td><p><strong>Nutzungsbasierte Dienste</strong></p></td>
 <td>
-<p>Für einen Kunden, der ein Abonnement für Microsoft Azure von einem anderen Kanal, z. B. Advisor, Open, oder EA, & #39; bereits ll erstellen Sie ein neues Azure-Abonnement im Partner Center die Abonnementdetails manuell eingeben und dann die einzelnen Abbrechen Dienste oder das gesamte Abonnement.</p>
-<p>Für Kunden, die bereits über ein Abonnement für Microsoft Azure von einem anderen Partner verfügen, können Sie z.B. Azure-Dienste auf den anderen Partner übertragen. Weitere Informationen finden Sie unter <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Übertragen von Azure-Abonnements auf einen anderen Partner</a>.</p>
+<p>Für einen Kunden, die bereits über ein Abonnement für Microsoft Azure über einen anderen Kanal, z. B. Advisor, Open- oder EA, verfügt Sie&#39;ll muss zum Erstellen eines neuen Azure-Abonnements in Partner Center die Abonnementdetails manuell eingeben, und widerrufen Sie die einzelnen Dienste oder das gesamte Abonnement.</p>
+<p>Für Kunden, die bereits über ein Abonnement für Microsoft Azure von einem anderen Partner verfügen, können Sie z. B. Azure-Dienste auf den anderen Partner übertragen. Weitere Informationen finden Sie unter <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Übertragen von Azure-Abonnements auf einen anderen Partner</a>.</p>
 </td>
 </tr>
 </tbody>
 </table>
 
 > [!IMPORTANT]  
-> Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Ankündigungen der künftigen Versionen werden über die üblichen Kommunikationskanäle, einschließlich dem Partner Center Kommunikationskanäle vorgenommen werden. 
+> Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Ankündigungen zu funktionsreleases werden über die üblichen Kommunikationskanäle, einschließlich dem Partner Center vorgestellt. 
 
-## <a name="see-also"></a>Weitere Informationen:
+## <a name="see-also"></a>Siehe auch
 
 [Zusammenarbeit mit anderen Partnern](work-with-other-partners.md)
 

@@ -3,20 +3,20 @@ title: Suchen der Angebote von Drittanbietern, die Sie verkaufen möchten | Part
 ms.topic: article
 ms.date: 10/29/2018
 description: Es ist ganz einfach, die Angebote von Drittanbietern zu suchen und zu finden, die gut zu Ihrem Portfolio passen.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: Drittanbieterangebote, Kaufsoftware, Suchen nach Drittanbietern
 ms.localizationpriority: medium
-ms.openlocfilehash: abf30139174d44f385b49219420ddcffcba6cf2a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cde02b44d728e7c5d32295ce730ee71bfc41d1e4
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796963"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585453"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>Suchen der Angebote von Drittanbietern, die Sie verkaufen möchten
 
-**Betriff:**
+**Gilt für**
 
 -  Partner Center
 
@@ -33,7 +33,7 @@ Es ist ganz einfach, die Angebote von Drittanbietern zu suchen und zu finden, di
 
 ## <a name="the-product-details-page"></a>Detailseite des Produkts
 
-Um mehr Details zu erhalten, wählen Sie ein Produkt aus. Dadurch gelangen Sie auf die Detailseite, auf der Sie ausführliche Informationen über das Produkt erhalten, z.B. darüber, wie es funktioniert, wie es mit Microsoft-Produkten zusammenarbeitet oder wie Sie Ihre Verkäufer für dieses Produkt schulen. Sie erhalten auch Tipps für die Erstellung wirkungsvoller Marketingmaterialien. 
+Um mehr Details zu erhalten, wählen Sie ein Produkt aus. Dadurch gelangen Sie auf die Detailseite, auf der Sie ausführliche Informationen über das Produkt erhalten, z. B. darüber, wie es funktioniert, wie es mit Microsoft-Produkten zusammenarbeitet oder wie Sie Ihre Verkäufer für dieses Produkt schulen. Sie erhalten auch Tipps für die Erstellung wirkungsvoller Marketingmaterialien. 
 
 Sie finden auch einen Link zur Website des ISV sowie Kontaktinformationen, oftmals auch ein Demovideo des Produkts. 
 
@@ -45,9 +45,9 @@ Wenn Sie die Software möglicherweise erwerben möchten, aber weitere Fragen daz
 
 Sie erwerben Drittanbietersoftware genauso wie Erstanbietersoftware. 
 
-1. Wählen Sie aus dem **Partner Center** **Kunden**
+1. Von der **Partner Center**Option **Kunden**
 2. Wählen Sie **Neues Abonnement** aus.
-3. Weitere Informationen finden Sie unter [Erstellen, Unterbrechen oder Stornieren von Kundenabonnements](create-a-new-subscription.md).
+3. Weitere Informationen finden Sie unter [Erstellen, Aussetzen oder Stornieren von Kundenabonnements](create-a-new-subscription.md).
 4.  Wählen Sie die monatliche Abrechnung für Drittanbietersoftware aus. Die jährliche Abrechnung und Testversionsabrechnung sind derzeit für Drittanbieter nicht verfügbar.
 5.  Wählen Sie auf der Registerkarte **Drittanbieter** das Produkt aus, das Sie kaufen möchten.
 6.  Überprüfen Sie das Abonnement, das Sie hinzufügen möchten, und geben Sie die Anzahl der Lizenzen ein. **Übermitteln** Sie dann die Bestellung.

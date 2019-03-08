@@ -1,7 +1,7 @@
 ---
-title: Analysieren Sie die Azure-Nutzung | Partner Center
+title: Analysieren der Azure-Nutzung | Partner Center
 ms.date: 07/12/2018
-Description: Use Partner Center to get data about the usage of your customers' Azure subscriptions.
+Description: Verwenden Sie zum Abrufen von Daten über die Verwendung des Azure-Abonnements Ihrer Kunden Partnercenter.
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
@@ -9,43 +9,43 @@ ms.topic: article
 keywords: Geschäftsdaten
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2a1311cb163d5e7f12e7649b56e74e240f0caca1
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 8cfb26dd5658648cb0859f557984d47a51125076
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917412"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586263"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Abrufen von Daten zur Verwendung von Azure-Abonnements Ihrer Kunden 
+# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Informieren Sie sich unter Abrufen von Daten über die Verwendung von Azure-Abonnements Ihrer Kunden. 
 
-**Betrifft:**
+**Gilt für**
 - Partner Center
 
-Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Azure-Nutzung** zum Ermitteln der Erfolge und Bereiche, die mehr Aufmerksamkeit erfordern. Verwenden Sie diese Informationen für die Planung neuer Geschäftsziele.
+Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Azure-Nutzung**, um Ihre Erfolge sowie die Bereiche zu identifizieren, die mehr Aufmerksamkeit erfordern. Verwenden Sie diese Informationen für die Planung neuer Geschäftsziele.
 
 > [!NOTE]
-> Azure-Nutzung Analytics ist nur für Partner im Cloud-Lösungsanbieter-Programm verfügbar.
+> Die Analysen zur Azure-Nutzung stehen nur Partnern des Programms für Cloud Solution Provider zur Verfügung.
 
 Wir verfolgen die folgenden Metriken:
 
 **Zusammenfassung**  
- - **Alle Azure-Abonnements**: Anzahl der Abonnements im angegebenen Zeitraum verkauft  
- - **Kunden mit Nutzung**: Anzahl der Kunden mit Azure-Nutzung in der angegebenen Zeit  
- - **Kunden, die Nutzung**: Anzahl der Kunden ohne Azure-Nutzung in der angegebenen Zeit  
+ - **Gesamte Azure-Abonnements verkauft**: Anzahl von Abonnements, die in den angegebenen Zeitraum verkauft  
+ - **Kunden mit Nutzung**: Anzahl der Kunden mit Azure-Nutzung im angegebenen Zeitraum  
+ - **Kunden ohne Nutzung**: Anzahl der Kunden ohne Azure-Nutzung im angegebenen Zeitraum  
 
-**5 wichtigsten Kunden in der Kategorie**  
- -  Die 5 wichtigsten Kunden für die angegebene Kategorie  
+**Top 5 Customers in Kategorie**  
+ -  Die Top 5-Kunden für die angegebene Kategorie  
 
-**Abonnements ohne Verwendung**  
- -  Liste der Sepcific Abonnements ohne Azure-Nutzung in der angegebenen Zeit  
+**Abonnements ohne Nutzung**  
+ -  Liste der spezifischen Abonnements ohne Azure-Nutzung im angegebenen Zeitraum  
 
-**Azure-Abonnement Änderungsumfang**  
- - **Aktiven Abonnements**: Anzahl der aktiven Abonnements nach Datum  
- - **Deprovisioned Abonnements**: Anzahl der Abonnements nicht bereitgestellt oder von Datum, an dem angehalten  
+**Änderungen der Azure-Abonnement**  
+ - **Aktive Abonnements**: Die Anzahl der aktiven Abonnements nach Datum  
+ - **Abonnements aufgehoben**: Die Anzahl der Abonnements aufgehoben oder nach Datum angehalten  
 
-**Anzahl der Kunden**
- - Neue Kunden, die während des angegebenen Zeitraums erworben haben  
+**Kundenanzahl**
+ - Neue Kunden, die während des angegebenen Zeitraums gewonnen wurden  
 
-**Azure-Abonnement Aufbewahrung**  
- - Die Anzahl von Abonnements, die erneuert wurden.   
+**Aufbewahrungsrichtlinien für Azure-Abonnement**  
+ - Anzahl der Abonnements, die verlängert wurden   
   

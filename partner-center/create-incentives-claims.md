@@ -2,40 +2,40 @@
 title: Erstellen und verwalten ein Anspruchs Incentives | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Initiieren Co-op-incentiveansprüche aus dem Partner Center. Sie sehen alle Aktivitäten, der in die Erstellung von Ihren Anspruch im Verlauf wechselt.
-author: labrenne
+description: Co-op-Ansprüche, initiieren Incentives sammeln, wenn von Partner Center. Alle Aktivitäten im Rahmen der Erstellung des Anspruchs werden im Verlauf angezeigt.
+author: LauraBrenner
 ms.author: labrenne
-keywords: incentiveansprüche, Co-op-Ansprüche, Co-op-Guthaben
+keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2af4ac084f10639aee4d627ff4d9fc0ad3208569
-ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
+ms.openlocfilehash: c48761825888e646b689328772de400181d9a362
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "9025320"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586413"
 ---
-# <a name="create-and-manage-an-incentives-claim"></a>Erstellen und Verwalten eines Anspruchs incentives
+# <a name="create-and-manage-an-incentives-claim"></a>Erstellen und Verwalten eines Incentiveanspruchs
 
-**Betrifft:**
+**Gilt für**
 - Partner Center
 
-Sie können ein Anspruchs Incentives aus im Partner Center initiieren. 
+Sie können einen Anspruch Incentives sammeln, wenn von Partner Center initiieren. 
 
-1. Wählen Sie **Incentives** im Partner Center-Dashboard **Ansprüche**aus.
+1. Von **Incentives** wählen Sie im Partner Center-Dashboard **Ansprüche**.
 
-2.  Besitzen Sie bereits einen Anspruch im Prozess, die Ansprüche Übersicht enthält Informationen zum Status des vorhandenen Ansprüche und Mittel genehmigt in Anspruch genommen und summiert.
+2.  Wenn bereits ein Anspruch von Ihnen bearbeitet wird, werden auf der Seite mit der Anspruchsübersicht Informationen zum Status vorhandener Ansprüche und genehmigter, angeforderter Mittel sowie Gesamtsummen angezeigt.
 
-3.  Wählen Sie zum Erstellen eines neuen Anspruchs **Erstellen eines Anspruchs**.
+3.  Wählen Sie zum Erstellen eines neuen Anspruchs **Anspruch erstellen** aus.
 
-4.  Wenn Sie das Formular ausgefüllt und **Anspruch erstellen**ausgewählt haben, werden Sie zur Detailseite Anspruch weitergeleitet, in denen Sie Rechnungen, CSRs, Korrigieren von Dokumenten und Metriken hinzugefügt werden können. Sie können auch zusätzliche Informationen hinzufügen, wenn erforderlich.
+4.  Wenn Sie das Formular ausgefüllt und ausgewählt haben **Anspruch erstellen**, Sie gelangen auf die Detailseite des Anspruchs, sodass Sie Rechnungen, die CSR-Datei, Korrigieren von Dokumenten und Metriken hinzufügen können. Bei Bedarf können Sie auch zusätzliche Informationen hinzufügen.
 
-Die Detailseite Ansprüche können Sie anderen Personen in Ihrer Organisation zum Hochladen von Dokumentation in Form anfordern. Für jede der Belege, die Sie hochladen, können Sie erklärender Details bereitstellen. 
+Auf der Seite mit den Anspruchsdetails können Sie andere Personen in Ihrem Unternehmen auffordern, Dokumente in das Formular hochzuladen. Für jeden der Belege, den Sie hochladen, können erklärende Informationen hinzugefügt werden. 
 
-### <a name="manage-your-claims"></a>Linksklick und ziehen	
+### <a name="manage-your-claims"></a>Verwalten Ihrer Ansprüche
 
-Sie sehen alle Aktivitäten, der in die Erstellung von Ihren Anspruch im **Verlauf**wechselt. Jedes Mal, wenn ein Kollegen auf ein Objekt, ein unterstützendes Dokument oder Kommentare hinzugefügt wird die Aktion im **Verlauf**gespeichert. Bis Sie den Anspruch übermitteln, ist der Status **Bearbeiten**. Ihren Anspruch Status geändert wird, wenn es über den Genehmigungsprozess bewegt. Manchmal kann es während der Überprüfung eines Anspruchs, erhalten Sie Feedback für ein bestimmtes Element in der Dokumentation (POE Dokumentation). Feedback und Anfragen für zusätzliche Informationen werden auch in der Anspruch Verlauf angezeigt. 
+Sehen Sie alle Aktivitäten, die in die Erstellung von Ihrem Anspruch im wechselt **Verlauf**. Jedes Mal ein Kollege Fügt ein unterstützendes Dokument oder Kommentare auf, die Aktion befindet sich in **Verlauf**. Bis Sie den Anspruch senden, lautet der Status **Bearbeiten**. Der Status Ihres Anspruchs ändert sich im Laufe des Genehmigungsprozesses. Bei der Prüfung eines Anspruchs erhalten Sie möglicherweise Feedback zu einem bestimmten Element in der Dokumentation (Belege zum Nachweis der Ausführung). Feedback und Anfragen für zusätzliche Informationen werden ebenfalls im Verlauf angezeigt. 
 
-Sie können Ihren Anspruch nicht bearbeiten, nachdem Sie sie übermitteln, es sei denn, ein Prüfer zusätzliche Informationen anfordert.
+Sie können Ihren Anspruch nicht mehr bearbeiten, nachdem Sie ihn übermittelt haben, es sei denn, ein Prüfer fordert zusätzliche Informationen an.
 
-Weitere Informationen finden Sie im [Partner-Incentives Co-op-Leitfaden](https://assets.microsoft.com/coop-guidebook.pdf)
+Weitere Informationen finden Sie im [Leitfaden für Partner-Incentives-Co-Op](https://assets.microsoft.com/coop-guidebook.pdf)

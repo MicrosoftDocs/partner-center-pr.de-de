@@ -8,48 +8,48 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 9744dee5696ffd6ccd2fc0f7a32e4b2f53e80722
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683539"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586293"
 ---
 # <a name="provide-billing-support"></a>Bereitstellen von Abrechnungssupport
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
 
 
-Sie eigene die Abrechnung Beziehung mit Ihren Kunden und Sie sind dafür verantwortlich, Antworten auf Fragen im Zusammenhang mit Abrechnung von Ihren Kunden.
+Sie steuern die Abrechnungsbeziehung mit Ihren Kunden und müssen diesen bei allen mit der Abrechnung verknüpften Fragen zur Seite stehen.
 
--   Sie sind für die Zeit Zahlung an Microsoft verantwortlich.
--   Es empfiehlt sich, eine klare abrechnungsrichtlinie für Kunden, die Ihre inkassoprozesse detailliert beschreibt und den Zugriff auf Abonnements des Kunden, Dienste oder Software regelt werden.
--   Bei Bedarf können Sie Ihre Kunden Zugriff auf ein Produkt bei Nichtzahlung deaktivieren.
+-   Sie sind für die pünktliche Zahlung an Microsoft verantwortlich.
+-   Es wird empfohlen, eine klare Abrechnungsrichtlinie für Kunden aufzustellen, in der Ihr Abrechnungsprozess detailliert geregelt wird und in der die Auswirkungen auf den Zugriff auf Abonnements, Dienste oder Software beschrieben sind.
+-   Bei Bedarf können Sie bei Nichtbezahlung den Zugriff auf das Produkt des Kunden deaktivieren.
 
-## <a name="microsoft-partner-support-guidance"></a>Microsoft Partner-Support-Richtlinien
+## <a name="microsoft-partner-support-guidance"></a>Hilfe für Microsoft Partner-Support
 
-Partner im CSP-Modell Transaktionen sind die als vertrauenswürdiger Berater für Kunden und die Beziehung End-to-End, einschließlich der Unterstützung bei ihren Kunden eine Frage oder ein Problem hat besitzen. Über Unterstützung Touch Informationen Punkte Partner Weitere zum Kunden und ihr Unternehmen, um neue Dienste und Lösungen, die Wert Laufwerk zu identifizieren.
+Partner des CSP-Modells sind vertrauenswürdige Berater für ihre Kunden und für die gesamte Kundenbeziehung zuständig. Hierzu gehört auch eine entsprechende Unterstützung, wenn der Kunde eine Frage oder ein Problem hat. Durch die Supportkontakte können Partner mehr über den Kunden und sein Unternehmen lernen und auch neue Dienste und Lösungen identifizieren, die den Nutzen erhöhen.
 
-Um die Support-Anforderung zu erfüllen kann der Partner Support aus einer anderen Entität weiterverkaufen, sie können alle oder einen Teil ihrer Supportstruktur Auslagern und/oder sie möglicherweise eine Struktur eingerichtet, um Unterstützung direkt bereitzustellen.  Der Partner kann für alle oder einen Teil der Unterstützung für Kunden zu belasten. Der Partner sollten an ihre Kunden den Support zu gliedern, den Sie bieten, den Dienst Stunden und wenden Sie sich an Methode als auch die Preise (falls für die Unterstützung geladen) werden. 
+Um die Supportanforderungen zu erfüllen, kann der Partner Support von einer anderen Entität weiterverkaufen, die gesamte Supportstruktur oder einen Teil davon auslagern und/oder eine Struktur einrichten, um direkte Unterstützung anzubieten.  Der Partner kann Kunden den Support vollständig oder teilweise in Rechnung stellen. Die Partner sollten ihre Kunden über den Support informieren, den sie bereitstellen, sowie über Servicezeiten, Kontaktmethode und Preise (sofern zutreffend). 
 
-Partner sind erforderlich, um eingehende Supportanfragen von Kunden zu erhalten, Probleme, die die besten Merkmale von des Partners Möglichkeit zu diagnostizieren und dann Beheben von Problemen, die innerhalb des Bereichs, der die grundlegende Unterstützung Grenzen liegen. Ist der Partner ein Problem nicht beheben, können sie eskalieren von Problemen an Microsoft über die folgenden Unterstützung Fahrzeuge:
+Partner erhalten Supportanfragen von Kunden, müssen Probleme im Rahmen ihrer Fähigkeiten diagnostizieren und dann Probleme beheben, die innerhalb des Umfangs der Basisunterstützung liegen. Wenn der Partner ein Problem nicht lösen kann, kann er es an Microsoft über die folgenden Supportwerkzeuge eskalieren:
 
-- **Kommerzielle** Problem-Unterstützung ist für alle Partner im CSP-Programm verfügbar
--   **Technischen** Support von Problem wird bereitgestellt durch:
-    -   Premier-Support für Partner (Gebühr Basis)
-    -   Erweiterte Support für Partner (Gebühr Basis)
-    -   Signature Cloud Support (in Gold-/Silver-Kompetenz enthalten)
+- Support für **kommerzielle** Probleme ist für alle Partner im CSP-Programm verfügbar.
+-   Support für **technische** Probleme ist verfügbar über:
+    -   Premiumsupport für Partner (gebührenpflichtig)
+    -   Erweiterter Support für Partner (gebührenpflichtig)
+    -   Signature Cloud Support (in Gold/Silver-Kompetenz enthalten)
 
-### <a name="providing-billing-subscription-management-and-technical-support"></a>Bereitstellen von Abrechnung und abonnementverwaltung und technische Unterstützung 
+### <a name="providing-billing-subscription-management-and-technical-support"></a>Bereitstellen von Abrechnung, Abonnementverwaltung und technischem Support 
 
-Jede online-Dienste verfügt über spezifische und ausführliche für Abrechnung und abonnementverwaltung technischen Support für Kunden bereitstellen. Finden Sie in den folgenden Dokumenten für Weitere Informationen.
+Für jeden Onlinedienst gibt es bestimmte, detaillierte Anforderungen für die Bereitstellung von Abrechnung, Abonnementverwaltung und technischem Support für Kunden. Weitere Informationen finden Sie in den folgenden Dokumenten:
 
--   [Dynamics 365-Abonnements über CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [Dynamics 365-Abonnements, die über den CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [Azure-Abonnements über CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [Azure-Abonnements im CSP-Programm verkauft](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [Office 365-Abonnements über CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [Office 365-Abonnements, die über den CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 

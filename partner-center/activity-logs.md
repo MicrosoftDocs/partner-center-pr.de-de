@@ -6,18 +6,18 @@ description: Aktivitätsprotokolle enthalten Informationen zu Transaktionen und 
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
+Keywords: Aktivitätsprotokolle, Abonnements, Abonnements, Zahlungen, Abrechnung, zu Transaktionen
 ms.localizationpriority: medium
 ms.openlocfilehash: 78f30fc2eadefaf9f9e1624e200f097ad7c57aa8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683759"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586063"
 ---
 # <a name="view-customer-activity-logs"></a>Anzeigen von Kundenaktivitätsprotokollen
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -30,14 +30,14 @@ Aktivitätsprotokolle enthalten Datensätze für Partneraktionen für Kundenkont
 
 **Anzeigen und Exportieren von Aktivitätsprotokollen**
 
-1.  Wählen Sie im Menü " **Partner Center** " **Aktivitätsprotokoll**.
+1.  Von der **Partner Center** , wählen Sie im Menü **Aktivitätsprotokoll**.
 2.  Wählen Sie mithilfe der Felder **Von** und **Bis** den Aktivitätsprotokollierungszeitraum aus. Für den Export des Aktivitätsprotokolls wird standardmäßig der letzte Monat festgelegt.
 
     Jedes Aktivitätsprotokoll enthält einen Link zur Seite **Abonnements** des aufgeführten Kunden.
 
     Wählen Sie für ein beliebiges Aktivitätsprotokoll den Pfeil nach unten, um Details zu einer protokollierten Aktion anzuzeigen. Ein einzelnes Aktivitätsprotokoll kann eine große Menge von Daten enthalten, beispielsweise Daten zur Bestellung mehrerer Produkte.
 
-3.  Wählen Sie **Export log**, um die Abonnementdaten des Kunden in eine CSV-Datei zu kopieren und in den Standarddownloadordner auf Ihrem Computer hochzuladen. Zu den Datenspalten gehören u.a.:
+3.  Wählen Sie **Export log**, um die Abonnementdaten des Kunden in eine CSV-Datei zu kopieren und in den Standarddownloadordner auf Ihrem Computer hochzuladen. Zu den Datenspalten gehören u. a.:
     -   **Affected customer**: Firmenname des Kunden
     -   **Aktion**: Produktname für das Abonnement
     -   **Partnerbenutzer**: Der der Aktivität zugeordnete Partner

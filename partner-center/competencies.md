@@ -3,17 +3,17 @@ title: Verdienen von Microsoft-Kompetenzen | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Verdienen Sie Silver- und Gold-Kompetenzen von Microsoft, um Ihre nachgewiesene Erfahrung bei der Bereitstellung von Qualitätslösungen in einem speziellen Geschäftsbereich zu demonstrieren.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: Kompetenzen, Silber-Mitgliedschaft, Gold-Mitgliedschaft, Mpn, MAPS, Kompetenz, Vorteile, Leistungsziele, Fähigkeitsziele
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 23abe1e491eab6eb4811bf7d87095b2a525e65bc
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: d0c78aa6c84cc1385e7c3ddeef5d434e91e1740a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098787"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586123"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -29,7 +29,7 @@ ms.locfileid: "9098787"
 
 # <a name="competencies"></a>Kompetenzen
 
-**Betrifft:**
+**Gilt für**
 -  Partner Center
 
 Microsoft-Kompetenz-Erfolge zeigen Ihre nachgewiesene Erfahrung bei der Bereitstellung von Qualitätslösungen. Werden Sie Teil der Microsoft-Partnerelite, und heben Sie sich von anderen Anbietern ab. Verwenden Sie sie für Folgendes: 
@@ -38,9 +38,9 @@ Microsoft-Kompetenz-Erfolge zeigen Ihre nachgewiesene Erfahrung bei der Bereitst
 
 *  **Demonstrieren Sie Ihre nachgewiesene Erfahrung**. [Verdienen Sie Geschäftsempfehlungen](referrals.md), indem Sie potenziellen Kunden zeigen, dass Sie in der Lage sind, ihre Anforderungen für eine bestimmte Branche zu erfüllen.
 
-## <a href="" id="attainment_paths"></a> Kompetenzpfade
+## <a href="" id="attainment_paths"></a> Kompetenz-Pfade
 
-[Kompetenzanforderungen für die Silver- und Gold-Mitgliedschaft](learn-about-competencies.md)
+[Kompetenz-Anforderungen für Silber und gold-Mitgliedschaft](learn-about-competencies.md)
 
 ## <a name="earn-competencies"></a>Erlangen von Kompetenzen
 
@@ -58,15 +58,15 @@ Zu **kenntnisbasierten Zielen** zählen:
 
 Bei einigen Kompetenzen gibt es mehrere Möglichkeiten, die Silber- oder Gold-Stufe zu erreichen.
 
-Wechseln Sie zu der **Partnerschaft > Kompetenzen**, um Ihren Fortschritt in einer Kompetenz aus dem Partner Center Partner Center, überprüfen. 
+Überprüfen Sie Ihre Fortschritte in einer Kompetenz, über das Partner Center-Partner Center, navigieren Sie zu der **Partnerschaft > Kompetenzen**. 
 
-### <a href="" id="associating_achievements"></a>Verknüpfen von Mitarbeitern zum Erreichen kenntnisbasierter Ziele
+### <a href="" id="associating_achievements"></a>Erhalten Sie Ihre Mitarbeiter mit vollständigen fertigkeitsbasierter Ziele verbunden
 
-1.  Fügen Sie Benutzerkonten für die Mitarbeiter in Ihrer Organisation hinzu. Das [Partner Center](https://partnercenter.microsoft.com)wechseln Sie zur **Konto Einstellungen >-Benutzer hinzufügen**. (PMC-Benutzer können mehrere Benutzer gleichzeitig durch die Auswahl von **Add users using PMC data** hinzufügen.)
+1.  Fügen Sie Benutzerkonten für die Mitarbeiter in Ihrer Organisation hinzu. Von der [Partner Center](https://partnercenter.microsoft.com), wechseln Sie zu **Kontoeinstellungen > Benutzer hinzufügen**. (PMC-Benutzer können mehrere Benutzer gleichzeitig durch die Auswahl von **Add users using PMC data** hinzufügen.)
 
     Nachdem die Benutzerkonten erstellt wurden, erhalten sie einen neuen Benutzernamen und ein Kennwort und Sie werden aufgefordert, eine Protokolldatei mit Informationen zum Zurücksetzen des Benutzernamens und des Kennworts herunterzuladen. Sie können auch [die Benutzerkonten so einrichten, dass sie das Kennwort selbst zurücksetzen können](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).
 
-2. Bitten Sie die Mitarbeiter in Ihrer Organisation, sich anzumelden und ihr Microsoft-Konto (MSA) mit ihrem Benutzerkonto zu verknüpfen. (Aus dem [Partner Center](https://partnercenter.microsoft.com), rufen Sie die **kontoeinstellungen**.) Mitarbeiter können die gleichen oder unterschiedliche MSAs verwenden, um ihre technischen Microsoft-Prüfungen und-Zertifizierungen und ihre Konten über Microsoft Partner University zu verknüpfen.
+2. Bitten Sie die Mitarbeiter in Ihrer Organisation, sich anzumelden und ihr Microsoft-Konto (MSA) mit ihrem Benutzerkonto zu verknüpfen. (Aus der [Partner Center](https://partnercenter.microsoft.com), wechseln Sie zu **Kontoeinstellungen**.) Mitarbeiter können die gleiche oder ein anderes MSAs verwenden, um ihre technischen Microsoft-zertifizierungsprüfungen und -Zertifizierungen und ihre Konten über Microsoft Partner University zuzuordnen.
 
 3.  **Warten Sie 24 Stunden**, nachdem ein Mitarbeiter sein Konto verknüpft oder ein kenntnisbasiertes Ziel abgeschlossen hat. Danach wird der Fortschritt im Abschnitt **Kompetenzen** angezeigt.
 
@@ -84,13 +84,13 @@ Um das Silver-Vorteilspaket zu erlangen, müssen Sie nur Kenntnisse der Silver-S
 
 Um das Gold-Vorteilspaket zu erwerben, müssen Sie nur Kenntnisse der Gold-Stufe in einem Pfad demonstrieren. Nach dem Upgrade auf Gold zeigen wir Kompetenzen der Silver- und der Gold-Stufe an, die Sie in Ihrem Unternehmensprofil erreicht haben. 
 
-### <a href="" id="maintain_membership"></a> Verwalten und Verlängern der Mitgliedschaft
+### <a href="" id="maintain_membership"></a> Verwalten und Erneuern von Mitgliedschaft
 
 Um Ihre Mitgliedschaft zu verlängern, müssen Sie weiterhin Kenntnisse zu Microsoft-Produkten und -Diensten demonstrieren. Ihr Abonnementstatus verbleibt bis zum Ende des Jahres, in dem Sie es gekauft haben.
 
 Bei abgelaufenen Erfolgen sind Sie unter Umständen nicht für die Aktualisierung oder Verlängerung Ihrer Partnermitgliedschaften auf der gleichen Stufe berechtigt. 
 
-Wenn Sie die Benachrichtigung **A recent change to your competency achievement has put your membership renewal eligibility at risk** erhalten, bedeutet dies, dass mindestens ein Kompetenzerfolg bald abläuft. 
+Wenn Sie die Warnung erhalten: **"Eine zuletzt erfolgte Änderung auf Ihre Kompetenz-Auszeichnung hat gefährden Ihre Mitgliedschaft Erneuerung Berechtigung"**, dies bedeutet, dass eine oder mehrere der Ihre Kompetenz Erfolge möglicherweise bald abläuft. 
 
 Dies ist häufig der Fall, wenn ein Mitarbeiter Ihrer Organisation, der zur Erfüllung der Prüfungs- oder Zertifizierungsanforderungen für eine Kompetenz beigetragen hat, Ihre Organisation verlässt. 
 
@@ -100,4 +100,4 @@ Zum Verlängern oder Aktualisieren Ihrer Mitgliedschaft auf derselben Ebene muss
 
 ## <a name="related-topics"></a>Verwandte Themen
 
-[Kompetenzanforderungen für die Silver- und Gold-Mitgliedschaft](learn-about-competencies.md)
+[Kompetenz-Anforderungen für Silber und gold-Mitgliedschaft](learn-about-competencies.md)

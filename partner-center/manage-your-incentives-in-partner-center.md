@@ -3,19 +3,19 @@ title: Verwalten Ihres Partner Center-Kontos | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Microsoft Partner-Incentives-Programme fördern Partnerrentabilität und -wachstum.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3232f52f3c04d61fb57fdada40a98612341972fc
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 644ac2020551e199ff20f520a8ac3c68ddbece54
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995644"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586993"
 ---
-# <a name="manage-your-incentives-in-partner-center"></a>Verwalten Ihrer Incentives in Partner Center 
+# <a name="manage-your-incentives-in-partner-center"></a>Verwalten Ihrer Anreize in Partner Center 
 
-**Betrifft:**
+**Gilt für**
 
 -  Partner Center
 
@@ -42,7 +42,7 @@ Beginnend mit bereits registrierten Partnern ermöglichen wir Partnern die Verwa
 
 Administratoren: Wenn Sie die E-Mail erhalten haben, führen Sie noch heute die folgenden drei einfachen Schritte aus:
 
-1.  Beim Partner Center anmelden 
+1.  Bei Partner Center anmelden 
 2.  Incentivebenutzer gemäß den Anweisungen in der E-Mail einrichten 
 3.  Partner Center-Anmeldeinformationen an die neu eingerichteten Incentivebenutzer weitergeben
 
@@ -51,8 +51,8 @@ Wenn der Anreizadministrator Anmeldeinformationen erhalten hat, kann er die Migr
 
 [Erstellen von Benutzerkonten und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
 
-[Zurücksetzen von Benutzerkennwörtern](reset-a-user-password.md)
+[Zurücksetzen eines Benutzerkennworts](reset-a-user-password.md)
 
-[Informationen zu den Anreizauszahlungen](understand-incentive-payouts.md)
+[Verstehen Sie Ihren Auszahlungen Incentive](understand-incentive-payouts.md)
 
-Weitere Informationen finden Sie im [Partner-Incentives Co-op-Leitfaden](https://assets.microsoft.com/coop-guidebook.pdf)
+Weitere Informationen finden Sie im [Leitfaden für Partner-Incentives-Co-Op](https://assets.microsoft.com/coop-guidebook.pdf)

@@ -8,15 +8,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995834"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586723"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Steigerung von Einführungsrate und Zufriedenheit
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 
@@ -25,25 +25,25 @@ Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wä
 Über das Programm für Cloud-Lösungsanbieter können Sie Daten für alle Ihre Kunden einsehen. Beachten Sie, dass einige Kunden Lizenzen von anderen Partnern oder direkt von Microsoft erwerben können. In diesem Fall wird die Gesamtanzahl der Lizenzen für alle Partner angezeigt. Um nur Ihre eigenen Lizenzen anzuzeigen, rufen Sie stattdessen die Abonnements des Kunden auf.
 
 > [!NOTE]  
->  Aktuell werden nur Daten für Office365 und Dynamics 365 angezeigt. Wir werden Daten für weitere Produkte in Zukunft aktivieren.
+>  Aktuell werden nur Daten für Office 365 und Dynamics 365 angezeigt. Wir werden Daten für weitere Produkte in Zukunft aktivieren.
 
 ## <a name="find-license-and-user-data"></a>Suchen nach Lizenz- und Benutzerdaten
 
 
-**Einzelner Kunde**
+**Für einen einzelnen Kunden**
 
--   Wählen Sie **Kunden** aus dem **Partner Center**, wählen Sie einen Kunden, und wählen Sie dann **Kundendaten**.
+-   Wählen Sie **Kunden** aus der **Partner Center**, wählen Sie einen Kunden, und wählen Sie dann **Customer Insights**.
 
-**Ganzes Portfolio**
+**Für Ihr portfolio**
 
-1.  Wählen Sie im **Partner Center** **Analysieren**.
+1.  Auf der **Partner Center**Option **analysieren**.
 2.  Laden Sie Bereitstellungs- und Nutzungsdaten Ihres gesamten Kundenstamms herunter, indem Sie die Optionen für den **Export** auswählen.
 
 Terminologie:
 
--   **Berechtigung** Eine Lizenz, zu deren Verwendung der Benutzer berechtigt ist (die also z.B. nicht wegen Betrugs oder Nichtbezahlung ausgesetzt, auf eine andere Lizenz aktualisiert, vom Benutzer storniert wurde usw.).
+-   **Berechtigung** Eine Lizenz, zu deren Verwendung der Benutzer berechtigt ist (die also z. B. nicht wegen Betrugs oder Nichtbezahlung ausgesetzt, auf eine andere Lizenz aktualisiert, vom Benutzer storniert wurde usw.).
 
--   **Aktiv** Der Abonnent hat die Berechtigung in den letzten 28Kalendertagen für eine Aufgabe genutzt.
+-   **Aktiv** Der Abonnent hat die Berechtigung in den letzten 28 Kalendertagen für eine Aufgabe genutzt.
 
 -   **Bereitstellung %** = zugewiesene Lizenzen/verkaufte Lizenzen
 
@@ -70,14 +70,14 @@ Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Za
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problem:</strong> Die Verbreitungsrate bei Benutzer ist niedrig, und viele Lizenzen & #39; t verwendet wird.</p>
-<p><strong>Mögliche Ursache:</strong> Die Kunden erkennen den Wert nicht, den Ihnen die Software bieten kann. Sie benötigen Unterstützung, um Möglichkeiten aufzuzeigen, wie sie die Software in ihre tägliche Arbeit integrieren können, um Aufgaben zu vereinfachen, die sie bereits täglich durchführen, oder um neue Wege zur Steigerung ihrer Produktivität zu finden.</p>
-<p><strong>Was Sie nutzen können:</strong> Fallstudien, Benutzerempfehlungen zu bestimmten Szenarien, Blogs mit Lernprogrammen oder Videos.</p></td>
+<td><p><strong>Problem:</strong> Die User-Adoption-Rate ist niedrig und viele Lizenzen sind&#39;t verwendet wird.</p>
+<p><strong>Was Sie berücksichtigen müssen:</strong> Die Kunden erkennen nicht, welchen Wert ihnen die Software bieten kann. Sie benötigen Unterstützung, um Möglichkeiten aufzuzeigen, wie sie die Software in ihre tägliche Arbeit integrieren können, um Aufgaben zu vereinfachen, die sie bereits täglich durchführen, oder um neue Wege zur Steigerung ihrer Produktivität zu finden.</p>
+<p><strong>Was versuchen Sie es:</strong> Fallstudien, Benutzerempfehlungen zu bestimmten Szenarien, Blogs mit Lernprogrammen oder Videos.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Problem:</strong> Sie erhalten eine große Anzahl von Hilfe-Supportanrufen und Fragen zu Vorgehensweisen.</p>
-<p><strong>Mögliche Ursache:</strong> Kunden kennen die Software, die Produktversion oder ihre Aufgabe noch nicht so gut.</p>
-<p><strong>Mögliche Strategien:</strong> Sie können eine zweigleisige Strategie anwenden, indem Sie Schulungen (Präsenz- oder online) anbieten Kunden & #39; erhöhen s vertiefen, während Sie gleichzeitig einige der Self-service-Optionen für Kunden zur Verfügung bewerben.</p>
+<td><p><strong>Problem:</strong> Sie erhalten eine große Anzahl von Supportanrufen mit Bitten um Hilfe und Fragen zu Vorgehensweisen.</p>
+<p><strong>Was Sie berücksichtigen müssen:</strong> Kunden sind mit der Software, der Produktversion oder den Anwendungsgebieten noch nicht vertraut.</p>
+<p><strong>Was versuchen Sie es:</strong> Sie können eine duale Strategie (persönlich oder online)-Schulungen anbietet verwenden, um Kunden zu erhöhen&#39;s insgesamt Know-how, beim Höherstufen auch einige der Self-service-Optionen für Kunden verfügbar.</p>
 <p>Sie können ggf. auch Ihre Supportwebsite so anpassen, dass sie zusätzlich zu den Supportkontaktinformationen auch die Self-Service-Optionen umfasst, die im Thema <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Kundenselbsthilfe</a> beschrieben sind.</p></td>
 </tr>
 </tbody>

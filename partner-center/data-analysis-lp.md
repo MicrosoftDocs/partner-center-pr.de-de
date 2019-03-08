@@ -3,42 +3,42 @@ title: Daten und Datenanalyse im Partner Center | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Analysieren Sie Ihr Unternehmen mithilfe der Datenfunktionen im Partner Center.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: Daten, Analysen, Datenanalysen, Power BI
 ms.localizationpriority: medium
-ms.openlocfilehash: 32cdbe7a5e95a1d3b39614d69111d552ea4c8585
-ms.sourcegitcommit: 7961476a8fed7cd56a09c6edc8dd1e2dd7f46465
+ms.openlocfilehash: 6bc863943e968bb66ec1090751d1e2a38e3f5d66
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/27/2019
-ms.locfileid: "9117203"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587073"
 ---
 # <a name="get-data-and-analyze-your-business"></a>Daten zum Analysieren Ihres Unternehmens 
 
 Die Planung von Möglichkeiten zur Entwicklung Ihres CSP-Geschäfts setzt voraus, dass Sie verstehen, wie Ihre Kunden Microsoft-Produkte verwenden. Sie haben mehrere Optionen zum Sammeln von Daten im Partner Center. Sie können Daten zu Ihrem Unternehmen erfassen und Daten darüber sammeln, ob und wie Ihre Kunden die Lizenzen verwenden, die sie gekauft haben. Wenn Sie das direkte CSP-Modell nutzen, können Sie die Partner Center Analytics-App für Power BI installieren und verwenden, um zusätzliche Daten zu erfassen.
 
-## <a name="access-to-user-analytics"></a>Zugriff auf Benutzer analytics
+## <a name="access-to-user-analytics"></a>Zugriff auf benutzeranalysen
 
-Im Partner Center hat nur der Administrator für MPN-Partner Zugriff auf Benutzer-Analyse. Wenn eine Person in Ihrem Unternehmen dieser Zugriff (z. B. ein Abrechnungsadministrator) benötigt, können Sie es gewähren, indem Sie diese Person die MPN-Partner Admin-Rolle zuweisen.
+Im Partner Center hat nur der MPN-Partner-Administrator Zugriff auf benutzeranalysen. Wenn eine Person in Ihrem Unternehmen diesen Zugriff (z. B. eine Abrechnung Admin) benötigt, können Sie es durch die Zuweisung dieser Person der MPN-Partner-Administratorrolle gewähren.
 
 >[!NOTE] 
->Um Zugriff gewähren, müssen Sie eine MPN-Partner-Administrator sein.
+>Um Zugriff zu gewähren, müssen Sie ein MPN-Partner-Administrator sein.
 
-**Gewähren des Zugriffs auf Benutzer Datenanalyse im Partner Center** 
+**Gewähren des Zugriffs auf benutzeranalysen im Partner Center** 
 
-1.  Verwenden Sie auf der Seite Partner Center- **Verwaltung der Benutzer** das Suchfeld ein, um die Person zu suchen, die Zugriff benötigt.
-2.  Wählen Sie in den Suchergebnissen den Namen der Person auf der Seite " **Benutzerdetails** " zu öffnen.
-3.  Wählen Sie unter **Rollen und Berechtigungen** **Administrator für MPN-Partner** , und wählen Sie dann **Update**.
+1.  Im Partner Center **benutzerverwaltung** Seite, verwenden Sie das Suchfeld, um die Person zu suchen, die Zugriff benötigt.
+2.  In den Suchergebnissen angezeigt wird, wählen Sie den Namen der Person, öffnen Sie die **Benutzerdetails** Seite.
+3.  Klicken Sie unter **Rollen und Berechtigungen**Option **MPN-Partner Admin** und wählen Sie dann **Update**.
 
  
 ## <a name="access-data-in-partner-center"></a>Datenzugriff in Partner Center
 
-|**Daten**   |**Bitte herunterladen**   |**Bitte lesen**   | **Betrifft:**    |
+|**Zum Abrufen von Daten auf**   |**Diese Software**   |**Lesen Sie diesen**   | **Gilt für**    |
 |---------------------|:-----------------------|:---------------|:--------------|
-|Wie Ihre Kunden erworbene Lizenzen verwenden   |Bereitstellung und Verwendung von Daten aus dem Partner Center = > Produktanalyse   |[Steigern von Akzeptanz und Zufriedenheit](increasing-adoption-and-satisfaction.md)|CSP-Partner|
-|Kundenaktivität in Bezug auf Abonnements   |Aktivitätsprotokolle   |[Anzeigen von Kundenaktivitätsprotokollen](activity-logs.md)|CSP-Partner   |
-|Ausbau des Kundenstamms, Verwendung, Azure-Nutzung und vieles mehr   |Partner Center-App für Power BI   |[Partner Center Analytics-App für Power BI (für direkte Partner im CSP)](power-bi-app-for-direct-partners.md)|CSP-Direktpartner|
+|Wie Ihre Kunden erworbene Lizenzen verwenden   |Bereitstellung und Verwendung von Daten aus Partner Center = > Product Analytics   |[Einführung und Kundenzufriedenheit zu erhöhen](increasing-adoption-and-satisfaction.md)|CSP-Partner|
+|Kundenaktivität in Bezug auf Abonnements   |Aktivitätsprotokolle   |[Anzeigen von Aktivitätsprotokollen Kunden](activity-logs.md)|CSP-Partner   |
+|Ausbau des Kundenstamms, Verwendung, Azure-Nutzung und vieles mehr   |Partner Center-App für Power BI   |[Partner Center Analytics-app für Power BI (direkte CSP-Partner)](power-bi-app-for-direct-partners.md)|CSP-Direktpartner|
 
 
 

@@ -3,19 +3,19 @@ title: Berichte mit Livedaten ersetzten monatliche Berichte für einige Incentiv
 ms.topic: article
 ms.date: 10/29/2018
 description: Für die OSA Sell and Online Services Usage-Incentiveprogramme können jetzt Berichte mit Livedaten abgerufen werden.
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bc9047e21beafb9973723260b437353bbe291603
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: 37458d9c6343fc27d3745a478c24c581eb06c03c
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098717"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583843"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>Berichte mit Livedaten ersetzten monatliche Berichte für einige Incentiveprogramme
 
-**Betrifft:**
+**Gilt für**
 
 -  Partner Center
 
@@ -31,7 +31,7 @@ Derzeit betrifft dies nur die OSA Sell and Online Services Usage-Incentiveprogra
 
 - Die nach Excel exportierbaren Livedaten ersetzten die monatlichen Programmauszüge.
 
-- Die Seite mit den PIRA-Auszügen zeigen ab März2017 keine Daten mehr an.
+- Die Seite mit den PIRA-Auszügen zeigen ab März 2017 keine Daten mehr an.
  
 ## <a name="start-using-the-new-reporting-functionality"></a>Verwenden Sie die neuen Reporting-Funktionen: 
 

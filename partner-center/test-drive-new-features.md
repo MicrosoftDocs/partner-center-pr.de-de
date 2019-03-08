@@ -6,12 +6,12 @@ description: Testen Sie die neuen Partner Center-Features vor der Freigabe, und 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cd09ce1c9896d730f78f6c983e756fc8e8437af6
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 9bcf606a18d93acd532a9a3225ab01f1ba2f23ef
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995734"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585883"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Testen von neuen Partner Center-Features
 
@@ -34,7 +34,7 @@ Für jedes neues Feature können Sie folgende Aktionen ausführen:
 
 - Anweisungen zum Testen des Features
 
-- Sehen Sie unser Zieldatum für ein Feature für die Vorschau und unser Zieldatum Go-live für verfügbar machen, wenn wir die Veröffentlichung des Features in der weltweiten Partner Center-Community.
+- Finden Sie in unserem Zieldatum für die ein Feature für die Vorschau und unser Ziel testmarkt für verfügbar machen, wenn wir die Funktion an der worldwide Partner Center-Community freigeben müssen.
 
 > [!NOTE]  
 >  Mit *Zieldatum für die Veröffentlichung* meinen wir das geplante Datum der Veröffentlichung des Features für alle weltweiten Partner Center-Benutzer. Jedoch können mehrere Faktoren das Veröffentlichungsdatum beeinflussen, einschließlich einer Entscheidung, Feedback zu integrieren, das das Feature verbessert. Wir können das Veröffentlichungsdatum verschieben oder keine kommerzielle Version des Features veröffentlichen.  
@@ -52,7 +52,7 @@ Wir bitten Sie, Ihre Ideen und Gedanken über eine bestimmte Vorschauversion ode
 
 -   Das Feedback-Formular in der unteren rechten Ecke des Partner Center-Fensters verwenden, um Ihr Feedback direkt an uns zu senden. 
 
--   Support anfordern, wenn Probleme mit einem Vorschaufeature auftreten. Wählen Sie zum Erstellen einer Supportanfrage **Supportanfragen > Partner Center-Anfragen** aus dem **Partner Center** -Menü, und wählen Sie dann **neu anfordern** , auf der Seite **Partner Center-Anfragen** .
+-   Support anfordern, wenn Probleme mit einem Vorschaufeature auftreten. Wählen Sie zum Erstellen einer Supportanfrage **Supportanfragen > Partner Center-Anfragen** aus der **Partner Center** Menü, und wählen Sie dann **neue Anforderung** auf die **Partner Center-Anfragen** Seite.
 
 Helfen Sie uns, Ihnen zu helfen.
 

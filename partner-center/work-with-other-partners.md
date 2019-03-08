@@ -7,15 +7,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 641acf32646b193622ca4dce59f75970568af9b4
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794883"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583963"
 ---
 # <a name="work-with-other-partners"></a>Zusammenarbeit mit anderen Partnern
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 
@@ -41,7 +41,7 @@ Sie sind nicht sicher, ob Sie sich als indirekter Wiederverkäufer oder als dire
 
 ## <a name="multi-partner-support"></a>Multipartner-Unterstützung
 
-Das Multipartner-Feature in Partner Center unterstützt Szenarien, in denen ein Kunde mit mehreren Partnern zusammenarbeiten muss. Beispielsweise möchte er mit einem Partner aufgrund seiner Kenntnisse in Bezug auf Office365 zusammenarbeiten, gleichzeitig aber mit einem anderen Partner zusammenarbeiten, der auf Microsoft Azure spezialisiert ist. Weitere Informationen finden Sie unter [Multipartner-Unterstützung](multipartner.md).
+Das Multipartner-Feature in Partner Center unterstützt Szenarien, in denen ein Kunde mit mehreren Partnern zusammenarbeiten muss. Beispielsweise möchte er mit einem Partner aufgrund seiner Kenntnisse in Bezug auf Office 365 zusammenarbeiten, gleichzeitig aber mit einem anderen Partner zusammenarbeiten, der auf Microsoft Azure spezialisiert ist. Weitere Informationen finden Sie unter [Multipartner-Unterstützung](multipartner.md).
 
 Die Multipartner-Unterstützung ist auch in Microsoft-Angeboten für die nationale Cloud verfügbar 
 

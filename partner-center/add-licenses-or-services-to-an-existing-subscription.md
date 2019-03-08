@@ -9,15 +9,15 @@ ms.author: evansma
 keywords: Hinzufügen von Lizenzen zu einem vorhandenen Abonnement, Plätze zu einem vorhandenen Abonnement hinzufügen, Abonnement andern, Ändern eines Abonnements, Weitere Lizenzen für einen Kunden erwerben
 ms.localizationpriority: medium
 ms.openlocfilehash: b76a0d4fd5bf8829c6e2426174f5873f30757315
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098777"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585433"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 
@@ -41,33 +41,33 @@ Die folgenden Updates werden vom Cloud-Lösungsanbieter unterstützt:
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office365Business</td>
+<td>Office 365 Business</td>
 <td><ul>
 <li>Office 365 Business Premium¹</li>
 <li>Office 365 ProPlus</li>
 <li>Office 365 Enterprise E3</li>
-<li>Office 365 Enterprise E5</li>
+<li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office365BusinessPremium</td>
+<td>Office 365 Business Premium</td>
 <td><ul>
 <li>Office 365 Enterprise E3</li>
-<li>Office 365 Enterprise E5</li>
+<li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office365BusinessEssentials</td>
+<td>Office 365 Business Essentials</td>
 <td><ul>
 <li>Office 365 Business Premium¹</li>
 <li>Office 365 Enterprise E1</li>
 <li>Office 365 Enterprise E3</li>
-<li>Office 365 Enterprise E5</li>
+<li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office365BusinessIndia und Office365BusinessEssentialsIndia können auf Office365BusinessPremiumIndia, nicht zu Office365BusinessPremium aktualisiert werden.</p></td>
+<td><p>¹ Office 365-Business-Indien und Office 365 Business Essentials Indien kann zum Office 365 Business Premium Indien und nicht für Office 365 Business Premium aktualisiert werden.</p></td>
 </tr>
 </tbody>
 </table>
@@ -88,12 +88,12 @@ Es ist in den letzten beiden Fällen möglich, dass der Kunde diese Abonnements 
 
 Weitere Informationen über die Auswirkung auf die Abrechnung finden Sie unter den Details zur Kündigung eines Abonnements oder dem Hinzufügen eines neuen Abonnements in [Allgemeine Abrechnungsszenarien](common-billing-scenarios.md).
 
-**Upgrade auf ein Abonnement**
+**Upgrade eines Abonnements**
 
 1.  Um festzustellen, ob ein Abonnement für Upgrade berechtigt ist, wählen Sie Ihren Kunden, und öffnen Sie die Liste der Abonnements.
 2.  Wenn ein Upgrade auf das Abonnement durchgeführt werden kann, sehen Sie ein Informationssymbol direkt hinter dem Abonnementnamen. Zeigen Sie auf dieses Symbol, und wählen Sie dann **Jetzt aktualisieren**.
 3.  Wählen Sie das neue Angebot und dann **Absenden**.
-4.  Möglicherweise ist zusätzliche Arbeit erforderlich, um einige Benutzerkonten für bestimmte Dienste zu aktualisieren. Wenn dies der Fall ist, enthält das Partner Center eine Liste der Konten und Dienste, die betroffen sind. Hilfe finden Sie im Knowledge Base-Artikel [Bei Lizenzen neu zuweisen, während Sie Pläne in Office 365 wechseln](https://go.microsoft.com/fwlink/p/?LinkId=723576).
+4.  Möglicherweise ist zusätzliche Arbeit erforderlich, um einige Benutzerkonten für bestimmte Dienste zu aktualisieren. Wenn dies der Fall ist, bietet das Partner Center eine Liste der Konten und Dienste, die betroffen waren. Hilfe finden Sie im Knowledge Base-Artikel [Bei Lizenzen neu zuweisen, während Sie Pläne in Office 365 wechseln](https://go.microsoft.com/fwlink/p/?LinkId=723576).
 
  
 

@@ -2,21 +2,21 @@
 title: Anbieten von Testversionen von Microsoft-Produkten für Kunden | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Ihre Kunden können Microsoft-Abonnements für 30Tage testen. Sie können die Testversionen im Katalog ebenso wie viele andere Onlinedienste registrieren.
-author: labrenne
+description: Ihre Kunden können Microsoft-Abonnements für 30 Tage testen. Sie können für diese Tests im wie bei vielen anderen online Services-Katalog registrieren.
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c9a005c185ab6abc466495fe1b61b6230a4c9955
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ed6b4b4b0a6bcbcbebfd5ac0f93a2d1fc9cb69d4
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917442"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585063"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Anbieten von Testversionen von Microsoft-Produkten für Kunden
 
-**Betrifft:**
+**Gilt für**
 
 -  Partner Center
 
@@ -24,9 +24,9 @@ Eine gute Möglichkeit, Kunden neue Microsoft-Produkte vorzustellen, ist eine ko
 
 ## <a name="sign-your-customer-up-for-a-trial"></a>Registrieren des Kunden für eine Testversion
 
-1.  Im Partner Center zu **verkaufen** wechseln Sie zur **Katalog**. 
+1.  Von **verkaufen** im Partner Center, navigieren Sie zu **Katalog**. 
 2.  Klicken Sie im Katalog unter **Abrechnungshäufigkeit** auf **Testangebot**. Dadurch werden nur kostenlose Testversionen angezeigt und Angebote ausgeblendet, die nicht kostenlos sind. Testversionen werden im Katalog auf der Registerkarte **Testversionen** angezeigt.
-3.  Wählen Sie die kostenlose Testversion aus, die Sie anbieten möchten, und wählen Sie dann **Übermitteln**. Alle Testversionen gelten für 30Tage, in denen keine Kosten in Rechnung gestellt werden. Sie können sie zu einem beliebigen Zeitpunkt während der Testphase auch in ein kostenpflichtiges Abonnement umwandeln.
+3.  Wählen Sie die kostenlose Testversion aus, die Sie anbieten möchten, und wählen Sie dann **Übermitteln**. Alle Testversionen gelten für 30 Tage, in denen keine Kosten in Rechnung gestellt werden. Sie können sie zu einem beliebigen Zeitpunkt während der Testphase auch in ein kostenpflichtiges Abonnement umwandeln.
 
 ## <a name="using-the-trial"></a>Verwenden der Testversion
 
@@ -38,5 +38,5 @@ Eine gute Möglichkeit, Kunden neue Microsoft-Produkte vorzustellen, ist eine ko
 1.  Wählen Sie von der Abonnementseite des Kunden die kostenlose Testversion aus.
 2.  Wählen Sie **Umwandeln eines Probeabonnements in ein kostenpflichtiges Abonnement**
 3.  Geben Sie die gewünschte Anzahl Lizenzen und die Abrechnungsfrequenz ein, und wählen Sie **Übernehmen** aus.
-4.  Die Abrechnung für das kostenpflichtige Abonnement beginnt mit dem Datum der Konvertierung, und das Abonnement wird automatisch 12Monate nach der Konvertierung erneuert. 
+4.  Die Abrechnung für das kostenpflichtige Abonnement beginnt mit dem Datum der Konvertierung, und das Abonnement wird automatisch 12 Monate nach der Konvertierung erneuert. 
 

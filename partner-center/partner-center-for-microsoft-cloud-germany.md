@@ -8,41 +8,41 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 74fdfa55a90b7e19dbe44f68a2a24f96be0f5e86
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995654"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584123"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Partner Center für Microsoft-Cloud Deutschland
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center für Microsoft-Cloud Deutschland
 
 Microsoft Cloud Deutschland dient zur Erfüllung der strengen deutschen Datenschutzanforderungen. Ein deutscher Datenverwalter kontrolliert den physischen und logischen Zugriff auf Kundendaten nach deutschem Recht. Alle Kundendaten und die Systeme, die den Zugriff auf Kundendaten verwalten und kontrollieren, befinden sich in deutschen Rechenzentren. Das Netzwerk zwischen diesen Rechenzentren ist isoliert und in Deutschland dediziert.
 
-Microsoft-Cloud Deutschland bietet eine separate Instanz von [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992), die von Rechenzentren in Deutschland bereitgestellt. Gewerbliche Kunden in der Europäischen Union (EU) und der EFTA können daher Kundendaten in Übereinstimmung mit den zutreffenden deutschen Gesetzen und Vorschriften sowie wichtigen internationalen Standards speichern und verwalten. Angestellte von Microsoft können nicht ohne Genehmigung und Überwachung des deutschen Datenverwalters oder Kunden auf die Kundendaten zugreifen.
+Microsoft Cloud Deutschland bietet eine separate Instanz des [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992), bereitgestellten in Rechenzentren in Deutschland. Gewerbliche Kunden in der Europäischen Union (EU) und der EFTA können daher Kundendaten in Übereinstimmung mit den zutreffenden deutschen Gesetzen und Vorschriften sowie wichtigen internationalen Standards speichern und verwalten. Angestellte von Microsoft können nicht ohne Genehmigung und Überwachung des deutschen Datenverwalters oder Kunden auf die Kundendaten zugreifen.
 
 > [!IMPORTANT]
 
-> Basierend auf der Entwicklungsschritt bei Kunden, unsere Cloud-Strategie für Deutschland liegt der Schwerpunkt auf die Übermittlung von den neuen Cloud Regionen in Deutschland, die unsere globalen Cloud ist anbieten. In diesem wird wir nicht mehr annehmen neue Kunden oder Bereitstellen neuer Dienste aus der aktuell verfügbaren Microsoft-Cloud Deutschland. Vorhandene Kunden können weiterhin die aktuelle Cloud-Dienste heute verfügbaren verwenden, die wir mit erforderlichen Sicherheitsupdates beibehalten werden. 
+> Basierend auf der Entwicklung der Kundenanforderungen, konzentriert sich unsere Cloud-Strategie für Deutschland auf die Bereitstellung der neuen Cloud-Regionen in Deutschland, die unserem globalen Cloudangebot entsprechen. Mit diesem Fokus werden keine neuen Kunden mehr akzeptiert bzw. keine neuen Dienste über die derzeit verfügbare Microsoft Cloud Deutschland bereitgestellt. Bestehende Kunden können die derzeit verfügbaren Clouddienste, die mit den notwendigen Sicherheitsupdates beibehalten werden, weiterhin verwenden. 
 > 
-> Vorwärts, haben neue Kunden die Möglichkeit, die derzeit verfügbar ist der Regionen oder die Bereiche in Deutschland verwenden, sobald diese verfügbar sind. Weitere Informationen finden Sie in der [Microsoft Cloud-Dienste von neuen Rechenzentren in Deutschland zu übermitteln](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/). 
+> In Zukunft haben neue Kunden die Möglichkeit, die derzeit verfügbaren europäischen Regionen oder die neuen Regionen in Deutschland zu verwenden, sobald sie verfügbar sind. Weitere Informationen finden Sie unter [Microsoft stellt Clouddienste über neue Rechenzentren in Deutschland bereit](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/). 
 
 
-## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Partner Center für Microsoft-Cloud Deutschland: Deutsche Cloudlösungen in EU und EFTA verkaufen
+## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Partner Center für Microsoft Cloud Deutschland: German-Cloud-Lösungen in EU und EFTA verkaufen
 
-Nachdem Sie als Cloud Solution Provider (CSP) für das Microsoft-Cloud Deutschland-Programm registriert sind, können Sie Partner Center verwenden, um deutsche Cloud-spezifische Lösungen und Dienste an Kunden in EU- und EFTA-Ländern/Regionen zu verkaufen. 
+Nachdem Sie als Cloud-Lösungsanbieter (CSP) für das Microsoft-Cloud Deutschland-Programm registriert sind, können Sie Partner Center verwenden, um deutsche Cloud-spezifische Lösungen und Dienste an Kunden in EU- und EFTA-Ländern/Regionen zu verkaufen. 
 
 Um mit deutschen Gesetzen und Vorschriften übereinzustimmen, die sowohl die Erfassung und Verwendung von Personendaten als auch wichtige internationale Standards regeln, erfolgt die Verwaltung folgender Aufgaben der Partner Center durch bestimmte Service-Portale. 
 
 Feature oder Funktion | Vollständige Aufgaben im
 :--- | :---
 Verwaltung der Benutzer des Partners | Office 365 Admin Zentrum oder Azure für Verwaltungsportale von Microsoft-Cloud Deutschland
-Verwaltung der Benutzer des Kundens | Office 365 Admin-Zentrum oder Azure für Verwaltungsportale von Microsoft-Cloud Deutschland
+Verwaltung der Benutzer des Kundens | Office 365 Admin Zentrum oder Azure für Verwaltungsportale von Microsoft-Cloud Deutschland
 Benutzerkennwort zurücksetzen | Verwaltungsportal von Azur für Microsoft-Cloud Deutschland
-Lizenzverwaltung | Office 365 Administrationscenter oder Office 365 Administrationscenter oder Portal für Microsoft Cloud Deutschland Azure Active Directory-Lizenzierung
+Lizenzverwaltung | Office 365 Administrationscenter oder Office 365 Administrationscenter oder Microsoft Cloud Deutschland Azure Active Directory-Lizenzierung-portal
 
 
 Informationen zum Verwalten von Benutzern und Lizenzen finden Sie unter [Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland](user-management-in-partner-center-for-microsoft-cloud-germany.md).

@@ -6,12 +6,12 @@ description: Zur Einhaltung der nationalen, regionalen und branchenspezifischen 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0450e1596eae3c1d064ac3ccbf484f391feae4c1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f92b466f20c894be8c1cd6768409edb9aa80103f
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797213"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584153"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Benutzer- und Lizenzverwaltung im Partner Center für Microsoft Cloud für US-Behörden
 
@@ -19,7 +19,7 @@ ms.locfileid: "5797213"
 
 -  Partner Center für Microsoft Cloud for US Government
 
-Die folgenden Aufgaben werden in der Microsoft Azure-Verwaltungsportal für Microsoft Cloud für US-Behörden verwaltet:
+Die folgenden Aufgaben werden im Microsoft Azure-Verwaltungsportal für Microsoft Cloud für US-Behörden verwaltet:
 
 - Verwaltung der Benutzer des Partners
 
@@ -30,21 +30,21 @@ Die folgenden Aufgaben werden in der Microsoft Azure-Verwaltungsportal für Micr
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Verwalten von Benutzern im Azure-Portal für Microsoft Cloud für US-Behörden
 
-Wenn Sie sich beim Partner Center für Microsoft Cloud für US-Behörden angemeldet haben, können Sie das Azure-Portal für Microsoft Cloud für US-Behörden öffnen, ohne sich erneut anzumelden. Wenn Sie direkt im Azure-Portal für Microsoft Cloud für US-Behörden anmelden müssen, jedoch, wechseln Sie zu (https://portal.azure.us/) und melden Sie sich mit globalen Administrator-Anmeldeinformationen für Ihren Azure AD-Mandanten für Microsoft Cloud für US-Behörden.
+Wenn Sie sich beim Partner Center für Microsoft Cloud für US-Behörden angemeldet haben, können Sie das Azure-Portal für Microsoft Cloud für US-Behörden öffnen, ohne sich erneut anzumelden. Wenn Sie sich jedoch direkt beim Azure-Portal für Microsoft Cloud for US Government anmelden müssen, gehen Sie zu (https://portal.azure.us/)), und melden Sie sich mit den globalen Administratoranmeldeinformationen für Ihren Azure AD-Mandanten für Microsoft Cloud for US Government an.
 
 Nachdem Sie sich erfolgreich beim Azure-Portal für Microsoft Cloud für US-Behörden angemeldet haben, öffnen Sie die Übersicht der Seite Azure Active Directory (Azure AD) und folgen Sie den Anweisungen für folgende Themen:
 
 > [!NOTE]  
-> Wählen die unten angegebenen Links gelangen Sie zu einer anderen Website. 
+> Wählen die folgenden Links gelangen Sie zu einer anderen Website. 
 
--  [**Azure Active Directory neue Benutzer hinzufügen**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [**Fügen Sie neuer Benutzer in Azure Active Directory hinzu**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [**Einem Benutzers Administratorrollen in Azure Active Directory zuweisen**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [**Zuweisen eines Benutzers zu Administratorrollen in Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [**Kennwort für einen Benutzer in Azure Active Directory zurücksetzen**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [**Zurücksetzen des Kennworts für einen Benutzer in Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **Verwandte Themen**
 
--  [**Partner Center für Microsoft Cloud für US-Behörden**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Partner Center für Microsoft Cloud für US-Regierung**](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**Registrieren für das Microsoft Cloud-Lösungsanbieter-Programm für Microsoft Cloud für US-Behörden**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [**Anmelden Sie am Cloud Solution Provider-Programm für Microsoft Cloud für US-Behörden**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

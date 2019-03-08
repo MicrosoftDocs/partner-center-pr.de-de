@@ -2,22 +2,22 @@
 title: Eskalieren von Problemen an Microsoft | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Es wird erwartet, dass Sie Probleme im Auftrag Ihrer Kunden lösen. Es gibt jedoch einige Typen von Problemen, die Sie benötigen, wenden an Microsoft, um das Problem zu beheben.
+description: Es wird erwartet, dass Sie Probleme im Auftrag Ihrer Kunden lösen. Es gibt jedoch verschiedene Kategorien von Problemen, die Sie an Microsoft, beheben Sie übergeben müssen.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 0c1fc091212d70bf18337a9e17cc8f83cb61d4ae
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917352"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586433"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Eskalieren von Problemen an Microsoft
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -37,21 +37,21 @@ Es gibt jedoch einige Typen von Problemen, mit denen Sie sich an Microsoft wende
 
 -   Regionale Probleme mit Auswirkungen auf die Mehrinstanzenfähigkeit
 
-## <a name="submit-a-support-request"></a>Senden Sie eine Supportanfrage
+## <a name="submit-a-support-request"></a>Übermitteln einer Supportanfrage
 
-1. Wählen Sie aus dem Partner Center **Kunden**.
-2. Wählen Sie den Kunden, der die Unterstützung benötigen.
-3. Wählen Sie **Servicemanagement** und **Serviceanfragen**.
-4. Wählen Sie **neue Anfrage** , und wählen Sie dann **Microsoft Office 365**.
-5. Sie sind auf Office 365-Portal weitergeleitet, in denen Sie mithilfe der Anmeldedaten Ihrer Partner Center anmelden müssen.
-6. Wählen Sie die **Unterstützung**, **neue Serviceanfrage** vom linken Menü.
-7. Wählen Sie im Supportthema.
+1. Wählen Sie im Partner Center **Kunden**.
+2. Wählen Sie den Kunden aus, der die Unterstützung benötigt.
+3. Wählen Sie **Serviceverwaltung** und dann **Serviceanfragen** aus.
+4. Wählen Sie **Neue Anfrage** und dann **Microsoft Office 365** aus.
+5. Sie werden beim Office 365-Portal weitergeleitet, in denen müssen Sie sich mit Ihren Partner Center-Anmeldeinformationen anmelden.
+6. Wählen Sie **Unterstützung**, **Neue Serviceanfrage** im Menü links auf der Seite.
+7. Wählen Sie das Supportthema aus.
 
 >[!NOTE]
->Es ist wichtig, die aus dem Partner Center zu starten, damit die Beziehung zwischen Partnern und Kunden aufrechterhalten wird. 
+>Es ist wichtig, um über das Partner Center zu starten, damit die Beziehung zwischen Partner und Kunden aufrechterhalten wird. 
 
 
-Informationen zum Melden von Problemen im Auftrag des Kunden finden Sie unter [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md).
+Weitere Informationen zum Melden von Problemen im Auftrag des Kunden finden Sie unter [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md).
 
  
 

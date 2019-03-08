@@ -8,15 +8,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 58c11c47a5d3e069fcbcea1a234cf6cf548a8006
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098807"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585303"
 ---
 # <a name="tax-and-tax-exemptions"></a>Steuern und Steuerbefreiungen
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -24,11 +24,11 @@ ms.locfileid: "9098807"
 
 Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf den Weiterverkauf von Produkten durch Partner konzentriert, ist Microsoft nicht in allen Fällen verpflichtet, bei Partnerrechnungen die Mehrwertsteuer zu berechnen. Die Bestimmungen variieren je nach Land/Region. Partner sollten basierend auf ihrem Handelsstandort und dem ihrer Kunden mit Unterstützung ihres Steuerberaters die geeigneten Steuerbefreiungen beantragen. Um nachzuweisen, dass sein Microsoft-Handelspartnerkonto steuerbefreit ist, sollte der Partner die Bescheinigung zur Umsatzsteuerbefreiung an Microsoft übermitteln.
 
-**Beantragen einer Steuerbefreiung**
+**Die Datei eine Steuer-Ausnahme**
 
-1.  Schlagen Sie Ihre **Microsoft-ID** im Partner Center &gt; **kontoeinstellungen** &gt; **Organisationsprofil**.
-2.  Schlagen Sie Ihre **MPN-ID** im Partner Center &gt; **kontoeinstellungen** &gt; **Partner-Profil**.
-3.  Erstellen Sie ein neues Supportticket. Wählen Sie aus dem Menü Partner Center **Serviceanfragen** &gt; **Partner Center-Anfragen** &gt; **neue Anfrage**.
+1.  Suchen Sie Ihre **Microsoft-ID** im Partner Center &gt; **Kontoeinstellungen** &gt; **Organisationsprofil**.
+2.  Suchen Sie Ihre **MPN-ID** im Partner Center &gt; **Kontoeinstellungen** &gt; **Partnerprofil**.
+3.  Erstellen Sie ein neues Supportticket. Wählen Sie im Partner Center-Menü **Dienstanforderungen** &gt; **Partner Center-Anfragen** &gt; **neue Anforderung**.
 4.  Füllen Sie das Formular aus. Wählen Sie unter **Problemtyp** die Option **Ich kann mein Profil nicht verwalten** aus. Geben Sie in der Beschreibung Ihre MPN-ID und Microsoft-ID an.
 5.  Nachdem Sie das Ticket übermittelt haben, erhalten Sie von Microsoft eine E-Mail mit der Bitte um weitere Informationen. Fügen Sie Ihrer Antwort die erforderlichen Bescheinigungen für Ihre Steuerbefreiung bei.
 
@@ -52,13 +52,13 @@ Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf
 <p>Da Microsoft keine Gutschriften und erneute Rechnungsstellungen unterstützt, müssen Sie Ihre USt-IdNr. vor dem Verkauf von Abonnements in Partner Center registrieren.</p>
 <p>Übermitteln der USt-IdNr. an Microsoft</strong></p>
 <ol>
-<li>Wechseln Sie im Partner Center zu Menü "Partner Center" &gt; <strong>kontoeinstellungen</strong> &gt; <strong>Abrechnung Partner-Profil</strong>.</li>
+<li>Navigieren Sie im Partner Center zu im Partner Center-Menü &gt; <strong>Kontoeinstellungen</strong> &gt; <strong>Partnerrechnungsprofil</strong>.</li>
 <li>Wählen Sie im Abschnitt <strong>Finanzdaten</strong> die Option <strong>Aktualisieren</strong> aus.</li>
 <li>Geben Sie unter <strong>Steuernummer des Unternehmens</strong> Ihre  USt-IdNr. an.</li>
 </ol></td>
 </tr>
 <tr class="odd">
-<td>Vereinigte Staaten</td>
+<td>USA</td>
 <td><p>Alle Handelspartner in den Vereinigten Staaten sind verpflichtet, die Bescheinigungen zur Steuerbefreiung innerhalb von 30 Tagen nach Zustimmung zum Microsoft Reseller Agreement einzureichen. Die Freistellungszertifikate für den Weiterverkauf variieren je nach Bundesstaat. Erkundigen Sie sich bei Ihrem Steuerberater nach den relevanten Bestimmungen für Ihre offizielle Anschrift und die Bundesstaaten, in denen Ihr Gewerbe angemeldet ist.</p>
 <p>Dies umfasst möglicherweise Steuerbefreiungszertifikate für den Weiterverkauf, die für mehrere Bundesstaaten gültig sind, wie das <em>Zertifikat für die Steuerbefreiung im Rahmen des Abkommens zur Optimierung von Umsatz- und Nutzungssteuern</em> oder das <em>Einheitliche MTC-Steuerbefreiungszertifikat für Verkaufs- und Nutzungssteuern</em>.</p></td>
 </tr>

@@ -8,33 +8,33 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a7643907f809fdb1fcfe58199ae98c32272416dd
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794893"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587703"
 ---
 # <a name="reset-a-user-password"></a>Zurücksetzen von Benutzerkennwörtern
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
    
 > [!NOTE]  
->  Wenn Sie Microsoft-Cloud Deutschland-Programm (Cloud Solution Provider, CSP) registriert sind, finden Sie weitere Informationen zum Zurücksetzen eines Benutzerkennworts [benutzerverwaltung im Partner Center für Microsoft Cloud Deutschland](user-management-in-partner-center-for-microsoft-cloud-germany.md) .
+>  Wenn Sie das Programm (Cloud Solution Provider, CSP) in Microsoft Cloud Deutschland registriert sind, finden Sie unter [benutzerverwaltung in Partner Center für Microsoft Cloud Deutschland](user-management-in-partner-center-for-microsoft-cloud-germany.md) Informationen zum Zurücksetzen des Kennworts eines Benutzers.
 
 Wenn Benutzer ihr Kennwort vergessen, weisen Sie ihnen ein neues temporäres Kennwort zu. Sie können es für die nächste Anmeldung beim Partner Center verwenden.
 
-**Zurücksetzen von Benutzerkennwörtern als Administrator**
+**Zurücksetzen eines Benutzerkennworts als Administrator**
 
-1.  Wechseln Sie zu **Einstellungen** &gt; **Benutzerverwaltung**.
+1.  Wechseln Sie zu **Einstellungen** &gt; **benutzerverwaltung**.
 2.  Wählen Sie den Benutzer aus der Liste aus.
 
 3.  Wählen Sie unten auf der Seite **Kennwort zurücksetzen** aus.
 
 4.  Es wird ein Bestätigungsbildschirm mit einem temporären Kennwort für den neuen Anmeldenamen angezeigt. Sie müssen das Kennwort kopieren und an den neuen Benutzer senden. Nach Verlassen des Bildschirms ist es nicht mehr verfügbar. Wenn der Benutzer sich zum ersten Mal anmeldet, wird er zum Aktualisieren des Kennworts aufgefordert.
 
-**Zurücksetzen des eigenen Kennworts**
+**Zurücksetzen Sie Ihres eigenen Kennworts**
 
 1.  Melden Sie sich beim Partner Center an. Wählen Sie dann am oberen Bildschirmrand Ihren Namen aus, und wählen Sie **Mein Profil** aus.
 

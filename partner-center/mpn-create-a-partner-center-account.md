@@ -1,5 +1,5 @@
 ---
-title: PartnerCenter-Konto erstellen | Partner Center
+title: Partner Center-Konto erstellen | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
 description: Mitglieder im Microsoft Partner Network müssen ein Partner Center-Konto erstellen, um ihre Netzwerkvorteile und Kompetenzen verwalten und ein Unternehmensprofil erstellen zu können.
@@ -7,15 +7,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 93b8eb679731025cd7ded38abf6e071c5b797893
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796203"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587593"
 ---
-# <a name="create-a-partner-center-account"></a>Erstellen eines Partner Center-Kontos
+# <a name="create-a-partner-center-account"></a>Partner Center-Konto erstellen
 
-**Betrifft**
+**Gilt für**
 
 -   Partner Center
 -   Mitgliedschaft im Microsoft Partner Network
@@ -27,11 +27,11 @@ Damit Sie ein Konto in Partner Center erstellen oder sich für ein Partnerprogra
 
 Nachdem Sie ein Partner Center-Konto erstellt und Ihre Microsoft Partner Network-Mitgliedschaft verlängert haben, können Sie:
 
--   [Microsoft Action Pack-Abonnements kaufen und verlängern](mpn-get-action-pack.md)
+-   [Erwerben Sie oder erneuern Sie ein Microsoft Action Pack-Abonnement](mpn-get-action-pack.md)
 
--   [Ein Unternehmensprofil erstellen, um Vertriebskontakte von Microsoft zu erhalten](create-a-marketing-profile.md)
+-   [Erstellen eines Geschäftsprofils um Vertriebsleads von Microsoft zu erhalten.](create-a-marketing-profile.md)
 
--   [Vertriebskontakte von Microsoft erhalten und verwalten](responding-to-referrals.md)
+-   [Abrufen und Verwalten von Leads von Microsoft](responding-to-referrals.md)
 
 ## <a name="before-you-begin"></a>Vorbemerkungen
 
@@ -49,7 +49,7 @@ Zum Erstellen eines Kontos in Partner Center und zum Verlängern Ihrer Microsoft
 
 Wir werden diese Informationen während des Kontoerstellungsprozesses überprüfen. 
  
-## <a name="create-a-partner-center-account"></a>Erstellen eines Partner Center-Kontos
+## <a name="create-a-partner-center-account"></a>Partner Center-Konto erstellen
 
 1.  Lesen Sie die Informationen auf der Seite **Willkommen**, und wählen Sie dann **Weiter**.
 
@@ -70,18 +70,18 @@ Wir werden diese Informationen während des Kontoerstellungsprozesses überprüf
 
 5.  Stellen Sie sicher, dass Sie der Administratorgruppe hinzugefügt wurden. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
 
-    a. Wählen Sie in Ihrem **Partner Center**das Symbol " **Einstellungen** ", und wählen Sie dann **benutzerverwaltung**.  
+    a. In Ihrer **Partner Center**, wählen die **Einstellungen** Symbol und wählen Sie dann **benutzerverwaltung**.  
 
     b. Wählen Sie Ihren Namen aus der Anwenderliste aus und dann **Administrator-Agent**, sofern nicht bereits ausgewählt. Wählen Sie **Update**.  
 
 ## <a name="next-steps"></a>Nächste Schritte
 
--   [Hinzufügen von Benutzern und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
+-   [Kontobenutzer hinzufügen und ihnen Berechtigungen zuweisen](create-user-accounts-and-set-permissions.md)
 
--   [Kauf oder Verlängerung eines Microsoft Action Pack-Abonnements](mpn-get-action-pack.md)
+-   [Erwerben Sie oder erneuern Sie ein Abonnement von Microsoft Action Pack](mpn-get-action-pack.md)
 
--   [Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile](manage-your-partner-network-benefits.md)
+-   [Verwalten von mitgliedschaftsvorzüge](manage-your-partner-network-benefits.md)
 
--   [Erfahren Sie mehr über die Kompetenzanforderungen für die Silber und Gold-Mitgliedschaft](https://partner.microsoft.com/membership/competencies)
+-   [Erfahren Sie mehr über die Kompetenz-Anforderungen für die Gold und Silver-Mitgliedschaft](https://partner.microsoft.com/membership/competencies)
 
--   [Erstellen eines Unternehmensprofils um Vertriebskontakte von Microsoft zu erhalten](create-a-marketing-profile.md)
+-   [Erstellen eines Geschäftsprofils um Vertriebsleads von Microsoft zu erhalten.](create-a-marketing-profile.md)

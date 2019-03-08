@@ -8,15 +8,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 3158679d8a435a8252ad7dfb60d5cccc5cfa2f1f
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683439"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587583"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Einrichten eines Kundenbudgets für Azure-Kosten
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -32,9 +32,9 @@ Um Kunden bei der Verwaltung der Azure-Kosten behilflich zu sein, können Sie ei
 Die Azure-Ausgaben sind nur ein Schätzwert, die aktuellen Abrechnungsbeträge können variieren, und der Betrag enthält keine Steuern, Gutschriften, Korrekturen oder andere Gebühren, die auftreten können. Die Ausgaben werden einmal pro Tag aktualisiert. Ihre Kunden können Azure-Dienste und -Ressourcen weiterhin nutzen und diese in Rechnung stellen, solange Sie die Kontoeinstellungen im Azure-Portal nicht ändern. 
 
 > [!NOTE]  
-> Dieses Feature ist nicht in Sandbox oder Test in Production (TIP) Konten verfügbar.
+> Dieses Feature ist nicht in Sandkasten oder Test in Production (TIP) Konten verfügbar.
 
-**Aktivieren von E-Mail-Benachrichtigungen**
+**E-Mail-Benachrichtigungen aktivieren**
 1.  Wählen Sie im Partner Center-Menü **Azure-Ausgaben**.
 2.  Aktivieren Sie die Option **E-Mails erhalten**, um sich benachrichtigen zu lassen, wenn Ihre Kunden mindestens 80 % ihres Budgets aufgebraucht haben. Dadurch behalten Sie Ihre Azure-Rechnung im Blick. Sie können die standardmäßige E-Mail-Adresse für den Empfang von Benachrichtigungen in eine persönliche oder beliebige andere E-Mail-Adresse ändern.
 
@@ -50,8 +50,8 @@ Die Azure-Ausgaben sind nur ein Schätzwert, die aktuellen Abrechnungsbeträge k
 2.  Wählen Sie Kunden aus der Liste aus.
 3.  Wählen Sie **Remove budget**.
 
-**Detaillierte Kosten anzeigen**
-1.  Wählen Sie im Partner Center-Menü **Kunden**aus.
+**Kosten Sie aufgeschlüsselte anzeigen**
+1.  Wählen Sie im Partner Center-Menü **Kunden**.
 2.  Wählen Sie einen Kunden aus der Kundenliste.
 3.  Wählen Sie auf der Kundenverwaltungsseite unter **Usage-based subscriptions** ein Abonnement aus. Die aktuelle geschätzte Verwendung und eine Liste der Einzelkosten pro Dienst werden angezeigt.
 

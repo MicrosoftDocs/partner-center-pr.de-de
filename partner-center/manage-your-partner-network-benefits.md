@@ -2,36 +2,36 @@
 title: Verwalten der Microsoft Partner Network-Vorteile | Partner Center
 ms.topic: article
 ms.date: 10/29/2018
-description: Als Microsoft Partner Network-Mitglied haben Sie Anspruch auf den Erwerb bestimmter Mitgliedschaftsvorteile. Erläutert das Aktivieren und Verwalten Ihrer mitgliedschaftsvorteile im Partner Center.
+description: Als Microsoft Partner Network-Mitglied haben Sie Anspruch auf den Erwerb bestimmter Mitgliedschaftsvorteile. Erläutert das Aktivieren und Verwalten von mitgliedschaftsvorzüge im Partner Center.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, Mitgliedschaftsvorteile, Mitgliedschaft
 ms.localizationpriority: medium
 ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796383"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584703"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile
 
-**Betrifft:**
+**Gilt für**
 
 -  Partner Center
 
 >[!IMPORTANT]
->In diesem Artikel wird erläutert, wie für den Einstieg Ihrer Microsoft Partner Network (MPN)-mitgliedschaftsvorteile im Partner Center (früher als Partner Center bezeichnet) – diese Website. Wenn Sie eine Einladung zum Verschieben Ihrer Unternehmensinformationen vom Partner Membership Center (PMC) zum Partner Center erhalten haben, sollten Sie weiterhin Ihre MPN-mitgliedschaftsvorteile in PMC verwalten. [Melden Sie sich](https://partner.microsoft.com/_login?authType=OpenIdConnect) jetzt beim PMC an.   
+>In diesem Artikel wird erläutert, wie beim Einstieg in Ihr Microsoft Partner Network (MPN) Mitgliedschaft Vorteile im Partner Center (vormals bekannt als Partner Center) – dieser Website. Wenn Sie eine Einladung an Ihre Unternehmensinformationen von Partner Membership Center (PMC) in das Partner Center verschieben nicht erhalten haben, sollten Sie weiterhin Ihre Vorteile des MPN-Mitgliedschaft in der PMC zu verwalten. [Melden Sie sich](https://partner.microsoft.com/_login?authType=OpenIdConnect) jetzt beim PMC an.   
 
 Wenn Sie dem Microsoft Partner Network (MPN) beitreten, erhalten Sie Zugriff auf Mitgliedschaftsvorteile, die Ihnen können, Ihr Geschäft auf- und auszubauen. Wenn Sie noch kein Mitglied von MPN sind, können Sie jetzt auf der [MPN-Website](https://partner.microsoft.com/membership) beitreten.
 
 
-## <a name="manage-your-membership-benefits-in-the-partner-center"></a>Verwalten Sie Ihrer mitgliedschaftsvorteile im Partner Center
+## <a name="manage-your-membership-benefits-in-the-partner-center"></a>Verwalten von mitgliedschaftsvorzüge im Partner Center
 
 Nach dem Erwerb eines Mitgliedschaftsvorteilspakets müssen Sie Softwareschlüssel erhalten und Lizenzen, Abonnements sowie andere Vorteile zu Mitarbeitern zuweisen, damit diese sie nutzen können. 
 
 >[!IMPORTANT]
->Während Sie nicht in Ihrer Organisation Vorteile erwerben ein globaler Administrator sein müssen, müssen Sie der globale Administrator Vorteile zu Mitarbeitern zuweisen werden.  Wenn Sie möchten, können Sie ein globaler Administrator teilnehmen, gemäß die Anweisungen auf der [Seite **Vorteile** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Außerdem haben Ihrer Organisation möglicherweise bereits einen globalen Administrator also mit Ihrem Team überprüft werden.
+>Sie müssen zwar kein globaler Administrator in Ihrer Organisation sein, um Vorteile zu erwerben, Sie müssen aber globaler Administrator sein, um Vorteile Mitarbeitern zuzuweisen.  Wenn Sie möchten, können Sie globaler Administrator werden, indem Sie die Anweisungen auf Ihrer [**Vorteile**-Seite](https://partnercenter.microsoft.com/pcv/partnership/benefits) befolgen (Anmeldung erforderlich). Möglicherweise verfügt Ihre Organisation bereits über einen globalen Administrator; überprüfen Sie dies mit Ihrem Team.
 
 Vorteilspakete umfassen Zuweisungen von Softwarelizenzen, Clouddiensten, Visual Studio-Abonnements und Support mit internen Nutzungsrechten. Sie finden die Details zum Action Pack-Abonnement auf der [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software)-Website.  
 
@@ -74,7 +74,7 @@ Navigieren Sie zum Anzeigen und Verwalten Ihrer Mitgliedschaftsvorteile zur Seit
 3. Um ein Visual Studio-Abonnement zu aktivieren, wählen Sie einen Benutzer aus der Liste aus, und wählen Sie dann **Benutzer zuweisen**. 
 
 > [!IMPORTANT]  
-> Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen** [neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
+> Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen**[neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
 
 3. Wiederholen Sie diesen Vorgang für jedes Abonnement, das Sie zuweisen möchten. Benutzer können ihre Abonnements im Visual Studio-Portal verwalten. 
 
@@ -90,7 +90,7 @@ Navigieren Sie zum Anzeigen und Verwalten Ihrer Mitgliedschaftsvorteile zur Seit
 
 3. Um den Supportvorteil zu aktivieren, weisen Sie ihm einen Benutzer zu. 
    
-    a.  Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen** [neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
+    a.  Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen**[neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
 
     b.  Geben Sie eine E-Mail-Adresse für den Benutzer ein, die sich von der E-Mail-Adresse unterscheidet, die dem Partner Center-Konto zugeordnet ist. 
     
@@ -102,10 +102,10 @@ Navigieren Sie zum Anzeigen und Verwalten Ihrer Mitgliedschaftsvorteile zur Seit
 ) aus, und wählen Sie dann **Anforderung einreichen** aus.
 
 
-#### <a name="see-also"></a>Weitere Informationen
+#### <a name="see-also"></a>Siehe auch
 
-[Hinzufügen von Benutzern und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
+[Hinzufügen von Benutzern und Berechtigungen zuweisen](create-user-accounts-and-set-permissions.md)
 
-[Kauf oder Verlängerung eines Microsoft Action Pack-Abonnements](mpn-get-action-pack.md)
+[Erwerben Sie oder erneuern Sie ein Abonnement von Microsoft Action Pack](mpn-get-action-pack.md)
 
 

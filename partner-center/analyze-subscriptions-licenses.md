@@ -1,7 +1,7 @@
 ---
-title: Analysieren Sie die Abonnements und Lizenzen | Partner Center
+title: Analysieren von Abonnements und Lizenzen | Partner Center
 ms.date: 07/12/2018
-Description: Use the metrics in the Subscription and license analytics page to identify your successes and areas that need more attention.
+Description: Verwenden Sie die Metriken auf der Seite der Analytics-Abonnement und die Lizenz, um zu identifizieren, Ihre Erfolge und Bereiche, die mehr Aufmerksamkeit erfordern.
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
@@ -9,26 +9,26 @@ ms.topic: article
 keywords: Geschäftsdaten
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 60ab45e6c50e7e3b6ab312c4c64dfeb3aacb53d9
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: d1db5bd56c172a36afa6cb90f0ab5c798e6ba95b
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917462"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584533"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analysieren von Abonnements und Lizenzen 
 
-**Betrifft:**
+**Gilt für**
 
 - Partner Center
 
-Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Abonnement und lizenzanalyse** zum Ermitteln der Erfolge und Bereiche, die mehr Aufmerksamkeit erfordern. Verwenden Sie diese Informationen für die Planung neuer Geschäftsziele.
+Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Analysen zu Abonnements und Lizenzen**, um Ihre Erfolge sowie die Bereiche zu identifizieren, die mehr Aufmerksamkeit erfordern. Verwenden Sie diese Informationen für die Planung neuer Geschäftsziele.
 
 > [!NOTE]
-> Abonnement-Lizenz-Analyse ist nur für Partner im Cloud-Lösungsanbieter-Programm verfügbar.
+> Die Analysen zu Abonnements und Lizenzen stehen nur Partnern des Programms für Cloud Solution Provider zur Verfügung.
 
 
-Dieser Bericht kann pivot-basierend auf den folgenden Produkten:
+Dieser Bericht steht basierend auf den folgenden Produkten als Pivot zur Verfügung:
 
  - **Dynamics 365**: Dynamics 365-Daten  
  - **EMS**: Enterprise Management Services-Daten  
@@ -39,33 +39,33 @@ Dieser Bericht kann pivot-basierend auf den folgenden Produkten:
 Wir verfolgen die folgenden Metriken:
 
 **Zusammenfassung**  
- - **Abonnements verkauft**: Anzahl der Abonnements für den angegebenen Zeitraum erstellt  
- - **Die Lizenzen**: Anzahl der Lizenzen für den angegebenen Zeitraum verkauft   
- - **Abonnements in 30 Tagen verlängern**: Anzahl von Abonnements, in denen der Status aktiv für die angegebene Zeit ist Zeitraum und, **Erneuerung** wahr ist.
- - **Aktiven Abonnements**: Abonnements, in denen der Status **aktiv** ist,  
- - **Ausgesetzt Abonnements**: Anzahl der angehaltenen Abonnements, dass kein Datum, an dem angewendet wird  
+ - **Verkauft Abonnements**: Die Anzahl der Abonnements für den angegebenen Zeitraum erstellt  
+ - **-Lizenzen verkauft**: Anzahl der Lizenzen verkauft wurden im angegebenen Zeitraum   
+ - **Abonnements, die in 30 Tagen erneuert**: Die Anzahl der Abonnements, in dem der Status aktiv für die angegebene Zeit Zeitraum und wo ist **für automatische Verlängerung** ist "true"
+ - **Aktive Abonnements**: Abonnements, in dem der Status ist **Active**  
+ - **Abonnements angehalten**: Anzahl von ausgesetzten Abonnements, es gibt keinen Datumsfilter  
 
-**Aufschlüsselung der Produkt**  
- - **Abonnement-Anzahl**: 5 Top-Produkte-Abonnements sortiert  
- - **Anzahl der Lizenzen**: 5 Top-Produkte durch sortiert verkauften Lizenzen
+**Aufschlüsselung des Produkts**  
+ - **Anzahl für Abonnement**: Top 5-Produkte verkauft Abonnements sortiert  
+ - **Lizenzanzahl**: Top 5-Produkte nach sortierten Lizenzen verkauft.
 
-**Abonnement-Aufbewahrung**
- - **Renewed Abonnements**: Abonnements, die in den letzten 30 Tagen verlängert.  
+**Aufbewahrung für Abonnement**
+ - **Abonnements verlängert**: Abonnements, die in den letzten 30 Tagen erneuert  
 
-**Abonnement Änderungsumfang**  
- - **Neue Abonnements**: Anzahl der neue Abonnements für den Zeitraum Testangebote ausschließen  
- - **Deprovisioned Abonnements**: Anzahl der Abonnements nicht bereitgestellt oder von Datum, an dem angehalten  
+**Abonnement-Änderungen**  
+ - **Neue Abonnements**: Anzahl der neuen Abonnements für den Zeitraum, ausgenommen Testangebote  
+ - **Abonnements aufgehoben**: Die Anzahl der Abonnements aufgehoben oder nach Datum angehalten  
 
-**Angehaltenen Abonnements**  
- - Liste aller Abonnements mit dem Status der **angehalten**, ausgenommen Testangebote  
+**Angehaltene Abonnements**  
+ - Liste aller Abonnements mit dem Status **Ausgesetzt**, ausgenommen Testangebote  
   
-**Aktiven Abonnements**
- - Liste der alle aktiven Abonnements  
+**Aktive Abonnements**
+ - Liste aller aktiven Abonnements  
 
 **Testabonnement Konvertierungen**  
- - **Testversion Konvertierung**: Anzahl der alle **aktiven** Abonnements, in denen bezahlt Testversion zu Konvertierung, aufgetreten ist, während der angegebenen Zeit  
+ - **Testversion Konvertierung**: Anzahl aller **Active** Abonnements, in denen bezahlt Testversion Konvertierung, die während des angegebenen Zeitraums aufgetreten sind  
 
-**In 30 Tagen endet Testabonnements**  
- - Liste der Testversionen, die gestartet wurden, wobei das Enddatum innerhalb von 30 Tagen, und es gibt keine kostenpflichtige Datum, an dem das Abonnement zugeordnet,  
+**Testabonnements endet in 30 Tagen**  
+ - Liste der Testabos, die gestartet wurden, deren Enddatum innerhalb von 30 Tagen liegt und für die kein Startdatum für ein kostenpflichtiges Abonnement vorliegt  
 
   

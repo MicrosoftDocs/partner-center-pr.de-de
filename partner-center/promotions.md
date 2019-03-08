@@ -7,15 +7,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 011f825d6cd4c47e793dd63fb8b1dcf61979453d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795053"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587433"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Verwenden von Werbeaktionen, um neue Kunden gewinnen  
 
-**Betrifft: Partner Center**
+**Gilt für: Partner Center**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
@@ -35,14 +35,14 @@ Nehmen Sie sich einen Moment Zeit, diese wichtigen Fakten zu Werbeaktionen zu ü
 
 ## <a name="see-available-promotions"></a>Verfügbare Werbeaktionen anzeigen
 
-Sie können auf der Seite **Werbeaktionen** sehen, auf welche Aktionen Sie ggf. Anspruch haben. Wählen Sie **Werbeaktionen** aus Ihrem Menü " **Partner Center** ", um eine Liste der aktuellen Werbeaktionen zusammen mit dem Rabatt, Angebotstyp und dem Start- und Enddaten für das Abonnement anzuzeigen. Wenn keine Aktionen verfügbar sind, sehen Sie eine Nachricht, die dieses anzeigt. 
+Sie können auf der Seite **Werbeaktionen** sehen, auf welche Aktionen Sie ggf. Anspruch haben. Wählen Sie **Heraufstufungen** aus Ihrem **Partner Center** Menü, um eine Liste der aktuellen Werbeaktionen, sowie den Rabatt, Promotiontyp und Start- und Enddatum für das Abonnement anzuzeigen. Wenn keine Aktionen verfügbar sind, sehen Sie eine Nachricht, die dieses anzeigt. 
 
 > [!NOTE]  
 > Sie können Werbeaktionen beim Einkaufen anzeigen. Wenn Sie ein Abonnement auswählen, wird der Rabattprozentsatz auf der Seite **Überprüfung** angezeigt.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Abonnements zu reduzierten Preisen kaufen
 
-1. Wählen Sie **Kunden** , und wählen Sie dann den Kunden, der das Abonnement kauft, auf Ihr **Partner Center** -Menü. 
+1. Auf Ihre **Partner Center** , wählen Sie im Menü **Kunden** und wählen Sie dann den Kunden, die das Abonnement kaufen wird. 
 
 2. Wählen Sie **Abonnement hinzufügen**.
 

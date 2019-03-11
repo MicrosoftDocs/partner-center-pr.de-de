@@ -1,112 +1,112 @@
 ---
-title: Planen von Software Assurance-Dienste im Partner Center | Partner Center
+title: Planen der Software Assurance im Partner Center-Dienste | Partner Center
 ms.topic: article
 ms.date: 01/21/19
-description: Planen der Dienste das bereitstellen, vor der Bereitstellung für Unternehmenskunden, die Planung von registrieren
-author: labrenne
+description: Registrieren Sie sich für Planning Services bereitstellen, Planen vor der Bereitstellung für Unternehmenskunden
+author: LauraBrenner
 ms.author: labrenne
-Keywords: pre-deployment, planning, software assurance
+Keywords: vor der Bereitstellung, Planung, Software assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 52a9c71444042cc5de7064ab56f1afd13e3d1338
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 222ba9b7fe526021bf06f4fda7f72b4703ba73c8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083413"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587923"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance Planning Services im Partner Center
 
-Umsatzsteigerung durch die Registrierung in Software Assurance Planung Services-Programme. Microsoft kompensiert, dass Partner die Bereitstellung von Schulung Planung und anderen Diensten für Unternehmenskunden, die Software Assurance verfügen.
+Fördern des Unternehmenswachstums in Programmen mit Software Assurance Planning Services registrieren. Microsoft kompensiert Partner für die Übermittlung von Schulungen, Planung und andere Dienste für Enterprise-Kunden, die über Software Assurance verfügen.
 
-Wie eine genehmigte Planen der Partner-Dienste, kompensiert Microsoft Sie vor der Bereitstellung Planung kundenabrechnungen für Enterprise-Kunden bereitstellen. Teilnahme an diesem Programm kann Ihnen gewinnen Sie mehr Kunden, werden ihre vertrauenswürdige Planung Partner und dazu führen, dass Kunden zusätzlichen kundenabrechnungen.
+Als eine genehmigte Planen der Partner Dienste, kompensiert mit Microsoft für die Bereitstellung vor der Bereitstellung planen Engagements für Enterprise-Kunden. Teilnahme an diesem Programm können Sie mehr Kunden zu gewinnen, werden ihre vertrauenswürdige Partner für die Planung und dazu führen, dass weitere Kunden zur Verfügung.
 
-Wenn Sie nicht mit Software Assurance Planung Services vertraut sind, finden Sie unter [Wachstum Ihres Unternehmens mit Diensten planen](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx).
+Wenn Sie nicht mit Software Assurance Planning Services vertraut sind, finden Sie unter [fördern des Unternehmenswachstums mit Planning Services](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx).
 
 
-## <a name="get-started"></a>Erste Schritte
+## <a name="get-started"></a>Beginnen
 
-Wenn Sie mit Software Assurance Planung Services nicht vertraut sind, führen Sie die folgenden Schritte. Wenn Sie bereits in die Planung Services-Programme aktiv, und Ihre Kontoinformationen Partner wurde in das Partner Center verschoben, beginnen Sie bei Schritt vier (4) unten. 
+Wenn Sie mit Software Assurance Planning Services vertraut sind, führen Sie die folgenden Schritte aus. Wenn Sie bereits in die Planning Services Programme aktiv sind und Ihre Kontoinformationen Partner in Partner Center wurde, beginnen Sie bei Schritt 4 (4) unten. 
 
-1. Überprüfen Sie die Anwendung eligibility 
+1. Überprüfen Sie Ihre Anwendung-Berechtigung 
 2. Registrieren Sie sich für eine Planung Service-Programm
 3. Update-Unternehmensprofil im Partnerverzeichnis
-4. Reservieren Sie einen Beleg für Kunden 
-5. Engagement und übermitteln Sie Abschluss-Bericht
-6. Beleg einlösen 
-7. Die Auszahlung von Microsoft anfordern
+4. Reservieren Sie einen Gutschein für Kunden 
+5. Füllen Sie Engagement und senden Sie Abschlussbericht
+6. Gutscheins einlösen 
+7. Anfordern von Zahlungen von Microsoft
 
-In diesem Artikel wird erläutert, wie die Schritte auszuführen.
+In diesem Artikel wird erläutert, wie den jeweiligen Schritt ausführen.
 
-## <a name="confirm-eligibility"></a>Bestätigen der Berechtigung
+## <a name="confirm-eligibility"></a>Vergewissern Sie sich Berechtigung
 
-Bevor Sie sich die Planung Services-Programm registrieren können, Ihr Unternehmen muss erfüllen, Kompetenz und Compliance-Schulung-Anforderungen, und der Berater führende die kundenbindung muss erfüllen, technische Schulung und Prüfungsanforderungen. 
+Bevor Sie das Programm Planning Services anmelden können, Kompetenz und Training konformitätsanforderungen Ihres Unternehmens erfüllt, und der Berater, die die kundenbindung führende muss technische Schulungen und Prüfungsanforderungen erfüllen. 
 
-Jede Planung Service-Programm verfügt über eindeutige Qualifizierungskriterien. Finden Sie weitere Informationen zum Planen von Diensten Qualifizierungskriterien [Verify Eligibility](https://planningservices.partners.extranet.microsoft.com/en/Pages/partnereligibilityrequirements.aspx) .
+Jede Planung Service-Programm verfügt über eindeutige berechtigungsanforderungen. Finden Sie unter [überprüfen Sie Ihre Berechtigung](https://planningservices.partners.extranet.microsoft.com/en/Pages/partnereligibilityrequirements.aspx) für Weitere Informationen zur Planung berechtigungsanforderungen für Dienste.
 
-Um Ihres Unternehmens Eligibility Status anzuzeigen, gehen Sie wie folgt vor.
+Um den Berechtigungsstatus des Unternehmens finden Sie unter, gehen Sie wie folgt vor.
 
-1. Wählen Sie aus dem Menü "Partner Center" Software Assurance > Anforderungen. 
-2. Wählen Sie Planung Services Registerkarte "Planung Dienste" zu öffnen.
-3. Überprüfen der Berechtigung Statusspalte Ihres Unternehmens-Status für ein bestimmtes Planung Serviceprogramm. 
+1. Wählen Sie die Software Assurance > Anforderungen im Partner Center-Menü. 
+2. Wählen Sie die Planning Services das Planen der Registerkarte "Dienste" zu öffnen.
+3. Überprüfen Sie die Statusspalte der Berechtigung zum Anzeigen Ihres Unternehmens Status für ein bestimmtes Planung Serviceprogramm. 
 
-- Nicht gestartet | Sind Sie noch nicht berechtigt, am Programm teilnehmen. Wählen Sie den Namen des Programms, um festzustellen, was Sie tun müssen, um das Programm Qualifizierungskriterien erfüllen müssen.
+- Wurde nicht gestartet werden. | Sie sind noch nicht zur Teilnahme am Programm berechtigt. Wählen Sie den Programmnamen, um festzustellen, was Sie tun, um das Programm den qualifikationsanforderungen genügen.
 
-- In Bearbeitung | Sie haben den Prozess der Besprechung Qualifizierungskriterien für die Anwendung gestartet, aber Sie noch mehr zu tun.
+- In Bearbeitung | Sie haben begonnen, die für die Erfüllung der Voraussetzungen des Programms, aber Sie haben immer noch viel zu tun.
 
-- Aktive | Ihre Berechtigung bestätigt wurde, und Sie sind bereit für die Planung Service für Enterprise-Kunden bereitstellen. 
+- Aktiv | Ihre Berechtigung bestätigt wurde, und Sie möchten, starten Sie die Planung für Enterprise-Kunden bietet. 
 
-4. Nachdem Sie überprüfen, ob Ihr Unternehmen zur Teilnahme an einem Programm berechtigt ist, die direkte Ihres Unternehmens Teilnehmer für die Planung Dienste Compliance-Schulung benötigt. 
+4. Nachdem Sie überprüft haben, dass Ihr Unternehmen zur Teilnahme an einem Programm berechtigt ist, leiten Sie Ihres Unternehmens Programmteilnehmer die Planning Services Compliance-Schulung abgeschlossen. 
 
-5. Nachdem die erforderliche Schulung Ihres Unternehmens Teilnehmer abgeschlossen haben, kehren Sie zur [Registrierung Seite](https://planningservices.partners.extranet.microsoft.com/en/Pages/GetRegistered.aspx) und Signieren der Microsoft Planung Programm Anbieter Vereinbarung. 
+5. Wenn Programmteilnehmer Ihres Unternehmens die erforderlichen Schulung abgeschlossen haben, fahren Sie mit der [Registrierungsseite](https://planningservices.partners.extranet.microsoft.com/en/Pages/GetRegistered.aspx) und die Microsoft Planen der Service Provider-programmvereinbarung zu melden. 
 
-## <a name="enroll-in-the-planning-services-program"></a>Registrieren Sie sich für die Planung Services-Programm
+## <a name="enroll-in-the-planning-services-program"></a>Registrieren Sie sich für das Programm Planning Services
 
-Nachdem Ihres Unternehmens die Qualifizierungskriterien für das Planen von Services-Programm erfüllt und Ihre Anwendung Teilnehmer die Compliance-Schulung bestanden haben, können Sie sich registrieren. 
+Nachdem die Ihres Unternehmens erfüllt die Voraussetzungen für das Planen der Services-Programm, und die Programmteilnehmer die Compliance-Schulung bestanden wurden, können Sie sich zu registrieren. 
 
-Befolgen Sie diese Schritte, um sich für eine Planung Service-Programm zu registrieren.
+In einem Planung Serviceprogramm registrieren, gehen Sie wie folgt vor.
 
-1. Führen Sie die Software Assurance wählen > Anforderungen aus dem Menü "Partner Center". 
-2. Wählen Sie Planung Services Registerkarte "Planung Dienste" zu öffnen.
-3. Wählen Sie das Programm zu registrieren, und wählen Sie **registrieren.**
+1. Führen Sie die wählen durch Software Assurance > Anforderungen im Partner Center-Menü. 
+2. Wählen Sie die Planning Services das Planen der Registerkarte "Dienste" zu öffnen.
+3. Wählen Sie das Programm, das Sie verwenden möchten, registrieren Sie sich, und wählen **registrieren.**
 
-Wenn Sie diesen Prozess abgeschlossen haben, werden Ihre geschäftssitze genehmigt werden, um die Angebote zu übermitteln, die, denen Sie registriert haben. Als ein MPN-Partner-Administrator Ihres Unternehmens-Mitarbeiter werden das VVR Tool zum Verwalten von Planning Services Belege im Auftrag von jedem Standort und den Zugriff auf sein.
+Wenn Sie diesen Prozess abgeschlossen haben, werden die Unternehmensstandorte Ihrer genehmigt werden, um die Angebote zu senden, denen Sie registriert haben. Mitarbeitern des Unternehmens, die als ein Administrator der MPN-Partner werden berechtigt, das VVR-Tool zum Verwalten von Planning Services Gutscheine im Auftrag von einem beliebigen Speicherort zugreifen.
 >[!Note]
-> Sie müssen Ihren Anforderungen verlängern und zu erneut planen der Service-Programme jedes Jahr.
+> Sie müssen Ihren Anforderungen zu erneuern und erneut anmelden Planning Services Programme jedes Jahr.
 
-### <a name="update-your-companys-profile-in-the-planning-services-partner-directory"></a>Aktualisieren Sie Ihres Profils als im Verzeichnis Planung Services Partner 
+### <a name="update-your-companys-profile-in-the-planning-services-partner-directory"></a>Aktualisieren Sie Ihres Unternehmens-Profils im Dienste-Partnerverzeichnis planen 
 
-Kunden suchen für Partner, die ihre geschäftlichen Anforderungen im [Partner-Verzeichnis Planung](https://directory.partners.extranet.microsoft.com/psbproviders/)erfüllen können. Wenn Ihr Unternehmen genehmigt wird, bei der Planung Services-Programmen teilnehmen, achten Sie darauf, dass Sie Ihr Partner-Profil zu aktualisieren, damit Kunden Sie finden können. 
+Suchen Sie Kunden nach Partner, die ihre geschäftliche Anforderungen zu erfüllen, können die [planen Services Partner Directory](https://directory.partners.extranet.microsoft.com/psbproviders/). Wenn Ihr Unternehmen teilnehmen, bei der Planung von Dienste-Programme genehmigt wird, achten Sie darauf, dass Sie Ihr Partnerprofil zu aktualisieren, damit Kunden Sie finden können. 
 
-Um Ihr Profil zu aktualisieren, führen Sie die Schritte Profil aktualisieren in Partner-Verzeichnis-Seite. Wenn Sie so aktualisieren Sie Ihr Profil bereits kennen, können Sie die [Melden Sie sich bei Ihrem Dashboard](https://planningservices.partners.extranet.microsoft.com/en/Pages/dashboard.aspx) , um zu beginnen.  
+Führen Sie die Schritte unter Update Profil Partner Directory-Seite, um Ihr Profil zu aktualisieren. Wenn Sie bereits über Ihr Profil aktualisieren kennen, können Sie [melden Sie sich an Ihr Dashboard](https://planningservices.partners.extranet.microsoft.com/en/Pages/dashboard.aspx) für den Einstieg.  
 
-## <a name="reserve-customer-voucher"></a>Reservieren Kunden Beleg
+## <a name="reserve-customer-voucher"></a>Gutschein für Reserve-Kunden
 
-Nachdem ein Kunde einen Beleg für Ihr Unternehmen im [Volume Licensing Service Center (VLSC)](https://www.microsoft.com/Licensing/servicecenter/default.aspx)zuweist, erhält der Kunde eine e-Mails, in denen die Beleg-ID. Der Kunde muss diese e-Mail an Sie weiterleiten, sodass Sie die Informationen, die Sie benötigen den Beleg zu reservieren. 
+Nachdem ein Kunde einen Gutschein für Ihr Unternehmen in weist die [Volume Licensing Service Center (VLSC)](https://www.microsoft.com/Licensing/servicecenter/default.aspx), der Kunde erhält eine e-Mail mit der Gutschein-ID. Der Kunde muss diese e-Mail an Sie weiter, sodass Sie die Informationen, die Sie der Gutschein reservieren möchten. 
 
-Wenn Sie die Details der Beleg haben, können Sie den Beleg reservieren und planen die Planung Engagement. Führen Sie die Schritte [Verwalten Belege in die Beleg-Überprüfung und bei Einlösung des Tool (VVR)](voucher-validation-tool.md) den Beleg zu reservieren.  
+Wenn Sie die Details der Gutschein verfügen, können Sie reservieren der Gutschein und planen die Planung Engagement. Führen Sie die Schritte in [Gutscheine im Gutschein Validierung und einlösen (VVR) verwalten](voucher-validation-tool.md) der Gutschein zu reservieren.  
 
-## <a name="complete-the-engagement-and-submit-completion-report"></a>Die Engagement und übermitteln Sie Abschluss-Bericht
+## <a name="complete-the-engagement-and-submit-completion-report"></a>Füllen Sie die Engagement und senden Sie Abschlussbericht
 
-Nachdem Ihr Unternehmen die Interaktion abgeschlossen ist und die endgültige Lieferumfang an den Kunden abgeschlossen, müssen Sie ausfüllen und übermitteln einen Bericht Abschluss des Vorgangs.
+Nachdem Ihr Unternehmen die Engagement abgeschlossen wurde und vorausgesetzt, die endgültige Ergebnis an den Kunden durchgeführt, müssen Sie ausfüllen und Übermitteln eines Berichts abgeschlossen.
 
 >[!NOTE]
-> Sie müssen auch eine Kopie des Projekts Kunden in diesem Schritt Lieferumfang hochladen. 
+> Sie müssen auch eine Kopie der kundenbindung, die in diesem Schritt gibt hochladen. 
 
 
-Führen Sie die Schritte [Verwalten](voucher-validation-tool.md)Belege in die Beleg-Überprüfung und bei Einlösung des Tool (VVR).
+Führen Sie die Schritte in [Gutscheine im Gutschein Validierung und einlösen (VVR) verwalten](voucher-validation-tool.md).
 
-## <a name="redeem-a-voucher-and-request-payment-from-microsoft"></a>Lösen Sie einen Beleg und die Anforderung Zahlung von Microsoft ein
+## <a name="redeem-a-voucher-and-request-payment-from-microsoft"></a>Lösen Sie einen Gutschein und Anforderung Zahlungen von Microsoft
 
-Nachdem Sie einen Beleg reserviert haben, können Sie es einlösen. 
+Nachdem Sie einen Gutschein reserviert haben, können Sie es einlösen. 
 
-1. Wählen Sie in der Liste der reservierten Belege die Belege, die Sie einlösen möchten. 
-2. Sie sehen nun eine Liste von **Redeemed** belegen.
-3. Wählen Sie das Kontrollkästchen neben dem gewünschten Belege, und klicken Sie auf **einlösen Belege ausgewählt**.
-4. Auf der Seite Bei Einlösung des Belegs bestätigen überprüfen Sie die Beleginformationen bei einer Genauigkeit von, und wählen Sie dann **Ja** den Beleg eingelöst werden kann.
+1. Wählen Sie in der Liste der reservierten Gutscheine werden soll die Belege, die Sie lösen möchten. 
+2. Sie sehen nun eine Liste der **Redeemed** Gutscheine.
+3. Wählen Sie das bzw. die Kontrollkästchen neben der gewünschten Belege **einlösen ausgewählten Gutscheine**.
+4. Auf der bestätigen Gutscheins einlösen, überprüfen Sie die Informationen der Gutschein für die Genauigkeit, und wählen Sie dann **Ja** der Gutschein einlösen.
 
-5. Um einen Anspruch zu erstellen, wählen Sie **erstellen einen Anspruch**, oder wählen Sie auf der Detailseite Beleg **Erstellen eines Anspruchs**.
+5. Wählen Sie zum Erstellen eines Anspruchs **Erstellen eines Anspruchs**, oder wählen Sie auf der Detailseite des Gutscheins **Erstellen eines Anspruchs**.
 
-6. Option für die **Erstellung eines Anspruchs** Sie gelangen auf die [Software Assurance Beleg Vorteil (SAVB) Onlinetools Zahlung](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) um Microsoft Rechnung.
+6. Auswahl **Erstellen eines Anspruchs** gelangen Sie zu der [Software Assurance Gutschein Vorteil (SAVB) Onlinetool Zahlung](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx) um Rechnung von Microsoft.
 
 
 

@@ -1,19 +1,19 @@
 ---
 layout: LandingPage
 hide_bc: true
-title: Hilfe zum mit dem Partner Center
+title: Hilfe zu Partner Center
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: "Partner Center helfen Ihnen die Ausbau Ihres Unternehmens in das Programm für Microsoft Cloud Solution Provider (CSP). Einrichten des Kontos, interagieren mit Kunden, ein Action Pack-Abonnement kaufen und finden Sie weitere Informationen für Partner, die in den CSP und MPN-Programmen.\_"
-author: labrenne
+description: "Partner Center kann mit dem Microsoft Cloud Solution Provider-Programm (CSP) zum Wachstum Ihres Unternehmens beitragen. Richten Sie Ihr Konto ein, nehmen Sie Kontakt zu Kunden auf, erwerben Sie ein Action\_Pack-Abonnement, und lesen Sie weitere Informationen zu Partnern im CSP- und MPN-Programm.\_"
+author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
 ---
 
-# <a name="welcome-to-partner-center"></a>Willkommen beim Partner Center
+# <a name="welcome-to-partner-center"></a>Willkommen bei Partner Center
 
-Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer End-to-End-Beziehung mit Microsoft. Es verfügt über Tools und Ressourcen, mit denen Sie Transaktionen durchführen und Umsatzsteigerung, einschließlich Mitgliedschaftsoptionen, kundenempfehlungen und das Programm für Cloud Solution Provider (CSP). Erfahren Sie mehr über bewährte Methoden für die Verwaltung Ihres Kontos, Herstellen einer Verbindung mit Kunden, beim Kauf eines Action Pack-Abonnements und Incentives-Programm in der Hilfebibliothek für Partner Center registrieren.
+Microsoft Partner Center ist der zentrale Ort für die Verwaltung der End-to-End-Beziehung mit Microsoft. Partner Center bietet Tools und Ressourcen, die Sie bei Transaktionen und bei der Umsatzsteigerung Ihres Unternehmens unterstützen, u. a. verschiedene Mitgliedschaftsoptionen, Kundenempfehlungen und das CSP-Programm (Cloud Solution Provider). In der Hilfebibliothek von Partner Center finden Sie weitere Informationen zu bewährten Methoden für die Kontoverwaltung, die Kontaktaufnahme mit Kunden, den Kauf eines Action Pack-Abonnements und die Registrierung für ein Incentives-Programm.
 
 
 <ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
@@ -28,7 +28,7 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                     </div>
                     <div class="cardText">
                         <h3>Ankündigungen</h3>
-                        <p>Melden Sie sich beim Partner Center-Dashboard, spät bedeutende Änderungen und Nachrichten zu erkennen.</p>
+                        <p>Melden Sie sich beim Partner Center-Dashboard an, um Informationen zu wichtigen Änderungen und Neuigkeiten zu erhalten.</p>
                         <p><a href="https://partner.microsoft.com/pcv/announcements"><b>Jetzt anmelden</b></a></p>
                     </div>
                 </div>
@@ -46,8 +46,8 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                     </div>
                     <div class="cardText">
                         <h3>Yammer</h3>
-                        <p>In Verbindung über unsere Yammer-Community bleiben.</p>
-                        <p><a href="https://go.microsoft.com/fwlink/p/?linkid=851605"><b>Treten Sie der community</b></a></p>
+                        <p>Bleiben Sie über unsere Yammer-Community in Kontakt.</p>
+                        <p><a href="https://go.microsoft.com/fwlink/p/?linkid=851605"><b>Der Community beitreten</b></a></p>
                     </div>
                 </div>
             </div>
@@ -63,8 +63,8 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>API und SDK Early Adopter-Programm</h3>
-                        <p>Erhalten Sie Zugriff auf-Workshops neue Features und von Experten zu unterstützen.</p>
+                        <h3>API und Early Adopter-Programm für SDK</h3>
+                        <p>Erhalten Sie Zugriff auf Workshops, neue Features und Unterstützung von Experten.</p>
                         <p><a href="/partner-center/develop/early-adopter-program"><b>Erste Schritte</b></a></p>
                     </div>
                 </div>
@@ -73,8 +73,8 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
     </li>    
 </ul>
 
-<h2>Neuigkeiten</h2>
-<p>Erhalten Sie die neueste Informationen über neue Features, Vorteile, Angebote und Möglichkeiten zum Ausbau Ihres Unternehmens.</p>
+<h2>Neuigkeiten:</h2>
+<p>Hier finden Sie aktuelle Informationen zu neuen Features, Vorteilen, Angeboten und Möglichkeiten zur Umsatzsteigerung.</p>
 <ul id="products1" class="cardsZ cols cols3 panelContent singlePanelContent">
     <li>
         <div class="cardSize">
@@ -82,7 +82,7 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/software-assurance-lp">
                         <h3>Software Assurance-Programme</h3>
-                        <p>Sie können jetzt in Software Assurance-Schulung und Bereitstellungsdienste im Partner Center registrieren.</p></a>
+                        <p>Sie können sich nun für Software Assurance-Schulungen und Bereitstellungsdienste in Partner Center registrieren.</p></a>
                     </div>
                 </div>
             </div>
@@ -93,8 +93,8 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/voucher-validation-tool">
-                        <h3>Beleg Überprüfung und bei Einlösung des Tools</h3>
-                        <p>Beanspruchen Sie und lösen Sie Belege ein, die Unternehmen und Entwicklung die Bedürfnisse Ihrer Kunden zu unterstützen.</p></a>
+                        <h3>Tool zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR)</h3>
+                        <p>Sie können Gutscheine nutzen und einlösen, die auf die Unternehmens- und Entwicklungsanforderungen Ihrer Kunden zugeschnitten sind.</p></a>
                     </div>
                 </div>
             </div>
@@ -105,8 +105,8 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/responding-to-referrals#new-referrals">
-                        <h3>Verwalten Sie Ihrer Verweise effizienter</h3>
-                        <p>Wir haben verbessert, wie Sie können die Empfehlung RFI überprüfen und annehmen oder ablehnen diese.</p></a>
+                        <h3>Effizientere Verwaltung Ihrer Empfehlungen</h3>
+                        <p>Der Vorgang zur Überprüfung sowie zur Annahme bzw. Ablehnung von Empfehlungsinformationsanfragen wurde optimiert.</p></a>
                     </div>
                 </div>
             </div>
@@ -115,7 +115,7 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
 </ul>
 
 
-<h2>Im Partner Center arbeiten</h2>
+<h2>Nutzung von Partner Center</h2>
 
 <ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
     <li>
@@ -129,7 +129,7 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                     </div>
                     <div class="cardText">
                         <h3>Anmelden</h3>
-                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Konto erstellen</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Mandanten und Speicherorte verwalten</a></p>
+                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Konto erstellen</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Verwalten von Mandanten und Orten</a></p>
                     </div>
                 </div>
             </div>
@@ -145,8 +145,8 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Mit Kunden interagieren</h3>
-                        <p><a href="/partner-center/customer-accounts">Kundenkonten</a><br /><a href="/partner-center/customer-subscriptions">Abonnements verkaufen</a><br /><a href="/partner-center/assign-licenses-to-users">Lizenzen verwalten</a><br /><a href="/partner-center/billing">Abrechnung</a></p>
+                        <h3>Kontakt zu Kunden</h3>
+                        <p><a href="/partner-center/customer-accounts">Kundenkonten</a><br /><a href="/partner-center/customer-subscriptions">Verkaufen von Abonnements</a><br /><a href="/partner-center/assign-licenses-to-users">Verwalten von Lizenzen</a><br /><a href="/partner-center/billing">Abrechnung</a></p>
                     </div>
                 </div>
             </div>
@@ -162,8 +162,8 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Ihr Geschäft erweitern</h3>
-                        <p><a href="/partner-center/referrals">Unternehmensprofile/-empfehlungen</a><br /><a href="/partner-center/promotions">Promotions</a><br /><a href="/partner-center/get-special-pricing-for-offers">An spezielle Branchen verkaufen</a></p>
+                        <h3>Erweitern Sie Ihr Geschäft</h3>
+                        <p><a href="/partner-center/referrals">Unternehmensprofile/-empfehlungen</a><br /><a href="/partner-center/promotions">Promotions</a><br /><a href="/partner-center/get-special-pricing-for-offers">Verkaufen an spezielle Branchen</a></p>
                     </div>
                 </div>
             </div>
@@ -185,7 +185,7 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="/partner-center/mpn-get-action-pack">Microsoft Action Pack (MAPS) abrufen</a></h3>
+                        <h3><a href="/partner-center/mpn-get-action-pack">Abrufen von Microsoft Action Pack (MAPS)</a></h3>
                     </div>
                 </div>
             </div>
@@ -201,7 +201,7 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                         </div>
                     </div>                
                     <div class="cardText">
-                        <h3><a href="/partner-center/develop/">Partner Center API/SDK-Referenz</a></h3>
+                        <h3><a href="/partner-center/develop/">Referenz zur API bzw. zum SDK für Partner Center</a></h3>
                     </div>
                 </div>
             </div>
@@ -217,7 +217,7 @@ Microsoft Partner Center ist Ihr zentraler Speicherort für die Verwaltung Ihrer
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx">Noch kein Partner? Microsoft Partner Network jetzt beitreten.</a></h3>
+                        <h3><a href="https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx">Noch kein Partner? Treten Sie dem Microsoft Partner Network jetzt bei.</a></h3>
                     </div>
                 </div>
             </div>

@@ -1,50 +1,56 @@
 ---
 title: Neuen Kunden hinzufügen | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
-description: Damit Sie Abonnements verkaufen, die Abrechnung verwalten oder Support bereitstellen können, müssen Sie einen Datensatz für den Kunden in Partner Center erstellen. Dieser Datensatz enthält die Kontaktinformationen und eine Azure AD-Domäne.
+ms.date: 03/21/2019
+description: Damit Sie Abonnements verkaufen, die Abrechnung verwalten oder Support bereitstellen können, müssen Sie einen Datensatz für den Kunden in Partner Center erstellen.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Kunden, Kunden hinzufügen, Kundenkonto, Kundenkonto im Partner Center, Hinzufügen von Kunden, Kundenkonto erstellen
 ms.localizationpriority: medium
-ms.openlocfilehash: 72b02ad430bc0ce434e3de25380ef043e59ac08d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: b086796f6907b4ff4705b7c2fe1965b7d2adceff
+ms.sourcegitcommit: 3441bb8085f14f4242d5c640d45eab00f751bf23
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586243"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "58343401"
 ---
-# <a name="add-a-new-customer"></a><span data-ttu-id="197ba-105">Neuen Kunden hinzufügen</span><span class="sxs-lookup"><span data-stu-id="197ba-105">Add a new customer</span></span>
+# <a name="add-a-new-customer"></a><span data-ttu-id="89100-104">Neuen Kunden hinzufügen</span><span class="sxs-lookup"><span data-stu-id="89100-104">Add a new customer</span></span>
 
-<span data-ttu-id="197ba-106">**Gilt für**</span><span class="sxs-lookup"><span data-stu-id="197ba-106">**Applies to**</span></span>
+<span data-ttu-id="89100-105">**Gilt für**</span><span class="sxs-lookup"><span data-stu-id="89100-105">**Applies to**</span></span>
 
--  <span data-ttu-id="197ba-107">Partner Center</span><span class="sxs-lookup"><span data-stu-id="197ba-107">Partner Center</span></span>
--  <span data-ttu-id="197ba-108">Partner Center für Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="197ba-108">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="89100-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="89100-106">Partner Center</span></span>
+-  <span data-ttu-id="89100-107">Partner Center für Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="89100-107">Partner Center for Microsoft Cloud for US Government</span></span>
 
+<span data-ttu-id="89100-108">Bevor Sie können Abonnements zu verkaufen, Verwalten der Abrechnung oder Unterstützung für einen Kunden bieten, müssen Sie diese der Liste mit den Kunden im Partner Center hinzufügen.</span><span class="sxs-lookup"><span data-stu-id="89100-108">Before you can sell subscriptions, manage billing, or provide support to a customer, you need to add them to your list of customers in Partner  Center.</span></span>
 
+>[!NOTE]
+><span data-ttu-id="89100-109">Für bestehende Kunden, einschließlich derer, die bereits Kunden haben zeichnet im Partner Center über ein [mit mehreren Kanälen](multichannel.md) oder [Multipartner](multipartner.md) Szenario können Sie [anfordern eine Beziehung mit Diese](request-a-relationship-with-a-customer.md), statt die Schritte hier.</span><span class="sxs-lookup"><span data-stu-id="89100-109">For existing customers, including those who already have customer records in Partner Center through a [multi-channel](multichannel.md) or [Multipartner](multipartner.md) scenario, you can [Request a relationship with them](request-a-relationship-with-a-customer.md), instead of following the steps here.</span></span>
 
-<span data-ttu-id="197ba-109">Bevor Sie können Abonnements zu verkaufen, Verwalten der Abrechnung oder unterstützen, müssen Sie ein Konto für Ihren Kunden in Ihrem Partner Center zu erstellen.</span><span class="sxs-lookup"><span data-stu-id="197ba-109">Before you can sell subscriptions, manage billing, or provide support, you need to create an account for your customer in your Partner  Center.</span></span> <span data-ttu-id="197ba-110">Dieser Datensatz enthält die Kontaktinformationen und eine Azure AD-Domäne.</span><span class="sxs-lookup"><span data-stu-id="197ba-110">This includes their contact information and an Azure AD domain.</span></span>
+### <a name="to-add-a-new-customer-in-partner-center"></a><span data-ttu-id="89100-110">Zum Hinzufügen eines neuen Kunden im Partner Center</span><span class="sxs-lookup"><span data-stu-id="89100-110">To add a new customer in Partner Center</span></span>
 
-<span data-ttu-id="197ba-111">Für Kunden, die aufgrund eines [Multichannel](multichannel.md)- oder [Multipartner](multipartner.md)-Szenarios bereits ein Kundenkonto besitzen, können Sie [eine Kundenbeziehung anfordern](request-a-relationship-with-a-customer.md), statt die hier aufgeführten Schritte auszuführen.</span><span class="sxs-lookup"><span data-stu-id="197ba-111">For customers who already have customer accounts and subscriptions through a [multi-channel](multichannel.md) or [Multipartner](multipartner.md) scenario, you can [Request a relationship with a customer](request-a-relationship-with-a-customer.md), instead of following the steps here.</span></span>
+1. <span data-ttu-id="89100-111">Wählen Sie **Kunden** aus der Partner Center-Menü, und wählen Sie dann **Kunden hinzufügen**.</span><span class="sxs-lookup"><span data-stu-id="89100-111">Select **Customers** from the Partner Center menu, and then select **Add customer**.</span></span>
 
-<span data-ttu-id="197ba-112">**Hinzufügen eines neuen Kunden**</span><span class="sxs-lookup"><span data-stu-id="197ba-112">**Add a new customer**</span></span>
+2. <span data-ttu-id="89100-112">Auf der **Kontoinformationen** Seite, geben Sie Details und die primären Kontaktinformationen des Kunden, und stellen Sie sicher, dass der Kunde hat akzeptiert und die neueste Version signiert [Vertrag zwischen Microsoft Cloud](agreements.md).</span><span class="sxs-lookup"><span data-stu-id="89100-112">On the **Account info** page, enter the customer's details and primary contact information and verify that the customer has accepted and signed the latest [Microsoft Cloud Agreement](agreements.md).</span></span>
 
-1.  <span data-ttu-id="197ba-113">Von der **Partner Center** , wählen Sie im Menü **Kunden**.</span><span class="sxs-lookup"><span data-stu-id="197ba-113">From the **Partner Center** menu, select **Customers**.</span></span> <span data-ttu-id="197ba-114">Wählen Sie dann **Kunden hinzufügen**.</span><span class="sxs-lookup"><span data-stu-id="197ba-114">Then select **Add customer**.</span></span>
+    >[!IMPORTANT]
+      > <span data-ttu-id="89100-113">Ab dem 7. November 2018, müssen Sie bestätigen, dass ein Kunde die Microsoft-Cloud-Vertrag akzeptiert hat, durch die Bereitstellung von Informationen über die Person, die es signiert.</span><span class="sxs-lookup"><span data-stu-id="89100-113">Starting November 7, 2018, you'll need to confirm that a customer has accepted the Microsoft Cloud Agreement by providing information about the person who signed it.</span></span> <span data-ttu-id="89100-114">Finden Sie unter [bestätigen, dass Kunden der Microsoft-Cloud-Vereinbarung](confirm-consent.md) Weitere Details.</span><span class="sxs-lookup"><span data-stu-id="89100-114">See [Confirm a customer's acceptance of the Microsoft Cloud Agreement](confirm-consent.md) for more details.</span></span>
 
-2.  <span data-ttu-id="197ba-115">Auf der **Kontoinformationen** Seite, füllen Sie die Details zu Unternehmen und die primären Kontaktinformationen, und wählen Sie dann **weiter: Abonnements**.</span><span class="sxs-lookup"><span data-stu-id="197ba-115">On the **Account info** page, complete the company details and primary contact information, and then select **Next: Subscriptions**.</span></span>
+3. <span data-ttu-id="89100-115">Wenn Sie ein indirekter Anbieter sind, wählen Sie die indirekten Vertriebspartners, die mit diesem Kunden Abonnements aus der Liste zugeordnet werden soll.</span><span class="sxs-lookup"><span data-stu-id="89100-115">If you're an indirect provider, select the indirect reseller you want to associate with this customer's subscriptions from the list.</span></span>
 
-3.  <span data-ttu-id="197ba-116">Auf der **Abonnements** Seite, wählen Sie die richtige Angebote, geben Sie die Anzahl der Lizenzen und wählen Sie dann **weiter: Überprüfen Sie**.</span><span class="sxs-lookup"><span data-stu-id="197ba-116">On the **Subscriptions** page, choose the correct offer(s), enter the number of licenses, and then select **Next: Review**.</span></span>
+4. <span data-ttu-id="89100-116">Wählen Sie **weiter: Abonnements** Wenn Sie alle erforderlichen Informationen eingegeben haben.</span><span class="sxs-lookup"><span data-stu-id="89100-116">Select **Next: Subscriptions** when you're finished entering all required information.</span></span>
 
-4.  <span data-ttu-id="197ba-117">Überprüfen Sie auf der Seite **Überprüfung** Ihre Einträge auf Genauigkeit, klicken Sie auf **Bearbeiten**, um Änderungen am Konto oder an den Angeboten vorzunehmen, und klicken Sie dann auf **Übermitteln**.</span><span class="sxs-lookup"><span data-stu-id="197ba-117">On the **Review** page, check your entries for accuracy, **Edit** if you need to make changes to the account or offers, and then **Submit**.</span></span>
+5. <span data-ttu-id="89100-117">Auf der **Abonnements** Seite, wählen Sie die Angebote, die Ihr Kunde möchte aus von Ihnen kaufen, geben die Anzahl der Lizenzen, und wählen Sie dann **weiter: Überprüfen Sie**.</span><span class="sxs-lookup"><span data-stu-id="89100-117">On the **Subscriptions** page, select the offer(s) your customer wants to buy from you, enter the number of licenses, and then select **Next: Review**.</span></span>
 
-5.  <span data-ttu-id="197ba-118">Nachdem Sie die Bestätigung überprüft und das Administratorbenutzerkonto und -kennwort kopiert haben, wählen Sie **Fertig**.</span><span class="sxs-lookup"><span data-stu-id="197ba-118">After you’ve reviewed the confirmation, and copied the admin user account and password, select **Done**.</span></span>
+6. <span data-ttu-id="89100-118">Auf der **Review** Seite, überprüfen Sie Ihre Einträge auf Richtigkeit, und wählen Sie dann **senden** , wenn die Informationen richtig sind.</span><span class="sxs-lookup"><span data-stu-id="89100-118">On the **Review** page, check your entries for accuracy and then select **Submit** if the information is correct.</span></span>
 
-<span data-ttu-id="197ba-119">Details zum Überprüfen der Kundendaten zu einem späteren Zeitpunkt, einschließlich Hinzufügen von Add-On-Lizenzen zu Abonnements, finden Sie unter [Erstellen eines neuen Abonnements](create-a-new-subscription.md).</span><span class="sxs-lookup"><span data-stu-id="197ba-119">To review the customer data later, including adding add-on licenses to subscriptions, see the details at [Create a new subscription](create-a-new-subscription.md).</span></span>
+    >[!NOTE]
+    ><span data-ttu-id="89100-119">Wenn Sie alle Details des Kunden ändern möchten, wählen Sie **Update** in die **Kontoinformationen** Abschnitt.</span><span class="sxs-lookup"><span data-stu-id="89100-119">If you need to change any customer details, select **Update** in the **Account info** section.</span></span> <span data-ttu-id="89100-120">Wenn Sie Angebote ändern müssen Sie ausgewählt haben, wählen Sie **Update** in die **Abonnements** Abschnitt.</span><span class="sxs-lookup"><span data-stu-id="89100-120">If you need to change the offers you selected, select **Update** in the **Subscriptions** section.</span></span>
 
- 
+7. <span data-ttu-id="89100-121">Wählen Sie **Fertig** Wenn Sie das Hinzufügen der Informationen zu den Kunden abgeschlossen und die erforderlichen Abonnements erworben haben.</span><span class="sxs-lookup"><span data-stu-id="89100-121">Select **Done** when you've finished adding the customer information and purchased the required subscriptions.</span></span>
 
- 
+## <a name="see-also"></a><span data-ttu-id="89100-122">Siehe auch</span><span class="sxs-lookup"><span data-stu-id="89100-122">See also</span></span>
 
+- <span data-ttu-id="89100-123">Finden Sie unter [Angebote von Partnern in der Cloud Solution Provider-Programm](csp-offers.md) für Weitere Informationen, was Sie über das Cloud Solution Provider-Programm für Kunden verkaufen können.</span><span class="sxs-lookup"><span data-stu-id="89100-123">See [Partner offers in the Cloud Solution Provider program](csp-offers.md) for more information about what you can sell to customers through the Cloud Solution Provider program.</span></span>
 
-
+- <span data-ttu-id="89100-124">Finden Sie unter [Verbinden mit Kunden](customer-accounts.md) für Weitere Informationen zum Zuordnen eines neuen Kunden mit Ihrem Partnerkonto im Partner Center.</span><span class="sxs-lookup"><span data-stu-id="89100-124">See [Connect with customers](customer-accounts.md) for more information about associating a new customer to your partner account in Partner Center.</span></span>

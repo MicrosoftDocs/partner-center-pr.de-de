@@ -8,12 +8,12 @@ ms.author: janet
 Keywords: Azure Cost Management-app, Verwalten von Kosten, web-apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 586ec2936b8491e91b4f2a56cbc392e4dee350b3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: f1627727908eff9c686dd8359558e960d0fbff88
+ms.sourcegitcommit: 6578eea4fe6836dad5710f8d22376ad8bba6e307
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586083"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58490342"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>App zum Azure-Kostenmanagement für Azure CSP-Partner  
 
@@ -31,7 +31,7 @@ Bevor Sie Azure Cost Management verwenden können, sollten Sie die folgenden Anf
 
 ## <a name="overview"></a>Übersicht
 
-Azure Cost Management von Cloudyn ist eine Web-App, mit dem Sie die Azure-Nutzung Ihrer Kunden und die Kosten dieser Nutzung nachverfolgen und verwalten können. Sie können die App über die Partner Center-API nutzen.
+Cloudyn ist eine Web-app, die Ihnen die Möglichkeit zum Nachverfolgen und verwalten, wie viel Ihre Kunden Azure und die Kosten für diese Nutzung verwenden. Sie können die App über die Partner Center-API nutzen.
 
 ## <a name="register-your-web-app-in-the-partner-center"></a>Registrieren Ihrer Web-App im Partner Center
 Wenn Sie eine Azure Active Directory-Web-App im Partner Center registrieren, können Sie auf die Partner Center-API zugreifen. 

@@ -9,12 +9,12 @@ ms.author: labrenne
 keywords: Kreditgrenze und Erwerb Erhöhung des Grenzwerts, Guthaben Zeile
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5183e3787f3573b0d7f2bd2f318fa48ef68c3922
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: eea3640ca69d97d3355fec98d700268f7433fb99
+ms.sourcegitcommit: 21be97e18e9d0f9aa007f3324bedd41d0af5fbab
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586183"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "58220800"
 ---
 # <a name="cloud-solution-provider-csp-account-credit-limits"></a>Cloud Solution Provider (CSP)-Konto Kreditlimit
 
@@ -22,14 +22,16 @@ ms.locfileid: "57586183"
 
 - Partner Center
 
-Wenn Sie als Partner im CSP-Programm teilnehmen, erhält Ihre Organisation ein Kreditlimit, um Software zu erwerben, die Sie an Ihre Kunden verkaufen können, während Sie darauf warten, dass die Kunden Sie bezahlen. Um Ihr Kreditlimit zu finden, überprüfen Sie Ihre Kommunikation, die erläutert, wo sich Ihr Kreditlimit befindet.  
+Wenn Sie einen Partner im CSP-Programm haben, stellen wir automatisch Ihr Unternehmen ein Kreditlimit. Mit der Gutschrift können Sie zum Erwerb von Software für Ihre Kunden zu verkaufen, während Sie Kunden bezahlen warten. 
 
-## <a name="what-you-need-to-know-about-your-credit-limit"></a>Was Sie über Ihre Kreditlimit wissen müssen
+## <a name="monitoring-your-credit-use"></a>Überwachen Ihre Gutschrift verwenden
 
-Sobald Sie 70 Prozent des Limits verwendet haben, sendet Microsoft Ihnen eine Bestätigung an die primäre E-Mail-Adresse Ihrer Organisation. Die E-Mail enthält eine Zusammenfassung Ihrer Rechnung, die den zu zahlenden Betrag angibt, um den Dienst beizubehalten. Sie erhalten außerdem eine Benachrichtigung, wenn Sie 85 Prozent erreichen. Wenn Sie 100 Prozent des Kreditlimits nutzen, informiert Sie Microsoft 24 Stunden im Voraus darüber, dass Sie eine Zahlung durchführen müssen. Andernfalls wird Ihr Konto ausgesetzt. 
+Wenn Sie 70 Prozent der die maximale Anzahl Guthaben verwendet haben, werden wir den primären Kontakt Ihres Unternehmens per e-Mail benachrichtigen. Diese e-Mail enthält Ihre aktuellen Guthaben, eine Zusammenfassung der Rechnung und Richtlinien für die Aufrechterhaltung Ihres Diensts. Wir senden eine neue e-Mail, wenn Sie 85 Prozent der die maximale Anzahl Guthaben verwendet haben. Sie 100 Prozent der Ihr Limit erreichen sollten, benachrichtigen wir Sie, dass Sie die Zahlung innerhalb von 24 Stunden vornehmen müssen, um die Unterbrechung Ihres Kontos zu vermeiden. 
 
-Wenn Ihre CSP-Konto ausgesetzt ist, können Sie keine neuen Kunden erstellen, neue Abonnements erwerben oder Änderungen an vorhandenen Abonnements vornehmen.
+Wenn Ihr Konto gesperrt ist, müssen Sie möglicherweise nicht zum Erstellen von neuer Kunden, neue Abonnements erwerben oder nehmen Sie Änderungen an vorhandenen Abonnements. Ihre vorhandenen Kunden sind nicht betroffen. 
 
 ## <a name="automatic-credit-limit-increase"></a>Automatisches Erhöhen des Kreditlimits
 
-Als CSP-Partner wird Ihr Konto in regelmäßigen Abständen von Microsoft überprüft, und wenn es einwandfrei geführt ist, sind Sie automatisch zu einer höheren Kreditlinie berechtigt. Microsoft informiert Sie über jegliche Kontoänderungen. 
+Microsoft überprüft in regelmäßigen Abständen die Konten der alle CSP-Partner. Wenn Ihr Konto ordnungsgemäß ist, können Sie für eine Erhöhung des Guthaben Zeile berechtigt sein. Wir benachrichtigen Sie alle Änderungen des Kontos. 
+
+Weitere Informationen zu Limits der Gutschrift, erhalten Sie im Microsoft Credit Risk-Team bei ucmwrcsp@microsoft.com. 

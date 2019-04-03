@@ -1,18 +1,18 @@
 ---
 title: Zuweisen von Benutzerrollen und Berechtigungen | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 3/5/19
 description: Jeder Mitarbeiter im Partner Center funktioniert muss, muss eine Rolle zugewiesen werden.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Rollen, Berechtigungen, Administrator, Agent
 ms.localizationpriority: medium
-ms.openlocfilehash: 038a2d6f4d58bbd9a71a2b241ee68982e0e7ef0a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 66923c8a5d4912d178ef483a883f08f40ed8378b
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587743"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682488"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern
 
@@ -37,6 +37,7 @@ Sie bestimmen die Zugriffsarten aufgeführt, die Ihre Benutzer müssen Partner C
 |Benutzeradministrator   | • Anzeigen, erstellen und Verwalten von Benutzern
 ||• Zeigen Sie alle aufgelisteten Partnerprofile
 ||• Anzeigen, erstellen und Verwalten von B2B-Zusammenarbeit  |
+|Abrechnungsadministrator | – Anzeigen, erstellen und Verwalten von abrechnungs-, Rechnungen und Abstimm Dateien|
 |Standardbenutzer|  Mein Profil anzeigen   |
 |Administratoragent | • Kundenverwaltung
 ||• Hinzufügen von Geräteliste zu Partner Center <
@@ -61,7 +62,7 @@ Sie bestimmen die Zugriffsarten aufgeführt, die Ihre Benutzer müssen Partner C
 ||• Help Resolve-Kundenprobleme mit der Verwaltung von Abrechnung oder zum Abonnement
 ||• Anforderung Support für Kunden (Hinweis: Sie müssen ein Administrator-Agent zur Ausführung dieser Aufgabe für Office 365-Abonnements sein)
 ||• Verwalten von Abonnements und Abrechnung Probleme im Namen von Kunden (Hinweis: Sie müssen ein Administrator-Agent zur Ausführung dieser Aufgabe für Office 365-Abonnements sein)|
-|
+
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>Hersteller des Steuerelements Bereich (Vocabulary). (CSP-Rolle und nicht-AAD-Rolle)
 CPVs entwickeln Sie apps für die Verwendung durch Partner (Cloud Solution Provider, CSP), damit sie ihre Systeme in Partner Center-APIs integrieren können. 
 
@@ -90,6 +91,17 @@ CPVs entwickeln Sie apps für die Verwendung durch Partner (Cloud Solution Provi
 ||– Verwalten von Profilen, die im Zusammenhang mit den Konten, die, denen Sie Administrator sind 
 ||• Zuweisen von Rollen für Benutzer im Mandanten nicht AAD-Rollen 
 ||• Standorte in Programmen zu registrieren
+
+## <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Gastbenutzer (muss für den AAD-Mandanten hinzugefügt werden)
+
+|**Gastbenutzer**   | **Rollen**|
+|---------------------------|:--------------------|
+||Administrator für MPN-Partner|
+||Konten-Administrator|
+||Incentives-Administrator|
+||Administrator für das Unternehmensprofil|
+||Verweise auf admin|
+
 
 ## <a name="manage-referrals-non-aad-roles"></a>Verwalten von verweisen (nicht-AAD-Rollen)
 

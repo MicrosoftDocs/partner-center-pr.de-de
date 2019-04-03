@@ -1,17 +1,17 @@
 ---
 title: Zusammenarbeiten mit indirekten Vertriebspartnern in CSP | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/29/2019
 description: Als indirekter Anbieter (oder Distributor) können Sie mit indirekten Vertriebspartnern zusammenarbeiten, um Ihre Reichweite zu erhöhen.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 471445521361630ec73ae7490fa363d1bbf19284
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 0eb5afdf04655e52fe493d9039d4aa11fbca5a4b
+ms.sourcegitcommit: 29dd7a49981f998800279ee9f8c489a0e41fb371
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584373"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "58656391"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Wiederverkäufern im Programm für Cloud-Lösungsanbieter
 
@@ -86,16 +86,7 @@ Wenn Sie mit einem indirekten Vertriebspartners, arbeiten möchten, können Sie 
 | Zuschreiben von Anreizen für Vertriebspartner | Ordnen Sie den Vertriebspartner dem (neuen oder vorhandenen) Abonnement zu. | Auf der Seite **Neues Abonnement** |
 | Delegieren des Kundensupports für bestimmte Abonnements an den Vertriebspartner | Wählen Sie den Vertriebspartner in der Liste **Designated support contact** aus. | Auf der Seite "Details" des Abonnements: Wählen Sie den Kunden aus Ihrem **Kunden** Seite aus, und wählen Sie das Abonnement aus der Kunden **Abonnements** Seite |
 
-Heute können indirekte Anbieter zu bestellen, und wählen Sie optional ein indirekten Vertriebspartners als die PartnerOnRecord Partner Center-Dashboard verwenden. Wenn sie ein indirekten Vertriebspartners nicht übernehmen, wir dies als eine Transaktion 1-schichtiges behandeln und incentivize indirekten Anbieters als solche. Wenn sie eine auswählen, wir behandeln die Reihenfolge als 2-Tier-Transaktion, und wir sowohl die indirekte Anbieter als auch die indirekten Vertriebspartners entsprechend incentivize:
 
- 
-
-Es gibt auch eine Benutzeroberfläche, in denen ein indirekter Anbieter die PartnerOnRecord für vorhandene Abonnements auch aktualisieren kann:
-
- 
-
-Woher wissen Sie, wenn wir vorhandenen Dokumentation zu wie indirekte haben Anbieter sollten verwalten, die PartnerOnRecord Bitte festlegen?
-Der Grund für diese frage ist, da anscheinend ist eine erhebliche Anzahl von 2-Tier-Transaktionen, die von indirekten Anbieter, was zu falschen anreizprogramm Auszahlung nicht ordnungsgemäß konfiguriert wurden. Wie Zeit verstrichen ist, Partner dadurch realisiert, und Sie werden gestartet, mit unseren Lesern an Microsoft, um eine Backpay auf Incentive abzurufen. Wenn wir nicht über die Abdeckung der Dokumentation in diesem Bereich verfügen, möchte ich Ihre Hilfe, um eine zusammengestellt zu erhalten.
 
 
 

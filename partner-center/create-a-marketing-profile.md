@@ -1,19 +1,19 @@
 ---
 title: Erstellen eines Unternehmensprofils | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/26/2019
 description: Erstellen Sie ein Unternehmensprofil in Partner Center, um Vertriebskontakte von Microsoft zu erhalten.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, Empfehlungen, Vertriebskontakte, C2PC, Unternehmensprofil, Unternehmen vermarkten, Partner finden, Lösungsanbieter finden, Unternehmensprofil, Marketingprofil
 ms.localizationpriority: medium
-ms.openlocfilehash: 26497b52702a1be6797a4d2e3b77d9ab0f73d47a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a4931fa37b607d9e1d2921154e345f65250a6a20
+ms.sourcegitcommit: a7b7cd2d436003eed7fc9136146d061342b4677d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587333"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "58462514"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -38,25 +38,25 @@ Microsoft vermittelt jedes Jahr Millionen von Kunden durch Marketing-, Vertriebs
 
 Erstellen Sie zunächst ein Unternehmensprofil, um von diesen Leads zu profitieren. Wir zeigen Ihr Profil allen Kunden, die Partner suchen, die beim Implementieren von Microsoft-Produkten und -Lösungen helfen können, und zwar über:
 
-*  **Die Suchfunktion [Partner suchen](https://partnercenter.microsoft.com/pcv/search)**. Potenzielle Kunden können selbst Partnereinträge durchsuchen, um Partner ausfindig zu machen, die ihren Suchkriterien entsprechen.
+- **Die Suchfunktion [Partner suchen](https://www.microsoft.com/solution-providers/home)**. Potenzielle Kunden können selbst Partnereinträge durchsuchen, um Partner ausfindig zu machen, die ihren Suchkriterien entsprechen.
 
-*  **Empfehlungen von Vertriebs- und Servicemitarbeitern von Microsoft**. Potenzielle Kunden, die an der Bereitstellung cloudbasierter Technologielösungen interessiert sind, kontaktieren Microsoft, um Hilfe bei der Suche von Experten zu erhalten, die ihre geschäftlichen Anforderungen erfüllen können. Diese Microsoft-Experten können dann potenzielle Kunden für Ihr Unternehmen empfehlen.
+- **Empfehlungen von Vertriebs- und Servicemitarbeitern von Microsoft**. Potenzielle Kunden, die an der Bereitstellung cloudbasierter Technologielösungen interessiert sind, kontaktieren Microsoft, um Hilfe bei der Suche von Experten zu erhalten, die ihre geschäftlichen Anforderungen erfüllen können. Diese Microsoft-Experten können dann potenzielle Kunden für Ihr Unternehmen empfehlen.
 
 > [!IMPORTANT]  
-> Damit werden unsere Partner Geschäftsvorgänge zu optimieren, werden wir konsolidieren, Features und Funktionen, mit der in Partner Center, diese Website über mehrere Tools und Websites hinweg verteilt werden. Als Teil dieses Bestrebens haben wir alle Verweise auf Funktionen im Partner Center verschoben und die Pinpoint und C2PC Standorte eingestellt. Wenn Sie verwendet Pinpoint oder C2PC in der Vergangenheit abrufen und Empfehlungen von Microsoft verwalten, müssen Sie zum Erstellen eines neuen Business-Profils im Partner Center um den Vorgang fortzusetzen, um Verweise zu erhalten. Das Importieren von Profilen von diesen Sites wird nicht mehr unterstützt. 
+> Um unseren Partnern zu helfen, ihre Geschäftsabläufe zu optimieren, fassen wir Features und Funktionen, die früher auf verschiedene Tools und Websites im Partner Center verteilt waren, auf dieser Website zusammen. Gleichzeitig haben wir alle auf Empfehlungen bezogene Funktionen ins Partner Center verschoben und die Sites Pinpoint und C2PC eingestellt. Wenn Sie bisher Pinpoint oder C2PC verwendet haben, um Empfehlungen von Microsoft zu erhalten und zu verwalten, müssen Sie ein neues Unternehmensprofil im Partner Center erstellen, um weiterhin Empfehlungen zu erhalten. Das Importieren von Profilen von diesen Sites wird nicht mehr unterstützt. 
 
 ## <a name="create-a-profile"></a>Erstellen eines Profils
 
 > [!NOTE]  
->  Bevor Sie ein Geschäftsprofil erstellen können, müssen Sie ein Partner Center-Konto verfügen. Unter [Erstellen eines Partner Center-Kontos](mpn-create-a-partner-center-account.md) finden Sie eine entsprechende Anleitung. 
+> Bevor Sie ein Geschäftsprofil erstellen können, müssen Sie ein Partner Center-Konto verfügen. Unter [Erstellen eines Partner Center-Kontos](mpn-create-a-partner-center-account.md) finden Sie eine entsprechende Anleitung. 
 
 Erstellen Sie Profile für jede Region, in der Sie berechtigt sind, Geschäfte zu tätigen. 
 
-1.  Von der **Partner Center** , wählen Sie im Menü **Verweise** &gt; **Geschäftsprofile** &gt; Land/Region auswählen >  **[ Erstellen eines Geschäftsprofils](https://partnercenter.microsoft.com/pcv/publishing)**.
+1. Von der **Partner Center** , wählen Sie im Menü **Verweise** &gt; **Geschäftsprofile** &gt; Land/Region auswählen >  **[ Erstellen eines Geschäftsprofils](https://partnercenter.microsoft.com/pcv/publishing)**.
 
-2.  Wählen Sie auf der Seite **Erstellen eines Unternehmensprofils** eine Region aus, und geben Sie Ihre Profilinformationen ein.
-    > [!NOTE]  
-    >  Während die Partner Center mehrere Sprachen unterstützt, müssen möglicherweise einige Elemente, z. B. die Beschreibung und Freiform-Tags, Text aus anderen Sprachen, wie bereits erwähnt, in diesem Thema enthalten sein soll.
+2. Wählen Sie auf der Seite **Erstellen eines Unternehmensprofils** eine Region aus, und geben Sie Ihre Profilinformationen ein.
+   > [!NOTE]  
+   >  Partner Center mehrere Sprachen unterstützt, müssen möglicherweise einige Elemente, z. B. die Beschreibung und Freiform-Tags, Text aus anderen Sprachen, wie bereits erwähnt, in diesem Thema enthalten sein soll.
 
 ### <a href="" id="partner_info"></a>Partnerinformationen
 
@@ -66,14 +66,14 @@ Das Logo kann eine GIF-, JPG- oder PNG-Datei mit einer maximalen Breite von 300 
 
 Die Beschreibung kann bis zu 2500 Zeichen lang sein. Tipps für eine hervorragende Beschreibung: 
 
-*  **Halten Sie sich kurz**. Die ersten ein oder zwei Sätze sollten die wichtigsten Informationen enthalten. Dies sollte die Überschrift sein, die die Aufmerksamkeit der Kunden erregt. Auf der Seite zum Suchen von Partnern werden die ersten ein oder zwei Zeilen in der Vorschau der Suchergebnisse angezeigt.
-*  **Konzentrieren Sie sich auf Ihre Erfahrungen mit Microsoft-spezifischen Angeboten**. Kunden, die nach Empfehlungen suchen, möchten in der Regel Partner mit Microsoft-spezifischen Erfahrungen ausfindig machen.
-*  **Aufzählungen verwenden**. Unterteilen Sie Informationen in eine Liste mit Aufzählungszeichen, die leichter zu überfliegen ist.
-*  **Fachsprache vermeiden**. Verwenden Sie einfache Alltagssprache, und benennen Sie Ihre Angebote nach ihren Funktionen – welche Geschäftsanforderungen sie erfüllen oder welche Aufgaben und Ziele Kunden mit ihnen erreichen.
-*  **Machen Sie sich keine Gedanken darüber, die Beschreibung mit Schlüsselwörtern zu füllen**. Die Kundensuchtools suchen nicht in der Beschreibung, sondern im Abschnitt mit den Partnerkenntnissen nach Schlüsselwörtern.
-*  **Ihr Profil aktuell halten**. Aktualisieren Sie mit jeder Software- oder Diensteveröffentlichung Ihr Profil, und stimmen Sie es mit Ihrer Unternehmenswebsite ab.
-*  **Verweisen Sie nicht auf ein anderes Microsoft-Partnerunternehmen nach Namen**, es sei denn, es ist eine Tochtergesellschaft oder ist Ihrem Unternehmens aus irgendeinem anderen Grund zugeordnet, oder Sie haben eine aktuelle Vereinbarung mit diesem Partnerunternehmen, gemeinsame Arbeitschancen partnerschaftlich zu nutzen oder einander dabei zu begünstigen.
-*  Ziehen Sie **für Regionen mit mehreren Sprachen** die Aufnahme von Text aus mehreren Sprachen in der Beschreibung in Erwägung.
+-  **Halten Sie sich kurz**. Die ersten ein oder zwei Sätze sollten die wichtigsten Informationen enthalten. Dies sollte die Überschrift sein, die die Aufmerksamkeit der Kunden erregt. Auf der Seite zum Suchen von Partnern werden die ersten ein oder zwei Zeilen in der Vorschau der Suchergebnisse angezeigt.
+-  **Konzentrieren Sie sich auf Ihre Erfahrungen mit Microsoft-spezifischen Angeboten**. Kunden, die nach Empfehlungen suchen, möchten in der Regel Partner mit Microsoft-spezifischen Erfahrungen ausfindig machen.
+-  **Aufzählungen verwenden**. Unterteilen Sie Informationen in eine Liste mit Aufzählungszeichen, die leichter zu überfliegen ist.
+-  **Fachsprache vermeiden**. Verwenden Sie einfache Alltagssprache, und benennen Sie Ihre Angebote nach ihren Funktionen – welche Geschäftsanforderungen sie erfüllen oder welche Aufgaben und Ziele Kunden mit ihnen erreichen.
+-  **Machen Sie sich keine Gedanken darüber, die Beschreibung mit Schlüsselwörtern zu füllen**. Die Kundensuchtools suchen nicht in der Beschreibung, sondern im Abschnitt mit den Partnerkenntnissen nach Schlüsselwörtern.
+-  **Ihr Profil aktuell halten**. Aktualisieren Sie mit jeder Software- oder Diensteveröffentlichung Ihr Profil, und stimmen Sie es mit Ihrer Unternehmenswebsite ab.
+-  **Verweisen Sie nicht auf ein anderes Microsoft-Partnerunternehmen nach Namen**, es sei denn, es ist eine Tochtergesellschaft oder ist Ihrem Unternehmens aus irgendeinem anderen Grund zugeordnet, oder Sie haben eine aktuelle Vereinbarung mit diesem Partnerunternehmen, gemeinsame Arbeitschancen partnerschaftlich zu nutzen oder einander dabei zu begünstigen.
+-  Ziehen Sie **für Regionen mit mehreren Sprachen** die Aufnahme von Text aus mehreren Sprachen in der Beschreibung in Erwägung.
 
 #### <a href="" id="linkedin"></a> Seite der LinkedIn-Unternehmens: Weitere Möglichkeiten zum Verbinden von
 
@@ -89,20 +89,20 @@ Die „Partner suchen“-Suchtools suchen nach Fachwissen-Tags. Optimieren Sie d
 
 Starten Sie, indem Sie Ihre eigenen Tags im Abschnitt mit den Partnerkenntnissen hinzufügen. Tags, die Sie hinzufügen können: 
 
-*  **Branchenfokus-Tags**. Bis zu 5 Branchen
-*  **Produkte**. Beschränkt auf Microsoft-Produkte
-*  **Diensttyp** 
-*  **Lösungen, Kenntnisse und Fähigkeiten**. Diese Tags können frei formuliert werden und bieten Ihnen die Möglichkeit, Suchbegriffe hinzuzufügen, die speziell für Ihre Fähigkeiten gelten.
+-  **Branche Fokus tags**
+-  **Produkte**. Beschränkt auf Microsoft-Produkte
+-  **Diensttyp**
+-  **Lösungen, Kenntnisse und Fähigkeiten**. Diese Tags können frei formuliert werden und bieten Ihnen die Möglichkeit, Suchbegriffe hinzuzufügen, die speziell für Ihre Fähigkeiten gelten.
 
 Andere in der Suche verwendete Tags:
-*  **Kompetenz-Tags** sind eine Auszeichnung, die sich Ihr Unternehmen für seine Kenntnisse verdient hat.
-*  **Unterstützungs-Tags** werden erzielt, wenn Microsoft oder Ihre Kunden, die mit Ihnen gearbeitet haben, Ihre Arbeit unterstützen.
+-  **Kompetenz-Tags** sind eine Auszeichnung, die sich Ihr Unternehmen für seine Kenntnisse verdient hat.
+-  **Unterstützungs-Tags** werden erzielt, wenn Microsoft oder Ihre Kunden, die mit Ihnen gearbeitet haben, Ihre Arbeit unterstützen.
 
 #### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Ermöglichen Sie Microsoft Meine Bereiche Fachwissen zu unterstützen
 
 Es wird empfohlen, diese Einstellung aktiviert zu lassen. 
 
-Erfolg mit Kunden über das Partner Center zeigen oder andere Microsoft-Zertifizierungen oder Programme teilnehmen, fügen wir automatisch Systemen für Ihre bestimmte Produkte, Dienste und Branchen, die auf diesem Erfolg beiträgt. Unterstützungen sind ein wichtiger Faktor bei Suchergebnissen.
+Wenn Sie Erfolge mit Kunden über Partner Center oder durch die Teilnahme an anderen Microsoft-Zertifizierungen oder -Programmen nachweisen, fügen wir automatisch Unterstützungen für Ihre spezifischen Produkte, Dienste und Branchen hinzu, die zu diesem Erfolg beitragen. Unterstützungen sind ein wichtiger Faktor bei Suchergebnissen.
 
 Liegen jedoch Produkte vor, für die Sie zwar Dienstleistungen anbieten, die aber nicht in Ihrem Profil angezeigt werden können, können Sie dieses Kontrollkästchen deaktivieren und Ihr Profil manuell verwalten. Diese Unterstützungen werden in der Ansicht der Kunden ausgeblendet, Sie können sie jedoch später jederzeit wieder zu Ihrem Profil hinzufügen.
 
@@ -114,9 +114,9 @@ Sie können Empfehlungen von Unternehmen ablehnen, die nicht Ihrer Kundenzielgr�
 
 Durch die Ablehnung haben Sie mehr Zeit für Unternehmen, die dem Unternehmen entsprechen, mit dem Sie zusammenarbeiten möchten.
 
-### <a href="" id="#locations"></a> Speicherorte
+#### <a href="" id="#locations"></a> Speicherorte
 
-Sie können bis zu 5 Standorte pro Region hinzufügen. Diese Standorte werden angezeigt, wenn Kunden nach Partnern basierend auf der Lage suchen. 
+Sie können bis zu 5 Standorte pro Region hinzufügen. Diese Standorte werden angezeigt, wenn Kunden nach Partnern basierend auf der Lage suchen.
 
 Geben Sie Standorte an, die offizielle Geschäftssitze sind und überprüft werden können. Wählen Sie Standorte aus, die für die Märkte, die Sie bedienen, von zentraler Bedeutung sind, und die die Fähigkeit Ihres Unternehmens, Anforderungen zu erfüllen, am besten repräsentieren.
 
@@ -130,14 +130,14 @@ Wenn Sie in den 5 Top-Standorten sind, und einen ändern müssen, **löschen** S
 
 ## <a name="review-your-profile"></a>Überprüfen des Profils
 
-Nachdem Sie Ihr Profil veröffentlicht haben, werden Updates in Suchanfangen unter [Partner suchen](https://partnercenter.microsoft.com/pcv/search) innerhalb von 24 Stunden angezeigt. 
+Nachdem Sie Ihr Profil veröffentlichen, Updates angezeigt werden, der [Lösungsanbieter suchen](https://www.microsoft.com/solution-providers/home) sucht innerhalb von 24 Stunden.
 
 ## <a name="improve-the-visibility-of-your-profile"></a>Verbessern der Sichtbarkeit Ihres Profils 
 
-*  **[Schnelles reagieren auf Anforderungen](responding-to-referrals.md)**. Wenn Sie eine Kundenempfehlung erhalten, kann eine schnellere Antwort für zukünftige Kunden zu besseren Ergebnissen auf den Suchseiten führen.
-*  **Seien Sie wählerisch bei Ihren Tags**.  Es ist besser, weniger Tags zu haben, die die Angebote, Lösungen, Nutzenversprechen und eindeutige Position Ihres Unternehmens am besten darstellen, damit Sie konsistent Erfolge nachweisen können.  Davon profitieren Sie in zukünftigen Suchergebnissen.
-*  **Verdienen Sie Kompetenz-Tags** über Microsoft, um Ihr Sachverständnis in Bezug auf unsere Produkte zu demonstrieren.
-*  **Verdienen Sie Unterstützungs-Tags** von Kunden, die Ihre Arbeit zu schätzen wissen.
+- **[Schnelles reagieren auf Anforderungen](responding-to-referrals.md)**. Wenn Sie eine Kundenempfehlung erhalten, kann eine schnellere Antwort für zukünftige Kunden zu besseren Ergebnissen auf den Suchseiten führen.
+- **Seien Sie wählerisch bei Ihren Tags**.  Es ist besser, weniger Tags zu haben, die die Angebote, Lösungen, Nutzenversprechen und eindeutige Position Ihres Unternehmens am besten darstellen, damit Sie konsistent Erfolge nachweisen können.  Davon profitieren Sie in zukünftigen Suchergebnissen.
+- **Verdienen Sie Kompetenz-Tags** über Microsoft, um Ihr Sachverständnis in Bezug auf unsere Produkte zu demonstrieren.
+- **Verdienen Sie Unterstützungs-Tags** von Kunden, die Ihre Arbeit zu schätzen wissen.
 
 ## <a name="related-topics"></a>Verwandte Themen
 [Reagieren auf Verweise](responding-to-referrals.md)

@@ -8,18 +8,14 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Rollen, Berechtigungen, hinzufügen Benutzer "," Assign-Rolle "," Admin ","-agent
 ms.localizationpriority: medium
-ms.openlocfilehash: dcdf7d11d90acffd4a9302ce37bd56de3a242d60
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a314a3c551b360eb777bd0db180388aa85f2e7f8
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583813"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682458"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen
-
-**Gilt für**
-
--  Partner Center
 
 Erstellen Sie Benutzerkonten für Mitarbeiter, die Zugriff auf Partner Center benötigen. Diese Aufgaben müssen von einem Administrator für die Benutzerverwaltung, einem Kontoadministrator oder vom globalen Administrator durchgeführt werden. 
 
@@ -44,27 +40,38 @@ Der Benutzer muss für die Anmeldung bei Partner Center mit ihren Benutzernamen 
 > [!NOTE]  
 >  Wenn der globale Administrator Ihr Unternehmen verlassen oder intern die Stelle gewechselt hat und Sie einen neuen globalen Administrator hinzufügen müssen, müssen Sie eine Serviceanfrage auf dem [MPN-Portal](https://partner.microsoft.com/support) stellen. Der Support-Mitarbeiter kann eine Heraufstufung eines Benutzers zum globalen Administrator anfordern, wenn der Antragsteller die benötigten persönlichen Informationen sowie zusätzliche Informationen zu Ihrem Unternehmen bereitstellen kann.
 
-## <a name="assign-user-permissions"></a>Zuweisen von Benutzerberechtigungen
+## <a name="assign-user-roles"></a>Weisen Sie Benutzerrollen
 
-Der Zugriff auf Partner Center ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt. 
-
-Um im Partner Center zu arbeiten, benötigen Sie eine Rolle zugeordnete.  Es gibt zwei allgemeine Arten von Rollen: Administratoren und Agents.
-
-- Admin-Berechtigungen steuern die Zugriffsebene, die der Benutzer auf die Partner Center-Funktionen verfügt. Diese Einstellung wirkt sich außerhalb von Partner Center – Abrechnungen Rechnungen für alle Microsoft-Dienste (auch solche, die nicht mit CSP), und ein globaler Administrator kann Zugriff auf Benutzer- und Kundenkonten außerhalb von CSP auch.
-
-- Agent-Berechtigungen steuern, welche Art von Kundendaten und Kontoinformationen der Benutzer anzeigen und ändern kann.
-    
-Die allgemeine Kategorien für Rollen sind: 
-- Administrator-Rollen
-- Agent-Rollen
-- Incentives-Rollen
-- Empfehlungs- und Marketing-Rollen
-
-
-Innerhalb jeder dieser allgemeinen Kategorien kann ein Benutzer nur eine Rolle besitzen, aber derselbe Benutzer kann auch Rollen in den anderen allgemeinen Kategorien erhalten. 
+Um im Partner Center zu arbeiten, benötigen Sie eine Rolle zugeordnete.  Derzeit sind Rollen, Azure Active Directory-Mandanten-Rollen, Cloud Solution Provider (CSP) Rollen und nicht-AAD-Mandanten-Rollen. Ein einzelnen Unternehmen kann eine alle diese Rollen benötigen.
 
 >[!Important]
 >Benutzer müssen in Ihrem Mandanten Zugriff auf Partner Center aufgeführt werden. Rollenzuweisungen bieten zusätzliche Zugriffsrechte.
+
+
+**AAD-Mandanten-Rollen umfassen**:
+- Globaler Administrator
+- Benutzeradministrator
+
+**CSP-Rollen umfassen**:
+- Administratoragent
+- Abrechnungsadministrator
+- Vertriebsbeauftragter
+- Helpdesk-Agent
+
+**Rollen, die die MPN-Mitgliedschaft und das Unternehmen (nicht-AAD) verwalten**
+- Administrator für MPN-Partner
+- Kontoadministrator
+- Administrator für Empfehlungen
+- Administrator für das Unternehmensprofil
+- Incentives für Administratoren und Benutzer
+
+**Hersteller des Steuerelements-Bereich ist eine CSP- und nicht-AAD-Rolle**.
+- Globaler Administrator
+
+**Gastbenutzer** muss Teil des AAD-Mandanten und alle nicht-AAD-Rollen haben.
+
+Spezifische Informationen zu den Rollen sowie dazu, welche Möglichkeiten Benutzer mit den jeweiligen Rollen haben, finden Sie unter [Zuweisen von Benutzerberechtigungen](permissions-overview.md).
+
 
 
 ### <a name="find-your-global-admin"></a>Suchen Sie Ihr globalen Administrator
@@ -72,7 +79,7 @@ Innerhalb jeder dieser allgemeinen Kategorien kann ein Benutzer nur eine Rolle b
 Manchmal muss ein Benutzer kann die Rolle wurde geändert haben, oder ein neuer Benutzer sollten eine bestimmte rollenzuweisung.  
 Finden Sie einen globalen Administrator sein, die Änderungen für die Rolle oder einen neuen Benutzer, Rollen zuweisen, aus der **Symbol "Einstellungen"** oben rechts im Partner Center, wählen Sie im **benutzerverwaltung** und Filter auf den globalen Administrator. 
 
-Spezifische Informationen zu den Rollen sowie dazu, welche Möglichkeiten Benutzer mit den jeweiligen Rollen haben, finden Sie unter [Zuweisen von Benutzerberechtigungen](permissions-overview.md).
+
 
 
 

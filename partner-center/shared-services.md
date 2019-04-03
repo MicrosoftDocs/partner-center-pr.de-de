@@ -8,12 +8,12 @@ ms.author: labrenne
 Keywords: Azure, gemeinsame Dienste, Mandant
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ad0d7fcaa1a4a8f65f26dd2a3e826f44b10be80a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: ff1e169f54c71e634d07ade9981ecb11009fa9de
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586983"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682468"
 ---
 # <a name="add-azure-partner-shared-services"></a>Hinzufügen von Azure Partner Shared Services
 
@@ -57,4 +57,19 @@ Sie finden den Azure-Verbrauch in Ihrer CSP-Rechnung und in der Abgleichsdatei. 
 
 Die neu Preisedatei für Azure Partner Shared Services finden Sie unter **Verkaufen** > **Preise und Angebote**. Wählen Sie dort die Preisliste für den aktuellen Monat. In den kommenden Wochen wird auch eine spezielle Bewertungskarten-API veröffentlicht.
 
+## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace-angeboten und Azure Partner Shared Services
+
+Ab dem 1. März 2019 unterstützt Azure Partner Shared Services (APSS) Marketplace-Angebote nicht mehr.   
+
+|**Marketplace-Unterstützung**   |**Vor dem 1. März 2019 unterstützt APSS**|**Nach dem 1. März 2019**|
+|---------------------------|:----------------------------|:-------------------|
+|Bringen Sie Ihre eigenen License (BYOL) und die kostenlosen Dienste   | Ja   | Nein|
+|Andere Drittanbieter-Marketplace-Angebote   | Nein   |Nein|
+
+
+Partner, die BYOL haben oder kostenlose Dienste, die mithilfe von APSS bereitgestellt werden nicht beeinträchtigt; jedoch werden nach dem 1. März 2019 sie erwerben neue BYOL- oder kostenlose Dienste nicht. 
+
+Es wird empfohlen, die CSP-Partner gemeinsame Dienste, die mithilfe von Web-direct-Azure-Abonnements bereitstellen, um den gesamten aktualisierungskatalog des Marketplace-Angebote zur Verfügung (nicht nur BYOL und kostenlose Dienste) nutzen.  CSP-Partner, die 3rd Party BYOL bereitgestellt haben, und kostenlose Dienstressourcen über den Marketplace zuvor weiterhin verwenden möchten und mehr 3rd Party angeboten, zum Migrieren der APSS-Abonnements zu Web direct empfohlen werden bereitstellen [migrieren Vorhandene Azure-Abonnements](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions).
+
+Partner, die weiterhin APSS-Abonnement nach der vom 1. März 2019 und neue 3rd Party bereitzustellenden [BYOL-Services](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) oder kostenlose Dienste, befolgen Sie die Anweisungen kann von ISVs, um diese zu ihren Abonnements APSS bereitstellen.
 

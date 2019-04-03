@@ -1,19 +1,19 @@
 ---
 title: Erstellen, Aussetzen oder Stornieren von Kundenabonnements | Partner Center
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/11/2019
 description: Nachdem Sie für Ihre Kunden einen Datensatz in Partner Center erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
-Keywords: Abonnement, neu erstellen, Hinzufügen eines Abonnements, anhalten, Abbrechen,
+Keywords: Abonnement, neu erstellen, Hinzufügen eines Abonnements, anhalten, Abbrechen, Anhalten
 ms.localizationpriority: medium
-ms.openlocfilehash: e264ddca2c3b6452493dda0beff80a5637db0455
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: e66e3944e9be7c08bd0dab35f09bde42e4ba33f6
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584403"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756917"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Aussetzen oder Stornieren von Kundenabonnements
 
@@ -56,7 +56,7 @@ Partner können ein Abonnement auf Anforderung des Kunden, bei Nichtbezahlung od
 
 ### <a name="suspend-a-subscription"></a>Aussetzen eines Abonnements
 
-Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Benutzer nicht anmelden oder auf Dienste zugreifen. Administratoren können sich weiterhin anmelden und auf Daten zugreifen.
+Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Benutzer nicht anmelden oder auf Dienste zugreifen.
 
 1.  Wählen Sie im Partner Center-Menü **Kunden**, wählen Sie dann einen Kunden aus der Liste.
 2.  Wählen Sie das Abonnement aus, das Sie verwalten möchten.

@@ -7,16 +7,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: schulungsgutscheine, Software Assurance, Schulung, überprüfen Sie Gutscheine, reservieren Gutschein
 ms.localizationpriority: medium
-ms.openlocfilehash: 98ca652900afd38ed022801a9cb7ec4c2b917180
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
+ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584453"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "58863988"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>HÄUFIG GESTELLTE FRAGEN: Mithilfe des Tools Gutschein-Überprüfung und einlösen 
 
-**Gilt für**
+**Betrifft**
 
 - Partner Center
 
@@ -48,6 +48,9 @@ Ab März 31, 2019, werden alle Partner ihre Gutscheine im Partner Center verwalt
 
 - Partner Center müssen Sie für die Anmeldung ein geschäftliches Konto (AAD).  CHIP verwendet persönliches Konto derzeit für die Anmeldung (Account, MSA oder Live ID).  Wenn Sie von VVR im Partner Center zu CHIP zu navigieren, müssen Sie zur Anmeldung bei CHIP, die mit Ihrer MSA oder Live-ID, die mit CHIP registriert ist.
 
+**Wie kann mein Unternehmen, das Tool VVR zugreifen?**
+
+- Für den Zugriff auf das Tool VVR, muss Ihr Unternehmen in die SATV-Anwendung oder das SA-DPS-Programm registrieren.
 Informationen zum Registrieren im SATV finden [Software Assurance Training Gutschein (SATV) Programm im Partner Center](software-assurance-satv.md).
  <!--
 For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->

@@ -6,12 +6,12 @@ description: Arbeiten Sie mit anderen Partnern im CSP zusammen, um die Bedürfni
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 641acf32646b193622ca4dce59f75970568af9b4
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a1fcf2a9121a53b6c2b299ac7ad484cd9f552c9e
+ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583963"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "58320723"
 ---
 # <a name="work-with-other-partners"></a>Zusammenarbeit mit anderen Partnern
 
@@ -25,7 +25,7 @@ Das Microsoft-Programm für Cloud-Lösungsanbieter (Cloud Solution Provider, CSP
 
 In diesem Modell, auch als zweistufiges Modell bezeichnet, arbeiten indirekte Anbieter und indirekte Wiederverkäufer zusammen, um auf Microsoft Cloud basierende Dienste an Organisationen in mehreren Gebietsschemas, vertikalen Märkten und Branchen zu verkaufen. 
 
-### <a name="indirect-providers"></a>Indirekte Anbieter 
+### <a name="indirect-providers"></a>Indirekte Anbieter
 
 Indirekte Anbieter (auch bekannt als Händler) erwerben Produkte und Abonnements direkt von Microsoft und bieten dann diese Lösungen über Wiederverkäufer für Kunden an. Durch die Zusammenarbeit mit indirekten Wiederverkäufern können Anbieter ihre Reichweite und ihren Kundenstamm vergrößern. 
 
@@ -52,5 +52,4 @@ Das Multichannel-Feature in Partner Center unterstützt Szenarien, in denen ein 
 Die Multichannel-Unterstützung ist auch in Microsoft-Angeboten für die nationale Cloud verfügbar
 
 > [!IMPORTANT]  
-> Ein Partner in CSP kann derzeit keine Onlinedienste an einen anderen Partner in CSP weiterverkaufen. Microsoft überprüft die Richtlinien und Funktionen aller Programme ständig. Alle Ankündigungen der künftigen Versionen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner Center. 
-
+> Ein Partner im CSP-Programm kann nicht online-Dienste derzeit an einem anderen Partner im CSP-Programm verkaufen. Microsoft überprüft fortlaufend auf, die Richtlinien und Funktionen aller Programme. Alle Neuigkeiten zu Feature-Releases oder-Änderungen der Richtlinie wird durch die üblichen Kommunikationskanäle, einschließlich bekanntgegeben [Partner Center-Ankündigungen](https://partner.microsoft.com/en-us/pcv/announcements).

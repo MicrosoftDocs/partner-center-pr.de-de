@@ -1,19 +1,19 @@
 ---
 title: CSP-Vereinbarungen, Preislisten und Angebote | Partner Center
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/27/2019
 description: Dieser Artikel enthält Links zu Programmleitfaden, Partnervereinbarungen, Kundenverträgen, Preislisten und Angeboten für Cloud Solution Provider.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote
 ms.localizationpriority: medium
-ms.openlocfilehash: edb36fa2764f4853d1d99653859a716be1c958d1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: c6ea36d5fb807f10364d28f8ae014b80c91b6013
+ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585813"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58508967"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Für die Cloud Solution Provider-Programm, Vereinbarungen, Preislisten und Angebote
 
@@ -23,7 +23,7 @@ ms.locfileid: "57585813"
 -  Partner Center für Microsoft Cloud for US Government
 
 
-Sehen Sie sich die Informationen in diesem Artikel am, um die Anforderungen für die Teilnahme am Programm für Cloud Solution Provider (Cloud Solution Provider, CSP) von Microsoft zu verstehen. 
+Sehen Sie sich die Informationen in diesem Artikel am, um die Anforderungen für die Teilnahme am Programm für Cloud Solution Provider (Cloud Solution Provider, CSP) von Microsoft zu verstehen.
 
 ## <a name="cloud-solution-provider-program-guide"></a>Für die Cloud Solution Provider-Programm
 
@@ -61,7 +61,7 @@ Bevor Sie auf einen Kunden eine Bestellung aufgeben können, muss der Kunde akze
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Professionelle Secrecy Zusatz mit der Cloud von Microsoft-Vereinbarung (Deutschland)
 
-In Deutschland müssen der Criminal-Code (Abschnitt 203) und den professionellen Verhaltensregeln bestimmte Client-Beziehungen sind, z. B. die Beziehung zwischen Patienten und deren medizinischen Ärzte und die Beziehung zwischen, vertraulich behandelt werden Anwälte und ihren Clients. Diese beruflichen Gruppen müssen professionelle Secrecy sicherstellen. Für diese und andere Berufe cloudbasierte Dienste aus der Cloud Solution Provider erwerben muss der Cloud-Dienstanbieter eine schriftliche Vereinbarung mit dem Kunden daraus schließen, die professionelle Secrecy sicherstellt. 
+In Deutschland müssen der Criminal-Code (Abschnitt 203) und den professionellen Verhaltensregeln bestimmte Client-Beziehungen sind, z. B. die Beziehung zwischen Patienten und deren medizinischen Ärzte und die Beziehung zwischen, vertraulich behandelt werden Anwälte und ihren Clients. Diese beruflichen Gruppen müssen professionelle Secrecy sicherstellen. Für diese und andere Berufe cloudbasierte Dienste aus der Cloud Solution Provider erwerben muss der Cloud-Dienstanbieter eine schriftliche Vereinbarung mit dem Kunden daraus schließen, die professionelle Secrecy sicherstellt.
 
 Wenn Sie in Deutschland Geschäfte, müssen Sie dieses Zusatzes professional Secrecy für Ihre Kunden gibt es zusätzlich zu den Microsoft-Cloud-Vertrag angeben.
 
@@ -69,27 +69,22 @@ Wenn Sie in Deutschland Geschäfte, müssen Sie dieses Zusatzes professional Sec
 
 [Microsoft Cloud Vereinbarung Professional Secrecy Zusatz für Deutschland (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
-
 ## <a name="pricing"></a>Preise
 
-
-Laden Sie die Preisdetails für lizenzbasierte Verwendungsbasierte und einmalige Käufe aus der **Preise und Angebote** Seite, die von Ihrer **Partner Center** Menü. 
+Laden Sie die Preisdetails für lizenzbasierte Verwendungsbasierte und einmalige Käufe aus der **Preise und Angebote** Seite, die von Ihrer **Partner Center** Menü.
 
 Die lizenzbasierte Preisliste wird monatlich aktualisiert, und Microsoft veröffentlicht neue Preise 30 Tage, bevor diese wirksam werden. Beispiele für lizenzbasierte Dienste sind Office 365, Enterprise Mobility Suite und Microsoft Dynamics CRM. 
 
 Die nutzungsbasierten Preise sind dynamisch und ändern sich häufig. Ein Beispiel für nutzungsbasierte Dienste ist Microsoft Azure.
 
-Preise für einmalige Einkäufe sind ebenfalls dynamisch. Beispiele für einmalige Einkäufe sind Microsoft Azure-Reservierungen und die entsprechenden Abonnements zu Windows Server und SQL-Software. 
+Preise für einmalige Einkäufe sind ebenfalls dynamisch. Beispiele für einmalige Einkäufe sind Microsoft Azure-Reservierungen und die entsprechenden Abonnements zu Windows Server und SQL-Software.
 
-Preisinformationen zu Azure Marketplace-Angebote, finden Sie unter **Marketplace** im linken Navigationsmenü Partner Center. Wählen Sie ein Produkt aus, um Informationen über die Verleger-SKUs finden und Preise. Die Preise für diese Azure Marketplace-Produkte können häufig ändern. In Kürze, stellen wir eine Option zum Exportieren einer Liste aller Preise Daten einmal täglich aktualisiert bereit. Wir müssen auch den aktuellen Preis Daten über APIs Zugriff aktiviert werden. Sobald diese Optionen verfügbar sind, aktualisieren wir auf dieser Seite mit weiteren Informationen über das sie verwenden.
+Preisinformationen zu Azure Marketplace-Angebote, finden Sie unter **Marketplace** im linken Navigationsmenü Partner Center. Wählen Sie ein Produkt aus, um Informationen über die Verleger-SKUs finden und Preise. Die Preise für diese Azure Marketplace-Produkte können häufig ändern. Um aktuelle Preisinformationen für alle Marketplace-Produkte zu erhalten, wählen **Export Preisliste** um eine Tabelle mit allen Tarif Daten zu generieren. Diese Informationen werden täglich, aktualisiert, damit Sie überprüfen, können sie beliebig oft, wie Sie möchten.
 
 ## <a name="offers"></a>Angebote
-
 
 Als Partner im CSP können Sie eine Vielzahl von Microsoft-Produkten, Diensten und Lösungen, einschließlich Office 365, Enterprise Mobility Suite, Microsoft Dynamics und Microsoft Azure verkaufen. Weitere Informationen darüber, welche Angebote für den Verkauf in diese Produktfamilien verfügbar sind, finden Sie unter der CSP-Angebotsmatrix auf die **Preise und Angebote** Seite, die von Ihrer **Partner Center** Menü. Dieses Dokument wird jeden Monat aktualisiert.
 
 Für CSP-Partner, die die CREST-API für die Nutzungsaufzeichnung verwenden, veröffentlicht Microsoft auf der Seite **Preise und Angebote** auch eine Liste der Azure-Dienste in CSP.
 
 Weitere Informationen zu Azure Marketplace-Angebote, die von unabhängigen Softwareanbietern (ISVs) veröffentlicht, finden Sie auf die **Marketplace** Seite im linken Navigationsmenü. Derzeit können nur die Produkttypen SaaS (Software als Dienst) im Partner Center erworben werden. Sie müssen das Azure-Portal erwerben Sie andere Arten von Azure Marketplace-Angebote finden Sie unter.
-
-

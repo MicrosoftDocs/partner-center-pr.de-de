@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ce9b7cd9ead08b7709c68a0e967d64e9f2a32bd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585133"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682508"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -642,7 +642,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 <tr class="odd">
 <td>AlternateID</td>
-<td><p>Eine alternative ID-ID zu.</p></td>
+<td><p>Ein alternativer Bezeichner, der eine Auftrags-ID.</p></td>
 </tr>
 </tbody>
 </table>

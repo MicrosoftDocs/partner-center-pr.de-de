@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Online-Dienst "," Übergang "," indirekten Vertriebspartners
-ms.openlocfilehash: 52995c301dba6a5ce347cbd9153f8c6ccaf88873
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: c8173bbb8878448271a35178fd3f77016a6ba129
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587683"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682478"
 ---
 **Gilt für:**
  - CSP-Partner
@@ -120,8 +120,6 @@ Ihr indirekte Anbieter nicht Bestellungen für Ihre Kunden von Online-Dienst ges
 
 6. Erweitern Sie zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem Sie neben seinem Namen auf den Pfeil nach unten klicken.
 
->[!Note]
->Microsoft Store für Unternehmen ist ein Kunde akzeptieren der Einladung indirekter Reseller von einem vorhandenen direkte Rechnung Partner derzeit nicht möglich. Microsoft Store für Unternehmen unterstützt in der nahen Zukunft. Bis dahin weiterhin zum Übermitteln von Bestellungen für Ihre vorhandenen direkte Rechnung-Kunden, die mit Ihrer Online-Dienst-Funktion.
 
 ## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Verwalten von Ihren Kunden Online-Dienst und Ihre Kunden indirekten Vertriebspartners
 
@@ -173,20 +171,24 @@ Zusätzlich zu den neuen Käufen können Sie nicht die folgenden direkten Rechnu
 
 - Sie können Einladungen für Kunden, die eine direkte vertriebspartnerbeziehung anfordern nicht generieren. Die **vertriebspartnerbeziehung anfordern** option **Kunden** im Partner Center nicht zur Verfügung. 
 
-Direkte Rechnung Abonnements sind nicht betroffen. Sie bleiben gültig und werden automatisch verlängert. Sie werden weiterhin direkt von Microsoft gestellt, bis sie abgebrochen werden. Sie können vorhandene Abonnements weiterhin auf folgende Weise verwalten: 
+>[!Note] 
+>Wenn Sie Ihre direkten Rechnung partnermandanten als indirekter Reseller bereits registriert haben, können Sie zum Senden von Einladungen für Kunden, die eine indirekter Reseller Beziehung statt für direkte Rechnung anfordern. 
+
+- Sie können keinen neuen Sandbox-Mandanten erstellen. Jeder direkte Rechnung partnermandanten kann eine Sandbox-Mandanten für die Online-Dienst-API-Integration erstellen. Wenn Sie eine zuvor erstellt haben, werden Sie dazu nach dem Sie direkte Rechnung Partner Funktion eingeschränkt wurde nicht zulässig. 
+
+## <a name="whats-not-affected"></a>Was ist nicht betroffen.
+
+Direkte Rechnung Abonnements sind nicht betroffen. Sie bleiben gültig und werden automatisch verlängert. Sie werden weiterhin direkt von Microsoft in Rechnung gestellt, bis Sie sie beenden. 
+
+Weiterhin vorhandene Abonnements auf folgende Weise verwalten: 
 
 - Anhalten von vorhandenen Abonnements 
 
 - Passen Sie die Anzahl der Arbeitsplätze des vorhandenen lizenzbasierte Abonnements 
 
-- Passen Sie die Arbeitsplätze des vorhandenen Add-ons zu einem Abonnement. Hinweis: Sie ccan't neuen Add-Ons für bereits bestehende Abonnements hinzufügen, wie sie als neue Einkäufe behandelt werden. 
+- Passen Sie die Arbeitsplätze des vorhandenen Add-ons zu einem Abonnement. Hinweis: Neuen Add-Ons kann nicht zu bestehenden Abonnements hinzugefügt werden, da-Add-Ons als neue Einkäufe behandelt werden. 
 
 - Neue Azure-Ressourcen bereitstellen und Verwalten von vorhandenen Azure-Ressourcen unter dem vorhandenen Azure-Abonnements. Dies schließt die Produkte, die über Azure Marketplace und Visual Studio-Abonnements verfügbar sind. 
-
->[!Note] 
->Wenn Sie Ihre direkten Rechnung partnermandanten als indirekter Reseller bereits registriert haben, können Sie zum Senden von Einladungen für Kunden, die eine indirekter Reseller Beziehung statt für direkte Rechnung anfordern. 
-
-- Sie können keinen neuen Sandbox-Mandanten erstellen. Jeder direkte Rechnung partnermandanten kann eine Sandbox-Mandanten für die Online-Dienst-API-Integration erstellen. Wenn Sie eine zuvor erstellt haben, werden Sie dazu nach dem Sie direkte Rechnung Partner Funktion eingeschränkt wurde nicht zulässig. 
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>Registrieren Sie für Incentives des indirekten Vertriebspartners 
 

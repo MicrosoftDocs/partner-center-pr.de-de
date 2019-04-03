@@ -1,30 +1,27 @@
 ---
-title: Reaktion auf Empfehlungen | Partner Center
+title: Antworten auf Empfehlungen | Partner Center
 ms.topic: article
-ms.date: 01/17/2019
+ms.date: 03/11/2019
 description: Als qualifizierter Microsoft-Partner können Sie bewerten, aushandeln und Antworten auf Empfehlungen über Partner Center.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Empfehlung, RFI, Partner suchen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 43b3245d7877156012ee9f1998a3049fe246d387
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a9cabe4772fa60a3b56433998da81030916279f8
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585853"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756897"
 ---
-# <a name="responding-to-referrals"></a>Reaktion auf Empfehlungen
+# <a name="respond-to-referrals"></a>Antworten auf Empfehlungen
 
 **Gilt für**
 
 -  Partner Center
 
 Als qualifizierter Microsoft-Partner können Sie potenzielle geschäftliche Leads durch Verweise erhalten. Im Partner Center können eingehende Leads zu verwalten, schnelles reagieren auf sind gut geeignet, und überspringen oder solche, die nicht ablehnen. 
-
-> [!IMPORTANT]
-> Wir haben einige Updates für die die Weiterleitung Management sind und gerade diese an alle Partner. Bis Ihr Konto so eingerichtet ist, die neue Oberfläche zu verwenden, funktionieren einige Dinge ein wenig anders. Diese Unterschiede sind unten hingewiesen. 
 
 ## <a name="referral-management"></a>Empfehlungsverwaltung
 
@@ -48,9 +45,6 @@ In Ihrer **Posteingang**, zeigen wir Ihnen einen Überblick über die RFI. Von h
 *  **Ablehnen**: Wir werden diese als archivieren **abgelehnt** und benachrichtigen den Kunden an einen anderen Partner auswählen.
 
 Wenn Sie innerhalb des vorgesehenen Zeitraums (derzeit 14 Tage) nicht reagieren, werden wir sie als archivieren **abgelaufen** und benachrichtigen den Kunden an einen anderen Partner auswählen.
-
-> [!NOTE]
-> Der oben beschriebene Vorgang gibt die neue Oberfläche. Wenn Ihr Konto wird diese Funktion nicht verwenden, sehen Sie eine **neu** anstelle von Abschnitt **Posteingang**. Für neue Referenzen, müssen Sie 72 Stunden entweder **interessiere ich mich** (wodurch der Verweis in einem separaten verschoben werden **auswerten** aus und zeigt weitere Details) oder **Nein danke**(die Archive der referenzdienstdateien). Bei Auswahl von **interessiere ich mich**, müssen Sie sieben Tage lang die Referenz zu akzeptieren.
 
 ### <a name="active-referrals"></a>Aktive Empfehlungen
 

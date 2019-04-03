@@ -2,17 +2,17 @@
 title: Anpassen eines Geräts Out-of-Box-Erfahrung mit Windows Autopilot-Profile | Partner Center
 description: Konfigurieren eines Geräts Out-of-Box-Experience mit Autopilot-Profile.
 ms.topic: article
-ms.date: 02/06/19
+ms.date: 03/18/19
 author: maggiepuccievans
 ms.author: evansma
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero Touch-Bereitstellung, Oobe, Anmeldung Bildschirme, Out-of-box
 ms.localizationpriority: medium
-ms.openlocfilehash: 00c4bc3717b5f40984f60dd2c04ee7fec10b80da
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: e940a7ccf79f6b43d3712a2f3ae2f9b150e1473e
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586913"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "58162220"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Anpassen eines Geräts Out-of-Box-Erfahrung mit Windows Autopilot-Profile
 
@@ -45,7 +45,7 @@ Die folgenden Profile und Device Management-Berechtigungen und Einschränkungen 
 
 - CSP-Partner können weiterhin zum Verwalten von Autopilot-Profile für bestehende Kunden, mit denen sie Reseller Beziehungen haben, auch wenn Kunden die delegierte Administration Berechtigungen des Partners entfernt haben.
 
-- Sie können ein vorhandenes Gerät für Ihre Kunden verwalten, die von Ihnen oder von einem anderen CSP-Partner hinzugefügt wurden.
+- Sie können ein vorhandenes Gerät für Ihre Kunden verwalten, die Sie hinzugefügt haben.
 
 - Sie können keine Geräte verwalten, die Ihren Kunden zu Microsoft Store für Unternehmen oder das Microsoft Intune-Portal hochgeladen wurde.
 

@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, Mitgliedschaftsvorteile, Mitgliedschaft
 ms.localizationpriority: medium
-ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 60af091fdfe47d51d5e7b669f66cb8d0610286bb
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584703"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "57988214"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile
 
@@ -21,7 +21,7 @@ ms.locfileid: "57584703"
 -  Partner Center
 
 >[!IMPORTANT]
->In diesem Artikel wird erläutert, wie beim Einstieg in Ihr Microsoft Partner Network (MPN) Mitgliedschaft Vorteile im Partner Center (vormals bekannt als Partner Center) – dieser Website. Wenn Sie eine Einladung an Ihre Unternehmensinformationen von Partner Membership Center (PMC) in das Partner Center verschieben nicht erhalten haben, sollten Sie weiterhin Ihre Vorteile des MPN-Mitgliedschaft in der PMC zu verwalten. [Melden Sie sich](https://partner.microsoft.com/_login?authType=OpenIdConnect) jetzt beim PMC an.   
+>In diesem Artikel wird erläutert, wie beim Einstieg in Microsoft Partner Network (MPN) mitgliedschaftsvorzüge im Partner Center - dieser Website wird. Wenn Sie eine Einladung an Ihre Unternehmensinformationen von Partner Membership Center (PMC) in das Partner Center verschieben nicht erhalten haben, sollten Sie weiterhin Ihre Vorteile des MPN-Mitgliedschaft in der PMC zu verwalten. [Melden Sie sich](https://partner.microsoft.com/_login?authType=OpenIdConnect) jetzt beim PMC an.   
 
 Wenn Sie dem Microsoft Partner Network (MPN) beitreten, erhalten Sie Zugriff auf Mitgliedschaftsvorteile, die Ihnen können, Ihr Geschäft auf- und auszubauen. Wenn Sie noch kein Mitglied von MPN sind, können Sie jetzt auf der [MPN-Website](https://partner.microsoft.com/membership) beitreten.
 

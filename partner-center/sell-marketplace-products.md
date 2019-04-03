@@ -1,18 +1,18 @@
 ---
 title: Verkaufen Sie Abonnements zu Azure Marketplace-Produkten | Partner Center
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/27/2019
 description: Sie können Partner Center verwenden, um Ihre Kunden verkaufen Sie Abonnements auf Software als Dienst (SaaS) Produkte auf dem Azure Marketplace von unabhängigen Softwareanbietern (ISVs) veröffentlicht.
 author: JnHs
 ms.author: jenhayes
 keywords: Marketplace-Abonnements von Drittanbietern, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 074527f791cad6b0234994fc3985d9657f5acccd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 98229a93d5ca4ba165fcfe7fc03a084c32c630b2
+ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587713"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58508957"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Verkaufen Sie Abonnements zu Azure Marketplace-Produkten
 
@@ -32,5 +32,4 @@ Wählen Sie zum Anzeigen aller verfügbaren Angebote **Marketplace** im linken N
 
 Erwerb von Abonnements für Azure Marketplace-SaaS-Produkte erfolgt auf dieselbe Weise wie der Erwerb von Abonnements für Microsoft-Produkte. Weitere Informationen finden Sie unter [erstellen Sie ein neues Abonnement](create-a-new-subscription.md). Beachten Sie, dass einige Angebote möglicherweise nicht für bestimmte Kunden aus, je nachdem, ob der unabhängige Softwarehersteller des Kunden abrechnungsland/-Region unterstützt, oder aufgrund anderer Faktoren verfügbar.
 
-In Kürze verfügbar, werden wir Sie Partner Center-APIs zu verwenden, um Azure Marketplace-Abonnements für Ihre Kunden verwalten können. 
-
+Sie können auch [Partner Center-APIs](https://docs.microsoft.com/en-us/partner-center/develop/) zum Verwalten von Azure Marketplace-Abonnements für Ihre Kunden.

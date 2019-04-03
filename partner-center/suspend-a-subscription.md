@@ -1,18 +1,18 @@
 ---
 title: Aussetzen eines Abonnements | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/11/2018
 description: Partner können ein Abonnement auf Anforderung des Kunden, bei Nichtbezahlung oder bei Betrug aussetzen oder kündigen.
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b89b8182c8a15026ca91e321e97e3b75ac42a7ee
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: acf9a30f10f5d0608843cd2e3e088ac9f6bb1559
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585313"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756887"
 ---
 # <a name="suspend-a-subscription"></a>Aussetzen eines Abonnements
 
@@ -24,7 +24,7 @@ ms.locfileid: "57585313"
 
 Partner können ein Abonnement auf Anforderung des Kunden, bei Nichtbezahlung oder bei Betrug aussetzen oder kündigen.
 
-Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Benutzer nicht anmelden oder auf Dienste zugreifen. Administratoren können sich weiterhin anmelden und auf Daten zugreifen.
+Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Benutzer nicht anmelden oder auf Dienste zugreifen.
 
 **Aussetzen eines Abonnements**
 

@@ -17,10 +17,10 @@
 ## [Registrieren für das Cloud Solution Provider-Programm (CSP)](enrolling-in-the-csp-program.md)
 ## [Neue Anforderungen für direkte CSP-Partner](direct-partner-new-requirements.md)
 ## [Microsoft Cloud-Verträge nach Region und Sprache](agreements.md)
-##[Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer](transition-direct-to-indirect.md)
+## [Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer](transition-direct-to-indirect.md)
 ## [CSP-Verträge, Preislisten und Angebote](csp-documents-and-learning-resources.md)
-## [Übersicht über die regionale CSP-Autorisierung](regional-authorization-overview.md)
-## [Mandantenkonsolidierung für regionale CSP-Autorisierung](csp-regional-authorization-tenant-consolidation.md)
+## [Regionale CSP-Märkte und Währungen](regional-authorization-overview.md)
+
 
 ## [Bewerben für den Verkauf in nationalen Clouds](csp-national-clouds-overview.md)
 ### [Partner Center für Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
@@ -29,6 +29,7 @@
 # [Verwalten Ihres Partner Center-Kontos](partner-center-account-setup.md)
 ## [Arbeitskonten und Partner Center](azure-active-directory-tenants-and-partner-center.md)
 ## [Aktualisieren von Partnerprofilen](update-your-partner-profile.md)
+## [Standorte](manage-locations.md)
 ## [Wiederherstellen ausgesetzter Partner Center-Konten](suspended-partner-center-account.md)
 ## [Erstellen von Benutzerkonten](create-user-accounts-and-set-permissions.md)
 ## [Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md)

@@ -4,13 +4,18 @@ hide_bc: true
 title: Hilfe zu Partner Center
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: "Partner Center kann mit dem Microsoft Cloud Solution Provider-Programm (CSP) zum Wachstum Ihres Unternehmens beitragen. Richten Sie Ihr Konto ein, nehmen Sie Kontakt zu Kunden auf, erwerben Sie ein Action\_Pack-Abonnement, und lesen Sie weitere Informationen zu Partnern im CSP- und MPN-Programm.\_"
+description: Partner Center kann mit dem Microsoft Cloud Solution Provider-Programm (CSP) zum Wachstum Ihres Unternehmens beitragen. Richten Sie Ihr Konto ein, nehmen Sie Kontakt zu Kunden auf, erwerben Sie ein Action Pack-Abonnement, und lesen Sie weitere Informationen zu Partnern im CSP- und MPN-Programm. 
 author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
+ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588323"
 ---
-
 # <a name="welcome-to-partner-center"></a>Willkommen bei Partner Center
 
 Microsoft Partner Center ist der zentrale Ort für die Verwaltung der End-to-End-Beziehung mit Microsoft. Partner Center bietet Tools und Ressourcen, die Sie bei Transaktionen und bei der Umsatzsteigerung Ihres Unternehmens unterstützen, u. a. verschiedene Mitgliedschaftsoptionen, Kundenempfehlungen und das CSP-Programm (Cloud Solution Provider). In der Hilfebibliothek von Partner Center finden Sie weitere Informationen zu bewährten Methoden für die Kontoverwaltung, die Kontaktaufnahme mit Kunden, den Kauf eines Action Pack-Abonnements und die Registrierung für ein Incentives-Programm.

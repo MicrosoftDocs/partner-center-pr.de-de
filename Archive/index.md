@@ -2,9 +2,14 @@
 title: Partner Center-Betreiber ist 21Vianet
 ms.topic: article
 ms.date: 10/29/2018
-description: "Weiterverkauf von CSP-Diensten in China mit dem Partner\_Center-Betreiber 21Vianet"
+description: Weiterverkauf von CSP-Diensten in China mit dem Partner Center-Betreiber 21Vianet
+ms.openlocfilehash: 236f425c9e49ca7683b3c337f0258b7a86f76ca9
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588263"
 ---
-   
 # <a name="partner-center-operated-by-21vianet"></a><span data-ttu-id="10082-103">Partner Center-Betreiber ist 21Vianet</span><span class="sxs-lookup"><span data-stu-id="10082-103">Partner Center operated by 21Vianet</span></span>
 
 <span data-ttu-id="10082-104">Willkommen beim Partner Center-Betreiber 21Vianet, dem Unternehmensportal für Händler der CSP-Dienste (Cloud Solution Provider) von 21Vianet in China.</span><span class="sxs-lookup"><span data-stu-id="10082-104">Welcome to Partner Center operated by 21Vianet, the business portal for resellers of 21Vianet's Cloud Solution Provider (CSP) services in China.</span></span> 

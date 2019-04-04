@@ -1,15 +1,20 @@
 ---
 layout: HubPage
 hide_bc: true
-title: "Dokumentation für Entwickler und Partner\_Center-Dienste"
+title: Dokumentation für Entwickler und Partner Center-Dienste
 ms.date: 10/29/2018
-description: 'Wenn Sie sich bei Partner Center anmelden, um Apps zu veröffentlichen, Daten zu Ihren Desktopanwendungen abzurufen, eine Hardwarezertifizierung zu erhalten, Treiber für Windows Update zu veröffentlichen oder als Wiederverkäufer zu handeln, ist diese Dokumentation für Sie geeignet.'
+description: Wenn Sie sich bei Partner Center anmelden, um Apps zu veröffentlichen, Daten zu Ihren Desktopanwendungen abzurufen, eine Hardwarezertifizierung zu erhalten, Treiber für Windows Update zu veröffentlichen oder als Wiederverkäufer zu handeln, ist diese Dokumentation für Sie geeignet.
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: hub-page
 searchScope: []
+ms.openlocfilehash: 47e8208ec2609e6591d617f2431a635e81112767
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588293"
 ---
-
 <div id="main" class="v2">
     <div class="container">
         <h1>Dokumentation für Partner Center-Dienste</h1>

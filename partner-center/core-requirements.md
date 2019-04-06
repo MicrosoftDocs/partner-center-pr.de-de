@@ -1,18 +1,18 @@
 ---
 title: Incentives für Co-op-Ansprüche kernanforderungen | Partner Center
 ms.topic: article
-ms.date: 4/3/19
+ms.date: 4/4/2019
 description: Für jeden Aktivitätstyp im Incentives-Co-Op-Programm gelten eigene grundlegende Anforderungen.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel, grundlegende Anforderungen
 ms.localizationpriority: medium
-ms.openlocfilehash: f3fb1a30f08d4d27c766ec4f922b0434c89367ea
-ms.sourcegitcommit: 272b2448180294b36bee4dea38b94559bbcde26c
+ms.openlocfilehash: c5a48d7624baf3fd4b0a2100625c7b463f2f2413
+ms.sourcegitcommit: 6e30c3fd5445d805c88fbdd2c2cebce989114091
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/03/2019
-ms.locfileid: "58897976"
+ms.lasthandoff: 04/04/2019
+ms.locfileid: "59019433"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Grundlegende Anforderungen für Incentives-Co-Op-Ansprüche
 
@@ -20,9 +20,9 @@ ms.locfileid: "58897976"
 
 - Partner Center
 
-Für jede Art von Aktivität, für die Sie einen Incentiveanspruch übermitteln, gelten grundlegende Anforderungen, die Sie erfüllen und entsprechend in Ihren Dokumenten zum Nachweis der Ausführung hinterlegen müssen. In einigen Fällen gibt es bestimmte Kommunikationsarten, die ebenfalls verpflichtend sind.
+Für jede Art von Aktivität, für die Sie einen Incentiveanspruch übermitteln, gelten grundlegende Anforderungen, die Sie erfüllen und entsprechend in Ihren Dokumenten zum Nachweis der Ausführung hinterlegen müssen. In einigen Fällen sind bei der definierten Communications-Typen und Metriken, die erforderlich, ebenfalls sind vorhanden.
 
-In den folgenden Tabellen werden die grundlegenden Anforderungen sowie die erforderliche Kommunikation für jede der akzeptierten Aktivitäten aufgeführt. 
+In den folgenden Tabellen beschreiben die grundlegenden Anforderungen für jede Aktivität akzeptiert. 
 
 ## <a name="demand-generation"></a>Nachfragegenerierung
  Aktivitäten umfassen das herkömmliche als auch digitale Werbung mit Reichweite, durch die der Vermarktung und Bewerbung für Microsoft-Angebote gefördert. Ergebnisse und Zielgruppe sollten messbare sein.
@@ -33,7 +33,7 @@ In den folgenden Tabellen werden die grundlegenden Anforderungen sowie die erfor
         |
 |Print-Werbung |Marke und Kontaktinformationen des Unternehmens, Microsoft-Inhalte |Kopie der letzten Kommunikation (basierend auf Werbung), die programmspezifische grundlegende Anforderungen enthält|Geschätzte Kunden (oder Partner) zu erreichen.|Drittanbieter-Media-Platzierung; gedruckte Materialien; Gebühr-Agentur Marketing- und kreative Services Agency Gebühren einschließlich|
 |Digitale Werbung|            |Screenshot der digitalen Werbung UND die URL der Startseite, die programmspezifische grundlegende Anforderungen enthalten|Zusammenfassung der Ergebnisse (z. B. per Klick-Bericht)|Platzierung der Drittanbieter-Medien, Gebühr – Agentur: Marketing- und kreative-Dienste, einschließlich der Gebühren für die Agentur|  
-|Direktwerbung, E-Mail und SMS|             |(1) Kopie der letzten Kommunikation mit programmspezifischen grundlegenden Anforderungen 2) Nachweis der Verteilung kann frankierten Umschlag oder andere Identitätsnachweise (Direktwerbung) enthalten, endgültige E-Mail mit Datum in der Kopfzeile oder einem anderen Nachweis für Versand (E-Mail) oder Foto der SMS|   Geschätzte Kunden (oder Partner) zu erreichen.   |•Database Übernahme • gedruckt Material • Porto; Gebühr – Agentur: Marketing- und kreative-Dienste, einschließlich der Gebühren für die Agentur|
+|Direktwerbung, E-Mail und SMS|             |(1) eine Kopie des endgültigen Kommunikation Teil zeigt programmspezifischer kernanforderungen 2) für die Machbarkeitsstudie Verteilung kann gehören, abgestempelt Protokollversand-Umschlag oder andere Machbarkeitsstudie mailing (per e-Mail), die letzte e-Mail mit effdt-Header oder andere Machbarkeitsstudie Mailing (e-Mail), oder Foto von Phone-Nachricht (SMS)|   Geschätzte Kunden (oder Partner) zu erreichen.   |•Database Übernahme • gedruckt Material • Porto; Gebühr – Agentur: Marketing- und kreative-Dienste, einschließlich der Gebühren für die Agentur|
 |Partner-Website und Suchmaschine||URL und/oder Screenshots der Site Seite(n) mit URL; Anweisung Geschäfts-, Schul- oder-Dienst Vereinbarung für SEO-Projekt (gilt nur für SEO-Aktivität)|Zusammenfassung der Ergebnisse (z. B. auf Bericht)|Gebühr – Agentur: Marketingdienste, einschließlich Agentur Gebühren; Programmierung/Entwicklung: Programmierung und Gebühren für die Entwicklung; Gebühr – SEO: Gebühren für Optimierung und Wartung|
 |Microsoft-Inhalte von Fremdanbietern||URL und/oder Screenshots der Seiten einer Website mit URL|Zusammenfassung der Ergebnisse (z. B. per Klick-Bericht)|Ist-Kosten bis zu USD18, 750 pro Zeitraum Nutzung: Gebühr - Agentur Servicews, einschließlich der Gebühren für die Agentur, marketing Programmierung und Gebühren für die Entwicklung; Medien-Platzierung|
 |Digitale Multi-Touch-Kampagne|     |Alle Nachweise der Ausführung wie auf der entsprechenden Aktivitätsseite erforderlich  – Digitale Werbung – Direkte E-Mail – Partner-Website und Optimierung für Suchmaschinen – Telemarketing||Drittanbieter-Medien für Platzierung • Gebühr – Agentur: Marketing- und kreative Dienste, einschließlich Agentur Gebühren; Datenbank-Übernahme; •Programming/Entwicklung: Programmierung und Gebühren für die Entwicklung; Gebühr – SEO: Optimierung und Wartungsgebühren; Gebühr - Drittanbieter-Call Center Gebühren

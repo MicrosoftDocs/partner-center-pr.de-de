@@ -1,22 +1,22 @@
 ---
 title: Microsoft Cloud Customer vereinbarungsvorlagen | Partner Center
 ms.topic: article
-ms.date: 11/03/2018
+ms.date: 03/11/2019
 description: Suchen Sie und Laden Sie die Region und Sprache-spezifischen Versionen der Microsoft-Cloud-Vereinbarung, um mit Ihren Kunden zu überprüfen.
 author: MaggiePucciEvans
 ms.author: evensma
 keywords: Microsoft Cloud-Verträge, Kunden vereinbarungsvorlagen, CSP-Kunden-Verträge, Microsoft Cloud-Vertrag, MCA, CSP, wo ich im CSP-Programm verkaufe kann?, CSP Ländern und Regionen, CSP MCAs in mehreren Sprachen CSP North America "," CSP-Mittelamerika "," CSP-Süd America "," CSP-Karibik "," CSP-Microsoft-Cloud für US-Regierung, CSP Microsoft Cloud Deutschland, CSP Naher Osten, Afrika für CSP, CSP "Europa", CSP Asien, CSP-Pazifik, CSP MCAs
 ms.localizationpriority: medium
-ms.openlocfilehash: 5a7e0156136a52f9bfbaccbb76fc1316cb327c55
-ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
+ms.openlocfilehash: b2a65feac1f9f873512913ec2e4f26dc42efe865
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "58320753"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430219"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Microsoft Cloud-Verträge nach Region und Sprache
 
-**Gilt für**
+**Betrifft**
 
 - CSP-Partner
 

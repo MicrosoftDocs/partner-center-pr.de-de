@@ -8,16 +8,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 01594dab5515d2373cffef581dcdd6a786afea14
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 6b0e9ba672bb22d4b72c58d5a344bbd736f243f9
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585343"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430179"
 ---
 # <a name="manage-your-partner-center-account"></a>Verwalten Ihres Partner Center-Kontos
 
-**Gilt für**
+**Betrifft**
 
 -  Partner Center
 
@@ -31,11 +31,13 @@ Sie oder Ihr Administrator erstellt auch Benutzerkonten für alle Benutzer, die 
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Ressourcen, die Ihnen beim Verwalten Ihres Partner Center-Kontos helfen
 
-|**Zu diesem Zweck**   |**Lesen Sie diesen**   |
+|**Zweck**   |**Bitte lesen**   |
 |-----------------------|:-----------------------|
-|Sicherstellen, dass Ihr Unternehmensprofil aktuell ist   |[Aktualisieren Sie Ihr Partnerprofil](update-your-partner-profile.md)|
+|Sicherstellen, dass Ihr Unternehmensprofil aktuell ist   |[Aktualisieren von Partnerprofilen](update-your-partner-profile.md)|
 |Jeder in Ihrem Unternehmen, die im Partner Center arbeiten muss Rollen zugewiesen werden. Jede Rolle verfügt über spezielle Berechtigungen und Aufgaben.|[Erstellen von Benutzerkonten und Festlegen von Berechtigungen](create-user-accounts-and-set-permissions.md)|
-|Wenn ein Angestellter sein Passwort vergisst und Sie es zurücksetzen müssen  |[Zurücksetzen eines Benutzerkennworts](reset-a-user-password.md)|
+|Überprüfen Sie die Berechtigungen, die jede Rolle umfasst.|[Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md)
+|Die Standorte Ihres Unternehmens verwalten|[Verwalten Sie Ihr Partnerkonto an: Speicherorte](manage-locations.md)
+|Wenn ein Angestellter sein Passwort vergisst und Sie es zurücksetzen müssen  |[Zurücksetzen von Benutzerkennwörtern](reset-a-user-password.md)|
 |Sicherstellen, dass Ihr Unternehmen so vermarktet wird, dass es von Kunden gefunden wird   |[Erstellen eines Marketingprofils](create-a-marketing-profile.md)|
 |Organisieren des Katalogs, sodass die wichtigsten Produkte am Anfang der Liste stehen   |[Anpassen des Katalogs](customize-the-catalog.md)|
 |Regelmäßige Aktualisierung mit aktuellen Preisen und Angeboten   |[Preise und Angebote](pricing-and-offers.md)|

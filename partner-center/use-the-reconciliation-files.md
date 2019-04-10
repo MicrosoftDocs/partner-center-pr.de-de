@@ -7,22 +7,38 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
-ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
+ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "57682508"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430199"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
-**Gilt für**
+**Betrifft**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
 
 
 Für eine ausführliche Zeilenelement Ansicht jeder kostenlos in einem Abrechnungszyklus Laden Sie die abstimmungsdateien von Partner Center herunter. Zu diesen Informationen zählen Gebühren für die einzelnen Abonnements von Kunden und ausführliche Ereignisinformationen (wie z. B. das Hinzufügen von Arbeitsplätzen zu einem Abonnement mitten in einem Abrechnungszeitraum).
+
+## <a name="formatting-issues"></a>Probleme bei der Formatierung
+
+Gelegentlich kann die Abstimm Datei Formatierungsprobleme haben. (Dies kann beispielsweise vorkommen, wenn das Gebietsschema EN-US nicht verwendet wird.) Gehen Sie folgendermaßen vor, um diese Probleme zu beheben. 
+
+<ol>
+<li>Öffnen Sie die CSV-Datei in Excel, und wählen Sie die erste Spalte. Wählen Sie auf dem Menüband <strong>Daten</strong>, und wählen Sie dann <strong>Text in Spalten</strong>.</li>
+
+<li>Wählen Sie in Text umwandeln-Assistent, <strong>Dateityp getrennt</strong>, und wählen Sie dann <strong>Weiter</strong>.</li> 
+
+<li>Wählen Sie in das Feld mit Trennzeichen, <strong>Komma</strong>. Wenn <strong>Registerkarte</strong> ist bereits ausgewählt, lassen Sie es. Wählen Sie <strong>Weiter</strong> aus.</li>
+
+<li>Wählen Sie in das Feld Spalte Daten Format <strong>Datum: MDY</strong>, und wählen Sie dann <strong>Weiter</strong>.</li> 
+
+<li>Wählen Sie in das Feld Spalte Daten Format <strong>Text</strong> für alle Spalten, und wählen Sie dann Betrag <strong>Fertig stellen</strong>.</li>
+</ol>
 
 ## <a href="" id="itemizebypartner"></a>Vom Partner aufschlüsseln
 
@@ -72,7 +88,7 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Spalte</strong></td>
+<td><strong>Column</strong></td>
 <td><strong>Beschreibung</strong></td>
 <td><strong>Beispielwert</strong></td>
 </tr>
@@ -241,7 +257,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Spalte</strong></td>
+<td><strong>Column</strong></td>
 <td><strong>Beschreibung</strong></td>
 <td><strong>Beispielwert</strong></td>
 </tr>
@@ -902,16 +918,16 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <tbody>
 <tr>
 <td>
-<p><strong>Beschreibung der Rechnungsgebühren</strong></p>
+<p><strong>Beschreibung der Rechnungsgebühr</strong></p>
 </td>
 <td>
-<p><strong>Abstimmung DateiBeschreibung (ChargeType-Spalte)</strong></p>
+<p><strong>Gebührenbeschreibung der Abstimmungsdatei (ChargeType-Spalte)</strong></p>
 </td>
 <td>
-<p><strong>Was diese Gebühr ist?</strong></p>
+<p><strong>Um welche Gebühr handelt es sich?</strong></p>
 </td>
 <td>
-<p><strong>Wie ordne ich dieser Gebührentypen zur Rechnung zu?</strong></p>
+<p><strong>Wie ordne ich diese ChargeTypes der Rechnung zu?</strong></p>
 </td>
 </tr>
 <tr>
@@ -1040,7 +1056,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 </tr>
 <tr>
 <td rowspan="4">
-<p><strong>Verwendungsbasierte Rabatte</strong></p>
+<p><strong>Nutzungsbasierte Rabatte</strong></p>
 </td>
 <td>
 <p>Aktivierungsrabatt</p>
@@ -1084,7 +1100,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <p><strong>Lizenzbasierte Rabatte</strong></p>
 </td>
 <td>
-<p><em>Kann für mehrere gebührentypen angewendet werden</em></p>
+<p><em>Kann auf mehrere Gebührentypen angewendet werden</em></p>
 </td>
 <td>
 <p></p>
@@ -1098,8 +1114,8 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <p><strong>Steuern</strong>&nbsp;oder&nbsp;<strong>Umsatzsteuer</strong></p>
 </td>
 <td>
-<p><em>Kann für mehrere gebührentypen angewendet werden</em></p>
-<p><em>Ausnahme: &quot;Ausgleich einer Position&quot; enthält bereits steuern. Finden Sie-Guthaben, oben ein.</em></p>
+<p><em>Kann auf mehrere Gebührentypen angewendet werden</em></p>
+<p><em>Ausnahme: &quot;Ausgleich einer Position&quot; enthält bereits steuern. Siehe oben "Guthaben".</em></p>
 </td>
 <td>
 <p>Steuern oder Umsatzsteuern (Umsatzsteuer)</p>

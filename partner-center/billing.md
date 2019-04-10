@@ -8,16 +8,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Abrechnung, Zahlungen, Aufträge, Abbruch, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Abstimmungsdateien, Abstimmungsdatei
 ms.localizationpriority: medium
-ms.openlocfilehash: 1d742b014e531539eaf89cffcbbe08b0232a2161
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 4b087b231cd0a81ac03bf5aa19ba72b9a9695465
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586383"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430119"
 ---
 # <a name="billing"></a>Abrechnung
 
-**Gilt für**
+**Betrifft**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -28,7 +28,7 @@ Der Rechnung finden Sie unter den **Partner Center** Menü, und wählen Sie dann
 Partner im Programm für Cloud Solution Provider mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60 Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte als auch nutzungsbasierte Abonnements).
 
 > [!NOTE]  
-> Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und Kundenübergreifend) für den aktuellen Monatszeitraum dar und ist innerhalb von vier (4) Tagen nach Ablauf des ausgewählten Abrechnungsdatums verfügbar.
+> Ihre Rechnung ist eine Übersicht über alle Gebühren – über das Programm, Produkte und Kunden – für den aktuellen Abrechnungszeitraum deaktivieren, und wird innerhalb von zwei (2) Tagen nach Ihrer Abrechnung ausgewählte Datum in UTC-Zeit zur Verfügung. Z. B. Wenn Sie eine am 12. September Abrechnungsdatum haben, der Generierungsprozess der Rechnung beginnt um 12:00 Uhr UTC am 13. und abschließen, indem die 14. 12:00 Uhr UTC. Wenn Ihre Rechnung von 11:59 Uhr (UTC) am 15. nicht angezeigt wird, Sie haben nicht genügend Ihrer Vereinbarung zum Servicelevel und sollte einen Service Request-Datei. 
 
 Wichtige Informationen über die Abrechnung mit Ihren Kunden:
 
@@ -38,17 +38,17 @@ Wichtige Informationen über die Abrechnung mit Ihren Kunden:
 -   Senden Sie eine einzige Rechnung für alle Kosten an den Kunden.
 
 ## <a name="billing-resources"></a>Abrechnung von Ressourcen
-|**Informationen zu**   |**Lesen Sie diesen**    |
+|**Für Informationen zu**   |**Bitte lesen**    |
 |:-----------------------------|:-----------------|
-|Grundlagen zu Abrechnung, Zahlungen, Rechnungen usw.   |[Grundlagen der Abrechnung](billing-basics.md)
-|Viele neue Abrechnungsfunktionen wie z. B. die jährliche Abrechnung   |[Häufig gestellte Fragen zu neuen abrechnungsfeatures](faq-about-new-billing-features.md)|
+|Grundlagen zu Abrechnung, Zahlungen, Rechnungen usw.   |[Grundlagen zur Abrechnung](billing-basics.md)
+|Viele neue Abrechnungsfunktionen wie z. B. die jährliche Abrechnung   |[Häufig gestellte Fragen zu neuen Abrechnungsfunktionen](faq-about-new-billing-features.md)|
 |Typen der Abrechnung   |[Grundlegendes zu den Typen der Abrechnung im Partner Center](billing-different-types.md)   |
-|Wichtiges zum Lesen Ihrer Abrechnung   |[Lesen Sie Ihrer Rechnung](read-your-bill.md)   |
-|Lesen und Verwenden Ihrer Abstimmungsdatei   |[Verwenden Sie die abstimmungsdateien](use-the-reconciliation-files.md)|
-|Allgemeine Abrechnungsszenarien (zusätzliche Abrechnungsszenarien finden Sie unter [Häufig gestellte Fragen zu neuen Abrechnungsfunktionen](faq-about-new-billing-features.md))|[Szenarios für die Abrechnung](common-billing-scenarios.md)|
-|Ihre Steuerpflichten   | [Steuer- und Steuer-Ausnahmen](tax-and-tax-exemptions.md)|
-|Nutzungsbasierte Budgetierung    |[Festlegen eines Azure-Ausgabenbudgets für Ihre Kunden](set-an-azure-spending-budget-for-your-customers.md)|
-|Vorgehensweise bei Nichtbezahlung, Betrug oder Missbrauch   |[Nicht geleisteten Zahlungen, Betrug und Missbrauch besser geschützt](non-payment--fraud--or-misuse.md)|
+|Wichtiges zum Lesen Ihrer Abrechnung   |[Informationen zu Ihrer Rechnung](read-your-bill.md)   |
+|Lesen und Verwenden Ihrer Abstimmungsdatei   |[Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md)|
+|Allgemeine Abrechnungsszenarien (zusätzliche Abrechnungsszenarien finden Sie unter [Häufig gestellte Fragen zu neuen Abrechnungsfunktionen](faq-about-new-billing-features.md))|[Allgemeine Abrechnungsszenarien](common-billing-scenarios.md)|
+|Ihre Steuerpflichten   | [Steuern und Steuerbefreiungen](tax-and-tax-exemptions.md)|
+|Nutzungsbasierte Budgetierung    |[Einrichten eines Kundenbudgets für Azure-Kosten](set-an-azure-spending-budget-for-your-customers.md)|
+|Vorgehensweise bei Nichtbezahlung, Betrug oder Missbrauch   |[Nichtbezahlung, Betrug oder Missbrauch](non-payment--fraud--or-misuse.md)|
 
 
 

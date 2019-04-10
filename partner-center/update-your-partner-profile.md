@@ -2,33 +2,34 @@
 title: Aktualisieren von Partnerprofilen | Partner Center
 description: Wenn Sie sich zum ersten Mal als Administrator anmelden, sollten Sie überprüfen, ob die Supportdetails korrekt sind, Steuerbefreiungen beantragen, wenn zutreffend, und die Kontaktinformationen in Ihren Profilen überprüfen.
 MS.Topic: article
-Date: 02/19/29
+Date: 02/19/2019
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-MS.Author: evansma
-ms.openlocfilehash: 1e341d9209f59121d16c82a5b3bff752019e691c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.author: evansma
+ms.localizationpriority: medium
+ms.openlocfilehash: ff8f149adda67ae911870ead8f3c03ab35f5f1be
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587463"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430099"
 ---
 # <a name="update-your-partner-profile"></a>Aktualisieren von Partnerprofilen
 
 
 Wenn Sie sich zum ersten Mal als Administrator bei Partner Center anmelden, sollten Sie überprüfen, ob die Supportdetails korrekt sind, Steuerbefreiungen beantragen, wenn zutreffend, und die Kontaktinformationen in Ihren Profilen überprüfen. Verfügt Ihre Organisation über mehr als einem Speicherort, überprüfen Sie Ihre Daten auf Richtigkeit.
 
-**Aktualisieren Sie Ihre Informationen zum support**
+**Aktualisieren von Supportdetails**
 
 1.  Wechseln Sie zu **Einstellungen** &gt; **alle Einstellungen anzeigen** &gt; **Partnerprofil**.
 2.  Wählen Sie im Abschnitt **Support** die Option **Aktualisieren** aus.
 3.  Wenn sich Ihre Kunden mit einer Supportanfrage an Microsoft wenden, verweist Microsoft Kunden auf die Website, E-Mail-Adresse und Kontakttelefonnummer, die Sie in Ihrem Supportprofil angegeben haben.
 
-**Datei-Steuer-Ausnahmen**
+**Beantragen von Steuerbefreiungen**
 
 -   Stellen Sie fest, ob Steuerbefreiungen für Sie gelten, und beantragen Sie diese, bevor Sie Kunden oder Abonnements hinzufügen. Siehe [Steuern und Steuerbefreiungen](tax-and-tax-exemptions.md).
 
-**Überprüfen Sie Ihre Profilinformationen**
+**Überprüfen von Profilinformationen**
 
 1.  Wechseln Sie zu **Einstellungen** &gt; **alle Einstellungen anzeigen** . 
 2.  Überprüfen Sie das **Partnerprofil**, **Partnerabrechnungsprofil** und **Organisationsprofil**.

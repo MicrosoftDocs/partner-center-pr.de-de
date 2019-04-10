@@ -1,22 +1,22 @@
 ---
 title: Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag | Partner Center
 ms.topic: article
-ms.date: 02/22/2019
+ms.date: 04/5/2019
 Description: Als Partner müssen Sie die Zustimmung Ihres Kunden zum Microsoft Cloud-Vertrag einholen, bevor Sie Microsoft-Produkte und -Dienste für den Kunden bestellen können. Zur besseren Hilfe lernen Sie Partner konformitätsanforderungen, Microsoft Fragen von Partnern zum bestätigen, dass Sie durch die Bereitstellung von bestimmte Details in Bezug auf die Person, die die Vereinbarung akzeptiert.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Kunden, Kunden, damit einverstanden sind, MCA, Microsoft Cloud-Vertrag, Kunden vereinbarungsvorlagen
 ms.localizationpriority: medium
-ms.openlocfilehash: e8c4b66027eeb9e285bd09a4b77aaf9bb6574188
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 28bc7c1dea842f9fbfc2778dfad1a8e5615a6bd7
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587563"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430129"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag
 
-**Gilt für**
+**Betrifft**
 -  Partner Center
 
 Als Partner müssen Sie die Zustimmung Ihres Kunden zum Microsoft Cloud-Vertrag einholen, bevor Sie Microsoft-Produkte und -Dienste für den Kunden bestellen können. Um Partner bei der Einhaltung von Compliance-Anforderungen zu unterstützen, bittet Microsoft die Partner, die Zustimmung durch Bereitstellung der folgenden Details zu der Person, die den Vertrag akzeptiert hat, zu bestätigen: 
@@ -33,58 +33,26 @@ Als Partner müssen Sie die Zustimmung Ihres Kunden zum Microsoft Cloud-Vertrag 
 
 Weitere Informationen finden Sie unter den Vertrag zwischen Microsoft Cloud Customer Bestätigung [häufig gestellte Fragen](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq).
 
-## <a name="schedule"></a>Zeitplan
+Direkte Rechnung Partner und indirekte Anbieter müssen die Kundenakzeptanz der Microsoft Cloud Vereinbarung bestätigen, beim Austausch von über Partner Center oder über Partner Center-API. Die Bestätigung ist *obligatorisch*.
 
-**7. August 2018**
+Wenn für einen bestimmten Kunden keine Bestätigung bereitgestellt wird:
 
--   Direct Bill-Partner und indirekte Anbieter können die Kundenzustimmung zum Microsoft Cloud-Vertrag bestätigen. Die Bestätigung ist *optional*.
+-   Sie können für diesen Kunden keine neuen Aufträge anlegen.
 
--   Bestätigung der Kundenakzeptanz kann über Partner Center oder das Partner Center-API erfolgen.
+-   Sie können die Anzahl der Arbeitsplätze bestehender arbeitsplatzbasierter Abonnements für diesen Kunden nicht ändern.
 
--   Die Bestätigung der Zustimmung des Kunden wird nur für Microsoft Public Cloud unterstützt.
+Bestätigung der Kundenakzeptanz kann über Partner Center oder das Partner Center-API erfolgen. Zu diesem Zweck über das Partner Center-API finden Sie in den folgenden Themen: 
 
+-   [Bestätigung der Zustimmung des Kunden zu erhalten](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent)
 
-**7. November 2018**
+-   [Abrufen von Metadaten der Vereinbarung](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
 
--   Direkte Rechnung Partner und indirekte Anbieter **müssen** bestätigen, dass Kunden der Microsoft-Cloud-Vereinbarung beim Austausch von über Partner Center-Dashboard. Die Bestätigung ist *obligatorisch*.
-
--   Wenn für einen bestimmten Kunden keine Bestätigung bereitgestellt wird:
-
-    -   Sie können für diesen Kunden keine neuen Aufträge anlegen.
-
-    -   Sie können die Anzahl der Arbeitsplätze bestehender arbeitsplatzbasierter Abonnements für diesen Kunden nicht ändern.
-
--   Bestätigung der Kundenakzeptanz kann über Partner Center oder das Partner Center-API erfolgen.
-
--   Die Bestätigung der Zustimmung des Kunden wird nur für Microsoft Public Cloud unterstützt.
-
--   Dies gilt für Produktions- und Sandbox-Umgebungen.
-
-**11. März 2018**
-
-- Online-Dienst-Partner und indirekte Providersmust bestätigen, dass Kunden der Microsoft-Cloud-Vereinbarung in CSP-sandboxumgebung beim Austausch von über Partner Center-API.
-- Wenn für einen bestimmten Kunden keine Bestätigung bereitgestellt wird:
-
-    - Sie wird nicht zum Erstellen neuer Bestellungen für diesen Kunden, Partner Center-API verwenden können.
- 
-    - Sie wird nicht zum Ändern der Anzahl der Arbeitsplätze des vorhandenen arbeitsplatzbasis für diesen Kunden, Partner Center-API verwenden können.
-- Die Bestätigung der Zustimmung des Kunden wird nur für Microsoft Public Cloud unterstützt. 
-
-**22. März 12018**
-
-- Online-Dienst-Partner und indirekte Providersmust bestätigen, dass Kunden der Microsoft-Cloud-Vereinbarung in CSP-produktionsumgebung beim Austausch von über Partner Center-API.
-
-- Wenn für einen bestimmten Kunden keine Bestätigung bereitgestellt wird:
-  - Sie wird nicht zum Erstellen neuer Bestellungen für diesen Kunden, Partner Center-API verwenden können.
-
-  - Sie wird nicht zum Ändern der Anzahl der Arbeitsplätze des vorhandenen arbeitsplatzbasis für diesen Kunden, Partner Center-API verwenden können.
--  Die Bestätigung der Zustimmung des Kunden wird nur für Microsoft Public Cloud unterstützt.
+-   [Bestätigen der Zustimmung des Kunden](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
 
+Die Bestätigung der Zustimmung des Kunden wird nur für Microsoft Public Cloud unterstützt.
 
-
-
-
+Dies gilt für Produktions- und Sandbox-Umgebungen.
 
 ## <a name="confirming-customer-acceptance-in-partner-center"></a>Bestätigen die Kundenakzeptanz im Partner Center
 

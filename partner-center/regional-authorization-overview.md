@@ -105,7 +105,7 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  Hongkong         |   USD    |
 |  Indonesien         |   USD    |
 |  Laos              |          |
-|  Macao             |   USD    |
+|  Macau (SAR)             |   USD    |
 |  Malaysia          |   USD    |
 |  Malediven          |          |
 |  Myanmar           |          |
@@ -336,7 +336,7 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  Libanon        |   USD    |
 |  Lesotho        |   USD    |
 |  Libyen          |          |
-|  Republik Mazedonien|   |
+|  Nordmazedonien|   |
 |  Mauretanien     |   USD    |
 |  Republik Moldau        |          |
 |  Mongolei       |          |
@@ -345,7 +345,7 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  Mosambik     |          |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
-|  Palästinensische Gebiete, besetzt |        |
+|  Palästinensische Behörde |        |
 |  Katar          |   USD    |
 |  Saudi-Arabien   |   USD    |
 |  Serbien         |   USD    |
@@ -383,7 +383,7 @@ Wenn Ihr Unternehmen Russische Föderation befindet, können Sie CSP-Angebote f�
 |  Russische Föderation         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Die Region Taiwan und Markt
+## <a name="taiwan-region-and-market"></a>Taiwan und Markt
 
 Wenn Ihre Unternehmens-Speicherort Taiwan ist, können Sie die CSP-Angebote für Kunden in Taiwan verkaufen.
 

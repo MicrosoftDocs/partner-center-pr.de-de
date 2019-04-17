@@ -7,16 +7,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Incentives sammeln, wenn Ansprüche "," Co-op-Ansprüche "," Co-op-Guthaben, OSA, unabhängige Softwarehersteller können Umsatz-Zuordnung
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d043d59c5ef96e42587d36e128e7d1f556c9c5b
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
+ms.sourcegitcommit: 1dccb3fd6b1ea08cabc8251b8a0eb7fe68c39f51
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430642"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "59619306"
 ---
-#<a name="submit-your-osa-claims-in-partner-center"></a>Senden von Ansprüchen OSA im Partner Center
+# <a name="submit-your-osa-claims-in-partner-center"></a>Übermitteln Ihrer OSA-Ansprüche in Partner Center
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 
@@ -28,17 +28,17 @@ Bevor Sie eine Forderung und erstellen können, müssen Sie die folgenden Anford
 -   **Haben Sie Ihre Informationen Bank- und Steuerdaten** im Partner Center eingegeben haben. 
 -   **Erfüllen Sie OSA von Selling berechtigungsanforderungen-Zertifizierung und den Umsatz für**. (Informationen finden Sie im Handbuch zu OSA von Selling befindet sich unter der OSA-Abschnitt auf aka.ms/partnerincentives.) Dies gilt nicht für ISVs, die Suchvorgänge nur Umsatz-Zuordnung. 
 
-##<a name="submitting-your-claim"></a>Übermitteln Ihren Antrag
+## <a name="submitting-your-claim"></a>Übermitteln Ihren Antrag
 
 Sie müssen die 90 Tage ab dem Datum der Transaktion, um Ihren Antrag senden. Wenn Sie Ihren Antrag auf mehr als 90 Tage nach einer Transaktion senden, wird Sie wird nicht das verkaufen Incentive aus die Verkaufsdaten verdienen. 
 
 Wenn Sie ein ISV-Partner und Ihre Lösungen geholfen, den Kunden an, wählen Sie eine Microsoft Dynamics 365-Lösung beeinflussen möchten, sind Sie auch berechtigt, Zuordnung der Umsatz in Anspruch nehmen.   
 
-##<a name="payment-schedule"></a>Zahlungsplan
+## <a name="payment-schedule"></a>Zahlungsplan
 
 Sie erhalten die Zahlung für genehmigte Incentives sammeln, wenn Ansprüche innerhalb von 45 Tagen nach dem Ende des Zeitraums erbringen. Sie haben 90 Tage nach dem Ende der gründungszeitpunkt Zeitraum aus, um eine Zahlung zur Beilegung von streitigkeiten. Informationen zur Zahlung Berechnungen und Methoden finden Sie im Handbuch zu OSA von Selling befindet sich unter der OSA-Abschnitt auf aka.ms/partnerincentives.
 
-##<a name="maintaining-your-program-eligibility"></a>Verwalten Ihre Anwendung-Berechtigung
+## <a name="maintaining-your-program-eligibility"></a>Verwalten Ihre Anwendung-Berechtigung
 
 Microsoft bewertet die Eignung monatlich für den Online Services Advisor verkaufen Anreiz für gibt an, dass, Berechnung und Zahlung. Sie müssen bestimmte Eignungskriterien erfüllen, bevor Microsoft genehmigen und Prämien freigeben kann. Weitere Informationen finden Sie im Handbuch zu OSA von Selling befindet sich unter der OSA-Abschnitt auf aka.ms/partnerincentives.
 
@@ -60,7 +60,9 @@ Führen Sie die folgenden Schritte aus, um einen Anreiz-Anspruch im Partner Cent
 
 5.  Wählen Sie das Abonnement, das Sie verwenden möchten, mit diesem Anspruch zuordnen, und wählen Sie dann **Weiter**.
 
->[! Anmerkungen zu dieser] Stellen Sie sicher, dass die Namens- und geografischen Region korrekt sind, bevor Sie ein Abonnement auswählen. 
+>[!NOTES]
+
+>Stellen Sie sicher, dass die Namens- und geografischen Region korrekt sind, bevor Sie ein Abonnement auswählen. 
 
 >Abonnements, die mit anderen online-Service-Ratgeber verknüpft sind mit einem gelben Dreieck gekennzeichnet. Sie können weiterhin zugeordnet. 
 
@@ -76,7 +78,7 @@ Sie sehen den Status Ihrer Anspruch in das Statusfeld "von der Seite" Abonnement
 
 Um Ihre Einnahmen und Zahlungen Daten anzeigen zu können, finden Sie in der Auszahlungen und berichterstellung. 
  
-#<a name="submit-an-isv-revenue-association-claim"></a>Ein ISV-Umsatz-Zuordnung Forderung
+# <a name="submit-an-isv-revenue-association-claim"></a>Ein ISV-Umsatz-Zuordnung Forderung
 
 1.  Auf der Übersichtsseite unter **anreizprogramm Programme**Option **OSA**.
 
@@ -86,7 +88,9 @@ Um Ihre Einnahmen und Zahlungen Daten anzeigen zu können, finden Sie in der Aus
 
 4.  Wählen Sie die Abonnements, die Sie verwenden möchten, mit diesem Anspruch zuordnen, und wählen Sie dann **Weiter**.
 
->[! Anmerkungen zu dieser] Stellen Sie sicher, dass die Namens- und geografischen Region korrekt sind, bevor Sie ein Abonnement auswählen. 
+>[!NOTES]
+
+>Stellen Sie sicher, dass die Namens- und geografischen Region korrekt sind, bevor Sie ein Abonnement auswählen. 
 
 >Abonnements, die bereits mit Ihrem Unternehmen können nicht erneut zugeordnet werden.  
 

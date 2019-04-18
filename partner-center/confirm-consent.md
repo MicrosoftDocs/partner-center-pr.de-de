@@ -1,23 +1,29 @@
 ---
 title: Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag | Partner Center
 ms.topic: article
-ms.date: 04/5/2019
+ms.date: 04/16/2019
 Description: Als Partner müssen Sie die Zustimmung Ihres Kunden zum Microsoft Cloud-Vertrag einholen, bevor Sie Microsoft-Produkte und -Dienste für den Kunden bestellen können. Zur besseren Hilfe lernen Sie Partner konformitätsanforderungen, Microsoft Fragen von Partnern zum bestätigen, dass Sie durch die Bereitstellung von bestimmte Details in Bezug auf die Person, die die Vereinbarung akzeptiert.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Kunden, Kunden, damit einverstanden sind, MCA, Microsoft Cloud-Vertrag, Kunden vereinbarungsvorlagen
 ms.localizationpriority: medium
-ms.openlocfilehash: 28bc7c1dea842f9fbfc2778dfad1a8e5615a6bd7
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: 9dad303b419f3dadd33f4937933638c60c45994b
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430129"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "59652252"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag
 
-**Betrifft**
+**Gilt für**
 -  Partner Center
+
+> [!NOTE]
+> Die Ressource für die Vereinbarung wird derzeit von Partner Center in der öffentlichen Cloud von Microsoft nur unterstützt. Es gilt nicht für:
+> * Partner Center-Betreiber ist 21Vianet
+> * Partner Center für Microsoft-Cloud Deutschland
+> * Partner Center für Microsoft Cloud for US Government
 
 Als Partner müssen Sie die Zustimmung Ihres Kunden zum Microsoft Cloud-Vertrag einholen, bevor Sie Microsoft-Produkte und -Dienste für den Kunden bestellen können. Um Partner bei der Einhaltung von Compliance-Anforderungen zu unterstützen, bittet Microsoft die Partner, die Zustimmung durch Bereitstellung der folgenden Details zu der Person, die den Vertrag akzeptiert hat, zu bestätigen: 
 
@@ -27,7 +33,7 @@ Als Partner müssen Sie die Zustimmung Ihres Kunden zum Microsoft Cloud-Vertrag 
 
 -   E-Mail-Adresse
 
--   Telefonnummer
+-   Telefonnummer (optional)
 
 -   Datum der Zustimmung
 
@@ -49,8 +55,6 @@ Bestätigung der Kundenakzeptanz kann über Partner Center oder das Partner Cent
 
 -   [Bestätigen der Zustimmung des Kunden](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
-
-Die Bestätigung der Zustimmung des Kunden wird nur für Microsoft Public Cloud unterstützt.
 
 Dies gilt für Produktions- und Sandbox-Umgebungen.
 

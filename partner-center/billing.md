@@ -9,15 +9,15 @@ ms.author: evansma
 keywords: Abrechnung, Zahlungen, Aufträge, Abbruch, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Abstimmungsdateien, Abstimmungsdatei
 ms.localizationpriority: medium
 ms.openlocfilehash: 4b087b231cd0a81ac03bf5aa19ba72b9a9695465
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430119"
 ---
 # <a name="billing"></a>Abrechnung
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -38,11 +38,11 @@ Wichtige Informationen über die Abrechnung mit Ihren Kunden:
 -   Senden Sie eine einzige Rechnung für alle Kosten an den Kunden.
 
 ## <a name="billing-resources"></a>Abrechnung von Ressourcen
-|**Für Informationen zu**   |**Bitte lesen**    |
+|**Informationen zu**   |**Lesen Sie diesen**    |
 |:-----------------------------|:-----------------|
 |Grundlagen zu Abrechnung, Zahlungen, Rechnungen usw.   |[Grundlagen zur Abrechnung](billing-basics.md)
-|Viele neue Abrechnungsfunktionen wie z. B. die jährliche Abrechnung   |[Häufig gestellte Fragen zu neuen Abrechnungsfunktionen](faq-about-new-billing-features.md)|
-|Typen der Abrechnung   |[Grundlegendes zu den Typen der Abrechnung im Partner Center](billing-different-types.md)   |
+|Viele neue Abrechnungsfunktionen wie z. B. die jährliche Abrechnung   |[Häufig gestellte Fragen zu neuen abrechnungsfeatures](faq-about-new-billing-features.md)|
+|Typen der Abrechnung   |[Grundlegendes zu Abrechnungsarten in Partner Center](billing-different-types.md)   |
 |Wichtiges zum Lesen Ihrer Abrechnung   |[Informationen zu Ihrer Rechnung](read-your-bill.md)   |
 |Lesen und Verwenden Ihrer Abstimmungsdatei   |[Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md)|
 |Allgemeine Abrechnungsszenarien (zusätzliche Abrechnungsszenarien finden Sie unter [Häufig gestellte Fragen zu neuen Abrechnungsfunktionen](faq-about-new-billing-features.md))|[Allgemeine Abrechnungsszenarien](common-billing-scenarios.md)|

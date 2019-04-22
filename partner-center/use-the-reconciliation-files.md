@@ -8,15 +8,15 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430199"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -88,7 +88,7 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
+<td><strong>Spalte</strong></td>
 <td><strong>Beschreibung</strong></td>
 <td><strong>Beispielwert</strong></td>
 </tr>
@@ -257,7 +257,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Column</strong></td>
+<td><strong>Spalte</strong></td>
 <td><strong>Beschreibung</strong></td>
 <td><strong>Beispielwert</strong></td>
 </tr>
@@ -918,16 +918,16 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <tbody>
 <tr>
 <td>
-<p><strong>Beschreibung der Rechnungsgebühr</strong></p>
+<p><strong>Beschreibung der Rechnungsgebühren</strong></p>
 </td>
 <td>
-<p><strong>Gebührenbeschreibung der Abstimmungsdatei (ChargeType-Spalte)</strong></p>
+<p><strong>Abstimmung DateiBeschreibung (ChargeType-Spalte)</strong></p>
 </td>
 <td>
-<p><strong>Um welche Gebühr handelt es sich?</strong></p>
+<p><strong>Was diese Gebühr ist?</strong></p>
 </td>
 <td>
-<p><strong>Wie ordne ich diese ChargeTypes der Rechnung zu?</strong></p>
+<p><strong>Wie ordne ich dieser Gebührentypen zur Rechnung zu?</strong></p>
 </td>
 </tr>
 <tr>
@@ -1056,7 +1056,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 </tr>
 <tr>
 <td rowspan="4">
-<p><strong>Nutzungsbasierte Rabatte</strong></p>
+<p><strong>Verwendungsbasierte Rabatte</strong></p>
 </td>
 <td>
 <p>Aktivierungsrabatt</p>
@@ -1100,7 +1100,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <p><strong>Lizenzbasierte Rabatte</strong></p>
 </td>
 <td>
-<p><em>Kann auf mehrere Gebührentypen angewendet werden</em></p>
+<p><em>Kann für mehrere gebührentypen angewendet werden</em></p>
 </td>
 <td>
 <p></p>
@@ -1114,8 +1114,8 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <p><strong>Steuern</strong>&nbsp;oder&nbsp;<strong>Umsatzsteuer</strong></p>
 </td>
 <td>
-<p><em>Kann auf mehrere Gebührentypen angewendet werden</em></p>
-<p><em>Ausnahme: &quot;Ausgleich einer Position&quot; enthält bereits steuern. Siehe oben "Guthaben".</em></p>
+<p><em>Kann für mehrere gebührentypen angewendet werden</em></p>
+<p><em>Ausnahme: &quot;Ausgleich einer Position&quot; enthält bereits steuern. Finden Sie-Guthaben, oben ein.</em></p>
 </td>
 <td>
 <p>Steuern oder Umsatzsteuern (Umsatzsteuer)</p>

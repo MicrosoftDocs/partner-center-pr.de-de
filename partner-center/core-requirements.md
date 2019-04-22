@@ -8,15 +8,15 @@ ms.author: labrenne
 keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel, grundlegende Anforderungen
 ms.localizationpriority: medium
 ms.openlocfilehash: c5a48d7624baf3fd4b0a2100625c7b463f2f2413
-ms.sourcegitcommit: 6e30c3fd5445d805c88fbdd2c2cebce989114091
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/04/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59019433"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Grundlegende Anforderungen für Incentives-Co-Op-Ansprüche
 
-**Betrifft**
+**Gilt für**
 
 - Partner Center
 
@@ -28,7 +28,7 @@ In den folgenden Tabellen beschreiben die grundlegenden Anforderungen für jede 
  Aktivitäten umfassen das herkömmliche als auch digitale Werbung mit Reichweite, durch die der Vermarktung und Bewerbung für Microsoft-Angebote gefördert. Ergebnisse und Zielgruppe sollten messbare sein.
 
 
-|**Aktivität**   |**Grundlegende Anforderungen**   |**Kommunikationsanforderungen**|**Metriken**  |**Berechtigte Ausgaben** |
+|**Activity**   |**Core-Anforderungen**   |**Anforderungen für die Clientkommunikation**|**Metriken**  |**Berechtigte Ausgaben** |
 |--------------------------------------|:---------------------------------|---------|--------|----------|
         |
 |Print-Werbung |Marke und Kontaktinformationen des Unternehmens, Microsoft-Inhalte |Kopie der letzten Kommunikation (basierend auf Werbung), die programmspezifische grundlegende Anforderungen enthält|Geschätzte Kunden (oder Partner) zu erreichen.|Drittanbieter-Media-Platzierung; gedruckte Materialien; Gebühr-Agentur Marketing- und kreative Services Agency Gebühren einschließlich|
@@ -42,7 +42,7 @@ In den folgenden Tabellen beschreiben die grundlegenden Anforderungen für jede 
 
  Aktivitäten umfassen Kunden Recruitment und Ausbildung sowie Markteinführungszeiten und Entwicklungsaktivitäten, die die Bewusstsein, Einstellung und Vertrieb von Microsoft-Produkte weiter. In der Regel sind diese Marketingaktivitäten für eine Zielgruppe von Kunden ausgelegt.
 
-|**Aktivität**           | **Grundlegende Anforderungen**    | **Kommunikationsanforderungen**|**Metriken** |**Berechtigte Ausgaben**| 
+|**Activity**           | **Core-Anforderungen**    | **Kommunikation-Anforderungen**|**Metriken** |**Berechtigte Ausgaben**| 
                                                 |----------------------------------|:----------------------------|:-----------|:-----------|:--------------------|   
 |Telemarketing und Ausstellungen|Name/Marke des Unternehmens müssen im Telesales-Skript enthalten sein, Microsoft-Inhalte|Kopie des Skripts|Zusammenfassung der Ergebnisse (Anzahl der Aufrufe) und die Anzahl der erfolgreichen Kontakte|Gebühr – Agentur: Marketingdienste, einschließlich Agentur Gebühren; Gebühr – von Drittanbietern Callcenter: berechnet; Datenbank-Erwerb|
 |Kundenseminare und Bootcamps|Markenname und Kontaktinformationen des Unternehmens, Microsoft-Inhalte|Einladung Ereignis und die Agenda/Programm. Object-(BLOB)-Speicher. Präsentationsmaterialien, wenn die Einladung Ereignis und die Agenda grundlegenden Anforderungen nicht entsprechen|Anzahl der registrierten Gäste|Beschilderung / anzeigen / gedruckte Materialien; Werbegeschenke; Gebühr – Agentur: Marketingdienste, einschließlich Agentur Gebühren; Gebühr - Registrierung; Gebühr – externe Referent; Gebühr – Gebäude und Ausrüstung Mietwagen, einschließlich Surface-Geräte gehören und von einem externen Anbieter verwaltet; Integrationsszenarios anzupassen (mit Ausnahme von Alkohol)|
@@ -57,7 +57,7 @@ In den folgenden Tabellen beschreiben die grundlegenden Anforderungen für jede 
 
 Aktivitäten für den Partner des internen Vertriebs- und technische Mitarbeiter und umfasst spezifische Ausgaben im Zusammenhang mit Schulungen, die dabei hilft, des Partners Vertriebs- und technische Fachkenntnisse in Microsoft entwickeln.
 
-|           **Aktivität**           | **Grundlegende Anforderungen**                                                                  |                    **Kommunikationsanforderungen**                   |**Metriken**|**Berechtigte Ausgaben**|
+|           **Activity**           | **Core-Anforderungen**                                                                  |                    **Kommunikation-Anforderungen**                   |**Metriken**|**Berechtigte Ausgaben**|
 |----------------------------------|:---------------------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------|--------------|
 |
 |        MPN-Teilnahme         |Ursprüngliche Rechnung von Microsoft|                                                                                        |                                                                        |Gebühr – jährliche Registrierung: Jährliche MPN-Registrierung-Gebühren • Schmuckrahmen und DVD (zuerst festgelegt): MPN-Mitgliedschaft Schmuckrahmen und ersten DVDs • zusätzliche Vorteile Toolkit|

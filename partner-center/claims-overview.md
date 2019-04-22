@@ -8,15 +8,15 @@ ms.author: labrenne
 keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel
 ms.localizationpriority: medium
 ms.openlocfilehash: 15d7f1c09eb3df619876d8f88bb50ec11114ebc4
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430109"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Übersicht über Incentives-Co-Op-Ansprüche
 
-**Betrifft**
+**Gilt für**
 
 - Partner Center
 
@@ -32,12 +32,12 @@ Ein erfolgreicher Anspruchs enthält:
 >[!NOTE]
 >Microsoft behält sich das Recht vor, Originaldokumente zum Nachweis der Ausführung anzufordern. Bewahren Sie alle Originaldokumente für einen Zeitraum von 24 Monaten ab dem Datum der Aktivität auf. 
 
-|**Zweck**   |**Bitte lesen**   |
+|**Zu diesem Zweck**   |**Lesen Sie diesen**   |
 |-----------------|:--------------------------------------|
-|Übermitteln eines Anspruchs mit den richtigen Dokumenten|[Erstellen und Verwalten eines Anspruchs für eine Incentiveprogramm-Aktivität](create-incentives-claims.md)|
-|Nach Übermittlung des Anspruchs: Verwalten von Anfragen zu zusätzlichen Dokumenten|[Erstellen und Verwalten eines Anspruchs für eine Incentiveprogramm-Aktivität](create-incentives-claims.md)  |
-|Sicherstellen, dass Sie die grundlegenden Anforderungen für den Aktivitätsanspruch kennen|[Kennen der grundlegenden Anforderungen für Incentiveansprüche](core-requirements.md)   |
-|Erfahren der vollständigen Details zum Incentiveprogramm|[Leitfaden für Partner-Incentives-Co-Op](https://assets.microsoft.com/coop-guidebook.pdf)
+|Übermitteln eines Anspruchs mit den richtigen Dokumenten|[Erstellen und Verwalten eines Incentives Programm Aktivität Anspruchs](create-incentives-claims.md)|
+|Nach Übermittlung des Anspruchs: Verwalten von Anfragen zu zusätzlichen Dokumenten|[Erstellen und Verwalten eines Incentives Programm Aktivität Anspruchs](create-incentives-claims.md)  |
+|Sicherstellen, dass Sie die grundlegenden Anforderungen für den Aktivitätsanspruch kennen|[Incentives sammeln, wenn Ansprüche kernanforderungen kennen](core-requirements.md)   |
+|Erfahren der vollständigen Details zum Incentiveprogramm|[Partner-Incentives Co-op-Leitfaden](https://assets.microsoft.com/coop-guidebook.pdf)
 |Senden Sie ein OSA-Selling-Gebühr-Anspruch oder ISV Umsatz Zuordnung Anspruch |[Senden von Ansprüchen OSA im Partner Center](submit-osa-claim.md)|
                                                                                  
                                    

@@ -8,15 +8,15 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 86397bcbf16935499049c842d5b3fd32caeb2261
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430169"
 ---
 # <a name="tax-and-tax-exemptions"></a>Steuern und Steuerbefreiungen
 
-**Betrifft**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -24,7 +24,7 @@ ms.locfileid: "59430169"
 
 Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf den Weiterverkauf von Produkten durch Partner konzentriert, ist Microsoft nicht in allen Fällen verpflichtet, bei Partnerrechnungen die Mehrwertsteuer zu berechnen. Die Bestimmungen variieren je nach Land/Region. Partner sollten basierend auf ihrem Handelsstandort und dem ihrer Kunden mit Unterstützung ihres Steuerberaters die geeigneten Steuerbefreiungen beantragen. Um nachzuweisen, dass sein Microsoft-Handelspartnerkonto steuerbefreit ist, sollte der Partner die Bescheinigung zur Umsatzsteuerbefreiung an Microsoft übermitteln.
 
-**Beantragen einer Steuerbefreiung**
+**Die Datei eine Steuer-Ausnahme**
 
 1.  Suchen Sie Ihre **Microsoft-ID** im Partner Center &gt; **Kontoeinstellungen** &gt; **Organisationsprofil**.
 2.  Suchen Sie Ihre **MPN-ID** im Partner Center &gt; **Kontoeinstellungen** &gt; **Partnerprofil**.

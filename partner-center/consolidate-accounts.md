@@ -8,12 +8,12 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b3b3f5fe29830e786206e31927d015acc0ec7a7d
-ms.sourcegitcommit: 319b6f8850d95e2b10e6367312f9365e079a1c88
-ms.translationtype: MT
+ms.openlocfilehash: f1bbc53a1fa923e67c370e908fc209147a3eb69c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "59533848"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135088"
 ---
 # <a name="consolidate-your-company-accounts"></a>Konsolidieren Sie Ihre Unternehmenskonten
 
@@ -35,4 +35,4 @@ In PMC war es möglich, für jeden Standort um einen eigenen Kompetenzen, einen 
 
 Im Partner Center, da alle Speicherort-Konten in einem einzigen Konto konsolidiert werden werden die Vorteile und Kompetenzen ebenfalls konsolidiert. 
 
-Finden Sie Informationen zu den Unterschieden zwischen PMC und Partner Center [verschieben aus der PMC in Partner Center](pmc-pc-map.md)
+Finden Sie Informationen zu den Unterschieden zwischen PMC und Partner Center [verschieben aus der PMC in Partner Center](pmc-to-partner-center.md)

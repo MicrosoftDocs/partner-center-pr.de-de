@@ -1,18 +1,18 @@
 ---
 title: Programm für Cloud-Lösungsanbieter – begehrte Cloudlösungen verkaufen | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Mit dem Programm für Cloud-Lösungsanbieter kann Ihr Unternehmen mit neuem Expertenwissen und neuem Kunden wachsen.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner im CSP, direkte Partner, direkter CSP-Partner, indirekter CSP-Händler, direkter CSP, indirekter CSP, direktes Modell, indirektes Modell, indirekter Händler, indirekter Anbieter, Anbieter, Verteiler, Cloud Solution Provider-Programm
 ms.localizationpriority: medium
-ms.openlocfilehash: 1840d87626bef935347218b44d44c3d44607722d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 12bc6a32dd6b1890e66076b280dba4d38588eee5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584193"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134750"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programm für Cloud Solution Provider – begehrte Cloudlösungen verkaufen 
 
@@ -75,6 +75,6 @@ Sie können das gesamte Spektrum der [Microsoft Cloud Services](https://partner.
 |:---------------------------|:--------------------|
 |Anforderungen für die einzelnen CSP-Modelle   | [Cloud Solution Provider-Programm](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |In nationalen Clouds von Microsoft verkaufen   | [Wenden Sie an, um in nationalen Clouds Microsoft verkaufen](csp-national-clouds-overview.md)|
-|Microsoft Cloud vereinbarungsvorlagen Kunden   |[Microsoft Cloud Vereinbarungen nach Region und Sprache](agreements.md)|
+|Microsoft Cloud vereinbarungsvorlagen Kunden   |[Microsoft Cloud-Verträge nach Region und Sprache](agreements.md)|
 |Aufgaben der indirekten Anbieter im Partner Center  |[Arbeiten Sie mit der indirekten Vertriebspartner in das Cloud Solution Provider-Programm](indirect-provider-tasks-in-partner-center.md)|
 |Indirekten Vertriebspartners Aufgaben im Partner Center   |[Arbeiten Sie mit der indirekten Anbieter in der Cloud Solution Provider-Programm](indirect-reseller-tasks-in-partner-center.md)|

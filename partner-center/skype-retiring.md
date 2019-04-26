@@ -1,19 +1,19 @@
 ---
 title: Migrieren von Skype for Business Online Plan 1-Abonnements auf neuere Versionen von Office 365 | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Übergang von Kunden mit ablaufenden Skype für Business Online Plan 1-Abonnements auf eine unterstützte SKU-Option. Wir empfehlen den Umstieg von Kunden für neue Abonnements vor dem Enddatum des Abonnements jährlich.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Skype for Business-Pläne, Einstellung von Skype, Office 365
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 74df419f8cbd416da494bd87d873f5315d6a9b70
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e71e6b05b5ea489b2b6b486f388f5c575dfd02c5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586103"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133916"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrieren von Skype for Business Online Plan 1-Abonnements auf neuere Versionen von Office 365
 

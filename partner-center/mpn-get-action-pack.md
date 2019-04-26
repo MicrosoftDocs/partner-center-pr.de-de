@@ -1,18 +1,18 @@
 ---
 title: Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Erfahren Sie, wie Sie ein Microsoft Action Pack-Abonnement erhalten, ganz egal, ob Sie es erstmalig erwerben oder verlängern.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Action Pack, MAPS, MAPS verlängern, Action Pack verlängern, Action pack erwerben
 ms.localizationpriority: medium
-ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 552e288bb983b940d8211328553e6b33be242cb8
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587883"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134300"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>Erstmaliges Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements
 

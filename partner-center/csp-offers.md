@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Produkt hinzufügen, an Kunden verkaufen, Partnerangebote, CSP-Angebote, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner, in CSP verkaufen, Azure-RI, Azure Reserved Virtual Machine Instances, Azure Reservations, Onlinedienste, Abonnementsoftware, AHUB, SQL Server auf Azure, Windows Server auf Azure, Kundenabonnements
 ms.localizationpriority: medium
 ms.openlocfilehash: ea246701f57615064a87abb37cecafbb0d9151dc
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586713"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134810"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Partnerangebote im Cloud Solution Provider-Programm 
 
@@ -28,7 +28,7 @@ Noch nicht für das Programm für Cloud Solution Provider registriert? Unter [Cl
 
 Derzeit können Sie die folgenden Arten von Produkten und Dienstleistungen an Ihre CSP-Kunden verkaufen:
 
-- Azure Reservations<br> 
+- Azure-Reservierungen<br> 
 
     Kunden können im Voraus Speicherplatz auf virtuellen Azure-Maschinen für einen Zeitraum von ein oder drei Jahren reservieren.<br>
     

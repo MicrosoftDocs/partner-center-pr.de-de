@@ -1,19 +1,19 @@
 ---
 title: Microsoft Azure-VM-Größe für die maximale reservierungsnutzung | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Wenn Sie Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden kaufen, müssen Sie einen virtuellen Computer (VM) wählen, dessen Größe die Computing-Anforderungen des Kunden erfüllt.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, Reservierungen, virtueller Computer, verwalten, Nutzung, Größe
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cbe24b3da0b9cadf1ed9e8d9f06b5b575bf16d22
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 9a398b73cf00bd71130d25f0ec94a33b457e216b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586963"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135513"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Microsoft Azure VM-Größe für die maximale Reservations-Nutzung 
 

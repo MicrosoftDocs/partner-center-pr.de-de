@@ -8,11 +8,11 @@ ms.author: labrenne
 Keywords: Schulung, Spargutschein über Tools, und Überprüfen von Gutschein, Software Assurance-Ansprüche, DPS, SATV
 ms.localizationpriority: medium
 ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587833"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132650"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Verwenden des Voucher Validation and Redemption (VVR)-Tools im Partner Center, um Belege zu überprüfen, zu reservieren und einzulösen 
 

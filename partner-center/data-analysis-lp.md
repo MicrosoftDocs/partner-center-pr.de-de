@@ -1,18 +1,18 @@
 ---
 title: Daten und Datenanalyse im Partner Center | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Analysieren Sie Ihr Unternehmen mithilfe der Datenfunktionen im Partner Center.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Daten, Analysen, Datenanalysen, Power BI
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bc863943e968bb66ec1090751d1e2a38e3f5d66
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 9c706ce831b6f47a939c6cf958a91abcfad2afd5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587073"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135600"
 ---
 # <a name="get-data-and-analyze-your-business"></a>Daten zum Analysieren Ihres Unternehmens 
 
@@ -36,7 +36,7 @@ Im Partner Center hat nur der MPN-Partner-Administrator Zugriff auf benutzeranal
 
 |**Zum Abrufen von Daten auf**   |**Diese Software**   |**Lesen Sie diesen**   | **Gilt für**    |
 |---------------------|:-----------------------|:---------------|:--------------|
-|Wie Ihre Kunden erworbene Lizenzen verwenden   |Bereitstellung und Verwendung von Daten aus Partner Center = > Product Analytics   |[Einführung und Kundenzufriedenheit zu erhöhen](increasing-adoption-and-satisfaction.md)|CSP-Partner|
+|Wie Ihre Kunden erworbene Lizenzen verwenden   |Bereitstellung und Verwendung von Daten aus Partner Center = > Product Analytics   |[Steigerung von Einführungsrate und Zufriedenheit](increasing-adoption-and-satisfaction.md)|CSP-Partner|
 |Kundenaktivität in Bezug auf Abonnements   |Aktivitätsprotokolle   |[Anzeigen von Aktivitätsprotokollen Kunden](activity-logs.md)|CSP-Partner   |
 |Ausbau des Kundenstamms, Verwendung, Azure-Nutzung und vieles mehr   |Partner Center-App für Power BI   |[Partner Center Analytics-app für Power BI (direkte CSP-Partner)](power-bi-app-for-direct-partners.md)|CSP-Direktpartner|
 

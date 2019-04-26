@@ -1,17 +1,17 @@
 ---
 title: Registrieren für das Cloud-Lösungsanbieter-Programm für Microsoft Cloud für US-Behörden | Partner Center für Microsoft Cloud für US-Behörden
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Lesen Sie mehr über die CSP-Programmanforderungen, bevor Sie sich für das Cloud-Lösungsanbieter-Programm für Microsoft Cloud für US-Behörden registrieren.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0df1f72cdb0b062774accfd15299f046dac19031
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 226aa0829080f46706a0934176e229f3e7d3117b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585643"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135580"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registrieren für das Microsoft Cloud-Lösungsanbieter-Programm für Microsoft Cloud für US-Behörden
 
@@ -73,7 +73,7 @@ Microsoft Cloud für US-Behörden bietet eine separate Instanz von Microsoft Azu
 
 2.  Weisen Sie die entsprechenden Benutzer in Ihrer Organisation der Administrator-Agent-Rolle zu. Zu diesem Zweck müssen Sie die integrierte **AdminAgent**-Gruppe diesen Benutzern hinzufügen. Weitere Informationen dazu finden Sie unter [Mitglieder für eine Gruppe in Azure Active Directory verwalten](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal).
  
-## <a name="connect-with-us"></a>In Kontakt mit uns treten
+## <a name="connect-with-us"></a>Arbeiten Sie mit uns zusammen
 
 - Noch Fragen? Senden Sie uns eine E-Mail an azgovcsp@microsoft.com.
 
@@ -81,7 +81,7 @@ Microsoft Cloud für US-Behörden bietet eine separate Instanz von Microsoft Azu
 
 ## <a name="related-topics"></a>Verwandte Themen
 
--  [Partner Center für Microsoft Cloud für US-Regierung](partner-center-for-microsoft-us-govt-cloud.md)
+-  [Partner Center für Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
 
 -  [Lizenz Verwaltung von Benutzern und im Partner Center für Microsoft Cloud für US-Behörden](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
 

@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: Incentives sammeln, wenn Ansprüche "," Co-op-Ansprüche "," Co-op-Guthaben, OSA, unabhängige Softwarehersteller können Umsatz-Zuordnung, Domänenname, Verzeichnis-ID
 ms.localizationpriority: medium
 ms.openlocfilehash: 1a267de71c050ede872feaf6e1b24588fba74792
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430649"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135650"
 ---
 #<a name="find-your-customers-domain-name-and-directory-id"></a>Hier finden Sie Domänennamen des Kunden und Verzeichnis-ID
 

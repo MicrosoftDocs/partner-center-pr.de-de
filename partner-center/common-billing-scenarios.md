@@ -1,19 +1,19 @@
 ---
 title: Allgemeine Abrechnungsszenarien | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: In diesem Thema wird erläutert, was auf Ihrer Rechnung nach dem Hinzufügen neuer Abonnements, dem Anpassen der Lizenzen für ein Abonnement oder dem Kündigen eines Abonnements angezeigt werden sollte. Die Auswirkungen fallen für nutzungsbasierte und lizenzbasierte Abonnements unterschiedlich aus.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: die Abrechnung, Zahlungen, Bestellungen, Nutzung, lizenzbasierte Abrechnung, Jahrestag, Begriff, Abbruch, Erneuerung, Formel für Price, abstimmungsdatei, Abstimm Datei
 ms.localizationpriority: medium
-ms.openlocfilehash: 5f7820219110bfdbe153d8467da91e1d66d82341
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 2a619356577345923cd78499d2ae5a1f3c6c1614
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585703"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135320"
 ---
 # <a name="common-billing-scenarios"></a>Allgemeine Abrechnungsszenarien
 

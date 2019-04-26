@@ -1,19 +1,19 @@
 ---
 title: Mandantenkonsolidierung für regionale CSP-Autorisierung | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschiedene Länder/Regionen.
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Migrieren von Kunden, Bereitstellung, Mandantenkonto, Mandanten konsolidieren
 ms.localizationpriority: medium
-ms.openlocfilehash: 183b5f518a57fdaf27badce5927a2ea09a5ec89c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: c2226fea4523b5f34a2cb1b5fcfcde88048dda82
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587553"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134785"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Mandantenkonsolidierung für regionale CSP-Autorisierung
 
@@ -119,7 +119,7 @@ Beachten Sie, dass nutzungsbasierte Azure-CSP-Abonnements nicht wie Office 365-
 
 6.  Wiederholen Sie diese Schritte für alle Abonnements in allen Kundendatensätzen, um künftige Kosten für die Konten vom Typ **Transitioning From** zu vermeiden. Der Partner erhält eine endgültige Rechnung mit einer Gutschrift für die Anzahl der nicht genutzten Tage zwischen dem Stornierungsdatum und dem letzten Tag des Abrechnungszeitraums. Nach diesem letzten Abrechnungszeitraum werden keine zukünftigen Rechnungen generiert.
 
-### <a name="notes"></a>Anmerkungen
+### <a name="notes"></a>Hinweise
 
 -   Die Deaktivierung des Abonnements im CSP-Konto vom Typ **Transitioning From** wirkt sich nicht auf den Dienst des Endkunden aus, sofern der Dienst vor der Deaktivierung über das CSP-Konto vom Typ **Transitioning To** bereitgestellt wurde.
 

@@ -1,7 +1,7 @@
 ---
 title: Zusammenarbeiten mit indirekten Anbietern in CSP | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Als indirekter Vertriebspartner in CSP arbeiten Sie mit indirekten Anbietern (auch Distributoren genannt) zusammen, die eine direkte Beziehung mit Microsoft haben und Kundensupport sowie Abrechnungsleistungen erbringen können.
 ms.prod: ''
 author: MaggiePucciEvans
@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: Indirekte Wiederverkäufer, Händler, indirekten Anbieter, Anbieter, Partnerschaft, VAR, Ebene2, Ebene 2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f544b5d97cf1f828a4f7dbdddd1cb1947ab28f34
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 88b3bbccc6716696e3ad26034ca794459839b975
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587783"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134442"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Anbietern im Programm für Cloud-Lösungsanbieter
 
@@ -71,7 +71,7 @@ Wenn Sie kein Geschäftskonto besitzen, wählen Sie **Erstellen** aus, um jetzt 
 
 6.  Geben Sie das Kennwort für Ihr Partner Membership Center-Konto ein, und wählen Sie dann **Anmelden** aus.
 
-7.  Wählen Sie das Organisationsprofil mit der MPN-ID aus, die mit Ihren Anreizen, Mitgliedsvorteilen und Kompetenzen verknüpft ist, damit wir diese Informationen auf Ihr Partner Center-Konto übertragen können. Klicken Sie auf **Weiter**.
+7.  Wählen Sie das Organisationsprofil mit der MPN-ID aus, die mit Ihren Anreizen, Mitgliedsvorteilen und Kompetenzen verknüpft ist, damit wir diese Informationen auf Ihr Partner Center-Konto übertragen können. Wählen Sie **weiterhin**.
 
 Wenn die MPN-ID, die Sie verwenden möchten, auf dieser Seite nicht aufgeführt wird, wählen Sie **Abbrechen** aus, und melden Sie sich mit dem Benutzernamen und Kennwort für das gewünschte Organisationsprofil an. 
 > [!IMPORTANT]  

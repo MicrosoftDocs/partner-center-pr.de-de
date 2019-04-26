@@ -9,11 +9,11 @@ keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Azure RI, 
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 5454fe66de5f91406bf97185796dcc5bbbcaee08
-ms.sourcegitcommit: d7dbf7169864141b1cd5e3a75f0759c7da03a01e
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "58307031"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134740"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Verkaufen von Softwareabonnements über CSP
 

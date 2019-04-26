@@ -1,19 +1,19 @@
 ---
 title: Benutzerverwaltungsaufgaben für Kundenkonten | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Nach dem Kauf eines neuen Abonnements für einen Kunden können Sie bestimmten Benutzern Lizenzen zuweisen.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: kundenverwaltung, Konto Lizenzen-Konto zu erstellen, Zuweisen von Lizenzen, Verwaltung der Benutzer, Kennwort, die kennwortzurücksetzung, Kennwort ändern
 ms.localizationpriority: medium
-ms.openlocfilehash: 2145455a063d1e21f6943abfc9d2f8905ed78a1e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: a66c1fe8965ecbc2d432efaf0a3e732b6ecd792b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586753"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134870"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Benutzerverwaltungsaufgaben für Kundenkonten
 
@@ -93,7 +93,7 @@ Wenn Sie dieses Konto innerhalb von 30 Tagen wiederherstellen müssen, finden S
 ## <a name="related-topics"></a>Verwandte Themen
 
 
-[Zuweisen oder widerrufen von Lizenzen für mehrere Benutzer](bulk-license-provisioning-for-multiple-users.md)
+[Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer](bulk-license-provisioning-for-multiple-users.md)
 
 [Erstellen Sie mehrere Benutzer für ein Kundenkonto](adding-multiple-users-to-a-customer-account.md)
 

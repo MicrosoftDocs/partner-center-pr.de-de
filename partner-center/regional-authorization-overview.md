@@ -10,11 +10,11 @@ keywords: CSP-Märkten, Gebiete, die, in denen i über CSP CSP bietet verkaufen 
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57588073"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134050"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Cloud Solution Provider-Programm regionale Märkte und Währungen
 
@@ -155,7 +155,7 @@ Wenn Ihre Unternehmens-Speicherort Brasilien ist, können Sie CSP-Angebote für 
 
 |  Land/Region | Währung |
 |  -------------- |:--------:|
-|  Brasilien         |   USD    |
+|  Brazilien         |   USD    |
 |
 
 ## <a name="canada-region-and-market"></a>Kanada Region und Markt
@@ -217,7 +217,7 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  Svalbard und Jan Mayen|NOK|
 |  Schweden         |   SEK    |
 |  Schweiz    |   CHF    |
-|  VEREINIGTES KÖNIGREICH             |   GBP    |
+|  GB             |   GBP    |
 |  Vatikanstadt   |          |
 |
 
@@ -353,7 +353,7 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  Swasiland      |   USD    |
 |  Tadschikistan     |          |
 |  Tunesien        |   USD    |
-|  Türkei         |   USD    |
+|  Turkei         |   USD    |
 |  Turkmenistan   |          |
 |  Ukraine        |   USD    |
 |  Vereinigte Arabische Emirate| USD |
@@ -380,7 +380,7 @@ Wenn Ihr Unternehmen Russische Föderation befindet, können Sie CSP-Angebote f�
 
 |  Land/Region | Währung |
 |  -------------- |:--------:|
-|  Russische Föderation         |    RUB   |
+|  Russland         |    RUB   |
 |
 
 ## <a name="taiwan-region-and-market"></a>Taiwan und Markt

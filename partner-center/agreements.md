@@ -8,11 +8,11 @@ ms.author: evensma
 keywords: Microsoft Cloud-Verträge, Kunden vereinbarungsvorlagen, CSP-Kunden-Verträge, Microsoft Cloud-Vertrag, MCA, CSP, wo ich im CSP-Programm verkaufe kann?, CSP Ländern und Regionen, CSP MCAs in mehreren Sprachen CSP North America "," CSP-Mittelamerika "," CSP-Süd America "," CSP-Karibik "," CSP-Microsoft-Cloud für US-Regierung, CSP Microsoft Cloud Deutschland, CSP Naher Osten, Afrika für CSP, CSP "Europa", CSP Asien, CSP-Pazifik, CSP MCAs
 ms.localizationpriority: medium
 ms.openlocfilehash: b2a65feac1f9f873512913ec2e4f26dc42efe865
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430219"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134626"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Microsoft Cloud-Verträge nach Region und Sprache
 

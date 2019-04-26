@@ -7,11 +7,11 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 9a2f0fcb90ed13af3f885325f2211523df5c981e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587613"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133854"
 ---
 # <a name="participate-in-software-assurance-programs"></a>Software Assurance-Programmen teilnehmen
 
@@ -20,7 +20,7 @@ Teilnahme an der Software Assurance-Programme, einschließlich Software Assuranc
 |**Informationen zu**   |**Lesen Sie diesen**   |
 |--------------------------|:------------------|
 |Registrieren in der Software Assurance Training Gutscheine (SATV)-Anwendung|[Software Assurance Training Gutscheine (SATV) Programm im Partner Center](software-assurance-satv.md)|
-|Mithilfe des Tools Gutschein-Überprüfung und einlösen|[Mithilfe des Tools Gutschein-Überprüfung und einlösen im Partner Center zu überprüfen, reservieren und Gutscheine einlösen](voucher-validation-tool.md)|
+|Verwenden des Tools zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR)|[Verwenden des Tools zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR) in Partner Center, um Gutscheine zu überprüfen, zu reservieren und einzulösen](voucher-validation-tool.md)|
 |Registrierung von in die Planung der Dienste durch Software Assurance|[Software Assurance Planen von Diensten im Partner Center](software-assurance-dps.md) 
 
 

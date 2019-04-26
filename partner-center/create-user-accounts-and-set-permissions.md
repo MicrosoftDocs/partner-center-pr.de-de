@@ -1,19 +1,19 @@
 ---
 title: Erstellen von Benutzerkonten und Festlegen von Berechtigungen | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Der Administrator erstellt ein Benutzerkonto für jeden Partnermitarbeiter, der Zugriff auf Partner Center benötigt.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Rollen, Berechtigungen, hinzufügen Benutzer "," Assign-Rolle "," Admin ","-agent
 ms.localizationpriority: medium
-ms.openlocfilehash: a314a3c551b360eb777bd0db180388aa85f2e7f8
-ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
-ms.translationtype: MT
+ms.openlocfilehash: 3829a18a78cb50797b7ca2bfd862c82d93d92248
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "57682458"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134980"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen
 

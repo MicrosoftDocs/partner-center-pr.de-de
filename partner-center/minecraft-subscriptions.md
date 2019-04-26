@@ -1,20 +1,20 @@
 ---
 title: 'Abonnements für Minecraft: Education Edition für Bildungseinrichtungen verkaufen'
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 'Verkaufen Sie Abonnements für Minecraft: Education Edition an qualifizierte Bildungseinrichtungen.'
 author: LauraBrenner
 ms.author: labrenne
 keywords: Autorisierte Bildungseinrichtungen Partner, Education, verkaufen, Education, Schulen
 ms.localizationpriority: medium
-ms.openlocfilehash: ad5ebefb3ca745e81790af5cfb60de2df91887e5
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 4c5b221bae98e203159afd8926bbdd3d3bbd0421
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584893"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134360"
 ---
-# <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Verkaufen Sie Minecraft: Education Edition-Abonnements für Kunden im Bildungswesen
+# <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Verkaufen von Abonnements für Minecraft: Education Edition-Abonnements für Kunden im Bildungswesen
 
 **Gilt für**
 

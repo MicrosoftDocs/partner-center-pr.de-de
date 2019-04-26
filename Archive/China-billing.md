@@ -6,11 +6,11 @@ description: Erläutert, wie die Abrechnung für China-Reseller sind für die Di
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: dc47dbe46be30b2306e242f14b98b19435264863
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584313"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62131380"
 ---
 # <a name="billing"></a>Abrechnung
 
@@ -66,8 +66,8 @@ Wechseln Sie zu, um Ihre Rechnung für den Zugriff auf die **Dashboard** Menü *
 </table>
 
 **Siehe auch** 
--   [Lesen Sie Ihrer Rechnung](read-your-bill.md)
--   [Verwenden Sie die abstimmungsdateien](use-the-reconciliation-files.md)
--   [Nicht geleisteten Zahlungen, Betrug und Missbrauch besser geschützt](non-payment-fraud-or-misuse.md)
+-   [Informationen zu Ihrer Rechnung](read-your-bill.md)
+-   [Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md)
+-   [Nichtbezahlung, Betrug oder Missbrauch](non-payment-fraud-or-misuse.md)
 -   [China CSP-Preise und Angebote](see-offers-and-pricing.md)
 

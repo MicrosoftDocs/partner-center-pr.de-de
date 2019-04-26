@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 94eb23f854a85fa08ed01a0ccdaff8e546911d78
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132940"
+---
 # <a name="youve-added-your-first-readme-file"></a>Sie haben Ihre erste ReadMe-Datei hinzugefügt.
 Eine Datei "Readme.MD" soll Leser, was Ihr Projekt tun kann schnell zu orientieren.  Neu in Markdown? [Weitere Informationen](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
 
@@ -19,7 +27,7 @@ Wenn Sie das Hinzufügen von Details abgeschlossen haben, klicken Sie auf "Creat
 
 Zum Erstellen eines Pull Requests?  [Weitere Informationen](https://go.microsoft.com/fwlink/?LinkId=533211&clcid=0x409)
 
-### <a name="congratulations-youve-completed-the-grand-tour-of-the-code-hub"></a>Gratulation! Sie haben die Führung Grand der CODE-Hub abgeschlossen!
+### <a name="congratulations-youve-completed-the-grand-tour-of-the-code-hub"></a>Herzlichen Glückwunsch! Sie haben die Führung Grand der CODE-Hub abgeschlossen!
 
 # <a name="next-steps"></a>Nächste Schritte
 

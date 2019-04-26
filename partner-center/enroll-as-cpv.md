@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: Panel-Anbieter zu steuern, CPV apps registrieren, CPV apps verwalten
 ms.localizationpriority: medium
 ms.openlocfilehash: 7d00cfc7addf120a3b42597cda3758597533dd5e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586053"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135560"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>Registrieren Sie als eine Control Panel-Anbieter im Partner Center
 
@@ -27,7 +27,7 @@ Eine aktuelle Control Panel Hersteller (Vocabulary) oder eine neue CPV, möchte 
 Überprüfen Sie die [Microsoft Control Panel Hersteller-Vereinbarung](https://go.microsoft.com/fwlink/?linkid=2055198)
 
 
-## <a name="working-in-partner-center"></a>Arbeiten im Partner Center
+## <a name="working-in-partner-center"></a>Nutzung von Partner Center
 Sobald Sie auf der Partner Center CPV-Oberfläche registriert und akzeptiert die CPV Vereinbarung können Sie:
 
 - Verwalten von Anwendungen mit mehreren Mandanten, die (Hinzufügen von Anwendungen auf Azure-Portal registrieren und Aufheben der Registrierung in Partner Center-Anwendung).

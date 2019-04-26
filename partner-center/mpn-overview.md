@@ -1,19 +1,19 @@
 ---
 title: Microsoft Partner Network-Mitgliedschaft | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Erfahren Sie mehr zu den Vorteilen einer Partnerschaft mit Microsoft. Mit dem Microsoft Partner Network können Sie Breite Palette von Produkten in der Branche sowie Programm Optionen, um Ihr Unternehmen zu unterscheiden vermarkten und verkaufen Ihrer Lösungen.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Partner, Partnerschaft, MPN, Microsoft Partner Network Action Pack, MAPS, Aktion Pack-Abonnement, Vorteile, MPN-Vorteile, Mitgliedschaft, Silver, Gold, Kompetenzen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8c07ad4d91e74599e65ab2478de481ef6ca212d6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e40835faf14b010cf8f8e448293e0d25cb687e11
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584103"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134340"
 ---
 # <a name="partner-with-microsoft"></a>Partner von Microsoft
 

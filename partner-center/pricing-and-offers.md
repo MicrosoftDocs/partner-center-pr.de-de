@@ -1,18 +1,18 @@
 ---
 title: Angebote und Preise | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Die Liste der Angebote enthält die verschiedenen Produktfamilien, die über das Partner Center und die Preisinformationen erworben werden können.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c71bbd0b5945c3e958aa22bc1fb1b7589bcca36a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: ab53b1bae26ac6d40f87ea80e2c58469d189c1e1
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586733"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134090"
 ---
 # <a name="pricing-and-offers"></a>Preise und Angebote
 

@@ -1,18 +1,18 @@
 ---
 title: Bestätigung der Kundenzustimmung zum Microsoft Cloud-Vertrag – Häufig gestellte Fragen | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Häufig gestellte Fragen zur Bestätigung Kunden
 author: LauraBrenner
 ms.author: v-petand
 keywords: Kunden, Kunden, Ihre Zustimmung, häufig gestellte Fragen, MCA, Microsoft Cloud-Vereinbarung
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f95de539e056c086e921d7b4eda62f3cbffa30e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 52f38191aefa722b96ca5f104e9af023952bd7d7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587403"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135010"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Bestätigung der Kundenzustimmung zum Microsoft Cloud-Vertrag – Häufig gestellte Fragen
 
@@ -22,7 +22,7 @@ ms.locfileid: "57587403"
 
 -   [Technische](#technicalfaq)
 
--   [Zusätzliche Ressourcen](#additionalresourcesfaq)
+-   [Weitere Ressourcen](#additionalresourcesfaq)
 
 
 ## <a href="" id="processfaq"></a>Prozess
@@ -57,7 +57,7 @@ Es gibt kein Benachrichtigungsverfahren.
 
 **Warum wird Microsoft den erfordern Partnern zusammen, um sicherzustellen, dass Kunden der Microsoft-Cloud-Vereinbarung akzeptiert haben?** 
 
-Der Vertrag zwischen Microsoft Cloud schützt Partnern, Kunden und Microsoft durch die Bereitstellung des Kunden Nutzungsrechte und Bedingungen für die Cloud von Microsoft Produkt- und Orders gewährt, an. 
+Die Microsoft Cloud-Vereinbarung schützt Partner, Kunden und Microsoft, indem sie die Nutzungsrechte und Bedingungen für Kunden bezüglich der Microsoft Cloud Produkte und Serviceaufträge definiert. 
 
 Ordnungsgemäße Ausführung der Microsoft-Cloud-Vereinbarung schützt von unseren Partnern, Kunden und Microsoft Leuchten gegenseitige Ausrichtung zu vielen wichtigen Themen, einschließlich aber nicht beschränkt auf Sicherheit, Datenschutz und datensicherheit. Der Bestätigungsvorgang wird sichergestellt, Transparenz und die Ausrichtung und ermöglicht es Microsoft, um Kunden besser zu unterstützen, die umgehend auf gesetzliche Anfragen reagieren müssen.
 

@@ -1,18 +1,18 @@
 ---
 title: Verfügbarkeit der Office 365 E5-Einzel-SKU in CSP | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Die Office 365 Enterprise E5-Einzel-SKU ist in CSP verfügbar und umfasst PSTN-Konferenzfunktionen.
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e31c7e5ab11e16d1176a0872d0e3dd70e31103a4
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585333"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134330"
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365-Partner-Sicherheitsempfehlung: Office 365 E5-einzelne SKU-Verfügbarkeit in CSP
 
@@ -202,7 +202,7 @@ Beispiel für eine Partnerabgleichung:
 
  
 
-## <a name="additional-resources"></a>Weitere Ressourcen
+## <a name="additional-resources"></a>Zusätzliche Ressourcen
 
 
 Weitere Details finden Sie auf der [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx)-Website. Spezifische Ressourcen für Office 365 Enterprise E5 finden Sie auf der [Office 365 E5-Seite](https://drumbeat.office.com/partner/pages/e5.aspx) auf der Registerkarte **Vermarkten und Verkaufen**:

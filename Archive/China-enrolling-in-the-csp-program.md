@@ -6,11 +6,11 @@ description: Was Sie erwarten können, wenn Sie sich die 21Vianet China Cloud So
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 915db47a21e2fd4f3f484c7bfc82eb3fb35ae1f0
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584423"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132180"
 ---
 # <a name="enroll-in-the-21vianet-china-csp-reseller-program"></a>Registrieren Sie sich für das 21Vianet China-CSP-Reseller-Programm
 
@@ -37,7 +37,7 @@ Während des Registrierungsprozesses müssen Sie die folgenden Informationen ang
 
 2. Melden Sie sich mit Ihrer Organisation Geschäfts-, Schul- oder UNI-Kontoanmeldeinformationen eines globalen Administrators ein, oder wählen Sie **erstellen Sie eine** um ein neues Arbeits- oder schulkonto zu erstellen.
 
-3. Auf der **erstellen Sie ein Partner Center-Konto** Seite, geben Sie Details für Ihre Organisation aus, und geben Sie dann die Details für die Person in Ihrer Organisation, die Sie globale Administratorberechtigungen verfügt und den Zugriff auf Partner Center haben möchten. Klicken Sie auf **Weiter**.
+3. Auf der **erstellen Sie ein Partner Center-Konto** Seite, geben Sie Details für Ihre Organisation aus, und geben Sie dann die Details für die Person in Ihrer Organisation, die Sie globale Administratorberechtigungen verfügt und den Zugriff auf Partner Center haben möchten. Wählen Sie **weiterhin**.
 
     >**Hinweis**<br>Der erste Partner Center-Konto, die, das Sie erstellen, werden ein globales Administratorkonto. Globale Administratoren haben Zugriff auf alle administrativen Funktionen im Partner Center und sind die einzigen Administratoren, die andere Administratorrollen zuweisen können. Während Sie mehr als ein globalen Administrator in Ihrer Organisation verwenden können, empfehlen wir, dass nur wenige Personen in Ihrem Unternehmen diese Rolle, um das Risiko zu reduzieren, für Ihr Unternehmen haben.
     

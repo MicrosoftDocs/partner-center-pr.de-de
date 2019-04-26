@@ -1,18 +1,18 @@
 ---
 title: Wiederherstellen ausgesetzter Partner Center-Konten | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Erfahren Sie, wie Sie ein ausgesetztes Partner Center-Konto wiederherstellen, warum Partner Center-Konten ausgesetzt werden, und wie Sie Ihr Konto verwenden können, während es ausgesetzt ist.
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ae2ce5ec0ac117d0adcb9e9b0f63e2c43e906bb7
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 03a950db3b813a85b5f1c72ae95bcd7d78d086f2
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584463"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133890"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Wiederherstellen ausgesetzter Partner Center-Konten
 

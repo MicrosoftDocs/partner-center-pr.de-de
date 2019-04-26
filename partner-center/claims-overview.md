@@ -1,18 +1,18 @@
 ---
 title: Incentives für Co-op-Ansprüche | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Übermitteln Sie Ihre Incentiveansprüche, ohne dass zuerst Ihr Aktivitätsplan überprüft werden muss.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel
 ms.localizationpriority: medium
-ms.openlocfilehash: 15d7f1c09eb3df619876d8f88bb50ec11114ebc4
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: c1ba6ca1fcc624958355761b5d36ffafb9dface2
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430109"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135350"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Übersicht über Incentives-Co-Op-Ansprüche
 
@@ -38,6 +38,6 @@ Ein erfolgreicher Anspruchs enthält:
 |Nach Übermittlung des Anspruchs: Verwalten von Anfragen zu zusätzlichen Dokumenten|[Erstellen und Verwalten eines Incentives Programm Aktivität Anspruchs](create-incentives-claims.md)  |
 |Sicherstellen, dass Sie die grundlegenden Anforderungen für den Aktivitätsanspruch kennen|[Incentives sammeln, wenn Ansprüche kernanforderungen kennen](core-requirements.md)   |
 |Erfahren der vollständigen Details zum Incentiveprogramm|[Partner-Incentives Co-op-Leitfaden](https://assets.microsoft.com/coop-guidebook.pdf)
-|Senden Sie ein OSA-Selling-Gebühr-Anspruch oder ISV Umsatz Zuordnung Anspruch |[Senden von Ansprüchen OSA im Partner Center](submit-osa-claim.md)|
+|Senden Sie ein OSA-Selling-Gebühr-Anspruch oder ISV Umsatz Zuordnung Anspruch |[Übermitteln Ihrer OSA-Ansprüche in Partner Center](submit-osa-claim.md)|
                                                                                  
                                    

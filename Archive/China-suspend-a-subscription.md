@@ -6,11 +6,11 @@ description: Sie können anhalten oder ein Abonnement kündigen, wenn vom Kunden
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 389d92017aaca0e6cf4cce73e6a71e9aa90ac6bd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584343"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132110"
 ---
 # <a name="suspend-a-subscription"></a>Aussetzen eines Abonnements
 
@@ -31,6 +31,6 @@ Wenn Sie das Abonnement eines Kunden anhalten, sind die Kunden eines Benutzers n
 
 **Siehe auch**
 
--   [Nicht geleisteten Zahlungen, Betrug und Missbrauch besser geschützt](non-payment-fraud-or-misuse.md)
--   [Geben Sie Abrechnungssupport an](provide-billing-support.md)
+-   [Nichtbezahlung, Betrug oder Missbrauch](non-payment-fraud-or-misuse.md)
+-   [Bereitstellen von Abrechnungssupport](provide-billing-support.md)
 -   [Kundensupport](customer-support.md)

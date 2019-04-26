@@ -1,19 +1,19 @@
 ---
 title: Azure Reservations im Auftrag Ihrer Kunden verwalten | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Zum Verwalten Ihrer Kunden Azure nach der reservierungserwerb Sie auswählen, dem Kunden und die Reservierung, die Sie im Partner Center verwalten möchten, und klicken Sie dann Änderungen vornehmen, um die Reservierung im Azure-Portal.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Verwalten von Azure, Reservierungen, Abrechnung, Kauf, "Abbrechen", Exchange, vorzeitiger Beendigung
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: de1846b6259764b40059ece1d311e5f63587a525
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bdd79c7c88f6ad553f1a8733e17d434dfbaf2a99
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584503"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134790"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Verwalten von Microsoft Azure Reservations im Auftrag Ihrer Kunden
 
@@ -33,7 +33,7 @@ Zum Verwalten Ihrer Kunden Azure nach der reservierungserwerb Sie auswählen, de
 
     | **Wählen Sie**   | **An**    |
     |:-----------------------------|:-----------------|
-    | **Übersicht über die**   | Hier werden Details des Kundenreservierung angezeigt, einschließlich Ablaufdatum, Bereich und Nutzungsdaten **Hinweis:** Wählen Sie **Rückerstattung** aus, um eine Supportanfrage für eine Rückerstattung zu erstellen. Wählen Sie **Exchange**, um eine Supportanfrage zu erstellen, um nicht verwendete Teile der Reservierung auszutauschen.  
+    | **Übersicht**   | Hier werden Details des Kundenreservierung angezeigt, einschließlich Ablaufdatum, Bereich und Nutzungsdaten **Hinweis:** Wählen Sie **Rückerstattung** aus, um eine Supportanfrage für eine Rückerstattung zu erstellen. Wählen Sie **Exchange**, um eine Supportanfrage zu erstellen, um nicht verwendete Teile der Reservierung auszutauschen.  
     | **Zugriffssteuerung (IAM)**   | Verwalten des Zugriffs auf die Informationen der Kundenreservierung.|
     | **Konfiguration**   | Ändern Sie den Reservierungsbereich bzw. das Azure-Abonnement, dem die Reservierung zugeordnet ist.    |
     | **Eigenschaften**   | Zeigen Sie Eigenschaften für die Reservierung an und kopieren Sie die Reservierungs-ID und die Reservierungsbestellungs-ID in die Zwischenablage. **Hinweis:** Support fordert möglicherweise die Reservierungs-ID und die Reservierungsauftrags-ID an, wenn Sie im Auftrag eines Kunden Support anfordern.    |
@@ -55,7 +55,7 @@ Nachfolgend finden Sie Details für Abbruch und Gebühren.
 
 |**Datum der Kündigung**<br> (Tage)   |**Usage**    |**Credit**  |**Vorzeitige Beendigung**<br> gebühr    |**Obergrenze für die Rückerstattung** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 oder weniger                         | Nein          | 100 %       | Nein                              | 50.000 US-DOLLAR   |
+|5 oder weniger                         | Nein          | 100%       | Nein                              | 50.000 US-DOLLAR   |
 |5 oder weniger                         | Ja         | Anteilige  | Nein                              | 50.000 US-DOLLAR   |
 |Mehr als 5                        | Nein          | Anteilige  | 12%                             | 50.000 US-DOLLAR   |
 |Mehr als 5                        | Ja         | Anteilige  | 12%                             | 50.000 US-DOLLAR   |

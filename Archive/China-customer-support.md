@@ -6,11 +6,11 @@ description: Bewährte Methoden und Anforderungen zum Bereitstellen von Unterst�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: adce46be7073164bd285146bf8058bfa41a32709
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585783"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132540"
 ---
 # <a name="customer-support"></a>Kundensupport
 
@@ -48,9 +48,9 @@ Aktuelle Anforderungen zu unterstützen, finden Sie unter den [Programmhandbuch 
 
 **Siehe auch**
 
--   [Bieten technischen support](provide-technical-support.md)
--   [Geben Sie Abrechnungssupport an](provide-billing-support.md)
--   [Selbsthilfe für Kunden](customer-self-support.md)
+-   [Bereitstellen von technischem Support](provide-technical-support.md)
+-   [Bereitstellen von Abrechnungssupport](provide-billing-support.md)
+-   [Kundenselbsthilfe](customer-self-support.md)
 
  
 ### <a name="escalate-a-customer-issue-to-21vianet"></a>Eskalieren von Kundenproblem einen 21Vianet 

@@ -1,7 +1,7 @@
 ---
 title: Kundenselbsthilfe | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Kunden können eigene Microsoft Office 365 Administrationscenter oder das Azure-Verwaltungsportal anmelden und ihre eigenen Konten verwalten. Kunden müssen Kontakt zu ihrem Cloud-Lösungsanbieter aufnehmen, um zusätzliche Abonnements zu kaufen oder ihre Abonnements zu beenden.
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: Kundenselbsthilfe, Selbsthilfe
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 62a4486419183544ba6720c6e23a096fe4dd3841
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 8efada04916b77f19219ca1ebaa3f8789cd8f889
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584053"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135470"
 ---
 # <a name="customer-self-support"></a>Kundenselbsthilfe
 

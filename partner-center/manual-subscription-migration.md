@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Verlängern Sie Dynamics 365 bietet, Angebote, neue Dynamics 365-SKUs
 ms.openlocfilehash: e5128abe71cfab4e2cdabb0cafcd5fd7df56b116
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586943"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134400"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Migrieren von Dynamics 365 und Customer Engagement Plan von „Standard“ (qualifizierte Angebote) zu neueren Versionen
 

@@ -1,18 +1,18 @@
 ---
 title: Anfordern einer Beziehung mit einem Kunden | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Das Beantragen einer Partnerschaft mit einem Kunden wird in Multipartner- und Multichannelszenarien verwendet. Dieser Vorgang ist auch hilfreich, wenn ein Kunde Ihre delegierten Administratorrechte entfernt und Sie sie für Bereitstellungen oder Supportleistungen wiederherstellen müssen.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5441f38621dc4f498dc869789f416c4910518690
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 4fbd6e5e14c12e81cff4297b60b542ab0ccd5277
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585193"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133980"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Kontaktaufnahme mit Kunden im Partner Center
 
@@ -63,5 +63,5 @@ Die benutzerfreundlichkeit für die Annahme einer Reseller Beziehung einladungs 
 
 ## <a name="see-also"></a>Siehe auch
 
-- [Weisen Sie Kontakt zum support](assign-support-contacts.md)
+- [Zuweisen von Supportkontakten](assign-support-contacts.md)
 - [Entfernen einer Beziehung mit einem Kunden](remove-a-relationship.md)

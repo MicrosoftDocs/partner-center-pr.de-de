@@ -6,11 +6,11 @@ description: Sie sind für betrügerische Käufe und/oder Nichtbezahlung gekauft
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d63f909e8728296eed88543988f595b62e8dc3a7
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583853"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132550"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Nichtbezahlung, Betrug oder Missbrauch
 
@@ -46,7 +46,7 @@ Um betrügerische Aktivitäten oder Missbrauch zu beheben, müssen Sie die folge
 
 **Siehe auch**
 
--   [Geben Sie Abrechnungssupport an](provide-billing-support.md)
+-   [Bereitstellen von Abrechnungssupport](provide-billing-support.md)
 -   [Kundensupport](customer-support.md) 
 
  

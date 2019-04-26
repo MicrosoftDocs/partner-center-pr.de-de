@@ -10,11 +10,11 @@ fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
 ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587103"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134622"
 ---
 # <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>Wechseln Sie Ihr Konto für den Mitgliedschaft Partner von Partner Membership Center auf Partner Center
 

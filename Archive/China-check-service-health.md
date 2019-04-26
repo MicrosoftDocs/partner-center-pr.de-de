@@ -6,11 +6,11 @@ description: Wenn ein Kunde mit einem Dienst Probleme hat, sollten Sie zuerst di
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d2f17918f6679cbfb6c299dccec2f84855f1140d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584143"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132000"
 ---
 # <a name="check-service-health"></a>Überprüfen der Dienstintegrität
 
@@ -31,5 +31,5 @@ Wenn das Problem weiterhin nach dem Ende der dienstunterbrechung auftritt, könn
 
 **Siehe auch**
 
--   [Selbsthilfe für Kunden](customer-self-support.md)
+-   [Kundenselbsthilfe](customer-self-support.md)
 -   [Kundensupport](customer-support.md)

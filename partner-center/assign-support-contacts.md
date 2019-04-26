@@ -1,7 +1,7 @@
 ---
 title: Zuweisen von Supportkontakten | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Wenn Sie Abonnements für Microsoft-Dienste für Ihre Kunden einrichten, können Sie den technischen Support für diese Produkte einem festgelegten Händler zuweisen, anstelle den Support selbst bereitzustellen.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: LauraBrenner
@@ -9,12 +9,12 @@ ms.author: labrenne
 keywords: Hilfeagent, Support, Supportkontakt zuweisen, zugewiesener Supportkontakt
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5dbfe3ef49840983b037a6716fad0674e28df4e9
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 7e5478e5598fe5f1acc11fe0dde49e9ffd019394
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584393"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134831"
 ---
 # <a name="assign-support-contacts"></a>Zuweisen von Supportkontakten
 

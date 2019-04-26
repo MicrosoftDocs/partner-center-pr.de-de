@@ -6,11 +6,11 @@ description: Die Abrechnung mit Ihren Kunden und die Beantwortung aller Fragen z
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: a345a5594fd0f8cc58910863a7162b96eec37f17
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585763"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132450"
 ---
 # <a name="provide-billing-support"></a>Bereitstellen von Abrechnungssupport
 
@@ -31,7 +31,7 @@ Für die Abrechnung streitigkeiten oder anderen Problemen mit Zahlungen, die Sie
 
 **Siehe auch**
 
--   [Nicht geleisteten Zahlungen, Betrug und Missbrauch besser geschützt](non-payment-fraud-or-misuse.md)
--   [Bieten technischen support](provide-technical-support.md)
+-   [Nichtbezahlung, Betrug oder Missbrauch](non-payment-fraud-or-misuse.md)
+-   [Bereitstellen von technischem Support](provide-technical-support.md)
 -   [Kundensupport](customer-support.md)
 

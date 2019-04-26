@@ -6,11 +6,11 @@ description: Partner können Abonnements an Kunden verkaufen und über Partner C
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 3f4a346d38e9823b46c48ec900f34473434e2be9
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586663"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132431"
 ---
 # <a name="customer-subscriptions"></a>Kundenabonnements
 
@@ -24,7 +24,7 @@ Hinzufügen, aktualisieren, Anhalten und Verwalten von Abonnements Ihrer Kunden 
 -   [Erstellen eines neuen Abonnements](create-a-new-subscription.md)
 -   [Zuweisen von Lizenzen an Benutzer](assign-licenses-to-users.md)
 -   [Aussetzen eines Abonnements](suspend-a-subscription.md)
--   [Upgrade eines vorhandenen Abonnements](add-licenses-or-services-to-an-existing-subscription.md)
+-   [Upgrade eines bestehenden Abonnements](add-licenses-or-services-to-an-existing-subscription.md)
 
 >**Wichtig**<br>Verwenden von Partner Center betrieben von 21Vianet zum Verwalten Ihrer Kunden *Abonnements*. Verwenden Sie das Administrationscenter für Office 365 von 21Vianet betrieben wird, zum Verwalten Ihrer Kunden *Benutzer*. 
  

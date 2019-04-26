@@ -1,18 +1,18 @@
 ---
 title: An spezielle Branchen verkaufen | Partner Center
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Microsoft bietet spezielle, wobei das reduzierte Preise für ausgewählte Gruppen von Kunden, einschließlich der Education-Kunden, gemeinnützige Organisationen und Government-Benutzer.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cef6e3cc6b5bb25593ae150351121793de26cb3e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585753"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135660"
 ---
 # <a name="sell-to-specialized-industries"></a>An spezielle Branchen verkaufen
 
@@ -49,7 +49,7 @@ Nachdem Sie und der Kunde für ein Sonderangebotsprogramm qualifiziert wurden, f
 
 ## <a name="see-also"></a>Siehe auch
 
-[Verkaufen Sie Minecraft: Education Edition-Abonnements für Kunden im Bildungswesen](minecraft-subscriptions.md)
+[Verkaufen von Abonnements für Minecraft: Education Edition-Abonnements für Kunden im Bildungswesen](minecraft-subscriptions.md)
 
 
  

@@ -21,20 +21,20 @@ ms.locfileid: "62133922"
 -  Partner Center
    
 > [!NOTE]  
->  Wenn Sie das Programm (Cloud Solution Provider, CSP) in Microsoft Cloud Deutschland registriert sind, finden Sie unter [benutzerverwaltung in Partner Center für Microsoft Cloud Deutschland](user-management-in-partner-center-for-microsoft-cloud-germany.md) Informationen zum Zurücksetzen des Kennworts eines Benutzers.
+>  Wenn Sie als Cloud-Lösungsanbieter (CSP) für das Microsoft-Cloud Deutschland-Programm registriert sind, finden Sie unter [Benutzerverwaltung im Partner Center für Microsoft-Cloud Deutschland](user-management-in-partner-center-for-microsoft-cloud-germany.md) Informationen zum Zurücksetzen des Kennworts eines Benutzers.
 
 Wenn Benutzer ihr Kennwort vergessen, weisen Sie ihnen ein neues temporäres Kennwort zu. Sie können es für die nächste Anmeldung beim Partner Center verwenden.
 
-**Zurücksetzen eines Benutzerkennworts als Administrator**
+**Zurücksetzen von Benutzerkennwörtern als Administrator**
 
-1.  Wechseln Sie zu **Einstellungen** &gt; **benutzerverwaltung**.
+1.  Wechseln Sie zu **Einstellungen** &gt; **Benutzerverwaltung**.
 2.  Wählen Sie den Benutzer aus der Liste aus.
 
 3.  Wählen Sie unten auf der Seite **Kennwort zurücksetzen** aus.
 
 4.  Es wird ein Bestätigungsbildschirm mit einem temporären Kennwort für den neuen Anmeldenamen angezeigt. Sie müssen das Kennwort kopieren und an den neuen Benutzer senden. Nach Verlassen des Bildschirms ist es nicht mehr verfügbar. Wenn der Benutzer sich zum ersten Mal anmeldet, wird er zum Aktualisieren des Kennworts aufgefordert.
 
-**Zurücksetzen Sie Ihres eigenen Kennworts**
+**Zurücksetzen des eigenen Kennworts**
 
 1.  Melden Sie sich beim Partner Center an. Wählen Sie dann am oberen Bildschirmrand Ihren Namen aus, und wählen Sie **Mein Profil** aus.
 

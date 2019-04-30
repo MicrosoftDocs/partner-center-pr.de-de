@@ -32,29 +32,29 @@ Für jedes neues Feature können Sie folgende Aktionen ausführen:
 
 - Informieren Sie sich über das Feature und entscheiden Sie, ob Sie es ausprobieren möchten, indem Sie in der Featurebeschreibung **Weitere Informationen** auswählen. 
 
-- Anweisungen zum Testen des Features
+- Suchen Sie Anweisungen zum Testen des Features.
 
-- Finden Sie in unserem Zieldatum für die ein Feature für die Vorschau und unser Ziel testmarkt für verfügbar machen, wenn wir die Funktion an der worldwide Partner Center-Community freigeben müssen.
+- Sie sehen unser Zieldatum für die Bereitstellung eines Features für die Vorschau und unser Zieldatum für die Veröffentlichung des Features in der weltweiten Partner Center-Community.
 
 > [!NOTE]  
 >  Mit *Zieldatum für die Veröffentlichung* meinen wir das geplante Datum der Veröffentlichung des Features für alle weltweiten Partner Center-Benutzer. Jedoch können mehrere Faktoren das Veröffentlichungsdatum beeinflussen, einschließlich einer Entscheidung, Feedback zu integrieren, das das Feature verbessert. Wir können das Veröffentlichungsdatum verschieben oder keine kommerzielle Version des Features veröffentlichen.  
 
-- Aktivieren Sie die Feature-Vorschau, indem Sie den Schiebregler auf **Ein** schieben.
+- Aktivieren Sie die Featurevorschau, indem Sie den Schieberegler auf **Ein** schieben.
 
 > [!NOTE]  
->  Nur globale Administratoren und Admin-Agents können Vorabversionen von Features aktivieren. Allerdings können alle Partner Center-Benutzer die Vorschaufeatures sehen und verwenden, wenn sie über die entsprechenden Berechtigungen verfügen.
+>  Nur globale Administratoren und Administrator-Agents können Vorabversionen von Features aktivieren. Allerdings können alle Partner Center-Benutzer die Vorschaufeatures sehen und verwenden, wenn sie über die entsprechenden Berechtigungen verfügen.
  
-## <a name="tell-us-what-you-think"></a>Teilen Sie uns Ihre Meinung mit.
+## <a name="tell-us-what-you-think"></a>Teilen Sie uns Ihre Meinung mit
 
-Unser Ziel bei allem, das wir für Partner Center entwickeln, ist es, Ihnen zu ermöglichen, mehr zu erreichen. Wir möchten unsere Bemühungen auf Features und Funktionen konzentrieren, mit denen Sie Ihre Umsätze steigern können. Daher laden wir Sie zum Testen neuer Features und Mitteilen von Feedback dazu ein, bevor die Features in der weltweiten Partner Center-Community verfügbar sind. 
+Unser Ziel bei allem, das wir für Partner Center entwickeln, ist es, Ihnen zu ermöglichen, mehr zu erreichen. Wir möchten unsere Bemühungen auf Features und Funktionen konzentrieren, mit denen Sie Ihre Umsätze steigern können. Daher laden wir Sie zum Testen neuer Features sowie zur Abgabe Ihres Feedbacks dazu ein, bevor die Features in der weltweiten Partner Center-Community verfügbar sind. 
 
 Wir bitten Sie, Ihre Ideen und Gedanken über eine bestimmte Vorschauversion oder über Partner Center als Ganzes zu teilen und neue Features vorzuschlagen, die Sie gerne auf der Website sehen möchten. Zur Übermittlung von Feedback können Sie:  
 
--   Das Feedback-Formular in der unteren rechten Ecke des Partner Center-Fensters verwenden, um Ihr Feedback direkt an uns zu senden. 
+-   Das Feedbackformular in der unteren rechten Ecke des Partner Center-Fensters verwenden, um Ihr Feedback direkt an uns zu senden. 
 
--   Support anfordern, wenn Probleme mit einem Vorschaufeature auftreten. Wählen Sie zum Erstellen einer Supportanfrage **Supportanfragen > Partner Center-Anfragen** aus der **Partner Center** Menü, und wählen Sie dann **neue Anforderung** auf die **Partner Center-Anfragen** Seite.
+-   Support anfordern, wenn Probleme mit einem Vorschaufeature auftreten. Wählen Sie zum Erstellen einer Supportanfrage **Supportanfragen > Partner Center-Anfragen** im Menü **Partner Center** und dann **Neue Anforderung** auf der Seite **Partner Center-Anfragen** aus.
 
 Helfen Sie uns, Ihnen zu helfen.
 
--- Ihr Partner Center-Team
+-- Das Partner Center-Team
 

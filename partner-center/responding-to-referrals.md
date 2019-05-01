@@ -1,8 +1,8 @@
 ---
-title: Antworten auf Empfehlungen | Partner Center
+title: Reaktion auf Empfehlungen | Partner Center
 ms.topic: article
 ms.date: 03/11/2019
-description: Als qualifizierter Microsoft-Partner können Sie bewerten, aushandeln und Antworten auf Empfehlungen über Partner Center.
+description: Als qualifizierter Microsoft-Partner können Sie Empfehlungen über das Partner Center bewerten, verhandeln und beantworten.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Empfehlung, RFI, Partner suchen
@@ -21,49 +21,49 @@ ms.locfileid: "62133926"
 
 -  Partner Center
 
-Als qualifizierter Microsoft-Partner können Sie potenzielle geschäftliche Leads durch Verweise erhalten. Im Partner Center können eingehende Leads zu verwalten, schnelles reagieren auf sind gut geeignet, und überspringen oder solche, die nicht ablehnen. 
+Als qualifizierter Microsoft-Partner können Sie potenzielle Geschäftsleads über Empfehlungen erhalten. Im Partner Center können Sie eingehende Leads verwalten, schnell auf passende Leads reagieren und diejenigen, die nicht passen, überspringen oder ablehnen. 
 
 ## <a name="referral-management"></a>Empfehlungsverwaltung
 
-Beginnen Sie durch das Einrichten eines [Unternehmensprofils](create-a-marketing-profile.md) für jede Region, in der Sie Geschäfte tätigen. Sobald Ihr Profil aktiviert ist, können wir Kunden an Ihr Unternehmen weiterleiten und zwar durch:
+Beginnen Sie mit dem Einrichten eines [Unternehmensprofils](create-a-marketing-profile.md) für jede Region, in der Sie Geschäfte tätigen. Sobald Ihr Profil aktiviert ist, können wir Kunden an Ihr Unternehmen weiterleiten und zwar durch:
 
 *  Microsoft-Marketingaktivitäten
-*  interne Vertriebs- und Dienstvertreter von Microsoft
-*  Kunden suchen, mit der **[Lösungsanbieter](https://www.microsoft.com/solution-providers/home)** Suchtool.
+*  Interne Vertriebs- und Servicevertreter von Microsoft
+*  Kundensuche mithilfe des Suchtools für **[Lösungsanbieter](https://www.microsoft.com/solution-providers/home)**.
 
-Wenn ein Kunde mehr über Ihre Lösungen und Diensten interessiert ist, werden Sie durch Senden einer Anforderung Informationen (RFI Angreifen) kontaktiert werden. Der Kontakt in Ihrer [Geschäftsprofil](create-a-marketing-profile.md) speziell für die Region und den Standort ausgewählt haben, erhalten eine vom System generierte e-Mail-Adresse. Sie können auch eingehende RFIs im Partner Center anzeigen, indem Sie zu **Verweise > Kunden Verweise**.
+Wenn ein Kunde an weiteren Informationen über Ihre Lösungen und Dienste interessiert ist, kontaktiert er Sie durch Absenden einer Informationsanfrage. Der Kontakt in Ihrem [Unternehmensprofil](create-a-marketing-profile.md), das speziell für die ausgewählte Region und den ausgewählten Standort gilt, empfängt dann eine vom System generierte E-Mail. Sie können auch eingehende Informationsanfragen im Partner Center anzeigen, indem Sie zu **Empfehlungen > Kundenempfehlungen** wechseln.
 
-Kunden senden häufig die gleiche RFI an mehrere Unternehmen gleichzeitig. Um Ihre Chancen für eine erfolgreiche zu erhöhen, empfehlen wir akzeptieren oder ablehnen von neuen Verweise innerhalb von 24 Stunden oder weniger.
+Kunden senden häufig die gleiche Informationsanfrage an mehrere Unternehmen gleichzeitig. Um Ihre Erfolgschancen zu erhöhen, empfehlen wir, innerhalb von maximal 24 Stunden neue Empfehlungen zu akzeptieren oder abzulehnen.
 
 ### <a name="new-referrals"></a>Neue Empfehlungen
 
-In Ihrer **Posteingang**, zeigen wir Ihnen einen Überblick über die RFI. Von hier aus können Sie entscheiden, ob Sie die Referenz interessiert sind. 
+In Ihrem **Posteingang** zeigen wir zeigen Ihnen eine Übersicht der Informationsanfragen. Hier können Sie entscheiden, ob Sie an der jeweiligen Empfehlung interessiert sind. 
 
-Überprüfen Sie die Details, und den Kunden zu kontaktieren, wenn Sie weitere Informationen zu ihren geschäftlichen Anforderungen möchten Sie gerne. Klicken Sie dann akzeptieren Sie oder ablehnen Sie der referenzdienstdateien: 
+Überprüfen Sie die Details, und kontaktieren Sie den Kunden, wenn Sie sich weiter über seine geschäftlichen Anforderungen informieren möchten. Nehmen Sie dann die Empfehlung an, oder lehnen Sie sie ab: 
 
-*  **Akzeptieren Sie**: Geben Sie den geschätzten viel-Wert, der erwartete Enddatum aus, und wählen **Accept**. Anschließend verschieben wir die Weiterleitung an **Active**, was bedeutet, Sie planen, aktiv mit den Kunden in Verbindung setzen, ihren Zweck. Wir verwenden auch diese Informationen, mit denen Sie, dass in Zukunft ähnliche behandelt.
-*  **Ablehnen**: Wir werden diese als archivieren **abgelehnt** und benachrichtigen den Kunden an einen anderen Partner auswählen.
+*  **Annehmen**: Geben Sie den geschätzten Geschäftswert und das geschätzte Enddatum ein, und wählen Sie **Annehmen**. Wir verschieben die Empfehlung unter **Aktiv**, was bedeutet, dass Sie aktiv mit dem Kunden zusammenarbeiten möchten, um ihn bei der Lösungsfindung zu unterstützen. Wir verwenden diese Informationen außerdem, um zukünftig ähnliche Angebote zu finden.
+*  **Ablehnen**: Wir archivieren die Empfehlung als **Abgelehnt** und benachrichtigen den Kunden, dass er einen anderen Partner wählen sollte.
 
-Wenn Sie innerhalb des vorgesehenen Zeitraums (derzeit 14 Tage) nicht reagieren, werden wir sie als archivieren **abgelaufen** und benachrichtigen den Kunden an einen anderen Partner auswählen.
+Wenn Sie nicht innerhalb des vorgesehenen Zeitraums (derzeit 14 Tage) reagieren, archivieren wir die Empfehlung als **Abgelaufen** und benachrichtigen den Kunden, dass er einen anderen Partner wählen sollte.
 
 ### <a name="active-referrals"></a>Aktive Empfehlungen
 
-Bemühen Sie sich, das Geschäft mit dem Kunden abzuschließen. Wenn Sie fertig sind, wählen Sie **gewonnen** oder **Lost** um das Ergebnis zu melden, damit wir es entsprechend archivieren kann.
+Bemühen Sie sich, das Geschäft mit dem Kunden abzuschließen. Wenn Sie fertig sind, wählen Sie **Gewonnen** oder **Verloren** aus, um das Ergebnis zu melden, damit wir es entsprechend archivieren können.
 
 ### <a name="archived-referrals"></a>Archivierte Empfehlungen
 
-Überprüfen Ihrer letzten Verweise (**gewonnen haben, verloren gehen, abgelehnt** oder **abgelaufen**) zu einem beliebigen Zeitpunkt. 
+Sie können Ihre letzten Empfehlungen (**gewonnen, verloren, abgelehnt** oder **abgelaufen**) jederzeit überprüfen. 
 
 ## <a name="getting-more-referrals"></a>Erhalten weiterer Empfehlungen
 
-Hier sind einige Tipps, die Ihnen dabei helfen, Weitere Verweise, die für Ihr Unternehmen geeignet sind:
+Hier sehen Sie einige Tipps, wie Sie weitere Empfehlungen erhalten, die für Ihr Unternehmen geeignet sind:
 
-*  **Wählen Sie Schlüsselwörter und Einstellungen, die Ihr einzigartiges Expertenwissen und Geschäftsmodell darstellen,** in Ihrem [Unternehmensprofil](create-a-marketing-profile.md). Entfernen Sie Schlüsselwörter, die Empfehlungen generieren würden, die für Sie nicht interessiert sind. Wenn Sie nicht an Unternehmen einer bestimmten Größe interessiert sind, aktualisieren Sie diese Einstellung.
+*  **Wählen Sie in Ihrem [Unternehmensprofil](create-a-marketing-profile.md) Schlüsselwörter und Einstellungen aus, die Ihr einzigartiges Expertenwissen und Geschäftsmodell darstellen**. Entfernen Sie Schlüsselwörter, die Empfehlungen generieren würden, die für Sie nicht interessant sind. Wenn Sie nicht an Unternehmen einer bestimmten Größe interessiert sind, aktualisieren Sie diese Einstellung.
 
 *  **Überprüfen Sie Ihre Kontaktinformationen in Ihrem [Unternehmensprofil](create-a-marketing-profile.md)** für jeden Standort, um sicherzustellen, dass Ihr Team eingehende Benachrichtigungen erhält.
 
-*  **Reagieren Sie schnell auf Empfehlungen**. Wenn Sie rechtzeitig auf eingehende Anfragen reagieren, erhöhen wir Ihre Sichtbarkeit in künftigen Suchergebnissen von Kunden. Stellen Sie sicher, dass Ihr Team schnell reagiert.
+*  **Reagieren Sie schnell auf Empfehlungen**. Wenn Sie zeitnah auf eingehende Anfragen reagieren, erhöhen wir Ihre Sichtbarkeit in künftigen Suchergebnissen von Kunden. Stellen Sie sicher, dass Ihr Team in Ihrem Sinne schnell reagiert.
 
-*  **Seien Sie bei den Angeboten, die Sie akzeptieren, wählerisch**. Wir überwachen die Art der Angebote, die Sie akzeptieren und ablehnen, und helfen Ihnen anhand dieser Informationen ähnliche Angebote ausfindig zu machen. Wenn Sie Angebote akzeptieren, die sich nicht gut eignen, werden Ihre Suchergebnisse nicht verbessert und die Qualität der erhaltenen Leads kann beeinträchtigt werden.
+*  **Seien Sie bei den Angeboten, die Sie akzeptieren, wählerisch**. Wir überwachen die Art der Angebote, die Sie akzeptieren und ablehnen, und helfen Ihnen, anhand dieser Informationen ähnliche Angebote ausfindig zu machen. Wenn Sie Angebote akzeptieren, die nicht gut zu Ihnen passen, werden Ihre Suchergebnisse nicht verbessert, und die Qualität der erhaltenen Leads kann sich verschlechtern.
 
-*  **Melden Sie den geschätzten Geschäftsumfang, Enddatum und den endgültigen Status Ihrer Geschäfte**  (gewonnen oder verloren). Wir verwenden diese Informationen, um Ihnen weiterhin Empfehlungen hoher Qualität bereitzustellen.
+*  **Melden Sie den geschätzten Geschäftsumfang, Enddatum und den endgültigen Status Ihrer Geschäfte**  (gewonnen oder verloren) zurück an uns. Wir verwenden diese Informationen, um Ihnen weiterhin Empfehlungen von hoher Qualität bereitzustellen.

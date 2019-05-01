@@ -2,7 +2,7 @@
 title: Kundenselbsthilfe | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
-description: Kunden können eigene Microsoft Office 365 Administrationscenter oder das Azure-Verwaltungsportal anmelden und ihre eigenen Konten verwalten. Kunden müssen Kontakt zu ihrem Cloud-Lösungsanbieter aufnehmen, um zusätzliche Abonnements zu kaufen oder ihre Abonnements zu beenden.
+description: Kunden können sich bei ihrem eigenen Microsoft Office 365 Admin Center oder Azure-Verwaltungsportal anmelden und ihre eigenen Konten verwalten. Kunden müssen Kontakt zu ihrem Cloud-Lösungsanbieter aufnehmen, um zusätzliche Abonnements zu kaufen oder ihre Abonnements zu beenden.
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
 ms.author: evansma
@@ -32,7 +32,7 @@ Kunden können sich in ihrem eigenen Microsoft Office 365 Admin Center oder Azur
 
 Kunden müssen Kontakt zu ihrem Cloud-Lösungsanbieter aufnehmen, um zusätzliche Abonnements zu kaufen oder ihre Abonnements zu beenden. Kunden können ihre eigenen Microsoft-Abonnements nicht direkt ändern.
 
-Wenn Kunden Unterstützung bei Produkten benötigen, finden sie Produktressourcen unter [Support](https://partnercenter.microsoft.com/partner/support). Wir empfehlen Partnern als ersten Schritt, Kunden auf diese Ressourcen hinzuweisen.
+Wenn Kunden Unterstützung bei Produkten benötigen, können sie unter [Support](https://partnercenter.microsoft.com/partner/support)nach Produktressourcen suchen. Wir empfehlen Partnern als ersten Schritt, Kunden auf diese Ressourcen hinzuweisen.
 
  
 

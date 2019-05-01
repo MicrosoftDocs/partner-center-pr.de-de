@@ -6,7 +6,7 @@ description: Sie können dem Konto eines Kunden mehrere Benutzer gleichzeitig hi
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Stapelweises Hochladen, mehrere Benutzer einem Kundenkonto hinzufügen, Kunden eines Benutzers hinzufügen, stapelweises Hochladen der Benutzer des Kunden, Kundenkonto, Kunden des Benutzers, Benutzer
+keywords: Massenupload, einem Kundenkonto mehrere Benutzer hinzufügen, Benutzer eines Kunden hinzufügen, Massenupload der Benutzer eines Kunden, Kundenkonto, Kundenbenutzer, Benutzer
 ms.localizationpriority: medium
 ms.openlocfilehash: b113736330b201ed6a4d1c6b8915e844b80fe5d5
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
@@ -21,9 +21,9 @@ ms.locfileid: "62134530"
 
 -  Partner Center
 
-Sie können mehrere Benutzer gleichzeitig, um ein Kundenkonto hinzufügen, durch Hochladen von einer Datendatei im CSV-Format (.csv) in das Partner Center. Können Sie eine Datei mit Beispieldaten im Partner Center herunterladen und bearbeiten Sie es für Ihre Verwendung, oder Sie können eine neue Datei mit dem unten definierten Datenmodell erstellen.
+Sie können dem Konto eines Kunden mehrere Benutzer gleichzeitig hinzufügen, indem Sie eine Datendatei im CSV-Format in das Partner Center hochladen. Sie können eine Beispieldatendatei aus dem Partner Center herunterladen und sie für Ihre Zwecke anpassen oder anhand des unten definierten Datenmodells eine neue Datendatei erstellen.
 
-## <a href="" id="creatingtheimportcsvfile"></a>Anforderungen an die Datei
+## <a href="" id="creatingtheimportcsvfile"></a>Anforderungen an die Datendatei
 
 
 Damit Sie mit dem Massenupload mehrere Benutzer zum Konto eines Kunden hinzufügen können, müssen die folgenden Voraussetzungen erfüllt sein:
@@ -38,34 +38,34 @@ Geben Sie die folgenden Daten in die Datendatei ein:
 
 |                 |                                                                              |                                            |
 |-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **Name der Spalte** | **Beschreibung**                                                              | **Limitation**                             |
+| **Spaltenname** | **Beschreibung**                                                              | **Einschränkung**                             |
 | Vorname      | Vorname des Benutzers (optionales Feld)                                           | Begrenzung von 50 Zeichen                         |
 | Nachname       | Nachname des Benutzers (optionales Feld)                                            | Begrenzung von 50 Zeichen                         |
-| Anzeigename    | Anzeigenamen im Partner Center (Pflichtfeld)                            | Begrenzung von 50 Zeichen                         |
+| Anzeigename    | Der im Partner Center angezeigte Name (erforderliches Feld)                            | Begrenzung von 50 Zeichen                         |
 | E-Mail           | Geschäftliche E-Mail-Adresse des Benutzers beim Kundenunternehmen (erforderliches Feld)           | Jeder Benutzer muss eine eindeutige E-Mail-Adresse besitzen. |
-| Statusupdate   | Hiermit wird angegeben, ob der Datensatz des neuen Benutzers erfolgreich erstellt wurde. | \*\*Leer lassen\*\*                        |
+| Statusupdate   | Hiermit wird angegeben, ob der Datensatz des neuen Benutzers erfolgreich erstellt wurde. | \*\*Keine Angabe\*\*                        |
 
  
 
-### <a href="" id="createmultipleuseraccounts"></a>Um mehrere Benutzerkonten zu erstellen.
+### <a href="" id="createmultipleuseraccounts"></a>So erstellen Sie mehrere Benutzerkonten
 
 <a href="" id="creatingtheaccounts"></a>
 1.  Erstellen Sie eine durch Trennzeichen getrennte Datendatei (.csv) mit den oben beschriebenen Daten. Speichern Sie die Datei, sodass Sie in einem späteren Schritt zu dieser Datei navigieren können.
-2.  Von der **Partner Center** , wählen Sie im Menü **Kunden**, wählen Sie dann einen Kunden aus der Liste.
+2.  Wählen Sie im Menü **Partner Center** die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 3.  Wählen Sie **Upload users**.
 4.  Wählen Sie unter **Upload user info** die Option **Durchsuchen**.
 5.  Wählen Sie in der Dateiauswahl Ihre Datendatei aus, und klicken Sie dann auf **Öffnen**.
 6.  Wählen Sie **Überprüfen**.
 
-    **Beachten Sie**  die meisten Fehler bei der kontoerstellung werden durch Dateiprobleme für Daten, z.B. durch fehlende Informationen, ungültige oder doppelte e-Mail-Adressen oder zu viele Einträge in der Datei verursacht.
+    **Hinweis**  Die meisten Fehler bei der Kontoerstellung werden durch Datendateiprobleme verursacht, beispielsweise durch fehlende Informationen, falsch formatierte oder doppelte E-Mail-Adressen oder eine zu große Anzahl von Datensätzen in der Datei.
 
-7.  Nachdem der Partner Center die Datei überprüft hat, wählen Sie den geografischen **Speicherort** für neue Benutzer.
+7.  Wählen Sie nach der Überprüfung der Datei durch das Partner Center den geografischen **Standort** für die neuen Benutzer aus.
 8.  Wählen Sie **Speichern**.
 9.  Laden Sie die Informationen zum temporären Kennwort für die Benutzer herunter.
 
-**WICHTIG:** Achten Sie darauf, dass Sie zum Herunterladen der Datei mit den temporären Kennwörtern nun, da Sie dies später vornehmen, können nicht. Neue Benutzer müssen sich mit dem temporären Kennwort für die neuen Konten beim neuen Konto anmelden.
+**WICHTIG:** Laden Sie die Datei mit den temporären Kennwörtern unbedingt jetzt herunter, weil dies später nicht mehr möglich ist. Neue Benutzer müssen sich mit dem temporären Kennwort für die neuen Konten beim neuen Konto anmelden.
 
-10. Neuen Benutzern werden automatisch die Berechtigungen **Can use licenses and services** zugewiesen. 
+10. Neuen Benutzern werden automatisch die Berechtigungen **Kann Lizenzen und Dienste nutzen** zugewiesen. 
 
  
 

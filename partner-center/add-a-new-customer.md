@@ -6,7 +6,7 @@ description: Damit Sie Abonnements verkaufen, die Abrechnung verwalten oder Supp
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Kunden, Kunden hinzufügen, Kundenkonto, Kundenkonto im Partner Center, Hinzufügen von Kunden, Kundenkonto erstellen
+keywords: Kunde, Kunde hinzufügen, Kundenkonto, Kundenkonto im Partner Center, Kunden, Kunden hinzufügen, Kundenkonto erstellen
 ms.localizationpriority: medium
 ms.openlocfilehash: b086796f6907b4ff4705b7c2fe1965b7d2adceff
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
@@ -22,35 +22,35 @@ ms.locfileid: "62134480"
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
 
-Bevor Sie können Abonnements zu verkaufen, Verwalten der Abrechnung oder Unterstützung für einen Kunden bieten, müssen Sie diese der Liste mit den Kunden im Partner Center hinzufügen.
+Bevor Sie einem Kunden Abonnements verkaufen, die Abrechnung verwalten oder ihm Unterstützung bieten können, müssen Sie den Kunden zu Ihrer Kundenliste im Partner Center hinzufügen.
 
 >[!NOTE]
->Für bestehende Kunden, einschließlich derer, die bereits Kunden haben zeichnet im Partner Center über ein [mit mehreren Kanälen](multichannel.md) oder [Multipartner](multipartner.md) Szenario können Sie [anfordern eine Beziehung mit Diese](request-a-relationship-with-a-customer.md), statt die Schritte hier.
+>Für bestehende Kunden, einschließlich derer, für die aufgrund eines [Multichannel](multichannel.md)- oder [Multipartner](multipartner.md)-Szenarios bereits Kundendatensätze im Partner Center vorhanden sind, können Sie [eine Kundenbeziehung anfordern](request-a-relationship-with-a-customer.md), statt die hier aufgeführten Schritte auszuführen.
 
-### <a name="to-add-a-new-customer-in-partner-center"></a>Zum Hinzufügen eines neuen Kunden im Partner Center
+### <a name="to-add-a-new-customer-in-partner-center"></a>So fügen Sie einen neuen Kunden im Partner Center hinzu
 
-1. Wählen Sie **Kunden** aus der Partner Center-Menü, und wählen Sie dann **Kunden hinzufügen**.
+1. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann **Kunde hinzufügen** aus.
 
-2. Auf der **Kontoinformationen** Seite, geben Sie Details und die primären Kontaktinformationen des Kunden, und stellen Sie sicher, dass der Kunde hat akzeptiert und die neueste Version signiert [Vertrag zwischen Microsoft Cloud](agreements.md).
+2. Geben Sie auf der Seite **Kontoinformationen** die Details und die primären Kontaktinformationen des Kunden ein, und überprüfen Sie, ob der Kunde den aktuellen [Microsoft Cloud-Vertrag](agreements.md) akzeptiert und unterzeichnet hat.
 
     >[!IMPORTANT]
-      > Ab dem 7. November 2018, müssen Sie bestätigen, dass ein Kunde die Microsoft-Cloud-Vertrag akzeptiert hat, durch die Bereitstellung von Informationen über die Person, die es signiert. Finden Sie unter [bestätigen, dass Kunden der Microsoft-Cloud-Vereinbarung](confirm-consent.md) Weitere Details.
+      > Seit dem 7. November 2018 müssen Sie bestätigen, dass ein Kunde dem Microsoft Cloud-Vertrag zugestimmt hat, indem Sie Informationen über die Person bereitstellen, die den Vertrag unterzeichnet hat. Ausführlichere Informationen finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](confirm-consent.md).
 
-3. Wenn Sie ein indirekter Anbieter sind, wählen Sie die indirekten Vertriebspartners, die mit diesem Kunden Abonnements aus der Liste zugeordnet werden soll.
+3. Wenn Sie ein indirekter Anbieter sind, wählen Sie in der Liste den indirekten Vertriebspartner aus, den Sie den Abonnements dieses Kunden zuordnen möchten.
 
-4. Wählen Sie **weiter: Abonnements** Wenn Sie alle erforderlichen Informationen eingegeben haben.
+4. Wählen Sie **Weiter: Abonnements** aus, nachdem Sie alle erforderlichen Informationen eingegeben haben.
 
-5. Auf der **Abonnements** Seite, wählen Sie die Angebote, die Ihr Kunde möchte aus von Ihnen kaufen, geben die Anzahl der Lizenzen, und wählen Sie dann **weiter: Überprüfen Sie**.
+5. Wählen Sie auf der Seite **Abonnements** die Angebote aus, die Ihr Kunde von Ihnen erwerben möchte, geben Sie die Anzahl von Lizenzen ein, und wählen Sie dann **Weiter: Überprüfung** aus.
 
-6. Auf der **Review** Seite, überprüfen Sie Ihre Einträge auf Richtigkeit, und wählen Sie dann **senden** , wenn die Informationen richtig sind.
+6. Überprüfen Sie auf der Seite **Überprüfung** Ihre Einträge auf Richtigkeit, und wählen Sie dann **Senden** aus, wenn die Informationen korrekt sind.
 
     >[!NOTE]
-    >Wenn Sie alle Details des Kunden ändern möchten, wählen Sie **Update** in die **Kontoinformationen** Abschnitt. Wenn Sie Angebote ändern müssen Sie ausgewählt haben, wählen Sie **Update** in die **Abonnements** Abschnitt.
+    >Wenn Sie Kundendetails ändern müssen, wählen Sie im Abschnitt **Kontoinformationen** die Option **Aktualisieren** aus. Wenn Sie die ausgewählten Angebote ändern müssen, wählen Sie im Abschnitt **Abonnements** die Option **Aktualisieren** aus.
 
-7. Wählen Sie **Fertig** Wenn Sie das Hinzufügen der Informationen zu den Kunden abgeschlossen und die erforderlichen Abonnements erworben haben.
+7. Wählen Sie **Fertig** aus, wenn Sie die gewünschten Kundeninformationen hinzugefügt und die erforderlichen Abonnements erworben haben.
 
 ## <a name="see-also"></a>Siehe auch
 
-- Finden Sie unter [Angebote von Partnern in der Cloud Solution Provider-Programm](csp-offers.md) für Weitere Informationen, was Sie über das Cloud Solution Provider-Programm für Kunden verkaufen können.
+- Weitere Informationen darüber, was Sie Ihren Kunden über das Cloud Solution Provider-Programm zum Verkauf anbieten können, finden Sie unter [Partnerangebote im Cloud Solution Provider-Programm](csp-offers.md).
 
-- Finden Sie unter [Verbinden mit Kunden](customer-accounts.md) für Weitere Informationen zum Zuordnen eines neuen Kunden mit Ihrem Partnerkonto im Partner Center.
+- Weitere Informationen darüber, wie Sie Ihrem Partnerkonto im Partner Center einen neuen Kunden zuordnen, finden Sie unter [Kontakt zu Kunden](customer-accounts.md).

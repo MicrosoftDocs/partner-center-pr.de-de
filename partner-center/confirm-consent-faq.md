@@ -1,11 +1,11 @@
 ---
-title: Bestätigung der Kundenzustimmung zum Microsoft Cloud-Vertrag – Häufig gestellte Fragen | Partner Center
+title: Bestätigung der Kundenzustimmung zum Microsoft Cloud-Vertrag – Häufig gestellte Fragen | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
-Description: Häufig gestellte Fragen zur Bestätigung Kunden
+Description: Häufig gestellte Fragen zur Bestätigung der Kundenzustimmung
 author: LauraBrenner
 ms.author: v-petand
-keywords: Kunden, Kunden, Ihre Zustimmung, häufig gestellte Fragen, MCA, Microsoft Cloud-Vereinbarung
+keywords: Kunde, Kunden, Zustimmung, häufig gestellte Fragen, MCA, Microsoft Cloud-Vertrag
 ms.localizationpriority: medium
 ms.openlocfilehash: 52f38191aefa722b96ca5f104e9af023952bd7d7
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
@@ -14,150 +14,150 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62135010"
 ---
-# <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Bestätigung der Kundenzustimmung zum Microsoft Cloud-Vertrag – Häufig gestellte Fragen
+# <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Bestätigung der Kundenzustimmung zum Microsoft Cloud-Vertrag – Häufig gestellte Fragen
 
 -   [Process](##processfaq)
 
 -   [Richtlinie](#policyfaq)
 
--   [Technische](#technicalfaq)
+-   [Technisch](#technicalfaq)
 
 -   [Weitere Ressourcen](#additionalresourcesfaq)
 
 
-## <a href="" id="processfaq"></a>Prozess
+## <a href="" id="processfaq"></a>Verfahren
 
-**Was ist der neue Prozess für die Bestätigung Kundenakzeptanz des Vertrags, Microsoft Cloud?**
+**Wie sieht das neue Verfahren zur Bestätigung der Zustimmung des Kunden zum Microsoft Cloud-Vertrag (Microsoft Cloud Agreement, MCA) aus?**
 
-Microsoft ist bestrebt, seine Kunden und Partner bei der Einhaltung der Bestimmungen zu unterstützen. Als Partner in das Programm von Microsoft Cloud Solution Provider (CSP) sind Sie für die Überprüfung die Bedingungen von Microsoft und Bedingungen wie die akzeptable Nutzung von Microsoft-Produkte und Dienste mit Kunden verantwortlich. Um Partner in Vorschriften erfüllen besser zu unterstützen, und um Transparenz sicherzustellen, werden wir einen neuen Prozess aktivieren, der CSP-Partner, um sicherzustellen, dass Kunden der Microsoft Cloud-Software-Lizenzbedingungen akzeptiert haben muss. Ab dem 7. August 2018 haben wir ein neues Feld in der Partner Center-Dashboard-Benutzeroberfläche auch eingeführt, ein Partner Center-API für Partner, um diese Informationen bereitzustellen. Zunächst werden diese bestätigen, optional, jedoch werden müssen 7. November 2018 ab. 
+Microsoft ist bestrebt, seine Kunden und Partner bei der Einhaltung der Bestimmungen zu unterstützen. Als Partner des CSP-Programms (Cloud Solution Provider) von Microsoft sind Sie dafür verantwortlich, die Nutzungsbedingungen von Microsoft (einschließlich der akzeptablen Verwendung von Microsoft-Produkten und-Diensten) mit Ihren Kunden zu überprüfen. Um die Partner bei der Erfüllung der Complianceanforderungen besser zu unterstützen und Transparenz zu gewährleisten, ermöglichen wir einen neuen Prozess, bei dem die CSP-Partner bestätigen müssen, dass ihre Kunden den Bestimmungen des Microsoft Cloud-Vertrags zugestimmt haben. Am 7. August 2018 haben wir ein neues Feld in der Benutzeroberfläche des Partner Center-Dashboards und in der Partner Center-API hinzugefügt, in dem Partner diese Informationen bereitstellen können. Anfänglich ist diese Bestätigung optional, sie ist jedoch ab dem 7. November 2018 erforderlich. 
 
-**Wann wirksam diese Anforderung?**
+**Wann wird diese Anforderung wirksam?**
 
-Partner können mit der Bestätigung der Zustimmung beginnen, sobald die Funktionen am 7. August 2018 verfügbar sind. Ab dem 7. November 2018 Partner Center-Dashboard müssen Benutzer bestätigen Sie die Kundenakzeptanz, von der Microsoft-Cloud-Vereinbarung auf alle neuen Transaktionen. 22 März 2019 werden Partner Center-API-Benutzer erforderlich, um das gleiche erreichen. Die Frist für die Benutzer der API-wurde erweitert, damit zusätzliche kann Zeit für die technische Implementierung.
+Partner können mit der Bestätigung der Zustimmung beginnen, sobald die Funktion am 7. August 2018 verfügbar ist. Ab dem 7. November 2018 sind die Benutzer des Partner Center-Dashboards verpflichtet, die Zustimmung des Kunden zum Microsoft Cloud-Vertrag für alle neuen Transaktionen zu bestätigen. Ab dem 22. März 2019 gilt dies auch für Benutzer der Partner Center-API. Die Frist für API-Benutzer wurde verlängert, um ihnen zusätzliche Zeit für die technische Umsetzung zu geben.
 
-**NEUE | Überprüft Microsoft die Genauigkeit der die Kundeninformationen, die vom Partner?**
+**NEU | Überprüft Microsoft die Richtigkeit der vom Partner bereitgestellten Kundeninformationen?**
 
-Microsoft überprüft, ob die angegebenen Kunden-e-Mail-Adresse des richtigen Formats ist. Es ist der Partner verantwortlich, genaue Informationen bereitstellen, und beheben Sie alle Informationen, die gefunden wird, nicht zuverlässig. 
+Microsoft überprüft, ob die angegebene E-Mail-Adresse des Kunden im richtigen Format vorliegt. Es liegt in der Verantwortung des Partners, zutreffende Informationen bereitzustellen und alle Informationen, die sich als unrichtig erweisen, zu korrigieren. 
 
-**NEUE | Wie kann ein Partner die Zustimmung des Kunden der Microsoft Cloud Vereinbarung, Aufschluss über die er dokumentiert werden, signiert, digitalisierte, oder auf Papier?**
+**NEU | Wie kann ein Partner die Zustimmung des Kunden zum Microsoft Cloud-Vertrag nachweisen, unabhängig davon, ob er signiert, dokumentiert, digitalisiert oder auf Papier vorliegt?**
 
-Der Partner ist dafür verantwortlich sicherzustellen, dass der Kunde die Bedingungen des Vertrags, Microsoft Cloud akzeptiert hat und verwalten ihre eigenen Prozess und die Datensätze. Verwenden Sie den Partner Center-Dashboard oder der Partner Center-API-Prozess, ist der Partner bestätigen, dass der Kunde die Bedingungen des Vertrags, Microsoft Cloud akzeptiert hat.
+Der Partner ist dafür verantwortlich, dass der Kunde den Bestimmungen des Microsoft Cloud-Vertrags zugestimmt hat und seine eigenen Prozesse und Aufzeichnungen verwaltet. Mit der Verwendung des Partner Center-Dashboards oder des Partner Center-API-Prozesses bestätigt der Partner, dass der Kunde den Bestimmungen des Microsoft Cloud-Vertrags zugestimmt hat.
 
-**NEUE | Wie ob Microsoft überprüft, der Bestätigungsvorgang für einen Kunden abgeschlossen ist?**
+**NEU | Wie überprüft Microsoft, ob der Bestätigungsprozess für einen Kunden abgeschlossen ist?**
 
-Ab 7. November 2018, wenn ein CSP-Partner für eine Transaktion mit dem Partner Center-Dashboard für einen neuen oder vorhandenen Kunden initiiert, werden die Systeme von Microsoft automatisch überprüft, ob die Bestätigungsinformationen Kunden im Partner Center vorhanden ist Instrumententafel. Wenn sie nicht vorhanden sind, kann die Transaktion nicht abgeschlossen werden. 
+Ab dem 7. November 2018 gilt: Wenn ein CSP-Partner eine Transaktion über das Partner Center-Dashboard für einen neuen oder vorhandenen Kunden initiiert, prüfen die Systeme von Microsoft automatisch, ob die Bestätigungsinformationen des Kunden im Partner Center-Dashboard vorhanden sind. Wenn sie nicht vorhanden sind, kann die Transaktion nicht abgeschlossen werden. 
 
-Ab März 22 2019, wenn ein CSP-Partner eine Transaktion für einen neuen oder vorhandenen Kunden, die mit der Partner Center-API initiiert, überprüft die Systeme von Microsoft automatisch, ob die Bestätigung Kundeninformationen vorhanden ist. Wenn sie nicht vorhanden sind, kann die Transaktion nicht abgeschlossen werden. 
+Ab dem 22. März 2019 gilt: Wenn ein CSP-Partner eine Transaktion für einen neuen oder vorhandenen Kunden mithilfe der Partner Center-API initiiert, prüfen die Systeme von Microsoft automatisch, ob die Bestätigungsinformationen des Kunden vorhanden sind. Wenn sie nicht vorhanden sind, kann die Transaktion nicht abgeschlossen werden. 
 
-**NEUE | Wird die Benachrichtigung an Kunden gesendet, deren e-Mail-Adresse in der Bestätigungsvorgang bereitgestellt wird?**
+**NEU | Wird eine Benachrichtigung an Kunden gesendet, deren E-Mail-Adresse im Benachrichtigungsverfahren angegeben wird?**
 
 Es gibt kein Benachrichtigungsverfahren.
 
 ## <a href="" id="policyfaq"></a>Richtlinie
 
-**Warum wird Microsoft den erfordern Partnern zusammen, um sicherzustellen, dass Kunden der Microsoft-Cloud-Vereinbarung akzeptiert haben?** 
+**Warum verlangt Microsoft von Partnern, dass sie bestätigen, dass Kunden dem Microsoft Cloud-Vertrag zugestimmt haben?** 
 
-Die Microsoft Cloud-Vereinbarung schützt Partner, Kunden und Microsoft, indem sie die Nutzungsrechte und Bedingungen für Kunden bezüglich der Microsoft Cloud Produkte und Serviceaufträge definiert. 
+Der Microsoft Cloud-Vertrag schützt Partner, Kunden und Microsoft, indem er die Nutzungsrechte und Bedingungen für Kunden bezüglich der Microsoft Cloud-Produkt- und -Serviceaufträge definiert. 
 
-Ordnungsgemäße Ausführung der Microsoft-Cloud-Vereinbarung schützt von unseren Partnern, Kunden und Microsoft Leuchten gegenseitige Ausrichtung zu vielen wichtigen Themen, einschließlich aber nicht beschränkt auf Sicherheit, Datenschutz und datensicherheit. Der Bestätigungsvorgang wird sichergestellt, Transparenz und die Ausrichtung und ermöglicht es Microsoft, um Kunden besser zu unterstützen, die umgehend auf gesetzliche Anfragen reagieren müssen.
+Die ordnungsgemäße Ausführung des Microsoft Cloud-Vertrags schützt unsere Partner, Kunden und Microsoft, indem sie eine gegenseitige Abstimmung zu vielen wichtigen Themen gewährleistet, einschließlich (aber nicht beschränkt auf) Sicherheit, Datenschutz und Datensicherheit. Der Bestätigungsprozess sorgt für Transparenz und Abstimmung und ermöglicht es Microsoft, Kunden besser zu unterstützen, die umgehend auf regulatorische Anfragen reagieren müssen.
 
-**Welche Kundeninformationen ist erforderlich, um die Bestätigung abzuschließen?**
-Die folgenden Informationen sind betreffend der Person, die die Vereinbarung akzeptiert hat, erforderlich:
+**Welche Kundeninformationen sind zum Abschluss des Bestätigungsprozesses erforderlich?**
+Die folgenden Informationen sind betreffend der Person, die dem Vertrag zugestimmt hat, erforderlich:
 -   Datum der Zustimmung zum Vertrag
 -   Vor-und Nachname
 -   E-Mail-Adresse
 -   Telefonnummer (optional) 
 
-**NEUE | Was geschieht, wenn wir das Fälligkeitsdatum nicht erfüllt werden?**
+**NEU | Was passiert, wenn wir das Fälligkeitsdatum nicht einhalten?**
 
-Partner können mit der Bestätigung der Zustimmung beginnen, sobald die Funktionen am 7. August 2018 verfügbar sind. Ab dem 7. November 2018 Partner Center-Dashboard müssen Benutzer bestätigen Sie die Kundenakzeptanz, von der Microsoft-Cloud-Vereinbarung auf alle neuen Transaktionen. 22 März 2019 werden Partner Center-API-Benutzer erforderlich, um das gleiche erreichen.
+Partner können mit der Bestätigung der Zustimmung beginnen, sobald die Funktion am 7. August 2018 verfügbar ist. Ab dem 7. November 2018 sind die Benutzer des Partner Center-Dashboards verpflichtet, die Zustimmung des Kunden zum Microsoft Cloud-Vertrag für alle neuen Transaktionen zu bestätigen. Ab dem 22. März 2019 gilt dies auch für Benutzer der Partner Center-API.
 
-Zum Zeitpunkt der Erzwingung werden neue Einkäufe eines vorhandenen Kunden oder Änderungen auf vorhandene Abonnements die Anzahl von Arbeitsplätzen nicht zugelassen, bis die Kundenakzeptanz bestätigt wird. Für einen neuen Kunden sind keine Transaktionen zugelassen, bis die Zustimmung bestätigt wird. Die automatische Verlängerung wird durch diese Anforderung nicht beeinträchtigt.
+Zum Zeitpunkt der Inkraftsetzung sind Neukäufe für einen vorhandenen Kunden oder Änderungen der Arbeitsplatzanzahl bei vorhandenen Abonnements erst nach Bestätigung der Zustimmung des Kunden zulässig. Für einen neuen Kunden sind keine Transaktionen zulässig, bis die Zustimmung bestätigt wird. Die automatische Verlängerung wird durch diese Anforderung nicht beeinträchtigt.
 
-**Angewendet in welchen Regionen wird diese Anforderung?**
+**Für welche Regionen gilt diese Anforderung?**
 
-Bestätigung der Kundenakzeptanz mit der Microsoft-Cloud-Vereinbarung muss für alle Regionen in der öffentlichen Cloud von Microsoft zur Verfügung. Die Bestätigung der Kundenzustimmung wird nicht bei nationalen Clouds (einschließlich Microsoft Cloud for US Government und Microsoft Cloud Deutschland) unterstützt.
+Die Bestätigung der Kundenzustimmung zum Microsoft Cloud-Vertrag ist für alle Regionen unter der Microsoft Public Cloud erforderlich. Die Bestätigung der Kundenzustimmung wird nicht bei nationalen Clouds (einschließlich Microsoft Cloud for US Government und Microsoft Cloud Deutschland) unterstützt.
 
-**Welche Partner sind verantwortlich für die Bestätigung Kundenakzeptanz mit der Microsoft-Cloud-Vereinbarung?**
+**Welche Partner sind für die Bestätigung der Kundenzustimmung zum Microsoft Cloud-Vertrag verantwortlich?**
 
-Effektiv am 7. November 2018, indirekte Anbieter von Cloud-Dienstanbieter (CSP) und direkte CSP-Rechnung-Partner sind beide für die Bestätigung Kundenakzeptanz zuständig und können dazu die Partner Center-API oder die Partner Center-Dashboard verwenden. Indirekte Anbieter müssen zunächst die erforderliche Informationen aus ihrer indirekten Vertriebspartner zu sammeln, und klicken Sie dann an Microsoft über das Partner Center-API oder die Partner Center-Dashboard zur Verfügung stellen. Sich vertraglich zur Einhaltung, ist es an der indirekten Anbieters, wer hat eine Bindung, Vertrag mit Microsoft, um sicherzustellen, dass ihre CSP-Reseller Endkunden mit der Microsoft-Cloud-Vereinbarung akzeptiert haben. 
+Ab dem 7. November 2018 sind Cloud-Dienstanbieter (CSP), indirekte CSP-Anbieter und CSP-Direct-Bill-Partner für die Bestätigung der Kundenzustimmung verantwortlich. Sie können dafür die Partner Center-API oder das Partner Center-Dashboard verwenden. Indirekte Anbieter müssen zunächst die erforderlichen Informationen von ihren indirekten Händlern einholen und diese dann über die Partner Center-API oder das Partner Center-Dashboard Microsoft zur Verfügung stellen. In vertraglicher Hinsicht ist es der indirekte Anbieter, der einen bindenden Vertrag mit Microsoft unterhält, um sicherzustellen, dass die Endkunden ihrer CSP-Händler dem Microsoft Cloud-Vertrag zugestimmt haben. 
 
-**Welche Kundenszenarien Bestätigung der Kundenakzeptanz des Vertrags, Microsoft Cloud erforderlich ist?**
+**Welche Kundenszenarien erfordern eine Bestätigung der Kundenzustimmung des Microsoft Cloud-Vertrags?**
 
-Die Annahme der Microsoft-Cloud-Vereinbarung muss bestätigt werden, wenn der CSP-Partner stellen die folgenden Transaktionen werden soll:
-1.  Ein neuer Kunde abgeschlossen ist, neue Käufen
-2.  Bestandskunde abgeschlossen ist, neue Käufen
-3.  Bestandskunde aktualisiert die Anzahl der Arbeitsplätze für bereits bestehende Abonnements
+Die Zustimmung zum Microsoft Cloud-Vertrag muss bestätigt werden, wenn CSP-Partner die folgenden Transaktionen ausführen möchten:
+1.  Ein neuer Kunde schließt neue Käufe ab.
+2.  Ein vorhandener Kunde schließt neue Käufe ab.
+3.  Ein vorhandener Kunde aktualisiert die Arbeitsplatzanzahl in vorhandenen Abonnements.
 
-**Kann ich bestätigen, dass Sie die für bestehende Kunden, die getrennt von die neue Einkäufe oder Arbeitsplätzen Ergänzungen von?**
+**Kann ich die Zustimmung für vorhandene Kunden getrennt von ihren neuen Einkäufen oder hinzugefügten Arbeitsplätzen bestätigen?**
 
-Ja. Kundenakzeptanz kann für alle Kunden, die von der Microsoft-Cloud-Vereinbarung abgedeckt bestätigt werden.
+Ja. Die Zustimmung kann für alle Kunden bestätigt werden, für die der Microsoft Cloud-Vertrag gilt.
 
-**Was sind die Anforderungen für Kunden mit mehreren CSP-Partner?**
+**Wie lauten die Anforderungen für Kunden, die mehrere CSP-Partner haben?**
 
 Die Bestätigung der Zustimmung wird durch den Partner bestätigt. Wenn ein Kunde mit mehreren CSP-Partnern zusammenarbeitet, muss jeder Partner die Zustimmung bestätigen.
 
-**Ich bin ein indirekter CSP-Vertriebspartner arbeiten mit der indirekten CSP-Anbieter. Was ist meine Aufgabe?**
+**Ich bin ein indirekter CSP-Händler, der mit indirekten CSP-Anbietern zusammenarbeitet. Was sind meine Verantwortlichkeiten?**
 
-Sich vertraglich zur Einhaltung, ist es an der indirekten Anbieters, wer hat eine Bindung, Vertrag mit Microsoft, um sicherzustellen, dass der Kunde die Microsoft-Cloud-Vertrag akzeptiert hat. Indirekte Anbieter haben jedoch möglicherweise separate Vereinbarungen mit indirekten Händlern getroffen, um die Zustimmung der Kunden einzuholen. In diesem Fall müssen indirekte Anbieter zunächst die erforderlichen Informationen zur Kundenzustimmung von ihren indirekten Händlern einholen und diese dann über die Partner Center-API oder das Partner Center-Dashboard Microsoft zur Verfügung stellen. Sie können diesen Prozess unterstützen, indem Sie die erforderlichen Informationen umgehend Ihren indirekten Anbietern auf Nachfrage bereitstellen.
+In vertraglicher Hinsicht ist es der indirekte Anbieter, der einen bindenden Vertrag mit Microsoft unterhält, um sicherzustellen, dass der Endkunde den Microsoft Cloud-Vertrag akzeptiert hat. Indirekte Anbieter haben jedoch möglicherweise separate Vereinbarungen mit indirekten Händlern getroffen, um die Zustimmung der Kunden einzuholen. In diesem Fall müssen indirekte Anbieter zunächst die erforderlichen Informationen zur Kundenzustimmung von ihren indirekten Händlern einholen und diese dann über die Partner Center-API oder das Partner Center-Dashboard Microsoft zur Verfügung stellen. Sie können diesen Prozess unterstützen, indem Sie die erforderlichen Informationen Ihren indirekten Anbietern umgehend auf Nachfrage bereitstellen.
 
-**Ich bin ein indirekter CSP-Anbieter. Muss ich zur Koordinierung mit meinem indirekter CSP-Reseller um vorbereitet zu sein?**
+**Ich bin ein indirekter CSP-Anbieter. Muss ich mich mit meinem indirekten CSP-Händler abstimmen, um vorbereitet zu sein?**
 
 Indirekten Anbietern, die die erforderlichen Informationen zur Kundenzustimmung von ihren indirekten Händlern einholen müssen, wird empfohlen, diese Anforderung den indirekten Händlern umgehend mitzuteilen, um die Bereitstellung und den Erhalt dieser Informationen zu koordinieren.
 
-**Wie kann ich meinen Kunden Erläutern Sie, dass sie ihre Zustimmung der Microsoft Cloud Vereinbarung bestätigen soll?**
+**Wie kann ich meinen Kunden erklären, dass sie ihre Zustimmung zum Microsoft Cloud-Vertrag bestätigen sollten?**
 
-Ordnungsgemäße Ausführung der Microsoft-Cloud-Vereinbarung schützt Microsoft, Partner und Kunden Leuchten gegenseitige Ausrichtung zu vielen wichtigen Themen, einschließlich, aber nicht beschränkt auf Sicherheit, Datenschutz und datensicherheit. Der Bestätigungsvorgang wird sichergestellt, Transparenz und die Ausrichtung und ermöglicht es Microsoft, um Kunden besser zu unterstützen, die umgehend auf gesetzliche Anfragen reagieren müssen.
+Die ordnungsgemäße Ausführung des Microsoft Cloud-Vertrags schützt Microsoft, unsere Partner und Kunden, indem sie eine gegenseitige Abstimmung zu vielen wichtigen Themen gewährleistet, einschließlich (aber nicht beschränkt auf) Sicherheit, Datenschutz und Datensicherheit. Der Bestätigungsprozess sorgt für Transparenz und Abstimmung und ermöglicht es Microsoft, Kunden besser zu unterstützen, die umgehend auf regulatorische Anfragen reagieren müssen.
 
-**NEUE | Wenn ein Kunde mit einem einzigen indirekte CSP-Anbieter funktioniert, aber die Transaktionen mit mehreren indirekte CSP-Reseller abgeschlossen sind, muss jede indirekter CSP-Reseller für die Informationen zur Bestätigung der indirekten CSP-Anbieter bereit?**
+**NEU | Wenn ein Kunde mit einem einzelnen indirekten CSP-Anbieter zusammenarbeitet, die Transaktionen aber mit mehreren indirekten CSP-Händlern abgeschlossen werden, muss dann jeder indirekte CSP-Händler dem indirekten CSP-Anbieter die Bestätigungsinformationen zur Verfügung stellen?**
 
-Die indirekten CSP-Anbieter ist für die Bereitstellung der Bestätigungs des Microsoft Cloud Vertrag Kundenakzeptanz an Microsoft verantwortlich. Für jedes Kundenkonto kann nur eine Bestätigung im Partner Center-Dashboard auf einmal erfasst werden. 
+Der indirekte CSP-Anbieter ist dafür verantwortlich, die Bestätigung der Zustimmung des Kunden zum Microsoft Cloud-Vertrag an Microsoft zu übermitteln. Für jedes Kundenkonto kann nur eine Bestätigung gleichzeitig im Partner Center-Dashboard erfasst werden. 
 
-Die indirekten CSP-Anbieter ist verantwortlich für die Bestätigung, dass eine Kunde Kontaktperson verantwortlich für Ihre Bereitschaft zur Microsoft Cloud-Verträgen, unabhängig von der Anzahl der indirekte CSP-Reseller, die sie geschehen ist mit transact.
+Der indirekte CSP-Anbieter ist für die Bestätigung verantwortlich, dass eine Kundenkontaktperson, die für die Zustimmung zum Microsoft Cloud-Vertrag verantwortlich ist, diese Zustimmung erteilt hat, und zwar unabhängig von der Anzahl der indirekten CSP-Händler, mit denen eine Zusammenarbeit erfolgt.
 
-**NEUE | Wer sollte die autorisierte Person sind, bestätigen Sie die Microsoft-Cloud-Zustimmung innerhalb der Organisation des Kunden sein?**
+**NEU | Wer sollte die autorisierte Person sein, die die Zustimmung zum Microsoft Cloud-Vertrag innerhalb der Kundenorganisation bestätigt?**
 
-Es ist der Partner verantwortlich Kundenakzeptanz des Vertrags, Microsoft Cloud aus einer Person in der Organisation des Kunden abgerufen. Es ist der Verantwortung des Kunden um zu bestimmen, wer berechtigt ist, zu akzeptieren. 
+Es liegt in der Verantwortung des Partners, die Zustimmung des Kunden zum Microsoft Cloud-Vertrag von einer Person innerhalb des Kundenunternehmens zu erhalten. Es liegt in der Verantwortung des Kunden zu bestimmen, wer zur Zustimmung berechtigt ist. 
 
-**NEUE | Welche Version des Vertrags, Microsoft Cloud Partner für die Kundenakzeptanz der Bestätigung verantwortlich sind Müssen Partner, um anzugeben, welche Version der Microsoft Cloud Vereinbarung akzeptiert wurde, vom Kunden verwendet?**
+**NEU | Für welche Version des Microsoft Cloud-Vertrags sind die Partner dafür verantwortlich, die Zustimmung des Kunden zu bestätigen? Müssen Partner angeben, welcher Version des Microsoft Cloud-Vertrags der Kunde zugestimmt hat?**
 
-Partner sind für die Verwendung der aktuellen Microsoft-Cloud-Vereinbarung, beim CSP-Transaktionen mit einem neuen Kunden verantwortlich. Partner müssen bestätigen, dass die aktuelle Microsoft Cloud Zustimmung beim erneuern, ändern oder neue Transaktionen mit einem vorhandenen Kunden abgeschlossen. 
+Die Partner sind dafür verantwortlich, bei CSP-Transaktionen mit einem neuen Kunden den aktuellsten Microsoft Cloud-Vertrag zu verwenden. Partner müssen die Zustimmung zum aktuellsten Microsoft Cloud-Vertrag bestätigen, wenn sie neue Transaktionen mit einem vorhandenen Kunden verlängern, ändern oder abschließen. 
 
-Im Fall, dass der Microsoft-Cloud-Vereinbarung, vor der Erneuerung aktualisiert wird Partner ist nicht erforderlich, die der Kunde Kundenakzeptanz des Vertrags, Microsoft Cloud sofort erneut abrufen, aber müssen bestätigt die Zustimmung zu den Microsoft-Cloud-Vertrag vor haben zu erneuern. Möglicherweise möchten Sie jedoch, den Kunden, die vor der Erneuerung zu neuen und verbesserten Bedingungen in der Microsoft-Cloud-Vereinbarung nutzen neue zustimmen müssen.
+Für den Fall, dass der Microsoft Cloud-Vertrag vor der Verlängerung aktualisiert wird, sind die Partner nicht verpflichtet, dass der Kunde die Zustimmung des Kunden zum Microsoft Cloud-Vertrag unverzüglich wiedererlangt. Sie müssen aber die Zustimmung zum Microsoft Cloud-Vertrag vor der Verlängerung erneut bestätigen. Möglicherweise möchten Sie jedoch, dass der Kunde vor der Verlängerung neue Bestimmungen akzeptiert, um die Vorteile der neuen und verbesserten Bestimmungen des Microsoft Cloud-Vertrags zu nutzen.
 
-**NEUE | Ich bin ein indirekter CSP-Reseller. Wenn ich die Kundenakzeptanz des Vertrags, Microsoft Cloud in meines Unternehmens Datensätzen aufzeichnen, muss ich auch diese Informationen über das Partner Center-Dashboard oder den Partner Center-API bereitstellen?**
+**NEU | Ich bin ein indirekter CSP-Händler. Wenn ich die Zustimmung des Kunden zum Microsoft Cloud-Vertrag in den Aufzeichnungen meines Unternehmens festhalte, muss ich diese Informationen dann auch über das Partner Center-Dashboard oder die Partner Center -API bereitstellen?**
 
-Sich vertraglich zur Einhaltung, ist es an der indirekten Anbieters, wer hat eine Bindung, Vertrag mit Microsoft, um sicherzustellen, dass der Kunde die Microsoft-Cloud-Vertrag akzeptiert hat. Indirekte Anbieter haben jedoch möglicherweise separate Vereinbarungen mit indirekten Händlern getroffen, um die Zustimmung der Kunden einzuholen. In diesem Fall müssen indirekte Anbieter zunächst die erforderlichen Informationen zur Kundenzustimmung von ihren indirekten Händlern einholen und diese dann über die Partner Center-API oder das Partner Center-Dashboard Microsoft zur Verfügung stellen.
+In vertraglicher Hinsicht ist es der indirekte Anbieter, der einen bindenden Vertrag mit Microsoft unterhält, um sicherzustellen, dass der Endkunde den Microsoft Cloud-Vertrag akzeptiert hat. Indirekte Anbieter haben jedoch möglicherweise separate Vereinbarungen mit indirekten Händlern getroffen, um die Zustimmung der Kunden einzuholen. In diesem Fall müssen indirekte Anbieter zunächst die erforderlichen Informationen zur Kundenzustimmung von ihren indirekten Händlern einholen und diese dann über die Partner Center-API oder das Partner Center-Dashboard Microsoft zur Verfügung stellen.
 
-**NEUE | Was geschieht, wenn mein Kunde nicht den Bedingungen des Vertrags, Microsoft Cloud übereinstimmt?**
+**NEU | Was passiert, wenn mein Kunde den Bestimmungen des Microsoft Cloud-Vertrags nicht zustimmt?**
 
-Als Partner im CSP-Programm von Microsoft sind Sie verantwortlich für die Kundenakzeptanz der Microsoft Cloud Vereinbarung vor dem Einfügen einer Bestellung. Dies ist es nicht um eine neue Anforderung. Aus irgendeinem Grund Wenn der Kunde nicht mehr mit der Microsoft-Cloud-Vereinbarung muss der Partner dieses Kunden zugeordneten Abonnements Abbrechen.
+Als Partner im CSP-Programm von Microsoft sind Sie dafür verantwortlich, dass der Kunde dem Microsoft Cloud-Vertrag zustimmt, bevor er eine Bestellung aufgibt. Dies ist keine neue Anforderung. Wenn der Kunde aus irgendeinem Grund dem Microsoft Cloud-Vertrag nicht mehr zustimmt, muss der Partner die mit diesem Kunden verbundenen Abonnements kündigen.
 
-**NEUE | Kann ein Händler Zustimmung im Auftrag des Kunden bereitstellen?**
+**NEU | Kann ein Händler im Namen des Kunden die Zustimmung erteilen?**
 
 Nein.
 
-**Nachdem ich bestätige, dass ein Kunde akzeptieren bereitgestellt hat, muss ich erneut bestätigen Sie es für den Kunden in der Zukunft?**
+**Wenn ich bestätige, dass ein Kunde die Zustimmung erteilt hat, muss ich diese in Zukunft für den Kunden erneut bestätigen?**
 
-Nachdem Sie bestätigt haben, dass der Kunde hat die Microsoft-Cloud-Vertrag akzeptiert, bleibt diese Informationen im Abschnitt Kunden im Partner Center, und es ist nicht erforderlich, die Akzeptanz für die Dauer der Zeit bestätigt haben, die der Kunde durch abgedeckt wird die Bedingungen des Vertrags. Sie müssen nur akzeptieren, die vor dem Einfügen einer neuen Bestellung bestätigt haben.
+Nachdem Sie bestätigt haben, dass der Kunde dem Microsoft Cloud-Vertrag zugestimmt hat, verbleiben diese Informationen im Kundenkontoabschnitt im Partner Center, und es ist nicht notwendig, die Zustimmung für den Zeitraum erneut zu bestätigen, in dem der Kunde unter die Vertragsbedingungen fällt. Sie müssen die Zustimmung nur vor einer neuen Bestellung bestätigen.
 
-Im Fall, dass der Microsoft-Cloud-Vereinbarung, vor der Erneuerung aktualisiert wird Partner ist nicht erforderlich, die der Kunde Kundenakzeptanz des Vertrags, Microsoft Cloud sofort erneut abrufen, aber müssen bestätigt die Zustimmung zu den Microsoft-Cloud-Vertrag vor haben zu erneuern. Möglicherweise möchten Sie jedoch, den Kunden, die vor der Erneuerung zu neuen und verbesserten Bedingungen in der Microsoft-Cloud-Vereinbarung nutzen neue zustimmen müssen.
+Für den Fall, dass der Microsoft Cloud-Vertrag vor der Verlängerung aktualisiert wird, sind die Partner nicht verpflichtet, dass der Kunde die Zustimmung des Kunden zum Microsoft Cloud-Vertrag unverzüglich wiedererlangt. Sie müssen aber die Zustimmung zum Microsoft Cloud-Vertrag vor der Verlängerung erneut bestätigen. Möglicherweise möchten Sie jedoch, dass der Kunde vor der Verlängerung neue Bestimmungen akzeptiert, um die Vorteile der neuen und verbesserten Bestimmungen des Microsoft Cloud-Vertrags zu nutzen.
 
-**NEUE | Ich bin mir nicht vertraut bietet Microsoft Meine Endkunden direkte Kontaktinformationen. Wie verwendet Microsoft diese Informationen werden?**
+**NEU | Ich habe Bedenken, Microsoft die direkten Kontaktinformationen meines Endkunden mitzuteilen. Wie verwendet Microsoft diese Informationen?**
 
-Wenn ein Partner Mandanten des Kunden erstellt wird, ist es erforderlich, um eine primäre Kontaktinformationen für den Kunden bereitzustellen. Pro den Nutzungsbedingungen für Onlinedienste verarbeitet"Microsoft personenbezogenen Daten nur auf den dokumentierten Anweisungen Kunden."
+Wenn ein Partner einen Kundenmandanten erstellt, ist es erforderlich, eine primäre Kontaktinformation für den Kunden anzugeben. Gemäß den Bestimmungen für Onlinedienste „verarbeitet Microsoft personenbezogene Daten nur auf dokumentierte Anweisung des Kunden“.
 
-## <a href="" id="technicalfaq"></a>Technische
+## <a href="" id="technicalfaq">Technisch</a>
 
-**Wie Partner bestätigen, dass Sie Kunden und für Microsoft bereitgestellt? Welche Tools sind für die Unterstützung dieses Prozesses verfügbar?**
+**Wie bestätigen Partner die Zustimmung des Kunden und stellen sie Microsoft zur Verfügung? Welche Tools sind für die Unterstützung dieses Prozesses verfügbar?**
 
-Es gibt zwei Methoden, die ab dem 7. August 2018 verfügbar sind zur Unterstützung von Partnern: 
+Es gibt zwei Methoden, die ab 7. August 2018 verfügbar sind, um Partner zu unterstützen: 
 1.  Partner können die Partner Center-API verwenden, um die Zustimmung des Kunden programmgesteuert zu bestätigen. 
-2.  Partner können die Partner Center-Dashboard um Kundenakzeptanz zu bestätigen.
+2.  Partner können das Partner Center-Dashboard verwenden, um die Zustimmung des Kunden zu bestätigen.
 
-**NEUE | Ich bin ein CSP-Partner, der der Partner Center-API verwendet. Welche API-Änderungen muss ich berücksichtigen?** 
+**NEU | Ich bin ein CSP-Partner, der die Partner Center-API verwendet. Welche API-Änderungen muss ich berücksichtigen?** 
 
-In diesem Fall werden die Änderungen an der API zu berücksichtigen:
+In diesem Fall sind die folgenden API-Änderungen zu berücksichtigenden:
 
 -   [https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent) 
 
@@ -165,40 +165,40 @@ In diesem Fall werden die Änderungen an der API zu berücksichtigen:
 
 -   [https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
-**Was geschieht, wenn treten schwierigkeiten beim Implementieren der Partner Center-API?**
+**Was geschieht, wenn ich Probleme habe, die Partner Center-API zu implementieren?**
 
 Die Zustimmung kann manuell über das Partner Center-Dashboard bestätigt werden.
 
-**NEUE | Als Alternative zur Verwendung im Partner Center-Dashboard oder der Partner Center-API kann ich massenänderungen eine Datei mit der Bestätigung Kundeninformationen hochladen?**
+**NEU | Kann ich alternativ zur Verwendung des Partner Center-Dashboards oder der Partner Center-API eine Datei mit den Kundenbestätigungsinformationen hochladen?**
 
-Zu diesem Zeitpunkt sind die Partner Center-Dashboard und der Partner Center-API die einzige akzeptierte Möglichkeit für die Bereitstellung der Bestätigung der Kundenakzeptanz des Vertrags, Microsoft Cloud.
+Zurzeit sind das Partner Center-Dashboard und die Partner Center-API das einzige akzeptierte Mittel, um die Zustimmung des Kunden zum Microsoft Cloud-Vertrag zu bestätigen.
 
-**NEUE | Ich bin es sich um einen Partner mithilfe einer Drittanbieter-Plattform, oder "Middleware", die Funktionen zum Verbinden der Systeme des Unternehmens mit dem Partner Center ausführt. Was muss ich tun?**
+**NEU | Ich bin ein Partner, der eine Drittanbieterplattform oder „Middleware“ verwendet, die Funktionen zum Herstellen einer Verbindung der Systeme meines Unternehmens mit dem Partner Center bereitstellt. Wie muss ich vorgehen?**
 
-Partner, die mithilfe von Plattformen, die der Partner Center-API integriert werden empfohlen, direkt mit den Anbietern in Bezug auf die Pläne und Zeitpläne für die Integration der Partner Center-API-Funktionen, die den Kunde Bestätigungsvorgang automatisiert sprechen.
+Partnern, die Plattformen verwenden, die die Partner Center-API integrieren, wird empfohlen, direkt mit den Anbietern über ihre Pläne und Zeitvorgaben für die Integration der Partner Center-API-Funktionalität zu sprechen, die den Prozess der Kundenbestätigung automatisiert.
 
-**NEUE | Können Sie ein Beispiel für die API-Flow zum Importieren der vollständigen Namen des Kunden, e-Mail-Adresse und Datum der Annahme der Microsoft Cloud-Vereinbarung bereitstellen?**
+**NEU | Können Sie ein API-Ablaufbeispiel für den Import des vollständigen Kundennamens, der E-Mail-Adresse und des Datums der Zustimmung zum Microsoft Cloud-Vertrag bereitstellen?**
 
-Partner werden empfohlen, um weitere Informationen und Beispiele der Partner Center-API-Dokumentation zu überprüfen.
+Partnern wird empfohlen, die Dokumentation der Partner Center-API zu lesen, um sich über Details zu informieren und Beispiele zu erhalten.
 
-**NEUE | Wie erhalte ich die aktuellen Microsoft-Cloud-Vereinbarung an den Kunden anzeigen und verwenden Sie in der Bestätigungs-Datensatz im Rahmen meiner API?**
+**NEU | Wie kann ich den aktuellsten Microsoft Cloud-Vertrag abrufen, um ihn dem Kunden anzuzeigen und in der Bestätigungsaufzeichnung als Teil meines API-Prozesses zu verwenden?**
 
-Die aktuelle Partner Center-API ist sehr einfach und bietet keinen für Partner, um eine Kopie des Vertrags, Microsoft Cloud programmgesteuert abzurufen, noch werden Versionen der Microsoft Cloud-Vereinbarung, die von einem Kunden im Rahmen der Bestätigung akzeptiert erfasst. 
+Die aktuelle Partner Center-API ist sehr einfach und sieht weder vor, dass Partner programmgesteuert eine Kopie des Microsoft Cloud-Vertrags abrufen können, noch erfasst sie Versionen des Microsoft Cloud-Vertrags, denen von einem Kunden als Teil der Bestätigung zugestimmt wurden. 
 
-**NEUE | Verwenden die Partner Center-API für diesen Prozess erfordert einen Benutzer-ID-Parameter. Wie verwalte ich diese Anforderung, wenn Aufträge über Drittanbieter-Plattformen platziert werden, die nicht mit Azure AD integriert werden?**
+**NEU | Die Verwendung der Partner Center-API für diesen Prozess erfordert einen userID-Parameter. Wie kann ich diese Anforderung verwalten, wenn Bestellungen über Drittanbieterplattformen aufgegeben werden, die nicht in Azure AD integriert sind?**
 
-Die Benutzer-ID bezeichnet in diesem Fall den Mitarbeiter unter partnermandanten, die die Bestätigung der Zustimmung des Kunden bereitstellt. Wenn der Mitarbeiter verfügt nicht über ein entsprechendes Azure AD-Benutzerkonto, unter dem partnermandanten, sollten Sie ein bestimmtes Benutzerkonto für diesen Zweck festlegen und erstellen Sie einen Prozess aus, um die Identität des Mitarbeiters Bereitstellung separat Erfassen der Bestätigung. 
+Die userID identifiziert in diesem Fall den Mitarbeiter unter dem Partnermandanten, der die Bestätigung der Kundenzustimmung bereitstellt. Wenn der Mitarbeiter kein entsprechendes Azure AD-Benutzerkonto unter dem Mandanten des Partners besitzt, wird empfohlen, ein bestimmtes Benutzerkonto für diesen Zweck zu benennen und einen Prozess zu erstellen, um die Identität des Mitarbeiters, der die Bestätigung übermittelt, separat zu erfassen. 
 
-**NEUE | Warum wird Microsoft den Partner, um die Zustimmung des Kunden auf der Microsoft-Cloud-Vereinbarung nicht direkt aus der Kunde bestätigen müssen?**
+**NEU | Warum verlangt Microsoft, dass der Partner die Zustimmung des Kunden zum Microsoft Cloud-Vertrag bestätigt, anstatt sie direkt vom Kunden einzuholen?**
 
-Der Kunde ist über das CSP-Partner nicht direkt von Microsoft erwerben. Für die Verwendung der Services Bedingungen, Microsoft Microsoft bietet bietet, die in der Microsoft-Cloud-Vereinbarung dokumentiert sind. Die Microsoft Cloud Reseller Agreement erfordert CSP-Partner haben Kunden lesen und akzeptieren Sie die Microsoft-Cloud-Vereinbarung vor dem Einfügen einer Bestellung. 
+Der Kunde kauft beim CSP-Partner, nicht direkt bei Microsoft. Für die Nutzung der von Microsoft bereitgestellten Dienste stellt Microsoft Bestimmungen zur Verfügung, die im Microsoft Cloud-Vertrag dokumentiert sind. Der Microsoft Cloud-Händlervertrag verlangt von CSP-Partnern, dass Kunden den Microsoft Cloud-Vertrag vor der Bestellung überprüfen und ihm zustimmen. 
 
-**NEUE | Ich verwende sowohl die API als auch die Partner Center-Dashboard-Web-Benutzeroberfläche, um den Vertrag zwischen Microsoft Cloud-Kundenakzeptanz zu bestätigen. Nach dem 7. November 2018 was zum Bestätigen der Kundenakzeptanz Optionen sind verfügbar?**
+**NEU | Ich verwende sowohl die API- als auch die Web-Benutzeroberfläche des Partner Center-Dashboards, um die Zustimmung der Kunden zum Microsoft Cloud-Vertrag zu bestätigen. Welche Möglichkeiten habe ich nach dem 7. November 2018, die Zustimmung des Kunden zu bestätigen?**
 
-Beide Optionen sind verfügbar und für die Bestätigung von Microsoft Cloud Vertrag Kundenakzeptanz akzeptabel. Transaktionen, die mit dem Partner Center-Dashboard benötigen Bestätigung ab 7. November 2018 vorhanden sein. Transaktionen, die mit der Partner Center-API erfordert die Bestätigung ab 22 März 2019 vorhanden sein.
+Beide Optionen sind verfügbar und akzeptabel, um die Zustimmung der Kunden zum Microsoft Cloud-Vertrag zu bestätigen. Transaktionen, die das Partner Center-Dashboard verwenden, bedürfen einer Bestätigung, die ab dem 7. November 2018 vorliegen muss. Transaktionen, die die Partner Center-API verwenden, bedürfen einer Bestätigung, die ab dem 22. März 2019 vorliegen muss.
 
-## <a href="" id="additionalresourcesfaq"></a>Zusätzliche Ressourcen
+## <a href="" id="additionalresourcesfaq"></a>Weitere Ressourcen:
 
-Weitere Informationen zum Bestätigen eines Kunden Annahme der Microsoft Cloud Vereinbarung finden Sie unter [bestätigen Kundenakzeptanz des Vertrags, Microsoft Cloud](https://docs.microsoft.com/en-us/partner-center/confirm-consent).
+Weitere Informationen dazu, wie Sie die Zustimmung eines Kunden zum Microsoft Cloud-Vertrag bestätigen können, finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](https://docs.microsoft.com/en-us/partner-center/confirm-consent).
 
-Regionsspezifische Microsoft Cloud Customer vereinbarungsvorlagen in allen unterstützten Sprachen finden Sie unter [Microsoft Cloud Vereinbarungen nach Region und Sprache](agreements.md).
+Regionsspezifische Kundenvorlagen zum Microsoft Cloud-Vertrag in allen unterstützten Sprachen finden Sie unter [Microsoft Cloud-Vertrag nach Region und Sprache](agreements.md).

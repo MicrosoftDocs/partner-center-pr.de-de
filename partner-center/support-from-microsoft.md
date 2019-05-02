@@ -32,7 +32,7 @@ Bei Problemen mit einem Microsoft-Dienst oder mit Partner Center können Sie den
 
 [Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs](get-automated-service-notifications-with-our-apis.md)
 
-[Vorteile von Microsoft zu unterstützen.](https://partner.microsoft.com/support/contact-support)
+[Supportvorteile von Microsoft](https://partner.microsoft.com/support/contact-support)
 
  
 

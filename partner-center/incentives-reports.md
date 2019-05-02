@@ -1,8 +1,8 @@
 ---
-title: Berichte mit Livedaten ersetzten monatliche Berichte für einige Incentiveprogramme | Partner Center
+title: Berichte mit Livedaten ersetzten monatliche Berichte für einige Incentive-Programme | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
-description: Für die OSA Sell and Online Services Usage-Incentiveprogramme können jetzt Berichte mit Livedaten abgerufen werden.
+description: Für die OSA Sell and Online Services Usage-Incentive-Programme können jetzt Berichte mit Livedaten abgerufen werden.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
@@ -13,17 +13,17 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134470"
 ---
-# <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>Berichte mit Livedaten ersetzten monatliche Berichte für einige Incentiveprogramme
+# <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>Berichte mit Livedaten ersetzten monatliche Berichte für einige Incentive-Programme
 
 **Gilt für**
 
 -  Partner Center
 
-Microsoft die Partner Incentive Reporting and Analytics (PIRA)-Website außer Betrieb gestellt und veröffentlicht keine Program Detail Reports mehr auf PIRA. PIRA wurde durch das neue Reporting-Portal im Partner Incentives Experience (PIE) ersetzt. Dort stehen ein bedarfsgesteuertes Modell zum eigenständigen Abruf sowie die erwähnten Reporting-Optionen zur Verfügung. 
+Microsoft hat die PIRA-Website (Partner Incentive Reporting and Analytics) eingestellt und veröffentlicht die Program Detail Reports nicht mehr auf PIRA. PIRA wurde durch das neue Reporting-Portal im Partner Incentives Experience (PIE) ersetzt. Dort stehen ein bedarfsgesteuertes Modell zum eigenständigen Abruf sowie die erwähnten Reporting-Optionen zur Verfügung. 
 
-Derzeit betrifft dies nur die OSA Sell and Online Services Usage-Incentiveprogramme.
+Derzeit betrifft dies nur die OSA Sell and Online Services Usage-Incentive-Programme.
 
-## <a name="things-to-remember"></a>Wichtige Punkte: 
+## <a name="things-to-remember"></a>Daran sollten Sie denken: 
 
 - Anpassungs-, Verdienst- und Zahlungsdaten können durch Exportieren in Excel mithilfe der neuen Funktionalität auf PIE abgestimmt werden.
 
@@ -43,7 +43,7 @@ Derzeit betrifft dies nur die OSA Sell and Online Services Usage-Incentiveprogra
 
 4. Klicken Sie auf **Berichterstattung**, und klicken Sie dann auf **Programme**. 
 
-5. Wählen Sie das gewünschte Incentiveprogramm für die Berichte aus. 
+5. Wählen Sie das gewünschte Incentive-Programm für die Berichte aus. 
 
 6. **Anpassungen**, die Standardansicht, enthält möglicherweise keine Daten.  Wählen Sie in diesem Fall die Ansicht **Einnahmen** oder **Zahlungen** aus.
 

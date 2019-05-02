@@ -39,13 +39,13 @@ Microsoft kann ein Partner Center-Konto aus den folgenden Gründen aussetzen:
 
 Wenn Sie wissen, dass Ihr Konto aktuell ist, senden Sie eine Supportanfrage an Partner Center-Support, um herauszufinden, warum Ihr Konto gesperrt wurde. 
 
-Wenn Sie nicht sicher sind, gibt an, ob Ihr Konto aktuell ist, wählen Sie **Abrechnung** aus der **Partner Center** im Menü auf der Rechnung überprüfen. Auf der Abrechnungsseite können Sie Ihren Abrechnungsverlauf und -trend, den fälligen Betrag für den aktuellen Monat, Links zu Ihrer Rechnung und zu den Abstimmungsdateien sowie Ihre letzte Zahlung anzeigen.
+Wenn Sie nicht sicher sind, ob Ihr Konto aktuell ist, wählen Sie **Abrechnung** aus dem Menü **Partner Center** aus, und überprüfen Sie Ihre Rechnung. Auf der Abrechnungsseite können Sie Ihren Abrechnungsverlauf und -trend, den fälligen Betrag für den aktuellen Monat, Links zu Ihrer Rechnung und zu den Abstimmungsdateien sowie Ihre letzte Zahlung anzeigen.
 
 Wenn Ihr Konto überfällig ist, folgen Sie den Anweisungen auf Ihrer Rechnung und entrichten Sie die Gebühr und senden Sie dann eine Supportanfrage, um Ihr Konto zu reaktivieren. 
 
-**Um eine Supportanfrage zu übermitteln.**
+**So übermitteln Sie eine Supportanfrage**
 
-1.  Von der **Partner Center** , wählen Sie im Menü **Supportanfragen > Partner Center-Anfragen**.
+1.  Wählen Sie im Menü **Partner Center** die Option **Supportanfragen > Partner Center-Anfragen** aus.
 2.  Wählen Sie **Neue Anfrage** aus. 
 3.  Füllen Sie das Formular aus, und wählen Sie dann **Übermitteln** aus. Ein Partner Center-Supportmitarbeiter wird Sie kontaktieren, um zu erläutern, warum Ihr Konto gesperrt wurde und wie Sie dieses wieder aktivieren können.
 

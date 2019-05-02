@@ -1,11 +1,11 @@
 ---
-title: Senden von Ansprüchen OSA im Partner Center | Partner Center
+title: Übermitteln Ihrer OSA-Ansprüche in Partner Center | Partner Center
 ms.topic: article
 ms.date: 3/14/2019
-description: Senden Sie ein OSA-Selling-Gebühr-Anspruch oder ISV Umsatz Zuordnung Anspruch
+description: Übermitteln eines OSA-Verkaufsprovisionsanspruchs oder eines ISV-Umsatzzuordnungsanspruchs
 author: LauraBrenner
 ms.author: labrenne
-keywords: Incentives sammeln, wenn Ansprüche "," Co-op-Ansprüche "," Co-op-Guthaben, OSA, unabhängige Softwarehersteller können Umsatz-Zuordnung
+keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel, OSA, ISV, Umsatzzuordnung
 ms.localizationpriority: medium
 ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
@@ -20,82 +20,82 @@ ms.locfileid: "62133927"
 
 -  Partner Center
 
-Als OSA-Partner oder ISV für Dynamics können Sie von Ansprüchen im Partner Center senden. 
+Als OSA-Partner oder ISV für Dynamics können Sie Ihre Ansprüche im Partner Center übermitteln. 
 
-Bevor Sie eine Forderung und erstellen können, müssen Sie die folgenden Anforderungen erfüllen: 
--   **Im Microsoft Partner Network registriert werden**, und ein aktiver Vertrag für MPN. Zum Registrieren im Microsoft Partner Network finden Sie auf der Partner-Website. 
--   **Eine zertifizierte Microsoft Dynamics-Software-Advisor werden** mit einem aktiven Microsoft Dynamics zertifiziert Software Advisor Vereinbarung (CSA). 
--   **Haben Sie Ihre Informationen Bank- und Steuerdaten** im Partner Center eingegeben haben. 
--   **Erfüllen Sie OSA von Selling berechtigungsanforderungen-Zertifizierung und den Umsatz für**. (Informationen finden Sie im Handbuch zu OSA von Selling befindet sich unter der OSA-Abschnitt auf aka.ms/partnerincentives.) Dies gilt nicht für ISVs, die Suchvorgänge nur Umsatz-Zuordnung. 
+Bevor Sie einen Anspruch erstellen und übermitteln können, müssen Sie die folgenden Anforderungen erfüllen: 
+-   **Sie sind beim Microsoft Partner Network (MPN) registriert** und besitzen eine aktive Microsoft Partner Network-Vereinbarung. Um sich beim Microsoft Partner Network zu registrieren, besuchen Sie die Partnersite. 
+-   **Sie sind zertifizierter Software Advisor für Microsoft Dynamics** mit einer aktiven CSA-Vereinbarung (Certified Software Advisor) für Microsoft Dynamics. 
+-   **Sie haben Ihre Bank- und Steuerinformationen** im Partner Center eingegeben. 
+-   **Sie erfüllen Sie Anforderungen für die OSA-Verkaufsberechtigungszertifizierung und den Umsatz**. (Details hierzu finden Sie im OSA-Verkaufshandbuch, das sich unter „aka.ms/partnerincentives“ im OSA-Abschnitt befindet.) Dies gilt nicht für ISVs, die lediglich eine Umsatzzuordnung vornehmen lassen möchten. 
 
-## <a name="submitting-your-claim"></a>Übermitteln Ihren Antrag
+## <a name="submitting-your-claim"></a>Übermitteln Ihres Anspruchs
 
-Sie müssen die 90 Tage ab dem Datum der Transaktion, um Ihren Antrag senden. Wenn Sie Ihren Antrag auf mehr als 90 Tage nach einer Transaktion senden, wird Sie wird nicht das verkaufen Incentive aus die Verkaufsdaten verdienen. 
+Ab dem Datum der Transaktion haben Sie 90 Tage, um Ihren Anspruch zu übermitteln. Wenn Sie Ihren Anspruch später als 90 Tage nach einer Transaktion übermitteln, erhalten Sie nicht den Verkaufsincentive aus diesem Verkauf. 
 
-Wenn Sie ein ISV-Partner und Ihre Lösungen geholfen, den Kunden an, wählen Sie eine Microsoft Dynamics 365-Lösung beeinflussen möchten, sind Sie auch berechtigt, Zuordnung der Umsatz in Anspruch nehmen.   
+Wenn Sie ein ISV-Partner sind, dessen Lösungen geholfen haben, einen Kunden zur Auswahl einer Microsoft Dynamics 365-Lösung zu bringen, sind Sie auch berechtigt, die Zuordnung des Umsatzes zu beanspruchen.   
 
 ## <a name="payment-schedule"></a>Zahlungsplan
 
-Sie erhalten die Zahlung für genehmigte Incentives sammeln, wenn Ansprüche innerhalb von 45 Tagen nach dem Ende des Zeitraums erbringen. Sie haben 90 Tage nach dem Ende der gründungszeitpunkt Zeitraum aus, um eine Zahlung zur Beilegung von streitigkeiten. Informationen zur Zahlung Berechnungen und Methoden finden Sie im Handbuch zu OSA von Selling befindet sich unter der OSA-Abschnitt auf aka.ms/partnerincentives.
+Sie erhalten die Zahlung für genehmigte Incentiveansprüche innerhalb von 45 Tagen nach dem Ende des Einnahmenzeitraums. Nach dem Ende der Einnahmenzeitraums haben Sie 90 Tage, um eine Zahlung anzufechten. Informationen zur Berechnung von Zahlungen und dazugehörigen Methoden finden Sie im OSA-Verkaufshandbuch, das sich unter „aka.ms/partnerincentives“ im OSA-Abschnitt befindet.
 
-## <a name="maintaining-your-program-eligibility"></a>Verwalten Ihre Anwendung-Berechtigung
+## <a name="maintaining-your-program-eligibility"></a>Aufrechterhalten Ihrer Programmberechtigung
 
-Microsoft bewertet die Eignung monatlich für den Online Services Advisor verkaufen Anreiz für gibt an, dass, Berechnung und Zahlung. Sie müssen bestimmte Eignungskriterien erfüllen, bevor Microsoft genehmigen und Prämien freigeben kann. Weitere Informationen finden Sie im Handbuch zu OSA von Selling befindet sich unter der OSA-Abschnitt auf aka.ms/partnerincentives.
+Microsoft bewertet monatlich die Berechtigung für den Online Services Advisor-Verkaufsincentive hinsichtlich Einnahmen, Berechnung und Zahlung. Sie müssen bestimmte Berechtigungskriterien erfüllen, bevor Microsoft Incentivezahlungen genehmigen und freigeben kann. Details hierzu finden Sie im OSA-Verkaufshandbuch, das sich unter „aka.ms/partnerincentives“ im OSA-Abschnitt befindet.
 
-#<a name="submit-an-osa-sell-fee-claim"></a>Übermitteln einer OSA verkaufen Gebühr-Anspruch
+#<a name="submit-an-osa-sell-fee-claim"></a>Übermitteln eines OSA-Verkaufsprovisionsanspruchs
 
-Führen Sie die folgenden Schritte aus, um einen Anreiz-Anspruch im Partner Center zu übermitteln.  
+Führen Sie die folgenden Schritte aus, um einen Incentiveanspruch im Partner Center zu übermitteln.  
 
 >[!NOTE]
 
->Wenn Ihr Unternehmen mehrere Standorte umfasst, achten Sie darauf, dass Sie die MPN-ID für die Office befindet sich in derselben geografischen Region wie Ihre Kunden verwenden. 
+>Wenn Ihr Unternehmen mehrere Standorte umfasst, achten Sie darauf, dass Sie die MPN-ID für die Niederlassung verwenden, das sich in derselben geografischen Region wie Ihr Kunde befindet. 
 
-1.  Auf der Übersichtsseite unter **anreizprogramm Programme**Option **OSA**.
+1.  Wählen Sie auf der Seite „Übersicht“ unter **Alle Incentiveprogramme**die Option **OSA** aus.
 
-2.  Wählen Sie auf der Seite OSA **Anspruch...** , und wählen Sie dann **Incentive Gebühr**.
+2.  Wählen Sie auf der Seite „OSA“ **Anspruch...** und dann **Incentivegebühr** aus.
 
-3.  Geben Sie Domänennamen des Kunden und Verzeichnis-ID, und wählen Sie dann **Weiter**. 
+3.  Geben Sie den Domänennamen und die Verzeichnis-ID Ihres Kunden ein, und wählen Sie dann **Weiter** aus. 
 
-4.  Wählen Sie das Produkt der Kunde gekauft, und wählen Sie dann **Weiter**. 
+4.  Wählen Sie das Produkt aus, das der Kunde gekauft hat, und wählen Sie dann **Weiter** aus. 
 
-5.  Wählen Sie das Abonnement, das Sie verwenden möchten, mit diesem Anspruch zuordnen, und wählen Sie dann **Weiter**.
+5.  Wählen Sie das Abonnement aus, das Sie diesem Anspruch zuordnen möchten, und wählen Sie dann **Weiter** aus.
 
->[!NOTES]
+>[!HINWEISE]
 
->Stellen Sie sicher, dass die Namens- und geografischen Region korrekt sind, bevor Sie ein Abonnement auswählen. 
+>Vergewissern Sie sich, dass sowohl der Name als auch die geografische Region korrekt sind, bevor Sie ein Abonnement auswählen. 
 
->Abonnements, die mit anderen online-Service-Ratgeber verknüpft sind mit einem gelben Dreieck gekennzeichnet. Sie können weiterhin zugeordnet. 
+>Abonnements, die anderen Online Service Advisors zugeordnet sind, sind mit einem gelben Dreieck gekennzeichnet. Sie können dennoch eine Zuordnung zu diesen auswählen. 
 
->Abonnements, die bereits mit Ihrem Unternehmen können nicht erneut zugeordnet werden.  
+>Abonnements, die Ihrem Unternehmen bereits zugeordnet sind, können nicht erneut zugeordnet werden.  
 
-6.  Geben Sie die Kontaktinformationen für Ihren Kunden und Ihres Unternehmens, benennen Sie den Anspruch, und wählen Sie dann **erstellen Anspruch**. 
+6.  Geben Sie die Kontaktinformationen für Ihren Kunden und Ihr Unternehmen ein, benennen Sie den Anspruch, und wählen Sie dann **Anspruch erstellen** aus. 
 
-7.  Auf der Abonnementseite, Hochladen der Nachweis der Ausführung (POE) Dokumentation, die **Nachweis der Ausführung** Feld. Sie können die POE-Vorlage oder die POE-Dokumente aus dem Presales-Prozess verwenden. 
+7.  Laden Sie auf der Abonnementseite Ihre POE-Dokumentation (Proof of Execution, Nachweis der Ausführung) in das Feld **Proof of Execution** hoch. Sie können die POE-Vorlage oder die POE-Dokumente aus dem Presales-Prozess verwenden. 
 
-8.  Wählen Sie **senden Anspruch**.    
+8.  Wählen Sie **Anspruch übermitteln** aus.    
 
-Sie sehen den Status Ihrer Anspruch in das Statusfeld "von der Seite" Abonnements ". Wenn zusätzliche Informationen erforderlich ist, werden Sie es auch benachrichtigt werden.
+Der Status Ihres Anspruch wird im Statusfeld auf der Abonnementseite angezeigt. Wenn zusätzliche Informationen erforderlich sind, werden Sie auch dort darüber benachrichtigt.
 
-Um Ihre Einnahmen und Zahlungen Daten anzeigen zu können, finden Sie in der Auszahlungen und berichterstellung. 
+Informationen zum Anzeigen Ihrer Einnahmen- und Zahlungsdaten finden Sie unter „Auszahlungen und Berichte“. 
  
-# <a name="submit-an-isv-revenue-association-claim"></a>Ein ISV-Umsatz-Zuordnung Forderung
+# <a name="submit-an-isv-revenue-association-claim"></a>Übermitteln eines ISV-Umsatzzuordnungsanspruchs
 
-1.  Auf der Übersichtsseite unter **anreizprogramm Programme**Option **OSA**.
+1.  Wählen Sie auf der Seite „Übersicht“ unter **Alle Incentiveprogramme**die Option **OSA** aus.
 
-2.  Wählen Sie auf der Seite OSA **Anspruch...** , und wählen Sie dann **ISV Umsatz Zuordnung**.
+2.  Wählen Sie auf der Seite „OSA“ **Anspruch...** und dann **ISV-Umsatzzuordnung** aus.
 
-3.  Geben Sie Domänennamen des Kunden und Verzeichnis-ID, wählen Sie das Produkt oder die Produkte der Kunde gekauft, und wählen Sie dann **Weiter**. 
+3.  Geben Sie den Domänennamen und die Verzeichnis-ID Ihres Kunden ein, wählen Sie das oder die Produkte aus, die der Kunde gekauft hat, und wählen Sie dann **Weiter** aus. 
 
-4.  Wählen Sie die Abonnements, die Sie verwenden möchten, mit diesem Anspruch zuordnen, und wählen Sie dann **Weiter**.
+4.  Wählen Sie die Abonnements aus, die Sie diesem Anspruch zuordnen möchten, und wählen Sie dann **Weiter** aus.
 
->[!NOTES]
+>[!HINWEISE]
 
->Stellen Sie sicher, dass die Namens- und geografischen Region korrekt sind, bevor Sie ein Abonnement auswählen. 
+>Vergewissern Sie sich, dass sowohl der Name als auch die geografische Region korrekt sind, bevor Sie ein Abonnement auswählen. 
 
->Abonnements, die bereits mit Ihrem Unternehmen können nicht erneut zugeordnet werden.  
+>Abonnements, die Ihrem Unternehmen bereits zugeordnet sind, können nicht erneut zugeordnet werden.  
 
-5.  Geben Sie die Informationen für die **Dynamics Verkäufer Projektmappenname**, **Kundenname**, und **Name der ISV/produktlösung**, und geben Sie dann einen Namen für den Anspruch. 
+5.  Geben Sie die Informationen für **Name des Dynamics-Lösungsverkäufers**, **Kundenname** und **Name von ISV-Produkt/-Lösung** geben Sie dann einen Namen für den Anspruch ein. 
 
-6.  Wählen Sie **erstellen Anspruch**. 
+6.  Wählen Sie **Anspruch erstellen** aus. 
 
-Sie sehen den Status Ihrer Anspruch in das Statusfeld "von der Seite" Abonnements ". Wenn zusätzliche Informationen erforderlich ist, werden Sie es auch benachrichtigt werden.
+Der Status Ihres Anspruch wird im Statusfeld auf der Abonnementseite angezeigt. Wenn zusätzliche Informationen erforderlich sind, werden Sie auch dort darüber benachrichtigt.

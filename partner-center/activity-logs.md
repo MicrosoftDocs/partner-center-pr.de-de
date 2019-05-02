@@ -6,7 +6,7 @@ description: Aktivitätsprotokolle enthalten Informationen zu Transaktionen und 
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: Aktivitätsprotokolle, Abonnements, Abonnements, Zahlungen, Abrechnung, zu Transaktionen
+Keywords: Aktivitätsprotokolle, Abonnement, Abonnements, Zahlungen, Abrechnung, Transaktionen
 ms.localizationpriority: medium
 ms.openlocfilehash: 21a67e40fb012247849ccc28fd9b7c9009b4a770
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
@@ -30,14 +30,14 @@ Aktivitätsprotokolle enthalten Datensätze für Partneraktionen für Kundenkont
 
 **Anzeigen und Exportieren von Aktivitätsprotokollen**
 
-1.  Von der **Partner Center** , wählen Sie im Menü **Aktivitätsprotokoll**.
+1.  Wählen Sie im Menü **Partner Center** die Option **Aktivitätsprotokoll** aus.
 2.  Wählen Sie mithilfe der Felder **Von** und **Bis** den Aktivitätsprotokollierungszeitraum aus. Für den Export des Aktivitätsprotokolls wird standardmäßig der letzte Monat festgelegt.
 
     Jedes Aktivitätsprotokoll enthält einen Link zur Seite **Abonnements** des aufgeführten Kunden.
 
     Wählen Sie für ein beliebiges Aktivitätsprotokoll den Pfeil nach unten, um Details zu einer protokollierten Aktion anzuzeigen. Ein einzelnes Aktivitätsprotokoll kann eine große Menge von Daten enthalten, beispielsweise Daten zur Bestellung mehrerer Produkte.
 
-3.  Wählen Sie **Export log**, um die Abonnementdaten des Kunden in eine CSV-Datei zu kopieren und in den Standarddownloadordner auf Ihrem Computer hochzuladen. Zu den Datenspalten gehören u. a.:
+3.  Wählen Sie **Exportprotokoll** aus, um die Abonnementdaten des Kunden in eine CSV-Datei zu kopieren und in den Standarddownloadordner auf Ihrem Computer hochzuladen. Zu den Datenspalten gehören u. a.:
     -   **Affected customer**: Firmenname des Kunden
     -   **Aktion**: Produktname für das Abonnement
     -   **Partnerbenutzer**: Der der Aktivität zugeordnete Partner

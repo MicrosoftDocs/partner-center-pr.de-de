@@ -25,18 +25,18 @@ Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wä
 Über das Programm für Cloud-Lösungsanbieter können Sie Daten für alle Ihre Kunden einsehen. Beachten Sie, dass einige Kunden Lizenzen von anderen Partnern oder direkt von Microsoft erwerben können. In diesem Fall wird die Gesamtanzahl der Lizenzen für alle Partner angezeigt. Um nur Ihre eigenen Lizenzen anzuzeigen, rufen Sie stattdessen die Abonnements des Kunden auf.
 
 > [!NOTE]  
->  Aktuell werden nur Daten für Office 365 und Dynamics 365 angezeigt. Wir werden Daten für weitere Produkte in Zukunft aktivieren.
+>  Aktuell werden nur Daten für Office 365 und Dynamics 365 angezeigt. Wir werden in Zukunft Daten für weitere Produkte bereitstellen.
 
 ## <a name="find-license-and-user-data"></a>Suchen nach Lizenz- und Benutzerdaten
 
 
-**Für einen einzelnen Kunden**
+**Einzelner Kunde**
 
--   Wählen Sie **Kunden** aus der **Partner Center**, wählen Sie einen Kunden, und wählen Sie dann **Customer Insights**.
+-   Wählen Sie im **Partner Center** die Option **Kunden**, dann einen Kundennamen und schließlich **Kundendaten** aus.
 
-**Für Ihr portfolio**
+**Ganzes Portfolio**
 
-1.  Auf der **Partner Center**Option **analysieren**.
+1.  Wählen Sie im **Partner Center** die Option **Analysieren** aus.
 2.  Laden Sie Bereitstellungs- und Nutzungsdaten Ihres gesamten Kundenstamms herunter, indem Sie die Optionen für den **Export** auswählen.
 
 Terminologie:
@@ -70,14 +70,14 @@ Wenn Sie zahlreiche Hilfeanfragen und Fragen zu Vorgehensweisen erhalten, die Za
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problem:</strong> Die User-Adoption-Rate ist niedrig und viele Lizenzen sind&#39;t verwendet wird.</p>
-<p><strong>Was Sie berücksichtigen müssen:</strong> Die Kunden erkennen nicht, welchen Wert ihnen die Software bieten kann. Sie benötigen Unterstützung, um Möglichkeiten aufzuzeigen, wie sie die Software in ihre tägliche Arbeit integrieren können, um Aufgaben zu vereinfachen, die sie bereits täglich durchführen, oder um neue Wege zur Steigerung ihrer Produktivität zu finden.</p>
-<p><strong>Was versuchen Sie es:</strong> Fallstudien, Benutzerempfehlungen zu bestimmten Szenarien, Blogs mit Lernprogrammen oder Videos.</p></td>
+<td><p><strong>Problem:</strong> Die Akzeptanzrate bei den Benutzern ist niedrig, und viele Lizenzen werden nicht verwendet.</p>
+<p><strong>Mögliche Ursache:</strong> Die Kunden erkennen nicht, welchen Wert ihnen die Software bieten kann. Sie benötigen Unterstützung, um Möglichkeiten aufzuzeigen, wie sie die Software in ihre tägliche Arbeit integrieren können, um Aufgaben zu vereinfachen, die sie bereits täglich durchführen, oder um neue Wege zur Steigerung ihrer Produktivität zu finden.</p>
+<p><strong>Mögliche Maßnahme:</strong> Fallstudien, Benutzerempfehlungen zu bestimmten Szenarien, Blogs mit Lernprogrammen oder Videos.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Problem:</strong> Sie erhalten eine große Anzahl von Supportanrufen mit Bitten um Hilfe und Fragen zu Vorgehensweisen.</p>
-<p><strong>Was Sie berücksichtigen müssen:</strong> Kunden sind mit der Software, der Produktversion oder den Anwendungsgebieten noch nicht vertraut.</p>
-<p><strong>Was versuchen Sie es:</strong> Sie können eine duale Strategie (persönlich oder online)-Schulungen anbietet verwenden, um Kunden zu erhöhen&#39;s insgesamt Know-how, beim Höherstufen auch einige der Self-service-Optionen für Kunden verfügbar.</p>
+<p><strong>Mögliche Ursache:</strong> Kunden sind mit der Software, der Produktversion oder den Anwendungsgebieten noch nicht vertraut.</p>
+<p><strong>Mögliche Maßnahme:</strong> Sie können eine zweigleisige Strategie anwenden, indem Sie Schulungen (Präsenz- und Onlineschulungen) anbieten, um die Kenntnisse der Benutzer zu vertiefen, und gleichzeitig einige der für Kunden zur Verfügung stehenden Self-Service-Optionen bewerben.</p>
 <p>Sie können ggf. auch Ihre Supportwebsite so anpassen, dass sie zusätzlich zu den Supportkontaktinformationen auch die Self-Service-Optionen umfasst, die im Thema <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Kundenselbsthilfe</a> beschrieben sind.</p></td>
 </tr>
 </tbody>

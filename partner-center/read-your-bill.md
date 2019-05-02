@@ -2,7 +2,7 @@
 title: Informationen zu Ihrer Rechnung | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
-description: Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar. Es ist im Partner Center verfügbar.
+description: Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar. Sie steht im Partner Center zur Verfügung.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 ms.author: evansma
@@ -23,12 +23,12 @@ ms.locfileid: "62133960"
 -  Partner Center für Microsoft Cloud for US Government
 
 
-Der Rechnung finden Sie unter den **Partner Center** Menü, und wählen Sie dann **Abrechnung** mit Ihren Abrechnungsverlauf und Trends, finden Sie unter verknüpft werden soll, auf Ihre Rechnung und abstimmungsdatei-Datei, und die letzte Zahlung.
+Die Abrechnung befindet sich im Menü **Partner Center** unter **Abrechnung**. Dort können Sie Ihren Abrechnungsverlauf und -trends, Links zu Ihrer Rechnung und zur Kontenabstimmungsdatei sowie Ihre letzte Zahlung anzeigen.
 
 Partner im Cloud Solution Provider-Programm mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60 Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte und die nutzungsbasierte Abonnements).
 
 > [!NOTE]  
-> Ihre Rechnung ist eine Übersicht über alle Gebühren – über das Programm, Produkte und Kunden – für den aktuellen Abrechnungszeitraum deaktivieren, und es steht innerhalb von zwei (2) Tagen nach Ihrer Abrechnung ausgewählte Datum in UTC-Zeit. Z. B. Wenn Sie eine am 12. September Abrechnungsdatum haben, der Generierungsprozess der Rechnung beginnt um 12:00 Uhr UTC am 13. und abschließen, indem die 14. 12:00 Uhr UTC. Wenn Ihre Rechnung von 11:59 Uhr (UTC) am 15. nicht angezeigt wird, Sie haben nicht genügend Ihrer Vereinbarung zum Servicelevel und sollte einen Service Request-Datei. 
+> Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar und ist innerhalb von zwei (2) Tagen nach Ablauf des ausgewählten Abrechnungsdatums (in UTC-Zeit) verfügbar. Wenn beispielsweise das Abrechnungsdatum der 12. September ist, beginnt der Prozess zur Rechnungsgenerierung am 13. September um 12:00 Uhr UTC und endet am 14. September um 12:00 Uhr UTC. Sollte Ihre Rechnung bis zum 15. September, 11:59 Uhr UTC, nicht angezeigt werden, befinden Sie sich außerhalb der Vereinbarung zum Servicelevel (Service Level Agreement, SLA) und sollten eine Serviceanfrage senden. 
 
 Sie erhalten eine Rechnung für lizenzbasierte (Office 365) und nutzungsbasierte (Azure) Gebühren und eine separate Rechnung für einmalige Gebühren (Azure Reserved VM Instances).
 
@@ -57,7 +57,7 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 </tr>
 <tr class="even">
 <td>Rechnungsempfänger</td>
-<td>Die Adresse, an die wir Ihre Rechnung senden. Bearbeiten Sie Ihre Partner Center-abrechnungsprofils, um den Firmennamen oder die Adresse zu ändern. </td>
+<td>Die Adresse, an die wir Ihre Rechnung senden. Zum Ändern von Firmenname oder Adresse bearbeiten Sie Ihr Partner Center-Abrechnungsprofil. </td>
 </tr>
 <tr class="odd">
 <td>Lizenzbasierte Gebühren</td>
@@ -72,7 +72,7 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 <td>Beispielsweise der Rabatt, den der Kunde auf den normalen Preis des Abonnements erhält. Dies wird als Pauschbetrag und nicht als Preis pro Einheit oder Lizenz aufgeführt.</td>
 </tr>
 <tr class="odd">
-<td>Guthaben</td>
+<td>Gutschriften</td>
 <td>Guthaben oder Anpassungen für Änderungen an Abonnements (Beispiel: Erhöhung oder Reduzierung der Lizenzzahl).</td>
 </tr>
 <tr class="even">
@@ -105,15 +105,15 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 </tr>
 <tr class="odd">
 <td>Abrechnungszeitraum</td>
-<td>Die monatlich, zu dem Rechnungsdatum führt. Dies ist der Zeitraum, in dem Verwendungsbasierte Dienste verwendet lizenzbasierte Dienste sind für alle Guthaben Anpassungen oder Änderungen bezüglich der Anzahl der Lizenzen abgestimmt.</td>
+<td>Der monatliche Zeitraum bis zum Rechnungsdatum. Dies ist der Zeitraum, in dem nutzungsbasierte Dienste verbraucht und lizenzbasierte Dienste auf Guthabenanpassungen oder Änderungen in der Lizenzanzahl abgestimmt werden.</td>
 </tr>
 <tr class="even">
 <td>Rechnungsdatum</td>
-<td>Ihre Rechnungsdatum oder Jahrestag, die auf dem Ihre Rechnung jeden Monat erstellt wird.</td>
+<td>Ihr Rechnungsdatum oder Jahrestag, an dem Ihre Rechnung jeden Monat erstellt wird.</td>
 </tr>
 <tr class="odd">
 <td>Zahlungsbedingungen</td>
-<td>Für einmalige Einkäufe wird dies immer 60 Tage sein.</td>
+<td>Für einmalige Einkäufe wird dies immer 60 Tage sein.</td>
 </tr>
 <tr class="even">
 <td>Fälligkeitsdatum der Zahlung</td>
@@ -129,7 +129,7 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 </tr>
 <tr class="odd">
 <td>Dienstempfänger</td>
-<td>Die Adresse, an der der Dienst verwendet wird. (Dies ist die Überprüfung des Unternehmens rechtliche Unternehmensadresse.)</td>
+<td>Die Adresse, an der der Dienst verwendet wird. (Dies ist die rechtlich gültige Unternehmensadresse. Sie ist mit der Unternehmensprüfung verknüpft.)</td>
 </tr>
 </tbody>
 </table>
@@ -140,10 +140,10 @@ Aufgeschlüsselte Einzelheiten zu den Gebühren finden Sie in den zugehörigen A
 |:----------------|:-----------------------------|
 |Datum |Kaufdatum. |
 |Beschreibung |Produktname. |
-|Anzahl |Die Anzahl von erworbenen Produkten (Reservierungen etc). |
-|Preis pro Einheit |Preis pro Produkt (Reservierungen etc). |
+|Anzahl |Die Anzahl von erworbenen Produkten (z. B. Reservierungen). |
+|Preis pro Einheit |Preis pro Produkt (z. B. Reservierung). |
 |Rabatte |Alle anwendbaren Rabatte. |
-|Vorsteuerbetrag |Zwischensumme vor Steuern. |
+|Vorsteuerbetrag |Zwischensumme der Einkäufe vor Steuern. |
 |Mehrwertsteuer |Steuerbetrag. |
 |Gesamt |Zahlungen gesamt. |
  

@@ -67,7 +67,7 @@ Die folgenden Updates werden vom Cloud-Lösungsanbieter unterstützt:
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365-Business-Indien und Office 365 Business Essentials Indien kann zum Office 365 Business Premium Indien und nicht für Office 365 Business Premium aktualisiert werden.</p></td>
+<td><p>¹ Office 365 Business India und Office 365 Business Essentials India können auf Office 365 Business Premium India, aber nicht auf Office 365 Business Premium aktualisiert werden.</p></td>
 </tr>
 </tbody>
 </table>
@@ -88,12 +88,12 @@ Es ist in den letzten beiden Fällen möglich, dass der Kunde diese Abonnements 
 
 Weitere Informationen über die Auswirkung auf die Abrechnung finden Sie unter den Details zur Kündigung eines Abonnements oder dem Hinzufügen eines neuen Abonnements in [Allgemeine Abrechnungsszenarien](common-billing-scenarios.md).
 
-**Upgrade eines Abonnements**
+**Upgrade für Abonnements**
 
 1.  Um festzustellen, ob ein Abonnement für Upgrade berechtigt ist, wählen Sie Ihren Kunden, und öffnen Sie die Liste der Abonnements.
 2.  Wenn ein Upgrade auf das Abonnement durchgeführt werden kann, sehen Sie ein Informationssymbol direkt hinter dem Abonnementnamen. Zeigen Sie auf dieses Symbol, und wählen Sie dann **Jetzt aktualisieren**.
 3.  Wählen Sie das neue Angebot und dann **Absenden**.
-4.  Möglicherweise ist zusätzliche Arbeit erforderlich, um einige Benutzerkonten für bestimmte Dienste zu aktualisieren. Wenn dies der Fall ist, bietet das Partner Center eine Liste der Konten und Dienste, die betroffen waren. Hilfe finden Sie im Knowledge Base-Artikel [Bei Lizenzen neu zuweisen, während Sie Pläne in Office 365 wechseln](https://go.microsoft.com/fwlink/p/?LinkId=723576).
+4.  Möglicherweise ist zusätzliche Arbeit erforderlich, um einige Benutzerkonten für bestimmte Dienste zu aktualisieren. Wenn dies der Fall ist, zeigt Partner Center eine Liste der Konten und Dienste an, die betroffen sind. Hilfe finden Sie im Knowledge Base-Artikel [Bei Lizenzen neu zuweisen, während Sie Pläne in Office 365 wechseln](https://go.microsoft.com/fwlink/p/?LinkId=723576).
 
  
 

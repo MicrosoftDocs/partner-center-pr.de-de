@@ -1,11 +1,11 @@
 ---
-title: Incentives für Co-op-Ansprüche | Partner Center
+title: Incentives-Co-Op-Ansprüche | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
 description: Übermitteln Sie Ihre Incentiveansprüche, ohne dass zuerst Ihr Aktivitätsplan überprüft werden muss.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel
+keywords: Incentive-Ansprüche, Co-Op-Ansprüche, Co-Op-Mittel
 ms.localizationpriority: medium
 ms.openlocfilehash: c1ba6ca1fcc624958355761b5d36ffafb9dface2
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
@@ -20,7 +20,7 @@ ms.locfileid: "62135350"
 
 - Partner Center
 
-Wenn Sie teilnehmen, eines der Microsoft-Incentives Programme (z. B. die Partner-Incentives kooperativen Marketing für, Advisor für Online Services-Programm oder Dynamics-ISV-Programm), Sie anfordern, dass Rückerstattungen erzielten Geldmittel für Aktivitäten Sie dazu Microsoft-produktbekanntheit zu unterstützen. Sie senden einen Anspruch direkt über das Partner Center. Ihr Aktivitätsplan muss nicht mehr von Microsoft vor dem Senden eines Anspruchs überprüft werden. Übermitteln Sie Ihren Anspruch mit den erforderlichen Unterlagen innerhalb des zulässigen Zeitraums, das heißt 45 Tage nach dem Ende des Nutzungszeitraums. 
+Wenn Sie an einem der Microsoft Incentives-Programme (z. B. dem Partner Incentives Cooperative Marketing Fund, dem Online Services Advisor-Programm oder dem Dynamics ISV-Programm) teilnehmen, fordern Sie Rückerstattungen für erhaltene Gelder für Aktivitäten an, die Sie zur Förderung des Bewusstseins für Microsoft-Produkte durchgeführt haben. Sie übermitteln einen Anspruch direkt über das Partner Center. Ihr Aktivitätsplan muss nicht mehr von Microsoft vor dem Senden eines Anspruchs überprüft werden. Übermitteln Sie Ihren Anspruch mit den erforderlichen Unterlagen innerhalb des zulässigen Zeitraums, das heißt 45 Tage nach dem Ende des Nutzungszeitraums. 
 
 Ein erfolgreicher Anspruchs enthält:
 
@@ -32,12 +32,12 @@ Ein erfolgreicher Anspruchs enthält:
 >[!NOTE]
 >Microsoft behält sich das Recht vor, Originaldokumente zum Nachweis der Ausführung anzufordern. Bewahren Sie alle Originaldokumente für einen Zeitraum von 24 Monaten ab dem Datum der Aktivität auf. 
 
-|**Zu diesem Zweck**   |**Lesen Sie diesen**   |
+|**Aufgabe**   |**Artikel**   |
 |-----------------|:--------------------------------------|
-|Übermitteln eines Anspruchs mit den richtigen Dokumenten|[Erstellen und Verwalten eines Incentives Programm Aktivität Anspruchs](create-incentives-claims.md)|
-|Nach Übermittlung des Anspruchs: Verwalten von Anfragen zu zusätzlichen Dokumenten|[Erstellen und Verwalten eines Incentives Programm Aktivität Anspruchs](create-incentives-claims.md)  |
-|Sicherstellen, dass Sie die grundlegenden Anforderungen für den Aktivitätsanspruch kennen|[Incentives sammeln, wenn Ansprüche kernanforderungen kennen](core-requirements.md)   |
-|Erfahren der vollständigen Details zum Incentiveprogramm|[Partner-Incentives Co-op-Leitfaden](https://assets.microsoft.com/coop-guidebook.pdf)
-|Senden Sie ein OSA-Selling-Gebühr-Anspruch oder ISV Umsatz Zuordnung Anspruch |[Übermitteln Ihrer OSA-Ansprüche in Partner Center](submit-osa-claim.md)|
+|Übermitteln eines Anspruchs mit den richtigen Dokumenten|[Erstellen und Verwalten eines Anspruchs für eine Incentive-Programm-Aktivität](create-incentives-claims.md)|
+|Nach Übermittlung des Anspruchs: Verwalten von Anfragen zu zusätzlichen Dokumenten|[Erstellen und Verwalten eines Anspruchs für eine Incentive-Programm-Aktivität](create-incentives-claims.md)  |
+|Sicherstellen, dass Sie die grundlegenden Anforderungen für den Aktivitätsanspruch kennen|[Kennen der grundlegenden Anforderungen für Incentiveansprüche](core-requirements.md)   |
+|Erfahren der vollständigen Details zum Incentive-Programm|[Leitfaden für Partner-Incentives-Co-Op](https://assets.microsoft.com/coop-guidebook.pdf)
+|Übermitteln einer OSA-Verkaufsgebührenanspruchs oder ISV-Umsatzzuordnungsanspruchs |[Übermitteln Ihrer OSA-Ansprüche in Partner Center](submit-osa-claim.md)|
                                                                                  
                                    

@@ -1,11 +1,11 @@
 ---
-title: Azure-Experte Managed Services Provider-Programm | Partner Center
+title: Azure Expert Managed Services Provider-Programm | Partner Center
 ms.topic: article
 ms.date: 12/03/2018
-description: Experten und verkaufen und unterstützen von Azure können in der Azure-Experte MSP anwenden
+description: Experten für Vertrieb und Support von Azure können sich für die Teilnahme am Azure Expert MSP-Programm bewerben
 author: LauraBrenner
 ms.author: labrenne
-Keywords: Azure-Vertriebsteam, Experten Programme, Partnerprogramme
+Keywords: Azure-Vertrieb, Expertenprogramme, Partnerprogramme
 robots: ''
 ms.localizationpriority: medium
 ms.openlocfilehash: 4ad3ba4a5f8646b70ff2c8bd8aee950ff5c30339
@@ -15,13 +15,13 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134550"
 ---
-# <a name="azure-expert-managed-services-provider-program"></a>Azure-Experte Managed Services Provider-Programm
+# <a name="azure-expert-managed-services-provider-program"></a>Azure Expert Managed Services Provider-Programm
 
 
-Wenn Ihr Unternehmen ein Superstar verkaufen und Verwalten von Azure-Dienste für Kunden ist, suchen Sie in der Anwendung auf Azure-Experte Managed Services Provider-Programm. Azure-Experte MSP-Partner erhalten eine exklusive Badge, die sie von anderen Microsoft-Partnern unterschieden, und erhalten Sie höchste Priorität der Weiterleitung-Engine, die sie für die Co-Selling-Engagements priorisiert werden, erhalten Sie Unterstützung bei der Entwicklung neuer Methoden und kann exklusive Ereignisse.
+Wenn Ihr Unternehmen ein Spitzenreiter bei Verkauf und Verwaltung von Azure-Diensten für Kunden ist, sollten Sie erwägen, sich für das Azure Expert Managed Services Provider-Programm zu bewerben. Azure Expert MSP-Partner erhalten einen exklusiven Badge, der sie von anderen Microsoft-Partnern unterscheidet, und erhalten höchste Priorität im Empfehlungsmodul. Sie werden für Co-Selling-Aufträge priorisiert, erhalten Unterstützung bei der Entwicklung neuer Vorgehensweisen und können an exklusiven Veranstaltungen teilnehmen.
 
-Zu beginnen, auf das Azure-MSP angewendet wird, aus dem linken Navigationsbereich. Wählen Sie **Kompetenzen und Programme** und wählen Sie dann **Azure-Experte MSP**. Erfahren Sie mehr über [die Voraussetzungen und der Anwendungsprozess](https://partner.microsoft.com/membership/azure-expert-msp). 
+Um den Prozess der Bewerbung für das Azure MSP-Programm zu beginnen, wählen Sie im Navigationsmenü auf der linken Seite  **Kompetenzen und Programme** und dann **Azure Expert MSP** aus. Erfahren Sie mehr über [die Voraussetzungen und den Bewerbungsprozess](https://partner.microsoft.com/membership/azure-expert-msp). 
 
-Wenn Sie noch nicht infrage kommen, können Sie weiterhin Ihre Microsoft-Partnerschaft über die Mitgliedschaft Erweiterungen, Schulungen und andere Wachstumschancen erstellen.
-Erfahren Sie mehr über die Schritte, die Sie, um ergreifen können [entwickeln Sie Ihr Geschäft und Ihre Kenntnisse](https://partner.microsoft.com/membership/azure-expert-msp).
+Wenn Sie noch nicht qualifiziert sind, können Sie Ihre Microsoft-Partnerschaft durch Mitgliedschaftserweiterungen, Schulungen und andere Entwicklungsmöglichkeiten ausbauen.
+Erfahren Sie mehr über die Schritte, die Sie unternehmen können, um [ Ihr Unternehmen und Fachwissen zu entwickeln](https://partner.microsoft.com/membership/azure-expert-msp).
 

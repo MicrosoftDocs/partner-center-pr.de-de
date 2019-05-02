@@ -1,11 +1,11 @@
 ---
-title: Zahlungsbeleg Validation Tool – häufig gestellte Fragen | Partner Center
+title: Häufig gestellte Fragen zum Tool zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR) | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
-description: Überprüfen Sie, und reservieren Sie Gutscheine im Partner Center
+description: Überprüfen und Reservieren von Gutscheinen im Partner Center
 author: LauraBrenner
 ms.author: labrenne
-keywords: schulungsgutscheine, Software Assurance, Schulung, überprüfen Sie Gutscheine, reservieren Gutschein
+keywords: Schulungsgutscheine, Software Assurance, Schulung, Überprüfen von Gutscheinen, Reservieren von Gutscheinen
 ms.localizationpriority: medium
 ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
@@ -20,37 +20,37 @@ ms.locfileid: "62132584"
 
 - Partner Center
 
-Tool für die Überprüfung der Gutschein und einlösen wurde zur [Partner Center](https://partner.microsoft.com/en-us/pcv/dashboard/overview). Im folgenden werden einige der häufigsten Fragen Partner benötigen. 
+Das Tool zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR) wurde ins [Partner Center](https://partner.microsoft.com/en-us/pcv/dashboard/overview) verlagert. Es folgen einige der häufigsten Fragen, die Partner stellen. 
 
-**Für Partner, die zum Partner Center migriert sind**
+**Für zum Partner Center migrierte Partner**
 
- Ab März 31, 2019, werden alle Partner müssen ihre Gutscheine im Partner Center zu verwalten. Nur der MPN-Administrator kann VVR zugreifen. Um VVR zu verwenden, kann der MPN-Partner-Administrator zum Partner Center mithilfe von e-Mail-Adresse ihrer Arbeit anmelden. Wenn Sie nicht, dass dem Administrator Ihres Unternehmens MPN wissen, bitten Sie primären VVR Programm Kontakt Ihres Unternehmens.  Wenn Sie den Zugriff auf Partner Center haben, fahren Sie mit **Zugriffsverwaltung**Option **Benutzer**, und Filtern Sie nach **MPN Admin** . Dadurch erhalten Sie eine Liste der MPN-Administratoren Ihres Unternehmens.  
+ Ab dem 31. März 2019 müssen alle Partner ihre Gutscheine im Partner Center verwalten. Nur der MPN-Administrator kann auf das VVR-Programm zugreifen. Um das VVR-Programm nutzen zu können, muss sich der MPN-Partneradministrator mit seiner geschäftlichen E-Mail-Adresse im Partner Center anmelden. Wenn Sie den MPN-Administrator Ihres Unternehmens nicht kennen, wenden Sie sich an den primären Ansprechpartner für das VVR-Programm in Ihrem Unternehmen.  Wenn Sie Zugriff auf das Partner Center haben, wechseln Sie zu **Zugriffsverwaltung**, wählen Sie **Benutzer** aus, und filtern Sie nach **MPN-Administrator**. Dadurch erhalten Sie eine Liste der MPN-Administratoren in Ihrem Unternehmen.  
 
-**Für Partner noch in [Partner Membership Center](https://partner.microsoft.com/)**
+**Für noch im [Partner Membership Center](https://partner.microsoft.com/) aktive Partner**
 
-Ab März 31, 2019, werden alle Partner ihre Gutscheine im Partner Center verwaltet. Nur der MPN-Administrator kann VVR zugreifen. Um das Tool VVR im Partner Center zu verwenden, müssen Ihr Unternehmen zum Abschließen der Migration von PMC zum Partner Center. Nach der Migration abgeschlossen ist, VVR verwenden, kann für Partner Center, e-Mail-Adresse ihrer Arbeit mit der MPN-Partner-Administrator anmelden. Wenn Sie nicht, dass dem Administrator Ihres Unternehmens wissen, wenden Sie sich an der primäre VVR Programm Ansprechpartner für Ihr Unternehmen.  
-
-
-**Mein Unternehmen von PMC migriert wurde, aber wir noch nicht die DPS/SATV Programme verwendet, in den letzten 18 Monaten.**
-
-- Wenden Sie sich an den [PMC-Supportteam](mailto:proghelp@microsoft.com). 
+Ab dem 31. März 2019 verwalten alle Partner ihre Gutscheine im Partner Center. Nur der MPN-Administrator kann auf das VVR-Programm zugreifen. Um das VVR-Programm im Partner Center nutzen zu können, muss Ihr Unternehmen die Migration vom Partner Membership Center (PMC) zum Partner Center abschließen. Nach erfolgter Migration muss sich der MPN-Partneradministrator, um das VVR-Programm nutzen zu können, mit seiner geschäftlichen E-Mail-Adresse im Partner Center anmelden. Wenn Sie den Administrator Ihres Unternehmens nicht kennen, wenden Sie sich an den primären Ansprechpartner für das VVR-Programm in Ihrem Unternehmen.  
 
 
-**Mein Unternehmen hat zum Partner Center von PMC migriert. Muss ich keine bestimmte in VVR funktioniert?** 
+**Mein Unternehmen ist vom PMC zum Partner Center migriert, aber wir haben die DPS-/SATV-Programme in den letzten 18 Monaten nicht genutzt.**
 
-- Sie werden können VVR in Partner Center verwenden.  Um VVR zu verwenden, kann der MPN-Partner-Administrator zum Partner Center mithilfe von e-Mail-Adresse ihrer Arbeit anmelden. Wenn Sie neue Benutzer hinzufügen möchten, kann der globale Administrator dazu. Wenn Sie den Zugriff auf Partner Center haben, fahren Sie mit **Zugriffsverwaltung**Option **Benutzer**, und Filtern Sie nach **MPN Admin** von **globaler Administrator**. Dadurch erhalten Sie eine Liste von MPN und globale Administratoren Ihres Unternehmens.  
+- Wenden Sie sich an das [PMC-Supportteam](mailto:proghelp@microsoft.com). 
 
-**Ich möchte nur wenige Benutzer VVR zugreifen können**
 
-- Nur der MPN-Administrator kann VVR zugreifen. Zugriff auf Partner Center richtet sich nach Rollen und Berechtigungen. Ihre MPN-Administrator oder ein globaler Administrator kann bestimmen, wer VVR verwendet, indem Sie diese Berechtigungen erteilen, den Benutzern im Tool arbeiten müssen.
+**Mein Unternehmen ist vom PMC zum Partner Center migriert. Muss ich etwas Bestimmtes tun, um im VVR-Programm zu arbeiten?** 
 
-**VVR CHIP Portal zugreifen möchte.**
+- Sie können das VVR-Programm im Partner Center verwenden.  Um das VVR-Programm nutzen zu können, muss sich der MPN-Partneradministrator mit seiner geschäftlichen E-Mail-Adresse im Partner Center anmelden. Wenn Sie neue Benutzer hinzufügen möchten, ist der globale Administrator dazu in der Lage. Wenn Sie Zugriff auf das Partner Center haben, wechseln Sie zu **Zugriffsverwaltung**, wählen Sie **Benutzer** aus, und filtern Sie nach **MPN-Administratoradmin** oder **globaler Administrator**. Dadurch erhalten Sie eine Liste der MPN- und globalen Administratoren in Ihrem Unternehmen.  
 
-- Partner Center müssen Sie für die Anmeldung ein geschäftliches Konto (AAD).  CHIP verwendet persönliches Konto derzeit für die Anmeldung (Account, MSA oder Live ID).  Wenn Sie von VVR im Partner Center zu CHIP zu navigieren, müssen Sie zur Anmeldung bei CHIP, die mit Ihrer MSA oder Live-ID, die mit CHIP registriert ist.
+**Ich möchte, dass nur wenige Benutzer Zugriff auf das VVR-Programm haben**
 
-**Wie kann mein Unternehmen, das Tool VVR zugreifen?**
+- Nur der MPN-Administrator kann auf das VVR-Programm zugreifen. Der Zugriff auf das Partner Center richtet sich nach Rollen und Berechtigungen. Ihr MPN- oder globaler Administrator kann bestimmen, wer das VVR-Programm verwendet, indem er diese Berechtigungen den Benutzern erteilt, die damit arbeiten müssen.
 
-- Für den Zugriff auf das Tool VVR, muss Ihr Unternehmen in die SATV-Anwendung oder das SA-DPS-Programm registrieren.
-Informationen zum Registrieren im SATV finden [Software Assurance Training Gutschein (SATV) Programm im Partner Center](software-assurance-satv.md).
+**Ich möchte im VVR-Programm auf das CHIP-Portal zugreifen**
+
+- Das Partner Center erfordert, dass Sie sich mit einem Geschäftskonto (AAD) anmelden.  Die Anmeldung beim CHIP-Portal erfolgt derzeit über ein persönliches Konto (MSA oder Live ID).  Wenn Sie vom VVR-Programm im Partner Center zu CHIP navigieren, müssen Sie sich mit Ihrer bei CHIP registrierten MSA oder Live-ID bei CHIP anmelden.
+
+**Wie kann mein Unternehmen auf das VVR-Tool zugreifen?**
+
+- Um auf das VVR-Tool zugreifen zu können, muss sich Ihr Unternehmen entweder für das SATV- oder SA DPS-Programm registrieren.
+Informationen zur Registrierung beim SATV-Programm finden Sie unter [Software Assurance Training Voucher-Programm (SATV) im Partner Center](software-assurance-satv.md).
  <!--
 For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->

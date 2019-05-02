@@ -19,37 +19,37 @@ ms.locfileid: "62132960"
 
 -  Partner Center
 
-Das Microsoft-Programm für Cloud-Lösungsanbieter (Cloud Solution Provider, CSP) ermöglicht Partnern die Zusammenarbeit in folgenden Modellen:
+Das Microsoft Cloud Solution Provider-Programm ermöglicht Partnern die Zusammenarbeit in folgenden Modellen.
 
-## <a name="indirect-provider-indirect-reseller-model"></a>Indirekter Anbieter – indirekter Wiederverkäufer
+## <a name="indirect-provider-indirect-reseller-model"></a>Indirekter Anbieter – indirekter Vertriebspartner
 
-In diesem Modell, auch als zweistufiges Modell bezeichnet, arbeiten indirekte Anbieter und indirekte Wiederverkäufer zusammen, um auf Microsoft Cloud basierende Dienste an Organisationen in mehreren Gebietsschemas, vertikalen Märkten und Branchen zu verkaufen. 
+Bei diesem Modell, auch als zweistufiges Modell bezeichnet, arbeiten indirekte Anbieter und indirekte Vertriebspartner zusammen, um auf der Microsoft Cloud basierende Dienste an Organisationen in mehreren Regionen und Branchen zu verkaufen. 
 
 ### <a name="indirect-providers"></a>Indirekte Anbieter
 
-Indirekte Anbieter (auch bekannt als Händler) erwerben Produkte und Abonnements direkt von Microsoft und bieten dann diese Lösungen über Wiederverkäufer für Kunden an. Durch die Zusammenarbeit mit indirekten Wiederverkäufern können Anbieter ihre Reichweite und ihren Kundenstamm vergrößern. 
+Indirekte Anbieter (auch Händler genannt) erwerben Produkte und Abonnements direkt von Microsoft und bieten dann diese Lösungen über Vertriebspartner Kunden an. Durch die Zusammenarbeit mit indirekten Vertriebspartnern können Anbieter ihre Reichweite und ihren Kundenstamm vergrößern. 
 
-Wenn Sie ein genehmigter indirekter Anbieter im CSP sind, finden Sie unter [Zusammenarbeiten mit indirekten Wiederverkäufern im CSP](indirect-provider-tasks-in-partner-center.md) weitere Informationen zum Herstellen des Kontakts mit indirekten Wiederverkäufern und Kunden. 
+Wenn Sie ein genehmigter indirekter Anbieter im CSP sind, finden Sie unter [Zusammenarbeiten mit indirekten Vertriebspartnern im CSP](indirect-provider-tasks-in-partner-center.md) weitere Informationen zum Herstellen des Kontakts mit indirekten Vertriebspartnern und Kunden. 
 
-### <a name="indirect-resellers"></a>Indirekte Wiederverkäufer 
+### <a name="indirect-resellers"></a>Indirekte Vertriebspartner 
 
-Indirekte Wiederverkäufer arbeiten mit indirekten Anbieter zusammen, die eine direkte Beziehung mit Microsoft und die Infrastruktur für Kundensupport und Abrechnung haben. Die Partnerschaft mit indirekten Anbietern ermöglicht indirekten Wiederverkäufern beim Markteintritt die Zusammenarbeit mit erfahrenen Technologieanbietern ohne große Investitionen sowie die Bereitstellung eines breiteren Portfolios mit Microsoft-Lösungen. 
+Indirekte Vertriebspartner arbeiten mit indirekten Anbietern zusammen, die eine direkte Beziehung mit Microsoft und die Infrastruktur für Kundensupport und Abrechnung haben. Die Partnerschaft mit indirekten Anbietern ermöglicht indirekten Vertriebspartnern beim Markteintritt die Zusammenarbeit mit erfahrenen Technologieanbietern ohne große Investitionen sowie die Bereitstellung eines breiteren Portfolios mit Microsoft-Lösungen. 
 
-Wenn Sie ein indirekter Wiederverkäufer oder an der Registrierung im CSP als indirekter Wiederverkäufer interessiert sind, finden Sie unter [Zusammenarbeiten mit indirekten Wiederverkäufern im CSP](indirect-reseller-tasks-in-partner-center.md) weitere Informationen zum Herstellen des Kontakts mit indirekten Anbietern und Kunden.
+Wenn Sie ein indirekter Vertriebspartner oder an der Registrierung im CSP als indirekter Vertriebspartner interessiert sind, finden Sie unter [Zusammenarbeiten mit indirekten Vertriebspartnern im CSP](indirect-reseller-tasks-in-partner-center.md) weitere Informationen zum Herstellen des Kontakts mit indirekten Anbietern und Kunden.
 
-Sie sind nicht sicher, ob Sie sich als indirekter Wiederverkäufer oder als direkter Partner im CSP registrieren sollen? Lesen Sie die Informationen unter [Erkunden Sie das indirekte Modell](https://partner.microsoft.com/cloud-solution-provider/indirect) auf der [Microsoft Partner Network-Website](https://partner.microsoft.com).   
+Sie sind nicht sicher, ob Sie sich als indirekter Vertriebspartner oder als direkter Partner im CSP registrieren sollen? Lesen Sie auf der [Microsoft Partner Network-Website](https://partner.microsoft.com) die Informationen unter [Erkunden Sie das indirekte Modell](https://partner.microsoft.com/cloud-solution-provider/indirect).   
 
-## <a name="multi-partner-support"></a>Multipartner-Unterstützung
+## <a name="multi-partner-support"></a>Support für mehrere Partner
 
-Das Multipartner-Feature in Partner Center unterstützt Szenarien, in denen ein Kunde mit mehreren Partnern zusammenarbeiten muss. Beispielsweise möchte er mit einem Partner aufgrund seiner Kenntnisse in Bezug auf Office 365 zusammenarbeiten, gleichzeitig aber mit einem anderen Partner zusammenarbeiten, der auf Microsoft Azure spezialisiert ist. Weitere Informationen finden Sie unter [Multipartner-Unterstützung](multipartner.md).
+Das Partner Center-Feature für mehrere Partner unterstützt Szenarien, in denen ein Kunde mit mehreren Partnern zusammenarbeiten muss. Beispielsweise möchte der Kunde mit einem Partner aufgrund seiner Kenntnisse in Bezug auf Office 365 zusammenarbeiten, gleichzeitig aber einen anderen Partner beauftragen, der auf Microsoft Azure spezialisiert ist. Weitere Informationen finden Sie unter [Multipartner-Unterstützung](multipartner.md).
 
-Die Multipartner-Unterstützung ist auch in Microsoft-Angeboten für die nationale Cloud verfügbar 
+Die Unterstützung mehrerer Partner ist auch in Microsoft-Angeboten für nationale Clouds verfügbar. 
 
-## <a name="multi-channel-support"></a>Multichannel-Unterstützung
+## <a name="multi-channel-support"></a>Unterstützung mehrerer Kanäle
 
-Das Multichannel-Feature in Partner Center unterstützt Szenarien, in denen ein Kunde einen Partner für die Bereitstellung und den Support eines an anderer Stelle erworbenen Abonnements beauftragen möchte. Weitere Informationen finden Sie unter [Multichannel-Unterstützung](multichannel.md).
+Das Partner Center-Feature zur Unterstützung mehrerer Kanäle eignet sich für Szenarien, in denen ein Kunde einen Partner für die Bereitstellung und den Support eines an anderer Stelle erworbenen Abonnements beauftragen möchte. Weitere Informationen finden Sie unter [Multichannel-Unterstützung](multichannel.md).
 
-Die Multichannel-Unterstützung ist auch in Microsoft-Angeboten für die nationale Cloud verfügbar
+Die Multichannel-Unterstützung ist auch in Microsoft-Angeboten für nationale Clouds verfügbar.
 
 > [!IMPORTANT]  
-> Ein Partner im CSP-Programm kann nicht online-Dienste derzeit an einem anderen Partner im CSP-Programm verkaufen. Microsoft überprüft fortlaufend auf, die Richtlinien und Funktionen aller Programme. Alle Neuigkeiten zu Feature-Releases oder-Änderungen der Richtlinie wird durch die üblichen Kommunikationskanäle, einschließlich bekanntgegeben [Partner Center-Ankündigungen](https://partner.microsoft.com/en-us/pcv/announcements).
+> Ein Partner im CSP-Programm kann derzeit einem anderen Partner im CSP-Programm keine Onlinedienste verkaufen. Microsoft überprüft ständig die Richtlinien und Möglichkeiten aller Programme. Alle Neuigkeiten zur Freigabe von Features oder Richtlinienänderungen werden über die üblichen Kommunikationskanäle angekündigt, einschließlich [Partner Center-Ankündigungen](https://partner.microsoft.com/en-us/pcv/announcements).

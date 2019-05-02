@@ -6,7 +6,7 @@ description: Nach dem Kauf eines neuen Abonnements für einen Kunden können Sie
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: kundenverwaltung, Konto Lizenzen-Konto zu erstellen, Zuweisen von Lizenzen, Verwaltung der Benutzer, Kennwort, die kennwortzurücksetzung, Kennwort ändern
+Keywords: Kundenverwaltung, Konto, Konto erstellen, Lizenzen, Lizenz zuweisen Benutzerverwaltung, Kennwort, Kennwort zurücksetzen, Kennwort ändern
 ms.localizationpriority: medium
 ms.openlocfilehash: a66c1fe8965ecbc2d432efaf0a3e732b6ecd792b
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
@@ -27,27 +27,27 @@ Sie können neue Benutzer erstellen und neue Benutzer im Konto eines Kunden lös
 
 Wenn Sie neue Abonnements für einen Kunden kaufen, sollte Ihnen der Kunde eine Liste aller Benutzer, die Konten benötigen, sowie die Benutzerberechtigungen und die benötigten Dienste jedes Benutzer bereitstellen.  
 
-Können [Abonnements gleichzeitig für mehrere Benutzer zuweisen](bulk-license-provisioning-for-multiple-users.md), indem Sie die Namen mit einer [Excel-kompatiblen CSV-Datei](adding-multiple-users-to-a-customer-account.md) importieren.
+Sie können [Abonnements gleichzeitig mehreren Benutzern zuweisen](bulk-license-provisioning-for-multiple-users.md), indem Sie die Namen mithilfe einer [Excel-kompatiblen CSV-Datei](adding-multiple-users-to-a-customer-account.md) importieren.
 
 <a href="" id="createuseraccounts"></a>
 **Erstellen von Benutzerkonten für einen Kunden**
 
-1.  Von der **Partner Center** , wählen Sie im Menü **Kunden**. Wählen Sie einen Kunden aus der Liste aus.
+1.  Wählen Sie im Menü **Partner Center** die Option **Kunden** aus. Wählen Sie einen Kunden aus der Liste aus.
 
 2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**.
 
-3.  Wählen Sie für jeden Benutzer **Benutzer hinzufügen**, und geben Sie die Informationen, einschließlich Berechtigungen und Lizenzen, ein. **Speichern** Sie Ihre Änderungen.
+3.  Klicken Sie für jeden Benutzer auf **Benutzer hinzufügen**, und geben Sie die Informationen, einschließlich Berechtigungen und Lizenzen, ein. **Speichern** Sie Ihre Änderungen.
 
 4.  Notieren Sie den Benutzernamen und das temporäre Kennwort, um diese an den Benutzer zu senden. 
 
-5.  Wenn Sie mehrere Benutzer hinzufügen, verwenden Sie **Hinzufügen eines weiteren Benutzers**. 
+5.  Wenn Sie mehrere Benutzer hinzufügen, befolgen Sie die Anweisungen unter **Hinzufügen eines weiteren Benutzers**. 
 
-6. Sie können außerdem gleichzeitig mehrere Benutzer über [den Import einer Excel-kompatiblen CSV-Datei](adding-multiple-users-to-a-customer-account.md) hinzufügen. Wenn Sie mehrere Benutzer auf einmal hinzufügen, indem Sie Weiteren Benutzer hinzufügen verwenden oder eine mit Excel kompatible CSV-Datei importieren, können Sie warten, bis Sie mit dem gesamten Satz fertig sind, bevor Sie die Namen und Kennwörter auf dem Bestätigungsbildschirm per E-Mail senden oder ausdrucken.
+6. Sie können auch mehrere Benutzer gleichzeitig über [den Import einer Excel-kompatiblen CSV-Datei](adding-multiple-users-to-a-customer-account.md) hinzufügen. Sie können warten, bis Sie mit dem gesamten Satz fertig sind, bevor Sie die Namen und Kennwörter auf dem Bestätigungsbildschirm per E-Mail senden oder ausdrucken.
 
 <a href="" id="userlicensing"></a>
-**Hinzufügen oder Entfernen von Lizenzen für einen Kunden**
+**Hinzufügen oder Entfernen von Benutzerlizenzen für einen Kunden**
 
-1.  Von der **Partner Center** , wählen Sie im Menü **Kunden**. Wählen Sie den Kunden aus der Liste aus.
+1.  Wählen Sie im Menü **Partner Center** die Option **Kunden** aus. Wählen Sie den Kunden aus der Liste aus.
 
 2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**.
 
@@ -56,9 +56,9 @@ Können [Abonnements gleichzeitig für mehrere Benutzer zuweisen](bulk-license-p
 4.  Wählen Sie **Lizenzen verwalten**. Nehmen Sie Ihre Änderungen vor, und wählen Sie anschließend **Speichern**.
 
 <a href="" id="resetpassword"></a>
-**Zurücksetzen des Kennworts eines Benutzers für einen Kunden**
+**Zurücksetzen eines Benutzerkennworts für einen Kunden**
 
-1.  Von der **Partner Center** , wählen Sie im Menü **Kunden**. Wählen Sie den Kunden aus der Liste aus.
+1.  Wählen Sie im Menü **Partner Center** die Option **Kunden** aus. Wählen Sie den Kunden aus der Liste aus.
 
 2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**. Wählen Sie den Benutzer aus der Liste aus.
 
@@ -69,22 +69,22 @@ Können [Abonnements gleichzeitig für mehrere Benutzer zuweisen](bulk-license-p
 <a href="" id="deleteuseraccounts"></a>
 **Löschen von Benutzerkonten für einen Kunden**
 
-1.  Von der **Partner Center** , wählen Sie im Menü **Kunden**. Wählen Sie den Kunden aus der Liste aus.
+1.  Wählen Sie im Menü **Partner Center** die Option **Kunden** aus. Wählen Sie den Kunden aus der Liste aus.
 
 2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**. Wählen Sie den Benutzer aus der Liste aus.
 
 3.  Wählen Sie am unteren Bildschirmrand **Benutzerkonto löschen**.
 
-Wenn Sie dieses Konto innerhalb von 30 Tagen wiederherstellen müssen, finden Sie es auf der Registerkarte **Gelöschte Benutzer** der Liste **Benutzer und Lizenzen** des Kunden. Sie haben 30 Tage zum Wiederherstellen eines gelöschten Benutzers.
+Wenn Sie dieses Konto wiederherstellen müssen, finden Sie es auf der Registerkarte **Gelöschte Benutzer** in der Liste **Benutzer und Lizenzen** des Kunden. Sie haben zum Wiederherstellen eines gelöschten Benutzers 30 Tage Zeit.
 
 <a href="" id="restoreuseraccounts"></a>
 **Wiederherstellen gelöschter Benutzerkonten**
 
-1.  Von der **Partner Center** , wählen Sie im Menü **Kunden**, wählen Sie dann aus der Liste der Kunden.
+1.  Wählen Sie im Menü **Partner Center** die Option **Kunden** und dann einen Kunden in der Liste aus.
 
 2.  Wählen Sie **Benutzer und Lizenzen**.
 
-3.  Wählen Sie die Registerkarte **Gelöschte Benutzer**. Sie sollte **(1)** oder mehr anzeigen, wenn gelöschten Benutzer vorhanden sind, die wiederhergestellt werden können.
+3.  Wählen Sie die Registerkarte **Gelöschte Benutzer**. Sie sollte **(1)** oder mehr anzeigen, wenn gelöschte Benutzer vorhanden sind, die wiederhergestellt werden können.
 
 4.  Aktivieren Sie das Kontrollkästchen von mindestens einem gelöschten Benutzer, und wählen Sie **Wiederherstellen**.
 
@@ -95,7 +95,7 @@ Wenn Sie dieses Konto innerhalb von 30 Tagen wiederherstellen müssen, finden S
 
 [Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer](bulk-license-provisioning-for-multiple-users.md)
 
-[Erstellen Sie mehrere Benutzer für ein Kundenkonto](adding-multiple-users-to-a-customer-account.md)
+[Erstellen mehrerer Benutzer für ein Kundenkonto](adding-multiple-users-to-a-customer-account.md)
 
  
 

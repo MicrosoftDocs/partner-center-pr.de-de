@@ -15,7 +15,7 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134990"
 ---
-# <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Für die Cloud Solution Provider-Programm, Vereinbarungen, Preislisten und Angebote
+# <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Programmleitfaden, Vereinbarungen, Preislisten und Angebote zu Cloud Solution Provider
 
 **Gilt für**
 
@@ -25,66 +25,66 @@ ms.locfileid: "62134990"
 
 Sehen Sie sich die Informationen in diesem Artikel am, um die Anforderungen für die Teilnahme am Programm für Cloud Solution Provider (Cloud Solution Provider, CSP) von Microsoft zu verstehen.
 
-## <a name="cloud-solution-provider-program-guide"></a>Für die Cloud Solution Provider-Programm
+## <a name="cloud-solution-provider-program-guide"></a>Programmleitfaden für Cloud Solution Provider
 
 Lesen Sie die Anforderungen, wie Sie ein Partner im CSP-Programm werden.
 
-[Programmhandbuch für Cloud Solution Provider-Partner](https://go.microsoft.com/fwlink/p/?LinkId=617100)
+[Programmleitfaden für Cloud Solution Provider-Partner](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->Wenn Sie ein Business Buchstaben bestätigt oder zertifizieren Ihren Status als ein genehmigter Microsoft-Partner im Cloud Solution Provider-Programm benötigen [an den Support wenden](https://partner.microsoft.com/pcv/servicerequests/create) anfordern.
+>Wenn Sie ein Geschäftsschreiben benötigen, das Ihren Status als anerkannter Microsoft-Partner im Cloud Solution Provider-Programm bestätigt oder zertifiziert, wenden Sie sich an den [Support](https://partner.microsoft.com/pcv/servicerequests/create), um dieses anzufordern.
 
-## <a name="cloud-solution-provider-partner-agreement"></a>Cloud Solution Provider-Partner-Vertrag
+## <a name="cloud-solution-provider-partner-agreement"></a>Cloud Solution Provider – Partnervertrag
 
 Microsoft-Partner müssen diese Vereinbarung unterzeichnen, um am Cloud Solution Provider-Programm teilnehmen zu können. Überprüfen Sie den Leitfaden für den Markt oder die nationale Cloud, in dem bzw. der Sie verkaufen möchten.
 
-[Microsoft Cloud Reseller Agreement: Nordamerika, Südamerika, Mittelamerika und Karibik](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[Microsoft Cloud Reseller Agreement – Nordamerika, Mittelamerika, Südamerika, Karibik](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft Cloud Reseller Agreement – Asien, Australien und Pazifik](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[Microsoft Cloud Reseller Agreement – Asien, Australien, Pazifischer Raum](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
-[Microsoft Cloud Reseller Agreement – Europa, Naher Osten und Afrika](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[Microsoft Cloud Reseller Agreement – Europa , Naher Osten und Afrika](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
 [Microsoft Cloud Reseller Agreement – Japan](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[Microsoft Cloud Reseller Agreement – Südkorea](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[Microsoft Cloud Reseller Agreement – Korea](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
 [Microsoft Cloud Reseller Agreement – Taiwan](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Microsoft Cloud Reseller Agreement - Microsoft-Cloud für US-Behörden](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[Microsoft Cloud Reseller Agreement – Microsoft Cloud for US Government](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
-## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud vereinbarungsvorlagen Kunden
+## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud Agreement – Kundenvorlagen
 
-Bevor Sie auf einen Kunden eine Bestellung aufgeben können, muss der Kunde akzeptieren und der geltenden Vereinbarung für Microsoft Cloud anmelden. Microsoft Cloud Agreements sind regionsspezifische und in mehreren Sprachen verfügbar. Wechseln Sie zu Microsoft Cloud Vertrag [Kunden Vorlagen](agreements.md) auf der Microsoft Cloud Vereinbarung gefunden, die Sie benötigen, mit neuen Kunden zu überprüfen.
+Bevor Sie eine Bestellung im Auftrag eines Kunden aufgeben können, muss der Kunde den entsprechenden Microsoft Cloud-Vertrag akzeptieren und unterzeichnen. Microsoft Cloud-Verträge sind regionsspezifisch und in mehreren Sprachen verfügbar. Wechseln Sie zu [Kundenvorlagen](agreements.md) für Microsoft Cloud-Verträge, um den Microsoft Cloud-Vertrag zu finden, den Sie mit neuen Kunden überprüfen müssen.
 
 >[!IMPORTANT]
->Sie müssen bestätigen, dass ein Kunde die Microsoft-Cloud-Vertrag akzeptiert hat, durch die Bereitstellung von Informationen über die Person, die es signiert. Finden Sie unter [bestätigen, dass Kunden der Microsoft-Cloud-Vereinbarung](confirm-consent.md) und [Vertrag zwischen Microsoft Cloud Customer Bestätigung häufig gestellte Fragen](confirm-consent-faq.md) Weitere Details.
+>Sie müssen bestätigen, dass ein Kunde dem Microsoft Cloud-Vertrag zugestimmt hat, indem Sie Informationen über die Person bereitstellen, die den Vertrag unterzeichnet hat. Weitere Informationen finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](confirm-consent.md) und [Bestätigung der Kundenzustimmung zum Microsoft Cloud-Vertrag – Häufig gestellte Fragen](confirm-consent-faq.md).
 
-### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Professionelle Secrecy Zusatz mit der Cloud von Microsoft-Vereinbarung (Deutschland)
+### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Berufsgeheimnisträger Zusatzvereinbarung für den Microsoft Cloud-Vertrag (Deutschland)
 
-In Deutschland müssen der Criminal-Code (Abschnitt 203) und den professionellen Verhaltensregeln bestimmte Client-Beziehungen sind, z. B. die Beziehung zwischen Patienten und deren medizinischen Ärzte und die Beziehung zwischen, vertraulich behandelt werden Anwälte und ihren Clients. Diese beruflichen Gruppen müssen professionelle Secrecy sicherstellen. Für diese und andere Berufe cloudbasierte Dienste aus der Cloud Solution Provider erwerben muss der Cloud-Dienstanbieter eine schriftliche Vereinbarung mit dem Kunden daraus schließen, die professionelle Secrecy sicherstellt.
+In Deutschland verlangen das Strafgesetzbuch (§ 203) und die berufsrechtlichen Verhaltenkodizes die Geheimhaltung bestimmter Kundenbeziehungen. Dazu zählen beispielsweise das Verhältnis zwischen Patienten und ihren behandelnden Ärzten und das Verhältnis zwischen Anwälten und ihren Mandanten. Diese Berufsgruppen haben das Berufsgeheimnis zu wahren. Damit diese und andere Berufsgruppen cloudbasierte Dienste von Cloudlösungsanbietern (Cloud Solution Providers, CSPs) beziehen können, muss der Clouddienstanbieter mit dem Kunden eine schriftliche Vereinbarung schließen, in der die Wahrung des Berufsgeheimnisses gewährleistet wird.
 
-Wenn Sie in Deutschland Geschäfte, müssen Sie dieses Zusatzes professional Secrecy für Ihre Kunden gibt es zusätzlich zu den Microsoft-Cloud-Vertrag angeben.
+Wenn Sie in Deutschland Geschäfte tätigen, müssen Sie Ihren Kunden dort möglicherweise diese Ergänzung des Berufsgeheimnisses zusätzlich zum Microsoft Cloud-Vertrag vorlegen.
 
-[Microsoft Cloud Vereinbarung Professional Secrecy Zusatz für Deutschland (de)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+[Microsoft Cloud Agreement Professional Secrecy Amendment for Germany (in englischer Sprache)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-[Microsoft Cloud Vereinbarung Professional Secrecy Zusatz für Deutschland (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+[Microsoft Cloud Agreement Berufsgeheimnisträger Zusatzvereinbarung für Deutschland (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 ## <a name="pricing"></a>Preise
 
-Laden Sie die Preisdetails für lizenzbasierte Verwendungsbasierte und einmalige Käufe aus der **Preise und Angebote** Seite, die von Ihrer **Partner Center** Menü.
+Laden Sie Preisdetails für lizenzbasierte und nutzungsbasierte Dienste sowie für einmalige Einkäufe von der Seite **Preise und Angebote** herunter (verfügbar im Menü **Partner Center**).
 
 Die lizenzbasierte Preisliste wird monatlich aktualisiert, und Microsoft veröffentlicht neue Preise 30 Tage, bevor diese wirksam werden. Beispiele für lizenzbasierte Dienste sind Office 365, Enterprise Mobility Suite und Microsoft Dynamics CRM. 
 
 Die nutzungsbasierten Preise sind dynamisch und ändern sich häufig. Ein Beispiel für nutzungsbasierte Dienste ist Microsoft Azure.
 
-Preise für einmalige Einkäufe sind ebenfalls dynamisch. Beispiele für einmalige Einkäufe sind Microsoft Azure-Reservierungen und die entsprechenden Abonnements zu Windows Server und SQL-Software.
+Preise für einmalige Einkäufe sind ebenfalls dynamisch. Beispiele für einmalige Käufe sind Microsoft Azure Reservations und entsprechende Abonnements für Windows Server- und SQL-Software.
 
-Preisinformationen zu Azure Marketplace-Angebote, finden Sie unter **Marketplace** im linken Navigationsmenü Partner Center. Wählen Sie ein Produkt aus, um Informationen über die Verleger-SKUs finden und Preise. Die Preise für diese Azure Marketplace-Produkte können häufig ändern. Um aktuelle Preisinformationen für alle Marketplace-Produkte zu erhalten, wählen **Export Preisliste** um eine Tabelle mit allen Tarif Daten zu generieren. Diese Informationen werden täglich, aktualisiert, damit Sie überprüfen, können sie beliebig oft, wie Sie möchten.
+Preisinformationen zu den Angeboten des Azure Marketplace finden Sie unter **Marketplace** im linken Navigationsmenü im Partner Center. Wählen Sie ein Produkt aus, um Informationen zu Herausgeber, SKUs und Preisen anzuzeigen. Die Preise für diese Azure Marketplace-Produkte können sich ständig ändern. Um aktuelle Preisinformationen für alle Marketplace-Produkte zu erhalten, wählen Sie **Preisliste exportieren** aus, damit Sie eine Tabelle mit allen Preisdaten generieren. Diese Informationen werden täglich aktualisiert, sodass Sie sie beliebig oft überprüfen können.
 
 ## <a name="offers"></a>Angebote
 
-Als Partner im CSP können Sie eine Vielzahl von Microsoft-Produkten, Diensten und Lösungen, einschließlich Office 365, Enterprise Mobility Suite, Microsoft Dynamics und Microsoft Azure verkaufen. Weitere Informationen darüber, welche Angebote für den Verkauf in diese Produktfamilien verfügbar sind, finden Sie unter der CSP-Angebotsmatrix auf die **Preise und Angebote** Seite, die von Ihrer **Partner Center** Menü. Dieses Dokument wird jeden Monat aktualisiert.
+Als Partner im CSP können Sie eine breite Palette von Microsoft-Produkten, -Diensten und -Lösungen verkaufen, darunter Office 365, Enterprise Mobility Suite, Microsoft Dynamics und Microsoft Azure. Weitere Informationen dazu, welche Angebote für den Verkauf innerhalb dieser Produktfamilien für Sie verfügbar sind, finden Sie in der CSP-Angebotsmatrix auf der Seite **Preise und Angebote** (verfügbar im Menü **Partner Center**). Dieses Dokument wird jeden Monat aktualisiert.
 
 Für CSP-Partner, die die CREST-API für die Nutzungsaufzeichnung verwenden, veröffentlicht Microsoft auf der Seite **Preise und Angebote** auch eine Liste der Azure-Dienste in CSP.
 
-Weitere Informationen zu Azure Marketplace-Angebote, die von unabhängigen Softwareanbietern (ISVs) veröffentlicht, finden Sie auf die **Marketplace** Seite im linken Navigationsmenü. Derzeit können nur die Produkttypen SaaS (Software als Dienst) im Partner Center erworben werden. Sie müssen das Azure-Portal erwerben Sie andere Arten von Azure Marketplace-Angebote finden Sie unter.
+Weitere Informationen zu den Angeboten von unabhängigen Softwareherstellern (ISVs) im Azure Marketplace finden Sie auf der Seite **Marketplace** im linken Navigationsmenü. Derzeit können im Partner Center nur SaaS-Produkttypen (Software as a Service) erworben werden. Sie müssen das Azure-Portal besuchen, um andere Arten von Azure Marketplace-Angeboten zu erwerben.

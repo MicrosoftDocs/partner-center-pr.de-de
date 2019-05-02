@@ -1,11 +1,11 @@
 ---
-title: Werden Sie als globaler Administrator für Ihr Unternehmen | Partner Center
+title: Werden Sie zum globalen Administrator für Ihr Unternehmen | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
-description: Um viele der Aufgaben im Partner Center zu tun, müssen Sie zuerst den Besitz der Domäne zu überprüfen. Viele Aufgaben im Partner Center erfordern einen globalen Administrator. Wenn Ihr Unternehmen noch keines vorhanden nicht ist, können Sie werden eine.
+description: Damit Sie viele der Aufgaben im Partner Center erledigen können, müssen Sie zunächst den Besitz Ihrer Domain bestätigen. Viele Aufgaben im Partner Center erfordern einen globalen Administrator. Wenn Ihr Unternehmen noch keinen hat, können Sie globaler Administrator werden.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Überprüfen der Domäne, Überprüfung der Domäne, Domäne "," globaler Administrator "," Benutzerrollen "," Berechtigungen
+keywords: Domäne, Domänenüberprüfung, Domäne überprüfen, globaler Administrator, Benutzerrollen, Berechtigungen
 ms.openlocfilehash: 55f69cb82789fa3b97bfe122b460ba9a129c37b7
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
 ms.translationtype: HT
@@ -19,34 +19,34 @@ ms.locfileid: "62135410"
 
 - Partner Center
 
-Bei der ersten Anzeichen für Ihr Unternehmen in Partner Center, es wahrscheinlich ist werden Ihre Mitarbeiter nicht erforderlich, um zu beginnen, arbeiten im Partner Center Rollen zugewiesen wurden. Im Partner Center funktioniert, muss jeder damit eine Rolle, die ihnen zugewiesene Berechtigungen enthält.  
+Wenn sich Ihr Unternehmen zum ersten Mal im Partner Center anmeldet, ist es wahrscheinlich, dass Ihren Mitarbeitern nicht die Rollen zugewiesen wurden, die sie für die Aufnahme der Arbeit im Partner Center benötigen. Um im Partner Center arbeiten zu können, muss jedem eine Rolle zugewiesen sein, die auch Berechtigungen umfasst.  
 
-Sie müssen, um den Besitz der Domäne zu überprüfen, damit Sie die Vorteile Ihres Unternehmens erwerben können, berechtigt ist, neue Benutzer hinzufügen und ihnen Rollen zuweisen oder andere Aufgaben im Partner Center zu erledigen. 
+Sie müssen den Besitz Ihrer Domain bestätigen, damit Sie die Vorteile, für die Ihr Unternehmen berechtigt ist, erwerben, neue Benutzer hinzufügen und ihnen Rollen zuweisen oder andere Aufgaben im Partner Center ausführen können. 
 
 >[!Note]
->Beispielsweise ist ein globaler Administrator in Ihrem Unternehmen diejenige, die Clouddienste verwaltet. Wenn Ihr Unternehmen verfügt über ein globaler Administrator sein, jedoch nicht Sie sicher, dass der, der es sich handelt, aus der **Symbol "Einstellungen"** oben rechts im Partner Center, wählen Sie im **benutzerverwaltung**. Suchen von globalen Administratoren, wenden Sie sich an, durch die Verwaltung der Benutzer möchte, und Filtern von globalen Administrator.
+>Ein globaler Administrator ist z. B. in Ihrem Unternehmen derjenige, der Clouddienste verwaltet. Wenn Ihr Unternehmen über einen globalen Administrator verfügt, Sie sich aber nicht sicher sind, wer es ist, wählen Sie **Benutzerverwaltung** über das Symbol **Einstellungen** oben rechts im Partner Center aus. Suchen Sie nach globalen Administratoren, die Sie kontaktieren möchten, indem Sie zur Benutzerverwaltung wechseln und nach globalen Administratoren filtern.
 
 ## <a name="verify-your-domain-ownership"></a>Überprüfen Ihres Domänenbesitzes
 
-1. Im Partner Center aus der **Mitgliedschaft bietet** Seite **werden als globaler Administrator**. 
+1. Wählen Sie im Partner Center auf der Seite **Mitgliedschaftsangebote** die Option **Globaler Administrator werden** aus. 
 
-2. Auf der **Domänenbesitzrecht** Kopie der Seite der TXT-Datei Werte aus der Tabelle. Beachten Sie, dass Ihre Domäne bereits für Sie ausgewählt ist.
+2. Kopieren Sie auf der Seite zum **Überprüfen des Domänenbesitzes** die TXT-Werte aus der Tabelle aus. Beachten Sie, dass Ihre Domäne bereits für Sie ausgewählt ist.
 
-3. Melden Sie sich Ihre Domäne. 
+3. Melden Sie sich bei Ihrer Domain an. 
 
-4. Gehen Sie Ihre Domäne enthält, um die TXT-Werte in der DNS-Format einzufügen.  Dies ermöglicht uns, um sicherzustellen, dass Sie die Domäne besitzen, die, der Sie arbeiten möchten.
+4. Befolgen Sie die von Ihrer Domäne bereitgestellten Schritte, um die TXT-Werte in das DNS-Formular einzufügen.  Auf diese Weise können wir überprüfen, ob Sie die Domäne besitzen, von der aus Sie versuchen zu arbeiten.
 
-5. Zurück zum Partner Center, und wählen Sie **OK, ich habe den Datensatz hinzugefügt**
+5. Kehren Sie zum Partner Center zurück, und wählen Sie **OK, ich habe den Eintrag hinzugefügt** aus.
 
-6. Nach der Überprüfung abgeschlossen ist, müssen Sie sich abmelden. Melden Sie sich wieder um Ihren Status zu aktualisieren. 
+6. Sobald die Überprüfung abgeschlossen ist, müssen Sie sich abmelden. Melden Sie sich erneut an, um Ihren Status zu aktualisieren. 
 
-Überprüfen den Besitz der Domäne macht auch Sie globalen Administrator. Sind einige der Berechtigungen, die mit der Rolle "globaler Administrator" enthalten sind:
+Durch die Überprüfung des Besitzverhältnisses Ihrer Domäne werden Sie auch zu einem globalen Administrator. Einige der Berechtigungen, die in der globalen Administratorrolle enthalten sind:
 
 - Zugriff auf alle Microsoft-Konten/-Dienste mit allen Berechtigungen 
-- Erstellen von supporttickets im Partner Center
+- Erstellen von Supportanfragen für das Partner Center
 - Verträge, Preislisten und Angebote anzeigen
 - Abrechnung
 - Partnerbenutzer anzeigen, erstellen und verwalten
-- Erwerben und Verwalten von Cloud services
+- Erwerben und Verwalten von Clouddiensten
 
 Weitere Informationen zu Rollen und Berechtigungen finden Sie unter [Erstellen von Benutzerkonten](create-user-accounts-and-set-permissions.md). 

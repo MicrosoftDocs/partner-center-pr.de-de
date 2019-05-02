@@ -2,7 +2,7 @@
 title: Verwenden der Abstimmungsdateien | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
-description: Für eine ausführliche Zeilenelement Ansicht jeder kostenlos in einem Abrechnungszyklus Laden Sie die abstimmungsdateien von Partner Center herunter.
+description: Laden Sie die Kontenabstimmungsdateien aus dem Partner Center herunter, um ausführliche Informationen zu den einzelnen Rechnungspositionen der Gebühren in einem Abrechnungszyklus anzuzeigen.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
@@ -22,25 +22,25 @@ ms.locfileid: "62132780"
 -  Partner Center für Microsoft Cloud for US Government
 
 
-Für eine ausführliche Zeilenelement Ansicht jeder kostenlos in einem Abrechnungszyklus Laden Sie die abstimmungsdateien von Partner Center herunter. Zu diesen Informationen zählen Gebühren für die einzelnen Abonnements von Kunden und ausführliche Ereignisinformationen (wie z. B. das Hinzufügen von Arbeitsplätzen zu einem Abonnement mitten in einem Abrechnungszeitraum).
+Laden Sie die Kontenabstimmungsdateien aus dem Partner Center herunter, um ausführliche Informationen zu den einzelnen Rechnungspositionen der Gebühren in einem Abrechnungszyklus anzuzeigen. Zu diesen Informationen zählen Gebühren für die einzelnen Abonnements von Kunden und ausführliche Ereignisinformationen (wie z. B. das Hinzufügen von Arbeitsplätzen zu einem Abonnement mitten in einem Abrechnungszeitraum).
 
-## <a name="formatting-issues"></a>Probleme bei der Formatierung
+## <a name="formatting-issues"></a>Formatierungsprobleme
 
-Gelegentlich kann die Abstimm Datei Formatierungsprobleme haben. (Dies kann beispielsweise vorkommen, wenn das Gebietsschema EN-US nicht verwendet wird.) Gehen Sie folgendermaßen vor, um diese Probleme zu beheben. 
+Gelegentlich kann die Kontenabstimmungsdatei Formatierungsprobleme aufweisen. (Dies kann beispielsweise vorkommen, wenn das Gebietsschema EN-US nicht verwendet wird.) Gehen Sie folgendermaßen vor, um diese Probleme zu beheben. 
 
 <ol>
-<li>Öffnen Sie die CSV-Datei in Excel, und wählen Sie die erste Spalte. Wählen Sie auf dem Menüband <strong>Daten</strong>, und wählen Sie dann <strong>Text in Spalten</strong>.</li>
+<li>Öffnen Sie die CSV-Datei in Excel, und wählen Sie die erste Spalte aus. Klicken Sie auf dem Menüband auf <strong>Daten</strong> und dann auf <strong>Text in Spalten</strong>.</li>
 
-<li>Wählen Sie in Text umwandeln-Assistent, <strong>Dateityp getrennt</strong>, und wählen Sie dann <strong>Weiter</strong>.</li> 
+<li>Wählen Sie im Textkonvertierungs-Assistenten <strong>Dateityp „Getrennt“</strong> aus, und klicken Sie dann auf <strong>Weiter</strong>.</li> 
 
-<li>Wählen Sie in das Feld mit Trennzeichen, <strong>Komma</strong>. Wenn <strong>Registerkarte</strong> ist bereits ausgewählt, lassen Sie es. Wählen Sie <strong>Weiter</strong> aus.</li>
+<li>Wählen Sie im Feld „Trennzeichen“ <strong>Komma</strong> aus. Wenn <strong>Tabstopp</strong> bereits ausgewählt ist, übernehmen Sie diese Einstellung. Klicken Sie auf <strong>Weiter</strong>.</li>
 
-<li>Wählen Sie in das Feld Spalte Daten Format <strong>Datum: MDY</strong>, und wählen Sie dann <strong>Weiter</strong>.</li> 
+<li>Wählen Sie im Feld „Datenformat der Spalten“ <strong>Datum: TMJ</strong> aus, und klicken Sie dann auf <strong>Weiter</strong>.</li> 
 
-<li>Wählen Sie in das Feld Spalte Daten Format <strong>Text</strong> für alle Spalten, und wählen Sie dann Betrag <strong>Fertig stellen</strong>.</li>
+<li>Wählen Sie im Feld „Datenformat der Spalten“ für alle Betragsspalten <strong>Text</strong> aus, und klicken Sie dann auf <strong>Fertig stellen</strong>.</li>
 </ol>
 
-## <a href="" id="itemizebypartner"></a>Vom Partner aufschlüsseln
+## <a href="" id="itemizebypartner"></a>Aufschlüsseln nach Partner
 
 
 Partner im indirekten Modell können diese zusätzlichen Felder in den beiden lizenzbasierten und nutzungsbasierten Abstimmungsdateien verwenden, um nach Handelspartnern aufzuschlüsseln.
@@ -59,13 +59,13 @@ Partner im indirekten Modell können diese zusätzlichen Felder in den beiden li
 <tbody>
 <tr class="odd">
 <td>MPN-ID</td>
-<td><p>Die Microsoft Partner Network (MPN)-ID des CSP-Partners (direkt oder indirekt).</p></td>
+<td><p>Die Microsoft Partner Network-ID (MPN) des CSP-Partners (direkt oder indirekt).</p></td>
 </tr>
 <tr class="even">
 <td>MPN-ID der Handelspartner</td>
 <td><p>Wird nur in den Abstimmungsdateien für Partner im indirekten Modell angezeigt.</p>
 <p>Die MPN-ID des registrierten Handelspartners für das Abonnement. Dies entspricht der Handelspartner-ID, die für das spezifische Abonnement im Partner Center aufgeführt ist.</p>
-<p>eTo anzeigen oder Aktualisieren der Reseller im Partner Center-Menü wählen <strong>Kunden</strong>, wählen Sie dann aus der Liste der Kunden. Wählen Sie im Menü „Kunden” <strong>Abonnements</strong> und dann das Abonnement aus der Liste aus. Wählen Sie <strong>Aktualisieren</strong> aus, um <strong>Vertriebspartner (MPN-ID)</strong> zu ändern.</p>
+<p>Wählen Sie zum Anzeigen oder Aktualisieren des Handelspartners im Partner Center-Menü <strong>Kunden</strong> und dann den Kunden in der Liste aus. Wählen Sie im Menü „Kunden” <strong>Abonnements</strong> und dann das Abonnement aus der Liste aus. Wählen Sie <strong>Aktualisieren</strong> aus, um <strong>Vertriebspartner (MPN-ID)</strong> zu ändern.</p>
 <p>Wenn ein CSP-Partner das Abonnement direkt an den Kunden veräußert hat, wird seine MPN-ID zweimal aufgeführt: als MPN-ID und als MPN-ID des Handelspartners.</p>
 <p>Wenn ein CSP-Partner über einen Handelspartner ohne MPN-ID verfügt, wird dieser Wert stattdessen auf die MPN-ID des Partners festgelegt.</p>
 <p>Wenn der CSP-Partner eine Handelspartner-ID entfernt, wird dieser Wert auf-1 festgelegt.</p></td>
@@ -75,7 +75,7 @@ Partner im indirekten Modell können diese zusätzlichen Felder in den beiden li
 
  
 
-## <a href="" id="licensebasedfiles"></a> Lizenz-Datei-Felder
+## <a href="" id="licensebasedfiles"></a> Lizenzbasierte Dateifelder
 
 
 Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Sie die Informationen unter Syndication\_Partner\_Subscription\_Number in der Abgleichungsdatei mit der Abonnement-ID aus Partner Center.
@@ -98,8 +98,8 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 <td>8ddd03642-test-test-test-46b58d356b4e</td>
 </tr>
 <tr class="odd">
-<td>CustomerID</td>
-<td><p>Eindeutige Microsoft-ID im GUID-Format: wird zur Identifizierung des Kunden verwendet.</p></td>
+<td>Kunden-ID</td>
+<td><p>Eindeutige Microsoft-ID im GUID-Format, die zur Identifizierung des Kunden verwendet wird.</p></td>
 <td>12ABCD34-001A-BCD2-987C-3210ABCD5678</td>
 </tr>
 <tr class="even">
@@ -122,13 +122,13 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 <tr class="odd">
 <td>OfferID</td>
 <td><p>Eindeutige Angebot-ID. Standard-Angebot-ID gemäß der Preisliste.</p>
-<p><b>Hinweis</b>: Dieser Wert entspricht nicht den Angebots-ID aus der Preisliste. Siehe DurableOfferID unten.</p></td>
+<p><b>Hinweis</b>: Dieser Wert entspricht nicht der Angebots-ID in der Preisliste. Siehe „DurableOfferID“ unten.</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
 <td><p>Eindeutige dauerhafte Angebot-ID gemäß Definition in der Preisliste.</p>
-<p><b>Hinweis</b>: Dieser Wert entspricht der Angebots-ID aus der Preisliste.</p></td>
+<p><b>Hinweis</b>: Dieser Wert entspricht der Angebots-ID in der Preisliste.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -144,7 +144,7 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>Die Abonnement-Enddatum: 12 Monate + X Tage nach dem Startdatum (Partner Abrechnungsdatum in Anpassung an) oder 12 Monate ab Verlängerungsdatum.</p>
+<td><p>Das Enddatum des Abonnements: 12 Monate + x Tage nach dem Anfangsdatum (entspricht dem Abrechnungsdatum für den Partner) oder 12 Monate ab dem Verlängerungsdatum.</p>
 <p>Bei Verlängerung werden die Preise gemäß der aktuellen Preisliste aktualisiert. Vor einer automatischen Verlängerung ist möglicherweise die Kommunikation mit dem Kunden erforderlich.</p>
 <p>Die Uhrzeit ist immer auf den Tagesbeginn um 0:00 Uhr festgelegt.</p></td>
 <td>01.02.2015 0:00</td>
@@ -165,12 +165,12 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>Art der Gebühren oder der Anpassungen. Siehe <a href="#charge_types">Zuordnung von Gebühren zwischen einer Rechnung und der Erstattungsdatei</a></p></td>
-<td><p>Siehe <a href="#charge_types">Zuordnung von Gebühren zwischen einer Rechnung und der Erstattungsdatei</a></p></td>
+<td><p>Art der Gebühren oder der Anpassungen. Siehe <a href="#charge_types">Zuordnung von Gebühren zwischen einer Rechnung und der Kontenabstimmungsdatei</a></p></td>
+<td><p>Siehe <a href="#charge_types">Zuordnung von Gebühren zwischen einer Rechnung und der Kontenabstimmungsdatei</a></p></td>
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
-<td><p>Preis pro Arbeitsplatz, wie zum Zeitpunkt des Kaufs in der Preisliste veröffentlicht. Stellen Sie sicher, dass dies den Informationen entspricht, die in Ihrem Abrechnungssystem während der Abstimmung gespeichert wurden.</p></td>
+<td><p>Preis pro Arbeitsplatz entsprechend der Preisliste zum Kaufzeitpunkt. Stellen Sie sicher, dass dies den Informationen entspricht, die in Ihrem Abrechnungssystem während der Abstimmung gespeichert wurden.</p></td>
 <td>6,82</td>
 </tr>
 <tr class="even">
@@ -195,7 +195,7 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="even">
 <td>Steuern</td>
-<td><p>Der steuerliche Aufwand basierend auf Ihren Markt&#39;steuerbestimmungen s und den jeweiligen Umständen.</p></td>
+<td><p>Steuerbetrag auf der Grundlage der Steuervorschriften und spezifischen Gegebenheiten Ihres Markts.</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -210,7 +210,7 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Kunden&#39;Organisationsname s, wie im Partner Center gemeldet. Dies ist sehr wichtig für die Abstimmung der Rechnung mit Ihren Systeminformationen.</p></td>
+<td><p>Name der Organisation des Kunden wie im Partner Center angegeben. Dies ist sehr wichtig für die Abstimmung der Rechnung mit Ihren Systeminformationen.</p></td>
 <td>Test für Kunde A</td>
 </tr>
 <tr class="even">
@@ -225,12 +225,12 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>Kunden&#39;Domain Name, die zur Identifizierung des Kunden verwendet. Dies sollte nicht verwendet werden, zur eindeutigen Identifizierung des Kunden an, wie die Kunden bzw. des Partners die Vanity/Standard-Domäne über das Office 365-Portal aktualisiert werden können. Dieses Feld wird bis zum zweiten Rechnungszyklus leer angezeigt.</p></td>
+<td><p>Name der Domäne des Kunden, der zur Identifizierung des Kunden verwendet wird. Dieser Name darf nicht verwendet werden, um den Kunden eindeutig zu identifizieren, da der Kunde/Partner die Vanity-/Standarddomäne über das Office 365-Portal aktualisieren kann. Dieses Feld wird ggf. bis zum zweiten Abrechnungszyklus leer angezeigt.</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
 <td>SubscriptionName</td>
-<td><p>Abonnement-Nickname. Wenn kein Nickname angegeben ist, verwendet Partner Center den OfferName.</p></td>
+<td><p>Spitzname des Abonnements. Wenn kein Spitzname angegeben ist, verwendet Partner Center „OfferName“.</p></td>
 <td>PROJECT ONLINE</td>
 </tr>
 <tr class="even">
@@ -278,7 +278,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>Kunden&#39;Organisationsname s, wie im Partner Center gemeldet. Dies ist sehr wichtig für die Abstimmung der Rechnung mit Ihren Systeminformationen.</p></td>
+<td><p>Name der Organisation des Kunden wie im Partner Center angegeben. Dies ist sehr wichtig für die Abstimmung der Rechnung mit Ihren Systeminformationen.</p></td>
 <td>Test für Kunde A</td>
 </tr>
 <tr class="even">
@@ -316,7 +316,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 <tr class="even">
 <td>SubscriptionName</td>
-<td><p>Nickname des Service-Angebots.</p></td>
+<td><p>Spitzname des Dienstangebots.</p></td>
 <td>Microsoft Azure</td>
 </tr>
 <tr class="odd">
@@ -399,7 +399,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>Der steuerliche Aufwand basierend auf Ihren Markt&#39;steuerbestimmungen s und den jeweiligen Umständen.</p></td>
+<td><p>Steuerbetrag auf der Grundlage der Steuervorschriften und spezifischen Gegebenheiten Ihres Markts.</p></td>
 <td>0,08 $</td>
 </tr>
 <tr class="even">
@@ -424,8 +424,8 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>Art der Gebühren oder der Anpassungen. Siehe <a href="#charge_types">Zuordnung von Gebühren zwischen einer Rechnung und der Erstattungsdatei</a></p></td>
-<td><p>Siehe <a href="#charge_types">Zuordnung von Gebühren zwischen einer Rechnung und der Erstattungsdatei</a></p></td>
+<td><p>Art der Gebühren oder der Anpassungen. Siehe <a href="#charge_types">Zuordnung von Gebühren zwischen einer Rechnung und der Kontenabstimmungsdatei</a></p></td>
+<td><p>Siehe <a href="#charge_types">Zuordnung von Gebühren zwischen einer Rechnung und der Kontenabstimmungsdatei</a></p></td>
 </tr>
 <tr class="odd">
 <td>CustomerBillableAccount</td>
@@ -460,16 +460,16 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>Die Anzahl der ServiceBus-Verbindungen, die bereitgestellt und an einem bestimmten Tag genutzt wurden.</p></td>
-<td>Beispiel: Wenn Sie während eines Monats mit 30 Tagen über eine individuell bereitgestellte Verbindung verfügen, wird für Service Info 1 „1,000000 Verbindungen/30 Tage” angegeben. Wenn Sie ein 25-Paket von Service Bus-Verbindungen, die bereitgestellt mussten, und Sie haben 1 während des Tages verwendet, würde Ihre Anweisung zur täglichen Nutzung für diesen Tag angeben "25 Verbindungen / 30 Tage – verwendet: 1.000000”.</td>
+<td>Beispiel: Wenn Sie während eines Monats mit 30 Tagen über eine individuell bereitgestellte Verbindung verfügen, wird für Service Info 1 „1,000000 Verbindungen/30 Tage” angegeben. Wenn ein Paket von 25 ServiceBus-Verbindungen bereitgestellt wurden und Sie an diesem Tag eine genutzt haben, wird als tägliche Nutzung für diesen Tag „25 Verbindungen/30 Tage – Verwendet: 1,000000“ angegeben. </td>
 </tr>
 <tr class="even">
-<td>CustomerID</td>
-<td><p>Eindeutige Microsoft-ID im GUID-Format: wird zur Identifizierung des Kunden verwendet.</p></td>
+<td>Kunden-ID</td>
+<td><p>Eindeutige Microsoft-ID im GUID-Format, die zur Identifizierung des Kunden verwendet wird.</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>Kunden&#39;Domain Name, die zur Identifizierung des Kunden verwendet. Dieses Feld wird bis zum zweiten Rechnungszyklus leer angezeigt.</p></td>
+<td><p>Name der Domäne des Kunden, der zur Identifizierung des Kunden verwendet wird. Dieses Feld wird ggf. bis zum zweiten Abrechnungszyklus leer angezeigt.</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -480,7 +480,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tbody>
 </table>
 
-## <a href="" id="marketplacefilefields"></a>Einmalige Ausführungen und zeitplanserien Dateifelder
+## <a href="" id="marketplacefilefields"></a>Einmalige und wiederkehrende Dateifelder
 
 <table>
 <colgroup>
@@ -498,12 +498,12 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 <tr class="odd">
 <td>PartnerID</td>
-<td><p>Eindeutiger Bezeichner für Microsoft Azure Active Directory-Mandanten für eine bestimmte Entität Abrechnung, im GUID-Format '. Nicht zur Abstimmung erforderlich, kann jedoch hilfreiche Informationen bereitstellen. In allen Zeilen gleich.</p></td>
+<td><p>Eindeutiger Bezeichner für Microsoft Azure Active Directory-Mandanten für eine bestimmte Abrechnungsentität im GUID-Format. Nicht zur Abstimmung erforderlich, kann jedoch hilfreiche Informationen bereitstellen. In allen Zeilen gleich.</p></td>
 </tr>
 
 <tr class="even">
-<td>Kunden-Id</td>
-<td><p>Eindeutige Microsoft Azure Active Directory-Mandanten-ID im GUID-Format, die zum Identifizieren des Kunden verwendet.</p></td>
+<td>Kunden-ID</td>
+<td><p>Eindeutige Microsoft Azure Active Directory-Mandanten-ID im GUID-Format, die zur Identifizierung des Kunden verwendet wird.</p></td>
 </tr>
 
 <tr class="odd">
@@ -513,12 +513,12 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 <tr class="even">
 <td>CustomerDomainName</td>
-<td><p>Kundendomänenname: wird zur Identifizierung des Kunden verwendet. Dies sollte nicht verwendet werden, zur eindeutigen Identifizierung des Kunden an, wie die Kunden bzw. des Partners die Vanity/Standard-Domäne über das Office 365-Portal aktualisiert werden können. Dieses Feld wird bis zum zweiten Rechnungszyklus leer angezeigt.</p></td>
+<td><p>Name der Domäne des Kunden, der zur Identifizierung des Kunden verwendet wird. Dieser Name darf nicht verwendet werden, um den Kunden eindeutig zu identifizieren, da der Kunde/Partner die Vanity-/Standarddomäne über das Office 365-Portal aktualisieren kann. Dieses Feld wird ggf. bis zum zweiten Abrechnungszyklus leer angezeigt.</p></td>
 </tr>
 
 <tr class="odd">
 <td>Land des Kunden</td>
-<td><p>Land, in dem sich der Kunde befindet.</p></td>
+<td><p>Das Land, in dem sich der Kunde befindet.</p></td>
 </tr>
 
 <tr class="even">
@@ -532,63 +532,63 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 
 <tr class="even">
-<td>Reseller MpnId</td>
+<td>MPN-ID des Handelspartners</td>
 <td><p>MPN-ID des registrierten Handelspartners für das Abonnement.</p></td>
 </tr>
 
 <tr class="odd">
 <td>Bestellnummer</td>
-<td><p>Eindeutiger Bezeichner für einen Auftrag in Microsoft Commerce-Plattform. Kann beim Kontakt zum Support zum Identifizieren der Bestellung hilfreich sein, jedoch nicht zur Abstimmung.</p></td>
+<td><p>Eindeutiger Bezeichner für eine Bestellung auf der Microsoft Commerce Platform. Kann beim Kontakt zum Support zum Identifizieren der Bestellung hilfreich sein, jedoch nicht zur Abstimmung.</p></td>
 </tr>
 
 <tr class="even">
 <td>Bestellungsdatum</td>
-<td><p>Der Zeitpunkt der Auftragserstellung.</p></td>
+<td><p>Das Datum, an dem die Bestellung aufgegeben wurde.</p></td>
 </tr>
 
 <tr class="odd">
 <td>ProductID</td>
-<td><p>Die ID für das Produkt.</p></td>
+<td><p>Die ID des Produkts.</p></td>
 </tr>
 
 <tr class="even">
-<td>SkuID</td>
-<td><p>Die ID für eine bestimmte SKU.</p></td>
+<td>SkuId</td>
+<td><p>Die ID einer bestimmten SKU.</p></td>
 </tr>
 
 <tr class="odd">
 <td>AvailabilityId</td>
-<td><p>Die ID für eine bestimmte Verfügbarkeit. "Verfügbarkeit" bezieht sich darauf, ob eine bestimmte SKU für ein bestimmtes Land, Währung, Branche usw. erhältlich ist.</p></td>
+<td><p>Die ID einer bestimmten Verfügbarkeit. „Verfügbarkeit“ bezieht sich darauf, ob eine bestimmte SKU für ein bestimmtes Land, eine Währung, ein Branchensegment usw. erhältlich ist.</p></td>
 </tr>
 
 <tr class="even">
 <td>SKU-Name</td>
-<td><p>Titel für eine bestimmte SKU.</p></td>
+<td><p>Der Titel einer bestimmten SKU.</p></td>
 </tr>
 
 <tr class="odd">
 <td>Produktname</td>
-<td><p>Name des Produkts.</p></td>
+<td><p>Der Name des Produkts.</p></td>
 </tr>
 
 <tr class="even">
 <td>PublisherName</td>
-<td><p>Der Name des Verlegers des Produkts.</p></td>
+<td><p>Der Name des Herausgebers des Produkts.</p></td>
 </tr>
 
 <tr class="odd">
 <td>PublisherID</td>
-<td><p>Eindeutige ID für diesen Verleger.</p></td>
+<td><p>Eindeutige ID dieses Herausgebers.</p></td>
 </tr>
 
 <tr class="even">
 <td>Abonnementbeschreibung</td>
-<td><p>Der Anzeigename eines Abonnements.</p></td>
+<td><p>Anzeigename eines Abonnements.</p></td>
 </tr>
 
 <tr class="odd">
 <td>Abonnement-ID</td>
-<td><p>Eindeutiger Bezeichner für ein Abonnement in Microsoft Commerce-Plattform. Kann zum Identifizieren des Abonnements bei einer Supportanfrage nützlich sein, dient jedoch nicht zu Abstimmungszwecken. Diese unterscheidet sich von der Abonnement-ID auf der Partner-Administratorkonsole.</p></td>
+<td><p>Eindeutiger Bezeichner eines Abonnements auf der Microsoft Commerce Platform. Kann zum Identifizieren des Abonnements bei einer Supportanfrage nützlich sein, dient jedoch nicht zu Abstimmungszwecken. Diese unterscheidet sich von der Abonnement-ID auf der Partner-Administratorkonsole.</p></td>
 </tr>
 
 <tr class="even">
@@ -602,8 +602,8 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 
 <tr class="even">
-<td>Begriff und Billingcycle</td>
-<td><p>Die Dauer und dem Abrechnungszyklus für den Kauf. Z. B. "1 Jahr, monatliche."</p></td>
+<td>Laufzeit und Abrechnungszyklus</td>
+<td><p>Die Laufzeitlänge und der Abrechnungszyklus für den Kauf. Beispiel: 1 Jahr, monatlich.</p></td>
 </tr>
 
 <tr class="odd">
@@ -613,12 +613,12 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 <tr class="even">
 <td>Preis pro Einheit</td>
-<td><p>Der Preis der Pricelist zum Zeitpunkt des Kaufs, veröffentlicht. Stellen Sie sicher, dass dies den Informationen entspricht, die in Ihrem Abrechnungssystem während der Abstimmung gespeichert wurden.</p></td>
+<td><p>Der Preis entsprechend der Preisliste zum Kaufzeitpunkt. Stellen Sie sicher, dass dies den Informationen entspricht, die in Ihrem Abrechnungssystem während der Abstimmung gespeichert wurden.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Effektive Einzelpreis</td>
-<td><p>Der Preis nach Anpassungen vorgenommen wurden.</p></td>
+<td>Effektiver Preis pro Einheit</td>
+<td><p>Der Preis pro Einheit, nachdem Anpassungen vorgenommen wurden.</p></td>
 </tr>
 
 <tr class="even">
@@ -627,13 +627,13 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 
 <tr class="odd">
-<td>Unit-Typ</td>
-<td><p>Der Typ der Einheit gekauft wird.</p></td>
+<td>Typ der Einheit</td>
+<td><p>Der Typ der Einheit, die gekauft wird.</p></td>
 </tr>
 
 <tr class="even">
 <td>DiscountDetails</td>
-<td><p>Eine Erklärung der Rabatt gilt.</p></td>
+<td><p>Eine Erklärung der geltenden Rabatte.</p></td>
 </tr>
 
 <tr class="odd">
@@ -642,7 +642,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 
 <tr class="even">
-<td>Gesamte steuern</td>
+<td>Steuern gesamt</td>
 <td><p>USt.-Betrag auf der Grundlage der Steuervorschriften und spezifischen Gegebenheiten Ihres Markts.</p></td>
 </tr>
 
@@ -658,13 +658,13 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 <tr class="odd">
 <td>AlternateID</td>
-<td><p>Ein alternativer Bezeichner, der eine Auftrags-ID.</p></td>
+<td><p>Ein alternativer Bezeichner für eine Bestellungs-ID.</p></td>
 </tr>
 </tbody>
 </table>
 
 
-## <a href="" id="dailyratedusagefields"></a>Täglich anteilig Datei verwendungsfelder
+## <a href="" id="dailyratedusagefields"></a>Dateifelder zur bewerteten täglichen Nutzung
 
 
 <table>
@@ -692,7 +692,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 <tr class="odd">
 <td>Kunden-ID</td>
-<td><p>Eindeutige Microsoft-ID im GUID-Format: wird zur Identifizierung des Kunden verwendet.</p></td>
+<td><p>Eindeutige Microsoft-ID im GUID-Format, die zur Identifizierung des Kunden verwendet wird.</p></td>
 </tr>
 
 <tr class="even">
@@ -702,12 +702,12 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 <tr class="odd">
 <td>CustomerDomainName</td>
-<td><p>Domänenname des Kunden. Für die aktuelle Aktivität nicht verfügbar.</p></td>
+<td><p>Der Name der Domäne des Kunden. Für die aktuelle Aktivität nicht verfügbar.</p></td>
 </tr>
 
 <tr class="even">
 <td>Land des Kunden</td>
-<td><p>Land, in dem sich der Kunde befindet.</p></td>
+<td><p>Das Land, in dem sich der Kunde befindet.</p></td>
 </tr>
 
 <tr class="odd">
@@ -716,7 +716,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 
 <tr class="even">
-<td>Reseller MPNID</td>
+<td>MPN-ID des Handelspartners</td>
 <td><p>MPN-ID des registrierten Handelspartners für das Abonnement. Für die aktuelle Aktivität nicht verfügbar.</p></td>
 </tr>
 
@@ -727,32 +727,32 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 <tr class="even">
 <td>ProductID</td>
-<td><p>Die ID für das Produkt.</p></td>
+<td><p>Die ID des Produkts.</p></td>
 </tr>
 
 <tr class="odd">
-<td>SkuID</td>
-<td><p>Die ID für eine bestimmte SKU.</p></td>
+<td>SkuId</td>
+<td><p>Die ID einer bestimmten SKU.</p></td>
 </tr>
 
 <tr class="even">
 <td>AvailabilityId</td>
-<td><p>Die ID für eine bestimmte Verfügbarkeit. "Verfügbarkeit" bezieht sich darauf, ob eine bestimmte SKU für ein bestimmtes Land, Währung, Branche usw. erhältlich ist.</p></td>
+<td><p>Die ID einer bestimmten Verfügbarkeit. „Verfügbarkeit“ bezieht sich darauf, ob eine bestimmte SKU für ein bestimmtes Land, eine Währung, ein Branchensegment usw. erhältlich ist.</p></td>
 </tr>
 
 <tr class="odd">
 <td>SKU-Name</td>
-<td><p>Titel für eine bestimmte SKU.</p></td>
+<td><p>Der Titel einer bestimmten SKU.</p></td>
 </tr>
 
 <tr class="even">
 <td>PublisherName</td>
-<td><p>Der Name des Verlegers.</p></td>
+<td><p>Der Name des Herausgebers.</p></td>
 </tr>
 
 <tr class="odd">
 <td>PublisherID</td>
-<td><p>Die ID des Verlegers, im GUID-Format. Für die aktuelle Aktivität nicht verfügbar.</p></td>
+<td><p>Die ID des Herausgebers im GUID-Format. Für die aktuelle Aktivität nicht verfügbar.</p></td>
 </tr>
 
 <tr class=”even">
@@ -786,33 +786,33 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 
 <tr class="even">
-<td>Kategorie der abrechnungseinheit</td>
-<td><p>Dienst der obersten Ebene für die Verwendung.</p></td>
+<td>Kategorie der Verbrauchseinheit</td>
+<td><p>Der Dienst der obersten Ebene für die Nutzung.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Id der abrechnungseinheit</td>
-<td><p>Die ID der Verbrauchseinheit, die verwendet wird.</p></td>
+<td>ID der Verbrauchseinheit</td>
+<td><p>Die ID der verwendeten Verbrauchseinheit.</p></td>
 </tr>
 
 <tr class="even">
-<td>Unterkategorie der abrechnungseinheit</td>
-<td><p>Der Typ des Azure-Dienst, der auf den Tarif auswirken kann.</p></td>
+<td>Unterkategorie der Verbrauchseinheit</td>
+<td><p>Der Typ des Azure-Diensts, der sich auf die Rate auswirken kann.</p></td>
 </tr>
 
 <tr class="odd">
 <td>Name der Verbrauchseinheit</td>
-<td><p>Die Maßeinheit für die genutzte Verbrauchseinheit an.</p></td>
+<td><p>Die Maßeinheit für die genutzte Verbrauchseinheit.</p></td>
 </tr>
 
 <tr class="even">
-<td>Region der abrechnungseinheit</td>
+<td>Region der Verbrauchseinheit</td>
 <td><p>Diese Spalte gibt den Standort eines Rechenzentrums in der Region für die Dienste an, auf die dies zutrifft.</p></td>
 </tr>
 
 <tr class="odd">
 <td>Einheit</td>
-<td><p>Die Einheit der Name der Ressource.</p></td>
+<td><p>Die Einheit des Ressourcennamens.</p></td>
 </tr>
 
 <tr class="even">
@@ -827,7 +827,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 <tr class="even">
 <td>Genutzter Dienst</td>
-<td><p>Der Azure-Plattform-Dienst, den Sie verwendet.</p></td>
+<td><p>Der Azure-Plattformdienst, den Sie verwendet haben.</p></td>
 </tr>
 
 <tr class="odd">
@@ -837,7 +837,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 <tr class="even">
 <td>Ressourcen-URI</td>
-<td><p>Der URI der Ressource verwendet wird.</p></td>
+<td><p>Der URI der verwendeten Ressource.</p></td>
 </tr>
 
 <tr class="odd">
@@ -847,7 +847,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 <tr class="even">
 <td>Preis pro Einheit</td>
-<td><p>Preis pro-Lizenz, wie in der Pricelist zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dies den Informationen entspricht, die in Ihrem Abrechnungssystem während der Abstimmung gespeichert wurden.</p></td>
+<td><p>Preis pro Lizenz entsprechend der Preisliste zum Kaufzeitpunkt. Stellen Sie sicher, dass dies den Informationen entspricht, die in Ihrem Abrechnungssystem während der Abstimmung gespeichert wurden.</p></td>
 </tr>
 
 <tr class="odd">
@@ -856,28 +856,28 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 
 <tr class="even">
-<td>Unit-Typ</td>
-<td><p>Der Typ der Einheit, die die Verbrauchseinheit in Rechnung gestellt wird. Für die aktuelle Aktivität nicht verfügbar.</p></td>
+<td>Typ der Einheit</td>
+<td><p>Der Typ der Einheit, mit der die Verbrauchseinheit in Rechnung gestellt wird. Für die aktuelle Aktivität nicht verfügbar.</p></td>
 </tr>
 
 <tr class="odd">
-<td>Die Abrechnung vor Steuern</td>
-<td><p>Die Gesamtmenge vor Steuern.</p></td>
+<td>Abrechnung vor Steuern</td>
+<td><p>Gesamtbetrag vor Steuern.</p></td>
 </tr>
 
 <tr class="even">
-<td>Rechnungswährung</td>
-<td><p>Die Währung in geografischen Region des Kunden</p></td>
+<td>Abrechnungswährung</td>
+<td><p>Die Währung in der geografischen Region des Kunden</p></td>
 </tr>
 
 <tr class="odd">
 <td>Preise vor Steuern gesamt</td>
-<td><p>Die Preise, steuern hinzugefügt wurden.</p></td>
+<td><p>Die Preise vor Hinzufügen von Steuern.</p></td>
 </tr>
 
 <tr class="even">
-<td>Preise von Währung</td>
-<td><p>Die Währung, in der Pricelist werden soll.</p></td>
+<td>Währung der Preise</td>
+<td><p>Die Währung in der Preisliste.</p></td>
 </tr>
 
 <tr class="odd">
@@ -887,47 +887,47 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 <tr class="even">
 <td>Dienstinformationen 2</td>
-<td><p>Ein legacyfeld, die optionale dienstspezifische Metadaten erfasst werden.</p></td>
+<td><p>Ein Legacyfeld, in dem optionale dienstspezifische Metadaten erfasst werden.</p></td>
 </tr>
 
 <tr class="odd">
 <td>Tags</td>
-<td><p>Tags, die Sie das Messgerät in der Reihenfolge zum Gruppieren von abrechnungsdatensätzen zuweisen. Beispielsweise können Sie Tags verwenden, um Kosten nach den Abteilungen zu unterteilen, die die Verbrauchseinheit nutzen.</p></td>
+<td><p>Tages, die Sie der Verbrauchseinheit zum Gruppieren von Abrechnungsdatensätzen zuweisen. Beispielsweise können Sie Tags verwenden, um Kosten auf Abteilungen zu verteilen, die die Verbrauchseinheit nutzen.</p></td>
 </tr>
 
 <tr class="even">
-<td>Zusätzliche Informationen</td>
-<td><p>Zusätzliche Informationen in anderen Spalten nicht behandelt.</p></td>
+<td>Zusätzliche Infos</td>
+<td><p>Zusätzliche Informationen, die von anderen Spalten nicht abgedeckt werden.</p></td>
 </tr>
 
 </tbody>
 </table>
 
 
-## <a href="" id="charge_types"></a>Zuordnung der Gebühren zwischen Rechnung und abstimmungsdatei
+## <a href="" id="charge_types"></a>Zuordnung von Gebühren zwischen einer Rechnung und der Kontenabstimmungsdatei
 
-Ihre Rechnung enthält eine Zusammenfassung der Gebühren, während die Erstattungsdatei eine detaillierte Aufschlüsselung der Positionstransaktionen bereitstellt, einschließlich der Gebührentypen.
+Ihre Rechnung enthält eine Zusammenfassung der Gebühren, während die Kontenabstimmungsdatei eine detaillierte Aufschlüsselung der Positionstransaktionen bereitstellt, einschließlich der Gebührentypen.
 
-Zum Erstellen von Querverweisen der Gebührenbeträge zwischen der Rechnung und der Abstimmungsdatei können Sie Microsoft Excel-Filteroptionen verwenden, indem Sie in der Erstattungsdatei nach Gebührentypen filtern, um die Rechnungsgebühren einer Reihe von Gebührenauflistungen in der Erstattungsdatei zuzuordnen.
+Zum Erstellen von Querverweisen der Gebührenbeträge zwischen Rechnung und Kontenabstimmungsdatei können Sie Microsoft Excel-Filteroptionen verwenden, indem Sie die Kontenabstimmungsdatei nach Gebührentypen filtern, um die Abrechnungsgebühren einer Reihe von Gebührenaufschlüsselungen in der Kontenabstimmungsdatei zuzuordnen.
 
-Sowohl nutzungsbasierte als auch lizenzbasierte Abstimmungsdateien zeigen nur nutzungsbezogene Transaktionen und Gebühren an (verbrauchte Einheiten und zusammenhängende Kosten). Guthaben, Rabatte oder Erstattungen, die auf der Rechnung als "Anpassungen" angezeigt werden, werden nicht in der Abstimmungsdatei angezeigt.
+Sowohl nutzungsbasierte als auch lizenzbasierte Kontenabstimmungsdateien zeigen nur nutzungsbezogene Transaktionen und Gebühren an (verbrauchte Einheiten und zugehörige Kosten). Guthaben, Rabatte oder Rückerstattungen, die auf der Rechnung als „Anpassungen“ angezeigt werden, werden nicht in der Kontenabstimmungsdatei angezeigt.
 
-Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt und zugehörigen Gebührentypen, die möglicherweise auf den Erstattungsdateien angezeigt werden. 
+Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt und zugehörigen Gebührentypen, die möglicherweise in den Kontenabstimmungsdateien angezeigt werden. 
 
 <table>
 <tbody>
 <tr>
 <td>
-<p><strong>Beschreibung der Rechnungsgebühren</strong></p>
+<p><strong>Beschreibung der Rechnungsgebühr</strong></p>
 </td>
 <td>
-<p><strong>Abstimmung DateiBeschreibung (ChargeType-Spalte)</strong></p>
+<p><strong>Gebührenbeschreibung der Abstimmungsdatei (Spalte „ChargeType“)</strong></p>
 </td>
 <td>
-<p><strong>Was diese Gebühr ist?</strong></p>
+<p><strong>Was ist diese Gebühr?</strong></p>
 </td>
 <td>
-<p><strong>Wie ordne ich dieser Gebührentypen zur Rechnung zu?</strong></p>
+<p><strong>Wie ordne ich diese Gebührentypen der Rechnung zu?</strong></p>
 </td>
 </tr>
 <tr>
@@ -949,7 +949,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <p>Stornierungsgebühr</p>
 </td>
 <td>
-<p>Anteilige Gebühren werden an den Kunden zurückerstattet, wenn verknüpfte Lizenzen geändert werden.</p>
+<p>Anteilige Gebühren werden dem Kunden zurückerstattet, wenn verknüpfte Arbeitsplätze geändert werden.</p>
 </td>
 </tr>
 <tr>
@@ -957,7 +957,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <p>Gebühr für Zyklus</p>
 </td>
 <td>
-<p>Periodische Gebühren für ein Abonnement</p>
+<p>Regelmäßige Gebühren für ein Abonnement</p>
 </td>
 </tr>
 <tr>
@@ -965,15 +965,15 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <p>Anteiliger Zyklus für Instanz</p>
 </td>
 <td>
-<p>Anteilige vom Kunden geschätzte Gebühren, wenn verknüpfte Lizenzen geändert werden</p>
+<p>Anteilige vom Kunden geschätzte Gebühren, wenn verknüpfte Arbeitsplätze geändert werden</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Gebühren bei Abbrechen anteilig zuordnen</p>
+<p>Gebühren bei Stornierung anteilig zuordnen</p>
 </td>
 <td>
-<p>Anteilige Erstattung für nicht verwendete Teile des Diensts bei einer Stornierung</p>
+<p>Anteilige Rückerstattung für nicht verwendete Teile des Diensts bei einer Stornierung</p>
 </td>
 </tr>
 <tr>
@@ -981,7 +981,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <p>Anteilige Gebühren beim Kauf</p>
 </td>
 <td>
-<p>Der Typ der Gebühr für ein Abonnement bei Verwendung von jährliche Abrechnung</p>
+<p>Der Typ der Gebühr für ein Abonnement bei Verwendung der jährlichen Abrechnung</p>
 </td>
 </tr>
 <tr>
@@ -989,7 +989,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <p>Kaufgebühr</p>
 </td>
 <td>
-<p>Der Typ der Gebühr für ein Abonnement bei Verwendung der monatliche Abrechnung</p>
+<p>Der Typ der Gebühr für ein Abonnement bei Verwendung der monatlichen Abrechnung</p>
 </td>
 </tr>
 <tr>
@@ -1022,10 +1022,10 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <p><strong>Nutzungsgebühren</strong></p>
 </td>
 <td>
-<p>Nutzungsgebühr beim Abbrechen bewerten</p>
+<p>Nutzungsgebühr beim Stornieren bewerten</p>
 </td>
 <td>
-<p>Nutzungsgebühr für Zugriffe für die nicht bezahlte Verwendung während des aktuellen Abrechnungszeitraums bei der Kündigung</p>
+<p>Nutzungsgebühr für Zugriffe für die nicht bezahlte Verwendung während des aktuellen Abrechnungszeitraums bei Kündigung</p>
 </td>
 <td rowspan="2">
 <p>Erstellen Sie in der nutzungsbasierten Datei die Summe der Spalte <strong>PretaxCharges</strong>.</p>
@@ -1044,10 +1044,10 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <p><strong>Guthaben</strong></p>
 </td>
 <td>
-<p>Einen Artikel versetzen</p>
+<p>Ausgleichen einer Position</p>
 </td>
 <td>
-<p>Teilweise oder vollständige Erstattung an eine Position, einschließlich Steuern</p>
+<p>Teilweise oder vollständige Rückerstattung für eine Position, einschließlich Steuern</p>
 </td>
 <td>
 <p>Erstellen Sie in der lizenzbasierten Datei die Summe der Spalte <strong>TotalForCustomer</strong>.</p>
@@ -1056,13 +1056,13 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 </tr>
 <tr>
 <td rowspan="4">
-<p><strong>Verwendungsbasierte Rabatte</strong></p>
+<p><strong>Nutzungsbasierte Rabatte</strong></p>
 </td>
 <td>
 <p>Aktivierungsrabatt</p>
 </td>
 <td>
-<p>Rabatt auf Aktivierung des Abonnements</p>
+<p>Rabatt bei Aktivierung des Abonnements</p>
 </td>
 
 <td rowspan="4">
@@ -1074,7 +1074,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <p>Zyklusrabatt</p>
 </td>
 <td>
-<p>Rabatt auf periodische Gebühren</p>
+<p>Rabatt auf regelmäßige Gebühren</p>
 </td>
 </tr>
 <tr>
@@ -1082,7 +1082,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <p>Verlängerungsrabatt</p>
 </td>
 <td>
-<p>Rabatt auf Verlängerung des Abonnements</p>
+<p>Rabatt bei Verlängerung des Abonnements</p>
 </td>
 </tr>
 <tr>
@@ -1090,7 +1090,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <p>Stornorabatt</p>
 </td>
 <td>
-<p>Gebühren, wenn Rabatte storniert werden</p>
+<p>Anfallende Gebühren, wenn Rabatte storniert werden</p>
 </td>
 </tr>
 
@@ -1100,7 +1100,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <p><strong>Lizenzbasierte Rabatte</strong></p>
 </td>
 <td>
-<p><em>Kann für mehrere gebührentypen angewendet werden</em></p>
+<p><em>Können auf mehrere Gebührentypen angewendet werden</em></p>
 </td>
 <td>
 <p></p>
@@ -1114,14 +1114,14 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt un
 <p><strong>Steuern</strong>&nbsp;oder&nbsp;<strong>Umsatzsteuer</strong></p>
 </td>
 <td>
-<p><em>Kann für mehrere gebührentypen angewendet werden</em></p>
-<p><em>Ausnahme: &quot;Ausgleich einer Position&quot; enthält bereits steuern. Finden Sie-Guthaben, oben ein.</em></p>
+<p><em>Können auf mehrere Gebührentypen angewendet werden</em></p>
+<p><em>Ausnahme: &quot;Ausgleichen einer Position&quot; schließt Steuern bereits ein. Siehe „Guthaben“ oben.</em></p>
 </td>
 <td>
-<p>Steuern oder Umsatzsteuern (Umsatzsteuer)</p>
+<p>Steuern oder Umsatzsteuern (MwSt.)</p>
 </td>
 <td>
-<p>Erstellen Sie in der lizenzbasierten Datei die Summe der Spalte <strong>Steuern</strong>.</p>
+<p>Erstellen Sie in der lizenzbasierten Datei die Summe der Spalte <strong>Tax</strong>.</p>
 <p>Erstellen Sie in der nutzungsbasierten Datei die Summe der Spalte <strong>TaxAmount</strong>.</p>
 </td>
 </tr>

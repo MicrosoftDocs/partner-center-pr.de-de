@@ -20,24 +20,24 @@ ms.locfileid: "62133980"
 
 -  Partner Center
 
-Wenn Sie den Dienst oder das Abonnement in ihrem Auftrag eines Kunden verwalten möchten, muss der Kunde Sie Administratorberechtigungen für diesen Dienst oder das Abonnement gewähren. Das folgende Verfahren zeigt, wie diese Berechtigung per e-Mail anfordern wird. Nachdem der Kunde den Antrag genehmigt hat, können Sie sich beim Verwaltungsportal des Diensts anmelden und den Dienst im Namen des Kunden verwalten.
+Wenn Sie den Dienst oder das Abonnement im Auftrag eines Kunden verwalten möchten, muss der Kunde Ihnen Administratorberechtigungen für diesen Dienst oder das Abonnement gewähren. Das folgende Verfahren zeigt, wie Sie diese Berechtigung per E-Mail anfordern können. Nachdem der Kunde den Antrag genehmigt hat, können Sie sich beim Verwaltungsportal des Diensts anmelden und den Dienst im Auftrag des Kunden verwalten.
 
-Wenn Sie eine Händler-Beziehung mit einem Kunden herstellen und nur die Azure-Abonnements verwalten, die Sie bereitstellen möchten, ist es nicht erforderlich, um Administratorberechtigungen zu erhalten.
+Wenn Sie eine Vertriebspartnerschaft mit einem Kunden aufbauen und nur die von Ihnen bereitgestellten Azure-Abonnements verwalten möchten, ist es nicht erforderlich, Administratorrechte zu erhalten.
 
-Beachten Sie, dass die Option aus, um Berechtigungen nicht anfordern nicht für Partner, die in Microsoft Cloud für US Government "oder" Microsoft Cloud Deutschland Betriebssystem verfügbar ist. Weitere Informationen finden Sie unter [Kunden Delegieren von Administratorberechtigungen für Partner](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges).
+Beachten Sie, dass die Option, keine Berechtigungen anzufordern, den Partnern, die in Microsoft Cloud for US Government oder Microsoft Cloud Deutschland arbeiten, nicht zur Verfügung steht. Weitere Informationen finden Sie unter [Kunden delegieren Administratorrechte an Partner](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges).
 
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden zur Einrichtung einer Reseller-Partnerschaft mit Ihnen
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden, eine Vertriebspartnerschaft mit Ihnen einzugehen
 
-Beachten Sie, dass Sie mit einem Kunden aus in Ihrem Land oder der gleichen Region vertriebspartnerbeziehung anfordern können.
+Beachten Sie, dass Sie eine Vertriebspartnerschaft mit einem Kunden aus Ihrem Land oder Ihrer Region anfordern können.
 
-1.  Wählen Sie **Kunden** aus Ihrem **Partner Center** Menü, und wählen Sie dann **vertriebspartnerbeziehung anfordern**.
+1.  Wählen Sie im **Partner Center**-Menü die Option **Kunden** und anschließend **Vertriebspartnerschaft beantragen** aus.
 
-2.  Administrator-Berechtigungen anfordern von diesen Kunden, die Option **Include delegierte Administratorrechte für Azure Active Directory und Office 365**. Um die Beziehung herzustellen, ohne Administratorberechtigungen anfordern, müssen deaktivieren Sie diese Option. 
+2.  Um Administratorrechte von diesem Kunden anzufordern, wählen Sie **Delegierte Administratorrechte für Azure Active Directory und Office 365 einbeziehen** aus. Deaktivieren Sie diese Option, um die Beziehung herzustellen, ohne Administratorrechte anzufordern. 
 
 3.  Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer standardmäßigen E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen. 
 
-    Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist und den Kunden direkt mit Ihrem Konto verknüpft. Wählen Sie **Fertig**, wenn Sie diesen Schritt abgeschlossen haben.
+    Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist und den Kunden direkt mit Ihrem Konto verknüpft. Wählen Sie **Fertig** aus, wenn Sie diesen Schritt abgeschlossen haben.
 
 3.  Senden Sie die E-Mail an den Kunden.
 
@@ -48,20 +48,20 @@ Beachten Sie, dass Sie mit einem Kunden aus in Ihrem Land oder der gleichen Regi
 
 
 > [!IMPORTANT]  
-> Kunden können neu zuweisen oder Entfernen von Administratorrechten im Administratorportal des Diensts. Erst wenn Sie Ihre Vereinbarung mit dem Kunden erneut verhandeln, sind Sie jedoch weiterhin für die Bereitstellung des Supports und die Einhaltung der Bedingungen des Cloud Reseller Agreement verantwortlich, auch nachdem ein Kunde die Administratorberechtigungen neu zugewiesen oder entfernt hat. In diesem Fall können Sie Microsoft-Support anrufen, wenn der Kunde Hilfe benötigt, um eine Serviceanfrage im Auftrag des Kunden zu öffnen.
+> Kunden können Administratorberechtigungen im Verwaltungsportal eines Diensts neu zuweisen oder entfernen. Erst wenn Sie Ihre Vereinbarung mit dem Kunden erneut verhandeln, sind Sie jedoch weiterhin für die Bereitstellung des Supports und die Einhaltung der Bedingungen der Vereinbarung für Cloud-Vertriebspartner verantwortlich, auch nachdem ein Kunde die Administratorberechtigungen neu zugewiesen oder entfernt hat. In diesem Fall können Sie Microsoft-Support anrufen, wenn der Kunde Hilfe benötigt, um eine Serviceanfrage im Auftrag des Kunden zu öffnen.
 
-## <a name="changes-to-the-customer-invitation-experience"></a>Änderungen an der benutzerfreundlichkeit für die Einladung
+## <a name="changes-to-the-customer-invitation-experience"></a>Änderungen bei der Kundeneinladung
 
-Die benutzerfreundlichkeit für die Annahme einer Reseller Beziehung einladungs von einem Cloud Solution Provider-Partner ist ab 1. November 2018 ändern. Informationen zu den Änderungen finden Sie in der folgenden Tabelle. Weitere Informationen zu dieser neuen Oberfläche im Microsoft Store für Unternehmen finden Sie unter [arbeiten mit Lösungsanbietern im Microsoft Store für Unternehmen](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business).
+Das Kundenerlebnis für die Annahme einer Vertriebspartnerschaftseinladung eines Cloud Solution Provider-Partners hat sich am 1. November 2018 geändert. Details zu den Änderungen finden Sie in der folgenden Tabelle. Weitere Informationen zu den neuen Funktionen im Microsoft Store für Unternehmen finden Sie unter [Arbeiten mit Lösungsanbietern im Microsoft Store für Unternehmen](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business).
 
-|  | In denen akzeptiert ein Kunde einer Händler-einladungs, die vor dem 1. November 2018 gesendet? | In denen akzeptiert ein Kunde einer Händler-einladungs, die nach dem 1. November 2018 gesendet? |
+|  | Wo akzeptiert ein Kunde eine vor dem 1. November 2018 versandte Händlereinladung? | Wo akzeptiert ein Kunde eine nach dem 1. November 2018 versandte Händlereinladung? |
 |---------|---------|---------
-| Kunden in der öffentlichen Cloud | Microsoft Office-Verwaltungsportal | Microsoft Store für Unternehmen |
+| Kunden in der Public Cloud | Microsoft Office-Verwaltungsportal | Microsoft Store für Unternehmen |
 | Kunden im Partner Center für Microsoft Cloud Deutschland | Microsoft Office-Verwaltungsportal | Microsoft Office-Verwaltungsportal |
-| Kunden im Partner Center für Microsoft Cloud für US-Regierung | Microsoft Office-Verwaltungsportal | Microsoft Office-Verwaltungsportal |
+| Kunden im Partner Center für Microsoft Cloud for US Government | Microsoft Office-Verwaltungsportal | Microsoft Office-Verwaltungsportal |
 |
 
 ## <a name="see-also"></a>Siehe auch
 
 - [Zuweisen von Supportkontakten](assign-support-contacts.md)
-- [Entfernen einer Beziehung mit einem Kunden](remove-a-relationship.md)
+- [Entfernen einer Partnerschaft mit einem Kunden](remove-a-relationship.md)

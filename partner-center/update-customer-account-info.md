@@ -24,10 +24,10 @@ ms.locfileid: "62133030"
 
 Sie können die Abrechnungsinformationen eines Kunden und weitere Unternehmensdetails in Partner Center aktualisieren.
 
-**Aktualisiert die Kundendetails**
+**Aktualisieren von Kundendetails**
 
-1.  Von der **Partner Center** , wählen Sie im Menü **Kunden**. Wählen Sie einen Kunden aus der Liste aus.
-2.  Wählen Sie im Kundenmenü die Option **Konto**, und wählen Sie dann **Update**.
+1.  Wählen Sie **Kunden** im Menü **Partner Center** aus. Wählen Sie einen Kunden aus der Liste aus.
+2.  Wählen Sie im Kundenmenü **Konto** und dann **Aktualisieren** aus.
 3.  Nachdem Sie Ihre Änderungen vorgenommen haben, wählen Sie **Übermitteln** aus.
 
  

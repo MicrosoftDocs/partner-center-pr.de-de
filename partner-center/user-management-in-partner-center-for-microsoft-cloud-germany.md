@@ -35,18 +35,18 @@ Lizenzverwaltung | Office 365 Admin-Zentrum oder Microsoft Cloud Deutschland Azu
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Verwalten von Benutzern im Azure-Portal für Microsoft-Cloud Deutschland 
 
-Wenn Sie sich beim Partner Center für Microsoft-Cloud Deutschland angemeldet haben, können Sie das Azure-Portal für Microsoft-Cloud Deutschland öffnen, ohne sich erneut anzumelden. Wenn Sie sich allerdings direkt im Azure-Portal für Microsoft-Cloud Deutschland anmelden müssen, wechseln Sie zu [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
+Wenn Sie sich beim Partner Center für Microsoft-Cloud Deutschland angemeldet haben, können Sie das Azure-Portal für Microsoft-Cloud Deutschland öffnen, ohne sich erneut anzumelden. Wenn Sie sich allerdings direkt im Azure-Portal für Microsoft Cloud Deutschland anmelden müssen, wechseln Sie zu [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
 
 Nachdem Sie sich erfolgreich beim Azure-Portal für Microsoft-Cloud Deutschland angemeldet haben, öffnen Sie die Übersicht der Seite Azure Active Directory (Azure AD) und folgen Sie den Anweisungen für folgende Themen:
 
 > [!NOTE]  
-> Wählen die folgenden Links gelangen Sie zu einer anderen Website. 
+> Durch Klicken auf die nachstehenden Links gelangen Sie auf eine andere Website. 
 
--  [Fügen Sie neuer Benutzer in Azure Active Directory hinzu](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [Hinzufügen neuer Benutzer zu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
 -  [Zuweisen eines Benutzers zu Administratorrollen in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [Zurücksetzen des Kennworts für einen Benutzer in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [Zurücksetzen des Kennworts eines Benutzers in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **Verwandte Themen**
 

@@ -1,7 +1,7 @@
 ---
 title: Analysieren der Azure-Nutzung | Partner Center
 ms.date: 07/12/2018
-Description: Verwenden Sie zum Abrufen von Daten über die Verwendung des Azure-Abonnements Ihrer Kunden Partnercenter.
+Description: Rufen Sie im Partner Center Daten zur Nutzung der Azure-Abonnements Ihrer Kunden ab.
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
@@ -16,7 +16,7 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62131871"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Informieren Sie sich unter Abrufen von Daten über die Verwendung von Azure-Abonnements Ihrer Kunden. 
+# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Abrufen von Daten zur Verwendung der Azure-Abonnements Ihrer Kunden 
 
 **Gilt für**
 - Partner Center
@@ -24,28 +24,28 @@ ms.locfileid: "62131871"
 Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Azure-Nutzung**, um Ihre Erfolge sowie die Bereiche zu identifizieren, die mehr Aufmerksamkeit erfordern. Verwenden Sie diese Informationen für die Planung neuer Geschäftsziele.
 
 > [!NOTE]
-> Die Analysen zur Azure-Nutzung stehen nur Partnern des Programms für Cloud Solution Provider zur Verfügung.
+> Die Analysen der Azure-Nutzung stehen nur Partnern im Cloud Solution Provider-Programm zur Verfügung.
 
 Wir verfolgen die folgenden Metriken:
 
 **Zusammenfassung**  
- - **Gesamte Azure-Abonnements verkauft**: Anzahl von Abonnements, die in den angegebenen Zeitraum verkauft  
+ - **Insgesamt verkaufte Azure-Abonnements**: Anzahl von Abonnements, die im angegebenen Zeitraum verkauft wurden  
  - **Kunden mit Nutzung**: Anzahl der Kunden mit Azure-Nutzung im angegebenen Zeitraum  
  - **Kunden ohne Nutzung**: Anzahl der Kunden ohne Azure-Nutzung im angegebenen Zeitraum  
 
-**Top 5 Customers in Kategorie**  
- -  Die Top 5-Kunden für die angegebene Kategorie  
+**Top 5-Kunden in Kategorie**  
+ -  Die Top 5-Kunden für die angegebene Kategorie  
 
 **Abonnements ohne Nutzung**  
  -  Liste der spezifischen Abonnements ohne Azure-Nutzung im angegebenen Zeitraum  
 
-**Änderungen der Azure-Abonnement**  
+**Änderungsumfang bei Azure-Abonnements**  
  - **Aktive Abonnements**: Die Anzahl der aktiven Abonnements nach Datum  
- - **Abonnements aufgehoben**: Die Anzahl der Abonnements aufgehoben oder nach Datum angehalten  
+ - **Abonnements mit aufgehobener Bereitstellung**: Anzahl der Abonnements nach Datum, deren Bereitstellung aufgehoben oder ausgesetzt wurde  
 
 **Kundenanzahl**
- - Neue Kunden, die während des angegebenen Zeitraums gewonnen wurden  
+ - Neukunden, die während des angegebenen Zeitraums gewonnen wurden  
 
-**Aufbewahrungsrichtlinien für Azure-Abonnement**  
+**Beibehaltene Azure-Abonnements**  
  - Anzahl der Abonnements, die verlängert wurden   
   

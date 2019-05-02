@@ -1,8 +1,8 @@
 ---
-title: Übergang von Ihrem Netzwerkmitgliedschaft vom Partner Membership Center zum Partner Center
+title: Übertragen der Netzwerkmitgliedschaft von Partner Membership Center zu Partner Center
 ms.topic: article
 ms.date: 11/14/2018
-description: Wie Sie Ihre Mitgliedskonto vom Partner Membership Center zum Partner Center zu wechseln.
+description: Erfahren Sie, wie Sie die Netzwerkmitgliedschaft von Partner Membership Center zu Partner Center übertragen.
 author: maggiepuccievans
 ms.author: maggiepuccievans
 keywords: MPN-Mitgliedschaft, Kompetenzen, PMC zu Partner Center
@@ -16,59 +16,59 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134622"
 ---
-# <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>Wechseln Sie Ihr Konto für den Mitgliedschaft Partner von Partner Membership Center auf Partner Center
+# <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>Übertragen Ihres Partnermitgliedschaftskontos von Partner Membership Center zu Partner Center
 
 **Gilt für**
 
 - Partner Center
 - MPN-Partner
 
-## <a name="partner-membership-center-being-retired"></a>Partner Membership Center eingestellt
+## <a name="partner-membership-center-being-retired"></a>Partner Membership Center wird eingestellt
 
-Bei den nächsten Monaten werden wir einladen, Partner ihre Partner-Mitgliedskonten aus der Partner Membership Center (PMC) zu einer neuen Plattform, im Partner Center verschoben werden. Partner Center ist der einzige Ort, um die Geschäftsbeziehung mit Microsoft zu verwalten. Finden Sie unter [Mitgliedschaft Management Readiness](https://partner.microsoft.com/support/partner-center-help) auf die [Partner-Website](https://partner.microsoft.com/commercial) für Weitere Informationen.
+In den nächsten Monaten werden wir Partner dazu einladen, ihre Partnerkonten aus dem Partner Membership Center (PMC) auf eine neue Plattform, das Partner Center, zu verschieben. Das Partner Center ist die zentrale Anlaufstelle für die Verwaltung Ihrer Geschäftsbeziehungen mit Microsoft. Weitere Informationen finden Sie unter [Mitgliedschaftsverwaltung – Readiness](https://partner.microsoft.com/support/partner-center-help) auf der [Partner-Website](https://partner.microsoft.com/commercial).
 
-Nachdem Ihr Mitgliedskonto erfolgreich stattfindet, verwalten Sie Ihren Konteninformationen, einschließlich (falls zutreffend) Vorteile, Kompetenzen, Anreize, angeboten und Programmen im Partner Center. Sie werden auch zum Abrufen und Verwalten von Leads von Microsoft und registrieren Sie sich für das Cloud Solution Provider-Programm im Partner Center können.
+Nachdem Ihr Mitgliedskonto erfolgreich übertragen wurde, verwalten Sie Ihre Kontodaten, einschließlich (falls zutreffend) Vorteile, Kompetenzen, Incentives, Angebote und Programme im Partner Center. Außerdem können Sie Vertriebsleads von Microsoft erhalten und verwalten und sich für das Cloud Solution Provider-Programm im Partner Center anmelden.
 
 ## <a name="prepare-now-for-a-smooth-transition"></a>Jetzt für einen reibungslosen Übergang vorbereiten
 
-Partner werden eingeladen, zum Partner Center zu wechseln, wenn wir die erforderlichen Features haben und Funktionen bereit, um einen reibungslosen Übergang sicherzustellen. Wir empfehlen Ihnen, nehmen jetzt die Zeit, überprüfen die Informationen Ihres Unternehmens in PMC und unseren empfohlenen Schritte, um sicherzustellen, dass einen Übergang smooth-Konto.
+Die Partner werden dazu eingeladen, in das Partner Center zu wechseln, wenn wir über die notwendigen Features und Funktionen verfügen, um einen reibungslosen Übergang sicherzustellen. Es wird dringend empfohlen, sich die Zeit zu nehmen, die Informationen Ihres Unternehmens im PMC zu überprüfen und unsere empfohlenen Schritte zu befolgen, um einen reibungslosen Kontoübergang sicherzustellen.
 
-### <a name="pmc-to-partner-center-step-by-step-guide"></a>PMC zum Partner Center-Anleitung
+### <a name="pmc-to-partner-center-step-by-step-guide"></a>Schrittweise Anleitung für den Wechsel vom PMC zum Partner Center
 
-Wir haben die umfassende vorbereitet und detaillierte [PMC Partner Center-Übergang-Handbuch](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf) jedem Schritt die Möglichkeit, einen Übergang erfolgreich Konto erläutert.
+Wir haben die umfassende und ausführliche [Anleitung für den Übergang vom PMC zum Partner Center](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf) vorbereitet, die Sie durch die einzelnen Schritte zu einem erfolgreichen Kontoübergang führt.
 
 >[!IMPORTANT]
->Es gibt mehrere wichtige Voraussetzungen, die in diesem Handbuch, die Zeit in Anspruch nehmen wird enthalten. Wir empfehlen Ihnen, überprüfen sie, und starten die Arbeit, um sie so bald wie möglich abzuschließen.
+>In diesem Leitfaden sind mehrere wichtige Voraussetzungen enthalten, deren Umsetzung Zeit in Anspruch nimmt. Wir empfehlen Ihnen, diese zu überprüfen und die Arbeit so schnell wie möglich aufzunehmen.
 
 ### <a name="video-resources"></a>Videoressourcen
 
-Zusätzlich zu den [PMC Partner Center-Übergang-Handbuch](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf), wir haben diesen kurzen Videos über die verschiedenen Phasen für den Übergang von Ihrem Konto erstellt. 
+Zusätzlich zur [Anleitung für den Übergang vom PMC zum Partner Center](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf) haben wir diese kurzen Videos zu den verschiedenen Phasen des Übergangs Ihres Kontos erstellt. 
 
-- [Ermitteln Sie Ihre Partner Center-dashboard](https://partner.microsoft.com/support/partner-center-help)
+- [Entdecken Ihres Partner Center-Dashboards](https://partner.microsoft.com/support/partner-center-help)
  
-  Informationen Sie zu den Ressourcen und Tools, die im Partner Center, um Ihre Partnerschaft optimal zur Verfügung.
+  Erfahren Sie mehr über die Ressourcen und Tools, die im Partner Center zur Verfügung stehen, um Ihre Partnerschaft optimal zu nutzen.
 
-- [An mehreren Standorten Konten, die leicht gemacht](https://partner.microsoft.com/support/partner-center-help)
+- [Einfache Nutzung von Konten an mehreren Standorten](https://partner.microsoft.com/support/partner-center-help)
  
-  Wenn Sie über mehrere geografische Regionen hinweg Büros verwalten, ist hier das Einrichten Ihres Kontos an mehreren Standorten und von einem einfach zu bedienende Standort bis hin zu steuern.
+  Wenn Sie Büros in mehreren Ländern verwalten, erfahren Sie hier, wie Sie Ihr Konto für mehrere Standorte einrichten und alles über eine benutzerfreundliche Website steuern.
 
-- [Stellen Sie die Anzahl von Schulungen und -Prüfungen](https://partner.microsoft.com/support/partner-center-help)
+- [Aufwerten von Training und Prüfungen](https://partner.microsoft.com/support/partner-center-help)
 
-  Verbinden Sie Ihrer Mitarbeiter Learning Anmeldeinformationen zu Ihrem Business-Profil, um sicherzustellen, dass weiterhin Zugriff auf Partner University-Plattform und Kompetenzen Anspruch auf.
+  Verbinden Sie die Anmeldeinformationen für die Lernziele Ihrer Mitarbeiter mit Ihrem Unternehmensprofil, um den kontinuierlichen Zugang zur Partneruniversität sicherzustellen und sich für Kompetenzen zu qualifizieren.
 
 ## <a name="see-also"></a>Siehe auch
 
-Nachdem Sie Ihr Konto von PMC erfolgreich gewechselt haben, überprüfen Sie diese Artikel, um mehr mit Partner Center vertraut zu machen.
+Nachdem Sie Ihr Konto erfolgreich vom PMC übertragen haben, lesen Sie diese Artikel, um mehr über das Partner Center zu erfahren.
 
--   [Erstellen eines Geschäftsprofils um Vertriebsleads von Microsoft zu erhalten.](create-a-marketing-profile.md)
+-   [Erstellen Sie ein Unternehmensprofil, um Vertriebsleads von Microsoft zu erhalten](create-a-marketing-profile.md)
 
--   [Neue Kontobenutzer hinzufügen und ihnen Berechtigungen zuweisen](create-user-accounts-and-set-permissions.md)
+-   [Hinzufügen neuer Kontobenutzer und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
 
--   [Erwerben Sie oder erneuern Sie ein Abonnement von Microsoft Action Pack](mpn-get-action-pack.md)
+-   [Kauf oder Verlängerung eines Microsoft Action Pack-Abonnements](mpn-get-action-pack.md)
 
--   [Verwalten von mitgliedschaftsvorzüge](manage-your-partner-network-benefits.md)
+-   [Verwalten der Mitgliedschaftsvorteile](manage-your-partner-network-benefits.md)
 
--   [Erfahren Sie mehr über die Kompetenz-Anforderungen für die Gold und Silver-Mitgliedschaft](https://partner.microsoft.com/membership/competencies)
+-   [Erfahren Sie mehr über die Kompetenzanforderungen für die Silber- und Gold-Mitgliedschaft](https://partner.microsoft.com/membership/competencies)
 
 
 

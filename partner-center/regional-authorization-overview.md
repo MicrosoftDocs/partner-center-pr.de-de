@@ -1,12 +1,12 @@
 ---
-title: CSP-Märkte | Partner Center
+title: Globale CSP-Märkte | Partner Center
 ms.topic: article
 ms.date: 11/03/2018
-description: Finden Sie in die Länder und Regionen, in denen Sie CSP-Angebote, abhängig vom Standort für Ihr Unternehmen verkaufen können.
+description: Hier finden Sie die Länder und Regionen, in denen Sie CSP-Angebote basierend auf dem Standort Ihres Unternehmens verkaufen können.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: CSP-Märkten, Gebiete, die, in denen i über CSP CSP bietet verkaufen kann, Regionen, verkaufen Sie Cloud-Lösungen, globaler CSP
+keywords: CSP-Märkte, Gebiete, in denen ich über CSP verkaufen kann, CSP-Angebote, Regionen, Cloudlösungen verkaufen, CSP (global)
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
@@ -16,30 +16,30 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134050"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Cloud Solution Provider-Programm regionale Märkte und Währungen
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Regionale Märkte und Währungen des Cloud Solution Provider-Programms
 
-Speicherort der Ihres Unternehmens bestimmt Ihren Markt. Ihren Markt umfasst die Regionen und/oder die Länder, in dem Sie die CSP-Angebote verkaufen können.
+Ihr Markt wird durch den Standort Ihres Unternehmens bestimmt. Ihr Markt umfasst die Regionen und/oder Länder, in denen Sie CSP-Angebote verkaufen können.
 
-Z. B. Wenn Ihr Unternehmen in den USA befindet, können Sie CSP-Angebote für Kunden in den USA und in den USA verkaufen Amerikanische Überseeinseln. Wenn Ihr Unternehmen in Brasilien befindet, können Sie die CSP-Angebote für Kunden, die nur in Brasilien verkaufen. Wenn Ihr Unternehmen in Afrika Region befindet, können Sie die CSP-Angebote für Kunden in alle 18 Länder in Afrika Region verkaufen.
+Wenn Ihr Unternehmen beispielsweise in den Vereinigten Staaten ansässig ist, können Sie CSP-Angebote an Kunden in den USA und auf den Kleineren Amerikanischen Überseeinseln verkaufen. Wenn sich Ihr Unternehmen in Brasilien befindet, können Sie CSP-Angebote nur an Kunden in Brasilien verkaufen. Wenn sich Ihr Unternehmen in der Region Afrika befindet, können Sie die CSP-Angebote an Kunden in allen 18 Ländern der Region Afrika verkaufen.
 
-Bevor Sie, dass der CSP im Auftrag eines Kunden bietet bestellen können, muss Kunden der Microsoft-Cloud-Vereinbarung anmelden. Sie finden der geltenden Vereinbarung für Microsoft Cloud für Ihre Region/Land [hier](agreements.md).
+Bevor Sie CSP-Angebote im Namen eines Kunden bestellen können, muss der Kunde den Microsoft Cloud-Vertrag unterschreiben. Den jeweiligen Microsoft Cloud-Vertrag für Ihre Region/Ihr Land finden Sie [hier](agreements.md).
 
 >[!IMPORTANT]
-> Beginnen am 7. November 2018, müssen Sie bestätigen, dass ein Kunde die Microsoft-Cloud-Vertrag akzeptiert hat, durch die Bereitstellung von Informationen über die Person, die es signiert. Finden Sie unter [bestätigen, dass Kunden der Microsoft-Cloud-Vereinbarung](confirm-consent.md) Weitere Details.
+> Seit dem 7. November 2018 müssen Sie bestätigen, dass ein Kunde dem Microsoft Cloud-Vertrag zugestimmt hat, indem Sie Informationen über die Person bereitstellen, die den Vertrag unterzeichnet hat. Ausführlichere Informationen finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](confirm-consent.md).
 
-Um zu bestimmen, wo Sie CSP-Angebote verkaufen können, finden Sie Ihres Unternehmens Speicherort in einer der Listen unten aus. Sie benötigen eine aktive Microsoft Partner Network (MPN)-ID für den Speicherort, die Sie im verkaufen möchten.  
+Suchen Sie den Standort Ihres Unternehmens in einer der folgenden Listen, um zu ermitteln, wo Sie CSP-Angebote verkaufen können. Sie benötigen eine aktive Microsoft Partner Network (MPN)-ID für den Standort, an dem Sie verkaufen möchten.  
 
 ## <a name="for-unsupported-countries"></a>Für nicht unterstützte Länder
 
-Wenn Ihr Land nicht unterstützt wird, richten Sie den CSP-Beziehung mit der Office-Admin-URL des Kunden. 
+Wenn Ihr Land nicht unterstützt wird, richten Sie die CSP-Kundenbeziehung mit der Office-Administrator-URL ein. 
 
-- Direkte Rechnung Partner verwenden die folgende Url: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0. Ersetzen Sie dies **Partnertenantguid** durch Ihre Mandanten-ID. 
+- Direktabrechnungspartner verwenden die folgende URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0. Ersetzen Sie **partnertenantguid** durch Ihre Mandanten-ID. 
 
-- Die URL für den indirekten Vertriebspartner lautet: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid. Ersetzen Sie **IRtenantguid** durch Ihre Mandanten-ID. Ersetzen Sie dies **IRMPNID** mit Ihrem MPN-ID, und Ersetzen **IPtenantguid** durch Ihre Mandanten-Id des indirekten Anbieter.
+- URL für indirekte Vertriebspartner: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid. Ersetzen Sie **IRtenantguid** durch Ihre Mandanten-ID. Ersetzen Sie **IRMPNID** durch Ihre MPN-ID sowie **IPtenantguid** durch Ihre Mandanten-ID für indirekte Anbieter.
 
-## <a name="africa-region-and-market"></a>Afrika und Markt
+## <a name="africa-region-and-market"></a>Afrika: Region und Markt
 
-Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die CSP-Angebote für Kunden an allen Standorten in der Liste verkaufen.
+Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
 | Land/Region           | Währung |
 | ------------------------ |:--------:|
@@ -85,16 +85,16 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 | Sierra Leone             |   USD    |
 | Somalia                  |   USD    |
 | Südsudan              |   USD    |
-| St. Helena, Ascension, Tristan Da Cunha|    USD   |
+| St. Helena, Ascension und Tristan da Cunha|    USD   |
 | Tansania                 |   USD    |
 | Togo                     |   USD    |
 | Uganda                   |          |
 | Sambia                   |          |
 |
 
-## <a name="asia-and-pacific-region-and-market"></a>Asien und Pazifik-Region und Markt
+## <a name="asia-and-pacific-region-and-market"></a>Asien und Pazifik: Region und Markt
 
-Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die CSP-Angebote für Kunden an allen Standorten in der Liste verkaufen.
+Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
 | Land/Region     | Währung |
 | --------------     |:--------:|
@@ -105,7 +105,7 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  Hongkong         |   USD    |
 |  Indonesien         |   USD    |
 |  Laos              |          |
-|  Macau (SAR)             |   USD    |
+|  Macau             |   USD    |
 |  Malaysia          |   USD    |
 |  Malediven          |          |
 |  Myanmar           |          |
@@ -118,9 +118,9 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  Vietnam           |   USD    |
 |
 
-## <a name="australia-region-and-market"></a>Region Australien und Markt
+## <a name="australia-region-and-market"></a>Australien: Region und Markt
 
-Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die CSP-Angebote für Kunden an allen Standorten in der Liste verkaufen.
+Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
 |  Land/Region        | Währung |
 |  --------------        |:--------:|
@@ -149,18 +149,18 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  Wallis und Futuna     |   AUD    |
 |
 
-## <a name="brazil-region-and-market"></a>Region Brasilien und Markt
+## <a name="brazil-region-and-market"></a>Brasilien: Region und Markt
 
-Wenn Ihre Unternehmens-Speicherort Brasilien ist, können Sie CSP-Angebote für Kunden in Brasilien verkaufen.
+Wenn der Standort Ihres Unternehmens Brasilien ist, können Sie CSP-Angebote an Kunden in Brasilien verkaufen.
 
 |  Land/Region | Währung |
 |  -------------- |:--------:|
-|  Brazilien         |   USD    |
+|  Brasilien         |   USD    |
 |
 
-## <a name="canada-region-and-market"></a>Kanada Region und Markt
+## <a name="canada-region-and-market"></a>Kanada: Region und Markt
 
-Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die CSP-Angebote für Kunden an allen Standorten in der Liste verkaufen.
+Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
 |  Land/Region | Währung |
 |  -------------- |:--------:|
@@ -168,9 +168,9 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  St. Pierre und Miquelon|  CAD   |
 |
 
-## <a name="europe-region-and-market"></a>Region "Europa" und Markt
+## <a name="europe-region-and-market"></a>Europa: Region und Markt
 
-Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die CSP-Angebote für Kunden an allen Standorten in der Liste verkaufen.
+Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
 |  Land/Region | Währung  |
 |  -------------- |:--------:|
@@ -217,40 +217,40 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  Svalbard und Jan Mayen|NOK|
 |  Schweden         |   SEK    |
 |  Schweiz    |   CHF    |
-|  GB             |   GBP    |
+|  Vereinigtes Königreich             |   GBP    |
 |  Vatikanstadt   |          |
 |
 
-## <a name="india-region-and-market"></a>Region "Indien" und Markt
+## <a name="india-region-and-market"></a>Indien: Region und Markt
 
-Wenn Ihr Unternehmen Indien befindet, können Sie CSP-Angebote für Kunden in Indien verkaufen.
+Wenn der Standort Ihres Unternehmens Indien ist, können Sie CSP-Angebote an Kunden in Indien verkaufen.
 
 |  Land/Region | Währung |
 |  -------------- |:--------:|
 |  Indien          |   INR    |
 |
 
-## <a name="japan-region-and-market"></a>Japan Region und Markt
+## <a name="japan-region-and-market"></a>Japan: Region und Markt
 
-Wenn Ihr Unternehmen Japan befindet, können Sie die CSP-Angebote für Kunden in Japan verkaufen.
+Wenn der Standort Ihres Unternehmens Japan ist, können Sie CSP-Angebote an Kunden in Japan verkaufen.
 
 |  Land/Region | Währung |
 |  -------------- |:--------:|
 |  Japan          |   JPY    |
 |
 
-## <a name="korea-republic-of-region-and-market"></a>Korea, Republik Region und Markt
+## <a name="korea-republic-of-region-and-market"></a>Republik Korea: Region und Markt
 
-Wenn Ihr Unternehmen Speicherort Korea, Republik, können Sie die CSP-Angebote für Kunden in der Republik Korea verkaufen.
+Wenn der Standort Ihres Unternehmens die Republik Korea ist, können Sie CSP-Angebote an Kunden in der Republik Korea verkaufen.
 
 |  Land/Region    | Währung |
 |  --------------    |:--------:|
 |  Republik Korea|   KRW    |
 |
 
-## <a name="latin-america-and-the-caribbean-region-and-market"></a>Lateinamerika und Karibik und Markt
+## <a name="latin-america-and-the-caribbean-region-and-market"></a>Lateinamerika und Karibik: Region und Markt
 
-Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die CSP-Angebote für Kunden an allen Standorten in der Liste verkaufen.
+Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
 |  Land/Region | Währung |
 |  -------------- |:--------:|
@@ -296,11 +296,11 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  Saint Barthélemy|  USD    |
 |  St. Kitts und Nevis|    |
 |  St. Lucia    |   USD    |
-|  St. Martin   |   USD    |
+|  Saint Martin   |   USD    |
 |  St. Vincent und die Grenadinen| USD |
 |  Sint Eustatius |   USD    |
 |  Sint Maarten   |   USD    |
-|  Südgeorgien und Sandwich-Inseln| USD|
+|  Südgeorgien und die Südlichen Sandwichinseln| USD|
 |  Suriname       |   USD    |
 |  Trinidad und Tobago|USD   |
 |  Turks- und Caicosinseln| USD|
@@ -309,9 +309,9 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  Amerikanische Jungferninseln| USD |
 |
 
-## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Naher Osten, Mitteleuropa und Osteuropa Region und Markt
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Naher Osten, Mitteleuropa und Osteuropa: Region und Markt
 
-Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die CSP-Angebote für Kunden an allen Standorten in der Liste verkaufen.
+Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
 |  Land/Region | Währung |
 |  -------------- |:--------:|
@@ -336,7 +336,7 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  Libanon        |   USD    |
 |  Lesotho        |   USD    |
 |  Libyen          |          |
-|  Nordmazedonien|   |
+|  Republik Nordmazedonien|   |
 |  Mauretanien     |   USD    |
 |  Republik Moldau        |          |
 |  Mongolei       |          |
@@ -345,7 +345,7 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  Mosambik     |          |
 |  Oman           |   USD    |
 |  Pakistan       |   USD    |
-|  Palästinensische Behörde |        |
+|  Palästinensische Gebiete, besetzt |        |
 |  Katar          |   USD    |
 |  Saudi-Arabien   |   USD    |
 |  Serbien         |   USD    |
@@ -353,7 +353,7 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  Swasiland      |   USD    |
 |  Tadschikistan     |          |
 |  Tunesien        |   USD    |
-|  Turkei         |   USD    |
+|  Türkei         |   USD    |
 |  Turkmenistan   |          |
 |  Ukraine        |   USD    |
 |  Vereinigte Arabische Emirate| USD |
@@ -362,9 +362,9 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  Simbabwe       |          |
 |
 
-## <a name="new-zealand-region-and-market"></a>Neuseeland-Region und Markt
+## <a name="new-zealand-region-and-market"></a>Neuseeland: Region und Markt
 
-Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die CSP-Angebote für Kunden an allen Standorten in der Liste verkaufen.
+Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
 |  Land/Region | Währung |
 |  -------------- |:--------:|
@@ -374,30 +374,30 @@ Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die 
 |  Vanuatu        |   NZD    |
 |
 
-## <a name="russia-region-and-market"></a>Russische Föderation Region und Markt
+## <a name="russia-region-and-market"></a>Russland: Region und Markt
 
-Wenn Ihr Unternehmen Russische Föderation befindet, können Sie CSP-Angebote für Kunden in Russland verkaufen.
+Wenn der Standort Ihres Unternehmens Russland ist, können Sie CSP-Angebote an Kunden in Russland verkaufen.
 
 |  Land/Region | Währung |
 |  -------------- |:--------:|
-|  Russland         |    RUB   |
+|  Russische Föderation         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan und Markt
+## <a name="taiwan-region-and-market"></a>Taiwan: Region und Markt
 
-Wenn Ihre Unternehmens-Speicherort Taiwan ist, können Sie die CSP-Angebote für Kunden in Taiwan verkaufen.
+Wenn der Standort Ihres Unternehmens Taiwan ist, können Sie CSP-Angebote an Kunden in Taiwan verkaufen.
 
 |  Land/Region | Währung |
 |  -------------- |:--------:|
 |  Taiwan         |   TWD    |
 |
 
-## <a name="united-states-region-and-market"></a>Region "USA" und Markt
+## <a name="united-states-region-and-market"></a>USA: Region und Markt
 
-Wenn Ihres Unternehmens Speicherort in der folgenden Liste ist, können Sie die CSP-Angebote für Kunden an allen Standorten in der Liste verkaufen.
+Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
 |  Land/Region       | Währung |
 |  -------------        |:--------:|
 |  USA        |   USD    |
-|  USA Amerikanische Überseeinseln|   USD    |
+|  USA Kleinere Amerikanische Überseeinseln|   USD    |
 |

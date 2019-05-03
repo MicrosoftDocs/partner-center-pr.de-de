@@ -1,8 +1,8 @@
 ---
-title: Angebote und Preise | Partner Center
+title: Preise und Angebote | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
-description: Die Liste der Angebote enthält die verschiedenen Produktfamilien, die über das Partner Center und die Preisinformationen erworben werden können.
+description: Die Angebotsliste enthält die verschiedenen Produktfamilien, die über Partner Center erworben werden können, sowie die entsprechenden Preise.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
@@ -16,43 +16,43 @@ ms.locfileid: "62134090"
 ---
 # <a name="pricing-and-offers"></a>Preise und Angebote
 
-**Gilt für**
+**Gilt für:**
 
 -  Partner Center
 
-Um die neuesten Preislisten und Angebote des Programms für Cloud Solution Provider zu sehen, wechseln Sie auf **Verkaufen > Preise und Angebote**. Sie finden separate Preislisten für lizenzbasierte Dienste wie Office 365, Enterprise Mobility Suite und Microsoft Dynamics CRM, sowie für nutzungsbasierte Dienste, einschließlich Azure. 
+Die neuesten Preislisten und Angebote des Cloud Solution Provider-Programms finden Sie unter **Verkaufen > Preise und Angebote**. Dort finden Sie separate Preislisten für lizenzbasierte Dienste wie Office 365, Microsoft Dynamics CRM und Enterprise Mobility Suite sowie für nutzungsbasierte Dienste (einschließlich Azure). 
 
-Die Liste der Angebote enthält die verschiedenen Produktfamilien, die über das Partner Center erworben werden können. Diese umfassen zur Zeit Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM und Microsoft Azure. Diese Liste wird erweitert.
+Die Angebotsliste enthält die verschiedenen Produktfamilien, die über Partner Center erworben werden können. Hierzu zählen aktuell Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM und Microsoft Azure. Diese Liste wird mit der Zeit erweitert.
 
-Innerhalb dieser Produktfamilien gibt es verschiedene SKUs und Produkt-Bündel, die Sie je nach Ihrem Geschäft verkaufen können. Mithilfe der Angebotsmatrix für Cloud-Vertriebspartner auf der Seite "Preise und Angebote" können Sie stets auf die neuesten Informationen zugreifen.
+Innerhalb dieser Produktfamilien gibt es verschiedene SKUs und Produktpakete, die Sie abhängig von Ihrem Geschäft verkaufen können. Über die Angebotsmatrix für Cloud-Handelspartner auf der Seite „Preise und Angebote“ stehen Ihnen stets die neuesten Informationen zur Verfügung.
 
-## <a name="pricelist-preview-and-change-frequency"></a>Vorschau für die Preisliste und ändern Häufigkeit der Änderungen 
+## <a name="pricelist-preview-and-change-frequency"></a>Preislistenvorschau und Änderungshäufigkeit 
 
-Lizenzbasierte Dienste umfassen eine Vorschau für die Preisliste, die 30 Tage vor jeder Änderung bereitgestellt wird. Um die Vorschau anzusehen, wechseln Sie zu **Verkaufen > Preise und Angebote**. Es ist keine Vorschau für Preis für nutzungsbasierte Dienste vorhanden, da diese Dienste dynamische sind. In der folgende Tabelle wird erläutert, wie Sie die Tabelle lesen können.
+Lizenzbasierte Dienste umfassen eine Preislistenvorschau, die 30 Tage vor jeglichen Änderungen bereitgestellt wird. Die Preislistenvorschau finden Sie unter **Verkaufen > Preise und Angebote**. Für nutzungsbasierte Dienste steht keine Preisvorschau zur Verfügung, da diese Dienste dynamisch sind. Die folgende Tabelle zeigt, wie Sie die Preislistentabelle lesen.
 
-|**Item**        |**Definition**      |
+|**Artikel**        |**Definition**      |
 |:-----------   |:-----------   |
-|HINZUFÜGEN   |Der Preisliste einen neuen Artikel hinzufügen|
-|VERÄNDERUNG   |Änderungen der Preisliste wie z. B. Änderungen an der SKU-Beschreibung|
-|ENTFERNEN   |Einen Artikel aus der Preisliste entfernen|
-|UNC   |Artikel in der Preisliste, die seit dem vorherigen Monat unverändert geblieben sind   |
-|Gültig ab Datum   |Das erste Datum, an dem ein Angebot bestellt werden kann    |
-|Gültig bis Datum   |Das letzte Datum, an dem ein Angebot bestellt werden kann   |
-|Angebotsanzeigename   |Für den Kunden sichtbarer Name des Angebots   |
-|Angebots-ID   |Die interne ID des Angebots   |
-|Lizenzvertragstyp   |Dies ist entweder Unternehmen, Regierungsbehörde oder Akademisch und bestimmt, an welchen Kundentyp das Angebot verkauft werden kann.|
-|Einkaufseinheit   |Die Dauer des erworbenen Angebots. Dies beträgt in der Regel einen Monat.   |
-|Sekundärer Lizenztyp   |Entweder nicht spezifisch, Add-Ons oder Test. Add-On gibt an, dass der Kunde vor den Erwerb des Add-Ons erforderliche Produkte erwerben muss.|
-|Art des Endkunden   |Geht zurück auf den Typ des Softwarelizenzvertrags: Unternehmenslizenz – Cloud Reseller-Behörde, Unternehmenslizenz –Cloud Reseller-Behörde oder akademische Lizenz – Cloud Reseller Lehrpersonal oder Cloud Reseller Student   |
-|Preisliste   |Der Preis, den der Partner zahlt.   |
+|HINZUFÜGEN   |Neuer Preislistenartikel|
+|CHG   |Änderungen an der Preisliste (beispielsweise die SKU-Beschreibung)|
+|DEL   |Aus der Preisliste entfernter Artikel|
+|UNC   |Artikel, die sich seit der Preisliste des Vormonats nicht geändert haben   |
+|Gültig ab (Datum)   |Das erste Datum, an dem ein Angebot bestellt werden kann    |
+|Gültig bis (Datum)   |Das letzte Datum, an dem ein Angebot bestellt werden kann   |
+|Angebotsanzeigename   |Der für den Kunden sichtbare Name des Angebots   |
+|Angebots-ID   |Der interne Bezeichner für das Angebot   |
+|Lizenzvertragstyp   |„Unternehmen“, „Behörde“ oder „Wissenschaftlich“. Bestimmt, an welchen Kundentyp das Angebot verkauft werden kann.|
+|Bestelleinheit   |Die Dauer des erworbenen Angebots. In der Regel ein Monat.   |
+|Sekundärer Lizenztyp   |Entweder nicht spezifisch, Add-On oder Testversion. Die Add-On-Option gibt an, dass der Kunde über bestimmte Produkte verfügen muss, um das Add-On erwerben zu können.|
+|Art des Endkunden   |Geht zurück auf die Art des Softwarelizenzvertrags: Unternehmenslizenz (Cloud-Handelspartner für Unternehmen), Behördenlizenz (Cloud-Handelspartner für Behörden) oder wissenschaftliche Lizenz (Cloud-Handelspartner für Lehrkräfte oder Cloud-Handelspartner für Schüler/Studenten)   |
+|Listenpreis   |Der Preis, den der Partner zahlt   |
 |ERP-Preis   |Der geschätzte oder empfohlene Einzelhandelspreis für den Kunden   |
 
 ## <a name="offers-matrix"></a>Angebotsmatrix
 
-Informationen darüber, welche SKUs und Produktpakete für den Verkauf verfügbar sind, finden Sie in der Angebotsmatrix für Cloud-Vertriebspartner auf der Seite Preise und Angebote. Die Angebotsmatrix enthält die Angebote, die für jedes Gebietsschema verfügbar sind. Wenn ein Artikel auf der Preisliste aber noch nicht in der Angebotsmatrix aufgeführt wird, bedeutet dies, das die Produkte noch nicht bestellt werden können. Sobald diese zur Verfügung stehen, wird die Angebotsmatrix aktualisiert.
+In der Angebotsmatrix für Cloud-Handelspartner auf der Seite „Preise und Angebote“ erfahren Sie, welche SKUs und Produktpakete Sie verkaufen können. Die Angebotsmatrix gibt auch Aufschluss darüber, welche Angebote pro Gebiet verfügbar sind. Wenn ein Artikel zwar in der Preisliste, aber noch nicht in der Angebotsmatrix enthalten ist, bedeutet das, dass die Produkte noch nicht bestellt werden können. Die Angebotsmatrix wird aktualisiert, sobald sie bestellt werden können.
 
-Für CSP-Partner, die verwenden, die der Partner Center Software Development Kits (SDKs). Microsoft veröffentlicht ebenfalls eine Liste der Azure-Dienste in CSP auf der Seite Preise und Angebote.
+Für CSP-Partner, die die Partner Center-SDKs (Software Development Kits) verwenden, veröffentlicht Microsoft auf der Seite „Preise und Angebote“ auch eine Liste mit den Azure-Diensten in CSP.
 
-### <a name="offers-matrix-and-pricelist-questions"></a>Fragen zur Angebotsmatrix und Preisliste
+### <a name="offers-matrix-and-pricelist-questions"></a>Fragen zu Angebotsmatrix und Preisliste
 
-Wenn Sie Fragen zu der Matrix Pricelist bzw. das Angebot haben, senden Sie eine dienstanforderung über das Partner Center.
+Sollten Sie Fragen zur Angebotsmatrix oder zur Preisliste haben, senden Sie eine Serviceanfrage über Partner Center.

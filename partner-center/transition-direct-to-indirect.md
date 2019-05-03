@@ -1,12 +1,12 @@
 ---
-title: Übergang von der Cloud Solution Provider (CSP) weiterleiten, Bill-Partner, der indirekter CSP-Reseller | Partner Center
+title: Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer | Partner Center
 ms.topic: article
 ms.date: 03/04/2019
-description: Verstehen Sie, wie vom direkten Rechnung Partner indirekten Vertriebspartners Umstellung wird
+description: Hier erfahren Sie, wie Sie von einem Direktabrechnungspartner zu einem indirekten Wiederverkäufer werden.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-keywords: Online-Dienst "," Übergang "," indirekten Vertriebspartners
+keywords: Direktabrechnung, Übergang, indirekter Wiederverkäufer
 ms.openlocfilehash: c8173bbb8878448271a35178fd3f77016a6ba129
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
 ms.translationtype: HT
@@ -17,185 +17,185 @@ ms.locfileid: "62134143"
 **Gilt für:**
  - CSP-Partner
 
-# <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom direkten Cloud Solution Provider (CSP)-Partner zum indirekten CSP-Wiederverkäufer 
+# <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer 
 
 >[!Note] 
->Dieser Artikel richtet sich für direkte Rechnung Partner, die Wechsel zur indirekten Vertriebspartner entschieden haben. 
+>Dieser Artikel richtet sich an Direktabrechnungspartner, die indirekte Wiederverkäufer werden möchten. 
 
-Sie werden in der indirekten Vertriebspartners-Anwendung, die mit Ihrem vorhandenen Mandanten der Online-Dienst registrieren. 
+Sie können sich unter Verwendung Ihres vorhandenen Direktabrechnungsmandanten beim Programm für indirekte Wiederverkäufer registrieren. 
 
 ## <a name="get-started"></a>Beginnen
 
-1. Stellen Sie sicher, dass Ihre Partnerprofil im Partner Center und MPN-ID, die aktuell sind.
+1. Vergewissern Sie sich, dass Ihr Partnerprofil in Partner Center und Ihre MPN-ID aktuell sind.
 
-2. Melden Sie sich zum Partner Center als globaler Administrator für den direkten Rechnung-Mandanten, die, den Sie auf die indirekten Vertriebspartners umgestellt werden.
+2. Melden Sie sich bei Partner Center als globaler Administrator für den Direktabrechnungsmandanten an, den Sie auf einen indirekten Wiederverkäufer umstellen möchten.
 
 ![Übersicht](images/direct/direct1.png) 
 
-3. Überprüfen Sie Ihre Partnerdetails auf dem Registrierungsformular.
+3. Überprüfen Sie Ihre Partnerdetails im Registrierungsformular.
 
-![Registrieren Sie sich jetzt](images/direct/direct2a.png) 
+![Jetzt registrieren](images/direct/direct2a.png) 
 
-4. Wählen Sie Anmelden jetzt. Ihr Unternehmen indirekten Vertriebspartners verwendet die gleichen AAD-Mandanten, die, den Sie für Ihr Unternehmen direkt verwenden.
-
->[!Note]
->Zunächst wird diese neue Funktion für den Übergang für Partner mit September Dezember Jahrestag Datumsangaben zur Verfügung. Wenn Sie nicht "Jahrestags von September bis Dezember wurden, nicht die Möglichkeit zu diesem Zeitpunkt angezeigt. Partner mit Anniversary Datumsangaben nach dem Dezember 2018 werden später benachrichtigt, wenn das Feature für die Partner aktiviert ist.
-
-
-5. Wenn Ihre Registrierung genehmigt wird, melden Sie sich zum Partner Center erneut.
+4. Wählen Sie „Jetzt registrieren“ aus. Für Ihre Tätigkeit als indirekter Wiederverkäufer wird der gleiche AAD-Mandant verwendet wie für Ihre direkte Tätigkeit.
 
 >[!Note]
-> Während der Genehmigung in der Regel sofort erfolgt, kann es bis zu fünf Werktage dauern. Nach der Genehmigung erhalten Sie eine Benachrichtigung an die e-Mail-Adresse, die Sie unter der primären Kontakts in der Form der Registrierung angegeben haben. Sie können auch überprüfen, Ihren einschreibungsstatus unter **Einstellungen** → **Einstellungen für Partner** → **Partnerprofil** → Programm Informationen. 
+>Diese neue Übergangsfunktion steht anfänglich nur für Partner mit Onboarding-Jahrestagen zwischen September und Dezember zur Verfügung. Wenn Ihr Jahrestag nicht zwischen September und Dezember liegt, wird die Funktion momentan nicht angezeigt. Partner mit Jahrestagen nach Dezember 2018 werden benachrichtigt, sobald die Funktion für sie aktiviert wurde.
 
-6. Auf Ihre **Übersicht** Seite sehen Sie die indirekten Vertriebspartners Vereinbarung. Wählen Sie **Zustimmen und fortfahren** aus. Dies ermöglicht die indirekten Vertriebspartners-Funktionen.
 
-Wenn Sie die indirekten Vertriebspartners Vereinbarung akzeptiert haben, beachten Sie, dass es sich bei Ihrem Partnerprofil als identifiziert **sowohl** eine direkte Rechnung und indirekten Vertriebspartners.
+5. Melden Sie sich nach der Genehmigung Ihrer Registrierung erneut bei Partner Center an.
 
-![Indirekter Reseller agreement](images/direct/direct3.png)
+>[!Note]
+> Die Genehmigung erfolgt in der Regel sofort, kann aber bis zu fünf Werktage dauern. Nach der Genehmigung wird eine entsprechende Benachrichtigung an die E-Mail-Adresse gesendet, die Sie im Registrierungsformular als primären Kontakt angegeben haben. Der Registrierungsstatus kann auch unter **Einstellungen** → **Partnereinstellungen** → **Partnerprofil** → „Programminformationen“ überprüft werden. 
+
+6. Auf der Seite **Übersicht** wird die Vereinbarung für indirekte Wiederverkäufer angezeigt. Wählen Sie **Zustimmen und fortfahren** aus. Dadurch werden die Funktionen für indirekte Wiederverkäufer aktiviert.
+
+Wenn Sie die Vereinbarung für indirekte Wiederverkäufer akzeptiert haben, weist Sie Ihr Partnerprofil als Direktabrechnungspartner **und** als indirekter Wiederverkäufer aus.
+
+![Vereinbarung für indirekte Wiederverkäufer](images/direct/direct3.png)
 
 >[!Important] 
->Nach der Registrierung als indirekter Reseller mithilfe der neuen Funktion ist gibt es keine Option zum Zurücksetzen auf eine direkte Rechnung nur Mandanten. Stellen Sie sicher, dass Sie vollständig die Anforderungen Ihres Unternehmens vor der Registrierung als indirekter Reseller auswerten.
+>Nachdem Sie sich mit der neuen Funktion als indirekter Wiederverkäufer registriert haben, steht keine Option für ein Rollback zu einem reinen Direktabrechnungsmandanten zur Verfügung. Registrieren Sie sich daher erst nach sorgfältiger Prüfung Ihrer geschäftlichen Anforderungen als indirekter Wiederverkäufer.
 
-## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Während der Umstellung indirekten Vertriebspartners aus direkten
+## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Übergangsphase vom Direktabrechnungspartner zum indirekten Wiederverkäufer
 
-Während dieser Phase, die Sie verwalten weiterhin benötigt Ihrer direct-Kunden Abonnements, einschließlich des Abrechnungsprozesses. Sie können auch die Annahme Kunden von Ihren indirekten Anbieter und den Betrieb von als indirekter Reseller beginnen.
+Während dieser Phase verwalten Sie weiterhin die Abonnementangelegenheiten Ihrer Direktkunden (einschließlich des Abrechnungsprozesses). Außerdem beginnen Sie damit, Kunden von Ihrem indirekten Anbieter zu akzeptieren und als indirekter Wiederverkäufer zu agieren.
 
-![Sie sind sowohl eine direkte Rechnung als auch die indirekten Vertriebspartners](images/direct/direct4.png)
+![Sie sind sowohl Direktabrechnungspartner als auch indirekter Wiederverkäufer.](images/direct/direct4.png)
 
 ## <a name="find-an-indirect-provider"></a>Suchen eines indirekten Anbieters
 
-Nach der Registrierung, wird ein Link zum indirekten Anbieter in Ihrem linken Navigationsbereich angezeigt. Als indirekter Reseller werden Sie eine Beziehung mit einem indirekten Anbieter einrichten, die dann verarbeiten kann Ihre Abrechnung, Produkte für Ihre Kunden erwerben, und Infrastruktur unterstützen.
+Nach der Registrierung wird in Ihrem linken Navigationsbereich ein Link zu indirekten Anbietern angezeigt. Als indirekter Wiederverkäufer bauen Sie eine Beziehung zu einem indirekten Anbieter auf, der sich dann um Ihre Abrechnung, um den Produkteinkauf für Ihre Kunden sowie um die Supportinfrastruktur kümmern kann.
 
 Verschiedene indirekte Anbieter bieten unterschiedliche Unterstützung und Leistungen. Ermitteln Sie daher die Anbieter in Ihrer Umgebung, die Ihre Anforderungen am besten erfüllen. Die meisten Anbieter bieten Folgendes: 
 
-- Technische Unterstützung
+- Technische Schulungen und Unterstützung
 - Hilfe bei der Vermarktung Ihrer Produkte und Dienste 
-- Verwalten Sie Ihren Bedingungen Finanzierung und Guthaben 
+- Verwaltung Ihrer Finanzierung und Kreditbedingungen 
 
-Suchen Sie die Liste der offiziellen [indirekte Anbieter Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
+Die Liste mit offiziellen indirekten Microsoft-Anbietern finden Sie [hier](https://partnercenter.microsoft.com/partner/find-a-provider).
 
-Erfahren Sie mehr, lesen Sie [Partner mit der indirekten Anbieter](indirect-reseller-tasks-in-partner-center.md)
+Weitere Informationen finden Sie unter [Arbeiten mit indirekten Anbietern im Programm für Cloud-Lösungsanbieter](indirect-reseller-tasks-in-partner-center.md).
 
-## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Nehmen Sie eine Partnerschaft Einladung aus Ihren indirekten Anbieter
+## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Annehmen einer Partnerschaftseinladung von Ihrem indirekten Anbieter
 
-Wenn Sie mit einen indirekten Anbieter gefunden haben, richten Sie eine Partnerschaft mit der indirekten Anbieter im Partner Center an.
+Wenn Sie einen passenden indirekte Anbieter gefunden haben, gehen Sie mit ihm in Partner Center eine Partnerschaft ein.
 
-Indirekten Anbieters, die Sie auswählen, wird Sie per e-Mail eine Partnerschaft Einladungslink versenden, die Sie zu ihrer Einladung in Partner Center gelangen. Werden Sie sicher, dass Ihr globale Administrator meldet sich bei Partner Center und folgt dem Einladungslink. Wenn Sie die Einladung annehmen, wird der Name des Anbieters in der Liste der indirekten Anbieter angezeigt.
+Der von Ihnen ausgewählte indirekte Anbieter sendet Ihnen eine E-Mail mit einem Einladungslink für eine Partnerschaft, über den Sie zur entsprechenden Einladung in Partner Center gelangen. Stellen Sie sicher, dass sich Ihr globaler Administrator bei Partner Center anmeldet und dem Einladungslink folgt. Wenn Sie die Einladung annehmen, wird der Name des Anbieters in Ihrer Liste mit indirekten Anbietern angezeigt.
 
-## <a name="acquire-new-customers-as-indirect-reseller"></a>Erwerben Sie neue Kunden als indirekter reseller
+## <a name="acquire-new-customers-as-indirect-reseller"></a>Gewinnen neuer Kunden als indirekter Wiederverkäufer
 
-Sie und Ihr indirekter Anbieter benötigen Reseller Beziehungen mit Kunden. Dadurch können Sie zum Verwalten von Abonnements und Dienste in ihrem Auftrag eines Kunden. Um einen neuen Kunden zu erhalten, der einen vorhandenen Azure AD-Mandanten verfügt, können Sie den Kunden einrichten, dass zur gleichen Zeit mit sowohl Ihnen und Ihrem Anbieter eine vertriebspartnerbeziehung einladen. 
+Sowohl Sie selbst als auch Ihr indirekter Anbieter müssen über Vertriebspartnerschaften mit Kunden verfügen. Dies ermöglicht es Ihnen, die Abonnements und Dienste im Auftrag eines Kunden zu verwalten. Um einen neuen Kunden zu gewinnen, der bereits über einen Azure AD-Mandanten verfügt, können Sie den Kunden gleichzeitig zu einer Vertriebspartnerschaft mit Ihnen und Ihrem Anbieter einladen. 
 
-So erstellen Sie eine Einladung indirekten Vertriebspartners
+So erstellen Sie eine Einladung als indirekter Wiederverkäufer:
 
-1. Wählen Sie **indirekte Anbieter** Navigationsbereich von Ihrem Partner Center links 
+1. Wählen Sie in Partner Center im linken Navigationsbereich die Option **Indirekte Anbieter** aus. 
 
-2. Wählen Sie **Invite new customers** aus, um einen Kunden zu bitten, eine Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzurichten. Der Anbieter muss eine vertriebspartnerbeziehung mit Ihrem Kunden geschlossen haben, damit sie Aufträge auf Ihre Kunden übermitteln können, wenn der Kunde will, neue Abonnements oder neue Lizenzen für bereits bestehende Abonnements hinzufügen.
+2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu einer Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzuladen. Der Anbieter muss über eine Vertriebspartnerschaft mit Ihrem Kunden verfügen, damit er Aufträge im Namen des Kunden übermitteln kann, wenn dieser neue Abonnements erwerben oder bereits vorhandenen Abonnements neue Lizenzen hinzufügen möchte.
 
-3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Können Sie den Entwurf einer Nachricht in e-Mail öffnen, oder Sie können die Nachricht in die Zwischenablage kopieren und fügen Sie ihn in eine e-Mail.
+3. Überprüfen Sie auf der nächsten Seite den E-Mail-Entwurf. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
 
-4. Bearbeiten Sie den Text in die e-Mail-Adresse zu sagen, was Sie benötigen, aber Achten Sie darauf, dass Sie den Link enthalten, als es den Kunden direkt sowohl Ihr Konto und Ihr Anbieter die Verbindung mit personalisierten ist. Wählen Sie dann **Fertig**.
+4. Bearbeiten Sie den Text in der E-Mail nach Ihren Vorstellungen. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist, um den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters zu verknüpfen. Wählen Sie anschließend **Fertig** aus.
 
 5. Nachdem der Kunde Sie und Ihren Anbieter als Vertriebspartner autorisiert hat, verfügen Sie über die nötigen Administratorberechtigungen zur Verwaltung seiner Abonnements, Lizenzen und Benutzer, und Ihr indirekter Anbieter kann Aufträge im Namen des Kunden übermitteln.
-6. Erweitern Sie zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem Sie neben seinem Namen auf den Pfeil nach unten klicken. 
+6. Erweitern Sie zum Verwalten des Kontos sowie der Dienste, Benutzer und Lizenzen des Kunden den Kundendatensatz, indem Sie neben dem Namen des Kunden auf den Abwärtspfeil klicken. 
 
-Im Gegensatz zu Online-Dienst-Partnern können nicht indirekten Vertriebspartner Azure AD-Mandanten für ihre neuen Kunden im Partner Center erstellt. Der Anbieter den Mandanten erstellt, und geben Sie als indirekte Vertriebspartner für diesen Kunden. Dadurch wird sichergestellt, dass der Kunde in der Kundenliste in Partner Center angezeigt werden.
+Im Gegensatz zu Direktabrechnungspartnern können indirekte Wiederverkäufer in Partner Center keine Azure AD-Mandanten für ihre neuen Kunden erstellen. Ihr Anbieter erstellt den Mandanten und gibt Sie als den indirekten Wiederverkäufer für diesen Kunden an. Dadurch wird sichergestellt, dass der Kunde in Partner Center in Ihrer Kundenliste angezeigt wird.
 
 >[!Note]
->Es werden nicht möglich, direkte Rechnung Funktionen zu verwenden, um die Einkäufe für Kunden erstellen, die Sie als indirekter Reseller erwerben.
+>Sie können nicht Ihre Direktabrechnungsfunktion verwenden, um Käufe für Kunden zu erstellen, die Sie als indirekter Wiederverkäufer gewinnen.
 
-## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Verschieben Sie Ihre Kunden direkt Rechnung an Ihren indirekten Anbieter
+## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Migrieren Ihrer Direktabrechnungskunden zu Ihrem indirekten Anbieter
 
-Ihr indirekte Anbieter nicht Bestellungen für Ihre Kunden von Online-Dienst gesendet, bis sie mit ihnen vertriebspartnerbeziehung haben. Um die Reseller-Beziehung zwischen Ihrem Kunden und Ihr indirekter Anbieter herzustellen, laden Sie den Kunden mittels einer indirekten Vertriebspartners Einladung. 
+Ihr indirekter Anbieter kann keine Bestellungen für Ihre bereits vorhandenen Direktabrechnungskunden übermitteln, solange er über keine Vertriebspartnerschaft mit ihnen verfügt. Um die Vertriebspartnerschaft zwischen Ihren Bestandskunden und Ihrem indirekten Anbieter aufzubauen, müssen die entsprechenden Kunden jeweils mithilfe einer Einladung für indirekte Wiederverkäufer eingeladen werden. 
 
-1. Wählen Sie **indirekte Anbieter** Navigationsbereich von Ihrem Partner Center links
+1. Wählen Sie in Partner Center im linken Navigationsbereich die Option **Indirekte Anbieter** aus.
 
-2. Wählen Sie **einladen neue Kunden** einladen ein Kunden herstellen eine vertriebspartnerbeziehung mit der Sie sowohl die indirekte Anbieter zur gleichen Zeit. Der Anbieter muss eine vertriebspartnerbeziehung mit Ihrem Kunden geschlossen haben, damit sie Aufträge auf Ihre Kunden übermitteln können, wenn der Kunde will, neue Abonnements oder neue Lizenzen für bereits bestehende Abonnements hinzufügen.
+2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu einer Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzuladen. Der Anbieter muss über eine Vertriebspartnerschaft mit Ihrem Kunden verfügen, damit er Aufträge im Namen des Kunden übermitteln kann, wenn dieser neue Abonnements erwerben oder bereits vorhandenen Abonnements neue Lizenzen hinzufügen möchte.
 
-3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Können Sie den Entwurf einer Nachricht in e-Mail öffnen, oder Sie können die Nachricht in die Zwischenablage kopieren und fügen Sie ihn in eine e-Mail. 
+3. Überprüfen Sie auf der nächsten Seite den E-Mail-Entwurf. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen. 
 
-4. Bearbeiten Sie den Text in die e-Mail-Adresse zu sagen, was Sie benötigen, aber Achten Sie darauf, dass Sie den Link enthalten, als es den Kunden direkt sowohl Ihr Konto und Ihr Anbieter die Verbindung mit personalisierten ist. Wählen Sie dann **Fertig**.  
+4. Bearbeiten Sie den Text in der E-Mail nach Ihren Vorstellungen. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist, um den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters zu verknüpfen. Wählen Sie anschließend **Fertig** aus.  
 
 5. Nachdem der Kunde Sie und Ihren Anbieter als Vertriebspartner autorisiert hat, verfügen Sie über die nötigen Administratorberechtigungen zur Verwaltung seiner Abonnements, Lizenzen und Benutzer, und Ihr indirekter Anbieter kann Aufträge im Namen des Kunden übermitteln.
 
-6. Erweitern Sie zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem Sie neben seinem Namen auf den Pfeil nach unten klicken.
+6. Erweitern Sie zum Verwalten des Kontos sowie der Dienste, Benutzer und Lizenzen des Kunden den Kundendatensatz, indem Sie neben dem Namen des Kunden auf den Abwärtspfeil klicken.
 
 
-## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Verwalten von Ihren Kunden Online-Dienst und Ihre Kunden indirekten Vertriebspartners
+## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Verwalten Ihrer Direktabrechnungskunden und Ihrer Kunden für den indirekten Wiederverkauf
 
-Sie verwalten Ihre direkten Rechnung-Kunden und Ihre Kunden indirekten Vertriebspartners unterschiedlich. 
+Direktabrechnungskunden und Kunden für den indirekten Wiederverkauf werden unterschiedlich verwaltet. 
 
-**Weiterleitung von Rechnung-Kunden (Dinge, die Sie als indirekter Reseller nicht reicht)**
+**Direktabrechnungskunden (Aufgaben, die Sie als indirekter Wiederverkäufer nicht ausführen)**
 
 - Erstellen von Bestellungen für Produkte
 - Verwalten von Azure-Reservierungen
-- Verwalten Sie ihren Bestellverlauf
-- Kaufen Sie software
-- Stellen Sie Kunden direkt Rechnung
+- Verwalten des Bestellverlaufs
+- Kaufen von Software
+- Direktes Abrechnen mit Kunden
 
-**Kunden des indirekten Vertriebspartners**
+**Kunden indirekter Wiederverkäufer**
 
-- Ihr indirekte Anbieter ordnet Produkte für Ihre Kunden
-- Verwalten von Lizenzen und die Benutzer Kunden
-- Abonnementerneuerungen behandeln
+- Indirekter Anbieter bestellt Produkte für Ihre Kunden
+- Verwalten von Kundenlizenzen und -benutzern
+- Abwickeln von Abonnementverlängerungen
 
-**Um Kunden zu identifizieren, die Sie als direkte Rechnung Partner erworben haben.**
+**So erkennen Sie Kunden, die Sie als Direktabrechnungspartner gewonnen haben:**
 
-1. Wählen Sie **Kunden**
+1. Wählen Sie **Kunden** aus.
 
-2. Wählen Sie einen Kunden aus, um ihre Details anzuzeigen
+2. Wählen Sie einen Kunden aus, um dessen Details anzuzeigen.
 
-3. Wenn Kunden eine Sie als direkte Rechnung Partner erworben haben ist, sehen Sie Optionen zum **hinzufügen** oder **Produkte anzeigen,** und ihre Abonnements wird angezeigt.
+3. Wenn Sie diesen Kunden als Direktabrechnungspartner gewonnen haben, werden Optionen zum **Hinzufügen** oder **Anzeigen von Produkten** sowie die Abonnements des Kunden angezeigt.
 
-4. Wenn der Kunde eine indirekten Vertriebspartners-Beziehung mit Ihnen verfügt, werden diese Optionen nicht verfügbar.
+4. Wenn zwischen Ihnen und dem Kunden eine indirekte Vertriebspartnerschaft besteht, sind diese Optionen nicht verfügbar.
 
-## <a name="what-happens-when-your-direct-bill-capabilities-have-been-restricted"></a>Was geschieht, wenn es sich bei Ihrer Fähigkeiten bei der direkten Rechnung eingeschränkt wurde
+## <a name="what-happens-when-your-direct-bill-capabilities-have-been-restricted"></a>Was geschieht, wenn Ihre Direktabrechnungsfunktionen eingeschränkt wurden?
 
-Leiten Sie, ob Sie, zum Wechsel in den indirekten Vertriebspartners und eine duale Registrierung verfügen entschieden haben, wenn sowohl die direkten Rechnung und indirekten Vertriebspartners, oder Sie keine ausdrückliche Entscheidung noch als indirekter Reseller registrieren vorgenommen haben, Bill-Partner, die nicht über die neuen Anforderungen erfüllen für den CSP werden direkte Rechnung Partner-Programm von Microsoft informiert, wenn ihre direkten Rechnung-Funktionen beschränkt ist. 
+Direktabrechnungspartner, die die neuen Anforderungen für das CSP-Direktabrechnungspartner-Programm nicht erfüllen, werden von Microsoft informiert, wenn ihre Direktabrechnungsfunktionen eingeschränkt werden. Dabei spielt es keine Rolle, ob Sie sich bereits für die Umstellung auf eine Tätigkeit als indirekter Wiederverkäufer entschieden haben und sowohl als Direktabrechnungspartner als auch als indirekter Wiederverkäufer registriert sind oder ob Sie noch keine explizite Entscheidung hinsichtlich der Registrierung als indirekter Wiederverkäufer getroffen haben. 
 
-In Ihrer **Partnerprofil** unter **Programmieren Informationen** sehen Sie, dass es sich bei Ihrem Microsoft Cloud Solution Provider-Status geändert hat **eingeschränkten**.
+In Ihrem **Partnerprofil** sehen Sie im Abschnitt mit den **Programminformationen**, dass sich Ihr Microsoft Cloud Solution Provider-Status in **Eingeschränkt** geändert hat.
 
-## <a name="affected-direct-bill-capabilities"></a>Betroffen von Online-Dienst-Funktionen
+## <a name="affected-direct-bill-capabilities"></a>Betroffene Direktabrechnungsfunktionen
 
-Wenn es sich bei Ihrer Fähigkeiten bei der direkten Rechnung eingeschränkt wurden, können Sie nicht mehr neue Einkäufe für Ihre Kunden im Partner Center machen. Dazu zählen: 
+Wenn Ihre Direktabrechnungsfunktionen eingeschränkt wurden, können Sie in Partner Center keine neuen Einkäufe für Ihre Kunden mehr tätigen. Dazu zählen: 
 
 - Azure-Abonnements
 - Lizenzbasierte Abonnements
-- Hinzufügen von neuen Add-Ons für bereits bestehende lizenzbasierte Abonnements
-- Einmalige anschaffungen von Software- und Reservierung wie Software-Abonnements, zeitlich unbeschränkte Software und reservierte Azure-VM-Instanzen.
+- Hinzufügen neuer Add-Ons zu vorhandenen lizenzbasierten Abonnements
+- Einmalige Käufe von Software- und Reservierungsprodukten wie etwa Softwareabonnements, unbefristete Software und Azure Reserved Virtual Machine Instances
 
-Sie können keine neue Azure-Abonnements auch für Ihre eigenen Zwecke verwenden Sie das Azure Partner shared Services-Angebot im Rahmen des CSP-Programms erwerben. 
+Außerdem können Sie im Rahmen des Angebots „Azure Partner Shared Services” unter dem CSP-Programm auch keine neuen Azure-Abonnements für eigenen Zwecke mehr erwerben. 
 
-Zusätzlich zu den neuen Käufen können Sie nicht die folgenden direkten Rechnung Funktionen im Partner Center zugreifen: 
-- Sie können keine neuen kundenmandanten erstellen. Die **erstellen Kunden** option **Kunden** im Partner Center nicht zur Verfügung. 
+Neben neuen Käufen haben Sie auch keinen Zugriff mehr auf folgende Direktabrechnungsfunktionen in Partner Center: 
+- Sie können keine neuen Kundenmandanten mehr erstellen. Die Kundenerstellungsoption**** unter **Kunden** in Partner Center ist nicht verfügbar. 
 
-- Sie können Einladungen für Kunden, die eine direkte vertriebspartnerbeziehung anfordern nicht generieren. Die **vertriebspartnerbeziehung anfordern** option **Kunden** im Partner Center nicht zur Verfügung. 
+- Sie können keine Einladungen für Kunden generieren, um eine direkte Vertriebspartnerschaft zu beantragen. Die Option **Vertriebspartnerschaft beantragen** unter **Kunden** in Partner Center ist nicht verfügbar. 
 
 >[!Note] 
->Wenn Sie Ihre direkten Rechnung partnermandanten als indirekter Reseller bereits registriert haben, können Sie zum Senden von Einladungen für Kunden, die eine indirekter Reseller Beziehung statt für direkte Rechnung anfordern. 
+>Wenn Sie Ihren Direktabrechnungspartner-Mandanten bereits als indirekten Wiederverkäufer registriert haben, können Sie Einladungen an Kunden senden, um anstelle einer Direktabrechnung eine indirekte Vertriebspartnerschaft zu beantragen. 
 
-- Sie können keinen neuen Sandbox-Mandanten erstellen. Jeder direkte Rechnung partnermandanten kann eine Sandbox-Mandanten für die Online-Dienst-API-Integration erstellen. Wenn Sie eine zuvor erstellt haben, werden Sie dazu nach dem Sie direkte Rechnung Partner Funktion eingeschränkt wurde nicht zulässig. 
+- Sie können keinen neuen Sandbox-Mandanten erstellen. Jeder Direktabrechnungspartner-Mandant kann einen einzelnen Sandbox-Mandanten für die Integration der Direktabrechnungs-API erstellen. Sollten Sie zuvor noch keinen erstellt haben, ist dies nach der Einschränkung Ihrer Direktabrechnungspartner-Funktion nicht mehr möglich. 
 
-## <a name="whats-not-affected"></a>Was ist nicht betroffen.
+## <a name="whats-not-affected"></a>Nicht betroffene Elemente
 
-Direkte Rechnung Abonnements sind nicht betroffen. Sie bleiben gültig und werden automatisch verlängert. Sie werden weiterhin direkt von Microsoft in Rechnung gestellt, bis Sie sie beenden. 
+Vorhandene Direktabrechnungsabonnements sind nicht betroffen. Sie bleiben weiterhin gültig und werden automatisch verlängert. Sie werden Ihnen weiterhin direkt von Microsoft in Rechnung gestellt, bis Sie sie kündigen. 
 
-Weiterhin vorhandene Abonnements auf folgende Weise verwalten: 
+Vorhandene Abonnements können weiterhin wie folgt verwaltet werden: 
 
-- Anhalten von vorhandenen Abonnements 
+- Aussetzen vorhandener Abonnements 
 
-- Passen Sie die Anzahl der Arbeitsplätze des vorhandenen lizenzbasierte Abonnements 
+- Anpassen der Arbeitsplatzanzahl für vorhandene lizenzbasierte Abonnements 
 
-- Passen Sie die Arbeitsplätze des vorhandenen Add-ons zu einem Abonnement. Hinweis: Neuen Add-Ons kann nicht zu bestehenden Abonnements hinzugefügt werden, da-Add-Ons als neue Einkäufe behandelt werden. 
+- Anpassen der Arbeitsplatzanzahl für vorhandene Abonnement-Add-Ons. Hinweis: Vorhandenen Abonnements können keine neuen Add-Ons hinzugefügt werden, da-Add-Ons als neue Käufe gelten. 
 
-- Neue Azure-Ressourcen bereitstellen und Verwalten von vorhandenen Azure-Ressourcen unter dem vorhandenen Azure-Abonnements. Dies schließt die Produkte, die über Azure Marketplace und Visual Studio-Abonnements verfügbar sind. 
+- Bereitstellen neuer Azure-Ressourcen und Verwalten vorhandener Azure-Ressourcen unter vorhandenen Azure-Abonnements. Dies schließt die Produkte ein, die über Azure Marketplace- und Visual Studio-Abonnements verfügbar sind. 
 
-## <a name="enroll-for-indirect-reseller-incentives"></a>Registrieren Sie für Incentives des indirekten Vertriebspartners 
+## <a name="enroll-for-indirect-reseller-incentives"></a>Registrieren für Incentives für indirekte Wiederverkäufer 
 
-Nachdem Sie erfolgreich als indirekter Reseller auf Ihren vorhandenen Mandanten der Online-Dienst-Partner registriert haben, erhalten Sie eine Einladung für "indirekter Reseller Incentive" innerhalb von 30 Tagen registrieren. Die Einladung ist der Partner-MPN-Konto abhängig, die derzeit mit Ihrem CSP-Partner-Mandanten verknüpft ist. Die Einladung wird der Partner-MPN-Konto zugeordnete e-Mail-Adresse gesendet werden. 
+Nachdem Sie sich unter Ihrem vorhandenen Direktabrechnungspartner-Mandanten erfolgreich als indirekter Wiederverkäufer registriert haben, erhalten Sie innerhalb von 30 Tagen eine Einladung zur Registrierung für Incentives für indirekte Wiederverkäufer. Die Einladung basiert auf dem MPN-Partnerkonto, das aktuell Ihrem CSP-Partnermandanten zugeordnet ist. Die Einladung wird an die dem MPN-Partnerkonto zugeordnete E-Mail-Adresse gesendet. 
 
-Sie sind auch berechtigt, für die direkte Rechnung anreizprogramm Programme mit den gleichen partnermandanten registrieren. Sie müssen die Programme separat verwalten.
+Mit dem gleichen Partnermandanten können Sie sich auch für Incentive-Programme für die Direktabrechnung registrieren. Die Programme müssen separat verwaltet werden.
 
-Siehe auch [Weitere Informationen zu den zunehmend eines indirekten Vertriebspartners](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) und [direkte Rechnung indirekten Vertriebspartners – häufig gestellte Fragen](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
+Weitere Informationen dazu, wie Sie ein indirekter Wiederverkäufer werden, finden Sie [hier](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf). Lesen Sie außerdem die [häufig gestellten Fragen zur Umstellung von Direktabrechnung auf indirekter Wiederverkäufer](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).
 
 

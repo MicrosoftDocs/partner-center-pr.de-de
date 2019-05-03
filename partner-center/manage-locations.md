@@ -1,11 +1,11 @@
 ---
-title: Verwalten Sie Ihr Partnerkonto - Standorte | Partner Center
+title: Verwalten Ihres Partnerkontos – Standorte | Partner Center
 ms.topic: article
 ms.date: 03/27/2019
-description: Verwalten Sie die Standorte Ihres Unternehmens im Partner Center
+description: Verwalten Sie die Standorte Ihres Unternehmens in Partner Center.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Partnerkonto, Speicherorte
+keywords: Partner-Konto, Standorte
 ms.localizationpriority: medium
 ms.openlocfilehash: 9e6d5b2e4d314cc852c1c52ba4561b39bf6faa94
 ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
@@ -14,27 +14,27 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134430"
 ---
-# <a name="manage-your-partner-account-locations"></a>Verwalten Sie Ihr Partnerkonto an: Speicherorte
+# <a name="manage-your-partner-account-locations"></a>Verwalten Ihres Partnerkontos: Pfade
 
-Der Speicherort-MPN-IDs identifizieren jeden bestimmten Standort Ihres Unternehmens. Verwenden Sie den Standort MPN-ID, anreizprogramm Programme haben und die Cloud Solution Provider (CSP) Geschäfte tätigen, zum Hinzufügen von neuen Abonnements und andere geschäftliche Transaktionen registrieren. Das Unternehmen MPN-ID wird für nicht transaktionalen Aktivitäten wie z. B. Supportanfragen verwendet.
+Die Standort-MPN-IDs identifizieren die spezifischen Standorte Ihres Unternehmens. Die Standort-MPN-ID wird für die Registrierung bei Incentive-Programmen, für die Abwicklung von Transaktionen als Cloud Solution Provider (CSP), beim Hinzufügen neuer Abonnements sowie für andere geschäftliche Transaktionen verwendet. Die Unternehmens-MPN-ID wird für transaktionsfremde Aktivitäten verwendet (etwa für Supportanfragen).
 
-**Im folgenden finden in einem typischen Szenario:** 
+**Ein typisches Szenario:** 
 
-Einem Partnerunternehmen kann es sich um ein CSP-Unternehmen und ein veröffentlichen-Unternehmen haben. Geschäft CSP in mehreren Gebietsschemas gefunden werden kann, und ihr Geschäft Pub befindet sich möglicherweise in anderen Gebietsschemata. Ihre registrierten rechtlichen Geschäftsprofil verfügt über ein MPN-ID, die für die Verwaltung von nicht transaktionalen geschäftsüberwachung wie z. B. das Hinzufügen von Benutzern oder Supportanfragen Protokollierung verwendet wird. 
+Ein Partnerunternehmen kann über ein CSP-Geschäft und über ein Veröffentlichungsgeschäft verfügen. Das CSP-Geschäft und das Veröffentlichungsgeschäft können sich jeweils an mehreren unterschiedlichen Orten befinden. Das registrierte Unternehmen verfügt über eine einzelne MPN-ID, die für die Verwaltung aller transaktionsfremden Angelegenheiten verwendet wird (also etwa zum Hinzufügen von Benutzern oder zum Erstellen von Supportanfragen). 
 
-Jeder ihrer Standorte hat es sich um eine MPN-ID, die für die transaktionalen Geschäfts wie z. B. CSP- oder Anreize für Programme verwendet wird. Auszahlungen sind an einen bestimmten Standort gebunden.
+Jeder Standort des Unternehmens verfügt über eine MPN-ID, die für transaktionsbezogene Angelegenheiten (beispielsweise CSP- oder Incentive-Programme) verwendet wird. Auszahlungen sind an spezifische Standorte gebunden.
 
-Benutzer haben möglicherweise Rollen, die Standorte zu überschreiten. Beispielsweise kann der Administrator Incentives sammeln, wenn dieser Rolle für alle Standorte in Europa aufweisen.
+Die Rollen von Benutzern können sich über mehrere Standorte erstrecken. So kann der Incentive-Administrator beispielsweise für alle Standorte in Europa zuständig sein.
 
-**Um einen Speicherort hinzuzufügen.**
+**So fügen Sie einen Standort hinzu**
 
-1. Von der **Einstellung Symbol**, wählen die **Partner Einstellungen**. 
+1. Wählen Sie das **Einstellungssymbol** und anschließend die **Partnereinstellungen** aus. 
 
-2. Wählen Sie **Speicherorte.**
+2. Wählen Sie **Standorte** aus.
 
-3. Wählen Sie **Hinzufügen eines Orts**.  
+3. Wählen Sie **Standort hinzufügen** aus.  
 
-4. In der **Hinzufügen eines Orts** Seite, fügen Sie die Adressdetails des Speicherorts, die Sie für Ihr Unternehmen als auch für eine primäre Ansprechpartner für den Speicherort hinzufügen möchten.
+4. Fügen Sie auf der Seite **Standort hinzufügen** die Adressdetails des Standorts ein, den Sie Ihrem Unternehmen hinzufügen möchten, und geben Sie auch einen Hauptansprechpartner für den Standort an.
 
-Hinweis: Nach ein Speicherort im Partner Center hinzugefügt wird, kann nicht entfernt werden.
+Hinweis: In Partner Center hinzugefügte Standorte können nicht mehr entfernt werden.
 

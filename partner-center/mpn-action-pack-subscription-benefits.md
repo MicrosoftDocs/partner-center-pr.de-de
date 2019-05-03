@@ -20,6 +20,6 @@ Microsoft Action Pack-Abonnementvorteile umfassen neueste Software und Dienste m
 
 Details zu den Vorteilen, die in einem Action Pack-Abonnement enthalten sind, finden Sie unter [Beschleunigen Ihres Unternehmenswachstums](https://partner.microsoft.com/membership/internal-use-software) auf der Microsoft Partner Network-Website.   
 
-Informationen zum ersten Mal ein Action Pack-Abonnement erwerben oder Erneuern eines Abonnements für Action Pack Sie zuvor gekauft haben, finden Sie unter [Action Pack erhalten](mpn-get-action-pack.md) an diesem Standort: der Partner Center-Website - Hilfe-Bibliothek.
+Informationen zum erstmaligen Erwerb eines Action Pack-Abonnements oder zum Verlängern eines zuvor erworbenen Action Pack-Abonnements finden Sie unter [Erwerben eines Action Pack](mpn-get-action-pack.md) in der Hilfebibliothek auf dieser Website (der Partner Center-Website).
 
 

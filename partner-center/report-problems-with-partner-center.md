@@ -22,26 +22,26 @@ ms.locfileid: "62134190"
 -  Partner Center für Microsoft Cloud for US Government
 
 
-Wenden Sie sich an Partner Center-Support, wenn Sie Probleme mit dem Partner Center, einschließlich Fehler finden oder dienstunterbrechungen.
+Nehmen Sie Kontakt mit dem Partner Center-Support auf, wenn Probleme mit Partner Center auftreten, etwa Fehler oder Dienstausfälle.
 
-**Melden eines Problems mit der Partner Center**
+**Melden eines Problems mit Partner Center**
 
-1.  In Ihrer **Partner Center**, wählen die **Unterstützung** Symbol und wählen Sie dann **Partner Center-Anfragen**.
+1.  Wählen Sie in **Partner Center** das Symbol **Support** und dann **Partner Center-Anfragen** aus.
 
 2.  Wählen Sie **Neue Anfrage** aus.
 
-3.  Füllen Sie das Formular aus, und wählen Sie dann **Übermitteln** aus. Ein Partner-Support-Mitarbeiter wird sich bei Ihnen melden.
+3.  Füllen Sie das Formular aus, und wählen Sie dann **Übermitteln** aus. Ein Partner-Supportmitarbeiter wird sich bei Ihnen melden.
 
-**Senden von Diagnosedaten**
+**Senden von Diagnosen**
 
-Wenn ein Fehler auftritt, während Sie sich auf einer Partner Center-Seite befinden, werden Sie eventuell aufgefordert, Protokollinformationen zu sammeln. Wählen Sie **Weitere Informationen sammeln** über den Link, der vom oberen Rand der Seite nach unten klappt, um das Client-Diagnosetool zu öffnen. Dieses Tool sammelt Informationen, die das Partner-Support-Team benötigt, um die Ursache des Fehlers zu ermitteln. 
+Wenn ein Fehler auftritt, während Sie sich auf einer Partner Center-Seite befinden, werden Sie eventuell aufgefordert, Protokollinformationen zu sammeln. Wählen Sie **Collect more information** (Weitere Informationen sammeln) über den Link aus, der vom oberen Rand der Seite nach unten klappt, um das Clientdiagnosetool zu öffnen. Dieses Tool sammelt Informationen, die das Partner-Supportteam benötigt, um die Fehlerursache zu ermitteln. 
 
 >[!NOTE]
 >Auf Partner Center-Seiten, die **/pcv/** in der URL enthalten, können Sie das Tool manuell öffnen, um diese Informationen zu erfassen.
 
 1.  Wechseln Sie auf die Seite mit dem Problem.
 
-2.  Drücken Sie **STRG+ALT+D**, um das Client-Diagnosetool zu öffnen.
+2.  Drücken Sie **STRG+ALT+D**, um das Clientdiagnosetool zu öffnen.
 
 Sie erhalten eine Vorschau der Diagnoseinformationen und können diese auf eine Datei speichern, die Sie der Anfrage hinzufügen können. So senden Sie uns die Informationen:
 
@@ -52,7 +52,7 @@ Sie erhalten eine Vorschau der Diagnoseinformationen und können diese auf eine 
 
 4.  Folgen Sie den Anweisungen auf dem Bildschirm, um die Datei zu speichern.
 
-5.  Fügen Sie die Datei Ihrer Supportanfrage hinzu.
+5.  Fügen Sie die Datei an Ihre Supportanfrage an.
 
-Partner-Support fragt Sie möglicherweise, dieses Tool mehrmals auszuführen, um die aktuellsten Informationen zu erhalten.
+Der Partner-Support fordert Sie unter Umständen dazu auf, dieses Tool mehrmals auszuführen, um die aktuellsten Informationen zu erhalten.
 

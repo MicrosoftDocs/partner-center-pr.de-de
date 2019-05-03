@@ -1,8 +1,8 @@
 ---
-title: 'Office 365 Partner Admin Center-Kunden: Ihre Geschäftsvorgänge werden auf das Partner Center| Partner Center übertragen'
+title: 'Kunden des Office 365 Admin Center für Partner: Ihre Geschäftsvorgänge werden zu Partner Center migriert. | Partner Center'
 ms.topic: article
 ms.date: 03/15/2019
-description: Wichtige Überlegungen für Office 365 Partner Admin Center-Kunden bei der Migration zum Partner Center
+description: Wichtige Überlegungen für Kunden von Office 365 Admin Center für Partner bei der Migration zu Partner Center
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
@@ -13,36 +13,36 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134260"
 ---
-# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 Partner Admin Center-Kunden: Machen Sie sich bereit, um Geschäftsvorgänge in Partner Center zu verschieben.
+# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Kunden des Office 365 Admin Center für Partner: Vorbereiten auf die Migration von Geschäftsvorgängen zu Partner Center
 
 **Gilt für** 
 
 - Partner Center
-- Office 365 Partner Admin Center
+- Office 365 Admin Center für Partner
 
-Wir bringen die Office 365 Partner Admin-Center-Features in das Partner Center und helfen Ihnen beim Verwalten von Ihren Kunden im gesamten Geschäftslebenszyklus. Zusätzlich zu den gewohnten Features haben Sie folgende Möglichkeiten: 
+Wir stellen die Features des Office 365 Admin Center für Partner in Partner Center bereit, um Sie bei der Verwaltung Ihrer Kunden im gesamten Geschäftslebenszyklus zu unterstützen. Zusätzlich zu den gewohnten Features haben Sie nun folgende Möglichkeiten: 
 
-*  Steigerung des Umsatzes durch [Empfehlungen](referrals.md) und Verwalten von neuen Kunden bei deren Eingang.
-*  Einladungen für Kundenbeziehung im Namen Ihres Anbieters oder in Ihrem Namen
-*  Leichteres verwalten einzelner Benutzer und zuweisen von Lizenzen
+*  Steigern des Umsatzes durch [Empfehlungen](referrals.md) und Verwalten von neuen Kunden
+*  Senden von Einladungen für Partnerschaften an Kunden im Namen Ihres Anbieters oder in Ihrem Namen
+*  Einfacheres Verwalten einzelner Benutzer und Zuweisen von Lizenzen
 
-Sie können das Partner Center die direkt für viele der Aufgaben verwenden, die Sie derzeit im Office 365 Partner Administrationscenter durchführen. 
+Sie können Partner Center direkt für viele der Aufgaben verwenden, die Sie derzeit im Office 365 Admin Center für Partner erledigen. 
 
-Im Moment werden beide Websites unterstützt. Während des Übergangs zur neuen Website können Sie das Office 365 Partner Administrationscenter weiterhin verwenden. Alle Änderungen gelten für beide Seiten.
+Derzeit werden beide Websites unterstützt. Während des Übergangs zur neuen Website können Sie daher das Office 365 Admin Center für Partner weiterhin verwenden. Alle von Ihnen vorgenommenen Änderungen werden auf beiden Websites angezeigt.
 
 Wir hoffen, dass Ihnen die neue Umgebung gefällt.
 
-## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a>Suchen Sie Partner für Office 365 Admin Center-Features im Partner Center
+## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a>Features des Office 365 Admin Center für Partner in Partner Center
 
-Das Abschließen von Aufgaben im Partner Center erfolgt anders als im Office 365 Partner Administrationscenter. So funktioniert es im Partner Center.
+Aufgaben werden in Partner Center anders abgeschlossen als im Office 365 Admin Center für Partner. So schließen Sie sie in Partner Center ab:
 
-| Office 365 Partner Admin Center-Feature                       | Wo ist es im Partner Center? | 
+| Feature im Office 365 Admin Center für Partner                       | Wo ist es im Partner Center? | 
 |   -----------------------------------------------  | -------------- |
-| Bauen Sie Ihr Unternehmen: Kaufangebot erstellen | Arbeit mit Ihrem Anbieter, um Angebot an Ihre Kunden zu verkaufen |
-| Bauen Sie Ihr Unternehmen: Delegierter Administrator-Berechtigungen anfordern | Partner Center: Kunden > vertriebspartnerbeziehung anfordern |
-| Bauen Sie Ihr Unternehmen: Erstellen von Kaufangeboten | Nicht verfügbar. Sie können weiterhin das Office 365 Partner Administrationscenter verwenden |
-| Von Service requests: Liste des Clients: Office 365 Administrationscenter | Partner Center: Kunden > Dienste verwalten |
-| Von Service requests: Liste des Clients: Mithilfe von Service requests | Partner Center: Service Requests > Kundenanfragen |
-| Von Service requests: Gekennzeichnet | Dasbhoard: Kunden: Wählen Sie das Sternsymbol neben dem Unternehmensnamen |
-| Serviceanfrage > Clientverwaltung > Administrator im Namen von (AOBO) | Partner Center: Kunden > Wählen Sie einen Kunden > Wählen Sie ein Abonnement > Wählen Sie das angegebene Produkt-Reseller |
+| Aufbauen Ihres Geschäfts: Erstellen eines Kaufangebots | Arbeiten Sie mit Ihrem Anbieter zusammen, um Angebot an Ihre Kunden zu verkaufen. |
+| Aufbauen Ihres Geschäfts: Anfordern delegierter Administratorrechte | Partner Center: Kunden > Vertriebspartnerschaft beantragen |
+| Aufbauen Ihres Geschäfts: Erstellen von Testeinladungen | Nicht verfügbar. Sie können dazu weiterhin das Office 365 Admin Center für Partner verwenden. |
+| Dienstanfragen: Kundenliste: Office 365 Admin Center | Partner Center: Kunden > Dienste verwalten |
+| Dienstanfragen: Kundenliste: Dienstanfragen | Partner Center: Dienstanfrage > Kundenanfragen |
+| Dienstanfragen: Markiert | Dasbhoard: Kunden: Wählen Sie den Stern neben dem Unternehmensnamen aus. |
+| Dienstanfrage > Clientverwaltung > Administrator im Namen von (AOBO) | Partner Center: Kunden > Kunde auswählen > Abonnement auswählen > Gewünschten Produktwiederverkäufer auswählen |
 

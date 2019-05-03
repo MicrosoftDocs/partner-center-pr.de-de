@@ -14,7 +14,7 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134330"
 ---
-# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365-Partner-Sicherheitsempfehlung: Office 365 E5-einzelne SKU-Verfügbarkeit in CSP
+# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 Partner Advisory: Verfügbarkeit der Office 365 E5-Einzel-SKU in CSP
 
 **Gilt für**
 
@@ -37,7 +37,7 @@ Informieren Sie sich bei Ihren Steuer- und Rechtsberatern über die Verantwortli
 ## <a name="details"></a>Details
 
 
-In den Vereinigten Staaten, Puerto Rico und Kanada unterliegen PSTN-Dienste im Rahmen von Skype for Business besonderen steuerlichen und gesetzlichen Bestimmungen. Die Microsoft-Preise für PSTN verstehen sich einschließlich Steuern. Office 365-Partner, die Transaktionen für das neue vereinheitlichte Office 365 E5-Angebot durchführen, unterliegen spezifischen Steuern und Bestimmungen für PSTN-Dienste. Wenn ein Partner einen Aufschlag auf den Preis eines PSTN-Diensts von Microsoft erhebt, ist er möglicherweise für die Berechnung und Abführung von Steuern und Gebühren für PSTN-Dienste verantwortlich.
+In den Vereinigten Staaten, Puerto Rico und Kanada unterliegen Skype for Business-PSTN-Dienste besonderen steuerlichen und gesetzlichen Bestimmungen. Die Microsoft-Preise für PSTN verstehen sich einschließlich Steuern. Office 365-Partner, die Transaktionen für das neue vereinheitlichte Office 365 E5-Angebot durchführen, unterliegen spezifischen Steuern und Bestimmungen für PSTN-Dienste. Wenn ein Partner einen Aufschlag auf den Preis eines PSTN-Diensts von Microsoft erhebt, ist er möglicherweise für die Berechnung und Abführung von Steuern und Gebühren für PSTN-Dienste verantwortlich.
 
 ## <a name="price-list-and-catalog-availability"></a>Preislisten- und Katalogverfügbarkeit
 
@@ -53,9 +53,9 @@ Nach der Einführung am 5. Oktober werden einige SKUs den gleichen Angebotsanze
 
 ### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a>SKUs auf der CSP-Preisliste nach Datum und PSTN-Verfügbarkeit
 
-**Vor der einzelnen Office 365 Enterprise. E5 Single SKU Launch**
+**Vor Einführung der Office 365 Enterprise E5-Einzel-SKU**
 
-**Anzeigename des Angebots**
+**Angebotsanzeigename**
 
 **Angebots-ID**
 
@@ -94,9 +94,9 @@ PSTN-Add-On
 
  
 
-**Nach der Veröffentlichung von einzelnen Office 365 Enterprise. E5 Single SKU Launch**
+**Nach der Veröffentlichung der Office 365 Enterprise E5-Einzel-SKU**
 
-**Anzeigename des Angebots**
+**Angebotsanzeigename**
 
 **Angebots-ID**
 
@@ -106,25 +106,25 @@ PSTN-Add-On
 
 **Anmerkungen**
 
-**Office 365 Enterprise E5**
+**Office 365 Enterprise E5**
 
 **a044b16a-1861-4308-8086-a3a3b506fac2**
 
-**28.40**
+**28,40**
 
-**35.00**
+**35,00**
 
-**Neue einzelne SKU**
+**Neue Einzel-SKU**
 
-**Office 365 Enterprise E5 ohne PSTN Conferencing**
+**Office 365 Enterprise E5 ohne PSTN-Konferenzfunktionen**
 
 **02c07b64-2cd3-4667-b014-561192fc5d1a**
 
-**28.40**
+**28,40**
 
-**35.00**
+**35,00**
 
-**Neue einzelne SKU für nicht-PSTN-Elemente**
+**Neue Einzel-SKU für Mitglieder ohne PSTN**
 
 Office 365 Enterprise E5 ohne PSTN-Konferenzfunktionen
 
@@ -148,7 +148,7 @@ PSTN-Add-On
 
  
 
-## <a href="" id="invoices-and-partner-reconciliation-files-"></a>Rechnungen und Kontenabstimmungsdateien für Partner
+## <a href="" id="invoices-and-partner-reconciliation-files-"></a>Rechnungen und Abgleichungsdateien für Partner
 
 
 Die CSP-Abgleichungsdatei und die CSP-Rechnungen enthalten getrennte Positionen für PSTN- und Nicht-PSTN-Komponenten der Office 365 Enterprise E5-Einzel-SKU. Die beiden Positionen haben identische Namen und IDs. Jede Position verfügt jedoch über einen eindeutigen Preis pro Einheit (Beispiel: 28,40 USD und 2,00 USD). Dies unterscheidet die Skype for Business PSTN Conferencing-Komponente vom Office 365-Angebot, sodass Sie Steuern korrekt anwenden können.
@@ -168,14 +168,14 @@ Beispiel für eine Partnerabgleichung:
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Durable_offer_ID</strong></td>
-<td><strong>Offer_Name</strong></td>
-<td><strong>Subscription_Start_Date</strong></td>
-<td><strong>Subscription_End_Date</strong></td>
-<td><strong>Charge_Start_Date</strong></td>
-<td><strong>Charge_End_Date</strong></td>
-<td><strong>Charge_Type</strong></td>
-<td><strong>Unit_Price</strong></td>
+<td><strong>Permanente Angebots-ID</strong></td>
+<td><strong>Angebotsname</strong></td>
+<td><strong>Startdatum des Abonnements</strong></td>
+<td><strong>Enddatum des Abonnements</strong></td>
+<td><strong>Startdatum der Abrechnung</strong></td>
+<td><strong>Enddatum der Abrechnung</strong></td>
+<td><strong>Typ der Abrechnung</strong></td>
+<td><strong>Preis pro Einheit</strong></td>
 </tr>
 <tr class="even">
 <td><p>a044b16a-1861-4308-8086-a3a3b506fac2</p></td>
@@ -202,16 +202,16 @@ Beispiel für eine Partnerabgleichung:
 
  
 
-## <a name="additional-resources"></a>Zusätzliche Ressourcen
+## <a name="additional-resources"></a>Weitere Ressourcen
 
 
 Weitere Details finden Sie auf der [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx)-Website. Spezifische Ressourcen für Office 365 Enterprise E5 finden Sie auf der [Office 365 E5-Seite](https://drumbeat.office.com/partner/pages/e5.aspx) auf der Registerkarte **Vermarkten und Verkaufen**:
 
--   **Office 365 Enterprise E5-Lizenzierung**
+-   **Office 365 Enterprise E5-Lizenzierung**
 
--   **Übersicht über die Lizenzierung für Skype for Business-PSTN-Dienste**
+-   **Übersicht über die Lizenzierung von Skype for Business-PSTN-Diensten**
 
--   **Office 365 E5 und Skype for Business FAQ zur Lizenzierung**
+-   **Häufig gestellte Fragen (FAQ) zur Lizenzierung von Office 365 E5 und Skype for Business**
 
  
 

@@ -2,7 +2,7 @@
 title: Organisationssteuerinformationen | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
-description: 'Steuern für Einkäufe im Windows Store für Unternehmen werden durch Ihre Geschäftsadresse bestimmt. Unternehmen in den folgenden Ländern können ihre Umsatzsteuer-Identifikationsnummer bzw. die lokale Entsprechung bereitstellen:'
+description: 'Steuern für Einkäufe in Partner Center werden durch Ihre Geschäftsadresse bestimmt. Unternehmen in einigen Ländern können ihre Umsatzsteuer-Identifikationsnummer bzw. die lokale Entsprechung angeben:'
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
@@ -20,13 +20,13 @@ ms.locfileid: "62134230"
 
 -  Partner Center
 
-Steuern für Einkäufe im Windows Store für Unternehmen werden durch Ihre Geschäftsadresse bestimmt. Unternehmen in den folgenden Ländern können ihre Umsatzsteuer-Identifikationsnummer bzw. die lokale Entsprechung bereitstellen:
+Steuern für Einkäufe in Partner Center werden durch Ihre Geschäftsadresse bestimmt. Unternehmen in einigen Ländern können ihre Umsatzsteuer-Identifikationsnummer bzw. die lokale Entsprechung angeben:
 
-### <a name="add-your-vat-id"></a>Hinzufügen Ihrer Umsatzsteuer-ID
+### <a name="add-your-vat-id"></a>Hinzufügen Ihrer Umsatzsteuer-Identifikationsnummer
 
-1.  Von der **Partner Center** wechseln Sie zu **Mitgliedschaft bietet**-> **verfügbar**
-2.  Wählen Sie **fügen Sie Ihre Umsatzsteuer-Identifikationsnummer**
-3.  Geben Sie die USt-ID für Ihre Organisation wählen **hinzufügen** und wählen Sie dann **Weiter**.
+1.  Navigieren Sie in **Partner Center** zu **Mitgliedschaftsangebote**-> **Verfügbar**.
+2.  Wählen Sie **Add your VAT ID** (USt-IdNr. hinzufügen) aus.
+3.  Geben Sie die Umsatzsteuer-Identifikationsnummer für Ihre Organisation ein, und wählen Sie **Hinzufügen** und dann **Weiter** aus.
 
 
 

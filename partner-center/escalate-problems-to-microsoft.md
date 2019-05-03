@@ -2,7 +2,7 @@
 title: Eskalieren von Problemen an Microsoft | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
-description: Es wird erwartet, dass Sie Probleme im Auftrag Ihrer Kunden lösen. Es gibt jedoch verschiedene Kategorien von Problemen, die Sie an Microsoft, beheben Sie übergeben müssen.
+description: 'Es wird erwartet, dass Sie Probleme im Auftrag Ihrer Kunden lösen. Es gibt jedoch einige Arten von Problemen, mit denen Sie sich an Microsoft wenden müssen, damit sie behoben werden können:'
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
@@ -39,19 +39,19 @@ Es gibt jedoch einige Typen von Problemen, mit denen Sie sich an Microsoft wende
 
 ## <a name="submit-a-support-request"></a>Übermitteln einer Supportanfrage
 
-1. Wählen Sie im Partner Center **Kunden**.
-2. Wählen Sie den Kunden aus, der die Unterstützung benötigt.
-3. Wählen Sie **Serviceverwaltung** und dann **Serviceanfragen** aus.
+1. Wählen Sie in Partner Center die Option **Kunden** aus.
+2. Wählen Sie den Kunden aus, der Support benötigt.
+3. Wählen Sie **Dienstverwaltung** und dann **Serviceanfragen** aus.
 4. Wählen Sie **Neue Anfrage** und dann **Microsoft Office 365** aus.
-5. Sie werden beim Office 365-Portal weitergeleitet, in denen müssen Sie sich mit Ihren Partner Center-Anmeldeinformationen anmelden.
-6. Wählen Sie **Unterstützung**, **Neue Serviceanfrage** im Menü links auf der Seite.
+5. Sie gelangen zum Office 365-Portal. Hier melden Sie sich mit Ihren Partner Center-Anmeldeinformationen an.
+6. Wählen Sie **Support** und dann im Menü auf der linken Seite **Neue Serviceanfrage** aus.
 7. Wählen Sie das Supportthema aus.
 
 >[!NOTE]
->Es ist wichtig, um über das Partner Center zu starten, damit die Beziehung zwischen Partner und Kunden aufrechterhalten wird. 
+>Es ist wichtig, in Partner Center zu starten, sodass die Beziehung zwischen Partner und Kunde aufrechterhalten bleibt. 
 
 
-Weitere Informationen zum Melden von Problemen im Auftrag des Kunden finden Sie unter [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md).
+Informationen zum Melden von Problemen im Auftrag des Kunden finden Sie unter [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md).
 
  
 

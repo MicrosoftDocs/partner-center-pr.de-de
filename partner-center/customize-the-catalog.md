@@ -26,7 +26,7 @@ Im Katalog sind Microsoft-Produkte und -Add-Ons aufgeführt, die Sie Ihren Kunde
 
 **Anpassen des Katalogs**
 
-1.  Wechseln Sie zu dem Partner Center-Menü &gt; **verkaufen** &gt; **Katalog**.
+1.  Navigieren Sie zum Menü „Partner Center” &gt; **Verkaufen** &gt; **Katalog**.
 2.  Wählen Sie bis zu fünf Angebote aus, die am Anfang des Katalogs angezeigt werden sollen.
 
  

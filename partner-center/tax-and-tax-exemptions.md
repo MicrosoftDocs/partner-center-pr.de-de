@@ -24,11 +24,11 @@ ms.locfileid: "62134070"
 
 Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf den Weiterverkauf von Produkten durch Partner konzentriert, ist Microsoft nicht in allen Fällen verpflichtet, bei Partnerrechnungen die Mehrwertsteuer zu berechnen. Die Bestimmungen variieren je nach Land/Region. Partner sollten basierend auf ihrem Handelsstandort und dem ihrer Kunden mit Unterstützung ihres Steuerberaters die geeigneten Steuerbefreiungen beantragen. Um nachzuweisen, dass sein Microsoft-Handelspartnerkonto steuerbefreit ist, sollte der Partner die Bescheinigung zur Umsatzsteuerbefreiung an Microsoft übermitteln.
 
-**Die Datei eine Steuer-Ausnahme**
+**Beantragen einer Steuerbefreiung**
 
-1.  Suchen Sie Ihre **Microsoft-ID** im Partner Center &gt; **Kontoeinstellungen** &gt; **Organisationsprofil**.
-2.  Suchen Sie Ihre **MPN-ID** im Partner Center &gt; **Kontoeinstellungen** &gt; **Partnerprofil**.
-3.  Erstellen Sie ein neues Supportticket. Wählen Sie im Partner Center-Menü **Dienstanforderungen** &gt; **Partner Center-Anfragen** &gt; **neue Anforderung**.
+1.  Ihre **Microsoft-ID** finden Sie in Partner Center &gt; **Kontoeinstellungen** &gt; **Organisationsprofil**.
+2.  Ihre **MPN-ID** finden Sie in Partner Center &gt; **Kontoeinstellungen** &gt; **Partnerprofil**.
+3.  Erstellen Sie ein neues Supportticket. Wählen Sie im Menü „Partner Center“ die Option **Supportanfragen** &gt; **Partner Center-Anfragen** &gt; **Neue Anfrage** aus.
 4.  Füllen Sie das Formular aus. Wählen Sie unter **Problemtyp** die Option **Ich kann mein Profil nicht verwalten** aus. Geben Sie in der Beschreibung Ihre MPN-ID und Microsoft-ID an.
 5.  Nachdem Sie das Ticket übermittelt haben, erhalten Sie von Microsoft eine E-Mail mit der Bitte um weitere Informationen. Fügen Sie Ihrer Antwort die erforderlichen Bescheinigungen für Ihre Steuerbefreiung bei.
 
@@ -53,18 +53,18 @@ Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf
 <p>Da Microsoft keine Gutschriften und erneute Rechnungsstellungen unterstützt, müssen Sie Ihre USt-IdNr. vor dem Verkauf von Abonnements in Partner Center registrieren.</p>
 <p>Übermitteln der USt-IdNr. an Microsoft</strong></p>
 <ol>
-<li>Navigieren Sie im Partner Center zu im Partner Center-Menü &gt; <strong>Kontoeinstellungen</strong> &gt; <strong>Partnerrechnungsprofil</strong>.</li>
+<li>Wechseln Sie in Partner Center zum Menü „Partner Center“ &gt; <strong>Kontoeinstellungen</strong> &gt; <strong>Partnerabrechnungsprofil</strong>.</li>
 <li>Wählen Sie im Abschnitt <strong>Finanzdaten</strong> die Option <strong>Aktualisieren</strong> aus.</li>
 <li>Geben Sie unter <strong>Steuernummer des Unternehmens</strong> Ihre  USt-IdNr. an.</li>
 </ol></td>
 </tr>
 
 <tr class="odd">
-<td>Turkei</td>
-<td><p>Microsoft wendet jetzt die standardmäßige Mehrwertsteuer (MwSt.) auf digitale Inhalte und Dienste von Partnern in der Türkei erworben haben.  Dadurch wird für alle Rechnungen effektiv aus dem 1. Oktober 2018 angezeigt. Um Ihre Rechnungen Türkisch Umsatzsteuer ausgeschlossen, und selbst verwalten, verwenden Sie das folgende Verfahren, um Ihre partnerabrechnungsprofil zu aktualisieren.</p>
+<td>Türkei</td>
+<td><p>Microsoft wendet jetzt die standardmäßige Mehrwertsteuer (MwSt.) auf digitale Inhalte und Dienste an, die von Partnern in der Türkei erworben werden.  Sie wird seit dem 1. Oktober 2018 auf allen Rechnungen ausgewiesen. Wenn Sie die türkische Mehrwertsteuer aus Ihren Rechnungen ausschließen und sie selbst verwalten möchten, aktualisieren Sie wie folgt Ihr Partnerabrechnungsprofil.</p>
 <p>Übermitteln der USt-IdNr. an Microsoft</strong></p>
 <ol>
-<li>Navigieren Sie im Partner Center zu im Partner Center-Menü &gt; <strong>Kontoeinstellungen</strong> &gt; <strong>Partnerrechnungsprofil</strong>.</li>
+<li>Wechseln Sie in Partner Center zum Menü „Partner Center“ &gt; <strong>Kontoeinstellungen</strong> &gt; <strong>Partnerabrechnungsprofil</strong>.</li>
 <li>Wählen Sie im Abschnitt <strong>Finanzdaten</strong> die Option <strong>Aktualisieren</strong> aus.</li>
 <li>Geben Sie unter <strong>Steuernummer des Unternehmens</strong> Ihre  USt-IdNr. an.</li>
 </ol></td>

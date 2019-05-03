@@ -1,11 +1,11 @@
 ---
-title: Direkte CSP-Partner – Neue Anforderungen | Partner Center
+title: Neue Anforderungen für direkte CSP-Partner | Partner Center
 ms.topic: article
 ms.date: 03/20/2018
-Description: Wenn Sie derzeit im CSP-Programm als ein direkter-Partner registriert sind, sollten Sie vorbereiten, um diese aktualisierte Unterstützung und Anforderungen zu erfüllen.
+Description: Wenn Sie derzeit als direkter Partner im CSP-Programm registriert sind, sollten Sie sich auf diese neuen Anforderungen an Support und Services vorbereiten.
 program.author: labrenne
 ms.author: labrenne
-keywords: CSP, direkte Partner, Direct Bill, Anforderungen
+keywords: CSP, direkte Partner, Direktabrechnung, Anforderungen
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 7320d26479ce9d42959bdf91bafec7853ac4ca04
@@ -15,42 +15,42 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62135590"
 ---
-# <a name="csp-direct-bill-partner-new-requirements"></a>CSP direkt Rechnung Partner neue Anforderungen
+# <a name="csp-direct-bill-partner-new-requirements"></a>Neue Anforderungen für CSP-Direktabrechnungspartner
 
 **Gilt für**
 
-- Direkte Rechnung Partner im Cloud Solution Provider-Programm
+- Angebote für Direktabrechnungspartner im Cloud Solution Provider-Programm
 
-## <a name="enroll-as-a-direct-partner"></a>Sich als direkter Partner registrieren
+## <a name="enroll-as-a-direct-partner"></a>Registrieren als direkter Partner
 
-Partner mit einer direkten Rechnung besitzen Sie die End-to-End-Beziehung mit Kunden und Microsoft. Wir haben die registrierungsanforderungen für direkte Rechnung Partner ab dem 31. August 2018 aktualisiert. Mit diesen neuen Anforderungen können Sie das Wachstum Ihres Unternehmens mit dem richtigen CSP-Registrierungsmodell beschleunigen und Ihre Kundenbeziehungen mithilfe von Mehrwertdiensten und Support festigen.
+Als Direktabrechnungspartner sind Sie die für die End-to-End-Beziehung mit Ihren Kunden und Microsoft verantwortlich. Wir haben die Registrierungsanforderungen für Direktabrechnungspartner ab dem 31. August 2018 aktualisiert. Mit diesen neuen Anforderungen können Sie das Wachstum Ihres Unternehmens mit dem richtigen CSP-Registrierungsmodell beschleunigen und Ihre Kundenbeziehungen mithilfe von Mehrwertdiensten und Support festigen.
 
 ### <a name="minimum-requirements"></a>Mindestanforderungen
 
 |**Anforderung**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN ID**   |Eine aktive Microsoft Partner Network (MPN)-ID für Ihren Unternehmensstandort    |
-|**Endorsement**   |Die Befugnis zum Akzeptieren und Signieren von Vereinbarungen im Namen Ihres Unternehmens|
-|**Support**   |Bereitstellen von der ersten Ebene des Cloud-Produkt für Ihre Kunden unterstützen. <br>Ein Microsoft-Supportplan, entweder Erweiterter Support für Partner (Advanced Support for Partners, ASfP) oder Premiumsupport für Partner (Premier Support for Partners, PSfP). [Supportpläne vergleichen](https://partner.microsoft.com/en-US/support/partnersupport).<br> WICHTIG: Sie müssen eine kreditprüfung Erwerb eines Supportplans übergeben. Wir senden Ihnen per e-Mail, wenn Sie die kreditprüfung übergeben haben. |
-|**Verwalteter Dienst**   |Mindestens einen verwalteten Service, einen IP-Service oder eine Kundenlösungsanwendung. Weitere Informationen zum Hinzufügen von [verwalteten Services](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
+|**MPN-ID**   |Eine aktive Microsoft Partner Network (MPN)-ID für Ihren Unternehmensstandort    |
+|**Zustimmung**   |Die Befugnis zum Akzeptieren und Signieren von Vereinbarungen im Namen Ihres Unternehmens|
+|**Support**   |Die Fähigkeit, Ihren Kunden Cloud-Produktunterstützung der ersten Ebene zu bieten. <br>Ein Microsoft-Supportplan, entweder Erweiterter Support für Partner (Advanced Support for Partners, ASfP) oder Premiumsupport für Partner (Premier Support for Partners, PSfP). [Supportpläne vergleichen](https://partner.microsoft.com/en-US/support/partnersupport).<br> WICHTIG: Sie müssen vor dem Erwerb eines Supportplans eine Bonitätsprüfung bestehen. Wir benachrichtigen Sie per E-Mail, wenn Sie die Bonitätsprüfung bestanden haben. |
+|**Managed Services**   |Mindestens einen verwalteten Service, einen IP-Service oder eine Kundenlösungsanwendung. Weitere Informationen zum Hinzufügen von [verwalteten Services](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
 |**Debitoren** |Infrastruktur zur Verwaltung der Kundenabrechnung und -bereitstellung
 
-### <a name="verify-direct-bill-eligibility"></a>Überprüfen Sie Ihre Online-Dienst-Berechtigung
+### <a name="verify-direct-bill-eligibility"></a>Prüfen der Berechtigung für die Direktabrechnung
 
-Wenn Sie nicht bereits geschehen, überprüfen Sie die Mindestanforderungen, oben, um sicherzustellen, können Sie erfüllt werden, und führen Sie dann die [Cloud Solution Provider-Fragebogen](https://partner.microsoft.com/cloud-solution-provider/assessment).
+Prüfen Sie (falls noch nicht geschehen), ob Sie die oben aufgeführten Mindestanforderungen erfüllen, und führen Sie dann das [Assessment für Cloud-Lösungsanbieter](https://partner.microsoft.com/cloud-solution-provider/assessment) durch.
 
-Wir verwenden Ihre Antworten auf Fragen in der Form an, damit wir Ihre Berechtigung zum Registrieren im CSP-Programm als Partner direkten Rechnung bestimmen können.
+Wir prüfen anhand Ihrer Antworten auf die Fragen im Formular, ob Sie als Direktabrechnungspartner im CSP-Programm geeignet sind.
 
-Nachdem wir, dass Ihres Unternehmens die erforderlichen Berechtigungen erfüllt, als Partner direkten Rechnung zu registrieren, und Sie haben die registrierungsanwendung abgeschlossen, überprüft haben, wir überprüfen und überprüfen Sie die Business-Informationen, die Sie in der Registrierung angegeben haben. Wir überprüfen Ihres Unternehmens Guthaben, im Rahmen dieser Überprüfung wird. Wir informieren Sie per e-Mail informiert, wenn Ihr Unternehmen die kreditprüfung verstrichen ist.
+Wenn Ihr Unternehmen die Voraussetzungen für die Registrierung als Direktabrechnungspartner erfüllt und Sie die Bewerbung abgeschlossen haben, überprüfen und verifizieren wir die Unternehmensinformationen, die Sie bei der Registrierung angegeben haben. Im Rahmen dieser Überprüfung wird Ihr Unternehmen auch einer Bonitätsprüfung unterzogen. Wir benachrichtigen Sie per E-Mail, wenn Ihr Unternehmen die Bonitätsprüfung bestanden hat.
 
 >[!IMPORTANT]
->Überprüfen Ihres Unternehmens Guthaben kann uns mehrere Tage oder mehr dauern. Während dieses Zeitraums ist es wichtig, dass Sie nicht über ein Microsoft-Support-Plan erwerben. Nur, nachdem wir Sie darüber informiert haben, dass Sie die kreditprüfung übergeben haben, sollten Sie einen Microsoft-Support-Plan erwerben.
+>Die Bonitätsprüfung kann einige Tage dauern. Erwerben Sie in diesem Zeitraum KEINEN Microsoft-Supportplan. Erwerben Sie KEINEN Microsoft-Supportplan, bis wir Sie über die bestandene Bonitätsprüfung informiert haben.
 
-## <a name="transition-from-direct-to-indirect-reseller"></a>Ein Übergang vom direkten, indirekten reseller
+## <a name="transition-from-direct-to-indirect-reseller"></a>Übergangsphase vom direkten zum indirekten Wiederverkäufer
 
-Wenn Sie von einem Unternehmen für die direkte Rechnung indirekten Vertriebspartners Unternehmen verschieben möchten, stehen mehrere Schritte, die Sie durchführen müssen. Weitere Informationen zum Übergang finden unter [Übergang aus der Cloud Solution Provider (CSP) weiterleiten, Partner, der indirekter CSP-Reseller](transition-direct-to-indirect.md). 
+Wenn Sie vom Direktabrechnungspartner auf einen indirekten Wiederverkäufer umsteigen möchten, müssen Sie mehrere Schritte durchführen. Weitere Informationen dazu finden Sie unter [Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer](transition-direct-to-indirect.md). 
 
 ## <a name="see-also"></a>Siehe auch
 
-- [Weitere Informationen zu den zunehmend eines indirekten Vertriebspartners](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
-- [Direkte Rechnung indirekten Vertriebspartners – häufig gestellte Fragen](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
+- [Weitere Informationen zu den Anforderungen an indirekte Wiederverkäufer](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
+- [Häufig gestellte Fragen zum Übergang von Direktabrechnungspartner zum indirekten Wiederverkäufer](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

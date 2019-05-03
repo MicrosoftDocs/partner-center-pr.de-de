@@ -1,8 +1,8 @@
 ---
-title: Partner-Incentive jetzt im Partner Center | Partner Center
+title: Partner-Incentives jetzt in Partner Center | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
-description: Incentiveprogramme unterstützen Partner dabei, neue Möglichkeiten zur Vermarktung ihrer Microsoft-Angebote zu entwickeln, Schulungen anzubieten usw.
+description: Incentives-Programme unterstützen Partner dabei, neue Marketingmethoden zu entwickeln, Schulungen anzubieten usw.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
@@ -13,37 +13,37 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 04/23/2019
 ms.locfileid: "62134172"
 ---
-# <a name="partner-incentives-is-now-on-partner-center"></a>Partner-Incentive jetzt im Partner Center 
+# <a name="partner-incentives-is-now-on-partner-center"></a>Partner-Incentives jetzt in Partner Center 
 
 **Gilt für**
 
 -  Partner Center
 
-## <a name="the-csp-partner-incentives-program"></a>Das Anreizprogramm für CSP-Partner
+## <a name="the-csp-partner-incentives-program"></a>Das Incentives-Programm für CSP-Partner
 
-Ob Sie Ihre Geschäfte in der Cloud, lokal oder irgendwo dazwischen tätigen – die Anreizprogramme für Microsoft Partner fördern Rentabilität und Wachstum. Incentiveprogramme unterstützen Partner dabei, neue Möglichkeiten zur Vermarktung ihrer Microsoft-Angebote zu entwickeln – auf Konferenzen, bei Schulungen für Programme und durch neue Paketangebote. 
+Ob Sie Ihre Geschäfte in der Cloud, lokal oder irgendwo dazwischen tätigen – die Incentives für Microsoft Partner fördern Rentabilität und Wachstum. Incentives-Programme unterstützen Partner dabei, neue Möglichkeiten zur Vermarktung ihrer Microsoft-Angebote zu entwickeln – auf Konferenzen, durch Schulungsprogramme und durch neue Paketangebote. 
 
-## <a name="qualify-for-the-incentives-program"></a>Qualifizieren für das Anreizprogramm
+## <a name="qualify-for-the-incentives-program"></a>Qualifizieren für das Incentives-Programm
 
-Sie sind berechtigt, am Anreizprogramm für Microsoft-Partner teilzunehmen, wenn Sie als CSP-Partner ein aktiver Händler sind.
-Wenn Sie am Programm teilnehmen, können Sie Rabatte und gemeinschaftliche Einnahmen erhalten. Um sich für das Anreizprogramm zu registrieren, müssen Sie folgende Voraussetzungen erfüllen: 
+Sie sind berechtigt, am Incentives-Programm für Microsoft-Partner teilzunehmen, wenn Sie als CSP-Partner ein aktiver Wiederverkäufer sind.
+Wenn Sie am Programm teilnehmen, sind Sie zu Rabatten und Co-Op-Einnahmen berechtigt. Damit Sie sich für das Incentives-Programm registrieren können, müssen Sie folgende Voraussetzungen erfüllen: 
 - Sie besitzen eine aktive MPN-Vereinbarung (Microsoft Partner Network).  
-- Indirekte Anbieter müssen eine gültige Cloud Distributor-Vereinbarung besitzen.
-- Direkte Händler müssen eine Handelspartnervereinbarung besitzen.
-- Wenn Sie ein indirekter Handelspartner sind, müssen Sie zum MPN gehören. Indirekte Händler erhalten eine Einladung für das Anreizprogramm, nachdem sie ihre erste Transaktion abgeschlossen haben. 
-- Sie müssen über mindestens eine der folgenden Microsoft-Kompetenzen verfügen. Eine Liste der aktuellen [Microsoft Kompetenzen](competencies.md).
+- Indirekte Anbieter müssen eine gültige Vereinbarung für Cloudhändler besitzen.
+- Direkte Händler müssen eine Vereinbarung für Wiederverkäufer besitzen.
+- Wenn Sie ein Partner für den indirekten Wiederverkauf sind , müssen Sie zum MPN gehören. Indirekte Wiederverkäufer erhalten eine Einladung für das Incentives-Programm, nachdem sie ihre erste Transaktion abgeschlossen haben. 
+- Sie müssen über mindestens eine Microsoft-Kompetenz verfügen. Eine Liste der aktuellen Microsoft-Kompetenzen finden Sie [hier](competencies.md).
 
 ## <a name="one-site-one-log-on"></a>Eine Website, eine Anmeldung
 
-Nun, dass das Programm Incentives für Partner von Microsoft zum Partner Center übergegangen ist, werden Sie verrichten Verwalten Ihrer Administrator arbeiten, beispielsweise Benutzer, im Namen von Kunden arbeiten, registrieren Sie sich für Zertifizierungen, Incentives und Bericht Incentives Ergebnis, und Auszahlungen abrufen können. Alle Ihre Incentives sammeln, wenn Daten steht Ihnen für Ihre Incentives **Partner Center**. Diese Daten werden täglich aktualisiert.
+Nachdem das Incentives-Programm für Microsoft-Partner nun in Partner Center verschoben wurde, können Sie hier alle administrativen Aufgaben erledigen – Verwalten von Benutzern, Arbeiten im Kundenauftrag, Registrieren für Zertifizierungen und Incentives, Erstellen von Berichten über Incentiveeinnahmen und Erhalten von Auszahlungen. Alle Incentivedaten sind in Ihrer **Partner Center**-Umgebung für Incentives verfügbar. Diese Daten werden täglich aktualisiert.
  
-## <a name="set-your-users-up-in-partner-center"></a>Einrichten Ihrer Benutzer im Partner Center
+## <a name="set-your-users-up-in-partner-center"></a>Einrichten Ihrer Benutzer in Partner Center
  
-Der erste Schritt ist, das Incentives-Konto im Partner Center zu vervollständigen, indem Sie die Incentives-Benutzer im Partner Center einrichten. Sie haben eine E-Mail mit einer Liste der Incentives-Benutzer in Ihrer Organisation erhalten. Wenn der Administrator Anreize für Ihre Organisation die benutzereinrichtung abgeschlossen ist, erscheint alle Incentives sammeln, wenn Daten auf die Incentives **Partner Center**.
+Vervollständigen Sie als Erstes das Incentives-Konto in Partner Center, indem Sie die Incentivebenutzer in Partner Center einrichten. Sie haben eine E-Mail mit einer Liste der Incentivebenutzer in Ihrer Organisation erhalten. Wenn der Incentiveadministrator Ihrer Organisation die Einrichtung der Benutzer abgeschlossen hat, werden alle Incentivedaten in der **Partner Center**-Umgebung für Incentives angezeigt.
 
 **Siehe auch**
 
 [Erstellen von Benutzerkonten und Festlegen von Berechtigungen](create-user-accounts-and-set-permissions.md)
 
-[Ändern Sie Ihr temporäre Kennwort](change-your-temporary-password.md)
+[Ändern Ihres temporären Kennworts](change-your-temporary-password.md)
 

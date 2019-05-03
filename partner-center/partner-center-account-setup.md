@@ -2,7 +2,7 @@
 title: Verwalten Ihres Partner Center-Kontos | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
-description: Verwalten von Ihrer Organisation Profil, Bank und Steuer-Informationen und Benutzern im Partner Center.
+description: Verwalten Sie das Profil und Bank- und Steuerinformationen Ihrer Organisation sowie Ihre Benutzer in Partner Center.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
 ms.author: evansma
@@ -21,22 +21,22 @@ ms.locfileid: "62134240"
 
 -  Partner Center
 
-Das Konto, das Sie im Partner Center zu erstellen, wenn Sie registrieren, ist Ihre geschäftliche e-Mail-Adresse und Ihre Geschäftsdaten. Nachdem Sie ein Konto im Partner Center erstellt haben, müssen Sie oder Ihr Administrator zum Einrichten Ihres Unternehmens vollständiges Profil wie z.B. Informationen zum Support Datei steuern Ausnahmen bei Bedarf und primäre Kontaktinformationen aus. 
+Das Konto, das Sie bei der Registrierung in Partner Center erstellen, besteht aus Ihrer beruflichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem Sie ein Konto in Partner Center erstellt haben, müssen Sie (oder Ihr Administrator) die Einrichtung Ihres Unternehmensprofils abschließen (einschließlich Supportinformationen, ggf. Steuerbefreiungen und primärer Kontaktinformationen). 
 
-Sie oder Ihr Administrator erstellt auch Benutzerkonten für alle Benutzer, die im Partner Center zum Hinzufügen oder Verwalten von Kunden verkauft Abonnements verwenden, arbeiten mit der Abrechnung und rechnungsstellung, Geschäftsprofile erstellen, Verwalten von verweisen, arbeiten mit Anreize Programme und Bereitstellung unterstützt.
+Sie (oder Ihr Administrator) erstellen außerdem Benutzerkonten für alle Personen, die Partner Center zum Hinzufügen oder Verwalten von Kunden, zum Verkaufen von Abonnements, zum Arbeiten mit Rechnungen, zur Rechnungsstellung, zum Erstellen von Unternehmensprofilen, zum Verwalten von Empfehlungen, zum Arbeiten mit Incentives-Programmen und zum Bereitstellen von Support verwenden.
 
 >[!NOTE]
->Kontoeinstellungen befindet sich in der oberen rechten Ecke des Partner Center. Wenn Sie das Symbol auswählen, können Sie auswählen, was Sie verwalten möchten. Wählen Sie z. B. das **Kontosymbol** und dann **Benutzerverwaltung** aus. So gelangen Sie zu Ihrer Seite "Benutzerverwaltung", und es wird ein zusätzlicher Bereich geöffnet, der alle Optionen für **Kontoeinstellungen** enthält.
+>Die Kontoeinstellungen befinden sich in der oberen rechten Ecke von Partner Center. Über das Symbol können Sie auswählen, was Sie verwalten möchten. Wählen Sie beispielsweise das **Kontosymbol** und dann **Benutzerverwaltung** aus. Dadurch gelangen Sie zur Seite „Benutzerverwaltung“, und es wird ein zusätzlicher Bereich geöffnet, der alle Optionen für **Kontoeinstellungen** enthält.
 
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Ressourcen, die Ihnen beim Verwalten Ihres Partner Center-Kontos helfen
 
-|**Zu diesem Zweck**   |**Lesen Sie diesen**   |
+|**Aufgabe**   |**Artikel**   |
 |-----------------------|:-----------------------|
 |Sicherstellen, dass Ihr Unternehmensprofil aktuell ist   |[Aktualisieren von Partnerprofilen](update-your-partner-profile.md)|
-|Jeder in Ihrem Unternehmen, die im Partner Center arbeiten muss Rollen zugewiesen werden. Jede Rolle verfügt über spezielle Berechtigungen und Aufgaben.|[Erstellen von Benutzerkonten und Festlegen von Berechtigungen](create-user-accounts-and-set-permissions.md)|
-|Überprüfen Sie die Berechtigungen, die jede Rolle umfasst.|[Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md)
-|Die Standorte Ihres Unternehmens verwalten|[Verwalten Sie Ihr Partnerkonto an: Speicherorte](manage-locations.md)
+|Allen Benutzern in Ihrem Unternehmen, die in Partner Center arbeiten, müssen Rollen zugewiesen werden. Jede Rolle verfügt über spezielle Berechtigungen und Aufgaben.|[Erstellen von Benutzerkonten und Festlegen von Berechtigungen](create-user-accounts-and-set-permissions.md)|
+|Überprüfen der Berechtigungen, die jede Rolle umfasst|[Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md)
+|Verwalten der Standorte Ihres Unternehmens|[Verwalten Ihres Partnerkontos: Standorte](manage-locations.md)
 |Wenn ein Angestellter sein Passwort vergisst und Sie es zurücksetzen müssen  |[Zurücksetzen eines Benutzerkennworts](reset-a-user-password.md)|
 |Sicherstellen, dass Ihr Unternehmen so vermarktet wird, dass es von Kunden gefunden wird   |[Erstellen eines Marketingprofils](create-a-marketing-profile.md)|
 |Organisieren des Katalogs, sodass die wichtigsten Produkte am Anfang der Liste stehen   |[Anpassen des Katalogs](customize-the-catalog.md)|

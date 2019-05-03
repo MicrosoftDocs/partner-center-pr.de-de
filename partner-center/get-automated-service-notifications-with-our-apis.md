@@ -24,7 +24,7 @@ Office 365 und Microsoft Azure bieten jeweils eine API, die Partner in Echtzeit 
 
 Diese APIs sind für Ihre Entwickler verfügbar:
 
-[Office 365-API-Dienst-Kommunikation](https://go.microsoft.com/fwlink/p/?LinkId=616899)
+[Dienstkommunikations-API von Office 365](https://go.microsoft.com/fwlink/p/?LinkId=616899)
 
 Azure Insights REST API: [Code-](https://go.microsoft.com/fwlink/p/?LinkId=617299) und [API-Referenz](https://go.microsoft.com/fwlink/p/?LinkId=617300)
 

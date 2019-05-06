@@ -20,7 +20,7 @@ ms.locfileid: "62134550"
 
 Wenn Ihr Unternehmen ein Spitzenreiter bei Verkauf und Verwaltung von Azure-Diensten für Kunden ist, sollten Sie erwägen, sich für das Azure Expert Managed Services Provider-Programm zu bewerben. Azure Expert MSP-Partner erhalten einen exklusiven Badge, der sie von anderen Microsoft-Partnern unterscheidet, und erhalten höchste Priorität im Empfehlungsmodul. Sie werden für Co-Selling-Aufträge priorisiert, erhalten Unterstützung bei der Entwicklung neuer Vorgehensweisen und können an exklusiven Veranstaltungen teilnehmen.
 
-Um den Prozess der Bewerbung für das Azure MSP-Programm zu beginnen, wählen Sie im Navigationsmenü auf der linken Seite  **Kompetenzen und Programme** und dann **Azure Expert MSP** aus. Erfahren Sie mehr über [die Voraussetzungen und den Bewerbungsprozess](https://partner.microsoft.com/membership/azure-expert-msp). 
+Um den Prozess der Bewerbung für das Azure MSP-Programm zu beginnen,   wählen Sie im Navigationsmenü auf der linken Seite **Kompetenzen und Programme** und dann **Azure Expert MSP** aus. Erfahren Sie mehr über [die Voraussetzungen und den Bewerbungsprozess](https://partner.microsoft.com/membership/azure-expert-msp). 
 
 Wenn Sie noch nicht qualifiziert sind, können Sie Ihre Microsoft-Partnerschaft durch Mitgliedschaftserweiterungen, Schulungen und andere Entwicklungsmöglichkeiten ausbauen.
 Erfahren Sie mehr über die Schritte, die Sie unternehmen können, um [ Ihr Unternehmen und Fachwissen zu entwickeln](https://partner.microsoft.com/membership/azure-expert-msp).

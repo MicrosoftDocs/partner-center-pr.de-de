@@ -167,7 +167,7 @@ Wenn Ihre Direktabrechnungsfunktionen eingeschränkt wurden, können Sie in Part
 Außerdem können Sie im Rahmen des Angebots „Azure Partner Shared Services” unter dem CSP-Programm auch keine neuen Azure-Abonnements für eigenen Zwecke mehr erwerben. 
 
 Neben neuen Käufen haben Sie auch keinen Zugriff mehr auf folgende Direktabrechnungsfunktionen in Partner Center: 
-- Sie können keine neuen Kundenmandanten mehr erstellen. Die Kundenerstellungsoption**** unter **Kunden** in Partner Center ist nicht verfügbar. 
+- Sie können keine neuen Kundenmandanten mehr erstellen. **Die Kundenerstellungsoption**unter **Kunden** in Partner Center ist nicht verfügbar. 
 
 - Sie können keine Einladungen für Kunden generieren, um eine direkte Vertriebspartnerschaft zu beantragen. Die Option **Vertriebspartnerschaft beantragen** unter **Kunden** in Partner Center ist nicht verfügbar. 
 

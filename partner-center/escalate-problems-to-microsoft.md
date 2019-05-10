@@ -9,49 +9,49 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 2dbec40da4b230a3a7d822c18ab3fbb02406f0ff
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135670"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668193"
 ---
-# <a name="escalate-problems-to-microsoft"></a><span data-ttu-id="8ddb7-104">Eskalieren von Problemen an Microsoft</span><span class="sxs-lookup"><span data-stu-id="8ddb7-104">Escalate problems to Microsoft</span></span>
+# <a name="escalate-problems-to-microsoft"></a><span data-ttu-id="10c00-104">Eskalieren von Problemen an Microsoft</span><span class="sxs-lookup"><span data-stu-id="10c00-104">Escalate problems to Microsoft</span></span>
 
-<span data-ttu-id="8ddb7-105">**Gilt für**</span><span class="sxs-lookup"><span data-stu-id="8ddb7-105">**Applies to**</span></span>
+<span data-ttu-id="10c00-105">**Gilt für**</span><span class="sxs-lookup"><span data-stu-id="10c00-105">**Applies to**</span></span>
 
--  <span data-ttu-id="8ddb7-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="8ddb7-106">Partner Center</span></span>
--  <span data-ttu-id="8ddb7-107">Partner Center für Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="8ddb7-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="10c00-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="10c00-106">Partner Center</span></span>
+-  <span data-ttu-id="10c00-107">Partner Center für Microsoft Cloud for US Government</span><span class="sxs-lookup"><span data-stu-id="10c00-107">Partner Center for Microsoft Cloud for US Government</span></span>
 
 
-<span data-ttu-id="8ddb7-108">Es wird erwartet, dass Sie Probleme im Auftrag Ihrer Kunden lösen.</span><span class="sxs-lookup"><span data-stu-id="8ddb7-108">It is expected that you will solve problems on behalf of your customers.</span></span> <span data-ttu-id="8ddb7-109">Ihre ersten Schritte sollten die [Überprüfung der Dienstintegrität](check-service-health.md) und der dokumentierten Probleme umfassen.</span><span class="sxs-lookup"><span data-stu-id="8ddb7-109">Your first steps should be to [check service health](check-service-health.md) for existing, documented problems.</span></span> <span data-ttu-id="8ddb7-110">Wenn das Problem des Kunden auf diese Weise nicht behoben werden kann, können Sie mithilfe der Administratorrechte Probleme mit der Software, den Einstellungen und der Konfiguration beheben.</span><span class="sxs-lookup"><span data-stu-id="8ddb7-110">If that doesn't address the customer issue, then you can use your admin privileges to troubleshoot the software, settings, and configuration.</span></span>
+<span data-ttu-id="10c00-108">Es wird erwartet, dass Sie Probleme im Auftrag Ihrer Kunden lösen.</span><span class="sxs-lookup"><span data-stu-id="10c00-108">It is expected that you will solve problems on behalf of your customers.</span></span> <span data-ttu-id="10c00-109">Ihre ersten Schritte sollten die [Überprüfung der Dienstintegrität](check-service-health.md) und der dokumentierten Probleme umfassen.</span><span class="sxs-lookup"><span data-stu-id="10c00-109">Your first steps should be to [check service health](check-service-health.md) for existing, documented problems.</span></span> <span data-ttu-id="10c00-110">Wenn das Problem des Kunden auf diese Weise nicht behoben werden kann, können Sie mithilfe der Administratorrechte Probleme mit der Software, den Einstellungen und der Konfiguration beheben.</span><span class="sxs-lookup"><span data-stu-id="10c00-110">If that doesn't address the customer issue, then you can use your admin privileges to troubleshoot the software, settings, and configuration.</span></span>
 
-<span data-ttu-id="8ddb7-111">Es gibt jedoch einige Typen von Problemen, mit denen Sie sich an Microsoft wenden müssen, damit sie behoben werden können:</span><span class="sxs-lookup"><span data-stu-id="8ddb7-111">However, there are several categories of issues that you will need to hand off to Microsoft to fix:</span></span>
+<span data-ttu-id="10c00-111">Es gibt jedoch einige Typen von Problemen, mit denen Sie sich an Microsoft wenden müssen, damit sie behoben werden können:</span><span class="sxs-lookup"><span data-stu-id="10c00-111">However, there are several categories of issues that you will need to hand off to Microsoft to fix:</span></span>
 
--   <span data-ttu-id="8ddb7-112">Nicht dokumentierte Probleme mit Diensten, deren Funktionsweise von den Dienstbeschreibungen abweicht.</span><span class="sxs-lookup"><span data-stu-id="8ddb7-112">Undocumented problems with services that aren't operating according to service descriptions.</span></span>
+-   <span data-ttu-id="10c00-112">Nicht dokumentierte Probleme mit Diensten, deren Funktionsweise von den Dienstbeschreibungen abweicht.</span><span class="sxs-lookup"><span data-stu-id="10c00-112">Undocumented problems with services that aren't operating according to service descriptions.</span></span>
 
--   <span data-ttu-id="8ddb7-113">Nicht verfügbare Dienste</span><span class="sxs-lookup"><span data-stu-id="8ddb7-113">Unavailable services</span></span>
+-   <span data-ttu-id="10c00-113">Nicht verfügbare Dienste</span><span class="sxs-lookup"><span data-stu-id="10c00-113">Unavailable services</span></span>
 
--   <span data-ttu-id="8ddb7-114">Fehler und andere Unregelmäßigkeiten, die das Erscheinungsbild oder die Funktionsweise des Diensts beeinträchtigen</span><span class="sxs-lookup"><span data-stu-id="8ddb7-114">Bugs and other irregularities that affect service appearance or operation</span></span>
+-   <span data-ttu-id="10c00-114">Fehler und andere Unregelmäßigkeiten, die das Erscheinungsbild oder die Funktionsweise des Diensts beeinträchtigen</span><span class="sxs-lookup"><span data-stu-id="10c00-114">Bugs and other irregularities that affect service appearance or operation</span></span>
 
--   <span data-ttu-id="8ddb7-115">Umfassende Netzwerkstörungen</span><span class="sxs-lookup"><span data-stu-id="8ddb7-115">Large scale network disruptions</span></span>
+-   <span data-ttu-id="10c00-115">Umfassende Netzwerkstörungen</span><span class="sxs-lookup"><span data-stu-id="10c00-115">Large scale network disruptions</span></span>
 
--   <span data-ttu-id="8ddb7-116">Regionale Probleme mit Auswirkungen auf die Mehrinstanzenfähigkeit</span><span class="sxs-lookup"><span data-stu-id="8ddb7-116">Regional issues with multi-tenant impact</span></span>
+-   <span data-ttu-id="10c00-116">Regionale Probleme mit Auswirkungen auf die Mehrinstanzenfähigkeit</span><span class="sxs-lookup"><span data-stu-id="10c00-116">Regional issues with multi-tenant impact</span></span>
 
-## <a name="submit-a-support-request"></a><span data-ttu-id="8ddb7-117">Übermitteln einer Supportanfrage</span><span class="sxs-lookup"><span data-stu-id="8ddb7-117">Submit a support request</span></span>
+## <a name="submit-a-support-request"></a><span data-ttu-id="10c00-117">Übermitteln einer Supportanfrage</span><span class="sxs-lookup"><span data-stu-id="10c00-117">Submit a support request</span></span>
 
-1. <span data-ttu-id="8ddb7-118">Wählen Sie in Partner Center die Option **Kunden** aus.</span><span class="sxs-lookup"><span data-stu-id="8ddb7-118">From the Partner Center, select **Customers**.</span></span>
-2. <span data-ttu-id="8ddb7-119">Wählen Sie den Kunden aus, der Support benötigt.</span><span class="sxs-lookup"><span data-stu-id="8ddb7-119">Select the customer who needs the support.</span></span>
-3. <span data-ttu-id="8ddb7-120">Wählen Sie **Dienstverwaltung** und dann **Serviceanfragen** aus.</span><span class="sxs-lookup"><span data-stu-id="8ddb7-120">Select **Service management** and select **Service requests**.</span></span>
-4. <span data-ttu-id="8ddb7-121">Wählen Sie **Neue Anfrage** und dann **Microsoft Office 365** aus.</span><span class="sxs-lookup"><span data-stu-id="8ddb7-121">Select **New request** and then select **Microsoft Office 365**.</span></span>
-5. <span data-ttu-id="8ddb7-122">Sie gelangen zum Office 365-Portal. Hier melden Sie sich mit Ihren Partner Center-Anmeldeinformationen an.</span><span class="sxs-lookup"><span data-stu-id="8ddb7-122">You are taken to the Office 365 portal where you need to sign in using your Partner Center credentials.</span></span>
-6. <span data-ttu-id="8ddb7-123">Wählen Sie **Support** und dann im Menü auf der linken Seite **Neue Serviceanfrage** aus.</span><span class="sxs-lookup"><span data-stu-id="8ddb7-123">Select **Support**, **New service request** from left hand menu.</span></span>
-7. <span data-ttu-id="8ddb7-124">Wählen Sie das Supportthema aus.</span><span class="sxs-lookup"><span data-stu-id="8ddb7-124">Select the support topic.</span></span>
+1. <span data-ttu-id="10c00-118">Wählen Sie in Partner Center die Option **Kunden** aus.</span><span class="sxs-lookup"><span data-stu-id="10c00-118">From the Partner Center, select **Customers**.</span></span>
+2. <span data-ttu-id="10c00-119">Wählen Sie den Kunden aus, der Support benötigt.</span><span class="sxs-lookup"><span data-stu-id="10c00-119">Select the customer who needs the support.</span></span>
+3. <span data-ttu-id="10c00-120">Wählen Sie **Dienstverwaltung** und dann **Serviceanfragen** aus.</span><span class="sxs-lookup"><span data-stu-id="10c00-120">Select **Service management** and select **Service requests**.</span></span>
+4. <span data-ttu-id="10c00-121">Wählen Sie **Neue Anfrage** und dann **Microsoft Office 365** aus.</span><span class="sxs-lookup"><span data-stu-id="10c00-121">Select **New request** and then select **Microsoft Office 365**.</span></span>
+5. <span data-ttu-id="10c00-122">Sie gelangen zum Office 365-Portal. Hier melden Sie sich mit Ihren Partner Center-Anmeldeinformationen an.</span><span class="sxs-lookup"><span data-stu-id="10c00-122">You are taken to the Office 365 portal where you need to sign in using your Partner Center credentials.</span></span>
+6. <span data-ttu-id="10c00-123">Wählen Sie **Support** und dann im Menü auf der linken Seite **Neue Serviceanfrage** aus.</span><span class="sxs-lookup"><span data-stu-id="10c00-123">Select **Support**, **New service request** from left hand menu.</span></span>
+7. <span data-ttu-id="10c00-124">Wählen Sie das Supportthema aus.</span><span class="sxs-lookup"><span data-stu-id="10c00-124">Select the support topic.</span></span>
 
 >[!NOTE]
-><span data-ttu-id="8ddb7-125">Es ist wichtig, in Partner Center zu starten, sodass die Beziehung zwischen Partner und Kunde aufrechterhalten bleibt.</span><span class="sxs-lookup"><span data-stu-id="8ddb7-125">It is important to start from the Partner Center so that the relationship between partner and customer is maintained.</span></span> 
+><span data-ttu-id="10c00-125">Es ist wichtig, in Partner Center zu starten, sodass die Beziehung zwischen Partner und Kunde aufrechterhalten bleibt.</span><span class="sxs-lookup"><span data-stu-id="10c00-125">It is important to start from the Partner Center so that the relationship between partner and customer is maintained.</span></span> 
 
 
-<span data-ttu-id="8ddb7-126">Informationen zum Melden von Problemen im Auftrag des Kunden finden Sie unter [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md).</span><span class="sxs-lookup"><span data-stu-id="8ddb7-126">For information on reporting problems on behalf of the customer, see [Report problems on behalf of a customer](report-problems-on-behalf-of-a-customer.md).</span></span>
+<span data-ttu-id="10c00-126">Informationen zum Melden von Problemen im Auftrag des Kunden finden Sie unter [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md).</span><span class="sxs-lookup"><span data-stu-id="10c00-126">For information on reporting problems on behalf of the customer, see [Report problems on behalf of a customer](report-problems-on-behalf-of-a-customer.md).</span></span>
 
  
 

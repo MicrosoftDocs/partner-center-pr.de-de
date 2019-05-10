@@ -7,52 +7,52 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 6f2f50ac3d965b20b1ee40983c624bde9b04ed5d
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134445"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668045"
 ---
-# <a name="manage-your-incentives-in-partner-center"></a><span data-ttu-id="b8ad8-103">Verwalten Ihrer Incentives in Partner Center</span><span class="sxs-lookup"><span data-stu-id="b8ad8-103">Manage your Incentives in Partner Center</span></span> 
+# <a name="manage-your-incentives-in-partner-center"></a><span data-ttu-id="18d20-103">Verwalten Ihrer Incentives in Partner Center</span><span class="sxs-lookup"><span data-stu-id="18d20-103">Manage your Incentives in Partner Center</span></span> 
 
-<span data-ttu-id="b8ad8-104">**Gilt für**</span><span class="sxs-lookup"><span data-stu-id="b8ad8-104">**Applies to**</span></span>
+<span data-ttu-id="18d20-104">**Gilt für**</span><span class="sxs-lookup"><span data-stu-id="18d20-104">**Applies to**</span></span>
 
--  <span data-ttu-id="b8ad8-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="b8ad8-105">Partner Center</span></span>
+-  <span data-ttu-id="18d20-105">Partner Center</span><span class="sxs-lookup"><span data-stu-id="18d20-105">Partner Center</span></span>
 
-## <a name="partner-incentives"></a><span data-ttu-id="b8ad8-106">Partner-Incentives</span><span class="sxs-lookup"><span data-stu-id="b8ad8-106">Partner Incentives</span></span> 
+## <a name="partner-incentives"></a><span data-ttu-id="18d20-106">Partner-Incentives</span><span class="sxs-lookup"><span data-stu-id="18d20-106">Partner Incentives</span></span> 
 
-<span data-ttu-id="b8ad8-107">Ob Sie Ihre Geschäfte in der Cloud, lokal oder irgendwo dazwischen tätigen – Partner-Incentives fördern Rentabilität und Wachstum.</span><span class="sxs-lookup"><span data-stu-id="b8ad8-107">Whether you are doing business in the cloud, on-premises, or somewhere in between, Partner Incentives support your profitability and growth.</span></span>
+<span data-ttu-id="18d20-107">Ob Sie Ihre Geschäfte in der Cloud, lokal oder irgendwo dazwischen tätigen – Partner-Incentives fördern Rentabilität und Wachstum.</span><span class="sxs-lookup"><span data-stu-id="18d20-107">Whether you are doing business in the cloud, on-premises, or somewhere in between, Partner Incentives support your profitability and growth.</span></span>
 
-## <a name="qualify-for-the-partner-incentives-program"></a><span data-ttu-id="b8ad8-108">Qualifizieren für das Partner-Incentives-Programm</span><span class="sxs-lookup"><span data-stu-id="b8ad8-108">Qualify for the Partner Incentives program</span></span>
+## <a name="qualify-for-the-partner-incentives-program"></a><span data-ttu-id="18d20-108">Qualifizieren für das Partner-Incentives-Programm</span><span class="sxs-lookup"><span data-stu-id="18d20-108">Qualify for the Partner Incentives program</span></span>
 
-<span data-ttu-id="b8ad8-109">Sie sind für das CSP-Incentives-Programm berechtigt, wenn Sie die folgenden Kriterien erfüllen:</span><span class="sxs-lookup"><span data-stu-id="b8ad8-109">You're eligible for the CSP Incentives Program when you meet the following criteria:</span></span>
+<span data-ttu-id="18d20-109">Sie sind für das CSP-Incentives-Programm berechtigt, wenn Sie die folgenden Kriterien erfüllen:</span><span class="sxs-lookup"><span data-stu-id="18d20-109">You're eligible for the CSP Incentives Program when you meet the following criteria:</span></span>
 
--   <span data-ttu-id="b8ad8-110">Sie besitzen eine aktive MPN-Vereinbarung (Microsoft Partner Network).</span><span class="sxs-lookup"><span data-stu-id="b8ad8-110">Have an active Microsoft Partner Network (MPN) agreement</span></span> 
--   <span data-ttu-id="b8ad8-111">Sie besitzen eine gültige Vereinbarung für Cloudhändler (nur für indirekte Anbieter).</span><span class="sxs-lookup"><span data-stu-id="b8ad8-111">A valid Cloud Distributor agreement (indirect providers only)</span></span>
--   <span data-ttu-id="b8ad8-112">Sie besitzen eine Vereinbarung für Wiederverkäufer (nur für direkte Verkäufer).</span><span class="sxs-lookup"><span data-stu-id="b8ad8-112">A Reseller agreement (direct sellers only)</span></span>
--   <span data-ttu-id="b8ad8-113">Sie erfüllen die Kompetenzanforderung.</span><span class="sxs-lookup"><span data-stu-id="b8ad8-113">Meet the competency requirement</span></span>
+-   <span data-ttu-id="18d20-110">Sie besitzen eine aktive MPN-Vereinbarung (Microsoft Partner Network).</span><span class="sxs-lookup"><span data-stu-id="18d20-110">Have an active Microsoft Partner Network (MPN) agreement</span></span> 
+-   <span data-ttu-id="18d20-111">Sie besitzen eine gültige Vereinbarung für Cloudhändler (nur für indirekte Anbieter).</span><span class="sxs-lookup"><span data-stu-id="18d20-111">A valid Cloud Distributor agreement (indirect providers only)</span></span>
+-   <span data-ttu-id="18d20-112">Sie besitzen eine Vereinbarung für Wiederverkäufer (nur für direkte Verkäufer).</span><span class="sxs-lookup"><span data-stu-id="18d20-112">A Reseller agreement (direct sellers only)</span></span>
+-   <span data-ttu-id="18d20-113">Sie erfüllen die Kompetenzanforderung.</span><span class="sxs-lookup"><span data-stu-id="18d20-113">Meet the competency requirement</span></span>
 
-<span data-ttu-id="b8ad8-114">Sobald Sie berechtigt sind, werden Sie eingeladen, am Programm teilzunehmen.</span><span class="sxs-lookup"><span data-stu-id="b8ad8-114">As soon as you become eligible, you will be invited to join the program.</span></span>
+<span data-ttu-id="18d20-114">Sobald Sie berechtigt sind, werden Sie eingeladen, am Programm teilzunehmen.</span><span class="sxs-lookup"><span data-stu-id="18d20-114">As soon as you become eligible, you will be invited to join the program.</span></span>
 
-## <a name="one-site-one-sign-in"></a><span data-ttu-id="b8ad8-115">Eine Website, eine Anmeldung</span><span class="sxs-lookup"><span data-stu-id="b8ad8-115">One site, one sign in</span></span>
+## <a name="one-site-one-sign-in"></a><span data-ttu-id="18d20-115">Eine Website, eine Anmeldung</span><span class="sxs-lookup"><span data-stu-id="18d20-115">One site, one sign in</span></span>
 
-<span data-ttu-id="b8ad8-116">Die Partner-Incentives-Verwaltung ist nun in Partner Center verfügbar, und Sie können sich für Incentives registrieren, auf Ihre Steuer- und Zahlungsprofile sowie auf Einnahmen- und Zahlungsaufstellungen zugreifen und Benutzer verwalten – alles hier in Partner Center.</span><span class="sxs-lookup"><span data-stu-id="b8ad8-116">Now that Partner incentives management is available in Partner Center, you can sign up for incentives, access your tax and payment profiles, access your earnings and payment statements, and manage users – all here in Partner Center.</span></span> 
+<span data-ttu-id="18d20-116">Die Partner-Incentives-Verwaltung ist nun in Partner Center verfügbar, und Sie können sich für Incentives registrieren, auf Ihre Steuer- und Zahlungsprofile sowie auf Einnahmen- und Zahlungsaufstellungen zugreifen und Benutzer verwalten – alles hier in Partner Center.</span><span class="sxs-lookup"><span data-stu-id="18d20-116">Now that Partner incentives management is available in Partner Center, you can sign up for incentives, access your tax and payment profiles, access your earnings and payment statements, and manage users – all here in Partner Center.</span></span> 
 
-<span data-ttu-id="b8ad8-117">Beginnend mit bereits registrierten Partnern ermöglichen wir Partnern ab Juli in mehreren Phasen die Verwaltung von Incentives in Partner Center.</span><span class="sxs-lookup"><span data-stu-id="b8ad8-117">Beginning with already enrolled Partners, we are enabling partners to manage incentives in Partner Center in phases starting in July.</span></span> <span data-ttu-id="b8ad8-118">Achten Sie auf eine E-Mail mit dem Hinweis von uns, dass es an der Zeit ist, Ihre Organisation für Incentives in Partner Center einzurichten.</span><span class="sxs-lookup"><span data-stu-id="b8ad8-118">Look out for an email from us letting you know that it is time to set up your organization for incentives in Partner Center.</span></span> 
+<span data-ttu-id="18d20-117">Beginnend mit bereits registrierten Partnern ermöglichen wir Partnern ab Juli in mehreren Phasen die Verwaltung von Incentives in Partner Center.</span><span class="sxs-lookup"><span data-stu-id="18d20-117">Beginning with already enrolled Partners, we are enabling partners to manage incentives in Partner Center in phases starting in July.</span></span> <span data-ttu-id="18d20-118">Achten Sie auf eine E-Mail mit dem Hinweis von uns, dass es an der Zeit ist, Ihre Organisation für Incentives in Partner Center einzurichten.</span><span class="sxs-lookup"><span data-stu-id="18d20-118">Look out for an email from us letting you know that it is time to set up your organization for incentives in Partner Center.</span></span> 
 
-<span data-ttu-id="b8ad8-119">Administratoren: Wenn Sie die E-Mail erhalten haben, führen Sie noch heute die folgenden drei einfachen Schritte aus:</span><span class="sxs-lookup"><span data-stu-id="b8ad8-119">Admins, if you have received the email, follow these three easy steps today:</span></span>
+<span data-ttu-id="18d20-119">Administratoren: Wenn Sie die E-Mail erhalten haben, führen Sie noch heute die folgenden drei einfachen Schritte aus:</span><span class="sxs-lookup"><span data-stu-id="18d20-119">Admins, if you have received the email, follow these three easy steps today:</span></span>
 
-1.  <span data-ttu-id="b8ad8-120">Melden Sie sich bei Partner Center an.</span><span class="sxs-lookup"><span data-stu-id="b8ad8-120">Sign in to Partner Center</span></span> 
-2.  <span data-ttu-id="b8ad8-121">Richten Sie die Incentivebenutzer gemäß den Anweisungen in der E-Mail ein.</span><span class="sxs-lookup"><span data-stu-id="b8ad8-121">Following the directions in the email, set up your incentive users</span></span> 
-3.  <span data-ttu-id="b8ad8-122">Geben Sie die Partner Center-Anmeldeinformationen an die neu eingerichteten Incentivebenutzer weiter.</span><span class="sxs-lookup"><span data-stu-id="b8ad8-122">Give Partner Center login credentials to your newly set up incentive users</span></span>
+1.  <span data-ttu-id="18d20-120">Melden Sie sich bei Partner Center an.</span><span class="sxs-lookup"><span data-stu-id="18d20-120">Sign in to Partner Center</span></span> 
+2.  <span data-ttu-id="18d20-121">Richten Sie die Incentivebenutzer gemäß den Anweisungen in der E-Mail ein.</span><span class="sxs-lookup"><span data-stu-id="18d20-121">Following the directions in the email, set up your incentive users</span></span> 
+3.  <span data-ttu-id="18d20-122">Geben Sie die Partner Center-Anmeldeinformationen an die neu eingerichteten Incentivebenutzer weiter.</span><span class="sxs-lookup"><span data-stu-id="18d20-122">Give Partner Center login credentials to your newly set up incentive users</span></span>
 
-<span data-ttu-id="b8ad8-123">Wenn der Incentiveadministrator Anmeldeinformationen erhalten hat, kann er die Migration Ihrer Organisation durchführen. Anschließend kann Ihre Organisation Ihre Incentives hier in Partner Center verwalten.</span><span class="sxs-lookup"><span data-stu-id="b8ad8-123">When the Incentive Admin has received credentials, they can complete the migration of your organization which will enable your organization to manage your incentives here – in Partner center.</span></span>
+<span data-ttu-id="18d20-123">Wenn der Incentiveadministrator Anmeldeinformationen erhalten hat, kann er die Migration Ihrer Organisation durchführen. Anschließend kann Ihre Organisation Ihre Incentives hier in Partner Center verwalten.</span><span class="sxs-lookup"><span data-stu-id="18d20-123">When the Incentive Admin has received credentials, they can complete the migration of your organization which will enable your organization to manage your incentives here – in Partner center.</span></span>
 
 
-[<span data-ttu-id="b8ad8-124">Erstellen von Benutzerkonten und Zuweisen von Berechtigungen</span><span class="sxs-lookup"><span data-stu-id="b8ad8-124">Create user accounts and assign permissions</span></span>](create-user-accounts-and-set-permissions.md)
+[<span data-ttu-id="18d20-124">Erstellen von Benutzerkonten und Zuweisen von Berechtigungen</span><span class="sxs-lookup"><span data-stu-id="18d20-124">Create user accounts and assign permissions</span></span>](create-user-accounts-and-set-permissions.md)
 
-[<span data-ttu-id="b8ad8-125">Zurücksetzen eines Benutzerkennworts</span><span class="sxs-lookup"><span data-stu-id="b8ad8-125">Reset a user password</span></span>](reset-a-user-password.md)
+[<span data-ttu-id="18d20-125">Zurücksetzen eines Benutzerkennworts</span><span class="sxs-lookup"><span data-stu-id="18d20-125">Reset a user password</span></span>](reset-a-user-password.md)
 
-[<span data-ttu-id="b8ad8-126">Informationen zu den Incentiveauszahlungen</span><span class="sxs-lookup"><span data-stu-id="b8ad8-126">Understand your Incentive payouts</span></span>](understand-incentive-payouts.md)
+[<span data-ttu-id="18d20-126">Informationen zu den Incentiveauszahlungen</span><span class="sxs-lookup"><span data-stu-id="18d20-126">Understand your Incentive payouts</span></span>](understand-incentive-payouts.md)
 
-<span data-ttu-id="b8ad8-127">Weitere Informationen finden Sie im [Leitfaden für Partner-Incentives-Co-Op](https://assets.microsoft.com/coop-guidebook.pdf).</span><span class="sxs-lookup"><span data-stu-id="b8ad8-127">For more information see [Partner Incentives Co-op Guidebook](https://assets.microsoft.com/coop-guidebook.pdf)</span></span>
+<span data-ttu-id="18d20-127">Weitere Informationen finden Sie im [Leitfaden für Partner-Incentives-Co-Op](https://assets.microsoft.com/coop-guidebook.pdf).</span><span class="sxs-lookup"><span data-stu-id="18d20-127">For more information see [Partner Incentives Co-op Guidebook](https://assets.microsoft.com/coop-guidebook.pdf)</span></span>

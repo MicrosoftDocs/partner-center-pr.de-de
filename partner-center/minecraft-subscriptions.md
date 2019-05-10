@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: Autorisierte Partner im Bildungsbereich, Bildung, an Bildungseinrichtungen verkaufen, Schulen
 ms.localizationpriority: medium
 ms.openlocfilehash: 4c5b221bae98e203159afd8926bbdd3d3bbd0421
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134360"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667212"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Verkaufen von Abonnements für Minecraft: Education Edition für Bildungseinrichtungen
 

@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
+ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134605"
+ms.lasthandoff: 05/03/2019
+ms.locfileid: "65035527"
 ---
 # <a name="welcome-to-partner-center"></a>Willkommen bei Partner Center
 
@@ -85,9 +85,9 @@ Microsoft Partner Center ist der zentrale Ort für die Verwaltung der End-to-End
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/software-assurance-lp">
-                        <h3>Software Assurance-Programme</h3>
-                        <p>Sie können sich nun für Software Assurance-Schulungen und Bereitstellungsdienste in Partner Center registrieren.</p></a>
+                    <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
+                        <h3>Umstellung von PMC auf PC</h3>
+                        <p>Hier erfahren Sie, wie Sie Ihr Unternehmen auf die Umstellung auf Partner Center vorbereiten.</p></a>
                     </div>
                 </div>
             </div>
@@ -97,9 +97,9 @@ Microsoft Partner Center ist der zentrale Ort für die Verwaltung der End-to-End
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/voucher-validation-tool">
-                        <h3>Tool zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR)</h3>
-                        <p>Sie können Gutscheine nutzen und einlösen, die auf die Unternehmens- und Entwicklungsanforderungen Ihrer Kunden zugeschnitten sind.</p></a>
+                    <div class="cardText"><a href="/partner-center/Azure-expert-msp">
+                        <h3>Azure Expert Managed Services Provider-Programm</h3>
+                        <p>Ist Ihr Unternehmen besonders gut im Verkaufen von und Anbieten von Support für Azure? Lesen Sie die Informationen zur Registrierung für das Azure Expert MSP-Programm</p></a>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@ Microsoft Partner Center ist der zentrale Ort für die Verwaltung der End-to-End
                     </div>
                     <div class="cardText">
                         <h3>Anmelden</h3>
-                        <p><a href="/partner-center/mpn-create-a-partner-center-account">Konto erstellen</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Verwalten von Mandanten und Orten</a></p>
+                        <p><a href="/partner-center/manage-locations">Verwalten Ihrer Standorte</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">Verwalten Ihres Mandanten</a></p>
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@ Microsoft Partner Center ist der zentrale Ort für die Verwaltung der End-to-End
                     </div>
                     <div class="cardText">
                         <h3>Kontakt zu Kunden</h3>
-                        <p><a href="/partner-center/customer-accounts">Kundenkonten</a><br /><a href="/partner-center/customer-subscriptions">Verkaufen von Abonnements</a><br /><a href="/partner-center/assign-licenses-to-users">Verwalten von Lizenzen</a><br /><a href="/partner-center/billing">Abrechnung</a></p>
+                        <p><a href="/partner-center/csp-offers">Kaufen von Produkten für Kunden</a><br /><a href="/partner-center/customer-subscriptions">Verkaufen von Abonnements</a><br /><a href="/partner-center/assign-licenses-to-users">Verwalten von Lizenzen</a><br /><a href="/partner-center/billing">Abrechnung</a></p>
                     </div>
                 </div>
             </div>

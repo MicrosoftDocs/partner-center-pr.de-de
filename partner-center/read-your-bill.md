@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: Abonnementabrechnungen, Abrechnung, Abrechnung im Partner Center, Partner Center-Abrechnung, meine Rechnung lesen, Rechnung, Rechnung für Partner Center, CSP-Abrechnung, wo ist meine Rechnung?
 ms.localizationpriority: medium
 ms.openlocfilehash: 9754127cf02d8c8a1098d4a3045b8960978483cc
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133960"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667196"
 ---
 # <a name="read-your-bill"></a>Informationen zu Ihrer Rechnung
 

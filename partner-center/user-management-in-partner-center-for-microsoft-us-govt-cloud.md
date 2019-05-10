@@ -7,11 +7,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a1ab4524d5a5d13f5f704a4f4760ef9c163f9a02
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132930"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668206"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Benutzer- und Lizenzverwaltung im Partner Center für Microsoft Cloud for US Government
 

@@ -7,11 +7,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: bf6fbc44d7f35590ea39e554e15be6a1963b4766
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134350"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668024"
 ---
 # <a name="create-a-partner-center-account"></a>Erstellen eines Partner Center-Kontos
 

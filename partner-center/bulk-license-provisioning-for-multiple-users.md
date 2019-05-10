@@ -9,11 +9,11 @@ ms.author: evansma
 Keywords: Lizenz zuweisen, Lizenz widerrufen, mehreren Benutzern zuweisen,
 ms.localizationpriority: medium
 ms.openlocfilehash: e4917f4881b0dcca2e13f17dd116ff5faad0d0b9
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135340"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667427"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer
 

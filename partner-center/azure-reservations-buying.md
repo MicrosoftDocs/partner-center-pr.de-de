@@ -9,11 +9,11 @@ keywords: Azure, Reservierungen, verwalten, Abrechnung, kaufen
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: bf9d3bf1869a151172931f100cf10b28a7d75f27
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134680"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668313"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Kaufen von Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden im Partner Center 
 

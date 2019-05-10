@@ -8,11 +8,11 @@ ms.author: v-petand
 keywords: Kunde, Kunden, Zustimmung, häufig gestellte Fragen, MCA, Microsoft Cloud-Vertrag
 ms.localizationpriority: medium
 ms.openlocfilehash: 52f38191aefa722b96ca5f104e9af023952bd7d7
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135010"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668605"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Bestätigung der Kundenzustimmung zum Microsoft Cloud-Vertrag – Häufig gestellte Fragen
 

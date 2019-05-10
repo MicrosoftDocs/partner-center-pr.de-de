@@ -9,11 +9,11 @@ keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Office 36
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.openlocfilehash: d02b1ff64aa529c4f36dc50e16187bb48fa88bab
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134800"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64666873"
 ---
 # <a name="sell-on-premise-software-through-csp"></a>Verkaufen lokaler Software über das CSP-Programm
 

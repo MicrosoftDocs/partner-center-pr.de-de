@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: Incentive-Ansprüche, Co-Op-Ansprüche, Co-Op-Mittel
 ms.localizationpriority: medium
 ms.openlocfilehash: c1ba6ca1fcc624958355761b5d36ffafb9dface2
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135350"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667563"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Übersicht über Incentives-Co-Op-Ansprüche
 

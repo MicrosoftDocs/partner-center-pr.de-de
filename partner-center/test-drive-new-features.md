@@ -7,11 +7,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 95e27b6f52e3a01030569416a7f715e072fd5de7
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134007"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667177"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Testen von neuen Partner Center-Features
 

@@ -2,6 +2,11 @@
 
 # [Mitgliedschaft im Partnernetzwerk](mpn-overview.md)
 ## [Partner Center-Konto erstellen](mpn-create-a-partner-center-account.md)
+## Umstellung von PMC auf Partner Center
+### [Anleitung für die Umstellung von PMC auf Partner Center](guide-to-migration.md)
+### [Kurze Übersicht über die Unterschiede zwischen PMC und PC](move-pmc-pc-map.md)
+### [Anleitung zum Verschieben mehrerer Unternehmen zu Partner Center](move-multiple-companies.md)
+### [Konsolidieren Ihrer Unternehmen](consolidate-accounts.md)
 ## Mitgliedschaftsangebote
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Verlängern Ihrer Angebote](renew-mpn-offers.md)
@@ -46,7 +51,7 @@
 ## [Incentiveansprüche](claims-overview.md)
 ### [Erstellen und Verwalten von Incentiveansprüchen](create-incentives-claims.md)
 ### [Grundlegende Anforderungen für Incentiveansprüche](core-requirements.md)
-### [Übersicht über die Bezahlung von Incentiveansprüchen](incentives-payouts.md)
+### [Informationen zu den Incentiveauszahlungen](understand-incentive-payouts.md)
 ### [Übermitteln Ihrer OSA-Ansprüche in Partner Center](submit-osa-claim.md)
 
 
@@ -58,7 +63,6 @@
 ## [Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md)
 ## [Steuern und Steuerbefreiungen](tax-and-tax-exemptions.md)
 ## [Informationen zur Umsatzsteuer von Organisationen](organization-tax-info.md)
-## [Kreditlimit für Cloud Solution Provider-Konten](account-credit-limit.md)
 ## [Einrichten eines Kundenbudgets für Azure-Kosten](set-an-azure-spending-budget-for-your-customers.md)
 ## [Allgemeine Abrechnungsszenarien](common-billing-scenarios.md)
 ## [Nichtbezahlung, Betrug oder Missbrauch](non-payment--fraud--or-misuse.md)

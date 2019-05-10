@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: Geschäftsdaten
 ms.localizationpriority: medium
 ms.openlocfilehash: e6281e31e0049cb865e212485b6f5cf030516135
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134176"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667645"
 ---
 # <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>Partnerbeitrag: Behalten Sie Ihre Leistungsindikatoren im Blick
 

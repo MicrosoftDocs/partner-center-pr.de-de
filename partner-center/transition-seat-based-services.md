@@ -7,11 +7,11 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: b4e1e64eefeef3ac0bd70bb3eb300fe3caddf8f3
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132920"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668284"
 ---
 # <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a>Übertragen von Kunden mit lizenzbasierten Diensten in das Cloud Solution Provider-Programm aus einem anderen Kanal oder von einem Partner zu einem anderen
 

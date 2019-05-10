@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: fdc7bdf8dc79bba7e3328fb19a4bdbd9a78d904b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133970"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668096"
 ---
 # <a name="provide-billing-support"></a>Bereitstellen von Abrechnungssupport
 
@@ -40,7 +40,7 @@ Partner erhalten Supportanfragen von Kunden, m체ssen Probleme im Rahmen ihrer F�
 -   Support f체r **technische** Probleme ist verf체gbar 체ber:
     -   Premiumsupport f체r Partner (geb체hrenpflichtig)
     -   Erweiterter Support f체r Partner (geb체hrenpflichtig)
-    -   Signature Cloud Support (in Gold/Silver-Kompetenz enthalten)
+    -   Signature Cloud Support (in Gold-/Silver-Kompetenz enthalten)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Bereitstellen von Abrechnung, Abonnementverwaltung und technischem Support 
 

@@ -9,11 +9,11 @@ keywords: Azure, Reservierungen, VM, verwalten, Nutzung, Größe
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 9a398b73cf00bd71130d25f0ec94a33b457e216b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135513"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668682"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Microsoft Azure VM-Größe für die maximale Reservierungsnutzung 
 

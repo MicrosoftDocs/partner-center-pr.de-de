@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 03a950db3b813a85b5f1c72ae95bcd7d78d086f2
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133890"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668448"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>Wiederherstellen ausgesetzter Partner Center-Konten
 

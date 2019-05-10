@@ -10,11 +10,11 @@ keywords: Geschäftsdaten
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 9bd76a51664b18a8b3cea1e4163415480186fd86
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62131871"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668571"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Abrufen von Daten zur Verwendung der Azure-Abonnements Ihrer Kunden 
 

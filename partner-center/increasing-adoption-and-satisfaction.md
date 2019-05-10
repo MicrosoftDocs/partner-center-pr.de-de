@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: b188ff4c859d91d58ba27700de9853df375950ec
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134490"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668586"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Steigerung von Einführungsrate und Zufriedenheit
 

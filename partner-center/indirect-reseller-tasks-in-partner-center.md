@@ -10,11 +10,11 @@ keywords: Indirekte Vertriebspartner, Händler, indirekte Anbieter, Anbieter, Pa
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 88b3bbccc6716696e3ad26034ca794459839b975
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134442"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668598"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Anbietern im Programm für Cloud-Lösungsanbieter
 
@@ -85,9 +85,9 @@ Der Hauptansprechpartner muss eine Person in Ihrer Organisation sein, die wir im
 
 9.  Wenn Ihr Partner Center-Konto verwendungsbereit ist, vergewissern Sie sich, dass Sie der Administrator-Agent-Gruppe hinzugefügt wurden. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
 
-a.  Wählen Sie in **Partner Center** das **Einstellungssymbol** und dann **Benutzerverwaltung** aus.  
+a.  Wählen Sie in **Partner Center** das Symbol **Einstellungen** und anschließend **Benutzerverwaltung** aus.  
 
-b.  Wählen Sie Ihren Namen aus der Anwenderliste und dann **Administrator-Agent** aus, sofern diese Option nicht bereits ausgewählt ist. Wählen Sie **Aktualisieren** aus.   
+b.  Wählen Sie Ihren Namen aus der Benutzerliste und dann **Administrator-Agent** aus, sofern diese Option nicht bereits ausgewählt ist. Wählen Sie **Aktualisieren** aus.   
 
 ## <a name="add-a-new-user"></a>Hinzufügen eines neuen Benutzers
 
@@ -153,7 +153,7 @@ Wenn Sie mit einem indirekten Anbieter zusammenarbeiten, gewinnen Sie nicht auto
 
 2.  Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen. 
 
-Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist und den Kunden direkt mit Ihrem Konto verknüpft. Wählen Sie **Fertig**, wenn Sie diesen Schritt abgeschlossen haben.
+Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist und den Kunden direkt mit Ihrem Konto verknüpft. Wählen Sie **Fertig** aus, wenn Sie diesen Schritt abgeschlossen haben.
 
 3.  Senden Sie die E-Mail an den Kunden.
 

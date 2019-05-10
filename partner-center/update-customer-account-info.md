@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 32a335778cde4495e3572a18afb90ff4593f2465
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133030"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668404"
 ---
 # <a name="update-customer-account-info"></a>Aktualisieren der Kundenkontoinformationen
 

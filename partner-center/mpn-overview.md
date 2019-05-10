@@ -9,11 +9,11 @@ keywords: Partner, Partnerschaft, MPN, Microsoft Partner Network Action Pack, MA
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: e40835faf14b010cf8f8e448293e0d25cb687e11
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134340"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668276"
 ---
 # <a name="partner-with-microsoft"></a>Partner von Microsoft
 
@@ -33,13 +33,13 @@ Weitere Informationen zum Microsoft Partner Network (MPN) finden Sie auf der [MP
 
 ### <a name="how-to-join"></a>Vorgehensweise zum Beitreten
 
-Wenn Sie dem Microsoft Partner Network beitreten möchten, wechseln Sie zur Seite [**Mitgliedschaft**](https://partner.microsoft.com/membership) auf der MPN-Website, und wählen Sie **Registrieren** oder **Jetzt Mitglied werden** aus.
+Wenn Sie dem Microsoft Partner Network beitreten möchten, wechseln Sie zur Seite [ **Mitgliedschaft** ](https://partner.microsoft.com/membership) auf der MPN-Website, und wählen Sie **Registrieren** oder **Jetzt Mitglied werden** aus.
 
 ## <a name="microsoft-partner-network-membership-types"></a>Arten der Microsoft Partner Network-Mitgliedschaft
 
 <!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/en-us/membership)-->
 
-Das Microsoft Partner Network bietet Ihnen drei Arten der Mitgliedschaft, die im Folgenden beschrieben sind. Jede davon bietet eine Reihe von Vorteilen für das Wachstum Ihres Unternehmens. Sobald Sie Ihre Ziele erreichen, nehmen Sie entsprechend Ihrer einzigartigen geschäftlichen Anforderungen am Programm teil, um auf die Vorteile zuzugreifen und Ihre Partnerschaft mit uns und anderen Partnern im Netzwerk weiterzuentwickeln.
+Das Microsoft Partner Network bietet Ihnen drei Arten der Mitgliedschaft, die im Folgenden beschrieben sind. Jede davon umfasst eine Reihe von Vorteilen für das Wachstum Ihres Unternehmens. Sobald Sie Ihre Ziele erreichen, nehmen Sie entsprechend Ihrer einzigartigen geschäftlichen Anforderungen am Programm teil, um auf die Vorteile zuzugreifen und Ihre Partnerschaft mit uns und anderen Partnern im Netzwerk weiterzuentwickeln.
 
 ### <a name="action-pack"></a>Action Pack
 

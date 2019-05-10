@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: fd95787a87a1b70a0b2f31114b22dde7ca0f837c
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135690"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668347"
 ---
 # <a name="faq-about-new-billing-features"></a>Häufig gestellte Fragen zu neuen Abrechnungsfunktionen
 
@@ -507,7 +507,7 @@ Das Abrechnungsdatum des Partners ist der 15. jedes Monats. Am 1. Juni 2018 ka
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
 |01.06.2018   |30.06.2018   |30 USD   |1   |30 USD   |Anteilige Gebühren beim Kauf |
 
-Die Abstimmungsdatei vom 15. Juli enthält in diesem Fall die folgenden Rechnungspositionen:
+Die Abstimmungsdatei vom 15. Juli enthält in diesem Fall die folgenden Rechnungspositionen:
 - -30 USD Stornierungsgutschrift für den Leistungszeitraum 20. Juni – 30. Juni. Die Gutschrift ist nicht anteilig, da das Abonnement in den ersten 30 Tagen ausgesetzt wurde.
 - 30 USD Gebühr für den Leistungszeitraum 25. Juni – 30. Juni. Die Gebühr ist nicht anteilig, da das Abonnement in den ersten 30 Tagen reaktiviert wurde.
 - 30 USD Gebühr für den Leistungszeitraum 1. Juli – 31. Juli.

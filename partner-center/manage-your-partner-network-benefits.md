@@ -8,11 +8,11 @@ ms.author: evansma
 keywords: MPN, Mitgliedschaftsvorteile, Mitgliedschaft
 ms.localizationpriority: medium
 ms.openlocfilehash: fd97db7d1bdd56567c5fc52bb3d8a878ea73ede2
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134390"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668561"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten Ihrer Microsoft Partner Network-Mitgliedschaftsvorteile
 

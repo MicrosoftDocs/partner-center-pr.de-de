@@ -9,11 +9,11 @@ ms.author: evansma
 Keywords: Kundenverwaltung, Konto, Konto erstellen, Lizenzen, Lizenz zuweisen Benutzerverwaltung, Kennwort, Kennwort zurücksetzen, Kennwort ändern
 ms.localizationpriority: medium
 ms.openlocfilehash: a66c1fe8965ecbc2d432efaf0a3e732b6ecd792b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134870"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668555"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Benutzerverwaltungsaufgaben für Kundenkonten
 

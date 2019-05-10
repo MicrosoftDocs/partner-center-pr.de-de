@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 4fbd6e5e14c12e81cff4297b60b542ab0ccd5277
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133980"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667245"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Kontaktaufnahme mit Kunden im Partner Center
 

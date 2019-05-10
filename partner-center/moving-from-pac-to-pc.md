@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: PAC, Office 365-Administrator, PAC-Features
 ms.localizationpriority: medium
 ms.openlocfilehash: 2c6131dec100f438895cfa7d4f8fea5f6d66dacb
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134312"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667811"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Wechseln von Partner Admin Center (PAC) zu Partner Center
 

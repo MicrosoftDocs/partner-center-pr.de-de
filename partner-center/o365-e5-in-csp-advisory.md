@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: e31c7e5ab11e16d1176a0872d0e3dd70e31103a4
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134330"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668319"
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 Partner Advisory: Verfügbarkeit der Office 365 E5-Einzel-SKU in CSP
 

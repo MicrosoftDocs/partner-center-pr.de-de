@@ -9,11 +9,11 @@ ms.author: evansma
 Keywords: Rollen, Berechtigungen, Benutzer hinzufügen, Rolle zuweisen, Administrator, Agent
 ms.localizationpriority: medium
 ms.openlocfilehash: 3829a18a78cb50797b7ca2bfd862c82d93d92248
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134980"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667916"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen
 

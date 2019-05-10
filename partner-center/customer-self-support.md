@@ -10,11 +10,11 @@ keywords: Kundenselbsthilfe, Selbsthilfe
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 8efada04916b77f19219ca1ebaa3f8789cd8f889
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135470"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668527"
 ---
 # <a name="customer-self-support"></a>Kundenselbsthilfe
 

@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 3e3a2eabdb02c41fe44750c967e7cfde3578fd29
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135480"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667256"
 ---
 # <a name="providing-support-to-your-customers"></a>Bereitstellen von Support für Kunden
 

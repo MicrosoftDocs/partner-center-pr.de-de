@@ -9,11 +9,11 @@ Keywords: Azure Cost Management-App, Kostenmanagement, Web-Apps
 robots: ''
 ms.localizationpriority: medium
 ms.openlocfilehash: 14b94e94c349fa142cb6bd37ed4ca94f7a9397b6
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134670"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668664"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure Cost Management-App für Azure CSP-Partner  
 

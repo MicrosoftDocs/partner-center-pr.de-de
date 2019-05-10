@@ -9,11 +9,11 @@ keywords: Incentives-Ansprüche, Co-Op-Ansprüche, Co-Op-Mittel
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: adccedd89123a2dbe40500cba11c63f832e6c8f5
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134960"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668222"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>Erstellen und Verwalten eines Incentives-Anspruchs
 

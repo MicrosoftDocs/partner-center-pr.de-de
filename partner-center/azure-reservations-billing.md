@@ -9,11 +9,11 @@ keywords: Azure RI, reservierte Azure-Instanzen, Reservierungen, VM, virtuelle C
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.openlocfilehash: b99cb2a72d69cd33f9267a956f921aa65dedd482
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135420"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668487"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure Reserved VM Instances – Abrechnung
 
@@ -60,8 +60,8 @@ Weitere allgemeine Informationen zur Abrechnung im Cloud Solution Provider-Progr
 |:----------------|:-----------------------------|
 |Datum |Kaufdatum. |
 |Beschreibung |Produktname. |
-|Anzahl |Die Anzahl von erworbenen Produkten (z.B. Reservierungen). |
-|Preis pro Einheit |Preis pro Produkt (z.B. Reservierung). |
+|Anzahl |Die Anzahl von erworbenen Produkten (z. B. Reservierungen). |
+|Preis pro Einheit |Preis pro Produkt (z. B. Reservierung). |
 |Rabatte |Alle anwendbaren Rabatte. |
 |Vorsteuerbetrag |Zwischensumme der Einkäufe vor Steuern. |
 |Mehrwertsteuer |Steuerbetrag. |
@@ -117,13 +117,13 @@ Zu einem bestimmten Zeitpunkt müssen Sie eine Rechnung möglicherweise stornier
 Um eine Rechnung zu stornieren und eine neue auszustellen, laden Sie das Formular aus der Abrechnungsseite unter „Anpassungen” herunter.
 
 ## <a name="azure-reservations-resources"></a>Ressourcen zu Azure-Reservierungen
-|**Weitere Informationen**   |**Bitte lesen**    |
+|**Weitere Informationen zu**   |**Artikel**    |
 |:-----------------------------|:-----------------|
 |Azure-Reservierungen in CSP (Übersicht)  | [Verkaufen von Microsoft Azure Reserved VM Instances](azure-reservations.md)
-|Erwerb von Azure-Reservierungen für Ihre Kunden im Partner Center   |[Kaufen von Azure-Reservierungen](azure-reservations-buying.md)
-| Verwalten von Azure-Reservierungen im Partner Center | [Verwalten von Azure-Reservierungen im Partner Center](azure-reservations-manage.md)
+|Erwerb von Azure-Reservierungen für Ihre Kunden in Partner Center   |[Kaufen von Azure-Reservierungen](azure-reservations-buying.md)
+| Verwalten von Azure-Reservierungen in Partner Center | [Verwalten von Azure-Reservierungen in Partner Center](azure-reservations-manage.md)
 |Erwerb von Azure-Reservierungen im Azure-Portal | [Vorauszahlen für virtuelle Computer mit Azure Reserved VM Instances](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) in der Azure-Hilfe |
 |Verwalten von Azure-Reservierungen im Azure-Portal   |[Verwalten von reservierten VM-Instanzen](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) in der Azure-Hilfe  |
-|Erwerb von Azure-Reservierungen über die Partner Center-API | [Erwerb von Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in der Partner Center-Entwicklerdokumentation
+|Erwerb von Azure-Reservierungen über die Partner Center-API | [Kaufen von Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in der Partner Center-Entwicklerdokumentation
 
  

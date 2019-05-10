@@ -9,11 +9,11 @@ keywords: Skype for Business-Pläne, Einstellung von Skype, Office 365
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: e71e6b05b5ea489b2b6b486f388f5c575dfd02c5
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133916"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668210"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrieren von Skype for Business Online Plan 1-Abonnements zu neueren Versionen von Office 365
 
@@ -47,7 +47,7 @@ Mit den neuen Plänen können Ihre Kunden neuere Features und Funktionen in Offi
 
 ## <a name="transition-customers-to-new-product-plans"></a>Migrieren von Kunden zu neuen Produktplänen
 
-Microsoft bietet Partnern kontinuierlich neue Produkte und Dienste an. In diesen Fällen müssen Sie Kunden möglicherweise auf neue Dienste aktualisieren oder Kundenabonnements von alten SKUs, die letzten Endes vom Markt genommen werden, zu neueren SKUs migrieren. Die Migration von Kunden von eingestellten SKUs zu neueren SKUs erfordert die folgenden Schritte:
+Microsoft bietet Partnern kontinuierlich neue Produkte und Dienste an. In diesen Fällen müssen Sie Kunden möglicherweise auf neue Dienste upgraden oder Kundenabonnements von alten SKUs, die letzten Endes vom Markt genommen werden, zu neueren SKUs migrieren. Die Migration von Kunden mit eingestellten SKUs zu neueren SKUs umfasst folgende Schritte:
 
 - Kauf des neuen Abonnements
 - Neuzuweisen der aktuellen Benutzerlizenzen

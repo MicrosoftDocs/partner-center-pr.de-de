@@ -9,11 +9,11 @@ ms.author: evansma
 Keywords: Abrechnung, Zahlungen, Bestellungen, Nutzung, lizenzbasierte Abrechnung, Abonnementdatum, Laufzeit, Kündigung, Verlängerung, Kontenabstimmungsdatei, Abstimmungsdatei
 ms.localizationpriority: medium
 ms.openlocfilehash: 2a619356577345923cd78499d2ae5a1f3c6c1614
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135320"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668715"
 ---
 # <a name="common-billing-scenarios"></a>Allgemeine Abrechnungsszenarien
 

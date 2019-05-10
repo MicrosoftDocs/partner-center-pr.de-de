@@ -10,11 +10,11 @@ keywords: Geschäftsdaten
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 5ca4987d4af50bca8d2c298e325d5810e7d17033
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134880"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667807"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analysieren von Abonnements und Lizenzen 
 

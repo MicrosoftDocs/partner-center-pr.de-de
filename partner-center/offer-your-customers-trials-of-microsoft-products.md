@@ -8,11 +8,11 @@ ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 15f799bcee811f5d349fc302b4e589636dfde408
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134250"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668754"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Anbieten von Testversionen von Microsoft-Produkten für Kunden
 

@@ -7,11 +7,11 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 13e904e229ccaadd11e13a278f23ea1aa5088f71
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134470"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667819"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>Berichte mit Livedaten ersetzten monatliche Berichte für einige Incentive-Programme
 

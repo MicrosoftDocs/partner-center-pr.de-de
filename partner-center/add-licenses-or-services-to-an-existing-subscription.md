@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: Hinzufügen von Lizenzen zu einem vorhandenen Abonnement, Plätze zu einem vorhandenen Abonnement hinzufügen, Abonnement andern, Ändern eines Abonnements, Weitere Lizenzen für einen Kunden erwerben
 ms.localizationpriority: medium
 ms.openlocfilehash: 0f8ec69595c81a60c26153640274b6b29b1f9fc1
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134540"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668183"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement
 

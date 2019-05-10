@@ -8,11 +8,11 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: f7187b0a35bae927dc991b4bd92506f902c53b95
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134840"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667686"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Verkaufen von Office 365 Government GCC für CSP-Abonnements an qualifizierte Kunden
 

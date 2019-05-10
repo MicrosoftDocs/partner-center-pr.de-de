@@ -7,11 +7,11 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: fb32c86c623044dc42a2ba746a4efe0aca568e04
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134260"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668333"
 ---
 # <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Kunden des Office 365 Admin Center für Partner: Vorbereiten auf die Migration von Geschäftsvorgängen zu Partner Center
 

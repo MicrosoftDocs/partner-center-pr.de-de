@@ -7,11 +7,11 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 0d5548a2784b7952174165df80516758e58ab633
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134100"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64668237"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>Entfernen der Partnerschaft zwischen einem Händler und einem Kunden
 

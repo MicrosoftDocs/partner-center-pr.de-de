@@ -10,11 +10,11 @@ robots: ''
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 079f927c3acd8f773680bfa9f4e47592f68a24f9
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134728"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "64667552"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Das Geschäftskonto Ihrer Firma und Partner Center  
 

@@ -1,18 +1,18 @@
 ---
 title: Umsatzsteigerung für Microsoft-Partner | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/23/2019
 description: Ressourcen zur Steigerung des Umsatzes für Microsoft-Partner. Enthält eine Anleitung zum Erhalten von Vertriebsleads (Empfehlungen) von Microsoft.
 keywords: Empfehlungen, auf Empfehlungen reagieren, Leads, Vertriebsleads, Marketingprofil, Geschäftsprofil, Umsatz steigern, Geschäftschancen, Kompetenzen, Silver-Mitgliedschaft, Gold-Mitgliedschaft, Testangebote, Markterweiterung, nationale Clouds
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 77146f87bb46a4d86ffd9966ed5c5ec860e0cdda
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 9117b1ba43d809eb1e1c51b6ba28ac52a73ddd18
+ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667609"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "66176181"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Umsatzsteigerung für Microsoft-Partner 
 
@@ -33,7 +33,7 @@ Partner Center bietet folgende Möglichkeiten:
 
 |  **Aufgabe**  |  **Anleitung**  |  **Zielgruppe**  |
 |--------------|-----------|--------------
-| Erhalten und Verwalten von Vertriebsleads | Beginnen Sie mit dem [Erstellen eines Geschäftsprofils](create-a-marketing-profile.md), damit Kunden Sie finden können, wenn sie nach Lösungsanbietern suchen, und lesen Sie dann [Antworten auf Empfehlungen](responding-to-referrals.md). | Alle Netzwerkpartner |
+| Verkaufskontakte abrufen und verwalten | Zunächst [Erstellen eines Geschäftsprofils](create-a-marketing-profile.md) damit Kunden Sie finden können, wenn sie für Lösungsanbieter suchen, und Lesen Sie [reagieren auf Verweise](responding-to-referrals.md). | Alle Netzwerkpartner |
 | Erlangen von Silver- oder Gold-Partnerstatus | Auf der Microsoft Partner Network-Website finden Sie unter [Kompetenzpartner](https://partner.microsoft.com/membership/competencies) Informationen dazu, wie Sie den Mitgliedsstatus Silver oder Gold erreichen. Wenn Sie bereit sind, Ihre Kompetenzinformationen zu Partner Center zu migrieren, lesen Sie [Microsoft-Kompetenzanforderungen für die Gold- und Silver-Mitgliedschaft](competencies.md). | Alle Netzwerkpartner |
 | Anbieten von Testabonnements von Microsoft-Produkten für Ihre Kunden | Unter [Anbieten von Testversionen von Microsoft-Produkten für Kunden](offer-your-customers-trials-of-microsoft-products.md) erfahren Sie, wie Sie durch Testabonnements Ihre Verkaufszahlen für Ihre Kundenbasis steigern können.| CSP-Partner |
 | Anbieten von Aktionspreisen für Microsoft-Abonnements | Microsoft bietet gelegentlich Werbeaktionen für lizenzbasierte Abonnements an, deren Einsparungen Sie an die Kunden weitergeben können, um Ihr Geschäft zu erweitern. Wie das geht, erfahren Sie unter [Verwenden von Werbeaktionen zum Gewinnen neuer Kunden](promotions.md). | CSP-Partner |

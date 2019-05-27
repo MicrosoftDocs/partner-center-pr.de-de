@@ -1,20 +1,20 @@
 ---
 title: Verkaufen an spezielle Branchen | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/14/2019
 Description: Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z. B. für Bildungsinstitute, Wohltätigkeitsorganisationen, kleine Unternehmen und Behörden.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: c7a6ae484ee250b6f1afa67ab7ac2703874b35bf
+ms.sourcegitcommit: d73afa31cc486b11e22314faa254aa50ed4f8d3b
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667301"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "65623799"
 ---
-# <a name="sell-to-specialized-industries"></a>Verkaufen an spezielle Branchen
+# <a name="sell-to-specialized-industries"></a>An spezielle Branchen verkaufen
 
 **Gilt für**
 
@@ -33,7 +33,9 @@ Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z. B
 
 ## <a name="check-your-reseller-qualifications"></a>Überprüfen Ihrer Händlerqualifikationen
 
-1.  Wählen Sie auf Ihrem Partner-Dashboard das Zahnradsymbol in der oberen rechten Ecke aus, um die **Kontoeinstellungen** zu öffnen.
+Die folgenden Schritte gelten nur für indirekte Anbieter und Rechnung Partner weiterleiten. Indirekten Vertriebspartner müssen für die Verbindung mit einem indirekten Anbieter akademischen Preis angeboten für qualifizierte Education-Benutzer bereitzustellen. 
+
+1.  Wählen in Ihrem Partner-Dashboard das Zahnradsymbol in der oberen rechten Ecke des Dashboards aus, um die **Kontoeinstellungen** zu öffnen.
 2.  Suchen Sie in Ihrem **Partnerprofil** im Abschnitt mit den **Programminformationen** nach **Händlerqualifikationen**.
 3.  Wenn Sie den Abschnitt **Händlerqualifikationen** nicht sehen können, wurden Sie noch nicht zum Erwerben von Sonderangeboten autorisiert.
 

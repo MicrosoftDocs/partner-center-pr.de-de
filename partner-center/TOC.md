@@ -17,6 +17,9 @@
 ### [Verwenden des Tools zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR) in Partner Center, um Gutscheine zu überprüfen, zu reservieren und einzulösen](voucher-validation-tool.md)
 ### [Häufig gestellte Fragen: Verwenden des Tools zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR)](vvr-faq.md)
 ### [Software Assurance-Planungsdienste in Partner Center](software-assurance-dps.md)
+## Rechnungen und Steuern
+### [Rechnungen und Steuern im Microsoft Partner Network](mpn-view-print-maps-invoice.md)
+
 
 # [Cloud Solution Provider](csp-overview.md)
 ## [Registrieren für das Cloud Solution Provider-Programm (CSP)](enrolling-in-the-csp-program.md)

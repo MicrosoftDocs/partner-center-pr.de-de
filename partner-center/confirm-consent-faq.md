@@ -9,7 +9,7 @@ keywords: Kunde, Kunden, Zustimmung, häufig gestellte Fragen, MCA, Microsoft Cl
 ms.localizationpriority: medium
 ms.openlocfilehash: 52f38191aefa722b96ca5f104e9af023952bd7d7
 ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 04/28/2019
 ms.locfileid: "64668605"
@@ -147,7 +147,7 @@ Für den Fall, dass der Microsoft Cloud-Vertrag vor der Verlängerung aktualisie
 
 Wenn ein Partner einen Kundenmandanten erstellt, ist es erforderlich, eine primäre Kontaktinformation für den Kunden anzugeben. Gemäß den Bestimmungen für Onlinedienste „verarbeitet Microsoft personenbezogene Daten nur auf dokumentierte Anweisung des Kunden“.
 
-## <a href="" id="technicalfaq">Technisch</a>
+## <a href="" id="technicalfaq"></a>Technisch
 
 **Wie bestätigen Partner die Zustimmung des Kunden und stellen sie Microsoft zur Verfügung? Welche Tools sind für die Unterstützung dieses Prozesses verfügbar?**
 

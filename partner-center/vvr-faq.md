@@ -9,7 +9,7 @@ keywords: Schulungsgutscheine, Software Assurance, Schulung, Überprüfen von Gu
 ms.localizationpriority: medium
 ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
 ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 04/28/2019
 ms.locfileid: "64667973"
@@ -51,6 +51,6 @@ Ab dem 31. März 2019 verwalten alle Partner ihre Gutscheine im Partner Center. 
 **Wie kann mein Unternehmen auf das VVR-Tool zugreifen?**
 
 - Um auf das VVR-Tool zugreifen zu können, muss sich Ihr Unternehmen entweder für das SATV- oder SA DPS-Programm registrieren.
-Informationen zur Registrierung beim SATV-Programm finden Sie unter [Software Assurance Training Voucher-Programm (SATV) im Partner Center](software-assurance-satv.md).
+Informationen zur Registrierung beim SATV-Programm finden Sie unter [SATV-Programm (Software Assurance Training Voucher, Software Assurance-Trainingsgutschein) in Partner Center](software-assurance-satv.md).
  <!--
 For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->

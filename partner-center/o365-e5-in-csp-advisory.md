@@ -9,7 +9,7 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: e31c7e5ab11e16d1176a0872d0e3dd70e31103a4
 ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 04/28/2019
 ms.locfileid: "64668319"
@@ -136,7 +136,7 @@ Office 365 Enterprise E5 ohne PSTN-Konferenzfunktionen
 
 E5 ohne PSTN (EOL)
 
-Skype for Business PSTN Conferencing for E5 without PSTN Conferencing Customers
+Skype for Business PSTN Conferencing für E5 ohne PSTN Conferencing-Kunden
 
 64c8233d-29d5-47c1-91b2-773226487213
 

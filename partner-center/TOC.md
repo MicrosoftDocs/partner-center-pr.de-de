@@ -2,6 +2,7 @@
 
 # [Mitgliedschaft im Partnernetzwerk](mpn-overview.md)
 ## [Partner Center-Konto erstellen](mpn-create-a-partner-center-account.md)
+## [Kontostruktur in Partner Center](account-structure.md)
 ## Umstellung von PMC auf Partner Center
 ### [Anleitung für die Umstellung von PMC auf Partner Center](guide-to-migration.md)
 ### [Kurze Übersicht über die Unterschiede zwischen PMC und PC](move-pmc-pc-map.md)
@@ -67,6 +68,7 @@
 ## [Informationen zu Ihrer Rechnung](read-your-bill.md)
 ## [Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md)
 ## [Steuern und Steuerbefreiungen](tax-and-tax-exemptions.md)
+## [Sicherstellen, dass Ihnen Quellensteuer gutgeschrieben wird](withholding-tax-credit-form.md)
 ## [Informationen zur Umsatzsteuer von Organisationen](organization-tax-info.md)
 ## [Einrichten eines Kundenbudgets für Azure-Kosten](set-an-azure-spending-budget-for-your-customers.md)
 ## [Allgemeine Abrechnungsszenarien](common-billing-scenarios.md)

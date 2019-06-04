@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3dff4e418b65475a5919cafc58783858f6db320a
-ms.sourcegitcommit: 499ea19037fab7bfd8c284761ddcdf1df45ea796
+ms.openlocfilehash: 3956ec4ef0f835733c25557ca1d3e20fc9a5537e
+ms.sourcegitcommit: 034e5293a85e0214afaf9382378d2e18d15320c4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "66447952"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "66458875"
 ---
 # <a name="the-account-structure-in-partner-center"></a>Der Kontostruktur im Partner Center
 
@@ -34,6 +34,8 @@ Ihre PGA möglicherweise zusätzliche Unternehmensspeicher, darunter. Jeder Stan
 - Anzeigen der Liste der Partner Speicherort Konten über die Partner-Einstellungen -> Speicherorte.
 - Alle Speicherort Konten sind auf derselben Ebene und unter dem globalen Primärkonto.
 - Kontoadministratoren können hinzufügen oder Entfernen von Speicherorten.
+
+![Kontostruktur](images/accountstructure.png)
 
 Lesen Sie weitere Informationen zum Verwalten von Standorten [Ihr Partnerkonto zu verwalten: Speicherorte](manage-locations.md). 
 

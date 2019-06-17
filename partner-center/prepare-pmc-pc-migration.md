@@ -6,12 +6,12 @@ description: Problemstellungen zu bedenken, bevor Sie Ihr Unternehmen zu Partner
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 68761169088d8590b3330d72927d38ba2ab77a77
-ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
-ms.translationtype: HT
+ms.openlocfilehash: 16c29bdccd4c4853fcc28ed4f2752270415449b1
+ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "67131990"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "67145347"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Vorbereiten Sie für die Migration von Partner Membership Center (PMC) zum Partner Center
 
@@ -113,6 +113,14 @@ Ja, sind Compentencies durch den Wechsel zu Partner Center nicht betroffen. Wenn
  **Ändern (einschließlich Cloud-Vorteile "," technischer Support "," Vorteile durch Software, Visual Studio) sich meine Leistungen nach dem wir verschieben?**
 
  Ihre berechtigten Vorteile werden nicht geändert werden. Wenn Sie Unterschiede feststellen, wenden Sie sich an [Unterstützung](https://partner.microsoft.com/support).
+
+ **Werden unsere Microsoft-Konten, die Zuordnungen für Visual Studio-Vorteile werden berücksichtigt?**
+
+ Ja. Wisual Studio-Vorteile, die für MSAs zugeordnet werden berücksichtigt und beibehalten werden. Sie werden auch nach der Erneuerung im Partner Center beibehalten. Wenn Sie entfernen eine MSA-Verteilung einmal migriert wird, im Partner Center, es kann nicht hinzugefügt werden, wieder in Partner Center.
+
+Nur der MPN-Administrator kann Visual Studio-Vorteil belegungen ein, um Konten im Unternehmen Azure AD-Mandanten arbeiten hinzufügen.
+
+Der globale Administrator für mehrere AAD-Mandanten, wenn alle Mandanten das gleiche Partner Center-Konto zugeordnet sind können Benutzer in allen diesen Mandanten hinzufügen, in Visual Studio-Angebote und Azure nutzungsbasierten Zuordnungen. 
 
  **Wie sollten wir unsere MCP-Zuordnungen und unsere Partner University-Zugriff verwalten?**
 

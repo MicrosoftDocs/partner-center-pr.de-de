@@ -1,22 +1,22 @@
 ---
-title: Zurücksetzen von Benutzerkennwörtern | Partner Center
+title: Zurücksetzen eines Benutzerkennworts oder zum Aktualisieren Ihres eigenen Kennworts | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/15/2019
 description: Wenn Benutzer ihr Kennwort vergessen, können Sie ihnen ein neues temporäres Kennwort zuweisen. Sie können es für die nächste Anmeldung beim Partner Center verwenden.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: efb357b1b9157155fdf5cf7f9ee59afa2c8b9abc
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 83d7417dcd71323822d066faca6c193ca5ef2e58
+ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668363"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "67145340"
 ---
-# <a name="reset-a-user-password"></a>Zurücksetzen von Benutzerkennwörtern
+# <a name="reset-a-user-password-or-update-your-own-password"></a>Zurücksetzen eines Benutzerkennworts oder zum Aktualisieren Ihres eigenen Kennworts
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
    

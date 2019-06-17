@@ -1,18 +1,18 @@
 ---
 title: Der Kontostruktur im Partner Center | Partner Center
 ms.topic: article
-ms.date: 05/31/2019
+ms.date: 06/13/2019
 description: Ihr Unternehmen hat zwei Ebenen der Konten im Partnercenter an.
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3956ec4ef0f835733c25557ca1d3e20fc9a5537e
-ms.sourcegitcommit: 034e5293a85e0214afaf9382378d2e18d15320c4
+ms.openlocfilehash: ba3fad0a8b9dddf0162b3dfa3ae202a235f4eb24
+ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "66458875"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67131717"
 ---
 # <a name="the-account-structure-in-partner-center"></a>Der Kontostruktur im Partner Center
 
@@ -28,7 +28,7 @@ Ihr Unternehmen hat zwei Ebenen von Konten in Partner Center.
 
 ### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>Die zweite Ebene Konto ist der Standort namens Partner-Ort-Konto (PLA).
 
-Ihre PGA möglicherweise zusätzliche Unternehmensspeicher, darunter. Jeder Standort verfügt über eine eigene MPN-ID  Sie den Speicherort MPN-ID für die transaktionalen Geschäfts wie das Cloud Solution Provider-Programm verwenden, um anreizprogramm Programme zu registrieren, Hinzufügen eines DPOR und Geld. 
+Ihre PGA möglicherweise zusätzliche Unternehmensspeicher, darunter. Jeder Standort verfügt über eine eigene MPN-ID oder die Partner-Ort-Konto (PLA). Verwenden Sie den Standort MPN-ID, transaktionalen Geschäfts und-Registrierung in Incentive-Programme.
 
 - Jeder Partner Location-Konto kann seine eigene rechtliche Adresse und den primären Kontakt haben. Standorte können auch die rechtliche Adresse mit dem globalen Konto oder mit anderen Standorten freigeben.
 - Anzeigen der Liste der Partner Speicherort Konten über die Partner-Einstellungen -> Speicherorte.

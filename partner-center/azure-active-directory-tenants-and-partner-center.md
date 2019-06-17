@@ -9,12 +9,12 @@ Keywords: Geschäftskonto, E-Mail-Adresse, Mandant, Azure-Mandant, Konto erstell
 robots: ''
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 079f927c3acd8f773680bfa9f4e47592f68a24f9
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: f668ea5ebdb97d2cf02febb94584b6cf707e3bca
+ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667552"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67131705"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Das Geschäftskonto Ihrer Firma und Partner Center  
 
@@ -24,27 +24,36 @@ ms.locfileid: "64667552"
 
 ## <a name="why-you-need-a-work-account"></a>Warum Sie ein Geschäftskonto benötigen
 
-Wir müssen das Geschäftskonto Ihres Unternehmens mit Ihrem neuen Partner Center-Konto verknüpfen, damit sich Ihre Kontobenutzer im Partner Center mit dem Benutzernamen und Kennwort ihres Geschäftskontos anmelden können.
+Wir müssen das Geschäftskonto Ihres Unternehmens mit Ihrem neuen Partner Center-Konto verknüpfen, damit sich Ihre Kontobenutzer im Partner Center mit dem Benutzernamen und dem Kennwort für ihr Geschäftskonto anmelden können.
 
-Wenn Ihr Unternehmen bereits ein Geschäftskonto hat, können Sie es mit Ihrem Partner Center-Konto verknüpfen. 
+## <a name="the-work-account-email-address"></a>Die e-Mail-Adresse für Arbeit Konto
+
+Ihr Geschäfts-, Schul- oder geschäftliche e-Mail-Adresse ist die e-Mail-Adresse, die Ihnen von Ihrem Unternehmen bereitgestellt. Eine Arbeit e-Mail-Adresse ist in der Regel im Format you@yourcompany.com. Persönliche e-Mail-Adressen wie Hotmail, Gmail usw. sind nicht geschäftliche e-Mail-Adresse und kann nicht für Ihr Partner Center-Konto verwendet werden. 
+
+Wenn Sie mehr als eine gültige geschäftliche e-Mail-Adresse haben, die verwenden, die Ihrem Hauptsitz des Unternehmens statt der regionalen Abteilung zugeordnet ist, verwenden Sie z. B. Ihre "contoso.com" e-Mail-Adresse anstelle der Adresse "contoso.uk" aus.
 
 > [!NOTE]  
->  Bevor Sie sich entschließen, ein vorhandenes Geschäftskonto zu verwenden, prüfen Sie, wie viele Benutzer des Kontos im Partner Center arbeiten müssen. Wenn das Konto Benutzer enthält, die nicht im Partner Center arbeiten müssen, ziehen Sie die Erstellung eines neuen Kontos nur für diese Benutzer in Betracht.
+>  Bevor Sie einem vorhandenen Arbeitskonto verwenden möchten, stellen Sie sich, über wie viele Benutzer im Konto im Partner Center arbeiten müssen. Wenn das Konto Benutzer enthält, die nicht im Partner Center arbeiten müssen, ziehen Sie die Erstellung eines neuen Kontos nur für diese Benutzer in Betracht.
 
-Falls Ihr Unternehmen noch nicht über ein Geschäftskonto verfügt, können Sie eines während des Registrierungsprozesses erstellen. 
 
-## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Sie sind nicht sicher, ob Ihre Firma bereits ein Geschäftskonto hat?
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Sie sind nicht sicher, ob Ihre Firma bereits ein Geschäftskonto besitzt?
 
 Wenn Sie nicht sicher sind, ob Ihr Unternehmen ein Geschäftskonto besitzt, können Sie das folgendermaßen überprüfen. Hinweis: Mit einem aktiven Abonnement für Microsoft Azure oder Office 365 besitzen Sie bereits ein Geschäftskonto.
+
 1.  Melden Sie sich unter https://ms.portal.azure.com beim Microsoft Azure-Portal an.
 2.  Wählen Sie im Menü „Azure Active Directory“ und dann „Domänennamen“ aus.
-3.  Wenn Sie bereits ein Geschäftskonto haben, wird Ihr Domänenname aufgeführt.
+3.  Wenn Sie bereits ein Geschäftskonto besitzen, wird Ihr Domänenname aufgeführt.
 
-## <a name="using-an-existing-work-account"></a>Verwenden eines vorhandenes Geschäftskontos
+Falls Ihr Unternehmen noch nicht über ein Geschäftskonto verfügt, können Sie ein solches während des Registrierungsprozesses erstellen.
 
-Wenn Sie ein vorhandenes Geschäftskonto verwenden möchten, aber Probleme beim Anmelden haben, suchen Sie im folgenden Diagramm das Szenario, das Ihrer Situation am ehesten entspricht, und befolgen Sie die empfohlenen Schritte. 
+Das folgende Diagramm enthält die Schritte für einige typische Szenarien:
 
-![Besitzen Sie ein Geschäftskonto oder müssen Sie eines erstellen?](images/onboardingAADFlow.png)
+- Wenn Sie ein Geschäftskonto haben 
+- Bestimmen Sie, wie zum Anmelden bei Ihrem Geschäftskonto an 
+- Bestimmen Sie, ob Sie ein neues Geschäftskonto erstellen müssen
+
+
+![Besitzen Sie ein Geschäftskonto oder müssen Sie ein solches erstellen?](images/onboardingAADFlow.png)
 
 Weitere Informationen zum Hinzufügen von Domänen in Azure AD finden Sie unter [Hinzufügen oder Zuordnen einer Domäne in Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain).
 

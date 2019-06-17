@@ -6,12 +6,12 @@ description: Zeigen Sie die Einnahmen und Auszahlungen für Incentiveprogramme a
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ee731d2d137eef4ecf97dcbc77d36c121090d9a
-ms.sourcegitcommit: 5e67a2540b0ff9eb248e5dc41b9d9ad1fc900b36
+ms.openlocfilehash: 15afa996f96d53e35a08806a6c1c6a0e67613c4b
+ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "66819945"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "67145381"
 ---
 # <a name="view-your-incentives-payments-information"></a>Informationen zu Ihrer Incentives Zahlungen anzeigen
 
@@ -33,9 +33,7 @@ So öffnen Sie eine der Seiten, Incentives sammeln, wenn:
 ## <a name="payments-page"></a>Seite "Zahlungen"
 Die Ergebnisse auf dieser Seite werden alle die MPN-IDs, die Sie verwenden darstellen. Sie können nach Teilnehmer-ID, Programm, Zahlung-ID und Earning Typ filtern. Mengen werden in US-Dollar angegeben. Der kostenpflichtige Wert wird auch in Zahlen, Währung angezeigt. 
 
-Wählen Sie zum Exportieren der Daten auf dieser Seite **exportieren** und befolgen Sie dann den Anweisungen auf der Seite des Export-Daten. 
-
-|**Feld**  |**Beschreibung**    |
+|**Area**   |**Beschreibung**    |
 |------------------|:-------------------------------------|
 |In diesem Jahr bezahlt gesamt        |Die kombinierte Summe zahlte für Sie in diesem Jahr in US-Dollar für alle Ihre MPN-IDs.                                      |
 |Nächste geschätzte Zahlung      |Der einzelnen weiter Zahlungen an Sie (selbst wenn es gibt noch andere in Kürze verfügbar), in US-Dollar.                                     |
@@ -43,21 +41,14 @@ Wählen Sie zum Exportieren der Daten auf dieser Seite **exportieren** und befol
 |Zahlungen von Quelle       |Die Menge von Zahlungen, die in US-Dollar, die vom Programm in den letzten 12 Monaten dargestellt.                                      |
 |Zahlungen                       |Wählen Sie **bezahlte** oder **ausstehende** und sortieren Sie Sie dann wie gewünscht. Wählen Sie zusätzliche Details zu einer bestimmten Zahlung **Ansicht**. Wählen Sie zum Herunterladen einer Kopie der Zahlung-überweisungsland Anweisung **herunterladen**. Beachten Sie, dass transaktionsverlaufsdaten angezeigt werden, bis zu 24 Stunden dauern können, damit Sie nicht zugeordnete Ergebnis sofort sehen können.  |
 
+Wählen Sie zum Exportieren der Daten auf dieser Seite **exportieren** und befolgen Sie dann den Anweisungen auf der Seite des Export-Daten. 
+
 ## <a name="transaction-history-page"></a>Transaktion Seite "Verlauf"
 Auf dieser Seite werden alle Ihre individuellen Ergebnis, einschließlich des Datums, Typ und gibt an, dass für jede angezeigt. Sie können einen Zeitraum zur Anzeige auswählen, und Sie können auch nach Registrierungs-ID, Programm, Earning-Typ, Hebel, Zahlung-ID und Status filtern. Daten sind für das aktuelle Geschäftsjahr (1. Juli – 30. Juni) und den vorherigen zwei Geschäftsjahre verfügbar. 
 
 Um eine gibt an, dass weitere Details anzuzeigen, wählen Sie den Pfeil nach unten rechts auf der Seite. Dadurch werden der Hebel Umsatzerlös, Produkt und Kunde angezeigt. Wenn für eine der Grund diese Daten nicht verfügbar sind, aber Sie Zugriff auf diese, wenden Sie den Support benötigen. Wenn der gibt an, dass das Ergebnis eine Anpassung, und nicht für eine Transaktion ist, werden die Produkt- und Felder nicht angezeigt. 
 
 Wählen Sie zum Exportieren der Transaktion Daten auf dieser Seite **exportieren** und befolgen Sie dann den Anweisungen auf der Seite des Export-Daten. Dateien, die auf der Seite Transaktionsverlauf exportiert Anzeigen von Daten in der Transaktion Währungen Ergebnis in Transaktion Währung und US-Dollar angezeigt, und der kostenpflichtige Wert im Zahlen, Währung. 
-
-## <a name="export-data-page"></a>Exportieren Sie die Seite "Daten"
-Befolgen Sie die Anweisungen auf dieser Seite können Sie die Daten exportieren. 
-
-**Hinweise:**
--   Sie werden nur Daten angezeigt, für MPN-IDs und Programme, denen Sie zugewiesen sind. Wenn Sie die zusätzlichen Daten zugreifen möchten, finden Sie unter Systemadministrator Incentives ordnungsgemäß abgerechnet. 
--   Wenn Sie diese Seite entweder die Zahlungen oder die Transaktion Seite "Verlauf" zugreifen, werden Ihre Filter nicht übertragen. Sie müssen sie auf der Seite des Export-Daten zu wiederholen. 
--   Die Export Data-Seite wird nicht eigenständig aktualisiert. Sie müssen die Seite manuell, um die neuesten Daten anzeigen zu aktualisieren. 
--   Der Filter möglicherweise eine **keine Daten verfügbar** Fehler. Dies bedeutet wahrscheinlich, Sie bleibt die Standardeinstellung auf drei Monate ausgewählten Zeitraum und dann eine Zahlung-ID aus, die außerhalb dieses Zeitraums ist verdienen ausgewählt haben. Erweitern Sie Ihre Zeitraum aus, und versuchen Sie es erneut. 
 
 ## <a name="payment-status"></a>Zahlungsstatus
 
@@ -77,6 +68,14 @@ Befolgen Sie die Anweisungen auf dieser Seite können Sie die Daten exportieren.
 |Steuer-Rechnung geprüft        |Ihre Rechnung steuern werden überprüft. Ihre Zahlung wird freigegeben, nachdem die Steuer-Rechnung genehmigt wurde.           |Nein        |
 |Abgelehnt        |Die Zahlung wurde von Ihrer Bank abgelehnt.           |Weitere Informationen erhalten Sie von Ihrer Bank.  |
 
+## <a name="export-data-page"></a>Exportieren Sie die Seite "Daten"
+Befolgen Sie die Anweisungen auf dieser Seite können Sie die Daten exportieren. 
+
+**Hinweise:**
+-   Sie werden nur Daten angezeigt, für MPN-IDs und Programme, denen Sie zugewiesen sind. Wenn Sie die zusätzlichen Daten zugreifen möchten, finden Sie unter Systemadministrator Incentives ordnungsgemäß abgerechnet. 
+-   Wenn Sie diese Seite entweder die Zahlungen oder die Transaktion Seite "Verlauf" zugreifen, werden Ihre Filter nicht übertragen. Sie müssen sie auf der Seite des Export-Daten zu wiederholen. 
+-   Die Export Data-Seite wird nicht eigenständig aktualisiert. Sie müssen die Seite manuell, um die neuesten Daten anzeigen zu aktualisieren. 
+-   Der Filter möglicherweise eine **keine Daten verfügbar** Fehler. Dies bedeutet wahrscheinlich, Sie bleibt die Standardeinstellung auf drei Monate ausgewählten Zeitraum und dann eine Zahlung-ID aus, die außerhalb dieses Zeitraums ist verdienen ausgewählt haben. Erweitern Sie Ihre Zeitraum aus, und versuchen Sie es erneut. 
 
 ## <a name="payment-download-export"></a>Zahlung Download exportieren
 Mit dieser Option wird einen Download der Zahlungen, die Sie in Ihrer Bank für ein bestimmtes Programm, und die zugehörigen Gebühr empfangen und ertragreiche Menge aggregiert.
@@ -117,7 +116,7 @@ Diese Option bietet jedes ertragreiche Zeilenelements in die Transaktion-Verlauf
 |transactionAmountUSD   |Betrag in US-Dollar   |
 |Hebel   |Gibt die Geschäftsregel für die gibt an, dass an   |
 |earningRate   |Incentive Tarif auf Transaktionsbetrags verdienen generieren   |
-|Anzahl |Dieses Feld variiert je nach Anwendung. Für transaktionale Programme wird die Menge der in Rechnung gestellt. |
+|quantity |Dieses Feld variiert je nach Anwendung. Für transaktionale Programme wird die Menge der in Rechnung gestellt. |
 |earningType   |Gibt an, ob sie die Gebühr für "," Rebate "," Coop "," verkaufen "," usw. ist.   |
 |earningAmount   |Gibt an, dass der Umfang in der ursprünglichen Transaktion Währung   |
 |earningAmountUSD   |Gibt an, dass der Umfang in US-Dollar   |
@@ -149,6 +148,6 @@ Zusätzlich zu der obigen Tabelle werden diese Transaktion Verlaufsfelder ggf. f
 |' AgreementNumber '   |Vereinbarungsnummer   |
 |agreementStartDate   |Vereinbarungsstartdatum   |
 |agreementEndDate   |Vereinbarungsenddatum   |
-|Workload   |Workload   |
+|arbeitsauslastung   |Workload   |
   
 

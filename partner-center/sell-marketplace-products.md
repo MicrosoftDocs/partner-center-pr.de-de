@@ -1,18 +1,18 @@
 ---
 title: Verkaufen von Abonnements für Azure Marketplace-Produkte | Partner Center
 ms.topic: article
-ms.date: 04/04/2019
+ms.date: 06/10/2019
 description: Sie können das Partner Center verwenden, um Ihren Kunden Abonnements für SaaS-Produkte (Software as a Service) zu verkaufen, die in Azure Marketplace von unabhängigen Softwareherstellern (ISVs) veröffentlicht wurden.
 author: JnHs
 ms.author: jenhayes
 keywords: Abonnements, Marketplace, Drittanbieter, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: a086ab3a58e926d33c118690e7b171ba4f0fd18b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: d870bfef7d967e8f5b890fadfe86f527e558cda5
+ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133830"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67045072"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Verkaufen von Abonnements für Azure Marketplace-Produkte
 
@@ -46,6 +46,9 @@ Beachten Sie, dass einige Angebote, die auf der Seite **Marketplace** angezeigt 
 > Sie können auch [Partner Center-APIs](https://docs.microsoft.com/partner-center/develop/) verwenden, um Abonnements für Ihre Kunden in Azure Marketplace zu erstellen. Weitere Informationen finden Sie unter [Erstellen von Abonnements für Azure Marketplace-Produkte](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
 
 Bei Abonnements für Azure Marketplace-Produkte haben Sie die Möglichkeit, [das Abonnement innerhalb der Kündigungsfrist (24 Stunden für Monatsabonnements oder 14 Tage für Jahresabonnements) zu kündigen](https://docs.microsoft.com/partner-center/create-a-new-subscription#cancel-a-subscription). Sie können auch [auswählen, ob Sie das Abonnement automatisch verlängern möchten](https://docs.microsoft.com/partner-center/create-a-new-subscription#choose-whether-to-automatically-renew-an-azure-marketplace-subscription).
+
+> [!NOTE]
+> Für [Azure Marketplace-Produkte](sell-marketplace-products.md), Zuweisen von Lizenzen und Aktivierung durch den Hersteller ISVS (Independent Software), die das Produkt veröffentlicht verwaltet wird.
 
 ## <a name="access-billing-info-for-marketplace-products"></a>Zugreifen auf Abrechnungsinformationen für Marketplace-Produkte
 

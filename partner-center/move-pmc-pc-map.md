@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC Migration verschieben in Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: 2b300f2d5251fb22b903444324c037c5f03e554c
-ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.openlocfilehash: 1712587f834958a2dd3450d940e8778a2f16d12d
+ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "67145371"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "67157339"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Verschieben von PMC in Partner Center
 
@@ -64,7 +64,7 @@ In dieser Tabelle werden einige der Unterschiede zwischen PMC und Partner Center
 |-----------------|:-----------------|
 |Zuordnung von Visual Studio-Vorteile für MSA|Visual Studio-Vorteile, die für MSAs zugeordnet werden berücksichtigt und beibehalten werden.|
 ||MSA-Zuordnungen von Visual Studio werden nach der Erneuerung im Partner Center beibehalten.|
-||Nur der MPN-Administrator kann Visual Studio-Vorteil belegungen ein, um Konten im Unternehmen Azure AD-Mandanten arbeiten hinzufügen. Wenn mehrere AAD-Mandanten das gleiche Partner Center-Konto zugeordnet sind, kann der globale Administrator Benutzer für alle diese Mandanten in Vorteile für Visual Studio und Azure nutzungsbasierten Zuordnungen hinzufügen. |
+||Im Partner Center kann ein Partner Geschäftskonten und Benutzerkonten für Gäste die MSA aus dem gleichen Mandanten sind, ist der Partner MPN-Administrator in Azure AD-Mandanten hinzufügen. Wenn der Partner ein globaler Administrator in mehreren Azure AD-Mandanten ist, und alle diese Mandanten das gleiche Partner Center-Konto zugewiesen sind, ist der Partner zum Hinzufügen von Benutzern für alle diese Mandanten in die Vorteile für Visual Studio und Azure nutzungsbasierten Zuordnungen zulässig. Obwohl Gastbenutzer nutzungsbasierte Abonnements von Visual Studio von der MPN-Administrator oder den globalen Administrator zugewiesen werden, können, können keine Gastbenutzer zum Partner Center melden Sie sich mit ihrer MSA. Gastbenutzer können jedoch, melden Sie sich für Azure und Visual Studio, um zu überprüfen, und nutzen Sie ihre zugewiesenen Vorteile. |
 
 ## <a name="programs-now-located-and-managed-in-partner-center"></a>Programme jetzt befinden und in Partner Center verwaltet werden 
 
@@ -77,3 +77,8 @@ In dieser Tabelle werden einige der Unterschiede zwischen PMC und Partner Center
 |Tool zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR)| VVR |
 |           |Cloud Solution Provider-Programme|
 
+Ja. Visual Studio-Vorteile, die für MSAs zugeordnet werden berücksichtigt und beibehalten werden. Sie werden auch nach der Erneuerung im Partner Center beibehalten. Wenn Sie entfernen eine MSA-Verteilung einmal migriert wird, im Partner Center, es kann nicht hinzugefügt werden, wieder in Partner Center.
+
+Im Partner Center kann ein Partner Arbeit Konten und Benutzerkonten für Gäste die MSA aus dem gleichen Mandanten sind, ist der Partner MPN-Administrator in Azure AD-Mandanten hinzufügen. Wenn der Partner ein globaler Administrator in mehreren Azure AD-Mandanten ist, und alle diese Mandanten das gleiche Partner Center-Konto zugewiesen sind, ist der Partner zum Hinzufügen von Benutzern für alle diese Mandanten in die Vorteile für Visual Studio und Azure nutzungsbasierten Zuordnungen zulässig.
+
+Obwohl Gastbenutzer nutzungsbasierte Abonnements von Visual Studio von der MPN-Administrator oder den globalen Administrator zugewiesen werden, können, können keine Gastbenutzer zum Partner Center melden Sie sich mit ihrer MSA. Gastbenutzer können jedoch, melden Sie sich für Azure und Visual Studio, um zu überprüfen, und nutzen Sie ihre zugewiesenen Vorteile.

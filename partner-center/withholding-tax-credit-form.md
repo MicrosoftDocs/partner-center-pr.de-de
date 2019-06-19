@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Quellensteuer Guthaben, Steuergutschriften, deutsche Kreditkarte-Steuerformular unterzeichnen, Formular Steuer geltend
 ms.localizationpriority: medium
-ms.openlocfilehash: 35ed5d1a5da2699df9660bcce1806772fd75a6a0
-ms.sourcegitcommit: ece130080e67ce92bfc86b3892e33320cb13e49b
+ms.openlocfilehash: ace9d1cca5db0a6aba83a0eb9856374b39d56b62
+ms.sourcegitcommit: f55f9389bc1feacb1a3acc1725ab5edabadf090a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "66410972"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67207574"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Stellen Sie sicher, dass Sie für die Quellensteuer gutgeschrieben sind
 
@@ -49,7 +49,8 @@ Füllen Sie bitte diesen [Formular](https://query.prod.cms.rt.microsoft.com/cms/
 2. Wählen Sie **Partner-Support-Anfragen**.
 3. Wählen Sie **neue Anforderung** , und klicken Sie dann unter **Details**Option **bei Partnerdatei Rechnungen, Zahlungen oder Abstimmung helfen.**
 4. Wenn Sie mit der Service Request übermitteln Achten Sie darauf, dass Sie Guthaben-Steuerformular unterzeichnen und digitale Kopien von der Steuerzertifikate zuordnen.
-5. Wir kontaktieren Sie direkt per e-Mail oder telefonisch.
+5. Wenn Sie ein Steuerzertifikat nicht englischen, über eine englische Service-Anforderung senden, muss eine Übersetzung des Zertifikats steuern.
+6. Wir kontaktieren Sie direkt per e-Mail oder telefonisch.
 
 Mithilfe der **Zahlung per Rechnung Zahlung** -Methode, nachdem Tax Zertifikate empfangen und erfolgreich ist überprüft, der verbleibende Saldo in Ihrer Rechnung wird löschen in ungefähr einer Woche. 
 

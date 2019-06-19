@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, Mitgliedschaftsvorteile, Mitgliedschaft
 ms.localizationpriority: medium
-ms.openlocfilehash: fd97db7d1bdd56567c5fc52bb3d8a878ea73ede2
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: fe70af06cf6cea16f5d1f934733a588db9b7546e
+ms.sourcegitcommit: 2ab34b5d432b427f2fc2dba04019255122502eba
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668561"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67198316"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten Ihrer Microsoft Partner Network-Mitgliedschaftsvorteile
 
@@ -98,8 +98,12 @@ Navigieren Sie zum Anzeigen und Verwalten Ihrer Mitgliedschaftsvorteile zur Seit
     
     c.  Wählen Sie nach dem Eingeben der alternativen E-Mail-Adresse **Benutzer zuweisen** aus. 
 
-4. Sie können Ihre Vorteile rund um technische Vorverkaufsdienste oder Beratungsstunden nutzen, um in den Phasen des Vorverkaufs, der Entwicklung, Bereitstellung und App-Entwicklung Ihrer Cloud- und Hybridlösungen technische Unterstützung anzufordern. Füllen Sie das [Anfrageformular](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
-) aus, und wählen Sie dann **Anforderung einreichen** aus, um Unterstützung anzufordern.
+4. Sie können Ihre Vorteile rund um technische Vorverkaufsdienste oder Beratungsstunden nutzen, um in den Phasen des Vorverkaufs, der Entwicklung, Bereitstellung und App-Entwicklung Ihrer Cloud- und Hybridlösungen technische Unterstützung anzufordern. Um Unterstützung anzufordern, füllen Sie das [Anfrageformular](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
+) aus, und wählen Sie dann **Anforderung einreichen** aus.
+
+## <a name="cancel-a-membership-benefit"></a>Einen Vorteil der Mitgliedschaft Abbrechen
+
+Um einen Vorteil Abbrechen, und erhalten eine Gutschrift, Sie müssen die Anforderung innerhalb von 30 Tagen nach Kauf, und die Vorteile durch Software nicht aktiviert haben. Fordern Sie den Abbruch über einen Service Request an.
 
 
 #### <a name="see-also"></a>Siehe auch

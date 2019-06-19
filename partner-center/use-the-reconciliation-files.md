@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8e7b17cb39f266c404d7873dc17e471741d52b32
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
+ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132780"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67193422"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -33,12 +33,16 @@ Gelegentlich kann die Kontenabstimmungsdatei Formatierungsprobleme aufweisen. (D
 
 <li>Wählen Sie im Textkonvertierungs-Assistenten <strong>Dateityp „Getrennt“</strong> aus, und klicken Sie dann auf <strong>Weiter</strong>.</li> 
 
-<li>Wählen Sie im Feld „Trennzeichen“ <strong>Komma</strong> aus. Wenn <strong>Tabstopp</strong> bereits ausgewählt ist, übernehmen Sie diese Einstellung. Klicken Sie auf <strong>Weiter</strong>.</li>
+<li>Wählen Sie im Feld „Trennzeichen“ <strong>Komma</strong> aus. Wenn <strong>Tabstopp</strong> bereits ausgewählt ist, übernehmen Sie diese Einstellung. Wählen Sie <strong>Weiter</strong> aus.</li>
 
-<li>Wählen Sie im Feld „Datenformat der Spalten“ <strong>Datum: TMJ</strong> aus, und klicken Sie dann auf <strong>Weiter</strong>.</li> 
+<li>Wählen Sie in das Feld Spalte Daten Format <strong>Datum: MDY</strong>, und wählen Sie dann <strong>Weiter</strong>.</li> 
 
 <li>Wählen Sie im Feld „Datenformat der Spalten“ für alle Betragsspalten <strong>Text</strong> aus, und klicken Sie dann auf <strong>Fertig stellen</strong>.</li>
 </ol>
+
+## <a name="downloading-a-large-recon-file"></a>Herunterladen einer großen Datei für die Abstimm.
+
+Abstimm Dateien können sehr groß und manchmal schwer zu laden. Ein PowerShell-Skript können Sie große Abstimm Dateien herunterladen, finden Sie unter [Get Rechnungspositionen](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items).
 
 ## <a href="" id="itemizebypartner"></a>Aufschlüsseln nach Partner
 
@@ -460,10 +464,10 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>Die Anzahl der ServiceBus-Verbindungen, die bereitgestellt und an einem bestimmten Tag genutzt wurden.</p></td>
-<td>Beispiel: Wenn Sie während eines Monats mit 30 Tagen über eine individuell bereitgestellte Verbindung verfügen, wird für Service Info 1 „1,000000 Verbindungen/30 Tage” angegeben. Wenn ein Paket von 25 ServiceBus-Verbindungen bereitgestellt wurden und Sie an diesem Tag eine genutzt haben, wird als tägliche Nutzung für diesen Tag „25 Verbindungen/30 Tage – Verwendet: 1,000000“ angegeben. </td>
+<td>Beispiel: Wenn Sie während eines Monats mit 30 Tagen über eine individuell bereitgestellte Verbindung verfügen, wird für Service Info 1 „1,000000 Verbindungen/30 Tage” angegeben. Wenn Sie ein 25-Paket von Service Bus-Verbindungen, die bereitgestellt mussten, und Sie haben 1 während des Tages verwendet, würde Ihre Anweisung zur täglichen Nutzung für diesen Tag angeben "25 Verbindungen / 30 Tage – verwendet: 1.000000”.</td>
 </tr>
 <tr class="even">
-<td>Kunden-ID</td>
+<td>CustomerID</td>
 <td><p>Eindeutige Microsoft-ID im GUID-Format, die zur Identifizierung des Kunden verwendet wird.</p></td>
 <td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
 </tr>
@@ -489,7 +493,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </colgroup>
 <thead>
 <tr class="header">
-<th>Column</th>
+<th>Spalte</th>
 <th>Beschreibung</th>
 </tr>
 </thead>
@@ -674,7 +678,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </colgroup>
 <thead>
 <tr class="header">
-<th>Column</th>
+<th>Spalte</th>
 <th>Beschreibung</th>
 </tr>
 </thead>
@@ -1017,6 +1021,8 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt und
 <p>Anteilige Gebühren bei Aktivierung bis zum Ende des Abrechnungszeitraums</p>
 </td>
 </tr>
+
+
 <tr>
 <td rowspan="2">
 <p><strong>Nutzungsgebühren</strong></p>
@@ -1039,6 +1045,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt und
 <p>Zugriffsnutzungsgebühr für den aktuellen Abrechnungszeitraum</p>
 </td>
 </tr>
+
 <tr>
 <td>
 <p><strong>Guthaben</strong></p>

@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ffc8ee2fa589168925aa2c20230df5978c209554
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 8123141a2a283bc646613a0dbcf69f8903a101a8
+ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668475"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "67262969"
 ---
 # <a name="organization-tax-information"></a>Organisationssteuerinformationen
 
@@ -22,13 +22,11 @@ ms.locfileid: "64668475"
 
 Steuern für Einkäufe in Partner Center werden durch Ihre Geschäftsadresse bestimmt. Unternehmen in einigen Ländern können ihre Umsatzsteuer-Identifikationsnummer bzw. die lokale Entsprechung angeben:
 
-### <a name="add-your-vat-id"></a>Hinzufügen Ihrer Umsatzsteuer-Identifikationsnummer
+### <a name="add-your-vat-id"></a>Hinzufügen Ihrer Umsatzsteuer-ID
 
-1.  Navigieren Sie in **Partner Center** zu **Mitgliedschaftsangebote**-> **Verfügbar**.
-2.  Wählen Sie **Add your VAT ID** (USt-IdNr. hinzufügen) aus.
-3.  Geben Sie die Umsatzsteuer-Identifikationsnummer für Ihre Organisation ein, und wählen Sie **Hinzufügen** und dann **Weiter** aus.
-
-
+1.  Von der **Partner Center** wechseln Sie zu **Kontoeinstellungen**-> **Partnerrechnungsprofil**.
+2.  Wählen Sie im Abschnitt **Finanzdaten** die Option **Aktualisieren** aus.
+3.  In der **Unternehmen Steuernummer** Feld, geben Sie Ihre Umsatzsteuer-Identifikationsnummer an.
 
 
 

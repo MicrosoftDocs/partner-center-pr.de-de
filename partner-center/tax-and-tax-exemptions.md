@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f6822568301576d1643346c21c56798bdb7c225
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 5d0e998a53c6c1b4ab61b18c077b35bb888dd8c0
+ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668636"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "67262981"
 ---
 # <a name="tax-and-tax-exemptions"></a>Steuern und Steuerbefreiungen
 
@@ -34,7 +34,6 @@ Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf
 
 ## <a name="details-by-countryregion"></a>Details nach Land/Region
 
-
 <table>
 <colgroup>
 <col width="50%" />
@@ -46,7 +45,6 @@ Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf
 <td><p>Die meisten Handelspartner sind nicht von der GST/HST/QST befreit. Erkundigen Sie sich bei Ihrem Steuerberater, ob Sie steuerbefreit sind, und falls zutreffend, welche Bescheinigungen bei Microsoft einzureichen sind.</p>
 <p>Bei einer BC PST-Befreiung beantragen Sie eine Steuerbefreiung wie oben beschrieben. Stellen Sie Ihre BC PST-Nummer oder ein ausgefülltes und signiertes <em>Zertifikat über eine allgemeine Befreiung</em> bereit.</p></td>
 </tr>
-
 <tr class="even">
 <td>Europäische Union</td>
 <td><p>In den Mitgliedstaaten der Europäischen Union müssen Partner ihre gültige USt-IdNr. angeben, um eine ordnungsgemäße Steuerschuldumkehr und Abrechnung zu gewährleisten. Die USt-IdNr. muss <a href="https://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](https://go.microsoft.com/fwlink/p/?LinkId=808160)">nachweislich gültig</a> sein.</p>
@@ -58,10 +56,11 @@ Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf
 <li>Geben Sie unter <strong>Steuernummer des Unternehmens</strong> Ihre  USt-IdNr. an.</li>
 </ol></td>
 </tr>
-
 <tr class="odd">
-<td>Türkei</td>
-<td><p>Microsoft wendet jetzt die standardmäßige Mehrwertsteuer (MwSt.) auf digitale Inhalte und Dienste an, die von Partnern in der Türkei erworben werden.  Sie wird seit dem 1. Oktober 2018 auf allen Rechnungen ausgewiesen. Wenn Sie die türkische Mehrwertsteuer aus Ihren Rechnungen ausschließen und sie selbst verwalten möchten, aktualisieren Sie wie folgt Ihr Partnerabrechnungsprofil.</p>
+<td>Südafrika</td>
+<td><p>
+Microsoft wendet jetzt die standardmäßige Mehrwertsteuer (MwSt.) auf digitale Inhalte und Dienste von Partnern in Südafrika erworben haben. Um Ihre Rechnungen Umsatzsteuer ausgeschlossen, und dies selbst zu verwalten, verwenden Sie das folgende Verfahren, um Ihre partnerabrechnungsprofil zu aktualisieren.
+</p>
 <p>Übermitteln der USt-IdNr. an Microsoft</strong></p>
 <ol>
 <li>Wechseln Sie in Partner Center zum Menü „Partner Center“ &gt; <strong>Kontoeinstellungen</strong> &gt; <strong>Partnerabrechnungsprofil</strong>.</li>
@@ -69,29 +68,35 @@ Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf
 <li>Geben Sie unter <strong>Steuernummer des Unternehmens</strong> Ihre  USt-IdNr. an.</li>
 </ol></td>
 </tr>
-
-
 <tr class="even">
+<td>Turkei</td>
+<td>
+<p>
+Microsoft wendet jetzt die standardmäßige Mehrwertsteuer (MwSt.) auf digitale Inhalte und Dienste an, die von Partnern in der Türkei erworben werden. Um Ihre Rechnungen Umsatzsteuer ausgeschlossen, und dies selbst zu verwalten, verwenden Sie das folgende Verfahren, um Ihre partnerabrechnungsprofil zu aktualisieren.
+</p>
+<p>Übermitteln der USt-IdNr. an Microsoft</strong></p>
+<ol>
+<li>Wechseln Sie in Partner Center zum Menü „Partner Center“ &gt; <strong>Kontoeinstellungen</strong> &gt; <strong>Partnerabrechnungsprofil</strong>.</li>
+<li>Wählen Sie im Abschnitt <strong>Finanzdaten</strong> die Option <strong>Aktualisieren</strong> aus.</li>
+<li>Geben Sie unter <strong>Steuernummer des Unternehmens</strong> Ihre  USt-IdNr. an.</li>
+</ol></td>
+</tr>
+<tr class="odd">
 <td>USA</td>
 <td><p>Alle Handelspartner in den Vereinigten Staaten sind verpflichtet, die Bescheinigungen zur Steuerbefreiung innerhalb von 30 Tagen nach Zustimmung zum Microsoft Reseller Agreement einzureichen. Die Freistellungszertifikate für den Weiterverkauf variieren je nach Bundesstaat. Erkundigen Sie sich bei Ihrem Steuerberater nach den relevanten Bestimmungen für Ihre offizielle Anschrift und die Bundesstaaten, in denen Ihr Gewerbe angemeldet ist.</p>
 <p>Dies umfasst möglicherweise Steuerbefreiungszertifikate für den Weiterverkauf, die für mehrere Bundesstaaten gültig sind, wie das <em>Zertifikat für die Steuerbefreiung im Rahmen des Abkommens zur Optimierung von Umsatz- und Nutzungssteuern</em> oder das <em>Einheitliche MTC-Steuerbefreiungszertifikat für Verkaufs- und Nutzungssteuern</em>.</p></td>
 </tr>
-
-
-<tr class="odd">
+<tr class="even">
 <td>Weitere Länder/Regionen, die Steuern erheben</td>
 <td><p>Bei weiteren Fragen zu Steuerbefreiungen/Steuerrückerstattungen wenden Sie sich an den Support in Partner Center. Es kann etwa zwei Wochen dauern, bis Microsoft Kontakt mit Ihnen aufnimmt, um das Problem zu beheben.</p></td>
 </tr>
-
-<tr class="even">
+<tr class="odd">
 <td>Andere Steuerunterlagen</td>
 <td><p>Steuerbelege (für Taiwan oder Korea) oder DAF erfordern in der Regel eine Bearbeitungszeit von zwei Wochen ab Rechnungsstellung.</p>
 <p>Falls Sie andere steuerrelevante Unterlagen benötigen, fordern Sie Unterstützung beim Partner Center an.</p></td>
 </tr>
-
 </tbody>
 </table>
-
  
 
  

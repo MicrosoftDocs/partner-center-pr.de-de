@@ -1,0 +1,162 @@
+### YamlMime:Tutorial
+title: <span data-ttu-id="05fcc-101">Implementieren die sicherheitsanforderungen für partner</span><span class="sxs-lookup"><span data-stu-id="05fcc-101">Implementing the partner security requirements</span></span>
+metadata:
+  title: Implementieren die sicherheitsanforderungen für partner
+  description: In diesem Tutorial erfahren Sie mehr über die Partner-sicherheitsanforderungen und wie sie erfüllen.
+  audience: Partners
+  level: Beginner
+  ms.date: 06/24/2019
+  displayType: two-column
+  ms.custom: mvc
+  ms.openlocfilehash: 08a558f53c5f2f2c58141cdb66912e93b76fb21b
+  ms.sourcegitcommit: ca7f000a58575fa9a089693256c095120dde3c5d
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 06/24/2019
+  ms.locfileid: "67347009"
+items:
+- title: <span data-ttu-id="05fcc-104">Einführung</span><span class="sxs-lookup"><span data-stu-id="05fcc-104">Introduction</span></span>
+  durationInMinutes: 5
+  content: >
+    <span data-ttu-id="05fcc-105">Sicherheit und Schutz von Kunden und Partner sind obersten Prioritäten von Microsoft.</span><span class="sxs-lookup"><span data-stu-id="05fcc-105">Security and privacy of customers and partners are top priorities for Microsoft.</span></span> <span data-ttu-id="05fcc-106">Wir weiterhin eine zunehmende Anzahl von komplexere Sicherheitsangriffe, die in erster Linie mit gefährdete Identitäten verknüpft.</span><span class="sxs-lookup"><span data-stu-id="05fcc-106">We continue to see an increasing number of more sophisticated security attacks, primarily related to compromised identities.</span></span> <span data-ttu-id="05fcc-107">Wie vorbeugende Maßnahmen zu ergreifen Steuerelemente eine wichtige Rolle in einer umfassenden Defense Strategie zum Verhindern von Angriffen spielen, beginnen wir erzwingen eine Reihe von obligatorischen sicherheitsanforderungen für die von Partnern und Kunden zu schützen.</span><span class="sxs-lookup"><span data-stu-id="05fcc-107">As preventive controls play a key role in an overall defense strategy to thwart security attacks, we will start enforcing a set of mandatory security requirements to help protect partners and their customers.</span></span>
+
+
+    <span data-ttu-id="05fcc-108">Mit diesem Tutorial erfahren Sie mehr über die Partner-sicherheitsanforderungen wie, und die Auswirkungen auf Benutzer in Ihrem Partnerverzeichnis zu erfüllen.</span><span class="sxs-lookup"><span data-stu-id="05fcc-108">Through this tutorial you will learn more about the partner security requirements, how to fulfill them, and the impact to users in your partner directory.</span></span>
+- title: <span data-ttu-id="05fcc-109">Was sind die sicherheitsanforderungen für Partner?</span><span class="sxs-lookup"><span data-stu-id="05fcc-109">What are the partner security requirements?</span></span>
+  durationInMinutes: 1
+  content: >
+    <span data-ttu-id="05fcc-110">Alle Partner, die berücksichtigt werden, in der Cloud Solution Provider-Programm, Anbieter von ASP.NET-Steuerelementen Bereich und Advisor-Partner sind zum Erzwingen der Multi-Factor Authentication (MFA) für jeden Benutzer in ihrem partnermandanten erforderlich.</span><span class="sxs-lookup"><span data-stu-id="05fcc-110">All partners who are participating in the Cloud Solution Provider program, Control Panel Vendors, and Advisor partners are required to enforce Multi-Factor Authentication (MFA) for each user in their partner tenant.</span></span> <span data-ttu-id="05fcc-111">Dies ist möglich durch Aktivieren der zwei [Richtlinien für Azure Active Directory-Baseline](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).</span><span class="sxs-lookup"><span data-stu-id="05fcc-111">This can be done by enabling two [Azure Active Directory baseline policies](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).</span></span> <span data-ttu-id="05fcc-112">Baseline-Richtlinien sind eine Reihe von vordefinierten Richtlinien, mit denen Organisationen mit vielen gängigen Angriffen zu schützen.</span><span class="sxs-lookup"><span data-stu-id="05fcc-112">Baseline policies are a set of predefined policies that help protect organizations against many common attacks.</span></span> <span data-ttu-id="05fcc-113">Diese allgemeinen Angriffen zählen Kennwort Sprühende, Wiedergabe und Phishing.</span><span class="sxs-lookup"><span data-stu-id="05fcc-113">These common attacks can include password spray, replay, and phishing.</span></span> <span data-ttu-id="05fcc-114">Baseline-Richtlinien stehen in allen Editionen von Azure Active Directory zur Verfügung.</span><span class="sxs-lookup"><span data-stu-id="05fcc-114">Baseline policies are available in all editions of Azure Active Directory.</span></span> <span data-ttu-id="05fcc-115">Microsoft stellt diese Baseline-Schutzrichtlinien für alle Benutzer zur Verfügung, da Identität basierende Angriffe nimmt in den letzten Jahren wurden.</span><span class="sxs-lookup"><span data-stu-id="05fcc-115">Microsoft is making these baseline protection policies available to everyone because identity-based attacks have been on the rise over the last few years.</span></span>
+
+
+    <span data-ttu-id="05fcc-116">Die zwei basisoption für Richtlinien, die aktiviert werden soll, werden in der folgenden Tabelle beschrieben.</span><span class="sxs-lookup"><span data-stu-id="05fcc-116">The two baseline policies that should be enabled are described in the table below.</span></span>
+
+
+    |<span data-ttu-id="05fcc-117">**Richtlinie**</span><span class="sxs-lookup"><span data-stu-id="05fcc-117">**Policy**</span></span>| |
+
+    |-----|-----|
+
+    |<span data-ttu-id="05fcc-118">**Erfordern von MFA für Administratoren**</span><span class="sxs-lookup"><span data-stu-id="05fcc-118">**Require MFA for admins**</span></span>|<span data-ttu-id="05fcc-119">Aktivieren das erfordern von MFA für die Richtlinie für Administratoren, benötigen Benutzer in Administratorrollen für MFA über die Authenticator-App zu registrieren.</span><span class="sxs-lookup"><span data-stu-id="05fcc-119">Enabling the Require MFA for admins policy, will require users in the administrator roles  to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="05fcc-120">Sobald MFA-Registrierung abgeschlossen ist, müssen Administratoren führen Sie die MFA jedes Mal, wenn sie sich anmelden.</span><span class="sxs-lookup"><span data-stu-id="05fcc-120">Once MFA registration is complete, administrators will need to perform MFA every time they sign-in.</span></span>|
+
+    |<span data-ttu-id="05fcc-121">**Endbenutzer-Schutz**</span><span class="sxs-lookup"><span data-stu-id="05fcc-121">**End user protection**</span></span>|<span data-ttu-id="05fcc-122">Endbenutzer-Schutz ist eine benutzerrisiko basierenden MFA Baseline-Richtlinie, die von allen Benutzern in einem Verzeichnis geschützt.</span><span class="sxs-lookup"><span data-stu-id="05fcc-122">End user protection is a risk-based MFA baseline policy that protects all users in a directory.</span></span> <span data-ttu-id="05fcc-123">Durch Aktivieren dieser Richtlinie erfordert, dass alle Benutzer für MFA über die Authenticator-App zu registrieren.</span><span class="sxs-lookup"><span data-stu-id="05fcc-123">Enabling this policy requires all users to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="05fcc-124">Benutzer können die MFA-Registrierung Eingabeaufforderung 14 Tage lang, ignorieren, nach denen sie blockiert werden an der Anmeldung, bis sie für MFA zu registrieren.</span><span class="sxs-lookup"><span data-stu-id="05fcc-124">Users can ignore the MFA registration prompt for 14 days, after which they will be blocked from signing in until they register for MFA.</span></span> <span data-ttu-id="05fcc-125">Nach der Registrierung für MFA werden Benutzern nur während der riskanten Anmeldeversuche für MFA aufgefordert.</span><span class="sxs-lookup"><span data-stu-id="05fcc-125">Once registered for MFA, users will be prompted for MFA only during risky sign-in attempts.</span></span> <span data-ttu-id="05fcc-126">Kompromittierte Benutzerkonten werden blockiert, bis ihr Kennwort zurückgesetzt, und Risikoereignisse geschlossen wurde haben.</span><span class="sxs-lookup"><span data-stu-id="05fcc-126">Compromised user accounts are blocked until their password is reset and risk events have been dismissed.</span></span>|
+
+
+    <span data-ttu-id="05fcc-127">Wenn diese Richtlinien aktiviert sind, werden jeder Benutzer in Azure MFA ohne zusätzliche Kosten nutzen können.</span><span class="sxs-lookup"><span data-stu-id="05fcc-127">When these policies are enabled, each user will be able to utilize Azure MFA at no additional cost.</span></span> <span data-ttu-id="05fcc-128">Wenn Sie eine Drittanbieter-Lösung verwenden, müssen Sie MFA für jeden Benutzer zu erzwingen, wenn Microsoft Commercial-Cloud-Dienste zugreifen.</span><span class="sxs-lookup"><span data-stu-id="05fcc-128">If you are using a third-party solution, then you are required to enforce MFA for each user when accessing Microsoft Commercial cloud services.</span></span>
+
+
+    > [!IMPORTANT]
+
+    > <span data-ttu-id="05fcc-129">Da der MFA für jeden Benutzer im Partnerverzeichnis erzwungen wird, werden Auswirkungen auf Automatisierung oder Integration, die Anmeldeinformationen des Benutzers verwendet.</span><span class="sxs-lookup"><span data-stu-id="05fcc-129">Since MFA will be enforced for every user in the partner directory, there will be an impact to any automation or integration that utilizes user credentials.</span></span> <span data-ttu-id="05fcc-130">Um diese Auswirkungen zu beheben, die Sie benötigen, ändern Sie die Methode verbindet sich Ihre Automatisierung oder die Integration mit kommerziellen Microsoft-Clouddiensten.</span><span class="sxs-lookup"><span data-stu-id="05fcc-130">To address this impact you will need to modify the way your automation or integration connects to Microsoft commercial cloud services.</span></span> <span data-ttu-id="05fcc-131">Wenn der Dienst, der Sie eine Verbindung mit unterstützt tokenbasierte Authentifizierung, es wird empfohlen, die Sie implementieren die [Secure-Anwendungsmodell-Framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).</span><span class="sxs-lookup"><span data-stu-id="05fcc-131">If the service you are connecting to supports token based authentication, then it is recommended that you implement the [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).</span></span>
+- title: <span data-ttu-id="05fcc-132">Wie aktiviere ich das erfordern von MFA für Administratoren Basisrichtlinie?</span><span class="sxs-lookup"><span data-stu-id="05fcc-132">How do I enable the Require MFA for admins baseline policy?</span></span>
+  durationInMinutes: 5
+  content: >
+    <span data-ttu-id="05fcc-133">Die *erfordern von MFA für Administrator* Basisrichtlinie erfordert MFA für die folgenden verzeichnisrollen, betrachtet die höchsten Berechtigungen Azure AD-Rollen:</span><span class="sxs-lookup"><span data-stu-id="05fcc-133">The *Require MFA for admin* baseline policy requires MFA for the following directory roles, considered to be the most privileged Azure AD roles:</span></span>
+
+
+    - <span data-ttu-id="05fcc-134">Globaler Administrator</span><span class="sxs-lookup"><span data-stu-id="05fcc-134">Global administrator</span></span>
+
+    - <span data-ttu-id="05fcc-135">SharePoint-administrator</span><span class="sxs-lookup"><span data-stu-id="05fcc-135">SharePoint administrator</span></span>
+
+    - <span data-ttu-id="05fcc-136">Exchange-administrator</span><span class="sxs-lookup"><span data-stu-id="05fcc-136">Exchange administrator</span></span>
+
+    - <span data-ttu-id="05fcc-137">Administrator für bedingten Zugriff</span><span class="sxs-lookup"><span data-stu-id="05fcc-137">Conditional access administrator</span></span>
+
+    - <span data-ttu-id="05fcc-138">Sicherheitsadministrator</span><span class="sxs-lookup"><span data-stu-id="05fcc-138">Security administrator</span></span>
+
+    - <span data-ttu-id="05fcc-139">Helpdesk-Administrator / kennwortadministrator</span><span class="sxs-lookup"><span data-stu-id="05fcc-139">Helpdesk administrator / Password administrator</span></span>
+
+    - <span data-ttu-id="05fcc-140">Rechnungsadministrator</span><span class="sxs-lookup"><span data-stu-id="05fcc-140">Billing administrator</span></span>
+
+    - <span data-ttu-id="05fcc-141">Benutzeradministrator</span><span class="sxs-lookup"><span data-stu-id="05fcc-141">User administrator</span></span>
+
+
+    <span data-ttu-id="05fcc-142">Beim Aktivieren der erfordern von MFA für Administratoren Richtlinie, die oben genannten neun Administratorrollen müssen für die Authenticator-App mit MFA zu registrieren.</span><span class="sxs-lookup"><span data-stu-id="05fcc-142">Upon enabling the Require MFA for admins policy, the above nine administrator roles will be required to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="05fcc-143">Sobald MFA-Registrierung abgeschlossen ist, müssen Administratoren, die MFA jedes Mal auszuführen, das Sie sich, das anmelden.</span><span class="sxs-lookup"><span data-stu-id="05fcc-143">Once MFA registration is complete, administrators will need to perform MFA every single time they sign-in.</span></span>
+
+
+    <span data-ttu-id="05fcc-144">Verfügt Ihre Organisation diese Konten in Skripts oder Code verwendet, beachten Sie, und Ersetzen Sie dabei mit [verwaltet Identitäten](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).</span><span class="sxs-lookup"><span data-stu-id="05fcc-144">If your organization has these accounts in use in scripts or code, consider replacing them with [managed identities](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).</span></span>
+
+
+    <span data-ttu-id="05fcc-145">So aktivieren Sie diese Richtlinie, und schützen Ihre Administratoren:</span><span class="sxs-lookup"><span data-stu-id="05fcc-145">To enable this policy and protect your administrators:</span></span>
+
+
+    1. <span data-ttu-id="05fcc-146">Melden Sie sich bei der **Azure-Portal** als globaler Administrator, Sicherheitsadministrator oder Administrator für bedingten Zugriff.</span><span class="sxs-lookup"><span data-stu-id="05fcc-146">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+
+    2. <span data-ttu-id="05fcc-147">Navigieren Sie zu **Azure Active Directory** > **für den bedingten Zugriff**.</span><span class="sxs-lookup"><span data-stu-id="05fcc-147">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
+
+    3. <span data-ttu-id="05fcc-148">Wählen Sie in der Liste der Richtlinien, **Basisrichtlinie: Erfordern von MFA für Administratoren**.</span><span class="sxs-lookup"><span data-stu-id="05fcc-148">In the list of policies, select **Baseline policy: Require MFA for admins**.</span></span>
+
+    4. <span data-ttu-id="05fcc-149">Legen Sie **Richtlinie aktivieren** zu **Richtlinie sofort verwenden**.</span><span class="sxs-lookup"><span data-stu-id="05fcc-149">Set **Enable policy** to **Use policy immediately**.</span></span>
+
+    5. <span data-ttu-id="05fcc-150">Klicken Sie auf **speichern**.</span><span class="sxs-lookup"><span data-stu-id="05fcc-150">Click **Save**.</span></span>
+
+      ![Erfordern von MFA für Administratoren](../images/security/baseline-policy-require-mfa-for-admins.png)
+
+    > [!WARNING]
+
+    > <span data-ttu-id="05fcc-152">Bevor Sie diese Richtlinie aktivieren, stellen Sie sicher, dass die Benutzer die ältere Authentifizierungsprotokolle nicht verwenden.</span><span class="sxs-lookup"><span data-stu-id="05fcc-152">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="05fcc-153">Finden Sie im Artikel [Vorgehensweise: Block-legacy-Authentifizierung an Azure AD mit bedingtem Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) für Weitere Informationen.</span><span class="sxs-lookup"><span data-stu-id="05fcc-153">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+
+
+    > [!IMPORTANT]
+
+    > <span data-ttu-id="05fcc-154">Es ist ein bekanntes Problem, die Auswirkungen auf Ihre Fähigkeit, nutzen delegierte Administratorrechte, um die Verbindung zu Exchange Online-PowerShell, wenn es sich bei MFA erzwungen wird.</span><span class="sxs-lookup"><span data-stu-id="05fcc-154">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="05fcc-155">Finden Sie unter [Exchange Online-PowerShell](../partner-security-requirements.md#exchange-online-powershell) für Weitere Informationen.</span><span class="sxs-lookup"><span data-stu-id="05fcc-155">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
+
+
+    <span data-ttu-id="05fcc-156">Sobald Sie aktiviert haben die *erfordern von MFA für Administratoren* Basisrichtlinie, Benutzer, die ein Mitglied der oben genannten Administratorrollen sind treten eine neue Erfahrung bei der Anmeldung.</span><span class="sxs-lookup"><span data-stu-id="05fcc-156">Once you have enable the *Require MFA for admins* baseline policy, users who are a member of the above administrator roles will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="05fcc-157">Die folgenden Abbildungen sind, was von dieser Richtlinie betroffenen Benutzer auftreten</span><span class="sxs-lookup"><span data-stu-id="05fcc-157">The following figures are what users impacted by this policy will experience</span></span>
+
+      ![Eingabeaufforderung für Weitere Informationen](../images/security/baseline-require-more-info.png)
+
+      ![Zusätzliche sicherheitsüberprüfung](../images/security/baseline-security-verification-setup.png)
+
+      ![Konfigurieren der mobilen App](../images/security/baseline-configure-mobile-app.png)
+
+      ![Zusätzliche Sicherheit Überprüfung Setup wurde abgeschlossen](../images/security/baseline-security-verification-setup-completed.png)
+
+      ![Zusätzliche sicherheitsüberprüfung überprüft](../images/security/baseline-security-verification-confirmed.png)
+
+    <span data-ttu-id="05fcc-163">Nach Abschluss der Benutzer den oben genannten werden sie können den Microsoft-Cloud-Dienst anmelden, die sie zugreifen möchten.</span><span class="sxs-lookup"><span data-stu-id="05fcc-163">After the user has completed the above they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span>
+- title: <span data-ttu-id="05fcc-164">Wie aktiviere ich die Endbenutzer Baseline Schutzrichtlinie?</span><span class="sxs-lookup"><span data-stu-id="05fcc-164">How do I enable the End user protection baseline policy?</span></span>
+  durationInMinutes: 5
+  content: >-
+    <span data-ttu-id="05fcc-165">Die Endbenutzer Baseline Schutzrichtlinie schützt alle Benutzer in einem Verzeichnis.</span><span class="sxs-lookup"><span data-stu-id="05fcc-165">The End user protection baseline policy protects all users in a directory.</span></span> <span data-ttu-id="05fcc-166">Durch Aktivieren dieser Richtlinie erfordert, dass alle Benutzer innerhalb von 14 Tagen für Azure MFA registriert.</span><span class="sxs-lookup"><span data-stu-id="05fcc-166">Enabling this policy requires all users to register for Azure MFA within 14 days.</span></span> <span data-ttu-id="05fcc-167">Nach der Registrierung werden Benutzer aufgefordert, für die MFA nur während einer riskanten Anmeldung versucht, dieses Verhalten wird für partnermandanten in Zukunft ändern.</span><span class="sxs-lookup"><span data-stu-id="05fcc-167">Once registered, users will be prompted for MFA only during risky sign-in attempts, this behavior will change for partner tenants in the future.</span></span> <span data-ttu-id="05fcc-168">Kompromittierte Benutzerkonten werden blockiert, bis das Kennwort zurücksetzen und Kündigung besteht das Risiko.</span><span class="sxs-lookup"><span data-stu-id="05fcc-168">Compromised user accounts are blocked until password reset and risk dismissal.</span></span>
+
+
+    <span data-ttu-id="05fcc-169">Die Richtlinie **Basisrichtlinie: Schutz der Endbenutzer** ist vorkonfiguriert und wird am Anfang angezeigt, wenn Sie zum Blatt für den bedingten Zugriff im Azure-Portal navigieren.</span><span class="sxs-lookup"><span data-stu-id="05fcc-169">The policy **Baseline policy: End user protection** comes pre-configured and will show up at the top when you navigate to the Conditional Access blade in Azure portal.</span></span>
+
+
+    <span data-ttu-id="05fcc-170">So aktivieren Sie diese Richtlinie, und Ihre Benutzer schützen:</span><span class="sxs-lookup"><span data-stu-id="05fcc-170">To enable this policy and protect your users:</span></span>
+
+
+    1. <span data-ttu-id="05fcc-171">Melden Sie sich bei der **Azure-Portal** als globaler Administrator, Sicherheitsadministrator oder Administrator für bedingten Zugriff.</span><span class="sxs-lookup"><span data-stu-id="05fcc-171">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+
+    2. <span data-ttu-id="05fcc-172">Navigieren Sie zu **Azure Active Directory** > **für den bedingten Zugriff**.</span><span class="sxs-lookup"><span data-stu-id="05fcc-172">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
+
+    3. <span data-ttu-id="05fcc-173">Wählen Sie in der Liste der Richtlinien, **Basisrichtlinie: Endbenutzer Protection (Vorschau)**.</span><span class="sxs-lookup"><span data-stu-id="05fcc-173">In the list of policies, select **Baseline policy: End user protection (preview)**.</span></span>
+
+    4. <span data-ttu-id="05fcc-174">Legen Sie **Richtlinie aktivieren** zu **Richtlinie sofort verwenden**.</span><span class="sxs-lookup"><span data-stu-id="05fcc-174">Set **Enable policy** to **Use policy immediately**.</span></span>
+
+    5. <span data-ttu-id="05fcc-175">Klicken Sie auf **speichern**.</span><span class="sxs-lookup"><span data-stu-id="05fcc-175">Click **Save**.</span></span>
+
+      ![Endbenutzer-Schutz](../images/security/baseline-policy-end-user-protection.png)
+
+    > [!WARNING]
+
+    > <span data-ttu-id="05fcc-177">Bevor Sie diese Richtlinie aktivieren, stellen Sie sicher, dass die Benutzer die ältere Authentifizierungsprotokolle nicht verwenden.</span><span class="sxs-lookup"><span data-stu-id="05fcc-177">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="05fcc-178">Finden Sie im Artikel [Vorgehensweise: Block-legacy-Authentifizierung an Azure AD mit bedingtem Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) für Weitere Informationen.</span><span class="sxs-lookup"><span data-stu-id="05fcc-178">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+
+
+    > [!IMPORTANT]
+
+    > <span data-ttu-id="05fcc-179">Es ist ein bekanntes Problem, die Auswirkungen auf Ihre Fähigkeit, nutzen delegierte Administratorrechte, um die Verbindung zu Exchange Online-PowerShell, wenn es sich bei MFA erzwungen wird.</span><span class="sxs-lookup"><span data-stu-id="05fcc-179">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="05fcc-180">Finden Sie unter [Exchange Online-PowerShell](../partner-security-requirements.md#exchange-online-powershell) für Weitere Informationen.</span><span class="sxs-lookup"><span data-stu-id="05fcc-180">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
+
+
+    <span data-ttu-id="05fcc-181">Nachdem Sie aktiviert haben die *Endbenutzer Protection* Basisrichtlinie, allen Benutzern treten eine neue Erfahrung bei der Anmeldung.</span><span class="sxs-lookup"><span data-stu-id="05fcc-181">Once you have enabled the *End user protection* baseline policy, all users will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="05fcc-182">Die folgenden Abbildungen sind, was Benutzer auftreten</span><span class="sxs-lookup"><span data-stu-id="05fcc-182">The following figures are what users will experience</span></span>
+
+      ![Eingabeaufforderung für Weitere Informationen](../images/security/baseline-require-more-info.png)
+
+      ![Zusätzliche sicherheitsüberprüfung](../images/security/baseline-security-verification-setup.png)
+
+      ![Konfigurieren der mobilen App](../images/security/baseline-configure-mobile-app.png)
+
+      ![Zusätzliche Sicherheit Überprüfung Setup wurde abgeschlossen](../images/security/baseline-security-verification-setup-completed.png)
+
+      ![Zusätzliche sicherheitsüberprüfung überprüft](../images/security/baseline-security-verification-confirmed.png)
+
+    <span data-ttu-id="05fcc-188">Nachdem der Benutzer den oben genannten abgeschlossen wurde, werden sie können den Microsoft-Cloud-Dienst anmelden, die sie zugreifen möchten.</span><span class="sxs-lookup"><span data-stu-id="05fcc-188">After the user has completed the above, they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span> <span data-ttu-id="05fcc-189">Beachten Sie, bis die Partner-sicherheitsanforderungen durchgesetzt werden, Benutzer, die von nicht abgedeckt werden die *erfordern von MFA für Administratoren* Basisrichtlinie werden nur aufgefordert, für MFA-Risiko basierte.</span><span class="sxs-lookup"><span data-stu-id="05fcc-189">Note until the partner security requirements are enforced, users who are not covered by the *Require MFA for admins* baseline policy will only be prompted for MFA based on risk.</span></span>

@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
-ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
+ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "67193422"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "67343468"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -1022,6 +1022,61 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt und
 </td>
 </tr>
 
+
+
+<tr>
+<td rowspan="5">
+<p><strong>Einmalige Gebühren</strong></p>
+
+</td>
+<td>
+<p>Neu</p>
+</td>
+<td>
+<p>Verwendet, wenn eine neue Bestellung erstellt wurde</p>
+</td>
+
+<p></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>addQuantity</p>
+</td>
+<td>
+<p>Sowohl die Erstattung von dem ursprünglichen Kauf und die neue Menge verwendet wird, nach dem erhöhen</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>removeQuantity</p>
+</td>
+<td>
+<p>Sowohl die Erstattung von dem ursprünglichen Kauf und die neue Menge verwendet wird, nach dem Abnahme</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>Abbrechen</p>
+</td>
+<td>
+<p>Verwendet, wenn ein Abonnement gekündigt wird</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>Konvertieren</p>
+</td>
+<td>
+<p>Verwendet, wenn eine Lizenz wird aktualisiert, aber die Anzahl von Arbeitsplätzen unverändert bleibt</p>
+</td>
+</tr>
 
 <tr>
 <td rowspan="2">

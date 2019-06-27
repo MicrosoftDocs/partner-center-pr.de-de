@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Rollen, Berechtigungen, Administrator, Agent
 ms.localizationpriority: medium
-ms.openlocfilehash: 66923c8a5d4912d178ef483a883f08f40ed8378b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 65a2f7f373fc57f86cfffa73aafd3b7095fe2c04
+ms.sourcegitcommit: be8086534ec73937f2be9bcc495c2627423c50f6
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133900"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "67396727"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern
 
@@ -24,7 +24,7 @@ Sie haben Ihr Partnerprofil mit gesetzlichem Namen und Adresse, Supportdetails, 
 Die Zugriffsarten Ihrer Benutzer auf das Partner Center bestimmen Sie durch die Rollen und Berechtigungen, die Sie ihnen erteilen. Rollen beziehen sich auf die Programme, an denen Ihr Unternehmen beteiligt ist. Wenn Ihr Unternehmen beispielsweise im CSP-Bereich (Cloud Solution Provider) tätig ist, verfügen Sie nicht nur über die Standard-Mandantenverwaltungsrollen von Azure AD (z.B. „Globaler Administrator“), sondern benötigen auch spezielle Rollen für das CSP-Programm. Jedes Programm verfügt über Rollen, die spezifisch für das jeweilige Programm sind.
 
 >[!Note]
-> AAD-Mandantenrollen (Azure Active Directory) enthalten globale Administrator-, Benutzeradministrator- und CSP-Rollen. Zu den Nicht-AAD-Rollen gehören MPN-Administrator, Geschäftsprofiladministrator, Empfehlungsadministrator, Incentiveadministrator und Incentivebenutzer. 
+> AAD-Mandantenrollen (Azure Active Directory) enthalten globale Administrator-, Benutzeradministrator- und CSP-Rollen. Nicht-AAD-Rollen sind die Rollen, die keine Mandanten verwalten, und MPN Admin, Administrator für Business-Profil, Verweis Verwaltungs-, anreizprogramm Admin und anreizprogramm Benutzer enthalten. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Verwalten kommerzieller Transaktionen im Partner Center (Azure AD- und CSP-Rollen)
 
@@ -39,7 +39,7 @@ Die Zugriffsarten Ihrer Benutzer auf das Partner Center bestimmen Sie durch die 
 ||• Anzeigen, Erstellen und Verwalten von Partnerbenutzern  |
 |Abrechnungsadministrator | • Anzeigen, Erstellen und Verwalten der Abrechnung, von Rechnungen und Kontenabstimmungsdateien|
 |Standardbenutzer|  Anzeigen des eigenen Profils   |
-|Administrator-Agent | • Kundenverwaltung
+|Administratoragent | • Kundenverwaltung
 ||• Hinzufügen einer Geräteliste zum Partner Center
 ||• Erstellen und Anwenden von Profilen auf Geräte
 ||• Abonnementverwaltung
@@ -52,6 +52,7 @@ Die Zugriffsarten Ihrer Benutzer auf das Partner Center bestimmen Sie durch die 
 |Vertriebsbeauftragter | • Kundenverwaltung
 ||• Hinzufügen einer Geräteliste zum Partner Center
 ||• Abonnementverwaltung
+||• Anzeigen Preis aufgelistet und bietet
 ||• Anzeigen von Supporttickets
 ||• Beantragen einer Partnerschaft mit einem Kunden
 ||• Verwalten potenzieller Kunden
@@ -71,7 +72,18 @@ CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provi
 |Globaler Administrator| Anzeigen und Verwalten Ihres CPV-Profils|
 ||Anzeigen und Verwalten der Benutzer, die Zugriff auf CPV Funktionen benötigen|
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles"></a>Verwalten der MPN-Mitgliedschaft und Ihres Unternehmens (Nicht-AAD-Rollen)
+### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Gastbenutzer (muss dem AAD-Mandanten hinzugefügt werden)
+
+|**Gastbenutzer**   | **Rollen**|
+|---------------------------|:--------------------|
+||MPN-Partneradministrator|
+||Kontenadministrator|
+||Incentiveadministrator|
+||Geschäftsprofiladministrator|
+||Empfehlungsadministrator|
+
+
+## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Verwalten von MPN-Mitgliedschaft und Ihres Unternehmens (nicht-AAD-Rollen: Diese Rollen zu verwalten, die Geschäftstätigkeit Unternehmen statt des Mandanten)
 
 |**Rolle** | **Funktionsumfang**|
 |----------------------------|:----------------------------|
@@ -92,28 +104,19 @@ CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provi
 ||• Zuweisen von Rollen für Benutzer im Mandanten zu Nicht-AAD-Rollen 
 ||• Registrieren von Standorten in Programmen
 
-## <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Gastbenutzer (muss dem AAD-Mandanten hinzugefügt werden)
 
-|**Gastbenutzer**   | **Rollen**|
-|---------------------------|:--------------------|
-||MPN-Partneradministrator|
-||Kontenadministrator|
-||Incentiveadministrator|
-||Geschäftsprofiladministrator|
-||Empfehlungsadministrator|
-
-
-## <a name="manage-referrals-non-aad-roles"></a>Verwalten von Empfehlungen (Nicht-AAD-Rollen)
+## <a name="manage-referrals"></a>Verwalten von verweisen 
 
 |**Rolle**|**Funktionsumfang**|
 |-----------------------------|:------------------------|
 |Empfehlungsadministrator       |• Anzeigen, Erstellen und Verwalten von Geschäftsprofilen
 ||• Empfangen und Verwalten von Empfehlungen
-||• Anzeigen, Erstellen und Verwalten von Serviceanfragen der Partner|
-|Geschäftsprofiladministrator   |• Anzeigen, Erstellen und Verwalten des Geschäftsprofils 
+||• Anzeigen, erstellen und Verwalten von Co-Selling-Verweise|
+||• Anzeigen, Erstellen und Verwalten von Serviceanfragen der Partner
+|Administrator für das Unternehmensprofil   |• Anzeigen, erstellen und Verwalten von Business-Profil 
 ||• Anzeigen, Erstellen und Verwalten von Serviceanfragen der Partner|
 
-## <a name="manage-incentives--non-aad-roles"></a>Verwalten von Incentives (Nicht-AAD-Rollen)
+## <a name="manage-incentives"></a>Verwalten von incentives 
 
 |**Rolle** | **Funktionsumfang**|
 |------------------------------|:-------------------------|

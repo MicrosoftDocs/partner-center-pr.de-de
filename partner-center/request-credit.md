@@ -7,12 +7,12 @@ ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 97b8120be91bbeb058597854a7114e98d2e3d0ae
-ms.sourcegitcommit: fa077891067952b3039383897ea53ce7cde03939
+ms.openlocfilehash: 72ded8ab9aa9546a4407e7729c16770fae893832
+ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67333971"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "67407872"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>Fordern Sie eine SLA-Guthaben von Microsoft 
 
@@ -34,7 +34,7 @@ Um eine SLA-Guthaben anzufordern, müssen Sie die folgenden Informationen angebe
 
 - Werden die betroffenen Abonnements wurden über CSP erworben? Ja/Nein
 
-Der Ausfall Vorfall-ID (z. B. EX25194) befindet sich in der Service Health-Seite im Microsoft 365 Administrationscenter. Incidentnummern mit einem 2 Buchstaben bestehende Abkürzung vorangestellt, die den Dienst betroffen, z. B. angibt:
+Der Ausfall Vorfall-ID (z. B. EX25194) befindet sich auf der Seite "Service Health" im Microsoft 365 Administrationscenter. Incidentnummern mit einem 2 Buchstaben bestehende Abkürzung vorangestellt, die den Dienst betroffen, z. B. angibt:
 
 EX - Exchange Online
 
@@ -51,6 +51,17 @@ SP - SharePoint Online
 YA - Yammer Enterprise
 
 MO - Portal-Fehler
+
+## <a name="submit-a-request"></a>Senden Sie eine Anforderung
+
+Beantragen Sie Ihre Gutschrift im Partner Center.
+
+1. Wählen Sie aus dem Partner Center-Dashboard wird **Unterstützung** aus den linken Navigationsbereich.
+
+2. Wählen Sie **Partner-Support-Anfragen** und wählen Sie dann **CSP - Kunden, Bestellungen und Abonnements/Dienste Guthaben Kundenanfragen**.
+
+3. Übermitteln Sie Ihre SLA-Guthaben-Anforderung.
+
 
 
 

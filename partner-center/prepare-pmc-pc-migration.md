@@ -6,12 +6,12 @@ description: Problemstellungen zu bedenken, bevor Sie Ihr Unternehmen zu Partner
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fe65ad021538cf9c6fd267476bf410208abbe746
-ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
-ms.translationtype: MT
+ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
+ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "67157328"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "67279884"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Vorbereiten Sie für die Migration von Partner Membership Center (PMC) zum Partner Center
 
@@ -136,17 +136,22 @@ Obwohl Gastbenutzer nutzungsbasierte Abonnements von Visual Studio von der MPN-A
 
  Ja, es ist keine Änderung an den Partner of Record. Erfahren Sie mehr über [Verknüpfen Ihrer Partner-ID für Ihre Kunden](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).
 
-**Gibt es Auswirkungen auf Incentives ordnungsgemäß abgerechnet?**
+**Gibt es Auswirkungen auf Incentives sammeln, wenn aufgrund der Umstieg auf Partner Center?**
 
-Nein, gibt es ist keine Auswirkungen auf die Incentives ordnungsgemäß abgerechnet. Auch wenn Ihr Unternehmen verfügt über mehrere Konten in PMC und beim Wechsel zu Partner Center werden die Konten in ein globales Konto konsolidiert, hat es keine Auswirkungen auf der Partner der datensatzbasiert Incentives ordnungsgemäß abgerechnet.
+Nein, besteht keine Auswirkungen auf Anreize, wenn Sie Ihr Konto ohne Konsolidierung Speicherorte verschoben haben. Wenn Ihr Unternehmen verfügt über mehrere Konten in PMC und beim Wechsel zu Partner Center, die Sie in ein globales Konto konsolidieren möchten, ohne Datenverlust zu Incentives ordnungsgemäß abgerechnet werden, aber möglicherweise eine Verzögerung in anreizprogramm Auszahlung. Wenn Sie alle Ihre Konten über die PMC verschieben nicht, die in Programmen für Incentives beteiligt gewesen sein, können Sie beenden, gibt an, dass Incentives ordnungsgemäß abgerechnet, die für diese Konten verknüpft sind.
+
 
 **Was sind die anreizprogramm Benutzerrollen im Partner Center?** 
 
 Incentive Rollen im Partner Center sind: die standortbasierte und umfassen Incentives Admin und Anreize für Benutzer. Weitere Informationen zu diesen Rollen Möglichkeiten, finden Sie unter [weisen Benutzerrollen und Berechtigungen](permissions-overview.md).
 
-**Können Incentives sammeln, wenn auf der globalen und Speicherort werden verwaltet?**
+**Können Incentives sammeln, wenn Benutzer auf der globalen und Standort werden zugewiesen?**
 
  Ja. Können Sie einen Administrator Incentives sammeln, wenn die Incentives für Administratorrechte für alle Speicherorte zuweisen kann jedem Standort auch eigene Incentives-Administrator.
+
+ **Können Incentives sammeln, wenn auf der globalen oder Speicherort werden bezahlt?**
+
+ Incentives werden nur auf Standortebene bezahlt.
 
 **Können wir in Bezug auf Verweise wie viele Geschäftsprofile erstellen?**
 

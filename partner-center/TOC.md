@@ -48,6 +48,7 @@
 ## [Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md)
 ## [Überprüfen Ihres Domänenbesitzes](become-global-admin.md)
 ## [Zurücksetzen eines Benutzerkennworts](reset-a-user-password.md)
+## [Zurücksetzen meines Kennworts](reset-my-pasword.md)
 ## [Hinzufügen von Azure Partner Shared Services](shared-services.md)
 ## [Preise und Angebote](pricing-and-offers.md)
 ## [Anpassen des Katalogs](customize-the-catalog.md)
@@ -71,6 +72,7 @@
 ## [Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md)
 ## [Steuern und Steuerbefreiungen](tax-and-tax-exemptions.md)
 ## [Sicherstellen, dass Ihnen Quellensteuer gutgeschrieben wird](withholding-tax-credit-form.md)
+## [Beantragen einer SLA-Gutschrift bei Microsoft](request-credit.md)
 ## [Informationen zur Umsatzsteuer von Organisationen](organization-tax-info.md)
 ## [Einrichten eines Kundenbudgets für Azure-Kosten](set-an-azure-spending-budget-for-your-customers.md)
 ## [Allgemeine Abrechnungsszenarien](common-billing-scenarios.md)
@@ -137,4 +139,8 @@
 ## [Kundenselbsthilfe](customer-self-support.md)
 ## [Eskalieren von Problemen an Microsoft](escalate-problems-to-microsoft.md)
 
+# Sicherheit
+## [Sicherheitsanforderungen für Partner](partner-security-requirements.md)
 
+# Lernprogramme
+## [Implementieren der Sicherheitsanforderungen für Partner](tutorials/partner-security-requirements.yml)

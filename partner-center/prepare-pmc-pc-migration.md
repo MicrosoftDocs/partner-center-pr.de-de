@@ -6,12 +6,12 @@ description: Problemstellungen zu bedenken, bevor Sie Ihr Unternehmen zu Partner
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
-ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
-ms.translationtype: HT
+ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
+ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "67279884"
+ms.lasthandoff: 06/29/2019
+ms.locfileid: "67468024"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Vorbereiten Sie für die Migration von Partner Membership Center (PMC) zum Partner Center
 
@@ -58,9 +58,11 @@ Die globale Administratorrolle MPN in PMC könnte Folgendes ausführen:
 
 Wechselt der globale Administrator von MPN zum Partner Center heißt die Rolle den MPN-Partner-Administrator mit anderen Berechtigungen und Aufgaben als dem globalen Partner Center-Administrator. Finden Sie weitere Informationen zu Rollen und Berechtigungen in Partner Center, [weisen Benutzerrollen und Berechtigungen](permissions-overview.md)
 
-**Im Partner Center-Benutzerrollen**
+**Einschließlich der Gast-Benutzerrollen im Partner Center-Benutzerrollen**
 
 Partner Center verfügt über verschiedene Arten von Rollen je nach Art der Arbeit durchgeführt werden musste. Es gibt Rollen wie z. B. globaler Administrator, die Azure AD-Rollen sind. Einige der Rollen beziehen sich auf Programme, z. B. Cloud Service Provider-Programm oder Anreize, und sind Rollen, die spezifisch für MPN sind. Um herauszufinden, was alle Partner Center-Rollen sind, lesen Sie [weisen Benutzerrollen und Berechtigungen](permissions-overview.md).
+
+
 
 **Was geschieht mit meiner Benutzer Rollen, wenn sie PMC zum Partner Center wechseln?**
 
@@ -84,6 +86,9 @@ Sie können weiterhin migrieren möchten, zum Partner Center mit separaten AAD-M
 Ja, können Sie im Partner Center mehrere Azure AD-Mandanten und einzelnen Partner Center-Konto verknüpfen.
 Hier erfahren Sie mehr. 
 
+**Gibt es Einschränkungen beim Hinzufügen von mehreren Azure AD-Mandanten zu einem einzelnen Partner Center-Konto?**
+
+Wenn Azure AD-Mandanten bereits ein vorhandenes Partner Center-Konto zugeordnet ist, darf nicht die neue Partner Center-Konten, die mithilfe der Funktion für mehrere Mandanten zugeordnet sein. Ist eine weitere Möglichkeit vorstellen, Azure AD-Mandant kann nur mit einem Partner Center-Konto zugeordnet werden, aber ein Partner Center-Konto kann mehrere Mandanten zugeordnet haben.
 
 ## <a name="microsoft-partner-network-mpn-membership-migration"></a>Microsoft Partner Network (MPN) Membership-migration 
 

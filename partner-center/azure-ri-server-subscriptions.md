@@ -1,18 +1,18 @@
 ---
 title: Azure Reserved VM Instances (RI) + Server-Abonnements für Azure | Partner Center
 ms.topic: article
-ms.date: 6/5/2019
+ms.date: 7/2/2019
 description: Durch das Hinzufügen von Azure RI und Server-Abonnements in das CSP-Programm, unterstützen wir unsere Partner mit der schnell wachsenden Kundennachfrage für kostengünstigere Lösungen zur Unterstützung von verlässlichen, permanenten Cloud-Workloads. Mit dem CSP-Programm können Partner Azure RI und Server-Abonnements für kommerzielle Kunden über das Microsoft-Partner Center und das Azure-Portal bereitstellen und verwalten.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, Abonnements, VM, Reservierung, reservierte Instanz
 ms.localizationpriority: medium
-ms.openlocfilehash: aa9fbdad29b79a65a7542d283ea08b47c7c092f3
-ms.sourcegitcommit: 97418ed4882400155099b73bde4b69075434933a
+ms.openlocfilehash: 17455913cbe6aef75cbea61ca26a979682a61147
+ms.sourcegitcommit: 1d5f3fbf9bb53bc7f42cefbbedb2d7f3f3bc66eb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "66736062"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "67509956"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -45,6 +45,7 @@ Mit einer unglaublichen Kombination aus einem überzeugenden Preis und beispiell
 -   Verwaltete SQL-Instanz
 -   Azure Cosmos DB
 -   Azure SQL Data Warehouse
+-   App-Dienste
 
 #### <a name="server-subscriptions"></a>Serverabonnements
 -   Windows Server
@@ -54,6 +55,10 @@ Mit einer unglaublichen Kombination aus einem überzeugenden Preis und beispiell
 #### <a name="linux-isv-annual-subscriptions"></a>Linux-ISV-Jahresabonnements
 -   SUSE Linux
 -   Red Hat Enterprise Linux
+-   Azure Red Hat OpenShift
+
+#### <a name="isv-annual-subscriptions"></a>ISV-Jahresabonnements
+-   Azure-VMware-Lösung von CloudSimple
 
 ## <a name="getting-started"></a>Erste Schritte
 

@@ -7,12 +7,12 @@ ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fdc7bdf8dc79bba7e3328fb19a4bdbd9a78d904b
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 8fee297df2e768609cf9480370d56e59af5b249a
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668096"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549503"
 ---
 # <a name="provide-billing-support"></a>Bereitstellen von Abrechnungssupport
 
@@ -32,7 +32,10 @@ Sie steuern die Abrechnungsbeziehung mit Ihren Kunden und müssen diesen bei all
 
 Partner des CSP-Modells sind vertrauenswürdige Berater für ihre Kunden und für die gesamte Kundenbeziehung zuständig. Hierzu gehört auch eine entsprechende Unterstützung, wenn der Kunde eine Frage oder ein Problem hat. Durch die Supportkontakte können Partner mehr über den Kunden und sein Unternehmen lernen und auch neue Dienste und Lösungen identifizieren, die den Nutzen erhöhen.
 
-Um die Supportanforderungen zu erfüllen, kann der Partner Support von einer anderen Entität weiterverkaufen, die gesamte Supportstruktur oder einen Teil davon auslagern und/oder eine Struktur einrichten, um direkte Unterstützung anzubieten.  Der Partner kann Kunden den Support vollständig oder teilweise in Rechnung stellen. Die Partner sollten ihre Kunden über den von ihnen bereitgestellten Support sowie über Servicezeiten, Kontaktmethode und Preise (sofern zutreffend) informieren. 
+Um die Supportanforderungen zu erfüllen, kann der Partner Support von einer anderen Entität weiterverkaufen, die gesamte Supportstruktur oder einen Teil davon auslagern und/oder eine Struktur einrichten, um direkte Unterstützung anzubieten.  Der Partner kann Kunden den Support vollständig oder teilweise in Rechnung stellen. Die Partner sollten ihre Kunden über den Support informieren, den sie bereitstellen, sowie über Servicezeiten, Kontaktmethode und Preise (sofern zutreffend). 
+
+>[!Note]
+>Wenn Sie keinem CSP sind und Fragen zu Abrechnung Kunden haben, finden Sie unter bestimmten Portal für die geeignete Produkte oder Dienste.
 
 Partner erhalten Supportanfragen von Kunden, müssen Probleme im Rahmen ihrer Fähigkeiten diagnostizieren und dann Probleme beheben, die innerhalb des Umfangs der Basisunterstützung liegen. Wenn der Partner ein Problem nicht lösen kann, kann er es an Microsoft über die folgenden Supportwerkzeuge eskalieren:
 

@@ -6,12 +6,12 @@ description: Problemstellungen zu bedenken, bevor Sie Ihr Unternehmen zu Partner
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
-ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
+ms.openlocfilehash: 5dbdf09b00cf4f188cc82542182ebff39a4d7e39
+ms.sourcegitcommit: 2e41cd8c74e806f52f9250788d63473160b10e62
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2019
-ms.locfileid: "67468024"
+ms.lasthandoff: 07/04/2019
+ms.locfileid: "67563043"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Vorbereiten Sie für die Migration von Partner Membership Center (PMC) zum Partner Center
 
@@ -132,6 +132,11 @@ Obwohl Gastbenutzer nutzungsbasierte Abonnements von Visual Studio von der MPN-A
  **Wie sollten wir unsere MCP-Zuordnungen und unsere Partner University-Zugriff verwalten?**
 
  Es gibt keine Änderungen an der MCP-Zuordnungen, die von PMC zu verschieben. Allerdings müssen alle neuen neue Mitarbeiter nach dem Wechsel zu Partner Center im Partner Center verknüpft werden soll. Alle Partner University-Berechtigungen für vorhandene Benutzer bleibt jedoch alle neuen Mitarbeiter sollte zum [der Schulungscenter](https://partner.microsoft.com/training) Informationen für den Zugriff auf Partner University-Plattform.
+
+ **Wie zeige ich MCP-Informationen an, wenn ich zum Partner Center verschieben?**
+
+Wählen Sie **Kompetenzen** im linken Navigationsbereich auf dem Dashboard. Von der **Kompetenzen** Seite können Sie den Fähigkeiten Bericht herunterzuladen. Der Bericht Fähigkeiten werden Ihre Benutzer aufgelistet, die Fähigkeiten, die relevant für die Kompetenzen und die Programme im Partner Center erworben haben. Wenn Ihre Benutzer haben Kenntnisse erlangt, aber diese Fähigkeiten nicht relevant für den Kompetenzen der sind auf dem Sie arbeiten, werden diese nicht im Bericht aufgeführt werden.
+
 
  **Werden Kundenreferenzen werden im Partner Center verwendet?**
 

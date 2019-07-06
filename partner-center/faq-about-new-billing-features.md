@@ -9,7 +9,7 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: fd95787a87a1b70a0b2f31114b22dde7ca0f837c
 ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 04/28/2019
 ms.locfileid: "64668347"
@@ -54,7 +54,7 @@ Abschnitte:
 
 **F:** Was hat sich geändert?
 
--   **A:** Aufgrund Ihrer Anfragen haben wir die Option eingeführt, bestimmte Cloud Solution Provider-Abonnements (CSP) jährlich oder monatlich zu bezahlen. Diese neue Option ist seit dem 17. Oktober 2017 verfügbar.
+-   **A:** Auf vielfachen Kundenwunsch bieten wir für bestimmte CSP-Abonnements (Cloud Solution Provider) nun die Möglichkeit der jährlichen oder monatlichen Zahlung an. Diese neue Option ist seit dem 17. Oktober 2017 verfügbar.
 
 **F:** Wer kann daran teilnehmen?
 
@@ -110,7 +110,7 @@ Abschnitte:
 
 **F:** Wann wird das Abonnement in Rechnung gestellt, wenn ich mich für die jährliche Abrechnung entscheide?    
 
--   **A:** Das Abonnement wird am nächsten Abrechnungsdatum in Rechnung gestellt. Wenn Ihr Abrechnungsdatum beispielsweise der 1. ist und Sie am 29. Oktober 2017 ein Abonnement mit jährlicher Abrechnung kaufen, wird Ihnen das Abonnement am 1. November 2017 in Rechnung gestellt. Sofern Sie keine Änderungen an den Lizenzen vornehmen, erfolgt die Rechnungslegung dann wieder am 1. November 2018. Wenn Sie eine Lizenzänderung vornehmen, erhalten Sie zum nächsten Abrechnungsdatum eine Gutschrift und eine anteilige Verrechnung. 
+-   **A:** Das Abonnement wird am nächsten Abrechnungsdatum in Rechnung gestellt. Wenn Ihr Abrechnungsdatum beispielsweise der Monatserste ist und Sie am 29. Oktober 2017 ein Abonnement mit jährlicher Abrechnung kaufen, wird Ihnen das Abonnement am 1. November 2017 in Rechnung gestellt. Sofern Sie keine Änderungen an den Lizenzen vornehmen, erfolgt die Rechnungslegung dann wieder am 1. November 2018. Wenn Sie eine Lizenzänderung vornehmen, erhalten Sie zum nächsten Abrechnungsdatum eine Gutschrift und eine anteilige Verrechnung. 
 
 **F:** Kann ich ein Abonnement so aufteilen, dass ein Teil monatlich und ein Teil jährlich abgerechnet wird?  
 
@@ -459,15 +459,15 @@ Abonnements, die sich zum Implementierungsdatum im kostenlosen Zeitraum befinden
 
 |**Szenarien**   |**Szenario 1: Der kostenlose Zeitraum des Abonnements endet vor dem Implementierungsdatum.**   |**Szenario 2: Das Abonnement befindet sich am Implementierungsdatum im kostenlosen Zeitraum.**  | **Szenario 3: Das Abonnement wurde am oder nach dem Implementierungsdatum gekauft.**   |
 |----------|:------------|:--------------------|:------------|
-|Kaufdatum |1. Februar 2018    | 1. Februar 2018    | 1. Juni 2018     |
-|Bereitstellungsdatum | 1. Februar 2018   |1. Februar 2018   |1. Juni 2018   |
+|Kaufdatum |1\. Februar 2018    | 1\. Februar 2018    | 1\. Juni 2018     |
+|Bereitstellungsdatum | 1\. Februar 2018   |1\. Februar 2018   |1\. Juni 2018   |
 |Abrechnungsdatum   | 15. jedes Monats   |25. jedes Monats   | 15. jedes Monats|
-|Kostenloser Zeitraum   | 1. Februar 2018 – 14. Februar 2018|1. Februar 2018 – 24. Februar 2018   |Kein kostenloser Zeitraum|
-|Gebühr für den ersten Monat   | 15. Februar 2018 – 14. März 2018 | Für am 24. Februar 2018 bestehende Lizenzen gilt ein verlängerter kostenloser Zeitraum bis zum 24. März 2018. Nach dem 24. Februar 2018 hinzugefügte Lizenzen werden in Rechnung gestellt. |1. Juni 2018 – 30. Juni 2018   |
-|Gebühr für den zweiten Monat   | 15. März 2018 – 14. April 2018|25. März 2018 – 24. April 2018   |1. Juli 2018 – 31. Juli 2018|
-|Beginn des kostenpflichtigen Zeitraums   | 15. Februar 2018 | 25. Februar 2018| 1. Juni 2018| 
+|Kostenloser Zeitraum   | 1\. Februar 2018 – 14. Februar 2018|1\. Februar 2018 – 24. Februar 2018   |Kein kostenloser Zeitraum|
+|Gebühr für den ersten Monat   | 15. Februar 2018 – 14. März 2018 | Für am 24. Februar 2018 bestehende Lizenzen gilt ein verlängerter kostenloser Zeitraum bis zum 24. März 2018. Nach dem 24. Februar 2018 hinzugefügte Lizenzen werden in Rechnung gestellt. |1\. Juni 2018 – 30. Juni 2018   |
+|Gebühr für den zweiten Monat   | 15. März 2018 – 14. April 2018|25. März 2018 – 24. April 2018   |1\. Juli 2018 – 31. Juli 2018|
+|Beginn des kostenpflichtigen Zeitraums   | 15. Februar 2018 | 25. Februar 2018| 1\. Juni 2018| 
 |Ende des kostenpflichtigen Zeitraums | 14. Februar 2019   |24. Februar 2019   | 31. Mai 2019  |
-|Verlängerungsdatum | 15. Februar 2019 |25. Februar 2019   |1. Juni 2019|
+|Verlängerungsdatum | 15. Februar 2019 |25. Februar 2019   |1\. Juni 2019|
 
 ### <a name="scenario-4---new-purchase"></a>Szenario 4: Neukauf
 

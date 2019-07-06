@@ -29,7 +29,7 @@ ms.locfileid: "64668605"
 
 **Wie sieht das neue Verfahren zur Bestätigung der Zustimmung des Kunden zum Microsoft Cloud-Vertrag (Microsoft Cloud Agreement, MCA) aus?**
 
-Microsoft ist bestrebt, seine Kunden und Partner bei der Einhaltung der Bestimmungen zu unterstützen. Als Partner des CSP-Programms (Cloud Solution Provider) von Microsoft sind Sie dafür verantwortlich, die Nutzungsbedingungen von Microsoft (einschließlich der akzeptablen Verwendung von Microsoft-Produkten und-Diensten) mit Ihren Kunden zu überprüfen. Um die Partner bei der Erfüllung der Complianceanforderungen besser zu unterstützen und Transparenz zu gewährleisten, ermöglichen wir einen neuen Prozess, bei dem die CSP-Partner bestätigen müssen, dass ihre Kunden den Bestimmungen des Microsoft Cloud-Vertrags zugestimmt haben. Am 7. August 2018 haben wir ein neues Feld in der Benutzeroberfläche des Partner Center-Dashboards und in der Partner Center-API hinzugefügt, in dem Partner diese Informationen bereitstellen können. Anfänglich ist diese Bestätigung optional, sie ist jedoch ab dem 7. November 2018 erforderlich. 
+Microsoft ist bestrebt, seine Kunden und Partner bei der Einhaltung der Bestimmungen zu unterstützen. Als Partner des CSP-Programms (Cloud Solution Provider) von Microsoft sind Sie dafür verantwortlich, die Nutzungsbedingungen von Microsoft (einschließlich der akzeptablen Verwendung von Microsoft-Produkten und-Diensten) mit Ihren Kunden zu überprüfen. Um die Partner bei der Erfüllung der Complianceanforderungen besser zu unterstützen und Transparenz zu gewährleisten, ermöglichen wir einen neuen Prozess, bei dem die CSP-Partner bestätigen müssen, dass ihre Kunden den Bestimmungen des Microsoft Cloud-Vertrags zugestimmt haben. Am 7. August 2018 haben wir ein neues Feld in der Benutzeroberfläche des Partner Center-Dashboards und in der Partner Center-API hinzugefügt, in das Partner diese Informationen eintragen können. Anfänglich ist diese Bestätigung optional, sie ist jedoch ab dem 7. November 2018 erforderlich. 
 
 **Wann wird diese Anforderung wirksam?**
 
@@ -105,7 +105,7 @@ In vertraglicher Hinsicht ist es der indirekte Anbieter, der einen bindenden Ver
 
 Indirekten Anbietern, die die erforderlichen Informationen zur Kundenzustimmung von ihren indirekten Händlern einholen müssen, wird empfohlen, diese Anforderung den indirekten Händlern umgehend mitzuteilen, um die Bereitstellung und den Erhalt dieser Informationen zu koordinieren.
 
-**Wie kann ich meinen Kunden erklären, dass sie ihre Zustimmung zum Microsoft Cloud-Vertrag bestätigen sollten?**
+**Wie kann ich meinen Kunden erklären, dass sie ihre Zustimmung zum Microsoft Cloud-Vertrag bestätigen müssen?**
 
 Die ordnungsgemäße Ausführung des Microsoft Cloud-Vertrags schützt Microsoft, unsere Partner und Kunden, indem sie eine gegenseitige Abstimmung zu vielen wichtigen Themen gewährleistet, einschließlich (aber nicht beschränkt auf) Sicherheit, Datenschutz und Datensicherheit. Der Bestätigungsprozess sorgt für Transparenz und Abstimmung und ermöglicht es Microsoft, Kunden besser zu unterstützen, die umgehend auf regulatorische Anfragen reagieren müssen.
 

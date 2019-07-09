@@ -120,6 +120,7 @@
 ## [Abrufen von Daten zur Verwendung der Azure-Abonnements Ihrer Kunden](analyze-azure-usage.md)
 ## [Analysieren der Leistung indirekter Händler](analyze-indirect-resellers.md)
 ## [Analysieren von Abonnements und Lizenzen](analyze-subscriptions-licenses.md)
+## [Microsoft Learn-Analysen](ms-learn-analytics.md)
 
 # [Zusammenarbeit mit anderen Partnern](work-with-other-partners.md)
 ## [Aufgaben indirekter Anbieter in Partner Center](indirect-provider-tasks-in-partner-center.md)

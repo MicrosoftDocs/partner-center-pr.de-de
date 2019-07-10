@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f6064b31744ff432dc97887eec22dce142c223f7
-ms.sourcegitcommit: bd83621eb29fafbda341ad41814a9ae5c1e78b00
+ms.openlocfilehash: 579676ccd7331011a0613825028dee070539d414
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/08/2019
-ms.locfileid: "67622558"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674275"
 ---
 ## <a name="partner-contribution-indicators"></a>Partner Beitrag Indikatoren
 
@@ -56,9 +56,9 @@ Partner können die maximale Punkte für eine bestimmte Metrik verdienen, erfül
 |Neue große deploments|20|Für **Customer Engagement**, wenn keinerlei kostenpflichtiges Abonnement das 250 überschreitet Schwellenwert für monatlich aktiver Benutzer in den vergangenen zwölf Monaten der entsprechenden partnerdokumentbibliothek ruft Gutschrift für alle Customer Engagement Produktions-Instanzen (Organisationen) unter Dieses Mandanten. Für **Finance and Operations**, falls ein kostenpflichtiges Abonnement den 100 monatlich aktiver Benutzer Schwellenwert überschreitet, in den vergangenen 12 Monaten, der entsprechenden partnerdokumentbibliothek Gutschrift für alle "Finanzwesen" und Operations-Produktionsinstanzen (Organisationen) In diesem Mandanten. Monatlich aktive Benutzer werden auf Abonnementebene gezählt, und nur kostenpflichtige Abonnements gelten. Monatlich aktive Benutzer werden am Ende des Monats berechnet. Ein Abonnement gilt der monatlich aktiven Benutzer Schwellenwert überschritten haben, hat den Schwellenwert überschritten wird, mindestens einmal in den letzten 12 Monaten und wurde unter dem angegebenen Schwellenwert 13 Monate vor. Wenn ein Mandant über mehrere Abonnements, die jeweils verschiedenen Partnern zugeordneten verfügt angerechnet alle Partner allen Produktionsinstanzen unter dem Mandanten, in der entsprechenden Produktkategorie, solange ihre zugeordneten kostenpflichtige Abonnements erforderlichen cross Schwellenwert für monatlich aktiver Benutzer.|Nachfolgende 12-monatspläne|
 |Monatlich aktiver Benutzer Wachstum|25|Vergleich zwischen der aktuellen Anzahl von monatlich aktive Benutzer bzw. die Anzahl der monatlich aktiven Benutzer 13 Monate vor. Monatlich aktive Benutzer werden auf Abonnementebene gezählt, und nur kostenpflichtige Abonnements gelten. Monatlich aktive Benutzer werden am Ende des Monats berechnet. Für **Customer Engagement**entwickelten Markt Partner benötigen eine Baseline mindestens 250 monatlich aktiver Benutzer in der Produktion und zukünftige Markt partner mindestens 150 monatlich aktive Benutzer, für die gesamte Kundenbasis 13 Monate geeignet für Punkte vor. Für **Finance and Operations**entwickelten Markt Partner benötigen eine Baseline mindestens 100 monatlich aktiver Benutzer in der Produktion und zukünftige Markt partner mindestens 50 monatlich aktive Benutzer in ihrer gesamten Kundenbasis 13 Monate geeignet für Punkte vor.|Nachfolgende 12-monatspläne|
 
-## <a name="customer-to-partner-association"></a>Kunden, Partner-Zuordnung
+## <a name="customer-to-partner-association"></a>Zuordnung von Kunden und partner
 
-Erhalten Sie Gutschriften für neue Nettogewinn, Net Kunden hinzufügt, neue umfangreichen Bereitstellungen und mehr Wachstum von monatlich aktiver Benutzer für einen bestimmten Kunden, innerhalb der Grenzen des anhand der metrischen Definition, wenn und nur, wenn Sie die in Anspruch genommen Partner des Eintrags (CPOR) oder Digital Partner of Record ( Das DPOR) für ein kostenpflichtiges Abonnement, die zum Mandanten des Kunden gehören.
+Erhalten Sie Gutschriften für neue Nettogewinn, Net Kunden hinzufügt, neue umfangreichen Bereitstellungen und mehr Wachstum von monatlich aktiver Benutzer für einen bestimmten Kunden, innerhalb der Grenzen der metrischen Definition nur, wenn Sie die in Anspruch genommen Partner des Eintrags (CPOR) oder Digital Partner of Record (DPOR) für ein kostenpflichtiges Abonnement, die zum Mandanten des Kunden gehören.
 
 Ein Partner wird die CPOR, wenn sie die Zuordnung mit einem Kunden über das Dynamics 365 Online Lösung Advisor (OSA) Incentive auf Abonnementebene eingerichtet haben.
 

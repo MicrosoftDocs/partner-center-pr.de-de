@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Schulungsgutscheine, Software Assurance, Schulung, Überprüfen von Gutscheinen, Reservieren von Gutscheinen
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
+ms.openlocfilehash: 210218d027af2cb0e02556593e3a6212124e28f6
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667973"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674221"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Häufig gestellte Fragen Verwenden des Tools zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR) 
 
@@ -51,6 +51,9 @@ Ab dem 31. März 2019 verwalten alle Partner ihre Gutscheine im Partner Center. 
 **Wie kann mein Unternehmen auf das VVR-Tool zugreifen?**
 
 - Um auf das VVR-Tool zugreifen zu können, muss sich Ihr Unternehmen entweder für das SATV- oder SA DPS-Programm registrieren.
+
+Lesen Weitere ausführlichen Fragen und Antworten auf die [Gutschein Tool validierungsworkflow](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o).
+
 Informationen zur Registrierung beim SATV-Programm finden Sie unter [SATV-Programm (Software Assurance Training Voucher, Software Assurance-Trainingsgutschein) in Partner Center](software-assurance-satv.md).
- <!--
-For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->
+
+Informationen zur Registrierung in Software Assurance-DPS-Programmen finden Sie [Software Assurance-Programme im Partner Center](software-assurance-dps.md).

@@ -7,14 +7,14 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: Schulung, Gutscheintool, Validieren von Gutscheinen, Software Assurance-Ansprüche, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ab74a3264ebf7461919072b7fd367f7619252b10
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132650"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674263"
 ---
-# <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Verwenden des Tools zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR) in Partner Center, um Gutscheine zu überprüfen, zu reservieren und einzulösen 
+# <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>Verwenden des Voucher Validation and Redemption (VVR)-Tools im Partner Center, um Belege zu überprüfen, zu reservieren und einzulösen 
 
 **Gilt für:**
 
@@ -23,6 +23,15 @@ ms.locfileid: "62132650"
 Als qualifizierter Software Assurance-Partner, entweder für Schulungen oder Deployment Planning Services, vergütet Microsoft Sie für die Bereitstellung dieser Dienste für Unternehmenskunden im Austausch gegen Gutscheine, die sie mit Software Assurance erhalten.
 
 Wenn Ihr Kunde einen Gutschein erhält, müssen Sie ihn validieren und reservieren. Diese Aufgabe haben Sie bislang ggf. mit dem Tool zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VRR) erledigt. Heute vereinen wir alle Tools, einschließlich VVR-Tool, und Websites, die früher von Partnern besucht werden mussten, um mit Microsoft Geschäfte zu machen, im Partner Center mit dem Ziel, Ihre Arbeit schlanker und effizienter zu gestalten.
+
+Dieses Dokument enthält eine Übersicht über das Überprüfen und einen Gutschein zu reservieren. Lesen Sie ausführliche Informationen auf den vollständigen Workflow zur filtervalidierung Gutschein und Richtlinien: 
+
+- [Software Assurance-Gutschein trainingsworkflow](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
+
+- [Häufig gestellte Fragen zu Spargutschein über Software Assurance-training](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) 
+
+- [Software Assurance Training Gutschein Richtlinien](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP) 
+
 
 ## <a name="validate-and-reserve-a-voucher"></a>Validieren und Reservieren eines Gutscheins
 

@@ -1,18 +1,18 @@
 ---
 title: Verwenden der Abstimmungsdateien | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 07/08/2019
 description: Laden Sie die Kontenabstimmungsdateien aus dem Partner Center herunter, um ausführliche Informationen zu den einzelnen Rechnungspositionen der Gebühren in einem Abrechnungszyklus anzuzeigen.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
-ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
+ms.openlocfilehash: 83be47cd9963d7e5f14b6c670cd57a8ab1d54011
+ms.sourcegitcommit: 66afdaa662cfad217e29ba1f9e3a9ffd4349112f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67343468"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67694928"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -834,10 +834,6 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 <td><p>Der Azure-Plattformdienst, den Sie verwendet haben.</p></td>
 </tr>
 
-<tr class="odd">
-<td>Ressourcengruppe</td>
-<td><p>Die Ressourcengruppe, in der die bereitgestellte Verbrauchseinheit ausgeführt wird.</p></td>
-</tr>
 
 <tr class="even">
 <td>Ressourcen-URI</td>
@@ -892,11 +888,6 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 <tr class="even">
 <td>Dienstinformationen 2</td>
 <td><p>Ein Legacyfeld, in dem optionale dienstspezifische Metadaten erfasst werden.</p></td>
-</tr>
-
-<tr class="odd">
-<td>Tags</td>
-<td><p>Tages, die Sie der Verbrauchseinheit zum Gruppieren von Abrechnungsdatensätzen zuweisen. Beispielsweise können Sie Tags verwenden, um Kosten auf Abteilungen zu verteilen, die die Verbrauchseinheit nutzen.</p></td>
 </tr>
 
 <tr class="even">

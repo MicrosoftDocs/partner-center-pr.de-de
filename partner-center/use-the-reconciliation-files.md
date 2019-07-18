@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 83be47cd9963d7e5f14b6c670cd57a8ab1d54011
-ms.sourcegitcommit: 66afdaa662cfad217e29ba1f9e3a9ffd4349112f
+ms.openlocfilehash: fda8724b389913e49e01d64941622cf366516bf6
+ms.sourcegitcommit: 9156f3a7711fae5e0f9a2c5f29e74e8791836c8e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67694928"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "67818978"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -35,14 +35,14 @@ Gelegentlich kann die Kontenabstimmungsdatei Formatierungsprobleme aufweisen. (D
 
 <li>Wählen Sie im Feld „Trennzeichen“ <strong>Komma</strong> aus. Wenn <strong>Tabstopp</strong> bereits ausgewählt ist, übernehmen Sie diese Einstellung. Wählen Sie <strong>Weiter</strong> aus.</li>
 
-<li>Wählen Sie in das Feld Spalte Daten Format <strong>Datum: MDY</strong>, und wählen Sie dann <strong>Weiter</strong>.</li> 
+<li>Wählen Sie <strong>im Feld Spaltendaten Format die Option Date: Und klicken Sie dann auf <strong>Weiter.</strong></strong></li> 
 
 <li>Wählen Sie im Feld „Datenformat der Spalten“ für alle Betragsspalten <strong>Text</strong> aus, und klicken Sie dann auf <strong>Fertig stellen</strong>.</li>
 </ol>
 
-## <a name="downloading-a-large-recon-file"></a>Herunterladen einer großen Datei für die Abstimm.
+## <a name="downloading-a-large-recon-file"></a>Herunterladen einer großen Datei für das herunterladen
 
-Abstimm Dateien können sehr groß und manchmal schwer zu laden. Ein PowerShell-Skript können Sie große Abstimm Dateien herunterladen, finden Sie unter [Get Rechnungspositionen](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items).
+Das Herunterladen von Dateien kann sehr groß werden und ist manchmal schwierig. Ein PowerShell-Skript, das Sie beim Herunterladen umfangreicher Datei Dateien unterstützt, finden Sie unter [Get Rechnungs Items](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items).
 
 ## <a href="" id="itemizebypartner"></a>Aufschlüsseln nach Partner
 
@@ -126,13 +126,13 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 <tr class="odd">
 <td>OfferID</td>
 <td><p>Eindeutige Angebot-ID. Standard-Angebot-ID gemäß der Preisliste.</p>
-<p><b>Hinweis</b>: Dieser Wert entspricht nicht der Angebots-ID in der Preisliste. Siehe „DurableOfferID“ unten.</p></td>
+<p><b>Hinweis:</b> Dieser Wert entspricht nicht der Angebots-ID in der Preisliste. Siehe „DurableOfferID“ unten.</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
 <td><p>Eindeutige dauerhafte Angebot-ID gemäß Definition in der Preisliste.</p>
-<p><b>Hinweis</b>: Dieser Wert entspricht der Angebots-ID in der Preisliste.</p></td>
+<p><b>Hinweis:</b> Dieser Wert entspricht der Angebots-ID in der Preisliste.</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -189,7 +189,7 @@ Um Ihre Gebühren mit den Bestellungen Ihrer Kunden abzugleichen, vergleichen Si
 </tr>
 <tr class="even">
 <td>TotalOtherDiscount</td>
-<td><p>Rabattbetrag auf diese Gebühren. IUR (Internal Use Rights) oder neue Abonnements, die Anspruch auf einen Bonus haben, enthalten ebenfalls einen Rabattbetrag in dieser Spalte.</p></td>
+<td><p>Rabattbetrag auf diese Gebühren. Produktlizenzen, die in einer Kompetenz oder in Karten oder neuen Abonnements enthalten sind, die für einen Anreiz geeignet sind, enthalten in dieser Spalte ebenfalls einen Rabatt Betrag.</p></td>
 <td>2,32</td>
 </tr>
 <tr class="odd">
@@ -464,7 +464,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>Die Anzahl der ServiceBus-Verbindungen, die bereitgestellt und an einem bestimmten Tag genutzt wurden.</p></td>
-<td>Beispiel: Wenn Sie während eines Monats mit 30 Tagen über eine individuell bereitgestellte Verbindung verfügen, wird für Service Info 1 „1,000000 Verbindungen/30 Tage” angegeben. Wenn Sie ein 25-Paket von Service Bus-Verbindungen, die bereitgestellt mussten, und Sie haben 1 während des Tages verwendet, würde Ihre Anweisung zur täglichen Nutzung für diesen Tag angeben "25 Verbindungen / 30 Tage – verwendet: 1.000000”.</td>
+<td>Beispiel: Wenn Sie während eines Monats mit 30 Tagen über eine individuell bereitgestellte Verbindung verfügen, wird für Service Info 1 „1,000000 Verbindungen/30 Tage” angegeben. Wenn Sie über ein 25-Service-Paket mit Service Bus-Verbindungen verfügen und an diesem Tag 1 verwendet haben, gibt Ihre tägliche Nutzungs Erklärung für diesen Tag "25 Verbindungen/30 Tage – verwendet: 1,000000 ".</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -1024,7 +1024,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt und
 <p>Neu</p>
 </td>
 <td>
-<p>Verwendet, wenn eine neue Bestellung erstellt wurde</p>
+<p>Wird verwendet, wenn ein neuer Kauf erstellt wird</p>
 </td>
 
 <p></p>
@@ -1032,20 +1032,20 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt und
 </tr>
 <tr>
 <td>
-<p>addQuantity</p>
+<p>addmenge</p>
 </td>
 <td>
-<p>Sowohl die Erstattung von dem ursprünglichen Kauf und die neue Menge verwendet wird, nach dem erhöhen</p>
+<p>Wird sowohl bei der Rückerstattung des ursprünglichen Kaufs als auch bei der neuen Menge nach der Erhöhung verwendet.</p>
 </td>
 </tr>
 
 </tr>
 <tr>
 <td>
-<p>removeQuantity</p>
+<p>removemenge</p>
 </td>
 <td>
-<p>Sowohl die Erstattung von dem ursprünglichen Kauf und die neue Menge verwendet wird, nach dem Abnahme</p>
+<p>Wird sowohl bei der Rückerstattung des ursprünglichen Kaufs als auch bei der neuen Menge nach der Abnahme verwendet.</p>
 </td>
 </tr>
 
@@ -1055,7 +1055,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt und
 <p>Abbrechen</p>
 </td>
 <td>
-<p>Verwendet, wenn ein Abonnement gekündigt wird</p>
+<p>Wird verwendet, wenn ein Abonnement abgebrochen wird.</p>
 </td>
 </tr>
 
@@ -1065,7 +1065,7 @@ Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt und
 <p>Konvertieren</p>
 </td>
 <td>
-<p>Verwendet, wenn eine Lizenz wird aktualisiert, aber die Anzahl von Arbeitsplätzen unverändert bleibt</p>
+<p>Wird verwendet, wenn eine Lizenz aktualisiert wird, die Anzahl der Arbeitsplätze jedoch unverändert bleibt.</p>
 </td>
 </tr>
 

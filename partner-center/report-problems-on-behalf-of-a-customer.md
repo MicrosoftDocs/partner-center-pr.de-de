@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Serviceanfrage, Serviceticket, Support, Supportanspruch, AOBO, Azure-AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: af024782202bc2127b76277b29049e3d34f17215
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b43652e4d0e73b73bd4e0caf7f9eb4fc7f4a5bcd
+ms.sourcegitcommit: 9156f3a7711fae5e0f9a2c5f29e74e8791836c8e
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134060"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "67818754"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Melden von Problemen im Auftrag eines Kunden
 
@@ -58,7 +58,7 @@ In beiden Fällen können Sie das folgende Verfahren zum Erstellen einer Support
 
 1. Kopieren Sie den Domänennamen des Kunden von dessen Kontoseite in Partner Center.
 
-2. Wechseln Sie zu https://portal.azure.com/[customerdomainname]. 
+2. Wechseln Sie zu https://portal.azure.com/ [customerdomainname]. 
 
 3. Wählen Sie das Azure-Abonnement aus, für das Support benötigt wird.
 
@@ -87,15 +87,15 @@ So finden Sie Kontaktdaten des ISV:
     - Eine Support-E-Mail-Adresse 
     - Eine Supportrufnummer
 
-## <a name="faq"></a>Häufig gestellte Fragen
+## <a name="faq"></a>FAQ
 
 **Was ist Bestandteil des Supportanspruchs?**
 
-Serviceanfragen sollten über das Partner Center eingereicht werden. Sie sind für Azure, Microsoft Office 365, Microsoft Dynamics CRM Online und Enterprise Mobility Suite verfügbar. Als CSP-Partner haben Sie Priorität bei der Reaktionszeit für Ihre größten Probleme.
+Serviceanfragen sollten über das Partner Center eingereicht werden. Sie sind für Azure, Microsoft Office 365, Microsoft Dynamics CRM Online und Enterprise Mobility Suite verfügbar. Als Partner, der am Cloud Solution Provider-Programm teilnimmt, können Sie die Prioritäts Antwortzeit für Ihre wichtigsten Probleme erwarten.
 
 Die Unterstützung für Ihren eigenen Partnermandanten ist nicht Bestandteil des CSP-Supportvorteils. Für Office 365, Microsoft Dynamics CRM Online und Enterprise Mobility Suite werden jedoch keine separaten Abonnementgebühren für den Support für Partner oder Kunden berechnet. Azure erhebt eine Gebühr, aber wenn Sie Anspruch auf Signature Cloud Support oder andere Microsoft Partner Network (MPN)-Vorteile haben, können Sie damit die Gebühr bezahlen.
 
-Dieser Vorteil gilt für alle CSP-Partner, die bezahlen oder eine Testversion nutzen. Support für die Abrechnung und Abonnementverwaltung ist auch als kostenlose Komponente in diesem Paket enthalten.
+Dieser Vorteil gilt für alle Partner, die am Cloud Solution Provider-Programm teilnehmen, unabhängig davon, ob diese kostenpflichtig sind. Support für die Abrechnung und Abonnementverwaltung ist auch als kostenlose Komponente in diesem Paket enthalten.
 
 **Wie schnell erhalte ich eine erste Antwort?**
 
@@ -118,7 +118,7 @@ Nein, für dieses Programm wird kein telefonischer Support angeboten.
 
 Wenn Sie sich direkt beim Microsoft Azure-Portal anmelden, wird das Center in Ihrem eigenen Kontext angezeigt, nicht im Kontext eines Kunden. Aus diesem Grund sollten Sie sich nur direkt beim Microsoft Azure-Portal anmelden, wenn Sie eine Serviceanfrage für Ihre eigenen Abonnements erstellen.
 
-Ihre Berechtigung zu CSP-Support enthält keinen Support für Ihr eigenes Partnerabonnement. Wenn Sie eine Serviceanfrage erstellen, die sich auf Ihr eigenes Partnerabonnement bezieht, müssen Sie eine gültige Supportplanberechtigung nachweisen. Beispiele für Nachweise sind die MPN-Vertrags-ID, ein Premier- oder ein Azure-Supportplan. Informationen dazu finden Sie auf der Seite [Häufig gestellte Fragen zum Azure-Support](https://go.microsoft.com/fwlink/?LinkId=717532).
+Ihre CSP-Programm Unterstützungs Berechtigung bietet keine Unterstützung für Ihr eigenes Partner Abonnement. Wenn Sie also eine Service Request erstellen, die ihr eigenes Partner Abonnement betrifft, müssen Sie Ihre gültige Support Plan Berechtigung angeben. Beispiele für Nachweise sind die MPN-Vertrags-ID, ein Premier- oder ein Azure-Supportplan. Informationen dazu finden Sie auf der Seite [Häufig gestellte Fragen zum Azure-Support](https://go.microsoft.com/fwlink/?LinkId=717532).
 
 **Was geschieht, wenn ich mich beim Office 365 Admin Center-Portal anmelde und Partner Center umgehe?**
 
@@ -126,7 +126,7 @@ Wenn Sie sich direkt beim Office 365 Admin Center anmelden, wird das Center in 
 
 **Wie kann ich zusätzlichen Dynamics 365-Support anfordern?**
 
-Wenn Probleme im Zusammenhang mit Dynamics 365 Plan-Abonnements, Lizenzierung, Abrechnung, Finance & Operations, IURs auftreten oder Sie weitere technische Unterstützung benötigen:
+Wenn Probleme im Zusammenhang mit Dynamics 365 Planen von Abonnements, Lizenzierung, Abrechnung, Finanz & Vorgängen, Dynamics 365-Produktlizenzen oder benötigen technischen Support:
  
 Wenden Sie sich an [Dynamics-Support](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support).
 

@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fbd6e5e14c12e81cff4297b60b542ab0ccd5277
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 7777b281948f560666be154e4618b788782a474f
+ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667245"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "68376429"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Kontaktaufnahme mit Kunden im Partner Center
 
@@ -52,13 +52,13 @@ Beachten Sie, dass Sie eine Vertriebspartnerschaft mit einem Kunden aus Ihrem La
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Änderungen bei der Kundeneinladung
 
-Das Kundenerlebnis für die Annahme einer Vertriebspartnerschaftseinladung eines Cloud Solution Provider-Partners hat sich am 1. November 2018 geändert. Details zu den Änderungen finden Sie in der folgenden Tabelle. Weitere Informationen zu den neuen Funktionen im Microsoft Store für Unternehmen finden Sie unter [Arbeiten mit Lösungsanbietern im Microsoft Store für Unternehmen](https://docs.microsoft.com/en-us/microsoft-store/work-with-partner-microsoft-store-business).
+Die Kundenfreundlichkeit, eine Reseller Relationship-Einladung von einem Cloud Solution Provider-Partner zu akzeptieren, wird von verschiedenen Kundenportalen gehostet. Der Speicherort des Portals hängt davon ab, ob sich ein Kunde in einer Microsoft Public Cloud oder National Cloud befindet: 
 
-|  | Wo akzeptiert ein Kunde eine vor dem 1. November 2018 versandte Händlereinladung? | Wo akzeptiert ein Kunde eine nach dem 1. November 2018 versandte Händlereinladung? |
-|---------|---------|---------
-| Kunden in der Public Cloud | Microsoft Office-Verwaltungsportal | Microsoft Store für Unternehmen |
-| Kunden im Partner Center für Microsoft Cloud Deutschland | Microsoft Office-Verwaltungsportal | Microsoft Office-Verwaltungsportal |
-| Kunden im Partner Center für Microsoft Cloud for US Government | Microsoft Office-Verwaltungsportal | Microsoft Office-Verwaltungsportal |
+|  | Wo akzeptiert ein Kunde eine Reseller Relationship-Einladung? |
+|---------|---------
+| Kunden in der Public Cloud | Microsoft Store für Unternehmen |
+| Kunden im Partner Center für Microsoft Cloud Deutschland | Microsoft Office-Verwaltungsportal |
+| Kunden im Partner Center für Microsoft Cloud for US Government | Microsoft Office-Verwaltungsportal |
 |
 
 ## <a name="see-also"></a>Siehe auch

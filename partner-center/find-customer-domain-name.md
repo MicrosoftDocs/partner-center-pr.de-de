@@ -7,14 +7,14 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel, OSA, ISV, Umsatzzuordnung, Domänenname, Verzeichnis-ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 1a267de71c050ede872feaf6e1b24588fba74792
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2c8982fa25fb1eea4f0ec73e4a9102215f356816
+ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135650"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "68376416"
 ---
-#<a name="find-your-customers-domain-name-and-directory-id"></a>Ermitteln des Domänennamens und der Verzeichnis-ID Ihres Kunden
+# <a name="find-your-customers-domain-name-and-directory-id"></a>Ermitteln des Domänennamens und der Verzeichnis-ID Ihres Kunden
 
 **Gilt für**
 

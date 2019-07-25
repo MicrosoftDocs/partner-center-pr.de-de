@@ -1,138 +1,161 @@
 ---
 title: Sicherheitsanforderungen für Partner | Partner Center
 ms.topic: article
-ms.date: 06/25/2019
-description: Erfahren Sie, bis die sicherheitsanforderungen für Berater und Partner, die Teilnahme am Cloud Solution Provider-Programm.
+ms.date: 07/18/2019
+description: Erfahren Sie mehr über die Sicherheitsanforderungen für Berater und Partner, die am Cloud Solution Provider-Programm teilnehmen.
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider programmieren, CSP, Hersteller des Steuerelements-Panel, CPV, Multi-Factor-Authentication, MFA, secure-Anwendungsmodell, sicher app-Modell, Sicherheit
+keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider Program, CSP, System Steuerungs Hersteller, CPV, Multi-Factor Authentication, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f513b96619819cd6ba892625e47731170d22130
-ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.openlocfilehash: 0ce8a8dd5a58d1647c8d9e53dec0d0bbf7fe6592
+ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "67549536"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "68313936"
 ---
 # <a name="partner-security-requirements"></a>Sicherheitsanforderungen für Partner
 
 **Zielgruppe**
 
 - Alle Partner im Cloud Solution Provider-Programm
-  - Online-Dienst
-  - Indirekte Anbieter
+  - Direkt Rechnung
+  - Indirekter Anbieter
   - Indirekter Wiederverkäufer
-- Alle Anbieter von ASP.NET-Steuerelementen-Bereich
-- Alle Ratgeber.
+- Alle System Steuerungs Anbieter
+- Alle Berater
 
-Sicherheit und Schutz von Kunden und Partner sind obersten Prioritäten von Microsoft. Wir weiterhin eine zunehmende Anzahl von komplexere Sicherheitsangriffe, die in erster Linie mit gefährdete Identitäten verknüpft. Wie vorbeugende Maßnahmen zu ergreifen Steuerelemente eine wichtige Rolle in einer umfassenden Defense Strategie zum Verhindern von Angriffen spielen, beginnen wir erzwingen eine Reihe von obligatorischen sicherheitsanforderungen für die von Partnern und Kunden zu schützen.
+Größere Sicherheitsvorkehrungen und Sicherheit sind die wichtigsten Prioritäten. Wir wissen, dass es sich bei der besten Verteidigung um die Verhinderung von Schutzmaßnahmen handelt Aus diesem Grund müssen alle Benutzer in unserem Ökosystem agieren und sicherstellen, dass Sie über die entsprechenden Sicherheitsmaßnahmen verfügen. Um Partner und Kunden zu schützen, stellen wir eine Reihe von obligatorischen Sicherheitsanforderungen für Ratgeber, System Steuerungs Anbieter und Partner ein, die am Cloud Solution Provider-Programm teilnehmen.
+
+Ab dem 1. August 2019 müssen alle Partner die Multi-Factor Authentication für alle Benutzer, einschließlich der Dienst Konten, in Ihrem Partner Mandanten erzwingen.
 
 > [!NOTE]
-> Es wird dringend empfohlen, dass alle Partner, die Transaktion mit einer unabhängigen Cloud (21vianet betriebene, Deutschland und US Government) reagieren und diese neuen sicherheitsanforderungen sofort übernehmen. Diese Partner sind jedoch nicht erforderlich, für die neue effektive 1. August 2019 sicherheitsanforderungen. Microsoft bietet weitere Details in Bezug auf die Erzwingung von diesen sicherheitsanforderungen für sovereign Clouds in der Zukunft.
+> Es wird dringend empfohlen, dass alle Partner, die eine Sovereign Cloud (21ViaNet, US Government und Deutschland) durchlaufen, diese neuen Sicherheitsanforderungen sofort umsetzen. Diese Partner müssen jedoch die neuen Sicherheitsanforderungen ab dem 1. August 2019 nicht erfüllen. Microsoft wird in Zukunft weitere Details zur Durchsetzung dieser Sicherheitsanforderungen für unabhängige Clouds bereitstellen.
 
-## <a name="overview-of-the-requirements"></a>Übersicht über die Anforderungen
+Die Bedingungen, die den Sicherheitsanforderungen des Partners zugeordnet sind, wurden dem [Programmhandbuch für den Cloud Solution Provider](https://go.microsoft.com/fwlink/p/?LinkId=617100)hinzugefügt. Ab dem 1. August 2019 sollten alle an dem Cloud Solution Provider-Programm beteiligten Partner den Bedingungen entsprechen. Im Zusammenhang mit den Beratern sind dieselben vertraglichen Anforderungen vorhanden.
 
-Alle Partner, die berücksichtigt werden, in der Cloud Solution Provider-Programm, Anbieter von ASP.NET-Steuerelementen Bereich und Advisor-Partner sind zum Erzwingen der Multi-Factor Authentication (MFA) für jeden Benutzer, einschließlich von Dienstkonten in ihrem partnermandanten erforderlich. Dies ist möglich durch Aktivieren der zwei [Richtlinien für Azure Active Directory-Baseline](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection). Baseline-Richtlinien sind eine Reihe von vordefinierten Richtlinien, mit denen Organisationen mit vielen gängigen Angriffen zu schützen. Diese allgemeinen Angriffen zählen Kennwort Sprühende, Wiedergabe und Phishing. Baseline-Richtlinien stehen in allen Editionen von Azure Active Directory zur Verfügung. Microsoft wird diese Baseline-Schutzrichtlinien für jeden Kunden und Partner-erstklassigen Sicherheitsmethoden implementiert aktiveren verfügbar machen.
+Partner, die die obligatorischen Sicherheitsanforderungen nicht implementieren, können nicht im Cloud Solution Provider-Programm agieren oder Kunden Mandanten mit Delegierten Administratorrechten verwalten, sobald diese Anforderungen erzwungen werden. Wir stellen gerade eine technische Erzwingung für die Anforderungen her und Benachrichtigen Partner am Datum mit detaillierten Informationen.
 
-Die zwei basisoption für Richtlinien, die aktiviert werden soll, werden in der folgenden Tabelle beschrieben.
+## <a name="what-actions-do-i-need-to-take"></a>Welche Aktionen muss ich durchführen?
 
-|**Richtlinie**| |
-|-----|-----|
-|**Erfordern von MFA für Administratoren**|Aktivieren das erfordern von MFA für die Richtlinie für Administratoren, benötigen Benutzer in Administratorrollen für MFA über die Authenticator-App zu registrieren. Sobald MFA-Registrierung abgeschlossen ist, müssen Administratoren führen Sie die MFA jedes Mal, wenn sie sich anmelden.|
-|**Endbenutzer-Schutz**|Endbenutzer-Schutz ist eine benutzerrisiko basierenden MFA Baseline-Richtlinie, die von allen Benutzern in einem Verzeichnis geschützt. Durch Aktivieren dieser Richtlinie erfordert, dass alle Benutzer für MFA über die Authenticator-App zu registrieren. Benutzer können die MFA-Registrierung Eingabeaufforderung 14 Tage lang, ignorieren, nach denen sie blockiert werden an der Anmeldung, bis sie für MFA zu registrieren. Nach der Registrierung für MFA werden Benutzern nur während der riskanten Anmeldeversuche für MFA aufgefordert. Kompromittierte Benutzerkonten werden blockiert, bis ihr Kennwort zurückgesetzt, und Risikoereignisse geschlossen wurde haben.|
+Angesichts der hohen privilegierten Natur eines Partners müssen wir sicherstellen, dass jeder Benutzer über eine MFA-Herausforderung für jede einzelne Authentifizierung verfügt. Dies kann mit einer der folgenden Methoden erreicht werden:
 
-Wenn diese Richtlinien aktiviert sind, werden jeder Benutzer in Azure MFA ohne zusätzliche Kosten nutzen können. Wenn Sie eine Drittanbieter-Lösung verwenden, müssen Sie MFA für jeden Benutzer zu erzwingen, wenn Microsoft Commercial-Cloud-Dienste zugreifen.
+- Implementieren von Azure AD Premium und sicherstellen, dass die MFA für jeden Benutzer erzwungen wird
+- Implementieren der [baselineschutzrichtlinien](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)
+- Implementieren einer Drittanbieter Lösung und sicherstellen, dass die MFA für jeden Benutzer erzwungen wird
 
 > [!IMPORTANT]
-> Da der MFA für jeden Benutzer im Partnerverzeichnis erzwungen wird, werden Auswirkungen auf Automatisierung oder Integration, die Anmeldeinformationen des Benutzers verwendet. Um diese Auswirkungen zu beheben, müssen Sie die Möglichkeit zu ändern, die Ihre Automatisierung oder die Integration mit kommerziellen Microsoft-Clouddiensten verbindet. Wenn der Dienst, der Sie eine Verbindung mit unterstützt tokenbasierte Authentifizierung, es wird empfohlen, die Sie implementieren die [Secure-Anwendungsmodell-Framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).
-
-## <a name="what-actions-do-i-need-to-take"></a>Welche Aktionen werden benötigen? 
-
-Um sicherzustellen, dass Benutzer in der partnermandanten geschützt sind, ist es erforderlich, um MFA für jeden Benutzer (einschließlich Dienstkonten) zu erzwingen. Dies kann erreicht werden, indem Sie aktivieren die [erfordern von MFA für Administratoren](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) und [Endbenutzer Protection](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) basisoption für Richtlinien. Vor dem Aktivieren dieser Richtlinien, ist es wichtig zu verstehen, was sie tun und wie sie Automatisierung oder Integration und Ihre Benutzer auswirken.
-
-> [!NOTE]
-> [Basisoption für Richtlinien](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) wird ständig im Lauf der Zeit weiterentwickelt. Es wird empfohlen, die Dokumentation, um weitere Informationen zu die Entwicklung der Richtlinien in regelmäßigen Abständen zu überprüfen.
+> Wenn diese Anforderungen technisch durchgesetzt werden, muss jede einzelne Authentifizierung über eine MFA-Aufforderung verfügen. Sie können keine Funktion des bedingten Zugriffs verwenden, um die Authentifizierung mit MFA zu vermeiden, wenn Sie auf kommerzielle Clouddienste von Microsoft zugreifen.
 
 ### <a name="considerations"></a>Überlegungen
 
-Da die sicherheitsanforderungen für alle Benutzer in einem Partnerverzeichnis angewendet werden, müssen verschiedene Aspekte im Zusammenhang vorgenommen werden, um sicherzustellen, dass eine reibungslose Bereitstellung ein. Diese Überlegungen gehört das Identifizieren von Benutzern in Azure Active Directory, die nicht oder sollten nicht ausführen, MFA, als auch Anwendungen und Clients, die von Ihrer Organisation verwendet, die keine modernen Authentifizierung unterstützen.
+Da diese Anforderungen für alle Benutzer, einschließlich der Dienst Konten, in Ihrem Partner Mandanten gelten, müssen Sie mehrere Aspekte beachten, um eine reibungslose Bereitstellung zu gewährleisten. Zu diesen Überlegungen zählen die Identifizierung von Benutzern in Azure AD, die keine MFA durchführen können, sowie Anwendungen und Geräte, die von Ihrer Organisation verwendet werden und die keine moderne Authentifizierung unterstützen.
 
-#### <a name="self-service-password-reset"></a>Self-Service-Kennwortzurücksetzung
+Vor der Durchführung von Aktionen empfiehlt es sich, Folgendes zu identifizieren:
 
-Self-Service-kennwortzurücksetzung (SSPR) ist ein Azure Active Directory-Feature, das Mitarbeiter ihre Kennwörter zurücksetzen, ohne dass Kontakt mit IT-Supportmitarbeitern aufnehmen zu können. Mitarbeiter müssen sich für registrieren oder für die Self-service-kennwortzurücksetzung, bevor Sie mit dem Dienst registriert werden. Während der Registrierung wählt der Mitarbeiter eine oder mehrere Authentifizierungsmethoden, die von ihrer Organisation aktiviert.
+#### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-mfa-when-authenticating"></a>Verfügen Sie über eine Anwendung oder ein Gerät, die die Verwendung von MFA bei der Authentifizierung nicht unterstützt?
 
-SSPR ermöglicht Mitarbeitern, schnell abrufen aufgehoben und weiter ausgeführt, unabhängig davon, wo sie sind oder die Uhrzeit aus. Ermöglicht Benutzern, sich selbst zu entsperren, kann Ihre Organisation die nicht produktive Zeit und die hohe Supportkosten für die am häufigsten auftretenden Probleme mit Bezug auf Kennwörter verringern.
+Wenn Sie die MFA-Legacy Authentifizierung erzwingen, werden Protokolle wie IMAP, POP3, SMTP usw. blockiert, da diese Protokolle MFA nicht unterstützen. Um dieser Einschränkung zu genügen, kann ein Feature, das als App-Kenn [Wörter](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) bezeichnet wird, verwendet werden, um sicherzustellen, dass sich die Anwendung oder das Gerät Lesen Sie die Überlegungen zur Verwendung von App-Kenn Wörtern, die [hier](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) dokumentiert sind, um festzustellen, ob Sie in Ihrer Umgebung verwendet werden können
 
-Wenn die [Endbenutzer Schutz](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) Basisrichtlinie aktiviert ist jeder kompromittierte Benutzerkonten werden blockiert, bis ihr Kennwort zurückgesetzt, und Risikoereignisse geschlossen wurde haben. Vor diesem Hintergrund wird empfohlen, dass jeder Benutzer, ein globaler Administrator ist, führen Sie Folgendes für die Kennwortzurücksetzung registrieren
+#### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Gibt es eine Richtlinie, die verhindert, dass Benutzer Ihre mobilen Geräte bei der Arbeit verwenden?
 
-1. Navigieren Sie zu der [SSPR-Setup-Seite](https://aka.ms/ssprsetup)
-2. Geben Sie Benutzername und Kennwort
-3. Konfigurieren Sie mindestens eine der Optionen zur Überprüfung, die zum Überprüfen, wer Sie sind beim Zurücksetzen Ihres Kennworts verwendet werden.  
+Es ist wichtig, alle Unternehmensrichtlinien zu identifizieren, die die Verwendung mobiler Geräte durch Mitarbeiter während der Arbeit verhindern, da Sie sich auf die von Ihnen implementierte MFA-Lösung auswirken. Es gibt MFA-Lösungen, wie z. b. die, die durch die Implementierung der [Baseline-Richtlinien](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)bereitgestellt werden, die nur die Verwendung einer Authentifikator-App für die Überprüfung zulassen. Wenn Ihr Unternehmen über eine Richtlinie verfügt, die die Verwendung mobiler Geräte verhindert, sollten Sie sich den Erwerb [Azure AD Premium](https://azure.microsoft.com/pricing/details/active-directory/) für die betroffenen Benutzer ansehen, oder Sie können eine Drittanbieter Lösung implementieren, die die am besten geeignete Überprüfung bereitstellt. andere.
 
-Wenn Sie ein Konto kompromittiert wurde müssen ein Administrator Maßnahmen ergreifen, um den Zugriff für den betroffenen Benutzer wiederherzustellen. Finden Sie unter den [Schritte aus, um die Blockierung eines Benutzers aufheben](#recovering-compromised-accounts) ausführliche Informationen über den Prozess aus, um den Benutzer zuzulassen.
+#### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>Welche Automatisierung oder Integration haben Sie, die Benutzer Anmelde Informationen für die Authentifizierung nutzt?
 
-#### <a name="legacy-protocols"></a>Ältere Protokolle
+Da es erforderlich ist, die MFA für jeden Benutzer, einschließlich der Dienst Konten, zu erzwingen, wird jede Automatisierung oder Integration, die Benutzer Anmelde Informationen für die Authentifizierung nutzt, beeinträchtigt. Daher ist es wichtig, dass Sie identifizieren, welche Konten in diesen Situationen verwendet werden. Im folgenden finden Sie eine Liste mit Beispielen für Anwendungen oder Dienste, die berücksichtigt werden müssen.
 
-Ältere Authentifizierungsprotokolle (IMAP, SMTP, POP3, usw.) werden von e-Mail-Clients verwendet, um authentifizierungsanforderungen zu machen. Diese Protokolle bieten keine Unterstützung für MFA. Die meisten der kompromittierten Konten werden durch risikoteilnehmer ausführen Angriffe auf ältere Protokolle, die versuchen, die MFA zu umgehen, verursacht. Um sicherzustellen, dass die MFA erforderlich ist, bei der Anmeldung an einem Konto in ein Partnerverzeichnis und risikoteilnehmer sind nicht in der Lage, die MFA zu umgehen, werden diese sicherheitsanforderungen alle authentifizierungsanforderungen über ältere Protokolle blockiert.
+- Systemsteuerung, die für die Bereitstellung von Ressourcen im Namen Ihrer Kunden verwendet wird
+- Integration in eine beliebige Plattform, die für die Abrechnung verwendet wird (in Bezug auf das CSP-Programm) und ihre Kunden unterstützt
+- PowerShell-Skripts, die die Module AZ, azurerm, Azure AD, MS Online usw. verwenden
 
-### <a name="enabling-the-baseline-policies"></a>Aktivieren die basisoption für Richtlinien
+Die obige Liste ist nicht vollständig. Daher ist es wichtig, dass Sie eine vollständige Bewertung aller Anwendungen oder Dienste in Ihrer Umgebung durchführen, die Benutzer Anmelde Informationen für die Authentifizierung nutzt. Um die MFA-Anforderung zu erfüllen, sollten Sie die Anleitungen im [sicheren Anwendungsmodell Framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) implementieren, sofern möglich. Im folgenden finden Sie weitere Ressourcen, die Ihnen helfen zu verstehen, wie das sichere Anwendungsmodell Framework implementiert werden kann.
 
-Finden Sie unter den [implementieren die Partner Sicherheit Anforderungen Tutorial](tutorials/partner-security-requirements.yml) für eine Einführung in Bezug auf die Implementierung der Baselinerichtlinien.  
+- [Partner Center .net-Beispiele](https://github.com/microsoft/partner-center-dotnet-samples) : dieses GitHub-Repository enthält Beispiele, die mit .net entwickelt wurden und veranschaulichen, wie Sie das sichere Anwendungsmodell Framework implementieren können.
+- [Partner Center-Java-Beispiele](https://github.com/microsoft/partner-center-java-samples) : dieses GitHub-Repository enthält Beispiele, die mit Java entwickelt wurden, um zu veranschaulichen, wie das sichere Anwendungsmodell Framework implementiert werden kann.
+- [Partner Center PowerShell-sicheres Anwendungsmodell](https://docs.microsoft.com/powershell/partnercenter/secure-app-model) : in diesem Artikel finden Sie Informationen zum Implementieren des sicheren Anwendungsmodell-Frameworks mithilfe von PowerShell.
+- [Partner Center-Sicherheits Leit Faden Gruppe Community](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) : Dies ist eine Online-Community, in der Sie sich über bevorstehende Veranstaltungen informieren und Fragen stellen können, die Sie möglicherweise haben.
 
-#### <a name="require-mfa-for-admins"></a>Erfordern von MFA für Administratoren
+### <a name="enforcing-mfa-for-all-users"></a>Erzwingen der MFA für alle Benutzer
 
-Die *erfordern von MFA für Administrator* Basisrichtlinie erfordert MFA für die folgenden verzeichnisrollen, als die am häufigsten privilegierten Azure Active Directory-Rollen:
+In diesem Abschnitt wird erläutert, wie Sie die [Baseline-Schutzrichtlinien](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) verwenden können, um die MFA für jeden Benutzer (einschließlich Dienst Konten) in Ihrem Partner Mandanten zu erzwingen. Wenn Sie beabsichtigen, Azure AD Premium zu verwenden, führen Sie die [hier](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted)beschriebenen Schritte aus.
+
+> [!NOTE]
+> Eine Drittanbieter Lösung, die mit Azure AD kompatibel ist, kann verwendet werden, um die MFA für alle Benutzer, einschließlich Dienst Konten, zu erzwingen. Weitere Informationen zur Implementierung der Lösung finden Sie in der Dokumentation des Herstellers.
+
+Grundlegende Schutzrichtlinien sind eine Reihe vordefinierter Richtlinien, mit denen Organisationen vor vielen häufigen Angriffen geschützt werden. Diese häufigen Angriffe können Kenn Wort Spray, Wiedergabe und Phishing einschließen. Baselineschutzrichtlinien sind in allen Editionen von Azure Active Directory verfügbar. Microsoft stellt diese grundlegenden Schutzrichtlinien allen Benutzern zur Verfügung, um Kunden und Partnern die Implementierung von bewährten Sicherheitsmethoden zu ermöglichen.
+
+Die beiden grundlegenden Schutzrichtlinien, die aktiviert werden sollten, sind in der folgenden Tabelle beschrieben.
+
+|**Richtlinie**| |
+|-----|-----|
+|**MFA für Administratoren erforderlich**|Wenn Sie die Richtlinie MFA für Administratoren anfordern aktivieren, müssen sich Benutzer in den Administrator Rollen mithilfe der Authenticator-App für MFA registrieren. Nachdem die MFA-Registrierung fertiggestellt wurde, müssen Administratoren bei jeder Anmeldung MFA durchführen.|
+|**Endbenutzer Schutz**|Der Endbenutzer Schutz ist eine risikobasierte MFA-baselineschutzrichtlinie, mit der alle Benutzer in einem Verzeichnis geschützt werden. Wenn Sie diese Richtlinie aktivieren, müssen sich alle Benutzer mithilfe der Authenticator-App für MFA registrieren. Benutzer können die Eingabeaufforderung für die MFA-Registrierung 14 Tage lang ignorieren. Danach wird die Anmeldung blockiert, bis Sie sich für MFA registrieren. Nach der Registrierung für MFA werden Benutzer nur bei riskanten Anmelde versuchen zur Eingabe der MFA aufgefordert. Kompromittierte Benutzerkonten werden blockiert, bis Ihr Kennwort zurückgesetzt und Risiko Ereignisse verworfen wurden.|
+
+Wenn diese Richtlinien aktiviert sind, kann jeder Benutzer Azure MFA mithilfe der Authenticator-App für die Überprüfung ohne zusätzliche Kosten Nutzen.
+
+#### <a name="configure-self-service-password-reset"></a>Self Service-Kenn Wort Zurücksetzung konfigurieren
+
+Die Self-Service-Kenn Wort Zurücksetzung (Self-Service Password Reset, sspr) ist ein Azure Active Directory Feature, mit dem Benutzer ihre Kenn Wörter zurücksetzen können, ohne dass Sie sich Benutzer müssen sich für die Self-Service-Kenn Wort Zurücksetzung registrieren oder Sie registrieren, bevor Sie den Dienst verwenden. Während der Registrierung wählt der Benutzer eine oder mehrere Authentifizierungsmethoden aus, die von seiner Organisation aktiviert wurden.
+
+Wenn die Schutzrichtlinie für den [Endbenutzer Schutz](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) aktiviert ist, werden alle kompromittierten Benutzerkonten blockiert, bis Ihr Kennwort zurückgesetzt wird und die Risiko Ereignisse verworfen wurden. Es wird empfohlen, dass jeder Benutzer, der ein globaler Administrator ist, die folgenden Aktionen ausführt, um sich für sspr zu registrieren, damit diese nicht gesperrt werden.
+
+1. Navigieren Sie zur [Seite sspr-Setup](https://aka.ms/ssprsetup) .
+2. Benutzernamen und Kennwort eingeben
+3. Konfigurieren Sie mindestens eine der Überprüfungs Optionen, die verwendet werden, um zu überprüfen, ob Sie das Kennwort zurücksetzen.  
+
+Wenn ein Konto kompromittiert wurde, muss der Administrator Maßnahmen ergreifen, um den Zugriff für den betroffenen Benutzer wiederherzustellen. Weitere Informationen zum Vorgang zum Entsperren des Benutzers finden [Sie in den Schritten zum Entsperren eines Benutzers](#recovering-compromised-accounts) .
+
+#### <a name="require-mfa-for-admins"></a>MFA für Administratoren erforderlich
+
+Die Baseline-Richtlinie *MFA für Admin erforderlich* erfordert MFA für die folgenden Verzeichnis Rollen, die als privilegierteste Azure Active Directory Rollen gelten:
 
 - Globaler Administrator
-- SharePoint-administrator
-- Exchange-administrator
+- SharePoint-Administrator
+- Exchange-Administrator
 - Administrator für bedingten Zugriff
 - Sicherheitsadministrator
-- Helpdesk-Administrator / kennwortadministrator
+- Helpdesk-Administrator/Kenn Wort Administrator
 - Rechnungsadministrator
-- Benutzeradministrator
+- Benutzer Administrator
 
-Beim Aktivieren der erfordern von MFA für Administratoren Richtlinie, die oben genannten neun Administratorrollen müssen für die Authenticator-App mit MFA zu registrieren. Sobald MFA-Registrierung abgeschlossen ist, müssen Administratoren, die MFA jedes Mal auszuführen, das Sie sich, das anmelden.
+Wenn Sie die Richtlinie MFA für Administratoren anfordern aktivieren, sind die oben genannten neun Administrator Rollen erforderlich, um sich mit der Authenticator-App für MFA zu registrieren. Nachdem die MFA-Registrierung durchgeführt wurde, müssen Administratoren die MFA jedes Mal ausführen, wenn Sie sich anmelden.
 
-Verfügt Ihre Organisation diese Konten in Skripts oder Code verwendet, beachten Sie, und Ersetzen Sie dabei mit [verwaltet Identitäten](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).
+Wenn in Ihrer Organisation diese Konten in Skripts oder Codes verwendet werden, sollten Sie Sie in Erwägung gezogen, Sie durch [verwaltete Identitäten](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)zu ersetzen.
 
-So aktivieren Sie diese Richtlinie, und schützen Ihre Administratoren:
+So aktivieren Sie diese Richtlinie und schützen Ihre Administratoren:
 
-1. Melden Sie sich bei der **Azure-Portal** als globaler Administrator, Sicherheitsadministrator oder Administrator für bedingten Zugriff.
-2. Navigieren Sie zu **Azure Active Directory** > **für den bedingten Zugriff**.
-3. Wählen Sie in der Liste der Richtlinien, **Basisrichtlinie: Erfordern von MFA für Administratoren**.
-4. Legen Sie **Richtlinie aktivieren** zu **Richtlinie sofort verwenden**.
-5. Klicken Sie auf **speichern**.
-
-    ![Erfordern von MFA für Administratoren](images/security/baseline-policy-require-mfa-for-admins.png)
+1. Melden Sie sich beim **Azure-Portal** als globaler Administrator, Sicherheits Administrator oder Administrator für den bedingten Zugriff an.
+2. Navigieren Sie zu **Azure Active Directory** > **bedingter Zugriff**.
+3. Wählen Sie **in der Liste der Richtlinien die Option Baseline-Richtlinie: Erfordert MFA für Administratoren**.
+4. Legen Sie Richt **Linie aktivieren** auf **Richtlinie sofort verwenden**fest.
+5. Klicken Sie auf **Speichern**.
 
 > [!WARNING]
-> Bevor Sie diese Richtlinie aktivieren, stellen Sie sicher, dass die Benutzer die ältere Authentifizierungsprotokolle nicht verwenden. Finden Sie im Artikel [Vorgehensweise: Block ältere Authentifizierung mit Azure Active Directory mit dem bedingten Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) für Weitere Informationen.
+> Bevor Sie diese Richtlinie aktivieren, stellen Sie sicher, dass Ihre Benutzer keine Legacy Authentifizierungsprotokolle verwenden. Durch die Implementierung dieser Richtlinie wird die Legacy Authentifizierung blockiert.
 
 > [!IMPORTANT]
-> Es ist ein bekanntes Problem, die Ihre Fähigkeit zum Verbinden mit Exchange Online-PowerShell mit Administratorrechten für delegierte wirkt sich auf. Finden Sie unter den [Exchange Online-PowerShell](#exchange-online-powershell) bekanntes Problem, bevor Sie diese Richtlinie aktivieren, wenn Sie die Verwendung dieses PowerShell-Moduls.
+> Es gibt ein bekanntes Problem, das sich auf ihre Fähigkeit zum Herstellen einer Verbindung mit Exchange Online PowerShell mithilfe Delegierter Administratorrechte auswirkt. Wenn Sie dieses PowerShell-Modul verwenden, sehen Sie sich das bekannte Problem von [Exchange Online PowerShell](#exchange-online-powershell) an, bevor Sie diese Richtlinie aktivieren.
 
-#### <a name="end-user-protection"></a>Endbenutzer-Schutz
+#### <a name="end-user-protection"></a>Endbenutzer Schutz
 
-Die Endbenutzer Baseline Schutzrichtlinie schützt alle Benutzer in einem Verzeichnis. Durch Aktivieren dieser Richtlinie erfordert, dass alle Benutzer innerhalb von 14 Tagen für Azure MFA registriert. Nach der Registrierung werden Benutzern nur während der riskanten Anmeldeversuche für MFA aufgefordert. Kompromittierte Benutzerkonten werden blockiert, bis das Kennwort zurücksetzen und Kündigung besteht das Risiko.
+Die Baseline-Richtlinie für den Endbenutzer Schutz schützt alle Benutzer in einem Verzeichnis. Wenn Sie diese Richtlinie aktivieren, müssen sich alle Benutzer innerhalb von 14 Tagen für Azure MFA registrieren. Nach der Registrierung werden Benutzer nur bei riskanten Anmelde versuchen zur Eingabe von MFA aufgefordert. Kompromittierte Benutzerkonten werden blockiert, bis das Zurücksetzen des Kennworts und das Risiko von
 
-Die Richtlinie **Basisrichtlinie: Schutz der Endbenutzer** ist vorkonfiguriert und wird am Anfang angezeigt, wenn Sie zum Blatt für den bedingten Zugriff im Azure-Portal navigieren.
+Richtlinien **Basis Richtlinie: Der Endbenutzer** Schutz ist vorkonfiguriert und wird am oberen Rand angezeigt, wenn Sie in Azure-Portal zum Blatt "bedingter Zugriff" navigieren.
 
-So aktivieren Sie diese Richtlinie, und Ihre Benutzer schützen:
+So aktivieren Sie diese Richtlinie und schützen Ihre Benutzer:
 
-1. Melden Sie sich bei der **Azure-Portal** als globaler Administrator, Sicherheitsadministrator oder Administrator für bedingten Zugriff.
-2. Navigieren Sie zu **Azure Active Directory** > **für den bedingten Zugriff**.
-3. Wählen Sie in der Liste der Richtlinien, **Basisrichtlinie: Endbenutzer Protection (Vorschau)** .
-4. Legen Sie **Richtlinie aktivieren** zu **Richtlinie sofort verwenden**.
-5. Klicken Sie auf **speichern**.
-
-    ![Endbenutzer-Schutz](images/security/baseline-policy-end-user-protection.png)
+1. Melden Sie sich beim **Azure-Portal** als globaler Administrator, Sicherheits Administrator oder Administrator für den bedingten Zugriff an.
+2. Navigieren Sie zu **Azure Active Directory** > **bedingter Zugriff**.
+3. Wählen Sie **in der Liste der Richtlinien die Option Baseline-Richtlinie: Endbenutzer Schutz (Vorschau)** .
+4. Legen Sie Richt **Linie aktivieren** auf **Richtlinie sofort verwenden**fest.
+5. Klicken Sie auf **Speichern**.
 
 > [!WARNING]
-> Bevor Sie diese Richtlinie aktivieren, stellen Sie sicher, dass die Benutzer die ältere Authentifizierungsprotokolle nicht verwenden. Finden Sie im Artikel [Vorgehensweise: Block ältere Authentifizierung mit Azure Active Directory mit dem bedingten Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) für Weitere Informationen.
+> Bevor Sie diese Richtlinie aktivieren, stellen Sie sicher, dass Ihre Benutzer keine Legacy Authentifizierungsprotokolle verwenden. Durch die Implementierung dieser Richtlinie wird die Legacy Authentifizierung blockiert.
 
 > [!IMPORTANT]
-> Es gibt eine bekannte Probleme, die Ihre Fähigkeit zum Verbinden mit Exchange Online-PowerShell mit Administratorrechten für delegierte wirkt sich auf. Finden Sie unter den [Exchange Online-PowerShell](#exchange-online-powershell) bekanntes Problem, bevor Sie diese Richtlinie aktivieren, wenn Sie die Verwendung dieses PowerShell-Moduls.
+> Es gibt bekannte Probleme, die sich auf ihre Fähigkeit zum Herstellen einer Verbindung mit Exchange Online PowerShell mithilfe Delegierter Administratorrechte auswirken. Wenn Sie dieses PowerShell-Modul verwenden, sehen Sie sich das bekannte Problem von [Exchange Online PowerShell](#exchange-online-powershell) an, bevor Sie diese Richtlinie aktivieren.
 
 ## <a name="common-issues"></a>Allgemeine Probleme
 
@@ -140,56 +163,49 @@ So aktivieren Sie diese Richtlinie, und Ihre Benutzer schützen:
 
 #### <a name="aadsts50076"></a>AADSTS50076
 
-Nach der Aktivierung die basisoption für Richtlinien, können Sie feststellen, dass Ihre Automatisierung oder Integration eine Ausnahme wie die folgende aufgetreten ist
+Nach dem Aktivieren der Baseline-Richtlinien können Sie feststellen, dass bei der Automatisierung oder Integration eine Ausnahme wie die folgende auftritt.
 
     AADSTS50076: Due to a configuration change made by your administrator, or because you moved to a new location, you must use multi-factor authentication to access 'MyApp'.
 
-Der Grund für diese Ausnahme ist, dass Sie die Authentifizierung mit Benutzeranmeldeinformationen und MFA jetzt ist erforderlich. Um diese Ausnahme zu beheben, müssen Sie ein Zugriffstoken für die Authentifizierung zu verwenden. Finden Sie unter den [Secure-Anwendungsmodell-Handbuch](http://assetsprod.microsoft.com/secure-application-model-guide.pdf) für Weitere Informationen.
+Der Grund für diese Ausnahme ist, dass Sie eine Authentifizierung mit Benutzer Anmelde Informationen durchzuführen und MFA nun erforderlich ist. Um diese Ausnahme zu beheben, müssen Sie ein Zugriffs Token für die Authentifizierung verwenden. Weitere Informationen finden Sie im [Handbuch zum sicheren Anwendungsmodell](http://assetsprod.microsoft.com/secure-application-model-guide.pdf) .
 
 >[!IMPORTANT]
->Die meisten modernen-APIs und PowerShell-Module unterstützt die Möglichkeit, ein Zugriffstoken für die Authentifizierung zu verwenden. Es gibt jedoch einige, die diese Funktion derzeit nicht unterstützt. Hiermit wird eine Nachricht bei Bedarf bei der Entscheidung, wenn das Modul-API oder PowerShell Sie versuchen, nutzen Sie unterstützt die Verwendung eines Zugriffstokens für die Authentifizierung, klicken Sie dann auf die [Partner Center Anleitungen Sicherheitsgruppe](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) Community.
+>Die meisten modernen APIs und PowerShell-Module unterstützen die Verwendung eines Zugriffs Tokens für die Authentifizierung. Es gibt jedoch einige, die diese Funktion derzeit nicht unterstützen. Wenn Sie Hilfe benötigen, um zu ermitteln, ob die zu verwendende API oder das PowerShell-Modul die Verwendung eines Zugriffs Tokens für die Authentifizierung unterstützt, senden Sie eine Nachricht in der [Partner Center-Sicherheits Leit Faden-Gruppen](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) Community.
 
 #### <a name="aadsts700082"></a>AADSTS700082
 
-Nachdem Sie das Anwendungsmodell Secure-Framework implementiert haben besteht die Möglichkeit, die Sie die folgende Ausnahme erhalten 90 Tage nach dem Generieren des ursprünglichen aktualisierungstokens, das
+Nachdem Sie das sichere Anwendungsmodell Framework implementiert haben, besteht die Möglichkeit, dass Sie nach dem Erstellen des ersten Aktualisierungs Tokens 90 Tage die folgende Ausnahme erhalten.
 
     The refresh token has expired due to inactivity. The token was issued on 2019-01-02T09:19:53.5422744Z and was inactive for 90.00:00:00
 
-In Bezug auf Azure Active Directory ist die maximale Lebensdauer für eine Aktualisierung Token 90 Tage. Um diesen Fehler zu beheben, müssen Sie zum Generieren und ein neues Aktualisierungstoken sicher zu speichern. Beachten Sie, dass es ist möglich, das Aktualisierungstoken, das programmgesteuert aktualisiert werden, da mit jeder Anforderung an Azure Active Directory für ein Zugriffstoken für den ein neues Aktualisierungstoken zurückgegeben wird. Sie können die entsprechende Logik, um das sicher gespeicherte Aktualisierungstoken, das zu aktualisieren, bevor es abläuft, implementieren.
+In Bezug auf Azure Active Directory die maximale Lebensdauer für ein Aktualisierungs Token 90 Tage. Um diesen Fehler zu beheben, müssen Sie ein neues Aktualisierungs Token generieren und sicher speichern. Beachten Sie, dass es möglich ist, das Aktualisierungs Token Programm gesteuert zu aktualisieren, da bei jeder Anforderung zum Azure Active Directory für ein Zugriffs Token ein neues Aktualisierungs Token zurückgegeben wird. Sie können die entsprechende Logik implementieren, um das sicher gespeicherte Aktualisierungs Token zu aktualisieren, bevor es abläuft.
 
-Finden Sie unter [konfigurierbare tokengültigkeitsdauern in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) für Weitere Informationen.
+Weitere Informationen finden Sie [unter konfigurierbare tokengültzeiten in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) .
 
-### <a name="recovering-compromised-accounts"></a>Wiederherstellen von kompromittierte Konten zu beseitigen
+### <a name="recovering-compromised-accounts"></a>Wiederherstellen kompromittierter Konten
 
-Zum Schutz unserer Kunden sucht kompromittierte Anmeldeinformationen-Dienst von Microsoft öffentlich verfügbaren Benutzername/Kennwort-Paare. Wenn sie einer unserer Benutzer übereinstimmen, unterstützen wir das Konto sofort zu sichern. Benutzer mit kompromittierten Anmeldeinformationen identifiziert werden bestätigt gefährdet. Diese Benutzer werden für die Anmeldung sein Kennwort zurückgesetzt wird blockiert werden.
+Der kompromittierte Anmelde Informationsdienst von Microsoft findet öffentlich verfügbare Benutzername/Kennwort-Paare, um unsere Kunden zu schützen. Wenn Sie einem unserer Benutzer entsprechen, können wir dieses Konto sofort sichern. Benutzer, deren Anmelde Informationen mit einem kompromittierten Anmelde Informations Nachweis gekennzeichnet sind, sind gefährdet. Diese Benutzer werden daran gehindert, sich anzumelden, bis Ihr Kennwort zurückgesetzt wird.
 
-Benutzer, die Azure AD Premium-Lizenz zugewiesen können den Zugriff über das Self-Service-kennwortzurücksetzung (SSPR) wiederherstellen, wenn die Funktion in ihrem Verzeichnis aktiviert ist. Benutzer ohne Premium-Lizenz, die blockiert werden, müssen Sie einen Administrator führen Sie ein manuelles Zurücksetzen des Kennworts, und schließen das Risikoereignis gekennzeichneter Benutzer bitten.
+Benutzer, denen eine Azure AD Premium Lizenz zugewiesen ist, können den Zugriff über die Self-Service-Kenn Wort Zurücksetzung (sspr) wiederherstellen, wenn die Funktion in Ihrem Verzeichnis aktiviert ist Benutzer ohne Premium-Lizenz, die blockiert werden, müssen sich an einen Administrator wenden, um ein manuelles Zurücksetzen des Kennworts auszuführen und das gekennzeichnete Benutzer Risiko Ereignis abzulegen.
 
-#### <a name="steps-to-unblock-a-user"></a>Schritte zum Entsperren Sie einen Benutzer
+#### <a name="steps-to-unblock-a-user"></a>Schritte zum Entsperren eines Benutzers
 
-Vergewissern Sie sich, dass der Benutzer durch Untersuchen der anmeldeprotokolle des Benutzers von der Richtlinie blockiert wurde.
+Vergewissern Sie sich, dass der Benutzer durch die Richtlinie blockiert wurde, indem Sie die Anmelde Protokolle des Benutzers überprüfen.
 
-1. Der Administrator muss die Anmeldung bei der **Azure-Portal** und navigieren Sie zu **Azure Active Directory** > **Benutzer** > Klicken Sie auf den Namen des Benutzers ein, und navigieren Sie mit Anmeldungen.
-2. Um das Zurücksetzen von Kennwörtern auf ein blockierter Benutzer initiieren zu können, muss ein Administrator, zu dem navigiert **Azure Active Directory** > **Benutzer mit risikomarkierung**
-3. Klicken Sie auf der Benutzer, dessen Konto blockiert wird, um Informationen über die Aktivität des Benutzers zuletzt verwendete Anmeldung anzuzeigen.
-4. Klicken Sie auf "Kennwort zurücksetzen", um ein temporäres Kennwort zuzuweisen, das nach der nächsten Anmeldung geändert werden muss.
-5. Klicken Sie auf Schließen Sie alle Ereignisse, die risikobewertung des Benutzers zurücksetzen.
+1. Ein Administrator muss sich beim **Azure-Portal** anmelden und zu **Azure Active Directory** > **Benutzer** Navigieren > auf den Namen des Benutzers klicken und zu Anmeldungen navigieren.
+2. Um die Kenn Wort Zurücksetzung für einen gesperrten Benutzer zu initiieren, muss ein Administrator zu **Azure Active Directory** > **Benutzer mit Risiko Markierung** navigieren.
+3. Klicken Sie auf den Benutzer, dessen Konto blockiert ist, um Informationen zur aktuellen Anmelde Aktivität des Benutzers anzuzeigen.
+4. Klicken Sie auf Kennwort zurücksetzen, um ein temporäres Kennwort zuzuweisen, das bei der nächsten Anmeldung geändert werden muss
+5. Klicken Sie auf alle Ereignisse verwerfen, um die Risikobewertung des Benutzers zurückzusetzen.
 
-Der Benutzer kann jetzt melden Sie sich, sein Kennwort zurücksetzen und auf die Anwendung zugreifen.
+Der Benutzer kann sich jetzt anmelden, sein Kennwort zurücksetzen und auf die Anwendung zugreifen.
 
 ## <a name="known-issues"></a>Bekannte Probleme
 
 ### <a name="exchange-online-powershell"></a>Exchange Online-PowerShell
 
-Wenn MFA aktiviert ist werden Partner nicht ihre delegierte Administratorrechte mit Exchange Online-PowerShell zum Ausführen von Aktionen für ihre Kunden nutzen können. Finden Sie unter [Herstellen einer Verbindung mit Exchange Online-PowerShell Multi-Factor Authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) für Weitere Informationen zu dieser Einschränkung.
+Wenn MFA aktiviert ist, können Partner ihre delegierten Administratorrechte mit Exchange Online PowerShell nicht nutzen, um Aktionen für Ihre Kunden auszuführen. Weitere Informationen zu dieser Einschränkung finden [Sie unter Herstellen einer Verbindung mit Exchange Online PowerShell mithilfe von Multi-Factor Authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) .
 
-## <a name="resources-and-support"></a>Ressourcen und support
+## <a name="resources-and-support"></a>Ressourcen und Support
 
-Durch die [Partner Center Anleitungen Sicherheitsgruppe Community](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) können Sie zusätzliche Ressourcen finden und erfahren Sie mehr über bevorstehende Ereignisse wie z. B. technische Office Stunden. Finden Sie unter den [häufig gestellte Fragen](http://assetsprod.microsoft.com/security-requirements-faq.pdf) Dokument Weitere Informationen zu den Anforderungen.
-
-### <a name="developers"></a>Entwickler
-
-- [Aktivieren das Modell für die sichere Anwendung](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [Partner Center-Beispiele für .NET](https://github.com/microsoft/partner-center-dotnet-samples)
-- [Partner Center-Java-Beispiele](https://github.com/microsoft/partner-center-java-samples)
-- [Implementieren das Modell für die sichere Anwendung Partner Center-PowerShell](https://docs.microsoft.com/powershell/partnercenter/secure-app-model)
+Mithilfe der [Partner Center-Sicherheits Leit Faden-Gruppen Community](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) können Sie weitere Ressourcen finden und sich über bevorstehende Veranstaltungen wie z. b. technische Bürostunden informieren. Weitere Informationen zu den Anforderungen finden Sie im Dokument [häufig gestellte Fragen](http://assetsprod.microsoft.com/security-requirements-faq.pdf) .

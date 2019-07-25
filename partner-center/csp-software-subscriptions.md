@@ -8,18 +8,18 @@ ms.author: evansma
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Azure RI, Windows Server, SQL Server, Softwareabonnements
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2a38ace2eb565ca0264d9d4154b4a9876f434494
-ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.openlocfilehash: 60ea2b3b5d497e60b243112748780c2f20c59735
+ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "66176188"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "68376423"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Verkaufen von Softwareabonnements über CSP
 
-Mit Azure-Reservierungen und serverabonnements (Windows Server und SQL Server-Abonnements) bessere Partner im CSP-Programm können Adresse, die schnell wachsende Nachfrage nach kosteneffizienteren Lösungen zur Unterstützung von vorhersehbar und persistente Cloud-Workloads. 
+Mit Azure-Reservierungen und Server Abonnements (Windows Server-und SQL Server-Abonnements) können Partner im CSP-Programm die fast wachsende Kundennachfrage für kostengünstigere Lösungen besser erfüllen, um hochgradig vorhersagbare und persistente Lösungen zu unterstützen. Cloud-Workloads. 
 
-Sie können jetzt erwerben, bereitstellen und Verwalten von Azure-Reservierungen und serverabonnements im Namen von kommerziellen Kunden über Partner Center und das Azure-Portal durch Nutzen der Azure-Hybridvorteil. 
+Sie können jetzt Azure-Reservierungen und Server Abonnements im Auftrag von kommerziellen Kunden über Partner Center und das Azure-Portal erwerben, bereitstellen und verwalten, indem Sie die Azure-Hybridvorteil nutzen. 
 
 Der Azure-Hybridvorteil unterstützt Sie darin, mehr Wert aus den Windows Server-Lizenzen zu erhalten und bei virtuellen Computern bis zu 40 Prozent zu sparen. Sie können mit Windows Server Datacenter und Standard Edition-Lizenzen mit Software Assurance in den Genuss des Vorteils kommen. Je nach Edition können Sie Ihre Lizenzen zum Ausführen von Windows Server-VMs in Azure konvertieren oder erneut verwenden und einen niedrigeren Computetarif (z.B. Tarife für Linux-VMs) zahlen.
 
@@ -30,6 +30,7 @@ Der Azure-Hybridvorteil unterstützt Sie darin, mehr Wert aus den Windows Server
 > * China
 > * Indonesien
 > * Liechtenstein
+> * Jersey
 > * Malaysia
 > * Mexiko
 > * Russland
@@ -60,15 +61,15 @@ Nachdem Sie das Softwareabonnement erworben haben, führen Sie die folgenden Sch
 >[!NOTE]
 >Dieser Link läuft nach zwei Wochen bzw. 50 Downloads ab, je nachdem, was zuerst eintritt. Kehren Sie nach Ablauf des Links zu dieser Seite zurück, und wählen Sie erneut **Schlüssel und Downloads abrufen** aus, um ihn für weitere zwei Wochen oder 50 Downloads zu aktivieren. Sie können dies beliebig oft tun. 
 
-## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Aktivität für Schlüssel Zugriff auf Software und Software-Downloads anzeigen
-Für die Überwachung oder Compliance Zwecken verwendet werden können müssen Sie möglicherweise eine Liste von Benutzern zu überprüfen, die Zugriff auf Software von Serverschlüssel-Abonnement oder Abonnement Serversoftware heruntergeladen haben. Verwenden Sie das folgende Verfahren, um diese Informationen zuzugreifen. 
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Aktivität für Software Schlüssel Zugriff und Software Downloads anzeigen
+Zu Überwachungs-oder Konformitäts Zwecken müssen Sie möglicherweise eine Liste der Benutzer überprüfen, die entweder auf Server-Abonnement-Software Schlüssel oder heruntergeladene Server Abonnement Software zugegriffen haben. Verwenden Sie das folgende Verfahren, um auf diese Informationen zuzugreifen. 
 
 >[!NOTE]
->Sie müssen ein globaler Administrator, Kontoadministrator, Verweis-Administrator, oder Content Marketing-Administrator zu diesen Protokollen finden Sie unter sein. 
+>Sie müssen ein globaler Administrator, Konto Administrator, Referenz Administrator oder Marketing Inhalts Administrator sein, um diese Aktivitäts Protokolle anzuzeigen. 
 
-1.  Wählen Sie im Partner Center das Zahnradsymbol in der oberen rechten Ecke. 
-2.  Wählen Sie im Menü **Aktivitätsprotokoll**.
-3.  Geben Sie den Datumsbereich für die Aktivität, die Sie anzeigen möchten. Das Aktivitätsprotokoll zeigt eine Liste der Benutzer, die Zugriff auf Software-Lizenzschlüssel oder Software heruntergeladen, während der Zeit, die Sie angegeben haben. 
+1.  Wählen Sie in Partner Center das Zahnrad Symbol in der oberen rechten Ecke aus. 
+2.  Wählen Sie im Menü **Aktivitätsprotokoll**aus.
+3.  Geben Sie den Datumsbereich für die Aktivität ein, die Sie anzeigen möchten. Im Aktivitätsprotokoll wird eine Liste der Benutzer angezeigt, die während des angegebenen Zeitraums entweder auf Software Schlüssel zugegriffen haben oder Software heruntergeladen haben. 
 
 ## <a name="cancel-a-purchase"></a>Stornieren eines Einkaufs
 

@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: temporäres Kennwort, Kennwort ändern, Kennwort zurücksetzen
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f2eb404182919091d28a8b18be5239acbcc90ee
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 213a994b5459c625ba9c9d384e3f01fcd25d2b67
+ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668512"
+ms.lasthandoff: 07/22/2019
+ms.locfileid: "68376440"
 ---
 # <a name="change-your-temporary-password"></a>Ändern Ihres temporären Kennworts
 
@@ -22,7 +22,7 @@ ms.locfileid: "64668512"
 
 Melden Sie sich beim Partner Center an, und ändern Sie das temporäre Kennwort.
 
-Sobald Sie vom globalen Administrator das temporäre Kennwort erhalten haben, melden Sie sich beim Partner Center an, und ändern Sie es. Wenn Sie ein Incentiveadministrator sind, ermöglicht dies den Abschluss der Migration der Incentiveregistrierung Ihrer Organisation. Wenn Sie Incentivebenutzer sind, können Sie dann auf alle Ihre Incentivedaten zugreifen.
+Sobald Sie Ihr temporäres Kennwort vom globalen Administrator erhalten, melden Sie sich beim Partner Center an, und ändern Sie es. Wenn Sie ein Anreizadministrator sind, ermöglicht dies den Abschluss der Migration der Anreizregistrierung Ihrer Organisation. Wenn Sie Incentivebenutzer sind, können Sie dann auf alle Ihre Incentivedaten zugreifen.
 
 1.  Melden Sie sich im **Partner Center** mit der neuen Benutzer-ID und dem temporären Kennwort an.
 

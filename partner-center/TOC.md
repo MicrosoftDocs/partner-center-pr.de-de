@@ -3,7 +3,8 @@
 # [Mitgliedschaft im Partnernetzwerk](mpn-overview.md)
 ## [Partner Center-Konto erstellen](mpn-create-a-partner-center-account.md)
 ## [Beziehen einer geschäftlichen E-Mail-Adresse](buy-email-domain.md)
-## Umstellung von PMC auf Partner Center
+## [Umstellung vom Admin Center für Partner auf Partner Center](pac-to-pc-overview.md)
+## Umstellung von Partner Membership Center auf Partner Center
 ### [Vorbereiten der Umstellung von Partner Membership Center auf Partner Center](prepare-pmc-pc-migration.md)
 ### [Anleitung für die Umstellung von PMC auf Partner Center](guide-to-migration.md)
 ### [Kurze Übersicht über die Unterschiede zwischen PMC und PC](move-pmc-pc-map.md)
@@ -123,6 +124,7 @@
 ### [Vereinfachen der Geräteinstallation mit Windows Autopilot](autopilot.md)
 ##  Upgrade oder Übertragung von Angeboten auf neuere Versionen
 ### [Upgrade von Dynamics AX-Abonnements auf Dynamics 365](manual-subscription-migration.md)
+### [Migrieren von Dynamics 365 Business Edition-Angeboten zu neueren Versionen](migrate-dynamics-365-to-new.md)
 ### [Migrieren von Abonnements für Office 365 Enterprise E4 zu neueren Office 365-Versionen](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [Migrieren von Skype for Business Online Plan 1 zu neueren Office 365-Versionen](skype-retiring.md)
 ### [Übertragen von Azure-Abonnements](switch-azure-subscriptions-to-a-different-partner.md)

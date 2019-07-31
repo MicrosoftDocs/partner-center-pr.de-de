@@ -107,6 +107,7 @@
 ### [VM-Größe für die maximale Reservierungsnutzung](azure-usage.md)
 ### [Erwerben von Microsoft Azure Reservations im Auftrag Ihrer Kunden](azure-reservations-buying.md)
 ### [Verwalten von Microsoft Azure Reservations im Auftrag Ihrer Kunden](azure-reservations-manage.md)
+### [Azure Reserved VM Instances und Server-Abonnements](azure-ri-server-subscriptions.md)
 ## [Softwareabonnements](csp-software-subscriptions.md)
 ## [Onlinedienste (Abonnements)](customer-subscriptions.md)
 ### [Erstellen, Aussetzen oder Stornieren von Kundenabonnements](create-a-new-subscription.md)

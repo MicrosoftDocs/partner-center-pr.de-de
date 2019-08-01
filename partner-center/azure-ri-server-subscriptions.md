@@ -1,18 +1,18 @@
 ---
 title: Azure Reserved VM Instances (RI) + Server-Abonnements für Azure | Partner Center
 ms.topic: article
-ms.date: 7/2/2019
+ms.date: 7/30/2019
 description: Durch das Hinzufügen von Azure RI und Server-Abonnements in das CSP-Programm, unterstützen wir unsere Partner mit der schnell wachsenden Kundennachfrage für kostengünstigere Lösungen zur Unterstützung von verlässlichen, permanenten Cloud-Workloads. Mit dem CSP-Programm können Partner Azure RI und Server-Abonnements für kommerzielle Kunden über das Microsoft-Partner Center und das Azure-Portal bereitstellen und verwalten.
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure, Abonnements, VM, Reservierung, reservierte Instanz
 ms.localizationpriority: medium
-ms.openlocfilehash: 17455913cbe6aef75cbea61ca26a979682a61147
-ms.sourcegitcommit: 1d5f3fbf9bb53bc7f42cefbbedb2d7f3f3bc66eb
+ms.openlocfilehash: 410762c5edbd05c2f6195421f225b17aeece4192
+ms.sourcegitcommit: c6090d5d4f99a33053079f683d07c969ac193c17
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "67509956"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "68670115"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -40,25 +40,26 @@ Mit [Azure Reserved VM Instances](https://azure.microsoft.com/en-us/pricing/rese
 Mit einer unglaublichen Kombination aus einem überzeugenden Preis und beispielloser Bereitstellungsflexibilität erhalten Kunden den besten Gesamtwert, wenn sie Azure Reservations zusammen mit Server-Abonnements auswählen.
 
 #### <a name="azure-reservations"></a>Azure-Reservierungen
--   Reservierte Azure-VM-Instanzen
+-   Azure Reserved VM Instances
 -   SQL-DB-Reservierungen
--   Verwaltete SQL-Instanz
+-   SQL-verwaltete Instanz
 -   Azure Cosmos DB
 -   Azure SQL Data Warehouse
--   App-Dienste
+-   App Services
+-   Azure Databricks Einheiten Reservierungen
 
 #### <a name="server-subscriptions"></a>Serverabonnements
 -   Windows Server
--   Remotedesktopdienste (RDS)-CALs
+-   Remotedesktopdienste-CALs (RDS)
 -   SQL Server
 
-#### <a name="linux-isv-annual-subscriptions"></a>Linux-ISV-Jahresabonnements
+#### <a name="linux-isv-annual-subscriptions"></a>Jährliche Linux-ISV-Abonnements
 -   SUSE Linux
 -   Red Hat Enterprise Linux
--   Azure Red Hat OpenShift
+-   Azure red hat openshift
 
-#### <a name="isv-annual-subscriptions"></a>ISV-Jahresabonnements
--   Azure-VMware-Lösung von CloudSimple
+#### <a name="isv-annual-subscriptions"></a>Jährliche ISV-Abonnements
+-   Azure VMware-Lösung durch cloudsimple
 
 ## <a name="getting-started"></a>Erste Schritte
 
@@ -78,24 +79,25 @@ Im Folgenden finden Sie eine umfassende Liste der Ressourcen, die Ihnen helfen, 
 
 **Vertriebsbereitschaft**
 
-- [Azure-Reservierungen und Serverabonnements mit Azure Hybrid-Vorteil – Übersicht](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [Azure Reservations und Server Abonnements mit Azure-Hybridvorteil Übersicht](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
 - [Verkaufsblatt](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [Partner – häufig gestellte Fragen für Azure-Reservierungen](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [FAQ zu Partnern für Azure Reservations](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
 - [Häufig gestellte Fragen für Azure Reservations- und SQL DB-Partner](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
-- [Remote Desktop Services (RDS)-CALs (Ankündigung)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
-- [Reservierte Azure-VM-Instanzen (Azure-Portal)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Remotedesktopdienste (RDS) CALs (Ankündigung)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
+- [Azure reserved VM Instances (Azure-Portal)](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 - [Server-Abonnements](https://docs.microsoft.com/en-us/partner-center/csp-software-subscriptions)
-- [SQL-Datenbank in Azure (Übersicht)](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
+- [Übersicht über SQL DB in Azure](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [SQL-DB-Reservierungen (Azure-Portal)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-reserved-capacity)
 - [Azure Cosmos DB (Azure-Portal)](https://docs.microsoft.com/en-us/azure/cosmos-db/cosmos-db-reserved-capacity)
-- [Verwaltete SQL-Instanz (Azure-Portal)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instance)
-- [SUSE und Red Hat Enterprise Linux (Azure-Portal)](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/prepay-suse-software-charges)
-- [Red Hat Linux in Azure](https://azure.com/redhat)
+- [SQL verwaltete Instanz (Azure-Portal)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instance)
+- [SuSE und Red Hat Enterprise Linux (Azure-Portal)](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [Red hat Linux in Azure](https://azure.com/redhat)
 - [SUSE Linux in Azure](https://azure.microsoft.com/en-us/overview/linux-on-azure/suse/)
-- [Linux auf Azure](https://azure.microsoft.com/en-us/overview/linux-on-azure/)
+- [Linux in Azure](https://azure.microsoft.com/en-us/overview/linux-on-azure/)
 - [Übersicht über Azure-Preise](https://azure.microsoft.com/en-us/pricing/)
-- [Preisrechner für Azure](https://azure.microsoft.com/en-us/pricing/calculator/)
-- CSP-Preisliste:  Die **Microsoft Azure Reserved Instances** und **Software Abonnements** Preislisten beide befinden sich im Partner Center [Preise und Angebote](https://partner.microsoft.com/en-us/pcv/sales) Seite.
+- [Preisrechner für Azure](https://azure.microsoft.com/en-us/pricing/calculator)
+- [Azure Databricks Einheiten Reservierungen](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+- CSP-Preislisten:  Die Preislisten für **Microsoft Azure reservierte Instanzen** und **Software Abonnements** befinden sich beide auf der Seite Partner Center-Preis [& Angebote](https://partner.microsoft.com/en-us/pcv/sales) .
 
 
 **Training**

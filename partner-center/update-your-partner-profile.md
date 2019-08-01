@@ -7,12 +7,12 @@ ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ff8f149adda67ae911870ead8f3c03ab35f5f1be
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: f5e6089d022fb60b848124d1a1a1057e81024585
+ms.sourcegitcommit: 1201c95758188d9cc52aabdf5e1993ba6cc5402a
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132890"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "68642329"
 ---
 # <a name="update-your-partner-profile"></a>Aktualisieren von Partnerprofilen
 
@@ -21,7 +21,7 @@ Wenn Sie sich zum ersten Mal als Administrator bei Partner Center anmelden, soll
 
 **Aktualisieren von Supportdetails**
 
-1.  Wechseln Sie zu **Einstellungen** &gt; **Alle Einstellungen anzeigen** &gt;**Partnerprofil**.
+1.  Wechseln Sie zu **Einstellungen** , und wählen Sie **Partner Profil**aus.
 2.  Wählen Sie im Abschnitt **Support** die Option **Aktualisieren** aus.
 3.  Wenn sich Ihre Kunden mit einer Supportanfrage an Microsoft wenden, verweist Microsoft Kunden auf die Website, E-Mail-Adresse und Kontakttelefonnummer, die Sie in Ihrem Supportprofil angegeben haben.
 
@@ -31,14 +31,14 @@ Wenn Sie sich zum ersten Mal als Administrator bei Partner Center anmelden, soll
 
 **Überprüfen von Profilinformationen**
 
-1.  Wechseln Sie zu **Einstellungen** &gt;**Alle Einstellungen anzeigen**. 
+1.  Wechseln Sie zu **Einstellungen** , und wählen Sie **Partner Profil**aus. 
 2.  Überprüfen Sie das **Partnerprofil**, **Partnerabrechnungsprofil** und **Organisationsprofil**.
 
 ## <a name="manage-your-partner-profile"></a>Verwalten Ihres Partnerprofils 
 
 Sie können nun Ihre juristische Adresse im Partner Center aktualisieren.
 
-1. Wechseln Sie zu **Einstellungen** &gt; **Alle Einstellungen anzeigen** &gt;**Partnerprofil**.
+1. Wechseln Sie zu **Einstellungen** ND **Partner Profil**auswählen. 
 2. Klicken Sie neben „Juristische Adresse“ auf **Aktualisieren**. 
 
 >[!Important]

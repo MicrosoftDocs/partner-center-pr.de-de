@@ -33,6 +33,8 @@
 ## [Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer](transition-direct-to-indirect.md)
 ## [CSP-Verträge, Preislisten und Angebote](csp-documents-and-learning-resources.md)
 ## [Regionale CSP-Märkte und Währungen](regional-authorization-overview.md)
+## [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](confirm-consent.md)
+## [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag (Vorschauphase)](confirm-customer-agreement.md)
 
 
 ## [Bewerben für den Verkauf in nationalen Clouds](csp-national-clouds-overview.md)

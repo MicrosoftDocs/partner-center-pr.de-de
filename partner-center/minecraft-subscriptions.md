@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Autorisierte Partner im Bildungsbereich, Bildung, an Bildungseinrichtungen verkaufen, Schulen
 ms.localizationpriority: medium
-ms.openlocfilehash: 4c5b221bae98e203159afd8926bbdd3d3bbd0421
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 712b36badfc43c5c62d4c8e74c231076e88d44a4
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667212"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820636"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Verkaufen von Abonnements für Minecraft: Education Edition für Bildungseinrichtungen
 
@@ -40,7 +40,7 @@ Führen Sie die folgenden Schritte aus, um Abonnements für **Minecraft: Educati
   4.  Wählen Sie das Minecraft-Abonnement aus, das Sie im Auftrag des Kunden erwerben möchten, und geben Sie die Anzahl der Lizenzen ein. Wählen Sie **Weiter: Überprüfung** aus.
 
       >[!NOTE]
-      >Sie können diese Lizenzen in Partner Center anzeigen und verwalten. Ihre Kunden können diese Lizenzen in ihrem Bestand auf der Detailseite zu [Minecraft: Education Edition](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6) anzeigen und verwalten. (Sie müssen im Store für Bildungseinrichtungen angemeldet sein, um die Detailseite anzeigen zu können.) 
+      >Sie können diese Lizenzen in Partner Center anzeigen und verwalten. Ihre Kunden können diese Lizenzen in ihrem Bestand auf der Detailseite zu [Minecraft: Education Edition](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6) anzeigen und verwalten. (Sie müssen im Store für Bildungseinrichtungen angemeldet sein, um die Detailseite anzeigen zu können.) 
 
   5.  Ist der Auftrag korrekt, wählen Sie **Übermitteln** aus. Wenn Sie Änderungen am Auftrag vornehmen müssen, wählen Sie **Abbrechen** aus, und nehmen Sie die gewünschten Änderungen vor.   
 

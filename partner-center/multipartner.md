@@ -7,12 +7,12 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b7843049ad4fd79dc4331262ed034ee05bd2281f
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2b54241dfc734edbfa9c708ab0b942f67b4767c1
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134290"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820614"
 ---
 # <a name="multi-partner-support"></a>Support für mehrere Partner
 
@@ -36,4 +36,4 @@ Folgendes ist mit der Multipartner-Funktionalität nicht möglich:
 - Ändern des registrierten Abonnementberaters für ein Abonnement
 
 > [!IMPORTANT]  
-> Ein Partner im CSP-Programm kann derzeit keine Onlinedienste an einen anderen Partner im CSP-Programm verkaufen. Microsoft überprüft ständig die Richtlinien und Funktionen aller Programme. Alle Neuigkeiten zu künftigen Versionen oder Richtlinienänderungen werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich [Partner Center-Ankündigungen](https://partner.microsoft.com/en-us/pcv/announcements).
+> Ein Partner im CSP-Programm kann derzeit keine Onlinedienste an einen anderen Partner im CSP-Programm verkaufen. Microsoft überprüft ständig die Richtlinien und Möglichkeiten aller Programme. Alle Neuigkeiten zur Freigabe von Features oder Richtlinienänderungen werden über die üblichen Kommunikationskanäle angekündigt, einschließlich [Partner Center-Ankündigungen](https://partner.microsoft.com/pcv/announcements).

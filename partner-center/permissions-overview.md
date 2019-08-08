@@ -1,18 +1,18 @@
 ---
 title: Zuweisen von Benutzerrollen und Berechtigungen | Partner Center
 ms.topic: article
-ms.date: 3/5/19
+ms.date: 3/5/2019
 description: Jedem Mitarbeiter, der im Partner Center arbeitet, muss eine Rolle zugewiesen werden.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Rollen, Berechtigungen, Administrator, Agent
 ms.localizationpriority: medium
-ms.openlocfilehash: 658106548596a5fa7d02d29c0065a23caeacb83d
-ms.sourcegitcommit: 59825cb626e12dfe5eb2d28e836b4573368d705e
+ms.openlocfilehash: 744ce84c47d3adaf21d8f7b790001737d6489cdb
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67690840"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708870"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern
 
@@ -24,7 +24,7 @@ Sie haben Ihr Partnerprofil mit gesetzlichem Namen und Adresse, Supportdetails, 
 Die Zugriffsarten Ihrer Benutzer auf das Partner Center bestimmen Sie durch die Rollen und Berechtigungen, die Sie ihnen erteilen. Rollen beziehen sich auf die Programme, an denen Ihr Unternehmen beteiligt ist. Wenn Ihr Unternehmen beispielsweise im CSP-Bereich (Cloud Solution Provider) tätig ist, verfügen Sie nicht nur über die Standard-Mandantenverwaltungsrollen von Azure AD (z.B. „Globaler Administrator“), sondern benötigen auch spezielle Rollen für das CSP-Programm. Jedes Programm verfügt über Rollen, die spezifisch für das jeweilige Programm sind.
 
 >[!Note]
-> AAD-Mandantenrollen (Azure Active Directory) enthalten globale Administrator-, Benutzeradministrator- und CSP-Rollen. Nicht-AAD-Rollen sind diese Rollen, die den Mandanten keine verwalten und MPN Admin, Administrator für Business-Profil, Verweis Verwaltungs-, anreizprogramm Admin und anreizprogramm Benutzer enthalten. 
+> AAD-Mandantenrollen (Azure Active Directory) enthalten globale Administrator-, Benutzeradministrator- und CSP-Rollen. Nicht-Aad-Rollen sind die Rollen, die den Mandanten nicht verwalten. dazu gehören MPN admin, Business profile admin, referadmin, Incentive admin und Incentive User. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Verwalten kommerzieller Transaktionen im Partner Center (Azure AD- und CSP-Rollen)
 
@@ -34,7 +34,7 @@ Die Zugriffsarten Ihrer Benutzer auf das Partner Center bestimmen Sie durch die 
 |      |• Erstellen von Supportanfragen für das Partner Center
 ||• Anzeigen von Vereinbarungen, Preislisten und Angeboten
 ||• Anzeigen, Erstellen und Verwalten von Partnerbenutzern|
-||  Anzeigen, erstellen und Verwalten von abrechnungs-, Rechnungen und Abstimm Dateien
+||  Anzeigen, erstellen und Verwalten von Abrechnungs-, Rechnungen-und Reconnaissance-Dateien
 |Benutzerverwaltungsadministrator   | • Anzeigen, erstellen und Verwalten von Benutzern
 ||• Anzeigen aller Partnerprofile
 ||• Anzeigen, Erstellen und Verwalten von Partnerbenutzern  |
@@ -53,7 +53,7 @@ Die Zugriffsarten Ihrer Benutzer auf das Partner Center bestimmen Sie durch die 
 |Vertriebsbeauftragter | • Kundenverwaltung
 ||• Hinzufügen einer Geräteliste zum Partner Center
 ||• Abonnementverwaltung
-||• Anzeigen Preis aufgelistet und bietet
+||• Preislisten und Angebote anzeigen
 ||• Anzeigen von Supporttickets
 ||• Beantragen einer Partnerschaft mit einem Kunden
 ||• Verwalten potenzieller Kunden
@@ -84,23 +84,23 @@ CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provi
 ||Empfehlungsadministrator|
 
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Verwalten von MPN-Mitgliedschaft und Ihres Unternehmens (nicht-AAD-Rollen: Diese Rollen zu verwalten, die Geschäftstätigkeit Unternehmen statt des Mandanten)
+## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Verwalten der MPN-Mitgliedschaft und Ihres Unternehmens (nicht-Aad-Rollen: Diese Rollen verwalten das Unternehmensgeschäft und nicht den Mandanten)
 
 |**Rolle** | **Funktionsumfang**|
 |----------------------------|:----------------------------|
-|Administrator für MPN-Partner|• Anzeigen, erstellen und Verwalten von Serviceanfragen für partner||
-||• Anzeigen, die rechtlichen, Unternehmen, Unternehmen und MPN-Profile
+|Administrator für MPN-Partner|• Anzeigen, erstellen und Verwalten von Partner Dienst Anforderungen||
+||• Anzeigen von rechtlichen, Firmen-, Geschäfts-und MPN-Profilen
 ||• Anzeigen der Daten und Fähigkeiten von Benutzern
 ||• Anzeigen von Kompetenzen
 ||• Anzeigen und Verwalten von Vorteilen
 ||• Anzeigen und Kaufen von MPN-Angeboten
 ||• Anzeigen von Rechnungen und des Bestellverlaufs für MPN-Angebote
-||• Anzeigen Partner Beitrag-Indikatordaten
+||• Anzeigen von Partner Beitrag-Indikator Daten
 ||• Arbeiten im Gutscheinüberprüfungstool|
 ||• Anzeigen von Kundendatenanalysen
-|| Anzeigen anderer Rollen in Unternehmen, aber können keine Rollen zuweisen
-|Kontoadministrator| Hinzufügen von Standorten
-|| Verwalten von Profilen, die im Zusammenhang mit den Konten, die, denen Sie Administrator sind 
+|| Anzeigen anderer Benutzer Rollen innerhalb des Unternehmens, aber keine Zuweisung von Rollen
+|Kontoadministrator| Speicherorte hinzufügen
+|| Verwalten von Profilen in Bezug auf die Konten, für die Sie Administrator sind 
 ||• Zuweisen von Rollen für Benutzer im Mandanten zu Nicht-AAD-Rollen 
 ||• Registrieren von Standorten in Programmen
 
@@ -111,12 +111,12 @@ CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provi
 |-----------------------------|:------------------------|
 |Empfehlungsadministrator       |• Anzeigen, Erstellen und Verwalten von Geschäftsprofilen
 ||• Empfangen und Verwalten von Empfehlungen
-||• Anzeigen, erstellen und Verwalten von Co-Selling-Verweise|
+||• Anzeigen, erstellen und Verwalten von Co-Selling-Referenzen|
 ||• Anzeigen, Erstellen und Verwalten von Serviceanfragen der Partner
-|Administrator für das Unternehmensprofil   |• Anzeigen, erstellen und Verwalten von Business-Profil 
+|Administrator für das Unternehmensprofil   |• Anzeigen, erstellen und Verwalten von Geschäftsprofilen 
 ||• Anzeigen, Erstellen und Verwalten von Serviceanfragen der Partner|
 
-## <a name="manage-incentives"></a>Verwalten von incentives 
+## <a name="manage-incentives"></a>Verwalten von Anreizen 
 
 |**Rolle** | **Funktionsumfang**|
 |------------------------------|:-------------------------|

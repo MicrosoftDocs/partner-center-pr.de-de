@@ -6,12 +6,12 @@ description: Zur Einhaltung der nationalen, regionalen und branchenspezifischen 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: edd1bf143b591d375b2d911459629110799a1426
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 884146657aa84fa1d5f28801d5ad2a4d83c1359a
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667543"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820531"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland
 
@@ -50,7 +50,7 @@ Nachdem Sie sich erfolgreich beim Azure-Portal für Microsoft-Cloud Deutschland 
 
 **Verwandte Themen**
 
--  [Microsoft Azure Deutschland](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
+-  [Microsoft Azure Deutschland](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [Partner Center für Microsoft Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md)
 

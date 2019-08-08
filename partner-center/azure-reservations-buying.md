@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 Description: Sie können Azure-Reservierungen im Auftrag Ihrer Kunden im Partner Center kaufen.
 author: LauraBrenner
-ms.author: v-petand
+ms.author: labrenne
 keywords: Azure, Reservierungen, verwalten, Abrechnung, kaufen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: bf9d3bf1869a151172931f100cf10b28a7d75f27
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 5d42c62c10d1717868b7b22f7a63ffc2311a3f70
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668313"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708774"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Kaufen von Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden im Partner Center 
 
@@ -61,7 +61,7 @@ Lesen Sie die folgenden wichtigen Informationen, bevor Sie Azure-Reservierungen 
 > | Bhutan                         | Indien                             | St. Vincent und die Grenadinen         |
 > | Bonaire                        | Isle of Man                       | Samoa                                    |
 > | Bouvetinsel                  | Jan Mayen                         | San Marino                               |
-> | Brasilien                         | Jersey                            | São Tomé und Príncipe                    |
+> | Brazilien                         | Jersey                            | São Tomé und Príncipe                    |
 > | Britisches Territorium im Indischen Ozean | Kasachstan                        | Seychellen                               |
 > | Britische Jungferninseln         | Kiribati                          | Sierra Leone                             |
 > | Burkina Faso                   | Republik Korea                | Sint Eustatius                           |

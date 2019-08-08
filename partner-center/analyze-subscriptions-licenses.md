@@ -1,20 +1,20 @@
 ---
 title: Analysieren von Abonnements und Lizenzen | Partner Center
-ms.date: 07/12/2018
+ms.date: 08/02/2019
 Description: Verwenden Sie die Metriken auf der Seite „Analysen zu Abonnements und Lizenzen“, um Ihre Erfolge sowie die Bereiche zu bestimmen, die mehr Aufmerksamkeit erfordern.
-Author: Xansky
-ms.author: mhopkins
+author: LauraBrenner
+ms.author: labrenne
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
 ms.topic: article
 keywords: Geschäftsdaten
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5ca4987d4af50bca8d2c298e325d5810e7d17033
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 29d597b66c16d7f0da29caa023c1da7ba23f9616
+ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667807"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68782003"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analysieren von Abonnements und Lizenzen 
 

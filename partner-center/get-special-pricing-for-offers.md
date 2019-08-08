@@ -7,12 +7,12 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8272d414f4712a470c588fd9cc40c828c8f87e6c
-ms.sourcegitcommit: 40e2ef0c9fa6c5d2227e205c7d250772f4a989d5
+ms.openlocfilehash: 10b4cf8f261c9d9af4be5aa7c91cc6e81663bfba
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "68492302"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820448"
 ---
 # <a name="sell-to-specialized-industries"></a>An spezielle Branchen verkaufen
 
@@ -28,7 +28,7 @@ Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z. B
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |Werden Sie ein [autorisierter Verkäufer im Bildungsbereich](https://www.mepn.com).   | Sie müssen ein [qualifizierter Benutzer von Bildungsangeboten](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) sein.   |
 |Behörden   |Um Azure zu verkaufen, registrieren Sie sich mit dem [cloudvalidierungsformular der Microsoft US Government-Cloud](https://azuregov.microsoft.com/csp). Wenn Sie lizenzbasierte Abonnements an Behörden verkaufen möchten, ist keine Qualifikation erforderlich.|   None|
-|Gemeinnützige Organisation  |None<br>Sie benötigen einen Azure Active Directory-Mandanten für gemeinnützige Organisationen.<br>Unter [Sonderangebote für gemeinnützige Organisationen](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf) finden Sie weitere Informationen.   |Melden Sie sich über das [Microsoft-Programm für gemeinnützige Organisationen](https://nonprofit.microsoft.com/#/register) an, um sich zu qualifizieren.   |
+|Gemeinnützige Organisation  |None<br>Sie benötigen einen Azure Active Directory-Mandanten für gemeinnützige Organisationen.<br>Unter [Sonderangebote für gemeinnützige Organisationen](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf) finden Sie weitere Informationen.   |Melden Sie sich über das [Microsoft-Programm für gemeinnützige Organisationen](https://nonprofit.microsoft.com/#/register) an, um sich zu qualifizieren.   |
 
 
 ## <a name="check-your-reseller-qualifications"></a>Überprüfen Ihrer Händlerqualifikationen

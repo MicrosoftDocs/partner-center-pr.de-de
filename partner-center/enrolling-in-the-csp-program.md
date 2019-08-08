@@ -6,12 +6,12 @@ description: Lernen Sie die verschiedenen Modelle für den Verkauf in CSP kennen
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 48dbb30558b635a4a87b9d952897e61ec6451a5c
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 5e4f5611c611b333789a03fb5bec3611d9cde705
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135620"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820476"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud-Lösungsanbieter
 
@@ -19,7 +19,7 @@ ms.locfileid: "62135620"
 
 - Programm für Cloud-Lösungsanbieter  
 
-## <a name="get-started"></a>Beginnen
+## <a name="get-started"></a>Erste Schritte
 
 Die rasant wachsende Nachfrage nach cloudbasierten Lösungen und Diensten bietet Microsoft-Partnern aller Größen zahlreiche Chancen für den Aufbau eines rentablen Cloudlösungsgeschäfts. Partner, die auf den Markt gehen, aber nicht mehrere Anbieter verwalten möchten oder die über keine End-to-End-Infrastruktur für die Kundenverwaltung verfügen, können sich beim Microsoft-Programm für Cloud-Lösungsanbieter (Cloud Solution Provider, CSP) als indirekter Wiederverkäufer registrieren.
 
@@ -35,7 +35,7 @@ Die Überprüfung Ihrer Angaben kann mehrere Tage dauern. Wir werden Sie per E-M
 3. Nachdem wir Ihre Informationen bestätigt haben, akzeptieren Sie die Vereinbarung für indirekte Microsoft-Wiederverkäufer.
 
 > [!IMPORTANT]  
-> Ein Partner im CSP-Programm kann derzeit einem anderen Partner im CSP-Programm keine Onlinedienste verkaufen. Microsoft überprüft ständig die Richtlinien und Möglichkeiten aller Programme. Alle Neuigkeiten zur Freigabe von Features oder Richtlinienänderungen werden über die üblichen Kommunikationskanäle angekündigt, einschließlich [Partner Center-Ankündigungen](https://partner.microsoft.com/en-us/pcv/announcements).
+> Ein Partner im CSP-Programm kann derzeit einem anderen Partner im CSP-Programm keine Onlinedienste verkaufen. Microsoft überprüft ständig die Richtlinien und Möglichkeiten aller Programme. Alle Neuigkeiten zur Freigabe von Features oder Richtlinienänderungen werden über die üblichen Kommunikationskanäle angekündigt, einschließlich [Partner Center-Ankündigungen](https://partner.microsoft.com/pcv/announcements).
 
 ## <a name="enroll-as-an-indirect-reseller"></a>Sich als indirekter Wiederverkäufer registrieren
 
@@ -65,8 +65,8 @@ Als Direktabrechnungspartner sind Sie die für die End-to-End-Beziehung mit Ihre
 |--------------------------------|--------------------------------------------------------------|
 |**MPN-ID**   |Eine aktive Microsoft Partner Network (MPN)-ID für Ihren Unternehmensstandort    |
 |**Zustimmung**   |Die Befugnis zum Akzeptieren und Signieren von Vereinbarungen im Namen Ihres Unternehmens|
-|**Support**   |Die Fähigkeit, Ihren Kunden Cloud-Produktunterstützung der ersten Ebene zu bieten. <br>Ein Microsoft-Supportplan, entweder Erweiterter Support für Partner (Advanced Support for Partners, ASfP) oder Premiumsupport für Partner (Premier Support for Partners, PSfP). [Supportpläne vergleichen](https://partner.microsoft.com/en-US/support/partnersupport).<br> WICHTIG: Sie müssen vor dem Erwerb eines Supportplans eine Bonitätsprüfung bestehen. Wir benachrichtigen Sie per E-Mail, wenn Sie die Bonitätsprüfung bestanden haben. |
-|**Managed Services**   |Mindestens einen verwalteten Service, einen IP-Service oder eine Kundenlösungsanwendung. Weitere Informationen zum Hinzufügen von [verwalteten Services](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
+|**Support**   |Die Fähigkeit, Ihren Kunden Cloud-Produktunterstützung der ersten Ebene zu bieten. <br>Ein Microsoft-Supportplan, entweder Erweiterter Support für Partner (Advanced Support for Partners, ASfP) oder Premiumsupport für Partner (Premier Support for Partners, PSfP). [Supportpläne vergleichen](https://partner.microsoft.com/support/partnersupport).<br> WICHTIG: Sie müssen vor dem Erwerb eines Supportplans eine Bonitätsprüfung bestehen. Wir benachrichtigen Sie per E-Mail, wenn Sie die Bonitätsprüfung bestanden haben. |
+|**Managed Services**   |Mindestens einen verwalteten Service, einen IP-Service oder eine Kundenlösungsanwendung. Weitere Informationen zum Hinzufügen von [verwalteten Services](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
 |**Debitoren** |Infrastruktur zur Verwaltung der Kundenabrechnung und -bereitstellung
 
 ### <a name="verify-direct-bill-eligibility"></a>Prüfen der Berechtigung für die Direktabrechnung

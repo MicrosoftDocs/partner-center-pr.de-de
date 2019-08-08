@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 Description: Informationen zur Abrechnung von Azure-Reservierungen.
 author: LauraBrenner
-ms.author: v-petand
+ms.author: labrenne
 keywords: Azure RI, reservierte Azure-Instanzen, Reservierungen, VM, virtuelle Computer, verwalten, Abrechnung, kaufen
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b99cb2a72d69cd33f9267a956f921aa65dedd482
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: a3edec135f6636429551f21a1125e68ed5a9cfa3
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668487"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708710"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure Reserved VM Instances – Abrechnung
 
@@ -58,7 +58,7 @@ Weitere allgemeine Informationen zur Abrechnung im Cloud Solution Provider-Progr
 
 |**Feld** |**Definition**|
 |:----------------|:-----------------------------|
-|Datum |Kaufdatum. |
+|date |Kaufdatum. |
 |Beschreibung |Produktname. |
 |Anzahl |Die Anzahl von erworbenen Produkten (z. B. Reservierungen). |
 |Preis pro Einheit |Preis pro Produkt (z. B. Reservierung). |

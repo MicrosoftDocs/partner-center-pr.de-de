@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fd95787a87a1b70a0b2f31114b22dde7ca0f837c
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
+ms.openlocfilehash: d595c05adac5ffc57a52d8635abf80cb0b3f375d
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668347"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820318"
 ---
 # <a name="faq-about-new-billing-features"></a>Häufig gestellte Fragen zu neuen Abrechnungsfunktionen
 
@@ -24,7 +24,7 @@ ms.locfileid: "64668347"
 
 Im Folgenden finden Sie häufig gestellte Fragen zur jährlichen Abrechnung und zu kostenlosen Testversionen von Partner Center. 
 
-## <a name="in-this-section"></a>Inhalt dieses Abschnitts
+## <a name="in-this-section"></a>In diesem Abschnitt
 
 -   [Häufig gestellte Fragen zur jährlichen Abrechnung](#annualbillingfaq)
 
@@ -54,7 +54,7 @@ Abschnitte:
 
 **F:** Was hat sich geändert?
 
--   **A:** Auf vielfachen Kundenwunsch bieten wir für bestimmte CSP-Abonnements (Cloud Solution Provider) nun die Möglichkeit der jährlichen oder monatlichen Zahlung an. Diese neue Option ist seit dem 17. Oktober 2017 verfügbar.
+-   **A:** Aufgrund Ihrer Anfragen haben wir die Option eingeführt, bestimmte Cloud Solution Provider-Abonnements (CSP) jährlich oder monatlich zu bezahlen. Diese neue Option ist seit dem 17. Oktober 2017 verfügbar.
 
 **F:** Wer kann daran teilnehmen?
 
@@ -92,11 +92,11 @@ Abschnitte:
 
 -   **A:** Die Nutzung der jährlichen Abrechnung erfordert einige Änderungen an Ihren APIs. Ausführlichere Informationen finden Sie in den folgenden Artikeln:
 
-    - https://partnercenter.microsoft.com/en-us/partner/developer
+    - https://partnercenter.microsoft.com/partner/developer
 
-    - https://msdn.microsoft.com/en-us/library/partnercenter/microsoft.store.partnercenter.models.orders.order.billingcycle.aspx 
+    - https://msdn.microsoft.com/library/partnercenter/microsoft.store.partnercenter.models.orders.order.billingcycle.aspx 
 
-    - Beispielcode: https://msdn.microsoft.com/en-us/library/partnercenter/mt634667.aspx 
+    - Beispielcode: https://msdn.microsoft.com/library/partnercenter/mt634667.aspx 
 
 <a href="" id="placingyourorder"></a>**Bestellungs- und Abrechnungsszenarien**
 
@@ -110,7 +110,7 @@ Abschnitte:
 
 **F:** Wann wird das Abonnement in Rechnung gestellt, wenn ich mich für die jährliche Abrechnung entscheide?    
 
--   **A:** Das Abonnement wird am nächsten Abrechnungsdatum in Rechnung gestellt. Wenn Ihr Abrechnungsdatum beispielsweise der Monatserste ist und Sie am 29. Oktober 2017 ein Abonnement mit jährlicher Abrechnung kaufen, wird Ihnen das Abonnement am 1. November 2017 in Rechnung gestellt. Sofern Sie keine Änderungen an den Lizenzen vornehmen, erfolgt die Rechnungslegung dann wieder am 1. November 2018. Wenn Sie eine Lizenzänderung vornehmen, erhalten Sie zum nächsten Abrechnungsdatum eine Gutschrift und eine anteilige Verrechnung. 
+-   **A:** Das Abonnement wird am nächsten Abrechnungsdatum in Rechnung gestellt. Wenn Ihr Abrechnungsdatum beispielsweise der 1. ist und Sie am 29. Oktober 2017 ein Abonnement mit jährlicher Abrechnung kaufen, wird Ihnen das Abonnement am 1. November 2017 in Rechnung gestellt. Sofern Sie keine Änderungen an den Lizenzen vornehmen, erfolgt die Rechnungslegung dann wieder am 1. November 2018. Wenn Sie eine Lizenzänderung vornehmen, erhalten Sie zum nächsten Abrechnungsdatum eine Gutschrift und eine anteilige Verrechnung. 
 
 **F:** Kann ich ein Abonnement so aufteilen, dass ein Teil monatlich und ein Teil jährlich abgerechnet wird?  
 
@@ -144,7 +144,7 @@ Abschnitte:
 
 **F:** Kann ich die Abrechnungshäufigkeit für ein Abonnement von monatlicher auf jährliche Abrechnung (und umgekehrt) umstellen? 
 
--   **A:** Ja. Informationen zum **Ändern der Abrechnungshäufigkeit für einen Onlinedienst** finden Sie unter [Übersicht über die Abrechnung](https://docs.microsoft.com/en-us/partner-center/billing-basics).
+-   **A:** Ja. Informationen zum **Ändern der Abrechnungshäufigkeit für einen Onlinedienst** finden Sie unter [Übersicht über die Abrechnung](https://docs.microsoft.com/partner-center/billing-basics).
 
 **F:** Ist die jährliche Abrechnung für Add-On-Angebote verfügbar?   
 
@@ -586,14 +586,14 @@ Die Abstimmungsdatei vom 15. Juni enthält in diesem Fall nur die folgenden Rec
 Der Partner setzt das Abonnement am 5. Juli aus und reaktiviert es am 15. Juli. Die Abstimmungsdatei vom 15. Juli enthält in diesem Fall die folgenden Rechnungspositionen:
 
 - 30 USD Gebühr für den Leistungszeitraum 1. Juli – 31. Juli.
-- -26,14 USD Stornierungsgutschrift für den Leistungszeitraum 5. Juli – 31. Juli. Stornierungen nach 30 Tagen ab Kaufdatum führen zu einer anteiligen Gutschrift. Berechnung: (monatlicher Preis/Tage im gesamten Leistungszeitraum) x Tage im anteiligen Leistungszeitraum x Lizenzanzahl x (-1) = (30/31) x 27 x 1 x (-1) = -26,14
-- 21,30 USD Reaktivierungsgebühr für den Leistungszeitraum 10. Juli – 31. Juli. Reaktivierungen nach 30 Tagen ab dem Kaufdatum werden anteilig berechnet. Berechnung: (30/31) x 22 x 1 = 21,30
+- -26,14 USD Stornierungsgutschrift für den Leistungszeitraum 5. Juli – 31. Juli. Stornierungen nach 30 Tagen ab Kaufdatum führen zu einer anteiligen Gutschrift. Berechnung: (monatlicher Preis/Tage im gesamten Servicezeitraum) x Tage in anteiligem Servicezeitraum x Lizenzanzahl x (-1) = (30/31) x 27 x 1 x (-1) =-26,14
+- $16,45 Reaktivierungs-Abrechnung für Dienst Zeitraum 15. Juli-31. Juli. Reaktivierungen nach 30 Tagen ab dem Kaufdatum werden anteilig berechnet. Berechnung = (30/31) x 17 x 1 = 16,45.
 
 |**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
 |01.07.2018   |31.07.2018   |30 USD  |1   |30 USD   |Gebühr für Zyklus |
 |05.07.2018   |31.07.2018   |   -26,14 USD   |1   |-26,14 USD|Stornierungsgebühr |
-|10.07.2018   |31.07.2018   |-21,30 USD   |1   |21,30 USD|Aktivierungsgebühr |
+|7/15/2018   |31.07.2018   |-$16,45   |1   |$16,45|Aktivierungsgebühr |
 
 Die Abstimmungsdatei vom 15. August enthält in diesem Fall Folgendes:
 - 30 USD Gebühr für den Leistungszeitraum 1. August – 31. August.

@@ -1,22 +1,22 @@
 ---
 title: Analysieren der Leistung indirekter Vertriebspartner | Partner Center
-ms.date: 07/12/2018
+ms.date: 08/02/2019
 Description: Rufen Sie Daten zur Leistung Ihrer indirekten Vertriebspartner ab, um Erfolge sowie Bereiche zu identifizieren, die möglicherweise mehr Aufmerksamkeit erfordern.
-Author: Xansky
-ms.author: mhopkins
+author: LauraBrenner
+ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
 ms.topic: article
 keywords: Geschäftsdaten
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c86640d0334063b8daaffd3c447597a57b9662dd
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: c46a155b99087f6d6019db4ed81247c269883ae2
+ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667923"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68781991"
 ---
-# <a name="analyze-indirect-resellers-performance"></a>Analysieren der Leistung indirekter Händler 
+# <a name="analyze-indirect-resellers-performance"></a>Analysieren der Leistung indirekter Vertriebspartner 
 
 **Gilt für**
 - Partner Center

@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 03/15/2019
 Description: Häufig gestellte Fragen zur Bestätigung der Kundenzustimmung
 author: LauraBrenner
-ms.author: v-petand
+ms.author: labrenne
 keywords: Kunde, Kunden, Zustimmung, häufig gestellte Fragen, MCA, Microsoft Cloud-Vertrag
 ms.localizationpriority: medium
-ms.openlocfilehash: 52f38191aefa722b96ca5f104e9af023952bd7d7
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
+ms.openlocfilehash: c6681b4b979352b58258837d85d8c88543d16ed0
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668605"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820463"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Bestätigung der Kundenzustimmung zum Microsoft Cloud-Vertrag – Häufig gestellte Fragen
 
--   [Process](##processfaq)
+-   [Verarbeiten](##processfaq)
 
 -   [Richtlinie](#policyfaq)
 
@@ -29,7 +29,7 @@ ms.locfileid: "64668605"
 
 **Wie sieht das neue Verfahren zur Bestätigung der Zustimmung des Kunden zum Microsoft Cloud-Vertrag (Microsoft Cloud Agreement, MCA) aus?**
 
-Microsoft ist bestrebt, seine Kunden und Partner bei der Einhaltung der Bestimmungen zu unterstützen. Als Partner des CSP-Programms (Cloud Solution Provider) von Microsoft sind Sie dafür verantwortlich, die Nutzungsbedingungen von Microsoft (einschließlich der akzeptablen Verwendung von Microsoft-Produkten und-Diensten) mit Ihren Kunden zu überprüfen. Um die Partner bei der Erfüllung der Complianceanforderungen besser zu unterstützen und Transparenz zu gewährleisten, ermöglichen wir einen neuen Prozess, bei dem die CSP-Partner bestätigen müssen, dass ihre Kunden den Bestimmungen des Microsoft Cloud-Vertrags zugestimmt haben. Am 7. August 2018 haben wir ein neues Feld in der Benutzeroberfläche des Partner Center-Dashboards und in der Partner Center-API hinzugefügt, in das Partner diese Informationen eintragen können. Anfänglich ist diese Bestätigung optional, sie ist jedoch ab dem 7. November 2018 erforderlich. 
+Microsoft ist bestrebt, seine Kunden und Partner bei der Einhaltung der Bestimmungen zu unterstützen. Als Partner des CSP-Programms (Cloud Solution Provider) von Microsoft sind Sie dafür verantwortlich, die Nutzungsbedingungen von Microsoft (einschließlich der akzeptablen Verwendung von Microsoft-Produkten und-Diensten) mit Ihren Kunden zu überprüfen. Um die Partner bei der Erfüllung der Complianceanforderungen besser zu unterstützen und Transparenz zu gewährleisten, ermöglichen wir einen neuen Prozess, bei dem die CSP-Partner bestätigen müssen, dass ihre Kunden den Bestimmungen des Microsoft Cloud-Vertrags zugestimmt haben. Am 7. August 2018 haben wir ein neues Feld in der Benutzeroberfläche des Partner Center-Dashboards und in der Partner Center-API hinzugefügt, in dem Partner diese Informationen bereitstellen können. Anfänglich ist diese Bestätigung optional, sie ist jedoch ab dem 7. November 2018 erforderlich. 
 
 **Wann wird diese Anforderung wirksam?**
 
@@ -105,7 +105,7 @@ In vertraglicher Hinsicht ist es der indirekte Anbieter, der einen bindenden Ver
 
 Indirekten Anbietern, die die erforderlichen Informationen zur Kundenzustimmung von ihren indirekten Händlern einholen müssen, wird empfohlen, diese Anforderung den indirekten Händlern umgehend mitzuteilen, um die Bereitstellung und den Erhalt dieser Informationen zu koordinieren.
 
-**Wie kann ich meinen Kunden erklären, dass sie ihre Zustimmung zum Microsoft Cloud-Vertrag bestätigen müssen?**
+**Wie kann ich meinen Kunden erklären, dass sie ihre Zustimmung zum Microsoft Cloud-Vertrag bestätigen sollten?**
 
 Die ordnungsgemäße Ausführung des Microsoft Cloud-Vertrags schützt Microsoft, unsere Partner und Kunden, indem sie eine gegenseitige Abstimmung zu vielen wichtigen Themen gewährleistet, einschließlich (aber nicht beschränkt auf) Sicherheit, Datenschutz und Datensicherheit. Der Bestätigungsprozess sorgt für Transparenz und Abstimmung und ermöglicht es Microsoft, Kunden besser zu unterstützen, die umgehend auf regulatorische Anfragen reagieren müssen.
 
@@ -159,11 +159,11 @@ Es gibt zwei Methoden, die ab 7. August 2018 verfügbar sind, um Partner zu unte
 
 In diesem Fall sind die folgenden API-Änderungen zu berücksichtigenden:
 
--   [https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent) 
+-   [https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-consent](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-consent) 
 
--   [https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
+-   [https://docs.microsoft.com/partner-center/develop/get-agreement-metadata](https://docs.microsoft.com/partner-center/develop/get-agreement-metadata)
 
--   [https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
+-   [https://docs.microsoft.com/partner-center/develop/confirm-customer-consent](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent)
 
 **Was geschieht, wenn ich Probleme habe, die Partner Center-API zu implementieren?**
 
@@ -199,6 +199,6 @@ Beide Optionen sind verfügbar und akzeptabel, um die Zustimmung der Kunden zum 
 
 ## <a href="" id="additionalresourcesfaq"></a>Weitere Ressourcen:
 
-Weitere Informationen dazu, wie Sie die Zustimmung eines Kunden zum Microsoft Cloud-Vertrag bestätigen können, finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](https://docs.microsoft.com/en-us/partner-center/confirm-consent).
+Weitere Informationen dazu, wie Sie die Zustimmung eines Kunden zum Microsoft Cloud-Vertrag bestätigen können, finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](https://docs.microsoft.com/partner-center/confirm-consent).
 
 Regionsspezifische Kundenvorlagen zum Microsoft Cloud-Vertrag in allen unterstützten Sprachen finden Sie unter [Microsoft Cloud-Vertrag nach Region und Sprache](agreements.md).

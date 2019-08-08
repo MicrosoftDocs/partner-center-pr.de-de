@@ -8,12 +8,12 @@ ms.author: janet
 Keywords: Azure Cost Management-App, Kostenmanagement, Web-Apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 14b94e94c349fa142cb6bd37ed4ca94f7a9397b6
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 27ff91d9d42f08e44f812663f3d4409e1080d580
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668664"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820301"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure Cost Management-App für Azure CSP-Partner  
 
@@ -35,10 +35,10 @@ Cloudyn ist eine Web-App, mit der Sie die Azure-Nutzung Ihrer Kunden und die Kos
 
 ## <a name="register-your-web-app-in-the-partner-center"></a>Registrieren Ihrer Web-App im Partner Center
 Wenn Sie eine Azure Active Directory-Web-App im Partner Center registrieren, können Sie auf die Partner Center-API zugreifen. 
-1.  Melden Sie sich beim [Partner Center](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview) mit einem [globalen Administratorkonto oder Administrator-Agentkonto](create-user-accounts-and-set-permissions.md) an.
-2.  Wählen Sie im **Partner Center**nacheinander **Kontoeinstellungen** &gt; **[App-Verwaltung](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)** aus.
+1.  Melden Sie sich beim [Partner Center](https://partnercenter.microsoft.com/pcv/dashboard/overview) mit einem [globalen Administratorkonto oder Administrator-Agentkonto](create-user-accounts-and-set-permissions.md) an.
+2.  Wählen Sie im **Partner Center**nacheinander **Kontoeinstellungen** &gt; **[App-Verwaltung](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)** aus.
 3.  Klicken Sie im Abschnitt **Web-App** auf **Neue Web-App hinzufügen**.
-<br> **Hinweis**: Wenn Sie bereits zuvor eine Web-App erstellt haben, können Sie Schritt 3 überspringen.
+<br> **Hinweis:** Wenn Sie bereits zuvor eine Web-App erstellt haben, können Sie Schritt 3 überspringen.
 4.  Kopieren und speichern Sie die GUIDs für **Commerce-ID**und **App-ID** für Ihre Web-App. Sie benötigen beide IDs für die 30-tägige kostenlose Testversion der Azure Cost Management-App.
 
 ## <a name="add-a-secret-key-to-your-app"></a>Hinzufügen eines geheimen Schlüssels zu Ihrer App

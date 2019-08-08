@@ -3,17 +3,17 @@ title: Neue Anforderungen für direkte CSP-Partner | Partner Center
 ms.topic: article
 ms.date: 03/20/2018
 Description: Wenn Sie derzeit als direkter Partner im CSP-Programm registriert sind, sollten Sie sich auf diese neuen Anforderungen an Support und Services vorbereiten.
-program.author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: CSP, direkte Partner, Direktabrechnung, Anforderungen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7320d26479ce9d42959bdf91bafec7853ac4ca04
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 3563f113b30cb30e0373c4e81ca4389f19f95cc7
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135590"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820321"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>Neue Anforderungen für CSP-Direktabrechnungspartner
 
@@ -31,8 +31,8 @@ Als Direktabrechnungspartner sind Sie die für die End-to-End-Beziehung mit Ihre
 |--------------------------------|--------------------------------------------------------------|
 |**MPN-ID**   |Eine aktive Microsoft Partner Network (MPN)-ID für Ihren Unternehmensstandort    |
 |**Zustimmung**   |Die Befugnis zum Akzeptieren und Signieren von Vereinbarungen im Namen Ihres Unternehmens|
-|**Support**   |Die Fähigkeit, Ihren Kunden Cloud-Produktunterstützung der ersten Ebene zu bieten. <br>Ein Microsoft-Supportplan, entweder Erweiterter Support für Partner (Advanced Support for Partners, ASfP) oder Premiumsupport für Partner (Premier Support for Partners, PSfP). [Supportpläne vergleichen](https://partner.microsoft.com/en-US/support/partnersupport).<br> WICHTIG: Sie müssen vor dem Erwerb eines Supportplans eine Bonitätsprüfung bestehen. Wir benachrichtigen Sie per E-Mail, wenn Sie die Bonitätsprüfung bestanden haben. |
-|**Managed Services**   |Mindestens einen verwalteten Service, einen IP-Service oder eine Kundenlösungsanwendung. Weitere Informationen zum Hinzufügen von [verwalteten Services](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider).|
+|**Support**   |Die Fähigkeit, Ihren Kunden Cloud-Produktunterstützung der ersten Ebene zu bieten. <br>Ein Microsoft-Supportplan, entweder Erweiterter Support für Partner (Advanced Support for Partners, ASfP) oder Premiumsupport für Partner (Premier Support for Partners, PSfP). [Supportpläne vergleichen](https://partner.microsoft.com/support/partnersupport).<br> WICHTIG: Sie müssen vor dem Erwerb eines Supportplans eine Bonitätsprüfung bestehen. Wir benachrichtigen Sie per E-Mail, wenn Sie die Bonitätsprüfung bestanden haben. |
+|**Managed Services**   |Mindestens einen verwalteten Service, einen IP-Service oder eine Kundenlösungsanwendung. Weitere Informationen zum Hinzufügen von [verwalteten Services](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
 |**Debitoren** |Infrastruktur zur Verwaltung der Kundenabrechnung und -bereitstellung
 
 ### <a name="verify-direct-bill-eligibility"></a>Prüfen der Berechtigung für die Direktabrechnung

@@ -5,14 +5,14 @@ ms.date: 5/7/2019
 description: Erfahren Sie mehr über die Kompetenzanforderungen für die Mitgliedschaftsstufen Silber und Gold.
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Kompetenzen, silver-Mitgliedschaft, gold-Mitgliedschaft, Mpn, Karten, Kenntnisse, Microsoft Partner Network, Netzwerkmitgliedschaft, erweiterte spezialisierungen
+keywords: Kompetenzen, Silbermitgliedschaft, Goldmitgliedschaft, MPN, Maps, Kompetenz, Microsoft Partner Network, Netzwerk Mitgliedschaft, erweiterte Spezialisierung
 ms.localizationpriority: medium
-ms.openlocfilehash: 480f14df79f5899a24b23947528b44a7aa3b73ba
-ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.openlocfilehash: efc69215010e1ad32ae63c81556979f18f157f07
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "67549528"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820642"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>Erfahren Sie mehr über die Microsoft-Kompetenzanforderungen für die Silber und Gold-Mitgliedschaft
 
@@ -23,10 +23,10 @@ Demonstrieren Sie Ihre Kompetenzen für die Bereitstellung von Qualitätslösung
 
 - Mit einer **Gold-Mitgliedschaft** demonstrieren Sie Ihre herausragende Kompetenz in einem bestimmten Bereich der Microsoft-Lösungen.
 
-Erfahren Sie mehr über [die Voraussetzungen für die Gold und Silber-Mitgliedschaft verdienen](https://partner.microsoft.com/membership/competencies)
+Informationen [zu den erforderlichen Komponenten für die Silber-und Gold Mitgliedschaft](https://partner.microsoft.com/membership/competencies)
 
 Erfahren Sie mehr über [Rechnungen und Steuern für Kompetenzen](mpn-view-print-maps-invoice.md)
 
-## <a name="advanced-specializations"></a>Erweiterte spezialisierungen
+## <a name="advanced-specializations"></a>Erweiterte Spezialisierungs-
 
-Wechseln Sie über Ihre gold-Kompetenz mit einer erweiterten Spezialisierung sein. Diese bieten eine Möglichkeit, bewährte, überprüfbare Fachkenntnissen in einem Produkt, die Lösungsbereich oder den Dienst zu veranschaulichen. Kunden werden Ihre Gold-Kompetenz und Ihrer erweiterten Spezialisierung in Ihrer Business-Profil in das Partnerverzeichnis anzeigen können. Um eine erweiterte Spezialisierung-Tag zu erhalten, Ihr Unternehmen muss einen Satz von veröffentlichten Kriterien vollständig erfüllen, und von Microsoft überprüft. [Weitere Informationen](https://partner.microsoft.com/en-us/membership/competencies#tab-content-2). 
+Gehen Sie über Ihre Gold-Kompetenz mit einer erweiterten Spezialisierung hinaus. Diese bieten Ihnen die Möglichkeit, bewährtes, überprüfbares Fachwissen in einem Produkt, in einem Lösungs Bereich oder in einem Dienst vorzustellen. Kunden können Ihre Gold-Kompetenz und ihre erweiterte Spezialisierung in Ihrem Geschäftsprofil im Partnerverzeichnis sehen. Um ein erweitertes Spezialisierungs Kennzeichen zu erhalten, muss Ihr Unternehmen einen Satz veröffentlichter Kriterien vollständig erfüllen und von Microsoft überprüft werden. [Weitere Informationen](https://partner.microsoft.com/membership/competencies#tab-content-2). 

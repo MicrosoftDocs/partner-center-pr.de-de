@@ -1,24 +1,25 @@
 ---
 title: Analysieren der Azure-Nutzung | Partner Center
-ms.date: 07/12/2018
+ms.date: 08/02/2019
 Description: Rufen Sie im Partner Center Daten zur Nutzung der Azure-Abonnements Ihrer Kunden ab.
-Author: Xansky
-ms.author: mhopkins
+author: LauraBrenner
+ms.author: labrenne
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: Geschäftsdaten
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9bd76a51664b18a8b3cea1e4163415480186fd86
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 0cdf48f959591f11994b0538532fadbcb4f11a89
+ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668571"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68781984"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Abrufen von Daten zur Verwendung der Azure-Abonnements Ihrer Kunden 
+# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Informieren Sie sich unter Abrufen von Daten über die Verwendung von Azure-Abonnements Ihrer Kunden.
 
-**Gilt für**
+Gilt für:
+
 - Partner Center
 
 Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Azure-Nutzung**, um Ihre Erfolge sowie die Bereiche zu identifizieren, die mehr Aufmerksamkeit erfordern. Verwenden Sie diese Informationen für die Planung neuer Geschäftsziele.
@@ -28,24 +29,33 @@ Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der
 
 Wir verfolgen die folgenden Metriken:
 
-**Zusammenfassung**  
- - **Insgesamt verkaufte Azure-Abonnements**: Anzahl von Abonnements, die im angegebenen Zeitraum verkauft wurden  
- - **Kunden mit Nutzung**: Anzahl der Kunden mit Azure-Nutzung im angegebenen Zeitraum  
- - **Kunden ohne Nutzung**: Anzahl der Kunden ohne Azure-Nutzung im angegebenen Zeitraum  
+## <a name="summary"></a>Zusammenfassung
 
-**Top 5-Kunden in Kategorie**  
- -  Die Top 5-Kunden für die angegebene Kategorie  
+- **Insgesamt verkaufte Azure-Abonnements**: Anzahl von Abonnements, die im angegebenen Zeitraum verkauft wurden  
+- **Kunden mit Nutzung**: Anzahl der Kunden mit Azure-Nutzung im angegebenen Zeitraum  
+- **Kunden ohne Nutzung**: Anzahl der Kunden ohne Azure-Nutzung im angegebenen Zeitraum  
 
-**Abonnements ohne Nutzung**  
- -  Liste der spezifischen Abonnements ohne Azure-Nutzung im angegebenen Zeitraum  
+## <a name="top-5-customers-in-category"></a>Top 5-Kunden in der Kategorie
 
-**Änderungsumfang bei Azure-Abonnements**  
- - **Aktive Abonnements**: Die Anzahl der aktiven Abonnements nach Datum  
- - **Abonnements mit aufgehobener Bereitstellung**: Anzahl der Abonnements nach Datum, deren Bereitstellung aufgehoben oder ausgesetzt wurde  
+- Die Top 5-Kunden für die angegebene Kategorie  
 
-**Kundenanzahl**
- - Neukunden, die während des angegebenen Zeitraums gewonnen wurden  
+## <a name="azure-subscriptions-at-risk"></a>Risiken bei Azure-Abonnements
 
-**Beibehaltene Azure-Abonnements**  
- - Anzahl der Abonnements, die verlängert wurden   
-  
+In diesem Abschnitt wird das vorhergesagte Änderungs Risiko für Azure-Abonnements angegeben. Diese Informationen können von Partnern verwendet werden, um sich mit Kunden zu beauftragen und die Abwanderung zu minimieren.
+
+## <a name="subscriptions-without-usage"></a>Abonnements ohne Nutzung
+
+- Liste mit bestimmten Abonnements ohne Azure-Nutzung im angegebenen Zeitraum  
+
+## <a name="azure-subscription-churn"></a>Änderungsumfang bei Azure-Abonnements
+
+- **Aktive Abonnements**: Die Anzahl der aktiven Abonnements nach Datum  
+- **Abonnements mit aufgehobener Bereitstellung**: Anzahl der Abonnements nach Datum, deren Bereitstellung aufgehoben oder angehalten wurde  
+
+## <a name="customer-count"></a>Kundenanzahl
+
+- Neue Kunden, die während des angegebenen Zeitraums gewonnen wurden  
+
+## <a name="azure-subscription-retention"></a>Beibehaltene Azure-Abonnements
+
+- Anzahl der Abonnements, die verlängert wurden

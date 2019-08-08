@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fda8724b389913e49e01d64941622cf366516bf6
-ms.sourcegitcommit: 9156f3a7711fae5e0f9a2c5f29e74e8791836c8e
+ms.openlocfilehash: 8fae84790aa84b3c5a006d65a632668a33ac24a7
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "67818978"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820566"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -42,7 +42,7 @@ Gelegentlich kann die Kontenabstimmungsdatei Formatierungsprobleme aufweisen. (D
 
 ## <a name="downloading-a-large-recon-file"></a>Herunterladen einer großen Datei für das herunterladen
 
-Das Herunterladen von Dateien kann sehr groß werden und ist manchmal schwierig. Ein PowerShell-Skript, das Sie beim Herunterladen umfangreicher Datei Dateien unterstützt, finden Sie unter [Get Rechnungs Items](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items).
+Das Herunterladen von Dateien kann sehr groß werden und ist manchmal schwierig. Ein PowerShell-Skript, das Sie beim Herunterladen umfangreicher Datei Dateien unterstützt, finden Sie unter [Get Rechnungs Items](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items).
 
 ## <a href="" id="itemizebypartner"></a>Aufschlüsseln nach Partner
 

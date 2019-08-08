@@ -7,20 +7,20 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Schulungsgutscheine, Software Assurance, Schulung, Überprüfen von Gutscheinen, Reservieren von Gutscheinen
 ms.localizationpriority: medium
-ms.openlocfilehash: 210218d027af2cb0e02556593e3a6212124e28f6
-ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.openlocfilehash: ce1908e74169c3de4d2cd6d2d43ece379bf9d439
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67674221"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820500"
 ---
-# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Häufig gestellte Fragen Verwenden des Tools zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR) 
+# <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>FAQ: Verwenden des Tools zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR) 
 
 **Gilt für**
 
 - Partner Center
 
-Das Tool zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR) wurde ins [Partner Center](https://partner.microsoft.com/en-us/pcv/dashboard/overview) verlagert. Es folgen einige der häufigsten Fragen, die Partner stellen. 
+Das Tool zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR) wurde ins [Partner Center](https://partner.microsoft.com/pcv/dashboard/overview) verlagert. Es folgen einige der häufigsten Fragen, die Partner stellen. 
 
 **Für zum Partner Center migrierte Partner**
 
@@ -52,8 +52,8 @@ Ab dem 31. März 2019 verwalten alle Partner ihre Gutscheine im Partner Center. 
 
 - Um auf das VVR-Tool zugreifen zu können, muss sich Ihr Unternehmen entweder für das SATV- oder SA DPS-Programm registrieren.
 
-Lesen Weitere ausführlichen Fragen und Antworten auf die [Gutschein Tool validierungsworkflow](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o).
+Ausführlichere Informationen finden Sie unter dem [Workflow](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)für den Beleg Überprüfungs Tool.
 
 Informationen zur Registrierung beim SATV-Programm finden Sie unter [SATV-Programm (Software Assurance Training Voucher, Software Assurance-Trainingsgutschein) in Partner Center](software-assurance-satv.md).
 
-Informationen zur Registrierung in Software Assurance-DPS-Programmen finden Sie [Software Assurance-Programme im Partner Center](software-assurance-dps.md).
+Informationen zum Registrieren von Software Assurance-DPS-Programmen finden Sie unter [Software Assurance-Programme im Partner Center](software-assurance-dps.md).

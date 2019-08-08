@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: Abrechnung, Zahlungen, Bestellungen, Kündigung, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Kontenabstimmungsdateien, Kontenabstimmungsdatei
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cd1488fbe107363ca924823cdd526005f5a3f21c
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: e13f3d24e649cf17daa1e3218c3376c8fc6e4faa
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667742"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820378"
 ---
 # <a name="billing-overview"></a>Abrechnungsübersicht
 
@@ -27,7 +27,7 @@ Je nach den Produkten, Lösungen und Diensten, die Sie im Auftrag Ihrer Kunden e
 
     Wenn Sie Produkte oder Onlinedienste erwerben, für die Lizenzen erforderlich sind, wird Ihnen jede erworbene Lizenz (nicht deren Nutzung) in Rechnung gestellt. Sie können wählen, ob die Abrechnung einmal monatlich oder einmal jährlich erfolgen soll. Wenn sich Ihre Geschäftsanforderungen ändern, können Sie von einer zur anderen Abrechnungsart und wieder zurück wechseln. 
     
-    Weitere Informationen zu monatlicher und jährlicher Abrechnung finden Sie unter [Häufig gestellte Fragen](https://docs.microsoft.com/en-us/partner-center/faq-about-new-billing-features) zur Abrechnung.
+    Weitere Informationen zu monatlicher und jährlicher Abrechnung finden Sie unter [Häufig gestellte Fragen](https://docs.microsoft.com/partner-center/faq-about-new-billing-features) zur Abrechnung.
 
 -   [Nutzungsbasierte Abrechnung](#usagebasedbilling)
 

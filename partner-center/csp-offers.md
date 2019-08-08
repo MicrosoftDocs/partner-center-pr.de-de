@@ -1,18 +1,18 @@
 ---
 title: Angebote für Partner im Cloud Solution Provider-Programm | Partner Center
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 05/01/2019
 description: Erfahren Sie mehr zu den verfügbaren Angeboten für Partner im Cloud Solution Provider-Programm.
-author: MaggiePucciEvans
-ms.author: evansma
+author: LauraBrenner
+ms.author: labrenne
 keywords: Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Produkt hinzufügen, an Kunden verkaufen, Partnerangebote, CSP-Angebote, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner, in CSP verkaufen, Azure RI, Azure Reserved Virtual Machine Instances, Azure-Reservierungen, Onlinedienste, Abonnementsoftware, AHUB, SQL Server in Azure, Windows Server in Azure, Kundenabonnements
 ms.localizationpriority: medium
-ms.openlocfilehash: ea246701f57615064a87abb37cecafbb0d9151dc
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 88739f2a46efca2a60e3c9f841263554980bc329
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134810"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820451"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Angebote für Partner im Cloud Solution Provider-Programm 
 
@@ -28,7 +28,7 @@ Noch nicht für das Cloud Solution Provider-Programm registriert? Unter [Cloud S
 
 Derzeit können Sie Ihren CSP-Kunden die folgenden Arten von Produkten und Dienstleistungen verkaufen:
 
-- Azure Reservations<br> 
+- Azure-Reservierungen<br> 
 
     Kunden können im Voraus Speicherplatz auf virtuellen Azure-Computern für eine Laufzeit von 1 oder 3 Jahren reservieren.<br>
     
@@ -42,7 +42,7 @@ Derzeit können Sie Ihren CSP-Kunden die folgenden Arten von Produkten und Diens
 
 - Onlinedienste<br>
 
-    *Onlinedienste* ist die neue Bezeichnung für das, was wir heute *Abonnements* nennen. Um die Bestellung und Bezahlung mehrerer Arten von Produkten an einem zentralen Ort zu vereinfachen, haben wir den Aufgabenverlauf „Abonnement hinzufügen“ in den Aufgabenverlauf „Produkte hinzufügen“ integriert.<br>
+    *Online Services* ist der neue Name für die Vorgänge, die derzeit als *Abonnements*bezeichnet werden. Um Ihnen das Anordnen mehrerer Produkttypen an einem Ort zu erleichtern, haben wir den Aufgaben Fluss "Abonnement hinzufügen" in den Aufgaben Fluss "Produkte hinzufügen" integriert.<br>
     
     Weitere Informationen finden Sie unter [Kundenabonnements](customer-subscriptions.md).
 
@@ -50,14 +50,31 @@ Derzeit können Sie Ihren CSP-Kunden die folgenden Arten von Produkten und Diens
 
     Sie können für SaaS-Produkte von unabhängigen Softwareanbietern (ISVs) Abonnements verkaufen. Um unter **Onlinedienste** nur SaaS-Angebote zu finden, legen Sie mithilfe der Filter **Herausgeber** auf **Partner** fest. Dadurch werden alle SaaS-Angebote angezeigt, die für diesen Kunden erworben werden können.<br>
     
-    Informationen zu diesen Produkten finden auch auf der Seite **Marketplace**. Beachten Sie, dass diese Seite auch Informationen zu anderen Arten von Produkten enthält, die über das Azure-Portal und nicht über das Partner Center erworben werden müssen.<br>
+    Informationen zu diesen Produkten finden auch auf der Seite **Marketplace**. Beachten Sie, dass diese Seite auch Informationen zu anderen Produkttypen enthält, die über den Azure-Portal gekauft werden müssen, nicht über Partner Center.<br>
 
     Weitere Informationen finden Sie unter [Verkaufen von Abonnements für Azure Marketplace-Produkte](sell-marketplace-products.md).
 
+## <a name="add-products-page-details"></a>Details der Produktseite hinzufügen
+
+In der folgenden Liste werden die einzelnen neuen Bereiche auf der Seite **Produkte hinzufügen** identifiziert.
+
+**Produkte hinzufügen** : auf dieser Seite sind alle Produkttypen enthalten, die Sie an Ihre Kunden verkaufen können.
+
+**Produktkategorien** - **Azure, Online Dienste, Software** wählen Sie den Typ des Produkts aus, an dem Sie interessiert sind, um nur diese Produkte anzuzeigen.
+
+**Segment** : identifiziert den allgemeinen Geschäftstyp, z. b. kommerziell oder Government, an den Sie verkaufen möchten
+
+**Herausgeber** : Wählen Sie aus, welche Arten von Produkten Sie sehen möchten: apps, die von Microsoft oder von Drittanbietern erstellt wurden.
+
+**Abrechnungstyp** : gibt an, ob das Produkt für die Anzahl von Lizenzen oder für die Nutzung abgerechnet wird.
+
+**Kategorie** : gibt den Typ des Unternehmens an, den das Produkt unterstützt, und ob es eine Testversion bietet.
+
+**SKU anzeigen, Produktanzeigen** : Wählen Sie diese Option aus, um Zwischenprodukt-und SKU-Listen zu wechseln. **Produkte** listet die einzelnen Produkte einzeln auf. **SKU** listet Produktgruppen auf.
 
 ## <a name="buy-csp-offers"></a>Erwerben von CSP-Angeboten
 
-Um Produkte und Dienstleistungen im Auftrag Ihrer CSP-Kunden zu kaufen, wählen Sie die Artikel aus, die der Kunde wünscht. Fügen Sie sie Ihrem Einkaufswagen hinzu, wodurch eine Bestellung erstellt wird, und prüfen und bezahlen Sie dann die Bestellung. Der allgemeine Ablauf wird im Folgenden beschrieben. (Weitere Informationen zu Bestellungen eines bestimmten Produkts finden Sie über die obigen Links.)
+Wenn Sie Produkte und Dienste im Auftrag ihrer CSP-Kunden kaufen möchten, wählen Sie die gewünschten Elemente aus, fügen Sie Sie Ihrem Warenkorb hinzu, wodurch eine Bestellung entsteht, und überprüfen und senden Sie dann die Bestellung. Der allgemeine Ablauf wird im Folgenden beschrieben. (Weitere Informationen zu Bestellungen eines bestimmten Produkts finden Sie über die obigen Links.)
 
 1. Wählen Sie **Kunden** im Menü „Partner Center“ aus, und suchen Sie den Kunden, der bei Ihnen kaufen möchte. 
 
@@ -76,6 +93,6 @@ Um Produkte und Dienstleistungen im Auftrag Ihrer CSP-Kunden zu kaufen, wählen 
 8. Die Details Ihrer Bestellung, einschließlich Ihrer Bestellnummer, werden auf der nächsten Seite angezeigt. Klicken Sie auf **Fertig**, und wechseln Sie zur Seite **Bestellverlauf**. 
 
 > [!NOTE]
-> Weitere Informationen zur Funktionsweise des Abrechnungsprozesses finden Sie unter [**Grundlegendes zur Abrechnung**](https://docs.microsoft.com/en-us/partner-center/billing-basics).
+> Weitere Informationen zur Funktionsweise des Abrechnungsprozesses finden Sie unter [**Grundlegendes zur Abrechnung**](https://docs.microsoft.com/partner-center/billing-basics).
 
 

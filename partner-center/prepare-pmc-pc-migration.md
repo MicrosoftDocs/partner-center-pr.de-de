@@ -6,12 +6,12 @@ description: Dinge, die Sie berücksichtigen sollten, bevor Sie Ihr Geschäft vo
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 411093a885abf2144df218d8ef28a07a10f09061
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.openlocfilehash: d6db2dcb5ac53e29d907c09ca2b16d123b21c07f
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67854520"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820569"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Vorbereiten des Verschiebens von Partner Membership Center (PMC) zu Partner Center
 
@@ -29,7 +29,7 @@ Im Partner Center verwenden Sie Ihre geschäftliche e-Mail-Adresse, um sich bei 
 - Ihr Geschäftskonto:john@contoso.com
 - Ihr persönliches Konto:John@outlook.com
 
-Ihre geschäftliche e-Mail-Adresse ist Teil Ihres Azure Active Directory-Mandanten. Wenn Sie über ein Konto im Partner Center verfügen möchten, benötigen Sie einen Aad-Mandanten. Weitere Informationen zu Azure Active Directory finden Sie unter [Erstellen Ihres Verzeichnisses in Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+Ihre geschäftliche e-Mail-Adresse ist Teil Ihres Azure Active Directory-Mandanten. Wenn Sie über ein Konto im Partner Center verfügen möchten, benötigen Sie einen Aad-Mandanten. Weitere Informationen zu Azure Active Directory finden Sie unter [Erstellen Ihres Verzeichnisses in Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
 **Wenn Sie von PMC zu Partner Center wechseln, mit welchem Konto sollten Sie sich bei Partner Center anmelden, wenn Sie über einen Aad-Mandanten mit Microsoft verfügen (z. b. für Office 365) und auch über einen Mandanten für Ihr CSP-Geschäft verfügen?**
 
@@ -66,7 +66,7 @@ Partner Center verfügt über verschiedene Arten von Rollen, abhängig von den A
 
 **Was geschieht mit den Rollen meiner Benutzer, wenn Sie von der PMC zu Partner Center wechseln?**
 
-Mit Ausnahme des globalen MPN-Administrators oder primären Programm Kontakts, der die Migration durchführt, verlieren alle Benutzer in der PMC Ihre Administrator Rollen. Die Person, die die Migration abschließt, muss im Partner Center Rollen zuweisen. Die Rollen im Partner Center unterscheiden sich von denen in der PMC. Weitere Informationen zu Benutzer Rollen in Partner Center finden Sie unter [Zuweisen von Benutzern Rollen und Berechtigungen] (Berechtigungen-Overview.MD und [Wechseln von der PMC zu Partner Center](https://docs.microsoft.com/en-us/partner-center/move-pmc-pc-map#user-roles) .
+Mit Ausnahme des globalen MPN-Administrators oder primären Programm Kontakts, der die Migration durchführt, verlieren alle Benutzer in der PMC Ihre Administrator Rollen. Die Person, die die Migration abschließt, muss im Partner Center Rollen zuweisen. Die Rollen im Partner Center unterscheiden sich von denen in der PMC. Weitere Informationen zu Benutzer Rollen in Partner Center finden Sie unter [Zuweisen von Benutzern Rollen und Berechtigungen] (Berechtigungen-Overview.MD und [Wechseln von der PMC zu Partner Center](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles) .
 
 
 **Worin besteht der Unterschied zwischen meinem Unternehmensprofil und meinem Geschäftsprofil?**

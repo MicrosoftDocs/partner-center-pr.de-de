@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 Description: Um Azure-Reservierungen nach dem Kauf für Ihre Kunden zu verwalten, wählen Sie den Kunden und die Reservierung, die Sie im Partner Center verwalten möchten, und nehmen Sie dann die Änderungen an der Reservierung im Azure-Portal vor.
 author: LauraBrenner
-ms.author: v-petand
+ms.author: labrenne
 keywords: Azure, Reservierungen, verwalten, Abrechnung, Kauf, Stornierung, Umtausch, Gebühr bei vorzeitiger Kündigung
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: bdd79c7c88f6ad553f1a8733e17d434dfbaf2a99
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 56802383a363afabc84932afd099bdb4c0a85a66
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668496"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708766"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Verwalten von Microsoft Azure Reservations im Auftrag Ihrer Kunden
 
@@ -35,7 +35,7 @@ Um Azure-Reservierungen nach dem Kauf für Ihre Kunden zu verwalten, wählen Sie
     |:-----------------------------|:-----------------|
     | **Übersicht**   | Hier werden Reservierungsdetails des Kunden angezeigt, einschließlich Ablaufdatum, Bereich und Nutzungsdaten. **Hinweis** Wählen Sie **Rückerstattung** aus, um eine Supportanfrage für eine anteilige Rückerstattung zu stellen. Wählen Sie **Umtausch** aus, um eine Supportanfrage zu stellen, um den ungenutzten Teil Ihrer Reservierungslaufzeit umzutauschen.  
     | **Zugriffssteuerung (IAM)**   | Dient zum Verwalten des Zugriffs auf die Informationen zur Reservierung des Kunden.|
-    | **Konfiguration**   | Dient zum Ändern des Reservierungsbereichs bzw. Azure-Abonnements, dem die Reservierung zugeordnet ist.    |
+    | **Configuration**   | Dient zum Ändern des Reservierungsbereichs bzw. Azure-Abonnements, dem die Reservierung zugeordnet ist.    |
     | **Eigenschaften**   | Dient zum Anzeigen der Eigenschaften der Reservierung und Kopieren der Reservierungs-ID und Reservierungsauftrags-ID in die Zwischenablage. **Hinweis** Der Support fordert möglicherweise die Reservierungs-ID und Reservierungsauftrags-ID an, wenn Sie im Auftrag eines Kunden Support anfordern.    |
     | **Neue Supportanfrage**    | Dient zum Anfordern von Hilfe vom Microsoft-Support.   |
  
@@ -55,7 +55,7 @@ Nachfolgend finden Sie Details zu Kündigung und Gebühren.
 
 |**Kündigungsdatum**<br> (Tage)   |**Nutzung**    |**Guthaben**  |**Frühzeitige Kündigung**<br> gebühr    |**Max. Rückerstattungsbetrag** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 oder weniger                         | Nein          | 100 %       | Nein                              | 50.000 USD   |
+|5 oder weniger                         | Nein          | 100%       | Nein                              | 50.000 USD   |
 |5 oder weniger                         | Ja         | Anteilig  | Nein                              | 50.000 USD   |
 |Mehr als 5                        | Nein          | Anteilig  | 12 %                             | 50.000 USD   |
 |Mehr als 5                        | Ja         | Anteilig  | 12 %                             | 50.000 USD   |

@@ -8,12 +8,12 @@ ms.author: evansma
 keywords: Partner, Partnerschaft, MPN, Microsoft Partner Network Action Pack, MAPS, Aktion Pack-Abonnement, Vorteile, MPN-Vorteile, Mitgliedschaft, Silver, Gold, Kompetenzen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e40835faf14b010cf8f8e448293e0d25cb687e11
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 85c4fa8c0b8d6e0e680f4e7ce6f4b3498bdfcd0a
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668276"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820619"
 ---
 # <a name="partner-with-microsoft"></a>Partner von Microsoft
 
@@ -23,7 +23,7 @@ Weitere Informationen zu den Vorteilen einer Partnerschaft mit Microsoft finden 
 
 ## <a name="join-the-microsoft-partner-network"></a>Dem Microsoft Partner Network beitreten
 
-<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/en-us/membership)-->
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/membership)-->
 
 Im Microsoft Partner Network finden Sie das größte Angebot von Produkten in der Branche sowie Programmoptionen für die Abgrenzung Ihres Unternehmens, für die Markteinführung und für den Verkauf Ihrer Lösungen. Treten Sie kostenlos bei, und wählen Sie dann aus, wie Sie in Ihre Partnerschaft mit einem Microsoft Action Pack, Starterkit oder einer Kompetenz investieren möchten.
 
@@ -37,7 +37,7 @@ Wenn Sie dem Microsoft Partner Network beitreten möchten, wechseln Sie zur Seit
 
 ## <a name="microsoft-partner-network-membership-types"></a>Arten der Microsoft Partner Network-Mitgliedschaft
 
-<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/en-us/membership)-->
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/membership)-->
 
 Das Microsoft Partner Network bietet Ihnen drei Arten der Mitgliedschaft, die im Folgenden beschrieben sind. Jede davon umfasst eine Reihe von Vorteilen für das Wachstum Ihres Unternehmens. Sobald Sie Ihre Ziele erreichen, nehmen Sie entsprechend Ihrer einzigartigen geschäftlichen Anforderungen am Programm teil, um auf die Vorteile zuzugreifen und Ihre Partnerschaft mit uns und anderen Partnern im Netzwerk weiterzuentwickeln.
 
@@ -69,9 +69,9 @@ Wenn Sie dem Microsoft Partner Network beitreten, erhalten Sie eine Reihe grundl
 
 In den folgenden Ressourcen erfahren Sie mehr über Network-Mitgliedschaftsvorteile und Anforderungen:
 
-- [Hauptvorteile](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-1)
+- [Hauptvorteile](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-1)
 - [Verwalten Ihrer MPN-Vorteile in Partner Center](manage-your-partner-network-benefits.md)
-- [Grundlegende Anforderungen](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-2)
+- [Grundlegende Anforderungen](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
 ## <a name="see-also"></a>Siehe auch
 - [Umsatzsteigerung für Microsoft-Partner](grow-your-business.md)

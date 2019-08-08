@@ -2,17 +2,17 @@
 title: Anpassen der Windows-Willkommensseite eines Geräts mit Windows Autopilot-Profilen | Partner Center
 description: Vorkonfigurieren der Windows-Willkommensseite eines Geräts mit Autopilot-Profilen.
 ms.topic: article
-ms.date: 03/18/19
+ms.date: 03/18/2019
 author: maggiepuccievans
 ms.author: evansma
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero-Touch Deployment, Windows-Willkommensseite, Anmeldebildschirme, Willkommensseite
 ms.localizationpriority: medium
-ms.openlocfilehash: e940a7ccf79f6b43d3712a2f3ae2f9b150e1473e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 213ed9e45e0109eaa88d7575249272ba403dfcfd
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134710"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708746"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Anpassen der Windows-Willkommensseite eines Geräts mit Windows Autopilot-Profilen
 
@@ -20,7 +20,11 @@ ms.locfileid: "62134710"
 
 - CSP-Partner mit Direktfakturierung, indirekte Anbieter und indirekte Vertriebspartner
 
-Wenn Sie Kundengeräte verwalten, müssen Sie die Windows-Willkommensseite für die Benutzer des Kunden anpassen. Sie können neue Geräte mit Windows Autopilot-Profilen vorkonfigurieren, bevor Sie die Geräte an Kunden ausliefern, und neue Profile auf bereits erworbene Geräte anwenden. In diesem Artikel wird erläutert, wie Sie im Partner Center Autopilot-Profile erstellen und auf Geräte anwenden.
+Wenn Sie Kundengeräte verwalten, müssen Sie die Windows-Willkommensseite für die Benutzer des Kunden anpassen. Sie können neue Geräte mit Windows Autopilot-Profilen vorkonfigurieren, bevor Sie die Geräte an Kunden ausliefern, und neue Profile auf bereits erworbene Geräte anwenden. 
+
+Beachten Sie, dass OEMs damit begonnen haben, eine Versand Bezeichnung auf der Außenseite des Autopilot-Geräts hinzufügen, die die **Product Key-ID (pkid)** des Geräts anzeigt.  Dieser eindimensionale, lesbare Barcode bietet downstreampartnern eine Möglichkeit, Geräte für Autopilot zu registrieren, ohne die Geräte zu entkacken und die Geräte-ID auf alternative Weise zu erfassen.
+
+In diesem Artikel wird erläutert, wie Sie im Partner Center Autopilot-Profile erstellen und auf Geräte anwenden.
 
 Wenn Sie noch nicht mit Autopilot vertraut sind, lesen Sie die Informationen in diesen Artikeln:
 

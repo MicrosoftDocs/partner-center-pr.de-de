@@ -6,12 +6,12 @@ description: Arbeiten Sie mit anderen Partnern im CSP zusammen, um die Bedürfni
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c8fbd890ff6fe048ab2f9d7ca49bfd27946540f
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 772544e474a15e11f64a315c3e6e5b04ec58d52c
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668250"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820543"
 ---
 # <a name="work-with-other-partners"></a>Zusammenarbeit mit anderen Partnern
 
@@ -52,4 +52,4 @@ Das Partner Center-Feature zur Unterstützung mehrerer Kanäle eignet sich für 
 Die Multichannel-Unterstützung ist auch in Microsoft-Angeboten für nationale Clouds verfügbar.
 
 > [!IMPORTANT]  
-> Ein Partner im CSP-Programm kann derzeit einem anderen Partner im CSP-Programm keine Onlinedienste verkaufen. Microsoft überprüft ständig die Richtlinien und Möglichkeiten aller Programme. Alle Neuigkeiten zur Freigabe von Features oder Richtlinienänderungen werden über die üblichen Kommunikationskanäle angekündigt, einschließlich [Partner Center-Ankündigungen](https://partner.microsoft.com/en-us/pcv/announcements).
+> Ein Partner im CSP-Programm kann derzeit einem anderen Partner im CSP-Programm keine Onlinedienste verkaufen. Microsoft überprüft ständig die Richtlinien und Möglichkeiten aller Programme. Alle Neuigkeiten zur Freigabe von Features oder Richtlinienänderungen werden über die üblichen Kommunikationskanäle angekündigt, einschließlich [Partner Center-Ankündigungen](https://partner.microsoft.com/pcv/announcements).

@@ -1,17 +1,17 @@
 ---
 title: Software Assurance-Programme| Partner Center
 ms.topic: article
-ms.date: 01/14/19
+ms.date: 01/14/2019
 description: Registrieren und Verwalten von Software Assurance-Programmen im Partner Center
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a2f0fcb90ed13af3f885325f2211523df5c981e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ad6ac1d360e958ae75b3c14467928d77ec1b547d
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133854"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708855"
 ---
 # <a name="participate-in-software-assurance-programs"></a>Teilnehmen an Software Assurance-Programmen
 

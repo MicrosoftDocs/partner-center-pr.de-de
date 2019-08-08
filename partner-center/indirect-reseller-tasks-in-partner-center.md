@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: Indirekte Vertriebspartner, Händler, indirekte Anbieter, Anbieter, Partnerschaft, VAR, Ebene2, Ebene 2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 88b3bbccc6716696e3ad26034ca794459839b975
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 7843fd98418ac65204096757ea26c5be9f2078a6
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668598"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820655"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Anbietern im Programm für Cloud-Lösungsanbieter
 
@@ -55,7 +55,7 @@ Wir benötigen diese Informationen, um sicherzustellen, dass Ihre Organisation �
  
 Beachten Sie, dass die Überprüfung Ihrer Angaben mehrere Tage dauern kann. Wir informieren Ihren Hauptansprechpartner per E-Mail, wenn unsere Überprüfung abgeschlossen ist.
 
-### <a name="get-started"></a>Beginnen
+### <a name="get-started"></a>Erste Schritte
 
 1.  Starten Sie den Registrierungsprozess [hier](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller).
 
@@ -71,7 +71,7 @@ Wenn Sie kein Geschäftskonto besitzen, wählen Sie **Erstellen** aus, um jetzt 
 
 6.  Geben Sie das Kennwort für Ihr Partner Membership Center-Konto ein, und wählen Sie dann **Anmelden** aus.
 
-7.  Wählen Sie das Organisationsprofil mit der MPN-ID aus, die mit Ihren Anreizen, Mitgliedsvorteilen und Kompetenzen verknüpft ist, damit wir diese Informationen auf Ihr Partner Center-Konto übertragen können. Klicken Sie auf **Weiter**.
+7.  Wählen Sie das Organisationsprofil mit der MPN-ID aus, die mit Ihren Anreizen, Mitgliedsvorteilen und Kompetenzen verknüpft ist, damit wir diese Informationen auf Ihr Partner Center-Konto übertragen können. Wählen Sie **weiterhin**.
 
 Wenn die MPN-ID, die Sie verwenden möchten, auf dieser Seite nicht aufgeführt wird, wählen Sie **Abbrechen** aus, und melden Sie sich mit dem Benutzernamen und Kennwort für das gewünschte Organisationsprofil an. 
 > [!IMPORTANT]  
@@ -116,7 +116,7 @@ Partner Center-Zugriff ist rollenbasiert. So können Sie Berechtigungen zum Anpa
 
 Durch die Zusammenarbeit mit einem indirekten Anbieter können Sie Ihren Kunden ein breiteres Spektrum an cloudbasierten Diensten und Lösungen von Microsoft anbieten. Indirekte Anbieter verfügen über Systeme und Infrastrukturen zur Bereitstellung verlässlicher Kundenabrechnungen und Supportleistungen, sodass Sie sich ganz auf Ihre Technologielösungen und auf die Interaktion mit Kunden konzentrieren können. 
 
-Falls Sie noch nicht mit einem Anbieter (oder Händler) zusammenarbeiten, können Sie die [Liste mit den offizieller Microsoft-Anbietern](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) durchsuchen. Wenn Sie einen Anbieter finden, mit dem Sie zusammenarbeiten möchten, kontaktieren Sie ihn direkt, um seine Programme für Vertriebspartner, Supportleistungen und Bedingungen zu besprechen. Nachdem Sie sich auf eine Zusammenarbeit geeinigt haben, müssen Sie Ihre Konten im Partner Center verknüpfen. 
+Falls Sie noch nicht mit einem Anbieter (oder Händler) zusammenarbeiten, können Sie die [Liste mit den offizieller Microsoft-Anbietern](https://partnercenter.microsoft.com/partner/find-a-provider) durchsuchen. Wenn Sie einen Anbieter finden, mit dem Sie zusammenarbeiten möchten, kontaktieren Sie ihn direkt, um seine Programme für Vertriebspartner, Supportleistungen und Bedingungen zu besprechen. Nachdem Sie sich auf eine Zusammenarbeit geeinigt haben, müssen Sie Ihre Konten im Partner Center verknüpfen. 
 
 Wenn ein indirekter Anbieter in Partner Center mit Ihnen zusammenarbeiten möchte, wird der folgende Ablauf initiiert:
 
@@ -197,8 +197,4 @@ Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den L
 
 [Erstellen eines Marketingprofils](create-a-marketing-profile.md)
 
-[Verwalten Ihrer Anreize in Partner Center](manage-your-incentives-in-partner-center.md)
-
-
-
-
+[Verwalten Ihrer Anreize in Partner Center](understand-incentive-payouts.md)

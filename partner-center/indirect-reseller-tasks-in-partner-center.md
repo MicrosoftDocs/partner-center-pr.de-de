@@ -9,16 +9,16 @@ ms.author: evansma
 keywords: Indirekte Vertriebspartner, Händler, indirekte Anbieter, Anbieter, Partnerschaft, VAR, Ebene2, Ebene 2
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7843fd98418ac65204096757ea26c5be9f2078a6
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.openlocfilehash: 5f424bc779bf86bfc278f969d4bbf0ea72729182
+ms.sourcegitcommit: 4276856f46d8d53c4878ba9d176c10e9607366b8
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820655"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68935479"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Anbietern im Programm für Cloud-Lösungsanbieter
 
-Die rasant wachsende Nachfrage nach cloudbasierten Lösungen und Diensten bietet Microsoft-Partnern aller Größen zahlreiche Chancen für den Aufbau eines rentablen Cloudlösungsgeschäfts. Partner, die auf diesem Markt Fuß fassen möchten, die jedoch nicht mehrere Anbieter verwalten möchten, oder über keine End-to-End-Infrastruktur für die Kundenverwaltung verfügen, können sich beim Microsoft-Programm für Cloud-Lösungsanbieter (Cloud Solution Provider, CSP) als indirekter Vertriebspartner registrieren.
+Die rasant wachsende Nachfrage nach cloudbasierten Lösungen und Diensten bietet Microsoft-Partnern aller Größen zahlreiche Chancen für den Aufbau eines rentablen Cloudlösungsgeschäfts. Partner, die auf den Markt gehen, aber nicht mehrere Anbieter verwalten möchten oder die über keine End-to-End-Infrastruktur für die Kundenverwaltung verfügen, können sich beim Microsoft-Programm für Cloud-Lösungsanbieter (Cloud Solution Provider, CSP) als indirekter Wiederverkäufer registrieren.
 
 Als indirekter Vertriebspartner in CSP arbeiten Sie mit indirekten Anbietern (auch Distributoren genannt) zusammen, die eine direkte Partnerschaft mit Microsoft haben und Kundensupport sowie Abrechnungsleistungen erbringen können. Sie können bei Ihren ersten Schritten also von der Unterstützung durch einen erfahrenen Technologieanbieter profitieren. Im Rahmen des (zweistufigen) Anbieter-Vertriebspartner-Modells erwirbt der Anbieter Cloudlösungen und -dienste von Microsoft, die Sie dann an Kunden weiterverkaufen.
 
@@ -55,7 +55,7 @@ Wir benötigen diese Informationen, um sicherzustellen, dass Ihre Organisation �
  
 Beachten Sie, dass die Überprüfung Ihrer Angaben mehrere Tage dauern kann. Wir informieren Ihren Hauptansprechpartner per E-Mail, wenn unsere Überprüfung abgeschlossen ist.
 
-### <a name="get-started"></a>Erste Schritte
+### <a name="get-started"></a>Beginnen
 
 1.  Starten Sie den Registrierungsprozess [hier](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller).
 
@@ -71,7 +71,7 @@ Wenn Sie kein Geschäftskonto besitzen, wählen Sie **Erstellen** aus, um jetzt 
 
 6.  Geben Sie das Kennwort für Ihr Partner Membership Center-Konto ein, und wählen Sie dann **Anmelden** aus.
 
-7.  Wählen Sie das Organisationsprofil mit der MPN-ID aus, die mit Ihren Anreizen, Mitgliedsvorteilen und Kompetenzen verknüpft ist, damit wir diese Informationen auf Ihr Partner Center-Konto übertragen können. Wählen Sie **weiterhin**.
+7.  Wählen Sie das Organisationsprofil mit der MPN-ID aus, die mit Ihren Anreizen, Mitgliedsvorteilen und Kompetenzen verknüpft ist, damit wir diese Informationen auf Ihr Partner Center-Konto übertragen können. Klicken Sie auf **Weiter**.
 
 Wenn die MPN-ID, die Sie verwenden möchten, auf dieser Seite nicht aufgeführt wird, wählen Sie **Abbrechen** aus, und melden Sie sich mit dem Benutzernamen und Kennwort für das gewünschte Organisationsprofil an. 
 > [!IMPORTANT]  

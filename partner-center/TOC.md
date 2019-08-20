@@ -115,7 +115,7 @@
 ### [Erstellen, Aussetzen oder Stornieren von Kundenabonnements](create-a-new-subscription.md)
 ### [Verwenden von Werbeaktionen zum Gewinnen neuer Kunden](promotions.md)
 ### [Anbieten von Testversionen von Microsoft-Produkten für Kunden](offer-your-customers-trials-of-microsoft-products.md)
-### [Verkaufen von Abonnements für Azure Marketplace-Produkte](sell-marketplace-products.md)
+### [Verkaufen von Abonnements für kommerzielle Marketplace-Produkte](sell-marketplace-products.md)
 ### [Zuweisen von Azure-Abonnements in Partner Center](assign-azure-subscriptions.md)
 ### [Zuweisen von Lizenzen an Benutzer](assign-licenses-to-users.md)
 ### [Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement](add-licenses-or-services-to-an-existing-subscription.md)

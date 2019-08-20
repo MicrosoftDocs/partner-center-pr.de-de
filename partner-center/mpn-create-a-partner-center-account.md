@@ -1,17 +1,17 @@
 ---
 title: Erstellen eines Partner Center-Kontos | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 08/12/2019
 description: Mitglieder im Microsoft Partner Network müssen ein Partner Center-Konto erstellen, um ihre Netzwerkvorteile und Kompetenzen verwalten und ein Geschäftsprofil erstellen zu können.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bf6fbc44d7f35590ea39e554e15be6a1963b4766
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
+ms.openlocfilehash: 5144f6e303a4afeccc6ccf74e966d8beba41f947
+ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668024"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "68958745"
 ---
 # <a name="create-a-partner-center-account"></a>Erstellen eines Partner Center-Kontos
 
@@ -23,9 +23,9 @@ ms.locfileid: "64668024"
 
 In diesem Artikel erfahren Sie, wie Sie ein Partner Center-Konto erstellen. Er richtet sich an Partner, die ihre Partner Network-Mitgliedschaftsinformationen aus Partner Membership Center in Partner Center verschieben möchten. 
 
-Damit Sie ein Konto in Partner Center erstellen oder sich für ein Partnerprogramm registrieren können, muss Ihr Unternehmen Mitglied im Microsoft Partner Network sein. Falls Sie noch kein Mitglied des Netzwerks sind, können Sie [jetzt beitreten](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  Weitere Informationen zur Mitgliedschaft im Microsoft Partner Network finden Sie [hier](https://partner.microsoft.com/membership).  
+Damit Sie ein Konto in Partner Center erstellen oder sich für ein Partnerprogramm registrieren können, muss Ihr Unternehmen Mitglied im Microsoft Partner Network sein. Falls Sie noch kein Mitglied des Netzwerks sind, können Sie [jetzt beitreten](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx).  Weitere Informationen zur Mitgliedschaft im Microsoft Partner Network finden Sie [hier](https://partner.microsoft.com/membership). Nachdem Sie ein Partner Center-Konto erstellt haben, schauen Sie sich dieses kurze Video an: [Entdecken Ihres Dashboards](https://vimeo.com/290338211).
 
-Nach der Erstellung eines Partner Center-Kontos haben Sie folgende Möglichkeiten:
+### <a name="some-next-steps"></a>Einige weitere Schritte
 
 -   [Kaufen und Verlängern von Microsoft Action Pack-Abonnements](mpn-get-action-pack.md)
 

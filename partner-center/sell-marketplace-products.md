@@ -1,18 +1,18 @@
 ---
 title: Verkaufen von Abonnements für Azure Marketplace-Produkte | Partner Center
 ms.topic: article
-ms.date: 07/12/2019
+ms.date: 08/07/2019
 description: Sie können das Partner Center verwenden, um Ihren Kunden Abonnements für SaaS-Produkte (Software as a Service) zu verkaufen, die in Azure Marketplace von unabhängigen Softwareherstellern (ISVs) veröffentlicht wurden.
 author: JnHs
 ms.author: jenhayes
 keywords: Abonnements, Marketplace, Drittanbieter, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 4dda776e7ebdece3a8a15c3576b64d93d3e4158c
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
-ms.translationtype: MT
+ms.openlocfilehash: 204a0638399034c753474bb0ce92434ca318f5bb
+ms.sourcegitcommit: ea68a16c2ed386cca983dd3fa85032450eacf871
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67854502"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68860949"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>Verkaufen von Abonnements für Azure Marketplace-Produkte
 
@@ -26,7 +26,7 @@ Für weitere Informationen zu Azure Marketplace finden Sie unter [Häufig gestel
 
 ## <a name="view-marketplace-offers-and-pricing"></a>Anzeigen von Marketplace-Angeboten und -Preisen
 
-Wählen Sie **Marketplace** aus dem linken Navigationsmenü aus, um alle verfügbaren Angebote anzuzeigen. Standardmäßig werden Ihnen Produkte aller Arten und Kategorien angezeigt. Sie können nach Typ und/oder Kategorie filtern oder das Suchfeld verwenden, um nach bestimmten Schlüsselwörtern zu suchen. Wählen Sie ein Produkt aus, um Informationen zum Verleger und zu verfügbaren SKUs anzuzeigen, einschließlich Informationen dazu, ob ein kostenloser Testzeitraum angeboten wird.
+Wählen Sie **Marketplace** aus dem linken Navigationsmenü aus, um alle verfügbaren Angebote anzuzeigen. Standardmäßig werden Ihnen Produkte aller Arten und Kategorien angezeigt. Sie können nach Typ und/oder Kategorie filtern oder das Suchfeld verwenden, um nach bestimmten Schlüsselwörtern zu suchen. Wählen Sie ein Produkt aus, um Informationen zum Herausgeber und zu den verfügbaren SKUs zu erhalten, einschließlich der Frage, ob ein kostenloser Testzeitraum angeboten wird.
 
 > [!NOTE]
 > Einige Produkte, die in Azure Marketplace erhältlich sind, werden hier möglicherweise nicht angezeigt. Unabhängige Softwarehersteller (ISVs) haben die Wahl, ob sie ihre Produkte den Partnern des Cloud Solution Providers (CSP) im Partner Center anbieten. Wenn Sie ein Produkt in Azure Marketplace sehen, das Sie Ihren Kunden über das Partner Center anbieten möchten, suchen Sie die Kontaktdaten des Herausgebers in Azure Marketplace und lassen Sie ihn wissen, dass Sie interessiert sind.
@@ -34,7 +34,9 @@ Wählen Sie **Marketplace** aus dem linken Navigationsmenü aus, um alle verfüg
 Die Preise für Azure Marketplace-Produkte können sich ständig ändern. Um aktuelle Preisinformationen für alle Marketplace-Produkte zu erhalten, wählen Sie **Preisliste exportieren** in der oberen rechten Ecke der Seite **Marketplace** aus. Dadurch wird eine Kalkulationstabelle mit allen Preisdaten erstellt. Die Preisinformationen werden täglich aktualisiert, sodass Sie sie jederzeit einsehen können, wenn Sie aktuelle Preise benötigen.
 
 > [!TIP]
-> Wenn ein Produkt in dieser Liste eine kostenlose Testversion bietet, enthält die Kalkulations Tabelle zwei Zeilen für das Produkt. In einer Zeile wird der Preis Null angezeigt, was darauf hinweist, dass eine kostenlose Testversion verfügbar ist. In der anderen Zeile wird der Preis und der Begriff angezeigt, der nach Ablauf der Testphase gilt.
+> Wenn ein Produkt in dieser Liste eine kostenlose Testversion anbietet, enthält die Kalkulationstabelle zwei Zeilen für dieses Produkt. In einer Zeile wird der Preis Null angezeigt, was bedeutet, dass eine kostenlose Testversion verfügbar ist. Die andere Zeile enthält den Preis und die Laufzeit, die nach Ablauf des Testzeitraums gelten.
+>
+> Wenn ein Produkt in dieser Liste [Gemessene Abrechnung](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing) verwendet, ist das Feld für die Laufzeitfeld leer.
 
 ## <a name="purchase-marketplace-products-for-your-customers"></a>Kaufen von Marketplace-Produkten für Ihre Kunden
 
@@ -52,9 +54,9 @@ Bei Abonnements für Azure Marketplace-Produkte haben Sie die Möglichkeit, [das
 
 ## <a name="license-activation-for-marketplace-products"></a>Lizenzaktivierung für Marketplace-Produkte
 
-Bei Saas-angeboten (Software-as-a-Service) werden die Lizenz Zuweisung und-Aktivierung über den unabhängigen Software Hersteller (Independent Software Vendor, ISV) verwaltet, der das Produkt veröffentlicht hat. Um diesen Vorgang abzuschließen, müssen Sie die Website des Herausgebers aufrufen, indem Sie einen personalisierten Link mit einem Autorisierungs Code verwenden, mit dem der Herausgeber Ihren spezifischen Kauf identifizieren kann. Sie finden diesen Link auf der Bestätigungsseite, die angezeigt wird, nachdem Sie ein SaaS-Angebot erworben haben, und auf der Seite **Abonnements** (in der Zeile für dieses Angebot). Sie können auch [Partner Center-APIs verwenden, um diesen Link abzurufen](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+Für Angebote vom Typ „Software-as-a-Service“ (SaaS) wird die Lizenzzuordnung und -aktivierung durch den unabhängigen Softwarehersteller (ISV) verwaltet, der das Produkt veröffentlicht hat. Um diesen Prozess abzuschließen, müssen Sie die Website des Herausgebers besuchen, indem Sie einen personalisierten Link mit einem Autorisierungscode verwenden, mit dem der Herausgeber Ihren spezifischen Kauf identifizieren kann. Sie finden diesen Link auf der Bestätigungsseite, die nach dem Erwerb eines SaaS-Angebots angezeigt wird, und auf der Seite **Abonnements** (in der Zeile für dieses Angebot). Sie können auch die [Partner Center-APIs verwenden, um diesen Link abzurufen](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
 
-Wenn Sie die Website des Herausgebers mithilfe dieses Links besuchen, sehen Sie, welche zusätzlichen Informationen oder Aktionen erforderlich sind, um Lizenzen bereitzustellen und zuzuweisen oder den Setup Vorgang anderweitig abzuschließen. Die erforderlichen Schritte können je nach Herausgeber und Angebot abweichen. Sie sind dafür verantwortlich, alle erforderlichen Informationen zu übermitteln (oder die URL an Ihren Kunden zu senden, um diese Informationen direkt bereitzustellen). Nachdem die erforderlichen Informationen angegeben wurden, stellt der Verleger die entsprechenden Lizenzen bereit und weist Sie zu. Die Abonnement Abrechnung wird erst gestartet, nachdem die Lizenzen erfolgreich zugewiesen wurden.
+Wenn Sie die Website des Herausgebers über diesen Link besuchen, sehen Sie, welche zusätzlichen Informationen oder Maßnahmen erforderlich sind, um Lizenzen bereitzustellen und zuzuweisen oder den Setupprozess abzuschließen. Die erforderlichen Schritte können je nach Herausgeber und Angebot variieren. Sie sind dafür verantwortlich, alle erforderlichen Informationen zu übermitteln (oder die URL an Ihren Kunden zu senden, um diese Informationen direkt bereitzustellen). Nach Bereitstellung der erforderlichen Informationen stellt der Herausgeber die entsprechenden Lizenzen bereit und weist sie zu. Die Abrechnung des Abonnements beginnt erst, wenn die Lizenzen erfolgreich zugewiesen wurden.
 
 ## <a name="access-billing-info-for-marketplace-products"></a>Zugreifen auf Abrechnungsinformationen für Marketplace-Produkte
 

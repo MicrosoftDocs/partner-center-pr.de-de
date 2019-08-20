@@ -1,54 +1,60 @@
 ---
-title: Aktualisieren von Partnerprofilen | Partner Center
+title: Überprüfen von Partnerprofilen | Partner Center
 description: Wenn Sie sich zum ersten Mal als Administrator anmelden, sollten Sie überprüfen, ob die Supportdetails korrekt sind, Steuerbefreiungen beantragen, sofern zutreffend, und die Kontaktinformationen in Ihren Profilen überprüfen.
 MS.Topic: article
-Date: 02/19/2019
+Date: 08/06/2019
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
-author: MaggiePucciEvans
-ms.author: evansma
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: f5e6089d022fb60b848124d1a1a1057e81024585
-ms.sourcegitcommit: 1201c95758188d9cc52aabdf5e1993ba6cc5402a
-ms.translationtype: MT
+ms.openlocfilehash: 6a8e8e85650306c67130fcd91dcbdb40f2d9498b
+ms.sourcegitcommit: ea68a16c2ed386cca983dd3fa85032450eacf871
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "68642329"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "68860958"
 ---
-# <a name="update-your-partner-profile"></a>Aktualisieren von Partnerprofilen
+# <a name="verify-your-partner-profile"></a>Überprüfen von Partnerprofilen
 
+Wenn Sie sich zum ersten Mal als globaler Administrator in Partner Center anmelden, stellen Sie sicher, dass alle Ihre Unternehmensdaten wie Hauptkontakt, offizieller Geschäftsname und Adresse sowie Programminformationen ordnungsgemäß hinzugefügt wurden. Wenn Ihr Unternehmen mehr als einen Standort hat, überprüfen Sie Ihre Standortdaten auf Richtigkeit. Als globaler Administrator, Abrechnungsadministrator oder Administrator-Agent können Sie auch Ihre Abrechnungs- und Steuerinformationen einsehen und aktualisieren. 
 
-Wenn Sie sich zum ersten Mal als Administrator bei Partner Center anmelden, sollten Sie überprüfen, ob die Supportdetails korrekt sind, Steuerbefreiungen beantragen, wenn zutreffend, und die Kontaktinformationen in Ihren Profilen überprüfen. Wenn Ihr Unternehmen mehr als einen Standort hat, überprüfen Sie Ihre Standortdaten auf Richtigkeit.
+**Überprüfen von Partnerprofilinformationen**
 
-**Aktualisieren von Supportdetails**
+Ihr Partnerprofil besteht aus Ihren juristischen Geschäftsinformationen, dem Namen und der E-Mail-Adresse des Hauptansprechpartners, den Programmen, an denen Ihr Unternehmen beteiligt ist, und gegebenenfalls Ihren anderen Unternehmen, die jetzt unter Ihrem Rechtsgeschäft zusammengefasst werden.
 
-1.  Wechseln Sie zu **Einstellungen** , und wählen Sie **Partner Profil**aus.
-2.  Wählen Sie im Abschnitt **Support** die Option **Aktualisieren** aus.
-3.  Wenn sich Ihre Kunden mit einer Supportanfrage an Microsoft wenden, verweist Microsoft Kunden auf die Website, E-Mail-Adresse und Kontakttelefonnummer, die Sie in Ihrem Supportprofil angegeben haben.
+1.  Wechseln Sie zu **Einstellungen**, und wählen Sie **Partnerprofil** aus.
 
-**Beantragen von Steuerbefreiungen**
+2.  Überprüfen Sie Ihr **Rechtsgeschäftsprofil**, Ihre **Informationen zum primären Kontakt** sowie Ihre **Programminformationen**.
 
--   Stellen Sie fest, ob Steuerbefreiungen für Sie gelten, und beantragen Sie diese, bevor Sie Kunden oder Abonnements hinzufügen. Siehe [Steuern und Steuerbefreiungen](tax-and-tax-exemptions.md).
+Wenn Sie Ihre anderen Unternehmen unter Ihrem Rechtsgeschäft zusammengeführt haben, können Sie deren Informationen auch auf dieser Seite überprüfen.
 
-**Überprüfen von Profilinformationen**
-
-1.  Wechseln Sie zu **Einstellungen** , und wählen Sie **Partner Profil**aus. 
-2.  Überprüfen Sie das **Partnerprofil**, **Partnerabrechnungsprofil** und **Organisationsprofil**.
-
-## <a name="manage-your-partner-profile"></a>Verwalten Ihres Partnerprofils 
+## <a name="update-your-legal-address"></a>Aktualisieren Ihrer juristischen Adresse
 
 Sie können nun Ihre juristische Adresse im Partner Center aktualisieren.
 
-1. Wechseln Sie zu **Einstellungen** ND **Partner Profil**auswählen. 
+1. Wechseln Sie zu **Einstellungen**, und wählen Sie **Partnerprofil** aus. 
+
 2. Klicken Sie neben „Juristische Adresse“ auf **Aktualisieren**. 
 
 >[!Important]
->Sie können das mit Ihrer juristischen Adresse verknüpfte Land nicht ändern. Das Land Ihrer juristischen Adresse ist an Ihren Mandanten und Ihre Dienste gebunden. Ausführliche Informationen finden Sie unter [Ändern der juristischen Adresse](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more?view=o365-worldwide).
+>Sie können das mit Ihrer juristischen Adresse verknüpfte Land nicht ändern. Das Land Ihrer juristischen Adresse ist an Ihren Mandanten und Ihre Dienste sowie an die Währung gebunden, in der Sie Geschäfte tätigen. 
 
 3. Wenn Sie auf **Senden** klicken, wird Ihre juristische Identität neu bewertet, und Sie erhalten eine weitere E-Mail, die Sie akzeptieren müssen.
 
+## <a name="update-legal-business"></a>Aktualisieren des Rechtsgeschäfts
 
+Wenn während der Migration von Partner Membership Center zu Partner Center das falsche Unternehmen als Rechtsgeschäft ermittelt wurde, können Sie es in das richtige Unternehmen ändern.
+
+1. Wechseln Sie von **Kontoeinstellungen** zu **Standorte** und stellen Sie sicher, dass sich das als Rechtsgeschäft gewünschte Unternehmen in der Liste enthalten ist. Wenn dies nicht der Fall ist, können Sie es hinzufügen. Wählen Sie **Standort hinzufügen** aus.
+
+2.  Wechseln Sie anschließend zu **Partnerprofil**, und wählen Sie die Option zum **Aktualisieren des Rechtsgeschäftsprofils** aus.
+
+3.  Wählen Sie den Standort und das Unternehmen, das Sie als Ihr Rechtsgeschäft verwenden möchten, und wählen Sie dann **Speichern** aus.
+
+## <a name="update-your-billing-address"></a>Aktualisieren der Abrechnungsadresse
+
+Wenn Sie der globale Administrator, Abrechnungsadministrator oder Administrator-Agent sind, können Sie die auf Ihrer Rechnung angezeigte Adresse in Ihrem **Abrechnungsprofil** ändern. Sie können jedoch den Unternehmensnamen auf Ihrer Rechnung aufgrund einer Einschränkung des Rechnungssystems nicht ändern.
 
  
-
 
 

@@ -1,18 +1,18 @@
 ---
 title: Umsatzsteigerung mit Empfehlungen von Microsoft | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 08/12/2019
 description: Generieren Sie Geschäftsleads, und nehmen Sie Kontakt mit Kunden auf, die Unterstützung bei der Implementierung von Microsoft-Produkten und -Lösungen benötigen.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Empfehlungen, Unternehmensprofil, Partner suchen
 ms.localizationpriority: medium
-ms.openlocfilehash: d0dd23eaadc5a27a6818aeac2529288b639c6b36
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
+ms.openlocfilehash: de46c7546ea424c313d0f8216db86d515e851da1
+ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668349"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "68958737"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -28,7 +28,7 @@ Wir möchten für Sie den Kontakt mit Kunden herstellen, die Ihre Lösungen und 
 
  Nach der Veröffentlichung Ihres Unternehmensprofils erhalten Sie über die Funktion „Empfehlungen“ in Partner Center Vertriebsleads. Es ist wichtig, auf Empfehlungen im erforderlichen Zeitraum zu reagieren, damit Sie weiterhin Leads erhalten und vor allem Abschlüsse erzielen. Ausführliche Informationen zum Verwalten von Vertriebsleads in Partner Center finden Sie unter [Antworten auf Empfehlungen](responding-to-referrals.md).  
 
-Viel Glück!
+Schauen Sie sich zu Beginn dieses kurze Video an: [Optimieren Ihres Unternehmensprofils](https://player.vimeo.com/video/252788046).  
 
 <!-- 
 *  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you’re getting in front of your target customers.

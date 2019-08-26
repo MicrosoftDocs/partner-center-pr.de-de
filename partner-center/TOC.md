@@ -4,6 +4,8 @@
 ## [Partner Center-Konto erstellen](mpn-create-a-partner-center-account.md)
 ## [Beziehen einer geschäftlichen E-Mail-Adresse](buy-email-domain.md)
 ## [Umstellung vom Admin Center für Partner auf Partner Center](pac-to-pc-overview.md)
+### [Wechseln von Partner Admin Center (PAC) zu Partner Center](moving-from-pac-to-pc.md)
+## [Partner im Office 365 Admin Center für Partner: Deine Geschäftsvorgänge werden zu Partner Center migriert](o365-partner-admin-center-to-partner-center.md)
 ## Umstellung von Partner Membership Center auf Partner Center
 ### [Vorbereiten der Umstellung von Partner Membership Center auf Partner Center](prepare-pmc-pc-migration.md)
 ### [Anleitung für die Umstellung von PMC auf Partner Center](guide-to-migration.md)
@@ -24,6 +26,7 @@
 ### [Software Assurance-Planungsdienste in Partner Center](software-assurance-dps.md)
 ## Rechnungen und Steuern
 ### [Rechnungen und Steuern im Microsoft Partner Network](mpn-view-print-maps-invoice.md)
+## [Testen neuer Features](test-drive-new-features.md)
 
 
 # [Cloud Solution Provider](csp-overview.md)
@@ -77,6 +80,7 @@
 ### [Grundlegende Anforderungen für Incentiveansprüche](core-requirements.md)
 ### [Informationen zu den Incentiveauszahlungen](understand-incentive-payouts.md)
 ### [Übermitteln Ihrer OSA-Ansprüche in Partner Center](submit-osa-claim.md)
+### [Ermitteln des Domänennamens und der Verzeichnis-ID eines Kunden für einen Incentiveanspruch](find-customer-domain-name.md)
 
 
 # [Abrechnung und Steuern](billing.md)
@@ -100,6 +104,7 @@
 ## [Entfernen der Partnerschaft zwischen einem Händler und einem Kunden](remove-a-relationship.md)
 ## [Delegieren oder Widerrufen von Administratorrechten für Partner durch Kunden](customers_revoke_admin_privileges.md) 
 ## [Anzeigen der Kundenliste](see-your-customer-list.md)
+## [Anzeigen von Kundenaktivitätsprotokollen](activity-logs.md)
 ## [Aktualisieren der Kundenkontoinformationen](update-customer-account-info.md)
 ## [Erstellen mehrerer Benutzer für einen Kunden](adding-multiple-users-to-a-customer-account.md)
 ## [Zuweisen von Supportkontakten](assign-support-contacts.md)

@@ -1,19 +1,19 @@
 ---
 title: Erstellen, Aussetzen oder Stornieren von Kundenabonnements | Partner Center
 ms.topic: article
-ms.date: 03/11/2019
+ms.date: 08/16/2019
 description: Nachdem Sie für Ihre Kunden einen Datensatz in Partner Center erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Abonnement, neu erstellen, Abonnement hinzufügen, aussetzen, kündigen, stornieren, Aussetzung
 ms.localizationpriority: medium
-ms.openlocfilehash: e66e3944e9be7c08bd0dab35f09bde42e4ba33f6
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: a79260cf2be62a5cd3d5a340f6c363ebe0200b76
+ms.sourcegitcommit: e84322e2cb6f3f559de93c98a16ab19531a2f95c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135020"
+ms.lasthandoff: 08/19/2019
+ms.locfileid: "69578787"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Aussetzen oder Stornieren von Kundenabonnements
 
@@ -23,7 +23,7 @@ ms.locfileid: "62135020"
 -  Partner Center für Microsoft Cloud for US Government
 -  CSP-Partner
 
-Nachdem Sie für Ihre Kunden einen Datensatz im Partner Center erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen. Dies beinhaltet sowohl Produkte, die von Microsoft, als auch SaaS-Produkte (Software-as-a-Service), die von unabhängigen Softwareherstellern (ISVs) im [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace) veröffentlicht werden. 
+Nachdem Sie für Ihre Kunden einen Datensatz im Partner Center erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen. Dies umfasst sowohl Produkte, die von Microsoft, als auch SaaS-Produkte (Software-as-a-Service), die von unabhängigen Softwareherstellern (ISVs) auf dem [kommerziellen Marketplace](https://azuremarketplace.microsoft.com/marketplace) veröffentlicht werden. 
 
 Bitte beachten Sie, dass bestimmte Angebote auf ein Abonnement pro Kunde beschränkt sind. Eine Liste der eingeschränkten Angebote finden Sie im Partner Center auf der Seite für Preise und Angebote. 
 
@@ -35,7 +35,7 @@ Bitte beachten Sie, dass bestimmte Angebote auf ein Abonnement pro Kunde beschr�
 2. Wählen Sie **Abonnement hinzufügen**.
 
 3. Um nur bestimmte Arten von Abonnements anzuzeigen, treffen Sie eine Auswahl bei den verfügbaren Filter:
-   - **Publisher**: Wählen Sie **Microsoft** aus, um nur Angebote von Microsoft anzuzeigen, oder **Partner**, um Azure Marketplace-Produkte von unabhängigen Softwareherstellern anzuzeigen.
+   - **Publisher**: Wählen Sie **Microsoft** aus, um nur Angebote von Microsoft anzuzeigen, oder **Partner**, um Produkte von unabhängigen Softwareherstellern aus dem kommerziellen Marketplace anzuzeigen.
    - **Abrechnungsart**: Wählen Sie den zu verwendenden Typ für die Abonnementabrechnung aus: **Lizenz** oder **Nutzung**. Unter [Häufig gestellte Fragen zu neuen Abrechnungsfunktionen](faq-about-new-billing-features.md) finden Sie Informationen, die Ihnen bei der Wahl zwischen monatlichem und jährlichem Abrechnungsintervall helfen.
    - **Kategorie**: Wählen Sie **Unternehmen**, **Kleinunternehmen** oder **Testversion** aus. Informationen zu Testabonnements finden Sie unter [Testversionen von Microsoft-Produkten anbieten](offer-your-customers-trials-of-microsoft-products.md).
 
@@ -67,7 +67,7 @@ Wenn Sie ein Abonnement aussetzen, gibt das Datum, das unterhalb der Schaltfläc
 
 ### <a name="cancel-a-subscription"></a>Stornieren eines Abonnements
 
-Bei [Abonnements von Azure Marketplace-Produkten](sell-marketplace-products.md) können Sie das Abonnement stornieren und eine vollständige Rückerstattung erhalten, solange Sie dies innerhalb des Kündigungszeitraums tun: 
+Bei [Abonnements von Produkten des kommerziellen Marketplace](sell-marketplace-products.md) können Sie das Abonnement stornieren und eine vollständige Rückerstattung erhalten, solange Sie dies innerhalb des Kündigungszeitraums tun: 
 
 - Bei monatlichen Abonnements müssen Sie innerhalb von **24 Stunden** stornieren.
 - Bei jährlichen Abonnements müssen Sie innerhalb von **14 Tagen** stornieren.
@@ -78,11 +78,11 @@ Nach Ablauf dieses Zeitraums wird die Option zum Stornieren oder Kündigen des A
 2.  Wählen Sie das Abonnement aus, das Sie verwalten möchten.
 3.  Wählen Sie im Abschnitt **Status** den Befehl **Kündigen** aus. **Übermitteln** Sie Ihre Änderungen.
 
-### <a name="choose-whether-to-automatically-renew-an-azure-marketplace-subscription"></a>Auswählen, ob ein Azure Marketplace-Abonnement automatisch verlängert werden soll
+### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Auswählen, ob ein Abonnement des kommerziellen Marketplace automatisch verlängert werden soll
 
-Standardmäßig werden aktive Abonnements auf automatische Verlängerung festgelegt, wenn der Abonnementzeitraum abläuft. Bei [Abonnements von Azure Marketplace-Produkten](sell-marketplace-products.md) können Sie optional auswählen, dass das Abonnement nicht automatisch verlängert wird.
+Standardmäßig werden aktive Abonnements auf automatische Verlängerung festgelegt, wenn der Abonnementzeitraum abläuft. Bei [Abonnements von Produkten des kommerziellen Marketplace](sell-marketplace-products.md) können Sie optional auswählen, dass das Abonnement nicht automatisch verlängert wird.
 
-So verhindern Sie die automatische Verlängerung eines aktiven Azure Marketplace-Abonnements
+So verhindern Sie die automatische Verlängerung eines aktiven Abonnements des kommerziellen Marketplace
 
 1.  Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 2.  Wählen Sie das Abonnement aus, das Sie verwalten möchten.

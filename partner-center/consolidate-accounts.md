@@ -1,47 +1,61 @@
 ---
 title: Konsolidieren Ihrer Unternehmenskonten | Partner Center
 ms.topic: article
-ms.date: 05/02/2019
-description: Wenn Ihr Unternehmen zu Partner Center wechselt, werden alle Ihre Konten in einem Konto konsolidiert.
+ms.date: 08/15/2019
+description: Wenn Ihr Unternehmen auf Partner Center umsteigt, werden alle Ihre Konten in einem Konto konsolidiert.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c715ec3e4e0ef36170a7dbb2f4d8ccc8b4f6408f
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.openlocfilehash: f5c3bb2455ce7bea4b0baeeff2bddf101b3e5c83
+ms.sourcegitcommit: c27cf7a8ca7f87a1a2daef57f8bebe40e2503c98
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820484"
+ms.lasthandoff: 08/15/2019
+ms.locfileid: "69489682"
 ---
 # <a name="consolidate-your-company-accounts"></a>Konsolidieren Ihrer Unternehmenskonten
 
-In der PMC hat Ihr Unternehmen möglicherweise viele Konten und Standorte. Jeder Standort verfügte über ein eigenes Konto. Bei der Migration zu Partner Center werden alle Konten und Standorte in einem Konto mit mehreren Standorten zusammengefasst. Ihre MPN-IDs, Vorteile, Kompetenzen und Einkäufe werden mit Ihnen verschoben – es geht nichts weiter. 
+In der PMC verfügte Ihr Unternehmen möglicherweise über viele Konten und Standorte. Jeder Standort verfügte über ein eigenes Konto. Wenn Sie zu Partner Center migrieren, werden alle Konten und Standorte in einem primären globalen Konto mit mehreren Standorten konsolidiert. Ihre MPN-IDs, Vorteile, Kompetenzen und Käufe werden ebenfalls verschoben – es geht nichts verloren. 
 
-Wenn Sie sich zum ersten Mal bei Partner Center anmelden, werden Sie als MPN-Administrator für Ihr Partner Center-Konto hinzugefügt, damit Sie das Konto verwalten, Benutzer hinzufügen, Berechtigungen zuweisen können usw. Nachdem Ihre Unternehmen konsolidiert wurden, können Sie den Prozess nicht umkehren.
+Wenn Sie sich zum ersten Mal bei Partner Center anmelden, werden Sie als MPN-Administrator für Ihr Partner Center-Konto hinzugefügt, damit Sie unter anderem das Konto verwalten, Benutzer hinzufügen und Berechtigungen zuweisen können. 
 
-## <a name="what-happens-during-consolidation-of-accounts"></a>Was geschieht während der Konsolidierung von Konten?
+## <a name="why-should-you-consolidate-your-multiple-accounts-in-pmc-into-one-account-in-partner-center-when-you-migrate"></a>Warum sollten Sie Ihre verschiedenen Konten in der PMC bei der Migration in ein Partner Center-Konto konsolidieren?
 
-- Details auf dem Bildschirm Unternehmens Details können nicht geändert werden, da die Details für das globale Konto gelten. 
+1. Ihr Microsoft Partner Network-Konto lässt sich leichter verwalten, wenn alles unter einem Konto versammelt ist.
 
-- Das Konto in der PMC, das Sie gerade verschieben, wird in dieses vorhandene Konto konsolidiert. 
+2. Die Co-Selling-Verwaltung und die Veröffentlichung von Lösungen sind bei nur einer Kontostruktur einfacher.
 
-- Alle Standorte in der PMC werden als Standorte in dieses vorhandene primäre globale Partner Center-Konto verschoben, und Sie können zusätzliche Speicherorte hinzufügen. Weitere Informationen zu Speicherorten finden Sie unter [Verwalten Ihres Partnerkontos](manage-locations.md).
+3. Microsoft sieht Sie als ein Unternehmen an, wodurch Ihre Einnahmen konsolidiert werden und Sie sich leichter einen Überblick über alle Standorte verschaffen.  
 
-- Wenn die Konsolidierung vollständig ist, werden alle Ihre Konto Details als Standorte innerhalb des vorhandenen primären globalen Kontos angezeigt.
+4. Sie müssen für Kompetenzen und MAPs nur einmal pro Jahr bezahlen.
 
-- Alle MPN-IDs werden während dieser Konsolidierung beibehalten.
+5. Nachdem Sie Ihre Konten konsolidiert haben, sind Sie möglicherweise berechtigt, weitere Kompetenzen in Anspruch zu nehmen. Wenn Sie berechtigt sind, können Sie auch zu Incentiveprogrammen berechtigt sein, zu denen Sie zuvor nicht berechtigt waren.
 
-- Alle Ihre vorhandenen Kompetenzen (Gold/Silver), Einkäufe (Maps/Gold/Silver) und die damit verbundenen Vorteile werden während der Konsolidierung beibehalten.
 
-- Sie (der Benutzer, der sich mit der Arbeits-e-Mail-ID angemeldet hat) wird dem primären globalen Konto automatisch als MPN-Administrator und Konto Administrator hinzugefügt, damit Sie das Konto nach Bedarf verwalten können. 
+## <a name="what-happens-during-consolidation-of-accounts"></a>Was geschieht bei der Konsolidierung von Konten?
+
+- Sie können keine Informationen auf der Seite mit den Unternehmensinformationen ändern, da die Informationen für das primäre globale Konto gelten. 
+
+- Die Konten in PMC (die Sie gerade verschieben) werden in das primäre globale Konto konsolidiert. 
+
+- Alle Standorte in der PMC werden als Standorte in dieses vorhandene primäre globale Partner Center-Konto verschoben, und Sie können zusätzliche Standorte hinzufügen. Weitere Informationen zu Standorten finden Sie unter [Verwalten Ihres Partnerkontos – Standorte](manage-locations.md).
+
+- Nach Abschluss der Konsolidierung werden alle Ihre Unternehmensinformationen als Standorte innerhalb des vorhandenen primären globalen Kontos angezeigt. Sobald Ihre Unternehmen konsolidiert wurden, können Sie den Vorgang nicht mehr rückgängig machen.
+
+- Alle MPN-IDs bleiben bei der Konsolidierung erhalten.
+
+- Alle Ihre vorhandenen Kompetenzen (Gold/Silber), Einkäufe (MAPs/Gold/Silber) und damit verbundenen Vorteile bleiben bei der Konsolidierung erhalten.
+
+- Sie (der Benutzer, der sich mit der geschäftlichen E-Mail-ID angemeldet hat) werden automatisch als MPN-Administrator und als Kontoadministrator dem vorhandenen primären globalen Konto hinzugefügt, damit Sie das Konto nach Bedarf verwalten können. 
 
 
 ## <a name="consolidating-your-benefits-and-competencies"></a>Konsolidieren von Vorteilen und Kompetenzen
 
-In der PMC war es für jeden Standort möglich, seine eigenen Kompetenzen, seine eigenen Karten und andere Vorteile zu haben, die für einen Standort spezifisch sind.
+In der PMC konnte jeder Standort über eigene Kompetenzen, MAPs und andere Vorteile verfügen, die für einen Standort spezifisch sind.
 
-Da alle Standort Konten in Partner Center in einem globalen Konto konsolidiert werden, werden die Vorteile und Kompetenzen ebenfalls konsolidiert. Zusätzliche Benefits-Toolkits (abtks) sind nicht verfügbar. Sie werden jedoch in der Lage sein, die Verteilung der Vorteile und Kompetenzen zu organisieren, die für Ihr Unternehmen erforderlich sind.
+Da alle Standortkonten in Partner Center in einem globalen Konto konsolidiert werden, werden die Vorteile und Kompetenzen ebenfalls konsolidiert. Zusätzliche Vorteilstoolkits (ABTKs) sind nicht verfügbar. Sie können die Vorteile und Kompetenzen jedoch gemäß den Anforderungen Ihres Unternehmens verteilen. Die Konsolidierung umfasst eine Verlängerung, mit der sichergestellt wird, dass die Vorteile Ihres Unternehmens in der PMC um ein zusätzliches Jahr verlängert werden.
 
 Weitere Informationen zu den Unterschieden zwischen PMC und Partner Center finden Sie unter [Umstellung von PMC auf Partner Center](guide-to-migration.md).
+

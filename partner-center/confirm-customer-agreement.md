@@ -1,79 +1,79 @@
 ---
-title: Bestätigen Sie die kundenannahme des Microsoft-Kunden Vertrags | Partner Center
+title: Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag | Partner Center
 ms.topic: article
 ms.date: 04/16/2019
-Description: Als Partner müssen Sie die Zustimmung Ihres Kunden zum Microsoft-Kundenvertrag einholen, bevor Sie Microsoft-Produkte und-Dienste für diesen Kunden bestellen können. Um Partner bei der Einhaltung von Complianceanforderungen zu unterstützen, bittet Microsoft die Partner, die Zustimmung durch Bereitstellung bestimmter Details zu der Person, die dem Vertrag zugestimmt hat, zu bestätigen.
+Description: Als Partner müssen Sie die Zustimmung Ihres Kunden zum Microsoft-Kundenvertrag einholen, bevor Sie Microsoft-Produkte und -Dienste für diesen Kunden bestellen können. Um Partner bei der Einhaltung von Complianceanforderungen zu unterstützen, bittet Microsoft die Partner, die Zustimmung durch Bereitstellung bestimmter Details zu der Person, die dem Vertrag zugestimmt hat, zu bestätigen.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Kunde, Kunden, Zustimmung, MCA, Microsoft Cloud Vereinbarung, Microsoft-Kunden Vereinbarung, Kunden Vertrags Vorlagen
+keywords: Kunden, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Microsoft-Kundenvertrag, Vorlagen für Kundenverträge
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ca8eb3acdee0114f01dbd5952e9c092859147a2
-ms.sourcegitcommit: ee722dc2b9d82557d273738b64cec6d8cb435084
-ms.translationtype: MT
+ms.openlocfilehash: 295c997baa43dd087552315d71d726a0f28c6ed1
+ms.sourcegitcommit: 0712e68734f0b3e53821b490a6c32a6c991a6e49
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "68681756"
+ms.lasthandoff: 08/21/2019
+ms.locfileid: "69871775"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-preview"></a>Bestätigen der kundenannahme des Microsoft-Kunden Vertrags (Vorschau)
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-preview"></a>Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag (Vorschauphase)
 
-Derzeit muss der Kunde die anwendbare **Microsoft Cloud Vereinbarung**annehmen und signieren, bevor ein CSP-Partner die Bestellung im Auftrag eines Kunden platzieren kann. Anschließend muss der Partner seine Zustimmung bestätigen, indem er Informationen über den Signatur Geber für Microsoft bereitstellt. Wenn ein Kunde seine Zustimmung zur Microsoft Cloud Vereinbarung nicht bestätigt:
-- Sie können für diesen Kunden keine neuen Aufträge anlegen.
-- Sie können die Anzahl der Arbeitsplätze bestehender arbeitsplatzbasierter Abonnements für diesen Kunden nicht ändern.
+Bevor ein CSP-Partner eine Bestellung im Auftrag eines Kunden aufgeben können, muss der Kunde derzeit den entsprechenden **Microsoft Cloud-Vertrag** akzeptieren und unterzeichnen. Anschließend muss der Partner seine Zustimmung bestätigen, indem er Microsoft Informationen über den Signaturgeber zur Verfügung stellt. Wenn ein Kunde seine Zustimmung zum Microsoft Cloud-Vertrag nicht bestätigt:
+- Können Sie für diesen Kunden keine neuen Aufträge erstellen.
+- Können Sie die Anzahl der Arbeitsplätze vorhandener arbeitsplatzbasierter Abonnements für diesen Kunden nicht ändern.
 
-Ausführliche Informationen dazu, wie Sie die Zustimmung eines Kunden zum Microsoft Cloud Vertrag mithilfe des Partner Center-Dashboards oder der API bestätigen, finden Sie unter [bestätigen der kundenannahme des Microsoft Cloud Vertrags](confirm-consent.md).
+Weitere Informationen dazu, wie Sie die Zustimmung eines Kunden zum Microsoft Cloud-Vertrag über das Partner Center-Dashboard oder die entsprechende API bestätigen können, finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](confirm-consent.md).
 
-Am 1. Oktober 2019 stellt Microsoft den **Microsoft-Kundenvertrag** für das CSP-Programm vor, um die Microsoft Cloud Vereinbarung zu ersetzen. Um die Migration von Partnern zum neuen Vertrag zu vereinfachen, wird die aktuelle Microsoft Cloud Vereinbarung bis zum 31. Januar 2019 im CSP-Programm unterstützt. Weitere Zeitachsen Details finden Sie in der folgenden Tabelle:
+Am 1. Oktober 2019 stellt Microsoft den **Microsoft-Kundenvertrag** für das CSP-Programm vor, der den Microsoft Cloud-Vertrag ersetzt. Um die Migration von Partnern zum neuen Vertrag zu erleichtern, wird der aktuelle Microsoft Cloud-Vertrag noch bis zum 31. Januar 2019 im CSP-Programm unterstützt. Weitere Informationen zum zeitlichen Ablauf finden Sie in der folgenden Tabelle:
 
-| date | Meilenstein | Details |
+| Datum | Meilenstein | Details |
 |------------|------------|--------------------------------|
-|01. August, 2019|In Sandbox verfügbare UX-Vorschau|Partner können die Kunden Zustimmung des Microsoft-Kunden Vertrags über das Partner Center-Dashboard in der CSP-Sandbox-Umgebung bestätigen. Partner, die Zugriff auf die CSP-Sandkasten Umgebung haben, werden geändert. Partner ohne Sandbox-Zugriff können sich über die Änderungen in diesem Thema informieren.|
-|2\. September, 2019|API Preview ist in Sandbox verfügbar.|Der Partner kann die Kundenakzeptanz des Microsoft-Kunden Vertrags mithilfe der Partner Center-API in der CSP-Sandkasten Umgebung bestätigen. API-Partner können diese Gelegenheit nutzen, um eine Vorschau der API-Änderungen anzuzeigen und mit der API-Integration zu beginnen, um den neuen Vertrag zu unterstützen|
-|01. Oktober, 2019|Microsoft-Kunden Vereinbarung in der Produktion verfügbar|Microsoft führt den Microsoft-Kundenvertrag für das CSP-Programm ein, um die Microsoft Cloud Vereinbarung zu ersetzen. Partner können die Kundenakzeptanz des Microsoft-Kunden Vertrags über das Partner Center-Dashboard und die API in der Produktionsumgebung bestätigen. Die Microsoft Cloud Vereinbarung wird innerhalb des CSP-Partnerprogramms weiterhin unterstützt. Partner werden jedoch empfohlen, mit der Migration zum Microsoft-Kundenvertrag zu beginnen. Neue Käufe und Arbeitsplatz Anzahl Änderungen an vorhandenen Abonnements erfordern eine Partner Bestätigung des Microsoft-Kunden Vertrags oder der Microsoft Cloud Vereinbarung. Bestimmte neue Angebote (z. b. der neue Azure-Plan) erfordern eine Bestätigung des Microsoft-Kunden Vertrags.|
-|31. Januar 2019|Microsoft Cloud Vereinbarung aus der Produktionsumgebung entfernt|Die Microsoft Cloud Vereinbarung wird innerhalb des CSP-Partnerprogramms nicht mehr akzeptiert. Bei neuen Käufen und Arbeitsplatz Anzahl Änderungen an vorhandenen Abonnements muss der Partner eine Bestätigung des Microsoft-Kunden Vertrags bereitstellen. Diese Anforderung gilt für neue Kunden und Bestandskunden, die die Microsoft Cloud Vereinbarung möglicherweise bereits angenommen haben.|
+|1\. August 2019|In Sandbox verfügbare UX-Vorschau|Partner können die Zustimmung des Kunden zum Microsoft-Kundenvertrag über das Partner Center-Dashboard in der CSP-Sandboxumgebung bestätigen. Partner, die Zugriff auf die CSP-Sandboxumgebung haben, erhalten eine Vorschau auf die Änderungen bei der Benutzeroberfläche. Partner ohne Sandboxzugriff können sich in diesem Thema über die Änderungen informieren.|
+|2\. September 2019|In Sandbox verfügbare API-Vorschau|Partner können die Zustimmung des Kunden zum Microsoft-Kundenvertrag über die Partner Center-API in der CSP-Sandboxumgebung bestätigen. API-Partner können diese Gelegenheit nutzen, um sich eine Vorschau der API-Änderungen anzusehen und mit der API-Integration zur Unterstützung des neuen Vertrags zu beginnen.|
+|1\. Oktober 2019|Microsoft-Kundenvertrag in der Produktionsumgebung verfügbar|Microsoft stellt den Microsoft-Kundenvertrag für das CSP-Programm vor, der den Microsoft Cloud-Vertrag ersetzt. Partner können die Zustimmung des Kunden zum Microsoft-Kundenvertrag über das Partner Center-Dashboard und die entsprechende API in der Produktionsumgebung bestätigen. Der Microsoft Cloud-Vertrag wird innerhalb des CSP-Partnerprogramms weiterhin unterstützt. Partnern wird jedoch empfohlen, mit der Migration zum Microsoft-Kundenvertrag zu beginnen. Neue Käufe und Änderungen an der Anzahl der Arbeitsplätze für vorhandene Abonnements erfordern eine Bestätigung des Microsoft-Kundenvertrags oder des Microsoft Cloud-Vertrags durch den Partner. Bestimmte neue Angebote (z. B. der neue Azure-Plan) erfordern eine Bestätigung des Microsoft-Kundenvertrags.|
+|31. Januar 2019|Microsoft Cloud-Vertrag aus der Produktionsumgebung entfernt|Der Microsoft Cloud-Vertrag wird innerhalb des CSP-Partnerprogramms nicht mehr akzeptiert. Neue Käufe und Änderungen an der Anzahl der Arbeitsplätze für vorhandene Abonnements erfordern eine Bestätigung des Microsoft-Kundenvertrags durch den Partner. Diese Anforderung gilt für neue Kunden und Bestandskunden, die möglicherweise zuvor den Microsoft Cloud-Vertrag angenommen haben.|
 
 
-## <a name="confirm-customer-acceptance-for-new-customers"></a>Kundenakzeptanz für neue Kunden bestätigen
+## <a name="confirm-customer-acceptance-for-new-customers"></a>Bestätigen der Kundenzustimmung für Neukunden
 
-Wenn Sie einen neuen Kunden Mandanten in Partner Center erstellen, führen Sie die folgenden Schritte aus, um zu bestätigen, dass der Kunde den Microsoft-Kundenvertrag akzeptiert. Zum Ausführen dieser Schritte müssen Sie Administrator-Agent oder Sales Agent sein.
+Wenn Sie in Partner Center einen Mandanten für einen Neukunden erstellen, führen Sie die folgenden Schritte aus, um zu bestätigen, dass der Kunde den Microsoft-Kundenvertrag akzeptiert hat. Um diese Schritte ausführen zu können, müssen Sie Administrator-Agent oder Vertriebsbeauftragter sein.
 
 1. Wählen Sie **Kunden** und dann **Neuer Kunde** aus.
 
-2. Geben Sie unter **Konto Info**Informationen für das Unternehmen und seinen primären Kontakt ein.
+2. Machen Sie unter **Kontoinformationen** Angaben zum Unternehmen und seinem primären Kontakt.
 
-3. Wählen Sie unter **Microsoft Agreement**den **Microsoft-Kundenvertrag**aus.
+3. Wählen Sie unter **Microsoft-Vertrag** die Option **Microsoft-Kundenvertrag** aus.
 
-4. Geben Sie unter **Datum der Vertragsannahme** das entsprechende Datum ein. Dieses kann nicht auf ein späteres Datum festgelegt werden.
+4. Geben Sie unter **Datum der Vertragsannahme** das entsprechende Datum ein. Dieses kann nicht auf ein Datum in der Zukunft festgelegt werden.
 
-5. Stellen Sie sicher, dass die angezeigten Kontaktinformationen für den primären Benutzer korrekt sind. Wenn dies nicht richtig ist, wählen Sie **Aktualisieren** aus, und geben Sie **Vorname,** **Nachname**, **e-Mail-Adresse**und **Telefonnummer** (optional) der Person ein, die die Vereinbarung akzeptiert hat.
+5. Stellen Sie sicher, dass die angezeigten Kontaktinformationen für den primären Benutzer korrekt sind. Wenn diese nicht richtig sind, wählen Sie **Aktualisieren** aus, und geben Sie dann **Vorname**, **Nachname**, **E-Mail-Adresse** und **Telefonnummer** (optional) der Person ein, die dem Vertrag zugestimmt hat.
 
-6. Wählen Sie **Weiter**, um mit den verbleibenden Schritten zum Erstellen des Kundenmandanten fortzufahren.
+6. Wählen Sie **Weiter** aus, um mit den verbleibenden Schritten zum Erstellen des Kundenmandanten fortzufahren.
 
-![Neuer Kunde](images/mcua1.png)
+![Neukunde](images/mcua1.png)
 
-## <a name="confirm-customer-acceptance-for-existing-customers"></a>Bestätigen der Kundenakzeptanz für vorhandene Kunden
+## <a name="confirm-customer-acceptance-for-existing-customers"></a>Bestätigen der Kundenzustimmung für einen Bestandskunden
 
-Hierfür müssen Sie Administrator-Agent oder Vertriebs-Agent sein:
+Um die folgenden Schritte ausführen zu können, müssen Sie Administrator-Agent oder Vertriebsbeauftragter sein:
 
-1. Wählen Sie **Kunden**aus. Suchen und wählen Sie den Kunden aus.
+1. Wählen Sie **Kunden** aus. Suchen und wählen Sie den Kunden aus.
 
 2. Wählen Sie **Kontoinformationen** aus.
 
-3. Wählen Sie unter **Microsoft-Kunden Vereinbarung**die Option **Aktualisieren**aus.
+3. Wählen Sie unter **Microsoft-Kundenvertrag** die Option **Aktualisieren** aus.
 
-4. Geben Sie **Vorname**, **Nachname**, **e-Mail-Adresse**und **Telefonnummer** (optional) der Person ein, die die Vereinbarung akzeptiert hat. Geben Sie unter **Datum der Vertragsannahme** das entsprechende Datum ein. Dieses kann nicht auf ein späteres Datum festgelegt werden.
+4. Geben Sie **Vorname**, **Nachname**, **E-Mail-Adresse** und **Telefonnummer** (optional) der Person ein, die dem Vertrag zugestimmt hat. Geben Sie unter **Datum der Vertragsannahme** das entsprechende Datum ein. Dieses kann nicht auf ein Datum in der Zukunft festgelegt werden.
 
-5. Wählen Sie **Speichern** und Fortfahren aus.
+5. Wählen Sie **Speichern und fortfahren** aus.
 
-![Vorhandener Kunde](images/mcua2.png)
+![Bestandskunde](images/mcua2.png)
 
-## <a name="retrieve-confirmation-of-customer-acceptance"></a>Bestätigung der Kundenakzeptanz abrufen
+## <a name="retrieve-confirmation-of-customer-acceptance"></a>Abrufen der Bestätigung der Kundenzustimmung für einen Bestandskunden
 
-Mithilfe der folgenden Schritte können Sie bestätigen, dass ein vorhandener Kunde den Microsoft-Kundenvertrag akzeptiert hat. Beachten Sie, dass Sie dafür ein Administratoragent oder Vertriebsbeauftragter sein müssen.
+Mithilfe der folgenden Schritte können Sie eine Bestätigung abrufen, dass ein Bestandskunde den Microsoft-Kundenvertrag akzeptiert hat. Beachten Sie, dass Sie dafür ein Administrator-Agent oder Vertriebsbeauftragter sein müssen.
 
 1. Wählen Sie **Kunden** aus, und suchen Sie dann nach dem Kunden, den Sie anzeigen möchten. Wählen Sie diesen aus.
 
 2. Wählen Sie **Kontoinformationen** aus.
 
-3. Zeigen Sie unter **Microsoft-cloudvertrag**an, ob die Bestätigung von diesem Kunden bestätigt oder noch nicht bereitgestellt wurde.
+3. Unter **Microsoft-Kundenvertrag** wird angezeigt, ob die Bestätigung durch diesen Kunden erfolgt ist.
 
 

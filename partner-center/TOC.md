@@ -72,6 +72,7 @@
 ## [Empfehlungen](referrals.md)
 ### [Erstellen eines Marketingprofils](create-a-marketing-profile.md)
 ### [Reagieren auf Empfehlungen](responding-to-referrals.md)
+### [Registrieren von Abschlüssen](register-deals.md)
 ### [Co-Selling mit Microsoft](co-sell-with-microsoft.md)
 ### [Abrufen von Empfehlungsdaten](referral-insights.md)
 ### [Analysieren des Marketingprofils](analyze-your-marketing-profile.md)
@@ -96,7 +97,6 @@
 ## [Einrichten eines Kundenbudgets für Azure-Kosten](set-an-azure-spending-budget-for-your-customers.md)
 ## [Allgemeine Abrechnungsszenarien](common-billing-scenarios.md)
 ## [Nichtbezahlung, Betrug oder Missbrauch](non-payment--fraud--or-misuse.md)
-## [PSTN-Dienste](o365-e5-in-csp-advisory.md)
 
 # [Kontakt zu Kunden](customer-accounts.md)
 ## [Hinzufügen eines neuen Kunden](add-a-new-customer.md)

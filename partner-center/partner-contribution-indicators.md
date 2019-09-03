@@ -1,78 +1,78 @@
 ---
-title: Partner Beitrags Indikatoren | Partner Center
+title: Partnerbeitragsindikatoren | Partner Center
 ms.topic: article
 ms.date: 07/17/2019
-description: Daten, die Ihnen zeigen, wie Ihr Unternehmen mit Dynamics 365 Customer Engagement oder Dynamics 365 Finance und Operations arbeiten kann
+description: Daten, die zeigen, wie dein Unternehmen in Bezug auf Dynamics 365 Customer Engagement oder Dynamics 365 Finance and Operations abschneidet.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: PCI, Leistung, Kunden Erfolg, Messungen, Dynamics 365
+keywords: PCI, Leistung, Kundenerfolg, Messungen, Dynamics 365
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 8a54db5e03c2cc683c913781427bc3d4ebac1af8
-ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
-ms.translationtype: MT
+ms.sourcegitcommit: 435634c55c3d20a42083c0a58d96c7f6b8ec0a6d
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
+ms.lasthandoff: 08/28/2019
 ms.locfileid: "68313965"
 ---
-## <a name="partner-contribution-indicators"></a>Partner Beitrags Indikatoren
+## <a name="partner-contribution-indicators"></a>Partnerbeitragsindikatoren
 
-Partner Beitrags Indikatoren (Partner Beitrags Indikatoren, PCI) stellen eine Reihe von ganzheitlichen Measures ihrer Leistung, ihrer Fähigkeiten und des Kunden Erfolgs mit Dynamics 365 dar.
+Partnerbeitragsindikatoren (Partner Contribution Indicators, PCIs) sind eine Reihe gesamtheitlicher Kennzahlen in Bezug auf die Leistung, Funktionsweise und den Kundenerfolg eines Unternehmens mit Dynamics 365.
 
-## <a name="scoring"></a>Hnen
+## <a name="scoring"></a>Bewertung
 
-PCI verwendet eine 100-Punkteskala, um eine nach gestellte 12-monatige Angabe ihres Erfolgs mit Dynamics 365 Customer Engagement oder Dynamics 365 Finance and Operations bereitzustellen. Im folgenden finden Sie die maximalen Punkte, die Sie für jedes der sieben Measures in PCI verdienen können.
+PCIs nutzen eine Skala mit 100 Punkten, um den Erfolg deines Unternehmens mit Dynamics 365 Customer Engagement oder Dynamics 365 Finance and Operations in den letzten 12 Monaten zu bewerten. Im Folgenden findest du die maximalen Punkte, die du für jede der sieben Kennzahlen in PCI erzielen kannst.
 
-![Hnen](images/pci1.png)
+![Bewertung](images/pci1.png)
 
 ### <a name="thresholds"></a>Schwellenwerte
 
-Jede PCI-Metrik verfügt über von Microsoft festgelegte Schwellenwerte, die Ihre Unternehmens Endpunkte erzielen können. Diese Schwellenwerte unterscheiden sich für Kunden Engagement und Finanz & Vorgänge. Die Schwellenwerte unterscheiden sich auch für Partner, die in entwickelten Märkten tätig sind, im Vergleich zu denjenigen, die ausschließlich in aufstrebenden Märkten Wenn ein Partner einen oder mehrere Kunden auf einem entwickelten Markt hat, gelten die Schwellenwerte für den entwickelten Markt. Damit die neuen Schwellenwerte für den Markt anfallen, muss der Partner alle seine Kunden auf den sich entwickelnden Märkten basieren. (Die entwickelte oder neue Markt Kategorisierung eines Lands basiert auf den Microsoft Partner Network Definitionen.)
+Jede PCI-Metrik weist von Microsoft festgelegte Schwellenwerte auf, mit denen dein Unternehmen die maximale Punktzahl erzielen kann. Diese Schwellenwerte sind unterschiedlich für Customer Engagement und Finance and Operations. Die Schwellenwerte sind auch unterschiedlich für Partner, die in bereits voll entwickelten Märkten tätig sind, und für Partner, die ausschließlich in neuen Märkten arbeiten. Wenn ein Partner mindestens einen Kunden in einem voll entwickelten Markt hat, gelten die Schwellenwerte für entwickelte Märkte. Damit die Schwellenwerte für neue Märkte angewendet werden können, müssen alle Kunden eines Partners in neuen Märkten tätig sein. (Die Einteilung von Ländern in voll entwickelte oder neue Märkte basiert auf den hier angegebenen Definitionen des Microsoft Partner Network.)
 
-Partner können die maximalen Punkte für eine bestimmte Metrik erwerben, wenn Sie die unten angegebenen Schwellenwerte erfüllen oder überschreiten. Partielle Punkte können für alle Metriken erzielt werden, mit Ausnahme der Funktionsweise des funktionalen anweises, z. b. Wenn ein entwickelter Marktpartner mit $150.000 im Netto neuen Umsatz eine Hälfte ($ 150.000/$ 300.000) der maximalen 10 PTS erhält.
+Partner können die maximale Punktzahl für eine Metrik erzielen, wenn sie die unten angegebenen Schwellenwerte erreichen oder übertreffen. Für alle Metriken mit Ausnahme des Zuwachses bei Funktionsberatern können anteilige Punkte verdient werden. Ein Beispiel: Ein Partner in einem entwickelten Markt mit 150.000 USD neuem Nettoumsatz erhält die Hälfte der maximal erreichbaren 10 Punkte (für 300.000 USD).
 
-### <a name="customer-engagement-thresholds"></a>Kunden Bindungs Schwellenwerte
+### <a name="customer-engagement-thresholds"></a>Schwellenwerte für Customer Engagement
 
-![Engagement-Schwellenwerte](images/pci3.png)
+![Schwellenwerte für Engagement](images/pci3.png)
 
-### <a name="finance-and-operations-thresholds"></a>Finanz-und Betriebs Schwellenwerte
+### <a name="finance-and-operations-thresholds"></a>Schwellenwerte für Finance and Operations
 
-![Finanzen und Vorgänge](images/pci4.png)
+![Finance and Operations](images/pci4.png)
 
-### <a name="developed-and-emerging-markets-functional-consultant-growth"></a>Wachstum des funktionalen Beraters von entwickelten und aufstrebenden Märkten 
+### <a name="developed-and-emerging-markets-functional-consultant-growth"></a>Zuwachs Funktionsberater in entwickelten und neuen Märkten 
 
-![Entwickelte und neue Märkte entwickelt und neue Märkte![](images/pci6.png)
-](images/pci7.png)
+![Entwickelte und neue Märkte](images/pci6.png)
+![Entwickelte und neue Märkte](images/pci7.png)
 
-## <a name="detailed-definitions-for-each-of-the-pci-metrics"></a>Ausführliche Definitionen für die einzelnen PCI-Metriken
+## <a name="detailed-definitions-for-each-of-the-pci-metrics"></a>Detaillierte Definitionen der einzelnen PCI-Metriken
 
 
-|**Metrik**   |**Punkt**   |**Definition**   |**Auswertungs Zeitraum**|
+|**Metric**   |**Punkte**   |**Definition**   |**Bewertungszeitraum**|
 |---------------|:--------------------------|:-------------------|:----------|
-|Netto neuer Umsatz|10|Netto neu berechneter Umsatz in allen Vertriebskanälen für bestimmte Produkte. Berechnet als Abrechnungen abzüglich Gutschriften und aggregiert über einen Zeitraum von 12 Monaten.
-||| - Zu den **Kunden Engagement** -Produkten zählen Vertrieb, Kundendienst, Außendienst, Projekt Dienst Automatisierung, Marketing, Microsoft Relationship Sales, Talent und Enterprise Team Mitglied. -
-||| **Finanz-und Betriebs** Produkte umfassen Finanzen und Betrieb, den Einzelhandel, das Talent und das Team Mitglied des Unternehmens. Vertriebskanäle umfassen beispielsweise Konzernvertrag (EA), Cloud Solution Provider (CSP) und Web Direct. Konzernvertrag Umsatz umfasst nur Einnahmen aus dem ersten Jahr der Vereinbarung. Die wiederkehrenden Umsätze aus dem zweiten und dritten Jahr sind nicht enthalten.|Nachfolgende 12 Monate|
-|NET Customer Adds|10|Kunden, die über alle Vertriebskanäle hinweg hinzugefügt wurden. Monatliche Berechnung, wenn Kunden minus Kunden hinzugefügt haben, die über 12 Monate verloren gehen und aggregiert wurden. Ein Kunden hinzufügen ist, wenn ein Kunde in einem früheren Monat keine kostenpflichtigen initiierten Einheiten hat, sondern im aktuellen Monat. Ein Kunde ist verloren gegangen, wenn ein Kunde in einem vorherigen Monat initiierte Einheiten bezahlt hat, aber nicht im aktuellen Monat. Zu den Vertriebskanälen gehören z.b. Konzernvertrag (EA), Cloud Solution Provider (CSP) und Web Direct. Wenn ein anderer Partner mit einem Kunden in einem Fall von Abwanderung und erneuten Erwerb verknüpft ist, erhält der aktuelle Partner eine Gutschrift.|Nachfolgende 12 Monate|
-|Funktionale Berater|15 |Anzahl der Personen, die eine zurzeit aktive Zertifizierungsstelle für den funktionalen Berater haben **Kunden Engagement** Die Zertifizierung des funktionalen Beraters erfordert, dass eine Einzelperson MB200 und MB210, MB220, MB230, MB240 oder MB6-898 übergibt. **Finanzen und Vorgänge** Die Zertifizierung des funktionalen Beraters erfordert, dass eine Einzelperson MB300 und MB310, MB320, MB330, MB6897 oder MB6-898 übergibt.|Aktuelle Momentaufnahme|
-|Wachstum des funktionalen Beraters|15|Vergleich zwischen der Anzahl der Personen, die eine zurzeit aktive funktionale Berater Zertifizierung haben, und der Anzahl der Personen, die eine aktive funktionale Zertifizierungsstelle am **31. Dezember 2019**halten. Es wurden **keine partiellen Punkte erteilt**. Das Wachstum muss die Schwellenwerte, die in Tabelle 3 für entwickelte Marktpartner und Tabelle 4 für aufstrebende Marktpartner angegeben sind, erfüllen oder überschreiten.|Aktuelle Momentaufnahme im Vergleich zum 31. Dezember 2019|
-|Entwickler|5|Für **Kunden Engagement**ist dies die Anzahl der Personen, die eine zurzeit aktive Zertifizierung für MB2-716 haben. Für **Finanzen und Vorgänge**ist dies die Anzahl der Personen, die eine zurzeit aktive Zertifizierung für MB6-894 haben.|Aktuelle Momentaufnahme|
-|Neue große bereit Stellungen|20|Wenn ein kostenpflichtiges Abonnement den 250 monatlich aktiven Benutzer Schwellenwert in den letzten 12 Monaten überschreitet, erhält der zugehörige Partner für **Kunden**Engagement eine Gutschrift für alle Kundenengagement-Produktions Instanzen (Organisationen) unter diesem Mandanten. Wenn ein kostenpflichtiges Abonnement in den letzten 12 Monaten den Schwellenwert von 100 monatlich aktiver Benutzer überschreitet, erhält der zugeordnete Partner für **Finanzen und Vorgänge**eine Gutschrift für alle Finanz-und Betriebs Produktions Instanzen (CS-Projekte) unter diesem Mandanten. Monatlich aktive Benutzer werden auf Abonnement Ebene gezählt, und nur kostenpflichtige Abonnements werden berücksichtigt. Monatlich aktive Benutzer werden am Ende jedes Monats berechnet. Bei einem Abonnement wird der monatliche Schwellenwert für aktive Benutzer überschritten, wenn der angegebene Schwellenwert vor 13 Monaten unterschritten wurde und der Schwellenwert mindestens einmal in den nachfolgenden 12 Monaten überschritten wurde. Wenn ein Mandant über mehrere Abonnements verfügt, die jeweils mit unterschiedlichen Partnern verknüpft sind, erhalten alle Partner eine Gutschrift für alle Produktions Instanzen unter dem Mandanten in der entsprechenden Produktkategorie, solange die zugehörigen kostenpflichtigen Abonnements die erforderliche Monatlicher aktiver Benutzer Schwellenwert.|Nachfolgende 12 Monate|
-|Monatliches aktives Benutzer Wachstum|25|Vergleich zwischen aktueller Anzahl der monatlich aktiven Benutzer und der Anzahl der monatlich aktiven Benutzer vor 13 Monaten. Monatlich aktive Benutzer werden auf Abonnement Ebene gezählt, und nur kostenpflichtige Abonnements werden berücksichtigt. Monatlich aktive Benutzer werden am Ende jedes Monats berechnet. Um **Kunden Engagement**zu unterstützen, muss ein entwickelter Marktpartner über eine Baseline von mindestens 250 monatlich aktiven Benutzern in der Produktionsumgebung und den neuen Marktpartner mindestens 150 monatlich aktive Benutzer verfügen, die für die gesamte Kundenbasis vor 13 Monaten benötigt werden, um für beliebige Punkt. Für **Finanzen und Betrieb**muss ein entwickelter Marktpartner über eine Baseline von mindestens 100 monatlich aktiven Benutzern in der Produktion verfügen, und der neue Marktpartner mindestens 50 monatlich aktive Benutzer für die gesamte Kundenbasis vor 13 Monaten, um für beliebige Punkt.|Nachfolgende 12 Monate|
+|Neuer Nettoumsatz|10|Neuer Nettoumsatz in allen Vertriebskanälen für angegebene Produkte. Berechnung: Abrechnungen minus Guthaben, über 12 Monate aggregiert.
+||| Zu den - **Customer Engagement**-Produkten gehören: Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, Talent und Enterprise Team Member. -
+||| Zu den **Finance and Operations**-Produkten gehören: Finance and Operations, Retail, Talent und Enterprise Team Member. Vertriebskanäle umfassen z. B. Enterprise Agreement (EA), Cloud Solution Provider (CSP) und Web Direct. Enterprise Agreement-Umsätze beinhalten nur Umsätze aus dem ersten Vertragsjahr. Wiederkehrende Umsätze aus dem zweiten und dritten Jahr sind nicht enthalten.|Letzte 12 Monate|
+|Nettokundenzuwachs|10|Nettozuwachs an Kunden in allen Vertriebskanälen. Monatliche Berechnung: gewonnene Kunden minus verlorene Kunden, über 12 Monate aggregiert. Als gewonnen zählt ein Kunde, wenn für diesen in einem vorherigen Monat keine bezahlten Einheiten vorhanden sind, dies aber im aktuellen Monat der Fall ist. Als verloren zählt ein Kunde, wenn für diesen in einem vorherigen Monat bezahlte Einheiten vorhanden sind, dies aber im aktuellen Monat nicht der Fall ist. Vertriebskanäle: Enterprise Agreement (EA), Cloud Solution Provider (CSP) und Web Direct. Wenn in einem Fall von Kundenabwanderung und -neugewinnung ein anderer Partner mit einem Kunden verknüpft ist, erhält der neueste Partner die Punkte.|Letzte 12 Monate|
+|Funktionsberater|15 |Anzahl von Einzelpersonen, die eine aktive Zertifizierung als Funktionsberater besitzen. Für die Zertifizierung als Funktionsberater im Bereich **Customer Engagement** muss eine Person die Prüfungen MB200 UND MB210 ODER MB220 ODER MB230 ODER MB240 ODER MB6-898 bestehen. Für die Zertifizierung als Funktionsberater im Bereich **Finance and Operations** muss eine Person die Prüfungen MB300 UND MB310 ODER MB320 ODER MB330 ODER MB6897 ODER MB6-898 bestehen.|Aktuelle Momentaufnahme|
+|Zuwachs Funktionsberater|15|Vergleich zwischen der Anzahl von Personen mit einer aktuell aktiven Zertifizierung als Funktionsberater und der Anzahl von Personen mit einer am **31. Dezember 2019** aktiven Zertifizierung als Funktionsberater. **Es werden keine anteiligen Punkte vergeben**. Der Zuwachs muss die in Tabelle 3 für Partner in entwickelten Märkten und in Tabelle 4 für Partner in neuen Märkten angegebenen Schwellenwerte erreichen oder übertreffen.|Aktuelle Momentaufnahme im Vergleich zur Momentaufnahme am 31. Dezember 2019|
+|Entwickler|5|Bei **Customer Engagement** ist dies die Anzahl von Personen, die eine aktuell aktive Zertifizierung für MB2-716 innehaben. Bei **Finance and Operations** ist dies die Anzahl von Personen, die eine aktuell aktive Zertifizierung für MB6-894 innehaben.|Aktuelle Momentaufnahme|
+|Neue große Bereitstellungen|20|Wenn bei **Customer Engagement** ein kostenpflichtiges Abonnement in den letzten 12 Monaten den Schwellenwert von 250 monatlich aktiven Benutzern überschritten hat, erhält der zugehörige Partner eine Gutschrift für alle Customer Engagement-Produktionsinstanzen (Organisationen) in diesem Mandanten. Wenn bei **Finance and Operations** ein kostenpflichtiges Abonnement in den letzten 12 Monaten den Schwellenwert von 100 monatlich aktiven Benutzern überschritten hat, erhält der zugehörige Partner eine Gutschrift für alle Finance and Operations-Produktionsinstanzen (CS-Projekte) in diesem Mandanten. Monatlich aktive Benutzer werden auf Abonnementebene gezählt, und nur kostenpflichtige Abonnements werden berücksichtigt. Monatlich aktive Benutzer werden am Ende jedes Monats berechnet. Für ein Abonnement gilt der Schwellenwert der monatlich aktiven Benutzer als überschritten, wenn es 13 Monate vorher unter dem angegebenen Schwellenwert lag und diesen Schwellenwert in den letzten 12 Monaten mindestens einmal überschritten hat. Wenn ein Mandant über mehrere Abonnements verfügt, die jeweils mit anderen Partnern verknüpft sind, erhalten alle Partner eine Gutschrift für alle Produktionsinstanzen im Mandanten und in der entsprechenden Produktkategorie, sofern die zugehörigen kostenpflichtigen Abonnements den erforderlichen Schwellenwert für monatlich aktive Benutzer überschreiten.|Letzte 12 Monate|
+|Zuwachs monatlich aktiver Benutzer|25|Vergleich zwischen der aktuellen Anzahl monatlich aktiver Benutzer mit der Anzahl monatlich aktiver Benutzer 13 Monate vorher. Monatlich aktive Benutzer werden auf Abonnementebene gezählt, und nur kostenpflichtige Abonnements werden berücksichtigt. Monatlich aktive Benutzer werden am Ende jedes Monats berechnet. Um sich für Punkte zu qualifizieren, muss bei **Customer Engagement** ein Partner in einem entwickelten Markt eine Baseline von mindestens 250 monatlich aktiven Benutzern in der Produktionsumgebung aufweisen, und ein Partner in einem neuen Markt muss mindestens 150 monatlich aktive Benutzer aufweisen. Die Zahlen gelten jeweils für den gesamten Kundenstamm 13 Monate vorher. Um sich für Punkte zu qualifizieren, muss bei **Finance and Operations** ein Partner in einem entwickelten Markt eine Baseline von mindestens 100 monatlich aktiven Benutzern in der Produktionsumgebung aufweisen, und ein Partner in einem neuen Markt muss mindestens 50 monatlich aktive Benutzer aufweisen. Die Zahlen gelten jeweils für den gesamten Kundenstamm 13 Monate vorher.|Letzte 12 Monate|
 
-## <a name="customer-to-partner-association"></a>Zuordnung zwischen Kunden und Partner
+## <a name="customer-to-partner-association"></a>Zuordnung zwischen Kunde und Partner
 
-Sie erhalten eine Gutschrift für den Nettoumsatz, den Netto Kunden, neue große bereit Stellungen und die monatliche aktive Benutzer Vergrößerung für einen bestimmten Kunden innerhalb der Grenzen der metrikdefinition, nur wenn Sie der Cloud Solution Provider (CSP) sind, der Anspruchs Partner des Datensatzes (cpor), oder Digital Partner of Record (dpor) für ein kostenpflichtiges Abonnement, das zum Mandanten des Kunden gehört.
+Du erhältst eine Gutschrift für neuen Nettoumsatz, Nettokundenzuwachs, neue große Bereitstellungen und Zuwachs monatlich aktiver Benutzer für jeden Kunden innerhalb der Grenzen der Metrikdefinition. Dies gilt nur, wenn du Cloud Solution Provider (CSP), Claiming Partner of Record (CPOR) oder Digital Partner of Record (DPOR) für ein kostenpflichtiges Abonnement bist, das zum Mandanten des Kunden gehört.
 
-Ein Partner wird zum cpor, wenn er über den Dynamics 365 Online Solution Advisor (OSA)-Anreiz mit einem Kunden auf der Abonnement Ebene eine Verknüpfung hergestellt hat.
+Ein Partner wird dann zum CPOR, wenn eine Kundenbeziehung auf Abonnementebene über das Dynamics 365-Incentive „Online Solution Advisor (OSA)“ eingegangen wurde.
 
-Ein Partner wird zum dpor, wenn er eine Zuordnung zu einem Kunden auf der Abonnement Ebene innerhalb des Produkts hergestellt hat.
+Ein Partner wird dann zum DPOR, wenn eine Kundenbeziehung auf Abonnementebene innerhalb des Produkts eingegangen wurde.
 
-Wenn für ein bestimmtes Abonnement sowohl cpor als auch dpor vorhanden sind, erhält das cpor alle Guthaben für PCI-Metriken, die dem Abonnement zugeordnet sind.
+Wenn für ein bestimmtes Abonnement sowohl ein CPOR als auch ein DPOR vorhanden sind, erhält der CPOR alle Gutschriften für mit dem Abonnement verknüpfte PCI-Metriken.
 
-## <a name="how-to-read-the-charts"></a>Vorgehensweise beim Lesen der Diagramme
+## <a name="how-to-read-the-charts"></a>Erläuterung zu den Diagrammen
 
-![Vorgehensweise beim Lesen des Diagramms](images/pci2.png)
+![Erläuterung zum Diagramm](images/pci2.png)
 
 
 

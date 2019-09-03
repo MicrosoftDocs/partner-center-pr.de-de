@@ -1,19 +1,19 @@
 ---
 title: Anzeigen von Kundenaktivitätsprotokollen | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 08/23/2019
 description: Aktivitätsprotokolle enthalten Informationen zu Transaktionen und Partnerverwaltungsaktionen für Kunden.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Aktivitätsprotokolle, Abonnement, Abonnements, Zahlungen, Abrechnung, Transaktionen
 ms.localizationpriority: medium
-ms.openlocfilehash: 21a67e40fb012247849ccc28fd9b7c9009b4a770
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
+ms.openlocfilehash: 4cfbbf48122de87d5e3b650862ab83d0ee27ff04
+ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668163"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "69993957"
 ---
 # <a name="view-customer-activity-logs"></a>Anzeigen von Kundenaktivitätsprotokollen
 
@@ -21,7 +21,6 @@ ms.locfileid: "64668163"
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
--  
 
 
 Aktivitätsprotokolle enthalten Informationen zu Transaktionen und Partnerverwaltungsaktionen für Kunden. Protokolle für Transaktionen bieten detaillierte Informationen zu Transaktionen, einschließlich zahlungspflichtiger Abonnements. Sie können Aktivitätsprotokolle auch in eine mit Excel kompatible durch Trennzeichen getrennte Datei (.csv) exportieren.
@@ -30,20 +29,21 @@ Aktivitätsprotokolle enthalten Datensätze für Partneraktionen für Kundenkont
 
 **Anzeigen und Exportieren von Aktivitätsprotokollen**
 
-1.  Wählen Sie im Menü **Partner Center** die Option **Aktivitätsprotokoll** aus.
+1.  Wähle im Menü **Kontoeinstellungen** die Option **Aktivitätsprotokoll** aus.
 2.  Wählen Sie mithilfe der Felder **Von** und **Bis** den Aktivitätsprotokollierungszeitraum aus. Für den Export des Aktivitätsprotokolls wird standardmäßig der letzte Monat festgelegt.
 
     Jedes Aktivitätsprotokoll enthält einen Link zur Seite **Abonnements** des aufgeführten Kunden.
 
     Wählen Sie für ein beliebiges Aktivitätsprotokoll den Pfeil nach unten, um Details zu einer protokollierten Aktion anzuzeigen. Ein einzelnes Aktivitätsprotokoll kann eine große Menge von Daten enthalten, beispielsweise Daten zur Bestellung mehrerer Produkte.
 
-3.  Wählen Sie **Exportprotokoll** aus, um die Abonnementdaten des Kunden in eine CSV-Datei zu kopieren und in den Standarddownloadordner auf Ihrem Computer hochzuladen. Zu den Datenspalten gehören u. a.:
+3.   Zu den Datenspalten des Protokolls gehören u. a.:
+    -   **Date-Time**: Datum und Uhrzeit der Aktion
     -   **Affected customer**: Firmenname des Kunden
-    -   **Aktion**: Produktname für das Abonnement
-    -   **Partnerbenutzer**: Der der Aktivität zugeordnete Partner
-    -   **Status**: Enthält die zur Aktivität gehörenden Daten, etwa eine Bestellnummer. Diese Angabe variiert basierend auf dem Aktionstyp.
-    -   **Zusätzliche Informationen**: Transaktionsdaten für das Aktivitätsprotokoll Beispiel: Handelt es sich bei der Aktion um eine Kundenbestellung, ist in diesem Feld der Inhalt des Einkaufs aufgeführt.
+    -   **Action**: die vom Kunden ausgeführte Aktion, z. B. „hat eine Empfehlung erstellt“
+    -   **Partner user**: der mit der Aktivität verknüpfte Partner
 
+4.  Wählen Sie **Exportprotokoll** aus, um die Abonnementdaten des Kunden in eine CSV-Datei zu kopieren und in den Standarddownloadordner auf Ihrem Computer hochzuladen.
+    
  
 
  

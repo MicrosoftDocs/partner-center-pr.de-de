@@ -1,84 +1,85 @@
 ---
-title: Umstellung von PMC auf Partner Center | Partner Center
+title: Wechsel von PMC zu Partner Center | Partner Center
 ms.topic: article
 ms.date: 06/14/2019
-description: Verstehen der Unterschiede und Ähnlichkeiten zwischen PMC und Partner Center
+description: Unterschiede und Gemeinsamkeiten von PMC und Partner Center
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, Migration, Umstellung auf Partner Center
+keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: fa5944a2f0fd70ec6337f3858199cdeb586fb39a
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: MT
+ms.openlocfilehash: 32bae49c23dd471e3b6be8415573361b758dce57
+ms.sourcegitcommit: 30ceee7d22f24f79cac15c537b1c3fc7ab8d700c
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708880"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "69999659"
 ---
-# <a name="moving-from-pmc-to-partner-center"></a>Umstellung von PMC auf Partner Center
+# <a name="moving-from-pmc-to-partner-center"></a>Wechsel von PMC zu Partner Center
 
-Wir vereinfachen Ihnen die Arbeit mit uns, indem wir eine einzige Website (Partner Center) einführen, die als zentraler Punkt für die Einbindung fungiert. Sie werden feststellen, dass alles, was Sie im Partner Membership Center (PMC) getan haben, über Ihr Dashboard im Partner Center erreicht werden kann. 
+Wir vereinfachen die Geschäftstätigkeit mit uns, indem wir eine einzelne Website (Partner Center) einführen, die als zentrale Anlaufstelle dient. Alle Aktivitäten, die du von Partner Membership Center (PMC) kennst, kannst du auch über das Dashboard in Partner Center ausführen. 
 
-Sie können auch viel mehr und alles erreichen, ohne die Website zu belassen. Einige der Begriffe und Features können jedoch anders aussehen. Um Probleme zu beheben, bei denen es sich um den Ort und die Bedeutung handelt, sollten Sie die Website Tour Ihres Dashboards durchführen.
+Darüber hinaus kannst du noch viele weitere Aufgaben erledigen – alles in einer einzigen Website. Die Begriffe und Features unterscheiden sich jedoch leicht. Mithilfe der Tour über dein Dashboard kannst du herauszufinden, welche Funktion sich wo befindet.
 
-Diese Tabelle enthält einige der Unterschiede zwischen der PMC und dem Partner Center.
+Die folgende Tabelle zeigt einige der Unterschiede zwischen PMC und Partner Center.
 
-## <a name="renewing-your-microsoft-partner-network--membership"></a>Erneuern der Microsoft Partner Network Mitgliedschaft
+## <a name="renewing-your-microsoft-partner-network--membership"></a>Aktualisieren der Microsoft Partner Network-Mitgliedschaft
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
-|Erneuerungen wurden vor dem Jahrestag 90 gestartet und müssen nach dem Jahrestag abgeschlossen sein.| Partner können den Tag nach dem Jahrestag und bis zu 30 Tage nach dem Jahrestag erneuern.|
+|Verlängerungen begannen 90 Tage vor dem Jahrestag und mussten bis zum Jahrestag abgeschlossen sein.| Partner können einen bis 30 Tage nach dem Jahrestag verlängern.|
 
 ## <a name="account-structure"></a>Kontostruktur
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
-|Hauptsitz Plus Standorte – jeweils einzeln ausgewertet. Die Evaluierung von Zuständigkeiten erfolgte auf lokaler Ebene.|Ein globales Unternehmen (auch als globales Partner Konto für den globalen Konto), einschließlich der Standorte, die als Ganzes ausgewertet werden. auf der PGA-Ebene aggregierte Leistungs-und Qualifikations Daten umfasst mehrere Profilansichten für Programme wie Partner Profile und geschäftsprofile für Verweise und Marketing.|
+|Hauptsitz und Filialstandorte wurden separat bewertet. Die Bewertung der Kompetenzen erfolgte auf lokaler Ebene.|Das globale Unternehmen einschließlich zugehöriger Filialstandorte – das Partner Global Account (PGA) –, wird als Ganzes bewertet. Leistungs- und Qualifikationsdaten werden auf PGA-Ebene aggregiert. Partner Center umfasst verschiedene Profilansichten für Programme, z. B. Partner- und Businessprofile für Empfehlungen und Marketing. Weitere Informationen findest du unter [Kontostruktur in Partner Center](https://docs.microsoft.com/partner-center/account-structure.md).|
 
 ## <a name="sign-in"></a>Anmelden
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
-|Sie können die Anmelde Informationen Ihres Microsoft-Konto (MSA) oder persönlichen Kontos verwenden.joe@outlook.com|Sie müssen die Anmelde Informationen Ihres Geschäfts Kontos verwendenjoe@joescompany.com, (.)|
+|Es konnten die Anmeldeinformationen sowohl für Microsoft-Konten (MSA) also auch für persönliche Konten (joe@outlook.com) verwendet werden.|Du musst die Anmeldeinformationen für dein Geschäftskonto verwenden (joe@joescompany.com). Weitere Informationen findest du unter [Das Geschäftskonto deines Unternehmens und Partner Center](https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center.md).|
 
-## <a name="user-roles"></a>Benutzer Rollen
-
-|**PMC**   |**Partner Center**|
-|----------------------|:-----------------------------|
-|Sie hatten viele Rollen in der PMC, die nicht im Partner Center angegeben sind.|Dem Administrator, der die Umstellung auf Partner Center durchführt, werden automatisch die Administrator Rollen MPN-Administrator, Konto Administrator und referenrals zugewiesen. Anschließend können Sie Benutzer Rollen andere Benutzer zuweisen.|
-|Benutzer wurden auf Speicherort Ebene verwaltet.|Benutzer werden auf Unternehmensebene (PGA) anstatt auf der Standortebene verwaltet. Die Ausnahme stellt der admin-Administrator dar, der auf der Location-Ebene funktioniert.|
-|   |Partner Center verfügt über zwei allgemeine Rollen Gruppen: die Rollen, die den Azure AD Mandanten verwalten, und die Rollen, die das Unternehmen des Unternehmens verwalten. Sie können die Rollen auf die Weise organisieren, die für Ihr Unternehmen sinnvoll ist. Nachdem die Person alles durchführen kann, oder viele Personen können separate Rollen und Berechtigungen zugewiesen werden. 
-
-## <a name="how-competencies-and-benefits-are-accounted-for"></a>Funktionsweise von Zuständigkeiten und Vorteilen
+## <a name="user-roles"></a>Benutzerrollen
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
-|Pro Standort und verwaltet pro Standort|Die Vorteile sind pro gesamtes Unternehmen, einschließlich der Verwaltung von Vorteilen, aber Sie können die Vorteile so verwalten, wie es Ihrem Unternehmen am besten entspricht. |
-|Sie können zusätzliche Benefits-Toolkits (abtks) haben, bis Sie im Oktober 2018 eingestellt wurden.|Keine abanpassungen; eine Zuordnung pro Unternehmen; eine Silver-Kompetenz pro Unternehmen; eine Gold-Kompetenz pro Unternehmen|
-|Der Zugriff auf die Vorteile von Partner Digital Download (PDD) ist möglich. |Der Zugriff auf alle Vorteile erfolgt im Partner Center.|
-|Kompetenzen und Vorteile, die verteilt und über mehrere Standorte verteilt sind|Ihre Kompetenzen und Vorteile von all ihren Standorten werden auf der Ebene des Unternehmens (PGA) konsolidiert und bis zu Ihrem Jahrestag beibehalten. Zu diesem Zeitpunkt müssen Sie auf Unternehmensebene erwerben oder erneuern. Leistung und Fähigkeiten sowie Kompetenzen werden Global aggregiert|
-|Software Assurance-Gutschein Ansprüche werden im Tool zur Überprüfung und Redation (VVR) für die Überprüfung durchgeführt.|Sie können jetzt auf Software Assurance-Schulungs Gutscheine (SATV) und/oder bereitgestellte Planungsdienste (DPS) innerhalb von Partner Center zugreifen und diese verwalten.  Das Legacy-VVR-Tool wird am 1. Oktober 2019 außer Betrieb gesetzt.  |
+|Viele der PMC-Rollen werden in Partner Center nicht verwendet.|Dem Administrator, der den Wechsel zu Partner Center durchführt, werden automatisch die Rollen „MPN Admin“, „Account Admin“ und „Referrals Admin“ zugewiesen. Dann kann dieser Administrator andere Benutzer zu Benutzerrollen zuweisen.|
+|Benutzer wurden auf Standortebene verwaltet.|Benutzer werden Unternehmensebene (PGA) verwaltet, nicht auf Standortebene. Die Rolle „Incentives Admin“ bildet eine Ausnahme, da diese auf Standortebene funktioniert.|
+|   |Partner Center bietet zwei umfangreiche Rollensätze: die Rollen, die den Azure AD-Mandanten verwalten, und die Rollen, die die Geschäftstätigkeit des Unternehmens verwalten. Organisiere die Rollen so, dass sie für dein Unternehmen am meisten Sinn ergeben. Es kann eine Person für alles zuständig sein, oder mehreren Personen können verschiedene Rollen und Berechtigungen zugewiesen werden. Weitere Informationen findest du unter [Zuweisen von Rollen und Berechtigungen zu Benutzern](https://docs.microsoft.com/partner-center/permissions-overview). 
 
-## <a name="visual-studio-benefits-and-msa"></a>Visual Studio-Vorteile und MSA
+## <a name="how-competencies-and-benefits-are-accounted-for"></a>Berücksichtigung der Kompetenzen und Vorteile
+
+|**PMC**   |**Partner Center**|
+|----------------------|:-----------------------------|
+|Pro Standort zusammengefasst und verwaltet.|Die Vorteile, einschließlich der Vorteilsadministration, gelten für das gesamte Unternehmen, du kannst die Vorteile aber so verwalten, wie es für dein Unternehmen am günstigsten ist. |
+|Additional Benefits Tool Kits (ABTKs) standen zur Verfügung, bis sie im Oktober 2018 eingestellt wurden.|Keine ABTKs. Ein MAPS pro Unternehmen, eine Silver-Kompetenz pro Unternehmen, eine Gold-Kompetenz pro Unternehmen.|
+||MAPS kann erworben werden, sofern noch nicht vorhanden. Der MAPS-Besitz ist nicht an Kompetenzen gebunden.  
+|Der Zugriff auf Vorteile erfolgte per Partner Digital Download (PDD). |Alle Vorteile sind im Partner Center verfügbar.|
+|Kompetenzen und Vorteile waren auf mehrere Standorte aufgeteilt.|Kompetenzen und Vorteile aus allen Standorten sind auf Unternehmensebene (PGA) konsolidiert und bleiben bis zum Jahrestag erhalten. Zu diesem Zeitpunkt muss ein Neuerwerb oder eine Verlängerung auf Unternehmensebene erfolgen. Leistung und Fähigkeiten werden ebenso wie Kompetenzen global aggregiert.|
+|Ansprüche aus Software Assurance-Vouchern wurden im Voucher Validation and Redemption-Tool (VVR) geltend gemacht.|Jetzt kannst du im Partner Center auf Software Assurance Training Vouchers (SATV) und/oder Deployed Planning Services (DPS) zugreifen und diese verwalten.  Das veraltete VRR-Tool wird am 1. Oktober 2019 außer Betrieb genommen.  |
+
+## <a name="visual-studio-benefits-and-msa"></a>Visual Studio: Vorteile und MSA
 
 |**PMC**   |**Partner Center**   |
 |-----------------|:-----------------|
-|Zuordnung von Visual Studio-Vorteilen zu MSA|Visual Studio-Vorteile, die MSAS zugeordnet sind, werden berücksichtigt und aufbewahrt.|
-||MSA-Zuordnungen von Visual Studio werden nach der Verlängerung im Partner Center beibehalten.|
-||Im Partner Center kann ein Partner Geschäftskonten und Gastbenutzer Konten hinzufügen, bei denen es sich um MSA aus demselben Mandanten handelt, bei dem der Partner MPN admin im Azure AD Mandanten ist. Wenn der Partner ein globaler Administrator in mehreren Azure AD Mandanten ist und alle diese Mandanten demselben Partner Center-Konto zugeordnet sind, ist es dem Partner gestattet, Benutzer über diese Mandanten zu den Visual Studio-Vorteilen und Azure-Verwendungs basierten Zuordnungen hinzuzufügen. Gastbenutzer können zwar nutzungsbasierte Abonnements von Visual Studio durch den MPN-Administrator oder den globalen Administrator zugewiesen werden, aber Gastbenutzer können sich nicht mit Ihrem MSA beim Partner Center anmelden. Gastbenutzer können sich jedoch bei Azure und Visual Studio anmelden, um die Ihnen zugewiesenen Vorteile zu überprüfen und zu nutzen. |
+|Zuordnung von Visual Studio-Vorteilen zu einem MSA|Visual Studio-Vorteile, die MSAs zugeordnet sind, bleiben erhalten und gelten weiter.|
+||MSA-Zuordnungen von Visual Studio werden nach der Verlängerung in Partner Center beibehalten.|
+||In Partner Center kann ein Partner Geschäftskonten und Gastbenutzerkonten vom Typ MSA aus demselben Mandanten hinzufügen, in dem der Partner MPN-Administrator im Azure AD-Mandanten ist. Wenn der Partner globaler Administrator in mehreren Azure AD-Mandanten ist und all diese Mandanten demselben Partner Center-Konto zugeordnet sind, kann der Partner Benutzer aus all diesen Mandanten zu Visual Studio-Vorteilen und zu auf der Azure-Nutzung basierenden Zuordnungen hinzufügen. Ein MPN-Administrator oder globaler Administrator kann zwar Gastbenutzern nutzungsbasierte Visual Studio-Abonnements zuweisen, aber Gastbenutzer können sich nicht mit ihrem MSA bei Partner Center anmelden. Gastbenutzer können sich aber bei Azure und Visual Studio anmelden, um die ihnen zugewiesenen Vorteile zu überprüfen und zu nutzen. |
 
-## <a name="programs-now-located-and-managed-in-partner-center"></a>Programme, die jetzt im Partner Center gespeichert und verwaltet werden 
+## <a name="programs-now-located-and-managed-in-partner-center"></a>In Partner Center befindliche und verwaltete Programme 
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
 |PDD  |Vorteile|
-|CHIP, ICP, KREIS | Vorteile|
+|CHIP, ICP, PIE | Incentives|
 ||Empfehlungen|
-|Partner Einblicke| Analysen|
+|Partner Insights| Analysen|
 |Tool zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR)| Tool zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR)|
 |           |Cloud Solution Provider-Programme|
 
-Ja. Visual Studio-Vorteile, die MSAS zugeordnet sind, werden berücksichtigt und aufbewahrt. Sie werden auch nach der Verlängerung im Partner Center beibehalten. Wenn Sie jedoch eine MSA-Zuordnung entfernen, nachdem Sie im Partner Center migriert wurde, kann Sie nicht wieder in Partner Center hinzugefügt werden.
+Ja. Visual Studio-Vorteile, die MSAs zugeordnet sind, bleiben erhalten und gelten weiter. Sie werden auch nach der Verlängerung in Partner Center beibehalten. Wenn du jedoch nach der Migration zu Partner Center eine MSA-Zuordnung entfernst, kann diese nicht wieder zu Partner Center hinzugefügt werden.
 
-Im Partner Center kann ein Partner Geschäftskonten und Gastbenutzer Konten hinzufügen, bei denen es sich um MSA aus demselben Mandanten handelt, bei dem der Partner MPN admin im Azure AD Mandanten ist. Wenn der Partner ein globaler Administrator in mehreren Azure AD Mandanten ist und alle diese Mandanten demselben Partner Center-Konto zugeordnet sind, ist es dem Partner gestattet, Benutzer über diese Mandanten zu den Visual Studio-Vorteilen und Azure-Verwendungs basierten Zuordnungen hinzuzufügen.
+In Partner Center kann ein Partner Geschäftskonten und Gastbenutzerkonten vom Typ MSA aus demselben Mandanten hinzufügen, in dem der Partner MPN-Administrator im Azure AD-Mandanten ist. Wenn der Partner globaler Administrator in mehreren Azure AD-Mandanten ist und all diese Mandanten demselben Partner Center-Konto zugeordnet sind, kann der Partner Benutzer aus all diesen Mandanten zu Visual Studio-Vorteilen und zu auf der Azure-Nutzung basierenden Zuordnungen hinzufügen.
 
-Gastbenutzer können zwar nutzungsbasierte Abonnements von Visual Studio durch den MPN-Administrator oder den globalen Administrator zugewiesen werden, aber Gastbenutzer können sich nicht mit Ihrem MSA beim Partner Center anmelden. Gastbenutzer können sich jedoch bei Azure und Visual Studio anmelden, um die Ihnen zugewiesenen Vorteile zu überprüfen und zu nutzen.
+Ein MPN-Administrator oder globaler Administrator kann zwar Gastbenutzern nutzungsbasierte Visual Studio-Abonnements zuweisen, aber Gastbenutzer können sich nicht mit ihrem MSA bei Partner Center anmelden. Gastbenutzer können sich aber bei Azure und Visual Studio anmelden, um die ihnen zugewiesenen Vorteile zu überprüfen und zu nutzen.

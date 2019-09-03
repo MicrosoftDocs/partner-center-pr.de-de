@@ -1,19 +1,19 @@
 ---
-title: 'Kunden des Office 365 Admin Center für Partner: Ihre Geschäftsvorgänge werden zu Partner Center migriert. | Partner Center'
+title: 'Partner im Office 365 Partner Admin Center: Geschäftsvorgänge werden zu Partner Center migriert. | Partner Center'
 ms.topic: article
-ms.date: 03/15/2019
-description: Wichtige Überlegungen für Kunden von Office 365 Admin Center für Partner bei der Migration zu Partner Center
+ms.date: 08/22/2019
+description: Wichtige Überlegungen für Partner im Office 365 Partner Admin Center bei der Migration zu Partner Center
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fb32c86c623044dc42a2ba746a4efe0aca568e04
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
+ms.openlocfilehash: 601563734a460be31cfba9beaa7d5d447769a730
+ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668333"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "69993963"
 ---
-# <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Kunden des Office 365 Admin Center für Partner: Vorbereiten auf die Migration von Geschäftsvorgängen zu Partner Center
+# <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Partner im Office 365 Partner Admin Center: Vorbereiten auf die Migration von Geschäftsvorgängen zu Partner Center
 
 **Gilt für** 
 
@@ -30,11 +30,9 @@ Sie können Partner Center direkt für viele der Aufgaben verwenden, die Sie der
 
 Derzeit werden beide Websites unterstützt. Während des Übergangs zur neuen Website können Sie daher das Office 365 Admin Center für Partner weiterhin verwenden. Alle von Ihnen vorgenommenen Änderungen werden auf beiden Websites angezeigt.
 
-Wir hoffen, dass Ihnen die neue Umgebung gefällt.
-
 ## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a>Features des Office 365 Admin Center für Partner in Partner Center
 
-Aufgaben werden in Partner Center anders abgeschlossen als im Office 365 Admin Center für Partner. So schließen Sie sie in Partner Center ab:
+Aufgaben werden in Partner Center anders ausgeführt als im Office 365 Partner Admin Center. So schließen Sie sie in Partner Center ab:
 
 | Feature im Office 365 Admin Center für Partner                       | Wo ist es im Partner Center? | 
 |   -----------------------------------------------  | -------------- |

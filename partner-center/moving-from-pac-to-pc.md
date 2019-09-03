@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, Office 365-Administrator, PAC-Features
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c6131dec100f438895cfa7d4f8fea5f6d66dacb
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
+ms.openlocfilehash: 7a2f7bd3ad2e533b047424c54e4f2912bd5a30c2
+ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667811"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "69993990"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Wechseln von Partner Admin Center (PAC) zu Partner Center
 
@@ -20,7 +20,7 @@ Gilt für:
 - Partner Center
 - Partner Admin Center
 
-Willkommen bei Partner Center! Partner Center ist der zentrale Ort zum Verwalten Ihrer Partnerschaft mit Microsoft und Ihren Kunden. In Partner Center können Sie die Mitgliedschaft, Kundenempfehlungen, Incentives und alle anderen Aspekte des Programms für Cloud Solution Provider (CSP) verwalten. Dort können Sie die meisten Aufgaben ausführen, die Sie in PAC in Partner Center ausgeführt haben, auch wenn sich einige Features oder Aktionen anders funktionieren. 
+Partner Center entwickelt sich zum zentralen Ort für die Verwaltung der Partnerschaft mit Microsoft und deinen Kunden. In Partner Center können Sie die Mitgliedschaft, Kundenempfehlungen, Incentives und alle anderen Aspekte des Programms für Cloud Solution Provider (CSP) verwalten. Dort können Sie die meisten Aufgaben ausführen, die Sie in PAC in Partner Center ausgeführt haben, auch wenn sich einige Features oder Aktionen anders funktionieren. 
 
 
 |**Aktion**   |**PAC**   |**Partner Center**   |

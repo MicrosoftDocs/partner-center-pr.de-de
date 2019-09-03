@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote
 ms.localizationpriority: medium
-ms.openlocfilehash: b5c9349ba5b4770eec9b4b8923907dd8377b20e3
-ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
-ms.translationtype: MT
+ms.openlocfilehash: bd6c0a4aa17c8163a2ffbade8ef337e9320e0389
+ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2019
-ms.locfileid: "67468018"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "69993976"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Programmleitfaden, Vereinbarungen, Preislisten und Angebote zu Cloud Solution Provider
 
@@ -57,7 +57,7 @@ Microsoft-Partner müssen diese Vereinbarung unterzeichnen, um am Cloud Solution
 Bevor Sie eine Bestellung im Auftrag eines Kunden aufgeben können, muss der Kunde den entsprechenden Microsoft Cloud-Vertrag akzeptieren und unterzeichnen. Microsoft Cloud-Verträge sind regionsspezifisch und in mehreren Sprachen verfügbar. Wechseln Sie zu [Kundenvorlagen](agreements.md) für Microsoft Cloud-Verträge, um den Microsoft Cloud-Vertrag zu finden, den Sie mit neuen Kunden überprüfen müssen.
 
 >[!IMPORTANT]
->Sie müssen bestätigen, dass ein Kunde dem Microsoft Cloud-Vertrag zugestimmt hat, indem Sie Informationen über die Person bereitstellen, die den Vertrag unterzeichnet hat. Weitere Informationen finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](confirm-consent.md) und [Bestätigung der Kundenzustimmung zum Microsoft Cloud-Vertrag – Häufig gestellte Fragen](confirm-consent-faq.md).
+>Sie müssen bestätigen, dass ein Kunde dem Microsoft Cloud-Vertrag zugestimmt hat, indem Sie Informationen über die Person bereitstellen, die den Vertrag unterzeichnet hat. Siehe [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](confirm-consent.md). 
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Berufsgeheimnisträger Zusatzvereinbarung für den Microsoft Cloud-Vertrag (Deutschland)
 

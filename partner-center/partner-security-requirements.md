@@ -1,18 +1,18 @@
 ---
 title: Sicherheitsanforderungen für Partner | Partner Center
 ms.topic: article
-ms.date: 08/05/2019
+ms.date: 08/30/2019
 description: Erfahren Sie mehr über die Sicherheitsanforderungen für Berater und Partner, die am Cloud Solution Provider-Programm teilnehmen.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: medium
-ms.openlocfilehash: 40f5ac3e1481c0b630fc7e22e680409b1ca80926
-ms.sourcegitcommit: a5d5bd83e20649e9f02d2d82d682f87bb28a0265
+ms.openlocfilehash: c95ec38f928ca4032ffecebaf25f23e87d10c079
+ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "68912625"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "70215652"
 ---
 # <a name="partner-security-requirements"></a>Sicherheitsanforderungen für Partner
 

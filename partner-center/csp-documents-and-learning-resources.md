@@ -1,19 +1,19 @@
 ---
 title: CSP-Vereinbarungen, Preislisten und Angebote | Partner Center
 ms.topic: article
-ms.date: 03/27/2019
+ms.date: 08/29/2019
 description: Dieser Artikel enthält Links zu Programmleitfaden, Partnervereinbarungen, Kundenverträgen, Preislisten und Angeboten für Cloud Solution Provider.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote
 ms.localizationpriority: medium
-ms.openlocfilehash: bd6c0a4aa17c8163a2ffbade8ef337e9320e0389
-ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
+ms.openlocfilehash: 9c566b43a0624a90bad746852e971a316b085005
+ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69993976"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "70259916"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Programmleitfaden, Vereinbarungen, Preislisten und Angebote zu Cloud Solution Provider
 
@@ -33,24 +33,6 @@ Lesen Sie die Anforderungen, wie Sie ein Partner im CSP-Programm werden.
 
 >[!Note]
 >Wenn Sie ein Geschäftsschreiben benötigen, das Ihren Status als anerkannter Microsoft-Partner im Cloud Solution Provider-Programm bestätigt oder zertifiziert, wenden Sie sich an den [Support](https://partner.microsoft.com/pcv/servicerequests/create), um dieses anzufordern.
-
-## <a name="cloud-solution-provider-partner-agreement"></a>Cloud Solution Provider – Partnervertrag
-
-Microsoft-Partner müssen diese Vereinbarung unterzeichnen, um am Cloud Solution Provider-Programm teilnehmen zu können. Überprüfen Sie den Leitfaden für den Markt oder die nationale Cloud, in dem bzw. der Sie verkaufen möchten.
-
-[Microsoft Cloud Reseller Agreement – Nordamerika, Mittelamerika, Südamerika, Karibik](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g7eT)
-
-[Microsoft Cloud Reseller Agreement – Asien, Australien, Pazifischer Raum](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
-
-[Microsoft Cloud Reseller Agreement – Europa , Naher Osten und Afrika](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
-
-[Microsoft Cloud Reseller Agreement – Japan](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ9)
-
-[Microsoft Cloud Reseller Agreement – Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gf2k)
-
-[Microsoft Cloud Reseller Agreement – Taiwan](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ8)
-
-[Microsoft Cloud Reseller Agreement – Microsoft Cloud for US Government](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gcrx)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud Agreement – Kundenvorlagen
 

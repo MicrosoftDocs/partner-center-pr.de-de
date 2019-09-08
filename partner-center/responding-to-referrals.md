@@ -8,12 +8,12 @@ ms.author: jenhayes
 keywords: Empfehlung, RFI, Partner suchen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cb97ca8bfdd20976b9cef75594f6bd13c330595b
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
-ms.translationtype: MT
+ms.openlocfilehash: d6dbbc8114f3aa9f23582f229883416d331a87c5
+ms.sourcegitcommit: ba0b0eea3dbc028ec162f58b841ba9e3588f1dca
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67854531"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "70134635"
 ---
 # <a name="respond-to-referrals"></a>Antworten auf Empfehlungen
 
@@ -31,9 +31,9 @@ Beginnen Sie mit dem Einrichten eines [Unternehmensprofils](create-a-marketing-p
 *  Interne Vertriebs- und Servicevertreter von Microsoft
 *  Kundensuche mithilfe des Suchtools für **[Lösungsanbieter](https://www.microsoft.com/solution-providers/home)** .
 
-Wenn ein Kunde an weiteren Informationen über Ihre Lösungen und Dienste interessiert ist, kontaktiert er Sie durch Absenden einer Informationsanfrage. Der Kontakt in Ihrem [Unternehmensprofil](create-a-marketing-profile.md), das speziell für die ausgewählte Region und den ausgewählten Standort gilt, empfängt dann eine vom System generierte E-Mail. Sie können auch eingehende RFIs im Partner Center anzeigen, indem Sie zu den **verweisen > Engagements >** Eingangsbox wechseln.
+Wenn ein Kunde an weiteren Informationen über Ihre Lösungen und Dienste interessiert ist, kontaktiert er Sie durch Absenden einer Informationsanfrage. Der Kontakt in Ihrem [Unternehmensprofil](create-a-marketing-profile.md), das speziell für die ausgewählte Region und den ausgewählten Standort gilt, empfängt dann eine vom System generierte E-Mail. Sie können auch eingehende Informationsanfragen im Partner Center anzeigen, indem Sie zu **Empfehlungen > Bindungen > Posteingang** navigieren.
 
-Kunden senden häufig die gleiche RFI an mehrere Unternehmen gleichzeitig. Um die Erfolgschancen zu erhöhen, empfiehlt es sich, neue Engagement-Verweise innerhalb von 24 Stunden oder weniger zu akzeptieren oder zu ablehnen.
+Kunden senden häufig die gleiche Informationsanfrage an mehrere Unternehmen gleichzeitig. Um Ihre Erfolgschancen zu erhöhen, empfehlen wir, innerhalb von maximal 24 Stunden neue Bindungsempfehlungen zu akzeptieren oder abzulehnen.
 
 ### <a name="new-referrals"></a>Neue Empfehlungen
 
@@ -41,29 +41,29 @@ In Ihrem **Posteingang** zeigen wir zeigen Ihnen eine Übersicht der Information
 
 Überprüfen Sie die Details, und kontaktieren Sie den Kunden, wenn Sie sich weiter über seine geschäftlichen Anforderungen informieren möchten. Nehmen Sie dann die Empfehlung an, oder lehnen Sie sie ab:
 
-*  **Annehmen**: Geben Sie einen Namen für die Einbindung, den geschätzten Werte Wert und den geschätzten Kauf Zeitraum ein. Sie sollten auch Informationen im Feld **Notizen** bereitstellen, um mehr darüber zu erfahren, was der Kunde sucht. Sie können hier optional Ihre CRM-ID eingeben (nur für Ihre Referenz) und weitere Kontakte aus Ihrem Unternehmen hinzufügen. Wenn Sie fertig sind, wählen Sie **weiter**aus. Wir verschieben die Empfehlung unter **Aktiv**, was bedeutet, dass Sie aktiv mit dem Kunden zusammenarbeiten möchten, um ihn bei der Lösungsfindung zu unterstützen. Wir verwenden diese Informationen außerdem, um zukünftig ähnliche Angebote zu finden.
-*  **Ablehnen**: Wählen Sie den Grund für die Abnahme der Bindung aus, und fügen Sie Notizen hinzu, die Sie einschließen möchten, und wählen Sie dann **Engagement schließen**aus. Wir archivieren die Empfehlung als **Abgelehnt** und benachrichtigen den Kunden, dass er einen anderen Partner wählen sollte.
+*  **Annehmen**: Geben Sie einen Namen für die Bindung, den geschätzten Angebotswert und den geschätzten Kaufzeitrahmen ein. Sie sollten auch Informationen im Feld **Anmerkungen** bereitstellen, um ausführlicher zu erläutern, was der Kunde sucht. Sie können hier optional Ihre CRM-ID eingeben (nur zu Referenzzwecken) und weitere Kontakte aus Ihrem Unternehmen hinzufügen. Wenn Sie fertig sind, klicken Sie auf **Weiter**. Wir verschieben die Empfehlung unter **Aktiv**, was bedeutet, dass Sie aktiv mit dem Kunden zusammenarbeiten möchten, um ihn bei der Lösungsfindung zu unterstützen. Wir verwenden diese Informationen außerdem, um zukünftig ähnliche Angebote zu finden.
+*  **Ablehnen**: Wählen Sie den Grund für die Ablehnung der Bindung aus, und fügen Sie Anmerkungen hinzu, die Sie einschließen möchten. Wählen Sie dann **Bindung schließen** aus. Wir archivieren die Empfehlung als **Abgelehnt** und benachrichtigen den Kunden, dass er einen anderen Partner wählen sollte.
 
 Wenn Sie nicht innerhalb des vorgesehenen Zeitraums (derzeit 14 Tage) reagieren, archivieren wir die Empfehlung als **Abgelaufen** und benachrichtigen den Kunden, dass er einen anderen Partner wählen sollte.
 
 > [!TIP]
-> Ein Kunde hat die Möglichkeit, explizit anzufordern, dass er von den interessierten Partnern direkt kontaktiert werden muss. Wenn dies der Fall ist, wird am oberen Rand der Seite mit einem Flammen Symbol eine Warnung angezeigt. Wir empfehlen dringend, sich so schnell wie möglich mit dem Kunden in Verbindung zu setzen, um die Chancen zu verbessern, das Engagement zu gewinnen. Nach 72 Stunden wird der Verweis weiterhin aktiv sein, aber das Symbol und die Meldung ändern sich. Wenn Sie an der Weiterleitung interessiert sind, wenden Sie sich an den Kunden.
+> Ein Kunde hat die Möglichkeit, explizit anzufordern, dass er von interessierten Partnern direkt kontaktiert werden möchte. Wenn dies der Fall ist, wird am oberen Rand der Seite mit einem Flammensymbol eine Benachrichtigung angezeigt. Wir empfehlen dringend, sich so schnell wie möglich mit dem Kunden in Verbindung zu setzen, um die Chancen zu verbessern, die Bindung zu gewinnen. Nach 72 Stunden ist die Empfehlung zwar weiterhin aktiv, aber das Symbol und die Meldung ändern sich. Wenn Sie an der Empfehlung weiterhin interessiert sind, sollten Sie sich mit dem Kunden in Verbindung setzen.
 
 ### <a name="active-referrals"></a>Aktive Empfehlungen
 
 Bemühen Sie sich, das Geschäft mit dem Kunden abzuschließen. Wenn Sie fertig sind, wählen Sie **Gewonnen** oder **Verloren** aus, um das Ergebnis zu melden, damit wir es entsprechend archivieren können.
 
 > [!TIP]
-> Bei bestimmten berechtigten Lösungen werden Sie nach der Auswahl von " **gewinnt** " aufgefordert, zusätzliche Informationen bereitzustellen, um Ihr Geschäft zu registrieren. Microsoft prüft die hier bereitgestellten Informationen und kann während des Überprüfungs Vorgangs weitere Details anfordern.
+> Für bestimmte in Frage kommende Lösungen werden Sie nach der Auswahl von **Gewonnen** aufgefordert, zusätzliche Informationen anzugeben, um Ihr Angebot zu registrieren. Microsoft überprüft die hier von Ihnen bereitgestellten Informationen und kann während des Überprüfungsvorgangs weitere Details anfordern. Weitere Informationen finden Sie unter [Registrieren Ihrer Angebote](register-deals.md).
 
-Wenn Sie eine der Informationen ändern möchten, die Sie für einen aktiven Verweis angegeben haben, wählen Sie " **Engagement bearbeiten**" aus. Anschließend können Sie den Namen des Engagements, das geschätzte Kauf Datum, den geschätzten Wert, Hinweise und/oder Ihre CRM-ID aktualisieren.
+Wenn Sie eine der Informationen ändern möchten, die Sie für eine aktive Empfehlung angegeben haben, wählen Sie **Bindung bearbeiten** aus. Anschließend können Sie den Namen der Bindung, das geschätzte Kaufdatum, den geschätzten Wert, Anmerkungen und/oder Ihre CRM-ID aktualisieren.
 
-Sie können auch **Kontakt hinzufügen** auswählen, um den Namen, die Telefonnummer und die e-Mail-Adressen aller weiteren Personen anzugeben, die an der Einbindung arbeiten.
+Sie können auch **Kontakt hinzufügen** auswählen, um den Namen, die Telefonnummer und die E-Mail-Adressen weiterer Personen anzugeben, die am Engagement mitarbeiten.
 
 
 ### <a name="archived-referrals"></a>Archivierte Empfehlungen
 
-Überprüfen Sie jederzeit die bisherigen Referenzen ("**gewinnt", "verloren", "abgelehnt** " und " **abgelaufen**"). 
+Sie können Ihre letzten Empfehlungen (**gewonnen, verloren, abgelehnt** und **abgelaufen**) jederzeit überprüfen. 
 
 ## <a name="getting-more-referrals"></a>Erhalten weiterer Empfehlungen
 

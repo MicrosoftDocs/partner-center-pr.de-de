@@ -2,7 +2,7 @@
 title: Implementieren der Sicherheitsanforderungen für Partner
 metadata:
   title: Implementieren der Sicherheitsanforderungen für Partner
-  description: In diesem Tutorial erfahren Sie mehr über die Sicherheitsanforderungen des Partners und wie diese erfüllt werden können.
+  description: In diesem Tutorial erfahren Sie mehr über die Sicherheitsanforderungen für Partner und wie Sie diese erfüllen können.
   audience: Partners
   level: Beginner
   ms.date: 06/24/2019
@@ -10,7 +10,7 @@ metadata:
   ms.custom: mvc
   ms.openlocfilehash: 0870db76a162e4bc85e101a03c992da5c2ba22d3
   ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: de-DE
   ms.lasthandoff: 07/18/2019
   ms.locfileid: "68313950"
@@ -18,38 +18,38 @@ items:
 - title: Einführung
   durationInMinutes: 5
   content: >
-    Sicherheit und Datenschutz von Kunden und Partnern sind die wichtigsten Prioritäten für Microsoft. Wir sehen weiterhin eine wachsende Anzahl von anspruchsvolleren Sicherheitsangriffen, die in erster Linie mit kompromittierten Identitäten in Zusammenhang stehen. Da vorbeugende Kontrollen eine wichtige Rolle bei der Gesamt Verteidigungsstrategie spielen, um Sicherheitsangriffe zu verhindern, werden wir mit der Erzwingung eines Satzes von obligatorischen Sicherheitsanforderungen beginnen, um Partner und ihre Kunden zu schützen.
+    Sicherheit und Datenschutz von Kunden und Partnern besitzen für Microsoft oberste Priorität. Wir stellen immer mehr und immer ausgefeiltere Sicherheitsangriffe fest, insbesondere im Hinblick auf die Kompromittierung von Identitäten. Da präventive Maßnahmen in der Verteidigungsstrategie eine wichtige Rolle spielen, um Angriffe bereits im Vorfeld abzuwehren, beginnen wir damit, eine Reihe von obligatorischen Sicherheitsanforderungen durchzusetzen, die zum Schutz unserer Partner und deren Kunden beitragen.
 
 
-    In diesem Tutorial erfahren Sie mehr über die Partner Sicherheitsanforderungen, deren Erfüllung und die Auswirkungen auf Benutzer in Ihrem Partnerverzeichnis.
-- title: Welche Sicherheitsanforderungen gelten für den Partner?
+    In diesem Tutorial erfahren Sie mehr über die Sicherheitsanforderungen für Partner, deren Erfüllung und die Auswirkungen auf die Benutzer in Ihrem Partnerverzeichnis.
+- title: Welche Sicherheitsanforderungen gelten für Partner?
   durationInMinutes: 1
   content: >
-    Alle Partner, die an dem Cloud Solution Provider-Programm, den System Steuerungs Anbietern und den Advisor-Partnern teilnehmen, müssen mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für jeden Benutzer in Ihrem Partner Mandanten erzwingen. Dies kann durch Aktivieren von zwei [Azure Active Directory Baseline-Richtlinien](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)erreicht werden. Grundlegende Richtlinien sind eine Reihe vordefinierter Richtlinien, mit denen Organisationen vor vielen häufigen Angriffen geschützt werden. Diese häufigen Angriffe können Kenn Wort Spray, Wiedergabe und Phishing einschließen. Baseline-Richtlinien sind in allen Editionen von Azure Active Directory verfügbar. Microsoft stellt diese grundlegenden Schutzrichtlinien allen Benutzern zur Verfügung, da identitätsbasierte Angriffe in den letzten Jahren durchgeführt wurden.
+    Alle Partner, die am Cloud Solution Provider-Programm teilnehmen, Systemsteuerungsanbieter oder Advisor-Partner sind verpflichtet, mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für jeden Benutzer in ihrem Partnermandanten durchzusetzen. Dies kann durch Aktivieren von zwei [Azure Active Directory-Baselinerichtlinien](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) erreicht werden. Baselinerichtlinien sind eine Reihe von vordefinierten Richtlinien, die dabei helfen, Unternehmen vor vielen allgemeinen Angriffen zu schützen. Diese allgemeinen Angriffe können Password Spray, Replay und Phishing einbeziehen. Basisrichtlinien sind in allen Editionen von Azure Active Directory verfügbar. Microsoft stellt diese Basisschutzrichtlinien allen Benutzern zur Verfügung, weil identitätsbasierte Angriffe seit einigen Jahren zunehmen.
 
 
-    Die beiden grundlegenden Richtlinien, die aktiviert werden sollten, sind in der folgenden Tabelle beschrieben.
+    Die beiden Baselinerichtlinien, die aktiviert müssen, werden in der folgenden Tabelle beschrieben.
 
 
     |**Richtlinie**| |
 
     |-----|-----|
 
-    |**MFA für Administratoren erforderlich**|Wenn Sie die Richtlinie MFA für Administratoren anfordern aktivieren, müssen sich Benutzer in den Administrator Rollen mithilfe der Authenticator-App für MFA registrieren. Nachdem die MFA-Registrierung fertiggestellt wurde, müssen Administratoren bei jeder Anmeldung MFA durchführen.|
+    |**MFA für Administratoren erfordern**|Wenn Sie die Richtlinie „MFA für Administratoren erfordern“ aktivieren, müssen sich Benutzer in den Administratorrollen über die Authentifikator-App für MFA registrieren. Nachdem die MFA-Registrierung abgeschlossen ist, müssen Administratoren MFA bei jeder Anmeldung durchführen.|
 
-    |**Endbenutzer Schutz**|Der Endbenutzer Schutz ist eine risikobasierte MFA-Baselinerichtlinie, mit der alle Benutzer in einem Verzeichnis geschützt werden. Wenn Sie diese Richtlinie aktivieren, müssen sich alle Benutzer mithilfe der Authenticator-App für MFA registrieren. Benutzer können die Eingabeaufforderung für die MFA-Registrierung 14 Tage lang ignorieren. Danach wird die Anmeldung blockiert, bis Sie sich für MFA registrieren. Nach der Registrierung für MFA werden Benutzer nur bei riskanten Anmelde versuchen zur Eingabe der MFA aufgefordert. Kompromittierte Benutzerkonten werden blockiert, bis Ihr Kennwort zurückgesetzt und Risiko Ereignisse verworfen wurden.|
+    |**Endbenutzerschutz**|Der Endbenutzerschutz ist eine risikobasierte MFA-Baselinerichtlinie, die alle Benutzer in einem Verzeichnis schützt. Wenn Sie diese Richtlinie aktivieren, müssen sich alle Benutzer über die Authentifikator-App für MFA registrieren. Benutzer können die MFA-Registrierungsaufforderung 14 Tage lang ignorieren. Danach wird ihnen die Anmeldung verwehrt, bis sie sich für MFA registriert haben. Nach der Registrierung für MFA werden die Benutzer nur noch während risikobehafteter Anmeldeversuche zur MFA aufgefordert. Kompromittierte Benutzerkonten werden gesperrt, bis ihr Kennwort zurückgesetzt und Risikoereignisse abgewiesen wurden.|
 
 
-    Wenn diese Richtlinien aktiviert sind, kann jeder Benutzer ohne zusätzliche Kosten Azure MFA nutzen. Wenn Sie eine Drittanbieter Lösung verwenden, müssen Sie die MFA für jeden Benutzer erzwingen, wenn Sie auf die kommerziellen Clouddienste von Microsoft zugreifen.
+    Wenn diese Richtlinien aktiviert sind, kann jeder Benutzer Azure MFA ohne zusätzliche Kosten zur Überprüfung nutzen. Wenn Sie eine Drittanbieterlösung verwenden, müssen Sie beim Zugriff auf kommerzielle Microsoft-Clouddienste MFA für jeden Benutzer erzwingen.
 
 
     > [!IMPORTANT]
 
-    > Da MFA für jeden Benutzer im Partnerverzeichnis erzwungen wird, wirkt sich dies auf jegliche Automatisierung oder Integration aus, die Benutzer Anmelde Informationen verwendet. Um diese Auswirkung zu beheben, müssen Sie die Art und Weise ändern, in der Ihre Automatisierung oder Integration mit Microsoft-Clouddiensten verbunden ist. Wenn der Dienst, mit dem Sie eine Verbindung herstellen, die tokenbasierte Authentifizierung unterstützt, wird empfohlen, das [sichere Anwendungsmodell Framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)zu implementieren.
-- title: Gewusst wie aktivieren Sie die Baseline-Richtlinie MFA für Administratoren erforderlich?
+    > Da MFA für jeden Benutzer im Partnerverzeichnis erzwungen wird, hat dies Auswirkungen auf jede Automatisierung oder Integration, die Benutzeranmeldeinformationen verwendet. Um diesen Auswirkungen zu begegnen, müssen Sie die Art und Weise ändern, wie Ihre Automatisierung oder Integration eine Verbindung mit kommerziellen Clouddiensten von Microsoft herstellt. Wenn der Dienst, mit dem Sie eine Verbindung herstellen, tokenbasierte Authentifizierung unterstützt, wird empfohlen, dass Sie das Framework [Sicheres Anwendungsmodell](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) implementieren.
+- title: Wie aktiviere ich die Baselinerichtlinie „MFA für Administratoren erfordern“?
   durationInMinutes: 5
   content: >
-    Die Baseline-Richtlinie *MFA für Admin erforderlich* erfordert MFA für die folgenden Verzeichnis Rollen, die als privilegierteste Azure AD Rollen gelten:
+    Die Baselinerichtlinie *MFA für Administratoren erfordern* erfordert MFA für die folgenden Verzeichnisrollen, die als die Azure AD-Rollen mit den höchsten Berechtigungen betrachtet werden:
 
 
     - Globaler Administrator
@@ -62,99 +62,99 @@ items:
 
     - Sicherheitsadministrator
 
-    - Helpdesk-Administrator/Kenn Wort Administrator
+    - Helpdeskadministrator/Kennwortadministrator
 
     - Rechnungsadministrator
 
-    - Benutzer Administrator
+    - Benutzeradministrator
 
 
-    Wenn Sie die Richtlinie MFA für Administratoren anfordern aktivieren, sind die oben genannten neun Administrator Rollen erforderlich, um sich mit der Authenticator-App für MFA zu registrieren. Nachdem die MFA-Registrierung durchgeführt wurde, müssen Administratoren die MFA jedes Mal ausführen, wenn Sie sich anmelden.
+    Beim Aktivieren der Richtlinie „MFA für Administratoren erfordern“ sind die obigen neun Administratorrollen für die Registrierung über die Authentifikator-App für MFA erforderlich. Nachdem die MFA-Registrierung abgeschlossen ist, müssen Administratoren bei jeder Anmeldung eine MFA durchführen.
 
 
-    Wenn in Ihrer Organisation diese Konten in Skripts oder Codes verwendet werden, sollten Sie Sie in Erwägung gezogen, Sie durch [verwaltete Identitäten](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)zu ersetzen.
+    Wenn diese Konten in Ihrem Unternehmen in Skripts oder Code verwendet werden, sollten Sie sie durch [verwaltete Identitäten](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview) ersetzen.
 
 
-    So aktivieren Sie diese Richtlinie und schützen Ihre Administratoren:
+    So aktivieren Sie diese Richtlinie und schützen Ihre Administratoren
 
 
-    1. Melden Sie sich beim **Azure-Portal** als globaler Administrator, Sicherheits Administrator oder Administrator für den bedingten Zugriff an.
+    1. Melden Sie sich beim  **Azure-Portal** als globaler Administrator, Sicherheitsadministrator oder Administrator für bedingten Zugriff an.
 
-    2. Navigieren Sie zu **Azure Active Directory** > **bedingter Zugriff**.
+    2. Navigieren Sie zu **Azure Active Directory** > **Bedingter Zugriff**.
 
-    3. Wählen Sie **in der Liste der Richtlinien die Option Baseline-Richtlinie: Erfordert MFA für Administratoren**.
+    3. Wählen Sie in der Liste der Richtlinien die Option **Baselinerichtlinie: MFA für Administratoren erfordern** aus.
 
-    4. Legen Sie Richt **Linie aktivieren** auf **Richtlinie sofort verwenden**fest.
+    4. Legen Sie **Richtlinie aktivieren** auf **Richtline sofort verwenden** fest.
 
-    5. Klicken Sie auf **Speichern**.
+    5. Klicken Sie auf  **Speichern**.
 
 
     > [!WARNING]
 
-    > Bevor Sie diese Richtlinie aktivieren, stellen Sie sicher, dass Ihre Benutzer keine Legacy Authentifizierungsprotokolle verwenden. Weitere Informationen finden [Sie im Artikel Vorgehensweise: Blockieren Sie die Legacy Authentifizierung, um weitere](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) Informationen Azure AD mit bedingtem Zugriff zu erhalten.
+    > Bevor Sie diese Richtlinie aktivieren, stellen Sie sicher, dass Ihre Benutzer keine Legacy-Authentifizierungsprotokolle verwenden. Weitere Informationen finden Sie im Artikel [Vorgehensweise: Blockieren der Legacyauthentifizierung bei Azure AD durch bedingten Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use).
 
 
     > [!IMPORTANT]
 
-    > Es gibt ein bekanntes Problem, das sich auf ihre Fähigkeit auswirkt, Delegierte Administratorrechte zum Herstellen einer Verbindung mit Exchange Online PowerShell zu nutzen, wenn MFA erzwungen wird. Weitere Informationen finden Sie unter [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) .
+    > Es gibt ein bekanntes Problem, das sich auf Ihre Fähigkeit auswirkt, delegierte Administratorberechtigungen zum Herstellen einer Verbindung mit Exchange Online PowerShell zu nutzen, wenn MFA erzwungen wird. Weitere Informationen finden Sie unter [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell).
 
 
-    Wenn Sie die Baseline-Richtlinie *MFA für Administratoren erforderlich* aktivieren, werden Benutzer, die Mitglied der oben aufgeführten Administrator Rollen sind, bei der Anmeldung auf eine neue Benutzer Obergrenze stoßen. In den folgenden Abbildungen werden die Benutzer, die von dieser Richtlinie betroffen sind,
+    Sobald Sie die Baselinerichtlinie *MFA für Administratoren erfordern* aktiviert haben, gestaltet sich der Anmeldevorgang für Benutzer anders, die Mitglied der oben aufgeführten Administratorrollen sind. Die folgenden Änderungen sind das, was die von dieser Richtlinie betroffenen Benutzer erwartet:
 
-      ![Weitere Informationen anfordern](../images/security/baseline-require-more-info.png)
+      ![Anfordern weiterer Informationen](../images/security/baseline-require-more-info.png)
 
       ![Zusätzliche Sicherheitsüberprüfung](../images/security/baseline-security-verification-setup.png)
 
-      ![Mobile App konfigurieren](../images/security/baseline-configure-mobile-app.png)
+      ![Konfigurieren der mobilen App](../images/security/baseline-configure-mobile-app.png)
 
-      ![Zusätzliche Sicherheitsüberprüfung wurde abgeschlossen.](../images/security/baseline-security-verification-setup-completed.png)
+      ![Setup der zusätzlichen Sicherheitsüberprüfung abgeschlossen](../images/security/baseline-security-verification-setup-completed.png)
 
-      ![Zusätzliche Sicherheitsüberprüfung überprüft](../images/security/baseline-security-verification-confirmed.png)
+      ![Zusätzliche Sicherheitsüberprüfung bestätigt](../images/security/baseline-security-verification-confirmed.png)
 
-    Nachdem der Benutzer die oben genannten Berechtigungen abgeschlossen hat, kann er sich beim Microsoft-clouddienst anmelden, auf den Sie zugreifen wollten.
-- title: Gewusst wie die Baseline-Richtlinie für den Endbenutzer aktivieren?
+    Nachdem der Benutzer die oben genannten Schritte abgeschlossen hat, kann er sich bei dem Microsoft-Clouddienst anmelden, auf den er zugreifen möchte.
+- title: Wie aktiviere ich die Baselinerichtlinie „Endbenutzerschutz“?
   durationInMinutes: 5
   content: >-
-    Die Baseline-Richtlinie für den Endbenutzer Schutz schützt alle Benutzer in einem Verzeichnis. Wenn Sie diese Richtlinie aktivieren, müssen sich alle Benutzer innerhalb von 14 Tagen für Azure MFA registrieren. Nachdem die Benutzer registriert wurden, werden Sie nur bei riskanten Anmelde versuchen zur Eingabe von MFA aufgefordert. dieses Verhalten wird in Zukunft für Partner Mandanten geändert. Kompromittierte Benutzerkonten werden blockiert, bis das Zurücksetzen des Kennworts und das Risiko von
+    Die Baselinerichtlinie für den Endbenutzerschutz schützt alle Benutzer in einem Verzeichnis. Wenn Sie diese Richtlinie aktivieren, müssen sich alle Benutzer innerhalb von 14 Tagen für Azure MFA registrieren. Nachdem Benutzer registriert sind, werden sie nur noch bei riskanten Anmeldeversuchen aufgefordert, MFA durchzuführen. Dieses Verhalten wird sich für Partnermandanten in Zukunft ändern. Kompromittierte Benutzerkonten werden bis zum Zurücksetzen des Kennworts gesperrt und riskieren eine Ablehnung.
 
 
-    Richtlinien **Basis Richtlinie: Der Endbenutzer** Schutz ist vorkonfiguriert und wird am oberen Rand angezeigt, wenn Sie in Azure-Portal zum Blatt "bedingter Zugriff" navigieren.
+    Die Richtlinie **Baselinerichtlinie: Endbenutzerschutz** ist vorkonfiguriert und wird am Anfang angezeigt, wenn Sie zum Blatt „Bedingter Zugriff“ im Azure-Portal navigieren.
 
 
-    So aktivieren Sie diese Richtlinie und schützen Ihre Benutzer:
+    So aktivieren Sie diese Richtlinie und schützen Ihre Benutzer
 
 
-    1. Melden Sie sich beim **Azure-Portal** als globaler Administrator, Sicherheits Administrator oder Administrator für den bedingten Zugriff an.
+    1. Melden Sie sich beim  **Azure-Portal** als globaler Administrator, Sicherheitsadministrator oder Administrator für bedingten Zugriff an.
 
-    2. Navigieren Sie zu **Azure Active Directory** > **bedingter Zugriff**.
+    2. Navigieren Sie zu **Azure Active Directory** > **Bedingter Zugriff**.
 
-    3. Wählen Sie **in der Liste der Richtlinien die Option Baseline-Richtlinie: Endbenutzer Schutz (Vorschau)**.
+    3. Wählen Sie in der Liste der Richtlinien die Option **Baselinerichtlinie: Endbenutzerschutz (Vorschau)** aus.
 
-    4. Legen Sie Richt **Linie aktivieren** auf **Richtlinie sofort verwenden**fest.
+    4. Legen Sie **Richtlinie aktivieren** auf **Richtline sofort verwenden** fest.
 
-    5. Klicken Sie auf **Speichern**.
+    5. Klicken Sie auf  **Speichern**.
 
 
     > [!WARNING]
 
-    > Bevor Sie diese Richtlinie aktivieren, stellen Sie sicher, dass Ihre Benutzer keine Legacy Authentifizierungsprotokolle verwenden. Weitere Informationen finden [Sie im Artikel Vorgehensweise: Blockieren Sie die Legacy Authentifizierung, um weitere](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) Informationen Azure AD mit bedingtem Zugriff zu erhalten.
+    > Bevor Sie diese Richtlinie aktivieren, stellen Sie sicher, dass Ihre Benutzer keine Legacy-Authentifizierungsprotokolle verwenden. Weitere Informationen finden Sie im Artikel [Vorgehensweise: Blockieren der Legacyauthentifizierung bei Azure AD durch bedingten Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use).
 
 
     > [!IMPORTANT]
 
-    > Es gibt ein bekanntes Problem, das sich auf ihre Fähigkeit auswirkt, Delegierte Administratorrechte zum Herstellen einer Verbindung mit Exchange Online PowerShell zu nutzen, wenn MFA erzwungen wird. Weitere Informationen finden Sie unter [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) .
+    > Es gibt ein bekanntes Problem, das sich auf Ihre Fähigkeit auswirkt, delegierte Administratorberechtigungen zum Herstellen einer Verbindung mit Exchange Online PowerShell zu nutzen, wenn MFA erzwungen wird. Weitere Informationen finden Sie unter [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell).
 
 
-    Nachdem Sie die Baseline-Richtlinie für den *Endbenutzer Schutz* aktiviert haben, wird bei der Anmeldung für alle Benutzer eine neue Benutzeranwendung angezeigt. In den folgenden Abbildungen werden die Benutzer erleben.
+    Nachdem Sie die Baselinerichtlinie *Endbenutzerschutz* aktiviert haben, gestaltet sich der Anmeldevorgang für alle Benutzer anders. Die folgenden Änderungen sind das, was Benutzer erwartet:
 
-      ![Weitere Informationen anfordern](../images/security/baseline-require-more-info.png)
+      ![Anfordern weiterer Informationen](../images/security/baseline-require-more-info.png)
 
       ![Zusätzliche Sicherheitsüberprüfung](../images/security/baseline-security-verification-setup.png)
 
-      ![Mobile App konfigurieren](../images/security/baseline-configure-mobile-app.png)
+      ![Konfigurieren der mobilen App](../images/security/baseline-configure-mobile-app.png)
 
-      ![Zusätzliche Sicherheitsüberprüfung wurde abgeschlossen.](../images/security/baseline-security-verification-setup-completed.png)
+      ![Setup der zusätzlichen Sicherheitsüberprüfung abgeschlossen](../images/security/baseline-security-verification-setup-completed.png)
 
-      ![Zusätzliche Sicherheitsüberprüfung überprüft](../images/security/baseline-security-verification-confirmed.png)
+      ![Zusätzliche Sicherheitsüberprüfung bestätigt](../images/security/baseline-security-verification-confirmed.png)
 
-    Nachdem der Benutzer die oben genannten Punkte abgeschlossen hat, kann er sich beim Microsoft-clouddienst anmelden, auf den Sie zugreifen wollten. Beachten Sie, bis die Sicherheitsanforderungen der Partner erzwungen werden, werden Benutzer, die nicht durch die Baseline-Richtlinie *MFA für Administratoren erfordern* , nur auf der Grundlage des Risikos zur Eingabe von MFA aufgefordert.
+    Nachdem der Benutzer die oben genannten Schritte abgeschlossen hat, kann er sich bei dem Microsoft-Clouddienst anmelden, auf den er zugreifen möchte. Hinweis: Benutzer, die nicht unter die Baselinerichtlinie *MFA für Administratoren erfordern* fallen, werden nur basierend auf einem Risiko aufgefordert, MFA durchzuführen, bis die Sicherheitsanforderungen des Partners erzwungen werden.

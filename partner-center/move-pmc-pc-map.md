@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: 32bae49c23dd471e3b6be8415573361b758dce57
-ms.sourcegitcommit: 30ceee7d22f24f79cac15c537b1c3fc7ab8d700c
+ms.openlocfilehash: d25ec40acd22e2baae577b250d2924b2c9b1e6e0
+ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69999659"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "70259926"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Wechsel von PMC zu Partner Center
 
@@ -59,6 +59,12 @@ Die folgende Tabelle zeigt einige der Unterschiede zwischen PMC und Partner Cent
 |Kompetenzen und Vorteile waren auf mehrere Standorte aufgeteilt.|Kompetenzen und Vorteile aus allen Standorten sind auf Unternehmensebene (PGA) konsolidiert und bleiben bis zum Jahrestag erhalten. Zu diesem Zeitpunkt muss ein Neuerwerb oder eine Verlängerung auf Unternehmensebene erfolgen. Leistung und Fähigkeiten werden ebenso wie Kompetenzen global aggregiert.|
 |Ansprüche aus Software Assurance-Vouchern wurden im Voucher Validation and Redemption-Tool (VVR) geltend gemacht.|Jetzt kannst du im Partner Center auf Software Assurance Training Vouchers (SATV) und/oder Deployed Planning Services (DPS) zugreifen und diese verwalten.  Das veraltete VRR-Tool wird am 1. Oktober 2019 außer Betrieb genommen.  |
 
+## <a name="associating-mcp-ids-to-partner-center"></a>Zuordnen von MCP-IDs zu Partner Center
+
+|**PMC**   |**Partner Center**   |
+|-------------------------|:-------------------|
+|Du kannst dieselbe MCP-ID mehreren Unternehmen zuordnen.| Einem einzelnen Partner Center-Konto kann nur eine MCP-ID zugeordnet werden. Du musst die Zuordnung manuell vornehmen. Wähle im Partner Center-Dashboard das Symbol für **Dein Konto** in der rechten Ecke des Dashboards aus, und wähle dann **Mein Profil** aus. Unter **Dein Learning** kannst du dein Microsoft Learning-Konto zuordnen und auch dein Microsoft-Konto mit Partner University verbinden.
+
 ## <a name="visual-studio-benefits-and-msa"></a>Visual Studio: Vorteile und MSA
 
 |**PMC**   |**Partner Center**   |
@@ -78,8 +84,8 @@ Die folgende Tabelle zeigt einige der Unterschiede zwischen PMC und Partner Cent
 |Tool zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR)| Tool zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR)|
 |           |Cloud Solution Provider-Programme|
 
-Ja. Visual Studio-Vorteile, die MSAs zugeordnet sind, bleiben erhalten und gelten weiter. Sie werden auch nach der Verlängerung in Partner Center beibehalten. Wenn du jedoch nach der Migration zu Partner Center eine MSA-Zuordnung entfernst, kann diese nicht wieder zu Partner Center hinzugefügt werden.
+Visual Studio-Vorteile, die MSAs zugeordnet sind, bleiben erhalten und gelten weiter. Sie werden auch nach der Verlängerung in Partner Center beibehalten. Wenn du jedoch nach der Migration zu Partner Center eine MSA-Zuordnung entfernst, kann diese nicht wieder zu Partner Center hinzugefügt werden.
 
-In Partner Center kann ein Partner Geschäftskonten und Gastbenutzerkonten vom Typ MSA aus demselben Mandanten hinzufügen, in dem der Partner MPN-Administrator im Azure AD-Mandanten ist. Wenn der Partner globaler Administrator in mehreren Azure AD-Mandanten ist und all diese Mandanten demselben Partner Center-Konto zugeordnet sind, kann der Partner Benutzer aus all diesen Mandanten zu Visual Studio-Vorteilen und zu auf der Azure-Nutzung basierenden Zuordnungen hinzufügen.
+In Partner Center kann ein Partner Geschäftskonten und Gastbenutzerkonten vom Typ MSA aus demselben Mandanten hinzufügen, in dem der Partner MPN-Administrator im Azure AD-Mandanten ist. Wenn der Partner globaler Administrator in mehreren Azure AD-Mandanten ist und all diese Mandanten demselben Partner Center-Konto zugeordnet sind, kann der Partner Benutzer aus all diesen Mandanten zu Visual Studio-Vorteilen und zu auf der Azure-Nutzung basierenden Zuordnungen hinzufügen.
 
 Ein MPN-Administrator oder globaler Administrator kann zwar Gastbenutzern nutzungsbasierte Visual Studio-Abonnements zuweisen, aber Gastbenutzer können sich nicht mit ihrem MSA bei Partner Center anmelden. Gastbenutzer können sich aber bei Azure und Visual Studio anmelden, um die ihnen zugewiesenen Vorteile zu überprüfen und zu nutzen.

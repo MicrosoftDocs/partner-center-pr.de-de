@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.openlocfilehash: 5e83b9720393356268f59d42b4210c427a3b3bc6
 ms.sourcegitcommit: 5e67a2540b0ff9eb248e5dc41b9d9ad1fc900b36
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/10/2019
 ms.locfileid: "66819938"
@@ -120,7 +120,7 @@ Beachten Sie, dass nutzungsbasierte Azure-CSP-Abonnements nicht wie Office 365-
 
 6.  Wiederholen Sie diese Schritte für alle Abonnements in allen Kundendatensätzen, um künftige Kosten für die Konten vom Typ **Transitioning From** zu vermeiden. Der Partner erhält eine endgültige Rechnung mit einer Gutschrift für die Anzahl der nicht genutzten Tage zwischen dem Stornierungsdatum und dem letzten Tag des Abrechnungszeitraums. Nach diesem letzten Abrechnungszeitraum werden keine zukünftigen Rechnungen generiert.
 
-### <a name="notes"></a>Hinweise
+### <a name="notes"></a>Anmerkungen
 
 -   Die Deaktivierung des Abonnements im CSP-Konto vom Typ **Transitioning From** wirkt sich nicht auf den Dienst des Endkunden aus, sofern der Dienst vor der Deaktivierung über das CSP-Konto vom Typ **Transitioning To** bereitgestellt wurde.
 

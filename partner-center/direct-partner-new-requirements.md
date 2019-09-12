@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 3563f113b30cb30e0373c4e81ca4389f19f95cc7
 ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 08/06/2019
 ms.locfileid: "68820321"
@@ -50,7 +50,7 @@ Wenn Ihr Unternehmen die Voraussetzungen für die Registrierung als Direktabrech
 
 Wenn Sie vom Direktabrechnungspartner auf einen indirekten Wiederverkäufer umsteigen möchten, müssen Sie mehrere Schritte durchführen. Weitere Informationen dazu finden Sie unter [Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer](transition-direct-to-indirect.md). 
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Informationen
 
 - [Weitere Informationen zu den Anforderungen an indirekte Wiederverkäufer](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [Häufig gestellte Fragen zum Übergang von Direktabrechnungspartner zum indirekten Wiederverkäufer](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

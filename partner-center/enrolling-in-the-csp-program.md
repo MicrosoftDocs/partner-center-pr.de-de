@@ -8,7 +8,7 @@ ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 5e4f5611c611b333789a03fb5bec3611d9cde705
 ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 08/06/2019
 ms.locfileid: "68820476"
@@ -19,7 +19,7 @@ ms.locfileid: "68820476"
 
 - Programm für Cloud-Lösungsanbieter  
 
-## <a name="get-started"></a>Erste Schritte
+## <a name="get-started"></a>Beginnen
 
 Die rasant wachsende Nachfrage nach cloudbasierten Lösungen und Diensten bietet Microsoft-Partnern aller Größen zahlreiche Chancen für den Aufbau eines rentablen Cloudlösungsgeschäfts. Partner, die auf den Markt gehen, aber nicht mehrere Anbieter verwalten möchten oder die über keine End-to-End-Infrastruktur für die Kundenverwaltung verfügen, können sich beim Microsoft-Programm für Cloud-Lösungsanbieter (Cloud Solution Provider, CSP) als indirekter Wiederverkäufer registrieren.
 

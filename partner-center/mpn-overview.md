@@ -10,7 +10,7 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 85c4fa8c0b8d6e0e680f4e7ce6f4b3498bdfcd0a
 ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 08/06/2019
 ms.locfileid: "68820619"
@@ -73,5 +73,5 @@ In den folgenden Ressourcen erfahren Sie mehr über Network-Mitgliedschaftsvorte
 - [Verwalten Ihrer MPN-Vorteile in Partner Center](manage-your-partner-network-benefits.md)
 - [Grundlegende Anforderungen](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Informationen
 - [Umsatzsteigerung für Microsoft-Partner](grow-your-business.md)

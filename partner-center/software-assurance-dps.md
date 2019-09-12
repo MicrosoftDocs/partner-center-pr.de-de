@@ -9,12 +9,12 @@ Keywords: Vor der Bereitstellung, Planung, Software Assurance
 ms.localizationpriority: medium
 ms.openlocfilehash: 18c59996829e592edd1f137d9b19311f34158ef0
 ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 08/01/2019
 ms.locfileid: "68708882"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance Planning Services im Partner Center
+# <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance-Planungsdienste in Partner Center
 
 Fördern Sie das Unternehmenswachstum, indem Sie sich bei Software Assurance Planning Services-Programmen registrieren. Microsoft vergütet Partner für die Bereitstellung von Schulungen, Planungs- und anderen Diensten für Unternehmenskunden mit Software Assurance.
 
@@ -23,7 +23,7 @@ Als zugelassener Partner für Planungsdienste vergütet Microsoft Sie, wenn Sie 
 Wenn Sie mit Software Assurance Planning Services nicht vertraut sind, siehe [Fördern des Unternehmenswachstums mit Planning Services](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx).
 
 
-## <a name="get-started"></a>Erste Schritte
+## <a name="get-started"></a>Beginnen
 
 Wenn Sie Software Assurance Planning Services neu für Sie sind, führen Sie die folgenden Schritte aus. Wenn Sie bereits in den Planning Services-Programmen aktiv sind und Ihre Partnerkontoinformationen in das Partner Center verlagert wurden, beginnen Sie unten bei Schritt 4. 
 

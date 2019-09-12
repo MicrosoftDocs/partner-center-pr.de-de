@@ -10,7 +10,7 @@ robots: ''
 ms.localizationpriority: medium
 ms.openlocfilehash: 27ff91d9d42f08e44f812663f3d4409e1080d580
 ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 08/06/2019
 ms.locfileid: "68820301"
@@ -38,7 +38,7 @@ Wenn Sie eine Azure Active Directory-Web-App im Partner Center registrieren, kö
 1.  Melden Sie sich beim [Partner Center](https://partnercenter.microsoft.com/pcv/dashboard/overview) mit einem [globalen Administratorkonto oder Administrator-Agentkonto](create-user-accounts-and-set-permissions.md) an.
 2.  Wählen Sie im **Partner Center**nacheinander **Kontoeinstellungen** &gt; **[App-Verwaltung](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)** aus.
 3.  Klicken Sie im Abschnitt **Web-App** auf **Neue Web-App hinzufügen**.
-<br> **Hinweis:** Wenn Sie bereits zuvor eine Web-App erstellt haben, können Sie Schritt 3 überspringen.
+<br> **Hinweis**: Wenn Sie bereits zuvor eine Web-App erstellt haben, können Sie Schritt 3 überspringen.
 4.  Kopieren und speichern Sie die GUIDs für **Commerce-ID**und **App-ID** für Ihre Web-App. Sie benötigen beide IDs für die 30-tägige kostenlose Testversion der Azure Cost Management-App.
 
 ## <a name="add-a-secret-key-to-your-app"></a>Hinzufügen eines geheimen Schlüssels zu Ihrer App

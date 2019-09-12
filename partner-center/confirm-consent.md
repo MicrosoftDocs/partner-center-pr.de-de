@@ -9,7 +9,7 @@ keywords: Kunden, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Vorlagen fü
 ms.localizationpriority: medium
 ms.openlocfilehash: fc82d3156dd50c3ad05b141f1715634031cad202
 ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 08/06/2019
 ms.locfileid: "68820516"
@@ -87,7 +87,7 @@ Beachten Sie, dass Sie dafür ein Administrator-Agent oder Vertriebsbeauftragter
 2. Wählen Sie **Kontoinformationen** aus.
 3. Wählen Sie unter **Microsoft Cloud-Vertrag** die Option **Aktualisieren** aus.
 
-![Update](images/mca/mca4.png)
+![Update/Aktualisieren](images/mca/mca4.png)
 
 4. Geben Sie **Vorname**, **Nachname**, **E-Mail-Adresse** und **Telefonnummer** (optional) des Benutzers ein, der dem Vertrag zugestimmt hat.
 5. Geben Sie unter **Datum der Vertragsannahme** das entsprechende Datum ein. Dieses kann nicht auf ein Datum in der Zukunft festgelegt werden.

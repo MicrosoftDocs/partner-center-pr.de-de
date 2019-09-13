@@ -9,7 +9,7 @@ keywords: Schulungsgutscheine, Software Assurance, Schulung, Überprüfen von Gu
 ms.localizationpriority: medium
 ms.openlocfilehash: ce1908e74169c3de4d2cd6d2d43ece379bf9d439
 ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 08/06/2019
 ms.locfileid: "68820500"

@@ -9,7 +9,7 @@ keywords: Action Pack, MAPS, MAPS verlängern, Action Pack verlängern, Action p
 ms.localizationpriority: medium
 ms.openlocfilehash: cb30847f6ce5697bfd545c6b13cd0641aab66fba
 ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/27/2019
 ms.locfileid: "67407879"

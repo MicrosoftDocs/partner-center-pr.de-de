@@ -9,7 +9,7 @@ Keywords: Schulung, Gutscheintool, Validieren von Gutscheinen, Software Assuranc
 ms.localizationpriority: medium
 ms.openlocfilehash: ab74a3264ebf7461919072b7fd367f7619252b10
 ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 07/09/2019
 ms.locfileid: "67674263"

@@ -31,6 +31,7 @@
 
 # [Cloud Solution Provider](csp-overview.md)
 ## [Registrieren für das Cloud Solution Provider-Programm (CSP)](enrolling-in-the-csp-program.md)
+## [Microsoft-Partnervereinbarung für CSP-Partner](microsoft-partner-agreement.md)
 ## [Neue Anforderungen für direkte CSP-Partner](direct-partner-new-requirements.md)
 ## [Microsoft Cloud-Verträge nach Region und Sprache](agreements.md)
 ## [Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer](transition-direct-to-indirect.md)

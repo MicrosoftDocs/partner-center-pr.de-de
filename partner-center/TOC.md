@@ -43,7 +43,7 @@
 
 ## [Bewerben für den Verkauf in nationalen Clouds](csp-national-clouds-overview.md)
 ### [Partner Center für Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
-### [Häufig gestellte Fragen zum Cloud-Lösungsanbieter-Programm (CSP) für Microsoft Cloud for US Government](faq-for-us-govt-cloud.md)
+### [Häufig gestellte Fragen zur Microsoft Cloud for US Government](faq-for-us-govt-cloud.md)
 ### [Partner Center für Microsoft Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md)
 ### [Registrierung in CSP für Microsoft Cloud for US Government](enroll-in-csp-for-microsoft-us-govt-cloud.md)
 ### [Vertrieb von Office 365 Government GCC für CSP](csp-gcc-overview.md)
@@ -80,6 +80,7 @@
 ## [Incentiveansprüche](claims-overview.md)
 ### [Erstellen und Verwalten von Incentiveansprüchen](create-incentives-claims.md)
 ### [Grundlegende Anforderungen für Incentiveansprüche](core-requirements.md)
+### [Zugriff auf die Seite für Anreizauszahlungen](incentives-unified-user-guide.md)
 ### [Informationen zu den Incentiveauszahlungen](understand-incentive-payouts.md)
 ### [Übermitteln Ihrer OSA-Ansprüche in Partner Center](submit-osa-claim.md)
 ### [Ermitteln des Domänennamens und der Verzeichnis-ID eines Kunden für einen Incentiveanspruch](find-customer-domain-name.md)

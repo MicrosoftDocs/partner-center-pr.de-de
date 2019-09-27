@@ -3,18 +3,18 @@ layout: LandingPage
 hide_bc: true
 title: Hilfe zu Partner Center
 ms.topic: landing-page
-ms.date: 01/29/2019
+ms.date: 10/01/2019
 description: Partner Center kann mit dem Microsoft Cloud Solution Provider-Programm (CSP) zum Wachstum Ihres Unternehmens beitragen. Richten Sie Ihr Konto ein, nehmen Sie Kontakt zu Kunden auf, erwerben Sie ein Action Pack-Abonnement, und lesen Sie weitere Informationen zu Partnern im CSP- und MPN-Programm. 
 author: LauraBrenner
 ms.author: labrenne
 searchScope: []
-ms.localizationpriority: medium
-ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
-ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
+ms.localizationpriority: high
+ms.openlocfilehash: f94ef72fc69cd4fe29cd27c2dc4bab11ab5e64c3
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "65035527"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318887"
 ---
 # <a name="welcome-to-partner-center"></a>Willkommen bei Partner Center
 
@@ -87,7 +87,7 @@ Microsoft Partner Center ist der zentrale Ort für die Verwaltung der End-to-End
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
                         <h3>Umstellung von PMC auf PC</h3>
-                        <p>Hier erfahren Sie, wie Sie Ihr Unternehmen auf die Umstellung auf Partner Center vorbereiten.</p></a>
+                        <p>Vorbereiten Ihres Unternehmens für den Umstieg auf Partner Center</p></a>
                     </div>
                 </div>
             </div>

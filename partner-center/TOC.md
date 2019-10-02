@@ -28,7 +28,6 @@
 ### [Rechnungen und Steuern im Microsoft Partner Network](mpn-view-print-maps-invoice.md)
 ## [Testen neuer Features](test-drive-new-features.md)
 
-
 # [Cloud Solution Provider](csp-overview.md)
 ## [Registrieren für das Cloud Solution Provider-Programm (CSP)](enrolling-in-the-csp-program.md)
 ## [Microsoft-Partnervereinbarung für CSP-Partner](microsoft-partner-agreement.md)
@@ -39,7 +38,6 @@
 ## [Regionale CSP-Märkte und Währungen](regional-authorization-overview.md)
 ## [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](confirm-consent.md)
 ## [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag (Vorschauphase)](confirm-customer-agreement.md)
-
 
 ## [Bewerben für den Verkauf in nationalen Clouds](csp-national-clouds-overview.md)
 ### [Partner Center für Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
@@ -84,7 +82,6 @@
 ### [Informationen zu den Incentiveauszahlungen](understand-incentive-payouts.md)
 ### [Übermitteln Ihrer OSA-Ansprüche in Partner Center](submit-osa-claim.md)
 ### [Ermitteln des Domänennamens und der Verzeichnis-ID eines Kunden für einen Incentiveanspruch](find-customer-domain-name.md)
-
 
 # [Abrechnung und Steuern](billing.md)
 ## [Häufig gestellte Fragen zur Abrechnung](faq-about-new-billing-features.md)
@@ -169,10 +166,10 @@
 ## [Kundenselbsthilfe](customer-self-support.md)
 ## [Eskalieren von Problemen an Microsoft](escalate-problems-to-microsoft.md)
 
-# Sicherheit
-## [Sicherheitsanforderungen für Partner](partner-security-requirements.md)
-## [Sicherheitsanforderungen für Partner – häufig gestellte Fragen](partner-security-requirements-faq.md)
-## [Sicherheitskonformitätsstatus des Partners](partner-security-compliance.md)
+# Sicherheitsanforderungen
+## [Übersicht](partner-security-requirements.md)
+## [Konformitätsstatus](partner-security-compliance.md)
+## [Häufig gestellte Fragen](partner-security-requirements-faq.md)
 
 # Lernprogramme
 ## [Implementieren der Sicherheitsanforderungen für Partner](tutorials/partner-security-requirements.yml)

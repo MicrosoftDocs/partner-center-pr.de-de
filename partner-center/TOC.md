@@ -78,7 +78,7 @@
 ## [Incentiveansprüche](claims-overview.md)
 ### [Erstellen und Verwalten von Incentiveansprüchen](create-incentives-claims.md)
 ### [Grundlegende Anforderungen für Incentiveansprüche](core-requirements.md)
-### [Zugriff auf die Seite für Anreizauszahlungen](incentives-unified-user-guide.md)
+### [Grundlegendes zu den Auszahlungsinformationen](incentives-unified-user-guide.md)
 ### [Informationen zu den Incentiveauszahlungen](understand-incentive-payouts.md)
 ### [Übermitteln Ihrer OSA-Ansprüche in Partner Center](submit-osa-claim.md)
 ### [Ermitteln des Domänennamens und der Verzeichnis-ID eines Kunden für einen Incentiveanspruch](find-customer-domain-name.md)

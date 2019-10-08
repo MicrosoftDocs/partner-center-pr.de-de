@@ -78,10 +78,12 @@
 ## [Incentiveansprüche](claims-overview.md)
 ### [Erstellen und Verwalten von Incentiveansprüchen](create-incentives-claims.md)
 ### [Grundlegende Anforderungen für Incentiveansprüche](core-requirements.md)
+
+
 ### [Grundlegendes zu den Auszahlungsinformationen](incentives-unified-user-guide.md)
-### [Informationen zu den Incentiveauszahlungen](understand-incentive-payouts.md)
-### [Übermitteln Ihrer OSA-Ansprüche in Partner Center](submit-osa-claim.md)
-### [Ermitteln des Domänennamens und der Verzeichnis-ID eines Kunden für einen Incentiveanspruch](find-customer-domain-name.md)
+
+### [Zugriff auf die Seite für Anreizauszahlungen](incentives-unified-user-guide.md)
+
 
 # [Abrechnung und Steuern](billing.md)
 ## [Häufig gestellte Fragen zur Abrechnung](faq-about-new-billing-features.md)
@@ -168,7 +170,7 @@
 
 # Sicherheitsanforderungen
 ## [Übersicht](partner-security-requirements.md)
-## [Konformitätsstatus](partner-security-compliance.md)
+## [Anforderungsstatus](partner-security-compliance.md)
 ## [Häufig gestellte Fragen](partner-security-requirements-faq.md)
 
 # Lernprogramme

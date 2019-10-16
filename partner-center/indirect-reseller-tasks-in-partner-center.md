@@ -7,14 +7,14 @@ ms.prod: ''
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Indirekte Vertriebspartner, Händler, indirekte Anbieter, Anbieter, Partnerschaft, VAR, Ebene2, Ebene 2
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 5f424bc779bf86bfc278f969d4bbf0ea72729182
-ms.sourcegitcommit: 4276856f46d8d53c4878ba9d176c10e9607366b8
+ms.openlocfilehash: f412b94fd700fe429a7128a6226874fe47fe7776
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "68935479"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318870"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Anbietern im Programm für Cloud-Lösungsanbieter
 

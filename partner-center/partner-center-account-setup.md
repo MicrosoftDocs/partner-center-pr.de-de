@@ -1,19 +1,19 @@
 ---
 title: Verwalten Ihres Partner Center-Kontos | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 09/25/2019
 description: Verwalten Sie das Profil und Bank- und Steuerinformationen Ihrer Organisation sowie Ihre Benutzer in Partner Center.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
 ms.author: evansma
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: e08328258964509a7d01a4e4624d01025cc8449e
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
+ms.openlocfilehash: e2e4e4e3d0fb7d88d748c57abe7a5a5161ea640a
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668086"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318623"
 ---
 # <a name="manage-your-partner-center-account"></a>Verwalten Ihres Partner Center-Kontos
 

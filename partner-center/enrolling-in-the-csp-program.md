@@ -5,13 +5,13 @@ ms.date: 03/20/2019
 description: Lernen Sie die verschiedenen Modelle für den Verkauf in CSP kennen, und finden Sie heraus, welche Lösung am besten zu Ihrem Unternehmen passt.
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
-ms.openlocfilehash: 5e4f5611c611b333789a03fb5bec3611d9cde705
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.localizationpriority: high
+ms.openlocfilehash: 2f9c0aeb67b287caa65c2e807c5fc237f0ea7037
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820476"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318844"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud-Lösungsanbieter
 

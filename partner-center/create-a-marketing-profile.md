@@ -1,19 +1,19 @@
 ---
 title: Erstellen eines Unternehmensprofils | Partner Center
 ms.topic: article
-ms.date: 03/26/2019
+ms.date: 10/04/2019
 description: Erstellen Sie ein im Partner Center Unternehmensprofil, um Vertriebsleads von Microsoft zu erhalten.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, Empfehlungen, Vertriebskontakte, C2PC, Unternehmensprofil, Unternehmen vermarkten, Partner finden, Lösungsanbieter finden, Unternehmensprofil, Marketingprofil
-ms.localizationpriority: medium
-ms.openlocfilehash: a4931fa37b607d9e1d2921154e345f65250a6a20
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.localizationpriority: high
+ms.openlocfilehash: 8f18bb460495fc6f95af92e6510827ff13d0b8bc
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134970"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997863"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -38,7 +38,7 @@ Microsoft vermittelt jedes Jahr durch Marketing-, Vertriebs- und Servicemaßnahm
 
 Erstellen Sie zunächst ein Unternehmensprofil, um von diesen Leads zu profitieren. Wir zeigen Ihr Profil allen Kunden, die Partner suchen, die ihnen beim Implementieren von Microsoft-Produkten und -Lösungen helfen können, und zwar über:
 
-- **Die Suchfunktion [Lösungsanbieter suchen](https://www.microsoft.com/solution-providers/home)**. Potenzielle Kunden können selbst Partnerlistungen durchsuchen, um Partner ausfindig zu machen, die ihren Suchkriterien entsprechen.
+- **Die Suchfunktion [Lösungsanbieter suchen](https://www.microsoft.com/solution-providers/home)** . Potenzielle Kunden können selbst Partnerlistungen durchsuchen, um Partner ausfindig zu machen, die ihren Suchkriterien entsprechen.
 
 - **Empfehlungen von Vertriebs- und Servicemitarbeitern von Microsoft**. Potenzielle Kunden, die an der Bereitstellung cloudbasierter Technologielösungen interessiert sind, kontaktieren Microsoft, um Hilfe bei der Suche von Experten zu erhalten, die ihre geschäftlichen Anforderungen erfüllen können. Diese Microsoft-Experten können dann potenzielle Kunden für Ihr Unternehmen empfehlen.
 
@@ -134,7 +134,7 @@ Nachdem Sie Ihr Profil veröffentlicht haben, werden Aktualisierungen in Suchanf
 
 ## <a name="improve-the-visibility-of-your-profile"></a>Verbessern der Sichtbarkeit Ihres Profils 
 
-- **[Reagieren Sie schnell auf Anfragen](responding-to-referrals.md)**. Wenn Sie eine Kundenempfehlung erhalten, kann eine schnellere Antwort für zukünftige Kunden zu besseren Ergebnissen auf den Suchseiten führen.
+- **[Reagieren Sie schnell auf Anfragen](responding-to-referrals.md)** . Wenn Sie eine Kundenempfehlung erhalten, kann eine schnellere Antwort für zukünftige Kunden zu besseren Ergebnissen auf den Suchseiten führen.
 - **Seien Sie wählerisch bei Ihren Tags**.  Es ist besser, weniger Tags zu haben, die die Angebote, Lösungen, Nutzenversprechen und Alleinstellung Ihres Unternehmens am besten darstellen, damit Sie konsistent Erfolge nachweisen können.  Davon profitieren Sie in zukünftigen Suchergebnissen.
 - **Verdienen Sie sich Kompetenz-Tags** über Microsoft, um Ihr Sachverständnis in Bezug auf unsere Produkte zu demonstrieren.
 - **Verdienen Sie sich Unterstützungs-Tags** von Kunden, die Ihre Arbeit zu schätzen wissen.

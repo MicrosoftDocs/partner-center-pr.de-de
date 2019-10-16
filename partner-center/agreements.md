@@ -6,13 +6,13 @@ description: Suchen Sie nach regions- und sprachspezifischen Versionen des Micro
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Microsoft Cloud-Verträge, Vorlagen für Kundenverträge, CSP-Vereinbarungen für Kunden, Microsoft Cloud-Vertrag, Microsoft Cloud Agreement, MCA, CSP, wo kann ich über CSP verkaufen?, CSP-Länder und -Regionen, CSP-MCAs in mehreren Sprachen, CSP Nordamerika, CSP Mittelamerika, CSP Südamerika, CSP Karibik, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud Deutschland, CSP Naher Osten, CSP Afrika, CSP Europa, CSP Asien, CSP Pazifik, CSP-MCAs
-ms.localizationpriority: medium
-ms.openlocfilehash: 4a7ada9f4f42eb7b016dd48043e3529c7a6225f0
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.localizationpriority: high
+ms.openlocfilehash: 5edb957c76987e94d2bb0e214e78673591aa785e
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708726"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318434"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Microsoft Cloud-Verträge nach Region und Sprache
 

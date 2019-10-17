@@ -1,23 +1,24 @@
 ---
 title: Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer | Partner Center
 ms.topic: article
-ms.date: 03/04/2019
+ms.date: 10/04/2019
 description: Hier erfahren Sie, wie Sie von einem Direktabrechnungspartner zu einem indirekten Wiederverkäufer werden.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Direktabrechnung, Übergang, indirekter Wiederverkäufer
-ms.openlocfilehash: c8173bbb8878448271a35178fd3f77016a6ba129
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 7633d5bff8316315304b97ea1a418c223043b581
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134143"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997814"
 ---
-**Gilt für:**
- - CSP-Partner
-
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer 
+
+**Gilt für:**
+
+ - CSP-Partner
 
 >[!Note] 
 >Dieser Artikel richtet sich an Direktabrechnungspartner, die indirekte Wiederverkäufer werden möchten. 
@@ -68,7 +69,7 @@ Nach der Registrierung wird in Ihrem linken Navigationsbereich ein Link zu indir
 
 Verschiedene indirekte Anbieter bieten unterschiedliche Unterstützung und Leistungen. Ermitteln Sie daher die Anbieter in Ihrer Umgebung, die Ihre Anforderungen am besten erfüllen. Die meisten Anbieter bieten Folgendes: 
 
-- Technische Schulungen und Unterstützung
+- Technische Schulung und Unterstützung
 - Hilfe bei der Vermarktung Ihrer Produkte und Dienste 
 - Verwaltung Ihrer Finanzierung und Kreditbedingungen 
 

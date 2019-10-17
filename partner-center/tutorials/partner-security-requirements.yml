@@ -8,12 +8,12 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 0870db76a162e4bc85e101a03c992da5c2ba22d3
-  ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
+  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 07/18/2019
-  ms.locfileid: "68313950"
+  ms.lasthandoff: 10/16/2019
+  ms.locfileid: "72425212"
 items:
 - title: Einführung
   durationInMinutes: 5
@@ -94,11 +94,6 @@ items:
     > Bevor Sie diese Richtlinie aktivieren, stellen Sie sicher, dass Ihre Benutzer keine Legacy-Authentifizierungsprotokolle verwenden. Weitere Informationen finden Sie im Artikel [Vorgehensweise: Blockieren der Legacyauthentifizierung bei Azure AD durch bedingten Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use).
 
 
-    > [!IMPORTANT]
-
-    > Es gibt ein bekanntes Problem, das sich auf Ihre Fähigkeit auswirkt, delegierte Administratorberechtigungen zum Herstellen einer Verbindung mit Exchange Online PowerShell zu nutzen, wenn MFA erzwungen wird. Weitere Informationen finden Sie unter [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell).
-
-
     Sobald Sie die Baselinerichtlinie *MFA für Administratoren erfordern* aktiviert haben, gestaltet sich der Anmeldevorgang für Benutzer anders, die Mitglied der oben aufgeführten Administratorrollen sind. Die folgenden Änderungen sind das, was die von dieser Richtlinie betroffenen Benutzer erwartet:
 
       ![Anfordern weiterer Informationen](../images/security/baseline-require-more-info.png)
@@ -138,11 +133,6 @@ items:
     > [!WARNING]
 
     > Bevor Sie diese Richtlinie aktivieren, stellen Sie sicher, dass Ihre Benutzer keine Legacy-Authentifizierungsprotokolle verwenden. Weitere Informationen finden Sie im Artikel [Vorgehensweise: Blockieren der Legacyauthentifizierung bei Azure AD durch bedingten Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use).
-
-
-    > [!IMPORTANT]
-
-    > Es gibt ein bekanntes Problem, das sich auf Ihre Fähigkeit auswirkt, delegierte Administratorberechtigungen zum Herstellen einer Verbindung mit Exchange Online PowerShell zu nutzen, wenn MFA erzwungen wird. Weitere Informationen finden Sie unter [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell).
 
 
     Nachdem Sie die Baselinerichtlinie *Endbenutzerschutz* aktiviert haben, gestaltet sich der Anmeldevorgang für alle Benutzer anders. Die folgenden Änderungen sind das, was Benutzer erwartet:

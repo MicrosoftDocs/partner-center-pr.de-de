@@ -1,18 +1,18 @@
 ---
 title: Übermitteln Ihrer OSA-Ansprüche in Partner Center | Partner Center
 ms.topic: article
-ms.date: 3/14/2019
+ms.date: 10/04/2019
 description: Übermitteln eines OSA-Verkaufsprovisionsanspruchs oder eines ISV-Umsatzzuordnungsanspruchs
 author: LauraBrenner
 ms.author: labrenne
 keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel, OSA, ISV, Umsatzzuordnung
 ms.localizationpriority: medium
-ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: b61b1da0a7faa3008996785dd092b2e1bae12b8e
+ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133927"
+ms.lasthandoff: 10/16/2019
+ms.locfileid: "72425176"
 ---
 # <a name="submit-your-osa-claims-in-partner-center"></a>Übermitteln Ihrer OSA-Ansprüche in Partner Center
 
@@ -42,7 +42,7 @@ Sie erhalten die Zahlung für genehmigte Incentiveansprüche innerhalb von 45 Ta
 
 Microsoft bewertet monatlich die Berechtigung für den Online Services Advisor-Verkaufsincentive hinsichtlich Einnahmen, Berechnung und Zahlung. Sie müssen bestimmte Berechtigungskriterien erfüllen, bevor Microsoft Incentivezahlungen genehmigen und freigeben kann. Details hierzu finden Sie im OSA-Verkaufshandbuch, das sich unter „aka.ms/partnerincentives“ im OSA-Abschnitt befindet.
 
-#<a name="submit-an-osa-sell-fee-claim"></a>Übermitteln eines OSA-Verkaufsprovisionsanspruchs
+## <a name="submit-an-osa-sell-fee-claim"></a>Übermitteln eines OSA-Verkaufsprovisionsanspruchs
 
 Führen Sie die folgenden Schritte aus, um einen Incentiveanspruch im Partner Center zu übermitteln.  
 
@@ -60,7 +60,7 @@ Führen Sie die folgenden Schritte aus, um einen Incentiveanspruch im Partner Ce
 
 5.  Wählen Sie das Abonnement aus, das Sie diesem Anspruch zuordnen möchten, und wählen Sie dann **Weiter** aus.
 
->[!HINWEISE]
+>[!NOTE]
 
 >Vergewissern Sie sich, dass sowohl der Name als auch die geografische Region korrekt sind, bevor Sie ein Abonnement auswählen. 
 
@@ -78,7 +78,7 @@ Der Status Ihres Anspruch wird im Statusfeld auf der Abonnementseite angezeigt. 
 
 Informationen zum Anzeigen Ihrer Einnahmen- und Zahlungsdaten finden Sie unter „Auszahlungen und Berichte“. 
  
-# <a name="submit-an-isv-revenue-association-claim"></a>Übermitteln eines ISV-Umsatzzuordnungsanspruchs
+## <a name="submit-an-isv-revenue-association-claim"></a>Übermitteln eines ISV-Umsatzzuordnungsanspruchs
 
 1.  Wählen Sie auf der Seite „Übersicht“ unter **Alle Incentiveprogramme**die Option **OSA** aus.
 
@@ -88,7 +88,7 @@ Informationen zum Anzeigen Ihrer Einnahmen- und Zahlungsdaten finden Sie unter �
 
 4.  Wählen Sie die Abonnements aus, die Sie diesem Anspruch zuordnen möchten, und wählen Sie dann **Weiter** aus.
 
->[!HINWEISE]
+>[!NOTE]
 
 >Vergewissern Sie sich, dass sowohl der Name als auch die geografische Region korrekt sind, bevor Sie ein Abonnement auswählen. 
 

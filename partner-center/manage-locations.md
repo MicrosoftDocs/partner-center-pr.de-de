@@ -7,14 +7,14 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Partner-Konto, Standorte
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e6d5b2e4d314cc852c1c52ba4561b39bf6faa94
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 16b0649ec68aa4915a6aa3ad59b260cadfc63012
+ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134430"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "72171220"
 ---
-# <a name="manage-your-partner-account-locations"></a>Verwalten Ihres Partnerkontos: Pfade
+# <a name="manage-your-partner-account-locations"></a>Verwalten Ihres Partnerkontos: Standorte
 
 Die Standort-MPN-IDs identifizieren die spezifischen Standorte Ihres Unternehmens. Die Standort-MPN-ID wird für die Registrierung bei Incentive-Programmen, für die Abwicklung von Transaktionen als Cloud Solution Provider (CSP), beim Hinzufügen neuer Abonnements sowie für andere geschäftliche Transaktionen verwendet. Die Unternehmens-MPN-ID wird für transaktionsfremde Aktivitäten verwendet (etwa für Supportanfragen).
 
@@ -36,5 +36,19 @@ Die Rollen von Benutzern können sich über mehrere Standorte erstrecken. So kan
 
 4. Fügen Sie auf der Seite **Standort hinzufügen** die Adressdetails des Standorts ein, den Sie Ihrem Unternehmen hinzufügen möchten, und geben Sie auch einen Hauptansprechpartner für den Standort an.
 
-Hinweis: In Partner Center hinzugefügte Standorte können nicht mehr entfernt werden.
+Hinweis: Sobald eine Position im Partner Center hinzugefügt wurde, kann Sie nicht entfernt werden.
+
+**Ändern des Standorts für die gesetzliche zentrale**
+
+1. Überprüfen Sie auf der Seite Speicher **Orte** die Liste der Standorte, um sicherzustellen, dass der gewünschte Speicherort als juristische Entität aufgeführt ist. Wenn dies nicht der Fall ist, fügen Sie ihn hinzu.
+
+![Geschäftsstandort aktualisieren](images/updatepartnerprofile2.png)
+
+2. Wählen Sie **Partner Profil** aus, und wählen Sie dann **rechtliche Geschäftsprofil aktualisieren** .
+
+![Geschäftsstandort aktualisieren](images/updatepartnerprofile1.png)
+
+3. Wählen Sie die Region und die Entität aus, und **senden** Sie Sie.
+
+![Geschäftsstandort aktualisieren](images/updatepartnerprofile3.png)
 

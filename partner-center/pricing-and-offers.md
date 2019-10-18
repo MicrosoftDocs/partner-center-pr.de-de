@@ -1,22 +1,22 @@
 ---
 title: Preise und Angebote | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 09/26/2019
 description: Die Angebotsliste enthält die verschiedenen Produktfamilien, die über Partner Center erworben werden können, sowie die entsprechenden Preise.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ab53b1bae26ac6d40f87ea80e2c58469d189c1e1
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 24de9e540f62d89917c7ed5fb440f5ebc304bb97
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668700"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318499"
 ---
 # <a name="pricing-and-offers"></a>Preise und Angebote
 
-**Gilt für:**
+**Zielgruppe**
 
 -  Partner Center
 
@@ -33,9 +33,9 @@ Lizenzbasierte Dienste umfassen eine Preislistenvorschau, die 30 Tage vor jegli
 |**Artikel**        |**Definition**      |
 |:-----------   |:-----------   |
 |HINZUFÜGEN   |Neuer Preislistenartikel|
-|CHG   |Änderungen an der Preisliste (beispielsweise die SKU-Beschreibung)|
-|DEL   |Aus der Preisliste entfernter Artikel|
-|UNC   |Artikel, die sich seit der Preisliste des Vormonats nicht geändert haben   |
+|CHG   |Änderungen am Listenpreis von Monat zu Monat. Andere Änderungen, die nicht mit dem Listenpreis zusammenhängen, können eintreten, wenn Partner andere Eigenschaften von Monat zu Monat vergleichen, um andere Änderungen zu bestimmen.|
+|ENTFERNEN   |Aus der Preisliste entfernter Artikel|
+|UNC   |Listenpreis unverändert aus der pricelist des vorherigen Monats  |
 |Gültig ab (Datum)   |Das erste Datum, an dem ein Angebot bestellt werden kann    |
 |Gültig bis (Datum)   |Das letzte Datum, an dem ein Angebot bestellt werden kann   |
 |Angebotsanzeigename   |Der für den Kunden sichtbare Name des Angebots   |
@@ -46,6 +46,41 @@ Lizenzbasierte Dienste umfassen eine Preislistenvorschau, die 30 Tage vor jegli
 |Art des Endkunden   |Geht zurück auf die Art des Softwarelizenzvertrags: Unternehmenslizenz (Cloud-Handelspartner für Unternehmen), Behördenlizenz (Cloud-Handelspartner für Behörden) oder wissenschaftliche Lizenz (Cloud-Handelspartner für Lehrkräfte oder Cloud-Handelspartner für Schüler/Studenten)   |
 |Listenpreis   |Der Preis, den der Partner zahlt   |
 |ERP-Preis   |Der geschätzte oder empfohlene Einzelhandelspreis für den Kunden   |
+
+## <a name="price-changes"></a>Preisänderungen
+
+Preisänderungen werden häufig vorkommen. Partner können Preisänderungen für Lizenz basierte Angebote einschätzen, indem Sie sich die Preislisten Vorschau auf der Seite Preise und Angebote auf dem Partner Center-Dashboard ansehen. Azure Usage-basierte Preise haben keine Vorschau. Partner können mit der Gebühren Karten-API von Azure den Preis für die Preisgestaltung von Azure erhöhen, die die Verbrauchs Preise für diesen Tag zurückgibt.
+
+|**Produkttyp**   |**Produktbeispiele**  |**Vorschau verfügbar** |**Details ändern**|
+|-----------------------|:-----------------------|:-------------------|------------------|
+|Lizenz basiert|Office, Dynamics, InTune, Windows Enterprise|30 Tage|Auflisten von Preisänderungen, die in Vorschau Preislisten als "Chng|
+|Verwendungs basiert|Azure-Ressourcen|Nicht verfügbar|Änderungsprotokoll in der Registerkarte " **Änderungs Verlauf** " des vorherigen Monats|
+|Software||Nicht verfügbar|Manuelles Vergleichen von Preislisten von Monat zu Monat|
+|Voranmeldung|Virtuelle Computer, vorab bezahlt|Nicht verfügbar|Manuelles Vergleichen von Preislisten von Monat zu Monat|
+
+Nutzungsbasierte Preise können sich im Laufe eines Monats ändern. Um die täglichen Preise für diese Azure-Ressourcen zu erhalten, müssen Partner die Ratecard-API anrufen. 
+
+>[!Note] 
+>Abonnementpreis Änderungen gelten nur während einer Verlängerung. Die monatliche Gebühr für einen Partner wird durch den Kauf Preis oder den Preis zum Zeitpunkt der Erstellung eines Abonnements festgelegt. Wenn ein Preis erhöht oder verringert wird, nachdem die Jahresfrist bezogen wurde, wird dem Partner der geänderte Preis bis zur Verlängerung nicht berechnet (in der Regel in der 12-monatigen Laufzeit).
+
+## <a name="pricing-and-special-segments"></a>Preise und spezielle Segmente
+
+CSP bietet einige Dienste für spezielle Marktsegmente, z. b. Education, Non-Profit und Government Community Cloud. Nicht alle Dienste sind in allen Kanälen verfügbar. Standardmäßig wird kein Segment verwendet, das als "kommerzielles"-Segment bezeichnet wird. Alle lizenzbasierten Preise sind in der lizenzbasierten Preisliste auf der Seite Preise und Angebote verfügbar. Azure gov-Preise sind in der nutzungsbasierten Preisliste verfügbar, wenn Sie beim Azure gov-aktivierten CSP-Mandanten angemeldet sind.
+
+|**Segment**   |**Wer muss qualifiziert werden**   |**Partner qualifiziert Kunden**|**Aktivierte Produkttypen**|
+|-------------------|-----------------------|----------------------------|-----------------------------|
+|Education|Partner und Kunde|„Ja“|Nur Lizenz basiert|
+|Non-Profit|Kunde|Nein, Kunden, die sich außerhalb von Partner Center qualifizieren|Nur Lizenz basiert|
+|Government Community Cloud (gcc)|Partner und Kunde|Nachdem gcc aktiviert wurde, kann der Partner gcc-Kunden erstellen.| Nur Lizenz basiert|
+|Azure gov|Partner|Nach der Qualifikation arbeitet der Partner in einem CSP-Mandanten, der für Azure gov spezifisch ist.|Azure-Ressourcen|
+
+Partner Ränder: der Unterschied zwischen dem Listenpreis und den geschätzten Einzelhandelspreisen kann von Segment zu Segment abweichen. In der Regel haben Education und Non-Profit für CSP-Partner tendenziell niedrigere oder keine Ränder. Genaue Werte finden Sie in der lizenzbasierten Preisliste.  
+## <a name="pricing-between-azure-and-non-azure"></a>Preise zwischen Azure und nicht-Azure
+
+Die Preise unterscheiden sich in verschiedenen Angebots Typen. Lizenz basierte Preise sind in der Regel der Betrag pro Arbeitsplatz (Lizenz) für einen bestimmten Monat. Nutzungsbasierte Preise werden durch die Verwendung einer bestimmten Ressource und eine zugeordnete Abrechnungs-ID bestimmt. Für Partner fallen keine Gebühren für den Erwerb des Azure-Abonnements an, werden aber für Ressourcen in Rechnung gestellt, die von verschiedenen bereit Stellungen im Abonnement genutzt werden. Die Preise in der nutzungsbasierten Preisliste werden um verschiedene Ressourcen Zähler-IDs in Azure organisiert.
+
+Azure-Reservierungen sind Begriffs basierte Käufe für den jeweiligen Ressourcentyp Virtual Machines. Der Erwerb einer Azure-Reservierung ermöglicht einem Partner das vorab bezahlen (ein oder drei Jahre) und die Reservierung eines bestimmten virtuellen Computers. Dadurch wird der Partner Geld gespart, und es wird sichergestellt, dass der virtuelle Computer für die Dauer der Laufzeit immer verfügbar ist. Ein Partner kann die gewünschte Reservierung an die nutzungsbasierten Ressourcen Zähler-IDs ausrichten. Die Abrechnungs Einheiten sind für die gesamte Ressource konsistent, unabhängig davon, ob der Partner einen virtuellen Computer kauft oder den virtuellen Computer einfach als Verwendungs basierte Ressource bereitstellt. 
+
 
 ## <a name="offers-matrix"></a>Angebotsmatrix
 

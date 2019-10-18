@@ -10,18 +10,18 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: b7e9726acbba54daf8404fdf4a3d2b4961c5123a
 ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 10/01/2019
 ms.locfileid: "71704161"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Verwalten von Microsoft Azure Reservations im Auftrag Ihrer Kunden       
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Microsoft Azure-Portal 
--  Partner im Cloud Solution Provider-Programm
+-  Partner im CSP
 
 Um Azure-Reservierungen nach dem Kauf für Ihre Kunden zu verwalten, wählen Sie den Kunden und die Reservierung, die Sie im Partner Center verwalten möchten, und nehmen Sie dann die Änderungen an der Reservierung im Azure-Portal vor. 
 
@@ -56,9 +56,9 @@ Nachfolgend finden Sie Details zu Kündigung und Gebühren.
 |**Kündigungsdatum**<br> (Tage)   |**Nutzung**    |**Guthaben**  |**Frühzeitige Kündigung**<br> gebühr    |**Max. Rückerstattungsbetrag** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |5 oder weniger                         | Nein          | 100 %       | Nein                              | 50.000 USD   |
-|5 oder weniger                         | Ja         | Anteilig  | Nein                              | 50.000 USD   |
+|5 oder weniger                         | „Ja“         | Anteilig  | Nein                              | 50.000 USD   |
 |Mehr als 5                        | Nein          | Anteilig  | 12 %                             | 50.000 USD   |
-|Mehr als 5                        | Ja         | Anteilig  | 12 %                             | 50.000 USD   |
+|Mehr als 5                        | „Ja“         | Anteilig  | 12 %                             | 50.000 USD   |
 
 
 **Funktionsweise des Umtauschs** 
@@ -85,17 +85,17 @@ Um eine Supportanfrage für eine Rückerstattung oder einen Umtausch im Auftrag 
 
     |**Schritt**                    |**Optionen**    |
     |:---------------------------|:-----------------|
-    |**1 Grundlagen**                |Art des Anliegens: Abrechnung.  |
-    |**2 Problem**               |Art des Problems: Reservierungsverwaltung. Kategorie: Umtausche und Rückerstattungen. |
+    |**1 Grundlagen**                |Problemtyp: Abrechnung.  |
+    |**2 Problem**               |Problemtyp: Reservierungsverwaltung. Kategorie: Austausch und Rückerstattungen. |
     |**3: Kontaktinformationen**   |Wählen Sie Ihre Einstellungen aus, und geben Sie die erforderlichen Informationen ein. 
 
 5.  Klicken Sie abschließend auf **Erstellen**.
 
 ## <a name="azure-reservations-resources"></a>Ressourcen zu Azure-Reservierungen
-|**Weitere Informationen zu**   |**Artikel**    |
+|**Weitere Informationen zu**   |**Bitte lesen**    |
 |:-----------------------------|:-----------------|
 |Azure-Reservierungen in CSP (Übersicht)  | [Verkaufen von Microsoft Azure Reserved Instances](azure-reservations.md) |
 |Erwerb von Azure-Reservierungen für Ihre Kunden im Partner Center   |[Kaufen von Azure-Reservierungen](azure-reservations-buying.md) |
 |Bestimmen der richtigen VM-Größe und Überprüfen der VM-Nutzung durch den Kunden   |[Bestimmen der VM-Größe für die maximale Nutzung von Azure-Reservierungen](azure-usage.md)   |
-|Kaufen von Azure-Reservierungen über die Partner Center-API | [Kaufen von Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in der Partner Center-Entwicklerdokumentation
+|Erwerb von Azure-Reservierungen über die Partner Center-API | [Kaufen von Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in der Partner Center-Entwicklerdokumentation
 

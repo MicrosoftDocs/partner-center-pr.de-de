@@ -1,26 +1,26 @@
 ---
-title: Erfahren Sie, MCP-ID Ihres Microsoft mit Ihrem Partner Center-Konto zuordnen | Partner Center
+title: Ordnen Sie Ihre Microsoft Learn MCP-ID Ihrem Partner Center-Konto zu | Partner Center
 ms.topic: article
-ms.date: 07/08/2019
-description: Wenn Sie ein Konto im Partner Center gegeben sind, müssen Sie Ihr Profil zu aktualisieren, indem Sie Ihre MCP ID. zuordnen
+ms.date: 10/04/2019
+description: Wenn Sie ein Konto im Partner Center erhalten haben, müssen Sie Ihr Profil aktualisieren, indem Sie Ihre MCP-ID zuordnen.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: Hinzufügen von Rollen, Berechtigungen, Benutzer "," Assign-Rolle "," Admin ","-Agent, MCP-ID, die Microsoft-Learn
+Keywords: Rollen, Berechtigungen, Benutzer hinzufügen, Rolle zuweisen, Administrator, Agent, MCP-ID, Microsoft Learn
 ms.localizationpriority: medium
-ms.openlocfilehash: e3e339e5d19e7abacce2993f1bf11602774c9b9c
-ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
-ms.translationtype: HT
+ms.openlocfilehash: 46f0efc83736d80265620304cf9b07e63d8b5213
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67675330"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997747"
 ---
-## <a name="associate-your-microsoft-learn-account-in-partner-center"></a>Weisen Sie Ihr Microsoft-Learn Konto im Partner Center
+# <a name="associate-your-microsoft-learn-account-in-partner-center"></a>Zuordnen Ihres Microsoft Learn Kontos in Partner Center
 
-In der Reihenfolge für Ihr Unternehmen in der Lage, um das Training und Lernpfade anzuzeigen, dass Sie für die Kompetenzen erstellt haben müssen Sie Ihre MCP-ID mit Ihrem Partner Center-Konto zuzuordnen. Sie vornehmen dies manuell, nachdem Sie als Partner Center-Benutzer hinzugefügt wurden.
+Damit Ihr Unternehmen in der Lage ist, die Trainings-und Lernpfade für die Kompetenzen anzuzeigen, müssen Sie Ihre MCP-ID Ihrem Partner Center-Konto zuordnen. Dies erfolgt manuell, nachdem Sie als Partner Center-Benutzer hinzugefügt wurden.
 
-### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>Wie Sie Ihre MCP-ID mit Ihrem Partner Center-Konto zuzuordnen
+### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>Zuordnen Ihrer MCP-ID zu Ihrem Partner Center-Konto
 
-1. Wählen Sie im Partner Center-Dashboard die **Ihr Konto** Symbol in der rechten Ecke des Dashboards, und wählen Sie dann **Mein Profil**.
+1. Wähle im Partner Center-Dashboard das Symbol für **Dein Konto** in der rechten Ecke des Dashboards aus, und wähle dann **Mein Profil** aus.
 
-2. Klicken Sie unter **lernen** Sie werden in der Lage, weisen Sie Ihr Microsoft Learning-Konto aus, und verbinden Ihr Microsoft-Konto auch mit Partner University-Plattform.
+2. Unter **Dein Learning** kannst du dein Microsoft Learning-Konto zuordnen und auch dein Microsoft-Konto mit Partner University verbinden.

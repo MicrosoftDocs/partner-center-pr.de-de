@@ -9,7 +9,7 @@ ms.localizationpriority: medium
 keywords: Direktabrechnung, Übergang, indirekter Wiederverkäufer
 ms.openlocfilehash: 7633d5bff8316315304b97ea1a418c223043b581
 ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 10/07/2019
 ms.locfileid: "71997814"
@@ -25,7 +25,7 @@ ms.locfileid: "71997814"
 
 Sie können sich unter Verwendung Ihres vorhandenen Direktabrechnungsmandanten beim Programm für indirekte Wiederverkäufer registrieren. 
 
-## <a name="get-started"></a>Beginnen
+## <a name="get-started"></a>„Erste Schritte“
 
 1. Vergewissern Sie sich, dass Ihr Partnerprofil in Partner Center und Ihre MPN-ID aktuell sind.
 
@@ -91,7 +91,7 @@ So erstellen Sie eine Einladung als indirekter Wiederverkäufer:
 
 1. Wählen Sie in Partner Center im linken Navigationsbereich die Option **Indirekte Anbieter** aus. 
 
-2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu einer Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzuladen. Der Anbieter muss über eine Vertriebspartnerschaft mit Ihrem Kunden verfügen, damit er Aufträge im Namen des Kunden übermitteln kann, wenn dieser neue Abonnements erwerben oder bereits vorhandenen Abonnements neue Lizenzen hinzufügen möchte.
+2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu bitten, eine Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter aufzubauen. Der Anbieter muss über eine Vertriebspartnerschaft mit Ihrem Kunden verfügen, damit er Aufträge im Namen des Kunden übermitteln kann, wenn dieser neue Abonnements erwerben oder bereits vorhandenen Abonnements neue Lizenzen hinzufügen möchte.
 
 3. Überprüfen Sie auf der nächsten Seite den E-Mail-Entwurf. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
 
@@ -187,7 +187,7 @@ Vorhandene Abonnements können weiterhin wie folgt verwaltet werden:
 
 - Anpassen der Arbeitsplatzanzahl für vorhandene lizenzbasierte Abonnements 
 
-- Anpassen der Arbeitsplatzanzahl für vorhandene Abonnement-Add-Ons. Hinweis: Vorhandenen Abonnements können keine neuen Add-Ons hinzugefügt werden, da-Add-Ons als neue Käufe gelten. 
+- Anpassen der Arbeitsplatzanzahl für vorhandene Abonnement-Add-Ons. Hinweis: Sie können vorhandenen Abonnements keine neuen Add-ons hinzufügen, da Add-ons als neue Einkäufe behandelt werden. 
 
 - Bereitstellen neuer Azure-Ressourcen und Verwalten vorhandener Azure-Ressourcen unter vorhandenen Azure-Abonnements. Dies schließt die Produkte ein, die über Azure Marketplace- und Visual Studio-Abonnements verfügbar sind. 
 

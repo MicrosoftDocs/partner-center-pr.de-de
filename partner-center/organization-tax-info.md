@@ -1,32 +1,34 @@
 ---
 title: Organisationssteuerinformationen | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 09/25/2019
 description: 'Steuern für Einkäufe in Partner Center werden durch Ihre Geschäftsadresse bestimmt. Unternehmen in einigen Ländern können ihre Umsatzsteuer-Identifikationsnummer bzw. die lokale Entsprechung angeben:'
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8123141a2a283bc646613a0dbcf69f8903a101a8
-ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
-ms.translationtype: HT
+ms.openlocfilehash: c9020aee8c0fd51874cc6d5dadf78d872710e533
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "67262969"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318633"
 ---
-# <a name="organization-tax-information"></a>Organisationssteuerinformationen
+# <a name="company-tax-information"></a>Unternehmens Steuerungsinformationen
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 
 Steuern für Einkäufe in Partner Center werden durch Ihre Geschäftsadresse bestimmt. Unternehmen in einigen Ländern können ihre Umsatzsteuer-Identifikationsnummer bzw. die lokale Entsprechung angeben:
 
-### <a name="add-your-vat-id"></a>Hinzufügen Ihrer Umsatzsteuer-ID
+### <a name="add-your-vat-id"></a>Hinzufügen Ihrer Umsatzsteuer-Identifikationsnummer
 
-1.  Von der **Partner Center** wechseln Sie zu **Kontoeinstellungen**-> **Partnerrechnungsprofil**.
+Sie müssen ein globaler Administrator, ein Abrechnungs Administrator oder Administrator-Agent sein, um das Abrechnungs Profil zu bearbeiten.
+
+1.  Wechseln Sie im **Partner Center-Dashboard** zu **Einstellungen** , und wählen Sie dann **Abrechnungs Profil**aus.
 2.  Wählen Sie im Abschnitt **Finanzdaten** die Option **Aktualisieren** aus.
-3.  In der **Unternehmen Steuernummer** Feld, geben Sie Ihre Umsatzsteuer-Identifikationsnummer an.
+3.  Geben Sie im Feld **Firmen Steuerungs-ID** Ihre Umsatzsteuer-ID ein.
 
 
 

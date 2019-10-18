@@ -1,20 +1,20 @@
 ---
 title: Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag | Partner Center
 ms.topic: article
-ms.date: 08/28/2019
+ms.date: 09/30/2019
 Description: Als Partner müssen Sie die Zustimmung Ihres Kunden zum Microsoft-Kundenvertrag einholen, bevor Sie Microsoft-Produkte und -Dienste für diesen Kunden bestellen können. Um Partner bei der Einhaltung von Complianceanforderungen zu unterstützen, bittet Microsoft die Partner, die Zustimmung durch Bereitstellung bestimmter Details zu der Person, die dem Vertrag zugestimmt hat, zu bestätigen.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Kunden, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Microsoft-Kundenvertrag, Vorlagen für Kundenverträge
 ms.localizationpriority: medium
-ms.openlocfilehash: 291d9fa48795067357888d5c0fa25027c3478705
-ms.sourcegitcommit: 282c72dbe419152e6b9dc73137acc538d0185649
-ms.translationtype: HT
+ms.openlocfilehash: 5247ab8ced05edbb05d2ed690f2375541d2b43aa
+ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "70144329"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "71704174"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-preview"></a>Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag (Vorschauphase)
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Bestätigen Sie die kundenannahme des Microsoft-Kunden Vertrags.
 
 Bevor ein CSP-Partner eine Bestellung im Auftrag eines Kunden aufgeben können, muss der Kunde derzeit den entsprechenden **Microsoft Cloud-Vertrag** akzeptieren und unterzeichnen. Anschließend muss der Partner seine Kundenzustimmung bestätigen, indem er Microsoft Informationen zum Signaturgeber zur Verfügung stellt. Wenn keine Bestätigung bereitgestellt wird:
 - Können Sie für diesen Kunden keine neuen Aufträge erstellen.
@@ -28,12 +28,15 @@ Am 1. Oktober 2019 stellt Microsoft den **Microsoft-Kundenvertrag** für das CSP
 |------------|------------|--------------------------------|
 |1\. August 2019|In Sandbox verfügbare UX-Vorschau|Partner können die Zustimmung des Kunden zum Microsoft-Kundenvertrag über das Partner Center-Dashboard in der CSP-Sandboxumgebung bestätigen. Partner, die Zugriff auf die CSP-Sandboxumgebung haben, erhalten eine Vorschau auf die Änderungen bei der Benutzeroberfläche. Partner ohne Sandboxzugriff können sich in diesem Thema über die Änderungen informieren.|
 |03. September 2019|In Sandbox verfügbare API-Vorschau|Partner können die Zustimmung des Kunden zum Microsoft-Kundenvertrag über die Partner Center-API in der CSP-Sandboxumgebung bestätigen. API-Partner können diese Gelegenheit nutzen, um sich eine Vorschau der API-Änderungen anzusehen und mit der API-Integration zur Unterstützung des neuen Vertrags zu beginnen.|
-|13. September 2019|Vorschau des .NET SDK ist in Sandbox verfügbar.|Partner können die Zustimmung des Kunden zum Microsoft-Kundenvertrag über das Partner Center .NET SDK in der CSP-Sandboxumgebung bestätigen. API-Partner können diese Gelegenheit nutzen, um sich eine Vorschau der Änderungen des .NET SDK anzusehen und mit der API-Integration zur Unterstützung des neuen Vertrags zu beginnen.|
+|20. September 2019|Vorschau des .NET SDK ist in Sandbox verfügbar.|Partner können die Zustimmung des Kunden zum Microsoft-Kundenvertrag über das Partner Center .NET SDK in der CSP-Sandboxumgebung bestätigen. API-Partner können diese Gelegenheit nutzen, um sich eine Vorschau der Änderungen des .NET SDK anzusehen und mit der API-Integration zur Unterstützung des neuen Vertrags zu beginnen.|
 |1\. Oktober 2019|Microsoft-Kundenvertrag in der Produktionsumgebung verfügbar|Microsoft stellt den Microsoft-Kundenvertrag für das CSP-Programm vor, der den Microsoft Cloud-Vertrag ersetzt. Partner können die Zustimmung des Kunden zum Microsoft-Kundenvertrag über das Partner Center-Dashboard und die entsprechende API in der Produktionsumgebung bestätigen. Der Microsoft Cloud-Vertrag wird innerhalb des CSP-Partnerprogramms weiterhin unterstützt. Partnern wird jedoch empfohlen, mit der Migration zum Microsoft-Kundenvertrag zu beginnen. Neue Käufe und Änderungen an der Anzahl der Arbeitsplätze für vorhandene Abonnements erfordern eine Bestätigung des Microsoft-Kundenvertrags oder des Microsoft Cloud-Vertrags durch den Partner. Bestimmte neue Angebote (z. B. der neue Azure-Plan) erfordern eine Bestätigung des Microsoft-Kundenvertrags.|
 |31. Januar 2020|Microsoft Cloud-Vertrag aus der Produktionsumgebung entfernt|Der Microsoft Cloud-Vertrag wird innerhalb des CSP-Partnerprogramms nicht mehr akzeptiert. Neue Käufe und Änderungen an der Anzahl der Arbeitsplätze für vorhandene Abonnements erfordern eine Bestätigung des Microsoft-Kundenvertrags durch den Partner. Diese Anforderung gilt für neue Kunden und Bestandskunden, die möglicherweise zuvor den Microsoft Cloud-Vertrag angenommen haben.|
 
-## <a name="confirm-customer-acceptance-using-partner-center-api"></a>Bestätigen der Zustimmung des Kunden über die Partner Center-API
-Ab dem 3. September 2019 wird die API für Partner zur Bestätigung der Zustimmung des Kunden zum Microsoft-Kundenvertrag als Vorschau in der CSP-Sandboxumgebung zur Verfügung stehen. Ausführliche Informationen zur API finden Sie unter:
+## <a name="access-microsoft-customer-agreement-template"></a>Auf Microsoft-Kunden Vertragsvorlage zugreifen
+Partner können die neueste Version der Microsoft-Kunden Vertragsvorlage [hier](https://aka.ms/customeragreement)manuell herunterladen. Beachten Sie, dass der Microsoft-Kundenvertrag länderspezifisch ist. Wenn Sie die Microsoft-Kunden Vertragsvorlage anfordern, achten Sie darauf, das richtige Land basierend auf dem Standort des Kunden auszuwählen. 
+
+## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>Bestätigen der Kundenakzeptanz mithilfe der Partner Center-API/des SDK
+Partner können die Partner Center-API/das SDK verwenden, um die Kundenakzeptanz des Microsoft-Kunden Vertrags zu bestätigen. Ausführliche Informationen zur API/zum SDK finden Sie unter:
 
 - [Abrufen von Vertragsmetadaten für den Microsoft-Kundenvertrag](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
 
@@ -45,7 +48,7 @@ Ab dem 3. September 2019 wird die API für Partner zur Bestätigung der Zustimmu
 
 
 ## <a name="confirm-customer-acceptance-in-partner-center"></a>Bestätigen der Zustimmung des Kunden in Partner Center
-Ab dem 1. August 2019 wird die UX für Partner zur Bestätigung der Zustimmung des Kunden zum Microsoft-Kundenvertrag als Vorschau in der CSP-Sandboxumgebung zur Verfügung stehen.
+Partner können die Kundenakzeptanz des Microsoft-Kunden Vertrags im Partner Center für neue Kunden und vorhandene Kunden bestätigen.
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>Bestätigen der Kundenzustimmung für Neukunden
 
@@ -90,5 +93,3 @@ Mithilfe der folgenden Schritte können Sie eine Bestätigung abrufen, dass ein 
 2. Wählen Sie **Kontoinformationen** aus.
 
 3. Unter **Microsoft-Kundenvertrag** wird angezeigt, ob die Bestätigung durch diesen Kunden erfolgt ist.
-
-

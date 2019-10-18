@@ -7,18 +7,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: d25ec40acd22e2baae577b250d2924b2c9b1e6e0
-ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
-ms.translationtype: HT
+ms.openlocfilehash: b7cc7104d648eff3a5461d950345c283a307ea6c
+ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "70259926"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "70921477"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Wechsel von PMC zu Partner Center
 
 Wir vereinfachen die Geschäftstätigkeit mit uns, indem wir eine einzelne Website (Partner Center) einführen, die als zentrale Anlaufstelle dient. Alle Aktivitäten, die du von Partner Membership Center (PMC) kennst, kannst du auch über das Dashboard in Partner Center ausführen. 
 
-Darüber hinaus kannst du noch viele weitere Aufgaben erledigen – alles in einer einzigen Website. Die Begriffe und Features unterscheiden sich jedoch leicht. Mithilfe der Tour über dein Dashboard kannst du herauszufinden, welche Funktion sich wo befindet.
+Darüber hinaus kannst du noch viele weitere Aufgaben erledigen – alles in einer einzigen Website. Die Begriffe und Features unterscheiden sich jedoch leicht. Um Probleme zu beheben, bei denen es sich um den Ort und die Dinge handelt, stellen Sie sicher, dass Sie die Website Tour Ihres Dashboards durchführen.
 
 Die folgende Tabelle zeigt einige der Unterschiede zwischen PMC und Partner Center.
 

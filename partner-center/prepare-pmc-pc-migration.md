@@ -6,12 +6,12 @@ description: Dinge, die Sie berücksichtigen sollten, bevor Sie Ihr Geschäft vo
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d6db2dcb5ac53e29d907c09ca2b16d123b21c07f
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: bbce4677e88c82cb3f2826fb37823d2746d12e61
+ms.sourcegitcommit: f54b679ce5058793a52795c6f93b0e98311805e1
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820569"
+ms.lasthandoff: 09/17/2019
+ms.locfileid: "71060503"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Vorbereiten des Verschiebens von Partner Membership Center (PMC) zu Partner Center
 
@@ -21,19 +21,24 @@ Wir verschieben die Mitgliedschafts Verwaltung aus dem Partner Membership Center
 
 **Was ist ein Azure Active Directory (Azure AD)-Geschäftskonto?**
 
-Ein Azure-Geschäftskonto ist eine dedizierte und isolierte virtuelle Darstellung Ihres Unternehmens in der öffentlichen Azure-Cloud. Das Konto wird für Sie erstellt, wenn Sie einen der Microsoft Cloud Services wie Azure, Microsoft Intune oder Office 365 abonnieren.
+Ein Azure-Geschäftskonto ist eine dedizierte und isolierte virtuelle Darstellung Ihres Unternehmens in der öffentlichen Azure-Cloud. Das Konto wird für Sie erstellt, wenn Sie einen Microsoft Cloud Service wie Azure, Microsoft Intune oder Office 365 abonnieren.
 
 Ihr Geschäftskonto hostet ihre Azure AD Benutzer und die dazugehörigen Informationen: Ihre e-Mail-Adresse, Kenn Wörter, Profildaten, Berechtigungen usw. Das Geschäftskonto enthält außerdem Gruppen, Anwendungen und andere Informationen zu einem Unternehmen und seiner Sicherheit. Weitere Informationen finden Sie unter...
 
 Im Partner Center verwenden Sie Ihre geschäftliche e-Mail-Adresse, um sich bei Ihrem Konto nicht bei Ihrer persönlichen e-Mail anzumelden.
-- Ihr Geschäftskonto:john@contoso.com
-- Ihr persönliches Konto:John@outlook.com
+- Ihr Geschäftskonto: john@contoso.com
+- Ihr persönliches Konto: John@outlook.com
 
 Ihre geschäftliche e-Mail-Adresse ist Teil Ihres Azure Active Directory-Mandanten. Wenn Sie über ein Konto im Partner Center verfügen möchten, benötigen Sie einen Aad-Mandanten. Weitere Informationen zu Azure Active Directory finden Sie unter [Erstellen Ihres Verzeichnisses in Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
 **Wenn Sie von PMC zu Partner Center wechseln, mit welchem Konto sollten Sie sich bei Partner Center anmelden, wenn Sie über einen Aad-Mandanten mit Microsoft verfügen (z. b. für Office 365) und auch über einen Mandanten für Ihr CSP-Geschäft verfügen?**
 
 Sie können sich mit dem CSP-Konto oder Ihrem MPN Work-e-Mail-Konto bei Partner Center anmelden. Wenn Sie sich für die Anmeldung mit ihrer CSP-Work-e-Mail entscheiden, werden im linken Navigationsbereich auf Ihrem Dashboard sowohl MPN-als auch CSP-Programminformationen angezeigt. Wenn Sie sich mit ihrer MPN-Azure AD-e-Mail-Adresse des Mandanten anmelden, werden nur Ihre MPN-Programminformationen angezeigt. Benutzer Rollen unterscheiden sich zwischen MPN und CSP. Wenn Sie also dasselbe Konto für MPN und CSP Business verwenden, stellen Sie sicher, dass Sie Benutzer Rollen entsprechend zuweisen. Weitere Informationen zu Benutzer Rollen finden Sie unter [Zuweisen von Benutzer Rollen und Berechtigungen](permissions-overview.md).
+
+**Wenn Sie Ihren vorhandenen Office 365 Azure AD-Mandanten nicht für Partner Center verwenden möchten, können Sie vor der Migration von PMC einen neuen Mandanten erstellen.**
+
+Möglicherweise gibt es viele Gründe, warum Sie keinen vorhandenen Azure AD Mandanten verwenden möchten, um Ihr Partner Center-Konto einzurichten. Bevor Sie mit der Migration zu Partner Center beginnen, besuchen Sie den [Azure-Portal](https://ms.portal.azure.com/#home) , um einen neuen Azure AD Mandanten zu erstellen. Befolgen Sie die Anweisungen unter [Erstellen eines neuen Mandanten in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Nachdem Sie den neuen Mandanten erstellt haben, verwenden Sie diesen Aad-Mandanten zum Einrichten Ihres Partner Center-Kontos, wenn Sie von der PMC zu Partner Center wechseln. Sie müssen ein globaler Administrator sein, um den Mandanten zu erstellen. Verwenden Sie dieses neue Verzeichnis, um zu Partner Center zu migrieren.
+
 
 **Worin besteht der Unterschied zwischen der globalen Aad-Administrator Rolle und der globalen PMC-MPN-Administrator Rolle?**
 
@@ -122,11 +127,11 @@ Ja, der Umstieg auf Partner Center hat keine Auswirkungen auf die Kompatibilitä
  **Werden unsere Microsoft-Konten, die über Visual Studio-Vorteile verfügen, berücksichtigt?**
 
 
- Ja. Visual Studio-Vorteile, die MSAS zugeordnet sind, werden berücksichtigt und aufbewahrt. Sie werden auch nach der Verlängerung im Partner Center beibehalten. Wenn Sie jedoch eine MSA-Zuordnung entfernen, nachdem Sie im Partner Center migriert wurde, kann Sie nicht wieder in Partner Center hinzugefügt werden.
+ Ja. Visual Studio-Vorteile, die MSAs zugeordnet sind, bleiben erhalten und gelten weiter. Sie werden auch nach der Verlängerung in Partner Center beibehalten. Wenn du jedoch nach der Migration zu Partner Center eine MSA-Zuordnung entfernst, kann diese nicht wieder zu Partner Center hinzugefügt werden.
 
-Im Partner Center kann ein Partner Geschäftskonten und Gastbenutzer Konten hinzufügen, bei denen es sich um MSA aus demselben Mandanten handelt, bei dem der Partner MPN admin im Azure AD Mandanten ist. Wenn der Partner ein globaler Administrator in mehreren Azure AD Mandanten ist und alle diese Mandanten demselben Partner Center-Konto zugeordnet sind, ist es dem Partner gestattet, Benutzer über diese Mandanten zu den Visual Studio-Vorteilen und Azure-Verwendungs basierten Zuordnungen hinzuzufügen.
+In Partner Center kann ein Partner Geschäftskonten und Gastbenutzerkonten vom Typ MSA aus demselben Mandanten hinzufügen, in dem der Partner MPN-Administrator im Azure AD-Mandanten ist. Wenn der Partner globaler Administrator in mehreren Azure AD-Mandanten ist und all diese Mandanten demselben Partner Center-Konto zugeordnet sind, kann der Partner Benutzer aus all diesen Mandanten zu Visual Studio-Vorteilen und zu auf der Azure-Nutzung basierenden Zuordnungen hinzufügen.
 
-Gastbenutzer können zwar nutzungsbasierte Abonnements von Visual Studio durch den MPN-Administrator oder den globalen Administrator zugewiesen werden, aber Gastbenutzer können sich nicht mit Ihrem MSA beim Partner Center anmelden. Gastbenutzer können sich jedoch bei Azure und Visual Studio anmelden, um die Ihnen zugewiesenen Vorteile zu überprüfen und zu nutzen.
+Ein MPN-Administrator oder globaler Administrator kann zwar Gastbenutzern nutzungsbasierte Visual Studio-Abonnements zuweisen, aber Gastbenutzer können sich nicht mit ihrem MSA bei Partner Center anmelden. Gastbenutzer können sich aber bei Azure und Visual Studio anmelden, um die ihnen zugewiesenen Vorteile zu überprüfen und zu nutzen.
 
 
  **Wie sollten wir unsere MCP-Zuordnungen und unseren Partner University-Zugang verwalten?**

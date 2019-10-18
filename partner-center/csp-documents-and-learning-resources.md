@@ -1,23 +1,23 @@
 ---
 title: CSP-Vereinbarungen, Preislisten und Angebote | Partner Center
 ms.topic: article
-ms.date: 08/29/2019
+ms.date: 09/23/2019
 description: Dieser Artikel enthält Links zu Programmleitfaden, Partnervereinbarungen, Kundenverträgen, Preislisten und Angeboten für Cloud Solution Provider.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c566b43a0624a90bad746852e971a316b085005
-ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
-ms.translationtype: HT
+ms.openlocfilehash: 03f6730f8b52e17c044e67f1ced982fbbabab59d
+ms.sourcegitcommit: 8a494949f5c4efdcf33b01760d2ae10405f1daae
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "70259916"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "71204635"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Programmleitfaden, Vereinbarungen, Preislisten und Angebote zu Cloud Solution Provider
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -33,6 +33,10 @@ Lesen Sie die Anforderungen, wie Sie ein Partner im CSP-Programm werden.
 
 >[!Note]
 >Wenn Sie ein Geschäftsschreiben benötigen, das Ihren Status als anerkannter Microsoft-Partner im Cloud Solution Provider-Programm bestätigt oder zertifiziert, wenden Sie sich an den [Support](https://partner.microsoft.com/pcv/servicerequests/create), um dieses anzufordern.
+
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Zusätzliche Angebotsbedingungen für den Microsoft-Partner Vertrag
+
+[Ergänzende Angebotsbedingungen zu den Online Services-Abonnements und der Software Kanal Autorisierung](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud Agreement – Kundenvorlagen
 

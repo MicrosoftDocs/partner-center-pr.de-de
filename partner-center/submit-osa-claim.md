@@ -9,14 +9,14 @@ keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel, OSA, ISV, Umsatzz
 ms.localizationpriority: medium
 ms.openlocfilehash: b61b1da0a7faa3008996785dd092b2e1bae12b8e
 ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 10/16/2019
 ms.locfileid: "72425176"
 ---
 # <a name="submit-your-osa-claims-in-partner-center"></a>Übermitteln Ihrer OSA-Ansprüche in Partner Center
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 
@@ -26,7 +26,7 @@ Bevor Sie einen Anspruch erstellen und übermitteln können, müssen Sie die fol
 -   **Sie sind beim Microsoft Partner Network (MPN) registriert** und besitzen eine aktive Microsoft Partner Network-Vereinbarung. Um sich beim Microsoft Partner Network zu registrieren, besuchen Sie die Partnersite. 
 -   **Sie sind zertifizierter Software Advisor für Microsoft Dynamics** mit einer aktiven CSA-Vereinbarung (Certified Software Advisor) für Microsoft Dynamics. 
 -   **Sie haben Ihre Bank- und Steuerinformationen** im Partner Center eingegeben. 
--   **Sie erfüllen Sie Anforderungen für die OSA-Verkaufsberechtigungszertifizierung und den Umsatz**. (Details hierzu finden Sie im OSA-Verkaufshandbuch, das sich unter „aka.ms/partnerincentives“ im OSA-Abschnitt befindet.) Dies gilt nicht für ISVs, die lediglich eine Umsatzzuordnung vornehmen lassen möchten. 
+-   **Sie erfüllen Sie Anforderungen für die OSA-Verkaufsberechtigungszertifizierung und den Umsatz**. (Ausführliche Informationen finden Sie im OSA-Sell Guide unter dem OSA-Abschnitt auf aka.ms/partnerincentives.) Dies gilt nicht für ISVs, die nur die Umsatz Zuordnung suchen. 
 
 ## <a name="submitting-your-claim"></a>Übermitteln Ihres Anspruchs
 

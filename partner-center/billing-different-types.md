@@ -1,23 +1,23 @@
 ---
 title: Grundlegendes zu den Abrechnungsarten im Partner Center | Partner Center
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 10/04/2019
 Description: Information zu unterschiedlichen Abrechnungsarten, Abrechnungszeiträumen und Abrechnungsdaten
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Abrechnung, Zahlungen, Bestellungen, Kontenabstimmungsdateien, Kontenabstimmungsdatei
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 38ad28fb74968d351d6031e21446f02d22f7e4fa
-ms.sourcegitcommit: ba0b0eea3dbc028ec162f58b841ba9e3588f1dca
-ms.translationtype: HT
+ms.openlocfilehash: 28a5405a033061e5665d0f1e5f937cd3951f09b9
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "70134624"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997838"
 ---
 # <a name="understanding-the-types-of-billing-in-partner-center"></a>Grundlegendes zu Abrechnungsarten in Partner Center
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner im CSP-Programm
@@ -45,7 +45,7 @@ Sie werden auf Ihre Rechnungen genauso wie jetzt zugreifen – entweder im Partn
 |**Abrechnungssystem**|**Produkttyp(en)**|**Abrechnungsdatum**|**Abrechnungszeitraum**|**Abrechnungswährung**|**Aktuelle Aktivität anzeigen?**|
 |:----------------|:--------------|:--------------|:--------------|:--------------|:--------------|
 |Wiederkehrende Gebühren für lizenzbasierte und nutzungsbasierte Abonnements |Alle Produkte aus dem [Katalog der Onlinedienste](https://partner.microsoft.com/commerce/preferredoffers/list). Beispiele hierfür sind Office 365, Microsoft 365, Azure Active Directory, Azure (nutzungsbasierte Bezahlung), Dynamics 365, Power BI Pro |Das Datum, das Sie bei der Erstellung Ihres Partner Center-Kontos ausgewählt haben |Der Monat vor Ihrem Abrechnungsdatum. |Die Währung des Landes/der Region, in dem/der Sie sich befinden. Wenn sich Ihr Unternehmen beispielsweise in Großbritannien befindet, werden wir die Rechnung in Britische Pfund (GBP) stellen. Befindet sich Ihr Unternehmen in Indien, erhalten Sie eine Rechnung in Indische Rupien (INR).  |Nein |
-|Wiederkehrende und einmalige Gebühren für Produkte von Microsoft und Drittanbieter-ISVs |Alle SaaS-Abonnements, Azure-Reservierungen und Softwareprodukte (unbefristet und abonnementbasiert), die von Microsoft und Drittanbieter-ISVs angeboten werden. Sehen Sie dazu verfügbare Produkte im [Marketplace](https://partner.microsoft.com/commerce/sales?type=Any&category=Any). Beispiele hierfür sind SUSE Linux-Software (Softwareabonnement), Windows Server 2019 Essentials (unbefristete Software), Azure ISV-SaaS-Produktabonnement. |Der 8. Tag jedes Monats |Vom ersten Tag bis zum letzten Tag jedes Kalendermonats |Die Währung des Landes/der Region, in dem/der sich Ihr Kunde befindet. Dies bedeutet: Sie erhalten getrennte Rechnungen und Kontenabstimmungsdateien in der Währung für das Land/die Region jedes Kunden, an den Sie im Abrechnungszeitraum verkauft haben. |Ja |
+|Wiederkehrende und einmalige Gebühren für Produkte von Microsoft und Drittanbieter-ISVs |Alle SaaS-Abonnements, Azure-Reservierungen und Softwareprodukte (unbefristet und abonnementbasiert), die von Microsoft und Drittanbieter-ISVs angeboten werden. Sehen Sie dazu verfügbare Produkte im [Marketplace](https://partner.microsoft.com/commerce/sales?type=Any&category=Any). Beispiele hierfür sind SUSE Linux-Software (Softwareabonnement), Windows Server 2019 Essentials (unbefristete Software), Azure ISV-SaaS-Produktabonnement. |Der 8. Tag jedes Monats |Vom ersten Tag bis zum letzten Tag jedes Kalendermonats |Die Währung des Landes/der Region, in dem/der sich Ihr Kunde befindet. Dies bedeutet: Sie erhalten getrennte Rechnungen und Kontenabstimmungsdateien in der Währung für das Land/die Region jedes Kunden, an den Sie im Abrechnungszeitraum verkauft haben. |„Ja“ |
 
 ## <a name="billing-scenarios-for-one-time-and-recurring-purchases"></a>Abrechnungsszenarien für einmalige und wiederkehrende Käufe
 ### <a name="scenario-1--purchase-a-subscription-and-then-add-a-seat-on-the-same-day"></a>Szenario 1: Erwerb eines Abonnements und anschließendes Hinzufügen eines Arbeitsplatzes am gleichen Tag
@@ -160,3 +160,23 @@ In diesem Szenario erwerben Sie ein benutzerdefiniertes SaaS-Abrechnungsabonneme
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
 |10.06.2019 (Sie haben 1 Lizenz) |Bronze     |10.06.2019   |10.06.2019         |10 USD        |1         |10 USD            |Neu      |
 |10.06.2019 (Sie haben 0 Lizenzen) |Bronze    | 10.06.2019    |10.06.2019        |10 USD        |1       | -10 USD       |CancelImmediate  |
+
+## <a name="billing-under-the-azure-plan"></a>Abrechnung im Azure-Plan
+
+- **Rechnungsdatum**: die Rechnungs-und Abstimmungs Datei steht im Partner Center-Dashboard/in der API bis zum 8. (Mitternacht UTC) zur Verfügung.
+
+- **Abrechnungszeitraum der Rechnung**: der Abrechnungszeitraum der Rechnung wird auf den Kalendermonat ausgerichtet, z. b. 10/1-10/31, 11/1-11/30).
+
+- Gebühren für **Dienst Zeiträume**: die Gebühren richten sich nach dem Kalendermonat. Wenn z. b. der Abrechnungspartner Azure-Dienste über einen Azure-Plan auf 10/15 hinzufügt und der Kunde die Nutzung der Azure-Dienste auf 10/15 startet, empfängt der Abrechnungspartner Rechnung/Recon 11/8 für den Kunden Verbrauch für den Dienst Zeitraum 10/15-10/31. Die Rechnung des nächsten Monats, die auf 12/8 generiert wird, enthält alle Gebühren für den Dienst Zeitraum 11/1-11/31.
+
+- **Zahlungs Laufzeit der Rechnung**: net 60 Tage.
+
+- **Rechnungswährung**: Partner werden weiterhin in der vom Kunden zugewiesenen Währung abgerechnet. Wenn z. b. der Abrechnungspartner in Irland mit Kunden in den Vereinigten Britannien, Norwegen und Deutschland ist, erhält der Abrechnungspartner einen Betrag von GBP, NOK und Euro Rechnung/Recon.
+
+- **Partner-Incentives**: bezahlt 45 Tage ab dem Ende des Rechnungsmonats.
+
+Weitere Informationen zum Azure-Plan finden Sie unter:
+
+- [Azure-Plan: Übersicht](azure-plan-get-started.md)
+
+- [Azure-Plan: Abrechnung](azure-plan-billing.md)

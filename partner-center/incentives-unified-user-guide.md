@@ -1,18 +1,18 @@
 ---
 title: Greifen Sie auf die Seite mit den auszahlungszahlungen zu Partner Center
 ms.topic: article
-ms.date: 09/19/19
+ms.date: 10/17/2019
 description: Informationen zu Ihren Auszahlungs Informationen
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Anreize, Auszahlung
 ms.localizationpriority: medium
-ms.openlocfilehash: b2cf78be2a15db74e1f68224076f43872f997466
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
-ms.translationtype: HT
+ms.openlocfilehash: 97d43b2d42ace1c4ef289efbfb6ff34df53cba20
+ms.sourcegitcommit: ccb08d947ab6b488d02f9bcbb6c550b0d5f0de9f
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425113"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "72584249"
 ---
 # <a name="access-your-incentives-payouts-page"></a>Zugreifen auf die Seite mit den auszahlungszahlungen
 
@@ -22,4 +22,4 @@ Die Informationen zur Auszahlungs Hilfe, die für Sie relevant sind, hängen dav
 
 - Informationen zu Microsoft Partner Network-Incentive-Zahlungen finden Sie unter [Anzeigen der Informationen zu Incentive-Zahlungen](understand-incentive-payouts.md) in der MPN-Incentive-Dokumentation.
 
-- Informationen zu kommerziellen Marketplace-Zahlungen für unabhängige Software Anbieter (ISVs) finden Sie unter kostenpflichtige Kosten.
+- Informationen zu kommerziellen Marketplace-Zahlungen für unabhängige Software Hersteller (ISVs) werden in Kürze hinzugefügt.

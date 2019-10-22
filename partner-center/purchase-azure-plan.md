@@ -1,0 +1,127 @@
+---
+title: Kauf des Azure-Plans | Partner Center
+ms.topic: article
+ms.date: 10/01/2019
+description: Kaufen Sie mehrere Azure-Abonnements, ohne Einzelbestellungen für jedes Abonnement einreichen zu müssen
+ms.assetid: ''
+author: LauraBrenner
+ms.author: labrenne
+ms.localizationpriority: High
+ms.openlocfilehash: 0eead95dc6847dd1eca8f54d7a6e15f8312f9481
+ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "72171215"
+---
+# <a name="purchase-the-azure-plan"></a>Kauf des Azure-Plans
+
+Wenn Sie im Rahmen des Microsoft-Kundenvertrags einen Azure-Plan für Ihre Kunden erwerben, haben Sie Zugriff auf den Gesamtkatalog der neuesten Azure-Dienste zu nutzungsbasierten Tarifen. CSP-Partner können jetzt auf jeden Azure-Dienst zugreifen, sobald er die allgemeine Verfügbarkeit erreicht hat. Ein Partner kann über mehrere Azure-Abonnements in einem Azure-Plan verfügen. 
+
+## <a name="countryregion-availability"></a>Verfügbarkeit nach Land/Region
+Für die neue Commerce-Benutzeroberfläche in CSP für Azure ist aktuell Verfügbarkeit in 139 Ländern geplant. Details finden Sie in der vollständigen Liste dieser [Länder/Regionen](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x). 
+
+## <a name="how-to-purchase-azure-plan"></a>Erwerben des Azure-Plans
+
+Der Erwerb eines Azure-Plans ähnelt dem Erwerb eines beliebigen anderen Abonnements. Der Hauptunterschied besteht darin, dass Sie vor der eigentlichen Bestellung bestätigen müssen, dass Ihr Kunde den Microsoft-Kundenvertrag unterzeichnet hat.
+
+1. Wählen Sie **Segment: gewerblich** aus, und geben Sie **Microsoft Azure** ein 
+2. Wählen Sie unter Azure-Plan **In den Warenkorb** aus
+
+![Kauf](images/azure/Azurepurchase1.png)
+
+Der Partner muss bestätigen, dass der Kunde die Geschäftsbedingungen des Microsoft Kundenvertrags gelesen und ihnen zugestimmt hat. Weitere Informationen, wie der Partner dies sicherstellen kann, finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag](https://docs.microsoft.com/en-us/partner-center/confirm-customer-agreement). Weitere Ressourcen stehen im [Ressourcenkatalog](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/) zur Verfügung.
+
+1. Bestätigung
+2. Durch Aufforderung an den Kunden, den Microsoft-Kundenvertrag direkt mit Microsoft abzuschließen. 
+
+### <a name="to-confirm"></a>Zur Bestätigung 
+
+1. Wählen Sie auf der Seite **Konto** des Kunden **Aktualisieren** neben **Microsoft-Kundenvertrag** aus  
+2. Setzen Sie die Informationen zu der Person im Unternehmen des Kunden ein, die dem Microsoft-Kundenvertrag zugestimmt hat.
+3. Wählen Sie **Speichern und fortfahren** aus.  
+
+## <a name="review-and-buy"></a>Überprüfung und Kauf
+
+Sie gelangen zur Seite **Produkt hinzufügen** zurück, auf der Sie sehen können, dass der Azure-Plan hinzugefügt wurde. Wählen Sie **Überprüfen** aus, um Ihren Kauf zu überprüfen, und wählen Sie dann **Kaufen** aus. 
+
+>[!Note]
+>Nachdem Sie den Azure-Plan für einen Kunden erworben haben, können Sie für diesen Kunden Microsoft Azure (0145p) nicht mehr kaufen. Sie müssen zukünftige Abonnements im Rahmen des Azure-Plans erstellen.
+
+## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Erwerb von Azure-Reservierungen im Rahmen des Azure-Plans 
+  
+Im Partner Center können Sie darüber hinaus Microsoft Azure-Reservierungen im Rahmen des Azure-Plans im Kundenauftrag erwerben.
+
+1. Wählen Sie im Partner Center-Menü auf Ihrem Dashboard **Kunden** aus. Suchen Sie den Kunden, der Azure-Reservierungen kaufen möchte. Klicken Sie dann auf den nach unten zeigenden Pfeil, um den Datensatz des Kunden zu erweitern. 
+
+2. Wählen Sie **Produkte hinzufügen** und dann **Azure** aus. 
+- Wählen Sie in der Liste **Segment** das Marktsegment des Kunden aus. 
+- Wählen Sie **Reservierungen** in der Liste **Typ** für Produkte aus. 
+- Wählen Sie in der Liste **Reservierungstyp** den vom Kunden gewünschten Typ der Reservierung aus. 
+
+Azure-Reservierungen müssen einem aktiven Azure-Abonnement zugeordnet werden. Wählen Sie den Azure-Plan im Abonnement des Kunden aus, dem Sie Azure-Reservierungen hinzufügen möchten. 
+
+>[!Important] 
+>Wenn der Kunde noch keinen aktiven Azure-Plan besitzt, wählen Sie Azure aus, um jetzt einen hinzuzufügen. Weitere Anweisungen finden Sie unter [Kaufen von Azure-Reservierungen](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
+
+Beachten Sie, dass der Umfang der Reservierung derzeit nur auf **Freigegeben** festgelegt werden kann. 
+
+![scopeshared](images/azure/scopeshared.png)
+
+So verwalten Sie die Reservierung des Kunden im Azure-Portal: 
+
+1. Wählen Sie unter **Kunden** den Kunden aus, den Sie verwalten möchten. 
+
+2. Erweitern Sie mit dem Pfeil nach unten die Zeile des Kunden, und wählen Sie **Microsoft Azure-Verwaltungsportal** aus.  
+ 
+## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Anzeigen von Azure-Abonnements im Azure-Plan 
+
+Erweitern Sie auf der Seite **Abonnements** im Abschnitt für nutzungsbasierte Angaben **Azure-Plan**, um die zugeordneten Azure-Abonnements unter dem Azure-Plan anzuzeigen.
+
+![Viewlist](images/azure/viewlist.png)
+
+
+## <a name="add-subscriptions-and-configure-resources"></a>Hinzufügen von Abonnements und Konfigurieren von Ressourcen
+
+Im Azure-Portal fügen Sie Abonnements für Ihren Kunden hinzu und konfigurieren Ressourcen für ihn. Ferner können Sie die Umgebung Ihres Kunden nach Workload oder Projekt herausstellen. Abonnements können sowohl im Azure-Portal als auch in [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) verwaltet werden. 
+
+Um die Ressourcen und Abonnements Ihres Kunden zu verwalten, benötigen Sie **AOBO**-Berechtigungen (Admin on Behalf Of, Administrator im Auftrag von). Informationen zum Verwalten Ihres Zugriffs finden Sie unter [Verwalten von Abonnements und Ressourcen im Rahmen des Azure-Plans](azure-plan-manage.md)
+
+Informationen zu den nächsten Schritten
+
+- [Umstellung von Kunden auf einen Azure-Plan](azure-plan-transition.md)
+
+- [Vom Partner erworbenes Guthaben – Übersicht](partner-earned-credit.md)
+
+
+
+
+
+
+
+            
+
+
+
+
+    
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    

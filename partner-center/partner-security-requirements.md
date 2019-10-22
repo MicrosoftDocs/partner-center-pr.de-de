@@ -1,18 +1,18 @@
 ---
 title: Sicherheitsanforderungen für Partner | Partner Center
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/25/2019
 description: Erfahren Sie mehr über die Sicherheitsanforderungen für Berater und Partner, die am Cloud Solution Provider-Programm teilnehmen.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
-ms.localizationpriority: medium
-ms.openlocfilehash: c95ec38f928ca4032ffecebaf25f23e87d10c079
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: ea155cf760850def85146d8c4e7e847fab5d7213
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215652"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318481"
 ---
 # <a name="partner-security-requirements"></a>Sicherheitsanforderungen für Partner
 
@@ -136,15 +136,15 @@ Die Baselineschutzrichtlinie *MFA für Administratoren erfordern* erfordert MFA 
 
 Beim Aktivieren der Richtlinie „MFA für Administratoren erfordern“ sind die obigen neun Administratorrollen für die Registrierung über die Authentifikator-App für MFA erforderlich. Nachdem die MFA-Registrierung abgeschlossen ist, müssen Administratoren bei jeder Anmeldung eine MFA durchführen.
 
-Wenn diese Konten in Ihrem Unternehmen in Skripts oder Code verwendet werden, sollten Sie sie durch [verwaltete Identitäten](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview) ersetzen.
+Wenn diese Konten in Ihrem Unternehmen in Skripts oder Code verwendet werden, sollten Sie sie durch [verwaltete Identitäten](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview) ersetzen.
 
 So aktivieren Sie diese Richtlinie und schützen Ihre Administratoren
 
-1. Melden Sie sich beim  **Azure-Portal** als globaler Administrator, Sicherheitsadministrator oder Administrator für bedingten Zugriff an.
+1. Melden Sie sich beim **Azure-Portal**als globaler Administrator, Sicherheitsadministrator oder Administrator für bedingten Zugriff an.
 2. Navigieren Sie zu **Azure Active Directory** > **Bedingter Zugriff**.
 3. Wählen Sie in der Liste der Richtlinien die Option **Baselinerichtlinie: MFA für Administratoren erfordern** aus.
 4. Legen Sie **Richtlinie aktivieren** auf **Richtline sofort verwenden** fest.
-5. Klicken Sie auf  **Speichern**.
+5. Klicken Sie auf **Speichern**.
 
 > [!WARNING]
 > Bevor Sie diese Richtlinie aktivieren, stellen Sie sicher, dass Ihre Benutzer keine Legacy-Authentifizierungsprotokolle verwenden. Durch die Implementierung dieser Richtlinie wird die Legacy-Authentifizierung blockiert.
@@ -160,11 +160,11 @@ Die Richtlinie **Baselinerichtlinie: Endbenutzerschutz** ist vorkonfiguriert und
 
 So aktivieren Sie diese Richtlinie und schützen Ihre Benutzer
 
-1. Melden Sie sich beim  **Azure-Portal** als globaler Administrator, Sicherheitsadministrator oder Administrator für bedingten Zugriff an.
+1. Melden Sie sich beim **Azure-Portal**als globaler Administrator, Sicherheitsadministrator oder Administrator für bedingten Zugriff an.
 2. Navigieren Sie zu **Azure Active Directory** > **Bedingter Zugriff**.
 3. Wählen Sie in der Liste der Richtlinien die Option **Baselinerichtlinie: Endbenutzerschutz (Vorschau)** aus.
 4. Legen Sie **Richtlinie aktivieren** auf **Richtline sofort verwenden** fest.
-5. Klicken Sie auf  **Speichern**.
+5. Klicken Sie auf **Speichern**.
 
 > [!WARNING]
 > Bevor Sie diese Richtlinie aktivieren, stellen Sie sicher, dass Ihre Benutzer keine Legacy-Authentifizierungsprotokolle verwenden. Durch die Implementierung dieser Richtlinie wird die Legacy-Authentifizierung blockiert.

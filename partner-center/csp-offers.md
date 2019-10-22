@@ -6,13 +6,13 @@ description: Erfahren Sie mehr zu den verfügbaren Angeboten für Partner im Clo
 author: LauraBrenner
 ms.author: labrenne
 keywords: Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Produkt hinzufügen, an Kunden verkaufen, Partnerangebote, CSP-Angebote, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner, in CSP verkaufen, Azure RI, Azure Reserved Virtual Machine Instances, Azure-Reservierungen, Onlinedienste, Abonnementsoftware, AHUB, SQL Server in Azure, Windows Server in Azure, Kundenabonnements
-ms.localizationpriority: medium
-ms.openlocfilehash: 88739f2a46efca2a60e3c9f841263554980bc329
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.localizationpriority: high
+ms.openlocfilehash: a77e41742689221b77d06d7732b86f367148ab13
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820451"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318455"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Angebote für Partner im Cloud Solution Provider-Programm 
 
@@ -28,7 +28,7 @@ Noch nicht für das Cloud Solution Provider-Programm registriert? Unter [Cloud S
 
 Derzeit können Sie Ihren CSP-Kunden die folgenden Arten von Produkten und Dienstleistungen verkaufen:
 
-- Azure-Reservierungen<br> 
+- Azure Reservations<br> 
 
     Kunden können im Voraus Speicherplatz auf virtuellen Azure-Computern für eine Laufzeit von 1 oder 3 Jahren reservieren.<br>
     
@@ -42,7 +42,7 @@ Derzeit können Sie Ihren CSP-Kunden die folgenden Arten von Produkten und Diens
 
 - Onlinedienste<br>
 
-    *Online Services* ist der neue Name für die Vorgänge, die derzeit als *Abonnements*bezeichnet werden. Um Ihnen das Anordnen mehrerer Produkttypen an einem Ort zu erleichtern, haben wir den Aufgaben Fluss "Abonnement hinzufügen" in den Aufgaben Fluss "Produkte hinzufügen" integriert.<br>
+    *Onlinedienste* ist der neue Name für das, was zurzeit noch als *Abonnements* bezeichnet wird. Um die Bestellung mehrerer Arten von Produkten an einem zentralen Ort zu vereinfachen, haben wir den Aufgabenverlauf „Abonnement hinzufügen“ in den Aufgabenverlauf „Produkte hinzufügen“ integriert.<br>
     
     Weitere Informationen finden Sie unter [Kundenabonnements](customer-subscriptions.md).
 
@@ -50,31 +50,31 @@ Derzeit können Sie Ihren CSP-Kunden die folgenden Arten von Produkten und Diens
 
     Sie können für SaaS-Produkte von unabhängigen Softwareanbietern (ISVs) Abonnements verkaufen. Um unter **Onlinedienste** nur SaaS-Angebote zu finden, legen Sie mithilfe der Filter **Herausgeber** auf **Partner** fest. Dadurch werden alle SaaS-Angebote angezeigt, die für diesen Kunden erworben werden können.<br>
     
-    Informationen zu diesen Produkten finden auch auf der Seite **Marketplace**. Beachten Sie, dass diese Seite auch Informationen zu anderen Produkttypen enthält, die über den Azure-Portal gekauft werden müssen, nicht über Partner Center.<br>
+    Informationen zu diesen Produkten finden auch auf der Seite **Marketplace**. Beachten Sie, dass diese Seite auch Informationen zu anderen Arten von Produkten enthält, die über das Azure-Portal und nicht über das Partner Center erworben werden müssen.<br>
 
     Weitere Informationen finden Sie unter [Verkaufen von Abonnements für Azure Marketplace-Produkte](sell-marketplace-products.md).
 
-## <a name="add-products-page-details"></a>Details der Produktseite hinzufügen
+## <a name="add-products-page-details"></a>Details der Seite „Produkte hinzufügen“
 
-In der folgenden Liste werden die einzelnen neuen Bereiche auf der Seite **Produkte hinzufügen** identifiziert.
+Die folgende Liste identifiziert jeden der neuen Bereiche auf der Seite **Produkte hinzufügen**.
 
-**Produkte hinzufügen** : auf dieser Seite sind alle Produkttypen enthalten, die Sie an Ihre Kunden verkaufen können.
+**Produkte hinzufügen** : Auf dieser Seite sind alle verfügbaren Produkttypen aufgeführt, die Sie an Ihre Kunden verkaufen können.
 
-**Produktkategorien** - **Azure, Online Dienste, Software** wählen Sie den Typ des Produkts aus, an dem Sie interessiert sind, um nur diese Produkte anzuzeigen.
+**Produktkategorien** - **Azure, Onlinedienste, Software** Wählen Sie den Produkttyp aus, der Sie interessiert, um nur Produkte dieser Kategorie anzuzeigen
 
-**Segment** : identifiziert den allgemeinen Geschäftstyp, z. b. kommerziell oder Government, an den Sie verkaufen möchten
+**Segment**: Gibt den allgemeinen Unternehmenstyp an, an den Sie verkaufen möchten, beispielsweise gewerblich oder Behörde
 
-**Herausgeber** : Wählen Sie aus, welche Arten von Produkten Sie sehen möchten: apps, die von Microsoft oder von Drittanbietern erstellt wurden.
+**Herausgeber**: Wählen Sie aus, welche Produktarten Sie anzeigen möchten: von Microsoft oder von Drittanbietern erstellte Apps.
 
-**Abrechnungstyp** : gibt an, ob das Produkt für die Anzahl von Lizenzen oder für die Nutzung abgerechnet wird.
+**Abrechnungstyp**: Gibt an, ob das Produkt nach Anzahl der Lizenzen oder nutzungsbasiert abgerechnet wird
 
-**Kategorie** : gibt den Typ des Unternehmens an, den das Produkt unterstützt, und ob es eine Testversion bietet.
+**Kategorie**: Gibt den Typ des Unternehmens an, der vom Produkt unterstützt wird, und ob eine Testversion angeboten wird
 
-**SKU anzeigen, Produktanzeigen** : Wählen Sie diese Option aus, um Zwischenprodukt-und SKU-Listen zu wechseln. **Produkte** listet die einzelnen Produkte einzeln auf. **SKU** listet Produktgruppen auf.
+**SKU anzeigen, Produkt anzeigen**: Mit dieser Option können Sie zwischen der Produkt- und der SKU-Liste umschalten. **Produkte** listet jedes Produkt einzeln auf, **SKU** listet dagegen Produktgruppen auf
 
 ## <a name="buy-csp-offers"></a>Erwerben von CSP-Angeboten
 
-Wenn Sie Produkte und Dienste im Auftrag ihrer CSP-Kunden kaufen möchten, wählen Sie die gewünschten Elemente aus, fügen Sie Sie Ihrem Warenkorb hinzu, wodurch eine Bestellung entsteht, und überprüfen und senden Sie dann die Bestellung. Der allgemeine Ablauf wird im Folgenden beschrieben. (Weitere Informationen zu Bestellungen eines bestimmten Produkts finden Sie über die obigen Links.)
+Um Produkte und Dienstleistungen im Auftrag Ihrer CSP-Kunden zu kaufen, wählen Sie die Artikel aus, die der Kunde wünscht. Fügen Sie sie Ihrem Einkaufswagen hinzu, wodurch eine Bestellung erstellt wird, prüfen Sie dann die Bestellung, und senden Sie sie ab. Der allgemeine Ablauf wird im Folgenden beschrieben. (Weitere Informationen zu Bestellungen eines bestimmten Produkts finden Sie über die obigen Links.)
 
 1. Wählen Sie **Kunden** im Menü „Partner Center“ aus, und suchen Sie den Kunden, der bei Ihnen kaufen möchte. 
 

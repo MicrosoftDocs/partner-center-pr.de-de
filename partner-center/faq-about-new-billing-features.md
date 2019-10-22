@@ -6,13 +6,13 @@ Description: Im Folgenden finden Sie häufig gestellte Fragen zur jährlichen Ab
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-ms.localizationpriority: medium
-ms.openlocfilehash: d595c05adac5ffc57a52d8635abf80cb0b3f375d
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.localizationpriority: high
+ms.openlocfilehash: 6f9e3468cd9030be24d66709f3d36aa63b941d2b
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820318"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318822"
 ---
 # <a name="faq-about-new-billing-features"></a>Häufig gestellte Fragen zu neuen Abrechnungsfunktionen
 
@@ -24,7 +24,7 @@ ms.locfileid: "68820318"
 
 Im Folgenden finden Sie häufig gestellte Fragen zur jährlichen Abrechnung und zu kostenlosen Testversionen von Partner Center. 
 
-## <a name="in-this-section"></a>In diesem Abschnitt
+## <a name="in-this-section"></a>Inhalt dieses Abschnitts
 
 -   [Häufig gestellte Fragen zur jährlichen Abrechnung](#annualbillingfaq)
 
@@ -586,14 +586,14 @@ Die Abstimmungsdatei vom 15. Juni enthält in diesem Fall nur die folgenden Rec
 Der Partner setzt das Abonnement am 5. Juli aus und reaktiviert es am 15. Juli. Die Abstimmungsdatei vom 15. Juli enthält in diesem Fall die folgenden Rechnungspositionen:
 
 - 30 USD Gebühr für den Leistungszeitraum 1. Juli – 31. Juli.
-- -26,14 USD Stornierungsgutschrift für den Leistungszeitraum 5. Juli – 31. Juli. Stornierungen nach 30 Tagen ab Kaufdatum führen zu einer anteiligen Gutschrift. Berechnung: (monatlicher Preis/Tage im gesamten Servicezeitraum) x Tage in anteiligem Servicezeitraum x Lizenzanzahl x (-1) = (30/31) x 27 x 1 x (-1) =-26,14
-- $16,45 Reaktivierungs-Abrechnung für Dienst Zeitraum 15. Juli-31. Juli. Reaktivierungen nach 30 Tagen ab dem Kaufdatum werden anteilig berechnet. Berechnung = (30/31) x 17 x 1 = 16,45.
+- -26,14 USD Stornierungsgutschrift für den Leistungszeitraum 5. Juli – 31. Juli. Stornierungen nach 30 Tagen ab Kaufdatum führen zu einer anteiligen Gutschrift. Berechnung: (monatlicher Preis/Tage im gesamten Leistungszeitraum) x Tage im anteiligen Leistungszeitraum x Lizenzanzahl x (-1) = (30/31) x 27 x 1 x (-1) = -26,14
+- 16,45 USD Reaktivierungsgebühr für den Leistungszeitraum 15. Juli–31. Juli. Reaktivierungen nach 30 Tagen ab dem Kaufdatum werden anteilig berechnet. Berechnung: (30/31) x 17 x 1 = 16,45.
 
 |**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
 |01.07.2018   |31.07.2018   |30 USD  |1   |30 USD   |Gebühr für Zyklus |
 |05.07.2018   |31.07.2018   |   -26,14 USD   |1   |-26,14 USD|Stornierungsgebühr |
-|7/15/2018   |31.07.2018   |-$16,45   |1   |$16,45|Aktivierungsgebühr |
+|15.07.2018   |31.07.2018   |16,45 USD   |1   |16,45 USD|Aktivierungsgebühr |
 
 Die Abstimmungsdatei vom 15. August enthält in diesem Fall Folgendes:
 - 30 USD Gebühr für den Leistungszeitraum 1. August – 31. August.

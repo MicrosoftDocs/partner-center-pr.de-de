@@ -1,18 +1,18 @@
 ---
 title: Sicherheitsanforderungen für Partner – FAQ | Partner Center
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/27/2019
 description: Häufig gestellte Fragen zu den Sicherheitsanforderungen für Partner
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
-ms.localizationpriority: medium
-ms.openlocfilehash: 353e38853edb29d9fdea6692db34a239a31b2382
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: e9471ae8dd0e478540e30a879d010ffb0c1f1bc0
+ms.sourcegitcommit: c388fae97437b727edeb0de3712bd2822010ecd6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215656"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "71678302"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Häufig gestellte Fragen zu den Sicherheitsanforderungen für Partner
 
@@ -145,6 +145,9 @@ Microsoft stellt die MFA über die Implementierung der Basisschutzrichtlinien [M
 ### <a name="if-i-already-have-an-mfa-solution-what-actions-do-i-need-to-take"></a>Wenn ich bereits über eine MFA-Lösung verfüge, welche Maßnahmen muss ich ergreifen?
 
 Aufgrund dieser Sicherheitsanforderungen müssen Benutzer in einem Partnermandanten sich beim Zugriff auf kommerzielle Microsoft-Clouddienste mit MFA-Verfahren anmelden. Zur Erfüllung dieser Anforderungen kann auch eine Drittanbieterlösung eingesetzt werden. Microsoft stellt unabhängigen Identitätsanbietern keine Validierungstests mehr bereit, um die Kompatibilität mit Azure Active Directory zu überprüfen. Wenn du dein Produkt auf Interoperabilität testen möchtest, findest du weitere Informationen in diesen [Richtlinien](https://www.microsoft.com/download/details.aspx?id=56843).
+
+> [!IMPORTANT]
+> Wenn Sie eine Drittanbieterlösung verwenden, muss überprüft werden, ob die Lösung den AMR-Anspruch (Authentication Method Reference) ausgibt, der den MFA-Wert enthält. Details zur Überprüfung, ob Ihre Drittanbieterlösung den erwarteten Anspruch ausgibt, finden Sie unter [Testing the Partner Security Requirements](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements) (Testen der Partneranforderungen an die Sicherheit).
 
 ### <a name="what-verification-method-can-i-use-to-authenticate-mfa"></a>Welche Verifizierungsmethode kann ich für die Authentifizierung per MFA verwenden?
 
@@ -314,6 +317,18 @@ Die reine App-Authentifizierung ist nicht betroffen, weil keine Benutzeranmeldei
 ### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>Kann ich als CPV die reine App-Authentifizierung verwenden, um Zugriffstoken zu erhalten?
 
 Nein. Control Panel-Anbieter können nicht die reine App-Authentifizierung nutzen, um Zugriffstoken im Namen eines Partners anzufordern. Sie müssen das sichere Anwendungsmodell implementieren, bei dem alle Apps und Benutzer authentifiziert werden müssen.
+
+## <a name="enforcement"></a>Erzwingen
+
+### <a name="i-am-using-a-third-party-mfa-solution-and-i-am-being-blocked-what-should-i-do"></a>Ich verwende eine MFA-Lösung eines Drittanbieters und werde blockiert. Was soll ich tun?
+
+Um zu überprüfen, ob das Konto, das den Zugriff auf die Ressourcen versucht hat, mit mehrstufiger Authentifizierung herausgefordert wurde, überprüfen wir den Anspruch [Verweis auf die Authentifizierungsmethode](https://tools.ietf.org/html/rfc8176), um festzustellen, ob MFA aufgelistet ist. Einige Drittanbieterlösungen geben diesen Anspruch nicht aus oder schließen den MFA-Wert nicht ein. Wenn der Anspruch fehlt oder der MFA-Wert nicht aufgelistet ist, gibt es keine Möglichkeit, herauszufinden, ob das authentifizierte Konto mit mehrstufiger Authentifizierung herausgefordert wurde. Sie müssen mit dem Anbieter Ihrer Drittanbieterlösung zusammenarbeiten, um zu bestimmen, welche Maßnahmen ergriffen werden müssen, damit die Lösung den Verweis auf die Authentifizierungsmethode-Anspruch ausgibt.
+
+Wenn Sie nicht sicher sind, ob Ihre Drittanbieterlösung den erwarteten Anspruch ausgibt oder nicht, lesen Sie [Testing the Partner Security Requirements](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0) (Testen der Partneranforderungen an die Sicherheit).
+
+### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA blockiert meinen Support meines Kunden über AOBO. Wie kann ich vorgehen?
+
+Bei der technischen Durchsetzung der Sicherheitsanforderungen für Partner wird überprüft, ob das authentifizierte Konto eine Herausforderung für mehrstufige Authentifizierung erhalten hat. Wenn keine Herausforderung erfolgt ist, werden Sie auf die Anmeldeseite umgeleitet und zur erneuten Authentifizierung aufgefordert. Wenn Ihre Domäne keine Verbunddomäne ist, werden Sie nach erfolgreicher Authentifizierung aufgefordert, die mehrstufige Authentifizierung einzurichten. Nach dem Abschluss dieses Vorgangs können Sie Ihre Kunden mithilfe von AOBO verwalten. Wenn Ihre Domäne eine Verbunddomäne ist, müssen Sie sicherstellen, dass das Konto eine Herausforderung zur mehrstufigen Authentifizierung empfängt.
 
 ## <a name="key-resources"></a>Wichtige Ressourcen
 

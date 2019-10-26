@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Finanz Guthaben, Steuergutschriften, deutsche Steuergutschrift, Formular Steuergutschrift
 ms.localizationpriority: medium
-ms.openlocfilehash: e386bc2eda01cef16173569f4b5288c4bba2d02a
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
+ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921466"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "72892409"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Stellen Sie sicher, dass Sie für die zurück Haltungs Steuern
 
@@ -46,15 +46,20 @@ Füllen Sie dieses [Formular](https://query.prod.cms.rt.microsoft.com/cms/api/am
 ### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a>Übermitteln der Steuergutschrift und der Zertifikate
 
 1. Wählen Sie das **Fragezeichen** **(?)** in der rechten Ecke Ihres Dashboards im Partner Center aus.
-2. Wählen Sie **Partner Supportanfragen**aus.
-3. Wählen Sie **neue Anforderung** aus, und wählen Sie dann unter **Details** **Hilfe bei der Partner Rechnung, Zahlungs-oder Abstimmungs Datei aus.**
+
+2. Wählen Sie **CSP**aus.
+
+3. Wählen Sie unter " **CSP – Abrechnung und Zahlungen**" den Problemtyp "- **abhaltungs Steuer** " aus, und wählen Sie **Ja** 
+
 4. Wenn Sie die Service Request übermitteln, stellen Sie sicher, dass Sie das Steuer Guthaben-Formular und digitale Kopien der Steuer Zertifikate anfügen.
+
 5. Wenn Sie ein nicht englischsprachiges Steuer Zertifikat über eine englische Service Request einreichen, ist eine Übersetzung des Steuer Zertifikats erforderlich.
+
 6. Wir werden Sie direkt per e-Mail oder Telefon kontaktieren.
 
 Wenn Sie die Zahlungsmethode " **Rechnungs** Zahlung" verwenden, wird das verbleibende Guthaben auf der Rechnung in ungefähr einer Woche gelöscht, sobald die Steuer Zertifikate erfolgreich empfangen und überprüft wurden. 
 
-Die Steuer Zertifikate sollten nur für Microsoft-Rechnungen gelten. Wenn Sie andere Unternehmen haben, die die Zertifikate enthalten, geben Sie den Betrag so an, dass wir den Betrag in unserer internen Verarbeitung ausschließen können, aber dennoch vollständige Einblicke in die Gesamtanzahl der Zertifikate haben. 
+Die Steuer Zertifikate sollten nur für Microsoft-Rechnungen gelten. Wenn in den Zertifikaten andere Unternehmen enthalten sind, geben Sie den Betrag an, damit wir ihn in unserer internen Verarbeitung ausschließen können, aber dennoch vollständige Einblicke in die Gesamtanzahl der Zertifikate haben. 
 
 ## <a name="instructions-for-completing-the-withholding-tax-credit-form-for-germany"></a>Anweisungen zum Abschließen der Gutschrift "Tax Credit" für Deutschland
 

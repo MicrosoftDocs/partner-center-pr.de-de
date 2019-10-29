@@ -1,7 +1,7 @@
 ---
 title: Nichtbezahlung, Betrug oder Missbrauch | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 10/25/2019
 description: Strategien für die Verwaltung von Onlinetransaktionsrisiken, einschließlich der Nichtzahlung von Waren und Dienstleistungen durch den Kunden sowie betrügerische Aktivitäten oder Missbrauch
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: Betrug, Missbrauch, akzeptable Nutzung, Nutzungsrichtlinie, Nichtzahlung, Kunde bezahlt die Rechnung nicht, Onlinerisiko, Diebstahl von Diensten, Dienstmissbrauch, Abonnements aussetzen
@@ -9,16 +9,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 12fa863cfecc2e0190e1bfeb842b608ffd3bbaf2
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 2e8ab123b4b735f685c7caf1ba740c04c93fd134
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667883"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978727"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Nichtbezahlung, Betrug oder Missbrauch
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -81,9 +81,9 @@ Diese Empfehlungen können Ihnen dabei helfen, Richtlinien und Praktiken zu entw
 Detailliertere Strategien zur Minderung des Onlinerisikos finden Sie in der [Anleitung zur Verwaltung von Onlinetransaktionsrisiken](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip).
 
 > [!IMPORTANT]  
-> Wenn Microsoft eine Partner- oder Kundenaktivität erkennt, die von uns als Verstoß gegen die Nutzungsrichtlinie angesehen wird, werden wir entsprechende Maßnahmen ergreifen. Der Kunde kann unter Umständen sofort ausgesetzt werden. Sie werden über die Durchsetzungsmaßnahmen informiert oder erhalten von Microsoft aktuelle Informationen zu Ihren Anfragen.
+> Wenn Microsoft eine Partner- oder Kundenaktivität erkennt, die von uns als Verstoß gegen die Nutzungsrichtlinie angesehen wird, werden wir entsprechende Maßnahmen ergreifen. Der Kunde kann unter Umständen sofort suspendiert werden. Sie werden über die Durchsetzungsmaßnahmen informiert oder erhalten von Microsoft aktuelle Informationen zu Ihren Anfragen.
 
- 
+ Informationen zu Sicherheit und mehrstufiger Authentifizierung finden Sie unter [Partner Sicherheitsanforderungen](partner-security-requirements.md) .
 
  
 

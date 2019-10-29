@@ -1,19 +1,19 @@
 ---
 title: Microsoft Partner Network-Mitgliedschaft | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 10/25/2019
 description: Erfahren Sie mehr über die Vorteile einer Partnerschaft mit Microsoft. Im Microsoft Partner Network finden Sie das größte Angebot von Produkten in der Branche sowie Programmoptionen für die Abgrenzung Ihres Unternehmens, für die Markteinführung und für den Verkauf Ihrer Lösungen.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Partner, Partnerschaft, MPN, Microsoft Partner Network Action Pack, MAPS, Aktion Pack-Abonnement, Vorteile, MPN-Vorteile, Mitgliedschaft, Silver, Gold, Kompetenzen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 85c4fa8c0b8d6e0e680f4e7ce6f4b3498bdfcd0a
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 109333a4cea7d19ff18708cc55d5c0b87b2bb13f
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820619"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978750"
 ---
 # <a name="partner-with-microsoft"></a>Partner von Microsoft
 
@@ -21,7 +21,7 @@ Wenn Sie an einem Microsoft-Partnerprogramm teilnehmen, werden Sie Teil einer gl
 
 Weitere Informationen zu den Vorteilen einer Partnerschaft mit Microsoft finden Sie unter [Warum Microsoft?](https://partner.microsoft.com/business-opportunities/why-microsoft). 
 
-## <a name="join-the-microsoft-partner-network"></a>Dem Microsoft Partner Network beitreten
+## <a name="join-the-microsoft-partner-network"></a>Microsoft Partner Network beitreten
 
 <!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/membership)-->
 
@@ -35,11 +35,11 @@ Weitere Informationen zum Microsoft Partner Network (MPN) finden Sie auf der [MP
 
 Wenn Sie dem Microsoft Partner Network beitreten möchten, wechseln Sie zur Seite [ **Mitgliedschaft** ](https://partner.microsoft.com/membership) auf der MPN-Website, und wählen Sie **Registrieren** oder **Jetzt Mitglied werden** aus.
 
-## <a name="microsoft-partner-network-membership-types"></a>Arten der Microsoft Partner Network-Mitgliedschaft
+## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>Machen Sie die Microsoft Partner Network Mitgliedschaft für Sie
 
-<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/membership)-->
+<!-- 10/25/2019 The content below content from the Membership pages of the MPN site (https://partner.microsoft.com/membership) and additional updated content.-->
 
-Das Microsoft Partner Network bietet Ihnen drei Arten der Mitgliedschaft, die im Folgenden beschrieben sind. Jede davon umfasst eine Reihe von Vorteilen für das Wachstum Ihres Unternehmens. Sobald Sie Ihre Ziele erreichen, nehmen Sie entsprechend Ihrer einzigartigen geschäftlichen Anforderungen am Programm teil, um auf die Vorteile zuzugreifen und Ihre Partnerschaft mit uns und anderen Partnern im Netzwerk weiterzuentwickeln.
+Wenn Sie Ihre geschäftlichen Ziele erreichen, nehmen Sie an dem Programm Teil, das Ihren individuellen Anforderungen entspricht, um auf weitere Vorteile zuzugreifen, und entwickeln Sie Ihre Beziehung mit uns und anderen Partnern im Netzwerk.
 
 ### <a name="action-pack"></a>Action Pack
 
@@ -48,10 +48,11 @@ Ein Action Pack bietet Software, Support und Vorteile für Unternehmen, die in e
 In den folgenden Ressourcen erfahren Sie mehr über das Action Pack:
 
 - [Bringen Sie Ihr Cloudgeschäft mit dem Microsoft Action Pack voran](https://partner.microsoft.com/membership/action-pack)
+
 - [Action Pack erwerben](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >Wir verschieben die Action Pack-Abonnementverwaltung vom Partner Membership Center (PMC) zu Partner Center. Diese Verschiebung wird in den nächsten Monaten stattfinden. Bitte lesen Sie die Informationen unter [Action Pack erwerben](mpn-get-action-pack.md) sorgfältig durch, damit Sie wissen, wie und wo Sie verlängern können.  
+    >Sie verwalten Ihr Action Pack-Abonnement im Partner Center. Wenn Ihr Unternehmen noch nicht aus dem Partner Membership Center in Partner Center gewechselt hat, lesen Sie [vorbereiten für Ihren Umstieg auf Partner Center](partner-center/prepare-pmc-pc-migration.md) .  
 
 - [Verlängern von MPN-Angeboten](renew-mpn-offers.md)
 
@@ -73,5 +74,5 @@ In den folgenden Ressourcen erfahren Sie mehr über Network-Mitgliedschaftsvorte
 - [Verwalten Ihrer MPN-Vorteile in Partner Center](manage-your-partner-network-benefits.md)
 - [Grundlegende Anforderungen](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>Weitere Informationen
+## <a name="see-also"></a>Weitere Informationen:
 - [Umsatzsteigerung für Microsoft-Partner](grow-your-business.md)

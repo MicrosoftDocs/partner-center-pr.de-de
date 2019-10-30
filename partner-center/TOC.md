@@ -37,7 +37,7 @@
 ## [CSP-Verträge, Preislisten und Angebote](csp-documents-and-learning-resources.md)
 ## [Regionale CSP-Märkte und Währungen](regional-authorization-overview.md)
 ## [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](confirm-consent.md)
-## [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag (Vorschauphase)](confirm-customer-agreement.md)
+## [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag (confirm-customer-agreement.md)
 
 ## [Bewerben für den Verkauf in nationalen Clouds](csp-national-clouds-overview.md)
 ### [Partner Center für Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

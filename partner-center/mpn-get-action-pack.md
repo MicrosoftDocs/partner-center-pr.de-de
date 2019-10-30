@@ -1,18 +1,18 @@
 ---
 title: Erwerben oder Verlängern Ihrer Guthabenangebote | Partner Center
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/25/2019
 description: Hier erfahren Sie, wie Sie ein Microsoft Action Pack erstmalig erwerben oder verlängern.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Action Pack, MAPS, MAPS verlängern, Action Pack verlängern, Action pack erwerben
 ms.localizationpriority: high
-ms.openlocfilehash: c4e1f58bd703c1809f1d315a8cc2d8c61fee8fa3
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 544059c06d0e4dd0714ac2fd29b8d2e4291deda1
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318852"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978741"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Erstmaliges Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements oder der Kompetenzen „Silver“ oder „Gold“
 
@@ -21,7 +21,7 @@ ms.locfileid: "71318852"
 -  Partner Center
 -  Partner Membership Center
 
-Jetzt können Sie auf dem Partner Center-Dashboard Ihre Guthabenangebote kaufen oder verlängern, einschließlich des Microsoft Action Pack-Abonnements und der Kompetenzen „Silver“ und „Gold“. 
+Im Partner Center-[Dashboard](https://docs.microsoft.com/partner-center/) können Sie nun ihre Vorteilsangebote, z.B. das Microsoft Action Pack-Abonnements und die Silver- und Gold-Kompetenzen, erwerben oder verlängern. 
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Erstmaliges Erwerben eines Microsoft Action Pack-Abonnements
 
@@ -36,23 +36,13 @@ Weitere Details zum Action Pack finden Sie auf der [Microsoft Partner Network](h
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>Verlängern eines Microsoft Action Pack-Abonnements
 
 >[!IMPORTANT]
->Sie verwalten jetzt Ihr Action Pack-Abonnement auf der Partner Center-Website – dieser Website. 
+>Sie verwalten Ihr Action Pack-Abonnement jetzt auf der Partner Center-Website.
 
 ### <a name="check-your-renewal-eligibility"></a>Überprüfen Ihrer Berechtigung für eine Verlängerung
-
-1. Melden Sie sich bei [Partner Membership Center (PMC)](https://partner.microsoft.com/_login?authType=OpenIdConnect) an.
-
-2. Nach der Anmeldung:
-
-    - können Sie die Schritte zum Verlängern Ihres Abonnements in PMC durchführen, oder
-
-    - erhalten Sie eine Einladung, Ihr Abonnement in Partner Center zu verlängern.
 
 >[!IMPORTANT]
 >Wenn Sie zum Verlängern Ihres Abonnements in Partner Center eingeladen werden, beachten Sie geänderte Richtlinie für das Zeitfenster der Verlängerung. Sie können das Abonnement erst verlängern, wenn es abgelaufen ist. Wenn Ihr Abonnement beispielsweise am 22. Juni abläuft, können Sie es ab dem 23. Juni innerhalb von 30 Tagen verlängern.       
 >Sie finden das Ablaufdatum Ihres Abonnements auf der Seite [**Mitgliedschaftsangebote**](https://partnercenter.microsoft.com/pcv/partnership/offers) (Anmeldung erforderlich). Wenn Sie zur Verlängerung in Partner Center berechtigt sind, führen Sie die folgenden Schritte aus.  
-
-
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>So verlängern Sie ein Microsoft Action Pack-Abonnement in Partner Center
 

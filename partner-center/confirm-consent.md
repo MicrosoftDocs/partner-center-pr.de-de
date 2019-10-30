@@ -7,23 +7,26 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Kunden, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Vorlagen für Kundenverträge
 ms.localizationpriority: medium
-ms.openlocfilehash: fc82d3156dd50c3ad05b141f1715634031cad202
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 13bd3ee03a346448ca8131713420cf75e555195b
+ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820516"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "73045649"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag
 
-**Gilt für**
+**Zielgruppe**
 -  Partner Center
 
 > [!NOTE]
 > Die Vertragsressource wird zurzeit von Partner Center nur in der Microsoft Public Cloud unterstützt. Gilt nicht für:
 > * Partner Center-Betreiber ist 21Vianet
-> * Partner Center für Microsoft-Cloud Deutschland
+> * Partner Center für Microsoft Cloud Deutschland
 > * Partner Center für Microsoft Cloud for US Government
+
+>[!NOTE]
+>Diese Vereinbarung gilt bis zum 31. Januar 2020. Nach diesem Datum müssen alle Kunden, vorhandene und neue, den neuen Microsoft-Kundenvertrag signieren. Weitere Informationen finden Sie unter [bestätigen der Kundenakzeptanz des Microsoft-Kunden Vertrags](confirm-customer-agreement.md).
 
 Als Partner müssen Sie die Zustimmung Ihres Kunden zum Microsoft Cloud-Vertrag einholen, bevor Sie Microsoft-Produkte und -Dienste für diesen Kunden bestellen können. Um Partner bei der Einhaltung von Complianceanforderungen zu unterstützen, bittet Microsoft die Partner, die Zustimmung durch Bereitstellung der folgenden Details zu der Person, die dem Vertrag zugestimmt hat, zu bestätigen: 
 
@@ -87,7 +90,7 @@ Beachten Sie, dass Sie dafür ein Administrator-Agent oder Vertriebsbeauftragter
 2. Wählen Sie **Kontoinformationen** aus.
 3. Wählen Sie unter **Microsoft Cloud-Vertrag** die Option **Aktualisieren** aus.
 
-![Update/Aktualisieren](images/mca/mca4.png)
+![die Registerkarte „Update“](images/mca/mca4.png)
 
 4. Geben Sie **Vorname**, **Nachname**, **E-Mail-Adresse** und **Telefonnummer** (optional) des Benutzers ein, der dem Vertrag zugestimmt hat.
 5. Geben Sie unter **Datum der Vertragsannahme** das entsprechende Datum ein. Dieses kann nicht auf ein Datum in der Zukunft festgelegt werden.

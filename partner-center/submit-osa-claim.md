@@ -1,101 +1,95 @@
 ---
-title: Übermitteln Ihrer OSA-Ansprüche in Partner Center | Partner Center
+title: Erstellen einer Kunden Zuordnung mithilfe des cpor-Modells | Partner Center
 ms.topic: article
-ms.date: 10/04/2019
-description: Übermitteln eines OSA-Verkaufsprovisionsanspruchs oder eines ISV-Umsatzzuordnungsanspruchs
+ms.date: 10/29/2019
+description: Erstellen einer Kunden Zuordnung mithilfe des cpor-Modells
 author: LauraBrenner
 ms.author: labrenne
-keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel, OSA, ISV, Umsatzzuordnung
+keywords: anspruchsansprüche, Co-op-Ansprüche, Co-op-Geld, OSU, OSA, ISV, Umsatz Zuordnung
 ms.localizationpriority: medium
-ms.openlocfilehash: b61b1da0a7faa3008996785dd092b2e1bae12b8e
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 9acac203d44e3942f9a07bc5af90528e558bce39
+ms.sourcegitcommit: 014669c26592a3ab35c2aa7f3ff615f5f1091752
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425176"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73083866"
 ---
-# <a name="submit-your-osa-claims-in-partner-center"></a>Übermitteln Ihrer OSA-Ansprüche in Partner Center
-
 **Zielgruppe**
 
 -  Partner Center
 
-Als OSA-Partner oder ISV für Dynamics können Sie Ihre Ansprüche im Partner Center übermitteln. 
+# <a name="create-a-customer-association-using-the-cpor-model"></a>Erstellen einer Kunden Zuordnung mithilfe des cpor-Modells
 
-Bevor Sie einen Anspruch erstellen und übermitteln können, müssen Sie die folgenden Anforderungen erfüllen: 
--   **Sie sind beim Microsoft Partner Network (MPN) registriert** und besitzen eine aktive Microsoft Partner Network-Vereinbarung. Um sich beim Microsoft Partner Network zu registrieren, besuchen Sie die Partnersite. 
--   **Sie sind zertifizierter Software Advisor für Microsoft Dynamics** mit einer aktiven CSA-Vereinbarung (Certified Software Advisor) für Microsoft Dynamics. 
--   **Sie haben Ihre Bank- und Steuerinformationen** im Partner Center eingegeben. 
--   **Sie erfüllen Sie Anforderungen für die OSA-Verkaufsberechtigungszertifizierung und den Umsatz**. (Ausführliche Informationen finden Sie im OSA-Sell Guide unter dem OSA-Abschnitt auf aka.ms/partnerincentives.) Dies gilt nicht für ISVs, die nur die Umsatz Zuordnung suchen. 
+Am 1. Oktober 2019 begann Microsoft, das Anspruchs Partner of Record-Modell (cpor) zu verwenden, um die Zuordnungen zu verwalten, die Sie mit Ihren Microsoft 365 und Dynamics 365-Kunden in Bezug auf die Online Services Advisory (OSA) verkaufen, die Nutzung von Onlinediensten (OSU)- Microsoft 365-und OSU-Business-Anwendungs Incentives.
 
-## <a name="submitting-your-claim"></a>Übermitteln Ihres Anspruchs
+Wenn Sie Ihren Anspruch einreichen, wird er von Microsoft überprüft. Wir werden möglicherweise an dieser Stelle Weitere Informationen anfordern. Wir benachrichtigen den Kunden auch über Ihre Zuordnungs Anforderung. Kunden haben fünf Werktage, um sich abzumelden. Wenn Sie sich nicht entscheiden, ist die Zuordnung zu diesem spezifischen Mandanten und der Arbeitsauslastung offiziell. An diesem Punkt haben Sie Zugriff auf die Nutzungsdaten des Kunden. 
 
-Ab dem Datum der Transaktion haben Sie 90 Tage, um Ihren Anspruch zu übermitteln. Wenn Sie Ihren Anspruch später als 90 Tage nach einer Transaktion übermitteln, erhalten Sie nicht den Verkaufsincentive aus diesem Verkauf. 
+Zum Vervollständigen eines Anspruchs benötigen Sie die folgenden Informationen:
 
-Wenn Sie ein ISV-Partner sind, dessen Lösungen geholfen haben, einen Kunden zur Auswahl einer Microsoft Dynamics 365-Lösung zu bringen, sind Sie auch berechtigt, die Zuordnung des Umsatzes zu beanspruchen.   
+- Die **MPN-ID** für die Entität, die den Anspruch macht.
 
-## <a name="payment-schedule"></a>Zahlungsplan
+- **Domänen Name** des Kunden [Suchen](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-Sie erhalten die Zahlung für genehmigte Incentiveansprüche innerhalb von 45 Tagen nach dem Ende des Einnahmenzeitraums. Nach dem Ende der Einnahmenzeitraums haben Sie 90 Tage, um eine Zahlung anzufechten. Informationen zur Berechnung von Zahlungen und dazugehörigen Methoden finden Sie im OSA-Verkaufshandbuch, das sich unter „aka.ms/partnerincentives“ im OSA-Abschnitt befindet.
+- Verzeichnis- **ID** oder Mandanten- **ID** des Kunden [Suchen](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-## <a name="maintaining-your-program-eligibility"></a>Aufrechterhalten Ihrer Programmberechtigung
+- Der **Lösungs Bereich**, z. b. Business Applications oder Microsoft 365
 
-Microsoft bewertet monatlich die Berechtigung für den Online Services Advisor-Verkaufsincentive hinsichtlich Einnahmen, Berechnung und Zahlung. Sie müssen bestimmte Berechtigungskriterien erfüllen, bevor Microsoft Incentivezahlungen genehmigen und freigeben kann. Details hierzu finden Sie im OSA-Verkaufshandbuch, das sich unter „aka.ms/partnerincentives“ im OSA-Abschnitt befindet.
+- Die **Aktivität** , die Sie ausgeführt haben, und der Anspruchstyp, den Sie erstellen möchten, z. b. vor der Verkäufe, Verwendung oder Umsatz Zuordnung
 
-## <a name="submit-an-osa-sell-fee-claim"></a>Übermitteln eines OSA-Verkaufsprovisionsanspruchs
+- **Kontakt Name**, Titel und e-Mail-Adresse Ihres Kunden
 
-Führen Sie die folgenden Schritte aus, um einen Incentiveanspruch im Partner Center zu übermitteln.  
+- Für Dynamics 365 müssen Sie auch den **technischen Kontakt** Namen, den Titel und die e-Mail-Adresse Ihres Kunden angeben.
+
+- **Kontakt Name** und e-Mail-Adresse Ihres Unternehmens
+
+- Sie erstellen einen **Namen** für diesen Anspruch.
+
+- Die von Ihnen beanspruchten **Produkte** oder Arbeits Auslastungen
+
+- Der **Ausführungs Nachweis (PoE)** , z. b. eine vom Kunden signierte Anweisung. Sie können auch eine zu verwendende Poe-Vorlage herunterladen.
+
+- Für Partner, die nur die Umsatz Zuordnung beanspruchen: **Name des Dynamics-Lösungs Verkäufers**, **Kunden Name**und **Name von ISV-Produkt/-Lösung**. 
+
+Außerdem sollten Sie die folgenden Punkte kennen:
+- Wenn Sie über Microsoft 365 Kunden verfügen, müssen Sie Sie erneut zuordnen, um die OSU-Anreize mithilfe dieses Prozesses zu erhalten.
+- Wenn Sie über vorhandene Zuordnungen mit Dynamics 365 oder Power BI Kunden verfügen, bleiben diese Zuordnungen bis zum Ablauf Ihrer Abonnements gültig.
+- Ein Kunde kann über mehrere Partner verfügen, aber die einzelnen Arbeits Auslastungen (für OSU-Microsoft 365) oder das Abonnement (für OSA-Sell und OSU-Business Applications) können nur einem Partner zugeordnet werden.
+
+## <a name="create-a-customer-association"></a>Erstellen einer Kunden Zuordnung
+1.  Wählen Sie im Partner Center-Dashboard unter " **Incentives**" die Option **Übersicht**aus, und wählen Sie dann **Kunden Zuordnungen**aus. 
+
+2.  Wählen Sie am oberen Rand der Seite Kunden Zuordnungen die Option **+ Customer Association**aus.
+
+3.  Wählen Sie die **MPN-ID** des Partner Standorts aus, der dem Kunden zugeordnet werden soll, und fügen Sie dann den Domänen Namen und die Verzeichnis-ID des Kunden hinzu. [Wo sind diese?](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+
+Klicken Sie auf **Weiter**.
+
+4.  Wählen Sie den projektmappenbereich und die **Aktivität**aus. 
+
+>[!Note]
+
+>Wenn Sie Business Applications auswählen, wählen Sie entweder **Nutzung und/oder vorab Verkäufe**oder **Umsatz**Zuordnung aus, und klicken Sie dann auf **weiter**. 
+
+>Wenn Sie Umsatz Zuordnung auswählen, werden Sie aufgefordert, etwas andere Informationen als die unten aufgeführten Informationen zu erhalten. 
+
+5.  Geben Sie die entsprechenden Informationen auf der Seite **Customer zuordnen** ein, und wählen Sie dann **Anspruch erstellen**aus.
+
+6.  Wählen Sie die mit dieser Kunden Zuordnung verknüpften Produkte aus, und klicken Sie dann auf **weiter**.
+
+7.  Vervollständigen Sie die Kundenkontaktinformationen und die Kontaktinformationen Ihres Unternehmens. Alle Felder sind erforderlich. 
+
+>[!Note]
+
+Wenn Ihr Produkt Dynamics 365 ist und das ausgewählte Produkt mehrere Abonnements für diesen bestimmten Kunden enthält, müssen Sie auch die Abonnement-ID eingeben.
+
+8.  Stellen Sie Ihre Ausführungs Prüfung (PoE) bereit. Sie können Sie in das Feld ziehen, eine eigene unterstützende Dokumentation durchsuchen oder eine Vorlage verwenden, indem Sie **Vorlage herunterladen**auswählen. 
+
+9.  Fügen Sie Kommentare hinzu, und speichern Sie Sie, und wählen Sie dann **Anspruch senden**aus. Wir senden eine e-Mail an den Kunden, der die Genehmigung ihrer Kunden Zuordnung anfordert. 
 
 >[!NOTE]
 
->Wenn Ihr Unternehmen mehrere Standorte umfasst, achten Sie darauf, dass Sie die MPN-ID für die Niederlassung verwenden, das sich in derselben geografischen Region wie Ihr Kunde befindet. 
+>Nachdem Sie Ihre Kunden Zuordnung eingereicht haben, können Sie Sie nicht mehr bearbeiten. 
 
-1.  Wählen Sie auf der Seite „Übersicht“ unter **Alle Incentiveprogramme**die Option **OSA** aus.
+Der Status der Kunden Zuordnung wird im Feld **Status** angezeigt. 
 
-2.  Wählen Sie auf der Seite „OSA“ **Anspruch...** und dann **Incentivegebühr** aus.
-
-3.  Geben Sie den Domänennamen und die Verzeichnis-ID Ihres Kunden ein, und wählen Sie dann **Weiter** aus. 
-
-4.  Wählen Sie das Produkt aus, das der Kunde gekauft hat, und wählen Sie dann **Weiter** aus. 
-
-5.  Wählen Sie das Abonnement aus, das Sie diesem Anspruch zuordnen möchten, und wählen Sie dann **Weiter** aus.
-
->[!NOTE]
-
->Vergewissern Sie sich, dass sowohl der Name als auch die geografische Region korrekt sind, bevor Sie ein Abonnement auswählen. 
-
->Abonnements, die anderen Online Service Advisors zugeordnet sind, sind mit einem gelben Dreieck gekennzeichnet. Sie können dennoch eine Zuordnung zu diesen auswählen. 
-
->Abonnements, die Ihrem Unternehmen bereits zugeordnet sind, können nicht erneut zugeordnet werden.  
-
-6.  Geben Sie die Kontaktinformationen für Ihren Kunden und Ihr Unternehmen ein, benennen Sie den Anspruch, und wählen Sie dann **Anspruch erstellen** aus. 
-
-7.  Laden Sie auf der Abonnementseite Ihre POE-Dokumentation (Proof of Execution, Nachweis der Ausführung) in das Feld **Proof of Execution** hoch. Sie können die POE-Vorlage oder die POE-Dokumente aus dem Presales-Prozess verwenden. 
-
-8.  Wählen Sie **Anspruch übermitteln** aus.    
-
-Der Status Ihres Anspruch wird im Statusfeld auf der Abonnementseite angezeigt. Wenn zusätzliche Informationen erforderlich sind, werden Sie auch dort darüber benachrichtigt.
-
-Informationen zum Anzeigen Ihrer Einnahmen- und Zahlungsdaten finden Sie unter „Auszahlungen und Berichte“. 
- 
-## <a name="submit-an-isv-revenue-association-claim"></a>Übermitteln eines ISV-Umsatzzuordnungsanspruchs
-
-1.  Wählen Sie auf der Seite „Übersicht“ unter **Alle Incentiveprogramme**die Option **OSA** aus.
-
-2.  Wählen Sie auf der Seite „OSA“ **Anspruch...** und dann **ISV-Umsatzzuordnung** aus.
-
-3.  Geben Sie den Domänennamen und die Verzeichnis-ID Ihres Kunden ein, wählen Sie das oder die Produkte aus, die der Kunde gekauft hat, und wählen Sie dann **Weiter** aus. 
-
-4.  Wählen Sie die Abonnements aus, die Sie diesem Anspruch zuordnen möchten, und wählen Sie dann **Weiter** aus.
-
->[!NOTE]
-
->Vergewissern Sie sich, dass sowohl der Name als auch die geografische Region korrekt sind, bevor Sie ein Abonnement auswählen. 
-
->Abonnements, die Ihrem Unternehmen bereits zugeordnet sind, können nicht erneut zugeordnet werden.  
-
-5.  Geben Sie die Informationen für **Name des Dynamics-Lösungsverkäufers**, **Kundenname** und **Name von ISV-Produkt/-Lösung** geben Sie dann einen Namen für den Anspruch ein. 
-
-6.  Wählen Sie **Anspruch erstellen** aus. 
-
-Der Status Ihres Anspruch wird im Statusfeld auf der Abonnementseite angezeigt. Wenn zusätzliche Informationen erforderlich sind, werden Sie auch dort darüber benachrichtigt.
+Wählen Sie **Verlauf** aus, um den Verlauf einer Kunden Zuordnung anzuzeigen.

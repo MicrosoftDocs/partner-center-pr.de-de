@@ -6,12 +6,12 @@ description: Mitglieder im Microsoft Partner Network müssen ein Partner Center
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 58dd482f3fe9e9b02159c2900bb2c857ee967540
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: f69dc6239c1ad11821baac269903ad819901ac7e
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978760"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141959"
 ---
 # <a name="create-a-partner-center-account"></a>Partner Center-Konto erstellen
 
@@ -59,7 +59,7 @@ Diese Informationen werden von uns im Rahmen des Kontoerstellungsprozesses über
 
 5.  Vergewissern Sie sich, dass Sie der Gruppe der Administrator-Agents hinzugefügt wurden. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
 
-    a. Wählen Sie im Partner Center- [Dashboard](https://partner.microsoft.com/en-us/dashboard/home**)das Symbol " **Einstellungen** " und dann " **Benutzerverwaltung**" aus.  
+    a. Wählen Sie im Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/home**)das Symbol " **Einstellungen** " und dann " **Benutzerverwaltung**" aus.  
 
     b. Wählen Sie Ihren Namen aus der Benutzerliste und dann **Administrator-Agent** aus, sofern diese Option nicht bereits ausgewählt ist. Wählen Sie **Aktualisieren** aus.  
 

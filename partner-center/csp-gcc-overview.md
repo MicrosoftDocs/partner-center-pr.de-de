@@ -7,16 +7,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f7187b0a35bae927dc991b4bd92506f902c53b95
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: caf8c6614a360c45c9976277b9dca14197391f39
+ms.sourcegitcommit: 718064303cc8a632005a2b4561bc34100ec93477
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667686"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73168560"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Verkaufen von Office 365 Government GCC für CSP-Abonnements an qualifizierte Kunden
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  CSP-Partner
@@ -36,10 +36,8 @@ Nachdem Ihr Unternehmen für den Verkauf von Office 365 Government GCC für CSP-
 
 -   Eine detaillierte Anleitung zum Verkaufen von Office 365 Government GCC für CSP-Abonnements finden Sie [hier](https://go.microsoft.com/fwlink/?linkid=2007323).  
 
--   Antworten auf häufig gestellte Fragen finden Sie [hier](https://o365pp.blob.core.windows.net/media/Resources/GCC/Office%20365%20Government%20GCC%20for%20CSP%20Partner%20FAQ.docx).
 
-
-## <a name="additional-resources"></a>Zusätzliche Ressourcen
+## <a name="additional-resources"></a>Weitere Ressourcen
 
 Sie haben auf der Microsoft 365 for Partners-Seite Zugriff auf die Informationen unter [Partner Opportunity in US Government](https://www.microsoft.com/microsoft-365/partners/governmentforCSP).
 

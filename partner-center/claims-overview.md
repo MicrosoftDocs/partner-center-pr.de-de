@@ -5,18 +5,18 @@ ms.date: 03/15/2019
 description: Übermitteln Sie Ihre Incentiveansprüche, ohne dass zuerst Ihr Aktivitätsplan überprüft werden muss.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Incentive-Ansprüche, Co-Op-Ansprüche, Co-Op-Mittel
+keywords: Incentives-Ansprüche, Co-Op-Ansprüche, Co-Op-Mittel
 ms.localizationpriority: medium
-ms.openlocfilehash: c1ba6ca1fcc624958355761b5d36ffafb9dface2
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 27210ea58352259152c0922aa3a1e1c3c6d95e4d
+ms.sourcegitcommit: 014669c26592a3ab35c2aa7f3ff615f5f1091752
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64667563"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73083878"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Übersicht über Incentives-Co-Op-Ansprüche
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
 
@@ -32,12 +32,12 @@ Ein erfolgreicher Anspruchs enthält:
 >[!NOTE]
 >Microsoft behält sich das Recht vor, Originaldokumente zum Nachweis der Ausführung anzufordern. Bewahren Sie alle Originaldokumente für einen Zeitraum von 24 Monaten ab dem Datum der Aktivität auf. 
 
-|**Aufgabe**   |**Artikel**   |
+|**Aufgabe**   |**Bitte lesen**   |
 |-----------------|:--------------------------------------|
 |Übermitteln eines Anspruchs mit den richtigen Dokumenten|[Erstellen und Verwalten eines Anspruchs für eine Incentive-Programm-Aktivität](create-incentives-claims.md)|
 |Nach Übermittlung des Anspruchs: Verwalten von Anfragen zu zusätzlichen Dokumenten|[Erstellen und Verwalten eines Anspruchs für eine Incentive-Programm-Aktivität](create-incentives-claims.md)  |
 |Sicherstellen, dass Sie die grundlegenden Anforderungen für den Aktivitätsanspruch kennen|[Kennen der grundlegenden Anforderungen für Incentiveansprüche](core-requirements.md)   |
 |Erfahren der vollständigen Details zum Incentive-Programm|[Leitfaden für Partner-Incentives-Co-Op](https://assets.microsoft.com/coop-guidebook.pdf)
-|Übermitteln einer OSA-Verkaufsgebührenanspruchs oder ISV-Umsatzzuordnungsanspruchs |[Übermitteln Ihrer OSA-Ansprüche in Partner Center](submit-osa-claim.md)|
+|Erstellen einer Kunden Zuordnung und übermitteln eines Anspruchs |[Erstellen einer Kunden Zuordnung mithilfe des cpor-Modells](submit-osa-claim.md)|
                                                                                  
                                    

@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Rechnung, Zuordnungen, Steuer ausgenommene Steuer, Mehrwertsteuer, Umsatzsteuer-ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b972aa9261d319c55d26abcc32e33af5546550a
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 42006ee073db1481fffa42b5cc4e3982526cf720
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978771"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141994"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Rechnungen und Steuern in der Microsoft Partner Network
 
@@ -26,7 +26,7 @@ Führen Sie die folgenden Schritte aus, um die endgültige Rechnung für eine Be
 
 Sie müssen ein globaler Administrator oder MPN-Partner Administrator sein, um dieses Verfahren ausführen zu können. 
 
-1.  Melden Sie sich mit Ihrem Geschäftskonto bei [Partner Center](https://partner.microsoft.com/en-us/dashboard/home) an, und wählen Sie im Menü auf der linken Seite **MPN** aus.
+1.  Melden Sie sich mit Ihrem Geschäftskonto bei [Partner Center](https://partner.microsoft.com/dashboard/home) an, und wählen Sie im Menü auf der linken Seite **MPN** aus.
 
 4.  Wählen Sie in der Dropdown Liste **mitgliedschaftsangebote** aus, um die verfügbaren Angebote sowie die verfügbaren Rechnungen für das aktuelle Registrierungs Jahr anzuzeigen. Um Rechnungen für vorherige Jahre anzuzeigen, wählen Sie **abgelaufen**aus.
 
@@ -45,7 +45,7 @@ Sie müssen ein globaler Administrator oder MPN-Partner Administrator sein, um d
 
 ## <a name="send-microsoft-your-vat-id-number"></a>Übermitteln der USt-IdNr. an Microsoft
 
-1.  Wählen Sie im Partner Center- [Dashboard](https://partner.microsoft.com/en-us/dashboard/home)die Option **mitgliedschaftsangebote**aus, und wählen Sie dann **verfügbar**aus. 
+1.  Wählen Sie im Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/home)die Option **mitgliedschaftsangebote**aus, und wählen Sie dann **verfügbar**aus. 
 
 2.  Wählen Sie **Ihre Umsatzsteuer-ID hinzufügen**. 
 

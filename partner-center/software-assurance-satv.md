@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Schulungsgutscheine, Software Assurance, Schulung, Registrieren bei SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 03fb0c9a9391bc3e5ebcf99cfd77aa7de8a74f51
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 0b5b91efea2814582e64e147cf3bf9f7c22bdd89
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425183"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142019"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>SATV-Programm (Software Assurance Training Voucher, Software Assurance-Trainingsgutschein) in Partner Center
 
@@ -37,7 +37,7 @@ In diesem Artikel wird erläutert, wie Sie die einzelnen Schritte ausführen.
 
 ## <a name="confirm-program-eligibility"></a>Bestätigen der Berechtigung für das Programm
 
-Bevor Sie sich beim SATV-Programm registrieren können, müssen Sie zunächst die Voraussetzungen für die Microsoft Partner Network-Option „Learning“ erfüllen, welche die Microsoft Learning-Kompetenz ersetzt. Erfahren Sie mehr über die ersten Schritte mit der [Option „Learning“](https://partner.microsoft.com/en-us/membership/learning-partners).
+Bevor Sie sich beim SATV-Programm registrieren können, müssen Sie zunächst die Voraussetzungen für die Microsoft Partner Network-Option „Learning“ erfüllen, welche die Microsoft Learning-Kompetenz ersetzt. Erfahren Sie mehr über die ersten Schritte mit der [Option „Learning“](https://partner.microsoft.com/membership/learning-partners).
 
 Sie können die Berechtigung Ihres Unternehmens, einschließlich der anwendbaren Kompetenz und Bewertungsanforderungen in Partner Center, überprüfen. Befolgen Sie die Anweisungen in [Schritt 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) des SATV-Workflows, um weitere Details und Screenshots zu erhalten.
 

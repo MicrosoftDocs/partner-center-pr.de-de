@@ -1,19 +1,19 @@
 ---
 title: Azure-Plan-Preisliste | Partner Center
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/01/2019
 description: Anzeigen der Preisliste für Abonnements im Rahmen eines Azure-Plans
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 64f7b6930f31afc63397ae3ed0e0dba2357b0f1e
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 53e5327b505de1c1860e44b477aca21b5aef2d2b
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171276"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428551"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Preisliste für die neue E-Commerce-Benutzeroberfläche in CSP für Azure 
 
@@ -54,10 +54,9 @@ Die Preisliste für die neue Azure E-Commerce-Benutzeroberfläche in CSP ist im 
 
     - **Wechselkurse**: Wechselkurse stehen für den Download am Tag vor dem 1. des Monats um 18:00 Uhr PST zur Verfügung. Wenn Sie beispielsweise die Wechselkurse für November erfahren möchten, laden Sie die Wechselkurse am 31. Oktober herunter. Die Wechselkurse des Vormonats sind ebenfalls verfügbar.
 
-    - **Berechtigte Dienste**: Von Partnern erworbene Guthaben können auf Dienste angewendet werden, die in den **Preisen für Azure-Plannutzung** aufgelistet sind, die Partner auf der Azure-Plan-Preisseite exportieren können. Beachten Sie, dass es Ausnahmen gibt, die Drittanbieter und Azure-Reservierungen einschließen, aber nicht auf diese beschränkt sind.
-
 - Die Preise in den Preislisten sind Direktpreise. Einige Partner sind möglicherweise für vom Partner erworbene Guthaben qualifiziert. Informationen zur Berechnung des vom Partner erworbenen Guthabens finden Sie unter [Wie von Partnern erworbene Guthaben berechnet und bezahlt werden](partner-earned-credit-explanation.md).
 
+- **Berechtigte Dienste**: Das vom Partnern erworbene Guthaben kann auf Dienste angerechnet werden, die in den **Preisen für Azure-Plannutzung** aufgelistet sind, die Partner von der Seite [Azure-Plan-Preise](https://partner.microsoft.com/commerce/sales) exportieren können. Beachten Sie, dass es Ausnahmen gibt, beispielsweise Produkte von Drittanbietern, die in der Tags-Spalte der Preisliste für die Azure-Plannutzung und Azure-Plan Reservierungen als „Drittanbieter“ gekennzeichnet sind.
 
 ## <a name="price-list-data"></a>Preislistendaten
 

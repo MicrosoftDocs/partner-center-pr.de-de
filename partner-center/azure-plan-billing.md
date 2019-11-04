@@ -1,21 +1,22 @@
 ---
 title: 'Azure-Plan: Abrechnung | Partner Center'
 ms.topic: article
-ms.date: 10/04/2019
-description: Beschreibt die Dateistruktur für Rechnungen und Abstimmungen
+ms.date: 11/01/2019
+description: Beschreibt die Struktur der Rechnungs- und Abstimmungsdateien für den Azure-Plan.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 28e670635ca7fcff60041fcb5c93b3ddd5e4069d
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 9b68361f80be0e5c68f707aa578f78cabcdee3e5
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171302"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428472"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Neues E-Commerce-Verfahren in CSP: Azure-Abrechnung 
+
 
 Abrechnungen im Rahmen eines Azure-Plans bieten ein vereinfachtes Abrechnungsverfahren, das ein einheitliches Abrechnungsdatum und einen Abrechnungszeitraum auf der Grundlage von Kalendermonaten verwendet. Informationen zur Abrechnungsplattform finden Sie unter [Partner Center Modern Commerce Operating Guide](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (Partner Center Modern Commerce – Betriebshandbuch).
 
@@ -33,23 +34,60 @@ Abrechnungen im Rahmen eines Azure-Plans bieten ein vereinfachtes Abrechnungsver
 
 - **Partnerincentives**: 45 Tage nach dem Ende des Rechnungsmonats bezahlt.
 
-##  <a name="access-your-invoices-and-recon-files"></a>Zugriff auf Ihre Rechnungen und Abstimmungsdateien
+##  <a name="access-your-invoices-and-reconciliation-files"></a>Zugriff auf Ihre Rechnungen und Abstimmungsdateien
 
 Der globale Administrator oder der Abrechnungsadministrator Ihres Unternehmens erhält eine E-Mail, wenn eine Rechnung zum Anzeigen bereit ist. 
 
-**Zugriff auf die Rechnung und Abstimmungsdatei**
+**Zugriff auf die Rechnungs- und Abstimmungsdatei**
 
-1. Melden Sie sich bei Partner Center an.
+1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/en-us/dashboard/) an.
 
 2. Wählen Sie im Menü des Partner Center **Abrechnung** aus.
 
-3. Wählen Sie die Registerkarte für die **kalenderbasierte** Abrechnung und die Sie interessierende Währung aus.
+3. Wählen Sie die Registerkarte für **laufende** und **einmalige** Gebühren sowie die für Sie relevante Währung aus.
 
 ![Abrechnung](images/azure/billing1.png)
 
-4. Wählen Sie **Rechnung und Abstimmungsdatei** aus.  
+4. Wählen Sie **Rechnung** oder **Abstimmungsdatei** aus.  
 
 Zum Anzeigen früherer Rechnungen und Abstimmungsdateien erweitern Sie die Zeile „Abrechnungsverlauf“ unten.
+
+
+## <a name="understanding-usage-data"></a>Grundlegendes zu Verwendungsdaten 
+
+1. Der Azure-Plan ist der Stammcontainer oder der Container der obersten Ebene für die Verwendung. Alle Verwendungsdaten sind an einen einzelnen Azure-Plan gebunden. 
+
+2. Ein Plan kann ein oder mehrere Azure-Abonnements enthalten. Dies sind Container, die für die Ressourcenverwaltung und -bereitstellung verwendet werden. 
+
+3. Innerhalb eines Abonnements werden Ressourcengruppen zu Gruppenressourcen hinzugefügt. Jede Ressource wird in einer Ressourcengruppe bereitgestellt. 
+
+4. Beispiele für Ressourcen sind virtuelle Computer und Speicherkonten. 
+
+5. Ressourcen geben Verbrauchszähler aus: Verbrauchszähler sind Verbrauchsmessungen einer Ressource, und eine Ressource kann Verwendungsdaten für verschiedene Verbrauchszähler ausgeben. Verbrauchszähler werden durch „ProductId“-, „SKUId“- und „AvailabilityId“-Werte identifiziert. 
+
+### <a name="heirarchy-of-subscription-resource-groups-and-metering"></a>Heirarchie von Abonnementressourcengruppen und -messungen
+
+**Azure-Konto (Mandant)**
+
+- Abonnement A
+    - ResourceGroup 1
+        - Virtueller Computer (Ressource)
+            - Computeverbrauchseinheit
+        - Virtuelles Netzwerk (Ressource)
+            - Keine Abrechnungsverbrauchseinheit
+
+    - ResourceGroup 2
+        - Virtueller Computer (Ressource)
+            - Computerverbrauchseinheit
+        - Verwaltete SSD Premium-Datenträger (Ressource)
+            - Verbrauchseinheit für Speicherkapazität
+            - Verbrauchseinheit für Speichervorgänge
+
+- Abonnement B   -ResourceGroup 1       - Azure SQL (Ressource)           - DTU-Verbrauchseinheit       - VPN Gateway (Ressource)           - Verbrauchseinheit für VPN-Gateway
+
+    - ResourceGroup 2
+        - Virtuelle Netzwerkschnittstelle (Ressource)
+            - Keine Abrechnungsverbrauchseinheit
 
 ## <a name="read-the-invoice"></a>Lesen der Rechnung
 
@@ -65,15 +103,15 @@ Zum Anzeigen früherer Rechnungen und Abstimmungsdateien erweitern Sie die Zeile
 
 ![Rechnung](images/azure/invoice1.png)
 
-## <a name="read-the-recon-file"></a>Lesen der Abstimmungsdatei
+## <a name="read-the-invoice-reconciliation-file"></a>Lesen der Rechnungs-/Abstimmungsdatei
 
-1. Jede Verbrauchseinheit von Azure-Abonnements kann bis zu zwei Abrechnungszeilen in der Abstimmungsdatei aufweisen.
+1. Jede Kombination von Azure-Plan und Verbrauchseinheit kann bis zu zwei Abrechnungszeilen in der Abstimmungsdatei aufweisen.
 
-2. Wenn die Verbrauchseinheit während des gesamten Kalendermonats zu Rabatten oder Gutschriften berechtigt (etwa die Rabatte in Schicht 1 oder die „Partner earned credit for managed services“), enthält die Abstimmungsdatei nur eine Abrechnungszeile. Die Spalte **PriceAdjusmentDescription** weist den Rabatt oder die erworbene Gutschrift aus; der effektive Preis pro Einheit ergibt sich aus dem Endkundenpreis abzüglich der vom Partner erworbenen Gutschrift oder anderer Rabatte.
+2. Wenn die Verbrauchseinheit während des gesamten Kalendermonats zu Rabatten oder Gutschriften berechtigt – etwa die Rabatte in Schicht 1 oder das vom Partner erworbene Guthaben (PEC) für verwaltete Dienste – enthält die Abstimmungsdatei nur eine Abrechnungszeile. Die Spalte **PriceAdjusmentDescription** verweist auf den Rabatt oder das erworbene Guthaben.
 
-3. Wenn die Verbrauchseinheit während des gesamten Kalendermonats nicht zu Gutschriften für die „Partner earned credit for managed services“ berechtigt war, enthält die Abstimmungsdatei nur eine Abrechnungszeile, und der effektive Einzelpreis stimmt mit dem Endkundenpreis (bei dem es sich um den Einzelpreis handelt) überein.
+3. Wenn für eine bestimmte Verbrauchseinheit, die zu einem Rabatt oder PEC berechtigt, keine Ressourcen vorliegen, enthält die Abstimmungsdatei nur eine Abrechnungszeile, und der effektive Einzelpreis stimmt mit dem Endkundenpreis (bei dem es sich um den Einzelpreis handelt) überein.
 
-4. Wenn die Verbrauchseinheit während eines Teils des Monats für **Partner earned credit for services managed** berechtigt war, enthält die Abstimmungsdatei zwei Abrechnungszeilen. Eine Zeile stellt die Tage dar, an denen eine Berechtigung der Verbrauchseinheit bestand, die andere die Tage, an denen diese Berechtigung nicht bestand. 
+4. Wenn die Verbrauchseinheit oder eine beliebige Ressource, die diese Verbrauchseinheit ausgibt, während eines Teils des Monats für **Vom Partner erworbenes Guthaben für verwaltete Dienste** berechtigt war, enthält die Abstimmungsdatei zwei Abrechnungszeilen. Eine Zeile stellt die Tage dar, an denen eine Berechtigung der Verbrauchseinheit bestand, die andere die Tage, an denen diese Berechtigung nicht bestand. 
 
 ## <a name="read-the-daily-usage-file"></a>Lesen der täglichen Nutzungsdatei
 
@@ -91,49 +129,36 @@ Zum Anzeigen früherer Rechnungen und Abstimmungsdateien erweitern Sie die Zeile
 
     - Die Verbrauchseinheit ist vom 08.07–31.07. für **Partner earned credit for services managed** qualifiziert (beachten Sie, dass der effektive Einzelpreis sich aus dem Endkundenpreis abzüglich der vom Partner erworbenen Gutschrift ergibt).
 
-![recon2](images/azure/billing2.png) 
+![recon2](images/azure/pecfinal.png) 
 
 ## <a name="invoice-in-customer-currency"></a>Rechnung in Währung des Kunden 
 
 Im Rahmen eines Azure-Plans erbrachte Azure-Dienste haben Preise in USD und werden in der Landeswährung des Kunden abgerechnet. Wenn die Abrechnungswährung nicht USD ist, wird der zugrunde gelegte Wechselkurs auf der letzten Seite der Rechnung angezeigt. Wechselkurse werden monatlich bestimmt und auf die folgende Rechnung angewendet. Eine vollständige Liste der Landeswährungen finden Sie in der [New commerce offers country availability and customer currency matrix](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V) (Matrix für die Länderverfügbarkeit neuer E-Commerce-Angebote und Kundenwährungen). 
 
-Microsoft nutzt [Thompson Reuters](https://developers.thomsonreuters.com/content/wm-company) zum Ermitteln des Wechselkurses, der für die Konvertierung aus der Preiswährung in die Rechnungswährung verwendet wird. Der Wechselkurs wird aktualisiert und steht am Tag vor dem Ersten des Monats zur Verfügung, für den er gilt.
+Microsoft nutzt [Thompson Reuters](https://developers.thomsonreuters.com/content/wm-company) zum Ermitteln des Wechselkurses, der für die Konvertierung aus der Preiswährung in die Abrechnungswährung verwendet wird. Die Wechselkurse werden aktualisiert und stehen am Tag vor dem Ersten des Monats zur Verfügung, für den sie gelten.
 
-**Beispiel**:  Nutzungsgebühren für den Dienstzeitraum vom 1. August–31. August unter Verwendung des am 1. August veröffentlichten Wechselkurses. Diese Gebühren werden auf der September-Rechnung aufgeführt, und der Wechselkurs ist auf der letzten Seite der Rechnung vermerkt. 
+**Beispiel**:  Nutzungsgebühren für den Dienstzeitraum vom 1. August–31. August unter Verwendung des am 31. Juli veröffentlichten Wechselkurses. Diese Gebühren werden auf der September-Rechnung aufgeführt, und der Wechselkurs ist auf der letzten Seite der Rechnung vermerkt. 
 
-Benutzer von Partnermandanten sehen auch weiterhin rollenspezifische Informationen zu allen Kunden und Bestellungen, unabhängig von der Rechnungswährung. Darüber hinaus kann der Benutzer alle Rechnungen in allen Währungen anzeigen.  
  
 ## <a name="azure-reservations"></a>Azure Reservations 
 
 Wenn Sie [Azure-Reservierungen](https://docs.microsoft.com/partner-center/azure-reservations) im Rahmen eines Azure-Plans erwerben, ist im Partner Center anfänglich nur die Auswahl der einmaligen Abrechnung möglich. Die monatliche Abrechnung steht im Azure-Portal zur Verfügung. Die monatliche Abrechnung ist im Partner Center zu einem späteren Termin verfügbar. 
 
-## <a name="azure-cost-management"></a>Azure-Kostenmanagement 
-
-Mithilfe der Azure-Tools für Kostenmanagement können Organisationen Kosten überall in Microsoft Azure visualisieren, verwalten und optimieren. Diese Funktion soll im Azure-Portal verfügbar sein. Partner verfügen über eine Always-On-Lösung mit geringer Latenz, die folgende Features unterstützt: 
-
-- Umfangreichere Analyse- und Budgetwarnungen 
-- APIs und Power BI-Connectors 
-- Ansicht für mehrere Kunden 
-- Kostenlose Verwaltung von Azure-Kosten 
-- Erweiterung von Rollen/Benutzern 
-
-Weitere Informationen zu diesem Feature, das für Enterprise-Verträge seit Februar 2019 verfügbar ist, finden Sie unter [Azure-Kostenmanagement](https://azure.microsoft.com/services/cost-management). Es steht nur für Azure-Dienste zur Verfügung, die im Rahmen dieser neuen Azure-E-Commerce-Benutzeroberfläche in CSP erworben wurden. 
- 
 ## <a name="azure-spending"></a>Azure-Ausgaben 
 
-Ein Azure-Ausgabentool soll im Partner Center für die neue E-Commerce-Benutzeroberfläche in CSP zur Verfügung stehen. Wenn es angewendet wird, können Partner mit dieser Funktion Folgendes anzeigen:  
+Die bestehende Azure-Kaufumgebung wird aktualisiert, um die neue Azure-Planabrechnung im Partner Center zu unterstützen. Dadurch wird Partnern Folgendes ermöglicht:
 
-- Das Gesamtbudget für einen Kunden 
-- Geschätzte Gesamtausgaben für einen vorhandenen Azure-Plan 
-- Prozentsatz der Nutzung durch den Kunden in jedem Abrechnungszeitraum 
+- Anzeigen, Verwalten und Empfangen von Benachrichtigungen für Budgets, die auf Kundenebene festgelegt wurden 
 
-Da das Abrechnungsmodell für Azure-Dienste im Rahmen eines Azure-Plans die Nutzung nach Vorkasse vorsieht, können Partner zum Vermeiden einer höher als erwarteten Rechnung ein monatliches Budget zuweisen und den Prozentsatz seiner Nutzung nachverfolgen. Ein Budget kann auf einen Kunden oder auf mehrere Kunden zugleich angewendet werden. 
+- Anzeigen der geschätzten Gesamtausgaben für einen Azure-Plan (aufgeschlüsselt nach Ressourcen und Verbrauchseinheitswert)
+
+Da die Abrechnungsmodell für Azure-Dienste unter einem Azure-Plan nachträglich nach Verbrauch berechnet wird, können Partner ein monatliches Budget festlegen und den Prozentsatz der Nutzung nachverfolgen, um zu vermeide, dass die Rechnung höher als erwartet ausfällt. Ein Budget kann auf einen Kunden oder auf mehrere Kunden zugleich angewendet werden. 
 
 ![Azure-Ausgaben](images/azure/azurespend.png)
 
 **Weitere Informationen**
 
--  How the partner earned credit (PEC) is calculated is located on the price list available through your Partner Center dashboard (Art der Berechnung der vom Partner erworbenen Gutschriften (PEC) und ihre Position in der Preisliste, die auf dem Partner Center-Dashboard verfügbar ist). 
+-  Wie das vom Partner erworbene Guthaben (PEC) berechnet wird, finden Sie in der Preisliste, die auf dem Partner Center-[Dashboard](https://partner.microsoft.com/en-us/dashboard/) verfügbar ist (Anmeldung erforderlich). 
    
 -  [Erwerb des Azure-Plans](purchase-azure-plan.md)
 

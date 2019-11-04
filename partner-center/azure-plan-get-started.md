@@ -1,23 +1,23 @@
 ---
 title: 'Umstellung auf Azure-Plan: Einstieg | Partner Center'
 ms.topic: article
-ms.date: 10/15/2019
-description: ''
+ms.date: 11/01/2019
+description: Erwerben von Abonnements unter der neuen Commerce-Überfläche für Azure
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
+Keywords: Azure, Azure-Plan, Abonnements erwerben, Abonnements
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: eb46255403297539c17145b82ecf096699abe390
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 23dddf8f521d035a99b685b359fffd00247467e9
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171270"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428444"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Umstellung auf Azure-Plan: Einstieg
 
-Microsoft hat eine neue Commerce-Funktionalität in CSP für Azure-Partner eingeführt, die den Microsoft-Partnervertrag unterschrieben haben. Mit dieser neuen Commerce-Funktionalität erhalten die Partner Zugriff auf Azure-Dienste zu nutzungsbasierten Tarifen im Rahmen des Microsoft-Kundenvertrags. 
+Microsoft hat eine neue Commerce-Oberfläche in Partner Center eingeführt.  Mit dieser neuen Commerce-Funktionalität erhalten die Partner Zugriff auf Azure-Dienste zu nutzungsbasierten Tarifen im Rahmen des Microsoft-Kundenvertrags. 
 
 Dieser Plan vereinfacht den Kaufvorgang – Sie können mehrere Azure-Abonnements in einem Azure-Plan verwalten. Sie brauchen keine separate Bestellung pro Azure-Abonnement mehr zu übermitteln. Und im Rahmen dieser neuen Commerce-Funktionalität für Azure haben wir die Vereinheitlichung zu einem einzelnen Preisprinzip mit globaler Gültigkeit durchgeführt, das es CSP-Partnern ermöglicht, Azure zu den veröffentlichten Preisen anzubieten. 
 
@@ -25,7 +25,7 @@ Die Anforderungen unserer Kunden an digitale Transformation erfordern neue Quali
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Vergewissern Sie sich, dass Ihre Kunden den Microsoft-Kundenvertrag unterzeichnet haben.
 
-Vom 1. Oktober 2019 an ist der Microsoft-Kundenvertrag, ein unbefristeter Vertrag, der das Kauferlebnis des Kunden mit einem vollständig digitalen Prozess vereinfacht und optimiert, für die digitale Signatur verfügbar. Alle Kunden, die die neue Commerce-Funktionalität in CSP für Azure nutzen möchten, müssen den Microsoft-Kundenvertrag unterzeichnen.
+Ab dem 1. Oktober 2019 kann die Microsoft-Kundenvereinbarung, ein unbefristeter Vertrag, der das Kauferlebnis des Kunden mit einem vollständig digitalen Prozess vereinfacht und optimiert, von Kunden digital unterzeichnet werden. Alle Kunden, die die neue Commerce-Funktionalität in CSP für Azure nutzen möchten, müssen den Microsoft-Kundenvertrag unterzeichnen.
 
 Vollständige Detailinformationen finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag](confirm-customer-agreement.md)
 

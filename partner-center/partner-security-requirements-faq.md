@@ -7,12 +7,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
-ms.openlocfilehash: e9471ae8dd0e478540e30a879d010ffb0c1f1bc0
-ms.sourcegitcommit: c388fae97437b727edeb0de3712bd2822010ecd6
+ms.openlocfilehash: 43ad23ea7d4b4b39fb2dc6d15095a8416c7360ab
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "71678302"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142028"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Häufig gestellte Fragen zu den Sicherheitsanforderungen für Partner
 
@@ -67,6 +67,17 @@ Ja, dies gilt für alle geografischen Regionen. Es wird dringend empfohlen, dass
 
 Nein, kein Konto kann von der Anforderung ausgenommen werden, ein MFA-Verfahren einzurichten. Angesichts der umfassenden Privilegien, die mit dem Partnerstatus verbunden sind, müssen gemäß dem [Program Guide for Microsoft Cloud Solution Providers](https://go.microsoft.com/fwlink/p/?LinkId=617100) (Programmleitfaden für Cloud Solution Provider) MFA-Verfahren für jedes Konto in deinem Partnermandanten erzwungen werden.
 
+### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Woher weiß ich, ob ich die Sicherheitsanforderungen für Partner erfüllt habe?
+
+Führen Sie die folgenden Schritte aus.
+
+- Sie müssen alle Anforderungen erfüllen, die in den [Sicherheitsanforderungen für Partner](https://docs.microsoft.com/partner-center/partner-security-requirements) beschrieben werden.
+- Sie müssen sicherstellen, dass für alle Benutzerkonten in Ihrem Partnermandanten die mehrstufige Authentifizierung erzwungen wird.
+
+Um die wichtigsten Bereiche zu identifizieren, in denen Sie Maßnahmen ergreifen können, nutzen Sie den Bericht [Status der Sicherheitsanforderungen](https://partner.microsoft.com/pcv/security/compliance), der über das Partner Center verfügbar ist.
+
+Weitere Informationen zum Statusbericht finden Sie unter [Status der Sicherheitsanforderungen für Partner](https://docs.microsoft.com/partner-center/partner-security-compliance).
+
 ## <a name="required-actions"></a>Erforderliche Aktionen
 
 ### <a name="what-are-the-key-actions-i-need-to-take-to-meet-the-requirements"></a>Welches sind die wichtigsten Aktionen, die ich ausführen muss, um die Anforderungen zu erfüllen?
@@ -93,7 +104,7 @@ Alle Partner im CSP-Programm (Partner mit direkter Abrechnung, indirekte Anbiete
     Alle Partner, die eine benutzerdefinierte Integration über APIs (z. B. Azure Resource Manager, Microsoft Graph, Partner Center-API usw.) entwickelt oder mithilfe von PowerShell eine benutzerdefinierte Automatisierung implementiert haben, müssen das [Framework „Sicheres Anwendungsmodell“](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) übernehmen, um die Integration in Microsoft-Clouddienste zu ermöglichen. Eine Nichteinhaltung dieser Anforderung kann zu einer Unterbrechung aufgrund der MFA-Bereitstellung führen. Die folgenden Ressourcen bieten weitere Informationen sowie einen Leitfaden zur Übernahme des Modells.
 
     - [Übersicht über das sichere Anwendungsmodell](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-    - [Partner Center: Leitfaden für das sichere Anwendungsmodell](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+    - [Partner Center: Leitfaden für das sichere Anwendungsmodell](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
     - [Partner im CSP-Programm: .NET-Beispielcode zum Aktivieren des sicheren Anwendungsmodells](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
     - [Partner im CSP-Programm: Java-Beispielcode zum Aktivieren des sicheren Anwendungsmodells](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
     - [Dokumentation zur Authentifizierung in Partner Center](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
@@ -101,7 +112,7 @@ Alle Partner im CSP-Programm (Partner mit direkter Abrechnung, indirekte Anbiete
 
     Wenn du eine Control Panel-Anwendung verwendest, musst du dich bezüglich der Übernahme des Frameworks „Sicheres Anwendungsmodell“ an den Hersteller wenden.
 
-    Control Panel-Anbieter müssen das [Onboarding](https://docs.microsoft.com/partner-center/enroll-as-cpv) in Partner Center als Control Panel-Anbieter durchführen und sofort mit der Umsetzung dieser Anforderung beginnen. Weitere Informationen findest du unter [Partner Center: Framework „Sicheres Anwendungsmodell“](http://assetsprod.microsoft.com/secure-application-model-guide.pdf). Control Panel-Anbieter müssen anstelle von Anmeldeinformationen die Zustimmung von CSP-Partnern akzeptieren und verwalten und alle vorhandenen Anmeldeinformationen von CSP-Partnern löschen.
+    Control Panel-Anbieter müssen das [Onboarding](https://docs.microsoft.com/partner-center/enroll-as-cpv) in Partner Center als Control Panel-Anbieter durchführen und sofort mit der Umsetzung dieser Anforderung beginnen. Weitere Informationen findest du unter [Partner Center: Framework „Sicheres Anwendungsmodell“](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Control Panel-Anbieter müssen anstelle von Anmeldeinformationen die Zustimmung von CSP-Partnern akzeptieren und verwalten und alle vorhandenen Anmeldeinformationen von CSP-Partnern löschen.
 
 ## <a name="multi-factor-authentication"></a>Mehrstufige Authentifizierung
 
@@ -237,18 +248,18 @@ Nein. Die Sicherheitsanforderungen für Partner haben keine Auswirkungen auf das
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>Wer sollte das sichere Anwendungsmodell übernehmen, um die Anforderungen zu erfüllen?
 
-Microsoft führt ein sicheres, skalierbares Framework für die Authentifizierung von CSP-Partnern und Control Panel-Anbietern ein, das auf der Multi-Factor Authentication basiert. Weitere Informationen finden Sie im [Leitfaden für das sichere Anwendungsmodell](http://assetsprod.microsoft.com/secure-application-model-guide.pdf). Alle Partner, die eine benutzerdefinierte Integration über APIs (z. B. Azure Resource Manager, Microsoft Graph, Partner Center-API usw.) entwickelt oder mithilfe von PowerShell eine benutzerdefinierte Automatisierung implementiert haben, müssen das [Framework „Sicheres Anwendungsmodell“](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) übernehmen, um die Integration in Microsoft-Clouddienste zu ermöglichen.
+Microsoft führt ein sicheres, skalierbares Framework für die Authentifizierung von CSP-Partnern und Control Panel-Anbietern ein, das auf der Multi-Factor Authentication basiert. Weitere Informationen finden Sie im [Leitfaden für das sichere Anwendungsmodell](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Alle Partner, die eine benutzerdefinierte Integration über APIs (z. B. Azure Resource Manager, Microsoft Graph, Partner Center-API usw.) entwickelt oder mithilfe von PowerShell eine benutzerdefinierte Automatisierung implementiert haben, müssen das [Framework „Sicheres Anwendungsmodell“](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) übernehmen, um die Integration in Microsoft-Clouddienste zu ermöglichen.
 
 ### <a name="what-is-the-secure-application-model"></a>Was ist das sichere Anwendungsmodell?
 
-Microsoft führt ein sicheres, skalierbares Framework für die Authentifizierung von CSP-Partnern und Control Panel-Anbietern ein, das auf der Multi-Factor Authentication basiert. Weitere Informationen finden Sie im [Leitfaden für das sichere Anwendungsmodell](http://assetsprod.microsoft.com/secure-application-model-guide.pdf).  
+Microsoft führt ein sicheres, skalierbares Framework für die Authentifizierung von CSP-Partnern und Control Panel-Anbietern ein, das auf der Multi-Factor Authentication basiert. Weitere Informationen finden Sie im [Leitfaden für das sichere Anwendungsmodell](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).  
 
 ### <a name="how-do-i-implement-the-secure-application-model"></a>Wie implementiere ich das sichere Anwendungsmodell?
 
 Alle Partner, die eine benutzerdefinierte Integration über APIs (z. B. Azure Resource Manager, Microsoft Graph, Partner Center-API usw.) entwickelt oder mithilfe von PowerShell eine benutzerdefinierte Automatisierung implementiert haben, müssen das [Framework „Sicheres Anwendungsmodell“](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) übernehmen, um die Integration in Microsoft-Clouddienste zu ermöglichen. Eine Nichteinhaltung dieser Anforderung kann zu einer Unterbrechung aufgrund der MFA-Bereitstellung führen. Die folgenden Ressourcen bieten weitere Informationen sowie einen Leitfaden zur Übernahme des Modells.
 
 - [Übersicht über das sichere Anwendungsmodell](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [Partner Center: Leitfaden für das sichere Anwendungsmodell](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [Partner Center: Leitfaden für das sichere Anwendungsmodell](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 - [Partner im CSP-Programm: .NET-Beispielcode zum Aktivieren des sicheren Anwendungsmodells](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
 - [Partner im CSP-Programm: Java-Beispielcode zum Aktivieren des sicheren Anwendungsmodells](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [Dokumentation zur Authentifizierung in Partner Center](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
@@ -256,11 +267,11 @@ Alle Partner, die eine benutzerdefinierte Integration über APIs (z. B. Azure R
 
 Wenn du eine Control Panel-Anwendung verwendest, musst du dich bezüglich der Übernahme des Frameworks „Sicheres Anwendungsmodell“ an den Hersteller wenden.
 
-Control Panel-Anbieter müssen das [Onboarding](https://docs.microsoft.com/partner-center/enroll-as-cpv) in Partner Center als Control Panel-Anbieter durchführen und sofort mit der Umsetzung dieser Anforderung beginnen. Weitere Informationen findest du unter [Partner Center: Framework „Sicheres Anwendungsmodell“](http://assetsprod.microsoft.com/secure-application-model-guide.pdf). Control Panel-Anbieter müssen anstelle von Anmeldeinformationen die Zustimmung von CSP-Partnern akzeptieren und verwalten und alle vorhandenen Anmeldeinformationen von CSP-Partnern löschen.
+Control Panel-Anbieter müssen das [Onboarding](https://docs.microsoft.com/partner-center/enroll-as-cpv) in Partner Center als Control Panel-Anbieter durchführen und sofort mit der Umsetzung dieser Anforderung beginnen. Weitere Informationen findest du unter [Partner Center: Framework „Sicheres Anwendungsmodell“](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Control Panel-Anbieter müssen anstelle von Anmeldeinformationen die Zustimmung von CSP-Partnern akzeptieren und verwalten und alle vorhandenen Anmeldeinformationen von CSP-Partnern löschen.
 
 ### <a name="who-is-a-control-panel-vendor-cpv"></a>Wer ist ein Control Panel-Anbieter?
 
-Ein Control Panel-Anbieter ist ein unabhängiger Softwarehersteller, der Apps entwickelt, die von CSP-Partner zur Integration in Partner Center-APIs verwendet werden. Ein Control Panel-Anbieter ist kein CSP-Partner mit direktem Zugriff auf das Partner Center-Dashboard oder die Partner Center-APIs. Eine detaillierte Beschreibung findest du unter [Partner Center: Leitfaden für das sichere Anwendungsmodell](http://assetsprod.microsoft.com/secure-application-model-guide.pdf).
+Ein Control Panel-Anbieter ist ein unabhängiger Softwarehersteller, der Apps entwickelt, die von CSP-Partner zur Integration in Partner Center-APIs verwendet werden. Ein Control Panel-Anbieter ist kein CSP-Partner mit direktem Zugriff auf das Partner Center-Dashboard oder die Partner Center-APIs. Eine detaillierte Beschreibung findest du unter [Partner Center: Leitfaden für das sichere Anwendungsmodell](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Muss das sichere Anwendungsmodell nur für die Partner Center-API bzw. das Partner Center SDK implementiert werden?
 
@@ -296,7 +307,7 @@ Nachdem du dich bei Partner Center angemeldet und deine Anwendungen registriert 
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>Ich verwende das Partner Center SDK. Übernimmt das SDK automatisch das sichere Anwendungsmodell?
 
-Nein. Du musst die Richtlinien im [Leitfaden für das sichere Anwendungsmodell](http://assetsprod.microsoft.com/secure-application-model-guide.pdf) befolgen.
+Nein. Du musst die Richtlinien im [Leitfaden für das sichere Anwendungsmodell](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) befolgen.
 
 ### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-do-not-have-mfa-enabled"></a>Kann ich ein Aktualisierungstoken für das sichere Anwendungsmodell mit Konten generieren, die nicht für die MFA aktiviert sind?
 
@@ -304,7 +315,7 @@ Ja, ein Aktualisierungstoken kann mit einem Konto generiert werden, für das die
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>Wie kann meine Anwendung ein Zugriffstoken abrufen, wenn ich die MFA aktiviere?
 
-Im [Leitfaden für das sichere Anwendungsmodell](http://assetsprod.microsoft.com/secure-application-model-guide.pdf) findest du detaillierte Informationen dazu, wie du dies einrichten kannst und gleichzeitig die neuen Sicherheitsanforderungen erfüllst. Beispielcode für .NET findest du [hier](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model), Java-Beispielcode [hier](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model).
+Im [Leitfaden für das sichere Anwendungsmodell](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) findest du detaillierte Informationen dazu, wie du dies einrichten kannst und gleichzeitig die neuen Sicherheitsanforderungen erfüllst. Beispielcode für .NET findest du [hier](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model), Java-Beispielcode [hier](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model).
 
 ### <a name="as-a-cpv-do-i-create-an-azure-ad-application-in-our-cpv-tenant-or-the-tenant-of-the-csp-partner"></a>Erstelle ich als CPV eine Azure AD-Anwendung in meinem eigenen CPV-Mandanten oder im Mandanten des CSP-Partners?
 
@@ -312,7 +323,7 @@ Der CPV muss die Azure Active Directory-Anwendung in dem Mandanten erstellen, de
 
 ### <a name="i-am-a-csp-that-is-using-app-only-authentication-do-i-need-to-make-any-changes"></a>Ich bin Cloud Solution Provider und verwende eine reine App-Authentifizierung. Muss ich Änderungen vornehmen?
 
-Die reine App-Authentifizierung ist nicht betroffen, weil keine Benutzeranmeldeinformationen verwendet werden, um ein Zugriffstoken anzufordern. Wenn Benutzeranmeldeinformationen freigegeben werden, müssen Control Panel-Anbieter das [Framework „Sicheres Anwendungsmodell“](http://assetsprod.microsoft.com/secure-application-model-guide.pdf) übernehmen und alle vorhandenen Partneranmeldeinformationen löschen.
+Die reine App-Authentifizierung ist nicht betroffen, weil keine Benutzeranmeldeinformationen verwendet werden, um ein Zugriffstoken anzufordern. Wenn Benutzeranmeldeinformationen freigegeben werden, müssen Control Panel-Anbieter das [Framework „Sicheres Anwendungsmodell“](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) übernehmen und alle vorhandenen Partneranmeldeinformationen löschen.
 
 ### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>Kann ich als CPV die reine App-Authentifizierung verwenden, um Zugriffstoken zu erhalten?
 
@@ -347,7 +358,7 @@ Bei der technischen Durchsetzung der Sicherheitsanforderungen für Partner wird 
 ### <a name="resources-for-adopting-secure-application-model"></a>Ressourcen für die Übernahme des sicheren Anwendungsmodells
 
 - [Übersicht über das sichere Anwendungsmodell](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [Partner Center: Leitfaden für das sichere Anwendungsmodell](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [Partner Center: Leitfaden für das sichere Anwendungsmodell](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 - [Partner im CSP-Programm: .NET-Beispielcode zum Aktivieren des sicheren Anwendungsmodells](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
 - [Partner im CSP-Programm: Java-Beispielcode zum Aktivieren des sicheren Anwendungsmodells](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [Dokumentation zur Authentifizierung in Partner Center](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)

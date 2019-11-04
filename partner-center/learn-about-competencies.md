@@ -1,18 +1,18 @@
 ---
 title: Microsoft-Kompetenzanforderungen für die Gold- und Silver-Mitgliedschaft | Partner Center
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/29/2019
 description: Hier erfahren Sie mehr über die Kompetenzanforderungen für die Mitgliedschaftsstufen Silver und Gold.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Kompetenzen, Silver-Mitgliedschaft, Gold-Mitgliedschaft, MPN, MAPS, Kenntnisse, Microsoft Partner Network, Network Mitgliedschaft, erweiterte Spezialisierung
 ms.localizationpriority: high
-ms.openlocfilehash: 6ae993e049fc651f15e9669aab68c2183085b308
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: d6991a6df1800b279aefb553188af79d3dd33ec2
+ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318864"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73413355"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informationen zu den Kompetenzanforderungen und erweiterten Spezialisierungen für Microsoft Silver und Gold
 
@@ -24,6 +24,8 @@ Demonstrieren Sie Ihr Fachwissen bei der Bereitstellung von Qualitätslösungen 
 - Mit einer **Gold-Mitgliedschaft** demonstrieren Sie Ihre herausragende Kompetenz in einem bestimmten Bereich der Microsoft-Lösungen.
 
 - Als Gold-Mitgliedspartner können Sie Ihrem Portfolio außerdem erweiterte Spezialisierungen hinzufügen.
+
+Indem Sie die Kompetenzen **Silver-Mitgliedschaft** oder **Gold-Mitgliedschaft** erwerben, werden zudem leistungsstarke Vorteile für [Go-to-Market](mpn-learn-about-go-to-market-benefits.md)-Marketing und -Vertrieb bereitgestellt, die Ihnen helfen, Ihr Geschäft zu erweitern.
 
 ## <a name="competency-areas"></a>Kompetenzbereiche
 
@@ -40,6 +42,8 @@ Für die Kompetenzstufen Silver und Gold gelten für jedes der Gebiete jeweils v
 
 
 Lesen Sie hier, [was erforderlich ist, um eine Silver- und Gold-Mitgliedschaft zu erhalten](https://partner.microsoft.com/membership/competencies)
+
+Informieren Sie sich über spezielle [Go-to-Market-Vorteile, die für Silver- und Gold-Mitgliedschaften verfügbar sind](mpn-learn-about-go-to-market-benefits.md). 
 
 Weitere Informationen zu [Rechnungen und Steuern für Kompetenzen](mpn-view-print-maps-invoice.md)
 

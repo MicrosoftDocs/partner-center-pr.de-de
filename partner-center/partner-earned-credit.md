@@ -7,20 +7,18 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: a4074382d9cacbc363150db55fab62634150ebfd
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: e09e1421fd0ed1a126a43452d090009c0fb13412
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171173"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428435"
 ---
 # <a name="partner-earned-credit---overview"></a>Vom Partner erworbenes Guthaben – Übersicht
-
 
 Das vom Partner erworbene Guthaben stellt in der neuen E-Commerce-Oberfläche von CSP stellt ein Geschäftsmodell dar, das eine vereinfachte, einheitliche Azure-Preisgestaltung für die von den Go-To-Market-Mechanismen von Microsoft ermöglicht und zugleich ein Partner-Ökosystem fördert, das verwaltete Mehrwertdienste anbietet. Eine von Partnern erworbene Gutschrift hilft außerdem, Wettbewerb um die Marge zu beseitigen. 
 
 Angesichts tausender Dienste in Azure und mehrerer Kaufoptionen kann die Preisgestaltung viele Kunden und Partner vor Schwierigkeiten stellen. In der neuen E-Commerce-Oberfläche für Azure haben wir uns an einzelnen Preisprinzipien mit globaler Gültigkeit orientiert, die für alle von uns durchgeführten Datenbewegungen gelten. CSP-Partner können Azure zu den veröffentlichten Preisen anbieten. Dies bietet mehr Transparenz für ihre Kunden und stärkt das Vertrauen. 
-
 
 Die Kundenanforderungen an digitale Transformation ändern die Art von Wert, die von Partnern angeboten wird. Viele Kunden suchen Partner, um Dienstleistungen jenseits der Transaktion anzubieten, um ihre Reise in der Cloud problemlos zu gestalten und sie bei der effizienten Nutzung von Azure-Diensten zu unterstützen. Diese Dienste werden kontinuierlich angeboten und beinhalten Azure-Vermögensüberwachung, Richtlinien- und Governanceverwaltung, Setup und Optimieren der Konfiguration sowie eine Vielzahl weiterer Dienste. 
 
@@ -66,11 +64,12 @@ Erfahren Sie mehr über das Erweitern Ihres [Portfolios an verwalteten Diensten 
 Diese Dienste bringen ein entsprechendes Maß an Zugriff für Partner auf die Azure-Umgebung des Kunden mit sich, und unser E-Commerce-System misst die Zugriffsdetails, um das erworbene Guthaben des Partners zu berechnen.  
 
 >[!Note]
-
 >Kunden haben die Option, jeden Zugriff zu blockieren, der Partnern erteilt wurde. Partner dürfen Kunden nicht nötigen, ihnen geeigneten Zugriff zu erteilen, nur um damit vom Partner erworbenes Microsoft-Guthaben zu verdienen – die Nichtbeachtung dieser Anforderung kann Partner ihre Berechtigung kosten, von Partnern erworbenes Guthaben zu verdienen.
 
 **Weitere Informationen**
-- [Wie von Partnern erworbene Guthaben berechnet und bezahlt werden]
+
+- [Wie von Partnern erworbene Guthaben berechnet und bezahlt werden](partner-earned-credit-explanation.md)
+
 - [Verwalten von Abonnements und Ressourcen in einem Azure-Plan](azure-plan-manage.md)
 
 - [Preisliste für die neue Azure E-Commerce-Benutzeroberfläche in CSP](azure-plan-price-list.md)

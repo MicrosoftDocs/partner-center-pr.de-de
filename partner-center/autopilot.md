@@ -7,16 +7,16 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero-Touch Deployment, Windows-Willkommensseite, Anmeldebildschirme, Willkommensseite
 ms.localizationpriority: medium
-ms.openlocfilehash: 213ed9e45e0109eaa88d7575249272ba403dfcfd
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 7861efa8c0fd7e03488ba3f222fcb3a476c06cc2
+ms.sourcegitcommit: 76c34fd8dc544cea93496079df68759a1da9098c
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708746"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "73544054"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Anpassen der Windows-Willkommensseite eines Geräts mit Windows Autopilot-Profilen
 
-**Gilt für**
+**Zielgruppe**
 
 - CSP-Partner mit Direktfakturierung, indirekte Anbieter und indirekte Vertriebspartner
 
@@ -158,6 +158,27 @@ Führen Sie die im Partner Center nachstehenden Anweisungen zum Hinzufügen von 
 5. Laden Sie die CSV-Datei hoch, und klicken Sie dann auf **Speichern**.
 
 Wenn Sie beim Versuch, die CSV-Datei hochzuladen, eine Fehlermeldung erhalten, überprüfen Sie das Format der Datei. Sie können nur den Hardwarehash oder den OEM-Namen, die Seriennummer und das Modell (in dieser Spaltenreihenfolge) oder die Windows-Produkt-ID verwenden. Sie können auch die CSV-Beispieldatei verwenden, die über den Link neben **Geräte hinzufügen** bereitgestellt wird, um eine Geräteliste zu erstellen.
+
+Die CSV-Datei sollte in etwa wie folgt aussehen:
+
+> **Seriennummer des Geräts, Windows-Produkt-ID, Hardware Hash, Herstellername, Gerätemodell**
+
+> **{SerialNumber},,, Microsoft Corporation, Surface Laptop**
+
+Beachten Sie, dass bei "Herstellername" und "Gerätemodell" die Groß-/Kleinschreibung beachtet wird.
+
+Wenn Sie nicht wissen, welchen Wert Sie für Herstellername und Gerätemodell benötigen, können Sie diesen auf dem Gerät ausführen, um die richtigen Werte zu erfassen:
+
+<pre><code>md c:\\HWID
+
+Set-Location c:\\HWID
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Unrestricted
+
+Install-Script -Name Get-WindowsAutoPilotInfo
+
+Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
+</code></pre>
 
 ## <a name="windows-autopilot-eula-dismissal"></a>Ablehnung der Lizenzbedingungen für Windows Autopilot
 

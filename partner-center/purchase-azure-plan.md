@@ -1,18 +1,18 @@
 ---
 title: Kauf des Azure-Plans | Partner Center
 ms.topic: article
-ms.date: 10/01/2019
-description: Kaufen Sie mehrere Azure-Abonnements, ohne Einzelbestellungen für jedes Abonnement einreichen zu müssen
+ms.date: 11/01/2019
+description: Erwerben mehrerer Azure-Abonnements im Azure-Plan
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 0eead95dc6847dd1eca8f54d7a6e15f8312f9481
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171215"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428504"
 ---
 # <a name="purchase-the-azure-plan"></a>Kauf des Azure-Plans
 
@@ -30,10 +30,11 @@ Der Erwerb eines Azure-Plans ähnelt dem Erwerb eines beliebigen anderen Abonnem
 
 ![Kauf](images/azure/Azurepurchase1.png)
 
-Der Partner muss bestätigen, dass der Kunde die Geschäftsbedingungen des Microsoft Kundenvertrags gelesen und ihnen zugestimmt hat. Weitere Informationen, wie der Partner dies sicherstellen kann, finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag](https://docs.microsoft.com/en-us/partner-center/confirm-customer-agreement). Weitere Ressourcen stehen im [Ressourcenkatalog](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/) zur Verfügung.
+Der Partner muss bestätigen, dass der Kunde die Geschäftsbedingungen des Microsoft Kundenvertrags gelesen und ihnen zugestimmt hat. Weitere Informationen, wie der Partner dies sicherstellen kann, finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag](https://docs.microsoft.com/partner-center/confirm-customer-agreement). Weitere Ressourcen stehen im [Ressourcenkatalog](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/) zur Verfügung.
 
-1. Bestätigung
-2. Durch Aufforderung an den Kunden, den Microsoft-Kundenvertrag direkt mit Microsoft abzuschließen. 
+**Die Bestätigung können Sie wahlweise folgendermaßen vornehmen:**
+1. Digitales Bestätigen oder
+2. Aufforderung an den Kunden, den Microsoft-Kundenvertrag direkt mit Microsoft abzuschließen. 
 
 ### <a name="to-confirm"></a>Zur Bestätigung 
 
@@ -66,7 +67,7 @@ Azure-Reservierungen müssen einem aktiven Azure-Abonnement zugeordnet werden. W
 
 Beachten Sie, dass der Umfang der Reservierung derzeit nur auf **Freigegeben** festgelegt werden kann. 
 
-![scopeshared](images/azure/scopeshared.png)
+![scopeshared](images/azure/addprods1.png)
 
 So verwalten Sie die Reservierung des Kunden im Azure-Portal: 
 
@@ -78,7 +79,7 @@ So verwalten Sie die Reservierung des Kunden im Azure-Portal:
 
 Erweitern Sie auf der Seite **Abonnements** im Abschnitt für nutzungsbasierte Angaben **Azure-Plan**, um die zugeordneten Azure-Abonnements unter dem Azure-Plan anzuzeigen.
 
-![Viewlist](images/azure/viewlist.png)
+![Viewlist](images/azure/addprods2.png) 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Hinzufügen von Abonnements und Konfigurieren von Ressourcen

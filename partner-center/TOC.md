@@ -100,6 +100,7 @@
 ## [Einrichten eines Kundenbudgets für Azure-Kosten](set-an-azure-spending-budget-for-your-customers.md)
 ## [Allgemeine Abrechnungsszenarien](common-billing-scenarios.md)
 ## [Nichtbezahlung, Betrug oder Missbrauch](non-payment--fraud--or-misuse.md)
+## [Office 365 Partner Advisory: Microsoft 365 Voice in CSP](o365-partner-advisory.md)
 
 # [Kontakt zu Kunden](customer-accounts.md)
 ## [Hinzufügen eines neuen Kunden](add-a-new-customer.md)
@@ -122,7 +123,7 @@
 ### [Erwerb des Azure-Plans](purchase-azure-plan.md)
 ### [Vergleich von Azure-Angeboten](compare-azure-offers.md)
 ### [Umstellung Ihrer Kunden auf einen Azure-Plan](azure-plan-transition.md)
-### [Vom Partner erworbenes Guthaben – Übersicht](partner-earned-credit-overview.md)
+### [Vom Partner erworbenes Guthaben – Übersicht](partner-earned-credit.md)
 ### [Wie von Partnern erworbene Guthaben berechnet und bezahlt werden](partner-earned-credit-explanation.md)
 ### [Neues E-Commerce-Verfahren in CSP: Azure-Abrechnung](azure-plan-billing.md) 
 ### [Preisliste für die neue E-Commerce-Benutzeroberfläche in CSP für Azure](azure-plan-price-list.md)

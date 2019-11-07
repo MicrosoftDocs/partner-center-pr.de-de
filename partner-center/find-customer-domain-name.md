@@ -1,27 +1,29 @@
 ---
-title: Ermitteln des Domänennamens und der Verzeichnis-ID Ihres Kunden | Partner Center
+title: Suchen Sie den Domänen Namen und die Verzeichnis-ID Ihres Kunden. Partner Center
 ms.topic: article
 ms.date: 3/14/2019
-description: Hier erfahren Sie, wie Sie beim Senden eines Anspruchs den Domänennamen und die Verzeichnis-ID eines Kunden ermitteln.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Ermitteln des Domänen Namens und der Verzeichnis-ID Ihres Kunden beim Einreichen eines Anspruchs
 author: LauraBrenner
 ms.author: labrenne
 keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel, OSA, ISV, Umsatzzuordnung, Domänenname, Verzeichnis-ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c8982fa25fb1eea4f0ec73e4a9102215f356816
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
-ms.translationtype: HT
+ms.openlocfilehash: 6e9f78ff41783a1cd49790288d20c8ccdfd78192
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376416"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653111"
 ---
-# <a name="find-your-customers-domain-name-and-directory-id"></a>Ermitteln des Domänennamens und der Verzeichnis-ID Ihres Kunden
+# <a name="find-your-customers-domain-name-and-directory-id"></a>Suchen Sie den Domänen Namen und die Verzeichnis-ID Ihres Kunden.
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 
 1.  Bitten Sie Ihren Kunden, das [Microsoft Azure-Portal](https://ms.portal.azure.com/#home) zu öffnen und **Azure Active Directory** auszuwählen. 
 
-2.  Im Abschnitt **Übersicht** wird der Domänenname direkt über dem Unternehmensnamen angezeigt.  
+2.  Der Domänen Name wird im Abschnitt **Übersicht** Ihres Kunden direkt oberhalb des Firmennamens angezeigt.  
 
-3.  Wählen Sie **Verwalten** und anschließend **Eigenschaften**, um die Verzeichnis-ID des Unternehmens anzuzeigen.
+3.  Wählen Sie **Verwalten**und dann **Eigenschaften** aus, um die Verzeichnis-ID des Unternehmens anzuzeigen.

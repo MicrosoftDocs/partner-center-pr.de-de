@@ -2,18 +2,20 @@
 title: Microsoft Partner Network-Mitgliedschaft | Partner Center
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Erfahren Sie mehr über die Vorteile einer Partnerschaft mit Microsoft. Im Microsoft Partner Network finden Sie das größte Angebot von Produkten in der Branche sowie Programmoptionen für die Abgrenzung Ihres Unternehmens, für die Markteinführung und für den Verkauf Ihrer Lösungen.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Partner, Partnerschaft, MPN, Microsoft Partner Network Action Pack, MAPS, Aktion Pack-Abonnement, Vorteile, MPN-Vorteile, Mitgliedschaft, Silver, Gold, Kompetenzen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 109333a4cea7d19ff18708cc55d5c0b87b2bb13f
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 03aab24eab0fdf0ee5e116b033da679b8049a923
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978750"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661156"
 ---
 # <a name="partner-with-microsoft"></a>Partner von Microsoft
 
@@ -52,13 +54,13 @@ In den folgenden Ressourcen erfahren Sie mehr über das Action Pack:
 - [Action Pack erwerben](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >Sie verwalten Ihr Action Pack-Abonnement im Partner Center. Wenn Ihr Unternehmen noch nicht aus dem Partner Membership Center in Partner Center gewechselt hat, lesen Sie [vorbereiten für Ihren Umstieg auf Partner Center](partner-center/prepare-pmc-pc-migration.md) .  
+    >Sie verwalten Ihr Action Pack-Abonnement im Partner Center. Wenn Ihr Unternehmen noch nicht aus dem Partner Membership Center in Partner Center gewechselt hat, lesen Sie [vorbereiten für Ihren Umstieg auf Partner Center](prepare-pmc-pc-migration.md) .  
 
 - [Verlängern von MPN-Angeboten](renew-mpn-offers.md)
 
 ### <a name="competencies"></a>Kompetenzen
 
-Demonstrieren Sie Ihr Fachwissen bei der Bereitstellung von Qualitätslösungen in einem speziellen Geschäftsbereich. Microsoft-Kompetenzen dienen dazu, die Anforderungen Ihrer bestehenden Kunden zu erfüllen und für potenzielle Kunden erkennbar zu sein. Werden Sie Teil der Microsoft-Partnerelite, und heben Sie sich von anderen Anbietern ab.
+Demonstrieren Sie Ihr Fachwissen bei der Bereitstellung von Qualitätslösungen in einem speziellen Geschäftsbereich. Microsoft-Kompetenzen sind so konzipiert, dass Sie die Anforderungen Ihrer aktuellen Kunden erfüllen und für potenzielle Kunden erkennbar sind. Werden Sie Teil der Microsoft-Partnerelite, und heben Sie sich von anderen Anbietern ab.
 
 In den folgenden Ressourcen erfahren Sie mehr über Kompetenzen:
 

@@ -2,18 +2,20 @@
 title: Registrieren von Angeboten | Partner Center
 ms.topic: article
 ms.date: 08/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Für bestimmte in Frage kommende Lösungen werden Sie nach der Auswahl von „Gewonnen“ aufgefordert, zusätzliche Informationen anzugeben, um Ihr Angebot zu registrieren. Microsoft überprüft die von Ihnen bereitgestellten Informationen und kann während des Überprüfungsvorgangs weitere Details anfordern.
 author: JnHs
 ms.author: jenhayes
 keywords: Registrierung des Angebots
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3ea6fbc9cb341359435ae2e4765f68fc9414bd8a
-ms.sourcegitcommit: ba0b0eea3dbc028ec162f58b841ba9e3588f1dca
-ms.translationtype: HT
+ms.openlocfilehash: 03e2ef23923d76b833d64346614286a39826e71b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "70143776"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652059"
 ---
 # <a name="register-your-deals"></a>Registrieren Ihrer Angebote
 
@@ -33,17 +35,17 @@ Um ein neues Angebot zu registrieren, navigieren Sie zu **Empfehlungen > Angebot
 
 Geben Sie auf der Seite **Neues Angebot** die folgenden Informationen an.
 
-- **Kundendetails**: Geben Sie den **Firmennamen** Ihres Kunden ein, und wählen Sie **Land/Region** aus. Geben Sie dann **Stadt** und **Bundesland/Kanton** ein.
-- **Lösung**: Wählen Sie die Lösung aus, die für das Angebot verwendet werden soll. Wenn die richtige Lösung nicht angezeigt wird, wenden Sie sich an den Support.
-- **Vertragstyp**: Geben Sie an, ob der Vertrag **Neu** ist oder ob es sich um eine **Verlängerung** eines früheren Vertrags handelt.
-- **Gesamtvertragswert**: Der erwartete Gesamtwert für die Bindung. Dieser sollte alle Software- und Dienstgebühren, aber keine Hardwarekosten umfassen. Achten Sie darauf, dass Sie die entsprechende Währung auswählen.
-- **Lösungswert**: Der Gesamtwert der Cloudlösung, die für das Angebot verwendet wird. Stellen Sie sicher, dass Sie alle Kosten im Zusammenhang mit Software- und Wartungskosten einschließen, jedoch keine erstattungsfähigen Posten, einmalige Anpassungsgebühren oder direkt damit verbundene CSP-Lizenzgebühren, die von Microsoft bezahlt werden.
-- **Bereitgestellt in**: Wählen Sie **Azure** oder **Andere** aus.
-- **Wo wird die Lösung bereitgestellt?** : Wählen Sie **Kundenmandant** oder **Partnermandant** aus.
-- **Vertragsstartdatum**: Das Datum, an dem der Vertrag beginnt.
-- **Vertragsenddatum**: Wenn der Vertrag an einem bestimmten Datum endet, wählen Sie **Hat ein Enddatum** aus, und geben Sie dieses Datum an. Wenn dies nicht der Fall ist, wählen Sie **Permanent** aus.
-- **Datum der Vertragsunterzeichnung**: Das Datum, an dem der endgültige Vertrag von Ihrer Organisation und vom Kunden unterzeichnet wurde.
-- **Registrierungskontakt**: **Vorname**, **Nachname**, **Telefonnummer** und **E-Mail-Adresse** einer Person in Ihrer Organisation, an die wir uns wenden können, wenn wir weitere Details zu einer der hier bereitgestellten Informationen benötigen.
+- **Kunden Details**: Geben Sie den **Firmennamen** für Ihren Kunden ein, und wählen Sie Ihr **Land/Ihre Region**aus. Geben Sie dann **Stadt** und **Bundesland/Kanton** ein.
+- **Lösung**: Wählen Sie die Lösung aus, die für den Vorgang verwendet werden soll. Wenn die richtige Lösung nicht angezeigt wird, wenden Sie sich an den Support.
+- **Vertragstyp**: Geben Sie an, ob es sich um einen **neuen** Vertrag oder eine **Erneuerung** eines vorherigen Vertrags handelt.
+- **Total Contract Value**: der erwartete Gesamtwert für das Engagement. Dieser sollte alle Software- und Dienstgebühren, aber keine Hardwarekosten umfassen. Achten Sie darauf, dass Sie die entsprechende Währung auswählen.
+- **Projektmappenwert**: der Gesamtwert der cloudlösung, die für den Vorgang verwendet wird. Stellen Sie sicher, dass Sie alle Kosten im Zusammenhang mit Software- und Wartungskosten einschließen, jedoch keine erstattungsfähigen Posten, einmalige Anpassungsgebühren oder direkt damit verbundene CSP-Lizenzgebühren, die von Microsoft bezahlt werden.
+- Bereitgestellt auf: Wählen Sie entweder **Azure** oder **andere** **aus**.
+- **Wo wird die Lösung**bereitgestellt?: Wählen Sie entweder den **Kunden** Mandanten oder den **Partner**Mandanten aus.
+- **Startdatum des Vertrags**: das Datum, an dem der Vertrag beginnt.
+- **Vertrags Enddatum**: Wenn der Vertrag an einem bestimmten Datum endet, wählen Sie **ein Enddatum** aus, und geben Sie das Datum an. Wenn dies nicht der Fall ist, wählen Sie **Permanent** aus.
+- **Datum der Vertrags Signierung**: das Datum, an dem der abschließende Vertrag von Ihrer Organisation und vom Kunden signiert wurde.
+- **Registrierungs Kontakt**: **Vorname**, **Nachname**, **Telefonnummer**und **e-Mail-Adresse** für eine Person in Ihrer Organisation, an die wir mich wenden können, wenn wir weitere Details zu den hier bereitgestellten Informationen benötigen.
 
 Wenn Sie alle Abschnitte der Seite ausgefüllt haben, klicken Sie auf **Registrieren**. Die Angebotsregistrierung wird dann auf die Seite **In Bearbeitung** verschoben. Microsoft prüft anschließend die von Ihnen bereitgestellten Informationen.
 
@@ -63,6 +65,6 @@ Auf der Seite **Empfehlungen > Angebotsregistrierungen > In Bearbeitung** werden
 
 Wenn Informationen aktualisiert werden müssen, verschieben wir die Angebotsregistrierung ggf. auf die Seite **Aktion erforderlich**.
 
-### <a name="closed"></a>Abgeschlossen
+### <a name="closed"></a>Geschlossen
 
 Auf der Seite **Empfehlungen > Angebotsregistrierungen > Abgeschlossen** werden die Angebote angezeigt, die erfolgreich registriert und von Microsoft überprüft wurden. Sie können die Filter verwenden, um nur Registrierungen vom Typ **Genehmigt** oder **Abgelehnt** anzuzeigen.

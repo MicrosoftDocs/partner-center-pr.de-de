@@ -2,27 +2,29 @@
 title: Verkaufen lokaler Software über CSP | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Verkaufen lokaler Software über CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner im CSP, direkte Partner, direkter CSP-Partner, indirekter CSP-Händler, direkter CSP, indirekter CSP, direktes Modell, indirektes Modell, indirekter Händler, indirekter Anbieter, Anbieter, Verteiler, Cloud Solution Provider-Programm
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: d02b1ff64aa529c4f36dc50e16187bb48fa88bab
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 07d242661e2769d54b2e36beb091d05c74cabd5d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64666873"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653527"
 ---
 # <a name="sell-on-premise-software-through-csp"></a>Verkaufen lokaler Software über das CSP-Programm
 
-Lokale Software in CSP unterstützt einen nahtlosen Übergang in die Cloud durch Einführung lokaler Software in einem cloudorientierten Programm.  Dieses neue Angebot hilft dem Wertschöpfungspartner in jedem Einkaufsszenario, da es eine einzige Plattform für die Abwicklung aller Microsoft-Produkte bietet. Als CSP können Sie nun über das Partner Center zusätzlich zu Open-, EA- und anderen Programmen lokale Software verkaufen. Lokale Software in CSP ist ein neues Vertriebsprogramm, das keines der anderen Programme von Microsoft zur Volumenlizenzierung ersetzen soll. 
+Lokale Software in CSP unterstützt einen nahtlosen Übergang in die Cloud durch Einführung lokaler Software in einem cloudorientierten Programm.  Mit diesem neuen Angebot können Sie den Wert hinzugefügten Partner in jedes Kauf Szenario einbringen, da Sie eine einzelne Plattform für die Transaktion aller Microsoft-Produkte bereitstellen. Als CSP können Sie nun über das Partner Center zusätzlich zu Open-, EA- und anderen Programmen lokale Software verkaufen. Lokale Software in CSP ist ein neues Vertriebsprogramm und soll keine anderen Volumen Lizenzierungs Programme von Microsoft ersetzen. 
  
-Indem wir mit Lizenzierungsoptionen für lokale Software einen optimalen allgemeinen Nutzen für Kunden sicherstellen, haben wir auch das Geschäftsmodell so partnerfreundlich wie möglich gestaltet. Eine einfache Lizenzierung lokaler Software in CSP bedeutet Kostenvorhersagbarkeit und einen optimierten Verkaufsprozess für Sie. Dieses neue Geschäftsmodell vereinfacht Beschaffung, Verwaltung und Preisfindung für lokale Software für Ihre Kunden, während Sie sich darauf konzentrieren können, neue Geschäfte mit einem erweiterten Portfolio an Mehrwertlösungen für die IT-Verwaltung zu machen. 
+Obwohl wir den besten Gesamtwert der Kunden mit den Optionen für die lokale Software Lizenzierung sicherstellen, haben wir das Geschäftsmodell auch als Partner freundlicher gestaltet. Eine einfache Lizenzierung lokaler Software in CSP bedeutet Kostenvorhersagbarkeit und einen optimierten Verkaufsprozess für Sie. Dieses neue Geschäftsmodell vereinfacht Beschaffung, Verwaltung und Preisfindung für lokale Software für Ihre Kunden, während Sie sich darauf konzentrieren können, neue Geschäfte mit einem erweiterten Portfolio an Mehrwertlösungen für die IT-Verwaltung zu machen. 
 
 >[!NOTE]
->Lokale Software steht derzeit nur bestimmten Partnern zur Verfügung. Um festzustellen, ob Sie dazu berechtigt sind, wenden Sie sich an Ihren Ansprechpartner bei Microsoft. 
+>Lokale Software steht derzeit nur bestimmten Partnern zur Verfügung. Informationen dazu, ob Sie berechtigt sind, finden Sie unter Ihr Microsoft-Kontakt. 
 
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Kaufen von Softwareabonnements im Auftrag von Kunden
@@ -31,12 +33,12 @@ Um Softwareabonnements im Auftrag eines Kunden zu erwerben, wechseln Sie zur Det
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivieren und Verwalten von Softwareabonnements
 
-Nachdem Sie die Software erworben haben, muss sie von Ihnen und Ihren Kunden heruntergeladen werden. Führen Sie dazu die nachfolgend aufgeführten Schritte aus. 
+Nachdem Sie Ihre Software erworben haben, müssen Sie und ihre Kunden Sie herunterladen. Führen Sie dazu die nachfolgend aufgeführten Schritte aus. 
 
 >[!NOTE]
 >Sie müssen ein Administrator-Agent sein, um Schlüssel abrufen und Software herunterladen zu können. 
 
-1. Wechseln Sie zur Detailseite des Kunden, und wählen Sie dann **Software** aus. Sie sehen eine Liste der gesamten Software, die Sie im Auftrag des Kunden erworben haben. 
+1. Wechseln Sie zur Detailseite des Kunden, und wählen Sie dann **Software** aus. Sie sehen eine Liste der Software, die Sie im Namen des Kunden erworben haben. 
 2.  Erweitern Sie das Produkt, das Sie herunterladen möchten. Wählen Sie im Feld **Produkt auswählen** die **Version**, **Sprache** sowie **Dateityp/Betriebssystem** aus. 
 3.  Klicken Sie auf **Senden**, um die spezifischen Produkte anzuzeigen. 
 4.  Wählen Sie **Schlüssel und Downloads abrufen**. 
@@ -58,7 +60,7 @@ Gehen Sie wie folgt vor, um einen Kauf zu stornieren. Sobald die Stornierung abg
     -   Grund für Rückerstattung
     -   Angeforderter Betrag
 
-2.  Wählen Sie auf der Detailseite des Kunden **Software** aus. Sie sehen eine Liste der gesamten Software, die Sie erworben haben. 
+2.  Wählen Sie auf der Seite Details des Kunden die Option **Software**aus. Sie sehen eine Liste der Software, die Sie gekauft haben. 
 
 3.  Suchen Sie die Software, die Sie stornieren möchten, und wählen Sie **Abbrechen**. Die Seite **Melden eines Problems mit Partner Center** wird geöffnet. 
 
@@ -76,4 +78,4 @@ Gehen Sie wie folgt vor, um einen Kauf zu stornieren. Sobald die Stornierung abg
 
 8.  Wenn Sie aus einem beliebigen Grund eine Datei anfügen möchten, wählen Sie **Dateien hinzufügen** aus. Dieser Schritt ist optional. 
 
-9.  Wenn Sie fertig sind, klicken Sie auf **Senden**.
+9.  Wenn Sie fertig sind, wählen Sie über **Mitteln**aus.

@@ -2,42 +2,44 @@
 title: Abrechnungsübersicht | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Informationen zu grundlegenden Abrechnungsszenarien und den Unterschieden zwischen lizenzbasierter und nutzungsbasierter Abrechnung
 author: LauraBrenner
 ms.author: labrenne
 keywords: Abrechnung, Zahlungen, Bestellungen, Kündigung, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Kontenabstimmungsdateien, Kontenabstimmungsdatei
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e13f3d24e649cf17daa1e3218c3376c8fc6e4faa
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 13c2ecd5efcd3b2917a98b218c568b080a2a7833
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820378"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653758"
 ---
 # <a name="billing-overview"></a>Abrechnungsübersicht
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner im CSP-Programm
 
-Je nach den Produkten, Lösungen und Diensten, die Sie im Auftrag Ihrer Kunden erwerben, werden Ihnen diese Käufe auf eine oder mehrere der folgenden Arten in Rechnung gestellt:
+Abhängig von den Produkten, Lösungen und Diensten, die Sie im Namen Ihrer Kunden kaufen, werden Ihnen diese Käufe auf eine oder mehrere der folgenden Arten in Rechnung gestellt:
 -   [Lizenzbasierte Abrechnung](#licensebasedbilling)
 
-    Wenn Sie Produkte oder Onlinedienste erwerben, für die Lizenzen erforderlich sind, wird Ihnen jede erworbene Lizenz (nicht deren Nutzung) in Rechnung gestellt. Sie können wählen, ob die Abrechnung einmal monatlich oder einmal jährlich erfolgen soll. Wenn sich Ihre Geschäftsanforderungen ändern, können Sie von einer zur anderen Abrechnungsart und wieder zurück wechseln. 
+    Wenn Sie Produkte oder Onlinedienste kaufen, für die Lizenzen erforderlich sind, wird Ihnen jede Lizenz, die Sie gekauft haben, in Rechnung gestellt (nicht bei der Lizenznutzung). Sie können wählen, ob die Abrechnung einmal monatlich oder einmal jährlich erfolgen soll. Wenn sich Ihre Geschäftsanforderungen ändern, können Sie von einer zur anderen Abrechnungsart und wieder zurück wechseln. 
     
     Weitere Informationen zu monatlicher und jährlicher Abrechnung finden Sie unter [Häufig gestellte Fragen](https://docs.microsoft.com/partner-center/faq-about-new-billing-features) zur Abrechnung.
 
 -   [Nutzungsbasierte Abrechnung](#usagebasedbilling)
 
-    Wenn Sie Onlinedienste wie z.B. Azure-Abonnements erwerben, werden Ihnen monatliche Nutzungsraten in Rechnung gestellt. Bei nutzungsbasierten Produkten gibt es nur die monatliche Abrechnung. Nutzungsbasierte Dienste wie Azure werden entsprechend den getakteten Dienstleistungspreisen, basierend auf dem Verbrauch, abgerechnet.
+    Wenn Sie Onlinedienste wie z. b. Azure-Abonnements erwerben, werden Ihnen monatliche Nutzungsraten in Rechnung gestellt. Bei nutzungsbasierten Produkten gibt es nur die monatliche Abrechnung. Nutzungsbasierte Dienste wie Azure werden entsprechend den getakteten Dienstleistungspreisen, basierend auf dem Verbrauch, abgerechnet.
 
 -   [Einmalige Abrechnung](#onetimebilling)
 
-    Wenn Sie Azure-Reservierungen oder andere Softwareabonnements erwerben, bezahlen Sie im Voraus für eine bestimmte Laufzeit. Weil Sie im Voraus bezahlen, wird Ihnen ein Einmal-Pauschalbetrag in Rechnung gestellt. 
+    Wenn Sie Azure-Reservierungen oder andere Softwareabonnements erwerben, bezahlen Sie im Voraus für eine bestimmte Laufzeit. Da Sie im Voraus bezahlen, werden Ihnen eine Pauschal Summe in Rechnung gestellt. 
     
-Wenn Sie eine monatliche Rechnungsstellung gewählt oder wenn Sie nutzungsbasierte Produkte erworben haben, die monatlich abgerechnet werden, ist Ihr monatliches Abrechnungsdatum der Tag des Monats, den Sie bei der Erstellung Ihres CSP-Kontos im Partner Center ausgewählt haben. Nachdem Sie Ihr CSP-Konto erfolgreich erstellt haben, sendet Ihnen Microsoft eine Bestätigungs-E-Mail mit Ihrem Abrechnungsdatum. Dieses Datum kann nach seiner Erstellung nicht mehr geändert werden. 
+Wenn Sie sich für eine monatliche Abrechnung entschieden haben oder nutzungsbasierte Produkte gekauft haben, die monatlich abgerechnet werden, ist Ihr monatliches Abrechnungsdatum der Tag des Monats, den Sie beim Erstellen Ihres CSP-Kontos im Partner Center ausgewählt haben. Nachdem Sie Ihr CSP-Konto erfolgreich erstellt haben, sendet Microsoft eine Bestätigungs-e-Mail, die ihr Abrechnungsdatum enthält. Dieses Datum kann nach seiner Erstellung nicht mehr geändert werden. 
 
 ## <a name="pricing-and-invoicing"></a>Abrechnung und Fakturierung
 Preislisten sind einen (1) Monat im Voraus verfügbar, da sie monatlich aktualisiert werden. Lizenzbasierte Preise sind für die Dauer des Abonnements, in der Regel 12 Monate nach dem Kaufdatum, garantiert. Nutzungsbasierte Preise können sich monatlich ändern. 
@@ -90,7 +92,7 @@ Bei einer Änderung Ihrer Geschäftsanforderungen können Sie die Abrechnungshä
 
 2.  Wählen Sie auf der Seite „Abonnements“ des Kunden das Abonnement aus, das Sie ändern möchten. 
 
-3.  Wählen Sie auf der Detailseite unter **Fakturierungsintervall** entweder **Monatlich** oder **Jährlich** aus. Es wird Ihnen eine Bestätigungsseite mit wichtigen Informationen zum Ändern der Abrechnungshäufigkeit sowie eine Liste der Abonnements angezeigt, die gleich geändert werden. 
+3.  Wählen Sie auf der Detailseite unter **Fakturierungsintervall** entweder **Monatlich** oder **Jährlich** aus. Es wird eine Bestätigungsseite mit wichtigen Informationen über das Ändern der Abrechnungs Häufigkeit und eine Liste der Abonnements angezeigt, die geändert werden sollen. 
 
 4.  Wählen Sie **OK** aus, damit die Änderung vorgenommen wird, oder **Abbrechen**, um sie rückgängig zu machen. 
 
@@ -109,7 +111,7 @@ Einige Microsoft-Produkte und -Dienste verwenden das Abrechnungsmodell „nutzun
 
 -   Getaktete Dienstleistungspreise können sich innerhalb des Abrechnungszyklus ändern. 
 
-    -   Preiserhöhungen: Werden 30 Tage zuvor bekanntgegeben.
+    -   Preiserhöhungen werden 30 Tage zuvor bekanntgegeben.
 
     -   Preissenkungen werden am Tag der Änderung angezeigt.
 
@@ -130,7 +132,7 @@ Alle Guthaben, einschließlich SLA-Guthaben, werden in der nächsten monatlichen
 Sie können Softwareabonnements und Azure-Reservierungen für eine Laufzeit von einem Jahr oder drei Jahren im Voraus erwerben. Wenn Sie sie im Voraus erwerben, werden Ihnen die gesamten Kosten als Einmal-Pauschalbetrag in Rechnung gestellt. Diese Abrechnungsart wird als „einmalige Abrechnung“ bezeichnet.
 
 >[!IMPORTANT]
->Wenn Sie Azure-Reservierungen und/oder Softwareabonnements für einen Kunden an einem Standort mit einer anderen Währung als Ihrer Währung erwerben, basiert die Standardabrechnungswährung auf dem Standort des Kunden, nicht Ihrem Standort. Wenn Sie Kunden an mehreren Standorten haben, erhalten Sie getrennte Rechnungen und Kontenabstimmungsdateien für jede Währung der Kunden, die in Rechnung gestellt werden müssen, damit Sie Ihren Kunden Rechnungen in der entsprechenden Währung ausstellen können. 
+>Wenn Sie Azure-Reservierungen und/oder Software Abonnements für einen Kunden an einem Standort mit einer anderen Währung als Ihrem kaufen, basiert die Standard Abrechnungswährung auf dem Standort des Kunden und nicht auf Ihrem Standort. Wenn Sie über Kunden an mehreren Standorten verfügen, erhalten Sie separate Rechnungen und Abstimmungs Dateien für jede Währung, in der Kunden abgerechnet werden müssen, damit Sie Ihre Kunden in der entsprechenden Währung berechnen können. 
 
 ### <a name="manage-your-one-time-billing"></a>Verwalten Ihrer einmaligen Abrechnung
 
@@ -140,17 +142,17 @@ Sie können Softwareabonnements und Azure-Reservierungen für eine Laufzeit von 
 
 2.  Wählen Sie eine Rechnung oder Kontenabstimmungsdatei aus, um ausführlichere Informationen anzuzeigen. 
 
-**Anzeigen des Bestellverlaufs eines Kunden**
+**Anzeigen des Auftragsverlaufs eines Kunden**
 
 1.  Wählen Sie im Menü „Partner Center” **Kunden** aus.
 
-2.  Suchen Sie auf der Seite **Kunden** den Kunden, dessen Bestellverlauf Sie anzeigen möchten, und wählen Sie den Abwärtspfeil aus, um den Datensatz des Kunden zu erweitern. 
+2.  Suchen Sie auf der Seite " **Kunden** " den Kunden, dessen Bestellverlauf Sie anzeigen möchten, und wählen Sie dann den Pfeil nach unten aus, um den Datensatz des Kunden zu erweitern. 
 
 3.  Wählen Sie **Bestellungen anzeigen** aus, um den Bestellverlauf anzuzeigen.
 
 **Herunterladen einer Gutschrift**
 
-Wenn Sie eine Gutschrift oder Neuberechnung anfordern müssen, stellen wir Ihnen eine Gutschrift zur Stornierung der ursprünglichen Rechnung aus. Sie könnten aus folgenden Gründen eine Gutschrift/Neuberechnung anfordern:
+Wenn Sie ein Guthaben oder eine Rechnung anfordern müssen, erhalten Sie eine Gutschrift, um die ursprüngliche Rechnung abzubrechen. Sie könnten aus folgenden Gründen eine Gutschrift/Neuberechnung anfordern:
 
 -   Korrektur der Adresse oder Bestellung
 

@@ -2,17 +2,19 @@
 title: Melden von Problemen mit dem Partner Center | Partner Center
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Informationen zum Melden von Problemen mit Partner Center und zum Sammeln von Diagnoseinformationen für unser Support-Team.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f1f7473f78226a06f06862d466e79b75dfb3b609
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: ba571a8d0810919353b01a5199c77af3dbbb3075
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425192"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651713"
 ---
 # <a name="report-problems-with-partner-center"></a>Melden von Problemen mit dem Partner Center
 
@@ -39,7 +41,7 @@ Wenden Sie sich an den Partner Center-Support, wenn Sie Probleme mit dem Partner
 
 **Senden von Diagnosen**
 
-Wenn ein Fehler auftritt, während Sie sich auf einer Partner Center-Seite befinden, werden Sie eventuell aufgefordert, Protokollinformationen zu sammeln. Wählen Sie **Collect more information** (Weitere Informationen sammeln) über den Link aus, der vom oberen Rand der Seite nach unten klappt, um das Clientdiagnosetool zu öffnen. Dieses Tool sammelt Informationen, die das Partner-Supportteam benötigt, um die Fehlerursache zu ermitteln. 
+Wenn ein Fehler auftritt, während Sie sich auf einer Partner Center-Seite befinden, werden Sie möglicherweise aufgefordert, Protokollinformationen zu sammeln. Wählen Sie **Collect more information** (Weitere Informationen sammeln) über den Link aus, der vom oberen Rand der Seite nach unten klappt, um das Clientdiagnosetool zu öffnen. Dieses Tool sammelt Informationen, die das Partner-Supportteam benötigt, um die Fehlerursache zu ermitteln. 
 
 >[!NOTE]
 >Auf Partner Center-Seiten, die **/pcv/** in der URL enthalten, können Sie das Tool manuell öffnen, um diese Informationen zu erfassen.

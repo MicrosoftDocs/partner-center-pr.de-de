@@ -2,23 +2,25 @@
 title: Umsatzsteigerung mit Empfehlungen von Microsoft | Partner Center
 ms.topic: article
 ms.date: 08/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Generieren Sie Geschäftsleads, und nehmen Sie Kontakt mit Kunden auf, die Unterstützung bei der Implementierung von Microsoft-Produkten und -Lösungen benötigen.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Empfehlungen, Unternehmensprofil, Partner suchen
 ms.localizationpriority: medium
-ms.openlocfilehash: de46c7546ea424c313d0f8216db86d515e851da1
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: a213c9b3a031b355f045b8fc976fac1dcc27e756
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958737"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652160"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
-# <a name="grow-your-business-with-referrals-from-microsoft"></a>Steigerung des Umsatzes mit Empfehlungen von Microsoft
+# <a name="grow-your-business-with-referrals-from-microsoft"></a>Umsatzsteigerung mit Empfehlungen von Microsoft
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 
@@ -31,5 +33,5 @@ Wir möchten für Sie den Kontakt mit Kunden herstellen, die Ihre Lösungen und 
 Schauen Sie sich zu Beginn dieses kurze Video an: [Optimieren Ihres Unternehmensprofils](https://player.vimeo.com/video/252788046).  
 
 <!-- 
-*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you’re getting in front of your target customers.
+*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you're getting in front of your target customers.
 -->

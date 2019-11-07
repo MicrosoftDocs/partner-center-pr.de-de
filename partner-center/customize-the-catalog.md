@@ -2,21 +2,23 @@
 title: Anpassen des Katalogs | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Im Katalog sind alle Microsoft-Produkte und -Add-Ons aufgeführt, die Partnern zum Verkauf zur Verfügung stehen.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1617383b3cca62b30d4bb6825649f44985078118
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: bc06bf037811aa9d572febbe2bb88e652ee6f6b7
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64666750"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653421"
 ---
 # <a name="customize-the-catalog"></a>Anpassen des Katalogs
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government

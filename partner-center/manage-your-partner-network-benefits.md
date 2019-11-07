@@ -2,17 +2,19 @@
 title: Verwalten der Microsoft Partner Network-Vorteile | Partner Center
 ms.topic: article
 ms.date: 10/29/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Als Microsoft Partner Network-Mitglied haben Sie Anspruch auf den Erwerb bestimmter Mitgliedschaftsvorteile. In diesem Artikel erfahren Sie, wie Sie Mitgliedschaftsvorteile in Partner Center aktvieren und verwalten.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, Mitgliedschaftsvorteile, Mitgliedschaft
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f958bf9fceb9f11edbd63b139796e4944486310
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: be9f4ab4bc23308c3f2a342e6debba1338de4454
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413329"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653315"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten Ihrer Microsoft Partner Network-Mitgliedschaftsvorteile
 
@@ -35,7 +37,7 @@ Nach dem Erwerb eines Mitgliedschaftsvorteilspakets müssen Sie Softwareschlüss
 
 Vorteil von Paketen sind die Zuordnungen lizenzierter Software, Clouddienste, Visual Studio-Abonnements und Support. Mit den Vorteilen von Vorteilen können auch bestimmte Markt Einführungs Vorteile berücksichtigt werden. Ausführliche Informationen zum Action Pack-Abonnement finden Sie auf der [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software)-Website.  
 
-Um all Ihre Mitgliedschafts Vorteile anzuzeigen und zu verwalten, wechseln Sie zur Seite mit den [ **Vorteilen** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Alternativ können Sie sich beim Partner Center- [Dashboard](https://docs.microsoft.com/en-us/partner-center/)anmelden, im Menü auf der linken Seite die**Option [Vorteile**] auswählen und dann die angezeigten Vorteils Optionen auswählen.  
+Um all Ihre Mitgliedschafts Vorteile anzuzeigen und zu verwalten, wechseln Sie zur Seite mit den [ **Vorteilen** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Alternativ können Sie sich beim Partner Center- [Dashboard](https://docs.microsoft.com/partner-center/)anmelden, im Menü auf der linken Seite die**Option [Vorteile**] auswählen und dann die angezeigten Vorteils Optionen auswählen.  
 
 #### <a name="manage-software-benefits"></a>Verwalten von Softwarevorteilen
 
@@ -108,6 +110,7 @@ Um all Ihre Mitgliedschafts Vorteile anzuzeigen und zu verwalten, wechseln Sie z
 
 - Globaler Administrator
 - MPN-Partner Administrator
+
 
 1. Wählen Sie die **Vorteile der Markteinführung** aus, um die Liste der Vorteile von Microsoft für die Markteinführung anzuzeigen.
 

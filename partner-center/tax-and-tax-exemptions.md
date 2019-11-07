@@ -2,21 +2,23 @@
 title: Steuern und Steuerbefreiungen | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf den Weiterverkauf von Produkten durch Partner konzentriert, ist Microsoft nicht in allen Fällen verpflichtet, bei Partnerrechnungen die Mehrwertsteuer zu berechnen.
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5d0e998a53c6c1b4ab61b18c077b35bb888dd8c0
-ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
-ms.translationtype: HT
+ms.openlocfilehash: 06163368802263c49631d1eafabe5d18bf66b44b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "67262981"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654021"
 ---
 # <a name="tax-and-tax-exemptions"></a>Steuern und Steuerbefreiungen
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -53,32 +55,32 @@ Da das Programm für Cloud-Lösungsanbieter ein Vertriebskanal ist, der sich auf
 <ol>
 <li>Wechseln Sie in Partner Center zum Menü „Partner Center“ &gt; <strong>Kontoeinstellungen</strong> &gt; <strong>Partnerabrechnungsprofil</strong>.</li>
 <li>Wählen Sie im Abschnitt <strong>Finanzdaten</strong> die Option <strong>Aktualisieren</strong> aus.</li>
-<li>Geben Sie unter <strong>Steuernummer des Unternehmens</strong> Ihre  USt-IdNr. an.</li>
+<li>Geben Sie unter <strong>Steuernummer des Unternehmens</strong> Ihre USt-IdNr. an.</li>
 </ol></td>
 </tr>
 <tr class="odd">
 <td>Südafrika</td>
 <td><p>
-Microsoft wendet jetzt die standardmäßige Mehrwertsteuer (MwSt.) auf digitale Inhalte und Dienste von Partnern in Südafrika erworben haben. Um Ihre Rechnungen Umsatzsteuer ausgeschlossen, und dies selbst zu verwalten, verwenden Sie das folgende Verfahren, um Ihre partnerabrechnungsprofil zu aktualisieren.
+Microsoft wendet nun die Standardwert Added Tax (Tax) auf digitale Inhalte und Dienste an, die von Partnern in Südafrika erworben wurden. Gehen Sie wie folgt vor, um das Abrechnungs Profil Ihres Partners zu aktualisieren.
 </p>
 <p>Übermitteln der USt-IdNr. an Microsoft</strong></p>
 <ol>
 <li>Wechseln Sie in Partner Center zum Menü „Partner Center“ &gt; <strong>Kontoeinstellungen</strong> &gt; <strong>Partnerabrechnungsprofil</strong>.</li>
 <li>Wählen Sie im Abschnitt <strong>Finanzdaten</strong> die Option <strong>Aktualisieren</strong> aus.</li>
-<li>Geben Sie unter <strong>Steuernummer des Unternehmens</strong> Ihre  USt-IdNr. an.</li>
+<li>Geben Sie unter <strong>Steuernummer des Unternehmens</strong> Ihre USt-IdNr. an.</li>
 </ol></td>
 </tr>
 <tr class="even">
-<td>Turkei</td>
+<td>Türkei</td>
 <td>
 <p>
-Microsoft wendet jetzt die standardmäßige Mehrwertsteuer (MwSt.) auf digitale Inhalte und Dienste an, die von Partnern in der Türkei erworben werden. Um Ihre Rechnungen Umsatzsteuer ausgeschlossen, und dies selbst zu verwalten, verwenden Sie das folgende Verfahren, um Ihre partnerabrechnungsprofil zu aktualisieren.
+Microsoft wendet jetzt die standardmäßige Mehrwertsteuer (MwSt.) auf digitale Inhalte und Dienste an, die von Partnern in der Türkei erworben werden. Gehen Sie wie folgt vor, um das Abrechnungs Profil Ihres Partners zu aktualisieren.
 </p>
 <p>Übermitteln der USt-IdNr. an Microsoft</strong></p>
 <ol>
 <li>Wechseln Sie in Partner Center zum Menü „Partner Center“ &gt; <strong>Kontoeinstellungen</strong> &gt; <strong>Partnerabrechnungsprofil</strong>.</li>
 <li>Wählen Sie im Abschnitt <strong>Finanzdaten</strong> die Option <strong>Aktualisieren</strong> aus.</li>
-<li>Geben Sie unter <strong>Steuernummer des Unternehmens</strong> Ihre  USt-IdNr. an.</li>
+<li>Geben Sie unter <strong>Steuernummer des Unternehmens</strong> Ihre USt-IdNr. an.</li>
 </ol></td>
 </tr>
 <tr class="odd">

@@ -2,17 +2,19 @@
 title: Verwenden der Abstimmungsdateien | Partner Center
 ms.topic: article
 ms.date: 07/08/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Laden Sie die Kontenabstimmungsdateien aus dem Partner Center herunter, um ausführliche Informationen zu den einzelnen Rechnungspositionen der Gebühren in einem Abrechnungszyklus anzuzeigen.
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cbc982fa5bf6848cb77a2de2dcdaa7660c422888
-ms.sourcegitcommit: 30f946b3c5c2c30a5ee3276037385ea97e644781
+ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "71931576"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653975"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -71,7 +73,7 @@ Partner im indirekten Modell können diese zusätzlichen Felder in den beiden li
 <p>Die MPN-ID des registrierten Handelspartners für das Abonnement. Dies entspricht der Handelspartner-ID, die für das spezifische Abonnement im Partner Center aufgeführt ist.</p>
 <p>Wählen Sie zum Anzeigen oder Aktualisieren des Handelspartners im Partner Center-Menü <strong>Kunden</strong> und dann den Kunden in der Liste aus. Wählen Sie im Menü „Kunden” <strong>Abonnements</strong> und dann das Abonnement aus der Liste aus. Wählen Sie <strong>Aktualisieren</strong> aus, um <strong>Vertriebspartner (MPN-ID)</strong> zu ändern.</p>
 <p>Wenn ein CSP-Partner das Abonnement direkt an den Kunden veräußert hat, wird seine MPN-ID zweimal aufgeführt: als MPN-ID und als MPN-ID des Handelspartners.</p>
-<p>Wenn ein CSP-Partner über einen Handelspartner ohne MPN-ID verfügt, wird dieser Wert stattdessen auf die MPN-ID des Partners festgelegt.</p>
+<p>Wenn ein CSP-Partner über einen Reseller ohne MPN-ID verfügt, wird dieser Wert stattdessen auf die MPN-ID des Partners festgelegt.</p>
 <p>Wenn der CSP-Partner eine Handelspartner-ID entfernt, wird dieser Wert auf-1 festgelegt.</p></td>
 </tr>
 </tbody>
@@ -342,8 +344,8 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 <td>ServiceType</td>
 <td><p>Der bestimmte Typ des Windows Azure-Dienstes.</p></td>
 <td><ul>
-<li>Service Bus – einzeln oder als Paket</li>
-<li>SQL Azure-Datenbank – Business oder Web Edition</li>
+<li>Service Bus einzeln oder Paket</li>
+<li>SQL Azure Datenbank-Business oder Web Edition</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -464,7 +466,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>Die Anzahl der ServiceBus-Verbindungen, die bereitgestellt und an einem bestimmten Tag genutzt wurden.</p></td>
-<td>Beispiel: Wenn Sie während eines Monats mit 30 Tagen über eine individuell bereitgestellte Verbindung verfügen, wird für Service Info 1 „1,000000 Verbindungen/30 Tage” angegeben. Wenn ein Paket von 25 ServiceBus-Verbindungen bereitgestellt wurden und Sie an diesem Tag 1 genutzt haben, wird als tägliche Nutzung für diesen Tag „25 Verbindungen/30 Tage – Verwendet: 1,000000“ angegeben.</td>
+<td>Wenn Sie z. b. während eines 30-tägigen Monats eine einzeln bereitgestellte Verbindung haben, lesen Dienst Info 1 "1,000000 Connections/30 Days". Wenn Sie über ein 25-Service-Paket mit Service Bus-Verbindungen verfügen und während des Tages 1 verwendet haben, würde Ihre tägliche Nutzungs Erklärung für diesen Tag "25 Verbindungen/30 Tage verwendet: 1,000000" lauten.</td>
 </tr>
 <tr class="even">
 <td>Kunden-ID</td>
@@ -561,7 +563,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 <tr class="odd">
 <td>AvailabilityId</td>
-<td><p>Die ID einer bestimmten Verfügbarkeit. „Verfügbarkeit“ bezieht sich darauf, ob eine bestimmte SKU für ein bestimmtes Land, eine Währung, ein Branchensegment usw. erhältlich ist.</p></td>
+<td><p>Die ID einer bestimmten Verfügbarkeit. "Verfügbarkeit" bezieht sich darauf, ob eine bestimmte SKU für das jeweilige Land, die Währung, das Branchensegment usw. für den Erwerb verfügbar ist.</p></td>
 </tr>
 
 <tr class="even">
@@ -606,7 +608,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 <tr class="even">
 <td>Laufzeit und Abrechnungszyklus</td>
-<td><p>Die Laufzeitlänge und der Abrechnungszyklus für den Kauf. Beispiel: 1 Jahr, monatlich.</p></td>
+<td><p>Die Laufzeitlänge und der Abrechnungszyklus für den Kauf. Beispiel: "1 Jahr, monatlich".</p></td>
 </tr>
 
 <tr class="odd">
@@ -711,7 +713,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 <tr class="odd">
 <td>CustomerDomainName</td>
-<td><p>Der Name der Domäne des Kunden. Für die aktuelle Aktivität nicht verfügbar.</p></td>
+<td><p>Der Domänen Name des Kunden. Für die aktuelle Aktivität nicht verfügbar.</p></td>
 </tr>
 
 <tr class="even">
@@ -746,7 +748,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 
 <tr class="even">
 <td>AvailabilityId</td>
-<td><p>Die ID einer bestimmten Verfügbarkeit. „Verfügbarkeit“ bezieht sich darauf, ob eine bestimmte SKU für ein bestimmtes Land, eine Währung, ein Branchensegment usw. erhältlich ist.</p></td>
+<td><p>Die ID einer bestimmten Verfügbarkeit. "Verfügbarkeit" bezieht sich darauf, ob eine bestimmte SKU für das jeweilige Land, die Währung, das Branchensegment usw. für den Erwerb verfügbar ist.</p></td>
 </tr>
 
 <tr class="odd">
@@ -764,7 +766,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 <td><p>Die ID des Herausgebers im GUID-Format. Für die aktuelle Aktivität nicht verfügbar.</p></td>
 </tr>
 
-<tr class=”even">
+<tr class="even">
 <td>Abonnementbeschreibung</td>
 <td><p>Der Name des Service-Angebots, das der Kunde gekauft hat, wie in der Preisliste definiert. (Dies ist ein identisches Feld für den Angebotsnamen).</p></td>
 </tr>
@@ -910,7 +912,7 @@ Ihre Rechnung enthält eine Zusammenfassung der Gebühren, während die Kontenab
 
 Zum Erstellen von Querverweisen der Gebührenbeträge zwischen Rechnung und Kontenabstimmungsdatei können Sie Microsoft Excel-Filteroptionen verwenden, indem Sie die Kontenabstimmungsdatei nach Gebührentypen filtern, um die Abrechnungsgebühren einer Reihe von Gebührenaufschlüsselungen in der Kontenabstimmungsdatei zuzuordnen.
 
-Sowohl nutzungsbasierte als auch lizenzbasierte Kontenabstimmungsdateien zeigen nur nutzungsbezogene Transaktionen und Gebühren an (verbrauchte Einheiten und zugehörige Kosten). Guthaben, Rabatte oder Rückerstattungen, die auf der Rechnung als „Anpassungen“ angezeigt werden, werden nicht in der Kontenabstimmungsdatei angezeigt.
+Sowohl nutzungsbasierte als auch lizenzbasierte Kontenabstimmungsdateien zeigen nur nutzungsbezogene Transaktionen und Gebühren an (verbrauchte Einheiten und zugehörige Kosten). Ein Guthaben, Rabatte oder Rückerstattungen, die auf der Rechnung als "Anpassungen" angezeigt werden, werden nicht in der Abstimmungs Datei angezeigt.
 
 Die folgende Tabelle zeigt die Zuordnungen zwischen einem Rechnungsabschnitt und zugehörigen Gebührentypen, die möglicherweise in den Kontenabstimmungsdateien angezeigt werden. 
 

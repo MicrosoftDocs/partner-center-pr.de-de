@@ -2,31 +2,33 @@
 title: Multichannel | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: In einigen Fällen können Kunden Sie für die Bereitstellung und den Support eines Abonnements beauftragen, das sie an anderer Stelle erworben haben.
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3a3149adf746e199cf5b82e590997cc4e311db5d
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 8d76754c2b4a2e5050642c1b0be142023f51b073
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668501"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652996"
 ---
-# <a name="multi-channel-support"></a>Multichannel-Unterstützung
+# <a name="multi-channel-support"></a>Unterstützung mehrerer Kanäle
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
 
 
-Das Multichannel-Feature in Partner Center unterstützt Szenarien, in denen ein Kunde einen Partner für die Verwaltung und den Support eines an anderer Stelle erworbenen Abonnements beauftragen möchte. Dieser Multichannel-Support gilt in folgenden Fällen:
+Das Multichannel-Feature von Partner Center unterstützt Szenarien, in denen ein Kunde einen Partner für die Verwaltung und Unterstützung eines Abonnements beauftragen möchte, das Sie an anderer Stelle erworben haben. Dieser Multichannel-Support gilt in folgenden Fällen:
 
 -   Der Kunde hat bereits Abonnements direkt von Microsoft oder über die Advisor-, Open- oder EA-Programme erworben.
 
--   Der Kunde hat die Abonnements von einem Drittanbieter gekauft, der weder dem Programm für Cloud-Lösungsanbieter angehört noch ein Microsoft Syndication-Partner ist. Kunden können lizenzbasierte Abonnements nicht auf einen anderen Partner aus dem Programm für Cloud Solution Provider übertragen – sie müssen dazu bis zum Ende ihrer Abonnementlaufzeit warten oder das Abonnement kündigen.
+-   Der Kunde hat die Abonnements von einem Drittanbieter gekauft, der weder dem Programm für Cloud-Lösungsanbieter angehört noch ein Microsoft Syndication-Partner ist. Kunden können vorhandene Lizenz basierte Abonnements nicht auf einen anderen Partner im Cloud Solution Provider-Programm umstellen. Sie müssen bis zum Ende Ihres Abonnementzeitraums warten oder vor dem Verschieben abbrechen.
 
 
 <table>
@@ -52,7 +54,7 @@ Das Multichannel-Feature in Partner Center unterstützt Szenarien, in denen ein 
 > [!IMPORTANT]  
 > Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Microsoft überprüft ständig die Richtlinien und Funktionen aller Programme. Alle Ankündigungen zu künftigen Releases werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner Center. 
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Informationen:
 
 [Zusammenarbeit mit anderen Partnern](work-with-other-partners.md)
 

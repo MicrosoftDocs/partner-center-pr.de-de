@@ -2,22 +2,24 @@
 title: Zusammenarbeiten mit indirekten Vertriebspartnern in CSP | Partner Center
 ms.topic: article
 ms.date: 03/29/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Als indirekter Anbieter (oder Distributor) können Sie mit indirekten Vertriebspartnern zusammenarbeiten, um Ihre Reichweite zu erhöhen.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0eb5afdf04655e52fe493d9039d4aa11fbca5a4b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 0ed3cec1599db6af6a4d82243695fe8da9f2fbd2
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134460"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653339"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Wiederverkäufern im Programm für Cloud-Lösungsanbieter
 
 Angesichts der Komplexität und hohen Dynamik des Technologiemarkts möchten sich Kunden mit Technologielösungen einen Wettbewerbsvorteil verschaffen. In einem solchen Umfeld ist es für Partner sinnvoll, in Partner-zu-Partner-Programme zu investieren, um ihr Angebot zu erweitern und den Kunden noch mehr Möglichkeiten zu bieten.
 
-Neue Vertriebspartner versuchen, auf dem Markt Fuß zu fassen, und möchten ihre Lösungen auch Kunden außerhalb ihrer Märkte und Regionen anbieten. Als etablierter Technologieanbieter können Sie Ihnen beim Einstieg in den Markt helfen. Tun Sie sich mit indirekten Vertriebspartnern im Programm für Cloud Solution Provider (Cloud Solution Providers, CSPs) zusammen, um sich mit anderen Partnern zu vernetzen, neue Lösungen auf den Markt zu bringen und die Nutzung von Clouddiensten bei den Kunden voranzutreiben.
+Neue Vertriebspartner versuchen, auf dem Markt Fuß zu fassen, und möchten ihre Lösungen auch Kunden außerhalb ihrer Märkte und Regionen anbieten. Als etablierter Technologieanbieter können Sie Ihnen beim Einstieg in den Markt helfen. Partner mit indirekten Wiederverkäufern im CSP-Programm (Cloud Solution Provider), um sich mit anderen Partnern zu verbinden, neue Lösungen auf den Markt zu bringen und Kunden die Übernahme von Clouddiensten voranzutreiben.
 
 Im (zweistufigen) Modell mit indirektem Anbieter und Vertriebspartner bieten Sie Kunden in Zusammenarbeit mit indirekten Vertriebspartnern Cloudlösungen von Microsoft an. Sie kaufen Produkte und Abonnements direkt von Microsoft und bieten diese Lösungen dann den Kunden über Vertriebspartner an. 
 
@@ -42,7 +44,7 @@ Führen Sie zum Einrichten und Verwalten Ihrer Partnerschaft mit indirekten Vert
 
     - Bevor Sie mit Vertriebspartnern interagieren und Transaktionen abwickeln können, müssen Sie im Partner Center Partnerschaften mit ihnen einrichten. <br>
 
-3.  Kontakt zu Kunden
+3.  Interagieren mit Kunden
 
     - Zuordnen neuer Kunden und Abonnements zu Vertriebspartnern
     - Aufbauen von Vertriebspartnerschaften mit Bestandskunden <br>
@@ -56,7 +58,7 @@ Nach Abschluss dieser Schritte können Sie Ihre Vertriebspartnerschaften im Men�
 
 Um mit indirekten Vertriebspartnern im Partner Center interagieren und Transaktionen abwickeln zu können, müssen Sie eine Partnerschaft mit ihnen einrichten. Durch eine Partnerschaft mit einem indirekten Vertriebspartner können Sie und der Vertriebspartner die gleichen Kunden bedienen.
 
-Senden Sie zum Einrichten einer Partnerschaft eine E-Mail mit einer Partnerschaftsanfrage an den Vertriebspartner. Achten Sie darauf, dass Sie die E-Mail-Adresse des Vertriebspartners zur Hand haben, bevor Sie beginnen. 
+Senden Sie zum Einrichten einer Partnerschaft eine E-Mail mit einer Partnerschaftsanfrage an den Vertriebspartner. Stellen Sie sicher, dass die e-Mail-Adresse des Wiederverkäufers vorhanden ist, bevor Sie loslegen. 
 
 1. Wählen Sie im **Partner Center**-Menü die Option für **indirekte Vertriebspartner** aus. 
 
@@ -66,12 +68,12 @@ Senden Sie zum Einrichten einer Partnerschaft eine E-Mail mit einer Partnerschaf
     > [!IMPORTANT]  
     >  Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er speziell auf Ihr Partner Center-Konto zugeschnitten ist.
 
-4. Nachdem der Vertriebspartner Ihre Partnerschaftsanfrage angenommen hat, wird er in der Liste mit Ihren indirekten Vertriebspartner angezeigt, und Sie können nun folgende Aktionen ausführen: 
+4. Nachdem der Reseller Ihre Partnerschaft angenommen hat, werden Sie in der Liste der indirekten Händler angezeigt, und Sie können folgende Aktionen ausführen: 
 
     -   Hinzufügen neuer Kunden in ihrem Namen
     -   Übermitteln von Aufträgen im Namen ihrer Kunden 
     -   Zuordnen von Vertriebspartnern zu einem Abonnement, damit sie dieses im Auftrag des Kunden verwalten können, der es gekauft hat
-    -   Festlegen von Vertriebspartnern als Kundensupportkontakt für bestimmte Abonnements
+    -   Festlegen der Kunden als Support Kontakt für bestimmte Abonnements
 
 Abhängig davon, inwieweit der Vertriebspartner Zugriff haben und eingebunden sein soll, empfiehlt es sich unter Umständen, einen oder mehrere der im Anschluss beschriebenen Schritte auszuführen.
 
@@ -81,10 +83,10 @@ Wenn Sie sich bei bestehenden Abonnements für die Zusammenarbeit mit einem indi
 
 | **Ziel** | **Aufgabe** | **Wobei** |
 |   ------------------   |   -------   |   -----   |
-| Ermöglichen der Verwaltung eines Kundenkontos durch den Vertriebspartner und Gewähren von Administratorberechtigungen für die Verwaltung von Abonnements | Zuordnen eines Vertriebspartners zu einem Kundenkonto beim Hinzufügen neuer Kunden | Auf der Seite **Neuer Kunde** |
+| Aktivieren des Wiederverkäufers zum Verwalten des Kontos eines Kunden und zum Verwalten Ihrer Abonnements Administrator Berechtigungen | Zuordnen eines Vertriebspartners zu einem Kundenkonto beim Hinzufügen neuer Kunden | Auf der Seite **Neuer Kunde** |
 |Dem Vertriebspartner ermöglichen, das Azure-Konto eines Kunden zu verwalten|Zuordnen eines Vertriebspartners zu einem Azure-Kundenkonto beim Hinzufügen neuer Kunden|Wählen Sie im **Azure Service-Portal** die Option [Benutzereinstellungen](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) aus, um dem indirekten Vertriebspartner eine **Mandanten-Besitzer**-Berechtigungen zu erteilen|
 | Zuschreiben von Incentives für Vertriebspartner | Ordnen Sie den Vertriebspartner dem (neuen oder vorhandenen) Abonnement zu. | Auf der Seite **Neues Abonnement** |
-| Delegieren des Kundensupports für bestimmte Abonnements an den Vertriebspartner | Wählen Sie den Vertriebspartner in der Liste der **designierten Supportkontakte** aus. | Auf der Seite mit den Abonnementdetails: Wählen Sie auf der Seite **Kunden** den Kunden und anschließend auf der kundenspezifischen Seite **Abonnements** das Abonnement aus. |
+| Delegieren des Kundensupports für bestimmte Abonnements an den Vertriebspartner | Wählen Sie den Vertriebspartner in der Liste der **designierten Supportkontakte** aus. | Auf der Detailseite des Abonnements: Wählen Sie den Kunden von Ihrer **Kunden** Seite aus, und wählen Sie dann auf der Seite **Abonnements** des Kunden das Abonnement aus. |
 
 
 
@@ -127,48 +129,48 @@ Wenn Sie sich bei bestehenden Abonnements für die Zusammenarbeit mit einem indi
 
 
 
-## <a name="connect-with-customers"></a>Kontakt zu Kunden
+## <a name="connect-with-customers"></a>Interagieren mit Kunden
 
-Wenn Sie neue Kunden gewinnen, müssen Sie im Partner Center entsprechende Konten erstellen. Wenn Sie ein neues Kundenkonto hinzufügen, können Sie einen bestimmten Vertriebspartner festlegen, der das Konto und die Abonnements und Dienste des Kunden in dessen Auftrag verwalten soll. 
+Wenn Sie neue Kunden gewinnen, müssen Sie im Partner Center entsprechende Konten erstellen. Wenn Sie ein neues Kundenkonto hinzufügen, können Sie einen bestimmten Reseller zum Verwalten des Kontos und zum Verwalten der Abonnements und Dienste der Kunden in Ihrem Auftrag festlegen. 
 
-Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren Sie dadurch die Konto- und Abonnementverwaltung an diesen Vertriebspartner. Das bedeutet, dass der Vertriebspartner Administratorzugriff auf die Abonnements und Dienste des Kunden erhält und sie im Auftrag des Kunden verwalten kann.
+Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren Sie dadurch die Konto- und Abonnementverwaltung an diesen Vertriebspartner. Dies bedeutet, dass der Reseller Administrator Zugriff auf die Abonnements und Dienste des Kunden hat und diese im Auftrag des Kunden verwalten kann.
 
 ### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Hinzufügen neuer Kunden und Zuordnen zu indirekten Vertriebspartnern
 
 1.  Wählen Sie im **Partner Center**-Menü die Option für **indirekte Vertriebspartner** aus. 
 
-2.  Suchen Sie den indirekten Vertriebspartner, dem Sie neue Kunden zuweisen möchten, und wählen Sie dann **Neuen Kunden hinzufügen** aus. Beachten Sie, dass der indirekte Vertriebspartner im Formular mit den Kundendetails bereits für Sie ausgewählt ist. Geben Sie die Kundeninformationen an, und wählen Sie anschließend **Weiter: Abonnements** aus. 
+2.  Suchen Sie den indirekten Vertriebspartner, dem Sie neue Kunden zuweisen möchten, und wählen Sie dann **Neuen Kunden hinzufügen** aus. Beachten Sie, dass der indirekte Vertriebspartner im Formular mit den Kundendetails bereits für Sie ausgewählt ist. Geben Sie die Details des Kunden an, und klicken Sie dann auf **Weiter: Abonnements** . 
 3.  Wählen Sie auf der Seite **Neues Abonnement** die Abonnements aus, die der Kunde kaufen möchte, und geben Sie die Anzahl der benötigten Lizenzen ein. 
 
-4.  Wählen Sie **Weiter: Prüfen** aus.
+4.  Wählen Sie **Weiter: Überprüfung** aus.
 
 5.  Ist der Auftrag korrekt, wählen Sie **Übermitteln** aus. Ist eine Korrektur erforderlich, wählen Sie **Abbrechen** aus, um den gesamten Vorgang abzubrechen, und beginnen Sie von vorn.
 
 6.  Nach Übermittlung des Auftrags wird die Seite **Bestätigung** angezeigt. Unter **Einrichtungsinfos** werden der Name des Administratorbenutzerkontos und das temporäre Kennwort angezeigt. Notieren Sie sich den Namen des Benutzerkontos und das Kennwort, um sie dem neuen Kunden senden zu können. 
     > [!IMPORTANT]  
-    > Notieren Sie sich unbedingt den Namen des Benutzerkontos und das Kennwort, da Sie nach dem Schließen der Seite nicht mehr darauf zugreifen können.
+    > Notieren Sie sich den Benutzerkonto Namen und das Kennwort, da Sie nicht mehr auf diese Informationen zugreifen können, nachdem Sie diese Seite geschlossen haben.
 
-7.  Wählen Sie **Fertig** aus. Der neue Kunde wird in Ihrer Kundenliste angezeigt und ist dem indirekten Vertriebspartner zugeordnet. Der Vertriebspartner hat nun Administratorzugriff auf die Kontoinformationen und Abonnements des Kunden und kann die Abonnements im Auftrag des Kunden verwalten.
+7.  Wählen Sie **Fertig** aus. Der neue Kunde wird in Ihrer Kundenliste angezeigt und ist dem indirekten Vertriebspartner zugeordnet. Der Reseller verfügt jetzt über Administrator Zugriff auf die Kontoinformationen und Abonnements des Kunden und kann die Abonnements im Auftrag des Kunden verwalten.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Hinzufügen neuer Abonnements zu Kundenkonten
 
-Wenn Kunden neue Abonnements kaufen, vorhandene Abonnements upgraden oder zusätzliche Lizenzen erwerben möchten, können Sie diese Änderungen im Konto des Kunden vornehmen. 
+Wenn Kunden neue Abonnements erwerben, vorhandene aktualisieren oder zusätzliche Lizenzen erwerben möchten, nehmen Sie diese Änderungen im Kundenkonto vor. 
 
 1.  Wählen Sie im Menü **Partner Center** die Option **Kunden** aus. 
 
-2.  Suchen Sie den Kunden, dessen Konto Sie ändern möchten. Sie können die Liste nach indirektem Vertriebspartner filtern, um Ihre Auswahl einzugrenzen. Erweitern Sie den Kundendatensatz durch Auswählen des Abwärtspfeils, und wählen Sie dann **Abonnement hinzufügen** aus.
+2.  Suchen Sie den Kunden, dessen Konto Sie ändern möchten. Sie können die Liste nach indirektem Vertriebspartner filtern, um Ihre Auswahl einzugrenzen. Erweitern Sie den Datensatz des Kunden, indem Sie den Pfeil nach unten auswählen, und wählen **Sie dann Abonnement hinzufügen**aus.
 
 3.  Wählen Sie auf der Seite **Neues Abonnement** die gewünschten Abonnements aus, und geben Sie die Anzahl von Lizenzen ein, die der Kunde kaufen möchte. 
 
-4.  Wenn Sie das Abonnement einem Vertriebspartner zuordnen möchten, wählen Sie in der Liste den Namen des Vertriebspartners und dann **Übermitteln** aus. Wenn Sie den Vertriebspartner dem Abonnement zuordnen, kann er ggf. von Incentives profitieren.
+4.  Um das Abonnement einem Reseller zuzuordnen, wählen Sie den Namen des Wiederverkäufers aus der Liste aus, und wählen Sie dann über **Mitteln**aus. Wenn Sie den Vertriebspartner dem Abonnement zuordnen, kann er ggf. von Incentives profitieren.
 
-5.  Die neuen Abonnements werden in der Abonnementliste des Kunden angezeigt. 
+5.  Die neuen Abonnements werden in der Liste der Kunden Abonnements angezeigt. 
 
 6.  Wenn sich der Vertriebspartner um Kundensupportanfragen für das neue Abonnement kümmern soll, wählen Sie zuerst das Abonnement und dann den Vertriebspartner in der Liste der **designierten Supportkontakte** aus.
 
-7.  Klicken Sie abschließend auf **Übermitteln**. 
+7.  Klicken Sie abschließend auf **Senden**. 
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Informationen:
 
 Weitere Informationen zur Verwaltung von Kundenkonten und -abonnements finden Sie hier:
 

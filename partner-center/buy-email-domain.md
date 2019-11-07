@@ -1,18 +1,20 @@
 ---
-title: 'Gewusst wie: Abrufen eine geschäftlichen e-Mail-Adresse | Partner Center'
+title: So erhalten Sie eine geschäftliche e-Mail-Adresse | Partner Center
 ms.topic: article
 ms.date: 06/15/2019
-description: Sie benötigen eine geschäftliche e-Mail-Adresse aus, um die Azure AD-Kontos im Partner Center zu erhalten.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Sie benötigen eine geschäftliche e-Mail-Adresse, um ein Azure AD Konto in Partner Center zu erhalten.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 17f9ccd948f6a4cbf8cd2068a31e720c790f986f
-ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
-ms.translationtype: HT
+ms.openlocfilehash: 6c165f3a610d41dbb365a4081b2c5b316a3a12b7
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "67146071"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653703"
 ---
-# <a name="how-to-get-a-work-email-address"></a>Wie Sie eine geschäftliche e-Mail-Adresse abrufen
+# <a name="how-to-get-a-work-email-address"></a>So erhalten Sie eine geschäftliche e-Mail-Adresse
 
-Ihr Unternehmen muss eine e-Mail-Domäne in der Reihenfolge für die Sie zum Einrichten von beruflich genutzte e-Mail-Adressen für Ihre Mitarbeiter können zu erwerben. Arbeiten Sie mit Ihrer IT-Abteilung, eine e-Mail-Domäne erwerben, da es sich technischer Prozess handelt. Verwenden Sie die neue e-Mail-Adresse zum Einrichten von Azure AD-Mandanten und Ihrem Partner Center-Konto.
+Ihr Unternehmen muss eine e-Mail-Domäne erwerben, damit Sie geschäftliche e-Mail-Adressen für Ihre Mitarbeiter einrichten können. Arbeiten Sie mit Ihrer IT-Abteilung zusammen, um eine e-Mail-Domäne zu erwerben. Richten Sie mit der neuen e-Mail Ihren Azure AD-Mandanten und Ihr Partner Center-Konto ein.

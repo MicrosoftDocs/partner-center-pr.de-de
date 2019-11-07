@@ -2,22 +2,24 @@
 title: Partner Center-Benachrichtigung für Krypto-Mining-Aktivität | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Benachrichtigung über potenzielles Krypto-Mining.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Krypto-Mining, Mining von Kryptowährungen, Sicherheit
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: febce4039e1634fb5e82d083f83e2c11ef47040f
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 7f9f138a55cf7e61e46e2e876263fdd577410c96
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708845"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651129"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Partner Center-Benachrichtigung für Krypto-Mining-Aktivität
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  CSP-Partner

@@ -2,25 +2,27 @@
 title: Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland | Partner Center für Microsoft-Cloud Deutschland
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Zur Einhaltung der nationalen, regionalen und branchenspezifischen Anforderungen, die für die Erfassung und Verwendung von Personendaten gelten, sind Benutzerverwaltungsfunktionen nicht im Partner Center für Microsoft-Cloud Deutschland verfügbar. Stattdessen können Sie Benutzer im Azure-Portal für Microsoft-Cloud Deutschland hinzufügen und verwalten.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 884146657aa84fa1d5f28801d5ad2a4d83c1359a
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 91d95f51d89b5fb00bc340004758ce7f87450d3f
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820531"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651138"
 ---
-# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland
+# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Benutzer- und Lizenzverwaltung im Partner Center für Microsoft Cloud Deutschland
 
-**Gilt für**
+**Zielgruppe**
 
--  Partner Center für Microsoft-Cloud Deutschland
+-  Partner Center für Microsoft Cloud Deutschland
 
 > [!IMPORTANT]
-> Basierend auf der Entwicklung der Kundenanforderungen, konzentriert sich unsere Cloud-Strategie für Deutschland auf die Bereitstellung der neuen Cloud-Regionen in Deutschland, die unserem globalen Cloudangebot entsprechen. Mit diesem Fokus werden keine neuen Kunden mehr akzeptiert bzw. keine neuen Dienste über die derzeit verfügbare Microsoft Cloud Deutschland bereitgestellt. Bestehende Kunden können die derzeit verfügbaren Clouddienste, die mit den notwendigen Sicherheitsupdates beibehalten werden, weiterhin verwenden.
+> Basierend auf der Entwicklung der Kundenanforderungen konzentriert sich unsere cloudstrategie für Deutschland auf die Bereitstellung der neuen cloudregionen in Deutschland, die mit unserem globalen cloudangebot konsistent sind. Mit diesem Fokus werden keine neuen Kunden mehr akzeptiert bzw. keine neuen Dienste über die derzeit verfügbare Microsoft Cloud Deutschland bereitgestellt. Vorhandene Kunden können weiterhin die aktuellen Clouddienste verwenden, die heute verfügbar sind und mit den erforderlichen Sicherheitsupdates verwaltet werden.
 >  
 > In Zukunft haben neue Kunden die Möglichkeit, die derzeit verfügbaren europäischen Regionen oder die neuen Regionen in Deutschland zu verwenden, sobald sie verfügbar sind. Weitere Informationen finden Sie unter [Microsoft stellt Clouddienste über neue Rechenzentren in Deutschland bereit](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
 

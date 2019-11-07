@@ -2,17 +2,19 @@
 title: SATV-Programm (Software Assurance Training Voucher, Software Assurance-Schulungsgutschein) in Partner Center | Partner Center
 ms.topic: article
 ms.date: 10/11/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Registrieren beim Software Assurance-Schulungsprogramm
 author: LauraBrenner
 ms.author: labrenne
 keywords: Schulungsgutscheine, Software Assurance, Schulung, Registrieren bei SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0b5b91efea2814582e64e147cf3bf9f7c22bdd89
-ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
+ms.openlocfilehash: 60d60ecb5dca320bc0fc0da2908db95bd200a7be
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73142019"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651599"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>SATV-Programm (Software Assurance Training Voucher, Software Assurance-Trainingsgutschein) in Partner Center
 
@@ -22,7 +24,7 @@ Als anerkannter Software Assurance-Schulungspartner vergütet Microsoft Sie für
 
 ## <a name="get-started"></a>„Erste Schritte“
 
-Wenn Sie Software Assurance-Schulungsdienste neu für Sie sind, führen Sie die folgenden Schritte aus. Wenn Sie bereits im Programm für Schulungsgutscheine aktiv sind, beginnen Sie mit Schritt 4 unten. 
+Wenn Sie noch nicht mit den Software Assurance-Schulungs Diensten vertraut sind, führen Sie die folgenden Schritte aus. Wenn Sie bereits im Schulungs Beleg Programm aktiv sind, beginnen Sie mit Schritt 4 (4) unten. 
 
 1. Bestätigen der Berechtigung für das Programm
 2. Registrieren beim Schulungsprogramm
@@ -43,7 +45,7 @@ Sie können die Berechtigung Ihres Unternehmens, einschließlich der anwendbaren
 
 ## <a name="enroll-in-the-training-program"></a>Registrieren beim Schulungsprogramm
 
-Sobald Ihr Unternehmen die Voraussetzungen erfüllt und Ihre Programmteilnehmer die Konformitätsschulung bestanden haben, können Sie die Vereinbarung zum Software Assurance-Schulungsgutscheinprogramm unterzeichnen und sich registrieren. Stellen Sie sicher, dass Sie alle [SATV-Programmrichtlinien](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)überprüfen, und befolgen Sie dann die Anweisungen in [Schritt 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) des Workflows, um den SATV-Registrierungsprozess in Partner Center abzuschließen.   
+Nachdem Ihr Unternehmen die Berechtigungsanforderungen erfüllt und ihre Programmteilnehmer den Kurs zur Compliance-Schulung abgeschlossen haben, können Sie die Software Assurance-Schulungsprogramm Vereinbarung Signieren und sich registrieren. Stellen Sie sicher, dass Sie alle [SATV-Programmrichtlinien](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)überprüfen, und befolgen Sie dann die Anweisungen in [Schritt 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) des Workflows, um den SATV-Registrierungsprozess in Partner Center abzuschließen.   
 
 
 ## <a name="confirm-course-eligibility"></a>Bestätigen der Berechtigung für den Kurs
@@ -55,7 +57,7 @@ Vor der Durchführung einer Schulung muss Ihr Kunde zunächst sein SATV-Angebot 
 
 ## <a name="validate-and-reserve-customer-vouchers"></a>Validieren und Reservieren von Kundengutscheinen
 
-Sie können jetzt Gutscheine reservieren und einlösen und mit der Schulung Ihrer Kunden beginnen. Der MPN-Administrator Ihres Unternehmens hat Zugriff auf das Tool zur Gutscheinverwaltung in Partner Center und kann Benutzer hinzufügen, die mit dem Tool arbeiten müssen. Anweisungen zum Validieren und reservieren von Gutscheinen finden Sie in [Schritt 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) des Workflows.
+Sie können jetzt Gutscheine reservieren und einlösen und mit der Schulung Ihrer Kunden beginnen. Der MPN-Administrator Ihres Unternehmens hat Zugriff auf das Tool für die Gutschein Verwaltung in Partner Center und kann Benutzer hinzufügen, die im Tool arbeiten müssen. Anweisungen zum Validieren und reservieren von Gutscheinen finden Sie in [Schritt 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) des Workflows.
 
 ## <a name="deliver-training-and-activate-product"></a>Bereitstellen der Schulung und Aktivieren des Produkts
 

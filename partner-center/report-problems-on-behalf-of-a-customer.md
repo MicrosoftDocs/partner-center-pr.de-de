@@ -2,22 +2,24 @@
 title: Melden von Problemen im Auftrag eines Kunden | Partner Center
 ms.topic: article
 ms.date: 08/16/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Wenn ein Kunde ein Problem mit einem Dienst meldet, das Sie nicht beheben können und das die unter „Eskalieren von Problemen an Microsoft“ beschriebenen Kriterien erfüllt, beantragen Sie ein Supportticket für den Kunden.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Serviceanfrage, Serviceticket, Support, Supportanspruch, AOBO, Azure-AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f01713dcafd0a24c8b7fb5d8a8af33bdf5ff781
-ms.sourcegitcommit: e84322e2cb6f3f559de93c98a16ab19531a2f95c
-ms.translationtype: HT
+ms.openlocfilehash: f0dc490ab72c87ccb1b6aa22aa84a66529820408
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "69578775"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654117"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Melden von Problemen im Auftrag eines Kunden
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -52,11 +54,11 @@ Wenn ein Kunde ein Problem mit einem Dienst meldet, das Sie nicht beheben könne
 Unter Umständen müssen Sie eine Supportanfrage für einen Kunden erstellen, wenn Sie für diesen Kunden nicht über Administratorberechtigungen verfügen. Dies kann in einem der folgenden Szenarios auftreten: 
  
 -   Bei der erstmaligen Einrichtung der Beziehung haben Sie keine Administratorrechte angefordert.
--   Sie verwalten das Azure-Abonnement eines Kunden und keine anderen, weshalb Sie keine Administratorberechtigungen benötigen.
+-   Sie verwalten die Azure-Abonnements eines Kunden und keine anderen, für die keine Administrator Berechtigungen erforderlich sind.
  
 In beiden Fällen können Sie das folgende Verfahren zum Erstellen einer Supportanfrage anwenden. 
 
-1. Kopieren Sie den Domänennamen des Kunden von dessen Kontoseite in Partner Center.
+1. Kopieren Sie den Domänen Namen des Kunden von der Kontoseite im Partner Center.
 
 2. Wechseln Sie zu https://portal.azure.com/ [customerdomainname]. 
 
@@ -67,7 +69,7 @@ In beiden Fällen können Sie das folgende Verfahren zum Erstellen einer Support
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
-1. Wählen Sie im Abschnitt **Serviceanfrage erstellen** die geeignete Supportkategorie aus. Möglicherweise müssen Sie **Mehr...** auswählen, um weitere Themen anzuzeigen.    
+1. Wählen Sie im Abschnitt **Serviceanfrage erstellen** die geeignete Supportkategorie aus. Möglicherweise müssen Sie **mehr auswählen...** , um weitere Themen anzuzeigen.    
 2. Füllen Sie das Formular für die Serviceanfrage aus, und wählen Sie **Übermitteln** aus.
 
    > [!TIP]
@@ -77,12 +79,12 @@ In beiden Fällen können Sie das folgende Verfahren zum Erstellen einer Support
 
 ### <a name="support-for-commercial-marketplace-products"></a>Support für Produkte des kommerziellen Marketplace
 
-Microsoft bietet keinen Produktsupport für Produkte des kommerziellen Marketplace an. Wenden Sie sich an den unabhängigen Softwarehersteller (ISV), der das Produkt veröffentlicht hat, wenn Sie Support benötigen.
+Microsoft bietet keinen Produktsupport für Produkte des kommerziellen Marketplace an. Sie müssen sich an den unabhängigen Software Hersteller (Independent Software Vendor, ISV) wenden, der das Produkt veröffentlicht hat, um Support zu erhalten.
 
 So finden Sie Kontaktdaten des ISV:
 
 1.  Wählen Sie auf der Seite **Marketplace** das Produkt aus, zu dem Sie Hilfe benötigen.
-2.  Auf der Produktseite finden Sie Kontaktinformationen für Support. Dies kann Folgendes umfassen:
+2.  Auf der Seite des Produkts finden Sie Support-Kontaktinformationen. Dies kann Folgendes umfassen:
     - Einen Supportlink auf der Website des ISV
     - Eine Support-E-Mail-Adresse 
     - Eine Supportrufnummer
@@ -103,9 +105,9 @@ Unsere Reaktionszeiten hängen vom Schweregrad des übermittelten Ereignisses ab
 
 Die anfänglichen Reaktionszeiten für **technische Problemlösungsfälle** sind wie folgt:
 
--   Kritische Auswirkungen (Schweregrad A): 2 Stunden (erhebliche Ausfälle oder Beeinträchtigungen in Bezug auf Dienste. Ausfall der Produktionssdienste.)
--   Mittlere Auswirkung (Schweregrad B): 4 Stunden (mittelschwere Ausfälle oder Beeinträchtigungen in Bezug auf Dienste. Produktionsdienste teilweise betroffen.)
--   Minimale Auswirkungen (Schweregrad C): 8 Stunden (minimale Ausfälle oder Beeinträchtigungen in Bezug auf Dienste. Dienste sind weiterhin verfügbar oder es sind Dienste ohne Auswirkungen auf die Produktion betroffen.)
+-   Kritische Auswirkungen (Schweregrad A): 2 Stunden (Erhebliche Ausfälle oder Beeinträchtigungen in Bezug auf Dienste. Ausfall der Produktionssdienste.)
+-   Mittlere Auswirkungen (Schweregrad B): 4 Stunden (Mäßige Ausfälle oder Beeinträchtigungen in Bezug auf Dienste. Produktionsdienste teilweise betroffen.)
+-   Minimale Auswirkungen (Schweregrad C): 8 Stunden (Minimale Ausfälle oder Beeinträchtigungen in Bezug auf Dienste. Dienste sind weiterhin verfügbar oder es sind Dienste ohne Auswirkungen auf die Produktion betroffen.)
 
 Die anfänglichen Reaktionszeiten gelten nur für englischsprachigen Support. Support in der Landessprache steht nur während der Geschäftszeiten zur Verfügung.
 Für Fälle, die innerhalb der Grenzen des Supportanspruchs liegen, jedoch keine Break-Fix-Ereignisse sind, kann die anfängliche Reaktionszeit bis zu einem Werktag betragen.
@@ -126,7 +128,7 @@ Wenn Sie sich direkt beim Office 365 Admin Center anmelden, wird das Center in 
 
 **Wie kann ich zusätzlichen Dynamics 365-Support anfordern?**
 
-Wenn Probleme im Zusammenhang mit Dynamics 365 Plan-Abonnements, Lizenzierung, Abrechnung, Finance & Operations oder Dynamics 365-Produktlizenzen auftreten oder Sie weitere technische Unterstützung benötigen:
+Bei Problemen im Zusammenhang mit: Dynamics 365 planen Sie Abonnements, Lizenzierung, Abrechnung, Finanzen & Vorgängen, Dynamics 365-Produktlizenzen oder benötigen Sie technischen Support:
  
 Wenden Sie sich an [Dynamics-Support](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support).
 

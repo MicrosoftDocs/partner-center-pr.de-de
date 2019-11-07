@@ -2,22 +2,24 @@
 title: Eskalieren von Problemen an Microsoft | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 'Es wird erwartet, dass Sie Probleme im Auftrag Ihrer Kunden lösen. Es gibt jedoch einige Arten von Problemen, mit denen Sie sich an Microsoft wenden müssen, damit sie behoben werden können:'
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2dbec40da4b230a3a7d822c18ab3fbb02406f0ff
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: c2823ab38a5bcafff307896f8378904a21735191
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668193"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653137"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Eskalieren von Problemen an Microsoft
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government

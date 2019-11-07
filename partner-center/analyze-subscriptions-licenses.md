@@ -1,6 +1,8 @@
 ---
 title: Analysieren von Abonnements und Lizenzen | Partner Center
 ms.date: 08/02/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Verwenden Sie die Metriken auf der Seite „Analysen zu Abonnements und Lizenzen“, um Ihre Erfolge sowie die Bereiche zu bestimmen, die mehr Aufmerksamkeit erfordern.
 author: LauraBrenner
 ms.author: labrenne
@@ -9,16 +11,16 @@ ms.topic: article
 keywords: Geschäftsdaten
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 29d597b66c16d7f0da29caa023c1da7ba23f9616
-ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: HT
+ms.openlocfilehash: 8c2469a780870df40792eb229ef4d0546e79645d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68782003"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651181"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analysieren von Abonnements und Lizenzen 
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
 
@@ -30,31 +32,31 @@ Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der
 
 Dieser Bericht dient zum Pivotieren basierend auf den folgenden Produkten:
 
- - **Dynamics 365**: Dynamics 365-Daten  
+ - **Dynamics 365**: Dynamics 365-Daten  
  - **EMS**: Enterprise Management Services-Daten  
- - **Microsoft 365**: Microsoft 365-Daten  
- - **Office 365**: Office 365-Daten  
+ - **Microsoft 365**: Microsoft 365-Daten  
+ - **Office 365**: Office 365-Daten  
 
 
 Wir verfolgen die folgenden Metriken:
 
 **Zusammenfassung**  
- - **Verkaufte Abonnements**: Anzahl der Abonnements, die im angegebenen Zeitraum erstellt wurden  
- - **Verkaufte Lizenzen**: Anzahl der Lizenzen, die im angegebenen Zeitraum verkauft wurden   
- - **Abonnements mit Verlängerung in 30 Tagen**: Anzahl der Abonnements, bei denen der Status für den angegebenen Zeitraum „Aktiv“ lautet und **Automatische Verlängerung** auf WAHR festgelegt ist
+ - **Verkaufte Abonnements**: Anzahl der Abonnements, die für den angegebenen Zeitraum angelegt wurden  
+ - **Verkaufte Lizenzen**: Anzahl der Lizenzen, die für den angegebenen Zeitraum verkauft wurden   
+ - **Abonnements zur Verlängerung in 30 Tagen**: Anzahl der Abonnements, deren Status für den angegebenen Zeitraum aktiv lautet und für die **Autom. Verlängerung** = "wahr" gilt
  - **Aktive Abonnements**: Abonnements, deren Status **Aktiv** lautet  
- - **Angehaltene Abonnements**: Anzahl der angehaltenen Abonnements ohne Datumsfilter  
+ - **Ausgesetzte Abonnements**: Anzahl der ausgesetzten Abonnements; kein Datumsfilter  
 
 **Produktaufschlüsselung**  
- - **Anzahl der Abonnements**: Top 5-Produkte, sortiert nach verkauften Abonnements  
- - **Lizenzanzahl**: Top 5-Produkte, sortiert nach verkauften Lizenzen
+ - **Anzahl Abonnements**: Top 5-Produkte, sortiert nach verkauften Abonnements  
+ - **Anzahl Lizenzen**: Top 5-Produkte, sortiert nach verkauften Lizenzen
 
 **Beibehaltene Abonnements**
- - **Verlängerte Abonnements**: Abonnements, die in den letzten 30 Tagen verlängert wurden  
+ - **Verlängerte Abonnements**: Abonnements, die in den letzten 30 Tagen verlängert wurden  
 
 **Änderungsumfang bei Abonnements**  
  - **Neue Abonnements**: Anzahl der neuen Abonnements im Zeitraum ohne kostenlose Testversionen  
- - **Abonnements mit aufgehobener Bereitstellung**: Anzahl der Abonnements nach Datum, deren Bereitstellung aufgehoben oder angehalten wurde  
+ - **Entfernte Abonnements**: Anzahl der Abonnements nach Datum, die entfernt oder ausgesetzt wurden  
 
 **Angehaltene Abonnements**  
  - Liste aller Abonnements mit dem Status **Angehalten** ohne Angebote kostenloser Testversionen  
@@ -63,7 +65,7 @@ Wir verfolgen die folgenden Metriken:
  - Liste aller aktiven Abonnements  
 
 **Konvertierungen von Abonnements kostenloser Testversionen**  
- - **Konvertierungen kostenloser Testversionen**: Anzahl aller **aktiven** Abonnements, die im angegebenen Zeitraum von einem Test- in ein kostenpflichtiges Abonnement konvertiert wurden  
+ - **Testumwandlung**: Anzahl aller **aktiven** Abonnements, die während des angegebenen Zeitraums von einem Testabonnement in ein kostenpflichtiges Abonnement umgewandelt wurden  
 
 **Abonnements kostenloser Testversionen, die in 30 Tagen enden**  
  - Liste der gestarteten Abonnements kostenloser Testversionen, deren Enddatum innerhalb von 30 Tagen liegt und für die kein Startdatum für ein kostenpflichtiges Abonnement vorliegt  

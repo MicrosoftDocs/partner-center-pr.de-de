@@ -2,17 +2,19 @@
 title: Leitfaden zum Migrieren mehrerer Unternehmen von PMC zu Partner Center | Partner Center
 ms.topic: article
 ms.date: 08/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Wichtige Informationen zur Migration mehrerer Unternehmen von PMC zu Partner Center
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: c0a03412a9b72c3e4c7784511720ea716f6f3abf
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: 41f6b9cefb8abc3325c156f465c2a630955b0ec3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958756"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654348"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>Verschieben mehrerer Unternehmen zu Partner Center
 
@@ -20,7 +22,7 @@ Wenn Sie Ihr Unternehmenskonto von PMC zu Partner Center verschieben, verschiebe
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>Verschieben von zusätzlichen Konten zu Partner Center 
 
-Da Sie bereits ein Unternehmenskonto auf den PC verschoben haben, wird Ihnen bei der Anmeldung mitgeteilt, welches Konto sich bereits in Partner Center befindet. 
+Da Sie ein Unternehmens Konto bereits auf den PC verschoben haben, können Sie bei der Anmeldung wissen, welches Konto bereits im Partner Center vorhanden ist. 
 
 
 Wenn Sie nach der Migration feststellen, dass das falsche Unternehmenskonto als Rechtsgeschäft ausgewiesen wurde, können Sie dies ändern.
@@ -78,7 +80,7 @@ Nachdem Sie die Informationen auf diesem Bildschirm überprüft und ggf. bearbei
 
 Wenn Sie Ihr Profil anzeigen, sehen Sie die Informationen für Ihr Rechtsgeschäft (in PMC war dies die Zentrale) und die Informationen für alle weiteren Standorte.
 
-## <a name="see-also"></a>Weitere Informationen
+## <a name="see-also"></a>Weitere Informationen:
 
 - [Verschieben von PMC zu Partner Center](move-pmc-pc-map.md)
 

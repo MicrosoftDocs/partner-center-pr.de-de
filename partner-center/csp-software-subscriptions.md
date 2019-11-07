@@ -2,18 +2,20 @@
 title: Verkaufen von Softwareabonnements über CSP | Partner Center
 ms.topic: article
 ms.date: 05/13/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Sie können jetzt Azure Reserved Instances- und Serverabonnements im Auftrag von Geschäftskunden über Microsoft Partner Center und das Azure-Portal erwerben, bereitstellen und verwalten, indem Sie den Azure-Hybridvorteil nutzen.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Azure RI, Windows Server, SQL Server, Softwareabonnements
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 60ea2b3b5d497e60b243112748780c2f20c59735
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
-ms.translationtype: HT
+ms.openlocfilehash: 7dd7d672c231c641e0385be0cff89f19483383f9
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376423"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653485"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Verkaufen von Softwareabonnements über CSP
 
@@ -21,22 +23,22 @@ Mit Azure-Reservierungen und Server Abonnements (Windows Server-und SQL Server-A
 
 Sie können jetzt Azure-Reservierungen und Server Abonnements im Auftrag von kommerziellen Kunden über Partner Center und das Azure-Portal erwerben, bereitstellen und verwalten, indem Sie die Azure-Hybridvorteil nutzen. 
 
-Der Azure-Hybridvorteil unterstützt Sie darin, mehr Wert aus den Windows Server-Lizenzen zu erhalten und bei virtuellen Computern bis zu 40 Prozent zu sparen. Sie können mit Windows Server Datacenter und Standard Edition-Lizenzen mit Software Assurance in den Genuss des Vorteils kommen. Je nach Edition können Sie Ihre Lizenzen zum Ausführen von Windows Server-VMs in Azure konvertieren oder erneut verwenden und einen niedrigeren Computetarif (z.B. Tarife für Linux-VMs) zahlen.
+Der Azure-Hybridvorteil hilft Ihnen, mehr Nutzen aus Ihren Windows Server-Lizenzen zu ziehen und bei virtuellen Computern bis zu 40 % zu sparen. Sie können mit Windows Server Datacenter und Standard Edition-Lizenzen mit Software Assurance in den Genuss des Vorteils kommen. Je nach Edition können Sie Ihre Lizenzen zum Ausführen von Windows Server-VMs in Azure konvertieren oder erneut verwenden und einen niedrigeren Computetarif (z.B. Tarife für Linux-VMs) zahlen.
 
 > [!NOTE]  
 > Azure-Reservierungen sind in den folgenden Märkten nicht verfügbar:  
 > * Argentinien
-> * Brazilien
+> * Brasilien
 > * China
 > * Indonesien
 > * Liechtenstein
 > * Jersey
 > * Malaysia
 > * Mexiko
-> * Russland
+> * Russische Föderation
 > * Saudi-Arabien
 > * Südafrika
-> * Turkei
+> * Türkei
 
 <!--March 20, 2019 - this list of countries was correct as of today. Maggie last updated the list according to FAREAST\v-pubobb in bug 20907186.
 -->
@@ -52,7 +54,7 @@ Nachdem Sie das Softwareabonnement erworben haben, führen Sie die folgenden Sch
 >[!NOTE]
 >Sie müssen ein Administrator-Agent sein, um Software herunterladen und Aktivierungsschlüssel abrufen zu können.
 
-1. Wechseln Sie zur Detailseite des Kunden, und wählen Sie dann **Software** aus. Sie sehen eine Liste der gesamten Software, die Sie im Auftrag des Kunden erworben haben. 
+1. Wechseln Sie zur Detailseite des Kunden, und wählen Sie dann **Software** aus. Sie sehen eine Liste der Software, die Sie im Namen des Kunden erworben haben. 
 2.  Erweitern Sie das Produkt, das Sie herunterladen möchten. Wählen Sie im Feld **Produkt auswählen** die **Version**, **Sprache** sowie **Dateityp/Betriebssystem** aus. 
 3.  Klicken Sie auf **Senden**, um die spezifischen Produkte anzuzeigen. 
 4.  Wählen Sie **Schlüssel und Downloads abrufen**. 
@@ -88,7 +90,7 @@ Gehen Sie folgendermaßen vor, um einen Kauf zu stornieren:
     -   Grund für Rückerstattung
     -   Angeforderter Betrag
 
-2.  Wählen Sie auf der Kundendetailseite **Software** aus, um die Liste der gesamten Software anzuzeigen, die Sie für den Kunden gekauft haben. 
+2.  Wählen Sie auf der Seite Details des Kunden die Option **Software** aus, um die Liste der Software anzuzeigen, die Sie für den Kunden erworben haben. 
 
 3.  Suchen Sie die Software, die Sie stornieren möchten, und wählen Sie dann **Abbrechen** aus. Die Seite **Melden eines Problems mit Partner Center** wird geöffnet. 
 
@@ -106,4 +108,4 @@ Gehen Sie folgendermaßen vor, um einen Kauf zu stornieren:
 
 8.  Wenn Sie aus einem beliebigen Grund eine Datei anfügen möchten, wählen Sie **Dateien hinzufügen** aus. Dieser Schritt ist optional. 
 
-9.  Wenn Sie fertig sind, klicken Sie auf **Senden**.
+9.  Wenn Sie fertig sind, wählen Sie über **Mitteln**aus.

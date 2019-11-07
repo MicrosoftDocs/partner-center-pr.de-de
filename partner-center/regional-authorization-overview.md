@@ -2,6 +2,8 @@
 title: Globale CSP-Märkte | Partner Center
 ms.topic: article
 ms.date: 11/03/2018
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Hier finden Sie die Länder und Regionen, in denen Sie CSP-Angebote basierend auf dem Standort Ihres Unternehmens verkaufen können.
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
@@ -9,18 +11,18 @@ ms.author: evansma
 keywords: CSP-Märkte, Gebiete, in denen ich über CSP verkaufen kann, CSP-Angebote, Regionen, Cloudlösungen verkaufen, CSP (global)
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 0da3385adac588dbf4c1c7551454673086c85dba
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134050"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652068"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Regionale Märkte und Währungen des Cloud Solution Provider-Programms
 
 Ihr Markt wird durch den Standort Ihres Unternehmens bestimmt. Ihr Markt umfasst die Regionen und/oder Länder, in denen Sie CSP-Angebote verkaufen können.
 
-Wenn Ihr Unternehmen beispielsweise in den Vereinigten Staaten ansässig ist, können Sie CSP-Angebote an Kunden in den USA und auf den Kleineren Amerikanischen Überseeinseln verkaufen. Wenn sich Ihr Unternehmen in Brasilien befindet, können Sie CSP-Angebote nur an Kunden in Brasilien verkaufen. Wenn sich Ihr Unternehmen in der Region Afrika befindet, können Sie die CSP-Angebote an Kunden in allen 18 Ländern der Region Afrika verkaufen.
+Wenn sich Ihr Unternehmen z. b. im USA befindet, können Sie CSP-Angebote an Kunden in den USA und in US-amerikanischen Außeninseln verkaufen. Wenn sich Ihr Unternehmen in Brasilien befindet, können Sie CSP-Angebote nur an Kunden in Brasilien verkaufen. Wenn sich Ihr Unternehmen in der Region Afrika befindet, können Sie die CSP-Angebote an Kunden in allen 18 Ländern der Region Afrika verkaufen.
 
 Bevor Sie CSP-Angebote im Namen eines Kunden bestellen können, muss der Kunde den Microsoft Cloud-Vertrag unterschreiben. Den jeweiligen Microsoft Cloud-Vertrag für Ihre Region/Ihr Land finden Sie [hier](agreements.md).
 
@@ -196,7 +198,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Ungarn        |   EUR    |
 |  Island        |   EUR    |
 |  Irland        |   EUR    |
-|  Isle of Man    |   GBP    |
+|  Isle Man    |   GBP    |
 |  Italien          |   EUR    |
 |  Jersey         |   GBP    |
 |  Lettland         |   EUR    |
@@ -399,5 +401,5 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Land/Region       | Währung |
 |  -------------        |:--------:|
 |  USA        |   USD    |
-|  USA Kleinere Amerikanische Überseeinseln|   USD    |
+|  Kleinere Amerikanische Überseeinseln|   USD    |
 |

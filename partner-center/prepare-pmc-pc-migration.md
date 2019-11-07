@@ -2,20 +2,22 @@
 title: Vorbereiten der Umstellung vom Partner Mitgliedschafts Center auf Partner Center | Partner Center
 ms.topic: article
 ms.date: 06/13/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Dinge, die Sie berücksichtigen sollten, bevor Sie Ihr Geschäft von der PMC zu Partner Center verlagern
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bbce4677e88c82cb3f2826fb37823d2746d12e61
-ms.sourcegitcommit: f54b679ce5058793a52795c6f93b0e98311805e1
+ms.openlocfilehash: 8ad7b761c69cfa1f320eb9427806f5b1803e84e6
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "71060503"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652188"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Vorbereiten des Verschiebens von Partner Membership Center (PMC) zu Partner Center
 
-Wir verschieben die Mitgliedschafts Verwaltung aus dem Partner Membership Center (PMC) in das Partner Center – das einzige Ziel zum Verwalten Ihrer geschäftlichen Beziehung mit Microsoft. Wir möchten, dass Ihre Umstellung auf Partner Center so effizient und einfach wie möglich ist. Wir haben einige Bereiche identifiziert, in denen sich das Partner Center von der PMC unterscheidet, und wir sind der Ansicht, dass Sie diese vor dem Verschieben verstehen und vorbereiten möchten.
+Wir verschieben die Mitgliedschafts Verwaltung aus dem Partner Membership Center (PMC) in das Partner Center-das einzige Ziel, um Ihre geschäftliche Beziehung mit Microsoft zu verwalten. Wir möchten, dass Ihre Umstellung auf Partner Center so effizient und einfach wie möglich ist. Wir haben einige Bereiche identifiziert, in denen sich das Partner Center von der PMC unterscheidet, und wir sind der Ansicht, dass Sie diese vor dem Verschieben verstehen und vorbereiten möchten.
 
 ## <a name="account-and-identity-setup"></a>Einrichtung von Konten und Identitäten
 
@@ -42,7 +44,7 @@ Möglicherweise gibt es viele Gründe, warum Sie keinen vorhandenen Azure AD Man
 
 **Worin besteht der Unterschied zwischen der globalen Aad-Administrator Rolle und der globalen PMC-MPN-Administrator Rolle?**
 
-Dabei handelt es sich um zwei ganz andere Rollen mit unterschiedlichen Berechtigungen. Der globale Administrator des Aad-Mandanten in Partner Center verwaltet den Mandanten – fügt Benutzer hinzu oder entfernt diese, stellt Kenn Wörter, Rollen und Berechtigungen bereit und verwaltet Sie in Partner Center. 
+Dabei handelt es sich um zwei ganz andere Rollen mit unterschiedlichen Berechtigungen. Der globale Administrator des Aad-Mandanten in Partner Center verwaltet den Mandanten: Fügt Benutzer hinzu oder entfernt Benutzer, stellt Kenn Wörter, Rollen und Berechtigungen bereit und verwaltet Sie in Partner Center. 
 
 Die globale MPN-Administrator Rolle in der PMC könnte folgende Aktionen ausführen:
 
@@ -127,7 +129,7 @@ Ja, der Umstieg auf Partner Center hat keine Auswirkungen auf die Kompatibilitä
  **Werden unsere Microsoft-Konten, die über Visual Studio-Vorteile verfügen, berücksichtigt?**
 
 
- Ja. Visual Studio-Vorteile, die MSAs zugeordnet sind, bleiben erhalten und gelten weiter. Sie werden auch nach der Verlängerung in Partner Center beibehalten. Wenn du jedoch nach der Migration zu Partner Center eine MSA-Zuordnung entfernst, kann diese nicht wieder zu Partner Center hinzugefügt werden.
+ Ja. Visual Studio-Vorteile, die MSAs zugeordnet sind, bleiben erhalten und gelten weiter. Sie werden auch nach der Verlängerung in Partner Center beibehalten. Wenn Sie jedoch eine MSA-Zuordnung entfernen, nachdem Sie im Partner Center migriert wurde, kann Sie nicht wieder in Partner Center hinzugefügt werden.
 
 In Partner Center kann ein Partner Geschäftskonten und Gastbenutzerkonten vom Typ MSA aus demselben Mandanten hinzufügen, in dem der Partner MPN-Administrator im Azure AD-Mandanten ist. Wenn der Partner globaler Administrator in mehreren Azure AD-Mandanten ist und all diese Mandanten demselben Partner Center-Konto zugeordnet sind, kann der Partner Benutzer aus all diesen Mandanten zu Visual Studio-Vorteilen und zu auf der Azure-Nutzung basierenden Zuordnungen hinzufügen.
 

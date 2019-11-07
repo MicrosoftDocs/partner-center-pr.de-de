@@ -2,21 +2,23 @@
 title: Vorbereiten der Umstellung vom Admin Center für Partner auf Partner Center | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Die Funktionen des Office 365 Admin Center für Partner werden in Partner Center verschoben.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC, Office 365 Advisor, Advisor, Syndication-Partner, PAC Einstellen, PAC Ausmusterung
 ms.localizationpriority: medium
-ms.openlocfilehash: 738e8a87ae75c61c32f571db1c5af529c3d3d216
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 234e86f166462a38592ebea3e898d45e99ff8edb
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668412"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654230"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Umstellung vom Admin Center für Partner auf Partner Center
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 
@@ -38,7 +40,7 @@ Im April 2018 wird das PAC ausgemustert, und CSP-Partner werden automatisch zu 
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Verwenden Sie Microsoft Partner Center ab sofort!
 
-Verwenden Sie [Microsoft Partner Center](https://partnercenter.microsoft.com/) jetzt schon, um sich auf die Umstellung vom PAC vorzubereiten.  Sie verwenden für Partner Center dieselben Anmeldeinformationen wie für das PAC. 
+Verwenden Sie [Microsoft Partner Center](https://partnercenter.microsoft.com/) jetzt schon, um sich auf die Umstellung vom PAC vorzubereiten.  Sie verwenden die gleichen Anmelde Informationen für das Partner Center, das Sie für PAC verwenden. 
 
 > [!IMPORTANT]  
 > Einige im PAC verfügbare Features und Funktionen stehen in Partner Center nicht zur Verfügung.

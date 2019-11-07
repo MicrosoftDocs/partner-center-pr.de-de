@@ -2,17 +2,19 @@
 title: Rollen und Berechtigungen, die für die Gutschrift von Partnern berechtigt sind | Partner Center
 ms.topic: article
 ms.date: 09/17/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Rollen und Berechtigungen und der Partner hat Guthaben verdient
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: edb43070cf0d34ce893bf13a501b91f32e904ad7
-ms.sourcegitcommit: e73d8a1d74ed4ea87a5330b00fe119222bc2c3da
+ms.openlocfilehash: c57effb8d7550da05ca55afd3d14ea9aa9f022ba
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "71093257"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653783"
 ---
 # <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Rollen und Berechtigungen, die zum erwerben von Partnern berechtigt sind
 

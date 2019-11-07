@@ -2,21 +2,23 @@
 title: Aktualisieren der Kundenkontoinformationen | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Sie können die Abrechnungsinformationen eines Kunden und weitere Unternehmensdetails in Partner Center aktualisieren.
 ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 32a335778cde4495e3572a18afb90ff4593f2465
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: a9d8070bf732597ed1d24a930508db910a4dfc65
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668404"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651191"
 ---
 # <a name="update-customer-account-info"></a>Aktualisieren der Kundenkontoinformationen
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government

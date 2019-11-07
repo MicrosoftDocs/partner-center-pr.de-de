@@ -2,6 +2,8 @@
 title: Nichtbezahlung, Betrug oder Missbrauch | Partner Center
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Strategien für die Verwaltung von Onlinetransaktionsrisiken, einschließlich der Nichtzahlung von Waren und Dienstleistungen durch den Kunden sowie betrügerische Aktivitäten oder Missbrauch
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: Betrug, Missbrauch, akzeptable Nutzung, Nutzungsrichtlinie, Nichtzahlung, Kunde bezahlt die Rechnung nicht, Onlinerisiko, Diebstahl von Diensten, Dienstmissbrauch, Abonnements aussetzen
@@ -9,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2e8ab123b4b735f685c7caf1ba740c04c93fd134
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 4cda8426d29fd2bf290cac2d7478bcb08641c5c3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978727"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652963"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>Nichtbezahlung, Betrug oder Missbrauch
 
@@ -35,7 +37,7 @@ Um betrügerische Aktivitäten oder Missbrauch zu vermeiden und/oder zu bekämpf
 
 - **Diebstahl von Diensten:** Kunden, die nicht beabsichtigen, genutzte Dienste zu bezahlen, indem sie gestohlene Zahlungsmittel verwenden, falsche Abrechnungsinformationen angeben und/oder ausstehende Rechnungen nicht begleichen
 
-- **Missbrauch von Diensten:** Kunden, die bei der Verwendung von Clouddiensten gegen die Nutzungsrichtlinie von Microsoft verstoßen
+- **Missbrauch des Dienstanbieter** Kunden, die Clouddienste verwenden, verstoßen gegen den Acceptable Use Policy von Microsoft
 
 #### <a name="examples-of-possible-fraud-or-service-abuse"></a>Beispiele für möglichen Betrug oder Missbrauch des Diensts
 - Spamming

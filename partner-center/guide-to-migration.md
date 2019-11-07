@@ -2,17 +2,19 @@
 title: Leitfaden für die Migration von PMC zu Partner Center | Partner Center
 ms.topic: article
 ms.date: 04/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Was Sie wissen sollten, wenn Sie Ihr Unternehmen von der PMC zu Partner Center migrieren?
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, Migration, Umstellung auf Partner Center
+keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: f8e0b1fa4b31608ed4031832018c0a003abf0ae9
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: a39c4114758004ff4291bc577182fd8ba469149b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708916"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653098"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Leitfaden für die Migration von PMC zu Partner Center
 
@@ -23,7 +25,7 @@ Das Partner Membership Center (PMC) wird außer Betrieb gesetzt. Ihr Unternehmen
 >[!Note]
 >Auch wenn Ihr Unternehmen über mehr als ein Konto oder einen Standort verfügt, beginnt der Umstieg auf Partner Center mit dem Verschieben eines (Ihrem ersten) Konto in Partner Center.
 
-## <a name="get-started"></a>Erste Schritte
+## <a name="get-started"></a>„Erste Schritte“
 
 Der Verschiebe Vorgang beginnt in der PMC. Ihr globaler Administrator erhält eine Einladung, um mit dem Verschieben zu beginnen. 
 
@@ -35,9 +37,9 @@ Der Verschiebe Vorgang beginnt in der PMC. Ihr globaler Administrator erhält ei
 
 **Wenn Sie bereit sind**
 
-Wählen Sie in Ihrer Einladung den Einstieg in Ihre Einladung aus. Sie gelangen zur Partner Center-Anmeldeseite.
+Wählen Sie in Ihrer Einladung **den Einstieg in** Ihre Einladung aus. Sie gelangen zur Partner Center-Anmeldeseite.
 
-![Erste Schritte](images/migration/getstarted.jpg)
+![„Erste Schritte“](images/migration/getstarted.jpg)
 
 ## <a name="start-with-your-work-email"></a>Mit Ihrer Geschäfts-e-Mail starten
 
@@ -68,7 +70,7 @@ Wenn Sie Ihren neuen Azure AD Mandanten erstellt haben, können Sie Ihre Mitarbe
 ![Mitarbeiter einladen](images/migration/invite.png)
 
 
-Wenn Sie sich mit einem vorhandenen Aad-Mandanten angemeldet haben, sind Ihre Mitarbeiter mit Ihnen in der Hand. Weisen Sie in diesem Fall Ihre Mitarbeiter Rollen zu, die bestimmen, welche Möglichkeiten Sie in Partner Center haben. Hinweis: Rollen in Partner Center unterscheiden sich von den Rollen in der PMC. Weitere Informationen finden [Sie unter Wechsel von der PMC zu Partner Center](move-pmc-pc-map.md).
+Wenn Sie sich mit einem vorhandenen Aad-Mandanten angemeldet haben, sind Ihre Mitarbeiter mit Ihnen in der Hand. Weisen Sie in diesem Fall Ihre Mitarbeiter Rollen zu, die bestimmen, welche Möglichkeiten Sie in Partner Center haben. Hinweis: Rollen im Partner Center unterscheiden sich von den Rollen in der PMC. Weitere Informationen finden [Sie unter Wechsel von der PMC zu Partner Center](move-pmc-pc-map.md).
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>Überprüfen der Domäne und als globaler Administrator  
 
@@ -91,12 +93,12 @@ Sehen Sie sich das Dashboard an. Hier können Sie Ihre Mitgliedschaft verwalten,
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Erstellen von Benutzerkonten](create-user-accounts-and-set-permissions.md)
-- [Zuweisen von Benutzer Rollen und Berechtigungen](permissions-overview.md)
-- [Verwalten Ihrer Mitgliedschaftsprogramme](renew-mpn-offers.md)
-- [Erstellen des Geschäfts Profils Ihres Unternehmens](create-a-marketing-profile.md)
-- [Herstellen einer Verbindung mit Kunden über Verweise](responding-to-referrals.md)
+- [Erstellen von Benutzerkonten ](create-user-accounts-and-set-permissions.md)
+- [Zuweisen von Benutzerrollen und Berechtigungen](permissions-overview.md)
+- [Verwalten der Microsoft Partner Network-Mitgliedschaftsprogramme](renew-mpn-offers.md)
+- [Erstellen Ihres Unternehmensprofils](create-a-marketing-profile.md)
+- [Kontaktaufnahme mit Kunden durch Empfehlungen](responding-to-referrals.md)
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Informationen:
 
 - [Leitfaden zum Migrieren mehrerer Unternehmen von der PMC zu Partner Center](move-multiple-companies.md)

@@ -1,6 +1,8 @@
 ---
 title: Analysieren der Leistung indirekter Vertriebspartner | Partner Center
 ms.date: 08/02/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Rufen Sie Daten zur Leistung Ihrer indirekten Vertriebspartner ab, um Erfolge sowie Bereiche zu identifizieren, die möglicherweise mehr Aufmerksamkeit erfordern.
 author: LauraBrenner
 ms.author: labrenne
@@ -9,16 +11,16 @@ ms.topic: article
 keywords: Geschäftsdaten
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c46a155b99087f6d6019db4ed81247c269883ae2
-ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: HT
+ms.openlocfilehash: ef7a20a669481b3724fd98a5fdb62feaea4ede74
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68781991"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653925"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>Analysieren der Leistung indirekter Händler 
 
-**Gilt für**
+**Zielgruppe**
 - Partner Center
 
 Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Analysen für Vertriebspartner**, um Ihre Erfolge, die Erfolge Ihrer indirekten Vertriebspartner sowie die Bereiche auszumachen, die mehr Aufmerksamkeit erfordern. Nutzen Sie diese Informationen bei der Planung neuer Geschäftsziele.
@@ -30,9 +32,9 @@ Wir verfolgen die folgenden Metriken:
 
 **Zusammenfassung**  
  - **Vertriebspartner gesamt**: Anzahl der aktiven Vertriebspartner am letzten Tag des Abonnements  
- - **Neue Vertriebspartner**: Anzahl der neuen indirekten Vertriebspartner im angegebenen Zeitraum  
- - **Aktive Vertriebspartner**: Anzahl der indirekten Vertriebspartner, bei denen die MPNID mindestens 1 Abonnement ist und deren Abonnementstatus nicht „Bereitstellung aufgehoben“ lautet  
- - **Vertriebspartner mit Transaktionen**: Anzahl der indirekten Vertriebspartner mit einem im angegebenen Zeitraum verkauften Abonnement  
+ - **Neue Vertriebspartner**: Anzahl der neuen indirekten Vertriebspartner für den angegebenen Zeitraum  
+ - **Aktive Vertriebspartner**: Anzahl der indirekten Vertriebspartner, bei denen die MPNID mindestens ein Abonnement ist und deren Abonnementstatus nicht entfernt lautet  
+ - **Transacting Partner**: Anzahl der indirekten Vertriebspartner mit einem Abonnement, das im angegebenen Zeitraum verkauft wurde  
 
 **Vertriebspartner nach Markt**  
  - Vertriebspartner insgesamt nach geografischem Standort  
@@ -50,13 +52,13 @@ Wir verfolgen die folgenden Metriken:
  - Die Anzahl der neu hinzugefügten Abonnements nach Datum  
 
 **Änderungsumfang bei Abonnements**  
- - **Neue Abonnements**: Die Anzahl der neu hinzugefügten Abonnements nach Datum  
- - **Abonnements mit aufgehobener Bereitstellung**: Anzahl der Abonnements nach Datum, deren Bereitstellung aufgehoben oder angehalten wurde  
+ - **Neue Abonnements**: Anzahl der neuen hinzugefügten Abonnements nach Datum  
+ - **Entfernte Abonnements**: Anzahl der Abonnements nach Datum, die entfernt oder ausgesetzt wurden  
 
 **Neue Vertriebspartnerdetails**  
- - **Name des Vertriebspartner**: Namen der indirekten Vertriebspartner  
- - **Speicherort**: Märkte, in denen die indirekten Vertriebspartner tätig sind  
+ - **Partnername**: Namen der indirekten Vertriebspartner  
+ - **Ort**: Märkte, in denen die indirekten Vertriebspartner tätig sind  
  - **Abonnements**: Anzahl der Abonnements, die der Vertriebspartner verkauft hat  
- - **Lizenzen**: Gesamtanzahl der Lizenzen, die der Vertriebspartner in allen Abonnements verkauft hat  
+ - **Lizenzen**: Gesamtzahl der Lizenzen, die der Vertriebspartner über alle Abonnements verkauft hat  
   
   

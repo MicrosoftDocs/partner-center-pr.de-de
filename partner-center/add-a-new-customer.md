@@ -2,22 +2,24 @@
 title: Neuen Kunden hinzufügen | Partner Center
 ms.topic: article
 ms.date: 03/21/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Damit Sie Abonnements verkaufen, die Abrechnung verwalten oder Support bereitstellen können, müssen Sie einen Datensatz für den Kunden in Partner Center erstellen.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Kunde, Kunde hinzufügen, Kundenkonto, Kundenkonto im Partner Center, Kunden, Kunden hinzufügen, Kundenkonto erstellen
 ms.localizationpriority: medium
-ms.openlocfilehash: b086796f6907b4ff4705b7c2fe1965b7d2adceff
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b8ffc01816e7f50ada49d87a82b8d7fbc72a78dd
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134480"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653397"
 ---
-# <a name="add-a-new-customer"></a>Neuen Kunden hinzufügen
+# <a name="add-a-new-customer"></a>Hinzufügen eines neuen Kunden
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -38,9 +40,9 @@ Bevor Sie einem Kunden Abonnements verkaufen, die Abrechnung verwalten oder ihm 
 
 3. Wenn Sie ein indirekter Anbieter sind, wählen Sie in der Liste den indirekten Vertriebspartner aus, den Sie den Abonnements dieses Kunden zuordnen möchten.
 
-4. Wählen Sie **Weiter: Abonnements** aus, nachdem Sie alle erforderlichen Informationen eingegeben haben.
+4. Wählen Sie **Weiter: Abonnements** , wenn Sie alle erforderlichen Informationen eingegeben haben.
 
-5. Wählen Sie auf der Seite **Abonnements** die Angebote aus, die Ihr Kunde von Ihnen erwerben möchte, geben Sie die Anzahl von Lizenzen ein, und wählen Sie dann **Weiter: Überprüfung** aus.
+5. Wählen Sie auf der Seite **Abonnements** die Angebote aus, die Ihr Kunde erwerben möchte, geben Sie die Anzahl der Lizenzen ein, und klicken Sie dann auf **Weiter: Überprüfen**.
 
 6. Überprüfen Sie auf der Seite **Überprüfung** Ihre Einträge auf Richtigkeit, und wählen Sie dann **Senden** aus, wenn die Informationen korrekt sind.
 
@@ -49,7 +51,7 @@ Bevor Sie einem Kunden Abonnements verkaufen, die Abrechnung verwalten oder ihm 
 
 7. Wählen Sie **Fertig** aus, wenn Sie die gewünschten Kundeninformationen hinzugefügt und die erforderlichen Abonnements erworben haben.
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Informationen:
 
 - Weitere Informationen darüber, was Sie Ihren Kunden über das Cloud Solution Provider-Programm zum Verkauf anbieten können, finden Sie unter [Partnerangebote im Cloud Solution Provider-Programm](csp-offers.md).
 

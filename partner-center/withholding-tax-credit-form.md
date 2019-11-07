@@ -2,18 +2,20 @@
 title: Stellen Sie sicher, dass Sie für die zurück Haltungs Steuern Partner Center
 ms.topic: article
 ms.date: 05/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Zum Öffnen eines Service Request benötigen Sie sowohl das Formular zum zurückbehalten der Steuergutschrift als auch das Steuer Zertifikat für die Zurückhaltung.
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
 keywords: Finanz Guthaben, Steuergutschriften, deutsche Steuergutschrift, Formular Steuergutschrift
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
-ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
+ms.openlocfilehash: 654e4f32be1e86ce455c7d0409469bab37473f8b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "72892409"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653948"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Stellen Sie sicher, dass Sie für die zurück Haltungs Steuern
 
@@ -49,7 +51,7 @@ Füllen Sie dieses [Formular](https://query.prod.cms.rt.microsoft.com/cms/api/am
 
 2. Wählen Sie **CSP**aus.
 
-3. Wählen Sie unter " **CSP – Abrechnung und Zahlungen**" den Problemtyp "- **abhaltungs Steuer** " aus, und wählen Sie **Ja** 
+3. Wählen Sie unter **CSP-Abrechnungs-und Zahlungs Zahlungen**den Problemtyp-"zurück **Haltungs Steuer** " aus, und wählen Sie **Ja** 
 
 4. Wenn Sie die Service Request übermitteln, stellen Sie sicher, dass Sie das Steuer Guthaben-Formular und digitale Kopien der Steuer Zertifikate anfügen.
 

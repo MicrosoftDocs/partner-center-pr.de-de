@@ -2,17 +2,19 @@
 title: Wechsel von PMC zu Partner Center | Partner Center
 ms.topic: article
 ms.date: 06/14/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Unterschiede und Gemeinsamkeiten von PMC und Partner Center
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: b7cc7104d648eff3a5461d950345c283a307ea6c
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 9a6beaa331d762f47530441a91dc203ed01c78e2
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921477"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653278"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Wechsel von PMC zu Partner Center
 
@@ -32,7 +34,7 @@ Die folgende Tabelle zeigt einige der Unterschiede zwischen PMC und Partner Cent
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
-|Hauptsitz und Filialstandorte wurden separat bewertet. Die Bewertung der Kompetenzen erfolgte auf lokaler Ebene.|Das globale Unternehmen einschließlich zugehöriger Filialstandorte – das Partner Global Account (PGA) –, wird als Ganzes bewertet. Leistungs- und Qualifikationsdaten werden auf PGA-Ebene aggregiert. Partner Center umfasst verschiedene Profilansichten für Programme, z. B. Partner- und Businessprofile für Empfehlungen und Marketing. Weitere Informationen findest du unter [Kontostruktur in Partner Center](https://docs.microsoft.com/partner-center/account-structure.md).|
+|Hauptsitz und Standorte-jeweils einzeln ausgewertet. Die Bewertung der Kompetenzen erfolgte auf lokaler Ebene.|Das globale Unternehmen einschließlich zugehöriger Filialstandorte – das Partner Global Account (PGA) –, wird als Ganzes bewertet. Leistungs- und Qualifikationsdaten werden auf PGA-Ebene aggregiert. Partner Center umfasst verschiedene Profilansichten für Programme, z. B. Partner- und Businessprofile für Empfehlungen und Marketing. Weitere Informationen findest du unter [Kontostruktur in Partner Center](https://docs.microsoft.com/partner-center/account-structure.md).|
 
 ## <a name="sign-in"></a>Anmelden
 
@@ -84,7 +86,7 @@ Die folgende Tabelle zeigt einige der Unterschiede zwischen PMC und Partner Cent
 |Tool zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR)| Tool zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR)|
 |           |Cloud Solution Provider-Programme|
 
-Visual Studio-Vorteile, die MSAs zugeordnet sind, bleiben erhalten und gelten weiter. Sie werden auch nach der Verlängerung in Partner Center beibehalten. Wenn du jedoch nach der Migration zu Partner Center eine MSA-Zuordnung entfernst, kann diese nicht wieder zu Partner Center hinzugefügt werden.
+Visual Studio-Vorteile, die MSAs zugeordnet sind, bleiben erhalten und gelten weiter. Sie werden auch nach der Verlängerung in Partner Center beibehalten. Wenn Sie jedoch eine MSA-Zuordnung entfernen, nachdem Sie im Partner Center migriert wurde, kann Sie nicht wieder in Partner Center hinzugefügt werden.
 
 In Partner Center kann ein Partner Geschäftskonten und Gastbenutzerkonten vom Typ MSA aus demselben Mandanten hinzufügen, in dem der Partner MPN-Administrator im Azure AD-Mandanten ist. Wenn der Partner globaler Administrator in mehreren Azure AD-Mandanten ist und all diese Mandanten demselben Partner Center-Konto zugeordnet sind, kann der Partner Benutzer aus all diesen Mandanten zu Visual Studio-Vorteilen und zu auf der Azure-Nutzung basierenden Zuordnungen hinzufügen.
 

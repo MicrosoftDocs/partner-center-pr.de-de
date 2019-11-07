@@ -1,19 +1,15 @@
 ---
-title: Überprüfen von Partnerprofilen | Partner Center
-description: Wenn Sie sich zum ersten Mal als Administrator anmelden, sollten Sie überprüfen, ob die Supportdetails korrekt sind, Steuerbefreiungen beantragen, sofern zutreffend, und die Kontaktinformationen in Ihren Profilen überprüfen.
-MS.Topic: article
-Date: 08/06/2019
-ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
-author: LauraBrenner
-ms.author: labrenne
-ms.localizationpriority: medium
-ms.openlocfilehash: 6a8e8e85650306c67130fcd91dcbdb40f2d9498b
-ms.sourcegitcommit: ea68a16c2ed386cca983dd3fa85032450eacf871
-ms.translationtype: HT
+ms.openlocfilehash: 496bf935432f46b9fe12a946c956071606e34d58
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "68860958"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653988"
 ---
+ms. Service: Partner-Dashboard ms. subservice: Partner Center-CSP Description: Wenn Sie sich zum ersten Mal als Administrator anmelden, stellen Sie sicher, dass Ihre Support Details richtig sind, wenn Sie ggf. die entsprechenden Datei Freistellungen durchführen, und überprüfen Sie die Kontaktinformationen in ihren Profilen.
+Ulmen. Thema: Artikel Datum: 08/06/2019 ms. assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E Author: laurabrenner ms. Author: labrenne ms. localizationpriority: Medium
+---
+
 # <a name="verify-your-partner-profile"></a>Überprüfen von Partnerprofilen
 
 Wenn Sie sich zum ersten Mal als globaler Administrator in Partner Center anmelden, stellen Sie sicher, dass alle Ihre Unternehmensdaten wie Hauptkontakt, offizieller Geschäftsname und Adresse sowie Programminformationen ordnungsgemäß hinzugefügt wurden. Wenn Ihr Unternehmen mehr als einen Standort hat, überprüfen Sie Ihre Standortdaten auf Richtigkeit. Als globaler Administrator, Abrechnungsadministrator oder Administrator-Agent können Sie auch Ihre Abrechnungs- und Steuerinformationen einsehen und aktualisieren. 

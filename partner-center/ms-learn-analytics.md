@@ -1,130 +1,132 @@
 ---
-title: Microsoft-Learn-Analysen | Partner Center
+title: Microsoft Learn Analytics | Partner Center
 ms.topic: article
 ms.date: 07/05/2019
-description: Informationen zum Verstehen Sie Ihre Analysen learning
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Informationen zum Verständnis ihrer Lern Analyse
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e59be88d1e599bbd9d26827ec6a588a23a2f77a4
-ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
-ms.translationtype: HT
+ms.openlocfilehash: 74a11ba93e73afcd4117fc6834675d7db5d2fc20
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67674255"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653020"
 ---
-# <a name="microsoft-learn-analytics-report"></a>Microsoft-Learn-Analysebericht
+# <a name="microsoft-learn-analytics-report"></a>Microsoft Learn Analytics-Bericht
 
-Die Microsoft-Learn-Bericht bietet Ihnen mit Informationen über die lerner in Ihrem Unternehmen, einschließlich Module, mit denen, die Sie abgeschlossen sind, und die Lernpfade, die, denen Sie sich befinden. Der Bericht zeigt den Status jedes einzelnen lerner. Der globale Administrator und der MPN-Administrator für Ihr Unternehmen können die Daten anzeigen.
+Der Microsoft Learn Bericht enthält Informationen zu den Lernmodulen in Ihrem Unternehmen, einschließlich der Module, die Sie abgeschlossen haben, und der Lernpfade, in denen Sie sich befinden. Der Bericht zeigt den Status jedes einzelnen Learners an. Der globale Administrator und der MPN-Administrator für Ihr Unternehmen können die Daten anzeigen.
 
-## <a name="how-to-read-the-report"></a>Gewusst wie: Lesen Sie den Bericht
+## <a name="how-to-read-the-report"></a>Vorgehensweise beim Lesen des Berichts
 
-### <a name="summary-charts"></a>Diagramme mit testzusammenfassungen
+### <a name="summary-charts"></a>Zusammenfassungs Diagramme
 
-Diese Diagramme werden Anzahl und den monatlichen kumulativen Trends für trainierten Einzelpersonen, Modul vervollständigungen und die Azure-Lernpfade zusammengefasst.
+In diesen Diagrammen werden Anzahl und monatliche kumulative Trends für trainierte Einzelpersonen, Modul Vervollständigungen und Lernpfade zusammengefasst.
 
 
-**Anzahl der Personen trainiert**: Anzahl der alle unterschiedlichen lerner, die mindestens ein Modul während des ausgewählten Datumsbereichs abgeschlossen haben 
+**Anzahl trainierter Personen**: die Anzahl aller unterschiedlichen Lerner, die mindestens ein Modul während des ausgewählten Datums Bereichs abgeschlossen haben 
 
-**Trainierte Einzelpersonen trend Mini-Diagramm**: Monat für Monat die kumulierte Anzahl der aktiven lernmodule 
+**Trend Mini Diagramm für trainierte Personen**: Monat im Vergleich zum kumulativen Gesamtzahl der aktiven Lernmodule 
 
-**Anzahl der Module vervollständigungen**: Die Anzahl der Module vervollständigungen durch die lerner im Unternehmen die Partners während des ausgewählten Datumsbereichs.
-Angenommen, "Modul 1" von 15 Personen, abgeschlossen ist und die "Modul 2" durch die gleichen 15 Personen abgeschlossen wurde, wird die Anzahl der Module vervollständigungen 30. Das Abschlussdatum Modul sollten im ausgewählten Datumsbereich fallen.
+**Anzahl der Module**: Anzahl der Module, die im Rahmen des ausgewählten Datums Bereichs von den Lernmodulen im Partnerunternehmen berücksichtigt werden.
+Wenn "Module 1" z. b. von 15 Individuen abgeschlossen wird und "Module 2" von denselben 15 Individuen abgeschlossen wurde, beträgt die Anzahl der Modul Vervollständigungen 30. Das Modul Abschlussdatum sollte in den ausgewählten Datumsbereich fallen.
 
-**Modul vervollständigungen trend Mini-Diagramm**: Monat für Monat die kumulierte Anzahl von der Modul-vervollständigungen 
+**Diagramm Vervollständigungs Trend Mini Diagramm**: Monat im Vergleich zum kumulativen Gesamtanzahl der Module 
 
-**Lernen die Anzahl der Abschlüsse Pfad**: Anzahl von Learning Pfad vervollständigungen durch die lerner im Unternehmen die Partners während des ausgewählten Datumsbereichs.
-Wenn Lernpfad "Path-1" von 20 Einzelpersonen und Lernpfad abgeschlossen ist z. B. "Pfad 2" von den gleichen 20 Reviewern abgeschlossen wurde, wird die Anzahl der Lernpfad für Abschluss 40. Das Abschlussdatum des Learning-Pfad sollten in den ausgewählten Datumsbereich fallen.
+**Vervollständigungs Anzahl für Lernpfad**: Anzahl der Lernpfad Vervollständigungen von den Lernmodulen im Unternehmen des Partners während des ausgewählten Datums Bereichs.
+Wenn z. b. der Lernpfad "Path 1" durch 20 Personen abgeschlossen ist und der Lernpfad "Pfad 2" von denselben 20 Individuen abgeschlossen wurde, ist die Abschluss Anzahl des Lernpfads 40. Das Abschlussdatum des Lernpfads sollte in den ausgewählten Datumsbereich fallen.
 
-**Lernen Sie die Pfad-vervollständigungen trend Mini-Diagramm**: Monat für Monat die kumulierte Anzahl der Learning Pfad vervollständigungen 
+**Trend zum Vervollständigen des Lernpfads-Mini Diagramms**: Monat im Vergleich zur kumulativen Anzahl der Lernpfad Vervollständigungen 
 
-### <a name="trained-individuals-monthly-trend"></a>Trainiertes Einzelpersonen nutzungstrend für diesen Monat
+### <a name="trained-individuals-monthly-trend"></a>Monatlicher Trend für trainierte Einzelpersonen
 
-Diese Daten sind der Trend der Ihres Unternehmens-Benutzer, die ein Modul zum ersten Mal in diesem Monat abgeschlossen haben. 
+Diese Daten sind der Trend der Benutzer Ihres Unternehmens, die ein Modul zum ersten Mal in diesem Monat abgeschlossen haben. 
 
-**X-Achse** Monat für den Zeitfilter ausgewählt ist. 
+Die **X-Achse** für den ausgewählten Zeitfilter ist "Month". 
 
-**Y-Achse** ist die Anzahl der aktiven lerner, die für diesen Monat (erstmaligen Abschluss eines Moduls) registriert haben. Dies ist nicht kumulativ.
+Die **Y-Achse** ist die Anzahl aktiver Lerner, die während dieses Monats (erstmaliger Abschluss eines Moduls) registriert haben. Dies ist kein kumulativer Wert.
 
-### <a name="module-completions-monthly-trend"></a>Vervollständigungen auftragstrend für Modul
+### <a name="module-completions-monthly-trend"></a>Monatliche Trend zum Vervollständigen von Modulen
 
-Diese Daten sind der Trend der Module, die von Benutzern für alle Ihre Unternehmensdaten für diesen Monat abgeschlossen. (nicht kumulativ) 
+Diese Daten sind der Trend der Module, die während dieses Monats von allen Benutzern Ihres Unternehmens abgeschlossen wurden. (nicht kumulativ) 
 
-**X-Achse** Monat für den Zeitfilter ausgewählt ist. 
+Die **X-Achse** für den ausgewählten Zeitfilter ist "Month". 
 
-**Y-Achse** ist von der Modul-vervollständigungen für diesen Monat. Dies ist nicht kumulativ.
+Die **Y-Achse** entspricht der Anzahl der Module im Verlauf dieses Monats. Dies ist kein kumulativer Wert.
 
-### <a name="learning-path-completions-monthly-trend"></a>Vervollständigungen auftragstrend für Learning den Pfad
+### <a name="learning-path-completions-monthly-trend"></a>Der monatliche Trend der Lernpfad Vervollständigung
 
-Diese Daten sind die Tendenz, Lernpfade, die durch die Benutzer Ihrem Unternehmen für diesen Monat abgeschlossen. (nicht kumulativ) 
+Diese Daten sind der Trend von Lernpfaden, die von den Benutzern Ihres Unternehmens während dieses Monats abgeschlossen wurden. (nicht kumulativ) 
 
-**X-Achse** Monat für den Zeitfilter ausgewählt ist. 
+Die **X-Achse** für den ausgewählten Zeitfilter ist "Month". 
 
-**Y-Achse** ist die Anzahl der Modul-Abschlüsse in diesem Monat. Dies ist nicht kumulativ.
+Die **Y-Achse** ist die Anzahl der Modul Vervollständigungen in diesem Monat. Dies ist kein kumulativer Wert.
 
-### <a name="learning-path-completion-tabs"></a>Lernen die Pfad-Abschluss-Registerkarten 
+### <a name="learning-path-completion-tabs"></a>Registerkarten für den Lernpfad Abschluss 
 
-**Registerkarte "Modul"**
+**Modul Registerkarte**
 
-Diese Registerkarte enthält die Aufschlüsselung der Module, die in Ihrem Unternehmen durch den Top 5 Modulnamen abgeschlossen; das Produkt, das das Modul zugeordnet ist; und die Benutzerrolle, die für das Modul relevant sind.  
+Diese Registerkarte enthält eine Aufschlüsselung der Module, die in Ihrem Unternehmen durch die fünf wichtigsten Modulnamen abgeschlossen wurden. das Produkt, dem das Modul zugeordnet ist. und die Benutzerrolle, die für das Modul relevant ist.  
 
-- Modul vervollständigungen Ringdiagramm: Aufschlüsselung von der Modul-vervollständigungen (Anzahl, die im Abschnitt "Zusammenfassung" angezeigt werden) durch die Modulnamen.
+- Modul Vervollständigung Ring Diagramm: Aufschlüsselung der Modul Vervollständigungen (im Zusammenfassungs Abschnitt angezeigt) nach den Modulnamen.
 
-Anzahl, die in der Mitte des Diagramms angezeigt wird, die Gesamt-Module abgeschlossen
+Die Gesamtzahl der Module, die in der Mitte des Diagramms angezeigt werden, ist abgeschlossen.
 
-- Vervollständigungen nach Rolle: Aufschlüsselung von der Modul-vervollständigungen von der Rolle des Moduls. Wenn ein Modul mehrere Rollen zugeordnet ist, wird jede der Rollen für die Anzahl der Modul-vervollständigungen hinzugefügt.
+- Vervollständigungen nach Rolle: Aufschlüsselung der Modul Vervollständigungen nach der Rolle des Moduls. Wenn ein Modul mehreren Rollen zugeordnet ist, wird jede der Rollen der Anzahl der Modul Vervollständigungen hinzugefügt.
 
-Anzahl, die in der Mitte des Diagramms angezeigt, ist die Anzahl der unterschiedlichen Rollen für die vervollständigungen Modul. 
+Die Zahl, die in der Mitte des Diagramms angezeigt wird, ist die Anzahl der unterschiedlichen Rollen für die Vervollständigungen von Modulen. 
 
-- Vervollständigungen nach Produkt: Aufschlüsselung von der Modul-vervollständigungen durch das Produkt, das Modul zugeordnet ist. Wenn ein Modul mit mehreren Produkten zugeordnet ist, wird jedes der Produkte für die Anzahl der Modul-vervollständigungen hinzugefügt.    
+- Vervollständigungen nach Produkt: Aufschlüsselung der Modul Vervollständigungen für das Produkt, dem das Modul zugeordnet ist. Wenn ein Modul mehreren Produkten zugeordnet ist, wird jedes der Produkte der Anzahl der Modul Vervollständigungen hinzugefügt.    
 
-Anzahl, die in der Mitte des Diagramms angezeigt, ist die Anzahl der unterschiedlichen Produkte für die vervollständigungen Modul.  
+Die Zahl, die in der Mitte des Diagramms angezeigt wird, ist die Anzahl der unterschiedlichen Produkte für die Vervollständigungen von Modulen.  
 
-**Registerkarte "Learning Pfad"**   
+**Registerkarte Lernpfad**   
 
-Diese Registerkarte enthält eine Aufschlüsselung der Lernpfade in Ihrem Unternehmen durch den Top 5 Modulnamen abgeschlossen; das Produkt des Lernpfads zugeordnet ist. und die Rolle für dieses Lernpfads relevant sind.  
+Diese Registerkarte enthält eine Aufschlüsselung der Lernpfade, die in Ihrem Unternehmen mit den Top 5-Modulnamen abgeschlossen wurden. das Produkt, dem der Lernpfad zugeordnet ist. und die Rolle, die für diesen Lernpfad relevant ist.  
 
-- Lernen die Pfade vervollständigungen Ringdiagramm: Aufschlüsselung der Learning-Pfad-vervollständigungen (Anzahl, die im Abschnitt "Zusammenfassung" angezeigt) anhand des Namens.
+- Lern Pfade Vervollständigung Ring Diagramm: Gliederung der Lernpfad Vervollständigung (Anzahl wird im Zusammenfassungs Abschnitt angezeigt) nach Namen.
 
-- Vervollständigungen von Rolle *: Aufschlüsselung der Learning Pfade vervollständigungen von der Rolle. Wenn ein Modul mehrere Rollen zugeordnet ist, wird jede der Rollen für die Anzahl der Modul-vervollständigungen hinzugefügt.
+- Vervollständigungen nach Rolle *: Gliederung der Lernpfade durch die Rolle. Wenn ein Modul mehreren Rollen zugeordnet ist, wird jede der Rollen der Anzahl der Modul Vervollständigungen hinzugefügt.
 
-- Vervollständigungen nach Produkt: Aufschlüsselung der Learning Pfade vervollständigungen durch das Produkt, der der Lernpfad zugeordnet ist. Wenn ein Modul mit mehreren Produkten zugeordnet ist, wird jedes der Produkte für die Anzahl der Modul-vervollständigungen hinzugefügt.
+- Vervollständigungen nach Produkt: Aufschlüsselung der Lernpfade vervollständigen von dem Produkt, dem der Lernpfad zugeordnet ist. Wenn ein Modul mehreren Produkten zugeordnet ist, wird jedes der Produkte der Anzahl der Modul Vervollständigungen hinzugefügt.
 
-### <a name="completions-by-learning-individuals"></a>Vervollständigungen, indem Sie lernen, Personen
+### <a name="completions-by-learning-individuals"></a>Vervollständigungen durch Kennenlernen von Einzelpersonen
 
-Dadurch werden die trainierten Benutzer in Ihrem Unternehmen und die Details ihrer abgeschlossenen Module und die Azure-Lernpfade aufgeführt.
+Dadurch werden die trainierten Benutzer in Ihrem Unternehmen und Details zu den abgeschlossenen Modulen und Lernpfaden aufgelistet.
 
-Microsoft-Learn identifiziert lernmodule mit einem User-Objekt-ID Unter den **Registerkarte Module**, alle lerner werden von den Modulen abgeschlossen sortiert. Sie werden mit ihren Microsoft-Learn-Benutzernamen, Objekt-ID und Anzahl der Module angezeigt. Sie können die Verwendung von Benutzername suchen. 
+Microsoft Learn identifiziert Lerner mit einer Benutzerobjekt-ID. Auf der **Registerkarte Module**werden alle Lernmodule nach den abgeschlossenen Modulen sortiert. Sie werden mit Ihren Microsoft Learn Benutzername, Objekt-ID und Modul Anzahl angezeigt. Sie können mithilfe des Benutzernamens suchen. 
 
-Unter den **lernen die Registerkarte Pfade** alle lerner, sortiert nach Lernpfade abgeschlossen ist, werden mit den lerner Anzeigename des Objekt-ID und Modulanzahl angezeigt.
+Auf der **Registerkarte Lernpfade** werden alle Lerner nach Abschluss der Lernpfade mit dem anzeigen Amen, der Objekt-ID und der Modul Anzahl angezeigt.
 
-So erhalten Sie einen lerner des wird erläutert, wie die Objekt-ID des Benutzers: 
+So erhalten Sie die Details eines Learners mithilfe der Benutzerobjekt-ID: 
 
-1. Melden Sie sich beim [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer ). (Sie müssen der globale Administrator des Azure AD-Mandanten des Unternehmens sein.)
+1. Melden Sie sich beim [Graph-Explorer](https://developer.microsoft.com/graph/graph-explorer )an. (Sie müssen der globale Administrator des Azure AD Mandanten Ihres Unternehmens sein.)
 
-2. Kopieren Sie die Benutzerobjekt-ID, die [Bereich hervorgehoben](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) im Graph-Explorer. 
+2. Kopieren Sie die Benutzerobjekt-ID in den im Graph-Explorer [markierten Bereich](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) . 
 
 ## <a name="faq"></a>Häufig gestellte Fragen
 
-1. Ich kann mich nicht um meines Unternehmens Learning Details anzuzeigen.
+1. Ich kann die Lern Details meines Unternehmens nicht sehen.
 
-Dieser Bericht ist für Partner, die im Partner Center über ein Konto verfügen. Wenn Sie sich noch in der Partner Membership Center sind, werden Sie nicht zur Anzeige dieses Berichts können.
+Dieser Bericht ist für Partner verfügbar, die über ein Konto im Partner Center verfügen. Wenn Sie sich noch im Partner Membership Center befinden, können Sie diesen Bericht nicht sehen.
 
-2.  Die in unserem Unternehmen können diesen Bericht anzeigen? 
+2.  Wer in unserem Unternehmen kann diesen Bericht anzeigen? 
 
 Der globale Administrator und der MPN-Administrator können den Bericht anzeigen.
 
-3. Wie kann ich sicherstellen, dass alle Benutzer mit ihren Microsoft-Learn-Konten mit ihrem Partner Center-Konto zuordnen?
+3. Wie kann ich sicherstellen, dass alle Benutzer Ihre Microsoft Learn Konten Ihrem Partner Center-Konto zuordnen?
 
-Nachdem der globale Administrator einen neuen Benutzer hinzugefügt wird, muss dieser Benutzer zu wechseln ihrer **Mein Profil** , ihre Microsoft Learn Konto zuzuordnen.
+Nachdem der globale Administrator einen neuen Benutzer hinzugefügt hat, muss der Benutzer sein eigenes **Profil** aufrufen, um das Microsoft Learn Konto zuzuordnen.
 
-- Wählen Sie die **Ihr Konto** Symbol in der rechten Ecke des Dashboards, und wählen Sie dann **Mein Profil**. 
+- Wählen Sie in der rechten Ecke des Dashboards das Symbol **Ihr Konto** aus, und wählen Sie dann **mein Profil**aus. 
 
--  Klicken Sie unter **lernen** ein Benutzers wird in der Lage, ordnen Sie ihre Microsoft Learning-Konto aus, und verbinden ihr Microsoft-Konto mit Partner University-Plattform.
+-  Ein Benutzer ist in **der** Lage, Ihr Microsoft Learning-Konto zuzuordnen und seine Microsoft-Konto mit der Partner Universität zu verbinden.
 
-3. Kann ich Benutzer des Unternehmens sehen, die mit einem MSA-Konto in diesem Bericht in Microsoft Learn anmelden?
+3. Kann ich alle Benutzer des Unternehmens sehen, die sich in diesem Bericht mit einem MSA-Konto bei Microsoft Learn anmelden?
 
-Derzeit ist die beste Möglichkeit hierzu diese Benutzer zu Ihrem Azure AD-Mandanten hinzufügen und zum Partner Center hinzufügen, damit sie über ihre Microsoft-Learn Konto zuordnen können **Mein Profil** im Partner Center. 
+Derzeit ist dies die beste Möglichkeit, diese Benutzer zu Ihrem Azure AD Mandanten hinzuzufügen und Sie dem Partner Center hinzuzufügen, damit Sie Ihr Microsoft Learn Konto über **mein Profil** in Partner Center verknüpfen können. 
 
-Für Benutzer, die ihre MSA-Konto nur für das Training in naher Zukunft verwenden können das Microsoft-Learn-Team die Möglichkeit, dass sie ihre geschäftlichen e-Mails auf ihr Microsoft-Learn-Profil zu verknüpfen. 
+Für Benutzer, die ihr MSA-Konto nur für das Training verwenden, ermöglicht das Microsoft Learn Team in naher Zukunft die Möglichkeit, Ihre geschäftliche e-Mail-Adresse Ihrem Microsoft Learn Profil zuzuordnen. 
 

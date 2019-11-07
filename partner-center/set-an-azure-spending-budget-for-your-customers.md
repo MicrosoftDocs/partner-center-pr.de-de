@@ -2,29 +2,31 @@
 title: Einrichten eines Kundenbudgets für Azure-Kosten | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
-description: In Partner Center können Sie für jeden Kunden ein monatliches Budget festlegen, sodass die Azure-Rechnung am Monatsende nicht zu einer Überraschung wird.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Im Partner Center können Sie ein monatliches Budget pro Kunde festlegen, sodass die Azure-Rechnung am Ende des Monats nicht überraschend ist.
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 116fdff7c2a1ca30027dfa29bda5376fa101b089
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 03901b4b17c744c0c91d732331842f6cb579bf88
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668648"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654067"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Einrichten eines Kundenbudgets für Azure-Kosten
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
 
-Um Kunden bei der Verwaltung der Azure-Kosten behilflich zu sein, können Sie ein monatliches Budget festlegen, damit die Azure-Rechnung nicht höher, als erwartet ist. Das Festlegen eines Kundenbudgets für Azure-Kosten ermöglicht Ihnen, die Azure-Kosten Ihres Kunden mit dem monatlichen Budget zu vergleichen. Diese Funktion bietet folgende Möglichkeiten: 
+Um Kunden bei der Verwaltung Ihrer Azure-Ausgaben zu unterstützen, können Sie ein monatliches Ausgabenbudget festlegen, sodass Ihre Azure-Rechnung nicht höher als erwartet ist. Das Festlegen eines Kundenbudgets für Azure-Kosten ermöglicht Ihnen, die Azure-Kosten Ihres Kunden mit dem monatlichen Budget zu vergleichen. Diese Funktion bietet folgende Möglichkeiten: 
 
 -   Benachrichtigung per E-Mail, wenn die Ausgaben des Kunden das Budgetlimit erreicht
--   Überprüfen der geschätzten Azure-Kosten des Kunden pro Monat
+-   Überprüfen der geschätzten Azure-Kosten für Ihre Kunden pro Monat
 -   Prüfen auf falsch konfigurierte Dienste oder ungewöhnliche Verwendungstrends, die auf Betrug hinweisen
 -   Ermitteln der Problemursache und Verwalten der Kosten zusammen mit dem Kunden
 -   Erhöhen Sie das Budget, wenn Sie und Ihr Kunde damit einverstanden sind.

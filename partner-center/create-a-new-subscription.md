@@ -2,22 +2,24 @@
 title: Erstellen, Aussetzen oder Stornieren von Kundenabonnements | Partner Center
 ms.topic: article
 ms.date: 08/16/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Nachdem Sie für Ihre Kunden einen Datensatz in Partner Center erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Abonnement, neu erstellen, Abonnement hinzufügen, aussetzen, kündigen, stornieren, Aussetzung
 ms.localizationpriority: medium
-ms.openlocfilehash: a79260cf2be62a5cd3d5a340f6c363ebe0200b76
-ms.sourcegitcommit: e84322e2cb6f3f559de93c98a16ab19531a2f95c
-ms.translationtype: HT
+ms.openlocfilehash: 764936d8025cd4aa18e1909a8da2b288c8381a37
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "69578787"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653596"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Aussetzen oder Stornieren von Kundenabonnements
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -35,9 +37,9 @@ Bitte beachten Sie, dass bestimmte Angebote auf ein Abonnement pro Kunde beschr�
 2. Wählen Sie **Abonnement hinzufügen**.
 
 3. Um nur bestimmte Arten von Abonnements anzuzeigen, treffen Sie eine Auswahl bei den verfügbaren Filter:
-   - **Publisher**: Wählen Sie **Microsoft** aus, um nur Angebote von Microsoft anzuzeigen, oder **Partner**, um Produkte von unabhängigen Softwareherstellern aus dem kommerziellen Marketplace anzuzeigen.
-   - **Abrechnungsart**: Wählen Sie den zu verwendenden Typ für die Abonnementabrechnung aus: **Lizenz** oder **Nutzung**. Unter [Häufig gestellte Fragen zu neuen Abrechnungsfunktionen](faq-about-new-billing-features.md) finden Sie Informationen, die Ihnen bei der Wahl zwischen monatlichem und jährlichem Abrechnungsintervall helfen.
-   - **Kategorie**: Wählen Sie **Unternehmen**, **Kleinunternehmen** oder **Testversion** aus. Informationen zu Testabonnements finden Sie unter [Testversionen von Microsoft-Produkten anbieten](offer-your-customers-trials-of-microsoft-products.md).
+   - **Herausgeber**: Wählen Sie **Microsoft** aus, um nur Angebote von Microsoft oder **Partnern** anzuzeigen, um kommerzielle Marketplace-Produkte anzuzeigen, die von ISVs veröffentlicht werden.
+   - **Abrechnungstyp**: Wählen Sie den Typ der Abonnement Abrechnung aus, den Sie verwenden möchten: **Lizenz** oder **Nutzung**. Unter [Häufig gestellte Fragen zu neuen Abrechnungsfunktionen](faq-about-new-billing-features.md) finden Sie Informationen, die Ihnen bei der Wahl zwischen monatlichem und jährlichem Abrechnungsintervall helfen.
+   - **Kategorie**: Wählen Sie **Enterprise**, **Small Business**oder **Testversion**aus. Informationen zu Testabonnements finden Sie unter [Testversionen von Microsoft-Produkten anbieten](offer-your-customers-trials-of-microsoft-products.md).
 
 4. Wählen Sie die Produkte aus, für die Sie Abonnements erwerben möchten. Beachten Sie, dass die angezeigten Produkte vom Typ des Kundensegments (Bildungseinrichtung, Behörde usw.) sowie den von Ihnen angewendeten Filtern abhängig sind. Wenn ein Produkt nicht verfügbar ist, hat der Kunde möglicherweise bereits ein Abonnement für dieses Produkt, und es ist nur eines zulässig. Oder Sie haben das Abonnement möglicherweise ausgesetzt. In diesem Fall können Sie es erneut aktivieren, anstatt ein neues zu erwerben.
 
@@ -60,7 +62,7 @@ Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Be
 
 1.  Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 2.  Wählen Sie das Abonnement aus, das Sie verwalten möchten.
-3.  Wählen Sie im Abschnitt **Status** den Eintrag **Ausgesetzt** aus. **Übermitteln** Sie Ihre Änderungen.
+3.  Wählen Sie im Abschnitt **Status** den Eintrag **Ausgesetzt** aus. **Übermitteln** Sie dann Ihre Änderungen.
 4.  Alle Daten werden gelöscht, solange das Abonnement nicht innerhalb von 90 Tagen oder 90 Tagen zuzüglich der Anzahl der Tage zwischen der Eröffnung des Kontos und dem ersten Abrechnungszeitraum (maximal 120 Tage) reaktiviert wird.
 
 Wenn Sie ein Abonnement aussetzen, gibt das Datum, das unterhalb der Schaltfläche **Ausgesetzt** angezeigt wird, an, wann das Abonnement automatisch ablaufen würde, wenn Sie es nicht erneut aktivieren. Weitere Informationen finden Sie unter [Häufig gestellte Fragen zu neuen Abrechnungsfunktionen](faq-about-new-billing-features.md).
@@ -76,7 +78,7 @@ Nach Ablauf dieses Zeitraums wird die Option zum Stornieren oder Kündigen des A
 
 1.  Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 2.  Wählen Sie das Abonnement aus, das Sie verwalten möchten.
-3.  Wählen Sie im Abschnitt **Status** den Befehl **Kündigen** aus. **Übermitteln** Sie Ihre Änderungen.
+3.  Wählen Sie im Abschnitt **Status** den Befehl **Kündigen** aus. **Übermitteln** Sie dann Ihre Änderungen.
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Auswählen, ob ein Abonnement des kommerziellen Marketplace automatisch verlängert werden soll
 
@@ -86,7 +88,7 @@ So verhindern Sie die automatische Verlängerung eines aktiven Abonnements des k
 
 1.  Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 2.  Wählen Sie das Abonnement aus, das Sie verwalten möchten.
-3.  Deaktivieren Sie im Abschnitt **Status** das Kontrollkästchen **Automatisch verlängern**. **Übermitteln** Sie Ihre Änderungen.
+3.  Deaktivieren Sie im Abschnitt **Status** das Kontrollkästchen **Automatisch verlängern**. **Übermitteln** Sie dann Ihre Änderungen.
 
 
  

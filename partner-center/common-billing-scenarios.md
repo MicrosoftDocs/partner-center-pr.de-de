@@ -2,28 +2,30 @@
 title: Allgemeine Abrechnungsszenarien | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: In diesem Thema wird erläutert, was auf Ihrer Rechnung nach dem Hinzufügen neuer Abonnements, dem Anpassen der Anzahl von Lizenzen für ein Abonnement oder dem Kündigen eines Abonnements angezeigt werden sollte. Die Auswirkungen fallen für nutzungsbasierte und lizenzbasierte Abonnements unterschiedlich aus.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Abrechnung, Zahlungen, Bestellungen, Nutzung, lizenzbasierte Abrechnung, Abonnementdatum, Laufzeit, Kündigung, Verlängerung, Kontenabstimmungsdatei, Abstimmungsdatei
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a619356577345923cd78499d2ae5a1f3c6c1614
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: a4a152719f20c82ff338e6f577ea83fa9eb5e4f6
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668715"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653665"
 ---
 # <a name="common-billing-scenarios"></a>Allgemeine Abrechnungsszenarien
 
-**Gilt für**
+**Zielgruppe**
 
 -   Programm für Cloud-Lösungsanbieter – Abrechnung
 
 In diesem Thema wird erläutert, was auf Ihrer Rechnung nach dem Hinzufügen neuer Abonnements, dem Anpassen der Anzahl von Lizenzen für ein Abonnement oder dem Kündigen eines Abonnements angezeigt werden sollte. Die Auswirkungen fallen für nutzungsbasierte und lizenzbasierte Abonnements unterschiedlich aus.
 
-## <a name="in-this-section"></a>Inhalt dieses Abschnitts
+## <a name="in-this-section"></a>In diesem Abschnitt
 
 -   [Nutzungsbasierte Abrechnung](#usagebased)
 
@@ -31,9 +33,9 @@ In diesem Thema wird erläutert, was auf Ihrer Rechnung nach dem Hinzufügen neu
 
 ## <a href="" id="usagebased"></a>Nutzungsbasierte Abrechnung
 
-Nutzungsbasierte Abonnements werden zum Abonnementdatum monatlich rückwirkend abgerechnet. Wenn beispielsweise das Abonnementdatum der 15. ist, werden Sie am 15. Januar für den Dienstzeitraum vom 15. Dezember bis zum 14. Januar belastet. Am 15. Februar werden Sie für den Dienstzeitraum 15. Januar bis zum 14. Februar erneut belastet usw. Die am Abonnementdatum generierten Gebühren werden in der dann folgenden Rechnung und Kontenabstimmungsdatei angezeigt.
+Nutzungsbasierte Abonnements werden zum Abonnementdatum monatlich rückwirkend abgerechnet. Wenn das Abonnement Jahrestag beispielsweise der 15. Januar ist, wird Ihnen der 15. Januar für den Dienst Zeitraum 15. Januar 14. Januar in Rechnung gestellt. Sie werden am 15. Februar für den Dienst Zeitraum, 15. Februar, 14. Februar usw. erneut in Rechnung gestellt. Die Gebühren, die für den Tag des Abonnements generiert werden, werden in der folgenden Rechnung und in der Abstimmungs Datei angezeigt.
 
-Gelegentlich werden Sie feststellen, dass einige Nutzungsgebühren auf Ihrer Rechnung fehlen oder dass die Nutzung aus einem vorhergehenden Monat in der Rechnung des laufenden Monats berechnet wird. Dies ist kein Fehler. Es bedeutet lediglich, dass der Dienst mit einem Zeitstempel versehen wurde, nachdem die Dienste erfolgt sind. Die innerhalb von 24 Stunden nach dem Ende des Abrechnungszyklus berichtete Nutzung wird dann in der Rechnung des nächsten Monats angezeigt. 
+Gelegentlich bemerken Sie, dass einige Nutzungsgebühren in Ihrer Rechnung fehlen, oder dass die Nutzung aus einem vorherigen Monat in der Rechnung des aktuellen Monats abgerechnet wird. Dies ist kein Fehler. Es bedeutet lediglich, dass der Dienst mit einem Zeitstempel versehen wurde, nachdem die Dienste erfolgt sind. Die innerhalb von 24 Stunden nach dem Ende des Abrechnungszeitraums gemeldete Nutzung wird auf der Rechnung des nächsten Monats angezeigt. 
 
 Nutzungsbasierte Abonnements können jederzeit ausgesetzt werden. 
 
@@ -43,25 +45,25 @@ Nutzungsgebühren basieren auf Preisen pro Tag. Wenn sich der Preis während des
 
 ## <a href="" id="licensebased"></a>Lizenzbasierte Abrechnung
 
-**Abrechnung:** Lizenzbasierte Abonnements werden zum Abonnementdatum im Voraus abgerechnet.
+**Abrechnung:** lizenzbasierte Abonnements werden im Voraus zum Dauerauftragsdatum abgerechnet.
 
-**Abonnementdatum:** Das Abonnementdatum ist der Tag des Monats, an dem Sie das Abonnement erworben haben. Wenn Sie das Abonnement beispielsweise am 15. Januar erworben haben, ist das Abonnementdatum der 15. jedes Monats.
+**Dauerauftragsdatum:** Das Dauerauftragsdatum ist der Tag des Monats, an dem Sie das Abonnement erworben haben. Wenn Sie das Abonnement beispielsweise am 15. Januar erworben haben, ist das Abonnementdatum der 15. jedes Monats.
 
-**Laufzeit:** Alle lizenzbasierten Abonnements haben eine kostenpflichtige 12-Monats-Laufzeit, die am Kaufdatum beginnt.
+**Laufzeit:** alle lizenzbasierten Abonnements haben einen kostenpflichtigen 12-Monats-Zahlungszeitraum, der am Kaufdatum beginnt.
 
-**Kündigung:** Abonnements, die im Monat 1 ausgesetzt wurden, werden zu 100 % gutgeschrieben. Wird das Abonnement in dem Monaten 2 – 12 ausgesetzt, wird ein anteiliger Betrag gutgeschrieben.
+**Kündigung:** Abonnements, die im ersten Monat angehalten werden, werden 100 % gutgeschrieben. Wird das Abonnement in dem Monaten 2 – 12 ausgesetzt, wird ein anteiliger Betrag gutgeschrieben.
 
-**Verlängerung:** Alle lizenzbasierten Abonnements werden 12 Monate nach der kostenpflichtigen Laufzeit automatisch verlängert.
+**Verlängerung:** alle lizenzbasierte Abonnements werden automatisch 12 Monate nach dem kostenpflichtigen Zahlungszeitraum erneuert.
 
 ## <a href="" id="licensebasedmonthly"></a>Monatliche Abrechnungsszenarien
 
-**Szenario 1: Neues Abonnement**
+**Szenario 1: neues Abonnement**
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine monatliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungspositionen:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührenart |Preis pro Einheit |Anzahl |Betrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-|13.01.2018         |12.02.2018    |Gebühr für Zyklus   |4,00       |1        |4,00    
+|13.01.2018         |12. Februar 2018    |Gebühr für Zyklus   |4,00       |1        |4,00    
 
 Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
@@ -69,56 +71,56 @@ Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechn
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13.02.2018         |12.03.2018    |Gebühr für Zyklus   |4,00       |1        |4,00    
 
-**Szenario 2: Änderung der Lizenzanzahl**
+**Szenario 2: Ändern der Lizenz Anzahl**
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine monatliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungspositionen:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührenart |Preis pro Einheit |Anzahl |Betrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-|13.01.2018         |12.02.2018    |Gebühr für Zyklus   |4,00       |1        |4,00    
+|13.01.2018         |12. Februar 2018    |Gebühr für Zyklus   |4,00       |1        |4,00    
 
 Am 1. Februar erhöhen Sie die Anzahl der Lizenzen von 1 auf 2. Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungspositionen:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührenart |Preis pro Einheit |Anzahl |Betrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-| 13.01.2018        |12.02.2018    |Anteiliger Zyklus für Instanz   |-4,00       |1        |-4,00    
+| 13.01.2018        |12. Februar 2018    |Anteiliger Zyklus für Instanz   |-4,00       |1        |-4,00    
 |13.01.2018         |31.01.2018    | Anteiliger Zyklus für Instanz   |2,45       |1        |2,45    
-|01.02.2018         |12.02.2018    | Anteiliger Zyklus für Instanz   |1,55       |2        |3,10    
+|01.02.2018         |12. Februar 2018    | Anteiliger Zyklus für Instanz   |1.55       |2        |3,10    
 |13.02.2018         |12.03.2018    | Anteiliger Zyklus für Instanz   |4,00       |2        |8,00    
 
 **Preisformel pro Einheit:**
 
-Die monatliche Gebühr liegt bei 4,00, und es gibt 31 Tage im Dienstzeitraum vom 13.01.2018 bis zum 12.02.2018. Dies entspricht einem Preis pro Tag von 0,129 (4/31).
+Der monatliche Preis ist 4,00, und der Dienst Zeitraum 1/13/2018-2/12/2018 beträgt 31 Tage. Dies entspricht einem Preis pro Tag von 0,129 (4/31).
 
-Es gibt 19 Tage im anteiligen Zeitraum vom 13.01.2018 bis zum 31.01.2018.
+Der Anteils Zeitraum 1/13/2018-1/31/2018 beträgt 19 Tage.
 
 Anteiliger Preis pro Einheit = 2,451 = 19 x 0,129
 
-Es gibt 12 Tage im anteiligen Zeitraum vom 01.02.2018 bis zum 12.02.2018.
+Der Anteils Zeitraum 2/1/2018-2/12/2018 beträgt 12 Tage.
 
 Anteiliger Preis pro Einheit = 1,54 = 12 x 0,129
 
-**Szenario: 3: Aussetzen eines Abonnements innerhalb von 30 Tagen**
+**Szenario 3: aussetzen vor 30 Tagen**
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine monatliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungspositionen:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührenart |Preis pro Einheit |Anzahl |Betrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-|13.01.2018         |12.02.2018    |Gebühr für Zyklus   |4,00       |1        |4,00    
+|13.01.2018         |12. Februar 2018    |Gebühr für Zyklus   |4,00       |1        |4,00    
 
 Am 1. Februar setzen Sie das Abonnement aus. Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührenart |Preis pro Einheit |Anzahl |Betrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13.01.2018|12.02.2018|Stornierungsgebühr|-4,00|1|-4,00
+13.01.2018|12. Februar 2018|Stornierungsgebühr|-4,00|1|-4,00
 
-**Szenario 4: Aussetzen eines Abonnements nach 30 Tagen**
+**Szenario 4: aussetzen nach 30 Tagen**
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine monatliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungspositionen:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührenart |Preis pro Einheit |Anzahl |Betrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13.01.2018|12.02.2018|Gebühr für Zyklus|4,00|1|4,00
+13.01.2018|12. Februar 2018|Gebühr für Zyklus|4,00|1|4,00
 
 Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
@@ -134,17 +136,17 @@ Am 1. März setzen Sie das Abonnement aus. Am 15. März enthält die lizenzbasie
 
 **Preisformel pro Einheit:**
 
-Die monatliche Gebühr liegt bei 4,00, und es gibt 28 Tage im Dienstzeitraum vom 13.02.2018 bis zum 12.03.2018. Dies entspricht einem Preis pro Tag von 0,143 (4/28).
+Der monatliche Preis ist 4,00, und es sind 28 Tage im Dienst Zeitraum 2/13/2018-3/12/2018 vorhanden. Dies entspricht einem Preis pro Tag von 0,143 (4/28).
 
 Preis pro Einheit = Tage im Dienstzeitraum x Preis pro Tag x Anzahl der Lizenzen.
 
-Es gibt 12 Tage im anteiligen Zeitraum vom 01.03.2018 bis zum 12.03.2018. 
+Der Abbruch Zeitraum 3/1/2018-3/12/2018 umfasst 12 Tage. 
 
 Deshalb beträgt der Preis pro Einheit = -1,716 (12 x 0,143 x (-1)).
 
 ## <a name="annual-billing-scenarios"></a>Jährliche Abrechnungsszenarien
 
-**Szenario 1: Neues Abonnement**
+**Szenario 1: neues Abonnement**
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine jährliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
@@ -152,11 +154,11 @@ Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein ne
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13.01.2018|12.01.2019|Anteilige Gebühren beim Kauf|48,00|1|48,00
 
-**Szenario 2: Hinzufügen einer Lizenz nach dem Abonnementdatum, aber vor dem Abrechnungsdatum**
+**Szenario 2: Hinzufügen der Lizenz nach Abonnement Jahrestag, aber vor dem Abrechnungsdatum**
 
 Sie erwerben am 11.02.2017 ein neues Abonnement mit einer Lizenz für 211,20 USD pro Jahr. Das Abonnementdatum ist der 11. in jedem Monat. Das Microsoft-Abrechnungssystem erstellt folgende Rechnungspositionen: 
 
--   211,20 USD Gebühr für den Zeitraum vom 11.02.2017 bis zum 10.02.2018. 
+-   $211,20 berechnen für den Zeitraum 2/11/17-2/10/18. 
 
 Am 12.02.2017 erwerben Sie eine zweite Lizenz. Ihr Abrechnungsdatum ist der 14.02.2017. Es werden eine Rechnung und eine Kontenabstimmungsdatei generiert. Die Kontenabstimmungsdatei enthält folgende Rechnungspositionen: 
 
@@ -165,10 +167,10 @@ Am 12.02.2017 erwerben Sie eine zweite Lizenz. Ihr Abrechnungsdatum ist der 14.0
 |11.02.2017 |10.02.2018 |Anteilige Gebühren beim Kauf |211,20 |1 | 211,20 |
 
 Zum Abonnementdatum 11.03.2017 generiert das Microsoft-Abrechnungssystem die folgenden Rechnungspositionen für die Lizenzerhöhung am 12.02.2017: 
--   Gutschrift über 211,20 USD für den Zeitraum vom 11.02.2017 bis zum 10.02.2918. 
--   0,58 USD anteilige Gebühr pro Lizenz für 1 Lizenz im Zeitraum vom 11.02.2017 bis zum 11.02.2017. 
--   15,62 USD anteilige Gebühr pro Lizenz für 2 Lizenzen im Zeitraum vom 12.02.2017 bis 10.03.2017. 
--   195,00 USD anteilige Gebühr pro Lizenz für 2 Lizenzen im Zeitraum vom 11.03.2017 bis zum 10.02.2018. 
+-   -$211,20-Gutschrift für den Zeitraum 2/11/17-2/10/18. 
+-   $0,58 anteilsmäßig abgerechnet pro Lizenz für eine Lizenz für den Zeitraum 2/11/17-2/11/17. 
+-   $15,62 anteilsmäßig abgerechnet pro Lizenz für 2 Lizenzen für den Zeitraum 2/12/17-3/10/2017. 
+-   $195,00 anteilsmäßig abgerechnet pro Lizenz für 2 Lizenzen für den Zeitraum 3/11/2017-2/10/2018. 
 
 Am 11.02.2017 erwerben Sie ein Abonnement. Am 12.02.2017 fügen Sie eine Lizenz hinzu. Ihr Abrechnungsdatum ist der 14.02.2017. Am 11.02.2018 wird Ihr Abonnement verlängert.
 
@@ -184,7 +186,7 @@ Am nächsten Abrechnungsdatum, dem 14.03.2017, werden eine Rechnung und eine Kon
 Am 11.02.2018 wird das Abonnement um weitere 12 Monate verlängert.
 
 
-**Szenario: 3: Änderung der Lizenzanzahl**
+**Szenario 3: Ändern der Lizenz Menge**
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine jährliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
@@ -206,15 +208,15 @@ Der jährliche Preis ist 48,00, was einem Preis pro Tag von 0,13 (48,00/365) ent
 
 Preis pro Einheit = Tage im Dienstzeitraum x Preis pro Tag x Anzahl der Lizenzen.
 
-Es gibt 19 Tage im Dienstzeitraum vom 13.01.2018 – 31.01.2018. 
+Der Dienst Zeitraum 1/13/2018-1/31/2018 beträgt 19 Tage. 
 
 Der Preis pro Einheit beträgt also = 2,47 (19 x 0,13 x 1)
 
-Es gibt 346 Tage im Dienstzeitraum vom 01.02.2018 – 12.01.2019. 
+Der Dienst Zeitraum 2/1/2018-1/12/2019 beträgt 346 Tage. 
 
 Der Preis pro Einheit beträgt also 44,98 (346 x 0,13 x 2).
 
-**Szenario 4: Aussetzen eines Abonnements innerhalb von 30 Tagen**
+**Szenario 4: aussetzen vor 30 Tagen**
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine jährliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
@@ -228,7 +230,7 @@ Am 1. Februar setzen Sie Ihr Abonnement aus. Am 15. Februar enthält die lizenzb
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13.01.2018|12.01.2019|Stornierungsgebühr|-48,00|1|-48,00
 
-**Szenario 5: Aussetzen eines Abonnements nach 30 Tagen**
+**Szenario 5: aussetzen nach 30 Tagen**
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine jährliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
@@ -249,11 +251,11 @@ Der jährliche Preis ist 48,00, was einem Preis pro Tag von 0,13 (48,00/365) ent
 
 Preis pro Einheit = Tage im Dienstzeitraum x Preis pro Tag x Anzahl der Lizenzen.
 
-Es gibt 318 Tage im Dienstzeitraum vom 01.03.2018 bis zum 12.01.2019. 
+Der Dienst Zeitraum 3/1/2018-1/12/2019 beträgt 318 Tage. 
 
 Der Preis pro Einheit beträgt also = 41,34 (318 x 0,13 x 1). Da dies eine Gutschrift ist, beträgt der Preis pro Einheit -41,34.
 
-**Szenario 6: Aussetzen und erneutes Aktivieren eines Abonnements**
+**Szenario 6: aussetzen und erneutes Aktivieren**
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine jährliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
@@ -279,6 +281,6 @@ Der jährliche Preis ist 48,00, was einem Preis pro Tag von 0,13 (48,00/365) ent
 
 Preis pro Einheit = Tage im Dienstzeitraum x Preis pro Tag x Anzahl der Lizenzen.
 
-Es gibt 318 Tage im Dienstzeitraum vom 01.03.2018 bis zum 12.01.2019. 
+Der Dienst Zeitraum 3/1/2018-1/12/2019 beträgt 318 Tage. 
 
 Der Preis pro Einheit beträgt also = 41,34 (318 x 0,13 x 1).

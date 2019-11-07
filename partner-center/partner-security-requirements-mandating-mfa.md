@@ -2,17 +2,19 @@
 title: Überprüfen der MFA für Ihren Partner Mandanten | Partner Center
 ms.topic: article
 ms.date: 09/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Details zur MFA für Ihre Partner Mandanten-Sicherheitsanforderungen
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f68d4628bd6212b800ea926c6c3b9f412e3d5cc
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: f9319fc50c722df0e87f729444bb23654b75e910
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997790"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652518"
 ---
 # <a name="mandating-mfa-for-your-partner-tenant"></a>MFA für Ihren Partner Mandanten
 
@@ -36,7 +38,7 @@ Diese Funktion soll Partnern helfen, Ihren Zugriff auf Kunden Ressourcen vor Kom
 Bestimmte Seiten im Partner Center-Dashboard werden MFA-geschützt, einschließlich:
 
 * Alle Seiten auf der Registerkarte **Customers** .
-* Alle Seiten auf der Registerkarte " **Support → Kundenanforderungen** ".
+* Alle Seiten auf der Registerkarte " **Support > Kundenanforderungen** ".
 
 Wenn Sie versuchen, auf eine dieser Seiten zuzugreifen, und Sie die MFA-Überprüfung noch nicht abgeschlossen haben, müssen Sie dies tun.
 
@@ -122,7 +124,7 @@ Wenn Azure Active Directory solche Authentifizierungsanforderungen empfängt, mu
 
 - Wenn es sich bei dem Partnerkonto um eine Verbund Identität handelt, ist die Vorgehensweise davon abhängig, wie der Partner Administrator den **Verbund** in Azure Active Directory konfiguriert hat. Beim Einrichten eines Verbunds in Azure Active Directory kann der Partner Administrator Azure Active Directory, ob der Verbund Identitäts Anbieter MFA unterstützt. Wenn dies der Fall ist, leitet Azure Active Directory den Benutzer an den Verbund Identitäts Anbieter weiter, um die MFA-Überprüfung abzuschließen. Andernfalls wird der Benutzer von Azure Active Directory direkt aufgefordert, die MFA-Überprüfung abzuschließen. Wenn das Partnerkonto noch nicht für die mAzure Active Directory FA registriert ist, wird der Benutzer zuerst aufgefordert, die [MFA-Registrierung abzuschließen](#mfa-registration-experience) .
 
-Die gesamte Benutzerfreundlichkeit ähnelt dem Szenario, in dem ein Endkunden Mandant MFA für seine Administratoren implementiert hat. Beispielsweise hat der Kunden Mandant [Azure AD Baseline-Richtlinie – MFA für Administratoren](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)aktiviert, für die alle Konten mit Administratorrechten zum Anmelden beim Kunden Mandanten mit MFA-Überprüfung erforderlich sind, einschließlich Administrator-Agents und Helpdesk-Agents. Zu Testzwecken können Partner die [Richtlinie MFA für Administratoren](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) im Kunden Mandanten aktivieren und dann versuchen, Delegierte Administratorrechte für den Zugriff auf den Kunden Mandanten zu verwenden.
+Die gesamte Benutzerfreundlichkeit ähnelt dem Szenario, in dem ein Endkunden Mandant MFA für seine Administratoren implementiert hat. Beispielsweise hat der Kunden Mandant [Azure AD Baseline-Richtlinie aktiviert: MFA für Administratoren](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators), bei der alle Konten mit Administratorrechten bei der MFA-Überprüfung, einschließlich Administrator-Agents und helpdeskagents, beim Kunden Mandanten angemeldet werden müssen. Zu Testzwecken können Partner die [Richtlinie MFA für Administratoren](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) im Kunden Mandanten aktivieren und dann versuchen, Delegierte Administratorrechte für den Zugriff auf den Kunden Mandanten zu verwenden.
 
 > [!NOTE]
 > Nicht alle Microsoft Online Service-Portale erfordern, dass sich Partnerkonten beim Kunden Mandanten beim Zugriff auf Kunden Ressourcen mit Delegierten Administratorrechten für Partner anmelden. Stattdessen müssen sich nur die Partnerkonten beim Partner Mandanten anmelden. Ein Beispiel hierfür ist das Exchange Admin Center. Im Laufe der Zeit erwarten wir, dass diese Portale Partnerkonten benötigen, um sich beim Kunden Mandanten anzumelden, wenn Partner delegierte Administratorrechte verwenden.
@@ -136,7 +138,7 @@ Alle Partneranwendungen, die in diese APIs mit Delegierten Administratorrechten 
 
 - Der Partner muss die Verwendung einer nicht interaktiven Benutzer Authentifizierungsmethode mit Azure AD vermeiden, um das Zugriffs Token abzurufen. Bei Verwendung einer nicht interaktiven Benutzer Authentifizierungsmethode, wie z. b. des Kenn [Wort Flusses](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password), kann Azure AD den Benutzer nicht auffordern, die MFA-Überprüfung abzuschließen. Der Partner muss stattdessen zur Verwendung interaktiver Benutzer Authentifizierungsmethoden wie [OpenID Connect Flow](https://docs.microsoft.com/azure/active-directory/develop/v1-protocols-openid-connect-code) wechseln.
 - Während der interaktiven Benutzer Authentifizierungsmethode sollte der Partner ein Partner Benutzerkonto verwenden, das bereits für MFA aktiviert ist. Wenn Sie von Azure AD aufgefordert werden, können Partner die MFA-Registrierung und die MFA-Überprüfung während der Anmeldung abschließen.
-- Dies ähnelt dem Szenario, in dem ein Endkunden Mandant MFA für seine Administratoren implementiert hat. Beispielsweise hat der Kunden Mandant [Azure AD Baselineversion – MFA für Administratoren](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)aktiviert, die erfordert, dass sich alle Benutzerkonten mit Administratorrechten bei der MFA-Überprüfung bei dem Kunden Mandanten anmelden, einschließlich Administrator-Agents und helpdeskagents. Zu Testzwecken können Partner die [Richtlinie für die MFA für Administratoren](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) im Kunden Mandanten aktivieren und dann versuchen, die delegierten Administratorrechte für Partner für den programmgesteuerten Zugriff auf den Kunden Mandanten zu verwenden.
+- Dies ähnelt dem Szenario, in dem ein Endkunden Mandant MFA für seine Administratoren implementiert hat. Beispielsweise hat der Kunden Mandant [Azure AD Basis Richtlinien-MFA für Administratoren](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)aktiviert, bei der alle Benutzerkonten mit Administratorrechten bei der MFA-Überprüfung, einschließlich Administrator-Agents und helpdeskagents, beim Kunden Mandanten angemeldet werden müssen. Zu Testzwecken können Partner die [Richtlinie für die MFA für Administratoren](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) im Kunden Mandanten aktivieren und dann versuchen, die delegierten Administratorrechte für Partner für den programmgesteuerten Zugriff auf den Kunden Mandanten zu verwenden.
 
 ### <a name="mfa-registration-experience"></a>MFA-Registrierung
 Wenn das Partnerkonto bei der MFA-Überprüfung noch nicht für MFA registriert ist, fordert Azure AD den Benutzer auf, zuerst die MFA-Registrierung abzuschließen:
@@ -212,7 +214,7 @@ Ein Partner hat MFA für Ihre Benutzer mithilfe einer MFA-Lösung eines Drittanb
 So senden Sie eine technische Ausnahme Anforderung:
 
 1. Melden Sie sich bei Partner Center als globaler Administrator oder Administrator-Agent an.
-2. Erstellen Sie einen neuen Partner Service Request, indem Sie zur **Unterstützung** → **Partner Supportanfragen** navigieren und auf **neue Anforderung**klicken.
+2. Erstellen Sie einen neuen Partner Service Request, indem Sie zur **Unterstützung** > **Partner Supportanfragen** navigieren und auf **neue Anforderung**klicken.
 4. Im Thema **MFA und sicheres Anwendungsmodell** sendet Gül **eine technische Ausnahme** als Problemtyp.
 6. Geben Sie die zum Senden einer Service Request erforderlichen Details an, und klicken Sie auf **senden**.
 

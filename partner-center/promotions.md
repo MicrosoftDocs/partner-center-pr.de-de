@@ -2,16 +2,18 @@
 title: Verwenden von Werbeaktionen zum Gewinnen neuer Kunden | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Als Microsoft-Partner im Cloud-Lösungsanbieter-Programm können Sie Abonnements zu Aktionspreisen erwerben und die Einsparungen an die Kunden weitergeben.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: eb925008e19a1512cfb43b340d4ecfa6c16f0e0d
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: c63283038a4bc8eb7738567f6316df37911d3361
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668764"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652146"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>Verwenden von Werbeaktionen zum Gewinnen neuer Kunden  
 
@@ -19,7 +21,7 @@ ms.locfileid: "64668764"
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
-Microsoft bietet gelegentlich Werbeaktionen für lizenzbasierte Abonnements an, deren Einsparungen Sie an die Kunden weitergeben können. 
+Microsoft bietet gelegentlich Werbeaktionen für lizenzbasierte Abonnements an, deren Einsparungen Sie an die Kunden weitergeben können, um Ihr Geschäft zu erweitern. 
 
 Microsoft bietet zwei Arten von Werbeaktionen: die, die für alle berechtigten Partner im Cloud-Lösungsanbieter-Programm zur Verfügung stehen, und die, die nur für Partner in einer bestimmten geografischen Region zur Verfügung stehen.
 
@@ -27,7 +29,7 @@ Aktionspreise werden automatisch auf Ihren Nettopreis angewendet, wenn Sie neue 
 
 Nehmen Sie sich einen Moment Zeit, diese wichtigen Fakten zu Werbeaktionen zu überprüfen:
 
--   Ein reduzierter Preis eines Abonnements gilt nur für die Dauer des Abonnements. Wenn ein reduziertes Abonnement abläuft, wird der Preis des verlängerten Abonnements wieder auf den Preis in der Preisliste zurückgesetzt. Dies bedeutet, dass alle Abonnements, für die die automatische Verlängerung eingerichtet ist, zum geltenden Preis verlängert werden. Die Preisliste finden Sie auf der Seite **Preise und Angebote**. 
+-   Der promotionpreis eines Abonnements gilt nur für die Dauer des Abonnements. Wenn ein Abonnement abläuft, das Sie mit dem Aktionspreis erworben haben, wird der Preis des Erneuerungs Abonnements auf den Preis in der Preisliste zurückgesetzt. Dies bedeutet, dass alle Abonnements, für die die automatische Verlängerung eingerichtet ist, zum geltenden Preis verlängert werden. Die Preisliste finden Sie auf der Seite **Preise und Angebote**. 
 
 -   Wenn ein Abonnement für mehrere Aktionen berechtigt ist, wird automatisch die Aktion mit dem höchsten Prozentsatz angewendet.
 
@@ -35,14 +37,14 @@ Nehmen Sie sich einen Moment Zeit, diese wichtigen Fakten zu Werbeaktionen zu ü
 
 ## <a name="see-available-promotions"></a>Verfügbare Werbeaktionen anzeigen
 
-Sie können auf der Seite **Werbeaktionen** sehen, auf welche Aktionen Sie ggf. Anspruch haben. Wählen Sie **Werbeaktionen** im Menü **Partner Center** aus, um eine Liste der aktuellen Werbeaktionen zusammen mit dem Rabatt, dem Angebotstyp und dem Start- und Enddatum für das Abonnement anzuzeigen. Wenn keine Aktionen verfügbar sind, sehen Sie eine Nachricht, die dieses anzeigt. 
+Sie können auf Ihrer **Promotionseite** sehen, wofür Sie ggf. berechtigt sind. Wählen Sie **Werbeaktionen** im Menü **Partner Center** aus, um eine Liste der aktuellen Werbeaktionen zusammen mit dem Rabatt, dem Angebotstyp und dem Start- und Enddatum für das Abonnement anzuzeigen. Wenn keine Aktionen verfügbar sind, sehen Sie eine Nachricht, die dieses anzeigt. 
 
 > [!NOTE]  
 > Sie können Werbeaktionen beim Einkaufen anzeigen. Wenn Sie ein Abonnement auswählen, wird der Rabattprozentsatz auf der Seite **Überprüfung** angezeigt.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Abonnements zu reduzierten Preisen kaufen
 
-1. Wählen Sie im Menü **Partner Center** die Option **Kunden** und anschließend den Kunden aus, der das Abonnement kauft. 
+1. Wählen Sie im **Partner Center** -Menü **Kunden** aus, und wählen Sie dann den Kunden aus, der das Abonnement kauft. 
 
 2. Wählen Sie **Abonnement hinzufügen**.
 

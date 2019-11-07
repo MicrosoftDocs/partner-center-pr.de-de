@@ -2,17 +2,19 @@
 title: Umsatzsteigerung für Microsoft-Partner | Partner Center
 ms.topic: article
 ms.date: 05/23/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Ressourcen zur Steigerung des Umsatzes für Microsoft-Partner. Enthält eine Anleitung zum Erhalten von Vertriebsleads (Empfehlungen) von Microsoft.
 keywords: Empfehlungen, auf Empfehlungen reagieren, Leads, Vertriebsleads, Marketingprofil, Geschäftsprofil, Umsatz steigern, Geschäftschancen, Kompetenzen, Silver-Mitgliedschaft, Gold-Mitgliedschaft, Testangebote, Markterweiterung, nationale Clouds
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dc55055229dfc7cf52a50dba776e6234d481d5da
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: b9447ec8b03e92e85ea332e5dac3f9d79d8be0fc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958730"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653049"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>Umsatzsteigerung für Microsoft-Partner 
 

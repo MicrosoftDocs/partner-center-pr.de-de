@@ -1,20 +1,22 @@
 ---
-title: Zurücksetzen eines Benutzerkennworts oder zum Aktualisieren Ihres eigenen Kennworts | Partner Center
+title: Zurücksetzen eines Benutzer Kennworts oder Aktualisieren Ihres eigenen Kennworts | Partner Center
 ms.topic: article
 ms.date: 06/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Wenn Benutzer ihr Kennwort vergessen, können Sie ihnen ein neues temporäres Kennwort zuweisen. Sie können es für die nächste Anmeldung beim Partner Center verwenden.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 83d7417dcd71323822d066faca6c193ca5ef2e58
-ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
-ms.translationtype: HT
+ms.openlocfilehash: a74f89b023f72c867667902d4765f22287bb1546
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "67145340"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654099"
 ---
-# <a name="reset-a-user-password-or-update-your-own-password"></a>Zurücksetzen eines Benutzerkennworts oder zum Aktualisieren Ihres eigenen Kennworts
+# <a name="reset-a-user-password-or-update-your-own-password"></a>Zurücksetzen eines Benutzer Kennworts oder Aktualisieren Ihres eigenen Kennworts
 
 **Zielgruppe**
 
@@ -32,7 +34,7 @@ Wenn Benutzer ihr Kennwort vergessen, weisen Sie ihnen ein neues temporäres Ken
 
 3.  Wählen Sie unten auf der Seite **Kennwort zurücksetzen** aus.
 
-4.  Es wird ein Bestätigungsbildschirm mit einem temporären Kennwort für den neuen Anmeldenamen angezeigt. Sie müssen das Kennwort kopieren und an den neuen Benutzer senden. Nach Verlassen des Bildschirms ist es nicht mehr verfügbar. Wenn der Benutzer sich zum ersten Mal anmeldet, wird er zum Aktualisieren des Kennworts aufgefordert.
+4.  Es wird ein Bestätigungsbildschirm mit einem temporären Kennwort für den neuen Anmeldenamen angezeigt. Sie müssen diese kopieren und an den neuen Benutzer senden. der Zugriff ist nicht möglich, nachdem Sie den Bildschirm verlassen haben. Wenn der Benutzer sich zum ersten Mal anmeldet, wird er zum Aktualisieren des Kennworts aufgefordert.
 
 **Zurücksetzen des eigenen Kennworts**
 

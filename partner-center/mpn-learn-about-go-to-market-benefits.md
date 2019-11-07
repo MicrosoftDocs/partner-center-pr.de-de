@@ -2,17 +2,19 @@
 title: Erfahren Sie mehr über Ihre Microsoft Partner Network Markt Einführungs Vorteile | Partner Center
 ms.topic: article
 ms.date: 10/31/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Als Microsoft Partner Network Mitglied haben Sie möglicherweise Anspruch auf bestimmte Vorteile bei der Markteinführung. Erfahren Sie mehr über die verschiedenen verfügbaren Markt Einführungs Ebenen, und wie Sie diese in Partner Center aktivieren und verwalten können.
 author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, Mitgliedschafts Vorteile, Mitgliedschaft, Markt Einführungs Vorteile, Markt Einführungs Einführung, zu Markt, GTM, Goldmitgliedschaft, Silver-Mitgliedschaft
 ms.localizationpriority: medium
-ms.openlocfilehash: 2fc160c0f98b13c8f3576e518dfdb625162beeb1
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: e1a71bc69982e4ff86b8442fc1dd3ec20fc486ea
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413589"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653256"
 ---
 # <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>Untersuchen Sie Ihre MPN-Vorteile für die Markt Einführungs Mitgliedschaft (GTM).
 
@@ -41,7 +43,7 @@ Die GTM-Vorteile unterscheiden sich abhängig von Ihrem spezifischen MPN-Mitglie
 Alle MPN-Mitglieder haben Zugriff auf bestimmte standardmäßige GTM-Vorteile. Hierzu gehören der Zugriff auf gebrauchsfertige Marketingressourcen, eine Vertriebsplattform und ein Bedarfs gesteuertes digitales Marketing. Es gibt möglicherweise noch mehr GTM-Vorteile für Partner, die Silber-oder Gold-Kompetenzen erreichen.
 
 >[!NOTE]
->Die GTM-Vorteile unterliegen Ergänzungen und Änderungen. Wechseln Sie zur Microsoft Partner Network [Seite "Go-to-Market](https://partner.microsoft.com/en-us/membership/go-to-market) ", um mehr über die neuesten GTM-Vorteile zu erfahren, die nach Kompetenz Grad verfügbar sind.
+>Die GTM-Vorteile unterliegen Ergänzungen und Änderungen. Wechseln Sie zur Microsoft Partner Network [Seite "Go-to-Market](https://partner.microsoft.com/membership/go-to-market) ", um mehr über die neuesten GTM-Vorteile zu erfahren, die nach Kompetenz Grad verfügbar sind.
 
 Zusätzliche GTM-Vorteile, die für diese mit dem **Silver** -Kompetenzniveau verfügbar sind:
 
@@ -63,7 +65,7 @@ Zusätzliche GTM-Vorteile, die für diese mit dem **Gold** -Kompetenzniveau verf
 
 Um Ihre GTM-Vorteile anzuzeigen:
 
-1. Melden Sie sich beim Partner Center- [Dashboard]( https://docs.microsoft.com/en-us/partner-center/)an.
+1. Melden Sie sich beim Partner Center- [Dashboard]( https://docs.microsoft.com/partner-center/)an.
 
 2. Wählen Sie im Menü auf der linken Seite **MPN**aus. Führen Sie dann einen der folgenden Schritte aus:
 

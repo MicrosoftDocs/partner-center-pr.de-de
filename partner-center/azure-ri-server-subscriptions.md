@@ -2,23 +2,25 @@
 title: Azure Reserved VM Instances (RI) + Server-Abonnements für Azure | Partner Center
 ms.topic: article
 ms.date: 7/30/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Durch das Hinzufügen von Azure RI und Server-Abonnements in das CSP-Programm, unterstützen wir unsere Partner mit der schnell wachsenden Kundennachfrage für kostengünstigere Lösungen zur Unterstützung von verlässlichen, permanenten Cloud-Workloads. Mit dem CSP-Programm können Partner Azure RI und Server-Abonnements für kommerzielle Kunden über das Microsoft-Partner Center und das Azure-Portal bereitstellen und verwalten.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, Abonnements, VM, Reservierung, reservierte Instanz
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ec13a664ecc29ec2e9ac28fa21671ea45d09cdd
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: e745a52e1f80164ae13d1d4b0fe058775b1074b3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820330"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653798"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
 # <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Azure Reserved VM Instances (RI) + Server-Abonnements für Azure
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
  
@@ -35,11 +37,11 @@ Wenn Kunden über virtuelle Computer, Azure Cosmos DB oder SQL-Datenbanken verf�
 
 Durch das Hinzufügen von Azure Reservations und Server-Abonnements in das CSP-Programm, unterstützt Microsoft unsere Partner mit der schnell wachsenden Kundennachfrage für kostengünstigere Lösungen zur Unterstützung von verlässlichen, permanenten Cloud-Workloads. Mit dem CSP-Programm können Partner Azure Reservations und Server-Abonnements für kommerzielle Kunden über das Microsoft-Partner Center und das Azure-Portal bereitstellen und verwalten. Azure Reservations bieten Kunden die Flexibilität der Virtualisierung für eine Vielzahl von Computing-Lösungen, einschließlich der Entwicklung und dem Ausführen von Testanwendungen und dem erweitern des Rechenzentrums. 
 
-Mit [Azure Reserved VM Instances](https://azure.microsoft.com/pricing/reserved-vm-instances/) können Geschäftskunden z. B. bis zu 72 % im Vergleich zum nutzungsbasierten Zahlungsmodell für Azur VM sparen, indem sie die virtuelle Maschine für einen 1 – oder 3-Jahres-Zeitraum einkaufen oder reservieren. Windows Server-Kunden mit Azure-Hybridvorteil und Software Assurance können bis zu 80 % im Vergleich zu nutzungsbasierten Preisen sparen. 
+Beispielsweise können gewerbliche Kunden jetzt bis zu 72% im Vergleich zu Preisen für Azure-VMS [Azure reserved VM Instances](https://azure.microsoft.com/pricing/reserved-vm-instances/) mit Nutzungs basierter Bezahlung sparen, indem Sie den virtuellen Computer für einen Zeitraum von 1 bis 3 Jahren erwerben oder "Reservieren". Windows Server-Kunden mit Azure-Hybridvorteil und Software Assurance können bis zu 80 % im Vergleich zu nutzungsbasierten Preisen sparen. 
 
 Mit einer unglaublichen Kombination aus einem überzeugenden Preis und beispielloser Bereitstellungsflexibilität erhalten Kunden den besten Gesamtwert, wenn sie Azure Reservations zusammen mit Server-Abonnements auswählen.
 
-#### <a name="azure-reservations"></a>Azure-Reservierungen
+#### <a name="azure-reservations"></a>Azure Reservations
 -   Azure Reserved VM Instances
 -   SQL-DB-Reservierungen
 -   SQL-verwaltete Instanz
@@ -97,7 +99,7 @@ Im Folgenden finden Sie eine umfassende Liste der Ressourcen, die Ihnen helfen, 
 - [Übersicht über Azure-Preise](https://azure.microsoft.com/pricing/)
 - [Preisrechner für Azure](https://azure.microsoft.com/pricing/calculator)
 - [Azure Databricks Einheiten Reservierungen](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
-- CSP-Preislisten:  Die Preislisten für **Microsoft Azure reservierte Instanzen** und **Software Abonnements** befinden sich beide auf der Seite Partner Center-Preis [& Angebote](https://partner.microsoft.com/pcv/sales) .
+- CSP-Preislisten: die Preislisten für **Microsoft Azure reservierten Instanzen** und **Software Abonnements** befinden sich beide auf der Seite Partner Center-Preis [& Angebote](https://partner.microsoft.com/pcv/sales) .
 
 
 **Training**
@@ -110,7 +112,7 @@ Im Folgenden finden Sie eine umfassende Liste der Ressourcen, die Ihnen helfen, 
 
 **Betrieb**
 
-- [Handbuch zum modernen Geschäftsbetrieb](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (aktualisiert):  Ein umfassendes Handbuch mit Richtlinien und betrieblichen Aspekten wie Verträge, Bestellungen über das Partner Center, Rechnungen, Preislisten-Details, Incentives, Erstattungsdatei, API-SDK, Sandbox und Azure Partner Shared Services.
+- [Betriebshandbuch für den modernen Handel](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (aktualisiert): ein umfassendes Handbuch, das wichtige Richtlinien und betriebliche Aspekte behandelt, wie z. b. Verträge, die Bestellung über Partner Center, Rechnungen, Preislisten Details, Anreize, Abstimmungs Dateien, API/SDK, Sandbox und Gemeinsame Dienste von Azure-Partnern.
 - [Länderverfügbarkeit für moderne Angebote und Kundenwährungsmatrix](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Verkaufen von Microsoft Azure Reserved Instances](https://go.microsoft.com/fwlink/?linkid=872806)
 - [Erwerben von Microsoft Azure Reservations im Auftrag Ihrer Kunden](https://go.microsoft.com/fwlink/?linkid=872807)
@@ -118,7 +120,7 @@ Im Folgenden finden Sie eine umfassende Liste der Ressourcen, die Ihnen helfen, 
 - [Abrechnung für Azure Reservations](https://go.microsoft.com/fwlink/?linkid=872809)
 - [VM-Größe für die maximale Reservierungsnutzung](https://go.microsoft.com/fwlink/?linkid=872810)
 - [Partner Center API (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
-- [Remotedesktopdienste](https://docs.microsoft.com/windows-server/remote/remote-desktop-services/welcome-to-rds)
+- [Remotedesktopdienste (RDS)](https://docs.microsoft.com/windows-server/remote/remote-desktop-services/welcome-to-rds)
 
 ## <a name="azure-hybrid-benefit"></a>Azure-Hybridvorteil
 

@@ -2,22 +2,24 @@
 title: Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Wenn Ihr Kunde mehr Lizenzen benötigt, als das aktuelle Abonnement zur Verfügung stellt, oder wenn er eine andere Version mit zusätzlichen Services benötigt, können Sie ein Upgrade für das Abonnement vornehmen.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Hinzufügen von Lizenzen zu einem vorhandenen Abonnement, Plätze zu einem vorhandenen Abonnement hinzufügen, Abonnement andern, Ändern eines Abonnements, Weitere Lizenzen für einen Kunden erwerben
 ms.localizationpriority: medium
-ms.openlocfilehash: 0f8ec69595c81a60c26153640274b6b29b1f9fc1
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: 9998393608733fa1a69390873908a76e0500c118
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668183"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654369"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 
@@ -80,11 +82,11 @@ Upgrades von Abonnements können erfolgen, wenn die folgenden Bedingungen zutref
 
 -   Sie müssen delegierte Administratorrechte für diesen Kunden und den Dienst besitzen. Hier erfahren Sie, wie Sie [delegierte Administratorrechte anfordern](request-a-relationship-with-a-customer.md).
 
--   Der Kunde kann nicht bereits über Abonnements verfügen, die zusätzliche Dienste enthalten.
+-   Der Kunde kann nicht bereits über Abonnements verfügen, die die zusätzlichen Dienste enthalten.
 
--   Der Kunde kann nicht bereits über die Abonnements verfügen, auf die sie aktualisieren möchten.
+-   Der Kunde kann nicht bereits über die Abonnements verfügen, auf die Sie ein Upgrade durchführen möchten.
 
-Es ist in den letzten beiden Fällen möglich, dass der Kunde diese Abonnements oder Dienste von einem anderen Partner oder über einem anderen Kanal erworben hat. Es ist dann nicht möglich, dass er sie von Ihnen kauft, es sei denn, sie kündigen zuerst die vorhandenen Abonnements. Weitere Informationen finden Sie unter [Multichannel](multichannel.md).
+In den letzten beiden Fällen ist es möglich, dass der Kunde diese Abonnements oder Dienste von einem anderen Partner oder einem anderen Kanal gekauft hat, und er kann Sie nicht von Ihnen kaufen, es sei denn, Sie kündigen zuerst die vorhandenen Abonnements an. Weitere Informationen finden Sie unter [Multichannel](multichannel.md).
 
 Weitere Informationen über die Auswirkung auf die Abrechnung finden Sie unter den Details zur Kündigung eines Abonnements oder dem Hinzufügen eines neuen Abonnements in [Allgemeine Abrechnungsszenarien](common-billing-scenarios.md).
 

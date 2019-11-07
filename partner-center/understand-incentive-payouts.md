@@ -2,16 +2,18 @@
 title: Anzeigen der Informationen zu Ihren Incentive-Zahlungen | Partner Center
 ms.topic: article
 ms.date: 06/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 description: Zeigen Sie die Einnahmen und Auszahlungen für Incentives-Programm an.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a4d69fbe4f4618ebad1f8641f8d07e6563f28fd
-ms.sourcegitcommit: e73d8a1d74ed4ea87a5330b00fe119222bc2c3da
+ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "71093065"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653998"
 ---
 # <a name="view-your-incentives-payments-information"></a>Anzeigen der Informationen zu den Incentive-Zahlungen
 
@@ -33,7 +35,7 @@ So öffnen Sie eine der Seite "Incentives":
 ## <a name="payments-page"></a>Seite "Zahlungen"
 Die Summen auf dieser Seite stellen alle von Ihnen verwendeten MPN-IDs dar. Sie können nach Teilnehmer-ID, Programm, Zahlungs-ID und Erstellungs Typ filtern. Beträge werden in US-Dollar angegeben. Der kostenpflichtige Wert wird auch Unterzahlung in Währung angezeigt. 
 
-|**Feld**   |**Beschreibung**    |
+|**Gebiet**   |**Beschreibung**    |
 |------------------|:-------------------------------------|
 |Summe bezahlt in diesem Jahr        |Die kombinierte Summe, die Sie in diesem Jahr in US-Dollar für alle Ihre MPN-IDs bezahlt haben.                                      |
 |Nächste geschätzte Zahlung      |Die nächste nächste Zahlung an Sie (auch wenn andere in Kürze verfügbar sind) in US-Dollar.                                     |
@@ -44,7 +46,7 @@ Die Summen auf dieser Seite stellen alle von Ihnen verwendeten MPN-IDs dar. Sie 
 Wählen Sie zum Exportieren der Daten auf dieser Seite **exportieren** aus, und befolgen Sie dann die Anweisungen auf der Seite Daten exportieren. 
 
 ## <a name="transaction-history-page"></a>Seite "Transaktionsverlauf"
-Auf dieser Seite werden alle individuellen Einnahmen angezeigt, einschließlich des Datums, des Typs und des Erwerbs für jede. Sie können einen Zeitraum auswählen, der angezeigt werden soll. Außerdem können Sie nach Registrierungs-ID, Programm, Zahlungs-ID, erzahltyp, Hebel und Status filtern. Daten sind für das aktuelle Geschäftsjahr (1. Juli – 30. Juni) und die letzten beiden Geschäftsjahre verfügbar. 
+Auf dieser Seite werden alle individuellen Einnahmen angezeigt, einschließlich des Datums, des Typs und des Erwerbs für jede. Sie können einen Zeitraum auswählen, der angezeigt werden soll. Außerdem können Sie nach Registrierungs-ID, Programm, Zahlungs-ID, erzahltyp, Hebel und Status filtern. Daten sind für das aktuelle Geschäftsjahr (1. Juni 30. Juli) und die letzten beiden Geschäftsjahre verfügbar. 
 
 Wählen Sie den Pfeil nach unten auf der rechten Seite der Seite aus, um weitere Details zu einem Erwerbs Bereich anzuzeigen. Dadurch werden der Hebel, der Umsatz Betrag, das Produkt und der Kunde angezeigt. Wenn eine dieser Daten aus irgendeinem Grund nicht verfügbar ist, Sie aber darauf zugreifen müssen, wenden Sie sich an den Support. Wenn das Ergebnis einer Anpassung und nicht einer Transaktion entspricht, werden die Felder Product und Customer nicht angezeigt. 
 

@@ -2,18 +2,20 @@
 title: Erstellen von Benutzerkonten und Festlegen von Berechtigungen | Partner Center
 ms.topic: article
 ms.date: 07/08/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Der Administrator erstellt ein Benutzerkonto für jeden Partnermitarbeiter, der Zugriff auf Partner Center benötigt.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Rollen, Berechtigungen, Benutzer hinzufügen, Rolle zuweisen, Administrator, Agent
 ms.localizationpriority: medium
-ms.openlocfilehash: de8b4e793f50d00a1d528d44b8dece7b9f7c9263
-ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
-ms.translationtype: HT
+ms.openlocfilehash: c96ab4ffe5cd559bf34332211f0247851403dfad
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67674236"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653576"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen
 
@@ -24,13 +26,13 @@ Erstellen Sie Benutzerkonten für Mitarbeiter, die Zugriff auf das Partner Cente
 
 1. Klicken Sie im Partner Center rechts oben auf das Symbol **Einstellungen** und dann auf **Benutzerverwaltung**.
 
-2.  Wählen Sie **Benutzer hinzufügen** aus.
+2.  Wählen Sie **Benutzer hinzufügen**.
 
-3.  Geben Sie den vollständigen Namen und die eindeutige E-Mail-Adresse des Benutzers ein.
+3.  Geben Sie den vollständigen Namen des Benutzers und die eindeutige e-Mail-Adresse
 
-4.  Wählen Sie den Agent- bzw. Administratortyp, den Sie dem Benutzer zuweisen möchten. Partner Center-Zugriff ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt.  Wenn Benutzer eine rollenzuweisung sollen, wenden Sie sich an, indem Sie zu globale Administratoren findet **benutzerverwaltung** und Filtern von globalen Administrator.
+4.  Wählen Sie den Agent- bzw. Administratortyp, den Sie dem Benutzer zuweisen möchten. Partner Center-Zugriff ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt.  Wenn Benutzer eine Rollenzuweisung wünschen, finden Sie globale Administratoren, die Sie kontaktieren möchten, indem Sie zu **Benutzerverwaltung** wechseln und nach globaler Administrator filtern.
 
-5.  Wählen Sie **Hinzufügen**, um das Benutzerkonto zu erstellen. Bestätigen Sie die Details des Benutzers auf der nächsten Seite.
+5.  Wählen Sie **Hinzufügen** aus, um das Benutzerkonto zu erstellen. Bestätigen Sie die Details des Benutzers auf der nächsten Seite.
 
 > [!IMPORTANT]  
 > Notieren Sie sich die Anmeldeinformationen des neuen Benutzers, die auf dieser Seite angezeigt werden. Achten Sie darauf, diese Informationen zu kopieren und an den neuen Benutzer zu senden, da Sie später nicht erneut darauf zugreifen können. 
@@ -38,7 +40,7 @@ Erstellen Sie Benutzerkonten für Mitarbeiter, die Zugriff auf das Partner Cente
 Der Benutzer muss sich bei Partner Center mit seinem Benutzernamen und einem temporären Kennwort anmelden. Wenn sich der Benutzer zum ersten Mal bei Partner Center anmeldet, wird er aufgefordert, sein Kennwort zu ändern. 
 
 > [!NOTE]  
->  Wenn der globale Administrator Ihr Unternehmen verlassen hat oder intern versetzt wurde und Sie einen neuen globalen Administrator hinzufügen müssen, müssen Sie im [MPN-Portal](https://partner.microsoft.com/support) eine Serviceanfrage stellen. Der Support-Mitarbeiter kann eine Heraufstufung eines Benutzers zum globalen Administrator anfordern, wenn der Antragsteller die benötigten persönlichen Informationen sowie zusätzliche Informationen zu Ihrem Unternehmen bereitstellen kann.
+>  Wenn der globale Administrator Ihr Unternehmen verlassen hat oder intern versetzt wurde und Sie einen neuen globalen Administrator hinzufügen müssen, müssen Sie im [MPN-Portal](https://partner.microsoft.com/support) eine Serviceanfrage stellen. Der Support-Mitarbeiter kann eine Heraufstufung eines Benutzers zum globalen Administrator beantragen, wenn der Antragsteller die benötigten persönlichen Identitätsinformationen sowie zusätzliche Informationen zu Ihrer Organisation bereitstellen kann.
 
 ### <a name="find-your-global-admin"></a>Finden des globalen Administrators
 
@@ -75,17 +77,17 @@ Um im Partner Center arbeiten zu können, muss Ihnen eine Rolle zugewiesen sein.
 
 **Gastbenutzer** muss Teil des AAD-Mandanten sein und eine beliebige AAD-externe Rolle haben.
 
-Spezifische Informationen zu den Rollen sowie dazu, welche Möglichkeiten Benutzer mit den jeweiligen Rollen haben, finden Sie unter [Zuweisen von Benutzerberechtigungen](permissions-overview.md).
+Spezifische Informationen zu den Rollen und ihren Möglichkeiten finden Sie unter [Zuweisen von Benutzerberechtigungen](permissions-overview.md).
 
-## <a name="associate-a-users-microsoft-learn-account-in-partner-center"></a>Zuordnen von Microsoft-Learn-Konto eines Benutzers im Partner Center
+## <a name="associate-a-users-microsoft-learn-account-in-partner-center"></a>Zuordnen des Microsoft Learn Kontos eines Benutzers in Partner Center
 
-Damit Sie sehen die Trainings- und Lernpfade, die Ihre Benutzer für Kompetenzen vorliegen, müssen sie die MCP-ID ihrem Partner Center-Konto zuordnen. Als globaler Administrator Wenn Sie neue Benutzer hinzufügen, achten Sie darauf, daran zu erinnern sie ihre MCP-ID ihrem Konto zuzuordnen. 
+Damit Sie die Schulungs-und Lernpfade sehen können, die Ihre Benutzer für die Zuständigkeiten nutzen, müssen Sie Ihre MCP-ID Ihrem Partner Center-Konto zuordnen. Wenn Sie neue Benutzer hinzufügen, müssen Sie Sie als globaler Administrator daran erinnern, ihre MCP-ID Ihrem Konto zuzuordnen. 
 
-### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>Wie Sie Ihre MCP-ID mit Ihrem Partner Center-Konto zuzuordnen
+### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>Zuordnen Ihrer MCP-ID zu Ihrem Partner Center-Konto
 
-1. Wählen Sie im Partner Center-Dashboard die **Ihr Konto** Symbol in der rechten Ecke des Dashboards, und wählen Sie dann **Mein Profil**.
+1. Wähle im Partner Center-Dashboard das Symbol für **Dein Konto** in der rechten Ecke des Dashboards aus, und wähle dann **Mein Profil** aus.
 
-2. Klicken Sie unter **lernen** Sie werden in der Lage, weisen Sie Ihr Microsoft Learning-Konto aus, und verbinden Ihr Microsoft-Konto auch mit Partner University-Plattform.
+2. Unter **Dein Learning** kannst du dein Microsoft Learning-Konto zuordnen und auch dein Microsoft-Konto mit Partner University verbinden.
 
 
 

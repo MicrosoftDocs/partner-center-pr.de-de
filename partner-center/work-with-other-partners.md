@@ -2,24 +2,26 @@
 title: Zusammenarbeit mit anderen Partnern | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Arbeiten Sie mit anderen Partnern im CSP zusammen, um die Bedürfnisse Ihrer gemeinsamen Kunden zu erfüllen.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 772544e474a15e11f64a315c3e6e5b04ec58d52c
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: a4b26e08d1413cdf3aeb819b2d30891da854beff
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820543"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651160"
 ---
 # <a name="work-with-other-partners"></a>Zusammenarbeit mit anderen Partnern
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 
-Das Microsoft Cloud Solution Provider-Programm ermöglicht Partnern die Zusammenarbeit in folgenden Modellen.
+Das Microsoft Cloud Solution Provider-Programm (CSP) bietet Partnern Möglichkeiten, auf diese Weise zusammenzuarbeiten.
 
 ## <a name="indirect-provider-indirect-reseller-model"></a>Indirekter Anbieter – indirekter Vertriebspartner
 
@@ -41,13 +43,13 @@ Sie sind nicht sicher, ob Sie sich als indirekter Vertriebspartner oder als dire
 
 ## <a name="multi-partner-support"></a>Support für mehrere Partner
 
-Das Partner Center-Feature für mehrere Partner unterstützt Szenarien, in denen ein Kunde mit mehreren Partnern zusammenarbeiten muss. Beispielsweise möchte der Kunde mit einem Partner aufgrund seiner Kenntnisse in Bezug auf Office 365 zusammenarbeiten, gleichzeitig aber einen anderen Partner beauftragen, der auf Microsoft Azure spezialisiert ist. Weitere Informationen finden Sie unter [Multipartner-Unterstützung](multipartner.md).
+Die Multi-Partner-Funktion von Partner Center unterstützt Szenarien, in denen ein Kunde mit mehr als einem Partner arbeiten muss. Beispielsweise möchte der Kunde mit einem Partner aufgrund seiner Kenntnisse in Bezug auf Office 365 zusammenarbeiten, gleichzeitig aber einen anderen Partner beauftragen, der auf Microsoft Azure spezialisiert ist. Weitere Informationen finden Sie unter [Multipartner-Unterstützung](multipartner.md).
 
 Die Unterstützung mehrerer Partner ist auch in Microsoft-Angeboten für nationale Clouds verfügbar. 
 
 ## <a name="multi-channel-support"></a>Unterstützung mehrerer Kanäle
 
-Das Partner Center-Feature zur Unterstützung mehrerer Kanäle eignet sich für Szenarien, in denen ein Kunde einen Partner für die Bereitstellung und den Support eines an anderer Stelle erworbenen Abonnements beauftragen möchte. Weitere Informationen finden Sie unter [Multichannel-Unterstützung](multichannel.md).
+Die Multi-Channel-Funktion von Partner Center unterstützt Szenarien, in denen ein Kunde einen Partner für die Bereitstellung und Unterstützung eines Abonnements beauftragen möchte, das Sie anderweitig erworben haben Weitere Informationen finden Sie unter [Multichannel-Unterstützung](multichannel.md).
 
 Die Multichannel-Unterstützung ist auch in Microsoft-Angeboten für nationale Clouds verfügbar.
 

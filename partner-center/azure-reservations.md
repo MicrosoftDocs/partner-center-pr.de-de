@@ -2,28 +2,30 @@
 title: 'Partner Center – Microsoft Azure: Übersicht über Reservierungen | Partner Center'
 ms.topic: article
 ms.date: 11/05/2018
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Partner im Cloud Solution Provider-Programm (CSP) können ihren Kunden Microsoft Azure-Reservierungen anbieten.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, Reservierungen, verwalten, Abrechnung, kaufen, Azure-RI, Azure Reserved Instances
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a16726127705acde1bfcee23a5fe2b8c5ccafee7
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 757e4c6136c5911dfc7eec2a6afa461bc4e465c0
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708791"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653806"
 ---
 # <a name="partner-center---sell-microsoft-azure-reservations"></a>Partner Center – Verkaufen von Microsoft Azure-Reservierungen
 
 <!--Maggie, 12/7/18 - Added "Partner Center" to metadata title and H1 title as per Catherine Watson in bug #19868631-->
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
 - Microsoft Azure-Portal
-- Partner im Cloud Solution Provider-Programm
+- Partner im CSP
 
 Partner im Cloud Solution Provider-Programm (CSP) können ihren Kunden Microsoft Azure-Reservierungen anbieten. Kunden profitieren von deutlichen Einsparungen, wenn sie im Voraus reservieren. Azure-Reservierungen bieten Kunden Einfachheit und Flexibilität auf folgende Weise:
 
@@ -44,10 +46,10 @@ Azure-Reservierungen können Kunden wie folgt ansprechen:
 
 ## <a name="azure-reservations-resources"></a>Ressourcen zu Azure-Reservierungen
 
-|**Weitere Informationen zu**   |**Artikel**    |
+|**Weitere Informationen zu**   |**Bitte lesen**    |
 |:-----------------------------|:-----------------|
 | Dokumentation zu Azure-Reservierungen für Ihre Kunden | [Was sind Azure-Reservierungen?](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 |Erwerb von Azure-Reservierungen für Ihre Kunden im Partner Center   |[Kaufen von Azure-Reservierungen](azure-reservations-buying.md)
-|Verwalten von Azure-Reservierungen in Partner Center | [Verwalten von Azure-Reservierungen im Partner Center](azure-reservations-manage.md)
+|Verwalten von Azure-Reservierungen im Partner Center | [Verwalten von Azure-Reservierungen im Partner Center](azure-reservations-manage.md)
 |Bestimmen der richtigen VM-Größe und Überprüfen der VM-Nutzung durch den Kunden   |[Bestimmen der VM-Größe für die maximale Nutzung von Azure-Reservierungen](azure-usage.md)   |
-|Kaufen von Azure-Reservierungen über die Partner Center-API | [Kaufen von Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in der Partner Center-Entwicklerdokumentation
+|Erwerb von Azure-Reservierungen über die Partner Center-API | [Kaufen von Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in der Partner Center-Entwicklerdokumentation

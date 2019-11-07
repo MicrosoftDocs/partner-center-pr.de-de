@@ -2,18 +2,20 @@
 title: Co-Selling mit Microsoft | Partner Center
 ms.topic: article
 ms.date: 07/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Als qualifizierter Microsoft-Partner haben Sie die Möglichkeit, mit Microsoft gemeinsam zu verkaufen. Diese Zusammenarbeit unterstützt Sie beim Erstellen von Lösungen für den Markt, bei einem gemeinsamen Umsatz und beim Erfolg der Kunden.
 author: JnHs
 ms.author: jenhayes
 keywords: Empfehlung, RFI, Partner suchen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cda97f98e4d050ff4a48f78760518eb6f5b22cd4
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
-ms.translationtype: HT
+ms.openlocfilehash: e24475dfcad3b5a6732233aeafb6761e9a91e099
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67856485"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653679"
 ---
 # <a name="co-sell-with-microsoft"></a>Co-Selling mit Microsoft
 
@@ -46,10 +48,10 @@ Wenn Sie auf **auswählen**klicken, werden Sie aufgefordert, den Namen, die Tele
 Auf dem nächsten Bildschirm müssen Sie Details zu dem Engagement angeben, für das Sie einen Co-Selling mit Microsoft durchsetzen möchten.
 
 Geben Sie im Abschnitt " **Engagement-Details** " Folgendes ein:
-- **Name der Einbindung**: Geben Sie einen Namen ein, der diesen Kunden und dieses Engagement beschreibt. Das Microsoft-Team wird diesen Namen sehen, wenn Sie Ihre Engagement-Details überprüfen. Achten Sie daher darauf, dass Sie die Sprache Clear und Professional verwenden.
+- **Engagement Name**: Geben Sie einen Namen ein, der diesen Kunden und dieses Engagement beschreibt. Das Microsoft-Team wird diesen Namen sehen, wenn Sie Ihre Engagement-Details überprüfen. Achten Sie daher darauf, dass Sie die Sprache Clear und Professional verwenden.
 - **CRM-ID**: Geben Sie bei Bedarf die ID-Nummer ein, die Sie in Ihrem CRM-System verwenden.
-- **Geschätztes Schluss Datum**: Das ungefähre Datum, an dem Sie dieses Problem schließen müssen.
-- **Geschätzter Wert**: Der erwartete Gesamtwert für das Engagement. Achten Sie darauf, dass Sie die entsprechende Währung auswählen.
+- **Geschätztes Schluss Datum**: das ungefähre Datum, an dem Sie dieses Problem schließen möchten.
+- **Geschätzter Wert**: der erwartete Gesamtwert für das Engagement. Achten Sie darauf, dass Sie die entsprechende Währung auswählen.
 
 Erläutern Sie im Feld **Notizen** , was der Kunde interessiert und wie Ihre Lösung Ihnen helfen könnte.
 

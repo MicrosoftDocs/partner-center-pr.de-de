@@ -2,21 +2,23 @@
 title: Anfordern einer Beziehung mit einem Kunden | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Das Beantragen einer Partnerschaft mit einem Kunden wird in Multipartner- und Multichannelszenarien verwendet. Dieser Vorgang ist auch hilfreich, wenn ein Kunde Ihre delegierten Administratorrechte entfernt und Sie sie für Bereitstellungen oder Supportleistungen wiederherstellen müssen.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 099f38fa6acf523f7627434c7b320c37b46e63e1
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 97ec1f5b346482a6865c7ce99500766b15459c9a
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820493"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654109"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Kontaktaufnahme mit Kunden im Partner Center
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 
@@ -27,7 +29,7 @@ Wenn Sie eine Vertriebspartnerschaft mit einem Kunden aufbauen und nur die von I
 Beachten Sie, dass die Option, keine Berechtigungen anzufordern, den Partnern, die in Microsoft Cloud for US Government oder Microsoft Cloud Deutschland arbeiten, nicht zur Verfügung steht. Weitere Informationen finden Sie unter [Kunden delegieren Administratorrechte an Partner](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
 
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden, eine Vertriebspartnerschaft mit Ihnen einzugehen
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden zur Einrichtung einer Vertriebspartnerschaft mit Ihnen
 
 Beachten Sie, dass Sie eine Vertriebspartnerschaft mit einem Kunden aus Ihrem Land oder Ihrer Region anfordern können.
 
@@ -35,7 +37,7 @@ Beachten Sie, dass Sie eine Vertriebspartnerschaft mit einem Kunden aus Ihrem La
 
 2.  Um Administratorrechte von diesem Kunden anzufordern, wählen Sie **Delegierte Administratorrechte für Azure Active Directory und Office 365 einbeziehen** aus. Deaktivieren Sie diese Option, um die Beziehung herzustellen, ohne Administratorrechte anzufordern. 
 
-3.  Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer standardmäßigen E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen. 
+3.  Überprüfen Sie auf der nächsten Seite den E-Mail-Entwurf. Sie können den Nachrichtenentwurf in Ihrer standardmäßigen E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen. 
 
     Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist und den Kunden direkt mit Ihrem Konto verknüpft. Wählen Sie **Fertig** aus, wenn Sie diesen Schritt abgeschlossen haben.
 
@@ -44,7 +46,7 @@ Beachten Sie, dass Sie eine Vertriebspartnerschaft mit einem Kunden aus Ihrem La
 5.  Nachdem der Kunde die Einladung angenommen hat, wird er auf der Seite **Kunden** angezeigt, und Sie können den Dienst für den Kunden von dort aus bereitstellen und verwalten.
 
  
-6.  Erweitern Sie zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem Sie neben seinem Namen auf den Pfeil nach unten klicken.
+6.  Um das Konto, die Dienste, Benutzer und Lizenzen des Kunden zu verwalten, erweitern Sie den Datensatz des Kunden, indem Sie den Pfeil nach unten in der Nähe des Namens auswählen.
 
 
 > [!IMPORTANT]  
@@ -61,7 +63,7 @@ Die Kundenfreundlichkeit, eine Reseller Relationship-Einladung von einem Cloud S
 | Kunden im Partner Center für Microsoft Cloud for US Government | Microsoft Office-Verwaltungsportal |
 |
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Informationen:
 
 - [Zuweisen von Supportkontakten](assign-support-contacts.md)
 - [Entfernen einer Partnerschaft mit einem Kunden](remove-a-relationship.md)

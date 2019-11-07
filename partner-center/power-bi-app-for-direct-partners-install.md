@@ -2,21 +2,23 @@
 title: Installation und Vorschauversion der Partner Center Analytics-App für Microsoft Power BI | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Gehen Sie folgendermaßen vor, um eine Vorschauversion der Partner Center Analytics-App für Power BI zu testen (für direkte Partner im CSP).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 10a47f22fb3716e8ff162e7b936770a2ca8a8ffc
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
-ms.translationtype: HT
+ms.openlocfilehash: b7635e8d6fd9910123ac4113d467ae506e507793
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668626"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654178"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installation und Vorschauversion der Partner Center Analytics-App für Microsoft Power BI
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
 
@@ -37,7 +39,7 @@ Bevor Sie die Vorschauversion der Partner Center Analytics-App installieren, ste
 
 - Sie können sich bei Power BI anmelden.
 
-- Sie können sich als globaler Administrator, Administrator-Agent oder Abrechnungsadministrator [beim Azure Active Directory-Mandanten (Azure AD) Ihres Unternehmens anmelden](azure-active-directory-tenants-and-partner-center.md).
+- Sie können sich als globaler Administrator, Administrator-Agent oder Abrechnungs Administrator beim [Azure Active Directory Ihres Unternehmens (Azure AD)](azure-active-directory-tenants-and-partner-center.md)anmelden.
 
 ## <a name="to-install-the-app"></a>So installieren Sie die App
 
@@ -47,12 +49,12 @@ Bevor Sie die Vorschauversion der Partner Center Analytics-App installieren, ste
 
 3. Geben Sie auf der nächsten Seite den Benutzernamen und das Kennwort für Power BI und wählen Sie dann **Anmelden** aus. 
 
-4. Prüfen Sie im Popup-Fenster **Mit Partner Center Analytics verbinden**, ob die **Authentifizierungsmethode** auf **oAuth2** festgelegt ist oder wählen Sie **oAuth2** aus der Liste aus. 
+4. Überprüfen Sie im Popup Fenster **Verbindung mit Partner Center-Analyse herstellen** , ob die **Authentifizierungsmethode** auf **oAuth2** festgelegt ist, oder wählen Sie **oAuth2** in der Liste aus, wenn dies nicht der Fall ist. 
 
 > [!NOTE]  
 >  Dieses Fenster erscheint möglicherweise erst nach einigen Minuten.
 
-5. Melden Sie sich auf der **Partner Center Analytics Connector** als globaler Administrator, Administrator-Agent oder Abrechnungsadministrator für den Azure AD-Mandanten Ihres Unternehmen an, und wählen Sie dann **Anmelden** aus.
+5. Melden Sie sich auf der Seite **Partner Center Analytics-Connector** mit dem globalen Administrator, dem Administrator-Agent oder den Abrechnungs Administrator-Anmelde Informationen für den Azure AD Mandanten Ihres Unternehmens an, und wählen Sie dann **Anmelden**aus.
  
 6. Wählen Sie zum Zugriff aufgefordert werden, wählen Sie **Annehmen** aus. 
 
@@ -62,4 +64,4 @@ Nachdem die Daten geladen wurde, können Sie damit beginnen, das Partner Center 
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-[Ihre Geschäftsdaten mit der Partner Center Analytics-App für Microsoft Power BI anzeigen](power-bi-app-for-direct-partners-use.md)
+[Anzeigen Ihrer Geschäftsdaten mit der Partner Center Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

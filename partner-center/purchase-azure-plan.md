@@ -1,18 +1,18 @@
 ---
 title: Kauf des Azure-Plans | Partner Center
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/03/2019
 description: Erwerben mehrerer Azure-Abonnements im Azure-Plan
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 2fefc10c0b5043e6617f4cea9e9c0245a8532321
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428504"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595923"
 ---
 # <a name="purchase-the-azure-plan"></a>Kauf des Azure-Plans
 
@@ -53,7 +53,7 @@ Sie gelangen zur Seite **Produkt hinzufügen** zurück, auf der Sie sehen könne
   
 Im Partner Center können Sie darüber hinaus Microsoft Azure-Reservierungen im Rahmen des Azure-Plans im Kundenauftrag erwerben.
 
-1. Wählen Sie im Partner Center-Menü auf Ihrem Dashboard **Kunden** aus. Suchen Sie den Kunden, der Azure-Reservierungen kaufen möchte. Klicken Sie dann auf den nach unten zeigenden Pfeil, um den Datensatz des Kunden zu erweitern. 
+1. Wählen Sie im Partner Center-Menü auf Ihrem [Dashboard](https://partner.microsoft.com/dashboard/) die Option **Kunden** aus. Suchen Sie den Kunden, der Azure-Reservierungen kaufen möchte. Klicken Sie dann auf den nach unten zeigenden Pfeil, um den Datensatz des Kunden zu erweitern. 
 
 2. Wählen Sie **Produkte hinzufügen** und dann **Azure** aus. 
 - Wählen Sie in der Liste **Segment** das Marktsegment des Kunden aus. 

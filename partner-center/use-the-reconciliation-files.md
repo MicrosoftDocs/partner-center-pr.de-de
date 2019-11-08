@@ -1,7 +1,7 @@
 ---
 title: Verwenden der Abstimmungsdateien | Partner Center
 ms.topic: article
-ms.date: 07/08/2019
+ms.date: 11/07/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Laden Sie die Kontenabstimmungsdateien aus dem Partner Center herunter, um ausführliche Informationen zu den einzelnen Rechnungspositionen der Gebühren in einem Abrechnungszyklus anzuzeigen.
@@ -9,12 +9,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 217d5e9c068a07b51f74333f605daca8ab573c9a
+ms.sourcegitcommit: 8425d3435892651e3e6cb1147cd3b268b2b1869b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653975"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "73753851"
 ---
 # <a name="use-the-reconciliation-files"></a>Verwenden der Abstimmungsdateien
 
@@ -23,6 +23,10 @@ ms.locfileid: "73653975"
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
 
+**Geeignete Rollen**
+
+- Abrechnungsadministrator
+- Globaler Administrator
 
 Laden Sie die Kontenabstimmungsdateien aus dem Partner Center herunter, um ausführliche Informationen zu den einzelnen Rechnungspositionen der Gebühren in einem Abrechnungszyklus anzuzeigen. Zu diesen Informationen zählen Gebühren für die einzelnen Abonnements von Kunden und ausführliche Ereignisinformationen (wie z. B. das Hinzufügen von Arbeitsplätzen zu einem Abonnement mitten in einem Abrechnungszeitraum).
 
@@ -637,7 +641,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 </tr>
 
 <tr class="even">
-<td>DiscountDetails</td>
+<td>Preis Beschreibung</td>
 <td><p>Eine Erklärung der geltenden Rabatte.</p></td>
 </tr>
 
@@ -670,7 +674,26 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 <td>Billingfrequency</td>
 <td><p> Wird monatlich angezeigt, wenn die monatliche Abrechnung aktiviert ist. Andernfalls leer. </p></td>
 </tr>
-
+<tr class="odd">
+<td>Billablemenge</td>
+<td><p> Stellt die Gesamtanzahl erworbener oder genutzter Einheiten dar. </p></td>
+</tr>
+<tr class="even">
+<td>Pricingcurrency</td>
+<td><p> Listet den Preis für die Ressource oder das Angebot auf.</p></td>
+</tr>
+<tr class="odd">
+<td>Pctobcexchangerate </td>
+<td><p> Wechselkurs für Preiswährung (Kunden) Abrechnungswährung</p></td>
+</tr>
+<tr class="even">
+<td>Pctobcexchangeratedate </td>
+<td><p> Das Datum, an dem die Preiswährung für den Abrechnungs Währungsaustausch festgelegt wird.</p></td>
+</tr>
+<tr class="odd">
+<td>Meterbeschreibung </td>
+<td><p> Verbrauchseinheit für die Verbrauchseinheit</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -897,9 +920,29 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 <td><p>Ein Legacyfeld, in dem optionale dienstspezifische Metadaten erfasst werden.</p></td>
 </tr>
 
-<tr class="even">
+<tr class="odd">
 <td>Zusätzliche Infos</td>
 <td><p>Zusätzliche Informationen, die von anderen Spalten nicht abgedeckt werden.</p></td>
+</tr>
+<tr class="even">
+<td>Effectiveunitprice</td>
+<td><p> Tatsächlicher Wert pro Einheit (Dies umfasst Rabatte, Gutschriften usw.).</p></td>
+</tr>
+<tr class="odd">
+<td>Pctobcexchangerate </td>
+<td><p>Wechselkurs für Preiswährung (Kunden), Abrechnungswährung.</p></td>
+</tr>
+<tr class="even">
+<td>Pctobcexchangeratedate </td>
+<td><p>Das Datum, an dem die Preiswährung für den Abrechnungs Währungsaustausch festgelegt wird.</p></td>
+</tr>
+<tr class="odd">
+<td>Berelementid</td>
+<td><p>Stellt Azure-Abonnement-ID dar.</p></td>
+</tr>
+<tr class="even">
+<td>Berelementdescription</td>
+<td><p>Steht für den Namen des Azure-Abonnements.</p></td>
 </tr>
 
 </tbody>

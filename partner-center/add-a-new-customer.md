@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Kunde, Kunde hinzufügen, Kundenkonto, Kundenkonto im Partner Center, Kunden, Kunden hinzufügen, Kundenkonto erstellen
 ms.localizationpriority: medium
-ms.openlocfilehash: b8ffc01816e7f50ada49d87a82b8d7fbc72a78dd
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d33588fb599f0f74ddb2e9f0e267b9e423ccbead
+ms.sourcegitcommit: d50d4ae13ba4c6c4a19a7f2af8f9f5a42be6dbfc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653397"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "73840213"
 ---
 # <a name="add-a-new-customer"></a>Hinzufügen eines neuen Kunden
 
@@ -35,9 +35,9 @@ Bevor Sie einem Kunden Abonnements verkaufen, die Abrechnung verwalten oder ihm 
 
 2. Geben Sie auf der Seite **Kontoinformationen** die Details und die primären Kontaktinformationen des Kunden ein, und überprüfen Sie, ob der Kunde den aktuellen [Microsoft Cloud-Vertrag](agreements.md) akzeptiert und unterzeichnet hat.
 
-    >[!IMPORTANT]
-      > Seit dem 7. November 2018 müssen Sie bestätigen, dass ein Kunde dem Microsoft Cloud-Vertrag zugestimmt hat, indem Sie Informationen über die Person bereitstellen, die den Vertrag unterzeichnet hat. Ausführlichere Informationen finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](confirm-consent.md).
-
+>[!IMPORTANT] 
+> Am 1. Oktober 2019 hat Microsoft den Microsoft- **Kundenvertrag** für das CSP-Programm eingeführt, um die Microsoft Cloud Vereinbarung zu ersetzen. Um die Migration von Partnern zum neuen Vertrag zu erleichtern, wird der aktuelle Microsoft Cloud-Vertrag noch bis zum 31. Januar 2020 im CSP-Programm unterstützt. Informieren Sie sich über den [Microsoft-Kundenvertrag und](confirm-customer-consent.md) über die Bestätigung der Zustimmung
+  
 3. Wenn Sie ein indirekter Anbieter sind, wählen Sie in der Liste den indirekten Vertriebspartner aus, den Sie den Abonnements dieses Kunden zuordnen möchten.
 
 4. Wählen Sie **Weiter: Abonnements** , wenn Sie alle erforderlichen Informationen eingegeben haben.

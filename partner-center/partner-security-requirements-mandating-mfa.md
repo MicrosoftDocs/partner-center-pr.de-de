@@ -1,22 +1,22 @@
 ---
 title: Überprüfen der MFA für Ihren Partner Mandanten | Partner Center
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 11/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Details zur MFA für Ihre Partner Mandanten-Sicherheitsanforderungen
+description: Details zum Überprüfen der mehrstufigen Authentifizierung (Multi-Factor Authentication, MFA) für die Sicherheitsanforderungen Ihres Partner Mandanten
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: medium
-ms.openlocfilehash: f9319fc50c722df0e87f729444bb23654b75e910
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9241e7fd7f9812e2c456eac70065e185a9cf8d61
+ms.sourcegitcommit: 0f14e29540c6814f01395924223b495cc5299954
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652518"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "73983351"
 ---
-# <a name="mandating-mfa-for-your-partner-tenant"></a>MFA für Ihren Partner Mandanten
+# <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für Ihren Partner Mandanten
 
 **Zielgruppe**
 
@@ -28,9 +28,9 @@ ms.locfileid: "73652518"
 
 Diese Partner müssen die MFA-Überprüfung für die folgenden Bereiche durchführen:
 
-- [Partner Center-Dashboard](#partner-center-dashboard)
-- [Partner Center-API](#partner-center-api)
-- [Partner delegierte Administration](#partner-delegated-administration)
+- [Partner Center-Dashboard](#partner-center-dashboard) (Ausrichtung auf H1 CY2020)
+- [Partner Center-API](#partner-center-api) (Ausrichtung auf H1 CY2020)
+- [Partner delegierte Administration](#partner-delegated-administration) (ab dem 18. November 2019)
 
 Diese Funktion soll Partnern helfen, Ihren Zugriff auf Kunden Ressourcen vor Kompromittierungen von Anmelde Informationen zu schützen.
 

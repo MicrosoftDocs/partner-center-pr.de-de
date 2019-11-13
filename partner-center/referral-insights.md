@@ -2,17 +2,19 @@
 title: Abrufen von Empfehlungsdaten | Partner Center
 ms.topic: article
 ms.date: 07/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Überprüfen Sie Ihre Daten zu Empfehlungserkenntnissen regelmäßig, um das Erkennen von Trends oder Bereichen zu erleichtern, die Aufmerksamkeit benötigen, und beginnen Sie, Ihre Geschäftsziele bewusst anzusteuern.
 author: JnHs
 ms.author: jenhayes
 keywords: Weiterleitung, analysieren, Analyse, Metrik, Konvertierung
 ms.localizationpriority: high
-ms.openlocfilehash: 027fcfb3dbd9b2a8f9c2f53fbfd2e765f15eff53
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: fb1e93f830ea8ae8baaf4c75107511df88807f47
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318753"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654126"
 ---
 # <a name="get-referral-insights"></a>Abrufen von Empfehlungsdaten
 

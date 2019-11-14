@@ -184,6 +184,7 @@
 # Sicherheitsanforderungen
 ## [Übersicht](partner-security-requirements.md)
 ## [Anforderungsstatus](partner-security-compliance.md)
+## [Festlegen von MFA für Ihren Partnermandanten](partner-security-requirements-mandating-mfa.md)
 ## [Häufig gestellte Fragen](partner-security-requirements-faq.md)
 
 # Lernprogramme

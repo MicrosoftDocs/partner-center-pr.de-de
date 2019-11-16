@@ -9,16 +9,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Kompetenzen, ISV, Anwendungsentwicklung
 ms.localizationpriority: medium
-ms.openlocfilehash: 254d4158ffc64b163e974a1d4cf43a69c0555740
-ms.sourcegitcommit: 1d3fad847dfa46ca709f4411f466827769328c83
+ms.openlocfilehash: d32936a6611d476628c655edd97bc8bf7a219d06
+ms.sourcegitcommit: 921e7ac2f9ee2a2b670903ff175fe8b17fb2f0a9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "73849706"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "74117223"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Ausnahme bei der einmaligen Prüfung von Anforderungen für die Anwendungs Entwicklungskompetenz
 
-**Anwendbare Rollen**
+**Zutreffende Rollen**
 
 - Globaler Administrator
 - MPN-Partneradministrator
@@ -27,19 +27,19 @@ Wenn Sie die nun abgekoppelte ISV-Kompetenz erworben haben und eines der folgend
 
 Partner mit einer ISV-Kompetenz:
 
-- **Ihre ISV-Kompetenz ist abgelaufen** – ihre einmalige Prüfung der Anforderungen an die einmalige Prüfung wird ab dem 12. November 2019 in Partner Center verfügbar sein. Sie haben bis zu 30 Tage Zeit, um das Angebot zu erhalten. 
+- **Ihre ISV-Kompetenz ist abgelaufen** – ihre einmalige Prüfung der Anforderungen an die einmalige Prüfung wird ab dem 22. November 2019 in Partner Center verfügbar sein. Sie haben 30 Tage Zeit, um das Angebot zu nutzen. 
 
-- **Ihre Kompetenz Mitgliedschaft befindet sich im Erneuerungs Fenster** – ihre einmalige Prüfung auf der Grundlage von Anforderungen wird ab dem 12. November 2019 in Partner Center verfügbar sein. Sie haben 30 Tage Zeit, um das Angebot zu erhalten. 
+- **Ihre Kompetenz Mitgliedschaft befindet sich im Erneuerungs Fenster** – ihre einmalige Prüfung auf der Grundlage von Anforderungen wird ab dem 22. November 2019 in Partner Center verfügbar sein. Sie haben 30 Tage Zeit, um das Angebot zu nutzen. 
 
 - **Ihre Kompetenz Mitgliedschaft wird in den kommenden Monaten erneuert** – ihre einmalige Prüfung ist für Sie verfügbar, wenn die Verlängerung verlängert wird. Zu diesem Zeitpunkt haben Sie 30 Tage Zeit, um das Angebot zu erhalten.
 
-Partner mit einer Anwendungs Entwicklungskompetenz über den IP-Zertifizierungspfad:
+Partner mit einer Anwendungs Entwicklungskompetenz über den Zertifikat-IP-Pfad:
 
-- **Wenn Sie über eine Microsoft-Liste mit kommerziellen Marketplace verfügen**, ist die Ausnahme für die einmalige Prüfung der Anforderungen zum Zeitpunkt der Verlängerung ihrer Kompetenz verfügbar. Zu diesem Zeitpunkt haben Sie 30 Tage Zeit, um das Angebot zu erhalten.
+- **Wenn Sie über eine Microsoft-Liste mit kommerziellen Marketplace verfügen**, ist die Ausnahme für die einmalige Prüfung der Anforderungen zum Zeitpunkt der Verlängerung ihrer Kompetenz verfügbar. Zu diesem Zeitpunkt haben Sie 30 Tage Zeit, um das Angebot zu nutzen.
 
-- **Wenn Sie nicht über eine [Microsoft kommerziellen Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/) -Liste verfügen**, veröffentlichen Sie Ihre Lösung innerhalb von 90 Tagen nach dem Empfang dieser Kommunikation. Sie sind für die Ausnahme bei der einmaligen Prüfung der Anforderungen in Anspruch.
+- **Wenn Sie nicht über eine [Microsoft kommerziellen Marketplace](https://azure.microsoft.com/overview/commercial-marketplace/) -Liste verfügen**, veröffentlichen Sie Ihre Lösung bis Februar 2020, damit Sie für die Ausnahme bei der einmaligen Prüfung von Anforderungen berechtigt ist.
 
-## <a name="how-to-get-your-offer"></a>So erhalten Sie ein Angebot
+## <a name="how-to-take-advantage-of-your-offer"></a>Nutzen Ihres Angebots
 
 1. Wählen Sie im Menü Partner Center auf Ihrem Dashboard die Option **Kompetenzen**aus.
 2. In der Liste der verfügbaren Zuständigkeiten ist die Anwendungsentwicklung als " **Fertig**" markiert.
@@ -58,7 +58,7 @@ Wenn Sie Unterstützung bei der Beschaffung Ihres Angebots benötigen oder Frage
 
 **Gewusst wie wissen, ob mein Unternehmen für dieses Angebot berechtigt ist?**
 
-Partnerunternehmen, die für dieses Angebot berechtigt sind, wurden per e-Mail und im Partner Center über Informationen über das Angebot informiert. Berechtigte Partner sind Personen, die die jetzt abgekoppelte ISV-Kompetenz erworben haben, und diejenigen, die die Anwendungs Entwicklungskompetenz über den zertifizierten IP-Pfad erworben haben. 
+Partnerunternehmen, die für dieses Angebot berechtigt sind, wurden per e-Mail und im Partner Center über Informationen über das Angebot informiert. Berechtigte Partner sind Personen, die die jetzt abgekoppelte ISV-Kompetenz erworben haben, und diejenigen, die die Anwendungs Entwicklungskompetenz über den Zertifikat-IP-Pfad erworben haben. 
 
 **Was sind die Vorteile der Anwendungs Entwicklungskompetenz?**
 
@@ -68,6 +68,6 @@ Sie können die Vorteile der Anwendungs Entwicklungskompetenz auf der Microsoft-
 
 **Wie kann ich dieses Angebot erhalten, wenn mein Unternehmen nicht über die ISV-Kompetenz verfügte?**
 
-Dieses Angebot ist nur für berechtigte Partner verfügbar – Personen mit der ISV-Kompetenz oder der Anwendungs Entwicklungskompetenz über den zertifizierten IP-Pfad. Wir untersuchen aktiv kurzfristige und langfristige umfassende Lösungen für die Betreuung von ISVs und geben in Kürze weitere Details weiter. 
+Dieses Angebot ist nur für berechtigte Partner verfügbar – Personen mit der ISV-Kompetenz oder der Anwendungs Entwicklungskompetenz über den Zertifikat-IP-Pfad. Wir untersuchen aktiv kurzfristige und langfristige umfassende Lösungen für die Betreuung von ISVs und geben in Kürze weitere Details weiter. 
 
 

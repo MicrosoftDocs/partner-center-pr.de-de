@@ -2,22 +2,24 @@
 title: Vom Partner erworbenes Guthaben für verwaltete Dienste (Vorschau) | Partner Center
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Wichtige Informationen zu von Partnern erworbenen Gutschriften
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a20305b72bd3c72fe9aab21b9b7b48c7ce5104e6
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: c21c8b249f184827083fd95279925a048c35a97a
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428425"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652578"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Wie von Partnern erworbene Guthaben berechnet und bezahlt werden
 
-Von Partnern erworbene Guthaben für verwaltete Dienste (Partner-Earned Credit, PEC) bedeuten Anerkennung und Belohnung für Partner, die die Kontrolle und Verwaltung der IT Operations der Azure-Umgebungen ihrer Kunden rund um die Uhr ganz oder teilweise innehaben. Standardmäßig werden Partnern in CSP die erforderlichen Zugriffsrechte auf das Abonnement des Kunden erteilt, die es ihnen ermöglichen, die Verwaltung und Steuerung des Betriebs der Ressourcen des Abonnements rund um die Uhr durchzuführen. Weitere Möglichkeiten, wie der Kunde den Zugriff für den handelnden Partner bereitstellen kann, sind im folgenden Abschnitt beschrieben. Der monatliche Rechnungsbetrag ist bezogen auf die vom Partner erworbene Gutschrift netto. Die Partner können die PEC-Details in ihrer monatlichen Abstimmungsdatei sehen. Informationen zu weiteren Verfahren, mit denen ein Kunde den Zugriff für den handelnden Partner bereitstellen kann, finden Sie unter [Verwalten von Abonnements und Ressourcen in einem Azure-Plan](azure-plan-manage.md).
+Von Partnern erworbene Guthaben für verwaltete Dienste (Partner-Earned Credit, PEC) bedeuten Anerkennung und Belohnung für Partner, die die Kontrolle und Verwaltung der IT Operations der Azure-Umgebungen ihrer Kunden rund um die Uhr ganz oder teilweise innehaben. Standardmäßig werden Partnern in CSP die erforderlichen Zugriffsrechte auf das Kundenabonnement erteilt, die es ihnen ermöglichen, die operative Verwaltung und Steuerung der Abonnementressourcen rund um die Uhr (24/7) durchzuführen. Weitere Möglichkeiten, wie der Kunde den Zugriff für den handelnden Partner bereitstellen kann, sind im folgenden Abschnitt beschrieben. Der monatliche Rechnungsbetrag ist bezogen auf die vom Partner erworbene Gutschrift netto. Die Partner können die PEC-Details in ihrer monatlichen Abstimmungsdatei sehen. Informationen zu weiteren Verfahren, mit denen ein Kunde den Zugriff für den handelnden Partner bereitstellen kann, finden Sie unter [Verwalten von Abonnements und Ressourcen in einem Azure-Plan](azure-plan-manage.md).
 
 Lesen Sie auch [Reaktivieren von Administratorrechten für Azure CSP-Abonnements](revoke-reinstate-csp.md).
 
@@ -25,9 +27,9 @@ Lesen Sie auch [Reaktivieren von Administratorrechten für Azure CSP-Abonnements
 
 - Der Partner sollte einen aktiven MPN-Vertrag und eine gültige RBAC-Rolle besitzen, um erworbene Gutschriften für die von ihm verwalteten Azure-Ressourcen zu erhalten. 
 
-- Im Fall indirekter Anbieter und ihrer indirekten Wiederverkäufer ist der indirekte Anbieter für PEC qualifiziert, wenn entweder er, der indirekte Wiederverkäufer oder beide die Steuerung und Verwaltung des Betriebs der Azure-Ressourcen des Kunden in CSP rund um die Uhr innehaben.
+- Im Fall indirekter Anbieter und ihrer indirekten Wiederverkäufer ist der indirekte Anbieter für PEC qualifiziert, wenn entweder er, der indirekte Wiederverkäufer oder beide die operative Steuerung und Verwaltung der Azure-Ressourcen des Kunden in CSP rund um die Uhr (24/7) sicherstellen.
 
-- PEC ist der abgerechneten (kostenpflichtigen) Nutzung des Azure-Besitzes des Kunden in CSP zugeordnet, der vom Partner verwaltet wird. PEC ist nur für Partner in CSP verfügbar, die mit Microsoft abrechnen (indirekter Anbieter und Direktrechnungspartner). 
+- PEC ist der abgerechneten (kostenpflichtigen) Nutzung der Azure-Umgebung des Kunden in CSP zugeordnet, die vom Partner verwaltet wird. PEC ist nur für Partner in CSP verfügbar, die mit Microsoft abrechnen (indirekter Anbieter und Direktrechnungspartner). 
 
 - Berechtigte Dienste: Von Partnern erworbenes Guthaben kann auf Dienste angerechnet werden, die in den **Preisen für Azure-Plannutzung** aufgelistet sind, die Partner von der Seite [Azure-Plan-Preise](https://partner.microsoft.com/commerce/sales) exportieren können. Beachten Sie, dass es Ausnahmen gibt, beispielsweise Produkte von Drittanbietern, die in der **Tags**-Spalte der Preisliste für die Azure-Plannutzung und Azure-Plan Reservierungen als **Drittanbieter** gekennzeichnet sind, sowie Produkte in der Marketplace-Preisliste.
 

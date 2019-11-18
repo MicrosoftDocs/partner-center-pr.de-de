@@ -2,18 +2,20 @@
 title: Erstellen eines Unternehmensprofils | Partner Center
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Erstellen Sie ein im Partner Center Unternehmensprofil, um Vertriebsleads von Microsoft zu erhalten.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, Empfehlungen, Vertriebskontakte, C2PC, Unternehmensprofil, Unternehmen vermarkten, Partner finden, Lösungsanbieter finden, Unternehmensprofil, Marketingprofil
 ms.localizationpriority: high
-ms.openlocfilehash: 8f18bb460495fc6f95af92e6510827ff13d0b8bc
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: 75c38b5844f60fc21326c546ac97db9868ab0e02
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997863"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653611"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -66,11 +68,11 @@ Das Logo kann eine GIF-, JPG- oder PNG-Datei mit einer maximalen Breite von 300 
 
 Die Beschreibung kann bis zu 2.500 Zeichen lang sein. Tipps für eine aussagekräftige Beschreibung: 
 
--  **Halten Sie sich kurz**. Die ersten ein oder zwei Sätze sollten die wichtigsten Informationen enthalten. Dies sollte die Überschrift sein, die die Aufmerksamkeit der Kunden erregt. Auf der Seite „Einen Partner suchen“ werden die ersten ein oder zwei Zeilen in der Vorschau der Suchergebnisse angezeigt.
--  **Konzentrieren Sie sich auf Ihre Erfahrungen mit Microsoft-spezifischen Angeboten**. Kunden, die Empfehlungen suchen, möchten in der Regel Partner mit Microsoft-spezifischen Erfahrungen ausfindig machen.
+-  **Fasse dich kurz**. Die ersten ein oder zwei Sätze sollten die wichtigsten Informationen enthalten. Mit der Überschrift solltest du die Aufmerksamkeit der Kunden gewinnen. Auf der Seite „Einen Partner suchen“ werden die ersten ein oder zwei Zeilen in der Vorschau der Suchergebnisse angezeigt.
+-  **Konzentriere dich auf die Erfahrungen mit Microsoft-spezifischen Angeboten**. Kunden, die Empfehlungen suchen, möchten in der Regel Partner mit Microsoft-spezifischen Erfahrungen ausfindig machen.
 -  **Aufzählungen verwenden**. Unterteilen Sie Informationen in eine Liste mit Aufzählungszeichen, die leichter zu überfliegen ist.
 -  **Fachsprache vermeiden**. Verwenden Sie einfache Alltagssprache, und benennen Sie Ihre Angebote nach ihren Funktionen – welche Geschäftsanforderungen sie erfüllen oder welche Aufgaben und Ziele Kunden mit ihnen erreichen.
--  **Machen Sie sich keine Gedanken darüber, die Beschreibung mit Stichwörtern zu füllen**. Die Kundensuchtools suchen nicht in der Beschreibung, sondern im Abschnitt „Partnererfahrung“ nach Stichwörtern.
+-  **Schlüsselwörter für die Suche spielen in der Beschreibung keine Rolle**. Die Kundensuchtools suchen nicht in der Beschreibung, sondern im Abschnitt „Partnererfahrung“ nach Stichwörtern.
 -  **Ihr Profil aktuell halten**. Aktualisieren Sie mit jeder Software- oder Dienstveröffentlichung Ihr Profil, und stimmen Sie es mit Ihrer Unternehmenswebsite ab.
 -  **Verweisen Sie nicht auf ein anderes Microsoft-Partnerunternehmen nach Namen**, es sei denn, es ist eine Tochtergesellschaft oder ist Ihrem Unternehmens aus irgendeinem anderen Grund zugeordnet, oder Sie haben eine aktuelle Vereinbarung mit diesem Partnerunternehmen, gemeinsame Arbeitschancen partnerschaftlich zu nutzen oder einander dabei zu begünstigen.
 -  Ziehen Sie **für Regionen mit mehreren Sprachen** die Einbindung von Text in mehreren Sprachen in die Beschreibung in Erwägung.
@@ -95,30 +97,30 @@ Beginnen Sie, indem Sie Ihre eigenen Tags im Abschnitt „Partnererfahrung“ hi
 -  **Lösungen, Kenntnisse und Fähigkeiten**. Diese Tags können frei formuliert werden und bieten Ihnen die Möglichkeit, Suchbegriffe hinzuzufügen, die speziell für Ihre Fähigkeiten gelten.
 
 Andere bei der Suche verwendete Tags:
--  **Kompetenz-Tags** sind eine Auszeichnung, die sich Ihr Unternehmen für seine Kenntnisse verdient hat.
+-  **Kompetenz-Tags** sind eine Auszeichnung, die sich ein Unternehmen für seine Kenntnisse verdient hat.
 -  **Unterstützungs-Tags** werden erzielt, wenn Microsoft oder Ihre Kunden, die mit Ihnen gearbeitet haben, Ihre Arbeit unterstützen.
 
 #### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Microsoft die Unterstützung meiner Fachgebiete erlauben
 
 Es wird empfohlen, diese Einstellung aktiviert zu lassen. 
 
-Wenn Sie Erfolge mit Kunden über das Partner Center oder durch die Teilnahme an anderen Microsoft-Zertifizierungen oder -Programmen nachweisen, fügen wir automatisch Unterstützungen für Ihre spezifischen Produkte, Dienste und Branchen hinzu, die zu diesem Erfolg beitragen. Unterstützungen sind ein wichtiger Faktor in Suchergebnissen.
+Wenn du Kundenerfolge über das Partner Center oder durch die Teilnahme an anderen Microsoft-Zertifizierungen oder -Programmen nachweist, fügen wir automatisch Unterstützung für deine spezifischen Produkte, Dienste und Branchen hinzu, die zu diesem Erfolg beitragen. Unterstützungen sind ein wichtiger Faktor in Suchergebnissen.
 
-Wenn es Produkte gibt, für die Sie Leistungen erbringen, die Sie lieber nicht in Ihrem Profil anzeigen möchten, können Sie dieses Kontrollkästchen deaktivieren und Ihr Profil manuell verwalten. Diese Unterstützungen werden aus der Ansicht der Kunden ausgeblendet. Sie können sie jedoch später jederzeit wieder zu Ihrem Profil hinzufügen.
+Wenn es Produkte gibt, für die du Leistungen erbringst, die du lieber nicht in deinem Profil anzeigen möchtest, kannst du dieses Kontrollkästchen deaktivieren und dein Profil manuell verwalten. Diese Unterstützungen werden aus der Ansicht der Kunden ausgeblendet. Sie können sie jedoch später jederzeit wieder zu Ihrem Profil hinzufügen.
 
 ### <a name="customer-preferences"></a>Kundenpräferenzen
 
 #### <a href="" id="#target_size"></a>Zielgröße
 
-Sie können Empfehlungen von Unternehmen ablehnen, die nicht Ihrer Kundenzielgröße entsprechen.
+Du kannst Empfehlungen von Unternehmen ablehnen, die nicht deiner Kundenzielgröße entsprechen.
 
-Durch die Ablehnung haben Sie mehr Zeit für Unternehmen, die denjenigen entsprechen, mit dem Sie lieber zusammenarbeiten möchten.
+Durch die Ablehnung bleibt dir mehr Zeit für die Zusammenarbeit mit Unternehmen, die deiner Zielgruppe angehören.
 
 #### <a href="" id="#locations"></a> Standorte
 
 Sie können pro Region bis zu 5 der wichtigsten Standorte Ihrer Organisation hinzufügen. Diese Standorte werden angezeigt, wenn Kunden basierend auf der geografischen Nähe nach Partnern suchen.
 
-Geben Sie Standorte an, die offizielle Geschäftssitze sind und überprüft werden können. Wählen Sie Standorte aus, die für die Märkte, die Sie bedienen, von zentraler Bedeutung sind, und die die Fähigkeit Ihres Unternehmens, Anforderungen zu erfüllen, am besten repräsentieren.
+Geben Sie Standorte an, die offizielle Geschäftssitze sind und überprüft werden können. Wähle Standorte aus, die für die Märkte, die du bedienst, von zentraler Bedeutung sind, und die die Fähigkeit deines Unternehmens, Anforderungen zu erfüllen, am besten repräsentieren.
 
 Wenn Sie die Standortinformationen aktualisiert haben, wählen Sie **Diesen Standort speichern** oder **Diesen Standort speichern und einen weiteren hinzufügen** aus (auch, wenn Sie nur einen Standort hinzufügen).
 
@@ -135,7 +137,7 @@ Nachdem Sie Ihr Profil veröffentlicht haben, werden Aktualisierungen in Suchanf
 ## <a name="improve-the-visibility-of-your-profile"></a>Verbessern der Sichtbarkeit Ihres Profils 
 
 - **[Reagieren Sie schnell auf Anfragen](responding-to-referrals.md)** . Wenn Sie eine Kundenempfehlung erhalten, kann eine schnellere Antwort für zukünftige Kunden zu besseren Ergebnissen auf den Suchseiten führen.
-- **Seien Sie wählerisch bei Ihren Tags**.  Es ist besser, weniger Tags zu haben, die die Angebote, Lösungen, Nutzenversprechen und Alleinstellung Ihres Unternehmens am besten darstellen, damit Sie konsistent Erfolge nachweisen können.  Davon profitieren Sie in zukünftigen Suchergebnissen.
+- **Seien Sie wählerisch bei Ihren Tags**.  Es ist besser, weniger Tags zu haben, die die Angebote, Lösungen, Nutzenversprechen und Alleinstellung deines Unternehmens am besten darstellen, damit du konsistent Erfolge nachweisen kannst.  Davon profitieren Sie in zukünftigen Suchergebnissen.
 - **Verdienen Sie sich Kompetenz-Tags** über Microsoft, um Ihr Sachverständnis in Bezug auf unsere Produkte zu demonstrieren.
 - **Verdienen Sie sich Unterstützungs-Tags** von Kunden, die Ihre Arbeit zu schätzen wissen.
 

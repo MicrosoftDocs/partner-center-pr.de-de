@@ -2,17 +2,19 @@
 title: Verwalten von Abonnements und Ressourcen in einem Azure-Plan | Partner Center
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Erwerben mehrerer Azure-Abonnements im Azure-Plan
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: c86dee497df6701be0b0c1a734d37823ec51ca9c
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: ededae0c8e8212697648cda2c00f23fd457fa877
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428498"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653853"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Verwalten von Abonnements und Ressourcen in einem Azure-Plan
 
@@ -21,11 +23,11 @@ Wenn Sie einen Kunden auf den Azure-Plan umstellen, werden Ihnen standardmäßig
  > [!NOTE]
  > Die Administratorrechte für das Azure-Abonnement können vom Kunden auf Abonnement-, Ressourcengruppen- oder Workloadebene entfernt werden. 
 
- Partner können Betriebskontrolle und Verwaltung der Azure-Ressourcen eines Kunden in CSP rund um die Uhr erreichen, indem sie verschiedene Optionen verwenden, die durch die Funktion zur rollenbasierten Zugriffsteuerung (RBAC) zur Verfügung gestellt werden. 
+ Partner können die operative Kontrolle und Verwaltung der Azure-Ressourcen eines Kunden in CSP rund um die Uhr (24/7) erreichen, indem sie verschiedene Optionen verwenden, die über die Funktion zur rollenbasierten Zugriffsteuerung (RBAC) zur Verfügung gestellt werden. 
 
-- **Administrator im Auftrag von (Admin on Behalf Of, AOBO)** : Mit [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) hat jeder Benutzer mit der Rolle Administrator-Agent im Partnermandanten RBAC-Besitzerzugriff auf Azure-Abonnements, die Sie im Rahmen des CSP-Programms erstellen.
+- **Administrator im Auftrag von (Admin on Behalf Of, AOBO)** : Mit [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) hat jeder Benutzer mit der Rolle „Administrator-Agent“ im Partnermandanten RBAC-Besitzerzugriff auf Azure-Abonnements, die du im Rahmen des CSP-Programms erstellst.
 
-- **Azure Lighthouse**: AOBO bietet nicht die Flexibilität, verschiedene, getrennte Gruppen zu erstellen, die mit verschiedenen Kunden zusammenarbeiten, oder für Gruppen und Benutzer verschiedene Rollen zu aktivieren. Mithilfe von Azure Lighthouse können Sie verschiedene Gruppen verschiedenen Kunden oder Rollen zuweisen. Da Benutzer in Form der delegierten Ressourcenverwaltung von Azure über eine geeignete Zugriffsebene verfügen, können Sie die Anzahl der Benutzer verringern, die über die Rolle „Administrator-Agent“ verfügen (und daher vollständigen AOBO-Zugriff besitzen). Dies hilft, die Sicherheit zu verbessern, indem unnötiger Zugriff auf die Ressourcen Ihrer Kunden vermieden wird. Außerdem erhalten Sie mehr Flexibilität beim Verwalten mehrerer Kunden in großem Maßstab. Weitere Informationen finden Sie unter [Azure Lighthouse und das Programm für Cloud-Lösungsanbieter](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider).
+- **Azure Lighthouse**: AOBO bietet nicht die Flexibilität, verschiedene, getrennte Gruppen zu erstellen, die mit verschiedenen Kunden zusammenarbeiten, oder für Gruppen und Benutzer verschiedene Rollen zu aktivieren. Mithilfe von Azure Lighthouse können Sie verschiedene Gruppen verschiedenen Kunden oder Rollen zuweisen. Da Benutzer in Form der delegierten Ressourcenverwaltung von Azure über eine geeignete Zugriffsebene verfügen, können Sie die Anzahl der Benutzer verringern, die über die Rolle „Administrator-Agent“ verfügen (und daher vollständigen AOBO-Zugriff besitzen). Dies hilft, die Sicherheit zu verbessern, indem unnötiger Zugriff auf die Ressourcen deiner Kunden vermieden wird. Außerdem erhalten Sie mehr Flexibilität beim Verwalten mehrerer Kunden in großem Maßstab. Weitere Informationen finden Sie unter [Azure Lighthouse und das Programm für Cloud-Lösungsanbieter](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider).
 
 -  **Verzeichnis- oder Gastbenutzer oder [Dienstprinzipale](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** : Sie können den Zugriff auf CSP-Abonnements im Detail delegieren, indem Sie Benutzer im Kundenverzeichnis hinzufügen oder Gastbenutzer hinzufügen und ihnen spezifische RBAC-Rollen zuweisen. 
 
@@ -39,8 +41,8 @@ Die folgende Tabelle zeigt die Methoden. die verwendet werden, um Ihre Partner-I
 |-----------------|:------------------------|:------------------|
 |AOBO   |Ein direkter CSP-Partner oder ein indirekter Anbieter erstellt das Abonnement für den Kunden und macht dabei den direkten CSP-Partner oder den indirekten Anbieter mithilfe von AOBO zum Standardbesitzer des Abonnements. Direkte CSP-Partner oder indirekte Anbieter erteilen indirekten Zugriff auf das Abonnement für Wiederverkäufer mithilfe von AOBO.|Automatisch (keine Aktion vom Partner erforderlich)|
 |Azure Lighthouse|Partner erstellt ein neues [Angebot für verwaltete Dienste in Marketplace](https://docs.microsoft.com/azure/lighthouse/concepts/managed-services-offers). Dieses Angebot wird im CSP-Abonnement angenommen, und der Partner erhält Zugriff auf das CSP-Abonnement.|Automatisch (keine Aktion vom Partner erforderlich)|
-|Azure Lighthouse|Der Partner stellt eine [ARM-Vorlage](https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer) im Azure-Abonnement bereit|Der Partner muss die MPN-ID im Partnermandanten dem Benutzer oder Dienstprinzipal zuordnen. Weitere Informationen finden Sie unter [Verknüpfung mit Partner-ID](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).|
-|Verzeichnis- oder Gastbenutzer|Der Partner erstellt im Kundenverzeichnis einen neuen Benutzer oder Dienstprinzipal und erteilt dem Benutzer Zugriff auf das CSP-Abonnement. Der Partner erstellt im Kundenverzeichnis einen neuen Benutzer oder Dienstprinzipal. Der Partner fügt den Benutzer einer Gruppe hinzu, und erteilt der Gruppe Zugriff auf das CSP-Abonnement.|Der Partner muss im Kundenmandanten die MPN-ID dem Benutzer oder Dienstprinzipal zuordnen. Weitere Informationen finden Sie unter [Verknüpfung mit Partner-ID](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).|
+|Azure Lighthouse|Der Partner stellt eine [ARM-Vorlage](https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer) im Azure-Abonnement bereit|Der Partner muss die MPN-ID im Partnermandanten dem Benutzer oder Dienstprinzipal zuordnen. Weitere Informationen findest du unter [Verknüpfung mit Partner-ID](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).|
+|Verzeichnis- oder Gastbenutzer|Der Partner erstellt im Kundenverzeichnis einen neuen Benutzer oder Dienstprinzipal und erteilt dem Benutzer Zugriff auf das CSP-Abonnement. Der Partner erstellt im Kundenverzeichnis einen neuen Benutzer oder Dienstprinzipal. Der Partner fügt den Benutzer einer Gruppe hinzu, und erteilt der Gruppe Zugriff auf das CSP-Abonnement.|Der Partner muss im Kundenmandanten die MPN-ID dem Benutzer oder Dienstprinzipal zuordnen. Weitere Informationen findest du unter [Verknüpfung mit Partner-ID](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).|
 
 ## <a name="confirm-that-you-have-admin-access"></a>Überprüfen Sie, ob Sie über Administratorzugriff verfügen
 

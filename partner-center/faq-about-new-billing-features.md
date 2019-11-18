@@ -2,17 +2,19 @@
 title: Häufig gestellte Fragen zu neuen Abrechnungsfunktionen | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: Im Folgenden finden Sie häufig gestellte Fragen zur jährlichen Abrechnung und zu kostenlosen Testversionen von Partner Center.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
-ms.openlocfilehash: 6f9e3468cd9030be24d66709f3d36aa63b941d2b
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: db43e1904e5299ca552cb4f294f801e2cb94da24
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318822"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653127"
 ---
 # <a name="faq-about-new-billing-features"></a>Häufig gestellte Fragen zu neuen Abrechnungsfunktionen
 
@@ -74,7 +76,7 @@ Abschnitte:
 
     - Mehr Flexibilität im Hinblick auf die Zahlungsoptionen
 
-    - Bessere Abstimmung mit der Fakturierung Ihrer Kunden
+    - Bessere Abstimmung mit der Fakturierung von Kunden
 
     - Geringere Auswirkungen von Wechselkursschwankungen
 
@@ -82,7 +84,7 @@ Abschnitte:
 
 **F:** Für welche Angebote ist die jährliche Abrechnung verfügbar?
 
--   **A:** Bei den meisten lizenzbasierten Abonnements können Sie zwischen monatlicher und jährlicher Abrechnung wählen. Für nutzungsbasierte Abonnements ist nur die monatliche Abrechnung verfügbar. Die verfügbaren Abrechnungshäufigkeiten für jedes Angebot sind in der Spalte „J“ der Angebotsmatrix angegeben. Die Angebotsmatrix finden Sie im Abschnitt „Anzeigen von Angeboten und Preisen” in Partner Center. .
+-   **A:** Bei den meisten lizenzbasierten Abonnements können Sie zwischen monatlicher und jährlicher Abrechnung wählen. Für nutzungsbasierte Abonnements ist nur die monatliche Abrechnung verfügbar. Die verfügbaren Abrechnungshäufigkeiten für jedes Angebot sind in der Spalte „J“ der Angebotsmatrix angegeben. Die Angebotsmatrix findest du im Abschnitt „Anzeigen von Angeboten und Preisen” im Partner Center. .
 
 **F:** Erfolgt die jährliche Abrechnung pro Abonnement oder pro Lizenz?       
 
@@ -130,7 +132,7 @@ Abschnitte:
 
 **F:** Kann ein Kunde mehrere Abonnements für das gleiche Angebot mit unterschiedlichen Abrechnungshäufigkeiten haben?    
 
--   **A:** Das hängt vom Angebot ab. Bestimmte Angebote sind auf ein Abonnement pro Kunde beschränkt. Wenn für das Angebot keine Einschränkung gelten, kann ein Kunde mehrere Abonnements für das gleiche Angebot mit unterschiedlichen Abrechnungshäufigkeiten besitzen. Details zu allen Angebotseinschränkungen sind in der Spalte „I“ der Angebotsmatrix angegeben. Die Angebotsmatrix finden Sie im Abschnitt „Anzeigen von Angeboten und Preisen” in Partner Center.
+-   **A:** Das hängt vom Angebot ab. Bestimmte Angebote sind auf ein Abonnement pro Kunde beschränkt. Wenn für das Angebot keine Einschränkung gelten, kann ein Kunde mehrere Abonnements für das gleiche Angebot mit unterschiedlichen Abrechnungshäufigkeiten besitzen. Details zu allen Angebotseinschränkungen sind in der Spalte „I“ der Angebotsmatrix angegeben. Die Angebotsmatrix findest du im Abschnitt „Anzeigen von Angeboten und Preisen” im Partner Center.
 
 <a href="" id="changingyoursubscription"></a>**Ändern des Abonnements**
 
@@ -232,7 +234,7 @@ Abschnitte:
 
 -   **A:** Derzeit erfolgen alle Incentive-Zahlungen zweimal pro Jahr. Diese Zahlungen erfolgen 45 Tage nach Halbjahresende.
 
-**F:** Wie werden die Umsatzerlöse eines Abonnements mit jährlicher Abrechnung für die Berechnung der Incentives verbucht, wenn das Abonnement verkauft wird? Erfolgt die Berechnung auf der Grundlage der fakturierten oder der angepassten Umsatzerlöse? 
+**F:** Wie werden die Umsatzerlöse eines Abonnements mit jährlicher Abrechnung mit der Berechnung der Incentives verbucht? Erfolgt die Berechnung auf der Grundlage der fakturierten oder der angepassten Umsatzerlöse? 
 
 -   **A:** Incentive-Berechnungen basieren auf den fakturierten Umsatzerlösen.
 
@@ -322,7 +324,7 @@ Abschnitte:
 
 **F10:** Wird eine kostenlose Testversion automatisch in ein kostenpflichtiges Abonnement umgewandelt?
 
--   **A:** Nein. Sie müssen das Abonnement selbst in Partner Center oder über die API umwandeln.
+-   **A:** Nein. Der Partner muss das Abonnement selbst in Partner Center oder über die API umwandeln.
 
 **F11:** Können kostenlose Testversionen sowohl für Abonnements mit monatlicher als auch jährlicher Abrechnung verwendet werden?
 
@@ -350,7 +352,7 @@ Abschnitte:
 
 **F17:** Werde ich benachrichtigt, wenn kostenlose Testversionen ablaufen?
 
--   **A:** Nein. Sie können bevorstehende Ablauftermine in der Kundenansicht in Partner Center verfolgen oder das Datum mit der API abfragen. Sie sollten diese Datumsangaben regemäßig überprüfen, damit Sie zusammen mit dem Kunden die entsprechenden Folgeaktionen durchführen können, wenn eine Entscheidung getroffen werden muss.
+-   **A:** Nein. Sie können bevorstehende Ablauftermine in der Kundenansicht in Partner Center verfolgen oder das Datum mit der API abfragen. Du solltest die Datumsangaben regemäßig überprüfen, damit du zusammen mit dem Kunden die entsprechenden Folgeaktionen durchführen kannst, wenn eine Entscheidung getroffen werden muss.
 
 **F18:** Kann ein Kunde, der bereits eine kostenlose Testversion für ein Angebot genutzt hat, weitere Testversionen für andere Angebote erhalten? 
 
@@ -382,7 +384,7 @@ Abschnitte:
 
 ## <a href="" id="billingalignmentfaq"></a>Rechnungsanpassung: Aufhebung des kostenlosen Zeitraums
 
-Die „Anpassung des Abrechnungsdatums“ für neue Abonnements mit monatlicher Abrechnung wird ab dem 21. Februar 2018 im Cloud Solution Provider-Programm (CSP) implementiert. Diese „Abrechnungskoordination” wird den Partnern mehr Flexibilität und Vorhersagbarkeit für Vertrieb, Abrechnung, Bereitstellung und Verwaltung von Kundenabonnements bieten. 
+Die „Anpassung des Abrechnungsdatums“ für neue Abonnements mit monatlicher Abrechnung wird ab dem 21. Februar 2018 im Cloud Solution Provider-Programm (CSP) implementiert. Diese „Anpassung des Rechnungsdatums” bietet den Partnern mehr Flexibilität und Vorhersagbarkeit für Vertrieb, Abrechnung, Bereitstellung und Verwaltung von Kundenabonnements. 
 
 **UPDATE – 23. FEBRUAR:**  Wir hatten die Implementierung bereits für den 20. Februar angekündigt, aber sie hat sich leicht verzögert und ist nach Produktkategorien gestaffelt.  In der folgenden Tabelle finden Sie das Implementierungsdatum für die verschiedenen Produktkategorien. 
 
@@ -395,7 +397,7 @@ Die „Anpassung des Abrechnungsdatums“ für neue Abonnements mit monatlicher 
 
 Für Abonnements, die vor dem Implementierungsdatum (siehe obige Tabelle) gekauft wurden, gilt ein kostenloser Zeitraum vom Kaufdatum bis zum Abrechnungsdatum des Partners. Abonnements, die nach dem Implementierungsdatum gekauft wurden, erhalten keinen kostenlosen Zeitraum mehr. Die 12-monatige Zahlungsfrist beginnt mit dem Kaufdatum auf der Partnerabrechnung. Partnern wird keine Rechnungszeile mehr mit einem Nullbetrag angezeigt, die den kostenlosen Zeitraum in der Abstimmungsdatei darstellt. Es gibt keine Änderungen an APIs, Fakturierung oder Incentives.  Partner sollten ihre Verkaufs- und Buchhaltungsteams über diese neue Abrechnungslogik informieren und sicherstellen, dass alle Vorgänge bei Bedarf angepasst werden.  
 
-Vor der Anpassung des Abrechnungsdatums sind wir bei der Rechnungsstellung von dem Datum ausgegangen, an dem der Partner dem CSP-Programm beigetreten ist, und nicht von dem Datum, an dem der Kunde das Abonnement erworben hat. Nach dem Implementierungsdatum erfolgt die Abrechnung für Partner zum Jahrestag des Abonnements, wodurch dieser kostenlose Zeitraum entfällt.  Partner erhalten weiterhin Rechnungen zu ihrem Abrechnungsdatum, das effektive Rechnungsdatum ist jedoch der Jahrestag des Kundenabonnements. 
+Vor der Anpassung des Abrechnungsdatums sind wir bei der Rechnungsstellung von dem Datum ausgegangen, an dem der Partner dem CSP-Programm beigetreten ist, und nicht von dem Datum, an dem der Kunde das Abonnement erworben hat. Nach dem Implementierungsdatum erfolgt die Abrechnung für Partner zum Jahrestag des Abonnements, wodurch dieser kostenlose Zeitraum entfällt.  Partner erhalten weiterhin Rechnungen zum Jahrestag der Abrechnung, das effektive Rechnungsdatum ist jedoch der Jahrestag des Kundenabonnements. 
 
 Abonnements, die sich zum Implementierungsdatum im kostenlosen Zeitraum befinden, werden zwischen dem Kaufdatum und dem Abrechnungsdatum des Partners nicht berechnet. Zudem werden sie im ersten Monat der kostenpflichtigen Laufzeit von zwölf Monaten nicht in Rechnung gestellt. Wenn Sie eine Abstimmungsdatei zur Überprüfung verwenden, beachten Sie, dass die Gebühren für diesen ersten Monat nicht mehr angezeigt werden.  
 
@@ -428,7 +430,7 @@ Abonnements, die sich zum Implementierungsdatum im kostenlosen Zeitraum befinden
 
 **F6:** Was geschieht, wenn ich das Abonnement am 29., 30. oder 31. eines Monats erwerbe?
 
-- **A:** Das Abonnement ist ab dem Kaufdatum verfügbar, die kostenpflichtige Laufzeit von zwölf Monaten beginnt jedoch erst am ersten Tags des Folgemonats.
+- **A:** Das Abonnement ist ab dem Kaufdatum verfügbar. Die kostenpflichtige Laufzeit von zwölf Monaten beginnt jedoch erst am ersten Tags des Folgemonats.
 
 **F7:** Welche Angebote sind betroffen?
 
@@ -508,8 +510,8 @@ Das Abrechnungsdatum des Partners ist der 15. jedes Monats. Am 1. Juni 2018 ka
 |01.06.2018   |30.06.2018   |30 USD   |1   |30 USD   |Anteilige Gebühren beim Kauf |
 
 Die Abstimmungsdatei vom 15. Juli enthält in diesem Fall die folgenden Rechnungspositionen:
-- -30 USD Stornierungsgutschrift für den Leistungszeitraum 20. Juni – 30. Juni. Die Gutschrift ist nicht anteilig, da das Abonnement in den ersten 30 Tagen ausgesetzt wurde.
-- 30 USD Gebühr für den Leistungszeitraum 25. Juni – 30. Juni. Die Gebühr ist nicht anteilig, da das Abonnement in den ersten 30 Tagen reaktiviert wurde.
+- -30 USD Stornierungsgutschrift für den Leistungszeitraum 20. Juni – 30. Juni Die Gutschrift ist nicht anteilig, da das Abonnement in den ersten 30 Tagen ausgesetzt wurde.
+- 30 USD Gebühr für den Leistungszeitraum 25. Juni – 30. Juni Die Gebühr ist nicht anteilig, da das Abonnement in den ersten 30 Tagen reaktiviert wurde.
 - 30 USD Gebühr für den Leistungszeitraum 1. Juli – 31. Juli.
 
 |**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
@@ -529,11 +531,11 @@ Das Abrechnungsdatum des Partners ist der 15. jedes Monats. Am 1. Juni 2018 ka
 |01.06.2018   |30.06.2018   |30 USD   |1   |30 USD   |Anteilige Gebühren beim Kauf |
 
 Die Abstimmungsdatei vom 15. Juli enthält in diesem Fall die folgenden Rechnungspositionen:
-- -30 USD Stornierungsgutschrift für den Leistungszeitraum 20. Juni – 30. Juni. Die Gutschrift ist nicht anteilig, da das Abonnement in den ersten 30 Tagen ausgesetzt wurde.
-- 30 USD Gebühr für den Leistungszeitraum 25. Juni – 30. Juni. Die Reaktivierungsgebühr ist nicht anteilig, da das Abonnement in den ersten 30 Tagen reaktiviert wurde. Die Gebühr basiert ebenfalls auf der ursprünglichen Anzahl von Lizenzen (eine Lizenz).
-- -6 USD Gutschrift für den Leistungszeitraum 25. Juni – 30. Juni. Die Reaktivierungsgebühr wurde während des Leistungszeitraums 25. Juni – 30. Juni, in dem Sie zwei Lizenzen hatten, nur für eine Lizenz in Rechnung gestellt. Die Gutschrift von -6 USD hebt die fälschlicherweise erhobene Gebühr für den Leistungszeitraum 25. Juni – 30. Juni auf.
-- 12 USD anteilige Gebühr für den Leistungszeitraum 25. Juni – 30. Juni. Der Partner besaß während dieses Leistungszeitraums zwei Lizenzen. Der Preis pro Einheit wird wie folgt berechnet: (30/30)*6*2 = 12 USD.
-- 60 USD Gebühr für den Leistungszeitraum 1. Juli – 31. Juli.
+- -30 USD Stornierungsgutschrift für den Leistungszeitraum 20. Juni – 30. Juni Die Gutschrift ist nicht anteilig, da das Abonnement in den ersten 30 Tagen ausgesetzt wurde.
+- 30 USD Gebühr für den Leistungszeitraum 25. Juni – 30. Juni Die Reaktivierungsgebühr ist nicht anteilig, da das Abonnement in den ersten 30 Tagen reaktiviert wurde. Die Gebühr basiert ebenfalls auf der ursprünglichen Anzahl von Lizenzen (eine Lizenz).
+- -6 USD Gutschrift für den Leistungszeitraum 25. Juni – 30. Juni Die Reaktivierungsgebühr wurde während des Leistungszeitraums 25. Juni – 30. Juni, in dem du zwei Lizenzen hattest, nur für eine Lizenz in Rechnung gestellt. Die Gutschrift von -6 USD hebt die fälschlicherweise erhobene Gebühr für den Leistungszeitraum 25. Juni – 30. Juni auf.
+- 12 USD anteilige Nachberechnung für den Leistungszeitraum 25. Juni –30. Juni Der Partner besaß während dieses Leistungszeitraums zwei Lizenzen. Der Preis pro Einheit wird wie folgt berechnet: (30/30)*6*2 = 12 USD.
+- 60 USD Gebühr für den Leistungszeitraum 1. Juli – 31. Juli
 
 |**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
 |-----------------|:-------------|:----------------|:------------|:------|:------ |--------|
@@ -564,7 +566,7 @@ Am 10. Juli reaktiviert der Partner das Abonnement. Die Abstimmungsdatei vom 15
 |10.07.2018   |31.07.2018   |21,30 USD   |1   |21,30 USD   |Aktivierungsgebühr |
 
 Die Abstimmungsdatei vom 15. August enthält in diesem Fall die folgenden Rechnungspositionen:
-- 30 USD Gebühr für den Leistungszeitraum 1. August – 31. August.
+- 30 USD Gebühr für den Leistungszeitraum 1. August – 31. August
 
 |**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
@@ -586,7 +588,7 @@ Die Abstimmungsdatei vom 15. Juni enthält in diesem Fall nur die folgenden Rec
 Der Partner setzt das Abonnement am 5. Juli aus und reaktiviert es am 15. Juli. Die Abstimmungsdatei vom 15. Juli enthält in diesem Fall die folgenden Rechnungspositionen:
 
 - 30 USD Gebühr für den Leistungszeitraum 1. Juli – 31. Juli.
-- -26,14 USD Stornierungsgutschrift für den Leistungszeitraum 5. Juli – 31. Juli. Stornierungen nach 30 Tagen ab Kaufdatum führen zu einer anteiligen Gutschrift. Berechnung: (monatlicher Preis/Tage im gesamten Leistungszeitraum) x Tage im anteiligen Leistungszeitraum x Lizenzanzahl x (-1) = (30/31) x 27 x 1 x (-1) = -26,14
+- -26,14 USD Stornierungsgutschrift für den Leistungszeitraum 5. Juli – 31. Juli Stornierungen nach 30 Tagen ab Kaufdatum führen zu einer anteiligen Gutschrift. Berechnung: (monatlicher Preis/Tage im gesamten Leistungszeitraum) x Tage im anteiligen Leistungszeitraum x Lizenzanzahl x (-1) = (30/31) x 27 x 1 x (-1) = -26,14
 - 16,45 USD Reaktivierungsgebühr für den Leistungszeitraum 15. Juli–31. Juli. Reaktivierungen nach 30 Tagen ab dem Kaufdatum werden anteilig berechnet. Berechnung: (30/31) x 17 x 1 = 16,45.
 
 |**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
@@ -596,7 +598,7 @@ Der Partner setzt das Abonnement am 5. Juli aus und reaktiviert es am 15. Juli
 |15.07.2018   |31.07.2018   |16,45 USD   |1   |16,45 USD|Aktivierungsgebühr |
 
 Die Abstimmungsdatei vom 15. August enthält in diesem Fall Folgendes:
-- 30 USD Gebühr für den Leistungszeitraum 1. August – 31. August.
+- 30 USD Gebühr für den Leistungszeitraum 1. August – 31. August
 
 |**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
@@ -617,9 +619,9 @@ Am 1. Juli, dem Startdatum des Abonnements, registriert das Microsoft-Abrechnun
 Die Abstimmungsdatei vom 15. Juli enthält in diesem Fall Folgendes:
 
 - -30 USD Gutschrift für den Leistungszeitraum 1. Juni – 30. Juni.
-- 9 USD anteilige Gebühr für den Leistungszeitraum 1. Juni – 9. Juni. Dies ist der Zeitraum, in dem der Kunde eine Lizenz besaß. Berechnung: (monatlicher Preis/Tage im gesamten Leistungszeitraum) x Tage im anteiligen Leistungszeitraum x Lizenzanzahl = (30/30) x 9 x 1 = 9
-- 42 USD anteilige Gebühr für den Leistungszeitraum 10. Juni – 30. Juni. Dies ist der Zeitraum, in dem der Kunde zwei Lizenzen besaß. Berechnung: (30/30) x 21 x 2 = 42.
-- 60 USD Gebühr für den Leistungszeitraum 1. Juli – 31. Juli.
+- 9 USD anteilige Nachberechnung für den Leistungszeitraum 1. Juni – 9. Juni Dies ist der Zeitraum, in dem der Kunde eine Lizenz besaß. Berechnung: (monatlicher Preis/Tage im gesamten Leistungszeitraum) x Tage im anteiligen Leistungszeitraum x Lizenzanzahl = (30/30) x 9 x 1 = 9
+- 42 USD anteilige Nachberechnung für den Leistungszeitraum 10. Juni – 30. Juni Dies ist der Zeitraum, in dem der Kunde zwei Lizenzen besaß. Berechnung: (30/30) x 21 x 2 = 42.
+- 60 USD Gebühr für den Leistungszeitraum 1. Juli – 31. Juli
 
 |**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
@@ -637,7 +639,7 @@ Am 10. Juni kauft der Partner ein Add-On-Abonnement mit einer Lizenz zum Preis 
 Die Abstimmungsdatei vom 15. Juni enthält in diesem Fall die folgenden Rechnungspositionen:
 
 - 30 USD Gebühr für den Leistungszeitraum 1. Juni – 30. Juni. Dies ist die Gebühr für das Basisabonnement.
-- 3,50 USD anteilige Gebühr für den Leistungszeitraum 10. Juni – 30. Juni. Dies ist die Gebühr für das Add-On-Abonnement. 
+- 3,50 USD anteilige Gebühr für den Leistungszeitraum 10. Juni – 30. Juni Dies ist die Gebühr für das Add-On-Abonnement. 
 
 |**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
 |-----------------|:-------------|:----------------|:------------|:------|--------|
@@ -647,7 +649,7 @@ Die Abstimmungsdatei vom 15. Juni enthält in diesem Fall die folgenden Rechnun
 Die Abstimmungsdatei vom 15. Juli enthält in diesem Fall die folgenden Rechnungspositionen:
 
 - 30 USD Gebühr für den Leistungszeitraum 1. Juli – 31. Juli. Dies ist die Gebühr für das Basisabonnement.
-- 5 USD Gebühr für den Leistungszeitraum 1. Juli – 31. Juli. Dies ist die Gebühr für das Add-On-Abonnement.
+- 5 USD Gebühr für den Leistungszeitraum 1. Juli – 31. Juli Dies ist die Gebühr für das Add-On-Abonnement.
 
 |**Beginn der Abrechnung**   |**Ende der Abrechnung**   |**Preis pro Einheit**   |**Anzahl**   |**Betrag**   |**Gebührenart** |
 |-----------------|:-------------|:----------------|:------------|:------|-------|

@@ -2,18 +2,20 @@
 title: Azure-Plan-Preisliste | Partner Center
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Anzeigen der Preisliste für Abonnements im Rahmen eines Azure-Plans
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 53e5327b505de1c1860e44b477aca21b5aef2d2b
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 00649bb67de199409e1c36457dbaf5a915c8354c
+ms.sourcegitcommit: e55fd7b82b90683ac34ab60c284fd6abacbde568
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428551"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73710140"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Preisliste für die neue E-Commerce-Benutzeroberfläche in CSP für Azure 
 
@@ -23,22 +25,16 @@ Die Preisliste für die neue Azure E-Commerce-Benutzeroberfläche in CSP ist im 
 
 1. Wählen Sie im Menü des Partner Centers auf der linken Seite **Verkaufen** und dann **Marketplace** aus.
 
-2. Wählen Sie neben **Exporttyp** **Preise für Azure-Plannutzung** aus.
+2. Wählen Sie unter „Preise für Azure-Plan“ das Land aus, für das Sie Preise aufrufen möchten.
 
-3. Wählen Sie neben **Preise für Datum** das gewünschte Datum aus, beispielsweise **Aktuell**. Hinweis: Sie können auch **Wechselkurse** auswählen, um die aktuellen Wechselkurse zu exportieren.
+3. Wählen Sie neben **Exporttyp** die Option **Preise für Azure-Plannutzung**, **Preise für Azure-Planreservierungen** oder **Wechselkurse** aus. Hinweis: Die Option **Wechselkurse** ist nicht länderspezifisch.
 
-![Azure-Preise 2](images/azure/pricelist2.jpg)
-
-4. Wählen Sie unter **Marketplace** den **Typ** und die **Kategorie** des Produkts aus, oder suchen Sie nach einem Produkt. Auf der Grundlage Ihrer Suche werden die verfügbaren Produkte angezeigt.
-
-![pricing](images/azure/Azurepricelist1.jpg)
-
-5. Wählen Sie dann **Preisliste für Azure-Plan exportieren** aus, um für die von Ihnen ausgewählten Produkte die Preise im Azure-Plan herunterzuladen.
+3. Wählen Sie neben **Preise für Datum** das gewünschte Datum aus, beispielsweise **Aktuell**. 
 
 
-![Preisliste exportieren](images/azure/pricelist1.png)
+![Landesspezifisch](images/azure/pricingnew.png)
 
-
+Hinweis: Sie können zwei verschiedene Preislisten exportieren: Preise für Azure-Pläne und Drittanbieter-Preise für Marketplace. 
 
 ## <a name="azure-price-list-specifics"></a>Besonderheiten der Azure-Preisliste
 
@@ -56,7 +52,7 @@ Die Preisliste für die neue Azure E-Commerce-Benutzeroberfläche in CSP ist im 
 
 - Die Preise in den Preislisten sind Direktpreise. Einige Partner sind möglicherweise für vom Partner erworbene Guthaben qualifiziert. Informationen zur Berechnung des vom Partner erworbenen Guthabens finden Sie unter [Wie von Partnern erworbene Guthaben berechnet und bezahlt werden](partner-earned-credit-explanation.md).
 
-- **Berechtigte Dienste**: Das vom Partnern erworbene Guthaben kann auf Dienste angerechnet werden, die in den **Preisen für Azure-Plannutzung** aufgelistet sind, die Partner von der Seite [Azure-Plan-Preise](https://partner.microsoft.com/commerce/sales) exportieren können. Beachten Sie, dass es Ausnahmen gibt, beispielsweise Produkte von Drittanbietern, die in der Tags-Spalte der Preisliste für die Azure-Plannutzung und Azure-Plan Reservierungen als „Drittanbieter“ gekennzeichnet sind.
+- **Berechtigte Dienste**: Das vom Partnern erworbene Guthaben kann auf Dienste angerechnet werden, die in den **Preisen für Azure-Plannutzung** aufgelistet sind, die Partner von der Seite [Azure-Plan-Preise](https://partner.microsoft.com/commerce/sales) exportieren können. Es gibt jedoch auch Ausnahmen, beispielsweise Produkte von Drittanbietern, die in der Tags-Spalte der Preisliste für die Azure-Plannutzung und Azure-Planreservierungen als „Drittanbieter“ gekennzeichnet sind.
 
 ## <a name="price-list-data"></a>Preislistendaten
 

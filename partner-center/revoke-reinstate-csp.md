@@ -2,17 +2,19 @@
 title: Reaktivieren von Administratorrechten für Azure CSP-Abonnements | Partner Center
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: In diesem Dokument wird erläutert, wie Kunden beim Reaktivieren von Administratorrechten des Partners geholfen werden kann.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 51f19724751b296789a1d5367d9892b21cab4f09
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 1bcbcf32e3b3f4513ed3e55984b49b090da4a734
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73433728"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651704"
 ---
 # <a name="reinstate-admin-privileges-for-azure-csp-subscriptions"></a>Reaktivieren von Administratorrechten für Azure CSP-Abonnements  
 
@@ -29,7 +31,7 @@ Es gibt zwei Ebenen von Administratorrechten für Azure in CSP.
 
 **Administratorrechte auf Mandantenebene** (**Delegierte Administratorrechte**) – CSP-Partner erhalten diese Rechte beim Einrichten der CSP-Vertriebspartnerschaft mit Kunden. Dadurch erhalten CSP-Partner Zugriff auf die Mandanten der Kunden, um administrative Funktionen wie das Hinzufügen/Verwalten von Benutzern, das Zurücksetzen von Kennwörtern und das Verwalten von Benutzerlizenzen durchführen zu können. 
 
-**Administratorrechte auf Abonnementebene** – CSP-Partner erhalten diese Rechte beim Erstellen von Azure CSP-Abonnements für Ihre Kunden. Dadurch erhalten CSP-Partner den vollen Zugriff auf diese Abonnements, um Azure-Ressourcen bereitstellen und verwalten zu können. 
+**Administratorrechte auf Abonnementebene** – CSP-Partner erhalten diese Rechte beim Erstellen von Azure CSP-Abonnements für ihre Kunden. Dadurch erhalten CSP-Partner den vollen Zugriff auf diese Abonnements, um Azure-Ressourcen bereitstellen und verwalten zu können. 
 
 
 ## <a name="reinstate-csp-partners-admin-privileges"></a>Reaktivieren von Administratorrechten für CSP-Partner

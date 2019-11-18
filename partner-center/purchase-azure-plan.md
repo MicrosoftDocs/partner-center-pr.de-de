@@ -2,17 +2,19 @@
 title: Kauf des Azure-Plans | Partner Center
 ms.topic: article
 ms.date: 11/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Erwerben mehrerer Azure-Abonnements im Azure-Plan
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 2fefc10c0b5043e6617f4cea9e9c0245a8532321
-ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
+ms.openlocfilehash: f81b338fef2feeeede17db2e1de84b1d9b0d0ca8
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "73595923"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654164"
 ---
 # <a name="purchase-the-azure-plan"></a>Kauf des Azure-Plans
 
@@ -53,7 +55,7 @@ Sie gelangen zur Seite **Produkt hinzufügen** zurück, auf der Sie sehen könne
   
 Im Partner Center können Sie darüber hinaus Microsoft Azure-Reservierungen im Rahmen des Azure-Plans im Kundenauftrag erwerben.
 
-1. Wählen Sie im Partner Center-Menü auf Ihrem [Dashboard](https://partner.microsoft.com/dashboard/) die Option **Kunden** aus. Suchen Sie den Kunden, der Azure-Reservierungen kaufen möchte. Klicken Sie dann auf den nach unten zeigenden Pfeil, um den Datensatz des Kunden zu erweitern. 
+1. Wählen Sie im Partner Center-Menü auf Ihrem [Dashboard](https://partner.microsoft.com/dashboard/) die Option **Kunden** aus. Suche den Kunden, der Azure-Reservierungen kaufen möchte. Klicke dann auf den nach unten zeigenden Pfeil, um den Datensatz des Kunden zu erweitern. 
 
 2. Wählen Sie **Produkte hinzufügen** und dann **Azure** aus. 
 - Wählen Sie in der Liste **Segment** das Marktsegment des Kunden aus. 
@@ -63,9 +65,9 @@ Im Partner Center können Sie darüber hinaus Microsoft Azure-Reservierungen im 
 Azure-Reservierungen müssen einem aktiven Azure-Abonnement zugeordnet werden. Wählen Sie den Azure-Plan im Abonnement des Kunden aus, dem Sie Azure-Reservierungen hinzufügen möchten. 
 
 >[!Important] 
->Wenn der Kunde noch keinen aktiven Azure-Plan besitzt, wählen Sie Azure aus, um jetzt einen hinzuzufügen. Weitere Anweisungen finden Sie unter [Kaufen von Azure-Reservierungen](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
+>Wenn der Kunde noch keinen aktiven Azure-Plan besitzt, wähle Azure aus, um jetzt einen hinzuzufügen. Weitere Anweisungen finden Sie unter [Kaufen von Azure-Reservierungen](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
 
-Beachten Sie, dass der Umfang der Reservierung derzeit nur auf **Freigegeben** festgelegt werden kann. 
+Der Umfang der Reservierung kann derzeit nur auf **Freigegeben** festgelegt werden. 
 
 ![scopeshared](images/azure/addprods1.png)
 
@@ -84,7 +86,7 @@ Erweitern Sie auf der Seite **Abonnements** im Abschnitt für nutzungsbasierte A
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Hinzufügen von Abonnements und Konfigurieren von Ressourcen
 
-Im Azure-Portal fügen Sie Abonnements für Ihren Kunden hinzu und konfigurieren Ressourcen für ihn. Ferner können Sie die Umgebung Ihres Kunden nach Workload oder Projekt herausstellen. Abonnements können sowohl im Azure-Portal als auch in [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) verwaltet werden. 
+Im Azure-Portal fügen Sie Abonnements für Ihren Kunden hinzu und konfigurieren Ressourcen für ihn. Ferner kann die Umgebung deines Kunden nach Workload oder Projekt unterteilt werden. Abonnements können sowohl im Azure-Portal als auch in [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) verwaltet werden. 
 
 Um die Ressourcen und Abonnements Ihres Kunden zu verwalten, benötigen Sie **AOBO**-Berechtigungen (Admin on Behalf Of, Administrator im Auftrag von). Informationen zum Verwalten Ihres Zugriffs finden Sie unter [Verwalten von Abonnements und Ressourcen im Rahmen des Azure-Plans](azure-plan-manage.md)
 

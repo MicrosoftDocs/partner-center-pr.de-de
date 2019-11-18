@@ -2,22 +2,24 @@
 title: Konsolidieren Ihrer Unternehmenskonten | Partner Center
 ms.topic: article
 ms.date: 09/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Wenn Ihr Unternehmen auf Partner Center umsteigt, werden alle Ihre Konten in einem Konto konsolidiert.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 9aaab99a89fea5239b2296a8374b1d03515445d5
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 6cf0af27145de2107fc7904e9a4cbd602a539f50
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318675"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653630"
 ---
 # <a name="consolidate-your-company-accounts"></a>Konsolidieren Ihrer Unternehmenskonten
 
-In der PMC verfügte Ihr Unternehmen möglicherweise über viele Konten und Standorte. Jeder Standort verfügte über ein eigenes Konto. Wenn Sie zu Partner Center migrieren, werden alle Konten und Standorte in einem primären globalen Konto mit mehreren Standorten konsolidiert. Ihre MPN-IDs, Vorteile, Kompetenzen und Käufe werden ebenfalls verschoben – es geht nichts verloren. 
+Im PMC verfügte dein Unternehmen möglicherweise über viele Konten und Standorte. Jeder Standort hatte ein eigenes Konto. Wenn du zum Partner Center migrierst, werden alle Konten und Standorte in einem primären globalen Konto mit mehreren Standorten konsolidiert. Deine MPN-IDs, Vorteile, Kompetenzen und Käufe werden ebenfalls verschoben – es geht nichts verloren. 
 
 Wenn Sie sich zum ersten Mal bei Partner Center anmelden, werden Sie als MPN-Administrator für Ihr Partner Center-Konto hinzugefügt, damit Sie unter anderem das Konto verwalten, Benutzer hinzufügen und Berechtigungen zuweisen können. 
 

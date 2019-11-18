@@ -1,18 +1,20 @@
 ---
 title: Sicherheitsanforderungen für Partner – FAQ | Partner Center
 ms.topic: article
-ms.date: 09/27/2019
+ms.date: 11/09/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Häufig gestellte Fragen zu den Sicherheitsanforderungen für Partner
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
-ms.openlocfilehash: 43ad23ea7d4b4b39fb2dc6d15095a8416c7360ab
-ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
+ms.openlocfilehash: cbb3cef48b2b4c9141f25ab7cd75bb20e54128de
+ms.sourcegitcommit: 31e9598577981b8a7e484490ed630a2f4db56cf4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73142028"
+ms.lasthandoff: 11/11/2019
+ms.locfileid: "73915031"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Häufig gestellte Fragen zu den Sicherheitsanforderungen für Partner
 
@@ -20,40 +22,17 @@ Dieser Artikel enthält einige häufig gestellte Fragen zu den [Sicherheitsanfor
 
 ## <a name="partner-security-requirements"></a>Sicherheitsanforderungen für Partner
 
-### <a name="what-are-the-new-partner-security-requirements"></a>Welche neuen Sicherheitsanforderungen gelten für Partner?
-
-Um unsere Partner und deine Kunden zu schützen, fordern wir Partner auf, sofort folgende Maßnahmen zu ergreifen:  
-
-1. **Aktivieren der Multi-Factor Authentication (MFA) für alle Benutzer in Partnermandanten**. Alle Benutzer in Partnermandanten müssen die Multi-Factor Authentication (MFA) verwenden, wenn sie sich bei kommerziellen Microsoft-Clouddiensten anmelden oder im CSP (Cloud Solution Provider-Programm) Transaktionen über Partner Center oder APIs ausführen. Durch Aktivierung von Basisschutzrichtlinien ist die MFA kostenlos für alle Benutzer von Partnermandanten verfügbar.
-
-2. **Übernehmen des Frameworks „Sicheres Anwendungsmodell“** . Alle Partner, die eine Integration in eine Microsoft-API wie Azure Resource Manager, Microsoft Graph und die Partner Center-API wünschen, müssen das Framework „Sicheres Anwendungsmodell“ übernehmen, um eine Unterbrechung der Integration zu vermeiden, wenn die Basisrichtlinien aktiviert werden.
-
-Durch Aktivieren der Multi-Factor Authentication (MFA) und Übernehmen des Frameworks „Sicheres Anwendungsmodell“ kannst du deine Infrastruktur sowie die Daten deiner Kunden vor potenziellen Sicherheitsrisiken wie Identitätsdiebstahl oder anderen Betrugsversuchen schützen.  
-
-### <a name="which-partners-need-to-meet-the-requirements"></a>Welche Partner müssen die Anforderungen erfüllen?
-
-Diese Anforderungen gelten für die folgenden Partnergruppen:
-
-- Alle Partnerorganisationen, die am Cloud Solution Provider-Programm (CSP) teilnehmen und über die kommerziellen Clouddienste von Microsoft Transaktionen vornehmen
-  - Alle Partner mit direkter Abrechnung
-  - Indirekte Anbieter
-  - Indirekte Vertriebspartner
-- Alle Control Panel-Anbieter
-- Alle Partner im Advisor-Programm  
-
-Partner, die Transaktionen über eine unabhängige Cloud (21Vianet, US Government und Deutschland) ausführen, sind jedoch nicht verpflichtet, diese neuen Sicherheitsanforderungen zum 1. August zu erfüllen. Es wird jedoch allen Partnern, die über eine unabhängige Cloud handeln, dringend empfohlen, diese neuen Sicherheitsanforderungen sofort umzusetzen. Microsoft wird in Zukunft zusätzliche Details zur Durchsetzung dieser Sicherheitsanforderungen für unabhängige Clouds bereitstellen.
-
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Welches sind die wichtigsten Zeitpläne und Meilensteine?
 
-Die Bestimmungen in Bezug auf diese Sicherheitsanforderungen werden dem [Program Guide for Microsoft Cloud Solution Providers](https://go.microsoft.com/fwlink/p/?LinkId=617100) (Programmleitfaden für Cloud Solution Provider) sofort hinzugefügt. Du musst diese Sicherheitsanforderungen implementieren, um die Voraussetzungen für deine Teilnahme am CSP-Programm ab dem 1. August 2019 zu erfüllen.
+Die mit den Sicherheitsanforderungen verbundenen Bestimmungen wurden der Microsoft Partner-Vereinbarung hinzugefügt. Du musst diese Sicherheitsanforderungen implementieren, um die Voraussetzungen für die Teilnahme am Cloud Solution Provider (CSP)-Programm zu erfüllen.
 
 ### <a name="what-will-happen-if-i-do-not-take-any-actions"></a>Was geschieht, wenn ich nicht tätig werde?
 
 Partner, die diese obligatorischen Sicherheitsverfahren nicht einhalten, werden nicht in der Lage sein, Transaktionen im Cloud Solution Provider-Programm auszuführen oder Kundenmandanten mit delegierten Administratorrechten zu verwalten, sobald diese Anforderungen in Kraft sind. Wir sind dabei, einen Termin festzulegen, ab dem diese Anforderungen verbindlich in Kraft treten, und werden den Partnern diesen Termin sowie detaillierte Informationen mitteilen.
 
-### <a name="what-will-happen-if-i-dont-implement-mfa-as-per-this-new-security-requirement-by-august-1-2019"></a>Was passiert, wenn ich die MFA nicht gemäß diesen neuen Sicherheitsanforderungen bis 1. August 2019 implementiere?
+### <a name="what-will-happen-if-i-do-not-implement-these-partner-security-requirements"></a>Was passiert, wenn ich die Sicherheitsanforderungen für Partner nicht umsetze?
 
-Die Bestimmungen in Bezug auf diese Sicherheitsanforderungen im [Program Guide for Microsoft Cloud Solution Providers](https://go.microsoft.com/fwlink/p/?LinkId=617100) (Programmleitfaden für Cloud Solution Provider) sind am 1. August 2019 in Kraft getreten. Alle Partner im CSP-Programm müssen diese Anforderungen umsetzen, um die Programmbestimmungen zu erfüllen und ihr Geschäft zu schützen. Partner, die diese Sicherheitsverfahren nicht einhalten, werden möglicherweise nicht mehr in der Lage sein, Transaktionen im CSP-Programm auszuführen oder Kundenmandanten mit delegierten Administratorrechten zu verwalten, sobald wir mit der technischen Durchsetzung der Sicherheitsanforderungen für Partner begonnen haben (in naher Zukunft). Wir legen einen Termin für das Inkrafttreten der Anforderungen fest und werden unsere Partner in Kürze darüber informieren.
+Die Microsoft Partner-Vereinbarung setzt voraus, das du die mehrstufige Authentifizierung für Benutzerkonten erzwingst und das sichere Anwendungsmodell für die Interaktion mit der Partner Center API umsetzt. Partner, die diese Sicherheitsverfahren nicht einhalten, sind möglicherweise nicht mehr in der Lage, Transaktionen im CSP-Programm auszuführen oder Kundenmandanten mit delegierten Administratorrechten zu verwalten.
 
 ### <a name="why-is-microsoft-enforcing-these-new-requirements"></a>Warum setzt Microsoft diese neuen Anforderungen durch?
 
@@ -65,7 +44,7 @@ Ja, dies gilt für alle geografischen Regionen. Es wird dringend empfohlen, dass
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>Sind Ausnahmen für ein Konto möglich?
 
-Nein, kein Konto kann von der Anforderung ausgenommen werden, ein MFA-Verfahren einzurichten. Angesichts der umfassenden Privilegien, die mit dem Partnerstatus verbunden sind, müssen gemäß dem [Program Guide for Microsoft Cloud Solution Providers](https://go.microsoft.com/fwlink/p/?LinkId=617100) (Programmleitfaden für Cloud Solution Provider) MFA-Verfahren für jedes Konto in deinem Partnermandanten erzwungen werden.
+Nein, kein Benutzerkonto kann davon ausgenommen werden, ein MFA-Verfahren durchzusetzen. Angesichts der umfassenden Privilegien, die mit dem Partnerstatus verbunden sind, muss die mehrstufige Authentifizierung gemäß der Microsoft Partner-Vereinbarung für jedes Benutzerkonto im Partnermandanten erzwungen werden.
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Woher weiß ich, ob ich die Sicherheitsanforderungen für Partner erfüllt habe?
 
@@ -86,16 +65,12 @@ Alle Partner im CSP-Programm (Partner mit direkter Abrechnung, indirekte Anbiete
 
 1. **Durchsetzen der MFA für alle Benutzer**
 
-    Alle Partner im CSP-Programm, Berater und Control Panel-Anbieter müssen die MFA für alle Benutzer in ihrem Partnermandanten erzwingen. Dies lässt sich durch Aktivieren der Basisrichtlinien [MFA für Administratoren erforderlich](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) und [Endbenutzerschutz](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) sowie zukünftiger Basisrichtlinien erreichen. Die von den Basisrichtlinien bereitgestellte Funktionalität wird weiterentwickelt, um sicherzustellen, dass Partner und Kunden vor sich ständig ändernden Sicherheitsbedrohungen geschützt sind. Es ist also wichtig, die [Dokumentation zu den Basisrichtlinien](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) zu lesen, um mehr zu erfahren.
-
-    - Unter [Basisrichtlinie: MFA für Administratoren erforderlich](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) findest du Informationen dazu, wie du diese Basisrichtlinie aktivierst.
-    - Unter [Basisrichtlinie: Endbenutzerschutz](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) findest du Informationen dazu, wie du diese Basisrichtlinie aktivierst.
-    - Grundlegendes zum Konzept der [Basisschutzrichtlinien](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).
+    Alle Partner im CSP-Programm, Berater und Control Panel-Anbieter müssen die MFA für alle Benutzer in ihrem Partnermandanten erzwingen.
 
     Weitere Überlegungen:
 
     - Indirekte Anbieter müssen für das Onboarding in Partner Center mit indirekten Handelspartnern zusammenarbeiten, sofern dies nicht bereits erfolgt ist, und ihre Handelspartner dazu anhalten, die Anforderungen zu erfüllen.
-    - Die Azure MFA wird allen Benutzern im Partnermandanten über die Basisrichtlinien kostenlos zur Verfügung gestellt. Dabei ist die einzige Methode zur Verifizierung die [Microsoft Authenticator-App](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview).
+    - Azure MFA wird allen Benutzern im Partnermandanten kostenlos über Azure AD Sicherheitsstandards zur Verfügung gestellt. Dabei wird die Überprüfungsmethode verwendet, die unter den Authenticator-Anwendungen als einzige zeitbasierte Einmalkennwörter (Time Based One Time, TOTP) unterstützt.
     - Weitere Verifizierungsmethoden sind über die [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium)-SKUs verfügbar, wenn andere Methoden wie ein Telefonanruf oder eine SMS erforderlich sind.
     - Beim Zugriff auf kommerzielle Clouddienste von Microsoft können Partner für jedes Konto auch die MFA-Lösung eines Drittanbieters nutzen.
 
@@ -124,34 +99,9 @@ Die MFA ist ein Sicherheitsmechanismus, mit dem Einzelpersonen über mehr als ei
 - Etwas, das Sie besitzen (ein vertrauenswürdiges Gerät, das sich nicht leicht duplizieren lässt, z. B. ein Telefon)
 - Sie selbst (Biometrie)
 
-### <a name="what-are-baseline-protection-policies"></a>Was sind Basisschutzrichtlinien?
-
-[Microsoft-Basisschutzrichtlinien](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) (derzeit in der Vorschau) sind vordefinierte Richtlinien, die dabei helfen, Organisationen vor vielen gängigen Angriffen zu schützen. Diese allgemeinen Angriffe können Password Spray, Replay und Phishing einbeziehen. Basisrichtlinien sind in allen Editionen von Azure Active Directory verfügbar. Microsoft stellt diese Basisschutzrichtlinien allen Benutzern zur Verfügung, weil identitätsbasierte Angriffe seit einigen Jahren zunehmen. Ziel dieser Richtlinien ist es, sicherzustellen, dass alle Organisationen ohne zusätzliche Kosten über einen grundlegenden Schutz verfügen.
-
-> [!NOTE]
-> Die Basisrichtlinien von Microsoft und die zugehörigen Funktionen werden immer weiterentwickelt, um Partner und Kunden fortlaufend vor sich ständig ändernden Sicherheitsbedrohungen zu schützen. Möglicherweise treten in Kürze einige Änderungen hinsichtlich der Benennung und der Taxonomie der Basisschutzrichtlinien in Kraft. Microsoft empfiehlt dringend, regelmäßig die Seiten mit den Basisrichtlinien zu überprüfen, um die neuesten Informationen zu erhalten.
-
-### <a name="what-baseline-policies-must-i-enable"></a>Welche Basisrichtlinien muss ich aktivieren?
-
-Wenn du planst, die aktuellen Baselineschutzrichtlinien zu verwenden, um jedes Konto im Partnermandanten MFA-Verfahren zur Verfügung zu stellen, musst du auch die Baselinerichtlinien [MFA für Administratoren erfordern](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) und [Endbenutzerschutz](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) aktivieren. Diese Basisschutzrichtlinien erfüllen die Anforderung eines kostenlosen MFA-Modells für jeden Benutzer im Partnermandanten nur für solche Partner, die Microsoft Authenticator-Apps über mobile Geräte verwenden.
-
-Die Basisrichtlinie [MFA für Administratoren erforderlich](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) dient zum Schutz von Administratorbenutzern im Partnerverzeichnis, und mit der Basisrichtlinie [Endbenutzerschutz](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) werden Nicht-Administratorbenutzer im Partnermandanten geschützt. Um diese Richtlinien zu aktivieren, müssen Benutzer sich für die MFA registrieren. Wenn die Benutzer nach der erfolgreichen Registrierung versuchen, sich anzumelden, werden sie basierend auf den Kriterien der Richtlinie zur Durchführung der entsprechenden MFA-Verfahren aufgefordert. Die von den Basisrichtlinien bereitgestellte Funktionalität wird weiterentwickelt, um sicherzustellen, dass Partner und Kunden vor sich ständig ändernden Sicherheitsbedrohungen geschützt sind. Es ist also wichtig, die [Dokumentation zu den Basisrichtlinien](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) zu lesen, um mehr zu erfahren.
-
-### <a name="how-do-i-enable-the-require-mfa-for-admins-policy"></a>Wie aktiviere ich die Richtlinie „MFA für Administratoren erforderlich“?
-
-Die Basisrichtlinie „MFA für Administratoren erforderlich“ kann über das Azure-Verwaltungsportal aktiviert werden. Unter [Basisrichtlinie: MFA für Administratoren erforderlich](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) findest du Informationen dazu, wie du diese Basisrichtlinie aktivierst.
-
-### <a name="how-do-i-enable-the-end-user-protection-policy"></a>Wie aktiviere ich die Richtlinie „Endbenutzerschutz“?
-
-Die Basisrichtlinie „Endbenutzerschutz“ kann über das Azure-Verwaltungsportal aktiviert werden. Unter [Basisrichtlinie: Endbenutzerschutz](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) findest du Informationen dazu, wie du diese Basisrichtlinie aktivierst.
-
-### <a name="will-the-baseline-policies-be-automatically-enabled"></a>Werden die Basisrichtlinien automatisch aktiviert?
-
-Nein. Zum Aktivieren dieser Richtlinien muss ein Benutzer, der Mitglied der Rolle „Globaler Administrator“, „Sicherheitsadministrator“ oder „Administrator für bedingten Zugriff“ ist, diese Richtlinien für die sofortige Verwendung konfigurieren.
-
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>Was kostet die Aktivierung der MFA?
 
-Microsoft stellt die MFA über die Implementierung der Basisschutzrichtlinien [MFA für Administratoren erforderlich](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) und [Endbenutzerschutz](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) kostenlos zur Verfügung. Die einzige Verifizierungsoption, die mit dieser Version der MFA zur Verfügung steht, ist die [Microsoft Authenticator-App](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview). Wenn eine Verifizierung per Telefonanruf oder SMS erforderlich ist, muss eine Lizenz für [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) erworben werden. Alternativ dazu kannst du eine Drittanbieterlösung verwenden, um die MFA für jeden Benutzer in deinem Partnermandanten bereitzustellen. In diesem Fall liegt es in deiner Verantwortung, sicherzustellen, dass deine MFA-Lösung durchgesetzt wird und die Anforderungen erfüllt werden.
+Microsoft stellt MFA kostenlos durch die Implementierung von Azure AD Sicherheitsstandards bereit. Die einzige Überprüfungsoption, die bei dieser Version der MFA zur Verfügung steht, ist eine Authenticator-App. Wenn eine Verifizierung per Telefonanruf oder SMS erforderlich ist, muss eine Lizenz für [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) erworben werden. Alternativ kannst du eine Drittanbieterlösung verwenden, um die MFA für jeden Benutzer in deinem Partnermandanten bereitzustellen. In diesem Fall musst du selbst sicherstellen, dass deine MFA-Lösung durchgesetzt wird und die Anforderungen erfüllt werden.
 
 ### <a name="if-i-already-have-an-mfa-solution-what-actions-do-i-need-to-take"></a>Wenn ich bereits über eine MFA-Lösung verfüge, welche Maßnahmen muss ich ergreifen?
 
@@ -160,17 +110,13 @@ Aufgrund dieser Sicherheitsanforderungen müssen Benutzer in einem Partnermandan
 > [!IMPORTANT]
 > Wenn Sie eine Drittanbieterlösung verwenden, muss überprüft werden, ob die Lösung den AMR-Anspruch (Authentication Method Reference) ausgibt, der den MFA-Wert enthält. Details zur Überprüfung, ob Ihre Drittanbieterlösung den erwarteten Anspruch ausgibt, finden Sie unter [Testing the Partner Security Requirements](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements) (Testen der Partneranforderungen an die Sicherheit).
 
-### <a name="what-verification-method-can-i-use-to-authenticate-mfa"></a>Welche Verifizierungsmethode kann ich für die Authentifizierung per MFA verwenden?
-
-Microsoft stellt die MFA über die Implementierung der Basisschutzrichtlinien [MFA für Administratoren erforderlich](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) und [Endbenutzerschutz](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) kostenlos zur Verfügung. Die einzige Verifizierungsoption, die mit dieser Version der MFA zur Verfügung steht, ist die [Microsoft Authenticator-App](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview). Wenn eine Verifizierung per Telefonanruf oder SMS erforderlich ist, muss eine Lizenz für [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) erworben werden. Alternativ dazu kannst du eine Drittanbieterlösung verwenden, um die MFA für jeden Benutzer in deinem Partnermandanten bereitzustellen. In diesem Fall liegt es in deiner Verantwortung, sicherzustellen, dass deine MFA-Lösung durchgesetzt wird und die Anforderungen erfüllt werden.
-
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>Ich führe Transaktionen mit mehreren Partnermandanten aus. Muss ich die MFA für alle Mandanten implementieren?
 
 Ja, du musst die MFA für jeden Azure Active Directory-Mandanten erzwingen, der dem CSP-Programm oder dem Advisor-Programm zugeordnet ist. Wenn du planst, eine Lizenz für Azure Active Directory Premium zu erwerben, muss auch für den Benutzer in jedem Azure Active Directory-Mandanten eine Lizenz erworben werden.
 
-### <a name="does-each-user-in-my-partner-tenant-need-to-have-mfa-enforced"></a>Muss für jeden meiner Partnermandanten die MFA erzwungen werden?*
+### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>Muss MFA für jedes Benutzerkonto in meinem Partnermandanten erzwungen werden?
 
-Die Basisschutzrichtlinien [MFA für Administratoren erforderlich](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) und [Endbenutzerschutz](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) erzwingen die MFA für jeden Mandanten in deinem Partnermandanten. Wenn du diese Richtlinien zum Bereitstellen der MFA nutzt und die [Microsoft Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview)-Anwendung verwendest, musst du keine zusätzlichen Lizenzen erwerben. Andernfalls musst du eine geeignete Lösung erwerben, um jedem Benutzer in deinem Partnermandanten ein MFA-Verfahren bereitzustellen.
+Ja, jeder Benutzer muss MFA erzwingen. Wenn du Azure AD-Sicherheitsstandards verwendest, ist keine zusätzliche Maßnahme erforderlich, da MFA durch dieses Feature für alle Benutzerkonten erzwungen wird. Das Aktivieren von Sicherheitsstandards ist jedoch eine kostenlose und einfache Möglichkeit, um sicherzustellen, dass Benutzerkonten MFA-konform sind und durch die Erzwingung von MFA nicht beeinträchtigt werden.
 
 ### <a name="i-am-a-direct-bill-partner-with-microsoft-what-do-i-need-to-do"></a>Ich bin Microsoft-Partner mit direkter Abrechnung. Wie muss ich vorgehen?
 
@@ -194,9 +140,9 @@ Weitere Informationen findest du hier: [Azure AD-Verbund – Kompatibilitätslis
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>Wie kann ich die MFA in unserer Sandbox für die Integration testen?
 
-Die Basisrichtlinien [MFA für Administratoren erforderlich](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) und [Endbenutzerschutz](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) müssen für deinen Sandbox-Mandanten für die Integration aktiviert werden. Aufgrund dieser Richtlinien muss sich jeder Benutzer im Mandanten per MFA authentifizieren.
+Das Feature für die Azure AD-Sicherheitsstandards sollte aktiviert sein. Alternativ kannst du auch Drittanbieterlösungen verwenden, die den Verbund nutzen.
 
-### <a name="will-enabling-mfa-effect-how-i-interact-with-my-customers-tenant"></a>Wirkt sich die Aktivierung der MFA darauf aus, wie ich mit dem Mandanten meines Kunden interagiere?
+### <a name="will-enabling-mfa-effect-how-i-interact-with-my-customers-tenant"></a>Wirkt sich die Aktivierung der MFA darauf aus, wie ich mit meinem Kundenmandanten interagiere?
 
 Nein. Die Erfüllung dieser Sicherheitsanforderungen wirkt sich nicht auf die Verwaltung der Kunden aus. Die Möglichkeit, delegierte administrative Vorgänge auszuführen, wird nicht beeinträchtigt.
 
@@ -204,41 +150,29 @@ Nein. Die Erfüllung dieser Sicherheitsanforderungen wirkt sich nicht auf die Ve
 
 Nein. Die MFA muss nicht für jeden Benutzer in den Azure AD-Mandanten deiner Kunden erzwungen werden. Es empfiehlt sich allerdings, in Zusammenarbeit mit jedem Kunden zu ermitteln, wie die Benutzer der Kunden am besten geschützt werden können.
 
-### <a name="can-app-passwords-be-used-with-the-baseline-protection-policies"></a>Können bei den Basisschutzrichtlinien App-Kennwörter verwendet werden?
-
-Ja, [App-Kennwörter](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) können verwendet werden. Du solltest die Überlegungen zur Verwendung von App-Kennwörtern überprüfen, die [hier](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) dokumentiert sind, um zu ermitteln, ob sie für deine Anforderungen unterstützt werden.
-
 ### <a name="can-any-user-be-excluded-from-this-requirement"></a>Kann ein Benutzer von dieser Anforderung ausgenommen werden?
 
 Nein. Jeder Benutzer im Partnermandanten, einschließlich aller Dienstkonten, muss sich per MFA authentifizieren.
 
 ### <a name="do-the-partner-security-requirements-apply-to-the-integration-sandbox"></a>Gelten die Sicherheitsanforderungen für Partner auch für die Sandbox zur Integration?
 
-Ja. Die Sicherheitsanforderungen für Partner gelten auch für die Sandbox zur Integration. Das bedeutet, dass du für die Benutzer im Sandbox-Mandanten für die Integration eine geeignete MFA-Lösung implementieren musst. Es empfiehlt sich, die Basisschutzrichtlinien zu implementieren, um die MFA bereitzustellen.
+Ja. Die Sicherheitsanforderungen für Partner gelten auch für die Sandbox zur Integration. Das bedeutet, dass du für die Benutzer im Sandbox-Mandanten für die Integration eine geeignete MFA-Lösung implementieren musst. Es wird empfohlen, dass du die Azure AD-Sicherheitsstandards implementierst, um MFA bereitzustellen.
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>Wie konfiguriere ich ein Konto für den Notfallzugriff?
 
 Es hat sich bewährt, ein oder zwei Konten für den Notfallzugriff einzurichten, um eine versehentliche Aussperrung aus dem Azure AD-Mandanten zu verhindern. Aufgrund der Sicherheitsanforderungen für Partner muss sich jeder Benutzer per MFA authentifizieren. Das bedeutet, dass du die Definition eines Kontos für den Notfallzugriff ändern musst. Du könntest z. B. ein Konto verwenden, das eine Drittanbieterlösung für die MFA nutzt.
 
-### <a name="how-will-guest-users-be-impacted-by-the-partner-security-requirements"></a>Wie wirken sich die Sicherheitsanforderungen für Partner auf Gastbenutzer aus?
-
-Auch Gastbenutzer müssen sich per MFA authentifizieren, wenn sie auf Ressourcen in deinem Partnermandanten zugreifen. Die Sicherheitsanforderungen für Partner haben keine Auswirkungen darauf, wie Gastbenutzer auf Ressourcen in ihrem eigenen Mandanten zugreifen.
-
 ### <a name="if-i-am-using-a-third-party-solution-is-active-directory-federation-service-adfs-required"></a>Wenn ich eine Drittanbieterlösung verwende, sind die Active Directory-Verbunddienste erforderlich?
 
 Nein, bei Verwendung einer Drittanbieterlösung sind die Active Directory-Verbunddienste (AD FS) nicht erforderlich. Es empfiehlt sich, zusammen mit dem Lösungsanbieter zu ermitteln, welche Anforderungen für die Lösung bestehen.
 
-### <a name="is-it-a-requirement-to-enable-the-baseline-protection-policies"></a>Ist die Aktivierung der Basisschutzrichtlinien erforderlich?
+### <a name="is-it-a-requirement-to-enable-azure-ad-security-defaults"></a>Ist es erforderlich, Azure AD Sicherheitsstandards zu aktivieren?
 
-Nein, die Basisschutzrichtlinien müssen nicht aktiviert werden. Die einzige Anforderung besteht darin, die MFA für jeden Benutzer, einschließlich Dienstkonten, im Partnermandanten zu aktivieren.
+Nein, Azure AD-Sicherheitsstandards müssen nicht zwingend aktiviert werden.
 
 ### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>Kann der bedingte Zugriff zur Erfüllung der MFA-Anforderung verwendet werden?
 
 Ja, du kannst den bedingten Zugriff verwenden, um die MFA für jeden Benutzer, einschließlich Dienstkonten, im Partnermandanten zu aktivieren. Angesichts der umfassenden Privilegien, die mit dem Partnerstatus verbunden sind, müssen wir jedoch sicherstellen, dass jeder Benutzer für jede einzelne Authentifizierung ein MFA-Captcha eingibt. Das bedeutet, dass der bedingte Zugriff nicht verwendet werden kann, um die MFA-Anforderung zu umgehen.
-
-### <a name="what-verification-options-are-provided-through-the-implementation-of-the-baseline-protection-policies"></a>Welche Verifizierungsoptionen werden durch die Implementierung der Basisschutzrichtlinien bereitgestellt?
-
-In Bezug auf die Version der MFA, die durch die Implementierung der Basisschutzrichtlinien zur Verfügung gestellt wird, ist eine Authentifikator-App die einzige Verifizierungsoption. Die Authentifizierung per Telefonanruf oder SMS gilt als weniger sicher. Daher sind diese Optionen mit dieser MFA-Version nicht verfügbar.
 
 ### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>Wirken sich die Sicherheitsanforderungen für Partner auf das von Azure AD Connect verwendete Dienstkonto aus?
 
@@ -275,7 +209,7 @@ Ein Control Panel-Anbieter ist ein unabhängiger Softwarehersteller, der Apps en
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Muss das sichere Anwendungsmodell nur für die Partner Center-API bzw. das Partner Center SDK implementiert werden?
 
-Sobald die Basisrichtlinien *MFA für Administratoren erforderlich* und *Endbenutzerschutz* aktiviert sind, muss sich jeder Benutzer per Multi-Factor Authentication authentifizieren. Das bedeutet, dass du das sichere Anwendungsmodell für jedes API-, Befehlszeilenschnittstellen- und PowerShell-Modul (z. B. Azure, Azure AD, MS Online, Partner Center usw.) implementieren musst, das nicht interaktiv ausgeführt werden soll und Benutzeranmeldeinformationen zur Authentifizierung verwendet.
+Durch das Erzwingen der mehrstufigen Authentifizierung für alle Benutzerkonten wird jede Automatisierung oder Integration beeinträchtigt, die für die nicht interaktive Ausführung vorgesehen ist. Gemäß den Partnersicherheitsanforderungen muss das sichere Anwendungsmodell für die Partner Center API aktiviert werden. Das Modell kann aber auch genutzt werden, um eine Zwei-Faktor-Authentifizierung mit Automatisierung und Integration einzurichten. Dabei muss die Ressource, auf die zugegriffen wird, die Zugriffstoken-basierte Authentifizierung unterstützen.
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Ich verwende Automatisierungstools wie z. B. PowerShell. Wie implementiere ich das sichere Anwendungsmodell?
 
@@ -349,12 +283,6 @@ Bei der technischen Durchsetzung der Sicherheitsanforderungen für Partner wird 
 - Sende Fragen und Feedback an die [Partner Center Security Guidance Group](https://aka.ms/MPCSecurityGuidance).
 - Nimm an Informationsveranstaltungen und Webinaren für Partner teil. [Hier findest du genaue Informationen und Ressourcen](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance).
 
-### <a name="resources-for-enabling-mfa"></a>Ressourcen für die Aktivierung der MFA
-
-- Grundlegendes zum Konzept der [Basisschutzrichtlinien](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).
-- Unter [Basisrichtlinie: MFA für Administratoren erforderlich](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) findest du Informationen dazu, wie du diese Basisrichtlinie aktivierst.
-- Unter [Basisrichtlinie: Endbenutzerschutz](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) findest du Informationen dazu, wie du diese Basisrichtlinie aktivierst.
-
 ### <a name="resources-for-adopting-secure-application-model"></a>Ressourcen für die Übernahme des sicheren Anwendungsmodells
 
 - [Übersicht über das sichere Anwendungsmodell](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
@@ -369,12 +297,6 @@ Bei der technischen Durchsetzung der Sicherheitsanforderungen für Partner wird 
 ### <a name="where-can-i-get-support"></a>Wo erhalte ich Support?
 
 Unterstützende Ressourcen für die Erfüllung der Sicherheitsanforderungen findest du hier: Wenn du über Advanced Support for Partners (ASfP) verfügst, wende dich an deinen Service Account Manager. Wenn du über eine Premier Support for Partners-Vereinbarung (PSfP) verfügst, wende dich an den Service Account Manager und den Technical Account Manager.
-
-### <a name="how-can-i-get-help-with-enabling-the-baseline-policies"></a>Wie erhalte ich Hilfe beim Aktivieren der Basisrichtlinien?
-
-- Partner können Beratungsstunden (in den MPN-Vorteilen) nutzen, um detaillierte Unterstützung bei der Implementierung der Sicherheitsanforderungen zu erhalten.
-- Optionen für den technischen Produktsupport für Azure Active Directory sind über MPN-Vorteile verfügbar. Partner mit Zugriff auf aktive ASfP- oder PSfP-Vereinbarungen können sich an den entsprechenden Account Manager (SAM bzw. TAM) wenden, um die verfügbaren Optionen zu verstehen.
-- Unterstützung bei der Implementierung von Basisrichtlinien über Partner Center erhältst du per [Serviceanforderung im Partner Center](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp). Wähle *MFA und sicheres Anwendungsmodell* als Thema aus.
 
 ### <a name="how-do-i-get-technical-information-and-support-to-help-me-adopt-secure-application-model-framework"></a>Wie erhalte ich technische Informationen und Unterstützung bei der Übernahme des Frameworks „Sicheres Anwendungsmodell“?
 

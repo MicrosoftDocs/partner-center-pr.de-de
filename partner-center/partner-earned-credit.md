@@ -2,27 +2,29 @@
 title: Vom Partner erworbenes Guthaben – Übersicht | Partner Center
 ms.topic: article
 ms.date: 11/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Ansicht des vom Partner erworbenen Guthabens für einen Azure-Plan
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: bce9c2dca086489b019f7d1bffdb34076c0bc2bd
-ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
+ms.openlocfilehash: a3084d84d2befda1f2e71dc8d15cd1f3542bd974
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "73595904"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654205"
 ---
 # <a name="partner-earned-credit---overview"></a>Vom Partner erworbenes Guthaben – Übersicht
 
-Das vom Partner erworbene Guthaben stellt in der neuen E-Commerce-Oberfläche von CSP stellt ein Geschäftsmodell dar, das eine vereinfachte, einheitliche Azure-Preisgestaltung für die von den Go-To-Market-Mechanismen von Microsoft ermöglicht und zugleich ein Partner-Ökosystem fördert, das verwaltete Mehrwertdienste anbietet. Eine von Partnern erworbene Gutschrift hilft außerdem, Wettbewerb um die Marge zu beseitigen. 
+Das vom Partner erworbene Guthaben stellt in der neuen E-Commerce-Oberfläche von CSP ein Geschäftsmodell dar, das eine vereinfachte, einheitliche Azure-Preisgestaltung für die Go-To-Market-Mechanismen von Microsoft ermöglicht und zugleich ein Partner-Ökosystem fördert, das verwaltete Mehrwertdienste anbietet. Eine von Partnern erworbene Gutschrift hilft außerdem, Wettbewerb um die Marge zu beseitigen. 
 
 Angesichts tausender Dienste in Azure und mehrerer Kaufoptionen kann die Preisgestaltung viele Kunden und Partner vor Schwierigkeiten stellen. In der neuen E-Commerce-Oberfläche für Azure haben wir uns an einzelnen Preisprinzipien mit globaler Gültigkeit orientiert, die für alle von uns durchgeführten Datenbewegungen gelten. CSP-Partner können Azure zu den veröffentlichten Preisen anbieten. Dies bietet mehr Transparenz für ihre Kunden und stärkt das Vertrauen. 
 
 Die Kundenanforderungen an digitale Transformation ändern die Art von Wert, die von Partnern angeboten wird. Viele Kunden suchen Partner, um Dienstleistungen jenseits der Transaktion anzubieten, um ihre Reise in der Cloud problemlos zu gestalten und sie bei der effizienten Nutzung von Azure-Diensten zu unterstützen. Diese Dienste werden kontinuierlich angeboten und beinhalten Azure-Vermögensüberwachung, Richtlinien- und Governanceverwaltung, Setup und Optimieren der Konfiguration sowie eine Vielzahl weiterer Dienste. 
 
-Für diese Dienste muss ein Partner bestens mit der Azure-Umgebung des Kunden vertraut sein und fortlaufende und passende Governance und Steuerung über die von ihnen verwalteten zugrunde liegenden Ressourcen besitzen. Abrechnungspartner, die diese Art von Operations Management rund um die Uhr bieten, sind für eine **vom Partner erworbene Gutschrift für verwaltete Dienste** im Azure-Vermögen des Kunden qualifiziert, deren Governance und Steuerung beim Partner liegen. 
+Für diese Dienste muss ein Partner bestens mit der Azure-Umgebung des Kunden vertraut sein sowie fortlaufende und passende Governance und Steuerung über die von ihm verwalteten zugrunde liegenden Ressourcen besitzen. Abrechnungspartner, die diese Verwaltung des Cloudbetriebs rund um die Uhr (24/7) bieten, sind für eine **vom Partner erworbene Gutschrift für verwaltete Dienste** in der Azure-Umgebung des Kunden qualifiziert, deren Governance und Steuerung beim Partner liegen. 
 
 
 ## <a name="benefits-of-the-partner-earned-credit-for-partners-and-customers"></a>Vorteile der vom Partner erworbenen Gutschrift für Partner und Kunden
@@ -33,7 +35,7 @@ Für diese Dienste muss ein Partner bestens mit der Azure-Umgebung des Kunden ve
 
 - Partner erhalten eine Vergütung, weil sie ihren Kunden ein robustes Portfolio an verwalteten Diensten in Azure bieten.  
 
-- Die enge Anbindung und das Management von Azure-Projekten eines Kunden eröffnen beim Partner neue Verkaufschancen und fördern das Wachstum der Dienstnutzung. 
+- Die enge Anbindung und das Management von Azure-Projekten eines Kunden eröffnen dem Partner neue Verkaufschancen und fördern das Wachstum der Dienstnutzung. 
 
 ## <a name="manage-automate-and-optimize"></a>Verwalten, Automatisieren und Optimieren
 
@@ -43,7 +45,7 @@ Ihre Kunden erwarten von Ihnen Hilfe bei der optimalen Nutzung des Hostings ihre
 
 - **Cloud Operations- und Managementdienste**: Kunden erwarten von Microsoft-Partnern die Senkung von Kosten durch Azure bei gleichzeitiger Wiederherstellung der zurzeit bestehenden Isolation, Sicherheitsrichtlinien und Überwachungsmodelle. Sie erwarten von Partnern darüber hinaus den Zugriff auf ausgereifte Tools zum Bestimmen der Eignung von Workloads sowie der einmaligen Bereitstellungskosten und der fortlaufenden Betriebskosten von Azure. Ferner benötigen Kunden Support bei Automatisierung und Orchestrierung, beim Patchen von Updates, der Konfigurationsverwaltung, Sicherung und Notfallwiederherstellung sowie der Identitätsverwaltung. 
 
-- **Cloudüberwachung und technischer Support**: In einer Welt mit umfangreicher Cloudnutzung haben sich die Tools und Anforderungen herausgebildet, aber die Sorge um das Finden der richtigen Ressource zum Verwalten der IT-Infrastruktur ist gleich geblieben. Die meisten Organisationen haben einfach nicht genügend Zeit, Ressourcen oder dedizierte Mitarbeiter, um jeden Aspekt der IT zu überwachen, und es ist genau diese Stelle an der Sie, der vertrauenswürdige Partner, den größten Mehrwert bieten. Zwar bietet Azure viele integrierte Überwachungsfunktionen, trotzdem besteht ein Bedarf an Partnern, die zusätzliche, tiefer greifende Tools bieten, falsch positive Befunde von echten Warnungen unterscheiden und proaktiv auf Warnungen reagieren, bevor ein messbares Nachlassen der Leistung eintritt. 
+- **Cloudüberwachung und technischer Support**: In einer von der Cloud beherrschten Welt haben sich auch die Tools und Anforderungen weiterentwickelt, aber das Auffinden der richtigen Ressource zum Verwalten der IT-Infrastruktur bleibt problematisch. Die meisten Organisationen haben einfach nicht genügend Zeit, Ressourcen oder dedizierte Mitarbeiter, um jeden Aspekt der IT zu überwachen, und es ist genau diese Stelle an der Sie, der vertrauenswürdige Partner, den größten Mehrwert bieten. Zwar bietet Azure viele integrierte Überwachungsfunktionen, trotzdem besteht ein Bedarf an Partnern, die zusätzliche, tiefer greifende Tools bieten, falsch positive Befunde von echten Warnungen unterscheiden und proaktiv auf Warnungen reagieren, bevor ein messbares Nachlassen der Leistung eintritt. 
 
 
 ### <a name="included-in-monitoring-and-technical-support"></a>Bestandteile von Monitoring und technischem Support:
@@ -54,11 +56,11 @@ Ihre Kunden erwarten von Ihnen Hilfe bei der optimalen Nutzung des Hostings ihre
 
 - **Datenbanküberwachung**: Ein Blick in die Datenbank des Kunden, der Partnern dabei hilft, Hochverfügbarkeit von Datenbankservern sicherzustellen. Der Prozess beinhaltet das Führen von Protokollen zu Größe, Verbindungszeit und Benutzern von Datenbanken, das Analysieren von Nutzungstrends und das Nutzen von Daten für die proaktive Wartung von Problemen.
 
-- **Überwachen der Anwendungsleistung**: End-to-End-Nachverfolgung alle Aspekte einer Anwendung (oder Webseite). Die Anwendungsüberwachung umfasst das Beobachten aller Teile – von Einkaufswagen bis hin zu Registrierungsseiten – der Anwendung(en) eines Kunden auf Leistungsprobleme, um die bestmögliche Benutzerfreundlichkeit bieten zu können.
+- **Überwachen der Anwendungsleistung**: End-to-End-Nachverfolgung alle Aspekte einer Anwendung (oder Webseite). Um die bestmögliche Benutzerfreundlichkeit bieten zu können, müssen alle Bereiche der Anwendung(en) eines Kunden – von Einkaufswagen bis hin zu Registrierungsseiten – auf Leistungsprobleme überwacht werden.
 
 Erfahren Sie mehr über das Erweitern Ihres [Portfolios an verwalteten Diensten mit Azure](https://partner.microsoft.com/campaigns/cloud-playbooks-thank-you).
 
-Diese Dienste bringen ein entsprechendes Maß an Zugriff für Partner auf die Azure-Umgebung des Kunden mit sich, und unser E-Commerce-System misst die Zugriffsdetails, um das erworbene Guthaben des Partners zu berechnen.  
+Diese Dienste bieten Partnern ein geeignetes Maß an Zugriff auf die Azure-Umgebung des Kunden, und unser E-Commerce-System misst die Zugriffsdetails, um das erworbene Guthaben des Partners zu berechnen.  
 
 >[!Note]
 >Kunden haben die Option, jeden Zugriff zu blockieren, der Partnern erteilt wurde. Partner dürfen Kunden nicht nötigen, ihnen geeigneten Zugriff zu erteilen, nur um damit vom Partner erworbenes Microsoft-Guthaben zu verdienen – die Nichtbeachtung dieser Anforderung kann Partner ihre Berechtigung kosten, von Partnern erworbenes Guthaben zu verdienen.

@@ -2,18 +2,20 @@
 title: 'Azure-Plan: Abrechnung | Partner Center'
 ms.topic: article
 ms.date: 11/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Beschreibt die Struktur der Rechnungs- und Abstimmungsdateien für den Azure-Plan.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: f7b2e22fb4cc0c424ad18278df644d289944ca01
-ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
+ms.openlocfilehash: fcf5cc85f0e561f2c82e691da4e56667c5925b05
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "73595938"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661165"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Neues E-Commerce-Verfahren in CSP: Azure-Abrechnung 
 
@@ -32,7 +34,7 @@ Abrechnungen im Rahmen eines Azure-Plans bieten ein vereinfachtes Abrechnungsver
 
 - **Abrechnungszeitraum der Rechnung**: Der Abrechnungszeitraum der Rechnung ist am Kalendermonat ausgerichtet, z.B. 01.10.–31.10., 01.11.–30.11.
 
-- **Belastung von Dienstzeiträumen**: Die Gebühren richten sich nach dem Kalendermonat. Wenn ein Abrechnungspartner beispielsweise Azure-Dienste über einen Azure-Plan am 15.10. hinzufügt und der Kunde mit der Nutzung der Azure-Dienste am 15.10 beginnt, erhält der Abrechnungspartner am 08.11. die Rechnung/Abstimmung über den Kundenverbrauch für den Dienstzeitraum von 15.10–31.10. Die Rechnung des nächsten Monats, die am 08.12. generiert wird, enthält alle Gebühren für den Dienstzeitraum vom 01.11.–30.11.
+- **Belastung von Dienstzeiträumen**: Die Gebühren richten sich nach dem Kalendermonat. Wenn ein Abrechnungspartner beispielsweise Azure-Dienste über einen Azure-Plan am 15.10. hinzufügt und der Kunde mit der Nutzung der Azure-Dienste am 15.10 beginnt, erhält der Abrechnungspartner am 08.11. die Rechnung/Abstimmung über den Kundenverbrauch für den Dienstzeitraum von 15.10–31.10. Die Rechnung des nächsten Monats, die am 08.12. generiert wird, enthält alle Gebühren für den Dienstzeitraum vom 01.11.–31.11.
 
 - **Fälligkeit der Rechnung**: 60 Tage netto.
 
@@ -103,7 +105,7 @@ Zum Anzeigen früherer Rechnungen und Abstimmungsdateien erweitern Sie die Zeile
 
 3. Der Abrechnungszeitraum deckt einen bestimmten Kalendermonat ab, beispielsweise 01.10–31.10.
 
-4. Gebühren werden ohne Wertberichtigungen angezeigt (Betrag ohne Anrechnung von „Partner earned credit for services managed“).
+4. Gebühren werden ohne Wertberichtigungen angezeigt (Betrag ohne Anrechnung von „vom Partner erworbene Gutschrift für verwaltete Dienste“).
 
 5. Weitere Abrechnungsdetails können Sie der Abstimmungsdatei zur Rechnung und der täglich ausgewerteten Nutzungsdatei entnehmen.
 
@@ -129,11 +131,11 @@ Zum Anzeigen früherer Rechnungen und Abstimmungsdateien erweitern Sie die Zeile
 
 - Bezogen auf das Beispiel unten:
 
-  - Die Verbrauchseinheit ist vom 01.07–03.07. für **Partner earned credit for services managed** qualifiziert (beachten Sie, dass der effektive Einzelpreis sich aus dem Endkundenpreis abzüglich der vom Partner erworbenen Gutschrift ergibt).
+  - Die Verbrauchseinheit ist vom 01.07–3.07. für **vom Partner erworbene Gutschrift für verwaltete Dienste** qualifiziert (der effektive Einzelpreis ergibt sich aus dem Endkundenpreis abzüglich der vom Partner erworbenen Gutschrift).
 
-   - Die Verbrauchseinheit ist vom 04.07–07.07. nicht für **Partner earned credit for services managed** qualifiziert (beachten Sie, dass der effektive Einzelpreis mit dem Endkundenpreis übereinstimmt).
+   - Die Verbrauchseinheit ist vom 04.07–07.07. nicht für **vom Partner erworbene Gutschrift für verwaltete Dienste** qualifiziert (der effektive Einzelpreis stimmt nicht mit dem Endkundenpreis überein).
 
-    - Die Verbrauchseinheit ist vom 08.07–31.07. für **Partner earned credit for services managed** qualifiziert (beachten Sie, dass der effektive Einzelpreis sich aus dem Endkundenpreis abzüglich der vom Partner erworbenen Gutschrift ergibt).
+    - Die Verbrauchseinheit ist vom 08.07–31.07. für **vom Partner erworbene Gutschrift für verwaltete Dienste** qualifiziert (der effektive Einzelpreis ergibt sich aus dem Endkundenpreis abzüglich der vom Partner erworbenen Gutschrift).
 
 ![recon2](images/azure/pecfinal.png) 
 

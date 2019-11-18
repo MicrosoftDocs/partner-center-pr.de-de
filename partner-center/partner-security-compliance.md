@@ -1,17 +1,19 @@
 ---
 title: Status der Sicherheitsanforderungen für Partner | Partner Center
 ms.date: 10/11/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Bleiben Sie bei der Compliance Ihres Unternehmens mit MFA-Anforderungen auf dem aktuellen Stand.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
-ms.openlocfilehash: 3ca0bcda7be69f0785207f29fbbab20d2402e780
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 52a87b80c68ec44263a7e402ea458b918aa952df
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425100"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661116"
 ---
 # <a name="partner-security-requirements-status"></a>Status der Sicherheitsanforderungen für Partner
 
@@ -31,7 +33,7 @@ Seit dem 1. August 2019 sind alle Partner verpflichtet, die mehrstufige Authenti
 Wir möchten sicherstellen, dass jeder Benutzer für jede einzelne Authentifizierung über eine MFA-Herausforderung verfügt. Dies kann auf eine der folgenden Arten erreicht werden:
 
 - Implementieren von Azure AD Premium zum Sicherstellen, dass MFA für jeden Benutzer erzwungen wird
-- Implementieren der grundlegenden Schutzrichtlinien
+- Implementieren der [Azure AD-Sicherheitsstandards](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - Implementieren der Lösung eines Drittanbieters zum Sicherstellen, dass MFA für jeden Benutzer erzwungen wird
 
 ## <a name="partner-security-requirements-status"></a>Status der Sicherheitsanforderungen für Partner
@@ -39,7 +41,7 @@ Wir möchten sicherstellen, dass jeder Benutzer für jede einzelne Authentifizie
 Mithilfe dieses Berichts können Sie den Status der Sicherheitsanforderungen überprüfen, da er Ihnen die Möglichkeit gibt, zu sehen, wo Sie möglicherweise zurückbleiben. Die Nachverfolgung wird regelmäßig aktualisiert.
 
 >[!NOTE]
->Der Bericht zum Status der Sicherheitsanforderungen für Partner wird nur im Partner Center unterstützt. Er steht in der Microsoft Cloud für US-Behörden oder der Microsoft Cloud Germany nicht zur Verfügung. Es wird dringend empfohlen, dass alle Partner, die über eine unabhängige Cloud (21Vianet, US-Regierung und Deutschland) handeln, diese neuen Sicherheitsanforderungen sofort umsetzen. Diese Partner sind jedoch nicht verpflichtet, die neuen Sicherheitsanforderungen zum 1. August 2019 zu erfüllen. Microsoft wird in Zukunft zusätzliche Details zur Durchsetzung dieser Sicherheitsanforderungen für unabhängige Clouds bereitstellen. 
+>Der Bericht zum Status der Sicherheitsanforderungen für Partner wird nur im Partner Center unterstützt. Er steht in der Microsoft Cloud for US Government oder der Microsoft Cloud Deutschland nicht zur Verfügung. Es wird dringend empfohlen, dass alle Partner, die über eine unabhängige Cloud (21Vianet, US-Regierung und Deutschland) handeln, diese neuen Sicherheitsanforderungen sofort umsetzen. Diese Partner sind jedoch nicht verpflichtet, die neuen Sicherheitsanforderungen zum 1. August 2019 zu erfüllen. Microsoft wird in Zukunft zusätzliche Details zur Durchsetzung dieser Sicherheitsanforderungen für unabhängige Clouds bereitstellen.
 
 Bei jeder Anmeldung Ihrer Mitarbeiter beim Partner Center, um zu arbeiten oder mithilfe von APIs Daten über das Partner Center abzurufen oder zu senden, wird der Sicherheitsstatus Ihrer Mitarbeiter herausgefordert und nachverfolgt. Ebenfalls in der Nachverfolgung des Sicherheitsstatus enthalten sind Ihre Anwendungen und alle Anwendungen von Anbietern in der Systemsteuerung. Der angezeigte Status bezieht sich auf die vergangenen 7 Tage.
 
@@ -93,7 +95,7 @@ Verstehen Sie, ob Ihre aktuelle MFA-Implementierung alle Benutzerkonten oder nur
 Verstehen Sie, ob die aktuelle Implementierung MFA nur unter bestimmten Bedingungen erzwingt. Einige MFA-Lösungen bieten Flexibilität und erzwingen MFA nur, wenn bestimmte Bedingungen erfüllt sind. Beispielsweise, wenn der Benutzer von einem unbekannten Gerät oder einem unbekannten Standort zugreift. Ein Benutzer, der für MFA aktiviert ist, aber für den der Abschluss der MFA-Überprüfung beim Zugriff auf das Partner Center nicht vorgeschrieben ist, kann bewirken, dass die Metriken 100 % nicht erreichen.
 
 >[!NOTE]
->Partner, die MFA mithilfe der Azure AD-Basisrichtlinie zum Schutz von Endbenutzern implementiert haben, müssen beachten, dass der Schutz von Endbenutzern eine risikobasierte Richtlinie darstellt. Benutzer, die von der Richtlinie abgedeckt werden, werden nur bei Anmeldeversuchen mit höherem Risiko zur MFA aufgefordert (beispielsweise, wenn der Benutzer sich von einem anderen Standort aus anmeldet). Außerdem verbleiben Benutzern unter der Richtlinie 14 Tage für die Registrierung bei MFA. Benutzer, die die MFA-Registrierung nicht abgeschlossen haben, werden während des 14-Tages-Zeitraums nicht zur MFA-Überprüfung aufgefordert. Daher ist bei Partnern, die MFA mithilfe der Azure AD-Basisrichtlinie zum Schutz von Endbenutzern implementiert haben, damit zu rechnen, dass die Metriken die 100 % nicht erreichen.
+>Partner, die MFA mithilfe von Azure AD-Sicherheitsstandards implementiert haben, müssen beachten, dass die mehrstufige Authentifizierung für Nicht-Administrator-Benutzerkonten risikobasiert erzwungen wird. Benutzer werden nur bei Anmeldeversuchen mit erhöhtem Risiko zur MFA aufgefordert (beispielsweise, wenn sich der Benutzer von einem anderen Standort aus anmeldet). Außerdem bleiben Benutzern 14 Tage Zeit für die Registrierung bei MFA. Benutzer, die die MFA-Registrierung nicht abgeschlossen haben, werden während des 14-Tages-Zeitraums nicht zur MFA-Überprüfung aufgefordert. Daher ist bei Partnern, die MFA mithilfe der Azure AD-Sicherheitsstandards implementiert haben, damit zu rechnen, dass die Metriken die 100 % nicht erreichen.
 
 ### <a name="are-you-using-3rd-party-mfa-solution"></a>Verwenden Sie eine MFA-Lösung eines Drittanbieters?
 

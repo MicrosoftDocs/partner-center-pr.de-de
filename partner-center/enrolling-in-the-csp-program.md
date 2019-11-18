@@ -2,16 +2,18 @@
 title: Registrieren für das Programm für Cloud Solution Provider | Partner Center
 ms.topic: article
 ms.date: 03/20/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Lernen Sie die verschiedenen Modelle für den Verkauf in CSP kennen, und finden Sie heraus, welche Lösung am besten zu Ihrem Unternehmen passt.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 2f9c0aeb67b287caa65c2e807c5fc237f0ea7037
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 5b13ee39b514da197abd64eb64b6086c6ce11ecc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318844"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653197"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud-Lösungsanbieter
 
@@ -21,7 +23,7 @@ ms.locfileid: "71318844"
 
 ## <a name="get-started"></a>Beginnen
 
-Die rasant wachsende Nachfrage nach cloudbasierten Lösungen und Diensten bietet Microsoft-Partnern aller Größen zahlreiche Chancen für den Aufbau eines rentablen Cloudlösungsgeschäfts. Partner, die auf den Markt gehen, aber nicht mehrere Anbieter verwalten möchten oder die über keine End-to-End-Infrastruktur für die Kundenverwaltung verfügen, können sich beim Microsoft-Programm für Cloud-Lösungsanbieter (Cloud Solution Provider, CSP) als indirekter Wiederverkäufer registrieren.
+Die rasant wachsende Nachfrage nach cloudbasierten Lösungen und Diensten bietet Microsoft-Partnern aller Größen zahlreiche Chancen für den Aufbau eines rentablen Cloudlösungsgeschäfts. Partner, die auf den Markt gehen, aber nicht mehrere Anbieter verwalten möchten oder die über keine Infrastruktur für das End-to-End-Kundenbeziehungsmanagement verfügen, können sich beim Microsoft-Programm für Cloud-Lösungsanbieter (Cloud Solution Provider, CSP) als indirekter Wiederverkäufer registrieren.
 
 Um sich beim Programm für Cloud Solution Provider zu registrieren, benötigen Sie zuerst eine MPN-ID. Sie besitzen noch keine? Treten Sie [hier](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=) bei.
 
@@ -30,7 +32,7 @@ Beim Ausfüllen der CSP-Anwendung benötigen Sie die MPN-ID Ihres Unternehmens, 
 1. Melden Sie sich mit Ihrer geschäftlichen E-Mail-Adresse (d. h. Ihren Azure AD-Mandanten-Anmeldeinformationen) bei Partner Center an.
 
 2. Erstellen Sie Ihr Partnerprofil, und ordnen Sie Ihre MPN-ID Ihrem Profil zu.
-Die Überprüfung Ihrer Angaben kann mehrere Tage dauern. Wir werden Sie per E-Mail informieren, wenn unsere Überprüfung abgeschlossen ist.
+Die Überprüfung deiner Angaben kann mehrere Tage dauern. Wir werden Sie per E-Mail informieren, wenn unsere Überprüfung abgeschlossen ist.
 
 3. Nachdem wir Ihre Informationen bestätigt haben, akzeptieren Sie die Vereinbarung für indirekte Microsoft-Wiederverkäufer.
 
@@ -41,7 +43,7 @@ Die Überprüfung Ihrer Angaben kann mehrere Tage dauern. Wir werden Sie per E-M
 
 Wenn Sie sich im CSP-Programm als indirekter Wiederverkäufer registrieren, erwerben Sie keine Produkte direkt von Microsoft und erhalten auch keine Rechnung direkt von Microsoft. Stattdessen arbeiten Sie mit indirekten Anbietern bzw. Wiederverkäufern, die direkte Transaktionen mit Microsoft durchführen.
 
-Eine Partnerschaft mit einem indirekten Anbieter bedeutet, dass Sie keine Infrastruktur für eine Markteinführung benötigen und nichts direkt bei Microsoft kaufen müssen, sondern stattdessen mit einem erfahrenen Technologieanbieter zusammenarbeiten, der Sie bei Ihrem Vorhaben unterstützt. Im Rahmen des Anbieter-Vertriebspartner-Modells erwirbt der Anbieter Cloudlösungen und -dienste von Microsoft, während Sie die Produkte bereitstellen und warten.
+Eine Partnerschaft mit einem indirekten Anbieter bedeutet, dass du keine Infrastruktur für eine Markteinführung benötigst und nichts direkt bei Microsoft kaufen musst, sondern stattdessen mit einem erfahrenen Technologieanbieter zusammenarbeitest, der dich bei deinem Vorhaben unterstützt. Im Rahmen des Anbieter-Vertriebspartner-Modells erwirbt der Anbieter Cloudlösungen und -dienste von Microsoft, während Sie die Produkte bereitstellen und warten.
 
 Verschiedene indirekte Anbieter bieten unterschiedliche Unterstützung und Leistungen. Ermitteln Sie daher die Anbieter in Ihrer Umgebung, die Ihre Anforderungen am besten erfüllen. Die meisten Anbieter bieten Folgendes:
 
@@ -51,9 +53,9 @@ Verschiedene indirekte Anbieter bieten unterschiedliche Unterstützung und Leist
 
 - Hilfe bei Finanzierungs- und Kreditbedingungen
 
-Falls Sie noch nicht mit einem Anbieter (oder Wiederverkäufer) zusammenarbeiten, können Sie die [Liste mit den offizielle Microsoft-Anbietern](https://partnercenter.microsoft.com/partner/find-a-provider) durchsuchen.
+Falls du noch nicht mit einem Anbieter (oder Händler) zusammenarbeitest, kannst du einen Anbieter in der [Liste mit offiziellen Microsoft-Anbietern](https://partnercenter.microsoft.com/partner/find-a-provider) finden.
 
-Weitere Informationen zu den Anforderungen für den Vertrieb im CSP-Programm als indirekter Vertriebspartner finden Sie unter [Erste Schritte als indirekter Reseller](https://partner.microsoft.com/cloud-solution-provider/whats-required) auf der [Microsoft Partner Network-Website](https://partner.microsoft.com/). 
+Weitere Informationen zu den Anforderungen, die du als indirekter Wiederverkäufer zur Teilnahme am CSP-Programm erfüllen musst, findest du unter [Erste Schritte als indirekter Reseller](https://partner.microsoft.com/cloud-solution-provider/whats-required) auf der [Microsoft Partner Network-Website](https://partner.microsoft.com/). 
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Registrieren als Direktabrechnungspartner
 

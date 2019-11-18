@@ -2,17 +2,19 @@
 title: Angebote für Partner im Cloud Solution Provider-Programm | Partner Center
 ms.topic: article
 ms.date: 10/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr zu den verfügbaren Angeboten für Partner im Cloud Solution Provider-Programm.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Produkt hinzufügen, an Kunden verkaufen, Partnerangebote, CSP-Angebote, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner, in CSP verkaufen, Azure RI, Azure Reserved Virtual Machine Instances, Azure-Reservierungen, Onlinedienste, Abonnementsoftware, AHUB, SQL Server in Azure, Windows Server in Azure, Kundenabonnements
 ms.localizationpriority: high
-ms.openlocfilehash: 062c64254ab731bd9396201268aad61ff6b3b74f
-ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.openlocfilehash: c0ddfac22b776d49b05f6f9d780ed092183d4796
+ms.sourcegitcommit: 9d68c3fe3194bc583c88b22d8a9f60e4b369b79d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "73045629"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "73799208"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Angebote für Partner im Cloud Solution Provider-Programm 
 
@@ -79,6 +81,9 @@ Die folgende Liste identifiziert jeden der neuen Bereiche auf der Seite **Produk
 
 Um Produkte und Dienstleistungen im Auftrag Ihrer CSP-Kunden zu kaufen, wählen Sie die Artikel aus, die der Kunde wünscht. Fügen Sie sie Ihrem Einkaufswagen hinzu, wodurch eine Bestellung erstellt wird, prüfen Sie dann die Bestellung, und senden Sie sie ab. Der allgemeine Ablauf wird im Folgenden beschrieben. (Weitere Informationen zu Bestellungen eines bestimmten Produkts finden Sie über die obigen Links.)
 
+>[Hinweis] Ein CSP-Angebot muss sowohl im Mandantenland des Partners als auch im Mandantenland des Kunden verfügbar sein. 
+>Wenn sich dein Mandant beispielsweise in der Slowakei und der Mandant des Kunden in Deutschland befindet, kannst du Dynamics 365 Business Central Premium nicht an diesen Kunden verkaufen, da dieses Angebot zurzeit nicht in der Slowakei verfügbar ist.
+
 1. Wählen Sie **Kunden** im Menü „Partner Center“ aus, und suchen Sie den Kunden, der bei Ihnen kaufen möchte. 
 
 2. Klicken Sie am Ende der Zeile auf den nach unten zeigenden Pfeil, um die Kundendaten zu erweitern, und wählen Sie dann **Produkte hinzufügen** aus. Ab diesem Punkt wird eine Bestellung erstellt. Eine Bestellung kann mehrere Artikel unterschiedlicher Art enthalten, die aber alle denselben Kunden haben müssen.
@@ -89,13 +94,18 @@ Um Produkte und Dienstleistungen im Auftrag Ihrer CSP-Kunden zu kaufen, wählen 
 
 5. Wählen Sie das vom Kunden gewünschte Produkt aus, geben Sie die gewünschte Menge ein, und klicken Sie dann auf **In den Einkaufswagen**.
 
-6. Wiederholen Sie die Schritte 4 und 5, bis Sie alle erforderlichen Artikel hinzugefügt haben. Klicken Sie auf **Überprüfen**, um sicherzustellen, dass Ihre Bestellung ordnungsgemäß ist.  
+6. Wiederhole die Schritte 4 und 5, bis du dem Einkaufswagen alle erforderlichen Artikel hinzugefügt hast. Klicken Sie auf **Überprüfen**, um sicherzustellen, dass Ihre Bestellung ordnungsgemäß ist.  
 
 7. Überprüfen Sie auf der Seite **Bestellungen überprüfen** die Produkte und die Menge (bzw. ändern Sie diese), und klicken Sie dann auf **Kaufen**. 
 
 8. Die Details Ihrer Bestellung, einschließlich Ihrer Bestellnummer, werden auf der nächsten Seite angezeigt. Klicken Sie auf **Fertig**, und wechseln Sie zur Seite **Bestellverlauf**. 
 
-> [!NOTE]
-> Weitere Informationen zur Funktionsweise des Abrechnungsprozesses finden Sie unter [**Grundlegendes zur Abrechnung**](https://docs.microsoft.com/partner-center/billing-basics).
+**Weitere Informationen** 
+
+Weitere Informationen zur Funktionsweise des Abrechnungsprozesses findest du unter [Grundlagen zur Abrechnung](https://docs.microsoft.com/partner-center/billing-basics).
+
+Informationen zum Erwerb im Rahmen des Azure-Plans findest du unter [Erwerb des Azure-Plans](purchase-azure-plan).
+
+
 
 

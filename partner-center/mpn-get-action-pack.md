@@ -2,17 +2,19 @@
 title: Erwerben oder Verlängern Ihrer Guthabenangebote | Partner Center
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: Hier erfahren Sie, wie Sie ein Microsoft Action Pack erstmalig erwerben oder verlängern.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Action Pack, MAPS, MAPS verlängern, Action Pack verlängern, Action pack erwerben
 ms.localizationpriority: high
-ms.openlocfilehash: 544059c06d0e4dd0714ac2fd29b8d2e4291deda1
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: ef1ad6e37fd15274ce6e2272dcd8e563738f263a
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978741"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654299"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Erstmaliges Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements oder der Kompetenzen „Silver“ oder „Gold“
 
@@ -55,7 +57,7 @@ Weitere Details zum Action Pack finden Sie auf der [Microsoft Partner Network](h
 
 3. Wenn Sie per Kreditkarte bezahlen, folgen Sie den Anweisungen, um Ihre Kreditkarteninformationen hinzuzufügen. Wenn die Zahlung per elektronischer Überweisung erfolgt, geben Sie Namen, Telefonnummer und E-Mail-Adresse ein, und wählen Sie dann **Übermitteln** aus. 
      
-4. Überprüfen Sie Ihre Auftragsdetails, und wählen Sie dann **Kaufen** aus, um das Action Pack zu erwerben. Ihre Kreditkarte wird sofort belastet.
+4. Überprüfe deine Auftragsdetails, und wähle dann **Kaufen** aus, um das Action Pack zu erwerben. Ihre Kreditkarte wird sofort belastet.
 
 5. Ihre Bestellung wird bestätigt. Wählen Sie **Schließen** aus.
 
@@ -69,7 +71,7 @@ Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlänge
 2. Aktivieren Sie **Automatische Verlängerung deaktivieren**, wenn Sie Ihr Action Pack-Abonnement nicht jedes Jahr automatisch verlängern möchten. 
 
     >[!NOTE]
-    >Wenn Sie die automatische Abonnementverlängerung deaktivieren, können Sie erst wieder aktivieren, wenn Sie das Abonnement erneut verlängern. Wir erinnern Sie vor Ablauf Ihres Abonnements an die Verlängerung.
+    >Wenn du die automatische Abonnementverlängerung deaktivierst, kannst du sie erst wieder aktivieren, wenn du das Abonnement erneut verlängerst. Wir erinnern dich vor Ablauf deines Abonnements an die Verlängerung.
 
 
 ## <a name="cancel-your-action-pack-subscription"></a>Kündigen Ihres Action Pack-Abonnements

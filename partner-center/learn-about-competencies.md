@@ -2,22 +2,24 @@
 title: Microsoft-Kompetenzanforderungen für die Gold- und Silver-Mitgliedschaft | Partner Center
 ms.topic: article
 ms.date: 10/29/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Hier erfahren Sie mehr über die Kompetenzanforderungen für die Mitgliedschaftsstufen Silver und Gold.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Kompetenzen, Silver-Mitgliedschaft, Gold-Mitgliedschaft, MPN, MAPS, Kenntnisse, Microsoft Partner Network, Network Mitgliedschaft, erweiterte Spezialisierung
 ms.localizationpriority: high
-ms.openlocfilehash: d6991a6df1800b279aefb553188af79d3dd33ec2
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: 4ebdeff79ad61cf37806f0c76620920a304c3fe4
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413355"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653326"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informationen zu den Kompetenzanforderungen und erweiterten Spezialisierungen für Microsoft Silver und Gold
 
 
-Demonstrieren Sie Ihr Fachwissen bei der Bereitstellung von Qualitätslösungen in mindestens einem speziellen Geschäftsbereich. Microsoft-Kompetenzen dienen zur Vorbereitung auf die Erfüllung der Kundenanforderungen. Mit ihnen können Sie neue Kunden gewinnen, die einen für Microsoft-zertifizierten Lösungsanbieter suchen. Werden Sie Teil der Microsoft-Partnerelite, und heben Sie sich von anderen Anbietern ab.
+Demonstrieren Sie Ihr Fachwissen bei der Bereitstellung von Qualitätslösungen in mindestens einem speziellen Geschäftsbereich. Microsoft-Kompetenzen dienen zur Vorbereitung auf die Erfüllung der Kundenanforderungen. Mit ihnen kannst du neue Kunden gewinnen, die einen Microsoft-zertifizierten Lösungsanbieter suchen. Werden Sie Teil der Microsoft-Partnerelite, und heben Sie sich von anderen Anbietern ab.
 
 - Eine **Silver-Mitgliedschaft** ist ein Beleg für die hohe Konsistenz Ihrer Fähigkeiten, Fachkenntnisse und Einsatzbereitschaft.
 

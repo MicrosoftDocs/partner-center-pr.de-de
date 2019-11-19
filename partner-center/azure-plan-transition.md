@@ -2,18 +2,20 @@
 title: Umstellung von Kunden auf einen Azure-Plan | Partner Center
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Problemlose Umstellung Ihrer Kunden auf den Azure-Plan
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: bb019f50a6648fb0bfffb7f465a50ed8a5bb6244
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: d19648053fefdcd998ad47bde2d68b289f15a10c
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428537"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653839"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>Umstellung Ihrer Kunden auf einen Azure-Plan
 
@@ -83,7 +85,7 @@ Informationen zur Umstellung von direkten Enterprise-Verträgen auf CSP und Serv
 
 **Überwachungsprotokoll**:
 
-Um die Abrechnung abzugleichen, zeigen Sie den Verlauf der „Microsoft Azure“-Abonnements (0145P) auf der Seite **Abonnements** an. 
+Um die Abrechnung abzugleichen, musst du nur den Verlauf der „Microsoft Azure“-Abonnements (0145P) auf der Seite **Abonnements** anzeigen. 
 
 Das Abonnement „Microsoft Azure“ (0145P) setzt sich aus zwei Teilen zusammen:
 1. Commerce-Abonnement 

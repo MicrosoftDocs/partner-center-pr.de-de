@@ -1,20 +1,20 @@
 ---
 title: Anpassen der Windows-Willkommensseite eines Geräts mit Windows Autopilot-Profilen | Partner Center
-description: Vorkonfigurieren der Windows-Willkommensseite eines Geräts mit Autopilot-Profilen.
 ms.topic: article
-ms.date: 03/18/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
+description: Learn how to customize or pre-configure a new device's out-of-box experience with Autopilot profiles before you deliver the device to the customer.
 author: maggiepuccievans
 ms.author: evansma
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero-Touch Deployment, Windows-Willkommensseite, Anmeldebildschirme, Willkommensseite
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ad6482c68da6c964414be3b7f036835934f049e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a07c18fda7de0aa5854fb46a91bea692c033d51c
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653902"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253328"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Anpassen der Windows-Willkommensseite eines Geräts mit Windows Autopilot-Profilen
 
@@ -24,7 +24,7 @@ ms.locfileid: "73653902"
 
 Wenn Sie Kundengeräte verwalten, müssen Sie die Windows-Willkommensseite für die Benutzer des Kunden anpassen. Sie können neue Geräte mit Windows Autopilot-Profilen vorkonfigurieren, bevor Sie die Geräte an Kunden ausliefern, und neue Profile auf bereits erworbene Geräte anwenden. 
 
-Beachten Sie, dass OEMs damit begonnen haben, eine Versand Bezeichnung auf der Außenseite des Autopilot-Geräts hinzufügen, die die **Product Key-ID (pkid)** des Geräts anzeigt.  Dieser eindimensionale, lesbare Barcode bietet downstreampartnern eine Möglichkeit, Geräte für Autopilot zu registrieren, ohne die Geräte zu entkacken und die Geräte-ID auf alternative Weise zu erfassen.
+Note that OEMs have started including a shipping label on the outside of the Autopilot device box that shows the device's **Product Key ID (PKID)** .  This 1-dimensional, readable barcode provides downstream partners with a way to register devices for Autopilot without having to unbox the device(s) and harvest the device ID by alternative means.
 
 In diesem Artikel wird erläutert, wie Sie im Partner Center Autopilot-Profile erstellen und auf Geräte anwenden.
 
@@ -53,7 +53,7 @@ Die folgenden Berechtigungen und Einschränkungen für die Verwaltung von Profil
 
 - Sie können vorhandene Geräte für Ihre Kunden verwalten, die Sie hinzugefügt haben.
 
-- Sie können keine Geräte verwalten, die Ihr Kunde in Microsoft Store für Unternehmen oder das Microsoft InTune Portal hochgeladen hat.
+- You can't manage devices your customer has uploaded to Microsoft Store for Business or the Microsoft Intune Portal.
 
 ## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Erstellen und Verwalten von Autopilot-Profilen im Partner Center
 
@@ -161,15 +161,15 @@ Führen Sie die im Partner Center nachstehenden Anweisungen zum Hinzufügen von 
 
 Wenn Sie beim Versuch, die CSV-Datei hochzuladen, eine Fehlermeldung erhalten, überprüfen Sie das Format der Datei. Sie können nur den Hardwarehash oder den OEM-Namen, die Seriennummer und das Modell (in dieser Spaltenreihenfolge) oder die Windows-Produkt-ID verwenden. Sie können auch die CSV-Beispieldatei verwenden, die über den Link neben **Geräte hinzufügen** bereitgestellt wird, um eine Geräteliste zu erstellen.
 
-Die CSV-Datei sollte in etwa wie folgt aussehen:
+Your .csv file should look something like this:
 
-> **Seriennummer des Geräts, Windows-Produkt-ID, Hardware Hash, Herstellername, Gerätemodell**
+> **Device Serial Number,Windows Product ID,Hardware Hash,Manufacturer name,Device model**
 
-> **{SerialNumber},,, Microsoft Corporation, Surface Laptop**
+> **{serialNumber},,,Microsoft Corporation,Surface Laptop**
 
-Beachten Sie, dass bei "Herstellername" und "Gerätemodell" die Groß-/Kleinschreibung beachtet wird.
+Note that "Manufacturer name" and "Device model" are case-sensitive.
 
-Wenn Sie nicht wissen, welchen Wert Sie für Herstellername und Gerätemodell benötigen, können Sie diesen auf dem Gerät ausführen, um die richtigen Werte zu erfassen:
+If you don't know what value to put for Manufacturer name and Device Model, you can run this on the device to gather the correct values:
 
 <pre><code>md c:\\HWID
 

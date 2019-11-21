@@ -1,20 +1,20 @@
 ---
 title: Kunden delegieren Administratorrechte an Partner | Partner Center
 ms.topic: article
-ms.date: 12/18/2018
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Als Reseller-Partner kann Ihr Kunde Sie als Administrator delegieren. Sie können auch Berechtigungen entfernen.
+description: Learn how to ask customers to delegate administrator permissions to a reseller or remove the same permissions and how to use the permissions.
 author: LauraBrenner
 ms.author: labrenne
 keywords: delegierte Administratorrechte, Administrator im Auftrag von, Berechtigungen entfernen, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 35777dbdaa8ce77f4a1e7154447b37cd62772bc6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f49fa5c4b320d05c6c6a9049b41170457bb394f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653423"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253480"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Kunden delegieren Administratorrechte an Partner
 
@@ -33,13 +33,13 @@ Um den Dienst oder das Abonnement im Auftrag eines Kunden verwalten zu können, 
     >[!IMPORTANT]
     >Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist und den Kunden direkt mit Ihrem Konto verknüpft. 
     
-3.  Wählen Sie **Fertig** aus, wenn Sie diesen Schritt abgeschlossen haben.
+3.  Select **Done** when you've completed this step.
 
 4.  Senden Sie die E-Mail an den Kunden.
 
 5.  Nachdem der Kunde die Einladung angenommen hat, wird er auf der Seite **Kunden** angezeigt, und Sie können den Dienst für den Kunden von dort aus bereitstellen und verwalten.
 
-6.  Um das Konto, die Dienste, Benutzer und Lizenzen des Kunden zu verwalten, erweitern Sie den Datensatz des Kunden, indem Sie den Pfeil nach unten in der Nähe des Namens auswählen und dann das Verwaltungs Portal für den Dienst auswählen, den Sie verwalten möchten.
+6.  To manage the customer's account, services, users, and licenses, expand the customer's record by selecting the down arrow near their name and then select the admin portal for the service you want to manage.
 
 >[!IMPORTANT]  
 >Kunden können Administratorberechtigungen im Verwaltungsportal eines Diensts neu zuweisen oder entfernen. Erst wenn Sie Ihre Vereinbarung mit dem Kunden erneut verhandeln, sind Sie jedoch weiterhin für die Bereitstellung des Supports und die Einhaltung der Bedingungen der Vereinbarung für Cloud-Vertriebspartner verantwortlich, auch nachdem ein Kunde die Administratorberechtigungen neu zugewiesen oder entfernt hat. In diesem Fall können Sie sich an den Microsoft-Support wenden, wenn der Kunde Hilfe benötigt, um eine Serviceanfrage im Auftrag des Kunden zu öffnen.
@@ -48,17 +48,17 @@ Ihre Kunden können über das Office 365-Verwaltungsportal ermitteln, welche ihr
 
 1. Der Kunde muss sich als globaler Administrator beim Office 365-Verwaltungsportal anmelden.
 
-2. Wählen Sie **Einstellungen** > **Partner Beziehungen**aus.
+2. Select **Settings** > **Partner relationships**.
 
 3. Auf der Seite **Partnerbeziehungen** wird dem Kunden eine Liste der Partner angezeigt, mit denen er zusammenarbeitet, sowie der Partner, denen delegierte Administratorrechte für den Mandanten erteilt wurden.
 
-## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Kunden können die delegierten Administratorrechte eines Partners verwalten. 
+## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>Customers can manage a partner's delegated admin privileges 
 
 Ihr Kunde kann beispielsweise Ihre delegierten Administratorrechte aus dem Mandanten entfernen, aber die Beziehung mit Ihnen zu Abonnement- und Lizenzverlängerungszwecken beibehalten. Kunden verwalten Rechte und Berechtigungen für ihre Office 365-Konten im Office 365 Admin Center auf der Seite **Partnerbeziehungen**. Auf dieser Seite können Kunden die folgenden Aktionen ausführen:
 
 - Anzeigen, mit welchen Partnern eine Beziehung besteht und welche Partner über delegierte Administratorrechte verfügen
 
-- Entfernen der delegierten Administratorrechte eines Partners aus dem Mandanten
+- Remove a partner's delegated administration privileges from the tenant
 
 Gehen Sie wie folgt vor, um die delegierten Administratorrechte eines Partners zu entfernen:
 
@@ -71,25 +71,25 @@ Gehen Sie wie folgt vor, um die delegierten Administratorrechte eines Partners z
 
 ## <a name="delegated-admin-privileges-in-azure-ad"></a>Delegierte Administratorrechte in Azure AD 
 
-Im Azure AD Mandanten des Partners, die für die delegierte Administration verwendet werden, gibt es zwei Sicherheitsgruppen: Administrator-Agents und Helpdesk-Agents. Wenn ein Kunde einem Partner delegierte Administratorrechte erteilt, geschieht Folgendes:
+There are two security groups, Admin Agents and Helpdesk Agents, in the partner's Azure AD tenant that are used for delegated administration. Wenn ein Kunde einem Partner delegierte Administratorrechte erteilt, geschieht Folgendes:
 
-- Die Gruppe "Administrator-Agent" wird der Rolle "globaler Administrator" im Azure AD Mandanten des Kunden zugewiesen.
+- The Admin Agent group is assigned to the Global Administrator role in the customer's Azure AD tenant.
 
-- Die Gruppe "Helpdesk-Agent" wird der Rolle "Helpdesk-Administrator" im Azure AD Mandanten des Kunden zugewiesen.
+- The Helpdesk Agent group is assigned to the Helpdesk Administrator role in the customer's Azure AD tenant.
 
-Basierend auf den zugewiesenen Verzeichnis Rollen können sich Mitglieder beider Gruppen bei den Azure AD Mandanten-und O365-Diensten des Kunden anmelden, indem Sie Ihre Partner Anmelde Informationen und den Administrator im Auftrag des Kunden verwenden.
+Based on the directory roles assigned, members of both groups can sign in to the customer's Azure AD tenant and O365 services using their partner credentials and administrator on behalf of the customer.
 
-Wenn Ihr Kunde Delegierte Administratorrechte entfernt, werden die Azure AD Rollenzuweisungen entfernt, und Sie können den Azure AD-Mandanten des Kunden nicht mehr verwalten.
+If your customer removes delegated admin privileges, the Azure AD role assignments are removed, and you will no longer be able to manage the customer's Azure AD tenant.
 
 ### <a name="azure-subscriptions-and-resource-management"></a>Azure-Abonnements und Ressourcenverwaltung
 
-Jedes Azure-Abonnement verfügt über einen eigenen Satz von Ressourcenverwaltungsrollen. Bevor ein CSP-Partner das Azure-Abonnement eines Kunden verwalten kann, muss der Partner mindestens einer Rolle unter dem Azure-Abonnement zugewiesen werden. Das bedeutet Folgendes:
+Jedes Azure-Abonnement verfügt über einen eigenen Satz von Ressourcenverwaltungsrollen. Before a CSP partner can manage a customer's Azure subscription, the partner must be assigned to one or more roles under the Azure subscription. Das bedeutet Folgendes:
 
 - Wenn ein Kunde eine Händlereinladung annimmt und einem Partner delegierte Administratorrechte erteilt, erhält der Partner nicht automatisch Zugriff auf vorhandene Azure-Abonnements unter dem Kundenmandanten.
 
 - Wenn der CSP-Partner ein neues Azure-Abonnement für den Kunden bereitstellt, wird der Gruppe der Administrator-Agents unter dem CSP-Partnermandanten automatisch die Rolle „Besitzer“ unter dem Abonnement zugewiesen. Basierend auf dieser Rollenzuweisung können Mitglieder der Gruppe auf Ressourcen unter dem Abonnement zugreifen und diese verwalten.
 
-- Wenn ein Kunde Delegierte Administratorrechte von einem Partner mithilfe des Office 365-Portals entfernt, kann der Partner weiterhin das Azure-Abonnement des Kunden verwalten, solange der Partner weiterhin einer oder mehreren Rollen im Abonnement zugewiesen ist. Um die Verwaltung des Azure-Abonnements durch den Partner zu beenden, muss der Kunde die Rollenzuweisung entfernen.
+- When a customer removes delegated administration privileges from a partner using Office 365 Portal, the partner can still manage the customer's Azure subscription as long as the partner is still assigned to one or more roles under the subscription. Um die Verwaltung des Azure-Abonnements durch den Partner zu beenden, muss der Kunde die Rollenzuweisung entfernen.
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
 
@@ -101,7 +101,7 @@ Im Partner Center können CSP-Partner unter den folgenden Umständen Autopilot-P
 
 - Sie können von Ihnen oder einem anderen Partner hinzugefügte Kundengeräte verwalten. 
 
-- Sie können keine Geräte verwalten, die Ihr Kunde über die Microsoft Store für Unternehmen, Microsoft Store für Bildungseinrichtungen oder Microsoft InTune Portal hinzugefügt hat.
+- You can't manage devices your customer has added through the Microsoft Store for Business, Microsoft Store for Education, or Microsoft Intune Portal.
 
 Weitere Informationen zu Autopilot finden Sie unter [Vereinfachen der Geräteinstallation mit Windows Autopilot](https://docs.microsoft.com/partner-center/autopilot).
 

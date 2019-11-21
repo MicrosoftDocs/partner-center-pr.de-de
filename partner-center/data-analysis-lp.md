@@ -1,22 +1,32 @@
 ---
 title: Daten und Analysen in Partner Center | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Analysieren Sie Ihr Unternehmen mithilfe der Datenfunktionen in Partner Center.
+description: Learn how to use analytics in Partner Center to better understand your business and how your customers are using the licenses you've purchased.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Daten, Analysen, Datenanalysen, Power BI
 ms.localizationpriority: medium
-ms.openlocfilehash: 8817cc372ab2fbefce51f047f81b410c38003966
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 4c2f970a5dc96f9e49da6ca1fb2a05cd6d224e61
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653234"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252272"
 ---
-# <a name="get-data-and-analyze-your-business"></a>Abrufen von Daten und Analysieren Ihres Unternehmens 
+**Zielgruppe**
+
+- Partner Center
+- MPN-Partner
+- Partner im CSP-Programm
+
+**Appropriate role**
+
+- MPN-Partneradministrator
+
+# <a name="get-data-and-analyze-your-business"></a>Abrufen von Daten und Analysieren Ihres Unternehmens
 
 Die Planung von Strategien zum Ausbau Ihres CSP-Geschäfts setzt voraus, dass Sie verstehen, wie Ihre Kunden Microsoft-Produkte verwenden. Sie haben mehrere Optionen zum Sammeln von Daten in Partner Center. Sie können Daten zu Ihrem Unternehmen erfassen und Daten darüber sammeln, ob und wie Ihre Kunden die erworbenen Lizenzen verwenden. Wenn Sie das direkte CSP-Modell nutzen, können Sie die Partner Center Analytics-App für Power BI installieren und verwenden, um zusätzliche Daten zu erfassen.
 
@@ -29,8 +39,10 @@ In Partner Center hat nur der MPN-Partneradministrator Zugriff auf Benutzeranaly
 
 **Gewähren des Zugriffs auf Benutzeranalysen in Partner Center** 
 
-1.  Suchen Sie in Partner Center auf der Seite **Benutzerverwaltung** über das Suchfeld die Person, die Zugriff benötigt.
-2.  Wählen Sie in den Suchergebnissen den Namen der Person aus, um die Seite mit den **Benutzer Details** zu öffnen.
+1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+
+2. From the Partner Center menu, On the Partner Center **User management** page, use the Search box to find the person who needs access.
+2.  In the search results, select the person's name to open the **User details** page.
 3.  Wählen Sie unter **Rollen und Berechtigungen** die Option **MPN-Partneradministrator** und anschließend **Aktualisieren** aus.
 
  

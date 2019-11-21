@@ -1,9 +1,9 @@
 ---
 title: Analysieren der Azure-Nutzung | Partner Center
-ms.date: 08/02/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Rufen Sie im Partner Center Daten zur Nutzung der Azure-Abonnements Ihrer Kunden ab.
+Description: Learn how to use Partner Center to get data about the usage of your customers' Azure subscriptions.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
@@ -11,12 +11,12 @@ ms.topic: article
 keywords: Geschäftsdaten
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b4c85cc591dfe43feb6a442de1b239520b56fe45
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 89d76cf3945c5831f6ab2fd1fe77c8df1b9c233e
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653380"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253393"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Abrufen von Daten zur Verwendung der Azure-Abonnements Ihrer Kunden
 
@@ -27,7 +27,7 @@ Betrifft
 Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Azure-Nutzung**, um Ihre Erfolge sowie die Bereiche zu identifizieren, die mehr Aufmerksamkeit erfordern. Nutzen Sie diese Informationen bei der Planung neuer Geschäftsziele.
 
 > [!NOTE]
-> Die Analysen der Azure-Nutzung stehen nur Partnern im Cloud Solution Provider-Programm zur Verfügung.
+> Azure usage analytics is available only for partners in the Cloud Solution Provider program.
 
 Wir verfolgen die folgenden Metriken:
 
@@ -41,13 +41,13 @@ Wir verfolgen die folgenden Metriken:
 
 - Die Top 5-Kunden für die angegebene Kategorie  
 
-## <a name="azure-subscriptions-at-risk"></a>Risiken bei Azure-Abonnements
+## <a name="azure-subscriptions-at-risk"></a>Azure subscriptions at risk
 
-In diesem Abschnitt wird das vorhergesagte Änderungs Risiko für Azure-Abonnements angegeben. Diese Informationen können von Partnern verwendet werden, um sich mit Kunden zu beauftragen und die Abwanderung zu minimieren.
+This section indicates the predicted churn risk to Azure subscriptions. This information can be used by partners to engage with customers and minimize churn
 
 ## <a name="subscriptions-without-usage"></a>Abonnements ohne Nutzung
 
-- Liste mit bestimmten Abonnements ohne Azure-Nutzung im angegebenen Zeitraum  
+- List of specific subscriptions without Azure usage in the specified time period  
 
 ## <a name="azure-subscription-churn"></a>Änderungsumfang bei Azure-Abonnements
 

@@ -1,21 +1,21 @@
 ---
 title: Kundenkommunikation von Microsoft | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Im Allgemeinen wird davon ausgegangen, dass die Cloud-Lösungsanbieter-Partner die gesamte Kommunikation mit dem Kunden übernehmen.
+description: Learn how Microsoft expects customer communications to occur between customers and partners in the Cloud Solution Provider program.
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Kommunikation, Kundenkommunikation, mit Microsoft sprechen
 ms.localizationpriority: medium
-ms.openlocfilehash: b7196ec84c40fb4cfafc5aa388d40433c5c96863
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 4a02e5befab4553c9fbd6e5a99a6565c4ddc9b8c
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653469"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253558"
 ---
 # <a name="customer-communication-from-microsoft"></a>Kundenkommunikation von Microsoft
 

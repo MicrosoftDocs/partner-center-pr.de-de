@@ -1,27 +1,33 @@
 ---
 title: Azure Cost Management von Cloudyn für CSP-Partner | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure Cost Management von Cloudyn erfordert einen Zugriff über die Partner Center-API.
+description: Learn how to register the Cloudyn web app and use a secret key for it in Partner Center so you can use the app to track customer Azure usage and costs.
 author: Janet
 ms.author: janet
 Keywords: Azure Cost Management-App, Kostenmanagement, Web-Apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: a746522d3470a8b97b845ed723fae87455e33e5e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b05f2085aad63f8a0e23fa44de97550d13053f86
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653866"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253295"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure Cost Management-App für Azure CSP-Partner  
 
 **Zielgruppe**
 
--  Partner Center
+- Partner Center
+- Partner im Cloud Solution Provider-Programm
+
+**Appropriate roles**
+
+- Globaler Administrator
+- Administratoragent
 
 [Weitere Informationen zu Azure Cost Management](https://go.microsoft.com/fwlink/p/?linkid=857893)
 

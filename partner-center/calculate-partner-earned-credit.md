@@ -1,49 +1,49 @@
 ---
-title: Berechnung der Gutschrift durch den Partner Partner Center
+title: How the partner earned credit is calculated | Partner Center
 ms.topic: article
-ms.date: 09/17/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Berechnung der Gutschrift des Partners für die Gutschrift des Azure-Plans
+description: Learn how the partner earned credit (PEC) aspect of Azure plan is calculated. This includes eligibility requirements for partners and indirect providers.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 402ee0e2084191c7d4f592dd91480be8e1bd0341
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 59cbc822e886b031a49c281334e8287580311408
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653718"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253416"
 ---
-# <a name="how-the-partner-earned-credit-pec-is-calculated"></a>Berechnen der Gutschrift für den Partner (PEC)
+# <a name="how-the-partner-earned-credit-pec-is-calculated"></a>How the partner earned credit (PEC) is calculated
 
 
-Partner, die die rund um die Uhr über die IT-Betriebsverwaltung von Teilen oder die gesamte Azure-Umgebung ihrer Kunden im CSP besitzen, werden mit PEC belohnt. Das PEC wird als Teil der Rechnung an den Partner über eine direkte abrechnungsbeziehung mit Microsoft bereitgestellt. Die Gutschrift wird täglich berechnet und in der monatlichen Rechnung widergespiegelt. Standardmäßig erhalten Partner in CSP die erforderlichen Zugriffsrechte für das Abonnement des Kunden, das es Ihnen ermöglicht, rund um die Uhr Betriebsverwaltung zu verfügen und die Ressourcen des Abonnements zu steuern. Weitere Möglichkeiten zum Bereitstellen von Zugriff für einen Transaktionspartner finden Sie im folgenden Abschnitt.   
+Partners who own the 24x7 IT operations management of parts or the entire Azure environment of their customers in CSP are rewarded with PEC. The PEC is provided as part of the invoice to the partner who has a direct billing relationship with Microsoft. The credit is calculated daily and reflected in the monthly invoice. By default, in CSP, partners are granted the necessary access rights to the customer's subscription that allows them to have 24X7 operations management and control of the resources on the subscription. Additional ways in which customer can provision access for transacting partner are described in the following section.   
 
 
-## <a name="important-eligibility-and-calculation-requirements"></a>Wichtige Anforderungen für die Eignung und Berechnung:
+## <a name="important-eligibility-and-calculation-requirements"></a>Important eligibility and calculation requirements:
 
-- Ein Partner sollte über eine aktive MPN-Vereinbarung und eine gültige RBAC-Rolle (Role Based Account C) verfügen, um eine Gutschrift für die von Ihnen verwalteten Azure-Ressourcen zu erhalten. Weitere Informationen zu [gültige RBAC-Rollen]
+- A partner should have an active MPN agreement and a valid Rules Based Account C (RBAC) role to receive earned credit for the azure assets they manage. Learn more about [valid RBAC roles]
 
-- Der indirekte Anbieter kann sich für die Verwaltung von Management Pack qualifizieren, wenn Sie oder der indirekte Händler über eine operative Kontrolle und Verwaltung der Azure-Ressourcen des Kunden in CSP verfügen.
+- The indirect provider will be eligible for PEC if either they or their indirect reseller or both have 24x7 operational control and management of the customer's Azure resources in CSP.
 
-- PEC ist dem in Rechnung gestellten (kostenpflichtigen) Verbrauch des Azure-Immobilienkunden in CSP zugeordnet, der vom Partner verwaltet wird. 
+- PEC is associated to billed (chargeable) consumption of customer's Azure estate in CSP managed by the partner. 
 
-- PEC ist nur für Partner in CSP verfügbar, die von Microsoft (indirekter Anbieter und direkter Rechnungs Partner) abgerechnet werden.
+- PEC is available only to partners in CSP who are billed by Microsoft (indirect provider and direct bill partner).
 
-- Berechtigte Dienste: die Gutschrift eines Partners ist für alle Azure-1-PP-Azure-Verbrauchs in der Preisliste anwendbar. Es gibt Ausnahmen, einschließlich, aber nicht beschränkt auf 3PP und Azure reservations.
+- Eligible Services: Partner earned credit is applicable to all Azure 1PP Azure consumption given on the price list. There are exceptions including, but not limited to, 3PP and Azure Reservations.
 
-- PEC wird täglich berechnet und kann in der täglichen Reconnaissance-Datei angezeigt werden. Ein Partner (Anbieter oder Reseller (über seinen Anbieter) muss für den ganzen Tag (rund um die Uhr) Zugriff haben, um sicherzustellen, dass er die Leistung von PEC erhält.
+- PEC is calculated daily and can be viewed in the daily recon file. A partner (provider or reseller (through their provider) must have access for the entire day (24x7) to ensure they earn PEC.
 
-- Die Azure-Ressourcenebene reicht von der Azure-Ressourcenebene. Wenn der Partner über einen gültigen Zugriff auf Abonnement-oder Ressourcengruppen Ebene verfügt, wird jede Ressource, die für die höhere Entität verwendet wird, mit dem Wert "PEC" erhalten. 
+- PEC wird bis hinab zur Azure-Ressourcenebene erworben. If the partner has valid access at the subscription, or resource group level, each resource that role up to the higher entity will earn PEC. 
 
-- PEC wird in die monatliche Rechnung des Partners eingeschlossen. Die Rechnung ist gebührenpflichtig. Die Details werden in der Datei "Rechnungs Reconnaissance" angezeigt.
+- PEC will be included on the partner's monthly invoice. The invoice is net of charges. The details are shown in the invoice recon file.
 
-Weitere Informationen zum Zugriff auf die Verwaltung von Azure-Abonnements und zum Verknüpfen ihrer MPN-ID mit RBAC-Rollen finden Sie [unter Verwalten von Abonnements und Ressourcen im Azure-Plan](azure-plan-manage.md).
+For information on gaining access to manage Azure subscriptions and on how to link your MPN ID to RBAC roles, read [Manage subscriptions and resources under the Azure plan](azure-plan-manage.md).
 
 Weitere Informationen
 
-- [Azure-Plan: Abrechnung](azure-plan-billing.md)
+- [Azure plan - billing](azure-plan-billing.md)
 
 - [Preisliste für die neue E-Commerce-Benutzeroberfläche in CSP ](azure-plan-price-list.md)

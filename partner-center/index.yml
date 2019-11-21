@@ -11,13 +11,13 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 11/05/2019
-  ms.openlocfilehash: 4976296092b1c40e3b1ac77c8591a620a1c5c43c
-  ms.sourcegitcommit: 8425d3435892651e3e6cb1147cd3b268b2b1869b
+  ms.date: 11/20/2019
+  ms.openlocfilehash: 6b543cf8fcc25122b0c2ec48a3bd60202772f29a
+  ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 11/07/2019
-  ms.locfileid: "73753865"
+  ms.lasthandoff: 11/20/2019
+  ms.locfileid: "74253684"
 highlightedContent:
   items:
   - title: Anmelden, um die neuesten Ankündigungen anzuzeigen
@@ -29,9 +29,9 @@ highlightedContent:
   - title: API und Early Adopter-Programm für SDK beitreten
     itemType: deploy
     url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
-  - title: Neuer Microsoft-Kundenvertrag
-    itemType: concept
-    url: confirm-customer-agreement.md
+  - title: Übersicht über den kommerziellen Marketplace
+    itemType: whats-new
+    url: csp-commercial-marketplace-overview.md
   - title: Mehrstufige Authentifizierung und bewährte Sicherheitsmethoden
     itemType: overview
     url: partner-security-requirements.md
@@ -57,9 +57,9 @@ conceptualContent:
       text: Weitere Informationen
   - title: Kontakt zu Kunden
     links:
-    - url: csp-offers.md
+    - url: confirm-customer-agreement.md
       itemType: how-to-guide
-      text: Verkaufen von Produkten und Dienstleistungen
+      text: Neuer Microsoft-Kundenvertrag
     - url: assign-licenses-to-users.md
       itemType: how-to-guide
       text: Verwalten von Kundenlizenzen

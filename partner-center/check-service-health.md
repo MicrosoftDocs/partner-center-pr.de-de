@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Wenn ein Kunde mit einem Dienst Probleme hat, sollten Sie zuerst die Dienstintegrität überprüfen.
+description: Learn how to check service health for a customer when they experience a problem with a service.
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Integrität, Dienstintegrität, Dienstprobleme
 ms.localizationpriority: medium
-ms.openlocfilehash: 62e968ef733b45edf52f5a91343c1df4616d8053
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 5dbb478e37aaec144b822a2b2288860addf549b7
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653699"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253433"
 ---
 # <a name="check-service-health"></a>Überprüfen der Dienstintegrität
 

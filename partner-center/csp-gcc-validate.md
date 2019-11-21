@@ -1,19 +1,19 @@
 ---
 title: Office 365 Government GCC – Zulassungskriterien für Partner und Kunden | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Verfahren zum Überprüfen von Partnern und Kunden für Office 365 Government GCC für CSP.
+description: Learn the steps for direct bill partners (direct resellers, indirect providers) to validate partners and customers for Office 365 Government GCC for CSP.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ba7bf7c788e6dc90f68b7f46e5105be60c2c99ca
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 418aaa8624a7a22945dbbdb2d410dd061bab4586
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653549"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253527"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Government GCC für CSP – Zulassungskriterien für Partner und Kunden
 
@@ -29,7 +29,7 @@ Wenn Sie möchten, dass Ihr Unternehmen oder das Ihres Kunden für Office 365 Go
 
 Sie können zugelassen werden, wenn Sie ein Partner sind, der für US-Behörden auf staatlicher, bundesstaatlicher, lokaler oder kommunaler Ebene arbeitet. Um die Qualifikation Ihres Unternehmens überprüfen zu lassen, füllen Sie das kurze Formular [hier](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner) aus.
 
-Ihr Kunde kann zugelassen werden, wenn er von Behörden regulierten Daten verarbeitet oder eine behördliche Einrichtung auf staatlicher, bundesstaatlicher, lokaler oder kommunaler Ebene ist. Wenn Sie die Berechtigung der Organisation Ihrer Kunden überprüft haben möchten, füllen Sie das kurze Formular [aus.](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer) 
+Ihr Kunde kann zugelassen werden, wenn er von Behörden regulierten Daten verarbeitet oder eine behördliche Einrichtung auf staatlicher, bundesstaatlicher, lokaler oder kommunaler Ebene ist. To have your customers' organizations' eligibility validated, please complete the brief form located [here](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
 
 -   Ihre Organisation muss für das Cloud Solution Provider-Programm [registriert](https://partnercenter.microsoft.com/partner/cloud-solution-provider) sein. Dies ist eine Voraussetzung für die Zulassung für Office 365 Government GCC für CSP.
 -   Eine detaillierte Anleitung zum Prüfprozess für Office 365 Government GCC für CSP finden Sie [hier](https://go.microsoft.com/fwlink/?linkid=2007323).
@@ -50,7 +50,7 @@ Office 365 Government GCC für CSP-Partner und -Kunden werden basierend auf best
     -   Regionale oder zwischenstaatliche Entitäten (jedoch keine internationalen Entitäten)
     -   Federally Funded Research and Development Center (FERDCs)
 
-2.  Gewerbliche private Entität mit Daten, die Vorschriften unterliegen. Akzeptierte Arten von Behördendaten: 
+2.  Commercial private entity with data that's subject to regulations. Akzeptierte Arten von Behördendaten: 
     -   International Traffic in Arms (ITAR)
     -   Controlled Unclassified Information (CUI)
     -   Department of Defense (DoD) Unclassified Controlled Nuclear Information (UCNI)

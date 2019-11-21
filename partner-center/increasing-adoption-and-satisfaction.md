@@ -1,20 +1,20 @@
 ---
 title: Steigerung von Einführungsrate und Zufriedenheit | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wächst und auf welche Bereiche sie ihre Investitionen konzentrieren sollten. Das Partner Center liefert ihnen Informationen darüber, ob und wie die Kunden die erworbenen Lizenzen nutzen.
+description: Learn how to use metrics in Partner Center to see whether your business is growing, how customers are using their licenses, and where to focus investment.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b143a97afb65b1444831152e40eaccb90580dc05
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 3acd6e259487946a7a1005ec9fd2c5d74160bc99
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653347"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253703"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Steigern von Akzeptanz und Zufriedenheit
 
@@ -64,7 +64,7 @@ Terminologie:
 ## <a name="next-steps"></a>Nächste Schritte
 
 
-Wenn Sie viele Hilfe und Fragen zu Fragen haben, sind die Einführungs Zahlen in Ihrem Konto niedrig, oder Sie suchen nach Upselling-Möglichkeiten. Sie sollten auch Schulungskurse anbieten. Wenn Sie Ihren Kunden die Nutzung der von Ihnen erworbenen cloudlösungssoftware erleichtern, sehen Sie eher eine Steigerung der Produktivität und Zufriedenheit und eine Abnahme der Supportanforderungen.
+If you are fielding a lot of Help and How-to questions, the adoption numbers on your account are low, or you're looking for upsell opportunities, you may want to consider offering training courses. By teaching your customers how to better use the cloud solution software they have purchased, you're more likely to see an increase in productivity and satisfaction, and a decrease in support needs.
 
 <table>
 <colgroup>
@@ -72,14 +72,14 @@ Wenn Sie viele Hilfe und Fragen zu Fragen haben, sind die Einführungs Zahlen in
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problem:</strong> Die Benutzer Akzeptanz Rate ist niedrig, und viele Lizenzen&#39;werden verwendet.</p>
-<p><strong>Mögliche Ursache:</strong> Die Kunden erkennen den Wert nicht, den Ihnen die Software bieten kann. Sie benötigen Hilfe bei der Planung der Art und Weise, wie Sie Sie in Ihren Tag einbinden können, um Aufgaben zu vereinfachen, die Sie bereits ausführen, oder um neue Arten von Produktivität zu ermöglichen.</p>
+<td><p><strong>Problem:</strong> The user adoption rate is low, and many licenses aren&#39;t being used.</p>
+<p><strong>Mögliche Ursache:</strong> Die Kunden erkennen den Wert nicht, den Ihnen die Software bieten kann. They need help envisioning the ways they could incorporate it into their day to simplify tasks that they're already doing, or to enable new kinds of productivity.</p>
 <p><strong>Was Sie nutzen können:</strong> Fallstudien, Benutzerempfehlungen zu bestimmten Szenarien, Blogs mit Lernprogrammen oder Videos.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Problem:</strong> Sie erhalten eine große Anzahl von Hilfe-Supportanrufen und Fragen zu Vorgehensweisen.</p>
 <p><strong>Mögliche Ursache:</strong> Kunden kennen die Software, die Produktversion oder ihre Aufgabe noch nicht so gut.</p>
-<p><strong>Was Sie ausprobieren sollten:</strong> Sie können eine duale Strategie zum anbieten von Schulungen (persönlich oder Online) verwenden, um das&#39;allgemeine Know-how der Kunden zu verbessern und gleichzeitig einige der Self-Service-Optionen zu fördern, die Kunden zur Verfügung stehen.</p>
+<p><strong>What to try:</strong> You can use a dual strategy of offering training (in person or online) to increase customer&#39;s overall expertise, while also promoting some of the self-service options available to customers.</p>
 <p>Sie können ggf. auch Ihre Supportwebsite so anpassen, dass sie zusätzlich zu den Supportkontaktinformationen auch die Self-Service-Optionen umfasst, die im Thema <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Kundenselbsthilfe</a> beschrieben sind.</p></td>
 </tr>
 </tbody>

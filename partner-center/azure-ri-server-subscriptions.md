@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 7/30/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Durch das Hinzufügen von Azure RI und Server-Abonnements in das CSP-Programm, unterstützen wir unsere Partner mit der schnell wachsenden Kundennachfrage für kostengünstigere Lösungen zur Unterstützung von verlässlichen, permanenten Cloud-Workloads. Mit dem CSP-Programm können Partner Azure RI und Server-Abonnements für kommerzielle Kunden über das Microsoft-Partner Center und das Azure-Portal bereitstellen und verwalten.
+description: Erfahren Sie mehr über die Möglichkeiten von Cloud Solution Provider zum Abrufen, bereitstellen und Verwalten von Azure-Reservierungen und Server Abonnements für Ihre Kunden.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, Abonnements, VM, Reservierung, reservierte Instanz
 ms.localizationpriority: medium
-ms.openlocfilehash: e745a52e1f80164ae13d1d4b0fe058775b1074b3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e9a5e6c7a28a20b0b168616f39db591b5dd90649
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653798"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253233"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
 # <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Azure Reserved VM Instances (RI) + Server-Abonnements für Azure
 
-**Zielgruppe**
+**Gilt für**
 
 - Partner Center
  
@@ -77,7 +77,7 @@ Um zu verstehen, wie Sie Azure Reservations bei Ihren Kunden positionieren und e
 
 ## <a name="resources"></a>Ressourcen: 
 
-Im Folgenden finden Sie eine umfassende Liste der Ressourcen, die Ihnen helfen, Azure Reservations über Partner Center-Partner schnell zu integrieren: 
+Im folgenden finden Sie eine umfassende Liste der Ressourcen, die Ihnen helfen, Azure Reservations über Partner Center-Partner schnell zu integrieren: 
 
 **Vertriebsbereitschaft**
 
@@ -112,7 +112,7 @@ Im Folgenden finden Sie eine umfassende Liste der Ressourcen, die Ihnen helfen, 
 
 **Betrieb**
 
-- [Betriebshandbuch für den modernen Handel](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (aktualisiert): ein umfassendes Handbuch, das wichtige Richtlinien und betriebliche Aspekte behandelt, wie z. b. Verträge, die Bestellung über Partner Center, Rechnungen, Preislisten Details, Anreize, Abstimmungs Dateien, API/SDK, Sandbox und Gemeinsame Dienste von Azure-Partnern.
+- [Betriebshandbuch für den modernen Handel](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (aktualisiert): ein umfassendes Handbuch, das wichtige Richtlinien und betriebliche Aspekte behandelt, wie z. b. Verträge, die Bestellung über Partner Center, Rechnungen, Preislisten Details, Anreize, Abstimmungs Datei, API/SDK, Sandbox und gemeinsame Azure-Partner Dienste.
 - [Länderverfügbarkeit für moderne Angebote und Kundenwährungsmatrix](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [Verkaufen von Microsoft Azure Reserved Instances](https://go.microsoft.com/fwlink/?linkid=872806)
 - [Erwerben von Microsoft Azure Reservations im Auftrag Ihrer Kunden](https://go.microsoft.com/fwlink/?linkid=872807)
@@ -124,7 +124,7 @@ Im Folgenden finden Sie eine umfassende Liste der Ressourcen, die Ihnen helfen, 
 
 ## <a name="azure-hybrid-benefit"></a>Azure-Hybridvorteil
 
-Der [Azure-Hybridvorteil](https://azure.microsoft.com/pricing/hybrid-benefit) hilft Ihnen, mehr Nutzen aus Ihren Windows Server-Lizenzen zu ziehen und bei virtuellen Computern bis zu *47 % zu sparen. Sie können mit Windows Server Datacenter und Standard Edition-Lizenzen mit Software Assurance in den Genuss des Vorteils kommen. Je nach Edition können Sie Ihre Lizenzen zum Ausführen von Windows Server-VMs in Azure konvertieren oder erneut verwenden und einen niedrigeren Computetarif (Tarife für Linux-VMs) zahlen.
+Der [Azure-Hybridvorteil](https://azure.microsoft.com/pricing/hybrid-benefit) unterstützt Sie darin, mehr Wert aus Ihren Windows Server-Lizenzen zu erhalten und bei virtuellen Computern bis zu 47 Prozent* zu sparen. Sie können die Vorteile mit den Windows Server Datacenter und Standard-Editionslizenzen mit Software Assurance verwenden. Je nach Edition können Sie Ihre Lizenzen zum Ausführen von Windows Server-Computern in Azure konvertieren oder erneut verwenden und grundlegende Compute Datenraten zahlen (Tarife für Linux-VM).
 
 Siehe auch [Azure-Hybridvorteil – häufig gestellte Fragen](https://azure.microsoft.com/pricing/hybrid-benefit/faq/)
 

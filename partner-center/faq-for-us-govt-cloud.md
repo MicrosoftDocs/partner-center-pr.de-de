@@ -1,23 +1,23 @@
 ---
 title: Häufig gestellte Fragen zum Partner Center für Microsoft Cloud for US Government | Häufig gestellte Fragen für Partner Center für Microsoft Cloud for US Government
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Verwenden Sie die häufig gestellten Fragen, um mehr zum Cloud Solution Provider-Programm (CSP) für Microsoft Cloud for US Government zu erfahren. Wenden Sie sich bei Bedarf für weitere Informationen an Ihren Account Manager.
+description: Hier finden Sie Antworten auf häufig gestellte Fragen (FAQ) zum Cloud Solution Provider-Programm (CSP) für Microsoft Cloud für die US-Regierung.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 67960c2c7ab3ac4406140156ffa2457cede4f97f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 6aa9b3d3e4a6f73254ad0ea843a0f37be824f23d
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653120"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253634"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Häufig gestellte Fragen zum Partner Center für Microsoft Cloud for US Government
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center für Microsoft Cloud for US Government
 
@@ -118,7 +118,7 @@ Um die Integrität der Isolation von Microsoft Cloud für die US-Regierung zu ve
 
 **Was ist Microsoft Cloud for US Government für Azure?**
 
-Die Azure Government-Cloud bietet eine Cloudplattform, die den grundlegenden Prinzipien für Sicherheit, Datenschutz und -kontrolle, Regelkonformität und Transparenz entspricht. Institutionen des öffentlichen Sektors erhalten eine physisch isolierte Instanz von Microsoft Azure, auf der für alle Systeme und Anwendungen Dienste der höchsten Sicherheits- und Compliance-Stufe für die US-Regierung bereitstehen. Diese Dienste umfassen FedRAMP- und DoD-Compliance-Zertifizierungen, Vereinbarung über den CJIS-Status, die Möglichkeit zum Ausgeben von HIPAA Business Associate-Vereinbarungen und Unterstützung für IRS 1075. Von überprüften Mitarbeiter aus den USA betrieben, unterstützt Azure Government mehrere Hybridszenarien für das Erstellen und Bereitstellen von Lösungen, lokal oder in der Cloud. Öffentliche Institutionen können zudem die sofortige Skalierbarkeit und die garantierte Verfügbarkeit eines hoch skalierbaren Cloudservice nutzen.
+Die Azure Government-Cloud bietet eine Cloudplattform, die den grundlegenden Prinzipien für Sicherheit, Datenschutz und -Kontrolle, Regelkonformität und Transparenz entspricht. Institutionen des öffentlichen Sektors erhalten eine physisch isolierte Instanz von Microsoft Azure, auf der für alle Systeme und Anwendungen Dienste der höchsten Sicherheits- und Compliance-Stufe für die US-Regierung bereitstehen. Diese Dienste umfassen FedRAMP- und DoD-Compliance-Zertifizierungen, Vereinbarung über den CJIS-Status, die Möglichkeit zum Ausgeben von HIPAA Business Associate-Vereinbarungen und Unterstützung für IRS 1075. Von überprüften Mitarbeiter aus den USA betrieben, unterstützt Azure Government mehrere Hybridszenarien für das Erstellen und Bereitstellen von Lösungen, lokal oder in der Cloud. Öffentliche Institutionen können zudem die sofortige Skalierbarkeit und die garantierte Verfügbarkeit eines hoch skalierbaren Cloudservice nutzen.
 
 **Bietet das CSP-Programm für Microsoft Cloud for US Government alle Azure-Dienste an?**
 

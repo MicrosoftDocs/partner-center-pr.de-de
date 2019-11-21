@@ -1,29 +1,29 @@
 ---
-title: Verwalten von Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden | Partner Center
+title: Azure Reservations im Auftrag Ihrer Kunden verwalten | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Um die Azure-Reservierungen ihrer Kunden nach dem Kauf zu verwalten, wählen Sie den Kunden und die Reservierung aus, die Sie in Partner Center verwalten möchten, und nehmen dann Änderungen an der Reservierung im Azure-Portal vor.
+Description: Erfahren Sie, wie Sie Azure-Reservierungen im Auftrag eines Kunden verwalten, wie Sie eine Reservierung stornieren, eine Reservierung austauschen oder eine Rückerstattung anfordern.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, Reservierungen, verwalten, Abrechnung, Kauf, Stornierung, Umtausch, Gebühr bei vorzeitiger Kündigung
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b15e0396fce4f9a738b1b34049f0e9560f847f19
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653815"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252638"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Verwalten von Microsoft Azure Reservations im Auftrag Ihrer Kunden       
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 -  Microsoft Azure-Portal 
--  Partner im CSP
+-  CSP-Partner
 
 Um die Azure-Reservierungen ihrer Kunden nach dem Kauf zu verwalten, wählen Sie den Kunden und die Reservierung aus, die Sie in Partner Center verwalten möchten, und nehmen dann Änderungen an der Reservierung im Azure-Portal vor. 
 
@@ -31,17 +31,17 @@ Um die Azure-Reservierungen ihrer Kunden nach dem Kauf zu verwalten, wählen Sie
 
 2. Wählen Sie im Menü Detailseite des Kunden die Option **Azure-Reservierungen** aus, und wählen Sie dann die jeweilige Reservierung aus, die Sie verwalten möchten.  
 
-3. Wählen Sie unter **Aktionen**die Option **Verwalten** aus, um zum Reservierungsdaten Satz des Kunden in der Azure-Portal zu wechseln. Führen Sie auf der Seite „Reservierungsdetails“ die folgenden Schritte zum Abschließen der Aufgaben durch.  
+3. Wählen Sie unter **Aktionen**die Option **Verwalten** aus, um zum Reservierungsdaten Satz des Kunden in der Azure-Portal zu wechseln. Führen Sie auf der Seite der Reservierungsdetails die unten beschriebenen Schritte zum Abschließen der Aufgaben durch.  
 
-    | **Auswahl**   | **Zweck**    |
+    | **Auswahl**   | **Aktion**    |
     |:-----------------------------|:-----------------|
-    | **Übersicht**   | Anzeigen von Details der Reservierung eines Kunden, einschließlich Ablaufdatum, Bereich und Verwendungs Daten. **Hinweis** Wählen Sie **Rückerstattung** aus, um eine Supportanfrage für eine anteilige Rückerstattung zu stellen. Wählen Sie **Umtausch** aus, um eine Supportanfrage zu stellen, um den ungenutzten Teil Ihrer Reservierungslaufzeit umzutauschen.  
+    | **Übersicht**   | Anzeigen von Details der Reservierung eines Kunden, einschließlich Ablaufdatum, Bereich und Verwendungs Daten. **Hinweis:** Wählen Sie **Rückerstattung** aus, um eine Supportanfrage für eine Rückerstattung zu erstellen. Wählen Sie **Exchange**, um eine Supportanfrage zu erstellen, um nicht verwendete Teile der Reservierung auszutauschen.  
     | **Zugriffssteuerung (IAM)**   | Verwalten des Zugriffs auf die Reservierungs Informationen des Kunden.|
-    | **Konfiguration**   | Ändern Sie den Bereich der Reservierung und/oder das Azure-Abonnement, dem die Reservierung zugeordnet ist.    |
-    | **Eigenschaften**   | Zeigen Sie die Reservierungs Eigenschaften an, und kopieren Sie die Reservierungs-ID und die Reservierungs Auftrags-ID in die Zwischenablage. **Hinweis** Der Support fordert möglicherweise die Reservierungs-ID und Reservierungsauftrags-ID an, wenn Sie im Auftrag eines Kunden Support anfordern.    |
-    | **Neue Supportanfrage**    | Dient zum Anfordern von Hilfe vom Microsoft-Support.   |
+    | **Configuration**   | Ändern Sie den Bereich der Reservierung und/oder das Azure-Abonnement, dem die Reservierung zugeordnet ist.    |
+    | **Eigenschaften**   | Zeigen Sie die Reservierungs Eigenschaften an, und kopieren Sie die Reservierungs-ID und die Reservierungs Auftrags-ID in die Zwischenablage. **Hinweis:** Support fordert möglicherweise die Reservierungs-ID und die Reservierungsauftrags-ID an, wenn Sie im Auftrag eines Kunden Support anfordern.    |
+    | **Neue Supportanfrage**    | Support von Microsoft-Support.   |
  
-## <a name="cancel-or-exchange-a-reservation"></a>Stornieren oder Umtauschen einer Reservierung 
+## <a name="cancel-or-exchange-a-reservation"></a>Stornieren oder austauschen der Reservierung 
 
 Wenn sich die Geschäftsanforderungen eines Kunden an einem beliebigen Punkt ändern, möchten Sie ggf. eine Reservierung stornieren und eine Rückerstattung oder einen Reservierungsbetrag für eine Reservierung erhalten, der zum Preis einer neuen Reservierung verwendet wird.
 
@@ -55,12 +55,12 @@ Kunden können jederzeit die Stornierung einer Reservierung beantragen (maximale
 Nachfolgend finden Sie Details zu Kündigung und Gebühren.
 
 
-|**Kündigungsdatum**<br> (Tage)   |**Nutzung**    |**Guthaben**  |**Frühzeitige Kündigung**<br> gebühr    |**Max. Rückerstattungsbetrag** | 
+|**Kündigungsdatum**<br> (Tage)   |**Verwendung**    |**Guthaben**  |**Frühzeitige Kündigung**<br> gebühr    |**Max. Rückerstattungsbetrag** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |5 oder weniger                         | Nein          | 100 %       | Nein                              | 50.000 USD   |
-|5 oder weniger                         | „Ja“         | Anteilig  | Nein                              | 50.000 USD   |
+|5 oder weniger                         | Ja         | Anteilig  | Nein                              | 50.000 USD   |
 |Mehr als 5                        | Nein          | Anteilig  | 12 %                             | 50.000 USD   |
-|Mehr als 5                        | „Ja“         | Anteilig  | 12 %                             | 50.000 USD   |
+|Mehr als 5                        | Ja         | Anteilig  | 12 %                             | 50.000 USD   |
 
 
 **Funktionsweise des Umtauschs** 
@@ -70,12 +70,12 @@ Wenn ein Kunde eine andere Reservierung kaufen möchte als die, die er ursprüng
 Der anteilige Rückerstattungsbetrag wird Ihrem Konto gutgeschrieben, damit Sie dem Kunden einen Umtausch anbieten können.
 
 
-## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Anfordern einer Rückerstattung oder eines Umtauschs im Auftrag eines Kunden 
+## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Fordern Sie eine Rückerstattung oder einen Austausch im Auftrag eines Kunden an 
 
 Wenn Sie eine Supportanfrage für eine Erstattung oder einen Austausch im Auftrag ihrer Kunden einreichen möchten, wählen Sie den Kunden und die Reservierung im Partner Center aus, und erstellen Sie dann die Supportanfrage im Azure-Portal. 
 
 >[!NOTE]
->Microsoft-Supportmitarbeiter fragen Sie ggf. nach der Reservierungs-ID und Reservierungsauftrags-ID. Diese Informationen finden Sie auf der **Eigenschaften** Seite der Reservierung in der Azure-Portal. 
+>Microsoft-Support-Agents können Sie nach der Reservierungs-ID und der Reservierungsbestellungs-ID fragen. Diese Informationen finden Sie auf der **Eigenschaften** Seite der Reservierung in der Azure-Portal. 
 
 1. Wählen Sie zunächst im Menü „Partner Center“ **Kunden** und dann den Kunden aus, der eine Rückerstattung wünscht. 
 
@@ -83,21 +83,21 @@ Wenn Sie eine Supportanfrage für eine Erstattung oder einen Austausch im Auftra
 
 3. Wählen Sie unter **Aktionen**die Option **Erstattung** aus, um zum Reservierungsdaten Satz des Kunden im Azure-Portal zu wechseln und eine Supportanfrage zu initiieren.  
 
-4. Führen Sie auf der Seite **Neue Supportanfrage** die folgenden Schritte aus, um eine Rückerstattung zu beantragen. Klicken Sie nach jedem Schritt auf **Weiter**. 
+4. Auf der Seite **neue Supportanfrage**, führen Sie die folgenden Schritte aus, um eine Rückerstattung anzufordern. Wählen Sie **Weiter** nach jedem Schritt. 
 
     |**Schritt**                    |**Optionen**    |
     |:---------------------------|:-----------------|
     |**1 Grundlagen**                |Problemtyp: Abrechnung.  |
     |**2 Problem**               |Problemtyp: Reservierungsverwaltung. Kategorie: Austausch und Rückerstattungen. |
-    |**3: Kontaktinformationen**   |Wählen Sie Ihre Einstellungen aus, und geben Sie die erforderlichen Informationen ein. 
+    |**3: Kontaktinformationen**   |Wählen Sie Ihre Einstellungen, und geben Sie die erforderlichen Informationen an. 
 
-5.  Klicken Sie abschließend auf **Erstellen**.
+5.  Wählen Sie abschließend **Erstellen** aus.
 
-## <a name="azure-reservations-resources"></a>Ressourcen zu Azure-Reservierungen
-|**Weitere Informationen zu**   |**Bitte lesen**    |
+## <a name="azure-reservations-resources"></a>Azure Reservations-Ressourcen
+|**Weitere Informationen zu**   |**Artikel**    |
 |:-----------------------------|:-----------------|
-|Azure-Reservierungen in CSP (Übersicht)  | [Verkaufen von Microsoft Azure Reserved Instances](azure-reservations.md) |
+|Azure Reservations in CSP (Übersicht)  | [Verkaufen von Microsoft Azure Reserved Instances](azure-reservations.md) |
 |Erwerb von Azure-Reservierungen für Ihre Kunden im Partner Center   |[Kaufen von Azure-Reservierungen](azure-reservations-buying.md) |
-|Bestimmen der richtigen VM-Größe und Überprüfen der VM-Nutzung durch den Kunden   |[Bestimmen der VM-Größe für die maximale Nutzung von Azure-Reservierungen](azure-usage.md)   |
-|Erwerb von Azure-Reservierungen über die Partner Center-API | [Kaufen von Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in der Partner Center-Entwicklerdokumentation
+|Bestimmen der richtigen Größe für den virtuellen Computer und Überprüfen der Kunden-VM-Nutzung   |[Bestimmen der VM-Größe für die maximale Nutzung von Azure-Reservierungen](azure-usage.md)   |
+|Erwerb von Azure Reservations über die Partner Center-API | [Erwerben Sie Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in die Partner Center-Entwicklerdokumentation
 

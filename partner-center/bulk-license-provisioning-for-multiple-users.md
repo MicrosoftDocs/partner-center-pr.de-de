@@ -1,33 +1,33 @@
 ---
 title: Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sie können Lizenzen und Dienste einem Benutzer oder gleichzeitig mehreren Benutzern in einem Benutzerkonto zuweisen und die Lizenzzuweisung für Benutzer aufheben.
+description: Erfahren Sie, wie Sie ein Kundenkonto zum gleichzeitigen zuweisen oder widerrufen von Lizenzen und Diensten für einen oder mehrere Benutzer verwenden.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Lizenz zuweisen, Lizenz widerrufen, mehreren Benutzern zuweisen,
 ms.localizationpriority: medium
-ms.openlocfilehash: d55a73e295210df7527b2b29fd0a70d4b976f930
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c5846a0d12331bdb1aec26bd6289ac0e11896584
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653725"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253035"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 
 Sie können Lizenzen und Dienste einem Benutzer oder gleichzeitig mehreren Benutzern in einem Benutzerkonto zuweisen und die Lizenzzuweisung für Benutzer aufheben.
 
-Partner Center verfolgt alle Lizenzansprüche im Besitz des Kunden nach und zeigt sie an.
+Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und zeigt diese an.
 
-## <a name="in-this-section"></a>In diesem Abschnitt
+## <a name="in-this-section"></a>Inhalt dieses Abschnitts
 
 
 -   [Zuweisen von Lizenzen zu mehreren Benutzern](#assign-licenses-to-groups)

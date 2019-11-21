@@ -4,22 +4,22 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Informationen zu grundlegenden Abrechnungsszenarien und den Unterschieden zwischen lizenzbasierter und nutzungsbasierter Abrechnung
+Description: Erfahren Sie mehr über die grundlegenden Abrechnungs Szenarien im Partner Center für Azure-Abonnements und-Reservierungen sowie die Unterschiede zwischen der lizenzbasierten und der nutzungsbasierten Abrechnung.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Abrechnung, Zahlungen, Bestellungen, Kündigung, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Kontenabstimmungsdateien, Kontenabstimmungsdatei
+keywords: Abrechnung, Zahlungen, Aufträge, Abbruch, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Abstimmungsdateien, Abstimmungsdatei
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 13c2ecd5efcd3b2917a98b218c568b080a2a7833
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2087b75419e0f5235e1efcc67ecdd8f203f382c1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653758"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253211"
 ---
 # <a name="billing-overview"></a>Abrechnungsübersicht
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 -  Partner im CSP-Programm
@@ -42,11 +42,11 @@ Abhängig von den Produkten, Lösungen und Diensten, die Sie im Namen Ihrer Kund
 Wenn Sie sich für eine monatliche Abrechnung entschieden haben oder nutzungsbasierte Produkte gekauft haben, die monatlich abgerechnet werden, ist Ihr monatliches Abrechnungsdatum der Tag des Monats, den Sie beim Erstellen Ihres CSP-Kontos im Partner Center ausgewählt haben. Nachdem Sie Ihr CSP-Konto erfolgreich erstellt haben, sendet Microsoft eine Bestätigungs-e-Mail, die ihr Abrechnungsdatum enthält. Dieses Datum kann nach seiner Erstellung nicht mehr geändert werden. 
 
 ## <a name="pricing-and-invoicing"></a>Abrechnung und Fakturierung
-Preislisten sind einen (1) Monat im Voraus verfügbar, da sie monatlich aktualisiert werden. Lizenzbasierte Preise sind für die Dauer des Abonnements, in der Regel 12 Monate nach dem Kaufdatum, garantiert. Nutzungsbasierte Preise können sich monatlich ändern. 
+Preislisten sind 1 Monat im Voraus verfügbar, da sie monatlich aktualisiert werden. Lizenzbasierte Preise sind für die Dauer des Abonnements, in der Regel 12 Monate nach dem Kaufdatum, garantiert. Nutzungsbasierte Preise können sich monatlich ändern. 
 
 Preise für Produkte, Dienste und Softwareabonnements werden über die Dauer des Abonnements garantiert. Allerdings können sich die Preise ändern, wenn Sie es verlängern.
 
-Anpassungen und rückständige Guthaben werden in Ihrer nächsten Rechnung angezeigt, nachdem das Guthaben oder die Anpassung angerechnet wurde.
+Anpassungen und rückständige Guthaben werden in der nächsten Rechnung angezeigt, nachdem das Guthaben oder die Anpassung angerechnet wurde.
 
 Sie können Ihre Rechnungen und Erstattungsdateien auf der Abrechnungsseite im Partner Center anzeigen und herunterladen. Monatliche Rechnungen sind im Partner Center innerhalb von vier (4) Tagen nach Ablauf des ausgewählten Abrechnungsdatums verfügbar.
 
@@ -134,13 +134,13 @@ Sie können Softwareabonnements und Azure-Reservierungen für eine Laufzeit von 
 >[!IMPORTANT]
 >Wenn Sie Azure-Reservierungen und/oder Software Abonnements für einen Kunden an einem Standort mit einer anderen Währung als Ihrem kaufen, basiert die Standard Abrechnungswährung auf dem Standort des Kunden und nicht auf Ihrem Standort. Wenn Sie über Kunden an mehreren Standorten verfügen, erhalten Sie separate Rechnungen und Abstimmungs Dateien für jede Währung, in der Kunden abgerechnet werden müssen, damit Sie Ihre Kunden in der entsprechenden Währung berechnen können. 
 
-### <a name="manage-your-one-time-billing"></a>Verwalten Ihrer einmaligen Abrechnung
+### <a name="manage-your-one-time-billing"></a>Die einmalige Gebühr verwalten
 
 **Anzeigen Ihres aktuellen Abrechnungsstatus, Ihrer Rechnungen und Kontenabstimmungsdateien**
 
 1.  Wählen Sie im Partner Center **Abrechnung** und dann **Einmal** aus, um Ihren Abrechnungsstatus anzuzeigen. 
 
-2.  Wählen Sie eine Rechnung oder Kontenabstimmungsdatei aus, um ausführlichere Informationen anzuzeigen. 
+2.  Wählen Sie eine Rechnung oder Abstimmungsdatei, um ausführlichere Informationen anzuzeigen. 
 
 **Anzeigen des Auftragsverlaufs eines Kunden**
 
@@ -148,7 +148,7 @@ Sie können Softwareabonnements und Azure-Reservierungen für eine Laufzeit von 
 
 2.  Suchen Sie auf der Seite " **Kunden** " den Kunden, dessen Bestellverlauf Sie anzeigen möchten, und wählen Sie dann den Pfeil nach unten aus, um den Datensatz des Kunden zu erweitern. 
 
-3.  Wählen Sie **Bestellungen anzeigen** aus, um den Bestellverlauf anzuzeigen.
+3.  Wählen Sie **Aufträge anzeigen**, um den Bestellverlauf anzuzeigen.
 
 **Herunterladen einer Gutschrift**
 
@@ -156,4 +156,4 @@ Wenn Sie ein Guthaben oder eine Rechnung anfordern müssen, erhalten Sie eine Gu
 
 -   Korrektur der Adresse oder Bestellung
 
--   Rechnung wurde generiert und dann eine Steuerrückerstattung angewendet. Sie können eine Gutschrift/Neuberechnung anfordern, damit die Steuerrückerstattung wieder in die ursprüngliche Rechnung aufgenommen wird. Dies gilt auch für Rückerstattungen, da Sie eine Gutschrift/Neuberechnung der ursprünglichen Rechnung anfordern und dann in einer Rückerstattung berücksichtigen können.
+-   Rechnung wurde generiert, dann wurde eine Steuerrückerstattung angewendet Sie können eine Gutschrift/Neuberechnung anfordern, damit die Steuerrückerstattung wieder in die ursprüngliche Rechnung aufgenommen wird. Dies gilt auch für Rückerstattungen, da Sie eine Gutschrift/Neuberechnung der ursprünglichen Rechnung anfordern und dann in einer Rückerstattung berücksichtigen können.

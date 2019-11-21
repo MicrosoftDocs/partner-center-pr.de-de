@@ -1,24 +1,24 @@
 ---
 title: Kundenkonten | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Als Händlerpartner sollten Sie für jeden Ihrer Kunden ein Konto in Partner Center erstellen. Das Kundenkonto ist Ihr Ausgangspunkt zum Verkaufen von Abonnements, zum Arbeiten mit Rechnungen und zum Bereitstellen von Support.
+Description: Hier finden Sie Ressourcen für Reseller-Partner in Partner Center. Dies umfasst das Erstellen von Kundenkonten vor dem Verkauf von Abonnements, Rechnungen oder Angebots Support.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e933cb42187589f44846ca68aee0f2f7afa9e34
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 40fb278c360b7cbedf779d3528e85a5a88a19544
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653472"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253569"
 ---
 # <a name="customer-accounts"></a>Kundenkonten
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -28,8 +28,8 @@ Als Handelspartner müssen Sie für jeden Ihrer Kunden im Partner Center ein Kon
 
 ### <a name="resources-for-working-with-your-customers-on-the-partner-center"></a>Ressourcen für das Arbeiten mit Ihren Kunden im Partner Center
 
-|**Aufgabe**   |**Anleitung**   |**Zielgruppe**|
+|**Aufgabe**   |**Anleitung**   |**Gilt für**|
 |-----------------|:----------------------------|:--------------|
-|Kundengewinnung|Indirekte Händler stellen eine Verbindung mit [indirekten Anbietern](indirect-reseller-tasks-in-partner-center.md) her, von denen Sie Kunden empfohlen werden. Sie sollten auch sicherstellen, dass Ihr [Unternehmensprofil](create-a-marketing-profile.md) auf dem neuesten Stand ist. Wenn Sie mit einem Kunden eine [Zusammenarbeit](responding-to-referrals.md) vereinbart haben, [fügen](add-a-new-customer.md) Sie diesen Ihrem Konto hinzu. Direkte Partner sollten [Anfordern einer Beziehung mit einem Kunden](request-a-relationship-with-a-customer.md) lesen.|CSP-Partner|
-|Hinzufügen von Bestandskunden zu Ihrem Konto   | Kunden, mit denen auf anderen Portalen wie z.B. Office 365 zu tun haben, werden im Partner Center in Ihrer [Kundenliste](see-your-customer-list.md) angezeigt. Sie müssen [Handelspartnerschaften](indirect-reseller-tasks-in-partner-center.md) mit Bestandskunden etablieren. Zu diesem Zweck laden Sie sie per E-Mail ein, [mit Ihnen im Partner Center in Verbindung zu treten](responding-to-referrals.md).   | CSP-Partner   |
-|Verwalten aller Kundeninformationen   | Hinzufügen oder Entfernen von Kunden oder [eine Kundenbeziehung beenden](remove-a-relationship.md)|   CSP-Partner |
+|Kundengewinnung|Indirekte Händler stellen eine Verbindung mit [indirekten Anbietern](indirect-reseller-tasks-in-partner-center.md) her, die Ihnen Kunden zuweisen. Sie sollten sicherstellen, dass Ihr [Unternehmensprofil](create-a-marketing-profile.md) auf dem neuesten Stand ist. Wenn Sie mit einem Kunden einer [Zusammenarbeit](responding-to-referrals.md) zugestimmt haben, [fügen](add-a-new-customer.md) Sie diesen Ihrem Konto hinzu. Direkte Partner sollten [Anfordern einer Beziehung mit einem Kunden](request-a-relationship-with-a-customer.md) lesen.|CSP-Partner|
+|Vorhandene Kunden zu Ihrem Konto hinzufügen   | Kunden, mit denen auf anderen Portalen wie z.B. Office 365 zu tun haben, werden im Partner Center in Ihrer [Kundenliste](see-your-customer-list.md) angezeigt. Sie müssen [Vertriebspartnerschaften](indirect-reseller-tasks-in-partner-center.md) mit vorhandenen Kunden etablieren. Zu diesem Zweck laden Sie sie per E-Mail ein, [mit Ihnen im Partner Center in Verbindung zu treten](responding-to-referrals.md).   | CSP-Partner   |
+|Alle Kundendaten verwalten   | Hinzufügen oder Entfernen von Kunden oder [eine Kundenbeziehung beenden](remove-a-relationship.md)|   CSP-Partner |

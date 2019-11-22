@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: competencies, ISV, application development
 ms.localizationpriority: medium
-ms.openlocfilehash: de86b5d849e0ae8027a766559c38ebec8668f48b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 022d8f17e279726741d1ba8b7f3f9bc9a951a52d
+ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253356"
+ms.lasthandoff: 11/21/2019
+ms.locfileid: "74295229"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>One-time exam requirements exemption for the Application Development competency
 
@@ -64,7 +64,9 @@ Partner companies eligible for this offer were notified via email and in Partner
 
 You can review the Application Development competency benefits on the Microsoft partner website. 
 
-**What happens when it’s time for me to renew my competency when I get this offer?** We will provide more information about our plans for ISVs soon and provide guidance for partners that have the Application Development competency as a result of this offer.**  
+**What happens when it’s time for me to renew my competency when I get this offer?** 
+
+We will share more information about our plans for ISVs soon and provide guidance for partners that have the Application Development competency as a result of this offer.**  
 
 **How can I get this offer if my company did not have the ISV competency?**
 

@@ -9,17 +9,17 @@ ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Abrechnung, Zahlungen, Bestellungen, Kündigung, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Kontenabstimmungsdateien, Kontenabstimmungsdatei
-ms.localizationpriority: medium
-ms.openlocfilehash: dad4cffbd03e7e6ea811e5bf954a46a1566196f0
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: fcf341a11e0796adce6ce497c51d3316c1e623cf
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653733"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096457"
 ---
 # <a name="billing"></a>Abrechnung
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -30,7 +30,7 @@ Die Abrechnung befindet sich im Menü **Partner Center** unter **Abrechnung**. D
 Partner im Programm für Cloud Solution Provider mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60 Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte als auch nutzungsbasierte Abonnements).
 
 > [!NOTE]  
-> Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar und ist innerhalb von zwei (2) Tagen nach Ablauf des ausgewählten Abrechnungsdatums (in UTC-Zeit) verfügbar. Wenn beispielsweise das Abrechnungsdatum der 12. September ist, beginnt der Prozess zur Rechnungsgenerierung am 13. September um 12:00 Uhr UTC und endet am 14. September um 12:00 Uhr UTC. Wenn Ihre Rechnung nicht um 11:59uhr UTC am 15. September angezeigt wird, sind Sie nicht mehr in Ihrem Vereinbarung zum Servicelevel und sollten eine Service Request. 
+> Ihre Rechnung stellt eine Zusammenfassung aller Gebühren (programm-, produkt- und kundenübergreifend) für den aktuellen Monatszeitraum dar und ist innerhalb von zwei (2) Tagen nach Ablauf des ausgewählten Abrechnungsdatums (in UTC-Zeit) verfügbar. Wenn beispielsweise das Abrechnungsdatum der 12. September ist, beginnt der Prozess zur Rechnungsgenerierung am 13. September um 12:00 Uhr UTC und endet am 14. September um 12:00 Uhr UTC. Sollte Ihre Rechnung bis zum 15. September, 11:59 Uhr UTC, nicht angezeigt werden, befinden Sie sich außerhalb der Vereinbarung zum Servicelevel (Service Level Agreement, SLA) und sollten eine Serviceanfrage senden. 
 
 Wichtige Informationen zur Abrechnung mit Ihren Kunden:
 

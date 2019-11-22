@@ -8,17 +8,17 @@ description: Als Microsoft Partner Network-Mitglied haben Sie Anspruch auf den E
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, Mitgliedschaftsvorteile, Mitgliedschaft
-ms.localizationpriority: medium
-ms.openlocfilehash: be9f4ab4bc23308c3f2a342e6debba1338de4454
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: bc9ca4f3b186de36cc5b87be1bce70a7be89da62
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653315"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096466"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten Ihrer Microsoft Partner Network-Mitgliedschaftsvorteile
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 
@@ -33,11 +33,11 @@ Wenn Sie Microsoft Partner Network (MPN) beitreten, erhalten Sie Zugriff auf Mit
 Nach dem Erwerb eines Mitgliedschaftsvorteilspakets müssen Sie Softwareschlüssel abrufen und Mitarbeitern Lizenzen, Abonnements sowie andere Vorteile zuweisen, damit diese sie nutzen können. 
 
 >[!IMPORTANT]
->Sie müssen zwar kein globaler Administrator in Ihrer Organisation sein, um Vorteile zu erwerben, doch Sie müssen globaler Administrator sein, um Mitarbeitern Vorteile zuzuweisen. Falls erforderlich, können Sie ein globaler Administrator werden, indem Sie die Anweisungen auf der Seite mit den [ **Vorteilen** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) befolgen (Anmeldung erforderlich). Ihr Unternehmen verfügt möglicherweise bereits über einen globalen Administrator, und überprüfen Sie das Team.
+>Sie müssen zwar kein globaler Administrator in Ihrer Organisation sein, um Vorteile zu erwerben, doch Sie müssen globaler Administrator sein, um Mitarbeitern Vorteile zuzuweisen. Bei Bedarf können Sie ein globaler Administrator werden. Befolgen Sie dazu die Anweisungen auf der Seite [**Vorteile**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Möglicherweise gibt es in Ihrer Organisation bereits einen globalen Administrator. Erkundigen Sie sich in Ihrem Team danach.
 
-Vorteil von Paketen sind die Zuordnungen lizenzierter Software, Clouddienste, Visual Studio-Abonnements und Support. Mit den Vorteilen von Vorteilen können auch bestimmte Markt Einführungs Vorteile berücksichtigt werden. Ausführliche Informationen zum Action Pack-Abonnement finden Sie auf der [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software)-Website.  
+Vorteilspakete umfassen Zuweisungen von lizenzierter Software, Clouddiensten, Visual Studio-Abonnements und Support. Sie können auch bestimmte Markteinführungsvorteile enthalten. Ausführliche Informationen zum Action Pack-Abonnement finden Sie auf der [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software)-Website.  
 
-Um all Ihre Mitgliedschafts Vorteile anzuzeigen und zu verwalten, wechseln Sie zur Seite mit den [ **Vorteilen** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Alternativ können Sie sich beim Partner Center- [Dashboard](https://docs.microsoft.com/partner-center/)anmelden, im Menü auf der linken Seite die**Option [Vorteile**] auswählen und dann die angezeigten Vorteils Optionen auswählen.  
+Wenn Sie alle Ihre Mitgliedschaftsvorteile anzeigen und verwalten möchten, navigieren Sie zu Ihrer Seite [**Vorteile**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Alternativ können Sie sich beim Partner Center-[Dashboard](https://docs.microsoft.com/partner-center/) anmelden, im Menü auf der linken Seite die [**Option „Vorteile“** ] auswählen und dann aus den angezeigten Vorteilsoptionen auswählen.  
 
 #### <a name="manage-software-benefits"></a>Verwalten von Softwarevorteilen
 
@@ -93,7 +93,7 @@ Um all Ihre Mitgliedschafts Vorteile anzuzeigen und zu verwalten, wechseln Sie z
 
 3. Weisen Sie den Supportvorteil einem Benutzer zu, um ihn zu aktivieren. 
    
-    a.  Wählen Sie einen Benutzer aus der Liste aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen** [neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
+    a.  Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen** [neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
 
     b.  Geben Sie für den Benutzer eine E-Mail-Adresse ein, die sich von der E-Mail-Adresse unterscheidet, die dem Partner Center-Konto Ihres Unternehmens zugeordnet ist. 
     
@@ -104,47 +104,47 @@ Um all Ihre Mitgliedschafts Vorteile anzuzeigen und zu verwalten, wechseln Sie z
 4. Sie können Ihre Vorteile rund um technische Vorverkaufsdienste oder Beratungsstunden nutzen, um in den Phasen des Vorverkaufs, der Entwicklung, Bereitstellung und App-Entwicklung Ihrer Cloud- und Hybridlösungen technische Unterstützung anzufordern. Füllen Sie das [Anfrageformular](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
 ) aus, und wählen Sie dann **Anforderung einreichen** aus, um Unterstützung anzufordern.
 
-#### <a name="manage-go-to-market-benefits"></a>Verwalten von Vorteilen für die Markteinführung
+#### <a name="manage-go-to-market-benefits"></a>Verwalten von Markteinführungsvorteilen
 
 **Geeignete Rollen zum Ausführen dieser Aufgabe:**
 
 - Globaler Administrator
-- MPN-Partner Administrator
+- MPN-Partneradministrator
 
 
-1. Wählen Sie die **Vorteile der Markteinführung** aus, um die Liste der Vorteile von Microsoft für die Markteinführung anzuzeigen.
+1. Wählen Sie **Markteinführungsvorteile** aus, um Ihre Liste der Microsoft-Markteinführungsvorteile anzuzeigen.
 
-    Die [Vorteile der Markteinführung](mpn-learn-about-go-to-market-benefits.md) bieten zusätzliche Marketingressourcen und Unterstützung, die Ihnen möglicherweise zur Verfügung steht. Welche Arten von Vorteilen verfügbar sind, richtet sich nach ihrer speziellen Partnerebene und allen Kompetenzen, die Sie möglicherweise bereits erhalten haben.
+    [Markteinführungsvorteile](mpn-learn-about-go-to-market-benefits.md) bieten zusätzliche Marketingressourcen und Unterstützung, die Ihnen zur Verfügung stehen können. Welche Arten von Vorteilen dies sind, richtet sich nach ihrer jeweiligen Partnerebene und allen Kompetenzen, die Sie möglicherweise bereits erhalten haben.
 
-2. Um einen beliebigen Marktvorteil zu aktivieren, müssen Sie zunächst einen Firmenmarketing-Kontakt zuweisen. Dieser Kontakt erhält eine nachfolgende Kommunikation zu ihren aktiven Vorteilen für die Markteinführungszeit.
+2. Wenn Sie einen Markteinführungsvorteil aktivieren möchten, müssen Sie zuerst einen Marketingkontakt für das Unternehmen zuweisen. Dieser Kontakt wird weiterverfolgende Kommunikation zu Ihren aktiven Markteinführungsvorteilen empfangen.
 
-3. Um Ihre Marketing Kontaktinformationen hinzuzufügen oder zu aktualisieren, klicken Sie oben auf der Seite "Go-to-Market", und wählen Sie dann **Hinzufügen**, **Aktualisieren**oder **ändern**aus. Führen Sie nun die folgenden Schritte aus:  
+3. Um Ihre Marketingkontaktinformationen hinzuzufügen oder zu aktualisieren, wechseln Sie an den Anfang der Seite „Markteinführung“, und wählen Sie **Hinzufügen**, **Aktualisieren** oder **Ändern** aus. Führen Sie als Nächstes folgende Schritte aus:  
    
-    a.  Wählen Sie einen Benutzer aus der Liste aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen** [neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
+    a.  Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen** [neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
 
     b.  Geben Sie für den Benutzer eine E-Mail-Adresse ein, die sich von der E-Mail-Adresse unterscheidet, die dem Partner Center-Konto Ihres Unternehmens zugeordnet ist. 
     
-    Wir senden Ihnen eine e-Mail mit Anweisungen zur Nutzung Ihres Markt Einführungs Angebots an die e-Mail-Adresse Ihres designierten Marketing Kontakts. 
+    Wir werden Anleitungen zur Nutzung Ihres Markteinführungsvorteils per E-Mail an die E-Mail-Adresse Ihres angegebenen Marketingkontakts senden. 
     
-    c.  Geben Sie das Kontakt Telefon und die bevorzugte Sprache für diesen Marketing Kontakt an. Nachdem Sie die Eingabe dieser Informationen abgeschlossen haben, wählen Sie **Benutzer zuweisen**aus. 
+    c.  Geben Sie die Telefonnummer und die bevorzugte Sprache für diesen Marketingkontakt an. Nachdem Sie diese Informationen eingegeben haben, wählen Sie **Benutzer zuweisen** aus. 
 
-4. Nachdem Sie Ihren Marketing Kontakt aktualisiert haben, suchen Sie den Vorteil, den Sie verwenden möchten, und klicken Sie dann ganz rechts in der Zeile auf den Pfeil nach unten, um die Details des Vorteils zu erweitern. In der Liste werden alle Typen von Vorteilen angezeigt, die unter dem Namen des Vorteils verfügbar sind (z. b. **Silver Core** oder **Gold Core**).
+4. Nachdem Sie Ihren Marketingkontakt aktualisiert haben, suchen Sie den Markteinführungsvorteil, den Sie jetzt nutzen möchten. Wählen Sie dann den Abwärtspfeil ganz rechts neben der Zeile aus, um die Details zum Vorteil zu erweitern. In dieser Liste werden die einzelnen verfügbaren Vorteilsarten unter dem Namen „Vorteil“ angezeigt (z.B. **Silver Core** oder **Gold Core**).
 
-5. Wählen Sie **aktivieren** aus, um den Vorteil zu aktivieren.
+5. Wählen Sie **Aktivieren** aus, um den Vorteil zu aktivieren.
 
 > [!NOTE]
->Es kann mehrere Tage dauern, bis Sie Anweisungen an den zugewiesenen Marketing Kontakt senden und einen Markt Einführungs Vorteil aktivieren. Sobald der Vorteil aktiviert ist, werden die Änderungen auf der Seite "Go-to-Market" angezeigt. In der Spalte **Status** sehen Sie, dass der Vorteil in **aktiv**geändert wird. In der Spalte **läuft** ab wird das Datum angezeigt, an dem der Vorteil abläuft. Dieser Vorteil kann bis zum Ablaufdatum verwendet werden. Weitere Informationen zu den [verschiedenen Arten von Vorteilen für die Markteinführung](mpn-learn-about-go-to-market-benefits.md) finden Sie unter.  
+>Das Senden von Anleitungen per E-Mail an den zugewiesenen Marketingkontakt und das Aktivieren eines Markteinführungsvorteils kann mehrere Tage dauern. Sobald der Vorteil aktiviert wurde, werden Änderungen auf der Seite „Markteinführung“ angezeigt. In der Spalte **Status** ist die Änderung des Vorteils in **Aktiv** zu sehen. In der Spalte **Läuft ab** wird das Datum angezeigt, an dem der Vorteil abläuft. Sie können diesen Vorteil bis zu seinem Ablaufdatum nutzen. Informieren Sie sich genauer zu den [verschiedenen Arten der verfügbaren Markteinführungsvorteile](mpn-learn-about-go-to-market-benefits.md).  
 
 
-## <a name="cancel-a-membership-benefit"></a>Abbrechen eines Mitgliedschafts Vorteils
+## <a name="cancel-a-membership-benefit"></a>Abbrechen eines Mitgliedschaftsvorteils
 
-Um einen Vorteil abzubrechen und eine Rückerstattung zu erhalten, müssen Sie die Anforderung innerhalb von 30 Tagen nach dem Kauf durchführen und die Software Vorteile nicht aktivieren. Fordern Sie den Abbruch über eine Service Request an.
+Wenn Sie einen Vorteil abbrechen und eine Rückerstattung erhalten möchten, müssen Sie den Antrag dafür innerhalb von 30 Tagen nach dem Kauf stellen und dürfen die Softwarevorteile nicht aktiviert haben. Fordern Sie den Abbruch über eine Serviceanfrage an.
 
 
-#### <a name="see-also"></a>Weitere Informationen:
+#### <a name="see-also"></a>Weitere Informationen
 
 [Hinzufügen von Benutzern und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
 
 [Erstmaliges Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements](mpn-get-action-pack.md)
 
-[Weitere Informationen zu MPN-Vorteilen für die Markteinführung](mpn-learn-about-go-to-market-benefits.md)
+[Informationen zu MPN-Markteinführungsvorteilen](mpn-learn-about-go-to-market-benefits.md)

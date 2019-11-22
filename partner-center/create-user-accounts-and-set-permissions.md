@@ -9,13 +9,13 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Rollen, Berechtigungen, Benutzer hinzufügen, Rolle zuweisen, Administrator, Agent
-ms.localizationpriority: medium
-ms.openlocfilehash: c96ab4ffe5cd559bf34332211f0247851403dfad
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 088c94c59dadc6deead6f13d7f80612489e6e040
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653576"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096487"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen
 
@@ -26,11 +26,11 @@ Erstellen Sie Benutzerkonten für Mitarbeiter, die Zugriff auf das Partner Cente
 
 1. Klicken Sie im Partner Center rechts oben auf das Symbol **Einstellungen** und dann auf **Benutzerverwaltung**.
 
-2.  Wählen Sie **Benutzer hinzufügen**.
+2.  Wählen Sie **Benutzer hinzufügen** aus.
 
-3.  Geben Sie den vollständigen Namen des Benutzers und die eindeutige e-Mail-Adresse
+3.  Gib den vollständigen Namen und die eindeutige E-Mail-Adresse des Benutzers ein.
 
-4.  Wählen Sie den Agent- bzw. Administratortyp, den Sie dem Benutzer zuweisen möchten. Partner Center-Zugriff ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt.  Wenn Benutzer eine Rollenzuweisung wünschen, finden Sie globale Administratoren, die Sie kontaktieren möchten, indem Sie zu **Benutzerverwaltung** wechseln und nach globaler Administrator filtern.
+4.  Wählen Sie den Agent- bzw. Administratortyp, den Sie dem Benutzer zuweisen möchten. Partner Center-Zugriff ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt.  Wenn Benutzer eine Rollenzuweisung wünschen, finden sie die zu kontaktierenden globalen Administratoren unter **Benutzerverwaltung** durch Filtern nach „globaler Administrator“.
 
 5.  Wählen Sie **Hinzufügen** aus, um das Benutzerkonto zu erstellen. Bestätigen Sie die Details des Benutzers auf der nächsten Seite.
 
@@ -79,9 +79,9 @@ Um im Partner Center arbeiten zu können, muss Ihnen eine Rolle zugewiesen sein.
 
 Spezifische Informationen zu den Rollen und ihren Möglichkeiten finden Sie unter [Zuweisen von Benutzerberechtigungen](permissions-overview.md).
 
-## <a name="associate-a-users-microsoft-learn-account-in-partner-center"></a>Zuordnen des Microsoft Learn Kontos eines Benutzers in Partner Center
+## <a name="associate-a-users-microsoft-learn-account-in-partner-center"></a>Zuordnen des Microsoft Learn Kontos eines Benutzers im Partner Center
 
-Damit Sie die Schulungs-und Lernpfade sehen können, die Ihre Benutzer für die Zuständigkeiten nutzen, müssen Sie Ihre MCP-ID Ihrem Partner Center-Konto zuordnen. Wenn Sie neue Benutzer hinzufügen, müssen Sie Sie als globaler Administrator daran erinnern, ihre MCP-ID Ihrem Konto zuzuordnen. 
+Damit Sie die Schulungs- und Lernpfade anzeigen können, die Ihre Benutzer für Kompetenzen verwenden, müssen sie Ihre MCP-ID ihrem Partner Center-Konto zuordnen. Wenn Sie als globaler Administrator neue Benutzer hinzufügen, müssen Sie sie daran erinnern, ihre MCP-ID ihrem Konto zuzuordnen. 
 
 ### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a>Zuordnen Ihrer MCP-ID zu Ihrem Partner Center-Konto
 

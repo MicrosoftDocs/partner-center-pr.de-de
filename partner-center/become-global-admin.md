@@ -4,16 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Damit Sie viele der Aufgaben im Partner Center erledigen können, müssen Sie zunächst den Besitz Ihrer Domain bestätigen. Viele Aufgaben im Partner Center erfordern einen globalen Administrator. Wenn Ihr Unternehmen noch keines hat, können Sie zu einem anderen werden.
+description: Damit Sie viele der Aufgaben im Partner Center erledigen können, müssen Sie zunächst den Besitz Ihrer Domain bestätigen. Viele Aufgaben im Partner Center erfordern einen globalen Administrator. Wenn Ihr Unternehmen noch keinen hat, können Sie globaler Administrator werden.
 author: LauraBrenner
 ms.author: labrenne
+ms.localizationpriority: high
 keywords: Domäne, Domänenüberprüfung, Domäne überprüfen, globaler Administrator, Benutzerrollen, Berechtigungen
-ms.openlocfilehash: 4605061d3251883e160e7daa4a1fc957ab998c55
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.openlocfilehash: d6d358439056a9d10e7966148e1f3a76173d0cf6
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653769"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096512"
 ---
 # <a name="verify-your-domain-ownership"></a>Überprüfen Ihres Domänenbesitzes
 
@@ -38,11 +39,11 @@ Sie müssen den Besitz Ihrer Domain bestätigen, damit Sie die Vorteile, für di
 
 4. Befolgen Sie die von Ihrer Domäne bereitgestellten Schritte, um die TXT-Werte in das DNS-Formular einzufügen.  Auf diese Weise können wir überprüfen, ob Sie die Domäne besitzen, von der aus Sie versuchen zu arbeiten.
 
-5. Kehren Sie zum Partner Center zurück, und wählen Sie OK **, ich habe den Datensatz hinzugefügt** .
+5. Kehren Sie zum Partner Center zurück, und wählen Sie **OK, ich habe den Eintrag hinzugefügt** aus.
 
-6. Nach Abschluss der Überprüfung müssen Sie sich abmelden. Melden Sie sich erneut an, um den Status zu aktualisieren. 
+6. Sobald die Überprüfung abgeschlossen ist, müssen Sie sich abmelden. Melden Sie sich erneut an, um Ihren Status zu aktualisieren. 
 
-Wenn Sie den Besitz Ihrer Domäne überprüfen, ist Sie auch ein globaler Administrator. Folgende Berechtigungen werden in der globalen Administrator Rolle aufgeführt:
+Durch die Überprüfung des Besitzverhältnisses Ihrer Domäne werden Sie auch zu einem globalen Administrator. Einige der Berechtigungen, die in der globalen Administratorrolle enthalten sind:
 
 - Zugriff auf alle Microsoft-Konten/-Dienste mit allen Berechtigungen 
 - Erstellen von Supportanfragen für das Partner Center

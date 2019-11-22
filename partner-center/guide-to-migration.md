@@ -1,95 +1,95 @@
 ---
-title: Leitfaden für die Migration von PMC zu Partner Center | Partner Center
+title: Leitfaden zum Migrieren von PMC zu Partner Center | Partner Center
 ms.topic: article
 ms.date: 04/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Was Sie wissen sollten, wenn Sie Ihr Unternehmen von der PMC zu Partner Center migrieren?
+description: Wichtige Informationen zur Migration Ihres Unternehmens von PMC zu Partner Center
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
-ms.localizationpriority: medium
-ms.openlocfilehash: a39c4114758004ff4291bc577182fd8ba469149b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: a7db9b3241c239ea3de4f25a3be04ead01bb2718
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653098"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096496"
 ---
-# <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Leitfaden für die Migration von PMC zu Partner Center
+# <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Leitfaden zum Migrieren von PMC zu Partner Center
 
-Die Microsoft-Partner Website unter Partner.Microsoft.com ist ein einheitliches digitales Verfahren für Partner. Auf der Partner-Website können Sie Ihre Verkaufschancen untersuchen und sich mit geführten Erfahrungen befassen, die Ihrem Unternehmen bei der Erstellung und dem Vertrieb Ihrer Apps und Dienste mit Microsoft helfen. Mithilfe des dashboardlinks, der auf der Partner Website verfügbar ist, können Mitglieder des Microsoft Partner Network sich beim Partner Center anmelden, in dem Sie Ihre Beziehung mit Microsoft verwalten, Programme registrieren und sich für Angebote registrieren. 
+Die Microsoft-Partner-Website unter „partner.microsoft.com“ ist ein einheitliches digitales Verfahren für Partner. Über die Partner-Website können Sie Ihre Verkaufschancen untersuchen und sich mit Anleitungen befassen, die Ihrem Unternehmen bei der Erstellung und dem Vertrieb Ihrer Apps und Dienste mit Microsoft helfen. Über den Dashboard-Link, der auf der Partner-Website zur Verfügung steht, können sich Mitglieder des Microsoft Partner Networks bei dem Partner Center anmelden, in dem Sie Ihre Beziehung mit Microsoft verwalten sowie sich für Programme und Angebote registrieren. 
 
-Das Partner Membership Center (PMC) wird außer Betrieb gesetzt. Ihr Unternehmen wurde eingeladen, Ihre Microsoft Partner Network Mitgliedschafts Verwaltung auf Partner Center umstellen. In dieser Anleitung werden Sie darauf vorbereitet, was zu erwarten ist, wenn Sie den Wechsel von der PMC zu Partner Center durchführen.
+Das Partner Membership Center (PMC) wird außer Betrieb gesetzt. Ihr Unternehmen wurde eingeladen, Ihre Microsoft Partner Network-Mitgliedschaftsverwaltung auf Partner Center umzustellen. In dieser Anleitung werden Sie darauf vorbereitet, was zu erwarten ist, wenn Sie den Wechsel von PMC zu Partner Center durchführen.
 
 >[!Note]
->Auch wenn Ihr Unternehmen über mehr als ein Konto oder einen Standort verfügt, beginnt der Umstieg auf Partner Center mit dem Verschieben eines (Ihrem ersten) Konto in Partner Center.
+>Auch wenn Ihr Unternehmen mehrere Konten oder Standorte hat, beginnt der Wechsel zu Partner Center mit dem Verschieben eines (Ihres ersten) Kontos in Partner Center.
 
-## <a name="get-started"></a>„Erste Schritte“
+## <a name="get-started"></a>Beginnen
 
-Der Verschiebe Vorgang beginnt in der PMC. Ihr globaler Administrator erhält eine Einladung, um mit dem Verschieben zu beginnen. 
+Der Verschiebevorgang beginnt in PMC. Ihr globaler Administrator erhält eine Einladung, mit dem Verschieben zu beginnen. 
 
-**Vorbereiten in der PMC**
-- Überprüfen der Unternehmens Details 
-- Kontakt zum primären Programm überprüfen 
-- Überprüfen von Geschäftsstandorten
-- Aktualisieren genehmigter Benutzer
+**Vorbereiten in PMC**
+- Überprüfen Ihrer Unternehmensdetails 
+- Überprüfen Ihres primären Programmkontakts 
+- Überprüfen Ihrer Unternehmensstandorte
+- Aktualisieren Ihrer genehmigten Benutzer
 
 **Wenn Sie bereit sind**
 
-Wählen Sie in Ihrer Einladung **den Einstieg in** Ihre Einladung aus. Sie gelangen zur Partner Center-Anmeldeseite.
+Wählen Sie in Ihrer Einladung **Erste Schritte** aus. Daraufhin wird die Anmeldeseite von Partner Center angezeigt.
 
-![„Erste Schritte“](images/migration/getstarted.jpg)
+![Beginnen](images/migration/getstarted.jpg)
 
-## <a name="start-with-your-work-email"></a>Mit Ihrer Geschäfts-e-Mail starten
+## <a name="start-with-your-work-email"></a>Beginnen mit Ihrer geschäftlichen E-Mail-Adresse
 
-Wenn Ihr Unternehmen nicht über eine geschäftliche e-Mail-Adresse und einen Aad-Mandanten verfügt, können wir Sie beim Einrichten eines Partner Center-Anmelde Prozesses unterstützen. Wenn Sie versuchen, sich mit einem e-Mail-Konto anzumelden, bei dem es sich nicht um eine geschäftliche e-Mail-Adresse (z. b. Ihr persönliches Konto) handelt, werden Sie angewiesen, Informationen zu Ihrem Unternehmen bereitzustellen, damit wir einen Aad-Mandanten und eine
-Diese Unternehmens Details werden verwendet, um Ihr Konto im Partner Center abzuschließen. Achten Sie daher darauf, dass Sie korrekt sind.
+Wenn Ihr Unternehmen keine geschäftliche E-Mail-Adresse und keinen AAD-Mandanten hat, können wir Ihnen während des Partner Center-Anmeldevorgangs helfen, eine/einen einzurichten. Wenn Sie versuchen, sich mit einem E-Mail-Konto anzumelden, das keine geschäftliche E-Mail-Adresse ist (z.B. Ihr persönliches Konto), werden Sie aufgefordert, Informationen zu Ihrem Unternehmen anzugeben, damit wir einen AAD-Mandanten und eine geschäftliche E-Mail-Adresse einrichten können.
+Weil diese Unternehmensdetails zum Fertigstellen Ihres Kontos in Partner Center verwendet werden, sorgen Sie dafür, dass sie korrekt sind.
 
 >[!Note]
->Wenn Sie ein Partner in China sind und sowohl im Microsoft Partner Network als auch im Cloud Solution Provider-Programm (CSP) registriert sind, verfügen Sie über einen separaten Mandanten für jedes Konto. Ihr Konto mit dem Cloud Solution Provider-Programm wird in der nationalen Cloud verwaltet, und Ihr Microsoft Partner Network Konto wird in der globalen Cloud verwaltet. Die beiden Konten können nicht verknüpft werden.
+>Wenn Sie ein Partner in China sind und sowohl im Microsoft Partner Network als auch im Cloud Solution Provider-Programm (CSP) registriert sind, haben Sie einen separaten Mandanten für jedes Konto. Ihr Konto mit dem Cloud Solution Provider-Programm wird in der nationalen Cloud verwaltet und Ihr Microsoft Partner Network-Konto in der globalen Cloud. Die beiden Konten können nicht verknüpft werden.
 
-![Erzählen Sie uns von Ihrem Unternehmen.](images/migration/newtellusabout.png)
+![Informieren Sie uns über Ihr Unternehmen](images/migration/newtellusabout.png)
 
-Nachdem Sie die Informationen überprüft oder aktualisiert haben, wählen Sie **annehmen und Fortfahren**aus.
-Die Bestimmungen auf dieser Seite sind **exakt identisch** mit der Vereinbarung, die Ihr Unternehmen bereits in der PMC angemeldet hat.  
-Dadurch wird die Erstellung Ihres Azure AD Mandanten initiiert, und ihr wird mit dem Geschäftskonto bereitstellen.
+Nachdem Sie die Informationen überprüft oder aktualisiert haben, wählen Sie **Zustimmen und fortfahren** aus.
+Die „Bestimmungen“ auf dieser Seite sind **identisch mit denjenigen** in der Vereinbarung, die Ihr Unternehmen bereits in PMC unterzeichnet hat.  
+Dadurch wird die Erstellung Ihres Azure AD-Mandanten eingeleitet und Ihnen Ihr Geschäftskonto bereitgestellt.
 
-Wenn Sie **akzeptieren und Fortfahren** auswählen, werden auch folgende Schritte ausgeführt:
+Wenn Sie **Zustimmen und fortfahren** auswählen, werden auch folgende Schritte ausgeführt:
 
-• Migriert Ihr Konto zusammen mit allen zugehörigen Standorten zu Partner Center.
+•   Ihr Konto wird zusammen mit ALLEN zugehörigen Standorten zu Partner Center migriert.
 
-• Migriert alle Kompetenzen oder Zuordnungen, die Sie möglicherweise in der PMC erworben haben.
+•   Kompetenzen oder MAPs, die Sie möglicherweise in PMC erworben haben, werden migriert.
 
-• Migriert alle Vorteile (Maps, Silver, Gold), die in der PMC vorhanden waren.
+•   Vorteile (MAPs, Silver, Gold), die Sie in PMC hatten, werden migriert.
 
-## <a name="invite-employees-to-join-you"></a>Einladen von Mitarbeitern, ihnen beizutreten
+## <a name="invite-employees-to-join-you"></a>Einladen von Mitarbeitern, Ihnen beizutreten
 
-Wenn Sie Ihren neuen Azure AD Mandanten erstellt haben, können Sie Ihre Mitarbeiter bitten, sich bei Partner Center anzumelden.
+Nachdem Ihr neuer Azure AD-Mandant erstellt wurde, können Sie Ihre Mitarbeiter einladen, sich bei Partner Center anzumelden.
 
-![Mitarbeiter einladen](images/migration/invite.png)
-
-
-Wenn Sie sich mit einem vorhandenen Aad-Mandanten angemeldet haben, sind Ihre Mitarbeiter mit Ihnen in der Hand. Weisen Sie in diesem Fall Ihre Mitarbeiter Rollen zu, die bestimmen, welche Möglichkeiten Sie in Partner Center haben. Hinweis: Rollen im Partner Center unterscheiden sich von den Rollen in der PMC. Weitere Informationen finden [Sie unter Wechsel von der PMC zu Partner Center](move-pmc-pc-map.md).
-
-## <a name="verify-your-domain-and-become-a-global-admin"></a>Überprüfen der Domäne und als globaler Administrator  
-
-Wenn Ihr Aad-Mandant neu ist, wird keinem der Rolle globaler Administrator zugewiesen. Um zum globalen Administrator zu werden, müssen Sie den Domänen Besitz überprüfen. Möglicherweise benötigen Sie den Domänen Administrator, um dies zu unterstützen. Beachten Sie, dass Sie, während Sie die bereits erworbenen Angebote verwenden können, erst dann neue Angebote erwerben können, wenn Sie einen globalen Administrator erhalten. 
-
-![Kontrolle übernehmen](images/migration/takecontrol.png)
-
-Wenn Sie auf "starten" klicken, wird der folgende Bildschirm angezeigt:
-
-![Domänen Besitz überprüfen](images/migration/verifytxt.png)
-
-Ihre Domänen Registrierungsstelle wird bereits für Sie ausgefüllt. Nur der Domänen Besitzer kann die DNS-Datei aktualisieren. Wenn Sie also die Textdatei kopieren und in Ihren DNS-Datensatz einfügen, können wir überprüfen, ob Sie der Besitzer sind. Es dauert einige Minuten, bis das Update ausgeführt wird. Sie müssen sich von Partner Center abmelden und dann wieder anmelden. Ihre Rolle wird in globaler Administrator geändert. 
+![Einladen von Mitarbeitern](images/migration/invite.png)
 
 
-## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>Machen Sie sich mit Ihrem Dashboard und Partner Center vertraut.
+Falls Sie sich bei einem vorhandenen AAD-Mandanten angemeldet haben, wurden Ihre Mitarbeiter zusammen mit Ihnen verschoben. Weisen Sie in diesem Fall Ihren Mitarbeitern Rollen zu, die festlegen, welche Berechtigungen sie in Partner Center haben. Hinweis: Rollen in Partner Center unterscheiden sich von Rollen in PMC. Weitere Informationen finden Sie unter [Wechsel von PMC zu Partner Center](move-pmc-pc-map.md).
 
-Sehen Sie sich das Dashboard an. Hier können Sie Ihre Mitgliedschaft verwalten, ein Geschäftsprofil für Verweise hinzufügen, sich für das Cloud Solution Provider-Programm registrieren und die für Ihr Unternehmen relevanten Benachrichtigungen und Angebote jederzeit durch Auswahl von **Dashboard**anzeigen. Sie können auch die Anreize verwalten, auf dem Marketplace erwerben, sich für Markt Einführungs Dienste registrieren und vieles mehr.  
+## <a name="verify-your-domain-and-become-a-global-admin"></a>Überprüfen Ihrer Domäne und ein globaler Administrator werden  
 
-![Tour durchführen](images/migration/fre.png)
+Sollte Ihr AAD-Mandant neu sein, wurde niemandem die Rolle „globaler Administrator“ zugewiesen. Wenn Sie der globale Administrator werden möchten, müssen Sie Ihren Domänenbesitz überprüfen. Möglicherweise müssen Sie dazu den Domänenadministrator um Hilfe bitten. Beachten Sie: Während Sie bereits erworbene Angebote sofort nutzen können, können Sie neue Angebote erst dann erwerben, nachdem Sie den Schritt „ein globaler Administrator werden“ abgeschlossen haben. 
+
+![Übernehmen der Kontrolle](images/migration/takecontrol.png)
+
+Wenn Sie „Erste Schritte“ auswählen, wird folgender Bildschirm angezeigt:
+
+![Domänenbesitz überprüfen](images/migration/verifytxt.png)
+
+Ihre Domänenregistrierungsstelle wurde bereits automatisch ausgefüllt. Nur der Domänenbesitzer kann die DNS-Datei aktualisieren. Wenn Sie also die Textdatei kopieren und Ihrem DNS-Datensatz hinzufügen, können wir überprüfen, ob Sie der Besitzer sind. Es dauert ein paar Minuten, bis das Update erfolgt. Sie müssen sich bei Partner Center abmelden und dann wieder anmelden. Jetzt lautet Ihre Rolle „globaler Administrator“. 
+
+
+## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>Vertrautmachen mit Ihrem Dashboard und Partner Center
+
+Sehen Sie sich die Einführung zum Dashboard an. Hier können Sie Ihre Mitgliedschaft verwalten, ein Geschäftsprofil für Empfehlungen hinzufügen, sich beim Cloud Solution Provider-Programm registrieren sowie für Ihr Unternehmen relevante Benachrichtigungen und Angebote jederzeit anzeigen, indem Sie **Dashboard**auswählen. Sie können auch Incentives verwalten, auf dem Marketplace kaufen, sich für Markteinführungsdienste registrieren und vieles mehr ausführen.  
+
+![Tour](images/migration/fre.png)
 
 ## <a name="next-steps"></a>Nächste Schritte
 
@@ -99,6 +99,6 @@ Sehen Sie sich das Dashboard an. Hier können Sie Ihre Mitgliedschaft verwalten,
 - [Erstellen Ihres Unternehmensprofils](create-a-marketing-profile.md)
 - [Kontaktaufnahme mit Kunden durch Empfehlungen](responding-to-referrals.md)
 
-## <a name="see-also"></a>Weitere Informationen:
+## <a name="see-also"></a>Weitere Informationen
 
-- [Leitfaden zum Migrieren mehrerer Unternehmen von der PMC zu Partner Center](move-multiple-companies.md)
+- [Leitfaden zum Migrieren mehrerer Unternehmen von PMC zu Partner Center](move-multiple-companies.md)

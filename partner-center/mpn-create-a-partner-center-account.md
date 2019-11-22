@@ -7,15 +7,15 @@ ms.subservice: partnercenter-mpn
 description: Mitglieder im Microsoft Partner Network müssen ein Partner Center-Konto erstellen, um ihre Netzwerkvorteile und Kompetenzen verwalten und ein Geschäftsprofil erstellen zu können.
 author: MaggiePucciEvans
 ms.author: evansma
-ms.localizationpriority: medium
-ms.openlocfilehash: e1497003ef9ca08b61f0ae752eab654dc40b6997
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 46a299f8e882f6f55d4f674c989446250c0c26d6
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653263"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096476"
 ---
-# <a name="create-a-partner-center-account"></a>Partner Center-Konto erstellen
+# <a name="create-a-partner-center-account"></a>Erstellen eines Partner Center-Kontos
 
 **Geeignete Rollen**
 
@@ -26,44 +26,44 @@ Damit Sie ein Konto in Partner Center erstellen oder sich für ein Partnerprogra
 
 ## <a name="before-you-begin"></a>Vorbemerkungen
 
-Zum Erstellen eines Kontos im Partner Center müssen Sie über die folgenden Informationen verfügen. Es empfiehlt sich unter Umständen, vor Beginn des Vorgangs folgende Angaben zu sammeln:
+Zum Erstellen eines Kontos in Partner Center müssen Sie die folgenden Informationen zur Hand haben. Es empfiehlt sich unter Umständen, vor Beginn des Vorgangs folgende Angaben zu sammeln:
 
 -   Geschäftliche E-Mail-Adresse des globalen Administrators.
 
--   Wenn Sie nicht sicher sind, wie sich das Geschäftskonto Ihres Unternehmens befindet, finden Sie weitere Informationen [unter Ihrem Unternehmens Konto und Partner Center](azure-active-directory-tenants-and-partner-center.md) , wenn Ihr Unternehmen nicht über ein Geschäftskonto verfügt, das Sie während der Kontoerstellung erstellen können. 
+-   Wenn Sie nicht genau wissen, was das Geschäftskonto Ihres Unternehmens ist, lesen Sie [Das Geschäftskonto Ihrer Firma und Partner Center](azure-active-directory-tenants-and-partner-center.md). Falls Ihr Unternehmen kein Geschäftskonto hat, können Sie während des Kontoerstellungsprozesses eines erstellen. 
 
--   Der rechtliche geschäftliche Name und die Adresse Ihres Unternehmens.  
+-   Offizieller geschäftlicher Name und geschäftliche Anschrift Ihres Unternehmens.  
 
--   Befugnis zum Unterzeichnen von Vereinbarungen. Stellen Sie sicher, dass Sie berechtigt sind, gesetzliche Verträge im Auftrag Ihres Unternehmens zu signieren, da Sie dazu während des Registrierungsvorgangs aufgefordert werden.
+-   Befugnis zum Unterzeichnen von Vereinbarungen. Stellen Sie sicher, dass Sie berechtigt sind, Vereinbarungen im Auftrag Ihres Unternehmens zu unterzeichnen, weil Sie während des Registrierungsprozesses dazu aufgefordert werden.
 
--   Name und geschäftliche E-Mail-Adresse der Person, die als Hauptansprechpartner fungieren soll. Um die Sicherheit und den Datenschutz Ihres Unternehmens zu gewährleisten, senden wir Ihren primären Kontakt an, um zu überprüfen, ob (1) er sich für ein Partner Center-Konto registriert hat und dass (2) diese e-Mail-Adresse zu Ihrem Unternehmen gehört. Nachdem der primäre Kontakt seine e-Mail-Adresse überprüft hat, wird die Überprüfung der von Ihnen bereitgestellten Informationen fortgesetzt.
+-   Name und geschäftliche E-Mail-Adresse der Person, die als Hauptansprechpartner fungieren soll. Aus Sicherheits- und Datenschutzgründen werden wir Ihren Hauptansprechpartner per E-Mail kontaktieren, um uns zu vergewissern, dass (1) er/sie sich für ein Partner Center-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrem Unternehmen gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung deiner Angaben fort.
 
-Diese Informationen werden während des Konto Erstellungs Vorgangs überprüft. 
+Wir überprüfen diese Informationen im Rahmen des Kontoerstellungsprozesses. 
  
-## <a name="create-a-partner-center-account"></a>Partner Center-Konto erstellen
+## <a name="create-a-partner-center-account"></a>Erstellen eines Partner Center-Kontos
 
 1.  Lesen Sie die Informationen auf der Seite **Willkommen**, und wählen Sie **Weiter** aus.
 
-2.  Melden Sie sich beim Geschäftskonto Ihres Unternehmens als globaler Administrator an. Wenn Sie nicht sicher sind, wie sich das Geschäftskonto Ihres Unternehmens befindet, finden Sie weitere Informationen [unter Geschäftskonto und Partner Center](azure-active-directory-tenants-and-partner-center.md).
+2.  Melden Sie sich beim Geschäftskonto Ihres Unternehmens als globaler Administrator an. Wenn Sie nicht genau wissen, was das Geschäftskonto Ihres Unternehmens ist, lesen Sie [Das Geschäftskonto Ihrer Firma und Partner Center](azure-active-directory-tenants-and-partner-center.md).
 
     Wählen Sie **Anmelden** aus, wenn Sie wissen, dass Ihr Unternehmen über ein geschäftliches E-Mail-Konto verfügt. Geben Sie auf der nächsten Seite die Anmeldeinformationen eines globalen Administrators für das Geschäftskonto ein. 
 
-    Wenn Ihr Unternehmen nicht über ein Geschäftskonto verfügt, wählen Sie **Erstellen** aus, um ein Konto einzurichten. Nachdem Sie ein Geschäftskonto erstellt haben, melden Sie sich mit ihren globalen Administrator Anmelde Informationen für das soeben erstellte Geschäftskonto an.
+    Falls Ihr Unternehmen kein Geschäftskonto besitzt, wählen Sie **Konto erstellen** aus, um eines einzurichten. Melden Sie sich nach der Erstellung eines Geschäftskontos mit Ihren Anmeldeinformationen eines globalen Administrators für das soeben erstellte Konto an.
 
-3.  Geben oder aktualisieren Sie das rechtliche Geschäftsprofil und die primären Kontaktinformationen Ihres Unternehmens, und klicken Sie dann auf **jetzt registrieren**. 
+3.  Geben Sie das offizielle Geschäftsprofil Ihres Unternehmens und Informationen zum Hauptansprechpartner an, oder aktualisieren Sie die entsprechenden Informationen, und wählen Sie **Jetzt registrieren** aus. 
 
     Der Hauptansprechpartner muss eine Person in Ihrem Unternehmen sein, die wir im Zusammenhang mit Ihrer Bewerbung kontaktieren können (entweder Sie selbst oder eine andere Person in Ihrem Unternehmen). Wir prüfen anhand dieser Informationen auch, ob diese Person in Ihrem Unternehmen arbeitet und sich für ein Partner Center-Konto registriert hat.
 
     > [!IMPORTANT]  
-    > Um die Sicherheit und den Datenschutz Ihres Unternehmens zu gewährleisten, senden wir eine e-Mail an Ihren primären Kontakt, um zu überprüfen, ob (1) er sich für ein Partner Center-Konto registriert hat, und (2) dass diese e-Mail-Adresse zu Ihrem Unternehmen gehört Nachdem der primäre Kontakt seine e-Mail-Adresse überprüft hat, wird die Überprüfung der von Ihnen bereitgestellten Informationen fortgesetzt.
+    > Aus Sicherheits- und Datenschutzgründen werden wir Ihren Hauptansprechpartner per E-Mail kontaktieren, um uns zu vergewissern, dass (1) er/sie sich für ein Partner Center-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrem Unternehmen gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung deiner Angaben fort.
 
 4.  Lesen und akzeptieren Sie die Bestimmungen der Microsoft Partner Network-Vereinbarung. 
 
-5.  Vergewissern Sie sich, dass Sie der Gruppe "Administrator-Agent" hinzugefügt wurden. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
+5.  Vergewissern Sie sich, dass Sie der Administrator-Agent-Gruppe hinzugefügt wurden. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
 
-    a. Wählen Sie im Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/home**)das Symbol " **Einstellungen** " und dann " **Benutzerverwaltung**" aus.  
+    a. Wählen Sie im Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home**) das Symbol **Einstellungen** und anschließend **Benutzerverwaltung** aus.  
 
-    b. Wählen Sie in der Liste Benutzer ihren Namen aus, und wählen Sie dann **Administrator-Agent** aus, wenn er nicht bereits ausgewählt ist. Wählen Sie **Aktualisieren** aus.  
+    b. Wähle deinen Namen aus der Benutzerliste und dann **Administrator-Agent** aus, sofern diese Option nicht bereits ausgewählt ist. Wählen Sie **Aktualisieren** aus.  
 
 ## <a name="next-steps"></a>Nächste Schritte
 

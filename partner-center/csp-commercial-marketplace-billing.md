@@ -1,7 +1,7 @@
 ---
 title: Billing for commercial marketplace products | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Learn how billing works for ISV SaaS products or subscriptions purchased for customers from the commercial marketplace within Partner Center.
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: subscriptions, products, purchases, Marketplace, third party, ISV, billing, invoices, reconciliation, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: b425c36e1267e5a3bf43faef486cbc36892e1c43
-ms.sourcegitcommit: cbd9113805ee0aba8b7181825af41e872bd8b187
+ms.openlocfilehash: bc4dcca3d8c3d454a17eca676d5fadd1dac202d3
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74263172"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384912"
 ---
 # <a name="billing-for-commercial-marketplace-products"></a>Billing for commercial marketplace products
 
@@ -105,7 +105,7 @@ In the case of free trial ISV offers:
 
 - When you purchase and deploy an ISV's free trial-eligible product for your customer, the customer is automatically enrolled in the free trial by the ISV publisher. The free trial period ends automatically after the period defined by the ISV publisher. After the period ends, the customer will be charged. This means the reconciliation file may show two rows for a trial-eligible product: One that tracks the trial period and one that tracks the paid offer (which will display a cost of $0 until after the trial period ends). Once the trial ends, the row showing the paid offer will start to show charges. 
 
-For more information about what each column represents, see [Mapping charges between an invoice and the reconciliation file](use-the-reconciliation-files.md#mapping-charges-between-an-invoice-and-the-reconciliation-file). See also [Understanding the types of billing in Partner Center](billing-different-types.md#billing-for-one-time-and-select-recurring-charges)
+For more information about what each column represents, see [Use your reconciliation files](use-the-reconciliation-files.md). See also [Types of billing in Partner Center](billing-different-types.md)
 
 ## <a name="next-steps"></a>Nächste Schritte
 

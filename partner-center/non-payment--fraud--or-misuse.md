@@ -1,7 +1,7 @@
 ---
-title: Nichtbezahlung, Betrug oder Missbrauch | Partner Center
+title: Managing non-payment, fraud, or misuse | Partner Center
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Strategien für die Verwaltung von Onlinetransaktionsrisiken, einschließlich der Nichtzahlung von Waren und Dienstleistungen durch den Kunden sowie betrügerische Aktivitäten oder Missbrauch
@@ -11,83 +11,88 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 4cda8426d29fd2bf290cac2d7478bcb08641c5c3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 604c192259fd4194a3b43d57721caa7566704b58
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652963"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384767"
 ---
-# <a name="non-payment-fraud-or-misuse"></a>Nichtbezahlung, Betrug oder Missbrauch
+# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Managing non-payment, fraud, or misuse in Partner Center
 
-**Zielgruppe**
+Betrifft
 
--  Partner Center
--  Partner Center für Microsoft Cloud for US Government
+- Partner Center
+- Partner Center für Microsoft Cloud for US Government
 
-
-
-Sie sind finanziell verantwortlich für betrügerische Einkäufe Ihrer Kunden und/oder für die Nichtzahlung von gekauften Dienstleistungen durch Ihre Kunden. Aus diesem Grund empfehlen wir Ihnen dringend, Kontrollen zur Betrugsprävention und zur Risikominderung einzuführen.
-
-## <a name="types-of-online-risk"></a>Arten von Onlinerisiken
+Sie sind finanziell verantwortlich für betrügerische Einkäufe Ihrer Kunden und/oder für die Nichtzahlung von gekauften Dienstleistungen durch Ihre Kunden. Therefore, *we strongly recommend that you put in place fraud prevention and detection risk mitigation controls*.
 
 Um betrügerische Aktivitäten oder Missbrauch zu vermeiden und/oder zu bekämpfen, ist es wichtig, potenzielle Risiken zu verstehen und Richtlinien und Praktiken zu entwickeln, die Ihre Gefährdung verringern können.
 
-#### <a name="risk-exposure-to-be-mitigated"></a>Zu minimierende Risiken
+## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Enforcement of Microsoft Acceptable Use Policy
 
-- **Diebstahl von Diensten:** Kunden, die nicht beabsichtigen, genutzte Dienste zu bezahlen, indem sie gestohlene Zahlungsmittel verwenden, falsche Abrechnungsinformationen angeben und/oder ausstehende Rechnungen nicht begleichen
+If Microsoft detects partner or customer activity that we confirm or suspect violates the Acceptable Use Policy, we will take enforcement steps. The customer could be immediately suspended. You'll be notified of enforcement actions or updated on your requests by Microsoft.
 
-- **Missbrauch des Dienstanbieter** Kunden, die Clouddienste verwenden, verstoßen gegen den Acceptable Use Policy von Microsoft
+## <a name="abuse-of-service-risks"></a>Abuse of service risks
 
-#### <a name="examples-of-possible-fraud-or-service-abuse"></a>Beispiele für möglichen Betrug oder Missbrauch des Diensts
+**Abuse of service** risks means customers who use cloud services in violation of Microsoft's Acceptable Use Policy.
+
+### <a name="examples-of-abuse-of-service"></a>Examples of abuse of service
+
+Examples of these violations of Microsoft's acceptable use policy can include:
+
 - Spamming
 - Hacken
-- DDoS-Angriffe
+- Distributed denial-of-service (DDoS) attacks
 - Bitcoin-Mining
 - Verteilung von Schadsoftware
-- Weiterverkauf unrechtmäßig erworbener Abonnements 
+- Weiterverkauf unrechtmäßig erworbener Abonnements
 
-#### <a name="examples-of-online-transaction-risk"></a>Beispiele für Onlinetransaktionsrisiken
-- „Kreditkarte ist nicht vorhanden”, d. h. unpersönliche Transaktionen
+## <a name="theft-of-service-risks"></a>Theft of service risks
+
+**Theft of service** risks means customers who have no intention of paying for consumed services. This theft may involve using stolen payment instruments, providing false billing information, and/or defaulting on outstanding balances.
+
+### <a name="examples-of-service-theft"></a>Examples of service theft
+
+Examples of these online transaction risks can include:
+
+- Transactions that don't occur in person ("credit card not present" transactions)
 - Falsch angegebene Identitäten
-- Dienste bereitgestellt und verwendet, bevor die erste Zahlung eintrifft
-- Aufstrebende Märkte und hochriskante Regionen für Onlinebetrug
-- Möglichkeiten für kriminelle Akteure, Kontoerstellung und Einkauf zu automatisieren
+- Services provisioned and used before initial payment is received
+- Emerging markets and/or high-risk regions for online fraud
+- Automate account creation and purchasing by bad actors
 
-## <a name="strategies-for-managing-online-risk"></a>Strategien zum Verwalten von Onlinerisiken
+## <a name="managing-online-risk"></a>Managing online risk
 
-Diese Empfehlungen können Ihnen dabei helfen, Richtlinien und Praktiken zu entwickeln, mit denen Sie das Risiko von Onlinetransaktionen im gesamten Lebenszyklus Ihrer Kundenbeziehungen reduzieren können.  
+You can use the following recommendations to help you develop policies and practices to reduce your exposure to online transaction risks in the lifecycle of your customer relationships.
 
-#### <a name="when-onboarding-new-customers"></a>Beim Onboarding von Neukunden
-- Versuchen Sie nach Möglichkeit, persönliche Beziehungen zu den Kunden aufbauen, z. B. durch telefonische Kontaktaufnahme.
-- Suchen Sie nach besseren Möglichkeiten, um die Referenzen und den Hintergrund Ihrer Kunden zu überprüfen (Kreditbüros und Wirtschaftsauskunfteien). 
-- Aktivieren Sie die SMS-Überprüfung bei der Registrierung, um das Risiko für automatische Kontoerstellung und automatische Einkäufe zu minimieren.
-- Verwenden Sie zur Identitätsverwaltung und Nachverfolgung digitale Identitätsdienste.
-- Verwenden Sie Systeme zur Erkennung von Kreditkartenbetrug, um die Kapitalkraft eines Kunden zu beurteilen.
-- Richten Sie eine klare Inkassorichtlinie ein, die Ihre Inkassoprozesse detailliert beschreibt und die den Zugriff auf Abonnements regelt. (Sie können bei Nichtzahlung den Zugriff deaktivieren oder [die Abonnements eines Kunden sperren](suspend-a-subscription.md).)
+### <a name="onboarding-new-customers"></a>Onboarding new customers
 
-#### <a name="post-purchase-customer-account-management"></a>Kundenkontoverwaltung nach dem Kauf
-- Arbeiten Sie mit Kunden zusammen, um ihre grundlegenden Geschäftsanforderungen an die Clouddienstnutzung zu verstehen und geeignete Überwachung von Schwellenwerten festzulegen.
-    > [!NOTE]  
-    >  Sie können [ein monatliches Azure-Ausgabenbudget](set-an-azure-spending-budget-for-your-customers.md) in Partner Center festlegen, um die Kundennutzung während des Monats zu überwachen und benachrichtigt zu werden, wenn Kunden die Budgetgrenze erreichen.
-- Prüfen Sie regelmäßig die [Kundenaktivitätsprotokolle](activity-logs.md), um Betrug frühzeitig zu erkennen
-- Handeln Sie schnell, wenn Sie verdächtige Aktivitäten entdecken.
-- Vermeiden Sie es, Kunden vollständigen Administratorzugriff auf Abonnements zu gewähren, wenn Sie noch keine Kontrollmechanismen zur Risikominderung implementiert haben.
-- Implementieren Sie entsprechende Prozesse, um Microsoft-Benachrichtigungen schnell zu empfangen, zu überprüfen, auf diese zu reagieren und sie zu beantworten.
+Suggestions for reducing online risks when onboarding new customers include:
 
-#### <a name="post-purchase-customer-billing-management"></a>Kundenabrechnungsverwaltung nach dem Kauf
-- Fordern Sie Vorauszahlungen vor den ersten Transaktionen und der Abrechnung an. 
-- Akzeptieren Sie keine risikoreichen Zahlungsmittel wie Prepaid- oder Wertkarten.
-- Überwachen Sie Kundenzahlungen und verspätet eingegangene Zahlungen sehr genau, und erzwingen Sie standardisierte Mahnverfahren bei nicht termingerechter Zahlung oder Nichtzahlung.
+- Establish personal relationships with customers when possible (for example, contacting customers by phone).
+- Verify customers' credentials and background through better methods (such as using credit bureaus or business commercial report agencies).
+- Use multi-factor authentication (such as SMS verification) during sign-up to minimize exposure to robotic account creationg and purchasing.
+- Manage and track identities using services (such as digital identity services).
+- Assess customer financial strength through rigorous credit card fraud detection systems.
+- Establish a clear collections policy. Detail your collections process and when access to subscriptions will be impacted by non-payment. (You can disable access or [suspend a customer's subscriptions](suspend-a-subscription.md) for non-payment.)
+
+### <a name="managing-customer-accounts"></a>Managing customer accounts
+
+Suggestions for managing customer accounts post-purchase include:
+
+- Implement a process to quickly receive, review, act on, and respond to Microsoft notifications.
+- Work with customers to understand their cloud usage business needs while settings appropriate monitoring thresholds. (For example, you can [set a monthly Azure spending budget](set-an-azure-spending-budget-for-your-customers.md) in Partner Center. This allows you to monitor customer usage during the month and be notified when customers are close to their budget.)
+- Monitor [customer activity logs](activity-logs.md) regularly to help detect fraud early.
+- Take quick action when suspicious activities are detected.
+- Avoid giving customers full administrative access to subscriptions without first implementing risk mitigation controls.
+
+### <a name="managing-customer-billing"></a>Managing customer billing
+
+Suggestions for managing customer billing post-purchase include:
+
+- Request prepayments prior to initial transactions and billing .
+- Don't accept high-risk payment instruments (such as pre-paid cards or stored-value cards).
+- Monitor customer payments and aging accounts receivables. Aggressively enforce standardized dunning processes for late payments or non-payment.
 
 Detailliertere Strategien zur Minderung des Onlinerisikos finden Sie in der [Anleitung zur Verwaltung von Onlinetransaktionsrisiken](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip).
-
-> [!IMPORTANT]  
-> Wenn Microsoft eine Partner- oder Kundenaktivität erkennt, die von uns als Verstoß gegen die Nutzungsrichtlinie angesehen wird, werden wir entsprechende Maßnahmen ergreifen. Der Kunde kann unter Umständen sofort suspendiert werden. Sie werden über die Durchsetzungsmaßnahmen informiert oder erhalten von Microsoft aktuelle Informationen zu Ihren Anfragen.
-
- Informationen zu Sicherheit und mehrstufiger Authentifizierung finden Sie unter [Partner Sicherheitsanforderungen](partner-security-requirements.md) .
-
- 
-
-
-

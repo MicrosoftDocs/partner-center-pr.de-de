@@ -1,7 +1,7 @@
 ---
 title: Daten und Analysen in Partner Center | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Learn how to use analytics in Partner Center to better understand your business and how your customers are using the licenses you've purchased.
@@ -9,13 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Daten, Analysen, Datenanalysen, Power BI
 ms.localizationpriority: medium
-ms.openlocfilehash: 4c2f970a5dc96f9e49da6ca1fb2a05cd6d224e61
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: b584cf8d622bbe58ac8bf99be3292464cf64e07d
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252272"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384846"
 ---
+# <a name="get-data-and-analyze-your-business"></a>Abrufen von Daten und Analysieren Ihres Unternehmens
+
 **Zielgruppe**
 
 - Partner Center
@@ -25,8 +27,6 @@ ms.locfileid: "74252272"
 **Appropriate role**
 
 - MPN-Partneradministrator
-
-# <a name="get-data-and-analyze-your-business"></a>Abrufen von Daten und Analysieren Ihres Unternehmens
 
 Die Planung von Strategien zum Ausbau Ihres CSP-Geschäfts setzt voraus, dass Sie verstehen, wie Ihre Kunden Microsoft-Produkte verwenden. Sie haben mehrere Optionen zum Sammeln von Daten in Partner Center. Sie können Daten zu Ihrem Unternehmen erfassen und Daten darüber sammeln, ob und wie Ihre Kunden die erworbenen Lizenzen verwenden. Wenn Sie das direkte CSP-Modell nutzen, können Sie die Partner Center Analytics-App für Power BI installieren und verwenden, um zusätzliche Daten zu erfassen.
 

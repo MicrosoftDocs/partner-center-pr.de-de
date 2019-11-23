@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Kunde, Kunde hinzufügen, Kundenkonto, Kundenkonto im Partner Center, Kunden, Kunden hinzufügen, Kundenkonto erstellen
 ms.localizationpriority: medium
-ms.openlocfilehash: 8452bc7040eab835bc5d068d0595bce48f8d2c0a
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 5eab35aa23934b35320d9067bf305ce306e9c141
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253147"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384614"
 ---
 # <a name="add-a-new-customer"></a>Hinzufügen eines neuen Kunden
 
@@ -36,7 +36,7 @@ Bevor Sie einem Kunden Abonnements verkaufen, die Abrechnung verwalten oder ihm 
 2. Geben Sie auf der Seite **Kontoinformationen** die Details und die primären Kontaktinformationen des Kunden ein, und überprüfen Sie, ob der Kunde den aktuellen [Microsoft Cloud-Vertrag](agreements.md) akzeptiert und unterzeichnet hat.
 
 >[!IMPORTANT] 
-> On October 1st, 2019, Microsoft introduced the **Microsoft Customer Agreement** to the CSP program to replace the Microsoft Cloud Agreement. Um die Migration von Partnern zum neuen Vertrag zu erleichtern, wird der aktuelle Microsoft Cloud-Vertrag noch bis zum 31. Januar 2020 im CSP-Programm unterstützt. Read about the [Microsoft Customer Agreement and how to confirm consent](confirm-customer-consent.md)
+> On October 1st, 2019, Microsoft introduced the **Microsoft Customer Agreement** to the CSP program to replace the Microsoft Cloud Agreement. Um die Migration von Partnern zum neuen Vertrag zu erleichtern, wird der aktuelle Microsoft Cloud-Vertrag noch bis zum 31. Januar 2020 im CSP-Programm unterstützt. Read about the [Microsoft Customer Agreement and how to confirm consent](confirm-customer-agreement.md)
   
 3. Wenn Sie ein indirekter Anbieter sind, wählen Sie in der Liste den indirekten Vertriebspartner aus, den Sie den Abonnements dieses Kunden zuordnen möchten.
 

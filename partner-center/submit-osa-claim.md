@@ -1,97 +1,98 @@
 ---
-title: Erstellen einer Kunden Zuordnung mithilfe des cpor-Modells | Partner Center
+title: Create a customer association using the CPOR model | Partner Center
 ms.topic: article
 ms.date: 10/29/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erstellen einer Kunden Zuordnung mithilfe des cpor-Modells
+description: Create a customer association using the CPOR model
 author: LauraBrenner
 ms.author: labrenne
-keywords: anspruchsansprüche, Co-op-Ansprüche, Co-op-Geld, OSU, OSA, ISV, Umsatz Zuordnung
+keywords: incentives claims, co-op claims, co-op funds, OSU, OSA, ISV, revenue association
 ms.localizationpriority: medium
-ms.openlocfilehash: 052e41e1d61a1287550147530371c7e558a6ee69
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a3515c0fff52c9083bbad6cd19f033a88ae2f38a
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654033"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384885"
 ---
+# <a name="create-a-customer-association-using-the-cpor-model"></a>Create a customer association using the CPOR model
+
 **Zielgruppe**
 
 -  Partner Center
 
-# <a name="create-a-customer-association-using-the-cpor-model"></a>Erstellen einer Kunden Zuordnung mithilfe des cpor-Modells
 
-Am 1. Oktober 2019 begann Microsoft, das Anspruchs Partner of Record-Modell (cpor) zu verwenden, um die Zuordnungen zu verwalten, die Sie mit Ihren Microsoft 365 und Dynamics 365-Kunden in Bezug auf die Online Services Advisory (OSA) verkaufen, die Nutzung von Onlinediensten (OSU)- Microsoft 365-und OSU-Business-Anwendungs Incentives.
+On October 1, 2019, Microsoft began using the Claiming Partner of Record (CPOR) model to manage the associations you have with your Microsoft 365 and Dynamics 365 customers with regards to the Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 and OSU-Business Application incentives.
 
-Wenn Sie Ihren Anspruch einreichen, wird er von Microsoft überprüft. Wir werden möglicherweise an dieser Stelle Weitere Informationen anfordern. Wir benachrichtigen den Kunden auch über Ihre Zuordnungs Anforderung. Kunden haben fünf Werktage, um sich abzumelden. Wenn Sie sich nicht entscheiden, ist die Zuordnung zu diesem spezifischen Mandanten und der Arbeitsauslastung offiziell. An diesem Punkt haben Sie Zugriff auf die Nutzungsdaten des Kunden. 
+When you submit your claim, Microsoft validates it. We may ask you for more information at this point. We'll also notify the customer of your association request. Customers have five business days to opt out. If they don't opt out, your association with this specific tenant and workload will be official. At this point you'll have access to the customer's usage data. 
 
-Zum Vervollständigen eines Anspruchs benötigen Sie die folgenden Informationen:
+You'll need the following information to complete a claim:
 
-- Die **MPN-ID** für die Entität, die den Anspruch macht.
+- The **MPN ID** for your entity that makes the claim
 
-- **Domänen Name** des Kunden [Suchen](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+- Customer's **domain name** [Find this](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-- Verzeichnis- **ID** oder Mandanten- **ID** des Kunden [Suchen](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+- Customer's **Directory ID** or **Tenant ID** [Find this](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-- Der **Lösungs Bereich**, z. b. Business Applications oder Microsoft 365
+- The **Solution area**, such as Business Applications or Microsoft 365
 
-- Die **Aktivität** , die Sie ausgeführt haben, und der Anspruchstyp, den Sie erstellen möchten, z. b. vor der Verkäufe, Verwendung oder Umsatz Zuordnung
+- The **Activity** you have performed and the type of claim you want to make, such as Pre-sales, Usage, or Revenue association
 
-- **Kontakt Name**, Titel und e-Mail-Adresse Ihres Kunden
+- Your customer's **Contact name**, title, and email address
 
-- Für Dynamics 365 müssen Sie auch den **technischen Kontakt** Namen, den Titel und die e-Mail-Adresse Ihres Kunden angeben.
+- For Dynamics 365, you also need to provide your customer's **Technical contact** name, title, and email address
 
-- **Kontakt Name** und e-Mail-Adresse Ihres Unternehmens
+- Your own company's **Contact name** and email address
 
-- Sie erstellen einen **Namen** für diesen Anspruch.
+- You'll create a **Name** for this claim
 
-- Die von Ihnen beanspruchten **Produkte** oder Arbeits Auslastungen
+- The **Product(s)** or workload(s) you're claiming
 
-- Der **Ausführungs Nachweis (PoE)** , z. b. eine vom Kunden signierte Anweisung. Sie können auch eine zu verwendende Poe-Vorlage herunterladen.
+- **Proof of execution (POE)** , such as a statement of work signed by the customer. You can also download a POE template to use.
 
-- Für Partner, die nur die Umsatz Zuordnung beanspruchen: **Name des Dynamics-Lösungs Verkäufers**, **Kunden Name**und **Name von ISV-Produkt/-Lösung**. 
+- For partners claiming revenue association only: **Dynamics solution seller name**, **Customer name**, and **Name of ISV product/solution**. 
 
-Außerdem sollten Sie die folgenden Punkte kennen:
-- Wenn Sie über Microsoft 365 Kunden verfügen, müssen Sie Sie erneut zuordnen, um die OSU-Anreize mithilfe dieses Prozesses zu erhalten.
-- Wenn Sie über vorhandene Zuordnungen mit Dynamics 365 oder Power BI Kunden verfügen, bleiben diese Zuordnungen bis zum Ablauf Ihrer Abonnements gültig.
-- Ein Kunde kann über mehrere Partner verfügen, aber die einzelnen Arbeits Auslastungen (für OSU-Microsoft 365) oder das Abonnement (für OSA-Sell und OSU-Business Applications) können nur einem Partner zugeordnet werden.
+You should also understand the following points:
+- If you have existing Microsoft 365 customers, you'll need to re-associate with those you want to continue to earn OSU incentives by using this process.
+- If you have existing associations with Dynamics 365 or Power BI customers, these associations will remain valid, until the expiration of their subscriptions.
+- A customer can have multiple partners, but each workload (for OSU-Microsoft 365) or subscription (for OSA-Sell and OSU-Business Applications) can only be associated with one partner.
 
-## <a name="create-a-customer-association"></a>Erstellen einer Kunden Zuordnung
-1.  Wählen Sie im Partner Center-Dashboard unter " **Incentives**" die Option **Übersicht**aus, und wählen Sie dann **Kunden Zuordnungen**aus. 
+## <a name="create-a-customer-association"></a>Create a customer association
+1.  In the Partner Center dashboard, under **Incentives**, select **Overview**, and then select **Customer associations**. 
 
-2.  Wählen Sie am oberen Rand der Seite Kunden Zuordnungen die Option **+ Customer Association**aus.
+2.  At the top of the Customer associations page, select **+ Customer association**.
 
-3.  Wählen Sie die **MPN-ID** des Partner Standorts aus, der dem Kunden zugeordnet werden soll, und fügen Sie dann den Domänen Namen und die Verzeichnis-ID des Kunden hinzu. [Wo sind diese?](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+3.  Select the **MPN ID** of the partner location to be associated with the customer, and then add the customer's domain name and Directory ID. [Where are these?](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
 Klicken Sie auf **Weiter**.
 
-4.  Wählen Sie den projektmappenbereich und die **Aktivität**aus. 
+4.  Select the **Solution area** and **Activity**. 
 
 >[!Note]
 
->Wenn Sie Business Applications auswählen, wählen Sie entweder **Nutzung und/oder vorab Verkäufe**oder **Umsatz**Zuordnung aus, und klicken Sie dann auf **weiter**. 
+>If you select Business Applications, select either **Usage and/or Pre-sales**, or **Revenue association**, and then select **Continue**. 
 
->Wenn Sie Umsatz Zuordnung auswählen, werden Sie aufgefordert, etwas andere Informationen als die unten aufgeführten Informationen zu erhalten. 
+>If you select Revenue association, you'll be prompted for slightly different information than what's listed below. 
 
-5.  Geben Sie die entsprechenden Informationen auf der Seite **Customer zuordnen** ein, und wählen Sie dann **Anspruch erstellen**aus.
+5.  Enter the appropriate information on the **Associate customer** page, and then select **Create claim**.
 
-6.  Wählen Sie die mit dieser Kunden Zuordnung verknüpften Produkte aus, und klicken Sie dann auf **weiter**.
+6.  Select the product(s) associated with this customer association, and then select **Continue**.
 
-7.  Vervollständigen Sie die Kundenkontaktinformationen und die Kontaktinformationen Ihres Unternehmens. Alle Felder sind erforderlich. 
+7.  Complete the customer contact information and your company's contact information. Alle Felder sind erforderlich. 
 
 >[!Note]
 
-Wenn Ihr Produkt Dynamics 365 ist und das ausgewählte Produkt mehrere Abonnements für diesen bestimmten Kunden enthält, müssen Sie auch die Abonnement-ID eingeben.
+If your product is Dynamics 365, and the product you choose has multiple subscriptions for this particular customer, you'll also need to enter the subscription ID.
 
-8.  Stellen Sie Ihre Ausführungs Prüfung (PoE) bereit. Sie können Sie in das Feld ziehen, eine eigene unterstützende Dokumentation durchsuchen oder eine Vorlage verwenden, indem Sie **Vorlage herunterladen**auswählen. 
+8.  Supply your proof of execution (POE). You can drag it to the box, browse to your own supporting documentation, or use a template by selecting **Download template**. 
 
-9.  Fügen Sie Kommentare hinzu, und speichern Sie Sie, und wählen Sie dann **Anspruch senden**aus. Wir senden eine e-Mail an den Kunden, der die Genehmigung ihrer Kunden Zuordnung anfordert. 
+9.  Add and save comments if you like, and then select **Submit claim**. We'll send an email to the customer requesting approval of your customer association. 
 
 >[!NOTE]
 
->Nachdem Sie Ihre Kunden Zuordnung eingereicht haben, können Sie Sie nicht mehr bearbeiten. 
+>Once you submit your customer association, you can't edit it. 
 
-Der Status der Kunden Zuordnung wird im Feld **Status** angezeigt. 
+The status of your customer association appears in the **Status** field. 
 
-Wählen Sie **Verlauf** aus, um den Verlauf einer Kunden Zuordnung anzuzeigen.
+Select **History** to view the history of a customer association.

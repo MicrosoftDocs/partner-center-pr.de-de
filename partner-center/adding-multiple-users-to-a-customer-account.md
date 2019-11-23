@@ -4,11 +4,11 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to add multiple users to a customer's account all at once, by uploading a data file in the comma-separated value file format (.csv) to Partner Center.
+description: Erfahren Sie, wie Sie dem Konto eines Kunden mehrere Benutzer gleichzeitig hinzufügen, indem Sie eine Datendatei im CSV-Dateiformat (Comma-Separated Value File Format) in Partner Center hochladen.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Massenupload, einem Kundenkonto mehrere Benutzer hinzufügen, Benutzer eines Kunden hinzufügen, Massenupload der Benutzer eines Kunden, Kundenkonto, Kundenbenutzer, Benutzer
+keywords: Stapelweises Hochladen, mehrere Benutzer einem Kundenkonto hinzufügen, Kunden eines Benutzers hinzufügen, stapelweises Hochladen der Benutzer des Kunden, Kundenkonto, Kunden des Benutzers, Benutzer
 ms.localizationpriority: medium
 ms.openlocfilehash: 5c9de7ed78a0494790b447d1755d5eef70a89cca
 ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
@@ -19,7 +19,7 @@ ms.locfileid: "74253181"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>Hinzufügen von mehreren Benutzern zu einem Kundenkonto
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 
@@ -28,7 +28,7 @@ Sie können dem Konto eines Kunden mehrere Benutzer gleichzeitig hinzufügen, in
 ## <a href="" id="creatingtheimportcsvfile"></a>Anforderungen an die Datendatei
 
 
-To add multiple users to a customer's account using the bulk upload process, you'll need to meet the following requirements:
+Wenn Sie dem Konto eines Kunden mithilfe des Massen Uploads mehrere Benutzer hinzufügen möchten, müssen Sie die folgenden Anforderungen erfüllen:
 
 -   Sie müssen über globale Administratorberechtigungen für das Kundenkonto verfügen.
 -   Jeder Benutzer muss eine eindeutige E-Mail-Adresse besitzen, die an die E-Mail-Domäne(n) des Kunden angehängt sind.
@@ -40,11 +40,11 @@ Geben Sie die folgenden Daten in die Datendatei ein:
 
 |                 |                                                                              |                                            |
 |-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **Name der Spalte** | **Beschreibung**                                                              | **Einschränkung**                             |
-| Vorname      | User's first name (optional field)                                           | Begrenzung von 50 Zeichen                         |
+| **Spaltenname** | **Beschreibung**                                                              | **Einschränkung**                             |
+| Vorname      | Vorname des Benutzers (optionales Feld)                                           | Begrenzung von 50 Zeichen                         |
 | Nachname       | Nachname des Benutzers (optionales Feld)                                            | Begrenzung von 50 Zeichen                         |
 | Anzeigename    | Der im Partner Center angezeigte Name (erforderliches Feld)                            | Begrenzung von 50 Zeichen                         |
-| „E-Mail“           | User's business email address at customer company (required field)           | Jeder Benutzer muss eine eindeutige E-Mail-Adresse besitzen. |
+| E-Mail           | Geschäftliche e-Mail-Adresse des Benutzers im Kunden Unternehmen (Pflichtfeld)           | Jeder Benutzer muss eine eindeutige E-Mail-Adresse besitzen. |
 | Statusupdate   | Hiermit wird angegeben, ob der Datensatz des neuen Benutzers erfolgreich erstellt wurde. | \*\*Keine Angabe\*\*                        |
 
  

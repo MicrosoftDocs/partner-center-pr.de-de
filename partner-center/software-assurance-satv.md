@@ -22,9 +22,9 @@ Fördern Sie das Wachstum Ihres Unternehmen, indem Sie sich bei Software Assuran
 
 Als anerkannter Software Assurance-Schulungspartner vergütet Microsoft Sie für die Bereitstellung von technischen Schulungen für Unternehmenskunden im Austausch gegen Gutscheine, die sie mit Software Assurance erhalten. Die Teilnahme an diesem Programm kann Ihnen helfen, mehr Kunden zu gewinnen und deren vertrauenswürdiger Lernpartner zu werden.
 
-## <a name="get-started"></a>„Erste Schritte“
+## <a name="get-started"></a>Erste Schritte
 
-If you're new to Software Assurance training services, follow all the steps below. If you're already active in the training voucher program, start at step four (4) below. 
+Wenn Sie noch nicht mit den Software Assurance-Schulungs Diensten vertraut sind, führen Sie die folgenden Schritte aus. Wenn Sie bereits im Schulungs Beleg Programm aktiv sind, beginnen Sie mit Schritt 4 (4) unten. 
 
 1. Bestätigen der Berechtigung für das Programm
 2. Registrieren beim Schulungsprogramm
@@ -41,41 +41,41 @@ In diesem Artikel wird erläutert, wie Sie die einzelnen Schritte ausführen.
 
 Bevor Sie sich beim SATV-Programm registrieren können, müssen Sie zunächst die Voraussetzungen für die Microsoft Partner Network-Option „Learning“ erfüllen, welche die Microsoft Learning-Kompetenz ersetzt. Erfahren Sie mehr über die ersten Schritte mit der [Option „Learning“](https://partner.microsoft.com/membership/learning-partners).
 
-You can verify your company's eligibility including applicable competency and assessment requirements in Partner Center. Follow the instructions at [step 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the SATV workflow for more details and screen shots.
+Sie können die Berechtigung Ihres Unternehmens, einschließlich der anwendbaren Kompetenz und Bewertungsanforderungen in Partner Center, überprüfen. Befolgen Sie die Anweisungen in [Schritt 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) des SATV-Workflows, um weitere Details und Screenshots zu erhalten.
 
 ## <a name="enroll-in-the-training-program"></a>Registrieren beim Schulungsprogramm
 
-After your company meets the eligibility requirements and your program participants have passed the compliance training course, you're ready to sign the Software Assurance Training Voucher program agreement and enroll. Be sure to review all [SATV program policies](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), then follow the instructions in [step 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow to complete the SATV enrollment process in Partner Center.   
+Nachdem Ihr Unternehmen die Berechtigungsanforderungen erfüllt und ihre Programmteilnehmer den Kurs zur Compliance-Schulung abgeschlossen haben, können Sie die Software Assurance-Schulungsprogramm Vereinbarung Signieren und sich registrieren. Stellen Sie sicher, dass Sie alle [SATV-Programmrichtlinien](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)überprüfen, und befolgen Sie dann die Anweisungen in [Schritt 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) des Workflows, um den SATV-Registrierungsprozess in Partner Center abzuschließen.   
 
 
 ## <a name="confirm-course-eligibility"></a>Bestätigen der Berechtigung für den Kurs
-Nach der Registrierung für das SATV-Programm können die Partner Schulungen für SATV qualifizierte Kurse anbieten, für die Kunden ihre Schulungsgutscheine einlösen können. Eligible courses are listed in the [SATV course eligibility catalog](https://savl-catalog.microsoft.com/). Review [step 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow to understand which types of courses are SATV-eligible.
+Nach der Registrierung für das SATV-Programm können die Partner Schulungen für SATV qualifizierte Kurse anbieten, für die Kunden ihre Schulungsgutscheine einlösen können. Berechtigte Kurse sind im [SATV Course-Berechtigungs Katalog](https://savl-catalog.microsoft.com/)aufgeführt. Lesen Sie [Schritt 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) des Workflows, um zu verstehen, welche Arten von Kursen von SATV qualifiziert sind.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Erstellen und Zuweisen von Gutscheinen durch Kunden
 
-Vor der Durchführung einer Schulung muss Ihr Kunde zunächst sein SATV-Angebot aktivieren und es dann Ihrem Unternehmen zuweisen. For detailed instructions with screen shots showing the steps your customer must take in order to create a voucher and assign it to you, refer to [step 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow.
+Vor der Durchführung einer Schulung muss Ihr Kunde zunächst sein SATV-Angebot aktivieren und es dann Ihrem Unternehmen zuweisen. Ausführliche Anweisungen mit Screenshots, die die Schritte zeigen, die Ihr Kunde ausführen muss, um einen Gutschein zu erstellen und Ihnen zuzuweisen, finden Sie in [Schritt 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) des Workflows.
 
 ## <a name="validate-and-reserve-customer-vouchers"></a>Validieren und Reservieren von Kundengutscheinen
 
-Sie können jetzt Gutscheine reservieren und einlösen und mit der Schulung Ihrer Kunden beginnen. Your company's MPN admin has access to the voucher management tool in Partner Center and can add users who need to work in the tool. For instructions on validating and reserving vouchers, refer to [step 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow.
+Sie können jetzt Gutscheine reservieren und einlösen und mit der Schulung Ihrer Kunden beginnen. Der MPN-Administrator Ihres Unternehmens hat Zugriff auf das Tool für die Gutschein Verwaltung in Partner Center und kann Benutzer hinzufügen, die im Tool arbeiten müssen. Anweisungen zum Validieren und reservieren von Gutscheinen finden Sie in [Schritt 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) des Workflows.
 
 ## <a name="deliver-training-and-activate-product"></a>Bereitstellen der Schulung und Aktivieren des Produkts
 
-Sobald ein Gutschein reserviert ist, können Sie die Schulung an Ihren Kunden weitergeben. See [step 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow for training engagement guidelines and instructions for the activation and purchase of Microsoft Official Courseware (MOC), exams, and Microsoft Course Certificate vouchers (LaaS) for MOOC courses.
+Sobald ein Gutschein reserviert ist, können Sie die Schulung an Ihren Kunden weitergeben. Weitere Informationen finden Sie in [Schritt 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) des Workflows für Schulungs Engagement-Richtlinien und Anweisungen für die Aktivierung und den Erwerb von Microsoft Official Courseware (MOC), Prüfungen und Microsoft Course Certificate Gutscheine (Laas) für MOOC-Kurse.
 
 ## <a name="redeem-voucher"></a>Einlösen des Gutscheins
 
-Nach Abschluss einer Schulung müssen Sie den Gutschein einlösen. Follow the instructions in [step 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow to ensure all requirements are met so that you can request payment. 
+Nach Abschluss einer Schulung müssen Sie den Gutschein einlösen. Befolgen Sie die Anweisungen in [Schritt 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) des Workflows, um sicherzustellen, dass alle Anforderungen erfüllt sind, damit Sie die Zahlung anfordern können. 
 
 
 ## <a name="request-payment-from-microsoft"></a>Beantragen der Zahlung durch Microsoft
 
-Zahlungen werden durch das Onlinezahlungstool für Software Assurance Voucher Benefit (SAVB) verarbeitet. Follow the instructions in [step 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow to submit an invoice to Microsoft through SAVB. 
+Zahlungen werden durch das Onlinezahlungstool für Software Assurance Voucher Benefit (SAVB) verarbeitet. Befolgen Sie die Anweisungen in [Schritt 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) des Workflows, um eine Rechnung an Microsoft über savb zu übermitteln. 
 
-For additional information read the [FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) and review [SATV program policies](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP).
+Weitere Informationen finden Sie in den [FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) und Überprüfen der [Richtlinien für SATV-Programme](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP).
 
 Siehe auch:
 
-- [Software Assurance Training Vouchers (SATV) Workflow](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
-- [Software Assurance Training Vouchers (SATV) FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
-- [Software Assurance Training Vouchers (SATV) Policies](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
+- [Software Assurance-Schulungs Gutscheine (SATV)-Workflow](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
+- [FAQ zu Software Assurance-Schulungs Gutscheinen (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
+- [Richtlinien für Software Assurance-Schulungs Gutscheine (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)

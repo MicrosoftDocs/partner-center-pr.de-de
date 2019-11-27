@@ -4,10 +4,10 @@ ms.topic: article
 ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Learn how to initiate incentives co-op claims from Partner Center. Alle Aktivitäten im Rahmen der Erstellung des Anspruchs werden im Verlauf angezeigt.
+description: Erfahren Sie, wie Sie die Co-op-Ansprüche von Partner Center initiieren. Alle Aktivitäten im Rahmen der Erstellung des Anspruchs werden im Verlauf angezeigt.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Incentives-Ansprüche, Co-Op-Ansprüche, Co-Op-Mittel
+keywords: Incentive-Ansprüche, Co-Op-Ansprüche, Co-Op-Mittel
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: e315ba8963d62e47275344b973fb68a79fe72337
@@ -19,7 +19,7 @@ ms.locfileid: "74253473"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>Erstellen und Verwalten eines Incentives-Anspruchs
 
-**Zielgruppe**
+**Gilt für**
 - Partner Center
 
 Sie können im Partner Center einen Incentives-Anspruch initiieren. 
@@ -30,13 +30,13 @@ Sie können im Partner Center einen Incentives-Anspruch initiieren.
 
 3.  Wählen Sie zum Erstellen eines neuen Anspruchs **Anspruch erstellen** aus.
 
-4.  When you have filled out the initial form and selected **Create Claim**, you will be taken to the Claim detail page where you will be able to add invoices, CSR's, proof documents, and metrics. Bei Bedarf können Sie auch zusätzliche Informationen hinzufügen.
+4.  Wenn Sie das anfängliche Formular ausgefüllt und **Anspruch erstellen**ausgewählt haben, werden Sie auf die Seite mit den Anspruchs Details gelangen, auf der Sie Rechnungen, CSR, Prüfdokumente und Metriken hinzufügen können. Bei Bedarf können Sie auch zusätzliche Informationen hinzufügen.
 
 Auf der Seite mit den Anspruchsdetails können Sie andere Personen in Ihrem Unternehmen auffordern, Dokumente in das Formular hochzuladen. Jedem der Belege, den Sie hochladen, können erklärende Informationen hinzugefügt werden. 
 
 ### <a name="manage-your-claims"></a>Verwalten Ihrer Ansprüche
 
-Alle Aktivitäten im Rahmen der Erstellung des Anspruchs werden im **Verlauf** angezeigt. Jedes Mal, wenn Kollegen Belege oder Kommentare hinzufügen, wird diese Aktion im **Verlauf** gespeichert. Bis Sie den Anspruch senden, lautet der Status **In Bearbeitung**. Your claim's status changes as it moves through the approval process. Bei der Prüfung eines Anspruchs erhalten Sie möglicherweise Feedback zu einem bestimmten Element in Ihrer Dokumentation (Belege zum Nachweis der Ausführung). Feedback und Anfragen für zusätzliche Informationen werden ebenfalls im Anspruchsverlauf angezeigt. 
+Alle Aktivitäten im Rahmen der Erstellung des Anspruchs werden im **Verlauf** angezeigt. Jedes Mal, wenn Kollegen Belege oder Kommentare hinzufügen, wird diese Aktion im **Verlauf** gespeichert. Bis Sie den Anspruch senden, lautet der Status **In Bearbeitung**. Der Status Ihres Anspruchs ändert sich, während er den Genehmigungsprozess durchläuft. Bei der Prüfung eines Anspruchs erhalten Sie möglicherweise Feedback zu einem bestimmten Element in Ihrer Dokumentation (Belege zum Nachweis der Ausführung). Feedback und Anfragen für zusätzliche Informationen werden ebenfalls im Anspruchsverlauf angezeigt. 
 
 Sie können Ihren Anspruch nicht mehr bearbeiten, nachdem Sie ihn übermittelt haben, es sei denn, ein Prüfer fordert zusätzliche Informationen an.
 

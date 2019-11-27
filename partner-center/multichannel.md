@@ -18,17 +18,17 @@ ms.locfileid: "74189073"
 ---
 # <a name="multi-channel-support"></a>Unterstützung mehrerer Kanäle
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
 
 
-The Partner Center's multi-channel feature supports scenarios when a customer wants to hire a partner to manage and support a subscription they purchased elsewhere. Dieser Multichannel-Support gilt in folgenden Fällen:
+Das Multichannel-Feature von Partner Center unterstützt Szenarien, in denen ein Kunde einen Partner für die Verwaltung und Unterstützung eines Abonnements beauftragen möchte, das Sie an anderer Stelle erworben haben. Dieser Multichannel-Support gilt in folgenden Fällen:
 
 -   Der Kunde hat bereits Abonnements direkt von Microsoft oder über die Advisor-, Open- oder EA-Programme erworben.
 
--   Der Kunde hat die Abonnements von einem Drittanbieter gekauft, der weder dem Programm für Cloud-Lösungsanbieter angehört noch ein Microsoft Syndication-Partner ist. Customers can't switch existing license-based subscriptions to a different partner in the Cloud Solution Provider program-they must wait until the end of their subscription period or cancel before moving.
+-   Der Kunde hat die Abonnements von einem Drittanbieter gekauft, der weder dem Programm für Cloud-Lösungsanbieter angehört noch ein Microsoft Syndication-Partner ist. Kunden können vorhandene Lizenz basierte Abonnements nicht auf einen anderen Partner im Cloud Solution Provider-Programm umstellen. Sie müssen bis zum Ende Ihres Abonnementzeitraums warten oder vor dem Verschieben abbrechen.
 
 
 <table>
@@ -44,7 +44,7 @@ The Partner Center's multi-channel feature supports scenarios when a customer wa
 <tr class="even">
 <td><p><strong>Nutzungsbasierte Dienste</strong></p></td>
 <td>
-<p>Für Kunden, die bereits ein Abonnement von Microsoft Azure von einem anderen Kanal (z. B. Advisor, Open oder EA) besitzen, müssen Sie ein neues Azure-Abonnement in Partner Center erstellen, die Abonnementdetails manuell eingeben und dann die einzelnen Dienste oder das gesamte Abonnement stornieren. Azure CSP can coexist with different channels.</p>
+<p>Für Kunden, die bereits ein Abonnement von Microsoft Azure von einem anderen Kanal (z. B. Advisor, Open oder EA) besitzen, müssen Sie ein neues Azure-Abonnement in Partner Center erstellen, die Abonnementdetails manuell eingeben und dann die einzelnen Dienste oder das gesamte Abonnement stornieren. Azure CSP kann gemeinsam mit verschiedenen Kanälen vorhanden sein.</p>
 <p>Für Kunden, die bereits über ein Abonnement für Microsoft Azure von einem anderen Partner verfügen, können Sie beispielsweise Azure-Dienste auf den anderen Partner übertragen.  Weitere Informationen finden Sie unter <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Übertragen von Azure-Abonnements auf einen anderen Partner</a>.</p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ The Partner Center's multi-channel feature supports scenarios when a customer wa
 > [!IMPORTANT]  
 > Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Microsoft überprüft ständig die Richtlinien und Funktionen aller Programme. Alle Ankündigungen zu künftigen Releases werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner Center. 
 
-## <a name="see-also"></a>Weitere Informationen:
+## <a name="see-also"></a>Siehe auch
 
 [Zusammenarbeit mit anderen Partnern](work-with-other-partners.md)
 

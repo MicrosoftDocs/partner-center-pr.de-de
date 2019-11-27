@@ -16,28 +16,28 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384594"
 ---
-# <a name="company-tax-information"></a>Company tax information
+# <a name="company-tax-information"></a>Unternehmens Steuerungsinformationen
 
-Betrifft
+Gilt für:
 
 - Partner Center
 
-Steuern für Einkäufe in Partner Center werden durch Ihre Geschäftsadresse bestimmt. Businesses in some countries can [provide their value-added tax (VAT) number](#submit-vat-id-number) or local equivalent.
+Steuern für Einkäufe in Partner Center werden durch Ihre Geschäftsadresse bestimmt. Unternehmen in einigen Ländern können [Ihre Mehrwert Steuernummer (Tax)](#submit-vat-id-number) oder eine lokale Entsprechung angeben.
 
 ### <a name="add-your-vat-id"></a>Hinzufügen Ihrer Umsatzsteuer-Identifikationsnummer
 
-You must be a global admin, billing admin, or admin agent to  edit the billing profile.
+Sie müssen ein globaler Administrator, ein Abrechnungs Administrator oder Administrator-Agent sein, um das Abrechnungs Profil zu bearbeiten.
 
-1.  From the **Partner Center dashboard** go to  **Settings** and then select **Billing profile**.
+1.  Wechseln Sie im **Partner Center-Dashboard** zu **Einstellungen** , und wählen Sie dann **Abrechnungs Profil**aus.
 2.  Wählen Sie im Abschnitt **Finanzdaten** die Option **Aktualisieren** aus.
-3.  In the **Company Tax ID** field, enter your VAT ID number.
+3.  Geben Sie im Feld **Firmen Steuerungs-ID** Ihre Umsatzsteuer-ID ein.
 
-## <a name="submit-vat-id-number"></a>Submit VAT ID number
+## <a name="submit-vat-id-number"></a>Übermitteln der Umsatzsteuernummer
 
-If applicable, follow these steps to send Microsoft your value-added tax (VAT) ID number:
+Führen Sie ggf. die folgenden Schritte aus, um die von Ihnen hinzugefügte Mehrwertsteuer Nummer (Umsatzsteuer-ID) für Microsoft
 
-1. Sign in to [the Partner Center dashboard](https://partner.microsoft.com/dashboard/).
-2. In the **Settings** menu (gear icon), choose **Partner Settings**.
-3. On the **Account settings** page, choose **Partner billing profile** on the page menu.
-4. In the **Financial data** section, choose **Update**.
-5. For **Company Tax ID**, specify your VAT ID number.
+1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/)an.
+2. Wählen Sie im Menü " **Einstellungen** " (Zahnrad Symbol) die Option **Partner Einstellungen**aus.
+3. Wählen Sie auf der Seite **Kontoeinstellungen** im Menü Seite die Option **Partner Abrechnungs Profil** aus.
+4. Wählen Sie im Abschnitt **Finanzdaten** die Option **Aktualisieren**aus.
+5. Geben Sie für die **Steuer-ID des Unternehmens**Ihre ID-Nummer an.

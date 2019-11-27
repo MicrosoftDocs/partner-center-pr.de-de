@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to register the Cloudyn web app and use a secret key for it in Partner Center so you can use the app to track customer Azure usage and costs.
+description: Erfahren Sie, wie Sie die cloudyn-Web-App registrieren und einen geheimen Schlüssel für diese in Partner Center verwenden, damit Sie die APP verwenden können, um die Azure-Nutzung und die Kosten des Kunden zu verfolgen.
 author: Janet
 ms.author: janet
 Keywords: Azure Cost Management-App, Kostenmanagement, Web-Apps
@@ -19,12 +19,12 @@ ms.locfileid: "74253295"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>Azure Cost Management-App für Azure CSP-Partner  
 
-**Zielgruppe**
+**Gilt für**
 
 - Partner Center
 - Partner im Cloud Solution Provider-Programm
 
-**Appropriate roles**
+**Geeignete Rollen**
 
 - Globaler Administrator
 - Administratoragent

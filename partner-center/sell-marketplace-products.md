@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/17/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: In Partner Center, learn how to sell your customers subscriptions to SaaS products published to the marketplace by Independent Software Vendors (ISVs).
+description: In Partner Center erfahren Sie, wie Sie Ihre Kunden Abonnements an SaaS-Produkte verkaufen, die von unabhängigen Software Herstellern (ISVs) im Marketplace veröffentlicht werden.
 author: MicheleHope
 ms.author: v-mihope
 keywords: Abonnements, Marketplace, Drittanbieter, ISV
@@ -18,15 +18,15 @@ ms.locfileid: "74253080"
 ---
 # <a name="sell-subscriptions-to-commercial-marketplace-products"></a>Verkaufen von Abonnements für Produkte des kommerziellen Marketplace
 
-**Zielgruppe**
+**Gilt für**
 
 - Partner Center
 - CSP-Partner
 
-As a partner in the CSP program, you can use Partner Center to sell your customers subscriptions to Software as a Service (SaaS) products that have been published to the commercial marketplace ([Microsoft AppSource](https://appsource.microsoft.com/) and [Azure Marketplace](https://azuremarketplace.microsoft.com/)) by Independent Software Vendors (ISVs). 
+Als Partner im CSP-Programm können Sie Partner Center verwenden, um Ihre Kunden Abonnements an SaaS-Produkte (Software-as-a-Service) zu verkaufen, die von unabhängigen Software Herstellern (ISVs) im kommerziellen Marketplace ([Microsoft AppSource](https://appsource.microsoft.com/) und [Azure Marketplace](https://azuremarketplace.microsoft.com/)) veröffentlicht wurden. 
 
 Dies kann Ihnen dabei helfen, Ihr Unternehmen von der Konkurrenz abzuheben und Ihren Kunden Softwarepakete anzubieten, die ihre speziellen geschäftlichen Anforderungen erfüllen. Sie verwalten Lizenzen und Abonnements für diese Marketplace SaaS-Produkte wie für Microsoft-Produkte.
 
-To learn how partners in the CSP program can use the commercial marketplace, see the [Commercial marketplace overview for Cloud Solution Providers](csp-commercial-marketplace-overview.md).
+Informationen dazu, wie Partner im CSP-Programm den kommerziellen Marketplace nutzen können, finden Sie unter [Übersicht über den kommerziellen Marketplace für cloudlösungsanbieter](csp-commercial-marketplace-overview.md).
 
-Or, to learn about the different role of ISVs in the commercial marketplace, see [Marketplace FAQs](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide).
+Weitere Informationen über die unterschiedlichen Rollen von ISVs im kommerziellen Marketplace finden Sie in den häufig gestellten Fragen zum [Marketplace](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide).

@@ -1,10 +1,10 @@
 ---
-title: Analyze your business profile | Partner Center
+title: Analysieren Ihres Geschäfts Profils | Partner Center
 ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to use the Business profile insights page to see how well you're capturing the attention of your target customers and generating referrals.
+description: Erfahren Sie, wie Sie die Seite Business profile Insights verwenden können, um zu sehen, wie gut Sie die Aufmerksamkeit Ihrer Zielkunden erfassen und Referenzen erstellen.
 author: JnHs
 ms.author: jenhayes
 ms.localizationpriority: medium
@@ -15,29 +15,29 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253130"
 ---
-# <a name="analyze-your-business-profile"></a>Analyze your business profile
+# <a name="analyze-your-business-profile"></a>Analysieren Ihres Geschäfts Profils
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Zielgruppe**
+**Gilt für**
 
 - Partner Center
 
-The **Business profile insights** page in Partner Center lets you see how well you're capturing the attention of your target customers and generating referrals.
+Auf der Seite **Business profile Insights** in Partner Center sehen Sie, wie gut Sie die Aufmerksamkeit Ihrer Zielkunden erfassen und Referenzen erstellen können.
 
-To see your referral insights data, from the Partner Center menu, go to **Referrals > Business profile insights**. Ihre Daten zeigen die Leistung des Profils, Trendanalysen und Bereiche auf, die Maßnahmen erfordern.
+Wenn Sie Ihre Referenzdaten anzeigen möchten, wechseln Sie im Partner Center-Menü zu **Verweise > Business profile Insights**. Ihre Daten zeigen die Leistung des Profils, Trendanalysen und Bereiche auf, die Maßnahmen erfordern.
 
-Near the top of the **Business profile insights** page, you can select the time period for which you want to show data. The default selection is **30D** (30 days), but you can choose to show data for a period of 3 or 6 months instead. Data for all regions is included.
+Im oberen Bereich der Seite **Business profile Insights** können Sie den Zeitraum auswählen, in dem Sie Daten anzeigen möchten. Die Standardauswahl beträgt **30D** (30 Tage), aber Sie können stattdessen Daten für einen Zeitraum von 3 oder 6 Monaten anzeigen. Daten für alle Regionen sind enthalten.
 
-After you post your company's [business profile](create-a-marketing-profile.md), you'll start to see data on how many customers find your profile, how often they click through to learn more, and how often they send you requests for information (RFIs). Use this data when refining your business profiles to generate more leads, and more relevant leads.
+Nachdem Sie das [Geschäftsprofil](create-a-marketing-profile.md)Ihres Unternehmens bereitgestellt haben, sehen Sie, wie viele Kunden ihr Profil finden, wie oft Sie durch klicken, um weitere Informationen zu erhalten, und wie oft Sie Informationen zu den Anforderungen an Informationen senden. Verwenden Sie diese Daten, wenn Sie Ihre geschäftsprofile verfeinern, um weitere Leads und relevantere Leads zu generieren.
 
-The **Profile performance summary** chart includes the following info for the selected time period:
+Das Diagramm für die **Profil Leistungs Zusammenfassung** enthält die folgenden Informationen für den ausgewählten Zeitraum:
 
-- **Search results**: Info about the search terms that customers are using to find your business profile.
-- **Page views**: The total number of times that customers viewed your business profile.
-- **Contact clicks**: The total number of times that customers selected your business profile from the [Find a solution provider](https://www.microsoft.com/solution-providers/home) page.
-- **Referrals generated**: The total number of referrals sent to you after a customer selected your business profile.
+- **Suchergebnisse**: Informationen zu den Suchbegriffen, die Kunden für die Suche nach Ihrem Geschäftsprofil verwenden.
+- **Seitenaufrufe**: die Gesamtzahl der Kunden, die ihr Geschäftsprofil angezeigt haben.
+- **Kontakt Klicks**: die Gesamtzahl der Kunden, die ihr Geschäftsprofil auf der Seite [Lösungsanbieter suchen](https://www.microsoft.com/solution-providers/home) ausgewählt haben.
+- **Generierte Verweise**: die Gesamtzahl der an Sie gesendeten Verweise, nachdem ein Kunde Ihr Geschäftsprofil ausgewählt hat.
 
 > [!TIP]
-> As you start to [respond to these referrals](responding-to-referrals.md), be sure to review the [Referral insights page](referral-insights.md) to see more details on how your referrals are performing.
+> Wenn Sie damit beginnen, [auf diese Referenzen zu reagieren](responding-to-referrals.md), lesen Sie die Seite " [Referenz](referral-insights.md) Informationen", um weitere Details zur Leistung Ihrer Verweise anzuzeigen.

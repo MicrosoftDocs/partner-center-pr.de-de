@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to use metrics in Partner Center to see whether your business is growing, how customers are using their licenses, and where to focus investment.
+description: Erfahren Sie, wie Sie Metriken im Partner Center verwenden können, um festzustellen, ob Ihr Unternehmen wächst, wie Kunden ihre Lizenzen verwenden und wo Sie sich mit den Investitionen beschäftigen.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
@@ -16,9 +16,9 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253703"
 ---
-# <a name="increase-adoption-and-satisfaction"></a>Steigern von Akzeptanz und Zufriedenheit
+# <a name="increase-adoption-and-satisfaction"></a>Steigerung von Einführungsrate und Zufriedenheit
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 
@@ -64,7 +64,7 @@ Terminologie:
 ## <a name="next-steps"></a>Nächste Schritte
 
 
-If you are fielding a lot of Help and How-to questions, the adoption numbers on your account are low, or you're looking for upsell opportunities, you may want to consider offering training courses. By teaching your customers how to better use the cloud solution software they have purchased, you're more likely to see an increase in productivity and satisfaction, and a decrease in support needs.
+Wenn Sie viele Hilfe und Fragen zu Fragen haben, sind die Einführungs Zahlen in Ihrem Konto niedrig, oder Sie suchen nach Upselling-Möglichkeiten. Sie sollten auch Schulungskurse anbieten. Wenn Sie Ihren Kunden die Nutzung der von Ihnen erworbenen cloudlösungssoftware erleichtern, sehen Sie eher eine Steigerung der Produktivität und Zufriedenheit und eine Abnahme der Supportanforderungen.
 
 <table>
 <colgroup>
@@ -72,14 +72,14 @@ If you are fielding a lot of Help and How-to questions, the adoption numbers on 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problem:</strong> The user adoption rate is low, and many licenses aren&#39;t being used.</p>
-<p><strong>Mögliche Ursache:</strong> Die Kunden erkennen den Wert nicht, den Ihnen die Software bieten kann. They need help envisioning the ways they could incorporate it into their day to simplify tasks that they're already doing, or to enable new kinds of productivity.</p>
+<td><p><strong>Problem:</strong> Die Benutzer Akzeptanz Rate ist niedrig, und viele Lizenzen&#39;werden verwendet.</p>
+<p><strong>Mögliche Ursache:</strong> Die Kunden erkennen den Wert nicht, den Ihnen die Software bieten kann. Sie benötigen Hilfe bei der Planung der Art und Weise, wie Sie Sie in Ihren Tag einbinden können, um Aufgaben zu vereinfachen, die Sie bereits ausführen, oder um neue Arten von Produktivität zu ermöglichen.</p>
 <p><strong>Was Sie nutzen können:</strong> Fallstudien, Benutzerempfehlungen zu bestimmten Szenarien, Blogs mit Lernprogrammen oder Videos.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Problem:</strong> Sie erhalten eine große Anzahl von Hilfe-Supportanrufen und Fragen zu Vorgehensweisen.</p>
 <p><strong>Mögliche Ursache:</strong> Kunden kennen die Software, die Produktversion oder ihre Aufgabe noch nicht so gut.</p>
-<p><strong>What to try:</strong> You can use a dual strategy of offering training (in person or online) to increase customer&#39;s overall expertise, while also promoting some of the self-service options available to customers.</p>
+<p><strong>Was Sie ausprobieren sollten:</strong> Sie können eine duale Strategie zum anbieten von Schulungen (persönlich oder Online) verwenden, um das&#39;allgemeine Know-how der Kunden zu verbessern und gleichzeitig einige der Self-Service-Optionen zu fördern, die Kunden zur Verfügung stehen.</p>
 <p>Sie können ggf. auch Ihre Supportwebsite so anpassen, dass sie zusätzlich zu den Supportkontaktinformationen auch die Self-Service-Optionen umfasst, die im Thema <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Kundenselbsthilfe</a> beschrieben sind.</p></td>
 </tr>
 </tbody>

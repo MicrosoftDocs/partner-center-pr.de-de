@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to apply for the Azure Expert Managed Services Provider program, Azure Expert MSP.
+description: Erfahren Sie, wie Sie das Azure-Experten-Anbieter Programm für verwaltete Dienste, Azure-Experte msp, anwenden.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure-Vertrieb, Expertenprogramme, Partnerprogramme
@@ -22,8 +22,8 @@ ms.locfileid: "74253032"
 
 Wenn Ihr Unternehmen ein Spitzenreiter bei Verkauf und Verwaltung von Azure-Diensten für Kunden ist, sollten Sie erwägen, sich für das Azure Expert Managed Services Provider-Programm zu bewerben. Azure Expert MSP-Partner erhalten einen exklusiven Badge, der sie von anderen Microsoft-Partnern unterscheidet, und erhalten höchste Priorität im Empfehlungsmodul. Sie werden für Co-Selling-Aufträge priorisiert, erhalten Unterstützung bei der Entwicklung neuer Vorgehensweisen und können an exklusiven Veranstaltungen teilnehmen.
 
-To begin the process of applying to the Azure MSP, from the left nav. select **Competencies and programs** and then select **Azure Expert MSP**. Erfahren Sie mehr über [die Voraussetzungen und den Bewerbungsprozess](https://partner.microsoft.com/membership/azure-expert-msp). 
+Um den Prozess der Anwendung von auf den Azure MSP zu starten, über den linken Navigationsbereich. Wählen Sie **Zuständigkeiten und Programme** aus, und wählen Sie dann **Azure-Experte MSP**aus. Erfahren Sie mehr über [die Voraussetzungen und den Bewerbungsprozess](https://partner.microsoft.com/membership/azure-expert-msp). 
 
-If you don't qualify yet, you can still build your Microsoft partnership through membership enhancements, training, and other growth opportunities.
+Wenn Sie sich noch nicht qualifiziert haben, können Sie Ihre Partnerschaft zwischen Microsoft mithilfe von Mitgliedschafts Verbesserungen, Schulungen und anderen Wachstumsmöglichkeiten aufbauen.
 Erfahren Sie mehr über die Schritte, die Sie unternehmen können, um [ Ihr Unternehmen und Fachwissen zu entwickeln](https://partner.microsoft.com/membership/azure-expert-msp).
 

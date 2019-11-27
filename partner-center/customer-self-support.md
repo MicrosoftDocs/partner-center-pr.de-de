@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn when and where customers can perform self-support to manage their own accounts and when they should contact their Cloud Solution Provider partner.
+description: Erfahren Sie, wann und wo Kunden Self-Support zur Verwaltung Ihrer eigenen Konten und wann Sie sich an Ihren Cloud Solution Provider-Partner wenden können.
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
 ms.author: evansma
@@ -20,7 +20,7 @@ ms.locfileid: "74252691"
 ---
 # <a name="customer-self-support"></a>Kundenselbsthilfe
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government

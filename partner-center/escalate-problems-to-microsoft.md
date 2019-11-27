@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn which issues Microsoft partners are expected to solve themselves for their customers and which issues they may need to escalate to Microsoft.
+description: Erfahren Sie, welche Probleme Microsoft-Partner für Ihre Kunden selbst lösen und welche Probleme Sie an Microsoft eskalieren müssen.
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
@@ -19,7 +19,7 @@ ms.locfileid: "74252567"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Eskalieren von Problemen an Microsoft
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -40,9 +40,9 @@ Es gibt jedoch einige Typen von Problemen, mit denen Sie sich an Microsoft wende
 
 ## <a name="submit-a-support-request"></a>Übermitteln einer Supportanfrage
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an.
 
-2. From the Partner Center menu, select **Customers**, then select the customer who needs support.
+2. Wählen Sie im Partner Center-Menü **Kunden**aus, und wählen Sie dann den Kunden aus, der Unterstützung benötigt.
 
 3. Wählen Sie **Dienstverwaltung** und dann **Serviceanfragen** aus.
 
@@ -55,7 +55,7 @@ Es gibt jedoch einige Typen von Problemen, mit denen Sie sich an Microsoft wende
 7. Wählen Sie das Supportthema aus.
 
 >[!NOTE]
->It is important to start from the Partner Center dashboard so that the relationship between partner and customer is maintained. 
+>Es ist wichtig, über das Partner Center-Dashboard zu starten, damit die Beziehung zwischen Partner und Kunde gewahrt bleibt. 
 
 
 Informationen zum Melden von Problemen im Auftrag des Kunden finden Sie unter [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md).

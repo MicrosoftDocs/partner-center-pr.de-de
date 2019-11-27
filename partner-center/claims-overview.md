@@ -7,7 +7,7 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Ihre Incentives-Ansprüche ohne die erforderliche Komponente einreichen, damit der Aktivitätsplan überprüft wird.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel
+keywords: Incentive-Ansprüche, Co-Op-Ansprüche, Co-Op-Mittel
 ms.localizationpriority: medium
 ms.openlocfilehash: a13da629dad56afd62e9898df8cd6ba8f2f5c603
 ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
@@ -39,7 +39,7 @@ Ein erfolgreicher Anspruchs enthält:
 |Übermitteln eines Anspruchs mit den richtigen Dokumenten|[Erstellen und Verwalten eines Anspruchs für eine Incentive-Programm-Aktivität](create-incentives-claims.md)|
 |Nach Übermittlung des Anspruchs: Verwalten von Anfragen zu zusätzlichen Dokumenten|[Erstellen und Verwalten eines Anspruchs für eine Incentive-Programm-Aktivität](create-incentives-claims.md)  |
 |Sicherstellen, dass Sie die grundlegenden Anforderungen für den Aktivitätsanspruch kennen|[Kennen der grundlegenden Anforderungen für Incentiveansprüche](core-requirements.md)   |
-|Erfahren der vollständigen Details zum Incentiveprogramm|[Leitfaden für Partner-Incentives-Co-Op](https://assets.microsoft.com/coop-guidebook.pdf)
+|Erfahren der vollständigen Details zum Incentive-Programm|[Leitfaden für Partner-Incentives-Co-Op](https://assets.microsoft.com/coop-guidebook.pdf)
 |Erstellen einer Kunden Zuordnung und übermitteln eines Anspruchs |[Erstellen einer Kunden Zuordnung mithilfe des cpor-Modells](submit-osa-claim.md)|
                                                                                  
                                    

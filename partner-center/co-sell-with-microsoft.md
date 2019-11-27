@@ -1,10 +1,10 @@
 ---
-title: Co-sell with Microsoft | Partner Center
+title: Co-Selling mit Microsoft | Partner Center
 ms.topic: article
 ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: As a qualified Microsoft partner, you can co-sell with Microsoft. Learn how to define engagements, invite Microsoft to collaborate, or view sent engagements.
+description: Als qualifizierter Microsoft-Partner können Sie Co-Selling mit Microsoft durcharbeiten. Erfahren Sie, wie Sie Engagements definieren, Microsoft zur Zusammenarbeit einladen oder gesendete Engagements anzeigen.
 author: JnHs
 ms.author: jenhayes
 keywords: Empfehlung, RFI, Partner suchen
@@ -17,58 +17,58 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253446"
 ---
-# <a name="co-sell-with-microsoft"></a>Co-sell with Microsoft
+# <a name="co-sell-with-microsoft"></a>Co-Selling mit Microsoft
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 
-As a qualified Microsoft partner, you have the opportunity to co-sell with Microsoft. This collaboration helps you take solutions to market, drive joint revenue, and ensure customer success.
+Als qualifizierter Microsoft-Partner haben Sie die Möglichkeit, mit Microsoft gemeinsam zu verkaufen. Diese Zusammenarbeit unterstützt Sie beim Erstellen von Lösungen für den Markt, bei einem gemeinsamen Umsatz und beim Erfolg der Kunden.
 
 > [!IMPORTANT]
-> To co-sell with Microsoft, partners need a commercial-ready solution, an engaged sales team, and a strong go-to-market strategy. They must also meet specific additional criteria. For more info, see [Become co-sell ready](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
+> Zum Co-Selling mit Microsoft benötigen Partner eine kommerziell einsatzbereite Lösung, ein engagiertes Vertriebsteam und eine starke Markt Einführungsstrategie. Sie müssen auch bestimmte zusätzliche Kriterien erfüllen. Weitere Informationen finden Sie unter [Bereitstellung von Co-Selling](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
 
-## <a name="invite-microsoft-to-collaborate-on-an-engagement"></a>Invite Microsoft to collaborate on an engagement
+## <a name="invite-microsoft-to-collaborate-on-an-engagement"></a>Einladen von Microsoft für die Zusammenarbeit an einem Engagement
 
-Once you've been approved to co-sell with Microsoft, you'll have the option to invite Microsoft to collaborate on specific engagements.
+Nachdem Sie den Co-Selling mit Microsoft genehmigt haben, haben Sie die Möglichkeit, Microsoft zur Zusammenarbeit an bestimmten Engagements einzuladen.
 
-To invite Microsoft to collaborate on an engagement, go to **Referrals > Engagements > Sent** and select **Create an engagement**. Then, complete the following steps.
+Wenn Sie Microsoft zur Zusammenarbeit an einem Engagement einladen möchten, wechseln Sie zu **Verweise > Engagements > gesendet** , und wählen Sie dann **Engagement erstellen**aus. Führen Sie dann die folgenden Schritte aus.
 
-### <a name="select-your-customer"></a>Select your customer
+### <a name="select-your-customer"></a>Wählen Sie Ihren Kunden aus
 
-You will need to identify the customer for this specific engagement. Enter their name and location and then select **Search**. Since many companies have more than one business entity in the same location, you may see multiple results. If you're not sure which to choose, you can confirm which [D-U-N-S Number](https://www.dnb.com/duns-number.html) belongs to your customer. Be sure to select the exact match for the customer who you're working with. 
+Sie müssen den Kunden für diesen speziellen Engagement identifizieren. Geben Sie Name und Speicherort ein, und klicken Sie dann auf **Suchen**. Da viele Unternehmen über mehr als eine Geschäftseinheit am gleichen Standort verfügen, werden möglicherweise mehrere Ergebnisse angezeigt. Wenn Sie nicht sicher sind, was Sie auswählen sollen, können Sie bestätigen, welche [D-U-N-S-Nummer](https://www.dnb.com/duns-number.html) zu Ihrem Kunden gehört. Achten Sie darauf, die genaue Entsprechung für den Kunden auszuwählen, mit dem Sie arbeiten. 
 
-Once you click **Select**, you'll be prompted to enter the name, phone number, and email address for the person who's your main point of contact for this engagement. After you've entered this info, select **Next**.
+Wenn Sie auf **auswählen**klicken, werden Sie aufgefordert, den Namen, die Telefonnummer und die e-Mail-Adresse für die Person einzugeben, die als Hauptkontakt Punkt für diese Verpflichtung gedacht ist. Nachdem Sie diese Informationen eingegeben haben, wählen Sie **weiter**aus.
 
 > [!IMPORTANT]
-> Be sure that you have obtained sufficient consent to provide the customer's contact information to Microsoft. Microsoft may use this info to contact the customer directly.
+> Stellen Sie sicher, dass Sie ausreichende Zustimmung erhalten haben, um die Kontaktinformationen des Kunden an Microsoft zu übermitteln. Microsoft kann diese Informationen verwenden, um den Kunden direkt zu kontaktieren.
 
-### <a name="define-your-engagement"></a>Define your engagement
+### <a name="define-your-engagement"></a>Definieren Sie Ihre Einbindung
 
-On the next screen, you'll need to provide details about the engagement for which you want to co-sell with Microsoft.
+Auf dem nächsten Bildschirm müssen Sie Details zu dem Engagement angeben, für das Sie einen Co-Selling mit Microsoft durchsetzen möchten.
 
-In the **Engagement details** section, enter the following:
-- **Engagement name**: Enter a name that describes this customer and engagement. The Microsoft team will see this name when reviewing your engagement details, so be sure to use clear and professional language.
-- **CRM ID**: If desired, enter the ID number you're using in your CRM system.
-- **Estimated close date**: The approximate date when you expect to close this deal.
-- **Estimated value**: The total expected value for the engagement. Achten Sie darauf, dass Sie die entsprechende Währung auswählen.
+Geben Sie im Abschnitt " **Engagement-Details** " Folgendes ein:
+- **Engagement Name**: Geben Sie einen Namen ein, der diesen Kunden und dieses Engagement beschreibt. Das Microsoft-Team wird diesen Namen sehen, wenn Sie Ihre Engagement-Details überprüfen. Achten Sie daher darauf, dass Sie die Sprache Clear und Professional verwenden.
+- **CRM-ID**: Geben Sie bei Bedarf die ID-Nummer ein, die Sie in Ihrem CRM-System verwenden.
+- **Geschätztes Schluss Datum**: das ungefähre Datum, an dem Sie dieses Problem schließen möchten.
+- **Geschätzter Wert**: der erwartete Gesamtwert für das Engagement. Achten Sie darauf, dass Sie die entsprechende Währung auswählen.
 
-In the **Notes** field, explain what the customer is interested in and how your solution could help them.
+Erläutern Sie im Feld **Notizen** , was der Kunde interessiert und wie Ihre Lösung Ihnen helfen könnte.
 
- Next, in the **Partner contact** section, enter the name, phone number, and email for the main contact at your company who is working on this engagement.
+ Geben Sie als nächstes im Abschnitt **Partner Kontakt** den Namen, die Telefonnummer und die e-Mail-Adresse für den Hauptkontakt Ihres Unternehmens ein, der an diesem Engagement arbeitet.
 
-Finally, in the **Add solutions** section, select the solution that will be used for the engagement. Wenn die richtige Lösung nicht angezeigt wird, wenden Sie sich an den Support.
+Wählen Sie abschließend im Abschnitt **Lösungen hinzufügen** die Lösung aus, die für die Einbindung verwendet werden soll. Wenn die richtige Lösung nicht angezeigt wird, wenden Sie sich an den Support.
 
-Select **Next** to move on to the next step.
+Wählen Sie **weiter** aus, um mit dem nächsten Schritt fortzufahren.
 
-### <a name="invite-others"></a>Invite others
+### <a name="invite-others"></a>Weitere einladen
 
-The final step in the co-sell engagement creation process is to provide more details about the type of help you're looking for. Select the best fit under **How can we help you?** Then, in the **Notes to Microsoft** field, provide as much detail as possible about the best ways for Microsoft to provide assistance.
+Der letzte Schritt bei der Erstellung des Co-Selling Engagement besteht darin, ausführlichere Informationen über die Art der gesuchten Hilfe bereitzustellen. Wählen Sie die am besten geeignete Option unter **wie können wir Ihnen helfen?** Stellen Sie dann im Feld **Hinweise zu Microsoft** so viele Details wie möglich zur Verfügung, damit Microsoft Unterstützung bietet.
 
-Be sure to check the box confirming that you have obtained sufficient consent from your partner. When everything's ready, select **Create engagement.** After that, Microsoft will reach out to you, using the contact info you provided for **Partner contact**.
+Stellen Sie sicher, dass Sie das Kontrollkästchen bestätigen, dass Sie eine ausreichende Zustimmung von Ihrem Partner erhalten haben. Wenn alles bereit ist, wählen Sie **Engagement erstellen aus.** Danach kontaktiert Microsoft Sie mit den Kontaktinformationen, die Sie für den **Partner Kontakt**angegeben haben.
 
-## <a name="viewing-your-sent-engagements"></a>Viewing your sent engagements
+## <a name="viewing-your-sent-engagements"></a>Anzeigen der gesendeten Engagements
 
-Co-sell engagements that you have sent to Microsoft can be seen by going to **Referrals > Engagements > Sent**. Here you'll see all of the referrals which have been sent to Microsoft, along with the deadline for Microsoft to accept the invitation.
+An Microsoft gesendete Co-Selling-Engagements können angezeigt werden, indem Sie zu den **verweisen > > gesendeten Engagements**wechseln. Hier sehen Sie alle Verweise, die an Microsoft gesendet wurden, zusammen mit dem Stichtag für Microsoft, um die Einladung anzunehmen.
 
-If Microsoft accepts the engagement, it will be moved to **Active**. Working with Microsoft, you'll need to work to close the deal with the customer. See [Respond to referrals](responding-to-referrals.md) for more info. If Microsoft does not accept the engagement, it will be moved to **Archived**.
+Wenn Microsoft die Einbindung annimmt, wird es zu **aktiv**verschoben. Zusammen mit Microsoft müssen Sie daran arbeiten, den Umgang mit dem Kunden zu schließen. Weitere Informationen finden [Sie unter Antworten auf Verweise](responding-to-referrals.md) . Wenn Microsoft die Einbindung nicht annimmt, wird es in " **archiviert**" verschoben.

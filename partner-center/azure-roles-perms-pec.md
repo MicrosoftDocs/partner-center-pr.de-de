@@ -1,10 +1,10 @@
 ---
-title: Roles and permissions eligible to earn partner earned credit  | Partner Center
+title: Rollen und Berechtigungen, die für die Gutschrift von Partnern berechtigt sind | Partner Center
 ms.topic: article
 ms.date: 09/17/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Find out about the roles and permissions needed for a partner to be eligible for partner earned credits.
+description: Informieren Sie sich über die Rollen und Berechtigungen, die für einen Partner erforderlich sind, um Gutschriften für Partner zu erhalten.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
@@ -16,27 +16,27 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253261"
 ---
-# <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Roles and permissions eligible to earn partner earned credit
+# <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Rollen und Berechtigungen, die zum erwerben von Partnern berechtigt sind
 
-The following roles map to permissions levels that determine whether a partner is eligible for partner earned credits.
+Die folgenden Rollen entsprechen den Berechtigungsstufen, die bestimmen, ob ein Partner für Gutschriften für Partner qualifiziert ist.
 
 >[!Important]
->These roles and permissions are not the same as the roles and permissions a user needs to work in Partner Center.
+>Diese Rollen und Berechtigungen sind nicht identisch mit den Rollen und Berechtigungen, die ein Benutzer für die Arbeit im Partner Center benötigt.
 
-|**Rolle**   |**Beschreibung**   |**PEC eligible**   |
+|**Rolle**   |**Beschreibung**   |**PEC berechtigt**   |
 |-----------------|:------------------|:--------------|
-|Besitzer  |You manage everything, including access to resources.|„Ja“|
-|Contributor |You manage everything except granting access to resources.|„Ja“|
-|Reader|You can view everything, but not make any changes|Nein|
-|ACRDelete|acr delete|„Ja“|
-|ACRImageSigner|acr image signer|„Ja“|
-|ACRPull|acr pull|„Ja“|
-|AcrPush|acr push|„Ja“|
-|AcrQuarantineReader|acr quarantine data reader|Nein|
-|AcrQuarantineWriter| acr quarantine data writer|„Ja“|
-|API Management Service Contributor|Can manage service and the APIs|„Ja“|
-|API Management Service Operator Role|Can manage service but not the APIs|„Ja“|
-|API Management Service Reader Role|Read-only access to service and APIs|Nein|
-|Application Insights Component Contributor|Manages Application Insights components|„Ja“|
-|Application Insights Snapshot Debugger|Gives user permission to view and download debug snapshots collected with the Application Insights Snapshot Debugger. Note that these permissions are not included in the Owner or Contributor roles.|„Ja“|
+|Besitzer  |Sie verwalten alles, einschließlich des Zugriffs auf Ressourcen.|Ja|
+|Beitrag |Sie verwalten alles außer dem Gewähren des Zugriffs auf Ressourcen.|Ja|
+|Reader|Sie können alles anzeigen, aber keine Änderungen vornehmen.|nein|
+|Acrdelete|ACR löschen|Ja|
+|Acrimagesigner|ACR-Image Signatur Geber|Ja|
+|Acrpull|ACR-Pull|Ja|
+|Acrpush|ACR-Push|Ja|
+|Acrquarantäne-inereader|ACR-Quarantäne Daten Leser|nein|
+|Acrquarantäne| ACR-Quarantäne Datenschreiber|Ja|
+|API Management Dienst Mitwirkender|Kann den Dienst und die APIs verwalten.|Ja|
+|API Management Dienst Operator-Rolle|Kann den Dienst, aber nicht die APIs verwalten.|Ja|
+|API Management Dienst Leser Rolle|Schreib geschützter Zugriff auf Dienst und APIs|nein|
+|Mitwirkender Application Insights Komponente|Verwaltet Application Insights Komponenten|Ja|
+|Application Insights Momentaufnahmedebugger|Erteilt dem Benutzer die Berechtigung zum Anzeigen und Herunterladen von debugmomentaufnahmen, die mit dem Application Insights Momentaufnahmedebugger gesammelt Beachten Sie, dass diese Berechtigungen nicht in den Rollen Besitzer oder Mitwirkender enthalten sind.|Ja|
 |

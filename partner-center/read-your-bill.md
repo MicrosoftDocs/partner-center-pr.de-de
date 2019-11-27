@@ -2,7 +2,7 @@
 title: Informationen zu Ihrer Rechnung | Partner Center
 ms.topic: article
 ms.date: 11/21/2019
-description: Your invoice is a summary of all Partner Center charges (across the program, products, and customers) for the current monthly period.
+description: Ihre Rechnung ist eine Zusammenfassung aller Gebühren für Partner Center (Programm-, Produkt-und Kunden übergreifend) für die aktuelle monatliche Zeit.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -19,49 +19,49 @@ ms.locfileid: "74384827"
 ---
 # <a name="read-your-bill"></a>Informationen zu Ihrer Rechnung
 
-Betrifft
+Gilt für:
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
 
-Your **invoice** is a **summary of all your Partner Center charges** (across the program, all products, and all customers) for the **current billing period**.
+Ihre **Rechnung** ist eine **Zusammenfassung all ihrer Partner Center-Gebühren** (Programm übergreifend, alle Produkte und alle Kunden) für den **aktuellen Abrechnungszeitraum**.
 
-## <a name="invoice-types"></a>Invoice types
+## <a name="invoice-types"></a>Rechnungs Typen
 
-You will receive one invoice for any license-based charges (such as Office 365) and usage-based charges (such as Azure).
+Sie erhalten eine Rechnung für Lizenz basierte Gebühren (z. b. Office 365) und nutzungsbasierte Gebühren (z. b. Azure).
 
-You will receive a separate invoice for one-time charges (such as Azure reserved VM instances).
+Sie erhalten eine separate Rechnung für einmalige Gebühren (z. b. reservierte Azure-VM-Instanzen).
 
-## <a name="invoice-file-fields"></a>Invoice file fields
+## <a name="invoice-file-fields"></a>Felder der Rechnungs Datei
 
-For a detailed description of all the fields in your invoice file (including fields for one-time charges), see [Invoice file fields](invoice-file.md).
+Eine ausführliche Beschreibung aller Felder in der Rechnungs Datei (einschließlich der Felder für einmalige Gebühren) finden Sie unter [Rechnungs Datei Felder](invoice-file.md).
 
-## <a name="find-your-bill"></a>Find your bill
+## <a name="find-your-bill"></a>Finden Sie Ihre Rechnung
 
-You can find your invoice on the **Billing** page of the dashboard in Partner Center. You can also find your billing history, spending trends, and reconciliation files on this page.
+Sie finden Ihre Rechnung auf der Seite **Abrechnung** des Dashboards im Partner Center. Sie können auf dieser Seite auch ihren Abrechnungs Verlauf, Ausgaben Trends und Abstimmungs Dateien finden.
 
-1. Sign in to the dashboard in Partner Center.
-2. In the left-hand menu, select **Billing**.
-3. On the **Billing** page, select the invoice you want to download.
-    - You can find a link to your latest invoice at the top of the page under **Account balance as of last invoice date**.
-    - You can find previous invoices in the **Billing history** section. Choose the appropriate year, then select the drop-down arrow next to the appropriate **Billing period**. You can select the link next to **Invoices (.pdf)** to download that period's invoice.
+1. Melden Sie sich beim Dashboard im Partner Center an.
+2. Wählen Sie im Menü auf der linken Seite die Option **Abrechnung**aus.
+3. Wählen Sie auf der Seite **Abrechnung** die Rechnung aus, die Sie herunterladen möchten.
+    - Einen Link zu ihrer neuesten Rechnung finden Sie oben auf der Seite unter **Account Saldo as of Last Rechnungs Date**.
+    - Vorherige Rechnungen finden Sie im Abschnitt **Abrechnungs Verlauf** . Wählen Sie das entsprechende Jahr aus, und wählen Sie dann den Dropdown Pfeil neben dem entsprechenden **Abrechnungszeitraum**aus. Sie können den Link neben **Rechnungen (PDF-Datei)** auswählen, um die Rechnung dieses Zeitraums herunterzuladen.
 
-## <a name="understand-billing-periods"></a>Understand billing periods
+## <a name="understand-billing-periods"></a>Grundlegendes zu Abrechnungs Perioden
 
-Your invoice is available within **two (2) days** of your selected billing date in **UTC time**.
+Ihre Rechnung ist innerhalb von **zwei (2) Tagen** nach dem ausgewählten Abrechnungsdatum in **UTC-Zeit**verfügbar.
 
-For example, if you have a September 12th monthly billing date:
+Wenn Sie z. b. ein monatliches monatliches Monats Datum haben:
 
-- The invoice generation process will **begin** at 12:00AM UTC on September 13th.
-- The invoice generation process will **complete** by 12:00AM UTC on September 14th.
-- If you do not see your invoice by 11:59PM UTC on September 15th, you’re out of your Service Level Agreement (SLA) and should file a service request.
+- Der Rechnungs Generierungsprozess **beginnt** am 13. September um 12 Uhr UTC.
+- Der Rechnungs Generierungsprozess wird am 14. September um 12 Uhr UTC **Fertig** gestellt.
+- Wenn Ihre Rechnung am 15. September nicht um 11:59uhr UTC angezeigt wird, liegt ihr Vereinbarung zum Servicelevel (SLA) vor, und Sie sollten eine Service Request.
 
-### <a name="csp-monthly-billing"></a>CSP monthly billing
+### <a name="csp-monthly-billing"></a>Monatliche CSP-Abrechnung
 
-Partners in the Cloud Solution Provider (CSP) program who have chosen to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based subscriptions).
+Partner im Cloud Solution Provider-Programm (CSP), die sich für eine monatliche Abrechnung entschieden haben, werden Microsoft 60 Tage im Rückstand für die Abonnements ihrer Kunden (Lizenz basierte und nutzungsbasierte Abonnements) in Rechnung gestellt.
 
-## <a name="find-itemized-details-for-charges"></a>Find itemized details for charges
+## <a name="find-itemized-details-for-charges"></a>Hier finden Sie ausführliche Informationen zu den Gebühren.
 
-You can understand itemized details about your charges using your reconciliation files. The reconciliation files include customer identifiers and subscription identifiers that you can use to create customer invoices.
+Mit ihren Abstimmungs Dateien können Sie sich mit den aufgelisteten Details zu ihren Gebühren vertraut machen. Zu den Abstimmungs Dateien gehören Kunden Bezeichner und Abonnement Bezeichner, mit denen Sie Kunden Rechnungen erstellen können.
 
 Weitere Informationen finden Sie unter [So wird's gemacht: Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md).

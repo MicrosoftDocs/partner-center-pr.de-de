@@ -59,7 +59,7 @@ Das CSP-Programm für die Microsoft Government-Cloud unterscheidet sich von CSP 
 
 **Ich bin noch kein CSP-Partner. Wo finde ich weitere Informationen darüber, wie Sie als CSP-Partner werden können?**
 
-Weitere Informationen zu Registrierungsmodellen für Partner finden Sie unter [Cloud Solution Provider on the Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider).
+Weitere Informationen zu Registrierungsmodellen für Partnern finden Sie unter [Cloud Solution Provider on the Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider).
 
 **Wie funktioniert Lizenzierung?**
 

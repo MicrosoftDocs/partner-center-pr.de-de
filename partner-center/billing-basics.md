@@ -2,7 +2,7 @@
 title: Abrechnungsübersicht | Partner Center
 ms.topic: article
 ms.date: 11/21/2019
-description: Basic billing and invoice information for Partner Center.
+description: Grundlegende Abrechnungs-und Rechnungsinformationen für Partner Center.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -19,60 +19,60 @@ ms.locfileid: "74384544"
 ---
 # <a name="billing-overview"></a>Abrechnungsübersicht
 
-Betrifft
+Gilt für:
 
 - Partner Center
-- Partners in the Cloud Solution Provider (CSP) program
+- Partner im Cloud Solution Provider-Programm (CSP)
 
-## <a name="find-your-bill"></a>Find your bill
+## <a name="find-your-bill"></a>Finden Sie Ihre Rechnung
 
-To find your bill:
+So finden Sie Ihre Rechnung:
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. In the left-hand menu, choose **Billing**.
-3. On the **Billing** page, you can download your latest bill or download previous bills in the **Billing history** section.
+1. [Melden Sie sich beim Partner Center-Dashboard](https://partner.microsoft.com/dashboard/home)an.
+2. Wählen Sie im Menü auf der linken Seite die Option **Abrechnung**aus.
+3. Auf der Seite **Abrechnung** können Sie die neueste Rechnung herunterladen oder vorherige Rechnungen im Abschnitt **Abrechnungs Verlauf** herunterladen.
 
-## <a name="bill-your-customers"></a>Bill your customers
+## <a name="bill-your-customers"></a>Kunden Rechnung
 
-Microsoft has no requirements or conditions about how you handle your own invoicing.
+Microsoft hat keine Anforderungen oder Bedingungen bezüglich der Handhabung ihrer eigenen Abrechnung.
 
-To determine a customer's usage, [see your reconciliation files](#find-your-bill). You can use the customer name and other relevant fields to determine usage.
+Informationen zum Bestimmen der Nutzung eines Kunden [finden Sie in den Abstimmungs Dateien](#find-your-bill). Sie können den Kundennamen und andere relevante Felder verwenden, um die Verwendung zu ermitteln.
 
-Next, you can add your own fees and charges for services and products that you provide. Then, you can send a single bill for all charges to your customer.
+Als nächstes können Sie Ihre eigenen Gebühren und Gebühren für Dienste und Produkte hinzufügen, die Sie bereitstellen. Anschließend können Sie eine einzelne Rechnung für alle Gebühren an Ihren Kunden senden.
 
-### <a name="billing-types"></a>Billing types
+### <a name="billing-types"></a>Abrechnungs Typen
 
-Billing types in Partner Center include **license-based billing**, **usage-based billing**, and **one-time billign**. For more information, see the full explanation of [billing types in Partner Center](billing-different-types.md).
+Zu den Abrechnungs Typen im Partner Center gehören **Lizenz basierte Abrechnung**, **nutzungsbasierte Abrechnung**und **einmalige**Kosten. Weitere Informationen finden Sie in der vollständigen Erläuterung der [Abrechnungs Typen im Partner Center](billing-different-types.md).
 
 ### <a name="billing-currency"></a>Abrechnungswährung
 
-You'll be billed for product(s) in the currency of the country or region in which you're located. You're billed the same regardless of the location of the customer to whom you sold the product(s).
+Ihnen werden Produkte in der Währung des Landes oder der Region in Rechnung gestellt, in der Sie sich befinden. Die Abrechnung erfolgt unabhängig vom Standort des Kunden, für den Sie die Produkte verkauft haben.
 
 ## <a name="invoices"></a>Rechnungen
 
-Your invoice is a summary of all charges for the current billing period. This includes charges across the program, all products, and all customers. For examples of monthly and annual billing scenarios, see [common billing scenarios](common-billing-scenarios.md)
+Ihre Rechnung ist eine Zusammenfassung aller Gebühren für den aktuellen Abrechnungszeitraum. Dies schließt Gebühren für das Programm, alle Produkte und alle Kunden ein. Beispiele für monatliche und jährliche Abrechnungs Szenarien finden Sie unter [häufige Abrechnungs Szenarien](common-billing-scenarios.md) .
 
-Your invoice is available within two (2) days of your selected billing date in UTC time. Wenn beispielsweise das Abrechnungsdatum der 12. September ist, beginnt der Prozess zur Rechnungsgenerierung am 13. September um 12:00 Uhr UTC und endet am 14. September um 12:00 Uhr UTC. Sollte Ihre Rechnung bis zum 15. September, 11:59 Uhr UTC, nicht angezeigt werden, befinden Sie sich außerhalb der Vereinbarung zum Servicelevel (Service Level Agreement, SLA) und sollten eine Serviceanfrage senden.
+Ihre Rechnung ist innerhalb von zwei (2) Tagen nach dem ausgewählten Abrechnungsdatum in UTC-Zeit verfügbar. Wenn beispielsweise das Abrechnungsdatum der 12. September ist, beginnt der Prozess zur Rechnungsgenerierung am 13. September um 12:00 Uhr UTC und endet am 14. September um 12:00 Uhr UTC. Sollte Ihre Rechnung bis zum 15. September, 11:59 Uhr UTC, nicht angezeigt werden, befinden Sie sich außerhalb der Vereinbarung zum Servicelevel (Service Level Agreement, SLA) und sollten eine Serviceanfrage senden.
 
-Partners in the Cloud Solution Provider (CSP) program who choose to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based).
+Partner im Cloud Solution Provider-Programm (CSP), die monatlich abgerechnet werden, werden für die Abonnements ihrer Kunden (sowohl Lizenz basiert als auch Nutzungs basiert) an Microsoft 60 Tage im Rückstand abgerechnet.
 
-## <a name="price-lists"></a>Price lists
+## <a name="price-lists"></a>Preislisten
 
-Price lists are updated monthly. Preview price lists are available one (1) month in advance.
+Preislisten werden monatlich aktualisiert. Vorschau Preislisten sind im Voraus ein (1) Monat im Voraus verfügbar.
 
-To view price lists:
+Anzeigen der Preislisten:
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. In the left-hand menu, choose **Sell**, then select **Pricing and offers**.
-3. On the **Pricing and offers** page, you can see 6 months of price lists (including the current month) and preview price lists (where applicable).
+1. [Melden Sie sich beim Partner Center-Dashboard](https://partner.microsoft.com/dashboard/home)an.
+2. Wählen Sie im Menü auf der linken Seite die Option **verkaufen**aus, und wählen Sie dann **Preise und Angebote**aus.
+3. Auf der Seite **Preise und Angebote** sehen Sie die Preislisten 6 Monate (einschließlich des aktuellen Monats) und die Vorschau der Preisliste (falls zutreffend).
 
-**License-based** prices are guaranteed for the term of the subscription, usually 12 months from the purchase date. 
+**Lizenz basierte** Preise werden für die Laufzeit des Abonnements garantiert, normalerweise 12 Monate nach dem Kauf Datum. 
 
-**Usage-based prices** can change on a monthly basis.
+**Nutzungsbasierte Preise** können monatlich geändert werden.
 
-**Prices for products, services, and software subscriptions** are guaranteed through the subscription duration. However, prices may change when you renew.
+Die **Preise für Produkte, Dienste und Software Abonnements** werden durch die Abonnementdauer garantiert. Die Preise können sich jedoch ändern, wenn Sie erneuern.
 
-You'll see **adjustments** and **credits** in arrears on your next billing invoice after the credit or adjustment is applied.
+Nach dem Anwenden der Gutschrift oder Anpassung werden **Anpassungen** und **Gutschriften** in Rechnung gestellt.
 
 ## <a name="payment-terms"></a>Zahlungsbedingungen
 
@@ -80,17 +80,17 @@ Die Zahlungsbedingungen sind 60 Tage netto. Rechnungen müssen bis zum Fälligke
 
 Sie können den vollen Funktionsumfang Ihrer ausgesetzten Konten zurückerhalten, wenn Sie den fälligen Betrag zahlen.
 
-### <a name="taxes-and-vat"></a>Taxes and VAT
+### <a name="taxes-and-vat"></a>Steuern und Mehrwertsteuer
 
-You are taxed based on your details (not your customers' details) because the billing relationship is between Microsoft and you. You can submit your tax identifier during the account setup process or through a support request later. Die Änderungen werden im nächsten Abrechnungszyklus angezeigt.
+Sie werden anhand ihrer Details (nicht der Details der Kunden) besteuert, weil die abrechnungsbeziehung zwischen Microsoft und Ihnen liegt. Sie können Ihre Steuer Kennung während des Konto Setups oder später über eine Supportanfrage einreichen. Die Änderungen werden im nächsten Abrechnungszyklus angezeigt.
 
-For **withholding and sales tax exemption**, you must submit tax documentation through a support request. Die Änderungen und entsprechenden Erstattungen werden in Ihrem nächsten Abrechnungszyklus angezeigt.
+Sie müssen eine Steuer **Dokumentation über eine**Supportanfrage einreichen. Die Änderungen und entsprechenden Erstattungen werden in Ihrem nächsten Abrechnungszyklus angezeigt.
 
-For **value-added tax (VAT) exemption**, you must submit your VAT ID (validated by Microsoft) through a service request. Die Änderungen und entsprechenden Erstattungen werden in Ihrem nächsten Abrechnungszyklus angezeigt.
+Für eine Mehrwert **steuerungsausnahme (Mehrwertsteuer)** müssen Sie Ihre Umsatzsteuer-ID (von Microsoft überprüft) über eine Service Request übermitteln. Die Änderungen und entsprechenden Erstattungen werden in Ihrem nächsten Abrechnungszyklus angezeigt.
 
 Weitere Steuerinformationen erhalten Sie von Ihrem örtlichen Finanzamt oder Steuerberater.
 
-### <a name="annual-billing-rules"></a>Annual billing rules
+### <a name="annual-billing-rules"></a>Jährliche Abrechnungsregeln
 
 Abonnements gelten für ein Jahr und werden automatisch verlängert.
 
@@ -98,28 +98,28 @@ Die Abrechnung erfolgt in 12 monatlichen Zahlungen oder einer jährlichen Zahlun
 
 Lizenzbasierte Dienste werden (basierend auf der Anzahl an Lizenzen am Ende des vorherigen Abrechnungszeitraums) im Voraus für den nächsten Abrechnungszeitraum abgerechnet.
 
-Änderungen an der Anzahl der Lizenzen (anteilsmäßige Berechnung basierend auf Lizenzen/Tagen) werden nachträglich in Rechnung gestellt/gutgeschrieben. Pro-rata calculation uses the following formula:
+Änderungen an der Anzahl der Lizenzen (anteilsmäßige Berechnung basierend auf Lizenzen/Tagen) werden nachträglich in Rechnung gestellt/gutgeschrieben. Bei der pro-rata-Berechnung wird die folgende Formel verwendet:
 
 `[ROUND((ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity]`
 
-Payments are billed for licenses sold, not licenses provisioned.
+Zahlungen werden für verkaufte Lizenzen abgerechnet, nicht für bereitgestellte Lizenzen.
 
-### <a name="change-billing-frequency"></a>Change billing frequency
+### <a name="change-billing-frequency"></a>Abrechnungs Häufigkeit ändern
 
-To change the billing frequency of an online service for a customer:
+So ändern Sie die Abrechnungs Häufigkeit eines Online Dienstanbieter für einen Kunden:
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. In the left-hand menu, choose **Customers**.
-3. Select the customer whose subscription billing frequency you want to change.
-4. On the customer's **Subscriptions** page, select the subscription that you want to change.
-5. On the **Details** page, under **Billing frequency**, select **Monthly** or **Annual**. Es wird Ihnen eine Bestätigungsseite mit wichtigen Informationen zum Ändern der Abrechnungshäufigkeit sowie eine Liste der Abonnements angezeigt, die gleich geändert werden.
-6. Choose **OK** to make the change (or **Cancel** to undo it).
+1. [Melden Sie sich beim Partner Center-Dashboard](https://partner.microsoft.com/dashboard/home)an.
+2. Wählen Sie im Menü auf der linken Seite die Option **Kunden**aus.
+3. Wählen Sie den Kunden aus, dessen Abonnement Abrechnungs Häufigkeit Sie ändern möchten.
+4. Wählen Sie auf der Seite **Abonnements** des Kunden das Abonnement aus, das Sie ändern möchten.
+5. Wählen Sie auf der Seite **Details** unter **Abrechnungs Häufigkeit**die Option **monatlich** oder **jährlich**aus. Es wird Ihnen eine Bestätigungsseite mit wichtigen Informationen zum Ändern der Abrechnungshäufigkeit sowie eine Liste der Abonnements angezeigt, die gleich geändert werden.
+6. Wählen Sie **OK** , um die Änderung vorzunehmen (oder **Abbrechen** , um Sie rückgängig zu machen).
 
 ### <a name="adjustmentscreditscancellations"></a>Anpassungen/Guthaben/Kündigungen
 
 Microsoft stellt keine Gebühren für eine vorzeitige Beendigung bei der Kündigung lizenzbasierter Dienste in Rechnung.
 
-Cancellation credits for licensed-based services are pro-rated for unused days for mid-cycle cancellations (as well as license decreases according to the formula above).
+Abbrechungs Gutschriften für lizenzierte Dienste werden für nicht genutzte Tage für midcycle-Abbrüche anteilig (und die Lizenz Abnahme gemäß der obigen Formel).
 
 ### <a name="billing-rules"></a>Abrechnungsregeln
 
@@ -127,15 +127,15 @@ Abonnements laufen von Monat zu Monat und werden zu den neuen getakteten Dienstl
 
 Getaktete Dienstleistungspreise können sich innerhalb des Abrechnungszyklus ändern.
 
-#### <a name="price-changes"></a>Price changes
+#### <a name="price-changes"></a>Preisänderungen
 
-For **price increases**, 30 days' notice is provided.
+Bei **Preissteigerungen**wird eine Benachrichtigung von 30 Tagen bereitgestellt.
 
-**Price decreases** are reflected on the day of change.
+Die **Preis Abnahme** wird am Tag der Änderung widergespiegelt.
 
-**Existing subscriptions** use the rate in effect at the beginning of the bill cycle.
+**Vorhandene Abonnements** verwenden die Rate, die zu Beginn des Abrechnungszyklen wirksam ist.
 
-**New subscriptions**, when created within the same billing cycle, use the rate in effect on the date you create them. 
+Wenn **neue Abonnements**innerhalb desselben Abrechnungszeitraums erstellt werden, verwenden Sie die Rate, die für das Erstellungsdatum der Erstellung gilt. 
 
 ### <a name="adjustmentscreditscancellations"></a>Anpassungen/Guthaben/Kündigungen
 
@@ -148,30 +148,30 @@ Alle Guthaben, einschließlich SLA-Guthaben, werden in der nächsten monatlichen
 >[!IMPORTANT]
 >Wenn Sie Azure-Reservierungen und/oder Softwareabonnements für einen Kunden an einem Standort mit einer anderen Währung als Ihrer Währung erwerben, basiert die Standardabrechnungswährung auf dem Standort des Kunden, nicht Ihrem Standort. Wenn Sie Kunden an mehreren Standorten haben, erhalten Sie getrennte Rechnungen und Kontenabstimmungsdateien für jede Währung der Kunden, die in Rechnung gestellt werden müssen, damit Sie Ihren Kunden Rechnungen in der entsprechenden Währung ausstellen können.
 
-## <a name="manage-one-time-billing"></a>Manage one-time billing
+## <a name="manage-one-time-billing"></a>Verwalten der einmaligen Abrechnung
 
-### <a name="billing-status-invoices-and-reconciliation-files"></a>Billing status, invoices and reconciliation files
+### <a name="billing-status-invoices-and-reconciliation-files"></a>Abrechnungs Status, Rechnungen und Abstimmungs Dateien
 
-To view your current billing status, invoices, and reconciliation files:
+So zeigen Sie den aktuellen Abrechnungs Status, Rechnungen und Abstimmungs Dateien an:
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. On the left-hand menu, choose **Billing**, then select **One time**.
-3. On the billing status page, select an invoice or reconciliation file to view more detailed information.
+1. [Melden Sie sich beim Partner Center-Dashboard](https://partner.microsoft.com/dashboard/home)an.
+2. Wählen Sie im Menü auf der linken Seite die Option **Abrechnung**aus, und wählen Sie dann **einmal**aus.
+3. Wählen Sie auf der Seite Abrechnungs Status eine Rechnung oder eine Abstimmungs Datei aus, um ausführlichere Informationen anzuzeigen.
 
-### <a name="customer-order-history"></a>Customer order history
+### <a name="customer-order-history"></a>Kundenauftrags Verlauf
 
-To view a customer's order history:
+So zeigen Sie den Auftrags Verlauf eines Kunden an:
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. On the left-hand menu, choose **Customers**.
-3. On the **Customers** page, find the customer whose order history you want to view. Select the down arrow to expand the customer's record.
-4. Choose **View orders** to display the customer's order history.
+1. [Melden Sie sich beim Partner Center-Dashboard](https://partner.microsoft.com/dashboard/home)an.
+2. Wählen Sie im Menü auf der linken Seite die Option **Kunden**aus.
+3. Suchen Sie auf der Seite **Kunden** nach dem Kunden, dessen Bestellverlauf Sie anzeigen möchten. Wählen Sie den Pfeil nach unten aus, um den Datensatz des Kunden zu erweitern.
+4. Wählen Sie **Aufträge anzeigen** aus, um den Bestellverlauf des Kunden anzuzeigen.
 
-### <a name="credit-notes"></a>Credit notes
+### <a name="credit-notes"></a>Gutschriften
 
-You might need to request a credit or rebill for the following reasons:
+Möglicherweise müssen Sie eine Gutschrift oder eine Rechnung aus den folgenden Gründen anfordern:
 
-- You need to make address or purchase order corrections.
-- A tax refund was applied after the invoice was generated. You can request a credit or rebill to get the tax refund pulled back into the original invoice. The same is also true for refunds. You can request a credit or rebill of the original invoice, then pull in a refund.
+- Sie müssen Adressen oder Bestellungs Korrekturen vornehmen.
+- Nach dem Generieren der Rechnung wurde eine Steuer Rückerstattung angewendet. Sie können eine Gutschrift oder eine Rechnung anfordern, um die zurückgezogene Steuern der Steuererstattung in die ursprüngliche Rechnung zu erhalten. Dasselbe gilt auch für die Rückerstattung. Sie können eine Gutschrift oder eine Rechnung der ursprünglichen Rechnung anfordern und dann eine Rückerstattung anfordern.
 
-If you request a credit or rebill, we'll give you a **credit note** to cancel the original invoice.
+Wenn Sie ein Guthaben oder eine Rechnung anfordern, erhalten Sie eine **Gutschrift** , um die ursprüngliche Rechnung abzubrechen.

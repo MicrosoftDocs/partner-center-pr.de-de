@@ -1,8 +1,8 @@
 ---
-title: One-time and recurring reconciliation files | Partner Center
+title: Einmalige und wiederkehrende Abstimmungs Dateien | Partner Center
 ms.topic: article
 ms.date: 11/21/2019
-description: Understand one-time and recurring reconciliation files in Partner Center.
+description: Grundlegendes zu einmaligen und wiederkehrenden Abstimmungs Dateien im Partner Center.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
@@ -14,49 +14,49 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389678"
 ---
-# <a name="one-time-and-recurring-reconciliation-files"></a>One-time and recurring reconciliation files
+# <a name="one-time-and-recurring-reconciliation-files"></a>Einmalige und wiederkehrende Abstimmungs Dateien
 
-Betrifft
+Gilt für:
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
 
-This topic explains how to read one-time and recurring reconciliation files in Partner Center.
+In diesem Thema wird erläutert, wie Sie einmalige und wiederkehrende Abstimmungs Dateien im Partner Center lesen.
 
-## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>Fields in one-time and recurring reconciliation files
+## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>Felder in einmaligen und wiederkehrenden Abgleich Dateien
 
-| Column | Beschreibung |
+| Spalte | Description |
 | ------ | ----------- |
-| PartnerID | Unique Azure Active Directory (Azure AD) tenant identifier for a specific billing entity, in GUID format. Not required for reconciliation. In allen Zeilen gleich. |
-| Kunden-ID | Unique Azure AD tenant identifier, in GUID format. Identifies the customer. |
-| Kundenname | Customer's organization name, as reported in Partner Center. |
-| CustomerDomainName | Customer's domain name. Dieses Feld wird ggf. bis zum zweiten Abrechnungszyklus leer angezeigt. *Don't use this field as a unique identifier for the customer. The customer/partner can update the vanity or default domain through the  Office 365 portal.* |
+| PartnerID | Eindeutige Azure Active Directory (Azure AD)-Mandanten Bezeichner für eine bestimmte Abrechnungs Entität im GUID-Format. Für die Abstimmung nicht erforderlich. In allen Zeilen gleich. |
+| Kunden-ID | Eindeutige Azure AD Mandanten-ID im GUID-Format. Identifiziert den Kunden. |
+| Kundenname | Der Organisationsname des Kunden, wie in Partner Center gemeldet. |
+| CustomerDomainName | Der Domänen Name des Kunden. Dieses Feld wird ggf. bis zum zweiten Abrechnungszyklus leer angezeigt. *Verwenden Sie dieses Feld nicht als eindeutigen Bezeichner für den Kunden. Der Kunde/Partner kann die Vanity oder die Standard Domäne über das Office 365-Portal aktualisieren.* |
 | Land des Kunden | Das Land, in dem sich der Kunde befindet. |
 | Rechnungsnummer | Rechnungsnummer, in der die angegebene Transaktion angezeigt wird. |
-| MPNID | MPN identifier of the CSP partner. |
-| MPN-ID des Handelspartners | MPN identifier of the reseller of record for the subscription. |
-| Bestellnummer | Eindeutiger Bezeichner für eine Bestellung auf der Microsoft Commerce Platform. Not used for reconciliation. |
+| MPNID | MPN-Bezeichner des CSP-Partners. |
+| MPN-ID des Handelspartners | MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement. |
+| Bestellnummer | Eindeutiger Bezeichner für eine Bestellung auf der Microsoft Commerce Platform. Wird nicht für die Abstimmung verwendet. |
 | Bestellungsdatum | Das Datum, an dem die Bestellung aufgegeben wurde. |
-| ProductID | The identifier for the product. |
-| SkuId | The identifier for a particular SKU (stock-keeping unit). |
-| AvailabilityId | The identifier for a particular SKU's availability. This shows whether the SKU is available for purchase in the given country, currency, industry segment, etc. |
+| ProductID | Der Bezeichner für das Produkt. |
+| SkuId | Der Bezeichner für eine bestimmte SKU (Stock-Keeping Unit). |
+| AvailabilityId | Der Bezeichner für die Verfügbarkeit einer bestimmten SKU. Dies zeigt, ob die SKU für den Erwerb in den jeweiligen Ländern, Währungen, Industriesegmenten usw. verfügbar ist. |
 | SKU-Name | Der Titel einer bestimmten SKU. |
-| Produktname | Name des Produkts. |
-| PublisherName | The name of the product's publisher.
-| PublisherID | Unique identifier for a particular publisher. |
+| Produktname | Der Name des Produkts. |
+| PublisherName | Der Name des Herausgebers des Produkts.
+| PublisherID | Eindeutiger Bezeichner für einen bestimmten Verleger. |
 | Abonnementbeschreibung | Anzeigename eines Abonnements. |
-| Abonnement-ID | Eindeutiger Bezeichner eines Abonnements auf der Microsoft Commerce Platform. Not used for reconciliation. *This identifier is not the same as the **Subscription ID** on the partner admin console.* |
+| Abonnement-ID | Eindeutiger Bezeichner eines Abonnements auf der Microsoft Commerce Platform. Wird nicht für die Abstimmung verwendet. *Dieser Bezeichner ist nicht mit der **Abonnement-ID** in der Partner Administrator Konsole identisch.* |
 | ChargeStartDate | Der erste Tag, an dem Gebühren anfallen. Die Uhrzeit ist immer auf den Tagesbeginn um 0:00 Uhr festgelegt. |
 | ChargeEndDate | Letzter Tag, an dem Gebühren anfallen. Die Uhrzeit ist immer auf das Tagesende um 23:59 Uhr festgelegt. |
-| Laufzeit und Abrechnungszyklus | The term length and billing cycle for the purchase (for example, *1 Year, Monthly*). |
-| Gebührenart | Art der Gebühren oder der Anpassung. |
-| Preis pro Einheit | The unit price as published in the price list at the time of purchase. *Be sure this matches the information stored in your billing system during reconciliation.* |
+| Laufzeit und Abrechnungszyklus | Die Begriffs Länge und der Abrechnungszeitraum für den Erwerb (z. b. *1 Jahr, monatlich*). |
+| Gebührenart | Art der Gebühren oder der Anpassungen. |
+| Preis pro Einheit | Der in der Preisliste zum Zeitpunkt des Kaufs veröffentlichte Einheitspreis. *Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert* |
 | Effektiver Preis pro Einheit | Der Preis pro Einheit, nachdem Anpassungen vorgenommen wurden. |
-| Anzahl | Anzahl der Einheiten. *Be sure this matches the information stored in your billing system during reconciliation.* |
+| Anzahl | Anzahl der Einheiten. *Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert* |
 | Typ der Einheit | Der Typ der Einheit, die gekauft wird. |
 | DiscountDetails | Eine Erklärung der geltenden Rabatte. |
-| Zwischensumme | Gesamtbetrag vor Steuern Checks if your subtotal matches your expected total, in case of a discount. |
-| Steuern gesamt | Tax amount charge. Based on your market's tax rules and specific circumstances. |
+| Zwischensumme | Gesamtbetrag vor Steuern Überprüft, ob Ihr Teilergebnis mit dem erwarteten Gesamtbetrag übereinstimmt, falls ein Rabatt vorliegt. |
+| Steuern gesamt | Steuern der Steuerbeträge. Basierend auf den Steuerregeln Ihres Marktes und bestimmten Bedingungen. |
 | Gesamt | Gesamtsumme nach Steuern. Überprüft, ob in der Rechnung Steuern berechnet werden. |
-| Währung | Währungstyp Jede Abrechnungsentität verfügt nur über eine Währung. Make sure this matches your first invoice and check again after any major billing platform updates. |
-| AlternateID | An alternative identifier to an **Order ID**. |
+| Währung | Währungstyp Jede Abrechnungsentität verfügt nur über eine Währung. Stellen Sie sicher, dass dies mit ihrer ersten Rechnung übereinstimmt, und prüfen Sie nach allen wichtigen Updates der Abrechnungs Plattform. |
+| AlternateID | Ein alternativer **Bezeichner**für eine Auftrags-ID. |

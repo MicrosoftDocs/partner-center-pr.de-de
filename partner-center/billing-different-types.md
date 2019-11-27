@@ -1,10 +1,10 @@
 ---
-title: Types of billing in Partner Center | Partner Center
+title: Abrechnungs Typen in Partner Center | Partner Center
 ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn about different billing types, billing periods, and billing dates you might see in Partner Center.
+Description: Erfahren Sie mehr über verschiedene Abrechnungs Typen, Abrechnungs Zeiträume und Abrechnungsdaten, die Sie möglicherweise im Partner Center sehen.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Abrechnung, Zahlungen, Bestellungen, Kontenabstimmungsdateien, Kontenabstimmungsdatei
@@ -17,19 +17,19 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384853"
 ---
-# <a name="types-of-billing-in-partner-center"></a>Types of billing in Partner Center
+# <a name="types-of-billing-in-partner-center"></a>Abrechnungs Typen in Partner Center
 
-Betrifft
+Gilt für:
 
 - Partner Center
 - Partner im CSP-Programm
 
-You'll be billed for Partner Center purchases depending on the products, solutions and services you buy on behalf of your customers. The types of billing are as follows:
+Die Abrechnung von Partner Center-Käufen erfolgt in Abhängigkeit von den Produkten, Lösungen und Diensten, die Sie im Namen Ihrer Kunden erwerben. Die Abrechnungs Typen lauten wie folgt:
 
-- [**License-based billing**](license-based-billing.md), where you're billed per license (not by license usage).
-- [**Usage-based billing**](usage-based-billing.md), where you're billed for monthly usage rates.
-- [**Billing for one-time and select recurring charges**](one-time-and-recurring-billing.md), where you pay in advance for a preset term for Microsoft and third-party ISV products.
-- Billing for license-based SaaS transactions (see [**common billing scenarios for SaaS charges**](common-billing-scenarios-saas.md)).
+- [**Lizenz basierte Abrechnung**](license-based-billing.md), bei der die Abrechnung pro Lizenz erfolgt (nicht nach Lizenz Verwendung).
+- [**Nutzungsbasierte Abrechnung**](usage-based-billing.md), bei der Ihnen monatliche Nutzungsgebühren in Rechnung gestellt werden.
+- Berechnen Sie [**einmalig und wählen Sie wiederkehrende Gebühren**](one-time-and-recurring-billing.md)aus, bei denen Sie für einen vordefinierten Begriff für ISV-Produkte von Microsoft und Drittanbietern bezahlen.
+- Abrechnung für Lizenz basierte Saas-Transaktionen (Weitere Informationen finden Sie unter [**häufige Abrechnungs Szenarien für SaaS-Gebühren**](common-billing-scenarios-saas.md)).
 
 Je nach den Typen der Produkte, die Sie für Ihre Kunden erwerben, gibt es möglicherweise unterschiedliche Abrechnungszeiträume, die an verschiedenen Tagen desselben Monats in Rechnung gestellt werden.
 

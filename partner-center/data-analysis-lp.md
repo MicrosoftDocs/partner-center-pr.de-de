@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to use analytics in Partner Center to better understand your business and how your customers are using the licenses you've purchased.
+description: Erfahren Sie, wie Sie Analysen in Partner Center verwenden können, um Ihr Unternehmen besser zu verstehen und zu erfahren, wie Ihre Kunden die erworbenen Lizenzen verwenden.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Daten, Analysen, Datenanalysen, Power BI
@@ -18,13 +18,13 @@ ms.locfileid: "74384846"
 ---
 # <a name="get-data-and-analyze-your-business"></a>Abrufen von Daten und Analysieren Ihres Unternehmens
 
-**Zielgruppe**
+**Gilt für**
 
 - Partner Center
 - MPN-Partner
 - Partner im CSP-Programm
 
-**Appropriate role**
+**Geeignete Rolle**
 
 - MPN-Partneradministrator
 
@@ -39,16 +39,16 @@ In Partner Center hat nur der MPN-Partneradministrator Zugriff auf Benutzeranaly
 
 **Gewähren des Zugriffs auf Benutzeranalysen in Partner Center** 
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an.
 
-2. From the Partner Center menu, On the Partner Center **User management** page, use the Search box to find the person who needs access.
-2.  In the search results, select the person's name to open the **User details** page.
+2. Verwenden Sie im Menü Partner Center auf der Seite Partner Center- **Benutzerverwaltung** das Suchfeld, um die Person zu suchen, die Zugriff benötigt.
+2.  Wählen Sie in den Suchergebnissen den Namen der Person aus, um die Seite mit den **Benutzer Details** zu öffnen.
 3.  Wählen Sie unter **Rollen und Berechtigungen** die Option **MPN-Partneradministrator** und anschließend **Aktualisieren** aus.
 
  
 ## <a name="access-data-in-partner-center"></a>Zugreifen auf Daten in Partner Center
 
-|**Gewünschte Daten**   |**Herunterladen**   |**Bitte lesen**   | **Zielgruppe**    |
+|**Gewünschte Daten**   |**Herunterladen**   |**Artikel**   | **Gilt für**    |
 |---------------------|:-----------------------|:---------------|:--------------|
 |Verwendung der erworbenen Lizenzen durch Ihre Kunden   |Bereitstellungs- und Nutzungsdaten aus Partner Center => Produktanalyse   |[Steigerung von Einführungsrate und Zufriedenheit](increasing-adoption-and-satisfaction.md)|CSP-Partner|
 |Kundenaktivität in Bezug auf Abonnements   |Aktivitätsprotokolle   |[Anzeigen von Kundenaktivitätsprotokollen](activity-logs.md)|CSP-Partner   |

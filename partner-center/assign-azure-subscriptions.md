@@ -22,19 +22,19 @@ ms.locfileid: "74252915"
 
 -  Partner Center
  
-## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>Zuweisen von Azure-Abonnements an Kunden im Partner Center
+## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>Zuweisen von Azure-Abonnements zu Kunden im Partner Center
 
 1. Wählen Sie **Kunden** im Menü **Partner Center** aus, und wechseln Sie zum Kunden, den verwalten möchten.
 
-2.  Wählen Sie den Pfeil nach unten am Ende der Zeile, um die Kundendaten zu erweitern, und wählen Sie dann **Microsoft Azure-Verwaltungsportal** aus. Sie werden an das Azure-Portal weitergeleitet, in dem Sie das Abonnement des Kunden verwalten können. 
+2.  Klicken Sie am Ende der Zeile auf den Pfeil nach unten zeigenden Pfeil, um die Kundendaten zu erweitern, und wählen Sie dann **Microsoft Azure-Verwaltungsportal** aus. Sie werden zum Azure-Portal weitergeleitet, in dem Sie das Abonnement des Kunden verwalten können. 
 
-4. Wählen Sie **Abonnements** im Azure-Portal.
+4. Wählen Sie im Azure-Portal **Abonnements** aus.
 
-5. Wählen Sie das Abonnement, das Sie zuweisen möchten, und dann **Zugriffssteuerung**.
+5. Wählen Sie das Abonnement, das Sie zuweisen möchten, und dann **Zugriffssteuerung** aus.
 
-6. Wählen Sie **Hinzufügen**, um dem Abonnement einen Benutzer hinzuzufügen. 
+6. Klicken Sie auf **Hinzufügen**, um dem Abonnement einen Benutzer hinzuzufügen. 
 
-7. Nachdem Sie dem Abonnement den Benutzer hinzugefügt haben, können Sie ihm eine Rolle und das spezifische Konto zuweisen, auf das er Zugriff haben soll. 
+7. Nachdem Sie den Benutzer dem Abonnement hinzugefügt haben, können Sie ihm eine Rolle und das spezifische Konto zuweisen, auf das er Zugriff haben soll. 
 
 **Kunden die Verwaltung ihrer Azure-Abonnements ermöglichen**
 
@@ -43,7 +43,7 @@ Nachdem Sie ein Microsoft Azure-Abonnement für einen Kunden erstellt haben, kö
 1.  Wenn Sie die Azure-Portal des Kunden öffnen möchten, erweitern Sie entweder die Liste der Kunden in der Kundenliste, oder wählen Sie den Namen des Kunden aus, und wählen Sie dann **Microsoft Azure-Verwaltungsportal**aus.
     
 > [!NOTE]  
-> Wenn Sie aufgefordert werden, Sie sich beim Azure-Portal anzumelden, fehlen Ihnen wahrscheinlich die übertragenen Administratorrechte. Wählen Sie **Partnerschaft beantragen** aus, um den Kunden aufzufordern, Sie als registrierten Abonnementberater zu identifizieren. Nachdem der Kunde die Aufforderung annimmt, werden Ihnen automatisch delegierte Administratorrechte gewährt. 
+> Wenn Sie aufgefordert werden, sich beim Azure-Portal anzumelden, fehlen Ihnen wahrscheinlich die delegierten Administratorrechte. Wählen Sie **Partnerschaft beantragen** aus, um den Kunden aufzufordern, Sie als registrierten Abonnementberater zu identifizieren. Nachdem der Kunde die Aufforderung annimmt, werden Ihnen automatisch delegierte Administratorrechte gewährt. 
 
 2.  Öffnen Sie im Azure-Portal die Liste der Kunden Abonnements, und wählen Sie das Azure-Abonnement des Kunden aus.
 

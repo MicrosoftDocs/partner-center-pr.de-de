@@ -8,7 +8,7 @@ description: Erfahren Sie, wie Sie dem Konto eines Kunden mehrere Benutzer gleic
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Stapelweises Hochladen, mehrere Benutzer einem Kundenkonto hinzufügen, Kunden eines Benutzers hinzufügen, stapelweises Hochladen der Benutzer des Kunden, Kundenkonto, Kunden des Benutzers, Benutzer
+keywords: Massenupload, einem Kundenkonto mehrere Benutzer hinzufügen, Benutzer eines Kunden hinzufügen, Massenupload der Benutzer eines Kunden, Kundenkonto, Kundenbenutzer, Benutzer
 ms.localizationpriority: medium
 ms.openlocfilehash: 5c9de7ed78a0494790b447d1755d5eef70a89cca
 ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d

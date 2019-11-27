@@ -1,8 +1,8 @@
 ---
-title: Reconciliation file charge types | Partner Center
+title: Abgleich-Datei Lade Typen | Partner Center
 ms.topic: article
 ms.date: 08/26/2019
-description: Types of charges (license-based, usage-based and one-time), credits and discounts on Partner Center reconciliation files.
+description: Arten von Gebühren (Lizenz basiert, Nutzungs basiert und einmalig), Gutschriften und Rabatte für Partner Center-Abstimmungs Dateien.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
@@ -14,86 +14,86 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389808"
 ---
-# <a name="understand-charge-types"></a>Understand charge types
+# <a name="understand-charge-types"></a>Grundlegendes zu Lade Typen
 
-Betrifft
+Gilt für:
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
 
-This topic describes the mappings between an invoice section and associated charge types that might be on your reconciliation file. Your invoice provides a summary of charges. Your reconciliation file provides a detailed breakdown of line-item transactions, including charge types. For more information on reconciliation files, see [how to use reconciliation files](use-the-reconciliation-files.md).
+In diesem Thema werden die Zuordnungen zwischen einem Rechnungs Abschnitt und den zugehörigen Abrechnungs Typen beschrieben, die möglicherweise in der Abstimmungs Datei liegen. Ihre Rechnung enthält eine Zusammenfassung der Gebühren. Die Abstimmungs Datei bietet eine detaillierte Aufschlüsselung der Zeilen Element Transaktionen, einschließlich der Lade Typen. Weitere Informationen zum Abgleich von Dateien finden [Sie unter Verwenden](use-the-reconciliation-files.md)von Abstimmungs Dateien.
 
-Both [usage-based reconciliation files](usage-based-recon-files.md) and [license-based reconciliation files](license-based-recon-files.md) only show usage-related transactions and charges (units consumed and related charges).
+Sowohl [nutzungsbasierte ababstimmungs Dateien](usage-based-recon-files.md) als auch [Lizenz basierte ababstimmungs Dateien](license-based-recon-files.md) zeigen nur nutzungsbezogene Transaktionen und Gebühren an (genutzte Einheiten und zugehörige Gebühren).
 
 > [!NOTE]
-> One-off credits, discounts or refunds that appear on the invoice as **Adjustments** are not shown in the reconciliation file.
+> Einmalige Gutschriften, Rabatte oder Rückerstattungen, die auf der Rechnung angezeigt werden **, werden nicht** in der Abstimmungs Datei angezeigt.
 
-## <a name="map-charge-types-to-invoice-charges"></a>Map charge types to invoice charges
+## <a name="map-charge-types-to-invoice-charges"></a>Zuordnen von Gebühren Typen zu Rechnungs Gebühren
 
-To cross-reference charge amounts between your invoice and reconciliation file, use the filter options in Microsoft Excel. Filter by charge types on your reconciliation file to map the invoice charges to a set of charge breakdowns on the reconciliation file.
+Verwenden Sie die Filteroptionen in Microsoft Excel, um die Berechnung der Kosten für einen Querverweis zwischen der Rechnung und der Abstimmungs Datei zu überschreiten. Filtern Sie nach den Gebühren Typen in der Abstimmungs Datei, um die Rechnungs Gebühren einem Satz von Gebühren für die Abstimmungs Datei zuzuordnen.
 
 ## <a name="license-based-charges"></a>Lizenzbasierte Gebühren
 
-To map these license-based charges to your invoice, sum the **Amount** column from the license-based file.
+Um diese lizenzbasierten Gebühren Ihrer Rechnung zuzuordnen, addieren Sie die Spalte **Amount** aus der lizenzbasierten Datei.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| Lade Beschreibung (Spalte chargetype in der Abstimmungs Datei) | Erklärung der Abrechnung |
 | ------------------------------------------------------------- | ------------------ |
-| Aktivierungsgebühr | The amount charged to the customer when they use the subscription after purchase. |
-| Stornierungsgebühr | Prorated charges refunded to the customer when associated seats are changed. |
-| Gebühr für Zyklus | Periodic charges for a subscription. |
-| Anteiliger Zyklus für Instanz | Prorated charges assessed from the customer when associated seats are changed. |
-| Gebühren bei Stornierung anteilig zuordnen | Prorated refund for unused portion of service upon cancellation. |
-| Anteilige Gebühren beim Kauf | The charge type for a subscription when using annual billing. |
-| Kaufgebühr | The charge type for a subscription when using monthly billing. |
-| Anteilige Gebühr bei Verlängerung | Prorated fees upon subscription renewal. |
+| Aktivierungsgebühr | Der Betrag, der dem Kunden in Rechnung gestellt wird, wenn er das Abonnement nach dem Kauf verwendet. |
+| Stornierungsgebühr | Anteilsmäßig an den Kunden abgezahlte Gebühren, wenn die zugeordneten Arbeitsplätze geändert werden. |
+| Gebühr für Zyklus | Regelmäßige Gebühren für ein Abonnement. |
+| Anteiliger Zyklus für Instanz | Anteilsmäßig abgeänderte Gebühren vom Kunden, wenn die zugeordneten Arbeitsplätze geändert werden. |
+| Gebühren bei Stornierung anteilig zuordnen | Anteilsmäßig abgenommene Rückerstattung für den nicht genutzten Dienst Anteil nach Abbruch. |
+| Anteilige Gebühren beim Kauf | Der Typ der Gebühr für ein Abonnement bei Verwendung der jährlichen Abrechnung. |
+| Kaufgebühr | Der Gebühr für ein Abonnement, wenn die monatliche Abrechnung verwendet wird. |
+| Anteilige Gebühr bei Verlängerung | Anteilsmäßig Kosten bei der Erneuerung des Abonnements. |
 | Verlängerungsgebühr | Gebühr für Verlängerung eines Abonnements |
-| Anteilige Gebühren beim Aktivieren | >Prorated fees from activation until end of billing period. |
+| Anteilige Gebühren beim Aktivieren | > anteilsmäßig an der Aktivierung bis zum Ende des Abrechnungszeitraums. |
 
-## <a name="one-time-charges"></a>One-time charges
+## <a name="one-time-charges"></a>Einmalige Gebühren
 
-To map these one-time charges to your invoice, sum the **Amount** column from the license-based file.
+Um diese einmaligen Gebühren Ihrer Rechnung zuzuordnen, addieren Sie die Spalte **Amount** aus der lizenzbasierten Datei.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| Lade Beschreibung (Spalte chargetype in der Abstimmungs Datei) | Erklärung der Abrechnung |
 | ------------------------------------------------------------- | ------------------ |
-| Neu | Used when a new purchase is created. |
-| addQuantity | Used in both the refund of the original purchase and the new quantity after an increase. |
-| removeQuantity | Used in both the refund of the original purchase and the new quantity after a decrease. |
-| Abbrechen | Used when a subscription is cancelled. |
-| Konvertieren | Used when a license is upgraded but the number of seats remains unchanged. |
+| Neu | Wird verwendet, wenn ein neuer Kauf erstellt wird. |
+| addQuantity | Wird sowohl bei der Rückerstattung des ursprünglichen Kaufs als auch bei der neuen Menge nach einer Erhöhung verwendet. |
+| removeQuantity | Wird sowohl bei der Rückerstattung des ursprünglichen Kaufs als auch bei der neuen Menge nach einer Abnahme verwendet. |
+| Abbrechen | Wird verwendet, wenn ein Abonnement abgebrochen wird. |
+| Konvertieren | Wird verwendet, wenn eine Lizenz aktualisiert wird, die Anzahl der Arbeitsplätze jedoch unverändert bleibt. |
 
 ## <a name="usage-charges"></a>Nutzungsgebühren
 
-To map these usage charges to your invoice, sum the **PretaxCharges** column from the usage-based file.
+Um diese Nutzungsgebühren Ihrer Rechnung zuzuordnen, addieren Sie die Spalte **pretaxcharges** aus der Verwendungs basierten Datei.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| Lade Beschreibung (Spalte chargetype in der Abstimmungs Datei) | Erklärung der Abrechnung |
 | ------------------------------------------------------------- | ------------------ |
-| Nutzungsgebühr beim Stornieren bewerten | Access usage fee upon cancellation for unpaid usage during the current billing period. |
-| Nutzungsgebühr für den aktuellen Zyklus bewerten | Access usage fee for the current billing period. |
+| Nutzungsgebühr beim Stornieren bewerten | Der Zugriff auf die Nutzungsgebühr bei einem Abbruch für die nicht bezahlte Nutzung während des aktuellen Abrechnungszeitraums. |
+| Nutzungsgebühr für den aktuellen Zyklus bewerten | Zugriffs Nutzungsgebühr für den aktuellen Abrechnungszeitraum. |
 
 ### <a name="credits"></a>Gutschriften
 
-To map these credits to your invoice:
+So ordnen Sie diese Gutschriften Ihrer Rechnung zu:
 
-- Sum the **TotalForCustomer** from the license-based file.
-- Sum the **PostTaxTotal** column from the usage-based file.
+- **Addieren Sie totalforcustomer** aus der lizenzbasierten Datei.
+- Summieren Sie die **posttaxtotal** -Spalte aus der Verwendungs basierten Datei.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| Lade Beschreibung (Spalte chargetype in der Abstimmungs Datei) | Erklärung der Abrechnung |
 | ------------------------------------------------------------- | ------------------ |
-| Ausgleichen einer Position | Partial or whole refund to a line item, including taxes. |
+| Ausgleichen einer Position | Teilweise oder vollständige Rückerstattung eines Zeilen Elements, einschließlich Steuern. |
 
 ### <a name="usage-based-discounts"></a>Nutzungsbasierte Rabatte
 
-To map these usage-based discounts to your invoice, sum the **PretaxCharges** column from the usage-based file.
+Um diese nutzungsbasierten Rabatte Ihrer Rechnung zuzuordnen, addieren Sie die Spalte **pretaxcharges** aus der Verwendungs basierten Datei.
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| Lade Beschreibung (Spalte chargetype in der Abstimmungs Datei) | Erklärung der Abrechnung |
 | ------------------------------------------------------------- | ------------------ |
-| Aktivierungsrabatt | Discount applied when subscription activated. |
-| Zyklusrabatt | Discount applied on periodic charges. |
-| Verlängerungsrabatt | Discount applied when subscription renewed. |
-| Stornorabatt | Charges applied when discounts cancelled. |
+| Aktivierungsrabatt | Der Rabatt wurde beim Aktivieren des Abonnements angewendet. |
+| Zyklusrabatt | Der Rabatt wird auf regelmäßige Gebühren angewendet. |
+| Verlängerungsrabatt | Der Rabatt wurde bei erneutem Abonnement zugewiesen. |
+| Stornorabatt | Gebühren, die beim Abbruch von Rabatten angewendet wurden. |
 
 ### <a name="license-based-discounts"></a>Lizenzbasierte Rabatte
 
-To map license-based discounts to your invoice, sum the **TotalOtherDiscount** column from the license-based file.
+Um Lizenz basierte Rabatte Ihrer Rechnung zuzuordnen, addieren Sie die Spalte **totalotherdiscount** aus der lizenzbasierten Datei.
 
-*License-based discounts may be applied to multiple charge types.*
+*Lizenz basierte Rabatte können auf mehrere Lade Typen angewendet werden.*

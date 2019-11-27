@@ -18,26 +18,26 @@ ms.locfileid: "74384832"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Anbieten von Testversionen von Microsoft-Produkten für Kunden
 
-Betrifft
+Gilt für:
 
 - Partner Center
 
 Eine kostenlose 30-Tage-Testversion ist eine gute Möglichkeit, Kunden neue Microsoft-Produkte vorzustellen. Sie können sich für die Testversionen im Katalog ebenso wie für viele andere Onlinedienste registrieren. Alle Partner können daran teilnehmen.
 
-## <a name="available-trial-offers"></a>Available trial offers
+## <a name="available-trial-offers"></a>Verfügbare Testangebote
 
-You can find all of your outstanding trial offers on the **Customer** page. This page lists all subscriptions, including free trials and paid subscriptions. (This feature is not currently available in China.)
+Sie finden alle ausstehenden Testangebote auf der **Kunden** Seite. Auf dieser Seite werden alle Abonnements einschließlich kostenloser und kostenpflichtiger Abonnements aufgelistet. (Dieses Feature ist in China zurzeit nicht verfügbar.)
 
-Each customer is entitled to one free trial for each available offer. Sie können z. B. eine kostenlose Testversion für Office 365 Business Premium und eine kostenlose Testversion für Office 365 E3 erhalten. However, if the customer already owns the offer, they can't use a free trial for that offer.
+Jeder Kunde hat Anspruch auf eine kostenlose Testversion für jedes verfügbare Angebot. Sie können z. B. eine kostenlose Testversion für Office 365 Business Premium und eine kostenlose Testversion für Office 365 E3 erhalten. Wenn der Kunde das Angebot jedoch bereits besitzt, kann er für dieses Angebot keine kostenlose Testversion verwenden.
 
-### <a name="available-products"></a>Available products
+### <a name="available-products"></a>Verfügbare Produkte
 
 Kostenlose Testversionen sind für folgende Produkte verfügbar:
 
 - Office 365 Business Premium
 - Office 365 E3
-- Office 365 E5 with PSTN
-- Office 365 E5 without PSTN
+- Office 365 E5 mit PSTN
+- Office 365 E5 ohne PSTN
 - Enterprise Mobility & Security E5
 - Dynamics 365 Customer Engagement Plan 1
 - Dynamics 365 for Financials
@@ -45,71 +45,71 @@ Kostenlose Testversionen sind für folgende Produkte verfügbar:
 
 Wir bieten kostenlose Testversionen für diese Produkte an, da sie die umfassendsten und beliebtesten Angebote für Unternehmen sind. Wir werden in Zukunft möglicherweise weitere kostenlose Testversionen anbieten.
 
-Currently, there are **no free trials** for government offers, education offers, or add-on offers.
+Zurzeit sind **keine kostenlosen** Testversionen für behördliche Angebote, Schulungsangebote oder Add-on-Angebote verfügbar.
 
-## <a name="licenses-for-free-trial-offers"></a>Licenses for free trial offers
+## <a name="licenses-for-free-trial-offers"></a>Lizenzen für kostenlose Testangebote
 
-All free trials provide 25 licenses. You can't change this number during the trial. You can't add or remove seats in the free trial. After the trial is converted to a paid subscription, you can add additional licenses to the subscription.
+Alle kostenlosen Testversionen bieten 25 Lizenzen. Diese Anzahl kann während des Testzeitraums nicht geändert werden. Sie können keine Arbeitsplätze in der kostenlosen Testversion hinzufügen oder entfernen. Nachdem die Testversion in ein kostenpflichtiges Abonnement konvertiert wurde, können Sie dem Abonnement weitere Lizenzen hinzufügen.
 
-You should assign trial licenses and seats just as you would for a paid service in Partner Center.
+Sie sollten Testlizenzen und Arbeitsplätze genauso wie bei einem kostenpflichtigen Dienst im Partner Center zuweisen.
 
-## <a name="sign-customers-up-for-trials"></a>Sign customers up for trials
+## <a name="sign-customers-up-for-trials"></a>Registrieren von Kunden für Testversionen
 
-To sign your customer up for a trial through Partner Center:
+So signieren Sie Ihren Kunden für eine Testversion über Partner Center:
 
 1. Navigieren Sie im Partner Center unter **Verkaufen** zu **Katalog**. 
 2. Klicken Sie im Katalog unter **Billing frequency** (Abrechnungshäufigkeit) auf **Trial offer** (Testangebot). Dadurch werden nur kostenlose Testversionen angezeigt und kostenpflichtige Angebote ausgeblendet. Testversionen werden im Katalog auf der Registerkarte **Testversionen** angezeigt.
 3. Wählen Sie die kostenlose Testversion aus, die Sie anbieten möchten, und wählen Sie dann **Übermitteln** aus. Alle Testversionen gelten für 30 Tage, in denen keine Kosten in Rechnung gestellt werden. Sie können sie auch zu einem beliebigen Zeitpunkt während des Testzeitraums in ein kostenpflichtiges Abonnement umwandeln.
 
-## <a name="converting-trials-to-paid-subscriptions"></a>Converting trials to paid subscriptions
+## <a name="converting-trials-to-paid-subscriptions"></a>Umstellen von Testversionen in kostenpflichtige Abonnements
 
-A free trial is not automatically converted to a paid subscription. After thirty days, a free trial must be converted to a paid subscription or it will [expire](#expiring-offers). Free trials can't be extended.
+Eine kostenlose Testversion wird nicht automatisch in ein kostenpflichtiges Abonnement konvertiert. Nach 30 Tagen muss eine kostenlose Testversion in ein kostenpflichtiges Abonnement konvertiert werden, oder Sie [läuft](#expiring-offers)ab. Kostenlose Testversionen können nicht erweitert werden.
 
-You'll need to convert the trial into a paid subscription yourself. You can do this [using the Partner Center](#convert-trials-using-partner-center) or [through the Partner Center APIs](#convert-trials-using-apis).
+Sie müssen die Testversion selbst in ein kostenpflichtiges Abonnement konvertieren. Hierfür können Sie [das Partner Center](#convert-trials-using-partner-center) oder [die Partner Center-APIs](#convert-trials-using-apis)verwenden.
 
 > [!NOTE]
-> Customer free trials for the Cloud Solution Provider (CSP) program can't be converted to another program tenant (such as EA, Open or MOSP).
+> Kostenlose Testversionen für das Cloud Solution Provider-Programm (CSP) können nicht in einen anderen Programm Mandanten (z. b. EA, Open oder musp) konvertiert werden.
 
-### <a name="convert-trials-using-partner-center"></a>Convert trials using Partner Center
+### <a name="convert-trials-using-partner-center"></a>Konvertieren von Tests mithilfe von Partner Center
 
-You can convert trials to paid subscriptions using the Partner Center dashboard as follows:
+Sie können mithilfe des Partner Center-Dashboards wie folgt Tests in kostenpflichtige Abonnements konvertieren:
 
 1. Wählen Sie auf der Abonnementseite des Kunden die kostenlose Testversion aus.
 2. Wählen Sie **Testabonnement auf kostenpflichtiges Abonnement umstellen** aus.
 3. Geben Sie die gewünschte Anzahl von Lizenzen und die Abrechnungshäufigkeit ein, und wählen Sie **Übernehmen** aus.
 4. Die Abrechnung für das kostenpflichtige Abonnement beginnt mit dem Datum der Umstellung, und das Abonnement wird automatisch zwölf Monate nach der Umstellung verlängert. 
 
-### <a name="convert-trials-using-apis"></a>Convert trials using APIs
+### <a name="convert-trials-using-apis"></a>Konvertieren von Testversionen mithilfe von APIs
 
-You may need to alter your APIs to accommodate the conversion of a free trial to a paid subscription. For more information, see the following developer documentation:
+Möglicherweise müssen Sie Ihre APIs ändern, um die Konvertierung einer kostenlosen Testversion in ein kostenpflichtiges Abonnement zu ermöglichen. Weitere Informationen finden Sie in der folgenden Entwicklerdokumentation:
 
 - [Umwandeln eines Probeabonnements in ein kostenpflichtiges Abonnement](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
 - [Abrufen einer Liste der Wechselangebote für Probeabonnements](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
-### <a name="expiring-offers"></a>Expiring offers
+### <a name="expiring-offers"></a>Ablaufende Angebote
 
-You will not be notified of expiring offers. You can track upcoming expiration dates using the customer view on Partner Center or by querying the API. Sie sollten diese Datumsangaben regemäßig überprüfen, damit Sie zusammen mit dem Kunden die entsprechenden Folgeaktionen durchführen können, wenn eine Entscheidung getroffen werden muss.
+Sie werden nicht über ablaufende Angebote benachrichtigt. Sie können anstehende Ablaufdatums Angaben mithilfe der Kundenansicht im Partner Center oder durch Abfragen der API verfolgen. Sie sollten diese Datumsangaben regemäßig überprüfen, damit Sie zusammen mit dem Kunden die entsprechenden Folgeaktionen durchführen können, wenn eine Entscheidung getroffen werden muss.
 
-After a trial has expired, a customer who attempts to log into that trial will see an expiry message. However, the data is stored in line with data retention standards. After you purchase a new subscription with the same service plans, your customer's information can be accessed again from the newly activated subscription.
+Nachdem eine Testversion abgelaufen ist, wird für einen Kunden, der versucht, sich bei dieser Testversion anzumelden, eine Ablauf Meldung angezeigt. Die Daten werden jedoch in Übereinstimmung mit den Daten Aufbewahrungs Standards gespeichert. Nachdem Sie ein neues Abonnement mit denselben Serviceplänen erworben haben, können Sie über das neu aktivierte Abonnement erneut auf die Informationen Ihres Kunden zugreifen.
 
 ## <a name="billing"></a>Abrechnung
 
-Annual billing and free trials are the same in sovereign clouds and the public cloud. The only difference is the trial SKUs available at the time of launch.
+Die jährlichen Abrechnungs-und kostenlosen Testversionen sind in unabhängigen Clouds und in den Public Cloud identisch. Der einzige Unterschied besteht darin, dass die Test-SKUs zum Zeitpunkt des Starts verfügbar sind.
 
-## <a name="billing-for-free-trials"></a>Billing for free trials
+## <a name="billing-for-free-trials"></a>Abrechnung für kostenlose Testversionen
 
-Free trials can be used for both monthly and annually billed subscriptions. You can select the billing frequency when you convert the trial to a paid subscription.
+Kostenlose Testversionen können sowohl für monatliche als auch für jährlich in Rechnung gestellte Abonnements verwendet werden. Sie können die Abrechnungs Häufigkeit auswählen, wenn Sie die Testversion in ein kostenpflichtiges Abonnement konvertieren.
 
-The subscription start date is based on the conversion date. Wenn die kostenlose Testversion in ein kostenpflichtiges Angebot mit jährlicher Abrechnung umgewandelt wird, liegt das Verlängerungsdatum des Abonnements zwölf Monate nach dem Datum der Umwandlung. Wird die kostenlose Testversion in ein kostenpflichtiges Angebot mit monatlicher Abrechnung umgewandelt, liegt das Verlängerungsdatum des Abonnements zwölf Monate nach dem auf das Datum der Umwandlung folgenden Abrechnungsdatum.
+Das Startdatum des Abonnements basiert auf dem Konvertierungs Datum. Wenn die kostenlose Testversion in ein kostenpflichtiges Angebot mit jährlicher Abrechnung umgewandelt wird, liegt das Verlängerungsdatum des Abonnements zwölf Monate nach dem Datum der Umwandlung. Wird die kostenlose Testversion in ein kostenpflichtiges Angebot mit monatlicher Abrechnung umgewandelt, liegt das Verlängerungsdatum des Abonnements zwölf Monate nach dem auf das Datum der Umwandlung folgenden Abrechnungsdatum.
 
 ### <a name="invoices"></a>Rechnungen
 
-You won't see free trials listed in your invoice or license-based reconciliation file. Free trials will only appear on your invoice and license-based reconciliation file after you convert a free trial to a paid subscription. The converted subscription will appear in the same way as any new subscription.
+In Ihrer Rechnung oder lizenzbasierten Abstimmungs Datei werden keine kostenlosen Testversionen aufgeführt. Kostenlose Testversionen werden nur auf der Rechnung und der lizenzbasierten Abstimmungs Datei angezeigt, nachdem Sie eine kostenlose Testversion in ein kostenpflichtiges Abonnement konvertiert haben. Das konvertierte Abonnement wird auf die gleiche Weise wie jedes neue Abonnement angezeigt.
 
 ### <a name="incentives"></a>Incentives
 
-Free trials do not have an impact on incentives.
+Kostenlose Testversionen haben keine Auswirkung auf die Anreize.
 
 ## <a name="support"></a>Support
 
-For support on free trials, submit a service request through Partner Center.
+Um Unterstützung für kostenlose Testversionen zu erhalten, senden Sie eine Service Request über Partner Center.

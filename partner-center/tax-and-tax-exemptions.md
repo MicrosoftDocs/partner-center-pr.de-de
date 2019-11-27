@@ -1,13 +1,13 @@
 ---
-title: Taxes and tax exemptions | Partner Center
+title: Gebühren für Steuern und Steuern | Partner Center
 ms.topic: article
 ms.date: 11/21/2019
-description: Understand tax responsibilities and submit tax exemptions for your CSP sales.
+description: Informieren Sie sich über steuerliche Zuständigkeiten und Übermitteln von Steuer Ausnahmen für Ihre CSP-Umsätze.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-keywords: tax, tax exemption, vat, reseller, billing
+keywords: Steuern, Steuern von Steuer Ausnahmen, Umsatzsteuer, Reseller, Abrechnung
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 91f6c7265dec3a72a24130221cedef8de6d4ce31
@@ -19,84 +19,84 @@ ms.locfileid: "74384872"
 ---
 # <a name="taxes-and-tax-exemptions"></a>Steuern und Steuerbefreiungen
 
-Betrifft
+Gilt für:
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
 
-The Cloud Solution Provider (CSP) program is a sales channel focused on partner resale of products. As a result, Microsoft is not always required to charge sales tax on partner invoices. The rules vary by country and/or region. You can review [country-specific and region-specific details for tax exemptions](#country-and-region-tax-details).
+Das CSP-Programm (Cloud Solution Provider) ist ein Vertriebskanal, der sich auf den Verkauf von Produkten durch den Partner konzentriert. Daher ist Microsoft nicht immer in der Lage, Umsatzsteuern für Partner Rechnungen zu berechnen. Die Regeln variieren je nach Land und/Region. Sie können [länderspezifische und regionsspezifische Details für Steuerbefreiungen](#country-and-region-tax-details)überprüfen.
 
-Partners should work with their tax advisor to [file tax exemptions](#file-tax-exemptions) based on their locations and where their customers are based.
+Partner sollten mit dem Steuer Ratgeber zusammenarbeiten, um auf der Grundlage ihrer Standorte und des Orts ihrer Kunden [Steuern](#file-tax-exemptions) zu können.
 
-## <a name="country-and-region-tax-details"></a>Country and region tax details
+## <a name="country-and-region-tax-details"></a>Steuer Details für Land und Region
 
-Specific tax-related information is available for the following countries and regions: [Canada](#canada), [the European Union](#european-union), [South Africa](#south-africa), [Turkey](#turkey), and [the United States](#united-states). For Taiwan and Korea, see [tax receipts details](#tax-receipts-and-daf).
+In den folgenden Ländern und Regionen sind spezifische Steuerinformationen verfügbar: [Kanada](#canada), [die Europäische Union](#european-union), [Südafrika](#south-africa), [Türkei](#turkey)und [die USA](#united-states). Für Taiwan und Korea finden Sie weitere [Informationen unter Steuer](#tax-receipts-and-daf)Bestätigungen.
 
-If you're in another country or region that charges taxes, see [the information for other regions](#other-regions).
+Wenn Sie sich in einem anderen Land oder einer Region befinden, die Steuern belastet, sehen Sie sich [die Informationen für andere Regionen](#other-regions)an.
 
-For additional questions, [request support in Partner Center](#support).
+Wenn Sie weitere Fragen haben, [fordern Sie Unterstützung im Partner Center an](#support).
 
 ### <a name="canada"></a>Kanada
 
-Die meisten Handelspartner sind nicht von der GST/HST/QST befreit. Consult your tax advisor to determine whether you are qualified for exemption, and what documentation you should provide to Microsoft.
+Die meisten Handelspartner sind nicht von der GST/HST/QST befreit. Wenden Sie sich an den Steuer Ratgeber, um zu bestimmen, ob Sie für eine Ausnahme qualifiziert sind und welche Dokumentation Sie für Microsoft bereitstellen sollten.
 
-For a BC PST Exemption, file a tax exemption as described. Stellen Sie Ihre BC PST-Nummer oder ein ausgefülltes und signiertes *Zertifikat über eine allgemeine Befreiung* bereit.
+Für eine BC PST-Ausnahme müssen Sie eine Steuer Ausnahme wie beschrieben einreichen. Stellen Sie Ihre BC PST-Nummer oder ein ausgefülltes und signiertes *Zertifikat über eine allgemeine Befreiung* bereit.
 
 ### <a name="european-union"></a>Europäische Union
 
-In den Mitgliedstaaten der Europäischen Union müssen Partner ihre gültige USt-IdNr. angeben, um eine ordnungsgemäße Steuerschuldumkehr und Abrechnung zu gewährleisten. The VAT number must be accepted as valid.
+In den Mitgliedstaaten der Europäischen Union müssen Partner ihre gültige USt-IdNr. angeben, um eine ordnungsgemäße Steuerschuldumkehr und Abrechnung zu gewährleisten. Die Umsatzsteuernummer muss als gültig akzeptiert werden.
 
-Microsoft does not support credit and re-bill. Before you sell any subscriptions, you must [register your VAT ID number](organization-tax-info.md) in Partner Center.
+Microsoft unterstützt keine Gutschrift und keine erneute Abrechnung. Vor dem Verkauf von Abonnements müssen Sie [Ihre Umsatzsteuer-ID-Nummer](organization-tax-info.md) im Partner Center registrieren.
 
 ### <a name="south-africa"></a>Südafrika
 
-Microsoft now applies the standard VAT on digital content and services purchased by partners in South Africa. To exclude the VAT from your invoices and manage this yourself, you must update your partner billing profile by [sending Microsoft your VAT ID number](organization-tax-info.md).
+Microsoft wendet nun die Standard-Mehrwertsteuer für digitale Inhalte und Dienste an, die von Partnern in Südafrika erworben wurden. Um die Umsatzsteuer aus Ihren Rechnungen auszuschließen und diese selbst zu verwalten, müssen Sie das Abrechnungs Profil Ihres Partners aktualisieren, indem Sie [Microsoft Ihre Umsatzsteuer-ID senden](organization-tax-info.md).
 
-### <a name="turkey"></a>Türkei
+### <a name="turkey"></a>Turkei
 
-Microsoft now applies the standard VAT on digital content and services purchased by partners in Turkey. To exclude the VAT from your invoices and manage this yourself, you must update your partner billing profile by [sending Microsoft your VAT ID number](organization-tax-info.md).
+Microsoft wendet nun die Standard-Mehrwertsteuer für digitale Inhalte und Dienste an, die von Partnern in der Türkei erworben wurden. Um die Umsatzsteuer aus Ihren Rechnungen auszuschließen und diese selbst zu verwalten, müssen Sie das Abrechnungs Profil Ihres Partners aktualisieren, indem Sie [Microsoft Ihre Umsatzsteuer-ID senden](organization-tax-info.md).
 
 ### <a name="united-states"></a>USA
 
 Alle Handelspartner in den Vereinigten Staaten sind verpflichtet, die Bescheinigungen zur Steuerbefreiung innerhalb von 30 Tagen nach Zustimmung zum Microsoft Reseller Agreement einzureichen. Die Freistellungszertifikate für den Weiterverkauf variieren je nach Bundesstaat. Erkundigen Sie sich bei Ihrem Steuerberater nach den relevanten Bestimmungen für Ihre offizielle Anschrift und die Bundesstaaten, in denen Ihr Gewerbe angemeldet ist.
 
-This may include resale exemption certificates that work across multiple states such as the *Streamline Sales* and *Use Tax Agreement Certificate of Exemption* or the *MTC Uniform Sales & Use Tax Exemption Certificate*.
+Dazu zählen möglicherweise Weiterverkauf-Ausnahme Zertifikate, die über mehrere Zustände hinweg funktionieren, wie z. b. das Zertifikat zum *Optimieren von Verkäufen* und die *Verwendung von Steuer* Bedingungen oder das Zertifikat für die *MTC-Uniform Sales-&*
 
 ### <a name="other-regions"></a>Andere Regionen
 
-If you are in another country or region that charges taxes, [request support in Partner Center](#support) for your questions.
+Wenn Sie sich in einem anderen Land oder einer Region befinden, die Steuern belastet, bitten Sie den [Support im Partner Center](#support) , Ihre Fragen zu stellen.
 
-## <a name="tax-receipts-and-daf"></a>Tax receipts and DAF
+## <a name="tax-receipts-and-daf"></a>Steuer Bestätigungen und DAF
 
 Steuerbelege (für Taiwan oder Korea) oder DAF erfordern in der Regel eine Bearbeitungszeit von zwei Wochen ab Rechnungsstellung.
 
 ## <a name="file-tax-exemptions"></a>Beantragen von Steuerbefreiungen
 
-Before you file a tax exemption, find your **Microsoft ID** and **MPN ID** to include in the support ticket:
+Bevor Sie eine Steuer Ausnahme einreichen, finden Sie Ihre **Microsoft-ID** und **MPN-ID** , die Sie in das Support Ticket einschließen möchten:
 
-1. Sign in to [the Partner Center dashboard](https://partner.microsoft.com/dashboard/).
-2. In the **Settings** menu (gear icon), choose **Partner Settings**.
-3. On the **Account settings** page, choose **Organization profile** in the dashboard menu.
-4. Note your **Microsoft ID**.
-5. On the same page, choose **Partner profile** in the dashboard menu.
-6. Note your **MPN ID**.
+1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/)an.
+2. Wählen Sie im Menü " **Einstellungen** " (Zahnrad Symbol) die Option **Partner Einstellungen**aus.
+3. Wählen Sie auf der Seite **Kontoeinstellungen** im Menü Dashboard die Option **Organisations Profil** aus.
+4. Notieren Sie sich Ihre **Microsoft-ID**.
+5. Wählen Sie auf der gleichen Seite im Menü Dashboard die Option **Partner Profil** aus.
+6. Notieren Sie Ihre **MPN-ID**.
 
-Then, create a support ticket for Microsoft with your tax exemption information:
+Erstellen Sie dann mit den Steuer Ausnahme Informationen ein Support Ticket für Microsoft:
 
-1. In the dashboard menu, under **Support**, choose **Partner support requests**.
-2. On the **Partner request** page, choose **New request**. (You can also view your open and closed support requests later on this page.)
-3. On the **Basics** step, under **CSP - billing and payments**, choose **Select an issue type** and select **Tax exemption request**.
-4. On the **Solutions** step, under **Do you need more help?** , choose **Yes**.
-5. On the **Details** step, fill out the **Issue details** form. Be sure to:
+1. Wählen Sie im Menü Dashboard unter **Support**die Option **Partner Support Anfragen**aus.
+2. Wählen Sie auf der Seite **Partner Anforderung** die Option **neue Anforderung**aus. (Sie können auch die offenen und geschlossenen Supportanfragen später auf dieser Seite anzeigen.)
+3. Wählen Sie im Schritt **Grundlagen** unter **CSP-Abrechnung und Zahlungen** **die Option Problemtyp auswählen** aus, und wählen Sie die Anforderung für die **Steuerbefreiung**aus.
+4. Wählen Sie im Schritt " **Lösungen** " unter **benötigen Sie weitere Hilfe?** die Option **Ja**aus.
+5. Füllen Sie im Schritt **Details** das Formular **Problem Details** aus. Achten Sie darauf,:
 
-    - Fill out all required fields.
-    - Include your **Microsoft ID** and **MPN ID** in the **Details** field.
-    - Include any supporting documentation to your ticket in the attachments field.
+    - Füllen Sie alle erforderlichen Felder aus.
+    - Fügen Sie Ihre **Microsoft-ID** und **MPN-ID** in das Feld **Details** ein.
+    - Fügen Sie im Feld Anhänge eine beliebige unterstützende Dokumentation für Ihr Ticket ein.
 
-6. Choose **Submit** to send in your support request. Microsoft will email you back for more information.
+6. Wählen **Sie senden aus** , um Ihre Supportanfrage zu senden. Microsoft wird Sie zurücksenden, um weitere Informationen zu erhalten.
 
 ## <a name="support"></a>Support
 
-For other questions about tax exemptions and refunds, request support in Partner Center. Es kann etwa zwei Wochen dauern, bis Microsoft Kontakt mit Ihnen aufnimmt, um das Problem zu beheben.
+Wenn Sie weitere Fragen zu Steuer Ausnahmen und Rückerstattungen haben, fordern Sie Unterstützung im Partner Center an. Es kann etwa zwei Wochen dauern, bis Microsoft Kontakt mit Ihnen aufnimmt, um das Problem zu beheben.
 
-For other tax-related documentation needs, please also request service in Partner Center.
+Für andere steuerrelevante Dokumentationsanforderungen wenden Sie sich bitte an den Dienst im Partner Center.

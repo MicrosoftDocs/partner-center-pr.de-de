@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how partners in the CSP program can buy, manage, sell, and cancel on-premise software subscriptions on behalf of customers in Partner Center.
+description: Erfahren Sie, wie Partner im CSP-Programm lokale Software Abonnements im Auftrag von Kunden im Partner Center kaufen, verwalten, verkaufen und abbrechen können.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner im CSP, direkte Partner, direkter CSP-Partner, indirekter CSP-Händler, direkter CSP, indirekter CSP, direktes Modell, indirektes Modell, indirekter Händler, indirekter Anbieter, Anbieter, Verteiler, Cloud Solution Provider-Programm
@@ -19,12 +19,12 @@ ms.locfileid: "74253541"
 ---
 # <a name="sell-on-premise-software-through-csp"></a>Verkaufen lokaler Software über das CSP-Programm
 
-Lokale Software in CSP unterstützt einen nahtlosen Übergang in die Cloud durch Einführung lokaler Software in einem cloudorientierten Programm.  This new offering helps bring the value-added partner to every purchase scenario as they provide a single platform to transact all Microsoft products. Als CSP können Sie nun über das Partner Center zusätzlich zu Open-, EA- und anderen Programmen lokale Software verkaufen. On-premise software in CSP is a new sales program and is not intended to replace any of Microsoft's other volume licensing programs. 
+Lokale Software in CSP unterstützt einen nahtlosen Übergang in die Cloud durch Einführung lokaler Software in einem cloudorientierten Programm.  Dieses neue Angebot bietet den Partnern Zugang zu allen Kaufszenarios, da es eine zentrale Plattform für Transaktionen in Bezug auf alle Microsoft-Produkte bietet. Als CSP können Sie nun über das Partner Center zusätzlich zu Open-, EA- und anderen Programmen lokale Software verkaufen. Lokale Software in CSP ist ein neues Vertriebsprogramm und soll keine anderen Volumen Lizenzierungs Programme von Microsoft ersetzen. 
  
-While ensuring the best overall customer value with on-premise software licensing options, we've also made the business model as partner-friendly as possible. Eine einfache Lizenzierung lokaler Software in CSP bedeutet Kostenvorhersagbarkeit und einen optimierten Verkaufsprozess für Sie. Dieses neue Geschäftsmodell vereinfacht Beschaffung, Verwaltung und Preisfindung für lokale Software für Ihre Kunden, während Sie sich darauf konzentrieren können, neue Geschäfte mit einem erweiterten Portfolio an Mehrwertlösungen für die IT-Verwaltung zu machen. 
+Obwohl wir den besten Gesamtwert der Kunden mit den Optionen für die lokale Software Lizenzierung sicherstellen, haben wir das Geschäftsmodell auch als Partner freundlicher gestaltet. Eine einfache Lizenzierung lokaler Software in CSP bedeutet Kostenvorhersagbarkeit und einen optimierten Verkaufsprozess für Sie. Dieses neue Geschäftsmodell vereinfacht Beschaffung, Verwaltung und Preisfindung für lokale Software für Ihre Kunden, während Sie sich darauf konzentrieren können, neue Geschäfte mit einem erweiterten Portfolio an Mehrwertlösungen für die IT-Verwaltung zu machen. 
 
 >[!NOTE]
->Lokale Software steht derzeit nur bestimmten Partnern zur Verfügung. To find out whether you're eligible, see your Microsoft contact. 
+>Lokale Software steht derzeit nur bestimmten Partnern zur Verfügung. Informationen dazu, ob Sie berechtigt sind, finden Sie unter Ihr Microsoft-Kontakt. 
 
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Kaufen von Softwareabonnements im Auftrag von Kunden
@@ -33,12 +33,12 @@ Um Softwareabonnements im Auftrag eines Kunden zu erwerben, wechseln Sie zur Det
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivieren und Verwalten von Softwareabonnements
 
-Once you've purchased your software, you and your customers need to download it. Führen Sie dazu die nachfolgend aufgeführten Schritte aus. 
+Nachdem Sie Ihre Software erworben haben, müssen Sie und ihre Kunden Sie herunterladen. Führen Sie dazu die nachfolgend aufgeführten Schritte aus. 
 
 >[!NOTE]
 >Sie müssen ein Administrator-Agent sein, um Schlüssel abrufen und Software herunterladen zu können. 
 
-1. Wechseln Sie zur Detailseite des Kunden, und wählen Sie dann **Software** aus. You'll see a list of all the software you've purchased on behalf of the customer. 
+1. Wechseln Sie zur Detailseite des Kunden, und wählen Sie dann **Software** aus. Sie sehen eine Liste der Software, die Sie im Namen des Kunden erworben haben. 
 2.  Erweitern Sie das Produkt, das Sie herunterladen möchten. Wählen Sie im Feld **Produkt auswählen** die **Version**, **Sprache** sowie **Dateityp/Betriebssystem** aus. 
 3.  Klicken Sie auf **Senden**, um die spezifischen Produkte anzuzeigen. 
 4.  Wählen Sie **Schlüssel und Downloads abrufen**. 
@@ -60,7 +60,7 @@ Gehen Sie wie folgt vor, um einen Kauf zu stornieren. Sobald die Stornierung abg
     -   Grund für Rückerstattung
     -   Angeforderter Betrag
 
-2.  On the customer's details page, select **Software**. You'll see a list of all the software you've purchased. 
+2.  Wählen Sie auf der Seite Details des Kunden die Option **Software**aus. Sie sehen eine Liste der Software, die Sie gekauft haben. 
 
 3.  Suchen Sie die Software, die Sie stornieren möchten, und wählen Sie **Abbrechen**. Die Seite **Melden eines Problems mit Partner Center** wird geöffnet. 
 
@@ -78,4 +78,4 @@ Gehen Sie wie folgt vor, um einen Kauf zu stornieren. Sobald die Stornierung abg
 
 8.  Wenn Sie aus einem beliebigen Grund eine Datei anfügen möchten, wählen Sie **Dateien hinzufügen** aus. Dieser Schritt ist optional. 
 
-9.  When you're finished, select **Submit**.
+9.  Wenn Sie fertig sind, wählen Sie über **Mitteln**aus.

@@ -1,10 +1,10 @@
 ---
-title: Find your customer's domain name and directory ID | Partner Center
+title: Suchen Sie den Domänen Namen und die Verzeichnis-ID Ihres Kunden. Partner Center
 ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to find your customer's domain name and directory ID when submitting a claim.
+description: Erfahren Sie, wie Sie den Domänen Namen und die Verzeichnis-ID Ihres Kunden beim Einreichen eines Anspruchs finden.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel, OSA, ISV, Umsatzzuordnung, Domänenname, Verzeichnis-ID
@@ -16,14 +16,14 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253631"
 ---
-# <a name="find-your-customers-domain-name-and-directory-id"></a>Find your customer's domain name and directory ID
+# <a name="find-your-customers-domain-name-and-directory-id"></a>Suchen Sie den Domänen Namen und die Verzeichnis-ID Ihres Kunden.
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 
 1.  Bitten Sie Ihren Kunden, das [Microsoft Azure-Portal](https://ms.portal.azure.com/#home) zu öffnen und **Azure Active Directory** auszuwählen. 
 
-2.  In your customer's **Overview** section, the domain name appears directly above the company name.  
+2.  Der Domänen Name wird im Abschnitt **Übersicht** Ihres Kunden direkt oberhalb des Firmennamens angezeigt.  
 
-3.  Select **Manage**, and then **Properties** to display the company's Directory ID.
+3.  Wählen Sie **Verwalten**und dann **Eigenschaften** aus, um die Verzeichnis-ID des Unternehmens anzuzeigen.

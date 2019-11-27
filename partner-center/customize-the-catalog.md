@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to customize the Microsoft catalog to make it easier to access the partner offers or products your organization most uses.
+description: Erfahren Sie, wie Sie den Microsoft-Katalog anpassen können, um den Zugriff auf die von Ihrer Organisation am häufigsten verwendeten Partnerangebote oder Produkte zu vereinfachen.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.author: evansma
@@ -18,7 +18,7 @@ ms.locfileid: "74252118"
 ---
 # <a name="customize-the-catalog"></a>Anpassen des Katalogs
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government

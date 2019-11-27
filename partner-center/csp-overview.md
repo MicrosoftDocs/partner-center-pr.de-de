@@ -69,9 +69,9 @@ Bevor Sie CSP-Angebote im Namen eines Kunden bestellen können, muss der Kunde d
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>Was kann ich über das CSP-Programm verkaufen?
 
-Sie können das gesamte Spektrum der [Microsoft Cloud Services](https://partner.microsoft.com/cloud-solution-provider/products-and-services) verkaufen sowie eine Vielzahl zusätzlicher Angebote, die sich häufig ändern. Wenn Sie die CSP-Angebote für den aktuellen Monat anzeigen möchten, melden Sie sich beim Partner Center an, und wechseln Sie dann zur Seite mit den [**Preisen und angeboten**](https://partnercenter.microsoft.com/pcv/sales) .
+Sie können das gesamte Spektrum von [Microsoft Cloud Services](https://partner.microsoft.com/cloud-solution-provider/products-and-services) sowie eine Vielzahl zusätzlicher Angebote verkaufen, die sich häufig ändern. Wenn Sie die CSP-Angebote für den aktuellen Monat anzeigen möchten, melden Sie sich beim Partner Center an, und wechseln Sie dann zur Seite mit den [**Preisen und angeboten**](https://partnercenter.microsoft.com/pcv/sales) .
 
-## <a name="see-also"></a>Weitere Informationen 
+## <a name="see-also"></a>Siehe auch 
 
 
 |**Informationen zu diesem**   |**Artikel**   |

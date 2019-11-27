@@ -18,24 +18,24 @@ ms.locfileid: "74189080"
 ---
 # <a name="multi-partner-support"></a>Support für mehrere Partner
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
 
-The Partner Center's multi-partner feature supports scenarios when a customer wants to work with more than one partner. Beispielsweise möchte ein Kunde mit einem Partner aufgrund seiner Kenntnisse in Bezug auf Office 365, gleichzeitig aber mit einem anderen Partner zusammenarbeiten, der auf Microsoft Azure spezialisiert ist. 
+Die Multi-Partner-Funktion von Partner Center unterstützt Szenarien, in denen ein Kunde mit mehr als einem Partner arbeiten möchte. Beispielsweise möchte ein Kunde mit einem Partner aufgrund seiner Kenntnisse in Bezug auf Office 365, gleichzeitig aber mit einem anderen Partner zusammenarbeiten, der auf Microsoft Azure spezialisiert ist. 
 
-An Azure CSP tenant can include an additional Azure subscription from a different CSP partner.
+Ein Azure CSP-Mandant kann ein zusätzliches Azure-Abonnement von einem anderen CSP-Partner enthalten.
 
 Um das Multipartner-Feature in Partner Center zu verwenden, bitten Sie den Kunden, Ihnen delegierte Administratorrechte einzuräumen. Unter [Beantragen einer Partnerschaft mit einem Kunden](request-a-relationship-with-a-customer.md) finden Sie Informationen zum Herstellen einer Beziehung mit einem Kunden, der bereits mit einem Partner arbeitet.
 
 Folgendes ist mit der Multipartner-Funktionalität nicht möglich:
 
-- Change any of the customer's existing subscriptions
+- Ändern der vorhandenen Abonnements des Kunden
 
-- Transition the customer's existing subscriptions or account ownership
+- Übertragung der vorhandenen Abonnements oder des Konto Besitzes des Kunden
 
-- Change the terms or customer's obligations for any of their existing subscriptions
+- Ändern der Bedingungen oder der Kunden Verpflichtungen für vorhandene Abonnements
 
 - Ändern des registrierten Abonnementberaters für ein Abonnement
 

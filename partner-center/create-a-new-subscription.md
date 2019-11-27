@@ -73,7 +73,7 @@ Als Partner im CSP-Programm können Sie nur **Lizenz basierte Saas-** Abonnement
     
     - Wenn Ihr Abonnement eine 30-tägige kostenlose Testversion enthält, wird der kostenlose Testzeitraum automatisch angewendet. Als Partner im CSP-Programm können Sie den kostenlosen Testzeitraum für Angebote, die Sie für Kunden erwerben, nicht aufheben. Sobald der kostenlose Testzeitraum endet, beginnt die Abonnement Laufzeit, und das Abonnement wird in "bezahlt" konvertiert. Das Abonnement wird dann nach dem gleichen Zeitplan automatisch erneuert.
 
-## <a name="suspend-or-cancel-a-subscription"></a>Anhalten oder Kündigen eines Abonnements
+## <a name="suspend-or-cancel-a-subscription"></a>Aussetzen oder Stornieren eines Abonnements
 
 Partner können ein Abonnement auf Anforderung des Kunden, bei Nichtbezahlung oder bei Betrug aussetzen oder kündigen.
 
@@ -87,11 +87,11 @@ Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Be
 
 3. Wählen Sie das Abonnement aus, das Sie verwalten möchten.
 
-4. Wählen Sie im Abschnitt **Status** den Eintrag **Ausgesetzt** aus. **Übermitteln** Sie dann Ihre Änderungen.
+4. Wählen Sie im Abschnitt **Status** den Eintrag **Ausgesetzt** aus. **Übermitteln** Sie Ihre Änderungen.
 
 5. Alle Daten werden gelöscht, solange das Abonnement nicht innerhalb von 90 Tagen oder 90 Tagen zuzüglich der Anzahl der Tage zwischen der Eröffnung des Kontos und dem ersten Abrechnungszeitraum (maximal 120 Tage) reaktiviert wird.
 
-Wenn Sie ein Abonnement stornieren, gibt das Datum, das unter der Schaltfläche **Ausgesetzt** angezeigt wird, an, wann das Abonnement automatisch ablaufen würde, wenn Sie es nicht erneut aktivieren. Weitere Informationen finden Sie unter Häufig gestellte [Fragen zu neuen Abrechnungs Features](faq-about-new-billing-features.md).
+Wenn Sie ein Abonnement aussetzen, gibt das Datum, das unterhalb der Schaltfläche **Ausgesetzt** angezeigt wird, an, wann das Abonnement automatisch ablaufen würde, wenn Sie es nicht erneut aktivieren. Weitere Informationen finden Sie unter Häufig gestellte [Fragen zu neuen Abrechnungs Features](faq-about-new-billing-features.md).
 
 ### <a name="cancel-a-subscription"></a>Stornieren eines Abonnements
 
@@ -122,7 +122,7 @@ Gehen Sie folgendermaßen vor, um ein Lizenz basiertes Saas-Abonnement von einem
 
 3. Suchen Sie das Abonnement, das Sie abbrechen möchten.
 
-4. Wählen Sie in der Spalte **Status** den Wert **Abbrechen**aus. **Übermitteln** Sie dann Ihre Änderungen.
+4. Wählen Sie in der Spalte **Status** den Wert **Abbrechen**aus. **Übermitteln** Sie Ihre Änderungen.
 
 5. Wenn ein Dialogfeld angezeigt wird, füllen Sie alle relevanten Details aus, und wählen Sie dann **senden**aus.
 
@@ -149,7 +149,7 @@ So beenden Sie das automatische Erneuern eines aktiven Marketplace-Abonnements:
 
 6. Wählen Sie **Übermitteln** aus.
 
-## <a name="see-also"></a>Weitere Informationen
+## <a name="see-also"></a>Siehe auch
 
 - [Erwerben Sie kommerzielle Marketplace-Produkte für Ihre Kunden](csp-commercial-marketplace-purchase.md)
 - [Verwalten Sie kommerzielle Marketplace-Produkte für Ihre Kunden](csp-commercial-marketplace-manage.md)

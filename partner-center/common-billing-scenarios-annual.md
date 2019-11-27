@@ -2,7 +2,7 @@
 title: Allgemeine Abrechnungsszenarien | Partner Center
 ms.topic: article
 ms.date: 11/21/2019
-description: Common billing scenarios in Partner Center for annual billing (such as adding new subscriptions, adding licenses before your billing date, change license quantity, and suspending and reactivating subscriptions).
+description: Häufige Abrechnungs Szenarien im Partner Center für die jährliche Abrechnung (z. b. das Hinzufügen neuer Abonnements, das Hinzufügen von Lizenzen vor dem Abrechnungsdatum, das Ändern der Lizenz Menge und das Anhalten und erneute Aktivieren von Abonnements).
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
@@ -15,11 +15,11 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389628"
 ---
-# <a name="annual-billing-scenarios"></a>Annual billing scenarios
+# <a name="annual-billing-scenarios"></a>Jährliche Abrechnungs Szenarien
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable if you use annual billing in Partner Center.
+Diese Beispiel [Szenarien gelten für allgemeine Abrechnungs Szenarien](common-billing-scenarios.md) , wenn Sie die jährliche Abrechnung in Partner Center verwenden.
 
-## <a name="new-annual-subscription"></a>New annual subscription
+## <a name="new-annual-subscription"></a>Neues Jahresabonnement
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine jährliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
@@ -27,7 +27,7 @@ Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein ne
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13.01.2018|12.01.2019|Anteilige Gebühren beim Kauf|48,00|1|48,00
 
-## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>Add license after subscription anniversary date but before billing date
+## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>Lizenz nach Abonnement Jahrestag, aber vor Abrechnungsdatum hinzufügen
 
 Sie erwerben am 11.02.2017 ein neues Abonnement mit einer Lizenz für 211,20 USD pro Jahr. Das Abonnementdatum ist der 11. in jedem Monat. Das Microsoft-Abrechnungssystem erstellt folgende Rechnungspositionen:
 
@@ -41,7 +41,7 @@ Am 12.02.2017 erwerben Sie eine zweite Lizenz. Ihr Abrechnungsdatum ist der 14.0
 
 Zum Abonnementdatum 11.03.2017 generiert das Microsoft-Abrechnungssystem die folgenden Rechnungspositionen für die Lizenzerhöhung am 12.02.2017:
 
-- $211.20 credit for period 2/11/17 – 2/10/18.
+- $211,20-Gutschrift für den Zeitraum 2/11/17 – 2/10/18.
 - 0,58 USD anteilige Gebühr pro Lizenz für 1 Lizenz im Zeitraum vom 11.02.2017 bis zum 11.02.2017.
 - 15,62 USD anteilige Gebühr pro Lizenz für 2 Lizenzen im Zeitraum vom 12.02.2017 bis 10.03.2017.
 - 195,00 USD anteilige Gebühr pro Lizenz für 2 Lizenzen im Zeitraum vom 11.03.2017 bis zum 10.02.2018.
@@ -59,7 +59,7 @@ Am nächsten Abrechnungsdatum, dem 14.03.2017, werden eine Rechnung und eine Kon
 
 Am 11.02.2018 wird das Abonnement um weitere 12 Monate verlängert.
 
-## <a name="change-license-quantity"></a>Change license quantity
+## <a name="change-license-quantity"></a>Ändern der Lizenz Anzahl
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine jährliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
@@ -87,7 +87,7 @@ Es gibt 346 Tage im Dienstzeitraum vom 01.02.2018 – 12.01.2019.
 
 Der Preis pro Einheit beträgt also 44,98 (346 x 0,13 x 2).
 
-## <a name="suspend-before-30-days"></a>Suspend before 30 days
+## <a name="suspend-before-30-days"></a>Vor 30 Tagen aussetzen
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine jährliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
@@ -101,7 +101,7 @@ Am 1. Februar setzen Sie Ihr Abonnement aus. Am 15. Februar enthält die lizenzb
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13.01.2018|12.01.2019|Stornierungsgebühr|-48,00|1|-48,00
 
-## <a name="suspend-after-30-days"></a>Suspend after 30 days
+## <a name="suspend-after-30-days"></a>Nach 30 Tagen aussetzen
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine jährliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
@@ -124,7 +124,7 @@ Es gibt 318 Tage im Dienstzeitraum vom 01.03.2018 bis zum 12.01.2019.
 
 Der Preis pro Einheit beträgt also = 41,34 (318 x 0,13 x 1). Da dies eine Gutschrift ist, beträgt der Preis pro Einheit -41,34.
 
-## <a name="suspend-and-reactivate"></a>Suspend and reactivate
+## <a name="suspend-and-reactivate"></a>Aussetzen und reaktivieren
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine jährliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 

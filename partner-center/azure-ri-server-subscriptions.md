@@ -53,7 +53,7 @@ Mit einer unglaublichen Kombination aus einem überzeugenden Preis und beispiell
 #### <a name="server-subscriptions"></a>Serverabonnements
 -   Windows Server
 -   Remotedesktopdienste-CALs (RDS)
--   SQL Server
+-   SQL Server
 
 #### <a name="linux-isv-annual-subscriptions"></a>Jährliche Linux-ISV-Abonnements
 -   SUSE Linux
@@ -77,7 +77,7 @@ Um zu verstehen, wie Sie Azure Reservations bei Ihren Kunden positionieren und e
 
 ## <a name="resources"></a>Ressourcen: 
 
-Im folgenden finden Sie eine umfassende Liste der Ressourcen, die Ihnen helfen, Azure Reservations über Partner Center-Partner schnell zu integrieren: 
+Im Folgenden finden Sie eine umfassende Liste der Ressourcen, die Ihnen helfen, Azure Reservations über Partner Center-Partner schnell zu integrieren: 
 
 **Vertriebsbereitschaft**
 
@@ -124,7 +124,7 @@ Im folgenden finden Sie eine umfassende Liste der Ressourcen, die Ihnen helfen, 
 
 ## <a name="azure-hybrid-benefit"></a>Azure-Hybridvorteil
 
-Der [Azure-Hybridvorteil](https://azure.microsoft.com/pricing/hybrid-benefit) unterstützt Sie darin, mehr Wert aus Ihren Windows Server-Lizenzen zu erhalten und bei virtuellen Computern bis zu 47 Prozent* zu sparen. Sie können die Vorteile mit den Windows Server Datacenter und Standard-Editionslizenzen mit Software Assurance verwenden. Je nach Edition können Sie Ihre Lizenzen zum Ausführen von Windows Server-Computern in Azure konvertieren oder erneut verwenden und grundlegende Compute Datenraten zahlen (Tarife für Linux-VM).
+Der [Azure-Hybridvorteil](https://azure.microsoft.com/pricing/hybrid-benefit) hilft Ihnen, mehr Nutzen aus Ihren Windows Server-Lizenzen zu ziehen und bei virtuellen Computern bis zu *47 % zu sparen. Sie können mit Windows Server Datacenter und Standard Edition-Lizenzen mit Software Assurance in den Genuss des Vorteils kommen. Je nach Edition können Sie Ihre Lizenzen zum Ausführen von Windows Server-VMs in Azure konvertieren oder erneut verwenden und einen niedrigeren Computetarif (Tarife für Linux-VMs) zahlen.
 
 Siehe auch [Azure-Hybridvorteil – häufig gestellte Fragen](https://azure.microsoft.com/pricing/hybrid-benefit/faq/)
 

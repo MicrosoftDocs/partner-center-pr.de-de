@@ -3,7 +3,7 @@ title: Analysieren von Abonnements und Lizenzen | Partner Center
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn how to use the metrics in the Subscription and license analytics page to identify your successes and areas that need more attention.
+Description: Erfahren Sie, wie Sie die Metriken auf der Seite Abonnement-und Lizenz Analyse verwenden, um Ihre Erfolge und Bereiche zu identifizieren, die mehr Aufmerksamkeit erfordern.
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
@@ -20,11 +20,11 @@ ms.locfileid: "74253369"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analysieren von Abonnements und Lizenzen 
 
-**Zielgruppe**
+**Gilt für**
 
 - Partner Center
 
-Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Analysen zu Abonnements und Lizenzen**, um Ihre Erfolge sowie die Bereiche zu bestimmen, die mehr Aufmerksamkeit erfordern. Nutzen Sie diese Informationen bei der Planung neuer Geschäftsziele.
+Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Analysen zu Abonnements und Lizenzen**, um Ihre Erfolge sowie die Bereiche zu bestimmen, die mehr Aufmerksamkeit erfordern. Verwenden Sie diese Informationen für die Planung neuer Geschäftsziele.
 
 > [!NOTE]
 > Die Analysen zu Abonnements und Lizenzen stehen nur Partnern im Cloud Solution Provider-Programm zur Verfügung.

@@ -3,7 +3,7 @@ title: Analysieren der Leistung indirekter Vertriebspartner | Partner Center
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn how to use analytics to find out how your indirect resellers are doing, both their successes and areas that may need more attention.
+Description: Erfahren Sie, wie Sie mithilfe von Analytics ermitteln können, wie ihre indirekten Vertriebspartner sind, und zwar sowohl für ihre Erfolge als auch für Bereiche, die möglicherweise mehr Aufmerksamkeit erfordern
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
@@ -20,11 +20,11 @@ ms.locfileid: "74253374"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>Analysieren der Leistung indirekter Händler 
 
-**Zielgruppe**
+**Gilt für**
 
 - Partner Center
 
-Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Analysen für Vertriebspartner**, um Ihre Erfolge, die Erfolge Ihrer indirekten Vertriebspartner sowie die Bereiche auszumachen, die mehr Aufmerksamkeit erfordern. Nutzen Sie diese Informationen bei der Planung neuer Geschäftsziele.
+Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Analysen für Vertriebspartner**, um Ihre Erfolge, die Erfolge Ihrer indirekten Vertriebspartner sowie die Bereiche auszumachen, die mehr Aufmerksamkeit erfordern. Verwenden Sie diese Informationen für die Planung neuer Geschäftsziele.
 
 > [!NOTE]
 > Die Analysen indirekter Vertriebspartner stehen nur Partnern im Cloud Solution Provider-Programm zur Verfügung.

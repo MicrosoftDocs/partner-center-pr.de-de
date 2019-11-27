@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to upgrade or modify a customer's subscription, such as adding more licenses or seats or moving to a different version with other services.
+description: Erfahren Sie, wie Sie das Abonnement eines Kunden aktualisieren oder ändern, indem Sie beispielsweise weitere Lizenzen oder Arbeitsplätze hinzufügen oder zu einer anderen Version mit anderen Diensten wechseln.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 ms.author: evansma
@@ -19,7 +19,7 @@ ms.locfileid: "74253142"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 
@@ -82,11 +82,11 @@ Upgrades von Abonnements können erfolgen, wenn die folgenden Bedingungen zutref
 
 -   Sie müssen delegierte Administratorrechte für diesen Kunden und den Dienst besitzen. Hier erfahren Sie, wie Sie [delegierte Administratorrechte anfordern](request-a-relationship-with-a-customer.md).
 
--   The customer can't already have subscriptions that include the additional services.
+-   Der Kunde kann nicht bereits über Abonnements verfügen, die die zusätzlichen Dienste enthalten.
 
--   The customer can't already have the subscriptions you are trying to upgrade them to.
+-   Der Kunde kann nicht bereits über die Abonnements verfügen, auf die Sie ein Upgrade durchführen möchten.
 
-It is possible, in the latter two cases that the customer may have purchased those subscriptions or services from another partner or another channel, and they won't be able to purchase them from you unless they cancel their existing ones first. Weitere Informationen finden Sie unter [Multichannel](multichannel.md).
+In den letzten beiden Fällen ist es möglich, dass der Kunde diese Abonnements oder Dienste von einem anderen Partner oder einem anderen Kanal gekauft hat, und er kann Sie nicht von Ihnen kaufen, es sei denn, Sie kündigen zuerst die vorhandenen Abonnements an. Weitere Informationen finden Sie unter [Multichannel](multichannel.md).
 
 Weitere Informationen über die Auswirkung auf die Abrechnung finden Sie unter den Details zur Kündigung eines Abonnements oder dem Hinzufügen eines neuen Abonnements in [Allgemeine Abrechnungsszenarien](common-billing-scenarios.md).
 

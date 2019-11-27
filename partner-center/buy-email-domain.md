@@ -1,10 +1,10 @@
 ---
-title: How to get a work email address | Partner Center
+title: So erhalten Sie eine geschäftliche e-Mail-Adresse | Partner Center
 ms.topic: article
 ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn about the need for an email domain before you can set up an Azure AD account in Partner Center. Learn also how to purchase an email domain.
+description: Erfahren Sie, wie Sie eine e-Mail-Domäne benötigen, bevor Sie ein Azure AD Konto in Partner Center einrichten können. Erfahren Sie außerdem, wie Sie eine e-Mail-Domäne erwerben.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
@@ -15,6 +15,6 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74252815"
 ---
-# <a name="how-to-get-a-work-email-address"></a><span data-ttu-id="f9bda-104">How to get a work email address</span><span class="sxs-lookup"><span data-stu-id="f9bda-104">How to get a work email address</span></span>
+# <a name="how-to-get-a-work-email-address"></a><span data-ttu-id="fabee-104">So erhalten Sie eine geschäftliche e-Mail-Adresse</span><span class="sxs-lookup"><span data-stu-id="fabee-104">How to get a work email address</span></span>
 
-<span data-ttu-id="f9bda-105">Your company needs to purchase an email domain in order for you to be able to set up work email addresses for your employees.</span><span class="sxs-lookup"><span data-stu-id="f9bda-105">Your company needs to purchase an email domain in order for you to be able to set up work email addresses for your employees.</span></span> <span data-ttu-id="f9bda-106">Work with your IT department to buy an email domain since this is a technical process.</span><span class="sxs-lookup"><span data-stu-id="f9bda-106">Work with your IT department to buy an email domain since this is a technical process.</span></span> <span data-ttu-id="f9bda-107">Use the new email to set up your Azure AD tenant and your Partner Center account.</span><span class="sxs-lookup"><span data-stu-id="f9bda-107">Use the new email to set up your Azure AD tenant and your Partner Center account.</span></span>
+<span data-ttu-id="fabee-105">Ihr Unternehmen muss eine e-Mail-Domäne erwerben, damit Sie geschäftliche e-Mail-Adressen für Ihre Mitarbeiter einrichten können.</span><span class="sxs-lookup"><span data-stu-id="fabee-105">Your company needs to purchase an email domain in order for you to be able to set up work email addresses for your employees.</span></span> <span data-ttu-id="fabee-106">Arbeiten Sie mit Ihrer IT-Abteilung zusammen, um eine e-Mail-Domäne zu erwerben.</span><span class="sxs-lookup"><span data-stu-id="fabee-106">Work with your IT department to buy an email domain since this is a technical process.</span></span> <span data-ttu-id="fabee-107">Richten Sie mit der neuen e-Mail Ihren Azure AD-Mandanten und Ihr Partner Center-Konto ein.</span><span class="sxs-lookup"><span data-stu-id="fabee-107">Use the new email to set up your Azure AD tenant and your Partner Center account.</span></span>

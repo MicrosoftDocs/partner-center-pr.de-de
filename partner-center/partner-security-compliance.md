@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
-ms.openlocfilehash: 52a87b80c68ec44263a7e402ea458b918aa952df
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: f3736f73f983fce74620df2f7a8ad1d6cce19984
+ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661116"
+ms.lasthandoff: 11/21/2019
+ms.locfileid: "74295255"
 ---
 # <a name="partner-security-requirements-status"></a>Status der Sicherheitsanforderungen für Partner
 
@@ -105,7 +105,7 @@ Wenn Sie eine Drittanbieter-MFA-Lösung verwenden, bestimmen Sie, wie Sie diese 
 
 * **Benutzerdefiniertes Steuerelement**: Ein benutzerdefiniertes Azure AD-Steuerelement kann nicht verwendet werden, um zu ermitteln, ob ein Benutzer die MFA-Überprüfung über eine MFA-Drittanbieterlösung abgeschlossen hat. Daher erscheint jeder Benutzer, der die MFA-Überprüfung mithilfe eines benutzerdefinierten Steuerelements abgeschlossen hat, für Azure AD (und in der Folge auch für das Partner Center) als mit nicht abgeschlossener MFA-Überprüfung angemeldet. Es empfiehlt sich, wo immer möglich dem Identitätsverbund bei der Integration in Azure Ad gegenüber benutzerdefinierten Steuerelementen den Vorzug zu geben.
 
-### <a name="identity-which-users-have-logged-into-partner-center-without-mfa"></a>Bestimmen der Benutzer, die sich ohne MFA beim Partner Center angemeldet haben
+### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>Identifizieren der Benutzer, die sich ohne MFA beim Partner Center angemeldet haben
 
 Es kann sinnvoll sein, zu identifizieren, welche Benutzer sich ohne MFA-Überprüfung beim Partner Center anmelden und sie mithilfe Ihrer aktuellen MFA-Implementierung zu überprüfen. Sie können den [Azure AD-Anmeldebericht](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) verwenden, um herauszufinden, ob ein Benutzer die MFA-Überprüfung abgeschlossen hat oder nicht. Der Azure AD-Anmeldebericht steht zurzeit nur Partnern zur Verfügung, die Azure AD Premium oder eine andere O365-SKU abonniert haben, die Azure AD Premium enthält (beispielsweise EMS).
 

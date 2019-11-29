@@ -1,21 +1,21 @@
 ---
 title: Geschäftskonten und Partner Center | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Damit ein Partner Center-Konto erstellt werden kann, muss Ihr Unternehmen ein Geschäftskonto besitzen. Mit einem aktiven Abonnement für Microsoft Azure oder Office 365 besitzen Sie bereits ein Geschäftskonto.
+description: Hier erfahren Sie, warum Sie zum Erstellen eines Partner Center-Kontos ein Geschäftskonto benötigen und ob Sie bereits ein Geschäftskonto haben.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Geschäftskonto, E-Mail-Adresse, Mandant, Azure-Mandant, Konto erstellen, Domänenname
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 0bca97c9bbe153aa705c149ce8bd3ad5e38d72d9
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: c8b731eeed6590e040eda18cb0e7093b389447b4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096552"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253320"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Das Geschäftskonto Ihrer Firma und Partner Center  
 

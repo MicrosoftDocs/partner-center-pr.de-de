@@ -1,20 +1,20 @@
 ---
 title: Werden Sie zum globalen Administrator für Ihr Unternehmen | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Damit Sie viele der Aufgaben im Partner Center erledigen können, müssen Sie zunächst den Besitz Ihrer Domain bestätigen. Viele Aufgaben im Partner Center erfordern einen globalen Administrator. Wenn Ihr Unternehmen noch keinen hat, können Sie globaler Administrator werden.
+description: Zum Arbeiten in Partner Center müssen Sie zunächst den Besitz Ihrer Domäne überprüfen. Hier erfahren Sie, wie Sie dazu vorgehen müssen und wie Sie ein globaler Administrator werden, der Benutzer hinzufügen kann.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 keywords: Domäne, Domänenüberprüfung, Domäne überprüfen, globaler Administrator, Benutzerrollen, Berechtigungen
-ms.openlocfilehash: d6d358439056a9d10e7966148e1f3a76173d0cf6
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 8cc6dc8839341c20fefa48a21e62bc1350102436
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096512"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253216"
 ---
 # <a name="verify-your-domain-ownership"></a>Überprüfen Ihres Domänenbesitzes
 

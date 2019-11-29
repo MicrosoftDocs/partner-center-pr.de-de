@@ -1,20 +1,20 @@
 ---
 title: Leitfaden zum Migrieren von PMC zu Partner Center | Partner Center
 ms.topic: article
-ms.date: 04/25/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Wichtige Informationen zur Migration Ihres Unternehmens von PMC zu Partner Center
+description: Hier erfahren Sie, wie Sie Ihr Unternehmen vom Partner Membership Center (PMC) zu Partner Center migrieren.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: high
-ms.openlocfilehash: a7db9b3241c239ea3de4f25a3be04ead01bb2718
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: f9ce53adddd2faecf22ef795e8ffe97189c57353
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096496"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252210"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Leitfaden zum Migrieren von PMC zu Partner Center
 

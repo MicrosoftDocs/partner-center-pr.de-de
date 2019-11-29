@@ -1,21 +1,21 @@
 ---
 title: Erstellen eines Unternehmensprofils | Partner Center
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erstellen Sie ein im Partner Center Unternehmensprofil, um Vertriebsleads von Microsoft zu erhalten.
+description: Hier erfahren Sie, wie Sie Vertriebsleads von Microsoft erhalten. Ein wichtiger Schritt besteht darin, ein Unternehmensprofil in Partner Center zu erstellen, anhand dessen Kunden Sie suchen können.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, Empfehlungen, Vertriebskontakte, C2PC, Unternehmensprofil, Unternehmen vermarkten, Partner finden, Lösungsanbieter finden, Unternehmensprofil, Marketingprofil
 ms.localizationpriority: high
-ms.openlocfilehash: 75c38b5844f60fc21326c546ac97db9868ab0e02
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e9ff4e1df06e0a25142d42e8ba380654c9daed0b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653611"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252663"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page

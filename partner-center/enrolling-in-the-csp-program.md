@@ -1,19 +1,19 @@
 ---
 title: Registrieren für das Programm für Cloud Solution Provider | Partner Center
 ms.topic: article
-ms.date: 03/20/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lernen Sie die verschiedenen Modelle für den Verkauf in CSP kennen, und finden Sie heraus, welche Lösung am besten zu Ihrem Unternehmen passt.
+description: Machen Sie sich mit den verschiedenen Modellen für den Verkauf im Cloud Solution Provider-Programm (CSP) vertraut, und ermitteln Sie, welches Modell für Ihr Unternehmen am besten geeignet ist.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 5b13ee39b514da197abd64eb64b6086c6ce11ecc
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 00a46c91aedf9261722d29ed7ac5357fe1256ef7
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653197"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252157"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud-Lösungsanbieter
 

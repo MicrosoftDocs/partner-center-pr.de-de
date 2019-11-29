@@ -1,21 +1,21 @@
 ---
-title: 'Azure-Plan: Abrechnung | Partner Center'
+title: Azure-Plan – Abrechnung | Partner Center
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Beschreibt die Struktur der Rechnungs- und Abstimmungsdateien für den Azure-Plan.
+description: Hier erfahren Sie, wie Sie auf die Struktur der Rechnungs-/Abstimmungsdatei im Zusammenhang mit der Abrechnung für den Azure-Plan zugreifen und sie verstehen können.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: fcf5cc85f0e561f2c82e691da4e56667c5925b05
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: b52030f4956f8b3f86eec5aad72628dc64099729
+ms.sourcegitcommit: f5dbf96c1dece9c766e9b4c1527e599872e2ab14
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661165"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "74536450"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Neues E-Commerce-Verfahren in CSP: Azure-Abrechnung 
 
@@ -42,7 +42,7 @@ Abrechnungen im Rahmen eines Azure-Plans bieten ein vereinfachtes Abrechnungsver
 
 - **Partnerincentives**: 45 Tage nach dem Ende des Rechnungsmonats bezahlt.
 
-##  <a name="access-your-invoices-and-reconciliation-files"></a>Zugriff auf Ihre Rechnungen und Abstimmungsdateien
+## <a name="access-your-invoices-and-reconciliation-files"></a>Zugriff auf Ihre Rechnungen und Abstimmungsdateien
 
 Der globale Administrator oder der Abrechnungsadministrator Ihres Unternehmens erhält eine E-Mail, wenn eine Rechnung zum Anzeigen bereit ist. 
 
@@ -141,7 +141,7 @@ Zum Anzeigen früherer Rechnungen und Abstimmungsdateien erweitern Sie die Zeile
 
 ## <a name="invoice-in-customer-currency"></a>Rechnung in Währung des Kunden 
 
-Im Rahmen eines Azure-Plans erbrachte Azure-Dienste haben Preise in USD und werden in der Landeswährung des Kunden abgerechnet. Wenn die Abrechnungswährung nicht USD ist, wird der zugrunde gelegte Wechselkurs auf der letzten Seite der Rechnung angezeigt. Wechselkurse werden monatlich bestimmt und auf die folgende Rechnung angewendet. Eine vollständige Liste der Landeswährungen finden Sie in der [New commerce offers country availability and customer currency matrix](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V) (Matrix für die Länderverfügbarkeit neuer E-Commerce-Angebote und Kundenwährungen). 
+Im Rahmen eines Azure-Plans erbrachte Azure-Dienste haben Preise in USD und werden in der Landeswährung des Kunden abgerechnet. Wenn die Abrechnungswährung nicht USD ist, wird der zugrunde gelegte Wechselkurs auf der letzten Seite der Rechnung angezeigt. Wechselkurse werden monatlich bestimmt und auf die folgende Rechnung angewendet. Eine vollständige Liste der Landeswährungen finden Sie in der [new commerce offers country availability and customer currency matrix](https://go.microsoft.com/fwlink/?linkid=2112354) (Matrix für die Länderverfügbarkeit neuer E-Commerce-Angebote und Kundenwährungen). 
 
 Microsoft nutzt [Thompson Reuters](https://developers.thomsonreuters.com/content/wm-company) zum Ermitteln des Wechselkurses, der für die Konvertierung aus der Preiswährung in die Abrechnungswährung verwendet wird. Die Wechselkurse werden aktualisiert und stehen am Tag vor dem Ersten des Monats zur Verfügung, für den sie gelten.
 

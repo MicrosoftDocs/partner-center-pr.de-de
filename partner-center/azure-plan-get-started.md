@@ -1,21 +1,21 @@
 ---
 title: 'Umstellung auf Azure-Plan: Einstieg | Partner Center'
 ms.topic: article
-ms.date: 11/07/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erwerben von Abonnements unter der neuen Commerce-Überfläche für Azure
+description: Hier erfahren Sie etwas über die Commerce-Funktionalität des Azure-Plans zum Kauf von Azure-Diensten zu nutzungsbasierten Tarifen für Kunden. Informieren Sie sich auch über die neuen Sicherheitsanforderungen.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, Azure-Plan, Abonnements erwerben, Abonnements
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 0e74d12aeb2daab30530a35326bcdaba5c07214d
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: 7b59371ffe2208fcfd8d90f4697e88dfc9a1233b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661134"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253292"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Umstellung auf Azure-Plan: Einstieg
 

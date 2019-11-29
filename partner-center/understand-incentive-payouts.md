@@ -8,12 +8,12 @@ description: Zeigen Sie die Einnahmen und Auszahlungen für Incentives-Programm 
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653998"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559747"
 ---
 # <a name="view-your-incentives-payments-information"></a>Anzeigen der Informationen zu den Incentive-Zahlungen
 
@@ -91,6 +91,7 @@ Mit dieser Option können Sie die Zahlungen, die Sie in Ihrer Bank für ein best
 |earnetzdusd   |Betrag für die Programm/Teilnehmer-ID in USD      |
 |withheldtax   |Betrag der in der Zahlen-zu-Währung für das Programm/participantid gehaltenen Steuerelement      |
 |salesTax   |Gesamtbetrag der Umsatzsteuer in der Zahlen-zu-Währung für das Programm/die participantid      |
+|servicefeetax  |Gesamtmenge der servicefeetax in "Pay-to-Currency" für das Programm/"participantid" |
 |totalpayment   |Gesamtzahlung in der lokalen Währung ohne die zurück Haltungs Steuern und einschließlich der Umsatzsteuer (falls zutreffend) für die Programm/participantid      |
 |currencyCode   |Bezahlen an Währungscode      |
 |PaymentMethod   |Die Methode, die verwendet wird, um den Partner zu bezahlen (Electronic Bank Transfer, Bonitäts Hinweis)      |

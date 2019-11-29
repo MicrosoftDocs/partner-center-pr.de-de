@@ -103,6 +103,7 @@
 ## [Beantragen einer SLA-Gutschrift bei Microsoft](request-credit.md)
 ## [Einrichten eines Kundenbudgets für Azure-Kosten](set-an-azure-spending-budget-for-your-customers.md)
 ## [Verwalten von Nichtbezahlung, Betrug oder Missbrauch](non-payment--fraud--or-misuse.md)
+## [Verwalten nicht zugewiesener Zahlungen](unallocated-payment.md)
 
 # [Kontakt zu Kunden](customer-accounts.md)
 ## [Hinzufügen eines neuen Kunden](add-a-new-customer.md)

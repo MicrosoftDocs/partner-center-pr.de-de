@@ -1,7 +1,7 @@
 ---
 title: Ausnahme bei der einmaligen Prüfung von Anforderungen für die Anwendungs Entwicklungskompetenz | Partner Center
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Für Partner mit einer früheren ISV-Kompetenz erfahren Sie, wie Sie eine einmalige Prüfung der Anforderungen an die Anwendungsentwicklung erhalten.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Kompetenzen, ISV, Anwendungsentwicklung
 ms.localizationpriority: medium
-ms.openlocfilehash: 022d8f17e279726741d1ba8b7f3f9bc9a951a52d
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 810fd3446077365d9a6b838840a89cdca85edef1
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295229"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559500"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Ausnahme bei der einmaligen Prüfung von Anforderungen für die Anwendungs Entwicklungskompetenz
 
@@ -27,9 +27,9 @@ Wenn Sie die nun abgekoppelte ISV-Kompetenz erworben haben und eines der folgend
 
 Partner mit einer ISV-Kompetenz:
 
-- **Ihre ISV-Kompetenz ist abgelaufen** – ihre einmalige Prüfung der Anforderungen an die einmalige Prüfung wird ab dem 22. November 2019 in Partner Center verfügbar sein. Sie haben 30 Tage Zeit, um das Angebot zu nutzen. 
+- **Ihre ISV-Kompetenz ist abgelaufen** – die Ausnahme für die einmalige Prüfung von Anforderungen steht ab dem 22. November 2019 im Partner Center zur Verfügung. Sie haben 30 Tage Zeit, um das Angebot zu nutzen. Melden Sie sich bei Partner Center an, um ausführliche Informationen zu Ihrem Unternehmen zu erhalten.
 
-- **Ihre Kompetenz Mitgliedschaft befindet sich im Erneuerungs Fenster** – ihre einmalige Prüfung auf der Grundlage von Anforderungen wird ab dem 22. November 2019 in Partner Center verfügbar sein. Sie haben 30 Tage Zeit, um das Angebot zu nutzen. 
+- **Ihre Kompetenz Mitgliedschaft befindet sich im Erneuerungs Fenster** – die Ausnahme für die einmalige Prüfung von Anforderungen steht ab dem 22. November 2019 im Partner Center zur Verfügung. Sie haben 30 Tage Zeit, um das Angebot zu nutzen. Melden Sie sich bei Partner Center an, um ausführliche Informationen zu Ihrem Unternehmen zu erhalten.
 
 - **Ihre Kompetenz Mitgliedschaft wird in den kommenden Monaten erneuert** – ihre einmalige Prüfung ist für Sie verfügbar, wenn die Verlängerung verlängert wird. Zu diesem Zeitpunkt haben Sie 30 Tage Zeit, um das Angebot zu erhalten.
 

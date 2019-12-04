@@ -1,21 +1,28 @@
 ---
 title: Allgemeine Abrechnungsszenarien | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
-description: Häufige Abrechnungs Szenarien im Partner Center für die jährliche Abrechnung (z. b. das Hinzufügen neuer Abonnements, das Hinzufügen von Lizenzen vor dem Abrechnungsdatum, das Ändern der Lizenz Menge und das Anhalten und erneute Aktivieren von Abonnements).
+ms.date: 11/25/2019
+description: 'Weitere Informationen finden Sie in der jährlichen Abrechnung für Partner Center: Wenn Sie neue Abonnements hinzufügen, Lizenzen vor dem Abrechnungsdatum hinzufügen, die Lizenz Menge ändern, Abonnements aussetzen/reaktivieren.'
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Abrechnung, Zahlungen, Bestellungen, Nutzung, lizenzbasierte Abrechnung, Abonnementdatum, Laufzeit, Kündigung, Verlängerung, Kontenabstimmungsdatei, Abstimmungsdatei
 ms.localizationpriority: medium
-ms.openlocfilehash: 91b8e318e2122f9510b160339984cc0743c318ee
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d29def486243f3a4ee9060d442dc5e4b024cb1f0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389628"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722482"
 ---
 # <a name="annual-billing-scenarios"></a>Jährliche Abrechnungs Szenarien
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Abrechnungsadministrator
+- Helpdesk-Agent
+- Vertriebsbeauftragter
 
 Diese Beispiel [Szenarien gelten für allgemeine Abrechnungs Szenarien](common-billing-scenarios.md) , wenn Sie die jährliche Abrechnung in Partner Center verwenden.
 

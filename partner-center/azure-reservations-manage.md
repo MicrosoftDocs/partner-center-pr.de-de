@@ -10,22 +10,30 @@ ms.author: labrenne
 keywords: Azure, Reservierungen, verwalten, Abrechnung, Kauf, Stornierung, Umtausch, Gebühr bei vorzeitiger Kündigung
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: eedfe20cea239918e5ece6f10b2b5f5988da9c50
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252638"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722280"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Verwalten von Microsoft Azure Reservations im Auftrag Ihrer Kunden       
+# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Verwalten von Microsoft Azure Reservations im Auftrag Ihrer Kunden
 
-**Gilt für**
+**Zielgruppe**
 
--  Partner Center
--  Microsoft Azure-Portal 
--  CSP-Partner
+- Partner Center
+- Microsoft Azure-Portal 
+- Partner im CSP
 
-Um die Azure-Reservierungen ihrer Kunden nach dem Kauf zu verwalten, wählen Sie den Kunden und die Reservierung aus, die Sie in Partner Center verwalten möchten, und nehmen dann Änderungen an der Reservierung im Azure-Portal vor. 
+**Geeignete Rollen**
+
+- Administratoragent
+- Globaler Administrator
+- Helpdesk-Agent
+- Vertriebsbeauftragter
+- Benutzerverwaltungsadministrator
+
+Um die Azure-Reservierungen ihrer Kunden nach dem Kauf zu verwalten, wählen Sie den Kunden und die Reservierung aus, die Sie in Partner Center verwalten möchten, und nehmen dann Änderungen an der Reservierung im Azure-Portal vor.
 
 1. Wählen Sie zunächst im Menü „Partner Center“ **Kunden** und dann den Kunden aus, dessen Reservierungen Sie verwalten möchten. 
 
@@ -45,8 +53,8 @@ Um die Azure-Reservierungen ihrer Kunden nach dem Kauf zu verwalten, wählen Sie
 
 Wenn sich die Geschäftsanforderungen eines Kunden an einem beliebigen Punkt ändern, möchten Sie ggf. eine Reservierung stornieren und eine Rückerstattung oder einen Reservierungsbetrag für eine Reservierung erhalten, der zum Preis einer neuen Reservierung verwendet wird.
 
-In beiden Szenarien erstattet Ihnen Microsoft den Betrag zurück, sodass Sie die daraus resultierenden Finanztransaktionen mit Ihren Kunden abwickeln können. Microsoft kontaktiert Kunden in Bezug auf Abrechnung, Stornierungen oder Rückerstattungen nicht direkt.   
- 
+In beiden Szenarien erstattet Ihnen Microsoft den Betrag zurück, sodass Sie die daraus resultierenden Finanztransaktionen mit Ihren Kunden abwickeln können. Microsoft kontaktiert Kunden in Bezug auf Abrechnung, Stornierungen oder Rückerstattungen nicht direkt.
+
 
 **Funktionsweise von Stornierungen**
 
@@ -57,10 +65,10 @@ Nachfolgend finden Sie Details zu Kündigung und Gebühren.
 
 |**Kündigungsdatum**<br> (Tage)   |**Nutzung**    |**Guthaben**  |**Frühzeitige Kündigung**<br> gebühr    |**Max. Rückerstattungsbetrag** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 oder weniger                         | nein          | 100%       | nein                              | 50.000 USD   |
-|5 oder weniger                         | Ja         | Anteilig  | nein                              | 50.000 USD   |
-|Mehr als 5                        | nein          | Anteilig  | 12 %                             | 50.000 USD   |
-|Mehr als 5                        | Ja         | Anteilig  | 12 %                             | 50.000 USD   |
+|5 oder weniger                         | Nein          | 100 %       | Nein                              | 50.000 USD   |
+|5 oder weniger                         | „Ja“         | Anteilig  | Nein                              | 50.000 USD   |
+|Mehr als 5                        | Nein          | Anteilig  | 12 %                             | 50.000 USD   |
+|Mehr als 5                        | „Ja“         | Anteilig  | 12 %                             | 50.000 USD   |
 
 
 **Funktionsweise des Umtauschs** 
@@ -94,10 +102,10 @@ Wenn Sie eine Supportanfrage für eine Erstattung oder einen Austausch im Auftra
 5.  Klicken Sie abschließend auf **Erstellen**.
 
 ## <a name="azure-reservations-resources"></a>Ressourcen zu Azure-Reservierungen
-|**Weitere Informationen zu**   |**Artikel**    |
+|**Weitere Informationen zu**   |**Bitte lesen**    |
 |:-----------------------------|:-----------------|
 |Azure-Reservierungen in CSP (Übersicht)  | [Verkaufen von Microsoft Azure Reserved Instances](azure-reservations.md) |
 |Erwerb von Azure-Reservierungen für Ihre Kunden im Partner Center   |[Kaufen von Azure-Reservierungen](azure-reservations-buying.md) |
 |Bestimmen der richtigen VM-Größe und Überprüfen der VM-Nutzung durch den Kunden   |[Bestimmen der VM-Größe für die maximale Nutzung von Azure-Reservierungen](azure-usage.md)   |
-|Kaufen von Azure-Reservierungen über die Partner Center-API | [Kaufen von Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in der Partner Center-Entwicklerdokumentation
+|Erwerb von Azure-Reservierungen über die Partner Center-API | [Kaufen von Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in der Partner Center-Entwicklerdokumentation
 

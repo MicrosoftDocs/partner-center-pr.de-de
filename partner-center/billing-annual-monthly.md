@@ -1,25 +1,35 @@
 ---
 title: Monatliche und jährliche Abrechnungs Unterschiede | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
-Description: Unterschiede zwischen monatlichem und jährlichem Abrechnungszyklus in Partner Center.
+ms.date: 11/25/2019
+Description: Erfahren Sie mehr über die Unterschiede zwischen monatlichen und jährlichen Abrechnungszyklen im Partner Center.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4d6b316f55a6d2cd84959d60feed666d657893b8
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1b5d9b8175f2d64998efaf2e64e3d1adbdbc2f75
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389768"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722408"
 ---
 # <a name="monthly-and-annual-billing-differences"></a>Monatliche und jährliche Abrechnungs Unterschiede
 
-Gilt für:
+**Zielgruppe**
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Abrechnungsadministrator
+- Globaler Administrator
+- Incentiveadministrator
+- Incentivebenutzer
+- Helpdesk-Agent
+- Vertriebsbeauftragter
 
 In diesem Thema werden die Unterschiede zwischen **monatlicher Abrechnung** und **jährlicher Abrechnung** in Partner Center erläutert, einschließlich Vorteilen und Anwendungsfällen. Sie haben die Möglichkeit, monatlich oder jährlich für bestimmte CSP-Abonnements (Cloud Solution Provider) zu bezahlen.
 
@@ -179,7 +189,7 @@ Die folgenden Abonnement Änderungen, die im Jahr abgerechnet werden, werden in 
 
 Wenn ein Abonnement, das jährlich abgerechnet wird, abgebrochen wird, enthält die Abstimmungs Datei ein Zeilen Element für eine Abbruch Gutschrift.
 
-Wenn der Abbruch in den ersten 30 Tagen der 12-monatigen Laufzeit erfolgt, wird das Abonnement bei 100 Prozent gutgeschrieben. Wird das Abonnement nach den ersten 30 Tagen storniert, wird der anteilige Betrag dem Abonnement gutgeschrieben
+Wenn der Abbruch in den ersten 30 Tagen der 12-monatigen Laufzeit erfolgt, wird das Abonnement bei 100 Prozent gutgeschrieben. Wird das Abonnement nach den ersten 30 Tagen storniert, wird der anteilige Betrag gutgeschrieben
 
 ### <a name="adding-licenses-to-annual-subscription"></a>Hinzufügen von Lizenzen zum Jahresabonnement
 
@@ -197,7 +207,7 @@ Angebots-IDs in der Angebots Matrix sind für alle Abrechnungs Häufigkeiten ide
 
 ### <a name="incentives-calculation"></a>Berechnung der Anreize
 
-Die Anreize werden basierend auf dem **Umsatz in Rechnung**gestellt, ***nicht*** mit dem Umsatz. Erzielte Anreizzahlungen werden im Einklang mit unserer Richtlinien gezahlt, wie in den CSP-Anreizhandbüchern aufgeführt.
+Die Anreize werden basierend auf dem **Umsatz in Rechnung**gestellt, ***nicht*** mit dem Umsatz. Erzielte Incentive-Zahlungen werden im Einklang mit unserer Richtlinien gezahlt, wie in den CSP-Handbüchern für Incentives aufgeführt.
 
 Wenn ein Abonnement, das jährlich in Rechnung gestellt wird, verkauft wird, wird der Umsatz dieses Abonnements für die Berechnung von Anreizen basierend auf dem berechneten Umsatz erkannt.
 
@@ -205,7 +215,7 @@ Wenn ein Abonnement, das jährlich in Rechnung gestellt wird, verkauft wird, wir
 
 Zurzeit werden alle Incentive-Zahlungen zweimal pro Jahr durchgeführt. Diese Zahlungen erfolgen 45 Tage nach Halbjahresende.
 
-### <a name="rates"></a>Rates
+### <a name="rates"></a>Tarife
 
 Partner erhalten für alle berechtigten Transaktionen, unabhängig davon, wie ein Abonnement in Rechnung gestellt wird, Anreize. Der Incentive-Gewinn wird basierend auf der globalen Incentive-Rate (die für den Zeitraum abgerechnet wird), der lokalen Zugriffstaste (für alle Regionen, in denen es lokale Beschleuniger gibt) und allen globalen Kampagnen (falls zutreffend) berechnet.
 

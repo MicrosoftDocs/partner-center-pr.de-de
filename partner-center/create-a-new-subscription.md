@@ -1,7 +1,7 @@
 ---
 title: Erstellen, Aussetzen oder Stornieren von Kundenabonnements | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Ihre Kunden Abonnements an Produkte im Katalog verkaufen, nachdem Sie einen Kundendaten Satz in Partner Center erstellt haben.
@@ -10,16 +10,16 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: Abonnement, neu erstellen, Abonnement hinzufügen, anhalten, Abbrechen, aussetzen, anhalten, Saas, Lizenz, ISV, Drittanbieter
 ms.localizationpriority: medium
-ms.openlocfilehash: d829ba7ee520cab42ec5985ac2156ddff60d8e99
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253459"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721721"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Aussetzen oder Stornieren von Kundenabonnements
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -27,8 +27,11 @@ ms.locfileid: "74253459"
 
 **Geeignete Rollen**
 
-- Globaler Administrator
 - Administratoragent
+- Abrechnungsadministrator
+- Globaler Administrator
+- Helpdesk-Agent
+- Vertriebsbeauftragter
 
 Nachdem Sie für Ihre Kunden einen Datensatz im Partner Center erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen. Dies schließt sowohl von Microsoft veröffentlichte Produkte als auch SaaS-Produkte (Software-as-a-Service) ein, die von unabhängigen Softwareanbietern (ISVs) von Drittanbietern im [kommerziellen Marketplace](https://azuremarketplace.microsoft.com/marketplace)veröffentlicht wurden. 
 
@@ -87,7 +90,7 @@ Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Be
 
 3. Wählen Sie das Abonnement aus, das Sie verwalten möchten.
 
-4. Wählen Sie im Abschnitt **Status** den Eintrag **Ausgesetzt** aus. **Übermitteln** Sie Ihre Änderungen.
+4. Wählen Sie im Abschnitt **Status** den Eintrag **Ausgesetzt** aus. **Übermitteln** Sie dann Ihre Änderungen.
 
 5. Alle Daten werden gelöscht, solange das Abonnement nicht innerhalb von 90 Tagen oder 90 Tagen zuzüglich der Anzahl der Tage zwischen der Eröffnung des Kontos und dem ersten Abrechnungszeitraum (maximal 120 Tage) reaktiviert wird.
 
@@ -122,7 +125,7 @@ Gehen Sie folgendermaßen vor, um ein Lizenz basiertes Saas-Abonnement von einem
 
 3. Suchen Sie das Abonnement, das Sie abbrechen möchten.
 
-4. Wählen Sie in der Spalte **Status** den Wert **Abbrechen**aus. **Übermitteln** Sie Ihre Änderungen.
+4. Wählen Sie in der Spalte **Status** den Wert **Abbrechen**aus. **Übermitteln** Sie dann Ihre Änderungen.
 
 5. Wenn ein Dialogfeld angezeigt wird, füllen Sie alle relevanten Details aus, und wählen Sie dann **senden**aus.
 
@@ -149,7 +152,7 @@ So beenden Sie das automatische Erneuern eines aktiven Marketplace-Abonnements:
 
 6. Wählen Sie **Übermitteln** aus.
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Informationen:
 
 - [Erwerben Sie kommerzielle Marketplace-Produkte für Ihre Kunden](csp-commercial-marketplace-purchase.md)
 - [Verwalten Sie kommerzielle Marketplace-Produkte für Ihre Kunden](csp-commercial-marketplace-manage.md)

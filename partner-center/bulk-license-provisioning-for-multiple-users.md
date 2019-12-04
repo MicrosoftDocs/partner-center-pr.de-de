@@ -1,7 +1,7 @@
 ---
 title: Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie ein Kundenkonto zum gleichzeitigen zuweisen oder widerrufen von Lizenzen und Diensten für einen oder mehrere Benutzer verwenden.
@@ -10,40 +10,51 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Lizenz zuweisen, Lizenz widerrufen, mehreren Benutzern zuweisen,
 ms.localizationpriority: medium
-ms.openlocfilehash: c5846a0d12331bdb1aec26bd6289ac0e11896584
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1caf10625d776578f9b0bc91d40106cdd8dddf99
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253035"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722195"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer
 
-**Gilt für**
+**Zielgruppe**
 
--  Partner Center
+- Partner Center
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Globaler Administrator
+- Helpdesk-Agent
+- Vertriebsbeauftragter
+- Benutzerverwaltungsadministrator
 
 Sie können Lizenzen und Dienste einem Benutzer oder gleichzeitig mehreren Benutzern in einem Benutzerkonto zuweisen und die Lizenzzuweisung für Benutzer aufheben.
 
 Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und zeigt diese an.
 
-## <a name="in-this-section"></a>Inhalt dieses Abschnitts
+## <a name="in-this-section"></a>In diesem Abschnitt
 
 
--   [Zuweisen von Lizenzen zu mehreren Benutzern](#assign-licenses-to-groups)
--   [Widerrufen der Lizenzzuweisungen von Benutzern](#revoking-licenses)
+- [Zuweisen von Lizenzen zu mehreren Benutzern](#assign-licenses-to-groups)
+- [Widerrufen der Lizenzzuweisungen von Benutzern](#revoking-licenses)
 
 <a href="" id="assign-licenses-to-groups"></a>
 **Zuweisen von Lizenzen zu mehreren Benutzern**
 
-1.  Wählen Sie im Menü **Partner Center** die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
-2.  Wählen Sie **Benutzer und Lizenzen**.
-3.  Aktivieren Sie das Kontrollkästchen für zwei oder mehr Benutzer aus der Liste. (Aktivieren Sie zum Auswählen aller Benutzer auf der aktuellen Seite das Kontrollkästchen oben in der Spalte **Benutzer**.)
+1. Wählen Sie im Menü **Partner Center** die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
+
+2. Wählen Sie **Benutzer und Lizenzen**.
+
+3. Aktivieren Sie das Kontrollkästchen für zwei oder mehr Benutzer aus der Liste. (Aktivieren Sie zum Auswählen aller Benutzer auf der aktuellen Seite das Kontrollkästchen oben in der Spalte **Benutzer**.)
 
     Mithilfe der Optionen **First**, **Previous**, **Next** und **Last** können Sie Benutzer auf mehreren Seiten suchen und auswählen.
 
-4.  Wählen Sie den Link **Ausgewählte Benutzer**. Die angezeigte Liste enthält die ausgewählten Benutzer.
-5.  Wählen Sie den Link **Lizenzen verwalten**.
+4. Wählen Sie den Link **Ausgewählte Benutzer**. Die angezeigte Liste enthält die ausgewählten Benutzer.
+
+5. Wählen Sie den Link **Lizenzen verwalten**.
 
     Auf der Seite „Lizenzen verwalten“ werden die Liste der Lizenzansprüche für die Kundenkonten sowie die Anzahl für **Available licenses** für jedes Produkt angezeigt.
 
@@ -59,37 +70,34 @@ Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und ze
     -   Für alle Produkte ohne verfügbare Lizenzen wird der Link **Buy more** angezeigt. Sie können weitere Lizenzen erwerben, wenn Kunden sie benötigen.
 
 6.  Wählen Sie unter **Assign and revoke licenses** die Produktlizenzen für die neuen Benutzer aus. Beispiel: Wenn keiner der ausgewählten Benutzer Office 365 Enterprise-Lizenzen besitzt und Sie diese hinzufügen möchten, aktivieren Sie das Kontrollkästchen. Sie benötigen ausreichend Lizenzen für jedes ausgewählte Produkt.
-7.  Durch Aktivierung des Kontrollkästchens aller Produkte wählen Sie mehrere Produkte für die Benutzer aus.
+
+7. Durch Aktivierung des Kontrollkästchens aller Produkte wählen Sie mehrere Produkte für die Benutzer aus.
     -   Wählen Sie für ein beliebiges Produkt **View service plans**, um die von den Benutzern benötigten Servicepläne anzuzeigen und auszuwählen.
 
-8.  Wählen Sie **Speichern**. Partner Center öffnet die Bestätigungsseite **Licenses updated**, auf der die Benutzer und ihre neuen Lizenzen aufgeführt sind.
+8. Wählen Sie **Speichern**. Partner Center öffnet die Bestätigungsseite **Licenses updated**, auf der die Benutzer und ihre neuen Lizenzen aufgeführt sind.
 
 **Hinweis:**   Einige Microsoft-Produkte sind an bestimmten Standorten unter Umständen nicht verfügbar. Wieder andere Produkte sind abhängig von anderen Produkten oder Diensten oder können dem gleichen Benutzer nicht zusammen zugewiesen werden. Nach dem Speichern werden auf der Bestätigungsseite die Ergebnisse der erfolgreichen Lizenzzuweisung für alle Benutzer sowie fehlerhafte Lizenzzuweisungen angezeigt.
 
- 
 
 <a href="" id="revoking-licenses"></a>
 **Widerrufen der Lizenzzuweisungen von Benutzern**
 
-1.  Wählen Sie im Menü **Partner Center** die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
-2.  Wählen Sie **Benutzer und Lizenzen**.
-3.  Aktivieren Sie das Kontrollkästchen für zwei oder mehr Benutzer aus der Liste. (Aktivieren Sie zum Auswählen aller Benutzer auf der aktuellen Seite das Kontrollkästchen oben in der Spalte **Benutzer**.)
+1. Wählen Sie im Menü **Partner Center** die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
+
+2. Wählen Sie **Benutzer und Lizenzen**.
+
+3. Aktivieren Sie das Kontrollkästchen für zwei oder mehr Benutzer aus der Liste. (Aktivieren Sie zum Auswählen aller Benutzer auf der aktuellen Seite das Kontrollkästchen oben in der Spalte **Benutzer**.)
 
     Blättern Sie durch die Optionen **First**, **Previous**, **Next** und **Last**, um weitere Benutzer zu suchen und auszuwählen. Sie können Benutzer auf mehreren Seiten auswählen.
 
-4.  Klicken Sie nach dem Auswählen der Benutzer auf den Link **Ausgewählte Benutzer**. Die angezeigte Liste enthält nur die ausgewählten Benutzer.
-5.  Wählen Sie den Link **Lizenzen verwalten**.
-6.  Deaktivieren Sie unter **Assign and revoke licenses** die Kontrollkästchen für den Benutzern zugewiesene Produkte. Beispiel: Wenn alle ausgewählten Benutzer Office 365 Enterprise-Lizenzen besitzen und Sie diese widerrufen möchten, deaktivieren Sie das Kontrollkästchen.
-7.  Wählen Sie **Speichern**.
+4. Klicken Sie nach dem Auswählen der Benutzer auf den Link **Ausgewählte Benutzer**. Die angezeigte Liste enthält nur die ausgewählten Benutzer.
+
+5. Wählen Sie den Link **Lizenzen verwalten**.
+
+6. Deaktivieren Sie unter **Assign and revoke licenses** die Kontrollkästchen für den Benutzern zugewiesene Produkte. Beispiel: Wenn alle ausgewählten Benutzer Office 365 Enterprise-Lizenzen besitzen und Sie diese widerrufen möchten, deaktivieren Sie das Kontrollkästchen.
+
+7. Wählen Sie **Speichern**.
 
 ## <a name="related-topics"></a>Verwandte Themen
 
-
 [Zuweisen von Lizenzen an einen Benutzer](assign-licenses-to-users.md)
-
- 
-
- 
-
-
-

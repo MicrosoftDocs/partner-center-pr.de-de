@@ -1,7 +1,7 @@
 ---
 title: Mandantenkonsolidierung für regionale CSP-Autorisierung | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschiedene Länder/Regionen. Dies schließt Schritte zum Migrieren von Kundenkonten und Kunden Abonnements ein.
@@ -11,20 +11,24 @@ ms.author: evansma
 keywords: Migrieren von Kunden, Bereitstellung, Mandantenkonto, Mandanten konsolidieren
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 52663d9f98f66f271702b29965f620fa9563115f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d05f400084dc72ca380dd16c10e5b5909318f788
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253599"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722182"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>Mandantenkonsolidierung für regionale CSP-Autorisierung
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
 
+**Geeignete Rollen**
+
+- Globaler Administrator
+- Administratoragent
 
 \[Einige Informationen beziehen sich auf Vorabversionen, die vor der kommerziellen Freigabe grundlegend geändert werden können. Microsoft übernimmt keine Garantie, weder ausdrücklich noch stillschweigend, für die hier bereitgestellten Informationen.\]
 
@@ -122,7 +126,7 @@ Beachten Sie, dass nutzungsbasierte Azure-CSP-Abonnements nicht wie Office 365-
 
 6.  Wiederholen Sie diese Schritte für alle Abonnements in allen Kundendatensätzen, um künftige Kosten für die Konten vom Typ **Transitioning From** zu vermeiden. Der Partner erhält eine endgültige Rechnung mit einer Gutschrift für die Anzahl der nicht genutzten Tage zwischen dem Stornierungsdatum und dem letzten Tag des Abrechnungszeitraums. Nach diesem letzten Abrechnungszeitraum werden keine zukünftigen Rechnungen generiert.
 
-### <a name="notes"></a>Hinweise
+### <a name="notes"></a>Anmerkungen
 
 -   Das Deaktivieren des Abonnements von der **Umstellung vom** CSP-Konto wirkt sich nicht auf den Dienst des Endkunden aus, vorausgesetzt, der Dienst wurde vom **Übergang zum** CSP-Konto vor der Deaktivierung bereitgestellt.
 

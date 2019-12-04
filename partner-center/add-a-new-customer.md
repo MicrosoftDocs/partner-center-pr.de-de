@@ -10,19 +10,28 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Kunde, Kunde hinzufügen, Kundenkonto, Kundenkonto im Partner Center, Kunden, Kunden hinzufügen, Kundenkonto erstellen
 ms.localizationpriority: medium
-ms.openlocfilehash: 5eab35aa23934b35320d9067bf305ce306e9c141
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: a3c1977cefebc6599012856d8e0523cfa74e6a64
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384614"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722299"
 ---
-# <a name="add-a-new-customer"></a>Neuen Kunden hinzufügen
+# <a name="add-a-new-customer"></a>Hinzufügen eines neuen Kunden
 
-**Gilt für**
+**Zielgruppe**
 
--  Partner Center
--  Partner Center für Microsoft Cloud for US Government
+- Partner Center
+- Partner Center für Microsoft Cloud for US Government
+- Partner im Cloud Solution Provider-Programm
+
+**Geeignete Rollen**
+
+- Globaler Administrator
+- Benutzerverwaltungsadministrator
+- Administratoragent
+- Vertriebsbeauftragter
+
 
 Bevor Sie einem Kunden Abonnements verkaufen, die Abrechnung verwalten oder ihm Unterstützung bieten können, müssen Sie den Kunden zu Ihrer Kundenliste im Partner Center hinzufügen.
 
@@ -51,7 +60,7 @@ Bevor Sie einem Kunden Abonnements verkaufen, die Abrechnung verwalten oder ihm 
 
 7. Wählen Sie **Fertig** aus, wenn Sie die gewünschten Kundeninformationen hinzugefügt und die erforderlichen Abonnements erworben haben.
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Informationen:
 
 - Weitere Informationen darüber, was Sie Ihren Kunden über das Cloud Solution Provider-Programm zum Verkauf anbieten können, finden Sie unter [Partnerangebote im Cloud Solution Provider-Programm](csp-offers.md).
 

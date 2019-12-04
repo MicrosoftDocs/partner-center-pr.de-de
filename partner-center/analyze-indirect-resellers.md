@@ -11,20 +11,28 @@ ms.topic: article
 keywords: Geschäftsdaten
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 188961444e4ec2f20fe305179b9f00673d7e371f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 9990cc72726803045806b88439fed54f9c9d07a2
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253374"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722374"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>Analysieren der Leistung indirekter Händler 
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
+- Partner im Cloud Solution Provider-Programm
 
-Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Analysen für Vertriebspartner**, um Ihre Erfolge, die Erfolge Ihrer indirekten Vertriebspartner sowie die Bereiche auszumachen, die mehr Aufmerksamkeit erfordern. Verwenden Sie diese Informationen für die Planung neuer Geschäftsziele.
+**Geeignete Rollen**
+
+- Globaler Administrator
+- Benutzerverwaltungsadministrator
+- Administratoragent
+- Vertriebsbeauftragter
+
+Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Analysen für Vertriebspartner**, um Ihre Erfolge, die Erfolge Ihrer indirekten Vertriebspartner sowie die Bereiche auszumachen, die mehr Aufmerksamkeit erfordern. Nutzen Sie diese Informationen bei der Planung neuer Geschäftsziele.
 
 > [!NOTE]
 > Die Analysen indirekter Vertriebspartner stehen nur Partnern im Cloud Solution Provider-Programm zur Verfügung.

@@ -1,7 +1,7 @@
 ---
 title: Daten und Analysen in Partner Center | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Analysen in Partner Center verwenden können, um Ihr Unternehmen besser zu verstehen und zu erfahren, wie Ihre Kunden die erworbenen Lizenzen verwenden.
@@ -9,16 +9,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Daten, Analysen, Datenanalysen, Power BI
 ms.localizationpriority: medium
-ms.openlocfilehash: b584cf8d622bbe58ac8bf99be3292464cf64e07d
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e8501776365e761c2c7ea9f5c33a2150c92cc79e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384846"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722572"
 ---
 # <a name="get-data-and-analyze-your-business"></a>Abrufen von Daten und Analysieren Ihres Unternehmens
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
 - MPN-Partner
@@ -48,7 +48,7 @@ In Partner Center hat nur der MPN-Partneradministrator Zugriff auf Benutzeranaly
  
 ## <a name="access-data-in-partner-center"></a>Zugreifen auf Daten in Partner Center
 
-|**Gewünschte Daten**   |**Herunterladen**   |**Artikel**   | **Gilt für**    |
+|**Gewünschte Daten**   |**Herunterladen**   |**Bitte lesen**   | **Zielgruppe**    |
 |---------------------|:-----------------------|:---------------|:--------------|
 |Verwendung der erworbenen Lizenzen durch Ihre Kunden   |Bereitstellungs- und Nutzungsdaten aus Partner Center => Produktanalyse   |[Steigerung von Einführungsrate und Zufriedenheit](increasing-adoption-and-satisfaction.md)|CSP-Partner|
 |Kundenaktivität in Bezug auf Abonnements   |Aktivitätsprotokolle   |[Anzeigen von Kundenaktivitätsprotokollen](activity-logs.md)|CSP-Partner   |

@@ -1,7 +1,7 @@
 ---
 title: Eskalieren von Problemen an Microsoft | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, welche Probleme Microsoft-Partner für Ihre Kunden selbst lösen und welche Probleme Sie an Microsoft eskalieren müssen.
@@ -10,19 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3ddffc00a63bc82856fdb0d993a04bf822f12e6f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252567"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722240"
 ---
 # <a name="escalate-problems-to-microsoft"></a>Eskalieren von Problemen an Microsoft
 
-**Gilt für**
+**Zielgruppe**
 
--  Partner Center
--  Partner Center für Microsoft Cloud for US Government
+- Partner Center
+- Partner Center für Microsoft Cloud for US Government
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Globaler Administrator
+- Vertriebsbeauftragter
+- Helpdesk-Agent
 
 Es wird erwartet, dass Sie Probleme im Auftrag Ihrer Kunden lösen. Ihre ersten Schritte sollten die [Überprüfung der Dienstintegrität](check-service-health.md) und der dokumentierten Probleme umfassen. Wenn das Problem des Kunden auf diese Weise nicht behoben werden kann, können Sie mithilfe der Administratorrechte Probleme mit der Software, den Einstellungen und der Konfiguration beheben.
 

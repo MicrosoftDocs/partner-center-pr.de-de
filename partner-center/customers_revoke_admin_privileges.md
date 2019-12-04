@@ -1,7 +1,7 @@
 ---
 title: Kunden delegieren Administratorrechte an Partner | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Kunden bitten, Administrator Berechtigungen an einen Reseller zu delegieren oder dieselben Berechtigungen zu entfernen und die Berechtigungen zu verwenden.
@@ -9,26 +9,31 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: delegierte Administratorrechte, Administrator im Auftrag von, Berechtigungen entfernen, DAP, AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f49fa5c4b320d05c6c6a9049b41170457bb394f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 545b4f8228ced951d39de0c18d354799fb7081ac
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253480"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722189"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>Kunden delegieren Administratorrechte an Partner
 
-**Gilt für**
+**Zielgruppe**
 
--  Partner Center
+- Partner Center
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Vertriebsbeauftragter
 
 Um den Dienst oder das Abonnement im Auftrag eines Kunden verwalten zu können, muss der Kunde Ihnen Administratorberechtigungen für diesen Dienst gewähren. Um Administratorberechtigungen von einem Kunden zu erhalten, senden Sie ihm per E-Mail einen Vertriebspartnerschaftsantrag. Nachdem der Kunde den Antrag genehmigt hat, können Sie sich beim Verwaltungsportal des Diensts anmelden und den Dienst im Auftrag des Kunden verwalten. 
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden, eine Vertriebspartnerschaft mit Ihnen einzugehen
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden zur Einrichtung einer Vertriebspartnerschaft mit Ihnen
 
 1.  Wählen Sie **Kunden** aus, und wählen Sie dann **Vertriebspartnerschaft beantragen** aus.
 
-2.  Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer standardmäßigen E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen. 
+2.  Überprüfen Sie auf der nächsten Seite den E-Mail-Entwurf. Sie können den Nachrichtenentwurf in Ihrer standardmäßigen E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen. 
 
     >[!IMPORTANT]
     >Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist und den Kunden direkt mit Ihrem Konto verknüpft. 
@@ -83,7 +88,7 @@ Wenn Ihr Kunde Delegierte Administratorrechte entfernt, werden die Azure AD Roll
 
 ### <a name="azure-subscriptions-and-resource-management"></a>Azure-Abonnements und Ressourcenverwaltung
 
-Jedes Azure-Abonnement verfügt über einen eigenen Satz von Ressourcenverwaltungsrollen. Bevor ein CSP-Partner das Azure-Abonnement eines Kunden verwalten kann, muss der Partner mindestens einer Rolle unter dem Azure-Abonnement zugewiesen werden. Dies gilt insbesondere in folgenden Fällen:
+Jedes Azure-Abonnement verfügt über einen eigenen Satz von Ressourcenverwaltungsrollen. Bevor ein CSP-Partner das Azure-Abonnement eines Kunden verwalten kann, muss der Partner mindestens einer Rolle unter dem Azure-Abonnement zugewiesen werden. Das bedeutet Folgendes:
 
 - Wenn ein Kunde eine Händlereinladung annimmt und einem Partner delegierte Administratorrechte erteilt, erhält der Partner nicht automatisch Zugriff auf vorhandene Azure-Abonnements unter dem Kundenmandanten.
 

@@ -1,7 +1,7 @@
 ---
 title: Benutzerverwaltungsaufgaben für Kundenkonten | Partner Center
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Benutzerkonten für einen Kunden erstellen, Benutzerlizenzen hinzufügen oder entfernen, Benutzer Kennwörter zurücksetzen, Benutzerkonten löschen oder wiederherstellen.
@@ -10,18 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Kundenverwaltung, Konto, Konto erstellen, Lizenzen, Lizenz zuweisen Benutzerverwaltung, Kennwort, Kennwort zurücksetzen, Kennwort ändern
 ms.localizationpriority: medium
-ms.openlocfilehash: fb2e616a6bf7dbfa5072ff1617dc37ad76831b8c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253345"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721358"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Benutzerverwaltungsaufgaben für Kundenkonten
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
+
+**Geeignete Rollen**
+
+- Globaler Administrator
+- Benutzerverwaltungsadministrator
+- Administratoragent
+- Vertriebsbeauftragter
+- Helpdesk-Agent
 
 Sie können neue Benutzer im Konto eines Kunden erstellen und löschen. Sie können auch ein oder mehrere Benutzerkonten wiederherstellen, die Sie zuvor innerhalb von 30 Tagen nach dem Löschvorgang gelöscht haben. Die vorherigen Abonnementzuweisungen des Benutzers werden ebenfalls wiederhergestellt (vorausgesetzt, die vorherigen Zuweisungen sind verfügbar).
 
@@ -84,7 +92,7 @@ Die folgenden Schritte gelten für das Hinzufügen oder Entfernen von Benutzerli
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Löschen von Benutzerkonten für einen Kunden
 
-1.  Wählen Sie im Menü **Partner Center** die Option **Kunden** aus. Wählen Sie den Kunden aus der Liste aus.
+1.  Wählen Sie **Kunden** im Menü **Partner Center** aus. Wählen Sie den Kunden aus der Liste aus.
 
 2.  Wählen Sie im Kundenmenü **Benutzer und Lizenzen**. Wählen Sie den Benutzer aus der Liste aus.
 

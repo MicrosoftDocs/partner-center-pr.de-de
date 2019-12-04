@@ -1,21 +1,29 @@
 ---
 title: Häufige Abrechnungs Szenarien für Lizenz basierte Saas-Transaktionen | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
-description: Allgemeine Abrechnungs Szenarien im Partner Center für Lizenz basierte Saas-Transaktionen.
+ms.date: 11/25/2019
+description: Erfahren Sie mehr über häufige Abrechnungs Szenarien im Partner Center für Lizenz basierte Saas-Transaktionen.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Abrechnung, Zahlungen, einmaliger Kauf, wiederkehrende Käufe, Abonnements, Arbeitsplätze
 ms.localizationpriority: medium
-ms.openlocfilehash: b808a3bbfc0856e03f1c775d7e3145a29c2239fb
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 5d86210ce52280b73846de56dafb5909081b6524
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389608"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722518"
 ---
 # <a name="billing-scenarios-for-license-based-saas-transactions"></a>Abrechnungs Szenarien für Lizenz basierte Saas-Transaktionen
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Abrechnungsadministrator
+- Helpdesk-Agent
+- Vertriebsbeauftragter
+
 
 Diese Beispiel [Szenarien für allgemeine Abrechnung](common-billing-scenarios.md) gelten für Lizenz basierte Saas-Abonnements (Software-as-a-Service) im Partner Center.
 
@@ -37,7 +45,7 @@ Die Datei für die Wiederaufnahme umfasst die folgenden Gebühren:
 > [!TIP]
 > Sie können auch während des kostenlosen Testzeitraums jederzeit ein Lizenz basiertes Abonnement für die kostenlose Testversion von Saas kündigen.
 
-In diesem Szenario haben Sie am 1. Juli ein Lizenz basiertes Abonnement für eine kostenlose Testversion von Saas erworben und dann sofort im Partner Center abgebrochen. 
+In diesem Szenario haben Sie am 1. Juli ein Lizenz basiertes Abonnement für eine kostenlose Testversion von Saas erworben und dann sofort im Partner Center abgebrochen.
 
 Die Datei "Reconnaissance" enthält die folgenden Gebühren:
 

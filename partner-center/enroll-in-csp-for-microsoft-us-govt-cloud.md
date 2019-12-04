@@ -1,25 +1,29 @@
 ---
 title: Registrieren für das Cloud Solution Provider-Programm für Microsoft Cloud for US Government | Partner Center für Microsoft Cloud for US Government
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informieren Sie sich ausführlicher über die Anforderungen des CSP-Programms, bevor Sie sich für das Cloud Solution Provider-Programm für Microsoft Cloud for US Government registrieren.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 504bafa0bbdb93d8414d3af8f3ebd6679b3dc194
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 13ec7eddd2fef9be9f120729b54e6f9e2cf58f9b
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252217"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722575"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registrieren für das Cloud Solution Provider-Programm für Microsoft Cloud for US Government
 
-**Gilt für**
+**Zielgruppe**
 
--  Partner Center für Microsoft Cloud for US Government
+- Partner Center für Microsoft Cloud for US Government
+
+**Geeignete Rollen**
+
+- Globaler Administrator
 
 Microsoft-Partner können jetzt Cloudlösungen und -dienste von Microsoft an Bundesbehörden, staatliche und kommunale Einrichtungen sowie an Stammeseinrichtungen in den USA über das CSP-Programm (Cloud Solution Provider, Cloud-Lösungsanbieter) für Microsoft Cloud for US Government verkaufen. 
 

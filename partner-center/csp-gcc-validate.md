@@ -1,29 +1,35 @@
 ---
 title: Office 365 Government GCC – Zulassungskriterien für Partner und Kunden | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über die Schritte für direkte Rechnungs Partner (direkte Händler, indirekte Anbieter), um Partner und Kunden für Office 365 Government gcc für CSP zu überprüfen.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 418aaa8624a7a22945dbbdb2d410dd061bab4586
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 3819362421c19a9331760ff4c2068c1a781dd00c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253527"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721937"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Government GCC für CSP – Zulassungskriterien für Partner und Kunden
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  CSP-Partner
 
+**Geeignete Rollen**
+
+- Globaler Administrator
+- Administratoragent
+- Vertriebsbeauftragter
+
 >[!NOTE]
->Der Überprüfungsprozess und die unten aufgeführten Kriterien gelten spezifisch für Partner mit direkter Abrechnung. Partner mit direkter Abrechnung sind u.a. direkte Handelspartner und indirekte Anbieter.  Wenn Sie indirekter Handelspartner sind, arbeiten Sie mit Ihrem indirekten Anbieter zusammen. 
+>Der Überprüfungsprozess und die unten aufgeführten Kriterien gelten spezifisch für Partner mit direkter Abrechnung. Partner mit direkter Abrechnung sind u.a. direkte Handelspartner und indirekte Anbieter.  Wenn Sie indirekter Handelspartner sind, arbeiten Sie mit Ihrem indirekten Anbieter zusammen.
 
 Wenn Sie möchten, dass Ihr Unternehmen oder das Ihres Kunden für Office 365 Government GCC für CSP zugelassen wird, überprüfen Sie die folgenden Anforderungen.
 

@@ -1,28 +1,39 @@
 ---
 title: Analysieren Ihres Geschäfts Profils | Partner Center
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie die Seite Business profile Insights verwenden können, um zu sehen, wie gut Sie die Aufmerksamkeit Ihrer Zielkunden erfassen und Referenzen erstellen.
 author: JnHs
 ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: 33763800e8da6d6c082aeccc67acddc01653313a
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 5f5be1a1d447adc344c7564bf1f13e015895de94
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253130"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722363"
 ---
 # <a name="analyze-your-business-profile"></a>Analysieren Ihres Geschäfts Profils
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
+- Partner im Microsoft Partner Network
+- Partner im Cloud Solution Provider-Programm
+
+**Geeignete Rollen**
+
+- Globaler Administrator
+- MPN-Partneradministrator
+- Administrator für Empfehlungen
+- Unternehmensprofiladministrator
+- Administratoragent
+- Vertriebsbeauftragter
 
 Auf der Seite **Business profile Insights** in Partner Center sehen Sie, wie gut Sie die Aufmerksamkeit Ihrer Zielkunden erfassen und Referenzen erstellen können.
 

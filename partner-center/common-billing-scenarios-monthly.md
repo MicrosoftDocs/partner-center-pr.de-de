@@ -1,21 +1,28 @@
 ---
 title: Häufige monatliche Abrechnungs Szenarien | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 description: Häufige Szenarien in Partner Center, wenn Sie die monatliche Abrechnung verwenden (z. b. das Hinzufügen neuer Abonnements, das Ändern der Lizenz Menge und das Anhalten von Abonnements)
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Abrechnung, Zahlungen, Aufträge, Nutzung, monatliche Abrechnung, Abonnements, Abstimmungs Datei
 ms.localizationpriority: medium
-ms.openlocfilehash: 95a535ecdd20614e8809d6304609b1a678859efc
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 9cae4f82e059a2c8258a00ae51a406ca890f7a67
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389618"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722488"
 ---
 # <a name="monthly-billing-scenarios"></a>Monatliche Abrechnungs Szenarien
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Abrechnungsadministrator
+- Helpdesk-Agent
+- Vertriebsbeauftragter
 
 Diese Beispiel [Szenarien gelten für allgemeine Abrechnungs Szenarien](common-billing-scenarios.md) , wenn Sie die monatliche Abrechnung in Partner Center verwenden.
 
@@ -25,7 +32,7 @@ Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein ne
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührenart |Preis pro Einheit |Anzahl |Betrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-|13.01.2018         |12.02.2018    |Gebühr für Zyklus   |4,00       |1        |4,00 |
+|13.01.2018         |12. Februar 2018    |Gebühr für Zyklus   |4,00       |1        |4,00 |
 
 Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
@@ -39,15 +46,15 @@ Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein ne
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührenart |Preis pro Einheit |Anzahl |Betrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-|13.01.2018         |12.02.2018    |Gebühr für Zyklus   |4,00       |1        |4,00    |
+|13.01.2018         |12. Februar 2018    |Gebühr für Zyklus   |4,00       |1        |4,00    |
 
 Am 1. Februar erhöhen Sie die Anzahl der Lizenzen von 1 auf 2. Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungspositionen:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührenart |Preis pro Einheit |Anzahl |Betrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-| 13.01.2018        |12.02.2018    |Anteiliger Zyklus für Instanz   |-4,00       |1        |-4,00   |
+| 13.01.2018        |12. Februar 2018    |Anteiliger Zyklus für Instanz   |-4,00       |1        |-4,00   |
 |13.01.2018         |31.01.2018    | Anteiliger Zyklus für Instanz   |2,45       |1        |2,45    |
-|01.02.2018         |12.02.2018    | Anteiliger Zyklus für Instanz   |1,55       |2        |3,10    |
+|01.02.2018         |12. Februar 2018    | Anteiliger Zyklus für Instanz   |1.55       |2        |3,10    |
 |13.02.2018         |12.03.2018    | Anteiliger Zyklus für Instanz   |4,00       |2        |8,00    |
 
 Die monatliche Gebühr liegt bei 4,00, und es gibt 31 Tage im Dienstzeitraum vom 13.01.2018 bis zum 12.02.2018. Dies entspricht einem Preis pro Tag von 0,129 (4/31).
@@ -66,13 +73,13 @@ Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein ne
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührenart |Preis pro Einheit |Anzahl |Betrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-|13.01.2018         |12.02.2018    |Gebühr für Zyklus   |4,00       |1        |4,00    |
+|13.01.2018         |12. Februar 2018    |Gebühr für Zyklus   |4,00       |1        |4,00    |
 
 Am 1. Februar setzen Sie das Abonnement aus. Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührenart |Preis pro Einheit |Anzahl |Betrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13.01.2018|12.02.2018|Stornierungsgebühr|-4,00|1|-4,00
+13.01.2018|12. Februar 2018|Stornierungsgebühr|-4,00|1|-4,00
 
 ## <a name="suspend-after-30-days"></a>Nach 30 Tagen aussetzen
 
@@ -80,7 +87,7 @@ Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein ne
 
 |Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührenart |Preis pro Einheit |Anzahl |Betrag |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-13.01.2018|12.02.2018|Gebühr für Zyklus|4,00|1|4,00
+13.01.2018|12. Februar 2018|Gebühr für Zyklus|4,00|1|4,00
 
 Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 

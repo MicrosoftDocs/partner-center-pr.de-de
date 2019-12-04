@@ -1,7 +1,7 @@
 ---
 title: Berechnung der Gutschrift durch den Partner Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie der Azure-Plan für Partner verdiente Gutschriften ("Partner verdiente Guthaben") berechnet wird. Dies schließt die Berechtigungsanforderungen für Partner und indirekte Anbieter ein.
@@ -9,22 +9,26 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 59cbc822e886b031a49c281334e8287580311408
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: aee60449a31cf1908912cc1fa62e2bf2c003f998
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253416"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721727"
 ---
 # <a name="how-the-partner-earned-credit-pec-is-calculated"></a>Berechnen der Gutschrift für den Partner (PEC)
 
+**Geeignete Rollen**
 
-Partner, die die rund um die Uhr über die IT-Betriebsverwaltung von Teilen oder die gesamte Azure-Umgebung ihrer Kunden im CSP besitzen, werden mit PEC belohnt. Das PEC wird als Teil der Rechnung an den Partner über eine direkte abrechnungsbeziehung mit Microsoft bereitgestellt. Die Gutschrift wird täglich berechnet und in der monatlichen Rechnung widergespiegelt. Standardmäßig erhalten Partner in CSP die erforderlichen Zugriffsrechte für das Abonnement des Kunden, das es Ihnen ermöglicht, rund um die Uhr Betriebsverwaltung zu verfügen und die Ressourcen des Abonnements zu steuern. Weitere Möglichkeiten zum Bereitstellen von Zugriff für einen Transaktionspartner finden Sie im folgenden Abschnitt.   
+- Globaler Administrator
+- Abrechnungsadministrator
+
+Partner, die die rund um die Uhr über die IT-Betriebsverwaltung von Teilen oder die gesamte Azure-Umgebung ihrer Kunden im CSP besitzen, werden mit PEC belohnt. Das PEC wird als Teil der Rechnung an den Partner über eine direkte abrechnungsbeziehung mit Microsoft bereitgestellt. Die Gutschrift wird täglich berechnet und in der monatlichen Rechnung widergespiegelt. Standardmäßig erhalten Partner in CSP die erforderlichen Zugriffsrechte für das Abonnement des Kunden, das es Ihnen ermöglicht, rund um die Uhr Betriebsverwaltung zu verfügen und die Ressourcen des Abonnements zu steuern. Weitere Möglichkeiten zum Bereitstellen von Zugriff für einen Transaktionspartner finden Sie im folgenden Abschnitt.
 
 
 ## <a name="important-eligibility-and-calculation-requirements"></a>Wichtige Anforderungen für die Eignung und Berechnung:
 
-- Ein Partner sollte über eine aktive MPN-Vereinbarung und eine gültige RBAC-Rolle (Role Based Account C) verfügen, um eine Gutschrift für die von Ihnen verwalteten Azure-Ressourcen zu erhalten. Weitere Informationen zu [gültige RBAC-Rollen]
+- Ein Partner sollte über eine aktive MPN-Vereinbarung und eine gültige regelbasierte Rolle für die Konto Steuerung (RBAC) verfügen, um eine Gutschrift für die von Ihnen verwalteten Azure-Ressourcen zu erhalten. Weitere Informationen zu [gültige RBAC-Rollen]
 
 - Der indirekte Anbieter kann sich für die Verwaltung von Management Pack qualifizieren, wenn Sie oder der indirekte Händler über eine operative Kontrolle und Verwaltung der Azure-Ressourcen des Kunden in CSP verfügen.
 

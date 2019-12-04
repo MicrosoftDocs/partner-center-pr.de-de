@@ -1,31 +1,38 @@
 ---
 title: Nutzungs Abgleich-Dateien mit täglicher Bewertung | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
-description: Grundlegendes zu Nutzungs Abgleich-Dateien für die tägliche Bewertung in Partner Center.
+ms.date: 11/27/2019
+description: Erfahren Sie, wie Sie Nutzungs Abgleich-Dateien für die tägliche Bewertung in Partner Center lesen.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 896f81b3a51e234065af7779d287b4023dd7163c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d7de5da8529aefb325961ac5c139a9375b66f7e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389698"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721855"
 ---
 # <a name="daily-rated-usage-reconciliation-files"></a>Nutzungs Abgleich-Dateien mit täglicher Bewertung
 
-Gilt für:
+**Zielgruppe**
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Abrechnungsadministrator
+- Vertriebsbeauftragter
+- Helpdesk-Agent
 
 In diesem Thema wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit täglicher Bewertung lesen.
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Felder in den Nutzungs Abgleich-Dateien mit täglicher Bewertung
 
-| Spalte | Description |
+| Column | Beschreibung |
 | ------ | ----------- |
 | PartnerID | Die Partner-ID im GUID-Format. |
 | PartnerName | Name des Partners. |
@@ -58,7 +65,7 @@ In diesem Thema wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit tägliche
 | Ressourcenspeicherort | > dem Rechenzentrum, in dem die Verbrauchseinheit ausgeführt wird. |
 | Genutzter Dienst | Der Azure-Plattformdienst, den Sie verwendet haben. |
 | Ressourcen-URI | Der URI der verwendeten Ressource. |
-| Gebührenart | Art der Gebühren oder der Anpassungen. Für die aktuelle Aktivität nicht verfügbar. |
+| Gebührenart | Art der Gebühren oder der Anpassung. Für die aktuelle Aktivität nicht verfügbar. |
 | Preis pro Einheit | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dieser Preis den im Abrechnungssystem während der Abstimmung gespeicherten Informationen entspricht. |
 | Anzahl | Anzahl der Lizenzen. Stellen Sie sicher, dass dieser Preis den im Abrechnungssystem während der Abstimmung gespeicherten Informationen entspricht. |
 | Typ der Einheit | Der Typ der Einheit, mit der die Verbrauchseinheit in Rechnung gestellt wird. Für die aktuelle Aktivität nicht verfügbar. |

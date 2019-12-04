@@ -11,20 +11,28 @@ ms.topic: article
 keywords: Geschäftsdaten
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1cbd543d5d9385cbae73e66645b74292f4b12f7c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 494ef694410f193e3b76e476e5a6571b7ecf27e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253369"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722365"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>Analysieren von Abonnements und Lizenzen 
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
+- Partner im Cloud Solution Provider-Programm
 
-Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Analysen zu Abonnements und Lizenzen**, um Ihre Erfolge sowie die Bereiche zu bestimmen, die mehr Aufmerksamkeit erfordern. Verwenden Sie diese Informationen für die Planung neuer Geschäftsziele.
+**Geeignete Rollen**
+
+- Globaler Administrator
+- Benutzerverwaltungsadministrator
+- Administratoragent
+- Vertriebsbeauftragter
+
+Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Analysen zu Abonnements und Lizenzen**, um Ihre Erfolge sowie die Bereiche zu bestimmen, die mehr Aufmerksamkeit erfordern. Nutzen Sie diese Informationen bei der Planung neuer Geschäftsziele.
 
 > [!NOTE]
 > Die Analysen zu Abonnements und Lizenzen stehen nur Partnern im Cloud Solution Provider-Programm zur Verfügung.

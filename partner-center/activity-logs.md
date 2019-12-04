@@ -10,20 +10,29 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Aktivitätsprotokolle, Abonnement, Abonnements, Zahlungen, Abrechnung, Transaktionen
 ms.localizationpriority: medium
-ms.openlocfilehash: b9c1c2e6cc97fc923707ba8c2cbab42117c9c259
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252704"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721793"
 ---
 # <a name="view-customer-activity-logs"></a>Anzeigen von Kundenaktivitätsprotokollen
 
-**Gilt für**
+**Zielgruppe**
 
--  Partner Center
--  Partner Center für Microsoft Cloud for US Government
+- Partner Center
+- Partner Center für Microsoft Cloud for US Government
+- Partner im Cloud Solution Provider-Programm
 
+**Geeignete Rollen**
+
+- Globaler Administrator
+- Abrechnungsadministrator
+- Benutzerverwaltungsadministrator
+- Administratoragent
+- Vertriebsbeauftragter
+- Helpdesk-Agent
 
 Aktivitätsprotokolle enthalten Informationen zu Transaktionen und Partnerverwaltungsaktionen für Kunden. Protokolle für Transaktionen bieten detaillierte Informationen zu Transaktionen, einschließlich zahlungspflichtiger Abonnements. Sie können Aktivitätsprotokolle auch in eine mit Excel kompatible durch Trennzeichen getrennte Datei (.csv) exportieren.
 
@@ -31,7 +40,9 @@ Aktivitätsprotokolle enthalten Datensätze für Partneraktionen für Kundenkont
 
 **Anzeigen und Exportieren von Aktivitätsprotokollen**
 
-1.  Wähle im Menü **Kontoeinstellungen** die Option **Aktivitätsprotokoll** aus.
+1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an.
+
+2. Wähle im Menü **Kontoeinstellungen** die Option **Aktivitätsprotokoll** aus.
 2.  Wählen Sie mithilfe der Felder **Von** und **Bis** den Aktivitätsprotokollierungszeitraum aus. Für den Export des Aktivitätsprotokolls wird standardmäßig der letzte Monat festgelegt.
 
     Jedes Aktivitätsprotokoll enthält einen Link zur Seite **Abonnements** des aufgeführten Kunden.

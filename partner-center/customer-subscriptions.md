@@ -1,7 +1,7 @@
 ---
 title: Kundenabonnements | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Partner im CSP-Programm Abonnements an Kunden verkaufen und über Partner Center verwalten können.
@@ -9,22 +9,29 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: Abonnements, Lizenz zuweisen, Lizenz, Kundenzufriedenheit, Azure-Abonnements
 ms.localizationpriority: medium
-ms.openlocfilehash: 62b043a6bc6502bc8755f47e3b930d5f611ac62f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1c2116ca31b82e8b135208b4569012937d118866
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253498"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722551"
 ---
 # <a name="customer-subscriptions"></a>Kundenabonnements
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 
+**Geeignete Rollen**
+
+- Administratoragent
+- Globaler Administrator
+- Helpdesk-Agent
+- Vertriebsbeauftragter
+
 Als CSP-Partner besteht eine der zentralen Aufgaben darin, Ihren Kunden Abonnements für Microsoft-Produkte anzubieten. Im Partner Center können Sie alle Abonnements für die einzelnen Kunden verwalten. Sie können Abonnements hinzufügen, Lizenzen zu vorhandenen Abonnements hinzufügen und sogar Testabonnements für Kunden anbieten, die die Software zuerst testen möchten. Darüber hinaus können Sie Analysen anzeigen, um zu verstehen, wie Ihre Kunden die Software verwenden, sodass Sie besseren Support bieten können.
 
-|**Aufgabe**   |**Artikel**   |
+|**Aufgabe**   |**Bitte lesen**   |
 |----------------------|:----------------------|
 |Erstellen und Verwalten von Abonnements für bestehende Kunden im Partner Center|[Erstellen eines neuen Abonnements](create-a-new-subscription.md)|
 |Nachdem Sie das Abonnement hinzugefügt haben, können Sie den Mitarbeitern des Kunden Lizenzen zuweisen.  |[Zuweisen von Lizenzen an Benutzer](assign-licenses-to-users.md)|

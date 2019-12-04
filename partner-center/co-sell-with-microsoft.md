@@ -1,7 +1,7 @@
 ---
 title: Co-Selling mit Microsoft | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Als qualifizierter Microsoft-Partner können Sie Co-Selling mit Microsoft durcharbeiten. Erfahren Sie, wie Sie Engagements definieren, Microsoft zur Zusammenarbeit einladen oder gesendete Engagements anzeigen.
@@ -10,18 +10,23 @@ ms.author: jenhayes
 keywords: Empfehlung, RFI, Partner suchen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ce7fe09c57729517c9ecae124cdcb68e2ea84628
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 836bb2634a010cee7adab883f47af50fc7007d73
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253446"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721502"
 ---
 # <a name="co-sell-with-microsoft"></a>Co-Selling mit Microsoft
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
+
+**Geeignete Rollen**
+
+- MPN-Partneradministrator
+- Empfehlungsadministrator
 
 Als qualifizierter Microsoft-Partner haben Sie die Möglichkeit, mit Microsoft gemeinsam zu verkaufen. Diese Zusammenarbeit unterstützt Sie beim Erstellen von Lösungen für den Markt, bei einem gemeinsamen Umsatz und beim Erfolg der Kunden.
 

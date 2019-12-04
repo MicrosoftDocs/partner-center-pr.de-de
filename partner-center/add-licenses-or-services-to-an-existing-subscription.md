@@ -10,18 +10,27 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Hinzufügen von Lizenzen zu einem vorhandenen Abonnement, Plätze zu einem vorhandenen Abonnement hinzufügen, Abonnement andern, Ändern eines Abonnements, Weitere Lizenzen für einen Kunden erwerben
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c38ba3b789d1719c7987cedc63533396f5827b1
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ead019e0e2619c045cc5330c11dfcb3933092834
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253142"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721759"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement
 
-**Gilt für**
+**Zielgruppe**
 
--  Partner Center
+- Partner Center
+- Partner im Cloud Solution Provider-Programm
+
+**Geeignete Rollen**
+
+- Globaler Administrator
+- Benutzerverwaltungsadministrator
+- Administratoragent
+- Vertriebsbeauftragter
+- Helpdesk-Agent
 
 Wenn Ihr Kunde mehr Lizenzen benötigt, als das aktuelle Abonnement zur Verfügung stellt, oder wenn er eine andere Version mit zusätzlichen Services benötigt, können Sie das Abonnement aktualisieren. Weitere Informationen finden Sie unter [Wechseln zu einem anderen Office 365 Business-Plan](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
@@ -73,8 +82,6 @@ Die folgenden Updates werden vom Cloud-Lösungsanbieter unterstützt:
 </tr>
 </tbody>
 </table>
-
- 
 
 Upgrades von Abonnements können erfolgen, wenn die folgenden Bedingungen zutreffen:
 

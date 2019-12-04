@@ -1,26 +1,32 @@
 ---
 title: Erstellen und Verwalten eines Incentive-Anspruchs | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Erfahren Sie, wie Sie die Co-op-Ansprüche von Partner Center initiieren. Alle Aktivitäten im Rahmen der Erstellung des Anspruchs werden im Verlauf angezeigt.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Incentive-Ansprüche, Co-Op-Ansprüche, Co-Op-Mittel
+keywords: Incentives-Ansprüche, Co-Op-Ansprüche, Co-Op-Mittel
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e315ba8963d62e47275344b973fb68a79fe72337
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1be444403d2b36bcee13648a767b0cfdf448c06b
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253473"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721689"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>Erstellen und Verwalten eines Incentives-Anspruchs
 
-**Gilt für**
+**Zielgruppe**
 - Partner Center
+
+**Geeignete Rollen**
+
+- Globaler Administrator
+- Incentiveadministrator
+- Incentivebenutzer
 
 Sie können im Partner Center einen Incentives-Anspruch initiieren. 
 

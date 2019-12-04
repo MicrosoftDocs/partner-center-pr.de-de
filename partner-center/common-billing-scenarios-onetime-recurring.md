@@ -1,21 +1,28 @@
 ---
 title: Häufige Abrechnungs Szenarien für einmalige und wiederkehrende Käufe | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
-description: Allgemeine Abrechnungs Szenarien im Partner Center für einmalige und wiederkehrende Käufe (z. b. Kauf Abonnements, Hinzufügen von weiteren Abonnements, hinzufügen und Entfernen von Arbeitsplätzen).
+ms.date: 11/25/2019
+description: Weitere Informationen finden Sie in den Partner Center-Abrechnungs Beispielen für einmalige und wiederkehrende Käufe. Wenn Sie Abonnements erwerben, können Sie weitere Abonnements hinzufügen, Arbeitsplätze hinzufügen oder entfernen.
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Abrechnung, Zahlungen, einmaliger Kauf, wiederkehrende Käufe, Abonnements, Arbeitsplätze
 ms.localizationpriority: medium
-ms.openlocfilehash: 69a7f1d4ded608942ea8b4bd7bec6054a44d52c7
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: f330e49fdfea9b93d02a644610f3621916667f86
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389638"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722509"
 ---
 # <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>Einmalige Kauf Abrechnungs Szenarien und Auswählen von wiederkehrenden Abrechnungs Szenarien
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Abrechnungsadministrator
+- Helpdesk-Agent
+- Vertriebsbeauftragter
 
 Diese Beispiel [Szenarien für allgemeine Abrechnung](common-billing-scenarios.md) gelten für [einmalige und ausgewählte wiederkehrende Gebühren](one-time-and-recurring-billing.md) im Partner Center.
 

@@ -1,7 +1,7 @@
 ---
 title: Abrechnungs Typen in Partner Center | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie mehr über verschiedene Abrechnungs Typen, Abrechnungs Zeiträume und Abrechnungsdaten, die Sie möglicherweise im Partner Center sehen.
@@ -10,19 +10,27 @@ ms.author: evansma
 keywords: Abrechnung, Zahlungen, Bestellungen, Kontenabstimmungsdateien, Kontenabstimmungsdatei
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9f5e48ca5cc127427eab7d46eb21071baa3403c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 73378fda27cfb5cec8b9805ef90dbfa1c854bc44
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384853"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722248"
 ---
 # <a name="types-of-billing-in-partner-center"></a>Abrechnungs Typen in Partner Center
 
-Gilt für:
+**Zielgruppe**
 
 - Partner Center
 - Partner im CSP-Programm
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Abrechnungsadministrator
+- Globaler Administrator
+- Helpdesk-Agent
+- Vertriebsbeauftragter
 
 Die Abrechnung von Partner Center-Käufen erfolgt in Abhängigkeit von den Produkten, Lösungen und Diensten, die Sie im Namen Ihrer Kunden erwerben. Die Abrechnungs Typen lauten wie folgt:
 

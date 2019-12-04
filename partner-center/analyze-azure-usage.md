@@ -11,20 +11,28 @@ ms.topic: article
 keywords: Geschäftsdaten
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 89d76cf3945c5831f6ab2fd1fe77c8df1b9c233e
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 096996b4ebc6953125e41b80ecd0e991d0bdec86
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253393"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722387"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Abrufen von Daten zur Verwendung der Azure-Abonnements Ihrer Kunden
 
-Gilt für:
+**Zielgruppe**
 
 - Partner Center
+- Partner im Cloud Solution Provider-Programm
 
-Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Azure-Nutzung**, um Ihre Erfolge sowie die Bereiche zu identifizieren, die mehr Aufmerksamkeit erfordern. Verwenden Sie diese Informationen für die Planung neuer Geschäftsziele.
+**Geeignete Rollen**
+
+- Globaler Administrator
+- Benutzerverwaltungsadministrator
+- Administratoragent
+- Vertriebsbeauftragter
+
+Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Azure-Nutzung**, um Ihre Erfolge sowie die Bereiche zu identifizieren, die mehr Aufmerksamkeit erfordern. Nutzen Sie diese Informationen bei der Planung neuer Geschäftsziele.
 
 > [!NOTE]
 > Azure Usage Analytics ist nur für Partner im Cloud Solution Provider-Programm verfügbar.

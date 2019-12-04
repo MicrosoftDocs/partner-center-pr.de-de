@@ -1,7 +1,7 @@
 ---
 title: Leitfaden zum Migrieren von PMC zu Partner Center | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie Sie Ihr Unternehmen vom Partner Membership Center (PMC) zu Partner Center migrieren.
@@ -9,14 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: high
-ms.openlocfilehash: f9ce53adddd2faecf22ef795e8ffe97189c57353
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: c656981bfd5eb99e34a24f70960d4bc7da581896
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252210"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721879"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Leitfaden zum Migrieren von PMC zu Partner Center
+
+**Geeignete Rollen**
+
+- Globaler Administrator
 
 Die Microsoft-Partner-Website unter „partner.microsoft.com“ ist ein einheitliches digitales Verfahren für Partner. Über die Partner-Website können Sie Ihre Verkaufschancen untersuchen und sich mit Anleitungen befassen, die Ihrem Unternehmen bei der Erstellung und dem Vertrieb Ihrer Apps und Dienste mit Microsoft helfen. Über den Dashboard-Link, der auf der Partner-Website zur Verfügung steht, können sich Mitglieder des Microsoft Partner Networks bei dem Partner Center anmelden, in dem Sie Ihre Beziehung mit Microsoft verwalten sowie sich für Programme und Angebote registrieren. 
 

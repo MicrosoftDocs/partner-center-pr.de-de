@@ -1,8 +1,8 @@
 ---
 title: Abrechnungsübersicht | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
-description: Grundlegende Abrechnungs-und Rechnungsinformationen für Partner Center.
+ms.date: 11/25/2019
+description: Erfahren Sie mehr über die grundlegenden Abrechnungs-und Rechnungsinformationen für Partner Center.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,26 +10,36 @@ ms.author: labrenne
 keywords: Abrechnung, Zahlungen, Bestellungen, Kündigung, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Kontenabstimmungsdateien, Kontenabstimmungsdatei
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10fe47ea038fadf8ca26fe0ab42a0d0d3a9472bd
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e77d641b1b75c5d462871aa61c3f67bc6d6dd13e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384544"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722469"
 ---
 # <a name="billing-overview"></a>Abrechnungsübersicht
 
-Gilt für:
+**Zielgruppe**
 
 - Partner Center
 - Partner im Cloud Solution Provider-Programm (CSP)
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Abrechnungsadministrator
+- Globaler Administrator
+- Helpdesk-Agent
+- Vertriebsbeauftragter
 
 ## <a name="find-your-bill"></a>Finden Sie Ihre Rechnung
 
 So finden Sie Ihre Rechnung:
 
 1. [Melden Sie sich beim Partner Center-Dashboard](https://partner.microsoft.com/dashboard/home)an.
+
 2. Wählen Sie im Menü auf der linken Seite die Option **Abrechnung**aus.
+
 3. Auf der Seite **Abrechnung** können Sie die neueste Rechnung herunterladen oder vorherige Rechnungen im Abschnitt **Abrechnungs Verlauf** herunterladen.
 
 ## <a name="bill-your-customers"></a>Kunden Rechnung

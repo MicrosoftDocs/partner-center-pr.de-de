@@ -1,7 +1,7 @@
 ---
 title: Anpassen der Windows-Willkommensseite eines Geräts mit Windows Autopilot-Profilen | Partner Center
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie die Out-of-Box-Benutzerfreundlichkeit eines neuen Geräts mit Autopilot-Profilen anpassen oder vorab konfigurieren, bevor Sie das Gerät an den Kunden übermitteln.
@@ -9,18 +9,25 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero-Touch Deployment, Windows-Willkommensseite, Anmeldebildschirme, Willkommensseite
 ms.localizationpriority: medium
-ms.openlocfilehash: a07c18fda7de0aa5854fb46a91bea692c033d51c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 16653865ff251bcf73dcd79c4948d3326bcc0fab
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253328"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721424"
 ---
-# <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>Anpassen der Windows-Willkommensseite eines Geräts mit Windows Autopilot-Profilen
+# <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Anpassen der Out-of-Box-Darstellung für ein Gerät mit Windows Autopilot-Profilen
 
-**Gilt für**
+**Zielgruppe**
 
 - CSP-Partner mit Direktfakturierung, indirekte Anbieter und indirekte Vertriebspartner
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Globaler Administrator
+- Vertriebsbeauftragter
+- Benutzerverwaltungsadministrator
 
 Wenn Sie Kundengeräte verwalten, müssen Sie die Windows-Willkommensseite für die Benutzer des Kunden anpassen. Sie können neue Geräte mit Windows Autopilot-Profilen vorkonfigurieren, bevor Sie die Geräte an Kunden ausliefern, und neue Profile auf bereits erworbene Geräte anwenden. 
 
@@ -83,7 +90,7 @@ Im Partner Center können Sie Windows Autopilot-Bereitstellungsprofile erstellen
        >[!IMPORTANT] 
        >Unter [Ablehnung der Lizenzbedingungen für Windows Autopilot](#windows-autopilot-eula-dismissal) finden Sie wichtige zu beachtende Informationen beim Überspringen der Seite mit den Lizenzbedingungen während des Setups von Windows.
 
-5. Klicken Sie abschließend auf **Übermitteln**.
+5. Klicken Sie abschließend auf **Senden**.
 
 ### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Anwenden eines Autopilot-Profils auf Kundengeräte
 

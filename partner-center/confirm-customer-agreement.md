@@ -1,7 +1,7 @@
 ---
 title: Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie, wie Sie die Kundenakzeptanz des Microsoft-Kunden Vertrags bestätigen. Dies kann erforderlich sein, um Microsoft-Produkte und-Dienste für Kunden zu bestellen.
@@ -9,14 +9,19 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Kunden, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Microsoft-Kundenvertrag, Vorlagen für Kundenverträge
 ms.localizationpriority: medium
-ms.openlocfilehash: 9d362f581d0d318b1a457ba6a75db54713fce6bb
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 8beee9ed9035ff846c6e9d84fefd0c5c2ba255de
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252225"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721371"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Bestätigen Sie die kundenannahme des Microsoft-Kunden Vertrags.
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Vertriebsbeauftragter
 
 Derzeit muss der Kunde die anwendbare **Microsoft Cloud Vereinbarung**annehmen und signieren, bevor ein CSP-Partner die Bestellung im Auftrag eines Kunden platzieren kann. Anschließend muss der Partner seine Kundenzustimmung bestätigen, indem er Microsoft Informationen zum Signaturgeber zur Verfügung stellt. Wenn keine Bestätigung bereitgestellt wird:
 - Sie sind nicht in der Lage, neue Bestellungen für diesen Kunden zu erstellen.
@@ -26,7 +31,7 @@ Weitere Informationen dazu, wie Sie die Zustimmung eines Kunden zum Microsoft Cl
 
 Am 1. Oktober 2019 stellt Microsoft den **Microsoft-Kundenvertrag** für das CSP-Programm vor, der den Microsoft Cloud-Vertrag ersetzt. Um die Migration von Partnern zum neuen Vertrag zu erleichtern, wird der aktuelle Microsoft Cloud-Vertrag noch bis zum 31. Januar 2020 im CSP-Programm unterstützt. Weitere Informationen zum zeitlichen Ablauf finden Sie in der folgenden Tabelle:
 
-| date | Meilenstein | Details |
+| Datum | Meilenstein | Details |
 |------------|------------|--------------------------------|
 |1\. August 2019|In Sandbox verfügbare UX-Vorschau|Partner können die Zustimmung des Kunden zum Microsoft-Kundenvertrag über das Partner Center-Dashboard in der CSP-Sandboxumgebung bestätigen. Partner, die Zugriff auf die CSP-Sandboxumgebung haben, erhalten eine Vorschau auf die Änderungen bei der Benutzeroberfläche. Partner ohne Sandboxzugriff können sich in diesem Thema über die Änderungen informieren.|
 |03. September 2019|In Sandbox verfügbare API-Vorschau|Partner können die Zustimmung des Kunden zum Microsoft-Kundenvertrag über die Partner Center-API in der CSP-Sandboxumgebung bestätigen. API-Partner können diese Gelegenheit nutzen, um sich eine Vorschau der API-Änderungen anzusehen und mit der API-Integration zur Unterstützung des neuen Vertrags zu beginnen.|

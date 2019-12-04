@@ -1,7 +1,7 @@
 ---
 title: Zuweisen von Supportkontakten | Partner Center
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie einen Reseller als technischen Support für Kunden mit Abonnements für Microsoft-Dienste zuweisen.
@@ -11,18 +11,26 @@ ms.author: labrenne
 keywords: Supportmitarbeiter, Support, Supportkontakt zuweisen, designierter Supportkontakt
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cf8e4bde1380123ff9c93c23f1fb9b7a0924cca5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0c27f0919d9ed14c91764677465db4945b680cc8
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253339"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722402"
 ---
 # <a name="assign-support-contacts"></a>Zuweisen von Supportkontakten
 
-**Gilt für**
+**Zielgruppe**
 
--  Partner Center
+- Partner Center
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Globaler Administrator
+- Helpdesk-Agent
+- Vertriebsbeauftragter
+- Benutzerverwaltungsadministrator
 
 Wenn Sie Abonnements für Microsoft-Dienste für Ihre Kunden einrichten, können Sie den technischen Support für diese Produkte einem designierten Handelspartner zuweisen, anstatt den Support selbst bereitzustellen.
 

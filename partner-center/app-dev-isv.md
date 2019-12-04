@@ -9,16 +9,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Kompetenzen, ISV, Anwendungsentwicklung
 ms.localizationpriority: medium
-ms.openlocfilehash: 810fd3446077365d9a6b838840a89cdca85edef1
-ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
+ms.openlocfilehash: 9c6346231baffa65270c0a3f5de261628271e620
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "74559500"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722350"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Ausnahme bei der einmaligen Prüfung von Anforderungen für die Anwendungs Entwicklungskompetenz
 
-**Zutreffende Rollen**
+**Geeignete Rollen**
 
 - Globaler Administrator
 - MPN-Partneradministrator

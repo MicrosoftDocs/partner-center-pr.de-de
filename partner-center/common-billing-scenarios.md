@@ -1,27 +1,34 @@
 ---
 title: Allgemeine Abrechnungsszenarien | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erläuterung, was Sie auf Ihrer Rechnung sehen, nachdem Sie neue Abonnements hinzugefügt, die Anzahl der Lizenzen in einem Abonnement angepasst oder ein Abonnement gekündigt haben. Die Auswirkungen fallen für nutzungsbasierte und lizenzbasierte Abonnements unterschiedlich aus.
+description: Untersuchen Sie die Abrechnung, nachdem Sie neue Abonnements hinzugefügt, die Lizenz Menge angepasst oder ein Abonnement gekündigt haben. Sehen Sie sich an, wie sich nutzungsbasierte und Lizenz basierte Abonnements unterscheiden.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Abrechnung, Zahlungen, Bestellungen, Nutzung, lizenzbasierte Abrechnung, Abonnementdatum, Laufzeit, Kündigung, Verlängerung, Kontenabstimmungsdatei, Abstimmungsdatei
 ms.localizationpriority: medium
-ms.openlocfilehash: eaedbdf3f931c1b28f1219efe2739e9b65162864
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 2c7a24d0d33aa071ce4edba5cf579f6a6371af3d
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384603"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722021"
 ---
 # <a name="common-billing-scenarios"></a>Allgemeine Abrechnungsszenarien
 
-Gilt für:
+Betrifft
 
 - Abrechnungsprogramm für cloudlösungsanbieter (CSP)
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Abrechnungsadministrator
+- Helpdesk-Agent
+- Vertriebsbeauftragter
 
 In diesen Themen wird erläutert, was Sie auf Ihrer Rechnung erwarten sollten, nachdem Sie neue Abonnements hinzugefügt, neue Arbeitsplätze hinzugefügt, die Anzahl der Lizenzen an ein Abonnement angepasst oder ein Abonnement gekündigt haben. Andere [Partner Center-Abrechnungs Typen](billing-different-types.md), z. b. nutzungsbasierte und Lizenz basierte Abonnements, werden unterschiedlich abgerechnet.
 

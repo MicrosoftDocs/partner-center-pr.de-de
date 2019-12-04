@@ -1,7 +1,7 @@
 ---
 title: Verkaufen von Softwareabonnements über CSP | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Partner im CSP-Programmpartner Center verwenden können, um reservierte Azure-Instanzen und Server Abonnements für Kunden zu erwerben, zu verwalten, zu verkaufen und abzubrechen.
@@ -10,14 +10,19 @@ ms.author: evansma
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Azure RI, Windows Server, SQL Server, Softwareabonnements
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 32efdc721bd9a81ff04527ca82e5e71c1fe7cb58
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0e2b735c1b67b49c18f2b83c042ec5a2bb0eefbd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253550"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721343"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Verkaufen von Softwareabonnements über CSP
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Globaler Administrator
 
 Mit Azure-Reservierungen und Server Abonnements (Windows Server-und SQL Server-Abonnements) können Partner im CSP-Programm die fast wachsende Kundennachfrage für kostengünstigere Lösungen besser erfüllen, um hochgradig vorhersagbare und persistente Lösungen zu unterstützen. Cloud-Workloads. 
 
@@ -28,17 +33,17 @@ Der Azure-Hybridvorteil hilft Ihnen, mehr Nutzen aus Ihren Windows Server-Lizenz
 > [!NOTE]  
 > Azure-Reservierungen sind in den folgenden Märkten nicht verfügbar:  
 > * Argentinien
-> * Brazilien
+> * Brasilien
 > * China
 > * Indonesien
 > * Liechtenstein
 > * Jersey
 > * Malaysia
 > * Mexiko
-> * Russland
+> * Russische Föderation
 > * Saudi-Arabien
 > * Südafrika
-> * Turkei
+> * Türkei
 
 <!--March 20, 2019 - this list of countries was correct as of today. Maggie last updated the list according to FAREAST\v-pubobb in bug 20907186.
 -->

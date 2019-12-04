@@ -1,7 +1,7 @@
 ---
 title: Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie, wie Sie die kundenannahme der Microsoft Cloud Vereinbarung bestätigen. Dies kann erforderlich sein, um Microsoft-Produkte und-Dienste für Kunden zu bestellen.
@@ -9,22 +9,27 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Kunden, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Vorlagen für Kundenverträge
 ms.localizationpriority: medium
-ms.openlocfilehash: d9b2df8f9cf8795eedb75bc23773942e365c83fe
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 8e6493fccee9b00c953e18446ec6f101bf267210
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252591"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722092"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag
 
-**Gilt für**
+**Zielgruppe**
 -  Partner Center
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Vertriebsbeauftragter
 
 > [!NOTE]
 > Die Vertragsressource wird zurzeit von Partner Center nur in der Microsoft Public Cloud unterstützt. Gilt nicht für:
 > * Partner Center-Betreiber ist 21Vianet
-> * Partner Center für Microsoft-Cloud Deutschland
+> * Partner Center für Microsoft Cloud Deutschland
 > * Partner Center für Microsoft Cloud for US Government
 
 >[!NOTE]
@@ -92,7 +97,7 @@ Beachten Sie, dass Sie dafür ein Administrator-Agent oder Vertriebsbeauftragter
 2. Wählen Sie **Kontoinformationen** aus.
 3. Wählen Sie unter **Microsoft Cloud-Vertrag** die Option **Aktualisieren** aus.
 
-![Update/Aktualisieren](images/mca/mca4.png)
+![die Registerkarte „Update“](images/mca/mca4.png)
 
 4. Geben Sie **Vorname**, **Nachname**, **E-Mail-Adresse** und **Telefonnummer** (optional) des Benutzers ein, der dem Vertrag zugestimmt hat.
 5. Geben Sie unter **Datum der Vertragsannahme** das entsprechende Datum ein. Dieses kann nicht auf ein Datum in der Zukunft festgelegt werden.

@@ -1,7 +1,7 @@
 ---
 title: Verkaufen von Office 365 Government GCC für CSP | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über die Schritte und Anforderungen zum verkaufen von Abonnements für Office 365 Government gcc für CSP an qualifizierte USA Government-Kunden oder-Auftragnehmer.
@@ -9,20 +9,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ce13e443e8165d5965ea7eacd0ccd5bfdb8a65a5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0f940ebb873ae0e847804f21bfc23715dd32803a
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252378"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721959"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Verkaufen von Office 365 Government GCC für CSP-Abonnements an qualifizierte Kunden
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  CSP-Partner
 
+**Geeignete Rollen**
+
+- Globaler Administrator
+- Administratoragent
+- Vertriebsbeauftragter
 
 ## <a name="overview"></a>Übersicht
 
@@ -39,7 +44,7 @@ Nachdem Ihr Unternehmen für den Verkauf von Office 365 Government GCC für CSP-
 -   Eine detaillierte Anleitung zum Verkaufen von Office 365 Government GCC für CSP-Abonnements finden Sie [hier](https://go.microsoft.com/fwlink/?linkid=2007323).  
 
 
-## <a name="additional-resources"></a>Zusätzliche Ressourcen
+## <a name="additional-resources"></a>Weitere Ressourcen
 
 Sie haben auf der Microsoft 365 for Partners-Seite Zugriff auf die Informationen unter [Partner Opportunity in US Government](https://www.microsoft.com/microsoft-365/partners/governmentforCSP).
 

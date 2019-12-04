@@ -1,7 +1,7 @@
 ---
 title: Registrieren als Control Panel-Anbieter in Partner Center| Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie, wie Sie sich als System Steuerungs Anbieter (CPV) im Partner Center registrieren.
@@ -9,18 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Control Panel-Anbieter, CPV-Apps registrieren, CPV-Apps verwalten
 ms.localizationpriority: medium
-ms.openlocfilehash: 0edc8aed269f992738f39b6250e51ec5f694727c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d8320c584a9beefb6163a1072f90d66bdbaa8454
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253582"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722556"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>Registrieren als Control Panel-Anbieter in Partner Center
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
+
+**Geeignete Rollen**
+
+- Globaler Administrator
 
 Ein Control Panel-Anbieter (Control Panel Vendor, CPV) ist ein unabhängiger Softwarehersteller, der Anwendungen für Cloud-Lösungsanbieter (Cloud Solution Provider, CSP) entwickelt, damit sie ihre Systeme in Partner Center-APIs integrieren können. Ein Control Panel-Anbieter ist kein CSP-Partner mit direktem Zugriff auf das Partner Center-Dashboard oder die Partner Center-APIs.
 

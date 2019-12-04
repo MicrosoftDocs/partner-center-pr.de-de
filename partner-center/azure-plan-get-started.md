@@ -1,7 +1,7 @@
 ---
 title: 'Umstellung auf Azure-Plan: Einstieg | Partner Center'
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 12/02/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie etwas über die Commerce-Funktionalität des Azure-Plans zum Kauf von Azure-Diensten zu nutzungsbasierten Tarifen für Kunden. Informieren Sie sich auch über die neuen Sicherheitsanforderungen.
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: Azure, Azure-Plan, Abonnements erwerben, Abonnements
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7b59371ffe2208fcfd8d90f4697e88dfc9a1233b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 49807f982a75d55572e783c832896461b546cfd3
+ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253292"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "74681934"
 ---
 # <a name="move-to-azure-plan---get-started"></a>Umstellung auf Azure-Plan: Einstieg
 
@@ -27,7 +27,11 @@ Die Anforderungen unserer Kunden an digitale Transformation erfordern neue Quali
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Vergewissern Sie sich, dass Ihre Kunden den Microsoft-Kundenvertrag unterzeichnet haben.
 
-Ab dem 1. Oktober 2019 kann die Microsoft-Kundenvereinbarung, ein unbefristeter Vertrag, der das Kauferlebnis des Kunden mit einem vollständig digitalen Prozess vereinfacht und optimiert, von Kunden digital unterzeichnet werden. Alle Kunden, die die neue Commerce-Funktionalität in CSP für Azure nutzen möchten, müssen den Microsoft-Kundenvertrag unterzeichnen.
+Ab dem 1. Oktober 2019 steht der Microsoft-Kundenvertrag zur Verfügung– ein unbefristeter Vertrag, der das Kauferlebnis des Kunden mit einem vollständig digitalen Prozess vereinfacht und optimiert. Alle Kunden, die die neue Commerce-Funktionalität in CSP für Azure nutzen möchten, müssen den Microsoft-Kundenvertrag unterzeichnen.
+
+Partner, die unter dem neuen Azure-Plan Transaktionen durchführen und eine neue Bestellung aufgeben möchten, sollten die Zustimmung des Kunden zum Microsoft-Kundenvertrag über das Partner Center-Dashboard und die entsprechende API in der Produktionsumgebung bestätigen.
+
+Ab dem 1. Februar 2020 wird der vorhandene Microsoft Cloud-Vertrag aus dem CSP-Programm entfernt. Ab diesem Zeitpunkt ist die Partnerbestätigung (Nachweis) der Kundenakzeptanz für den neuen Microsoft-Kundenvertrag für alle anderen Angebote erforderlich, einschließlich Microsoft 365, Dynamics 365 und vorhandenem Azure. Partner im CSP können keine neue Bestellung für den Kunden ohne Nachweis des Microsoft-Kundenvertrags aufgeben.
 
 Vollständige Detailinformationen finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag](confirm-customer-agreement.md)
 

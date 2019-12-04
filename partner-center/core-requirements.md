@@ -1,7 +1,7 @@
 ---
 title: Incentives-Co-Op-Ansprüche – Grundlegende Anforderungen | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Hier erfahren Sie etwas über die Anforderungen zum Übermitteln eines Incentiveanspruchs in Partner Center für eine bestimmte Art von Aktivität innerhalb des Incentives-Co-Op-Programms.
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel, grundlegende Anforderungen
 ms.localizationpriority: high
-ms.openlocfilehash: 3ed6db76ae152b002ab9518e2f9b167d6aa88337
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: e8babb28ab14b2cada56d9c2f65a588e7c682c2c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252081"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721320"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>Grundlegende Anforderungen für Incentives-Co-Op-Ansprüche
 
 **Gilt für**
 
 - Partner Center
+
+**Geeignete Rollen**
+
+- Incentiveadministrator
+- Incentivebenutzer
 
 Für jede Art von Aktivität, für die Sie einen Incentiveanspruch übermitteln, gelten grundlegende Anforderungen, die Sie erfüllen und entsprechend in Ihren Dokumenten zum Nachweis der Ausführung hinterlegen müssen. In einigen Fällen gibt es bestimmte Kommunikationsarten und Metriken, die ebenfalls verpflichtend sind.
 

@@ -1,7 +1,7 @@
 ---
 title: Geschäftskonten und Partner Center | Partner Center
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, warum Sie zum Erstellen eines Partner Center-Kontos ein Geschäftskonto benötigen und ob Sie bereits ein Geschäftskonto haben.
@@ -10,18 +10,23 @@ ms.author: labrenne
 Keywords: Geschäftskonto, E-Mail-Adresse, Mandant, Azure-Mandant, Konto erstellen, Domänenname
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: c8b731eeed6590e040eda18cb0e7093b389447b4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: c309cd4f79bcc92fa54c903b4517fd5a1b8399fd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253320"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721353"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>Das Geschäftskonto Ihrer Firma und Partner Center  
 
 **Gilt für**
 
 -  Partner Center
+
+**Geeignete Rollen**
+
+- Globaler Administrator
+- Benutzerverwaltungsadministrator
 
 ## <a name="why-you-need-a-work-account"></a>Warum Sie ein Geschäftskonto benötigen
 
@@ -34,16 +39,18 @@ Ihr Geschäftskonto oder Ihre geschäftliche E-Mail-Adresse ist die von Ihrem Un
 Wenn Sie mehr als eine gültige geschäftliche E-Mail-Adresse haben, verwenden Sie die Adresse, die dem Hauptsitz Ihres Unternehmens zugeordnet ist, statt der regionalen Abteilung. Verwenden Sie beispielsweise statt der „contoso.uk“-E-Mail-Adresse Ihre „contoso.com“-Adresse.
 
 > [!NOTE]  
->  Bevor Sie beschließen, ein vorhandenes Geschäftskonto zu verwenden, überlegen Sie, wie viele Benutzer des Kontos im Partner Center arbeiten müssen. Wenn das Konto Benutzer enthält, die nicht im Partner Center arbeiten müssen, erwägen Sie die Erstellung eines neuen Kontos nur für diese Benutzer.
+> Bevor Sie beschließen, ein vorhandenes Geschäftskonto zu verwenden, überlegen Sie, wie viele Benutzer des Kontos im Partner Center arbeiten müssen. Wenn das Konto Benutzer enthält, die nicht im Partner Center arbeiten müssen, erwägen Sie die Erstellung eines neuen Kontos nur für diese Benutzer.
 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Sie sind nicht sicher, ob Ihre Firma bereits ein Geschäftskonto hat?
 
 Wenn Sie nicht genau wissen, ob Ihr Unternehmen ein Geschäftskonto hat, können Sie das mit den folgenden Schritten überprüfen. Hinweis: Mit einem aktiven Abonnement für Microsoft Azure oder Office 365 besitzen Sie bereits ein Geschäftskonto.
 
-1.  Melden Sie sich unter https://ms.portal.azure.com beim Microsoft Azure-Portal an.
-2.  Wählen Sie im Menü „Azure Active Directory“ und dann „Domänennamen“ aus.
-3.  Wenn Sie bereits ein Geschäftskonto haben, wird Ihr Domänenname aufgeführt.
+1. Melden Sie sich unter https://ms.portal.azure.com beim Microsoft Azure-Portal an.
+
+2. Wählen Sie im Menü „Azure Active Directory“ und dann „Domänennamen“ aus.
+
+3. Wenn Sie bereits ein Geschäftskonto haben, wird Ihr Domänenname aufgeführt.
 
 Falls Ihr Unternehmen noch kein Geschäftskonto hat, können Sie eines während des Registrierungsprozesses erstellen.
 

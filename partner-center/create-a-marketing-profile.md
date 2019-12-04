@@ -1,7 +1,7 @@
 ---
 title: Erstellen eines Unternehmensprofils | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie Sie Vertriebsleads von Microsoft erhalten. Ein wichtiger Schritt besteht darin, ein Unternehmensprofil in Partner Center zu erstellen, anhand dessen Kunden Sie suchen können.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, Empfehlungen, Vertriebskontakte, C2PC, Unternehmensprofil, Unternehmen vermarkten, Partner finden, Lösungsanbieter finden, Unternehmensprofil, Marketingprofil
 ms.localizationpriority: high
-ms.openlocfilehash: e9ff4e1df06e0a25142d42e8ba380654c9daed0b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252663"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722530"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -30,9 +30,16 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 **Gilt für**
 
--  Partner Center
--  Partner im Microsoft Partner Network
--  Partner im Cloud Solution Provider-Programm
+- Partner Center
+- Partner im Microsoft Partner Network
+- Partner im Cloud Solution Provider-Programm
+
+**Geeignete Rollen**
+
+- Kontoadministrator
+- Unternehmensprofiladministrator
+- Globaler Administrator
+- Empfehlungsadministrator
 
 Als qualifizierter Microsoft-Partner können Sie ein Unternehmensprofil erstellen, um Ihr Unternehmen Kunden zu präsentieren, die nach Ihren spezifischen Lösungen und Fachkenntnissen zur Bewältigung ihrer geschäftlichen Anforderungen suchen.
 

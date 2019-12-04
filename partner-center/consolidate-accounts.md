@@ -1,7 +1,7 @@
 ---
 title: Konsolidieren Ihrer Unternehmenskonten | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie etwas zum Konsolidieren von PMC-Konten (Partner Membership Center) in einem einzigen Konto in Partner Center. Dieser Vorgang erfolgt, wenn Sie von PMC zu Partner Center migrieren.
@@ -10,14 +10,19 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 77d148ccd1f71d06844b2f3467dcfb0fab967dfa
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 61a2566dbab5709fcc16fa61d0239f97e46039de
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252074"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721381"
 ---
 # <a name="consolidate-your-company-accounts"></a>Konsolidieren Ihrer Unternehmenskonten
+
+**Geeignete Rollen**
+
+- MPN-Partneradministrator
+- Kontoadministrator
 
 In der PMC verfügte Ihr Unternehmen möglicherweise über viele Konten und Standorte. Jeder Standort verfügte über ein eigenes Konto. Wenn Sie zu Partner Center migrieren, werden alle Konten und Standorte in einem primären globalen Konto mit mehreren Standorten konsolidiert. Deine MPN-IDs, Vorteile, Kompetenzen und Käufe werden ebenfalls verschoben – es geht nichts verloren. 
 

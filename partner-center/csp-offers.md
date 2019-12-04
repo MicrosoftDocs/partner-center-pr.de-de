@@ -1,7 +1,7 @@
 ---
 title: Angebote für Partner im Cloud Solution Provider-Programm | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr zu den verfügbaren Angeboten für Partner im Cloud Solution Provider-Programm.
@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Produkt hinzufügen, an Kunden verkaufen, Partnerangebote, CSP-Angebote, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner, in CSP verkaufen, Azure RI, Azure Reserved Virtual Machine Instances, Azure-Reservierungen, Onlinedienste, Abonnementsoftware, AHUB, SQL Server in Azure, Windows Server in Azure, Kundenabonnements
 ms.localizationpriority: high
-ms.openlocfilehash: 49010909cad50df40668606dff7bfd45260b580b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252909"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722536"
 ---
-# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Angebote für Partner im Cloud Solution Provider-Programm 
+# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Angebote für Partner im Cloud Solution Provider-Programm
 
 **Gilt für**
 
--  CSP-Partner
+- CSP-Partner
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Globaler Administrator
+- Vertriebsbeauftragter
 
 Für Microsoft-Partner im Cloud Solution Provider-Programm (CSP) gibt es einen stetig wachsenden Katalog an verfügbaren Angeboten. Sie können das gesamte Spektrum von [Microsoft Cloud Services](https://partner.microsoft.com/cloud-solution-provider/products-and-services) sowie eine Vielzahl zusätzlicher Angebote verkaufen, die sich häufig ändern. Um die aktuellen CSP-Angebote des laufenden Monats zu finden, melden Sie sich beim Partner Center an, und wechseln Sie zur Seite [**Preise und Angebote**](https://partnercenter.microsoft.com/pcv/sales).  
 

@@ -1,7 +1,7 @@
 ---
 title: Azure-Plan-Preisliste | Partner Center
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie Sie in Partner Center die Preisliste für Abonnements unter dem Azure-Plan anzeigen können.
@@ -10,14 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: f06b4b625f84ab6115f0c16de6814a991513435c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a0111883374fd12c3d4a2930347c0840231d437c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252682"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722053"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Preisliste für die neue E-Commerce-Benutzeroberfläche in CSP für Azure 
+
+**Geeignete Rollen**
+
+- Administratoragent
+- Abrechnungsadministrator
+- Globaler Administrator
+- Helpdesk-Agent
+- Vertriebsbeauftragter
+- Benutzerverwaltungsadministrator
 
 Die Preisliste für die neue Azure E-Commerce-Benutzeroberfläche in CSP ist im Partner Center veröffentlicht. Die Preisliste wird dynamisch in einer exakten Echtzeitdatei bereitgestellt, und die Preise werden nur in USD angezeigt. Die Abrechnung erfolgt jedoch in der unterstützten Währung, die am Währungsstandort des Kunden gilt. Weitere Informationen zur Abrechnung am Währungsstandort des Kunden finden Sie unter [Azure-Plan: Abrechnung](azure-plan-billing.md).
 

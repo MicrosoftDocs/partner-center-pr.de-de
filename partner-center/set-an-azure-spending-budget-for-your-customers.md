@@ -2,23 +2,23 @@
 title: Einrichten eines Kundenbudgets für Azure-Kosten | Partner Center
 ms.topic: article
 ms.date: 11/21/2019
-description: Legen Sie ein monatliches Budget pro Kunde im Partner Center fest.
+description: Erfahren Sie, wie Sie ein monatliches Azure-Ausgabenbudget für Ihre Kunden einrichten oder entfernen und wie Sie Azure-Ausgaben Daten anzeigen und Budget bezogene Benachrichtigungen festlegen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 05212746e1ccbcc5081c68ca97ced6a99e20bb8c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 81f2bfa0b8e9864e0fc1a90ff5a5a11111c2a433
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384889"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943203"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Einrichten eines Kundenbudgets für Azure-Kosten
 
-Gilt für:
+Betrifft
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government

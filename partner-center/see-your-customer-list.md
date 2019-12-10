@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Kundendatensätze gehören zu den wichtigsten Informationsressourcen in Partner Center.
+description: Kundendaten Sätze gehören zu den wichtigsten Informationsressourcen. Erfahren Sie, wie Sie Informationen in der Kundenliste anzeigen, durchsuchen, aktualisieren und exportieren.
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3a7a295477f8d5a19601e3321cf02b20263affe6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a5d6196aee964ad2b03a18699388f8f398169f14
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654075"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943433"
 ---
 # <a name="manage-your-customer-list"></a>Verwalten der Kundenliste
 

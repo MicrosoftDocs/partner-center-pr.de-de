@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Wichtige Überlegungen für Partner im Office 365 Partner Admin Center bei der Migration zu Partner Center
+description: Suchen Sie nach der Migration zu Partner Center nach allgemeinen Features des Office 365-Partner admin Centers, z. b. Erstellen von Geschäfts-und Service Anfragen.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4780226cb66fd621e51045456daa1ac2d3ee2adf
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f709ef9beb42225e9e11d859c21d4576500ee1a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654235"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943323"
 ---
 # <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 Partner Admin Center-Partner: Vorbereiten des Verschiebens von Geschäftsvorgängen in Partner Center
 

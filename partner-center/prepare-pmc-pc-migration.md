@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dinge, die Sie berücksichtigen sollten, bevor Sie Ihr Geschäft von der PMC zu Partner Center verlagern
+description: Informieren Sie sich über nützliche Informationen und häufig gestellte Fragen, bevor Sie Ihr Geschäft von der PMC zu Partner Center verlagern.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ad7b761c69cfa1f320eb9427806f5b1803e84e6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 40ddbd49ad82e1aa5c314da7db366dff6d8a57b4
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652188"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943263"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Vorbereiten des Verschiebens von Partner Membership Center (PMC) zu Partner Center
 
@@ -91,7 +91,7 @@ Sie können weiterhin über separate Aad-Mandanten zu Partner Center migrieren, 
 **Wenn ich mehrere Aad-Mandanten und ein einzelnes MPN-Konto habe, ist es möglich, Sie in Partner Center zu verknüpfen?**
 
 Ja, im Partner Center können Sie mehrere Azure AD Mandanten mit einem Partner Center-Konto verknüpfen.
-Weitere Informationen finden Sie hier. 
+Hier erfahren Sie mehr. 
 
 **Gibt es Einschränkungen beim Hinzufügen mehrerer Azure AD Mandanten zu einem einzelnen Partner Center-Konto?**
 

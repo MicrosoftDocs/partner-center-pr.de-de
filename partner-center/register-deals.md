@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 08/28/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Für bestimmte in Frage kommende Lösungen werden Sie nach der Auswahl von „Gewonnen“ aufgefordert, zusätzliche Informationen anzugeben, um Ihr Angebot zu registrieren. Microsoft überprüft die von Ihnen bereitgestellten Informationen und kann während des Überprüfungsvorgangs weitere Details anfordern.
+description: Wenn Sie ein Problem registrieren, das Sie im Partner Center gewonnen haben, hilft Ihnen Microsoft, Ihnen in Zukunft weitere Möglichkeiten zu bieten.
 author: JnHs
 ms.author: jenhayes
 keywords: Registrierung des Angebots
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 03e2ef23923d76b833d64346614286a39826e71b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 05c9291a9aa76efe2ff7d0a2557617b69e7455d4
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652059"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943223"
 ---
 # <a name="register-your-deals"></a>Registrieren Ihrer Angebote
 

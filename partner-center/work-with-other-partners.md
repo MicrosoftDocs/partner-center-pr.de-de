@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Arbeiten Sie mit anderen Partnern im CSP zusammen, um die Bedürfnisse Ihrer gemeinsamen Kunden zu erfüllen.
+description: Erfahren Sie, wie indirekte Anbieter mit indirekten Resellern im Cloud Solution Provider-Programm (CSP) zusammenarbeiten, und legen Sie fest, welche Rolle für Sie geeignet ist.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a4b26e08d1413cdf3aeb819b2d30891da854beff
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 720d4890eb4d131484a26d489c202ca3f173a006
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651160"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943153"
 ---
 # <a name="work-with-other-partners"></a>Zusammenarbeit mit anderen Partnern
 

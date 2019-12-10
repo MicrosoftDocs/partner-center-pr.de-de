@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Erfahren Sie, wie Sie Ihre MPN-Mitgliedschafts Rechnung sowie eine Datei für die Steuerbefreiung anzeigen, herunterladen und Drucken und wie Sie Ihre Umsatzsteuer-ID an Microsoft senden können.
+description: Erfahren Sie, wie Sie Ihre MPN-Mitgliedschafts Rechnung sowie die Datei für die Steuerbefreiung anzeigen oder herunterladen und wie Sie Ihre Umsatzsteuer-ID an Microsoft senden.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Rechnung, Zuordnungen, Steuer ausgenommene Steuer, Mehrwertsteuer, Umsatzsteuer-ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 76accd7cd2db254784b260d6fd75ce2e375d729e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: ec3813363b8ec69ee813fa7c65e6e39d00226016
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653033"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943543"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Rechnungen und Steuern in der Microsoft Partner Network
 

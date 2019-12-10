@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Registrieren beim Software Assurance-Schulungsprogramm
+description: Details zum Anmelden beim Software Assurance-Schulungsprogramm, damit Sie für die Bereitstellung von Schulungen und Planung für Unternehmenskunden kompensiert werden können.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Schulungsgutscheine, Software Assurance, Schulung, Registrieren bei SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d6339a63d4fbd7f1d742820ca90bb66d4d67c1a
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dac3c2c82ad02be3f65358573808d9f2e5d1cf52
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384793"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943413"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>SATV-Programm (Software Assurance Training Voucher, Software Assurance-Trainingsgutschein) in Partner Center
 
@@ -22,7 +22,7 @@ Fördern Sie das Wachstum Ihres Unternehmen, indem Sie sich bei Software Assuran
 
 Als anerkannter Software Assurance-Schulungspartner vergütet Microsoft Sie für die Bereitstellung von technischen Schulungen für Unternehmenskunden im Austausch gegen Gutscheine, die sie mit Software Assurance erhalten. Die Teilnahme an diesem Programm kann Ihnen helfen, mehr Kunden zu gewinnen und deren vertrauenswürdiger Lernpartner zu werden.
 
-## <a name="get-started"></a>Erste Schritte
+## <a name="get-started"></a>„Erste Schritte“
 
 Wenn Sie noch nicht mit den Software Assurance-Schulungs Diensten vertraut sind, führen Sie die folgenden Schritte aus. Wenn Sie bereits im Schulungs Beleg Programm aktiv sind, beginnen Sie mit Schritt 4 (4) unten. 
 

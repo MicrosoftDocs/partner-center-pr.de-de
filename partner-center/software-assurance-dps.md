@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 01/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Registrieren Sie sich für Planning Services, um Unternehmenskunden bei der Planung und Vorbereitung der Bereitstellung zu unterstützten
+description: Registrieren Sie sich für die Planung von Diensten, um die Kompensierung von Microsoft für die Bereitstellung von Schulungen und anderen Diensten für Unternehmenskunden mit Software Assurance zu qualifizieren.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Vor der Bereitstellung, Planung, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 36913950ae7b8b2b9cdde025bfa66f20dec374a7
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9eed58a3f7198a1ea02143a96fafe4bfd39e2848
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651631"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943423"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance-Planungsdienste in Partner Center
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Überprüfen und Reservieren von Gutscheinen im Partner Center
+description: Häufig gestellte Fragen zum Tool zum Überprüfen und Einlösen von Gutscheinen, einschließlich Informationen zur Migration, anfordern und Steuern des Zugriffs usw.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Schulungsgutscheine, Software Assurance, Schulung, Überprüfen von Gutscheinen, Reservieren von Gutscheinen
 ms.localizationpriority: medium
-ms.openlocfilehash: 02da186de1918625068b08d82fee17892074159e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 570d7e605f05c0e2bb0700dd4e211cd1f074725f
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651056"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943173"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>Häufig gestellte Fragen: Verwenden des Voucher Validation and Redemption (VVR)-Werkzeugs 
 

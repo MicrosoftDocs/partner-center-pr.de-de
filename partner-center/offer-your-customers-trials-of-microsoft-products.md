@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ihre Kunden können Microsoft-Abonnementprodukte 30 Tage lang testen. Sie können sich für diese Testversionen im Katalog ebenso wie für viele andere Onlinedienste registrieren.
+description: Ihre Kunden können Microsoft-Abonnementprodukte 30 Tage lang testen. Registrieren Sie sich wie viele andere Onlinedienste für diese Tests im Katalog.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ca774233fa6d5314e57f1ab2eb2a73b6037223e5
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 3e86c45b6ac721d4fd8edffa981940d212295611
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384832"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943293"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Anbieten von Testversionen von Microsoft-Produkten für Kunden
 
-Gilt für:
+Betrifft
 
 - Partner Center
 
@@ -83,8 +83,8 @@ Sie können mithilfe des Partner Center-Dashboards wie folgt Tests in kostenpfli
 
 Möglicherweise müssen Sie Ihre APIs ändern, um die Konvertierung einer kostenlosen Testversion in ein kostenpflichtiges Abonnement zu ermöglichen. Weitere Informationen finden Sie in der folgenden Entwicklerdokumentation:
 
-- [Umwandeln eines Probeabonnements in ein kostenpflichtiges Abonnement](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [Abrufen einer Liste der Wechselangebote für Probeabonnements](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [Umwandeln eines Testabonnements in ein kostenpflichtiges Abonnement](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Abrufen einer Liste von Testwechselangeboten](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="expiring-offers"></a>Ablaufende Angebote
 

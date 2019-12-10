@@ -2,19 +2,19 @@
 title: Anfordern einer SLA-Gutschrift von Microsoft | Partner Center
 ms.topic: article
 ms.date: 11/21/2019
-description: Fordern Sie eine SLA-Gutschrift von Microsoft an, wenn ein Dienstausfall auftritt.
+description: Informieren Sie sich über die Vorteile, Einschränkungen und Verfahren zum Anfordern einer SLA-Gutschrift von Microsoft, wenn für Ihre Kunden ein Dienstausfall auftritt.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a3eb79b78b3edb052d85cc7461d9fd50a115eb43
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384904"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943143"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>Anfordern einer SLA-Gutschrift von Microsoft 
 
@@ -44,14 +44,14 @@ Sie finden den Bezeichner für den Ausfall des Ausfalls auf der Seite **Service 
 
 | Abkürzung mit zwei Buchstaben | Microsoft-Dienst |
 | ----------------------- | ----------------- |
-| Fern | Exchange Online |
-| Sender | Exchange Online-Schutz |
+| EX | Exchange Online |
+| FO | Exchange Online-Schutz |
 | SB | Skype for Business Online (früher lync Online) |
 | Betriebssystem | Office-Abonnement |
 | PB | Power BI für Office 365 |
-| El | SharePoint Online |
+| SP | SharePoint Online |
 | D | Yammer Enterprise |
-| Vorgestellt | Portal Fehler |
+| MO | Portal Fehler |
 
 ### <a name="submit-sla-credit-request"></a>SLA-Kreditanfrage senden
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/31/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Als Microsoft Partner Network Mitglied haben Sie möglicherweise Anspruch auf bestimmte Vorteile bei der Markteinführung. Erfahren Sie mehr über die verschiedenen verfügbaren Markt Einführungs Ebenen, und wie Sie diese in Partner Center aktivieren und verwalten können.
+description: Dank der Markt Einführungs Vorteile erhalten Sie Zugang zu exklusiven Vertriebs-und Marketingressourcen, die Ihnen helfen, ihre Markteinführungszeit zu verkürzen, Leads zu generieren und Ihr Geschäft zu erweitern.
 author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, Mitgliedschafts Vorteile, Mitgliedschaft, Markt Einführungs Vorteile, Markt Einführungs Einführung, zu Markt, GTM, Goldmitgliedschaft, Silver-Mitgliedschaft
 ms.localizationpriority: medium
-ms.openlocfilehash: e1a71bc69982e4ff86b8442fc1dd3ec20fc486ea
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 359c86cbd2929ced4203b09b988ec1fbf7b2ea44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653256"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943333"
 ---
 # <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>Untersuchen Sie Ihre MPN-Vorteile für die Markt Einführungs Mitgliedschaft (GTM).
 
@@ -69,7 +69,7 @@ Um Ihre GTM-Vorteile anzuzeigen:
 
 2. Wählen Sie im Menü auf der linken Seite **MPN**aus. Führen Sie dann einen der folgenden Schritte aus:
 
-    - Wählen Sie **Übersicht**aus. Scrollen Sie zum Abschnitt **Quick Links** , und wählen Sie dann die Registerkarte **go-to-Market** aus.
+    - Wählen Sie **Übersicht**. Scrollen Sie zum Abschnitt **Quick Links** , und wählen Sie dann die Registerkarte **go-to-Market** aus.
 
       oder
 
@@ -82,7 +82,7 @@ Sie sehen eine Liste der Vorteile für die Markteinführung, die entweder bereit
 Spezifische Schritte zum Aktivieren oder Verwalten Ihrer GTM-Mitgliedschafts Vorteile finden Sie unter [Verwalten der Vorteile der Markteinführung](manage-your-partner-network-benefits.md#manage-go-to-market-benefits). Ein Teil dieses Prozesses erfordert, dass Sie einen Marketingmitarbeiter als Kontakt für nach Verfolgungs-e-Mails und-Kommunikationen in Bezug auf die von Ihnen aktivierte GTM-Vorteile zuweisen.
 
 >[!IMPORTANT]
->Sie müssen der globale Administrator oder MPN-Partner Administrator sein, um bestimmte GTM-Vorteile zu aktivieren und einen Verwandten Marketing Kontakt zuzuweisen. Falls erforderlich, können Sie ein globaler Administrator werden, indem Sie die Anweisungen auf der Seite mit den [ **Vorteilen** ](https://partnercenter.microsoft.com/pcv/partnership/benefits) befolgen (Anmeldung erforderlich). Ihr Unternehmen verfügt möglicherweise bereits über einen globalen Administrator, und überprüfen Sie das Team.
+>Sie müssen der globale Administrator oder MPN-Partner Administrator sein, um bestimmte GTM-Vorteile zu aktivieren und einen Verwandten Marketing Kontakt zuzuweisen. Bei Bedarf können Sie ein globaler Administrator werden. Befolgen Sie dazu die Anweisungen auf der Seite [**Vorteile**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Möglicherweise gibt es in Ihrer Organisation bereits einen globalen Administrator. Erkundigen Sie sich in Ihrem Team danach.
 
 #### <a name="see-also"></a>Weitere Informationen:
 

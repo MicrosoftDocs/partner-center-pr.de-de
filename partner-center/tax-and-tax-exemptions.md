@@ -2,7 +2,7 @@
 title: Gebühren für Steuern und Steuern | Partner Center
 ms.topic: article
 ms.date: 11/21/2019
-description: Informieren Sie sich über steuerliche Zuständigkeiten und Übermitteln von Steuer Ausnahmen für Ihre CSP-Umsätze.
+description: Informieren Sie sich über die Steueraufgaben für Ihre spezielle geografische Region und über das Übermitteln von Steuer Ausnahmen für Ihre CSP-Verkäufe.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,16 +10,16 @@ author: MaggiePucciEvans
 keywords: Steuern, Steuern von Steuer Ausnahmen, Umsatzsteuer, Reseller, Abrechnung
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 91f6c7265dec3a72a24130221cedef8de6d4ce31
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: b0fdf5bd78a6ce8ac98a18b85551bd7d57ffdabd
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384872"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943193"
 ---
 # <a name="taxes-and-tax-exemptions"></a>Steuern und Steuerbefreiungen
 
-Gilt für:
+Betrifft
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
@@ -52,7 +52,7 @@ Microsoft unterstützt keine Gutschrift und keine erneute Abrechnung. Vor dem Ve
 
 Microsoft wendet nun die Standard-Mehrwertsteuer für digitale Inhalte und Dienste an, die von Partnern in Südafrika erworben wurden. Um die Umsatzsteuer aus Ihren Rechnungen auszuschließen und diese selbst zu verwalten, müssen Sie das Abrechnungs Profil Ihres Partners aktualisieren, indem Sie [Microsoft Ihre Umsatzsteuer-ID senden](organization-tax-info.md).
 
-### <a name="turkey"></a>Turkei
+### <a name="turkey"></a>Türkei
 
 Microsoft wendet nun die Standard-Mehrwertsteuer für digitale Inhalte und Dienste an, die von Partnern in der Türkei erworben wurden. Um die Umsatzsteuer aus Ihren Rechnungen auszuschließen und diese selbst zu verwalten, müssen Sie das Abrechnungs Profil Ihres Partners aktualisieren, indem Sie [Microsoft Ihre Umsatzsteuer-ID senden](organization-tax-info.md).
 
@@ -87,7 +87,7 @@ Erstellen Sie dann mit den Steuer Ausnahme Informationen ein Support Ticket für
 2. Wählen Sie auf der Seite **Partner Anforderung** die Option **neue Anforderung**aus. (Sie können auch die offenen und geschlossenen Supportanfragen später auf dieser Seite anzeigen.)
 3. Wählen Sie im Schritt **Grundlagen** unter **CSP-Abrechnung und Zahlungen** **die Option Problemtyp auswählen** aus, und wählen Sie die Anforderung für die **Steuerbefreiung**aus.
 4. Wählen Sie im Schritt " **Lösungen** " unter **benötigen Sie weitere Hilfe?** die Option **Ja**aus.
-5. Füllen Sie im Schritt **Details** das Formular **Problem Details** aus. Achten Sie darauf,:
+5. Füllen Sie im Schritt **Details** das Formular **Problem Details** aus. Stellen Sie Folgendes sicher:
 
     - Füllen Sie alle erforderlichen Felder aus.
     - Fügen Sie Ihre **Microsoft-ID** und **MPN-ID** in das Feld **Details** ein.

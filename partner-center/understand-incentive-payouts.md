@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/03/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Zeigen Sie die Einnahmen und Auszahlungen für Incentives-Programm an.
+description: Zeigen Sie die Einnahmen und Auszahlungen für Incentives-Programm an. Dies schließt die Seite "Zahlungen", den Transaktionsverlauf und den Zahlungsstatus sowie den Export von Daten ein.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
-ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
+ms.openlocfilehash: e8eccf310c9ff920fbbfcf0494da6e1fb4010c44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "74559747"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943183"
 ---
 # <a name="view-your-incentives-payments-information"></a>Anzeigen der Informationen zu den Incentive-Zahlungen
 
@@ -54,21 +54,21 @@ Wählen Sie zum Exportieren der Transaktionsdaten auf dieser Seite die Option **
 
 ## <a name="payment-status"></a>Zahlungsstatus
 
-|**Erwerbsstatus** |**Weshalb** |**Partner Aktion erforderlich?**       |
+|**Erwerbsstatus** |**Reason** |**Partner Aktion erforderlich?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |Nicht verarbeitet        | Der Erwerb ist für die Zahlung berechtigt. Sie verbleibt in diesem Zustand für einen kühl Zeitraum, wie im Programmhandbuch für das Incentive-Programm definiert.       |Nein        |
-|Ansteh      |Der Zahlungsauftrag hat ausstehende interne Überprüfungen generiert, bevor die Zahlung verarbeitet wird.       |Nein       |
+|Anstehend      |Der Zahlungsauftrag hat ausstehende interne Überprüfungen generiert, bevor die Zahlung verarbeitet wird.       |Nein       |
 |Ausstehende Steuerrechnung      |Ihre Steuerrechnung ist unvollständig oder ungültig.          |Sie müssen ihre Steuerrechnung aktualisieren, bevor Sie bezahlen können.         |
 |Ablehnung während der Überprüfung        |Die Zahlung wurde während der Überprüfung abgelehnt.          |Weitere Informationen erhalten Sie vom Microsoft Support.         |
 |Fehlgeschlagen        |Die Zahlung ist aufgrund eines Microsoft-Systemfehlers fehlgeschlagen.         |Weitere Informationen erhalten Sie vom Microsoft Support.         |
 |In Bearbeitung     |Die Zahlung wird ausgeführt.         |Nein         |
 |Falsche Zahlung        |Der Zahlungsvorgang wird wiederholt.          |Nein        |
-|Entsand        |Die Zahlung wurde an Ihre Bank gesendet.          |Nein       |
+|Sent        |Die Zahlung wurde an Ihre Bank gesendet.          |Nein       |
 |Reprocessing       |Bei der Zahlung ist ein Microsoft-Systemfehler aufgetreten, der erneut verarbeitet wird.           |Nein         |
 |Reserviert        |Die Zahlung wurde von Ihrer Bank rückgängig gemacht und wird im nächsten Zahlungszeitraum erneut gesendet.          |Nein        |
 |Finanzrechnung abgelehnt       |Ihre Steuerrechnung wurde während der Überprüfung abgelehnt. Alle ausstehenden Zahlungen werden angehalten, bis die Überprüfung der Steuerrechnung abgeschlossen ist.          |Weitere Informationen erhalten Sie vom Microsoft Support.         |
 |Steuerrechnung unter Review        |Ihre Steuerrechnung wird geprüft. Ihre Zahlung wird nach Genehmigung der Steuerrechnung freigegeben.           |Nein        |
-|Ablehnung        |Die Zahlung wurde von Ihrer Bank abgelehnt.           |Weitere Informationen erhalten Sie von der Bank.  |
+|Rejected        |Die Zahlung wurde von Ihrer Bank abgelehnt.           |Weitere Informationen erhalten Sie von der Bank.  |
 
 ## <a name="export-data-page"></a>Seite "Daten exportieren"
 Befolgen Sie die Anweisungen auf dieser Seite, um die gewünschten Daten zu exportieren. 
@@ -83,7 +83,7 @@ Mit dieser Option können Sie die Zahlungen, die Sie in Ihrer Bank für ein best
 
 |**Name der Spalte**   |**Beschreibung**   |
 |------------------|:-------------------------------------|
-|participantid   |Die primäre Identität des Partners, der sich unter dem Programm verdient      |
+|participantID   |Die primäre Identität des Partners, der sich unter dem Programm verdient      |
 |participantidtype   |Normalerweise MPN für Incentive-Programme und Verkäufer-ID für Store-Programme      |
 |participantName   |Name des Erwerbs Partners      |
 |Program Name   |Name des Incentive/Store-Programms      |
@@ -106,7 +106,7 @@ Mit dieser Option können Sie jedes auf der Seite Transaktionsverlauf gelaufene 
 |**Name der Spalte**   |**Beschreibung**   |
 |------------------|:-------------------------------------|
 |earningid   |Eindeutiger Bezeichner für jedes Einkommen   |
-|participantid   |Die primäre Identität des Partners, der sich unter dem Programm verdient   |
+|participantID   |Die primäre Identität des Partners, der sich unter dem Programm verdient   |
 |participantidtype   |Normalerweise MPN für Incentive-Programme und Verkäufer-ID für Store-Programme   |
 |participantName   |Name des Erwerbs Partners   |
 |partnercountrycode   |Standort/Land des Erwerbs Partners   |
@@ -125,22 +125,22 @@ Mit dieser Option können Sie jedes auf der Seite Transaktionsverlauf gelaufene 
 |earningamountusd   |Betrag in USD   |
 |earningdate   |Datum des Erwerbs   |
 |earningexchangerate   |Wechselkurs, der zum Anzeigen des entsprechenden USD Amount verwendet wird   |
-|exchangeratedate   |Zum Berechnen von "earningamount USD" verwendetes Wechselkurs Datum   |
+|exchangeRateDate   |Zum Berechnen von "earningamount USD" verwendetes Wechselkurs Datum   |
 |PaymentID   |Eindeutiger Bezeichner für die Zahlung. Diese Zahl ist normalerweise in der Bank-Anweisung sichtbar.   |
 |paymentstatus   |Zahlungsstatus   |
 |paymentstatus Description   |Benutzerfreundliche Beschreibung des Zahlungsstatus   |
-|CustomerID   |Kunden Bezeichner   |
-|CustomerName   |Name der Transaktions Kunden   |
+|customerId   |Kunden Bezeichner   |
+|customerName   |Name der Transaktions Kunden   |
 
 
 Zusätzlich zur obigen Tabelle sind diese Felder für den Transaktionsverlauf für das Programm verfügbar.
 
 |**Name der Spalte**   |**Beschreibung**   |
 |------------------|:-------------------------------------|
-|PartNumber   |Die mit der Transaktion verknüpfte Teilenummer. Microsoft-Terminologie.   |
+|partNumber   |Die mit der Transaktion verknüpfte Teilenummer. Microsoft-Terminologie.   |
 |productName   |Der Produkt Familienname ist für die Transaktion angeordnet   |
 |invoicenumschlag   |Rechnungsnummer   |
-|SubscriptionId   |Dem Kunden zugeordneter Abonnement Bezeichner   |
+|subscriptionId   |Dem Kunden zugeordneter Abonnement Bezeichner   |
 |Abonnement StartDate   |Startdatum des Abonnements   |
 |Abonnement Enddatum   |Enddatum des Abonnements   |
 |offerId   |TBD   |
@@ -151,6 +151,6 @@ Zusätzlich zur obigen Tabelle sind diese Felder für den Transaktionsverlauf f�
 |AgreementNumber   |Vertragsnummer   |
 |agreementstartdate   |Startdatum des Vertrags   |
 |agreementenddate   |Enddatum des Vertrags   |
-|beitragen   |Workload   |
+|Arbeitsauslastung   |Workload   |
   
 

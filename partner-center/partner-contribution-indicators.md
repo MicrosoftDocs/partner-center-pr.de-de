@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Daten, die zeigen, wie dein Unternehmen in Bezug auf Dynamics 365 Customer Engagement oder Dynamics 365 Finance and Operations abschneidet.
+description: Sehen Sie genau, was Sie gut machen und wo Sie sich im Hinblick auf Dynamics 365 Customer Engagement oder Dynamics 365 Finance und Operations verbessern können.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, Leistung, Kundenerfolg, Messungen, Dynamics 365
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7d478f8a90eee2bcfc15ef31407dee12de1eaa29
-ms.sourcegitcommit: 10d40d50a623ac6bce3496157695a7aca147d74a
+ms.openlocfilehash: 87ee210307f5e3f28ae5ac9c7a73b5319536043c
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74391696"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943123"
 ---
 # <a name="partner-contribution-indicators"></a>Partnerbeitragsindikatoren
 
@@ -63,15 +63,15 @@ Partner können die maximale Punktzahl für eine Metrik erzielen, wenn sie die u
 
 ![NET Customer Adds](images/netcustomer.png)
 
-![Funktions Berater](images/pci/functional_consultants.png)
+![Funktionsberater](images/pci/functional_consultants.png)
 
-![wachsen](images/pci/functional_consultant_growth.png)
+![growth](images/pci/functional_consultant_growth.png)
 
 ![Entwickler](images/pci/developers.png)
 
-![Neue bereit Stellungen](images/pci/new_large_deployments.png)
+![Neue Bereitstellungen](images/pci/new_large_deployments.png)
 
-![aktive Benutzer](images/pci/monthly_active_user_growth.png)
+![Aktive Benutzer](images/pci/monthly_active_user_growth.png)
 
 
 ## <a name="customer-to-partner-association"></a>Zuordnung zwischen Kunde und Partner
@@ -88,7 +88,7 @@ Wenn für ein bestimmtes Abonnement sowohl ein CPOR als auch ein DPOR vorhanden 
 
 ![Erläuterung zum Diagramm](images/pci2.png)
 
-## <a name="additional-resources"></a>Zusätzliche Ressourcen
+## <a name="additional-resources"></a>Weitere Ressourcen
 
 Besuchen Sie die [Ressourcensammlung Partner Beitrags Indikatoren](https://partner.microsoft.com/asset/collection/pci-learn#/) , in der Sie ausführliche Schulungsvideos, Präsentationen, FAQs und Faktenblätter finden können. 
 

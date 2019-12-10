@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 07/05/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informationen zum Verständnis ihrer Lern Analyse
+description: Verfolgen Sie die Lernmodule in Ihrem Unternehmen, indem Sie Daten zu einzelnen Schulungen, abgeschlossenen Modulen, abgeschlossenen Lernpfaden und mehr nutzen.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 74a11ba93e73afcd4117fc6834675d7db5d2fc20
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0e97e6b5212b2b55e56e1022e2a5a12bdb0f2f74
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653020"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943533"
 ---
 # <a name="microsoft-learn-analytics-report"></a>Microsoft Learn Analytics-Bericht
 

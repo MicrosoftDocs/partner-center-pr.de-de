@@ -2,17 +2,17 @@
 title: Überprüfen von Partnerprofilen
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Wenn Sie sich zum ersten Mal als Administrator anmelden, sollten Sie überprüfen, ob die Supportdetails korrekt sind, Steuerbefreiungen beantragen, sofern zutreffend, und die Kontaktinformationen in Ihren Profilen überprüfen.
+description: Erfahren Sie, wie Sie Ihre Unternehmens Details überprüfen, wie z. b. primäre Kontakt-, Adress-und Programminformationen Sie können auch ihre rechtlichen und Abrechnungs bezogenen Adressen aktualisieren.
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: eef07d41028039be989b2c3169269b3290c72524
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 262c1f224a5056aaf985e2af4206e62fa809aa8a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384783"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943053"
 ---
 # <a name="verify-your-partner-profile"></a>Überprüfen von Partnerprofilen
 

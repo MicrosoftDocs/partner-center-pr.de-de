@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 08/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Generieren Sie Geschäftsleads, und nehmen Sie Kontakt mit Kunden auf, die Unterstützung bei der Implementierung von Microsoft-Produkten und -Lösungen benötigen.
+description: Erfahren Sie, wie Sie ein Geschäftsprofil erstellen, um Vertriebs Leads über die Partner Center-Referenzfunktion zu generieren, und dann auf diese Verweise zu reagieren.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Empfehlungen, Unternehmensprofil, Partner suchen
 ms.localizationpriority: medium
-ms.openlocfilehash: a213c9b3a031b355f045b8fc976fac1dcc27e756
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7e4865bd3de1151033aef5b50409261823c289a0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652160"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943253"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Details zum Überprüfen der mehrstufigen Authentifizierung (Multi-Factor Authentication, MFA) für die Sicherheitsanforderungen Ihres Partner Mandanten
+description: Erfahren Sie, wie Sie mithilfe von MFA für Ihre Partner Mandanten den Zugriff auf Kunden Ressourcen sichern können. Enthält Beispielszenarien.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: medium
-ms.openlocfilehash: 9241e7fd7f9812e2c456eac70065e185a9cf8d61
-ms.sourcegitcommit: 0f14e29540c6814f01395924223b495cc5299954
+ms.openlocfilehash: f0beb695bee9a67f79373ea903158de3fbb66851
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/13/2019
-ms.locfileid: "73983351"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943103"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für Ihren Partner Mandanten
 
@@ -166,7 +166,7 @@ Bevor Sie eine technische Ausnahme anwenden, überprüfen Sie die Liste der häu
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Problem 1: der Partner benötigt mehr Zeit, um MFA für die Partner-Agents zu implementieren
 Ein Partner wurde noch nicht gestartet oder ist noch nicht im Prozess der Implementierung von MFA für die Partner-Agents, die Zugriff auf Microsoft Online Services-Portale mit Delegierten Administratorrechten für die Verwaltung von Kunden Ressourcen benötigen. Der Partner benötigt mehr Zeit, um die MFA-Implementierung abzuschließen. Ist dies ein gültiger Grund für eine technische Ausnahme?
 
-**Antwort**: Nein. Der Partner muss planen, die MFA für Ihre Benutzer zu implementieren, um Unterbrechungen zu vermeiden.
+**Antwort:** Nein. Der Partner muss planen, die MFA für Ihre Benutzer zu implementieren, um Unterbrechungen zu vermeiden.
 
 > [!NOTE]
 > Obwohl der Partner die MFA für seine Partner-Agents nicht implementiert hat, können die Partner Agenten weiterhin mithilfe der delegierten Administratorrechte von Partner auf Microsoft Online Services-Portale zugreifen, sofern Sie die MFA-Registrierung und MFA-Überprüfung durchführen können Wenn Sie während der Anmeldung beim Kunden Mandanten aufgefordert werden. Durch das Abschließen der MFA-Registrierung wird der Benutzer nicht automatisch für MFA aktiviert.
@@ -174,12 +174,12 @@ Ein Partner wurde noch nicht gestartet oder ist noch nicht im Prozess der Implem
 ##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>Problem 2: der Partner hat die MFA nicht für Benutzerkonten implementiert, die keine delegierten Administratorrechte verwenden.
 Ein Partner verfügt über einige Benutzer in seinen Partner Mandanten, die keinen Zugriff auf Microsoft Online Services-Portale benötigen, um Kunden Ressourcen mit delegierten Administrator Berechtigungen von Partnern zu verwalten. Der Partner ist gerade dabei, MFA für diese Benutzer zu implementieren und benötigt mehr Zeit, um den Vorgang abzuschließen. Ist dies ein gültiger Grund für eine technische Ausnahme?
 
-**Antwort**: Nein. Da diese Benutzerkonten keine Partner delegierten Administratorrechte zum Verwalten von Kunden Ressourcen verwenden, müssen Sie sich nicht beim Kunden Mandanten anmelden. Sie werden von Azure AD, die während der Anmeldung beim Kunden Mandanten die MFA-Überprüfung erfordern, nicht beeinträchtigt.
+**Antwort:** Nein. Da diese Benutzerkonten keine Partner delegierten Administratorrechte zum Verwalten von Kunden Ressourcen verwenden, müssen Sie sich nicht beim Kunden Mandanten anmelden. Sie werden von Azure AD, die während der Anmeldung beim Kunden Mandanten die MFA-Überprüfung erfordern, nicht beeinträchtigt.
 
 ##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Problem 3: der Partner hat die MFA für Benutzer Dienst Konten nicht implementiert.
 Ein Partner verfügt über einige Benutzerkonten in seinen Partner Mandanten, die von Geräten als Dienst Konten verwendet werden. Dabei handelt es sich im Allgemeinen um Konten mit geringen Rechten, die keinen Zugriff auf Partner Center-oder Microsoft Online Services-Portale benötigen, um Kunden Ressourcen mit delegierten Administrator Berechtigungen von Partnern zu verwalten Ist dies ein gültiger Grund für eine technische Ausnahme?
 
-**Antwort**: Nein. Da diese Benutzerkonten keine Partner delegierten Administratorrechte zum Verwalten von Kunden Ressourcen verwenden, müssen Sie sich nicht beim Kunden Mandanten anmelden. Sie werden von Azure AD, die während der Anmeldung beim Kunden Mandanten die MFA-Überprüfung erfordern, nicht beeinträchtigt.
+**Antwort:** Nein. Da diese Benutzerkonten keine Partner delegierten Administratorrechte zum Verwalten von Kunden Ressourcen verwenden, müssen Sie sich nicht beim Kunden Mandanten anmelden. Sie werden von Azure AD, die während der Anmeldung beim Kunden Mandanten die MFA-Überprüfung erfordern, nicht beeinträchtigt.
 
 #### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Problem 4: der Partner kann MFA nicht mithilfe der MS Authenticator-App implementieren.
 Ein Partner verfügt über eine "Clean Desk"-Richtlinie, die es Mitarbeitern nicht gestattet, Ihre persönlichen mobilen Geräte in Ihren Arbeitsbereich zu bringen. Ohne Zugriff auf Ihre persönlichen mobilen Geräte können die Mitarbeiter die MS Authenticator-APP nicht installieren. Dies ist die einzige MFA-Überprüfung, die von Azure AD Basis Richtlinien unterstützt wird. Ist dies ein gültiger Grund für eine technische Ausnahme?
@@ -207,7 +207,7 @@ Ein Partner verwendet Exchange Online-PowerShell mit Delegierten Administratorre
 #### <a name="issue-7-partner-has-implemented-3rd-party-mfa-which-isnt-recognized-by-azure-ad"></a>Problem 7: Partner hat MFA von Drittanbietern implementiert, die von Azure AD nicht erkannt wird.
 Ein Partner hat MFA für Ihre Benutzer mithilfe einer MFA-Lösung eines Drittanbieters implementiert. Der Partner kann jedoch die MFA-Lösung eines Drittanbieters nicht ordnungsgemäß konfigurieren, um zu Azure AD, dass die MFA-Überprüfung während der Benutzerauthentifizierung abgeschlossen wurde. Ist dies ein gültiger Grund für eine technische Ausnahme?
 
-**Antwort**: Ja, dies kann als gültiger Grund für eine technische Ausnahme angesehen werden. Vergewissern Sie sich vor dem Übermitteln einer technischen Ausnahme, dass die MFA-Lösung mit dem MFA-Lösungsanbieter eines Drittanbieters nicht so konfiguriert werden kann, dass der *authenticationmethodsreferences* -Anspruch (mit dem Wert *multipleauthn*) an Azure AD , um anzugeben, dass die MFA-Überprüfung während der Benutzerauthentifizierung abgeschlossen wurde. Wenn Sie eine technische Ausnahme Anfrage einreichen, geben Sie Details zur verwendeten MFA-Lösung eines Drittanbieters an, und geben Sie die Integrationsmethode (z. b. über einen Identitäts Verbund oder die Verwendung von Azure AD benutzerdefiniertem Steuerelement) an.
+**Antwort**: Ja, dies kann als gültiger Grund für eine technische Ausnahme angesehen werden. Vergewissern Sie sich, dass die MFA-Lösung mit dem MFA-Lösungsanbieter eines Drittanbieters nicht so konfiguriert werden kann, dass der *authenticationmethodsreferences* -Anspruch (mit dem Wert *multipleauthn*) an Azure AD gesendet wird, um anzugeben, dass die MFA-Überprüfung während der Benutzerauthentifizierung abgeschlossen wurde. Wenn Sie eine technische Ausnahme Anfrage einreichen, geben Sie Details zur verwendeten MFA-Lösung eines Drittanbieters an, und geben Sie die Integrationsmethode (z. b. über einen Identitäts Verbund oder die Verwendung von Azure AD benutzerdefiniertem Steuerelement) an.
 
 ### <a name="how-to-submit-a-request-for-technical-exception"></a>Übermitteln einer Anforderung für eine technische Ausnahme
 

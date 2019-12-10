@@ -2,7 +2,7 @@
 title: Stellen Sie sicher, dass Sie für die zurück Haltungs Steuern Partner Center
 ms.topic: article
 ms.date: 11/07/2019
-description: Stellen Sie sicher, dass Ihr Partner Center-Konto für die zurück Haltungs Steuern gutgeschrieben wird.
+description: Stellen Sie sicher, dass Ihr Partner Center-Konto für die zurück Haltungs Steuern gutgeschrieben ist, und Service Request öffnen Sie ggf
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -10,16 +10,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Finanz Guthaben, Steuergutschriften, deutsche Steuergutschrift, Formular Steuergutschrift
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f25c570f8a71a261e815891545acf48e0a8fe08
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 98449ae99b0acc549ba10129c49102d4e498b96b
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384866"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943163"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Stellen Sie sicher, dass Sie für die zurück Haltungs Steuern
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Sicherstellen einer Gutschrift durch Steuereinbehaltung
 
-Gilt für:
+Betrifft
 
 - Partner Center
 
@@ -83,7 +83,7 @@ Wenn Sie ein **nicht englischsprachiges sprach Steuer Zertifikat** über eine **
 
 Die Steuer Zertifikate sollten nur für **Microsoft-Rechnungen**gelten. Wenn Sie **andere Unternehmen** haben, die die Zertifikate enthalten, geben Sie den Betrag so an, dass wir den Betrag in unserer internen Verarbeitung ausschließen können, aber dennoch vollständige Einblicke in die Gesamtanzahl der Zertifikate haben.
 
-## <a name="create-a-service-request"></a>Erstellen einer Service Request
+## <a name="create-a-service-request"></a>Einen Service Request erstellen
 
 Die folgenden Informationen gelten *nur* für Partner im **CSP-Programm (Cloud Solution Provider)** . Dies schließt nur **direkte Abrechnungspartner** und **indirekte Anbieter**ein. **Indirekte Händler** müssen stattdessen mit Ihren **indirekten Anbietern** zusammenarbeiten.
 

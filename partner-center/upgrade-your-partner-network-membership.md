@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Wenn Sie Ihre Microsoft Partner Network-Mitgliedschaft aktualisieren, haben Sie Anspruch auf exklusive Leistungen für Mitglieder. Erfahren Sie mehr zum Auffinden und Kaufen verfügbarer Angebote.
+description: Qualifizieren Sie sich für exklusive Vorteile, indem Sie Ihre MPN-Mitgliedschaft auf eine Microsoft Action Pack-Abonnement Mitgliedschaft oder auf Microsoft-Kompetenzen aktualisieren.
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f48dcd8b5ac4a83d6f9b99c71f0d243ad78ad274
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651166"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943403"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Aktualisieren der Microsoft Partner Network-Mitgliedschaft
 
@@ -82,7 +82,7 @@ Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlänge
 3. Aktivieren Sie **Automatische Verlängerung deaktivieren**, wenn Sie Ihr Action Pack-Abonnement nicht jedes Jahr automatisch verlängern möchten. 
 
 > [!NOTE]  
-> Wenn Sie die automatische Verlängerung von Abonnements deaktivieren, können Sie Sie erst wieder aktivieren, wenn Sie das Abonnement erneut erneuern. Wir erinnern Sie an die Verlängerung, bevor Ihr Abonnement abläuft.
+> Wenn du die automatische Abonnementverlängerung deaktivierst, kannst du sie erst wieder aktivieren, wenn du das Abonnement erneut verlängerst. Wir erinnern dich vor Ablauf deines Abonnements an die Verlängerung.
 
 
 ### <a name="renew-your-action-pack-subscription"></a>Verlängern Ihres Action Pack-Abonnements

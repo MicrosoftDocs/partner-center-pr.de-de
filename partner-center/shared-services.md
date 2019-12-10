@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure Partner Shared Services ist eine neue Art von Angebot für Partner im CSP-Programm. Partner können Azure-Abonnements nun zur eigenen Verwendung erwerben.
+description: Verwenden Sie gemeinsame Azure-Partner Dienste, um Azure-Abonnements für Ihren eigenen Gebrauch zu erwerben und eine einheitliche Methode zum Erwerb, nachverfolgen und Verwalten von Azure zu haben.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, gemeinsame Dienste, Mandant
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10d2effe05bb6472a7253d094b8e25c17b9c21eb
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2d6c51ceb9151298f21bb0ebfd696e57bd8d13fb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651680"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943453"
 ---
 # <a name="add-azure-partner-shared-services"></a>Hinzufügen von Azure Partner Shared Services
 

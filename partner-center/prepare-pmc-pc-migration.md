@@ -8,14 +8,20 @@ description: Informieren Sie sich über nützliche Informationen und häufig ges
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 40ddbd49ad82e1aa5c314da7db366dff6d8a57b4
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 8d0e540282b3e683233c188f9258683809af510e
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943263"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004859"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Vorbereiten des Verschiebens von Partner Membership Center (PMC) zu Partner Center
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Vertriebsbeauftragter
+-   Administratoragent
 
 Wir verschieben die Mitgliedschafts Verwaltung aus dem Partner Membership Center (PMC) in das Partner Center-das einzige Ziel, um Ihre geschäftliche Beziehung mit Microsoft zu verwalten. Wir möchten, dass Ihre Umstellung auf Partner Center so effizient und einfach wie möglich ist. Wir haben einige Bereiche identifiziert, in denen sich das Partner Center von der PMC unterscheidet, und wir sind der Ansicht, dass Sie diese vor dem Verschieben verstehen und vorbereiten möchten.
 

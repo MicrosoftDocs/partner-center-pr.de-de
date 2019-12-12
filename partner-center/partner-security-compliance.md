@@ -3,17 +3,17 @@ title: Status der Sicherheitsanforderungen für Partner | Partner Center
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bleiben Sie bei der Compliance Ihres Unternehmens mit MFA-Anforderungen auf dem aktuellen Stand.
+description: Hier findest du weitere Informationen zu neuen verbindlichen Anforderungen, die die Sicherheit von Beratern, Control Panel-Anbietern und Partnern im Cloud Solution Provider-Programm weiter verbessern.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
-ms.openlocfilehash: f3736f73f983fce74620df2f7a8ad1d6cce19984
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 7e8226009e9f214e420475dbd350f2bcb3984414
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295255"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943113"
 ---
 # <a name="partner-security-requirements-status"></a>Status der Sicherheitsanforderungen für Partner
 

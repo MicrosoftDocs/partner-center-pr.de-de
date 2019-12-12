@@ -7,25 +7,31 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 617b49556851a4d9999e6294d61d79c4fe1befa1
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 60ab5404f3cc2d825a110e61bd7c6bf5744bb786
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389818"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004599"
 ---
 # <a name="license-based-reconciliation-files"></a>Lizenzbasierte Abstimmungsdateien
 
-Gilt für:
+**Zielgruppe**
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Abrechnungsadministrator
+-   Administratoragent
 
 Vergleichen Sie die **Syndication_Partner_Subscription_Number** aus der Abstimmungs Datei mit der **Abonnement-ID** aus Partner Center, um Ihre Änderungen mit den Aufträgen eines Kunden abzustimmen.
 
 ## <a name="fields-in-license-based-reconciliation-files"></a>Felder in lizenzbasierten Abstimmungs Dateien
 
-| Spalte | Description | Beispielwert |
+| Column | Beschreibung | Beispielwert |
 | ------ | ----------- | ------------ |
 | PartnerID | Eindeutiger Bezeichner im GUID-Format für eine bestimmte Abrechnungs Entität. Für die Abstimmung nicht erforderlich. In allen Zeilen gleich. | *8ddd03642-Test-Test-Test-46b58d356b4e* |
 | Kunden-ID | Eindeutiger Microsoft-Bezeichner für den Kunden im GUID-Format. | *12abcd34-001A-bcd2-987c-3210abcd5678* |
@@ -44,11 +50,11 @@ Vergleichen Sie die **Syndication_Partner_Subscription_Number** aus der Abstimmu
 | Anzahl | Anzahl der Arbeitsplätze Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert | *2* |
 | Betrag | Gesamtpreis für die Menge Wird verwendet, um zu überprüfen, ob die Betrag Berechnung mit der Berechnung dieses Werts für Ihre Kunden übereinstimmt. | *13,32* |
 | TotalOtherDiscount | Rabattbetrag auf diese Gebühren. Produktlizenzen, die in einer Kompetenz oder in Karten enthalten sind, oder neue Abonnements, die für einen Anreiz geeignet sind, enthalten in dieser Spalte ebenfalls einen Rabatt Betrag. | *2,32* |
-| Zwischensumme | Gesamtbetrag vor Steuern Überprüft, ob Ihr Teilergebnis mit dem erwarteten Gesamtbetrag übereinstimmt, falls ein Rabatt vorliegt. | *11:* |
+| Zwischensumme | Gesamtbetrag vor Steuern Überprüft, ob Ihr Teilergebnis mit dem erwarteten Gesamtbetrag übereinstimmt, falls ein Rabatt vorliegt. | *11* |
 | Steuern | Steuern der Steuerbeträge. Basierend auf den Steuerregeln Ihres Marktes und bestimmten Bedingungen. | *0* |
-| TotalForCustomer | Gesamtsumme nach Steuern. Überprüft, ob in der Rechnung Steuern berechnet werden. | *11:* |
+| TotalForCustomer | Gesamtsumme nach Steuern. Überprüft, ob in der Rechnung Steuern berechnet werden. | *11* |
 | Währung | Währungstyp Jede Abrechnungsentität verfügt nur über eine Währung. Überprüfen Sie, ob Sie Ihrer ersten Rechnung entspricht. Überprüfen Sie nach allen wichtigen Updates der Abrechnungs Plattform erneut. | *Betragen* |
-| CustomerName | Der Organisationsname des Kunden, wie in Partner Center gemeldet. *Sehr wichtiges Feld für die Abstimmung der Rechnung mit ihren Systeminformationen.* | *Testen von Kunden A* |
+| CustomerName | Der in Partner Center angegebene Organisationsname des Kunden. *Sehr wichtiges Feld für die Abstimmung der Rechnung mit ihren Systeminformationen.* | *Testen von Kunden A* |
 | MPNID | MPN-Bezeichner des CSP-Partners. Weitere Informationen finden [Sie unter Vorgehensweise beim itemisieren nach Partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
 | ResellerMPNID | MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement. Weitere Informationen finden [Sie unter Vorgehensweise beim itemisieren nach Partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
 | DomainName | Der Domänen Name des Kunden. Dieses Feld wird ggf. bis zum zweiten Abrechnungszyklus leer angezeigt. *Verwenden Sie dieses Feld nicht als eindeutigen Bezeichner für den Kunden. Der Kunde/Partner kann die Vanity oder die Standard Domäne über das Office 365-Portal aktualisieren.* | *example.onmicrosoft.com* |

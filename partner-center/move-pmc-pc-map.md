@@ -9,14 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: 77754e9fac432e7ec7e75fd0acbb4b6d8fbe1088
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: a05225d9f6a6de9f6bdf66912f8e35b47ccae78f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943483"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004289"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Wechsel von PMC zu Partner Center
+
+**Geeignete Rollen**
+-   Globaler Administrator
 
 Wir vereinfachen die Geschäftstätigkeit mit uns, indem wir eine einzelne Website (Partner Center) einführen, die als zentrale Anlaufstelle dient. Alle Aktivitäten, die du von Partner Membership Center (PMC) kennst, kannst du auch über das Dashboard in Partner Center ausführen. 
 

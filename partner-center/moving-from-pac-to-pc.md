@@ -9,18 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, Office 365-Administrator, PAC-Features
 ms.localizationpriority: medium
-ms.openlocfilehash: c68d09a658bf4d9cf65f54494a3ef30376a9692f
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0dcf232e68b14a2dd4264b489c7325a9eccc190f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943563"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004229"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Wechseln von Partner Admin Center (PAC) zu Partner Center
 
-Betrifft
+**Zielgruppe**
 - Partner Center
 - Partner Admin Center
+
+**Geeignete Rollen**
+-   Globaler Administrator
 
 Partner Center entwickelt sich zum zentralen Ort für die Verwaltung der Partnerschaft mit Microsoft und deinen Kunden. In Partner Center können Sie die Mitgliedschaft, Kundenempfehlungen, Incentives und alle anderen Aspekte des Programms für Cloud Solution Provider (CSP) verwalten. Dort können Sie die meisten Aufgaben ausführen, die Sie in PAC in Partner Center ausgeführt haben, auch wenn sich einige Features oder Aktionen anders funktionieren. 
 

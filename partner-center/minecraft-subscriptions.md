@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Autorisierte Partner im Bildungsbereich, Bildung, an Bildungseinrichtungen verkaufen, Schulen
 ms.localizationpriority: medium
-ms.openlocfilehash: 91dedab427478cd2e7608e35fb3cb1444fd0a7a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: ecce16a09dc4c5b415e0553b038b1810ab16197f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943493"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004549"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Abonnements für Minecraft: Education Edition für Bildungseinrichtungen
 
 **Zielgruppe**
 
 -  Partner Center
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Vertriebsbeauftragter
+-   Administratoragent
 
 Partner, die mit Bildungseinrichtungen zusammenarbeiten, können diesen **Minecraft: Education Edition**-Abonnements anbieten. Sie erwerben das Abonnement im Auftrag des Kunden in Partner Center, und der Kunde lädt die Software dann aus dem [Microsoft Store für Bildungseinrichtungen](https://educationstore.microsoft.com) herunter. 
 

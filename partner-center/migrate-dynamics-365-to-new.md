@@ -11,18 +11,24 @@ ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Dynamics 365-Angebote, Angebote verlängern, neue Dynamics 365-SKUs
-ms.openlocfilehash: 8a6ff7c10854d3b4d4a3a57482b45c741d8e0321
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: d4efd051b4d237eac5b766ed1aedc432e8b93ecc
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943573"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005119"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrieren von Dynamics 365 Business Edition-Angeboten zu neueren Versionen 
 
 **Zielgruppe**
 
 - Partner Center
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Administratoragent
+-   Vertriebsbeauftragter
 
 Ab dem 1. Januar 2019 können Kunden mit Dynamics 365 Business Edition-Abonnements diese bisherigen Angebote nicht mehr verlängern; vorhandene Abonnements werden nicht automatisch verlängert, wenn sie ablaufen. Auf der Detailseite des Abonnements ändert sich der Abonnement Status in "läuft am [Date]" von "Auto erneuert on [Date]".
 

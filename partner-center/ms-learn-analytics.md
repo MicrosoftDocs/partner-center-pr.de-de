@@ -8,14 +8,18 @@ description: Verfolgen Sie die Lernmodule in Ihrem Unternehmen, indem Sie Daten 
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e97e6b5212b2b55e56e1022e2a5a12bdb0f2f74
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943533"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005108"
 ---
 # <a name="microsoft-learn-analytics-report"></a>Microsoft Learn Analytics-Bericht
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   MPN-Partneradministrator
 
 Der Microsoft Learn Bericht enthält Informationen zu den Lernmodulen in Ihrem Unternehmen, einschließlich der Module, die Sie abgeschlossen haben, und der Lernpfade, in denen Sie sich befinden. Der Bericht zeigt den Status jedes einzelnen Learners an. Der globale Administrator und der MPN-Administrator für Ihr Unternehmen können die Daten anzeigen.
 

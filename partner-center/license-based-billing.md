@@ -7,19 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Abrechnung, Zahlungen, Lizenz basiert, Lizenz
 ms.localizationpriority: medium
-ms.openlocfilehash: 2313a01a03114bc36a55d222376e994966f9e088
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 4293b193a58030a17bc63ce4b36111a0285e236c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389828"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004919"
 ---
 # <a name="license-based-billing"></a>Lizenzbasierte Abrechnung
 
-Gilt für:
+**Zielgruppe**
 
 - Partner Center
 - Partner im CSP-Programm
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Abrechnungsadministrator
+-   Administratoragent
 
 Wenn Sie Produkte oder Onlinedienste in Partner Center kaufen, die **Lizenzen**benötigen, wird Ihnen *jede Lizenz* in Rechnung gestellt, die Sie erwerben. Diese Lizenzen werden Ihnen *nicht in Rechnung* gestellt. (Informationen zur nutzungsbasierten Abrechnung und anderen Abrechnungs Typen finden Sie unter Abrechnungs [Typen in Partner Center](billing-different-types.md).)
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/09/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie mehr über die Sicherheitsanforderungen für Berater und Partner, die am Cloud Solution Provider-Programm teilnehmen.
+description: Eine Einführung zur Aktivierung der mehrstufigen Authentifizierung (Multi-Factor Authentication, MFA) und des Frameworks „Sicheres Anwendungsmodell“ – beides wird jetzt für Partner vorausgesetzt.
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
-ms.openlocfilehash: b481bd3e8729c63425c45e1f9767722130dc0833
-ms.sourcegitcommit: bf10a7123490ab08c6c3a58cec7045c5d38d16cc
+ms.openlocfilehash: c117bd828f5f74a56490e52c1123ac3a973ccae6
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "73964217"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943303"
 ---
 # <a name="partner-security-requirements"></a>Sicherheitsanforderungen für Partner
 

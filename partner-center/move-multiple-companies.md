@@ -9,14 +9,20 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: 0049b2d553e04340ac934c071adc4442eb2f7ce0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 86648df24680fb0a5d9b7b494fdcf1110fec26c8
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943583"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004689"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>Verschieben mehrerer Unternehmen zu Partner Center
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Administratoragent
+-   Vertriebsbeauftragter
 
 Wenn Sie Ihr Unternehmenskonto von PMC zu Partner Center verschieben, verschieben Sie möglicherweise mehrere Konten. In Partner Center werden diese Konten zu einem globalen Konto (PGA) zusammengefasst. Das erste Konto, das Sie verschieben, wird als primäres globales Konto betrachtet, und alle nachfolgenden Konten werden als Standorte im ersten Konto konsolidiert. Beginnen Sie den Wechsel mit dem PMC-Konto für Ihre Unternehmenszentrale. Weitere Informationen finden Sie im [Leitfaden zum Migrieren von PMC zu Partner Center](guide-to-migration.md) oder in diesem kurzen Video: [Einfache Nutzung von Konten an mehreren Standorten](https://vimeo.com/290335248).
 

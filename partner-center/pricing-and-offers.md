@@ -9,18 +9,26 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e037f9e417da65ddd3d34fcdc7198807164906f9
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0e81ead73308902e75b842c00bbd32ed228ca3a5
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654141"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004949"
 ---
 # <a name="pricing-and-offers"></a>Preise und Angebote
 
 **Zielgruppe**
 
 -  Partner Center
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Administratoragent
+-   MPN-Partneradministrator
+-   Vertriebsbeauftragter
+-   Abrechnungsadministrator
 
 Die neuesten Preislisten und Angebote des Cloud Solution Provider-Programms finden Sie unter **Verkaufen > Preise und Angebote**. Dort finden Sie separate Preislisten für lizenzbasierte Dienste wie Office 365, Microsoft Dynamics CRM und Enterprise Mobility Suite sowie für nutzungsbasierte Dienste (einschließlich Azure). 
 
@@ -58,7 +66,7 @@ Preisänderungen werden häufig vorkommen. Partner können Preisänderungen für
 |Lizenz basiert|Office, Dynamics, InTune, Windows Enterprise|30 Tage|Auflisten von Preisänderungen, die in Vorschau Preislisten als "Chng|
 |Verwendungs basiert|Azure-Ressourcen|Nicht verfügbar|Änderungsprotokoll in der Registerkarte " **Änderungs Verlauf** " des vorherigen Monats|
 |Software||Nicht verfügbar|Manuelles Vergleichen von Preislisten von Monat zu Monat|
-|Voranmeldung|Virtuelle Computer, vorab bezahlt|Nicht verfügbar|Manuelles Vergleichen von Preislisten von Monat zu Monat|
+|Reservierungen|Virtuelle Computer, vorab bezahlt|Nicht verfügbar|Manuelles Vergleichen von Preislisten von Monat zu Monat|
 
 Nutzungsbasierte Preise können sich im Laufe eines Monats ändern. Um die täglichen Preise für diese Azure-Ressourcen zu erhalten, müssen Partner die Ratecard-API anrufen. 
 
@@ -72,8 +80,8 @@ CSP bietet einige Dienste für spezielle Marktsegmente, z. b. Education, Non-Pro
 |**Segment**   |**Wer muss qualifiziert werden**   |**Partner qualifiziert Kunden**|**Aktivierte Produkttypen**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
 |Education|Partner und Kunde|„Ja“|Nur Lizenz basiert|
-|Non-Profit|Kunde|Nein, Kunden, die sich außerhalb von Partner Center qualifizieren|Nur Lizenz basiert|
-|Government Community Cloud (gcc)|Partner und Kunde|Nachdem gcc aktiviert wurde, kann der Partner gcc-Kunden erstellen.| Nur Lizenz basiert|
+|Gemeinnützig|Kunde|Nein, Kunden, die sich außerhalb von Partner Center qualifizieren|Nur Lizenz basiert|
+|Government Community Cloud (GCC)|Partner und Kunde|Nachdem gcc aktiviert wurde, kann der Partner gcc-Kunden erstellen.| Nur Lizenz basiert|
 |Azure gov|Partner|Nach der Qualifikation arbeitet der Partner in einem CSP-Mandanten, der für Azure gov spezifisch ist.|Azure-Ressourcen|
 
 Partner Ränder: der Unterschied zwischen dem Listenpreis und den geschätzten Einzelhandelspreisen kann von Segment zu Segment abweichen. In der Regel haben Education und Non-Profit für CSP-Partner tendenziell niedrigere oder keine Ränder. Genaue Werte finden Sie in der lizenzbasierten Preisliste.  

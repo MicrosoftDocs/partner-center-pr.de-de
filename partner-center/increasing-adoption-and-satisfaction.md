@@ -9,18 +9,24 @@ ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3acd6e259487946a7a1005ec9fd2c5d74160bc99
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 728ef5c3df62acc3037e0f8a6a3578682d507980
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253703"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004779"
 ---
-# <a name="increase-adoption-and-satisfaction"></a>Steigerung von Einführungsrate und Zufriedenheit
+# <a name="increase-adoption-and-satisfaction"></a>Steigern von Akzeptanz und Zufriedenheit
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Administratoragent
+-   Vertriebsbeauftragter
 
 Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wächst und auf welche Bereiche sie ihre Investitionen konzentrieren sollten. Das Partner Center liefert ihnen Informationen darüber, ob und wie die Kunden die erworbenen Lizenzen nutzen. Die Informationen sind für Office-Produkte (einschließlich OneDrive for Business, das mit SharePoint als eine Position gezählt wird) verfügbar.
 

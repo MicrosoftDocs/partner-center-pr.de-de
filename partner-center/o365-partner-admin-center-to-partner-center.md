@@ -8,12 +8,12 @@ description: Suchen Sie nach der Migration zu Partner Center nach allgemeinen Fe
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f709ef9beb42225e9e11d859c21d4576500ee1a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 63b12682cbde7123224ddeae6fb8b5470858c4ad
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943323"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005069"
 ---
 # <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 Partner Admin Center-Partner: Vorbereiten des Verschiebens von Geschäftsvorgängen in Partner Center
 
@@ -21,6 +21,12 @@ ms.locfileid: "74943323"
 
 - Partner Center
 - Office 365 Admin Center für Partner
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Administratoragent
+-   Vertriebsbeauftragter
 
 Wir stellen Office 365 Partner Admin Center-Features in Partner Center zur Verfügung, um Sie bei der Verwaltung Ihrer Kunden während des gesamten Geschäftslebens Zyklus zu unterstützen. Zusätzlich zu den Features, die Sie verwendet haben, können Sie nun folgende Aktionen ausführen: 
 

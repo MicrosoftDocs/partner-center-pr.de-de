@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: medium
-ms.openlocfilehash: f0beb695bee9a67f79373ea903158de3fbb66851
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: dd54d10bb75fe732cddc34c48058b3ba95eac9ae
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943103"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004989"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für Ihren Partner Mandanten
 
@@ -25,6 +25,13 @@ ms.locfileid: "74943103"
   - Indirekter Anbieter
   - Indirekter Händler
 - Alle Berater
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Administratoragent
+-   Abrechnungsadministrator
+-   MPN-Partneradministrator
 
 Diese Partner müssen die MFA-Überprüfung für die folgenden Bereiche durchführen:
 

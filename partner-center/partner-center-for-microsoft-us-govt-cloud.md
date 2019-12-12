@@ -8,18 +8,25 @@ description: Partner Center für Microsoft Cloud for US Government ist das Unter
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1309f14555ff30a91a42d26bc1781315a7bba536
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9e290242a0a97abdbdca1e222c12cd0072d05073
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652686"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004249"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Partner Center für Microsoft Cloud for US Government
 
 **Zielgruppe**
 
 -  Partner Center für Microsoft Cloud for US Government
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Administratoragent
+-   Vertriebsbeauftragter
+-   Abrechnungsadministrator
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud for US Government: Erfüllen der Datenschutzanforderungen 
 

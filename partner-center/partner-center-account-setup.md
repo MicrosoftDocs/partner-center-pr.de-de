@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 09/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Verwalten Sie das Profil und Bank- und Steuerinformationen Ihrer Organisation sowie Ihre Benutzer in Partner Center.
+description: Im Partner Center kannst du das Profil, den Katalog, Bank- und Steuerinformationen, Rollen, Berechtigungen und weitere Angaben zu deinem Unternehmen verwalten.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 17b7fb961208eadb1b41e345fd4380fc276dcb2e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 617bf213d73b8707479b35e5a900c4293b0f8c35
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652763"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943093"
 ---
 # <a name="manage-your-partner-center-account"></a>Verwalten Ihres Partner Center-Kontos
 

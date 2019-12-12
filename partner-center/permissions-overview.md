@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/10/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Jedem Mitarbeiter, der im Partner Center arbeitet, muss eine Rolle zugewiesen werden.
+description: Hier erfährst du, welche Rollen für Benutzer am besten geeignet sind, die kommerzielle Transaktionen, Empfehlungen, Anreize oder die MPN-Mitgliedschaften deines Unternehmens verwalten.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Rollen, Berechtigungen, Administrator, Agent
 ms.localizationpriority: high
-ms.openlocfilehash: aa2eb2561332f730abedd2416813189abe6dc02d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: f49417eea3a2d8b06713cd53355eef68c81d179e
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652422"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943133"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern
 

@@ -10,14 +10,18 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: Rollen, Berechtigungen, Benutzer hinzufügen, Rolle zuweisen, Administrator, Agent, MCP-ID, Microsoft Learn
 ms.localizationpriority: medium
-ms.openlocfilehash: ef53e08af725130b3c13384929afa0a549d0837c
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0457974ff283e8e21a717ca8a0beedf8ce16fa54
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943553"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004279"
 ---
 # <a name="associate-your-microsoft-learn-account-in-partner-center"></a>Zuordnen Ihres Microsoft Learn Kontos in Partner Center
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
 
 Damit Ihr Unternehmen in der Lage ist, die Trainings-und Lernpfade für die Kompetenzen anzuzeigen, müssen Sie Ihre MCP-ID Ihrem Partner Center-Konto zuordnen. Dies erfolgt manuell, nachdem Sie als Partner Center-Benutzer hinzugefügt wurden.
 

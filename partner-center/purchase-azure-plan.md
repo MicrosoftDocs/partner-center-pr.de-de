@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/03/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erwerben mehrerer Azure-Abonnements im Azure-Plan
+description: Hier erfährst du, wie du einzelne oder mehrere Azure-Abonnements und Azure-Reservierungen im Azure-Plan erwerben, Ressourcen konfigurieren sowie Abonnements anzeigen oder hinzufügen kannst.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: f81b338fef2feeeede17db2e1de84b1d9b0d0ca8
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b259f34266415885215097c54c043a6cb91249bd
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654164"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943273"
 ---
 # <a name="purchase-the-azure-plan"></a>Kauf des Azure-Plans
 

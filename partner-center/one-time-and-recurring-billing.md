@@ -7,17 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Abrechnung, einmalig, wiederholt, Käufe, Gebühren, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: f2ccd0d1240d39409db53d668bac32001c678b09
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389688"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005039"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>Abrechnung für einmalige und ausgewählte wiederkehrende Gebühren
 
+**Zielgruppe**
 - Partner Center
 - Partner im CSP-Programm
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Abrechnungsadministrator
+-   Administratoragent
+-   Vertriebsbeauftragter
 
 In diesem Thema werden die Abrechnungsmöglichkeiten **einmalig beschrieben und die wiederkehrenden Gebühren** für Microsoft-und Drittanbieter-ISV-Produkte (Independent Software Vendor) ausgewählt. 
 

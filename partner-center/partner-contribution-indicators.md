@@ -11,14 +11,19 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 87ee210307f5e3f28ae5ac9c7a73b5319536043c
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 012e60996c6c34ffb0f71d48d0ba92141e393ae7
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943123"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004359"
 ---
 # <a name="partner-contribution-indicators"></a>Partnerbeitragsindikatoren
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Administratoragent
 
 Partner Beitrags Indikatoren (Partner Beitrags Indikatoren, PCI) bieten eine ganzheitliche Maßnahme der Auswirkung eines Partners auf das erzielen erfolgreicher Kunden Ergebnisse für Dynamics 365. Partner erhalten eine größere Differenzierung im Markt, wenn Sie die Cloud-Business Applications Kompetenz erreichen und pflegen.  Partner erhalten eine Gutschrift für wichtige Measures des Erfolgs von Kunden, z. b. erfolgreiche bereit Stellungen und höhere Nutzung. Außerdem werden Sie dazu belohnt, dass Sie Ihre technischen Funktionen weiterhin nutzen und horizontal hochskalieren können. 
 

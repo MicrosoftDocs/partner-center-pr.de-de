@@ -10,18 +10,24 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 67df5278d9c9f9f757e904d55ae6a688bbb8c5bc
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: eba413fd3955db8dedc5ffe57747739368adcaa6
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943473"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004959"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Partner Center Analytics-App für Power BI (direkte Partner in CSP)
 
 **Zielgruppe**
 
 - Partner Center
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Vertriebsbeauftragter
+-   Administratoragent
 
 Stellen Sie Ihre Unternehmensdaten mit der Partner Center Analytics-App für Power BI visuell dar. Die App wurde für direkte Partner im CSP-Programm (Cloud Solution Provider) entwickelt und nutzt das vertraute Power BI-Framework. 
 

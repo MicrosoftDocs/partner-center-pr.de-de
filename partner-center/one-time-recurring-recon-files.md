@@ -7,29 +7,36 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0eae0dac3cbb4991e85e335082e6c5071c62841f
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 51c37c9ea2110b7666c4d1a9bc92a2b01f92209c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389678"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004899"
 ---
 # <a name="one-time-and-recurring-reconciliation-files"></a>Einmalige und wiederkehrende Abstimmungs Dateien
 
-Gilt für:
+**Zielgruppe**
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Abrechnungsadministrator
+-   Administratoragent
+-   Vertriebsbeauftragter
 
 In diesem Thema wird erläutert, wie Sie einmalige und wiederkehrende Abstimmungs Dateien im Partner Center lesen.
 
 ## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>Felder in einmaligen und wiederkehrenden Abgleich Dateien
 
-| Spalte | Description |
+| Column | Beschreibung |
 | ------ | ----------- |
 | PartnerID | Eindeutige Azure Active Directory (Azure AD)-Mandanten Bezeichner für eine bestimmte Abrechnungs Entität im GUID-Format. Für die Abstimmung nicht erforderlich. In allen Zeilen gleich. |
 | Kunden-ID | Eindeutige Azure AD Mandanten-ID im GUID-Format. Identifiziert den Kunden. |
-| Kundenname | Der Organisationsname des Kunden, wie in Partner Center gemeldet. |
+| Kundenname | Der in Partner Center angegebene Organisationsname des Kunden. |
 | CustomerDomainName | Der Domänen Name des Kunden. Dieses Feld wird ggf. bis zum zweiten Abrechnungszyklus leer angezeigt. *Verwenden Sie dieses Feld nicht als eindeutigen Bezeichner für den Kunden. Der Kunde/Partner kann die Vanity oder die Standard Domäne über das Office 365-Portal aktualisieren.* |
 | Land des Kunden | Das Land, in dem sich der Kunde befindet. |
 | Rechnungsnummer | Rechnungsnummer, in der die angegebene Transaktion angezeigt wird. |
@@ -41,7 +48,7 @@ In diesem Thema wird erläutert, wie Sie einmalige und wiederkehrende Abstimmung
 | SkuId | Der Bezeichner für eine bestimmte SKU (Stock-Keeping Unit). |
 | AvailabilityId | Der Bezeichner für die Verfügbarkeit einer bestimmten SKU. Dies zeigt, ob die SKU für den Erwerb in den jeweiligen Ländern, Währungen, Industriesegmenten usw. verfügbar ist. |
 | SKU-Name | Der Titel einer bestimmten SKU. |
-| Produktname | Der Name des Produkts. |
+| Produktname | Name des Produkts. |
 | PublisherName | Der Name des Herausgebers des Produkts.
 | PublisherID | Eindeutiger Bezeichner für einen bestimmten Verleger. |
 | Abonnementbeschreibung | Anzeigename eines Abonnements. |
@@ -49,7 +56,7 @@ In diesem Thema wird erläutert, wie Sie einmalige und wiederkehrende Abstimmung
 | ChargeStartDate | Der erste Tag, an dem Gebühren anfallen. Die Uhrzeit ist immer auf den Tagesbeginn um 0:00 Uhr festgelegt. |
 | ChargeEndDate | Letzter Tag, an dem Gebühren anfallen. Die Uhrzeit ist immer auf das Tagesende um 23:59 Uhr festgelegt. |
 | Laufzeit und Abrechnungszyklus | Die Begriffs Länge und der Abrechnungszeitraum für den Erwerb (z. b. *1 Jahr, monatlich*). |
-| Gebührenart | Art der Gebühren oder der Anpassungen. |
+| Gebührenart | Art der Gebühren oder der Anpassung. |
 | Preis pro Einheit | Der in der Preisliste zum Zeitpunkt des Kaufs veröffentlichte Einheitspreis. *Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert* |
 | Effektiver Preis pro Einheit | Der Preis pro Einheit, nachdem Anpassungen vorgenommen wurden. |
 | Anzahl | Anzahl der Einheiten. *Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert* |

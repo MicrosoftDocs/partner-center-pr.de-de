@@ -9,20 +9,24 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b218d8d82506d50c21957f406eef6874eefbb7a
-ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
+ms.openlocfilehash: 5dfdd0a579f323e7d6cb0af0dffbdb7bac29cf38
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74189073"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005089"
 ---
 # <a name="multi-channel-support"></a>Unterstützung mehrerer Kanäle
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
 
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Vertriebsbeauftragter
 
 Das Multichannel-Feature von Partner Center unterstützt Szenarien, in denen ein Kunde einen Partner für die Verwaltung und Unterstützung eines Abonnements beauftragen möchte, das Sie an anderer Stelle erworben haben. Dieser Multichannel-Support gilt in folgenden Fällen:
 
@@ -54,7 +58,7 @@ Das Multichannel-Feature von Partner Center unterstützt Szenarien, in denen ein
 > [!IMPORTANT]  
 > Ein CSP-Partner kann derzeit keine Onlinedienste an einen anderen CSP-Partner weiterverkaufen. Microsoft überprüft ständig die Richtlinien und Funktionen aller Programme. Alle Ankündigungen zu künftigen Releases werden über die üblichen Kommunikationskanäle vorgenommen, einschließlich Partner Center. 
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Informationen:
 
 [Zusammenarbeit mit anderen Partnern](work-with-other-partners.md)
 

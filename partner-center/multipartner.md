@@ -9,19 +9,24 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 634645d59503042690e5cbde0fdce3a037eaa5e8
-ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
+ms.openlocfilehash: ca2db6611d26716d6f8b9cfa166bbc852bbf8b89
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74189080"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004909"
 ---
 # <a name="multi-partner-support"></a>Support für mehrere Partner
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Vertriebsbeauftragter
 
 Die Multi-Partner-Funktion von Partner Center unterstützt Szenarien, in denen ein Kunde mit mehr als einem Partner arbeiten möchte. Beispielsweise möchte ein Kunde mit einem Partner aufgrund seiner Kenntnisse in Bezug auf Office 365, gleichzeitig aber mit einem anderen Partner zusammenarbeiten, der auf Microsoft Azure spezialisiert ist. 
 

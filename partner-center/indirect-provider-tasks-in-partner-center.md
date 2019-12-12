@@ -8,14 +8,20 @@ description: Als indirekter Anbieter (oder Verteiler) erfahren Sie, wie Sie eine
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f6a917dfae75549b55071858ad9216b0abe9138
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a6770e459b0e3b1c05dba91107cbfdb729eeda14
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253676"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004539"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Wiederverkäufern im Programm für Cloud-Lösungsanbieter
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Administratoragent
+-   Vertriebsbeauftragter
 
 Angesichts der Komplexität und hohen Dynamik des Technologiemarkts möchten sich Kunden mit Technologielösungen einen Wettbewerbsvorteil verschaffen. In einem solchen Umfeld ist es für Partner sinnvoll, in Partner-zu-Partner-Programme zu investieren, um ihr Angebot zu erweitern und den Kunden noch mehr Möglichkeiten zu bieten.
 
@@ -30,7 +36,7 @@ Als indirekter Anbieter verwenden Sie das Partner Center für Folgendes:
 -   Festlegen indirekter Vertriebspartner als Betreuer für bestimmte Kunden und Abonnements 
 -   Verwalten Ihrer Beziehungen mit Microsoft, Kunden und indirekten Vertriebspartnern an einem zentralen Ort
 
-Weitere Informationen zum indirekten Modell in CSP finden Sie auf der [Microsoft Partner Network-Website](https://partner.microsoft.com/cloud-solution-provider/indirect) unter [Erkunden Sie das indirekte Modell]( https://partner.microsoft.com). 
+Weitere Informationen zum indirekten Modell in CSP finden Sie auf der [Microsoft Partner Network-Website]( https://partner.microsoft.com) unter [Erkunden Sie das indirekte Modell](https://partner.microsoft.com/cloud-solution-provider/indirect). 
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Aufgaben indirekter Anbieter im Partner Center
 
@@ -44,7 +50,7 @@ Führen Sie zum Einrichten und Verwalten Ihrer Partnerschaft mit indirekten Vert
 
     - Bevor Sie mit Vertriebspartnern interagieren und Transaktionen abwickeln können, müssen Sie im Partner Center Partnerschaften mit ihnen einrichten. <br>
 
-3.  Kontakt zu Kunden
+3.  Interagieren mit Kunden
 
     - Zuordnen neuer Kunden und Abonnements zu Vertriebspartnern
     - Aufbauen von Vertriebspartnerschaften mit Bestandskunden <br>
@@ -129,7 +135,7 @@ Wenn Sie sich bei bestehenden Abonnements für die Zusammenarbeit mit einem indi
 
 
 
-## <a name="connect-with-customers"></a>Kontakt zu Kunden
+## <a name="connect-with-customers"></a>Interagieren mit Kunden
 
 Wenn Sie neue Kunden gewinnen, müssen Sie im Partner Center entsprechende Konten erstellen. Wenn Sie ein neues Kundenkonto hinzufügen, können Sie einen bestimmten Reseller zum Verwalten des Kontos und zum Verwalten der Abonnements und Dienste der Kunden in Ihrem Auftrag festlegen. 
 
@@ -168,9 +174,9 @@ Wenn Kunden neue Abonnements erwerben, vorhandene aktualisieren oder zusätzlich
 
 6.  Wenn sich der Vertriebspartner um Kundensupportanfragen für das neue Abonnement kümmern soll, wählen Sie zuerst das Abonnement und dann den Vertriebspartner in der Liste der **designierten Supportkontakte** aus.
 
-7.  Klicken Sie abschließend auf **Übermitteln**. 
+7.  Klicken Sie abschließend auf **Senden**. 
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Informationen:
 
 Weitere Informationen zur Verwaltung von Kundenkonten und -abonnements finden Sie hier:
 

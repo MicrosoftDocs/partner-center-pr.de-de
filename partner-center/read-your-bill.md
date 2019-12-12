@@ -10,19 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Abonnementabrechnungen, Abrechnung, Abrechnung im Partner Center, Partner Center-Abrechnung, meine Rechnung lesen, Rechnung, Rechnung für Partner Center, CSP-Abrechnung, wo ist meine Rechnung?
 ms.localizationpriority: medium
-ms.openlocfilehash: 2f7fe5c2a3348e89cb69fc0d4e89b97f56fb2083
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dc4c8ad1e0f12586ed1e75670806c463ca9cee54
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384827"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004829"
 ---
 # <a name="read-your-bill"></a>Informationen zu Ihrer Rechnung
 
-Gilt für:
+**Zielgruppe**
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Abrechnungsadministrator
+-   Administratoragent
+-   MPN-Partneradministrator
 
 Ihre **Rechnung** ist eine **Zusammenfassung all ihrer Partner Center-Gebühren** (Programm übergreifend, alle Produkte und alle Kunden) für den **aktuellen Abrechnungszeitraum**.
 

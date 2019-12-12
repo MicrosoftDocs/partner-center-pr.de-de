@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e86c45b6ac721d4fd8edffa981940d212295611
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 2c2476c87a319b386df6d5031c776efaecec3bda
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943293"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005049"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Anbieten von Testversionen von Microsoft-Produkten für Kunden
 
-Betrifft
+**Zielgruppe**
 
 - Partner Center
+
+**Geeignete Rollen**
+-   Globaler Administrator 
+-   Benutzeradministrator
+-   Vertriebsbeauftragter
 
 Eine kostenlose 30-Tage-Testversion ist eine gute Möglichkeit, Kunden neue Microsoft-Produkte vorzustellen. Sie können sich für die Testversionen im Katalog ebenso wie für viele andere Onlinedienste registrieren. Alle Partner können daran teilnehmen.
 

@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8aa501512a86f65c0a78c49f01c843286fcd120f
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 61ed931a33d0eec9cb2858a3cf653e69610c2b8f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384594"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005029"
 ---
 # <a name="company-tax-information"></a>Unternehmens Steuerungsinformationen
 
-Gilt für:
+**Zielgruppe**
 
 - Partner Center
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Abrechnungsadministrator
+-   Administratoragent
+-   Vertriebsbeauftragter
 
 Steuern für Einkäufe in Partner Center werden durch Ihre Geschäftsadresse bestimmt. Unternehmen in einigen Ländern können [Ihre Mehrwert Steuernummer (Tax)](#submit-vat-id-number) oder eine lokale Entsprechung angeben.
 

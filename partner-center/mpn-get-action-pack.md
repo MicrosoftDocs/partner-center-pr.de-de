@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Hier erfahren Sie, wie Sie ein Microsoft Action Pack erstmalig erwerben oder verlängern.
+description: Hier erfährst du, wie du ein Microsoft Action Pack-Abonnement erwirbst und die Action Pack-Vorteile nutzen kannst. Darüber hinaus zeigen wir, wie du dein Abonnement verlängern, kündigen oder deine Abrechnung anzeigen kannst.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Action Pack, MAPS, MAPS verlängern, Action Pack verlängern, Action pack erwerben
 ms.localizationpriority: high
-ms.openlocfilehash: ef1ad6e37fd15274ce6e2272dcd8e563738f263a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: fb5515ad0f27ba627d4a4a834be36b4d8f627e10
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654299"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943343"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Erstmaliges Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements oder der Kompetenzen „Silver“ oder „Gold“
 

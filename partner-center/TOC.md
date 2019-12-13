@@ -21,6 +21,7 @@
 ## Vorteile
 ### [Übersicht über die Vorteile](manage-your-partner-network-benefits.md)
 ### [Vorteile der Markteinführung](mpn-learn-about-go-to-market-benefits.md)
+## [Verwalten von Marketplace-Angeboten](marketplace-rewards.md)
 ## [Software Assurance-Programme](software-assurance-lp.md)
 ### [SATV-Programm (Software Assurance Training Voucher, Software Assurance-Trainingsgutschein) in Partner Center](software-assurance-satv.md)
 ### [Verwenden des Tools zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR) in Partner Center, um Gutscheine zu überprüfen, zu reservieren und einzulösen](voucher-validation-tool.md)
@@ -61,6 +62,7 @@
 ## [Wiederherstellen ausgesetzter Partner Center-Konten](suspended-partner-center-account.md)
 ## [Erstellen von Benutzerkonten](create-user-accounts-and-set-permissions.md)
 ## [Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md)
+## [Hinzufügen einer Azure AD-Anwendung](service-principal.md)
 ## [Zuweisen Ihres Microsoft-Learn Kontos zu Partner Center](ms-learn-associate.md)
 ## [Überprüfen Ihres Domänenbesitzes](become-global-admin.md)
 ## [Zurücksetzen eines Benutzerkennworts](reset-a-user-password.md)

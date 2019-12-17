@@ -1,97 +1,87 @@
 ---
-title: Partnerbeitragsindikatoren | Partner Center
+title: Partner Center Insights | Partner Center
 ms.topic: article
-ms.date: 11/14/2019
+ms.date: 12/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sehen Sie genau, was Sie gut machen und wo Sie sich im Hinblick auf Dynamics 365 Customer Engagement oder Dynamics 365 Finance und Operations verbessern können.
+description: Sehen Sie genau, was Sie tun und wo Sie Ihre Vertriebs-und Bereitstellungs Funktionen sowie die Kunden Entwicklung verbessern können.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: PCI, Leistung, Kundenerfolg, Messungen, Dynamics 365
+keywords: PCI, Leistung, Kunden Erfolg, Messungen
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 012e60996c6c34ffb0f71d48d0ba92141e393ae7
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: cec1fd9121f82392b4bd2bbbbf5ffb946547f83d
+ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004359"
+ms.lasthandoff: 12/16/2019
+ms.locfileid: "75033496"
 ---
-# <a name="partner-contribution-indicators"></a>Partnerbeitragsindikatoren
+# <a name="partner-center-insights"></a>Einblicke in Partner Center
 
 **Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   Administratoragent
+- Globaler Administrator
+- Kontoadministrator
+- Executive Report Viewer
+- Berichts-Viewer
 
-Partner Beitrags Indikatoren (Partner Beitrags Indikatoren, PCI) bieten eine ganzheitliche Maßnahme der Auswirkung eines Partners auf das erzielen erfolgreicher Kunden Ergebnisse für Dynamics 365. Partner erhalten eine größere Differenzierung im Markt, wenn Sie die Cloud-Business Applications Kompetenz erreichen und pflegen.  Partner erhalten eine Gutschrift für wichtige Measures des Erfolgs von Kunden, z. b. erfolgreiche bereit Stellungen und höhere Nutzung. Außerdem werden Sie dazu belohnt, dass Sie Ihre technischen Funktionen weiterhin nutzen und horizontal hochskalieren können. 
+Insights ist ein einheitliches Berichterstattungs Dashboard im Partner Center für die kommerziellen Partner von Microsoft, die beim Microsoft Partner Network-Programm (MPN) registriert sind. Das Insights-Dashboard bietet eine 360-fach Ansicht Ihrer Key Performance Indicator (KPI) für cloudprodukte wie Office, Azure, Dynamics und Lizenzierungsmodelle wie CSP und EA. Es stellt einen umfangreichen Satz von KPI-Berichten zur Verfügung, mit denen Sie datengestützte Entscheidungen für Ihre Organisation treffen können. 
 
-## <a name="scoring"></a>Bewertung
+## <a name="roles-based-access-control-to-the-insights-dashboard"></a>Rollenbasierte Zugriffs Steuerung für das Insights-Dashboard
 
-PCI bietet eine ausgereifte, ganzheitliche Übersicht über die technischen Funktionen Ihres Unternehmens, die Möglichkeit, den Erfolg von Kunden und die Vertriebs Leistung zu steigern. PCI misst die vorherige Jahresleistung Ihres Unternehmens in sieben wichtigen Indikatoren:
+Es gibt zwei neue Rollen in Partner Center, die speziell für den Zugriff auf Insights-Report Viewer und die Executive Report Viewer konzipiert wurden.  Benutzer in der Rolle "Executive Report Viewer" haben Zugriff auf alle Berichts Datasets, während Benutzer in der Rolle "Berichts-Viewer" keinen Zugriff auf sensible Datasets haben, wie z. b. Umsatz und persönliche Daten von Kunden und Mitarbeitern. 
 
-1. **Netto neuer Umsatz** – Netto neuer Umsatz über alle Vertriebskanäle für Microsoft Dynamics 365-Produkte hinweg.
-2. **Net Customer fügt** – net-Kunden, die für Dynamics 365 erworben wurden, über alle Vertriebskanäle hinweg hinzu.
-3. **Funktions Berater** – die Anzahl der Personen, die einen derzeit aktiven funktionalen Berater haben, ordnet die Zertifizierung für Dynamics 365 zu.
-4. **Wachstum des funktionalen Beraters** – Wachstum in der Anzahl der funktionalen Beratungsmitarbeiter seit dem 31. März 2020.
-5. **Entwickler** – Anzahl der Personen, die einen derzeit aktiven Entwickler haben, weisen die Zertifizierung für Dynamics 365 zu.
-6. **Neue große bereit Stellungen** – Anzahl der Produktions Mandanten, die in den letzten 12 Monaten den Schwellenwert für hohe Auslastung überschreiten.
-7. **Monatliches aktives Benutzer Wachstum** – Wachstum in monatlich aktiven Benutzern für alle Kunden in den letzten 12 Monaten.
+Der globale Administrator oder der Konto Administrator kann Benutzern diese Rollen zuweisen und entweder für das gesamte Unternehmen oder für einen bestimmten MPN-Speicherort zugewiesen werden.  
 
-Für jeden erreichten Indikator werden Punkte gewährt, was zu einer PCI-Bewertung mit einer einzelnen Zahl führt. 100 es sind maximal zulässige Punkte möglich. PCI-Bewertung bestimmt die Berechtigungs Berechtigung:
+>[!Note] 
+>Benutzer, die seit dem 2. Dezember 2019 als MPN-Administratoren hinzugefügt wurden, wurden der unternehmensweiten Berichts-Viewer-Rolle automatisch hinzugefügt. Sie können auf die Berichte als Berichts-Viewer zugreifen, ohne dass für den globalen Administrator oder Konto Administrator eine explizite Aktion erforderlich ist. Die globalen Administratoren oder Konto Administratoren können diese Zuweisungen bei Bedarf überschreiben. 
 
-![PCI-Bewertungen](images/pcinew1.png)
+## <a name="reports-available"></a>Verfügbare Berichte
 
-Jeder Indikator bringt eine Bewertung, die der Summe hinzugefügt wird. Dies sind die maximalen Ergebnisse für jeden Indikator:
+Die folgenden Berichte sind als Teil des Insights-Dashboards verfügbar.
 
+**Übersicht**    Der Bericht "Übersicht" enthält eine Momentaufnahme Ansicht verschiedener KPIs, die für Sie von Interesse sind, wie z. b. die Anzahl der Kunden, die Anzahl aktiver Abonnements, der Azure-Verbrauchs Umsatz
 
-![PCI-Leistung 2](images/pci1.png)
+**Kunde** Der Kundenbericht bietet Analysen für Ihre Kunden, z. b. Kunden Erwerbs Daten, aktive Kunden usw. 
 
-### <a name="thresholds"></a>Schwellenwerte
+**Produkt-Abonnements**     Der Bericht "Abonnements" enthält Informationen zur Erfassung und Nutzung ihrer cloudabonnements (z. b. O365, Azure, Dynamics usw.) 
 
-Jede PCI-Metrik weist von Microsoft festgelegte Schwellenwerte auf, mit denen dein Unternehmen die maximale Punktzahl erzielen kann. Diese Schwellenwerte sind unterschiedlich für Customer Engagement und Finance and Operations. Die Schwellenwerte sind auch unterschiedlich für Partner, die in bereits voll entwickelten Märkten tätig sind, und für Partner, die ausschließlich in neuen Märkten arbeiten. Wenn ein Partner mindestens einen Kunden in einem voll entwickelten Markt hat, gelten die Schwellenwerte für entwickelte Märkte. Die Entwicklung oder die neue Markt Kategorisierung eines Landes basiert auf den [Microsoft Partner Network Definitionen](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
+**Produktlizenzen**   Das Dashboard "Lizenzen" enthält Lizenz Analysen für Lizenz basierte cloudprodukte wie O365, Dynamics, Power BI usw.
 
-Die Punkte in den einzelnen Metriken sind so fest, dass Sie eine eindeutige PCI-Bewertung für Kunden Engagement und Finanz & Vorgänge ergeben, die monatlich aktualisiert werden.
+**Produkt: Azure-Nutzung**   Der Azure-Verwendungs Bericht zeigt Metriken im Zusammenhang mit den Azure-Abonnements ihrer Kunden an, einschließlich Azure-Verbrauch und Nutzung nach Abrechnungs Kategorien.
 
-Partner können die maximale Punktzahl für eine Metrik erzielen, wenn sie die unten angegebenen Schwellenwerte erreichen oder übertreffen. Für alle Metriken mit Ausnahme des Zuwachses bei Funktionsberatern können anteilige Punkte verdient werden. Ein Beispiel: Ein Partner in einem entwickelten Markt mit 150.000 USD neuem Nettoumsatz erhält die Hälfte der maximal erreichbaren 10 Punkte (für 300.000 USD).
+**Kompetenzen**    Der Bericht "Zuständigkeiten" stellt Metriken zu ihren aktiven, qualifizierten und risikoreichen Kompetenzen dar.
 
-![Kundenengagement](images/pci/table_1.png)
+**Vorteile**    In den Vorteilen von Berichten werden Analysen zu den Vorteilen von Partnern präsentiert, die Sie erworben haben.
 
-![Finanzen](images/pci/TABLE_2.png)
-
-![Stelle](images/pci/table_3.png)
-
-## <a name="detailed-definitions-of-pci-metrics"></a>Ausführliche Definitionen von PCI-Metriken
-
-![Netto neuer Umsatz](images/net_new1.png)
-
-![NET Customer Adds](images/netcustomer.png)
-
-![Funktionsberater](images/pci/functional_consultants.png)
-
-![growth](images/pci/functional_consultant_growth.png)
-
-![Entwickler](images/pci/developers.png)
-
-![Neue Bereitstellungen](images/pci/new_large_deployments.png)
-
-![Aktive Benutzer](images/pci/monthly_active_user_growth.png)
+## <a name="navigating-the-insights-reports"></a>Navigieren in den Insights-Berichten 
 
 
-## <a name="customer-to-partner-association"></a>Zuordnung zwischen Kunde und Partner
+**Datums Bereichs Filter**: Sie können eine Datums Bereichsauswahl in der oberen rechten Ecke jeder Seite finden. Die Ausgabe der Diagramme für die Übersichtsseite kann angepasst werden, indem Sie einen Datumsbereich auswählen, der auf den letzten 3, 6 oder 12 Monaten basiert, oder indem Sie einen benutzerdefinierten Datumsbereich auswählen. Die Standardauswahl für Datumsbereiche beträgt 12 Monate. 
 
-Sie erhalten eine Gutschrift für den Nettoumsatz, den Netto Kunden, neue große bereit Stellungen und die monatliche aktive Benutzer Vergrößerung für einen bestimmten Kunden innerhalb der Grenzen der metrikdefinition, nur wenn Sie der Cloud Solution Provider (CSP) sind, der Anspruchs Partner des Datensatzes (cpor), oder Digital Partner of Record (dpor) für ein kostenpflichtiges Abonnement, das zum Mandanten des Kunden gehört.
 
-Ein Partner wird zum cpor, wenn er mit einem Kunden auf der Abonnement Ebene über den Dynamics 365 [Online Solution Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) Incentive oder über den Dynamics 365 [Online Services Usage](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) (OSU)-Anreiz verfügt.
+**Schaltfläche "Feedback**": jedes Diagramm/Steuerelement in allen Insights-Berichten ist in eine Feedback Schaltfläche integriert, damit Sie instanzfeedback zu einer Berichtsfunktion bereitstellen können. 
 
-Ein Partner wird dann zum DPOR, wenn eine Kundenbeziehung auf Abonnementebene innerhalb des Produkts eingegangen wurde.
+ 
+**Filter auf Seitenebene**: mit Ausnahme der Berichte Übersicht, Vorteile und Kompetenzen können Sie mit allen Insights-Berichten Filter auf Seitenebene anwenden. 
 
-Wenn für ein bestimmtes Abonnement sowohl ein CPOR als auch ein DPOR vorhanden sind, erhält der CPOR alle Gutschriften für mit dem Abonnement verknüpfte PCI-Metriken.
+- Die ausgewählten Filter gelten für alle Diagramme und Metriken auf einer Seite, einschließlich des Abschnitts "Zusammenfassung". Ein Filterelement ist verfügbar, wenn Sie über Daten innerhalb dieser Filterkriterien verfügen. 
 
-## <a name="how-to-read-the-charts"></a>Erläuterung zu den Diagrammen
+- Die Standardauswahl der einzelnen Filterlisten ist **alle**. Wenn Sie z. b. kein bestimmtes Produkt im Produktfilter ausgewählt haben, ist die Standardauswahl Alle Produkte.
 
-![Erläuterung zum Diagramm](images/pci2.png)
+- Die ausgewählten Filter werden am oberen Rand der Seite angezeigt. 
+
+ ### <a name="filters-definition"></a>Filter Definition:
+
+- Produkte: Liste aller von Ihrer Organisation verkauften/verwalteten Microsoft Cloud Produkte, z. b. O365, Azure, D365, EMS, Power BI usw.
+- Kunden Märkte: Liste der Kundenländer
+- Partner Zuordnungen: Ihr Zuordnungstyp mit ihren Kunden Abonnements, z. b. Digital Partner of Record (dpor), delegierte Administrator Berechtigung (DAP), Partner admin Link (PAL) usw. 
+- Partner Standorte: Liste aller MPN-Standorte Ihrer Organisation. 
+- Vertriebskanäle: alle Vertriebskanäle/Preise, mit denen Sie Produkte und Dienste kaufen bzw. bereitstellen, nämlich CSP, EA, CSP indirekt, direkt, Advisor, offen, andere
+- Kundensegmente: Liste der Kundensegmente der Partner Kundenbasis.
+
+
 
 ## <a name="additional-resources"></a>Weitere Ressourcen
 

@@ -9,18 +9,24 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, Mitgliedschaftsvorteile, Mitgliedschaft
 ms.localizationpriority: high
-ms.openlocfilehash: ba501542675c5686177a22b938a425ea24c5d56e
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0e1ad3c5ebc7406e815ba7e7d0c9fdc75d8bf5cf
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943593"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004529"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten Ihrer Microsoft Partner Network-Mitgliedschaftsvorteile
 
 **Gilt für**
 
 -  Partner Center
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Administratoragent
+-   MPN-Partneradministrator
 
 >[!IMPORTANT]
 >In diesem Artikel erfahren Sie, wie Sie Ihre Microsoft Partner Network(MPN)-Mitgliedschaftsvorteile in Partner Center zu nutzen. Wenn Sie keine Einladung zum Verschieben Ihrer Unternehmensinformationen von Partner Membership Center (PMC) zu Partner Center erhalten haben, verwalten Sie Ihre MPN-Mitgliedschaftsvorteile weiterhin in PMC. [Melden Sie sich](https://partner.microsoft.com/_login?authType=OpenIdConnect) jetzt bei PMC an.

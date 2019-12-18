@@ -9,14 +9,19 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: b259f34266415885215097c54c043a6cb91249bd
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: be438f48bea120f7d55ab773bdf7cd6a96fc45ab
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943273"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004939"
 ---
 # <a name="purchase-the-azure-plan"></a>Kauf des Azure-Plans
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Vertriebsbeauftragter
 
 Wenn Sie im Rahmen des Microsoft-Kundenvertrags einen Azure-Plan für Ihre Kunden erwerben, haben Sie Zugriff auf den Gesamtkatalog der neuesten Azure-Dienste zu nutzungsbasierten Tarifen. CSP-Partner können jetzt auf jeden Azure-Dienst zugreifen, sobald er die allgemeine Verfügbarkeit erreicht hat. Ein Partner kann über mehrere Azure-Abonnements in einem Azure-Plan verfügen. 
 

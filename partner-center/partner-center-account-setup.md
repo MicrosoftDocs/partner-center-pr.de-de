@@ -10,18 +10,23 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 617bf213d73b8707479b35e5a900c4293b0f8c35
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 62131fa6590898dcb6d59e4bee0f6edb68dfba0c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943093"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005019"
 ---
 # <a name="manage-your-partner-center-account"></a>Verwalten Ihres Partner Center-Kontos
 
 **Gilt für**
 
 -  Partner Center
+
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   Administratoragent
 
 Das Konto, das Sie bei der Registrierung in Partner Center erstellen, besteht aus Ihrer beruflichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem du ein Konto im Partner Center erstellt hast, musst du (oder dein Administrator) die Einrichtung deines Unternehmensprofils abschließen (einschließlich Supportinformationen, ggf. Steuerbefreiungen und Angaben zum Hauptansprechpartner). 
 

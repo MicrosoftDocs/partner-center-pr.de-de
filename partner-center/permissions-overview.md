@@ -9,15 +9,19 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Rollen, Berechtigungen, Administrator, Agent
 ms.localizationpriority: high
-ms.openlocfilehash: f49417eea3a2d8b06713cd53355eef68c81d179e
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e0f53e2f1aae51a1287a2e347fa9014b5d75ea03
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943133"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004129"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern
 
+**Geeignete Rollen**
+-   Globaler Administrator
+-   Benutzeradministrator
+-   MPN-Partneradministrator
 
 Sie haben Ihr Partnerprofil mit gesetzlichem Namen und Adresse, Supportdetails, Steuerbefreiungen, Bankverbindung und dem Hauptansprechpartner für Ihr Unternehmen eingerichtet. Nächster Schritt: Einrichten der Benutzer mit Kennwörtern und Rollen, damit sie mit Ihnen gemeinsam im Partner Center arbeiten können.
 

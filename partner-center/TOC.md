@@ -17,11 +17,12 @@
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Verlängern Ihrer Angebote](renew-mpn-offers.md)
 ## [Kompetenzen](learn-about-competencies.md)
+## [Erweiterte Spezialisierungen](advanced-specializations.md)
 ## [Azure Expert Managed Services Provider-Programm](azure-expert-msp.md)
 ## Vorteile
 ### [Übersicht über die Vorteile](manage-your-partner-network-benefits.md)
 ### [Vorteile der Markteinführung](mpn-learn-about-go-to-market-benefits.md)
-## [Verwalten von Marketplace-Angeboten](marketplace-rewards.md)
+## [Marketplace-Prämien](marketplace-rewards.md)
 ## [Software Assurance-Programme](software-assurance-lp.md)
 ### [SATV-Programm (Software Assurance Training Voucher, Software Assurance-Trainingsgutschein) in Partner Center](software-assurance-satv.md)
 ### [Verwenden des Tools zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR) in Partner Center, um Gutscheine zu überprüfen, zu reservieren und einzulösen](voucher-validation-tool.md)

@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2c2476c87a319b386df6d5031c776efaecec3bda
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: a0f511ad2275866552e9646cf433351ae4fc3be3
+ms.sourcegitcommit: a80838c0e79f66c28b958165e910871dd37d39f0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005049"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "75185540"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>Anbieten von Testversionen von Microsoft-Produkten für Kunden
 
@@ -45,7 +45,7 @@ Kostenlose Testversionen sind für folgende Produkte verfügbar:
 - Office 365 E5 ohne PSTN
 - Enterprise Mobility & Security E5
 - Dynamics 365 Customer Engagement Plan 1
-- Dynamics 365 for Financials
+- Dynamics 365 Business Central
 - Microsoft 365 Business
 
 Wir bieten kostenlose Testversionen für diese Produkte an, da sie die umfassendsten und beliebtesten Angebote für Unternehmen sind. Wir werden in Zukunft möglicherweise weitere kostenlose Testversionen anbieten.

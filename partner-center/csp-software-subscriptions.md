@@ -10,12 +10,12 @@ ms.author: evansma
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Azure RI, Windows Server, SQL Server, Software Abonnements, Abbrechen von Software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 271eb450434047d1eee193df9f6ce02e7a2d7cf5
-ms.sourcegitcommit: fcaa85b3c080628d2c14b9133aa5780cdaf6f3be
+ms.openlocfilehash: 733c8ab6c2d15109011dfa240c2ce5954d748fea
+ms.sourcegitcommit: 855b2aed1c395b199d8aaba88ac08cc277f474ea
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185625"
+ms.lasthandoff: 12/19/2019
+ms.locfileid: "75190241"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Verkaufen von Softwareabonnements über CSP
 
@@ -140,7 +140,7 @@ Sie können einen Softwarekauf binnen 60 Tagen nach Kaufdatum stornieren. Wenn S
 Gehen Sie folgendermaßen vor, um einen Kauf zu stornieren:
 
 >[!NOTE]
->Sie müssen ein Administrator-Agent sein, um einen Kauf zu stornieren. In den folgenden Schritten wird beschrieben, wie ein Einkauf im Partner Center-Dashboard abgebrochen wird. Hierfür können Sie auch die [Partner Center-API](https://docs.microsoft.com/partner-center/develop/cancel-an-order-from-the-integration-sandbox)verwenden.
+>Sie müssen ein Administrator-Agent sein, um einen Kauf zu stornieren. In den folgenden Schritten wird beschrieben, wie ein Einkauf im Partner Center-Dashboard abgebrochen wird. Hierfür können Sie auch die [Partner Center-API](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases)verwenden.
 
 1. Stellen Sie sicher, dass Folgendes vorliegt, bevor Sie den Abbruch Vorgang starten:
 

@@ -169,6 +169,7 @@
 ## [Abrufen und Analysieren von Unternehmensdaten](data-analysis-lp.md)
 ## [Partner Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners.md)
 ## [Partner Center-Einblicke](partner-contribution-indicators.md)
+## [Partnerbeitragsindikatoren](pci-updated.md)
 ## [Abrufen von Daten zur Verwendung der Azure-Abonnements Ihrer Kunden](analyze-azure-usage.md)
 ## [Analysieren der Leistung indirekter Händler](analyze-indirect-resellers.md)
 ## [Analysieren von Abonnements und Lizenzen](analyze-subscriptions-licenses.md)

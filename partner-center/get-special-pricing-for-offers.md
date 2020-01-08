@@ -9,16 +9,16 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 24102a7c299db534422e031ee9504dc48cf923cb
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 5479829dc73c8c45eb6db66b95f481bbddee2efa
+ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722445"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75631806"
 ---
 # <a name="sell-to-specialized-industries"></a>Verkaufen an spezielle Branchen
 
-**Zielgruppe**
+**Gilt für**
 
 - Partner Center
 
@@ -34,7 +34,7 @@ Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z. B
 
 |**Sonderpreise**   |**Erforderliche Händlerqualifikationen**   |**Erforderliche Kundenqualifikationen**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Education   |Werden Sie ein [autorisierter Verkäufer im Bildungsbereich](https://www.mepn.com).   | Sie müssen ein [qualifizierter Benutzer von Bildungsangeboten](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) sein.   |
+|Education   |Keine   | Sie müssen ein [qualifizierter Benutzer von Bildungsangeboten](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) sein.   |
 |Behörden   |Um Azure zu verkaufen, registrieren Sie sich mit dem [cloudvalidierungsformular der Microsoft US Government-Cloud](https://azuregov.microsoft.com/csp). Wenn Sie lizenzbasierte Abonnements an Behörden verkaufen möchten, ist keine Qualifikation erforderlich.|   Keine|
 |Gemeinnützige Organisation  |Keine<br>Sie benötigen einen Azure Active Directory-Mandanten für gemeinnützige Organisationen.<br>Unter [Sonderangebote für gemeinnützige Organisationen](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf) finden Sie weitere Informationen.   |Melden Sie sich über das [Microsoft-Programm für gemeinnützige Organisationen](https://nonprofit.microsoft.com/#/register) an, um sich zu qualifizieren.   |
 
@@ -49,7 +49,7 @@ Die folgenden Schritte gelten nur für indirekte Anbieter und direkte Rechnungs 
 
 ## <a name="check-the-customer-qualifications"></a>Überprüfen der Kundenqualifikationen
 
-1.  Wählen Sie **Kunden** im Menü **Partner Center** aus. Wählen Sie den Kunden aus der Liste aus.
+1.  Wählen Sie im Menü **Partner Center** die Option **Kunden** aus. Wählen Sie den Kunden aus der Liste aus.
 2.  Wählen Sie im Kundenmenü **Konto**. Prüfen Sie unter **Unternehmensinformationen** den Abschnitt **besondere Qualifikationen**.
 3.  Wenn für **Besondere Qualifikationen** die Auswahl **Keine** lautet, aber der Kunde die Qualifikationen tatsächlich erfüllt, können Sie ihre Daten **aktualisieren**, um diese einzuschließen.
 

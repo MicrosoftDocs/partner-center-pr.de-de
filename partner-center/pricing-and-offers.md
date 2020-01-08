@@ -9,16 +9,16 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0e81ead73308902e75b842c00bbd32ed228ca3a5
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ca270413291ba0d09ca03d9b8b270a65f77a46b1
+ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004949"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75631823"
 ---
 # <a name="pricing-and-offers"></a>Preise und Angebote
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 
@@ -79,7 +79,7 @@ CSP bietet einige Dienste für spezielle Marktsegmente, z. b. Education, Non-Pro
 
 |**Segment**   |**Wer muss qualifiziert werden**   |**Partner qualifiziert Kunden**|**Aktivierte Produkttypen**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Partner und Kunde|„Ja“|Nur Lizenz basiert|
+|Education|Kunde|Nein, Kunden Qualifizierung wird von Microsoft durchgeführt. |Nur Lizenz basiert|
 |Gemeinnützig|Kunde|Nein, Kunden, die sich außerhalb von Partner Center qualifizieren|Nur Lizenz basiert|
 |Government Community Cloud (GCC)|Partner und Kunde|Nachdem gcc aktiviert wurde, kann der Partner gcc-Kunden erstellen.| Nur Lizenz basiert|
 |Azure gov|Partner|Nach der Qualifikation arbeitet der Partner in einem CSP-Mandanten, der für Azure gov spezifisch ist.|Azure-Ressourcen|

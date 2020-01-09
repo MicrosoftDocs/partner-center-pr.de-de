@@ -11,13 +11,13 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 12/09/2019
-  ms.openlocfilehash: fcd60389ddc743b63d49dba58d8d18a4842760f7
-  ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
+  ms.date: 01/07/2020
+  ms.openlocfilehash: 67ef0323742dcf32950559adbb86cd899f2589e5
+  ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 12/16/2019
-  ms.locfileid: "75033516"
+  ms.lasthandoff: 01/07/2020
+  ms.locfileid: "75717355"
 highlightedContent:
   items:
   - title: Anmelden, um die neuesten Ankündigungen anzuzeigen
@@ -32,9 +32,9 @@ highlightedContent:
   - title: Übersicht über den kommerziellen Marketplace
     itemType: whats-new
     url: csp-commercial-marketplace-overview.md
-  - title: Mehrstufige Authentifizierung und bewährte Sicherheitsmethoden
+  - title: Partner Center-Einblicke
     itemType: overview
-    url: partner-security-requirements.md
+    url: partner-center-insights.md
   - title: Neue Commerce-Oberfläche in Partner Center – Azure-Plan
     itemType: whats-new
     url: azure-plan-get-started.md
@@ -48,10 +48,10 @@ conceptualContent:
       text: Erstellen eines Partner Center-Kontos
     - url: manage-locations.md
       itemType: how-to-guide
-      text: Verwalten Ihrer Standorte
-    - url: azure-active-directory-tenants-and-partner-center.md
+      text: Verwalten Ihrer Unternehmensstandorte
+    - url: marketplace-rewards.md
       itemType: how-to-guide
-      text: Verwalten Ihres Mandanten
+      text: Verwalten von Marketplace-Angeboten
     footerLink:
       url: partner-center-account-setup.md
       text: Weitere Informationen
@@ -69,7 +69,7 @@ conceptualContent:
     footerLink:
       url: customer-accounts.md
       text: Weitere Informationen
-  - title: Erweitern Sie Ihr Geschäft
+  - title: Umsatzsteigerung
     links:
     - url: referrals.md
       itemType: how-to-guide

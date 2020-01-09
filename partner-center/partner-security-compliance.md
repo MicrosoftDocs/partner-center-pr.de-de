@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
-ms.openlocfilehash: 32b185452e8287678e6ae010b435e127bfcf54aa
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 47ab8306c83fb498383ca3c839bfe6ff7ddb0a46
+ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005009"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75636991"
 ---
 # <a name="partner-security-requirements-status"></a>Status der Sicherheitsanforderungen für Partner
 
@@ -29,7 +29,7 @@ ms.locfileid: "75005009"
 **Geeignete Rollen**
 -   Globaler Administrator
 -   Benutzeradministrator
--   Administratoragent
+-   Administrator-Agent
 -   Abrechnungsadministrator
 -   MPN-Partneradministrator
 
@@ -50,15 +50,24 @@ Mithilfe dieses Berichts können Sie den Status der Sicherheitsanforderungen üb
 >[!NOTE]
 >Der Bericht zum Status der Sicherheitsanforderungen für Partner wird nur im Partner Center unterstützt. Er steht in der Microsoft Cloud for US Government oder der Microsoft Cloud Deutschland nicht zur Verfügung. Es wird dringend empfohlen, dass alle Partner, die über eine unabhängige Cloud (21Vianet, US-Regierung und Deutschland) handeln, diese neuen Sicherheitsanforderungen sofort umsetzen. Diese Partner sind jedoch nicht verpflichtet, die neuen Sicherheitsanforderungen zum 1. August 2019 zu erfüllen. Microsoft wird in Zukunft zusätzliche Details zur Durchsetzung dieser Sicherheitsanforderungen für unabhängige Clouds bereitstellen.
 
-Bei jeder Anmeldung Ihrer Mitarbeiter beim Partner Center, um zu arbeiten oder mithilfe von APIs Daten über das Partner Center abzurufen oder zu senden, wird der Sicherheitsstatus Ihrer Mitarbeiter herausgefordert und nachverfolgt. Ebenfalls in der Nachverfolgung des Sicherheitsstatus enthalten sind Ihre Anwendungen und alle Anwendungen von Anbietern in der Systemsteuerung. Der angezeigte Status bezieht sich auf die vergangenen 7 Tage.
-
 ## <a name="multi-factor-authentication-mfa-report"></a>Bericht zur mehrstufigen Authentifizierung (Multi-Factor Authentication, MFA)
 
-Der Partner Center-MFA-Bericht bietet Erkenntnisse über die MFA-Partnerimplementierung, indem er zwei Metriken auf der Grundlage von Aktivitäten im Partner Center bereitstellt:
+Der Partner Center-MFA-Bericht bietet Erkenntnisse über die MFA-Partnerimplementierung, indem er zwei Arten von Metriken auf der Grundlage der MFA-Konfiguration und von Partner Center-Aktivitäten des CSP-Mandanten bereitstellt: 
 
-**Von Benutzern abgeschlossene MFA-Überprüfung**
+### <a name="mfa-configuration-on-a-csp-tenant"></a>MFA-Konfiguration für einen CSP-Mandanten
 
-Diese Metrik bezieht sich auf Aktivitäten im Partner Center-Dashboard. Sie misst den Prozentsatz der Vorgänge, die von Benutzern ausgeführt wurden, die die MFA-Überprüfung abgeschlossen haben. Zum Beispiel:
+Diese Metrik bezieht sich auf die MFA-Konfiguration eines CSP-Mandanten, die täglich erfasst und gemeldet wird. Sie misst den Prozentsatz der aktivierten Benutzerkonten mit MFA, die mithilfe einer der [MFA-Optionen](https://aka.ms/partner-mfa-get-started) erzwungen wird. Beispiel:
+
+- Contoso ist ein CSP-Partner mit 110 Benutzerkonten im Mandanten. Zehn davon sind deaktiviert. 
+- Für 90 von den übrigen 100 Benutzerkonten wird mithilfe der bereitgestellten [MFA-Optionen](https://aka.ms/partner-mfa-get-started) MFA erzwungen. Daher zeigt die Metrik 90 % an. 
+
+### <a name="partner-center-activities-with-mfa"></a>Partner Center-Aktivitäten mit MFA
+
+Bei jeder Anmeldung Ihrer Mitarbeiter beim Partner Center, um zu arbeiten oder mithilfe von APIs Daten über das Partner Center abzurufen oder zu senden, wird der Sicherheitsstatus Ihrer Mitarbeiter herausgefordert und nachverfolgt. Ebenfalls in der Nachverfolgung des Sicherheitsstatus enthalten sind Ihre Anwendungen und alle Anwendungen von Anbietern in der Systemsteuerung. Der angezeigte Status bezieht sich auf die vergangenen 7 Tage.
+
+#### <a name="mfa-verification-completed-by-users"></a>Von Benutzern abgeschlossene MFA-Überprüfung
+
+Diese Metrik bezieht sich auf Aktivitäten im Partner Center-Dashboard. Sie misst den Prozentsatz der Vorgänge, die von Benutzern ausgeführt wurden, die die MFA-Überprüfung abgeschlossen haben. Beispiel:
 
 - Contoso ist ein CSP-Partner mit zwei Administratormitarbeitern Jane und John.
 - Am ersten Tag hat Jane sich beim Partner Center-Dashboard ohne MFA-Überprüfung angemeldet und 3 Vorgänge ausgeführt.
@@ -67,9 +76,9 @@ Diese Metrik bezieht sich auf Aktivitäten im Partner Center-Dashboard. Sie miss
 - An den verbleibenden 4 Tagen wurden von keinem der Mitarbeiter Vorgänge ausgeführt.
 - Von den 10 Vorgängen, die innerhalb des 7-Tage-Zeitraums ausgeführt wurden, sind 2 von Benutzern mit MFA-Überprüfung vorgenommen worden. Daher zeigt die Metrik 20 % an.
 
-**Anwendungs- und Benutzerauthentifizierung**
+#### <a name="appuser-authentication"></a>Anwendungs- und Benutzerauthentifizierung
 
-Diese Metrik bezieht sich auf die Verwendung von API-Anforderungen im Partner Center, die mithilfe von Anwendungs- und Benutzerauthentifizierung erfolgt sind. Sie misst den Prozentsatz der API-Anforderungen, die mithilfe eines Zugriffstokens mit MFA-Anspruch erfolgt sind. Zum Beispiel:
+Diese Metrik bezieht sich auf die Verwendung von API-Anforderungen im Partner Center, die mithilfe von Anwendungs- und Benutzerauthentifizierung erfolgt sind. Sie misst den Prozentsatz der API-Anforderungen, die mithilfe eines Zugriffstokens mit MFA-Anspruch erfolgt sind. Beispiel:
 
 - Fabrikam ist ein CSP-Partner und verfügt über eine CSP-Anwendung, die eine Mischung aus Anwendungs- und Benutzerauthentifizierung und rein auf die Anwendung beschränkten Authentifizierungsmethoden verwendet.
 - Am ersten Tag hat die Anwendung 3 API-Anforderungen vorgenommen, die auf ein Zugriffstoken gestützt waren, das ohne MFA-Überprüfung bei der Methode zur Anwendungs- und Benutzerauthentifizierung abgerufen wurde.

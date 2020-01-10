@@ -1,22 +1,22 @@
 ---
 title: Nutzungs Abgleich-Dateien mit täglicher Bewertung | Partner Center
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 01/08/2020
 description: Erfahren Sie, wie Sie Nutzungs Abgleich-Dateien für die tägliche Bewertung in Partner Center lesen.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d7de5da8529aefb325961ac5c139a9375b66f7e0
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 02a6b708ff0d5f1cc000c82caacbef0174e0ef3d
+ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721855"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75776481"
 ---
 # <a name="daily-rated-usage-reconciliation-files"></a>Nutzungs Abgleich-Dateien mit täglicher Bewertung
 
-**Zielgruppe**
+**Gilt für**
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
@@ -32,47 +32,55 @@ In diesem Thema wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit tägliche
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Felder in den Nutzungs Abgleich-Dateien mit täglicher Bewertung
 
-| Column | Beschreibung |
+| Spalte | Beschreibung |
 | ------ | ----------- |
 | PartnerID | Die Partner-ID im GUID-Format. |
-| PartnerName | Name des Partners. |
+| PartnerName | Name des Partners |
 | Kunden-ID | Eindeutiger Microsoft-Bezeichner für den Kunden im GUID-Format. |
-| CustomerCompanyName | Firmenname des Kunden wie im Partner Center angegeben. *Diese Spalte ist sehr wichtig, um die Rechnung mit ihren Systeminformationen abzustimmen.* |
+| CustomerName | Firmenname des Kunden wie im Partner Center angegeben. *Diese Spalte ist sehr wichtig, um die Rechnung mit ihren Systeminformationen abzustimmen.* |
 | CustomerDomainName | Der Domänen Name des Kunden. Für die aktuelle Aktivität nicht verfügbar. |
-| Land des Kunden | Das Land, in dem sich der Kunde befindet. |
+| CustomerCountry | Das Land, in dem sich der Kunde befindet. |
 | MPNID | MPN-Bezeichner des CSP-Partners. |
-| MPN-ID des Handelspartners | MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement. Für die aktuelle Aktivität nicht verfügbar. |
+| Tier2MpnId | MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement. Für die aktuelle Aktivität nicht verfügbar. |
 | InvoiceNumber | Rechnungsnummer, in der die angegebene Transaktion angezeigt wird. Für die aktuelle Aktivität nicht verfügbar. |
 | ProductID | Der Bezeichner für das Produkt. |
-| SkuId | Der Bezeichner für eine bestimmte SKU. |
+| SkuID | Der Bezeichner für eine bestimmte SKU. |
 | AvailabilityId | Der Bezeichner für die Verfügbarkeit einer bestimmten SKU. Dies zeigt, ob die SKU für den Erwerb in den jeweiligen Ländern, Währungen, Industriesegmenten usw. verfügbar ist. |
-| SKU-Name | Der Titel einer bestimmten SKU. |
+| SkuName | Der Titel einer bestimmten SKU. |
+| ProductName | Name des Produkts. |
 | PublisherName | Der Name des Herausgebers. |
-| PublisherID | Der Bezeichner des Verlegers im GUID-Format. Für die aktuelle Aktivität nicht verfügbar. |
-| Abonnementbeschreibung | Der Name des Service-Angebots, das der Kunde gekauft hat, wie in der Preisliste definiert. (Dies ist ein identisches Feld für **Offername**). |
+| PublisherId | Der Bezeichner des Verlegers im GUID-Format. Für die aktuelle Aktivität nicht verfügbar. |
+| SubscriptionDescription | Der Name des Service-Angebots, das der Kunde gekauft hat, wie in der Preisliste definiert. (Dies ist ein identisches Feld für **Offername**). |
 | Abonnement-ID | Eindeutiger Bezeichner für ein Abonnement auf der Microsoft-Abrechnungsplattform. Wird nicht für die Abstimmung verwendet. *Dieser Bezeichner ist nicht mit der **Abonnement-ID** in der Partner Administrator Konsole identisch.* |
 | ChargeStartDate | Das Start Datum des Abrechnungszeitraums (außer bei der Darstellung von Datumsangaben für zuvor nicht berechnete latente Verwendungs Daten aus dem vorherigen Abrechnungszeitraum). Die Uhrzeit ist immer auf den Tagesbeginn um 0:00 Uhr festgelegt. |
 | ChargeEndDate | Das Enddatum des Abrechnungszeitraums (außer bei der Darstellung von Datumsangaben für zuvor nicht berechnete latente Verwendungs Daten aus dem vorherigen abbildral). Die Uhrzeit ist immer auf das Tagesende um 23:59 Uhr festgelegt. |
-| Nutzungsdatum | Datum der Nutzung des Diensts. |
-| Typ der Verbrauchseinheit | Der Typ der Verbrauchseinheit. |
-| Kategorie der Verbrauchseinheit | Der Dienst der obersten Ebene für die Nutzung. |
-| ID der Verbrauchseinheit | Der Bezeichner für die Verbrauchseinheit, die verwendet wird. |
-| Unterkategorie der Verbrauchseinheit | Der Typ des Azure-Dienstanbieter, der die Rate beeinflussen kann. |
-| Name der Verbrauchseinheit | Die Maßeinheit für die genutzte Verbrauchseinheit. |
-| Region der Verbrauchseinheit | Diese Spalte gibt den Standort eines Rechenzentrums in der Region für die Dienste an, auf die dies zutrifft. |
+| UsageDate | Datum der Nutzung des Diensts. |
+| MeterType | Der Typ der Verbrauchseinheit. |
+| MeterCategory | Der Dienst der obersten Ebene für die Nutzung. |
+| MeterId | Der Bezeichner für die Verbrauchseinheit, die verwendet wird. |
+| MeterSubCategory | Der Typ des Azure-Dienstanbieter, der die Rate beeinflussen kann. |
+| MeterName | Die Maßeinheit für die genutzte Verbrauchseinheit. |
+| MeterRegion | Diese Spalte gibt den Standort eines Rechenzentrums in der Region für die Dienste an, auf die dies zutrifft. |
 | Einheit | Die Einheit des Ressourcen **namens**. |
-| Verbrauchte Menge | Der Umfang des genutzten dienplatzes (z. b. *Stunden* oder *GB*) während des Berichtszeitraums. Beinhaltet jegliche nicht berechnete Nutzung aus vorherigen Berichterstattungs Zeiträumen. |
-| Ressourcenspeicherort | > dem Rechenzentrum, in dem die Verbrauchseinheit ausgeführt wird. |
-| Genutzter Dienst | Der Azure-Plattformdienst, den Sie verwendet haben. |
-| Ressourcen-URI | Der URI der verwendeten Ressource. |
-| Gebührenart | Art der Gebühren oder der Anpassung. Für die aktuelle Aktivität nicht verfügbar. |
-| Preis pro Einheit | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dieser Preis den im Abrechnungssystem während der Abstimmung gespeicherten Informationen entspricht. |
+| ResourceLocation | Das Rechenzentrum, in dem die Verbrauchseinheit ausgeführt wird. |
+| ConsumedService | Der Azure-Plattformdienst, den Sie verwendet haben. |
+| ResourceGroup | Stellt einen Container dar, der verwandte Ressourcen für eine Azure-Lösung enthält. |
+| ResourceURI | Der URI der verwendeten Ressource. |
+| ChargeType | Art der Gebühren oder der Anpassung. Für die aktuelle Aktivität nicht verfügbar. |
+| UnitPrice | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dieser Preis den im Abrechnungssystem während der Abstimmung gespeicherten Informationen entspricht. |
 | Anzahl | Anzahl der Lizenzen. Stellen Sie sicher, dass dieser Preis den im Abrechnungssystem während der Abstimmung gespeicherten Informationen entspricht. |
-| Typ der Einheit | Der Typ der Einheit, mit der die Verbrauchseinheit in Rechnung gestellt wird. Für die aktuelle Aktivität nicht verfügbar. |
-| Abrechnung vor Steuern | Gesamtbetrag der Abrechnung vor Steuern. |
-| Abrechnungswährung | Die Währung in der geografischen Region des Kunden. |
-| Preise vor Steuern gesamt | Die Preise vor Hinzufügen von Steuern. |
-| Währung der Preise | Die Währung in der Preisliste. |
-| Dienstinformationen 1 | Die Anzahl der Service Bus Verbindungen, die an einem bestimmten Tag bereitgestellt und verwendet wurden. |
-| Dienstinformationen 2 | Ein Legacyfeld, in dem optionale dienstspezifische Metadaten erfasst werden. |
-| Zusätzliche Infos | Zusätzliche Informationen, die von anderen Spalten nicht abgedeckt werden. |
+| UnitType | Der Typ der Einheit, mit der die Verbrauchseinheit in Rechnung gestellt wird. Für die aktuelle Aktivität nicht verfügbar. |
+| Billingpretaxtotal | Gesamtbetrag der Abrechnung vor Steuern. |
+| BillingCurrency | Die Währung in der geografischen Region des Kunden. |
+| Pricingpretaxtotal | Die Preise vor Hinzufügen von Steuern. |
+| PricingCurrency | Die Währung in der Preisliste. |
+| ServiceInfo1 | Die Anzahl der Service Bus Verbindungen, die an einem bestimmten Tag bereitgestellt und verwendet wurden. |
+| ServiceInfo2 | Ein Legacyfeld, in dem optionale dienstspezifische Metadaten erfasst werden. |
+| Tags | Stellt eine logische Organisation von Azure-Ressourcen dar, die vom Benutzer festgelegt werden. |
+| AdditionalInfo | Zusätzliche Informationen, die von anderen Spalten nicht abgedeckt werden. |
+| Effectiveunitprice | Der tatsächliche Wert, der pro Einheit berechnet wird, einschließlich aller Rabatte, Gutschriften usw. |
+| Pctobcexchangerate | Wechselkurs für Preiswährung auf Abrechnungswährung. |
+| Pctobcexchangeratedate | Das Datum, an dem die Preiswährung der Abrechnungswährung festgelegt wird. |
+| Berelementid | Stellt die Azure-Abonnement-ID dar. |
+| Berelementdescription | Stellt den Namen der Azure-Abonnement-ID dar. |
+| Partnerearnedcreditprozentsatz | Zeigt die partnerearnedcredit für das Zeilen Element an. Das verdiente Guthaben ist entweder 0 oder 15 Prozent. |

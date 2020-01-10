@@ -1,22 +1,22 @@
 ---
 title: Lizenz basierte ababstimmungs Dateien | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 01/08/2020
 description: Grundlegendes zu lizenzbasierten Abstimmungs Dateien im Partner Center.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 60ab5404f3cc2d825a110e61bd7c6bf5744bb786
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 7b7e3140ddcbdbaa5ff75203928b890abc2db852
+ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004599"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75757183"
 ---
 # <a name="license-based-reconciliation-files"></a>Lizenzbasierte Abstimmungsdateien
 
-**Zielgruppe**
+**Gilt für**
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
@@ -31,14 +31,17 @@ Vergleichen Sie die **Syndication_Partner_Subscription_Number** aus der Abstimmu
 
 ## <a name="fields-in-license-based-reconciliation-files"></a>Felder in lizenzbasierten Abstimmungs Dateien
 
-| Column | Beschreibung | Beispielwert |
+| Spalte | Beschreibung | Beispielwert |
 | ------ | ----------- | ------------ |
 | PartnerID | Eindeutiger Bezeichner im GUID-Format für eine bestimmte Abrechnungs Entität. Für die Abstimmung nicht erforderlich. In allen Zeilen gleich. | *8ddd03642-Test-Test-Test-46b58d356b4e* |
 | Kunden-ID | Eindeutiger Microsoft-Bezeichner für den Kunden im GUID-Format. | *12abcd34-001A-bcd2-987c-3210abcd5678* |
+| CustomerName | Der in Partner Center angegebene Organisationsname des Kunden. *Sehr wichtiges Feld für die Abstimmung der Rechnung mit ihren Systeminformationen.* | *Testen von Kunden A* |
+| MPNID | MPN-Bezeichner des CSP-Partners. Weitere Informationen finden [Sie unter Vorgehensweise beim itemisieren nach Partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
+| Resellermpnid | MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement. Für die aktuelle Aktivität nicht verfügbar. |
 | OrderID | Eindeutiger Bezeichner für eine Bestellung auf der Microsoft-Abrechnungsplattform. Kann nützlich sein, um die Reihenfolge zu identifizieren, in der der Support kontaktiert Wird nicht für die Abstimmung verwendet. | *566890604832738111* |
-| SubscriptionID | Eindeutiger Bezeichner für ein Abonnement auf der Microsoft-Abrechnungsplattform. Kann beim Kontaktieren des Supports hilfreich sein, um das Abonnement zu identifizieren. Wird nicht für die Abstimmung verwendet. *Dieser Wert ist nicht mit der Abonnement- **ID** in der Partner Administrator Konsole identisch. Weitere Informationen finden Sie unter **syndicationpartnerabonnementionnumber** .* | *"US cbmgaaaaaaaaia"* |
+| Abonnement-ID | Eindeutiger Bezeichner für ein Abonnement auf der Microsoft-Abrechnungsplattform. Kann beim Kontaktieren des Supports hilfreich sein, um das Abonnement zu identifizieren. Wird nicht für die Abstimmung verwendet. *Dieser Wert ist nicht mit der Abonnement- **ID** in der Partner Administrator Konsole identisch. Weitere Informationen finden Sie unter **syndicationpartnerabonnementionnumber** .* | *"US cbmgaaaaaaaaia"* |
 | SyndicationPartnerSubscriptionNumber | Eindeutiger Bezeichner des Abonnements. Ein Kunde kann über mehrere Abonnements für denselben Plan verfügen. Diese Spalte ist wichtig für die Analyse der Abgleich Datei. Dieses Feld wird der **Abonnement-ID** in der Partner Administrator Konsole zugeordnet. | *fb977ab5-Test-Test-Test-24c8d9591708* |
-| OfferID | Eindeutige Angebots Kennung. Standard Angebots Bezeichner, wie in der Preisliste definiert. *Dieser Wert stimmt nicht mit der **Angebots-ID** aus der Preisliste. Siehe **durableofferid** .* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
+| OfferId | Eindeutige Angebots Kennung. Standard Angebots Bezeichner, wie in der Preisliste definiert. *Dieser Wert stimmt nicht mit der **Angebots-ID** aus der Preisliste. Siehe **durableofferid** .* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
 | DurableOfferID | Eindeutiger Bezeichner für permanente Angebote, wie in der Preisliste definiert. *Dieser Wert entspricht der **Angebots-ID** aus der Preisliste.* | *1017d7f 3-6d7b-4bfa-bdd8-79bc8f 104e0c* |
 | OfferName | Der Name des Service-Angebots, das der Kunde gekauft hat, wie in der Preisliste definiert. | *Microsoft Office 365 (Plan E3)* |
 | SubscriptionStartDate | Das Startdatum des Abonnements. Die Uhrzeit ist immer auf den Tagesbeginn um 0:00 Uhr festgelegt. Dieses Feld ist auf den Tag festgelegt, an dem die Bestellung übermittelt wurde. Wird in Verbindung mit dem Abonnement **Enddatum** verwendet, um zu bestimmen, ob sich der Kunde noch innerhalb des ersten Jahres des Abonnements befindet oder ob das Abonnement für das folgende Jahr erneuert wurde. | *2/1/2019 0:00* |
@@ -54,9 +57,7 @@ Vergleichen Sie die **Syndication_Partner_Subscription_Number** aus der Abstimmu
 | Steuern | Steuern der Steuerbeträge. Basierend auf den Steuerregeln Ihres Marktes und bestimmten Bedingungen. | *0* |
 | TotalForCustomer | Gesamtsumme nach Steuern. Überprüft, ob in der Rechnung Steuern berechnet werden. | *11* |
 | Währung | Währungstyp Jede Abrechnungsentität verfügt nur über eine Währung. Überprüfen Sie, ob Sie Ihrer ersten Rechnung entspricht. Überprüfen Sie nach allen wichtigen Updates der Abrechnungs Plattform erneut. | *Betragen* |
-| CustomerName | Der in Partner Center angegebene Organisationsname des Kunden. *Sehr wichtiges Feld für die Abstimmung der Rechnung mit ihren Systeminformationen.* | *Testen von Kunden A* |
-| MPNID | MPN-Bezeichner des CSP-Partners. Weitere Informationen finden [Sie unter Vorgehensweise beim itemisieren nach Partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| ResellerMPNID | MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement. Weitere Informationen finden [Sie unter Vorgehensweise beim itemisieren nach Partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
 | DomainName | Der Domänen Name des Kunden. Dieses Feld wird ggf. bis zum zweiten Abrechnungszyklus leer angezeigt. *Verwenden Sie dieses Feld nicht als eindeutigen Bezeichner für den Kunden. Der Kunde/Partner kann die Vanity oder die Standard Domäne über das Office 365-Portal aktualisieren.* | *example.onmicrosoft.com* |
 | SubscriptionName | Spitzname des Abonnements. Wenn kein Spitzname angegeben ist, verwendet Partner Center den **Offername**. | *Project Online* |
 | SubscriptionDescription | Der Name des Service-Angebots, das der Kunde gekauft hat, wie in der Preisliste definiert. (Dies ist ein identisches Feld für " **Offername**".) | *Project Online Premium ohne Project Client* |
+| AbrechnungszyklusTyp | Einmalige Abrechnungs Häufigkeit.| *Monatlich* |

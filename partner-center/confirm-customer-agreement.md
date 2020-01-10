@@ -1,7 +1,7 @@
 ---
 title: Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag | Partner Center
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie, wie Sie die Kundenakzeptanz des Microsoft-Kunden Vertrags bestätigen. Dies kann erforderlich sein, um Microsoft-Produkte und-Dienste für Kunden zu bestellen.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Kunden, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Microsoft-Kundenvertrag, Vorlagen für Kundenverträge
 ms.localizationpriority: medium
-ms.openlocfilehash: 8beee9ed9035ff846c6e9d84fefd0c5c2ba255de
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 33eddc437360cb80071bf98187a7d4e23b820fb9
+ms.sourcegitcommit: 99a8b2daf52d455d33f15945d52efbcc8ff551c8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721371"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "75752571"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Bestätigen Sie die kundenannahme des Microsoft-Kunden Vertrags.
 
@@ -55,7 +55,7 @@ Partner können die Partner Center-API/das SDK verwenden, um die Kundenakzeptanz
 
 
 ## <a name="confirm-customer-acceptance-in-partner-center"></a>Bestätigen der Zustimmung des Kunden in Partner Center
-Partner können die Kundenakzeptanz des Microsoft-Kunden Vertrags im Partner Center für neue Kunden und vorhandene Kunden bestätigen.
+Partner können die Kundenakzeptanz des Microsoft-Kunden Vertrags im Partner Center für neue Kunden und vorhandene Kunden bestätigen. Wiederverkäufer können im Auftrag ihrer Kunden nicht nachweisen, dass Sie mit Ihrem indirekten Anbieter zusammenarbeiten müssen, um den Nachweis abzuschließen.
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>Bestätigen der Kundenzustimmung für Neukunden
 

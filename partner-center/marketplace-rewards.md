@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: Marketplace-Angebote, Marketingunterstützung, Bonus, Vorteile des Herausgebers
 ms.localizationpriority: medium
-ms.openlocfilehash: 576401337337693f69987e620fc852dce837ad2e
-ms.sourcegitcommit: 369aceafc54e960ac0bd3a023edc85b06361492b
+ms.openlocfilehash: f508b69ba03920ab65d7155a4ce5100335aed970
+ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/12/2019
-ms.locfileid: "75010401"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75717335"
 ---
 # <a name="manage-marketplace-rewards"></a>Marketplace-Prämien verwalten
 
@@ -40,11 +40,11 @@ Die Berechtigungs Berechtigung für Marketplace-Prämien wird basierend auf alle
 
 Gehen Sie anschließend wie folgt vor:
 
-a. Wählen Sie einen Benutzer aus der Liste aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste enthalten ist, können Sie neue Benutzer in den Kontoeinstellungen hinzufügen.
+  - Wählen Sie einen Benutzer aus der Liste aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste enthalten ist, können Sie neue Benutzer in den Kontoeinstellungen hinzufügen.
 
-b. Geben Sie für den Benutzer eine E-Mail-Adresse ein, die sich von der E-Mail-Adresse unterscheidet, die dem Partner Center-Konto Ihres Unternehmens zugeordnet ist. Wir senden Ihnen eine e-Mail mit Anweisungen zur Nutzung Ihres Marketplace-Bonus Vorteils an die e-Mail-Adresse Ihres designierten Marketing Kontakts.
+  - Geben Sie für den Benutzer eine E-Mail-Adresse ein, die sich von der E-Mail-Adresse unterscheidet, die dem Partner Center-Konto Ihres Unternehmens zugeordnet ist. Wir senden Ihnen eine e-Mail mit Anweisungen zur Nutzung Ihres Marketplace-Bonus Vorteils an die e-Mail-Adresse Ihres designierten Marketing Kontakts.
 
-c. Geben Sie die Telefonnummer und die bevorzugte Sprache für diesen Marketingkontakt an. Nachdem Sie diese Informationen eingegeben haben, wählen Sie **Benutzer zuweisen** aus.
+  - Geben Sie die Telefonnummer und die bevorzugte Sprache für diesen Marketingkontakt an. Nachdem Sie diese Informationen eingegeben haben, wählen Sie **Benutzer zuweisen** aus.
 
 4. Nachdem Sie den Marketing Kontakt aktualisiert haben, wählen Sie für den Vorteil, den Sie verwenden möchten, die Option **aktivieren** aus. Nachdem Sie einen Vorteil aktiviert haben, wird Ihr Marketing Kontakt von einem Mitglied des Bonus Teams innerhalb einer Woche kontaktiert.
 

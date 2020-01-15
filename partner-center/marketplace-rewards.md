@@ -1,7 +1,7 @@
 ---
 title: Marketplace-Prämien verwalten | Partner Center
 ms.topic: article
-ms.date: 12/11/2019
+ms.date: 01/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Partner, die Angebote im kommerziellen Marketplace veröffentlichen, können sich auf Vorteile stützen, die Marketingunterstützung bieten.
@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: Marketplace-Angebote, Marketingunterstützung, Bonus, Vorteile des Herausgebers
 ms.localizationpriority: medium
-ms.openlocfilehash: f508b69ba03920ab65d7155a4ce5100335aed970
-ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
+ms.openlocfilehash: 512d23bbf3962119b48af89dd08546692a49a0dd
+ms.sourcegitcommit: 75ed00af0b12086f7a51b8d22a3bfc9a02c5d657
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75717335"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "75942899"
 ---
 # <a name="manage-marketplace-rewards"></a>Marketplace-Prämien verwalten
 
@@ -53,4 +53,23 @@ Gehen Sie anschließend wie folgt vor:
 1. Sie können Ihren technischen Vorteil nutzen, um während der Planungs-, Entwurfs-, Bereitstellungs-und App-Entwicklungsphasen ihrer Cloud-und Hybridlösungen technische Unterstützung anzufordern. Um Unterstützung anzufordern, füllen Sie das Anforderungs Formular aus, und wählen Sie dann **Anforderung senden**aus.
 
 2. Die Nutzung der Vorteile von Azure-Sponsoring wird über eine e-Mail freigegeben, wenn Sie diese Vorteile entsperren. 
+
+## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>Warum kann ich das Marketplace-Programm für kommerzielle Belohnungen nicht auf meinem Dashboard sehen?
+
+Die Marketplace-Bonus Informationen sind über den Azure AD-Mandanten und die MPN-ID verfügbar, die zum Erstellen Ihres Partner Center-Kontos verwendet wurde. Dieses Konto wird als primäres globales Konto Ihres Unternehmens bezeichnet. Wenn sich Ihr Aad-Mandant von dem, der für das MPN-Onboarding verwendet wird, von dem unterscheidet, damit Sie das Marketplace-Menü für den kommerziellen Bonus anzeigen können, müssen Sie es der PGA-Version Ihres Unternehmens zuordnen. 
+
+### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>So ordnen Sie einen Azure AD Mandanten der PGA Ihres Unternehmens zu
+
+1. Melden Sie sich entweder als globaler Administrator oder Konto Administrator bei der PGA im Partner Center an.
+
+2. Wählen Sie **Einstellungen** (oben rechts), **Partner Einstellungen**, Mandanten **aus.** 
+
+3. Wählen Sie **einen anderen Azure AD Mandanten zuordnen** aus, und wählen Sie den Azure AD Mandanten aus, den Sie der PGA zuordnen möchten.
+
+4. Fügen Sie einen Benutzernamen und ein Kennwort für jeden Benutzer im Azure AD Mandanten hinzu, den Sie zuordnen möchten, und wählen Sie **senden**aus.
+
+5. Melden Sie sich bei Partner Center ab, und melden Sie sich dann mit dem Benutzernamen und dem Kennwort für den Mandanten an, den Sie soeben der PGA zugeordnet haben.
+
+6. Im linken Navigationsmenü sehen Sie nun die Marketplace-Programminformationen des kommerziellen Bonus.
+
 

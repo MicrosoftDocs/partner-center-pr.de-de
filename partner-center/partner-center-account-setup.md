@@ -1,7 +1,7 @@
 ---
-title: Verwalten Ihres Partner Center-Kontos | Partner Center
+title: Verwalten des Partner Center-Kontos | Partner Center
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 01/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Im Partner Center kannst du das Profil, den Katalog, Bank- und Steuerinformationen, Rollen, Berechtigungen und weitere Angaben zu deinem Unternehmen verwalten.
@@ -10,23 +10,23 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 62131fa6590898dcb6d59e4bee0f6edb68dfba0c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: f8f15782dec3177596ad5cf0f680f2dfbf34bf84
+ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005019"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75757203"
 ---
-# <a name="manage-your-partner-center-account"></a>Verwalten Ihres Partner Center-Kontos
+# <a name="manage-your-partner-center-account"></a>Verwalten des Partner Center-Kontos
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 
 **Geeignete Rollen**
 -   Globaler Administrator
 -   Benutzeradministrator
--   Administratoragent
+-   Administrator-Agent
 
 Das Konto, das Sie bei der Registrierung in Partner Center erstellen, besteht aus Ihrer beruflichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem du ein Konto im Partner Center erstellt hast, musst du (oder dein Administrator) die Einrichtung deines Unternehmensprofils abschließen (einschließlich Supportinformationen, ggf. Steuerbefreiungen und Angaben zum Hauptansprechpartner). 
 
@@ -45,7 +45,9 @@ Sie (oder Ihr Administrator) erstellen außerdem Benutzerkonten für alle Person
 |Überprüfen der Berechtigungen, die jede Rolle umfasst|[Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md)
 |Verwalten der Standorte Ihres Unternehmens|[Verwalten Ihres Partnerkontos: Standorte](manage-locations.md)
 |Wenn ein Angestellter sein Passwort vergisst und Sie es zurücksetzen müssen  |[Zurücksetzen eines Benutzerkennworts](reset-a-user-password.md)|
-|Sicherstellen, dass Ihr Unternehmen so vermarktet wird, dass es von Kunden gefunden wird   |[Erstellen eines Marketingprofils](create-a-marketing-profile.md)|
+|Registrieren als Control Panel-Anbieter in Partner Center|[Registrieren als Control Panel-Anbieter in Partner Center](enroll-as-cpv.md)|
+|Zuordnen des Microsoft Learn-Kontos im Partner Center|[Zuordnen des Microsoft Learn-Kontos im Partner Center](ms-learn-associate.md)|
+|Sicherstellen, dass Ihr Unternehmen so vermarktet wird, dass es von Kunden gefunden wird   |[Erstellen eines Unternehmensprofils](create-a-marketing-profile.md)|
 |Organisieren des Katalogs, sodass die wichtigsten Produkte am Anfang der Liste stehen   |[Anpassen des Katalogs](customize-the-catalog.md)|
 |Regelmäßige Aktualisierung mit aktuellen Preisen und Angeboten   |[Preise und Angebote](pricing-and-offers.md)|
 

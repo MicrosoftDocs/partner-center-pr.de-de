@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Rollen, Berechtigungen, Administrator, Agent
 ms.localizationpriority: high
-ms.openlocfilehash: e0f53e2f1aae51a1287a2e347fa9014b5d75ea03
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: bf7b1d2b029f2ce4558a2b24c3e1f12a63813339
+ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004129"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75776501"
 ---
 # <a name="assign-users-roles-and-permissions"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern
 
@@ -46,7 +46,7 @@ Die Zugriffsarten Ihrer Benutzer auf das Partner Center bestimmen Sie durch die 
 ||• Anzeigen, Erstellen und Verwalten von Partnerbenutzern  |
 |Abrechnungsadministrator | • Anzeigen, Erstellen und Verwalten der Abrechnung, von Rechnungen und Kontenabstimmungsdateien|
 |Standardbenutzer|  Anzeigen des eigenen Profils   |
-|Administratoragent | • Kundenverwaltung
+|Administrator-Agent | • Kundenverwaltung
 ||• Hinzufügen einer Geräteliste zum Partner Center
 ||• Erstellen und Anwenden von Profilen auf Geräte
 ||• Abonnementverwaltung
@@ -85,7 +85,7 @@ CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provi
 ||MPN-Partneradministrator|
 ||Kontenadministrator|
 ||Incentiveadministrator|
-||Geschäftsprofiladministrator|
+||Unternehmensprofiladministrator|
 ||Empfehlungsadministrator|
 
 
@@ -135,6 +135,13 @@ CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provi
 ||• Anzeigen und Initiieren von Incentiveansprüchen
 ||• Anzeigen von Rabatt- und Co-Op-Einnahmen
 ||• Zugreifen auf den Support
+
+## <a name="view-partner-center-insights-data"></a>Partner Center-Einblicke – Daten anzeigen
+
+|**Rolle** | **Funktionsumfang**|
+|------------------------------|:-------------------------|
+|Bericht-Viewer für leitende Mitarbeiter|Zugriff auf alle Berichtsdatasets|
+|Berichts-Viewer|Zugriff auf Datenberichte mit Ausnahme von Umsatz-, Kunden- und personenbezogenen Mitarbeiterdaten|
 
 
 

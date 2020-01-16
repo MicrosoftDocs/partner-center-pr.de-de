@@ -1,18 +1,18 @@
 ---
 title: Nutzungsbasierte Abstimmungs Dateien | Partner Center
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: Alle Elemente in ihrer Verwendungs basierten Abstimmungs Datei wurden mit Beispielen erläutert.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d0b50240ec62f10a202c3ad0de3d6425aec878ef
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: e4ce3427f52ccde8f61fa553f3fa0af79bff0a95
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757223"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021743"
 ---
 # <a name="usage-based-file-fields"></a>Nutzungsbasierte Dateifelder
 
@@ -34,7 +34,7 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 | Partnerbillableaccountid | ID des Partner Kontos. | *1010578050* |
 | CustomerCompanyName | Der in Partner Center angegebene Organisationsname des Kunden. *Sehr wichtig für die ababstimmung der Rechnung mit ihren Systeminformationen.* | *Test Kunde* |
 | MPNID | MPN-Bezeichner des CSP-Partners. | *4390934* |
-| Resellermpnid | MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement. Für die aktuelle Aktivität nicht verfügbar. |
+| Resellermpnid | MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement.  |
 | InvoiceNumber | Rechnungsnummer, in der die angegebene Transaktion angezeigt wird. | *D020001IVK* |
 | ChargeStartDate | Startdatum des Abrechnungszyklus, ausgenommen bei der Darstellung von Daten zu den zuvor nicht fakturierten latenten Nutzungsdaten (aus dem vorherigen Abrechnungszyklus). Die Uhrzeit ist immer auf den Tagesbeginn um 0:00 Uhr festgelegt. | *2/1/2019 0:00* |
 | ChargeEndDate | Enddatum des Abrechnungszyklus, ausgenommen bei der Darstellung von Daten zu den zuvor nicht fakturierten latenten Nutzungsdaten (aus dem vorherigen Abrechnungszyklus). Die Uhrzeit ist immer auf das Tagesende um 23:59 Uhr festgelegt. | *2/28/2019 23:59* |

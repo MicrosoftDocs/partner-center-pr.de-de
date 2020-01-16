@@ -1,18 +1,18 @@
 ---
 title: Lizenz basierte ababstimmungs Dateien | Partner Center
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: Grundlegendes zu lizenzbasierten Abstimmungs Dateien im Partner Center.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b7e3140ddcbdbaa5ff75203928b890abc2db852
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: 304c727fea7605f52fc0b99625d21cc6d148a585
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757183"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021733"
 ---
 # <a name="license-based-reconciliation-files"></a>Lizenzbasierte Abstimmungsdateien
 
@@ -37,7 +37,7 @@ Vergleichen Sie die **Syndication_Partner_Subscription_Number** aus der Abstimmu
 | Kunden-ID | Eindeutiger Microsoft-Bezeichner für den Kunden im GUID-Format. | *12abcd34-001A-bcd2-987c-3210abcd5678* |
 | CustomerName | Der in Partner Center angegebene Organisationsname des Kunden. *Sehr wichtiges Feld für die Abstimmung der Rechnung mit ihren Systeminformationen.* | *Testen von Kunden A* |
 | MPNID | MPN-Bezeichner des CSP-Partners. Weitere Informationen finden [Sie unter Vorgehensweise beim itemisieren nach Partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| Resellermpnid | MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement. Für die aktuelle Aktivität nicht verfügbar. |
+| Resellermpnid | MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement.  |
 | OrderID | Eindeutiger Bezeichner für eine Bestellung auf der Microsoft-Abrechnungsplattform. Kann nützlich sein, um die Reihenfolge zu identifizieren, in der der Support kontaktiert Wird nicht für die Abstimmung verwendet. | *566890604832738111* |
 | Abonnement-ID | Eindeutiger Bezeichner für ein Abonnement auf der Microsoft-Abrechnungsplattform. Kann beim Kontaktieren des Supports hilfreich sein, um das Abonnement zu identifizieren. Wird nicht für die Abstimmung verwendet. *Dieser Wert ist nicht mit der Abonnement- **ID** in der Partner Administrator Konsole identisch. Weitere Informationen finden Sie unter **syndicationpartnerabonnementionnumber** .* | *"US cbmgaaaaaaaaia"* |
 | SyndicationPartnerSubscriptionNumber | Eindeutiger Bezeichner des Abonnements. Ein Kunde kann über mehrere Abonnements für denselben Plan verfügen. Diese Spalte ist wichtig für die Analyse der Abgleich Datei. Dieses Feld wird der **Abonnement-ID** in der Partner Administrator Konsole zugeordnet. | *fb977ab5-Test-Test-Test-24c8d9591708* |

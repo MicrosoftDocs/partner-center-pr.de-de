@@ -1,24 +1,24 @@
 ---
 title: Die Kontostruktur in Partner Center | Partner Center
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 01/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie mehr über die beiden Konto Ebenen in Partner Center, das primäre globale Konto (PGA) und das Partner Location Account (PLA).
+description: Erfahren Sie mehr über die beiden Konto Ebenen in Partner Center, das globale Partnerkonto (Partner Global Account, PGA) und das Partner Location Account (PLA).
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3a0a7d0ba985f9610198a64aa87411b1a7da16bd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 65693c6145c6510995badac757f88a982b9a94d5
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722321"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171196"
 ---
 # <a name="the-account-structure-in-partner-center"></a>Die Kontostruktur im Partner Center
 
-**Zielgruppe**
+**Gilt für**
 
 - Partner Center
 - MPN-Partner
@@ -26,17 +26,17 @@ ms.locfileid: "74722321"
 **Geeignete Rollen**
 
 - Kontoadministrator
-- Unternehmensprofiladministrator
+- Geschäftsprofiladministrator
 - Globaler Administrator
 - MPN-Partneradministrator
 
 Ihr Unternehmen verfügt über zwei Ebenen von Konten im Partner Center.
 
-### <a name="the-top-level-is-the-primary-global-account-pga"></a>Die oberste Ebene ist das primäre globale Konto (PGA).
+### <a name="the-top-level-is-the-partner-global-account-pga"></a>Die oberste Ebene ist das globale Partner Konto (Partner Global Account, PGA).
 
-- Das primäre globale Konto enthält die juristische geschäftliche Adresse und den primären Kontakt Ihres Unternehmens. 
-- Zeigen Sie die Details Ihres primären globalen Kontos aus den Partner Einstellungen > Partner Profil an.
-- Die Details enthalten auch die primäre MPN-ID des globalen Kontos. 
+- Das globale Partner Konto enthält die rechtliche geschäftliche Adresse und den primären Kontakt Ihres Unternehmens. 
+- Sehen Sie sich die Details zu ihrem globalen Partnerkonto aus Partner Einstellungen > Partner Profil an.
+- Die Details enthalten außerdem die MPN-ID des Partner globalen Kontos. 
 - Die PGA ist das übergeordnete Element Ihres Unternehmens und wird nicht zum Zuordnen von Incentives-Programmen oder cloudlösungsanbietern verwendet. 
 - Orte sollten für solche Zuordnungen verwendet werden.
 
@@ -46,7 +46,7 @@ Ihre PGA-Standorte verfügen möglicherweise über zusätzliche Geschäftsstando
 
 - Jedes Konto für den Partner Standort kann über eine eigene juristische Adresse und einen primären Kontakt verfügen. Standorte können auch die rechtliche Adresse mit dem globalen Konto oder mit anderen Speicherorten gemeinsam verwenden.
 - Anzeigen der Liste der Partnerstandort Konten von Partner Einstellungen-> Standorte.
-- Alle Standort Konten befinden sich auf derselben Ebene und unter dem primären globalen Konto.
+- Alle Standort Konten befinden sich auf derselben Ebene und unter dem globalen Partner Konto.
 - Konto Administratoren können Standorte hinzufügen oder entfernen.
 
 ![Kontostruktur](images/accountstructure.png)

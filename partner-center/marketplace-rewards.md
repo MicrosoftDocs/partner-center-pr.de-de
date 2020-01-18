@@ -10,20 +10,20 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: Marketplace-Angebote, Marketingunterstützung, Bonus, Vorteile des Herausgebers
 ms.localizationpriority: medium
-ms.openlocfilehash: 512d23bbf3962119b48af89dd08546692a49a0dd
-ms.sourcegitcommit: 75ed00af0b12086f7a51b8d22a3bfc9a02c5d657
+ms.openlocfilehash: 8ed3def75a294b5b6050eedccb1cf8d6a5bebfc0
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "75942899"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171203"
 ---
-# <a name="manage-marketplace-rewards"></a>Marketplace-Prämien verwalten
+# <a name="manage-marketplace-rewards"></a>Verwalten von Marketplace-Angeboten
 
 Geeignete Rollen:
 
 - MPN-Partneradministrator
 - Globaler Administrator
-- Administratoragent
+- Administrator-Agent
 
 Wenn Sie Software Angebote in unserem kommerziellen Marketplace veröffentlichen, bietet Marketplace-Prämien gezielte Unterstützung für alle Angebote mit Marketing-, Vertriebs-und technischen Vorteilen. 
 
@@ -56,7 +56,7 @@ Gehen Sie anschließend wie folgt vor:
 
 ## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>Warum kann ich das Marketplace-Programm für kommerzielle Belohnungen nicht auf meinem Dashboard sehen?
 
-Die Marketplace-Bonus Informationen sind über den Azure AD-Mandanten und die MPN-ID verfügbar, die zum Erstellen Ihres Partner Center-Kontos verwendet wurde. Dieses Konto wird als primäres globales Konto Ihres Unternehmens bezeichnet. Wenn sich Ihr Aad-Mandant von dem, der für das MPN-Onboarding verwendet wird, von dem unterscheidet, damit Sie das Marketplace-Menü für den kommerziellen Bonus anzeigen können, müssen Sie es der PGA-Version Ihres Unternehmens zuordnen. 
+Die Marketplace-Bonus Informationen sind über den Azure AD-Mandanten und die MPN-ID verfügbar, die zum Erstellen Ihres Partner Center-Kontos verwendet wurde. Dieses Konto wird als globales Partner Konto (Partner Global Account, PGA) Ihres Unternehmens bezeichnet. Wenn sich Ihr Aad-Mandant von dem, der für das MPN-Onboarding verwendet wird, von dem unterscheidet, damit Sie das Marketplace-Menü für den kommerziellen Bonus anzeigen können, müssen Sie es der PGA-Version Ihres Unternehmens zuordnen. 
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>So ordnen Sie einen Azure AD Mandanten der PGA Ihres Unternehmens zu
 

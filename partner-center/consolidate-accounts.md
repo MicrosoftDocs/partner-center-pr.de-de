@@ -1,7 +1,7 @@
 ---
 title: Konsolidieren Ihrer Unternehmenskonten | Partner Center
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie etwas zum Konsolidieren von PMC-Konten (Partner Membership Center) in einem einzigen Konto in Partner Center. Dieser Vorgang erfolgt, wenn Sie von PMC zu Partner Center migrieren.
@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 61a2566dbab5709fcc16fa61d0239f97e46039de
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: b94b04dd73a34cbd303cbc89443899fef11b287c
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721381"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171181"
 ---
 # <a name="consolidate-your-company-accounts"></a>Konsolidieren Ihrer Unternehmenskonten
 
@@ -24,7 +24,7 @@ ms.locfileid: "74721381"
 - MPN-Partneradministrator
 - Kontoadministrator
 
-In der PMC verfügte Ihr Unternehmen möglicherweise über viele Konten und Standorte. Jeder Standort verfügte über ein eigenes Konto. Wenn Sie zu Partner Center migrieren, werden alle Konten und Standorte in einem primären globalen Konto mit mehreren Standorten konsolidiert. Deine MPN-IDs, Vorteile, Kompetenzen und Käufe werden ebenfalls verschoben – es geht nichts verloren. 
+In der PMC verfügte Ihr Unternehmen möglicherweise über viele Konten und Standorte. Jeder Standort verfügte über ein eigenes Konto. Wenn Sie zu Partner Center migrieren, werden alle Konten und Standorte in einem globalen Partnerkonto mit mehreren Standorten konsolidiert. Deine MPN-IDs, Vorteile, Kompetenzen und Käufe werden ebenfalls verschoben – es geht nichts verloren. 
 
 Wenn Sie sich zum ersten Mal bei Partner Center anmelden, werden Sie als MPN-Administrator für Ihr Partner Center-Konto hinzugefügt, damit Sie unter anderem das Konto verwalten, Benutzer hinzufügen und Berechtigungen zuweisen können. 
 
@@ -43,19 +43,19 @@ Wenn Sie sich zum ersten Mal bei Partner Center anmelden, werden Sie als MPN-Adm
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Was geschieht bei der Konsolidierung von Konten?
 
-- Sie können keine Informationen auf der Seite mit den Unternehmensinformationen ändern, da die Informationen für das primäre globale Konto gelten. 
+- Sie können keine Informationen auf der Seite mit den Unternehmensinformationen ändern, da die Informationen für das globale Partnerkonto gelten. 
 
-- Die Konten in PMC (die Sie gerade verschieben) werden in das primäre globale Konto konsolidiert. 
+- Die Konten in PMC (die Sie gerade verschieben) werden in das globale Partnerkonto konsolidiert. 
 
-- Alle Standorte in der PMC werden als Standorte in dieses vorhandene primäre globale Partner Center-Konto verschoben, und Sie können zusätzliche Standorte hinzufügen. Weitere Informationen zu Standorten finden Sie unter [Verwalten Ihres Partnerkontos – Standorte](manage-locations.md).
+- Alle Standorte in PMC werden als Standorte in dieses vorhandene globale Partnerkonto in Partner Center verschoben, und Sie können zusätzliche Standorte hinzufügen. Weitere Informationen zu Standorten finden Sie unter [Verwalten Ihres Partnerkontos – Standorte](manage-locations.md).
 
-- Nach Abschluss der Konsolidierung werden alle Ihre Unternehmensinformationen als Standorte innerhalb des vorhandenen primären globalen Kontos angezeigt. Sobald Ihre Unternehmen konsolidiert wurden, können Sie den Vorgang nicht mehr rückgängig machen.
+- Nach Abschluss der Konsolidierung werden alle Ihre Unternehmensinformationen als Standorte innerhalb des vorhandenen globalen Partnerkontos angezeigt. Sobald Ihre Unternehmen konsolidiert wurden, können Sie den Vorgang nicht mehr rückgängig machen.
 
 - Alle MPN-IDs bleiben bei der Konsolidierung erhalten.
 
 - Alle Ihre vorhandenen Kompetenzen (Gold/Silber), Einkäufe (MAPs/Gold/Silber) und damit verbundenen Vorteile bleiben bei der Konsolidierung erhalten.
 
-- Sie (der Benutzer, der sich mit der geschäftlichen E-Mail-ID angemeldet hat) werden automatisch als MPN-Administrator und als Kontoadministrator dem vorhandenen primären globalen Konto hinzugefügt, damit Sie das Konto nach Bedarf verwalten können. 
+- Sie (der Benutzer, der sich mit der geschäftlichen E-Mail-ID angemeldet hat) werden automatisch als MPN-Administrator und als Kontoadministrator dem globalen Partnerkonto hinzugefügt, damit Sie das Konto nach Bedarf verwalten können. 
 
 
 ## <a name="consolidating-your-benefits-and-competencies"></a>Konsolidieren von Vorteilen und Kompetenzen

@@ -34,7 +34,7 @@ Die Preisliste für die neue Azure E-Commerce-Benutzeroberfläche in CSP ist im 
 
 1. Wählen Sie im Menü des Partner Centers auf der linken Seite **Verkaufen** und dann **Marketplace** aus.
 
-2. Wählen Sie unter „Preise für Azure-Plan“ das Land aus, für das Sie Preise aufrufen möchten.
+2. Wählen Sie unter „Preise für Azure-Plan“ das Land/eine Region aus, für das Sie Preise aufrufen möchten.
 
 3. Wählen Sie neben **Exporttyp** die Option **Preise für Azure-Plannutzung**, **Preise für Azure-Planreservierungen** oder **Wechselkurse** aus. Hinweis: Die Option **Wechselkurse** ist nicht länderspezifisch.
 

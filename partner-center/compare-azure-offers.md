@@ -9,18 +9,18 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: ba5eeb6281b3c379f568a5373d0e0b7adf7ce378
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: ed929c12b6fec06848bd38e7d2d7962c9dceb0f1
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722494"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021756"
 ---
 # <a name="compare-azure-offers"></a>Vergleich von Azure-Angeboten
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Abrechnungsadministrator
 - Globaler Administrator
 - Helpdesk-Agent
@@ -38,9 +38,9 @@ Die folgende Tabelle bietet eine Übersicht der wichtigsten Unterschiede zwische
 |Mehrere Währungen|Rechnung basierend auf Standort/Währung des Kunden|Rechnung basierend auf Standort/Währung des Kunden|Rechnung basierend auf Standort/Währung des Kunden|Rechnung basierend auf Standort/Währung des Kunden|Basierend auf der Währung des Partnerstandorts| 
 |Rechnungs- und Abstimmungsdatei|Separate Rechnungs- und Abstimmungsdatei für jede Währung am Kundenstandort.  Wir stellen ferner täglich bewertete Nutzungsdateien bereit (sowohl für berechnete als auch für nicht berechnete Teile). |Separate Rechnungs- und Abstimmungsdatei für jede Währung am Kundenstandort|Separate Rechnungs- und Abstimmungsdatei für jede Währung am Kundenstandort|Separate Rechnungs- und Abstimmungsdatei für jede Währung am Kundenstandort|Alle Bestellungen in einer Rechnungs- und Abstimmungsdatei|
 |Preisliste und Angebotsmatrix|Monatlich veröffentlicht mit Preisen in USD*|Marketplace-Angebote und -Preise können in Echtzeit in das CSV-Dateiformat exportiert werden.|Separate Einzeldatei mit allen Preisen und Angebotsdetails. Es gibt keine separate Datei mit der Angebotsmatrix.||Separate Einzeldatei mit allen Preisen und Angebotsdetails. Es gibt keine separate Angebotsmatrix.| fileSeparate, Einzeldatei mit allen Preisen und Angebotsdetails.|Separate Preisliste und Angebotsmatrix (2 Dateien).|
-|Rückgabe und Tausch|Nicht zutreffend Beim Erwerb eines Azure-Plans findet keine gewerbliche Transaktion statt|Variiert zwischen lizenzbasierten Angeboten mit einem bis 12 Monaten Laufzeit sowie nutzungsbasierten Angeboten.|Bei Rückgabe in weniger als 5 Tagen nach dem Bestelldatum wird eine 100 %-Gutschrift ausgestellt. Bei Rückgabe in mehr als 5 Tagen nach dem Bestelldatum wird eine anteilige Gutschrift erstattet, abzüglich einer Gebühr für frühzeitige Stornierung in Höhe von 12 % der anteiligen Gutschrift. Der Betrag ist bei 50.000 USD (oder dem gleichen Betrag in der lokalen Währung) pro Kunde und Jahr gedeckelt|Für Rückgaben in weniger als 60 Tagen ab dem Bestelldatum wird eine Gutschrift von 100 % erstattet. Lizenzschlüssel werden deaktiviert. Partielle Rückgaben werden nicht akzeptiert.|   Suspendierungen/Stornierungen nach weniger als 30 Tagen werden mit einem 100 %-Guthaben erstattet. Für Suspendierungen/Stornierungen nach mehr als 30 Tagen wird eine anteilige Gutschrift erstellt.|
-
-|Geoverfügbarkeit|139 Länder – eine vollständige Liste dieser Länder finden Sie hier.|Die Matrix für die Länderverfügbarkeit neuer E-Commerce-Angebote und Kundenwährungen zeigt den Geltungsbereich, wo diese Angebote in CSP vom Partner verfügbar gemacht werden können.|Ausführliche Informationen finden Sie unter „New Commerce Offers Country Availability and Customer Currency Matrix“. Der gleiche Rolloutzeitplan gilt für alle neuen E-Commerce-Angebote.|Ausführliche Informationen finden Sie unter „New Commerce Offers Country Availability and Customer Currency Matrix“.  Der gleiche Rolloutzeitplan gilt für alle neuen E-Commerce-Angebote.|247 Länder| |Supportanforderungen|Standard-CSP-Supportanforderungen.|Das Unternehmen, das das Angebot veröffentlicht, ist für den technischen Support zuständig.  Der CSP-Partner ist für Support zu Presales-Aktivitäten, Transaktionen und Abrechnung zuständig.|Standard-CSP-Supportanforderungen.|Standard-CSP-Supportanforderungen.|Standard-CSP-Supportanforderungen.|
+|Rückgabe und Tausch|Nicht zutreffend. Beim Erwerb eines Azure-Plans findet keine gewerbliche Transaktion statt|Variiert zwischen lizenzbasierten Angeboten mit einem bis 12 Monaten Laufzeit sowie nutzungsbasierten Angeboten.|Bei Rückgabe in weniger als 5 Tagen nach dem Bestelldatum wird eine 100 %-Gutschrift ausgestellt. Bei Rückgabe in mehr als 5 Tagen nach dem Bestelldatum wird eine anteilige Gutschrift erstattet, abzüglich einer Gebühr für frühzeitige Stornierung in Höhe von 12 % der anteiligen Gutschrift. Der Betrag ist bei 50.000 USD (oder dem gleichen Betrag in der lokalen Währung) pro Kunde und Jahr gedeckelt|Für Rückgaben in weniger als 60 Tagen ab dem Bestelldatum wird eine Gutschrift von 100 % erstattet. Lizenzschlüssel werden deaktiviert. Partielle Rückgaben werden nicht akzeptiert.|   Suspendierungen/Stornierungen nach weniger als 30 Tagen werden mit einem 100 %-Guthaben erstattet. Für Suspendierungen/Stornierungen nach mehr als 30 Tagen wird eine anteilige Gutschrift erstellt.|
+|Geoverfügbarkeit|139 Länder: Eine vollständige Liste der Länder finden Sie hier.|Die Länderverfügbarkeit für New Commerce-Angebote und die Kundenwährungsmatrix zeigen den Umfang, in dem diese Angebote an einem bestimmten Ort für die Bereitstellung in CSP durch einen Partner verfügbar sind.|Vollständige Details finden Sie in der Länderverfügbarkeit für moderne Angebote und Kundenwährungsmatrix. Der gleiche Rolloutzeitplan gilt für alle neuen Commerce-Angebote.|Vollständige Details finden Sie in der Länderverfügbarkeit für moderne Angebote und Kundenwährungsmatrix.  Der gleiche Rolloutzeitplan gilt für alle neuen Commerce-Angebote.|247 Länder|
+|Supportanforderungen|CSP-Standardsupportanforderungen.|Das Unternehmen, das ein Angebot veröffentlicht, ist für den technischen Support zuständig.  Der CSP-Partner ist für die Presales-Aktivitäten, die Transaktion und die Unterstützung der Abrechnung zuständig.|CSP-Standardsupportanforderungen.|CSP-Standardsupportanforderungen.|CSP-Standardsupportanforderungen.|
 
 *Microsoft stellt im vierten Quartal Preislisten-APIs für den programmgesteuerten Echtzeitzugriff auf Azure-Abrechnungspreise bereit.
 

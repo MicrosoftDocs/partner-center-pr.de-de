@@ -38,7 +38,7 @@ In diesem Thema wird erläutert, wie Sie einmalige und wiederkehrende Abstimmung
 | Kunden-ID | Eindeutige Azure AD Mandanten-ID im GUID-Format. Identifiziert den Kunden. |
 | CustomerName | Der in Partner Center angegebene Organisationsname des Kunden. |
 | CustomerDomainName | Der Domänen Name des Kunden. Dieses Feld wird ggf. bis zum zweiten Abrechnungszyklus leer angezeigt. *Verwenden Sie dieses Feld nicht als eindeutigen Bezeichner für den Kunden. Der Kunde/Partner kann die Vanity oder die Standard Domäne über das Office 365-Portal aktualisieren.* |
-| CustomerCountry | Das Land, in dem sich der Kunde befindet. |
+| CustomerCountry | Das Land/eine Region, in dem sich der Kunde befindet. |
 | InvoiceNumber | Rechnungsnummer, in der die angegebene Transaktion angezeigt wird. |
 | MPNID | MPN-Bezeichner des CSP-Partners. |
 | OrderID | Eindeutiger Bezeichner für eine Bestellung auf der Microsoft Commerce Platform. Wird nicht für die Abstimmung verwendet. |

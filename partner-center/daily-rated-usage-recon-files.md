@@ -39,7 +39,7 @@ In diesem Thema wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit tägliche
 | Kunden-ID | Eindeutiger Microsoft-Bezeichner für den Kunden im GUID-Format. |
 | CustomerName | Firmenname des Kunden wie im Partner Center angegeben. *Diese Spalte ist sehr wichtig, um die Rechnung mit ihren Systeminformationen abzustimmen.* |
 | CustomerDomainName | Der Domänen Name des Kunden. |
-| CustomerCountry | Das Land, in dem sich der Kunde befindet. |
+| CustomerCountry | Das Land/eine Region, in dem sich der Kunde befindet. |
 | MPNID | MPN-Bezeichner des CSP-Partners. |
 | Tier2MpnId | MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement. |
 | InvoiceNumber | Rechnungsnummer, in der die angegebene Transaktion angezeigt wird. |

@@ -30,7 +30,7 @@ In diesem Thema wird erläutert, wie Sie sicherstellen, dass Sie für die zurüc
 
 ## <a name="withholding-tax-credit-form"></a>Formular zum zurückbehalten von Steuer Guthaben
 
-- Stellen Sie sicher, dass das Formular den Namen und das Land Ihres Unternehmens, die Nummer des Kennzahl-Steuer Zertifikats und das Formular signiert und korrekt ist. Im folgenden finden Sie die Steuer Guthaben Formulare: für [Deutschland](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) und [alle anderen Länder](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).
+- Stellen Sie sicher, dass das Formular den Namen und das Land Ihres Unternehmens, die Nummer des Kennzahl-Steuer Zertifikats und das Formular signiert und korrekt ist. Im folgenden finden Sie die Steuer Guthaben Formulare: für [Deutschland](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) und [alle anderen Länder/Regionen](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).
 
 Das Formular zum zurückbehalten von Steuergeldern bietet Microsoft die folgenden Informationen:
 
@@ -47,7 +47,7 @@ Bevor Sie Ihre Supportanfrage erstellen, müssen Sie Ihr Formular zum Zurückset
 
 Füllen Sie das entsprechende Formular für Ihr Land oder Ihre Region aus:
 
-- [**Globales Finanz Guthaben**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) (alle Länder, außer Deutschland)
+- [**Globales Finanz Guthaben**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) (alle Länder/Regionen, außer Deutschland)
 - [**In Deutschland**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)
 
 Stellen Sie sicher, dass Ihr Formular korrekt ist, bevor Sie es an Microsoft senden:

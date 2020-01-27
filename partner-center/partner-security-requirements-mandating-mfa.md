@@ -9,16 +9,16 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: medium
-ms.openlocfilehash: dd54d10bb75fe732cddc34c48058b3ba95eac9ae
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 46d485f8d3edf916fce478812c6d8243909e4ed4
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004989"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723487"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für Ihren Partner Mandanten
 
-**Zielgruppe**
+**Gilt für**
 
 - Alle Partner im Cloud Solution Provider-Programm
   - Direktrechnung
@@ -26,12 +26,8 @@ ms.locfileid: "75004989"
   - Indirekter Händler
 - Alle Berater
 
-**Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   Administratoragent
--   Abrechnungsadministrator
--   MPN-Partneradministrator
+**Geeignete Benutzer**
+-   Alle aktivierten Benutzer einschließlich Gastbenutzer
 
 Diese Partner müssen die MFA-Überprüfung für die folgenden Bereiche durchführen:
 
@@ -173,7 +169,7 @@ Bevor Sie eine technische Ausnahme anwenden, überprüfen Sie die Liste der häu
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Problem 1: der Partner benötigt mehr Zeit, um MFA für die Partner-Agents zu implementieren
 Ein Partner wurde noch nicht gestartet oder ist noch nicht im Prozess der Implementierung von MFA für die Partner-Agents, die Zugriff auf Microsoft Online Services-Portale mit Delegierten Administratorrechten für die Verwaltung von Kunden Ressourcen benötigen. Der Partner benötigt mehr Zeit, um die MFA-Implementierung abzuschließen. Ist dies ein gültiger Grund für eine technische Ausnahme?
 
-**Antwort:** Nein. Der Partner muss planen, die MFA für Ihre Benutzer zu implementieren, um Unterbrechungen zu vermeiden.
+**Antwort**: Nein. Der Partner muss planen, die MFA für Ihre Benutzer zu implementieren, um Unterbrechungen zu vermeiden.
 
 > [!NOTE]
 > Obwohl der Partner die MFA für seine Partner-Agents nicht implementiert hat, können die Partner Agenten weiterhin mithilfe der delegierten Administratorrechte von Partner auf Microsoft Online Services-Portale zugreifen, sofern Sie die MFA-Registrierung und MFA-Überprüfung durchführen können Wenn Sie während der Anmeldung beim Kunden Mandanten aufgefordert werden. Durch das Abschließen der MFA-Registrierung wird der Benutzer nicht automatisch für MFA aktiviert.
@@ -181,12 +177,12 @@ Ein Partner wurde noch nicht gestartet oder ist noch nicht im Prozess der Implem
 ##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>Problem 2: der Partner hat die MFA nicht für Benutzerkonten implementiert, die keine delegierten Administratorrechte verwenden.
 Ein Partner verfügt über einige Benutzer in seinen Partner Mandanten, die keinen Zugriff auf Microsoft Online Services-Portale benötigen, um Kunden Ressourcen mit delegierten Administrator Berechtigungen von Partnern zu verwalten. Der Partner ist gerade dabei, MFA für diese Benutzer zu implementieren und benötigt mehr Zeit, um den Vorgang abzuschließen. Ist dies ein gültiger Grund für eine technische Ausnahme?
 
-**Antwort:** Nein. Da diese Benutzerkonten keine Partner delegierten Administratorrechte zum Verwalten von Kunden Ressourcen verwenden, müssen Sie sich nicht beim Kunden Mandanten anmelden. Sie werden von Azure AD, die während der Anmeldung beim Kunden Mandanten die MFA-Überprüfung erfordern, nicht beeinträchtigt.
+**Antwort**: Nein. Da diese Benutzerkonten keine Partner delegierten Administratorrechte zum Verwalten von Kunden Ressourcen verwenden, müssen Sie sich nicht beim Kunden Mandanten anmelden. Sie werden von Azure AD, die während der Anmeldung beim Kunden Mandanten die MFA-Überprüfung erfordern, nicht beeinträchtigt.
 
 ##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Problem 3: der Partner hat die MFA für Benutzer Dienst Konten nicht implementiert.
 Ein Partner verfügt über einige Benutzerkonten in seinen Partner Mandanten, die von Geräten als Dienst Konten verwendet werden. Dabei handelt es sich im Allgemeinen um Konten mit geringen Rechten, die keinen Zugriff auf Partner Center-oder Microsoft Online Services-Portale benötigen, um Kunden Ressourcen mit delegierten Administrator Berechtigungen von Partnern zu verwalten Ist dies ein gültiger Grund für eine technische Ausnahme?
 
-**Antwort:** Nein. Da diese Benutzerkonten keine Partner delegierten Administratorrechte zum Verwalten von Kunden Ressourcen verwenden, müssen Sie sich nicht beim Kunden Mandanten anmelden. Sie werden von Azure AD, die während der Anmeldung beim Kunden Mandanten die MFA-Überprüfung erfordern, nicht beeinträchtigt.
+**Antwort**: Nein. Da diese Benutzerkonten keine Partner delegierten Administratorrechte zum Verwalten von Kunden Ressourcen verwenden, müssen Sie sich nicht beim Kunden Mandanten anmelden. Sie werden von Azure AD, die während der Anmeldung beim Kunden Mandanten die MFA-Überprüfung erfordern, nicht beeinträchtigt.
 
 #### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Problem 4: der Partner kann MFA nicht mithilfe der MS Authenticator-App implementieren.
 Ein Partner verfügt über eine "Clean Desk"-Richtlinie, die es Mitarbeitern nicht gestattet, Ihre persönlichen mobilen Geräte in Ihren Arbeitsbereich zu bringen. Ohne Zugriff auf Ihre persönlichen mobilen Geräte können die Mitarbeiter die MS Authenticator-APP nicht installieren. Dies ist die einzige MFA-Überprüfung, die von Azure AD Basis Richtlinien unterstützt wird. Ist dies ein gültiger Grund für eine technische Ausnahme?

@@ -1,36 +1,88 @@
 ---
-title: Anzeigen der Informationen zu Ihren Incentive-Zahlungen | Partner Center
+title: Ihre Incentive-Zahlungen und-Programme anzeigen | Partner Center
 ms.topic: article
-ms.date: 06/03/2019
+ms.date: 01/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Zeigen Sie die Einnahmen und Auszahlungen für Incentives-Programm an. Dies schließt die Seite "Zahlungen", den Transaktionsverlauf und den Zahlungsstatus sowie den Export von Daten ein.
+description: Anzeigen, verwalten oder Exportieren von Daten über den aktuellen Status von Incentive-Programmen, Einnahmen und Zahlungen, einschließlich der Incentive-Einnahmen pro Programm und Standort.
 author: LauraBrenner
 ms.author: labrenne
+keywords: Incentives, Auszahlungen, Zahlungen, Incentive Program, Locations, Program Status
 ms.localizationpriority: medium
-ms.openlocfilehash: e8eccf310c9ff920fbbfcf0494da6e1fb4010c44
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 8f68977251416c9f70c84cd4f722a2c09a9535d5
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943183"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723467"
 ---
-# <a name="view-your-incentives-payments-information"></a>Anzeigen der Informationen zu den Incentive-Zahlungen
+# <a name="view-your-incentive-payments-and-programs"></a>Ihre Incentive-Zahlungen und-Programme anzeigen
 
-**Zielgruppe**
+**Gilt für**
 
 -  Partner Center
 
-Verwenden Sie diese Seiten, um Details der bisherigen, ausstehenden und bevorstehenden Zahlungen sowie den gesamten Transaktionsverlauf anzuzeigen. Sie können auch ausführliche Informationen zu beliebigen Transaktionen herunterladen oder exportieren. Auf allen Seite "Incentives" werden Beträge in US-Dollar angezeigt. 
+**Geeignete Rollen**
 
->[!Note]
+-  Incentive-Administrator
+-  Incentivebenutzer oder -administrator 
+-  Schreib geschützter Incentive-Viewer
+-  Globaler Administrator
+-  MPN-Partneradministrator
+
+Verwenden Sie diese Seiten, um Details zu den bisherigen, ausstehenden und bevorstehenden Zahlungen und Ergebnissen, den Status Ihrer Incentive-Programme an jedem Standort und den gesamten Transaktionsverlauf anzuzeigen. Sie können auch ausführliche Informationen zu beliebigen Transaktionen herunterladen oder exportieren. Auf allen Seite "Incentives" werden Beträge in US-Dollar angezeigt.
+
+>[!NOTE]
 >Es werden nur Daten für MPN-IDs und Programme angezeigt, denen Sie zugeordnet sind. Wenn Sie auf zusätzliche Daten zugreifen möchten, finden Sie weitere Informationen unter Administrator. 
 
-
 ## <a name="access-the-incentives-pages"></a>Auf die Seite "Incentives" zugreifen
-So öffnen Sie eine der Seite "Incentives":
-1. Wählen Sie in der oberen rechten Ecke das Symbol **Money** aus.
-2. Wählen Sie **Zahlungen**, **Transaktionsverlauf**oder **Daten exportieren**aus.
+
+Über das Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)können Sie auf die Informationen zu den Incentives zugreifen:
+
+- Wählen Sie im Menü auf der linken Seite die Option **Incentives** aus. Unter " **Incentives**" (einschließlich **Übersicht**) werden verschiedene Optionen angezeigt. Erkunden Sie diese Optionen, um den Status von Incentive-Programmen, Incentive-Zahlungen, Einnahmen und Ansprüchen zu erlernen.
+- Wählen Sie in der oberen rechten Ecke das Symbol **Money** (Auszahlung) aus. Sie können dann andere Optionen auswählen, z. b. **Transaktionsverlauf**, **Zahlungen**, **Export Daten** oder **Office Sales Report**.
+
+Die folgenden Seiten werden hier beschrieben:
+
+- Übersicht über meine Incentives
+- Seite "Zahlungen"
+- Seite "Transaktionsverlauf"
+- Seite "Daten exportieren" und andere zugeordnete Export Seiten
+
+>[!NOTE]
+>Weitere Informationen zu Incentives und Incentive-Features in Partner Center finden Sie unter [Partner Investitionen und-Anreize](https://partner.microsoft.com/membership/partner-incentives) (Anmeldung erforderlich).
+
+## <a name="my-incentives-overview-page"></a>Übersicht über meine Incentives
+
+In der **Übersicht über die Incentives** wird der Gesamtstatus Ihrer Incentive-Programme sowie der Status jedes Programms an jedem Standort angezeigt. Diese Informationen umfassen den Gesamtgewinn und die Gesamtzahlungen, seit Sie sich bei Incentive-Programmen angemeldet haben.
+
+Diese Seite enthält auch Einnahmen und Zahlungen nach Standort oder Programm sowie alle weiteren Aktionen, die Sie möglicherweise durchführen müssen, um sich an einem bestimmten Ort bei einem Programm anzumelden.
+
+So greifen Sie auf **meine Incentive-Übersicht**zu:
+
+1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an.
+2. Wählen Sie im Menü den Befehl **Incentives**und dann **Overview** aus.
+3. Zeigen Sie im oberen Bereich der Seite die Zusammenfassung der Einnahmen und Zahlungen an, und weitere Details finden Sie in der Tabelle unten. Sie können die zugehörige Tabelle auch sortieren, gruppieren und erweitern:
+
+   - Wenn Sie nach Spalte sortieren möchten, wählen Sie den Spaltennamen aus.
+   - Um nach einem Programm zu gruppieren, wählen Sie die Registerkarte **nach Programm** über der Tabelle aus.
+   - Um nach Standort zu gruppieren, wählen Sie die Registerkarte **nach Speicherort** über der Tabelle aus.
+   - Wenn Sie weitere Details zu Registrierungen innerhalb einer bestimmten Gruppe anzeigen möchten, wählen Sie das Chevron-Symbol am Ende einer bestimmten Zeile aus. Dadurch wird die Ansicht erweitert.
+
+4. Wenn weitere Aktionen erforderlich sind, um sich in einem Programm anzumelden, werden diese Informationen in der Spalte **Status** angezeigt. Wählen Sie in diesem Fall das Chevron-Symbol aus, um mehr über die nächsten Schritte zu erfahren, die Sie durchführen müssen.
+
+>[!NOTE]
+>In der folgenden Tabelle finden Sie weitere Informationen zu den verschiedenen Registrierungs Zuständen, die in der Spalte **Status** angezeigt werden.
+
+
+| **Status**         | **Wird angezeigt, wenn** |
+|:------------------------------------|:------------------|
+| Aktion erforderlich  | Der Partner hat eine Einladung zum Anmelden bei einem Incentive-Programm akzeptiert, muss jedoch die Bank-oder Steuerinformationen aktualisieren. In der Spalte **erforderliche Aktionen** finden Sie alle nächsten Schritte oder Links zum Aktualisieren Ihrer Bank-oder Steuerinformationen in Partner Center. |
+| Abgeb  | Das spezielle Incentive-Programm wird nicht mehr im System "Incentives" angeboten. |
+| ULT  | Alle Steuer-und Bankinformationen wurden überprüft. Es ist keine weitere Registrierungsaktion für den Partner erforderlich. |
+| Inactive  | Das Incentive-Programm ist zu diesem Zeitpunkt möglicherweise nicht für die Registrierung geöffnet, oder der Partner erfüllt nicht die aktuelle Berechtigung zur Registrierung oder erneuten Registrierung.  |
+| Tenen  | Es wurde eine neue Einladungsprogramm-Registrierungs Einladung an den Partner gesendet, aber der Partner hat den Registrierungsprozess noch nicht gestartet. In der angrenzenden Spalte **Aktionen erforderlich** werden die nächsten Schritte und alle zugehörigen Links angezeigt.  |
+| Die Registrierung wird überprüft.  | Der Partner hat die Bank-und Steuerinformationen für eine neue oder vorhandene Registrierung bereits abgeschlossen oder aktualisiert und wartet darauf, dass Microsoft diese Informationen überprüft. Während der über **Prüfung wird die** Überprüfung der Registrierung möglicherweise für bis zu 48 Stunden angezeigt.  |
 
 ## <a name="payments-page"></a>Seite "Zahlungen"
 Die Summen auf dieser Seite stellen alle von Ihnen verwendeten MPN-IDs dar. Sie können nach Teilnehmer-ID, Programm, Zahlungs-ID und Erstellungs Typ filtern. Beträge werden in US-Dollar angegeben. Der kostenpflichtige Wert wird auch Unterzahlung in Währung angezeigt. 
@@ -54,13 +106,13 @@ Wählen Sie zum Exportieren der Transaktionsdaten auf dieser Seite die Option **
 
 ## <a name="payment-status"></a>Zahlungsstatus
 
-|**Erwerbsstatus** |**Reason** |**Partner Aktion erforderlich?**       |
+|**Erwerbsstatus** |**Weshalb** |**Partner Aktion erforderlich?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |Nicht verarbeitet        | Der Erwerb ist für die Zahlung berechtigt. Sie verbleibt in diesem Zustand für einen kühl Zeitraum, wie im Programmhandbuch für das Incentive-Programm definiert.       |Nein        |
-|Anstehend      |Der Zahlungsauftrag hat ausstehende interne Überprüfungen generiert, bevor die Zahlung verarbeitet wird.       |Nein       |
+|Ansteh      |Der Zahlungsauftrag hat ausstehende interne Überprüfungen generiert, bevor die Zahlung verarbeitet wird.       |Nein       |
 |Ausstehende Steuerrechnung      |Ihre Steuerrechnung ist unvollständig oder ungültig.          |Sie müssen ihre Steuerrechnung aktualisieren, bevor Sie bezahlen können.         |
 |Ablehnung während der Überprüfung        |Die Zahlung wurde während der Überprüfung abgelehnt.          |Weitere Informationen erhalten Sie vom Microsoft Support.         |
-|Fehlgeschlagen        |Die Zahlung ist aufgrund eines Microsoft-Systemfehlers fehlgeschlagen.         |Weitere Informationen erhalten Sie vom Microsoft Support.         |
+|Failed        |Die Zahlung ist aufgrund eines Microsoft-Systemfehlers fehlgeschlagen.         |Weitere Informationen erhalten Sie vom Microsoft Support.         |
 |In Bearbeitung     |Die Zahlung wird ausgeführt.         |Nein         |
 |Falsche Zahlung        |Der Zahlungsvorgang wird wiederholt.          |Nein        |
 |Sent        |Die Zahlung wurde an Ihre Bank gesendet.          |Nein       |
@@ -68,7 +120,7 @@ Wählen Sie zum Exportieren der Transaktionsdaten auf dieser Seite die Option **
 |Reserviert        |Die Zahlung wurde von Ihrer Bank rückgängig gemacht und wird im nächsten Zahlungszeitraum erneut gesendet.          |Nein        |
 |Finanzrechnung abgelehnt       |Ihre Steuerrechnung wurde während der Überprüfung abgelehnt. Alle ausstehenden Zahlungen werden angehalten, bis die Überprüfung der Steuerrechnung abgeschlossen ist.          |Weitere Informationen erhalten Sie vom Microsoft Support.         |
 |Steuerrechnung unter Review        |Ihre Steuerrechnung wird geprüft. Ihre Zahlung wird nach Genehmigung der Steuerrechnung freigegeben.           |Nein        |
-|Rejected        |Die Zahlung wurde von Ihrer Bank abgelehnt.           |Weitere Informationen erhalten Sie von der Bank.  |
+|Ablehnung        |Die Zahlung wurde von Ihrer Bank abgelehnt.           |Weitere Informationen erhalten Sie von der Bank.  |
 
 ## <a name="export-data-page"></a>Seite "Daten exportieren"
 Befolgen Sie die Anweisungen auf dieser Seite, um die gewünschten Daten zu exportieren. 
@@ -83,7 +135,7 @@ Mit dieser Option können Sie die Zahlungen, die Sie in Ihrer Bank für ein best
 
 |**Name der Spalte**   |**Beschreibung**   |
 |------------------|:-------------------------------------|
-|participantID   |Die primäre Identität des Partners, der sich unter dem Programm verdient      |
+|participantid   |Die primäre Identität des Partners, der sich unter dem Programm verdient      |
 |participantidtype   |Normalerweise MPN für Incentive-Programme und Verkäufer-ID für Store-Programme      |
 |participantName   |Name des Erwerbs Partners      |
 |Program Name   |Name des Incentive/Store-Programms      |
@@ -106,7 +158,7 @@ Mit dieser Option können Sie jedes auf der Seite Transaktionsverlauf gelaufene 
 |**Name der Spalte**   |**Beschreibung**   |
 |------------------|:-------------------------------------|
 |earningid   |Eindeutiger Bezeichner für jedes Einkommen   |
-|participantID   |Die primäre Identität des Partners, der sich unter dem Programm verdient   |
+|participantid   |Die primäre Identität des Partners, der sich unter dem Programm verdient   |
 |participantidtype   |Normalerweise MPN für Incentive-Programme und Verkäufer-ID für Store-Programme   |
 |participantName   |Name des Erwerbs Partners   |
 |partnercountrycode   |Standort/Land des Erwerbs Partners   |
@@ -125,22 +177,22 @@ Mit dieser Option können Sie jedes auf der Seite Transaktionsverlauf gelaufene 
 |earningamountusd   |Betrag in USD   |
 |earningdate   |Datum des Erwerbs   |
 |earningexchangerate   |Wechselkurs, der zum Anzeigen des entsprechenden USD Amount verwendet wird   |
-|exchangeRateDate   |Zum Berechnen von "earningamount USD" verwendetes Wechselkurs Datum   |
+|exchangeratedate   |Zum Berechnen von "earningamount USD" verwendetes Wechselkurs Datum   |
 |PaymentID   |Eindeutiger Bezeichner für die Zahlung. Diese Zahl ist normalerweise in der Bank-Anweisung sichtbar.   |
 |paymentstatus   |Zahlungsstatus   |
 |paymentstatus Description   |Benutzerfreundliche Beschreibung des Zahlungsstatus   |
-|customerId   |Kunden Bezeichner   |
-|customerName   |Name der Transaktions Kunden   |
+|CustomerID   |Kunden Bezeichner   |
+|CustomerName   |Name der Transaktions Kunden   |
 
 
 Zusätzlich zur obigen Tabelle sind diese Felder für den Transaktionsverlauf für das Programm verfügbar.
 
 |**Name der Spalte**   |**Beschreibung**   |
 |------------------|:-------------------------------------|
-|partNumber   |Die mit der Transaktion verknüpfte Teilenummer. Microsoft-Terminologie.   |
+|PartNumber   |Die mit der Transaktion verknüpfte Teilenummer. Microsoft-Terminologie.   |
 |productName   |Der Produkt Familienname ist für die Transaktion angeordnet   |
 |invoicenumschlag   |Rechnungsnummer   |
-|subscriptionId   |Dem Kunden zugeordneter Abonnement Bezeichner   |
+|SubscriptionId   |Dem Kunden zugeordneter Abonnement Bezeichner   |
 |Abonnement StartDate   |Startdatum des Abonnements   |
 |Abonnement Enddatum   |Enddatum des Abonnements   |
 |offerId   |TBD   |
@@ -151,6 +203,6 @@ Zusätzlich zur obigen Tabelle sind diese Felder für den Transaktionsverlauf f�
 |AgreementNumber   |Vertragsnummer   |
 |agreementstartdate   |Startdatum des Vertrags   |
 |agreementenddate   |Enddatum des Vertrags   |
-|Arbeitsauslastung   |Workload   |
+|beitragen   |Arbeitsauslastung   |
   
 

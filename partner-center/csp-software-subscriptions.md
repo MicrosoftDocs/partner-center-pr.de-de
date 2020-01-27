@@ -1,7 +1,7 @@
 ---
 title: Verkaufen von Softwareabonnements über CSP | Partner Center
 ms.topic: article
-ms.date: 12/18/2019
+ms.date: 01/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Partner im CSP-Programmpartner Center verwenden können, um reservierte Azure-Instanzen und Server Abonnements für Kunden zu erwerben, zu verwalten, zu verkaufen und abzubrechen.
@@ -10,22 +10,22 @@ ms.author: evansma
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Azure RI, Windows Server, SQL Server, Software Abonnements, Abbrechen von Software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 733c8ab6c2d15109011dfa240c2ce5954d748fea
-ms.sourcegitcommit: 855b2aed1c395b199d8aaba88ac08cc277f474ea
+ms.openlocfilehash: d943128d93fb52e67f4eba346a3338cd429ef57b
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "75190241"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723437"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Verkaufen von Softwareabonnements über CSP
 
-**Zielgruppe**
+**Gilt für**
 
-- Cloud Solution Provider
+- Cloudlösungsanbieter
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Globaler Administrator
 
 Mit Azure-Reservierungen und Server Abonnements (Windows Server-und SQL Server-Abonnements) können Partner im CSP-Programm die fast wachsende Kundennachfrage für kostengünstigere Lösungen besser erfüllen, um hochgradig vorhersagbare und persistente Lösungen zu unterstützen. Cloud-Workloads. 
@@ -158,17 +158,19 @@ Gehen Sie folgendermaßen vor, um einen Kauf zu stornieren:
 
 5. Suchen Sie den Software Kauf, den Sie abbrechen möchten, und wählen Sie dann **Abbrechen**aus. Ein Dialogfeld wird angezeigt.
 
-6. Wählen Sie in der Dropdown Liste Bestellnummer die richtige Auftrags-ID aus, die Sie abbrechen möchten, und klicken Sie dann auf **senden**.
+6. Wählen Sie in der Dropdown Liste Bestellnummer die richtige Auftrags-ID aus, die Sie abbrechen möchten. (Weitere Informationen zu einer Auftrags-oder Auftrags-ID finden Sie auf der Seite **Bestellverlauf** des Kunden.)
 
-7. Wenn Sie mehrere Bestellungen für einen Kunden abbrechen möchten, müssen Sie die Schritte 4 bis 6 für jede eindeutige Bestellnummer erneut ausführen. (Weitere Informationen zu einer Auftrags-oder Auftrags-ID finden Sie auf der Seite **Bestellverlauf** des Kunden.)
+7. Aktivieren Sie das Kontrollkästchen, um zu bestätigen, dass Sie die **wichtige** Meldung zum Abbruch gelesen haben. (Weitere Informationen dazu, was geschieht, nachdem ein Kauf abgebrochen wurde, finden Sie im folgenden **wichtigen** Hinweis.)
 
-8. Wenn Sie versuchen, einen Auftrag abzubrechen, werden von Partner Center möglicherweise auch weitere Informationen angezeigt (die unter der Dropdown Liste Bestellnummer angezeigt werden). Diese Informationen können Folgendes umfassen:
+8. Wählen Sie über **Mitteln** aus, um den Kauf abzubrechen. Wenn Sie mehrere Bestellungen für einen Kunden abbrechen möchten, müssen Sie die Schritte 4 bis 6 für jede eindeutige Bestellnummer erneut ausführen.
 
-    - Wie viele Tage verbleiben, bis Sie die jeweilige Bestellung abbrechen
+Wenn Sie versuchen, einen Auftrag abzubrechen, werden von Partner Center möglicherweise auch weitere Informationen angezeigt (die unter der Dropdown Liste Bestellnummer angezeigt werden). Diese Informationen können Folgendes umfassen:
 
-    - Ob Sie das Abbruch Fenster bereits überschritten haben und die Reihenfolge nicht mehr abbrechen können
+* Wie viele Tage verbleiben, bis Sie die jeweilige Bestellung abbrechen
 
-    - Wenn Sie weitere Informationen zu ihrer Abbruch Anforderung benötigen, erhalten Sie möglicherweise einen Link zum Anforderungs Formular für **Kundensupport** .
+* Ob Sie das Abbruch Fenster bereits überschritten haben und die Reihenfolge nicht mehr abbrechen können
+
+* Wenn Sie weitere Informationen zu ihrer Abbruch Anforderung benötigen, erhalten Sie möglicherweise einen Link zum Anforderungs Formular für **Kundensupport** .
 
 >[!IMPORTANT]
 >Nachdem Sie eine Bestellung abgebrochen haben, wird eine Meldung angezeigt, in der der Abbruch bestätigt wird. Es kann jedoch eine Verzögerung von bis zu 15 Minuten dauern, bis der Abbruch auf dem Partner Center-Dashboard angezeigt wird. Beachten Sie auch die folgenden Details nach dem Abbruch.

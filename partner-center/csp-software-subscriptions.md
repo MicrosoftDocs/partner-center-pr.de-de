@@ -1,7 +1,7 @@
 ---
 title: Verkaufen von Softwareabonnements über CSP | Partner Center
 ms.topic: article
-ms.date: 01/21/2020
+ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Partner im CSP-Programmpartner Center verwenden können, um reservierte Azure-Instanzen und Server Abonnements für Kunden zu erwerben, zu verwalten, zu verkaufen und abzubrechen.
@@ -10,12 +10,12 @@ ms.author: evansma
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Azure RI, Windows Server, SQL Server, Software Abonnements, Abbrechen von Software
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: d943128d93fb52e67f4eba346a3338cd429ef57b
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: 0ba3f32615fe02d843123180e4cb34176b28e09c
+ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723437"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76812652"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Verkaufen von Softwareabonnements über CSP
 
@@ -135,7 +135,7 @@ Zu Überwachungs-oder Konformitäts Zwecken müssen Sie möglicherweise eine Lis
 Sie können einen Softwarekauf binnen 60 Tagen nach Kaufdatum stornieren. Wenn Sie innerhalb dieses ersten Zeitraums von 60 Tagen abbrechen, wird Ihnen keine frühe abbruchgebühr in Rechnung gestellt. Nach 60 Tagen kann ein Kauf nicht mehr abgebrochen werden. (Weitere Informationen finden Sie Unterschlüssel Einschränkungen für diese Abbruch Regel. Weitere Informationen dazu, was geschieht, nachdem Sie einen Software Kauf abgebrochen haben, finden Sie in diesem Artikel auch nach diesen Schritten.) 
 
 >[!NOTE]
->Die folgenden Schritte zum Abbrechen eines Kaufs gelten nur für Software, die in einem bestimmten Abbruch Fenster, z. b. innerhalb der ersten 60 Tage nach dem Kauf, für den Abbruch qualifiziert ist. Beachten Sie, dass diese Schritte zum Abbrechen eines Kaufs nicht für Käufe von erweiterten Sicherheits Updates 2020 von Microsoft Windows 7 gelten. (Um Windows 7 ESU 2020 abzubrechen, müssen Sie eine Kundensupport Anfrage einreichen, wie weiter unten in diesem Thema beschrieben.) Diese Schritte gelten auch nicht für einen SUSE Linux-oder RedHat-Software Plan in Azure. Zu diesem Zeitpunkt können Sie einen SUSE-oder RedHat-Software Plan nicht abbrechen oder austauschen. [Erfahren Sie mehr](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) über die Verwendung von SUSE Linux-oder RedHat-Plänen.
+>Die folgenden Schritte zum Abbrechen eines Kaufs gelten nur für Software, die in einem bestimmten Abbruch Fenster, z. b. innerhalb der ersten 60 Tage nach dem Kauf, für den Abbruch qualifiziert ist. Diese Schritte gelten auch nicht für einen SUSE Linux-oder RedHat-Software Plan in Azure. Zu diesem Zeitpunkt können Sie einen SUSE-oder RedHat-Software Plan nicht abbrechen oder austauschen. [Erfahren Sie mehr](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) über die Verwendung von SUSE Linux-oder RedHat-Plänen.
 
 Gehen Sie folgendermaßen vor, um einen Kauf zu stornieren:
 
@@ -166,11 +166,11 @@ Gehen Sie folgendermaßen vor, um einen Kauf zu stornieren:
 
 Wenn Sie versuchen, einen Auftrag abzubrechen, werden von Partner Center möglicherweise auch weitere Informationen angezeigt (die unter der Dropdown Liste Bestellnummer angezeigt werden). Diese Informationen können Folgendes umfassen:
 
-* Wie viele Tage verbleiben, bis Sie die jeweilige Bestellung abbrechen
+- Wie viele Tage verbleiben, bis Sie die jeweilige Bestellung abbrechen
 
-* Ob Sie das Abbruch Fenster bereits überschritten haben und die Reihenfolge nicht mehr abbrechen können
+- Ob Sie das Abbruch Fenster bereits überschritten haben und die Reihenfolge nicht mehr abbrechen können
 
-* Wenn Sie weitere Informationen zu ihrer Abbruch Anforderung benötigen, erhalten Sie möglicherweise einen Link zum Anforderungs Formular für **Kundensupport** .
+- Wenn Sie weitere Informationen zu ihrer Abbruch Anforderung benötigen, erhalten Sie möglicherweise einen Link zum Anforderungs Formular für **Kundensupport** .
 
 >[!IMPORTANT]
 >Nachdem Sie eine Bestellung abgebrochen haben, wird eine Meldung angezeigt, in der der Abbruch bestätigt wird. Es kann jedoch eine Verzögerung von bis zu 15 Minuten dauern, bis der Abbruch auf dem Partner Center-Dashboard angezeigt wird. Beachten Sie auch die folgenden Details nach dem Abbruch.

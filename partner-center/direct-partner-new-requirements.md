@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: CSP, direkte Partner, Direktabrechnung, Anforderungen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 64015b298618ef7292433f0aedb5016ef83c1905
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0b8a34d4539180d99bcb76396dcf3dad6a0cf699
+ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253588"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76860461"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>Neue Anforderungen für CSP-Direktabrechnungspartner
 
@@ -46,13 +46,15 @@ Wir prüfen anhand Ihrer Antworten auf die Fragen im Formular, ob Sie als Direkt
 Wenn Ihr Unternehmen die Voraussetzungen für die Registrierung als Direktabrechnungspartner erfüllt und Sie die Bewerbung abgeschlossen haben, überprüfen und verifizieren wir die Unternehmensinformationen, die Sie bei der Registrierung angegeben haben. Im Rahmen dieser Überprüfung wird Ihr Unternehmen auch einer Bonitätsprüfung unterzogen. Wir benachrichtigen Sie per E-Mail, wenn Ihr Unternehmen die Bonitätsprüfung bestanden hat.
 
 >[!IMPORTANT]
->Die Bonitätsprüfung kann einige Tage dauern. Erwerben Sie in diesem Zeitraum KEINEN Microsoft-Supportplan. Erwerben Sie KEINEN Microsoft-Supportplan, bis wir Sie über die bestandene Bonitätsprüfung informiert haben.
+>Die Bonitätsprüfung kann einige Tage dauern. Erwerben Sie in diesem Zeitraum KEINEN Microsoft-Supportplan. Erwerben Sie erst dann einen Microsoft-Supportplan, wenn wir Sie über die bestandene Bonitätsprüfung informiert haben.
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>Übergangsphase vom direkten zum indirekten Wiederverkäufer
 
+Aktuelle direkt Rechnungs Partner müssen die neuen Anforderungen erfüllen, damit Sie im CSP Direct Bill Partner Program bleiben. Andernfalls ist der [Zugriff auf die Funktionen der direkten Rechnung letztendlich eingeschränkt](restricted-direct-bill-capabilities.md) und kann bestimmte Aufgaben, z. b. das Erstellen von neuen Käufen für Ihre Kunden, verlängern. 
+
 Wenn Sie vom Direktabrechnungspartner auf einen indirekten Wiederverkäufer umsteigen möchten, müssen Sie mehrere Schritte durchführen. Weitere Informationen dazu finden Sie unter [Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer](transition-direct-to-indirect.md). 
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Informationen:
 
 - [Weitere Informationen zu den Anforderungen an indirekte Wiederverkäufer](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [Häufig gestellte Fragen zum Übergang von Direktabrechnungspartner zum indirekten Wiederverkäufer](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

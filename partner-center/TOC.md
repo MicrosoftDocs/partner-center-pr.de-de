@@ -25,9 +25,8 @@
 ## [Marketplace-Prämien](marketplace-rewards.md)
 ## [Software Assurance-Programme](software-assurance-lp.md)
 ### [SATV-Programm (Software Assurance Training Voucher, Software Assurance-Trainingsgutschein) in Partner Center](software-assurance-satv.md)
-### [Verwenden des Tools zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR) in Partner Center, um Gutscheine zu überprüfen, zu reservieren und einzulösen](voucher-validation-tool.md)
-### [Häufig gestellte Fragen: Verwenden des Tools zur Gutscheinvalidierung und -einlösung (Voucher Validation and Redemption, VVR)](vvr-faq.md)
-### [Software Assurance-Planungsdienste in Partner Center](software-assurance-dps.md)
+### [Software Assurance Planning Services in Partner Center](software-assurance-dps.md)
+#### [Berechtigungsvoraussetzungen für Planning Services-Projekte](software-assurance-dps-requirements.md)
 ## Rechnungen und Steuern
 ### [Rechnungen und Steuern im Microsoft Partner Network](mpn-view-print-maps-invoice.md)
 ## [Testen neuer Features](test-drive-new-features.md)

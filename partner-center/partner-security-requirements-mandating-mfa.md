@@ -18,12 +18,12 @@ ms.locfileid: "76723487"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für Ihren Partner Mandanten
 
-**Gilt für**
+**Gilt für:**
 
 - Alle Partner im Cloud Solution Provider-Programm
   - Direktrechnung
   - Indirekter Anbieter
-  - Indirekter Händler
+  - Indirekter Wiederverkäufer
 - Alle Berater
 
 **Geeignete Benutzer**

@@ -18,7 +18,7 @@ ms.locfileid: "76723467"
 ---
 # <a name="view-your-incentive-payments-and-programs"></a>Ihre Incentive-Zahlungen und-Programme anzeigen
 
-**Gilt für**
+**Gilt für:**
 
 -  Partner Center
 
@@ -78,10 +78,10 @@ So greifen Sie auf **meine Incentive-Übersicht**zu:
 | **Status**         | **Wird angezeigt, wenn** |
 |:------------------------------------|:------------------|
 | Aktion erforderlich  | Der Partner hat eine Einladung zum Anmelden bei einem Incentive-Programm akzeptiert, muss jedoch die Bank-oder Steuerinformationen aktualisieren. In der Spalte **erforderliche Aktionen** finden Sie alle nächsten Schritte oder Links zum Aktualisieren Ihrer Bank-oder Steuerinformationen in Partner Center. |
-| Abgeb  | Das spezielle Incentive-Programm wird nicht mehr im System "Incentives" angeboten. |
+| Nicht mehr unterstützt  | Das spezielle Incentive-Programm wird nicht mehr im System "Incentives" angeboten. |
 | ULT  | Alle Steuer-und Bankinformationen wurden überprüft. Es ist keine weitere Registrierungsaktion für den Partner erforderlich. |
 | Inactive  | Das Incentive-Programm ist zu diesem Zeitpunkt möglicherweise nicht für die Registrierung geöffnet, oder der Partner erfüllt nicht die aktuelle Berechtigung zur Registrierung oder erneuten Registrierung.  |
-| Tenen  | Es wurde eine neue Einladungsprogramm-Registrierungs Einladung an den Partner gesendet, aber der Partner hat den Registrierungsprozess noch nicht gestartet. In der angrenzenden Spalte **Aktionen erforderlich** werden die nächsten Schritte und alle zugehörigen Links angezeigt.  |
+| Eingeladen  | Es wurde eine neue Einladungsprogramm-Registrierungs Einladung an den Partner gesendet, aber der Partner hat den Registrierungsprozess noch nicht gestartet. In der angrenzenden Spalte **Aktionen erforderlich** werden die nächsten Schritte und alle zugehörigen Links angezeigt.  |
 | Die Registrierung wird überprüft.  | Der Partner hat die Bank-und Steuerinformationen für eine neue oder vorhandene Registrierung bereits abgeschlossen oder aktualisiert und wartet darauf, dass Microsoft diese Informationen überprüft. Während der über **Prüfung wird die** Überprüfung der Registrierung möglicherweise für bis zu 48 Stunden angezeigt.  |
 
 ## <a name="payments-page"></a>Seite "Zahlungen"
@@ -112,15 +112,15 @@ Wählen Sie zum Exportieren der Transaktionsdaten auf dieser Seite die Option **
 |Ansteh      |Der Zahlungsauftrag hat ausstehende interne Überprüfungen generiert, bevor die Zahlung verarbeitet wird.       |Nein       |
 |Ausstehende Steuerrechnung      |Ihre Steuerrechnung ist unvollständig oder ungültig.          |Sie müssen ihre Steuerrechnung aktualisieren, bevor Sie bezahlen können.         |
 |Ablehnung während der Überprüfung        |Die Zahlung wurde während der Überprüfung abgelehnt.          |Weitere Informationen erhalten Sie vom Microsoft Support.         |
-|Failed        |Die Zahlung ist aufgrund eines Microsoft-Systemfehlers fehlgeschlagen.         |Weitere Informationen erhalten Sie vom Microsoft Support.         |
+|Fehler        |Die Zahlung ist aufgrund eines Microsoft-Systemfehlers fehlgeschlagen.         |Weitere Informationen erhalten Sie vom Microsoft Support.         |
 |In Bearbeitung     |Die Zahlung wird ausgeführt.         |Nein         |
 |Falsche Zahlung        |Der Zahlungsvorgang wird wiederholt.          |Nein        |
-|Sent        |Die Zahlung wurde an Ihre Bank gesendet.          |Nein       |
+|Gesendet        |Die Zahlung wurde an Ihre Bank gesendet.          |Nein       |
 |Reprocessing       |Bei der Zahlung ist ein Microsoft-Systemfehler aufgetreten, der erneut verarbeitet wird.           |Nein         |
-|Reserviert        |Die Zahlung wurde von Ihrer Bank rückgängig gemacht und wird im nächsten Zahlungszeitraum erneut gesendet.          |Nein        |
+|Umgekehrt        |Die Zahlung wurde von Ihrer Bank rückgängig gemacht und wird im nächsten Zahlungszeitraum erneut gesendet.          |Nein        |
 |Finanzrechnung abgelehnt       |Ihre Steuerrechnung wurde während der Überprüfung abgelehnt. Alle ausstehenden Zahlungen werden angehalten, bis die Überprüfung der Steuerrechnung abgeschlossen ist.          |Weitere Informationen erhalten Sie vom Microsoft Support.         |
 |Steuerrechnung unter Review        |Ihre Steuerrechnung wird geprüft. Ihre Zahlung wird nach Genehmigung der Steuerrechnung freigegeben.           |Nein        |
-|Ablehnung        |Die Zahlung wurde von Ihrer Bank abgelehnt.           |Weitere Informationen erhalten Sie von der Bank.  |
+|Abgelehnt        |Die Zahlung wurde von Ihrer Bank abgelehnt.           |Weitere Informationen erhalten Sie von der Bank.  |
 
 ## <a name="export-data-page"></a>Seite "Daten exportieren"
 Befolgen Sie die Anweisungen auf dieser Seite, um die gewünschten Daten zu exportieren. 
@@ -182,7 +182,7 @@ Mit dieser Option können Sie jedes auf der Seite Transaktionsverlauf gelaufene 
 |paymentstatus   |Zahlungsstatus   |
 |paymentstatus Description   |Benutzerfreundliche Beschreibung des Zahlungsstatus   |
 |CustomerID   |Kunden Bezeichner   |
-|CustomerName   |Name der Transaktions Kunden   |
+|customerName   |Name der Transaktions Kunden   |
 
 
 Zusätzlich zur obigen Tabelle sind diese Felder für den Transaktionsverlauf für das Programm verfügbar.
@@ -192,7 +192,7 @@ Zusätzlich zur obigen Tabelle sind diese Felder für den Transaktionsverlauf f�
 |PartNumber   |Die mit der Transaktion verknüpfte Teilenummer. Microsoft-Terminologie.   |
 |productName   |Der Produkt Familienname ist für die Transaktion angeordnet   |
 |invoicenumschlag   |Rechnungsnummer   |
-|SubscriptionId   |Dem Kunden zugeordneter Abonnement Bezeichner   |
+|subscriptionId   |Dem Kunden zugeordneter Abonnement Bezeichner   |
 |Abonnement StartDate   |Startdatum des Abonnements   |
 |Abonnement Enddatum   |Enddatum des Abonnements   |
 |offerId   |TBD   |

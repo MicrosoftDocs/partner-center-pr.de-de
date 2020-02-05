@@ -1,26 +1,26 @@
 ---
 title: Zusammenarbeiten mit indirekten Vertriebspartnern in CSP | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Als indirekter Anbieter (oder Verteiler) erfahren Sie, wie Sie eine Erweiterung mit indirekten Wiederverkäufern durcharbeiten. Dies schließt Aufgaben ein, die Sie im Partner Center ausführen können.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a6770e459b0e3b1c05dba91107cbfdb729eeda14
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: b3ce97e6463681670ff65344d9b94baabc84a170
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004539"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012138"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Wiederverkäufern im Programm für Cloud-Lösungsanbieter
 
 **Geeignete Rollen**
 -   Globaler Administrator
 -   Benutzeradministrator
--   Administratoragent
+-   Administrator-Agent
 -   Vertriebsbeauftragter
 
 Angesichts der Komplexität und hohen Dynamik des Technologiemarkts möchten sich Kunden mit Technologielösungen einen Wettbewerbsvorteil verschaffen. In einem solchen Umfeld ist es für Partner sinnvoll, in Partner-zu-Partner-Programme zu investieren, um ihr Angebot zu erweitern und den Kunden noch mehr Möglichkeiten zu bieten.
@@ -66,6 +66,8 @@ Um mit indirekten Vertriebspartnern im Partner Center interagieren und Transakti
 
 Senden Sie zum Einrichten einer Partnerschaft eine E-Mail mit einer Partnerschaftsanfrage an den Vertriebspartner. Stellen Sie sicher, dass die e-Mail-Adresse des Wiederverkäufers vorhanden ist, bevor Sie loslegen. 
 
+Fügen Sie auf der Seite Abonnement Details im Feld Reseller (MPN-ID) den Wiederverkäufer hinzu, mit dem Sie arbeiten möchten. Stellen Sie sicher, dass Sie die MPN-ID verwenden, die mit dem Partnerstandort Konto des Wiederverkäufers verknüpft ist, das Sie für die Einbindung in Partner Center Dadurch wird sichergestellt, dass der Wiederverkäufer die entsprechenden Anreize erhält und über eine aktive Microsoft-Partner Vereinbarung zum Einbinden der Transaktion verfügt.
+
 1. Wählen Sie im **Partner Center**-Menü die Option für **indirekte Vertriebspartner** aus. 
 
 2. Wählen Sie auf der Seite für **indirekte Vertriebspartner** die Option zum **Anfordern einer Partnerschaft** aus. Ein E-Mail-Entwurf wird angezeigt.
@@ -89,7 +91,7 @@ Wenn Sie sich bei bestehenden Abonnements für die Zusammenarbeit mit einem indi
 
 | **Ziel** | **Aufgabe** | **Wobei** |
 |   ------------------   |   -------   |   -----   |
-| Aktivieren des Wiederverkäufers zum Verwalten des Kontos eines Kunden und zum Verwalten Ihrer Abonnements Administrator Berechtigungen | Zuordnen eines Vertriebspartners zu einem Kundenkonto beim Hinzufügen neuer Kunden | Auf der Seite **Neuer Kunde** |
+|Aktivieren des Wiederverkäufers zum Verwalten des Kontos eines Kunden und zum Verwalten Ihrer Abonnements Administrator Berechtigungen | Zuordnen eines Vertriebspartners zu einem Kundenkonto beim Hinzufügen neuer Kunden | Auf der Seite **Neuer Kunde** |
 |Dem Vertriebspartner ermöglichen, das Azure-Konto eines Kunden zu verwalten|Zuordnen eines Vertriebspartners zu einem Azure-Kundenkonto beim Hinzufügen neuer Kunden|Wählen Sie im **Azure Service-Portal** die Option [Benutzereinstellungen](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) aus, um dem indirekten Vertriebspartner eine **Mandanten-Besitzer**-Berechtigungen zu erteilen|
 | Zuschreiben von Incentives für Vertriebspartner | Ordnen Sie den Vertriebspartner dem (neuen oder vorhandenen) Abonnement zu. | Auf der Seite **Neues Abonnement** |
 | Delegieren des Kundensupports für bestimmte Abonnements an den Vertriebspartner | Wählen Sie den Vertriebspartner in der Liste der **designierten Supportkontakte** aus. | Auf der Detailseite des Abonnements: Wählen Sie den Kunden von Ihrer **Kunden** Seite aus, und wählen Sie dann auf der Seite **Abonnements** des Kunden das Abonnement aus. |

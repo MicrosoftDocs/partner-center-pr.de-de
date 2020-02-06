@@ -9,21 +9,17 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
-ms.openlocfilehash: 1a452b3d67abdfb1eabe4a3e85f458b085cc141d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: dd2bd327da0259f66b7feb9f90b7f6a75089524b
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004269"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723477"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Häufig gestellte Fragen zu den Sicherheitsanforderungen für Partner
 
-**Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   Administratoragent
--   Abrechnungsadministrator
--   MPN-Partneradministrator
+**Geeignete Benutzer**
+-   Alle aktivierten Benutzer einschließlich Gastbenutzer
 
 Dieser Artikel enthält einige häufig gestellte Fragen zu den [Sicherheitsanforderungen für Partner](partner-security-requirements.md) sowie die entsprechenden Antworten.
 
@@ -151,7 +147,7 @@ Das Feature für die Azure AD-Sicherheitsstandards sollte aktiviert sein. Altern
 
 ### <a name="will-enabling-mfa-effect-how-i-interact-with-my-customers-tenant"></a>Wirkt sich die Aktivierung der MFA darauf aus, wie ich mit meinem Kundenmandanten interagiere?
 
-Nein. Die Erfüllung dieser Sicherheitsanforderungen wirkt sich nicht auf die Verwaltung der Kunden aus. Die Möglichkeit, delegierte administrative Vorgänge auszuführen, wird nicht beeinträchtigt.
+Nein Die Erfüllung dieser Sicherheitsanforderungen wirkt sich nicht auf die Verwaltung der Kunden aus. Die Möglichkeit, delegierte administrative Vorgänge auszuführen, wird nicht beeinträchtigt.
 
 ### <a name="are-my-customers-subject-to-the-partner-security-requirements"></a>Unterliegen meine Kunden den Sicherheitsanforderungen für Partner?
 

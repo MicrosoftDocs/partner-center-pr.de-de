@@ -25,7 +25,7 @@
 ## [Marketplace-Prämien](marketplace-rewards.md)
 ## [Software Assurance-Programme](software-assurance-lp.md)
 ### [SATV-Programm (Software Assurance Training Voucher, Software Assurance-Trainingsgutschein) in Partner Center](software-assurance-satv.md)
-### [Software Assurance Planning Services in Partner Center](software-assurance-dps.md)
+### [Software Assurance-Planungsdienste in Partner Center](software-assurance-dps.md)
 #### [Berechtigungsvoraussetzungen für Planning Services-Projekte](software-assurance-dps-requirements.md)
 ## Rechnungen und Steuern
 ### [Rechnungen und Steuern im Microsoft Partner Network](mpn-view-print-maps-invoice.md)
@@ -42,6 +42,7 @@
 ## [Regionale CSP-Märkte und Währungen](regional-authorization-overview.md)
 ## [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](confirm-consent.md)
 ## [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag](confirm-customer-agreement.md)
+### [Wann muss die Zustimmung zur Kundenvereinbarung im Namen eines Kunden bestätigt werden?](attest-acceptance-customer-agreement.md)
 
 ## [Bewerben für den Verkauf in nationalen Clouds](csp-national-clouds-overview.md)
 ### [Partner Center für Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)

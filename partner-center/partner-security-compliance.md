@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
-ms.openlocfilehash: 47ab8306c83fb498383ca3c839bfe6ff7ddb0a46
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 6b1af593d4639cfc725da54b4e0f22cd1f3551ed
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75636991"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723457"
 ---
 # <a name="partner-security-requirements-status"></a>Status der Sicherheitsanforderungen für Partner
 
@@ -26,12 +26,8 @@ ms.locfileid: "75636991"
 - Alle Control Panel-Anbieter
 - Alle Berater
 
-**Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   Administrator-Agent
--   Abrechnungsadministrator
--   MPN-Partneradministrator
+**Geeignete Benutzer**
+-   Alle aktivierten Benutzer einschließlich Gastbenutzer
 
 Mehr Sicherheitsmaßnahmen für den Datenschutz und eine höhere Sicherheit gehören zu unseren obersten Prioritäten. Wir wissen, dass die beste Verteidigung die Prävention ist und dass wir nur so stark sind wie unser schwächstes Glied. Deshalb müssen alle in unserem Ökosystem handeln und sicherstellen, dass sie über angemessene Sicherheitsvorkehrungen verfügen. Zum Schutz von Partnern und Kunden führen wir eine Reihe von verbindlichen Sicherheitsanforderungen für Berater, Control Panel-Anbieter und Partner ein, die am Cloud Solution Provider-Programm teilnehmen.
 

@@ -1,7 +1,7 @@
 ---
 title: Azure-Plan-Preisliste | Partner Center
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie Sie in Partner Center die Preisliste für Abonnements unter dem Azure-Plan anzeigen können.
@@ -10,18 +10,18 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a0111883374fd12c3d4a2930347c0840231d437c
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 2d69fb316f2451b57af1e6e850d676c67cde5fa3
+ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722053"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76812642"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Preisliste für die neue E-Commerce-Benutzeroberfläche in CSP für Azure 
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Abrechnungsadministrator
 - Globaler Administrator
 - Helpdesk-Agent
@@ -34,7 +34,7 @@ Die Preisliste für die neue Azure E-Commerce-Benutzeroberfläche in CSP ist im 
 
 1. Wählen Sie im Menü des Partner Centers auf der linken Seite **Verkaufen** und dann **Marketplace** aus.
 
-2. Wählen Sie unter „Preise für Azure-Plan“ das Land/eine Region aus, für das Sie Preise aufrufen möchten.
+2. Wählen Sie unter „Preise für Azure-Plan“ das Land aus, für das Sie Preise aufrufen möchten.
 
 3. Wählen Sie neben **Exporttyp** die Option **Preise für Azure-Plannutzung**, **Preise für Azure-Planreservierungen** oder **Wechselkurse** aus. Hinweis: Die Option **Wechselkurse** ist nicht länderspezifisch.
 
@@ -71,11 +71,11 @@ Hinweis: Sie können zwei verschiedene Preislisten exportieren: Preise für Azur
 |ProductID   |Die ID des Produkts|
 |SKuId|Die ID der SKU|
 |SkuTitle|Der Titel oder Name der SKU|
-|Verleger|Der Originalanbieter ist immer Microsoft|
+|Herausgeber|Der Originalanbieter ist immer Microsoft|
 |SkuDescription|Beschreibung der SKU|
 |UnitOfMeasure|Die Einheiten die in Rechnung gestellt oder abgerechnet werden|
 |TermDuration|Bei Produkten mit Laufzeit die Länge der Laufzeit, auf Reservierungen anwendbar|
-|Markt|Der Markt, für den diese Preise gelten|
+|Market|Der Markt, für den diese Preise gelten|
 |Währung|Die Währung für die Preise|
 |UnitPrice|Preis pro Einheit|
 |PricingTierRangeMin|Bei mehrstufigen Preisen gilt der Mindestpreis|
@@ -86,4 +86,17 @@ Hinweis: Sie können zwei verschiedene Preislisten exportieren: Preise für Azur
 |MeterType|Typ der Verbrauchseinheit|
 |Tags|Eigenschaften des Artikels, bei Azure-Plan-Preisen ist die Azure oder Azure und Reservierungen (speziell für Reservierungen)|
 
-Ausführliche [Preislisteninformationen](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)  
+Preislisten für den Azure-Plan können auf der Seite [Azure-Planpreise und Marketplace](https://partner.microsoft.com/commerce/sales?type=Any&category=Any) exportiert werden.
+
+## <a name="pricing-api-for-azure-plan"></a>Preis-API für den Azure-Plan
+
+Mithilfe der [Preis-API](https://docs.microsoft.com/partner/develop/pricing) können Nutzungs- und Reservierungspreise für den Azure-Plan programmgesteuert abgerufen werden. Darüber hinaus können auch Wechselkurse abgerufen werden. 
+
+Die Preis-API befindet sich auf einem anderen Endpunkt als die anderen Partner Center-APIs. Die Preisinformationen umfassen Verbrauchseinheitspreise für Azure-Planressourcen und Reservierungspreise, die für Azure-Planabonnements gelten, in USD.
+
+Mit dieser API können Partner auch monatliche Wechselkurse abrufen, da die Preise für den Azure-Plan nur in USD angegeben sind. Mit den APIs können Preise und Wechselkurse sowohl für den aktuellen Monat als auch für vergangenen Monate abgerufen werden.
+
+>[!NOTE]
+> Die Preis-API bezieht sich speziell auf Preise für den Azure-Plan. Für Azure-Ressourcen oder -Reservierungen, die für Nicht-Azure-Planabonnements bereitgestellt werden, sollten weiterhin die bestehende RateCard-API und die Preislisten verwendet werden, die auf der Seite „Preise und Angebote“ im Partner Center veröffentlicht werden. Die Preis-API für den Azure-Plan unterstützt keine Software-, Marketplace- oder arbeitsplatzbasierten Preise wie Microsoft 365 oder Dynamics 365.
+
+Weitere Informationen zu Preisen für den Azure-Plan und zu Wechselkurs-APIs findest du in der vollständigen [Dokumentation zur Preis-API](https://docs.microsoft.com/partner/develop/pricing).

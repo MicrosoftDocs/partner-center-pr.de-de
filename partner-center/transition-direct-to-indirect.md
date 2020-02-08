@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Direktabrechnung, Übergang, indirekter Wiederverkäufer
-ms.openlocfilehash: 37085f151b2cff2a32026266423240417152b950
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860485"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044741"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer 
 
@@ -27,7 +27,7 @@ ms.locfileid: "76860485"
 
 Sie können sich unter Verwendung Ihres vorhandenen Direktabrechnungsmandanten beim Programm für indirekte Wiederverkäufer registrieren. 
 
-## <a name="get-started"></a>„Erste Schritte“
+## <a name="get-started"></a>Erste Schritte
 
 1. Vergewissern Sie sich, dass Ihr Partnerprofil in Partner Center und Ihre MPN-ID aktuell sind.
 
@@ -93,7 +93,7 @@ So erstellen Sie eine Einladung als indirekter Wiederverkäufer:
 
 1. Wählen Sie in Partner Center im linken Navigationsbereich die Option **Indirekte Anbieter** aus. 
 
-2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu bitten, eine Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter aufzubauen. Der Anbieter muss über eine Reseller-Beziehung mit Ihrem Kunden verfügen, damit er Bestellungen im Auftrag Ihres Kunden einreichen kann, wenn der Kunde neue Abonnements erwerben oder vorhandene Abonnements neue Lizenzen hinzufügen möchte.
+2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu einer Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzuladen. Der Anbieter muss über eine Reseller-Beziehung mit Ihrem Kunden verfügen, damit er Bestellungen im Auftrag Ihres Kunden einreichen kann, wenn der Kunde neue Abonnements erwerben oder vorhandene Abonnements neue Lizenzen hinzufügen möchte.
 
 3. Überprüfen Sie auf der nächsten Seite den E-Mail-Entwurf. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
 
@@ -187,7 +187,7 @@ Ihr indirekter Anbieter kann keine Bestellungen für Ihre bestehenden Kunden der
 
 1. Wählen Sie in Partner Center im linken Navigationsbereich die Option **Indirekte Anbieter** aus. 
 
-2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu bitten, eine Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter aufzubauen. Der Anbieter muss über eine Reseller-Beziehung mit Ihrem Kunden verfügen, damit er Bestellungen im Auftrag Ihres Kunden einreichen kann, wenn der Kunde neue Abonnements erwerben oder vorhandene Abonnements neue Lizenzen hinzufügen möchte. 
+2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu einer Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzuladen. Der Anbieter muss über eine Reseller-Beziehung mit Ihrem Kunden verfügen, damit er Bestellungen im Auftrag Ihres Kunden einreichen kann, wenn der Kunde neue Abonnements erwerben oder vorhandene Abonnements neue Lizenzen hinzufügen möchte. 
 
 3. Überprüfen Sie auf der nächsten Seite den E-Mail-Entwurf. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen. 
 
@@ -309,9 +309,9 @@ Nachdem Sie sich unter Ihrem vorhandenen Direktabrechnungspartner-Mandanten erfo
 
 Mit dem gleichen Partnermandanten können Sie sich auch für Incentive-Programme für die Direktabrechnung registrieren. Die Programme müssen separat verwaltet werden.
 
-## <a name="see-also"></a>Weitere Informationen: 
+## <a name="see-also"></a>Siehe auch 
 - [Weitere Informationen zu den Anforderungen an indirekte Wiederverkäufer](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
 - [Neue Anforderungen für direkte CSP-Partner](direct-partner-new-requirements.md)
-- [Eingeschränkte Funktionen der direkten Rechnung](restricted-direct-bill-capabilities.md)
+- [Eingeschränkte Direktabrechnungsfunktionen](restricted-direct-bill-capabilities.md)
 
 

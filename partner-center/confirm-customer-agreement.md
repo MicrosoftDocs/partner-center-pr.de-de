@@ -1,49 +1,64 @@
 ---
 title: Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag | Partner Center
 ms.topic: article
-ms.date: 01/07/2020
+ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Erfahren Sie, wie Sie die Kundenakzeptanz des Microsoft-Kunden Vertrags bestätigen. Dies kann erforderlich sein, um Microsoft-Produkte und-Dienste für Kunden zu bestellen.
+Description: Erfahre, wie du bestätigst, dass ein Kunde der Microsoft-Kundenvereinbarung zugestimmt hat. Dies kann erforderlich sein, um Microsoft-Produkte und -Dienste für Kunden zu bestellen.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Kunden, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Microsoft-Kundenvertrag, Vorlagen für Kundenverträge
-ms.localizationpriority: medium
-ms.openlocfilehash: 33eddc437360cb80071bf98187a7d4e23b820fb9
-ms.sourcegitcommit: 99a8b2daf52d455d33f15945d52efbcc8ff551c8
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: c9445ae24de16d25cf887299521eef8d6d793c6f
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "75752571"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012169"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Bestätigen Sie die kundenannahme des Microsoft-Kunden Vertrags.
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung
+
+**Zielgruppe**
+
+- Partner Center
+- Microsoft 365 Admin Center
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Vertriebsbeauftragter
 
-Derzeit muss der Kunde die anwendbare **Microsoft Cloud Vereinbarung**annehmen und signieren, bevor ein CSP-Partner die Bestellung im Auftrag eines Kunden platzieren kann. Anschließend muss der Partner seine Kundenzustimmung bestätigen, indem er Microsoft Informationen zum Signaturgeber zur Verfügung stellt. Wenn keine Bestätigung bereitgestellt wird:
-- Sie sind nicht in der Lage, neue Bestellungen für diesen Kunden zu erstellen.
-- Sie können die Anzahl der Arbeitsplätze vorhandener Arbeitsplatz basierter Abonnements für diesen Kunden nicht ändern.
+**Geeignete Partnertypen**
 
-Weitere Informationen dazu, wie Sie die Zustimmung eines Kunden zum Microsoft Cloud-Vertrag über das Partner Center-Dashboard oder die entsprechende API bestätigen können, finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](confirm-consent.md).
+- Indirekte Handelspartner, Partner mit direkter Abrechnung, indirekte Anbieter
 
-Am 1. Oktober 2019 stellt Microsoft den **Microsoft-Kundenvertrag** für das CSP-Programm vor, der den Microsoft Cloud-Vertrag ersetzt. Um die Migration von Partnern zum neuen Vertrag zu erleichtern, wird der aktuelle Microsoft Cloud-Vertrag noch bis zum 31. Januar 2020 im CSP-Programm unterstützt. Weitere Informationen zum zeitlichen Ablauf finden Sie in der folgenden Tabelle:
+
+Am 1. Oktober 2019 hat Microsoft die **Microsoft-Kundenvereinbarung** für das CSP-Programm eingeführt, die den Microsoft Cloud-Vertrag ersetzt. Zusätzliche Informationen findest du in den [Anleitungen](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fpartner-center%2Findirect-reseller-tasks-in-partner-center&data=02%7C01%7CChelsea.Kajs%40microsoft.com%7Cd5e0adc6b10646352ce508d7a4e84251%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637159189767080601&sdata=%2BPAWMBPVbVBkTx25r9CoD7cQxRqRVEYkxWIilrwwxZc%3D&reserved=0) für indirekte Handelspartner.
+
+ Um die Migration von Partnern zum neuen Vertrag zu erleichtern, wird der aktuelle Microsoft Cloud-Vertrag noch bis zum 31. Januar 2020 im CSP-Programm unterstützt. Partner können die Zustimmung des Kunden zur Microsoft-Kundenvereinbarung im Partner Center bestätigen. Ab sofort haben sie aber auch die Möglichkeit, den Kunden über eine URL einzuladen, damit dieser die Vereinbarung im authentifizierten Microsoft 365 Admin Center überprüfen und ihr zustimmen kann. Weitere Informationen zum zeitlichen Ablauf finden Sie in der folgenden Tabelle:
 
 | Datum | Meilenstein | Details |
 |------------|------------|--------------------------------|
 |1\. August 2019|In Sandbox verfügbare UX-Vorschau|Partner können die Zustimmung des Kunden zum Microsoft-Kundenvertrag über das Partner Center-Dashboard in der CSP-Sandboxumgebung bestätigen. Partner, die Zugriff auf die CSP-Sandboxumgebung haben, erhalten eine Vorschau auf die Änderungen bei der Benutzeroberfläche. Partner ohne Sandboxzugriff können sich in diesem Thema über die Änderungen informieren.|
 |03. September 2019|In Sandbox verfügbare API-Vorschau|Partner können die Zustimmung des Kunden zum Microsoft-Kundenvertrag über die Partner Center-API in der CSP-Sandboxumgebung bestätigen. API-Partner können diese Gelegenheit nutzen, um sich eine Vorschau der API-Änderungen anzusehen und mit der API-Integration zur Unterstützung des neuen Vertrags zu beginnen.|
-|20. September 2019|Vorschau des .NET SDK ist in Sandbox verfügbar.|Partner können die Zustimmung des Kunden zum Microsoft-Kundenvertrag über das Partner Center .NET SDK in der CSP-Sandboxumgebung bestätigen. API-Partner können diese Gelegenheit nutzen, um sich eine Vorschau der Änderungen des .NET SDK anzusehen und mit der API-Integration zur Unterstützung des neuen Vertrags zu beginnen.|
+|20. September 2019|Vorschau des .NET SDK ist in Sandbox verfügbar.|Partner können die Zustimmung des Kunden zum Microsoft-Kundenvertrag über das Partner Center .NET SDK in der CSP-Sandboxumgebung bestätigen. API-Partner können diese Gelegenheit nutzen, um sich eine Vorschau der Änderungen des .NET SDK anzusehen und mit der API-Integration zur Unterstützung des neuen Vertrags zu beginnen.|
 |1\. Oktober 2019|Microsoft-Kundenvertrag in der Produktionsumgebung verfügbar|Microsoft stellt den Microsoft-Kundenvertrag für das CSP-Programm vor, der den Microsoft Cloud-Vertrag ersetzt. Partner können die Zustimmung des Kunden zum Microsoft-Kundenvertrag über das Partner Center-Dashboard und die entsprechende API in der Produktionsumgebung bestätigen. Der Microsoft Cloud-Vertrag wird innerhalb des CSP-Partnerprogramms weiterhin unterstützt. Partnern wird jedoch empfohlen, mit der Migration zum Microsoft-Kundenvertrag zu beginnen. Neue Käufe und Änderungen an der Anzahl der Arbeitsplätze für vorhandene Abonnements erfordern eine Bestätigung des Microsoft-Kundenvertrags oder des Microsoft Cloud-Vertrags durch den Partner. Bestimmte neue Angebote (z. B. der neue Azure-Plan) erfordern eine Bestätigung des Microsoft-Kundenvertrags.|
 |31. Januar 2020|Microsoft Cloud-Vertrag aus der Produktionsumgebung entfernt|Der Microsoft Cloud-Vertrag wird innerhalb des CSP-Partnerprogramms nicht mehr akzeptiert. Neue Käufe und Änderungen an der Anzahl der Arbeitsplätze für vorhandene Abonnements erfordern eine Bestätigung des Microsoft-Kundenvertrags durch den Partner. Diese Anforderung gilt für neue Kunden und Bestandskunden, die möglicherweise zuvor den Microsoft Cloud-Vertrag angenommen haben.|
+|3\. Februar 2020|Der Partner hat jetzt die Möglichkeit, den Kunden über eine URL einzuladen, damit dieser die Vereinbarung im authentifizierten Microsoft 365 Admin Center überprüfen und ihr zustimmen kann. | Der Kunde kann der Microsoft-Kundenvereinbarung im Microsoft 365 Admin Center zustimmen. Wenn der Kunde der Vereinbarung direkt im Microsoft 365 Admin Center zustimmt, erkennt er die Nutzungsbedingungen an. 
 
-## <a name="access-microsoft-customer-agreement-template"></a>Auf Microsoft-Kunden Vertragsvorlage zugreifen
-Partner können die neueste Version der Microsoft-Kunden Vertragsvorlage [hier](https://aka.ms/customeragreement)manuell herunterladen. Beachten Sie, dass der Microsoft-Kundenvertrag länderspezifisch ist. Wenn Sie die Microsoft-Kunden Vertragsvorlage anfordern, achten Sie darauf, das richtige Land basierend auf dem Standort des Kunden auszuwählen. 
+Du kannst Kunden die folgenden beiden Optionen anbieten, um der Microsoft-Kundenvereinbarung zuzustimmen.  
 
-## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>Bestätigen der Kundenakzeptanz mithilfe der Partner Center-API/des SDK
-Partner können die Partner Center-API/das SDK verwenden, um die Kundenakzeptanz des Microsoft-Kunden Vertrags zu bestätigen. Ausführliche Informationen zur API/zum SDK finden Sie unter:
+**Option 1**: Der Partner bestätigt die Zustimmung des Kunden – Der Partner kann die Zustimmung des Kunden über die Partner Center-API, das Partner Center SDK oder das Partner Center-Dashboard bestätigen.
+
+**Option 2**: Der Kunde stimmt direkt zu – Der Partner kann den Kunden über eine URL einladen, damit dieser die Vereinbarung im Microsoft 365 Admin Center überprüfen und ihr zustimmen kann.
+
+## <a name="access-microsoft-customer-agreement-template"></a>Zugreifen auf die Vorlage für die Microsoft-Kundenvereinbarung
+
+[Hier](https://aka.ms/customeragreement) kannst du die neueste Version der Vorlage für die Microsoft-Kundenvereinbarung manuell herunterladen. Beachte, dass die Microsoft-Kundenvereinbarung länderspezifisch ist. Achte beim Anfordern der Vorlage für die Microsoft-Kundenvereinbarung darauf, basierend auf dem Standort des Kunden das richtige Land auszuwählen. 
+
+## <a name="option-1-confirm-customer-acceptance-using-partner-center-apisdk"></a>Option 1: Bestätigen der Zustimmung des Kunden über die Partner Center-API oder das Partner Center SDK
+
+Du kannst die Partner Center-API oder das Partner Center SDK verwenden, um die Zustimmung des Kunden zur Microsoft-Kundenvereinbarung zu bestätigen. Ausführliche Informationen zur API oder zum SDK findest du unter:
 
 - [Abrufen von Vertragsmetadaten für den Microsoft-Kundenvertrag](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
 
@@ -53,9 +68,9 @@ Partner können die Partner Center-API/das SDK verwenden, um die Kundenakzeptanz
 
 - [Abrufen eines Downloadlinks für die Vorlage des Microsoft-Kundenvertrags](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
 
-
 ## <a name="confirm-customer-acceptance-in-partner-center"></a>Bestätigen der Zustimmung des Kunden in Partner Center
-Partner können die Kundenakzeptanz des Microsoft-Kunden Vertrags im Partner Center für neue Kunden und vorhandene Kunden bestätigen. Wiederverkäufer können im Auftrag ihrer Kunden nicht nachweisen, dass Sie mit Ihrem indirekten Anbieter zusammenarbeiten müssen, um den Nachweis abzuschließen.
+
+Partner können die Zustimmung bestehender und neuer Kunden zur Microsoft-Kundenvereinbarung im Partner Center bestätigen. Handelspartner können keine Bestätigung im Namen ihrer Kunden abgeben und müssen mit ihrem indirekten Anbieter zusammenarbeiten, um den Vorgang abzuschließen.
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>Bestätigen der Kundenzustimmung für Neukunden
 
@@ -65,7 +80,7 @@ Wenn Sie in Partner Center einen Mandanten für einen Neukunden erstellen, führ
 
 2. Machen Sie unter **Kontoinformationen** Angaben zum Unternehmen und seinem primären Kontakt.
 
-3. Wählen Sie unter **Microsoft-Vertrag** die Option **Microsoft-Kundenvertrag** aus.
+3. Aktiviere unter der Option für die **Microsoft-Vereinbarung** das entsprechende Kontrollkästchen, um zu bestätigen, dass der Kunde der Microsoft-Kundenvereinbarung zugestimmt hat. 
 
 4. Geben Sie unter **Datum der Vertragsannahme** das entsprechende Datum ein. Dieses kann nicht auf ein Datum in der Zukunft festgelegt werden.
 
@@ -73,11 +88,11 @@ Wenn Sie in Partner Center einen Mandanten für einen Neukunden erstellen, führ
 
 6. Wählen Sie **Weiter** aus, um mit den verbleibenden Schritten zum Erstellen des Kundenmandanten fortzufahren.
 
-![Neukunde](images/mcua1.png)
+![Neukunde](images/mca/newcustomeragreement.jpg)  
 
 ### <a name="confirm-customer-acceptance-for-existing-customers"></a>Bestätigen der Kundenzustimmung für einen Bestandskunden
 
-Um die folgenden Schritte ausführen zu können, müssen Sie Administrator-Agent oder Vertriebsbeauftragter sein:
+Um die folgenden Schritte ausführen zu können, musst du Administrator-Agent oder Vertriebsbeauftragter sein:
 
 1. Wählen Sie **Kunden** aus. Suchen und wählen Sie den Kunden aus.
 
@@ -100,3 +115,83 @@ Mithilfe der folgenden Schritte können Sie eine Bestätigung abrufen, dass ein 
 2. Wählen Sie **Kontoinformationen** aus.
 
 3. Unter **Microsoft-Kundenvertrag** wird angezeigt, ob die Bestätigung durch diesen Kunden erfolgt ist.
+
+## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Option 2: Zustimmung des Kunden im Microsoft 365 Admin Center
+
+Partner können neue und bestehende Kunden über eine URL einladen, die Vereinbarung im Microsoft 365 Admin Center zu überprüfen und ihr zuzustimmen. In den nächsten Abschnitten wird Folgendes erläutert:
+
+- Erstellen eines Net New-Kunden und Einladen des Kunden, die Vereinbarung zu überprüfen und ihr zuzustimmen
+
+- Einladen eines neuen Kunden, die Handelspartnerbeziehung und -vereinbarung zu überprüfen und diesen zuzustimmen
+
+- Einladen eines bestehenden Kunden, die Vereinbarung zu überprüfen und ihr zuzustimmen
+
+## <a name="create-a-net-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>Erstellen eines Net New-Kunden und Einladen des Kunden, die Vereinbarung zu überprüfen und ihr zuzustimmen
+
+Mit den folgenden Schritten kannst du einen neuen Kunden im Partner Center erstellen und dann einladen, die Microsoft-Kundenvereinbarung im Microsoft 365 Admin Center zu überprüfen und ihr zuzustimmen.
+
+1. Wähle im Partner Center auf der Registerkarte **Kunden** die Option **Kunden hinzufügen** aus.
+
+2. Gib unter **Kontoinformationen** in allen Pflichtfeldern die Informationen zum neuen Kunden ein, darunter auch der Firmenname und Hauptkontakt des Kunden.
+
+3. Wähle unter **Kundenvereinbarung** die erste Option aus: **Customer will be asked to accept the Microsoft Customer Agreement in Microsoft 365 Admin Center** (Der Kunde wird aufgefordert, der Microsoft-Kundenvereinbarung im Microsoft 365 Admin Center zuzustimmen). Fülle alle weiteren Pflichtfelder auf der Seite aus.
+
+4. Wählen Sie **Weiter: Überprüfung** aus und führen Sie dann die Schritte zum Erstellen des Kundenmandanten aus. (Anmerkung: Neue Kunden können erst einen neuen Kauf tätigen, nachdem sie der Microsoft-Kundenvereinbarung zugestimmt haben.)  
+
+![Erstellen eines neuen Kunden](images/mca/create-new-customer.jpg)
+
+5. Sobald im Workflow für neue Kunden der Bildschirm **Bestätigung** angezeigt wird, musst du die Anmeldeinformationen des Kunden speichern. Diese Anmeldeinformationen musst du später dem Kunden mitteilen.
+
+6. Erstelle und sende außerhalb von Partner Center eine E-Mail, um den Kunden einzuladen, der Microsoft-Kundenvereinbarung im Microsoft 365 Admin Center zuzustimmen. Die folgenden Elemente müssen in der E-Mail enthalten sein:
+
+   - Ein Link zu dieser [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) (Anmeldung erforderlich)
+   - Die in Schritt 5 gespeicherten Anmeldeinformationen des Kunden
+
+7. Der Kunde erhält dann die E-Mail-Einladung vom Partner und wählt die [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) aus.
+
+8. Der Kunde meldet sich mit den zuvor vom Partner erhaltenen Kundenanmeldeinformationen beim Microsoft 365 Admin Center an.
+
+9. Anschließend aktiviert der Kunde das entsprechende Kontrollkästchen, um der Microsoft-Kundenvereinbarung zuzustimmen.
+
+## <a name="invite-a-new-customer-to-review-and-accept-the-reseller-relationship-and-microsoft-customer-agreement"></a>Einladen eines neuen Kunden, die Handelspartnerbeziehung und Microsoft-Kundenvereinbarung zu überprüfen und diesen zuzustimmen 
+
+Mit den folgenden Schritten kannst du einen neuen Kunden einladen, die Handelspartnerbeziehung und Microsoft-Kundenvereinbarung zu überprüfen und diesen zuzustimmen. 
+
+1. Wähle im Partner Center auf der Registerkarte **Kunden** den Link **Vertriebspartnerschaft beantragen** aus. 
+
+2. Dadurch wird eine automatische E-Mail-Vorlage generiert, die Text und eine parametrisierte URL enthält, durch die der Kunde zum Microsoft 365 Admin Center weitergeleitet wird.
+
+3. Du kannst die automatisch generierte E-Mail-Vorlage anpassen und dann **In Zwischenablage kopieren** oder **In E-Mail öffnen** auswählen.
+
+4. Verwende diese E-Mail-Vorlage, um den Kunden einzuladen, dem Antrag auf eine **Handelspartnerschaft** und der **Microsoft-Kundenvereinbarung** zuzustimmen. (Anmerkung: Achte darauf, dass der Partner in der E-Mail-Einladung auch die automatisch bereitgestellte URL und die kürzlich erstellten Kundenanmeldeinformationen angibt.)
+
+![Erstellen einer Beziehung](images/mca/createrelationship.jpg)
+
+5. Der Kunde empfängt die Einladung per E-Mail und klickt auf die parametrisierte URL. 
+
+6. Der Kunde verwendet die vom Partner in der E-Mail bereitgestellten Anmeldeinformationen, um sich beim Microsoft 365 Admin Center anzumelden.
+
+7. Der Kunde aktiviert das Kontrollkästchen, um der **Handelspartnerbeziehung** und **Microsoft-Kundenvereinbarung** zuzustimmen. 
+
+8. Der Kunde kann unter derselben URL eine konsolidierte Liste verschiedener Partner anzeigen, mit denen er zusammenarbeitet. Er kann einen Partner auswählen, um Details anzuzeigen.
+
+![Zustimmen zur Vereinbarung](images/mca/accept.jpg)
+
+## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Einladen eines bestehenden Kunden, die Vereinbarung zu überprüfen und ihr zuzustimmen
+
+Mit den folgenden Schritten kannst du einen bestehenden Kunden einladen, die Microsoft-Kundenvereinbarung zu überprüfen und ihr zuzustimmen. 
+
+1. Erstelle die Kunden-E-Mail mit der eingebetteten URL, um deinen Kunden einzuladen, der Microsoft-Kundenvereinbarung zuzustimmen.
+
+2. Der Kunde erhält die Einladung per E-Mail und klickt auf die [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement). 
+
+3. Der Kunde gibt seine Anmeldeinformationen im Microsoft 365 Admin Center ein.
+
+4. Der Kunde aktiviert das Kontrollkästchen, um der Microsoft-Kundenvereinbarung zuzustimmen. 
+
+5. Der Kunde kann unter derselben URL die konsolidierte Liste verschiedener Partner anzeigen, mit denen er zusammenarbeitet. Er kann einen Partner auswählen, um Details anzuzeigen.
+
+![Kunde](images/mca/customeraccept.png)
+
+>[!NOTE]
+>In bestimmten Szenarien können Kunden der Microsoft-Kundenvereinbarung u. U. nicht direkt zustimmen. Weitere Informationen zu diesen Situationen findest du unter [Zwei Szenarien, in denen du die Zustimmung im Namen deines Kunden bestätigen musst](attest-acceptance-customer-agreement.md).

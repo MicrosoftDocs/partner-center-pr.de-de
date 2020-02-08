@@ -1,7 +1,7 @@
 ---
 title: CSP-Vereinbarungen, Preislisten und Angebote | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 02/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: In diesem Artikel finden Sie Links zu Programmleitfäden, Partnervereinbarungen, Kundenverträgen, Preislisten und Angeboten für Cloud Solution Provider.
@@ -10,16 +10,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote
 ms.localizationpriority: high
-ms.openlocfilehash: 8c7543b00b45a2c690064b8b50caa4737ef5bb7d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 6a22599a986fed7e67b15a279ae8a2ddba598cec
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252124"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012108"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Programmleitfaden, Vereinbarungen, Preislisten und Angebote zu Cloud Solution Provider
 
-**Gilt für**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -40,12 +40,14 @@ Lesen Sie die Anforderungen, wie Sie ein Partner im CSP-Programm werden.
 
 [Ergänzende Angebotsbedingungen zu den Online Services-Abonnements und der Softwarekanalautorisierung](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
-## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud Agreement – Kundenvorlagen
+## <a name="microsoft-customer-agreement-customer-templates"></a>Microsoft-Kundenvereinbarung – Kundenvorlagen
 
-Bevor Sie eine Bestellung im Auftrag eines Kunden aufgeben können, muss der Kunde den entsprechenden Microsoft Cloud-Vertrag akzeptieren und unterzeichnen. Microsoft Cloud-Verträge sind regionsspezifisch und in mehreren Sprachen verfügbar. Wechseln Sie zu [Kundenvorlagen](agreements.md) für Microsoft Cloud-Verträge, um den Microsoft Cloud-Vertrag zu finden, den Sie mit neuen Kunden überprüfen müssen.
+Bevor du eine Bestellung im Auftrag eines Kunden aufgeben kannst, muss der Kunde der geltenden Microsoft-Kundenvereinbarung zustimmen und diese unterzeichnen. Microsoft-Kundenvereinbarungen sind regionsspezifisch. Achte darauf, basierend auf dem Standort des Kunden das richtige Land auszuwählen.
+
+Wähle diese [URL](https://aka.ms/customeragreement) aus, um die neueste Version der Vorlage für die Microsoft-Kundenvereinbarung manuell herunterzuladen.
 
 >[!IMPORTANT]
->Sie müssen bestätigen, dass ein Kunde dem Microsoft Cloud-Vertrag zugestimmt hat, indem Sie Informationen über die Person bereitstellen, die den Vertrag unterzeichnet hat. Siehe [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](confirm-consent.md). 
+>Du musst bestätigen, dass ein Kunde der Microsoft-Kundenvereinbarung zugestimmt hat. Dazu bestätigst du entweder, dass der Kunde der Vereinbarung zugestimmt hat, oder du forderst den Kunden auf, der Vereinbarung direkt zuzustimmen. Siehe [Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung](confirm-customer-agreement.md).
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Berufsgeheimnisträger Zusatzvereinbarung für den Microsoft Cloud-Vertrag (Deutschland)
 

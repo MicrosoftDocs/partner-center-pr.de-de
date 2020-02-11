@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: Marketplace-Angebote, Marketingunterstützung, Bonus, Vorteile des Herausgebers
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ed3def75a294b5b6050eedccb1cf8d6a5bebfc0
-ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
+ms.openlocfilehash: 3fadda03e0a879aabf858954d0bea55414e81137
+ms.sourcegitcommit: 37aae4668fb7dbf0e262d1e2d0395ced2745bef9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "76171203"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "77075615"
 ---
 # <a name="manage-marketplace-rewards"></a>Verwalten von Marketplace-Angeboten
 
@@ -23,7 +23,7 @@ Geeignete Rollen:
 
 - MPN-Partneradministrator
 - Globaler Administrator
-- Administrator-Agent
+- Administratoragent
 
 Wenn Sie Software Angebote in unserem kommerziellen Marketplace veröffentlichen, bietet Marketplace-Prämien gezielte Unterstützung für alle Angebote mit Marketing-, Vertriebs-und technischen Vorteilen. 
 
@@ -38,9 +38,9 @@ Die Berechtigungs Berechtigung für Marketplace-Prämien wird basierend auf alle
 
 3. Um Ihre Marketing Kontaktinformationen hinzuzufügen oder zu aktualisieren, klicken Sie auf der Registerkarte "Sales and Marketing Benefits" auf der Marketplace-Bonusseite auf " **Hinzufügen", "Aktualisieren" oder "ändern**". 
 
-Gehen Sie anschließend wie folgt vor:
+Führen Sie als nächstes die folgenden Schritte aus:
 
-  - Wählen Sie einen Benutzer aus der Liste aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste enthalten ist, können Sie neue Benutzer in den Kontoeinstellungen hinzufügen.
+  - Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste enthalten ist, können Sie neue Benutzer in den Kontoeinstellungen hinzufügen.
 
   - Geben Sie für den Benutzer eine E-Mail-Adresse ein, die sich von der E-Mail-Adresse unterscheidet, die dem Partner Center-Konto Ihres Unternehmens zugeordnet ist. Wir senden Ihnen eine e-Mail mit Anweisungen zur Nutzung Ihres Marketplace-Bonus Vorteils an die e-Mail-Adresse Ihres designierten Marketing Kontakts.
 
@@ -54,9 +54,9 @@ Gehen Sie anschließend wie folgt vor:
 
 2. Die Nutzung der Vorteile von Azure-Sponsoring wird über eine e-Mail freigegeben, wenn Sie diese Vorteile entsperren. 
 
-## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>Warum kann ich das Marketplace-Programm für kommerzielle Belohnungen nicht auf meinem Dashboard sehen?
+## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>Warum kann ich das Programm für kommerzielle Marketplace-Prämien nicht auf meinem Dashboard sehen?
 
-Die Marketplace-Bonus Informationen sind über den Azure AD-Mandanten und die MPN-ID verfügbar, die zum Erstellen Ihres Partner Center-Kontos verwendet wurde. Dieses Konto wird als globales Partner Konto (Partner Global Account, PGA) Ihres Unternehmens bezeichnet. Wenn sich Ihr Aad-Mandant von dem, der für das MPN-Onboarding verwendet wird, von dem unterscheidet, damit Sie das Marketplace-Menü für den kommerziellen Bonus anzeigen können, müssen Sie es der PGA-Version Ihres Unternehmens zuordnen. 
+Die Marketplace-Bonus Informationen sind über den Azure AD-Mandanten und die MPN-ID verfügbar, die zum Erstellen Ihres Partner Center-Kontos verwendet wurde. Dieses Konto wird als globales Partner Konto (Partner Global Account, PGA) Ihres Unternehmens bezeichnet. Wenn sich Ihr Azure AD Mandanten von dem für das MPN-Onboarding verwendeten Mandanten unterscheidet, damit Sie das Marketplace-Menü für den kommerziellen Bonus anzeigen können, müssen Sie es der PGA-Version Ihres Unternehmens zuordnen. 
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>So ordnen Sie einen Azure AD Mandanten der PGA Ihres Unternehmens zu
 

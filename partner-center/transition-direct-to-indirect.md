@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Direktabrechnung, Übergang, indirekter Wiederverkäufer
-ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
-ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
+ms.openlocfilehash: d02b6101384b6c9fae986bbe45ce4865fd450308
+ms.sourcegitcommit: b74437db6aead02c9be3b865d36086f750802041
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "77044741"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "77213338"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer 
 
@@ -137,7 +137,7 @@ Direktabrechnungskunden und Kunden für den indirekten Wiederverkauf werden unte
 
 ## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Migrieren Ihrer Direktabrechnungskunden zu Ihrem indirekten Anbieter
 
-Ihr indirekter Anbieter kann keine Bestellungen oder vorhandenen Abonnement Übertragungen für Ihre bestehenden Kunden der direkt Rechnung übermitteln, bis Sie über eine Reseller-Beziehung verfügen. Sie können eine der folgenden Methoden verwenden, um die Reseller-Beziehung zwischen Ihrem indirekten Anbieter und dem vorhandenen indirekten Anbieter herzustellen: 
+Ihr indirekter Anbieter kann keine Bestellungen oder vorhandenen Abonnement Übertragungen für Ihre bestehenden Kunden der direkten Abrechnung übermitteln, bis Sie über eine Reseller-Beziehung verfügen. Sie können eine der folgenden Methoden verwenden, um die Reseller-Beziehung zwischen Ihrem indirekten Anbieter und Ihrem bestehenden Kunden der direkt Rechnung herzustellen: 
 
 - [Reseller Relationship-Erweiterung](#reseller-relationship-extension) 
 
@@ -160,7 +160,7 @@ Mit dem Feature für die Reseller-Beziehungs Erweiterung können Sie eine Resell
 
 - Ihr indirekter Anbieter wird nicht mit [Delegierten Administratorrechten](customers_revoke_admin_privileges.md) für den Kunden Mandanten bereitgestellt. Wenn Ihr indirekter Anbieter Delegierte Administratorrechte erfordert, müssen Sie stattdessen eine indirekte Reseller-Einladung an den Kunden senden.
 
-- Sobald die Reseller-Beziehung eingerichtet ist, wird der indirekte Anbieter als CSP-Partner für den Kunden auf der Seite Partnerbeziehungen in M365 Admin Center und [Microsoft Store for Business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)angezeigt.
+- Sobald die Reseller-Beziehung eingerichtet ist, wird der indirekte Anbieter als CSP-Partner für den Kunden auf der Seite Partnerbeziehungen in [M365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/partners) und [Microsoft Store for Business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)angezeigt.
 
 >[!Note] 
 >Um Verwirrung und Missverständnisse zu vermeiden, werden Sie von Ihrem Partnervertrag vertraglich dazu verpflichtet, die Zustimmung des Kunden Vertrags zu übermitteln, bevor Sie mit dem Relationship-Erweiterungs Feature eine Reseller-Beziehung zwischen einem vorhandenen Direct Bill Customer und ein indirekter Anbieter. 
@@ -197,6 +197,22 @@ Ihr indirekter Anbieter kann keine Bestellungen für Ihre bestehenden Kunden der
 
 6. Erweitere zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem du neben seinem Namen auf den nach unten weisenden Pfeil klickst. 
 
+### <a name="microsoft-customer-agreement-acceptance"></a>Zustimmung des Microsoft-Kunden Vertrags
+
+Microsoft Cloud Vereinbarung ist bis zum 31. Januar 2020 gültig. Nach diesem Datum müssen alle Kunden, vorhandene und neue, den neuen Microsoft- [Kundenvertrag](https://docs.microsoft.com/partner-center/confirm-customer-agreement)signieren. Für den Übergang von Kunden:
+
+- **Der Kunde hat den Microsoft-Kundenvertrag noch nicht akzeptiert.**
+
+   Arbeiten Sie mit dem indirekten Anbieter zusammen, damit [der Kunde den Microsoft-Kundenvertrag akzeptiert]( https://docs.microsoft.com/partner-center/confirm-customer-agreement).
+
+- **Der Kunde hat den Microsoft-Kundenvertrag über das Microsoft 365 Admin Center akzeptiert.**
+
+   Die Annahme wird beibehalten, sobald die Reseller-Beziehung mit dem indirekten Anbieter hergestellt wird. Es gibt nichts, was Sie tun müssen.
+
+- **Der Kunde hat den Microsoft-Kundenvertrag über den Partner Nachweis akzeptiert.**
+
+   Die Annahme wird nicht beibehalten. Arbeiten Sie mit dem indirekten Anbieter zusammen, um [die Zustimmung des Kunden in Partner Center zu aktualisieren]( https://docs.microsoft.com/partner-center/confirm-customer-agreement#confirm-customer-acceptance-for-existing-customers).
+
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>Vorhandene direkte Abrechnungs Abonnements an indirekten Anbieter übertragen
 
 Beim indirekten CSP-Modell haben indirekte Reseller keine Abrechnungs Beziehungen mit Microsoft. Stattdessen erhalten indirekte Vertriebspartner Abonnements für Ihre Kunden über ihre indirekten Anbieter. Bei der Umstellung von Direct Bill Partner auf indirekte Reseller müssen Sie die vorhandenen Abonnements, die Sie als direkten Rechnungs Partner haben, an Ihren indirekten Anbieter übertragen. Sie können das Feature für die Self-served-Abonnement Übertragung im Partner Center-Dashboard verwenden, um dies zu tun. 
@@ -208,6 +224,8 @@ Beachten Sie vor der Verwendung des Features Folgendes:
 - Diese Funktion steht nur für den Übergang von Partnern zur Verfügung, die die indirekte Registrierung des Wiederverkäufers mithilfe Ihrer vorhandenen direkt Rechnungs Partner Mandanten abgeschlossen haben. 
 
 - Vor der Übertragung von Abonnements, die einem bestimmten Kunden zugeordnet sind, muss der Übergangs Partner den Kunden zu einem indirekten Anbieter verschieben. 
+
+- Der Kunde hat [den Microsoft-Kundenvertrag über den indirekten Anbieter akzeptiert](#microsoft-customer-agreement-acceptance).
  
 ### <a name="how-to"></a>Anleitungen
 
@@ -293,13 +311,15 @@ Der Übergangs Partner sollte folgende Aktionen ausführen:
  
 ### <a name="considerations"></a>Überlegungen
 
+- **Die Abonnement-ID wird nach der Übertragung anders sein.** Wenn es sich um ein Azure-Abonnement (MS-AZR-0145p) handelt, wird zusätzlich eine Azure-Abonnement-ID verwendet, die vom vorherigen Besitzer aufbewahrt wird und im Azure-Verwaltungs Portal angezeigt wird.
+
 - **Auf dasselbe Abonnement kann nicht von mehreren Übertragungsanforderungen verwiesen werden.** Nachdem Sie eine Übertragungs Anforderung erstellt haben, die ein vorhandenes Abonnement enthält, können Sie keine zusätzlichen Übertragungsanforderungen einschließlich desselben Abonnements erstellen, bis die erste Übertragungs Anforderung abgebrochen wurde. 
 
 - **Add-ons für Arbeitsplatz basierte Abonnements müssen zusammen mit Ihrem Basis Abonnement übertragen werden.** Wenn Sie beim Erstellen einer Übertragungs Anforderung ein vorhandenes Abonnement mit einem oder mehreren Add-ons auswählen, werden die Add-ons automatisch in die Übertragungs Anforderung eingeschlossen. 
 
 - **Die Anzahl der Arbeitsplatz Änderungen an einem Abonnement wird in der vorhandenen Übertragungs Anforderung nicht widergespiegelt.** Nachdem Sie eine Übertragungs Anforderung erstellt haben, die ein vorhandenes Abonnement enthält, sollten Sie das Aktualisieren der Arbeitsplatz Menge des Abonnements (oder der zugehörigen Addons) vermeiden. Wenn Sie dies tun, wird die neue Menge in der Übertragungs Anforderung nicht berücksichtigt. Nachdem der indirekte Anbieter die Übertragungs Anforderung akzeptiert hat, weist das resultierende Abonnement die alte Menge auf. Wenn Sie möchten, dass die neue Menge an den indirekten Anbieter übertragen wird, müssen Sie die vorhandene Übertragungs Anforderung abbrechen und eine neue erstellen. 
 
-- **Nicht alle Käufe können mithilfe der Self-served-Abonnement Übertragung übertragen werden.** Derzeit können Sie mit diesem Feature nur O365-Abonnements und Azure-pagy-Abonnements (MS-AZR-0145p) übertragen. Weitere Käufe einschließlich Azure-Pläne, reservierte Azure-Instanzen, Begriffs basierte Abonnements und Saas-Abonnements für Azure Marketplace werden nicht unterstützt. Der Grund für das übertragen eines Abonnements auf der Seite "Übertragungs Anforderung senden" wird angezeigt.
+- **Nicht alle Käufe können mithilfe der Self-served-Abonnement Übertragung übertragen werden.** Derzeit können Sie mit diesem Feature nur O365-Abonnements und Azure-pagy-Abonnements (MS-AZR-0145p) übertragen. Weitere Käufe einschließlich Azure-Pläne, reservierte Azure-Instanzen, Begriffs basierte Abonnements und Saas-Abonnements für Azure Marketplace werden nicht unterstützt. Der Grund für das übertragen eines Abonnements auf der Seite "Übertragungs Anforderung senden" wird angezeigt. Um diese Abonnements zu übertragen, müssen Sie [das vorhandene Abonnement Abbrechen](https://docs.microsoft.com/partner-center/create-a-new-subscription#suspend-or-cancel-a-subscription) und ein neues Angebot für Kunden über den indirekten Anbieter erwerben.
 
 - **Kann nicht über die Sandbox Umgebung getestet werden.** 
 

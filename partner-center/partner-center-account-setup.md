@@ -51,7 +51,7 @@ Um die Kontoeinstellungen zu verwalten, musst du die entsprechende Kontoeinstell
 |Kommerzieller Marketplace|Entwickler|
 |Windows und Xbox|Entwickler|
 |Office Store|Entwickler|
-|Edge-Erweiterungen|Entwickler|
+|Microsoft Edge-Erweiterungen|Entwickler|
 
 ## <a name="the-differences-in-partner-and-developer-settings-options"></a>Unterschiede bei den Optionen für Partnereinstellungen und Entwicklereinstellungen
 

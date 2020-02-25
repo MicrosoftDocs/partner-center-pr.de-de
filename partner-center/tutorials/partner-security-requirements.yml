@@ -8,12 +8,12 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
-  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
-  ms.translationtype: MT
+  ms.openlocfilehash: b3dc7dcbcea316500521071f332e7b7817bbcfb2
+  ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+  ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 10/16/2019
-  ms.locfileid: "72425212"
+  ms.lasthandoff: 02/21/2020
+  ms.locfileid: "77521033"
 items:
 - title: Einführung
   durationInMinutes: 5
@@ -25,7 +25,7 @@ items:
 - title: Welche Sicherheitsanforderungen gelten für Partner?
   durationInMinutes: 1
   content: >
-    Alle Partner, die am Cloud Solution Provider-Programm teilnehmen, Systemsteuerungsanbieter oder Advisor-Partner sind verpflichtet, mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für jeden Benutzer in ihrem Partnermandanten durchzusetzen. Dies kann durch Aktivieren von zwei [Azure Active Directory-Baselinerichtlinien](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) erreicht werden. Baselinerichtlinien sind eine Reihe von vordefinierten Richtlinien, die dabei helfen, Unternehmen vor vielen allgemeinen Angriffen zu schützen. Diese allgemeinen Angriffe können Password Spray, Replay und Phishing einbeziehen. Basisrichtlinien sind in allen Editionen von Azure Active Directory verfügbar. Microsoft stellt diese Basisschutzrichtlinien allen Benutzern zur Verfügung, weil identitätsbasierte Angriffe seit einigen Jahren zunehmen.
+    Alle Partner, die am Cloud Solution Provider-Programm teilnehmen, Systemsteuerungsanbieter oder Advisor-Partner sind verpflichtet, mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für jeden Benutzer in ihrem Partnermandanten durchzusetzen. Diese kann durch Aktivieren von zwei [Azure Active Directory-Baselinerichtlinien](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) erzwungen werden. Baselinerichtlinien sind eine Reihe von vordefinierten Richtlinien, die dabei helfen, Unternehmen vor vielen allgemeinen Angriffen zu schützen. Diese allgemeinen Angriffe können Password Spray, Replay und Phishing einbeziehen. Basisrichtlinien sind in allen Editionen von Azure Active Directory verfügbar. Microsoft stellt diese Basisschutzrichtlinien allen Benutzern zur Verfügung, weil identitätsbasierte Angriffe seit einigen Jahren zunehmen.
 
 
     Die beiden Baselinerichtlinien, die aktiviert müssen, werden in der folgenden Tabelle beschrieben.
@@ -45,7 +45,7 @@ items:
 
     > [!IMPORTANT]
 
-    > Da MFA für jeden Benutzer im Partnerverzeichnis erzwungen wird, hat dies Auswirkungen auf jede Automatisierung oder Integration, die Benutzeranmeldeinformationen verwendet. Um diesen Auswirkungen zu begegnen, müssen Sie die Art und Weise ändern, wie Ihre Automatisierung oder Integration eine Verbindung mit kommerziellen Clouddiensten von Microsoft herstellt. Wenn der Dienst, mit dem Sie eine Verbindung herstellen, tokenbasierte Authentifizierung unterstützt, wird empfohlen, dass Sie das Framework [Sicheres Anwendungsmodell](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) implementieren.
+    > Da MFA für jeden Benutzer im Partnerverzeichnis erzwungen wird, hat dies Auswirkungen auf jede Automatisierung oder Integration, die Benutzeranmeldeinformationen verwendet. Um diese Auswirkungen zu berücksichtigen, müssen Sie die Methode ändern, durch die die Automatisierung oder Integration mit kommerziellen Clouddiensten von Microsoft verbunden wird. Wenn der Dienst, mit dem Sie eine Verbindung herstellen, die tokenbasierte Authentifizierung unterstützt, wird empfohlen, das Framework [Sicheres Anwendungsmodell](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) zu implementieren.
 - title: Wie aktiviere ich die Baselinerichtlinie „MFA für Administratoren erfordern“?
   durationInMinutes: 5
   content: >
@@ -94,7 +94,7 @@ items:
     > Bevor Sie diese Richtlinie aktivieren, stellen Sie sicher, dass Ihre Benutzer keine Legacy-Authentifizierungsprotokolle verwenden. Weitere Informationen finden Sie im Artikel [Vorgehensweise: Blockieren der Legacyauthentifizierung bei Azure AD durch bedingten Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use).
 
 
-    Sobald Sie die Baselinerichtlinie *MFA für Administratoren erfordern* aktiviert haben, gestaltet sich der Anmeldevorgang für Benutzer anders, die Mitglied der oben aufgeführten Administratorrollen sind. Die folgenden Änderungen sind das, was die von dieser Richtlinie betroffenen Benutzer erwartet:
+    Sobald Sie die Baselinerichtlinie *MFA für Administratoren anfordern* aktiviert haben, ändert sich der Anmeldevorgang für Benutzer, die Mitglied der oben aufgeführten Administratorrollen sind. Die folgenden Änderungen sind das, was die von dieser Richtlinie betroffenen Benutzer erwartet:
 
       ![Anfordern weiterer Informationen](../images/security/baseline-require-more-info.png)
 
@@ -135,7 +135,7 @@ items:
     > Bevor Sie diese Richtlinie aktivieren, stellen Sie sicher, dass Ihre Benutzer keine Legacy-Authentifizierungsprotokolle verwenden. Weitere Informationen finden Sie im Artikel [Vorgehensweise: Blockieren der Legacyauthentifizierung bei Azure AD durch bedingten Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use).
 
 
-    Nachdem Sie die Baselinerichtlinie *Endbenutzerschutz* aktiviert haben, gestaltet sich der Anmeldevorgang für alle Benutzer anders. Die folgenden Änderungen sind das, was Benutzer erwartet:
+    Nachdem Sie die Baselinerichtlinie *Endbenutzerschutz* aktiviert haben, ändert sich der Anmeldevorgang für alle Benutzer. Die folgenden Änderungen sind das, was Benutzer erwartet:
 
       ![Anfordern weiterer Informationen](../images/security/baseline-require-more-info.png)
 

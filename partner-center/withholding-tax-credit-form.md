@@ -1,115 +1,95 @@
 ---
 title: Stellen Sie sicher, dass Sie für die zurück Haltungs Steuern Partner Center
 ms.topic: article
-ms.date: 11/07/2019
-description: Stellen Sie sicher, dass Ihr Partner Center-Konto für die zurück Haltungs Steuern gutgeschrieben ist, und Service Request öffnen Sie ggf
+ms.date: 2/16/2020
+description: Stellen Sie sicher, dass Ihr Partner Center-Konto für die zurück Haltungs Steuern vorgesehen ist, indem Sie im Partner Center eine Anforderung zum Steuern der
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: LauraBrenner
-ms.author: labrenne
-keywords: Finanz Guthaben, Steuergutschriften, deutsche Steuergutschrift, Formular Steuergutschrift
+author: brentserbus
+ms.author: brserbus
+keywords: zurückbehalten von Steuer Guthaben, Steuer Guthaben, deutschen Steuer Guthaben, Steuer Zertifikaten
 ms.localizationpriority: medium
-ms.openlocfilehash: 98449ae99b0acc549ba10129c49102d4e498b96b
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 99b08766efa17f1ee0d52ec88147989f1f11047b
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943163"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521003"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Sicherstellen einer Gutschrift durch Steuereinbehaltung
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Stellen Sie sicher, dass Sie für die zurück Haltungs Steuern
 
-Betrifft
+Betrifft:
 
 - Partner Center
 
-In diesem Thema wird erläutert, wie Sie sicherstellen, dass Sie für die zurück Haltungs Steuern im Partner Center gutgeschrieben werden. Es wird erläutert, wie Sie eine Service Request mit dem globalen Steuerformular für die Zurückhaltung oder dem Steuerformular zum Zurücksetzen der Steuer für Deutschland
+In diesem Thema wird erläutert, wie Sie sicherstellen, dass Sie für die zurück Haltungs Steuern im Partner Center gutgeschrieben werden. Darin wird erläutert, wie Sie eine steuerungskentungs-Anforderung im Partner Center erstellen.
+
+## <a name="overview"></a>Übersicht
+
+CSP-Partner in einigen Ländern erhalten Rechnungsbeträge, die Steuern enthalten. Einige dieser Partner zahlen Ihre lokale Steuer Autorität anstelle von Microsoft. Diese Partner müssen eine Tax-Kennungen einschließlich Ihres Steuer Zertifikats einreichen, um den angeforderten Betrag aus vorherigen Rechnungen zu löschen. Diese gelöschten Beträge werden in nachfolgenden monatlichen Rechnungen als Gutschrift angezeigt, sodass der Partner Microsoft nicht mehr den unbezahlten Betrag hat.
+
+Ab dem 2020 müssen CSP-Partner auf der Abrechnungs Seite steuern, dass Sie auf der **Abrechnungs Seite** steuern, anstatt Support Anfragen zu erstellen. Um die Anforderungen auf der Abrechnungs Seite zu übermitteln, sollten CSP-Partner in das **Partner Center** wechseln und im linken Navigationsbereich auf **Abrechnung** klicken. Die **Seite "Abrechnung** " ist der neue Speicherort zum Übermitteln von steuerungsabkenforderungen 
+
+### <a name="submit-a-new-tax-withholding-request"></a>Übermitteln einer neuen Anforderung zum Steuern von Steuerquellen
+
+Führen Sie die folgenden Schritte aus, um eine neue Steuer gegen übereinhaltung
+
+1. Melden Sie sich beim Partner Center-Dashboard an.
+2. Wählen Sie im Menü auf der linken Seite die Option **Abrechnung** aus.
+3. Suchen Sie im Abschnitt **Abrechnungs Verlauf** der **Abrechnungs** Seite nach der Rechnung, für die Sie die Steuererklärungen übermitteln möchten.
+4. Klicken Sie auf " **neu senden** ", sodass Sie zur neuen Seite " **steuerungszurückhaltungs Anforderungen** " gelangen.
+
+![Übermitteln von neuen Steuermitteln für eine Rechnung](images/wht1.png)
+
+5. Überprüfen Sie die Rechnungsdetails, um sicherzustellen, dass Sie die Anforderung für die richtige Rechnung einreichen.
+
+![Ausführliche Informationen zu Steuerinformationen für eine Rechnung](images/wht2.png)
+
+6. Geben Sie unter **Steuern der Steuerinformationen**das Ergebnis "Gesamtsumme" ein. Die "Summe der Summe" ist der Betrag, den Sie erwarten.
+7. **Fügen** Sie ein Steuer Zertifikat an. Sie müssen eine **digitale Kopie** ihrer zurück **Haltungs Steuer Zertifikate** in Ihre Steuern. Sie haben dieses Zertifikat von Ihrer lokalen Steuerbehörde erhalten, als Sie Ihre Anfrage im Partner Center eingereicht haben. Wenn Sie ein **nicht englischsprachiges sprach Steuer Zertifikat** mit dem **steuerungspaltenanforderungs-Prozess**übermitteln, müssen Sie eine **Übersetzung** des Steuer Zertifikats einschließen. Der Rechnungs Steuerungs Betrag im Steuer Zertifikat für die Rechnungsstellung muss mit dem Gesamtbetrag in der steuerungskennisanforderung identisch sein. 
 
 > [!IMPORTANT]
-> Microsoft muss Ihr Konto für die zurück **Weisung von Steuer** Geldern und eine Kopie Ihres Kontos für die Zurückhaltung von Steuer **Zertifikaten** erhalten
+> Die Gesamtsummen, die der Partner bereitstellt, sollten mit dem Rechnungsposten des angefügten Steuer Zertifikats übereinstimmen.
 
-## <a name="withholding-tax-credit-form"></a>Formular zum zurückbehalten von Steuer Guthaben
+8. **Senden** Sie die Anforderung zum Steuern der Steuer Anforderung.
 
-- Stellen Sie sicher, dass das Formular den Namen und das Land Ihres Unternehmens, die Nummer des Kennzahl-Steuer Zertifikats und das Formular signiert und korrekt ist. Im folgenden finden Sie die Steuer Guthaben Formulare: für [Deutschland](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) und [alle anderen Länder/Regionen](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).
+Nachdem die Anforderung gesendet wurde, wird die Anforderung in den Genehmigungsprozess übertragen, in dem Sie für den Abschluss genehmigt oder zurück an den Partner gesendet wird, wenn Korrekturen erforderlich sind. Partner können den Status Ihrer Anforderungen im **Abrechnungs Verlauf** anzeigen, von dem Sie die neue Anforderung übermittelt haben. Die Anforderungs-ID und der Status werden im **Abrechnungs Verlauf**angezeigt.
 
-Das Formular zum zurückbehalten von Steuergeldern bietet Microsoft die folgenden Informationen:
+Anforderungen, die an den Partner gesendet werden, ermöglichen es dem Partner, den Wert für das Zurücksetzen zu ändern und das Zertifikat zu ersetzen, wenn ein Problem vorliegt. 
 
-- Rechnung (en)
-- Betrag gezahlt für Microsoft
-- Quellensteuerbetrag
-- Zurückbehalten von Steuern
-- Typ der Zahlung
-- Kostenpflichtiges Unternehmen (bei Microsoft)
+### <a name="update-request-and-resubmit"></a>Anforderung aktualisieren und erneut übermitteln
 
-- Nachdem Sie diese Informationen vorbereitet haben, erstellen Sie die Service Request.
+Das Review-Team verlangt möglicherweise, dass der Partner Korrekturen durchführen und eine Anforderung erneut einreichen muss, bevor Sie genehmigt werden kann. Der Status wird in "ausstehende partneraktion" geändert. So können Sie die Anforderung korrigieren und erneut senden:
+ 
+1. Melden Sie sich beim Partner Center-Dashboard an.
+2. Wählen Sie im Menü auf der linken Seite die Option **Abrechnung** aus.
+3. Suchen Sie im **Abrechnungs Verlauf**der **Abrechnungs** Seite nach der Anforderung für die steuerliche Zurückhaltung. Anforderungen, die Partner Aufmerksamkeit benötigen, haben den Status "ausstehende partneraktion".
+4. Klicken Sie auf die Anforderungs-ID und den Status der steuerungskennung, um zur Seite der Anforderung zu gehen.
+5. Wählen Sie unter **Status**die Option "aktualisieren und erneut übermitteln" aus.
+6. Überprüfen Sie die Kommentare von den Reviewern, um zu prüfen, welche Elemente geändert werden müssen.
+7. Nehmen Sie die Korrekturen vor, indem Sie entweder ein aktualisiertes Zertifikat erneut übermitteln oder die abhaltungs Beträge anpassen.
+8. **Senden** Sie die Anforderung. 
 
-Bevor Sie Ihre Supportanfrage erstellen, müssen Sie Ihr Formular zum Zurücksetzen der **Steuergutschrift** ausfüllen. Sie fügen dieses Formular mit Ihrer Supportanfrage ein.
+Dadurch wird die Anforderung an das Prüfungsteam zurückgesendet, in dem Sie entweder genehmigen oder weitere Änderungen anfordern.
+ 
+### <a name="approved-requests"></a>Genehmigte Anforderungen
 
-Füllen Sie das entsprechende Formular für Ihr Land oder Ihre Region aus:
+Genehmigte Steuern von Steuererklärungen werden für die nächste Rechnung des Partners ausgeführt, d..., wenn die Zertifizierung bestätigt, dass der Partner diesen Betrag für seine lokale Steuerbehörde bezahlt hat.
 
-- [**Globales Finanz Guthaben**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) (alle Länder/Regionen, außer Deutschland)
-- [**In Deutschland**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)
+Die Verarbeitung der steuerungskennungsanforderungen sollte zwei Tage dauern, vorausgesetzt, das Steuer Zertifikat und der Betrag sind richtig. Wenn Änderungen erforderlich sind, kann es länger dauern, bis der Partner vor der erneuten Übermittlung Korrekturen durchführen muss.
 
-Stellen Sie sicher, dass Ihr Formular korrekt ist, bevor Sie es an Microsoft senden:
+Nach Abschluss des Abschlusses sollten die Rechnungen in den folgenden Monaten die Änderungen in Form einer Gutschrift widerspiegeln.
+ 
+Fragen zum Einreichen einer steuerungskenbungs-Anforderung können durch Erstellen eines Support Tickets im Partner Center aufgelöst werden. Beachten Sie, dass eine steuerungskenbungs-Anforderungs-ID ein Pflichtfeld zum Beheben von Fragen ist.
 
-1. Wählen Sie das **Fragezeichen** **(?)** in der rechten Ecke Ihres Dashboards im Partner Center aus.
+## <a name="german-tax-withholding"></a>Deutsche Steuerverweigerung
 
-2. Wählen Sie **CSP**aus.
+Partner, die Anforderungen für die deutsche Steuerverweigerung einreichen, sollten sich daran erinnern, dass Sie sich an die folgende Adresse richten. 
 
-3. Wählen Sie unter **CSP-Abrechnungs-und Zahlungs Zahlungen**den Problemtyp-"zurück **Haltungs Steuer** " aus, und wählen Sie **Ja** 
+- Attn: EOC Tax Team Marianne Gannon
+- Microsoft EMEA-Betriebs Center
+- Ein Microsoft-Ort,
+- Südcounty-Geschäfts Park
+- Leopardstown, Dublin 18, Irland
 
-4. Wenn Sie die Service Request übermitteln, stellen Sie sicher, dass Sie das Steuer Guthaben-Formular und digitale Kopien der Steuer Zertifikate anfügen.
-
-5. Wenn Sie ein nicht englischsprachiges Steuer Zertifikat über eine englische Service Request einreichen, ist eine Übersetzung des Steuer Zertifikats erforderlich.
-
-6. Wir werden Sie direkt per e-Mail oder Telefon kontaktieren.
-
-- Schließen Sie den **Firmennamen** und das **Land** in das Formular ein.
-- Genaues **Vorzeichen** und **Datum** des Formulars.
-- Notieren Sie den richtigen **Prozentsatz der zurück Haltungs Steuern** im Formular, basierend auf den Informationen Ihrer lokalen Steuerbehörde.
-- Stellen Sie sicher, dass die **Gesamtmenge** im Formular mit den Summen aus den Rechnungen übereinstimmt, die Sie übermitteln.
-
-## <a name="include-withholding-tax-certificates"></a>Verweigern von Steuer Zertifikaten einschließen
-
-Die Steuer Zertifikate sollten nur für Microsoft-Rechnungen gelten. Wenn in den Zertifikaten andere Unternehmen enthalten sind, geben Sie den Betrag an, damit wir ihn in unserer internen Verarbeitung ausschließen können, aber dennoch vollständige Einblicke in die Gesamtanzahl der Zertifikate haben. 
-
-Sie müssen eine **digitale Kopie** ihrer zurück **Haltungs Steuer Zertifikate** zusammen mit Ihrer Supportanfrage einschließen. Sie haben dieses Zertifikat von Ihrer lokalen Steuerbehörde erhalten, als Sie Ihre Anfrage im Partner Center eingereicht haben.
-
-Die Summe im Steuer Zertifikat für die zurück Haltungs Pflicht muss mit dem unterstützenden Detail im Formular zum zurückbehalten von Steuer Guthaben identisch sein.
-
-Füllen Sie das [Formular](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) für das Zurücksetzen der Steuerpflicht vollständig aus, und senden Sie es zusammen mit der gescannten Kopie des Zertifikats für die zurück Haltungs Pflicht an die Übermittlung Ihrer Anfrage im Partner Center oder im Azure/O365/CRM/InTune-Portal. 
-
-Wenn Sie ein **nicht englischsprachiges sprach Steuer Zertifikat** über eine **englische Sprache Service Request**senden, müssen Sie eine **Übersetzung** des Steuer Zertifikats einschließen.
-
-Die Steuer Zertifikate sollten nur für **Microsoft-Rechnungen**gelten. Wenn Sie **andere Unternehmen** haben, die die Zertifikate enthalten, geben Sie den Betrag so an, dass wir den Betrag in unserer internen Verarbeitung ausschließen können, aber dennoch vollständige Einblicke in die Gesamtanzahl der Zertifikate haben.
-
-## <a name="create-a-service-request"></a>Einen Service Request erstellen
-
-Die folgenden Informationen gelten *nur* für Partner im **CSP-Programm (Cloud Solution Provider)** . Dies schließt nur **direkte Abrechnungspartner** und **indirekte Anbieter**ein. **Indirekte Händler** müssen stattdessen mit Ihren **indirekten Anbietern** zusammenarbeiten.
-
-1. Melden Sie sich beim Dashboard im Partner Center an.
-2. Wählen Sie im Menü auf der linken Seite des Dashboards **Unterstützung**und dann **Partner Supportanfragen**aus.
-3. Wählen Sie **neue Anforderung**aus.
-4. Wählen Sie auf der Seite **Anforderung starten** unter **CSP-Abrechnung und Zahlungen** **die Option geben Sie einen Problemtyp**aus. Wählen Sie die Option " **Steuern** " als Problemtyp aus.
-5. Überprüfen Sie die Informationen auf der Seite **Empfohlene Lösungen** . Wählen Sie unter **benötigen Sie weitere Hilfe?** die Option **Ja**aus.
-6. Füllen Sie auf der **Detail** Seite alle Pflichtfelder unter **Problem Details**aus.
-7. Verwenden Sie das letzte Feld [**im Formular.** ](#withholding-tax-credit-form)
-8. Laden Sie Ihr [**kensteuerungssteuerungszertifikat**](#include-withholding-tax-certificates) und ggf. eine Übersetzung des Zertifikats hoch.
-9. Wählen **Sie senden aus** , um Ihre Supportanfrage zu senden. Microsoft kontaktiert Sie dann direkt per e-Mail oder telefonisch. 
-10. Wenn Sie in **Deutschland**sind, finden Sie entsprechende Informationen in den [speziellen Anweisungen für Deutschland](#germany-tax-withholding) zu e-Mail in obligatorischen **fest Kopien** Ihres Steuer Zertifikats für die Kennzeichnung.
-
-Wenn Sie die Zahlungsmethode " **Rechnungs** Zahlung" verwenden, wird das verbleibende Guthaben auf der Rechnung in ungefähr einer Woche gelöscht, sobald die Steuer Zertifikate erfolgreich empfangen und überprüft wurden.
-
-Nachdem Ihre Steuer Zertifikate von Microsoft empfangen und erfolgreich überprüft wurden, verwenden Sie die **Zahlungsmethode Rechnungszahlung** . Das verbleibende Guthaben auf Ihrer Rechnung wird in ungefähr einer Woche deutlich.
-
-## <a name="germany-tax-withholding"></a>Steuern von Deutschland
-
-Führen Sie für Deutschland *nur*die gleichen normalen Schritte wie folgt aus:
-
-1. [Füllen Sie Ihr Deutschland in Form von Steuer Guthaben aus.](#withholding-tax-credit-form)
-2. [Einschließen von Steuer Zertifikaten für die Zurückhaltung](#include-withholding-tax-certificates)
-3. [Erstellen Sie eine Partner Center-Supportanfrage](#create-a-service-request) mit dem Formular zum zurückbehalten der Steuergutschrift und dem Anfügen von Steuer Zertifikaten
-
-Richten Sie dann die folgenden Adressen an eine e-Mail an die Zertifikate der zurück Haltungs Steuer Zertifikate:
-
-> Attn: EOC Tax Team Marianne Gannon Microsoft EMEA Operations Center One Microsoft Place, South County Business Park Leopardstown, Dublin 18, Irland

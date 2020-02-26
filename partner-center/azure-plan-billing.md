@@ -1,7 +1,7 @@
 ---
 title: Azure-Plan – Abrechnung | Partner Center
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 02/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie Sie auf die Struktur der Rechnungs-/Abstimmungsdatei im Zusammenhang mit der Abrechnung für den Azure-Plan zugreifen und sie verstehen können.
@@ -10,22 +10,22 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7aade0443c6418c9044a58d37b2351a89f86266d
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 3d21c796aebe41322d8f390ce54d13b1f80ec309
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722222"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521043"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Neues E-Commerce-Verfahren in CSP: Azure-Abrechnung 
 
 **Geeignete Rollen:**
 
-- Administratoragent
+- Administrator-Agent
 - Abrechnungsadministrator
 - Globaler Administrator
 
-Abrechnungen im Rahmen eines Azure-Plans bieten ein vereinfachtes Abrechnungsverfahren, das ein einheitliches Abrechnungsdatum und einen Abrechnungszeitraum auf der Grundlage von Kalendermonaten verwendet. Informationen zur Abrechnungsplattform finden Sie unter [Abrechnungsübersicht](billing-basics.md).
+Abrechnungen im Rahmen eines Azure-Plans bieten ein vereinfachtes Abrechnungsverfahren, das ein einheitliches Abrechnungsdatum und einen Abrechnungszeitraum auf der Grundlage von Kalendermonaten verwendet.
 
 ## <a name="summary-of-billing-essentials"></a>Zusammenfassung der Abrechnungsgrundlagen
 

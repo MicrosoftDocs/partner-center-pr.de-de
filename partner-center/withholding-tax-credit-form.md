@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: zurückbehalten von Steuer Guthaben, Steuer Guthaben, deutschen Steuer Guthaben, Steuer Zertifikaten
 ms.localizationpriority: medium
-ms.openlocfilehash: 99b08766efa17f1ee0d52ec88147989f1f11047b
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: dd8edceaa69ce3ca29e152cc19043b805b5748da
+ms.sourcegitcommit: 18cea2726e69b6bf6e286641e28bbe6041309ae3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521003"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "77618525"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Stellen Sie sicher, dass Sie für die zurück Haltungs Steuern
 
@@ -47,7 +47,7 @@ Führen Sie die folgenden Schritte aus, um eine neue Steuer gegen übereinhaltun
 ![Ausführliche Informationen zu Steuerinformationen für eine Rechnung](images/wht2.png)
 
 6. Geben Sie unter **Steuern der Steuerinformationen**das Ergebnis "Gesamtsumme" ein. Die "Summe der Summe" ist der Betrag, den Sie erwarten.
-7. **Fügen** Sie ein Steuer Zertifikat an. Sie müssen eine **digitale Kopie** ihrer zurück **Haltungs Steuer Zertifikate** in Ihre Steuern. Sie haben dieses Zertifikat von Ihrer lokalen Steuerbehörde erhalten, als Sie Ihre Anfrage im Partner Center eingereicht haben. Wenn Sie ein **nicht englischsprachiges sprach Steuer Zertifikat** mit dem **steuerungspaltenanforderungs-Prozess**übermitteln, müssen Sie eine **Übersetzung** des Steuer Zertifikats einschließen. Der Rechnungs Steuerungs Betrag im Steuer Zertifikat für die Rechnungsstellung muss mit dem Gesamtbetrag in der steuerungskennisanforderung identisch sein. 
+7. **Fügen** Sie ein Steuer Zertifikat an. Sie müssen eine **digitale Kopie** ihrer zurück **Haltungs Steuer Zertifikate** in Ihre Steuern. Sie haben dieses Zertifikat von Ihrer lokalen Steuerbehörde erhalten, als Sie Ihre Anfrage im Partner Center eingereicht haben. Der Rechnungs Steuerungs Betrag im Steuer Zertifikat für die Rechnungsstellung muss mit dem Gesamtbetrag in der steuerungskennisanforderung identisch sein. 
 
 > [!IMPORTANT]
 > Die Gesamtsummen, die der Partner bereitstellt, sollten mit dem Rechnungsposten des angefügten Steuer Zertifikats übereinstimmen.

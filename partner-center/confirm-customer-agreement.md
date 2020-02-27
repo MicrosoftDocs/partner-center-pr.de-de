@@ -1,7 +1,7 @@
 ---
 title: Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag | Partner Center
 ms.topic: article
-ms.date: 02/04/2020
+ms.date: 02/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahre, wie du bestätigst, dass ein Kunde der Microsoft-Kundenvereinbarung zugestimmt hat. Dies kann erforderlich sein, um Microsoft-Produkte und -Dienste für Kunden zu bestellen.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Kunden, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Microsoft-Kundenvertrag, Vorlagen für Kundenverträge
 ms.localizationpriority: high
-ms.openlocfilehash: c9445ae24de16d25cf887299521eef8d6d793c6f
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.openlocfilehash: e40272f40bb3aeb67d77fd9b5f122bd92a1384fb
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "77012169"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521023"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung
 
@@ -104,7 +104,7 @@ Um die folgenden Schritte ausführen zu können, musst du Administrator-Agent od
 
 5. Wählen Sie **Speichern und fortfahren** aus.
 
-![Bestandskunde](images/mcua2.png)
+![Bestandskunde](images/mcua2-update2.png)
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>Abrufen der Bestätigung der Kundenzustimmung für einen Bestandskunden
 
@@ -125,6 +125,9 @@ Partner können neue und bestehende Kunden über eine URL einladen, die Vereinba
 - Einladen eines neuen Kunden, die Handelspartnerbeziehung und -vereinbarung zu überprüfen und diesen zuzustimmen
 
 - Einladen eines bestehenden Kunden, die Vereinbarung zu überprüfen und ihr zuzustimmen
+
+>[!NOTE]
+> Sie können die [Partner Center-API oder das Partner Center SDK](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) verwenden, um den Status der direkten Zustimmung eines Kunden zur Microsoft-Kundenvereinbarung zu ermitteln.  
 
 ## <a name="create-a-net-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>Erstellen eines Net New-Kunden und Einladen des Kunden, die Vereinbarung zu überprüfen und ihr zuzustimmen
 

@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: e431d14c90e1884076e0aebf14dbca6644b1796b
-ms.sourcegitcommit: 37aae4668fb7dbf0e262d1e2d0395ced2745bef9
+ms.openlocfilehash: 5194f9ca6bcd843a748a2f6035fdd14422712548
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "77076003"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672654"
 ---
 # <a name="merging-your-partner-account-with-another-partner-account"></a>Zusammenführen Ihres Partnerkontos mit einem anderen Partnerkonto
 
@@ -43,7 +43,8 @@ Zwei oder mehr Unternehmen, die aktive Microsoft-Partner sind und über Konten i
 
 ### <a name="view-of-merged-accounts"></a>Ansicht von zusammengeführten Konten
 
-![Zusammengeführte Konten](images/accountmerge1.png)
+![Zusammengeführte Konten](images/AccountMerge_graphic.png)
+
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Was Sie erwartet, wenn Sie eingeladen wurden, Ihr Partner Center-Konto mit einem anderen Partner Center-Konto zusammenzuführen
 

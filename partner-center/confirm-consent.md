@@ -1,24 +1,24 @@
 ---
-title: Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag | Partner Center
+title: Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag | Partner Center
 ms.topic: article
 ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Erfahren Sie, wie Sie die kundenannahme der Microsoft Cloud Vereinbarung bestätigen. Dies kann erforderlich sein, um Microsoft-Produkte und-Dienste für Kunden zu bestellen.
+Description: Erfahre, wie du bestätigst, dass ein Kunde der Microsoft-Kundenvereinbarung zugestimmt hat. Dies kann erforderlich sein, um Microsoft-Produkte und -Dienste für Kunden zu bestellen.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Kunden, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Vorlagen für Kundenverträge
+keywords: Kunde, Kunden, Zustimmung, MCA, Microsoft-Kunden Vereinbarung, Kunden Vertrags Vorlagen
 ms.localizationpriority: medium
-ms.openlocfilehash: 8e6493fccee9b00c953e18446ec6f101bf267210
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 0478a2fe1aad8ba04e2ac51b9a85e94491627e2c
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722092"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672840"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung
 
-**Zielgruppe**
+**Gilt für:**
 -  Partner Center
 
 **Geeignete Rollen**
@@ -29,13 +29,13 @@ ms.locfileid: "74722092"
 > [!NOTE]
 > Die Vertragsressource wird zurzeit von Partner Center nur in der Microsoft Public Cloud unterstützt. Gilt nicht für:
 > * Partner Center-Betreiber ist 21Vianet
-> * Partner Center für Microsoft Cloud Deutschland
+> * Partner Center für Microsoft-Cloud Deutschland
 > * Partner Center für Microsoft Cloud for US Government
 
 >[!NOTE]
->Diese Vereinbarung gilt bis zum 31. Januar 2020. Nach diesem Datum müssen alle Kunden, vorhandene und neue, den neuen Microsoft-Kundenvertrag signieren. Weitere Informationen finden Sie unter [bestätigen der Kundenakzeptanz des Microsoft-Kunden Vertrags](confirm-customer-agreement.md).
+>Ab dem 31. Januar 2020 müssen alle Kunden, vorhandene und neue, den neuen Microsoft-Kundenvertrag signieren. Weitere Informationen finden Sie unter [bestätigen der Kundenakzeptanz des Microsoft-Kunden Vertrags](confirm-customer-agreement.md).
 
-Als Partner müssen Sie die Zustimmung Ihres Kunden zur Microsoft Cloud Vereinbarung einholen, bevor Sie Microsoft-Produkte und-Dienste für diesen Kunden bestellen können. Um Partner bei der Einhaltung von Complianceanforderungen zu unterstützen, bittet Microsoft die Partner, die Zustimmung durch Bereitstellung der folgenden Details zu der Person, die dem Vertrag zugestimmt hat, zu bestätigen: 
+Als Partner müssen Sie die Zustimmung Ihres Kunden zum Microsoft-Kundenvertrag einholen, bevor Sie Microsoft-Produkte und-Dienste für diesen Kunden bestellen können. Um Partner bei der Einhaltung von Complianceanforderungen zu unterstützen, bittet Microsoft die Partner, die Zustimmung durch Bereitstellung der folgenden Details zu der Person, die dem Vertrag zugestimmt hat, zu bestätigen: 
 
 -   Vorname
 
@@ -47,9 +47,9 @@ Als Partner müssen Sie die Zustimmung Ihres Kunden zur Microsoft Cloud Vereinba
 
 -   Datum der Zustimmung
 
-Weitere Informationen finden Sie in den [Häufig gestellten Fragen](https://docs.microsoft.com/partner-center/confirm-consent-faq) zur Bestätigung der Kundenzustimmung zum Microsoft Cloud-Vertrag.
+Weitere Informationen finden Sie in der Microsoft-Kunden Vereinbarung zur Bestätigung der [häufig gestellten Fragen](https://docs.microsoft.com/partner-center/confirm-consent-faq).
 
-Direct-Bill-Partner und indirekte Anbieter müssen die Zustimmung des Kunden zum Microsoft Cloud-Vertrag bestätigen, wenn sie über das Partner Center oder die Partner Center-API Transaktionen ausführen. Die Bestätigung ist *obligatorisch*.
+Direkte Abrechnungspartner und indirekte Anbieter müssen die Kunden Zustimmung des Microsoft-Kunden Vertrags beim Transaktions Wechsel über die Partner Center-oder Partner Center-API bestätigen. Die Bestätigung ist *obligatorisch*.
 
 Wenn für einen bestimmten Kunden keine Bestätigung bereitgestellt wird:
 
@@ -79,7 +79,7 @@ Verwenden Sie das folgende Verfahren, um die Zustimmung des Kunden zu bestätige
 
 ![Unternehmensinformationen](images/mca/mca1.png)
 
-3. Wählen Sie unter **Microsoft Cloud-Vertrag** die Option **Der Kunde hat den neuesten Microsoft Cloud-Vertrag akzeptiert** aus.
+3. Wählen Sie unter **Microsoft-Kunden Vereinbarung**aus, dass der **Kunde den aktuellen Microsoft-Kundenvertrag akzeptiert hat**.
 4. Geben Sie unter **Datum der Vertragsannahme** das entsprechende Datum ein. Dieses kann nicht auf ein Datum in der Zukunft festgelegt werden.
 5. Geben Sie die Details des Benutzers ein, der die Zustimmung bereitgestellt hat.
 
@@ -95,9 +95,9 @@ Beachten Sie, dass Sie dafür ein Administrator-Agent oder Vertriebsbeauftragter
 
 1. Wählen Sie **Kunden** aus, und suchen Sie dann nach dem Kunden, den Sie anzeigen möchten. Wählen Sie diesen aus.
 2. Wählen Sie **Kontoinformationen** aus.
-3. Wählen Sie unter **Microsoft Cloud-Vertrag** die Option **Aktualisieren** aus.
+3. Wählen Sie unter **Microsoft-Kunden Vereinbarung**die Option **Aktualisieren**aus.
 
-![die Registerkarte „Update“](images/mca/mca4.png)
+![Update](images/mca/mca4.png)
 
 4. Geben Sie **Vorname**, **Nachname**, **E-Mail-Adresse** und **Telefonnummer** (optional) des Benutzers ein, der dem Vertrag zugestimmt hat.
 5. Geben Sie unter **Datum der Vertragsannahme** das entsprechende Datum ein. Dieses kann nicht auf ein Datum in der Zukunft festgelegt werden.
@@ -117,4 +117,4 @@ Sie können die Bestätigung der Zustimmung für einen vorhandenen Kunden abrufe
 
 1. Wählen Sie **Kunden** aus, und suchen Sie dann nach dem Kunden, den Sie anzeigen möchten. Wählen Sie diesen aus.
 2. Wählen Sie **Kontoinformationen** aus.
-3. Im Rahmen der **Microsoft-cloudvereinbarung**werden Sie feststellen, ob für diesen Kunden eine Bestätigung angegeben wurde.
+3. Im Rahmen des **Microsoft-Kunden Vertrags**sehen Sie, ob die Bestätigung für diesen Kunden angegeben wurde.

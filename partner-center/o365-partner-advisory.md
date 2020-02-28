@@ -7,16 +7,16 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Office, O365, PSTN-Dienste, Steuern, Anforderungen, Rechnungen, Rechnungsstellung
 ms.localizationpriority: medium
-ms.openlocfilehash: 2edf62c8a2157bc2b75855833ddbc7a63e7c6bb0
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: aad61f682740ad20dec1264cd48ff87d1f2c0806
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005059"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672820"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365-Partner Beratung: Microsoft 365 Voice in CSP
 
-**Zielgruppe**
+**Gilt für:**
 
 - Partner Center  
 
@@ -25,7 +25,7 @@ ms.locfileid: "75005059"
 -   Benutzeradministrator
 -   Administratoragent
 
-Die Dienste für öffentliche Wechsel Telefonnetzwerke (PSTN) unterliegen möglicherweise speziellen Steuer-und behördlichen Anforderungen, die sich auf die Reihenfolge der Partner und die Rechnungsstellung auswirken können.  In den USA, Puerto Rico und Kanada unterliegen die Skype for Business-PSTN-und Microsoft 365 Voice-Dienste speziellen Steuer-und gesetzlichen Anforderungen. In den USA und Puerto Rico werden die PSTN-Dienste von Microsoft als Steuer inklusiv fest.  Eindeutige PSTN-Steuern und-Vorschriften wirken sich auf Office 365-Partner aus, die Microsoft 365 Voice-Produkte.  Wenn ein Partner einen Aufschlag auf den Preis eines PSTN-Diensts von Microsoft erhebt, ist er möglicherweise für die Berechnung und Abführung von Steuern und Gebühren für PSTN-Dienste verantwortlich.
+Die Public Switched Telefon Network-Dienste (PSTN) unterliegen möglicherweise speziellen Steuer-und behördlichen Anforderungen, die sich auf die Reihenfolge der Partner und die Rechnungsstellung auswirken können. In der USA, einschließlich Puerto Rico, PSTN-Dienste, die Audiokonferenzen, Aufruf Pläne und Kommunikations Guthaben enthalten, gelten spezielle Steuer-und gesetzliche Anforderungen. In den USA und Puerto Rico werden die PSTN-Dienste von Microsoft als Steuer inklusiv fest.  Eindeutige PSTN-Steuern und-Vorschriften wirken sich auf Office 365-Partner aus, die Microsoft 365 Voice-Produkte.  Wenn ein Partner einen Aufschlag auf den Preis eines PSTN-Diensts von Microsoft erhebt, ist er möglicherweise für die Berechnung und Abführung von Steuern und Gebühren für PSTN-Dienste verantwortlich.
 
 ## <a name="partner-recommendations"></a>Partner Empfehlungen
 
@@ -48,12 +48,12 @@ Office 365 Enterprise E5 zeigt eine Abstimmungs Datei als zweizeilige Elemente m
 |**Permanente Angebots-ID**|**Angebotsname**|**Startdatum des Abonnements**|**Enddatum des Abonnements**|**Startdatum der Abrechnung**|**Enddatum der Abrechnung**|**Typ der Abrechnung**|**Preis pro Einheit**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Gebühr für Zyklus   |28,40   |
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Gebühr für Zyklus   |2,00   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Gebühr für Zyklus   |2.00   |
 
 **Beispiel für Partner Abstimmung #2**
 
 Microsoft 365 Business in Kanada verfügbare Sprache verfügt über zusätzliche PSTN-Komponenten, die auf der CSP-Rechnung konsolidiert werden (ähnlich wie bei Office 365 E5 werden zwei Zeilen Elemente angezeigt, eine für PSTN-Komponenten und die andere für nicht-PSTN-Komponenten).  In der CSP-Abstimmungs Datei für Microsoft 365 Business Voice werden alle zu debuggenden PSTN-Komponenten einzeln angezeigt (individuelle PSTN-Komponenten werden in nicht konsolidiert. CSV-oder API-Tool).  Die Summe der Bestelldetails und der in Rechnung gestellten Beträge für Kunden, die in der Abstimmungs Datei gefunden werden, entspricht der CSP-Rechnung.
 
-## <a name="additional-resources"></a>Weitere Ressourcen
+## <a name="additional-resources"></a>Zusätzliche Ressourcen
 Weitere Informationen finden Sie auf der [Microsoft 365 für Partner](https://drumbeat.office.com/Pages/home2016.aspx) Website.
 

@@ -8,16 +8,16 @@ description: Hier finden Sie Antworten auf häufig gestellte Fragen (FAQ) zum Cl
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6aa9b3d3e4a6f73254ad0ea843a0f37be824f23d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 051e7dfabb8e29f3831ecfb2cc510e5057f062f8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253634"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672670"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Häufig gestellte Fragen zum Partner Center für Microsoft Cloud for US Government
 
-**Gilt für**
+**Gilt für:**
 
 -  Partner Center für Microsoft Cloud for US Government
 
@@ -71,13 +71,13 @@ MCRA für Microsoft Cloud for US Government unterscheidet sich von der standardm
 
 -   Das Addendum für die US Government-Cloud bezeichnet zusätzliche Verantwortlichkeiten für Partner bei Transaktionen mit US Government-Clouddiensten.
 
--   Anlage A enthält den Microsoft Cloud-Vertrag (Microsoft Cloud Agreement), der in jeden Vertrag für US Government-Clouddienste integriert werden muss, der zwischen dem CSP und seinen Kunden geschlossen wird.
+-   Enthält eine enthält den Microsoft-Kundenvertrag (Microsoft-Kundenvertrag), der in jeden Vertrag für die Cloud-Dienste von US-Behörden eingebunden werden muss, die zwischen dem CSP und seinem Kunden eingegeben werden.
 
-*Microsoft Cloud-Vertrag (Microsoft Cloud Agreement) als Anlage A in MCRA*
+*Microsoft-Kunden Vereinbarung (Microsoft-Kunden Vereinbarung) präsentiert als eine Präsentation in mcra*
 
 CSPs müssen Anlage A in den Regierungsvertrag zwischen CSPs und Kunden einbinden, die Microsoft Cloud for US Government erwerben. Der Vertrag wird im Partner Center veröffentlicht und ist nur auf Englisch verfügbar.
 
-Der Microsoft Cloud-Vertrag für die US Government-Cloud unterscheidet sich vom standardmäßigen Microsoft Cloud-Vertrag in den beiden folgenden Punkten:
+Der Microsoft-Kundenvertrag für die Cloud der US-Regierung unterscheidet sich auf zwei Arten vom Microsoft-Standardkunden Vertrag:
 
 -   Er muss mit seinem Kunden in den CSP-Vertrag eingebunden werden.
 
@@ -91,7 +91,7 @@ MCDA für Microsoft Cloud for US Government unterscheidet sich von der standardm
 
 -   Das Addendum für Microsoft Cloud for US Government bezeichnet zusätzliche Verantwortlichkeiten für Partner bei Transaktionen mit US Government-Clouddiensten.
 
--   Anlage A enthält den Microsoft Cloud-Vertrag (Microsoft Cloud Agreement), der in jeden Vertrag für US Government-Clouddienste integriert werden muss, der zwischen dem CSP und seinen Kunden geschlossen wird.
+-   Enthält eine Microsoft-Kunden Vereinbarung (Microsoft-Kunden Vereinbarung), die in jeden Vertrag für die Cloud-Dienste von US-Behörden integriert werden muss, die zwischen dem CSP und seinen Kunden eingegeben werden.
 
 **Welche Qualifikationen sind für den Verkauf der Microsoft Cloud for US Government erforderlich?**
 

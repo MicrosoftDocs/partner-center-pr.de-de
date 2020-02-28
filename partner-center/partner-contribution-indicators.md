@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e71d9c09e03c4464774fc80f0bd27af1dc82ea1
-ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
+ms.openlocfilehash: 830965f4d44cefea2a66adeac681f6350a562503
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75716952"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672690"
 ---
 # <a name="partner-contribution-indicators"></a>Partnerbeitragsindikatoren
 
@@ -44,15 +44,15 @@ Jeder Indikator bringt eine Bewertung, die der Summe hinzugefügt wird. Dies sin
 
 ### <a name="thresholds"></a>Schwellenwerte
 
-Jede PCI-Metrik weist von Microsoft festgelegte Schwellenwerte auf, mit denen dein Unternehmen die maximale Punktzahl erzielen kann. Diese Schwellenwerte unterscheiden sich für die Betriebs Pfade "Customer Engagement" und "Finance & Operations" zum Erreichen der Cloud-Business Applications Kompetenz Die Schwellenwerte unterscheiden sich auch für Partner, die in entwickelten Märkten betrieben werden, und nur für Partner, die ausschließlich in der Entwicklungs  Die entwickelte oder entwickelte Markt Kategorisierung eines Landes basiert auf den [Microsoft Partner Network Definitionen](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
+Jede PCI-Metrik weist von Microsoft festgelegte Schwellenwerte auf, mit denen dein Unternehmen die maximale Punktzahl erzielen kann. Diese Schwellenwerte unterscheiden sich für die Betriebs Pfade "Customer Engagement" und "Finance & Operations" zum Erreichen der Cloud-Business Applications Kompetenz Die Schwellenwerte unterscheiden sich auch für Partner, die in entwickelten Märkten betrieben werden, und nur für Partner, die ausschließlich in der Entwicklungs  Die entwickelte oder entwickelte Markt Kategorisierung eines Landes basiert auf den [Microsoft Partner Network Definitionen](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
 Die Punkte in den einzelnen Metriken sind so fest, dass Sie eine eindeutige PCI-Bewertung für Kunden Engagement und Finanz & Vorgänge ergeben, die monatlich aktualisiert werden.
 
-Partner können die maximale Punktzahl für eine Metrik erzielen, wenn sie die unten angegebenen Schwellenwerte erreichen oder übertreffen. Partielle Punkte können für alle Metriken erzielt werden, außer für das Wachstum des funktionalen Beraters. z. B. ein entwickelter Marktpartner mit $150.000-Dollar im Nettoumsatz erzielt eine Hälfte ($ 150.000/$ 300000) der maximalen 10 pts. 
+Partner können die maximale Punktzahl für eine Metrik erzielen, wenn sie die unten angegebenen Schwellenwerte erreichen oder übertreffen. Partielle Punkte können für alle Metriken erzielt werden, außer für das Wachstum des funktionalen Beraters. Beispiel: ein entwickelter Marktpartner mit $150.000-Dollar im Nettoumsatz erzielt eine Hälfte ($ 150.000/$ 300000) der maximalen 10 pts. 
 
 ![Kundenengagement](images/pci/custengagethresh.png)
 
-![Finanzen](images/pci/table_2.png
+![Finance](images/pci/table_2.png
 )
 
 ![Stelle](images/pci/table_3.png)

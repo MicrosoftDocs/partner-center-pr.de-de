@@ -10,16 +10,16 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Kunde, Kunde hinzufügen, Kundenkonto, Kundenkonto im Partner Center, Kunden, Kunden hinzufügen, Kundenkonto erstellen
 ms.localizationpriority: medium
-ms.openlocfilehash: 7a97dbbd72cf5b1a16d4cd4e805e4d33bf9c4b53
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: 81fd5d50db67b32ab6dac22c008dfcab0e347893
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860441"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672710"
 ---
-# <a name="add-a-new-customer"></a>Hinzufügen eines neuen Kunden 
+# <a name="add-a-new-customer"></a>Neuen Kunden hinzufügen 
 
-**Gilt für**
+**Gilt für:**
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
@@ -29,7 +29,7 @@ ms.locfileid: "76860441"
 
 - Globaler Administrator
 - Benutzerverwaltungsadministrator
-- Administrator-Agent
+- Administratoragent
 - Vertriebsbeauftragter
 
 
@@ -42,10 +42,10 @@ Bevor Sie einem Kunden Abonnements verkaufen, die Abrechnung verwalten oder ihm 
 
 1. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann **Kunde hinzufügen** aus.
 
-2. Geben Sie auf der Seite **Kontoinformationen** die Details und die primären Kontaktinformationen des Kunden ein, und überprüfen Sie, ob der Kunde den aktuellen [Microsoft Cloud-Vertrag](agreements.md) akzeptiert und unterzeichnet hat.
+2. Geben Sie auf der Seite **Kontoinformationen** die Details und die primären Kontaktinformationen des Kunden ein, und überprüfen Sie, ob der Kunde den neuesten [Microsoft-Kundenvertrag](agreements.md)akzeptiert und signiert hat.
 
 >[!IMPORTANT] 
-> Am 1. Oktober 2019 hat Microsoft den Microsoft- **Kundenvertrag** für das CSP-Programm eingeführt, um die Microsoft Cloud Vereinbarung zu ersetzen. Um die Migration von Partnern zum neuen Vertrag zu erleichtern, wird der aktuelle Microsoft Cloud-Vertrag noch bis zum 31. Januar 2020 im CSP-Programm unterstützt. Informieren Sie sich über den [Microsoft-Kundenvertrag und](confirm-customer-agreement.md) über die Bestätigung der Zustimmung
+> Am 1. Oktober 2019 hat Microsoft die **Microsoft-Kundenvereinbarung** für das CSP-Programm eingeführt, die den Microsoft Cloud-Vertrag ersetzt. Informieren Sie sich über den [Microsoft-Kundenvertrag und](confirm-customer-agreement.md) über die Bestätigung der Zustimmung
   
 3. Wenn Sie ein indirekter Anbieter sind, wählen Sie in der Liste den indirekten Vertriebspartner aus, den Sie den Abonnements dieses Kunden zuordnen möchten.
 
@@ -60,7 +60,7 @@ Bevor Sie einem Kunden Abonnements verkaufen, die Abrechnung verwalten oder ihm 
 
 7. Wählen Sie **Fertig** aus, wenn Sie die gewünschten Kundeninformationen hinzugefügt und die erforderlichen Abonnements erworben haben.
 
-## <a name="see-also"></a>Weitere Informationen:
+## <a name="see-also"></a>Siehe auch
 
 - Weitere Informationen darüber, was Sie Ihren Kunden über das Cloud Solution Provider-Programm zum Verkauf anbieten können, finden Sie unter [Partnerangebote im Cloud Solution Provider-Programm](csp-offers.md).
 

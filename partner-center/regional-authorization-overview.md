@@ -11,12 +11,12 @@ ms.author: evansma
 keywords: CSP-Märkte, Gebiete, in denen ich über CSP verkaufen kann, CSP-Angebote, Regionen, Cloudlösungen verkaufen, CSP (global)
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: da8eeaef62874fb1fc8d8df5eecd2bab20e5ece5
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 5aae0c5eca8bc47d38fd14e600c64ae02137c2a5
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943243"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672810"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Regionale Märkte und Währungen des Cloud Solution Provider-Programms
 
@@ -24,14 +24,14 @@ Ihr Markt wird durch den Standort Ihres Unternehmens bestimmt. Ihr Markt umfasst
 
 Wenn sich Ihr Unternehmen z. b. im USA befindet, können Sie CSP-Angebote an Kunden in den USA und in US-amerikanischen Außeninseln verkaufen. Wenn sich Ihr Unternehmen in Brasilien befindet, können Sie CSP-Angebote nur an Kunden in Brasilien verkaufen. Wenn sich Ihr Unternehmen in der Region Afrika befindet, können Sie die CSP-Angebote an Kunden in allen 18 Ländern der Region Afrika verkaufen.
 
-Bevor Sie CSP-Angebote im Namen eines Kunden bestellen können, muss der Kunde den Microsoft Cloud-Vertrag unterschreiben. Den jeweiligen Microsoft Cloud-Vertrag für Ihre Region/Ihr Land finden Sie [hier](agreements.md).
+Bevor Sie CSP-Angebote im Auftrag eines Kunden bestellen können, muss der Kunde den Microsoft-Kundenvertrag signieren. Sie finden den entsprechenden Microsoft-Kundenvertrag für Ihre Region/Ihr Land [hier](agreements.md).
 
 >[!IMPORTANT]
-> Seit dem 7. November 2018 müssen Sie bestätigen, dass ein Kunde dem Microsoft Cloud-Vertrag zugestimmt hat, indem Sie Informationen über die Person bereitstellen, die den Vertrag unterzeichnet hat. Ausführlichere Informationen finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft Cloud-Vertrag](confirm-consent.md).
+> Sie müssen bestätigen, dass ein Kunde den Microsoft-Kundenvertrag akzeptiert hat, indem er Informationen über die Person bereitstellt, die ihn signiert hat. Weitere Informationen finden Sie [unter Bestätigen der Zustimmung eines Kunden zum Microsoft-Kundenvertrag](confirm-consent.md) .
 
 Suchen Sie den Standort Ihres Unternehmens in einer der folgenden Listen, um zu ermitteln, wo Sie CSP-Angebote verkaufen können. Sie benötigen eine aktive Microsoft Partner Network (MPN)-ID für den Standort, an dem Sie verkaufen möchten.  
 
-## <a name="for-unsupported-countries"></a>Für nicht unterstützte Länder/Regionen
+## <a name="for-unsupported-countries"></a>Für nicht unterstützte Länder
 
 Wenn Ihr Land nicht unterstützt wird, richten Sie die CSP-Kundenbeziehung mit der Office-Administrator-URL ein. 
 
@@ -43,7 +43,7 @@ Wenn Ihr Land nicht unterstützt wird, richten Sie die CSP-Kundenbeziehung mit d
 
 Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
-| Land/Region           | Währung |
+| Country/Region           | Währung |
 | ------------------------ |:--------:|
 | Angola                   |          |
 | Benin                    |   USD    |
@@ -98,7 +98,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 
 Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
-| Land/Region     | Währung |
+| Country/Region     | Währung |
 | --------------     |:--------:|
 |  Bangladesch        |   USD    |
 |  Bhutan            |          |
@@ -124,7 +124,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 
 Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
-|  Land/Region        | Währung |
+|  Country/Region        | Währung |
 |  --------------        |:--------:|
 |  Australien             |   AUD    |
 |  Weihnachtsinsel      |   AUD    |
@@ -155,7 +155,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 
 Wenn der Standort Ihres Unternehmens Brasilien ist, können Sie CSP-Angebote an Kunden in Brasilien verkaufen.
 
-|  Land/Region | Währung |
+|  Country/Region | Währung |
 |  -------------- |:--------:|
 |  Brasilien         |   USD    |
 |
@@ -164,7 +164,7 @@ Wenn der Standort Ihres Unternehmens Brasilien ist, können Sie CSP-Angebote an 
 
 Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
-|  Land/Region | Währung |
+|  Country/Region | Währung |
 |  -------------- |:--------:|
 |  Kanada         |   CAD    |
 |  St. Pierre und Miquelon|  CAD   |
@@ -174,7 +174,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 
 Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
-|  Land/Region | Währung  |
+|  Country/Region | Währung  |
 |  -------------- |:--------:|
 |  Ålandinseln  |   EUR    |
 |  Andorra        |   EUR    |
@@ -189,8 +189,8 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Estland        |   EUR    |
 |  Färöer  |   EUR    |
 |  Finnland        |   EUR    |
-|  Frankreich         |   EUR    |
-|  Deutschland        |   EUR    |
+|  France         |   EUR    |
+|  Germany        |   EUR    |
 |  Gibraltar      |   GBP    |
 |  Griechenland         |   EUR    |
 |  Grönland      |          |
@@ -198,7 +198,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Ungarn        |   EUR    |
 |  Island        |   EUR    |
 |  Irland        |   EUR    |
-|  Isle Man    |   GBP    |
+|  Isle of Man    |   GBP    |
 |  Italien          |   EUR    |
 |  Jersey         |   GBP    |
 |  Lettland         |   EUR    |
@@ -219,7 +219,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Svalbard und Jan Mayen|NOK|
 |  Schweden         |   SEK    |
 |  Schweiz    |   CHF    |
-|  Vereinigtes Königreich             |   GBP    |
+|  GROSSBRITANNIEN             |   GBP    |
 |  Vatikanstadt   |          |
 |
 
@@ -227,7 +227,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 
 Wenn der Standort Ihres Unternehmens Indien ist, können Sie CSP-Angebote an Kunden in Indien verkaufen.
 
-|  Land/Region | Währung |
+|  Country/Region | Währung |
 |  -------------- |:--------:|
 |  Indien          |   INR    |
 |
@@ -236,7 +236,7 @@ Wenn der Standort Ihres Unternehmens Indien ist, können Sie CSP-Angebote an Kun
 
 Wenn der Standort Ihres Unternehmens Japan ist, können Sie CSP-Angebote an Kunden in Japan verkaufen.
 
-|  Land/Region | Währung |
+|  Country/Region | Währung |
 |  -------------- |:--------:|
 |  Japan          |   JPY    |
 |
@@ -245,7 +245,7 @@ Wenn der Standort Ihres Unternehmens Japan ist, können Sie CSP-Angebote an Kund
 
 Wenn der Standort Ihres Unternehmens die Republik Korea ist, können Sie CSP-Angebote an Kunden in der Republik Korea verkaufen.
 
-|  Land/Region    | Währung |
+|  Country/Region    | Währung |
 |  --------------    |:--------:|
 |  Republik Korea|   KRW    |
 |
@@ -254,7 +254,7 @@ Wenn der Standort Ihres Unternehmens die Republik Korea ist, können Sie CSP-Ang
 
 Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
-|  Land/Region | Währung |
+|  Country/Region | Währung |
 |  -------------- |:--------:|
 |  Anguilla       |   USD    |
 |  Antarktis     |   USD    |
@@ -315,19 +315,19 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 
 Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
-|  Land/Region | Währung |
+|  Country/Region | Währung |
 |  -------------- |:--------:|
 |  Afghanistan    |          |
 |  Albanien        |   USD    |
 |  Algerien        |          |
 |  Armenien        |   USD    |
-|  Aserbeidschan     |   USD    |
+|  Aserbaidschan     |   USD    |
 |  Bahrain        |   USD    |
 |  Belarus        |   USD    |
 |  Bosnien und Herzegowina|    |
 |  Britisches Territorium im Indischen Ozean|   USD   |
 |  Ägypten          |   USD    |
-|  Georgien        |   USD    |
+|  Georgia        |   USD    |
 |  Irak           |   USD    |
 |  Israel         |   USD    |
 |  Jordanien         |          |
@@ -368,7 +368,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 
 Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
-|  Land/Region | Währung |
+|  Country/Region | Währung |
 |  -------------- |:--------:|
 |  Amerikanisch-Samoa |   NZD    |
 |  Neuseeland    |   NZD    |
@@ -380,7 +380,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 
 Wenn der Standort Ihres Unternehmens Russland ist, können Sie CSP-Angebote an Kunden in Russland verkaufen.
 
-|  Land/Region | Währung |
+|  Country/Region | Währung |
 |  -------------- |:--------:|
 |  Russische Föderation         |    RUB   |
 |
@@ -389,7 +389,7 @@ Wenn der Standort Ihres Unternehmens Russland ist, können Sie CSP-Angebote an K
 
 Wenn der Standort Ihres Unternehmens Taiwan ist, können Sie CSP-Angebote an Kunden in Taiwan verkaufen.
 
-|  Land/Region | Währung |
+|  Country/Region | Währung |
 |  -------------- |:--------:|
 |  Taiwan         |   TWD    |
 |
@@ -398,7 +398,7 @@ Wenn der Standort Ihres Unternehmens Taiwan ist, können Sie CSP-Angebote an Kun
 
 Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, können Sie CSP-Angebote an Kunden an allen Standorten in der Liste verkaufen.
 
-|  Land/Region       | Währung |
+|  Country/Region       | Währung |
 |  -------------        |:--------:|
 |  USA        |   USD    |
 |  Kleinere Amerikanische Überseeinseln|   USD    |

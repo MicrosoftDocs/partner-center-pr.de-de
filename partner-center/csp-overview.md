@@ -9,16 +9,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner im CSP, direkte Partner, direkter CSP-Partner, indirekter CSP-Händler, direkter CSP, indirekter CSP, direktes Modell, indirektes Modell, indirekter Händler, indirekter Anbieter, Anbieter, Verteiler, Cloud Solution Provider-Programm
 ms.localizationpriority: medium
-ms.openlocfilehash: a00c95c4a24fea9fd76779bb970375906af999c4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 203168cd57724723261e661627343594a1e8be00
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252831"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672830"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Programm für Cloud Solution Provider – begehrte Cloudlösungen verkaufen 
 
-**Gilt für**
+**Gilt für:**
 
 - Partner Center
 - Partner im CSP-Programm
@@ -39,7 +39,7 @@ Das Cloud Solution Provider-Programm (CSP) unterstützt Sie bei der Weiterverkau
 
 #### <a name="new-expanded-requirements"></a>Neue erweiterte Anforderungen:
 
-Support
+Unterstützungswert
 - Erweitern Sie Ihre Supportfähigkeiten durch den Erwerb eines persönlichen, priorisierten Cloud-Supports mit dem erweiterten Microsoft-Support für Partner. Oder wählen Sie das Paket Microsoft-Premiumsupport für Partner, um auf das gesamte Portfolio an proaktiven Services, einen hochgestuften Break/Fix-Support rund um die Uhr sowie eine technische Kontenverwaltung für Cloud-, Hybrid- und lokale Umgebungen zuzugreifen. 
 
 Dienste
@@ -65,7 +65,7 @@ Im indirekten Modell erwerben Anbieter (auch Distributoren genannt) Microsoft-Pr
 
 Ihr Markt wird durch den Standort Ihres Unternehmens bestimmt. Ihr Markt umfasst die Regionen und/oder Länder, in denen Sie CSP-Angebote verkaufen können. Eine umfassende Liste mit CSP-Märkten und Währungen finden Sie unter [regionale Märkte und Währungen des Cloud Solution Provider-Programms](regional-authorization-overview.md) .
 
-Bevor Sie CSP-Angebote im Namen eines Kunden bestellen können, muss der Kunde den Microsoft Cloud-Vertrag unterschreiben. Die entsprechende Microsoft Cloud Vereinbarung für den Standort Ihres Kunden finden Sie [hier](agreements.md).  
+Bevor Sie CSP-Angebote im Auftrag eines Kunden bestellen können, muss der Kunde den Microsoft-Kundenvertrag signieren. Sie finden den entsprechenden Microsoft-Kundenvertrag für den Standort Ihres Kunden [hier](agreements.md).  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>Was kann ich über das CSP-Programm verkaufen?
 
@@ -74,10 +74,10 @@ Sie können das gesamte Spektrum von [Microsoft Cloud Services](https://partner.
 ## <a name="see-also"></a>Siehe auch 
 
 
-|**Informationen zu diesem**   |**Artikel**   |
+|**Informationen zu diesem**   |**Bitte lesen**   |
 |:---------------------------|:--------------------|
 |Anforderungen für die einzelnen CSP-Modelle   | [Cloud Solution Provider-Programm](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |In nationalen Clouds von Microsoft verkaufen   | [Für den Vertrieb in Microsoft National Clouds anwenden](csp-national-clouds-overview.md)|
-|Microsoft Cloud Agreement – Kundenvorlagen   |[Microsoft Cloud-Verträge nach Region und Sprache](agreements.md)|
+|Microsoft-Kundenvereinbarung – Kundenvorlagen   |[Microsoft-Kunden Verträge nach Region und Sprache](agreements.md)|
 |Indirekte Anbieter Tasks im Partner Center  |[Partner mit indirekten Wiederverkäufern im Cloud Solution Provider-Programm](indirect-provider-tasks-in-partner-center.md)|
 |Indirekte Reseller-Aufgaben im Partner Center   |[Partner mit indirekten Anbietern im Cloud Solution Provider-Programm](indirect-reseller-tasks-in-partner-center.md)|

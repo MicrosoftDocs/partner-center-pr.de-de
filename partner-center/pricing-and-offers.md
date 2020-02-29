@@ -1,24 +1,24 @@
 ---
 title: Preise und Angebote | Partner Center
 ms.topic: article
-ms.date: 09/26/2019
+ms.date: 02/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Die Angebotsliste enthält die verschiedenen Produktfamilien, die über Partner Center erworben werden können, sowie die entsprechenden Preise.
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ca270413291ba0d09ca03d9b8b270a65f77a46b1
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.openlocfilehash: e33b89e76a57e1e6f5457e208a61bc04ad841271
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631823"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161514"
 ---
 # <a name="pricing-and-offers"></a>Preise und Angebote
 
-**Gilt für**
+**Gilt für:**
 
 -  Partner Center
 
@@ -30,36 +30,36 @@ ms.locfileid: "75631823"
 -   Vertriebsbeauftragter
 -   Abrechnungsadministrator
 
-Die neuesten Preislisten und Angebote des Cloud Solution Provider-Programms finden Sie unter **Verkaufen > Preise und Angebote**. Dort finden Sie separate Preislisten für lizenzbasierte Dienste wie Office 365, Microsoft Dynamics CRM und Enterprise Mobility Suite sowie für nutzungsbasierte Dienste (einschließlich Azure). 
+Die neuesten Angebote und Angebote für das Cloud Solution Provider-Programm finden Sie unter **verkaufen > Preise und Angebote**. Sie finden separate Preislisten für Lizenz basierte Dienste wie Office 365, Microsoft Dynamics CRM und Enterprise Mobility Suite und Verwendungs basierte Dienste, die Azure enthalten. 
 
-Die Angebotsliste enthält die verschiedenen Produktfamilien, die über Partner Center erworben werden können. Hierzu zählen aktuell Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM und Microsoft Azure. Diese Liste wird mit der Zeit erweitert.
+Die Angebotsliste enthält die verschiedenen Produktfamilien, die über Partner Center erworben werden können. Diese umfassen derzeit Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM und Microsoft Azure. Diese Liste wird weiterhin erweitert, wenn neue Produkte verfügbar werden.
 
-Innerhalb dieser Produktfamilien gibt es verschiedene SKUs und Produktpakete, die Sie abhängig von Ihrem Geschäft verkaufen können. Über die Angebotsmatrix für Cloud-Handelspartner auf der Seite „Preise und Angebote“ stehen Ihnen stets die neuesten Informationen zur Verfügung.
+In jeder dieser Produktfamilien gibt es verschiedene SKUs und Produktbündel, die Sie je nach Ihrem Unternehmen verkaufen können. Sie können jederzeit auf die neuesten Informationen zu diesen Produkten mithilfe der Cloud Reseller offer-Matrix zugreifen, die auf der Seite Preise und Angebote verfügbar ist.
 
-## <a name="pricelist-preview-and-change-frequency"></a>Preislistenvorschau und Änderungshäufigkeit 
+## <a name="price-list-preview-and-change-frequency"></a>Preislisten Vorschau und Änderungs Häufigkeit 
 
-Lizenzbasierte Dienste umfassen eine Preislistenvorschau, die 30 Tage vor jeglichen Änderungen bereitgestellt wird. Die Preislistenvorschau finden Sie unter **Verkaufen > Preise und Angebote**. Für nutzungsbasierte Dienste steht keine Preisvorschau zur Verfügung, da diese Dienste dynamisch sind. Die folgende Tabelle zeigt, wie Sie die Preislistentabelle lesen.
+Lizenz basierte Dienste enthalten eine Vorschau der Preisliste, die 30 Tage vor allen Änderungen bereitgestellt wird. Um die Vorschau der Preisliste anzuzeigen, besuchen Sie **> Preise und Angebote zu verkaufen**. Für nutzungsbasierte Dienste steht keine Preisvorschau zur Verfügung, da diese Dienste dynamisch sind. In der folgenden Tabelle wird erläutert, wie die Preislisten Tabelle gelesen wird.
 
 |**Artikel**        |**Definition**      |
 |:-----------   |:-----------   |
-|HINZUFÜGEN   |Neuer Preislistenartikel|
-|CHG   |Änderungen am Listenpreis von Monat zu Monat. Andere Änderungen, die nicht mit dem Listenpreis zusammenhängen, können eintreten, wenn Partner andere Eigenschaften von Monat zu Monat vergleichen, um andere Änderungen zu bestimmen.|
-|ENTFERNEN   |Aus der Preisliste entfernter Artikel|
-|UNC   |Listenpreis unverändert aus der pricelist des vorherigen Monats  |
+|HINZUFÜGEN   |Ein neues Element in der Preisliste.|
+|CHG   |Änderungen am Listenpreis von Monat zu Monat. Andere Änderungen, die nicht mit dem Listenpreis zusammenhängen, können eintreten, wenn Partner Preislisten zwischen Monaten vergleichen, um Änderungen an anderen Eigenschaften zu ermitteln.|
+|DEL   |Ein Element, das aus der Preisliste entfernt wurde.|
+|UNC   |Listenpreis unverändert aus der Preisliste des vorherigen Monats  |
 |Gültig ab (Datum)   |Das erste Datum, an dem ein Angebot bestellt werden kann    |
 |Gültig bis (Datum)   |Das letzte Datum, an dem ein Angebot bestellt werden kann   |
 |Angebotsanzeigename   |Der für den Kunden sichtbare Name des Angebots   |
 |Angebots-ID   |Der interne Bezeichner für das Angebot   |
-|Lizenzvertragstyp   |„Unternehmen“, „Behörde“ oder „Wissenschaftlich“. Bestimmt, an welchen Kundentyp das Angebot verkauft werden kann.|
-|Bestelleinheit   |Die Dauer des erworbenen Angebots. In der Regel ein Monat.   |
-|Sekundärer Lizenztyp   |Entweder nicht spezifisch, Add-On oder Testversion. Die Add-On-Option gibt an, dass der Kunde über bestimmte Produkte verfügen muss, um das Add-On erwerben zu können.|
-|Art des Endkunden   |Geht zurück auf die Art des Softwarelizenzvertrags: Unternehmenslizenz (Cloud-Handelspartner für Unternehmen), Behördenlizenz (Cloud-Handelspartner für Behörden) oder wissenschaftliche Lizenz (Cloud-Handelspartner für Lehrkräfte oder Cloud-Handelspartner für Schüler/Studenten)   |
+|Lizenzvertragstyp   |Lizenzvertrags Typen können entweder Unternehmen, Government oder Academic sein und bestimmen, an welche Kundentypen das Angebot verkauft werden kann.|
+|Bestelleinheit   |Die Dauer des erworbenen Angebots. Kauf Einheiten sind in der Regel ein Monat.   |
+|Sekundärer Lizenztyp   |Sekundäre Lizenztypen sind entweder nicht spezifisch, Add-on oder Testversion. Die Add-On-Option gibt an, dass der Kunde über bestimmte Produkte verfügen muss, um das Add-On erwerben zu können.|
+|Art des Endkunden   |Bezieht sich auf den Lizenz Vertragstyp: Corporate License-Cloud Reseller Corporate, Government License-Cloud Reseller Government oder Academic License-Cloud Reseller Dozenten oder Cloud Reseller Student   |
 |Listenpreis   |Der Preis, den der Partner zahlt   |
 |ERP-Preis   |Der geschätzte oder empfohlene Einzelhandelspreis für den Kunden   |
 
 ## <a name="price-changes"></a>Preisänderungen
 
-Preisänderungen werden häufig vorkommen. Partner können Preisänderungen für Lizenz basierte Angebote einschätzen, indem Sie sich die Preislisten Vorschau auf der Seite Preise und Angebote auf dem Partner Center-Dashboard ansehen. Azure Usage-basierte Preise haben keine Vorschau. Partner können mit der Gebühren Karten-API von Azure den Preis für die Preisgestaltung von Azure erhöhen, die die Verbrauchs Preise für diesen Tag zurückgibt.
+Preisänderungen werden häufig vorkommen. Partner können Preisänderungen für Lizenz basierte Angebote einschätzen, indem Sie sich die Preislisten Vorschau auf der Seite Preise und Angebote auf dem Partner Center-Dashboard ansehen. Azure Usage-basierte Preise haben keine Vorschau. Partner können mithilfe der Ratecard-API, die die Abrechnungspreise für diesen Tag zurückgibt, die Preisänderungen für Azure-Verbrauchseinheiten aufrechterhalten.
 
 |**Produkttyp**   |**Produktbeispiele**  |**Vorschau verfügbar** |**Details ändern**|
 |-----------------------|:-----------------------|:-------------------|------------------|
@@ -75,29 +75,33 @@ Nutzungsbasierte Preise können sich im Laufe eines Monats ändern. Um die tägl
 
 ## <a name="pricing-and-special-segments"></a>Preise und spezielle Segmente
 
-CSP bietet einige Dienste für spezielle Marktsegmente, z. b. Education, Non-Profit und Government Community Cloud. Nicht alle Dienste sind in allen Kanälen verfügbar. Standardmäßig wird kein Segment verwendet, das als "kommerzielles"-Segment bezeichnet wird. Alle lizenzbasierten Preise sind in der lizenzbasierten Preisliste auf der Seite Preise und Angebote verfügbar. Azure gov-Preise sind in der nutzungsbasierten Preisliste verfügbar, wenn Sie beim Azure gov-aktivierten CSP-Mandanten angemeldet sind.
+CSP bietet einige Dienste für spezielle Marktsegmente, z. b. Education, Non-Profit und Government Community Cloud. Nicht alle Dienste sind in allen Kanälen verfügbar. Standardmäßig wird kein Segment verwendet, das als "kommerzielles"-Segment bezeichnet wird. Alle lizenzbasierten Preise sind in der lizenzbasierten Preisliste auf der Seite Preise und Angebote verfügbar. Azure Government Preise sind in der nutzungsbasierten Preisliste verfügbar, wenn Sie beim Azure Government aktivierten CSP-Mandanten angemeldet sind.
 
 |**Segment**   |**Wer muss qualifiziert werden**   |**Partner qualifiziert Kunden**|**Aktivierte Produkttypen**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Kunde|Nein, Kunden Qualifizierung wird von Microsoft durchgeführt. |Nur Lizenz basiert|
-|Gemeinnützig|Kunde|Nein, Kunden, die sich außerhalb von Partner Center qualifizieren|Nur Lizenz basiert|
-|Government Community Cloud (GCC)|Partner und Kunde|Nachdem gcc aktiviert wurde, kann der Partner gcc-Kunden erstellen.| Nur Lizenz basiert|
-|Azure gov|Partner|Nach der Qualifikation arbeitet der Partner in einem CSP-Mandanten, der für Azure gov spezifisch ist.|Azure-Ressourcen|
+|Bildung|Kunde|Nein, Kunden Qualifizierung wird von Microsoft durchgeführt. |Nur Lizenz basiert|
+|Non-Profit|Kunde|Nein, Kunden, die sich außerhalb von Partner Center qualifizieren|Nur Lizenz basiert|
+|Government Community Cloud (gcc)|Partner und Kunde|Nachdem gcc aktiviert wurde, kann der Partner gcc-Kunden erstellen.| Nur Lizenz basiert|
+|Azure gov|Partner-|Nach der Qualifikation arbeitet der Partner in einem CSP-Mandanten, der für Azure gov spezifisch ist.|Azure-Ressourcen|
 
 Partner Ränder: der Unterschied zwischen dem Listenpreis und den geschätzten Einzelhandelspreisen kann von Segment zu Segment abweichen. In der Regel haben Education und Non-Profit für CSP-Partner tendenziell niedrigere oder keine Ränder. Genaue Werte finden Sie in der lizenzbasierten Preisliste.  
 ## <a name="pricing-between-azure-and-non-azure"></a>Preise zwischen Azure und nicht-Azure
 
 Die Preise unterscheiden sich in verschiedenen Angebots Typen. Lizenz basierte Preise sind in der Regel der Betrag pro Arbeitsplatz (Lizenz) für einen bestimmten Monat. Nutzungsbasierte Preise werden durch die Verwendung einer bestimmten Ressource und eine zugeordnete Abrechnungs-ID bestimmt. Für Partner fallen keine Gebühren für den Erwerb des Azure-Abonnements an, werden aber für Ressourcen in Rechnung gestellt, die von verschiedenen bereit Stellungen im Abonnement genutzt werden. Die Preise in der nutzungsbasierten Preisliste werden um verschiedene Ressourcen Zähler-IDs in Azure organisiert.
 
-Azure-Reservierungen sind Begriffs basierte Käufe für den jeweiligen Ressourcentyp Virtual Machines. Der Erwerb einer Azure-Reservierung ermöglicht einem Partner das vorab bezahlen (ein oder drei Jahre) und die Reservierung eines bestimmten virtuellen Computers. Dadurch wird der Partner Geld gespart, und es wird sichergestellt, dass der virtuelle Computer für die Dauer der Laufzeit immer verfügbar ist. Ein Partner kann die gewünschte Reservierung an die nutzungsbasierten Ressourcen Zähler-IDs ausrichten. Die Abrechnungs Einheiten sind für die gesamte Ressource konsistent, unabhängig davon, ob der Partner einen virtuellen Computer kauft oder den virtuellen Computer einfach als Verwendungs basierte Ressource bereitstellt. 
+Azure-Reservierungen sind Begriffs basierte Käufe für den jeweiligen Ressourcentyp Virtual Machines. Der Erwerb einer Azure-Reservierung ermöglicht einem Partner die vorab Zahlung (ein oder drei Jahre) und die Reservierung eines bestimmten virtuellen Computers, das Speichern der Partner Kosten und die Sicherstellung, dass der virtuelle Computer für die Dauer der Laufzeit immer verfügbar ist. Ein Partner kann die gewünschte Reservierung an die nutzungsbasierten Ressourcen Zähler-IDs ausrichten. Die Abrechnungs Einheiten sind für die gesamte Ressource konsistent, unabhängig davon, ob der Partner einen virtuellen Computer kauft oder den virtuellen Computer einfach als Verwendungs basierte Ressource bereitstellt. 
 
 
 ## <a name="offers-matrix"></a>Angebotsmatrix
 
-In der Angebotsmatrix für Cloud-Handelspartner auf der Seite „Preise und Angebote“ erfahren Sie, welche SKUs und Produktpakete Sie verkaufen können. Die Angebotsmatrix gibt auch Aufschluss darüber, welche Angebote pro Gebiet verfügbar sind. Wenn ein Artikel zwar in der Preisliste, aber noch nicht in der Angebotsmatrix enthalten ist, bedeutet das, dass die Produkte noch nicht bestellt werden können. Die Angebotsmatrix wird aktualisiert, sobald sie bestellt werden können.
+In der Angebotsmatrix für Cloud-Handelspartner auf der Seite „Preise und Angebote“ erfahren Sie, welche SKUs und Produktpakete Sie verkaufen können. Die Angebotsmatrix gibt auch Aufschluss darüber, welche Angebote pro Gebiet verfügbar sind. Wenn ein Element in der Preisliste enthalten ist, aber noch nicht in der Angebots Matrix aufgeführt ist, bedeutet dies, dass die Produkte noch nicht sortiert werden können. Die Angebotsmatrix wird aktualisiert, sobald sie bestellt werden können.
 
-Für CSP-Partner, die die Partner Center-SDKs (Software Development Kits) verwenden, veröffentlicht Microsoft auf der Seite „Preise und Angebote“ auch eine Liste mit den Azure-Diensten in CSP.
+Für CSP-Partner, die den Partner Center Software Development Kits (SDKs) verwenden. veröffentlicht Microsoft auf der Seite „Preise und Angebote“ auch eine Liste mit den Azure-Diensten in CSP.
 
-### <a name="offers-matrix-and-pricelist-questions"></a>Fragen zu Angebotsmatrix und Preisliste
+### <a name="offers-matrix-and-price-list-questions"></a>Angebote zu Matrizen und Preislisten
 
-Sollten Sie Fragen zur Angebotsmatrix oder zur Preisliste haben, senden Sie eine Serviceanfrage über Partner Center.
+Wenn Sie Fragen zur Preisliste oder Angebots Matrix haben, senden Sie eine Service Request über das Partner Center.
+
+### <a name="taxes-and-pricing"></a>Steuern und Preise
+
+Alle Preise in den Preislisten der Partner Center-CSP sind Tax inklusiv. Weitere Informationen finden Sie im Partner Center in den Dokumenten [Steuern und Steuern](https://docs.microsoft.com/partner-center/tax-and-tax-exemptions).

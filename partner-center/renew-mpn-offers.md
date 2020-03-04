@@ -10,16 +10,16 @@ ms.author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, Kompetenzerneuerung, Verlängerungsdatum
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: a4043209b701d4cf5f4fd475321b592edd7410f3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0495b519aeefbe927c43b48105c6672894fb46a2
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651954"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161434"
 ---
 # <a name="renew-your-mpn-offers"></a>Verlängern von MPN-Angeboten
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
 
@@ -39,6 +39,3 @@ Sie können das Abonnement innerhalb von 30 Tagen ab dem Jahrestag verlängern.
 
 Wenn Sie Ihr Abonnement innerhalb des Zeitfensters verlängern, liegt der neue Jahrestag 365 Tage nach Ihrem aktuellen Jahrestag.
 
-## <a name="manage-auto-renewal"></a>Verwalten der automatischen Verlängerung
-
-Wenn Sie die automatische Verlängerung aktiviert haben, wird Ihre Kreditkarte einen Tag nach dem Jahrestag belastet. Sie können die automatische Verlängerung jederzeit vor dem Jahrestag deaktivieren.

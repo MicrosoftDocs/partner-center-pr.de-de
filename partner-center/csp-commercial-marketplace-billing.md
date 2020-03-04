@@ -1,7 +1,7 @@
 ---
 title: Abrechnung für kommerzielle Marketplace-Produkte | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 02/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie die Abrechnung für ISV SaaS-Produkte oder-Abonnements funktioniert, die für Kunden vom kommerziellen Marketplace innerhalb von Partner Center erworben wurden.
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: Abonnements, Produkte, Käufe, Marketplace, Drittanbieter, ISV, Abrechnung, Rechnungen, Abstimmung, Reconnaissance-Datei
 ms.localizationpriority: medium
-ms.openlocfilehash: 983cdfbe67b04205a6c863d92577225449572c52
-ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
+ms.openlocfilehash: 35db6e9e1fbdfe5e455e5b4e73e39b76cad496aa
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/28/2020
-ms.locfileid: "78161446"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240197"
 ---
 # <a name="billing-for-commercial-marketplace-products"></a>Abrechnung für kommerzielle Marketplace-Produkte
 
@@ -35,7 +35,7 @@ Sie können auf Rechnungen entweder über das Partner Center- [Dashboard](https:
 Partner im CSP-Programm werden für einen Kunden erworbene ISV-Marketplace-Lösungen in Rechnung gestellt, wenn Sie diese Produkte entweder über Partner Center oder über den Azure-Portal erwerben (über den früheren, von CSP erworbenen Azure-Mandanten des Kunden).
 
 >[!NOTE]
->Wenn Kunden ihren eigenen Azure AD Mandanten verwenden (nicht einer von einem Partner im CSP-Programm erworbenen), können Kunden auch eine eigene ISV-SaaS-Lösung direkt von ([Microsoft AppSource](https://appsource.microsoft.com/) oder [Azure Marketplace](https://azuremarketplace.microsoft.com/)) erwerben. Wenn dies der Fall ist, erhalten Sie eine eigene Rechnung direkt von Microsoft. Wenn ein Partner im CSP-Programm ein Azure-Abonnement oder den neuen Azure-Plan an den Kunden verkauft und dem Kunden [rollenbasierten Zugriff](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) auf diesen Mandanten gewährt (dem Kunden neben **Reader**eine Rolle zuweisen), kann dieser Kunde auch kommerzielle Marketplace-Angebote erwerben, ohne vorherige Genehmigung oder Benachrichtigung an den CSP-Partner zu erhalten. In diesen Fällen werden Partner im CSP-Programm von Microsoft nicht direkt über die von ihren Kunden getätigten Einkäufe benachrichtigt. Microsoft bietet jedoch einen optionalen [Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) Mechanismus an, den Sie verwenden können, um Warnungen oder Benachrichtigungen zu Aktivitäten in einem Azure-Abonnement festzulegen.
+>Wenn Kunden ihren eigenen Azure AD Mandanten verwenden (nicht einer von einem Partner im CSP-Programm erworbenen), können Kunden auch eine eigene ISV-SaaS-Lösung direkt von ([Microsoft AppSource](https://appsource.microsoft.com/) oder [Azure Marketplace](https://azuremarketplace.microsoft.com/)) erwerben. Wenn dies der Fall ist, erhalten Sie eine eigene Rechnung direkt von Microsoft. Wenn ein Partner im CSP-Programm ein Azure-Abonnement oder den neuen Azure-Plan an den Kunden verkauft und dem Kunden (oder dem indirekten Reseller) [rollenbasierten Zugriff](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) auf diesen Mandanten gewährt (dem Kunden neben **Reader**eine Rolle zuweisen), kann dieser Kunde (oder indirekte Reseller) auch kommerzielle Marketplace-Angebote erwerben, ohne vorherige Genehmigung oder Benachrichtigung an den CSP-Partner zu erhalten. In diesen Fällen werden Partner im CSP-Programm von Microsoft nicht direkt über die von ihren Kunden getätigten Einkäufe benachrichtigt. Microsoft bietet jedoch einen optionalen [Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) Mechanismus an, den Sie verwenden können, um Warnungen oder Benachrichtigungen zu Aktivitäten in einem Azure-Abonnement festzulegen.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>Zugriff auf Abrechnungsinformationen für kommerzielle Marketplace-Produkte
 

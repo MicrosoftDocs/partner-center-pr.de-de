@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: zurückbehalten von Steuer Guthaben, Steuer Guthaben, deutschen Steuer Guthaben, Steuer Zertifikaten
 ms.localizationpriority: medium
-ms.openlocfilehash: dd8edceaa69ce3ca29e152cc19043b805b5748da
-ms.sourcegitcommit: 18cea2726e69b6bf6e286641e28bbe6041309ae3
+ms.openlocfilehash: ceb8958faa2d2e826cb74caa0484fb90c9667bb0
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "77618525"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240227"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Stellen Sie sicher, dass Sie für die zurück Haltungs Steuern
 
@@ -50,7 +50,7 @@ Führen Sie die folgenden Schritte aus, um eine neue Steuer gegen übereinhaltun
 7. **Fügen** Sie ein Steuer Zertifikat an. Sie müssen eine **digitale Kopie** ihrer zurück **Haltungs Steuer Zertifikate** in Ihre Steuern. Sie haben dieses Zertifikat von Ihrer lokalen Steuerbehörde erhalten, als Sie Ihre Anfrage im Partner Center eingereicht haben. Der Rechnungs Steuerungs Betrag im Steuer Zertifikat für die Rechnungsstellung muss mit dem Gesamtbetrag in der steuerungskennisanforderung identisch sein. 
 
 > [!IMPORTANT]
-> Die Gesamtsummen, die der Partner bereitstellt, sollten mit dem Rechnungsposten des angefügten Steuer Zertifikats übereinstimmen.
+> Die Gesamtsummen, die der Partner bereitstellt, sollten mit dem Rechnungsposten des angefügten Steuer Zertifikats übereinstimmen. Dateien für angefügte Steuer Zertifikate müssen eines der folgenden Dateiformate aufweisen:. Nur PDF und Bild (. JPEG,. PNG und. GIF). Außerdem dürfen Dateinamen keine Leerzeichen oder Sonderzeichen enthalten.
 
 8. **Senden** Sie die Anforderung zum Steuern der Steuer Anforderung.
 

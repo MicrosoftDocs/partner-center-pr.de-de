@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 3d21c796aebe41322d8f390ce54d13b1f80ec309
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: 2184733bbbfb5fa3beede2cb45cb409109f11bad
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521043"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240241"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Neues E-Commerce-Verfahren in CSP: Azure-Abrechnung 
 
@@ -53,7 +53,7 @@ Der globale Administrator oder der Abrechnungsadministrator Ihres Unternehmens e
 
 3. Wählen Sie die Registerkarte für **laufende** und **einmalige** Gebühren sowie die für Sie relevante Währung aus.
 
-![Abrechnung](images/azure/billing1.png)
+![Abrechnung](images/azure/billing3.png)
 
 4. Wählen Sie **Rechnung** oder **Abstimmungsdatei** aus.  
 

@@ -1,7 +1,7 @@
 ---
 title: Verwalten des Partner Center-Kontos | Partner Center
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 03/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Im Partner Center kannst du das Profil, den Katalog, Bank- und Steuerinformationen, Rollen, Berechtigungen und weitere Angaben zu deinem Unternehmen verwalten.
@@ -10,38 +10,48 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: ec5934e4d35b653e8e781e8eb1290bfbaee0d737
-ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
+ms.openlocfilehash: 6955ba66c95557d8e704ec4737f6be6b9006e344
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76812678"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240182"
 ---
 # <a name="manage-your-partner-center-account"></a>Verwalten des Partner Center-Kontos
 
 **Zielgruppe**
 
--  Partner Center
-
-**Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   Administrator-Agent
+- Partner Center
 
 Das Konto, das Sie bei der Registrierung in Partner Center erstellen, besteht aus Ihrer beruflichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem du ein Konto im Partner Center erstellt hast, musst du (oder dein Administrator) die Einrichtung deines Unternehmensprofils abschließen (einschließlich Supportinformationen, ggf. Steuerbefreiungen und Angaben zum Hauptansprechpartner). Das Unternehmenskonto umfasst außerdem Benutzerkonten für alle Personen, die das Partner Center zum Hinzufügen oder Verwalten von Kunden, zum Verkaufen von Abonnements, zur Abrechnung und Fakturierung, zum Erstellen von Unternehmensprofilen, zum Verwalten von Empfehlungen, zum Arbeiten mit Incentives-Programmen und zum Bereitstellen von Support nutzen.
 
+## <a name="programs-in-which-you-are-enrolled"></a>Programme, für die du registriert bist
+
+Ein Großteil der Arbeit zur Verwaltung des Partner Center-Kontos bezieht sich auf die spezifischen Programme, bei denen du registriert bist, sowie auf die Benutzerrollen und Berechtigungen, die dir im Partner Center zugewiesen wurden.
+
+Du siehst auf einen Blick, auf welche Programme du im Partner Center Zugriff hast:
+
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
+2. Achte auf den linken Navigationsbereich, in dem Optionen für deine registrierten Programme angezeigt werden.
+
+Stellen wir uns einfach vor, dass ein Benutzer Zugriff auf drei Programme im Partner Center-Dashboard hat: die Programme **MPN**, **Empfehlungen** und **Kommerzieller Marketplace**. Wenn sich Benutzer beim Partner Center-Dashboard anmelden, sehen sie drei Programme auf der linken Seite des Bildschirms.
+
+![Menü mit registrierten Programmen](images/accountsettings/programs-enrolled-left-nav.png)
+
 ## <a name="account-management"></a>Kontoverwaltung
 
-Konten werden im Partner Center derzeit in zwei verschiedenen Abschnitten verwaltet: In den **Partnereinstellungen** und **Entwicklereinstellungen**. 
+Konten werden im Partner Center derzeit in zwei verschiedenen Abschnitten verwaltet: unter **Partnereinstellungen** und **Entwicklereinstellungen**.
 
 >[!NOTE]
->Die Kontoeinstellungen befinden sich in der oberen rechten Ecke von Partner Center. Über das Symbol können Sie auswählen, was Sie verwalten möchten. 
+>Um auf **Partnereinstellungen** oder **Entwicklereinstellungen** zuzugreifen, musst du dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) anmelden. Wähle dann die Option **Einstellungen** (das Zahnradsymbol) in der oberen rechten Ecke des Bildschirms aus. Anschließend kannst du entweder **Partnereinstellungen** oder **Entwicklereinstellungen** aus dem Dropdownmenü auswählen.
 
 ![Konteneinstellungen](images/accountsettings/account1.png)
 
-Partner können die Option zum Verwalten von Partnereinstellungen und/oder Entwicklereinstellungen sehen, je nachdem, ob sich ihr Unternehmen für diese Programme registriert hat. Die Einstellungsoption ist nur verfügbar, wenn sich das Unternehmen für mindestens ein Programm registriert hat, das mit dieser Einstellung verknüpft ist. 
+Partner können die Option zum Verwalten von **Partnereinstellungen** und/oder **Entwicklereinstellungen** sehen. Dies hängt davon ab, ob sich ihr Unternehmen für diese Programme registriert hat. Die Einstellungsoption ist nur verfügbar, wenn sich das Unternehmen für mindestens ein Programm registriert hat, das mit dieser Einstellung verknüpft ist.
 
-Um die Kontoeinstellungen zu verwalten, musst du die entsprechende Kontoeinstellungsoption für das Programm auswählen. Die Programme, für die sich das Unternehmen registriert hat, werden im Partner Center im linken Navigationsbereich angezeigt. Dies ist eine (unvollständige) Liste der Programme und ihrer entsprechenden Einstellungsoption:
+Um die Kontoeinstellungen zu verwalten, muss du die entsprechende Kontoeinstellungsoption für das betreffende Programm auswählen.  
+
+Dies ist eine partielle Liste der verfügbaren Programme und der entsprechenden Einstellungsoption, die dem Programm zugeordnet ist:
 
 |**Programmname**   |**Einstellungsoption** |
 |---------------------|:-----------------------|
@@ -55,17 +65,28 @@ Um die Kontoeinstellungen zu verwalten, musst du die entsprechende Kontoeinstell
 
 ## <a name="the-differences-in-partner-and-developer-settings-options"></a>Unterschiede bei den Optionen für Partnereinstellungen und Entwicklereinstellungen
 
-**Optionen für Partnerkontoeinstellungen**:
+Die Optionen unter **Partnereinstellungen** unterscheiden sich von den Optionen unter **Entwicklereinstellungen**. Im Folgenden werden Screenshots als Beispiele für die verschiedenen Optionen angezeigt. Wenn du Zugriff auf andere Programme hast, siehst du möglicherweise auch andere Optionen als hier in den Screenshots.
+
+**Optionen für Partnereinstellungen**:
 
 ![Partneroptionen](images/accountsettings/partneroptions.png)
 
-**Optionen für Entwicklerkontoeinstellungen**:
+**Optionen für Entwicklereinstellungen**:
 
 ![Entwickleroptionen](images/accountsettings/devoptions.png)
 
 ## <a name="enrolling-in-programs"></a>Registrieren für Programme
 
-Es gibt viele Partner Center-Programme. Jedes Programm stellt unterschiedliche Anforderungen an die Registrierung eines Unternehmens. Informationen zum Registrieren für Partner Center-Programme findest du unter [Partner Network](https://partner.microsoft.com/). 
+Es stehen zahlreiche Partner Center-Programme zur Verfügung. Jedes Programm hat unterschiedliche Anforderungen, die dein Unternehmen erfüllen muss, bevor es sich für dieses Programm registrieren kann.
+
+Weitere Informationen zum Registrieren für bestimmte Partner Center-Programme findest du in der folgenden partiellen Liste:
+
+- [Programm „Kommerzieller Marketplace“](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [MPN-Programm](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
+- [CSP-Programm](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
+
+Weitere Informationen zum Registrieren bei Partner Center-Programmen findest du auch unter [Partner Network-Ressourcen](https://partner.microsoft.com/).
 
 ## <a name="the-account-picker"></a>Kontoauswahl
 
@@ -73,7 +94,9 @@ Du kannst mehr als einem Konto angehören. Wenn du mehreren Konten angehörst, w
 
 ![Kontoauswahl](images/accountsettings/accountpicker.png)
 
-## <a name="resources-to-help-you-manage-your-partner-center-account"></a>Ressourcen, die Ihnen beim Verwalten Ihres Partner Center-Kontos helfen
+## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>Weitere Ressourcen, die dir beim Verwalten deines Partner Center-Kontos helfen
+
+Wenn du bei Programmen wie dem MPN-Programm oder dem CSP-Programm (Cloud Solution Provider) registriert bist, können dir die folgenden Ressourcen bei der Verwaltung deines Kontos helfen.
 
 |**Aufgabe**   |**Artikel**   |
 |-----------------------|:-----------------------|
@@ -87,22 +110,3 @@ Du kannst mehr als einem Konto angehören. Wenn du mehreren Konten angehörst, w
 |Sicherstellen, dass Ihr Unternehmen so vermarktet wird, dass es von Kunden gefunden wird   |[Erstellen eines Unternehmensprofils](create-a-marketing-profile.md)|
 |Organisieren des Katalogs, sodass die wichtigsten Produkte am Anfang der Liste stehen   |[Anpassen des Katalogs](customize-the-catalog.md)|
 |Regelmäßige Aktualisierung mit aktuellen Preisen und Angeboten   |[Preise und Angebote](pricing-and-offers.md)|
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
-

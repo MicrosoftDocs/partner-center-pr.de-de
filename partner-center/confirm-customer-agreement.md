@@ -1,5 +1,5 @@
 ---
-title: Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag | Partner Center
+title: Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung | Partner Center
 ms.topic: article
 ms.date: 02/18/2020
 ms.service: partner-dashboard
@@ -7,14 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Erfahre, wie du bestätigst, dass ein Kunde der Microsoft-Kundenvereinbarung zugestimmt hat. Dies kann erforderlich sein, um Microsoft-Produkte und -Dienste für Kunden zu bestellen.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Kunden, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Microsoft-Kundenvertrag, Vorlagen für Kundenverträge
+keywords: Kunden, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Microsoft-Kundenvereinbarung, Vorlagen für Kundenverträge
 ms.localizationpriority: high
-ms.openlocfilehash: e40272f40bb3aeb67d77fd9b5f122bd92a1384fb
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: 73e8f592aa8232a87bb112913e20e958fb899927
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521023"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672850"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung
 
@@ -33,9 +33,9 @@ ms.locfileid: "77521023"
 - Indirekte Handelspartner, Partner mit direkter Abrechnung, indirekte Anbieter
 
 
-Am 1. Oktober 2019 hat Microsoft die **Microsoft-Kundenvereinbarung** für das CSP-Programm eingeführt, die den Microsoft Cloud-Vertrag ersetzt. Zusätzliche Informationen findest du in den [Anleitungen](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fpartner-center%2Findirect-reseller-tasks-in-partner-center&data=02%7C01%7CChelsea.Kajs%40microsoft.com%7Cd5e0adc6b10646352ce508d7a4e84251%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637159189767080601&sdata=%2BPAWMBPVbVBkTx25r9CoD7cQxRqRVEYkxWIilrwwxZc%3D&reserved=0) für indirekte Handelspartner.
+Am 1. Oktober 2019 hat Microsoft die **Microsoft-Kundenvereinbarung** für das CSP-Programm eingeführt, die den Microsoft Cloud-Vertrag ersetzt. Zusätzliche Informationen findest du in den [Anleitungen](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fpartner-center%2Findirect-reseller-tasks-in-partner-center&data=02%7C01%7CChelsea.Kajs%40microsoft.com%7Cd5e0adc6b10646352ce508d7a4e84251%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637159189767080601&sdata=%2BPAWMBPVbVBkTx25r9CoD7cQxRqRVEYkxWIilrwwxZc%3D&reserved=0) für indirekte Handelspartner. Um die Migration von Partnern zur neuen Vereinbarung zu erleichtern, werden beide Vereinbarungen bis zum 31. Januar 2020 unter dem CSP-Programm fortgeführt. Ab dem 1. Februar 2020 wird der Microsoft Cloud-Vertrag durch die Microsoft-Kundenvereinbarung ersetzt. Informiere dich darüber, [wie du der Microsoft-Kundenvereinbarung zustimmst](confirm-customer-agreement.md).
 
- Um die Migration von Partnern zum neuen Vertrag zu erleichtern, wird der aktuelle Microsoft Cloud-Vertrag noch bis zum 31. Januar 2020 im CSP-Programm unterstützt. Partner können die Zustimmung des Kunden zur Microsoft-Kundenvereinbarung im Partner Center bestätigen. Ab sofort haben sie aber auch die Möglichkeit, den Kunden über eine URL einzuladen, damit dieser die Vereinbarung im authentifizierten Microsoft 365 Admin Center überprüfen und ihr zustimmen kann. Weitere Informationen zum zeitlichen Ablauf finden Sie in der folgenden Tabelle:
+Weitere Informationen zum zeitlichen Ablauf finden Sie in der folgenden Tabelle:
 
 | Datum | Meilenstein | Details |
 |------------|------------|--------------------------------|

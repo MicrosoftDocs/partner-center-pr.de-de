@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
-ms.openlocfilehash: dd7590634339acd3bfb6f1fe3fafd08aa7bdbf5c
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723447"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672800"
 ---
 # <a name="partner-security-requirements"></a>Sicherheitsanforderungen für Partner
 
@@ -64,13 +64,21 @@ Zur Einhaltung der Sicherheitsanforderungen für Partner musst du die mehrstufig
 
 ## <a name="security-defaults"></a>Sicherheitsstandards
 
-- Sicherheitsstandards ersetzen künftig Baselinerichtlinien. 
+Die Richtlinie für Sicherheitsstandards ist eine der [Optionen](#actions-that-you-need-to-take), die Partner je nach ihren geschäftlichen Bedürfnissen für die Umsetzung von MFA gemäß ihren Sicherheitsanforderungen wählen können. Sie bietet eine grundlegende Sicherheitsstufe, die ohne Zusatzkosten bereitgestellt wird. Informiere dich, wie du MFA im Rahmen von Azure AD für dein Unternehmen aktivieren kannst. Lies darüber hinaus die folgenden wichtigen Informationen, bevor du die Sicherheitsstandards aktivierst.
 
 - Die Baselinerichtlinien bleiben in den nächsten Monaten noch verfügbar, sollen aber Ende Februar 2020 außer Kraft gesetzt werden.
 
 - Partner, die aktuell Baselinerichtlinien verwenden, müssen jetzt handeln und auf Sicherheitsstandards umstellen.
 
+- Die nun allgemein verfügbaren Sicherheitsstandards ersetzen die Baselinerichtlinien aus der Vorschauversion. Nachdem ein Partner die Sicherheitsstandards aktiviert hat, kann er keine Baselinerichtlinien mehr aktivieren.
+
 - Durch die Sicherheitsstandards werden alle Richtlinien in einem Schritt aktiviert. 
+
+- Partner, die den [bedingten Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common) verwenden, [haben keinen Zugang zu Sicherheitsstandards](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults).
+
+- Die Blockierung der Legacyauthentifizierung wird derzeit für Partner nicht erzwungen. Da die meisten Ereignisse in Zusammenhang mit Identitätsbetrug jedoch bei der Anmeldung über die Legacyauthentifizierung auftreten, sollten Partner besser auf diese älteren Protokolle verzichten.
+
+- Das Azure AD Connect-Synchronisierungskonto ist von den Sicherheitsstandards ausgeschlossen.
 
 - Ausführliche Informationen findest du unter [Aktivieren der mehrstufigen Authentifizierung für dein Unternehmen](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-get-started) und [Azure Active Directory-Sicherheitsstandards](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 

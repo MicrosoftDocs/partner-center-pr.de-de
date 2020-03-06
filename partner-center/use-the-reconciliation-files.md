@@ -10,15 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 6bb65718159019c9ae47aa384524d9d52043d39b
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384801"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340218"
 ---
 # <a name="use-your-reconciliation-files"></a>Verwenden der Abstimmungs Dateien
 
-Gilt für:
+Betrifft:
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
@@ -72,7 +72,7 @@ So ordnen Sie der Rechnung Steuern oder Mehrwertsteuer (Tax) hinzu:
 
 Partner im **indirekten Modell** können diese zusätzlichen Felder sowohl in lizenzbasierten als auch auf Verwendungs basierten Abstimmungs Dateien verwenden, um die Dateien vom Wiederverkäufer zu itemisieren.
 
-| MPN-ID | Description |
+| MPN-ID | Beschreibung |
 | ------ | ----------- |
 | MPN-ID | Der Microsoft Partner Network (MPN)-Bezeichner des CSP-Partners (Cloud Solution Provider) (direkt oder indirekt). |
 | [MPN-ID des Wiederverkäufers](#reseller-mpn-id) | Der [MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement](#reseller-mpn-id). Dieses Feld entspricht der Wiederverkäufer-ID, die für das jeweilige Abonnement in Partner Center aufgeführt ist. Wird nur in den Abstimmungsdateien für Partner im indirekten Modell angezeigt. |

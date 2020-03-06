@@ -1,7 +1,7 @@
 ---
 title: Neuen Kunden hinzufügen | Partner Center
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 03/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie im Partner Center einen neuen Kundendaten Satz hinzufügen. Anschließend können Sie die Kunden Abonnements verkaufen, die Abrechnung verwalten oder Kundensupport bereitstellen.
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Kunde, Kunde hinzufügen, Kundenkonto, Kundenkonto im Partner Center, Kunden, Kunden hinzufügen, Kundenkonto erstellen
 ms.localizationpriority: medium
-ms.openlocfilehash: 81fd5d50db67b32ab6dac22c008dfcab0e347893
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 3ff14f57688e377286d46d6aa9cf2d235f032629
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672710"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340079"
 ---
 # <a name="add-a-new-customer"></a>Neuen Kunden hinzufügen 
 
@@ -43,6 +43,15 @@ Bevor Sie einem Kunden Abonnements verkaufen, die Abrechnung verwalten oder ihm 
 1. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann **Kunde hinzufügen** aus.
 
 2. Geben Sie auf der Seite **Kontoinformationen** die Details und die primären Kontaktinformationen des Kunden ein, und überprüfen Sie, ob der Kunde den neuesten [Microsoft-Kundenvertrag](agreements.md)akzeptiert und signiert hat.
+
+>[!NOTE]
+>
+>Stellen Sie sicher, dass Sie folgende Schritte durchführen, um die Genauigkeit während Kundenüberprüfung
+>- Verwenden Sie den exakten rechtlichen/offiziellen Namen, wie er in den offiziellen Dokumenten angezeigt wird.
+>- Vermeiden Sie die Verwendung von Akronymen oder kurzen Formularen
+>- Testnamen nicht verwenden
+>- Geben Sie eine komplette, genaue Adresse (Orts Details, Stadt, Bundesland, Land und Postleitzahl) an.
+
 
 >[!IMPORTANT] 
 > Am 1. Oktober 2019 hat Microsoft die **Microsoft-Kundenvereinbarung** für das CSP-Programm eingeführt, die den Microsoft Cloud-Vertrag ersetzt. Informieren Sie sich über den [Microsoft-Kundenvertrag und](confirm-customer-agreement.md) über die Bestätigung der Zustimmung

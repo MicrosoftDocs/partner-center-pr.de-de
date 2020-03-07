@@ -11,15 +11,15 @@ ms.author: labrenne
 Keywords: Abonnement, neu erstellen, Abonnement hinzufügen, anhalten, Abbrechen, aussetzen, anhalten, Saas, Lizenz, ISV, Drittanbieter
 ms.localizationpriority: medium
 ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721721"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340148"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Aussetzen oder Stornieren von Kundenabonnements
 
-**Zielgruppe**
+**Gilt für:**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -90,7 +90,7 @@ Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Be
 
 3. Wählen Sie das Abonnement aus, das Sie verwalten möchten.
 
-4. Wählen Sie im Abschnitt **Status** den Eintrag **Ausgesetzt** aus. **Übermitteln** Sie dann Ihre Änderungen.
+4. Wählen Sie im Abschnitt **Status** den Eintrag **Ausgesetzt** aus. **Übermitteln** Sie Ihre Änderungen.
 
 5. Alle Daten werden gelöscht, solange das Abonnement nicht innerhalb von 90 Tagen oder 90 Tagen zuzüglich der Anzahl der Tage zwischen der Eröffnung des Kontos und dem ersten Abrechnungszeitraum (maximal 120 Tage) reaktiviert wird.
 
@@ -125,7 +125,7 @@ Gehen Sie folgendermaßen vor, um ein Lizenz basiertes Saas-Abonnement von einem
 
 3. Suchen Sie das Abonnement, das Sie abbrechen möchten.
 
-4. Wählen Sie in der Spalte **Status** den Wert **Abbrechen**aus. **Übermitteln** Sie dann Ihre Änderungen.
+4. Wählen Sie in der Spalte **Status** den Wert **Abbrechen**aus. **Übermitteln** Sie Ihre Änderungen.
 
 5. Wenn ein Dialogfeld angezeigt wird, füllen Sie alle relevanten Details aus, und wählen Sie dann **senden**aus.
 
@@ -150,9 +150,9 @@ So beenden Sie das automatische Erneuern eines aktiven Marketplace-Abonnements:
 
 5. Suchen Sie auf der Seite Abonnement Details den Abschnitt **Status** , und deaktivieren Sie das Kontrollkästchen **Automatische Verlängerung** . 
 
-6. Wählen Sie **Übermitteln** aus.
+6. Wählen Sie **Absenden** aus.
 
-## <a name="see-also"></a>Weitere Informationen:
+## <a name="see-also"></a>Siehe auch
 
 - [Erwerben Sie kommerzielle Marketplace-Produkte für Ihre Kunden](csp-commercial-marketplace-purchase.md)
 - [Verwalten Sie kommerzielle Marketplace-Produkte für Ihre Kunden](csp-commercial-marketplace-manage.md)

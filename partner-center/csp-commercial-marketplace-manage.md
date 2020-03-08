@@ -10,15 +10,15 @@ ms.author: v-mihope
 keywords: Abonnements, Marketplace, Drittanbieter, ISV, SaaS-Angebote, cloudlösungsanbieter-Programm, Verwalten eines Angebots, Verwalten eines Abonnements, Lizenzen, kündigen eines Abonnements, Arbeitsplätze, Deaktivieren der automatischen Verlängerung, indirekte Reseller-MPN-ID
 ms.localizationpriority: medium
 ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253808"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340208"
 ---
 # <a name="manage-commercial-marketplace-products-for-your-customers"></a>Verwalten Sie kommerzielle Marketplace-Produkte für Ihre Kunden
 
-**Gilt für**
+**Gilt für:**
 
 - Partner Center
 - Partner im CSP-Programm

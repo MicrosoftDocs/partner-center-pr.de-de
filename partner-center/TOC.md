@@ -142,6 +142,7 @@
 ### [Erwerb des Azure-Plans](purchase-azure-plan.md)
 ### [Vergleich von Azure-Angeboten](compare-azure-offers.md)
 ### [Umstellung Ihrer Kunden auf einen Azure-Plan](azure-plan-transition.md)
+### [Verfügbare Azure-Dienste im Azure CSP](azure-plan-available.md)
 ### [Vom Partner erworbenes Guthaben – Übersicht](partner-earned-credit.md)
 ### [Wie von Partnern erworbene Guthaben berechnet und bezahlt werden](partner-earned-credit-explanation.md)
 ### [Neues E-Commerce-Verfahren in CSP: Azure-Abrechnung](azure-plan-billing.md) 

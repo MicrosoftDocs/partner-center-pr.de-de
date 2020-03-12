@@ -6,19 +6,19 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Bei Problemen mit einem Microsoft-Dienst oder mit Partner Center können Sie den Fall an Microsoft eskalieren, um Hilfe zu erhalten, und das Problem nachverfolgen, bis es behoben ist.
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
-author: MaggiePucciEvans
-ms.author: evansma
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: acc7d380ce5323c9d85859a5aa766c3c166622dc
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0a8bd33806e8b741539060204cda17bf7ddfc975
+ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651567"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "79023469"
 ---
 # <a name="support-from-microsoft"></a>Support von Microsoft
 
-**Zielgruppe**
+**Gilt für:**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -26,15 +26,14 @@ ms.locfileid: "73651567"
 
 Bei Problemen mit einem Microsoft-Dienst oder mit Partner Center können Sie den Fall an Microsoft eskalieren, um Hilfe zu erhalten, und das Problem nachverfolgen, bis es behoben ist.
 
-[Überprüfen der Dienstintegrität](check-service-health.md)
+[Partner Center-Support](report-problems-with-partner-center.md) : Holen Sie sich Hilfe, und erstellen Sie Tickets für alle Partner Center-Programme.
 
-[Melden von Problemen mit dem Partner Center](report-problems-with-partner-center.md)
+[Unterstützung im Namen von Kunden](report-problems-on-behalf-of-a-customer.md) : Hier erhalten Sie Hilfe und melden Probleme für Ihren Kunden.
 
-[Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md)
+[Überprüfen Sie die Dienst](check-service-health.md) Integrität: Überprüfen Sie, ob in Partner Center aktuelle bekannte Dienst Ausfälle vorhanden sind.
 
-[Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs](get-automated-service-notifications-with-our-apis.md)
+[Mit unseren APIs automatisierte Dienst Benachrichtigungen erhalten](get-automated-service-notifications-with-our-apis.md) : cloudlösungsanbieter können automatisierte Dienst Benachrichtigungen für die Kundendienste erhalten.
 
-[Supportvorteile von Microsoft](https://partner.microsoft.com/support/contact-support)
 
  
 

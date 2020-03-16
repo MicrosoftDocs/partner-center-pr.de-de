@@ -2,21 +2,21 @@
 title: Überprüfen von Partnerprofilen
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie Ihre Unternehmens Details überprüfen, wie z. b. primäre Kontakt-, Adress-und Programminformationen Sie können auch ihre rechtlichen und Abrechnungs bezogenen Adressen aktualisieren.
+description: Erfahren Sie, wie Sie Ihre Unternehmensdetails überprüfen, z. B. den primären Kontakt-, die Adresse und Programminformationen. Sie können auch ihre rechtlichen Adressen und Abrechnungsadressen aktualisieren.
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
-ms.openlocfilehash: 262c1f224a5056aaf985e2af4206e62fa809aa8a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 44b3a2cdadbc841ef3d1a5e005c119780d987451
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943053"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340087"
 ---
 # <a name="verify-your-partner-profile"></a>Überprüfen von Partnerprofilen
 
-Wenn Sie sich zum ersten Mal als globaler Administrator in Partner Center anmelden, stellen Sie sicher, dass alle Ihre Unternehmensdaten wie Hauptkontakt, offizieller Geschäftsname und Adresse sowie Programminformationen ordnungsgemäß hinzugefügt wurden. Wenn Ihr Unternehmen mehr als einen Standort hat, überprüfen Sie Ihre Standortdaten auf Richtigkeit. Als globaler Administrator, Abrechnungsadministrator oder Administrator-Agent können Sie auch Ihre Abrechnungs- und Steuerinformationen einsehen und aktualisieren. 
+Wenn Sie sich zum ersten Mal bei Partner Center als globaler Administrator anmelden, sollten Sie bestätigen, dass alle Unternehmensdetails richtig sind. Hierzu gehören der primäre Kontakt, der rechtliche Geschäftsname und die Adresse sowie Programminformationen. Wenn Ihr Unternehmen mehr als einen Standort hat, überprüfen Sie Ihre Standortdaten auf Richtigkeit. Als globaler Administrator, Abrechnungsadministrator oder Administrator-Agent können Sie auch Ihre Abrechnungs- und Steuerinformationen einsehen und aktualisieren. 
 
 **Überprüfen von Partnerprofilinformationen**
 
@@ -47,9 +47,9 @@ Wenn während der Migration von Partner Membership Center zu Partner Center das 
 
 1. Wechseln Sie von **Kontoeinstellungen** zu **Standorte** und stellen Sie sicher, dass sich das als Rechtsgeschäft gewünschte Unternehmen in der Liste enthalten ist. Wenn dies nicht der Fall ist, können Sie es hinzufügen. Wählen Sie **Standort hinzufügen** aus.
 
-2.  Wechseln Sie anschließend zu **Partnerprofil**, und wählen Sie die Option zum **Aktualisieren des Rechtsgeschäftsprofils** aus.
+2.    Wechseln Sie anschließend zu **Partnerprofil**, und wählen Sie die Option zum **Aktualisieren des Rechtsgeschäftsprofils** aus.
 
-3.  Wählen Sie den Standort und das Unternehmen, das Sie als Ihr Rechtsgeschäft verwenden möchten, und wählen Sie dann **Speichern** aus.
+3.    Wählen Sie den Standort und das Unternehmen, das Sie als Ihr Rechtsgeschäft verwenden möchten, und wählen Sie dann **Speichern** aus.
 
 ## <a name="update-your-billing-address"></a>Aktualisieren der Abrechnungsadresse
 

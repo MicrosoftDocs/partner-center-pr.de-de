@@ -8,20 +8,20 @@ description: Eine einfache, einheitliche, digital akzeptierbare Partnervereinbar
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
-ms.openlocfilehash: 1b6bad1d6909b6ffc597daf2e8eb57f4647a85ef
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 54f4fff4170b97c98108961ecf21443148c7d0d9
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004580"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340198"
 ---
 # <a name="microsoft-partner-agreement-for-csp-partners"></a>Microsoft-Partnervereinbarung für CSP-Partner 
 
 **Geeignete Rollen**
 -   Globaler Administrator
 -   Benutzeradministrator
--   Administratoragent
+-   Administrator-Agent
 -   Vertriebsbeauftragter
 
 Die Microsoft-Partnervereinbarung bietet Microsoft-Partnern eine einfache, einheitliche, digital akzeptierbare Partnervereinbarung. Die Microsoft-Partnervereinbarung enthält eine Reihe von unbefristeten Bestimmungen, mit denen Microsoft, Partner und Kunden Datenschutz und Datensicherheit unterstützen, Compliance fördern und für reelle Geschäftspraktiken werben können.   
@@ -32,7 +32,7 @@ Sie müssen die Microsoft-Partnervereinbarung vor dem 31. Januar 2020 unterzeich
 
 ## <a name="microsoft-customer-agreement"></a>Microsoft-Kundenvereinbarung
 
-Für den Erwerb von Azure-Diensten über einen Azure-Plan und für alle anderen Angebote in CSP, die nach dem 31. Januar 2020 erworben wurden, ist die kundenannahme des Microsoft-Kunden Vertrags (mcua) erforderlich. Lesen Sie [bestätigen der kundenannahme des Microsoft-Kunden Vertrags (Vorschau)](confirm-customer-agreement.md) .
+Für den Erwerb von Azure-Diensten über einen Azure-Plan und für alle anderen Angebote in CSP, die nach dem 31. Januar 2020 erworben wurden, ist die Zustimmung des Kunden zur Microsoft-Kundenvereinbarung (MCuA) erforderlich. Weitere Informationen finden Sie unter [Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung (Vorschau)](confirm-customer-agreement.md).
  
 
 

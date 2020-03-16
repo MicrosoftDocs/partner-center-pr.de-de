@@ -4,25 +4,25 @@ ms.topic: article
 ms.date: 03/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie die MPN-ID in Anreizprogrammen, CSP-Geschäfts, Abonnements und anderen Transaktionen verwendet wird.
+description: Erfahren Sie, wie die MPN-ID in Incentiveprogrammen, CSP-Geschäftsaktionen, Abonnements und anderen Transaktionen verwendet wird.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Partner-Konto, Standorte
-ms.localizationpriority: medium
-ms.openlocfilehash: 28c5134251eef06194b8c5ee34fcf440c2224839
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: e1f7c6732b2945d50b241764d1cf78ae6631152b
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004699"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340128"
 ---
-# <a name="manage-your-partner-account-locations"></a>Verwalten Ihres Partnerkontos: Standorte
+# <a name="manage-your-partner-account-locations"></a>Verwalten Ihres Partnerkontos: Pfade
 
 **Geeignete Rollen**
 -   Globaler Administrator
 -   Benutzeradministrator
 -   Abrechnungsadministrator
--   Administratoragent
+-   Administrator-Agent
 -   Vertriebsbeauftragter
 
 Die Standort-MPN-IDs identifizieren die spezifischen Standorte Ihres Unternehmens. Die Standort-MPN-ID wird für die Registrierung bei Incentive-Programmen, für die Abwicklung von Transaktionen als Cloud Solution Provider (CSP), beim Hinzufügen neuer Abonnements sowie für andere geschäftliche Transaktionen verwendet. Die Unternehmens-MPN-ID wird für transaktionsfremde Aktivitäten verwendet (etwa für Supportanfragen).
@@ -45,19 +45,19 @@ Die Rollen von Benutzern können sich über mehrere Standorte erstrecken. So kan
 
 4. Fügen Sie auf der Seite **Standort hinzufügen** die Adressdetails des Standorts ein, den Sie Ihrem Unternehmen hinzufügen möchten, und geben Sie auch einen Hauptansprechpartner für den Standort an.
 
-Hinweis: Sobald eine Position im Partner Center hinzugefügt wurde, kann Sie nicht entfernt werden.
+Hinweis: In Partner Center hinzugefügte Standorte können nicht mehr entfernt werden.
 
-**Ändern des Standorts für die gesetzliche zentrale**
+**Ändern des Standorts für die gesetzliche Zentrale**
 
-1. Überprüfen Sie auf der Seite Speicher **Orte** die Liste der Standorte, um sicherzustellen, dass der gewünschte Speicherort als juristische Entität aufgeführt ist. Wenn dies nicht der Fall ist, fügen Sie ihn hinzu.
+1. Überprüfen Sie auf der Seite **Standorte** die Liste der Standorte, um sicherzustellen, dass der Standort, den Sie als juristische Entität wünschen, aufgeführt ist. Wenn dies nicht der Fall ist, fügen Sie ihn hinzu.
 
-![Geschäftsstandort aktualisieren](images/updatepartnerprofile2.png)
+![Aktualisieren des Geschäftsstandorts](images/updatepartnerprofile2.png)
 
-2. Wählen Sie **Partner Profil** aus, und wählen Sie dann **rechtliche Geschäftsprofil aktualisieren** .
+2. Wählen Sie **Partnerprofil** aus, und wählen Sie dann **Firmenprofil aktualisieren** aus.
 
-![Geschäftsstandort aktualisieren](images/updatepartnerprofile1.png)
+![Aktualisieren des Geschäftsstandorts](images/updatepartnerprofile1.png)
 
-3. Wählen Sie die Region und die Entität aus, und **senden** Sie Sie.
+3. Wählen Sie die Region und die juristische Entität aus, und klicken Sie auf **Senden**.
 
-![Geschäftsstandort aktualisieren](images/updatepartnerprofile3.png)
+![Aktualisieren des Geschäftsstandorts](images/updatepartnerprofile3.png)
 

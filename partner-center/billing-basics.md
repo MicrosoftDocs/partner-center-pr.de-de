@@ -2,87 +2,87 @@
 title: Abrechnungsübersicht | Partner Center
 ms.topic: article
 ms.date: 11/25/2019
-description: Erfahren Sie mehr über die grundlegenden Abrechnungs-und Rechnungsinformationen für Partner Center.
+description: Erfahren Sie mehr über grundlegende Abrechnungs- und Rechnungsinformationen für Partner Center.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 keywords: Abrechnung, Zahlungen, Bestellungen, Kündigung, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Kontenabstimmungsdateien, Kontenabstimmungsdatei
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: e77d641b1b75c5d462871aa61c3f67bc6d6dd13e
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
-ms.translationtype: MT
+ms.openlocfilehash: 9ad98091829459612a320135629b6611f36c931a
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722469"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340118"
 ---
 # <a name="billing-overview"></a>Abrechnungsübersicht
 
 **Zielgruppe**
 
 - Partner Center
-- Partner im Cloud Solution Provider-Programm (CSP)
+- Partner im CSP-Programm (Cloud Solution Provider)
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Abrechnungsadministrator
 - Globaler Administrator
 - Helpdesk-Agent
 - Vertriebsbeauftragter
 
-## <a name="find-your-bill"></a>Finden Sie Ihre Rechnung
+## <a name="find-your-bill"></a>Auffinden Ihrer Rechnung
 
 So finden Sie Ihre Rechnung:
 
-1. [Melden Sie sich beim Partner Center-Dashboard](https://partner.microsoft.com/dashboard/home)an.
+1. [Melden Sie sich beim Partner Center-Dashboard an](https://partner.microsoft.com/dashboard/home).
 
-2. Wählen Sie im Menü auf der linken Seite die Option **Abrechnung**aus.
+2. Wählen Sie im Menü auf der linken Seite **Abrechnung** aus.
 
-3. Auf der Seite **Abrechnung** können Sie die neueste Rechnung herunterladen oder vorherige Rechnungen im Abschnitt **Abrechnungs Verlauf** herunterladen.
+3. Auf der Seite **Abrechnung** können Sie Ihre letzte Rechnung oder frühere Rechnungen im Abschnitt **Abrechnungsverlauf** herunterladen.
 
-## <a name="bill-your-customers"></a>Kunden Rechnung
+## <a name="bill-your-customers"></a>Abrechnungen für Ihre Kunden
 
-Microsoft hat keine Anforderungen oder Bedingungen bezüglich der Handhabung ihrer eigenen Abrechnung.
+Microsoft hat keine Anforderungen oder Bedingungen hinsichtlich Ihrer eigenen Abrechnung.
 
-Informationen zum Bestimmen der Nutzung eines Kunden [finden Sie in den Abstimmungs Dateien](#find-your-bill). Sie können den Kundennamen und andere relevante Felder verwenden, um die Verwendung zu ermitteln.
+Um die Nutzung eines Kunden zu ermitteln, [überprüfen Sie Ihre Kontenabstimmungsdateien](#find-your-bill). Sie können den Kundennamen und andere relevante Felder verwenden, um die Nutzung zu ermitteln.
 
-Als nächstes können Sie Ihre eigenen Gebühren und Gebühren für Dienste und Produkte hinzufügen, die Sie bereitstellen. Anschließend können Sie eine einzelne Rechnung für alle Gebühren an Ihren Kunden senden.
+Fügen Sie dann Ihre eigenen Gebühren für Dienste und Produkte hinzu, die Sie bereitstellen. Sie können dann eine einzige Rechnung für alle Kosten an den Kunden senden.
 
-### <a name="billing-types"></a>Abrechnungs Typen
+### <a name="billing-types"></a>Abrechnungsarten
 
-Zu den Abrechnungs Typen im Partner Center gehören **Lizenz basierte Abrechnung**, **nutzungsbasierte Abrechnung**und **einmalige**Kosten. Weitere Informationen finden Sie in der vollständigen Erläuterung der [Abrechnungs Typen im Partner Center](billing-different-types.md).
+Zu den Abrechnungsarten in Partner Center gehören **lizenzbasierte Abrechnung**, **verwendungsbasierte Abrechnungs** und **einmalige Abrechnung**. Weitere Informationen finden Sie in der vollständigen Erläuterung der [Abrechnungsarten in Partner Center](billing-different-types.md).
 
 ### <a name="billing-currency"></a>Abrechnungswährung
 
-Ihnen werden Produkte in der Währung des Landes oder der Region in Rechnung gestellt, in der Sie sich befinden. Die Abrechnung erfolgt unabhängig vom Standort des Kunden, für den Sie die Produkte verkauft haben.
+Ihnen werden Produkte in der Währung des Landes oder der Region in Rechnung gestellt, in der Sie sich befinden. Die Abrechnung erfolgt unabhängig vom Standort des Kunden, an den Sie die Produkte verkauft haben.
 
 ## <a name="invoices"></a>Rechnungen
 
-Ihre Rechnung ist eine Zusammenfassung aller Gebühren für den aktuellen Abrechnungszeitraum. Dies schließt Gebühren für das Programm, alle Produkte und alle Kunden ein. Beispiele für monatliche und jährliche Abrechnungs Szenarien finden Sie unter [häufige Abrechnungs Szenarien](common-billing-scenarios.md) .
+Ihre Rechnung ist eine Zusammenfassung aller Gebühren für den aktuellen Abrechnungszeitraum. Dies schließt Gebühren für das Programm, alle Produkte und alle Kunden ein. Beispiele für monatliche und jährliche Abrechnungsszenarien finden Sie unter [Allgemeine Abrechnungsszenarien](common-billing-scenarios.md).
 
 Ihre Rechnung ist innerhalb von zwei (2) Tagen nach dem ausgewählten Abrechnungsdatum in UTC-Zeit verfügbar. Wenn beispielsweise das Abrechnungsdatum der 12. September ist, beginnt der Prozess zur Rechnungsgenerierung am 13. September um 12:00 Uhr UTC und endet am 14. September um 12:00 Uhr UTC. Sollte Ihre Rechnung bis zum 15. September, 11:59 Uhr UTC, nicht angezeigt werden, befinden Sie sich außerhalb der Vereinbarung zum Servicelevel (Service Level Agreement, SLA) und sollten eine Serviceanfrage senden.
 
-Partner im Cloud Solution Provider-Programm (CSP), die monatlich abgerechnet werden, werden für die Abonnements ihrer Kunden (sowohl Lizenz basiert als auch Nutzungs basiert) an Microsoft 60 Tage im Rückstand abgerechnet.
+Partner im Programm für Cloud Solution Provider (CSP) mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60 Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte als auch nutzungsbasierte Abonnements).
 
 ## <a name="price-lists"></a>Preislisten
 
-Preislisten werden monatlich aktualisiert. Vorschau Preislisten sind im Voraus ein (1) Monat im Voraus verfügbar.
+Preislisten werden monatlich aktualisiert. Vorschaupreislisten sind einen (1) Monat im Voraus verfügbar.
 
-Anzeigen der Preislisten:
+So zeigen Sie Preislisten an:
 
-1. [Melden Sie sich beim Partner Center-Dashboard](https://partner.microsoft.com/dashboard/home)an.
-2. Wählen Sie im Menü auf der linken Seite die Option **verkaufen**aus, und wählen Sie dann **Preise und Angebote**aus.
-3. Auf der Seite **Preise und Angebote** sehen Sie die Preislisten 6 Monate (einschließlich des aktuellen Monats) und die Vorschau der Preisliste (falls zutreffend).
+1. [Melden Sie sich beim Partner Center-Dashboard an](https://partner.microsoft.com/dashboard/home).
+2. Wählen Sie im Menü auf der linken Seite **Verkaufen** aus, und wählen Sie dann **Preise und Angebote** aus.
+3. Auf der Seite **Preise und Angebote** finden Sie die Preislisten für 6 Monate (einschließlich des aktuellen Monats) und die Vorschaupreislisten (falls zutreffend).
 
-**Lizenz basierte** Preise werden für die Laufzeit des Abonnements garantiert, normalerweise 12 Monate nach dem Kauf Datum. 
+**Lizenzbasierte** Preise werden für die Dauer des Abonnements (in der Regel 12 Monate nach dem Kaufdatum) garantiert. 
 
-**Nutzungsbasierte Preise** können monatlich geändert werden.
+**Nutzungsbasierte Preise** können sich monatlich ändern.
 
-Die **Preise für Produkte, Dienste und Software Abonnements** werden durch die Abonnementdauer garantiert. Die Preise können sich jedoch ändern, wenn Sie erneuern.
+**Preise für Produkte, Dienste und Softwareabonnements** werden über die Dauer des Abonnements garantiert. Allerdings können sich die Preise ändern, wenn Sie es verlängern.
 
-Nach dem Anwenden der Gutschrift oder Anpassung werden **Anpassungen** und **Gutschriften** in Rechnung gestellt.
+**Anpassungen** und **rückständige Guthaben** werden in Ihrer nächsten Rechnung angezeigt, nachdem das Guthaben oder die Anpassung angerechnet wurde.
 
 ## <a name="payment-terms"></a>Zahlungsbedingungen
 
@@ -92,15 +92,15 @@ Sie können den vollen Funktionsumfang Ihrer ausgesetzten Konten zurückerhalten
 
 ### <a name="taxes-and-vat"></a>Steuern und Mehrwertsteuer
 
-Sie werden anhand ihrer Details (nicht der Details der Kunden) besteuert, weil die abrechnungsbeziehung zwischen Microsoft und Ihnen liegt. Sie können Ihre Steuer Kennung während des Konto Setups oder später über eine Supportanfrage einreichen. Die Änderungen werden im nächsten Abrechnungszyklus angezeigt.
+Steuern fallen basierend auf Ihren Details (und nicht den Details Ihrer Kunden) an, da die Abrechnungsbeziehung zwischen Microsoft und Ihnen besteht. Sie können Ihre Steuernummer übermitteln, während Sie ihr Konto einrichten, oder zu einem späteren Zeitpunkt durch eine Supportanfrage. Die Änderungen werden im nächsten Abrechnungszyklus angezeigt.
 
-Sie müssen eine Steuer **Dokumentation über eine**Supportanfrage einreichen. Die Änderungen und entsprechenden Erstattungen werden in Ihrem nächsten Abrechnungszyklus angezeigt.
+Für eine **Freistellung von Quellensteuer und Mehrwertsteuer** müssen Sie Steuerunterlagen über eine Supportanfrage übermitteln. Die Änderungen und entsprechenden Erstattungen werden in Ihrem nächsten Abrechnungszyklus angezeigt.
 
-Für eine Mehrwert **steuerungsausnahme (Mehrwertsteuer)** müssen Sie Ihre Umsatzsteuer-ID (von Microsoft überprüft) über eine Service Request übermitteln. Die Änderungen und entsprechenden Erstattungen werden in Ihrem nächsten Abrechnungszyklus angezeigt.
+Für eine **Freistellung von der Umsatzsteuer (USt)** müssen Sie Ihre Umsatzsteueridentifikationsnummer (USt-IdNr. – von Microsoft überprüft) über eine Serviceanfrage übermitteln. Die Änderungen und entsprechenden Erstattungen werden in Ihrem nächsten Abrechnungszyklus angezeigt.
 
 Weitere Steuerinformationen erhalten Sie von Ihrem örtlichen Finanzamt oder Steuerberater.
 
-### <a name="annual-billing-rules"></a>Jährliche Abrechnungsregeln
+### <a name="annual-billing-rules"></a>Regeln für die jährlichen Abrechnung
 
 Abonnements gelten für ein Jahr und werden automatisch verlängert.
 
@@ -108,28 +108,28 @@ Die Abrechnung erfolgt in 12 monatlichen Zahlungen oder einer jährlichen Zahlun
 
 Lizenzbasierte Dienste werden (basierend auf der Anzahl an Lizenzen am Ende des vorherigen Abrechnungszeitraums) im Voraus für den nächsten Abrechnungszeitraum abgerechnet.
 
-Änderungen an der Anzahl der Lizenzen (anteilsmäßige Berechnung basierend auf Lizenzen/Tagen) werden nachträglich in Rechnung gestellt/gutgeschrieben. Bei der pro-rata-Berechnung wird die folgende Formel verwendet:
+Änderungen an der Anzahl der Lizenzen (anteilsmäßige Berechnung basierend auf Lizenzen/Tagen) werden nachträglich in Rechnung gestellt/gutgeschrieben. Bei der anteilsmäßigen Berechnung wird die folgende Formel verwendet:
 
 `[ROUND((ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity]`
 
-Zahlungen werden für verkaufte Lizenzen abgerechnet, nicht für bereitgestellte Lizenzen.
+Zahlungen basieren auf verkauften Lizenzen (und nicht auf bereitgestellten Lizenzen).
 
-### <a name="change-billing-frequency"></a>Abrechnungs Häufigkeit ändern
+### <a name="change-billing-frequency"></a>Ändern der Abrechnungshäufigkeit
 
-So ändern Sie die Abrechnungs Häufigkeit eines Online Dienstanbieter für einen Kunden:
+So ändern Sie die Abrechnungshäufigkeit für einen Onlinedienst für einen Kunden:
 
-1. [Melden Sie sich beim Partner Center-Dashboard](https://partner.microsoft.com/dashboard/home)an.
-2. Wählen Sie im Menü auf der linken Seite die Option **Kunden**aus.
-3. Wählen Sie den Kunden aus, dessen Abonnement Abrechnungs Häufigkeit Sie ändern möchten.
+1. [Melden Sie sich beim Partner Center-Dashboard an](https://partner.microsoft.com/dashboard/home).
+2. Wählen Sie im Menü auf der linken Seite **Kunden** aus.
+3. Wählen Sie den Kunden aus, dessen Abonnementabrechnungshäufigkeit Sie ändern möchten.
 4. Wählen Sie auf der Seite **Abonnements** des Kunden das Abonnement aus, das Sie ändern möchten.
-5. Wählen Sie auf der Seite **Details** unter **Abrechnungs Häufigkeit**die Option **monatlich** oder **jährlich**aus. Es wird Ihnen eine Bestätigungsseite mit wichtigen Informationen zum Ändern der Abrechnungshäufigkeit sowie eine Liste der Abonnements angezeigt, die gleich geändert werden.
-6. Wählen Sie **OK** , um die Änderung vorzunehmen (oder **Abbrechen** , um Sie rückgängig zu machen).
+5. Wählen Sie auf der Seite **Details** unter **Fakturierungsintervall** entweder **Monatlich** oder **Jährlich** aus. Es wird Ihnen eine Bestätigungsseite mit wichtigen Informationen zum Ändern der Abrechnungshäufigkeit sowie eine Liste der Abonnements angezeigt, die gleich geändert werden.
+6. Wählen Sie **OK** aus, damit die Änderung vorgenommen wird (oder **Abbrechen**, um sie rückgängig zu machen).
 
 ### <a name="adjustmentscreditscancellations"></a>Anpassungen/Guthaben/Kündigungen
 
 Microsoft stellt keine Gebühren für eine vorzeitige Beendigung bei der Kündigung lizenzbasierter Dienste in Rechnung.
 
-Abbrechungs Gutschriften für lizenzierte Dienste werden für nicht genutzte Tage für midcycle-Abbrüche anteilig (und die Lizenz Abnahme gemäß der obigen Formel).
+Gutschriften für Kündigungen für lizenzbasierte Dienste werden bei Kündigungen in der Zyklusmitte für nicht genutzte Tage anteilsmäßig berechnet (und Lizenzreduzierungen gemäß der Formel oben).
 
 ### <a name="billing-rules"></a>Abrechnungsregeln
 
@@ -139,13 +139,13 @@ Getaktete Dienstleistungspreise können sich innerhalb des Abrechnungszyklus än
 
 #### <a name="price-changes"></a>Preisänderungen
 
-Bei **Preissteigerungen**wird eine Benachrichtigung von 30 Tagen bereitgestellt.
+**Preiserhöhungen** werden 30 Tage zuvor bekanntgegeben.
 
-Die **Preis Abnahme** wird am Tag der Änderung widergespiegelt.
+**Preissenkungen** werden am Tag angezeigt, an dem sie wirksam werden.
 
-**Vorhandene Abonnements** verwenden die Rate, die zu Beginn des Abrechnungszyklen wirksam ist.
+**Vorhandene Abonnements** verwenden den zum Anfang des Abrechnungszyklus gültigen Preis.
 
-Wenn **neue Abonnements**innerhalb desselben Abrechnungszeitraums erstellt werden, verwenden Sie die Rate, die für das Erstellungsdatum der Erstellung gilt. 
+**Neue Abonnements**, die innerhalb desselben Abrechnungszyklus erstellt wurden, verwenden den am Erstellungsdatum gültigen Preis. 
 
 ### <a name="adjustmentscreditscancellations"></a>Anpassungen/Guthaben/Kündigungen
 
@@ -158,30 +158,30 @@ Alle Guthaben, einschließlich SLA-Guthaben, werden in der nächsten monatlichen
 >[!IMPORTANT]
 >Wenn Sie Azure-Reservierungen und/oder Softwareabonnements für einen Kunden an einem Standort mit einer anderen Währung als Ihrer Währung erwerben, basiert die Standardabrechnungswährung auf dem Standort des Kunden, nicht Ihrem Standort. Wenn Sie Kunden an mehreren Standorten haben, erhalten Sie getrennte Rechnungen und Kontenabstimmungsdateien für jede Währung der Kunden, die in Rechnung gestellt werden müssen, damit Sie Ihren Kunden Rechnungen in der entsprechenden Währung ausstellen können.
 
-## <a name="manage-one-time-billing"></a>Verwalten der einmaligen Abrechnung
+## <a name="manage-one-time-billing"></a>Verwalten von einmaliger Abrechnung
 
-### <a name="billing-status-invoices-and-reconciliation-files"></a>Abrechnungs Status, Rechnungen und Abstimmungs Dateien
+### <a name="billing-status-invoices-and-reconciliation-files"></a>Abrechnungsstatus, Rechnungen und Kontenabstimmungsdateien
 
-So zeigen Sie den aktuellen Abrechnungs Status, Rechnungen und Abstimmungs Dateien an:
+Gehen Sie zum Anzeigen Ihres aktuellen Abrechnungsstatus, Ihrer Rechnungen und Kontenabstimmungsdateien folgendermaßen vor:
 
-1. [Melden Sie sich beim Partner Center-Dashboard](https://partner.microsoft.com/dashboard/home)an.
-2. Wählen Sie im Menü auf der linken Seite die Option **Abrechnung**aus, und wählen Sie dann **einmal**aus.
-3. Wählen Sie auf der Seite Abrechnungs Status eine Rechnung oder eine Abstimmungs Datei aus, um ausführlichere Informationen anzuzeigen.
+1. [Melden Sie sich beim Partner Center-Dashboard an](https://partner.microsoft.com/dashboard/home).
+2. Wählen Sie im Menü auf der linken Seite **Abrechnung** aus, und wählen Sie dann **Einmalig** aus.
+3. Wählen Sie auf der Seite „Abrechnungsstatus“ eine Rechnung oder Kontenabstimmungsdatei aus, um ausführlichere Informationen anzuzeigen.
 
-### <a name="customer-order-history"></a>Kundenauftrags Verlauf
+### <a name="customer-order-history"></a>Bestellverlauf des Kunden
 
-So zeigen Sie den Auftrags Verlauf eines Kunden an:
+So zeigen Sie den Bestellverlauf eines Kunden an:
 
-1. [Melden Sie sich beim Partner Center-Dashboard](https://partner.microsoft.com/dashboard/home)an.
-2. Wählen Sie im Menü auf der linken Seite die Option **Kunden**aus.
-3. Suchen Sie auf der Seite **Kunden** nach dem Kunden, dessen Bestellverlauf Sie anzeigen möchten. Wählen Sie den Pfeil nach unten aus, um den Datensatz des Kunden zu erweitern.
-4. Wählen Sie **Aufträge anzeigen** aus, um den Bestellverlauf des Kunden anzuzeigen.
+1. [Melden Sie sich beim Partner Center-Dashboard an](https://partner.microsoft.com/dashboard/home).
+2. Wählen Sie im Menü auf der linken Seite **Kunden** aus.
+3. Suchen Sie auf der Seite **Kunden** nach dem Kunden, dessen Bestellverlauf Sie anzeigen möchten. Wählen Sie die NACH-UNTEN-TASTE aus, um den Datensatz des Kunden zu erweitern.
+4. Wählen Sie **Bestellungen anzeigen** aus, um den Bestellverlauf des Kunden anzuzeigen.
 
 ### <a name="credit-notes"></a>Gutschriften
 
-Möglicherweise müssen Sie eine Gutschrift oder eine Rechnung aus den folgenden Gründen anfordern:
+Sie könnten müssen ggf. aus folgenden Gründen eine Gutschrift oder Neuberechnung anfordern:
 
-- Sie müssen Adressen oder Bestellungs Korrekturen vornehmen.
-- Nach dem Generieren der Rechnung wurde eine Steuer Rückerstattung angewendet. Sie können eine Gutschrift oder eine Rechnung anfordern, um die zurückgezogene Steuern der Steuererstattung in die ursprüngliche Rechnung zu erhalten. Dasselbe gilt auch für die Rückerstattung. Sie können eine Gutschrift oder eine Rechnung der ursprünglichen Rechnung anfordern und dann eine Rückerstattung anfordern.
+- Sie müssen Korrekturen an der Adresse oder Bestellung vornehmen.
+- Nach dem Generieren der Rechnung wurde eine Steuererstattung angewendet. Sie können eine Gutschrift oder Neuberechnung anfordern, damit die Steuerrückerstattung wieder in die ursprüngliche Rechnung aufgenommen wird. Dasselbe gilt auch für Rückerstattungen. Sie können eine Gutschrift oder Neuberechnung der ursprünglichen Rechnung anfordern und dann in einer Rückerstattung berücksichtigen.
 
-Wenn Sie ein Guthaben oder eine Rechnung anfordern, erhalten Sie eine **Gutschrift** , um die ursprüngliche Rechnung abzubrechen.
+Wenn Sie eine Gutschrift oder Neuberechnung anfordern, stellen wir Ihnen eine **Gutschrift** zur Stornierung der ursprünglichen Rechnung aus.

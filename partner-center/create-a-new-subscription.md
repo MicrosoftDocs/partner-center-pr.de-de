@@ -11,11 +11,11 @@ ms.author: labrenne
 Keywords: Abonnement, neu erstellen, Abonnement hinzufügen, anhalten, Abbrechen, aussetzen, anhalten, Saas, Lizenz, ISV, Drittanbieter
 ms.localizationpriority: medium
 ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340148"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114992"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Aussetzen oder Stornieren von Kundenabonnements
 
@@ -76,7 +76,7 @@ Als Partner im CSP-Programm können Sie nur **Lizenz basierte Saas-** Abonnement
     
     - Wenn Ihr Abonnement eine 30-tägige kostenlose Testversion enthält, wird der kostenlose Testzeitraum automatisch angewendet. Als Partner im CSP-Programm können Sie den kostenlosen Testzeitraum für Angebote, die Sie für Kunden erwerben, nicht aufheben. Sobald der kostenlose Testzeitraum endet, beginnt die Abonnement Laufzeit, und das Abonnement wird in "bezahlt" konvertiert. Das Abonnement wird dann nach dem gleichen Zeitplan automatisch erneuert.
 
-## <a name="suspend-or-cancel-a-subscription"></a>Aussetzen oder Stornieren eines Abonnements
+## <a name="suspend-or-cancel-a-subscription"></a>Anhalten oder Kündigen eines Abonnements
 
 Partner können ein Abonnement auf Anforderung des Kunden, bei Nichtbezahlung oder bei Betrug aussetzen oder kündigen.
 
@@ -94,7 +94,7 @@ Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Be
 
 5. Alle Daten werden gelöscht, solange das Abonnement nicht innerhalb von 90 Tagen oder 90 Tagen zuzüglich der Anzahl der Tage zwischen der Eröffnung des Kontos und dem ersten Abrechnungszeitraum (maximal 120 Tage) reaktiviert wird.
 
-Wenn Sie ein Abonnement aussetzen, gibt das Datum, das unterhalb der Schaltfläche **Ausgesetzt** angezeigt wird, an, wann das Abonnement automatisch ablaufen würde, wenn Sie es nicht erneut aktivieren. Weitere Informationen finden Sie unter Häufig gestellte [Fragen zu neuen Abrechnungs Features](faq-about-new-billing-features.md).
+Wenn Sie ein Abonnement stornieren, gibt das Datum, das unter der Schaltfläche **Ausgesetzt** angezeigt wird, an, wann das Abonnement automatisch ablaufen würde, wenn Sie es nicht erneut aktivieren. Weitere Informationen finden Sie unter Häufig gestellte [Fragen zu neuen Abrechnungs Features](faq-about-new-billing-features.md).
 
 ### <a name="cancel-a-subscription"></a>Stornieren eines Abonnements
 

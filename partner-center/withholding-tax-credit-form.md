@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: zurückbehalten von Steuer Guthaben, Steuer Guthaben, deutschen Steuer Guthaben, Steuer Zertifikaten
 ms.localizationpriority: medium
-ms.openlocfilehash: ceb8958faa2d2e826cb74caa0484fb90c9667bb0
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: ea99adb0bc2b9e010290ce7a74afe07c8b111888
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240227"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112469"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>Stellen Sie sicher, dass Sie für die zurück Haltungs Steuern
 
@@ -30,6 +30,9 @@ In diesem Thema wird erläutert, wie Sie sicherstellen, dass Sie für die zurüc
 CSP-Partner in einigen Ländern erhalten Rechnungsbeträge, die Steuern enthalten. Einige dieser Partner zahlen Ihre lokale Steuer Autorität anstelle von Microsoft. Diese Partner müssen eine Tax-Kennungen einschließlich Ihres Steuer Zertifikats einreichen, um den angeforderten Betrag aus vorherigen Rechnungen zu löschen. Diese gelöschten Beträge werden in nachfolgenden monatlichen Rechnungen als Gutschrift angezeigt, sodass der Partner Microsoft nicht mehr den unbezahlten Betrag hat.
 
 Ab dem 2020 müssen CSP-Partner auf der Abrechnungs Seite steuern, dass Sie auf der **Abrechnungs Seite** steuern, anstatt Support Anfragen zu erstellen. Um die Anforderungen auf der Abrechnungs Seite zu übermitteln, sollten CSP-Partner in das **Partner Center** wechseln und im linken Navigationsbereich auf **Abrechnung** klicken. Die **Seite "Abrechnung** " ist der neue Speicherort zum Übermitteln von steuerungsabkenforderungen 
+
+> [!IMPORTANT]
+> Partner können die Anforderungen an die zurück Haltungs Anforderung nur für **kostenpflichtige** Rechnungen einreichen.
 
 ### <a name="submit-a-new-tax-withholding-request"></a>Übermitteln einer neuen Anforderung zum Steuern von Steuerquellen
 

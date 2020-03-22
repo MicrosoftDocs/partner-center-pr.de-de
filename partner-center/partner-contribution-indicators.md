@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 830965f4d44cefea2a66adeac681f6350a562503
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: b9892c1a1f46450b0ea8def1b10dba104c5cb1b0
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672690"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112449"
 ---
 # <a name="partner-contribution-indicators"></a>Partnerbeitragsindikatoren
 
@@ -29,7 +29,7 @@ PCI bietet eine ausgereifte, ganzheitliche Übersicht über die technischen Funk
 1. **Netto neuer Umsatz** – Netto neuer Umsatz über alle Vertriebskanäle für Microsoft Dynamics 365-Produkte hinweg.
 2. **Net Customer fügt** – net-Kunden, die für Dynamics 365 erworben wurden, über alle Vertriebskanäle hinweg hinzu.
 3. **Funktions Berater** – die Anzahl der Personen, die einen derzeit aktiven funktionalen Berater haben, ordnet die Zertifizierung für Dynamics 365 zu.
-4. **Wachstum des funktionalen Beraters** – Wachstum in der Anzahl der funktionalen Beratungsmitarbeiter seit dem 31. März 2020.
+4. **Wachstum des funktionalen Beraters** – Zunahme der Anzahl der funktionalen Berater Zuordnungen.
 5. **Entwickler** – Anzahl der Personen, die einen derzeit aktiven Entwickler haben, weisen die Zertifizierung für Dynamics 365 zu.
 6. **Neue große bereit Stellungen** – Anzahl der Produktions Mandanten, die in den letzten 12 Monaten den Schwellenwert für hohe Auslastung überschreiten.
 7. **Monatliches aktives Benutzer Wachstum** – Wachstum in monatlich aktiven Benutzern für alle Kunden in den letzten 12 Monaten.
@@ -48,7 +48,7 @@ Jede PCI-Metrik weist von Microsoft festgelegte Schwellenwerte auf, mit denen de
 
 Die Punkte in den einzelnen Metriken sind so fest, dass Sie eine eindeutige PCI-Bewertung für Kunden Engagement und Finanz & Vorgänge ergeben, die monatlich aktualisiert werden.
 
-Partner können die maximale Punktzahl für eine Metrik erzielen, wenn sie die unten angegebenen Schwellenwerte erreichen oder übertreffen. Partielle Punkte können für alle Metriken erzielt werden, außer für das Wachstum des funktionalen Beraters. Beispiel: ein entwickelter Marktpartner mit $150.000-Dollar im Nettoumsatz erzielt eine Hälfte ($ 150.000/$ 300000) der maximalen 10 pts. 
+Partner können die maximale Punktzahl für eine Metrik erzielen, wenn sie die unten angegebenen Schwellenwerte erreichen oder übertreffen. Partielle Punkte können für alle Metriken erzielt werden, außer für das Wachstum des funktionalen Beraters. z. B. ein entwickelter Marktpartner mit $150.000-Dollar im Nettoumsatz erzielt eine Hälfte ($ 150.000/$ 300000) der maximalen 10 pts. 
 
 ![Kundenengagement](images/pci/custengagethresh.png)
 

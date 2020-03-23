@@ -42,7 +42,7 @@ Lesen Sie die Anforderungen, wie Sie ein Partner im CSP-Programm werden.
 
 ## <a name="microsoft-customer-agreement-customer-templates"></a>Microsoft-Kundenvereinbarung – Kundenvorlagen
 
-Bevor du eine Bestellung im Auftrag eines Kunden aufgeben kannst, muss der Kunde der geltenden Microsoft-Kundenvereinbarung zustimmen und diese unterzeichnen. Microsoft-Kundenvereinbarungen sind regionsspezifisch. Achte darauf, basierend auf dem Standort des Kunden das richtige Land auszuwählen.
+Bevor du eine Bestellung im Auftrag eines Kunden aufgeben kannst, muss der Kunde der geltenden Microsoft-Kundenvereinbarung zustimmen und diese unterzeichnen. Microsoft-Kundenvereinbarungen sind regionsspezifisch. Achte darauf, basierend auf dem Standort des Kunden das richtige Land/die richtige Region auszuwählen.
 
 Wähle diese [URL](https://aka.ms/customeragreement) aus, um die neueste Version der Vorlage für die Microsoft-Kundenvereinbarung manuell herunterzuladen.
 

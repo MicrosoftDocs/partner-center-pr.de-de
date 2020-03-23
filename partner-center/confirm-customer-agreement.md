@@ -46,15 +46,15 @@ Weitere Informationen zum zeitlichen Ablauf finden Sie in der folgenden Tabelle:
 |31. Januar 2020|Microsoft Cloud-Vertrag aus der Produktionsumgebung entfernt|Der Microsoft Cloud-Vertrag wird innerhalb des CSP-Partnerprogramms nicht mehr akzeptiert. Neue Käufe und Änderungen an der Anzahl der Arbeitsplätze für vorhandene Abonnements erfordern eine Bestätigung des Microsoft-Kundenvertrags durch den Partner. Diese Anforderung gilt für neue Kunden und Bestandskunden, die möglicherweise zuvor den Microsoft Cloud-Vertrag angenommen haben.|
 |3\. Februar 2020|Der Partner hat jetzt die Möglichkeit, den Kunden über eine URL einzuladen, damit dieser die Vereinbarung im authentifizierten Microsoft 365 Admin Center überprüfen und ihr zustimmen kann. | Der Kunde kann der Microsoft-Kundenvereinbarung im Microsoft 365 Admin Center zustimmen. Wenn der Kunde der Vereinbarung direkt im Microsoft 365 Admin Center zustimmt, erkennt er die Nutzungsbedingungen an. 
 
-Du kannst Kunden die folgenden beiden Optionen anbieten, um der Microsoft-Kundenvereinbarung zuzustimmen.  
+Der Partnerkann dem Kunden die folgenden beiden Optionen anbieten, um der Microsoft-Kundenvereinbarung zuzustimmen.  
 
-**Option 1**: Der Partner bestätigt die Zustimmung des Kunden – Der Partner kann die Zustimmung des Kunden über die Partner Center-API, das Partner Center SDK oder das Partner Center-Dashboard bestätigen.
+**Option 1**: Der Partner bestätigt die Zustimmung des Kunden: Der Partner kann die Zustimmung des Kunden über die Partner Center-API, das Partner Center SDK oder das Partner Center-Dashboard bestätigen.
 
-**Option 2**: Der Kunde stimmt direkt zu – Der Partner kann den Kunden über eine URL einladen, damit dieser die Vereinbarung im Microsoft 365 Admin Center überprüfen und ihr zustimmen kann.
+**Option 2**: Der Kunde stimmt direkt zu: Der Partner kann den Kunden über eine URL einladen, damit dieser die Vereinbarung im Microsoft 365 Admin Center überprüfen und ihr zustimmen kann.
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Zugreifen auf die Vorlage für die Microsoft-Kundenvereinbarung
 
-[Hier](https://aka.ms/customeragreement) kannst du die neueste Version der Vorlage für die Microsoft-Kundenvereinbarung manuell herunterladen. Beachte, dass die Microsoft-Kundenvereinbarung länderspezifisch ist. Achte beim Anfordern der Vorlage für die Microsoft-Kundenvereinbarung darauf, basierend auf dem Standort des Kunden das richtige Land auszuwählen. 
+[Hier](https://aka.ms/customeragreement) kannst du die neueste Version der Vorlage für die Microsoft-Kundenvereinbarung manuell herunterladen. Beachte, dass die Microsoft-Kundenvereinbarung länderspezifisch ist. Achte beim Anfordern der Vorlage für die Microsoft-Kundenvereinbarung darauf, basierend auf dem Standort des Kunden das richtige Land/die richtige Region auszuwählen. 
 
 ## <a name="option-1-confirm-customer-acceptance-using-partner-center-apisdk"></a>Option 1: Bestätigen der Zustimmung des Kunden über die Partner Center-API oder das Partner Center SDK
 

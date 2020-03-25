@@ -1,22 +1,22 @@
 ---
 title: Bericht "Partner Center Insights-Kompetenzen" | Partner Center
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sehen Sie sich an, was Sie tun und wo Sie sich mit den Microsoft-Kompetenzen, den Kompetenzstufen und Vorteilen für die Bereitstellung von Microsoft-Lösungen verbessern können.
+description: Sehen Sie sich an, was Sie tun und wo Sie in Bezug auf die Kompetenzen von Microsoft, die Kompetenzstufen und Angebote verbessern können, um Microsoft-Lösungen bereitzustellen.
 ms.assetid: ''
 keywords: PCI, Leistung, Messungen, Kunden Erfolg, Kompetenzen, Vorteile, Analysen, Bericht
 author: MicheleHope
 ms.author: v-mihope
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9b395e67848bca73d0fe65073562c2478ced304
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648091"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226186"
 ---
 # <a name="competencies-report"></a>Bericht "Zuständigkeiten"
 
@@ -26,7 +26,7 @@ ms.locfileid: "75648091"
 - Berichtanzeige
 - Executive Report Viewer
 
-Mit den Kompetenzen kann Ihr Unternehmen ihre technische Funktion zur Bereitstellung von Microsoft-Lösungen veranschaulichen. Die Microsoft-Kompetenzen sind so konzipiert, dass Sie die Anforderungen Ihrer Kunden erfüllen und ihr Fachwissen an potenzielle Kunden präsentieren können. Sie verfügen über eine Vielzahl von Vorteilen von Microsoft, z. b. enthaltene Mengen an Azure-Nutzung, Berechtigungen für cloudprodukte wie O365, technischen Support, Vorteile von Go-to-Market (GTM) usw. Heute gibt es insgesamt 19 Kompetenzen in den folgenden Kategorien: **App und Infrastruktur**, **Geschäftsanwendungen**, **Daten und Ki** und **moderner Arbeitsplatz**. Die Kompetenzen werden in die Ebenen "Silver" oder "Gold" eingeteilt, z.b. mit einem höheren Balken für Gold-Kompetenz und einem höheren Maß an Vorteilen.  
+Mit den Kompetenzen kann Ihr Unternehmen ihre technische Funktion zur Bereitstellung von Microsoft-Lösungen veranschaulichen. Die Microsoft-Kompetenzen sind so konzipiert, dass Sie die Anforderungen Ihrer Kunden erfüllen und ihr Fachwissen an potenzielle Kunden präsentieren können. Sie verfügen über eine Vielzahl von Vorteilen von Microsoft, z. b. enthaltene Mengen an Azure-Verbrauch, Berechtigungen für cloudprodukte wie O365, technischen Support, Markt Einführungsangebote usw. Heute gibt es insgesamt 19 Kompetenzen in den folgenden Kategorien: **App und Infrastruktur**, **Geschäftsanwendungen**, **Daten und Ki** und **moderner Arbeitsplatz**. Kompetenzen werden beispielsweise in Silver-oder Gold-Stufen eingeteilt. Es gibt einen höheren Balken für die Gold-Kompetenz und eine zugeordnete höhere Menge an Marketingressourcen, angeboten und Programmen.  
 
 **Lebenszyklus der Kompetenz**
 

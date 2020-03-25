@@ -1,7 +1,7 @@
 ---
 title: Partner Center Insights-Bericht "Vorteile" | Partner Center
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sehen Sie sich an, welche Typen von Microsoft-Partner Vorteilen Sie erhalten haben, um Ihr Unternehmen auszubauen, die Effizienz zu verbessern und die Fähigkeiten Ihres Teams zu verbessern
@@ -11,12 +11,12 @@ author: MicheleHope
 ms.author: v-mihope
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9d1f3a8ff31622c17245743f79ba4dc3ea199c3b
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 26ff2657eb4b2b27a355d08c647778e2a247f6ce
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648251"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226196"
 ---
 # <a name="benefits-report"></a>Bericht zu Vorteilen
 
@@ -26,7 +26,7 @@ ms.locfileid: "75648251"
 - Berichtanzeige
 - Executive Report Viewer
 
-Als Microsoft-Partner können Sie auf eine Reihe von Vorteilen zugreifen, die die neuesten Technologien und Innovationen nutzen, um Sie bei der Verbesserung der Fähigkeiten Ihres Teams zu unterstützen, die Effizienz zu verbessern und Ihr Geschäft zu steigern. Zu den Vorteilen von Paketen gehören: Zuordnungen lizenzierter Software, Cloud Services, Visual Studio-Abonnements und Support. In den Vorteilen von Vorteilen können auch bestimmte Vorteile der Markt Einführungs Sicherheit (GTM) enthalten sein. Der Bericht "Vorteile" zeigt Trends zu den Vorteilen, auf die Sie zugegriffen haben, und deren Auslastung während des ausgewählten Datums Bereichs.
+Als Microsoft-Partner können Sie auf eine Reihe von Vorteilen zugreifen, die die neuesten Technologien und Innovationen nutzen, um Sie bei der Verbesserung der Fähigkeiten Ihres Teams zu unterstützen, die Effizienz zu verbessern und Ihr Geschäft zu steigern. Zu den Vorteilen von Paketen gehören: Zuordnungen lizenzierter Software, Cloud Services, Visual Studio-Abonnements und Support. Diese Pakete können auch bestimmte Markt Einführungs Ressourcen, Angebote und Programme enthalten. Der Bericht "Vorteile" zeigt Trends zu den Vorteilen, auf die Sie zugegriffen haben, und deren Auslastung während des ausgewählten Datums Bereichs.
 
 ![Übersicht über die Vorteile](images/pci/pci_benefits_intro_1.png)
 
@@ -34,7 +34,7 @@ Sie können die folgenden Diagramme im Bericht "Vorteile" visualisieren:
 
 - Zusammenfassung
 - Gewährte Cloud Services
-- Softwareprodukte
+- Software Produkte
 - Visual Studio-Abonnements
 - Technische Vorteile
 - Markteinführung
@@ -44,7 +44,7 @@ Sie können die folgenden Diagramme im Bericht "Vorteile" visualisieren:
 
 **Zusammenfassung**
 
-Der Abschnitt Zusammenfassung enthält die Vorteile, die in Bezug auf lizenzierte Software, Clouddienste (nicht Azure), Visual Studio-Abonnements, technischen Support und bestimmte Markt Einführungs Dienste gewährt werden.
+Der Abschnitt Zusammenfassung enthält die Vorteile, die in Bezug auf lizenzierte Software, Clouddienste (nicht Azure), Visual Studio-Abonnements, technischen Support und bestimmte Markt Einführungs Dienste oder-Angebote gewährt werden.
 
 Beispiel: Microsoft Partner Network-Mitgliedschafts Partner (MPN) sind für den technischen Support lokaler Produkte und cloudprodukte qualifiziert. Partner, die die Silver-Kompetenz erreichen, erhalten technischen Support für 15 Vorfälle für lokale Produkte. Diese Unterstützung kann bei Bedarf genutzt werden. 
 
@@ -77,12 +77,12 @@ Dieses Diagramm zeigt den monatlichen Trend der Support Leistungen, die während
 
 Wählen Sie oben im Diagramm eine Registerkarte aus, um den Trend eines bestimmten von ihnen gewährten Support Vorteils anzuzeigen. Das Liniendiagramm stellt die Gesamtstunden der Unterstützung dar, die für den ausgewählten Support Vorteil zugewiesen wurde.
 
-![technische Vorteile](images/pci/pci_benefits_technical_benefits_6.png)
+![Technische Vorteile](images/pci/pci_benefits_technical_benefits_6.png)
 
-**Markteinführung**
+**Angebote oder Dienste für Markteinführungszeiten**
 
-Dieses Diagramm zeigt den monatlichen Trend der Vorteile von Go-to-Market (GTM), die für die Zuordnung während des ausgewählten Datums Bereichs und für eine ausgewählte Kategorie des GTM-Vorteils aktiviert wurden.
+Dieses Diagramm zeigt den monatlichen Trend von Markt Einführungs angeboten oder-Diensten, die für die Zuordnung während des ausgewählten Datums Bereichs und für ein ausgewähltes Angebot oder eine Dienst Kategorie ausgewählt werden.
 
-Wählen Sie in der Dropdown Liste am oberen Rand des Diagramms eine Kategorie für den GTM-Vorteil aus, um den Trend der ausgewählten GTM-Vorteils Kategorie anzuzeigen, die Ihrem Unternehmen gewährt wurde. Spalten im Diagramm repräsentieren GTM-Vorteile, die aktiviert wurden. Das Liniendiagramm repräsentiert die allgemeinen GTM-Vorteile, die Ihrem Unternehmen erteilt wurden.
+Wählen Sie in der Dropdown Liste oben im Diagramm ein Angebot oder eine Dienst Kategorie für das Markt Einführungsangebot aus, um den Trend der ausgewählten Markt Einführungs Dienste anzuzeigen, die Ihrem Unternehmen erteilt wurden. Die Spalten im Diagramm Stellenangebote oder aktivierte Dienste dar. Das Liniendiagramm stellt die Gesamtzahl der Markt Einführungsangebote oder-Dienste dar, die Ihrem Unternehmen erteilt wurden.
 
-![zu Markt Vorteilen wechseln](images/pci/pci_benefits_go_to_market_7.png)
+![Angebote zu Markteinführungszeiten](images/pci/pci_benefits_go_to_market_7.png)

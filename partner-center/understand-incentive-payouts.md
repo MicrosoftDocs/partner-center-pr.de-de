@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Incentives, Auszahlungen, Zahlungen, Incentive Program, Locations, Program Status
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f68977251416c9f70c84cd4f722a2c09a9535d5
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: c2c4ec70bec068b3f171ce6c3780eda8a830f146
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723467"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226116"
 ---
 # <a name="view-your-incentive-payments-and-programs"></a>Ihre Incentive-Zahlungen und-Programme anzeigen
 
@@ -59,8 +59,8 @@ In der **Übersicht über die Incentives** wird der Gesamtstatus Ihrer Incentive
 Diese Seite enthält auch Einnahmen und Zahlungen nach Standort oder Programm sowie alle weiteren Aktionen, die Sie möglicherweise durchführen müssen, um sich an einem bestimmten Ort bei einem Programm anzumelden.
 
 So greifen Sie auf **meine Incentive-Übersicht**zu:
-
-1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an.
+ 
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 2. Wählen Sie im Menü den Befehl **Incentives**und dann **Overview** aus.
 3. Zeigen Sie im oberen Bereich der Seite die Zusammenfassung der Einnahmen und Zahlungen an, und weitere Details finden Sie in der Tabelle unten. Sie können die zugehörige Tabelle auch sortieren, gruppieren und erweitern:
 
@@ -80,7 +80,8 @@ So greifen Sie auf **meine Incentive-Übersicht**zu:
 | Aktion erforderlich  | Der Partner hat eine Einladung zum Anmelden bei einem Incentive-Programm akzeptiert, muss jedoch die Bank-oder Steuerinformationen aktualisieren. In der Spalte **erforderliche Aktionen** finden Sie alle nächsten Schritte oder Links zum Aktualisieren Ihrer Bank-oder Steuerinformationen in Partner Center. |
 | Nicht mehr unterstützt  | Das spezielle Incentive-Programm wird nicht mehr im System "Incentives" angeboten. |
 | ULT  | Alle Steuer-und Bankinformationen wurden überprüft. Es ist keine weitere Registrierungsaktion für den Partner erforderlich. |
-| Inactive  | Das Incentive-Programm ist zu diesem Zeitpunkt möglicherweise nicht für die Registrierung geöffnet, oder der Partner erfüllt nicht die aktuelle Berechtigung zur Registrierung oder erneuten Registrierung.  |
+| Registrierung  | Der Benutzer ist kein Incentive-Administrator, und die Registrierung erfolgt in der **erforderlichen Aktion** oder **bei** der Überprüfung der Registrierungs Zustände.|
+| Inaktiv/nicht berechtigt | Das Incentive-Programm ist zu diesem Zeitpunkt möglicherweise nicht für die Registrierung geöffnet, oder der Partner erfüllt nicht die aktuelle Berechtigung zur Registrierung oder erneuten Registrierung. <br> Wenn der Status nicht **qualifiziert**ist, erfüllt der Partner nicht die aktuellen Berechtigungsanforderungen für das Programm. Wenn Sie unter dem Registrierungsstatus auf den Link für die **Berechtigungsanforderungen** anzeigen klicken, werden die Voraussetzungen für die Berechtigung angezeigt, und welche dieser Anforderungen erfüllt sind. |
 | Eingeladen  | Es wurde eine neue Einladungsprogramm-Registrierungs Einladung an den Partner gesendet, aber der Partner hat den Registrierungsprozess noch nicht gestartet. In der angrenzenden Spalte **Aktionen erforderlich** werden die nächsten Schritte und alle zugehörigen Links angezeigt.  |
 | Die Registrierung wird überprüft.  | Der Partner hat die Bank-und Steuerinformationen für eine neue oder vorhandene Registrierung bereits abgeschlossen oder aktualisiert und wartet darauf, dass Microsoft diese Informationen überprüft. Während der über **Prüfung wird die** Überprüfung der Registrierung möglicherweise für bis zu 48 Stunden angezeigt.  |
 

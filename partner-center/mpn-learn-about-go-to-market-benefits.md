@@ -1,24 +1,24 @@
 ---
-title: Erfahren Sie mehr über Ihre Microsoft Partner Network Markt Einführungs Vorteile | Partner Center
+title: Erfahren Sie mehr über die Markteinführung mit Microsoft-angeboten | Partner Center
 ms.topic: article
-ms.date: 10/31/2019
+ms.date: 03/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Dank der Markt Einführungs Vorteile erhalten Sie Zugang zu exklusiven Vertriebs-und Marketingressourcen, die Ihnen helfen, ihre Markteinführungszeit zu verkürzen, Leads zu generieren und Ihr Geschäft zu erweitern.
+description: Erfahren Sie, wie Sie mithilfe von Microsoft-angeboten die Markteinführungszeit beschleunigen, Leads generieren und Ihr Unternehmen erweitern können.
 author: MicheleHope
 ms.author: v-mihope
-keywords: MPN, Mitgliedschafts Vorteile, Mitgliedschaft, Markt Einführungs Vorteile, Markt Einführungs Einführung, zu Markt, GTM, Goldmitgliedschaft, Silver-Mitgliedschaft
+keywords: MPN, Mitgliedschafts Vorteile, Mitgliedschaft, Angebote zu Markteinführungszeiten, Markteinführung mit Microsoft, zu Markt, Goldmitgliedschaft, Silver-Mitgliedschaft
 ms.localizationpriority: medium
-ms.openlocfilehash: 359c86cbd2929ced4203b09b988ec1fbf7b2ea44
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 593b21e8ac74440aca5599dcf3b49a0ed877a827
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943333"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226206"
 ---
-# <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>Untersuchen Sie Ihre MPN-Vorteile für die Markt Einführungs Mitgliedschaft (GTM).
+# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Erkunden Sie Ihre Markteinführungszeiten mit Microsoft-angeboten
 
-**Zielgruppe**
+**Gilt für:**
 
 - Partner Center
 - Mitglieder im Microsoft Partner Network
@@ -28,66 +28,66 @@ ms.locfileid: "74943333"
 - Globaler Administrator
 - MPN-Partneradministrator
 
-Wenn Sie Mitglied der Microsoft Partner Network sind, erhalten Sie Zugriff auf die Mitgliedschafts Vorteile, die Ihnen bei der Erstellung und dem Wachstum Ihres Unternehmens helfen können. Die Vorteile von "Go-to-Market" (GTM) gehören zu den [vielen Vorteilen](https://partner.microsoft.com/manage-your-partner-network-benefits) , die Sie als Microsoft Partner Network Mitglied erhalten. 
+Wenn Sie Mitglied der Microsoft Partner Network sind, erhalten Sie Zugriff auf die Mitgliedschafts Vorteile, die Ihnen bei der Erstellung und dem Wachstum Ihres Unternehmens helfen können. Die Markteinführung von Microsoft-Ressourcen,-angeboten und-Programmen gehört zu den [vielen Vorteilen](https://partner.microsoft.com/manage-your-partner-network-benefits) , die Sie als Microsoft Partner Network-Mitglied erhalten.
 
-Mit GTM-Vorteilen erhalten Sie Zugriff auf exklusive Vertriebs-und Marketingressourcen, die Ihnen helfen, ihre Markteinführungszeit zu verkürzen, Leads zu generieren und Ihr Geschäft zu erweitern.
+Mit den Markt Einführungs angeboten können Sie auf exklusive Vertriebs-und Marketingressourcen zugreifen, die Ihnen dabei helfen, ihre Markteinführungszeit zu verkürzen, Leads zu generieren und Ihr Geschäft zu erweitern.
 
 >[!NOTE]
 >Wenn Sie noch nicht Mitglied der Microsoft Partner Network sind, können Sie sich auf [der Microsoft Partner Network Website](https://partner.microsoft.com/membership)anmelden.
 
 
-## <a name="gtm-benefits-available-by-membership-level"></a>GTM-Vorteile, die auf Mitgliedschafts Ebene verfügbar sind
+## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Ressourcen, Angebote und Programme, die auf Mitgliedschafts Ebene verfügbar sind
 
-Die GTM-Vorteile unterscheiden sich abhängig von Ihrem spezifischen MPN-Mitgliedschafts Grad, ihren Spezialisierungs Funktionen und den von Ihnen unterstützten [Kompetenzen](learn-about-competencies.md) .
+Ihre Markt Einführungsangebote unterscheiden sich abhängig von Ihrem spezifischen Maß an MPN-Mitgliedschaft, ihren Spezialisierungs-und [Kompetenz bezogenen Kompetenzen](learn-about-competencies.md) .
 
-Alle MPN-Mitglieder haben Zugriff auf bestimmte standardmäßige GTM-Vorteile. Hierzu gehören der Zugriff auf gebrauchsfertige Marketingressourcen, eine Vertriebsplattform und ein Bedarfs gesteuertes digitales Marketing. Es gibt möglicherweise noch mehr GTM-Vorteile für Partner, die Silber-oder Gold-Kompetenzen erreichen.
+Alle MPN-Mitglieder haben Zugriff auf bestimmte standardmäßige GTM-Ressourcen. Hierzu gehören der Zugriff auf gebrauchsfertige Marketingressourcen, eine Vertriebsplattform und ein Bedarfs gesteuertes digitales Marketing. Es gibt auch noch mehr Markt Einführungsangebote und-Programme, die für Partner mit Silver-oder Gold-Kompetenzen verfügbar sind.
 
 >[!NOTE]
->Die GTM-Vorteile unterliegen Ergänzungen und Änderungen. Wechseln Sie zur Microsoft Partner Network [Seite "Go-to-Market](https://partner.microsoft.com/membership/go-to-market) ", um mehr über die neuesten GTM-Vorteile zu erfahren, die nach Kompetenz Grad verfügbar sind.
+>Ressourcen, Angebote und Programme, die sich auf die Markteinführung konzentrieren, unterliegen Ergänzungen und Änderungen. Wechseln Sie zur Microsoft Partner Network [Seite "Go-to-Market](https://partner.microsoft.com/membership/go-to-market) ", um mehr über die neuesten Ressourcen und Angebote zu erfahren, die auf der Kompetenzebene verfügbar sind.
 
-Zusätzliche GTM-Vorteile, die für diese mit dem **Silver** -Kompetenzniveau verfügbar sind:
+Zusätzliche Markt Einführungsangebote, die für diese mit dem **Silver** -Kompetenzniveau verfügbar sind:
 
-- Alle MPN Standard-GTM-Vorteile
+- Alle MPN-Standard Ressourcen für die Markteinführung
 - Geschäftsprofil Optimierung und Weiterleitungs Verwaltung
 - Markteinführung mit Microsoft
 
-Zusätzliche GTM-Vorteile, die für diese mit dem **Gold** -Kompetenzniveau verfügbar sind:
+Zusätzliche Markt Einführungsangebote, die für diese mit **Gold** -Kompetenzstufen verfügbar sind:
 
-- Alle MPN Standard-GTM-Vorteile
-- Alle Vorteile von Silver GTM
+- Alle MPN-Standard Ressourcen für die Markteinführung
+- Alle Silver go-to-Market-Angebote
 - Co-Branding mit einem Pager
 - Präsentation mit einem Branding
 - Groß-/Kleinschreibung
 - Release mit Microsoft Executive-Angebot Drücken
 - Social Marketing mit Co-Branding
 
-## <a name="view-gtm-membership-benefits-in-the-partner-center"></a>Anzeigen von Vorteilen der GTM-Mitgliedschaft im Partner Center
+## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Anzeigen der Angebote für die Markt Einführungs Mitgliedschaft in Partner Center
 
-Um Ihre GTM-Vorteile anzuzeigen:
+Um Ihre Markt Einführungsangebote anzuzeigen:
 
-1. Melden Sie sich beim Partner Center- [Dashboard]( https://docs.microsoft.com/partner-center/)an.
+1. Melde dich beim Partner Center-[Dashboard]( https://docs.microsoft.com/partner-center/) an.
 
 2. Wählen Sie im Menü auf der linken Seite **MPN**aus. Führen Sie dann einen der folgenden Schritte aus:
 
-    - Wählen Sie **Übersicht**. Scrollen Sie zum Abschnitt **Quick Links** , und wählen Sie dann die Registerkarte **go-to-Market** aus.
+    - Wählen Sie **Übersicht**aus. Scrollen Sie zum Abschnitt **Quick Links** , und wählen Sie dann die Registerkarte **go-to-Market** aus.
 
       oder
 
     - Wählen Sie **Vorteile** **und dann Markt**Einführungs Zeiten aus.
 
-Sie sehen eine Liste der Vorteile für die Markteinführung, die entweder bereits aktiv sind oder für die Aktivierung verfügbar sind.
+Sie sehen eine Liste der Angebote zu den Markteinführungszeiten, die entweder bereits aktiv sind oder für die Aktivierung verfügbar sind.
 
-## <a name="manage-or-activate-gtm-membership-benefits-in-the-partner-center"></a>Verwalten oder Aktivieren von Vorteilen der GTM-Mitgliedschaft im Partner Center
+## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Verwalten oder Aktivieren von Markt Einführungs angeboten im Partner Center
 
-Spezifische Schritte zum Aktivieren oder Verwalten Ihrer GTM-Mitgliedschafts Vorteile finden Sie unter [Verwalten der Vorteile der Markteinführung](manage-your-partner-network-benefits.md#manage-go-to-market-benefits). Ein Teil dieses Prozesses erfordert, dass Sie einen Marketingmitarbeiter als Kontakt für nach Verfolgungs-e-Mails und-Kommunikationen in Bezug auf die von Ihnen aktivierte GTM-Vorteile zuweisen.
+Spezifische Schritte zum Aktivieren oder Verwalten Ihrer Markt Einführungsangebote finden Sie unter [Verwalten Ihrer Markt Einführungsangebote](manage-your-partner-network-benefits.md#manage-go-to-market-offers). Ein Teil dieses Prozesses erfordert, dass Sie einen Marketingmitarbeiter als Kontakt für nach Verfolgungs-e-Mails und-Kommunikationen in Bezug auf die von Ihnen aktivierte Markt Einführungsangebote zuweisen.
 
 >[!IMPORTANT]
->Sie müssen der globale Administrator oder MPN-Partner Administrator sein, um bestimmte GTM-Vorteile zu aktivieren und einen Verwandten Marketing Kontakt zuzuweisen. Bei Bedarf können Sie ein globaler Administrator werden. Befolgen Sie dazu die Anweisungen auf der Seite [**Vorteile**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Möglicherweise gibt es in Ihrer Organisation bereits einen globalen Administrator. Erkundigen Sie sich in Ihrem Team danach.
+>Sie müssen der globale Administrator oder MPN-Partner Administrator sein, um bestimmte Markt Einführungsangebote zu aktivieren und einen Verwandten Marketing Kontakt zuzuweisen. Bei Bedarf können Sie ein globaler Administrator werden. Befolgen Sie dazu die Anweisungen auf der Seite [**Vorteile**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Möglicherweise gibt es in Ihrer Organisation bereits einen globalen Administrator. Erkundigen Sie sich in Ihrem Team danach.
 
-#### <a name="see-also"></a>Weitere Informationen:
+#### <a name="see-also"></a>Siehe auch
 
 [Verwalten der Vorteile Ihres Partnernetzwerks](manage-your-partner-network-benefits.md)
 
-[Erstmaliges Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements](mpn-get-action-pack.md)
+[Kauf oder Verlängerung eines Microsoft Action Pack-Abonnements](mpn-get-action-pack.md)
 
 [Weitere Informationen zu Kompetenzen](learn-about-competencies.md)

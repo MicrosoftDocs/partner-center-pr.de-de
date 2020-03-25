@@ -1,7 +1,7 @@
 ---
 title: Aktualisieren der Microsoft Partner Network-Mitgliedschaft | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Qualifizieren Sie sich für exklusive Vorteile, indem Sie Ihre MPN-Mitgliedschaft auf eine Microsoft Action Pack-Abonnement Mitgliedschaft oder auf Microsoft-Kompetenzen aktualisieren.
@@ -9,33 +9,32 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 7cc8d2023544d510dcf8cd51f89c79d427a849d1
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943403"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226147"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Aktualisieren der Microsoft Partner Network-Mitgliedschaft
 
-**Zielgruppe**
+**Gilt für:**
 
 -  Partner Center
 
-Das Microsoft-Partnerprogramm bietet die folgenden drei Mitgliedschafts Optionen mit inkrementellen Vorteilen, mit denen Sie Ihre Geschäftsziele erreichen können.
+Das Microsoft-Partnerprogramm bietet die folgenden drei Mitgliedschafts Optionen mit inkrementellen Vorteilen und Marketingressourcen, angeboten und Programmen, mit denen Sie Ihre geschäftlichen Ziele erreichen können.
 
-- **Netzwerkmitgliedschaft.** Die Basismitgliedschaft bietet Leistungen für Einsteiger für Schulungen, Support und Kundenkontakte. Sie müssen Netzwerkmitglied sein, um Ihre Mitgliedschaft zu aktualisieren.
+- **Netzwerkmitgliedschaft.** Die Kern Mitgliedschafts Ebene, die auf Einstiegsebene Marketingressourcen für Schulungs-, Support-und Kunden Verbindungen bietet. Sie müssen Netzwerkmitglied sein, um Ihre Mitgliedschaft zu aktualisieren.
 
-- **Microsoft Action Pack-Abonnement-Mitgliedschaft.** Ein kostengünstiges Jahresabonnement für kleine und mittelständische Partnerunternehmen. Bietet die Einsteigerleistungen, die in der Basisnetzwerkmitgliedschaft enthalten sind, plus Bereitstellungen von Dienstabonnements, Softwarelizenzen und Support mit internen Nutzungsrechten.
+- **Microsoft Action Pack-Abonnement-Mitgliedschaft.** Ein kostengünstiges Jahresabonnement für kleine und mittelständische Partnerunternehmen. Beinhaltet die Marketingressourcen auf der Einstiegsebene, die mit der grundlegenden Netzwerk Mitgliedschaft und anderen Marketing angeboten und Programmen ausgestattet sind, wie z. b. Zuordnungen interner Rechte Dienst Abonnements, Softwarelizenzen und Support.
 
-- **Microsoft-Kompetenzen.** Eine erworbene Bezeichnung, die die Fähigkeiten Ihres Unternehmens zeigt. Umfasst Einsteigerleistungen, zusätzliche interne Nutzungsrechte, Qualifikation für Partner-Incentives und zusätzliche Support- und Beratungsstunden.
+- **Microsoft-Kompetenzen.** Eine erworbene Bezeichnung, die die Fähigkeiten Ihres Unternehmens zeigt. Umfasst auch Marketingressourcen auf Einstiegsebene und zusätzliche Angebote und Programme, wie z. b. interne Nutzungsrechte, die Berechtigung für Partner Anreize und zusätzliche Support-und Beratungsstunden.
 
   - Silver-Kompetenz-konsistente Fähigkeiten, Fachkenntnisse und Verpflichtungen
 
   - Gold-Kompetenz: die beste Funktion innerhalb eines bestimmten Microsoft-Lösungs Bereichs
 
-Nachdem Sie dem Microsoft Partner Network beigetreten sind, können Sie Ihre Mitgliedschaft aktualisieren und Angebote zu exklusiven Mitgliedschafts Vorteilen erwerben. Weitere Informationen über die Mitgliedschaft im Microsoft Partner Network finden Sie unter [https://partner.microsoft.com](https://partner.microsoft.com).
-
+Nachdem Sie dem Microsoft Partner Network beigetreten sind, können Sie Ihre Mitgliedschaft aktualisieren und exklusive mitgliedschaftsangebote erwerben. Weitere Informationen über die Mitgliedschaft im Microsoft Partner Network finden Sie unter [https://partner.microsoft.com](https://partner.microsoft.com).
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Kauf eines Microsoft Action Pack-Abonnements
 
@@ -63,13 +62,13 @@ Weitere Informationen zum Microsoft Action Pack finden Sie unter [https://partne
 
 3. Klicken Sie auf **Weiter**, um Zahlungsdetails hinzuzufügen. 
 
-4. Wählen Sie **Get started! Add a way to pay**, wenn Sie Zahlungsdetails eingeben müssen. 
+4. Wählen Sie **Get started! Add a way to pay**, wenn Sie Zahlungsdetails eingeben müssen.
 
 5. Geben Sie Ihre Zahlungsdetails ein, und klicken Sie dann auf **Weiter**.
 
 6. Überprüfen Sie Ihre Bestelldetails, und wählen Sie dann **kaufen** aus, wenn Sie bereit sind, Action Pack zu erwerben. Ihre Kreditkarte wird sofort belastet.
 
-7. Ihre Bestellung wird bestätigt. Wählen Sie **Schließen**.
+7. Ihre Bestellung wird bestätigt. Wählen Sie **Schließen** aus.
 
 Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlängert. Sie können die automatische Verlängerung jederzeit in der Liste der erworbenen Angebote deaktivieren. Allerdings ist es nicht möglich, die automatische Abonnementverlängerung wieder zu aktivieren, bis Sie erneut Ihr Abonnement verlängern. 
 
@@ -79,7 +78,7 @@ Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlänge
 
 2. Wählen Sie **Microsoft Action Pack-Abonnement** aus, um die Abonnementdetails einzusehen. 
 
-3. Aktivieren Sie **Automatische Verlängerung deaktivieren**, wenn Sie Ihr Action Pack-Abonnement nicht jedes Jahr automatisch verlängern möchten. 
+3. Aktivieren Sie **Automatische Verlängerung deaktivieren**, wenn Sie nicht möchten, dass Ihr Action Pack-Abonnement automatisch jährlich verlängert wird. 
 
 > [!NOTE]  
 > Wenn du die automatische Abonnementverlängerung deaktivierst, kannst du sie erst wieder aktivieren, wenn du das Abonnement erneut verlängerst. Wir erinnern dich vor Ablauf deines Abonnements an die Verlängerung.
@@ -103,7 +102,7 @@ Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlänge
 
 8. Überprüfen Sie Ihre Bestelldetails, und wählen Sie dann **kaufen** aus, wenn Sie bereit sind, Action Pack zu erwerben. Ihre Kreditkarte wird sofort belastet.
 
-9. Ihre Bestellung wird bestätigt. Wählen Sie **Schließen**.
+9. Ihre Bestellung wird bestätigt. Wählen Sie **Schließen** aus.
 
     Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlängert. Sie können die automatische Verlängerung jederzeit in der Liste der erworbenen Angebote deaktivieren. Allerdings ist es nicht möglich, die automatische Abonnementverlängerung wieder zu aktivieren, bis Sie erneut Ihr Abonnement verlängern. 
 
@@ -131,8 +130,3 @@ Wenn Sie Ihr Microsoft Action Pack-Abonnement kündigen möchten, müssen Sie si
 ### <a name="related-topics"></a>Verwandte Themen
 
 [Hinzufügen von Benutzern und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
-
-
-
-
-

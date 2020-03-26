@@ -1,7 +1,7 @@
 ---
 title: Leitfaden zum Migrieren von PMC zu Partner Center | Partner Center
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie Sie Ihr Unternehmen vom Partner Membership Center (PMC) zu Partner Center migrieren.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: high
-ms.openlocfilehash: c656981bfd5eb99e34a24f70960d4bc7da581896
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 0e1538258199c503d38a08f3e070a6cc6ec97253
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721879"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226176"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Leitfaden zum Migrieren von PMC zu Partner Center
 
@@ -29,7 +29,7 @@ Das Partner Membership Center (PMC) wird außer Betrieb gesetzt. Ihr Unternehmen
 >[!Note]
 >Auch wenn Ihr Unternehmen mehrere Konten oder Standorte hat, beginnt der Wechsel zu Partner Center mit dem Verschieben eines (Ihres ersten) Kontos in Partner Center.
 
-## <a name="get-started"></a>Beginnen
+## <a name="get-started"></a>Erste Schritte
 
 Der Verschiebevorgang beginnt in PMC. Ihr globaler Administrator erhält eine Einladung, mit dem Verschieben zu beginnen. 
 
@@ -43,7 +43,7 @@ Der Verschiebevorgang beginnt in PMC. Ihr globaler Administrator erhält eine Ei
 
 Wählen Sie in Ihrer Einladung **Erste Schritte** aus. Daraufhin wird die Anmeldeseite von Partner Center angezeigt.
 
-![Beginnen](images/migration/getstarted.jpg)
+![Erste Schritte](images/migration/getstarted.jpg)
 
 ## <a name="start-with-your-work-email"></a>Beginnen mit Ihrer geschäftlichen E-Mail-Adresse
 
@@ -61,11 +61,11 @@ Dadurch wird die Erstellung Ihres Azure AD-Mandanten eingeleitet und Ihnen Ihr G
 
 Wenn Sie **Zustimmen und fortfahren** auswählen, werden auch folgende Schritte ausgeführt:
 
-•   Ihr Konto wird zusammen mit ALLEN zugehörigen Standorten zu Partner Center migriert.
+- Ihr Konto wird zusammen mit ALLEN Standorten zum Partner Center migriert.
 
-•   Kompetenzen oder MAPs, die Sie möglicherweise in PMC erworben haben, werden migriert.
+- Kompetenzen oder MAPs, die Sie u. U. im PMC erworben haben, werden migriert.
 
-•   Vorteile (MAPs, Silver, Gold), die Sie in PMC hatten, werden migriert.
+- Marketingressourcen, Angebote und Programme (MAPs, Silver, Gold) aus dem PMC werden migriert.
 
 ## <a name="invite-employees-to-join-you"></a>Einladen von Mitarbeitern, Ihnen beizutreten
 
@@ -103,6 +103,6 @@ Sehen Sie sich die Einführung zum Dashboard an. Hier können Sie Ihre Mitglieds
 - [Erstellen Ihres Unternehmensprofils](create-a-marketing-profile.md)
 - [Kontaktaufnahme mit Kunden durch Empfehlungen](responding-to-referrals.md)
 
-## <a name="see-also"></a>Weitere Informationen
+## <a name="see-also"></a>Siehe auch
 
 - [Leitfaden zum Migrieren mehrerer Unternehmen von PMC zu Partner Center](move-multiple-companies.md)

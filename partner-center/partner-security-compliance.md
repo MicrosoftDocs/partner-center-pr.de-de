@@ -8,12 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
-ms.openlocfilehash: 6b1af593d4639cfc725da54b4e0f22cd1f3551ed
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.topic: conceptual
+ms.openlocfilehash: 2fc0926f2277cea8eebd7157af44338aabfaa94c
+ms.sourcegitcommit: e98684319d8f9bfc2cadad77fd7c51d7aa32c419
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723457"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80136322"
 ---
 # <a name="partner-security-requirements-status"></a>Status der Sicherheitsanforderungen für Partner
 
@@ -27,7 +28,7 @@ ms.locfileid: "76723457"
 - Alle Berater
 
 **Geeignete Benutzer**
--   Alle aktivierten Benutzer einschließlich Gastbenutzer
+-    Alle aktivierten Benutzer einschließlich Gastbenutzer
 
 Mehr Sicherheitsmaßnahmen für den Datenschutz und eine höhere Sicherheit gehören zu unseren obersten Prioritäten. Wir wissen, dass die beste Verteidigung die Prävention ist und dass wir nur so stark sind wie unser schwächstes Glied. Deshalb müssen alle in unserem Ökosystem handeln und sicherstellen, dass sie über angemessene Sicherheitsvorkehrungen verfügen. Zum Schutz von Partnern und Kunden führen wir eine Reihe von verbindlichen Sicherheitsanforderungen für Berater, Control Panel-Anbieter und Partner ein, die am Cloud Solution Provider-Programm teilnehmen.
 
@@ -59,7 +60,7 @@ Diese Metrik bezieht sich auf die MFA-Konfiguration eines CSP-Mandanten, die tä
 
 ### <a name="partner-center-activities-with-mfa"></a>Partner Center-Aktivitäten mit MFA
 
-Bei jeder Anmeldung Ihrer Mitarbeiter beim Partner Center, um zu arbeiten oder mithilfe von APIs Daten über das Partner Center abzurufen oder zu senden, wird der Sicherheitsstatus Ihrer Mitarbeiter herausgefordert und nachverfolgt. Ebenfalls in der Nachverfolgung des Sicherheitsstatus enthalten sind Ihre Anwendungen und alle Anwendungen von Anbietern in der Systemsteuerung. Der angezeigte Status bezieht sich auf die vergangenen 7 Tage.
+Bei jeder Anmeldung Ihrer Mitarbeiter beim Partner Center, um zu arbeiten oder mithilfe von APIs Daten über das Partner Center abzurufen oder zu senden, wird der Sicherheitsstatus Ihrer Mitarbeiter herausgefordert und nachverfolgt. Ebenfalls in der Nachverfolgung des Sicherheitsstatus enthalten sind Ihre Anwendungen und alle Anwendungen von Anbietern in der Systemsteuerung. Der angezeigte Status bezieht sich auf die letzten sieben Tage.
 
 #### <a name="mfa-verification-completed-by-users"></a>Von Benutzern abgeschlossene MFA-Überprüfung
 
@@ -77,11 +78,11 @@ Diese Metrik bezieht sich auf Aktivitäten im Partner Center-Dashboard. Sie miss
 Diese Metrik bezieht sich auf die Verwendung von API-Anforderungen im Partner Center, die mithilfe von Anwendungs- und Benutzerauthentifizierung erfolgt sind. Sie misst den Prozentsatz der API-Anforderungen, die mithilfe eines Zugriffstokens mit MFA-Anspruch erfolgt sind. Beispiel:
 
 - Fabrikam ist ein CSP-Partner und verfügt über eine CSP-Anwendung, die eine Mischung aus Anwendungs- und Benutzerauthentifizierung und rein auf die Anwendung beschränkten Authentifizierungsmethoden verwendet.
-- Am ersten Tag hat die Anwendung 3 API-Anforderungen vorgenommen, die auf ein Zugriffstoken gestützt waren, das ohne MFA-Überprüfung bei der Methode zur Anwendungs- und Benutzerauthentifizierung abgerufen wurde.
-- Am zweiten Tag hat die Anwendung 5 API-Anforderungen vorgenommen, die sich auf ein Zugriffstoken stützten, das nur mithilfe reiner Anwendungsauthentifizierung abgerufen wurde.
-- Am dritten Tag hat die Anwendung 2 API-Anforderungen vorgenommen, die auf ein Zugriffstoken gestützt waren, das mit MFA-Überprüfung bei der Methode zur Anwendungs- und Benutzerauthentifizierung abgerufen wurde.
-- An den verbleibenden 4 Tagen wurden von keinem der Mitarbeiter Vorgänge ausgeführt.
-- Die 5 API-Anforderungen am zweiten Tag, die von einem Zugriffstoken gestützt waren, das über reine Anwendungsauthentifizierung abgerufen wurde, werden von der Metrik ausgelassen, da sie keine Benutzeranmeldeinformationen verwendeten. Von den verbleibenden 5 Vorgängen waren 2 durch ein Zugriffstoken gestützt, das mithilfe von MFA-Überprüfung abgerufen wurde. Daher zeigt die Metrik 40 % an.
+- Am ersten Tag hat die Anwendung drei API-Anforderungen unter Verwendung eines Zugriffstokens ausgeführt, das mit App- und Benutzerauthentifizierung ohne MFA-Überprüfung abgerufen wurde.
+- Am zweiten Tag hat die Anwendung fünf API-Anforderungen unter Verwendung eines Zugriffstokens ausgeführt, das mit einer reinen App-Authentifizierung abgerufen wurde.
+- Am dritten Tag hat die Anwendung zwei API-Anforderungen unter Verwendung eines Zugriffstokens ausgeführt, das mit App- und Benutzerauthentifizierung einschließlich MFA-Überprüfung abgerufen wurde.
+- An den verbleibenden vier Tagen wurden von keinem der Mitarbeiter Vorgänge ausgeführt.
+- Die fünf API-Anforderungen am zweiten Tag, die unter Verwendung eines Zugriffstokens ausgeführt wurden, das mit einer reinen App-Authentifizierung abgerufen wurde, werden von der Metrik nicht berücksichtigt, da keine Benutzeranmeldeinformationen verwendet werden. Von den verbleibenden fünf Vorgängen wurden zwei unter Verwendung eines Zugriffstokens ausgeführt, das mit MFA-Überprüfung abgerufen wurde. Daher zeigt die Metrik 40 % an.
 
 ## <a name="what-should-i-do-if-the-metrics-under-mfa-report-arent-100"></a>Vorgehen, wenn die im MFA-Bericht ausgewiesenen Metriken keine 100 % erreichen
 
@@ -96,15 +97,15 @@ Andernfalls müssen Sie zunächst MFA für Ihren Partnermandanten implementieren
 
 ### <a name="have-you-only-recently-completed-mfa-implementation"></a>Haben Sie die MFA-Implementierung erst vor kurzem abgeschlossen?
 
-Die Metriken werden täglich errechnet und berücksichtigen Vorgänge, die im Verlauf der letzten 7 Tage ausgeführt wurden. Wenn Sie die MFA-Implementierung für Ihren Partnermandanten erst vor kurzem abgeschlossen haben, erreichen die Metriken möglicherweise keine 100 %.
+Die Metriken werden täglich berechnet und berücksichtigen Vorgänge, die im Verlauf der letzten sieben Tage ausgeführt wurden. Wenn Sie die MFA-Implementierung für Ihren Partnermandanten erst vor kurzem abgeschlossen haben, erreichen die Metriken möglicherweise keine 100 %.
 
 ### <a name="have-some-user-accounts-been-excluded-from-mfa-implementation"></a>Wurden einige Benutzerkonten aus der MFA-Implementierung ausgeschlossen?
 
-Verstehen Sie, ob Ihre aktuelle MFA-Implementierung alle Benutzerkonten oder nur einige abdeckt. Einige MFA-Lösungen sind richtlinienbasiert und unterstützen den Ausschluss von Benutzern, während Sie möglicherweise für andere die MFA auf Benutzerbasis explizit aktivieren müssen. Vergewissern Sie sich, dass Sie keine Benutzer aus Ihrer aktuellen MFA-Implementierung ausgeschlossen haben. Jedes Benutzerkonto, das ausgeschlossen wurde und sich beim Partner Center anmeldet, um mit CSP zusammenhängende Aktivitäten auszuführen, kann bewirken, dass die Metriken nicht 100 % erreichen.
+Verstehen Sie, ob Ihre aktuelle MFA-Implementierung alle Benutzerkonten oder nur einige abdeckt. Einige MFA-Lösungen sind richtlinienbasiert und unterstützen den Ausschluss von Benutzern. Bei anderen müssen Sie MFA u. U. explizit auf Benutzerbasis aktivieren. Vergewissern Sie sich, dass Sie keine Benutzer aus Ihrer aktuellen MFA-Implementierung ausgeschlossen haben. Jedes ausgeschlossene Benutzerkonto, über das sich ein Benutzer beim Partner Center anmeldet, um CSP-bezogene Aktivitäten auszuführen, kann bewirken, dass die Metriken keine 100 % erreichen.
 
 ### <a name="is-mfa-only-required-when-certain-conditions-are-met"></a>Ist MFA nur erforderlich, wenn bestimmte Bedingungen erfüllt sind?
 
-Verstehen Sie, ob die aktuelle Implementierung MFA nur unter bestimmten Bedingungen erzwingt. Einige MFA-Lösungen bieten Flexibilität und erzwingen MFA nur, wenn bestimmte Bedingungen erfüllt sind. Beispielsweise, wenn der Benutzer von einem unbekannten Gerät oder einem unbekannten Standort zugreift. Ein Benutzer, der für MFA aktiviert ist, aber für den der Abschluss der MFA-Überprüfung beim Zugriff auf das Partner Center nicht vorgeschrieben ist, kann bewirken, dass die Metriken 100 % nicht erreichen.
+Sie sollten wissen, ob MFA von Ihrer aktuellen Implementierung nur unter bestimmten Bedingungen erzwungen wird. Einige MFA-Lösungen bieten Flexibilität und erzwingen MFA nur, wenn bestimmte Bedingungen erfüllt sind. Beispielsweise, wenn der Benutzer von einem unbekannten Gerät oder einem unbekannten Standort zugreift. Ein Benutzer, der für MFA aktiviert ist, aber für den der Abschluss der MFA-Überprüfung beim Zugriff auf das Partner Center nicht vorgeschrieben ist, kann bewirken, dass die Metriken 100 % nicht erreichen.
 
 >[!NOTE]
 >Partner, die MFA mithilfe von Azure AD-Sicherheitsstandards implementiert haben, müssen beachten, dass die mehrstufige Authentifizierung für Nicht-Administrator-Benutzerkonten risikobasiert erzwungen wird. Benutzer werden nur bei Anmeldeversuchen mit erhöhtem Risiko zur MFA aufgefordert (beispielsweise, wenn sich der Benutzer von einem anderen Standort aus anmeldet). Außerdem bleiben Benutzern 14 Tage Zeit für die Registrierung bei MFA. Benutzer, die die MFA-Registrierung nicht abgeschlossen haben, werden während des 14-Tages-Zeitraums nicht zur MFA-Überprüfung aufgefordert. Daher ist bei Partnern, die MFA mithilfe der Azure AD-Sicherheitsstandards implementiert haben, damit zu rechnen, dass die Metriken die 100 % nicht erreichen.

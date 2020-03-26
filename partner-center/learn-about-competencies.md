@@ -1,7 +1,7 @@
 ---
 title: Microsoft-Kompetenzanforderungen für die Gold- und Silver-Mitgliedschaft | Partner Center
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie mehr über die Kompetenzanforderungen für die Mitgliedschaftsstufen Silver und Gold.
@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Kompetenzen, Silver-Mitgliedschaft, Gold-Mitgliedschaft, MPN, MAPS, Kenntnisse, Microsoft Partner Network, Network Mitgliedschaft, erweiterte Spezialisierung
 ms.localizationpriority: high
-ms.openlocfilehash: 1927ccdb7c24e018ff1f656f46ba1580529d127f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004809"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226216"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informationen zu den Kompetenzanforderungen und erweiterten Spezialisierungen für Microsoft Silver und Gold
 
 **Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
+-    Globaler Administrator
+-    Benutzeradministrator
 
 Demonstrieren Sie Ihr Fachwissen bei der Bereitstellung von Qualitätslösungen in mindestens einem speziellen Geschäftsbereich. Microsoft-Kompetenzen dienen zur Vorbereitung auf die Erfüllung der Kundenanforderungen. Mit ihnen kannst du neue Kunden gewinnen, die einen Microsoft-zertifizierten Lösungsanbieter suchen. Werden Sie Teil der Microsoft-Partnerelite, und heben Sie sich von anderen Anbietern ab.
 
@@ -30,7 +30,7 @@ Demonstrieren Sie Ihr Fachwissen bei der Bereitstellung von Qualitätslösungen 
 
 - Als Gold-Mitgliedspartner können Sie Ihrem Portfolio außerdem erweiterte Spezialisierungen hinzufügen.
 
-Indem Sie die Kompetenzen **Silver-Mitgliedschaft** oder **Gold-Mitgliedschaft** erwerben, werden zudem leistungsstarke Vorteile für [Go-to-Market](mpn-learn-about-go-to-market-benefits.md)-Marketing und -Vertrieb bereitgestellt, die Ihnen helfen, Ihr Geschäft zu erweitern.
+Indem Sie die Kompetenzen **Silver-Mitgliedschaft** oder **Gold-Mitgliedschaft** erwerben, können Sie zudem leistungsstarke [Markteinführungsangebote und -programme](mpn-learn-about-go-to-market-benefits.md) nutzen, die Ihnen helfen, Ihr Geschäft voranzubringen.
 
 ## <a name="competency-areas"></a>Kompetenzbereiche
 
@@ -54,7 +54,7 @@ Weitere Informationen zu [Rechnungen und Steuern für Kompetenzen](mpn-view-prin
 
 ## <a name="advanced-specializations"></a>Erweiterte Spezialisierungen-
 
-Gehen Sie mit einer erweiterten Spezialisierung noch über Ihre Gold-Kompetenz hinaus. Diese bieten Ihnen die Möglichkeit, bewährtes, überprüfbares Fachwissen zu einem Produkt, einem Lösungsbereich oder einem Dienst herauszustellen. Für Kunden sind sowohl Ihre Gold-Kompetenz als auch Ihre erweiterte Spezialisierung in Ihrem Geschäftsprofil im Partnerverzeichnis sichtbar. Um eine Kennzeichnung für erweiterte Spezialisierung zu erhalten, muss Ihr Unternehmen eine Reihe veröffentlichter Kriterien in vollem Umfang erfüllen und von Microsoft überprüft sein. [Weitere Informationen](https://partner.microsoft.com/membership/competencies#tab-content-2). 
+Gehen Sie mit einer erweiterten Spezialisierung noch über Ihre Gold-Kompetenz hinaus. Diese bieten Ihnen die Möglichkeit, bewährtes, überprüfbares Fachwissen zu einem Produkt, einem Lösungsbereich oder einem Dienst herauszustellen. Für Kunden sind sowohl Ihre Gold-Kompetenz als auch Ihre erweiterte Spezialisierung in Ihrem Geschäftsprofil im Partnerverzeichnis sichtbar. Um eine Kennzeichnung für erweiterte Spezialisierung zu erhalten, muss Ihr Unternehmen eine Reihe veröffentlichter Kriterien in vollem Umfang erfüllen und von Microsoft überprüft sein. [Weitere Informationen](https://partner.microsoft.com/membership/competencies#tab-content-2) 
 
 ## <a name="the-current-advanced-specializations"></a>Die aktuellen erweiterten Spezialisierungen
 

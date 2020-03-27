@@ -1,7 +1,7 @@
 ---
 title: Software Assurance Planning Services in Partner Center | Partner Center
 ms.topic: article
-ms.date: 01/31/2020
+ms.date: 03/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie sich bei Microsoft Planning Services Engagement registrieren und qualifizieren, damit Sie Kunden mit Software Assurance Schulungen und andere Dienste anbieten können.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: Vor der Bereitstellung, Planung, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: a8bce7d7e9d52071af3ffc8c483a4aa4c40cc54f
-ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "76915754"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296405"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance-Planungsdienste in Partner Center
 
@@ -25,7 +25,7 @@ ms.locfileid: "76915754"
 
 Als genehmigter Planungsdienste-Partner kompensiert Microsoft Sie bei der Bereitstellung von Planungs Verpflichtungen für Unternehmenskunden vor der Bereitstellung. Die Teilnahme an diesem Programm kann Ihnen helfen, mehr Kunden zu gewinnen, ihr zuverlässiger Planungspartner zu werden und zu weiteren Kundeneinsätzen führen.
 
-## <a name="get-started"></a>„Erste Schritte“
+## <a name="get-started"></a>Erste Schritte
 
 Wenn Sie mit den Software Assurance-Planungs Diensten noch nicht vertraut sind, führen Sie die folgenden Schritte aus. Wenn Sie bereits in den Planungsdienst Programmen aktiv sind, beginnen Sie mit jeder neuen Verpflichtung bei Schritt 4 (4).
 
@@ -52,7 +52,7 @@ Damit Partnerunternehmen und Berater sich bei einem der Angebote für Planungsdi
 
 So überprüfen Sie, ob Ihr Unternehmen berechtigt ist, sich bei einem bestimmten Planungsdienst zu registrieren:
 
-1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/home)an.
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an.
 2. Wählen Sie im Menü **MPN** aus, und klicken Sie dann auf **Programme**.
 3. Wählen Sie **Software Assurance**-Registrierung aus.
 4. Wählen Sie oben auf der Seite die Registerkarte Registrierung des Planungs Diensts **Programm** aus. Ein grünes Häkchen wird neben allen Anforderungen oder Kompetenzen angezeigt, die Sie bereits abgeschlossen haben.
@@ -103,8 +103,9 @@ Nach dem Einlösen von Planungsdienst-Gutscheinen müssen Sie Microsoft für die
 
 Befolgen Sie die Anweisungen in [Schritt 8](https://go.microsoft.com/fwlink/?linkid=2115983) des Workflows, um eine Rechnung über savb an Microsoft zu übermitteln.
 
-## <a name="see-also"></a>Weitere Informationen:
+## <a name="see-also"></a>Siehe auch
 
 - [Software Assurance Planning Services-Workflow](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [FAQ zu Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [Software Assurance Planning Services-Richtlinien](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [Nicht abgekoppelte Engagements von Software Assurance Planning Services](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

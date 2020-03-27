@@ -1,7 +1,7 @@
 ---
 title: Anzeigen der Berechtigungsanforderungen für die Planung von Dienst Engagements | Partner Center
 ms.topic: article
-ms.date: 01/29/2020
+ms.date: 03/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informieren Sie sich über die Berechtigungsanforderungen für jede Software Assurance Planning Services-Einbindung, die ein Unternehmen für Unternehmenskunden anbieten kann.
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 Keywords: vor der Bereitstellung, Planung, Software Assurance, Engagements, Anforderungen, Qualifikation, Angebot
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f53d12c470ec72bd8eb59ea7d21db06d813a763
-ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.openlocfilehash: d75753bdaef97f1cf0b9bd4c20474954e747735d
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "76928889"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296435"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Anzeigen der Berechtigungsanforderungen für die Planung von Dienst Engagements
 
@@ -41,8 +41,9 @@ Jedes Engagement für Planungsdienste verfügt über eigene, spezifische Berecht
 | Exchange-Bereitstellungs Planung<br> Planen der Bereitstellung von Skype for Business</br>  | [Angebote der Skype for Business-und Exchange-Bereitstellungs Planung (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | Data Estate-Modernisierung  | [SQL Server Bereitstellungs Planungsdienste (ssdps)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
-## <a name="see-also"></a>Weitere Informationen:
+## <a name="see-also"></a>Siehe auch
 
 - [Software Assurance Planning Services-Workflow](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [FAQ zu Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [Software Assurance Planning Services-Richtlinien](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [Nicht abgekoppelte Engagements von Software Assurance Planning Services](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

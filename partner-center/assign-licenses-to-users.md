@@ -6,20 +6,20 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Benutzerkonten für einen Kunden erstellen, Benutzerlizenzen hinzufügen oder entfernen, Benutzer Kennwörter zurücksetzen, Benutzerkonten löschen oder wiederherstellen.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: Kundenverwaltung, Konto, Konto erstellen, Lizenzen, Lizenz zuweisen Benutzerverwaltung, Kennwort, Kennwort zurücksetzen, Kennwort ändern
 ms.localizationpriority: medium
-ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: fcd5ebe2cb5daa5eafcd3ef56e1750225fcc9990
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721358"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391009"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>Benutzerverwaltungsaufgaben für Kundenkonten
 
-**Zielgruppe**
+**Gilt für:**
 
 - Partner Center
 
@@ -35,25 +35,25 @@ Sie können neue Benutzer im Konto eines Kunden erstellen und löschen. Sie kön
 
 Wenn Sie neue Abonnements für einen Kunden kaufen, sollte der Kunde eine Liste aller Benutzer erhalten, die Konten, die Benutzerberechtigungen und die von den einzelnen Benutzern benötigten Dienste benötigen.  
 
-Sie können [Abonnements gleichzeitig mehreren Benutzern zuweisen](bulk-license-provisioning-for-multiple-users.md), indem Sie die Namen mithilfe einer [Excel-kompatiblen CSV-Datei](adding-multiple-users-to-a-customer-account.md) importieren.
+Können [Abonnements gleichzeitig für mehrere Benutzer zuweisen](bulk-license-provisioning-for-multiple-users.md), indem Sie die Namen mit einer [Excel-kompatiblen CSV-Datei](adding-multiple-users-to-a-customer-account.md) importieren.
 
 <a href="" id="createuseraccounts"></a>
 
 ## <a name="create-user-accounts-for-a-customer"></a>Erstellen von Benutzerkonten für einen Kunden
 
-1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an.
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
 2. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 
 3. Wählen Sie im Kundenmenü **Benutzer und Lizenzen**.
 
-4. Klicken Sie für jeden Benutzer auf **Benutzer hinzufügen**, und geben Sie die Informationen, einschließlich Berechtigungen und Lizenzen, ein. **Speichern** Sie Ihre Änderungen.
+4. Wählen Sie für jeden Benutzer **Benutzer hinzufügen**, und geben Sie die Informationen, einschließlich Berechtigungen und Lizenzen, ein. **Speichern** Sie Ihre Änderungen.
 
 5. Notieren Sie den Benutzernamen und das temporäre Kennwort, um diese an den Benutzer zu senden.
 
-6. Wenn Sie mehrere Benutzer hinzufügen, befolgen Sie die Anweisungen unter **Hinzufügen eines weiteren Benutzers**.
+6. Wenn Sie mehrere Benutzer hinzufügen, verwenden Sie **Hinzufügen eines weiteren Benutzers**.
 
-7. Sie können auch mehrere Benutzer gleichzeitig über [den Import einer Excel-kompatiblen CSV-Datei](adding-multiple-users-to-a-customer-account.md) hinzufügen. Sie können warten, bis Sie mit dem gesamten Satz fertig sind, bevor Sie die Namen und Kennwörter auf dem Bestätigungsbildschirm per E-Mail senden oder ausdrucken.
+7. Sie können außerdem gleichzeitig mehrere Benutzer über [den Import einer Excel-kompatiblen CSV-Datei](adding-multiple-users-to-a-customer-account.md) hinzufügen. Wenn Sie mehrere Benutzer auf einmal hinzufügen, indem Sie Weiteren Benutzer hinzufügen verwenden oder eine mit Excel kompatible CSV-Datei importieren, können Sie warten, bis Sie mit dem gesamten Satz fertig sind, bevor Sie die Namen und Kennwörter auf dem Bestätigungsbildschirm per E-Mail senden oder ausdrucken.
 
 <a href="" id="userlicensing"></a>
 
@@ -61,7 +61,7 @@ Sie können [Abonnements gleichzeitig mehreren Benutzern zuweisen](bulk-license-
 
 Die folgenden Schritte gelten für das Hinzufügen oder Entfernen von Benutzerlizenzen für Microsoft-Produkte. Informationen zum Hinzufügen oder Entfernen von Benutzerlizenzen für Lizenz basierte Saas-Abonnements im kommerziellen Marketplace finden Sie unter [Hinzufügen oder Entfernen von Lizenzen für ein SaaS-Abonnement](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).
 
-1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an.
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
 2. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 
@@ -78,7 +78,7 @@ Die folgenden Schritte gelten für das Hinzufügen oder Entfernen von Benutzerli
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Zurücksetzen eines Benutzerkennworts für einen Kunden
 
-1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an.
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
 2. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 
@@ -98,7 +98,7 @@ Die folgenden Schritte gelten für das Hinzufügen oder Entfernen von Benutzerli
 
 3.  Wählen Sie am unteren Bildschirmrand **Benutzerkonto löschen**.
 
-Wenn Sie dieses Konto wiederherstellen müssen, finden Sie es auf der Registerkarte **Gelöschte Benutzer** in der Liste **Benutzer und Lizenzen** des Kunden. Sie haben zum Wiederherstellen eines gelöschten Benutzers 30 Tage Zeit.
+Wenn Sie dieses Konto innerhalb von 30 Tagen wiederherstellen müssen, finden Sie es auf der Registerkarte **Gelöschte Benutzer** der Liste **Benutzer und Lizenzen** des Kunden. Sie haben 30 Tage zum Wiederherstellen eines gelöschten Benutzers.
 
 <a href="" id="restoreuseraccounts"></a>
 

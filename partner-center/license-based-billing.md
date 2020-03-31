@@ -3,20 +3,20 @@ title: Lizenz basierte Abrechnung | Partner Center
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informationen zur lizenzbasierten Abrechnung in Partner Center, bei der die Abrechnung pro Lizenz erfolgt (nicht nach Lizenz Verwendung).
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Abrechnung, Zahlungen, Lizenz basiert, Lizenz
 ms.localizationpriority: medium
-ms.openlocfilehash: 4293b193a58030a17bc63ce4b36111a0285e236c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 726f7d3664243405bdc4eaa67b32dbe5e21d5fb4
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004919"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390899"
 ---
 # <a name="license-based-billing"></a>Lizenzbasierte Abrechnung
 
-**Zielgruppe**
+**Gilt für:**
 
 - Partner Center
 - Partner im CSP-Programm
@@ -37,7 +37,7 @@ Sie können auswählen, dass Lizenzen einmal monatlich (**monatliche Abrechnung*
 
 Lizenz basierte Abonnements werden im Voraus mit dem **Jahrestag**des Abonnements in Rechnung gestellt. Das Jahrestag ist der Tag des Monats, an dem Sie das Abonnement erworben haben.
 
-Zum Beispiel:
+Beispiel:
 
 - Wenn Sie am 15. Januar ein **monatliches Abonnement** erworben haben, ist das Anniversary Date der 15. jedes Monats.
 - Wenn Sie am 15. Januar ein **Jahresabonnement** erworben haben, ist das Anniversary Date der 15. Januar jedes Jahres.

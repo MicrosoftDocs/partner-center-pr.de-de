@@ -5,22 +5,22 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Partner Center für Microsoft-Cloud Deutschland ist das Unternehmensportal für Microsoft-Partner, die Kunden die Microsoft-Cloudlösungen in EU und EFTA-Ländern anbieten möchten.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2534610ac551e4b11c1846951936ad939be2191e
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: c83709b68a492fd93ca166e9a9717ad9a632c6f6
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004879"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390769"
 ---
-# <a name="partner-center-for-microsoft-cloud-germany"></a>Partner Center für Microsoft Cloud Deutschland
+# <a name="partner-center-for-microsoft-cloud-germany"></a>Partner Center für Microsoft-Cloud Deutschland
 
-**Zielgruppe**
+**Gilt für:**
 
--  Partner Center für Microsoft Cloud Deutschland
+-  Partner Center für Microsoft-Cloud Deutschland
 
 **Geeignete Rollen**
 -   Globaler Administrator
@@ -41,7 +41,7 @@ Microsoft Cloud Deutschland bietet eine separate Instanz von [Microsoft Azure](h
 
 ## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Partner Center für Microsoft-Cloud Deutschland: Deutsche Cloudlösungen in EU und EFTA verkaufen
 
-Nachdem Sie als Cloud Solution Provider (CSP) für das Microsoft-Cloud Deutschland-Programm registriert sind, können Sie Partner Center verwenden, um deutsche Cloud-spezifische Lösungen und Dienste an Kunden in EU- und EFTA-Ländern/Regionen zu verkaufen. 
+Nachdem Sie als Cloud-Lösungsanbieter (CSP) für das Microsoft-Cloud Deutschland-Programm registriert sind, können Sie Partner Center verwenden, um deutsche Cloud-spezifische Lösungen und Dienste an Kunden in EU- und EFTA-Ländern/Regionen zu verkaufen. 
 
 Um mit deutschen Gesetzen und Vorschriften übereinzustimmen, die sowohl die Erfassung und Verwendung von Personendaten als auch wichtige internationale Standards regeln, erfolgt die Verwaltung folgender Aufgaben der Partner Center durch bestimmte Service-Portale. 
 

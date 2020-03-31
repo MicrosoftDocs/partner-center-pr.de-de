@@ -3,20 +3,20 @@ title: Abrechnung für einmalige Abrechnung und Auswahl von wiederkehrenden Geb�
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informationen zur einmaligen Abrechnung im Voraus für einen voreingestellten Begriff (monatliche und jährliche Abonnements) sowie zur Abrechnung für wiederkehrende Kosten für die wiederholte Auswahl (für anwendbare ISV-Produkte von Microsoft und Drittanbietern) im Partner Center.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Abrechnung, einmalig, wiederholt, Käufe, Gebühren, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 573334ce309c3b734da432c73975e3826b284498
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005039"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390779"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>Abrechnung für einmalige und ausgewählte wiederkehrende Gebühren
 
-**Zielgruppe**
+**Gilt für:**
 - Partner Center
 - Partner im CSP-Programm
 

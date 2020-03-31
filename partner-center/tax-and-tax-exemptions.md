@@ -6,20 +6,20 @@ description: Informieren Sie sich über die Steueraufgaben für Ihre spezielle g
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
-author: MaggiePucciEvans
+author: jasonwhowell
 keywords: Steuern, Steuern von Steuer Ausnahmen, Umsatzsteuer, Reseller, Abrechnung
-ms.author: evansma
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: b0fdf5bd78a6ce8ac98a18b85551bd7d57ffdabd
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 1befd911083cd0f4f774a839b8cc5e84c79592f8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943193"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390629"
 ---
 # <a name="taxes-and-tax-exemptions"></a>Steuern und Steuerbefreiungen
 
-Betrifft
+Betrifft:
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
@@ -87,7 +87,7 @@ Erstellen Sie dann mit den Steuer Ausnahme Informationen ein Support Ticket für
 2. Wählen Sie auf der Seite **Partner Anforderung** die Option **neue Anforderung**aus. (Sie können auch die offenen und geschlossenen Supportanfragen später auf dieser Seite anzeigen.)
 3. Wählen Sie im Schritt **Grundlagen** unter **CSP-Abrechnung und Zahlungen** **die Option Problemtyp auswählen** aus, und wählen Sie die Anforderung für die **Steuerbefreiung**aus.
 4. Wählen Sie im Schritt " **Lösungen** " unter **benötigen Sie weitere Hilfe?** die Option **Ja**aus.
-5. Füllen Sie im Schritt **Details** das Formular **Problem Details** aus. Stellen Sie Folgendes sicher:
+5. Füllen Sie im Schritt **Details** das Formular **Problem Details** aus. Achten Sie darauf,:
 
     - Füllen Sie alle erforderlichen Felder aus.
     - Fügen Sie Ihre **Microsoft-ID** und **MPN-ID** in das Feld **Details** ein.
@@ -95,7 +95,7 @@ Erstellen Sie dann mit den Steuer Ausnahme Informationen ein Support Ticket für
 
 6. Wählen **Sie senden aus** , um Ihre Supportanfrage zu senden. Microsoft wird Sie zurücksenden, um weitere Informationen zu erhalten.
 
-## <a name="support"></a>Support
+## <a name="support"></a>Unterstützungswert
 
 Wenn Sie weitere Fragen zu Steuer Ausnahmen und Rückerstattungen haben, fordern Sie Unterstützung im Partner Center an. Es kann etwa zwei Wochen dauern, bis Microsoft Kontakt mit Ihnen aufnimmt, um das Problem zu beheben.
 

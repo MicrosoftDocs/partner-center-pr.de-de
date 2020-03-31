@@ -1,19 +1,19 @@
 ---
 title: Häufige Abrechnungs Szenarien für Lizenz basierte Saas-Transaktionen | Partner Center
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 03/26/2020
 description: Erfahren Sie mehr über häufige Abrechnungs Szenarien im Partner Center für Lizenz basierte Saas-Transaktionen.
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: Abrechnung, Zahlungen, einmaliger Kauf, wiederkehrende Käufe, Abonnements, Arbeitsplätze
 ms.localizationpriority: medium
-ms.openlocfilehash: 5d86210ce52280b73846de56dafb5909081b6524
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: b509278166d858c64cfab6c98a27c266f9bc2c55
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722518"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390099"
 ---
 # <a name="billing-scenarios-for-license-based-saas-transactions"></a>Abrechnungs Szenarien für Lizenz basierte Saas-Transaktionen
 
@@ -37,7 +37,7 @@ Die Datei für die Wiederaufnahme umfasst die folgenden Gebühren:
 
 | Kaufdatum | Startdatum der Abrechnung | Enddatum der Abrechnung | Preis pro Einheit | Einheiten Menge | Gesamtbetrag | Gebührenart | Abonnement Beschreibung |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 USD | 1 | 0 USD | Neu | Kostenlose Testversion |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 1 | $0 | Neu | Kostenlose Testversion |
 | 07/10/2019 | 07/10/2019 | 08/09/2019 | 2 USD | 1 | 2 USD | Verlängern | Kostenpflichtiges Abonnement |
 
 ## <a name="cancel-a-free-trial-saas-subscription"></a>Kündigen Sie ein kostenloses Saas-Testabonnement an
@@ -51,8 +51,8 @@ Die Datei "Reconnaissance" enthält die folgenden Gebühren:
 
 | Kaufdatum | Startdatum der Abrechnung | Enddatum der Abrechnung | Preis pro Einheit | Einheiten Menge | Gesamtbetrag | Gebührenart | Abonnement Beschreibung |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 USD | 11 | 0 USD | Neu | Kostenlose Testversion |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 USD | 11 | 0 USD | Abbrechen | Kostenlose Testversion |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | Neu | Kostenlose Testversion |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | Abbrechen | Kostenlose Testversion |
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Konvertieren eines benutzerdefinierten Abrechnungs-Saas-Abonnements in eine andere SKU
 
@@ -62,11 +62,11 @@ In diesem Szenario haben Sie eine SKU (Silver) unter einem Produkt erworben und 
 
 Die Datei "Reconnaissance" enthält die folgenden Gebühren:
 
-| Kaufdatum | Startdatum der Abrechnung | Enddatum der Abrechnung | Preis pro Einheit | Einheiten Menge | Gesamtbetrag | Gebührenart | Abonnement Beschreibung |
-| ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | 20 USD | 1 | 20 USD | Neu | Benutzerdefiniertes Abrechnungs Abonnement für Saas |
-| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | 20 USD | 1 | -$20 | Konvertieren | Anteilsmäßig angeforderte Rechnung für benutzerdefiniertes Abrechnungs-Saas-Abonnement |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 USD | 1 | 10 USD | Konvertieren | Benutzerdefiniertes Abrechnungs Abonnement für Saas |
+| Kaufdatum | SKU | Startdatum der Abrechnung | Enddatum der Abrechnung | Preis pro Einheit | Einheiten Menge | Gesamtbetrag | Gebührenart | Abonnement Beschreibung |
+| ------------- | ----------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
+| 06/10/2019 | Silber | 06/10/2019 | 06/10/2019 | 20 USD | 1 | 20 USD | Neu | Benutzerdefiniertes Abrechnungs Abonnement für Saas |
+| 06/10/2019 | Silber | 06/10/2019 | 06/10/2019 | 20 USD | 1 | -$20 | Konvertieren | Anteilsmäßig angeforderte Rechnung für benutzerdefiniertes Abrechnungs-Saas-Abonnement |
+| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 € | 1 | 10 € | Konvertieren | Benutzerdefiniertes Abrechnungs Abonnement für Saas |
 
 ## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Erwerben und kündigen eines Kunden Abrechnungs-Saas-Abonnements am gleichen Datum
 
@@ -74,7 +74,7 @@ In diesem Szenario wird die Abrechnung für ein SaaS-Abonnement für Kunden Zäh
 
 In diesem Szenario haben Sie ein benutzerdefiniertes Abrechnungs Abonnement für SaaS-Abonnements auf der Azure-Portal erworben. Anschließend haben Sie das Abonnement am gleichen Datum abgebrochen.
 
-| Kaufdatum | Startdatum der Abrechnung | Enddatum der Abrechnung | Preis pro Einheit | Einheiten Menge | Gesamtbetrag | Gebührenart | Abonnement Beschreibung |
-| ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 USD | 1 | 10 USD | Neu | Benutzerdefiniertes Abrechnungs Abonnement für Saas |
-| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 USD | 1 | -$10 | CancelImmediate | Benutzerdefiniertes Abrechnungs Abonnement für Saas |
+| Kaufdatum | SKU | Startdatum der Abrechnung | Enddatum der Abrechnung | Preis pro Einheit | Einheiten Menge | Gesamtbetrag | Gebührenart | Abonnement Beschreibung |
+| ------------- | ------------- |----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
+| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 € | 1 | 10 € | Neu | Benutzerdefiniertes Abrechnungs Abonnement für Saas |
+| 06/10/2019 | Bronze | 06/10/2019 | 06/10/2019 | 10 € | 1 | -$10 | CancelImmediate | Benutzerdefiniertes Abrechnungs Abonnement für Saas |

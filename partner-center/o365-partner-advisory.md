@@ -3,16 +3,16 @@ title: Office 365 Partner Advisory-Microsoft 365 Voice in CSP | Partner Center
 description: PSTN-Dienste in einigen Ländern unterliegen möglicherweise speziellen Steuer-und behördlichen Anforderungen, die sich auf die Auftrags-und Rechnungsstellung von Partnern auswirken können
 ms.topic: article
 ms.date: 11/04/2019
-author: maggiepuccievans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Office, O365, PSTN-Dienste, Steuern, Anforderungen, Rechnungen, Rechnungsstellung
 ms.localizationpriority: medium
-ms.openlocfilehash: aad61f682740ad20dec1264cd48ff87d1f2c0806
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 14cf3541789fc982590842427d06711a70080004
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672820"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390789"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365-Partner Beratung: Microsoft 365 Voice in CSP
 

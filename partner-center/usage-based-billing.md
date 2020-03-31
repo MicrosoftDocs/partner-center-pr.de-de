@@ -3,23 +3,23 @@ title: Nutzungsbasierte Abrechnung | Partner Center
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informationen zur nutzungsbasierten Abrechnung in Partner Center, bei denen Ihnen monatliche Nutzungsgebühren in Rechnung gestellt werden.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Abrechnung, Nutzungs basiert, Nutzung
 ms.localizationpriority: medium
-ms.openlocfilehash: c92c6f9014a40a0f8804ba83ba7cc85939e90281
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 560c2760fcdf221fad9142fa36024e04e7ff1104
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389738"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390499"
 ---
 # <a name="usage-based-billing"></a>Nutzungsbasierte Abrechnung
 
 - Partner Center
 - Partner im CSP-Programm
 
-Wenn Sie Onlinedienste wie z.B. Azure-Abonnements erwerben, werden Ihnen monatliche Nutzungsraten in Rechnung gestellt. Nutzungsbasierte Dienste wie Azure werden entsprechend den getakteten Dienstleistungspreisen, basierend auf dem Verbrauch, abgerechnet.
+Wenn Sie Onlinedienste wie z. b. Azure-Abonnements erwerben, werden Ihnen monatliche Nutzungsraten in Rechnung gestellt. Nutzungsbasierte Dienste wie Azure werden entsprechend den getakteten Dienstleistungspreisen, basierend auf dem Verbrauch, abgerechnet.
 
 Einige Microsoft-Produkte und -Dienste verwenden das Abrechnungsmodell „nutzungsbasierte Bezahlung“, bei dem Ihnen nur genutzte Dienste in Rechnung gestellt werden. Dieses Modell verwendet beispielsweise Microsoft Azure. 
 
@@ -33,7 +33,7 @@ Nutzungsbasierte Abonnements werden monatlich nach dem **Abonnement Stichtag**in
 
 Die Gebühren, die für das Abonnement Stichtag generiert werden, werden in der folgenden Rechnung und in der Abstimmungs [Datei](usage-based-recon-files.md)angezeigt.
 
-Gelegentlich werden Sie feststellen, dass einige Nutzungsgebühren auf Ihrer Rechnung fehlen oder dass die Nutzung aus einem vorhergehenden Monat in der Rechnung des laufenden Monats berechnet wird. Dies ist kein Fehler. Es bedeutet lediglich, dass der Dienst mit einem Zeitstempel versehen wurde, nachdem die Dienste erfolgt sind. Die innerhalb von 24 Stunden nach dem Ende des Abrechnungszyklus berichtete Nutzung wird dann in der Rechnung des nächsten Monats angezeigt.
+Gelegentlich bemerken Sie, dass einige Nutzungsgebühren in Ihrer Rechnung fehlen, oder dass die Nutzung aus einem vorherigen Monat in der Rechnung des aktuellen Monats abgerechnet wird. Dies ist kein Fehler. Es bedeutet lediglich, dass der Dienst mit einem Zeitstempel versehen wurde, nachdem die Dienste erfolgt sind. Die innerhalb von 24 Stunden nach dem Ende des Abrechnungszeitraums gemeldete Nutzung wird auf der Rechnung des nächsten Monats angezeigt.
 
 ## <a name="cancelling-usage-based-subscriptions"></a>Abbrechen von Verwendungs basierten Abonnements
 
@@ -41,6 +41,6 @@ Nutzungsbasierte Abonnements können jederzeit angehalten werden.
 
 ## <a name="pricing-for-usage"></a>Preise für die Nutzung
 
-Die Azure-CSP-Preisliste wird monatlich veröffentlicht und ist auf der Partner Center-Seite „Verkaufen“ -> „Preise und Angebote“ zu finden. Bitte beachten Sie, dass die Preise sich täglich ändern können und auf der Registerkarte „Änderungsverlauf“ der Preisliste angezeigt werden.
+Der Azure-CSP-Preisliste wird monatlich veröffentlicht und kann auf dem Partner Center unter Verkaufen-> Preise und Angebote gefunden werden kann. Beachten Sie, dass die Preise sich täglich ändern können und auf der Registerkarte Verlaufsänderungen der Preisliste angezeigt werden.
 
-Nutzungsgebühren basieren auf Preisen pro Tag. Wenn sich der Preis während des Dienstzeitraums ändert, sehen Sie eine Rechnungsposition für jeden anteiligen Dienstzeitraum und den anzuwendenden Preis.
+Nutzungsgebühren basieren auf täglichen Preisen. Ändert sich der Preis während des Dienstzeitraums, sehen Sie eine Abrechnungszeile für die anteilige Service-Dauer und den entsprechenden Preis.

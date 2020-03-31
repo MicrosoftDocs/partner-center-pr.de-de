@@ -6,19 +6,19 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Das Beantragen einer Partnerschaft mit einem Kunden wird in Multipartner- und Multichannelszenarien verwendet. Dieser Vorgang ist auch hilfreich, wenn ein Kunde Ihre delegierten Administratorrechte entfernt und Sie sie für Bereitstellungen oder Supportleistungen wiederherstellen müssen.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: c89c1c9880adf1a6d91302251bc332dd537e1e83
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.openlocfilehash: ff1b9d6e7290304b4cc33d53251750daf04fbfe8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "77012128"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390679"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Kontaktaufnahme mit Kunden im Partner Center
 
-**Gilt für**
+**Gilt für:**
 
 -  Partner Center
 
@@ -29,7 +29,7 @@ Wenn Sie eine Vertriebspartnerschaft mit einem Kunden aufbauen und nur die von I
 Beachten Sie, dass die Option, keine Berechtigungen anzufordern, den Partnern, die in Microsoft Cloud for US Government oder Microsoft Cloud Deutschland arbeiten, nicht zur Verfügung steht. Weitere Informationen finden Sie unter [Kunden delegieren Administratorrechte an Partner](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
 
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden zur Einrichtung einer Vertriebspartnerschaft mit Ihnen
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden zur Einrichtung einer Reseller-Partnerschaft mit Ihnen
 
 Beachten Sie, dass Sie eine Vertriebspartnerschaft mit einem Kunden aus Ihrem Land oder Ihrer Region anfordern können.
 
@@ -37,7 +37,7 @@ Beachten Sie, dass Sie eine Vertriebspartnerschaft mit einem Kunden aus Ihrem La
 
 2.  Um Administratorrechte von diesem Kunden anzufordern, wählen Sie **Delegierte Administratorrechte für Azure Active Directory und Office 365 einbeziehen** aus. Deaktivieren Sie diese Option, um die Beziehung herzustellen, ohne Administratorrechte anzufordern. 
 
-3.  Überprüfen Sie auf der nächsten Seite den E-Mail-Entwurf. Sie können den Nachrichtenentwurf in Ihrer standardmäßigen E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen. 
+3.  Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer standardmäßigen E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen. 
 
     Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist und den Kunden direkt mit Ihrem Konto verknüpft. Wähle **Fertig** aus, nachdem du diesen Schritt abgeschlossen hast.
 
@@ -64,7 +64,7 @@ Die Kundenfreundlichkeit, eine Reseller Relationship-Einladung von einem Cloud S
 | Kunden im Partner Center für Microsoft Cloud for US Government | Microsoft Office-Verwaltungsportal |
 |
 
-## <a name="see-also"></a>Weitere Informationen:
+## <a name="see-also"></a>Siehe auch
 
 - [Zuweisen von Supportkontakten](assign-support-contacts.md)
 - [Entfernen einer Partnerschaft mit einem Kunden](remove-a-relationship.md)

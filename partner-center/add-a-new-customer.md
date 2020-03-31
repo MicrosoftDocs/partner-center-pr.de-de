@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie im Partner Center einen neuen Kundendaten Satz hinzufügen. Anschließend können Sie die Kunden Abonnements verkaufen, die Abrechnung verwalten oder Kundensupport bereitstellen.
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
-author: MaggiePucciEvans
-ms.author: evansma
-keywords: Kunde, Kunde hinzufügen, Kundenkonto, Kundenkonto im Partner Center, Kunden, Kunden hinzufügen, Kundenkonto erstellen
+author: jasonwhowell
+ms.author: jasonh
+keywords: Kunden, Kunden hinzufügen, Kundenkonto, Kundenkonto im Partner Center, Hinzufügen von Kunden, Kundenkonto erstellen
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ff14f57688e377286d46d6aa9cf2d235f032629
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 70961af4dfc4996a62fdb23bc965f0a3d2fb8f37
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340079"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390959"
 ---
 # <a name="add-a-new-customer"></a>Neuen Kunden hinzufügen 
 
@@ -23,7 +23,7 @@ ms.locfileid: "78340079"
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
-- Partner im Cloud Solution Provider-Programm
+- Partner im Programm für Cloud Solution Provider
 
 **Geeignete Rollen**
 

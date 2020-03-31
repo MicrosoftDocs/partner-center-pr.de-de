@@ -6,19 +6,19 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Wenn Benutzer ihr Kennwort vergessen, können Sie ihnen ein neues temporäres Kennwort zuweisen. Sie können es für die nächste Anmeldung beim Partner Center verwenden.
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: a74f89b023f72c867667902d4765f22287bb1546
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c920757d8a2e7b6ff9bacbffb2e84cf0ce45b1c8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654099"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390669"
 ---
 # <a name="reset-a-user-password-or-update-your-own-password"></a>Zurücksetzen eines Benutzer Kennworts oder Aktualisieren Ihres eigenen Kennworts
 
-**Zielgruppe**
+**Gilt für:**
 
 -  Partner Center
    

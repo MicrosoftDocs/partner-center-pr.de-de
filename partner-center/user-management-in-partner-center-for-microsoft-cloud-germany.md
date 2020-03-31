@@ -5,21 +5,21 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie und wo Partner Center für Microsoft Cloud Deutschland-Partner,-Kunden und-Lizenzen sowie das Zurücksetzen von Kenn Wörtern verwaltet werden.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 39d1d6ff405ca4b19fc59edddc1bd5e5dbb4fef2
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 6f6a5f1c4a64e6bb9f80204dbbf6100b8441bc37
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943373"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390489"
 ---
-# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Benutzer- und Lizenzverwaltung im Partner Center für Microsoft Cloud Deutschland
+# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland
 
-**Zielgruppe**
+**Gilt für:**
 
--  Partner Center für Microsoft Cloud Deutschland
+-  Partner Center für Microsoft-Cloud Deutschland
 
 > [!IMPORTANT]
 > Basierend auf der Entwicklung der Kundenanforderungen konzentriert sich unsere cloudstrategie für Deutschland auf die Bereitstellung der neuen cloudregionen in Deutschland, die mit unserem globalen cloudangebot konsistent sind. Mit diesem Fokus werden keine neuen Kunden mehr akzeptiert bzw. keine neuen Dienste über die derzeit verfügbare Microsoft Cloud Deutschland bereitgestellt. Vorhandene Kunden können weiterhin die aktuellen Clouddienste verwenden, die heute verfügbar sind und mit den erforderlichen Sicherheitsupdates verwaltet werden.
@@ -37,7 +37,7 @@ Lizenzverwaltung | Office 365 Admin-Zentrum oder Microsoft Cloud Deutschland Azu
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Verwalten von Benutzern im Azure-Portal für Microsoft-Cloud Deutschland 
 
-Wenn Sie sich beim Partner Center für Microsoft-Cloud Deutschland angemeldet haben, können Sie das Azure-Portal für Microsoft-Cloud Deutschland öffnen, ohne sich erneut anzumelden. Wenn Sie sich allerdings direkt im Azure-Portal für Microsoft Cloud Deutschland anmelden müssen, wechseln Sie zu [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
+Wenn Sie sich beim Partner Center für Microsoft-Cloud Deutschland angemeldet haben, können Sie das Azure-Portal für Microsoft-Cloud Deutschland öffnen, ohne sich erneut anzumelden. Wenn Sie sich allerdings direkt im Azure-Portal für Microsoft-Cloud Deutschland anmelden müssen, wechseln Sie zu [https://portal.microsoftazure.de](https://portal.microsoftazure.de). 
 
 Nachdem Sie sich erfolgreich beim Azure-Portal für Microsoft-Cloud Deutschland angemeldet haben, öffnen Sie die Übersicht der Seite Azure Active Directory (Azure AD) und folgen Sie den Anweisungen für folgende Themen:
 

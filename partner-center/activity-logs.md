@@ -6,24 +6,24 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Aktivitäts Protokolle anzeigen und exportieren, um Einblicke in Kundenkonto Transaktionen und andere Kunden relevante Partner Verwaltungsaktivitäten zu erhalten.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: Aktivitätsprotokolle, Abonnement, Abonnements, Zahlungen, Abrechnung, Transaktionen
 ms.localizationpriority: medium
-ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: ef848b729079e54df5e898ea67fafdb1d1e87d25
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721793"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390379"
 ---
 # <a name="view-customer-activity-logs"></a>Anzeigen von Kundenaktivitätsprotokollen
 
-**Zielgruppe**
+**Gilt für:**
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
-- Partner im Cloud Solution Provider-Programm
+- Partner im Programm für Cloud Solution Provider
 
 **Geeignete Rollen**
 
@@ -40,7 +40,7 @@ Aktivitätsprotokolle enthalten Datensätze für Partneraktionen für Kundenkont
 
 **Anzeigen und Exportieren von Aktivitätsprotokollen**
 
-1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an.
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
 2. Wähle im Menü **Kontoeinstellungen** die Option **Aktivitätsprotokoll** aus.
 2.  Wählen Sie mithilfe der Felder **Von** und **Bis** den Aktivitätsprotokollierungszeitraum aus. Für den Export des Aktivitätsprotokolls wird standardmäßig der letzte Monat festgelegt.
@@ -55,7 +55,7 @@ Aktivitätsprotokolle enthalten Datensätze für Partneraktionen für Kundenkont
     -   **Action**: die vom Kunden ausgeführte Aktion, z. B. „hat eine Empfehlung erstellt“
     -   **Partner user**: der mit der Aktivität verknüpfte Partner
 
-4.  Wählen Sie **Exportprotokoll** aus, um die Abonnementdaten des Kunden in eine CSV-Datei zu kopieren und in den Standarddownloadordner auf Ihrem Computer hochzuladen.
+4.  Wählen Sie **Export log**, um die Abonnementdaten des Kunden in eine CSV-Datei zu kopieren und in den Standarddownloadordner auf Ihrem Computer hochzuladen.
     
  
 

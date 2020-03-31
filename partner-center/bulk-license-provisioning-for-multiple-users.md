@@ -6,20 +6,20 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie ein Kundenkonto zum gleichzeitigen zuweisen oder widerrufen von Lizenzen und Diensten für einen oder mehrere Benutzer verwenden.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: Lizenz zuweisen, Lizenz widerrufen, mehreren Benutzern zuweisen,
 ms.localizationpriority: medium
-ms.openlocfilehash: 1caf10625d776578f9b0bc91d40106cdd8dddf99
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a5dd688a5d4abd8d7f41921a16a7eda0467e5950
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722195"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390269"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer
 
-**Zielgruppe**
+**Gilt für:**
 
 - Partner Center
 
@@ -35,7 +35,7 @@ Sie können Lizenzen und Dienste einem Benutzer oder gleichzeitig mehreren Benut
 
 Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und zeigt diese an.
 
-## <a name="in-this-section"></a>In diesem Abschnitt
+## <a name="in-this-section"></a>Inhalt dieses Abschnitts
 
 
 - [Zuweisen von Lizenzen zu mehreren Benutzern](#assign-licenses-to-groups)
@@ -74,7 +74,7 @@ Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und ze
 7. Durch Aktivierung des Kontrollkästchens aller Produkte wählen Sie mehrere Produkte für die Benutzer aus.
     -   Wählen Sie für ein beliebiges Produkt **View service plans**, um die von den Benutzern benötigten Servicepläne anzuzeigen und auszuwählen.
 
-8. Wählen Sie **Speichern**. Partner Center öffnet die Bestätigungsseite **Licenses updated**, auf der die Benutzer und ihre neuen Lizenzen aufgeführt sind.
+8. Wählen Sie **Speichern** aus. Partner Center öffnet die Bestätigungsseite **Licenses updated**, auf der die Benutzer und ihre neuen Lizenzen aufgeführt sind.
 
 **Hinweis:**   Einige Microsoft-Produkte sind an bestimmten Standorten unter Umständen nicht verfügbar. Wieder andere Produkte sind abhängig von anderen Produkten oder Diensten oder können dem gleichen Benutzer nicht zusammen zugewiesen werden. Nach dem Speichern werden auf der Bestätigungsseite die Ergebnisse der erfolgreichen Lizenzzuweisung für alle Benutzer sowie fehlerhafte Lizenzzuweisungen angezeigt.
 
@@ -96,7 +96,7 @@ Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und ze
 
 6. Deaktivieren Sie unter **Assign and revoke licenses** die Kontrollkästchen für den Benutzern zugewiesene Produkte. Beispiel: Wenn alle ausgewählten Benutzer Office 365 Enterprise-Lizenzen besitzen und Sie diese widerrufen möchten, deaktivieren Sie das Kontrollkästchen.
 
-7. Wählen Sie **Speichern**.
+7. Wählen Sie **Speichern** aus.
 
 ## <a name="related-topics"></a>Verwandte Themen
 

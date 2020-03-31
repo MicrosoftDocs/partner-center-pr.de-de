@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Es ist wichtig, dass Sie sich mit den verschiedenen Arten von Risiken befassen, die bei Online Transaktionen und bewährten Methoden für die Verwaltung und Minimierung dieser Risiken entstehen.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: Betrug, Missbrauch, akzeptable Nutzung, Nutzungsrichtlinie, Nichtzahlung, Kunde bezahlt die Rechnung nicht, Onlinerisiko, Diebstahl von Diensten, Dienstmissbrauch, Abonnements aussetzen
-author: MaggiePucciEvans
-ms.author: evansma
+keywords: Betrug, Missbrauch, akzeptable Nutzung, akzeptable Nutzungsrichtlinien, Nichtzahlung, Zahlung durch den Kunden, Onlinerisiko, Diebstahl von Diensten, Dienstmissbrauch, Anhalten eines Abonnements,
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 105ae9e31400284148bd7639c6a4498d5b5f5f1c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 6f92976f6aabc0296abb52ef6ec6dc7bd8ee4599
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005079"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390809"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Verwalten von Nichtzahlung, Betrug oder Missbrauch im Partner Center
 
-Betrifft
+Betrifft:
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
@@ -48,11 +48,11 @@ Wenn Microsoft Partner-oder Kunden Aktivitäten erkennt, die wir bestätigen ode
 Beispiele für diese Verstöße gegen die Acceptable Use Policy von Microsoft können Folgendes umfassen:
 
 - Spamming
-- Hacken
+- Hacking
 - Verteilte Denial-of-Service-Angriffe (DDoS)
 - Bitcoin-Mining
-- Verteilung von Schadsoftware
-- Weiterverkauf unrechtmäßig erworbener Abonnements
+- Malwareverteilung
+- Weiterverkauf illegal erworbener Abonnements
 
 ## <a name="theft-of-service-risks"></a>Diebstahl von Dienst Risiken
 
@@ -101,4 +101,4 @@ Vorschläge zur Verwaltung der Kundenabrechnung nach dem Kauf:
 - Akzeptieren Sie keine risikoreichen Zahlungsinstrumente (z. b. vorab bezahlte Karten oder gespeicherte Wertkarten).
 - Überwachen von Kunden Zahlungen und Abrechnungen von Konten. Erzwingen Sie eine aggressive Durchsetzung standardisierter Prozesse für späte Zahlungen oder eine Nichtzahlung.
 
-Detailliertere Strategien zur Minderung des Onlinerisikos finden Sie in der [Anleitung zur Verwaltung von Onlinetransaktionsrisiken](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip).
+Detailliertere Strategien zur Minderung des Onlinerisikos finden Sie im der [Anleitung zur Verwaltung von Onlinetransaktionsrisiken](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip).

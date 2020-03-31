@@ -5,16 +5,16 @@ ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Qualifizieren Sie sich für exklusive Vorteile, indem Sie Ihre MPN-Mitgliedschaft auf eine Microsoft Action Pack-Abonnement Mitgliedschaft oder auf Microsoft-Kompetenzen aktualisieren.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 7cc8d2023544d510dcf8cd51f89c79d427a849d1
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: 13c2cc9b9365caa38c1da10b0c6dbba48d435397
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226147"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390509"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Aktualisieren der Microsoft Partner Network-Mitgliedschaft
 
@@ -24,7 +24,7 @@ ms.locfileid: "80226147"
 
 Das Microsoft-Partnerprogramm bietet die folgenden drei Mitgliedschafts Optionen mit inkrementellen Vorteilen und Marketingressourcen, angeboten und Programmen, mit denen Sie Ihre geschäftlichen Ziele erreichen können.
 
-- **Netzwerkmitgliedschaft.** Die Kern Mitgliedschafts Ebene, die auf Einstiegsebene Marketingressourcen für Schulungs-, Support-und Kunden Verbindungen bietet. Sie müssen Netzwerkmitglied sein, um Ihre Mitgliedschaft zu aktualisieren.
+- **Netzwerkmitgliedschaft.** Die Kern Mitgliedschafts Ebene, die auf Einstiegsebene Marketingressourcen für Schulungs-, Support-und Kunden Verbindungen bietet. Sie müssen ein Netzwerkmitglied sein, um Ihre Mitgliedschaft zu aktualisieren.
 
 - **Microsoft Action Pack-Abonnement-Mitgliedschaft.** Ein kostengünstiges Jahresabonnement für kleine und mittelständische Partnerunternehmen. Beinhaltet die Marketingressourcen auf der Einstiegsebene, die mit der grundlegenden Netzwerk Mitgliedschaft und anderen Marketing angeboten und Programmen ausgestattet sind, wie z. b. Zuordnungen interner Rechte Dienst Abonnements, Softwarelizenzen und Support.
 
@@ -38,7 +38,7 @@ Nachdem Sie dem Microsoft Partner Network beigetreten sind, können Sie Ihre Mit
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Kauf eines Microsoft Action Pack-Abonnements
 
-Action Pack ist ein kostengünstiges Jahresabonnement für Dienste, Software und Support für Unternehmen, die in einer Welt, in der mobile Geräte und Clouddienste zunehmend an Bedeutung gewinnen, ihr Microsoft-Geschäft ausbauen möchten. Abonnieren Sie Action Pack, um:
+Action Pack ist ein kostengünstiges jährliches Abonnement für Dienste, Software und Support für Unternehmen, die in einer Welt, in der mobile Geräte und Clouddienste zunehmend an Bedeutung gewinnen, ihr Microsoft-Geschäft ausbauen möchten. Abonnieren Sie Action Pack, um:
 
 - erstklassige Entwicklertools zum Erstellen von Anwendungen und Lösungen für Ihre Kunden unter iOS, Android, Linux und Windows zu verwenden. 
 
@@ -56,70 +56,70 @@ Weitere Informationen zum Microsoft Action Pack finden Sie unter [https://partne
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>Abonnieren von Microsoft Action Pack
 
-1. Wählen Sie **Partnerschaft > Angebote** im Menü **Partner Center** aus. Microsoft Action Pack ist unter **Verfügbare Angebote** aufgeführt. Klicken Sie auf **Jetzt abonnieren**. 
+1. Wählen Sie **Partnerschaft > Angebote** im Menü **Partner Center** aus. Microsoft Action Pack ist unter **Verfügbare Angebote** aufgeführt. Wählen Sie **Subscribe now**. 
 
-2. Klicken Sie auf **Weiter**, um die [Geschäftsbedingungen](https://go.microsoft.com/fwlink/?linkid=842232) für interne Nutzungsrechte zu akzeptieren, die vom Microsoft Partner Network gewährt werden.  
+2. Wählen Sie **Weiter**, um die [Bestimmungen](https://go.microsoft.com/fwlink/?linkid=842232) für interne Nutzungsrechte zu akzeptieren, die durch Microsoft Partner Network gewährt werden.  
 
-3. Klicken Sie auf **Weiter**, um Zahlungsdetails hinzuzufügen. 
+3. Wählen Sie **Weiter**, um Zahlungsdetails hinzuzufügen. 
 
 4. Wählen Sie **Get started! Add a way to pay**, wenn Sie Zahlungsdetails eingeben müssen.
 
-5. Geben Sie Ihre Zahlungsdetails ein, und klicken Sie dann auf **Weiter**.
+5. Geben Sie Ihre Zahlungsdetails ein, und wählen Sie dann **Weiter**.
 
 6. Überprüfen Sie Ihre Bestelldetails, und wählen Sie dann **kaufen** aus, wenn Sie bereit sind, Action Pack zu erwerben. Ihre Kreditkarte wird sofort belastet.
 
-7. Ihre Bestellung wird bestätigt. Wählen Sie **Schließen** aus.
+7. Ihre Bestellung ist bestätigt. Wählen Sie **Schließen**.
 
-Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlängert. Sie können die automatische Verlängerung jederzeit in der Liste der erworbenen Angebote deaktivieren. Allerdings ist es nicht möglich, die automatische Abonnementverlängerung wieder zu aktivieren, bis Sie erneut Ihr Abonnement verlängern. 
+Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Tag verlängert. Sie können die automatische Verlängerung jederzeit in der Liste der erworbenen Angebote deaktivieren. Allerdings ist es nicht möglich, die automatische Abonnementverlängerung wieder zu aktivieren, bis Sie erneut Ihr Abonnement verlängern. 
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Deaktivieren der automatischen Verlängerung des Action Pack-Abonnements
 
-1. Wählen Sie **Partnerschaft > Angebote** im Menü **Partner Center** aus. Microsoft Action Pack ist unter **Erworbene Angebote** aufgeführt.
+1. Wählen Sie **Partnerschaft > Angebote** im Menü **Partner Center** aus. Microsoft Action Pack ist unter **Purchased offers** aufgeführt.
 
-2. Wählen Sie **Microsoft Action Pack-Abonnement** aus, um die Abonnementdetails einzusehen. 
+2. Wählen Sie **Microsoft Action Pack-Abonnement** aus, um die Abonnementdetails anzusehen. 
 
-3. Aktivieren Sie **Automatische Verlängerung deaktivieren**, wenn Sie nicht möchten, dass Ihr Action Pack-Abonnement automatisch jährlich verlängert wird. 
+3. Wählen Sie **Automatische Verlängerung deaktivieren** aus, wenn Sie nicht möchten, dass Ihr Action Pack-Abonnement automatisch jährlich verlängert wird. 
 
 > [!NOTE]  
 > Wenn du die automatische Abonnementverlängerung deaktivierst, kannst du sie erst wieder aktivieren, wenn du das Abonnement erneut verlängerst. Wir erinnern dich vor Ablauf deines Abonnements an die Verlängerung.
 
 
-### <a name="renew-your-action-pack-subscription"></a>Verlängern Ihres Action Pack-Abonnements
+### <a name="renew-your-action-pack-subscription"></a>Action Pack-Abonnement verlängern
 
-1. Wählen Sie **Partnerschaft > Angebote** im Menü **Partner Center** aus. Microsoft Action Pack ist unter **Erworbene Angebote** aufgeführt.
+1. Wählen Sie **Partnerschaft > Angebote** im Menü **Partner Center** aus. Microsoft Action Pack ist unter **Purchased offers** aufgeführt.
 
-2. Wählen Sie **Microsoft Action Pack-Abonnement** zum Anzeigen der Abonnementdetails und dann **Abonnements verlängern**  unter **Aktionen** aus.  
+2. Wählen Sie **Microsoft Action Pack-Abonnement** zum Anzeigen der Abonnementdetails, und wählen Sie dann **Renew subscriptions** unter **Aktionen**.  
 
-3. Überprüfen Sie Ihre Bestellungsdetails, und klicken Sie dann auf **Weiter**.
+3. Überprüfen Sie Ihre Auftragsdetails, und wählen Sie dann **Weiter**.
 
-4. Klicken Sie auf **Weiter**, um die Geschäftsbedingungen für interne Nutzungsrechte zu akzeptieren, die vom Microsoft Partner Network gewährt werden.  
+4. Wählen Sie **Weiter**, um die Bestimmungen für die interne Nutzung zu akzeptieren, die durch Microsoft Partner Network gewährt wird.  
 
-5. Klicken Sie auf **Weiter**, um Zahlungsdetails hinzuzufügen. 
+5. Wählen Sie **Weiter**, um Zahlungsdetails hinzuzufügen. 
 
 6. Wählen Sie **Get started! Add a way to pay**, wenn Sie Zahlungsdetails eingeben müssen. 
 
-7. Geben Sie Ihre Zahlungsdetails ein, und klicken Sie dann auf **Weiter**.
+7. Geben Sie Ihre Zahlungsdetails ein, und wählen Sie dann **Weiter**.
 
 8. Überprüfen Sie Ihre Bestelldetails, und wählen Sie dann **kaufen** aus, wenn Sie bereit sind, Action Pack zu erwerben. Ihre Kreditkarte wird sofort belastet.
 
-9. Ihre Bestellung wird bestätigt. Wählen Sie **Schließen** aus.
+9. Ihre Bestellung ist bestätigt. Wählen Sie **Schließen**.
 
-    Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlängert. Sie können die automatische Verlängerung jederzeit in der Liste der erworbenen Angebote deaktivieren. Allerdings ist es nicht möglich, die automatische Abonnementverlängerung wieder zu aktivieren, bis Sie erneut Ihr Abonnement verlängern. 
+    Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Tag verlängert. Sie können die automatische Verlängerung jederzeit in der Liste der erworbenen Angebote deaktivieren. Allerdings ist es nicht möglich, die automatische Abonnementverlängerung wieder zu aktivieren, bis Sie erneut Ihr Abonnement verlängern. 
 
 
-### <a name="cancel-your-action-pack-subscription"></a>Kündigen Ihres Action Pack-Abonnements
+### <a name="cancel-your-action-pack-subscription"></a>Action Pack-Abonnement kündigen
 
 Wenn Sie Ihr Microsoft Action Pack-Abonnement kündigen möchten, müssen Sie sich an den Partner Center-Support wenden.
 
 1. Wechseln Sie zu https://partnercenter.microsoft.com/partner/support.
 
-2. Wählen Sie **Probleme mit dem Partner Center melden** und dann auf der nächsten Seite **Neue Anfrage** aus.
+2. Wählen Sie **Probleme mit dem Partner Center melden** und dann **Neue Anfrage** auf der nächsten Seite aus.
 
-3. Erweitern Sie die Liste **Problemtyp**, und wählen Sie **Hilfe bei Partnerrechnung, Zahlung oder Kontenabstimmungsdatei** aus. 
+3. Erweitern Sie die Liste **Problemtyp**, und wählen Sie **Help with partner invoice, payment, or reconciliation file**. 
 
-4. Geben Sie die erforderlichen Informationen ein, und wählen Sie **Senden** aus. Das Partner Center-Supportteam wird Sie kontaktieren, um Sie beim Kündigen Ihres Abonnements zu unterstützen.
+4. Geben Sie die erforderlichen Informationen ein, und wählen Sie dann **Übermitteln**. Das Partner Center-Support-Team wird Sie kontaktieren, um Sie beim Kündigen Ihres Abonnements zu unterstützen.
 
-    Um den Status Ihrer Serviceanfrage zu überprüfen, wählen Sie **Serviceanfragen > Partner Center-Anfragen** und dann **Öffnen** aus. Wählen Sie die entsprechende Serviceanfrage in der Liste aus.  
+    Um den Status Ihrer Serviceanfrage zu überprüfen, wählen Sie **Serviceanfragen > Partner Center-Anfragen** und dann **Öffnen**. Wählen Sie die entsprechende Serviceanfrage aus der Liste aus.  
 
  
 ### <a name="next-steps"></a>Nächste Schritte

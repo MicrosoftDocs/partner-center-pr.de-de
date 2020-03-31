@@ -6,19 +6,19 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Kundendaten Sätze gehören zu den wichtigsten Informationsressourcen. Erfahren Sie, wie Sie Informationen in der Kundenliste anzeigen, durchsuchen, aktualisieren und exportieren.
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: a5d6196aee964ad2b03a18699388f8f398169f14
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 02e25ae609c635b21d4345c9567a44c119a70253
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943433"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390659"
 ---
 # <a name="manage-your-customer-list"></a>Verwalten der Kundenliste
 
-**Zielgruppe**
+**Gilt für:**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -35,13 +35,13 @@ Darüber hinaus enthalten die Aktivitätsprotokolle exportierbare Daten zu Trans
 2.  Um nach einem Kunden zu suchen, geben Sie den Kundennamen oder den Domänennamen in das Suchfeld ein.
 3.  Wählen Sie den **Pfeil nach unten** am Ende einer Kundenzeile aus, um die Microsoft-ID des Kunden sowie die verknüpften Abonnements und Quicklinks zu Diensten anzuzeigen.
 
-## <a name="update-a-customers-company-name"></a>Aktualisieren des Firmennamen eines Kunden
+## <a name="update-a-customers-company-name"></a>Firmennamen von Kunden aktualisieren
 
 Wählen Sie **Kunden** im Menü **Partner Center** aus.
 2.  Um nach einem Kunden zu suchen, geben Sie den Kundennamen oder den Domänennamen in das Suchfeld ein.
 3.  Wählen Sie den **Pfeil nach unten** am Ende einer Kundenzeile aus, um die Microsoft-ID des Kunden sowie die verknüpften Abonnements und Quicklinks zu Diensten anzuzeigen.
 4.  Aktualisieren Sie in den Daten zum **Rechnungsempfänger** den Unternehmensnamen. Wenn Sie den neuen Wert speichern, wird er in die Kundenliste aufgenommen. Dadurch werden nur der Firmenname für die Rechnungsadresse und der Wert in der Kundenliste geändert. Anderswo werden die Änderungen nicht wiedergegeben.
-
+<sup>1</sup>
 ## <a name="export-your-customer-list"></a>Exportieren der Kundenliste
 
 1.  Wählen Sie **Kunden** im Menü **Partner Center** aus.
@@ -57,7 +57,7 @@ Wählen Sie **Kunden** im Menü **Partner Center** aus.
     Standardmäßig exportiert Partner Center die gesamte Kundenliste, unabhängig von der Länge. Sie können die Kundenliste auch nach dem Namen des Unternehmens oder der Domäne auflisten und diese Teilmenge von Daten exportieren.
 
 3.  Wenn Sie indirekter Anbieter sind, können Sie die Kundenliste nach indirekten Händlern filtern. Wählen Sie die Liste **Nach indirekten Händlern filtern** aus, und wählen Sie einen Händler aus.
-
+<sup>1</sup>
 
 ## <a name="export-customer-subscription-information"></a>Exportieren von Informationen zum Kundenabonnement
 

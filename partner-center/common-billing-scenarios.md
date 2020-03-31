@@ -6,20 +6,20 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Untersuchen Sie die Abrechnung, nachdem Sie neue Abonnements hinzugefügt, die Lizenz Menge angepasst oder ein Abonnement gekündigt haben. Sehen Sie sich an, wie sich nutzungsbasierte und Lizenz basierte Abonnements unterscheiden.
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: Abrechnung, Zahlungen, Bestellungen, Nutzung, lizenzbasierte Abrechnung, Abonnementdatum, Laufzeit, Kündigung, Verlängerung, Kontenabstimmungsdatei, Abstimmungsdatei
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c7a24d0d33aa071ce4edba5cf579f6a6371af3d
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 2b8cfe28b6d81a2ff91543ed2d7005f72007b553
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722021"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390049"
 ---
 # <a name="common-billing-scenarios"></a>Allgemeine Abrechnungsszenarien
 
-Betrifft
+Betrifft:
 
 - Abrechnungsprogramm für cloudlösungsanbieter (CSP)
 

@@ -6,20 +6,20 @@ description: Ihre Rechnung ist eine Zusammenfassung aller Gebühren für Partner
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Abonnementabrechnungen, Abrechnung, Abrechnung im Partner Center, Partner Center-Abrechnung, meine Rechnung lesen, Rechnung, Rechnung für Partner Center, CSP-Abrechnung, wo ist meine Rechnung?
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4c8ad1e0f12586ed1e75670806c463ca9cee54
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 7e5171a44ba8f23955847f6450e59b948f3c7d52
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004829"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390709"
 ---
 # <a name="read-your-bill"></a>Informationen zu Ihrer Rechnung
 
-**Zielgruppe**
+**Gilt für:**
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
@@ -29,7 +29,7 @@ ms.locfileid: "75004829"
 -   Benutzeradministrator
 -   Abrechnungsadministrator
 -   Administratoragent
--   MPN-Partneradministrator
+-   Administrator für MPN-Partner
 
 Ihre **Rechnung** ist eine **Zusammenfassung all ihrer Partner Center-Gebühren** (Programm übergreifend, alle Produkte und alle Kunden) für den **aktuellen Abrechnungszeitraum**.
 
@@ -43,7 +43,7 @@ Sie erhalten eine separate Rechnung für einmalige Gebühren (z. b. reservierte 
 
 Eine ausführliche Beschreibung aller Felder in der Rechnungs Datei (einschließlich der Felder für einmalige Gebühren) finden Sie unter [Rechnungs Datei Felder](invoice-file.md).
 
-## <a name="find-your-bill"></a>Finden Sie Ihre Rechnung
+## <a name="find-your-bill"></a>Auffinden Ihrer Rechnung
 
 Sie finden Ihre Rechnung auf der Seite **Abrechnung** des Dashboards im Partner Center. Sie können auf dieser Seite auch ihren Abrechnungs Verlauf, Ausgaben Trends und Abstimmungs Dateien finden.
 

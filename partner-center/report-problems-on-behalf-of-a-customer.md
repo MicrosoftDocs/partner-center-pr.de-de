@@ -6,20 +6,20 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Wenn Ihr Kunde ein Dienst Problem hat, das Sie nicht beheben können, und das die unter eskalieren von Problemen an Microsoft beschriebenen Kriterien erfüllt, müssen Sie ein Support Ticket für Sie einreichen.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: Serviceanfrage, Serviceticket, Support, Supportanspruch, AOBO, Azure-AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 28f5be859d8c949eb0135f3096c320cc160b835a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 6076f80821b476549cd264f9d569e9f46201c394
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943213"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390689"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Melden von Problemen im Auftrag eines Kunden
 
-**Zielgruppe**
+**Gilt für:**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -60,7 +60,7 @@ In beiden Fällen können Sie das folgende Verfahren zum Erstellen einer Support
 
 1. Kopieren Sie den Domänen Namen des Kunden von der Kontoseite im Partner Center.
 
-2. Wechseln Sie zu https://portal.azure.com/ [customerdomainname]. 
+2. Wechseln Sie zu https://portal.azure.com/[customerdomainname]. 
 
 3. Wählen Sie das Azure-Abonnement aus, für das Support benötigt wird.
 

@@ -6,17 +6,17 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie indirekte Vertriebspartner im CSP-Programm mit indirekten Microsoft-Anbietern (oder Händlern) zusammenarbeiten können, die beim Kundensupport und bei der Abrechnung helfen können.
 ms.prod: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Indirekte Vertriebspartner, Händler, indirekte Anbieter, Anbieter, Partnerschaft, VAR, Ebene2, Ebene 2
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 66334277c0169b66243ae3c6da4bd09a346ff022
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ff486a7d6f23ce13fddfcccb29ce4389ca44d3cb
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004799"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390919"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Anbietern im Programm für Cloud-Lösungsanbieter
 

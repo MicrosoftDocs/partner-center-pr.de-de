@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: In diesem Artikel finden Sie Links zu Programmleitfäden, Partnervereinbarungen, Kundenverträgen, Preislisten und Angeboten für Cloud Solution Provider.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote
 ms.localizationpriority: high
-ms.openlocfilehash: 6a22599a986fed7e67b15a279ae8a2ddba598cec
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.openlocfilehash: 8df1879901d44e6c74058dd45d99d00dab2f4bb2
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "77012108"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390009"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Programmleitfaden, Vereinbarungen, Preislisten und Angebote zu Cloud Solution Provider
 
@@ -51,7 +51,7 @@ Wähle diese [URL](https://aka.ms/customeragreement) aus, um die neueste Version
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Berufsgeheimnisträger Zusatzvereinbarung für den Microsoft Cloud-Vertrag (Deutschland)
 
-In Deutschland verlangen das Strafgesetzbuch (§ 203) und die berufsrechtlichen Verhaltenkodizes die Geheimhaltung bestimmter Kundenbeziehungen. Dazu zählen beispielsweise das Verhältnis zwischen Patienten und ihren behandelnden Ärzten und das Verhältnis zwischen Anwälten und ihren Mandanten. Diese Berufsgruppen haben das Berufsgeheimnis zu wahren. Damit diese und andere Berufsgruppen cloudbasierte Dienste von Cloudlösungsanbietern (Cloud Solution Providers, CSPs) beziehen können, muss der Clouddienstanbieter mit dem Kunden eine schriftliche Vereinbarung schließen, in der die Wahrung des Berufsgeheimnisses gewährleistet wird.
+In Deutschland verlangen das Strafgesetzbuch (§ 203) und die berufsrechtlichen Verhaltenkodizes die Geheimhaltung bestimmter Kundenbeziehungen. Dazu zählen beispielsweise das Verhältnis zwischen Patienten und ihren behandelnden Ärzten und das Verhältnis zwischen Anwälten und ihren Mandanten. Diese Berufsgruppen haben das Berufsgeheimnis zu wahren. Damit diese und andere Berufsgruppen cloudbasierte Dienste von Cloudlösungsanbietern (Cloud Solution Providers, CSPs) beziehen können, muss der Clouddienstanbieter mit dem Kunden eine zusätzliche Vereinbarung in Textform beifügen, in der die Wahrung des Berufsgeheimnisses gewährleistet wird.
 
 Wenn Sie in Deutschland Geschäfte tätigen, müssen Sie Ihren Kunden dort möglicherweise diese Ergänzung des Berufsgeheimnisses zusätzlich zum Microsoft Cloud-Vertrag vorlegen.
 

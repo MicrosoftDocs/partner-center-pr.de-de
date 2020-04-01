@@ -5,17 +5,17 @@ ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Hier erfährst du mehr über die Vorteile einer Partnerschaft mit Microsoft einschließlich Microsoft Action Pack, Kompetenzen und Programmoptionen, mit denen du einen Wettbewerbsvorteil erzielen, Produkte auf den Markt bringen und Lösungen verkaufen kannst.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Partner, Partnerschaft, MPN, Microsoft Partner Network Action Pack, MAPS, Aktion Pack-Abonnement, Vorteile, MPN-Vorteile, Mitgliedschaft, Silver, Gold, Kompetenzen
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: e1d54af9ab156c94c1b9376e5e7de71a0e9d010a
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ef6ef1aacfc02205f0c2eab9d3a084b5d4d51b13
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004199"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390859"
 ---
 # <a name="partner-with-microsoft"></a>Partner von Microsoft
 
@@ -41,7 +41,7 @@ Weitere Informationen zum Microsoft Partner Network (MPN) finden Sie auf der [MP
 
 ### <a name="how-to-join"></a>Vorgehensweise zum Beitreten
 
-Wenn Sie dem Microsoft Partner Network beitreten möchten, wechseln Sie zur Seite [ **Mitgliedschaft** ](https://partner.microsoft.com/membership) auf der MPN-Website, und wählen Sie **Registrieren** oder **Jetzt Mitglied werden** aus.
+Wenn Sie dem Microsoft Partner Network beitreten möchten, wechseln Sie zur Seite [**Mitgliedschaft**](https://partner.microsoft.com/membership) auf der MPN-Website, und wählen Sie **Registrieren** oder **Jetzt Mitglied werden** aus.
 
 ## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>Lassen Sie die Microsoft Partner Network-Mitgliedschaft für sich arbeiten
 

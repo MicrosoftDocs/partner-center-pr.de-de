@@ -5,17 +5,17 @@ ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Partner im CSP-Programm Partner Center verwenden können, um reservierte Azure-Instanzen und Serverabonnements für Kunden zu erwerben, zu verwalten, zu verkaufen und zu stornieren.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Azure RI, Windows Server, SQL Server, Softwareabonnements, Stornieren von Software
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 1a68ec75b77f927ce162b7f5f19e3a96ca0e6f43
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 7cce25d5f16f5bd0f55169cdc9d516a69717d31a
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78339998"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389989"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Verkaufen von Softwareabonnements über CSP
 
@@ -25,7 +25,7 @@ ms.locfileid: "78339998"
 
 **Geeignete Rollen**
 
-- Administrator-Agent
+- Administratoragent
 - Globaler Administrator
 
 Durch Azure-Reservierungen und Serverabonnements können Partner im CSP-Programm die schnell wachsende Kundennachfrage nach kostengünstigeren Lösungen zur Unterstützung höchst vorhersehbarer, persistenter Cloudworkloads erfüllen. 
@@ -48,7 +48,7 @@ Der Azure-Hybridvorteil hilft Ihnen, mehr Nutzen aus Ihren Windows Server-Lizenz
 > | Antarktis     | Guernsey     | Saint Barthélemy   |
 > | Antigua und Barbuda       | Guinea     | St. Lucia   |
 > | Aruba       | Guinea-Bissau     | Saint Martin   |
-> | Aserbaidschan       | Guyana     | St. Pierre und Miquelon   |
+> | Aserbeidschan       | Guyana     | St. Pierre und Miquelon   |
 > | Benin     | Haiti       | St. Vincent und die Grenadinen     |
 > | Bhutan     | Heard und McDonaldinseln       | Samoa     |
 > | Bonaire     | Isle of Man     | San Marino     |
@@ -85,7 +85,7 @@ Der Azure-Hybridvorteil hilft Ihnen, mehr Nutzen aus Ihren Windows Server-Lizenz
 
 So kaufen Sie Softwareabonnements im Auftrag von Kunden:
 
-1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
 2. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 
@@ -98,7 +98,7 @@ Nachdem Sie das Softwareabonnement erworben haben, führen Sie die folgenden Sch
 >[!NOTE]
 >Sie müssen ein Administrator-Agent sein, um Software herunterladen und Aktivierungsschlüssel abrufen zu können.
 
-1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
 2. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 
@@ -122,7 +122,7 @@ Zu Überprüfungs- oder Konformitätszwecken müssen Sie möglicherweise eine Li
 >[!NOTE]
 >Sie müssen ein globaler Administrator, Kontoadministrator, Empfehlungsadministrator oder Administrator für Marketinginhalte sein, um diese Aktivitätsprotokolle einsehen zu können. 
 
-1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
 2. Wählen Sie das Zahnrad Symbol in der oberen rechten Ecke aus.
 

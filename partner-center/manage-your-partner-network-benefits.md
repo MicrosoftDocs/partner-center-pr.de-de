@@ -5,16 +5,16 @@ ms.date: 03/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Durch den Beitritt zum Microsoft Partner Network (MPN) kannst du deine Mitgliedschaftsvorteile verwalten, um dein Geschäft aufzubauen und zu erweitern.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: MPN, Mitgliedschaftsvorteile, Mitgliedschaft
 ms.localizationpriority: high
-ms.openlocfilehash: e7ec97485467d997e770337fa249065d87e6838f
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: e979fff3ccf676208b58f088fe71a66e1095678d
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226086"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390889"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten Ihrer Microsoft Partner Network-Mitgliedschaftsvorteile
 
@@ -25,7 +25,7 @@ ms.locfileid: "80226086"
 **Geeignete Rollen**
 -    Globaler Administrator
 -    Benutzeradministrator
--    Administrator-Agent
+-    Administratoragent
 -    MPN-Partneradministrator
 
 >[!IMPORTANT]
@@ -53,7 +53,7 @@ Wenn Sie alle Ihre Mitgliedschaftsvorteile anzeigen und verwalten möchten, navi
 
 3. Gehen Sie jedes gewünschte Softwareprodukt folgendermaßen vor:
 
-    ein. Wählen Sie **Schlüssel abrufen** aus, um die Produktlizenzschlüssel anzuzeigen. Beachten Sie ggf. die aufgeführten Anweisungen.
+    a. Wählen Sie **Schlüssel abrufen** aus, um die Produktlizenzschlüssel anzuzeigen. Beachten Sie ggf. die aufgeführten Anweisungen.
 
     b. Wählen Sie die Sprache aus, in der das Produkt angezeigt werden soll.
 
@@ -99,7 +99,7 @@ Wenn Sie alle Ihre Mitgliedschaftsvorteile anzeigen und verwalten möchten, navi
 
 3. Weisen Sie den Supportvorteil einem Benutzer zu, um ihn zu aktivieren. 
    
-    ein.  Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen**[neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
+    a.  Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen**[neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
 
     b.  Geben Sie für den Benutzer eine E-Mail-Adresse ein, die sich von der E-Mail-Adresse unterscheidet, die dem Partner Center-Konto Ihres Unternehmens zugeordnet ist. 
     
@@ -125,7 +125,7 @@ Wenn Sie alle Ihre Mitgliedschaftsvorteile anzeigen und verwalten möchten, navi
 
 3. Um Informationen zu Ihrem Marketingkontakt hinzuzufügen oder zu aktualisieren, wählen Sie oben auf der Seite „Markteinführung“ **Hinzufügen**, **Aktualisieren** oder **Ändern** aus. Führen Sie als Nächstes folgende Schritte aus:  
    
-    ein.  Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen**[neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
+    a.  Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen**[neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
 
     b.  Geben Sie für den Benutzer eine E-Mail-Adresse ein, die sich von der E-Mail-Adresse unterscheidet, die dem Partner Center-Konto Ihres Unternehmens zugeordnet ist. 
     
@@ -146,7 +146,7 @@ Wenn Sie alle Ihre Mitgliedschaftsvorteile anzeigen und verwalten möchten, navi
 Wenn Sie einen Vorteil oder ein Angebot stornieren und eine Rückerstattung erhalten möchten, müssen Sie den Antrag innerhalb von 30 Tagen nach dem Kauf stellen. Darüber hinaus dürfen die Softwarevorteile nicht aktiviert sein. Fordern Sie den Abbruch über eine Serviceanfrage an.
 
 
-#### <a name="see-also"></a>Siehe auch
+#### <a name="see-also"></a>Weitere Informationen
 
 [Hinzufügen von Benutzern und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
 

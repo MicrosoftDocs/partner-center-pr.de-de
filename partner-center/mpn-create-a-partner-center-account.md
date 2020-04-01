@@ -5,26 +5,26 @@ ms.date: 02/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Mitglieder im Microsoft Partner Network müssen ein Partner Center-Konto erstellen, um ihre Netzwerkvorteile und Kompetenzen verwalten und ein Geschäftsprofil erstellen zu können.
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: high
-ms.openlocfilehash: 6e9a2adf925ae8fc9fca81be4bd87cf3064d18b6
-ms.sourcegitcommit: b706969f19a6d4ba1d9d9b8408abdd90591d81bd
+ms.openlocfilehash: 0b36ccb8b1cfea7945841d3539d7aef792a14304
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "77069696"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390869"
 ---
 # <a name="create-a-partner-center-account"></a>Erstellen eines Partner Center-Kontos
 
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Administrator-Agent
+- Administratoragent
 
 Damit Sie ein Konto in Partner Center erstellen oder sich für ein Partnerprogramm registrieren können, muss Ihr Unternehmen Mitglied im Microsoft Partner Network sein. Falls Sie noch kein Mitglied des Netzwerks sind, können Sie [jetzt beitreten](https://partner.microsoft.com/commercial#). Nachdem Sie ein Partner Center-Konto erstellt haben, schauen Sie sich dieses kurze Video an: [Entdecken Ihres Dashboards](https://vimeo.com/290338211).
 
-## <a name="before-you-begin"></a>Vorbereitung
+## <a name="before-you-begin"></a>Vorbemerkungen
 
 Zum Erstellen eines Kontos in Partner Center müssen Sie die folgenden Informationen zur Hand haben. Es empfiehlt sich unter Umständen, vor Beginn des Vorgangs folgende Angaben zu sammeln:
 
@@ -61,7 +61,7 @@ Wir überprüfen diese Informationen im Rahmen des Kontoerstellungsprozesses.
 
 5.  Vergewissern Sie sich, dass Sie der Administrator-Agent-Gruppe hinzugefügt wurden. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
 
-    ein. Wählen Sie im Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home**) das Symbol **Einstellungen** und anschließend **Benutzerverwaltung** aus.  
+    a. Wählen Sie im Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home**) das Symbol **Einstellungen** und anschließend **Benutzerverwaltung** aus.  
 
     b. Wähle deinen Namen aus der Benutzerliste und dann **Administrator-Agent** aus, sofern diese Option nicht bereits ausgewählt ist. Wählen Sie **Aktualisieren** aus.  
 

@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie Sie im Partner Center Benutzerkonten erstellen und Rollen für jeden Mitarbeiter zuweisen, der Zugriff benötigt. Benutzer mit unterschiedlichen Administratorrechten können dies erledigen.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: Rollen, Berechtigungen, Benutzer hinzufügen, Rolle zuweisen, Administrator, Agent
 ms.localizationpriority: high
-ms.openlocfilehash: 6bbae5b8bcd2882c7ba32a8b660fc256dec4e49a
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: 98dce89c0eab132ec0f247d25632617d8dd503cc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240207"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389649"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen
 
@@ -28,7 +28,7 @@ ms.locfileid: "78240207"
 Erstellen Sie Benutzerkonten für Mitarbeiter, die Zugriff auf das Partner Center benötigen. Diese Aufgaben müssen von einem Administrator für die Benutzerverwaltung, Kontoadministrator oder vom globalen Administrator durchgeführt werden. Dem Benutzer, der diese Aufgaben ausführt, müssen auch die AAD-Rollen (Azure Active Directory) „Benutzeradministrator“ und „Globaler Administrator“ zugewiesen werden. Weitere Informationen zu AAD-Rollen findest du unter [Berechtigungen für Administratorrollen in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 
 
-## <a name="add-a-new-user"></a>Neuen Benutzer hinzufügen
+## <a name="add-a-new-user"></a>Hinzufügen eines neuen Benutzers
 
 1. Klicken Sie im Partner Center rechts oben auf das Symbol **Einstellungen** und dann auf **Benutzerverwaltung**.
 
@@ -43,15 +43,24 @@ Erstellen Sie Benutzerkonten für Mitarbeiter, die Zugriff auf das Partner Cente
 > [!IMPORTANT]  
 > Notieren Sie sich die Anmeldeinformationen des neuen Benutzers, die auf dieser Seite angezeigt werden. Achten Sie darauf, diese Informationen zu kopieren und an den neuen Benutzer zu senden, da Sie später nicht erneut darauf zugreifen können. 
 
+
 Der Benutzer muss sich bei Partner Center mit seinem Benutzernamen und einem temporären Kennwort anmelden. Wenn sich der Benutzer zum ersten Mal bei Partner Center anmeldet, wird er aufgefordert, sein Kennwort zu ändern. 
 
-> [!NOTE]  
->  Wenn der globale Administrator Ihr Unternehmen verlassen hat oder intern versetzt wurde und Sie einen neuen globalen Administrator hinzufügen müssen, müssen Sie im [MPN-Portal](https://partner.microsoft.com/support) eine Serviceanfrage stellen. Der Support-Mitarbeiter kann eine Heraufstufung eines Benutzers zum globalen Administrator beantragen, wenn der Antragsteller die benötigten persönlichen Identitätsinformationen sowie zusätzliche Informationen zu Ihrer Organisation bereitstellen kann.
 
 ### <a name="find-your-global-admin"></a>Finden des globalen Administrators
 
 Es kann vorkommen, dass ein Benutzer seine Rolle ändern lassen muss oder ein neuer Benutzer eine Zuweisung zu einer bestimmten Rolle wünscht.  
 Um einen globalen Administrator zu finden, der Rollenänderungen vornehmen oder einem neuen Benutzer Rollen zuweisen kann, klicken Sie rechts oben im Partner Center auf das Symbol **Einstellungen**, wählen Sie **Benutzerverwaltung** aus, und filtern Sie nach „Globaler Administrator“. 
+
+
+### <a name="new-global-admin"></a>Neuer globaler Administrator
+
+Wenn Ihr globaler Administrator aus dem Unternehmen ausscheidet und diese Aufgabe von jemand anderem übernommen wird, können Sie ein Ticket an das Azure-Team oder an das Office 365-Team senden. Wählen Sie eine der folgenden Optionen aus, um zu erfahren, wie Sie dazu vorgehen.
+
+[Neuer globaler Administrator für Azure](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
+
+[Neuer globaler Administrator für Office 365](https://admin.microsoft.com/)
+
 
 ## <a name="assign-user-roles"></a>Zuweisen von Benutzerrollen
 
@@ -66,7 +75,7 @@ Um im Partner Center arbeiten zu können, muss Ihnen eine Rolle zugewiesen sein.
 - Benutzeradministrator
 
 **CSP-Rollen**:
-- Administrator-Agent
+- Administratoragent
 - Abrechnungsadministrator
 - Vertriebsbeauftragter
 - Helpdesk-Agent
@@ -94,7 +103,6 @@ Damit Sie die Schulungs- und Lernpfade anzeigen können, die Ihre Benutzer für 
 1. Wähle im Partner Center-Dashboard das Symbol für **Dein Konto** in der rechten Ecke des Dashboards aus, und wähle dann **Mein Profil** aus.
 
 2. Unter **Dein Learning** kannst du dein Microsoft Learning-Konto zuordnen und auch dein Microsoft-Konto mit Partner University verbinden.
-
 
 
 

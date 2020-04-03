@@ -40,7 +40,6 @@
 ## [Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer](transition-direct-to-indirect.md)
 ## [CSP-Verträge, Preislisten und Angebote](csp-documents-and-learning-resources.md)
 ## [Regionale CSP-Märkte und Währungen](regional-authorization-overview.md)
-## [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag](confirm-consent.md)
 ## [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag](confirm-customer-agreement.md)
 ### [Wann muss die Zustimmung zur Kundenvereinbarung im Namen eines Kunden bestätigt werden?](attest-acceptance-customer-agreement.md)
 
@@ -65,12 +64,15 @@
 ## [Wiederherstellen ausgesetzter Partner Center-Konten](suspended-partner-center-account.md)
 ## [Hinzufügen einer Azure AD-Anwendung](service-principal.md)
 ## [Zuweisen Ihres Microsoft-Learn Kontos zu Partner Center](ms-learn-associate.md)
+
 # Verwalten des Partner Center-Kontos – Benutzer
 ## [Erstellen von Benutzerkonten](create-user-accounts-and-set-permissions.md)
 ## [Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md)
 ## [Registrierung als Control Panel Vendor](enroll-as-cpv.md)
 ## [Zurücksetzen eines Benutzerkennworts](reset-a-user-password.md)
 ## [Zurücksetzen meines Kennworts](reset-my-pasword.md)
+## [Wenn Sie sich nicht beim Partner Center anmelden können](unable-to-sign-in.md)
+
 # Verwalten des Partner Center-Kontos – Unternehmen
 ## [Hinzufügen von Azure Partner Shared Services](shared-services.md)
 ## [Preise und Angebote](pricing-and-offers.md)

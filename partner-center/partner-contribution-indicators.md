@@ -1,7 +1,7 @@
 ---
 title: Partnerbeitragsindikatoren | Partner Center
 ms.topic: article
-ms.date: 03/25/2020
+ms.date: 04/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Daten, die zeigen, wie dein Unternehmen in Bezug auf Dynamics 365 Customer Engagement oder Dynamics 365 Finance and Operations abschneidet.
@@ -11,16 +11,17 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6b100d4dbac6d311942f06ab895ce57f89921c42
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: 38afc73a347d2a356f4786abfe1f85bdb2289dd9
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296469"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676867"
 ---
 # <a name="partner-contribution-indicators"></a>Partnerbeitragsindikatoren
 
 Partner Beitrags Indikatoren (Partner Beitrags Indikatoren, PCI) bieten ein ganzheitliches Maß für die Auswirkung eines Partners auf das fördern erfolgreicher Kunden Ergebnisse und somit eine bessere Differenzierung auf dem Markt, wenn ein Partner die Cloud-Business Applications Kompetenz erhält und beibehält. . Partner erhalten eine Gutschrift für wichtige Measures des Erfolgs von Kunden, z. b. erfolgreiche bereit Stellungen und höhere Nutzung. Außerdem werden Sie dazu belohnt, dass Sie Ihre technischen Funktionen weiterhin nutzen und horizontal hochskalieren können.
+
 
 ## <a name="scoring"></a>Bewertung
 
@@ -29,7 +30,7 @@ PCI bietet einen ausgereiften Überblick über die technischen Funktionen eines 
 1. **Netto neuer Umsatz** – Netto neuer Umsatz über alle Vertriebskanäle für Microsoft Dynamics 365-Produkte hinweg.
 2. **Net Customer fügt** – net-Kunden, die für Dynamics 365 erworben wurden, über alle Vertriebskanäle hinweg hinzu.
 3. **Funktions Berater** – die Anzahl der Personen, die einen derzeit aktiven funktionalen Berater haben, ordnet die Zertifizierung für Dynamics 365 zu. 
-4. **Wachstum des funktionalen Beraters** – Zunahme der Anzahl der funktionalen Berater Zuordnungen. Wir evaluieren die zeitliche Steuerung, wenn wir die Baseline-Momentaufnahme für diese Metrik verwenden werden. Sie findet nicht am 31. März, 2020, wie zuvor angegeben. Wenn wir ein neues Datum festgelegt haben, werden wir dieses Dokument aktualisieren, Sie in Partner Center und per e-Mail benachrichtigen.
+4. **Wachstum des funktionalen Beraters** – Zunahme der Anzahl der funktionalen Berater Zuordnungen.  Die baselinemomentaufnahme für die Wachstums Metrik des funktionalen Beraters in PCI wird jetzt am 1. Oktober 2020 übernommen.  
 5. **Entwickler** – Anzahl der Personen, die einen derzeit aktiven Entwickler haben, weisen die Zertifizierung für Dynamics 365 zu.
 6. **Neue große bereit Stellungen** – Anzahl der Produktions Mandanten, die in den letzten 12 Monaten den Schwellenwert für hohe Auslastung überschreiten.
 7. **Monatliches aktives Benutzer Wachstum** – Wachstum in monatlich aktiven Benutzern für alle Kunden in den letzten 12 Monaten.
@@ -54,7 +55,8 @@ Partner können die maximale Punktzahl für eine Metrik erzielen, wenn sie die u
 
 ![Finance](images/pci/table_2.png)
 
-![Stelle](images/pci/table_3.png)
+![Steuer](images/Table3.PNG) 
+
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>Ausführliche Definitionen von PCI-Metriken
 
@@ -62,7 +64,9 @@ Partner können die maximale Punktzahl für eine Metrik erzielen, wenn sie die u
 
 ![NET-Adds](images/pci/netadds.png)
 
-![Funktions Berater](images/pci/funcconsult.png)
+
+![Funktionsberater](images/pci/funcconsult.png)
+
 
 ![Zuwachs Funktionsberater](images/pci/4_Functional_consultant_growth.png)
 
@@ -74,7 +78,7 @@ Partner können die maximale Punktzahl für eine Metrik erzielen, wenn sie die u
 
 ## <a name="customer-to-partner-association"></a>Zuordnung zwischen Kunde und Partner
 
-Sie erhalten eine Gutschrift für den Nettoumsatz, den Netto Kunden, neue große bereit Stellungen und die monatliche aktive Benutzer Vergrößerung für einen bestimmten Kunden innerhalb der Grenzen der metrikdefinition, nur wenn Sie der Cloud Solution Provider (CSP) sind, der Anspruchs Partner des Datensatzes (cpor), oder Digital Partner of Record (dpor) für ein kostenpflichtiges Abonnement, das zum Mandanten des Kunden gehört.
+Sie erhalten eine Gutschrift für den Nettoumsatz, den Netto Kunden, neue große bereit Stellungen und die monatliche aktive Benutzer Vergrößerung für einen bestimmten Kunden innerhalb der Grenzen der metrikdefinition, nur wenn Sie der Cloud Solution Provider (CSP), der Anspruchs Ende Partner of Record (cpor) oder Digital Partner of Record (dpor) für ein kostenpflichtiges Abonnement sind
 
 Ein Partner wird zum cpor, wenn er mit einem Kunden auf der Abonnement Ebene über den Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) Incentive oder über den Dynamics 365 [Online Services Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU)-Anreiz verfügt.
 

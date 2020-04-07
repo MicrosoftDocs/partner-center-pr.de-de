@@ -1,7 +1,7 @@
 ---
 title: Informationen zu Ihrer Rechnung | Partner Center
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 04/03/2020
 description: Ihre Rechnung ist eine Zusammenfassung aller Gebühren für Partner Center (Programm-, Produkt-und Kunden übergreifend) für die aktuelle monatliche Zeit.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,12 +10,12 @@ author: jasonwhowell
 ms.author: jasonh
 keywords: Abonnementabrechnungen, Abrechnung, Abrechnung im Partner Center, Partner Center-Abrechnung, meine Rechnung lesen, Rechnung, Rechnung für Partner Center, CSP-Abrechnung, wo ist meine Rechnung?
 ms.localizationpriority: medium
-ms.openlocfilehash: e356dfbe3243db176393f614c92540e40d92f055
-ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
+ms.openlocfilehash: 3e4d6b16e3b27b5244687bf9c1f292a5ba353e24
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "80634803"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676843"
 ---
 # <a name="understand-your-bill"></a>Verstehen Ihrer Rechnung
 
@@ -93,11 +93,11 @@ Im folgenden finden Sie einige der Schlüsselfelder im PDF-Dokument der Rechnung
 
 **Zahlungsanweisungen**: Beschreibung der Bezahlung Ihrer Rechnung basierend auf Ihrer Region. Stellen Sie bei einer Zahlung immer sicher, dass Sie Ihre Rechnungsnummer einschließen. 
 
-Eine ausführliche Beschreibung aller Felder in der Rechnungs Datei (einschließlich der Felder für einmalige Gebühren) finden Sie unter [Rechnungs Datei Felder](https://docs.microsoft.com/partner-center/invoice-file). 
+Eine ausführliche Beschreibung aller Felder in der Rechnungs Datei (einschließlich der Felder für einmalige Gebühren) finden Sie unter [Rechnungs Datei Felder](invoice-file.md). 
 
 ## <a name="understand-reconciliation-file"></a>Grundlegendes zur Abstimmungs Datei 
 
- Abstimmungs Dateien, die einen Drilldown/Details zu ihren Gebühren enthalten, können zusammen mit der Rechnung PDF heruntergeladen werden. Zu den Abstimmungs Dateien gehören Kunden Bezeichner und Abonnement Bezeichner, mit denen Sie Kunden Rechnungen erstellen können. Weitere Informationen zu den Reconnaissance-Dateien finden Sie unter  [Verwenden der](https://docs.microsoft.com/partner-center/use-the-reconciliation-files) ababstimmungs Dateien. 
+ Abstimmungs Dateien, die einen Drilldown/Details zu ihren Gebühren enthalten, können zusammen mit der Rechnung PDF heruntergeladen werden. Zu den Abstimmungs Dateien gehören Kunden Bezeichner und Abonnement Bezeichner, mit denen Sie Kunden Rechnungen erstellen können. Weitere Informationen zu den Reconnaissance-Dateien finden Sie unter  [Verwenden der](use-the-reconciliation-files.md) ababstimmungs Dateien. 
 
 
 

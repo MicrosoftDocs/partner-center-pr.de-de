@@ -1,7 +1,7 @@
 ---
 title: Abrechnungsübersicht | Partner Center
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/03/2020
 description: Erfahren Sie mehr über grundlegende Abrechnungs- und Rechnungsinformationen für Partner Center.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Abrechnung, Zahlungen, Bestellungen, Kündigung, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Kontenabstimmungsdateien, Kontenabstimmungsdatei
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 9ad98091829459612a320135629b6611f36c931a
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 6e46915b720f811f465a270a91e7deee8a45786f
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340118"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676816"
 ---
 # <a name="billing-overview"></a>Abrechnungsübersicht
 
@@ -48,23 +48,23 @@ Microsoft hat keine Anforderungen oder Bedingungen hinsichtlich Ihrer eigenen Ab
 
 Um die Nutzung eines Kunden zu ermitteln, [überprüfen Sie Ihre Kontenabstimmungsdateien](#find-your-bill). Sie können den Kundennamen und andere relevante Felder verwenden, um die Nutzung zu ermitteln.
 
-Fügen Sie dann Ihre eigenen Gebühren für Dienste und Produkte hinzu, die Sie bereitstellen. Sie können dann eine einzige Rechnung für alle Kosten an den Kunden senden.
-
 ### <a name="billing-types"></a>Abrechnungsarten
 
-Zu den Abrechnungsarten in Partner Center gehören **lizenzbasierte Abrechnung**, **verwendungsbasierte Abrechnungs** und **einmalige Abrechnung**. Weitere Informationen finden Sie in der vollständigen Erläuterung der [Abrechnungsarten in Partner Center](billing-different-types.md).
+Zu den Abrechnungsarten in Partner Center gehören **lizenzbasierte Abrechnung**, **nutzungsbasierte Abrechnungs** und **einmalige Abrechnung**. Weitere Informationen finden Sie in der vollständigen Erläuterung der [Abrechnungsarten in Partner Center](billing-different-types.md).
 
 ### <a name="billing-currency"></a>Abrechnungswährung
 
-Ihnen werden Produkte in der Währung des Landes oder der Region in Rechnung gestellt, in der Sie sich befinden. Die Abrechnung erfolgt unabhängig vom Standort des Kunden, an den Sie die Produkte verkauft haben.
+**Lizenzbasierte und nutzungsbasierte Abrechnung**: Ihnen werden Produkte in der Währung des Landes oder der Region in Rechnung gestellt, in der Sie sich befinden. Die Abrechnung erfolgt unabhängig vom Standort des Kunden, an den Sie die Produkte verkauft haben.
+
+**Einmalige Abrechnung**: Ihre Rechnung wird im Kontext der Kundenwährung generiert. Dies bedeutet: Wenn Sie als Partner Transaktionen mit Kunden aus unterschiedlichen abrechenbaren Währungen durchführen, erhalten Sie für jeden Kundenwährungstyp eine Rechnung. Lesen Sie mehr zu [einmalig und wiederkehrend](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Rechnungen
 
 Ihre Rechnung ist eine Zusammenfassung aller Gebühren für den aktuellen Abrechnungszeitraum. Dies schließt Gebühren für das Programm, alle Produkte und alle Kunden ein. Beispiele für monatliche und jährliche Abrechnungsszenarien finden Sie unter [Allgemeine Abrechnungsszenarien](common-billing-scenarios.md).
 
-Ihre Rechnung ist innerhalb von zwei (2) Tagen nach dem ausgewählten Abrechnungsdatum in UTC-Zeit verfügbar. Wenn beispielsweise das Abrechnungsdatum der 12. September ist, beginnt der Prozess zur Rechnungsgenerierung am 13. September um 12:00 Uhr UTC und endet am 14. September um 12:00 Uhr UTC. Sollte Ihre Rechnung bis zum 15. September, 11:59 Uhr UTC, nicht angezeigt werden, befinden Sie sich außerhalb der Vereinbarung zum Servicelevel (Service Level Agreement, SLA) und sollten eine Serviceanfrage senden.
+Bei nutzungsbasierter und lizenzbasierter Abrechnung steht Ihre Rechnung innerhalb von zwei (2) Tagen nach dem ausgewählten Abrechnungsdatum in UTC-Zeit zur Verfügung. Wenn beispielsweise das Abrechnungsdatum der 12. September ist, beginnt der Prozess zur Rechnungsgenerierung am 13. September um 12:00 Uhr UTC und endet am 14. September um 12:00 Uhr UTC. 
 
-Partner im Programm für Cloud Solution Provider (CSP) mit monatlicher Rechnung bezahlen Microsoft rückwirkend für 60 Tage für das Abonnement ihres Kunden (sowohl lizenzbasierte als auch nutzungsbasierte Abonnements).
+Bei einmaliger und wiederkehrender Abrechnung ist der Abrechnungszeitraum am Kalendermonat ausgerichtet, und die Rechnungs-/Abstimmungsdateien stehen spätestens am 8. Tag jedes Monats zur Verfügung. Weitere Informationen finden Sie unter [Azure-Plan – Abrechnung](azure-plan-billing.md). 
 
 ## <a name="price-lists"></a>Preislisten
 
@@ -94,27 +94,15 @@ Sie können den vollen Funktionsumfang Ihrer ausgesetzten Konten zurückerhalten
 
 Steuern fallen basierend auf Ihren Details (und nicht den Details Ihrer Kunden) an, da die Abrechnungsbeziehung zwischen Microsoft und Ihnen besteht. Sie können Ihre Steuernummer übermitteln, während Sie ihr Konto einrichten, oder zu einem späteren Zeitpunkt durch eine Supportanfrage. Die Änderungen werden im nächsten Abrechnungszyklus angezeigt.
 
-Für eine **Freistellung von Quellensteuer und Mehrwertsteuer** müssen Sie Steuerunterlagen über eine Supportanfrage übermitteln. Die Änderungen und entsprechenden Erstattungen werden in Ihrem nächsten Abrechnungszyklus angezeigt.
+Für eine **Freistellung von Quellensteuer und Mehrwertsteuer** müssen Sie Steuerunterlagen über eine Supportanfrage übermitteln. Die Änderungen und entsprechenden Erstattungen werden in Ihrem nächsten Abrechnungszyklus angezeigt. Weitere Informationen finden Sie unter [Submitting withholding tax](withholding-tax-credit-form.md) (Übermitteln der Quellensteuer). 
 
-Für eine **Freistellung von der Umsatzsteuer (USt)** müssen Sie Ihre Umsatzsteueridentifikationsnummer (USt-IdNr. – von Microsoft überprüft) über eine Serviceanfrage übermitteln. Die Änderungen und entsprechenden Erstattungen werden in Ihrem nächsten Abrechnungszyklus angezeigt.
+Für eine **Freistellung von der Umsatzsteuer (USt)** müssen Sie Ihre Umsatzsteueridentifikationsnummer (USt-IdNr. – von Microsoft überprüft) über eine Serviceanfrage übermitteln.  Wenn die Umsatzsteuer-ID nach der Kontoeinrichtung (über eine Supportanfrage) übermittelt wird, ist in Ihren Rechnungen vor dieser Anfrage noch keine Umsatzsteuer-ID auf die Rechnungs-PDF gestempelt. Die Änderungen werden in Ihrem nächsten Abrechnungszyklus angezeigt.
 
 Weitere Steuerinformationen erhalten Sie von Ihrem örtlichen Finanzamt oder Steuerberater.
 
-### <a name="annual-billing-rules"></a>Regeln für die jährlichen Abrechnung
-
-Abonnements gelten für ein Jahr und werden automatisch verlängert.
-
-Die Abrechnung erfolgt in 12 monatlichen Zahlungen oder einer jährlichen Zahlung pro Jahresabonnement.
-
-Lizenzbasierte Dienste werden (basierend auf der Anzahl an Lizenzen am Ende des vorherigen Abrechnungszeitraums) im Voraus für den nächsten Abrechnungszeitraum abgerechnet.
-
-Änderungen an der Anzahl der Lizenzen (anteilsmäßige Berechnung basierend auf Lizenzen/Tagen) werden nachträglich in Rechnung gestellt/gutgeschrieben. Bei der anteilsmäßigen Berechnung wird die folgende Formel verwendet:
-
-`[ROUND((ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity]`
-
-Zahlungen basieren auf verkauften Lizenzen (und nicht auf bereitgestellten Lizenzen).
-
 ### <a name="change-billing-frequency"></a>Ändern der Abrechnungshäufigkeit
+
+Die Abrechnungshäufigkeit wird auf Bestellebene geändert, und sobald die Häufigkeit geändert wurde, wird der überarbeitete Abrechnungszyklus auf alle Abonnements in dieser Bestellung angewendet. 
 
 So ändern Sie die Abrechnungshäufigkeit für einen Onlinedienst für einen Kunden:
 
@@ -127,36 +115,37 @@ So ändern Sie die Abrechnungshäufigkeit für einen Onlinedienst für einen Kun
 
 ### <a name="adjustmentscreditscancellations"></a>Anpassungen/Guthaben/Kündigungen
 
+Gutschriften für Kündigungen für lizenzbasierte Dienste werden bei Kündigungen in der Zyklusmitte für nicht genutzte Tage anteilsmäßig berechnet (und Lizenzreduzierungen entsprechend dieser Formel):
+
+[ROUND((ROUND(Einheitenpreis * Menge / Anzahl von Tagen im anteilsmäßigen Monat, 2) * Anzahl von anteilsmäßigen Tagen) / Menge, 2) * Menge] 
+
 Microsoft stellt keine Gebühren für eine vorzeitige Beendigung bei der Kündigung lizenzbasierter Dienste in Rechnung.
 
-Gutschriften für Kündigungen für lizenzbasierte Dienste werden bei Kündigungen in der Zyklusmitte für nicht genutzte Tage anteilsmäßig berechnet (und Lizenzreduzierungen gemäß der Formel oben).
-
 ### <a name="billing-rules"></a>Abrechnungsregeln
-
-Abonnements laufen von Monat zu Monat und werden zu den neuen getakteten Dienstleistungspreisen automatisch verlängert. Ihnen wird jeden Monat die Nutzung während des Vormonats in Rechnung gestellt.
-
+Heute gibt es zwei Arten von Abrechnungshäufigkeiten: Jährlich und monatlich.  
 Getaktete Dienstleistungspreise können sich innerhalb des Abrechnungszyklus ändern.
 
-#### <a name="price-changes"></a>Preisänderungen
+#### <a name="annual-billing-rules"></a>Regeln für die jährlichen Abrechnung 
 
-**Preiserhöhungen** werden 30 Tage zuvor bekanntgegeben.
+- Abonnements gelten für ein Jahr und werden automatisch verlängert.  
 
-**Preissenkungen** werden am Tag angezeigt, an dem sie wirksam werden.
+- Die Abrechnung erfolgt in 12 monatlichen Zahlungen oder einer jährlichen Zahlung pro Jahresabonnement. 
 
-**Vorhandene Abonnements** verwenden den zum Anfang des Abrechnungszyklus gültigen Preis.
+- Lizenzbasierte Dienste werden (basierend auf der Anzahl an Lizenzen am Ende des vorherigen Abrechnungszeitraums) im Voraus für den nächsten Abrechnungszeitraum abgerechnet. 
 
-**Neue Abonnements**, die innerhalb desselben Abrechnungszyklus erstellt wurden, verwenden den am Erstellungsdatum gültigen Preis. 
+- Änderungen an der Anzahl der Lizenzen (anteilsmäßige Berechnung basierend auf Lizenzen/Tagen) werden nachträglich in Rechnung gestellt/gutgeschrieben. Bei der anteilsmäßigen Berechnung wird die folgende Formel verwendet: 
 
-### <a name="adjustmentscreditscancellations"></a>Anpassungen/Guthaben/Kündigungen
+  - [ROUND((ROUND(Einheitenpreis * Menge / Anzahl von Tagen im anteilsmäßigen Monat, 2) * Anzahl von anteilsmäßigen Tagen) / Menge, 2) * Menge] 
 
-Zahlungen mit Anpassungen werden in der nächsten monatlichen Rechnung angezeigt.
+- Zahlungen basieren auf verkauften Lizenzen (und nicht auf bereitgestellten Lizenzen). 
 
-Microsoft stellt keine Gebühren für eine vorzeitige Beendigung bei der Kündigung nutzungsbasierter Dienste in Rechnung. 
+#### <a name="monthly-billing-rules"></a>Regeln für die jährliche Abrechnung 
 
-Alle Guthaben, einschließlich SLA-Guthaben, werden in der nächsten monatlichen Rechnung angezeigt.
+- Abonnements laufen von Monat zu Monat und werden zu den neuen getakteten Dienstleistungspreisen automatisch verlängert. Ihnen wird jeden Monat die Nutzung während des Vormonats in Rechnung gestellt. 
 
->[!IMPORTANT]
->Wenn Sie Azure-Reservierungen und/oder Softwareabonnements für einen Kunden an einem Standort mit einer anderen Währung als Ihrer Währung erwerben, basiert die Standardabrechnungswährung auf dem Standort des Kunden, nicht Ihrem Standort. Wenn Sie Kunden an mehreren Standorten haben, erhalten Sie getrennte Rechnungen und Kontenabstimmungsdateien für jede Währung der Kunden, die in Rechnung gestellt werden müssen, damit Sie Ihren Kunden Rechnungen in der entsprechenden Währung ausstellen können.
+- Getaktete Dienstleistungspreise können sich innerhalb des Abrechnungszyklus ändern. 
+
+- Die Ihnen zugesendete Rechnung enthält nur die für den jeweiligen Monat anfallenden Gebühren. 
 
 ## <a name="manage-one-time-billing"></a>Verwalten von einmaliger Abrechnung
 
@@ -164,15 +153,15 @@ Alle Guthaben, einschließlich SLA-Guthaben, werden in der nächsten monatlichen
 
 Gehen Sie zum Anzeigen Ihres aktuellen Abrechnungsstatus, Ihrer Rechnungen und Kontenabstimmungsdateien folgendermaßen vor:
 
-1. [Melden Sie sich beim Partner Center-Dashboard an](https://partner.microsoft.com/dashboard/home).
-2. Wählen Sie im Menü auf der linken Seite **Abrechnung** aus, und wählen Sie dann **Einmalig** aus.
+1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an.
+2. Wählen Sie im Menü auf der linken Seite **Abrechnung** und dann **Wiederkehrende und einmalige Käufe** aus.
 3. Wählen Sie auf der Seite „Abrechnungsstatus“ eine Rechnung oder Kontenabstimmungsdatei aus, um ausführlichere Informationen anzuzeigen.
 
 ### <a name="customer-order-history"></a>Bestellverlauf des Kunden
 
 So zeigen Sie den Bestellverlauf eines Kunden an:
 
-1. [Melden Sie sich beim Partner Center-Dashboard an](https://partner.microsoft.com/dashboard/home).
+1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an.
 2. Wählen Sie im Menü auf der linken Seite **Kunden** aus.
 3. Suchen Sie auf der Seite **Kunden** nach dem Kunden, dessen Bestellverlauf Sie anzeigen möchten. Wählen Sie die NACH-UNTEN-TASTE aus, um den Datensatz des Kunden zu erweitern.
 4. Wählen Sie **Bestellungen anzeigen** aus, um den Bestellverlauf des Kunden anzuzeigen.
@@ -184,4 +173,4 @@ Sie könnten müssen ggf. aus folgenden Gründen eine Gutschrift oder Neuberechn
 - Sie müssen Korrekturen an der Adresse oder Bestellung vornehmen.
 - Nach dem Generieren der Rechnung wurde eine Steuererstattung angewendet. Sie können eine Gutschrift oder Neuberechnung anfordern, damit die Steuerrückerstattung wieder in die ursprüngliche Rechnung aufgenommen wird. Dasselbe gilt auch für Rückerstattungen. Sie können eine Gutschrift oder Neuberechnung der ursprünglichen Rechnung anfordern und dann in einer Rückerstattung berücksichtigen.
 
-Wenn Sie eine Gutschrift oder Neuberechnung anfordern, stellen wir Ihnen eine **Gutschrift** zur Stornierung der ursprünglichen Rechnung aus.
+**Für alle einmaligen und wiederkehrenden Transaktionen** kann Microsoft eine Gutschrift ausstellen, wenn Sie diese oder eine Refakturierung anfordern. Bei Ausstellung der Gutschrift wird die Rechnung storniert. 

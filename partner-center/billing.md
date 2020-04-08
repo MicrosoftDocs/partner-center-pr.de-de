@@ -1,23 +1,23 @@
 ---
 title: Abrechnung | Partner Center
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Hier erfahren Sie etwas über Abrechnungsthemen in Partner Center und erhalten unter anderem Informationen zu Abrechnungsressourcen, Rechnungen und CSP-Abrechnung.
+Description: Auflistung von Themen zu Abrechnung und Steuern in Partner Center, einschließlich Informationen zu Abrechnungsressourcen, Rechnungen, CSP-Abrechnung und Steuern.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: jasonwhowell
 ms.author: jasonh
 keywords: Abrechnung, Zahlungen, Bestellungen, Kündigung, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Kontenabstimmungsdateien, Kontenabstimmungsdatei
 ms.localizationpriority: high
-ms.openlocfilehash: 1f782b3696f82bb16487fb4ecae68b806cabfcac
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 33c698648b6e195219ae8b58c36e8fda372685f3
+ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390279"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "80634796"
 ---
-# <a name="billing"></a>Abrechnung
+# <a name="billing-and-taxes"></a>Abrechnung und Steuern
 
 **Zielgruppe**
 
@@ -26,17 +26,17 @@ ms.locfileid: "80390279"
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Abrechnungsadministrator
 - Globaler Administrator
 - Vertriebsbeauftragter
 
 | Thema | Beschreibung |
 | ----- | ----------- |
-| [Abrechnungsübersicht](billing-basics.md) | Grundlagen der Abrechnung von Partner Center (einschließlich Zahlungen, Rechnungen und Abstimmungsdateien). |
+| [Grundlagen zur Abrechnung](billing-basics.md) | Grundlagen der Abrechnung von Partner Center (einschließlich Zahlungen, Rechnungen und Abstimmungsdateien). |
 | [Abrechnungsarten](billing-different-types.md) | Erläuterung der verschiedenen Abrechnungsarten in Partner Center. |
 | [Unterschiede zwischen monatlicher und jährlicher Abrechnung](billing-annual-monthly.md) | Erläuterung der Unterschiede zwischen monatlichen und jährlichen Fakturierungsintervallen. |
-| [Lesen Ihrer Rechnung](read-your-bill.md) | Informationen zum Lesen und Verstehen Ihrer Partner Center-Rechnung. |
+| [Erläuterungen zur Rechnung](read-your-bill.md) | Informationen zum Lesen und Verstehen Ihrer Partner Center-Rechnung. |
 | [Kostenlose Testversionen](offer-your-customers-trials-of-microsoft-products.md) | Informationen zum Anbieten von kostenlosen Testversionen für Ihre Kunden und wie diese Versionen abgerechnet werden. |
 | [Abstimmungsdatei](use-the-reconciliation-files.md) | Informationen zum Lesen und Verwenden Ihrer Kontenabstimmungsdatei für Positionen. |
 | [Allgemeine Abrechnungsszenarien](common-billing-scenarios.md) | Informationen zum Verstehen allgemeiner Partner Center-Abrechnungsszenarien (für monatliche und jährliche Abrechnung sowie die Abrechnung für einmalige und wiederkehrende Käufe). |

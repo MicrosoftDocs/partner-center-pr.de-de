@@ -1,5 +1,5 @@
 ---
-title: Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung | Partner Center
+title: Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag | Partner Center
 ms.topic: article
 ms.date: 02/18/2020
 ms.service: partner-dashboard
@@ -7,14 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Erfahre, wie du bestätigst, dass ein Kunde der Microsoft-Kundenvereinbarung zugestimmt hat. Dies kann erforderlich sein, um Microsoft-Produkte und -Dienste für Kunden zu bestellen.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Kunden, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Microsoft-Kundenvereinbarung, Vorlagen für Kundenverträge
+keywords: Kunden, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Microsoft-Kundenvertrag, Vorlagen für Kundenverträge
 ms.localizationpriority: high
-ms.openlocfilehash: 73e8f592aa8232a87bb112913e20e958fb899927
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 51bfe2c132b4c5ba5d9b285164ee99a29cfcc22f
+ms.sourcegitcommit: 43569a21c4f5cb5405f2acea6ace69640a2eee5e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672850"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "80805977"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung
 
@@ -46,11 +46,11 @@ Weitere Informationen zum zeitlichen Ablauf finden Sie in der folgenden Tabelle:
 |31. Januar 2020|Microsoft Cloud-Vertrag aus der Produktionsumgebung entfernt|Der Microsoft Cloud-Vertrag wird innerhalb des CSP-Partnerprogramms nicht mehr akzeptiert. Neue Käufe und Änderungen an der Anzahl der Arbeitsplätze für vorhandene Abonnements erfordern eine Bestätigung des Microsoft-Kundenvertrags durch den Partner. Diese Anforderung gilt für neue Kunden und Bestandskunden, die möglicherweise zuvor den Microsoft Cloud-Vertrag angenommen haben.|
 |3\. Februar 2020|Der Partner hat jetzt die Möglichkeit, den Kunden über eine URL einzuladen, damit dieser die Vereinbarung im authentifizierten Microsoft 365 Admin Center überprüfen und ihr zustimmen kann. | Der Kunde kann der Microsoft-Kundenvereinbarung im Microsoft 365 Admin Center zustimmen. Wenn der Kunde der Vereinbarung direkt im Microsoft 365 Admin Center zustimmt, erkennt er die Nutzungsbedingungen an. 
 
-Der Partnerkann dem Kunden die folgenden beiden Optionen anbieten, um der Microsoft-Kundenvereinbarung zuzustimmen.  
+Du kannst Kunden die folgenden beiden Optionen anbieten, um der Microsoft-Kundenvereinbarung zuzustimmen.  
 
-**Option 1**: Der Partner bestätigt die Zustimmung des Kunden: Der Partner kann die Zustimmung des Kunden über die Partner Center-API, das Partner Center SDK oder das Partner Center-Dashboard bestätigen.
+**Option 1**: Der Partner bestätigt die Zustimmung des Kunden – Der Partner kann die Zustimmung des Kunden über die Partner Center-API, das Partner Center SDK oder das Partner Center-Dashboard bestätigen.
 
-**Option 2**: Der Kunde stimmt direkt zu: Der Partner kann den Kunden über eine URL einladen, damit dieser die Vereinbarung im Microsoft 365 Admin Center überprüfen und ihr zustimmen kann.
+**Option 2**: Der Kunde stimmt direkt zu – Der Partner kann den Kunden über eine URL einladen, damit dieser die Vereinbarung im Microsoft 365 Admin Center überprüfen und ihr zustimmen kann.
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Zugreifen auf die Vorlage für die Microsoft-Kundenvereinbarung
 
@@ -168,7 +168,7 @@ Mit den folgenden Schritten kannst du einen neuen Kunden einladen, die Handelspa
 
 4. Verwende diese E-Mail-Vorlage, um den Kunden einzuladen, dem Antrag auf eine **Handelspartnerschaft** und der **Microsoft-Kundenvereinbarung** zuzustimmen. (Anmerkung: Achte darauf, dass der Partner in der E-Mail-Einladung auch die automatisch bereitgestellte URL und die kürzlich erstellten Kundenanmeldeinformationen angibt.)
 
-![Erstellen einer Beziehung](images/mca/createrelationship.jpg)
+![Erstellen einer Beziehung](images/mca/createrelationship.png)
 
 5. Der Kunde empfängt die Einladung per E-Mail und klickt auf die parametrisierte URL. 
 

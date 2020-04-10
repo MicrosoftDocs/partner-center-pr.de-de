@@ -1,0 +1,37 @@
+### YamlMime:Hub
+title: Dokumentation für Partner Center-Dienste
+summary: Verwenden Sie Partner Center, um Apps und Spiele zu veröffentlichen, Daten abzurufen, eine Hardwarezertifizierung zu erhalten, Treiber für Windows Update zu veröffentlichen oder als Wiederverkäufer zu handeln.
+brand: windows
+metadata:
+  title: Dokumentation für Partner Center-Dienste
+  description: Verwenden Sie Partner Center, um Apps und Spiele zu veröffentlichen, Daten abzurufen, eine Hardwarezertifizierung zu erhalten, Treiber für Windows Update zu veröffentlichen oder als Wiederverkäufer zu handeln.
+  services: partner-dashboard
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-csp
+  ms.topic: hub-page
+  author: LauraBrenner
+  ms.author: labrenne
+  ms.date: 03/15/2019
+  ms.openlocfilehash: 407ccc415543a1bd46aa375edb634ad7b3841295
+  ms.sourcegitcommit: e2713ab40da4221334821f5bf9daf27bc548a6ec
+  ms.translationtype: HT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 04/08/2020
+  ms.locfileid: "80930061"
+highlightedContent:
+  items:
+  - title: Veröffentlichen von Windows-Apps und -Spielen
+    itemType: how-to-guide
+    url: https://docs.microsoft.com/windows/uwp/publish/
+  - title: Detaillierte Telemetriedaten und Analyseberichte erhalten
+    itemType: how-to-guide
+    url: https://msdn.microsoft.com/library/windows/desktop/mt826504(v=vs.85).aspx
+  - title: Partner Center für Windows-Hardware
+    itemType: overview
+    url: https://docs.microsoft.com/windows-hardware/drivers/dashboard/
+  - title: CSP- und MPN-Partner
+    itemType: overview
+    url: /partner-center/
+  - title: Entwickler-APIs und SDKs
+    itemType: overview
+    url: /partner-center/develop/

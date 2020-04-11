@@ -1,7 +1,7 @@
 ---
 title: Vorbereiten der Umstellung vom Admin Center für Partner auf Partner Center | Partner Center
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Die Funktionen des Office 365 Admin Center für Partner werden in Partner Center verschoben.
@@ -9,24 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC, Office 365 Advisor, Advisor, Syndication-Partner, PAC Einstellen, PAC Ausmusterung
 ms.localizationpriority: medium
-ms.openlocfilehash: 37c76a3454cb5d7a995d32cc01317b938a534405
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 214ae5d353449c82a7b1ba03a793d06359e28a0a
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004889"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123319"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Umstellung vom Admin Center für Partner auf Partner Center
 
-**Zielgruppe**
+**Gilt für:**
 
 -  Partner Center
 
 **Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   Administratoragent
--   Vertriebsbeauftragter
+-    Globaler Administrator
+-    Benutzeradministrator
+-    Administratoragent
+-    Vertriebsbeauftragter
 
 > [!NOTE]  
 >  Alle Datumsangaben wurden seit der ersten Veröffentlichung dieses Artikels aktualisiert.
@@ -46,11 +46,9 @@ Im April 2018 wird das PAC ausgemustert, und CSP-Partner werden automatisch zu 
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Verwenden Sie Microsoft Partner Center ab sofort!
 
-Verwenden Sie [Microsoft Partner Center](https://partnercenter.microsoft.com/) jetzt schon, um sich auf die Umstellung vom PAC vorzubereiten.  Sie verwenden die gleichen Anmelde Informationen für das Partner Center, das Sie für PAC verwenden. 
+Beginnen Sie jetzt mit [der Verwendung des Microsoft Partner Centers](https://partnercenter.microsoft.com/) , um sich für den Umstieg von PAC zu informieren.  Sie verwenden die gleichen Anmelde Informationen für das Partner Center, das Sie für PAC verwenden.
 
 > [!IMPORTANT]  
 > Einige im PAC verfügbare Features und Funktionen stehen in Partner Center nicht zur Verfügung.
 
- Lesen Sie den [Vergleich](moving-from-pac-to-pc.md), um diese Änderungen zu verstehen und sich mit ihnen vertraut zu machen.  Unter [Hilfe für Microsoft Partner Center](https://partnercenter.microsoft.com/partner/help) finden Sie weitere Informationen zu Kontoverwaltung, Kundenverwaltung, Lizenzen, Abonnements, Preisen, Angeboten usw.
-
- 
+ Lesen Sie den [Vergleich](moving-from-pac-to-pc.md), um diese Änderungen zu verstehen und sich mit ihnen vertraut zu machen.  Unter [Hilfe für Microsoft Partner Center](https://docs.microsoft.com/partner-center/) finden Sie weitere Informationen zu Kontoverwaltung, Kundenverwaltung, Lizenzen, Abonnements, Preisen, Angeboten usw.

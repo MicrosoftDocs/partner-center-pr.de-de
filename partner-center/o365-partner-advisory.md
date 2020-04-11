@@ -2,17 +2,17 @@
 title: Office 365 Partner Advisory-Microsoft 365 Voice in CSP | Partner Center
 description: PSTN-Dienste in einigen Ländern unterliegen möglicherweise speziellen Steuer-und behördlichen Anforderungen, die sich auf die Auftrags-und Rechnungsstellung von Partnern auswirken können
 ms.topic: article
-ms.date: 11/04/2019
+ms.date: 04/07/2020
 author: jasonwhowell
 ms.author: jasonh
 keywords: Office, O365, PSTN-Dienste, Steuern, Anforderungen, Rechnungen, Rechnungsstellung
 ms.localizationpriority: medium
-ms.openlocfilehash: 14cf3541789fc982590842427d06711a70080004
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: ee29158773041bbab16961f139e8b731a2b3ebbf
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390789"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123288"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365-Partner Beratung: Microsoft 365 Voice in CSP
 
@@ -21,15 +21,15 @@ ms.locfileid: "80390789"
 - Partner Center  
 
 **Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   Administratoragent
+-    Globaler Administrator
+-    Benutzeradministrator
+-    Administratoragent
 
 Die Public Switched Telefon Network-Dienste (PSTN) unterliegen möglicherweise speziellen Steuer-und behördlichen Anforderungen, die sich auf die Reihenfolge der Partner und die Rechnungsstellung auswirken können. In der USA, einschließlich Puerto Rico, PSTN-Dienste, die Audiokonferenzen, Aufruf Pläne und Kommunikations Guthaben enthalten, gelten spezielle Steuer-und gesetzliche Anforderungen. In den USA und Puerto Rico werden die PSTN-Dienste von Microsoft als Steuer inklusiv fest.  Eindeutige PSTN-Steuern und-Vorschriften wirken sich auf Office 365-Partner aus, die Microsoft 365 Voice-Produkte.  Wenn ein Partner einen Aufschlag auf den Preis eines PSTN-Diensts von Microsoft erhebt, ist er möglicherweise für die Berechnung und Abführung von Steuern und Gebühren für PSTN-Dienste verantwortlich.
 
 ## <a name="partner-recommendations"></a>Partner Empfehlungen
 
-Informieren Sie sich bei Ihren Steuer- und Rechtsberatern über die Verantwortlichkeiten Ihres Unternehmens in Bezug auf Bestimmungen, Steuern und Gebühren für PSTN-Dienste und andere mögliche Verpflichtungen.
+Wenden Sie sich an Ihren Steuer-und Rechtsberater, um zu verstehen, wie sich Ihr Unternehmen in Bezug auf die Vorschriften, Steuern und Gebühren sowie andere potenzielle Verpflichtungen in Ihrem Unternehmen für die
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Rechnungs Präsentation und Vereinbarungs Datei für Partner
 
@@ -55,5 +55,5 @@ Office 365 Enterprise E5 zeigt eine Abstimmungs Datei als zweizeilige Elemente m
 Microsoft 365 Business in Kanada verfügbare Sprache verfügt über zusätzliche PSTN-Komponenten, die auf der CSP-Rechnung konsolidiert werden (ähnlich wie bei Office 365 E5 werden zwei Zeilen Elemente angezeigt, eine für PSTN-Komponenten und die andere für nicht-PSTN-Komponenten).  In der CSP-Abstimmungs Datei für Microsoft 365 Business Voice werden alle zu debuggenden PSTN-Komponenten einzeln angezeigt (individuelle PSTN-Komponenten werden in nicht konsolidiert. CSV-oder API-Tool).  Die Summe der Bestelldetails und der in Rechnung gestellten Beträge für Kunden, die in der Abstimmungs Datei gefunden werden, entspricht der CSP-Rechnung.
 
 ## <a name="additional-resources"></a>Zusätzliche Ressourcen
-Weitere Informationen finden Sie auf der [Microsoft 365 für Partner](https://drumbeat.office.com/Pages/home2016.aspx) Website.
+Weitere Informationen finden Sie auf der [Microsoft 365 für Partner](https://www.microsoft.com/microsoft-365/partners/) Website.
 

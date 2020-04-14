@@ -89,12 +89,9 @@
 ## [Incentiveansprüche](claims-overview.md)
 ### [Erstellen und Verwalten von Incentiveansprüchen](create-incentives-claims.md)
 ### [Grundlegende Anforderungen für Incentiveansprüche](core-requirements.md)
-
-
-### [Grundlegendes zu den Auszahlungsinformationen](incentives-unified-user-guide.md)
-
 ### [Zugriff auf die Seite für Anreizauszahlungen](incentives-unified-user-guide.md)
-
+### [Anzeigen Ihrer Incentivezahlungen und -programme](understand-incentive-payouts.md)
+### [Erstellen einer Kundenzuordnung mithilfe des CPOR-Modells](submit-osa-claim.md)
 
 # [Abrechnung und Steuern](billing.md)
 ## [Grundlagen zur Abrechnung](billing-basics.md)

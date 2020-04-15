@@ -1,7 +1,7 @@
 ---
 title: Wechsel von PMC zu Partner Center | Partner Center
 ms.topic: article
-ms.date: 06/14/2019
+ms.date: 04/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informieren Sie sich über die Unterschiede und Ähnlichkeiten zwischen PMC und Partner Center bezüglich Erneuerungen, Kontostruktur, Anmeldung, Benutzerrollen, Kompetenzen und mehr.
@@ -9,17 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: high
-ms.openlocfilehash: d44781b17a3ecd63b0573a389c0c4790f1370860
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: fba77a2a346972ea3d3dbc7e849a9e1c9a693ddb
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340178"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123309"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>Wechsel von PMC zu Partner Center
 
 **Geeignete Rollen**
--   Globaler Administrator
+-    Globaler Administrator
 
 Wir vereinfachen die Geschäftstätigkeit mit uns, indem wir eine einzelne Website (Partner Center) einführen, die als zentrale Anlaufstelle dient. Alle Aktivitäten, die du von Partner Membership Center (PMC) kennst, kannst du auch über das Dashboard in Partner Center ausführen. 
 
@@ -37,13 +37,13 @@ Die folgende Tabelle zeigt einige der Unterschiede zwischen PMC und Partner Cent
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
-|Hauptsitz und Filialstandorte wurden separat bewertet. Die Bewertung der Kompetenzen erfolgte auf lokaler Ebene.|Das globale Unternehmen einschließlich zugehöriger Filialstandorte – das Partner Global Account (PGA) –, wird als Ganzes bewertet. Leistungs- und Qualifikationsdaten werden auf PGA-Ebene aggregiert. Partner Center umfasst verschiedene Profilansichten für Programme, z. B. Partner- und Businessprofile für Empfehlungen und Marketing. Weitere Informationen finden Sie unter [Kontostruktur in Partner Center](https://docs.microsoft.com/partner-center/account-structure.md).|
+|Hauptsitz und Filialstandorte wurden separat bewertet. Die Bewertung der Kompetenzen erfolgte auf lokaler Ebene.|Das globale Unternehmen einschließlich zugehöriger Filialstandorte – das Partner Global Account (PGA) –, wird als Ganzes bewertet. Leistungs- und Qualifikationsdaten werden auf PGA-Ebene aggregiert. Partner Center umfasst verschiedene Profilansichten für Programme, z. B. Partner- und Businessprofile für Empfehlungen und Marketing. Weitere Informationen findest du unter [Kontostruktur in Partner Center](account-structure.md).|
 
 ## <a name="sign-in"></a>Melden Sie sich
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
-|Es konnten die Anmeldeinformationen sowohl für Microsoft-Konten (MSA) also auch für persönliche Konten (joe@outlook.com) verwendet werden.|Sie müssen die Anmeldeinformationen für Ihr Geschäftskonto verwenden (joe@joescompany.com). Weitere Informationen finden Sie unter [Das Geschäftskonto deines Unternehmens und Partner Center](https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center.md).|
+|Es konnten die Anmeldeinformationen sowohl für Microsoft-Konten (MSA) also auch für persönliche Konten (joe@outlook.com) verwendet werden.|Du musst die Anmeldeinformationen für dein Geschäftskonto verwenden (joe@joescompany.com). Weitere Informationen findest du unter [Das Geschäftskonto deines Unternehmens und Partner Center](azure-active-directory-tenants-and-partner-center.md).|
 
 ## <a name="user-roles"></a>Benutzerrollen
 
@@ -51,24 +51,24 @@ Die folgende Tabelle zeigt einige der Unterschiede zwischen PMC und Partner Cent
 |----------------------|:-----------------------------|
 |Viele der PMC-Rollen werden in Partner Center nicht verwendet.|Dem Administrator, der den Wechsel zu Partner Center durchführt, werden automatisch die Rollen „MPN Admin“, „Account Admin“ und „Referrals Admin“ zugewiesen. Dann kann dieser Administrator andere Benutzer zu Benutzerrollen zuweisen.|
 |Benutzer wurden auf Standortebene verwaltet.|Benutzer werden Unternehmensebene (PGA) verwaltet, nicht auf Standortebene. Die Rolle „Incentives Admin“ bildet eine Ausnahme, da diese auf Standortebene funktioniert.|
-|   |Partner Center bietet zwei umfangreiche Rollensätze: die Rollen, die den Azure AD-Mandanten verwalten, und die Rollen, die die Geschäftstätigkeit des Unternehmens verwalten. Organisiere die Rollen so, dass sie für dein Unternehmen am meisten Sinn ergeben. Es kann eine Person für alles zuständig sein, oder mehreren Personen können verschiedene Rollen und Berechtigungen zugewiesen werden. Weitere Informationen finden Sie unter [Zuweisen von Rollen und Berechtigungen zu Benutzern](https://docs.microsoft.com/partner-center/permissions-overview). 
+|   |Partner Center bietet zwei umfangreiche Rollensätze: die Rollen, die den Azure AD-Mandanten verwalten, und die Rollen, die die Geschäftstätigkeit des Unternehmens verwalten. Organisiere die Rollen so, dass sie für dein Unternehmen am meisten Sinn ergeben. Es kann eine Person für alles zuständig sein, oder mehreren Personen können verschiedene Rollen und Berechtigungen zugewiesen werden. Weitere Informationen findest du unter [Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md). 
 
 ## <a name="how-competencies-and-benefits-are-accounted-for"></a>Berücksichtigung der Kompetenzen und Vorteile
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
-|Pro Standort zusammengefasst und verwaltet.|Die Vorteile, einschließlich der Vorteilsadministration, gelten für das gesamte Unternehmen, Sie können die Vorteile aber so verwalten, wie es für Ihr Unternehmen am günstigsten ist. |
+|Pro Standort zusammengefasst und verwaltet.|Die Vorteile, einschließlich der Vorteilsadministration, gelten für das gesamte Unternehmen, du kannst die Vorteile aber so verwalten, wie es für dein Unternehmen am günstigsten ist. |
 |Additional Benefits Tool Kits (ABTKs) standen zur Verfügung, bis sie im Oktober 2018 eingestellt wurden.|Keine ABTKs. Ein MAPS pro Unternehmen, eine Silver-Kompetenz pro Unternehmen, eine Gold-Kompetenz pro Unternehmen.|
 ||MAPS kann erworben werden, sofern noch nicht vorhanden. Der MAPS-Besitz ist nicht an Kompetenzen gebunden.  
 |Der Zugriff auf Vorteile erfolgte per Partner Digital Download (PDD). |Alle Vorteile sind im Partner Center verfügbar.|
 |Kompetenzen und Vorteile waren auf mehrere Standorte aufgeteilt.|Kompetenzen und Vorteile aus allen Standorten sind auf Unternehmensebene (PGA) konsolidiert und bleiben bis zum Jahrestag erhalten. Zu diesem Zeitpunkt muss ein Neuerwerb oder eine Verlängerung auf Unternehmensebene erfolgen. Leistung und Fähigkeiten werden ebenso wie Kompetenzen global aggregiert.|
-|Ansprüche aus Software Assurance-Vouchern wurden im Voucher Validation and Redemption-Tool (VVR) geltend gemacht.|Jetzt können Sie in Partner Center auf Software Assurance Training Vouchers (SATV) und/oder Deployed Planning Services (DPS) zugreifen und diese verwalten.  Das veraltete VRR-Tool wird am 1. Oktober 2019 außer Betrieb genommen.  |
+|Ansprüche aus Software Assurance-Vouchern wurden im Voucher Validation and Redemption-Tool (VVR) geltend gemacht.|Jetzt kannst du im Partner Center auf Software Assurance Training Vouchers (SATV) und/oder Deployed Planning Services (DPS) zugreifen und diese verwalten.  Das veraltete VRR-Tool wird am 1. Oktober 2019 außer Betrieb genommen.  |
 
 ## <a name="associating-mcp-ids-to-partner-center"></a>Zuordnen von MCP-IDs zu Partner Center
 
 |**PMC**   |**Partner Center**   |
 |-------------------------|:-------------------|
-|Sie können dieselbe MCP-ID mehreren Unternehmen zuordnen.| Einem einzelnen Partner Center-Konto kann nur eine MCP-ID zugeordnet werden. Sie müssen die Zuordnung manuell vornehmen. Wähle im Partner Center-Dashboard das Symbol für **Dein Konto** in der rechten Ecke des Dashboards aus, und wähle dann **Mein Profil** aus. Unter **Dein Learning** können Sie Ihr Microsoft Learning-Konto zuordnen und auch Ihr Microsoft-Konto mit Partner University verbinden.
+|Du kannst dieselbe MCP-ID mehreren Unternehmen zuordnen.| Einem einzelnen Partner Center-Konto kann nur eine MCP-ID zugeordnet werden. Du musst die Zuordnung manuell vornehmen. Wähle im Partner Center-Dashboard das Symbol für **Dein Konto** in der rechten Ecke des Dashboards aus, und wähle dann **Mein Profil** aus. Unter **Dein Learning** kannst du dein Microsoft Learning-Konto zuordnen und auch dein Microsoft-Konto mit Partner University verbinden.
 
 ## <a name="visual-studio-benefits-and-msa"></a>Visual Studio: Vorteile und MSA
 

@@ -1,20 +1,20 @@
 ---
 title: Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag | Partner Center
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Erfahren Sie, wie Sie bestätigen, dass ein Kunde der Microsoft-Kundenvereinbarung zugestimmt hat. Dies kann erforderlich sein, um Microsoft-Produkte und -Dienste für Kunden zu bestellen.
+Description: Erfahre, wie du bestätigst, dass ein Kunde der Microsoft-Kundenvereinbarung zugestimmt hat. Dies kann erforderlich sein, um Microsoft-Produkte und -Dienste für Kunden zu bestellen.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Kunde, Kunden, Zustimmung, MCA, Microsoft-Kundenvereinbarung, Vorlagen für Kundenvereinbarungen
 ms.localizationpriority: high
-ms.openlocfilehash: 0d6d7b20aa4b6d7c5c56d3669b8f6bd8a3bda7bb
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 2223a8e05a9df4c2d6ac377fc6f6b5a06944adc9
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340141"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123325"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung
 
@@ -35,27 +35,25 @@ ms.locfileid: "78340141"
 >[!NOTE]
 >Ab dem 31. Januar 2020 müssen alle Kunden (vorhandene Kunden und Neukunden) die neue Microsoft-Kundenvereinbarung signieren. Weitere Informationen finden Sie unter [Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung](confirm-customer-agreement.md).
 
-Als Partner müssen Sie die Zustimmung Ihres Kunden zur Microsoft-Kundenvereinbarung einholen, bevor Sie Microsoft-Produkte und -Dienste für diesen Kunden bestellen können. Um Partner bei der Einhaltung von Complianceanforderungen zu unterstützen, bittet Microsoft die Partner, die Zustimmung durch Bereitstellung der folgenden Details zu der Person, die dem Vertrag zugestimmt hat, zu bestätigen: 
+Als Partner müssen Sie die Zustimmung Ihres Kunden zur Microsoft-Kundenvereinbarung einholen, bevor Sie Microsoft-Produkte und -Dienste für diesen Kunden bestellen können. Um Partner bei der Einhaltung von Complianceanforderungen zu unterstützen, bittet Microsoft die Partner, die Zustimmung durch Bereitstellung der folgenden Details zu der Person, die dem Vertrag zugestimmt hat, zu bestätigen:
 
--   Vorname
+- Vorname
 
--   Nachname
+- Nachname
 
--   E-Mail-Adresse
+- E-Mail-Adresse
 
--   Telefonnummer (optional)
+- Telefonnummer (optional)
 
--   Datum der Zustimmung
-
-Weitere Informationen finden Sie in den [Häufig gestellten Fragen](https://docs.microsoft.com/partner-center/confirm-consent-faq) zur Bestätigung der Kundenzustimmung zur Microsoft-Kundenvereinbarung.
+- Datum der Zustimmung
 
 Direct-Bill-Partner und indirekte Anbieter müssen die Zustimmung des Kunden zur Microsoft-Kundenvereinbarung bestätigen, wenn sie über Partner Center oder die Partner Center-API Transaktionen ausführen. Die Bestätigung ist *obligatorisch*.
 
 Wenn für einen bestimmten Kunden keine Bestätigung bereitgestellt wird:
 
--   Können Sie für diesen Kunden keine neuen Aufträge erstellen.
+-    Können Sie für diesen Kunden keine neuen Aufträge erstellen.
 
--   Können Sie die Anzahl der Arbeitsplätze vorhandener arbeitsplatzbasierter Abonnements für diesen Kunden nicht ändern.
+-    Können Sie die Anzahl der Arbeitsplätze vorhandener arbeitsplatzbasierter Abonnements für diesen Kunden nicht ändern.
 
 Die Bestätigung der Zustimmung des Kunden kann über das Partner Center oder die Partner Center-API erfolgen. Um dies über die Partner Center-API zu erledigen, lesen Sie die folgenden Themen: 
 

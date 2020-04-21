@@ -31,7 +31,7 @@ Bevor Sie CSP-Angebote im Auftrag eines Kunden bestellen können, muss der Kunde
 
 Suchen Sie den Standort Ihres Unternehmens in einer der folgenden Listen, um zu ermitteln, wo Sie CSP-Angebote verkaufen können. Sie benötigen eine aktive Microsoft Partner Network (MPN)-ID für den Standort, an dem Sie verkaufen möchten.  
 
-## <a name="for-unsupported-countries"></a>Für nicht unterstützte Länder
+## <a name="for-unsupported-countries"></a>Für nicht unterstützte Länder/Regionen
 
 Wenn Ihr Land nicht unterstützt wird, richten Sie die CSP-Kundenbeziehung mit der Office-Administrator-URL ein. 
 

@@ -9,10 +9,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.openlocfilehash: 06167a667152ddaf65702547783df93726f6cadc
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "78340102"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Vorbereiten der Umstellung von Partner Membership Center (PMC) auf Partner Center
@@ -115,7 +115,7 @@ Nicht notwendigerweise, aber der primäre Kontakt muss eine Person sein, die aut
 
 **Kann Microsoft meine MPN-Mitgliedschaft für mich migrieren?**
 
-Nein. Microsoft kann Ihnen nicht dabei helfen, Ihr Mitgliedschaftskonto in Partner Center zu verschieben. Sie müssen Ihr Konto verschieben, indem Sie sich mit Ihrem Geschäftskonto (Anmeldeinformationen) bei PMC anmelden, um den Migrationsvorgang zu starten. Nachdem Sie die Schritte zum Verschieben Ihres Kontos abgeschlossen haben, können Sie damit beginnen, Ihre Mitgliedschaft zu verwalten und Ihrem Team Benutzerrollen und Berechtigungen zuzuweisen, damit die Teammitglieder auf Vorteile zugreifen und die Mitgliedschaft verwalten können. Microsoft migriert automatisch die aktuellen Kompetenzen, Vorteile, Standortinformationen, Bank-/Steuerungsinformationen für Incentives und MCP-Zuordnungen, einschließlich des Zugriffs auf die Partner-Universität.
+Nein Microsoft kann Ihnen nicht dabei helfen, Ihr Mitgliedschaftskonto in Partner Center zu verschieben. Sie müssen Ihr Konto verschieben, indem Sie sich mit Ihrem Geschäftskonto (Anmeldeinformationen) bei PMC anmelden, um den Migrationsvorgang zu starten. Nachdem Sie die Schritte zum Verschieben Ihres Kontos abgeschlossen haben, können Sie damit beginnen, Ihre Mitgliedschaft zu verwalten und Ihrem Team Benutzerrollen und Berechtigungen zuzuweisen, damit die Teammitglieder auf Vorteile zugreifen und die Mitgliedschaft verwalten können. Microsoft migriert automatisch die aktuellen Kompetenzen, Vorteile, Standortinformationen, Bank-/Steuerungsinformationen für Incentives und MCP-Zuordnungen, einschließlich des Zugriffs auf die Partner-Universität.
 
 Microsoft migriert automatisch die aktuellen Kompetenzen, Vorteile, Standortinformationen, Bank-/Steuerungsinformationen für Incentives und MCP-Zuordnungen, einschließlich des Zugriffs auf Partner University.
 

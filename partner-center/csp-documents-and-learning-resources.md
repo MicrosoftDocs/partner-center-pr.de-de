@@ -11,10 +11,10 @@ ms.author: jasonh
 keywords: CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote
 ms.localizationpriority: high
 ms.openlocfilehash: 8df1879901d44e6c74058dd45d99d00dab2f4bb2
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80390009"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Programmleitfaden, Vereinbarungen, Preislisten und Angebote zu Cloud Solution Provider

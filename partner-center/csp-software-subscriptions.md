@@ -11,10 +11,10 @@ keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Azure RI, 
 ms.localizationpriority: high
 ms.custom: seodec18
 ms.openlocfilehash: 7cce25d5f16f5bd0f55169cdc9d516a69717d31a
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80389989"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>Verkaufen von Softwareabonnements über CSP
@@ -25,7 +25,7 @@ ms.locfileid: "80389989"
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Globaler Administrator
 
 Durch Azure-Reservierungen und Serverabonnements können Partner im CSP-Programm die schnell wachsende Kundennachfrage nach kostengünstigeren Lösungen zur Unterstützung höchst vorhersehbarer, persistenter Cloudworkloads erfüllen. 
@@ -48,7 +48,7 @@ Der Azure-Hybridvorteil hilft Ihnen, mehr Nutzen aus Ihren Windows Server-Lizenz
 > | Antarktis     | Guernsey     | Saint Barthélemy   |
 > | Antigua und Barbuda       | Guinea     | St. Lucia   |
 > | Aruba       | Guinea-Bissau     | Saint Martin   |
-> | Aserbeidschan       | Guyana     | St. Pierre und Miquelon   |
+> | Aserbaidschan       | Guyana     | St. Pierre und Miquelon   |
 > | Benin     | Haiti       | St. Vincent und die Grenadinen     |
 > | Bhutan     | Heard und McDonaldinseln       | Samoa     |
 > | Bonaire     | Isle of Man     | San Marino     |

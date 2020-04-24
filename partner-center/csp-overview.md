@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner im CSP, direkte Partner, direkter CSP-Partner, indirekter CSP-Händler, direkter CSP, indirekter CSP, direktes Modell, indirektes Modell, indirekter Händler, indirekter Anbieter, Anbieter, Verteiler, Cloud Solution Provider-Programm
 ms.localizationpriority: high
 ms.openlocfilehash: 92e2bda54427cb0323df20b0dc1195791e1292ae
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/21/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80114922"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>Cloud Solution Provider-Programm – beliebte Cloudlösungen verkaufen 

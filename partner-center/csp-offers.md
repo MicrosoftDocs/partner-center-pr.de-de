@@ -10,21 +10,21 @@ ms.author: labrenne
 keywords: Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Produkt hinzufügen, an Kunden verkaufen, Partnerangebote, CSP-Angebote, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner, in CSP verkaufen, Azure RI, Azure Reserved Virtual Machine Instances, Azure-Reservierungen, Onlinedienste, Abonnementsoftware, AHUB, SQL Server in Azure, Windows Server in Azure, Kundenabonnements
 ms.localizationpriority: high
 ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722536"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>Angebote für Partner im Cloud Solution Provider-Programm
 
-**Gilt für**
+**Zielgruppe**
 
 - CSP-Partner
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Globaler Administrator
 - Vertriebsbeauftragter
 
@@ -112,6 +112,6 @@ Weitere Informationen zur Funktionsweise des Abrechnungsprozesses findest du unt
 
 Informationen zum Erwerb im Rahmen des Azure-Plans findest du unter [Erwerb des Azure-Plans](purchase-azure-plan.md).
 
-## <a name="see-also"></a>Weitere Informationen
+## <a name="see-also"></a>Siehe auch
 
 [Übersicht über den kommerziellen CSP-Marketplace](csp-commercial-marketplace-overview.md)

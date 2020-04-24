@@ -11,10 +11,10 @@ ms.author: jasonh
 ms.localizationpriority: high
 ms.custom: seodec18
 ms.openlocfilehash: 35548c12d80c0501c38f8a75f5473f7c36b30511
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80390799"
 ---
 # <a name="manage-your-partner-center-account"></a>Verwalten des Partner Center-Kontos
@@ -45,7 +45,7 @@ Konten werden im Partner Center derzeit in zwei verschiedenen Abschnitten verwal
 >[!NOTE]
 >Um auf **Partnereinstellungen** oder **Entwicklereinstellungen** zuzugreifen, musst du dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) anmelden. Wähle dann die Option **Einstellungen** (das Zahnradsymbol) in der oberen rechten Ecke des Bildschirms aus. Anschließend kannst du entweder **Partnereinstellungen** oder **Entwicklereinstellungen** aus dem Dropdownmenü auswählen.
 
-![Kontoeinstellungen](images/accountsettings/account1.png)
+![Konteneinstellungen](images/accountsettings/account1.png)
 
 Partner können die Option zum Verwalten von **Partnereinstellungen** und/oder **Entwicklereinstellungen** sehen. Dies hängt davon ab, ob sich ihr Unternehmen für diese Programme registriert hat. Die Einstellungsoption ist nur verfügbar, wenn sich das Unternehmen für mindestens ein Programm registriert hat, das mit dieser Einstellung verknüpft ist.
 
@@ -107,6 +107,6 @@ Wenn du bei Programmen wie dem MPN-Programm oder dem CSP-Programm (Cloud Solutio
 |Wenn ein Angestellter sein Passwort vergisst und Sie es zurücksetzen müssen  |[Zurücksetzen eines Benutzerkennworts](reset-a-user-password.md)|
 |Registrieren als Control Panel-Anbieter in Partner Center|[Registrieren als Control Panel-Anbieter in Partner Center](enroll-as-cpv.md)|
 |Zuordnen des Microsoft Learn-Kontos im Partner Center|[Zuordnen des Microsoft Learn-Kontos im Partner Center](ms-learn-associate.md)|
-|Sicherstellen, dass Ihr Unternehmen so vermarktet wird, dass es von Kunden gefunden wird   |[Erstellen eines Marketingprofils](create-a-marketing-profile.md)|
+|Sicherstellen, dass Ihr Unternehmen so vermarktet wird, dass es von Kunden gefunden wird   |[Erstellen eines Unternehmensprofils](create-a-marketing-profile.md)|
 |Organisieren des Katalogs, sodass die wichtigsten Produkte am Anfang der Liste stehen   |[Anpassen des Katalogs](customize-the-catalog.md)|
 |Regelmäßige Aktualisierung mit aktuellen Preisen und Angeboten   |[Preise und Angebote](pricing-and-offers.md)|

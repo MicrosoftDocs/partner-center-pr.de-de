@@ -10,10 +10,10 @@ ms.author: v-mihope
 keywords: Kunde, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Microsoft-Kundenvereinbarung, Vorlagen für Kundenvereinbarungen, Zustimmung bestätigen
 ms.localizationpriority: high
 ms.openlocfilehash: 12e458c1546d31400407c8bf42ce09333cfec900
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/04/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "77013298"
 ---
 # <a name="attest-customer-acceptance-of-the-microsoft-customer-agreement"></a>Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung

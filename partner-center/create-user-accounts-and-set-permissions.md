@@ -11,10 +11,10 @@ ms.author: jasonh
 Keywords: Rollen, Berechtigungen, Benutzer hinzufügen, Rolle zuweisen, Administrator, Agent
 ms.localizationpriority: high
 ms.openlocfilehash: 98dce89c0eab132ec0f247d25632617d8dd503cc
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80389649"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen
@@ -28,7 +28,7 @@ ms.locfileid: "80389649"
 Erstellen Sie Benutzerkonten für Mitarbeiter, die Zugriff auf das Partner Center benötigen. Diese Aufgaben müssen von einem Administrator für die Benutzerverwaltung, Kontoadministrator oder vom globalen Administrator durchgeführt werden. Dem Benutzer, der diese Aufgaben ausführt, müssen auch die AAD-Rollen (Azure Active Directory) „Benutzeradministrator“ und „Globaler Administrator“ zugewiesen werden. Weitere Informationen zu AAD-Rollen findest du unter [Berechtigungen für Administratorrollen in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles).
 
 
-## <a name="add-a-new-user"></a>Hinzufügen eines neuen Benutzers
+## <a name="add-a-new-user"></a>Neuen Benutzer hinzufügen
 
 1. Klicken Sie im Partner Center rechts oben auf das Symbol **Einstellungen** und dann auf **Benutzerverwaltung**.
 
@@ -75,7 +75,7 @@ Um im Partner Center arbeiten zu können, muss Ihnen eine Rolle zugewiesen sein.
 - Benutzeradministrator
 
 **CSP-Rollen**:
-- Administratoragent
+- Administrator-Agent
 - Abrechnungsadministrator
 - Vertriebsbeauftragter
 - Helpdesk-Agent

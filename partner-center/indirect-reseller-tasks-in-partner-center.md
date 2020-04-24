@@ -12,10 +12,10 @@ keywords: Indirekte Vertriebspartner, Händler, indirekte Anbieter, Anbieter, Pa
 ms.localizationpriority: high
 ms.custom: seodec18
 ms.openlocfilehash: ff486a7d6f23ce13fddfcccb29ce4389ca44d3cb
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80390919"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Anbietern im Programm für Cloud-Lösungsanbieter
@@ -23,7 +23,7 @@ ms.locfileid: "80390919"
 **Geeignete Rollen**
 -   Globaler Administrator
 -   Benutzeradministrator
--   Administratoragent
+-   Administrator-Agent
 -   Vertriebsbeauftragter
 
 Die rasant wachsende Nachfrage nach cloudbasierten Lösungen und Diensten bietet Microsoft-Partnern aller Größen zahlreiche Chancen für den Aufbau eines rentablen Cloudlösungsgeschäfts. Partner, die auf den Markt gehen, aber nicht mehrere Anbieter verwalten möchten oder die über keine Infrastruktur für das End-to-End-Kundenbeziehungsmanagement verfügen, können sich beim Microsoft-Programm für Cloud-Lösungsanbieter (Cloud Solution Provider, CSP) als indirekter Wiederverkäufer registrieren.
@@ -47,7 +47,7 @@ Weitere Informationen zu den Anforderungen, die ein indirekter Wiederverkäufer 
 > [!NOTE]  
 > Wenn Sie bereits in CSP registriert sind, müssen Sie möglicherweise nur Kontaktinformationen für den Kundensupport angeben, um ein Vertriebspartnerkonto im Partner Center zu erstellen. 
 
-### <a name="before-you-begin"></a>Vorbemerkungen
+### <a name="before-you-begin"></a>Vorbereitung
 
 Wenn du noch keine Erfahrung mit CSP hast, musst du dich als indirekter Wiederverkäufer beim Programm registrieren und ein Konto im Partner Center erstellen. Dazu musst du bei der Registrierung die folgenden Informationen angeben. Es empfiehlt sich unter Umständen, vor Beginn des Vorgangs folgende Angaben zu sammeln:
 
@@ -63,7 +63,7 @@ Wir benötigen diese Informationen, um sicherzustellen, dass Ihre Organisation �
  
 Die Überprüfung deiner Angaben kann mehrere Tage dauern. Wir informieren deinen Hauptansprechpartner per E-Mail, wenn unsere Überprüfung abgeschlossen ist.
 
-### <a name="get-started"></a>Beginnen
+### <a name="get-started"></a>Erste Schritte
 
 1.  Starten Sie den Registrierungsprozess [hier](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller).
 
@@ -93,11 +93,11 @@ Der Hauptansprechpartner muss eine Person in Ihrer Organisation sein, die wir im
 
 9.  Wenn dein Partner Center-Konto einsatzbereit ist, vergewissere dich, ob du der Administrator-Agent-Gruppe hinzugefügt wurdest. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
 
-a.  Wählen Sie in **Partner Center** das Symbol **Einstellungen** und anschließend **Benutzerverwaltung** aus.  
+ein.  Wählen Sie in **Partner Center** das Symbol **Einstellungen** und anschließend **Benutzerverwaltung** aus.  
 
 b.  Wähle deinen Namen aus der Benutzerliste und dann **Administrator-Agent** aus, sofern diese Option nicht bereits ausgewählt ist. Wählen Sie **Aktualisieren** aus.   
 
-## <a name="add-a-new-user"></a>Hinzufügen eines neuen Benutzers
+## <a name="add-a-new-user"></a>Neuen Benutzer hinzufügen
 
 1. Wählen Sie in **Partner Center** das **Einstellungssymbol** und dann **Benutzerverwaltung** aus.
 
@@ -199,10 +199,10 @@ Du kannst den Text in der E-Mail bearbeiten. Dabei muss jedoch unbedingt der per
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-[Verwalten Ihres Partner Center-Kontos](partner-center-account-setup.md)
+[Verwalten des Partner Center-Kontos](partner-center-account-setup.md)
 
 [Verwalten von Kunden und deren Abonnements](customer-accounts.md)
 
-[Erstellen eines Marketingprofils](create-a-marketing-profile.md)
+[Erstellen eines Unternehmensprofils](create-a-marketing-profile.md)
 
 [Verwalten Ihrer Anreize in Partner Center](understand-incentive-payouts.md)

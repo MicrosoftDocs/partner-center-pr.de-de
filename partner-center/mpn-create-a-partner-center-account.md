@@ -9,10 +9,10 @@ author: jasonwhowell
 ms.author: jasonh
 ms.localizationpriority: high
 ms.openlocfilehash: 0b36ccb8b1cfea7945841d3539d7aef792a14304
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80390869"
 ---
 # <a name="create-a-partner-center-account"></a>Erstellen eines Partner Center-Kontos
@@ -20,11 +20,11 @@ ms.locfileid: "80390869"
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Administratoragent
+- Administrator-Agent
 
 Damit Sie ein Konto in Partner Center erstellen oder sich für ein Partnerprogramm registrieren können, muss Ihr Unternehmen Mitglied im Microsoft Partner Network sein. Falls Sie noch kein Mitglied des Netzwerks sind, können Sie [jetzt beitreten](https://partner.microsoft.com/commercial#). Nachdem Sie ein Partner Center-Konto erstellt haben, schauen Sie sich dieses kurze Video an: [Entdecken Ihres Dashboards](https://vimeo.com/290338211).
 
-## <a name="before-you-begin"></a>Vorbemerkungen
+## <a name="before-you-begin"></a>Vorbereitung
 
 Zum Erstellen eines Kontos in Partner Center müssen Sie die folgenden Informationen zur Hand haben. Es empfiehlt sich unter Umständen, vor Beginn des Vorgangs folgende Angaben zu sammeln:
 
@@ -61,7 +61,7 @@ Wir überprüfen diese Informationen im Rahmen des Kontoerstellungsprozesses.
 
 5.  Vergewissern Sie sich, dass Sie der Administrator-Agent-Gruppe hinzugefügt wurden. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
 
-    a. Wählen Sie im Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home**) das Symbol **Einstellungen** und anschließend **Benutzerverwaltung** aus.  
+    ein. Wählen Sie im Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home**) das Symbol **Einstellungen** und anschließend **Benutzerverwaltung** aus.  
 
     b. Wähle deinen Namen aus der Benutzerliste und dann **Administrator-Agent** aus, sofern diese Option nicht bereits ausgewählt ist. Wählen Sie **Aktualisieren** aus.  
 

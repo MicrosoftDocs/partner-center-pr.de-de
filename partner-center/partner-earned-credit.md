@@ -10,10 +10,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.openlocfilehash: e9456ae3a154c8040443fb38951b30efd9f39db8
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "75004239"
 ---
 # <a name="partner-earned-credit---overview"></a>Vom Partner erworbenes Guthaben – Übersicht
@@ -21,7 +21,7 @@ ms.locfileid: "75004239"
 **Geeignete Rollen**
 -   Globaler Administrator
 -   Benutzeradministrator
--   Administratoragent
+-   Administrator-Agent
 -   Abrechnungsadministrator
 -   Vertriebsbeauftragter
 

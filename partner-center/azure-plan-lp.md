@@ -11,10 +11,10 @@ Keywords: Azure, Azure-Plan, Abonnements erwerben, Abonnements
 robots: ''
 ms.localizationpriority: High
 ms.openlocfilehash: 7be0e8cd97a66742b1c2bfadbdb5edceb8a8d9c4
-ms.sourcegitcommit: 7de04911b790c603625ed51cc6f8ec80ebefae2d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/23/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "76549665"
 ---
 # <a name="introduction-azure-plan"></a>Einführung: Azure-Plan

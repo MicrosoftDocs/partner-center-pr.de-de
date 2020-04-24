@@ -11,10 +11,10 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.openlocfilehash: 776fea7eea91e15f872021356562af05e89f1fcf
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "75004999"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Wie von Partnern erworbene Guthaben berechnet und bezahlt werden
@@ -22,7 +22,7 @@ ms.locfileid: "75004999"
 **Geeignete Rollen**
 -   Globaler Administrator
 -   Benutzeradministrator
--   Administratoragent
+-   Administrator-Agent
 -   Abrechnungsadministrator
 -   Vertriebsbeauftragter
 

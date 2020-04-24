@@ -10,10 +10,10 @@ ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
 ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/27/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "77672800"
 ---
 # <a name="partner-security-requirements"></a>Sicherheitsanforderungen für Partner

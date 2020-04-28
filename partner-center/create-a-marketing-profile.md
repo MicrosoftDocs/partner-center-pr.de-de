@@ -11,10 +11,10 @@ ms.author: labrenne
 keywords: Pinpoint, Empfehlungen, Vertriebskontakte, C2PC, Unternehmensprofil, Unternehmen vermarkten, Partner finden, Lösungsanbieter finden, Unternehmensprofil, Marketingprofil
 ms.localizationpriority: high
 ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722530"
 ---
 <!--
@@ -28,7 +28,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 # <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Erstellen Sie ein Unternehmensprofil, um Vertriebsleads von Microsoft zu erhalten
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
 - Partner im Microsoft Partner Network
@@ -61,13 +61,13 @@ Erstellen Sie zunächst ein Unternehmensprofil, um von diesen Leads zu profitier
 
 Erstellen Sie Profile für jede Region, in der Sie berechtigt sind, Geschäfte zu tätigen. 
 
-1. Wählen Sie im Menü **Partner Center** die Optionen **Empfehlungen** &gt; **Unternehmensprofil** &gt; Land/Region auswählen > **[Unternehmensprofil erstellen](https://partnercenter.microsoft.com/pcv/publishing)** aus.
+1. Wählen Sie im Menü **Partner Center** die Optionen **Empfehlungen** &gt; **Unternehmensprofile** &gt; Land/Region auswählen > **[Unternehmensprofil erstellen](https://partnercenter.microsoft.com/pcv/publishing)** aus.
 
 2. Wählen Sie auf der Seite **Unternehmensprofil erstellen** eine Region aus, und geben Sie Ihre Profilinformationen ein.
    > [!NOTE]  
    >  Partner Center unterstützt zwar mehrere Sprachen, einige Elemente wie die Beschreibung und frei formulierte Tags können jedoch ggf. Text in anderen Sprachen enthalten, wie in diesem Thema angegeben.
 
-### <a href="" id="partner_info"></a>Partnerinformationen
+### <a name="partner-information"></a><a href="" id="partner_info"></a>Partnerinformationen
 
 Stellen Sie Ihr Unternehmen vor, indem Sie ein Logo, eine Kurzbeschreibung sowie einen Link zu Ihrer Website hinzufügen. 
 
@@ -84,7 +84,7 @@ Die Beschreibung kann bis zu 2.500 Zeichen lang sein. Tipps für eine aussagekr�
 -  **Verweisen Sie nicht auf ein anderes Microsoft-Partnerunternehmen nach Namen**, es sei denn, es ist eine Tochtergesellschaft oder ist Ihrem Unternehmens aus irgendeinem anderen Grund zugeordnet, oder Sie haben eine aktuelle Vereinbarung mit diesem Partnerunternehmen, gemeinsame Arbeitschancen partnerschaftlich zu nutzen oder einander dabei zu begünstigen.
 -  Ziehen Sie **für Regionen mit mehreren Sprachen** die Einbindung von Text in mehreren Sprachen in die Beschreibung in Erwägung.
 
-#### <a href="" id="linkedin"></a> LinkedIn-Unternehmensseite: mehr Möglichkeiten für Kundenbeziehungen
+#### <a name="linkedin-company-page-more-ways-to-connect"></a><a href="" id="linkedin"></a> LinkedIn-Unternehmensseite: mehr Möglichkeiten für Kundenbeziehungen
 
 Fügen Sie Ihre LinkedIn-Unternehmensseite hinzu, um die Beziehungen mit potenziellen Kunden zu stärken. 
 
@@ -107,7 +107,7 @@ Andere bei der Suche verwendete Tags:
 -  **Kompetenz-Tags** sind eine Auszeichnung, die sich ein Unternehmen für seine Kenntnisse verdient hat.
 -  **Unterstützungs-Tags** werden erzielt, wenn Microsoft oder Ihre Kunden, die mit Ihnen gearbeitet haben, Ihre Arbeit unterstützen.
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Microsoft die Unterstützung meiner Fachgebiete erlauben
+#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Microsoft die Unterstützung meiner Fachgebiete erlauben
 
 Es wird empfohlen, diese Einstellung aktiviert zu lassen. 
 
@@ -117,13 +117,13 @@ Wenn es Produkte gibt, für die du Leistungen erbringst, die du lieber nicht in 
 
 ### <a name="customer-preferences"></a>Kundenpräferenzen
 
-#### <a href="" id="#target_size"></a>Zielgröße
+#### <a name="target-size"></a><a href="" id="#target_size"></a>Zielgröße
 
 Du kannst Empfehlungen von Unternehmen ablehnen, die nicht deiner Kundenzielgröße entsprechen.
 
 Durch die Ablehnung bleibt dir mehr Zeit für die Zusammenarbeit mit Unternehmen, die deiner Zielgruppe angehören.
 
-#### <a href="" id="#locations"></a> Standorte
+#### <a name="locations"></a><a href="" id="#locations"></a> Standorte
 
 Sie können pro Region bis zu 5 der wichtigsten Standorte Ihrer Organisation hinzufügen. Diese Standorte werden angezeigt, wenn Kunden basierend auf der geografischen Nähe nach Partnern suchen.
 
@@ -148,5 +148,5 @@ Nachdem Sie Ihr Profil veröffentlicht haben, werden Aktualisierungen in Suchanf
 - **Verdienen Sie sich Kompetenz-Tags** über Microsoft, um Ihr Sachverständnis in Bezug auf unsere Produkte zu demonstrieren.
 - **Verdienen Sie sich Unterstützungs-Tags** von Kunden, die Ihre Arbeit zu schätzen wissen.
 
-## <a name="related-topics"></a>Verwandte Themen
+## <a name="related-topics"></a>Zugehörige Themen
 [Reaktion auf Empfehlungen](responding-to-referrals.md)

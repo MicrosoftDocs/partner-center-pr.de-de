@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
-ms.openlocfilehash: 5c68d86b770286ef916f68eefd93e5648d35999a
-ms.sourcegitcommit: 3668e517902255c59f0311b02d58c7eb527dcdb4
+ms.openlocfilehash: 037194527347aae90f261ce5d417b5ba0e26addf
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "80529789"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "81462209"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Festlegen von Multi-Factor Authentication (MFA) für Ihren Partnermandanten
 
@@ -37,15 +37,15 @@ ms.locfileid: "80529789"
 Diese Funktion soll Partnern helfen, ihren Zugriff auf Kundenressourcen vor Kompromittierungen von Anmeldeinformationen zu schützen.
 Partner müssen die mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für alle Benutzerkonten in ihrem Partnermandanten – einschließlich des Gastbenutzers – erzwingen. Mit diesem Feature werden diese Partnerrollen beauftragt, die MFA-Überprüfung für die folgenden Bereiche durchzuführen:
 
-- [Partner Center-Dashboard](#partner-center-dashboard) (Ziel Q2 CY2020)
-- [Partner Center-API](#partner-center-api) (Ziel Q2 CY2020)
+- [Partner Center Dashboard](#partner-center-dashboard) (Ab 1. Mai 2020)
+- [Partner Center-API](#partner-center-api) (Ab 1. Mai 2020)
 - [Vom Partner delegierte Verwaltung](#partner-delegated-administration)
 
 Stärkere und laufende Sicherheits- und Datenschutzmaßnahmen gehören zu unseren wichtigsten Prioritäten, und wir unterstützen Partner weiterhin dabei, ihre Kunden und Mandanten zu schützen. Alle Partner, die am Cloud Solution Provider-Programm (CSP) teilnehmen, Control Panel Vendors (CPVs) und Berater sollten die [Sicherheitsanforderungen des Partners](partner-security-requirements.md) implementieren, um konform zu bleiben.
 
 Microsoft hat mit der Aktivierung zusätzlicher Sicherheitsmaßnahmen für Partnermandanten begonnen. Mithilfe dieser Aktivierung können Partner ihre Mandanten und deren Kunden durch das Festlegen von MFA-Überprüfung (Multi-Factor Authentication) schützen, um einen nicht autorisierten Zugriff zu verhindern.
 
-Wir haben die Aktivierung für vom Partner delegierte Verwaltungsfunktionen bei allen Partnermandanten erfolgreich abgeschlossen. Zur weiteren Unterstützung von Partnern und Kunden werden wir ab Q2 CY2020 mit der Aktivierung für Partner Center-Transaktionen in CSP beginnen und so Partnern dabei helfen, ihre Unternehmen und Kunden vor Vorfällen im Zusammenhang mit Identitätsdiebstahl zu schützen.
+Wir haben die Aktivierung für vom Partner delegierte Verwaltungsfunktionen bei allen Partnermandanten erfolgreich abgeschlossen. Zur weiteren Unterstützung von Partnern und Kunden werden wir ab 1. Mai 2020 mit der Aktivierung für Partner Center-Transaktionen in CSP beginnen und so Partnern dabei helfen, ihre Unternehmen und Kunden vor Vorfällen im Zusammenhang mit Identitätsdiebstahl zu schützen.
 
 Diese Dokumentation liefert Partnern detaillierte Informationen und Anleitungen zur Aktivierung von Sicherheitsmaßnahmen.
 

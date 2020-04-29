@@ -12,12 +12,12 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 02/07/2020
-  ms.openlocfilehash: 004c3a5b03685f41a7a1e76b734b71bccc50ca7b
-  ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+  ms.openlocfilehash: 483c63fdbae805f96236481870e9fc8e801856e3
+  ms.sourcegitcommit: 8359f618426e341180b0380367dd9d16dfd6623c
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 04/23/2020
-  ms.locfileid: "78240217"
+  ms.lasthandoff: 04/29/2020
+  ms.locfileid: "82255479"
 highlightedContent:
   items:
   - title: Anmelden, um die neuesten Ankündigungen anzuzeigen
@@ -34,10 +34,10 @@ highlightedContent:
     url: csp-commercial-marketplace-overview.md
   - title: ISV-Partner – Erstellen und Veröffentlichen von Angeboten in Marketplace, AppSource und im CSP-Reseller-Kanal
     itemType: whats-new
-    url: https://docs.microsoft.com/en-us/azure/marketplace/
-  - title: Partner Center-Einblicke
+    url: https://docs.microsoft.com/azure/marketplace/
+  - title: Partner von Microsoft
     itemType: overview
-    url: partner-center-insights.md
+    url: mpn-overview.md
   - title: Neue Commerce-Oberfläche in Partner Center – Azure-Plan
     itemType: whats-new
     url: azure-plan-lp.md

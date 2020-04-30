@@ -1,7 +1,7 @@
 ---
 title: Kaufen von Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden | Partner Center
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie, wie Sie Azure-Reservierungen im Namen Ihrer Kunden im Partner Center erwerben oder erwerben.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure, Reservierungen, verwalten, Abrechnung, kaufen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1ed6e84a931c609fefb70dbc1081309b244d8e63
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 7fc71e05afe9f8926c0b09df9055dc263b89055b
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722005"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205668"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Kaufen von Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden im Partner Center 
 
@@ -27,17 +27,17 @@ ms.locfileid: "74722005"
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Globaler Administrator
 - Helpdesk-Agent
 - Vertriebsbeauftragter
 - Benutzerverwaltungsadministrator
 
-## <a name="before-you-begin"></a>Vorbemerkungen
+## <a name="before-you-begin"></a>Voraussetzungen
 
-Lesen Sie die folgenden wichtigen Informationen, bevor Sie Azure-Reservierungen im Auftrag Ihrer Kunden kaufen.
+Lesen Sie die folgenden wichtigen Informationen, bevor Sie Azure-Reservierungen im Auftrag Ihrer Kunden kaufen. (Möchten Sie, dass Kunden ihre eigenen Azure-Reservierungen von einem früheren Azure-Abonnement erwerben können, das Sie für Sie erworben haben? Weitere Informationen finden Sie unter [erteilen von Kunden Berechtigungen zum erwerben ihrer eigenen Azure-Reservierungen] [Give-Customers-Berechtigung. MD # Give-Customers-Berechtigung-to-buy-your-own-Azure-Reservations].)
 
-- Wenn Ihr Kunde den neuen Microsoft-Kundenvertrag bei der [Bestätigung der kundenannahme des Microsoft-Kunden Vertrags bestätigt](confirm-customer-agreement.md), müssen Sie Azure-Reservierungen im Azure-Plan erwerben. Weitere Informationen finden Sie unter [Purchase Azure-Plan](purchase-azure-plan.md).
+- Wenn Ihr Kunde den neuen Microsoft-Kundenvertrag signiert hat (siehe [bestätigen der kundenannahme des Microsoft-Kunden Vertrags](confirm-customer-agreement.md)), müssen Sie Azure-Reservierungen im Azure-Plan erwerben. Weitere Informationen finden Sie unter [Purchase Azure-Plan](purchase-azure-plan.md).
 
 - Kunden müssen bereits über ein aktives Azure-Abonnement verfügen, bevor Sie Reservierungen in deren Auftrag kaufen können.
   
@@ -47,9 +47,9 @@ Lesen Sie die folgenden wichtigen Informationen, bevor Sie Azure-Reservierungen 
 
 - Vertriebs- und Helpdeskmitarbeiter müssen expliziten Zugriff auf das Azure-Abonnement erhalten, damit sie es im Azure-Portal kaufen und verwalten können und im Auftrag des Kunden Supportanfragen stellen können, einschließlich Umtausch und Rückerstattungen.  
 
-- Wenn Sie ein indirekter Anbieter sind und Azure-Reservierungen über den Azure-Portal erwerben, wird der Partner on Record (indirekter Reseller) von dem Azure CSP-Abonnement geerbt, das Sie ausgewählt haben.
+- Wenn Sie ein indirekter Anbieter sind und Azure-Reservierungen über den Azure-Portal erwerben, wird der Partner of Record (indirekter Reseller) vom Azure CSP-Abonnement geerbt, das Sie ausgewählt haben.
 
-- Der Partner von Record für Azure-Reservierungen kann nach dem Kauf nicht geändert werden. Sie können die vorhandene Reservierung stornieren und beim eingetragenen Partner eine neue erwerben.
+- Der Partner von Record für Azure-Reservierungen kann nach dem Kauf nicht geändert werden. Sie können die vorhandene Reservierung Abbrechen und einen neuen mit dem neuen Partner of Record erwerben.
 
 - Wenn ein Kunde ein Azure-Abonnement von Direct oder EA nach CSP übertragen möchte, werden Reservierungen nicht übertragen.
 
@@ -67,10 +67,10 @@ Lesen Sie die folgenden wichtigen Informationen, bevor Sie Azure-Reservierungen 
 > | Antarktis     | Guernsey     | Saint Barthélemy   |
 > | Antigua und Barbuda       | Guinea     | St. Lucia   |
 > | Aruba       | Guinea-Bissau     | Saint Martin   |
-> | Aserbeidschan       | Guyana     | St. Pierre und Miquelon   |
+> | Aserbaidschan       | Guyana     | St. Pierre und Miquelon   |
 > | Benin     | Haiti       | St. Vincent und die Grenadinen     |
 > | Bhutan     | Heard und McDonaldinseln       | Samoa     |
-> | Bonaire     | Isle Man     | San Marino     |
+> | Bonaire     | Isle of Man     | San Marino     |
 > | Bouvetinsel     | Jan Mayen     | São Tomé und Príncipe   |
 > | Britisches Territorium im Indischen Ozean       | Jersey     | Seychellen   |
 > | Britische Jungferninseln     | Kiribati       | Sierra Leone   |
@@ -90,7 +90,7 @@ Lesen Sie die folgenden wichtigen Informationen, bevor Sie Azure-Reservierungen 
 > | Dominica     | Montserrat     | Tonga   |
 > | Äquatorialguinea     | Mosambik     | Turks- und Caicosinseln   |
 > | Eritrea     | Myanmar     | Tuvalu   |
-> | Falklandinseln     | Nauru     | Kleinere Amerikanische Überseeinseln   |
+> | Falklandinseln     | Nauru     | USA Kleinere Amerikanische Überseeinseln   |
 > | Französisch-Guyana     | Neukaledonien     | Vanuatu   |
 > | Französisch-Polynesien     | Niger     | Vatikanstadt   |
 > | Französische Süd- und Antarktisgebiete     | Niue     | Wallis und Futuna   |
@@ -100,7 +100,7 @@ Lesen Sie die folgenden wichtigen Informationen, bevor Sie Azure-Reservierungen 
 
 ## <a name="purchase-azure-reservations"></a>Kaufen von Azure-Reservierungen
 
-Führen Sie die folgenden Schritte aus, um Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden im Partner Center zu kaufen.
+Führen Sie die folgenden Schritte aus, um Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden im Partner Center zu kaufen. (Möchten Sie, dass Kunden ihre eigenen Azure-Reservierungen von einem früheren Azure-Abonnement erwerben können, das Sie für Sie erworben haben? Weitere Informationen finden [Sie unter Erteilen von Kunden Berechtigungen zum erwerben ihrer eigenen Azure-Reservierungen](give-customers-permission.md).)
 
 1. Wählen Sie im Menü „Partner Center” **Kunden** aus.  
 
@@ -110,7 +110,7 @@ Führen Sie die folgenden Schritte aus, um Microsoft Azure-Reservierungen im Auf
 
     a. Wählen Sie in der Liste **Segment** das Marktsegment des Kunden aus.
 
-    b. Wählen Sie **Reservierungen** in der Liste **Typ** für Produkte aus.
+    b. Wählen Sie **Reservierungen** in der Liste **Produkttyp** aus.
 
     c. Wählen Sie in der Liste **Reservierungstyp** den vom Kunden gewünschten Typ der Reservierung aus.
 
@@ -147,15 +147,10 @@ Führen Sie die folgenden Schritte aus, um Microsoft Azure-Reservierungen im Auf
 10. Um die Reservierung des Kunden im Azure-Portal zu verwalten, finden Sie den Kunden auf Ihrer **Kunden** Seite, und klicken Sie dann auf den Pfeil nach unten, um die Zeile des Kunden zu erweitern. Wählen Sie **Microsoft Azure-Verwaltungsportal** aus, um den Datensatz des Kunden im Azure-Portal zu öffnen.
 
 ## <a name="azure-reservations-resources"></a>Ressourcen zu Azure-Reservierungen
-|**Weitere Informationen zu**   |**Bitte lesen**    |
+|**Informationen über**   |**Artikel**    |
 |:-----------------------------|:-----------------|
 |Azure-Reservierungen in CSP (Übersicht)  | [Verkaufen von Microsoft Azure Reserved Instances](azure-reservations.md) |
-|Verwalten von Azure-Reservierungen in Partner Center | [Verwalten von Azure-Reservierungen im Partner Center](azure-reservations-manage.md)
+|Verwalten von Azure-Reservierungen in Partner Center | [Verwalten von Azure-Reservierungen in Partner Center](azure-reservations-manage.md)
 |Bestimmen der richtigen VM-Größe und Überprüfen der VM-Nutzung durch den Kunden   |[Bestimmen der VM-Größe für die maximale Nutzung von Azure-Reservierungen](azure-usage.md)   |
-|Erwerb von Azure-Reservierungen über die Partner Center-API | [Kaufen von Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in der Partner Center-Entwicklerdokumentation
-|
-
- 
-
-
- 
+|Erwerb von Azure-Reservierungen über die Partner Center-API | [Kaufen von Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in der Partner Center-Entwicklerdokumentation   |
+|Erteilen von Kunden Berechtigungen zum erwerben ihrer eigenen Azure-Reservierungen  | [Erteilen Sie Kunden die Berechtigung, ihre eigenen Azure-Reservierungen zu erwerben.](give-customers-permission.md)  |

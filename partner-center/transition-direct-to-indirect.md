@@ -1,7 +1,7 @@
 ---
 title: Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer | Partner Center
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie Sie von einem Direktabrechnungspartner zu einem indirekten Wiederverkäufer werden.
@@ -9,14 +9,14 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Direktabrechnung, Übergang, indirekter Wiederverkäufer
-ms.openlocfilehash: 44823f35d498b8c3d90fcc335682d453f53af977
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: d70ff8ec0b9639ea02ca8e472f720f06aef6f070
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112529"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205688"
 ---
-# <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom direkten Cloud Solution Provider (CSP)-Partner zum indirekten CSP-Wiederverkäufer
+# <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer
 
 **Gilt für:**
 
@@ -42,12 +42,12 @@ Sie können sich unter Verwendung Ihres vorhandenen Direktabrechnungsmandanten b
 4. Wählen Sie „Jetzt registrieren“ aus. Für Ihre Tätigkeit als indirekter Wiederverkäufer wird der gleiche AAD-Mandant verwendet wie für Ihre direkte Tätigkeit.
 
     > [!NOTE]
-    > Informationen, die der Benutzer selbst dann bemerken sollte, wenn diese neue Übergangs Funktion für Partner mit dem Jahrestag von September bis Dezember Jahrestag verfügbar ist. Wenn Ihr Jahrestag nicht zwischen September und Dezember liegt, wird die Funktion momentan nicht angezeigt. Partner mit Jahrestagen nach Dezember 2018 werden benachrichtigt, sobald die Funktion für sie aktiviert wurde.
+    > Diese neue Übergangsfunktion steht anfänglich nur für Partner mit Onboarding-Jahrestagen zwischen September und Dezember zur Verfügung. Wenn Ihr Jahrestag nicht zwischen September und Dezember liegt, wird die Funktion momentan nicht angezeigt. Partner mit Jahrestagen nach Dezember 2018 werden benachrichtigt, sobald die Funktion für sie aktiviert wurde.
 
 5. Melden Sie sich nach der Genehmigung Ihrer Registrierung erneut bei Partner Center an.
 
     > [!NOTE]
-    > Informationen, die der Benutzer auch dann bemerken sollte, wenn die Genehmigung in der Regel sofort erfolgt, kann es bis zu fünf Werktage dauern. Nach der Genehmigung wird eine entsprechende Benachrichtigung an die E-Mail-Adresse gesendet, die Sie im Registrierungsformular als primären Kontakt angegeben haben. Sie können den Registrierungsstatus auch unter **Einstellungen** > **Partner Einstellungen** > **Partner Profil** > Programm Info überprüfen.
+    > Die Genehmigung erfolgt in der Regel sofort, kann aber bis zu fünf Werktage dauern. Nach der Genehmigung wird eine entsprechende Benachrichtigung an die E-Mail-Adresse gesendet, die Sie im Registrierungsformular als primären Kontakt angegeben haben. Sie können den Registrierungsstatus auch unter **Einstellungen** > **Partner Einstellungen** > **Partner Profil** > Programm Info überprüfen.
 
 6. Auf der Seite **Übersicht** wird die Vereinbarung für indirekte Wiederverkäufer angezeigt. Wählen Sie **Zustimmen und fortfahren** aus. Dadurch werden die Funktionen für indirekte Wiederverkäufer aktiviert.
 
@@ -56,7 +56,7 @@ Wenn Sie die Vereinbarung für indirekte Wiederverkäufer akzeptiert haben, weis
 ![Vereinbarung für indirekte Wiederverkäufer](images/direct/direct3.png)
 
 > [!IMPORTANT]
-> Wichtige Informationen, die erforderlich sind, damit Benutzer erfolgreich als indirekter Reseller registriert werden, der die neue Funktion verwendet, gibt es keine Möglichkeit, ein Rollback auf einen direkten Mandanten zu erzwingen. Registrieren Sie sich daher erst nach sorgfältiger Prüfung Ihrer geschäftlichen Anforderungen als indirekter Wiederverkäufer.
+> Nachdem Sie sich mit der neuen Funktion als indirekter Wiederverkäufer registriert haben, steht keine Option für ein Rollback zu einem reinen Direktabrechnungsmandanten zur Verfügung. Registrieren Sie sich daher erst nach sorgfältiger Prüfung Ihrer geschäftlichen Anforderungen als indirekter Wiederverkäufer.
 
 ## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Übergangsphase vom Direktabrechnungspartner zum indirekten Wiederverkäufer
 
@@ -70,7 +70,7 @@ Nach der Registrierung wird in Ihrem linken Navigationsbereich ein Link zu indir
 
 Verschiedene indirekte Anbieter bieten unterschiedliche Unterstützung und Leistungen. Ermitteln Sie daher die Anbieter in Ihrer Umgebung, die Ihre Anforderungen am besten erfüllen. Die meisten Anbieter bieten Folgendes:
 
-- Technische Unterstützung
+- Technische Schulung und Unterstützung
 - Hilfe bei der Vermarktung Ihrer Produkte und Dienste
 - Verwaltung Ihrer Finanzierung und Kreditbedingungen
 
@@ -92,11 +92,11 @@ So erstellen Sie eine Einladung als indirekter Wiederverkäufer:
 
 1. Wählen Sie in Partner Center im linken Navigationsbereich die Option **Indirekte Anbieter** aus. 
 
-2. Wählen Sie **Invite new customers** aus, um einen Kunden zu bitten, eine Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzurichten. Der Anbieter muss über eine Reseller-Beziehung mit Ihrem Kunden verfügen, damit er Bestellungen im Auftrag Ihres Kunden einreichen kann, wenn der Kunde neue Abonnements erwerben oder vorhandene Abonnements neue Lizenzen hinzufügen möchte.
+2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu einer Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzuladen. Der Anbieter muss über eine Reseller-Beziehung mit Ihrem Kunden verfügen, damit er Bestellungen im Auftrag Ihres Kunden einreichen kann, wenn der Kunde neue Abonnements erwerben oder vorhandene Abonnements neue Lizenzen hinzufügen möchte.
 
 3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
 
-4. Bearbeiten Sie den Text in der e-Mail-Nachricht, um zu sagen, was Sie brauchen, aber achten Sie darauf, den Link so zu schließen, dass er den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters verbindet. Wählen Sie anschließend **Fertig** aus.
+4. Bearbeiten Sie den Text in der e-Mail-Nachricht, um zu sagen, was Sie brauchen, aber achten Sie darauf, den Link so zu schließen, dass er den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters verbindet. Wählen Sie dann **Fertig** aus.
 
 5. Nachdem der Kunde dich und deinen Anbieter als Vertriebspartner autorisiert hat, verfügst du über die nötigen Administratorberechtigungen zur Verwaltung seiner Abonnements, Lizenzen und Benutzer, und dein indirekter Anbieter kann Aufträge im Namen des Kunden übermitteln.
 6. Erweitere zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem du neben seinem Namen auf den nach unten weisenden Pfeil klickst. 
@@ -126,7 +126,7 @@ Direktabrechnungskunden und Kunden für den indirekten Wiederverkauf werden unte
 
 **So erkennen Sie Kunden, die Sie als Direktabrechnungspartner gewonnen haben:**
 
-1. Wählen Sie **Kunden** aus.
+1. **Kunden** auswählen
 
 2. Wählen Sie einen Kunden aus, um dessen Details anzuzeigen.
 
@@ -164,7 +164,7 @@ Mit dem Feature für die Reseller-Beziehungs Erweiterung können Sie eine Resell
 - Sobald die Reseller-Beziehung eingerichtet ist, wird der indirekte Anbieter als CSP-Partner für den Kunden auf der Seite Partnerbeziehungen in [M365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/partners) und [Microsoft Store for Business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)angezeigt.
 
     > [!IMPORTANT]
-    > Um Verwirrung und Missverständnisse zu vermeiden, werden Sie von Ihrem Partnervertrag vertraglich dazu verpflichtet, die Zustimmung des Kunden Vertrags zu übermitteln, bevor Sie mit dem Relationship-Erweiterungs Feature eine Reseller-Beziehung zwischen einem vorhandenen Direct Bill Customer und ein indirekter Anbieter.
+    > Um Verwirrung und Missverständnisse zu vermeiden, werden Sie von Ihrem Partnervertrag vertraglich dazu verpflichtet, die Zustimmung des Kunden Vertrags zu übermitteln, bevor Sie mit dem Relationship-Erweiterungs Feature eine Reseller-Beziehung zwischen einem bestehenden Kunden der direkt Rechnung und einem indirekten Anbieter herstellen.
 
 So verwenden Sie dieses Feature für einen vorhandenen Kunden Mandanten:
 
@@ -190,13 +190,13 @@ Ihr indirekter Anbieter kann keine Bestellungen für Ihre bestehenden Kunden der
 
 1. Wählen Sie in Partner Center im linken Navigationsbereich die Option **Indirekte Anbieter** aus.
 
-2. Wählen Sie **Invite new customers** aus, um einen Kunden zu bitten, eine Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzurichten. Der Anbieter muss über eine Reseller-Beziehung mit Ihrem Kunden verfügen, damit er Bestellungen im Auftrag Ihres Kunden einreichen kann, wenn der Kunde neue Abonnements erwerben oder vorhandene Abonnements neue Lizenzen hinzufügen möchte.
+2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu einer Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzuladen. Der Anbieter muss über eine Reseller-Beziehung mit Ihrem Kunden verfügen, damit er Bestellungen im Auftrag Ihres Kunden einreichen kann, wenn der Kunde neue Abonnements erwerben oder vorhandene Abonnements neue Lizenzen hinzufügen möchte.
 
     ![Neue Kunden einladen](images/direct/direct6.png)
 
 3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
 
-4. Bearbeiten Sie den Text in der e-Mail-Nachricht, um zu sagen, was Sie brauchen, aber achten Sie darauf, den Link so zu schließen, dass er den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters verbindet. Wählen Sie anschließend **Fertig** aus.
+4. Bearbeiten Sie den Text in der e-Mail-Nachricht, um zu sagen, was Sie brauchen, aber achten Sie darauf, den Link so zu schließen, dass er den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters verbindet. Wählen Sie dann **Fertig** aus.
 
 5. Nachdem der Kunde dich und deinen Anbieter als Vertriebspartner autorisiert hat, verfügst du über die nötigen Administratorberechtigungen zur Verwaltung seiner Abonnements, Lizenzen und Benutzer, und dein indirekter Anbieter kann Aufträge im Namen des Kunden übermitteln.
 
@@ -232,7 +232,7 @@ Beachten Sie vor der Verwendung des Features Folgendes:
 
 - Der Kunde hat [den Microsoft-Kundenvertrag über den indirekten Anbieter akzeptiert](#microsoft-customer-agreement-acceptance).
 
-### <a name="how-to"></a>Anleitungen
+### <a name="how-to-transition-to-indirect-reseller-status"></a>Vorgehensweise beim Übergang zum indirekten Reseller-Status
 
 Die Funktion ist ein 4-stufiger Prozess, bei dem Folgendes gilt:
 
@@ -244,7 +244,24 @@ Die Funktion ist ein 4-stufiger Prozess, bei dem Folgendes gilt:
 
 - Der Übergangs Partner überprüft, ob die Übertragungs Anforderung beendet ist.
 
+
+
+
+### <a name="transitioning-partner---create-transfer-request"></a>Übergang von Partner-Create Transfer Request
+
+> [!NOTE]
+> Sie können auch die [Partner Center-API/das SDK](https://docs.microsoft.com/partner-center/develop/manage-customers) verwenden, um die vorhandenen Abonnements an Ihren indirekten Anbieter zu übertragen.
+>
+> - [Abrufen der Berechtigung eines Kunden zum Übertragen eines Abonnements](https://docs.microsoft.com/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [Erstellen der Übertragung eines Kunden](https://docs.microsoft.com/partner-center/develop/create-a-transfer)
+> - [Zurückziehen der Übertragung eines Kunden](https://docs.microsoft.com/partner-center/develop/withdraw-a-transfer)
+> - [Akzeptieren der Übertragung eines Kunden](https://docs.microsoft.com/partner-center/develop/accept-a-transfer)
+> - [Ablehnen der Übertragung eines Kunden](https://docs.microsoft.com/partner-center/develop/reject-a-transfer)
+> - [Abrufen der Übertragungen eines Kunden](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)
+> - [Übertragungs Details nach ID erhalten](https://docs.microsoft.com/partner-center/develop/get-transfer-by-id)
+
 **Übergang von Partner-Create Transfer Request**
+
 
 So erstellen Sie eine Übertragungs Anforderung als Übergangs Partner:
 
@@ -274,7 +291,7 @@ So erstellen Sie eine Übertragungs Anforderung als Übergangs Partner:
 
 10. Informieren Sie Ihren indirekten Anbieter darüber, dass Sie eine Abonnement Übertragungs Anforderung für Sie erstellt haben.
 
-**Indirekter Anbieter: Übertragungs Anforderung annehmen**
+### <a name="indirect-provider---accept-transfer-request"></a>Indirekter Anbieter: Übertragungs Anforderung annehmen
 
 So überprüfen und akzeptieren Sie eine Übertragungs Anforderung als indirekten Anbieter:
 
@@ -298,13 +315,13 @@ So überprüfen und akzeptieren Sie eine Übertragungs Anforderung als indirekte
 
 8. Warten Sie, bis die Übertragungs Anforderung beendet wurde.
 
-**Indirekte Überprüfung der Übertragungs Anforderung für den Anbieter ist beendet**
+### <a name="indirect-provider-verify-transfer-request-is-complete"></a>Indirekte Überprüfung der Übertragungs Anforderung für den Anbieter ist beendet
 
 1. Nachdem die Übertragungs Anforderung erfolgreich abgeschlossen wurde, überprüfen Sie, ob die Abonnements unter **Abonnements**angezeigt werden.
 
 2. Informieren Sie den Übergangs Partner.
 
-**Übergangs Partner-Überprüfen der Übertragungs Anforderung ist fertiggestellt.** 
+### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>Übergangs Partner-Überprüfen der Übertragungs Anforderung ist fertiggestellt. 
 
 Der Übergangs Partner sollte folgende Aktionen ausführen:
 

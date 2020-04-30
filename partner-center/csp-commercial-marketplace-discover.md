@@ -9,16 +9,16 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: Abonnements, Marketplace, kommerzieller Marketplace, Drittanbieter, ISV, SaaS-Angebote, Cloud Solution Provider Program, CSP-Programm, CSP-Partner
 ms.localizationpriority: medium
-ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 019bef179951ca65018e8d2a68cad156671e445a
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114942"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "81873188"
 ---
 # <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>Entdecken Sie Angebote und Preise im kommerziellen Marketplace
 
-**Gilt für:**
+**Zielgruppe**
 
 - Partner Center
 - Partner im CSP-Programm
@@ -26,7 +26,7 @@ ms.locfileid: "80114942"
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Administratoragent
+- Administrator-Agent
 
 Wenn unabhängige Software Anbieter (Independent Software Anbieters, ISVs) ein Angebot im kommerziellen Marketplace veröffentlichen möchten, können Sie auch entscheiden, ob das Angebot im CSP-Programm zur Verfügung gestellt werden soll. Wenn Sie sich entscheiden, das Angebot über das CSP-Programm zu verkaufen, sollte CSP-Partner das Angebot im Partner Center Marketplace-Bereich sehen. 
 
@@ -78,9 +78,9 @@ Führen Sie die folgenden Schritte aus, um die neuesten Preis Details zu einem A
 
 1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an, und wählen Sie dann im linken Navigationsmenü **CSP** aus.
 
-2. Wählen Sie **verkaufen**, gefolgt vom **Marketplace**. Eine Liste der Marketplace-Angebote wird angezeigt.
+2. Wählen Sie **verkaufen**aus, gefolgt von den **Preisen und angeboten**.
 
-3. Scrollen Sie nach unten zum **Marketplace** -Abschnitt (unter **Azure-Plan Preise**), und wählen Sie in der oberen rechten Ecke die Option **Export Preisliste** aus. Dadurch wird eine Tabelle mit den neuesten Preisdaten für SaaS und Lizenz basierte Angebote generiert, die von ISV-Verlegern zur Verfügung gestellt werden. Einige Azure-Anwendungs Preise können auch hier angezeigt werden. Diese Informationen werden täglich aktualisiert, sodass Sie die aktuellen Preise beliebig oft überprüfen können.
+3. Scrollen Sie nach unten zum Abschnitt **Marketplace** , wählen Sie einen Standort aus, und laden Sie **Marketplace-Preise**herunter. Dadurch wird eine Tabelle mit den neuesten Preisdaten für SaaS und Lizenz basierte Angebote generiert, die von ISV-Verlegern zur Verfügung gestellt werden. Einige Azure-Anwendungs Preise können auch hier angezeigt werden. Diese Informationen werden täglich aktualisiert, sodass Sie die aktuellen Preise beliebig oft überprüfen können.
 
 4. Wenn ein ISV-Produkt einen kostenlosen Testzeitraum enthält, werden in der Kalkulations Tabelle zwei Zeilen für das Produkt angezeigt:
 

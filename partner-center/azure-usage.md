@@ -1,7 +1,7 @@
 ---
 title: Microsoft Azure VM-Größe für die Verwendung der maximalen Reservierung | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie, wie Sie die Größe eines virtuellen Computers (VM) mit den computinganforderungen ihrer Kunden skalimachen, wenn Sie Microsoft Azure Reservierungen für diese Computer erwerben.
@@ -10,20 +10,20 @@ ms.author: labrenne
 keywords: Azure, Reservierungen, VM, verwalten, Nutzung, Größe
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2b8148d66be8a439056efa41eccb60cbc3e4274b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: f214a3dd507370f37347d4e014059367f13c5669
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253248"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205778"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Microsoft Azure VM-Größe für die maximale Reservierungsnutzung
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
 - Azure-Portal
-- CSP-Partner
+- Partner im CSP
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Ermitteln der VM-Größe für die Azure-Reservierung eines Kunden 
 
@@ -70,7 +70,7 @@ Verwenden Sie die Informationen in der Abbildung unten zum Abrufen von Standort 
 
 3. Der Aufruf gibt die Werte für **vmSize** und **location** zurück (s. u.).
 
-    ![vmsize-Wert](images/usage3.png) ![Location-Wert](images/usage4.png)
+    ![vmsize-](images/usage3.png) ![Wert Speicherort Wert](images/usage4.png)
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Überprüfen der Azure-VM-Nutzung und des Reservierungsrabatts
 
@@ -123,11 +123,12 @@ Weitere Informationen finden Sie unter Ermitteln der [Auslastungs Datensätze ei
 
 ## <a name="azure-reservations-resources"></a>Ressourcen zu Azure-Reservierungen
 
-|**Weitere Informationen zu**   |**Artikel**    |
+|**Informationen über**   |**Artikel**    |
 |:-----------------------------|:-----------------|
 |Azure-Reservierungen in CSP (Übersicht)  | [Verkaufen von Microsoft Azure Reserved VM Instances](azure-reservations.md)
-|Erwerb von Azure-Reservierungen für Ihre Kunden im Partner Center   |[Kaufen von Azure-Reservierungen](azure-reservations-buying.md)
-|Verwalten von Azure-Reservierungen in Partner Center | [Verwalten von Azure-Reservierungen im Partner Center](azure-reservations-manage.md)
+|Erwerb von Azure-Reservierungen für Ihre Kunden in Partner Center   | [Kaufen von Azure-Reservierungen](azure-reservations-buying.md)
+|Verwalten von Azure-Reservierungen in Partner Center | [Verwalten von Azure-Reservierungen in Partner Center](azure-reservations-manage.md)
 |Erwerb von Azure-Reservierungen im Azure-Portal | [Vorauszahlen für virtuelle Computer mit Azure Reserved VM Instances](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) in der Azure-Hilfe |
-|Verwalten von Azure-Reservierungen im Azure-Portal   |[Verwalten von reservierten VM-Instanzen](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) in der Azure-Hilfe  |
-|Kaufen von Azure-Reservierungen über die Partner Center-API | [Kaufen von Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in der Partner Center-Entwicklerdokumentation
+|Verwalten von Azure-Reservierungen im Azure-Portal   | [Verwalten von reservierten VM-Instanzen](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance) in der Azure-Hilfe  |
+|Erwerb von Azure-Reservierungen über die Partner Center-API | [Kaufen von Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in der Partner Center-Entwicklerdokumentation   |
+|Erteilen von Kunden die Berechtigung, ihre eigenen Azure-Reservierungen von einem Abonnement zu erwerben, das Sie für Sie erworben haben. | [Erteilen Sie Kunden die Berechtigung, ihre eigenen Azure-Reservierungen zu erwerben.](give-customers-permission.md)   |

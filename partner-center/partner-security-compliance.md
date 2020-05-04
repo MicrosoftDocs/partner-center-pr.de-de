@@ -9,12 +9,12 @@ ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
 ms.topic: conceptual
-ms.openlocfilehash: 2fc0926f2277cea8eebd7157af44338aabfaa94c
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: c398c8f2490d3f0785fa7b836a8b0e077ca46bce
+ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80136322"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "82120391"
 ---
 # <a name="partner-security-requirements-status"></a>Status der Sicherheitsanforderungen für Partner
 
@@ -55,7 +55,7 @@ Der Partner Center-MFA-Bericht bietet Erkenntnisse über die MFA-Partnerimplemen
 
 Diese Metrik bezieht sich auf die MFA-Konfiguration eines CSP-Mandanten, die täglich erfasst und gemeldet wird. Sie misst den Prozentsatz der aktivierten Benutzerkonten mit MFA, die mithilfe einer der [MFA-Optionen](https://aka.ms/partner-mfa-get-started) erzwungen wird. Beispiel:
 
-- Contoso ist ein CSP-Partner mit 110 Benutzerkonten im Mandanten. Zehn davon sind deaktiviert. 
+- Contoso ist ein CSP-Partner mit 110 Benutzerkonten im Mandanten. 10 Benutzerkonten sind deaktiviert. 
 - Für 90 von den übrigen 100 Benutzerkonten wird mithilfe der bereitgestellten [MFA-Optionen](https://aka.ms/partner-mfa-get-started) MFA erzwungen. Daher zeigt die Metrik 90 % an. 
 
 ### <a name="partner-center-activities-with-mfa"></a>Partner Center-Aktivitäten mit MFA
@@ -67,11 +67,13 @@ Bei jeder Anmeldung Ihrer Mitarbeiter beim Partner Center, um zu arbeiten oder m
 Diese Metrik bezieht sich auf Aktivitäten im Partner Center-Dashboard. Sie misst den Prozentsatz der Vorgänge, die von Benutzern ausgeführt wurden, die die MFA-Überprüfung abgeschlossen haben. Beispiel:
 
 - Contoso ist ein CSP-Partner mit zwei Administratormitarbeitern Jane und John.
-- Am ersten Tag hat Jane sich beim Partner Center-Dashboard ohne MFA-Überprüfung angemeldet und 3 Vorgänge ausgeführt.
-- Am zweiten Tag hat John sich beim Partner Center-Dashboard ohne MFA-Überprüfung angemeldet und 5 Vorgänge ausgeführt.
-- Am dritten Tag hat Jane sich beim Partner Center-Dashboard mit MFA-Überprüfung angemeldet und 2 Vorgänge ausgeführt.
-- An den verbleibenden 4 Tagen wurden von keinem der Mitarbeiter Vorgänge ausgeführt.
-- Von den 10 Vorgängen, die innerhalb des 7-Tage-Zeitraums ausgeführt wurden, sind 2 von Benutzern mit MFA-Überprüfung vorgenommen worden. Daher zeigt die Metrik 20 % an.
+- Am ersten Tag hat sich Jane beim Partner Center-Dashboard ohne MFA-Überprüfung angemeldet und drei Vorgänge ausgeführt.
+- Am zweiten Tag hat sich John beim Partner Center-Dashboard ohne MFA-Überprüfung angemeldet und fünf Vorgänge ausgeführt.
+- Am dritten Tag hat sich Jane beim Partner Center-Dashboard mit MFA-Überprüfung angemeldet und zwei Vorgänge ausgeführt.
+- An den verbleibenden vier Tagen wurden von keinem der Mitarbeiter Vorgänge ausgeführt.
+- Von den 10 Vorgängen, die innerhalb des 7-Tage-Zeitraums stattgefunden haben, wurden zwei von Benutzern mit MFA-Überprüfung vorgenommen. Daher zeigt die Metrik 20 % an.
+
+Verwenden Sie die Datei für **Portalanforderungen ohne MFA**, um zu ermitteln, welcher Benutzer sich ohne MFA-Überprüfung beim Partner Center-Dashboard angemeldet hat, und wann der letzte Besuch innerhalb des Berichterstellungszeitfensters stattgefunden hat.
 
 #### <a name="appuser-authentication"></a>Anwendungs- und Benutzerauthentifizierung
 
@@ -83,6 +85,11 @@ Diese Metrik bezieht sich auf die Verwendung von API-Anforderungen im Partner Ce
 - Am dritten Tag hat die Anwendung zwei API-Anforderungen unter Verwendung eines Zugriffstokens ausgeführt, das mit App- und Benutzerauthentifizierung einschließlich MFA-Überprüfung abgerufen wurde.
 - An den verbleibenden vier Tagen wurden von keinem der Mitarbeiter Vorgänge ausgeführt.
 - Die fünf API-Anforderungen am zweiten Tag, die unter Verwendung eines Zugriffstokens ausgeführt wurden, das mit einer reinen App-Authentifizierung abgerufen wurde, werden von der Metrik nicht berücksichtigt, da keine Benutzeranmeldeinformationen verwendet werden. Von den verbleibenden fünf Vorgängen wurden zwei unter Verwendung eines Zugriffstokens ausgeführt, das mit MFA-Überprüfung abgerufen wurde. Daher zeigt die Metrik 40 % an.
+
+Wenn Sie wissen möchten, welche App- und Benutzeraktivitäten diese Metrik nicht zu 100 % erfüllen, verwenden Sie die folgenden Dateien:
+
+- **Zusammenfassung der API-Anforderungen**: Bietet Informationen zum allgemeinen MFA-Status nach Anwendung.
+- **Alle API-Anforderungen**: Enthält Details zu den einzelnen API-Anforderungen von Benutzern Ihres Mandanten. Das Ergebnis ist auf die letzten 10.000 Anforderungen beschränkt, um die Downloaderfahrung zu verbessern.
 
 ## <a name="what-should-i-do-if-the-metrics-under-mfa-report-arent-100"></a>Vorgehen, wenn die im MFA-Bericht ausgewiesenen Metriken keine 100 % erreichen
 
@@ -97,7 +104,7 @@ Andernfalls müssen Sie zunächst MFA für Ihren Partnermandanten implementieren
 
 ### <a name="have-you-only-recently-completed-mfa-implementation"></a>Haben Sie die MFA-Implementierung erst vor kurzem abgeschlossen?
 
-Die Metriken werden täglich berechnet und berücksichtigen Vorgänge, die im Verlauf der letzten sieben Tage ausgeführt wurden. Wenn Sie die MFA-Implementierung für Ihren Partnermandanten erst vor kurzem abgeschlossen haben, erreichen die Metriken möglicherweise keine 100 %.
+Die Metriken werden täglich berechnet und berücksichtigen Vorgänge, die in den letzten sieben Tagen ausgeführt wurden. Wenn Sie die MFA-Implementierung für Ihren Partnermandanten erst vor kurzem abgeschlossen haben, erreichen die Metriken möglicherweise keine 100 %.
 
 ### <a name="have-some-user-accounts-been-excluded-from-mfa-implementation"></a>Wurden einige Benutzerkonten aus der MFA-Implementierung ausgeschlossen?
 
@@ -110,17 +117,17 @@ Sie sollten wissen, ob MFA von Ihrer aktuellen Implementierung nur unter bestimm
 >[!NOTE]
 >Partner, die MFA mithilfe von Azure AD-Sicherheitsstandards implementiert haben, müssen beachten, dass die mehrstufige Authentifizierung für Nicht-Administrator-Benutzerkonten risikobasiert erzwungen wird. Benutzer werden nur bei Anmeldeversuchen mit erhöhtem Risiko zur MFA aufgefordert (beispielsweise, wenn sich der Benutzer von einem anderen Standort aus anmeldet). Außerdem bleiben Benutzern 14 Tage Zeit für die Registrierung bei MFA. Benutzer, die die MFA-Registrierung nicht abgeschlossen haben, werden während des 14-Tages-Zeitraums nicht zur MFA-Überprüfung aufgefordert. Daher ist bei Partnern, die MFA mithilfe der Azure AD-Sicherheitsstandards implementiert haben, damit zu rechnen, dass die Metriken die 100 % nicht erreichen.
 
-### <a name="are-you-using-3rd-party-mfa-solution"></a>Verwenden Sie eine MFA-Lösung eines Drittanbieters?
+### <a name="are-you-using-third-party-mfa-solution"></a>Verwenden Sie eine MFA-Lösung eines Drittanbieters?
 
-Wenn Sie eine Drittanbieter-MFA-Lösung verwenden, bestimmen Sie, wie Sie diese in Azure AD integrieren. Im Allgemeinen gibt es zwei Methoden, einschließlich Partnerverbund und benutzerdefinierter Steuerelemente:
+Wenn Sie eine MFA-Lösung eines Drittanbieters verwenden, bestimmen Sie, wie Sie diese in Azure AD integrieren. Im Allgemeinen gibt es zwei Methoden, einschließlich Partnerverbund und benutzerdefinierter Steuerelemente:
 
-* **Identitätsverbund**: Wenn Azure AD eine Authentifizierungsanforderung empfängt, leitet Azure AD den Benutzer zur Authentifizierung an den Verbundidentitätsanbieter um. Bei erfolgreicher Authentifizierung leitet der Verbundidentitätsanbieter den Benutzer zusammen mit einem SAML-Token wieder an Azure AD weiter. Damit Azure AD erkennen kann, dass der Benutzer die MFA-Überprüfung bei seiner Authentifizierung beim Verbundidentitätsanbieter abgeschlossen hat, muss das SAML-Token den Anspruch *authenticationmethodsreferences* (mit dem Wert *multipleauthn*) enthalten. Überprüfen Sie, ob der Verbundidentitätsanbieter die Ausstellung eines solchen Anspruchs unterstützt. Ist dies der Fall, überprüfen Sie, ob der Verbundidentitätsanbieter entsprechend konfiguriert wurde. Wenn der Anspruch fehlt, weiß Azure AD (und entsprechend auch das Partner Center) nicht, dass der Benutzer die MFA-Überprüfung abgeschlossen hat, was dazu führen kann, dass die Metrik nicht die 100 % erreicht.
+* **Identitätsverbund**: Wenn Azure AD eine Authentifizierungsanforderung empfängt, leitet Azure AD den Benutzer zur Authentifizierung an den Verbundidentitätsanbieter um. Bei erfolgreicher Authentifizierung leitet der Verbundidentitätsanbieter den Benutzer zusammen mit einem SAML-Token wieder an Azure AD weiter. Damit Azure AD erkennen kann, dass der Benutzer die MFA-Überprüfung bei seiner Authentifizierung beim Verbundidentitätsanbieter abgeschlossen hat, muss das SAML-Token den Anspruch *authenticationmethodsreferences* (mit dem Wert *multipleauthn*) enthalten. Überprüfen Sie, ob der Verbundidentitätsanbieter die Ausstellung eines solchen Anspruchs unterstützt. Ist dies der Fall, überprüfen Sie, ob der Verbundidentitätsanbieter entsprechend konfiguriert wurde. Wenn der Anspruch fehlt, liegen in Azure AD (und entsprechend auch im Partner Center) keine Informationen vor, dass der Benutzer die MFA-Überprüfung abgeschlossen hat, was dazu führen kann, dass die Metrik keine 100 % erreicht.
 
-* **Benutzerdefiniertes Steuerelement**: Ein benutzerdefiniertes Azure AD-Steuerelement kann nicht verwendet werden, um zu ermitteln, ob ein Benutzer die MFA-Überprüfung über eine MFA-Drittanbieterlösung abgeschlossen hat. Daher erscheint jeder Benutzer, der die MFA-Überprüfung mithilfe eines benutzerdefinierten Steuerelements abgeschlossen hat, für Azure AD (und in der Folge auch für das Partner Center) als mit nicht abgeschlossener MFA-Überprüfung angemeldet. Es empfiehlt sich, wo immer möglich dem Identitätsverbund bei der Integration in Azure Ad gegenüber benutzerdefinierten Steuerelementen den Vorzug zu geben.
+* **Benutzerdefiniertes Steuerelement**: Ein benutzerdefiniertes Azure AD-Steuerelement kann nicht verwendet werden, um zu ermitteln, ob ein Benutzer die MFA-Überprüfung über eine MFA-Lösung eines Drittanbieters abgeschlossen hat. Daher erscheint jeder Benutzer, der die MFA-Überprüfung mithilfe eines benutzerdefinierten Steuerelements abgeschlossen hat, für Azure AD (und in der Folge auch für das Partner Center) als mit nicht abgeschlossener MFA-Überprüfung angemeldet. Es empfiehlt sich, wo immer möglich dem Identitätsverbund bei der Integration in Azure Ad gegenüber benutzerdefinierten Steuerelementen den Vorzug zu geben.
 
 ### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>Identifizieren der Benutzer, die sich ohne MFA beim Partner Center angemeldet haben
 
-Es kann sinnvoll sein, zu identifizieren, welche Benutzer sich ohne MFA-Überprüfung beim Partner Center anmelden und sie mithilfe Ihrer aktuellen MFA-Implementierung zu überprüfen. Sie können den [Azure AD-Anmeldebericht](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) verwenden, um herauszufinden, ob ein Benutzer die MFA-Überprüfung abgeschlossen hat oder nicht. Der Azure AD-Anmeldebericht steht zurzeit nur Partnern zur Verfügung, die Azure AD Premium oder eine andere O365-SKU abonniert haben, die Azure AD Premium enthält (beispielsweise EMS).
+Es kann sinnvoll sein, zu identifizieren, welche Benutzer sich ohne MFA-Überprüfung beim Partner Center anmelden und sie mithilfe Ihrer aktuellen MFA-Implementierung zu überprüfen. Sie können den [Azure AD-Anmeldebericht](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) verwenden, um herauszufinden, ob ein Benutzer die MFA-Überprüfung abgeschlossen hat oder nicht. Der Azure AD-Anmeldebericht steht zurzeit nur Partnern zur Verfügung, die Azure AD Premium oder eine andere O365-SKU abonniert haben, die Azure AD Premium umfasst (beispielsweise EMS).
 
 **Weitere Informationen**
 

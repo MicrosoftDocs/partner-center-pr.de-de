@@ -1,23 +1,23 @@
 ---
-title: Neue Anforderungen für direkte CSP-Partner | Partner Center
+title: Anforderungen an CSP-Partner mit direkter Abrechnung
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Wenn Sie ein direkter Partner im CSP-Programm sind, können Sie sich über aktualisierte Support- und Dienstanforderungen sowie deren Erfüllung informieren.
+Description: Erfahren Sie, wie Sie die aktuellen Support- und Dienstanforderungen erfüllen, um sich im Microsoft Cloud Solution Provider (CSP)-Programm als Partner mit direkter Abrechnung zu qualifizieren.
 author: LauraBrenner
 ms.author: labrenne
 keywords: CSP, direkte Partner, Direktabrechnung, Anforderungen
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 461f1ae83af8e99e38ab433fa7204624720bd145
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOAPR.20
+ms.openlocfilehash: de14553d756a718a78e70825e5ef7581aa57b96c
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340101"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205758"
 ---
-# <a name="csp-direct-bill-partner-new-requirements"></a>Neue Anforderungen für CSP-Direktabrechnungspartner
+# <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Anforderungen für die Registrierung als CSP-Partner mit direkter Abrechnung
 
 **Zielgruppe**
 
@@ -25,7 +25,7 @@ ms.locfileid: "78340101"
 
 ## <a name="enroll-as-a-direct-partner"></a>Registrieren als direkter Partner
 
-Als Direktabrechnungspartner sind Sie die für die End-to-End-Beziehung mit Ihren Kunden und Microsoft verantwortlich. Wir haben die Registrierungsanforderungen für Direktabrechnungspartner ab dem 31. August 2018 aktualisiert. Mit diesen neuen Anforderungen können Sie das Wachstum Ihres Unternehmens mit dem richtigen CSP-Registrierungsmodell beschleunigen und Ihre Kundenbeziehungen mithilfe von Mehrwertdiensten und Support festigen.
+Als Direktabrechnungspartner sind Sie die für die End-to-End-Beziehung mit Ihren Kunden und Microsoft verantwortlich. Wir haben die Registrierungsanforderungen für Direktabrechnungspartner ab dem 31. August 2018 aktualisiert. Diese neuen Anforderungen helfen Ihnen, Ihr Geschäftswachstum mit dem richtigen CSP-Registrierungsmodell zu beschleunigen. Sie profitieren auch von intensiveren Kundenbeziehungen mit Mehrwertdiensten und -support.
 
 ### <a name="minimum-requirements"></a>Mindestanforderungen
 
@@ -43,7 +43,7 @@ Prüfen Sie (falls noch nicht geschehen), ob Sie die oben aufgeführten Mindesta
 
 Wir prüfen anhand Ihrer Antworten auf die Fragen im Formular, ob Sie als Direktabrechnungspartner im CSP-Programm geeignet sind.
 
-Wenn Ihr Unternehmen die Voraussetzungen für die Registrierung als Direktabrechnungspartner erfüllt und Sie die Bewerbung abgeschlossen haben, überprüfen und verifizieren wir die Unternehmensinformationen, die Sie bei der Registrierung angegeben haben. Im Rahmen dieser Überprüfung wird Ihr Unternehmen auch einer Bonitätsprüfung unterzogen. Wir benachrichtigen Sie per E-Mail, wenn Ihr Unternehmen die Bonitätsprüfung bestanden hat.
+Wenn Ihr Unternehmen die Voraussetzungen für die Registrierung als Partner mit direkter Abrechnung erfüllt und Sie die Registrierung abgeschlossen haben, überprüfen und verifizieren wir die Geschäftsinformationen, die Sie bei der Registrierung angegeben haben. Im Rahmen dieser Überprüfung wird Ihr Unternehmen auch einer Bonitätsprüfung unterzogen. Wir benachrichtigen Sie per E-Mail, wenn Ihr Unternehmen die Bonitätsprüfung bestanden hat.
 
 >[!IMPORTANT]
 >Die Bonitätsprüfung kann einige Tage dauern. Erwerben Sie in diesem Zeitraum KEINEN Microsoft-Supportplan. Erwerben Sie KEINEN Microsoft-Supportplan, bis wir Sie über die bestandene Bonitätsprüfung informiert haben.
@@ -52,7 +52,7 @@ Wenn Ihr Unternehmen die Voraussetzungen für die Registrierung als Direktabrech
 
 Aktuelle Partner mit direkter Abrechnung müssen die neuen Anforderungen erfüllen, damit sie im CSP-Programm für Partner mit direkter Abrechnung bleiben. Andernfalls wird Ihr [Zugriff auf die Funktionen der direkten Abrechnung schließlich eingeschränkt](restricted-direct-bill-capabilities.md), und sie können bestimmte Aufgaben (z. B. die Durchführung neuer Käufe für Ihre Kunden) nicht mehr übernehmen. 
 
-Wenn Sie vom Direktabrechnungspartner auf einen indirekten Wiederverkäufer umsteigen möchten, müssen Sie mehrere Schritte durchführen. Weitere Informationen dazu finden Sie unter [Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer](transition-direct-to-indirect.md). 
+Wenn Sie sich entscheiden, von einer Geschäftslösung mit direkter Abrechnung zu einem indirekten Vertriebspartner zu wechseln, sind mehrere Schritte erforderlich. Weitere Informationen dazu finden Sie unter [Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer](transition-direct-to-indirect.md). 
 
 ## <a name="see-also"></a>Siehe auch
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft-Kompetenzanforderungen für die Gold- und Silver-Mitgliedschaft | Partner Center
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 04/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie mehr über die Kompetenzanforderungen für die Mitgliedschaftsstufen Silver und Gold.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Kompetenzen, Silver-Mitgliedschaft, Gold-Mitgliedschaft, MPN, MAPS, Kenntnisse, Microsoft Partner Network, Network Mitgliedschaft, erweiterte Spezialisierung
 ms.localizationpriority: high
-ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: cfd4800265a5cde94ff69f66cf19547b0f13961c
+ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80226216"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "82120381"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Informationen zu den Kompetenzanforderungen und erweiterten Spezialisierungen für Microsoft Silver und Gold
 
@@ -31,6 +31,16 @@ Demonstrieren Sie Ihr Fachwissen bei der Bereitstellung von Qualitätslösungen 
 - Als Gold-Mitgliedspartner können Sie Ihrem Portfolio außerdem erweiterte Spezialisierungen hinzufügen.
 
 Indem Sie die Kompetenzen **Silver-Mitgliedschaft** oder **Gold-Mitgliedschaft** erwerben, können Sie zudem leistungsstarke [Markteinführungsangebote und -programme](mpn-learn-about-go-to-market-benefits.md) nutzen, die Ihnen helfen, Ihr Geschäft voranzubringen.
+
+## <a name="check-your-status-as-you-earn-a-competency"></a>Überprüfen des Status, wenn Sie eine Kompetenz erwerben
+
+Im Kompetenzbereich Ihres Partner Center-Dashboards können Sie die Anforderungen und die Kompetenzen einsehen, die Ihr Unternehmen erworben hat.
+
+1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an.
+
+2. Wählen Sie im Partner Center-Menü unter dem Abschnitt „MPN“ die Option **Kompetenzen** aus. 
+
+3. Wählen Sie den Namen der Kompetenz und eine bestimmte Kompetenzoption aus, um Details anzuzeigen. Sie können nicht nur feststellen, was Sie bereits erreicht haben, sondern sehen auch die vollständigen Anforderungen und Links zu den spezifischen Prüfungen und zum Datum der aus dem Programm genommenen Prüfungen.
 
 ## <a name="competency-areas"></a>Kompetenzbereiche
 

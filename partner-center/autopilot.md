@@ -5,33 +5,33 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie die Out-of-Box-Benutzerfreundlichkeit eines neuen Geräts mit Autopilot-Profilen anpassen oder vorab konfigurieren, bevor Sie das Gerät an den Kunden übermitteln.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero-Touch Deployment, Windows-Willkommensseite, Anmeldebildschirme, Willkommensseite
 ms.localizationpriority: medium
-ms.openlocfilehash: c69b61256e19fd3a8becbfd546fd5b9a0b54654f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7fed49f9fd06be8765e3435862e3bee48b717ce7
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390999"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798608"
 ---
 # <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Anpassen der Out-of-Box-Darstellung für ein Gerät mit Windows Autopilot-Profilen
 
-**Gilt für:**
+**Zielgruppe**
 
 - CSP-Partner mit Direktfakturierung, indirekte Anbieter und indirekte Vertriebspartner
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Globaler Administrator
 - Vertriebsbeauftragter
 - Benutzerverwaltungsadministrator
 
 Wenn Sie Kundengeräte verwalten, müssen Sie die Windows-Willkommensseite für die Benutzer des Kunden anpassen. Sie können neue Geräte mit Windows Autopilot-Profilen vorkonfigurieren, bevor Sie die Geräte an Kunden ausliefern, und neue Profile auf bereits erworbene Geräte anwenden. 
 
-Beachten Sie, dass OEMs damit begonnen haben, eine Versand Bezeichnung auf der Außenseite des Autopilot-Geräts hinzufügen, die die **Product Key-ID (pkid)** des Geräts anzeigt.  Dieser eindimensionale, lesbare Barcode bietet downstreampartnern eine Möglichkeit, Geräte für Autopilot zu registrieren, ohne die Geräte zu entpacken und die Geräte-ID auf alternative Weise zu erfassen.
+Beachten Sie, dass OEMs damit begonnen haben, eine Versand Bezeichnung auf der Außenseite des Autopilot-Geräts hinzufügen, die die **Product Key-ID (pkid)** des Geräts anzeigt.  Dieser eindimensionale, lesbare Barcode bietet downstreampartnern eine Möglichkeit, Geräte für Autopilot zu registrieren, ohne die Geräte zu entkacken und die Geräte-ID auf alternative Weise zu erfassen.
 
 In diesem Artikel wird erläutert, wie Sie im Partner Center Autopilot-Profile erstellen und auf Geräte anwenden.
 
@@ -77,20 +77,20 @@ Im Partner Center können Sie Windows Autopilot-Bereitstellungsprofile erstellen
 
 3. Klicken Sie unter **Windows Autopilot-Profile** auf **Neues Profil hinzufügen**.
 
-4. Geben Sie Namen und eine Beschreibung des Profils ein, und konfigurieren Sie dann die Einstellungen für die Windows-Willkommensseite. Es stehen folgende Optionen zur Auswahl:  
+4. Geben Sie Namen und eine Beschreibung des Profils ein, und konfigurieren Sie dann die Einstellungen für die Windows-Willkommensseite. Es stehen die folgenden Optionen zur Auswahl:  
 
    - Datenschutzeinstellungen beim Setup überspringen
 
-   - Deaktivieren des lokalen Administratorkontos während des Setups
+   - Lokales Administratorkonto beim Setup deaktivieren
   
-   - Automatisches Überspringen von Seiten im Setup<br>
+   - Seiten beim Setup automatisch überspringen<br>
         (Schließt *Setup für Arbeit oder Bildungseinrichtung automatisch auswählen* und *Setupseiten für Cortana-, OneDrive- und OEM-Registrierung überspringen* ein)
   
    - Lizenzbedingungen überspringen.<br> 
        >[!IMPORTANT] 
        >Unter [Ablehnung der Lizenzbedingungen für Windows Autopilot](#windows-autopilot-eula-dismissal) finden Sie wichtige zu beachtende Informationen beim Überspringen der Seite mit den Lizenzbedingungen während des Setups von Windows.
 
-5. Wählen Sie abschließend **Übermitteln** aus.
+5. Klicken Sie abschließend auf **Senden**.
 
 ### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Anwenden eines Autopilot-Profils auf Kundengeräte
 
@@ -157,7 +157,7 @@ Führen Sie die im Partner Center nachstehenden Anweisungen zum Hinzufügen von 
 
 2. Wählen Sie auf der Detailseite des Kunden **Geräte** aus.
 
-3. Klicken Sie unter **Profile auf Geräte anwenden**  auf **Geräte hinzufügen**.
+3. Klicken Sie unter **Profile auf Geräte anwenden ** auf **Geräte hinzufügen**.
 
 4. Geben Sie einen Namen für die Geräteliste aus, und klicken Sie dann auf **Durchsuchen**, um die Kundenliste (im Dateiformat CSV) ins Partner Center hochzuladen.
 
@@ -195,4 +195,4 @@ Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
 
 Mit Windows Autopilot können Sie angepasste Installationen von Windows auf Geräten konfigurieren, die Sie für Ihre Kunden verwalten. Wenn Sie vom Kunden entsprechend autorisiert wurden, können Sie bestimmte Setupbildschirme unterdrücken oder ausblenden, die Benutzern normalerweise beim Einrichten von Windows angezeigt werden, darunter der Bildschirm für das Annehmen der Lizenzbedingungen.
 
-Mit der Nutzung dieser Funktion erklären Sie sich damit einverstanden, dass das Unterdrücken oder Ausblenden von Bildschirmen, die dazu bestimmt sind, den Benutzern eine Benachrichtigung oder Akzeptanz von Bedingungen zu ermöglichen, bedeutet, dass Sie von Ihrem Kunden eine ausreichende Zustimmung und Berechtigung erhalten haben, Bedingungen zu verbergen, und dass Sie im Namen Ihres Kunden (unabhängig davon, ob es sich um ein Unternehmen oder einen einzelnen Benutzer handelt) allen Benachrichtigungen zustimmen und alle Bedingungen akzeptieren, die für Ihren Kunden gelten. Dazu gehört auch die Zustimmung zu den allgemeinen Geschäftsbedingungen der Lizenz oder des Hinweises, der dem Benutzer angezeigt werden würde, wenn Sie ihn nicht mit diesem Tool unterdrückt oder ausgeblendet hätten. Ihr Kunde darf die Windows-Software auf diesen Geräten nicht nutzen, wenn der Kunde nicht über eine gültig erworbene Lizenz für die Software von Microsoft oder dessen lizenzierten Distributoren verfügen.
+Mit der Nutzung dieser Funktion erklären Sie sich damit einverstanden, dass das Unterdrücken oder Ausblenden von Bildschirmen, die dazu bestimmt sind, den Benutzern eine Benachrichtigung oder Akzeptanz von Bedingungen zu ermöglichen, bedeutet, dass Sie von Ihrem Kunden eine ausreichende Zustimmung und Berechtigung erhalten haben, Bedingungen zu verbergen, und dass Sie im Namen Ihres Kunden (unabhängig davon, ob es sich um ein Unternehmen oder einen einzelnen Benutzer handelt) allen Benachrichtigungen zustimmen und alle Bedingungen akzeptieren, die für Ihren Kunden gelten. Dazu gehört auch die Zustimmung zu den Geschäftsbedingungen der Lizenz oder des Hinweises, der dem Benutzer angezeigt werden würde, wenn Sie ihn nicht mit diesem Tool unterdrückt oder ausgeblendet hätten. Ihr Kunde darf die Windows-Software auf diesen Geräten nicht nutzen, wenn der Kunde nicht über eine gültig erworbene Lizenz für die Software von Microsoft oder dessen lizenzierten Händlern verfügt.

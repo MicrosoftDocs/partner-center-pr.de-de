@@ -5,19 +5,19 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier finden Sie Antworten auf häufig gestellte Fragen (FAQ) zum Cloud Solution Provider-Programm (CSP) für Microsoft Cloud für die US-Regierung.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cfcccf65557e4e7d1096a6f69cb80ff00b0c3a23
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7ee7a0877a67c744ec77035017181aeaa458833c
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389679"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798348"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Häufig gestellte Fragen zum Partner Center für Microsoft Cloud for US Government
 
-**Gilt für:**
+**Zielgruppe**
 
 -  Partner Center für Microsoft Cloud for US Government
 
@@ -47,11 +47,11 @@ Ja. Das Partner-Rabattgewährungsmodell für das CSP-Programm für Microsoft Clo
 
 Das CSP-Programm für die Microsoft Government-Cloud unterscheidet sich von CSP Commercial in folgenden Punkten:
 
--   Berechtigung: Am CSP-Programm für die Microsoft Government-Cloud können nur Partner aus den Vereinigten Staaten teilnehmen, die dort mit Behörden des Bundes, der Bundesstaaten oder der Kommunen zusammenarbeiten. Microsoft überprüft Partner in einem strengen Validierungsverfahren, bevor sie auf die Cloud for US Government zugreifen dürfen.
+-   Berechtigung: das CSP-Programm für die Microsoft Government-Cloud ist nur für Partner in USA verfügbar, die US-amerikanische Bundes-, Bundesstaats-und Kommunalbehörden in ihren Regierungskapazitäten erfüllen. Microsoft überprüft Partner in einem strengen Validierungsverfahren, bevor sie auf die Cloud for US Government zugreifen dürfen.
 
 -   Onboarding: Partner müssen das Onboarding in das CSP-Programm für Microsoft Cloud for US Government separat von CSP Commercial vornehmen.
 
--   Produktverfügbarkeit: Azure Government und arbeitsplatzbasierte Dienste wie Office 365, Enterprise Mobility + Security und Dynamics 365 sind im CSP-Programm für Microsoft Government Cloud verfügbar. 
+-   Produktverfügbarkeit: sowohl Azure Government als auch Arbeitsplatz basierte Dienste wie Office 365, Enterprise Mobility + Security und Dynamics 365 sind im CSP-Programm für Microsoft Government Cloud verfügbar. 
 
 -   Vertrag: Das Microsoft Cloud Reseller Agreement (MCRA) wurde aktualisiert, um eindeutigen behördlichen Bestimmungen Rechnung zu tragen.
 
@@ -61,7 +61,7 @@ Das CSP-Programm für die Microsoft Government-Cloud unterscheidet sich von CSP 
 
 Weitere Informationen zu Registrierungsmodellen für Partnern finden Sie unter [Cloud Solution Provider on the Microsoft Partner Network](https://partner.microsoft.com/cloud-solution-provider).
 
-**Wie funktioniert Lizenzierung?**
+**Wie funktioniert die Lizenzierung?**
 
 *Microsoft Cloud Reseller Agreement (MCRA)*
 
@@ -99,7 +99,7 @@ Die Qualifikationskriterien zum Verkauf des CSP-Programms für die Microsoft Gov
 
 **Ich bin ein vorhandener Partner. Was muss ich tun, um Microsoft Cloud für die US-Regierung zu verkaufen?**
 
-Partner müssen dem CSP-Programm für Microsoft Cloud for US Government beitreten, um die regulatorischen und Compliance-Anforderungen zu erfüllen. (Onboarding für Microsoft Cloud for US Government ist unabhängig vom Onboarding für CSP Commercial.) Nach der Integration können Sie Kunden und Angebote in Microsoft Cloud for US Government erstellen. Informationen zur Verwendung der APIs finden Sie unter [Developing for Partner Center for Microsoft National Cloud](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS).
+Partner müssen dem CSP-Programm für Microsoft Cloud for US Government beitreten, um die regulatorischen und Compliance-Anforderungen zu erfüllen. (Das Onboarding für Microsoft Cloud für die US-Regierung ist vom Onboarding für CSP kommerziell getrennt.) Nach der Integration können Sie Kunden und Transact-Angebote erstellen, die innerhalb Microsoft Cloud für die US-Regierung verfügbar sind. Informationen zur Verwendung der APIs finden Sie unter [Developing for Partner Center for Microsoft National Cloud](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS).
 
 **Gibt es Unterschiede bei Partner-Incentives?**
 
@@ -118,7 +118,7 @@ Um die Integrität der Isolation von Microsoft Cloud für die US-Regierung zu ve
 
 **Was ist Microsoft Cloud for US Government für Azure?**
 
-Die Azure Government-Cloud bietet eine Cloudplattform, die den grundlegenden Prinzipien für Sicherheit, Datenschutz und -Kontrolle, Regelkonformität und Transparenz entspricht. Institutionen des öffentlichen Sektors erhalten eine physisch isolierte Instanz von Microsoft Azure, auf der für alle Systeme und Anwendungen Dienste der höchsten Sicherheits- und Compliance-Stufe für die US-Regierung bereitstehen. Diese Dienste umfassen FedRAMP- und DoD-Compliance-Zertifizierungen, Vereinbarung über den CJIS-Status, die Möglichkeit zum Ausgeben von HIPAA Business Associate-Vereinbarungen und Unterstützung für IRS 1075. Von überprüften Mitarbeiter aus den USA betrieben, unterstützt Azure Government mehrere Hybridszenarien für das Erstellen und Bereitstellen von Lösungen, lokal oder in der Cloud. Öffentliche Institutionen können zudem die sofortige Skalierbarkeit und die garantierte Verfügbarkeit eines hoch skalierbaren Cloudservice nutzen.
+Die Azure Government-Cloud bietet eine Cloudplattform, die den grundlegenden Prinzipien für Sicherheit, Datenschutz und -Kontrolle, Regelkonformität und Transparenz entspricht. Institutionen des öffentlichen Sektors erhalten eine physisch isolierte Instanz von Microsoft Azure, auf der für alle Systeme und Anwendungen Dienste der höchsten Sicherheits- und Compliance-Stufe für die US-Regierung bereitstehen. Diese Dienste umfassen FedRAMP- und DoD-Compliancezertifizierungen, CJIS-Vereinbarungen zwischen Bundesstaaten, die Fähigkeit zum Ausstellen von HIPAA-Vereinbarungen für Geschäftspartner und Unterstützung für IRS 1075. Von überprüften Mitarbeiter aus den USA betrieben, unterstützt Azure Government mehrere Hybridszenarien für das Erstellen und Bereitstellen von Lösungen, lokal oder in der Cloud. Einrichtungen des öffentlichen Sektors können auch die sofortige Skalierbarkeit und garantierte Verfügbarkeit eines überaus skalierbaren Clouddiensts nutzen.
 
 **Bietet das CSP-Programm für Microsoft Cloud for US Government alle Azure-Dienste an?**
 

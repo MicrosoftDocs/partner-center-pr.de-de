@@ -6,19 +6,19 @@ description: Erfahren Sie, wie Sie ein monatliches Azure-Ausgabenbudget für Ihr
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e536a43aec85336996d047ecd13a06ef144ce196
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e33a15110666bb3b4a3c76c198cde7a59d81411f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390649"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797888"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>Einrichten eines Kundenbudgets für Azure-Kosten
 
-Betrifft:
+Gilt für:
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
@@ -83,7 +83,7 @@ Sie können *die aktuellen Azure-Ausgaben und monatlichen Budgets von Kunden* je
 
 Sie können *e-Mail-Benachrichtigungen* aktivieren, wenn die monatlichen Ausgaben Ihres Kunden dem Budget Limit nähern. Wenn Sie diese Option aktivieren, werden Sie benachrichtigt, wenn Kunden mindestens 80% Ihres monatlichen Budgets verwenden. Mit dieser Option können Sie Ihre Azure-Rechnung überwachen. So konfigurieren Sie e-Mail-Benachrichtigungen
 
-1. Melden Sie sich bei Partner Center an.
+1. Melden Sie sich beim Partner Center an.
 2. Wählen Sie im Menü auf der linken Seite unter **CSP**die Option **Azure-Ausgaben**aus.
 3. Schalten **Sie auf** der Seite Azure- **Ausgaben** unter **e-Mail-Benachrichtigungen die Einstellung e-Mail-** Adressen **aktivieren auf ein.**
 4. Wählen Sie **e-Mail-Adresse ändern** , um die e-Mail-Adresse für Benachrichtigungen
@@ -93,7 +93,7 @@ Sie können *e-Mail-Benachrichtigungen* aktivieren, wenn die monatlichen Ausgabe
 
 Sie können die *aufgelisteten Kosten (und die geschätzte Nutzung) nach Dienst für nutzungsbasierte Abonnements anzeigen*:
 
-1. Melden Sie sich bei Partner Center an.
+1. Melden Sie sich beim Partner Center an.
 2. Wählen Sie im Menü auf der linken Seite unter **CSP**die Option **Kunden**aus.
 3. Wählen Sie auf der Seite **Kunden** den **Firmennamen**des Kunden aus.
 4. Wählen Sie auf der Seite **Abonnements** des Kunden unter **nutzungsbasierte Abonnements**den Namen des **Abonnements**aus.

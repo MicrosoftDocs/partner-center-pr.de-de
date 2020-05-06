@@ -6,20 +6,20 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Eine allgemeine Übersicht und häufig gestellte Fragen zur Partner Center Analytics-APP für Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2ac56f7bdb13ceb9c27d514fa3ca8733591cd0d4
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.openlocfilehash: 6f69015639bd928b03ea08d7eee848c3a6a90669
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123287"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797608"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Partner Center Analytics-App für Power BI (direkte Partner in CSP)
 
-**Gilt für:**
+**Zielgruppe**
 
 - Partner Center
 
@@ -27,7 +27,7 @@ ms.locfileid: "81123287"
 -    Globaler Administrator
 -    Benutzeradministrator
 -    Vertriebsbeauftragter
--    Administratoragent
+-    Administrator-Agent
 
 Stellen Sie Ihre Unternehmensdaten mit der Partner Center Analytics-App für Power BI visuell dar. Die App wurde für direkte Partner im CSP-Programm (Cloud Solution Provider) entwickelt und nutzt das vertraute Power BI-Framework. 
 
@@ -36,7 +36,7 @@ Stellen Sie Ihre Unternehmensdaten mit der Partner Center Analytics-App für Pow
 
 Installieren Sie die App, um folgende grafische Ansichten zu erhalten: 
 
--    Wachstum Ihres Kundenstamms sowie von Abonnements und Lizenzen
+-    Wachstum bei Kundenstamm, Abonnements und Lizenzen
 
 -    Verwendung von Office 365-, Microsoft Dynamics- und Microsoft Azure-Produkten
 
@@ -59,7 +59,7 @@ Es wird empfohlen, vor der Installation der App die Antworten auf häufig gestel
 | Wer kann die Dashboards und Berichte in der App anpassen? | Nur der globale Administrator, Administrator-Agent oder Abrechnungsadministrator, der die App installiert hat, kann das Dashboard anpassen oder neue Berichte auf der Power BI-Weboberfläche erstellen. |
 | Wer kann die Dashboards und Berichte in der App anzeigen? | Der globale Administrator, Administrator-Agent oder Abrechnungs Administrator, der die APP installiert hat, kann die Daten der APP für alle Benutzer freigeben, die über ein aktives Abonnement für Microsoft Power BI Professional oder Microsoft Power BI Premium verfügen. |
 | Kann ich die App zum Anzeigen von Daten aus mehreren Azure AD-Mandanten an verschiedenen Standorten verwenden? | In dieser Version können Sie nur die Daten aus dem Azure AD-Mandanten anzeigen, für den der globale Administrator oder Administrator-Agent registriert ist. | 
-| Wann wird die App in weiteren Sprachen verfügbar sein? | Entsprechende Ankündigungen werden über das Early Adopter-Programm von Partner Center veröffentlicht. Wenn Sie nicht bereits am Programm teilnehmen, registrieren Sie sich jetzt bei [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program). Sie können auch Ihr Feedback über das Early Adopter-Programm bereitstellen. | 
+| Wann wird die App in weiteren Sprachen verfügbar sein? | Entsprechende Ankündigungen werden über das Early Adopter-Programm von Partner Center veröffentlicht. Wenn Sie nicht bereits am Programm teilnehmen, registrieren Sie sich jetzt unter [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program). Sie können auch Ihr Feedback über das Early Adopter-Programm bereitstellen. | 
 
 
 
@@ -67,4 +67,4 @@ Es wird empfohlen, vor der Installation der App die Antworten auf häufig gestel
 
 [Installation und Vorschauversion der Partner Center Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
 
-[Ihre Geschäftsdaten mit der Partner Center Analytics-App für Microsoft Power BI anzeigen](power-bi-app-for-direct-partners-use.md)
+[Anzeigen Ihrer Geschäftsdaten mit der Partner Center Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners-use.md)

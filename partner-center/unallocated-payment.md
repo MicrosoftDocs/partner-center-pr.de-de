@@ -5,20 +5,20 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, was nicht zugewiesene Zahlungen sind und wie Sie Sie auf Ihre Rechnungen anwenden können.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Abrechnung, Zahlung, Zahlungen, nicht zugewiesene Zahlung
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a5baa6c08ff49405f6317410e382dab10b8276d
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 2cb132d7ade1e6ef7b8172a0612fbd53bf24def1
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390559"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797688"
 ---
-# <a name="manage-unallocated-payments"></a>Nicht zugewiesene Zahlungen verwalten
+# <a name="manage-unallocated-payments"></a>Verwalten nicht zugewiesener Zahlungen
 
-**Gilt für:**
+**Zielgruppe**
 
 - Partner Center
 
@@ -30,6 +30,6 @@ Gelegentlich wird auf Ihrer Abrechnungs Seite möglicherweise eine nicht zugewie
 2.  Wählen Sie im Menü auf der linken Seite **Abrechnung** aus.
 3.  Suchen Sie auf der Seite Abrechnung den Abschnitt **nicht zugewiesene Zahlung** . 
 
-Wenn Sie diesen Betrag auf eine bestimmte Rechnung anwenden möchten, senden Sie eine e-Mail bposcapp@microsoft.com und geben Sie an, auf welche Rechnung diese Zahlung angewendet werden soll. Stellen Sie sicher, dass Sie alle Informationen einschließen, die Sie hätten, wenn Sie eine Zahlung durchführen würden. Ihre Abrechnungs Seite wird in 5-6 Tagen aktualisiert. 
+Um diesen Betrag auf eine bestimmte Rechnung anzuwenden, senden bposcapp@microsoft.com Sie eine e-Mail an, und teilen Sie uns mit, auf welche Rechnung diese Zahlung angewendet werden soll Stellen Sie sicher, dass Sie alle Informationen einschließen, die Sie hätten, wenn Sie eine Zahlung durchführen würden. Ihre Abrechnungs Seite wird in 5-6 Tagen aktualisiert. 
 
 Nicht zugewiesene Zahlungen bleiben erhalten, bis Sie Sie einer Rechnung zuweisen. 

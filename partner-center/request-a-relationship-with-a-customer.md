@@ -6,19 +6,19 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Das Beantragen einer Partnerschaft mit einem Kunden wird in Multipartner- und Multichannelszenarien verwendet. Dieser Vorgang ist auch hilfreich, wenn ein Kunde Ihre delegierten Administratorrechte entfernt und Sie sie für Bereitstellungen oder Supportleistungen wiederherstellen müssen.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ff1b9d6e7290304b4cc33d53251750daf04fbfe8
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 287ecd324472a7f28585dc2f7edef8cd95bb2e34
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390679"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798678"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>Kontaktaufnahme mit Kunden im Partner Center
 
-**Gilt für:**
+**Zielgruppe**
 
 -  Partner Center
 
@@ -29,7 +29,7 @@ Wenn Sie eine Vertriebspartnerschaft mit einem Kunden aufbauen und nur die von I
 Beachten Sie, dass die Option, keine Berechtigungen anzufordern, den Partnern, die in Microsoft Cloud for US Government oder Microsoft Cloud Deutschland arbeiten, nicht zur Verfügung steht. Weitere Informationen finden Sie unter [Kunden delegieren Administratorrechte an Partner](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
 
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden zur Einrichtung einer Reseller-Partnerschaft mit Ihnen
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden zur Einrichtung einer Vertriebspartnerschaft mit Ihnen
 
 Beachten Sie, dass Sie eine Vertriebspartnerschaft mit einem Kunden aus Ihrem Land oder Ihrer Region anfordern können.
 
@@ -51,7 +51,7 @@ Beachten Sie, dass Sie eine Vertriebspartnerschaft mit einem Kunden aus Ihrem La
 
 
 > [!IMPORTANT]  
-> Kunden können Administratorberechtigungen im Verwaltungsportal eines Diensts neu zuweisen oder entfernen. Wenn Sie jedoch die Vereinbarung mit dem Kunden nicht erneut aushandeln, sind Sie weiterhin für die Bereitstellung des Kunden Supports und die Einhaltung der Bestimmungen des Microsoft-Partner Vertrags verantwortlich, auch nachdem ein Kunde den Administrator neu zugewiesen oder entfernt hat. Griff. In diesem Fall können Sie Microsoft-Support anrufen, wenn der Kunde Hilfe benötigt, um eine Serviceanfrage im Auftrag des Kunden zu öffnen.
+> Kunden können Administratorberechtigungen im Verwaltungsportal eines Diensts neu zuweisen oder entfernen. Wenn Sie Ihre Vereinbarung mit dem Kunden jedoch nicht erneut aushandeln, sind Sie weiterhin für die Bereitstellung des Kunden Supports und die Einhaltung der Bestimmungen des Microsoft-Partner Vertrags verantwortlich, auch nachdem ein Kunde Administrator Berechtigungen erneut zugewiesen oder entfernt hat. In diesem Fall können Sie Microsoft-Support anrufen, wenn der Kunde Hilfe benötigt, um eine Serviceanfrage im Auftrag des Kunden zu öffnen.
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Änderungen bei der Kundeneinladung
 
@@ -64,7 +64,7 @@ Die Kundenfreundlichkeit, eine Reseller Relationship-Einladung von einem Cloud S
 | Kunden im Partner Center für Microsoft Cloud for US Government | Microsoft Office-Verwaltungsportal |
 |
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Informationen
 
 - [Zuweisen von Supportkontakten](assign-support-contacts.md)
 - [Entfernen einer Partnerschaft mit einem Kunden](remove-a-relationship.md)

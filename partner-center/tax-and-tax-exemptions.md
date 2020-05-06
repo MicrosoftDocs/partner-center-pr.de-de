@@ -6,20 +6,20 @@ description: Informieren Sie sich über die Steueraufgaben für Ihre spezielle g
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
-author: jasonwhowell
+author: LauraBrenner
 keywords: Steuern, Steuern von Steuer Ausnahmen, Umsatzsteuer, Reseller, Abrechnung
-ms.author: jasonh
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1befd911083cd0f4f774a839b8cc5e84c79592f8
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: c4a8e318deaa2636ac7b118b3a446ea4b1cca09c
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390629"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797698"
 ---
 # <a name="taxes-and-tax-exemptions"></a>Steuern und Steuerbefreiungen
 
-Betrifft:
+Gilt für:
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
@@ -36,7 +36,7 @@ Wenn Sie sich in einem anderen Land oder einer Region befinden, die Steuern bela
 
 Wenn Sie weitere Fragen haben, [fordern Sie Unterstützung im Partner Center an](#support).
 
-### <a name="canada"></a>Kanada
+### <a name="canada"></a>Canada
 
 Die meisten Handelspartner sind nicht von der GST/HST/QST befreit. Wenden Sie sich an den Steuer Ratgeber, um zu bestimmen, ob Sie für eine Ausnahme qualifiziert sind und welche Dokumentation Sie für Microsoft bereitstellen sollten.
 
@@ -44,7 +44,7 @@ Für eine BC PST-Ausnahme müssen Sie eine Steuer Ausnahme wie beschrieben einre
 
 ### <a name="european-union"></a>Europäische Union
 
-In den Mitgliedstaaten der Europäischen Union müssen Partner ihre gültige USt-IdNr. angeben, um eine ordnungsgemäße Steuerschuldumkehr und Abrechnung zu gewährleisten. Die Umsatzsteuernummer muss als gültig akzeptiert werden.
+In den Mitgliedstaaten der Europäischen Union müssen Partner ihre gültige USt-IdNr. angeben, um eine ordnungsgemäße Steuerschuldumkehr und Abrechnung zu gewährleisten. Die USt-IdNr. muss nachweislich gültig sein.
 
 Microsoft unterstützt keine Gutschrift und keine erneute Abrechnung. Vor dem Verkauf von Abonnements müssen Sie [Ihre Umsatzsteuer-ID-Nummer](organization-tax-info.md) im Partner Center registrieren.
 
@@ -87,7 +87,7 @@ Erstellen Sie dann mit den Steuer Ausnahme Informationen ein Support Ticket für
 2. Wählen Sie auf der Seite **Partner Anforderung** die Option **neue Anforderung**aus. (Sie können auch die offenen und geschlossenen Supportanfragen später auf dieser Seite anzeigen.)
 3. Wählen Sie im Schritt **Grundlagen** unter **CSP-Abrechnung und Zahlungen** **die Option Problemtyp auswählen** aus, und wählen Sie die Anforderung für die **Steuerbefreiung**aus.
 4. Wählen Sie im Schritt " **Lösungen** " unter **benötigen Sie weitere Hilfe?** die Option **Ja**aus.
-5. Füllen Sie im Schritt **Details** das Formular **Problem Details** aus. Achten Sie darauf,:
+5. Füllen Sie im Schritt **Details** das Formular **Problem Details** aus. Führen Sie folgende Schritte aus:
 
     - Füllen Sie alle erforderlichen Felder aus.
     - Fügen Sie Ihre **Microsoft-ID** und **MPN-ID** in das Feld **Details** ein.
@@ -95,7 +95,7 @@ Erstellen Sie dann mit den Steuer Ausnahme Informationen ein Support Ticket für
 
 6. Wählen **Sie senden aus** , um Ihre Supportanfrage zu senden. Microsoft wird Sie zurücksenden, um weitere Informationen zu erhalten.
 
-## <a name="support"></a>Unterstützungswert
+## <a name="support"></a>Support
 
 Wenn Sie weitere Fragen zu Steuer Ausnahmen und Rückerstattungen haben, fordern Sie Unterstützung im Partner Center an. Es kann etwa zwei Wochen dauern, bis Microsoft Kontakt mit Ihnen aufnimmt, um das Problem zu beheben.
 

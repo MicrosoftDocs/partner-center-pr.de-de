@@ -6,26 +6,26 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Metriken im Partner Center verwenden können, um festzustellen, ob Ihr Unternehmen wächst, wie Kunden ihre Lizenzen verwenden und wo Sie sich mit den Investitionen beschäftigen.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4dcf203748834be1dcadc6026d2bc6193e86c5a1
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 978913d5eb029e2029e7238535f8d79de39e7155
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390939"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798918"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>Steigerung von Einführungsrate und Zufriedenheit
 
-**Gilt für:**
+**Zielgruppe**
 
 -  Partner Center
 
 **Geeignete Rollen**
 -   Globaler Administrator
 -   Benutzeradministrator
--   Administratoragent
+-   Administrator-Agent
 -   Vertriebsbeauftragter
 
 Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wächst und auf welche Bereiche sie ihre Investitionen konzentrieren sollten. Das Partner Center liefert ihnen Informationen darüber, ob und wie die Kunden die erworbenen Lizenzen nutzen. Die Informationen sind für Office-Produkte (einschließlich OneDrive for Business, das mit SharePoint als eine Position gezählt wird) verfügbar.
@@ -33,7 +33,7 @@ Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wä
 Über das Programm für Cloud-Lösungsanbieter können Sie Daten für alle Ihre Kunden einsehen. Beachten Sie, dass einige Kunden Lizenzen von anderen Partnern oder direkt von Microsoft erwerben können. In diesem Fall wird die Gesamtanzahl der Lizenzen für alle Partner angezeigt. Um nur Ihre eigenen Lizenzen anzuzeigen, rufen Sie stattdessen die Abonnements des Kunden auf.
 
 > [!NOTE]  
->  Aktuell werden nur Daten für Office 365 und Dynamics 365 angezeigt. Wir werden Daten für weitere Produkte in Zukunft aktivieren.
+>  Aktuell werden nur Daten für Office 365 und Dynamics 365 angezeigt. Wir werden in Zukunft Daten für weitere Produkte bereitstellen.
 
 ## <a name="find-license-and-user-data"></a>Suchen nach Lizenz- und Benutzerdaten
 
@@ -57,7 +57,7 @@ Terminologie:
 
 -   **Nutzung %** = aktive Berechtigungen/Gesamtzahl der Berechtigungen
 
-    Manchmal ist die prozentuale Nutzung überhöht oder größer als 100 %. Dies kann verschiedene Ursachen haben:
+    Manchmal ist die prozentuale Nutzung überhöht oder größer als 100 %. Dies kann aus verschiedenen Gründen passieren:
 
     -   Die Lizenz wurde aufgrund eines Mitarbeiterwechsels beim Kunden auf einen neuen Benutzer übertragen.
 
@@ -78,14 +78,14 @@ Wenn Sie viele Hilfe und Fragen zu Fragen haben, sind die Einführungs Zahlen in
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problem:</strong> Die Benutzer Akzeptanz Rate ist niedrig, und viele Lizenzen&#39;werden verwendet.</p>
-<p><strong>Mögliche Ursache:</strong> Die Kunden erkennen den Wert nicht, den Ihnen die Software bieten kann. Sie benötigen Hilfe bei der Planung der Art und Weise, wie Sie Sie in Ihren Tag einbinden können, um Aufgaben zu vereinfachen, die Sie bereits ausführen, oder um neue Arten von Produktivität zu ermöglichen.</p>
-<p><strong>Was Sie nutzen können:</strong> Fallstudien, Benutzerempfehlungen zu bestimmten Szenarien, Blogs mit Lernprogrammen oder Videos.</p></td>
+<td><p><strong>Problem:</strong> Die Benutzer Akzeptanz Rate ist niedrig, und viele Lizenzen werden&#39;t verwendet.</p>
+<p><strong>Zu berücksichtigende Punkte:</strong> Kunden können den von der Software bereitgestellten Wert möglicherweise nicht verstehen. Sie benötigen Hilfe bei der Planung der Art und Weise, wie Sie Sie in Ihren Tag einbinden können, um Aufgaben zu vereinfachen, die Sie bereits ausführen, oder um neue Arten von Produktivität zu ermöglichen.</p>
+<p><strong>Was Sie ausprobieren sollten:</strong> Fallstudien, Benutzer Hinweise zu bestimmten Szenarien, Tutorial-Blogs oder Videos.</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Problem:</strong> Sie erhalten eine große Anzahl von Hilfe-Supportanrufen und Fragen zu Vorgehensweisen.</p>
-<p><strong>Mögliche Ursache:</strong> Kunden kennen die Software, die Produktversion oder ihre Aufgabe noch nicht so gut.</p>
-<p><strong>Was Sie ausprobieren sollten:</strong> Sie können eine duale Strategie zum anbieten von Schulungen (persönlich oder Online) verwenden, um das&#39;allgemeine Know-how der Kunden zu verbessern und gleichzeitig einige der Self-Service-Optionen zu fördern, die Kunden zur Verfügung stehen.</p>
+<td><p><strong>Problem:</strong> Es gibt eine große Anzahl von Supportanfragen für Hilfe und Anleitungen.</p>
+<p><strong>Zu berücksichtigende Punkte:</strong> Kunden sind möglicherweise noch nicht mit der Software, der Produktversion oder ihrer Aufgabe vertraut.</p>
+<p><strong>Was Sie ausprobieren sollten:</strong> Sie können eine duale Strategie zum anbieten von Schulungen (persönlich oder Online) verwenden, um das allgemeine Know-how der Kunden&#39;zu steigern und gleichzeitig einige der Self-Service-Optionen zu fördern, die Kunden zur Verfügung stehen.</p>
 <p>Sie können ggf. auch Ihre Supportwebsite so anpassen, dass sie zusätzlich zu den Supportkontaktinformationen auch die Self-Service-Optionen umfasst, die im Thema <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Kundenselbsthilfe</a> beschrieben sind.</p></td>
 </tr>
 </tbody>

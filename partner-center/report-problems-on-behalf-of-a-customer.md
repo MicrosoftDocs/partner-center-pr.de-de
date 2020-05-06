@@ -6,26 +6,26 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Wenn Ihr Kunde ein Dienst Problem hat, das Sie nicht beheben können, und das die unter eskalieren von Problemen an Microsoft beschriebenen Kriterien erfüllt, müssen Sie ein Support Ticket für Sie einreichen.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: Serviceanfrage, Serviceticket, Support, Supportanspruch, AOBO, Azure-AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 6076f80821b476549cd264f9d569e9f46201c394
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: d3bd6fe2991f2f7b698cf12864be235c35dce55f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390689"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798688"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>Melden von Problemen im Auftrag eines Kunden
 
-**Gilt für:**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
 
 
-Wenn ein Kunde ein Problem mit einem Dienst meldet, das Sie nicht beheben können und das die unter [Eskalieren von Problemen an Microsoft](escalate-problems-to-microsoft.md) beschriebenen Kriterien erfüllt, beantragen Sie ein Supportticket für den Kunden. Dieser Vorgang eignet sich auch zum Eskalieren von Abrechnungsproblemen oder -streitigkeiten und Betrugsverdachtsfällen.
+Wenn Ihr Kunde ein Dienst Problem hat, das Sie nicht beheben können, und das die unter [eskalieren von Problemen an Microsoft](escalate-problems-to-microsoft.md)beschriebenen Kriterien erfüllt, müssen Sie ein Support Ticket für Sie einreichen. Dieser Vorgang eignet sich auch zum Eskalieren von Abrechnungsproblemen oder -streitigkeiten und Betrugsverdachtsfällen.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Übermitteln einer Serviceanfrage für einen Kunden
 
@@ -49,7 +49,7 @@ Wenn ein Kunde ein Problem mit einem Dienst meldet, das Sie nicht beheben könne
 -   Wählen Sie im Abschnitt **Grundlagen** im Feld **Supportplan** die Option **Cloud-Lösungsanbieter**.
 -   Geben Sie im Abschnitt **Kontakt** der Supportanfrage Ihre Informationen und nicht die Ihres Kunden ein.
 
-3. Überprüfen Sie später die Serviceanfragen Ihres Kunden im Microsoft Azure-Portal, indem Sie **Supportanfragen verwalten** auswählen.
+3. Überprüfen Sie später die Serviceanfragen Ihrer Kunden über das Microsoft Azure-Portal, indem Sie **Supportanfragen verwalten** wählen.
 
 Unter Umständen müssen Sie eine Supportanfrage für einen Kunden erstellen, wenn Sie für diesen Kunden nicht über Administratorberechtigungen verfügen. Dies kann in einem der folgenden Szenarios auftreten: 
  
@@ -70,12 +70,12 @@ In beiden Fällen können Sie das folgende Verfahren zum Erstellen einer Support
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
 1. Wählen Sie im Abschnitt **Serviceanfrage erstellen** die geeignete Supportkategorie aus. Möglicherweise müssen Sie **mehr auswählen...** , um weitere Themen anzuzeigen.    
-2. Füllen Sie das Formular für die Serviceanfrage aus, und wählen Sie **Übermitteln** aus.
+2. Vervollständigen Sie das Service Request Formular, und wählen Sie **senden**aus.
 
    > [!TIP]
    > Denken Sie daran, Ihre Kontaktinformationen und nicht die Ihres Kunden anzugeben.
 
-3. Überprüfen Sie später die Serviceanfragen Ihres Kunden, indem Sie zum Office 365 Admin Center wechseln und **Alle Supporttickets anzeigen** auswählen.
+3. Überprüfen Sie später die Service Requests Ihres Kunden, indem Sie zum Office 365 Admin Center wechseln und **alle Support Tickets**anzeigen auswählen.
 
 ### <a name="support-for-commercial-marketplace-products"></a>Support für Produkte des kommerziellen Marketplace
 

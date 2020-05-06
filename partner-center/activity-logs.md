@@ -6,31 +6,31 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Aktivitäts Protokolle anzeigen und exportieren, um Einblicke in Kundenkonto Transaktionen und andere Kunden relevante Partner Verwaltungsaktivitäten zu erhalten.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: Aktivitätsprotokolle, Abonnement, Abonnements, Zahlungen, Abrechnung, Transaktionen
 ms.localizationpriority: medium
-ms.openlocfilehash: ef848b729079e54df5e898ea67fafdb1d1e87d25
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: caa203cac0aba616129158d453518166c322aac4
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390379"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798658"
 ---
 # <a name="view-customer-activity-logs"></a>Anzeigen von Kundenaktivitätsprotokollen
 
-**Gilt für:**
+**Zielgruppe**
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
-- Partner im Programm für Cloud Solution Provider
+- Partner im Cloud Solution Provider-Programm
 
 **Geeignete Rollen**
 
 - Globaler Administrator
 - Abrechnungsadministrator
 - Benutzerverwaltungsadministrator
-- Administratoragent
+- Administrator-Agent
 - Vertriebsbeauftragter
 - Helpdesk-Agent
 
@@ -55,7 +55,7 @@ Aktivitätsprotokolle enthalten Datensätze für Partneraktionen für Kundenkont
     -   **Action**: die vom Kunden ausgeführte Aktion, z. B. „hat eine Empfehlung erstellt“
     -   **Partner user**: der mit der Aktivität verknüpfte Partner
 
-4.  Wählen Sie **Export log**, um die Abonnementdaten des Kunden in eine CSV-Datei zu kopieren und in den Standarddownloadordner auf Ihrem Computer hochzuladen.
+4.  Wählen Sie **Exportprotokoll** aus, um die Abonnementdaten des Kunden in eine CSV-Datei zu kopieren und in den Standarddownloadordner auf Ihrem Computer hochzuladen.
     
  
 

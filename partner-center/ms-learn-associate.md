@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Ihre MCP-ID Ihrem Partner Center-Konto zuordnen, damit Ihr Unternehmen die Trainings- und Lernpfade sehen kann, die Sie in Bezug auf Kompetenzen durchlaufen haben.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: Rollen, Berechtigungen, Benutzer hinzufügen, Rolle zuweisen, Administrator, Agent, MCP-ID, Microsoft Learn
 ms.localizationpriority: high
-ms.openlocfilehash: 3490b69fd2222d4aa6fee1387fa5cff2e88525e3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: e17ec9bb13c80c621ee0b581a6a0ebffabb2de65
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80390839"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798828"
 ---
 # <a name="associate-your-microsoft-learn-account-in-partner-center"></a>Zuordnen des Microsoft Learn-Kontos im Partner Center
 

@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: In diesem Artikel finden Sie Links zu Programmleitfäden, Partnervereinbarungen, Kundenverträgen, Preislisten und Angeboten für Cloud Solution Provider.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote
 ms.localizationpriority: high
-ms.openlocfilehash: 8df1879901d44e6c74058dd45d99d00dab2f4bb2
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 8e3b5c7a8718de446c3d09daa735f425d627648c
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80390009"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798478"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Programmleitfaden, Vereinbarungen, Preislisten und Angebote zu Cloud Solution Provider
 

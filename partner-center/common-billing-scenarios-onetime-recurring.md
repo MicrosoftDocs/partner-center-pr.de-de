@@ -4,22 +4,22 @@ ms.topic: article
 ms.date: 11/25/2019
 description: Weitere Informationen finden Sie in den Partner Center-Abrechnungs Beispielen für einmalige und wiederkehrende Käufe. Wenn Sie Abonnements erwerben, können Sie weitere Abonnements hinzufügen, Arbeitsplätze hinzufügen oder entfernen.
 ms.assetid: ''
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: Abrechnung, Zahlungen, einmaliger Kauf, wiederkehrende Käufe, Abonnements, Arbeitsplätze
 ms.localizationpriority: medium
-ms.openlocfilehash: 9f1a96bfeee667f998d163416b96c281803f7107
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7614721d4b10656681c177996f9b2cc3addd85f4
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390119"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798528"
 ---
 # <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>Einmalige Kauf Abrechnungs Szenarien und Auswählen von wiederkehrenden Abrechnungs Szenarien
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Abrechnungsadministrator
 - Helpdesk-Agent
 - Vertriebsbeauftragter
@@ -36,11 +36,11 @@ Die Kontenabstimmungsdatei enthält Folgendes:
 - -4,00 USD anteilige Weiterbelastung für den Leistungszeitraum 11. Juni bis 11. Juni. Dies ist der Zeitraum, in Sie eine Lizenz besessen haben. Berechnung: (monatlicher Preis/Tage im gesamten Leistungszeitraum) x Tage im anteiligen Leistungszeitraum x Lizenzanzahl = (4/30) x 30 x 1 = 4,00.
 - 8,00 USD anteilige Weiterbelastung für den Leistungszeitraum 10. Juni bis 9. Juli. Dies ist der Zeitraum, in Sie zwei Lizenzen besessen haben. Berechnung: (4/30) x 30 x 2 = 8,00.
 
-|**Kaufdatum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Preis pro Einheit**  |**Anzahl**  |**Betrag** |**Gebührenart** |
+|**Kauf Datum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Einzelpreis**  |**Mess**  |**Amount** |**Gebührentyp** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11.06.2019      |10.06.2019   |09.07.2019         |4 USD                |1                 |4 USD            |Neu         |
-|11.06.2019     | 10.06.2019    |09.07.2019        |4 USD        |1        | -4 USD       |addQuantity           |
-|11.06.2019     | 10.06.2019    |09.07.2019        |4 USD        | 2      |-8 USD         |addQuantity           |
+|11.06.2019      |10.06.2019   |09.07.2019         |4 US-Dollar                |1                 |4 US-Dollar            |„Neu“,         |
+|11.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        |1        | -4 USD       |addQuantity           |
+|11.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        | 2      |-8 USD         |addQuantity           |
 
 ## <a name="purchase-a-subscription-and-add-more-subscriptions-later"></a>Erwerben eines Abonnements und Hinzufügen von weiteren Abonnements später
 
@@ -52,11 +52,11 @@ Die Kontenabstimmungsdatei enthält Folgendes:
 - -3,87 USD anteilige Weiterbelastung für den Leistungszeitraum 11. Juni bis 12. Juni. Dies ist der Zeitraum, in Sie eine Lizenz besessen haben. Berechnung: (monatlicher Preis/Tage im gesamten Leistungszeitraum) x Tage im anteiligen Leistungszeitraum x Lizenzanzahl = (4/30) x 29 x 1 = 3,87.
 - 7,74 USD anteilige Weiterbelastung für den Leistungszeitraum 12. Juni bis 9. Juli. Dies ist der Zeitraum, in Sie zwei Lizenzen besessen haben. Berechnung = (4/30) x 29 x 2 = 7,74.
 
-|**Kaufdatum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Preis pro Einheit**  |**Anzahl**  |**Betrag** |**Gebührenart** |
+|**Kauf Datum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Einzelpreis**  |**Mess**  |**Amount** |**Gebührentyp** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11.06.2019 (Sie verfügen über eine Lizenz)     |10.06.2019   |09.07.2019         |4 USD         |1        |4 USD            |Neu         |
-|12.06.2019     | 10.06.2019    |09.07.2019        |4 USD        |1        | -3,87 USD       |addQuantity           |
-|12.06.2019     | 10.06.2019    |09.07.2019        |4 USD        | 2      |7,74 USD       |addQuantity           |
+|11.06.2019 (Sie verfügen über eine Lizenz)     |10.06.2019   |09.07.2019         |4 US-Dollar         |1        |4 US-Dollar            |„Neu“,         |
+|12.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        |1        | -3,87 USD       |addQuantity           |
+|12.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        | 2      |7,74 USD       |addQuantity           |
 
 ## <a name="purchase-a-subscription-and-remove-a-seat-on-the-same-day"></a>Erwerben eines Abonnements und Entfernen eines Arbeitsplatzes am selben Tag
 
@@ -68,11 +68,11 @@ Die Kontenabstimmungsdatei enthält Folgendes:
 - -8,00 USD anteilige Weiterbelastung für den Leistungszeitraum 11. Juni bis 11. Juni. Dies ist der Zeitraum, in Sie zwei Lizenzen besessen haben. Berechnung: (monatlicher Preis/Tage im gesamten Leistungszeitraum) x Tage im anteiligen Leistungszeitraum x Lizenzanzahl = (4/30) x 30 x 2 = 8,00.
 - 4,00 USD anteilige Weiterbelastung für den Leistungszeitraum 11. Juni bis 9. Juli. Dies ist der Zeitraum, in Sie eine Lizenz besessen haben. Berechnung = (4/30) x 30 x 1 = 4,00.
 
-|**Kaufdatum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Preis pro Einheit**  |**Anzahl**  |**Betrag** |**Gebührenart** |
+|**Kauf Datum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Einzelpreis**  |**Mess**  |**Amount** |**Gebührentyp** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11.06.2019      |10.06.2019   |09.07.2019         |4 USD                |2                 |-8 USD            |Neu         |
-|11.06.2019     | 10.06.2019    |09.07.2019        |4 USD        |2        | -8 USD       |removeQuantity           |
-|11.06.2019     | 10.06.2019    |09.07.2019        |4 USD        | 1      |4 USD         |removeQuantity           |
+|11.06.2019      |10.06.2019   |09.07.2019         |4 US-Dollar                |2                 |-8 USD            |„Neu“,         |
+|11.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        |2        | - 8 US-Dollar       |removeQuantity           |
+|11.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        | 1      |4 US-Dollar         |removeQuantity           |
 
 ## <a name="purchase-a-subscription-and-remove-seats-later"></a>Erwerben eines Abonnements und Entfernen von Arbeitsplätzen zu einem späteren Zeitpunkt
 
@@ -84,8 +84,8 @@ Die Kontenabstimmungsdatei enthält Folgendes:
 - -7.74 USD anteilige Weiterbelastung für den Leistungszeitraum 11. Juni bis 12. Juni. Dies ist der Zeitraum, in Sie zwei Lizenzen besessen haben. Berechnung: (monatlicher Preis/Tage im gesamten Leistungszeitraum) x Tage im anteiligen Leistungszeitraum x Lizenzanzahl = (4/30) x 29 x 2 = 7,74.
 - 3,87 USD anteilige Weiterbelastung für den Leistungszeitraum 12. Juni bis 9. Juli. Dies ist der Zeitraum, in Sie eine Lizenz besessen haben. Berechnung = (4/30) x 29 x 1 = 3,87.
 
-|**Kaufdatum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Preis pro Einheit**  |**Anzahl**  |**Betrag** |**Gebührenart** |
+|**Kauf Datum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Einzelpreis**  |**Mess**  |**Amount** |**Gebührentyp** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11.06.2019 (Sie haben 2 Lizenzen)     |10.06.2019   |09.07.2019         |4 USD         |2        |-8 USD       |Neu       |
-|12.06.2019     | 10.06.2019    |09.07.2019        |4 USD        |2        | -7,74 USD       |removeQuantity           |
-|12.06.2019 (Sie haben 1 Lizenz)    | 10.06.2019    |09.07.2019   |4 USD    |1      |3,87 USD    |removeQuantity |
+|11.06.2019 (Sie haben 2 Lizenzen)     |10.06.2019   |09.07.2019         |4 US-Dollar         |2        |-8 USD       |„Neu“,       |
+|12.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        |2        | -7,74 USD       |removeQuantity           |
+|12.06.2019 (Sie haben 1 Lizenz)    | 10.06.2019    |09.07.2019   |4 US-Dollar    |1      |3,87 USD    |removeQuantity |

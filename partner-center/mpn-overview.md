@@ -5,17 +5,17 @@ ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Hier erfährst du mehr über die Vorteile einer Partnerschaft mit Microsoft einschließlich Microsoft Action Pack, Kompetenzen und Programmoptionen, mit denen du einen Wettbewerbsvorteil erzielen, Produkte auf den Markt bringen und Lösungen verkaufen kannst.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Partner, Partnerschaft, MPN, Microsoft Partner Network Action Pack, MAPS, Aktion Pack-Abonnement, Vorteile, MPN-Vorteile, Mitgliedschaft, Silver, Gold, Kompetenzen
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: ef6ef1aacfc02205f0c2eab9d3a084b5d4d51b13
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 617fa9afac5dcb43304aad63d2aa9b9d4928f293
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80390859"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798838"
 ---
 # <a name="partner-with-microsoft"></a>Partner von Microsoft
 

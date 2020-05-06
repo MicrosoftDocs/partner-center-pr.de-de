@@ -6,26 +6,26 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie die Dienst Integrität für einen Kunden überprüfen, wenn ein Problem mit einem Dienst auftritt.
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: Integrität, Dienstintegrität, Dienstprobleme
 ms.localizationpriority: medium
-ms.openlocfilehash: 588145555426cf49c2bf0410078c158f142a74ba
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 99901e357acc73d4a57af710d011fdc2b8621d2f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390209"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798558"
 ---
 # <a name="check-service-health"></a>Überprüfen der Dienstintegrität
 
-**Gilt für:**
+**Zielgruppe**
 
 - Partner Center
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Globaler Administrator
 - Helpdesk-Agent
 - Vertriebsbeauftragter

@@ -1,33 +1,33 @@
 ---
-title: Verwenden von Werbeaktionen, um neue Kunden gewinnen | Partner Center
+title: Verwenden von Werbeaktionen zum Gewinnen neuer Kunden | Partner Center
 ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Als Microsoft-Partner im Cloud-Lösungsanbieter-Programm können Sie Abonnements zu Aktionspreisen erwerben und die Einsparungen an die Kunden weitergeben.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 11bf5ae35ce20cf7290e1fbbdc1aa21c368c9a1b
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 3d43853c149f00ba284065a05ff5e6585beb4495
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390739"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798738"
 ---
-# <a name="use-promotions-to-attract-new-customers"></a>Verwenden von Werbeaktionen, um neue Kunden gewinnen  
+# <a name="use-promotions-to-attract-new-customers"></a>Verwenden von Werbeaktionen zum Gewinnen neuer Kunden  
 
 **Gilt für: Partner Center**
 
 **Geeignete Rollen**
--   Administratoragent
--   Administrator für MPN-Partner
+-   Administrator-Agent
+-   MPN-Partneradministrator
 -   Abrechnungsadministrator
 -   Vertriebsbeauftragter
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
-Microsoft bietet gelegentlich Werbeaktionen für lizenzbasierte Abonnements an, deren Einsparungen Sie an die Kunden weitergeben können. 
+Microsoft bietet gelegentlich Werbeaktionen für lizenzbasierte Abonnements an, deren Einsparungen Sie an die Kunden weitergeben können, um Ihr Geschäft zu erweitern. 
 
 Microsoft bietet zwei Arten von Werbeaktionen: die, die für alle berechtigten Partner im Cloud-Lösungsanbieter-Programm zur Verfügung stehen, und die, die nur für Partner in einer bestimmten geografischen Region zur Verfügung stehen.
 
@@ -52,13 +52,13 @@ Sie können auf Ihrer **Promotionseite** sehen, wofür Sie ggf. berechtigt sind.
 
 1. Wählen Sie im **Partner Center** -Menü **Kunden** aus, und wählen Sie dann den Kunden aus, der das Abonnement kauft. 
 
-2. Wählen Sie **Abonnement hinzufügen**.
+2. Wählen Sie **Abonnement hinzufügen** aus.
 
 3. Wählen Sie auf der Seite **Neues Abonnement** das Abonnement aus, für das die Aktion gilt.
 
 4. Geben Sie die Anzahl der Lizenzen ein, die der Kunde benötigt. 
 
-5. Überprüfen Sie die Bestellung. Sie sehen den angewendeten Aktionspreis in der **Rabatt** Spalte.  
+5. Überprüfen Sie die Bestellung. Sie sehen den angewendeten Aktionspreis in der Spalte **Rabatt**.  
 
 6.  Wählen Sie zum Kauf **Senden** aus. Ihr Kunde sieht den reduzierten Preis auf der nächsten Rechnung.  
 

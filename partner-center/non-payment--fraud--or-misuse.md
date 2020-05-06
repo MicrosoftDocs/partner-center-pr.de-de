@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Es ist wichtig, dass Sie sich mit den verschiedenen Arten von Risiken befassen, die bei Online Transaktionen und bewährten Methoden für die Verwaltung und Minimierung dieser Risiken entstehen.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: Betrug, Missbrauch, akzeptable Nutzung, akzeptable Nutzungsrichtlinien, Nichtzahlung, Zahlung durch den Kunden, Onlinerisiko, Diebstahl von Diensten, Dienstmissbrauch, Anhalten eines Abonnements,
-author: jasonwhowell
-ms.author: jasonh
+keywords: Betrug, Missbrauch, akzeptable Nutzung, Nutzungsrichtlinie, Nichtzahlung, Kunde bezahlt die Rechnung nicht, Onlinerisiko, Diebstahl von Diensten, Dienstmissbrauch, Abonnements aussetzen
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6f92976f6aabc0296abb52ef6ec6dc7bd8ee4599
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390809"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798798"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Verwalten von Nichtzahlung, Betrug oder Missbrauch im Partner Center
 
-Betrifft:
+Gilt für:
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
@@ -28,7 +28,7 @@ Betrifft:
 **Geeignete Rollen**
 -   Globaler Administrator
 -   Benutzeradministrator
--   Administratoragent
+-   Administrator-Agent
 -   Abrechnungsadministrator
 
 Sie sind finanziell verantwortlich für betrügerische Einkäufe Ihrer Kunden und/oder für die Nichtzahlung von gekauften Dienstleistungen durch Ihre Kunden. Daher wird *dringend empfohlen, dass Sie die Verhinderung von Betrugsschutz-und Erkennungs Risiken durchsetzen*.
@@ -48,11 +48,11 @@ Wenn Microsoft Partner-oder Kunden Aktivitäten erkennt, die wir bestätigen ode
 Beispiele für diese Verstöße gegen die Acceptable Use Policy von Microsoft können Folgendes umfassen:
 
 - Spamming
-- Hacking
+- Hacken
 - Verteilte Denial-of-Service-Angriffe (DDoS)
 - Bitcoin-Mining
-- Malwareverteilung
-- Weiterverkauf illegal erworbener Abonnements
+- Verteilung von Schadsoftware
+- Weiterverkauf unrechtmäßig erworbener Abonnements
 
 ## <a name="theft-of-service-risks"></a>Diebstahl von Dienst Risiken
 
@@ -83,7 +83,7 @@ Vorschläge zum Verringern von Online Risiken beim Onboarding von neuen Kunden:
 - Bewerten Sie die Finanzstärke von Kunden durch strenge Kreditkarten-Betrugs Erkennungssysteme.
 - Richten Sie eine Richtlinie zum Löschen von Sammlungen ein Beschreiben Sie den Prozess ihrer Sammlungen, und wenn der Zugriff auf Abonnements durch eine Nichtzahlung beeinträchtigt wird. (Sie können den Zugriff auf [die Abonnements eines Kunden für eine](suspend-a-subscription.md) Nichtzahlung deaktivieren oder diese Sperren.)
 
-### <a name="managing-customer-accounts"></a>Verwalten von Kundenkonten
+### <a name="managing-customer-accounts"></a>Kundenkonten
 
 Vorschläge für die Verwaltung von Kundenkonten nach dem Kauf:
 
@@ -101,4 +101,4 @@ Vorschläge zur Verwaltung der Kundenabrechnung nach dem Kauf:
 - Akzeptieren Sie keine risikoreichen Zahlungsinstrumente (z. b. vorab bezahlte Karten oder gespeicherte Wertkarten).
 - Überwachen von Kunden Zahlungen und Abrechnungen von Konten. Erzwingen Sie eine aggressive Durchsetzung standardisierter Prozesse für späte Zahlungen oder eine Nichtzahlung.
 
-Detailliertere Strategien zur Minderung des Onlinerisikos finden Sie im der [Anleitung zur Verwaltung von Onlinetransaktionsrisiken](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip).
+Detailliertere Strategien zur Minderung des Onlinerisikos finden Sie in der [Anleitung zur Verwaltung von Onlinetransaktionsrisiken](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip).

@@ -6,25 +6,25 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Partner können APIs für Office 365 und Microsoft Azure Partner für Echtzeitdienst Integrität, Nachrichten Center Kommunikation und geplante Wartungs Ereignisse verwenden.
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e3424f1670a5b7533bcee1e7ca29197ad3ee58d8
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: cdfb76e55851c5e79eca160945da566db867928a
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80391029"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798258"
 ---
 # <a name="get-automated-service-notifications-with-our-apis"></a>Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs
 
-**Gilt für:**
+**Zielgruppe**
 
 -  Partner Center
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Global 
 - Vertriebsbeauftragter
 - Helpdesk-Agent

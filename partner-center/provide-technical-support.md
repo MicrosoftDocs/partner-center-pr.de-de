@@ -6,19 +6,19 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Eine Übersicht über die verschiedenen Methoden und Arten von technischem Support, die Sie Ihren Kunden anbieten können.
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 068d53a72608b29cc4dd7854caf20d32ffe77b06
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: de7207464b5960d04df50dce1b4e938bc2ad86e0
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390719"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798718"
 ---
 # <a name="provide-technical-support"></a>Bereitstellen von technischem Support
 
-**Gilt für:**
+**Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
@@ -27,7 +27,7 @@ ms.locfileid: "80390719"
 -   Globaler Administrator
 -   Benutzeradministrator
 -   Helpdesk-Agent
--   Administratoragent
+-   Administrator-Agent
 
 Als Partner im Programm für Cloud-Lösungsanbieter verfügen Sie über delegierte Administratorrechte, die Ihnen den Zugriff auf die Umgebungen Ihrer Kunden ermöglichen. Diese Berechtigungen bieten Ihnen die Möglichkeit, die Abonnements ihrer Kunden direkt zu unterstützen, zu konfigurieren und zu verwalten.
 
@@ -38,7 +38,7 @@ Im Partner Center können Sie folgende Aktionen ausführen:
 
 **Ausführen von Verwaltungsaufgaben für Kunden**
 
-1.  Wählen Sie **Kunden** im Menü **Partner Center** aus. Wählen Sie den Kunden aus der Liste aus.
+1.  Wählen Sie im **Partner Center** -Menü die Option **Kunden**aus. Wählen Sie den Kunden aus der Liste aus.
 2.  Wählen Sie im Menü „Kunden” **Service management**.
 3.  Wählen Sie im Abschnitt **Dienste verwalten** den Dienst aus, den Sie verwalten müssen, um das Verwaltungsportal für den Dienst zu öffnen.
 4.  Wenn Sie ein Problem mit dem Konto eines Kunden finden, z. b. Dienste, die nicht heruntergestuft werden oder eine Beeinträchtigung der Benutzerfreundlichkeit auftreten, sollten Sie zunächst die Dienst Integrität überprüfen. Siehe [Überprüfen der Dienstintegrität](check-service-health.md).
@@ -49,7 +49,7 @@ Im Partner Center können Sie folgende Aktionen ausführen:
 
 Partner des CSP-Modells sind vertrauenswürdige Berater für ihre Kunden und für die gesamte Kundenbeziehung zuständig. Hierzu gehört auch eine entsprechende Unterstützung, wenn der Kunde eine Frage oder ein Problem hat. Durch die Supportkontakte können Partner mehr über den Kunden und sein Unternehmen lernen und auch neue Dienste und Lösungen identifizieren, die den Nutzen erhöhen.
 
-Um die Supportanforderungen zu erfüllen, kann der Partner Support von einer anderen Entität weiterverkaufen, die gesamte Supportstruktur oder einen Teil davon auslagern und/oder eine Struktur einrichten, um direkte Unterstützung anzubieten.  Der Partner kann Kunden den Support vollständig oder teilweise in Rechnung stellen. Die Partner sollten ihre Kunden über den Support informieren, den sie bereitstellen, sowie über Servicezeiten, Kontaktmethode und Preise (sofern zutreffend). 
+Um die Supportanforderungen zu erfüllen, kann der Partner Support von einer anderen Entität weiterverkaufen, die gesamte Supportstruktur oder einen Teil davon auslagern und/oder eine Struktur einrichten, um direkte Unterstützung anzubieten.  Der Partner kann Kunden den Support vollständig oder teilweise in Rechnung stellen. Die Partner sollten ihre Kunden über den von ihnen bereitgestellten Support sowie über Servicezeiten, Kontaktmethode und Preise (sofern zutreffend) informieren. 
 
 Partner sind verpflichtet, eingehende Supportanfragen von Kunden zu erhalten, Probleme zu diagnostizieren, um die bestmögliche Fähigkeit der Partner zu diagnostizieren und dann Probleme zu beheben, die sich innerhalb des Bereichs der Basis Linien-Support Grenzen befinden. Wenn der Partner ein Problem nicht lösen kann, kann er es an Microsoft über die folgenden Supportwerkzeuge eskalieren:
 
@@ -57,11 +57,11 @@ Partner sind verpflichtet, eingehende Supportanfragen von Kunden zu erhalten, Pr
 -   Support für **technische** Probleme ist verfügbar über:
     -   Premiumsupport für Partner (gebührenpflichtig)
     -   Erweiterter Support für Partner (gebührenpflichtig)
-    -   Signature Cloud Support (in Gold/Silver-Kompetenz enthalten)
+    -   Signature Cloud Support (in Gold-/Silver-Kompetenz enthalten)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Bereitstellen von Abrechnung, Abonnementverwaltung und technischem Support 
 
-Für jeden Onlinedienst gibt es bestimmte, detaillierte Anforderungen für die Bereitstellung von Abrechnung, Abonnementverwaltung und technischem Support für Kunden. Weitere Informationen finden Sie in den folgenden Dokumenten:
+Bei jedem Onlinedienst gibt es bestimmte, detaillierte Anforderungen für die Bereitstellung von Abrechnung, Abonnementverwaltung und technischem Support für Kunden. Weitere Informationen finden Sie in den folgenden Dokumenten:
 
 -   [Dynamics 365-Abonnements über CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

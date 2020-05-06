@@ -5,19 +5,19 @@ ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Testen Sie die neuen Partner Center-Features vor der Freigabe, und teilen Sie uns Ihre Meinung mit. Helfen Sie bei der Gestaltung der Zukunft von Partner Center!
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 367fe22b984277b02e4161bf12cf2198ab663c5b
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 0f2761a743254a9c1dc8b40cc749e415587cae08
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390569"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797708"
 ---
 # <a name="test-drive-new-partner-center-features"></a>Testen von neuen Partner Center-Features
 
-**Gilt für:**
+**Zielgruppe**
 
 - Partner Center
 
@@ -36,7 +36,7 @@ Wir möchten dich gerne einladen, neue Features zu testen, bevor sie in der welt
 3. Wenn du ein bestimmtes Feature testen möchtest, schiebe einfach den entsprechenden Regler auf **Ein**. 
 
 > [!NOTE]  
->  Nur globale Administratoren und Admin-Agents können Vorabversionen von Features aktivieren. Allerdings können alle Partner Center-Benutzer die Vorschaufeatures sehen und verwenden, wenn sie über die entsprechenden Berechtigungen verfügen.
+>  Nur globale Administratoren und Administrator-Agents können Vorabversionen von Features aktivieren. Allerdings können alle Partner Center-Benutzer die Vorschaufeatures sehen und verwenden, wenn sie über die entsprechenden Berechtigungen verfügen.
 
 > [!IMPORTANT]  
 > Während der Vorschauphase zukünftiger Featureversionen arbeiten wir weiterhin an der Behebung von Fehlern und der Verbesserung der Featureleistung. Dies kann zu einer veränderten endgültigen Funktionsweise des Features führen. Vorschauversionen können unter anderem aus diesen Gründen ein unvorhersehbares Verhalten aufweisen, und Microsoft schließt jegliche Gewährleistung in Verbindung mit diesen Features aus.
@@ -48,17 +48,17 @@ Wir möchten dich gerne einladen, neue Features zu testen, bevor sie in der welt
 
 
  
-## <a name="tell-us-what-you-think"></a>Teilen Sie uns Ihre Meinung mit.
+## <a name="tell-us-what-you-think"></a>Sagen Sie uns Ihre Meinung
 
 Unser Ziel bei allem, das wir für Partner Center entwickeln, ist es, Ihnen zu ermöglichen, mehr zu erreichen. Wir möchten unsere Anstrengungen auf Features und Funktionen konzentrieren, mit denen Sie Ihr Unternehmen erweitern können. Wir laden Sie also ein, neue Features auszuprobieren und Ihr Feedback zu Ihnen zu teilen, bevor Sie in der weltweiten Partner Center-Community veröffentlicht werden. 
 
 Wir empfehlen Ihnen, Ihre Ideen und Gedanken zu einer bestimmten Vorschauversion oder zum Partner Center als ganzes auszutauschen und neue Features vorzuschlagen, die Sie auf der Website hinzufügen möchten. Zur Übermittlung von Feedback können Sie:  
 
--   Das Feedback-Formular in der unteren rechten Ecke des Partner Center-Fensters verwenden, um Ihr Feedback direkt an uns zu senden. 
+-   Das Feedbackformular in der unteren rechten Ecke des Partner Center-Fensters verwenden, um Ihr Feedback direkt an uns zu senden. 
 
 -   Support anfordern, wenn Probleme mit einem Vorschaufeature auftreten. Wählen Sie zum Erstellen einer Supportanfrage **Supportanfragen > Partner Center-Anfragen** im Menü **Partner Center** und dann **Neue Anforderung** auf der Seite **Partner Center-Anfragen** aus.
 
 
 
--- Ihr Partner Center-Team
+-- Das Partner Center-Team
 

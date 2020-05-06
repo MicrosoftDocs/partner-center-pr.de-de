@@ -5,16 +5,16 @@ ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfährst du, wo du regions- und sprachspezifische Versionen der Microsoft-Kundenvereinbarung finden und herunterladen kannst, um sie gemeinsam mit deinen Kunden zu überprüfen.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Microsoft-Kundenvereinbarungen, Vorlagen für Kundenvereinbarungen, CSP-Vereinbarungen für Kunden, Microsoft-Kundenvereinbarung, Microsoft Cloud Agreement, MCA, CSP, wo kann ich über CSP verkaufen?, CSP-Länder und -Regionen, CSP-MCAs in mehreren Sprachen, CSP Nordamerika, CSP Mittelamerika, CSP Südamerika, CSP Karibik, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud Deutschland, CSP Naher Osten, CSP Afrika, CSP Europa, CSP Asien, CSP Pazifik, CSP-MCAs
 ms.localizationpriority: high
-ms.openlocfilehash: 501d6d933ba253e42875056e0e245b0af65138b3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: f60bcdd5c986e825089144ff4b908ed5b779a735
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80389629"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798638"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Microsoft-Kundenvereinbarungen nach Region und Sprache
 

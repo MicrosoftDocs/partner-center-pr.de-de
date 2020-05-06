@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie Sie im Partner Center Benutzerkonten erstellen und Rollen für jeden Mitarbeiter zuweisen, der Zugriff benötigt. Benutzer mit unterschiedlichen Administratorrechten können dies erledigen.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: Rollen, Berechtigungen, Benutzer hinzufügen, Rolle zuweisen, Administrator, Agent
 ms.localizationpriority: high
-ms.openlocfilehash: 98dce89c0eab132ec0f247d25632617d8dd503cc
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: f163e37f537f537b6eae086e355c87d892d1a745
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80389649"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798488"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen
 

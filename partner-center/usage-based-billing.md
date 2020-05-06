@@ -3,16 +3,16 @@ title: Nutzungsbasierte Abrechnung | Partner Center
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informationen zur nutzungsbasierten Abrechnung in Partner Center, bei denen Ihnen monatliche Nutzungsgebühren in Rechnung gestellt werden.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Abrechnung, Nutzungs basiert, Nutzung
 ms.localizationpriority: medium
-ms.openlocfilehash: 560c2760fcdf221fad9142fa36024e04e7ff1104
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: d7828dc09037dd5fdd33f0650e324aef8ec294d9
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390499"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797668"
 ---
 # <a name="usage-based-billing"></a>Nutzungsbasierte Abrechnung
 
@@ -29,7 +29,7 @@ Nur die **monatliche Abrechnung** ist für nutzungsbasierte Produkte verfügbar.
 
 Nutzungsbasierte Abonnements werden monatlich nach dem **Abonnement Stichtag**in Rechnung gestellt. Wenn das Abonnement Jahrestag beispielsweise der 15. Januar ist, wird Ihnen der 15. Januar für den Dienst Zeitraum vom 15. Dezember bis zum 14. Januar in Rechnung gestellt. Sie werden am 15. Februar für den Dienst Zeitraum vom 15. Januar bis zum 14. Februar in Rechnung gestellt. 
 
-## <a name="usage-charges"></a>Nutzungsgebühren
+## <a name="usage-charges"></a>Usage Charges
 
 Die Gebühren, die für das Abonnement Stichtag generiert werden, werden in der folgenden Rechnung und in der Abstimmungs [Datei](usage-based-recon-files.md)angezeigt.
 
@@ -41,6 +41,6 @@ Nutzungsbasierte Abonnements können jederzeit angehalten werden.
 
 ## <a name="pricing-for-usage"></a>Preise für die Nutzung
 
-Der Azure-CSP-Preisliste wird monatlich veröffentlicht und kann auf dem Partner Center unter Verkaufen-> Preise und Angebote gefunden werden kann. Beachten Sie, dass die Preise sich täglich ändern können und auf der Registerkarte Verlaufsänderungen der Preisliste angezeigt werden.
+Die Azure-CSP-Preisliste wird monatlich veröffentlicht und ist auf der Partner Center-Seite „Verkaufen“ -> „Preise und Angebote“ zu finden. Bitte beachten Sie, dass die Preise sich täglich ändern können und auf der Registerkarte „Änderungsverlauf“ der Preisliste angezeigt werden.
 
-Nutzungsgebühren basieren auf täglichen Preisen. Ändert sich der Preis während des Dienstzeitraums, sehen Sie eine Abrechnungszeile für die anteilige Service-Dauer und den entsprechenden Preis.
+Nutzungsgebühren basieren auf Preisen pro Tag. Wenn sich der Preis während des Dienstzeitraums ändert, sehen Sie eine Rechnungsposition für jeden anteiligen Dienstzeitraum und den anzuwendenden Preis.

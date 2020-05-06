@@ -6,20 +6,20 @@ description: Ihre Rechnung ist eine Zusammenfassung aller Gebühren für Partner
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Abonnementabrechnungen, Abrechnung, Abrechnung im Partner Center, Partner Center-Abrechnung, meine Rechnung lesen, Rechnung, Rechnung für Partner Center, CSP-Abrechnung, wo ist meine Rechnung?
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e4d6b16e3b27b5244687bf9c1f292a5ba353e24
-ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
+ms.openlocfilehash: d3d225a3290a25636a606465b548382130115472
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "80676843"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798708"
 ---
-# <a name="understand-your-bill"></a>Verstehen Ihrer Rechnung
+# <a name="understand-your-bill"></a>Erläuterungen zur Rechnung
 
-**Gilt für:**
+**Zielgruppe**
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
@@ -28,7 +28,7 @@ ms.locfileid: "80676843"
 
 - Globaler Administrator
 - Abrechnungsadministrator
-- Administratoragent
+- Administrator-Agent
 
 
 Ihre **Rechnung** ist eine **Zusammenfassung aller Kosten Ihres Partner Centers** (Programm übergreifend, alle Produkte und alle Kunden). 
@@ -39,17 +39,17 @@ Microsoft gibt eine Rechnung für Lizenz basierte Gebühren (z. b. Office 365) u
 
 Beispiel:  
 
-**Szenario 1 [Einzel Währung]** : Partner verfügen über Einkäufe für das Angebot "145P" und O365 Lizenzen,  
+**Szenario 1 [Einzel Währung]**: Partner verfügen über Einkäufe für das Angebot "145P" und O365 Lizenzen,  
 
 - Der Partner erhält eine Rechnung PDF und 2 Abstimmungs Dateien, die die Gebühren für O365 und Azure (145P) abdecken.  
 
-**Szenario 2 [Einzel Währung]** : Partner haben Käufe für den Azure-RI-, Marketplace-und/oder Azure-Plan zusammen mit 145P-Käufen. 
+**Szenario 2 [Einzel Währung]**: Partner haben Käufe für den Azure-RI-, Marketplace-und/oder Azure-Plan zusammen mit 145P-Käufen. 
 
 - Der Partner erhält eine Rechnung PDF und eine Abstimmungs Datei mit den Gebühren für Azure (145P). 
 
 - Der Partner erhält eine weitere Rechnung PDF und eine Abstimmungs Datei mit den Gebühren für den Azure RI-, Marketplace-und Azure-Plan. 
 
-**Szenario 3 [Multi-currency]** : Partner haben Käufe für Azure RI in DKK und Azure-Plan in EUR zusammen mit 145P-Käufen in EUR. 
+**Szenario 3 [Multi-currency]**: Partner haben Käufe für Azure RI in DKK und Azure-Plan in EUR zusammen mit 145P-Käufen in EUR. 
 
 - Der Partner erhält eine Rechnung PDF und eine Abstimmungs Datei, die die Gebühren für Azure RI in DKK abdeckt. 
 

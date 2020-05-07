@@ -6,26 +6,26 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie ein Kundenkonto zum gleichzeitigen zuweisen oder widerrufen von Lizenzen und Diensten für einen oder mehrere Benutzer verwenden.
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: Lizenz zuweisen, Lizenz widerrufen, mehreren Benutzern zuweisen,
 ms.localizationpriority: medium
-ms.openlocfilehash: a5dd688a5d4abd8d7f41921a16a7eda0467e5950
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7018b1f4ae56ee267a39239c97bf7355381e6802
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390269"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798568"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer
 
-**Gilt für:**
+**Zielgruppe**
 
 - Partner Center
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Globaler Administrator
 - Helpdesk-Agent
 - Vertriebsbeauftragter
@@ -35,7 +35,7 @@ Sie können Lizenzen und Dienste einem Benutzer oder gleichzeitig mehreren Benut
 
 Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und zeigt diese an.
 
-## <a name="in-this-section"></a>Inhalt dieses Abschnitts
+## <a name="in-this-section"></a>In diesem Abschnitt
 
 
 - [Zuweisen von Lizenzen zu mehreren Benutzern](#assign-licenses-to-groups)
@@ -46,7 +46,7 @@ Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und ze
 
 1. Wählen Sie im Menü **Partner Center** die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 
-2. Wählen Sie **Benutzer und Lizenzen**.
+2. Wählen Sie **Benutzer und Lizenzen**aus.
 
 3. Aktivieren Sie das Kontrollkästchen für zwei oder mehr Benutzer aus der Liste. (Aktivieren Sie zum Auswählen aller Benutzer auf der aktuellen Seite das Kontrollkästchen oben in der Spalte **Benutzer**.)
 
@@ -76,15 +76,15 @@ Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und ze
 
 8. Wählen Sie **Speichern** aus. Partner Center öffnet die Bestätigungsseite **Licenses updated**, auf der die Benutzer und ihre neuen Lizenzen aufgeführt sind.
 
-**Hinweis:**   Einige Microsoft-Produkte sind an bestimmten Standorten unter Umständen nicht verfügbar. Wieder andere Produkte sind abhängig von anderen Produkten oder Diensten oder können dem gleichen Benutzer nicht zusammen zugewiesen werden. Nach dem Speichern werden auf der Bestätigungsseite die Ergebnisse der erfolgreichen Lizenzzuweisung für alle Benutzer sowie fehlerhafte Lizenzzuweisungen angezeigt.
+**Beachten Sie**  , dass einige Microsoft-Produkte an bestimmten Standorten möglicherweise nicht verfügbar sind. Wieder andere Produkte sind abhängig von anderen Produkten oder Diensten oder können dem gleichen Benutzer nicht zusammen zugewiesen werden. Nach dem Speichern werden auf der Bestätigungsseite die Ergebnisse der erfolgreichen Lizenzzuweisung für alle Benutzer sowie fehlerhafte Lizenzzuweisungen angezeigt.
 
 
 <a href="" id="revoking-licenses"></a>
-**Widerrufen der Lizenzzuweisungen von Benutzern**
+**Aufheben der Lizenz Zuweisungen von Benutzern**
 
 1. Wählen Sie im Menü **Partner Center** die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 
-2. Wählen Sie **Benutzer und Lizenzen**.
+2. Wählen Sie **Benutzer und Lizenzen**aus.
 
 3. Aktivieren Sie das Kontrollkästchen für zwei oder mehr Benutzer aus der Liste. (Aktivieren Sie zum Auswählen aller Benutzer auf der aktuellen Seite das Kontrollkästchen oben in der Spalte **Benutzer**.)
 
@@ -98,6 +98,6 @@ Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und ze
 
 7. Wählen Sie **Speichern** aus.
 
-## <a name="related-topics"></a>Verwandte Themen
+## <a name="related-topics"></a>Zugehörige Themen
 
 [Zuweisen von Lizenzen an einen Benutzer](assign-licenses-to-users.md)

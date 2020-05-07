@@ -5,28 +5,28 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie mehr über verschiedene Abrechnungs Typen, Abrechnungs Zeiträume und Abrechnungsdaten, die Sie möglicherweise im Partner Center sehen.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Abrechnung, Zahlungen, Bestellungen, Kontenabstimmungsdateien, Kontenabstimmungsdatei
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a6d4db62b89ec33740cd5a70141cf5a64533dfc0
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: fcacb9b0832c561e79e2d3c6df4d56b4d2f75b62
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390289"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798588"
 ---
-# <a name="types-of-billing-in-partner-center"></a>Abrechnungs Typen in Partner Center
+# <a name="types-of-billing-in-partner-center"></a>Abrechnungsarten in Partner Center
 
-**Gilt für:**
+**Zielgruppe**
 
 - Partner Center
 - Partner im CSP-Programm
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Abrechnungsadministrator
 - Globaler Administrator
 - Helpdesk-Agent

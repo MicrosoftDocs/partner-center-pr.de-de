@@ -3,20 +3,20 @@ title: Abrechnung für einmalige Abrechnung und Auswahl von wiederkehrenden Geb�
 ms.topic: article
 ms.date: 11/21/2019
 Description: Informationen zur einmaligen Abrechnung im Voraus für einen voreingestellten Begriff (monatliche und jährliche Abonnements) sowie zur Abrechnung für wiederkehrende Kosten für die wiederholte Auswahl (für anwendbare ISV-Produkte von Microsoft und Drittanbietern) im Partner Center.
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Abrechnung, einmalig, wiederholt, Käufe, Gebühren, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 573334ce309c3b734da432c73975e3826b284498
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e373e792692e1e5dcec183c79b36ae2c55c92954
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390779"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798778"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>Abrechnung für einmalige und ausgewählte wiederkehrende Gebühren
 
-**Gilt für:**
+**Zielgruppe**
 - Partner Center
 - Partner im CSP-Programm
 
@@ -24,7 +24,7 @@ ms.locfileid: "80390779"
 -   Globaler Administrator
 -   Benutzeradministrator
 -   Abrechnungsadministrator
--   Administratoragent
+-   Administrator-Agent
 -   Vertriebsbeauftragter
 
 In diesem Thema werden die Abrechnungsmöglichkeiten **einmalig beschrieben und die wiederkehrenden Gebühren** für Microsoft-und Drittanbieter-ISV-Produkte (Independent Software Vendor) ausgewählt. 
@@ -51,7 +51,7 @@ Die aktuelle **Abrechnungs Aktivität** ist für diese Gebühren Typen *nicht ve
 
 ## <a name="microsoft-and-third-party-isv-product-charges"></a>Microsoft-und ISV-Produkt Gebühren von Drittanbietern
 
-Für **Microsoft-und Drittanbieter-ISV-Produkte**werden **wiederkehrende Gebühren** und **einmalige Gebühren** ausgegeben. Zu den anwendbaren Produkten zählen alle Saas-Abonnements, Azure-Reservierungen sowie unbefristete und Abonnement basierte Softwareprodukte, die von Microsoft und Drittanbieter-ISVs angeboten werden. Weitere Informationen finden Sie unter Verfügbare Produkte im Marketplace. Beispiele hierfür sind SUSE Linux-Software (Software Abonnements), Windows Server 2019 Essentials (unbefristete Software) und Azure ISV Saas-Produkt Abonnements.
+Für **Microsoft-und Drittanbieter-ISV-Produkte**werden **wiederkehrende Gebühren** und **einmalige Gebühren** ausgegeben. Zu den anwendbaren Produkten zählen alle Saas-Abonnements, Azure-Reservierungen sowie unbefristete und Abonnement basierte Softwareprodukte, die von Microsoft und Drittanbieter-ISVs angeboten werden. Sehen Sie dazu verfügbare Produkte im Marketplace. Beispiele hierfür sind SUSE Linux-Software (Software Abonnements), Windows Server 2019 Essentials (unbefristete Software) und Azure ISV Saas-Produkt Abonnements.
 
 Für anwendbare Produkt Gebühren ist das **Abrechnungsdatum** der 8. Tag jedes Monats. Der **Abrechnungszeitraum** beginnt am ersten Tag des Kalendermonats und endet am letzten Tag des Kalendermonats. Alle Transaktionen, die Sie zwischen dem 1. Mai und dem 31. Mai 2019 ausführen, werden in Ihrer Rechnung am 8. Juni angezeigt. Alle Transaktionen, die Sie zwischen dem 1. Juni und dem 30. Juni 2019 tätigen, werden auf Ihrer Rechnung vom 8. Juli angezeigt. Möglicherweise werden wiederkehrende und einmalige Käufe in derselben Monatsrechnung abgerechnet.
 

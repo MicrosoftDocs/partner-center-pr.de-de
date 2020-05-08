@@ -1,22 +1,23 @@
 ---
-title: Anfordern einer SLA-Gutschrift von Microsoft | Partner Center
+title: Beantragen einer SLA-Gutschrift bei Microsoft
 ms.topic: article
-ms.date: 11/21/2019
-description: Informieren Sie sich über die Vorteile, Einschränkungen und Verfahren zum Anfordern einer SLA-Gutschrift von Microsoft, wenn für Ihre Kunden ein Dienstausfall auftritt.
+ms.date: 04/28/2020
+description: Informieren Sie sich über die Vorteile, Einschränkungen und Verfahren zum Anfordern einer Vereinbarung zum Service Level (Service Level Agreement, SLA) von Microsoft, wenn für Ihre Kunden ein Dienstausfall auftritt.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 328051d69f2dfd869cca8c80de595b2e27c9a1af
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943143"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907869"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>Anfordern einer SLA-Gutschrift von Microsoft 
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Wie und wann sollte eine Vereinbarung zum Service Level (Service Level Agreement, SLA) von Microsoft angefordert werden?
 
 Sie sind in der Lage, **Vereinbarung zum Service Level (Service Level Agreement, SLA)** von Microsoft anzufordern, wenn ein Dienst, den Sie für Ihre Kunden bereitstellen, einen Ausfall aufweist.
 
@@ -49,7 +50,7 @@ Sie finden den Bezeichner für den Ausfall des Ausfalls auf der Seite **Service 
 | SB | Skype for Business Online (früher lync Online) |
 | Betriebssystem | Office-Abonnement |
 | PB | Power BI für Office 365 |
-| SP | SharePoint Online |
+| SP | SharePoint Online |
 | D | Yammer Enterprise |
 | MO | Portal Fehler |
 

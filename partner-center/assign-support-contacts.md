@@ -1,24 +1,24 @@
 ---
-title: Zuweisen von Supportkontakten | Partner Center
+title: Support Kontakte für Kunden zuweisen
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie einen Reseller als technischen Support für Kunden mit Abonnements für Microsoft-Dienste zuweisen.
+description: Erfahren Sie, wie Sie einen Reseller als technischen Support für Kunden, die über Abonnements für Microsoft-Dienste verfügen, zuweisen.
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: LauraBrenner
 ms.author: labrenne
 keywords: Supportmitarbeiter, Support, Supportkontakt zuweisen, designierter Supportkontakt
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0c27f0919d9ed14c91764677465db4945b680cc8
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 172fb7bc6ec4c7a4f6ce4549d96eb2487418a017
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722402"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907470"
 ---
-# <a name="assign-support-contacts"></a>Zuweisen von Supportkontakten
+# <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Einen Händler als technischen Support Kontakt für Kunden zuweisen
 
 **Zielgruppe**
 
@@ -26,7 +26,7 @@ ms.locfileid: "74722402"
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Globaler Administrator
 - Helpdesk-Agent
 - Vertriebsbeauftragter
@@ -43,11 +43,11 @@ Dies ist für [Multipartner](multipartner.md)- und [Multichannel](multichannel.m
 
 1.  Beginnen Sie, indem Sie beim designierten Handelspartner [eine Beziehung beantragen](request-a-relationship-with-a-customer.md). Handeln Sie mit ihm einen Supportvertrag für technischen Support aus.
 
-2.  Wählen Sie Menü **Partner Center** die Option **Kunden**, dann einen Kunden und anschließend ein Abonnement aus, z.B. Office 365 Business Premium.
+2.  Wählen Sie im **Partner Center** -Menü **Kunden**aus, wählen Sie dann einen Kunden aus, und wählen Sie dann ein Abonnement aus, z. b. Office 365 Business Standard.
 
 3.  Wählen Sie unter **Designierter Supportkontakt** den angegebenen Handelspartner aus, und klicken Sie dann auf **Senden**. 
 
-    Hinweise: 
+    Notizen: 
     
     *  Bei neuen Abonnements wird für den designierten Supportkontakt standardmäßig der indirekte Anbieter festgelegt. Sie können diese Angabe auch in einen indirekten Händler mit Delegationsadministratorberechtigungen ändern.
     

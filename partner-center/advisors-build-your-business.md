@@ -1,22 +1,23 @@
 ---
-title: Entwickeln Sie Ihr Unternehmen, und verwalten Sie Ihr Office 365-Partner Abonnement | Partner Center
+title: Hinzufügen von Clients mit Office 365-Test angeboten
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: Entwickeln Sie Ihr Unternehmen, und verwalten Sie Ihr Office 365-Partner Abonnement für Ratgeber
-author: XiaLi
-ms.author: v-xili35
+description: Erfahren Sie, wie autorisierte Microsoft-Berater Ihre Office 365-Abonnements vergrößern können. Erstellen und senden Sie Office 365-Einladungen und Kaufangebote an Clients.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365
-ms.openlocfilehash: 58b774e989ae93653fa344e090457376cb3de81c
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2a45e6fdbf64a888f2d8b6a934e14ad33f3647b6
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137255"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907463"
 ---
-# <a name="advisors-build-your-business"></a>Ratgeber: entwickeln Sie Ihr Unternehmen
+# <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Ratgeber: Erstellen Sie Ihre Client Basis mit Office 365-Einladungen und Kauf angeboten
 
 Als autorisierter Microsoft Advisor bietet **Partner Center** Ihnen die Möglichkeit, Ihre Client Basis zu erweitern und dauerhafte Beziehungen mit ihren Kunden zu erstellen. Mit Partner Center können Sie die Einladungen und Kaufangebote ihrer Kunden testen und Ihnen Delegierte Verwaltungsdienste anbieten, abhängig von den Diensten, die Sie zur Verfügung stellen.
 

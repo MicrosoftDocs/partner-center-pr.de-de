@@ -1,7 +1,7 @@
 ---
-title: Ausnahme bei der einmaligen Prüfung von Anforderungen für die Anwendungs Entwicklungskompetenz | Partner Center
+title: Ausnahme Prüfung der Anwendungs Entwicklungskompetenz
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Für Partner mit einer früheren ISV-Kompetenz erfahren Sie, wie Sie eine einmalige Prüfung der Anforderungen an die Anwendungsentwicklung erhalten.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Kompetenzen, ISV, Anwendungsentwicklung
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c6346231baffa65270c0a3f5de261628271e620
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722350"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907485"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Ausnahme bei der einmaligen Prüfung von Anforderungen für die Anwendungs Entwicklungskompetenz
 
@@ -41,14 +42,14 @@ Partner mit einer Anwendungs Entwicklungskompetenz über den Zertifikat-IP-Pfad:
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>Nutzen Ihres Angebots
 
-1. Wählen Sie im Menü Partner Center auf Ihrem Dashboard die Option **Kompetenzen**aus.
+1. Wählen Sie im Partner Center-Menü auf Ihrem Dashboard die Option **Kompetenzen** aus.
 2. In der Liste der verfügbaren Zuständigkeiten ist die Anwendungsentwicklung als " **Fertig**" markiert.
 
 ![ISV zu AppDev](images/appdev.png)
 
 3. Wählen Sie **Anwendungsentwicklung**aus. Sie werden feststellen, dass Sie eine außer Kraft Setzung erhalten haben, die Ihr Unternehmen von der Erfüllung der Prüfungsanforderungen ausnimmt. 
 
-4. Um dieses Angebot nutzen zu können, besuchen Sie die **mitgliedschaftsangebote**. Sie müssen möglicherweise die Kompetenz Gebühr bezahlen, um den Vorgang abhängig von Ihrem Kompetenz Kauf oder Erneuerungs Status abzuschließen. 
+4. Um dieses Angebot nutzen zu können, navigieren Sie zu **Mitgliedschaftsangebote**. Sie müssen möglicherweise die Kompetenz Gebühr bezahlen, um den Vorgang abhängig von Ihrem Kompetenz Kauf oder Erneuerungs Status abzuschließen. 
 
 Dieses Angebot ist über Partner Center verfügbar.
 

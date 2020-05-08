@@ -1,7 +1,7 @@
 ---
-title: Kundenselbsthilfe | Partner Center
+title: Kundenselbsthilfe
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wann und wo Kunden Self-Support zur Verwaltung Ihrer eigenen Konten und wann Sie sich an Ihren Cloud Solution Provider-Partner wenden können.
@@ -10,23 +10,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Kundenselbsthilfe, Selbsthilfe
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0176c1dc714435b032b1c0e7a59df5306435e86b
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a1c15a75c638d557eace058d67723a86645c6e47
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798378"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907914"
 ---
-# <a name="customer-self-support"></a>Kundenselbsthilfe
+# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Self-Support von Kunden über Microsoft Office 365 Admin Center oder über die Azure-Portal
 
 **Zielgruppe**
 
 -  Partner Center
 -  Partner Center für Microsoft Cloud for US Government
 
-
-Kunden können sich in ihrem eigenen Microsoft Office 365 Admin Center oder Azure-Verwaltungsportal anmelden und ihre eigenen Konten verwalten:
+Kunden können sich bei Ihrem eigenen Microsoft Office 365 Admin Center oder beim Azure-Portal anmelden, um Ihre eigenen Konten zu verwalten:
 
 -   Anzeigen der in die Produkte integrierten Kommunikation und Benachrichtigungen im Nachrichtencenter, z. B. Informationen zur Dienstintegrität.
 

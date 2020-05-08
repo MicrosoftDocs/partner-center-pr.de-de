@@ -1,6 +1,6 @@
 ---
-title: Analysieren der Azure-Nutzung | Partner Center
-ms.date: 11/13/2019
+title: Analysieren Sie die Azure-Nutzung, um Ihr Geschäft zu steigern
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie, wie Sie mit dem Partner Center Daten zur Nutzung der Azure-Abonnements ihrer Kunden erhalten.
@@ -10,15 +10,15 @@ ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: Geschäftsdaten
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 096996b4ebc6953125e41b80ecd0e991d0bdec86
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1a73dd6aa47b60befa62f55f37910de4f20f78b8
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722387"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907434"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>Abrufen von Daten zur Verwendung der Azure-Abonnements Ihrer Kunden
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Erhalten Sie Daten zur Leistung Ihrer Kunden und Azure-Abonnements.
 
 **Zielgruppe**
 
@@ -29,7 +29,7 @@ ms.locfileid: "74722387"
 
 - Globaler Administrator
 - Benutzerverwaltungsadministrator
-- Administratoragent
+- Administrator-Agent
 - Vertriebsbeauftragter
 
 Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Azure-Nutzung**, um Ihre Erfolge sowie die Bereiche zu identifizieren, die mehr Aufmerksamkeit erfordern. Nutzen Sie diese Informationen bei der Planung neuer Geschäftsziele.
@@ -41,11 +41,11 @@ Wir verfolgen die folgenden Metriken:
 
 ## <a name="summary"></a>Zusammenfassung
 
-- **Insgesamt verkaufte Azure-Abonnements**: Anzahl der Abonnements, die im angegebenen Zeitraum verkauft wurden  
+- **Verkaufte Azure-Abonnements insgesamt**: Anzahl der im angegebenen Zeitraum verkauften Abonnements  
 - **Kunden mit Nutzung**: Anzahl der Kunden mit Azure-Nutzung im angegebenen Zeitraum  
 - **Kunden ohne Nutzung**: Anzahl der Kunden ohne Azure-Nutzung im angegebenen Zeitraum  
 
-## <a name="top-5-customers-in-category"></a>Top 5-Kunden in der Kategorie
+## <a name="top-5-customers-in-category"></a>Top 5-Kunden in Kategorie
 
 - Die Top 5-Kunden für die angegebene Kategorie  
 
@@ -60,7 +60,7 @@ In diesem Abschnitt wird das vorhergesagte Änderungs Risiko für Azure-Abonneme
 ## <a name="azure-subscription-churn"></a>Änderungsumfang bei Azure-Abonnements
 
 - **Aktive Abonnements**: Anzahl der aktiven Abonnements nach Datum  
-- **Entfernte Abonnements**: Anzahl der Abonnements nach Datum, die entfernt oder ausgesetzt wurden  
+- Aufhebung der Bereitstellung von **Abonnements**: Anzahl der Abonnements, deren Bereitstellung aufgehoben oder nach Datum angehalten wurde  
 
 ## <a name="customer-count"></a>Kundenanzahl
 

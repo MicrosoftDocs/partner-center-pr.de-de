@@ -1,7 +1,7 @@
 ---
-title: Bewerben für den Verkauf in den nationalen Clouds von Microsoft | Partner Center
+title: Bewerben für den Verkauf in nationalen Clouds von Microsoft
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Microsoft-Partner im Cloud Solution Provider-Programm Kunden, die in unterstützten nationalen Clouds angemeldet sind, verkaufen können.
@@ -9,14 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Nationale Clouds, Microsoft Cloud Deutschland, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud China
 ms.localizationpriority: medium
-ms.openlocfilehash: 37ff013b7c7e1bc000e3245df9c1480c6fea44af
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5977eb6ac583c9de79de3b1ba1fe7f0f98aa1e4d
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798458"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908063"
 ---
-# <a name="apply-to-sell-in-microsoft-national-clouds"></a>Bewerben für den Verkauf in nationalen Clouds von Microsoft
+# <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Für den Vertrieb in Microsoft National Clouds als Teil des CSP-Programms anwenden
 
 Neben dem Verkauf im Rahmen des globalen CSP-Programms können qualifizierte Microsoft-Partner auch Cloudlösungen an Kunden in drei nationalen Clouds verkaufen. Nationale Clouds sind in physischen und logischen Netzwerken isolierte Instanzen von Microsoft Enterprise Cloud-Diensten, die auf geografische Grenzen bestimmter Ländern beschränkt und von lokalen Mitarbeitern betrieben werden. 
 
@@ -36,7 +37,7 @@ Qualifizierte Partner können Microsoft-Cloudlösungen an Kunden in allen diesen
 
     Informationen zum Registrieren für und den Verkauf an Kunden in Microsoft Cloud for US Government finden Sie unter [Partner Center für Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
 
--   [**Microsoft Cloud Deutschland**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud Deutschland bietet Azure, Office 365 und Dynamics 365 im Rahmen eines besonderen Modells in deutschen Rechenzentren an. Bei diesem Modell wird der Zugriff auf Kundendaten durch einen unabhängigen deutschen Datenverwalter gemäß deutschem Recht gesteuert. T-Systems International GmbH, eine Tochtergesellschaft der Deutschen Telekom, fungiert als unabhängiger Datenverwalter für Microsoft Cloud Deutschland. 
+-   [**Microsoft Cloud Deutschland**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Cloud Deutschland bietet Azure, Office 365 und Dynamics 365 im Rahmen eines besonderen Modells in deutschen Rechenzentren an. Bei diesem Modell wird der Zugriff auf Kundendaten durch einen unabhängigen deutschen Datenverwalter gemäß deutschem Recht gesteuert. Die T-Systems International GmbH, eine Tochtergesellschaft der Deutschen Telekom, fungiert als unabhängiger datentreuhänder für Microsoft Cloud Deutschland.
 
     > [!IMPORTANT]  
     > Basierend auf der Entwicklung der Kundenanforderungen konzentriert sich unsere cloudstrategie für Deutschland auf die Bereitstellung der neuen cloudregionen in Deutschland, die mit unserem globalen cloudangebot konsistent sind. Mit diesem Fokus werden keine neuen Kunden mehr akzeptiert bzw. keine neuen Dienste über die derzeit verfügbare Microsoft Cloud Deutschland bereitgestellt. Vorhandene Kunden können weiterhin die aktuellen Clouddienste verwenden, die heute verfügbar sind und mit den erforderlichen Sicherheitsupdates verwaltet werden.

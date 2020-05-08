@@ -1,22 +1,23 @@
 ---
-title: Bereitstellen von Support für Ihre Kunden | Partner Center
+title: Bereitstellen von Support für Kunden
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie mehr über Kundendienst Zuständigkeiten von Partnern im CSP-Programm.
+description: Erfahren Sie mehr über die Verantwortlichkeiten des Kunden Supports für Partner im CSP-Programm.
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9d7a6c7a9d6280ceb454e2e93dfe14b58e782fd7
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 6c12f56f30c347266c4f02ea74ac09ac0e37cb7b
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798938"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907891"
 ---
-# <a name="providing-support-to-your-customers"></a>Bereitstellen von Support für Kunden
+# <a name="providing-different-types-of-support-to-your-customers"></a>Bereitstellen verschiedener Support Typen für Ihre Kunden
 
 **Zielgruppe**
 

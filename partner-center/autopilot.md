@@ -1,22 +1,23 @@
 ---
-title: Anpassen der Windows-Willkommensseite eines Geräts mit Windows Autopilot-Profilen | Partner Center
+title: Anpassen der Out-of-Box-Funktion eines Geräts
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie die Out-of-Box-Benutzerfreundlichkeit eines neuen Geräts mit Autopilot-Profilen anpassen oder vorab konfigurieren, bevor Sie das Gerät an den Kunden übermitteln.
+description: Bevor Sie das neue Gerät eines Kunden bereitstellen können, können Sie Windows Autopilot-Profile verwenden, um die Out-of-Box-Benutzerfreundlichkeit (OOBE) des Geräts anzupassen oder vorab zu konfigurieren.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero-Touch Deployment, Windows-Willkommensseite, Anmeldebildschirme, Willkommensseite
 ms.localizationpriority: medium
-ms.openlocfilehash: 7fed49f9fd06be8765e3435862e3bee48b717ce7
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 1ce0852543c70555bdbbbffd8727876bda8aedef
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798608"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908385"
 ---
-# <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>Anpassen der Out-of-Box-Darstellung für ein Gerät mit Windows Autopilot-Profilen
+# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Verwenden von Windows Autopilot-Profilen auf neuen Geräten zum Anpassen der Standardbenutzer Freundlichkeit eines Kunden
 
 **Zielgruppe**
 

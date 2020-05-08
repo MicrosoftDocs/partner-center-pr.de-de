@@ -1,7 +1,7 @@
 ---
-title: Partner Center-Benachrichtigung für Krypto-Mining-Aktivität | Partner Center
+title: Benachrichtigung für kryptografiemining-Aktivität
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, was es bedeutet, wenn Sie eine Benachrichtigung über das potenzielle kryptowährungen Mining (oder kryptografiemining) in einem oder mehreren Azure-Abonnements sehen.
@@ -10,12 +10,13 @@ ms.author: labrenne
 Keywords: Krypto-Mining, Mining von Kryptowährungen, Sicherheit
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 35cdb08c2c673e2c7bd0e8ebb8e22f5671eef186
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 68ee138b6c87dde53eda026d7fef371e2e440344
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722305"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908388"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Partner Center-Benachrichtigung für Krypto-Mining-Aktivität
 
@@ -60,7 +61,7 @@ Wenn Sie Fragen oder Bedenken bezüglich der Benachrichtigung haben, können Sie
 6.  Im Feld **Titel** geben Sie **Krypto-Mining-Benachrichtigung** ein.
 7.  Im Feld **Beschreibung** geben Sie den Namen des betroffenen Abonnements zusammen mit Ihren Fragen oder Bedenken ein. 
 8.  Geben Sie Ihre Kontaktinformationen ein.
-9.  Wählen Sie **Übermitteln** aus.
+9.  Klicken Sie auf **Submit** (Senden).
 
 
 

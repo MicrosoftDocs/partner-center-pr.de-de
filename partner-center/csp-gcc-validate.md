@@ -1,26 +1,27 @@
 ---
-title: Office 365 Government GCC – Zulassungskriterien für Partner und Kunden | Partner Center
+title: Office 365 Government GCC – Zulassungskriterien für Partner und Kunden
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über die Schritte für direkte Rechnungs Partner (direkte Händler, indirekte Anbieter), um Partner und Kunden für Office 365 Government gcc für CSP zu überprüfen.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 31923fa47083392a2621ae4d0f73ff94dccf9778
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d598db3760c54c1be5b37501d04f373231b2e4da
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798468"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908048"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Government GCC für CSP – Zulassungskriterien für Partner und Kunden
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>Office 365 Government gcc für CSP Partner und Kunden berechtigte Kriterien-Partner Center
 
 **Zielgruppe**
 
--  Partner Center
--  CSP-Partner
+- Partner Center
+- CSP-Partner
 
 **Geeignete Rollen**
 
@@ -31,11 +32,11 @@ ms.locfileid: "82798468"
 >[!NOTE]
 >Der Überprüfungsprozess und die unten aufgeführten Kriterien gelten spezifisch für Partner mit direkter Abrechnung. Partner mit direkter Abrechnung sind u.a. direkte Handelspartner und indirekte Anbieter.  Wenn Sie indirekter Handelspartner sind, arbeiten Sie mit Ihrem indirekten Anbieter zusammen.
 
-Wenn Sie möchten, dass Ihr Unternehmen oder das Ihres Kunden für Office 365 Government GCC für CSP zugelassen wird, überprüfen Sie die folgenden Anforderungen.
+Wenn Sie möchten, dass Ihre Organisation (oder die Organisation Ihres Kunden) für Office 365 Government gcc für CSP genehmigt ist, überprüfen Sie die unten aufgeführten Anforderungen.
 
-Sie können zugelassen werden, wenn Sie ein Partner sind, der für US-Behörden auf staatlicher, bundesstaatlicher, lokaler oder kommunaler Ebene arbeitet. Um die Qualifikation Ihres Unternehmens überprüfen zu lassen, füllen Sie das kurze Formular [hier](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner) aus.
+Sie können zugelassen werden, wenn Sie ein Partner sind, der für US-Behörden auf staatlicher, bundesstaatlicher, lokaler oder kommunaler Ebene arbeitet. Wenn Sie möchten, dass Ihre Organisation überprüft werden kann, vervollständigen Sie das kurze [Formular.](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)
 
-Ihr Kunde kann zugelassen werden, wenn er von Behörden regulierten Daten verarbeitet oder eine behördliche Einrichtung auf staatlicher, bundesstaatlicher, lokaler oder kommunaler Ebene ist. Wenn Sie die Berechtigung der Organisation Ihrer Kunden überprüft haben möchten, füllen Sie das kurze Formular [aus.](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer) 
+Ihr Kunde kann zugelassen werden, wenn er von Behörden regulierten Daten verarbeitet oder eine behördliche Einrichtung auf staatlicher, bundesstaatlicher, lokaler oder kommunaler Ebene ist. Um die Berechtigung der Organisation Ihrer Kunden überprüfen zu lassen, vervollständigen Sie das kurze Formular, das Sie [hier finden](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
 
 -   Ihre Organisation muss für das Cloud Solution Provider-Programm [registriert](https://partnercenter.microsoft.com/partner/cloud-solution-provider) sein. Dies ist eine Voraussetzung für die Zulassung für Office 365 Government GCC für CSP.
 -   Eine detaillierte Anleitung zum Prüfprozess für Office 365 Government GCC für CSP finden Sie [hier](https://go.microsoft.com/fwlink/?linkid=2007323).

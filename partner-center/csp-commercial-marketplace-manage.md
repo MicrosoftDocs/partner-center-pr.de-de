@@ -1,24 +1,25 @@
 ---
-title: Verwalten Sie kommerzielle Marketplace-Produkte oder-Angebote für Ihre Kunden | Partner Center
+title: Verwalten von Marketplace-Produkten & angeboten
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Mithilfe von Partner Center erfahren Sie, wie cloudlösungsanbieter verschiedene ISV-Angebote von Drittanbietern verwalten können, die für Kunden aus dem kommerziellen Marketplace erworben wurden.
-author: MicheleHope
-ms.author: v-mihope
+description: Mithilfe von Partner Center erfahren Sie, wie cloudlösungsanbieter ISV-Angebote von Drittanbietern verwalten können, die für Kunden aus dem kommerziellen Marketplace erworben wurden.
+author: LauraBrenner
+ms.author: labrenne
 keywords: Abonnements, Marketplace, Drittanbieter, ISV, SaaS-Angebote, cloudlösungsanbieter-Programm, Verwalten eines Angebots, Verwalten eines Abonnements, Lizenzen, kündigen eines Abonnements, Arbeitsplätze, Deaktivieren der automatischen Verlängerung, indirekte Reseller-MPN-ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53e750c3e661115071c359ce56fbb97a31edeef9
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114952"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908103"
 ---
-# <a name="manage-commercial-marketplace-products-for-your-customers"></a>Verwalten Sie kommerzielle Marketplace-Produkte für Ihre Kunden
+# <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Verwalten Sie kommerzielle Marketplace-Produkte und-Angebote für Ihre Kunden
 
-**Gilt für:**
+**Zielgruppe**
 
 - Partner Center
 - Partner im CSP-Programm
@@ -26,7 +27,7 @@ ms.locfileid: "80114952"
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Administratoragent
+- Administrator-Agent
 
 Partner im CSP-Programm (Cloud Solution Provider) können das Partner Center-Portal verwenden, um zahlreiche ISV-SaaS-Angebote oder-Abonnements für Ihre Kunden über den kommerziellen Marketplace zu erwerben. Nachdem Sie ein Angebot erworben haben, haben Sie verschiedene Möglichkeiten, es zu verwalten.
 
@@ -46,7 +47,7 @@ Nachdem Sie ein Abonnement von einem Drittanbieter-ISV-Verleger erworben haben, 
 
     - Hinzufügen/verringern der Anzahl von Arbeitsplätzen (Lizenzen) im Abonnement
 
-    - Abonnement kündigen
+    - Kündigen des Abonnements
 
     - Automatische Verlängerung deaktivieren
 
@@ -57,7 +58,7 @@ Nachdem Sie ein Abonnement von einem Drittanbieter-ISV-Verleger erworben haben, 
 
 ## <a name="assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer"></a>Zuweisen von Lizenzen und Aktivieren eines Abonnements im Auftrag eines Kunden
 
-Wenn Sie ein SaaS-Angebot (Software-as-a-Service) erwerben, das von einem ISV-Herausgeber (Independent Software Vendor) im kommerziellen Marketplace bereitgestellt wird, hilft der ISV-Verleger dabei, den Prozess der Zuweisung von Lizenzen und das Aktivieren des Abonnements im Auftrag Ihres End.
+Wenn Sie ein SaaS-Angebot (Software-as-a-Service) erwerben, das von einem ISV-Herausgeber (Independent Software Vendor) im kommerziellen Marketplace bereitgestellt wird, hilft der ISV-Verleger dabei, das Zuweisen von Lizenzen und das Aktivieren des Abonnements im Auftrag Ihres Kunden zu verwalten.
 
 Der Herausgeber sollte Ihnen einen personalisierten Link und einen Autorisierungs Code bereitstellen, der ihren jeweiligen Erwerb identifiziert.
 
@@ -85,11 +86,11 @@ Der Herausgeber sollte Ihnen einen personalisierten Link und einen Autorisierung
 
 ## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>Abbrechen eines lizenzbasierten Saas-Abonnements von einem ISV-Verleger
 
-Wenn Sie ein Lizenz basiertes Saas-Produkt abonnieren, das von einem ISV-Verleger innerhalb des kommerziellen Marketplace angeboten wird, haben Sie die Möglichkeit, das Abonnement innerhalb des festgelegten Abbruch Zeitraums abzubrechen. Dieser Abbruch Zeitraum ändert sich abhängig davon, ob Sie über ein monatliches oder ein Jahresabonnement verfügen. Sie können auch auswählen, ob das Abonnement automatisch erneuert werden soll.
+Wenn Sie ein Lizenz basiertes Saas-Produkt abonnieren, das von einem ISV-Verleger innerhalb des kommerziellen Marketplace angeboten wird, haben Sie die Möglichkeit, das Abonnement innerhalb des festgelegten Abbruch Zeitraums abzubrechen. Dieser Abbruch Zeitraum ändert sich abhängig davon, ob Sie über ein monatliches oder ein Jahresabonnement verfügen. Sie können auch auswählen, ob Sie das Abonnement automatisch verlängern möchten.
 
 Weitere Informationen zu abbruchzeiten, die angewendet werden, zum Abbrechen oder zum automatischen erneuern eines Abonnements finden Sie unter:
 
-- [Kündigen eines Abonnements](create-a-new-subscription.md#cancel-a-subscription)
+- [Stornieren eines Abonnements](create-a-new-subscription.md#cancel-a-subscription)
 
 - [Automatisches erneuern eines kommerziellen Marketplace-Abonnements](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
 

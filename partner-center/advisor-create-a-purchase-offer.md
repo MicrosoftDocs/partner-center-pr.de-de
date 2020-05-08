@@ -1,25 +1,26 @@
 ---
 title: Erstellen eines Kaufangebots | Partner Center
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: Advisor kann ein Kaufangebot im Partner Center erstellen.
-author: XiaLi
-ms.author: v-xili35
+description: Erfahren Sie, wie ein autorisierter Abonnement Ratgeber mithilfe von Partner Center ein Kaufangebot und eine benutzerdefinierte URL erstellen kann, die in Office 365-Test Einladungen enthalten sein soll.
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, Kauf
-ms.openlocfilehash: 1d7cf051da1189efff535eaa95749a8eab54ee6c
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOMAY.20
+ms.openlocfilehash: defa41285aa2bf31158a900a319115cf02221655
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137225"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907437"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Ratgeber: Erstellen eines Kaufangebots
 
 > [!NOTE]
-> Diese Funktion ist nur für Microsoft-Partner verfügbar, die autorisierte Abonnement Berater sind. 
+> Diese Funktion ist nur für Microsoft-Partner verfügbar, die autorisierte Abonnement Berater sind.
 
 Nachdem Sie eine Test Einladung für Office 365 an einen Client gesendet haben, können Sie nachverfolgen, indem Sie ein Kaufangebot erstellen und senden, das an die Anforderungen Ihres Clients angepasst ist. Wenn Sie für die delegierte Administration zertifiziert sind, können Sie dem Kaufangebot eine Option hinzufügen, mit der Sie das Konto im Auftrag Ihres Clients verwalten können.
 
@@ -29,7 +30,7 @@ Wenn Ihr Client eine andere Anzahl von Lizenzen wünscht, senden Sie Ihnen ein n
 
 ## <a name="to-create-a-purchase-offer"></a>So erstellen Sie ein Kaufangebot
 
-1. Navigieren Sie zu Test **-und Kaufangebote** > **Angebot erstellen**.
+1. Navigieren Sie zu " **Tests" und "Kaufangebote** > **Erstellen**".
 
 2. Wählen Sie auf der Seite **Kaufangebot erstellen** die Optionen für das Kaufangebot aus, die Sie einschließen möchten:
 

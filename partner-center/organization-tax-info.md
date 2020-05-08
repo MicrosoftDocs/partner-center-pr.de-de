@@ -1,22 +1,22 @@
 ---
-title: Organisationssteuerinformationen | Partner Center
+title: Hinzufügen oder übermitteln einer Umsatzsteuer-ID für geschäftliche Steuern
 ms.topic: article
-ms.date: 11/07/2019
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 'Steuern für Einkäufe in Partner Center werden durch Ihre Geschäftsadresse bestimmt. Unternehmen in einigen Ländern können ihre Umsatzsteuer-Identifikationsnummer bzw. die lokale Entsprechung angeben:'
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 61ed931a33d0eec9cb2858a3cf653e69610c2b8f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOAPR.20
+ms.openlocfilehash: e0c5e2dab3a4316a6ee888c73a64c7894bdf1baf
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005029"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907320"
 ---
-# <a name="company-tax-information"></a>Unternehmens Steuerungsinformationen
+# <a name="company-tax-information-and-how-to-add-or-submit-vat-ids-for-partner-center-purchases"></a>Unternehmens Steuerungsinformationen und Vorgehensweise beim Hinzufügen oder Einreichen von Umsatzsteuer-IDs für Partner Center-Käufe
 
 **Zielgruppe**
 
@@ -26,7 +26,7 @@ ms.locfileid: "75005029"
 -   Globaler Administrator
 -   Benutzeradministrator
 -   Abrechnungsadministrator
--   Administratoragent
+-   Administrator-Agent
 -   Vertriebsbeauftragter
 
 Steuern für Einkäufe in Partner Center werden durch Ihre Geschäftsadresse bestimmt. Unternehmen in einigen Ländern können [Ihre Mehrwert Steuernummer (Tax)](#submit-vat-id-number) oder eine lokale Entsprechung angeben.

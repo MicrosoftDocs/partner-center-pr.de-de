@@ -1,20 +1,22 @@
 ---
-title: Monatliche und jährliche Abrechnungs Unterschiede | Partner Center
+title: Unterschiede zwischen monatlicher und jährlicher Abrechnung
 ms.topic: article
-ms.date: 11/25/2019
-Description: Erfahren Sie mehr über die Unterschiede zwischen monatlichen und jährlichen Abrechnungszyklen im Partner Center.
+ms.date: 05/06/2020
+Description: Erfahren Sie, wie sich die monatliche und jährliche Abrechnung in Partner Center unterscheidet. Erfahren Sie außerdem, wie Sie zwischen verschiedenen Abrechnungs Typen wechseln und welche Auswirkungen der Wechsel hat.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 09e651638e50afeef3d43dd9c35c11998ba904ca
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 841e7026651484b4b3c52ecc1e3c297af01f9f16
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798598"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908248"
 ---
-# <a name="monthly-and-annual-billing-differences"></a>Unterschiede zwischen monatlicher und jährlicher Abrechnung
+# <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Grundlegendes zum Unterschied zwischen monatlicher und jährlicher Abrechnung in Partner Center
+
 
 **Zielgruppe**
 
@@ -155,7 +157,7 @@ Wenn sich der Preis eines Angebots während des Abrechnungszeitraums verringert,
 
 ### <a name="cancellation-credits"></a>Abbruch Guthaben
 
-Die Gutschrift für eine abgebrochene Lizenz oder ein Abonnement wird wie folgt berechnet:
+Das Guthaben für eine abgebrochene Lizenz oder ein abgebrochener Abonnement wird wie folgt berechnet:
 
 **Abbruch Guthaben** = ((* * monatliche Preis * * * 12)/365) \* **Tage verbleiben in der zwölfmonatigen** \* Anzahl von Lizenzen, die abgebrochen wurden.
 

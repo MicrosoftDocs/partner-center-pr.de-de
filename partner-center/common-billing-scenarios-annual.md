@@ -1,21 +1,22 @@
 ---
-title: Allgemeine Abrechnungsszenarien | Partner Center
+title: 'Jährliche Abrechnung: Häufige Szenarien'
 ms.topic: article
-ms.date: 11/25/2019
-description: 'Weitere Informationen finden Sie in der jährlichen Abrechnung für Partner Center: Wenn Sie neue Abonnements hinzufügen, Lizenzen vor dem Abrechnungsdatum hinzufügen, die Lizenz Menge ändern, Abonnements aussetzen/reaktivieren.'
+ms.date: 05/05/2020
+description: 'Jährliche Abrechnung von Partner Center: Wenn Sie neue Abonnements hinzufügen, Lizenzen vor dem Abrechnungsdatum hinzufügen, die Lizenz Menge ändern oder Abonnements aussetzen/reaktivieren.'
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Abrechnung, Zahlungen, Bestellungen, Nutzung, lizenzbasierte Abrechnung, Abonnementdatum, Laufzeit, Kündigung, Verlängerung, Kontenabstimmungsdatei, Abstimmungsdatei
 ms.localizationpriority: medium
-ms.openlocfilehash: cbe34dd96c1b119293b73f9324e50340aafb4032
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9a0fe9a8bfc381be00bba765c74874ea552d7482
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798548"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908209"
 ---
-# <a name="annual-billing-scenarios"></a>Jährliche Abrechnungs Szenarien
+# <a name="common-annual-billing-scenarios-in-partner-center"></a>Häufige jährliche Abrechnungs Szenarien im Partner Center
 
 **Geeignete Rollen**
 

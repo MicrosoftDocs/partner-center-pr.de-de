@@ -1,24 +1,25 @@
 ---
-title: Unterstützung für kommerzielle Marketplace-Produkte | Partner Center
+title: Support für Produkte des kommerziellen Marketplace
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie die Unterstützung für ISV-Produkte von Drittanbietern oder Abonnements, die von Partnern im CSP-Programm aus dem kommerziellen Marketplace erworben wurden, funktioniert.
-author: MicheleHope
-ms.author: v-mihope
+description: Erfahren Sie mehr über die Unterstützung für ISV-Produkte von Drittanbietern oder Abonnements im kommerziellen Marketplace des CSP-Programms.
+author: LauraBrenner
+ms.author: labrenne
 keywords: Abonnements, Produkte, Marketplace, Drittanbieter, ISV, Herausgeber, Support, CSP
 ms.localizationpriority: medium
-ms.openlocfilehash: 74f1abced9f4d576cc53b73bd8c30e454f9ad2d9
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 48ea03ae955e276b48e646718a105855120e0577
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253728"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908072"
 ---
-# <a name="support-for-commercial-marketplace-products"></a>Support für Produkte des kommerziellen Marketplace
+# <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>Unterstützung für kommerzielle Marketplace-Produkte im CSP-Programm
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
 - Partner im CSP-Programm
@@ -26,9 +27,9 @@ ms.locfileid: "74253728"
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Administratoragent
+- Administrator-Agent
 
-Ebenso wie bei Microsoft-Produkten sind Partner im CSP-Programm der erste Anlaufpunkt für die Fragen der Kunden in Bezug auf die Abrechnung und Abonnement Verwaltung für alle ISV-Abonnements oder Produkte von Drittanbietern, die Sie für Ihre Kunden erworben haben. kommerzieller Marketplace.
+Partner im CSP-Programm sind der erste Ansprechpartner für Fragen zur Abrechnung oder zur Abonnement Verwaltung im Zusammenhang mit einem Drittanbieter-ISV-Abonnement oder einem Produkt, das für Kunden aus dem kommerziellen Marketplace erworben wurde.
 
 Fragen zum technischen Support zu kommerziellen Marketplace-Produkten von Drittanbietern von ISV-Verlegern sollten sich Partner im CSP-Programm an den ISV-Herausgeber dieses Produkts oder Angebots wenden.
 
@@ -36,9 +37,9 @@ Fragen zum technischen Support zu kommerziellen Marketplace-Produkten von Dritta
 
 Für kommerzielle Marketplace-Angebote oder Einkäufe von ISV-Produkten oder-angeboten von Drittanbietern:
 
-- **Support Rolle des ISV-Verlegers:** ISVs bieten ihren Kunden technischen Support und Service Level-Verpflichtungen bezüglich Ihres Angebots, wie im Kundenvertrag von Drittanbietern definiert. Der ISV sollte den Partnern im CSP-Programm und/oder seinen Kunden eine Möglichkeit bieten, sich direkt an den ISV zu wenden, um Unterstützung zu erhalten, einschließlich des Benutzer Supports und der Unterbrechung der Problembehebung. Es wird erwartet, dass ISVs Partnern im CSP-Programm die Benutzerdokumentation, Schulungen und Dienst Integrität/Ausfall Benachrichtigungen (sofern zutreffend) zur Verfügung stellen, damit diese Partner die Unterstützung koordinieren können (wenn Partner im CSP-Programm diesen Dienst für Ihre Kunden bereitstellen möchten).
+- **Support Rolle des ISV-Verlegers:** ISVs bieten ihren Kunden technischen Support und Service Level-Verpflichtungen bezüglich Ihres Angebots, wie im Kundenvertrag von Drittanbietern definiert. Der ISV sollte den Partnern im CSP-Programm und/oder seinen Kunden eine Möglichkeit bieten, sich direkt an den ISV zu wenden, um Unterstützung zu erhalten, einschließlich des Benutzer Supports und der Unterbrechung der Problembehebung. Es wird erwartet, dass ISVs Partnern im CSP-Programm Benutzer Dokumentationen, Schulungen und Dienst Integritäts-/Ausfall Benachrichtigungen (sofern zutreffend) zur Verfügung stellen, damit diese Partner die Unterstützung koordinieren können (wenn Partner im CSP-Programm diesen Dienst für Ihre Kunden bereitstellen).
 
-- **Unterstützung des Partners im CSP-Programm:** Der Partner im CSP-Programm ist für alle anderen Unterstützung für ISV-Angebote von Drittanbietern verantwortlich. Dies umfasst die Unterstützung der Abrechnungsfragen Ihres Kunden, der Einrichtung und Zahlung von Konten. Der Partner im CSP-Programm entscheidet sich möglicherweise dazu, technische Supportanfragen von Kunden an die Support Kontakte des ISV-Verlegers weiterzuleiten.
+- **Unterstützung des Partners im CSP-Programm:** Der Partner im CSP-Programm ist für alle anderen Unterstützung für ISV-Angebote von Drittanbietern verantwortlich. Diese Unterstützung kann sich auf die Abrechnungsfragen von Kunden, das Einrichten von Konten und die Zahlung beziehen. Der Partner im CSP-Programm entscheidet sich möglicherweise dazu, technische Supportanfragen von Kunden an die Support Kontakte des ISV-Verlegers weiterzuleiten.
 
 - **Support Rolle von Microsoft:** Microsoft bietet Support für den Drittanbieter-ISV-Verleger und für den Partner im CSP-Programm bezüglich der Microsoft Commerce-Systemfunktionalität. Dies bedeutet, dass Microsoft für die Unterstützung bestimmter Aktivitäten durch den Partner in den CSP-Programmpartner Aktivitäten und durch ISV verantwortlich ist, die innerhalb des Microsoft Commerce Systems auftreten, wie z. b. Onboarding/Angebots Verwaltung, Transaktionen, Abrechnung, Konto Support und Bereitstellung und Bereitstellung für Azure-basierte ISV-Lösungen.
 

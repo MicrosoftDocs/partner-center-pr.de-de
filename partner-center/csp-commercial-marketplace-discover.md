@@ -1,22 +1,23 @@
 ---
-title: Entdecken Sie Angebote im kommerziellen Marketplace | Partner Center
+title: 'Angebote entdecken: kommerzieller Marketplace'
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie CSP-Partner Partner Center zum Anzeigen oder Durchsuchen des Marketplace für SaaS-Angebote oder Preise von unabhängigen Software Anbietern (ISVs) verwenden können.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: Abonnements, Marketplace, kommerzieller Marketplace, Drittanbieter, ISV, SaaS-Angebote, Cloud Solution Provider Program, CSP-Programm, CSP-Partner
 ms.localizationpriority: medium
-ms.openlocfilehash: 019bef179951ca65018e8d2a68cad156671e445a
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 10653e41adee052b43ed092f4fd9bb48b79a1355
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81873188"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908112"
 ---
-# <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>Entdecken Sie Angebote und Preise im kommerziellen Marketplace
+# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Entdecken Sie Angebote und Preise im Partner Center kommerziell Marketplace
 
 **Zielgruppe**
 
@@ -28,7 +29,7 @@ ms.locfileid: "81873188"
 - Globaler Administrator
 - Administrator-Agent
 
-Wenn unabhängige Software Anbieter (Independent Software Anbieters, ISVs) ein Angebot im kommerziellen Marketplace veröffentlichen möchten, können Sie auch entscheiden, ob das Angebot im CSP-Programm zur Verfügung gestellt werden soll. Wenn Sie sich entscheiden, das Angebot über das CSP-Programm zu verkaufen, sollte CSP-Partner das Angebot im Partner Center Marketplace-Bereich sehen. 
+Wenn unabhängige Software Anbieter (Independent Software Anbieters, ISVs) ein Angebot im kommerziellen Marketplace veröffentlichen möchten, können Sie auch entscheiden, ob das Angebot im CSP-Programm zur Verfügung gestellt werden soll. Wenn Sie sich entscheiden, das Angebot über das CSP-Programm zu verkaufen, sollte CSP-Partner das Angebot im Partner Center Marketplace-Bereich sehen.
 
 Wenn ein ISV-Angebot im Partner Center nicht erwartungsgemäß angezeigt wird, liegt dies möglicherweise daran, dass Folgendes der Fall ist:
 

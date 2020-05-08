@@ -1,7 +1,7 @@
 ---
-title: Mandantenkonsolidierung für regionale CSP-Autorisierung | Partner Center
+title: Mandantenkonsolidierung für regionale CSP-Autorisierung
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschiedene Länder/Regionen. Dies schließt Schritte zum Migrieren von Kundenkonten und Kunden Abonnements ein.
@@ -11,14 +11,15 @@ ms.author: labrenne
 keywords: Migrieren von Kunden, Bereitstellung, Mandantenkonto, Mandanten konsolidieren
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 5f52abb4d85122a7a33300f126e25d9349c7712f
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 813d24c12501edc7b633d3e10b5174d02ed881d1
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798448"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907988"
 ---
-# <a name="csp-regional-authorization-tenant-consolidation"></a>Mandantenkonsolidierung für regionale CSP-Autorisierung
+# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Anweisungen für die Mandanten Konsolidierung der regionalen CSP-Autorisierung
 
 **Zielgruppe**
 
@@ -99,8 +100,6 @@ Durch die Deaktivierung des CSP-Abonnements unter den Partnerkonten vom Typ **Tr
 
  >**Hinweis:** Durch Aussetzen des Abonnements wird sichergestellt, dass die Abrechnung nicht doppelt erfolgt.
 
-
-
 ~~~
 The Subscription shows **suspended** on the subscriptions list.
 ~~~
@@ -111,8 +110,7 @@ The Subscription shows **suspended** on the subscriptions list.
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Migrieren von nutzungsbasierten Azure-Abonnements
 
-
-Beachten Sie, dass nutzungsbasierte Azure-CSP-Abonnements nicht wie Office 365-CSP-Abonnements manuell migriert werden müssen. Der Microsoft Azure-Support kann die Azure-Abonnements sowie alle bereitgestellten Dienste oder Ressourcen von den CSP-Vertriebspartnerkonten vom Typ **Transitioning From** zum CSP-Vertriebspartnerkonto vom Typ **Transitioning To** migrieren. Während dieses Übergangs treten beim Kunden keine Dienstunterbrechungen auf.
+Azure-Verwendungs basierte CSP-Abonnements müssen nicht manuell migriert werden, wie dies bei Office 365 CSP-Abonnements der Fall ist. Der Microsoft Azure-Support kann die Azure-Abonnements sowie alle bereitgestellten Dienste oder Ressourcen von den CSP-Vertriebspartnerkonten vom Typ **Transitioning From** zum CSP-Vertriebspartnerkonto vom Typ **Transitioning To** migrieren. Während dieses Übergangs treten beim Kunden keine Dienstunterbrechungen auf.
 
 1.  Stellen Sie sicher, dass für die Kundenkonten, deren Azure-Abonnements migriert werden müssen, die Vereinbarung für das neue CSP-Konto vom Typ **Transitioning To** akzeptiert wurde.
 2.  Partner Benachrichtigen Microsoft, welche Kundenkonten, die über Azure-Abonnements verfügen, für die Migration bereit sind, und stellen diese Firmennamen für Kunden bereit.
@@ -128,13 +126,13 @@ Beachten Sie, dass nutzungsbasierte Azure-CSP-Abonnements nicht wie Office 365-
 
 ### <a name="notes"></a>Notizen
 
--   Das Deaktivieren des Abonnements von der **Umstellung vom** CSP-Konto wirkt sich nicht auf den Dienst des Endkunden aus, vorausgesetzt, der Dienst wurde vom **Übergang zum** CSP-Konto vor der Deaktivierung bereitgestellt.
+-   Das Deaktivieren des Abonnements von der **Umstellung vom** CSP-Konto wirkt sich nicht auf den Dienst des Endkunden aus, solange der Dienst vor dem Deaktivieren des Abonnements vom **Übergang zum** CSP-Konto bereitgestellt wurde.
 
--   Abonnements können vom Kunden nicht verwendet werden und generieren keine Gebühren, wenn sie ausgesetzt oder gekündigt wurden.
+-   Abonnements können nicht vom Kunden verwendet werden, und es werden keine Gebühren generiert, wenn Sie angehalten oder abgebrochen werden.
 
 -   Zurzeit besteht keine Möglichkeit, einen Kunden vollständig aus der Kundenliste zu entfernen.
 
--   **Hinweis:** Partner müssen Abonnements im Partnermandantenkonto vom Typ **Transitioning From** in Partner Center am selben Tag aussetzen, an dem diese Abonnements migriert und unter dem Partnermandantenkonto vom Typ **Transitioning To** in Partner Center eingerichtet werden, um eine doppelte Abrechnung von Kosten zu vermeiden. Microsoft lehnt Supportanfragen in Bezug auf Kosten ab, die infolge sich überschneidender Abrechnungen auftreten, weil Abonnements vom Typ **Transitioning From** nicht ordnungsgemäß auf „suspended“ gesetzt wurden.
+-   **Hinweis:** Partner müssen Abonnements im Partnermandantenkonto vom Typ **Transitioning From** in Partner Center am selben Tag aussetzen, an dem diese Abonnements migriert und unter dem Partnermandantenkonto vom Typ **Transitioning To** in Partner Center eingerichtet werden, um eine doppelte Abrechnung von Kosten zu vermeiden. Microsoft unterstützt keine Kreditanforderungen aufgrund einer Überlappung bei der Abrechnung, wenn die **Umstellung von** Abonnements auf angehalten nicht ordnungsgemäß festgelegt wird.
 
 
 

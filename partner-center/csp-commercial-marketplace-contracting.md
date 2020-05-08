@@ -1,24 +1,25 @@
 ---
-title: Verträge für cloudlösungsanbieter mit dem kommerziellen Marketplace | Partner Center
+title: CSP-Verträge für kommerziellen Marketplace
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über die Bedingungen, Bedingungen und Verträge für Abonnements von ISV-Produkten von Drittanbietern, die von CSP-Partnern im kommerziellen Marketplace erworben wurden.
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: Abonnements, Marketplace, Drittanbieter, ISV, CSP-Partnerprogramm, Verträge, verkaufen, kaufen,
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dd58869df2ced14fa3a05ea3bc7b0f6e96c54d5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6caf79b0f9dbe287ad59df73fb80749237546f9a
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253778"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908129"
 ---
-# <a name="contracts-associated-with-csp-partner-activities-in-the-commercial-marketplace"></a>Verträge im Zusammenhang mit CSP-Partner Aktivitäten im kommerziellen Marketplace
+# <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Verträge für CSP-Partner, die geschäftlich im kommerziellen Marketplace tätig sind
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
 - Partner im CSP-Programm
@@ -26,7 +27,7 @@ ms.locfileid: "74253778"
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Administratoragent
+- Administrator-Agent
 
 Dieser Abschnitt bezieht sich auf Verträge für Partner im CSP-Programm, die Angebote oder Produkte von ISV Marketplace für Ihre Kunden über den kommerziellen Marketplace von Partner Center oder den Azure-Portal erwerben möchten.
 
@@ -47,7 +48,7 @@ Weitere Informationen zu den Begriffen für CSP-Aktivitäten im kommerziellen Ma
   
 Microsoft akzeptiert keine rechtliche Verantwortung für die Übermittlung von Diensten zwischen Transaktions Parteien und bietet keinen Mechanismus, mit dem Transaktionspartner rechtliche Bedingungen über die Commerce-Plattform einrichten können. Wenn die Transaktionspartner zusätzliche rechtliche Bedingungen benötigen, müssen Sie eine Vereinbarung direkt ausführen.
 
-## <a name="see-also"></a>Siehe auch
+## <a name="see-also"></a>Weitere Informationen
 
-- [Unterstützung für kommerzielle Marketplace-Produkte](csp-commercial-marketplace-support.md)
+- [Support für Produkte des kommerziellen Marketplace](csp-commercial-marketplace-support.md)
 - [Übersicht über die kommerziellen CSP-Marketplace-Aktivitäten](csp-commercial-marketplace-overview.md)

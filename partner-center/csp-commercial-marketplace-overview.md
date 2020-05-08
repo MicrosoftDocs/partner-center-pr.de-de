@@ -1,24 +1,25 @@
 ---
-title: Übersicht über den kommerziellen Marketplace für cloudlösungsanbieter | Partner Center
+title: 'Übersicht: CSP-Marketplace'
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: In Partner Center erfahren Sie, wie Sie Kunden Abonnements für SaaS-Angebote (Software-as-a-Service) von unabhängigen Softwareanbietern (ISVs) im Marketplace verkaufen.
-author: MicheleHope
-ms.author: v-mihope
+description: Erfahren Sie, wie Sie Kunden Abonnements für SaaS-Angebote (Software-as-a-Service) von unabhängigen Softwareanbietern (ISVs) im Marketplace verkaufen.
+author: LauraBrenner
+ms.author: labrenne
 keywords: Abonnements, Marketplace, Drittanbieter, ISV, Saas, Lizenz
 ms.localizationpriority: medium
-ms.openlocfilehash: ee1b32028cb24e20675aa0520837af0c1c72b8a5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c9366bfc9dc09d7c62fcf01cacf30944b8801550
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253788"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908092"
 ---
-# <a name="commercial-marketplace-overview"></a>Übersicht über den kommerziellen Marketplace
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Übersicht über den kommerziellen Marketplace im Partner Center
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
 - Partner im CSP-Programm
@@ -37,11 +38,11 @@ Als Partner im CSP-Programm können Sie Partner Center verwenden, um viele ISV-L
 
 Wenn Sie Partner im CSP-Programm sind, gibt es viele kommerzielle Marketplace-Aktivitäten, die Sie möglicherweise in Bezug auf ISV-Angebote durchführen möchten. Weitere Informationen zu den einzelnen Aktivitäten finden Sie in der folgenden Tabelle.
 
-|**Wenn Sie**  |**Dazu**   |
+|**Wenn Sie**  |**Lesen**   |
 |:------------------------------------|:------------------|
 |Erfahren Sie, wie Sie verfügbare Angebote, Preise, Produktdetails oder Kontaktinformationen des Herausgebers anzeigen oder suchen. | [Angebote entdecken](csp-commercial-marketplace-discover.md) | 
 |Erfahren Sie, wie Sie ein Angebot erwerben und bereitstellen.   | [Kaufangebote](csp-commercial-marketplace-purchase.md)   | 
-|Erfahren Sie, wie Sie ein Abonnement kündigen oder erneuern oder Arbeitsplätze hinzufügen oder entfernen.  | [Angebote verwalten](csp-commercial-marketplace-manage.md) |
+|Erfahren Sie, wie Sie ein Abonnement kündigen oder erneuern oder Arbeitsplätze hinzufügen oder entfernen.  | [Verwalten von Angeboten](csp-commercial-marketplace-manage.md) |
 |Erfahren Sie, wie die Abrechnung für kommerzielle Marketplace-Käufe funktioniert. | [Grundlegendes zur Abrechnung](csp-commercial-marketplace-billing.md) |
 |Erfahren Sie, wer für welche Arten von Unterstützung für ISV-Käufe zuständig ist. | [Unterstützung](csp-commercial-marketplace-support.md) |
 |Erfahren Sie mehr über Verträge und Zuständigkeiten von CSP-Partnern und ISVs im kommerziellen Marketplace | [Grundlegendes zum Vertrag](csp-commercial-marketplace-contracting.md) |
@@ -68,7 +69,7 @@ Besuchen Sie die [Grundlagen der Abrechnung](billing-basics.md) , um mehr darüb
 
 In den folgenden Tabellen erfahren Sie, wo Sie eine bestimmte Marketplace-Aktivität für Lizenz basierte oder nutzungsbasierte ISV-Angebote durchführen können.
 
-|**Für Lizenz basierte SaaS-Angebote von ISVs**  |**Verwendung**  |
+|**Für Lizenz basierte SaaS-Angebote von ISVs**  |**Verwenden Sie**  |
 |:------------------------------------|:------------------|
 |So finden Sie verfügbare Angebote und suchen nach verfügbaren angeboten  | Partner Center-Dashboard oder Partner Center-APIs  |
 |So erwerben Sie ein Angebot  | Partner Center-Dashboard oder Partner Center-APIs  |
@@ -76,7 +77,7 @@ In den folgenden Tabellen erfahren Sie, wo Sie eine bestimmte Marketplace-Aktivi
 |So können Sie Angebots Abonnements Abbrechen/erneuern oder Arbeitsplätze hinzufügen/entfernen | Partner Center-Dashboard oder Partner Center-APIs  |
 |So erstellen Sie Benutzer oder verwalten Berechtigungen  | System oder Website des ISV-Verlegers  |
 
-|**Für nutzungsbasierte Angebote von ISVs**  |**Verwendung**  |
+|**Für nutzungsbasierte Angebote von ISVs**  |**Verwenden Sie**  |
 |:------------------------------------|:------------------|
 |So finden Sie verfügbare Angebote und suchen nach verfügbaren angeboten  | Partner Center-Dashboard, Partner Center-APIs oder Azure-Portal  |
 |So erwerben Sie ein Angebot  | Azure-Portal  |

@@ -1,7 +1,7 @@
 ---
-title: Kundenabonnements | Partner Center
+title: Verkaufen von Kunden Abonnements für CSP
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Partner im CSP-Programm Abonnements an Kunden verkaufen und über Partner Center verwalten können.
@@ -9,14 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: Abonnements, Lizenz zuweisen, Lizenz, Kundenzufriedenheit, Azure-Abonnements
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c2116ca31b82e8b135208b4569012937d118866
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8e9902bddfacd2bf8c388e231f928a386fcba4ce
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722551"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907900"
 ---
-# <a name="customer-subscriptions"></a>Kundenabonnements
+# <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>So können CSP-Programmpartner Abonnements an Kunden verkaufen
 
 **Zielgruppe**
 
@@ -24,59 +25,20 @@ ms.locfileid: "74722551"
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Globaler Administrator
 - Helpdesk-Agent
 - Vertriebsbeauftragter
 
 Als CSP-Partner besteht eine der zentralen Aufgaben darin, Ihren Kunden Abonnements für Microsoft-Produkte anzubieten. Im Partner Center können Sie alle Abonnements für die einzelnen Kunden verwalten. Sie können Abonnements hinzufügen, Lizenzen zu vorhandenen Abonnements hinzufügen und sogar Testabonnements für Kunden anbieten, die die Software zuerst testen möchten. Darüber hinaus können Sie Analysen anzeigen, um zu verstehen, wie Ihre Kunden die Software verwenden, sodass Sie besseren Support bieten können.
 
-|**Aufgabe**   |**Bitte lesen**   |
+|**Aufgabe**   |**Artikel**   |
 |----------------------|:----------------------|
 |Erstellen und Verwalten von Abonnements für bestehende Kunden im Partner Center|[Erstellen eines neuen Abonnements](create-a-new-subscription.md)|
-|Nachdem Sie das Abonnement hinzugefügt haben, können Sie den Mitarbeitern des Kunden Lizenzen zuweisen.  |[Zuweisen von Lizenzen an Benutzer](assign-licenses-to-users.md)|
+|Nachdem Sie das Abonnement hinzugefügt haben, können Sie den Mitarbeitern des Kunden Lizenzen zuweisen.  |[Zuweisen von Lizenzen zu Benutzern](assign-licenses-to-users.md)|
 |Sie können auch Massenaktualisierungen von Lizenzen verwalten.   |[Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer](bulk-license-provisioning-for-multiple-users.md)|
 |Wenn Ihre Kunden neue Mitarbeiter hinzufügen, können Sie zusätzliche Lizenzen zu vorhandenen Abonnements hinzufügen.   |[Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement](add-licenses-or-services-to-an-existing-subscription.md)|
 |Ihre Kunden möchten Software möglicherweise vor dem verbindlichen Kauf testen. Bieten Sie daher Testabonnements an.    |[Anbieten von Testversionen von Microsoft-Produkten für Kunden](offer-your-customers-trials-of-microsoft-products.md)|
 |Sie können den Azure-Abonnementprozess im Partner Center starten.   |[Zuweisen von Azure-Abonnements im Partner Center](assign-azure-subscriptions.md)|
 |Erfahren Sie mehr über Sonderpreise für Angebote.   |[Sonderpreise für Angebote](get-special-pricing-for-offers.md)|
-|Erfahren Sie, wie Ihre Kunden die Software verwenden, um sie dabei unterstützen zu können, effektiver zu arbeiten.   | [Steigerung von Einführungsrate und Zufriedenheit](increasing-adoption-and-satisfaction.md)   | 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
-
+|Erfahren Sie, wie Ihre Kunden die Software verwenden, um sie dabei unterstützen zu können, effektiver zu arbeiten.   | [Steigerung von Einführungsrate und Zufriedenheit](increasing-adoption-and-satisfaction.md)   |

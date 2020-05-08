@@ -1,8 +1,8 @@
 ---
-title: Gebühren für Steuern und Steuern | Partner Center
+title: Regionale Steuern und Steuerbefreiungen
 ms.topic: article
-ms.date: 11/21/2019
-description: Informieren Sie sich über die Steueraufgaben für Ihre spezielle geografische Region und über das Übermitteln von Steuer Ausnahmen für Ihre CSP-Verkäufe.
+ms.date: 04/28/2020
+description: Informieren Sie sich über die Steueraufgaben für Ihre spezielle geografische Region und über das Übermitteln von Steuer Ausnahmen für Ihre CSP-Verkäufe. Erfahren Sie auch, wie Sie Support für Steuerfragen erhalten.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,14 +10,15 @@ author: LauraBrenner
 keywords: Steuern, Steuern von Steuer Ausnahmen, Umsatzsteuer, Reseller, Abrechnung
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c4a8e318deaa2636ac7b118b3a446ea4b1cca09c
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ff89cd6a117e1db4cd42e0af522b975a2e62cf26
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797698"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907803"
 ---
-# <a name="taxes-and-tax-exemptions"></a>Steuern und Steuerbefreiungen
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country"></a>Informieren Sie sich über Steuer-und Steuer Befreiungs Details nach Region oder Land.
 
 Gilt für:
 

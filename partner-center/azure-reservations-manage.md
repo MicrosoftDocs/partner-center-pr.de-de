@@ -1,23 +1,23 @@
 ---
-title: Verwalten von Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden | Partner Center
+title: Verwalten von Azure-Reservierungen für Kunden
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Erfahren Sie, wie Sie Azure-Reservierungen im Auftrag eines Kunden verwalten, wie Sie eine Reservierung stornieren, eine Reservierung austauschen oder eine Rückerstattung anfordern.
+Description: Erfahren Sie, wie Sie Azure-Reservierungen für einen Kunden verwalten und wie Sie eine Reservierung stornieren, eine Reservierung austauschen oder eine Rückerstattung anfordern.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, Reservierungen, verwalten, Abrechnung, Kauf, Stornierung, Umtausch, Gebühr bei vorzeitiger Kündigung
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 652eb468662892b3f2a98b636c4f8760fa3f021f
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7470f20956a7309b4a7ec4dcbb9f18a41761596d
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205718"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908314"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>Verwalten von Microsoft Azure Reservations im Auftrag Ihrer Kunden
+# <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Verwalten, Abbrechen, austauschen oder Rückerstattung von Microsoft Azure Reservierungen für Kunden
 
 **Zielgruppe**
 
@@ -44,7 +44,7 @@ Um die Azure-Reservierungen ihrer Kunden nach dem Kauf zu verwalten, wählen Sie
     | **Auswählen**   | **An**    |
     |:-----------------------------|:-----------------|
     | **Übersicht**   | Anzeigen von Details der Reservierung eines Kunden, einschließlich Ablaufdatum, Bereich und Verwendungs Daten. **Hinweis** Wählen Sie **Rückerstattung** aus, um eine Supportanfrage für eine anteilige Rückerstattung zu stellen. Wählen Sie **Umtausch** aus, um eine Supportanfrage zu stellen, um den ungenutzten Teil Ihrer Reservierungslaufzeit umzutauschen.  
-    | **Access Control (IAM)**   | Verwalten des Zugriffs auf die Reservierungs Informationen des Kunden.|
+    | **Zugriffssteuerung (IAM)**   | Verwalten des Zugriffs auf die Reservierungs Informationen des Kunden.|
     | **Configuration**   | Ändern Sie den Bereich der Reservierung und/oder das Azure-Abonnement, dem die Reservierung zugeordnet ist.    |
     | **Eigenschaften**   | Zeigen Sie die Reservierungs Eigenschaften an, und kopieren Sie die Reservierungs-ID und die Reservierungs Auftrags-ID in die Zwischenablage. **Hinweis** Der Support fordert möglicherweise die Reservierungs-ID und Reservierungsauftrags-ID an, wenn Sie im Auftrag eines Kunden Support anfordern.    |
     | **Neue Supportanfrage**    | Dient zum Anfordern von Hilfe vom Microsoft-Support.   |
@@ -65,9 +65,9 @@ Nachfolgend finden Sie Details zu Kündigung und Gebühren.
 
 |**Kündigungsdatum**<br> (Tage)   |**Verwendung**    |**Quelle**  |**Frühzeitige Kündigung**<br> gebühr    |**Max. Rückerstattungsbetrag** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 oder weniger                         | Nein          | 100 %       | Nein                              | 50.000 USD   |
-|5 oder weniger                         | Ja         | Anteilig  | Nein                              | 50.000 USD   |
-|Mehr als 5                        | Nein          | Anteilig  | 12 %                             | 50.000 USD   |
+|5 oder weniger                         | Nein           | 100 %       | Nein                               | 50.000 USD   |
+|5 oder weniger                         | Ja         | Anteilig  | Nein                               | 50.000 USD   |
+|Mehr als 5                        | Nein           | Anteilig  | 12 %                             | 50.000 USD   |
 |Mehr als 5                        | Ja         | Anteilig  | 12 %                             | 50.000 USD   |
 
 

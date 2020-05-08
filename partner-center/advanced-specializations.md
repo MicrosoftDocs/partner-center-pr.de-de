@@ -1,24 +1,25 @@
 ---
-title: Erweiterte Spezialisierungs-| Partner Center
+title: Erweiterte Spezialisierung erwerben
 ms.topic: article
-ms.date: 12/16/2019
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Hier erfahren Sie mehr über die Kompetenzanforderungen für die Mitgliedschaftsstufen Silver und Gold.
+description: Stärken Sie Ihr Geschäftsprofil im Partnerverzeichnis. Erfahren Sie, wie Sie erweiterte Spezialisierungs-und Gold-und Silber-Kompetenzen erwerben.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Kompetenzen, Silver-Mitgliedschaft, Gold-Mitgliedschaft, MPN, MAPS, Kenntnisse, Microsoft Partner Network, Network Mitgliedschaft, erweiterte Spezialisierung
 ms.localizationpriority: medium
-ms.openlocfilehash: 44438e0bebbe5c2b41d13129a8b1fe3500a1ffa2
-ms.sourcegitcommit: 63d217cad74d8e049538f54530ae99fdd6a99315
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4a74f49c93dcdd257bc49fa2e304dfe900121489
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "75037049"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907541"
 ---
-# <a name="advanced-specializations"></a>Erweiterte Spezialisierungen-
+# <a name="how-advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>Wie erweiterte Spezialisierungs Informationen Ihr Geschäftsprofil für Kunden bereitstellen
 
-Gehen Sie mit einer erweiterten Spezialisierung noch über Ihre Gold-Kompetenz hinaus. Diese bieten Ihnen die Möglichkeit, bewährtes, überprüfbares Fachwissen zu einem Produkt, einem Lösungsbereich oder einem Dienst herauszustellen. Für Kunden sind sowohl Ihre Gold-Kompetenz als auch Ihre erweiterte Spezialisierung in Ihrem Geschäftsprofil im Partnerverzeichnis sichtbar. Um eine Kennzeichnung für erweiterte Spezialisierung zu erhalten, muss Ihr Unternehmen eine Reihe veröffentlichter Kriterien in vollem Umfang erfüllen und von Microsoft überprüft sein. [Weitere Informationen](https://partner.microsoft.com/membership/competencies#tab-content-2). 
+Gehen Sie über Ihre Gold-Kompetenz mit einer erweiterten Spezialisierung hinaus. Erweiterte spezialisierungslösungen helfen Ihnen, bewährte, überprüfbare Fachkenntnisse in einem Produkt, Lösungs Bereich oder Dienst vorzustellen. Kunden können Ihre Gold-Kompetenz und ihre erweiterte Spezialisierung in Ihrem Geschäftsprofil im Partnerverzeichnis sehen. Um eine Kennzeichnung für erweiterte Spezialisierung zu erhalten, muss Ihr Unternehmen eine Reihe veröffentlichter Kriterien in vollem Umfang erfüllen und von Microsoft überprüft sein. [Weitere Informationen](https://partner.microsoft.com/membership/competencies#tab-content-2)
 
 ## <a name="the-current-advanced-specializations"></a>Die aktuellen erweiterten Spezialisierungen
 
@@ -31,4 +32,5 @@ Gehen Sie mit einer erweiterten Spezialisierung noch über Ihre Gold-Kompetenz h
 - Partner für die Data Warehouse-Migration zu Microsoft Azure sind erfahren in der erfolgreichen Migration von Data Warehouses von Teradata, Netezza oder Oracle Exadata zu Azure und weisen Fachwissen bei der Analyse der vorhandenen Workloads, dem Generieren von Schemamodellen und dem Durchführen von ETL-Vorgängen (Extract, Transform and Load) nach, um Daten in cloudbasierte Data Warehouses zu migrieren.
 
 - Partner für Kubernetes in Microsoft Azure wenden DevOps-Verfahren für AKS-Implementierungen an und zeigen Fachwissen beim Bereitstellen und Verwalten von Produktionsworkloads in der Cloud mithilfe von Containern und bei der Verwaltung von gehosteten Kubernetes-Umgebungen in Microsoft Azure.
-Partner für die Modernisierung von Webanwendungen in Microsoft Azure stellen den Kundenerfolg bei der Anwendungsentwicklung und Vertrautheit mit Content Management-Systemen sicher. Sie weisen ihr Fachwissen bei Migration und Bereitstellung von Web-App-Produktionsworkloads nach, wenden DevOps-Praktiken an und verwalten Anwendungsdienste in Microsoft Azure.
+
+- Partner für die Modernisierung von Webanwendungen in Microsoft Azure stellen den Kundenerfolg bei der Anwendungsentwicklung und Vertrautheit mit Content Management-Systemen sicher. Sie weisen ihr Fachwissen bei Migration und Bereitstellung von Web-App-Produktionsworkloads nach, wenden DevOps-Praktiken an und verwalten Anwendungsdienste in Microsoft Azure.

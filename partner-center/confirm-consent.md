@@ -1,7 +1,7 @@
 ---
-title: Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag | Partner Center
+title: Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahre, wie du bestätigst, dass ein Kunde der Microsoft-Kundenvereinbarung zugestimmt hat. Dies kann erforderlich sein, um Microsoft-Produkte und -Dienste für Kunden zu bestellen.
@@ -9,14 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Kunde, Kunden, Zustimmung, MCA, Microsoft-Kundenvereinbarung, Vorlagen für Kundenvereinbarungen
 ms.localizationpriority: high
-ms.openlocfilehash: 2223a8e05a9df4c2d6ac377fc6f6b5a06944adc9
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9d45f04c8ee1a8d8715f5c6484598ecaca83b1f1
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81123325"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908150"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung
+# <a name="overview-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Übersicht: Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung
 
 **Zielgruppe**
 -  Partner Center

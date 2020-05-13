@@ -11,16 +11,17 @@ ms.author: labrenne
 keywords: Indirekte Vertriebspartner, Händler, indirekte Anbieter, Anbieter, Partnerschaft, VAR, Ebene2, Ebene 2
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e2e37b584d7d95ec09018cf8c74a238c4ef76519
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: ec6fcb6ccfd867d986aad2b751650cd6c1669229
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205658"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362758"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Informationen zum Arbeiten mit indirekten Anbietern im Cloud Solution Provider-Programm
 
 **Geeignete Rollen**
+
 - Globaler Administrator
 - Benutzeradministrator
 - Administrator-Agent
@@ -33,33 +34,35 @@ Als indirekter Vertriebspartner in CSP arbeiten Sie mit indirekten Anbietern (au
 Verschiedene indirekte Anbieter bieten unterschiedliche Supportlösungen und Dienste. Beurteilen Sie die Anbieter in Ihrer Region, um zu ermitteln, welche für Ihre Anforderungen am besten geeignet sind. Die meisten Anbieter bieten Folgendes:
 
 - Technische Schulung und Unterstützung
-- Hilfe bei der Vermarktung Ihrer Produkte und Dienste 
+- Hilfe bei der Vermarktung Ihrer Produkte und Dienste
 - Hilfe bei Finanzierungs- und Kreditbedingungen
 
 Falls du noch nicht mit einem Anbieter (oder Händler) zusammenarbeitest, kannst du einen Anbieter in der [Liste mit offiziellen Microsoft-Anbietern](https://partnercenter.microsoft.com/partner/find-a-provider) finden.
-
 
 Weitere Informationen zu den Anforderungen, die ein indirekter Wiederverkäufer unter dem CSP-Programm erfüllen muss, findest du unter [Erste Schritte als indirekter Reseller](https://partner.microsoft.com/cloud-solution-provider/whats-required) auf der [Microsoft Partner Network-Website](https://partner.microsoft.com/).
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>Registrieren als neuer indirekter Vertriebspartner beim Cloud Solution Provider-Programm
 
 > [!NOTE]  
-> Wenn Sie bereits in CSP registriert sind, müssen Sie möglicherweise nur Kontaktinformationen für den Kundensupport angeben, um ein Vertriebspartnerkonto im Partner Center zu erstellen. 
+> Wenn Sie bereits in CSP registriert sind, müssen Sie möglicherweise nur Kontaktinformationen für den Kundensupport angeben, um ein Vertriebspartnerkonto im Partner Center zu erstellen.
 
 ### <a name="before-you-begin"></a>Vorbereitung
 
 Wenn Sie noch keine CSP-Erfahrung haben, müssen Sie sich als indirekter Vertriebspartner registrieren und dann ein Konto im Partner Center erstellen. Dazu musst du bei der Registrierung die folgenden Informationen angeben. Es empfiehlt sich unter Umständen, vor Beginn des Vorgangs folgende Angaben zu sammeln:
 
-- **Anmeldeinformationen des globalen Administrators für Ihr Geschäftskonto**<br>
-Du musst den Benutzernamen und das Kennwort zur Anmeldung bei Office 365, Microsoft Azure oder Microsoft Dynamics CRM angeben. Wenn du noch kein Geschäftskonto besitzt, kannst du es während der Registrierung erstellen. Wenn du nicht sicher bist, ob du bereits ein Geschäftskonto hast, findest du weitere Infos unter [Geschäftskonten und Partner Center](azure-active-directory-tenants-and-partner-center.md).
+- **Anmeldeinformationen des globalen Administrators für Ihr Geschäftskonto**
 
-- **Benutzername und Kennwort für die Anmeldung bei der Partner Membership Center-Website**<br>
-  Wir verwenden diese Informationen, um die Microsoft Partner Network-ID (MPN-ID) Ihres Unternehmens mit Ihrem neuen Partner Center-Konto zu verknüpfen. Anschließend können Sie Ihre Mitgliedschaftsvorteile und -daten im Partner Center verwalten.
+   Du musst den Benutzernamen und das Kennwort zur Anmeldung bei Office 365, Microsoft Azure oder Microsoft Dynamics CRM angeben. Wenn du noch kein Geschäftskonto besitzt, kannst du es während der Registrierung erstellen. Wenn du nicht sicher bist, ob du bereits ein Geschäftskonto hast, findest du weitere Infos unter [Geschäftskonten und Partner Center](azure-active-directory-tenants-and-partner-center.md).
 
-- **Offizieller Name, Adresse, Hauptansprechpartner und Supportdetails Ihrer Organisation**<br>
-  Wir benötigen diese Informationen, um sicherzustellen, dass Ihre Organisation über ein Profil bei Microsoft verfügt und Sie berechtigt sind, in ihrem Auftrag zu handeln.
+- **Benutzername und Kennwort für die Anmeldung bei der Partner Membership Center-Website**
 
-  Die Überprüfung deiner Angaben kann mehrere Tage dauern. Wir informieren deinen Hauptansprechpartner per E-Mail, wenn unsere Überprüfung abgeschlossen ist.
+   Wir verwenden diese Informationen, um die Microsoft Partner Network-ID (MPN-ID) Ihres Unternehmens mit Ihrem neuen Partner Center-Konto zu verknüpfen. Anschließend können Sie Ihre Mitgliedschaftsvorteile und -daten im Partner Center verwalten.
+
+- **Offizieller Name, Adresse, Hauptansprechpartner und Supportdetails Ihrer Organisation**
+
+   Wir benötigen diese Informationen, um sicherzustellen, dass Ihre Organisation über ein Profil bei Microsoft verfügt und Sie berechtigt sind, in ihrem Auftrag zu handeln.
+
+   Die Überprüfung deiner Angaben kann mehrere Tage dauern. Wir informieren deinen Hauptansprechpartner per E-Mail, wenn unsere Überprüfung abgeschlossen ist.
 
 ### <a name="get-started"></a>Erste Schritte
 
@@ -135,18 +138,18 @@ Wenn ein indirekter Anbieter im Partner Center mit dir zusammenarbeiten möchte,
    > [!NOTE]  
    > Wenn du eine Partnerschaft mit einem indirekten Anbieter eingehst, gestattest du ihm dadurch, im Namen deiner Kunden Aufträge zu übermitteln und Abonnements hinzuzufügen. Außerdem gewährst du ihm Administratorzugriff auf das Geschäftskonto deines Unternehmens. Nachdem Ihre Partnerschaft mit dem Anbieter eingerichtet wurde, können Sie den Administratorzugriff des Anbieters auf das Geschäftskonto im Office 365-Portal entfernen.
 
-4. Wählen Sie im **Partner Center**-Menü die Option **Indirekte Anbieter** aus, um eine Liste mit den Anbietern anzuzeigen, mit denen Sie zusammenarbeiten. 
+4. Wählen Sie im **Partner Center**-Menü die Option **Indirekte Anbieter** aus, um eine Liste mit den Anbietern anzuzeigen, mit denen Sie zusammenarbeiten.
 
 5. Wählen Sie **Kunden anzeigen** aus, um eine Liste mit den Kunden anzuzeigen, die Sie sich mit dem Anbieter teilen.
 
 6. Wählen Sie **Neue Kunden einladen** aus, um einen neuen Kunden zu bitten, Vertriebspartnerschaften mit Ihnen und Ihrem indirekten Anbieter zu autorisieren. Halte die E-Mail-Adresse des Kunden bereit, um die Einladung per E-Mail senden zu können.  
 
    > [!IMPORTANT]  
-   > Ihr indirekter Anbieter muss eine Vertriebspartnerschaft mit Ihren Kunden haben, um in ihrem Namen Aufträge übermitteln zu können. 
- 
+   > Ihr indirekter Anbieter muss eine Vertriebspartnerschaft mit Ihren Kunden haben, um in ihrem Namen Aufträge übermitteln zu können.
+
 ## <a name="connect-with-customers"></a>Kontakt zu Kunden
 
-Um mit Kunden in Partner Center Transaktionen durchzuführen, müssen Ihre Kunden Partner Center-Konten haben, und Sie müssen Vertriebspartnerschaften mit ihnen aufbauen. Damit ihr indirekter Anbieter Abonnements und Dienste im Namen Ihres Kunden erwerben kann, muss auch der Anbieter über Vertriebspartnerschaften mit Ihren Kunden verfügen. 
+Um mit Kunden in Partner Center Transaktionen durchzuführen, müssen Ihre Kunden Partner Center-Konten haben, und Sie müssen Vertriebspartnerschaften mit ihnen aufbauen. Damit ihr indirekter Anbieter Abonnements und Dienste im Namen Ihres Kunden erwerben kann, muss auch der Anbieter über Vertriebspartnerschaften mit Ihren Kunden verfügen.
 
 ### <a name="connect-with-existing-customers"></a>Interagieren mit bestehenden Kunden
 
@@ -158,7 +161,7 @@ Wenn Sie mit einem indirekten Anbieter zusammenarbeiten, gewinnen Sie nicht auto
 
 1. Wählen Sie im **Partner Center**-Menü die Option **Kunden** und anschließend **Vertriebspartnerschaft beantragen** aus.
 
-2. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen. 
+2. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
 
    Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist und den Kunden direkt mit Ihrem Konto verknüpft. Wähle **Fertig** aus, nachdem du diesen Schritt abgeschlossen hast.
 
@@ -178,7 +181,7 @@ Wenn du neue Kunden gewinnst, musst du über das Partner Center mit ihnen intera
 
 Zum Verwalten von Abonnements und Diensten im Auftrag eines Kunden muss eine Vertriebspartnerschaft mit ihm bestehen. Damit der indirekte Anbieter Aufträge im Namen deines Kunden übermitteln kann, muss auch der indirekte Anbieter über eine Vertriebspartnerschaft mit dem Kunden verfügen.
 
-Um Administratorberechtigungen zum Verwalten von Abonnements und Diensten eines neuen Kunden zu erhalten **und** damit dein indirekter Anbieter neue Aufträge in ihrem Namen übermitteln kann, kannst du den Kunden zum Aufbau einer Vertriebspartnerschaft mit dir und deinem Anbieter einladen. 
+Um Administratorberechtigungen zum Verwalten von Abonnements und Diensten eines neuen Kunden zu erhalten **und** damit dein indirekter Anbieter neue Aufträge in ihrem Namen übermitteln kann, kannst du den Kunden zum Aufbau einer Vertriebspartnerschaft mit dir und deinem Anbieter einladen.
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-with-your-indirect-provider-at-the-same-time"></a>Gleichzeitiges Einladen eines Kunden zum Aufbau einer Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter
 
@@ -186,7 +189,7 @@ Um Administratorberechtigungen zum Verwalten von Abonnements und Diensten eines 
 
 2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu einer Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzuladen. Der Anbieter muss über eine Vertriebspartnerschaft mit deinem Kunden verfügen, damit er Aufträge im Namen des Kunden übermitteln kann, wenn dieser neue Abonnements erwerben oder vorhandenen Abonnements neue Lizenzen hinzufügen möchte.
 
-3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen. 
+3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
 
    Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist, um den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters zu verknüpfen. Wähle **Fertig** aus, nachdem du diesen Schritt abgeschlossen hast.
 
@@ -194,12 +197,12 @@ Um Administratorberechtigungen zum Verwalten von Abonnements und Diensten eines 
 
 5. Erweitere zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem du neben seinem Namen auf den nach unten weisenden Pfeil klickst.
 
-## <a name="see-also"></a>Siehe auch
+## <a name="next-steps"></a>Nächste Schritte
 
-[Verwalten des Partner Center-Kontos](partner-center-account-setup.md)
+- [Verwalten des Partner Center-Kontos](partner-center-account-setup.md)
 
-[Verwalten von Kunden und deren Abonnements](customer-accounts.md)
+- [Verwalten von Kunden und deren Abonnements](customer-accounts.md)
 
-[Erstellen eines Unternehmensprofils](create-a-marketing-profile.md)
+- [Erstellen eines Unternehmensprofils](create-a-marketing-profile.md)
 
-[Verwalten Ihrer Anreize in Partner Center](understand-incentive-payouts.md)
+- [Verwalten Ihrer Anreize in Partner Center](understand-incentive-payouts.md)

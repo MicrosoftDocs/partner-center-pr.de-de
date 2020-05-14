@@ -1,5 +1,5 @@
 ---
-title: Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer | Partner Center
+title: Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer
 ms.topic: article
 ms.date: 04/27/2020
 ms.service: partner-dashboard
@@ -9,16 +9,16 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Direktabrechnung, Übergang, indirekter Wiederverkäufer
-ms.openlocfilehash: d70ff8ec0b9639ea02ca8e472f720f06aef6f070
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 8002504622e330aefd4ec20d8a49a27454360e3f
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205688"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362668"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer
 
-**Gilt für:**
+**Anwendungsbereich:**
 
 - CSP-Partner
 
@@ -47,9 +47,9 @@ Sie können sich unter Verwendung Ihres vorhandenen Direktabrechnungsmandanten b
 5. Melden Sie sich nach der Genehmigung Ihrer Registrierung erneut bei Partner Center an.
 
     > [!NOTE]
-    > Die Genehmigung erfolgt in der Regel sofort, kann aber bis zu fünf Werktage dauern. Nach der Genehmigung wird eine entsprechende Benachrichtigung an die E-Mail-Adresse gesendet, die Sie im Registrierungsformular als primären Kontakt angegeben haben. Sie können den Registrierungsstatus auch unter **Einstellungen** > **Partner Einstellungen** > **Partner Profil** > Programm Info überprüfen.
+    > Die Genehmigung erfolgt in der Regel sofort, kann aber bis zu fünf Werktage dauern. Nach der Genehmigung wird eine entsprechende Benachrichtigung an die E-Mail-Adresse gesendet, die Sie im Registrierungsformular als primären Kontakt angegeben haben. Sie können den Registrierungsstatus auch unter **Einstellungen**  >  **Partner Einstellungen**  >  **Partner Profil** > Programm Info überprüfen.
 
-6. Auf der Seite **Übersicht** wird die Vereinbarung für indirekte Wiederverkäufer angezeigt. Wählen Sie **Zustimmen und fortfahren** aus. Dadurch werden die Funktionen für indirekte Wiederverkäufer aktiviert.
+6. Auf der Seite **Übersicht** wird die Vereinbarung für indirekte Wiederverkäufer angezeigt. Wählen Sie **Zustimmen und fortfahren** aus. Diese Aktion ermöglicht die indirekten Reseller-Funktionen.
 
 Wenn Sie die Vereinbarung für indirekte Wiederverkäufer akzeptiert haben, weist Sie Ihr Partnerprofil als Direktabrechnungspartner **und** als indirekter Wiederverkäufer aus.
 
@@ -86,11 +86,11 @@ Der von Ihnen ausgewählte indirekte Anbieter sendet Ihnen eine E-Mail mit einem
 
 ## <a name="acquire-new-customers-as-indirect-reseller"></a>Gewinnen neuer Kunden als indirekter Wiederverkäufer
 
-Sowohl Sie selbst als auch Ihr indirekter Anbieter müssen über Vertriebspartnerschaften mit Kunden verfügen. Dies ermöglicht es Ihnen, die Abonnements und Dienste eines Kunden in Ihrem Namen zu verwalten. Um einen neuen Kunden zu gewinnen, der bereits über einen Azure AD-Mandanten verfügt, können Sie den Kunden gleichzeitig zu einer Vertriebspartnerschaft mit Ihnen und Ihrem Anbieter einladen. 
+Sowohl Sie selbst als auch Ihr indirekter Anbieter müssen über Vertriebspartnerschaften mit Kunden verfügen. Diese Reseller-Beziehungen ermöglichen es Ihnen, die Abonnements und Dienste eines Kunden in Ihrem Namen zu verwalten. Um einen neuen Kunden zu gewinnen, der bereits über einen Azure AD-Mandanten verfügt, können Sie den Kunden gleichzeitig zu einer Vertriebspartnerschaft mit Ihnen und Ihrem Anbieter einladen.
 
 So erstellen Sie eine Einladung als indirekter Wiederverkäufer:
 
-1. Wählen Sie in Partner Center im linken Navigationsbereich die Option **Indirekte Anbieter** aus. 
+1. Wählen Sie in Partner Center im linken Navigationsbereich die Option **Indirekte Anbieter** aus.
 
 2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu einer Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzuladen. Der Anbieter muss über eine Reseller-Beziehung mit Ihrem Kunden verfügen, damit er Bestellungen im Auftrag Ihres Kunden einreichen kann, wenn der Kunde neue Abonnements erwerben oder vorhandene Abonnements neue Lizenzen hinzufügen möchte.
 
@@ -99,7 +99,7 @@ So erstellen Sie eine Einladung als indirekter Wiederverkäufer:
 4. Bearbeiten Sie den Text in der e-Mail-Nachricht, um zu sagen, was Sie brauchen, aber achten Sie darauf, den Link so zu schließen, dass er den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters verbindet. Wählen Sie dann **Fertig** aus.
 
 5. Nachdem der Kunde dich und deinen Anbieter als Vertriebspartner autorisiert hat, verfügst du über die nötigen Administratorberechtigungen zur Verwaltung seiner Abonnements, Lizenzen und Benutzer, und dein indirekter Anbieter kann Aufträge im Namen des Kunden übermitteln.
-6. Erweitere zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem du neben seinem Namen auf den nach unten weisenden Pfeil klickst. 
+6. Erweitere zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem du neben seinem Namen auf den nach unten weisenden Pfeil klickst.
 
 Anders als bei direkten Rechnungs Partnern können indirekte Vertriebspartner Azure AD Mandanten nicht für Ihre neuen Kunden im Partner Center erstellen. Ihr Anbieter erstellt den Mandanten und gibt Sie als den indirekten Wiederverkäufer für diesen Kunden an. Dadurch wird sichergestellt, dass der Kunde in Partner Center in Ihrer Kundenliste angezeigt wird.
 
@@ -110,7 +110,7 @@ Anders als bei direkten Rechnungs Partnern können indirekte Vertriebspartner Az
 
 Direktabrechnungskunden und Kunden für den indirekten Wiederverkauf werden unterschiedlich verwaltet.
 
-**Direktkunden der Rechnung (was Sie nicht als indirekter Händler tun werden)**
+### <a name="direct-bill-customers-things-you-wont-do-as-an-indirect-reseller"></a>Direktkunden der Rechnung (was Sie nicht als indirekter Händler tun werden)
 
 - Erstellen von Bestellungen für Produkte
 - Verwalten von Azure-Reservierungen
@@ -118,13 +118,13 @@ Direktabrechnungskunden und Kunden für den indirekten Wiederverkauf werden unte
 - Kaufen von Software
 - Direktes Abrechnen mit Kunden
 
-**Kunden indirekter Wiederverkäufer**
+### <a name="indirect-reseller-customers"></a>Kunden indirekter Wiederverkäufer
 
 - Indirekter Anbieter bestellt Produkte für Ihre Kunden
 - Verwalten von Lizenzen und Benutzern von Kunden
 - Abwickeln von Abonnementverlängerungen
 
-**So erkennen Sie Kunden, die Sie als Direktabrechnungspartner gewonnen haben:**
+### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>So erkennen Sie Kunden, die Sie als Direktabrechnungspartner gewonnen haben:
 
 1. **Kunden** auswählen
 
@@ -244,10 +244,7 @@ Die Funktion ist ein 4-stufiger Prozess, bei dem Folgendes gilt:
 
 - Der Übergangs Partner überprüft, ob die Übertragungs Anforderung beendet ist.
 
-
-
-
-### <a name="transitioning-partner---create-transfer-request"></a>Übergang von Partner-Create Transfer Request
+### <a name="transitioning-partner"></a>Übergangs Partner
 
 > [!NOTE]
 > Sie können auch die [Partner Center-API/das SDK](https://docs.microsoft.com/partner-center/develop/manage-customers) verwenden, um die vorhandenen Abonnements an Ihren indirekten Anbieter zu übertragen.
@@ -260,8 +257,7 @@ Die Funktion ist ein 4-stufiger Prozess, bei dem Folgendes gilt:
 > - [Abrufen der Übertragungen eines Kunden](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)
 > - [Übertragungs Details nach ID erhalten](https://docs.microsoft.com/partner-center/develop/get-transfer-by-id)
 
-**Übergang von Partner-Create Transfer Request**
-
+### <a name="transitioning-partner---create-transfer-request"></a>Übergang von Partner-Create Transfer Request
 
 So erstellen Sie eine Übertragungs Anforderung als Übergangs Partner:
 
@@ -315,13 +311,13 @@ So überprüfen und akzeptieren Sie eine Übertragungs Anforderung als indirekte
 
 8. Warten Sie, bis die Übertragungs Anforderung beendet wurde.
 
-### <a name="indirect-provider-verify-transfer-request-is-complete"></a>Indirekte Überprüfung der Übertragungs Anforderung für den Anbieter ist beendet
+### <a name="indirect-provider---verify-transfer-request-is-complete"></a>Indirekte Anbieter-Überprüfen der Übertragungs Anforderung ist beendet
 
 1. Nachdem die Übertragungs Anforderung erfolgreich abgeschlossen wurde, überprüfen Sie, ob die Abonnements unter **Abonnements**angezeigt werden.
 
 2. Informieren Sie den Übergangs Partner.
 
-### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>Übergangs Partner-Überprüfen der Übertragungs Anforderung ist fertiggestellt. 
+### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>Übergangs Partner-Überprüfen der Übertragungs Anforderung ist fertiggestellt.
 
 Der Übergangs Partner sollte folgende Aktionen ausführen:
 
@@ -343,7 +339,7 @@ Der Übergangs Partner sollte folgende Aktionen ausführen:
 
    ![Abonnement angehalten](images/direct/direct13.png)
 
-### <a name="considerations"></a>Überlegungen
+### <a name="considerations"></a>Weitere Überlegungen
 
 - **Die Abonnement-ID wird nach der Übertragung anders sein.** Wenn es sich um ein Azure-Abonnement (MS-AZR-0145p) handelt, wird zusätzlich eine Azure-Abonnement-ID verwendet, die vom vorherigen Besitzer aufbewahrt wird und im Azure-Verwaltungs Portal angezeigt wird.
 
@@ -363,8 +359,8 @@ Nachdem Sie sich unter Ihrem vorhandenen Direktabrechnungspartner-Mandanten erfo
 
 Mit dem gleichen Partnermandanten können Sie sich auch für Incentive-Programme für die Direktabrechnung registrieren. Die Programme müssen separat verwaltet werden.
 
-## <a name="see-also"></a>Siehe auch
+## <a name="next-steps"></a>Nächste Schritte
 
-- [Weitere Informationen zu den Anforderungen an indirekte Wiederverkäufer](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
+- [Weitere Informationen zu den Anforderungen an indirekte Wiederverkäufer](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [Neue Anforderungen für direkte CSP-Partner](direct-partner-new-requirements.md)
 - [Eingeschränkte Direktabrechnungsfunktionen](restricted-direct-bill-capabilities.md)

@@ -9,37 +9,55 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 653a0db03d84efa3f251596d3cea841310d55161
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: d57321e272a251c91791f274373fb31953f94e04
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205788"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362728"
 ---
-# <a name="learn-how-to-remove-a-reseller-relationship-with-a-customer"></a>Erfahren Sie, wie Sie eine Reseller-Beziehung mit einem Kunden entfernen.
+# <a name="how-to-remove-a-reseller-relationship-with-a-customer"></a>Entfernen einer Reseller-Beziehung mit einem Kunden
 
 **Zielgruppe**
 
 - Partner Center
 
+In diesem Artikel wird beschrieben, wie Sie eine Reseller-Beziehung mit einem Kunden im Partner Center entfernen.
+
 Direkte Partner: Wenn Sie keine Transaktionen mehr mit einem Kunden abwickeln, können Sie die Partnerschaft in Partner Center entfernen.
 
-Mithilfe dieser Funktion
+Das Entfernen einer Beziehung hat folgende Konsequenzen:
+
 - Kunden aus der Kundenliste im Partner Center entfernen
 - Sie aus der [Liste verfügbarer Supportkontakte](assign-support-contacts.md) Ihres Kunden entfernen
 - Delegierungsadministratorrechte für den Kunden entfernen
 - Verhindert, dass Sie zukünftige Einkäufe für den Kunden tätigen
 
-Um die Partnerschaft zu entfernen, müssen Sie zunächst Azure RI-Reservierungen und Softwarekäufe stornieren und alle verbleibenden aktiven Abonnements aussetzen:
-1. Setzen Sie alle aktiven Abonnements aus. Navigieren Sie in Partner Center zu **Kunden** > Kunden auswählen > **Abonnements** > Abonnement auswählen > **Angehalten**. 
+## <a name="how-to-remove-a-relationship"></a>Vorgehensweise beim Entfernen einer Beziehung
 
-   Wiederholen Sie diesen Schritt für jedes aktive Abonnement.
+Um die Beziehung zu entfernen, müssen Sie Azure RI-Reservierungen abbrechen, Software Käufe abbrechen und alle verbleibenden aktiven Abonnements zuerst sperren.
 
-2. Entfernen Sie die Beziehung in Partner Center: Wechseln Sie im Partner Center zu **Kunden** , > wählen Sie ein Kunden **Konto** > aus, > Sie die wieder**Verkäufer Beziehung entfernen**.
+1. **Setzen Sie alle aktiven Abonnements aus.**
+
+   1. Wechseln Sie im Partner Center zu **Kunden** , und wählen Sie einen Kunden aus.
+
+   2. Wählen Sie unter **Abonnements**ein Abonnement aus.
+
+   3. Wählen **Sie** angehalten
+
+   4. Wiederholen Sie diese Schritte für jedes aktive Abonnement.
+
+2. **Entfernen Sie die Partnerschaft in Partner Center:**
+
+   a. Wechseln Sie im Partner Center zu **Kunden** , und wählen Sie einen Kunden aus.
+
+   b. Wählen Sie das **Konto**aus.
+
+   c. Wählen Sie **Reseller Relationship entfernen**aus.
 
    > [!NOTE]
    > Wenn Abonnements noch aktiv sind, ist der Link **Reseller Relationship entfernen** inaktiv.
 
-## <a name="see-also"></a>Weitere Informationen
+## <a name="next-steps"></a>Nächste Schritte
 
 - [Eine Beziehung mit einem Kunden anfordern oder wiederherstellen](request-a-relationship-with-a-customer.md)

@@ -1,5 +1,5 @@
 ---
-title: Erfahren Sie mehr über die Markteinführung mit Microsoft-angeboten | Partner Center
+title: Erfahren Sie mehr über die Markteinführung mit Microsoft-angeboten
 ms.topic: article
 ms.date: 03/16/2020
 ms.service: partner-dashboard
@@ -9,16 +9,16 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: MPN, Mitgliedschafts Vorteile, Mitgliedschaft, Angebote zu Markteinführungszeiten, Markteinführung mit Microsoft, zu Markt, Goldmitgliedschaft, Silver-Mitgliedschaft
 ms.localizationpriority: medium
-ms.openlocfilehash: 593b21e8ac74440aca5599dcf3b49a0ed877a827
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: 19b00c2732faa18581214c6d32139c7f2e6ec15a
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226206"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362718"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Erkunden Sie Ihre Markteinführungszeiten mit Microsoft-angeboten
 
-**Gilt für:**
+**Zielgruppe**
 
 - Partner Center
 - Mitglieder im Microsoft Partner Network
@@ -34,7 +34,6 @@ Mit den Markt Einführungs angeboten können Sie auf exklusive Vertriebs-und Mar
 
 >[!NOTE]
 >Wenn Sie noch nicht Mitglied der Microsoft Partner Network sind, können Sie sich auf [der Microsoft Partner Network Website](https://partner.microsoft.com/membership)anmelden.
-
 
 ## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Ressourcen, Angebote und Programme, die auf Mitgliedschafts Ebene verfügbar sind
 
@@ -69,7 +68,7 @@ Um Ihre Markt Einführungsangebote anzuzeigen:
 
 2. Wählen Sie im Menü auf der linken Seite **MPN**aus. Führen Sie dann einen der folgenden Schritte aus:
 
-    - Wählen Sie **Übersicht**aus. Scrollen Sie zum Abschnitt **Quick Links** , und wählen Sie dann die Registerkarte **go-to-Market** aus.
+    - Wählen Sie **Übersicht** aus. Scrollen Sie zum Abschnitt **Quick Links** , und wählen Sie dann die Registerkarte **go-to-Market** aus.
 
       oder
 
@@ -84,10 +83,10 @@ Spezifische Schritte zum Aktivieren oder Verwalten Ihrer Markt Einführungsangeb
 >[!IMPORTANT]
 >Sie müssen der globale Administrator oder MPN-Partner Administrator sein, um bestimmte Markt Einführungsangebote zu aktivieren und einen Verwandten Marketing Kontakt zuzuweisen. Bei Bedarf können Sie ein globaler Administrator werden. Befolgen Sie dazu die Anweisungen auf der Seite [**Vorteile**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Möglicherweise gibt es in Ihrer Organisation bereits einen globalen Administrator. Erkundigen Sie sich in Ihrem Team danach.
 
-#### <a name="see-also"></a>Siehe auch
+## <a name="next-steps"></a>Nächste Schritte
 
-[Verwalten der Vorteile Ihres Partnernetzwerks](manage-your-partner-network-benefits.md)
+- [Verwalten der Vorteile Ihres Partnernetzwerks](manage-your-partner-network-benefits.md)
 
-[Kauf oder Verlängerung eines Microsoft Action Pack-Abonnements](mpn-get-action-pack.md)
+- [Erstmaliges Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements](mpn-get-action-pack.md)
 
-[Weitere Informationen zu Kompetenzen](learn-about-competencies.md)
+- [Weitere Informationen zu Kompetenzen](learn-about-competencies.md)

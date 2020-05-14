@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: Vor der Bereitstellung, Planung, Software Assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: eb153d96f6c0dda0e7ce0521863d74cdb42bcbc2
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296405"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362438"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance-Planungsdienste in Partner Center
 
@@ -87,7 +87,7 @@ Wenn Sie die Gutscheindetails haben, können Sie den Gutschein reservieren und d
 
 ## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>Umfassende Teilnahme und Bereitstellung von Lieferleistungen für Ihren Kunden (vorhandene Partner)
 
-Der Berater muss mindestens eine der technischen Bewertungen oder Prüfungen durchgeführt haben, die für die qualifizierende Kompetenz der Engagement erforderlich sind, um sich für die Bereitstellung eines Planungs Diensts zu qualifizieren. (Weitere Informationen zu den erforderlichen Bewertungen oder Prüfungen finden Sie unter [Voraussetzungen für die Planung von Dienst Engagements](software-assurance-dps-requirements.md).) 
+Der Berater muss mindestens eine der technischen Bewertungen oder Prüfungen durchgeführt haben, die für die qualifizierende Kompetenz der Engagement erforderlich sind, um sich für die Bereitstellung eines Planungs Diensts zu qualifizieren. (Weitere Informationen zu den erforderlichen Bewertungen oder Prüfungen finden Sie unter [Voraussetzungen für die Planung von Dienst Engagements](software-assurance-dps-requirements.md).)
 
 Nachdem Ihr Unternehmen das Engagement abgeschlossen und die endgültigen, abgeschlossenen Lieferleistungen für den Kunden bereitgestellt hat, müssen Sie den Online Abschlussbericht ausfüllen und übermitteln.
 
@@ -103,7 +103,7 @@ Nach dem Einlösen von Planungsdienst-Gutscheinen müssen Sie Microsoft für die
 
 Befolgen Sie die Anweisungen in [Schritt 8](https://go.microsoft.com/fwlink/?linkid=2115983) des Workflows, um eine Rechnung über savb an Microsoft zu übermitteln.
 
-## <a name="see-also"></a>Siehe auch
+## <a name="next-steps"></a>Nächste Schritte
 
 - [Software Assurance Planning Services-Workflow](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [FAQ zu Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2116077)

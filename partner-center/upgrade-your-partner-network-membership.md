@@ -1,26 +1,26 @@
 ---
-title: Aktualisieren der Microsoft Partner Network-Mitgliedschaft | Partner Center
+title: Aktualisieren der Microsoft Partner Network-Mitgliedschaft
+description: Qualifizieren Sie sich für exklusive Vorteile, indem Sie Ihre MPN-Mitgliedschaft auf eine Microsoft Action Pack-Abonnement Mitgliedschaft oder auf Microsoft-Kompetenzen aktualisieren.
 ms.topic: article
-ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Qualifizieren Sie sich für exklusive Vorteile, indem Sie Ihre MPN-Mitgliedschaft auf eine Microsoft Action Pack-Abonnement Mitgliedschaft oder auf Microsoft-Kompetenzen aktualisieren.
 author: LauraBrenner
 ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: d5ab422d7df9c1d97b9d849d40046d21f31ee9ae
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.date: 03/19/2020
+ms.openlocfilehash: f39e92c64841bc541f6f72256aece4f0a1da3e1d
+ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797808"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83369257"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>Aktualisieren der Microsoft Partner Network-Mitgliedschaft
 
 **Zielgruppe**
 
--  Partner Center
+- Partner Center
 
 Das Microsoft-Partnerprogramm bietet die folgenden drei Mitgliedschafts Optionen mit inkrementellen Vorteilen und Marketingressourcen, angeboten und Programmen, mit denen Sie Ihre geschäftlichen Ziele erreichen können.
 
@@ -34,33 +34,32 @@ Das Microsoft-Partnerprogramm bietet die folgenden drei Mitgliedschafts Optionen
 
   - Gold-Kompetenz: die beste Funktion innerhalb eines bestimmten Microsoft-Lösungs Bereichs
 
-Nachdem Sie dem Microsoft Partner Network beigetreten sind, können Sie Ihre Mitgliedschaft aktualisieren und exklusive mitgliedschaftsangebote erwerben. Weitere Informationen zur Mitgliedschaft in der Microsoft Partner Network finden Sie unter [https://partner.microsoft.com](https://partner.microsoft.com).
+Nachdem Sie dem Microsoft Partner Network beigetreten sind, können Sie Ihre Mitgliedschaft aktualisieren und exklusive mitgliedschaftsangebote erwerben. Weitere Informationen zur Mitgliedschaft in der Microsoft Partner Network finden Sie unter [https://partner.microsoft.com](https://partner.microsoft.com) .
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>Kauf eines Microsoft Action Pack-Abonnements
 
 Action Pack ist ein kostengünstiges Jahresabonnement für Dienste, Software und Support für Unternehmen, die in einer Welt, in der mobile Geräte und Clouddienste zunehmend an Bedeutung gewinnen, ihr Microsoft-Geschäft ausbauen möchten. Abonnieren Sie Action Pack, um:
 
-- erstklassige Entwicklertools zum Erstellen von Anwendungen und Lösungen für Ihre Kunden unter iOS, Android, Linux und Windows zu verwenden. 
+- erstklassige Entwicklertools zum Erstellen von Anwendungen und Lösungen für Ihre Kunden unter iOS, Android, Linux und Windows zu verwenden.
 
-- zehn Windows 10 Enterprise-Lizenzen (Upgrade), drei Visual Studio Professional-Lizenzen und ein kostenloses Visual Studio Team Services-Konto zu erhalten. 
+- zehn Windows 10 Enterprise-Lizenzen (Upgrade), drei Visual Studio Professional-Lizenzen und ein kostenloses Visual Studio Team Services-Konto zu erhalten.
 
 - bis zu zehn Office 365 (E3)-Arbeitsplätze sowie fünf Arbeitsplätze von Enterprise Mobility Suite und Microsoft Dynamics CRM Online Professional zu erhalten.
 
 - monatlich 100 US-Dollar Microsoft Azure-Gutschriften zu erhalten.
 
-Weitere Informationen zu Microsoft Action Pack finden Sie unter [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack). 
+Weitere Informationen zu Microsoft Action Pack finden Sie unter [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack) .
 
 > [!NOTE]  
 > Über diesen Link gelangen Sie zu einer anderen Website. Kehren Sie zurück zu dieser Website (Partner Center), um Action Pack zu abonnieren.
 
-
 ### <a name="subscribe-to-microsoft-action-pack"></a>Abonnieren von Microsoft Action Pack
 
-1. Wählen Sie **Partnerschaft > Angebote** im Menü **Partner Center** aus. Microsoft Action Pack ist unter **Verfügbare Angebote** aufgeführt. Klicken Sie auf **Jetzt abonnieren**. 
+1. Wählen Sie **Partnerschaft > Angebote** im Menü **Partner Center** aus. Microsoft Action Pack ist unter **Verfügbare Angebote** aufgeführt. Klicken Sie auf **Jetzt abonnieren**.
 
 2. Klicken Sie auf **Weiter**, um die [Geschäftsbedingungen](https://go.microsoft.com/fwlink/?linkid=842232) für interne Nutzungsrechte zu akzeptieren, die vom Microsoft Partner Network gewährt werden.  
 
-3. Klicken Sie auf **Weiter**, um Zahlungsdetails hinzuzufügen. 
+3. Klicken Sie auf **Weiter**, um Zahlungsdetails hinzuzufügen.
 
 4. Wählen Sie die Option **Get Started! Fügen Sie eine Zahlungsmethode hinzu,** Wenn Sie Zahlungsdetails eingeben müssen.
 
@@ -70,19 +69,18 @@ Weitere Informationen zu Microsoft Action Pack finden Sie unter [https://partner
 
 7. Ihre Bestellung wird bestätigt. Wählen Sie **Schließen** aus.
 
-Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlängert. Sie können die automatische Verlängerung jederzeit in der Liste der erworbenen Angebote deaktivieren. Allerdings ist es nicht möglich, die automatische Abonnementverlängerung wieder zu aktivieren, bis Sie erneut Ihr Abonnement verlängern. 
+Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlängert. Sie können die automatische Verlängerung jederzeit in der Liste der erworbenen Angebote deaktivieren. Allerdings ist es nicht möglich, die automatische Abonnementverlängerung wieder zu aktivieren, bis Sie erneut Ihr Abonnement verlängern.
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Deaktivieren der automatischen Verlängerung des Action Pack-Abonnements
 
 1. Wählen Sie **Partnerschaft > Angebote** im Menü **Partner Center** aus. Microsoft Action Pack ist unter **Erworbene Angebote** aufgeführt.
 
-2. Wählen Sie **Microsoft Action Pack-Abonnement** aus, um die Abonnementdetails einzusehen. 
+2. Wählen Sie **Microsoft Action Pack-Abonnement** aus, um die Abonnementdetails einzusehen.
 
-3. Aktivieren Sie **Automatische Verlängerung deaktivieren**, wenn Sie Ihr Action Pack-Abonnement nicht jedes Jahr automatisch verlängern möchten. 
+3. Aktivieren Sie **Automatische Verlängerung deaktivieren**, wenn Sie Ihr Action Pack-Abonnement nicht jedes Jahr automatisch verlängern möchten.
 
 > [!NOTE]  
 > Wenn du die automatische Abonnementverlängerung deaktivierst, kannst du sie erst wieder aktivieren, wenn du das Abonnement erneut verlängerst. Wir erinnern dich vor Ablauf deines Abonnements an die Verlängerung.
-
 
 ### <a name="renew-your-action-pack-subscription"></a>Verlängern Ihres Action Pack-Abonnements
 
@@ -94,9 +92,9 @@ Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlänge
 
 4. Klicken Sie auf **Weiter**, um die Geschäftsbedingungen für interne Nutzungsrechte zu akzeptieren, die vom Microsoft Partner Network gewährt werden.  
 
-5. Klicken Sie auf **Weiter**, um Zahlungsdetails hinzuzufügen. 
+5. Klicken Sie auf **Weiter**, um Zahlungsdetails hinzuzufügen.
 
-6. Wählen Sie die Option **Get Started! Fügen Sie eine Zahlungsmethode hinzu,** Wenn Sie Zahlungsdetails eingeben müssen. 
+6. Wählen Sie die Option **Get Started! Fügen Sie eine Zahlungsmethode hinzu,** Wenn Sie Zahlungsdetails eingeben müssen.
 
 7. Geben Sie Ihre Zahlungsdetails ein, und klicken Sie dann auf **Weiter**.
 
@@ -104,29 +102,24 @@ Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlänge
 
 9. Ihre Bestellung wird bestätigt. Wählen Sie **Schließen** aus.
 
-    Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlängert. Sie können die automatische Verlängerung jederzeit in der Liste der erworbenen Angebote deaktivieren. Allerdings ist es nicht möglich, die automatische Abonnementverlängerung wieder zu aktivieren, bis Sie erneut Ihr Abonnement verlängern. 
-
+   Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlängert. Sie können die automatische Verlängerung jederzeit in der Liste der erworbenen Angebote deaktivieren. Allerdings ist es nicht möglich, die automatische Abonnementverlängerung wieder zu aktivieren, bis Sie erneut Ihr Abonnement verlängern.
 
 ### <a name="cancel-your-action-pack-subscription"></a>Kündigen Ihres Action Pack-Abonnements
 
 Wenn Sie Ihr Microsoft Action Pack-Abonnement kündigen möchten, müssen Sie sich an den Partner Center-Support wenden.
 
-1. Gehe zu https://partnercenter.microsoft.com/partner/support.
+1. Wechseln Sie zu [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support).
 
 2. Wählen Sie **Probleme mit dem Partner Center melden** und dann auf der nächsten Seite **Neue Anfrage** aus.
 
-3. Erweitern Sie die Liste **Problemtyp**, und wählen Sie **Hilfe bei Partnerrechnung, Zahlung oder Kontenabstimmungsdatei** aus. 
+3. Erweitern Sie die Liste **Problemtyp**, und wählen Sie **Hilfe bei Partnerrechnung, Zahlung oder Kontenabstimmungsdatei** aus.
 
 4. Geben Sie die erforderlichen Informationen ein, und wählen Sie **Senden** aus. Das Partner Center-Supportteam wird Sie kontaktieren, um Sie beim Kündigen Ihres Abonnements zu unterstützen.
 
-    Um den Status Ihrer Serviceanfrage zu überprüfen, wählen Sie **Serviceanfragen > Partner Center-Anfragen** und dann **Öffnen** aus. Wählen Sie die entsprechende Serviceanfrage in der Liste aus.  
+   Um den Status Ihrer Serviceanfrage zu überprüfen, wählen Sie **Serviceanfragen > Partner Center-Anfragen** und dann **Öffnen** aus. Wählen Sie die entsprechende Serviceanfrage in der Liste aus.  
 
- 
-### <a name="next-steps"></a>Nächste Schritte
+## <a name="next-steps"></a>Nächste Schritte
 
-[Aktivieren Ihres Action Pack-Abonnements](manage-your-partner-network-benefits.md)
+- [Aktivieren Ihres Action Pack-Abonnements](manage-your-partner-network-benefits.md)
 
-
-### <a name="related-topics"></a>Zugehörige Themen
-
-[Hinzufügen von Benutzern und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
+- [Hinzufügen von Benutzern und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)

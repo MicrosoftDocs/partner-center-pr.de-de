@@ -3,24 +3,23 @@ title: Erstellen einer Einladung für Office 365-Testversionen
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter
 description: Erfahren Sie, wie Partner Einladungen für Ihre Clients erstellen und senden können, um Office 365 zu testen. Partner sind ein autorisierter Abonnement Ratgeber.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, Testversion
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ab1b889e7ad71d19e6b7358c9ccb80aa78ed9f38
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 2f8faddce7755a34687f0403b8ba27ea734d8018
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907455"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362618"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Ratgeber: Erstellen und Senden einer Einladung zum Testen für Clients zum Testen von Office 365
 
 > [!NOTE]
-> Diese Funktion ist nur für Microsoft-Partner verfügbar, die autorisierte Abonnement Berater sind. 
+> Diese Funktion ist nur für Microsoft-Partner verfügbar, die autorisierte Abonnement Berater sind.
 
 Sie können Test Einladungen für Ihre Clients erstellen und senden, damit Sie Office 365 ausprobieren können. Wenn Sie eine Einladung zum Testen erstellen, erstellt der Assistent zum **Erstellen einer Testversion** eine benutzerdefinierte URL für Sie. Die URL enthält einen eingebetteten Code, mit dem Sie als Abonnement Ratgeber identifiziert werden. Sie können diese URL für einen oder mehrere Clients verwenden. Senden Sie die URL per e-Mail an Ihren Client, oder verwenden Sie die URL in anderen Dokumenten. Das Abonnement kann abhängig vom jeweiligen Angebot einen oder mehrere Dienste umfassen. Eine Einladung kann nur für ein Testabonnement gleichzeitig gesendet werden.
 
@@ -28,7 +27,7 @@ Wenn Sie für die delegierte Administration zertifiziert sind, können Sie der E
 
 ## <a name="to-create-a-trial-invitation"></a>So erstellen Sie eine Einladung zum Testen
 
-1. Navigieren Sie zu " **Tests" und "Kaufangebote** > **Erstellen**".
+1. Navigieren Sie zu " **Tests" und "Kaufangebote**  >  **Erstellen**".
 
 2. Wählen Sie auf der Seite **Einladung zum Erstellen einer Test** Version die Einladungs Optionen für die Einladung aus, die Sie einschließen möchten:
 

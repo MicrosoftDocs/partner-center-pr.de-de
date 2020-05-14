@@ -1,5 +1,5 @@
 ---
-title: Anzeigen der Berechtigungsanforderungen für die Planung von Dienst Engagements | Partner Center
+title: Anzeigen der Berechtigungsanforderungen für die Planung von Dienst Engagements
 ms.topic: article
 ms.date: 03/24/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 Keywords: vor der Bereitstellung, Planung, Software Assurance, Engagements, Anforderungen, Qualifikation, Angebot
 ms.localizationpriority: medium
-ms.openlocfilehash: d75753bdaef97f1cf0b9bd4c20474954e747735d
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: e9d66f2f6792780d77db130d5fd7d0f44d5f6c8c
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296435"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362448"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Anzeigen der Berechtigungsanforderungen für die Planung von Dienst Engagements
 
@@ -34,14 +34,14 @@ Jedes Engagement für Planungsdienste verfügt über eigene, spezifische Berecht
 
 |**Informationen zu den Berechtigungsanforderungen für diese Engagements**   |**Zum Datenblatt für dieses Angebot wechseln**  |
 |:------------------------------------|:------------------|
-| Planen der Bereitstellung von Windows und Office<br> Planen der Bereitstellung mobiler Produktivität<br> Modern IT Enterprise Security Proof of Concept</br>  | [DDPS-Engagements (Desktop Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116072) |
-| Aktualisieren von Microsoft Dynamics 365 für Customer Engagement<br> Migration zu Microsoft Dynamics 365 für Kunden Engagement<br> Aktualisieren von Microsoft Dynamics 365 für Finanzen und Betrieb</br>  | [Dynamics Deployment Planning Services-Engagement (dydps)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| Planen der Bereitstellung von Windows und Office<br/><br/> Planen der Bereitstellung mobiler Produktivität<br/><br/> Modern IT Enterprise Security Proof of Concept | [DDPS-Engagements (Desktop Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116072) |
+| Aktualisieren von Microsoft Dynamics 365 für Customer Engagement<br/><br/> Migration zu Microsoft Dynamics 365 für Kunden Engagement<br/><br/> Aktualisieren von Microsoft Dynamics 365 für Finanzen und Betrieb  | [Dynamics Deployment Planning Services-Engagement (dydps)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
 | Modernialisieren Ihrer Windows Server-Plattform | [Private Cloud-, Verwaltungs-und virtualisierungsplanungs Dienste-Engagement (pvdps)](https://go.microsoft.com/fwlink/?linkid=2115982) |
 | Planen der SharePoint-Bereitstellung   | [Angebote für die SharePoint-Bereitstellungs Planung (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Exchange-Bereitstellungs Planung<br> Planen der Bereitstellung von Skype for Business</br>  | [Angebote der Skype for Business-und Exchange-Bereitstellungs Planung (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+| Exchange-Bereitstellungs Planung<br/><br/> Planen der Bereitstellung von Skype for Business  | [Angebote der Skype for Business-und Exchange-Bereitstellungs Planung (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | Data Estate-Modernisierung  | [SQL Server Bereitstellungs Planungsdienste (ssdps)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
-## <a name="see-also"></a>Siehe auch
+## <a name="next-steps"></a>Nächste Schritte
 
 - [Software Assurance Planning Services-Workflow](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [FAQ zu Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2116077)

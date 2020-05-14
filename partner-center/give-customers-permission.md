@@ -1,23 +1,23 @@
 ---
 title: Autorisieren von Kunden, eigene Dienste zu erwerben
+description: Erfahren Sie, wie CSP-Programmpartner Kunden ermöglichen können, eigene Dienste wie Azure-Reservierungen für ein für Sie erworbenes Abonnement zu erwerben.
 ms.topic: article
-ms.date: 04/28/2020
+ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie CSP-Programmpartner Kunden ermöglichen können, eigene Dienste wie Azure-Reservierungen für ein für Sie erworbenes Abonnement zu erwerben.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Abonnement, Self-Service-Erwerb, Self-Service-RI, Aktivieren von RI, Deaktivieren von RI, Self-Service, Kunden Erwerb, Kunden Berechtigungen, reservierte Instanz des Kunden Kauf, Kunden Kauf Azure-Reservierungen, Self-Service aktivieren, Self-Service ausschalten
 ms.localizationpriority: medium
-ms.openlocfilehash: ee8f1221344ce2375aff63c52bbfd42350a29839
-ms.sourcegitcommit: 8359f618426e341180b0380367dd9d16dfd6623c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 625229eb9243bc6deb631a824e8197fd0565072a
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "82255469"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362608"
 ---
-# <a name="learn-how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>Erfahren Sie, wie Sie Kunden die Berechtigung zum erwerben ihrer eigenen Produkte oder Dienste erteilen.
+# <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>So erteilen Sie Kunden die Berechtigung zum erwerben ihrer eigenen Produkte oder Dienste
 
 **Zielgruppe**
 
@@ -33,7 +33,7 @@ In diesem Artikel wird gezeigt, wie ein Partner im Cloud Solution Provider-Progr
 
 Partner im CSP-Programm nutzen häufig Partner Center und ihren kommerziellen Marketplace, um Lösungen und Dienste für Ihre Kunden zu erwerben. Partner ermöglichen es einigen Kunden dann, diese Dienste selbst direkt aus dem Azure-Portal bereitzustellen.
 
-Hier sehen Sie ein Beispiel. Nehmen wir an, dass Sie ein Azure-Plan Abonnement für einen Kunden im Partner Center erwerben. Anschließend legen Sie im Auftrag des Kunden weitere Ressourcen oder Dienste zu diesem Abonnement hinzu. In diesem Fall können Sie Azure-Reservierungen dem Abonnement des Kunden hinzufügen (z. b. durch Hinzufügen reservierter Instanzen virtueller Computer). Sie können dem Kunden dann gestatten, die Azure-Reservierungs Ressourcen selbst in der Azure-Portal bereitzustellen.
+Hier ist ein Beispiel. Nehmen wir an, dass Sie ein Azure-Plan Abonnement für einen Kunden im Partner Center erwerben. Anschließend legen Sie im Auftrag des Kunden weitere Ressourcen oder Dienste zu diesem Abonnement hinzu. In diesem Fall können Sie Azure-Reservierungen dem Abonnement des Kunden hinzufügen (z. b. durch Hinzufügen reservierter Instanzen virtueller Computer). Sie können dem Kunden dann gestatten, die Azure-Reservierungs Ressourcen selbst in der Azure-Portal bereitzustellen.
 
 Mit dem Feature " **Kunden Berechtigungen** " bieten Sie den Kunden nun mehr Self-Service-Optionen für Azure-Ressourcen. Durch Aktivieren der Berechtigungen für den Kunden gestatten Sie Kunden, ihre eigenen Ressourcen zu erwerben (z. b., um Ihre eigenen Azure-Reservierungen zu erwerben).  
 
@@ -46,13 +46,23 @@ Verwenden Sie die Seite Kunden **Konto** , um die Kunden Berechtigungen zu aktiv
 Bevor Sie die Kunden Berechtigungen aktivieren, beachten Sie die folgenden wichtigen Punkte:
 
 - Standardmäßig werden Kunden Berechtigungen im Partner Center automatisch deaktiviert (ausgeschaltet).
+
 - Bevor Sie Berechtigungen für einen Kunden aktivieren (oder deaktivieren) können, muss Ihnen in Partner Center die Rolle admin Agent zugewiesen sein.
+
   Partner, denen die Rolle "Sales Agent" oder "Help Desk Agent" zugewiesen ist, haben schreibgeschützten Zugriff und können die Kunden Berechtigungen nicht aktivieren oder deaktivieren.
+
 - Sie können Berechtigungen für jeden von Ihnen ausgewählten Kunden aktivieren (aktivieren).
+
 - Sie können Kunden Berechtigungen mithilfe des Partner Center-Dashboards oder der [Partner Center-APIs](https://docs.microsoft.com/partner-center/develop/manage-customers)aktivieren (oder deaktivieren).
-- Nachdem Sie die Berechtigungen für einen bestimmten Kunden aktiviert haben, sind Sie dafür verantwortlich, alle nachfolgenden Einkäufe dieses Kunden zu bezahlen. Wenn Kunden einen Erwerb austauschen, Abbrechen oder erneuern möchten, können Sie diesen Vorgang nicht selbst durchführen. Sie müssen Sie als Partner bitten, diese Käufe auszutauschen, abzubrechen oder zu erneuern.
+
+- Nachdem Sie die Berechtigungen für einen bestimmten Kunden aktiviert haben, sind Sie dafür verantwortlich, alle nachfolgenden Einkäufe dieses Kunden zu bezahlen. Wenn Kunden einen Erwerb austauschen, Abbrechen oder erneuern möchten (oder den anfänglichen Bereich einer Reservierung ändern möchten), können Sie dies nicht selbst tun. Sie müssen Sie als Partner bitten, Sie beim austauschen, Abbrechen und erneuern von Käufen zu unterstützen oder spätere Änderungen am Bereich einer Reservierung vorzunehmen.  
+
 - Nachdem Sie die Berechtigungen für einen bestimmten Kunden aktiviert haben, **werden Sie nicht** mehr über spätere Käufe des Kunden benachrichtigt.
+
 - Spätere Käufe, die vom Kunden getätigt werden, werden zusammen mit den von Ihnen getätigten Käufen in Partner Center angezeigt. Diese Käufe finden Sie auf der Seite **Auftrags Verlauf** des Kunden, auf der Seite " **Reservierungen** " oder im [**Aktivitätsprotokoll**](activity-logs.md).
+
+>[!NOTE]
+> Informationen zu den Preisen, die der Kunde bezahlen wird, und zum unterstützen der Kunden bei der Verwaltung Ihrer Käufe finden Sie unter unter [stützen von Kunden bei der Verwaltung von Reservierungen](give-customers-permission.md#help-customers-manage-reservations-they-purchase)
 
 ## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>Erteilen Sie Kunden die Berechtigung, ihre eigenen Azure-Reservierungen zu erwerben.
 
@@ -61,7 +71,7 @@ Azure-Reservierungen sind eine gute Möglichkeit, um Azure-Dienste zu einem redu
 Nun haben Sie die Wahl, Azure-Reservierungen im Auftrag ihrer Kunden zu erwerben, da Sie dies möglicherweise bereits getan haben. Oder Sie können Kunden die Berechtigung erteilen, ihre eigenen Azure-Reservierungen zu erwerben.
 
 >[!NOTE]
-> Nachdem Sie den Kunden die Berechtigung zum erwerben ihrer eigenen Azure-Reservierungen erteilt haben, können Sie Ihnen helfen, die von Ihnen erworbenen Reservierungen zu verwalten. Beispielsweise möchten Kunden vielleicht wissen, wie Sie die Verwendung einer Reservierung optimieren oder den Bereich einer Reservierung ändern können. Weitere Informationen zu diesen Themen finden Sie in den Artikeln [Verwalten von Reservierungen für Azure-Ressourcen]( https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance).
+> Nachdem Sie den Kunden die Berechtigung zum Erwerb ihrer eigenen Azure-Reservierungen erteilt haben, helfen Sie Ihnen, die von Ihnen erworbenen Reservierungen zu verwalten. Weitere Informationen finden Sie unter unter [stützen von Kunden beim Verwalten von Reservierungen, die Sie erwerben](give-customers-permission.md#help-customers-manage-reservations-they-purchase).
 
 ### <a name="to-enable-customers-to-buy-their-own-azure-reservations"></a>So aktivieren Sie Kunden die Möglichkeit, ihre eigenen Azure-Reservierungen zu erwerben
 
@@ -125,10 +135,33 @@ So aktivieren oder deaktivieren Sie Kunden Berechtigungen in Partner Center:
 7. Um die Kunden Berechtigungen zu aktivieren, verschieben Sie den Schalter neben dieser Option in die Position an der Position **an** . Um die Kunden Berechtigungen zu deaktivieren, verschieben Sie den Schalter an die Position **aus** .
 
 >[!NOTE]
-> Informationen dazu, was sonst passiert, wenn Sie die Berechtigungen eines Kunden zum Erwerb ihrer eigenen Azure-Reservierungen aktivieren, finden Sie unter Übersicht über die [Kunden Berechtigungen in Partner Center](give-customers-permission.md#overview-of-customer-permissions-in-partner-center). Wenn Sie die Kunden Berechtigungen aktivieren (oder deaktivieren), zeichnet das Aktivitätsprotokoll jede Aktion auf. (Auf dieses Protokoll kann zugegriffen werden, wenn Sie das Zahnrad Symbol oben im Partner Center-Dashboard auswählen). Wenn Sie die Kunden Berechtigungen aktivieren oder deaktivieren, wird die Aktion entweder als **Create Customer Purchase-Berechtigungen** oder zum **Löschen von Customer Purchase** -Berechtigungen im Aktivitätsprotokoll angezeigt.
+> Informationen dazu, was sonst passiert, wenn Sie die Berechtigungen eines Kunden zum Erwerb ihrer eigenen Azure-Reservierungen aktivieren, finden Sie unter Übersicht über die [Kunden Berechtigungen in Partner Center](give-customers-permission.md#overview-of-customer-permissions-in-partner-center).
+>
+>Wenn Sie die Kunden Berechtigungen aktivieren (oder deaktivieren), zeichnet das Aktivitätsprotokoll jede Aktion auf. (Auf dieses Protokoll kann zugegriffen werden, wenn Sie das Zahnrad Symbol oben im Partner Center-Dashboard auswählen). Wenn Sie die Kunden Berechtigungen aktivieren oder deaktivieren, wird die Aktion entweder als **Create Customer Purchase-Berechtigungen** oder zum **Löschen von Customer Purchase** -Berechtigungen im Aktivitätsprotokoll angezeigt.
 
-## <a name="see-also"></a>Weitere Informationen
+## <a name="help-customers-manage-reservations-they-purchase"></a>Helfen Sie Kunden bei der Verwaltung von Reservierungen
+
+Nachdem Sie den Kunden die Berechtigung zum Erwerb ihrer eigenen Azure-Reservierungen erteilt haben, können Sie Ihnen helfen, die von Ihnen erworbenen Ressourcen besser zu verwalten. Kunden können zahlreiche Aspekte von Azure-Reservierungen selbst direkt aus dem [Azure-Portal](https://portal.azure.com/)verwalten. Sie benötigen Ihre Hilfe bei der Verwaltung einiger anderer Aspekte von Azure-Reservierungen, die Sie in Ihrem CSP-Abonnement erwerben.  
+
+Helfen Sie Kunden, mehr über die Verwaltung dieser Aspekte von Azure-Reservierungen zu erfahren:
+
+- Preise, die Kunden für Azure-Reservierungen bezahlen
+- Wie Kunden die Nutzung von Azure-Reservierungen optimieren können
+- Was geschieht, wenn Kunden Reservierungen mit einem freigegebenen Bereich erwerben?
+- Was geschieht, wenn Kunden eine Reservierung ändern, stornieren und erneuern oder Ihren Bereich ändern möchten?
+
+**Preise, die Kunden für Ihre Reservierungen bezahlen.** Ihr Kunde kauft Azure-Reservierungen auf der Grundlage eines Abonnements, das Sie zuvor für Sie in Ihrem CSP-Partner Abrechnungskonto erworben haben. Der Preis des Kunden für alle Azure-Reservierungen, die basierend auf diesem Abonnement erworben werden, wird ebenfalls von Ihnen festgelegt. Dieser Preis unterscheidet sich möglicherweise vom direkten Web-Preis, der dem Kunden in der Azure-Portal angezeigt wird.
+
+**Wie Kunden ihre Verwendung einer Reservierung optimieren können.** Einige Kunden können davon profitieren, dass Sie mehr darüber erfahren, wie Sie die Verwendung einer Reservierung optimieren oder den anfänglichen Bereich einer Reservierung während des Kaufs zuweisen. Wenn Sie weitere Informationen wünschen, bitten Sie Kunden, sich mit der [Verwaltung von Reservierungen für Azure-Ressourcen]( https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance)
+
+**Was geschieht, wenn ein Kunde eine Reservierung mit einem freigegebenen Bereich erwirbt?** Wenn Kunden eine Reservierung basierend auf einem früheren CSP-Abonnement erwerben und dieser Reservierung einen freigegebenen Bereich zuweisen, gelten alle Rabatte, die der Kunde vom CSP erhalten hat, für die übereinstimmende Nutzung aller Abonnements, die der CSP-Partner für diesen Kunden erworben hat.
+
+**Was sollten Kunden tun, wenn Sie einen von Ihnen vorgenommenen Erwerb austauschen, Abbrechen oder erneuern oder den anfänglichen Bereich einer Reservierung ändern möchten?** Kunden müssen sich an Ihren Partner wenden, um Sie bei der Änderung des Anfangs Bereichs einer Reservierung zu unterstützen. Außerdem benötigen Sie eine Partner Hilfe zum austauschen, Abbrechen oder Erneuern einer Reservierung. Diese Aufgaben können nicht mit Reservierungen auf der Grundlage von Abonnements ausgeführt werden, die von einem CSP-Partner für Sie erworben wurden.
+
+## <a name="next-steps"></a>Nächste Schritte
 
 - [Erwerben von Azure-Reservierungen im Namen Ihrer Kunden](azure-reservations-buying.md)
+
 - [Partner Center: verkaufen von Microsoft-Reservierungen](azure-reservations.md)
-- [Azure Reservations im Auftrag Ihrer Kunden verwalten](azure-reservations-manage.md) 
+
+- [Azure Reservations im Auftrag Ihrer Kunden verwalten](azure-reservations-manage.md)

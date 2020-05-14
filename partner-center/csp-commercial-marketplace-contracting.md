@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Abonnements, Marketplace, Drittanbieter, ISV, CSP-Partnerprogramm, Verträge, verkaufen, kaufen,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6caf79b0f9dbe287ad59df73fb80749237546f9a
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 5bac92edfbe4d88d6c0fe1bf132f9cab75749093
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908129"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362628"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Verträge für CSP-Partner, die geschäftlich im kommerziellen Marketplace tätig sind
 
@@ -48,7 +48,8 @@ Weitere Informationen zu den Begriffen für CSP-Aktivitäten im kommerziellen Ma
   
 Microsoft akzeptiert keine rechtliche Verantwortung für die Übermittlung von Diensten zwischen Transaktions Parteien und bietet keinen Mechanismus, mit dem Transaktionspartner rechtliche Bedingungen über die Commerce-Plattform einrichten können. Wenn die Transaktionspartner zusätzliche rechtliche Bedingungen benötigen, müssen Sie eine Vereinbarung direkt ausführen.
 
-## <a name="see-also"></a>Weitere Informationen
+## <a name="next-steps"></a>Nächste Schritte
 
 - [Support für Produkte des kommerziellen Marketplace](csp-commercial-marketplace-support.md)
+
 - [Übersicht über die kommerziellen CSP-Marketplace-Aktivitäten](csp-commercial-marketplace-overview.md)

@@ -1,52 +1,52 @@
 ---
-title: Erstellen, Aussetzen oder Stornieren von Kundenabonnements | Partner Center
+title: Erstellen, Aussetzen oder Stornieren von Kundenabonnements
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie Ihre Kunden Abonnements an Produkte im Katalog verkaufen, nachdem Sie einen Kundendaten Satz in Partner Center erstellt haben.
+description: Erfahren Sie, wie Sie die Abonnements Ihres Kunden an Produkte im Katalog verkaufen, nachdem Sie einen Kundendaten Satz in Partner Center erstellt haben.
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Abonnement, neu erstellen, Abonnement hinzufügen, anhalten, Abbrechen, aussetzen, anhalten, Saas, Lizenz, ISV, Drittanbieter
 ms.localizationpriority: medium
-ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 75cfa546834e0e95dd716492ff822c0d1aa940b7
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114992"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362358"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Aussetzen oder Stornieren von Kundenabonnements
 
-**Gilt für:**
+**Zielgruppe**
 
--  Partner Center
--  Partner Center für Microsoft Cloud for US Government
--  CSP-Partner
+- Partner Center
+- Partner Center für Microsoft Cloud for US Government
+- CSP-Partner
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Abrechnungsadministrator
 - Globaler Administrator
 - Helpdesk-Agent
 - Vertriebsbeauftragter
 
-Nachdem Sie für Ihre Kunden einen Datensatz im Partner Center erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen. Dies schließt sowohl von Microsoft veröffentlichte Produkte als auch SaaS-Produkte (Software-as-a-Service) ein, die von unabhängigen Softwareanbietern (ISVs) von Drittanbietern im [kommerziellen Marketplace](https://azuremarketplace.microsoft.com/marketplace)veröffentlicht wurden. 
+Nachdem Sie für Ihre Kunden einen Datensatz im Partner Center erstellt haben, können Sie ihnen Abonnements für Produkte im Katalog verkaufen. Dies schließt sowohl von Microsoft veröffentlichte Produkte als auch SaaS-Produkte (Software-as-a-Service) ein, die von unabhängigen Softwareanbietern (ISVs) von Drittanbietern im [kommerziellen Marketplace](https://azuremarketplace.microsoft.com/marketplace)veröffentlicht wurden.
 
-Bitte beachten Sie, dass bestimmte Angebote auf ein Abonnement pro Kunde beschränkt sind. Eine Liste der eingeschränkten Angebote finden Sie im Partner Center auf der Seite für Preise und Angebote.
+Einige Angebote sind auf ein Abonnement pro Kunde beschränkt. Eine Liste der eingeschränkten Angebote finden Sie im Partner Center auf der Seite für Preise und Angebote.
 
 >[!IMPORTANT]
-Als Partner im CSP-Programm können Sie nur **Lizenz basierte Saas-** Abonnements von ISV-Verlegern innerhalb von Partner Center erwerben. Dies bedeutet, dass Sie alle **lizenzbasierten Saas-** Angebote erwerben können, die der ISV-Verleger Ihnen zur Verfügung gestellt hat, einschließlich [exklusiver Angebote](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , auf die Sie Zugriff haben. Zum Erwerb oder zur Verwaltung anderer kommerzieller Marketplace-Angebote von ISVs (z. b. **nutzungsbasierte**, gemessene oder Verbrauchs basierte Angebote mit Azure-Anwendungen, Containern oder VMS) müssen Sie das [Azure-Verwaltungs Portal](https://portal.azure.com/)aufrufen. Weitere Informationen finden Sie unter [erwerben kommerzieller Marketplace-Produkte](csp-commercial-marketplace-purchase.md).
+Als Partner im CSP-Programm können Sie nur **Lizenz basierte Saas-** Abonnements von ISV-Verlegern innerhalb von Partner Center erwerben. Dies bedeutet, dass Sie alle **lizenzbasierten Saas-** Angebote erwerben können, die der ISV-Verleger Ihnen zur Verfügung gestellt hat, einschließlich [exklusiver Angebote](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , auf die Sie Zugriff haben. Zum Erwerb oder zur Verwaltung anderer kommerzieller Marketplace-Angebote von ISVs (z. b. **nutzungsbasierte**, gemessene oder Verbrauchs basierte Angebote mit Azure-Anwendungen, Containern oder VMS) müssen Sie das Azure- [Verwaltungs Portal](https://portal.azure.com/)aufrufen. Weitere Informationen finden Sie unter [erwerben kommerzieller Marketplace-Produkte](csp-commercial-marketplace-purchase.md).
 
 ## <a name="create-a-new-subscription"></a>Erstellen eines neuen Abonnements
 
-1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an.
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
 2. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 
-3. Wählen Sie **Abonnement hinzufügen**. Auf der Registerkarte **Online Dienste** werden alle verfügbaren Marketplace-SaaS-Angebote angezeigt.
+3. Wählen Sie **Abonnement hinzufügen** aus. Auf der Registerkarte **Online Dienste** werden alle verfügbaren Marketplace-SaaS-Angebote angezeigt.
 
 4. Um nur bestimmte Arten von Abonnements anzuzeigen, treffen Sie eine Auswahl bei den verfügbaren Filter:
    - **Herausgeber**: Wählen Sie **Microsoft** aus, um nur Angebote von Microsoft oder **Partnern** anzuzeigen, um kommerzielle Marketplace-Produkte anzuzeigen, die von ISVs veröffentlicht werden.
@@ -58,7 +58,7 @@ Als Partner im CSP-Programm können Sie nur **Lizenz basierte Saas-** Abonnement
     - Der Kunde hat bereits ein Abonnement für dieses Produkt und ist nur eins zulässig.
 
     - Das Abonnement des Kunden wurde möglicherweise angehalten (in diesem Fall können Sie das Abonnement reaktivieren, anstatt ein neues zu erwerben).
-    
+
     - Für ISV-SaaS-Angebote gibt es möglicherweise einige Gründe, warum das Angebot nicht erworben werden kann: der ISV unterstützt das Abrechnungs Land oder die Region des Kunden möglicherweise nicht. der ISV hat möglicherweise entschieden, das Angebot nicht über das CSP-Programm verfügbar zu machen. oder der ISV hat das Angebot möglicherweise nur für bestimmte CSP-Partner [exklusiv](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) gestaltet. Das ISV-Angebot kann auch nicht über das Partner Center (z. b. Container oder einige Verwendungs basierte Angebote) übertragen werden.  
 
 6. Geben Sie für jedes Abonnement, das Sie hinzufügen möchten, die Anzahl der Lizenzen (falls erforderlich) ein, und wählen Sie **zum Warenkorb hinzufügen**aus.
@@ -73,10 +73,10 @@ Als Partner im CSP-Programm können Sie nur **Lizenz basierte Saas-** Abonnement
 
     **Für ISV Saas-Abonnements (Lizenz basiert):**
     - Sie erhalten einen Link zur Website des ISV-Verlegers. Dieser Link soll Ihnen helfen, die Bereitstellung oder das Konto für das Abonnement des Kunden abzuschließen. (Beachten Sie, dass weder Sie noch Ihr Kunde eine e-Mail mit Anweisungen zum Abschließen der Konto Einrichtung und-Bereitstellung für diese Art von ISV-Abonnement erhalten.)
-    
-    - Wenn Ihr Abonnement eine 30-tägige kostenlose Testversion enthält, wird der kostenlose Testzeitraum automatisch angewendet. Als Partner im CSP-Programm können Sie den kostenlosen Testzeitraum für Angebote, die Sie für Kunden erwerben, nicht aufheben. Sobald der kostenlose Testzeitraum endet, beginnt die Abonnement Laufzeit, und das Abonnement wird in "bezahlt" konvertiert. Das Abonnement wird dann nach dem gleichen Zeitplan automatisch erneuert.
 
-## <a name="suspend-or-cancel-a-subscription"></a>Anhalten oder Kündigen eines Abonnements
+    - Wenn Ihr Abonnement eine 30-tägige kostenlose Testversion enthält, wird der kostenlose Testzeitraum automatisch angewendet. Als Partner im CSP-Programm können Sie den kostenlosen Testzeitraum für Angebote, die Sie für Kunden erwerben, nicht aufheben. Sobald der kostenlose Testzeitraum endet, beginnt die Abonnement Laufzeit, und das Abonnement wird in den kostenpflichtigen Status konvertiert. Das Abonnement wird dann nach dem gleichen Zeitplan automatisch aufgelöst.
+
+## <a name="suspend-or-cancel-a-subscription"></a>Aussetzen oder Stornieren eines Abonnements
 
 Partner können ein Abonnement auf Anforderung des Kunden, bei Nichtbezahlung oder bei Betrug aussetzen oder kündigen.
 
@@ -84,17 +84,17 @@ Partner können ein Abonnement auf Anforderung des Kunden, bei Nichtbezahlung od
 
 Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Benutzer nicht anmelden oder auf Dienste zugreifen.
 
-1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an.
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
 2. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 
 3. Wählen Sie das Abonnement aus, das Sie verwalten möchten.
 
-4. Wählen Sie im Abschnitt **Status** den Eintrag **Ausgesetzt** aus. **Übermitteln** Sie Ihre Änderungen.
+4. Wählen Sie im Abschnitt **Status** die Option **Ausgesetzt** aus. Wählen Sie anschließend **Übermitteln** aus, um Ihre Änderungen zu übermitteln.
 
 5. Alle Daten werden gelöscht, solange das Abonnement nicht innerhalb von 90 Tagen oder 90 Tagen zuzüglich der Anzahl der Tage zwischen der Eröffnung des Kontos und dem ersten Abrechnungszeitraum (maximal 120 Tage) reaktiviert wird.
 
-Wenn Sie ein Abonnement stornieren, gibt das Datum, das unter der Schaltfläche **Ausgesetzt** angezeigt wird, an, wann das Abonnement automatisch ablaufen würde, wenn Sie es nicht erneut aktivieren. Weitere Informationen finden Sie unter Häufig gestellte [Fragen zu neuen Abrechnungs Features](faq-about-new-billing-features.md).
+Wenn Sie ein Abonnement aussetzen, gibt das Datum, das unterhalb der Schaltfläche **Ausgesetzt** angezeigt wird, an, wann das Abonnement automatisch ablaufen würde, wenn Sie es nicht erneut aktivieren. Weitere Informationen finden Sie unter Häufig gestellte [Fragen zu neuen Abrechnungs Features](faq-about-new-billing-features.md).
 
 ### <a name="cancel-a-subscription"></a>Stornieren eines Abonnements
 
@@ -117,15 +117,15 @@ Nach Ablauf dieser Zeiträume wird die Option zum Abbrechen des Abonnements nich
 > [!NOTE]
 > Nutzungsbasierte und gemessene ISV-Dienste von Drittanbietern (die beispielsweise virtuelle Computer oder Container verwenden) sind nicht für die Rückgabe berechtigt. Verwendungs basierte Dienste können als Abbruch Methode deaktiviert werden. Da Gebühren nach der Verwendung abgerechnet werden, sind diese Dienste nicht für eine Rückerstattung berechtigt.
 
-Gehen Sie folgendermaßen vor, um ein Lizenz basiertes Saas-Abonnement von einem ISV-Verleger abzubrechen:
+Gehen Sie zum Kündigen eines lizenzbasierten SaaS-Abonnements eines ISV-Herausgebers wie folgt vor:
 
-1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an.
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
 2. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 
 3. Suchen Sie das Abonnement, das Sie abbrechen möchten.
 
-4. Wählen Sie in der Spalte **Status** den Wert **Abbrechen**aus. **Übermitteln** Sie Ihre Änderungen.
+4. Wählen Sie in der Spalte **Status** den Wert **Abbrechen**aus. Wählen Sie anschließend **Übermitteln** aus, um Ihre Änderungen zu übermitteln.
 
 5. Wenn ein Dialogfeld angezeigt wird, füllen Sie alle relevanten Details aus, und wählen Sie dann **senden**aus.
 
@@ -140,22 +140,22 @@ Standardmäßig werden aktive Abonnements auf automatische Verlängerung festgel
 
 So beenden Sie das automatische Erneuern eines aktiven Marketplace-Abonnements:
 
-1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an.
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
 2. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 
-3.  Wählen Sie **Abonnements**aus. Dadurch werden alle lizenzbasierten Abonnements aufgelistet, die Sie für den Kunden erworben haben.
+3. Wählen Sie **Abonnements**. Dadurch werden alle lizenzbasierten Abonnements aufgelistet, die Sie für den Kunden erworben haben.
 
-4.  Wählen Sie in der Spalte **Abonnement** das Abonnement aus, das Sie ändern möchten.
+4. Wählen Sie in der Spalte **Abonnement** das Abonnement aus, das Sie ändern möchten.
 
-5. Suchen Sie auf der Seite Abonnement Details den Abschnitt **Status** , und deaktivieren Sie das Kontrollkästchen **Automatische Verlängerung** . 
+5. Suchen Sie auf der Seite Abonnement Details den Abschnitt **Status** , und deaktivieren Sie das Kontrollkästchen **Automatische Verlängerung** .
 
-6. Wählen Sie **Absenden** aus.
+6. Klicken Sie auf **Submit** (Senden).
 
-## <a name="see-also"></a>Siehe auch
+## <a name="next-steps"></a>Nächste Schritte
 
-- [Erwerben Sie kommerzielle Marketplace-Produkte für Ihre Kunden](csp-commercial-marketplace-purchase.md)
+- [Kaufen von Produkten des kommerziellen Marketplace für Ihre Kunden](csp-commercial-marketplace-purchase.md)
+
 - [Verwalten Sie kommerzielle Marketplace-Produkte für Ihre Kunden](csp-commercial-marketplace-manage.md)
+
 - [Übersicht über den kommerziellen Marketplace](csp-commercial-marketplace-overview.md)
-
-

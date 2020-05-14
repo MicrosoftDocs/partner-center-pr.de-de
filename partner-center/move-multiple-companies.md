@@ -1,5 +1,5 @@
 ---
-title: Leitfaden zum Migrieren mehrerer Unternehmen von PMC zu Partner Center | Partner Center
+title: Leitfaden zum Migrieren mehrerer Unternehmen von PMC zu Partner Center
 ms.topic: article
 ms.date: 01/16/2020
 ms.service: partner-dashboard
@@ -9,33 +9,33 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: 574b0fc08984f12d5bfc869c52dcc8ef56417af7
-ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
+ms.openlocfilehash: 16aa2de0eab173c31c0efd5f94b6bab41b2c70d2
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "76171214"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362748"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>Verschieben mehrerer Unternehmen zu Partner Center
 
 **Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   Administrator-Agent
--   Vertriebsbeauftragter
 
-Wenn Sie Ihr Unternehmenskonto von PMC zu Partner Center verschieben, verschieben Sie möglicherweise mehrere Konten. In Partner Center werden diese Konten zu einem globalen Konto (PGA) zusammengefasst. Das erste Konto, das Sie verschieben, wird als globales Partner Konto angesehen, und alle nachfolgenden Konten werden in das erste Konto als Speicherorte konsolidiert. Beginnen Sie den Wechsel mit dem PMC-Konto für Ihre Unternehmenszentrale. Weitere Informationen finden Sie im [Leitfaden zum Migrieren von PMC zu Partner Center](guide-to-migration.md) oder in diesem kurzen Video: [Einfache Nutzung von Konten an mehreren Standorten](https://vimeo.com/290335248).
+- Globaler Administrator
+- Benutzeradministrator
+- Administrator-Agent
+- Vertriebsbeauftragter
 
-## <a name="move-your-additional-accounts-into-partner-center"></a>Verschieben von zusätzlichen Konten zu Partner Center 
+Wenn Sie Ihr Unternehmenskonto aus PMC in Partner Center verschieben, kann es sein, dass Sie mehrere Konten verschieben müssen. In Partner Center werden diese Konten zu einem globalen Konto (PGA) zusammengefasst. Das erste Konto, das Sie verschieben, wird als globales Partner Konto angesehen, und alle nachfolgenden Konten werden in das erste Konto als Speicherorte konsolidiert. Beginnen Sie den Wechsel mit dem PMC-Konto für Ihre Unternehmenszentrale. Weitere Informationen finden Sie unter [Handbuch für die Migration von PMC zu Partner Center](guide-to-migration.md) , oder sehen Sie sich diese kurzen Video [-multilocation-Konten einfach](https://vimeo.com/290335248)an.
 
-Da Sie ein Unternehmens Konto bereits auf den PC verschoben haben, können Sie bei der Anmeldung wissen, welches Konto bereits im Partner Center vorhanden ist. 
+## <a name="move-your-additional-accounts-into-partner-center"></a>Verschieben von zusätzlichen Konten zu Partner Center
 
+Da Sie ein Unternehmens Konto bereits nach Partner Center verschoben haben, können Sie bei der Anmeldung wissen, welches Konto bereits im Partner Center vorhanden ist.
 
-Wenn Sie nach der Migration feststellen, dass das falsche Unternehmenskonto als Rechtsgeschäft ausgewiesen wurde, können Sie dies ändern.
+Wenn Sie nach der Migration feststellen, dass das falsche Unternehmens Konto als juriertes Unternehmens Konto festgelegt wurde, können Sie diese Bezeichnung ändern.
 
 1. Wechseln Sie zu Ihrem **Partnerprofil**.
 
-2. Stellen Sie sicher, dass der Standort, den Sie als Rechtsgeschäft bezeichnen möchten, in Ihrer Standortliste enthalten ist. Wenn dies nicht der Fall ist, fügen Sie ihn hinzu.
+2. Stellen Sie sicher, dass der Speicherort, den Sie als Legal Business festlegen möchten, in der Liste der Standorte aufgeführt ist. Wenn dies nicht der Fall ist, fügen Sie ihn hinzu.
 
 3. Wählen Sie die Option zum **Aktualisieren des Rechtsgeschäftprofils** aus.
 
@@ -49,32 +49,31 @@ Es werden Ihr bestehendes Konto und eine Notiz angezeigt, die Ihnen mitteilt, da
 
 ![Konto in Partner Center](images/migration/existingaccount2.png)
 
-Auf diesem Bildschirm werden Ihnen die Details des bestehenden Kontos (Name und Adresse), das bereits in Partner Center erstellt wurde, zusammen mit den Details des primären Kontakts angezeigt. 
+Auf diesem Bildschirm werden Ihnen die Details des bestehenden Kontos (Name und Adresse), das bereits in Partner Center erstellt wurde, zusammen mit den Details des primären Kontakts angezeigt.
 
 Klicken Sie auf **Weiter**.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Was geschieht bei der Konsolidierung von Konten?
 
-- Sie können auf diesem Bildschirm keine Details ändern. 
+- Sie können auf diesem Bildschirm keine Details ändern.
 
-- Das Konto in PMC (das Sie gerade verschieben) wird in dieses bestehende Konto konsolidiert. 
+- Das Konto in PMC (das Sie gerade verschieben) wird in dieses bestehende Konto konsolidiert.
 
 - Ihr Hauptsitz und alle Standorte in der PMC werden als Standorte in dieses vorhandene Partner Center-Konto verschoben.
 
-- Nach Abschluss der Konsolidierung werden alle Ihre Kontodetails als Standorte innerhalb des bestehenden Partner Center-Kontos angezeigt. 
+- Nach Abschluss der Konsolidierung werden alle Ihre Kontodetails als Standorte innerhalb des bestehenden Partner Center-Kontos angezeigt.
 
 - Alle MPN-IDs bleiben während der Konsolidierung erhalten.
 
-- Alle Ihre vorhandenen Kompetenzen (Gold/Silber), Einkäufe (MAPS/Gold/Silber) und damit verbundenen Vorteile bleiben bei der Konsolidierung erhalten.
+- Alle Ihre vorhandenen Kompetenzen (Gold/Silver), Einkäufe (Maps/Gold/Silver) und zugehörige Vorteile werden während der Konsolidierung beibehalten.
 
-- Sie (der Benutzer, der sich mit der geschäftlichen E-Mail-ID angemeldet hat) werden automatisch als MPN-Administrator und als Kontoadministrator dem bestehenden Partner Center-Konto hinzugefügt, damit Sie das Konto bei Bedarf verwalten können. 
-
+- Sie (der Benutzer, der sich mit der geschäftlichen E-Mail-ID angemeldet hat) werden automatisch als MPN-Administrator und als Kontoadministrator dem bestehenden Partner Center-Konto hinzugefügt, damit Sie das Konto bei Bedarf verwalten können.
 
 ## <a name="review-your-company-information"></a>Überprüfen Ihrer Unternehmensinformationen
 
-Sie müssen Informationen zu Ihrem Unternehmen überprüfen und (falls erforderlich) bearbeiten. Diese Daten werden für die Migration Ihres Kontos in Partner Center verwendet, stellen Sie also sicher, dass die Angaben richtig sind. 
+Überprüfen Sie die Informationen zu Ihrem Unternehmen, und bearbeiten Sie Sie bei Bedarf.  Diese Daten werden für die Migration Ihres Kontos in Partner Center verwendet, stellen Sie also sicher, dass die Angaben richtig sind.
 
-Die Angaben basieren auf den Informationen in PMC und werden überprüft, um sicherzustellen, dass das Unternehmen legitim ist. 
+Die Angaben basieren auf den Informationen in PMC und werden überprüft, um sicherzustellen, dass das Unternehmen legitim ist.
 
 ![Überprüfen der Details](images/migration/review.png)
 
@@ -86,13 +85,10 @@ Nachdem Sie die Informationen auf diesem Bildschirm überprüft und ggf. bearbei
 
 Wenn Sie Ihr Profil anzeigen, sehen Sie die Informationen für Ihr Rechtsgeschäft (in PMC war dies die Zentrale) und die Informationen für alle weiteren Standorte.
 
-## <a name="see-also"></a>Weitere Informationen:
-
-- [Verschieben von PMC zu Partner Center](move-pmc-pc-map.md)
-
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Erstellen von Benutzerkonten ](create-user-accounts-and-set-permissions.md)
+- [Wechsel von PMC zu Partner Center](move-pmc-pc-map.md)
+- [Erstellen von Benutzerkonten](create-user-accounts-and-set-permissions.md)
 - [Zuweisen von Benutzerrollen und Berechtigungen](permissions-overview.md)
 - [Verwalten der Microsoft Partner Network-Mitgliedschaftsprogramme](renew-mpn-offers.md)
 - [Erstellen Ihres Unternehmensprofils](create-a-marketing-profile.md)

@@ -3,19 +3,18 @@ title: Erstellen eines Kaufangebots
 ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter
 description: Erfahren Sie, wie ein autorisierter Abonnement Ratgeber mithilfe von Partner Center ein Kaufangebot und eine benutzerdefinierte URL erstellen kann, die in Office 365-Test Einladungen enthalten sein soll.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, Kauf
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 836bb0a0fa7226cd01435b4d5d3d7cd59bfad5e2
-ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
+ms.openlocfilehash: b96a918b18240869305b18deb24241cbc64a1df1
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "82975111"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362678"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Ratgeber: Erstellen eines Kaufangebots
 
@@ -26,11 +25,11 @@ Nachdem Sie eine Test Einladung für Office 365 an einen Client gesendet haben, 
 
 Wenn Sie das Kaufangebot erstellen, erstellt der Assistent zum **Erstellen von Kauf angeboten** eine benutzerdefinierte URL für Sie. Die URL enthält einen eingebetteten Code, mit dem Sie als Abonnement Ratgeber identifiziert werden. Sie können diese URL für einen oder mehrere Clients verwenden. Senden Sie die URL per e-Mail an Ihren Client. Oder Sie können die URL auf Ihrer Website veröffentlichen. Wenn Ihr Client das Angebot annimmt, sind Sie dem Erwerb Ihres Clients zugeordnet.
 
-Wenn Ihr Client eine andere Anzahl von Lizenzen wünscht, senden Sie Ihnen ein neues Angebot, oder Sie können die Anzahl der Lizenzen ändern, wenn Sie das Abonnement erwerben. 
+Wenn Ihr Client eine andere Anzahl von Lizenzen wünscht, senden Sie Ihnen ein neues Angebot, oder Sie können die Anzahl der Lizenzen ändern, wenn Sie das Abonnement erwerben.
 
 ## <a name="to-create-a-purchase-offer"></a>So erstellen Sie ein Kaufangebot
 
-1. Navigieren Sie zu " **Tests" und "Kaufangebote** > **Erstellen**".
+1. Navigieren Sie zu " **Tests" und "Kaufangebote**  >  **Erstellen**".
 
 2. Wählen Sie auf der Seite **Kaufangebot erstellen** die Optionen für das Kaufangebot aus, die Sie einschließen möchten:
 
@@ -50,7 +49,9 @@ Wenn Ihr Client eine andere Anzahl von Lizenzen wünscht, senden Sie Ihnen ein n
     > [!NOTE]
     > Notieren Sie sich die **Zusammenfassungs-ID**des Kaufangebots. Verwenden Sie es, um das Angebot zu verfolgen.
 
-5. Sie können die Nachricht personalisieren, indem Sie Ihr Firmenlogo, eine Einführung, abschließende Hinweise oder andere Informationen einschließen. Senden Sie das Kaufangebot an Ihren Client.
+5. Sie können die Nachricht personalisieren, indem Sie Ihr Firmenlogo, eine Einführung, abschließende Hinweise oder andere Informationen einschließen.
+
+    Senden Sie das Kaufangebot an Ihren Client.
 
 6. Wenn Sie Ihre Nachricht anpassen, sollten Sie diese Informationen einschließen:
 

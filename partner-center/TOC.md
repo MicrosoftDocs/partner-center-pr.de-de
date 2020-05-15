@@ -196,6 +196,7 @@
 # [Zusammenarbeit mit anderen Partnern](work-with-other-partners.md)
 ## [Aufgaben indirekter Anbieter in Partner Center](indirect-provider-tasks-in-partner-center.md)
 ## [Aufgaben indirekter Händler in Partner Center](indirect-reseller-tasks-in-partner-center.md)
+## [Unterstützte CSP-Partnerbeziehungen](csp-supported-partner-relationships.md)
 ## [Unterstützung mehrerer Kanäle](multichannel.md)
 ## [Unterstützung mehrerer Partner](multipartner.md)
 

@@ -1,19 +1,20 @@
 ---
 title: Partner mit indirekten Wiederverkäufern in CSP
+description: Als indirekter Anbieter oder Verteiler erfahren Sie mehr darüber, wie Sie eine Partnerschaft mit indirekten Wiederverkäufern durcharbeiten. Dies schließt Aufgaben ein, die Sie im Partner Center ausführen können.
 ms.topic: article
-ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Als indirekter Anbieter (oder Verteiler) erfahren Sie, wie Sie eine Erweiterung mit indirekten Wiederverkäufern durcharbeiten. Dies schließt Aufgaben ein, die Sie im Partner Center ausführen können.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 218b0d9f22bfe10aa0974b1b2db38008d0a48eaf
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.date: 02/04/2020
+ms.openlocfilehash: 74db948f1f55e52957a480f2dc74a41b888f18c4
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362568"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394122"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Wiederverkäufern im Programm für Cloud-Lösungsanbieter
 
@@ -81,7 +82,7 @@ Fügen Sie auf der Seite mit den Abonnementdetails im Feld Reseller (MPN-ID) den
     > [!IMPORTANT]  
     >  Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er speziell auf Ihr Partner Center-Konto zugeschnitten ist.
 
-4. Nachdem der Reseller Ihre Partnerschaft angenommen hat, werden Sie in der Liste der indirekten Händler angezeigt, und Sie können folgende Aktionen ausführen:
+4. Nachdem der Reseller Ihre Partnerschaft angenommen hat, werden Sie in der Liste der indirekten Händler angezeigt, und Sie haben folgende Möglichkeiten:
 
    - Hinzufügen neuer Kunden in ihrem Namen
 
@@ -99,8 +100,8 @@ Wenn Sie sich bei bestehenden Abonnements für die Zusammenarbeit mit einem indi
 
 | **So erreichen Sie dies** | **Dies** | **Where** |
 |   ------------------   |   -------   |   -----   |
-|Aktivieren des Wiederverkäufers zum Verwalten des Kontos eines Kunden und zum Verwalten Ihrer Abonnements Administrator Berechtigungen | Zuordnen eines Vertriebspartners zu einem Kundenkonto beim Hinzufügen neuer Kunden | Auf der Seite **Neuer Kunde** |
-|Dem Vertriebspartner ermöglichen, das Azure-Konto eines Kunden zu verwalten|Zuordnen eines Vertriebspartners zu einem Azure-Kundenkonto beim Hinzufügen neuer Kunden|Wählen Sie im **Azure Service-Portal** die Option [Benutzereinstellungen](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) aus, um dem indirekten Vertriebspartner eine **Mandanten-Besitzer**-Berechtigungen zu erteilen|
+| Aktivieren des Wiederverkäufers zum Verwalten des Kontos eines Kunden und zum Verwalten Ihrer Abonnements Administrator Berechtigungen | Zuordnen eines Vertriebspartners zu einem Kundenkonto beim Hinzufügen neuer Kunden | Auf der Seite **Neuer Kunde** |
+| Dem Vertriebspartner ermöglichen, das Azure-Konto eines Kunden zu verwalten|Zuordnen eines Vertriebspartners zu einem Azure-Kundenkonto beim Hinzufügen neuer Kunden|Wählen Sie im **Azure Service-Portal** die Option [Benutzereinstellungen](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) aus, um dem indirekten Vertriebspartner eine **Mandanten-Besitzer**-Berechtigungen zu erteilen|
 | Zuschreiben von Incentives für Vertriebspartner | Ordnen Sie den Vertriebspartner dem (neuen oder vorhandenen) Abonnement zu. | Auf der Seite **Neues Abonnement** |
 | Delegieren des Kundensupports für bestimmte Abonnements an den Vertriebspartner | Wählen Sie den Vertriebspartner in der Liste der **designierten Supportkontakte** aus. | Auf der Detailseite des Abonnements: Wählen Sie den Kunden von Ihrer **Kunden** Seite aus, und wählen Sie dann auf der Seite **Abonnements** des Kunden das Abonnement aus. |
 
@@ -123,10 +124,11 @@ Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren S
 5. Ist der Auftrag korrekt, wählen Sie **Übermitteln** aus. Ist eine Korrektur erforderlich, wählen Sie **Abbrechen** aus, um den gesamten Vorgang abzubrechen, und beginnen Sie von vorn.
 
 6. Nach Übermittlung des Auftrags wird die Seite **Bestätigung** angezeigt. Unter **Einrichtungsinfos** werden der Name des Administratorbenutzerkontos und das temporäre Kennwort angezeigt. Notieren Sie sich den Namen des Benutzerkontos und das Kennwort, um sie dem neuen Kunden senden zu können.
-    > [!IMPORTANT]  
-    > Notieren Sie sich den Benutzerkonto Namen und das Kennwort, da Sie nicht mehr auf diese Informationen zugreifen können, nachdem Sie diese Seite geschlossen haben.
 
-7. Wählen Sie **Fertig** aus. Der neue Kunde wird in Ihrer Kundenliste angezeigt und ist dem indirekten Vertriebspartner zugeordnet. Der Reseller verfügt jetzt über Administrator Zugriff auf die Kontoinformationen und Abonnements des Kunden und kann die Abonnements im Auftrag des Kunden verwalten.
+    > [!IMPORTANT]  
+    > Notieren Sie sich den Benutzerkonto Namen und das Kennwort, da Sie nicht erneut auf diese Informationen zugreifen können, nachdem Sie diese Seite geschlossen haben.
+
+7. Wählen Sie **Fertig**aus. Der neue Kunde wird in Ihrer Kundenliste angezeigt und ist dem indirekten Vertriebspartner zugeordnet. Der Reseller verfügt jetzt über Administrator Zugriff auf die Kontoinformationen und Abonnements des Kunden und kann die Abonnements im Auftrag des Kunden verwalten.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Hinzufügen neuer Abonnements zu Kundenkonten
 

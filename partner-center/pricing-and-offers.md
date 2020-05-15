@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 02/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Die Angebotsliste enthält die verschiedenen Produktfamilien, die über Partner Center erworben werden können, sowie die entsprechenden Preise.
+description: Weitere Informationen finden Sie in den aktuellen Preislisten für Lizenz basierte Dienste wie Office 365, Microsoft Dynamics CRM und Enterprise Mobility Suite und Verwendungs basierte Dienste wie Azure.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 19e935122d1223c87714ca8c3a3f4fd212f2cf3c
-ms.sourcegitcommit: 4731d6647db34cf214f781f9e002074210fcfc29
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ba6b3407f233376f99eea673e24f5a152839383a
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "81664285"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394166"
 ---
-# <a name="pricing-and-offers"></a>Preise und Angebote
+# <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preise und Angebote für Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure und mehr
 
 **Zielgruppe**
 
@@ -64,7 +64,7 @@ Preisänderungen werden häufig vorkommen. Partner können Preisänderungen für
 
 Azure Usage-basierte Preise haben jedoch keine Vorschau. Partner können mithilfe der Ratecard-API, die die Abrechnungspreise für diesen Tag zurückgibt, die Preisänderungen für Azure-Verbrauchseinheiten aufrechterhalten.
 
-|**Produkttyp**   |**Produktbeispiele**  |**Vorschau verfügbar** |**Details ändern**|
+|**Produkttyp**   |**Produktbeispiele**  |**Vorschau verfügbar** |**Änderungsdetails**|
 |-----------------------|:-----------------------|:-------------------|------------------|
 |Lizenz basiert|Office, Dynamics, InTune, Windows Enterprise|30 Tage|Auflisten von Preisänderungen, die in Vorschau Preislisten als "Chng|
 |Verwendungs basiert|Azure-Ressourcen|Nicht verfügbar|Änderungsprotokoll in der Registerkarte " **Änderungs Verlauf** " des vorherigen Monats|
@@ -82,7 +82,7 @@ CSP bietet einige Dienste für spezielle Marktsegmente, z. b. Education, Non-Pro
 
 |**Segment**   |**Wer muss qualifiziert werden**   |**Partner qualifiziert Kunden**|**Aktivierte Produkttypen**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Kunde|Nein, Kunden Qualifizierung wird von Microsoft durchgeführt. |Nur Lizenz basiert|
+|Fortbildung|Kunde|Nein, Kunden Qualifizierung wird von Microsoft durchgeführt. |Nur Lizenz basiert|
 |Non-Profit|Kunde|Nein, Kunden, die sich außerhalb von Partner Center qualifizieren|Nur Lizenz basiert|
 |Government Community Cloud (GCC)|Partner und Kunde|Nachdem gcc aktiviert wurde, kann der Partner gcc-Kunden erstellen.| Nur Lizenz basiert|
 |Azure Government|Partner|Nach der Qualifikation arbeitet der Partner in einem CSP-Mandanten, der für Azure Government|Azure-Ressourcen|

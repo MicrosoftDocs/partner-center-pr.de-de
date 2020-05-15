@@ -2,7 +2,7 @@
 title: Autorisieren von Kunden, eigene Dienste zu erwerben
 description: Erfahren Sie, wie CSP-Programmpartner Kunden ermöglichen können, eigene Dienste wie Azure-Reservierungen für ein für Sie erworbenes Abonnement zu erwerben.
 ms.topic: article
-ms.date: 05/12/2020
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: Abonnement, Self-Service-Erwerb, Self-Service-RI, Aktivieren von RI, Deaktivieren von RI, Self-Service, Kunden Erwerb, Kunden Berechtigungen, reservierte Instanz des Kunden Kauf, Kunden Kauf Azure-Reservierungen, Self-Service aktivieren, Self-Service ausschalten
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 625229eb9243bc6deb631a824e8197fd0565072a
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 07e362e80f6d57ca5d0d837160e5ddf04a5b1d65
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362608"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394133"
 ---
 # <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>So erteilen Sie Kunden die Berechtigung zum erwerben ihrer eigenen Produkte oder Dienste
 
@@ -128,7 +128,7 @@ So aktivieren oder deaktivieren Sie Kunden Berechtigungen in Partner Center:
 
 5. Suchen Sie unten auf der Seite den Bereich **Kunden Berechtigungen** .
 
-   ![Kunden Berechtigungen auf der Seite "Konto"](images/give-customers-permission-reservations.png)
+   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="Kunden Berechtigungen auf der Seite "Konto"." border="true":::
 
 6. Suchen Sie unter **Azure-Reservierungen**die Option **Kauf von Kunden gestatten** .
 
@@ -152,7 +152,7 @@ Helfen Sie Kunden, mehr über die Verwaltung dieser Aspekte von Azure-Reservieru
 
 **Preise, die Kunden für Ihre Reservierungen bezahlen.** Ihr Kunde kauft Azure-Reservierungen auf der Grundlage eines Abonnements, das Sie zuvor für Sie in Ihrem CSP-Partner Abrechnungskonto erworben haben. Der Preis des Kunden für alle Azure-Reservierungen, die basierend auf diesem Abonnement erworben werden, wird ebenfalls von Ihnen festgelegt. Dieser Preis unterscheidet sich möglicherweise vom direkten Web-Preis, der dem Kunden in der Azure-Portal angezeigt wird.
 
-**Wie Kunden ihre Verwendung einer Reservierung optimieren können.** Einige Kunden können davon profitieren, dass Sie mehr darüber erfahren, wie Sie die Verwendung einer Reservierung optimieren oder den anfänglichen Bereich einer Reservierung während des Kaufs zuweisen. Wenn Sie weitere Informationen wünschen, bitten Sie Kunden, sich mit der [Verwaltung von Reservierungen für Azure-Ressourcen]( https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance)
+**Wie Kunden ihre Verwendung einer Reservierung optimieren können.** Einige Kunden können davon profitieren, dass Sie mehr darüber erfahren, wie Sie die Verwendung einer Reservierung optimieren oder den anfänglichen Bereich einer Reservierung während des Kaufs zuweisen. Wenn Sie weitere Informationen wünschen, bitten Sie Kunden, sich mit der [Verwaltung von Reservierungen für Azure-Ressourcen](https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance)
 
 **Was geschieht, wenn ein Kunde eine Reservierung mit einem freigegebenen Bereich erwirbt?** Wenn Kunden eine Reservierung basierend auf einem früheren CSP-Abonnement erwerben und dieser Reservierung einen freigegebenen Bereich zuweisen, gelten alle Rabatte, die der Kunde vom CSP erhalten hat, für die übereinstimmende Nutzung aller Abonnements, die der CSP-Partner für diesen Kunden erworben hat.
 

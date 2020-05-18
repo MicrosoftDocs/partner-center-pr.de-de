@@ -1,23 +1,24 @@
 ---
-title: Umstellung von Kunden auf einen Azure-Plan | Partner Center
+title: Umstellen von Kunden von aktuellen Azure-Angeboten auf einen Azure-Plan
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Hier erfahren Sie, wie Sie Ihre Kunden problemlos auf den Azure-Plan umstellen können.
+description: Erfahren Sie, wie CSP-Partner das Partner Center nutzen können, um Kunden von vorhandenen CSP-Azure-Angeboten auf Azure-Dienste im Rahmen des Azure-Plans umstellen können.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 7bcb27e521e4f3982fd3e0a94f1ed3a96320cfa3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 05c28b852935dbce88d9f64c86b7c87fcbdc05cc
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "79023486"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908334"
 ---
-# <a name="transition-your-customers-to-azure-plan"></a>Umstellung Ihrer Kunden auf einen Azure-Plan
+# <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Umstellen von Kunden von vorhandenen CSP-Azure-Angeboten auf einen Azure-Plan
 
 **Geeignete Rollen**
 

@@ -1,7 +1,7 @@
 ---
-title: Vergleich von Azure-Angeboten | Partner Center
+title: Vergleich von Azure-Angeboten für CSP-Partner
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vergleichen Sie die wichtigsten Unterschiede zwischen den Angeboten in der neuen Microsoft Commerce-Funktionalität für Partner im CSP-Programm (Cloud Solution Provider).
@@ -9,14 +9,15 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: ed929c12b6fec06848bd38e7d2d7962c9dceb0f1
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53f3f496cf29d1daa76bf8dfe96664755681fb8c
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76021756"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908172"
 ---
-# <a name="compare-azure-offers"></a>Vergleich von Azure-Angeboten
+# <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Vergleich der Unterschiede zwischen Azure-Angeboten im CSP-Programm
 
 **Geeignete Rollen**
 
@@ -33,7 +34,7 @@ Die folgende Tabelle bietet eine Übersicht der wichtigsten Unterschiede zwische
 |-------------------|:------|:-----|:---------|:--------------|:---------|
 |Abrechnung|Monatlich|Variabel (abhängig vom Angebot)|Endkunde|Vorab für die gesamte Laufzeit oder eine Laufzeit von 3 Jahren|Monatlich oder jährlich|
 |Lizenznehmer|Endkunde|Variabel (abhängig vom Angebot)|Endkunde| Endkunde|   Endkunde|
-|Laufzeit der Abdeckung|Aktiv bis zur Stornierung|Variabel (abhängig vom Angebot)|Siehe Angebotsbeschreibung|Alle Azure-Reservierungen verfügen über einen eigenen eindeutigen Abdeckungszeitraum.    Alle Azure-Abonnements verfügen über einen eigenen eindeutigen Abdeckungszeitraum.|   Zusätzliche arbeitsplatzbasierte Lizenzen klinken sich in den bestehenden Abdeckungszeitraum ein.|
+|Laufzeit der Abdeckung|Aktiv bis zur Stornierung|Variabel (abhängig vom Angebot)|Siehe Angebotsbeschreibung|Alle Azure-Reservierungen verfügen über einen eigenen eindeutigen Abdeckungszeitraum. Alle Azure-Abonnements verfügen über einen eigenen eindeutigen Abdeckungszeitraum.|   Zusätzliche arbeitsplatzbasierte Lizenzen klinken sich in den bestehenden Abdeckungszeitraum ein.|
 |Automatische Verlängerung|Ja|Ja|Nein| Nein|Ja|
 |Mehrere Währungen|Rechnung basierend auf Standort/Währung des Kunden|Rechnung basierend auf Standort/Währung des Kunden|Rechnung basierend auf Standort/Währung des Kunden|Rechnung basierend auf Standort/Währung des Kunden|Basierend auf der Währung des Partnerstandorts| 
 |Rechnungs- und Abstimmungsdatei|Separate Rechnungs- und Abstimmungsdatei für jede Währung am Kundenstandort.  Wir stellen ferner täglich bewertete Nutzungsdateien bereit (sowohl für berechnete als auch für nicht berechnete Teile). |Separate Rechnungs- und Abstimmungsdatei für jede Währung am Kundenstandort|Separate Rechnungs- und Abstimmungsdatei für jede Währung am Kundenstandort|Separate Rechnungs- und Abstimmungsdatei für jede Währung am Kundenstandort|Alle Bestellungen in einer Rechnungs- und Abstimmungsdatei|
@@ -42,7 +43,7 @@ Die folgende Tabelle bietet eine Übersicht der wichtigsten Unterschiede zwische
 |Geoverfügbarkeit|139 Länder: Eine vollständige Liste der Länder finden Sie hier.|Die Länderverfügbarkeit für New Commerce-Angebote und die Kundenwährungsmatrix zeigen den Umfang, in dem diese Angebote an einem bestimmten Ort für die Bereitstellung in CSP durch einen Partner verfügbar sind.|Vollständige Details finden Sie in der Länderverfügbarkeit für moderne Angebote und Kundenwährungsmatrix. Der gleiche Rolloutzeitplan gilt für alle neuen Commerce-Angebote.|Vollständige Details finden Sie in der Länderverfügbarkeit für moderne Angebote und Kundenwährungsmatrix.  Der gleiche Rolloutzeitplan gilt für alle neuen Commerce-Angebote.|247 Länder|
 |Supportanforderungen|CSP-Standardsupportanforderungen.|Das Unternehmen, das ein Angebot veröffentlicht, ist für den technischen Support zuständig.  Der CSP-Partner ist für die Presales-Aktivitäten, die Transaktion und die Unterstützung der Abrechnung zuständig.|CSP-Standardsupportanforderungen.|CSP-Standardsupportanforderungen.|CSP-Standardsupportanforderungen.|
 
-*Microsoft stellt im vierten Quartal Preislisten-APIs für den programmgesteuerten Echtzeitzugriff auf Azure-Abrechnungspreise bereit.
+*Microsoft stellt im vierten Quartal Preislisten-APIs für den programmgesteuerten Echtzeitzugriff auf Preise für Azure-Verbrauchseinheiten bereit.
 
 **Weitere Informationen**
 

@@ -1,7 +1,7 @@
 ---
 title: Verwalten des Partner Center-Kontos | Partner Center
 ms.topic: article
-ms.date: 03/02/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Im Partner Center kannst du das Profil, den Katalog, Bank- und Steuerinformationen, Rollen, Berechtigungen und weitere Angaben zu deinem Unternehmen verwalten.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 43a05ebca983034621caab8dc95593fc366b9eeb
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798768"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859372"
 ---
 # <a name="manage-your-partner-center-account"></a>Verwalten des Partner Center-Kontos
 
@@ -23,13 +23,17 @@ ms.locfileid: "82798768"
 
 - Partner Center
 
-Das Konto, das Sie bei der Registrierung in Partner Center erstellen, besteht aus Ihrer beruflichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem du ein Konto im Partner Center erstellt hast, musst du (oder dein Administrator) die Einrichtung deines Unternehmensprofils abschließen (einschließlich Supportinformationen, ggf. Steuerbefreiungen und Angaben zum Hauptansprechpartner). Das Unternehmenskonto umfasst außerdem Benutzerkonten für alle Personen, die das Partner Center zum Hinzufügen oder Verwalten von Kunden, zum Verkaufen von Abonnements, zur Abrechnung und Fakturierung, zum Erstellen von Unternehmensprofilen, zum Verwalten von Empfehlungen, zum Arbeiten mit Incentives-Programmen und zum Bereitstellen von Support nutzen.
+Das Konto, das Sie bei der Registrierung in Partner Center erstellen, besteht aus Ihrer beruflichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem Sie ein Konto im Partner Center erstellt haben, müssen Sie die Einrichtung des vollständigen Unternehmensprofils abschließen (einschließlich Supportinformationen, ggf. Steuerbefreiungen und Angaben zum Hauptansprechpartner). Das Unternehmenskonto umfasst außerdem Benutzerkonten für alle Personen, die das Partner Center zum Hinzufügen oder Verwalten von Kunden, zum Verkaufen von Abonnements, zur Abrechnung und Fakturierung, zum Erstellen von Unternehmensprofilen, zum Verwalten von Empfehlungen, zum Arbeiten mit Incentives-Programmen und zum Bereitstellen von Support nutzen.
+
+Siehe auch 
+- [Einladen von Mitarbeitern in das Partner Center](guide-to-migration.md)
+- [Hinzufügen eines neuen Benutzers](create-user-accounts-and-set-permissions.md)
 
 ## <a name="programs-in-which-you-are-enrolled"></a>Programme, für die du registriert bist
 
 Ein Großteil der Arbeit zur Verwaltung des Partner Center-Kontos bezieht sich auf die spezifischen Programme, bei denen du registriert bist, sowie auf die Benutzerrollen und Berechtigungen, die dir im Partner Center zugewiesen wurden.
 
-Du siehst auf einen Blick, auf welche Programme du im Partner Center Zugriff hast:
+So erfahren Sie, auf welche Programme Sie im Partner Center zugreifen können:
 
 1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 2. Achte auf den linken Navigationsbereich, in dem Optionen für deine registrierten Programme angezeigt werden.
@@ -101,6 +105,7 @@ Wenn du bei Programmen wie dem MPN-Programm oder dem CSP-Programm (Cloud Solutio
 |**Aufgabe**   |**Artikel**   |
 |-----------------------|:-----------------------|
 |Sicherstellen, dass Ihr Unternehmensprofil aktuell ist   |[Aktualisieren von Partnerprofilen](update-your-partner-profile.md)|
+|Neue Benutzer hinzufügen|[Erstellen von Benutzerkonten und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)|
 |Allen Benutzern in Ihrem Unternehmen, die in Partner Center arbeiten, müssen Rollen zugewiesen werden. Jede Rolle verfügt über spezielle Berechtigungen und Aufgaben.|[Erstellen von Benutzerkonten und Festlegen von Berechtigungen](create-user-accounts-and-set-permissions.md)|
 |Überprüfen der Berechtigungen, die jede Rolle umfasst|[Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md)
 |Verwalten der Standorte Ihres Unternehmens|[Verwalten Ihres Partnerkontos: Standorte](manage-locations.md)

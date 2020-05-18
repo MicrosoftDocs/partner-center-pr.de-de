@@ -1,7 +1,7 @@
 ---
-title: Azure-Plan | Partner Center
+title: Azure-Plan – Erwerben von Azure zu nutzungsbasierten Tarifen
 ms.topic: article
-ms.date: 01/21/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie etwas über die Commerce-Funktionalität des Azure-Plans zum Kauf von Azure-Diensten zu nutzungsbasierten Tarifen für Kunden. Informieren Sie sich auch über die neuen Sicherheitsanforderungen.
@@ -10,14 +10,15 @@ ms.author: labrenne
 Keywords: Azure, Azure-Plan, Abonnements erwerben, Abonnements
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7be0e8cd97a66742b1c2bfadbdb5edceb8a8d9c4
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1e5aeb04c7f37dfc777ece6b7190b8ae7e04ebe2
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76549665"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908354"
 ---
-# <a name="introduction-azure-plan"></a>Einführung: Azure-Plan
+# <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Einführung: Mit dem Azure-Plan können Partner Azure zu nutzungsbasierten Tarifen für Kunden erwerben.
 
 Microsoft hat mit dem Azure-Plan eine neue Commerce-Oberfläche im Partner Center eingeführt.  Mit dieser neuen Commerce-Funktionalität erhalten die Partner Zugriff auf Azure-Dienste zu nutzungsbasierten Tarifen im Rahmen des Microsoft-Kundenvertrags.
 

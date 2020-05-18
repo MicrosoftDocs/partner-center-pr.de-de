@@ -1,19 +1,19 @@
 ---
 title: Vorbereiten der Umstellung von Partner Membership Center auf Partner Center | Partner Center
 ms.topic: article
-ms.date: 06/13/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Machen Sie sich mit nützlichen Informationen und häufig gestellten Fragen vertraut, bevor Sie Ihr Geschäft von PMC auf Partner Center umstellen.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 06167a667152ddaf65702547783df93726f6cadc
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 127919c92bf6fffca846dd92cde4c787bfd16641
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340102"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859356"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Vorbereiten der Umstellung von Partner Membership Center (PMC) auf Partner Center
 
@@ -33,49 +33,24 @@ Ein Azure-Geschäftskonto ist eine dedizierte und isolierte virtuelle Darstellun
 
 Das Geschäftskonto hostet Ihre Azure AD-Benutzer und die zugehörigen Informationen: E-Mail-Nachrichten, Kennwörter, Profildaten, Berechtigungen usw. Zudem enthält das Geschäftskonto Gruppen, Anwendungen und andere Informationen, die ein Unternehmen und seine Sicherheit betreffen. 
 
+Ihre geschäftliche E-Mail-Adresse ist Teil Ihres Azure Active Directory-Mandanten. Wenn Sie ein Konto in Partner Center verwenden möchten, benötigen Sie einen AAD-Mandanten. Weitere Informationen zu Azure Active Directory finden Sie unter [Erstellen Ihres Verzeichnisses in Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+
 In Partner Center verwenden Sie Ihre geschäftliche E-Mail-Adresse (nicht Ihre persönliche E-Mail-Adresse), um sich bei Ihrem Konto anzumelden.
 - Ihr Geschäftskonto: john@contoso.com
 - Ihr persönliches Konto: John@outlook.com
 
-Ihre geschäftliche E-Mail-Adresse ist Teil Ihres Azure Active Directory-Mandanten. Wenn Sie ein Konto in Partner Center verwenden möchten, benötigen Sie einen AAD-Mandanten. Weitere Informationen zu Azure Active Directory finden Sie unter [Erstellen Ihres Verzeichnisses in Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+**Mit welchem Konto sollten Sie sich beim Partner Center anmelden, wenn Sie über einen AAD-Mandanten bei Microsoft (z. B. für Office 365) und zusätzlich über einen Mandanten für Ihr CSP-Geschäft verfügen?**
 
-**Mit welchem Konto sollten Sie sich bei Partner Center anmelden, wenn Sie von PMC zu Partner Center wechseln und über einen AAD-Mandanten bei Microsoft (z. B. für Office 365) sowie auch über einen Mandanten für Ihr CSP-Geschäft verfügen?**
-
-Sie können sich mit dem CSP-Konto oder Ihrem geschäftlichen MPN-E-Mail-Konto bei Partner Center anmelden. Wenn Sie sich für die Anmeldung mit ihrer geschäftlichen CSP-E-Mail-Adresse entscheiden, werden im linken Navigationsbereich in Ihrem Dashboard sowohl MPN- als auch CSP-Programminformationen angezeigt. Wenn Sie sich mit Ihrer geschäftlichen MPN-E-Mail-Adresse des Azure AD-Mandanten anmelden, werden nur Ihre MPN-Programminformationen angezeigt. Benutzerrollen unterscheiden sich zwischen MPN und CSP. Wenn Sie also dasselbe Konto für MPN- und CSP-Geschäfte verwenden, stellen Sie sicher, dass Sie die Benutzerrollen entsprechend zuweisen. Weitere Informationen zu Benutzerrollen finden Sie unter [Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md).
+Sie können sich mit dem CSP-Konto oder Ihrem geschäftlichen MPN-E-Mail-Konto bei Partner Center anmelden. Wenn Sie sich für die Anmeldung mit ihrer geschäftlichen CSP-E-Mail-Adresse entscheiden, werden im linken Navigationsbereich in Ihrem Dashboard sowohl MPN- als auch CSP-Programminformationen angezeigt. Wenn Sie sich mit Ihrer geschäftlichen MPN-E-Mail-Adresse des Azure AD-Mandanten anmelden, werden nur Ihre MPN-Programminformationen angezeigt. 
 
 **Wenn Sie Ihren vorhandenen Office 365 Azure AD-Mandanten nicht für Partner Center verwenden möchten, können Sie vor der Migration von PMC einen neuen Mandanten erstellen.**
 
-Möglicherweise gibt es viele Gründe, warum Sie keinen vorhandenen Azure AD-Mandanten verwenden möchten, um Ihr Partner Center-Konto einzurichten. Bevor Sie mit der Migration zu Partner Center beginnen, navigieren Sie zum [Azure-Portal](https://ms.portal.azure.com/#home), um einen neuen Azure AD-Mandanten zu erstellen. Befolgen Sie die Anweisungen unter [Erstellen eines neuen Mandanten in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Nachdem Sie den neuen Mandanten erstellt haben, verwenden Sie diesen AAD-Mandanten zum Einrichten Ihres Partner Center-Kontos, wenn Sie von PMC zu Partner Center wechseln. Sie müssen ein globaler Administrator sein, um den Mandanten erstellen zu können. Verwenden Sie dieses neue Verzeichnis, um zu Partner Center zu migrieren.
+Möglicherweise gibt es viele Gründe, warum Sie keinen vorhandenen Azure AD-Mandanten verwenden möchten, um Ihr Partner Center-Konto einzurichten. Bevor Sie mit der Migration zu Partner Center beginnen, navigieren Sie zum [Azure-Portal](https://ms.portal.azure.com/#home), um einen neuen Azure AD-Mandanten zu erstellen. Befolgen Sie die Anweisungen unter [Erstellen eines neuen Mandanten in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Verwenden Sie den neuen AAD-Mandanten, um Ihr Partner Center-Konto einzurichten. Sie müssen ein globaler Administrator sein, um den Mandanten erstellen zu können. 
 
-
-**Worin besteht der Unterschied zwischen der globalen AAD-Administratorrolle und der globalen PMC-MPN-Administratorrolle?**
-
-Dabei handelt es sich um zwei verschiedene Rollen mit unterschiedlichen Berechtigungen. Der globale Administrator des AAD-Mandanten in Partner Center verwaltet den Mandanten: Er fügt Benutzer hinzu oder entfernt diese, stellt Kennwörter, Rollen und Berechtigungen bereit und verwaltet sie und besitzt Zugriff auf alle Programme des Unternehmens in Partner Center. 
-
-Die globale MPN-Administrator Rolle in PMC kann die folgenden Aktionen ausführen:
-
-- Anzeigen und Bearbeiten aller Daten, die dem Unternehmen und allen Standorten des Unternehmens zugeordnet sind.
-
--  Hinzufügen von Administratoren auf globaler oder lokaler Ebene.  Globale Administratoren können auch beliebigen Personen an jedem Standort globalen Administratorzugriff zuweisen, der ihnen unabhängig vom Standort, dem Sie zugeordnet sind, globalen Zugriff gewährt.
--  Ausführen einer beliebigen, den Partner betreffenden Benutzeroberflächenfunktion, einschließlich: 
-
--  Hinzufügen/Entfernen von Benutzern
-
- - Zuweisen/Entfernen von Rollen 
-
- - Hinzufügen/Entfernen/Aktualisieren von Standorten 
-
- - Erwerben von Kompetenzen/Zuordnungen 
-
--  Anzeigen von Vorteilen
-
-Wenn der globale MPN-Administrator zu Partner Center wechselt, wird die Rolle „MPN-Partneradministrator“ genannt. Dieser verfügt über andere Berechtigungen und Aufgaben als der globale Partner Center-Administrator. Weitere Informationen zu Rollen und Berechtigungen in Partner Center finden Sie unter [Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md).
 
 **Benutzerrollen einschließlich Gastbenutzerrollen in Partner Center**
 
 Partner Center verfügt über verschiedene Arten von Rollen, abhängig von den Arbeitsaufgaben, die erforderlich sind. Es gibt Rollen wie den globalen Administrator, die Azure AD-Rollen sind. Einige der Rollen sind spezifisch für Programme wie das Cloud-Dienstanbieter-Programm oder Incentives, und es gibt Rollen, die für MPN spezifisch sind. Informationen zu allen Partner Center-Rollen finden Sie unter [Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md).
-
-
 
 **Was geschieht mit den Rollen meiner Benutzer, wenn sie von PMC zu Partner Center wechseln?**
 
@@ -92,12 +67,12 @@ Ihr Geschäftsprofil definiert, wie Sie sich Ihren Kunden präsentieren: Es hand
 
 Wenn Sie denselben Azure AD-Mandanten verwenden, um mehrere MPN-Konten zu Partner Center zu migrieren, erkennt das System dies automatisch, und Sie werden aufgefordert, Ihre Konten zu konsolidieren. Dies gilt auch, wenn Sie über mehrere Domänen verfügen, die demselben Azure AD-Mandanten zugeordnet sind. 
 
-Sie können sich dennoch entscheiden, eine Migration zu Partner Center mit separaten AAD-Mandanten durchführen. Beachten Sie jedoch, dass dies eine isolierte Auswertung ihrer Kompetenzen und zusätzliche Einkaufskosten zur Folge hat. 
+Sie können sich dennoch entscheiden, eine Migration zu Partner Center mit separaten AAD-Mandanten durchführen. Beachten Sie jedoch, dass dies eine isolierte Auswertung ihrer Kompetenzen und zusätzliche Einkaufskosten zur Folge hat. Weitere Informationen zur Kontokonsolidierung finden Sie unter [Konsolidieren Ihrer Unternehmenskonten](consolidate-accounts.md).
 
 **Wenn ich mehrere AAD-Mandanten und ein MPN-Konto verwende, ist es dann möglich, diese in Partner Center zu verknüpfen?**
 
 Ja, in Partner Center können Sie mehrere Azure AD-Mandanten mit einem Partner Center-Konto verknüpfen.
-Weitere Informationen finden Sie hier. 
+Weitere Informationen zur Kontokonsolidierung finden Sie unter [Konsolidieren Ihrer Unternehmenskonten](consolidate-accounts.md).
 
 **Gibt es Einschränkungen beim Hinzufügen mehrerer Azure AD-Mandanten zu einem einzelnen Partner Center-Konto?**
 
@@ -164,11 +139,11 @@ Wählen Sie im linken Navigationsbereich des Dashboards **Kompetenzen** aus. Auf
 Nein, es gibt keine Auswirkung auf Incentives, wenn Sie Ihr Konto verschoben haben, ohne Standorte zu konsolidieren. Wenn Ihr Unternehmen über mehrere Konten in PMC verfügt und Sie sich bei der Umstellung auf Partner Center entscheiden, diese in einem globalen Konto zu konsolidieren, kommt es nicht zu einem Verlust von Incentives, aber es kann zu einer Verzögerung bei der Incentiveauszahlung kommen. Wenn Sie nicht alle Ihre PMC-Konten verschieben, die an Incentivepogrammen teilgenommen haben, erwerben Sie möglicherweise keine weiteren mit diesen Konten verknüpften Incentives.
 
 
-**Was sind die Incentivebenutzerrollen in Partner Center?** 
+**Was sind die Incentiverollen im Partner Center?** 
 
 Incentiverollen in Partner Center sind standortbasiert und umfassen Incentiveaministrator und Incentivebenutzer. Weitere Informationen zu den Aufgaben, die diese Rollen ausführen können, finden Sie unter [Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md).
 
-**Können Incentivebenutzer auf globaler Ebene und auf Standortebene zugewiesen werden?**
+**Können Incentiveadministratoren auf globaler Ebene und auf Standortebene zugewiesen werden?**
 
  Ja. Sie können einen Incentiveadministrator als Incentiveadministrator für alle Standorte zuweisen, oder jeder Standort kann über einen eigenen Incentiveadministrator verfügen.
 
@@ -182,7 +157,7 @@ Ihr Unternehmen kann so viele Geschäftsprofile wie erforderlich erstellen, um d
 
 **Wie werden Empfehlungen zugewiesen, und welche Änderungen muss ich erwarten? Wenn ich beispielsweise ein globales Unternehmen in einem Markt und Standorte in anderen Märkten habe, wie werden Empfehlungen dann zugewiesen?**
 
-Empfehlungen werden basierend auf den Suchparametern zugewiesen, die der Kunde definiert. Wenn die Kunden einen gewünschten Standort angeben und Sie dort ein Unternehmen betreiben, das die anderen Parameter erfüllt, geht die Empfehlung unabhängig davon, ob Sie einen oder mehrere Standorte nutzen, an diesen Standort.
+Empfehlungen werden basierend auf den Suchparametern zugewiesen, die der Kunde definiert. Wenn Kunden einen gewünschten Standort angeben und Sie dort ein Unternehmen betreiben, das die anderen Parameter erfüllt, geht die Empfehlung unabhängig davon, ob Sie einen oder mehrere Standorte nutzen, an diesen Standort.
 
 
 

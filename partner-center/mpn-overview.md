@@ -1,5 +1,5 @@
 ---
-title: Microsoft Partner Network-Mitgliedschaft | Partner Center
+title: Microsoft Partner Network-Mitgliedschaft
 ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
@@ -10,24 +10,25 @@ ms.author: labrenne
 keywords: Partner, Partnerschaft, MPN, Microsoft Partner Network Action Pack, MAPS, Aktion Pack-Abonnement, Vorteile, MPN-Vorteile, Mitgliedschaft, Silver, Gold, Kompetenzen
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 617fa9afac5dcb43304aad63d2aa9b9d4928f293
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 4208d919d8cee8dc98fa60621a6e5768d828e799
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798838"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362738"
 ---
 # <a name="partner-with-microsoft"></a>Partner von Microsoft
 
 **Geeignete Rollen**
--   Globaler Administrator
--   MPN-Partneradministrator
--   Benutzeradministrator
--   Administrator-Agent
+
+- Globaler Administrator
+- MPN-Partneradministrator
+- Benutzeradministrator
+- Administrator-Agent
 
 Wenn Sie an einem Microsoft-Partnerprogramm teilnehmen, werden Sie Teil einer globalen Community, die Sie mit den Beziehungen, Einblicken, Tools, Ressourcen und Programmen in Verbindung bringt, die Sie benötigen, um Ihre Kunden zu überzeugen und Ihr Unternehmenswachstum voranzubringen.
 
-Weitere Informationen zu den Vorteilen einer Partnerschaft mit Microsoft finden Sie unter [Warum Microsoft?](https://partner.microsoft.com/business-opportunities/why-microsoft). 
+Weitere Informationen zu den Vorteilen einer Partnerschaft mit Microsoft finden Sie unter [Warum Microsoft?](https://partner.microsoft.com/business-opportunities/why-microsoft).
 
 ## <a name="join-the-microsoft-partner-network"></a>Dem Microsoft Partner Network beitreten
 
@@ -51,7 +52,7 @@ Sobald Sie Ihre Geschäftsziele erreicht haben, nehmen Sie entsprechend Ihrer ei
 
 ### <a name="action-pack"></a>Action Pack
 
-Ein Action Pack bietet Software, Support und Vorteile für Unternehmen, die in einer Welt, in der mobile Geräte und Clouddienste zunehmend an Bedeutung gewinnen, ihr Microsoft-Geschäft ausbauen möchten. 
+Ein Action Pack bietet Software, Support und Vorteile für Unternehmen, die in einer Welt, in der mobile Geräte und Clouddienste zunehmend an Bedeutung gewinnen, ihr Microsoft-Geschäft ausbauen möchten.
 
 In den folgenden Ressourcen erfahren Sie mehr über das Action Pack:
 
@@ -82,5 +83,6 @@ In den folgenden Ressourcen erfahren Sie mehr über Network-Mitgliedschaftsvorte
 - [Verwalten Ihrer MPN-Vorteile in Partner Center](manage-your-partner-network-benefits.md)
 - [Grundlegende Anforderungen](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>Siehe auch
-- [Umsatzsteigerung für Microsoft-Partner](grow-your-business.md)
+## <a name="next-steps"></a>Nächste Schritte
+
+[Umsatzsteigerung für Microsoft-Partner](grow-your-business.md)

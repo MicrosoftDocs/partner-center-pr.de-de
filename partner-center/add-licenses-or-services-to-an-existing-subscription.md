@@ -1,23 +1,24 @@
 ---
-title: Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement | Partner Center
+title: Aktualisieren eines Kundenabonnements
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie das Abonnement eines Kunden aktualisieren oder ändern, indem Sie beispielsweise weitere Lizenzen oder Arbeitsplätze hinzufügen oder zu einer anderen Version mit anderen Diensten wechseln.
+description: Erfahren Sie, wie Sie das Abonnement eines Kunden aktualisieren oder ändern. Fügen Sie weitere Lizenzen oder Arbeitsplätze hinzu, oder wechseln Sie zu einer anderen Version mit zusätzlichen Diensten.
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: LauraBrenner
 ms.author: labrenne
 keywords: Hinzufügen von Lizenzen zu einem vorhandenen Abonnement, Plätze zu einem vorhandenen Abonnement hinzufügen, Abonnement andern, Ändern eines Abonnements, Weitere Lizenzen für einen Kunden erwerben
 ms.localizationpriority: high
-ms.openlocfilehash: 01f0fedfad207f83cc5370ac60f19753040c9045
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f41c34b044cca39c2939ede746e05b932e03a570
+ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798648"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "82975121"
 ---
-# <a name="add-licenses-or-services-to-an-existing-subscription"></a>Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement
+# <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Hinzufügen von Lizenzen, Arbeitsplätzen oder zusätzlichen Diensten zum Abonnement eines Kunden
 
 **Zielgruppe**
 
@@ -32,7 +33,7 @@ ms.locfileid: "82798648"
 - Vertriebsbeauftragter
 - Helpdesk-Agent
 
-Wenn Ihr Kunde mehr Lizenzen benötigt, als das aktuelle Abonnement zur Verfügung stellt, oder wenn er eine andere Version mit zusätzlichen Services benötigt, können Sie das Abonnement aktualisieren. Weitere Informationen finden Sie unter [Wechseln zu einem anderen Office 365 Business-Plan](https://go.microsoft.com/fwlink/p/?LinkId=723577).
+Wenn Ihr Kunde mehr Arbeitsplätze benötigt, als das aktuelle Abonnement zur Verfügung stellt, oder wenn er eine andere Version mit zusätzlichen Diensten benötigt, können Sie das Abonnement u. U. aktualisieren. Weitere Informationen finden Sie unter [Wechseln zu einem anderen Plan für Microsoft 365 Apps for Business](https://go.microsoft.com/fwlink/p/?LinkId=723577).
 
 ## <a href="" id="upgradesubscription"></a>
 
@@ -52,25 +53,25 @@ Die folgenden Updates werden vom Cloud-Lösungsanbieter unterstützt:
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 Business</td>
+<td>Microsoft 365 Apps for Business</td>
 <td><ul>
-<li>Office 365 Business Premium¹</li>
-<li>Office 365 ProPlus</li>
+<li>Microsoft 365 Business Premium¹</li>
+<li>Microsoft 365 Apps for Enterprise</li>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 Business Premium</td>
+<td>Microsoft 365 Business Standard</td>
 <td><ul>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 Business Essentials</td>
+<td>Microsoft 365 Business Basic</td>
 <td><ul>
-<li>Office 365 Business Premium¹</li>
+<li>Microsoft 365 Business Standard¹</li>
 <li>Office 365 Enterprise E1</li>
 <li>Office 365 Enterprise E3</li>
 <li>Office 365 Enterprise E5</li>
@@ -78,14 +79,14 @@ Die folgenden Updates werden vom Cloud-Lösungsanbieter unterstützt:
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365 Business India und Office 365 Business Essentials India können auf Office 365 Business Premium India, aber nicht auf Office 365 Business Premium aktualisiert werden.</p></td>
+<td><p>¹ Microsoft 365 Apps for Business Indien und Microsoft 365 Business Basic Indien können auf Microsoft 365 Business Standard Indien und nicht auf Microsoft 365 Business Standard aktualisiert werden.</p></td>
 </tr>
 </tbody>
 </table>
 
 Upgrades von Abonnements können erfolgen, wenn die folgenden Bedingungen zutreffen:
 
--   Das Abonnement muss aktiv sein (nicht ausgesetzt oder gekündigt).
+-   Das Abonnement muss aktiv (nicht ausgesetzt oder gekündigt) sein.
 
 -   Sie müssen delegierte Administratorrechte für diesen Kunden und den Dienst besitzen. Hier erfahren Sie, wie Sie [delegierte Administratorrechte anfordern](request-a-relationship-with-a-customer.md).
 
@@ -95,7 +96,7 @@ Upgrades von Abonnements können erfolgen, wenn die folgenden Bedingungen zutref
 
 Es ist in den letzten beiden Fällen möglich, dass der Kunde diese Abonnements oder Dienste von einem anderen Partner oder über einem anderen Kanal erworben hat. Es ist dann nicht möglich, dass er sie von Ihnen kauft, es sei denn, sie kündigen zuerst die vorhandenen Abonnements. Weitere Informationen finden Sie unter [Multichannel](multichannel.md).
 
-Weitere Informationen über die Auswirkung auf die Abrechnung finden Sie unter den Details zur Kündigung eines Abonnements oder dem Hinzufügen eines neuen Abonnements in [Allgemeine Abrechnungsszenarien](common-billing-scenarios.md).
+Weitere Informationen über die Auswirkung auf die Abrechnung finden Sie unter den Details zur Kündigung eines Abonnements und zum Hinzufügen eines neuen Abonnements in [Allgemeine Abrechnungsszenarien](common-billing-scenarios.md).
 
 **Upgrade für Abonnements**
 

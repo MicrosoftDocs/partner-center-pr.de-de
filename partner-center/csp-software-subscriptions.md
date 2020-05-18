@@ -1,7 +1,7 @@
 ---
-title: Verkaufen von Softwareabonnements über CSP | Partner Center
+title: Verkaufen von Softwareabonnements über CSP
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Partner im CSP-Programm Partner Center verwenden können, um reservierte Azure-Instanzen und Serverabonnements für Kunden zu erwerben, zu verwalten, zu verkaufen und zu stornieren.
@@ -9,15 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Azure RI, Windows Server, SQL Server, Softwareabonnements, Stornieren von Software
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 0d251f36c7ab8497b696c4eca2a2797c543e3325
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7901d3280cb5f9a1523b2974d4a462373b94e354
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798428"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907956"
 ---
-# <a name="sell-software-subscriptions-through-csp"></a>Verkaufen von Softwareabonnements über CSP
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vertreiben von Softwareabonnements über das CSP (Cloud Solution Provider)-Programm
 
 **Zielgruppe**
 
@@ -30,9 +30,9 @@ ms.locfileid: "82798428"
 
 Durch Azure-Reservierungen und Serverabonnements können Partner im CSP-Programm die schnell wachsende Kundennachfrage nach kostengünstigeren Lösungen zur Unterstützung höchst vorhersehbarer, persistenter Cloudworkloads erfüllen. 
 
-Sie können jetzt Azure-Reservierungen und Serverabonnements im Auftrag von Geschäftskunden über Partner Center und das Azure-Portal erwerben, bereitstellen und verwalten, indem Sie den Azure-Hybridvorteil nutzen.
+Sie können jetzt Azure-Reservierungen und Serverabonnements im Auftrag von Geschäftskunden über das Partner Center und das Azure-Portal erwerben, bereitstellen und verwalten, indem Sie den Azure-Hybridvorteil nutzen.
 
-Der Azure-Hybridvorteil hilft Ihnen, mehr Nutzen aus Ihren Windows Server-Lizenzen zu ziehen und bei virtuellen Computern bis zu 40 % zu sparen. Sie können mit Windows Server Datacenter und Standard Edition-Lizenzen mit Software Assurance in den Genuss des Vorteils kommen. Je nach Edition können Sie Ihre Lizenzen zum Ausführen von Windows Server-VMs in Azure konvertieren oder erneut verwenden und einen niedrigeren Computetarif (z.B. Tarife für Linux-VMs) zahlen.
+Der Azure-Hybridvorteil hilft Ihnen, mehr Nutzen aus Ihren Windows Server-Lizenzen zu ziehen und bei virtuellen Computern bis zu 40 % zu sparen. Sie können mit Windows Server Datacenter und Standard Edition-Lizenzen mit Software Assurance in den Genuss des Vorteils kommen. Je nach Edition können Sie Ihre Lizenzen zum Ausführen von Windows Server-VMs in Azure konvertieren oder erneut verwenden und einen niedrigeren Computebasistarif (z. B. Tarife für Linux-VMs) zahlen.
 
 ## <a name="azure-reservations-unavailable-markets"></a>Azure-Reservierungen: Märkte ohne Verfügbarkeit
 
@@ -181,7 +181,7 @@ Nach dem Stornieren eines Einkaufs:
 
 - Das stornierte Element wird weiterhin auf der Seite „Softwaredetails“ des Kunden angezeigt, aber der Aktivierungsschlüssel ist nicht verfügbar.
 
-- In der nächsten monatlichen Rechnung wird eine Gutschrift für die stornierte Bestellung angezeigt. Bei unbefristeten Software erhalten Sie eine Gutschrift von 100 %, für Softwareabonnements wird eine anteilsmäßige Gutschrift ausgestellt.
+- In der nächsten monatlichen Rechnung wird eine Gutschrift für die stornierte Bestellung angezeigt. Bei unbefristeter Software erhalten Sie eine Gutschrift von 100 %, für Softwareabonnements wird eine anteilsmäßige Gutschrift ausgestellt.
 
 ### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Senden einer Kundensupportanfrage, um einen Kauf zu stornieren
 

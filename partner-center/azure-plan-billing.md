@@ -1,7 +1,7 @@
 ---
-title: Azure-Plan – Abrechnung | Partner Center
+title: 'Azure-Plan: Abrechnung – Rechnungs- und Kontenabstimmungsdateien'
 ms.topic: article
-ms.date: 02/12/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie Sie auf die Struktur der Rechnungs-/Abstimmungsdatei im Zusammenhang mit der Abrechnung für den Azure-Plan zugreifen und sie verstehen können.
@@ -10,12 +10,13 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 2184733bbbfb5fa3beede2cb45cb409109f11bad
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f0246338ef8c0da06dce557573cd2811d07a0e9e
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78240241"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908360"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Neues E-Commerce-Verfahren in CSP: Azure-Abrechnung 
 
@@ -62,7 +63,7 @@ Zum Anzeigen früherer Rechnungen und Abstimmungsdateien erweitern Sie die Zeile
 
 ## <a name="understanding-usage-data"></a>Grundlegendes zu Verwendungsdaten 
 
-1. Der Azure-Plan ist der Stammcontainer oder der Container der obersten Ebene für die Verwendung. Alle Verwendungsdaten sind an einen einzelnen Azure-Plan gebunden. 
+1. Der Azure-Plan ist der Stammcontainer oder der Container der obersten Ebene für die Verwendung. Alle Verwendungsdaten sind an einen einzelnen Azure-Plan gebunden.
 
 2. Ein Plan kann ein oder mehrere Azure-Abonnements enthalten. Dies sind Container, die für die Ressourcenverwaltung und -bereitstellung verwendet werden. 
 
@@ -72,7 +73,7 @@ Zum Anzeigen früherer Rechnungen und Abstimmungsdateien erweitern Sie die Zeile
 
 5. Ressourcen geben Verbrauchszähler aus: Verbrauchszähler sind Verbrauchsmessungen einer Ressource, und eine Ressource kann Verwendungsdaten für verschiedene Verbrauchszähler ausgeben. Verbrauchszähler werden durch „ProductId“-, „SKUId“- und „AvailabilityId“-Werte identifiziert. 
 
-### <a name="heirarchy-of-subscription-resource-groups-and-metering"></a>Heirarchie von Abonnementressourcengruppen und -messungen
+### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>Hierarchie von Abonnementressourcengruppen und -messungen
 
 **Azure-Konto (Mandant)**
 
@@ -86,7 +87,7 @@ Zum Anzeigen früherer Rechnungen und Abstimmungsdateien erweitern Sie die Zeile
     - ResourceGroup 2
         - Virtueller Computer (Ressource)
             - Computerverbrauchseinheit
-        - Verwaltete SSD Premium-Datenträger (Ressource)
+        - Verwalteter SSD Premium-Datenträger (Ressource)
             - Verbrauchseinheit für Speicherkapazität
             - Verbrauchseinheit für Speichervorgänge
 
@@ -98,7 +99,7 @@ Zum Anzeigen früherer Rechnungen und Abstimmungsdateien erweitern Sie die Zeile
 
 ## <a name="read-the-invoice"></a>Lesen der Rechnung
 
-1. Die Rechnung steht spätestens am 8. jedes Monats zur Verfügung.
+1. Die Rechnung steht spätestens am 8. jedes Monats zur Verfügung.
 
 2. Partner haben 60 Tage Zeit, die Zahlung zu überweisen.
 

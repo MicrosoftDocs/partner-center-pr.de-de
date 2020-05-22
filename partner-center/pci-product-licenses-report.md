@@ -1,28 +1,28 @@
 ---
-title: Partner Center Insights-Bericht zu Produktlizenzen | Partner Center
+title: Partner Center Insights-Produktlizenzen
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sehen Sie sich an, was Sie tun und wo Sie sich mit lizenzierten (oder Arbeitsplatz basierten) cloudprodukten verbessern können, die Sie für Ihre Kunden verkaufen oder verwalten.
+description: Lesen Sie diesen Produktlizenz Bericht, und erfahren Sie, wie Sie mit den lizenzierten (oder Arbeitsplatz basierten) cloudprodukten verbessern, die Sie für Ihre Kunden verkaufen oder verwalten.
 ms.assetid: ''
 keywords: PCI, Leistung, Messungen, Kunden Erfolg, cloudabonnements, Analysen, Bericht
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0d2b5dcac2a51d78d814cc6c5099eaeafa0f769a
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648011"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795665"
 ---
-# <a name="product-licenses-report"></a>Bericht zu Produktlizenzen
+# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Bericht "Produktlizenzen" im Partner Center Insights-Dashboard
 
 **Geeignete Rollen**
 - Globaler Administrator
-- Administratoragent
+- Administrator-Agent
 - Berichtanzeige
 - Executive Report Viewer
 
@@ -81,3 +81,7 @@ Die X-Achse stellt Monate des ausgewählten Datums Bereichs dar. Die Y-Achse ste
 Diese Ansicht zeigt eine Aufschlüsselung der Kunden Lizenzen nach Produkt und Kunden Land/Region. Wenn Sie ein Produkt im Kreis Diagramm " **License by Product** " auswählen, wird im angrenzenden Diagramm eine Lizenz Aufschlüsselung nach Kunden Region angezeigt.
 
 ![Lizenz Verteilung](images/pci/pci_licenses_report_license_distrib_4.png)
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- Weitere Berichte finden Sie unter [Partner Center Insights](partner-center-insights.md).

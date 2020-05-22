@@ -1,23 +1,23 @@
 ---
-title: Leads verwalten | Partner Center
+title: Verwalten von Leads
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie auf Verweise reagieren, neue, vorhandene und archivierte Verweise verwalten und Weitere Verweise in Zukunft erhalten.
-author: vikramb
-ms.author: vikramb
+description: Verwenden Sie Partner Center, um auf Verweise zu Antworten und neue, vorhandene und archivierte Leads und Verweise zu verwalten. Erfahren Sie außerdem, wie Sie in Zukunft weitere Verweise erhalten.
+author: LauraBrenner
+ms.author: labrenne
 keywords: Referenz, Co-Selling, Deal
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05c0fb22047664ef814d4fbc8eeb45e1ce1df51b
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919847"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796023"
 ---
-# <a name="manage-leads"></a>Leads verwalten
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Verwalten verschiedener Leads wie Kundenanfragen, Marketing qualifizierter Leads und Vertriebs qualifizierter Leads
 
 **Zielgruppe**
 

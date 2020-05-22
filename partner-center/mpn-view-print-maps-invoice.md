@@ -1,33 +1,35 @@
 ---
-title: Rechnungen und Steuern in der Microsoft Partner Network | Partner Center
+title: Microsoft Partner Network Rechnungen & steuern
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Erfahren Sie, wie Sie Ihre MPN-Mitgliedschafts Rechnung sowie die Datei für die Steuerbefreiung anzeigen oder herunterladen und wie Sie Ihre Umsatzsteuer-ID an Microsoft senden.
+description: Erfahren Sie, wie Sie Ihre MPN-Mitgliedschafts Rechnung anzeigen oder herunterladen, wie Sie eine Steuer Ausnahme einreichen und wie Sie Ihre Umsatzsteuer-ID an Microsoft senden können.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Rechnung, Zuordnungen, Steuer ausgenommene Steuer, Mehrwertsteuer, Umsatzsteuer-ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 02e6075e67f91bf3283a475f476b69b56fe9dec9
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6be8b6d5d69ddaa6b5f3d14725691a67d168a80d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004259"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795943"
 ---
-# <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Rechnungen und Steuern in der Microsoft Partner Network
+# <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Rechnungen und Steuern im Microsoft Partner Network
 
 **Zielgruppe**
 
--  Partner Center
+- Partner Center
 
 **Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   MPN-Partneradministrator
--   Abrechnungsadministrator
--   Administratoragent
+
+- Globaler Administrator
+- Benutzeradministrator
+- MPN-Partneradministrator
+- Abrechnungsadministrator
+- Administrator-Agent
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>Anzeigen oder Herunterladen Ihrer MPN-Mitgliedschafts Rechnung
 
@@ -37,7 +39,7 @@ Sie müssen ein globaler Administrator oder MPN-Partner Administrator sein, um d
 
 1.  Melden Sie sich mit Ihrem Geschäftskonto bei [Partner Center](https://partner.microsoft.com/dashboard/home) an, und wählen Sie im Menü auf der linken Seite **MPN** aus.
 
-4.  Wählen Sie in der Dropdown Liste **mitgliedschaftsangebote** aus, um die verfügbaren Angebote sowie die verfügbaren Rechnungen für das aktuelle Registrierungs Jahr anzuzeigen. Um Rechnungen für vorherige Jahre anzuzeigen, wählen Sie **abgelaufen**aus.
+4.  Wählen Sie in der Dropdown Liste **mitgliedschaftsangebote** aus, um die verfügbaren Angebote sowie die verfügbaren Rechnungen für das aktuelle Registrierungs Jahr anzuzeigen. Wählen Sie **Abgelaufen** aus, um die Rechnungen für die vorherigen Jahre anzuzeigen.
 
 6.  Wählen Sie die gewünschte Rechnung aus, und wählen Sie dann **Rechnung herunterladen**aus. 
 

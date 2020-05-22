@@ -1,28 +1,28 @@
 ---
-title: Bericht "Partner Center Insights-Kompetenzen" | Partner Center
+title: Partner Center Insights-Bericht "Kompetenzen"
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sehen Sie sich an, was Sie tun und wo Sie in Bezug auf die Kompetenzen von Microsoft, die Kompetenzstufen und Angebote verbessern können, um Microsoft-Lösungen bereitzustellen.
 ms.assetid: ''
 keywords: PCI, Leistung, Messungen, Kunden Erfolg, Kompetenzen, Vorteile, Analysen, Bericht
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226186"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795652"
 ---
-# <a name="competencies-report"></a>Bericht "Zuständigkeiten"
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Im Partner Center Insights-Dashboard verfügbarer Bericht "Kompetenzen"
 
 **Geeignete Rollen**
 - Globaler Administrator
-- Administratoragent
+- Administrator-Agent
 - Berichtanzeige
 - Executive Report Viewer
 
@@ -86,3 +86,6 @@ Diese Ansicht zeigt eine detaillierte Tabelle mit allen Kompetenzen, die Sie bis
 
 ![Kompetenz Verlauf](images/pci/pci_competencies_comp_history_3.png)
 
+## <a name="next-steps"></a>Nächste Schritte
+
+- Weitere Berichte finden Sie unter [Partner Center Insights](partner-center-insights.md).

@@ -1,7 +1,7 @@
 ---
-title: Eskalieren von Problemen an Microsoft | Partner Center
+title: Eskalieren von Problemen an Microsoft
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, welche Probleme Microsoft-Partner für Ihre Kunden selbst lösen und welche Probleme Sie an Microsoft eskalieren müssen.
@@ -9,15 +9,15 @@ ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 716b090681663feba725d1cf268be2209cd15475
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9d46c22852d8a4b994088919d98c92e328ef2cad
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798338"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795154"
 ---
-# <a name="escalate-problems-to-microsoft"></a>Eskalieren von Problemen an Microsoft
+# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Eskalieren von Problemen an Microsoft und erfahren, welche Probleme für die Microsoft-Eskalation besser geeignet sind  
 
 **Zielgruppe**
 

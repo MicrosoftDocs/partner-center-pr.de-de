@@ -1,7 +1,7 @@
 ---
 title: Verkaufen an spezielle Branchen
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie mehr über die speziellen, reduzierten Preise für bestimmte Kundengruppen von Microsoft, einschließlich Bildungs Kunden, gemeinnützige Kunden und Regierungsbehörden.
@@ -9,14 +9,15 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e22a4e89de9ec67c6e42659275a038128d521e47
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 00b4dc172c4c39fe73f1118d2eb3a56555eaa464
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362598"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795097"
 ---
-# <a name="sell-to-specialized-industries"></a>Verkaufen an spezielle Branchen
+# <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vertrieb an spezialisierte Branchen wie Education, Non-Profit und Government-Benutzer
 
 **Zielgruppe**
 
@@ -34,8 +35,8 @@ Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z. B
 
 |**Sonderpreise**   |**Erforderliche Händlerqualifikationen**   |**Erforderliche Kundenqualifikationen**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Fortbildung   |Keine   | Sie müssen ein [qualifizierter Benutzer von Bildungsangeboten](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) sein.   |
-|Behörden   |Um Azure zu verkaufen, registrieren Sie sich mit dem [cloudvalidierungsformular der Microsoft US Government-Cloud](https://azuregov.microsoft.com/csp). Wenn Sie lizenzbasierte Abonnements an Behörden verkaufen möchten, ist keine Qualifikation erforderlich.|   Keine|
+|Education   |Keine   | Sie müssen ein [qualifizierter Benutzer von Bildungsangeboten](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) sein.   |
+|Regierung   |Um Azure zu verkaufen, registrieren Sie sich mit dem [cloudvalidierungsformular der Microsoft US Government-Cloud](https://azuregov.microsoft.com/csp). Wenn Sie lizenzbasierte Abonnements an Behörden verkaufen möchten, ist keine Qualifikation erforderlich.|   Keine|
 |Gemeinnützig  |Keine<br/> Sie benötigen einen Azure Active Directory-Mandanten für gemeinnützige Organisationen.<br/> Unter [Sonderangebote für gemeinnützige Organisationen](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf) finden Sie weitere Informationen.   |Melden Sie sich über das [Microsoft-Programm für gemeinnützige Organisationen](https://nonprofit.microsoft.com/#/register) an, um sich zu qualifizieren.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Überprüfen Ihrer Händlerqualifikationen

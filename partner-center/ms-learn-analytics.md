@@ -1,21 +1,22 @@
 ---
-title: Microsoft Learn Analytics | Partner Center
+title: Microsoft Learn-Analysen
 ms.topic: article
-ms.date: 07/05/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Verfolgen Sie die Lernmodule in Ihrem Unternehmen, indem Sie Daten zu einzelnen Schulungen, abgeschlossenen Modulen, abgeschlossenen Lernpfaden und mehr nutzen.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8e69b283edd0110ba2b6e13ea60621171b83e4b6
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005108"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795935"
 ---
-# <a name="microsoft-learn-analytics-report"></a>Microsoft Learn Analytics-Bericht
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Der Bericht "Microsoft Learn Analytics" zeigt den Status von Lernmodulen in Ihrem Unternehmen.
 
 **Geeignete Rollen**
 -   Globaler Administrator

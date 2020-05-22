@@ -1,23 +1,24 @@
 ---
-title: Erstellen mehrerer Benutzer für ein Kundenkonto | Partner Center
+title: Hinzufügen mehrerer Benutzer für ein Kundenkonto
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie dem Konto eines Kunden mehrere Benutzer gleichzeitig hinzufügen, indem Sie eine Datendatei im CSV-Dateiformat (Comma-Separated Value File Format) in Partner Center hochladen.
+description: Erfahren Sie, wie Sie dem Konto eines Kunden mehrere Benutzer gleichzeitig hinzufügen. Laden Sie eine Datendatei mit dem Dateiformat mit Komma getrennten Werten (CSV-Datei) in Partner Center hoch.
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: Massenupload, einem Kundenkonto mehrere Benutzer hinzufügen, Benutzer eines Kunden hinzufügen, Massenupload der Benutzer eines Kunden, Kundenkonto, Kundenbenutzer, Benutzer
 ms.localizationpriority: medium
-ms.openlocfilehash: 36130f268c9d33217ef3473136ec511f374fb583
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1929eb7eee7f23de6ae6e8dcd343d38fe2414f6f
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798628"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794904"
 ---
-# <a name="add-multiple-users-to-a-customer-account"></a>Hinzufügen von mehreren Benutzern zu einem Kundenkonto
+# <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>Hinzufügen mehrerer Benutzer zu einem Kundenkonto: Hochladen einer Datendatei in Partner Center
 
 **Zielgruppe**
 
@@ -46,7 +47,7 @@ Geben Sie die folgenden Daten in die Datendatei ein:
 | **Spaltenname** | **Beschreibung**                                                              | **Einschränkung**                             |
 | Vorname      | Vorname des Benutzers (optionales Feld)                                           | Maximal 50 Zeichen                         |
 | Nachname       | Nachname des Benutzers (optionales Feld)                                            | Maximal 50 Zeichen                         |
-| `Display name`    | Der im Partner Center angezeigte Name (erforderliches Feld)                            | Maximal 50 Zeichen                         |
+| Anzeigename    | Der im Partner Center angezeigte Name (erforderliches Feld)                            | Maximal 50 Zeichen                         |
 | E-Mail           | Geschäftliche e-Mail-Adresse des Benutzers im Kunden Unternehmen (Pflichtfeld)           | Jeder Benutzer muss über eine eindeutige E-Mail-Adresse verfügen. |
 | Statusaktualisierung   | Hiermit wird angegeben, ob der Datensatz des neuen Benutzers erfolgreich erstellt wurde. | \*\*Keine Angabe\*\*                        |
 
@@ -68,7 +69,7 @@ Geben Sie die folgenden Daten in die Datendatei ein:
 
 7. Wählen Sie **Überprüfen** aus.
 
-    **Beachten Sie**  , dass die meisten Fehler bei der Kontoerstellung durch Datendatei Probleme verursacht werden, einschließlich fehlender Informationen, fehlerhafter oder doppelter e-Mail-Adressen oder zu viele Datensätze in der Datei.
+    **Hinweis**    Die meisten Fehler bei der Kontoerstellung werden durch Probleme mit der Datendatei verursacht, darunter fehlende Informationen, falsch formatierte oder doppelte e-Mail-Adressen oder zu viele Datensätze in der Datei.
 
 8. Wählen Sie nach der Überprüfung der Datei durch das Partner Center den geografischen **Standort** für die neuen Benutzer aus.
 9. Wählen Sie **Speichern** aus.

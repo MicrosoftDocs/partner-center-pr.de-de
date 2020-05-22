@@ -1,27 +1,29 @@
 ---
-title: Rechnungs Dateien | Partner Center
+title: Verstehen der Felder in Abrechnungs Rechnungen
 ms.topic: article
-ms.date: 08/26/2019
+ms.date: 05/18/2020
 description: Machen Sie sich mit den Feldern in der Rechnungs Datei für die Partner Center-Abrechnung vertraut.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 keywords: Abrechnung, Rechnung
 ms.localizationpriority: medium
-ms.openlocfilehash: bcbb784ceda9e4b8cbddf61e0b5380ad18d3f264
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f546174ee80c90695ec11f09e9cd1d5fdd4c4e46
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798898"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794861"
 ---
-# <a name="invoice-files"></a>Rechnungs Dateien
+# <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>Abrechnungs Rechnungen für Partner Center: erfahren Sie, wie Sie die Abrechnungs-und einzeitangabefelder lesen.
 
 **Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   Abrechnungsadministrator
--   Helpdesk-Agent
+
+- Globaler Administrator
+- Benutzeradministrator
+- Abrechnungsadministrator
+- Helpdesk-Agent
 
 Anhand der folgenden Tabellen können Sie die Felder in den Partner Center-Rechnungs Dateien verstehen.
 

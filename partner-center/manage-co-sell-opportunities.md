@@ -1,30 +1,30 @@
 ---
-title: Verwalten von Co-Selling-Verkaufschancen | Partner Center
+title: Co-Selling-Verkaufschancen
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Als qualifizierter Microsoft-Partner können Sie Co-Selling mit Microsoft durcharbeiten. Erfahren Sie, wie Sie Deals definieren, Microsoft zur Zusammenarbeit einladen oder gesendete Geschäfte anzeigen.
-author: vikramb
-ms.author: vikramb
+author: LauraBrenner
+ms.author: labrenne
 keywords: Referenz, Co-Selling, Deal
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7732d1d6b65d90370c06f1a65a29a291915693d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: da10d8e9de254eb3af9450df171b5ae1153ce4bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919837"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796031"
 ---
-# <a name="manage-co-sell-opportunities"></a>Verwalten von Co-Selling-Verkaufschancen
+# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Verwalten von Co-Selling-Verkaufschancen in Partner Center zum Definieren von Geschäften und besseren Erfüllung der Kundenanforderungen
 
 **Zielgruppe**
 
--  Partner Center
--  Empfehlungen
--  Co-Selling mit Microsoft
--  Freigabe freigeben
+- Partner Center
+- Empfehlungen
+- Co-Selling mit Microsoft
+- Freigabe freigeben
 
 **Geeignete Rollen**
 
@@ -65,7 +65,7 @@ Sie können zwei Arten von Co-Selling-Verkaufschancen erstellen.
 
 Wählen Sie den Kunden für diesen speziellen Vertrag aus. Geben Sie den Speicherort ein, und geben Sie den Namen ein. Das automatische vorschlagen zeigt Empfehlungen basierend auf den Suchkriterien an. Da viele Unternehmen über mehr als eine Geschäftseinheit am gleichen Standort verfügen, werden möglicherweise mehrere Ergebnisse angezeigt. Wenn Sie nicht sicher sind, was Sie auswählen sollen, können Sie bestätigen, welche D-U-N-S-Nummer zu Ihrem Kunden gehört. Achten Sie darauf, die genaue Entsprechung für den Kunden auszuwählen, mit dem Sie arbeiten.
 
-Nachdem Sie auf **Wählen Sie den Kunden auswählen**, werden Sie aufgefordert, den Namen, die Telefonnummer und die e-Mail-Adresse für die Person einzugeben, die als Hauptkontakt Punkt für dieses Problem gilt. Diese Details sind optional und nur erforderlich, wenn Sie beabsichtigen, Microsoft-Verkäufe einzuladen, um Sie beim Engagement zu unterstützen. Klicken Sie auf **Weiter**.
+Nachdem Sie auf **Wählen Sie den Kunden auswählen**, werden Sie aufgefordert, den Namen, die Telefonnummer und die e-Mail-Adresse für die Person einzugeben, die als Hauptkontakt Punkt für dieses Problem gilt. Diese Details sind optional und nur erforderlich, wenn Sie beabsichtigen, Microsoft-Verkäufe einzuladen, um Sie beim Engagement zu unterstützen. Wählen Sie **Weiter** aus.
 
 > [!IMPORTANT]
 > Stellen Sie sicher, dass Sie die Zustimmung des Kunden erhalten haben, dem Microsoft seine Kontaktinformationen zur Verfügung zu stellen. Microsoft kann diese Informationen verwenden, um den Kunden direkt zu kontaktieren.

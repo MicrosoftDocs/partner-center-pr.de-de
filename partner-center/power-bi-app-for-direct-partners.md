@@ -1,54 +1,55 @@
 ---
-title: Partner Center Analytics-App für Power BI | Partner Center
+title: FAQs-Partner Center Analytics für Power BI
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Eine allgemeine Übersicht und häufig gestellte Fragen zur Partner Center Analytics-APP für Power BI.
+description: Erkunden Sie diese Übersicht und häufig gestellte Fragen zur Partner Center Analytics-APP für Power BI.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 6f69015639bd928b03ea08d7eee848c3a6a90669
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: eacf0408e8ee87b6eeb15a2c61e24e6056cd593c
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797608"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795856"
 ---
-# <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Partner Center Analytics-App für Power BI (direkte Partner in CSP)
+# <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Übersicht und häufig gestellte Fragen zur Partner Center Analytics-APP für Power BI (direkte Partner in CSP)
 
 **Zielgruppe**
 
 - Partner Center
 
 **Geeignete Rollen**
--    Globaler Administrator
--    Benutzeradministrator
--    Vertriebsbeauftragter
--    Administrator-Agent
 
-Stellen Sie Ihre Unternehmensdaten mit der Partner Center Analytics-App für Power BI visuell dar. Die App wurde für direkte Partner im CSP-Programm (Cloud Solution Provider) entwickelt und nutzt das vertraute Power BI-Framework. 
+- Globaler Administrator
+- Benutzeradministrator
+- Vertriebsbeauftragter
+- Administrator-Agent
+
+Stellen Sie Ihre Unternehmensdaten mit der Partner Center Analytics-App für Power BI visuell dar. Die App wurde für direkte Partner im CSP-Programm (Cloud Solution Provider) entwickelt und nutzt das vertraute Power BI-Framework.
 
 > [!NOTE]  
-> Sie sind direkter Partner, wenn Sie Geschäfte direkt mit Microsoft und Kunden tätigen. 
+> Sie sind direkter Partner, wenn Sie Geschäfte direkt mit Microsoft und Kunden tätigen.
 
-Installieren Sie die App, um folgende grafische Ansichten zu erhalten: 
+Installieren Sie die App, um folgende grafische Ansichten zu erhalten:
 
--    Wachstum bei Kundenstamm, Abonnements und Lizenzen
+- Wachstum bei Kundenstamm, Abonnements und Lizenzen
 
--    Verwendung von Office 365-, Microsoft Dynamics- und Microsoft Azure-Produkten
+- Verwendung von Office 365-, Microsoft Dynamics- und Microsoft Azure-Produkten
 
--    Tägliche Verbrauchseinheiten für jede gemessene Ressource in jedem Azure-Abonnement in den letzten 60 Tagen
+- Tägliche Verbrauchseinheiten für jede gemessene Ressource in jedem Azure-Abonnement in den letzten 60 Tagen
 
--    Geschätzte Kosten auf Grundlage der aktuellen Gebührenkarte
+- Geschätzte Kosten auf Grundlage der aktuellen Gebührenkarte
 
--    Möglichkeit zum Exportieren von Datasets und zum Erstellen benutzerdefinierter Berichte (inkl. pro Kunde)
+- Möglichkeit zum Exportieren von Datasets und Erstellen von benutzerdefinierten Berichten, einschließlich pro Kunde
 
 ## <a name="frequently-asked-questions"></a>Häufig gestellte Fragen
 
-Es wird empfohlen, vor der Installation der App die Antworten auf häufig gestellte Fragen zu lesen. 
+Es wird empfohlen, vor der Installation der App die Antworten auf häufig gestellte Fragen zu lesen.
 
 | **Frage** | **Antwort** |
 | --- | ---------- |
@@ -59,7 +60,7 @@ Es wird empfohlen, vor der Installation der App die Antworten auf häufig gestel
 | Wer kann die Dashboards und Berichte in der App anpassen? | Nur der globale Administrator, Administrator-Agent oder Abrechnungsadministrator, der die App installiert hat, kann das Dashboard anpassen oder neue Berichte auf der Power BI-Weboberfläche erstellen. |
 | Wer kann die Dashboards und Berichte in der App anzeigen? | Der globale Administrator, Administrator-Agent oder Abrechnungs Administrator, der die APP installiert hat, kann die Daten der APP für alle Benutzer freigeben, die über ein aktives Abonnement für Microsoft Power BI Professional oder Microsoft Power BI Premium verfügen. |
 | Kann ich die App zum Anzeigen von Daten aus mehreren Azure AD-Mandanten an verschiedenen Standorten verwenden? | In dieser Version können Sie nur die Daten aus dem Azure AD-Mandanten anzeigen, für den der globale Administrator oder Administrator-Agent registriert ist. | 
-| Wann wird die App in weiteren Sprachen verfügbar sein? | Entsprechende Ankündigungen werden über das Early Adopter-Programm von Partner Center veröffentlicht. Wenn Sie nicht bereits am Programm teilnehmen, registrieren Sie sich jetzt unter [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program). Sie können auch Ihr Feedback über das Early Adopter-Programm bereitstellen. | 
+| Wann wird die App in weiteren Sprachen verfügbar sein? | Entsprechende Ankündigungen werden über das Early Adopter-Programm von Partner Center veröffentlicht. Wenn Sie nicht bereits am Programm teilnehmen, registrieren Sie sich jetzt unter [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program) . Sie können auch Ihr Feedback über das Early Adopter-Programm bereitstellen. | 
 
 
 

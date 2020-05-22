@@ -1,7 +1,7 @@
 ---
-title: Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs | Partner Center
+title: Verwenden von APIs für automatisierte Dienst Benachrichtigungen
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Partner können APIs für Office 365 und Microsoft Azure Partner für Echtzeitdienst Integrität, Nachrichten Center Kommunikation und geplante Wartungs Ereignisse verwenden.
@@ -9,14 +9,15 @@ ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cdfb76e55851c5e79eca160945da566db867928a
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3e0ad8a15711ff49ce9f11fb16b583aa69ddae72
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798258"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795083"
 ---
-# <a name="get-automated-service-notifications-with-our-apis"></a>Abrufen automatisierter Dienstbenachrichtigungen mit unseren APIs
+# <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>Verwenden von APIs für automatisierte Dienst Benachrichtigungen für Azure Insights & die Dienst Kommunikation von Office 365
 
 **Zielgruppe**
 

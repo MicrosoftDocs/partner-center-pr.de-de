@@ -1,39 +1,42 @@
 ---
-title: Marketplace-Angebote exklusiv | Partner Center
+title: Exklusive Marketplace-Angebote von ISVs
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: ISV kann CSP-Partner auswählen, mit denen Sie arbeiten möchten, indem Sie Ihre Angebote exklusiv gestalten.
+description: Erfahren Sie, wie unabhängige Software Hersteller (Independent Software Vendor, ISV) bestimmte Angebote exklusiv und nur für bestimmte CSP-Partner verfügbar machen.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: b3a3edb1a6c74ae0bddb8669ef6d81e0a24a34e4
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 46acf2a5d443075f840dbc24d26fc727d873f521
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123262"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794841"
 ---
-# <a name="marketplace-exclusive-offers"></a>Exklusive Marketplace-Angebote
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Exklusive Marketplace-Angebote von unabhängigen Software Anbietern
 
 **Geeignete Rollen**
--    Globaler Administrator
--    Benutzeradministrator
--    Administratoragent
--    Vertriebsbeauftragter
 
-ISVs haben die Möglichkeit, Ihre Angebote für eine ausgewählte Anzahl von CSP-Partnern verfügbar zu gestalten. Alle CSP-Partner können weiterhin alle ISV-Angebote im Partner Center Marketplace anzeigen, aber als exklusiv markierte Angebote können nur von den Partnern erworben werden, die der ISV ausgewählt hat. Wenn ein Angebot nicht als "exklusiv" angegeben wird, können alle Partner es erwerben.
+- Globaler Administrator
+- Benutzeradministrator
+- Administrator-Agent
+- Vertriebsbeauftragter
 
-Von ISVs identifizierte CSP-Partner können folgende Aktionen ausführen:
+Ein unabhängiger Software Hersteller (Independent Software Vendor, ISV) verfügt über die Möglichkeit, exklusiv Angebote zu erstellen, die nur bestimmten CSP-Partnern zur Verfügung stehen.
 
-- Erwerben exklusiver Angebote über den Partner Center Marketplace
+CSP-Partner können alle ISV-Angebote im Partner Center Commercial Marketplace anzeigen. Angebote, die als **exklusiv**gekennzeichnet sind, können jedoch nur von bestimmten Partnern erworben werden, die vom ISV ausgewählt wurden. Wenn ein Angebot nicht als **exklusiv**gekennzeichnet ist, kann es von allen Partnern erworben werden.
+
+Bestimmte von einem ISV identifizierte CSP-Partner können folgende Aktionen ausführen:
+
+- Erwerben exklusiver Angebote von diesem ISV über den kommerziellen Marketplace von Partner Center
 - Preisliste exportieren
 
 ## <a name="how-do-you-gain-access-to-exclusive-offers"></a>Wie erhalten Sie Zugriff auf exklusive Angebote?
 
-Wenn ein ISV ein Angebot im Marketplace veröffentlicht, können Sie angeben, wer es erwerben kann. 
+Wenn ein ISV ein Angebot im Marketplace veröffentlicht, können Sie angeben, wer es erwerben kann.
 
 Die Optionen lauten:
 
@@ -41,6 +44,8 @@ Die Optionen lauten:
 - Ermitteln der Partner, die kaufen können
 - Für CSP-Partner nicht verfügbar
 
-Weitere Informationen zur ISV-Benutzer Darstellung im Marketplace finden Sie unter [cloudlösungsanbieter](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
+## <a name="next-steps"></a>Nächste Schritte
 
-Weitere Informationen zum Marketplace finden Sie unter Übersicht über den [kommerziellen Marketplace für cloudlösungsanbieter](csp-commercial-marketplace-overview.md).
+- Weitere Informationen zur ISV-Benutzer Darstellung im kommerziellen Marketplace finden Sie unter [cloudlösungsanbieter](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
+
+- Weitere Informationen zum kommerziellen Marketplace finden Sie unter Übersicht über den [kommerziellen Marketplace für cloudlösungsanbieter](csp-commercial-marketplace-overview.md).

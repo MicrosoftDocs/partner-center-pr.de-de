@@ -1,19 +1,20 @@
 ---
-title: Migrieren von Abonnements für Office 365 E4 zu neueren Versionen von Office 365 | Partner Center
+title: Migrieren von Office 365 E4-Abonnements
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Die Enterprise E4-Edition von Microsoft Office 365 wurde am 7. April 2017 eingestellt. Hier erfahren Sie, wie Sie Ihre Kundenabonnements zu neueren Versionen von Office 365 migrieren.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 02d383172595e09a4ab0bf9c6db34862fcc17204
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: bd9f9effd501846934e1b0b2a86b654dfa14ebbe
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798876"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795759"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrieren von Abonnements für Office 365 E4 auf neuere Versionen von Office 365
 
@@ -32,7 +33,7 @@ Der Enterprise E4-Plan für Office 365 wurde am 7. April 2017 eingestellt. N
 Wenn E4-Abonnements enden, werden sie storniert. Zur Gewährleistung von Kontinuität für betroffene Kunden sollten Sie Kunden mit ablaufenden E4-Abonnements zu einer unterstützten SKU-Option (nachfolgend aufgeführt) migrieren. Wir empfehlen, Kunden vor dem jährlichen Enddatum des Abonnements in neue Abonnements zu verschieben, um Dienst Ausfälle für Kunden zu vermeiden. 
 
 > [!NOTE]  
->  Sowohl kommerzielle SKUs als auch Behörden-SKUs für Office 365 Enterprise E4 wurden eingestellt.
+> Sowohl kommerzielle SKUs als auch Behörden-SKUs für Office 365 Enterprise E4 wurden eingestellt.
  
 Auf der Detailseite des Abonnements wurde der E4-Abonnementstatus von „Datum der automatischen Verlängerung: [Datum]“ in „Gültig bis [Datum]“ geändert. 
 
@@ -56,13 +57,13 @@ Sie können wählen, ob die gleichen Funktionen wie in E4 bereitgestellt werden 
 | Funktion | Option 1: | Option 2: | Option 3 | Option 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
 | Alle in Office 365 Enterprise E4 enthaltenen Features verfügbar? | Ja | Ja | Ja | Nein |
-| Verwaltung von Telefonnummern in Office 365? | Ja | Ja | Nein | Nein  |
-| Verwaltung von Telefonnummern sowohl lokal als auch in Office 365 (Hybridbereitstellung)? | Ja | Ja | Nein | Nein  |
-| Option zum Hinzufügen eines PSTN-Sprachanrufplans? | Ja | Ja | Nein | Nein  |
-| PSTN-Konferenzen? | Ja | Nein | Nein  | Nein  |
-| Erweiterte Tools für Zusammenarbeit, Analysen und Sicherheit? | Ja | Nein | Nein  | Nein  |
-| Interaktive Berichte, Dashboards und Datenvisualisierungen? | Ja | Nein | Nein  | Nein  | 
-| Mehr Kontrolle über die Datensicherheit und Compliance mit integriertem Datenschutz, Transparenz und optimierten Benutzersteuerelementen? | Ja | Nein | Nein  | Nein  | 
+| Verwaltung von Telefonnummern in Office 365? | Ja | Ja | Nein | Nein |
+| Verwaltung von Telefonnummern sowohl lokal als auch in Office 365 (Hybridbereitstellung)? | Ja | Ja | Nein | Nein |
+| Option zum Hinzufügen eines PSTN-Sprachanrufplans? | Ja | Ja | Nein | Nein |
+| PSTN-Konferenzen? | Ja | Nein | Nein | Nein |
+| Erweiterte Tools für Zusammenarbeit, Analysen und Sicherheit? | Ja | Nein | Nein | Nein |
+| Interaktive Berichte, Dashboards und Datenvisualisierungen? | Ja | Nein | Nein | Nein | 
+| Mehr Kontrolle über die Datensicherheit und Compliance mit integriertem Datenschutz, Transparenz und optimierten Benutzersteuerelementen? | Ja | Nein | Nein | Nein | 
 
 ## <a name="transition-customers-to-new-product-plans"></a>Migrieren von Kunden zu neuen Produktplänen
 

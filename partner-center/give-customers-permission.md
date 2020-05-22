@@ -1,8 +1,8 @@
 ---
-title: Autorisieren von Kunden, eigene Dienste zu erwerben
-description: Erfahren Sie, wie CSP-Programmpartner Kunden ermöglichen können, eigene Dienste wie Azure-Reservierungen für ein für Sie erworbenes Abonnement zu erwerben.
+title: Kunden ermöglichen, eigene Dienste im CSP zu erwerben
+description: Erfahren Sie, wie CSP-Programmpartner Kunden ihre eigenen Dienste (z. b. Azure-Reservierungen) für ein Abonnement erwerben können, das Sie im Partner Center erworben haben.
 ms.topic: article
-ms.date: 05/13/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,14 +10,14 @@ ms.author: labrenne
 Keywords: Abonnement, Self-Service-Erwerb, Self-Service-RI, Aktivieren von RI, Deaktivieren von RI, Self-Service, Kunden Erwerb, Kunden Berechtigungen, reservierte Instanz des Kunden Kauf, Kunden Kauf Azure-Reservierungen, Self-Service aktivieren, Self-Service ausschalten
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07e362e80f6d57ca5d0d837160e5ddf04a5b1d65
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: d04f7aad779a6bf3be08b24f43da6abc4dfdac4d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394133"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795112"
 ---
-# <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>So erteilen Sie Kunden die Berechtigung zum erwerben ihrer eigenen Produkte oder Dienste
+# <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Erteilen Sie Kunden eine Berechtigung im Partner Center, um Ihre eigenen Produkte oder Dienste zu erwerben.
 
 **Zielgruppe**
 

@@ -1,28 +1,28 @@
 ---
-title: 'Partner Center Insights: Azure-Verwendungs Bericht | Partner Center'
+title: Azure-Verwendungs Bericht zu Partner Center Insights
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sehen Sie sich an, was Sie gut machen und wo Sie die Nutzung von Azure-Abonnements verbessern können, die Sie für Ihre Kunden verkaufen oder verwalten.
 ms.assetid: ''
 keywords: PCI, Leistung, Messungen, Kunden Erfolg, Azure-Nutzung, Abonnements, Analysen, Bericht
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: b07aaba9a22c74d52cd8f97f92edd7e0d4deb86a
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 08d8efe436f0a7d61a6f0c75e8171eb02a08120c
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648081"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795673"
 ---
-# <a name="azure-usage-report"></a>Azure-Verwendungs Bericht
+# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Azure-Verwendungs Bericht, der im Partner Center Insights-Dashboard verfügbar ist
 
 **Geeignete Rollen**
 - Globaler Administrator
-- Administratoragent
+- Administrator-Agent
 - Berichtanzeige
 - Executive Report Viewer
 
@@ -74,3 +74,7 @@ In dieser Ansicht werden die Trends für den Azure-Verbrauch im Monat und die Nu
 Das Balkendiagramm zeigt den monatlichen Umsatz/Nutzungsstunden-Trend. Das Liniendiagramm zeigt den Wachstumstrend im Vergleich zum vorherigen Monat für die ausgewählten Azure-Service Level-/Mess-Kategorien.
 
 ![Nutzung der Azure-Nutzung](images/pci/pci_azure_usage_utilization_3.png)
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- Weitere Berichte finden Sie unter [Partner Center Insights](partner-center-insights.md).

@@ -1,7 +1,7 @@
 ---
-title: Benutzerverwaltungsaufgaben für Kundenkonten | Partner Center
+title: Verwalten von Benutzern in Kundenkonten
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Benutzerkonten für einen Kunden erstellen, Benutzerlizenzen hinzufügen oder entfernen, Benutzer Kennwörter zurücksetzen, Benutzerkonten löschen oder wiederherstellen.
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: Kundenverwaltung, Konto, Konto erstellen, Lizenzen, Lizenz zuweisen Benutzerverwaltung, Kennwort, Kennwort zurücksetzen, Kennwort ändern
 ms.localizationpriority: medium
-ms.openlocfilehash: 15647d55b1e7a43ca78b2285808f8602dba80f41
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9fa251bb6211786df0e6255d0d8ce7a2310a52ad
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798618"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795036"
 ---
-# <a name="user-management-tasks-for-customer-accounts"></a>Benutzerverwaltungsaufgaben für Kundenkonten
+# <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>Benutzer Verwaltungsaufgaben für Kundenkonten im Partner Center
 
 **Zielgruppe**
 

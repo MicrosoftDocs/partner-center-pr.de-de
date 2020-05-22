@@ -1,24 +1,25 @@
 ---
-title: Die Kontostruktur in Partner Center | Partner Center
+title: Zwei Ebenen von MPN-Partnerkonten
 ms.topic: article
-ms.date: 01/16/2020
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie mehr über die beiden Konto Ebenen in Partner Center, das globale Partnerkonto (Partner Global Account, PGA) und das Partner Location Account (PLA).
+description: MPN-Partner können sich über die beiden Konto Ebenen in Partner Center, das globale Partnerkonto (Partner Global Account, PGA) und das Partner Location Account (PLA) informieren.
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 65693c6145c6510995badac757f88a982b9a94d5
-ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 32a43700b6644529ecc3d128110440649b4d3b99
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "76171196"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794988"
 ---
-# <a name="the-account-structure-in-partner-center"></a>Die Kontostruktur im Partner Center
+# <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center verfügt über zwei Konten für MPN-Partner.
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
 - MPN-Partner
@@ -26,7 +27,7 @@ ms.locfileid: "76171196"
 **Geeignete Rollen**
 
 - Kontoadministrator
-- Geschäftsprofiladministrator
+- Unternehmensprofiladministrator
 - Globaler Administrator
 - MPN-Partneradministrator
 

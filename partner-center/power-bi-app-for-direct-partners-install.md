@@ -1,20 +1,21 @@
 ---
-title: Installation und Vorschauversion der Partner Center Analytics-App für Microsoft Power BI | Partner Center
+title: Installieren von Partner Center Analytics für Power BI
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Führen Sie die folgenden Schritte aus, um die Partner Center Analytics-APP für Power BI (für direkte Partner in CSP) zu installieren und in der Vorschau anzuzeigen.
+description: Führen Sie die Schritte in diesem Artikel aus, um die Partner Center Analytics-APP für Power BI (für direkte Partner in CSP) zu installieren und in der Vorschau anzuzeigen.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cd328ce8afed02af377a94b40fcf75125b008d1f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e8a8558bad11f641737507f4d76405e9825df516
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004969"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795871"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installation und Vorschauversion der Partner Center Analytics-App für Microsoft Power BI
 
@@ -26,16 +27,16 @@ ms.locfileid: "75004969"
 -   Globaler Administrator
 -   Benutzeradministrator
 -   Vertriebsbeauftragter
--   Administratoragent
+-   Administrator-Agent
 
-## <a name="before-you-begin"></a>Vorbemerkungen
+## <a name="before-you-begin"></a>Vorbereitung
 
 Wählen Sie in der folgenden Liste verfügbarer Power BI-Apps die Anwendung aus, die für Ihr Unternehmen am relevantesten ist:
 - [Direktpartner](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
 
 - [Indirekter Partner](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
 
-- [Indirekter Wiederverkäufer](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+- [Indirekter Reseller](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
 
 Bevor Sie die Vorschauversion der Partner Center Analytics-App installieren, stellen Sie sicher, dass Sie die folgenden Anforderungen erfüllen.
 
@@ -51,7 +52,7 @@ Bevor Sie die Vorschauversion der Partner Center Analytics-App installieren, ste
 
 1. Starten Sie den [Installationsprozess](https://app.powerbi.com/getdata/services/partneranalytics?cpcode=PartnerCenterAnalytics&getDataForceConnect=true&alwaysPromptForContentProviderCreds=true).
 
-2. Wählen Sie unter **Sie haben bereits ein Konto?** **Anmelden** aus. 
+2. Wählen Sie unter **Sie haben bereits ein Konto?****Anmelden** aus. 
 
 3. Geben Sie auf der nächsten Seite den Benutzernamen und das Kennwort für Power BI und wählen Sie dann **Anmelden** aus. 
 

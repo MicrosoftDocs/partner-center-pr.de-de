@@ -1,22 +1,23 @@
 ---
-title: Leitfaden zum Migrieren mehrerer Unternehmen von PMC zu Partner Center
+title: Migrieren von Unternehmen von der PMC zu Partner Center
 ms.topic: article
-ms.date: 01/16/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Was Sie wissen sollten, wenn Sie Ihre verschiedenen Unternehmen von der PMC zu Partner Center migrieren und Sie in einem globalen Partnerkonto konsolidieren.
+description: Was Sie wissen sollten, wenn Sie mehrere Unternehmen aus dem Partner Mitgliedschafts Center (Partner Membership Center, PMC) zu Partner Center migrieren und in einem globalen Partnerkonto konsolidieren.
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: medium
-ms.openlocfilehash: 16aa2de0eab173c31c0efd5f94b6bab41b2c70d2
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b7efe2dbc0a616a4ccd46894faae56a81514d996
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362748"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795787"
 ---
-# <a name="moving-your-multiple-companies-to-partner-center"></a>Verschieben mehrerer Unternehmen zu Partner Center
+# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Verschieben mehrerer Unternehmen von Partner Membership Center (PMC) zum Partner Center
 
 **Geeignete Rollen**
 
@@ -51,7 +52,7 @@ Es werden Ihr bestehendes Konto und eine Notiz angezeigt, die Ihnen mitteilt, da
 
 Auf diesem Bildschirm werden Ihnen die Details des bestehenden Kontos (Name und Adresse), das bereits in Partner Center erstellt wurde, zusammen mit den Details des primären Kontakts angezeigt.
 
-Klicken Sie auf **Weiter**.
+Wählen Sie **Weiter**.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Was geschieht bei der Konsolidierung von Konten?
 

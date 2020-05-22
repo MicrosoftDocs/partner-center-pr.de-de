@@ -1,31 +1,31 @@
 ---
-title: Lizenz basierte Abrechnung | Partner Center
+title: Lizenzbasierte Abrechnung
 ms.topic: article
-ms.date: 11/21/2019
-Description: Informationen zur lizenzbasierten Abrechnung in Partner Center, bei der die Abrechnung pro Lizenz erfolgt (nicht nach Lizenz Verwendung).
+ms.date: 05/18/2020
+Description: Erfahren Sie, wie die Lizenz basierte Abrechnung von der nutzungsbasierten Abrechnung in Partner Center abweicht, einschließlich der Abrechnung pro Lizenz (nicht nach Lizenznutzung).
 author: LauraBrenner
 ms.author: labrenne
 keywords: Abrechnung, Zahlungen, Lizenz basiert, Lizenz
 ms.localizationpriority: medium
-ms.openlocfilehash: 7205d843c9eacbfe4ab1eb6975aa42f5609fb8be
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2de61f21f28a3ce343edc68035d836a74f98870d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798888"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795790"
 ---
-# <a name="license-based-billing"></a>Lizenzbasierte Abrechnung
+# <a name="license-based-billing-in-partner-center"></a>Lizenz basierte Abrechnung in Partner Center
 
 **Zielgruppe**
 
 - Partner Center
 - Partner im CSP-Programm
 
-**Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   Abrechnungsadministrator
--   Administrator-Agent
+**Geeignete Rollen** : globaler Administrator
+- Benutzeradministrator
+- Abrechnungsadministrator
+- Administrator-Agent
 
 Wenn Sie Produkte oder Onlinedienste in Partner Center kaufen, die **Lizenzen**benötigen, wird Ihnen *jede Lizenz* in Rechnung gestellt, die Sie erwerben. Diese Lizenzen werden Ihnen *nicht in Rechnung* gestellt. (Informationen zur nutzungsbasierten Abrechnung und anderen Abrechnungs Typen finden Sie unter Abrechnungs [Typen in Partner Center](billing-different-types.md).)
 
@@ -56,4 +56,14 @@ Wenn Sie ein Abonnement in Monaten 2-12 sperren, werden Sie auf anteilig abgerec
 
 ## <a name="license-renewal"></a>Lizenz Erneuerung
 
-Alle lizenzbasierten Abonnements werden 12 Monate nach der kostenpflichtigen Laufzeit automatisch verlängert.
+Alle lizenzbasierten Abonnements werden 12 Monate nach dem Zahlungspflichtigen Termin automatisch in den Tarif eingeteilt.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Übersicht über die Abrechnung im Partner Center](billing-basics.md)
+
+- [Abrechnungsarten in Partner Center](billing-different-types.md)
+
+- [Unterschiede zwischen monatlicher und jährlicher Abrechnung](billing-annual-monthly.md)
+
+- [Hauptartikel zu Abrechnung und Steuer Artikeln](billing.md)

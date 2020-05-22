@@ -1,28 +1,28 @@
 ---
-title: Partner Center Insights-Bericht zu Produkt Abonnements | Partner Center
+title: Bericht über Partner Center Insights-Abonnements
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sehen Sie sich an, was Sie gut machen und wo Sie die cloudabonnements verbessern können, die Sie für Ihre Kunden verkaufen oder verwalten.
 ms.assetid: ''
 keywords: PCI, Leistung, Messungen, Kunden Erfolg, cloudabonnements, Analysen, Bericht
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7c2621130c9eef99f09f062f9bf38c48c8dcb4b6
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648051"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795911"
 ---
-# <a name="product-subscriptions-report"></a>Bericht zu Produkt Abonnements
+# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Bericht "Produkt Abonnements" im Partner Center Insights-Dashboard verfügbar
 
 **Geeignete Rollen**
 - Globaler Administrator
-- Administratoragent
+- Administrator-Agent
 - Berichtanzeige
 - Executive Report Viewer
 
@@ -94,7 +94,7 @@ Diese Ansicht zeigt eine Aufschlüsselung Ihrer aktuellen Abonnements durch ihre
 
 **Verteilung des Abonnement Status**
 
-Diese Ansicht zeigt die Verteilung Ihrer aktuellen Kunden Abonnements nach Abonnement Zustand oder-Status. Dies schließt die folgenden Abonnement Zustände ein: **aktiv**, deaktiviert **, bereitgestellt,** **offen**, **ingraceperiod**, **Closed**und **andere**.
+Diese Ansicht zeigt die Verteilung Ihrer aktuellen Kunden Abonnements nach Abonnement Zustand oder-Status. Dies schließt die folgenden Abonnement Zustände ein: **aktiv**, deaktiviert **, bereitgestellt,** **offen**, **ingraceperiod**, **Closed**und **andere**. **Disabled**
 
 ![Verteilung des Abonnement Status](images/pci/pci_sub_report_sub_states_5.png)
 
@@ -108,3 +108,7 @@ In den beiden Kreis Diagrammen wird eine Aufschlüsselung Ihrer aktuellen Kunden
 
 > [!NOTE]
  > Die von SKUs aufgeschlüsselt Abonnement Anzahl entspricht möglicherweise nicht immer der Gesamtanzahl der Abonnements für dieses Produkt. Dies kann vorkommen, wenn ein Kunde mehrere SKUs im gleichen Produkt Abonnement gekauft hat.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- Weitere Berichte finden Sie unter [Partner Center Insights](partner-center-insights.md).

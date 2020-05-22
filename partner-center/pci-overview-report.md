@@ -1,24 +1,24 @@
 ---
-title: Übersicht über das Partner Center Insights-Dashboard | Partner Center
+title: Übersicht über das Übersicht über Partner Center Insights
 ms.topic: article
-ms.date: 12/27/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sehen Sie genau, was Sie tun und wo Sie Ihre Vertriebs-und Bereitstellungs Funktionen sowie die Kunden Entwicklung verbessern können.
+description: Sehen Sie sich eine Momentaufnahme der Verwendung von Vertrieb und Bereitstellung, Kundenwachstum und Umsatzwachstum mit Lizenzen, Abonnements und Azure-Verbrauch an.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, Leistung, Kunden Erfolg, Messungen
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 420fb8e6bd7fefcd360dcd0b98bd4885f4d9da38
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43198aa65b127bb1e22146006f54d19588b58940
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631871"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795700"
 ---
-# <a name="overview-dashboard-reports"></a>Übersicht über Dashboardberichte 
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Übersicht über Dashboardberichte in Partner Center Insights
  
 Das Dashboard Übersicht über Partner Center bietet eine Momentaufnahme Ansicht der wichtigsten Leistungsindikatoren, z. b. Kunden, Abonnements, Azure-Verbrauchs Umsätze, Lizenzen usw. Sie können die folgenden Diagramme im Übersichtsbericht visualisieren. 
 
@@ -83,6 +83,6 @@ Trend der Lizenzen, die während des ausgewählten Datums Bereichs von allen Kun
 
 ![Lizenzen](images/pci/licensesgrowth.png)
 
-### <a name="learn-more"></a>Mehr erfahren
+## <a name="next-steps"></a>Nächste Schritte
 
-Weitere Informationen zu Dashboards und Berichten für Partner Center Insights finden Sie unter [Partner Center Insights](partner-center-insights.md) .
+- Weitere Berichte finden Sie unter [Partner Center Insights](partner-center-insights.md).

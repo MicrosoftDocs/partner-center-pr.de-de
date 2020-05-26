@@ -83,6 +83,9 @@
 ### [Verwalten von Geschäftsprofilen](create-a-marketing-profile.md)
 ### [Verwalten von Leads](manage-leads.md)
 ### [Co-Selling-Verkaufschancen](manage-co-sell-opportunities.md)
+### [Der Co-Selling-Connector für Dynamics 365 CRM](dynamics-connector.md)
+### [Der Co-Selling-Connector für Salesforce CRM](salesforce-connector.md)
+### [Registrieren für Ressourcenänderungsereignisse in Empfehlungen mithilfe von Webhook-APIs](referral-connector-webhooks.md)
 ### [Registrieren von Abschlüssen](register-deals.md)
 ### [Abrufen von Empfehlungsdaten](referral-insights.md)
 ### [Analysieren des Geschäftsprofils](analyze-your-marketing-profile.md)
@@ -123,7 +126,7 @@
 ## [Erstellen mehrerer Benutzer für einen Kunden](adding-multiple-users-to-a-customer-account.md)
 ## [Zuweisen von Supportkontakten](assign-support-contacts.md)
 
-# [CSP-Angebote](csp-offers.md) 
+# [CSP-Angebote](csp-offers.md)
 ## Kommerzieller Marketplace
 ### [Übersicht über den kommerziellen Marketplace](csp-commercial-marketplace-overview.md)
 ### [Marketplace-Angebote: Entdecken](csp-commercial-marketplace-discover.md)

@@ -1,33 +1,35 @@
 ---
-title: Abrechnung für einmalige Abrechnung und Auswahl von wiederkehrenden Gebühren | Partner Center
+title: Abrechnung-einmalige & auswählen von wiederkehrenden Gebühren
 ms.topic: article
-ms.date: 11/21/2019
-Description: Informationen zur einmaligen Abrechnung im Voraus für einen voreingestellten Begriff (monatliche und jährliche Abonnements) sowie zur Abrechnung für wiederkehrende Kosten für die wiederholte Auswahl (für anwendbare ISV-Produkte von Microsoft und Drittanbietern) im Partner Center.
+ms.date: 05/26/2020
+Description: Erfahren Sie mehr über die Abrechnung mit dem Partner Center, wie bei einmaliger Abrechnung im Voraus für vordefinierte Nutzungsbedingungen und Abrechnung für ausgewählte, wiederkehrende Gebühren.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Abrechnung, einmalig, wiederholt, Käufe, Gebühren, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: e373e792692e1e5dcec183c79b36ae2c55c92954
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5194df5463be52872c32720edb67914fe7df7360
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798778"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998426"
 ---
-#  <a name="billing-for-one-time-and-select-recurring-charges"></a>Abrechnung für einmalige und ausgewählte wiederkehrende Gebühren
+# <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>Abrechnung für einmal und Auswählen von wiederkehrenden Gebühren im Partner Center
+
 
 **Zielgruppe**
 - Partner Center
 - Partner im CSP-Programm
 
 **Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   Abrechnungsadministrator
--   Administrator-Agent
--   Vertriebsbeauftragter
+- Globaler Administrator
+- Benutzeradministrator
+- Abrechnungsadministrator
+- Administrator-Agent
+- Vertriebsbeauftragter
 
-In diesem Thema werden die Abrechnungsmöglichkeiten **einmalig beschrieben und die wiederkehrenden Gebühren** für Microsoft-und Drittanbieter-ISV-Produkte (Independent Software Vendor) ausgewählt. 
+In diesem Artikel werden die Abrechnungsmöglichkeiten **einmalig beschrieben und die wiederkehrenden Gebühren** für Microsoft-und Drittanbieter-ISV-Produkte (Independent Software Vendor) ausgewählt. 
 
 Die **einmalige Abrechnung** erfolgt, wenn Sie Software Abonnements und Azure-Reservierungen im Voraus für einen vordefinierten Begriff erwerben. Sie können ein Jahr oder drei Jahre erwerben. Ihnen werden dann die Gesamtkosten in einer einmaligen Pauschal Summe in Rechnung gestellt.
 

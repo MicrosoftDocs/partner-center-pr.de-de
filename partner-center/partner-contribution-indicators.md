@@ -1,39 +1,39 @@
 ---
-title: Partnerbeitragsindikatoren | Partner Center
+title: Partnerbeitragsindikatoren
 ms.topic: article
-ms.date: 04/03/2020
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Daten, die zeigen, wie dein Unternehmen in Bezug auf Dynamics 365 Customer Engagement oder Dynamics 365 Finance and Operations abschneidet.
+description: Partner Beitrags Indikatoren (PCI) zeigen, wie Sie mit Dynamics 365 Customer Engagement oder Dynamics 365 Finance und Operations arbeiten.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, Leistung, Kundenerfolg, Messungen, Dynamics 365
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 38afc73a347d2a356f4786abfe1f85bdb2289dd9
-ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 502d15f3e41635dc0b4ff97aca47742ab611148a
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "80676867"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998386"
 ---
-# <a name="partner-contribution-indicators"></a>Partnerbeitragsindikatoren
+# <a name="partner-contribution-indicators-pci---shows-partner-impact-on-key-measures-of-customer-success"></a>Partner Beitrags Indikatoren (PCI): zeigt die Auswirkungen von Partnern auf wichtige Measures des Kunden Erfolgs an
 
-Partner Beitrags Indikatoren (Partner Beitrags Indikatoren, PCI) bieten ein ganzheitliches Maß für die Auswirkung eines Partners auf das fördern erfolgreicher Kunden Ergebnisse und somit eine bessere Differenzierung auf dem Markt, wenn ein Partner die Cloud-Business Applications Kompetenz erhält und beibehält. . Partner erhalten eine Gutschrift für wichtige Measures des Erfolgs von Kunden, z. b. erfolgreiche bereit Stellungen und höhere Nutzung. Außerdem werden Sie dazu belohnt, dass Sie Ihre technischen Funktionen weiterhin nutzen und horizontal hochskalieren können.
+Partner Beitrags Indikatoren (Partner Beitrags Indikatoren, PCI) bieten ein ganzheitliches Maß für die Auswirkung eines Partners auf das fördern erfolgreicher Kunden Ergebnisse und somit eine bessere Differenzierung im Markt, wenn ein Partner die Cloud-Business Applications Kompetenz erhält und beibehält. Partner erhalten eine Gutschrift für wichtige Measures des Erfolgs von Kunden, z. b. erfolgreiche bereit Stellungen und höhere Nutzung. Außerdem werden Sie dazu belohnt, dass Sie Ihre technischen Funktionen weiterhin nutzen und horizontal hochskalieren können.
 
 
 ## <a name="scoring"></a>Bewertung
 
 PCI bietet einen ausgereiften Überblick über die technischen Funktionen eines Partners, seine Fähigkeit, den Erfolg von Kunden und Ihre Vertriebs Leistung zu steigern. PCI misst die vorherige Jahresleistung Ihres Unternehmens in sieben wichtigen Indikatoren:
 
-1. **Netto neuer Umsatz** – Netto neuer Umsatz über alle Vertriebskanäle für Microsoft Dynamics 365-Produkte hinweg.
-2. **Net Customer fügt** – net-Kunden, die für Dynamics 365 erworben wurden, über alle Vertriebskanäle hinweg hinzu.
-3. **Funktions Berater** – die Anzahl der Personen, die einen derzeit aktiven funktionalen Berater haben, ordnet die Zertifizierung für Dynamics 365 zu. 
-4. **Wachstum des funktionalen Beraters** – Zunahme der Anzahl der funktionalen Berater Zuordnungen.  Die baselinemomentaufnahme für die Wachstums Metrik des funktionalen Beraters in PCI wird jetzt am 1. Oktober 2020 übernommen.  
-5. **Entwickler** – Anzahl der Personen, die einen derzeit aktiven Entwickler haben, weisen die Zertifizierung für Dynamics 365 zu.
-6. **Neue große bereit Stellungen** – Anzahl der Produktions Mandanten, die in den letzten 12 Monaten den Schwellenwert für hohe Auslastung überschreiten.
-7. **Monatliches aktives Benutzer Wachstum** – Wachstum in monatlich aktiven Benutzern für alle Kunden in den letzten 12 Monaten.
+1. **Netto neuer Umsatz**: Netto neuer Umsatz über alle Vertriebskanäle für Microsoft Dynamics 365-Produkte.
+2. **Net Customer Adds**: net-Kunden, die für Dynamics 365 über alle Vertriebskanäle erworben wurden.
+3. **Funktionale Berater**: die Anzahl der Personen, die einen derzeit aktiven funktionalen Berater haben, ordnet die Zertifizierung für Dynamics 365 zu. 
+4. **Wachstum des funktionalen Beraters**: Zunahme der Anzahl der funktionalen Berater Zuordnungen.  Die baselinemomentaufnahme für die Wachstums Metrik des funktionalen Beraters in PCI wird jetzt am 1. Oktober 2020 übernommen.  
+5. **Entwickler**: die Anzahl der Personen, die einen derzeit aktiven Entwickler haben, ordnet die Zertifizierung für Dynamics 365 zu.
+6. **Neue große bereit Stellungen**: Anzahl der Produktions Mandanten, die in den letzten 12 Monaten den Schwellenwert für hohe Auslastung überschreiten.
+7. **Monatliches aktives Benutzer Wachstum**: Wachstum in monatlich aktiven Benutzern für alle Kunden in den letzten 12 Monaten.
 
 Für jeden erreichten Indikator werden Punkte gewährt, was zu einer PCI-Bewertung mit einer einzelnen Zahl führt. 100 es sind maximal zulässige Punkte möglich. PCI-Bewertung bestimmt die Berechtigungs Berechtigung:
 
@@ -49,7 +49,7 @@ Jede PCI-Metrik weist von Microsoft festgelegte Schwellenwerte auf, mit denen de
 
 Die Punkte in den einzelnen Metriken sind so fest, dass Sie eine eindeutige PCI-Bewertung für Kunden Engagement und Finanz & Vorgänge ergeben, die monatlich aktualisiert werden.
 
-Partner können die maximale Punktzahl für eine Metrik erzielen, wenn sie die unten angegebenen Schwellenwerte erreichen oder übertreffen. Partielle Punkte können für alle Metriken erzielt werden, außer für das Wachstum des funktionalen Beraters. Beispiel: ein entwickelter Marktpartner mit $150.000-Dollar im Nettoumsatz erzielt eine Hälfte ($ 150.000/$ 300000) der maximalen 10 pts. 
+Partner können die maximale Punktzahl für eine Metrik erzielen, wenn sie die unten angegebenen Schwellenwerte erreichen oder übertreffen. Partielle Punkte können für alle Metriken erzielt werden, außer für das Wachstum des funktionalen Beraters. Beispielsweise wird bei einem entwickelten Marktpartner mit $150.000-Dollar im Nettoumsatz die Hälfte ($ 150.000/$ 300000) der maximalen 10 PTS erzielt. 
 
 ![Kundenengagement](images/pci/custengagethresh.png)
 
@@ -90,10 +90,6 @@ Wenn für ein bestimmtes Abonnement sowohl cpor als auch dpor vorhanden sind, er
 
 ![Erläuterung zum Diagramm](images/pci/howto.png)
 
-## <a name="additional-resources"></a>Weitere Ressourcen
+## <a name="additional-resources"></a>Zusätzliche Ressourcen
 
-Besuchen Sie die [Ressourcensammlung Partner Beitrags Indikatoren](https://aka.ms/pcilearn) , in der Sie ausführliche Schulungsvideos, Präsentationen, FAQs und Faktenblätter finden können. 
-
-
-
-
+Besuchen Sie die [Ressourcensammlung Partner Beitrags Indikatoren](https://aka.ms/pcilearn) , in der Sie ausführliche Schulungsvideos, Präsentationen, FAQs und Faktenblätter finden können.

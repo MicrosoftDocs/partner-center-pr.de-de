@@ -1,22 +1,22 @@
 ---
-title: Verwalten von Nichtzahlung, Betrug oder Missbrauch | Partner Center
+title: Verwalten von Nichtbezahlung, Betrug oder Missbrauch
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Es ist wichtig, dass Sie sich mit den verschiedenen Arten von Risiken befassen, die bei Online Transaktionen und bewährten Methoden für die Verwaltung und Minimierung dieser Risiken entstehen.
+description: Es ist wichtig, dass Sie sich mit den verschiedenen Risiken von Online Transaktionen und den bewährten Methoden zum Verwalten und mindern dieser Risiken vertraut machen.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: Betrug, Missbrauch, akzeptable Nutzung, Nutzungsrichtlinie, Nichtzahlung, Kunde bezahlt die Rechnung nicht, Onlinerisiko, Diebstahl von Diensten, Dienstmissbrauch, Abonnements aussetzen
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 24a6d636ec4b0fb8aecc158f4750e471f1ca1a3a
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798798"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998446"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Verwalten von Nichtzahlung, Betrug oder Missbrauch im Partner Center
 
@@ -26,10 +26,10 @@ Gilt für:
 - Partner Center für Microsoft Cloud for US Government
 
 **Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   Administrator-Agent
--   Abrechnungsadministrator
+- Globaler Administrator
+- Benutzeradministrator
+- Administrator-Agent
+- Abrechnungsadministrator
 
 Sie sind finanziell verantwortlich für betrügerische Einkäufe Ihrer Kunden und/oder für die Nichtzahlung von gekauften Dienstleistungen durch Ihre Kunden. Daher wird *dringend empfohlen, dass Sie die Verhinderung von Betrugsschutz-und Erkennungs Risiken durchsetzen*.
 
@@ -78,7 +78,7 @@ Vorschläge zum Verringern von Online Risiken beim Onboarding von neuen Kunden:
 
 - Richten Sie nach Möglichkeit persönliche Beziehungen mit Kunden ein (z. b. kontaktieren von Kunden per Telefon).
 - Überprüfen Sie die Anmelde Informationen und den Hintergrund der Kunden durch bessere Methoden (z. b. durch die Verwendung von Gutschriften oder Geschäfts kommerziellen Berichten).
-- Verwenden Sie die Multi-Factor Authentication (z. b. die SMS-Überprüfung) während der Registrierung, um das Risiko für die Einrichtung und den Einkauf von Robotern zu minimieren
+- Verwenden Sie die Multi-Factor Authentication (z. b. die SMS-Überprüfung) während der Registrierung, um das Risiko für die Erstellung und den Einkauf von Robotor
 - Verwalten und Nachverfolgen von Identitäten mithilfe von Diensten (z. b. digitalen Identitäts Diensten).
 - Bewerten Sie die Finanzstärke von Kunden durch strenge Kreditkarten-Betrugs Erkennungssysteme.
 - Richten Sie eine Richtlinie zum Löschen von Sammlungen ein Beschreiben Sie den Prozess ihrer Sammlungen, und wenn der Zugriff auf Abonnements durch eine Nichtzahlung beeinträchtigt wird. (Sie können den Zugriff auf [die Abonnements eines Kunden für eine](suspend-a-subscription.md) Nichtzahlung deaktivieren oder diese Sperren.)

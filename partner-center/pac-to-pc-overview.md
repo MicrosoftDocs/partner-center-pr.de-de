@@ -1,7 +1,7 @@
 ---
-title: Vorbereiten der Umstellung vom Admin Center für Partner auf Partner Center | Partner Center
+title: Wechseln vom Partner Admin Center
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Die Funktionen des Office 365 Admin Center für Partner werden in Partner Center verschoben.
@@ -9,27 +9,28 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC, Office 365 Advisor, Advisor, Syndication-Partner, PAC Einstellen, PAC Ausmusterung
 ms.localizationpriority: medium
-ms.openlocfilehash: 214ae5d353449c82a7b1ba03a793d06359e28a0a
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8198cc954c3d129394af1154387b81e25e24e294
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123319"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998406"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Umstellung vom Admin Center für Partner auf Partner Center
 
-**Gilt für:**
+**Zielgruppe**
 
--  Partner Center
+- Partner Center
 
 **Geeignete Rollen**
--    Globaler Administrator
--    Benutzeradministrator
--    Administratoragent
--    Vertriebsbeauftragter
+- Globaler Administrator
+- Benutzeradministrator
+- Administrator-Agent
+- Vertriebsbeauftragter
 
 > [!NOTE]  
->  Alle Datumsangaben wurden seit der ersten Veröffentlichung dieses Artikels aktualisiert.
+> Alle Datumsangaben wurden seit der ersten Veröffentlichung dieses Artikels aktualisiert.
 
 Das Office 365 Admin Center für Partner (PAC) wird in Microsoft Partner Center verschoben.
 

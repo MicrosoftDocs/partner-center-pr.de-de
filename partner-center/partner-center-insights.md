@@ -1,38 +1,38 @@
 ---
-title: Partner Center Insights | Partner Center
+title: Partner Center-Einblicke
 ms.topic: article
-ms.date: 12/27/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sehen Sie genau, was Sie tun und wo Sie Ihre Vertriebs-und Bereitstellungs Funktionen sowie die Kunden Entwicklung verbessern können.
+description: Erkunden Sie dieses Partner Center Unified Reporting-Dashboard. Sehen Sie sich an, wie Sie in KPIs für Vertrieb und Bereitstellung, Kunden Entwicklung und vieles mehr tun.
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, Leistung, Kunden Erfolg, Messungen, Bericht Erstellungs Daten
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 679b706f43dcf1f54adcc1751c3c95c083bf2fba
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c41433019716f315592fe9d15850364835c4edfb
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631881"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998323"
 ---
-# <a name="partner-center-insights"></a>Einblicke in Partner Center
+# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights: ein Dashboard, das zeigt, wie ein kommerzieller Partner von Microsoft ist
 
 **Geeignete Rollen**
 - Globaler Administrator
 - Kontoadministrator
-- Executive Report Viewer
+- Bericht-Viewer für leitende Mitarbeiter
 - Berichts-Viewer
 
 ## <a name="introduction"></a>Einführung
 
-Insights ist ein einheitliches Berichterstattungs Dashboard im Partner Center für die kommerziellen Partner von Microsoft, die beim Microsoft Partner Network-Programm (MPN) registriert sind. Das Insights-Dashboard bietet eine 360-fach Ansicht Ihrer Key Performance Indicator (KPI) für cloudprodukte wie Office, Azure, Dynamics und Lizenzierungsmodelle wie CSP und EA. Es stellt einen umfangreichen Satz von KPI-Berichten zur Verfügung, mit denen Sie datengestützte Entscheidungen für Ihre Organisation treffen können. 
+Insights ist ein einheitliches Berichterstattungs Dashboard im Partner Center für die kommerziellen Partner von Microsoft, die beim Microsoft Partner Network-Programm (MPN) registriert sind. Das Insights-Dashboard bietet eine 360-stufige Ansicht Ihrer Key Performance Indicator (KPI) für cloudprodukte wie Office, Azure, Dynamics und Lizenzierungsmodelle wie CSP und EA. Es stellt einen umfangreichen Satz von KPI-Berichten zur Verfügung, mit denen Sie datengestützte Entscheidungen für Ihre Organisation treffen können. 
 
-## <a name="roles-based-access-control-to-the-insights-dashboard"></a>Rollenbasierte Zugriffs Steuerung für das Insights-Dashboard
+## <a name="role-based-access-control-to-the-insights-dashboard"></a>Rollenbasierte Zugriffs Steuerung für das Insights-Dashboard
 
-Es gibt zwei neue Rollen in Partner Center, die speziell für den Zugriff auf Insights-Report Viewer und die Executive Report Viewer konzipiert wurden.  Benutzer in der Rolle "Executive Report Viewer" haben Zugriff auf alle Berichts Datasets, während Benutzer in der Rolle "Berichts-Viewer" keinen Zugriff auf sensible Datasets haben, wie z. b. Umsatz und persönliche Daten von Kunden und Mitarbeitern. 
+Es gibt zwei neue Rollen in Partner Center, die speziell für den Zugriff auf Einblicke konzipiert sind: **Berichts-Viewer** und **Executive Report Viewer**. Benutzer in der Rolle "Executive Report Viewer" haben Zugriff auf alle Berichterstattungs Datasets, während Benutzer in der Rolle "Berichts-Viewer" keinen Zugriff auf sensible Datasets wie z. b. Umsatz und persönliche Daten von Kunden/Mitarbeitern haben. 
 
 Der globale Administrator oder der Konto Administrator kann Benutzern diese Rollen zuweisen und entweder für das gesamte Unternehmen oder für einen bestimmten MPN-Speicherort zugewiesen werden.  
 
@@ -43,21 +43,21 @@ Der globale Administrator oder der Konto Administrator kann Benutzern diese Roll
 
 Die folgenden Berichte sind als Teil des Insights-Dashboards verfügbar.
 
-**Übersicht**    Der Bericht "Übersicht" enthält eine Momentaufnahme Ansicht verschiedener KPIs, die für Sie von Interesse sind, wie z. b. die Anzahl der Kunden, die Anzahl aktiver Abonnements, der Azure-Verbrauchs Umsatz
+**Übersicht**: der Übersichtsbericht enthält eine Momentaufnahme Ansicht verschiedener KPIs, die für Sie von Interesse sind, wie z. b. die Anzahl der Kunden, die Anzahl aktiver Abonnements, der Azure-Umsatz, aktive Lizenzen usw.
 
-**Kunde** Der Kundenbericht bietet Analysen für Ihre Kunden, z. b. Kunden Erwerbs Daten, aktive Kunden usw. 
+**Kunde**: der Kundenbericht präsentiert Analysen für Ihre Kunden, z. b. Kunden Erwerbs Daten, aktive Kunden usw.
 
-**Produkt-Abonnements**     Der Bericht "Abonnements" enthält Informationen zur Erfassung und Nutzung ihrer cloudabonnements (z. b. O365, Azure, Dynamics usw.) 
+**Product-Abonnements**: der Bericht "Abonnements" enthält Informationen zur Erfassung und Nutzung ihrer cloudabonnements (z. b. O365, Azure, Dynamics usw.).
 
-**Produktlizenzen**   Das Dashboard "Lizenzen" enthält Lizenz Analysen für Lizenz basierte cloudprodukte wie O365, Dynamics, Power BI usw.
+**Product-licenses**: das Dashboard "Lizenzen" zeigt Lizenz Analysen für Lizenz basierte cloudprodukte wie z. b. O365, Dynamics, Power BI usw.
 
-**Produkt: Azure-Nutzung**   Der Azure-Verwendungs Bericht zeigt Metriken im Zusammenhang mit den Azure-Abonnements ihrer Kunden an, einschließlich Azure-Verbrauch und Nutzung nach Abrechnungs Kategorien.
+**Produkt-Azure-Nutzung**: der Azure-Verwendungs Bericht zeigt Metriken zu den Azure-Abonnements ihrer Kunden an, einschließlich Azure-Verbrauchs Umsatz und-Nutzung nach Abrechnungs Kategorien.
 
-**Kompetenzen**    Der Bericht "Zuständigkeiten" stellt Metriken zu ihren aktiven, qualifizierten und risikoreichen Kompetenzen dar.
+**Kompetenzen**: der Bericht "Kompetenzen" stellt Metriken zu ihren aktiven, qualifizierten und risikoreichen Kompetenzen dar.
 
-**Vorteile**    In den Vorteilen von Berichten werden Analysen zu den Vorteilen von Partnern präsentiert, die Sie erworben haben.
+**Vorteile**: der Bericht "Vorteile" stellt Analysen zu den Vorteilen von Partnern dar, die Sie erworben haben, und die
 
-## <a name="navigating-the-insights-reports"></a>Navigieren in den Insights-Berichten 
+## <a name="navigating-the-insights-reports"></a>Navigieren in den Insights-Berichten
 
 **Datums Bereichs Filter**: Sie können eine Datums Bereichsauswahl in der oberen rechten Ecke jeder Seite finden. Die Ausgabe der Diagramme für die Übersichtsseite kann angepasst werden, indem Sie einen Datumsbereich auswählen, der auf den letzten 3, 6 oder 12 Monaten basiert, oder indem Sie einen benutzerdefinierten Datumsbereich auswählen. Die Standardauswahl für Datumsbereiche beträgt 12 Monate. 
 
@@ -76,25 +76,27 @@ Die folgenden Berichte sind als Teil des Insights-Dashboards verfügbar.
 
 ![Filter](images/pci/filters.png)
 
- ### <a name="filters-definitions"></a>Filter Definitionen:
+### <a name="filters-definitions"></a>Filter Definitionen:
 
 - Produkte: Liste aller von Ihrer Organisation verkauften/verwalteten Microsoft Cloud Produkte, z. b. O365, Azure, D365, EMS, Power BI usw.
 - Kunden Märkte: Liste der Kundenländer
 - Partner Zuordnungen: Ihr Zuordnungstyp mit ihren Kunden Abonnements, z. b. Digital Partner of Record (dpor), delegierte Administrator Berechtigung (DAP), Partner admin Link (PAL) usw. 
-- Partner Standorte: Liste aller MPN-Standorte Ihrer Organisation. 
+- Partner Standorte: Liste aller MPN-Standorte Ihrer Organisation.
 - Vertriebskanäle: alle Vertriebskanäle/Preise, mit denen Sie Produkte und Dienste kaufen bzw. bereitstellen, nämlich CSP, EA, CSP indirekt, direkt, Advisor, offen, andere
 - Kundensegmente: Liste der Kundensegmente der Partner Kundenbasis.
 
 ## <a name="read-about-each-of-the-dashboards-and-reports"></a>Informieren Sie sich über die einzelnen Dashboards und Berichte:
 
-- [Übersicht über das Partner Center Insights-Dashboard](pci-overview-report.md) 
+- [Übersicht über das Partner Center Insights-Dashboard](pci-overview-report.md)
 
-- [Partner Center Insights: Kunden Dashboard](pci-customer-report.md) 
+- [Partner Center-Einblicke – Dashboard „Kunde“](pci-customer-report.md)
 
-Product-Abonnements Dashboard Product-licenses Dashboard Product-Azure Usage Dashboard-Kompetenz Vorteile 
+- [Bericht "Partner Center Insights-Abonnements"](pci-product-subscriptions-report.md)
 
+- [Partner Center Insights-Bericht "Lizenzen"](pci-product-licenses-report.md)
 
+- [Partner Center Insights: Azure-Verwendungs Bericht](pci-azure-usage-report.md)
 
+- [Partner Center-Einblicke – Bericht „Kompetenzen“](pci-competencies-report.md)
 
-
-
+- [Partner Center-Einblicke – Bericht „Vorteile“](pci-benefits-report.md)

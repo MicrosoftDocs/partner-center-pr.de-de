@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Verweise, webhook-API, Ressourcen Änderungs Ereignisse
 ms.localizationpriority: medium
-ms.openlocfilehash: a141776f1b591ebe41bb740051802b4b55cf36f0
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 4e1eb2e9bd8ceb4f8c4bf43684305504c8594e5c
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796206"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145084"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Verwenden von webhook-APIs zum Registrieren für Ressourcen Änderungs Ereignisse
 
@@ -142,7 +142,7 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
 1. Verweis Synchronisierung, wenn der Verweis in CRM erstellt oder aktualisiert und in Partner Center synchronisiert wird:
 
-    a. Melden Sie sich bei ihrer Dynamics 365 CRM-Umgebung oder Salesforce CRM-Umgebung mit einem Benutzer an, der im Bereich "Verkaufs **Chancen** " von CRM Einblick hat.
+    a. Melden Sie sich bei ihrer Dynamics 365 CRM-Umgebung mit einem Benutzer an, der im Bereich "Verkaufs **Chancen** " von CRM Einblick hat.
 
     b. Stellen Sie sicher, dass der folgende Abschnitt vorhanden ist, wenn Sie eine "neue Verkaufschance" in der Dynamics 365-Umgebung erstellen.
 

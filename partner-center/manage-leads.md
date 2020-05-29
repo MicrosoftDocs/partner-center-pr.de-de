@@ -1,23 +1,23 @@
 ---
-title: Verwalten von Leads
+title: Leads verwalten | Partner Center
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 04/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Verwenden Sie Partner Center, um auf Verweise zu Antworten und neue, vorhandene und archivierte Leads und Verweise zu verwalten. Erfahren Sie außerdem, wie Sie in Zukunft weitere Verweise erhalten.
-author: LauraBrenner
-ms.author: labrenne
+description: Erfahren Sie, wie Sie auf Verweise reagieren, neue, vorhandene und archivierte Verweise verwalten und Weitere Verweise in Zukunft erhalten.
+author: vikramb
+ms.author: vikramb
 keywords: Referenz, Co-Selling, Deal
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.custom: seodec18
+ms.openlocfilehash: 04a2e640eee404f88b34bc2c44b1fcba475d9da0
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796023"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145064"
 ---
-# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Verwalten verschiedener Leads wie Kundenanfragen, Marketing qualifizierter Leads und Vertriebs qualifizierter Leads
+# <a name="manage-leads"></a>Leads verwalten
 
 **Zielgruppe**
 
@@ -87,8 +87,19 @@ Dies ist eine Terminalphase, in der alle Verkaufschancen letztendlich erreicht w
 Hier finden Sie einige Tipps, die Ihnen helfen, geeignetere Verweise zu erhalten:
 
 - **Wählen Sie in Ihrem [Unternehmensprofil](https://docs.microsoft.com/partner-center/create-a-marketing-profile) Schlüsselwörter und Einstellungen aus, die Ihr einzigartiges Expertenwissen und Geschäftsmodell darstellen**. Entfernen Sie Schlüsselwörter, die Verweise generieren, für die Sie nicht interessiert sind. Wenn Sie nicht an Unternehmen mit einer bestimmten Größe interessiert sind, sollten Sie diese Einstellung aktualisieren.
-- **Überprüfen Sie Ihre Kontaktinformationen in Ihrem [Geschäftsprofil](https://docs.microsoft.com/partner-center/create-a-marketing-profile) für jeden Standort** , um sicherzustellen, dass Ihr Team eingehende Warnungen erhält.
+
+- **Überprüfen Sie Ihre Kontaktinformationen in Ihrem [Geschäftsprofil](https://docs.microsoft.com/partner-center/create-a-marketing-profile) für jeden Standort** . Stellen Sie sicher, dass Ihr Team eingehende Warnungen erhält.
+
 - **Schnelle Reaktion auf Verweise** Wenn Sie rechtzeitig auf eingehende Anforderungen reagieren, erhöhen wir Ihre Sichtbarkeit in zukünftigen Kunden Suchergebnissen. Stellen Sie sicher, dass Ihr Team in Ihrem Sinne schnell reagiert.
-- **Seien Sie bei den Angeboten, die Sie akzeptieren, wählerisch**. Wir überwachen die Typen von Abschlüssen, die Sie akzeptieren und ablehnen, und verwenden diese Informationen, um Ihnen die Suche nach ähnlichen Vereinbarungen zu erleichtern. Wenn Sie nicht gut geeignete Angebote akzeptieren, können Sie die Suchergebnisse nicht verbessern und sich auf die Qualität der Leads auswirken, die Sie erhalten.
+
+- **Seien Sie mit den von Ihnen akzeptierten Abschlüssen Choosy** . Wir überwachen die Typen von Abschlüssen, die Sie akzeptieren und ablehnen, und verwenden diese Informationen, um Ihnen die Suche nach ähnlichen Vereinbarungen zu erleichtern. Wenn Sie nicht gut geeignete Angebote akzeptieren, können Sie die Suchergebnisse nicht verbessern und sich auf die Qualität der Leads auswirken, die Sie erhalten.
+
 - **Melden Sie den geschätzten Geschäftsumfang, Enddatum und den endgültigen Status Ihrer Geschäfte ** (gewonnen oder verloren) zurück an uns. Wir verwenden diese Informationen, um Ihnen weiterhin Qualitäts Referenzen zu bieten.
 
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Co-Selling-Verkaufschancen](manage-co-sell-opportunities.md)
+
+- [Holen Sie sich den Co-Selling-Connector für Dynamics 365 CRM](connector-dynamics.md)
+
+- [Holen Sie sich den Co-Selling-Connector für Salesforce CRM](connector-salesforce.md)

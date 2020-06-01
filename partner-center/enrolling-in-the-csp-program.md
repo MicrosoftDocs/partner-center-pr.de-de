@@ -8,12 +8,12 @@ description: Machen Sie sich mit den verschiedenen Modellen für den Verkauf im 
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: ff2e0d02b63bd02e374e5726010f261fc2b3e8b9
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 49f404452d8cc386d9d47ef1bf8f51b0e79e1af2
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74721705"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253927"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud-Lösungsanbieter
 
@@ -41,7 +41,7 @@ Die Überprüfung deiner Angaben kann mehrere Tage dauern. Wir werden Sie per E-
 3. Nachdem wir Ihre Informationen bestätigt haben, akzeptieren Sie die Vereinbarung für indirekte Microsoft-Wiederverkäufer.
 
 > [!IMPORTANT]  
-> Ein Partner im CSP-Programm kann derzeit einem anderen Partner im CSP-Programm keine Onlinedienste verkaufen. Microsoft überprüft ständig die Richtlinien und Möglichkeiten aller Programme. Alle Neuigkeiten zur Freigabe von Features oder Richtlinienänderungen werden über die üblichen Kommunikationskanäle angekündigt, einschließlich [Partner Center-Ankündigungen](https://partner.microsoft.com/pcv/announcements).
+> Ein Partner im CSP-Programm kann derzeit einem anderen Partner im CSP-Programm keine Onlinedienste verkaufen. Microsoft überprüft ständig die Richtlinien und Möglichkeiten aller Programme. Alle Neuigkeiten zur Freigabe von Features oder Richtlinienänderungen werden über die üblichen Kommunikationskanäle angekündigt, einschließlich [Partner Center-Ankündigungen](announcements/index.md).
 
 ## <a name="enroll-as-an-indirect-reseller"></a>Sich als indirekter Wiederverkäufer registrieren
 

@@ -1,22 +1,23 @@
 ---
-title: Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile
+title: Verwalten von Microsoft Partner Network-Vorteilen
 ms.topic: article
-ms.date: 03/16/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Durch den Beitritt zum Microsoft Partner Network (MPN) kannst du deine Mitgliedschaftsvorteile verwalten, um dein Geschäft aufzubauen und zu erweitern.
+description: Treten Sie dem Microsoft Partner Network (MPN) bei, und nutzen Sie das Partner Center, um Mitgliedschaftsvorteile und Angebote zu verwalten, die Ihr Geschäft voranbringen können.
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Mitgliedschaftsvorteile, Mitgliedschaft
 ms.localizationpriority: high
-ms.openlocfilehash: 1659d8ec90802e4ef7554d57fb08ff3a16b9f7bc
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0f937316e01f20fb0f255d9af23328a200fb8445
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362538"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796005"
 ---
-# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Verwalten Ihrer Microsoft Partner Network-Mitgliedschaftsvorteile
+# <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Verwalten von Microsoft Partner Network-Mitgliedschaftsvorteilen und -Angeboten im Partner Center
 
 **Zielgruppe**
 

@@ -1,22 +1,23 @@
 ---
-title: Arbeitskonten und Partner Center
+title: Verknüpfen Ihres Geschäftskontos für den Zugriff auf das Partner Center
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, warum Sie ein Geschäftskonto benötigen, um ein Partner Center-Konto zu erstellen. Überprüfen Sie, ob Sie bereits über ein Geschäftskonto verfügen.
+description: Erstellen Sie ein Geschäftskonto, durch das Ihr Unternehmen mit Ihrem Partner Center-Konto verknüpft wird. Auf diese Weise können Mitarbeiter Ihres Unternehmens auf das Partner Center zugreifen.
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: Geschäftskonto, E-Mail-Adresse, Mandant, Azure-Mandant, Konto erstellen, Domänenname
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e34eecb482df140a1a225d0d28460ef957701d59
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369267"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394220"
 ---
-# <a name="your-company-work-account-and-partner-center"></a>Das Geschäftskonto Ihrer Firma und Partner Center  
+# <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Erstellen eines Geschäftskontos, durch das Ihr Unternehmen mit Ihrem Partner Center-Konto verknüpft wird
 
 **Zielgruppe**
 
@@ -44,7 +45,7 @@ Wenn Sie mehr als eine gültige geschäftliche E-Mail-Adresse haben, verwenden S
 
 Wenn Sie nicht genau wissen, ob Ihr Unternehmen ein Geschäftskonto hat, können Sie das mit den folgenden Schritten überprüfen. Mit einem aktiven Abonnement für Microsoft Azure oder Office 365 besitzen Sie bereits ein Geschäftskonto.
 
-1. Melden Sie sich beim [Azure-Portal](https://portal.azure.com) an.
+1. Melde dich beim [Azure-Portal](https://portal.azure.com) an.
 
 2. Wählen Sie im Menü „Azure Active Directory“ und dann „Domänennamen“ aus.
 

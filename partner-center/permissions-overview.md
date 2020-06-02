@@ -1,29 +1,31 @@
 ---
-title: Zuweisen von Benutzerrollen und Berechtigungen | Partner Center
+title: Zuweisen von Rollen und Berechtigungen zu Benutzern
 ms.topic: article
-ms.date: 03/23/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Hier erfahren Sie, welche Rollen am besten für Benutzer geeignet sind, die kommerzielle Transaktionen, Empfehlungen, Anreize oder MPN-Mitgliedschaften Ihres Unternehmens verwalten.
+description: Erfahren Sie, welche Rollen am besten für Benutzer in Ihrem Unternehmen geeignet sind, die kommerzielle Transaktionen, Empfehlungen, Incentives oder MPN-Mitgliedschaften im Partner Center verwalten.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Rollen, Berechtigungen, Administrator, Agent
 ms.localizationpriority: high
-ms.openlocfilehash: fbff7f353a0055aa645467fccaa049b598b4c880
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0858340c6965ac932f0d4694f6f21be89ca5f817
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80296397"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795887"
 ---
-# <a name="assign-users-roles-and-permissions"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern
+# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern im Unternehmen, die im Partner Center arbeiten müssen
 
 **Geeignete Rollen**
--    Globaler Administrator
--    Benutzeradministrator
--    MPN-Partneradministrator
 
-Sie haben Ihr Partnerprofil mit gesetzlichem Namen und Adresse, Supportdetails, Steuerbefreiungen, Bankverbindung und dem Hauptansprechpartner für Ihr Unternehmen eingerichtet. Nächster Schritt: Einrichten der Benutzer mit Kennwörtern und Rollen, damit sie mit Ihnen gemeinsam im Partner Center arbeiten können.
+- Globaler Administrator
+- Benutzeradministrator
+- MPN-Partneradministrator
+
+Sie haben Ihr Partnerprofil mit gesetzlichem Namen und Adresse, Supportdetails, Steuerbefreiungen, Bankverbindung und dem Hauptansprechpartner für Ihr Unternehmen eingerichtet. Nächster Schritt: Richten Sie Kennwörter und Rollen für Ihre Benutzer ein, damit sie gemeinsam mit Ihnen im Partner Center arbeiten können.
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>Einrichten Ihrer Mitarbeiter für die Arbeit im Partner Center
 

@@ -1,7 +1,7 @@
 ---
-title: Leitfaden zum Migrieren von PMC zu Partner Center
+title: Migrieren von PMC zu Partner Center
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie Sie Ihr Unternehmen vom Partner Membership Center (PMC) zu Partner Center migrieren.
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: high
-ms.openlocfilehash: 7c90c44d3b79431fc8d200528daf6a70b2fbccb9
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362398"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795828"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Leitfaden zum Migrieren von PMC zu Partner Center
 
@@ -42,13 +43,13 @@ Der Verschiebevorgang beginnt in PMC. Ihr globaler Administrator erhält eine Ei
 
 ### <a name="when-youre-ready"></a>Wenn Sie bereit sind
 
-Wählen Sie in Ihrer Einladung **Erste Schritte** aus. Daraufhin wird die Anmeldeseite von Partner Center angezeigt.
+Wählen Sie in Ihrer Einladung **Erste Schritte** aus. Daraufhin wird die Partner Center-Anmeldeseite angezeigt.
 
 ![Erste Schritte](images/migration/getstarted.jpg)
 
 ## <a name="start-with-your-work-email"></a>Beginnen mit Ihrer geschäftlichen E-Mail-Adresse
 
-Wenn Ihr Unternehmen keine geschäftliche E-Mail-Adresse und keinen AAD-Mandanten hat, können wir Ihnen während des Partner Center-Anmeldevorgangs helfen, eine/einen einzurichten. Wenn Sie versuchen, sich mit einem E-Mail-Konto anzumelden, das keine geschäftliche E-Mail-Adresse ist (z.B. Ihr persönliches Konto), werden Sie aufgefordert, Informationen zu Ihrem Unternehmen anzugeben, damit wir einen AAD-Mandanten und eine geschäftliche E-Mail-Adresse einrichten können. Weil diese Unternehmensdetails zum Fertigstellen Ihres Kontos in Partner Center verwendet werden, sorgen Sie dafür, dass sie korrekt sind.
+Wenn Ihr Unternehmen keine geschäftliche E-Mail-Adresse und keinen AAD-Mandanten aufweist, können wir Ihnen während des Partner Center-Anmeldevorgangs helfen, eine Adresse und einen Mandanten einzurichten. Wenn Sie versuchen, sich mit einem E-Mail-Konto anzumelden, das keiner geschäftlichen E-Mail-Adresse entspricht (z. B. Ihrem persönlichen Konto), werden Sie aufgefordert, Informationen zu Ihrem Unternehmen anzugeben, damit wir einen AAD-Mandanten und eine geschäftliche E-Mail-Adresse einrichten können. Weil diese Unternehmensdetails zum Fertigstellen Ihres Kontos in Partner Center verwendet werden, sorgen Sie dafür, dass sie korrekt sind.
 
 >[!Note]
 >Wenn Sie ein Partner in China sind und sowohl im Microsoft Partner Network als auch im Cloud Solution Provider-Programm (CSP) registriert sind, haben Sie einen separaten Mandanten für jedes Konto. Ihr Konto mit dem Cloud Solution Provider-Programm wird in der nationalen Cloud verwaltet und Ihr Microsoft Partner Network-Konto in der globalen Cloud. Die beiden Konten können nicht verknüpft werden.
@@ -57,7 +58,7 @@ Wenn Ihr Unternehmen keine geschäftliche E-Mail-Adresse und keinen AAD-Mandante
 
 Nachdem Sie die Informationen überprüft oder aktualisiert haben, wählen Sie **Zustimmen und fortfahren** aus.
 Die „Bestimmungen“ auf dieser Seite sind **identisch mit denjenigen** in der Vereinbarung, die Ihr Unternehmen bereits in PMC unterzeichnet hat.  
-Dadurch wird die Erstellung Ihres Azure AD-Mandanten eingeleitet und Ihnen Ihr Geschäftskonto bereitgestellt.
+Durch diesen Schritt wird die Erstellung Ihres Azure AD-Mandanten eingeleitet, und Sie erhalten Ihr Geschäftskonto.
 
 Wenn Sie **Zustimmen und fortfahren** auswählen, werden auch folgende Schritte ausgeführt:
 

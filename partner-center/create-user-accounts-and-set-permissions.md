@@ -1,23 +1,24 @@
 ---
-title: Erstellen von Benutzerkonten und Festlegen von Berechtigungen | Partner Center
+title: Erstellen von Benutzerkonten und Zuweisen von Rollen
+description: Jedem Mitarbeiter muss eine Rolle zugewiesen werden, bevor er auf das Partner Center zugreifen kann. Erfahren Sie, wie Sie Benutzerkonten erstellen, Rollen zuweisen und Berechtigungen festlegen.
 ms.topic: article
-ms.date: 02/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Hier erfahren Sie, wie Sie im Partner Center Benutzerkonten erstellen und Rollen für jeden Mitarbeiter zuweisen, der Zugriff benötigt. Benutzer mit unterschiedlichen Administratorrechten können dies erledigen.
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: Rollen, Berechtigungen, Benutzer hinzufügen, Rolle zuweisen, Administrator, Agent
 ms.localizationpriority: high
-ms.openlocfilehash: f163e37f537f537b6eae086e355c87d892d1a745
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.date: 02/26/2020
+ms.openlocfilehash: 8d738e9231959e7d156a053fa1ac28ccfc219547
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798488"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394195"
 ---
-# <a name="create-user-accounts-and-assign-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Berechtigungen
+# <a name="create-user-accounts-and-assign-roles-and-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Rollen und Berechtigungen
 
 **Geeignete Rollen**
 
@@ -103,10 +104,3 @@ Damit Sie die Schulungs- und Lernpfade anzeigen können, die Ihre Benutzer für 
 1. Wähle im Partner Center-Dashboard das Symbol für **Dein Konto** in der rechten Ecke des Dashboards aus, und wähle dann **Mein Profil** aus.
 
 2. Unter **Dein Learning** kannst du dein Microsoft Learning-Konto zuordnen und auch dein Microsoft-Konto mit Partner University verbinden.
-
-
-
-
-
-
-

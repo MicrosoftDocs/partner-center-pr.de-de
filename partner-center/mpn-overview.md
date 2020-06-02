@@ -1,23 +1,23 @@
 ---
-title: Microsoft Partner Network-Mitgliedschaft
+title: Microsoft Partner Network-Mitgliedschaftsvorteile
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Hier erfährst du mehr über die Vorteile einer Partnerschaft mit Microsoft einschließlich Microsoft Action Pack, Kompetenzen und Programmoptionen, mit denen du einen Wettbewerbsvorteil erzielen, Produkte auf den Markt bringen und Lösungen verkaufen kannst.
+description: Erfahren Sie mehr über die Vorteile einer Partnerschaft mit Microsoft einschließlich Microsoft Action Pack, Kompetenzen und Programmoptionen, mit denen Sie Ihre Lösungen auf den Markt bringen und vertreiben können.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Partner, Partnerschaft, MPN, Microsoft Partner Network Action Pack, MAPS, Aktion Pack-Abonnement, Vorteile, MPN-Vorteile, Mitgliedschaft, Silver, Gold, Kompetenzen
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 4208d919d8cee8dc98fa60621a6e5768d828e799
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 50b8834704886a9c516550bbde778edf8e39c0a9
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362738"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795952"
 ---
-# <a name="partner-with-microsoft"></a>Partner von Microsoft
+# <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>Werden Sie Partner von Microsoft: Erfahren Sie mehr über die Vorteile und wie Sie Kunden unterstützen und das Geschäftswachstum fördern
 
 **Geeignete Rollen**
 

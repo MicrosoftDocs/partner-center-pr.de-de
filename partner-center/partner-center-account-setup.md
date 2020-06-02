@@ -1,7 +1,7 @@
 ---
 title: Verwalten des Partner Center-Kontos | Partner Center
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Im Partner Center kannst du das Profil, den Katalog, Bank- und Steuerinformationen, Rollen, Berechtigungen und weitere Angaben zu deinem Unternehmen verwalten.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 9167e4bb873ee1527fc623dbab319b44cdb9564e
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859372"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795693"
 ---
 # <a name="manage-your-partner-center-account"></a>Verwalten des Partner Center-Kontos
 
@@ -67,7 +67,15 @@ Dies ist eine partielle Liste der verfügbaren Programme und der entsprechenden 
 |Office Store|Entwickler|
 |Microsoft Edge-Erweiterungen|Entwickler|
 
-## <a name="the-differences-in-partner-and-developer-settings-options"></a>Unterschiede bei den Optionen für Partnereinstellungen und Entwicklereinstellungen
+## <a name="partner-and-developer-settings-options"></a>Optionen für Partner- und Entwicklereinstellungen
+
+### <a name="locate-your-mpn-id"></a>Ermitteln Ihrer MPN-ID
+
+Unabhängig davon, ob Sie Partner oder Entwickler sind, müssen Sie Ihre MPN-ID für Aktionen wie die Erstellung von Supporttickets verwenden. Wenn Sie Entwickler sind, befindet sich Ihre MPN-ID auf der Detailseite **Kontoeinstellungen**.
+
+![Seite mit der MPN-ID](images/accountsettings/devmpnlocation.png)
+
+Die MPN-ID für Partner befindet sich auf der Seite **Partnerprofil**.
 
 Die Optionen unter **Partnereinstellungen** unterscheiden sich von den Optionen unter **Entwicklereinstellungen**. Im Folgenden werden Screenshots als Beispiele für die verschiedenen Optionen angezeigt. Wenn du Zugriff auf andere Programme hast, siehst du möglicherweise auch andere Optionen als hier in den Screenshots.
 
@@ -78,6 +86,7 @@ Die Optionen unter **Partnereinstellungen** unterscheiden sich von den Optionen 
 **Optionen für Entwicklereinstellungen**:
 
 ![Entwickleroptionen](images/accountsettings/devoptions.png)
+
 
 ## <a name="enrolling-in-programs"></a>Registrieren für Programme
 
@@ -94,7 +103,7 @@ Weitere Informationen zum Registrieren bei Partner Center-Programmen findest du 
 
 ## <a name="the-account-picker"></a>Kontoauswahl
 
-Du kannst mehr als einem Konto angehören. Wenn du mehreren Konten angehörst, wird im linken Navigationsmenü die „Kontoauswahl“ angezeigt. Wenn du die Kontoauswahl auswählst, werden alle Konten, denen du angehörst, als Liste angezeigt. Du kannst ein beliebiges Konto auswählen und zu diesem Konto wechseln. Danach werden alle zum Konto gehörigen Programme und Informationen angezeigt. Wenn keine Kontoauswahl angezeigt wird, gehörst du nur einem einzelnen Konto an.
+Du kannst mehr als einem Konto angehören. Wenn du mehreren Konten angehörst, wird im linken Navigationsmenü die „Kontoauswahl“ angezeigt. Wenn Sie die Kontoauswahl aktivieren, werden alle Konten, denen Sie angehören, als Liste angezeigt. Du kannst ein beliebiges Konto auswählen und zu diesem Konto wechseln. Danach werden alle zum Konto gehörigen Programme und Informationen angezeigt. Wenn keine Kontoauswahl angezeigt wird, gehörst du nur einem einzelnen Konto an.
 
 ![Kontoauswahl](images/accountsettings/accountpicker.png)
 

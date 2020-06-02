@@ -1,7 +1,7 @@
 ---
-title: Erwerben oder Verlängern Ihrer Guthabenangebote | Partner Center
+title: Erwerben oder Verlängern von Microsoft Action Pack-Angeboten
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Hier erfährst du, wie du ein Microsoft Action Pack-Abonnement erwirbst und die Action Pack-Vorteile nutzen kannst. Darüber hinaus zeigen wir, wie du dein Abonnement verlängern, kündigen oder deine Abrechnung anzeigen kannst.
@@ -9,28 +9,31 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Action Pack, MAPS, MAPS verlängern, Action Pack verlängern, Action pack erwerben
 ms.localizationpriority: high
-ms.openlocfilehash: 2d7bd216788c9d181862a7fa24f12df815b31de2
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: aac218976d071d4dc848944294e143bb1b85c6ac
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798848"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795966"
 ---
-# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>Erstmaliges Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements oder der Kompetenzen „Silver“ oder „Gold“
+# <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements oder der Silver- und Gold-Kompetenzen
 
 **Zielgruppe**
 
--  Partner Center
--  Partner Membership Center
+- Partner Center
+- Partner Membership Center
+- MPN-Programmpartner
 
 **Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   MPN-Partneradministrator
--   Administrator-Agent
--   Vertriebsbeauftragter
 
-Im Partner Center-[Dashboard](https://docs.microsoft.com/partner-center/) können Sie nun ihre Vorteilsangebote, z.B. das Microsoft Action Pack-Abonnements und die Silver- und Gold-Kompetenzen, erwerben oder verlängern. 
+- Globaler Administrator
+- Benutzeradministrator
+- MPN-Partneradministrator
+- Administrator-Agent
+- Vertriebsbeauftragter
+
+Ab sofort können Mitglieder im Microsoft Partner Network (MPN) Vorteilsangebote im Partner Center-[Dashboard](https://docs.microsoft.com/partner-center/) erwerben oder verlängern. Die Angebote umfassen das Microsoft Action Pack-Abonnement sowie die Silver- und Gold-Kompetenzen.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Erstmaliges Erwerben eines Microsoft Action Pack-Abonnements
 

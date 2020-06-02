@@ -1,28 +1,29 @@
 ---
-title: CSP-Vereinbarungen, Preislisten und Angebote | Partner Center
+title: CSP-Vereinbarungen, Preislisten und Angebote
 ms.topic: article
-ms.date: 02/03/2020
+ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: In diesem Artikel finden Sie Links zu Programmleitfäden, Partnervereinbarungen, Kundenverträgen, Preislisten und Angeboten für Cloud Solution Provider.
+description: Hier finden Sie Links zu Leitfäden, Partnervereinbarungen, Kundenverträgen, Preislisten und Angeboten für das Cloud Solution Provider-Programm.
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: LauraBrenner
 ms.author: labrenne
 keywords: CSP-Programmleitfäden, Programmleitfaden, Partnervereinbarungen, Kundenvereinbarung, Preislisten, Angebote
 ms.localizationpriority: high
-ms.openlocfilehash: 8e3b5c7a8718de446c3d09daa735f425d627648c
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 25b703b5235410bce36d5a54b4b37ccf4621bb90
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798478"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795600"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Programmleitfaden, Vereinbarungen, Preislisten und Angebote zu Cloud Solution Provider
 
 **Zielgruppe**
 
--  Partner Center
--  Partner Center für Microsoft Cloud for US Government
+- Partner Center
+- Partner Center für Microsoft Cloud for US Government
 
 
 Sehen Sie sich die Informationen in diesem Artikel am, um die Anforderungen für die Teilnahme am Programm für Cloud Solution Provider (Cloud Solution Provider, CSP) von Microsoft zu verstehen.

@@ -1,21 +1,22 @@
 ---
-title: Erstellen eines Unternehmensprofils | Partner Center
+title: 'Erhalten von Vertriebsleads: Erstellen eines Geschäftsprofils'
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Hier erfahren Sie, wie Sie Vertriebsleads von Microsoft erhalten. Ein wichtiger Schritt besteht darin, ein Unternehmensprofil in Partner Center zu erstellen, anhand dessen Kunden Sie suchen können.
+description: Erfahren Sie, wie Sie Vertriebsleads von Microsoft erhalten. Ein wichtiger Schritt besteht darin, ein Geschäftsprofil im Partner Center zu erstellen, durch das Sie von Kunden leichter gefunden werden.
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, Empfehlungen, Vertriebskontakte, C2PC, Unternehmensprofil, Unternehmen vermarkten, Partner finden, Lösungsanbieter finden, Unternehmensprofil, Marketingprofil
 ms.localizationpriority: high
-ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8f5c788be2fc408262e6edd47a87c3ac0f2ea2f8
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722530"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795586"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -26,7 +27,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 -->
 
 
-# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>Erstellen Sie ein Unternehmensprofil, um Vertriebsleads von Microsoft zu erhalten
+# <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Erstellen eines Geschäftsprofils, um Vertriebsleads von Microsoft zu erhalten und Kunden die Suche nach Ihrem Angebot zu erleichtern
 
 **Zielgruppe**
 
@@ -148,5 +149,6 @@ Nachdem Sie Ihr Profil veröffentlicht haben, werden Aktualisierungen in Suchanf
 - **Verdienen Sie sich Kompetenz-Tags** über Microsoft, um Ihr Sachverständnis in Bezug auf unsere Produkte zu demonstrieren.
 - **Verdienen Sie sich Unterstützungs-Tags** von Kunden, die Ihre Arbeit zu schätzen wissen.
 
-## <a name="related-topics"></a>Zugehörige Themen
+## <a name="next-steps"></a>Nächste Schritte
+
 [Reaktion auf Empfehlungen](responding-to-referrals.md)

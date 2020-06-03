@@ -1,5 +1,7 @@
 # [Über Microsoft Partner Center](index.yml)
 
+# [Ankündigungen](announcements/TOC.md)
+
 # [Mitgliedschaft im Partnernetzwerk](mpn-overview.md)
 ## [Erstellen eines Partner Center-Kontos](mpn-create-a-partner-center-account.md)
 ## [Beziehen einer geschäftlichen E-Mail-Adresse](buy-email-domain.md)

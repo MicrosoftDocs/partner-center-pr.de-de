@@ -11,18 +11,18 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 02/07/2020
-  ms.openlocfilehash: 483c63fdbae805f96236481870e9fc8e801856e3
-  ms.sourcegitcommit: 8359f618426e341180b0380367dd9d16dfd6623c
+  ms.date: 05/29/2020
+  ms.openlocfilehash: 5c9bf672eb5647542749c49e74cc39e2ab07c2b5
+  ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 04/29/2020
-  ms.locfileid: "82255479"
+  ms.lasthandoff: 06/01/2020
+  ms.locfileid: "84253947"
 highlightedContent:
   items:
-  - title: Anmelden, um die neuesten Ankündigungen anzuzeigen
+  - title: Erfahren Sie mehr über wichtige Partner Center-Updates
     itemType: whats-new
-    url: https://partner.microsoft.com/pcv/announcements
+    url: announcements/index.md
   - title: Noch kein Partner? Treten Sie noch heute dem Microsoft Partner Network bei.
     itemType: get-started
     url: https://partner.microsoft.com/membership

@@ -1,7 +1,7 @@
 ---
 title: Erfahren Sie mehr über die Markteinführung mit Microsoft-angeboten
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie mithilfe von Microsoft-angeboten die Markteinführungszeit beschleunigen, Leads generieren und Ihr Unternehmen erweitern können.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, Mitgliedschafts Vorteile, Mitgliedschaft, Angebote zu Markteinführungszeiten, Markteinführung mit Microsoft, zu Markt, Goldmitgliedschaft, Silver-Mitgliedschaft
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e694a169a7e76568c0c7b4c1882a5dd6e70c3cc
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6f6edf7dbe2591317f0c67ad8e9489f2e4cc1e26
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795819"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328201"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Erkunden Sie Ihre Markteinführungszeiten mit Microsoft-angeboten
 
@@ -29,7 +29,7 @@ ms.locfileid: "83795819"
 - Globaler Administrator
 - MPN-Partneradministrator
 
-Wenn Sie Mitglied der Microsoft Partner Network sind, erhalten Sie Zugriff auf die Mitgliedschafts Vorteile, die Ihnen bei der Erstellung und dem Wachstum Ihres Unternehmens helfen können. Die Markteinführung von Microsoft-Ressourcen,-angeboten und-Programmen gehört zu den [vielen Vorteilen](https://partner.microsoft.com/manage-your-partner-network-benefits) , die Sie als Microsoft Partner Network-Mitglied erhalten.
+Wenn Sie ein Microsoft Partner Network Mitglied werden, erhalten Sie Zugriff auf die Mitgliedschafts Vorteile, die Ihnen bei der Erstellung und dem Wachstum Ihres Unternehmens helfen können. Die Markteinführung von Microsoft-Ressourcen,-angeboten und-Programmen gehört zu den [vielen Vorteilen](https://partner.microsoft.com/manage-your-partner-network-benefits) , die Sie als Microsoft Partner Network-Mitglied erhalten.
 
 Mit den Markt Einführungs angeboten können Sie auf exklusive Vertriebs-und Marketingressourcen zugreifen, die Ihnen dabei helfen, ihre Markteinführungszeit zu verkürzen, Leads zu generieren und Ihr Geschäft zu erweitern.
 
@@ -69,7 +69,7 @@ Um Ihre Markt Einführungsangebote anzuzeigen:
 
 2. Wählen Sie im Menü auf der linken Seite **MPN**aus. Führen Sie dann einen der folgenden Schritte aus:
 
-    - Wählen Sie **Übersicht** aus. Scrollen Sie zum Abschnitt **Quick Links** , und wählen Sie dann die Registerkarte **go-to-Market** aus.
+    - Wählen Sie **Übersicht**. Scrollen Sie zum Abschnitt **Quick Links** , und wählen Sie dann die Registerkarte **go-to-Market** aus.
 
       oder
 

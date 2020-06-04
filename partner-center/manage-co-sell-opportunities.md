@@ -1,30 +1,30 @@
 ---
-title: Verwalten von Co-Selling-Verkaufschancen | Partner Center
+title: Co-Selling-Verkaufschancen
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Als qualifizierter Microsoft-Partner können Sie Co-Selling mit Microsoft durcharbeiten. Erfahren Sie, wie Sie Deals definieren, Microsoft zur Zusammenarbeit einladen oder gesendete Geschäfte anzeigen.
-author: vikramb
-ms.author: vikramb
+author: LauraBrenner
+ms.author: labrenne
 keywords: Referenz, Co-Selling, Deal
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 96e89d354131dc3defdb617d4147b92e938a5c09
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 485999e323c325ab30361ed60dfe2c9eb7bada07
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145074"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328361"
 ---
-# <a name="manage-co-sell-opportunities"></a>Verwalten von Co-Selling-Verkaufschancen
+# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Verwalten von Co-Selling-Verkaufschancen in Partner Center zum Definieren von Geschäften und besseren Erfüllung der Kundenanforderungen
 
 **Zielgruppe**
 
--  Partner Center
--  Empfehlungen
--  Co-Selling mit Microsoft
--  Freigabe freigeben
+- Partner Center
+- Empfehlungen
+- Co-Selling mit Microsoft
+- Freigabe freigeben
 
 **Geeignete Rollen**
 
@@ -99,7 +99,7 @@ Nachdem Sie die Lösungs Informationen bereitgestellt haben, klicken Sie auf Wei
 
 **Privater Pipeline**-Vorgang: Wenn Sie Microsoft nicht einladen und in diesem Schritt eine Einbindung erstellen, ist der Typ private Pipeline. Microsoft-Verkäufer haben keinen Einblick in die Details dieses Deals.
 
-**Co-Selling-Vertrag:** Wenn Sie für die Frage **"möchten Sie die Microsoft-Hilfe?**" zu "Ja" wechseln, wird ein Co-Selling-Deal durch einen Microsoft-Verkäufer unterstützt, der Ihnen bei der Schließung des Deals helfen kann. Eine Anforderung der Hilfe von Microsoft ist keine Garantie dafür, dass ein Microsoft-Verkäufer an der Sache teilnehmen wird. Microsoft-Vertriebsmitarbeiter haben 14 Tage Zeit, um zu entscheiden, ob Sie teilnehmen möchten. Stellen Sie sicher, dass Sie im Abschnitt "Hinweise" den gewünschten Hilfe Typ identifizieren.
+**Co-Selling-Vertrag:** Wenn Sie für die Frage **"möchten Sie die Hilfe von Microsoft haben?**" die UMSCHALT Fläche "Ja" wechseln, wird ein Co-Selling-Deal durch einen Microsoft-Verkäufer unterstützt. Eine Anforderung der Hilfe von Microsoft ist keine Garantie dafür, dass ein Microsoft-Verkäufer an der Sache teilnehmen wird. Microsoft-Vertriebsmitarbeiter haben 14 Tage Zeit, um zu entscheiden, ob Sie teilnehmen möchten. Stellen Sie sicher, dass Sie im Abschnitt "Hinweise" den gewünschten Hilfe Typ identifizieren.
 
 ## <a name="responding-to-a-co-sell-opportunity"></a>Reaktion auf eine Co-Selling-Verkaufschance
 
@@ -109,7 +109,7 @@ Jede Verkaufschance wird durch einen eigenen Lebenszyklus verlagert.
 
 Wenn Sie in dieser Phase einen neuen Co-Selling-Verkaufschancen von einem Microsoft-Händler oder von anderen Partnern im Microsoft-Co-Selling-Ökosystem erhalten haben, überprüfen Sie die Details, und wenden Sie sich an den Kunden, wenn Sie mehr über die geschäftlichen Anforderungen erfahren möchten. In dieser Phase können Sie zwei Aktionen ausführen. akzeptieren oder ablehnen des Verweises:
 
-- **Akzeptieren:** Geben Sie einen Namen für den Bereich ein, bearbeiten Sie den geschätzten Wert und den geschätzten Erstellungs Zeitraum basierend auf ihrer Überprüfung. Nachdem Sie den Kontakt mit dem Kunden hergestellt haben, sollten Sie Informationen im Feld " **Notizen** " bereitstellen, um weitere Informationen zu den Anforderungen des Kunden zu erhalten. Sie können hier optional Ihre CRM-ID eingeben (nur für Ihre Referenz), die Marketingkampagnen-ID, die zu der jeweiligen Verkaufschance geführt hat, und Kontakte aus Ihrem Unternehmen hinzufügen, die an diesem Teil arbeiten werden. 
+- **Akzeptieren:** Geben Sie einen Namen für das Geschäft ein, bearbeiten Sie den geschätzten Wert und den geschätzten Kauf Zeitraum basierend auf ihrer Überprüfung. Nachdem Sie den Kontakt mit dem Kunden hergestellt haben, sollten Sie Informationen im Feld " **Notizen** " bereitstellen, um weitere Informationen zu den Anforderungen des Kunden zu erhalten. Sie können hier optional Ihre CRM-ID eingeben (nur für Ihre Referenz), die Marketingkampagnen-ID, die zu der jeweiligen Verkaufschance geführt hat, und Kontakte aus Ihrem Unternehmen hinzufügen, die an diesem Teil arbeiten werden. 
 
 - Wählen Sie **Weiter**, wenn Sie fertig sind. Wir werden den Verweis auf **die nächste Phase**verschieben, was bedeutet, dass Sie den Kunden aktiv mit dem Kunden in Verbindung setzen möchten. Diese Informationen werden auch verwendet, um in Zukunft ähnliche Angebote zu finden.
 
@@ -122,12 +122,12 @@ Wenn Sie in dieser Phase einen neuen Co-Selling-Verkaufschancen von einem Micros
 
 Bemühen Sie sich, das Geschäft mit dem Kunden abzuschließen. Wenn Sie die Informationen ändern möchten, die Sie für eine akzeptierte Referenz angegeben haben, wählen Sie **Bearbeiten**aus. Anschließend können Sie den Namen, den geschätzten kauftermin, den geschätzten Wert, Notizen, die CRM-ID und/oder die Marketingkampagnen-ID aktualisieren.  Sie können auch die Option **Ihre Mitarbeiter hinzufügen** auswählen, um den Namen, die Telefonnummer und die e-Mail-Adressen aller weiteren Personen anzugeben, die an diesem Teil arbeiten. Projektmappen können auch basierend auf dem Kundenbedarf bearbeitet werden.
 
-Alle von Ihnen erstellten Angebote sind standardmäßig in der **angenommenen** Phase enthalten.
+Alle von Ihnen erstellten Angebote sind standardmäßig in der angenommenen Phase enthalten.
 
 Wenn Sie fertig sind, können Sie eine der beiden Aktionen ausführen, die das Ergebnis als " **gewonnen** " **markieren, um das Ergebnis zu melden** , damit wir es entsprechend archivieren können.
 
 > [!TIP]
-> Bei bestimmten berechtigten Lösungen werden Sie nach der Auswahl von " **gewinnt**" aufgefordert, zusätzliche Informationen zum Registrieren Ihres Deals bereitzustellen. Microsoft überprüft die hier von Ihnen bereitgestellten Informationen und kann während des Überprüfungsvorgangs weitere Details anfordern. 
+> Bei bestimmten berechtigten Lösungen werden Sie nach der Auswahl von "gewinnt" aufgefordert, zusätzliche Informationen zum Registrieren Ihres Deals bereitzustellen. Microsoft überprüft die hier von Ihnen bereitgestellten Informationen und kann während des Überprüfungsvorgangs weitere Details anfordern. Weitere Informationen finden Sie unter Registrieren Ihrer Angebote.
 
 ### <a name="archived-stage"></a>Archivierte Phase
 
@@ -138,9 +138,7 @@ Dies ist eine Terminalphase, in der alle Verkaufschancen letztendlich erreicht w
 Hier finden Sie einige Tipps, die Ihnen helfen, weitere Co-Selling-Verkaufschancen zu erhalten, die für Ihr Unternehmen geeignet sind:
 
 - **Reagieren Sie schnell auf die Geschäfte**. Wenn Sie rechtzeitig auf eingehende Anforderungen reagieren, erhöhen wir Ihre Sichtbarkeit in zukünftigen Ergebnissen der Partnersuche progressiv. Stellen Sie sicher, dass Ihr Team in Ihrem Sinne schnell reagiert.
-
-- **Seien Sie mit den von Ihnen akzeptierten Abschlüssen Choosy** . Wir überwachen die Typen von Abschlüssen, die Sie akzeptieren und ablehnen, und verwenden diese Informationen, um Ihnen die Suche nach ähnlichen Vereinbarungen zu erleichtern. Wenn Sie nicht gut geeignete Angebote akzeptieren, können Sie Ihre Suchergebnisse nicht verbessern und sich auf die Qualität der von Ihnen empfangenen Möglichkeiten auswirken.
-
+- **Seien Sie bei den Angeboten, die Sie akzeptieren, wählerisch**. Wir überwachen die Typen von Abschlüssen, die Sie akzeptieren und ablehnen, und verwenden diese Informationen, um Ihnen die Suche nach ähnlichen Vereinbarungen zu erleichtern. Wenn Sie nicht gut geeignete Angebote akzeptieren, können Sie Ihre Suchergebnisse nicht verbessern und sich auf die Qualität der von Ihnen empfangenen Möglichkeiten auswirken.
 - **Melden Sie den geschätzten Geschäftsumfang, Enddatum und den endgültigen Status Ihrer Geschäfte ** (gewonnen oder verloren) zurück an uns. Wir verwenden diese Informationen, um Ihnen weiterhin Qualitäts Referenzen zu bieten.
 
 ## <a name="next-steps"></a>Nächste Schritte

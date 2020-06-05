@@ -1,21 +1,21 @@
 ---
-title: Migrieren von Skype for Business Online Plan 1-Abonnements zu neueren Versionen von Office 365 | Partner Center
+title: Migrieren einiger Skype for Business-Abonnements
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Übertragen von Kunden mit ablaufenden Skype for Business Online Plan 1-Abonnements auf eine unterstützte SKU-Option. Wir empfehlen, Kunden vor dem jährlichen Enddatum des Abonnements in neue Abonnements zu verschieben.
+Description: Erfahren Sie, wie und wann bestimmte Kunden mit ablaufenden Skype for Business Online Plan 1-Abonnements zu neuen Office 365-Versionen migriert werden.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Skype for Business-Pläne, Einstellung von Skype, Office 365
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 2afe07797ca0e4e255e88a86149bfe532d29a426
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8e3a16450d9ac15785315a1b4b077e1872e1303a
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654045"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425959"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrieren von Skype for Business Online Plan 1-Abonnements zu neueren Versionen von Office 365
 
@@ -23,43 +23,43 @@ ms.locfileid: "73654045"
 
 - Partner Center
 
-Der Skype for Business Online Plan 1 wird zum 1. August 2018 eingestellt. Nach diesem Datum können Kunden keine neuen Skype for Business Plan 1-Abonnements mehr erwerben, und bestehende Abonnements werden bei Ablauf nicht automatisch verlängert. Es steht außerdem keine Verlängerungsoption zur Verfügung. Auf der Detailseite des Abonnements wurde der Skype for Business Online Plan 1-Abonnementstatus von „Datum der automatischen Verlängerung: [Datum]“ in „Gültig bis [Datum]“ geändert.  
+Der Skype for Business Online-Plan 1 wird ab dem 1. August 2018 eingestellt. Nach diesem Datum können Kunden keine neuen Skype for Business Plan 1-Abonnements mehr erwerben, und bestehende Abonnements werden bei Ablauf nicht automatisch verlängert. Es steht außerdem keine Verlängerungsoption zur Verfügung. Auf der Detailseite des Abonnements wurde der Skype for Business Online Plan 1-Abonnementstatus von „Datum der automatischen Verlängerung: [Datum]“ in „Gültig bis [Datum]“ geändert.  
 
 Um Kontinuität für Kunden zu gewährleisten, sollten Sie Kunden mit ablaufenden Skype for Business Online Plan 1-Abonnements auf eine unterstützte SKU-Option (nachfolgend aufgeführt) übertragen. Wir empfehlen, Kunden vor dem jährlichen Enddatum des Abonnements in neue Abonnements zu verschieben, um Dienst Ausfälle für Kunden zu vermeiden. 
 
 >[!NOTE]
 >Sowohl kommerzielle als auch Behörden-SKUs für Skype for Business Online Plan 1 werden eingestellt.
 
-Wenn Sie die API (CREST oder Partner Center) verwenden, können Sie ablaufende Abonnements durch Auswerten des Enddatums des Abonnements sowie der Eigenschaft „False“ für die automatische Verlängerung (auto renew) ermitteln. Für Skype for Business Online Plan 1-Abonnements wird die automatische Verlängerung (auto renew) am 1. September 2018 auf „False“ festgelegt. Sie können Kunden jederzeit zu einem neuen Plan migrieren. 
+Wenn Sie die API (CREST oder Partner Center) verwenden, können Sie ablaufende Abonnements durch Auswerten des Enddatums des Abonnements sowie der Eigenschaft „False“ für die automatische Verlängerung (auto renew) ermitteln. Für Skype for Business Online Plan 1-Abonnements wird die automatische Verlängerung (auto renew) am 1. September 2018 auf „False“ festgelegt. Sie können Kunden jederzeit in einen neuen Plan verschieben. 
 
 ## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Ersatzpläne für Skype for Business Online Plan 1
 
-Mit den neuen Plänen können Ihre Kunden neuere Features und Funktionen in Office 365 nutzen. Preisdetails finden Sie in der Preisliste und der Angebotsmatrix in Partner Center. 
+Mit den neuen Plänen können Ihre Kunden neuere Features und Funktionen in Office 365 nutzen. Preisdetails finden Sie in der Preisliste und der Angebotslistenmatrix in Partner Center. 
 
 - Option 1: Office 365 Enterprise F1
 - Option 2: Microsoft 365 Enterprise F1
-- Option 3: Andere Office 365-Pläne
+- Option 3: Weitere Office 365-Pläne
 
-|**Feature**    |**Option 1**   |**Option 2**   |**Option 3**   |
+|**Feature**    |**Option 1:**   |**Option 2:**   |**Option 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
-|Alle in Skype for Business Online Plan 1 enthaltenen Features|„Ja“   |„Ja“   |„Ja“   |
-|Chatten und Anwesenheit |„Ja“   |„Ja“   |„Ja“   |
-|Peer-zu-Peer-Audio und -Video über IP|„Ja“   |„Ja“   |„Ja“   
-|Als authentifizierter Benutzer an Besprechungen teilnehmen| „Ja“   |„Ja“   |„Ja“   |
+|Alle in Skype for Business Online Plan 1 enthaltenen Features|Ja   |Ja   |Ja   |
+|Chatten und Anwesenheit |Ja   |Ja   |Ja   |
+|Peer-zu-Peer-Audio und -Video über IP|Ja   |Ja   |Ja   
+|Als authentifizierter Benutzer an Besprechungen teilnehmen| Ja   |Ja   |Ja   |
 
 ## <a name="transition-customers-to-new-product-plans"></a>Migrieren von Kunden zu neuen Produktplänen
 
 Microsoft bietet Partnern kontinuierlich neue Produkte und Dienste an. In diesen Fällen müssen Sie Kunden möglicherweise auf neue Dienste upgraden oder Kundenabonnements von alten SKUs, die letzten Endes vom Markt genommen werden, zu neueren SKUs migrieren. Die Migration von Kunden mit eingestellten SKUs zu neueren SKUs umfasst folgende Schritte:
 
 - Kauf des neuen Abonnements
-- Neuzuweisen aktueller Benutzerlizenzen
+- Neuzuweisen der aktuellen Benutzerlizenzen
 - Stornieren des alten Abonnements
 
 ### <a name="migrate-your-customers-to-new-plans"></a>Migrieren Ihrer Kunden zu neuen Plänen
 
 1. Wählen Sie zum Erwerben eines neuen Abonnements im Menü **Partner Center** die Option **Kunden** aus. Wählen Sie dann den zu verschiebenden Kunden und die Option **Abonnements hinzufügen** aus.
 
-2. Wählen Sie im Katalog das Abonnement aus, das Sie kaufen möchten (in diesem Fall eine der oben genannten Optionen), geben Sie die gewünschte Anzahl von Lizenzen ein, und wählen Sie anschließend **Übermitteln** aus. 
+2. Wählen Sie aus dem Katalog das Abonnement aus, das Sie kaufen möchten (in diesem Fall eine der oben genannten Optionen), geben Sie die nötigen Anzahl von Lizenzen ein, und wählen Sie dann **Übermitteln** aus. 
 
 Ihr Kunde sollte nun sowohl alte als auch neue Abonnements haben, das alte Skype for Business Online-Plan 1-Abonnement und das neue Abonnement "target", z. b. Option 1-Office 365 Enterprise F1.
 
@@ -69,15 +69,15 @@ Ihr Kunde sollte nun sowohl alte als auch neue Abonnements haben, das alte Skype
 
 5. Deaktivieren Sie auf der Seite **Lizenzen verwalten** das Kontrollkästchen für Skype for Business Online Plan 1, und wählen Sie einen neuen Serviceplan für das Abonnement aus, auf das der Kunde umgestellt wird.
 
-6. Wählen Sie **Übermitteln** aus. Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt. Führen Sie denselben Prozess für andere Benutzer durch, die Lizenzzuweisungen benötigen.
+6. Klicken Sie auf **Submit** (Senden). Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt. Führen Sie denselben Prozess für andere Benutzer durch, die Lizenzzuweisungen benötigen.
 
 Nachdem Sie die Benutzerlizenz zum neuen Dienst migriert haben, können Sie das eingestellte Abonnement auf der obersten Kundenebene ohne Bedenken stornieren.
 
-7. Wählen Sie **Kunden** im Menü **Partner Center** aus. Wählen Sie den Kunden, dessen Abonnement Sie stornieren möchten.
+7. Wählen Sie im **Partner Center** -Menü die Option **Kunden**aus. Wählen Sie den Kunden, dessen Abonnement Sie stornieren möchten.
 
 8. Legen Sie auf der Seite mit den Abonnementdetails das Abonnement auf **Ausgesetzt** fest.
 
-9. Wählen Sie **Übermitteln** aus.
+9. Wählen Sie **senden aus.**
 
 Das alte Abonnement ist nun ausgesetzt, und das neue Abonnement ist aktiv. Die Bereitstellung des ausgesetzten Abonnements wird nach 120 Tagen automatisch aufgehoben. Für den Kunden fallen für das alte Abonnement keine zusätzlichen Kosten an.
 

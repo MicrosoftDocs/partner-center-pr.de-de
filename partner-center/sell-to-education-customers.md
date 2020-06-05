@@ -1,23 +1,24 @@
 ---
-title: Verkaufen von Schulungen an Kunden
-description: Erfahren Sie, wie Sie einen Bildungs Kunden erstellen und verkaufen Angebote in Partner Center anbieten.
+title: Verkaufen von Angeboten an Bildungs Kunden
+description: Erfahren Sie, wie Sie einen Bildungs Kunden erstellen und Angebote in Partner Center verkaufen.
 ms.topic: article
-ms.date: 3/20/2020
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 913e31aa-21b9-447c-988c-7487d82b3c4f
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 keywords: Education, besondere Segmente
 ms.localizationpriority: medium
-ms.openlocfilehash: 99d5576cfcdad5320d90c19ca705b7c43cb3e7ab
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362488"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84426009"
 ---
-# <a name="how-to-sell-education-to-customers"></a>Verkaufen von Schulungen an Kunden
+# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Verkaufen von Angeboten an Bildungs Kunden & How to Create a Education Customer in Partner Center
 
 **Zielgruppe**
 
@@ -37,6 +38,7 @@ In diesem Artikel wird erläutert, wie Sie einen Bildungs Kunden in Partner Cent
 > Microsoft ist für jeden neu erstellten Kunden Mandanten zuständig, um sicherzustellen, dass Sie für Schulungsangebote qualifiziert sind.  Stellen Sie sicher, dass Sie die erforderlichen Informationen so genau und vollständig wie möglich eingeben, um Verzögerungen beim Prozess der Überprüfung zu verhindern.
 
 1. Melden Sie sich beim Partner Center an.
+
 2. Wählen Sie **Kunden** und dann **Kunde hinzufügen**aus. Wählen Sie in der Dropdown Liste **spezielle Qualifikationen** die Option **Education** aus.  Geben Sie die restlichen Kontoinformationen nach Bedarf ein.  Wichtige Felder, die den Prozess für die Überprüfung unterstützen, sind:
 
    - Firmenname: Geben Sie den juristischen Entitäts Namen ein (erforderlich für die Überprüfung)
@@ -78,7 +80,7 @@ Sie müssen über globale Administratorrechte verfügen, um die Kundeninformatio
 
 2. Aktualisieren Sie den Browser, um die Seite zurückzusetzen. Es gibt eine **Aktualisierungs** Schaltfläche, und der **Status der speziellen Qualifikationen** ist auf **None**festgelegt.
 
-3. Wählen Sie **Aktualisieren** aus. Wählen Sie auf der Seite **Dienst Verwaltung** die Option **Office 365**aus.
+3. Wählen Sie **Update** aus. Wählen Sie auf der Seite **Dienst Verwaltung** die Option **Office 365**aus.
 
 4. Sie werden auf einer neuen Registerkarte Ihres Browsers an das Office 365 Admin Center umgeleitet. Möglicherweise werden Sie aufgefordert, sich mit Ihren Anmelde Informationen anzumelden.
 

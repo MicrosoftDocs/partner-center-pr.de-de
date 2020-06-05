@@ -1,29 +1,30 @@
 ---
-title: Verkaufen von Abonnements für Produkte des kommerziellen Marketplace | Partner Center
+title: Verkaufen kommerzieller Marketplace-Abonnements
 ms.topic: article
-ms.date: 11/17/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: In Partner Center erfahren Sie, wie Sie Ihre Kunden Abonnements an SaaS-Produkte verkaufen, die von unabhängigen Software Herstellern (ISVs) im Marketplace veröffentlicht werden.
-author: MicheleHope
-ms.author: v-mihope
+description: In Partner Center erfahren Sie, wie Sie Kunden Abonnements für SaaS-Produkte verkaufen, die von unabhängigen Software Herstellern (ISVs) auf dem kommerziellen Marketplace veröffentlicht werden.
+author: LauraBrenner
+ms.author: labrenne
 keywords: Abonnements, Marketplace, Drittanbieter, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 93a4547ba4361343b3c4cef05c7953e372ba627d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b18b0196b3aa8c3013fe7515b745277db7b55f21
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253080"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84426019"
 ---
-# <a name="sell-subscriptions-to-commercial-marketplace-products"></a>Verkaufen von Abonnements für Produkte des kommerziellen Marketplace
+# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Partner Center zum verkaufen von Kunden Abonnements für kommerzielle Marketplace-Produkte verwenden
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
 - CSP-Partner
 
-Als Partner im CSP-Programm können Sie Partner Center verwenden, um Ihre Kunden Abonnements an SaaS-Produkte (Software-as-a-Service) zu verkaufen, die von unabhängigen Software Herstellern (ISVs) im kommerziellen Marketplace ([Microsoft AppSource](https://appsource.microsoft.com/) und [Azure Marketplace](https://azuremarketplace.microsoft.com/)) veröffentlicht wurden. 
+Als Partner im CSP-Programm können Sie Partner Center verwenden, um Kunden Abonnements für SaaS-Produkte (Software-as-a-Service) zu verkaufen, die von unabhängigen Software Herstellern (ISVs) im kommerziellen Marketplace ([Microsoft AppSource](https://appsource.microsoft.com/) und [Azure Marketplace](https://azuremarketplace.microsoft.com/)) veröffentlicht wurden.
 
 Dies kann Ihnen dabei helfen, Ihr Unternehmen von der Konkurrenz abzuheben und Ihren Kunden Softwarepakete anzubieten, die ihre speziellen geschäftlichen Anforderungen erfüllen. Sie verwalten Lizenzen und Abonnements für diese Marketplace SaaS-Produkte wie für Microsoft-Produkte.
 

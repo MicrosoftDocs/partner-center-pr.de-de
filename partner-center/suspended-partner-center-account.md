@@ -1,7 +1,7 @@
 ---
-title: Wiederherstellen ausgesetzter Partner Center-Konten | Partner Center
+title: Wiederherstellen ausgesetzter Partner Center-Konten
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie ein ausgesetztes Partner Center-Konto wiederherstellen, warum Partner Center-Konten ausgesetzt werden, und wie Sie Ihr Konto verwenden können, während es ausgesetzt ist.
@@ -9,14 +9,15 @@ ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ee056513ce9cfed5e1cb406c3b9476114005ec77
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0325d0f720af61813a98d18785f3cc05b2691f7e
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797928"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425879"
 ---
-# <a name="restore-a-suspended-partner-center-account"></a>Wiederherstellen ausgesetzter Partner Center-Konten
+# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Wiederherstellen eines angehaltenen Partner Center-Kontos: erfahren Sie, warum es passiert und was Sie tun sollten
 
 In diesem Artikel wird beschrieben, was zu tun ist, wenn Ihr Partner Center-Konto gesperrt ist.
 

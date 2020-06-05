@@ -1,44 +1,46 @@
 ---
-title: Vom Partner erworbenes Guthaben – Übersicht | Partner Center
+title: Vom Partner erworbenes Guthaben – Übersicht
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Die durch Partner erworbenen Guthaben bieten ein vereinfachtes einheitliches Azure-Preismodell, verwaltete Mehrwertdienste und die Möglichkeit, dem Margendruck zu entgehen.
+description: Erfahren Sie, auf welche Weise von Partnern erworbenes Guthaben (Partner-Earned Credit, PEC) ein vereinfachtes einheitliches Azure-Preismodell, verwaltete Mehrwertdienste und die Möglichkeit bietet, dem Margendruck zu entgehen.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: e9456ae3a154c8040443fb38951b30efd9f39db8
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 611b129cc5343715f3fc528a0222c77fcaa6ee6e
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75004239"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998286"
 ---
-# <a name="partner-earned-credit---overview"></a>Vom Partner erworbenes Guthaben – Übersicht
+# <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Vom Partner erworbenes Guthaben – Übersicht über die Funktionsweise in der neuen E-Commerce-Oberfläche im CSP-Programm
 
 **Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   Administrator-Agent
--   Abrechnungsadministrator
--   Vertriebsbeauftragter
 
-Das vom Partner erworbene Guthaben stellt in der neuen E-Commerce-Oberfläche von CSP ein Geschäftsmodell dar, das eine vereinfachte, einheitliche Azure-Preisgestaltung für die Go-To-Market-Mechanismen von Microsoft ermöglicht und zugleich ein Partner-Ökosystem fördert, das verwaltete Mehrwertdienste anbietet. Eine von Partnern erworbene Gutschrift hilft außerdem, Wettbewerb um die Marge zu beseitigen. 
+- Globaler Administrator
+- Benutzeradministrator
+- Administrator-Agent
+- Abrechnungsadministrator
+- Vertriebsbeauftragter
 
-Angesichts tausender Dienste in Azure und mehrerer Kaufoptionen kann die Preisgestaltung viele Kunden und Partner vor Schwierigkeiten stellen. In der neuen E-Commerce-Oberfläche für Azure haben wir uns an einzelnen Preisprinzipien mit globaler Gültigkeit orientiert, die für alle von uns durchgeführten Datenbewegungen gelten. CSP-Partner können Azure zu den veröffentlichten Preisen anbieten. Dies bietet mehr Transparenz für ihre Kunden und stärkt das Vertrauen. 
+Das vom Partner erworbene Guthaben stellt in der neuen E-Commerce-Oberfläche von CSP ein Geschäftsmodell dar, das eine vereinfachte, einheitliche Azure-Preisgestaltung für die Go-To-Market-Mechanismen von Microsoft ermöglicht und zugleich ein Partner-Ökosystem fördert, das verwaltete Mehrwertdienste anbietet. Eine von Partnern erworbene Gutschrift hilft außerdem, Wettbewerb um die Marge zu beseitigen.
 
-Die Kundenanforderungen an digitale Transformation ändern die Art von Wert, die von Partnern angeboten wird. Viele Kunden suchen Partner, um Dienstleistungen jenseits der Transaktion anzubieten, um ihre Reise in der Cloud problemlos zu gestalten und sie bei der effizienten Nutzung von Azure-Diensten zu unterstützen. Diese Dienste werden kontinuierlich angeboten und beinhalten Azure-Vermögensüberwachung, Richtlinien- und Governanceverwaltung, Setup und Optimieren der Konfiguration sowie eine Vielzahl weiterer Dienste. 
+Angesichts Tausender Dienste in Azure und mehrerer Kaufoptionen kann die Preisgestaltung viele Kunden und Partner vor Schwierigkeiten stellen. In der neuen E-Commerce-Oberfläche für Azure haben wir uns an einzelnen Preisprinzipien mit globaler Gültigkeit orientiert, die für alle von uns durchgeführten Datenbewegungen gelten. CSP-Partner können Azure zu den veröffentlichten Preisen anbieten. Dies bietet mehr Transparenz für ihre Kunden und stärkt das Vertrauen.
 
-Für diese Dienste muss ein Partner bestens mit der Azure-Umgebung des Kunden vertraut sein sowie fortlaufende und passende Governance und Steuerung über die von ihm verwalteten zugrunde liegenden Ressourcen besitzen. Abrechnungspartner, die diese Verwaltung des Cloudbetriebs rund um die Uhr (24/7) bieten, sind für eine **vom Partner erworbene Gutschrift für verwaltete Dienste** in der Azure-Umgebung des Kunden qualifiziert, deren Governance und Steuerung beim Partner liegen. 
+Die Kundenanforderungen an digitale Transformation ändern die Art von Wert, die von Partnern angeboten wird. Viele Kunden wenden sich an Partner, die Dienste über die Transaktion hinaus anbieten. Diese Dienste können helfen, ihre Journey in die Cloud zu vereinfachen und Azure-Dienste effizient zu nutzen. Die Dienste werden kontinuierlich angeboten und umfassen Azure-Bestandsüberwachung, Richtlinien- und Governanceverwaltung, Setup und Optimierung der Konfiguration, technischen Support sowie viele weitere Dienste. 
+
+Für diese Dienste muss ein Partner bestens mit der Azure-Umgebung des Kunden vertraut sein sowie fortlaufende und passende Governance und Steuerung über die von ihm verwalteten zugrunde liegenden Ressourcen besitzen. Abrechnungspartner, die diese Verwaltung des Cloudbetriebs rund um die Uhr (24/7) bieten, sind für eine **vom Partner erworbene Gutschrift für verwaltete Dienste** in der Azure-Umgebung des Kunden qualifiziert, deren Governance und Steuerung beim Partner liegen.
 
 
 ## <a name="benefits-of-the-partner-earned-credit-for-partners-and-customers"></a>Vorteile der vom Partner erworbenen Gutschrift für Partner und Kunden
 
 - Kunden können die Verwaltung und Abrechnung ihrer Azure-Infrastruktur zu ihrem vertrauenswürdigen Partner auslagern, sodass sie sich auf ihr Kerngeschäft konzentrieren können.
 
-- Kunden arbeiten mit einem Partner zusammen, der in verwaltete Dienste in Azure investiert, um die kosten- und betriebsbezogene Effizienz zu fördern und bei der Nutzung von Azure hilfreich zur Seite zu stehen.
+- Kunden arbeiten mit einem Partner zusammen, der in verwaltete Dienste in Azure investiert, um die kosten- und betriebsbezogene Effizienz bei der Nutzung von Azure zu fördern.
 
 - Partner erhalten eine Vergütung, weil sie ihren Kunden ein robustes Portfolio an verwalteten Diensten in Azure bieten.  
 
@@ -61,7 +63,7 @@ Ihre Kunden erwarten von Ihnen Hilfe bei der optimalen Nutzung des Hostings ihre
 
 - **Log Analytics und Warnungen**: Jeder Client, jedes Gerät und jeder Benutzer generiert beim Zugriff auf ein Netzwerk Daten, die protokolliert werden. Das Analysieren von Protokollen kann zu tieferen Einblicken in Leistung, Sicherheit, Ressourcenverbrauch und andere aussagekräftige Metriken führen.
 
-- **Datenbanküberwachung**: Ein Blick in die Datenbank des Kunden, der Partnern dabei hilft, Hochverfügbarkeit von Datenbankservern sicherzustellen. Der Prozess beinhaltet das Führen von Protokollen zu Größe, Verbindungszeit und Benutzern von Datenbanken, das Analysieren von Nutzungstrends und das Nutzen von Daten für die proaktive Wartung von Problemen.
+- **Datenbanküberwachung**: Ein Blick in die Datenbank des Kunden, der Partnern dabei hilft, Hochverfügbarkeit von Datenbankservern sicherzustellen. Der Prozess beinhaltet das Protokollieren der Größe, Verbindungszeiten und Datenbankbenutzer, das Analysieren von Nutzungstrends und die proaktive Behandlung von Problemen mithilfe fundierter Daten.
 
 - **Überwachen der Anwendungsleistung**: End-to-End-Nachverfolgung alle Aspekte einer Anwendung (oder Webseite). Um die bestmögliche Benutzerfreundlichkeit bieten zu können, müssen alle Bereiche der Anwendung(en) eines Kunden – von Einkaufswagen bis hin zu Registrierungsseiten – auf Leistungsprobleme überwacht werden.
 

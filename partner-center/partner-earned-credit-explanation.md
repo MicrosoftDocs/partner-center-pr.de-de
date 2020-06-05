@@ -1,30 +1,32 @@
 ---
-title: Vom Partner erworbenes Guthaben für verwaltete Dienste (Vorschau) | Partner Center
+title: Vom Partner erworbenes Guthaben für verwaltete Dienste
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Hier erfährst du, wie die durch Microsoft-Partner erworbenen Guthaben für verwaltete Dienste berechnet und ausgezahlt werden und wie du deine Berechtigung für das Programm prüfen kannst.
+description: Erfahren Sie, wie vom Microsoft-Partner erworbenes Guthaben (Partner Earned Credit, PEC) für verwaltete Dienste berechnet und ausgezahlt wird und wie Sie sicherstellen können, dass Sie berechtigt sind.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 776fea7eea91e15f872021356562af05e89f1fcf
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d8e3ad7be5d2ab761d9af2de1e1b0d40974333f1
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75004999"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998276"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Wie von Partnern erworbene Guthaben berechnet und bezahlt werden
 
 **Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   Administrator-Agent
--   Abrechnungsadministrator
--   Vertriebsbeauftragter
+
+- Globaler Administrator
+- Benutzeradministrator
+- Administrator-Agent
+- Abrechnungsadministrator
+- Vertriebsbeauftragter
 
 Von Partnern erworbene Guthaben für verwaltete Dienste (Partner-Earned Credit, PEC) bedeuten Anerkennung und Belohnung für Partner, die die Kontrolle und Verwaltung der IT Operations der Azure-Umgebungen ihrer Kunden rund um die Uhr ganz oder teilweise innehaben. Standardmäßig werden Partnern in CSP die erforderlichen Zugriffsrechte auf das Kundenabonnement erteilt, die es ihnen ermöglichen, die operative Verwaltung und Steuerung der Abonnementressourcen rund um die Uhr (24/7) durchzuführen. Weitere Möglichkeiten, wie der Kunde den Zugriff für den handelnden Partner bereitstellen kann, sind im folgenden Abschnitt beschrieben. Der monatliche Rechnungsbetrag ist bezogen auf die vom Partner erworbene Gutschrift netto. Die Partner können die PEC-Details in ihrer monatlichen Abstimmungsdatei sehen. Informationen zu weiteren Verfahren, mit denen ein Kunde den Zugriff für den handelnden Partner bereitstellen kann, finden Sie unter [Verwalten von Abonnements und Ressourcen in einem Azure-Plan](azure-plan-manage.md).
 

@@ -1,20 +1,21 @@
 ---
-title: Sicherheitsanforderungen für Partner – FAQ | Partner Center
+title: Sicherheitsanforderungen für Partner – häufig gestellte Fragen
 ms.topic: article
-ms.date: 11/09/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Häufig gestellte Fragen zu den Sicherheitsanforderungen für Partner
-author: isaiahwilliams
-ms.author: iswillia
+description: Häufig gestellte Fragen zu den Sicherheitsanforderungen für Partner – was sie beinhalten, wie sie von Partnern umgesetzt werden sollten und woher Sie wissen, ob Sie sie erfüllen.
+author: LauraBrenner
+ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
-ms.openlocfilehash: 72ad7bab25c295fa039e7b29f9d4369c0434814c
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 89c53daff52877c9d1facffe8c03e75a1f5b3dae
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80529775"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998366"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Häufig gestellte Fragen zu den Sicherheitsanforderungen für Partner
 
@@ -337,3 +338,4 @@ Navigiere zu [Microsoft Partner-Support](https://partner.microsoft.com/support),
 ### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>Wo finde ich Informationen zu häufigen technischen Problemen?
 
 Informationen zu häufigen technischen Problemen sind [hier](https://docs.microsoft.com/partner-center/partner-security-requirements#common-issues) zu finden.
+

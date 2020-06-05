@@ -1,6 +1,6 @@
 ---
-title: Status der Sicherheitsanforderungen für Partner | Partner Center
-ms.date: 10/11/2019
+title: Status der Sicherheitsanforderungen für Partner
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier findest du weitere Informationen zu neuen verbindlichen Anforderungen, die die Sicherheit von Beratern, Control Panel-Anbietern und Partnern im Cloud Solution Provider-Programm weiter verbessern.
@@ -9,14 +9,15 @@ ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
 ms.topic: conceptual
-ms.openlocfilehash: c398c8f2490d3f0785fa7b836a8b0e077ca46bce
-ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7905a7d24116e905c85209b18aba3ecad9643ee1
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "82120391"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998296"
 ---
-# <a name="partner-security-requirements-status"></a>Status der Sicherheitsanforderungen für Partner
+# <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>Status der Sicherheitsanforderungen für Partner – hier finden Sie Antworten auf Ihre Fragen und Berichte zum aktuellen Status.
 
 **Zielgruppe**
 
@@ -28,7 +29,7 @@ ms.locfileid: "82120391"
 - Alle Berater
 
 **Geeignete Benutzer**
--    Alle aktivierten Benutzer einschließlich Gastbenutzer
+- Alle aktivierten Benutzer einschließlich Gastbenutzer
 
 Mehr Sicherheitsmaßnahmen für den Datenschutz und eine höhere Sicherheit gehören zu unseren obersten Prioritäten. Wir wissen, dass die beste Verteidigung die Prävention ist und dass wir nur so stark sind wie unser schwächstes Glied. Deshalb müssen alle in unserem Ökosystem handeln und sicherstellen, dass sie über angemessene Sicherheitsvorkehrungen verfügen. Zum Schutz von Partnern und Kunden führen wir eine Reihe von verbindlichen Sicherheitsanforderungen für Berater, Control Panel-Anbieter und Partner ein, die am Cloud Solution Provider-Programm teilnehmen.
 

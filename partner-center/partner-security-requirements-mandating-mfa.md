@@ -1,20 +1,21 @@
 ---
-title: Festlegen von MFA für Ihren Partnermandanten | Partner Center
+title: Festlegen von MFA für Ihren Partnermandanten
 ms.topic: article
-ms.date: 11/12/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie das Festlegen von MFA für Ihre Partnermandanten dazu beiträgt, Ihren Zugriff auf Kundenressourcen zu sichern. Enthält Beispielszenarien.
-author: isaiahwilliams
-ms.author: iswillia
+author: LauraBrenner
+ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
-ms.openlocfilehash: 037194527347aae90f261ce5d417b5ba0e26addf
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9454e9410e4110fdf3542bde3696d8447d4c90d0
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81462209"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998306"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Festlegen von Multi-Factor Authentication (MFA) für Ihren Partnermandanten
 

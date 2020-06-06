@@ -1,29 +1,30 @@
 ---
-title: Abgleich-Datei Lade Typen | Partner Center
+title: Abgleichen von Datei Lade Typen
 ms.topic: article
-ms.date: 01/06/2020
-description: Arten von Gebühren (Lizenz basiert, Nutzungs basiert und einmalig), Gutschriften und Rabatte für Partner Center-Abstimmungs Dateien.
+ms.date: 06/05/2020
+description: Ermitteln Sie die Arten von Gebühren (z. b. Lizenz basiert, Nutzungs basiert und einmalig), Gutschriften und Rabatte in Partner Center-Abstimmungs Dateien.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: b18a2a7d53e2f9d35baac2412c1710c21d6d98eb
-ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7a5c227748ba24001288ecbec0a5487d38033897
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75716871"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467510"
 ---
-# <a name="understand-charge-types"></a>Grundlegendes zu Lade Typen
+# <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Informationen zu den verschiedenen Lade Typen in Partner Center-Abstimmungs Dateien
 
-**Gilt für**
+**Zielgruppe**
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
 
 **Geeignete Rollen**
 
-- Administratoragent
+- Administrator-Agent
 - Abrechnungsadministrator
 - Globaler Administrator
 
@@ -46,7 +47,7 @@ Um diese lizenzbasierten Gebühren Ihrer Rechnung zuzuordnen, addieren Sie die S
 | ------------------------------------------------------------- | ------------------ |
 | Aktivierungsgebühr | Der Betrag, der dem Kunden in Rechnung gestellt wird, wenn er das Abonnement nach dem Kauf verwendet. |
 | Stornierungsgebühr | Anteilsmäßig an den Kunden abgezahlte Gebühren, wenn die zugeordneten Arbeitsplätze geändert werden. |
-| Instanz anteilig stornieren | Anteilsmäßig abgeänderte Gebühren, die abgebrochen wurden, wenn der Kunde mit monatlichem Abonnement das Abonnement angehalten hat und die zugeordneten Arbeitsplätze |
+| Instanzangleich anbrechen | Anteilsmäßig aufgesetzte Gebühren wurden abgebrochen, wenn der Kunde mit monatlichem Abonnement das Abonnement angehalten hat und die zugeordneten Arbeitsplätze innerhalb desselben |
 | Gebühr für Zyklus | Regelmäßige Gebühren für ein Abonnement. |
 | Anteiliger Zyklus für Instanz | Anteilsmäßig abgeänderte Gebühren vom Kunden, wenn die zugeordneten Arbeitsplätze geändert werden. |
 | Gebühren bei Stornierung anteilig zuordnen | Anteilsmäßig abgenommene Rückerstattung für den nicht genutzten Dienst Anteil nach Abbruch. |
@@ -56,7 +57,7 @@ Um diese lizenzbasierten Gebühren Ihrer Rechnung zuzuordnen, addieren Sie die S
 | Kaufgebühr | Der Gebühr für ein Abonnement, wenn die monatliche Abrechnung verwendet wird. |
 | Anteilige Gebühr bei Verlängerung | Anteilsmäßig Kosten bei der Erneuerung des Abonnements. |
 | Verlängerungsgebühr | Gebühr für Verlängerung eines Abonnements |
-| Anteilige Gebühren beim Aktivieren | > anteilsmäßig an der Aktivierung bis zum Ende des Abrechnungszeitraums. |
+| Anteilige Gebühren beim Aktivieren | Anteilsmäßig an der Aktivierung bis zum Ende des Abrechnungszeitraums. |
 
 ## <a name="one-time-charges"></a>Einmalige Gebühren
 
@@ -64,13 +65,13 @@ Um diese einmaligen Gebühren Ihrer Rechnung zuzuordnen, addieren Sie die Spalte
 
 | Lade Beschreibung (Spalte chargetype in der Abstimmungs Datei) | Erklärung der Abrechnung |
 | ------------------------------------------------------------- | ------------------ |
-| „Neu“, | Wird verwendet, wenn ein neuer Kauf erstellt wird. |
+| Neu | Wird verwendet, wenn ein neuer Kauf erstellt wird. |
 | addQuantity | Wird sowohl bei der Rückerstattung des ursprünglichen Kaufs als auch bei der neuen Menge nach einer Erhöhung verwendet. |
 | removeQuantity | Wird sowohl bei der Rückerstattung des ursprünglichen Kaufs als auch bei der neuen Menge nach einer Abnahme verwendet. |
 | Abbrechen | Wird verwendet, wenn ein Abonnement abgebrochen wird. |
-| Konvertieren | Wird verwendet, wenn eine Lizenz aktualisiert wird, die Anzahl der Arbeitsplätze jedoch unverändert bleibt. |
+| Convert | Wird verwendet, wenn eine Lizenz aktualisiert wird, die Anzahl der Arbeitsplätze jedoch unverändert bleibt. |
 
-## <a name="usage-charges"></a>Nutzungsgebühren
+## <a name="usage-charges"></a>Usage Charges
 
 Um diese Nutzungsgebühren Ihrer Rechnung zuzuordnen, addieren Sie die Spalte **pretaxcharges** aus der Verwendungs basierten Datei.
 
@@ -79,7 +80,7 @@ Um diese Nutzungsgebühren Ihrer Rechnung zuzuordnen, addieren Sie die Spalte **
 | Nutzungsgebühr beim Stornieren bewerten | Zugriffsnutzungsgebühr bei Abbruch für eine nicht bezahlte Nutzung im aktuellen Abrechnungszeitraum. |
 | Nutzungsgebühr für den aktuellen Zyklus bewerten | Zugriffsnutzungsgebühr für den aktuellen Abrechnungszeitraum. |
 
-### <a name="credits"></a>Gutschriften
+### <a name="credits"></a>Guthaben
 
 So ordnen Sie diese Gutschriften Ihrer Rechnung zu:
 
@@ -99,7 +100,7 @@ Um diese nutzungsbasierten Rabatte Ihrer Rechnung zuzuordnen, addieren Sie die S
 | Aktivierungsrabatt | Der Rabatt wurde beim Aktivieren des Abonnements angewendet. |
 | Zyklusrabatt | Der bei wiederkehrenden Gebühren gewährte Rabatt. |
 | Verlängerungsrabatt | Der Rabatt wurde bei erneutem Abonnement zugewiesen. |
-| Stornorabatt | Gebühren, die beim Abbruch von Rabatten angewendet wurden. |
+| Stornorabatt | Die bei Stornierung von Rabatten anfallenden Gebühren. |
 
 ### <a name="license-based-discounts"></a>Lizenzbasierte Rabatte
 

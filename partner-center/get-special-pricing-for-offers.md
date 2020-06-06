@@ -1,7 +1,7 @@
 ---
 title: Verkaufen an spezielle Branchen
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie mehr über die speziellen, reduzierten Preise für bestimmte Kundengruppen von Microsoft, einschließlich Bildungs Kunden, gemeinnützige Kunden und Regierungsbehörden.
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 00b4dc172c4c39fe73f1118d2eb3a56555eaa464
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 5a1b8567263f8a105b3a3bc5b1d429715c9f3c38
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795097"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467170"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vertrieb an spezialisierte Branchen wie Education, Non-Profit und Government-Benutzer
 
@@ -35,8 +35,8 @@ Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z. B
 
 |**Sonderpreise**   |**Erforderliche Händlerqualifikationen**   |**Erforderliche Kundenqualifikationen**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Education   |Keine   | Sie müssen ein [qualifizierter Benutzer von Bildungsangeboten](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) sein.   |
-|Regierung   |Um Azure zu verkaufen, registrieren Sie sich mit dem [cloudvalidierungsformular der Microsoft US Government-Cloud](https://azuregov.microsoft.com/csp). Wenn Sie lizenzbasierte Abonnements an Behörden verkaufen möchten, ist keine Qualifikation erforderlich.|   Keine|
+|Fortbildung   |Keine   | Sie müssen ein [qualifizierter Benutzer von Bildungsangeboten](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) sein.   |
+|Behörden   |Um Azure zu verkaufen, registrieren Sie sich mit dem [cloudvalidierungsformular der Microsoft US Government-Cloud](https://azuregov.microsoft.com/csp). Wenn Sie lizenzbasierte Abonnements an Behörden verkaufen möchten, ist keine Qualifikation erforderlich.|   Keine|
 |Gemeinnützig  |Keine<br/> Sie benötigen einen Azure Active Directory-Mandanten für gemeinnützige Organisationen.<br/> Unter [Sonderangebote für gemeinnützige Organisationen](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf) finden Sie weitere Informationen.   |Melden Sie sich über das [Microsoft-Programm für gemeinnützige Organisationen](https://nonprofit.microsoft.com/#/register) an, um sich zu qualifizieren.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Überprüfen Ihrer Händlerqualifikationen
@@ -60,6 +60,23 @@ Die folgenden Schritte gelten nur für indirekte Anbieter und direkte Rechnungs 
 ## <a name="where-to-find-special-offers"></a>So finden Sie Sonderangebote
 
 Nachdem Sie und der Kunde für ein Sonderangebotsprogramm qualifiziert wurden, führen Sie die Schritte zum [Hinzufügen eines Abonnements](create-a-new-subscription.md) aus. Wählen Sie auf der Seite **Neues Abonnement** im Abschnitt **Katalog** eine spezielle Branche aus, um die Sonderangebote anzuzeigen, die Sie verkaufen können.
+
+## <a name="purchase-rules-for-special-segments"></a>Kauf Regeln für spezielle Segmente
+
+Partner können nur spezielle Angebote an Kunden verkaufen, wenn Sie bestimmte Kriterien erfüllen. 
+
+- Schulungsangebote können nur erworben werden, wenn der Kunde als Bildungseinrichtung autorisiert ist. Ein Education-Kunde kann nur Schulungs-und kommerzielle Angebote erhalten, aber weder gemeinnützige noch Government-Community Cloud (gcc).
+- Partner können nur gcc-Abonnements für gcc-Kunden erwerben. Nachdem ein Kunde ein gcc-Abonnement erworben hat, können Partner keine kommerziellen, Schulungs-und Non-Profit-Abonnements erwerben. 
+- Partner können nur kommerzielle oder gemeinnützige Abonnements für gemeinnützige Kunden erwerben. Partner können gcc-und Education-Abonnements nicht für gemeinnützige Kunden erwerben.
+
+Kauf Regeln zum Verkauf spezieller Angebote für Kunden:
+
+|**Customer-Typ**   |**Kann verkauft werden**   |**Kann nicht verkauft werden.**   |
+|:----------------------------|:---------------------------------|:------------------------------------------|
+| Kommerziell |Kommerziell | Non-Profit, Education oder Government Community Cloud |
+| Non-Profit |Kommerziell, Non-Profit | Education oder Government Community Cloud |
+| Fortbildung |Kommerziell, Education | Non-Profit-oder Government-Community-Cloud |
+| Government-Community-Cloud |Government-Community-Cloud | Non-Profit, Education oder kommerziell |
 
 ## <a name="next-steps"></a>Nächste Schritte
 

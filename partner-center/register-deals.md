@@ -1,27 +1,27 @@
 ---
-title: Registrieren von Angeboten | Partner Center
+title: Registrieren Ihrer Angebote
 ms.topic: article
-ms.date: 08/28/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Wenn Sie ein Problem registrieren, das Sie im Partner Center gewonnen haben, hilft Ihnen Microsoft, Ihnen in Zukunft weitere Möglichkeiten zu bieten.
-author: JnHs
-ms.author: jenhayes
+author: LauraBrenner
+ms.author: labrenne
 keywords: Registrierung des Angebots
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05c9291a9aa76efe2ff7d0a2557617b69e7455d4
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4bb638d82315be392181ebad17040723d164119b
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943223"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467410"
 ---
-# <a name="register-your-deals"></a>Registrieren Ihrer Angebote
+# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registrieren Sie die von Ihnen im Partner Center gewonnenen Angebote, damit Sie später weitere Möglichkeiten erhalten.
 
 **Zielgruppe**
 
--  Partner Center
+- Partner Center
 
 Sie können die von Ihnen im Partner Center gewonnenen Angebote registrieren, indem Sie zusätzliche Informationen zum Vertrag bereitstellen. Diese Informationen helfen uns, Ihnen in Zukunft weitere Möglichkeiten zu bieten.
 
@@ -55,7 +55,7 @@ Wenn ein Angebot aus einer Empfehlung stammt und Sie es noch nicht registriert h
 
 Sie können die Registrierungen neuer, aktiver und abgeschlossener Angebotsregistrierungen auf den verschiedenen Seiten unter **Empfehlungen > Angebotsregistrierung** überprüfen.
 
-### <a name="action-required"></a>Aktion erforderlich
+### <a name="action-required"></a>Erforderliche Aktion
 
 Auf der Seite **Empfehlungen > Angebotsregistrierungen > Aktion erforderlich** werden neue Registrierungen angezeigt, die noch nicht registriert wurden oder eine Aktualisierung benötigen. Sie können die Filter verwenden, um nur Angebotsregistrierungen mit dem Status **Unvollständig** oder **Aktualisierung erforderlich** anzuzeigen. **Unvollständige** Angebotsregistrierungen sind solche Registrierungen, die aus Empfehlungen stammen, aber noch nicht registriert wurden. Angebotsregistrierungen vom Typ **Aktualisierung erforderlich** sind solche Registrierungen, die erstellt und registriert wurden, die jedoch erfordern, dass Sie die von Ihnen bereitgestellten Informationen aktualisieren.
 

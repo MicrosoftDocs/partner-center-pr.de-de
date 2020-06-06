@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e92964b2b75a0ee4e9943740ba4da4aa71c82f9f
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: abb04f21a50cbbef83418a8e2fec480a0020c443
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328291"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467540"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preise und Angebote für Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure und mehr
 
@@ -82,7 +82,7 @@ CSP bietet einige Dienste für spezielle Marktsegmente, z. b. Education, Non-Pro
 
 |**Segment**   |**Wer muss qualifiziert werden**   |**Partner qualifiziert Kunden**|**Aktivierte Produkttypen**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Kunde|Nein, Kunden Qualifizierung wird von Microsoft durchgeführt. |Nur Lizenz basiert|
+|Fortbildung|Kunde|Nein, Kunden Qualifizierung wird von Microsoft durchgeführt. |Nur Lizenz basiert|
 |Non-Profit|Kunde|Nein, Kunden, die sich außerhalb von Partner Center qualifizieren|Nur Lizenz basiert|
 |Government Community Cloud (GCC)|Partner und Kunde|Nachdem gcc aktiviert wurde, kann der Partner gcc-Kunden erstellen.| Nur Lizenz basiert|
 |Azure Government|Partner|Nach der Qualifikation arbeitet der Partner in einem CSP-Mandanten, der für Azure Government|Azure-Ressourcen|
@@ -122,3 +122,32 @@ Der Bereich des Angebots Limits wird als Spalte in der Angebots Listen Matrix au
 ### <a name="taxes-and-pricing"></a>Steuern und Preise
 
 Alle Preise in den Preislisten der Partner Center-CSP sind Tax inklusiv. Weitere Informationen finden Sie im Partner Center in den Dokumenten [Steuern und Steuern](tax-and-tax-exemptions.md).
+
+## <a name="multi-year-term-offers"></a>Angebote für mehrjährige Laufzeit
+
+### <a name="36-month-offers"></a>36-monatige Angebote
+
+Es gibt ungefähr 50 Dynamics-Angebote mit drei Jahres Bedingungen. Diese werden im Titel der Angebote durch **(36 Mo)** identifiziert. Diese Angebote sind den jährlichen angeboten sehr ähnlich. Der einzige Unterschied besteht in Bezug auf den Begriff. Diese Angebote haben eine Laufzeit von drei Jahren, d. h., die Abonnements werden automatisch nach drei Jahren verlängert und nicht in einer. Im folgenden finden Sie eine Zusammenfassung der Funktionsweise dieser Angebote:
+
+- Die Nutzungsbedingungen sind 36 Monate, die Abonnements werden nach drei Jahren automatisch verlängert.
+- Partner können die Anzahl der Lizenzen während der Laufzeit des Abonnements abbrechen oder ändern.
+- Die jährliche Erneuerung erfolgt zum Preis der kaufzeit für die dreijährige Laufzeit.
+- Die Abrechnungs Häufigkeit beträgt immer noch jährlich oder monatlich.
+
+### <a name="72-month-offers"></a>72-monatige Angebote
+
+Das Basisangebot Microsoft 365 a1 hat eine Laufzeit von sechs Jahren.  Die Office 365 a1-Add-ons sind nach dem Erwerb dieses Basis Angebots verfügbar. 
+
+|**Angebotsname**   |**Angebots-ID**   |**Typ**|
+|-------------------|-----------------------|----------------------------|
+|Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Basisangebot|
+|Office 365 a1 für Lehrpersonal (für Gerät)|0757d14e-7c57-456F-8dab-47d164f2ff1f|Add-On|
+|Office 365 a1 für Studenten (für das Gerät)|bae285a9-d56b-4384-b02f-38adc61a6f 12|Add-On|
+
+Im folgenden finden Sie eine Zusammenfassung der Funktionsweise dieser Angebote:
+
+- Der Begriff ist 72 Monate oder 6 Jahre
+- Das Abonnement wird nicht erneuert und läuft nach 6 Jahren ab.
+- Die Abrechnungs Häufigkeit für das Angebot wird als jährlich angezeigt, aber der Partner wird nach dem Erwerb des Abonnements vorab auf der ersten Rechnung abgerechnet.
+- Abonnements für 72-monatige-monatige Angebote sind nach dem Kauf gesperrt und können nicht abgebrochen werden, und die Anzahl der Lizenzen kann dem Abonnement nach dem ersten Kauf
+- Partner, die abbrechen müssen, müssen ein Support Ticket mit dem Grund für den Abbruch und der Abonnement-ID erstellen, die Sie unterstützen müssen.

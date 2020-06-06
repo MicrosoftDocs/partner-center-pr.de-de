@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7efe2dbc0a616a4ccd46894faae56a81514d996
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795787"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453187"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Verschieben mehrerer Unternehmen von Partner Membership Center (PMC) zum Partner Center
 
@@ -42,13 +42,13 @@ Wenn Sie nach der Migration feststellen, dass das falsche Unternehmens Konto als
 
 4. Wählen Sie das Unternehmen und die Region aus, und speichern Sie die Informationen.
 
-![Vorhandenes Konto](images/migration/accountwithus.png)
+:::image type="content" source="images/migration/accountwithus.png" alt-text="Vorhandenes Konto":::
 
 ## <a name="your-company-has-an-account-in-partner-center"></a>Ihr Unternehmen verfügt über ein Konto in Partner Center
 
 Es werden Ihr bestehendes Konto und eine Notiz angezeigt, die Ihnen mitteilt, dass Ihre Unternehmensdaten (das Konto, mit dem Sie sich gerade anmelden) in diesem Konto konsolidiert werden.
 
-![Konto in Partner Center](images/migration/existingaccount2.png)
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="Konto in Partner Center":::
 
 Auf diesem Bildschirm werden Ihnen die Details des bestehenden Kontos (Name und Adresse), das bereits in Partner Center erstellt wurde, zusammen mit den Details des primären Kontakts angezeigt.
 
@@ -76,7 +76,7 @@ Wählen Sie **Weiter**.
 
 Die Angaben basieren auf den Informationen in PMC und werden überprüft, um sicherzustellen, dass das Unternehmen legitim ist.
 
-![Überprüfen der Details](images/migration/review.png)
+:::image type="content" source="images/migration/review.png" alt-text="Details überprüfen":::
 
 Wenn sich das Konto, das Sie verschieben, im gleichen Land oder in derselben Region wie das bestehende Konto befindet, können Sie entscheiden, ob Sie diese Adresse verwenden oder eine andere hinzufügen möchten. Wenn Sie eine andere Adresse verwenden, wird diese überprüft. Wenn Sie dieselbe Adresse verwenden möchten, werden die vorhandene Adresse und der primäre Kontakt verwendet.
 

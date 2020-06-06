@@ -1,7 +1,7 @@
 ---
-title: Globale CSP-Märkte | Partner Center
+title: Globale CSP-Märkte
 ms.topic: article
-ms.date: 11/03/2018
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sehen Sie sich die Länder, Regionen und Währungen an, in denen Sie CSP-Angebote basierend auf dem Standort Ihres Unternehmens verkaufen können.
@@ -10,17 +10,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: CSP-Märkte, Gebiete, in denen ich über CSP verkaufen kann, CSP-Angebote, Regionen, Cloudlösungen verkaufen, CSP (global)
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 17b2b27b0a1398128f479c39566efd36377af692
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7d7d67bded18dfacd568d23e61d165de0be68f0f
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798698"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467430"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>Regionale Märkte und Währungen des Cloud Solution Provider-Programms
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider Program (regionale Märkte und Währungen), in denen Sie CSP-Angebote verkaufen können
 
-Ihr Markt wird durch den Standort Ihres Unternehmens bestimmt. Ihr Markt umfasst die Regionen und/oder Länder, in denen Sie CSP-Angebote verkaufen können.
+Ihr Markt wird durch den Standort Ihres Unternehmens bestimmt. Ihr Markt umfasst die Regionen und/oder Länder, in denen Sie Angebote von Cloud Solution Provider (CSP) verkaufen können.
 
 Wenn sich Ihr Unternehmen z. b. im USA befindet, können Sie CSP-Angebote an Kunden in den USA und in US-amerikanischen Außeninseln verkaufen. Wenn sich Ihr Unternehmen in Brasilien befindet, können Sie CSP-Angebote nur an Kunden in Brasilien verkaufen. Wenn sich Ihr Unternehmen in der Region Afrika befindet, können Sie die CSP-Angebote an Kunden in allen 18 Ländern der Region Afrika verkaufen.
 
@@ -55,8 +55,8 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 | Zentralafrikanische Republik |   USD    |
 | Tschad                     |   USD    |
 | Komoren                  |   USD    |
-| Kongo                    |   USD    |
-| Kongo, Demokratische Republik              |   USD    |
+| Kongo (Demokratische Republik)                    |   USD    |
+| Kongo (DRC)              |   USD    |
 | Côte d'Ivoire            |          |
 | Dschibuti                 |   USD    |
 | Äquatorialguinea        |   USD    |
@@ -87,7 +87,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 | Sierra Leone             |   USD    |
 | Somalia                  |   USD    |
 | Südsudan              |   USD    |
-| St. Helena, Ascension und Tristan da Cunha|    USD   |
+| St. Helena, Ascension, Tristan da Cunha|    USD   |
 | Tansania                 |   USD    |
 | Togo                     |   USD    |
 | Uganda                   |          |
@@ -147,7 +147,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Salomonen       |   AUD    |
 |  Tokelau               |   AUD    |
 |  Tonga                 |   AUD    |
-|  Tuvalu                |   AUD    |
+|  Tuwalu                |   AUD    |
 |  Wallis und Futuna     |   AUD    |
 |
 
@@ -278,11 +278,11 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Ecuador        |   USD    |
 |  El Salvador    |   USD    |
 |  Falklandinseln|  USD    |
-|  Französisch-Guyana  |   USD    |
+|  Französisch-Guayana  |   USD    |
 |  Grenada        |   USD    |
 |  Guadeloupe     |          |
 |  Guatemala      |   USD    |
-|  Guyana         |   USD    |
+|  Guayana         |   USD    |
 |  Haiti          |   USD    |
 |  Honduras       |   USD    |
 |  Jamaika        |   USD    |
@@ -295,15 +295,15 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Peru           |   USD    |
 |  Puerto Rico    |   USD    |
 |  Saba           |   USD    |
-|  Saint Barthélemy|  USD    |
+|  St. Barthélemy|  USD    |
 |  St. Kitts und Nevis|    |
 |  St. Lucia    |   USD    |
-|  Saint Martin   |   USD    |
+|  St. Martin   |   USD    |
 |  St. Vincent und die Grenadinen| USD |
 |  Sint Eustatius |   USD    |
 |  Sint Maarten   |   USD    |
-|  Südgeorgien und die Südlichen Sandwichinseln| USD|
-|  Suriname       |   USD    |
+|  Südgeorgien und Südliche Sandwichinseln| USD|
+|  Surinam       |   USD    |
 |  Trinidad und Tobago|USD   |
 |  Turks- und Caicosinseln| USD|
 |  Uruguay        |   USD    |
@@ -330,7 +330,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Georgien        |   USD    |
 |  Irak           |   USD    |
 |  Israel         |   USD    |
-|  Jordan         |          |
+|  Jordanien         |          |
 |  Kasachstan     |   USD    |
 |  Kosovo         |   USD    |
 |  Kuwait         |   USD    |
@@ -401,5 +401,5 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Land/Region       | Währung |
 |  -------------        |:--------:|
 |  USA        |   USD    |
-|  USA Kleinere Amerikanische Überseeinseln|   USD    |
+|  USA Amerikanische Überseeinseln|   USD    |
 |

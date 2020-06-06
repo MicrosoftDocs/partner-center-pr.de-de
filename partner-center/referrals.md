@@ -1,7 +1,7 @@
 ---
-title: Umsatzsteigerung mit Empfehlungen von Microsoft | Partner Center
+title: Erweitern Sie Ihr Business mit Microsoft-Referenzen
 ms.topic: article
-ms.date: 08/12/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie ein Geschäftsprofil erstellen, um Vertriebs Leads über die Partner Center-Referenzfunktion zu generieren, und dann auf diese Verweise zu reagieren.
@@ -9,20 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Empfehlungen, Unternehmensprofil, Partner suchen
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e4865bd3de1151033aef5b50409261823c289a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53499b0a02733cb83ee68b93655e49034da75c33
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943253"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467440"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
-# <a name="grow-your-business-with-referrals-from-microsoft"></a>Umsatzsteigerung mit Empfehlungen von Microsoft
+# <a name="grow-your-business-with-referrals-from-microsoft"></a>Steigerung des Umsatzes mit Empfehlungen von Microsoft
 
 **Zielgruppe**
 
--  Partner Center
+- Partner Center
 
 Viele Kunden suchen nach qualifizierten Experten, die sie bei der Implementierung von Microsoft-Technologien und -Lösungen unterstützen. Microsoft erhält häufig direkte Supportanfragen von Kunden über unsere Marketingaktivitäten und von unseren internen Microsoft-Vertriebsmitarbeitern. Kunden nutzen darüber hinaus die Funktion [**Lösungsanbieter suchen**](https://www.microsoft.com/solution-providers/search), um Unternehmen zu finden, die sie bei der Erfüllung ihrer Unternehmensanforderungen unterstützen können. 
 

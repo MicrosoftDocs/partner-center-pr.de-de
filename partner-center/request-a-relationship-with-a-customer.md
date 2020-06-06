@@ -1,26 +1,26 @@
 ---
-title: Anfordern einer Beziehung mit einem Kunden | Partner Center
+title: Beantragen einer Partnerschaft mit einem Kunden
 ms.topic: article
-ms.date: 01/28/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Das Beantragen einer Partnerschaft mit einem Kunden wird in Multipartner- und Multichannelszenarien verwendet. Dieser Vorgang ist auch hilfreich, wenn ein Kunde Ihre delegierten Administratorrechte entfernt und Sie sie für Bereitstellungen oder Supportleistungen wiederherstellen müssen.
+description: Fordern Sie eine Beziehung mit einem Kunden für Multi-Channel-Szenarien mit mehreren Partnern an, oder wenn Ihre delegierten Administratorrechte für einen Kunden wieder hergestellt werden müssen.
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fd3d9b2067c7e9253a4a0f32c3afcbc7d0eadd5
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: fe0d4053fba0c9c9a6ef0b593cc5906b57f2359f
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362708"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467370"
 ---
-# <a name="connect-with-customers-in-partner-center"></a>Kontaktaufnahme mit Kunden im Partner Center
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Anfordern einer Reseller-Beziehung von einem Kunden im Partner Center
 
 **Zielgruppe**
 
--  Partner Center
+- Partner Center
 
 Wenn Sie den Dienst oder das Abonnement eines Kunden in seinem Namen verwalten möchten, müssen Sie dem Kunden Administrator Berechtigungen für diesen Dienst oder das Abonnement erteilen und den Microsoft-Kundenvertrag signieren.
 
@@ -28,7 +28,7 @@ Wenn Sie eine Vertriebspartnerschaft mit einem Kunden aufbauen und nur die von I
 
 Beachten Sie, dass die Option, keine Berechtigungen anzufordern, den Partnern, die in Microsoft Cloud for US Government oder Microsoft Cloud Deutschland arbeiten, nicht zur Verfügung steht. Weitere Informationen finden Sie unter [Kunden delegieren Administratorrechte an Partner](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden zur Einrichtung einer Vertriebspartnerschaft mit Ihnen
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden, eine Vertriebspartnerschaft mit Ihnen einzugehen
 
 Beachten Sie, dass Sie eine Vertriebspartnerschaft mit einem Kunden aus Ihrem Land oder Ihrer Region anfordern können.
 

@@ -1,45 +1,50 @@
 ---
-title: Verwenden von Werbeaktionen zum Gewinnen neuer Kunden | Partner Center
+title: Verwenden von Werbeaktionen zum gewinnen von Kunden
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Als Microsoft-Partner im Cloud-Lösungsanbieter-Programm können Sie Abonnements zu Aktionspreisen erwerben und die Einsparungen an die Kunden weitergeben.
+description: Erfahren Sie, wie Microsoft-Partner im Cloud Solution Provider-Programm Abonnements bei Promotionpreisen erwerben und die Einsparungen an Ihre Kunden weitergeben können.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d43853c149f00ba284065a05ff5e6585beb4495
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 89e552e87f24caa43e0875afa2b7bea6e870c406
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798738"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467500"
 ---
-# <a name="use-promotions-to-attract-new-customers"></a>Verwenden von Werbeaktionen zum Gewinnen neuer Kunden  
+# <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Verwenden Sie herauf stufungen, um neue Kunden zu gewinnen und die Einsparungen an diese zu übergeben.
 
-**Gilt für: Partner Center**
+**Zielgruppe**
+
+- Partner Center
+- Partner im CSP-Programm (Cloud Solution Provider)
 
 **Geeignete Rollen**
--   Administrator-Agent
--   MPN-Partneradministrator
--   Abrechnungsadministrator
--   Vertriebsbeauftragter
+
+- Administrator-Agent
+- MPN-Partneradministrator
+- Abrechnungsadministrator
+- Vertriebsbeauftragter
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
 Microsoft bietet gelegentlich Werbeaktionen für lizenzbasierte Abonnements an, deren Einsparungen Sie an die Kunden weitergeben können, um Ihr Geschäft zu erweitern. 
 
-Microsoft bietet zwei Arten von Werbeaktionen: die, die für alle berechtigten Partner im Cloud-Lösungsanbieter-Programm zur Verfügung stehen, und die, die nur für Partner in einer bestimmten geografischen Region zur Verfügung stehen.
+Microsoft bietet zwei Arten von Werbeaktionen an: solche, die für alle berechtigten Partner im Cloud Solution Provider-Programm (CSP) verfügbar sind, und nur für Partner in einer bestimmten geografischen Region.
 
 Aktionspreise werden automatisch auf Ihren Nettopreis angewendet, wenn Sie neue Abonnements zum Werbepreis erwerben. Darüber hinaus werden alle Lizenzen, die Sie zu einem über einen Aktionspreis erworbenen Abonnement hinzufügen, zum Werbepreis hinzugefügt. 
 
 Nehmen Sie sich einen Moment Zeit, diese wichtigen Fakten zu Werbeaktionen zu überprüfen:
 
--   Der promotionpreis eines Abonnements gilt nur für die Dauer des Abonnements. Wenn ein Abonnement abläuft, das Sie mit dem Aktionspreis erworben haben, wird der Preis des Erneuerungs Abonnements auf den Preis in der Preisliste zurückgesetzt. Dies bedeutet, dass alle Abonnements, für die die automatische Verlängerung eingerichtet ist, zum geltenden Preis verlängert werden. Die Preisliste finden Sie auf der Seite **Preise und Angebote**. 
+- Der promotionpreis eines Abonnements gilt nur für die Dauer des Abonnements. Wenn ein Abonnement abläuft, das Sie mit dem Aktionspreis erworben haben, wird der Preis des Erneuerungs Abonnements auf den Preis in der Preisliste zurückgesetzt. Dies bedeutet, dass alle Abonnements, für die die automatische Verlängerung eingerichtet ist, zum geltenden Preis verlängert werden. Die Preisliste finden Sie auf der Seite **Preise und Angebote**.
 
--   Wenn ein Abonnement für mehrere Aktionen berechtigt ist, wird automatisch die Aktion mit dem höchsten Prozentsatz angewendet.
+- Wenn ein Abonnement für mehrere Aktionen berechtigt ist, wird automatisch die Aktion mit dem höchsten Prozentsatz angewendet.
 
--   Für Stornierungen gelten der gleiche Prozess und die gleiche Richtlinie wie für Abonnements zum regulären Preis.
+- Für Stornierungen gelten der gleiche Prozess und die gleiche Richtlinie wie für Abonnements zum regulären Preis.
 
 ## <a name="see-available-promotions"></a>Verfügbare Werbeaktionen anzeigen
 
@@ -60,7 +65,6 @@ Sie können auf Ihrer **Promotionseite** sehen, wofür Sie ggf. berechtigt sind.
 
 5. Überprüfen Sie die Bestellung. Sie sehen den angewendeten Aktionspreis in der Spalte **Rabatt**.  
 
-6.  Wählen Sie zum Kauf **Senden** aus. Ihr Kunde sieht den reduzierten Preis auf der nächsten Rechnung.  
-
+6. Wählen Sie zum Erwerb **einreichen** aus. Ihr Kunde sieht den reduzierten Preis auf der nächsten Rechnung.  
 
 

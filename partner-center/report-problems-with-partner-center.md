@@ -1,28 +1,28 @@
 ---
-title: Melden von Problemen mit dem Partner Center | Partner Center
+title: Melden von Problemen mit Partner Center
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informationen zum Melden von Problemen mit Partner Center und zum Sammeln von Diagnoseinformationen für unser Support-Team.
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1542813229c062e298e40a4874543774796ec2da
-ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c43c4b452c7df7f28869ead32e60c8e7f2fa512a
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "79023480"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467390"
 ---
-# <a name="report-problems-with-partner-center"></a>Melden von Problemen mit dem Partner Center
+# <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Melden von Problemen mit dem Partner Center und Übermitteln von Protokoll-oder Diagnoseinformationen
 
-**Gilt für:**
+**Zielgruppe**
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
-
 
 Wenden Sie sich an den Partner Center-Support, wenn Sie Probleme finden oder Hilfe bei Partner Center benötigen.
 
@@ -36,14 +36,14 @@ Wenden Sie sich an den Partner Center-Support, wenn Sie Probleme finden oder Hil
 
 4. Wenn die **empfohlenen Lösungen** das Problem gelöst haben, können Sie **zum Dashboard zurückkehren**auswählen. Wenn Sie trotzdem Hilfe benötigen, können Sie den Vorgang fortsetzen und **Problem Details angeben**.
 
-5. Vervollständigen Sie die **Problem Details** , und über **Mitteln**Sie Sie. Ein Partner Support Mitarbeiter wird Ihnen folgen.
+5. Vervollständigen Sie die **Problem Details** , und über **Mitteln**Sie Sie. Ein Partner-Supportmitarbeiter wird sich bei Ihnen melden.
 
 **Senden von Diagnosen**
 
-Wenn ein Fehler auftritt, während Sie sich auf einer Partner Center-Seite befinden, werden Sie möglicherweise aufgefordert, Protokollinformationen zu sammeln. Wählen Sie **Collect more information** (Weitere Informationen sammeln) über den Link aus, der vom oberen Rand der Seite nach unten klappt, um das Clientdiagnosetool zu öffnen. Dieses Tool sammelt Informationen, die das Partner-Supportteam benötigt, um die Fehlerursache zu ermitteln. 
+Wenn ein Fehler auftritt, während Sie sich auf einer Partner Center-Seite befinden, werden Sie möglicherweise aufgefordert, Protokollinformationen zu sammeln. Wählen Sie **Weitere Informationen sammeln** aus dem Link aus, der oben auf der Seite angezeigt wird, um das Client Diagnosetool zu öffnen. Mit diesem Tool werden Informationen gesammelt, die vom Supportteam des Partners benötigt werden, um die Ursache des Fehlers zu ermitteln. 
 
 >[!NOTE]
->Auf Partner Center-Seiten, die **/pcv/** in der URL enthalten, können Sie das Tool manuell öffnen, um diese Informationen zu erfassen.
+>Auf Partner Center-Seiten, die **/PCV/** in der URL enthalten, können Sie das Tool manuell öffnen, um diese Informationen zu sammeln.
 
 1. Wechseln Sie auf die Seite mit dem Problem.
 

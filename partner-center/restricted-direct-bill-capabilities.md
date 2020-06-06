@@ -1,22 +1,23 @@
 ---
 title: Eingeschränkte Direktabrechnungsfunktionen
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Direkte Abrechnungspartner, die die neue Anforderung nicht erfüllen, verfügen über eingeschränkte Funktionen der Rechnung.
+description: Informieren Sie sich über die Anforderungen von CSP Direct Bill Partner und darüber, was Sie tun müssen, um zu verhindern, dass Finden Sie heraus, ob ihre Funktionen eingeschränkt wurden.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: direkt Rechnung, einschränken
-ms.openlocfilehash: ae2a1a66f1a93e8b8183a307eca395e9781a00df
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a7213708d598e48d1e7e0534908aed99d84b50de
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362428"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467230"
 ---
-# <a name="restricted-direct-bill-capabilities"></a>Eingeschränkte Direktabrechnungsfunktionen  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Eingeschränkte direkte Rechnungs Funktionen und die Anforderungen für direkte CSP-Abrechnungspartner  
 
 ## <a name="overview"></a>Übersicht
 
@@ -42,22 +43,29 @@ Führen Sie die folgenden Schritte aus, um zu überprüfen, ob der Zugriff vom d
 Wenn Ihre direkt Rechnung eingeschränkt ist, können Sie keine neuen Käufe mehr für Ihre Kunden im Partner Center erstellen. Diese Einschränkung umfasst Folgendes:
 
 - Azure-Abonnements
+
 - Arbeitsplatz basierte Abonnements
+
 - Fügen Sie vorhandenen Arbeitsplatz basierten Abonnements neue Add-ons hinzu.
+
 - Erstellen Sie einmalige Käufe von Software-und Reservierungs Produkten (z. b. Software Abonnements, unbefristete Software und reservierte Azure-VM-Instanzen).
 
-Sie können auch keine neuen Azure-Abonnements für Ihren eigenen Gebrauch erwerben, indem Sie das [Azure Partner Shared Services-Angebot](shared-services.md) unter dem CSP-Programm verwenden.
+Sie können auch das [Angebot Azure Partner Shared Services](shared-services.md) im CSP-Programm nicht verwenden, um neue Azure-Abonnements für Ihren eigenen Gebrauch zu erwerben.
 
 Vorhandene Direktabrechnungsabonnements sind nicht betroffen. Sie bleiben gültig und werden automatisch geändert. Sie werden weiterhin direkt von Microsoft in Rechnung gestellt, bis Sie abgebrochen werden. Sie können vorhandene Abonnements weiterhin auf folgende Weise verwalten:
 
 - Aussetzen vorhandener Abonnements
+
 - Anpassen der Anzahl der Arbeitsplätze vorhandener Arbeitsplatz basierter Abonnements
+
 - Anpassen der Arbeitsplatzanzahl für vorhandene Abonnement-Add-Ons. Hinweis: Sie können vorhandenen Abonnements keine neuen Add-ons hinzufügen, da diese als neuer Kauf behandelt werden.
+
 - Bereitstellen neuer Azure-Ressourcen und Verwalten vorhandener Azure-Ressourcen unter vorhandenen Azure-Abonnements. Dies schließt Ressourcen ein, die über Azure Marketplace-und Visual Studio-Abonnements verfügbar sind.
 
 Neben neuen Käufen haben Sie auch keinen Zugriff mehr auf folgende Direktabrechnungsfunktionen in Partner Center:
 
 - Sie können keine neuen Kunden Mandanten erstellen. Die Option " **Kunde erstellen** " auf der Seite " **Kunden** " im Partner Center ist nicht verfügbar.
+
 - Sie können keine Einladung für Kunden generieren, die eine direkte Wiederverkäufer Beziehung anfordern. Die Option **Reseller Relationship anfordern** auf der Seite **Kunden** im Partner Center ist nicht verfügbar.
 
     >[!Note]

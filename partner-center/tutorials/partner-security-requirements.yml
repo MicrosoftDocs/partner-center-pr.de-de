@@ -11,12 +11,12 @@ metadata:
   ms.author: isaiahwilliams
   author: iswillia
   ms.topic: tutorial
-  ms.openlocfilehash: dbf5e0dc39a3c6aa2ba8eb0433abd09ae955f311
-  ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
-  ms.translationtype: HT
+  ms.openlocfilehash: 75211a49ba016ca7d75679d3cfac0a1116c5cf20
+  ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+  ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 04/23/2020
-  ms.locfileid: "80136325"
+  ms.lasthandoff: 06/05/2020
+  ms.locfileid: "84453347"
 items:
 - title: Einführung
   durationInMinutes: 5
@@ -99,15 +99,15 @@ items:
 
     Sobald Sie die Baselinerichtlinie *MFA für Administratoren anfordern* aktiviert haben, ändert sich der Anmeldevorgang für Benutzer, die Mitglied der oben aufgeführten Administratorrollen sind. Die folgenden Änderungen sind das, was die von dieser Richtlinie betroffenen Benutzer erwartet:
 
-      ![Anfordern weiterer Informationen](../images/security/baseline-require-more-info.png)
+      :::image type="content" source="../images/security/baseline-require-more-info.png" alt-text="Anfordern weiterer Informationen":::
 
-      ![Zusätzliche Sicherheitsüberprüfung](../images/security/baseline-security-verification-setup.png)
+      :::image type="content" source="../images/security/baseline-security-verification-setup.png" alt-text="Zusätzliche Sicherheitsüberprüfung":::
 
-      ![Konfigurieren der mobilen App](../images/security/baseline-configure-mobile-app.png)
+      :::image type="content" source="../images/security/baseline-configure-mobile-app.png" alt-text="Konfigurieren der mobilen App":::
 
-      ![Setup der zusätzlichen Sicherheitsüberprüfung abgeschlossen](../images/security/baseline-security-verification-setup-completed.png)
+      :::image type="content" source="../images/security/baseline-security-verification-setup-completed.png" alt-text="Setup der zusätzlichen Sicherheitsüberprüfung abgeschlossen":::
 
-      ![Zusätzliche Sicherheitsüberprüfung bestätigt](../images/security/baseline-security-verification-confirmed.png)
+      :::image type="content" source="../images/security/baseline-security-verification-confirmed.png" alt-text="Zusätzliche Sicherheitsüberprüfung bestätigt":::
 
     Nachdem der Benutzer die oben genannten Schritte abgeschlossen hat, kann er sich bei dem Microsoft-Clouddienst anmelden, auf den er zugreifen möchte.
 - title: Wie aktiviere ich die Baselinerichtlinie „Endbenutzerschutz“?
@@ -140,14 +140,14 @@ items:
 
     Nachdem Sie die Baselinerichtlinie *Endbenutzerschutz* aktiviert haben, ändert sich der Anmeldevorgang für alle Benutzer. Die folgenden Änderungen sind das, was Benutzer erwartet:
 
-      ![Anfordern weiterer Informationen](../images/security/baseline-require-more-info.png)
+      :::image type="content" source="../images/security/baseline-require-more-info.png" alt-text="Anfordern weiterer Informationen":::
 
-      ![Zusätzliche Sicherheitsüberprüfung](../images/security/baseline-security-verification-setup.png)
+      :::image type="content" source="../images/security/baseline-security-verification-setup.png" alt-text="Zusätzliche Sicherheitsüberprüfung":::
 
-      ![Konfigurieren der mobilen App](../images/security/baseline-configure-mobile-app.png)
+      :::image type="content" source="../images/security/baseline-configure-mobile-app.png" alt-text="Konfigurieren der mobilen App":::
 
-      ![Setup der zusätzlichen Sicherheitsüberprüfung abgeschlossen](../images/security/baseline-security-verification-setup-completed.png)
+      :::image type="content" source="../images/security/baseline-security-verification-setup-completed.png" alt-text="Setup der zusätzlichen Sicherheitsüberprüfung abgeschlossen":::
 
-      ![Zusätzliche Sicherheitsüberprüfung bestätigt](../images/security/baseline-security-verification-confirmed.png)
+      :::image type="content" source="../images/security/baseline-security-verification-confirmed.png" alt-text="Zusätzliche Sicherheitsüberprüfung bestätigt":::
 
     Nachdem der Benutzer die oben genannten Schritte abgeschlossen hat, kann er sich bei dem Microsoft-Clouddienst anmelden, auf den er zugreifen möchte. Hinweis: Benutzer, die nicht unter die Baselinerichtlinie *MFA für Administratoren erfordern* fallen, werden nur basierend auf einem Risiko aufgefordert, MFA durchzuführen, bis die Sicherheitsanforderungen des Partners erzwungen werden.

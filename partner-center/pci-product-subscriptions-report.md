@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 21c90449ca6ee93f41455db41af596a65d4946bf
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795911"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452791"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Bericht "Produkt Abonnements" im Partner Center Insights-Dashboard verfügbar
 
@@ -66,7 +66,7 @@ Das Micro-Diagramm zeigt einen monatlichen Trend der Abonnements, die im ausgew�
 
 - Abonnements nach Produkten: Aufschlüsselung der aktuellen Abonnement Anzahl nach cloudprodukten.
 
-![Zusammenfassung der Abonnement Berichte](images/pci/pci_sub_report_summary_1.png)
+:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Zusammenfassung der Abonnement Berichte":::
 
 **Geografische Verteilung von Abonnements**
 
@@ -76,7 +76,7 @@ In der Tabelle " **Länder/Region** " werden die Gesamtanzahl der Länder/Region
 
 Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte zu zoomen. Drücken Sie die **Start** Option in der Karte, um zur ursprünglichen Ansicht zurückzukehren. Zeigen Sie auf die Karte, um alle Abonnements und aktiven Abonnements nach Land anzuzeigen. Beide Felder im Raster sind sortierbar.
 
-![Abonnements nach Geografie](images/pci/pci_sub_report_sub_by_geography_2.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="Abonnements nach Geografie":::
 
 **Hinzufügungen/Abwanderung von Abonnements**
 
@@ -84,19 +84,19 @@ Diese Ansicht zeigt einen Trend von Abonnements. Diese werden für den ausgewäh
 
 Das gestapelte Säulendiagramm stellt eine Aufschlüsselung neuer, vorhandener und Änderungs Abonnements für den Monat dar. Sie können das Säulendiagramm neu erstellen, wobei Sie mit bestimmten Stapel Elementen aufgeschlüsselt sind. Wählen Sie zu diesem Zweck die einzelnen Elemente in der Legende aus. Sie können auch den Schieberegler oberhalb des Diagramms nutzen, um einen bestimmten Zeitraum zu vergrößern.
 
-![Hinzufügungen und Änderungen von Abonnements](images/pci/pci_sub_report_sub_adds_churns_3.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="Hinzufügungen und Änderungen von Abonnements":::
 
 **Abonnement Verteilung**
 
 Diese Ansicht zeigt eine Aufschlüsselung Ihrer aktuellen Abonnements durch ihre MPN-Standorte, Kundensegmente, Vertriebskanäle/Azure-Preismodell und den Zuweisungs Typen (z. b. dpor, DAP usw.). Klicken Sie auf die entsprechenden Registerkarten, um die Aufteilung nach diesen Kategorien anzuzeigen. Um das Kreis Diagramm mit einer Aufschlüsselung bestimmter Element Kategorien zu erstellen, wählen Sie die Element Kategorien in der Legende aus.
 
-![Abonnement Verteilung](images/pci/pci_sub-report_distribution_4.png)
+:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="Abonnement Verteilung":::
 
 **Verteilung des Abonnement Status**
 
 Diese Ansicht zeigt die Verteilung Ihrer aktuellen Kunden Abonnements nach Abonnement Zustand oder-Status. Dies schließt die folgenden Abonnement Zustände ein: **aktiv**, deaktiviert **, bereitgestellt,** **offen**, **ingraceperiod**, **Closed**und **andere**. **Disabled**
 
-![Verteilung des Abonnement Status](images/pci/pci_sub_report_sub_states_5.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="Verteilung des Abonnement Status":::
 
 **Produkt Trend**
 
@@ -104,7 +104,7 @@ In dieser Ansicht werden ein Balkendiagramm und zwei Kreis Diagramme angezeigt. 
 
 In den beiden Kreis Diagrammen wird eine Aufschlüsselung Ihrer aktuellen Kunden Abonnements angezeigt. Das erste Kreis Diagramm gliedert Abonnements nach Produkten. Das zweite Kreis Diagramm gliedert Abonnements nach SKUs oder Plänen. Wenn Sie im Kreis Diagramm "Aufschlüsselung **nach Produkten** " ein Produkt auswählen, wird im angrenzenden Kreis Diagramm eine Aufschlüsselung der Abonnements dieses Produkts nach SKUs angezeigt.
 
-![Produkt Trend](images/pci/pci_sub-report_prods_trend_6.png)
+:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="Produkt Trend":::
 
 > [!NOTE]
  > Die von SKUs aufgeschlüsselt Abonnement Anzahl entspricht möglicherweise nicht immer der Gesamtanzahl der Abonnements für dieses Produkt. Dies kann vorkommen, wenn ein Kunde mehrere SKUs im gleichen Produkt Abonnement gekauft hat.

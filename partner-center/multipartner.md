@@ -1,7 +1,7 @@
 ---
-title: Support für mehrere Partner | Partner Center
+title: Support für mehrere Partner
 ms.topic: article
-ms.date: 03/20/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Ein Kunde möchte möglicherweise mit mehreren Partnern aus dem Cloud Solution Provider-Programm zusammenarbeiten, die sich auf unterschiedliche Dienste spezialisiert haben.
@@ -9,14 +9,15 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8837799bb170f2148aac9a1849146615a4ffebd1
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4ecaadd62df076daac9fd3d516a5109730fbc32f
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253957"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458416"
 ---
-# <a name="multi-partner-support"></a>Support für mehrere Partner
+# <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Unterstützung mehrerer Partner für Kunden, die mit mehr als einem Partner arbeiten möchten
 
 **Zielgruppe**
 

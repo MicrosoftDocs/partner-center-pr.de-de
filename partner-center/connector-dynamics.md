@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 87b1d27fa2f42eeba3b0f8308648536c0686911e
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.openlocfilehash: fef5468e0dc51cd9830fda6fb2ae60df5d9f39b5
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145134"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453247"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Co-Selling-Connector für Dynamics 365 CRM – Übersicht
 
@@ -30,7 +30,7 @@ Die Lösung basiert auf der Microsoft Power automatisieren-Lösung und verwendet
 
 ## <a name="before-you-install---pre-requisites"></a>Vor der Installation von-Pre-Requirements
 
-|**Themen**   |**Details**   |**Links**   |
+|**Sonder**   |**Details**   |**Links**   |
 |--------------|--------------------|------|
 |Microsoft Partner Network-ID |Sie benötigen eine gültige MPN-ID.|So fügen Sie [MPN](https://partner.microsoft.com/) an|
 |Cosell bereit|Ihre IP-/Dienst-Lösung muss für den Co-Selling bereit sein.|[Vertrieb mit Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -38,23 +38,23 @@ Die Lösung basiert auf der Microsoft Power automatisieren-Lösung und verwendet
 |Partner Center-Benutzerrollen|Der Mitarbeiter, der die Connectors installieren und verwenden soll, muss ein Administrator sein.|[Zuweisen von Rollen und Berechtigungen zu Benutzern](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|Die CRM-Benutzerrolle ist Systemadministrator oder SystemCustomizer.|[Zuweisen von Rollen in Dynamics 365](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
 |Energie automatisierter Fluss Konto|Ein aktives, [Energie automatisierbares](https://flow.microsoft.com) Konto für den CRM-Systemadministrator oder den SystemCustomizer. Dieser Benutzer sollte sich mindestens einmal vor der Installation bei der [Strom Automatisierung](https://flow.microsoft.com) anmelden.|
 
-## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Installieren der Partner Center-Synchronisierung für Dynamics 365 (Energie automatisierte Lösung) 
+## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Installieren der Partner Center-Synchronisierung für Dynamics 365 (Energie automatisierte Lösung)
 
 1. Wechseln Sie zu " [Energie Automatisierung](https://flow.microsoft.com) ", und wählen Sie in der rechten oberen Ecke **Umgebungen** aus. In diesem Schritt werden die verfügbaren CRM-Instanzen angezeigt.
 
-2. Wählen Sie in der Dropdown-Dropdown-Ecke in der rechten oberen Ecke die entsprechende CRM-Instanz aus. 
+2. Wählen Sie in der Dropdown-Dropdown-Ecke in der rechten oberen Ecke die entsprechende CRM-Instanz aus.
 
 3. Wählen Sie in der linken Navigationsleiste **Lösungen** aus.
 
 4. Klicken Sie im oberen Menü auf den Link **appsource öffnen** .
 
-![Appsource öffnen](images/cosellconnectors/openappsource.png)
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Appsource öffnen":::
 
 5. Suchen Sie im Popup-Bildschirm nach **Partner Center-verweisverweisconnectors für Dynamics365** .  
 
-6. Klicken Sie auf die Schaltfläche **jetzt starten** und dann auf **weiter**. 
+6. Klicken Sie auf die Schaltfläche **jetzt starten** und dann auf **weiter**.
 
-7. Dadurch wird die Seite geöffnet, auf der Sie die CRM-Umgebung (Dynamics 365) zum Installieren der Anwendung auswählen können.  Stimmen Sie den Geschäftsbedingungen zu. 
+7. Dadurch wird die Seite geöffnet, auf der Sie die CRM-Umgebung (Dynamics 365) zum Installieren der Anwendung auswählen können.  Stimmen Sie den Geschäftsbedingungen zu.
 
 8. Anschließend werden Sie zur Seite **Verwalten Ihrer Lösungen** weitergeleitet.  Navigieren Sie zu "Partner Center-Verweise", indem Sie die Pfeil Schaltflächen unten auf der Seite verwenden. Die **geplante Installation** sollte neben der Projekt Mappe für Partner Center-Verweise angezeigt werden. Die Installation wird 10-15 Minuten dauern. 
 
@@ -62,7 +62,7 @@ Die Lösung basiert auf der Microsoft Power automatisieren-Lösung und verwendet
 
 10. Wählen Sie **Partner Center-Synchronisierungs Referenz für Dynamics 365 aus**. Die folgenden Strom automatisierten Flows und Entitäten sind verfügbar:
 
-![Verfügbare CRMs](images/cosellconnectors/dynamics-available-crms.png)
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="Verfügbare CRMs":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>Bewährte Vorgehensweise: testen, bevor Sie fortfahren
 
@@ -79,27 +79,27 @@ Stellen Sie sicher, dass Sie die Lösung in einer-Staging-Instanz von CRM testen
 
 2. Wählen Sie in der Dropdown- **Umgebung** in der rechten oberen Ecke die CRM-Instanz aus, auf der Sie die Energie automatisierte Lösung installiert haben.
 
-3. Sie müssen Verbindungen erstellen, die die drei Benutzerkonten zuordnen: 
+3. Sie müssen Verbindungen erstellen, die die drei Benutzerkonten zuordnen:
 
-- Partner Center-Benutzer mit referenrals Administrator Anmelde Informationen 
+   - Partner Center-Benutzer mit referenrals Administrator Anmelde Informationen
 
-- Partner Center-Ereignisse
+   - Partner Center-Ereignisse
 
-- Der CRM-Administrator mit den Energie automatisierten Flows in der Lösung. 
+   - Der CRM-Administrator mit den Energie automatisierten Flows in der Lösung.
 
-    a. Wählen Sie in der linken Navigationsleiste **Verbindungen** aus, und wählen Sie die Projekt Mappe "Partner Center-Verweise" aus der Liste aus.
+      1. Wählen Sie in der linken Navigationsleiste **Verbindungen** aus, und wählen Sie die Projekt Mappe "Partner Center-Verweise" aus der Liste aus.
 
-    b. Erstellen Sie eine Verbindung, indem Sie auf **Verbindung erstellen**klicken.
+      2. Erstellen Sie eine Verbindung, indem Sie auf **Verbindung erstellen**klicken.
 
-    ![Erstellen der Verbindung](images/cosellconnectors/createconnection.png)
+         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="Erstellen der Verbindung":::
 
-    c. Suchen Sie in der Suchleiste in der oberen rechten Ecke nach **Partner Center-Referenzen (Vorschau)** .
+      3. Suchen Sie in der Suchleiste in der oberen rechten Ecke nach **Partner Center-Referenzen (Vorschau)** .
 
-    d. Erstellen Sie eine Verbindung für Ihren Partner Center-Benutzer mit der Rolle "Anmelde Informationen" des Administrators "Administrator".
+      4. Erstellen Sie eine Verbindung für Ihren Partner Center-Benutzer mit der Rolle "Anmelde Informationen" des Administrators "Administrator".
 
-    e. Erstellen Sie als nächstes eine Partner Center-Ereignis Verbindung für Ihren Partner Center-Benutzer mit den Anmelde Informationen für den Administrator.
+      5. Erstellen Sie als nächstes eine Partner Center-Ereignis Verbindung für Ihren Partner Center-Benutzer mit den Anmelde Informationen für den Administrator.
 
-    f. Erstellen Sie eine Verbindung für Common Data Service (aktuelle Umgebung) für den CRM-Administrator Benutzer.
+      6. Erstellen Sie eine Verbindung für Common Data Service (aktuelle Umgebung) für den CRM-Administrator Benutzer.
 
 4. Um die Strom automatisierten Flows den Verbindungen zuzuordnen, bearbeiten Sie jeden der Strom automatisierten Flows, um eine Verbindung mit Common Data Service-und Partner Center-Referenzen herzustellen. Speichern Sie die Änderungen.
 
@@ -113,15 +113,15 @@ Die Partner Center-webhook-APIs ermöglichen es Ihnen, sich für Ressourcen Änd
 
 2. Hinzufügen von Verbindungen für (a.) Partner Center-Benutzer mit referengenalen Administrator Anmelde Informationen (b) Partner Center-Veranstaltungen wie unten gezeigt
 
-![Trigger](images/cosellconnectors/triggerflow.png)
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Trigger":::
 
 3. Wenn Sie diese Updates vornehmen, wird Folgendes angezeigt:
 
-![webhooks](images/cosellconnectors/webhook1.png)
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhooks":::
 
-4. Speichern Sie die Änderungen, und wählen Sie **einschalten aus**. 
+4. Speichern Sie die Änderungen, und wählen Sie **einschalten aus**.
 
-Führen Sie die folgenden Schritte aus, um Partner Center-webhooks zum lauschen auf Ereignis Änderungen zu aktivieren:
+   Führen Sie die folgenden Schritte aus, um Partner Center-webhooks zum lauschen auf Ereignis Änderungen zu aktivieren:
 
 5. Wählen Sie **Partner Center auf Dynamics 365 (Insider Preview)** aus.
 
@@ -129,19 +129,19 @@ Führen Sie die folgenden Schritte aus, um Partner Center-webhooks zum lauschen 
 
 7. Wählen Sie das **Kopier** Symbol aus, um die bereitgestellte HTTP Post-URL zu kopieren.
 
-![Kopieren der URL](images/cosellconnectors/copyurl.png)
+   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="Kopieren der URL":::
 
 8. Wählen Sie jetzt die Option "Partner Center-webhook-Registrierung (Insider Vorschau)", und wählen Sie **Ausführen**aus.
 
 9. Stellen Sie sicher, dass im rechten Bereich das Fenster "Flow ausführen" geöffnet wird, und klicken Sie auf **weiter**.
 
-10. Geben Sie die folgenden Details ein: 
+10. Geben Sie die folgenden Details ein:
 
-    a. **Http-auslöserendpunkt**: aus dem vorherigen Schritt kopierte URL
+    1. **Http-auslöserendpunkt**: aus dem vorherigen Schritt kopierte URL
 
-    b. **Zu Registrier folgende Ereignisse**: "Verweis-erstellt" und "Verweis-aktualisiert"
+    2. **Zu Registrier folgende Ereignisse**: "Verweis-erstellt" und "Verweis-aktualisiert"
 
-    c. **Vorhandene auslöserendpunkte überschreiben, falls vorhanden**: Ja (Dadurch werden alle vorhandenen Endpunkte überschrieben.) 
+    3. **Vorhandene auslöserendpunkte überschreiben, falls vorhanden**: Ja (Dadurch werden alle vorhandenen Endpunkte überschrieben.)
 
 11. Wählen Sie **Ausführen** aus, und wählen Sie dann **abgeschlossen aus.**
 
@@ -170,7 +170,7 @@ Je nach Ihren Anforderungen können mehrere Schritte der einzelnen Strom automat
     e. Wählen Sie aus **, ob es sich um ein Update für eine Verkaufschance handelt**. Wählen Sie den unterschritt **bei ja** aus, und erweitern Sie dann bei **Unterschied zwischen den Verkaufschancen-Objekten in Partner Center und CRM**.  
 
     f. Wählen Sie aus, **ob ja** gefolgt von **vorhandener Option aktualisieren**
-       
+
 3. So passen Sie die Felder für die CRM-zu-PC-Referenz Synchronisierung für Update Ereignisse an
 
     a. Wählen Sie **Bearbeiten** aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
@@ -181,7 +181,7 @@ Je nach Ihren Anforderungen können mehrere Schritte der einzelnen Strom automat
 
     d. Wählen Sie den unterschritt aus, **Wenn ja** , und erweitern Sie dann den Schritt **Aktualisieren eines Verweises mit Verkaufschancen Daten**.
 
-Sie können die Zuordnungen in diesem Abschnitt basierend auf dem Leitfaden für die Feld Zuordnung bearbeiten.
+   Sie können die Zuordnungen in diesem Abschnitt basierend auf dem Leitfaden für die Feld Zuordnung bearbeiten.
 
 4. Zum Anpassen der Felder für die CRM-zu-PC-Referenz Synchronisierung für Erstellungs Ereignisse
 
@@ -189,9 +189,9 @@ Sie können die Zuordnungen in diesem Abschnitt basierend auf dem Leitfaden für
 
    b. Wählen Sie die **Synchronisierungs Verweise aus (Bereich).**
 
-   c. Wählen Sie zum Anpassen von CRM-Feld Zuordnungen (basierend auf Feld Zuordnungs Handbuch) für Create Events die Option **Microsoft-Verweis erstellen**. 
+   c. Wählen Sie zum Anpassen von CRM-Feld Zuordnungen (basierend auf Feld Zuordnungs Handbuch) für Create Events die Option **Microsoft-Verweis erstellen**.
 
-Sie können die Zuordnungen in diesem Abschnitt basierend auf dem Leitfaden für die Feld Zuordnung bearbeiten.
+   Sie können die Zuordnungen in diesem Abschnitt basierend auf dem Leitfaden für die Feld Zuordnung bearbeiten.
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>End-to-End-bidirektionale Co-Selling-Synchronisierung
 
@@ -217,46 +217,45 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
 - Überwachung **: ein**Schreib geschützter Überwachungs Pfad für die Synchronisierung mit Partner Center-verweisen
 
-
 ### <a name="scenarios"></a>SS
 
 1. Verweis Synchronisierung, wenn der Verweis in CRM erstellt oder aktualisiert und in Partner Center synchronisiert wird:
 
-    a. Melden Sie sich bei ihrer Dynamics 365 CRM-Umgebung mit einem Benutzer an, der im Bereich "Verkaufs **Chancen** " von CRM Einblick hat.
+   1. Melden Sie sich bei ihrer Dynamics 365 CRM-Umgebung mit einem Benutzer an, der im Bereich "Verkaufs **Chancen** " von CRM Einblick hat.
 
-    b. Stellen Sie sicher, dass der folgende Abschnitt vorhanden ist, wenn Sie eine "neue Verkaufschance" in der Dynamics 365-Umgebung erstellen.
+   2. Stellen Sie sicher, dass der folgende Abschnitt vorhanden ist, wenn Sie eine "neue Verkaufschance" in der Dynamics 365-Umgebung erstellen.
 
-   ![Verkaufschance](images/cosellconnectors/opportunity.png)
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Verkaufschance":::
 
-    c. Wenn Sie diese Gelegenheit mit dem Microsoft Partner Center synchronisieren möchten, stellen Sie sicher, dass Sie die folgenden Felder in der Kartenansicht festlegen:
+   3. Wenn Sie diese Gelegenheit mit dem Microsoft Partner Center synchronisieren möchten, stellen Sie sicher, dass Sie die folgenden Felder in der Kartenansicht festlegen:
 
-    - **Mit Partner Center synchronisieren**: Ja
+      - **Mit Partner Center synchronisieren**: Ja
 
-    - **Wie kann Microsoft Help?**: Wählen Sie eine der folgenden Aktionen aus:
+      - **Wie kann Microsoft Help?**: Wählen Sie eine der folgenden Aktionen aus:
 
-    ![Auswahl von Hilfe](images/cosellconnectors/help.png)
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Auswahl von Hilfe":::
 
-    - **Produkte**: Lösungs-IDs des Produkts
+      - **Produkte**: Lösungs-IDs des Produkts
 
-    d. Wenn die Verkaufschance in Dynamics 365 mit der Option **sync with Partner Center** auf **Ja**festgelegt ist, warten Sie 10 Minuten, und melden Sie sich dann bei Ihrem Partner Center-Konto an. Ihre Verweise werden mit Dynamics 365 synchronisiert.
+   4. Wenn die Verkaufschance in Dynamics 365 mit der Option **sync with Partner Center** auf **Ja**festgelegt ist, warten Sie 10 Minuten, und melden Sie sich dann bei Ihrem Partner Center-Konto an. Ihre Verweise werden mit Dynamics 365 synchronisiert.
 
-    e. Für eine Gelegenheit, bei der die Option "Synchronisierung mit Partner Center" auf "Ja" festgelegt wurde, werden die Änderungen bei der Aktualisierung der Gelegenheit in Dynamics 365 CRM in Ihrem Partner Center-Konto synchronisiert.
+   5. Für eine Gelegenheit, bei der die Option "Synchronisierung mit Partner Center" auf "Ja" festgelegt wurde, werden die Änderungen bei der Aktualisierung der Gelegenheit in Dynamics 365 CRM in Ihrem Partner Center-Konto synchronisiert.
 
-    f. Verkaufschancen, die mit Partner Center erfolgreich synchronisiert werden, werden mit ✔ Symbol in Dynamics 365 identifiziert.
+   6. Verkaufschancen, die mit Partner Center erfolgreich synchronisiert werden, werden mit ✔ Symbol in Dynamics 365 identifiziert.
 
 2. Verweis Synchronisierung, wenn der Verweis im Microsoft Partner Center erstellt oder aktualisiert und in der Dynamics 365-Umgebung synchronisiert wird:
 
-    a. Melden Sie sich bei Ihrem Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/home)an.
+   1. Melden Sie sich bei Ihrem Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/home)an.
 
-    b. Wählen Sie im Menü auf der linken Seite die Option **Verweise** aus.
+   2. Wählen Sie im Menü auf der linken Seite die Option **Verweise** aus.
 
-    c. Erstellen Sie einen neuen Co-Selling-Verweis aus Partner Center, indem Sie auf die Option "neu erstellen" klicken.
+   3. Erstellen Sie einen neuen Co-Selling-Verweis aus Partner Center, indem Sie auf die Option "neu erstellen" klicken.
 
-    d. Melden Sie sich bei ihrer Dynamics 365 CRM-Umgebung an. 
+   4. Melden Sie sich bei ihrer Dynamics 365 CRM-Umgebung an.
 
-    e. Navigieren Sie zu **Open Verkaufschancen**. Der im Microsoft Partner Center erstellte Verweis ist nun in Dynamics 365 CRM synchronisiert.
+   5. Navigieren Sie zu **Open Verkaufschancen**. Der im Microsoft Partner Center erstellte Verweis ist nun in Dynamics 365 CRM synchronisiert.
 
-    f. Wenn Sie einen synchronisierten Verweis auswählen, werden die Details der Kartenansicht aufgefüllt.
+   6. Wenn Sie einen synchronisierten Verweis auswählen, werden die Details der Kartenansicht aufgefüllt.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

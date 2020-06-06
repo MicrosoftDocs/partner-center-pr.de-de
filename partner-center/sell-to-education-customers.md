@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: Education, besondere Segmente
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 24100c6316eb2f4d957562163e1daf0ba15119be
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84426009"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453297"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Verkaufen von Angeboten an Bildungs Kunden & How to Create a Education Customer in Partner Center
 
@@ -41,15 +41,15 @@ In diesem Artikel wird erläutert, wie Sie einen Bildungs Kunden in Partner Cent
 
 2. Wählen Sie **Kunden** und dann **Kunde hinzufügen**aus. Wählen Sie in der Dropdown Liste **spezielle Qualifikationen** die Option **Education** aus.  Geben Sie die restlichen Kontoinformationen nach Bedarf ein.  Wichtige Felder, die den Prozess für die Überprüfung unterstützen, sind:
 
-   - Firmenname: Geben Sie den juristischen Entitäts Namen ein (erforderlich für die Überprüfung)
-   - Land/Region und Adresszeile: Geben Sie die vollständige Adresse für die Entitäts Adresse ein – für die Prüfung erforderlich
-   - E-Mail-Adresse: Geben Sie die e-Mail-Adresse des Unternehmens ein – keine kostenlose oder on.Microsoft.com-e-Mail
-   - Kundenkontaktinformationen: Diese Details werden im Rahmen des Prozess internen Prozesses verwendet.
-   - Primärer Domänen Name: wird zum Erstellen des Kundenkontos und der e-Mail-Adressen verwendet  Wählen Sie einen Namen aus, der dem Firmennamen ohne Leerzeichen oder Sonderzeichen ähnelt.  Dieser Name kann später nicht mehr geändert werden.
+   - **Firmenname**: Geben Sie den juristischen Entitäts Namen ein (erforderlich für die Überprüfung)
+   - **Land/Region und Adresszeile**: Geben Sie die vollständige Adresse für die Entitäts Adresse ein – für die Prüfung erforderlich
+   - **E-Mail-Adresse**: Geben Sie die e-Mail-Adresse des Unternehmens ein – keine kostenlose oder on.Microsoft.com-e-Mail
+   - **Kundenkontaktinformationen**: Diese Details werden im Rahmen des Prozess internen Prozesses verwendet.
+   - **Primärer Domänen Name**: wird zum Erstellen des Kundenkontos und der e-Mail-Adressen verwendet  Wählen Sie einen Namen aus, der dem Firmennamen ohne Leerzeichen oder Sonderzeichen ähnelt.  Dieser Name kann später nicht mehr geändert werden.
 
 3. Wenn Sie fertig sind, wählen Sie **überprüfen**aus.
 
-![Education-Kundenkonto](images/eduaccountinfo.png)
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="Education-Kundenkonto":::
 
 ### <a name="confirm-your-education-customers-vetting-status"></a>Bestätigen Sie den Status Ihres Bildungs Kunden.
 
@@ -58,15 +58,15 @@ Status Beispiele:
 
 - Wenn der Kunde die Überprüfung durchgeführt hat: Education
 
-   ![Education-Überprüfung erfolgreich](images/edupassedvetting.png)
+   :::image type="content" source="images/edupassedvetting.png" alt-text="Education-Überprüfung erfolgreich":::
 
 - Wenn der Kunde die Überprüfung nicht bestanden hat: kein Education-Kunde
 
-   ![Die Bildungs Prüfung ist nicht erfolgreich.](images/edudidnotpassvetting.PNG)
+   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="Die Bildungs Prüfung ist nicht erfolgreich.":::
 
 - Wenn der Kunde nicht als Education-Kunde gekennzeichnet war: keine
 
-   ![Education nicht markiert](images/edunottagged.PNG)
+   :::image type="content" source="images/edunottagged.png" alt-text="Education nicht markiert":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>Kundenkontoinformationen korrigieren und zur Überprüfung erneut einreichen  
 

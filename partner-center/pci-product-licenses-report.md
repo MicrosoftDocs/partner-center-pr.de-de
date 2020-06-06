@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 206a7e9d756aa2d888813d83ef22fcd7a9ac109c
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795665"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452893"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Bericht "Produktlizenzen" im Partner Center Insights-Dashboard
 
@@ -54,7 +54,7 @@ Prozentuale Vergrößerung oder Abnahme dieser Lizenzen während des ausgewählt
 
 Das Micro-Diagramm zeigt den Trend für den Monat-über-Monat-Trend der Anzahl von Lizenzen während des ausgewählten Datums Bereichs.
 
-![Zusammenfassung des Lizenz Berichts](images/pci/pci_licenses_report_summary_1.png)
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Zusammenfassung des Lizenz Berichts":::
 
 **Geografische Verteilung von Lizenzen**
 
@@ -64,7 +64,7 @@ In der Ansicht geografische Verteilung von **Lizenzen** wird die geografische Ve
 
 Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte zu zoomen. Drücken Sie die **Start** Option in der Karte, um zur Standardansicht zurückzukehren. Zeigen Sie auf die Karte, um aktuelle Lizenzen und aktive Lizenzen nach Kunden Land anzuzeigen. Beide Felder im Raster sind sortierbar.
 
-![geografische Verteilung von Lizenzen](images/pci/pci_licenses_report_geo_spread_2.png)
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="geografische Verteilung von Lizenzen":::
 
 **Lizenz Ergänzungen**
 
@@ -74,14 +74,14 @@ Wenn Sie den Trend nach Produkt und Dienst/Arbeitsauslastung präsentieren möch
 
 Die X-Achse stellt Monate des ausgewählten Datums Bereichs dar. Die Y-Achse stellt die Anzahl der hinzugefügten Lizenzen dar. Um einen bestimmten Zeitraum zu vergrößern, verwenden Sie den Schieberegler am oberen Rand des Diagramms.
 
-![Lizenz Ergänzungen](images/pci/pci_licenses_report_license_adds_3.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Lizenz Ergänzungen":::
 
 **Lizenz Verteilung**
 
 Diese Ansicht zeigt eine Aufschlüsselung der Kunden Lizenzen nach Produkt und Kunden Land/Region. Wenn Sie ein Produkt im Kreis Diagramm " **License by Product** " auswählen, wird im angrenzenden Diagramm eine Lizenz Aufschlüsselung nach Kunden Region angezeigt.
 
-![Lizenz Verteilung](images/pci/pci_licenses_report_license_distrib_4.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="Lizenz Verteilung":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- Weitere Berichte finden Sie unter [Partner Center Insights](partner-center-insights.md).
+Weitere Berichte finden Sie unter [Partner Center Insights](partner-center-insights.md).

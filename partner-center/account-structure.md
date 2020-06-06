@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32a43700b6644529ecc3d128110440649b4d3b99
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 1be2bfe63f7a6a39198756e9ef48ee5c0597d33b
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794988"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453287"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center verfügt über zwei Konten für MPN-Partner.
 
@@ -50,26 +50,6 @@ Ihre PGA-Standorte verfügen möglicherweise über zusätzliche Geschäftsstando
 - Alle Standort Konten befinden sich auf derselben Ebene und unter dem globalen Partner Konto.
 - Konto Administratoren können Standorte hinzufügen oder entfernen.
 
-![Kontostruktur](images/accountstructure.png)
+:::image type="content" source="images/accountstructure.png" alt-text="Kontostruktur" border="false":::
 
-Weitere Informationen zum Verwalten von Standorten finden Sie unter [Verwalten Ihres Partnerkontos: Standorte](manage-locations.md). 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Weitere Informationen zum Verwalten von Standorten finden Sie unter [Verwalten Ihres Partnerkontos: Standorte](manage-locations.md).

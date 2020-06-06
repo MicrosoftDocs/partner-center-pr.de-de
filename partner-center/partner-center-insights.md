@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b2d6e363eed34998a07a711b51dc77fcc135cdb
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f48b58ff02672e08f39fb22f17736f6f5a6e9216
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328231"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453197"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights: ein Dashboard, das zeigt, wie ein kommerzieller Partner von Microsoft ist
 
@@ -61,7 +61,7 @@ Die folgenden Berichte sind als Teil des Insights-Dashboards verfügbar.
 
 **Datums Bereichs Filter**: Sie können eine Datums Bereichsauswahl in der oberen rechten Ecke jeder Seite finden. Die Ausgabe der Diagramme für die Übersichtsseite kann angepasst werden, indem Sie einen Datumsbereich auswählen, der auf den letzten 3, 6 oder 12 Monaten basiert, oder indem Sie einen benutzerdefinierten Datumsbereich auswählen. Die Standardauswahl für Datumsbereiche beträgt 12 Monate. 
 
-![Einführungs Karte](images/pci/intro1.png)
+:::image type="content" source="images/pci/intro1.png" alt-text="Einführungs Karte":::
 
 **Schaltfläche "Feedback**": jedes Diagramm/Steuerelement in allen Insights-Berichten ist in eine Feedback Schaltfläche integriert, damit Sie instanzfeedback zu einer Berichtsfunktion bereitstellen können. 
 
@@ -74,7 +74,7 @@ Die folgenden Berichte sind als Teil des Insights-Dashboards verfügbar.
 
 - Die ausgewählten Filter werden am oberen Rand der Seite angezeigt. 
 
-![Filter](images/pci/filters.png)
+:::image type="content" source="images/pci/filters.png" alt-text="Filter":::
 
 ### <a name="filters-definitions"></a>Filter Definitionen:
 

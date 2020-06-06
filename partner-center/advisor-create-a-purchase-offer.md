@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, Kauf
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b96a918b18240869305b18deb24241cbc64a1df1
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9b9ab4fd293dce26a738ab055a2ca31e8ce1884b
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362678"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458366"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Ratgeber: Erstellen eines Kaufangebots
 
@@ -59,4 +59,4 @@ Wenn Ihr Client eine andere Anzahl von Lizenzen wünscht, senden Sie Ihnen ein n
     - Teilen Sie den Clients mit, dass Sie direkt von Microsoft abgerechnet werden.
     - Informieren Sie Clients darüber, wie Sie mit Fragen zum Dienst oder zum Angebot kontaktiert werden können.
     - Informieren Sie die Clients darüber, dass Sie die Anzahl der erworbenen Benutzerlizenzen Steuern und die Anzahl der Lizenzen ändern können, wenn Sie das Angebot annehmen.
-    - Wenn Sie die delegierte Administration anbieten, erläutern Sie, worum es sich dabei handelt und welche Verantwortlichkeiten Sie dabei übernehmen. Weitere Informationen zur delegierten Administration finden Sie unter [anbieten der delegierten Administration](customers_revoke_admin_privileges.md).
+    - Wenn Sie die delegierte Administration anbieten, erläutern Sie, worum es sich dabei handelt und welche Verantwortlichkeiten Sie dabei übernehmen. Weitere Informationen zur delegierten Administration finden Sie unter [anbieten der delegierten Administration](customers-revoke-admin-privileges.md).

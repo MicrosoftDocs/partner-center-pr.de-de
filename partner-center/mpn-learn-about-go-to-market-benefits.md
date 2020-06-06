@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, Mitgliedschafts Vorteile, Mitgliedschaft, Angebote zu Markteinführungszeiten, Markteinführung mit Microsoft, zu Markt, Goldmitgliedschaft, Silver-Mitgliedschaft
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f6edf7dbe2591317f0c67ad8e9489f2e4cc1e26
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 5b8e7e6a23d2e2913c039e73d7b5679114399a4c
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328201"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458426"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Erkunden Sie Ihre Markteinführungszeiten mit Microsoft-angeboten
 
@@ -65,7 +65,7 @@ Zusätzliche Markt Einführungsangebote, die für diese mit **Gold** -Kompetenzs
 
 Um Ihre Markt Einführungsangebote anzuzeigen:
 
-1. Melde dich beim Partner Center-[Dashboard]( https://docs.microsoft.com/partner-center/) an.
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
 2. Wählen Sie im Menü auf der linken Seite **MPN**aus. Führen Sie dann einen der folgenden Schritte aus:
 

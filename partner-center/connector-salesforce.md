@@ -8,16 +8,15 @@ description: Synchronisieren Ihrer Verweise in Partner Center mit Ihrem Salesfor
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
-keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 128ae914ef76ba0e1431b0aa7319442b51677973
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.openlocfilehash: 2e2cbe4b6f5418cea4d992b9e68daa7e0ed3ec09
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145104"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453257"
 ---
-# <a name="co-sell-connector-for-salesforce-crm---overview"></a>Co-Selling-Connector für Salesforce CRM-Übersicht
+# <a name="co-sell-connector-for-salesforce-crm---overview"></a>Co-Selling-Connector für Salesforce CRM – Übersicht
 
 ### <a name="appropriate-roles"></a>Geeignete Rollen
 
@@ -28,10 +27,9 @@ Der Partner Center-Co-Selling-Connector ermöglicht ihren Verkäufern das Co-Sel
 
 Die Lösung basiert auf der Microsoft Power automatisieren-Lösung und verwendet Partner Center-APIs.
 
-
 ## <a name="before-you-install---pre-requisites"></a>Vor der Installation von-Pre-Requirements
 
-|**Themen**   |**Details**   |**Links**   |
+|**Sonder**   |**Details**   |**Links**   |
 |--------------|--------------------|------|
 |Microsoft Partner Network-ID |Sie benötigen eine gültige MPN-ID.|So fügen Sie [MPN](https://partner.microsoft.com/) an|
 |Co-Selling bereit|Ihre IP-/Dienst-Lösung muss für den Co-Selling bereit sein.|[Vertrieb mit Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -44,31 +42,31 @@ Die Lösung basiert auf der Microsoft Power automatisieren-Lösung und verwendet
 
 1. Wechseln Sie zu " [Energie Automatisierung](https://flow.microsoft.com) ", und wählen Sie in der rechten oberen Ecke **Umgebungen** aus. Dadurch werden die verfügbaren CRM-Instanzen angezeigt.
 
-2. Wählen Sie in der Dropdown-Dropdown-Ecke in der rechten oberen Ecke die entsprechende CRM-Instanz aus. 
+2. Wählen Sie in der Dropdown-Dropdown-Ecke in der rechten oberen Ecke die entsprechende CRM-Instanz aus.
 
 3. Wählen Sie in der linken Navigationsleiste **Lösungen** aus.
 
 4. Klicken Sie im oberen Menü auf den Link **appsource öffnen** .
 
-![Appsource öffnen](images/cosellconnectors/openappsource.png)
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="Appsource öffnen":::
 
 5. Suchen Sie im Popup-Bildschirm nach **Partner Center-verweisverweisconnectors für Salesforce** .  
 
-![Salesforce](images/salesforce/salesforce1.png)
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. Klicken Sie auf die Schaltfläche **jetzt starten** und dann auf **weiter**. 
+6. Klicken Sie auf die Schaltfläche **jetzt starten** und dann auf **weiter**.
 
 7. Daraufhin wird die Seite geöffnet, auf der Sie die Salesforce CRM-Umgebung zum Installieren der Anwendung auswählen können.  Stimmen Sie den Geschäftsbedingungen zu.
 
-![Verfügbare CRMs](images/salesforce/available-crm.png)
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Verfügbare CRMs":::
 
-8. Anschließend werden Sie zur Seite **Verwalten Ihrer Lösungen** weitergeleitet.  Navigieren Sie zu "Partner Center-Verweise", indem Sie die Pfeil Schaltflächen unten auf der Seite verwenden. Die **geplante Installation** sollte neben der Projekt Mappe für Partner Center-Verweise angezeigt werden. Die Installation wird 10-15 Minuten dauern. 
+8. Anschließend werden Sie zur Seite **Verwalten Ihrer Lösungen** weitergeleitet.  Navigieren Sie zu "Partner Center-Verweise", indem Sie die Pfeil Schaltflächen unten auf der Seite verwenden. Die **geplante Installation** sollte neben der Projekt Mappe für Partner Center-Verweise angezeigt werden. Die Installation wird 10-15 Minuten dauern.
 
 9. Nachdem die Installation fertiggestellt ist, navigieren Sie zurück zu [Energie Automatisierung](https://flow.microsoft.com) , und wählen Sie im linken Navigationsbereich **Lösungen** aus. Beachten Sie, dass die **Synchronisierung der Partner Center-Verweise für Salesforce** in der Lösungs Liste verfügbar ist.
 
 10. Wählen Sie die **Synchronisierung der Partner Center-Verweise für Salesforce aus**. Die folgenden Strom automatisierten Flows und Entitäten sind verfügbar:
 
-![Salesforce-Flows](images/salesforce/salesforce-flows.png)
+    :::image type="content" source="images/salesforce/salesforce-flows.png" alt-text="Salesforce-Flows":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>Bewährte Vorgehensweise: testen, bevor Sie fortfahren
 
@@ -80,7 +78,7 @@ Stellen Sie sicher, dass Sie die Lösung in einer-Staging-Instanz von CRM testen
 
 - Testen Sie die Lösung auf einer Staging/CRM-Instanz.
 
-- Importieren Sie bei Erfolg als verwaltete Lösung in die Produktions Instanz. 
+- Importieren Sie bei Erfolg als verwaltete Lösung in die Produktions Instanz.
 
 ## <a name="configure-the-solution"></a>Konfigurieren der Projektmappe
 
@@ -88,25 +86,25 @@ Stellen Sie sicher, dass Sie die Lösung in einer-Staging-Instanz von CRM testen
 
 2. Wählen Sie in der Dropdown- **Umgebung** in der rechten oberen Ecke die CRM-Instanz aus, auf der Sie die Energie automatisierte Lösung installiert haben.
 
-3. Sie müssen Verbindungen erstellen, die die drei Benutzerkonten zuordnen: 
+3. Sie müssen Verbindungen erstellen, die die drei Benutzerkonten zuordnen:
 
-- Partner Center-Benutzer mit referenrals Administrator Anmelde Informationen 
-- Partner Center-Ereignisse
-- Der CRM-Administrator mit den Energie automatisierten Flows in der Lösung. 
+   - Partner Center-Benutzer mit referenrals Administrator Anmelde Informationen
+   - Partner Center-Ereignisse
+   - Der CRM-Administrator mit den Energie automatisierten Flows in der Lösung.
 
-    a. Wählen Sie in der linken Navigationsleiste **Verbindungen** aus, und wählen Sie die Projekt Mappe "Partner Center-Verweise" aus der Liste aus.
+   1. Wählen Sie in der linken Navigationsleiste **Verbindungen** aus, und wählen Sie die Projekt Mappe "Partner Center-Verweise" aus der Liste aus.
 
-    b. Erstellen Sie eine Verbindung, indem Sie auf **Verbindung erstellen**klicken. 
+   2. Erstellen Sie eine Verbindung, indem Sie auf **Verbindung erstellen**klicken.
 
-    ![Erstellen der Verbindung](images/cosellconnectors/createconnection.png)
+       :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="Erstellen der Verbindung":::
 
-    c. Suchen Sie in der Suchleiste in der oberen rechten Ecke nach **Partner Center-Referenzen (Vorschau)** .
+   3. Suchen Sie in der Suchleiste in der oberen rechten Ecke nach **Partner Center-Referenzen (Vorschau)** .
 
-    d. Erstellen Sie eine Verbindung für Ihren Partner Center-Benutzer mit der Rolle "Anmelde Informationen" des Administrators "Administrator".
+   4. Erstellen Sie eine Verbindung für Ihren Partner Center-Benutzer mit der Rolle "Anmelde Informationen" des Administrators "Administrator".
 
-    e. Erstellen Sie als nächstes eine Partner Center-Ereignis Verbindung für Ihren Partner Center-Benutzer mit den Anmelde Informationen für den Administrator.
-    
-    f. Erstellen Sie eine Verbindung für Common Data Service (aktuelle Umgebung) für den CRM-Administrator Benutzer.
+   5. Erstellen Sie als nächstes eine Partner Center-Ereignis Verbindung für Ihren Partner Center-Benutzer mit den Anmelde Informationen für den Administrator.
+
+   6. Erstellen Sie eine Verbindung für Common Data Service (aktuelle Umgebung) für den CRM-Administrator Benutzer.
 
 4. Um die Strom automatisierten Flows den Verbindungen zuzuordnen, bearbeiten Sie jeden der Strom automatisierten Flows, um eine Verbindung mit Common Data Service-und Partner Center-Referenzen herzustellen. Speichern Sie die Änderungen.
 
@@ -120,15 +118,15 @@ Die Partner Center-webhook-APIs ermöglichen es Ihnen, sich für Ressourcen Änd
 
 2. Hinzufügen von Verbindungen für (a.) Partner Center-Benutzer mit referengenalen Administrator Anmelde Informationen (b) Partner Center-Veranstaltungen wie unten gezeigt
 
-![Trigger](images/cosellconnectors/triggerflow.png)
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Trigger":::
 
 3. Wenn Sie diese Updates vornehmen, wird Folgendes angezeigt:
 
-![webhooks](images/cosellconnectors/webhook1.png)
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhooks":::
 
-4. Speichern Sie die Änderungen, und wählen Sie **einschalten aus**. 
+4. Speichern Sie die Änderungen, und wählen Sie **einschalten aus**.
 
-Führen Sie die folgenden Schritte aus, um Partner Center-webhooks zum lauschen auf Ereignis Änderungen zu aktivieren:
+   Führen Sie die folgenden Schritte aus, um Partner Center-webhooks zum lauschen auf Ereignis Änderungen zu aktivieren:
 
 5. Wählen Sie **Partner Center zu Salesforce CRM (Insider Preview)** aus.
 
@@ -136,19 +134,19 @@ Führen Sie die folgenden Schritte aus, um Partner Center-webhooks zum lauschen 
 
 7. Wählen Sie das **Kopier** Symbol aus, um die bereitgestellte HTTP Post-URL zu kopieren.
 
-![Kopieren der URL](images/salesforce/copy-url.png)
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Kopieren der URL":::
 
 8. Wählen Sie jetzt die Option "Partner Center-webhook-Registrierung (Insider Vorschau)", und wählen Sie **Ausführen**aus.
 
 9. Stellen Sie sicher, dass im rechten Bereich das Fenster "Flow ausführen" geöffnet wird, und klicken Sie auf **weiter**.
 
-10. Geben Sie die folgenden Details ein: 
+10. Geben Sie die folgenden Details ein:
 
-    a. **Http-auslöserendpunkt**: aus dem vorherigen Schritt kopierte URL
+    1. **Http-auslöserendpunkt**: aus dem vorherigen Schritt kopierte URL
 
-    b. **Zu Registrier folgende Ereignisse**: "Verweis-erstellt" und "Verweis-aktualisiert"
+    2. **Zu Registrier folgende Ereignisse**: "Verweis-erstellt" und "Verweis-aktualisiert"
 
-    c. **Vorhandene auslöserendpunkte überschreiben, falls vorhanden**: Ja (Dadurch werden alle vorhandenen Endpunkte überschrieben.) 
+    3. **Vorhandene auslöserendpunkte überschreiben, falls vorhanden**: Ja (Dadurch werden alle vorhandenen Endpunkte überschrieben.)
 
 11. Wählen Sie **Ausführen** aus, und wählen Sie dann **abgeschlossen aus.**
 
@@ -162,41 +160,41 @@ Häufig sind CRM-Systeme hochgradig angepasst. Sie können die Strom automatisie
 
 Je nach Ihren Anforderungen können mehrere Schritte der einzelnen Strom automatisierten Flows angepasst werden. Im folgenden finden Sie Beispiele für verfügbare Anpassungen:
 
-1. So passen Sie die Felder für die CREATE-oder Update-Ereignisse im Partner Center an die CRM-Referenz Synchronisierung an: 
+1. So passen Sie die Felder für die CREATE-oder Update-Ereignisse im Partner Center an die CRM-Referenz Synchronisierung an:
 
-    a. Wählen Sie Partner Center zu Salesforce CRM (Insider Preview) aus.
+   1. Wählen Sie Partner Center zu Salesforce CRM (Insider Preview) aus.
 
-    b. Wählen Sie **Bearbeiten** aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
+   2. Wählen Sie **Bearbeiten** aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
 
-    c. Select **(Bereich) Hiermit wird der Lead oder die Verkaufschance synchronisiert**.
+   3. Select **(Bereich) Hiermit wird der Lead oder die Verkaufschance synchronisiert**.
 
 2. **Wenn Sie die CRM-** Feld Zuordnungen für Erstellungs Ereignisse anpassen möchten, wählen Sie aus, ob es sich um eine neue Freigabe Chance handelt Wählen Sie den untergeordneten **Schritt** aus, und erweitern Sie dann die Option **Erstellen einer neuen Verkaufschance im CRM**. Sie können die Zuordnungen in diesem Abschnitt mithilfe des Leitfaden für die Feld Zuordnung bearbeiten.
 
-    d. Zum Anpassen von CRM-Feld Zuordnungen für Update Ereignisse klicken Sie auf den Schritt "(Bereich) Synchronisieren des Leads oder der Verkaufschance".
+   1. Zum Anpassen von CRM-Feld Zuordnungen für Update Ereignisse klicken Sie auf den Schritt "(Bereich) Synchronisieren des Leads oder der Verkaufschance".
 
-    e. Wählen Sie aus **, ob es sich um ein Update für eine Verkaufschance handelt**. Wählen Sie den unterschritt **bei ja** aus, und erweitern Sie dann bei **Unterschied zwischen den Verkaufschancen-Objekten in Partner Center und CRM**.  
+   2. Wählen Sie aus **, ob es sich um ein Update für eine Verkaufschance handelt**. Wählen Sie den unterschritt **bei ja** aus, und erweitern Sie dann bei **Unterschied zwischen den Verkaufschancen-Objekten in Partner Center und CRM**.  
 
-    f. Wählen Sie aus, **ob ja** gefolgt von **vorhandener Option aktualisieren**
-       
+   3. Wählen Sie aus, **ob ja** gefolgt von **vorhandener Option aktualisieren**
+
 3. So passen Sie die Felder für die CRM-zu-PC-Referenz Synchronisierung für Update Ereignisse an
 
-    a. Wählen Sie **Bearbeiten** aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
+   1. Wählen Sie **Bearbeiten** aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
 
-    b. Select **(Bereich) Synchronisieren der Verkaufschance**.
+   2. Select **(Bereich) Synchronisieren der Verkaufschance**.
 
-    c. Wählen Sie zum Anpassen von CRM-Feld Zuordnungen (basierend auf Feld Zuordnungs Handbuch) für Aktualisierungs Ereignisse aus, **ob es Unterschiede zwischen den führenden Objekten in Partner Center und CRM gibt**. 
+   3. Wählen Sie zum Anpassen von CRM-Feld Zuordnungen (basierend auf Feld Zuordnungs Handbuch) für Aktualisierungs Ereignisse aus, **ob es Unterschiede zwischen den führenden Objekten in Partner Center und CRM gibt**.
 
-    d. Wählen Sie den unterschritt aus, **Wenn ja** , und erweitern Sie dann den Schritt **Aktualisieren eines Verweises mit Verkaufschancen Daten**.
+   4. Wählen Sie den unterschritt aus, **Wenn ja** , und erweitern Sie dann den Schritt **Aktualisieren eines Verweises mit Verkaufschancen Daten**.
 
-Sie können die Zuordnungen in diesem Abschnitt basierend auf dem Leitfaden für die Feld Zuordnung bearbeiten.
+   Sie können die Zuordnungen in diesem Abschnitt basierend auf dem Leitfaden für die Feld Zuordnung bearbeiten.
 
 4. Zum Anpassen der Felder für die CRM-zu-PC-Referenz Synchronisierung für Erstellungs Ereignisse
 
-   a. Wählen Sie **Bearbeiten** aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
+   1. Wählen Sie **Bearbeiten** aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
 
-   b. Wählen Sie die **Synchronisierungs Verweise aus (Bereich).**
+   2. Wählen Sie die **Synchronisierungs Verweise aus (Bereich).**
 
-   c. Wählen Sie zum Anpassen von CRM-Feld Zuordnungen (basierend auf Feld Zuordnungs Handbuch) für Create Events die Option **Microsoft-Verweis erstellen**. 
+   3. Wählen Sie zum Anpassen von CRM-Feld Zuordnungen (basierend auf Feld Zuordnungs Handbuch) für Create Events die Option **Microsoft-Verweis erstellen**.
 
 Sie können die Zuordnungen in diesem Abschnitt basierend auf dem Leitfaden für die Feld Zuordnung bearbeiten.
 
@@ -209,64 +207,57 @@ Der Salesforce CRM-Administrator Benutzer muss einen separaten CRM-Abschnitt ers
 
 Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
-• **Synchronisieren mit Partner Center**: ob die Gelegenheit mit dem Microsoft Partner Center synchronisiert werden soll
+- **Synchronisierung mit Partner Center**: ob die Gelegenheit mit dem Microsoft Partner Center synchronisiert werden soll
 
-• **Referenz Bezeichner**: ein Schreib geschütztes Bezeichnerfeld für die Microsoft Partner Center-Referenz
+- **Verweis Bezeichner**: ein Schreib geschütztes Bezeichnerfeld für die Microsoft Partner Center-Referenz
 
-• **Referenz Link**: ein Schreib geschützter Link zum Verweis im Microsoft Partner Center
+- **Verweis Link**: ein Schreib geschützter Link zum Verweis im Microsoft Partner Center
 
-• **Wie kann Microsoft helfen?** Von Microsoft für den Verweis erforderliche Hilfe
+- **Wie kann Microsoft helfen?** Von Microsoft für den Verweis erforderliche Hilfe
 
-• **Produkte**: Liste der Produkte, die mit dieser Verkaufschance verknüpft sind
+- **Produkte**: Liste der Produkte, die dieser Verkaufschance zugeordnet sind
 
-• **Audit**: ein Schreib geschützter Überwachungs Pfad für die Synchronisierung mit dem Microsoft Partner Center-Verweis
+- Überwachung **: ein**Schreib geschützter Überwachungs Pfad für die Synchronisierung mit dem Microsoft Partner Center-Verweis
 
 ### <a name="set-up-fields-and-relationships"></a>Einrichten von Feldern und Beziehungen
 
-1. Melden **Sie sich bei**Ihrem Salesforce-Konto an. 
+1. Melden **Sie sich bei**Ihrem Salesforce-Konto an.
 
 2. Klicken Sie auf die Optionen **Setup** und **Objekt bearbeiten** , um die erforderlichen Felder hinzuzufügen.
 
-
 3. **Felder & Beziehungen** im linken Navigationsbereich auswählen
 
-![Felder](images/salesforce/fields1.png)
+   :::image type="content" source="images/salesforce/fields1.png" alt-text="Felder":::
 
-4. Fügen Sie die folgenden Felder in der Tabelle "Felder & Beziehung" hinzu:
+4. Fügen Sie die folgenden Felder in den **Feldern & Beziehungs** Tabelle hinzu:
 
-|**Feld Bezeichnung**   |**Feldname**|**Datentyp**|**Zierenden**|
-|---------------------|:-------------------|:--------------|:----------------|
-|Mit Partner Center synchronisieren|Sync-with-Partner-Center-c|CheckBox (Standardeinstellung deaktiviert)||
-|Produkte|Produkte-c|Text (255)||
-|Referral | Referral_Identifier__c|Text (100) (externe ID)|ja|
-|Verweis Link| Referral_Link__c_|URL (255)||
-|Audit| Audit__c|Long-Text Bereich (100000) (sichtbare Zeile 4)||
-|Wie kann Microsoft helfen?|How_can_Microsoft_help__c|Auswahlliste|
+   |**Feld Bezeichnung**   |**Feldname**|**Datentyp**|**Zierenden**|
+   |---------------------|:-------------------|:--------------|:----------------|
+   |Audit|  Audit__c|Long-Text Bereich (100000) (sichtbare Zeile 4)||
+   |Wie kann Microsoft helfen?|H-ow_can_Microsoft_help__c|Auswahlliste|
+   |Produkte|Produkte-c|Text (255)||
+   |Referral |  Referral_Identi fier__c|Text (100) (externe ID)|ja|
+   |Verweis Link|   Referral_Link__c_|URL (255)||
+   |Synchronisierung mit Partner-CEN|Sync-with-Partner-Center-c|CheckBox (Standardeinstellung deaktiviert)||
 
-* Picklist-Werte:
+   * Picklist-Werte:
 
-• Arbeits Auslastungs spezifischer Wertbeitrag
+   - Auslastungs spezifischer Wert-Vorschlag
+   - Technische Kunden Architektur
+   - Proof of Concept oder Demo
+   - Anführungszeichen oder Lizenzierung
+   - Kunden Erfolg nach dem Verkauf
+   - Allgemein oder andere
 
-• Technische Kunden Architektur
+5. Die Felder werden unter " **Felder & Beziehungen** " erstellt.
 
-• Proof of Concept oder Demo
+   :::image type="content" source="images/salesforce/fields2.png" alt-text="Erstellte Felder":::
 
-• Anführungszeichen oder Lizenzierung
+6. Erstellen Sie im Layout der Verkaufschancen einen separaten Abschnitt mit den oben aufgeführten Feldern.
 
-• Kunden Erfolg nach dem Verkauf
+   - Dieser Abschnitt sollte für die Verkäufer im Verkaufschancen Layout verfügbar sein.
 
-• Allgemein oder andere
-
-5. die Felder werden unter "Felder & Beziehungen" erstellt.
-
-![Erstellte Felder](images/salesforce/fields2.png)
-
-6. Erstellen Sie im Layout der Verkaufschancen einen separaten Abschnitt mit den oben aufgeführten Feldern. 
-
-    • Dieser Abschnitt sollte für die Verkäufer im Verkaufschancen Layout verfügbar sein.
-
-
-![Layout der Partner Center-Felder](images/salesforce/pc-fields-layout.png)
+   :::image type="content" source="images/salesforce/pc-fields-layout.png" alt-text="Layout der Partner Center-Felder":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>End-to-End-bidirektionale Co-Selling-Synchronisierung
 
@@ -292,54 +283,43 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
 - Überwachung **: ein**Schreib geschützter Überwachungs Pfad für die Synchronisierung mit Partner Center-verweisen
 
-
 ### <a name="scenarios"></a>SS
 
 1. Verweis Synchronisierung, wenn der Verweis in CRM erstellt oder aktualisiert und in Partner Center synchronisiert wird:
 
-    a. Melden Sie sich bei ihrer Salesforce CRM-Umgebung mit einem Benutzer an, der im Bereich "Verkaufs **Chancen** " von CRM Einblick hat.
+   1. Melden Sie sich bei ihrer Salesforce CRM-Umgebung mit einem Benutzer an, der im Bereich "Verkaufs **Chancen** " von CRM Einblick hat.
 
-    b. Stellen Sie sicher, dass der folgende Abschnitt vorhanden ist, wenn Sie eine "neue Verkaufschance" in der Salesforce CRM-Umgebung erstellen.
+   2. Stellen Sie sicher, dass der folgende Abschnitt vorhanden ist, wenn Sie eine "neue Verkaufschance" in der Salesforce CRM-Umgebung erstellen.
 
-    ![Salesforce-Umgebung](images/salesforce/salesforce-scenario-1.png)
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Salesforce-Umgebung":::
 
-   
+   3. Wenn Sie diese Gelegenheit mit dem Microsoft Partner Center synchronisieren möchten, stellen Sie sicher, dass Sie die folgenden Felder in der Kartenansicht festlegen:
 
-    c. Wenn Sie diese Gelegenheit mit dem Microsoft Partner Center synchronisieren möchten, stellen Sie sicher, dass Sie die folgenden Felder in der Kartenansicht festlegen:
+       - "Mit Partner Center synchronisieren": Ja
+       - "Wie kann Microsoft Help?": Wählen Sie eine der folgenden Optionen aus:
+       - Produkte: Lösungs-IDs des Produkts
 
-    - "Mit Partner Center synchronisieren": Ja
+   4. Nachdem Sie die Option für die Verkaufschancen **Synchronisierung mit Partner Center** auf **Ja**festgelegt haben, können Sie sich bei Ihrem Partner Center-Konto anmelden. Ihre Verweise werden mit Salesforce CRM synchronisiert.
 
-    - "Wie kann Microsoft Help?": Wählen Sie eine der folgenden Optionen aus:
+   5. Wenn die Option "Sync with Partner Center" auf "yes" festgelegt ist, werden die Änderungen, wenn Sie die Verkaufschance in Salesforce CRM aktualisieren, mit Ihrem Partner Center-Konto synchronisiert.
 
-   
+   6. Verkaufschancen, die mit Partner Center erfolgreich synchronisiert werden, werden mit ✔ Symbol in Salesforce CRM identifiziert.
 
-    - Produkte: Lösungs-IDs des Produkts
+2. Verweis Synchronisierung, wenn der Verweis im Microsoft Partner Center erstellt oder aktualisiert und in der Salesforce CRM-Umgebung synchronisiert wird:
 
-    d. Nachdem Sie die Option für die Verkaufschancen **Synchronisierung mit Partner Center** auf **Ja**festgelegt haben, können Sie sich bei Ihrem Partner Center-Konto anmelden. Ihre Verweise werden mit Salesforce CRM synchronisiert.
+    1. Melden Sie sich bei Ihrem Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/home)an.
 
-    e. Wenn die Option "Sync with Partner Center" auf "yes" festgelegt ist, werden die Änderungen, wenn Sie die Verkaufschance in Salesforce CRM aktualisieren, mit Ihrem Partner Center-Konto synchronisiert.
+    2. Wählen Sie im Menü auf der linken Seite die Option **Verweise** aus.
 
-    f. Verkaufschancen, die mit Partner Center erfolgreich synchronisiert werden, werden mit ✔ Symbol in Salesforce CRM identifiziert.
+    3. Erstellen Sie einen neuen Co-Selling-Verweis aus Partner Center, indem Sie auf die Option "neu erstellen" klicken.
 
-2. Verweis Synchronisierung, wenn der Verweis im Microsoft Partner Center erstellt oder aktualisiert und in der Salesforce CRM-Umgebung synchronisiert wird: 
+    4. Melden Sie sich bei ihrer Salesforce CRM-Umgebung an.
 
-    a. Melden Sie sich bei Ihrem Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/home)an.
+    5. Navigieren Sie zu **Open Verkaufschancen**. Der im Microsoft Partner Center erstellte Verweis ist nun in Salesforce CRM synchronisiert.
 
-    b. Wählen Sie im Menü auf der linken Seite die Option **Verweise** aus.
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Salesforce-Verkaufschancen Bildschirm":::
 
-    c. Erstellen Sie einen neuen Co-Selling-Verweis aus Partner Center, indem Sie auf die Option "neu erstellen" klicken.
-
-    d. Melden Sie sich bei ihrer Salesforce CRM-Umgebung an. 
-
-    e. Navigieren Sie zu **Open Verkaufschancen**. Der im Microsoft Partner Center erstellte Verweis ist nun in Salesforce CRM synchronisiert.
-
-    ![Salesforce-Verkaufschancen Bildschirm](images/salesforce/salesforce-casino-e.png)
-
-    f. Wenn Sie einen synchronisierten Verweis auswählen, werden die Details der Kartenansicht aufgefüllt.
-
-
-
-
+    6. Wenn Sie einen synchronisierten Verweis auswählen, werden die Details der Kartenansicht aufgefüllt.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

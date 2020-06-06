@@ -11,12 +11,12 @@ ms.author: labrenne
 Keywords: Integrität, Dienstintegrität, Dienstprobleme
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a6bba0be0bb8337d3da0536d10c4346b3f61894
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 54817a1288e4a4aebf75527907f0265e384ae839
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908217"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458376"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Überprüfen der Dienst Integrität für einen Kunden, der ein mögliches Dienst Problem oder einen Ausfall meldet
 
@@ -31,21 +31,22 @@ ms.locfileid: "82908217"
 - Helpdesk-Agent
 - Vertriebsbeauftragter
 
-Wenn ein Kunde mit einem Dienst Probleme hat, sollten Sie zuerst die Dienstintegrität überprüfen.
+Wenn ein Kunde mit einem Dienst Probleme hat, sollten Sie zuerst die Dienstintegrität überprüfen. 
 
-**Überprüfen der Dienstintegrität**
+## <a name="check-service-health"></a>Überprüfen der Dienstintegrität
 
-1. Wählen Sie im Menü **Partner Center** die Option **Dienstintegrität** aus.
+1. Wählen Sie den **Kunden** aus der **Kundenliste**aus, bei dem das Problem vorliegt.
 
-2. Es werden alle Dienste angezeigt, sowie Angaben, wenn Probleme mit der Integrität vorhanden sind.
+2. Wählen Sie im Menü auf der linken Seite **Dienst Verwaltung** aus. Dadurch werden die für den Kunden bereitgestellten Dienste und die Dienst Integrität der einzelnen Dienste aufgeführt. Partner können auf den Dienst klicken, an dem Sie interessiert sind, um weitere Informationen zu erhalten. 
 
-Während eines Dienstausfalls bietet Microsoft regelmäßige Updates, während wir daran arbeiten, das Problem zu beheben. Die beste Möglichkeit, diese Updates anzuzeigen, finden Sie im **Benachrichtigungszentrum** im Partner Center. Diese Benachrichtigungen auch im Microsoft Azure-Verwaltungsportal oder im Office 395 Admin Center angezeigt.
+>[!NOTE] 
+> Dienst Integritäts Links auf den **Dienst Verwaltungs** Seiten nehmen den Partner entweder an das M365 Admin Center oder den Azure-Portal als **Delegierter Administrator**. Sobald der Partner an beide Ziele gelangt, kann der Partner in jedem Portal zu den Dienst Integritäts Seiten navigieren, um weitere Details zum Ausfall zu erhalten.
+ 
+Während eines Dienstausfalls bietet Microsoft regelmäßige Updates, während wir daran arbeiten, das Problem zu beheben. Diese Benachrichtigungen werden auch im Microsoft Azure-Portal oder im Microsoft 365 Admin Center angezeigt.
 
-Wenn das Problem auch nach dem Ende des Dienstausfalls noch auftritt, übermitteln Sie eine Serviceanfrage. Siehe [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md).
+Wenn das Problem nach dem Ende des Dienst Ausfalls weiterhin auftritt, senden Sie eine Service Request. Siehe [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md).
+
+Microsoft 365 und Microsoft Azure jeweils APIs bereitstellen [, mit denen Partner Echtzeitdienst](get-automated-service-notifications-with-our-apis.md)Integrität, Nachrichten Center Kommunikation und geplante Wartungs Ereignisse abrufen können.
 
  
-
- 
-
-
 

@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fedeaad1898f4fade76bbf34c0bfe6bd2585a7cd
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6e20cc9c37ef68fcd1ca0ab22b2012fdd0b35149
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795641"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452697"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Rollenbasierte Zugriffs Steuerung für das Partner Center Insights-Dashboard
 
@@ -24,9 +24,10 @@ Das Insights-Dashboard verwendet zwei neue Rollen im Partner Center, um den Mita
 
 Wie bei anderen Partner Center-Rollen kann der globale Administrator oder der Konto Administrator diesen Rollen auf der Seite "Benutzerverwaltung" Benutzer zuweisen. Die Rollen können auf das gesamte Unternehmen oder auf bestimmte MPN-Orte angewendet werden. Rollen, die für bestimmte MPN-Orte zugewiesen werden, begrenzen den Benutzer für die Anzeige von Berichtsdaten, die nur den ausgewählten MPN-Orten zugeordnet sind. Partner können einen oder mehrere Standorte aus der folgenden Ansicht auswählen.
 
-![Rollen](images/pci/roles.png)
+:::image type="content" source="images/pci/roles.png" alt-text="Rollen":::
 
->Nebenbei Benutzer, die MPN-Administratoren seit dem 20. Januar 2020 sind, werden automatisch der unternehmensweiten Rolle "Executive Report Viewer" für alle Standorte dieses Mandanten hinzugefügt. Diese Benutzer können auf die Berichte als Executive Report Viewer zugreifen, ohne dass für den globalen Administrator oder Konto Administrator eine explizite Aktion erforderlich ist. Die globalen Administratoren und Konto Administratoren können die automatisch zugewiesenen Rollen dieser Benutzer außer Kraft setzen, um ihre Funktionen weiter zu erhöhen oder einzuschränken.
+>[!Note]
+> Benutzer, die MPN-Administratoren seit dem 20. Januar 2020 sind, werden automatisch der unternehmensweiten **Executive Report Viewer** -Rolle für alle Standorte dieses Mandanten hinzugefügt. Diese Benutzer können auf die Berichte als Executive Report Viewer zugreifen, ohne dass für den globalen Administrator oder Konto Administrator eine explizite Aktion erforderlich ist. Die globalen Administratoren und Konto Administratoren können die automatisch zugewiesenen Rollen dieser Benutzer außer Kraft setzen, um ihre Funktionen weiter zu erhöhen oder einzuschränken.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

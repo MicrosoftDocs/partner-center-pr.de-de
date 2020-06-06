@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43198aa65b127bb1e22146006f54d19588b58940
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 75693ce31c98e694c0dbed31fde6c6510a83ec17
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795700"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452947"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Übersicht über Dashboardberichte in Partner Center Insights
  
@@ -50,38 +50,38 @@ Wachstum% der aktiven Abonnements im Rahmen des ausgewählten Datums Bereichs Mi
 - Bereitgestellte Lizenzen: Anzahl aller Cloud-Produktlizenzen, die im ausgewählten Zeitraum in ihren Kunden Abonnements bereitgestellt werden.  
 Durch das Wachstum oder ablehnen von% dieser Lizenzen im Rahmen des ausgewählten Mikro Diagramms für Datum/Bereich wird der Trend für den Monatsvergleich dieser zugewiesenen Lizenzen über den ausgewählten Datumsbereich dargestellt.
 
-![Zusammenfassungs Lizenzen](images/pci/summary.png)
+:::image type="content" source="images/pci/summary.png" alt-text="Zusammenfassungs Lizenzen":::
 
 **Geografische Verteilung von Kunden, Abonnements und Lizenzen** 
 
 Diese Ansicht ist eine geografische Verteilung von Gesamt Kunden, Abonnements und Lizenzen nach Kunden Land. Klicken Sie auf die verschiedenen Registerkarten, um die einzelnen Einblicke in der Karte anzuzeigen. Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte zu zoomen. Kehren Sie zur ursprünglichen Ansicht zurück, indem Sie auf der Karte auf die Start Schaltfläche klicken. Wenn Sie auf die einzelnen Registerkarten (z. b. "Kunden", "Abonnements") klicken, wird der Wert der Metrik für jedes Land sowie der Gesamtbetrag für das Land angezeigt.  
 
-![Geografische Zusammenfassung](images/pci/geosummary.png)
+:::image type="content" source="images/pci/geosummary.png" alt-text="Geografische Zusammenfassung":::
 
 **Trend für Kundenwachstum**
 
 Monatlicher Trend der Gesamtanzahl der Kunden, die für den ausgewählten Datumsbereich gelten. Die X-Achse stellt Monate des ausgewählten Datums Bereichs dar, und die Y-Achse stellt die Gesamtzahl der Kunden für diesen Monat dar. 
 
-![Trend für Kundenwachstum](images/pci/customergrowth.png)
+:::image type="content" source="images/pci/customergrowth.png" alt-text="Trend für Kundenwachstum":::
 
 **Trend zum Wachstum von Abonnements**
 
 Hiermit wird der Trend der Anzahl der Kunden Abonnements für den ausgewählten Datumsbereich angegeben. Die X-Achse stellt Monate des ausgewählten Datums Bereichs dar, und die Y-Achse repräsentiert die Anzahl der Abonnements, die für das Produkt ausgewählt wurden. Scrollen Sie durch den Schieberegler am oberen Rand des Diagramms, um das Diagramm zu einem bestimmten Zeitraum zu vergrößern. 
 
-![Trend für Abonnement Wachstum](images/pci/subscriptiongrowth.png)
+:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Trend für Abonnement Wachstum":::
 
 **Azure-Trend zum Umsatzwachstum**
 
 Monatlicher Trend der von Azure genutzten Einnahmen US $, die Ihnen über den ausgewählten Datumsbereich zugeordnet sind. Die X-Achse stellt Monate des ausgewählten Datums Bereichs dar, und die Y-Achse repräsentiert den gesamten von Azure genutzten Umsatz US $, der Ihnen während des Monats zugeordnet wurde.   
 **Hinweis**: der Azure-verbrauchte Umsatz (ACR) ist nur für Benutzer sichtbar, denen die Rolle "Executive Report Viewer" zugewiesen wurde. 
 
-![Azure-Nutzung](images/pci/azureconsumed.png)
+:::image type="content" source="images/pci/azureconsumed.png" alt-text="Azure-Nutzung":::
 
 **Trend zum Wachstum von Lizenzen**
  
 Trend der Lizenzen, die während des ausgewählten Datums Bereichs von allen Kunden zugewiesen wurden. Die X-Achse stellt Monate des ausgewählten Datums Bereichs dar, und die Y-Achse steht für die Anzahl der Lizenzen, die Sie ausgewählt haben. Scrollen Sie durch den Schieberegler am oberen Rand des Diagramms, um das Diagramm zu einem bestimmten Zeitraum zu vergrößern.  
 
-![Lizenzen](images/pci/licensesgrowth.png)
+:::image type="content" source="images/pci/licensesgrowth.png" alt-text="Lizenzen":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 

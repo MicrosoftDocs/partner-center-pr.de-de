@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Kompetenzen, ISV, Anwendungsentwicklung
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: e7f0024bbd52e6f6a449f9d8965f25499bb4a7a0
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907485"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452727"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Ausnahme bei der einmaligen Prüfung von Anforderungen für die Anwendungs Entwicklungskompetenz
 
@@ -45,7 +45,7 @@ Partner mit einer Anwendungs Entwicklungskompetenz über den Zertifikat-IP-Pfad:
 1. Wählen Sie im Partner Center-Menü auf Ihrem Dashboard die Option **Kompetenzen** aus.
 2. In der Liste der verfügbaren Zuständigkeiten ist die Anwendungsentwicklung als " **Fertig**" markiert.
 
-![ISV zu AppDev](images/appdev.png)
+:::image type="content" source="images/appdev.png" alt-text="ISV zu AppDev":::
 
 3. Wählen Sie **Anwendungsentwicklung**aus. Sie werden feststellen, dass Sie eine außer Kraft Setzung erhalten haben, die Ihr Unternehmen von der Erfüllung der Prüfungsanforderungen ausnimmt. 
 

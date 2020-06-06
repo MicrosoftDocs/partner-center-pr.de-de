@@ -1,8 +1,8 @@
 ---
 title: Regionale Steuern und Steuerbefreiungen
 ms.topic: article
-ms.date: 04/28/2020
-description: Informieren Sie sich über die Steueraufgaben für Ihre spezielle geografische Region und über das Übermitteln von Steuer Ausnahmen für Ihre CSP-Verkäufe. Erfahren Sie auch, wie Sie Support für Steuerfragen erhalten.
+ms.date: 06/05/2020
+description: Für CSP-Programmpartner erfahren Sie mehr über steuerliche Zuständigkeiten pro Region, über das Übermitteln von Steuer Ausnahmen für CSP-Verkäufe und über die Unterstützung von Steuerfragen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,15 +10,15 @@ author: LauraBrenner
 keywords: Steuern, Steuern von Steuer Ausnahmen, Umsatzsteuer, Reseller, Abrechnung
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: ff89cd6a117e1db4cd42e0af522b975a2e62cf26
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a25ddebe1417377005a97534ac2f1b6556e68cd6
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907803"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458296"
 ---
-# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country"></a>Informieren Sie sich über Steuer-und Steuer Befreiungs Details nach Region oder Land.
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Informieren Sie sich über die Steuern und Steuer Befreiungs Details nach Region oder Land für Partner im CSP-Programm.
 
 Gilt für:
 
@@ -67,7 +67,7 @@ Dazu zählen möglicherweise Weiterverkauf-Ausnahme Zertifikate, die über mehre
 
 Wenn Sie sich in einem anderen Land oder einer Region befinden, die Steuern belastet, bitten Sie den [Support im Partner Center](#support) , Ihre Fragen zu stellen.
 
-## <a name="tax-receipts-and-daf"></a>Steuer Bestätigungen und DAF
+## <a name="tax-receipts-and-daf"></a>Steuereinnahmen und DAF (Donor Advised Funds)
 
 Steuerbelege (für Taiwan oder Korea) oder DAF erfordern in der Regel eine Bearbeitungszeit von zwei Wochen ab Rechnungsstellung.
 

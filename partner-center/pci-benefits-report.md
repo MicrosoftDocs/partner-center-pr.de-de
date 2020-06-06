@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c1522f6fe9a6b287443245577232b59d0032cdb5
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: dec4e4c3f5438df7d09da018c8d7df3709a01854
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795726"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453068"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Im Partner Center Insights-Dashboard verfügbarer Leistungsbericht
 
@@ -29,7 +29,7 @@ ms.locfileid: "83795726"
 
 Als Microsoft-Partner können Sie auf eine Reihe von Vorteilen zugreifen, die die neuesten Technologien und Innovationen nutzen, um Sie bei der Verbesserung der Fähigkeiten Ihres Teams zu unterstützen, die Effizienz zu verbessern und Ihr Geschäft zu steigern. Zu den Vorteilen von Paketen gehören: Zuordnungen lizenzierter Software, Cloud Services, Visual Studio-Abonnements und Support. Diese Pakete können auch bestimmte Markt Einführungs Ressourcen, Angebote und Programme enthalten. Der Bericht "Vorteile" zeigt Trends zu den Vorteilen, auf die Sie zugegriffen haben, und deren Auslastung während des ausgewählten Datums Bereichs.
 
-![Übersicht über die Vorteile](images/pci/pci_benefits_intro_1.png)
+:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="Übersicht über die Vorteile":::
 
 Sie können die folgenden Diagramme im Bericht "Vorteile" visualisieren:
 
@@ -49,20 +49,20 @@ Der Abschnitt Zusammenfassung enthält die Vorteile, die in Bezug auf lizenziert
 
 Beispiel: Microsoft Partner Network-Mitgliedschafts Partner (MPN) sind für den technischen Support lokaler Produkte und cloudprodukte qualifiziert. Partner, die die Silver-Kompetenz erreichen, erhalten technischen Support für 15 Vorfälle für lokale Produkte. Diese Unterstützung kann bei Bedarf genutzt werden. 
 
-![Zusammenfassung der Vorteile](images/pci/pci_benefits_summary_2.png)
+:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="Zusammenfassung der Vorteile":::
 
 **Gewährte Cloud Services**
 
 Dieses Diagramm zeigt den monatlichen Trend der Lizenzen, die während des ausgewählten Datums Bereichs für Lizenz basierte Abonnements des ausgewählten clouddiensts erteilt wurden.
 Wählen Sie auf der Registerkarte **Dienste** einen clouddienst aus, um das Diagramm für einen bestimmten clouddienst anzuzeigen. Das Liniendiagramm stellt die Gesamt Lizenzen dar, die Ihrem Unternehmen erteilt wurden.
 
-![gewährte Cloud Services](images/pci/pci_benefits_cloud_services_granted_3.png)
+:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="gewährte Cloud Services":::
 
 **Softwareprodukte**
 
 Dieses Diagramm zeigt den monatlichen Trend von Lizenzen, die im ausgewählten Datumsbereich für ein bestimmtes Softwareprodukt erteilt wurden. Wählen Sie ein Softwareprodukt aus der Dropdown Liste oben im Diagramm aus, um den Trend eines bestimmten Softwareprodukts anzuzeigen, das Sie als Vorteile erhalten. Das Liniendiagramm stellt die Gesamt Lizenzen dar, die Ihrem Unternehmen erteilt wurden.
 
-![gewährte Softwareprodukte](images/pci/pci_benefits_software_products_granted_4.png)
+:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="gewährte Softwareprodukte":::
 
 **Visual Studio-Abonnements**
 
@@ -70,7 +70,7 @@ Dieses Diagramm zeigt den monatlichen Trend von Visual Studio-Abonnements, die f
 
 Wählen Sie oben im Diagramm eine Registerkarte aus, um den Trend eines bestimmten Visual Studio-Abonnements anzuzeigen, das Sie als Vorteile erhalten. Die Spalten im Diagramm repräsentieren die für das Abonnement genutzten Arbeitsplätze. Das Liniendiagramm stellt die Gesamt Arbeitsplätze dar, die für das Abonnement zugewiesen wurden.
 
-![Visual Studio-Abonnements](images/pci/pci_benefits_visual_studio_subscriptions_5.png)
+:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio-Abonnements":::
 
 **Technische Vorteile**
 
@@ -78,7 +78,7 @@ Dieses Diagramm zeigt den monatlichen Trend der Support Leistungen, die während
 
 Wählen Sie oben im Diagramm eine Registerkarte aus, um den Trend eines bestimmten von ihnen gewährten Support Vorteils anzuzeigen. Das Liniendiagramm stellt die Gesamtstunden der Unterstützung dar, die für den ausgewählten Support Vorteil zugewiesen wurde.
 
-![technische Vorteile](images/pci/pci_benefits_technical_benefits_6.png)
+:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="technische Vorteile":::
 
 **Angebote oder Dienste für Markteinführungszeiten**
 
@@ -86,7 +86,7 @@ Dieses Diagramm zeigt den monatlichen Trend von Markt Einführungs angeboten ode
 
 Wählen Sie in der Dropdown Liste oben im Diagramm ein Angebot oder eine Dienst Kategorie für das Markt Einführungsangebot aus, um den Trend der ausgewählten Markt Einführungs Dienste anzuzeigen, die Ihrem Unternehmen erteilt wurden. Die Spalten im Diagramm Stellenangebote oder aktivierte Dienste dar. Das Liniendiagramm stellt die Gesamtzahl der Markt Einführungsangebote oder-Dienste dar, die Ihrem Unternehmen erteilt wurden.
 
-![Angebote zu Markteinführungszeiten](images/pci/pci_benefits_go_to_market_7.png)
+![Angebote zu Markteinführungszeiten](images/pci/pci-benefits-go-to-market-7.png)
 
 ## <a name="next-steps"></a>Nächste Schritte
 

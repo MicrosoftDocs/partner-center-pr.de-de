@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure, Reservierungen, VM, verwalten, Nutzung, Größe
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f214a3dd507370f37347d4e014059367f13c5669
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205778"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453277"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Microsoft Azure VM-Größe für die maximale Reservierungsnutzung
 
@@ -54,13 +54,13 @@ Nachstehend finden Sie eine Anleitung für jede dieser Vorgehensweisen. Nachdem 
 3. Wählen Sie **Virtuelle Computer** aus dem Portalmenü aus, und wählen Sie anschließend den virtuellen Computer aus, für den Sie eine Reservierung erwerben möchten.
 4. Suchen Sie auf der Detailseite des virtuellen Computers die Größe und Regions Informationen, wie unten dargestellt, und verwenden Sie diese Informationen, um die Reservierung in Partner Center zu erwerben.  
 
-    ![Informationen zu Größe und Region auf der Detailseite](images/usage1.png)
+    :::image type="content" source="images/usage1.png" alt-text="Informationen zu Größe und Region auf der Detailseite":::
 
 **Abrufen der VM-Größeninformationen in Microsoft Azure PowerShell**
 
 Verwenden Sie die Informationen in der Abbildung unten zum Abrufen von Standort und Größe des virtuellen Computers, für den Sie eine Reservierung erwerben möchten. 
 
-![VM-Standort und Größe](images/usage2.png)
+:::image type="content" source="images/usage2.png" alt-text="VM-Standort und Größe":::
 
 **Abrufen der VM-Größeninformationen in der Azure Resource Manager (ARM)-API**
 
@@ -70,7 +70,8 @@ Verwenden Sie die Informationen in der Abbildung unten zum Abrufen von Standort 
 
 3. Der Aufruf gibt die Werte für **vmSize** und **location** zurück (s. u.).
 
-    ![vmsize-](images/usage3.png) ![Wert Speicherort Wert](images/usage4.png)
+    :::image type="content" source="images/usage3.png" alt-text="vmsize-Wert":::
+    :::image type="content" source="images/usage4.png" alt-text="Location-Wert":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Überprüfen der Azure-VM-Nutzung und des Reservierungsrabatts
 
@@ -110,7 +111,7 @@ Nachstehend finden Sie eine Anleitung für jede dieser Vorgehensweisen.
 
 Sie erhalten die Reservierungsnutzungsdaten mit der Azure-Nutzungs-API, um sicherzustellen, dass der Kunde den Reservierungsrabatt erhält, und um anzuzeigen, auf welche VMs (virtuelle Computer) der Rabatt angewendet wird. Vergleichen Sie Beispiel a mit Beispiel B, um zu erfahren, wie Sie die Reservierungs Nutzung eines Kunden überprüfen.
 
-![Beispiele für die Reservierungsnutzung](images/usage5.png)
+:::image type="content" source="images/usage5.png" alt-text="Beispiele für die Reservierungsnutzung":::
 
 - Die reservationId identifiziert die Azure-Reservierung, die verwendet wurde, um den Rabatt auf den virtuellen Computer anzuwenden.
 - consumptionMeter ist die MeterId für den virtuellen Computer, auf den der Reservierungsrabatt angewendet wurde.

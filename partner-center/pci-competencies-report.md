@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6853bb033f7188d7d9ddfa818252fd3b41422e05
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795652"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452969"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Im Partner Center Insights-Dashboard verfügbarer Bericht "Kompetenzen"
 
@@ -64,7 +64,7 @@ Aufschlüsselung der Anzahl gestarteter Zuständigkeiten nach Kompetenzniveau (S
 - Risiko (nächstes Jahr): Anzahl der zurzeit **aktiven** Kompetenzen, aber auch das **Risiko** , dass die Anforderungen für das nächste Jahr nicht erfüllt werden.
 Aufschlüsselung der Kompetenzen (nach Kompetenzniveau wie Silver/Gold und Kompetenz Namen), die nicht für das nächste Jahr qualifiziert sind.
 
-![Zusammenfassung der Zuständigkeiten](images/pci/pci_competencies_summary_1.png)
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Zusammenfassung der Zuständigkeiten":::
 
 **Analyse der Kompetenz Metrik**
 
@@ -75,7 +75,7 @@ Der Bericht kann nach folgenden zwei Datumsbereichen pivotiert werden:
 1. TTM-Ansicht: Hiermit wird die Partner Leistung in den letzten zwölf Monaten (TTM) aufgelistet.
 2. Anniversary Year-Ansicht: Hiermit wird die Partner Leistung vom vorherigen Jahrestag bis zum nächsten Anniversary Date aufgelistet.
 
-![Analyse der Kompetenz Metrik](images/pci/pci_competencies_comp_metrics_analysis_2.png)
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="Analyse der Kompetenz Metrik":::
 
 > [!NOTE]
  > Nicht alle Metriken werden in der Analyse behandelt. Derzeit werden im Bericht "Kompetenzen" keine Metriken unterstützt. CBA-Kompetenzen (Cloud Business Applications) werden zurzeit in der metrikanalyse für den **aktiven** Kompetenz Status ebenfalls nicht unterstützt.
@@ -84,7 +84,7 @@ Der Bericht kann nach folgenden zwei Datumsbereichen pivotiert werden:
 
 Diese Ansicht zeigt eine detaillierte Tabelle mit allen Kompetenzen, die Sie bisher erreicht haben, mit dem Kompetenzniveau und der Kompetenz Phase.
 
-![Kompetenz Verlauf](images/pci/pci_competencies_comp_history_3.png)
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="Kompetenz Verlauf":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 

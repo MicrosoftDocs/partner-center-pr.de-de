@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, Testversion
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 2f8faddce7755a34687f0403b8ba27ea734d8018
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9726fc9316f33cf35f91a7db60a64689bccc0617
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362618"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458356"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Ratgeber: Erstellen und Senden einer Einladung zum Testen für Clients zum Testen von Office 365
 
@@ -37,7 +37,7 @@ Wenn Sie für die delegierte Administration zertifiziert sind, können Sie der E
 
     - **Verwendungs Speicherort**: Wählen Sie den Standort aus, an dem der Client die Dienste verwenden soll.
     - **Test Abonnements**: die Liste der Test Abonnements, die Sie auswählen können, wird durch den Verwendungs Standort des Clients oder der Region des Clients bestimmt.
-    - **Delegierte Administration**: diese Option ist nur für Partner verfügbar, die für das anbieten der delegierten Administration zertifiziert sind. Wählen Sie diese Option aus, wenn Sie dem Client die delegierte Administration anbieten möchten. Wenn Sie dies tun, kann Ihr Client die Einladung zum Testen mit oder ohne Annahme der delegierten Administration akzeptieren. Weitere Informationen zur delegierten Administration finden Sie unter [anbieten der delegierten Administration](customers_revoke_admin_privileges.md).
+    - **Delegierte Administration**: diese Option ist nur für Partner verfügbar, die für das anbieten der delegierten Administration zertifiziert sind. Wählen Sie diese Option aus, wenn Sie dem Client die delegierte Administration anbieten möchten. Wenn Sie dies tun, kann Ihr Client die Einladung zum Testen mit oder ohne Annahme der delegierten Administration akzeptieren. Weitere Informationen zur delegierten Administration finden Sie unter [anbieten der delegierten Administration](customers-revoke-admin-privileges.md).
 
 3. Klicken Sie auf **Weiter**.
 

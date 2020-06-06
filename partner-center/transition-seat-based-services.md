@@ -1,21 +1,22 @@
 ---
-title: Verschieben von Kunden mit lizenzbasierten Diensten in das Cloud Solution Provider-Programm im Partner Center | Partner Center
+title: Lizenz basierte Kunden in das CSP-Programm verschieben
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Verschieben von Kunden und ihrer Abonnements in das CSP-Programm aus einem anderen Kanal oder von einem anderen Partner
+description: Erfahren Sie, wie Sie Lizenz basierte Kunden aus anderen Kanälen oder einem anderen Partner in das CSP-Programm (Cloud Solution Provider) im Partner Center verschieben.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 12d382c043c6f1fbfa0348b17b25f12e0f306ee9
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ce096cd3e7fca1f59fd59eac739585c345c34405
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654005"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458386"
 ---
-# <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a>Übertragen von Kunden mit lizenzbasierten Diensten in das Cloud Solution Provider-Programm aus einem anderen Kanal oder von einem Partner zu einem anderen
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Verschieben Lizenz basierter Kunden aus anderen Kanälen & Partnern in das Cloud Solution Provider-Programm
 
 **Zielgruppe**
 
@@ -34,7 +35,7 @@ Wenn Ihr Kunde mehrere Partner beauftragen möchte, übertragen Sie seine Abonne
 4. Dann führt der Kunde ohne Unterbrechungen mit den Abonnements fort, die Sie bereitgestellt haben.
 
 
-Wenn Sie die gleichen Angebote bereitstellen, die der Kunde bereits genutzt hat, müssen Sie keine Lizenzen neu zuweisen, und es gibt keine Unterbrechung für die Endbenutzer. Die Angebote müssen identisch sein, um sicherzustellen, dass kein Datenverlust auftritt. Solange die Gesamtzahl der Lizenzen unverändert bleibt und das Angebot äquivalent ist, spüren Ihre Kunden keine Auswirkungen.
+Wenn Sie dieselben Angebote wie die Angebote bereitstellen, die Ihr Kunde verwendet hat, ist es nicht erforderlich, Lizenzen neu zuzuweisen, und die Endbenutzer werden nicht unterbrochen. Die Angebote müssen identisch sein, um sicherzustellen, dass kein Datenverlust auftritt. Solange die Gesamtzahl der Lizenzen unverändert bleibt und das Angebot äquivalent ist, spüren Ihre Kunden keine Auswirkungen.
 
 Wenn Sie Kunden, deren Angebote eingestellt wurden, übertragen, müssen Sie ein äquivalentes Angebot finden, um Datenverluste zu vermeiden. Wenn Sie den Kunden einem anderen Angebot zuordnen, müssen Sie die Lizenzzuweisung aktualisieren.
 

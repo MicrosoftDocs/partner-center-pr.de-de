@@ -119,7 +119,7 @@
 ## [Hinzufügen neuer Kunden](add-a-new-customer.md)
 ## [Beantragen einer Vertriebspartnerschaft mit einem Kunden](request-a-relationship-with-a-customer.md)
 ## [Entfernen der Partnerschaft zwischen einem Händler und einem Kunden](remove-a-relationship.md)
-## [Delegieren oder Widerrufen von Administratorrechten für Partner durch Kunden](customers_revoke_admin_privileges.md) 
+## [Delegieren oder Widerrufen von Administratorrechten für Partner durch Kunden](customers-revoke-admin-privileges.md) 
 ## [Anzeigen der Kundenliste](see-your-customer-list.md)
 ## [Anzeigen von Kundenaktivitätsprotokollen](activity-logs.md)
 ## [Aktualisieren der Kundenkontoinformationen](update-customer-account-info.md)
@@ -127,7 +127,7 @@
 ## [Erstellen mehrerer Benutzer für einen Kunden](adding-multiple-users-to-a-customer-account.md)
 ## [Zuweisen von Supportkontakten](assign-support-contacts.md)
 
-# [CSP-Angebote](csp-offers.md) 
+# [CSP-Angebote](csp-offers.md)
 ## Kommerzieller Marketplace
 ### [Übersicht über den kommerziellen Marketplace](csp-commercial-marketplace-overview.md)
 ### [Marketplace-Angebote: Entdecken](csp-commercial-marketplace-discover.md)

@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9241d5083ae2ad35c97efe47dfe764d0b9d5a216
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: dad65d2237a4446bd6a555a600193e7885bc6f5e
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795027"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458336"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Im Azure Cloud Solution Provider (CSP)-Programm verfügbare Azure-Dienste
 
@@ -32,7 +32,7 @@ ms.locfileid: "83795027"
 In diesem Artikel sind die Azure-Dienste aufgeführt, die im Azure Cloud Solution Provider (CSP)-Programm verfügbar sind und nicht verfügbar sind. Außerdem wird die Dienstverfügbarkeit in den nationalen Clouds [Microsoft Azure Deutschland](https://azure.microsoft.com/overview/clouds/germany/) und [Microsoft Azure Government](https://azure.microsoft.com/overview/clouds/government/) erläutert.
 
 >[!Note]
->[Azure China]( https://www.azure.cn/) ist im Azure CSP-Programm nicht verfügbar.
+> [Azure China](https://www.azure.cn/) ist im Azure CSP-Programm nicht verfügbar.
 
 ## <a name="global-cloud"></a>Globale Cloud
 

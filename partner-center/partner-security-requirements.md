@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3e8b7ff739c9fbe37902b67721d324328fe2930
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: 951bb05b9e818d86254f84c88bdebd30c1ecc9dc
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998266"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328151"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Sicherheitsanforderungen für Partner, die das Partner Center oder Partner Center-APIs verwenden
 

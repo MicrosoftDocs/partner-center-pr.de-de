@@ -1,24 +1,25 @@
 ---
-title: Verwenden der Abstimmungs Dateien | Partner Center
+title: Verwenden der Abstimmungs Dateien
 ms.topic: article
-ms.date: 11/21/2019
-description: Verwenden Sie Ihre Abstimmungs Dateien, um ausführliche Informationen zu den einzelnen Aufgaben des Partner Centers zu verstehen.
+ms.date: 06/08/2020
+description: Erfahren Sie mehr über das Abgleichen von Dateien in Partner Center und über die Interpretation der detaillierten Zeilen Element Sichten für einen bestimmten Abrechnungszeitraum.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bb65718159019c9ae47aa384524d9d52043d39b
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a53a0f3d37183c67d5d1d44472192ed15f6ed62e
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114962"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603799"
 ---
-# <a name="use-your-reconciliation-files"></a>Verwenden der Abstimmungs Dateien
+# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Erfahren Sie, wie Sie die Zeilen Elemente in Ihren Partner Center-Abstimmungs Dateien lesen.
 
-Betrifft:
+Gilt für:
 
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
@@ -52,10 +53,10 @@ Führen Sie die folgenden Schritte aus, um alle Formatierungs Probleme in den Ab
 1. Öffnen Sie die Abstimmungs Datei (im CSV-Format) in Microsoft Excel.
 2. Wählen Sie die erste Spalte in der Datei aus.
 3. Öffnen **Sie den Assistenten zum Konvertieren von Text in Spalten**. Wählen Sie im Menüband **Daten**aus, und wählen Sie dann **Text in Spalten**aus.
-4. Wählen Sie im Assistenten einen **Begrenzungs Dateityp**aus. Klicken Sie dann auf **weiter**.
+4. Wählen Sie im Assistenten einen **Begrenzungs Dateityp**aus. Klicken Sie anschließend auf **Weiter**.
 5. Wählen Sie im Feld **Trenn** Zeichen die Option **Komma**aus. (Wenn die **Tab** -Taste bereits ausgewählt ist, können Sie diese Option aktivieren.) Klicken Sie dann auf **weiter**.
-6. Wählen Sie im Feld **Spaltendaten Format** die Option **Date: mdy**aus. Klicken Sie dann auf **weiter**.
-7. Wählen Sie im Feld **Spaltendaten Format** die Option **Text** für alle Spalten vom Typ Summe aus. Wählen Sie dann **Fertig**stellen aus.
+6. Wählen Sie im Feld **Spaltendaten Format** die Option **Date: mdy**aus. Klicken Sie anschließend auf **Weiter**.
+7. Wählen Sie im Feld **Spaltendaten Format** die Option **Text** für alle Spalten vom Typ Summe aus. Wählen Sie anschließend **Fertig stellen** aus.
 
 ## <a name="download-reconciliation-files-programmatically"></a>Programm gesteuertes herunterladen von Abstimmungs Dateien
 
@@ -75,7 +76,7 @@ Partner im **indirekten Modell** können diese zusätzlichen Felder sowohl in li
 | MPN-ID | Beschreibung |
 | ------ | ----------- |
 | MPN-ID | Der Microsoft Partner Network (MPN)-Bezeichner des CSP-Partners (Cloud Solution Provider) (direkt oder indirekt). |
-| [MPN-ID des Wiederverkäufers](#reseller-mpn-id) | Der [MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement](#reseller-mpn-id). Dieses Feld entspricht der Wiederverkäufer-ID, die für das jeweilige Abonnement in Partner Center aufgeführt ist. Wird nur in den Abstimmungsdateien für Partner im indirekten Modell angezeigt. |
+| [MPN-ID der Handelspartner](#reseller-mpn-id) | Der [MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement](#reseller-mpn-id). Dieses Feld entspricht der Wiederverkäufer-ID, die für das jeweilige Abonnement in Partner Center aufgeführt ist. Wird nur in den Abstimmungsdateien für Partner im indirekten Modell angezeigt. |
 
 ### <a name="reseller-mpn-id"></a>MPN-ID der Handelspartner
 
@@ -87,9 +88,9 @@ Wenn der CSP-Partner eine **Reseller MPN-ID**entfernt, wird dieser Wert auf *-1*
 
 So können Sie die **Reseller MPN-ID**anzeigen oder aktualisieren:
 
-1. Melden Sie sich bei Partner Center an.
+1. Melden Sie sich beim Partner Center an.
 2. Wählen Sie im Menü „Partner Center” **Kunden**.
-3. Wählen Sie den Kunden aus der Liste aus.
+3. Wählen Sie den Kunden in der Liste aus.
 4. Wählen Sie im Menü Kunde die Option **Abonnements**aus.
 5. Wählen Sie das Abonnement aus der Liste aus.
 6. Wählen Sie **Aktualisieren** aus, um **Vertriebspartner (MPN-ID)** zu ändern.

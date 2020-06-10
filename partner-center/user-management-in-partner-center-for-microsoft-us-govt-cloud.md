@@ -1,25 +1,27 @@
 ---
-title: Benutzer- und Lizenzverwaltung im Partner Center für Microsoft Cloud for US Government | Partner Center für Microsoft Cloud for US Government
+title: Verwaltung von Benutzern und Lizenzen
+titleSuffix: Microsoft Cloud for US Government - Partner Center
+description: Erfahren Sie, wie und wo Sie Partner Center für Microsoft Cloud für Partner, Kunden und Lizenzen von US-Behörden sowie für das Zurücksetzen von Kenn Wörtern verwalten.
 ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie und wo Sie Partner Center für Microsoft Cloud für Partner, Kunden und Lizenzen von US-Behörden sowie für das Zurücksetzen von Kenn Wörtern verwalten.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 93b8525861069607ca66770b371cd3f9a3e109e7
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: fa8340c2d8a110769b7918e4e3703d131fad8a60
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797588"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603580"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Benutzer- und Lizenzverwaltung im Partner Center für Microsoft Cloud for US Government
 
 **Zielgruppe**
 
--  Partner Center für Microsoft Cloud for US Government
+- Partner Center für Microsoft Cloud for US Government
 
 Die folgenden Aufgaben werden im Microsoft Azure-Verwaltungsportal für Microsoft Cloud for US Government verwaltet:
 
@@ -45,7 +47,7 @@ Nachdem Sie sich erfolgreich beim Azure-Portal für Microsoft Cloud for US Gover
 
 -  [**Zurücksetzen des Kennworts für einen Benutzer in Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**Zugehörige Themen**
+**Verwandte Themen**
 
 -  [**Partner Center für Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
 

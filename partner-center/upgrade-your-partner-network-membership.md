@@ -1,5 +1,5 @@
 ---
-title: Aktualisieren der Microsoft Partner Network-Mitgliedschaft
+title: Aktualisieren einer Microsoft Partner Network Mitgliedschaft
 description: Qualifizieren Sie sich für exklusive Vorteile, indem Sie Ihre MPN-Mitgliedschaft auf eine Microsoft Action Pack-Abonnement Mitgliedschaft oder auf Microsoft-Kompetenzen aktualisieren.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,14 +9,15 @@ ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.date: 03/19/2020
-ms.openlocfilehash: f39e92c64841bc541f6f72256aece4f0a1da3e1d
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a69a7486ea40f5a52dca8cf0de4109bee3bda5e2
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369257"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603879"
 ---
-# <a name="upgrade-your-microsoft-partner-network-membership"></a>Aktualisieren der Microsoft Partner Network-Mitgliedschaft
+# <a name="upgrade-your-microsoft-partner-network-membership-and-explore-new-offers-programs-and-resources"></a>Aktualisieren Sie Ihre Microsoft Partner Network Mitgliedschaft, und entdecken Sie neue Angebote, Programme und Ressourcen.
 
 **Zielgruppe**
 
@@ -69,7 +70,7 @@ Weitere Informationen zu Microsoft Action Pack finden Sie unter [https://partner
 
 7. Ihre Bestellung wird bestätigt. Wählen Sie **Schließen** aus.
 
-Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlängert. Sie können die automatische Verlängerung jederzeit in der Liste der erworbenen Angebote deaktivieren. Allerdings ist es nicht möglich, die automatische Abonnementverlängerung wieder zu aktivieren, bis Sie erneut Ihr Abonnement verlängern.
+   Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlängert. Sie können die automatische Verlängerung jederzeit in der Liste der erworbenen Angebote deaktivieren. Allerdings ist es nicht möglich, die automatische Abonnementverlängerung wieder zu aktivieren, bis Sie erneut Ihr Abonnement verlängern.
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Deaktivieren der automatischen Verlängerung des Action Pack-Abonnements
 

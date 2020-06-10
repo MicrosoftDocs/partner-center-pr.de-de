@@ -1,23 +1,24 @@
 ---
-title: Stellen Sie sicher, dass Sie für die zurück Haltungs Steuern Partner Center
+title: Erhalten Sie eine Gutschrift für die Steuer
 ms.topic: article
-ms.date: 2/16/2020
+ms.date: 06/05/2020
 description: Stellen Sie sicher, dass Ihr Partner Center-Konto für die zurück Haltungs Steuern vorgesehen ist, indem Sie im Partner Center eine Anforderung zum Steuern der
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 keywords: zurückbehalten von Steuer Guthaben, Steuer Guthaben, deutschen Steuer Guthaben, Steuer Zertifikaten
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d9fbea52fa08117ec712284ecd6436f576a2a06
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e4cb4b1dde35caca153e37de5a07f947f6da158e
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453315"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603849"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>Sicherstellen einer Gutschrift durch Steuereinbehaltung
+# <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Stellen Sie sicher, dass Ihnen die zurück Haltungs Steuern gutgeschrieben werden, wenn Sie anstelle von Microsoft eine lokale Steuerbehörde bezahlen.
 
 Gilt für:
 

@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89e552e87f24caa43e0875afa2b7bea6e870c406
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: ce28103892771dc7c27fe081f2d70740b66bfa19
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467500"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633790"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Verwenden Sie herauf stufungen, um neue Kunden zu gewinnen und die Einsparungen an diese zu übergeben.
 
@@ -30,7 +30,6 @@ ms.locfileid: "84467500"
 - Abrechnungsadministrator
 - Vertriebsbeauftragter
 
-<!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
 Microsoft bietet gelegentlich Werbeaktionen für lizenzbasierte Abonnements an, deren Einsparungen Sie an die Kunden weitergeben können, um Ihr Geschäft zu erweitern. 
 
@@ -48,10 +47,10 @@ Nehmen Sie sich einen Moment Zeit, diese wichtigen Fakten zu Werbeaktionen zu ü
 
 ## <a name="see-available-promotions"></a>Verfügbare Werbeaktionen anzeigen
 
-Sie können auf Ihrer **Promotionseite** sehen, wofür Sie ggf. berechtigt sind. Wählen Sie **Werbeaktionen** im Menü **Partner Center** aus, um eine Liste der aktuellen Werbeaktionen zusammen mit dem Rabatt, dem Angebotstyp und dem Start- und Enddatum für das Abonnement anzuzeigen. Wenn keine Aktionen verfügbar sind, sehen Sie eine Nachricht, die dieses anzeigt. 
+Auf der Seite mit den **Höherstufungen** können Sie anzeigen, für welche Höherstufungen Sie über Berechtigungen verfügen (falls zutreffend). Wählen Sie **Werbeaktionen** im Menü **Partner Center** aus, um eine Liste der aktuellen Werbeaktionen zusammen mit dem Rabatt, dem Angebotstyp und dem Start- und Enddatum für das Abonnement anzuzeigen. Falls keine Höherstufungen verfügbar sind, wird eine Meldung mit einem entsprechenden Hinweis angezeigt. 
 
 > [!NOTE]  
-> Sie können Werbeaktionen beim Einkaufen anzeigen. Wenn Sie ein Abonnement auswählen, wird der Rabattprozentsatz auf der Seite **Überprüfung** angezeigt.
+> Informationen zu Höherstufungen werden auch angezeigt, wenn Sie einen Kauf tätigen. Wenn Sie ein Abonnement auswählen, wird der Preis für die Höherstufung auf der Seite **Überprüfung** angezeigt.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Abonnements zu reduzierten Preisen kaufen
 

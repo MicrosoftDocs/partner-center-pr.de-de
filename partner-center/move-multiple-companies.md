@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: d021946fa09a046cdff10bcf1ca8dc25558063c8
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453187"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603779"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Verschieben mehrerer Unternehmen von Partner Membership Center (PMC) zum Partner Center
 
@@ -76,6 +76,7 @@ Wählen Sie **Weiter**.
 
 Die Angaben basieren auf den Informationen in PMC und werden überprüft, um sicherzustellen, dass das Unternehmen legitim ist.
 
+
 :::image type="content" source="images/migration/review.png" alt-text="Details überprüfen":::
 
 Wenn sich das Konto, das Sie verschieben, im gleichen Land oder in derselben Region wie das bestehende Konto befindet, können Sie entscheiden, ob Sie diese Adresse verwenden oder eine andere hinzufügen möchten. Wenn Sie eine andere Adresse verwenden, wird diese überprüft. Wenn Sie dieselbe Adresse verwenden möchten, werden die vorhandene Adresse und der primäre Kontakt verwendet.
@@ -88,7 +89,7 @@ Wenn Sie Ihr Profil anzeigen, sehen Sie die Informationen für Ihr Rechtsgeschä
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Wechsel von PMC zu Partner Center](move-pmc-pc-map.md)
+- [Verschieben von PMC in Partner Center](move-pmc-pc-map.md)
 - [Erstellen von Benutzerkonten](create-user-accounts-and-set-permissions.md)
 - [Zuweisen von Benutzerrollen und Berechtigungen](permissions-overview.md)
 - [Verwalten der Microsoft Partner Network-Mitgliedschaftsprogramme](renew-mpn-offers.md)

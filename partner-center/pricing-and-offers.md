@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: abb04f21a50cbbef83418a8e2fec480a0020c443
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 183e72e3f3f715a54bf3227bbf19c49033fb57e8
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467540"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633820"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preise und Angebote für Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure und mehr
 
@@ -31,17 +31,24 @@ ms.locfileid: "84467540"
 - Vertriebsbeauftragter
 - Abrechnungsadministrator
 
-Um die neuesten Programme und Angebote für Cloud Solution Provider anzuzeigen, wechseln Sie im Partner Portal zu **verkaufen > Preise und Angebote**. Sie finden separate Preislisten für Lizenz basierte Dienste, einschließlich Office 365, Microsoft Dynamics CRM und Enterprise Mobility Suite, sowie für nutzungsbasierte Dienste, die Azure enthalten.
+Um die neuesten Programme und Angebote für Cloud Solution Provider anzuzeigen, wechseln Sie im Partner Portal zu **verkaufen > Preise und Angebote**. Für die verschiedenen verfügbaren Produkttypen finden Sie separate Preislisten. Die folgenden Preislisten sind auf der Seite " **Preise und Angebote** " verfügbar:
 
-Die Angebotsliste enthält die verschiedenen Produktfamilien, die über Partner Center erworben werden können. Diese umfassen derzeit Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM und Microsoft Azure. Diese Liste wird weiterhin erweitert, wenn neue Produkte verfügbar werden.
+- **Lizenz basierte Dienste** enthalten Preisinformationen für Office 365, Enterprise Mobility und Security E3 sowie und Dynamics 365. Der Abschnitt Lizenz basierte Preise umfasst die aktuellen und Vorschau Preise sowie die Angebots Listen Matrix. Preislisten enthalten den Listenpreis und geschätzte Einzelhandelspreise (ERP) für Angebote in allen unterstützten Währungen. Die Angebots Listen Matrix enthält Marktverfügbarkeit und andere wichtige Informationen zu den angeboten. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
+- **Nutzungsbasierte Dienste** enthalten Preisinformationen für Microsoft Azure und Visual Studio. Sie können außerdem den [Preisrechner für Azure Services im CSP](https://azure.microsoft.com/pricing/calculator/) verwenden. Der Verwendungs basierte Download umfasst sowohl die CSP-Preisliste für alle unterstützten Währungen als auch die Preis Dateien für gemeinsame Dienste in ERP. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
+- **Microsoft Azure reservierten Instanzen** enthält Preisinformationen für alle unterstützten Währungen für reservierte Azure-Instanzen. Der Preis Download umfasst auch die Preise für gemeinsame Dienste in ERP. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
+- **Software Abonnements** beinhalten Preise für Begriffs basierte Software Abonnements für alle unterstützten Währungen. Die Preis Datei enthält alle unterstützten Währungen mit dem Listenpreis und MSRP. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
+- Die **Preise für Azure-Pläne** umfassen Preisinformationen für Azure-Plan Verbrauchs Dienste sowie Preise für die Azure-Plan Reservierung. Preise sind direkte Preise oder ERP und können für einen beliebigen unterstützten Markt abgerufen werden. Die Daten in diesen Dateien werden täglich aktualisiert.
+- **Foreign Exchange-Kurse** werden zur Berechnung der Abrechnung zwischen USD und der lokalen Währung der Partner verwendet. Die Tarife werden am ersten jedes Monats aktualisiert und sind für den angegebenen Monat true. die Tarife werden zur Verfügung gestellt. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
+- **Marketplace** umfasst die Preise für ISV-Lösungen aus dem kommerziellen Marketplace von Microsoft. Die Preise werden pro Markt abgerufen. Die Daten in diesen Dateien werden täglich aktualisiert.
 
-In jeder dieser Produktfamilien gibt es verschiedene SKUs und Produktbündel, die Sie je nach Ihrem Unternehmen verkaufen können. Sie können jederzeit auf die neuesten Informationen zu diesen Produkten mithilfe der Cloud Reseller offer-Matrix zugreifen, die auf der Seite Preise und Angebote verfügbar ist.
+> [!Note] 
+> Nur CSP-Partner mit der Funktion zum Transact können Preislisten anzeigen und herunterladen. Indirekte Händler wenden sich an [ihren CSP-Anbieter]( https://partner.microsoft.com/en-us/cloud-solution-provider/find-a-provider) , um Details zu den Preisen anzufordern.
 
 ## <a name="price-list-preview-and-change-frequency"></a>Preislisten Vorschau und Änderungs Häufigkeit 
 
 Lizenz basierte Dienste enthalten eine Vorschau der Preisliste, die 30 Tage vor allen Änderungen bereitgestellt wird. Um die Vorschau der Preisliste anzuzeigen, besuchen Sie **> Preise und Angebote zu verkaufen**. Für nutzungsbasierte Dienste gibt es keine Preis Vorschau, da diese Dienste dynamisch sind. In der folgenden Tabelle wird erläutert, wie die Preislisten Tabelle gelesen wird.
 
-|**Element**        |**Definition**      |
+|**Item**        |**Definition**      |
 |:-----------   |:-----------   |
 |ADD   |Ein neues Element in der Preisliste.|
 |CHG   |Änderungen am Listenpreis von Monat zu Monat. Andere Änderungen, die nicht mit dem Listenpreis zusammenhängen, können eintreten, wenn Partner Preislisten zwischen Monaten vergleichen, um Änderungen an anderen Eigenschaften zu ermitteln.|
@@ -82,7 +89,7 @@ CSP bietet einige Dienste für spezielle Marktsegmente, z. b. Education, Non-Pro
 
 |**Segment**   |**Wer muss qualifiziert werden**   |**Partner qualifiziert Kunden**|**Aktivierte Produkttypen**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Fortbildung|Kunde|Nein, Kunden Qualifizierung wird von Microsoft durchgeführt. |Nur Lizenz basiert|
+|Education|Kunde|Nein, Kunden Qualifizierung wird von Microsoft durchgeführt. |Nur Lizenz basiert|
 |Non-Profit|Kunde|Nein, Kunden, die sich außerhalb von Partner Center qualifizieren|Nur Lizenz basiert|
 |Government Community Cloud (GCC)|Partner und Kunde|Nachdem gcc aktiviert wurde, kann der Partner gcc-Kunden erstellen.| Nur Lizenz basiert|
 |Azure Government|Partner|Nach der Qualifikation arbeitet der Partner in einem CSP-Mandanten, der für Azure Government|Azure-Ressourcen|
@@ -151,3 +158,24 @@ Im folgenden finden Sie eine Zusammenfassung der Funktionsweise dieser Angebote:
 - Die Abrechnungs Häufigkeit für das Angebot wird als jährlich angezeigt, aber der Partner wird nach dem Erwerb des Abonnements vorab auf der ersten Rechnung abgerechnet.
 - Abonnements für 72-monatige-monatige Angebote sind nach dem Kauf gesperrt und können nicht abgebrochen werden, und die Anzahl der Lizenzen kann dem Abonnement nach dem ersten Kauf
 - Partner, die abbrechen müssen, müssen ein Support Ticket mit dem Grund für den Abbruch und der Abonnement-ID erstellen, die Sie unterstützen müssen.
+
+## <a name="estimated-retail-price-erp"></a>Geschätzter Einzelhandelspreis (ERP)
+
+Die meisten Preislisten enthalten einen Listenpreis, den Preis, der dem Partner in Rechnung gestellt wird, und den geschätzten Einzelhandelspreis. Der geschätzte Einzelhandelspreis (ERP) wird auch als von Microsoft empfohlener Einzelhandelspreis oder MSRP bezeichnet. Diese beiden Werte, ERP und MSRP, stellen den geschätzten Markt Wert der Produkte dar, wenn ein Kunde die Produkte direkt von Microsoft kaufen würde. Im folgenden finden Sie Informationen zu ERP/MSRP-Details für die einzelnen Produkt-oder Dienst Typen. 
+
+
+|**Produkt oder Dienst**        |**Details zur ERP-und MSRP-Preisliste**      |
+|:-----------   |:-----------   |
+|Produkt oder Dienst  |Details zur ERP-und MSRP-Preisliste  |
+|Lizenzbasierte Dienste  |In den lizenzbasierten Preislisten als ERP aufgeführt  |
+|Nutzungsbasierte Azure-Dienste  |Finden Sie in den entsprechenden Preislisten für gemeinsame Dienste.  |
+|Azure Reservations  |Finden Sie in den entsprechenden Preislisten für gemeinsame Dienste.  |
+|Verwendung basierend auf Azure-Plänen  |Preise sind nicht Rabatt in Preistabellen  |
+|Azure-Plan Reservierungen  |Referenz zu Preislisten für gemeinsame Dienste von Azure-Reservierungen  |
+|Softwareabonnements  |Aufgeführt als msrp in den Preislisten zu Software Abonnements  |
+|Marketplace  |Aufgeführt als msrp in Marketplace-Preislisten  |
+
+Weitere Ressourcen: 
+
+- [Preise für Azure-Plan](azure-plan-price-list.md)
+- [Übersicht über Azure-Preise](https://azure.microsoft.com/pricing/)

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, Rechnung, Zuordnungen, Steuer ausgenommene Steuer, Mehrwertsteuer, Umsatzsteuer-ID
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6be8b6d5d69ddaa6b5f3d14725691a67d168a80d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 2b022216a30d87205744c44ca340825396fa61bd
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795943"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633810"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Rechnungen und Steuern im Microsoft Partner Network
 
@@ -62,3 +62,8 @@ Sie müssen ein globaler Administrator oder MPN-Partner Administrator sein, um d
 
 3.  Geben Sie die ID für Ihr Unternehmen ein, wählen Sie **Hinzufügen**aus, und klicken Sie dann auf **weiter**. 
 
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Übersicht über die Abrechnung im Partner Center](billing-basics.md)
+
+- [Erhalten Sie eine Gutschrift für die Steuer](withholding-tax-credit-form.md)

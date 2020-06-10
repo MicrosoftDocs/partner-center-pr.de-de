@@ -1,25 +1,26 @@
 ---
-title: Zusammenarbeit mit anderen Partnern | Partner Center
+title: Zusammenarbeit mit anderen Partnern
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie indirekte Anbieter mit indirekten Resellern im Cloud Solution Provider-Programm (CSP) zusammenarbeiten, und legen Sie fest, welche Rolle für Sie geeignet ist.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ec371ca444ed951ac3d3272a85c088f91d1db97
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e3b2ccd077b745e8ec17a046a2dbaec541567d6b
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253937"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603839"
 ---
-# <a name="work-with-other-partners"></a>Zusammenarbeit mit anderen Partnern
+# <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Verschiedene Möglichkeiten, mit anderen Partnern in Partner Center zu arbeiten
 
 **Zielgruppe**
 
--  Partner Center
+- Partner Center
 
 Das Microsoft Cloud Solution Provider-Programm (CSP) bietet Partnern Möglichkeiten, auf diese Weise zusammenzuarbeiten.
 
@@ -33,7 +34,7 @@ Indirekte Anbieter (auch Händler genannt) erwerben Produkte und Abonnements dir
 
 Wenn Sie ein genehmigter indirekter Anbieter im CSP sind, finden Sie unter [Zusammenarbeiten mit indirekten Vertriebspartnern im CSP](indirect-provider-tasks-in-partner-center.md) weitere Informationen zum Herstellen des Kontakts mit indirekten Vertriebspartnern und Kunden. 
 
-### <a name="indirect-resellers"></a>Indirekte Vertriebspartner 
+### <a name="indirect-resellers"></a>Indirekte Vertriebspartner
 
 Indirekte Vertriebspartner arbeiten mit indirekten Anbietern zusammen, die eine direkte Beziehung mit Microsoft und die Infrastruktur für Kundensupport und Abrechnung haben. Die Partnerschaft mit indirekten Anbietern ermöglicht indirekten Vertriebspartnern beim Markteintritt die Zusammenarbeit mit erfahrenen Technologieanbietern ohne große Investitionen sowie die Bereitstellung eines breiteren Portfolios mit Microsoft-Lösungen. 
 

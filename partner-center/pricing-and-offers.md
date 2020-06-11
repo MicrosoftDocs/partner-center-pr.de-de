@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 183e72e3f3f715a54bf3227bbf19c49033fb57e8
-ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
+ms.openlocfilehash: 47be4df115adbfacd32304104b323f7266eb77f0
+ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84633820"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84661663"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preise und Angebote für Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure und mehr
 
@@ -94,7 +94,19 @@ CSP bietet einige Dienste für spezielle Marktsegmente, z. b. Education, Non-Pro
 |Government Community Cloud (GCC)|Partner und Kunde|Nachdem gcc aktiviert wurde, kann der Partner gcc-Kunden erstellen.| Nur Lizenz basiert|
 |Azure Government|Partner|Nach der Qualifikation arbeitet der Partner in einem CSP-Mandanten, der für Azure Government|Azure-Ressourcen|
 
-Partner Ränder: der Unterschied zwischen dem Listenpreis und den geschätzten Einzelhandelspreisen kann von Segment zu Segment abweichen. In der Regel haben Education und Non-Profit für CSP-Partner tendenziell niedrigere oder keine Ränder. Genaue Werte finden Sie in der lizenzbasierten Preisliste.  
+Partner Ränder: der Unterschied zwischen dem Listenpreis und den geschätzten Einzelhandelspreisen kann von Segment zu Segment abweichen. In der Regel haben Education und Non-Profit für CSP-Partner tendenziell niedrigere oder keine Ränder. Genaue Werte finden Sie in der lizenzbasierten Preisliste. 
+
+## <a name="add-on-offer-types"></a>Add-on-Angebots Typen
+
+Lizenz basierte Dienste können entweder als basisangebote oder als Add-ons erworben werden. Nur basisangebote können über den Partner Center-Katalog ermittelt und erworben werden. Add-ons müssen nach dem Erwerb der basisangebote angewendet werden. Die Spalte für den **sekundären Lizenztyp** der lizenzbasierten Preisliste enthält Informationen zu den einzelnen angeboten und deren Typ. Basisangebote verfügen über **nicht spezifische** Werte in der Spalte der sekundären Lizenztypen der Preisliste und können im Katalog erworben werden. Die Werte für den sekundären Lizenztyp des **Add-on** können nicht im Katalog erworben werden. So erwerben Sie diese Add-ons:
+
+1. Sehen Sie sich die Angebots Listen Matrix an, um die Liste der Angebots-IDs anzuzeigen, die erworben werden müssen, bevor Sie ein Add-on erwerben können.
+2. Erwerben des Basis Angebots aus dem Katalog
+3. Navigieren Sie zu Ihrem Kunden aus der Kundenliste. Klicken Sie auf das Abonnement für das Basisangebot, das Sie soeben erworben haben. Auf der Seite Abonnement verwalten werden verfügbare Add-ons angezeigt, die auf das Basisangebot angewendet werden können.
+
+> [!Note] 
+> Einige basisangebote verfügen über Werte vom **Typ "Unit Type** " für **Add-on-Lizenzen**. Bei einem Basisangebot bedeutet dies lediglich, dass Sie nach dem Erwerb keine Benutzerlizenzen zuweisen. Wenn das Angebot im Katalog erworben werden kann, handelt es sich um ein **Basisangebot** , unabhängig vom Einheitstyp in der Benutzeroberfläche.
+
 ## <a name="pricing-between-azure-and-non-azure"></a>Preise zwischen Azure-Angeboten und Azure-fremden Angeboten
 
 Die Preise unterscheiden sich in verschiedenen Angebots Typen. Lizenz basierte Preise sind in der Regel der Betrag pro Arbeitsplatz (Lizenz) für einen bestimmten Monat. Nutzungsbasierte Preise werden durch die Verwendung einer bestimmten Ressource und eine zugeordnete Abrechnungs-ID bestimmt. Für Partner fallen keine Gebühren für den Erwerb des Azure-Abonnements an. Allerdings werden den Partnern Ressourcen in Rechnung gestellt, die von verschiedenen bereit Stellungen im Rahmen des Azure-Abonnements beansprucht werden. Die Preise in der nutzungsbasierten Preisliste werden um verschiedene Ressourcen Zähler-IDs in Azure organisiert.

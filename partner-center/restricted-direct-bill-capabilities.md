@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: direkt Rechnung, einschränken
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7213708d598e48d1e7e0534908aed99d84b50de
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 41db00bab2f421ca3ab0a8f828e8a72b26087ebd
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467230"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679417"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Eingeschränkte direkte Rechnungs Funktionen und die Anforderungen für direkte CSP-Abrechnungspartner  
 
@@ -58,7 +58,10 @@ Vorhandene Direktabrechnungsabonnements sind nicht betroffen. Sie bleiben gülti
 
 - Anpassen der Anzahl der Arbeitsplätze vorhandener Arbeitsplatz basierter Abonnements
 
-- Anpassen der Arbeitsplatzanzahl für vorhandene Abonnement-Add-Ons. Hinweis: Sie können vorhandenen Abonnements keine neuen Add-ons hinzufügen, da diese als neuer Kauf behandelt werden.
+- Anpassen der Arbeitsplatzanzahl für vorhandene Abonnement-Add-Ons. 
+ 
+    >[!Note] 
+    >Sie können vorhandenen Abonnements keine neuen Add-ons hinzufügen, da diese als neuer Kauf behandelt werden.
 
 - Bereitstellen neuer Azure-Ressourcen und Verwalten vorhandener Azure-Ressourcen unter vorhandenen Azure-Abonnements. Dies schließt Ressourcen ein, die über Azure Marketplace-und Visual Studio-Abonnements verfügbar sind.
 
@@ -68,7 +71,7 @@ Neben neuen Käufen haben Sie auch keinen Zugriff mehr auf folgende Direktabrech
 
 - Sie können keine Einladung für Kunden generieren, die eine direkte Wiederverkäufer Beziehung anfordern. Die Option **Reseller Relationship anfordern** auf der Seite **Kunden** im Partner Center ist nicht verfügbar.
 
-    >[!Note]
+    >[!NOTE]
     >Im Rahmen der Umstellung von Direct Bill Partner auf indirekte Händler können Sie eine Einladung zum Kunden generieren, die eine indirekte Reseller-Beziehung anfordert, wenn Sie Ihren direkt Handelspartner bereits als indirekten Händler registriert haben.
 
 - Sie können keinen neuen Sandbox-Mandanten erstellen. Jeder Direktabrechnungspartner-Mandant kann einen einzelnen Sandbox-Mandanten für die Integration der Direktabrechnungs-API erstellen. Wenn Sie zuvor noch keinen erstellt haben, sind Sie nicht berechtigt, dies zu tun, nachdem Sie die direkte Rechnung für den Rechnungs Partner eingeschränkt haben.  

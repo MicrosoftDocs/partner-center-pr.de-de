@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: Supportmitarbeiter, Support, Supportkontakt zuweisen, designierter Supportkontakt
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 172fb7bc6ec4c7a4f6ce4549d96eb2487418a017
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 39e0a4390d37ba9cc39b872f059b818faad28051
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907470"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678997"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Einen Händler als technischen Support Kontakt für Kunden zuweisen
 
@@ -47,14 +47,12 @@ Dies ist für [Multipartner](multipartner.md)- und [Multichannel](multichannel.m
 
 3.  Wählen Sie unter **Designierter Supportkontakt** den angegebenen Handelspartner aus, und klicken Sie dann auf **Senden**. 
 
-    Notizen: 
-    
-    *  Bei neuen Abonnements wird für den designierten Supportkontakt standardmäßig der indirekte Anbieter festgelegt. Sie können diese Angabe auch in einen indirekten Händler mit Delegationsadministratorberechtigungen ändern.
-    
-    *  Wenn des Name Ihres Händlers nicht in der Liste der verfügbaren Supportkontakte angezeigt wird, fügen Sie ihn durch [Beantragen einer Beziehung](request-a-relationship-with-a-customer.md) hinzu. Nachdem die Beziehung eingerichtet wurde, sollte sie in der Liste angezeigt werden.  
+   >[!NOTE]  
+ >Bei neuen Abonnements wird für den designierten Supportkontakt standardmäßig der indirekte Anbieter festgelegt. Sie können dies auch in einen indirekten Reseller ändern, der über delegierte Administratorrechte verfügt.    
+>Wenn der Name des Wiederverkäufers nicht in der Liste der verfügbaren Support Kontakte angezeigt wird, fügen Sie Sie hinzu, indem Sie [eine Beziehung anfordern](request-a-relationship-with-a-customer.md). Nachdem die Beziehung eingerichtet wurde, sollte sie in der Liste angezeigt werden.  
 
 4.  Überprüfen Sie, ob die Änderungen richtig sind, und klicken Sie dann auf **Schließen**.
 
-## <a name="related-topics"></a>Verwandte Themen
+## <a name="next-steps"></a>Nächste Schritte
 
 [Entfernen einer Partnerschaft mit einem Kunden](remove-a-relationship.md)

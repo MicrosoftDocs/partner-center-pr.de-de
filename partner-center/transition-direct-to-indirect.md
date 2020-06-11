@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: Direktabrechnung, Übergang, indirekter Wiederverkäufer
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f3f87014e76ea32bf15d3e0147d5e40c3a5ebefc
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 05c26bdb7a8689e9b0964e19c89685cb67260ca6
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458406"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679447"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer
 
@@ -225,15 +225,13 @@ Beim indirekten CSP-Modell haben indirekte Reseller keine Abrechnungs Beziehunge
 
 ### <a name="pre-requisites"></a>Voraussetzungen
 
-Beachten Sie vor der Verwendung des Features Folgendes:
-
 - Diese Funktion steht nur für den Übergang von Partnern zur Verfügung, die die indirekte Registrierung des Wiederverkäufers mithilfe Ihrer vorhandenen direkt Rechnungs Partner Mandanten abgeschlossen haben.
 
 - Vor der Übertragung von Abonnements, die einem bestimmten Kunden zugeordnet sind, muss der Übergangs Partner den Kunden zu einem indirekten Anbieter verschieben.
 
-- Der Kunde hat [den Microsoft-Kundenvertrag über den indirekten Anbieter akzeptiert](#microsoft-customer-agreement-acceptance).
+- Der Kunde muss [den Microsoft-Kundenvertrag über den indirekten Anbieter akzeptiert](#microsoft-customer-agreement-acceptance)haben.
 
-### <a name="how-to-transition-to-indirect-reseller-status"></a>Vorgehensweise beim Übergang zum indirekten Reseller-Status
+### <a name="how-to-transition-to-indirect-reseller-status"></a>Übergang zum indirekten Reseller-Status
 
 Die Funktion ist ein 4-stufiger Prozess, bei dem Folgendes gilt:
 
@@ -322,7 +320,7 @@ So überprüfen und akzeptieren Sie eine Übertragungs Anforderung als indirekte
 
 Der Übergangs Partner sollte folgende Aktionen ausführen:
 
-1. Melden Sie sich bei Partner Center als **Administrator-Agent** oder **Vertriebs-Agent**an.
+1. Melden Sie sich bei Partner Center als **Administrator-Agent** oder Vertriebs- **Agent**an.
 
 2. Wählen Sie auf der Seite **Customers** den gewünschten Kunden aus, und klicken Sie auf das Symbol **Quick Links** , um die Zusammenfassungs Ansicht des Kunden zu erweitern.
 

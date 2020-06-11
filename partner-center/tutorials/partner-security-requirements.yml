@@ -11,12 +11,12 @@ metadata:
   ms.author: isaiahwilliams
   author: iswillia
   ms.topic: tutorial
-  ms.openlocfilehash: 75211a49ba016ca7d75679d3cfac0a1116c5cf20
-  ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+  ms.openlocfilehash: 26c91899fa218041d3a98c565a789004471c5218
+  ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
   ms.translationtype: MT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 06/05/2020
-  ms.locfileid: "84453347"
+  ms.lasthandoff: 06/10/2020
+  ms.locfileid: "84679437"
 items:
 - title: Einführung
   durationInMinutes: 5
@@ -150,4 +150,4 @@ items:
 
       :::image type="content" source="../images/security/baseline-security-verification-confirmed.png" alt-text="Zusätzliche Sicherheitsüberprüfung bestätigt":::
 
-    Nachdem der Benutzer die oben genannten Schritte abgeschlossen hat, kann er sich bei dem Microsoft-Clouddienst anmelden, auf den er zugreifen möchte. Hinweis: Benutzer, die nicht unter die Baselinerichtlinie *MFA für Administratoren erfordern* fallen, werden nur basierend auf einem Risiko aufgefordert, MFA durchzuführen, bis die Sicherheitsanforderungen des Partners erzwungen werden.
+    Nachdem der Benutzer die oben genannten Schritte abgeschlossen hat, kann er sich bei dem Microsoft-Clouddienst anmelden, auf den er zugreifen möchte. Bis die Sicherheitsanforderungen der Partner erzwungen werden, werden Benutzer, die nicht durch die Baseline-Richtlinie *MFA für Administratoren erfordern* , nur auf der Grundlage des Risikos zur Eingabe von MFA aufgefordert.

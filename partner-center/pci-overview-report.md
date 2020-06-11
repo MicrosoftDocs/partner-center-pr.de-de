@@ -11,16 +11,16 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 75693ce31c98e694c0dbed31fde6c6510a83ec17
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0e96b928e5221f34e9a16d430e079d02882263d1
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452947"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679347"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Übersicht über Dashboardberichte in Partner Center Insights
  
-Das Dashboard Übersicht über Partner Center bietet eine Momentaufnahme Ansicht der wichtigsten Leistungsindikatoren, z. b. Kunden, Abonnements, Azure-Verbrauchs Umsätze, Lizenzen usw. Sie können die folgenden Diagramme im Übersichtsbericht visualisieren. 
+Das Übersichts Dashboard bietet eine Momentaufnahme Ansicht der wichtigsten Leistungsindikatoren, wie z. b. Kunden, Abonnements, Azure-Verbrauchs Umsätze, Lizenzen usw. Sie können die folgenden Diagramme im Übersichtsbericht visualisieren. 
 
 - Zusammenfassung  
 - Geografische Verteilung Ihrer Kunden, Abonnements und Lizenzen  
@@ -39,7 +39,9 @@ Das Micro-Diagramm zeigt den Monats-und Monats Trend der Kundenanzahl über den 
  
 - Azure-verbrauchte Umsätze (ACR): Gesamtumsatz in Azure (US $), das Ihnen gegenüber dem ausgewählten Datumsbereich zugeordnet ist, oder ablehnen von% der attributierten ACR US $ im ausgewählten Datumsbereich.
 
-Das Micro-Diagramm stellt einen monatlichen Trend von ACR US $ dar, der im ausgewählten Datumsbereich angezeigt wird: Azure-verbrauchte Umsatzdaten (ACR) sind für Benutzer verfügbar, die der Rolle "Executive Report Viewer" zugewiesen wurden. 
+Das Micro-Diagramm zeigt einen monatlichen Trend von ACR US $, der Ihnen über den ausgewählten Datumsbereich zugeordnet ist. 
+>[!Note] 
+>Azure-verbrauchte Umsatzdaten (ACR) sind für Benutzer verfügbar, denen die Rolle "Executive Report Viewer" zugewiesen ist. 
  
 - Abonnements: Gesamtanzahl der aktuellen cloudproduktabonnements (aktiv und inaktiv), die von Ihnen verkauft oder verwaltet werden.  
 Das Vergrößern oder ablehnen von% der Abonnements im Rahmen des ausgewählten Datums Bereichs Micro-Diagramms zeigt einen Monat im Vergleich zum gesamten Abonnement Zähler im ausgewählten Datumsbereich. 
@@ -47,8 +49,7 @@ Das Vergrößern oder ablehnen von% der Abonnements im Rahmen des ausgewählten 
 - Aktive Abonnements: aktuelle Anzahl der cloudabonnements mit aktiver Verwendung, gemessen basierend auf Produkt Telemetrie. Dies schließt alle Test Abonnements im Fall von Azure-Abonnements aus.  
 Wachstum% der aktiven Abonnements im Rahmen des ausgewählten Datums Bereichs Micro-Diagramm zeigt einen Monat im Vergleich zu einem Monats Trend aktiver Abonnements im ausgewählten Datumsbereich 
  
-- Bereitgestellte Lizenzen: Anzahl aller Cloud-Produktlizenzen, die im ausgewählten Zeitraum in ihren Kunden Abonnements bereitgestellt werden.  
-Durch das Wachstum oder ablehnen von% dieser Lizenzen im Rahmen des ausgewählten Mikro Diagramms für Datum/Bereich wird der Trend für den Monatsvergleich dieser zugewiesenen Lizenzen über den ausgewählten Datumsbereich dargestellt.
+- Bereitgestellte Lizenzen: Anzahl aller Cloud-Produktlizenzen, die im ausgewählten Zeitraum in ihren Kunden Abonnements bereitgestellt werden. Wachstum oder ablehnen von% dieser Lizenzen während des ausgewählten Datums Bereichs. Das Micro-Diagramm zeigt einen Monat im Vergleich zu einem Monats Trend dieser zugewiesenen Lizenzen im ausgewählten Datumsbereich.
 
 :::image type="content" source="images/pci/summary.png" alt-text="Zusammenfassungs Lizenzen":::
 
@@ -72,8 +73,10 @@ Hiermit wird der Trend der Anzahl der Kunden Abonnements für den ausgewählten 
 
 **Azure-Trend zum Umsatzwachstum**
 
-Monatlicher Trend der von Azure genutzten Einnahmen US $, die Ihnen über den ausgewählten Datumsbereich zugeordnet sind. Die X-Achse stellt Monate des ausgewählten Datums Bereichs dar, und die Y-Achse repräsentiert den gesamten von Azure genutzten Umsatz US $, der Ihnen während des Monats zugeordnet wurde.   
-**Hinweis**: der Azure-verbrauchte Umsatz (ACR) ist nur für Benutzer sichtbar, denen die Rolle "Executive Report Viewer" zugewiesen wurde. 
+Monatlicher Trend der von Azure genutzten Einnahmen US $, die Ihnen über den ausgewählten Datumsbereich zugeordnet sind. Die X-Achse stellt Monate des ausgewählten Datums Bereichs dar, und die Y-Achse repräsentiert den gesamten von Azure genutzten Umsatz US $, der Ihnen während des Monats zugeordnet wurde.
+   
+>[!Note] 
+>Azure verbrauchter Umsatz (ACR) ist nur für Benutzer sichtbar, denen die Rolle "Executive Report Viewer" zugewiesen wurde. 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Azure-Nutzung":::
 

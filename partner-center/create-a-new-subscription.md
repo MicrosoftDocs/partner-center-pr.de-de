@@ -11,12 +11,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 Keywords: Abonnement, neu erstellen, Abonnement hinzufügen, anhalten, Abbrechen, aussetzen, anhalten, Saas, Lizenz, ISV, Drittanbieter
 ms.localizationpriority: medium
-ms.openlocfilehash: 969093b1ce3ba6936800ea91fd066d73b51701c7
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 7f8b3e6c444f8aeb59a55d6e7feb881eb6f99a5e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394149"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679057"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Aussetzen oder Stornieren von Kundenabonnements
 
@@ -43,7 +43,7 @@ Einige Angebote sind auf ein Abonnement pro Kunde beschränkt. Eine Liste der ei
 
 ## <a name="create-a-new-subscription"></a>Erstellen eines neuen Abonnements
 
-1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard)an.
+1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard) an.
 
 2. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 
@@ -73,7 +73,10 @@ Einige Angebote sind auf ein Abonnement pro Kunde beschränkt. Eine Liste der ei
     - Sie können das Abonnement überprüfen oder bearbeiten, indem Sie den Abonnement Namen **auf der Abonnementseite des** Kunden auswählen. Dort können Sie Add-On-Lizenzen auswählen, falls verfügbar, die Menge der Lizenzen ändern oder das Abonnement aussetzen.
 
     **Für ISV Saas-Abonnements (Lizenz basiert):**
-    - Sie erhalten einen Link zur Website des ISV-Verlegers. Dieser Link soll Ihnen helfen, die Bereitstellung oder das Konto für das Abonnement des Kunden abzuschließen. (Beachten Sie, dass weder Sie noch Ihr Kunde eine e-Mail mit Anweisungen zum Abschließen der Konto Einrichtung und-Bereitstellung für diese Art von ISV-Abonnement erhalten.)
+    - Sie erhalten einen Link zur Website des ISV-Verlegers. Dieser Link soll Ihnen helfen, die Bereitstellung oder das Konto für das Abonnement des Kunden abzuschließen.
+      
+    >[!NOTE]
+    > Weder Sie noch Ihr Kunde erhalten eine e-Mail mit Anweisungen zum Abschließen der Konto Einrichtung/-Bereitstellung für diese Art von ISV-Abonnement.)
 
     - Wenn Ihr Abonnement eine 30-tägige kostenlose Testversion enthält, wird der kostenlose Testzeitraum automatisch angewendet. Als Partner im CSP-Programm können Sie den kostenlosen Testzeitraum für Angebote, die Sie für Kunden erwerben, nicht aufheben. Sobald der kostenlose Testzeitraum endet, beginnt die Abonnement Laufzeit, und das Abonnement wird in den kostenpflichtigen Status konvertiert. Das Abonnement wird dann nach dem gleichen Zeitplan automatisch aufgelöst.
 
@@ -151,7 +154,7 @@ So beenden Sie das automatische Erneuern eines aktiven Marketplace-Abonnements:
 
 5. Suchen Sie auf der Seite Abonnement Details den Abschnitt **Status** , und deaktivieren Sie das Kontrollkästchen **Automatische Verlängerung** .
 
-6. Klicken Sie auf **Submit** (Senden).
+6. Klicken Sie auf **Senden**.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

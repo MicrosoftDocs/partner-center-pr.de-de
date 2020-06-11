@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dec4e4c3f5438df7d09da018c8d7df3709a01854
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 475ad98a4abad12be2a1a4fe5ae2dc812013aca0
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453068"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679367"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Im Partner Center Insights-Dashboard verfügbarer Leistungsbericht
 
@@ -41,7 +41,7 @@ Sie können die folgenden Diagramme im Bericht "Vorteile" visualisieren:
 - Markteinführung
 
  > [!NOTE]
- > Dieser Bericht ist über das PCI-Dashboard (Partner Center Insights) verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administrator Berechtigungen für Berichte verfügen.
+ > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administrator Berechtigungen für Berichte verfügen.
 
 **Zusammenfassung**
 

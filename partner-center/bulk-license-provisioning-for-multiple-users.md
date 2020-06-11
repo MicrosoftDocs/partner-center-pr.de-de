@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: Lizenz zuweisen, Lizenz widerrufen, mehreren Benutzern zuweisen,
 ms.localizationpriority: medium
-ms.openlocfilehash: 7018b1f4ae56ee267a39239c97bf7355381e6802
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 795c23deeaaa119c4a248a1ae1835ae4396eb62a
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798568"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679097"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer
 
@@ -76,7 +76,8 @@ Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und ze
 
 8. Wählen Sie **Speichern** aus. Partner Center öffnet die Bestätigungsseite **Licenses updated**, auf der die Benutzer und ihre neuen Lizenzen aufgeführt sind.
 
-**Beachten Sie**  , dass einige Microsoft-Produkte an bestimmten Standorten möglicherweise nicht verfügbar sind. Wieder andere Produkte sind abhängig von anderen Produkten oder Diensten oder können dem gleichen Benutzer nicht zusammen zugewiesen werden. Nach dem Speichern werden auf der Bestätigungsseite die Ergebnisse der erfolgreichen Lizenzzuweisung für alle Benutzer sowie fehlerhafte Lizenzzuweisungen angezeigt.
+>[!NOTE]
+>Einige Microsoft-Produkte sind an bestimmten Standorten möglicherweise nicht verfügbar. Wieder andere Produkte sind abhängig von anderen Produkten oder Diensten oder können dem gleichen Benutzer nicht zusammen zugewiesen werden. Nach dem Speichern werden auf der Bestätigungsseite die Ergebnisse der erfolgreichen Lizenzzuweisung für alle Benutzer sowie fehlerhafte Lizenzzuweisungen angezeigt.
 
 
 <a href="" id="revoking-licenses"></a>
@@ -98,6 +99,6 @@ Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und ze
 
 7. Wählen Sie **Speichern** aus.
 
-## <a name="related-topics"></a>Zugehörige Themen
+## <a name="next-steps"></a>Nächste Schritte
 
 [Zuweisen von Lizenzen an einen Benutzer](assign-licenses-to-users.md)

@@ -11,12 +11,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: c9a80519ab418c0b0c52bbf7e0224e439b4f672e
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 5d3bfd235b621b7af0c86bd5bdf152cc50a2d4ba
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467530"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679297"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights: ein Dashboard, das zeigt, wie ein kommerzieller Partner von Microsoft ist
 
@@ -37,7 +37,7 @@ Es gibt zwei neue Rollen in Partner Center, die speziell für den Zugriff auf Ei
 Der globale Administrator oder der Konto Administrator kann Benutzern diese Rollen zuweisen und entweder für das gesamte Unternehmen oder für einen bestimmten MPN-Speicherort zugewiesen werden.  
 
 >[!Note] 
->Benutzer, die seit dem 2. Dezember 2019 als MPN-Administratoren hinzugefügt wurden, wurden der unternehmensweiten Berichts-Viewer-Rolle automatisch hinzugefügt. Sie können auf die Berichte als Berichts-Viewer zugreifen, ohne dass für den globalen Administrator oder Konto Administrator eine explizite Aktion erforderlich ist. Die globalen Administratoren oder Konto Administratoren können diese Zuweisungen bei Bedarf überschreiben. 
+>Benutzer, die MPN-Administratoren mit dem 20. Januar 2020 haben, wurden der unternehmensweiten Berichts-Viewer-Rolle automatisch hinzugefügt. Sie können auf die Berichte als Berichts-Viewer zugreifen, ohne dass für den globalen Administrator oder Konto Administrator eine explizite Aktion erforderlich ist. Die globalen Administratoren oder Konto Administratoren können diese Zuweisungen bei Bedarf überschreiben. 
 
 ## <a name="reports-available"></a>Verfügbare Berichte
 

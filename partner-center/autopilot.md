@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Autopilot, Windows Autopilot, Microsoft Autopilot, Zero-Touch Deployment, Windows-Willkommensseite, Anmeldebildschirme, Willkommensseite
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 1ce0852543c70555bdbbbffd8727876bda8aedef
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a3067b674b7784df34fba3de9cfaa5b44349b8c4
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908385"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679187"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Verwenden von Windows Autopilot-Profilen auf neuen Geräten zum Anpassen der Standardbenutzer Freundlichkeit eines Kunden
 
@@ -175,7 +175,8 @@ Die CSV-Datei sollte in etwa wie folgt aussehen:
 
 > **{SerialNumber},,, Microsoft Corporation, Surface Laptop**
 
-Beachten Sie, dass bei "Herstellername" und "Gerätemodell" die Groß-/Kleinschreibung beachtet wird.
+>[!NOTE]
+> Bei "Herstellername" und "Gerätemodell" wird die Groß-/Kleinschreibung beachtet.
 
 Wenn Sie nicht wissen, welchen Wert Sie für Herstellername und Gerätemodell benötigen, können Sie diesen auf dem Gerät ausführen, um die richtigen Werte zu erfassen:
 

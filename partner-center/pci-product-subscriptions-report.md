@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21c90449ca6ee93f41455db41af596a65d4946bf
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 3d4896fbff07eebc1dd6debf6010dc3970f45a4a
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452791"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679317"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Bericht "Produkt Abonnements" im Partner Center Insights-Dashboard verfügbar
 
@@ -38,7 +38,7 @@ Die folgenden Abschnitte finden Sie im Bericht zu Produkt Abonnements.
 - Produkt Trend
 
  > [!NOTE]
- > Dieser Bericht ist über das PCI-Dashboard (Partner Center Insights) verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administrator Berechtigungen für Berichte verfügen.
+ > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administrator Berechtigungen für Berichte verfügen.
 
 **Zusammenfassung**
 

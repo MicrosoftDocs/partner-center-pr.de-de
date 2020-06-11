@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 206a7e9d756aa2d888813d83ef22fcd7a9ac109c
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 8da7e89ad498a81572d044bbb4526b6188c3bfbc
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452893"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679327"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Bericht "Produktlizenzen" im Partner Center Insights-Dashboard
 
@@ -34,7 +34,7 @@ Der Bericht zu den Produktlizenzen enthält Lizenz Analysen für Arbeitsplatz ba
 - Lizenz Verteilung nach Partnerstandorten, Vertriebskanal, SKUs, Anfügungs Typ für Partner, Segment
 
  > [!NOTE]
- > Dieser Bericht ist über das PCI-Dashboard (Partner Center Insights) verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administrator Berechtigungen für Berichte verfügen.
+ > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administrator Berechtigungen für Berichte verfügen.
 
 **Zusammenfassung**
 

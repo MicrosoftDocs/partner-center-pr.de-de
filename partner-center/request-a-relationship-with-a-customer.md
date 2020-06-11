@@ -9,12 +9,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fe0d4053fba0c9c9a6ef0b593cc5906b57f2359f
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 44f959f2bc0fff5c354dd7f6bf55e1afccf2398e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467370"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679407"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Anfordern einer Reseller-Beziehung von einem Kunden im Partner Center
 
@@ -26,11 +26,12 @@ Wenn Sie den Dienst oder das Abonnement eines Kunden in seinem Namen verwalten m
 
 Wenn Sie eine Vertriebspartnerschaft mit einem Kunden aufbauen und nur die von Ihnen bereitgestellten Azure-Abonnements verwalten möchten, ist es nicht erforderlich, Administratorrechte zu erhalten.
 
-Beachten Sie, dass die Option, keine Berechtigungen anzufordern, den Partnern, die in Microsoft Cloud for US Government oder Microsoft Cloud Deutschland arbeiten, nicht zur Verfügung steht. Weitere Informationen finden Sie unter [Kunden delegieren Administratorrechte an Partner](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
+>[!NOTE] 
+>Die Option zum Anfordern von Berechtigungen ist nicht für Partner verfügbar, die Microsoft Cloud für die US-Regierung oder Microsoft Cloud Deutschland betreiben. Weitere Informationen finden Sie unter [Kunden delegieren Administratorrechte an Partner](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden, eine Vertriebspartnerschaft mit Ihnen einzugehen
 
-Beachten Sie, dass Sie eine Vertriebspartnerschaft mit einem Kunden aus Ihrem Land oder Ihrer Region anfordern können.
+Sie können eine Reseller-Beziehung mit einem Kunden aus Ihrem Land oder aus derselben Region anfordern.
 
 1. Wählen Sie im **Partner Center**-Menü die Option **Kunden** und anschließend **Vertriebspartnerschaft beantragen** aus.
 

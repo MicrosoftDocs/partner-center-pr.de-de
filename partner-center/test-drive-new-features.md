@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 590ec680a1fdc80177a955417942b340b94eb96b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458396"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679397"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>Testen Sie neue Partner Center-Features, und gestalten Sie die Zukunft von Partner Center.
 
@@ -26,7 +26,7 @@ ms.locfileid: "84458396"
 
 Wir veröffentlichen ständig neue Features und Funktionen für Partner Center und möchten Ihr Feedback erhalten! 
 
-Wir möchten dich gerne einladen, neue Features zu testen, bevor sie in der weltweiten Partner Center-Community veröffentlicht werden, und uns deine Gedanken dazu mitzuteilen. Sehen Sie sich die Informationen zu neuen Features auf der [Partner Center-Ankündigungsseite](announcements/index.md) an, damit Sie mit der Planung ihrer Nutzung zum Ausbau Ihres Unternehmens beginnen können. Beachten Sie, dass zu einem bestimmten Zeitpunkt mehrere Features zum Testen verfügbar sein können.
+Wir möchten dich gerne einladen, neue Features zu testen, bevor sie in der weltweiten Partner Center-Community veröffentlicht werden, und uns deine Gedanken dazu mitzuteilen. Sehen Sie sich die Informationen zu neuen Features auf der [Partner Center-Ankündigungsseite](announcements/index.md) an, damit Sie mit der Planung ihrer Nutzung zum Ausbau Ihres Unternehmens beginnen können. Es gibt möglicherweise mehrere Features, die Sie zum Testen des Laufwerks zu einem bestimmten Zeitpunkt benötigen.
 
 ### <a name="test-drive-a-feature"></a>Testen eines Features
 
@@ -58,4 +58,4 @@ Wir empfehlen Ihnen, Ihre Ideen und Gedanken zu einer bestimmten Vorschauversion
 - Support anfordern, wenn Probleme mit einem Vorschaufeature auftreten. Wählen Sie zum Erstellen einer Supportanfrage **Supportanfragen > Partner Center-Anfragen** im Menü **Partner Center** und dann **Neue Anforderung** auf der Seite **Partner Center-Anfragen** aus.
 
 
--- Das Partner Center-Team
+

@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34a9c3fb187cce5e062d7289a46db1771c1c4d79
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: d8400cbfb5d466ea4da1c8a7abd9d8e2e49df184
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453129"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679377"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Azure-Verwendungs Bericht, der im Partner Center Insights-Dashboard verfügbar ist
 
@@ -33,7 +33,7 @@ Der Azure-Verwendungs Bericht zeigt Metriken im Zusammenhang mit den Azure-Abonn
 - Azure-Auslastung
 
  > [!NOTE]
- > Dieser Bericht ist über das PCI-Dashboard (Partner Center Insights) verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administrator Berechtigungen für Berichte verfügen.
+ > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administrator Berechtigungen für Berichte verfügen.
 
 **Zusammenfassung**
 
@@ -50,7 +50,8 @@ Das Micro-Diagramm zeigt einen Monat-für-Monat-Trend der Anzahl von Azure Activ
 - Azure verbrauchter Umsatz (ACR): Gesamter von Azure verwendeter Umsatz (US $), der Ihnen über den ausgewählten Datumsbereich zugeordnet ist.
 Prozentualer Zuwachs oder ablehnen von attributierten ACR US $ während des ausgewählten Datums Bereichs. 
 
-Das Micro-Diagramm zeigt einen monatlichen Trend von ACR US $, der Ihnen gegenüber dem ausgewählten Zeitraum zugeordnet ist: 
+Das Micro-Diagramm zeigt einen monatlichen Trend von ACR US $, der Ihnen über den ausgewählten Zeitraum zugeordnet ist.
+
 
 > [!NOTE]
  > Azure verbrauchter Umsatz (ACR) ist nur für Benutzer sichtbar, denen die Rolle "Executive Report Viewer" zugewiesen wurde.

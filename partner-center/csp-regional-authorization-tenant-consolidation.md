@@ -12,12 +12,12 @@ keywords: Migrieren von Kunden, Bereitstellung, Mandantenkonto, Mandanten konsol
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d361a220ce798863eaeec73e6ff093f135bc4ae1
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: c2667bf19f73dfb2498cd6f706bd97b595f67a31
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453227"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679067"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Anweisungen für die Mandanten Konsolidierung der regionalen CSP-Autorisierung
 
@@ -35,11 +35,12 @@ ms.locfileid: "84453227"
 
 Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschiedene Länder/Regionen.
 
-**Hinweis:** Sie müssen alle Abonnements und die Anzahl von Arbeitsplätzen für Ihre Kunden kennen, die über die Übergangskonten bereitgestellt wurden. Sie werden im Rahmen des Migrationsprozesses unter dem neuen zentralen CSP-Konto genau dieselben Abonnements mit derselben Anzahl von Arbeitsplätzen erneut bereitstellen. Verwenden Sie das Feature zum Exportieren der Liste, um eine Liste mit Kunden zu erstellen, die zum zentralisierten Mandanten migriert werden sollen. Partner entscheiden sich für die Konsolidierung ihrer Mandanten. Nach Abschluss der Konsolidierung können Partner nicht den vorherigen Zustand wiederherstellen. Beachten Sie, dass auch Schritte seitens des Kunden erforderlich sind.
+>[!NOTE]  
+>Sie müssen alle Abonnements und Arbeitsplatz Zähler für Ihre Kunden kennen, die über die Übergangs Konten bereitgestellt werden. Sie werden im Rahmen des Migrationsprozesses unter dem neuen zentralen CSP-Konto genau dieselben Abonnements mit derselben Anzahl von Arbeitsplätzen erneut bereitstellen. Verwenden Sie das Feature zum Exportieren der Liste, um eine Liste mit Kunden zu erstellen, die zum zentralisierten Mandanten migriert werden sollen. Partner entscheiden sich für die Konsolidierung ihrer Mandanten. Nach Abschluss der Konsolidierung können Partner nicht den vorherigen Zustand wiederherstellen. Möglicherweise ist auch eine Kunden Aktion erforderlich.
 
 ## <a name="prepare-for-migration"></a>Vorbereiten der Migration
 
-- Melden Sie sich in Ihrem **Partner Center** mit dem zu **migrierenden** (vorhandenen) Konto an, und notieren Sie alle Kunden und alle für diese Kunden bereitgestellten Dienste.
+- Melden Sie sich **mit dem Übergangs Konto (das** vorhandene Konto), das Sie übertragen werden, bei **Partner Center** an, und überprüfen Sie alle Kunden und alle Dienste, die für diese Kunden bereitgestellt werden.
 
    :::image type="content" source="images/regionalcustomer1.png" alt-text="Liste regionaler Kunden":::
 
@@ -61,11 +62,11 @@ Die Kunden werden in der Kundenliste des Partners angezeigt, nachdem Sie die Ver
 
 1. Nachdem der Kunde die Vereinbarung unterzeichnet hat, können Sie die Abonnements unter dem zentralisierten Partnermandanten erneut erstellen.
 
-2. Wählen Sie im **Partner Center** die Option **Kunden** aus.
+2. Wählen Sie im **Partner Center** **Kunden**aus.
 
 3. Öffnen Sie den Unternehmensnamen für den Kunden, den Sie migrieren möchten.
 
-4. Klicken Sie auf **Abonnement hinzufügen**.
+4. Wählen Sie **Abonnement hinzufügen** aus.
 
 5. Fügen Sie die richtigen Abonnements und die korrekte Arbeitsplatzanzahl aus dem Katalog hinzu. Gleichen Sie die Angaben mit den Informationen der Partnerkonten vom Typ **Transitioning From** ab.
 
@@ -93,7 +94,7 @@ Durch die Deaktivierung des CSP-Abonnements unter den Partnerkonten vom Typ **Tr
 3. Legen Sie für das Abonnement **suspended** fest, und klicken Sie anschließend auf **Übermitteln**.
 
    >[!Note]
-   >  Durch das Anhalten des Abonnements wird sichergestellt, dass keine doppelte Abrechnung erfolgt.
+   >Durch das Anhalten des Abonnements wird sichergestellt, dass keine doppelte Abrechnung erfolgt.
 
    Für das Abonnement wird in der Abonnementliste **suspended** angezeigt.
 
@@ -120,7 +121,7 @@ Azure-Verwendungs basierte CSP-Abonnements müssen nicht manuell migriert werden
 
 6. Wiederholen Sie diese Schritte für alle Abonnements in allen Kundendatensätzen, um künftige Kosten für die Konten vom Typ **Transitioning From** zu vermeiden. Der Partner erhält eine endgültige Rechnung mit einer Gutschrift für die Anzahl der nicht genutzten Tage zwischen dem Stornierungsdatum und dem letzten Tag des Abrechnungszeitraums. Nach diesem letzten Abrechnungszeitraum werden keine zukünftigen Rechnungen generiert.
 
-### <a name="notes"></a>Notizen
+### <a name="additional-information"></a>Zusätzliche Informationen
 
 - Das Deaktivieren des Abonnements von der **Umstellung vom** CSP-Konto wirkt sich nicht auf den Dienst des Endkunden aus, solange der Dienst vor dem Deaktivieren des Abonnements vom **Übergang zum** CSP-Konto bereitgestellt wurde.
 
@@ -128,8 +129,8 @@ Azure-Verwendungs basierte CSP-Abonnements müssen nicht manuell migriert werden
 
 - Zurzeit besteht keine Möglichkeit, einen Kunden vollständig aus der Kundenliste zu entfernen.
 
->[!Note]
-> Partner müssen Abonnements bei der **Umstellung vom** Partner Mandanten Konto in Partner Center an denselben Tag aussetzen, an dem diese Abonnements umgestellt werden, und unter dem Konto des **Übergangs zum** Partner Mandanten im Partner Center eingerichtet werden, um sicherzustellen, dass keine doppelte Abrechnung erfolgt. Microsoft unterstützt keine Kreditanforderungen aufgrund einer Überlappung bei der Abrechnung, wenn die **Umstellung von** Abonnements auf angehalten nicht ordnungsgemäß festgelegt wird.
+    >[!Note]
+    > Partner müssen Abonnements bei der **Umstellung vom** Partner Mandanten Konto in Partner Center an denselben Tag aussetzen, an dem diese Abonnements umgestellt werden, und unter dem Konto des **Übergangs zum** Partner Mandanten im Partner Center eingerichtet werden, um sicherzustellen, dass keine doppelte Abrechnung erfolgt. Microsoft unterstützt keine Kreditanforderungen aufgrund einer Überlappung bei der Abrechnung, wenn die **Umstellung von** Abonnements auf angehalten nicht ordnungsgemäß festgelegt wird.
 
 ### <a name="simplify-migration-using-export"></a>Vereinfachen der Migration mithilfe der Exportfunktion
 

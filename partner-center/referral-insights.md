@@ -1,22 +1,23 @@
 ---
-title: Abrufen von Empfehlungsdaten | Partner Center
+title: Abrufen von Empfehlungsdaten
 ms.topic: article
-ms.date: 07/12/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Überprüfen Sie Ihre Daten zu Empfehlungserkenntnissen regelmäßig, um das Erkennen von Trends oder Bereichen zu erleichtern, die Aufmerksamkeit benötigen, und beginnen Sie, Ihre Geschäftsziele bewusst anzusteuern.
-author: JnHs
-ms.author: jenhayes
+description: Überprüfen Sie Ihre Erkenntnisse zu Empfehlungen regelmäßig im Partner Center, um zu berücksichtigende Trends und Bereiche für Optimierungen zu identifizieren, damit Sie Ihre Unternehmensziele erreichen.
+author: LauraBrenner
+ms.author: labrenne
 keywords: Weiterleitung, analysieren, Analyse, Metrik, Konvertierung
 ms.localizationpriority: high
-ms.openlocfilehash: fb1e93f830ea8ae8baaf4c75107511df88807f47
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2c13f2e6d8500b715aa29fb3f0178e7ed020062a
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "73654126"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467450"
 ---
-# <a name="get-referral-insights"></a>Abrufen von Empfehlungsdaten
+# <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>In Partner Center erhalten Sie Erkenntnisse zu Empfehlungen und Informationen zur Entwicklung Ihrer Empfehlungen.
 
 **Zielgruppe**
 

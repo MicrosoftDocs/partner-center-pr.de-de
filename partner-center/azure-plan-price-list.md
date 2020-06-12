@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f17dc4cb7e3f52984ce9a1fb7c19d048bb74c47b
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: acf8a26960df0bebd97b8684c5a51173a86af416
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908322"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452607"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Preisliste für die neue E-Commerce-Benutzeroberfläche in CSP für Azure
 
@@ -39,12 +39,11 @@ Die Preisliste für die neue Azure E-Commerce-Benutzeroberfläche in CSP ist im 
 
 3. Wählen Sie neben **Exporttyp** die Option **Preise für Azure-Plannutzung**, **Preise für Azure-Planreservierungen** oder **Wechselkurse** aus. Hinweis: Die Option **Wechselkurse** ist nicht länderspezifisch.
 
-3. Wählen Sie neben **Preise für Datum** das gewünschte Datum aus, beispielsweise **Aktuell**. 
+4. Wählen Sie neben **Preise für Datum** das gewünschte Datum aus, beispielsweise **Aktuell**.
 
+   :::image type="content" source="images/azure/pricingnew.png" alt-text="Landesspezifisch":::
 
-![Landesspezifisch](images/azure/pricingnew.png)
-
-Hinweis: Sie können zwei verschiedene Preislisten exportieren: Preise für Azure-Pläne und Drittanbieter-Preise für Marketplace. 
+Hinweis: Sie können zwei verschiedene Preislisten exportieren: Preise für Azure-Pläne und Drittanbieter-Preise für Marketplace.
 
 ## <a name="azure-price-list-specifics"></a>Besonderheiten der Azure-Preisliste
 
@@ -54,11 +53,11 @@ Hinweis: Sie können zwei verschiedene Preislisten exportieren: Preise für Azur
 
 - Zu den Exportoptionen gehören:
 
-    - **Preise heute**: Dies schließt alle Verbrauchseinheiten und Preise vom 1. des Monats bis zum aktuellen Datum des aktuellen Monats ein. Dies schließt neue Preise, geänderte Preise oder entfernte Preise ein. Alle Preise sind mit den Start- und Enddaten ihrer Gültigkeit aufgelistet, um zu erläutern, ob sie neu sind oder entfernt wurden.
+  - **Preise heute**: Dies schließt alle Verbrauchseinheiten und Preise vom 1. des Monats bis zum aktuellen Datum des aktuellen Monats ein. Dies schließt neue Preise, geänderte Preise oder entfernte Preise ein. Alle Preise sind mit den Start- und Enddaten ihrer Gültigkeit aufgelistet, um zu erläutern, ob sie neu sind oder entfernt wurden.
 
-    - **Preise des Vormonats**: Die Downloads für jeden Ressourcentyp erfolgen monatsweise. Bei Preisdateien schließt dies alle Verbrauchseinheiten ein, die für den betreffenden Monat zum Zeitpunkt des Downloads verfügbar sind. Wenn in der Monatsmitte eine neue Verbrauchseinheit auftritt, wird sie als Verbrauchseinheit mit einem Gültigkeitsdatum aufgeführt, das ihre Verfügbarkeit angibt. Ähnliches gilt für eingestellte Preise, die mit dem Enddatum ihrer Gültigkeit aufgeführt werden, das angibt, ab wann sie nicht mehr verfügbar sind.
+  - **Preise des Vormonats**: Die Downloads für jeden Ressourcentyp erfolgen monatsweise. Bei Preisdateien schließt dies alle Verbrauchseinheiten ein, die für den betreffenden Monat zum Zeitpunkt des Downloads verfügbar sind. Wenn in der Monatsmitte eine neue Verbrauchseinheit auftritt, wird sie als Verbrauchseinheit mit einem Gültigkeitsdatum aufgeführt, das ihre Verfügbarkeit angibt. Ähnliches gilt für eingestellte Preise, die mit dem Enddatum ihrer Gültigkeit aufgeführt werden, das angibt, ab wann sie nicht mehr verfügbar sind.
 
-    - **Wechselkurse**: Wechselkurse stehen für den Download am Tag vor dem 1. des Monats um 18:00 Uhr PST zur Verfügung. Wenn Sie beispielsweise die Wechselkurse für November erfahren möchten, laden Sie die Wechselkurse am 31. Oktober herunter. Die Wechselkurse des Vormonats sind ebenfalls verfügbar.
+  - **Wechselkurse**: Wechselkurse stehen für den Download am Tag vor dem 1. des Monats um 18:00 Uhr PST zur Verfügung. Wenn Sie beispielsweise die Wechselkurse für November erfahren möchten, laden Sie die Wechselkurse am 31. Oktober herunter. Die Wechselkurse des Vormonats sind ebenfalls verfügbar.
 
 - Die Preise in den Preislisten sind Direktpreise. Einige Partner sind möglicherweise für vom Partner erworbene Guthaben qualifiziert. Informationen zur Berechnung des vom Partner erworbenen Guthabens finden Sie unter [Wie von Partnern erworbene Guthaben berechnet und bezahlt werden](partner-earned-credit-explanation.md).
 
@@ -91,7 +90,7 @@ Preislisten für den Azure-Plan können auf der Seite [Azure-Planpreise und Mark
 
 ## <a name="pricing-api-for-azure-plan"></a>Preis-API für den Azure-Plan
 
-Mithilfe der [Preis-API](https://docs.microsoft.com/partner/develop/pricing) können Nutzungs- und Reservierungspreise für den Azure-Plan programmgesteuert abgerufen werden. Darüber hinaus können auch Wechselkurse abgerufen werden. 
+Mithilfe der [Preis-API](https://docs.microsoft.com/partner/develop/pricing) können Nutzungs- und Reservierungspreise für den Azure-Plan programmgesteuert abgerufen werden. Darüber hinaus können auch Wechselkurse abgerufen werden.
 
 Die Preis-API befindet sich auf einem anderen Endpunkt als die anderen Partner Center-APIs. Die Preisinformationen umfassen Verbrauchseinheitspreise für Azure-Planressourcen und Reservierungspreise, die für Azure-Planabonnements gelten, in USD.
 

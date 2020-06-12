@@ -1,25 +1,26 @@
 ---
-title: Azure AD-Dienstprinzipal | Partner Center
+title: Azure AD-Dienstprinzipal
 ms.topic: article
-ms.date: 12/11/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Hinzufügen eines Dienstprinzipals zu Ihrem Azure AD-Mandanten
+description: Hier erfahren Sie, wie Sie einen Dienstprinzipal zu Ihrem Azure AD-Mandanten hinzufügen. Dabei fügen Sie eine Azure AD-Anwendung (Dienstprinzipal) in Partner Center hinzu.
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, Azure-Plan, Dienstprinzipal, Azure AD-Anwendung
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: bd74d09445d9a2f1745c518362b26f243f00a777
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 76a65cd824c7c1af5242bea3af6069a466c9fa1c
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75716891"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425999"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Hinzufügen einer Azure AD-Anwendung (Dienstprinzipal) in Partner Center
 
-Sie können nun im Programm für den kommerziellen Marketplace in Partner Center eine Azure AD-Anwendung (Dienstprinzipal) als Benutzer in Ihrem Partner Center-Konto hinzufügen. (Dieser Schritt konnte zuvor im CPP-Konto (Cloud-Partnerportal) ausgeführt werden. Nach Ihrer Migration zu Partner Center ist das CPP-Konto jedoch schreibgeschützt.) Beachten Sie, dass der Dienstprinzipal mit der Azure AD-Anwendung identisch ist.
+Sie können nun im Programm für den kommerziellen Marketplace in Partner Center eine Azure AD-Anwendung (Dienstprinzipal) als Benutzer in Ihrem Partner Center-Konto hinzufügen. (Dies war zuvor in Ihrem Cloud-Partnerportal- oder CPP-Konto möglich. Nach der Migration zu Partner Center ist das CPP-Konto schreibgeschützt.) Beachten Sie, dass der Dienstprinzipal mit der Azure AD-Anwendung identisch ist.
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>Hinzufügen einer Azure AD-Anwendung (Dienstprinzipal)
 
@@ -31,13 +32,8 @@ Sie können nun im Programm für den kommerziellen Marketplace in Partner Center
 
 4. Geben Sie bei Erstellung einer neuen Azure AD-Anwendung die folgenden Informationen an:  
 
-  
+   - **Antwort-URL**: Die URL, unter der sich Benutzer zur Verwendung Ihrer Azure AD-Anwendung anmelden können.
 
+   - **App-ID-URI**: Ein logischer Bezeichner für die Azure AD-Anwendung, der beim Senden einer Anforderung für einmaliges Anmelden an Azure AD angezeigt wird.
 
-**Antwort-URL**: Dies ist die URL, unter der sich Benutzer zur Verwendung Ihrer Azure AD-Anwendung anmelden können. 
-
-**App-ID-URI**: Dies ist ein logischer Bezeichner für die Azure AD-Anwendung, der beim Senden einer Anforderung für einmaliges Anmelden an Azure AD angezeigt wird. 
-
-**Sicherheitsrollen**: Die Rollen **Manager** (entspricht der Rolle „Besitzer“ im CPP) und **Entwickler** (entspricht der Rolle „Mitwirkender“ im CPP) gelten für das Programm für den kommerziellen Marketplace in Partner Center und können dieser Azure AD-Anwendung zugeordnet werden.  
-
-  
+   - **Sicherheitsrollen**: Die Rollen **Manager** (entspricht der Rolle „Besitzer“ im CPP) und **Entwickler** (entspricht der Rolle „Mitwirkender“ im CPP) gelten für das Programm für den kommerziellen Marketplace in Partner Center und können dieser Azure AD-Anwendung zugeordnet werden.  

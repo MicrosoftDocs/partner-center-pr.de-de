@@ -1,7 +1,7 @@
 ---
 title: Partnerangebote im CSP-Programm
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Als Partner im CSP-Programm erfahren Sie mehr über die wachsende Anzahl von Microsoft Cloud Services und Angeboten, die Sie an Kunden verkaufen können.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Produkt hinzufügen, an Kunden verkaufen, Partnerangebote, CSP-Angebote, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner, in CSP verkaufen, Azure RI, Azure Reserved Virtual Machine Instances, Azure-Reservierungen, Onlinedienste, Abonnementsoftware, AHUB, SQL Server in Azure, Windows Server in Azure, Kundenabonnements
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c9ec7908c66fd4c31f9606e639958fba37761d7
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 73313831bd1536e7f102520b1fd0df4606aa56dc
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362328"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467240"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Übersicht über Partnerangebote im Cloud Solution Provider-Programm
 
@@ -106,6 +106,10 @@ Um Produkte und Dienstleistungen im Auftrag Ihrer CSP-Kunden zu kaufen, wählen 
 7. Überprüfen Sie auf der Seite **Bestellungen überprüfen** die Produkte und die Menge (bzw. ändern Sie diese), und klicken Sie dann auf **Kaufen**.
 
 8. Die Details Ihrer Bestellung, einschließlich Ihrer Bestellnummer, werden auf der nächsten Seite angezeigt. Klicken Sie auf **Fertig**, und wechseln Sie zur Seite **Bestellverlauf**.
+
+## <a name="rules-for-special-segments"></a>Regeln für spezielle Segmente
+
+Einige lizenzbasierte Angebote können nur unter bestimmten Bedingungen erworben werden. Zu den speziellen Segmentangeboten gehören Education-, Non-Profit- und GCC-Angebote (Government Community Cloud). Details zu diesen Kaufbedingungen finden Sie im Thema [Kaufregeln für spezielle Segmente](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
 
 ## <a name="next-steps"></a>Nächste Schritte
 

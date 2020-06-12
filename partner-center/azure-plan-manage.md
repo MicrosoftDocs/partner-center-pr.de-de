@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 65362d9f71882d9edff34039f7fc985a202c4aa0
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 6ea0b7d781cebb963ad802cb73c7d956729dcb2e
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908340"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452627"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Verwalten von Abonnements und Ressourcen in einem Azure-Plan
 
@@ -57,11 +57,11 @@ Sie benötigen Administratorzugriff, um die Dienste Ihres Kunden zu verwalten un
 
 1. Erstellen einer Warnmeldung.
 
-![Azure-Warnmeldung](images/azure/azurealert1.png)
+:::image type="content" source="images/azure/azurealert1.png" alt-text="Azure-Warnmeldung":::
 
 2. Wählen Sie die Art der Aktion aus, die die Warnmeldung ausführen soll. Wenn Sie beispielsweise angeben, dass Sie eine E-Mail erhalten möchten, empfangen Sie eine E-Mail, die Sie benachrichtigt, falls Löschungen von Rollenzuweisungen auftreten.
 
-![Konfigurieren der Warnmeldung](images/azure/azureconfigurealert2.png)
+:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Konfigurieren der Warnmeldung":::
 
 ### <a name="aobo-removal"></a>AOBO-Entfernung
 

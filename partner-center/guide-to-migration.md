@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 4437d3afd408810c9770e532950fc2661228eb62
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795828"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453237"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Leitfaden zum Migrieren von PMC zu Partner Center
 
@@ -45,7 +45,7 @@ Der Verschiebevorgang beginnt in PMC. Ihr globaler Administrator erhält eine Ei
 
 Wählen Sie in Ihrer Einladung **Erste Schritte** aus. Daraufhin wird die Partner Center-Anmeldeseite angezeigt.
 
-![Erste Schritte](images/migration/getstarted.jpg)
+:::image type="content" source="images/migration/getstarted.jpg" alt-text="Erste Schritte":::
 
 ## <a name="start-with-your-work-email"></a>Beginnen mit Ihrer geschäftlichen E-Mail-Adresse
 
@@ -54,7 +54,7 @@ Wenn Ihr Unternehmen keine geschäftliche E-Mail-Adresse und keinen AAD-Mandante
 >[!Note]
 >Wenn Sie ein Partner in China sind und sowohl im Microsoft Partner Network als auch im Cloud Solution Provider-Programm (CSP) registriert sind, haben Sie einen separaten Mandanten für jedes Konto. Ihr Konto mit dem Cloud Solution Provider-Programm wird in der nationalen Cloud verwaltet und Ihr Microsoft Partner Network-Konto in der globalen Cloud. Die beiden Konten können nicht verknüpft werden.
 
-![Informieren Sie uns über Ihr Unternehmen](images/migration/newtellusabout.png)
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="Machen Sie einige Angaben zu Ihrem Unternehmen":::
 
 Nachdem Sie die Informationen überprüft oder aktualisiert haben, wählen Sie **Zustimmen und fortfahren** aus.
 Die „Bestimmungen“ auf dieser Seite sind **identisch mit denjenigen** in der Vereinbarung, die Ihr Unternehmen bereits in PMC unterzeichnet hat.  
@@ -72,7 +72,7 @@ Wenn Sie **Zustimmen und fortfahren** auswählen, werden auch folgende Schritte 
 
 Nachdem Ihr neuer Azure AD-Mandant erstellt wurde, können Sie Ihre Mitarbeiter einladen, sich bei Partner Center anzumelden.
 
-![Einladen von Mitarbeitern](images/migration/invite.png)
+:::image type="content" source="images/migration/invite.png" alt-text="Einladen von Mitarbeitern":::
 
 Falls Sie sich bei einem vorhandenen AAD-Mandanten angemeldet haben, wurden Ihre Mitarbeiter zusammen mit Ihnen verschoben. Weisen Sie in diesem Fall Ihren Mitarbeitern Rollen zu, die festlegen, welche Berechtigungen sie in Partner Center haben. Hinweis: Rollen in Partner Center unterscheiden sich von Rollen in PMC. Weitere Informationen finden Sie unter [Wechsel von PMC zu Partner Center](move-pmc-pc-map.md).
 
@@ -80,11 +80,11 @@ Falls Sie sich bei einem vorhandenen AAD-Mandanten angemeldet haben, wurden Ihre
 
 Sollte Ihr AAD-Mandant neu sein, wurde niemandem die Rolle „globaler Administrator“ zugewiesen. Wenn Sie der globale Administrator werden möchten, müssen Sie Ihren Domänenbesitz überprüfen. Möglicherweise müssen Sie dazu den Domänenadministrator um Hilfe bitten. Beachten Sie: Während Sie bereits erworbene Angebote sofort nutzen können, können Sie neue Angebote erst dann erwerben, nachdem Sie den Schritt „ein globaler Administrator werden“ abgeschlossen haben.
 
-![Übernehmen der Kontrolle](images/migration/takecontrol.png)
+:::image type="content" source="images/migration/takecontrol.png" alt-text="Übernehmen der Kontrolle":::
 
 Wenn Sie „Erste Schritte“ auswählen, wird folgender Bildschirm angezeigt:
 
-![Domänenbesitz überprüfen](images/migration/verifytxt.png)
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Überprüfen des Domänenbesitzes":::
 
 Ihre Domänenregistrierungsstelle wurde bereits automatisch ausgefüllt. Nur der Domänenbesitzer kann die DNS-Datei aktualisieren. Wenn Sie also die Textdatei kopieren und Ihrem DNS-Datensatz hinzufügen, können wir überprüfen, ob Sie der Besitzer sind. Es dauert ein paar Minuten, bis das Update erfolgt. Sie müssen sich bei Partner Center abmelden und dann wieder anmelden. Jetzt lautet Ihre Rolle „globaler Administrator“.
 
@@ -92,7 +92,7 @@ Ihre Domänenregistrierungsstelle wurde bereits automatisch ausgefüllt. Nur der
 
 Sehen Sie sich die Einführung zum Dashboard an. Hier können Sie Ihre Mitgliedschaft verwalten, ein Geschäftsprofil für Empfehlungen hinzufügen, sich beim Cloud Solution Provider-Programm registrieren sowie für Ihr Unternehmen relevante Benachrichtigungen und Angebote jederzeit anzeigen, indem Sie **Dashboard**auswählen. Sie können auch Incentives verwalten, auf dem Marketplace kaufen, sich für Markteinführungsdienste registrieren und vieles mehr ausführen.  
 
-![Tour](images/migration/fre.png)
+:::image type="content" source="images/migration/fre.png" alt-text="Tour":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 

@@ -60,6 +60,7 @@
 ## [Die Kontostruktur in Partner Center](account-structure.md)
 ## [Überprüfen Ihres Domänenbesitzes](become-global-admin.md)
 ## [Überprüfen deiner Kontoinformationen](verification-responses.md)
+## [Zusammenführen Ihres Partnerkontos mit einem anderen Partnerkonto](merge-accounts.md)
 ## [Aktualisieren von Partnerprofilen](update-your-partner-profile.md)
 ## [Standorte](manage-locations.md)
 ## [Registrierung als Control Panel Vendor](enroll-as-cpv.md)
@@ -81,7 +82,8 @@
 ## [Anpassen des Katalogs](customize-the-catalog.md)
 
 # [Erweitern des Geschäfts](grow-your-business.md)
-## [Empfehlungen](referrals.md)
+## [Übersicht über Empfehlungen](referrals.md)
+### [Reagieren auf Empfehlungen](responding-to-referrals.md)
 ### [Verwalten von Geschäftsprofilen](create-a-marketing-profile.md)
 ### [Verwalten von Leads](manage-leads.md)
 ### [Co-Selling-Verkaufschancen](manage-co-sell-opportunities.md)
@@ -175,6 +177,7 @@
 ### [Migrieren von Abonnements für Office 365 Enterprise E4 zu neueren Office 365-Versionen](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [Migrieren von Skype for Business Online Plan 1 zu neueren Office 365-Versionen](skype-retiring.md)
 ### [Übertragen von Azure-Abonnements](switch-azure-subscriptions-to-a-different-partner.md)
+### [Migrieren von Kaizala Pro-Abonnements zu Microsoft 365](migrate-kaizala-pro-partner.md)
 
 # Partner Center-Daten und -Analysen
 ## [Abrufen und Analysieren von Unternehmensdaten](data-analysis-lp.md)

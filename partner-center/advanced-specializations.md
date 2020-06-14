@@ -1,23 +1,23 @@
 ---
 title: Erweiterte Spezialisierung erwerben
 ms.topic: article
-ms.date: 05/22/2020
+ms.date: 06/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erweiterte Spezialisierung stärkt Ihr Geschäftsprofil im Partnerverzeichnis. Erfahren Sie, wie Sie erweiterte Spezialisierungs Kompetenzen zusätzlich zu Ihren Gold-Kompetenzen erwerben.
+description: Stärken Sie Ihr Geschäftsprofil im Partnerverzeichnis. Erfahren Sie, wie Sie erweiterte Spezialisierungs-und Gold-und Silber-Kompetenzen erwerben.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Kompetenzen, Goldmitgliedschaft, MPN, Maps, Kompetenz, Microsoft Partner Network, Netzwerk Mitgliedschaft, erweiterte Spezialisierung
+keywords: Kompetenzen, Silver-Mitgliedschaft, Gold-Mitgliedschaft, MPN, MAPS, Kenntnisse, Microsoft Partner Network, Network Mitgliedschaft, erweiterte Spezialisierung
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1dbff3f7f802a0f89f6cdfd78da2abf719523a9
-ms.sourcegitcommit: 97f1ff7386562cbb945bdfbcf15c85bc8303cac2
+ms.openlocfilehash: f62a1795a9ad3fd07de43bcf5cfa8703133e0fe9
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "83825629"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749158"
 ---
-# <a name="how-advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>Wie erweiterte Spezialisierungs Informationen Ihr Geschäftsprofil für Kunden bereitstellen
+# <a name="advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>Erweiterte Spezialisierungs Informationen unterstützen Ihr Geschäftsprofil bei Kunden
 
 Gehen Sie über Ihre Gold-Kompetenz mit einer erweiterten Spezialisierung hinaus. Erweiterte spezialisierungslösungen helfen Ihnen, bewährte, überprüfbare Fachkenntnisse in einem Produkt, Lösungs Bereich oder Dienst vorzustellen. Kunden können Ihre Gold-Kompetenz und ihre erweiterte Spezialisierung in Ihrem Geschäftsprofil im Partnerverzeichnis sehen. Zum Erhalt eines erweiterten Spezialisierungs Tags muss Ihr Unternehmen eine Reihe veröffentlichter Kriterien erfüllen und von Microsoft überprüft werden. [Weitere Informationen](https://partner.microsoft.com/membership/advanced-specialization)
 
@@ -41,3 +41,6 @@ Gehen Sie über Ihre Gold-Kompetenz mit einer erweiterten Spezialisierung hinaus
 
 - **Modernisierung von Webanwendungen in Microsoft Azure** Sie stellen sicher, dass der Kunde bei der Anwendungsentwicklung und mit den Content Management-Systemen vertraut ist. Sie weisen ihr Fachwissen bei Migration und Bereitstellung von Web-App-Produktionsworkloads nach, wenden DevOps-Praktiken an und verwalten Anwendungsdienste in Microsoft Azure.
 
+ ## <a name="next-steps"></a>Nächste Schritte
+
+ Informationen zu den [Microsoft-Kompetenzanforderungen für Gold-und Silver-Mitgliedschaften](learn-about-competencies.md)

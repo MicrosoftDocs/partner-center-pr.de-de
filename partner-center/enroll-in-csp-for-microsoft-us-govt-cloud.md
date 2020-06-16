@@ -1,19 +1,21 @@
 ---
-title: Registrieren für das Cloud Solution Provider-Programm für Microsoft Cloud for US Government | Partner Center für Microsoft Cloud for US Government
+title: Registrieren für das Programm für Cloud-Lösungsanbieter
 ms.topic: article
-ms.date: 11/27/2019
+titleSuffix: Microsoft Cloud for US Government - Partner Center
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Informieren Sie sich ausführlicher über die Anforderungen des CSP-Programms, bevor Sie sich für das Cloud Solution Provider-Programm für Microsoft Cloud for US Government registrieren.
+description: Erfahren Sie mehr über die Anforderungen an das CSP-Programm für Partner, die sich für das Cloud Solution Provider-Programm für Microsoft Cloud für die US-Regierung registrieren möchten.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b9de82652543843b09dfdb00829c7911c20c572
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 060fd94567c84e7c1652fb538cc1786d8b807787
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798368"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788784"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registrieren für das Cloud Solution Provider-Programm für Microsoft Cloud for US Government
 
@@ -79,9 +81,9 @@ Microsoft Cloud for US Government bietet eine separate Instanz von Microsoft Az
 
 2.  Weisen Sie die Administrator-Agent-Rolle den entsprechenden Benutzern in Ihrer Organisation zu. Hierzu müssen die Benutzer der integrierten Gruppe **AdminAgent** hinzugefügt werden. Weitere Informationen finden Sie unter [Hinzufügen oder Entfernen von Gruppenmitgliedern mithilfe von Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal).
  
-## <a name="connect-with-us"></a>Kontakt
+## <a name="connect-with-us"></a>Neuigkeiten abonnieren
 
-- Fragen? Senden Sie uns eine E-Mail: azgovcsp@microsoft.com.
+- Noch Fragen? Senden Sie uns eine E-Mail: azgovcsp@microsoft.com.
 
 - Folgen Sie uns auf [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all). 
 

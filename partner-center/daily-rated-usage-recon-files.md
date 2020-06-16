@@ -1,19 +1,19 @@
 ---
 title: Nutzungs Abgleich-Dateien mit täglicher Bewertung
 ms.topic: article
-ms.date: 05/15/2020
+ms.date: 06/12/2020
 description: Erfahren Sie, wie Sie Nutzungs Abgleich-Dateien für die tägliche Bewertung in Partner Center lesen.
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3536b1b71dd8378e88ac14726adcca7fa0e08530
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 34798a2be0e82c8cc8c328c9a95d9d9e4b57551f
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795597"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788804"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Erfahren Sie, wie Sie Nutzungs Abgleich-Dateien für die tägliche Bewertung in Partner Center lesen.
 
@@ -30,6 +30,9 @@ ms.locfileid: "83795597"
 - Helpdesk-Agent
 
 In diesem Thema wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit täglicher Bewertung lesen.
+
+>[!NOTE]
+>Die tägliche Bewertung dauert normalerweise 24 Stunden, damit Sie im Partner Center angezeigt wird oder über die API darauf zugegriffen werden kann.
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Felder in den Nutzungs Abgleich-Dateien mit täglicher Bewertung
 
@@ -77,7 +80,7 @@ In diesem Thema wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit tägliche
 | PricingCurrency | Die Währung in der Preisliste. |
 | ServiceInfo1 | Die Anzahl der Service Bus Verbindungen, die an einem bestimmten Tag bereitgestellt und verwendet wurden. |
 | ServiceInfo2 | Ein Legacyfeld, in dem optionale dienstspezifische Metadaten erfasst werden. |
-| `Tags` | Stellt eine logische Organisation von Azure-Ressourcen dar, die vom Benutzer festgelegt werden. |
+| Tags | Stellt eine logische Organisation von Azure-Ressourcen dar, die vom Benutzer festgelegt werden. |
 | AdditionalInfo | Alle zusätzlichen Informationen, die in den anderen Spalten nicht enthalten sind. |
 | Effectiveunitprice | Der tatsächliche Wert, der pro Einheit berechnet wird, einschließlich aller Rabatte, Gutschriften usw. |
 | Pctobcexchangerate | Wechselkurs für Preiswährung auf Abrechnungswährung. |

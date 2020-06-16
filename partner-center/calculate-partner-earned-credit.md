@@ -1,7 +1,7 @@
 ---
-title: Berechnung der Gutschrift durch den Partner Partner Center
+title: Berechnen der Gutschrift für den Partner
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie der Azure-Plan für Partner verdiente Gutschriften ("Partner verdiente Guthaben") berechnet wird. Dies schließt die Berechtigungsanforderungen für Partner und indirekte Anbieter ein.
@@ -9,14 +9,15 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: aee60449a31cf1908912cc1fa62e2bf2c003f998
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 70c17a2fe4a2f61745d04a62d680a3b523f85fa4
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721727"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788734"
 ---
-# <a name="how-the-partner-earned-credit-pec-is-calculated"></a>Berechnen der Gutschrift für den Partner (PEC)
+# <a name="how-partner-earned-credit-pec-is-calculated-for-partners-in-the-cloud-solution-provider-program"></a>Wie Partner Guthaben (PEC) für Partner im Cloud Solution Provider-Programm berechnet werden
 
 **Geeignete Rollen**
 
@@ -46,7 +47,7 @@ Partner, die die rund um die Uhr über die IT-Betriebsverwaltung von Teilen oder
 
 Weitere Informationen zum Zugriff auf die Verwaltung von Azure-Abonnements und zum Verknüpfen ihrer MPN-ID mit RBAC-Rollen finden Sie [unter Verwalten von Abonnements und Ressourcen im Azure-Plan](azure-plan-manage.md).
 
-Weitere Informationen
+Weitere Informationen finden Sie unter
 
 - [Azure-Plan: Abrechnung](azure-plan-billing.md)
 

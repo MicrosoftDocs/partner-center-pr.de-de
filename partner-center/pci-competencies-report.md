@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19165550cfcd9b6b62a548e7d21c1ee58df691dc
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 99eda121ac876be0d753b7d7f147b054562a844d
+ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679357"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84776287"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Im Partner Center Insights-Dashboard verfügbarer Bericht "Kompetenzen"
 
@@ -50,7 +50,7 @@ Die folgenden Abschnitte werden im Bericht "Kompetenzen" angezeigt:
  > [!NOTE]
  > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administrator Berechtigungen für Berichte verfügen.
 
-**Summary**
+**Zusammenfassung**
 
 Die Zusammenfassungs Ansicht zeigt die Anzahl der Kompetenzen mit ihren Namen auf den einzelnen Zuständigkeits Stufen (Gold/Silver) in allen Phasen des Lebenszyklus der Kompetenz. Zu den Phasen des Lebenszyklus der Kompetenz gehören: **Started**, **qualified**, **Active**und **Risk**. Beispiel: Cloud-Kompetenzanforderungen fallen in zwei Kategorien: Fähigkeiten und Leistung.
 

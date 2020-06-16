@@ -1,20 +1,21 @@
 ---
-title: SATV-Programm (Software Assurance Training Voucher, Software Assurance-Schulungsgutschein) in Partner Center | Partner Center
+title: Software Assurance-Schulungs Beleg Programm
 ms.topic: article
-ms.date: 03/24/2020
+ms.date: 06/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Details zum Anmelden beim Software Assurance-Schulungsprogramm, damit Sie für die Bereitstellung von Schulungen und Planung für Unternehmenskunden kompensiert werden können.
+description: Erfahren Sie, wie Sie sich beim Software Assurance-Schulungs-Gutscheinprogramm registrieren, damit Sie für die Bereitstellung von Schulungen und Planung für Unternehmenskunden kompensiert werden können.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Schulungsgutscheine, Software Assurance, Schulung, Registrieren bei SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: d3d961d7cd4a1a26d07991fea6080a4d5c1d1d28
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 0d14a588e24488b4d45b52540e8d749cbf8bdbad
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296411"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788794"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>SATV-Programm (Software Assurance Training Voucher, Software Assurance-Trainingsgutschein) in Partner Center
 
@@ -39,13 +40,13 @@ In diesem Artikel wird erläutert, wie Sie die einzelnen Schritte ausführen.
 
 ## <a name="confirm-program-eligibility"></a>Bestätigen der Berechtigung für das Programm
 
-Bevor Sie sich beim SATV-Programm registrieren können, müssen Sie zunächst die Voraussetzungen für die Microsoft Partner Network-Option „Learning“ erfüllen, welche die Microsoft Learning-Kompetenz ersetzt. Erfahren Sie mehr über die ersten Schritte mit der [Option „Learning“](https://partner.microsoft.com/membership/learning-partners).
+Bevor Sie sich beim SATV-Programm registrieren können, müssen Sie zuerst die Anforderungen für die Microsoft Partner Network Learning-Option erfüllen, die die Microsoft Learning-Kompetenz ersetzt. Informieren Sie sich über die ersten Schritte mit der [lernoption.](https://partner.microsoft.com/membership/learning-partners)
 
-Sie können die Berechtigung Ihres Unternehmens, einschließlich der anwendbaren Kompetenz und Bewertungsanforderungen in Partner Center, überprüfen. Befolgen Sie die Anweisungen in [Schritt 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) des SATV-Workflows, um weitere Details und Screenshots zu erhalten.
+Sie können die Berechtigung Ihres Unternehmens, einschließlich der anwendbaren Kompetenz und Bewertungsanforderungen in Partner Center, überprüfen. Weitere Informationen und Screenshots erhalten Sie, indem Sie die Anleitung unter [Schritt 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) des SATV-Workflows befolgen.
 
 ## <a name="enroll-in-the-training-program"></a>Registrieren beim Schulungsprogramm
 
-Nachdem Ihr Unternehmen die Berechtigungsanforderungen erfüllt und ihre Programmteilnehmer den Kurs zur Compliance-Schulung abgeschlossen haben, können Sie die Software Assurance-Schulungsprogramm Vereinbarung Signieren und sich registrieren. Stellen Sie sicher, dass Sie alle [SATV-Programmrichtlinien](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)überprüfen, und befolgen Sie dann die Anweisungen in [Schritt 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) des Workflows, um den SATV-Registrierungsprozess in Partner Center abzuschließen.
+Nachdem Ihr Unternehmen die Berechtigungsanforderungen erfüllt und Ihre Programmteilnehmer den Schulungskurs zur Konformität bestanden haben, können Sie die Vereinbarung zum SATV-Programm (Software Assurance Training Voucher, Software Assurance-Trainingsgutschein) unterzeichnen und die Registrierung durchführen. Stellen Sie sicher, dass Sie alle [SATV-Programmrichtlinien](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)überprüfen, und befolgen Sie dann die Anweisungen in [Schritt 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) des Workflows, um den SATV-Registrierungsprozess in Partner Center abzuschließen.
 
 
 ## <a name="confirm-course-eligibility"></a>Bestätigen der Berechtigung für den Kurs
@@ -74,7 +75,7 @@ Zahlungen werden durch das Onlinezahlungstool für Software Assurance Voucher Be
 
 Weitere Informationen finden Sie in den [FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) und Überprüfen der [Richtlinien für SATV-Programme](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP).
 
-Siehe auch:
+Weitere Informationen:
 
 - [Software Assurance-Schulungs Gutscheine (SATV)-Workflow](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
 - [FAQ zu Software Assurance-Schulungs Gutscheinen (SATV)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)

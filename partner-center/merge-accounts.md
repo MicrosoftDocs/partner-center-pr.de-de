@@ -1,19 +1,19 @@
 ---
-title: Zusammenführen Ihres Partnerkontos mit einem anderen Partnerkonto | Partner Center
+title: Zusammenführen Ihres Partnerkontos mit einem anderen Partnerkonto
 ms.topic: article
-ms.date: 06/09/2020
+ms.date: 06/12/2020
 description: Unternehmen, die aktive Microsoft-Partner in Partner Center sind, können Ihre Konten zusammenführen.
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 4703e4e570d4b22efe8059366abbb76ad486810d
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 03689f250f86a2abdedbcd062766020b15520108
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84611256"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788686"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Zusammenführen Ihres Partnerkontos mit einem anderen Partnerkonto
 

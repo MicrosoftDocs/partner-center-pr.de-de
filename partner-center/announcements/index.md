@@ -9,19 +9,24 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/15/2020
-ms.openlocfilehash: e242a42c87c0d2f6679380e17cbf18898d212e51
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 7c0571da2636459f791f3e569a897013bd3f36ca
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84254331"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749088"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
 Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen werden häufig aktualisiert, überprüfen Sie sie daher in regelmäßigen Abständen.
 
-| **Kategorie** | **Ankündigungen für Mai 2020** | **Angekündigt** |
-|---------|---------|:---------|
+| **Kategorie** | **Ankündigungen für Juni 2020** | **Angekündigt** |
+|---------|:---------|:---------|
+| Funktionen | [Die standardmäßige Abrechnungshäufigkeit wird von jährlicher in monatliche Abrechnung geändert.](2020-june.md#4) | 17. Juni |
+| Funktionen | [Windows Server-Softwareabonnements – Medienaktualisierung für CSP](2020-june.md#2) | 12. Juni |
+| Angebote/Märkte | [Neue und End-of-Life-Angebote und -Produkte für Microsoft Dynamics 365 und Power Platform](2020-june.md#1) | 11. Juni |
+| Funktionen | [Zusammenführen von zwei oder mehr Unternehmenskonten im Partner Center](https://docs.microsoft.com/partner-center/merge-accounts) | 9\. Juni |
+| **Kategorie** | **Ankündigungen für Mai 2020** | **Datum** |
 | Funktionen | [Microsoft 365 A3 – Korrektur des Lizenzangebots für unbeaufsichtigte Szenarien für Education](2020-may.md#5) | 28. Mai |
 | Funktionen | [Aktive Kunden können ihren Erweiterungsplan (EP) über das Cloud Solution Provider (CSP)-Programm verlängern und Onlinelizenzen erhalten.](2020-may.md#4) | 26. Mai |
 | Funktionen | [Adressänderung des Americas Operations Center](2020-may.md#3) | 15. Mai |

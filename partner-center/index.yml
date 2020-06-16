@@ -12,39 +12,39 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 05/29/2020
-  ms.openlocfilehash: 5c9bf672eb5647542749c49e74cc39e2ab07c2b5
-  ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+  ms.openlocfilehash: 75176cda1bceb0d90253a97b621c9ff5c5b8cef0
+  ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 06/01/2020
-  ms.locfileid: "84253947"
+  ms.lasthandoff: 06/12/2020
+  ms.locfileid: "84749187"
 highlightedContent:
   items:
   - title: Erfahren Sie mehr über wichtige Partner Center-Updates
     itemType: whats-new
     url: announcements/index.md
-  - title: Noch kein Partner? Treten Sie noch heute dem Microsoft Partner Network bei.
+  - title: Verwalten Ihrer Microsoft Partner Network-Mitgliedschaftsvorteile und -angebote
     itemType: get-started
-    url: https://partner.microsoft.com/membership
+    url: manage-your-partner-network-benefits.md
   - title: API und Early Adopter-Programm für SDK beitreten
     itemType: deploy
     url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
-  - title: Verkaufen von ISV-Angeboten
+  - title: Erweiterte Spezialisierungen erwerben
     itemType: whats-new
-    url: csp-commercial-marketplace-overview.md
+    url: advanced-specializations.md
   - title: ISV-Partner – Erstellen und Veröffentlichen von Angeboten in Marketplace, AppSource und im CSP-Reseller-Kanal
     itemType: whats-new
     url: https://docs.microsoft.com/azure/marketplace/
-  - title: Partner von Microsoft
+  - title: Sicherheitsanforderungen für Partner – häufig gestellte Fragen
     itemType: overview
-    url: mpn-overview.md
+    url: partner-security-requirements-faq.md
   - title: Neue Commerce-Oberfläche in Partner Center – Azure-Plan
     itemType: whats-new
     url: azure-plan-lp.md
 conceptualContent:
   title: Nutzung von Partner Center
   items:
-  - title: Registrieren und Verwalten Ihres Kontos
+  - title: Anmelden und Verwalten Ihres Kontos
     links:
     - url: mpn-create-a-partner-center-account.md
       itemType: how-to-guide
@@ -52,9 +52,9 @@ conceptualContent:
     - url: manage-locations.md
       itemType: how-to-guide
       text: Verwalten Ihrer Unternehmensstandorte
-    - url: marketplace-rewards.md
+    - url: azure-plan-get-started.md
       itemType: how-to-guide
-      text: Verwalten von Marketplace-Angeboten
+      text: Verwenden nutzungsbasierter Tarife mit dem Azure-Plan
     footerLink:
       url: partner-center-account-setup.md
       text: Weitere Informationen
@@ -77,12 +77,12 @@ conceptualContent:
     - url: referrals.md
       itemType: how-to-guide
       text: Empfehlungen und Unternehmensprofile
-    - url: promotions.md
+    - url: manage-leads.md
       itemType: how-to-guide
-      text: Nutzen von Promotionen
-    - url: get-special-pricing-for-offers.md
+      text: Verwalten von Leads – Kundenanfragen sowie qualifizierte Marketingleads und Vertriebsleads
+    - url: manage-co-sell-opportunities.md
       itemType: how-to-guide
-      text: Verkaufen an spezielle Branchen
+      text: Verwalten von Co-Selling-Verkaufschancen
     footerLink:
       url: grow-your-business.md
       text: Weitere Informationen
@@ -130,6 +130,17 @@ conceptualContent:
       text: Weitere Informationen
 additionalContent:
   sections:
+  - title: Wichtige Aufgaben und Tools
+    items:
+    - title: Noch kein Partner? Treten Sie noch heute dem Microsoft Partner Network bei.
+      summary: Vernetzen Sie sich mit dem Microsoft-Ökosystem.
+      url: https://partner.microsoft.com/membership
+    - title: Referenz für Partner Center-API und SDK
+      summary: Verwenden Sie das Partner Center SDK zum Verwalten von Kunden-, Abonnement- und Bestelldaten.
+      url: https://docs.microsoft.com/partner-center/develop/
+    - title: Verwalten von Marketplace Rewards
+      summary: Marketplace Rewards bieten gezielte Unterstützung für alle Ihre Angebote mit Marketing-, Vertriebs- und technischen Vorteilen.
+      url: marketplace-rewards.md
   - title: Arbeiten im Azure-Portal
     items:
     - title: Abrechnung und Kostenverwaltung
@@ -156,14 +167,3 @@ additionalContent:
         url: https://docs.microsoft.com/azure/lighthouse/how-to/publish-managed-services-offers
       - text: Weitere Informationen >
         url: https://docs.microsoft.com/azure/lighthouse/
-  - title: Wichtige Aufgaben und Tools
-    items:
-    - title: Abrufen von Microsoft Action Pack (MAPS)
-      summary: Erwerben oder erneuern Sie Ihre Vorteilsangebote, einschließlich des Microsoft Action Pack-Abonnements.
-      url: mpn-get-action-pack.md
-    - title: Referenz für Partner Center-API und SDK
-      summary: Verwenden Sie das Partner Center SDK zum Verwalten von Kunden-, Abonnement- und Bestelldaten.
-      url: https://docs.microsoft.com/partner-center/develop/
-    - title: In Verbindung bleiben
-      summary: Treten Sie unserer CSP-Yammer-Community bei.
-      url: https://go.microsoft.com/fwlink/p/?linkid=851605

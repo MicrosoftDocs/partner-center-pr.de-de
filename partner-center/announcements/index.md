@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/15/2020
-ms.openlocfilehash: 7c0571da2636459f791f3e569a897013bd3f36ca
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 43d8ab5cc0dc04ae3edbef9856865f21836eb23b
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749088"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788724"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -23,6 +23,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 | **Kategorie** | **Ankündigungen für Juni 2020** | **Angekündigt** |
 |---------|:---------|:---------|
 | Funktionen | [Die standardmäßige Abrechnungshäufigkeit wird von jährlicher in monatliche Abrechnung geändert.](2020-june.md#4) | 17. Juni |
+| Angebote/Märkte | [Änderungen an Microsoft 365 F1](2020-june.md#3) | 15. Juni |
 | Funktionen | [Windows Server-Softwareabonnements – Medienaktualisierung für CSP](2020-june.md#2) | 12. Juni |
 | Angebote/Märkte | [Neue und End-of-Life-Angebote und -Produkte für Microsoft Dynamics 365 und Power Platform](2020-june.md#1) | 11. Juni |
 | Funktionen | [Zusammenführen von zwei oder mehr Unternehmenskonten im Partner Center](https://docs.microsoft.com/partner-center/merge-accounts) | 9\. Juni |

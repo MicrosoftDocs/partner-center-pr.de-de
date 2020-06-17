@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34798a2be0e82c8cc8c328c9a95d9d9e4b57551f
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 8b89efd0cb24fb8aa08160bc6b554c5c2823ba2b
+ms.sourcegitcommit: b2f389ef0beacd722876e6396eab30b28bdf7e78
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788804"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "84811576"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Erfahren Sie, wie Sie Nutzungs Abgleich-Dateien für die tägliche Bewertung in Partner Center lesen.
 
@@ -36,7 +36,7 @@ In diesem Thema wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit tägliche
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Felder in den Nutzungs Abgleich-Dateien mit täglicher Bewertung
 
-| Spalte | BESCHREIBUNG |
+| Column | BESCHREIBUNG |
 | ------ | ----------- |
 | PartnerId | Die Partner-ID im GUID-Format. |
 | PartnerName | Name des Partners |
@@ -57,7 +57,7 @@ In diesem Thema wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit tägliche
 | SubscriptionDescription | Der Name des Service-Angebots, das der Kunde gekauft hat, wie in der Preisliste definiert. (Dies ist ein identisches Feld für **Offername**). |
 | SubscriptionId | Eindeutiger Bezeichner für ein Abonnement auf der Microsoft-Abrechnungsplattform. Wird nicht für die Abstimmung verwendet. *Dieser Bezeichner ist nicht mit der **Abonnement-ID** in der Partner Administrator Konsole identisch.* |
 | ChargeStartDate | Das Start Datum des Abrechnungszeitraums (außer bei der Darstellung von Datumsangaben für zuvor nicht berechnete latente Verwendungs Daten aus dem vorherigen Abrechnungszeitraum). Die Uhrzeit ist immer der Tagesanfang (0:00 Uhr). |
-| ChargeEndDate | Das Enddatum des Abrechnungszeitraums (außer bei der Darstellung von Datumsangaben für zuvor nicht berechnete latente Verwendungs Daten aus dem vorherigen abbildral). Die Uhrzeit ist immer auf das Tagesende um 23:59 Uhr festgelegt. |
+| ChargeEndDate | Das Enddatum des Abrechnungszeitraums (außer bei der Darstellung von Datums Werten früherer, nicht geladener latente Verwendungs Daten aus dem vorherigen Abrechnungszeitraum). Die Uhrzeit ist immer auf das Tagesende um 23:59 Uhr festgelegt. |
 | UsageDate | Datum der Nutzung des Diensts. |
 | MeterType | Der Typ der Verbrauchseinheit. |
 | MeterCategory | Der Dienst der obersten Ebene für die Nutzung. |
@@ -88,3 +88,8 @@ In diesem Thema wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit tägliche
 | Berelementid | Stellt die Azure-Abonnement-ID dar. |
 | Berelementdescription | Stellt den Namen der Azure-Abonnement-ID dar. |
 | Partnerearnedcreditprozentsatz | Zeigt die partnerearnedcredit für das Zeilen Element an. Das verdiente Guthaben ist entweder 0 oder 15 Prozent. |
+
+>[!NOTE]
+>Die tägliche Bewertung dauert normalerweise 24 Stunden, damit Sie im Partner Center angezeigt wird oder über API auf Sie zugegriffen werden kann.
+
+

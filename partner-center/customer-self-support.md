@@ -5,18 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wann und wo Kunden Self-Support zur Verwaltung Ihrer eigenen Konten und wann Sie sich an Ihren Cloud Solution Provider-Partner wenden können.
-ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: LauraBrenner
 ms.author: labrenne
 keywords: Kundenselbsthilfe, Selbsthilfe
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a1c15a75c638d557eace058d67723a86645c6e47
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 3c50d97b6565e8786a5cc5ba5f99438a84281f1b
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907914"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991342"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Self-Support von Kunden über Microsoft Office 365 Admin Center oder über die Azure-Portal
 

@@ -5,18 +5,17 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie ein Kundenkonto zum gleichzeitigen zuweisen oder widerrufen von Lizenzen und Diensten für einen oder mehrere Benutzer verwenden.
-ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Lizenz zuweisen, Lizenz widerrufen, mehreren Benutzern zuweisen,
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 6d3baeed12d26f273848fb144651475d304f8d36
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 6508fad5e72e73cfab6310a413fded49d939158a
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788692"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991627"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Zuweisen oder widerrufen von Lizenzen gleichzeitig für mehrere Benutzer in einem Kundenkonto
 

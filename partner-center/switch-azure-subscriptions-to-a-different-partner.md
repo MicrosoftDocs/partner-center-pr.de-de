@@ -5,18 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Kunden dabei helfen, den CSP-Programmpartner zu ändern, der den Azure-Abonnements dieses Kunden zugeordnet ist.
-ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure-Abonnement, Partner wechseln, Partner ändern, neue Partner, andere Partner
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
-ms.openlocfilehash: eddab485d222bb8d0c5aae7cd977b6c85a418051
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: ba07f99301ddcbcb6f274bb1c603f14928d05257
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425899"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992132"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Erfahren Sie, wie Sie die Azure-Abonnements eines Kunden auf einen anderen Partner übertragen.
 

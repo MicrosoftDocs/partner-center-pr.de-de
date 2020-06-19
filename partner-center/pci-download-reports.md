@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: Partner Center Insights, Berichte, Berichte herunterladen
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d97e21c8ca68f2a93bec949f948d24726d9f6231
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 3e1b816f2611507370dcf1a120c84d26a1e13bd9
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84793176"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072447"
 ---
 # <a name="download-reports"></a>Berichte herunterladen
 
@@ -37,7 +37,8 @@ Um einen Bericht zu generieren, wählen Sie **zuerst den Bericht aus der Dropdow
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="Generierte Berichte":::
 
->Nebenbei Nur die Benutzer, die als Executive-Bericht-Viewer dienen, können Berichte herunterladen. Weitere Informationen zum rollenbasierten Zugriff auf die Insights-Dashboardberichte finden Sie unter [PCI-Rollen](pci-roles.md). 
+>[!NOTE] 
+>Nur die Benutzer, die als Executive-Bericht-Viewer dienen, können Berichte herunterladen. Weitere Informationen zum rollenbasierten Zugriff auf die Insights-Dashboardberichte finden Sie unter [PCI-Rollen](pci-roles.md). 
 
 ## <a name="available-reports"></a>Verfügbare Berichte
 

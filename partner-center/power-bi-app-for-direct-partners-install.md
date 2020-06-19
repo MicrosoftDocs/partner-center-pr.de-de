@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e2a1d17a7520cca1a6e1da540cc58d2d365d8cb
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 36efc58198be67181ed448d90db505889c3070d4
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679307"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072413"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installation und Vorschauversion der Partner Center Analytics-App für Microsoft Power BI
 
@@ -62,7 +62,7 @@ Bevor Sie die Vorschauversion der Partner Center Analytics-App installieren, ste
 
 5. Geben Sie auf der nächsten Seite den Benutzernamen und das Kennwort für Power BI und wählen Sie dann Anmelden aus.
 
-6. Installieren Sie den Arbeitsbereich, indem Sie den WorkspaceName angeben.
+6. Installieren Sie den Arbeitsbereich, indem Sie den Arbeitsbereichs Namen angeben.
 
 7. Sie finden die Vorlagen-apps, die im Abschnitt "Apps" installiert sind.
 

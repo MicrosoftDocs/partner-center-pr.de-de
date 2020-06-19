@@ -5,17 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie den Microsoft-Katalog anpassen können, um den Zugriff auf die von Ihrer Organisation am häufigsten verwendeten Partnerangebote oder Produkte zu vereinfachen.
-ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fa45de1d965f11beef993db3e1583c4cbc2ebae8
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 293c7458f11f309609443a845c9d80de7512438c
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907884"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991266"
 ---
 # <a name="customize-the-microsoft-catalog-with-offers-or-products-most-suited-to-your-organization"></a>Anpassen des Microsoft-Katalogs mit angeboten oder Produkten, die am besten für Ihre Organisation geeignet sind
 

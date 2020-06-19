@@ -5,16 +5,15 @@ ms.date: 05/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synchronisieren Ihrer Verweise in Partner Center mit Ihrem Salesforce CRM
-ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ab70766e0bc20b170a1fb9c12a9bea0e6268b06d
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: e51ddc8ec3ea568a20404801802548f79cae43d0
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788774"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991616"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Co-Selling-Connector für Salesforce CRM – Übersicht
 
@@ -29,7 +28,7 @@ Die Lösung basiert auf der Microsoft Power automatisieren-Lösung und verwendet
 
 ## <a name="before-you-install---pre-requisites"></a>Vor der Installation von-Pre-Requirements
 
-|**Sonder**   |**Details**   |**Links**   |
+|**Themen**   |**Details**   |**Links**   |
 |--------------|--------------------|------|
 |Microsoft Partner Network-ID |Sie benötigen eine gültige MPN-ID.|So fügen Sie [MPN](https://partner.microsoft.com/) an|
 |Co-Selling bereit|Ihre IP-/Dienst-Lösung muss für den Co-Selling bereit sein.|[Vertrieb mit Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 

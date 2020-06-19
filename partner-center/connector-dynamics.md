@@ -5,17 +5,16 @@ ms.date: 05/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synchronisieren Ihrer Verweise in Partner Center mit Dynamics 365 CRM
-ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: fef5468e0dc51cd9830fda6fb2ae60df5d9f39b5
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 3b5170edaaadca3c4045e7ebed174b5d52b06bdd
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453247"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991646"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Co-Selling-Connector für Dynamics 365 CRM – Übersicht
 
@@ -30,7 +29,7 @@ Die Lösung basiert auf der Microsoft Power automatisieren-Lösung und verwendet
 
 ## <a name="before-you-install---pre-requisites"></a>Vor der Installation von-Pre-Requirements
 
-|**Sonder**   |**Details**   |**Links**   |
+|**Themen**   |**Details**   |**Links**   |
 |--------------|--------------------|------|
 |Microsoft Partner Network-ID |Sie benötigen eine gültige MPN-ID.|So fügen Sie [MPN](https://partner.microsoft.com/) an|
 |Cosell bereit|Ihre IP-/Dienst-Lösung muss für den Co-Selling bereit sein.|[Vertrieb mit Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 

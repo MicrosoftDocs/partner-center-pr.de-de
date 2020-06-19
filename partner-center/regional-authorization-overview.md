@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sehen Sie sich die Länder, Regionen und Währungen an, in denen Sie CSP-Angebote basierend auf dem Standort Ihres Unternehmens verkaufen können.
-ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: LauraBrenner
 ms.author: labrenne
 keywords: CSP-Märkte, Gebiete, in denen ich über CSP verkaufen kann, CSP-Angebote, Regionen, Cloudlösungen verkaufen, CSP (global)
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d7d67bded18dfacd568d23e61d165de0be68f0f
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 4a4d70252d1baebd1bade6182218d4b3198825f3
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467430"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991825"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider Program (regionale Märkte und Währungen), in denen Sie CSP-Angebote verkaufen können
 
@@ -55,8 +54,8 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 | Zentralafrikanische Republik |   USD    |
 | Tschad                     |   USD    |
 | Komoren                  |   USD    |
-| Kongo (Demokratische Republik)                    |   USD    |
-| Kongo (DRC)              |   USD    |
+| Kongo                    |   USD    |
+| Kongo (DRK)              |   USD    |
 | Côte d'Ivoire            |          |
 | Dschibuti                 |   USD    |
 | Äquatorialguinea        |   USD    |
@@ -135,7 +134,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Guam                  |  AUD     |
 |  Heard und McDonaldinseln| AUD |
 |  Kiribati              |   AUD    |
-|  Marshallinseln      |   AUD    |
+|  Marshall-Inseln      |   AUD    |
 |  Mikronesien            |   AUD    |
 |  Nauru                 |   AUD    |
 |  Niue                  |   AUD    |
@@ -147,7 +146,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Salomonen       |   AUD    |
 |  Tokelau               |   AUD    |
 |  Tonga                 |   AUD    |
-|  Tuwalu                |   AUD    |
+|  Tuvalu                |   AUD    |
 |  Wallis und Futuna     |   AUD    |
 |
 
@@ -187,7 +186,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Tschechische Republik |   EUR    |
 |  Dänemark        |   DKK    |
 |  Estland        |   EUR    |
-|  Färöer  |   EUR    |
+|  Faröer  |   EUR    |
 |  Finnland        |   EUR    |
 |  Frankreich         |   EUR    |
 |  Deutschland        |   EUR    |
@@ -282,10 +281,10 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Grenada        |   USD    |
 |  Guadeloupe     |          |
 |  Guatemala      |   USD    |
-|  Guayana         |   USD    |
+|  Guyana         |   USD    |
 |  Haiti          |   USD    |
 |  Honduras       |   USD    |
-|  Jamaika        |   USD    |
+|  Jamaica        |   USD    |
 |  Martinique     |          |
 |  Mexiko         |   USD    |
 |  Montserrat     |   USD    |

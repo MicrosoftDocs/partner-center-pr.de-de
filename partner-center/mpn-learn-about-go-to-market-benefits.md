@@ -1,7 +1,7 @@
 ---
 title: Erfahren Sie mehr über die Markteinführung mit Microsoft-angeboten
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie mithilfe von Microsoft-angeboten die Markteinführungszeit beschleunigen, Leads generieren und Ihr Unternehmen erweitern können.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, Mitgliedschafts Vorteile, Mitgliedschaft, Angebote zu Markteinführungszeiten, Markteinführung mit Microsoft, zu Markt, Goldmitgliedschaft, Silver-Mitgliedschaft
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b8e7e6a23d2e2913c039e73d7b5679114399a4c
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 94a980eb1632932989a08be028028c4a07b1c6f1
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458426"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072432"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Erkunden Sie Ihre Markteinführungszeiten mit Microsoft-angeboten
 
@@ -38,23 +38,23 @@ Mit den Markt Einführungs angeboten können Sie auf exklusive Vertriebs-und Mar
 
 ## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Ressourcen, Angebote und Programme, die auf Mitgliedschafts Ebene verfügbar sind
 
-Ihre Markt Einführungsangebote unterscheiden sich abhängig von Ihrem spezifischen Maß an MPN-Mitgliedschaft, ihren Spezialisierungs-und [Kompetenz bezogenen Kompetenzen](learn-about-competencies.md) .
+Ihre Markt Einführungsangebote unterscheiden sich abhängig von Ihrem spezifischen Grad an MPN-Mitgliedschaft, ihren Spezialisierungs-und den von Ihnen unterstützten [Kompetenzen](learn-about-competencies.md) .
 
-Alle MPN-Mitglieder haben Zugriff auf bestimmte standardmäßige GTM-Ressourcen. Hierzu gehören der Zugriff auf gebrauchsfertige Marketingressourcen, eine Vertriebsplattform und ein Bedarfs gesteuertes digitales Marketing. Es gibt auch noch mehr Markt Einführungsangebote und-Programme, die für Partner mit Silver-oder Gold-Kompetenzen verfügbar sind.
+Alle MPN-Mitglieder haben Zugriff auf bestimmte standardmäßige GTM-Ressourcen. Hierzu gehören der Zugriff auf gebrauchsfertige Marketingressourcen, eine Vertriebsplattform für die Vertriebsabteilung und ein Bedarfs gesteuertes digitales Marketing. Außerdem gibt es noch mehr Markt Einführungsangebote und-Programme für Partner, die Silver-oder Gold-Kompetenzen und/oder ISV-Partner mit einer Co-Selling-Lösung erreichen.
 
 >[!NOTE]
->Ressourcen, Angebote und Programme, die sich auf die Markteinführung konzentrieren, unterliegen Ergänzungen und Änderungen. Wechseln Sie zur Microsoft Partner Network [Seite "Go-to-Market](https://partner.microsoft.com/membership/go-to-market) ", um mehr über die neuesten Ressourcen und Angebote zu erfahren, die auf der Kompetenzebene verfügbar sind.
+>Ressourcen, Angebote und Programme, die sich auf die Markteinführung konzentrieren, unterliegen Ergänzungen und Änderungen. Besuchen Sie die Microsoft Partner Network [Seite "Go-to-Market](https://partner.microsoft.com/membership/go-to-market) ", um mehr über die neuesten Markt Einführungs Ressourcen und-Angebote für Partner zu erfahren, die verschiedene Kompetenzstufen und/oder ISV-Partner mit einer Co-Selling-Lösung erreichen.
 
-Zusätzliche Markt Einführungsangebote, die für diese mit dem **Silver** -Kompetenzniveau verfügbar sind:
+Zusätzliche Markt Einführungsangebote mit **Silver** -Kompetenzstufen und/oder ISV-Partnern mit einer Co-Selling-Lösung:
 
 - Alle MPN-Standard Ressourcen für die Markteinführung
 - Geschäftsprofil Optimierung und Weiterleitungs Verwaltung
 - Markteinführung mit Microsoft
 
-Zusätzliche Markt Einführungsangebote, die für diese mit **Gold** -Kompetenzstufen verfügbar sind:
+Zusätzliche Markt Einführungsangebote für Partner mit **Gold** -Kompetenzstufen und/oder ISV-Partnern, die eine IP-Co-Selling-Lösung bereitstellen:
 
 - Alle MPN-Standard Ressourcen für die Markteinführung
-- Alle Silver go-to-Market-Angebote
+- Alle an der Markt Einführungsangebote für den Silver/ISV-Co-Selling
 - Co-Branding mit einem Pager
 - Präsentation mit einem Branding
 - Groß-/Kleinschreibung
@@ -69,17 +69,17 @@ Um Ihre Markt Einführungsangebote anzuzeigen:
 
 2. Wählen Sie im Menü auf der linken Seite **MPN**aus. Führen Sie dann einen der folgenden Schritte aus:
 
-    - Wählen Sie **Übersicht**. Scrollen Sie zum Abschnitt **Quick Links** , und wählen Sie dann die Registerkarte **go-to-Market** aus.
+   - Wählen Sie **Übersicht**. Scrollen Sie zum Abschnitt **Quick Links** , und wählen Sie dann die Registerkarte **go-to-Market** aus.
 
-      oder
+     oder
 
-    - Wählen Sie **Vorteile** **und dann Markt**Einführungs Zeiten aus.
+   - Wählen Sie **Vorteile** **und dann Markt**Einführungs Zeiten aus.
 
 Sie sehen eine Liste der Angebote zu den Markteinführungszeiten, die entweder bereits aktiv sind oder für die Aktivierung verfügbar sind.
 
 ## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Verwalten oder Aktivieren von Markt Einführungs angeboten im Partner Center
 
-Spezifische Schritte zum Aktivieren oder Verwalten Ihrer Markt Einführungsangebote finden Sie unter [Verwalten Ihrer Markt Einführungsangebote](manage-your-partner-network-benefits.md#manage-go-to-market-offers). Ein Teil dieses Prozesses erfordert, dass Sie einen Marketingmitarbeiter als Kontakt für nach Verfolgungs-e-Mails und-Kommunikationen in Bezug auf die von Ihnen aktivierte Markt Einführungsangebote zuweisen.
+Informationen zum Aktivieren oder Verwalten Ihrer Markt Einführungsangebote finden Sie unter [Verwalten Ihrer Markt Einführungsangebote](manage-your-partner-network-benefits.md#manage-go-to-market-offers). Ein Teil dieses Prozesses erfordert, dass Sie einen Marketingmitarbeiter als Kontakt für nach Verfolgungs-e-Mails und-Kommunikationen in Bezug auf die von Ihnen aktivierte Markt Einführungsangebote zuweisen.
 
 >[!IMPORTANT]
 >Sie müssen der globale Administrator oder MPN-Partner Administrator sein, um bestimmte Markt Einführungsangebote zu aktivieren und einen Verwandten Marketing Kontakt zuzuweisen. Bei Bedarf können Sie ein globaler Administrator werden. Befolgen Sie dazu die Anweisungen auf der Seite [**Vorteile**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Möglicherweise gibt es in Ihrer Organisation bereits einen globalen Administrator. Erkundigen Sie sich in Ihrem Team danach.
@@ -91,3 +91,5 @@ Spezifische Schritte zum Aktivieren oder Verwalten Ihrer Markt Einführungsangeb
 - [Erstmaliges Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements](mpn-get-action-pack.md)
 
 - [Weitere Informationen zu Kompetenzen](learn-about-competencies.md)
+
+- [Vertrieb mit Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)

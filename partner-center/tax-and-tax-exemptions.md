@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 description: Für CSP-Programmpartner erfahren Sie mehr über steuerliche Zuständigkeiten pro Region, über das Übermitteln von Steuer Ausnahmen für CSP-Verkäufe und über die Unterstützung von Steuerfragen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: LauraBrenner
 keywords: Steuern, Steuern von Steuer Ausnahmen, Umsatzsteuer, Reseller, Abrechnung
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a25ddebe1417377005a97534ac2f1b6556e68cd6
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 1236facdfdb1f73f940c36c4a748cc9a1694e72c
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458296"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991794"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Informieren Sie sich über die Steuern und Steuer Befreiungs Details nach Region oder Land für Partner im CSP-Programm.
 
@@ -37,7 +36,7 @@ Wenn Sie sich in einem anderen Land oder einer Region befinden, die Steuern bela
 
 Wenn Sie weitere Fragen haben, [fordern Sie Unterstützung im Partner Center an](#support).
 
-### <a name="canada"></a>Canada
+### <a name="canada"></a>Kanada
 
 Die meisten Handelspartner sind nicht von der GST/HST/QST befreit. Wenden Sie sich an den Steuer Ratgeber, um zu bestimmen, ob Sie für eine Ausnahme qualifiziert sind und welche Dokumentation Sie für Microsoft bereitstellen sollten.
 
@@ -88,7 +87,7 @@ Erstellen Sie dann mit den Steuer Ausnahme Informationen ein Support Ticket für
 2. Wählen Sie auf der Seite **Partner Anforderung** die Option **neue Anforderung**aus. (Sie können auch die offenen und geschlossenen Supportanfragen später auf dieser Seite anzeigen.)
 3. Wählen Sie im Schritt **Grundlagen** unter **CSP-Abrechnung und Zahlungen** **die Option Problemtyp auswählen** aus, und wählen Sie die Anforderung für die **Steuerbefreiung**aus.
 4. Wählen Sie im Schritt " **Lösungen** " unter **benötigen Sie weitere Hilfe?** die Option **Ja**aus.
-5. Füllen Sie im Schritt **Details** das Formular **Problem Details** aus. Führen Sie folgende Schritte aus:
+5. Füllen Sie im Schritt **Details** das Formular **Problem Details** aus. Stellen Sie Folgendes sicher:
 
     - Füllen Sie alle erforderlichen Felder aus.
     - Fügen Sie Ihre **Microsoft-ID** und **MPN-ID** in das Feld **Details** ein.

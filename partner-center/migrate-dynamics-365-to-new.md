@@ -5,18 +5,17 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie qualifizierte Dynamics 365 Business Edition-Angebote zu neueren Versionen migrieren, bevor Sie ablaufen.
-ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 Keywords: Dynamics 365-Angebote, Angebote verlängern, neue Dynamics 365-SKUs
-ms.openlocfilehash: d49966db4a2c9de50b0723abf9ccd0fe589a442a
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 9675f607d183c5d427371de4f09f088fd267c573
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795968"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992080"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Migrieren von Dynamics 365 Business Edition-Angeboten zu neueren Versionen
 
@@ -66,7 +65,7 @@ Ihre Kunden haben jetzt sowohl das alte als auch das neue Abonnement. Der nächs
 2. Wählen Sie **Benutzer und Lizenzen**aus.
 3. Um einem Benutzer eine Lizenz zuzuweisen, wählen Sie den Benutzer aus, und wählen Sie anschließend **Lizenzen verwalten** aus. 
 4. Deaktivieren Sie auf der Seite **Lizenzen verwalten** das Kontrollkästchen für die Lizenz von Dynamics 365 for Sales/ Customer Engagement Plan from Basic (qualifiziertes Angebot), und wählen Sie einen neuen Serviceplan für das Abonnement aus, auf das der Kunde umgestellt wird. 
-5. Klicken Sie auf **Submit** (Senden). Führen Sie diese Schritte für alle Benutzer aus, die eine neue Lizenz benötigen. 
+5. Klicken Sie auf **Senden**. Führen Sie diese Schritte für alle Benutzer aus, die eine neue Lizenz benötigen. 
 
 Nachdem Sie die Lizenzen in das neue Abonnement verschoben haben, können Sie das alte Abonnement stornieren. 
 

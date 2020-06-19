@@ -3,18 +3,17 @@ title: Abrechnung für einmalige & wiederkehrende Käufe
 ms.topic: article
 ms.date: 05/05/2020
 description: Weitere Informationen finden Sie in den Partner Center-Abrechnungs Beispielen für einmalige und wiederkehrende Käufe. Wenn Sie Abonnements erwerben, können Sie weitere Abonnements hinzufügen, Arbeitsplätze hinzufügen oder entfernen.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Abrechnung, Zahlungen, einmaliger Kauf, wiederkehrende Käufe, Abonnements, Arbeitsplätze
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c3467fdbe8457a7068a49000bd635b7c464cf29
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 334a670733c4194b89e942cbcea185791e88693b
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908205"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908868"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Partner Center-Abrechnungs Szenarien für einmal und Auswahl von wiederkehrenden Käufen
 
@@ -39,7 +38,7 @@ Die Kontenabstimmungsdatei enthält Folgendes:
 
 |**Kauf Datum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Einzelpreis**  |**Menge**  |**Amount** |**Gebührentyp** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11.06.2019      |10.06.2019   |09.07.2019         |4 US-Dollar                |1                 |4 US-Dollar            |„Neu“,         |
+|11.06.2019      |10.06.2019   |09.07.2019         |4 US-Dollar                |1                 |4 US-Dollar            |Neu         |
 |11.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        |1        | -4 USD       |addQuantity           |
 |11.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        | 2      |-8 USD         |addQuantity           |
 
@@ -55,7 +54,7 @@ Die Kontenabstimmungsdatei enthält Folgendes:
 
 |**Kauf Datum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Einzelpreis**  |**Menge**  |**Amount** |**Gebührentyp** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11.06.2019 (Sie verfügen über eine Lizenz)     |10.06.2019   |09.07.2019         |4 US-Dollar         |1        |4 US-Dollar            |„Neu“,         |
+|11.06.2019 (Sie verfügen über eine Lizenz)     |10.06.2019   |09.07.2019         |4 US-Dollar         |1        |4 US-Dollar            |Neu         |
 |12.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        |1        | -3,87 USD       |addQuantity           |
 |12.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        | 2      |7,74 USD       |addQuantity           |
 
@@ -71,8 +70,8 @@ Die Kontenabstimmungsdatei enthält Folgendes:
 
 |**Kauf Datum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Einzelpreis**  |**Menge**  |**Amount** |**Gebührentyp** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11.06.2019      |10.06.2019   |09.07.2019         |4 US-Dollar                |2                 |-8 USD            |„Neu“,         |
-|11.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        |2        | - 8 US-Dollar       |removeQuantity           |
+|11.06.2019      |10.06.2019   |09.07.2019         |4 US-Dollar                |2                 |-8 USD            |Neu         |
+|11.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        |2        | \- 8 US-Dollar       |removeQuantity           |
 |11.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        | 1      |4 US-Dollar         |removeQuantity           |
 
 ## <a name="purchase-a-subscription-and-remove-seats-later"></a>Erwerben eines Abonnements und Entfernen von Arbeitsplätzen zu einem späteren Zeitpunkt
@@ -87,6 +86,6 @@ Die Kontenabstimmungsdatei enthält Folgendes:
 
 |**Kauf Datum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Einzelpreis**  |**Menge**  |**Amount** |**Gebührentyp** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|11.06.2019 (Sie haben 2 Lizenzen)     |10.06.2019   |09.07.2019         |4 US-Dollar         |2        |-8 USD       |„Neu“,       |
+|11.06.2019 (Sie haben 2 Lizenzen)     |10.06.2019   |09.07.2019         |4 US-Dollar         |2        |-8 USD       |Neu       |
 |12.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        |2        | -7,74 USD       |removeQuantity           |
 |12.06.2019 (Sie haben 1 Lizenz)    | 10.06.2019    |09.07.2019   |4 US-Dollar    |1      |3,87 USD    |removeQuantity |

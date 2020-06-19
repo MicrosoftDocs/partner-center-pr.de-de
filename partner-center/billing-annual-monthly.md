@@ -3,17 +3,16 @@ title: Unterschiede zwischen monatlicher und jährlicher Abrechnung
 ms.topic: article
 ms.date: 05/06/2020
 Description: Erfahren Sie, wie sich die monatliche und jährliche Abrechnung in Partner Center unterscheidet. Erfahren Sie außerdem, wie Sie zwischen verschiedenen Abrechnungs Typen wechseln und welche Auswirkungen der Wechsel hat.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 841e7026651484b4b3c52ecc1e3c297af01f9f16
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96ff9feded392219ceddd3f800bd3d12e6440a60
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908248"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908968"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Grundlegendes zum Unterschied zwischen monatlicher und jährlicher Abrechnung in Partner Center
 

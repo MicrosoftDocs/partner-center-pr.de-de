@@ -1,19 +1,17 @@
 ---
 title: Zusammenführen Ihres Partnerkontos mit einem anderen Partnerkonto
-ms.topic: article
-ms.date: 06/12/2020
 description: Unternehmen, die aktive Microsoft-Partner in Partner Center sind, können Ihre Konten zusammenführen.
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
+ms.topic: article
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 03689f250f86a2abdedbcd062766020b15520108
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.date: 06/12/2020
+ms.openlocfilehash: 479b22e3b9666184a1dc2f75ba1f36f721d31445
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788686"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909032"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Zusammenführen Ihres Partnerkontos mit einem anderen Partnerkonto
 
@@ -31,11 +29,11 @@ Zwei oder mehr Unternehmen, die aktive Microsoft-Partner sind und über Konten i
 
 - Alle Speicherorte des Zusammenführungs Kontos werden zu Standorten unterhalb der PGA.
 
-- Nachdem die Konto Zusammenführung fertiggestellt wurde, sehen Sie die Details der beiden Konten, z. b. Standorte und Benutzer innerhalb des PGA-Profils. Dieser Prozess kann nicht rückgängig gemacht werden.
+- Nachdem die Konto Zusammenführung fertiggestellt wurde, sehen Sie die Details des Kontos, z. b. Standorte und Benutzer, innerhalb des PGA-Profils. Dieser Prozess kann nicht rückgängig gemacht werden.
 
 - Alle MPN-IDs für Standorte werden während dieser Konsolidierung beibehalten.
 
-- Die Rollen des Benutzers werden übernommen. Wenn ein Benutzer beispielsweise der admin-Administrator für einen bestimmten Standort war, hat er nach der Fusion immer noch diese Rolle, und er kann die vor der Fusion erkannten Anreize sehen.
+- Die Rollen des Benutzers werden übernommen. Wenn ein Benutzer beispielsweise der admin-Administrator für einen bestimmten Standort wäre, wäre er nach der Fusion weiterhin vorhanden und kann die vor der Fusion erkannten Anreize sehen.
 
 - Azure AD Mandanten und CSP-Konten werden nicht zusammengeführt und haben keine Auswirkung.
 
@@ -43,8 +41,7 @@ Zwei oder mehr Unternehmen, die aktive Microsoft-Partner sind und über Konten i
 
 ### <a name="view-of-merged-accounts"></a>Ansicht von zusammengeführten Konten
 
-
-:::image type="content" source="images/AccountMerge-graphic.png" alt-text="Konto Zusammenführung":::
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Konto Zusammenführung":::
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Was Sie erwartet, wenn Sie eingeladen wurden, Ihr Partner Center-Konto mit einem anderen Partner Center-Konto zusammenzuführen
 
@@ -62,11 +59,11 @@ Wenn Sie sich dazu entschließen, die Einladung zum Zusammenführen von Konten z
 
 - Während der Konto Zusammenführung und bis zur nächsten Erneuerung behält jedes Konto seine Action Pack-und/oder Kompetenz Vorteile bei. Bei Erneuerungs Regeln gelten Standard Action Pack und Kompetenz Erneuerungs Regeln.
 
-- Bei der Erneuerung sind die Vorteile, die in der Kompetenz-und Action Pack enthalten sind, für das globale Partnerkonto des Partners implementiert: 
+- Bei der Erneuerung sind die Vorteile, die in der Kompetenz-und Action Pack enthalten sind, für das globale Partnerkonto des Partners implementiert:
 
-    • Microsoft Action Pack: das Partnerunternehmen kann eine Action Pack pro globalem Partnerkonto erwerben.
+  - Microsoft Action Pack: das Partnerunternehmen kann eine Action Pack pro globalem Partnerkonto erwerben.
 
-    • Kompetenz: das Partnerunternehmen erhält ein Paket mit Kern Vorteilen, das mit der höchsten Erreichung verbunden ist, sowie Kompetenz spezifische Vorteile, die der Partner für ein globales Partnerkonto infrage kommt. 
+  - Kompetenz: das Partnerunternehmen erhält ein Paket mit Kern Vorteilen, das mit der höchsten Erreichung verbunden ist, sowie Kompetenz spezifische Vorteile, die der Partner für ein globales Partnerkonto infrage kommt.
 
 - Alle Vorteile unterliegen dem [Nutzungs Leit Faden für Microsoft Partner Network Vorteile](https://aka.ms/partner-benefits-use-guide). Beispiel: ein aktiviertes O365 E3-Token ist für zwölf (12) Monate nach der Aktivierung funktionsfähig. Nachdem ein Token für die Arbeitsplätze in einem Mandanten aktiviert wurde, werden diese Arbeitsplätze möglicherweise nicht in einen anderen Mandanten verschoben.
 

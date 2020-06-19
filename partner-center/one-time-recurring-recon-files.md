@@ -3,17 +3,16 @@ title: Einmalige und wiederkehrende Abstimmungs Dateien
 ms.topic: article
 ms.date: 05/26/2020
 description: Verstehen Sie die Bedeutung der einzelnen Felder oder Spalten in den einmaligen und wiederkehrenden Abstimmungs Dateien von Partner Center.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84bed4fac8984b3fc8757b8185da514c5d8212d6
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: a39962fb046b50497432e7e4fdabd020668702fe
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749201"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908668"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>Einmalige und wiederkehrende Abstimmungs Dateien im Partner Center
 
@@ -34,7 +33,7 @@ In diesem Thema wird erläutert, wie Sie einmalige und wiederkehrende Abstimmung
 
 ## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>Felder in einmaligen und wiederkehrenden Abgleich Dateien
 
-| Spalte | BESCHREIBUNG |
+| Column | Beschreibung |
 | ------ | ----------- |
 | PartnerId | Eindeutige Azure Active Directory (Azure AD)-Mandanten Bezeichner für eine bestimmte Abrechnungs Entität im GUID-Format. Für die Abstimmung nicht erforderlich. In allen Zeilen gleich. |
 | CustomerId | Eindeutige Azure AD Mandanten-ID im GUID-Format. Identifiziert den Kunden. |

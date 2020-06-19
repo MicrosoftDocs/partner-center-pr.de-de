@@ -5,18 +5,17 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sehen Sie sich an, was Sie gut machen und wo Sie die Nutzung von Azure-Abonnements verbessern können, die Sie für Ihre Kunden verkaufen oder verwalten.
-ms.assetid: ''
 keywords: PCI, Leistung, Messungen, Kunden Erfolg, Azure-Nutzung, Abonnements, Analysen, Bericht
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d8400cbfb5d466ea4da1c8a7abd9d8e2e49df184
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: f8a8c98cf8378c7b1e70e2aaac5a91e9b72e3d81
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679377"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908628"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Azure-Verwendungs Bericht, der im Partner Center Insights-Dashboard verfügbar ist
 

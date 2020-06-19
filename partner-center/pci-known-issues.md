@@ -5,18 +5,17 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informieren Sie sich über bekannte Probleme im Zusammenhang mit den PCI-Berichten (Partner Center Insights).
-ms.assetid: ''
 keywords: PCI, Messungen, Berichte, Probleme, Einschränkungen
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b8f9a068cd4d2807f1fcf2202487e652738a8fbf
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 2a944e37760e6dc56dde7ea850f9b86d43215a8c
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679337"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908598"
 ---
 # <a name="known-issues-with-partner-center-insights"></a>Bekannte Probleme mit Partner Center Insights
 

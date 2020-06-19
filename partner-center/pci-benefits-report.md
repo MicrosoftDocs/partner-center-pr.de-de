@@ -5,18 +5,17 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sehen Sie sich an, welche Typen von Microsoft-Partner Vorteilen Sie erhalten haben, um Ihr Unternehmen zu erweitern, die Effizienz zu verbessern und die Fähigkeiten Ihres Teams zu Verb
-ms.assetid: ''
 keywords: PCI, Leistung, Messungen, Vorteile, Analysen, Bericht
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 475ad98a4abad12be2a1a4fe5ae2dc812013aca0
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 3e43545e65d877debeb5b85713b5b900b4b49921
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679367"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908698"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Im Partner Center Insights-Dashboard verfügbarer Leistungsbericht
 

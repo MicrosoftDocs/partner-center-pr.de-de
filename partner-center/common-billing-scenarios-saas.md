@@ -3,18 +3,17 @@ title: Abrechnungs Lizenz basierte Saas-Transaktionen
 ms.topic: article
 ms.date: 05/05/2020
 description: Erfahren Sie mehr über häufige Abrechnungs Szenarien im Partner Center für Lizenz basierte Saas-Transaktionen.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Abrechnung, Zahlungen, einmaliger Kauf, wiederkehrende Käufe, Abonnements, Arbeitsplätze
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02a50f5be3c19f179014fd7db4e1418ba025e874
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a25344e6a513c521e7f99e1bad3db9ec935159b3
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908195"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908798"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Häufige Abrechnungs Szenarien für Lizenz basierte Saas-Transaktionen im Partner Center
 
@@ -38,7 +37,7 @@ Die Datei für die Wiederaufnahme umfasst die folgenden Gebühren:
 
 | Kaufdatum | Startdatum der Abrechnung | Enddatum der Abrechnung | Unit price | Einheiten Menge | Gesamtbetrag | Gebührenart | Abonnement Beschreibung |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 10.06.2019 | 10.06.2019 | 07/09/2019 | 0 USD | 1 | 0 USD | „Neu“, | Kostenlose Testversion |
+| 10.06.2019 | 10.06.2019 | 07/09/2019 | 0 USD | 1 | 0 USD | Neu | Kostenlose Testversion |
 | 07/10/2019 | 07/10/2019 | 08/09/2019 | 2 USD | 1 | 2 USD | Erneuern | Kostenpflichtiges Abonnement |
 
 ## <a name="cancel-a-free-trial-saas-subscription"></a>Kündigen Sie ein kostenloses Saas-Testabonnement an
@@ -52,7 +51,7 @@ Die Datei "Reconnaissance" enthält die folgenden Gebühren:
 
 | Kaufdatum | Startdatum der Abrechnung | Enddatum der Abrechnung | Unit price | Einheiten Menge | Gesamtbetrag | Gebührenart | Abonnement Beschreibung |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 10.06.2019 | 10.06.2019 | 07/09/2019 | 0 USD | 11 | 0 USD | „Neu“, | Kostenlose Testversion |
+| 10.06.2019 | 10.06.2019 | 07/09/2019 | 0 USD | 11 | 0 USD | Neu | Kostenlose Testversion |
 | 10.06.2019 | 10.06.2019 | 07/09/2019 | 0 USD | 11 | 0 USD | Abbrechen | Kostenlose Testversion |
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Konvertieren eines benutzerdefinierten Abrechnungs-Saas-Abonnements in eine andere SKU
@@ -65,7 +64,7 @@ Die Datei "Reconnaissance" enthält die folgenden Gebühren:
 
 | Kaufdatum | SKU | Startdatum der Abrechnung | Enddatum der Abrechnung | Unit price | Einheiten Menge | Gesamtbetrag | Gebührenart | Abonnement Beschreibung |
 | ------------- | ----------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 10.06.2019 | Silber | 10.06.2019 | 10.06.2019 | 20 USD | 1 | 20 USD | „Neu“, | Benutzerdefiniertes Abrechnungs Abonnement für Saas |
+| 10.06.2019 | Silber | 10.06.2019 | 10.06.2019 | 20 USD | 1 | 20 USD | Neu | Benutzerdefiniertes Abrechnungs Abonnement für Saas |
 | 10.06.2019 | Silber | 10.06.2019 | 10.06.2019 | 20 USD | 1 | -$20 | Convert | Anteilsmäßig angeforderte Rechnung für benutzerdefiniertes Abrechnungs-Saas-Abonnement |
 | 10.06.2019 | Bronze | 10.06.2019 | 10.06.2019 | 10 USD | 1 | 10 USD | Convert | Benutzerdefiniertes Abrechnungs Abonnement für Saas |
 
@@ -77,5 +76,5 @@ In diesem Szenario haben Sie ein benutzerdefiniertes Abrechnungs Abonnement für
 
 | Kaufdatum | SKU | Startdatum der Abrechnung | Enddatum der Abrechnung | Unit price | Einheiten Menge | Gesamtbetrag | Gebührenart | Abonnement Beschreibung |
 | ------------- | ------------- |----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 10.06.2019 | Bronze | 10.06.2019 | 10.06.2019 | 10 USD | 1 | 10 USD | „Neu“, | Benutzerdefiniertes Abrechnungs Abonnement für Saas |
+| 10.06.2019 | Bronze | 10.06.2019 | 10.06.2019 | 10 USD | 1 | 10 USD | Neu | Benutzerdefiniertes Abrechnungs Abonnement für Saas |
 | 10.06.2019 | Bronze | 10.06.2019 | 10.06.2019 | 10 USD | 1 | -$10 | CancelImmediate | Benutzerdefiniertes Abrechnungs Abonnement für Saas |

@@ -1,22 +1,21 @@
 ---
-title: Marketplace-Prämien verwalten
+title: Verwalten von Marketplace Rewards
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Partner, die Angebote im kommerziellen Marketplace veröffentlichen, können sich auf Vorteile stützen, die Marketingunterstützung bieten.
-ms.assetid: ''
 author: laurabrenner
 ms.author: labrenne
 Keywords: Marketplace-Angebote, Marketingunterstützung, Bonus, Vorteile des Herausgebers
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6751b1ba7a8a99980154d287df71aa24f9cf63be
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 9df2d287899da4c92ac55a5ac160f0e36b09c520
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795980"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909008"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Verwalten von Marketplace-Prämien in Partner Center & Aktivieren von Marketing-, Vertriebs-und technischen Vorteilen
 
@@ -34,23 +33,23 @@ Die Berechtigungs Berechtigung für Marketplace-Prämien wird basierend auf alle
 
 1. Wählen Sie im Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)auf der Marketplace-Bonusseite die Registerkarte **Vertrieb und Marketing Vorteile** aus, um die Liste der Vorteile anzuzeigen. 
 
-2. Um den Kauf-und Marketingvorteil zu aktivieren, müssen Sie zunächst einen Firmenmarketing-Kontakt zuweisen. Dieser Kontakt erhält nach Verfolgungs Mitteilungen zu ihren Marketplace-Prämien.
+2. Um einen beliebigen Marketing- und Vertriebsvorteil zu aktivieren, müssen Sie zunächst einen Marketingkontakt zuweisen. Dieser Kontakt erhält dann weitere Informationen zu Ihren Marketplace-Prämien.
 
 3. Um Ihre Marketing Kontaktinformationen hinzuzufügen oder zu aktualisieren, klicken Sie auf der Registerkarte "Sales and Marketing Benefits" auf der Marketplace-Bonusseite auf " **Hinzufügen", "Aktualisieren" oder "ändern**". 
 
    Gehen Sie anschließend wie folgt vor:
 
-   - Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter Kontoeinstellungenneue Benutzer hinzufügen.
+   - Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste enthalten ist, können Sie unter „Kontoeinstellungen“ neue Benutzer hinzufügen.
 
-   - Geben Sie für den Benutzer eine E-Mail-Adresse ein, die sich von der E-Mail-Adresse unterscheidet, die dem Partner Center-Konto Ihres Unternehmens zugeordnet ist. Wir senden Ihnen eine e-Mail mit Anweisungen zur Nutzung Ihres Marketplace-Bonus Vorteils an die e-Mail-Adresse Ihres designierten Marketing Kontakts.
+   - Geben Sie für den Benutzer eine E-Mail-Adresse ein, die sich von der E-Mail-Adresse unterscheidet, die dem Partner Center-Konto Ihres Unternehmens zugeordnet ist. Wir senden Anweisungen zur Nutzung Ihres Vorteils im Rahmen des Marketplace-Prämienprogramms an die E-Mail-Adresse des genannten Marketingkontakts.
 
    - Geben Sie die Telefonnummer und die bevorzugte Sprache für diesen Marketingkontakt an. Nachdem Sie diese Informationen eingegeben haben, wählen Sie **Benutzer zuweisen** aus.
 
-4. Nachdem Sie den Marketing Kontakt aktualisiert haben, wählen Sie für den Vorteil, den Sie verwenden möchten, die Option **aktivieren** aus. Nachdem Sie einen Vorteil aktiviert haben, wird Ihr Marketing Kontakt von einem Mitglied des Bonus Teams innerhalb einer Woche kontaktiert.
+4. Nachdem Sie den Marketingkontakt aktualisiert haben, wählen Sie für den Vorteil, den Sie verwenden möchten, **Aktivieren** aus. Sobald Sie einen Vorteil aktiviert haben, wird Ihr Marketingkontakt innerhalb einer Woche von einem Mitglied des Prämienteams kontaktiert.
 
 ## <a name="technical-benefits"></a>Technische Vorteile
 
-1. Sie können Ihren technischen Vorteil nutzen, um während der Planungs-, Entwurfs-, Bereitstellungs-und App-Entwicklungsphasen ihrer Cloud-und Hybridlösungen technische Unterstützung anzufordern. Füllen Sie das Anfrageformular aus, und wählen Sie dann **Anforderung einreichen** aus, um Unterstützung anzufordern.
+1. Sie können Ihren technischen Vorteil nutzen, um während der Planungs-, Entwurfs-, Bereitstellungs-und App-Entwicklungsphasen ihrer Cloud-und Hybridlösungen technische Unterstützung anzufordern. Um Unterstützung anzufordern, füllen Sie das Anforderungs Formular aus, und wählen Sie dann **Anforderung senden**aus.
 
 2. Die Nutzung der Vorteile von Azure-Sponsoring wird über eine e-Mail freigegeben, wenn Sie diese Vorteile entsperren.
 

@@ -1,19 +1,19 @@
 ---
 title: Beantragen einer Partnerschaft mit einem Kunden
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Fordern Sie eine Beziehung mit einem Kunden für Multi-Channel-Szenarien mit mehreren Partnern an, oder wenn Ihre delegierten Administratorrechte für einen Kunden wieder hergestellt werden müssen.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 529881017969a4d7262086eb6b3f47e77de3f7e2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992021"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104087"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Anfordern einer Reseller-Beziehung von einem Kunden im Partner Center
 
@@ -56,7 +56,7 @@ Sie können eine Reseller-Beziehung mit einem Kunden aus Ihrem Land oder aus der
 
 Die Kundenfreundlichkeit, eine Reseller Relationship-Einladung von einem Cloud Solution Provider-Partner zu akzeptieren, wird von verschiedenen Kundenportalen gehostet. Der Speicherort des Portals hängt davon ab, ob sich ein Kunde in einer Microsoft Public Cloud oder National Cloud befindet:
 
-|  | Wo akzeptiert ein Kunde eine Reseller Relationship-Einladung? |
+|Cloud-Kundentypen  | Wo akzeptiert ein Kunde eine Reseller Relationship-Einladung? |
 |---------|---------
 | Kunden in der Public Cloud | Microsoft 365 Admin Center |
 | Kunden im Partner Center für Microsoft Cloud Deutschland | Microsoft Office-Verwaltungsportal |

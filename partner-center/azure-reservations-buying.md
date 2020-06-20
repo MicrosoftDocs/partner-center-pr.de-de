@@ -1,7 +1,7 @@
 ---
 title: Microsoft Azure Reservierungen für Kunden kaufen
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie, wie Sie Azure-Reservierungen im Namen Ihrer Kunden im Partner Center erwerben oder erwerben.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure, Reservierungen, verwalten, Abrechnung, kaufen
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 63fe8bc008b9c1515a3850e60c32ba2d3133ff5c
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 25ff9ac88876b11d76a60db6cf4e471d230dd6f3
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603719"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104112"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Kaufen von Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden im Partner Center
 
@@ -55,10 +55,12 @@ Lesen Sie die folgenden wichtigen Informationen, bevor Sie Azure-Reservierungen 
 
 ## <a name="azure-reservations-unavailable-markets"></a>Azure-Reservierungen: Märkte ohne Verfügbarkeit
 
->[!IMPORTANT] 
->Azure-Reservierungen sind in den folgenden Märkten *nicht* verfügbar:  
+> [!IMPORTANT]
+> Azure-Reservierungen sind in den folgenden Märkten **nicht** verfügbar:  
 >  
-> | Märkte ohne Verfügbarkeit | &nbsp; | &nbsp; |
+> **Nicht verfügbare Märkte (in alphabetischer Reihenfolge)**
+>
+> |A zu GI   | Gr nach PAL  | PAP bis Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Ålandinseln     | Grönland     | Papua-Neuguinea     |
 > | Amerikanisch-Samoa     | Grenada     | Pitcairninseln     |

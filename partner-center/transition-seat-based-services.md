@@ -1,7 +1,7 @@
 ---
 title: Lizenz basierte Kunden in das CSP-Programm verschieben
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Lizenz basierte Kunden aus anderen Kanälen oder einem anderen Partner in das CSP-Programm (Cloud Solution Provider) im Partner Center verschieben.
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ce096cd3e7fca1f59fd59eac739585c345c34405
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 1943c72273db158b9f566024d5d29f0a8aca70ec
+ms.sourcegitcommit: 562535a4b16a8217c1e1945b7663ca3735e1ee27
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458386"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85133079"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Verschieben Lizenz basierter Kunden aus anderen Kanälen & Partnern in das Cloud Solution Provider-Programm
 
@@ -28,19 +28,26 @@ Wenn Ihr Kunde mehrere Partner beauftragen möchte, übertragen Sie seine Abonne
 
 1. Wählen Sie im Menü „Partner Center“ die Option **Kunden** und anschließend **Vertriebspartnerschaft beantragen** aus. Um Unterstützung für Konten mit mehreren Kanälen bereitzustellen, gehen Sie gleichermaßen vor.
 
-2.  Nachdem der Kunde Ihre Einladung akzeptiert hat, können Sie die gewünschten Abonnements und Arbeitsplätze für den Kunden bereitstellen (z. b. das gleiche Office 365-Angebot, das der Kunde zuvor gekauft hat).
+2. Nachdem der Kunde Ihre Einladung akzeptiert hat, können Sie die gewünschten Abonnements und Arbeitsplätze für den Kunden bereitstellen (z. b. das gleiche Office 365-Angebot, das der Kunde zuvor gekauft hat).
 
-3. Der Kunde kann entweder seine ursprünglichen Abonnements auslaufen lassen oder diese stornieren. Da jedoch keine Rückerstattungen für abgebrochene Abonnements vorhanden sind, ist es am besten, zu warten, bis die Abonnements des Kunden in der Nähe der natürlichen Ablaufzeiten liegen.
+3. Der Kunde kann entweder zulassen, dass die ursprünglichen Abonnements ablaufen oder abgebrochen werden. Da jedoch keine Rückerstattungen für abgebrochene Abonnements vorhanden sind, empfiehlt es sich, zu warten, bis die Abonnements in der Nähe der natürlichen Ablaufzeit liegen.
+
+>[!NOTE]
+>Der Kunde ist möglicherweise berechtigt, eine Gutschrift zu erhalten, wenn er über das Verwaltungs Portal für Microsoft 365 (M365) erworben wurde (z. b. durch monatliche oder jährliche Abrechnung direkt von Microsoft). Guthaben für Abonnements, die direkt von Microsoft erworben werden, werden vom **M365-Abrechnungs Support**behandelt. Weitere Informationen zum [Abbrechen Ihres M365-Abonnements finden Sie](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)unter M365. Wenn Sie Administratorrechte für den Kunden delegiert haben, können Sie sich im Auftrag Ihres Kunden an den Support von "Support" wenden. Wenn dies nicht der Fall ist, bitten Sie Ihren Kunden, sich direkt an den M365-Support zu wenden, um herauszufinden, für wie viele Gutschriften Sie berechtigt sind und wie diese Gutschrift erteilt wird. Lesen Sie die Informationen zu [Delegierten Administratorrechten](customers-revoke-admin-privileges). 
 
 4. Dann führt der Kunde ohne Unterbrechungen mit den Abonnements fort, die Sie bereitgestellt haben.
 
+Wenn Sie dieselben Angebote wie die Angebote bereitstellen, die Ihr Kunde verwendet hat, ist es nicht erforderlich, Lizenzen neu zuzuweisen, und die Endbenutzer werden nicht unterbrochen. Die Angebote müssen identisch sein, damit kein Datenverlust auftritt. Solange die Gesamtzahl der Lizenzen unverändert bleibt und das Angebot äquivalent ist, spüren Ihre Kunden keine Auswirkungen.
 
-Wenn Sie dieselben Angebote wie die Angebote bereitstellen, die Ihr Kunde verwendet hat, ist es nicht erforderlich, Lizenzen neu zuzuweisen, und die Endbenutzer werden nicht unterbrochen. Die Angebote müssen identisch sein, um sicherzustellen, dass kein Datenverlust auftritt. Solange die Gesamtzahl der Lizenzen unverändert bleibt und das Angebot äquivalent ist, spüren Ihre Kunden keine Auswirkungen.
-
-Wenn Sie Kunden, deren Angebote eingestellt wurden, übertragen, müssen Sie ein äquivalentes Angebot finden, um Datenverluste zu vermeiden. Wenn Sie den Kunden einem anderen Angebot zuordnen, müssen Sie die Lizenzzuweisung aktualisieren.
+Wenn Sie Kunden mit eingestellten Angeboten umstellen, müssen Sie ein gleichwertiges Angebot finden, um Datenverlust zu vermeiden. Wenn Sie den Kunden auf ein anderes Angebot umstellen, müssen Sie ihre Lizenzzuweisung aktualisieren.
 
 >[!NOTE]
->Sie als CSP-Partner müssen sich in demselben Land bzw. derselben Region wie der Kundenmandant befinden, um diesen Kunden an Sie zu übertragen. 
+>Sie als CSP-Partner müssen sich in demselben Land bzw. derselben Region wie der Kundenmandant befinden, um diesen Kunden an Sie zu übertragen.
 
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Beginnen Sie mit der Verwendung der Tarife "Pay-as-you-go" mit dem Azure-Plan.](azure-plan-get-started.md)
+ 
+- [Verschiedene Möglichkeiten, mit anderen Partnern in Partner Center zu arbeiten](work-with-other-partners.md)
 
 

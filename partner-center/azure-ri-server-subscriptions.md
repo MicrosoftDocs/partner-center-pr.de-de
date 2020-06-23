@@ -10,15 +10,13 @@ ms.author: labrenne
 keywords: Azure, Abonnements, VM, Reservierung, reservierte Instanz
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d308c3e0e347e8d1c7975ba3c8cbabb88faf9bf8
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 4e5e5d88b1f629b07932d37dedb70d0309a26dce
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908280"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198628"
 ---
-<!-- Mike Aasen wrote and owns this topic -->
-
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Erwerben, bereitstellen und & Verwalten von reservierten Azure-VM-Instanzen (RI) und Server Abonnements für Kunden
 
 Gilt für:
@@ -133,7 +131,7 @@ Bei on-Demand-Ereignissen für die Lizenzierung sind folgende Themen enthalten:
 
 Weitere nützliche Schulungen umfassen das [Azure-Lizenzierungs Modul auf der Partner Universität](https://aka.ms/azure_partner_licensing).
 
-### <a name="operations"></a>Operationen (Operations)
+### <a name="operations"></a>Operations
 
 - [Betriebshandbuch für den modernen Handel](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (aktualisiert): ein umfassendes Handbuch, das wichtige Richtlinien und betriebliche Aspekte behandelt, wie z. b. Verträge, die Bestellung über Partner Center, Rechnungen, Preislisten Details, Anreize, Abstimmungs Datei, API/SDK, Sandbox und gemeinsame Azure-Partner Dienste.
 - [Länderverfügbarkeit für moderne Angebote und Kundenwährungsmatrix](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
@@ -143,7 +141,7 @@ Weitere nützliche Schulungen umfassen das [Azure-Lizenzierungs Modul auf der Pa
 - [Abrechnung für Azure Reservations](azure-plan-billing.md)
 - [VM-Größe für die maximale Reservierungsnutzung](https://go.microsoft.com/fwlink/?linkid=872810)
 - [Partner Center API (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
-- [Remotedesktopdienste](https://docs.microsoft.com/windows-server/remote/remote-desktop-services/welcome-to-rds)
+- [Remotedesktopdienste (RDS)](https://docs.microsoft.com/windows-server/remote/remote-desktop-services/welcome-to-rds)
 
 ## <a name="azure-hybrid-benefit"></a>Azure-Hybridvorteil
 

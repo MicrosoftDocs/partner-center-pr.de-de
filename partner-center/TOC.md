@@ -190,8 +190,9 @@
 ### [Migrieren von Kaizala Pro-Abonnements zu Microsoft 365](migrate-kaizala-pro-partner.md)
 
 # Partner Center-Daten und -Analysen
-## [Abrufen und Analysieren von Unternehmensdaten](data-analysis-lp.md)
-## [Partner Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## [Zugreifen auf Benutzerdaten und Analysen](data-analysis-lp.md)
+## [Verwenden der Partner Center Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## [Verwendung der Partner Center Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners.md)
 ## [Partner Center-Einblicke](partner-center-insights.md)
 ### [Einblicke – Dashboard „Übersicht“](pci-overview-report.md)
 ### [Einblicke: Rollenbasierte Steuerung des Zugriffs auf das Dashboard für Einblicke](pci-roles.md)
@@ -236,7 +237,6 @@
 ## [Übersicht](partner-security-requirements.md)
 ## [Festlegen von MFA für Ihren Partnermandanten](partner-security-requirements-mandating-mfa.md) 
 ## [Anforderungsstatus](partner-security-compliance.md)
+## [Implementieren der Sicherheitsanforderungen für Partner](implement-security-requirements.md)
 ## [Häufig gestellte Fragen](partner-security-requirements-faq.md)
 
-# Lernprogramme
-## [Implementieren der Sicherheitsanforderungen für Partner](tutorials/partner-security-requirements.yml)

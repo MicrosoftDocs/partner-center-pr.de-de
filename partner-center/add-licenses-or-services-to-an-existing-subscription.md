@@ -5,18 +5,17 @@ ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie das Abonnement eines Kunden aktualisieren oder ändern. Fügen Sie weitere Lizenzen oder Arbeitsplätze hinzu, oder wechseln Sie zu einer anderen Version mit zusätzlichen Diensten.
-ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: LauraBrenner
 ms.author: labrenne
 keywords: Hinzufügen von Lizenzen zu einem vorhandenen Abonnement, Plätze zu einem vorhandenen Abonnement hinzufügen, Abonnement andern, Ändern eines Abonnements, Weitere Lizenzen für einen Kunden erwerben
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f41c34b044cca39c2939ede746e05b932e03a570
-ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
+ms.openlocfilehash: 3d5cc8e161f2a519d656baceeac51146f638c754
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "82975121"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991087"
 ---
 # <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>Hinzufügen von Lizenzen, Arbeitsplätzen oder zusätzlichen Diensten zum Abonnement eines Kunden
 

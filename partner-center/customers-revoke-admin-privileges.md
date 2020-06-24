@@ -1,7 +1,7 @@
 ---
 title: Abrufen der Administratorberechtigungen eines Kunden
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Rufen Sie die Berechtigungen ab, die Sie benötigen, um den Dienst oder das Abonnement eines Kunden in seinem Namen zu verwalten. Erfahren Sie, wie Berechtigungen erteilt, widerrufen und verwaltet werden.
@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 keywords: delegierte Administratorrechte, Administrator im Auftrag von, Berechtigungen entfernen, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: dc56aa2236251c98afa6ffc5b5cc2b3d3f10918b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84466780"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198598"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Abrufen von Berechtigungen zum Verwalten des Diensts oder Abonnements eines Kunden
 
@@ -98,8 +98,6 @@ Jedes Azure-Abonnement verfügt über einen eigenen Satz von Ressourcenverwaltun
 - Wenn ein Kunde über das Office 365-Portal die delegierten Administratorrechte eines Partners entfernt, kann der Partner das Azure-Abonnement des Kunden weiterhin verwalten, solange dem Partner noch mindestens eine Rolle unter dem Abonnement zugewiesen ist. Um die Verwaltung des Azure-Abonnements durch den Partner zu beenden, muss der Kunde die Rollenzuweisung entfernen.
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
-
-<!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
 Im Partner Center können CSP-Partner unter den folgenden Umständen Autopilot-Profile für ihre Kunden ohne delegierte Administratorrechte verwalten: 
 

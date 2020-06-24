@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: acf8a26960df0bebd97b8684c5a51173a86af416
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 7f21431dd215f89905c456a61f8ef2b181353111
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452607"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679117"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Preisliste für die neue E-Commerce-Benutzeroberfläche in CSP für Azure
 
@@ -37,13 +37,17 @@ Die Preisliste für die neue Azure E-Commerce-Benutzeroberfläche in CSP ist im 
 
 2. Wählen Sie unter „Preise für Azure-Plan“ das Land/die Region aus, für das/die Sie Preise aufrufen möchten.
 
-3. Wählen Sie neben **Exporttyp** die Option **Preise für Azure-Plannutzung**, **Preise für Azure-Planreservierungen** oder **Wechselkurse** aus. Hinweis: Die Option **Wechselkurse** ist nicht länderspezifisch.
+3. Wählen Sie neben **Exporttyp** die Option **Preise für Azure-Plannutzung**, **Preise für Azure-Planreservierungen** oder **Wechselkurse** aus. 
+
+>[!NOTE] 
+>Die Option **Wechselkurse** ist nicht länderspezifisch.
 
 4. Wählen Sie neben **Preise für Datum** das gewünschte Datum aus, beispielsweise **Aktuell**.
 
    :::image type="content" source="images/azure/pricingnew.png" alt-text="Landesspezifisch":::
 
-Hinweis: Sie können zwei verschiedene Preislisten exportieren: Preise für Azure-Pläne und Drittanbieter-Preise für Marketplace.
+>[!NOTE] 
+>Sie können zwei verschiedene Preislisten exportieren: Preise für Azure-Pläne und Drittanbieter-Preise für Marketplace.
 
 ## <a name="azure-price-list-specifics"></a>Besonderheiten der Azure-Preisliste
 

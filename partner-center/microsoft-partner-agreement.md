@@ -5,17 +5,16 @@ ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über die Anforderungen an CSP-Partner von Microsoft, um diese einheitliche, digital akzeptierbare Microsoft Partner-Vereinbarung zu überprüfen und zu signieren.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ffb720603c94639f5c3be9b472157dedf230851c
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 5e32939b8d6baf815a68ff9fcc556fcc4bf527e1
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205598"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992086"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informationen zur Microsoft Partner-Vereinbarung für Partner im CSP-Programm
 

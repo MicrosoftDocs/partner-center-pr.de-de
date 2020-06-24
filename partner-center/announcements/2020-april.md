@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: bfc1f89aee3a9231d3c65467a330d45c93fef904
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: ebff4f924224c02f5c622b5f87849e36c96f6ab7
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84254037"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749125"
 ---
 # <a name="april-2020-announcements"></a>Ankündigungen für April 2020
 
@@ -191,7 +191,8 @@ Wenn Sie weitere Hilfe bei einem technischen Problem benötigen, können Sie ein
 
 Vielen Dank für Ihre Partnerschaft und dass Sie sich für die Vertrauenswürdigkeit unseres Ökosystems einsetzen.
 
-Hinweis: Wenn Sie Baselinerichtlinien verwenden und nicht auf die Richtlinie für Sicherheitsstandards oder [andere MFA-Implementierungsoptionen](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take) umgestellt haben, sollten Sie dies schnellstmöglich nachholen. [Hier finden Sie die wichtigsten Ressourcen](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>[!NOTE] 
+>Wenn Sie Baselinerichtlinien verwenden und nicht auf die Richtlinie für Sicherheitsstandards oder [andere MFA-Implementierungsoptionen](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take) umgestellt haben, sollten Sie dies schnellstmöglich nachholen. [Hier finden Sie die wichtigsten Ressourcen](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
 
 ### <a name="change-log"></a>Änderungsprotokoll
 
@@ -543,7 +544,7 @@ Weitere Informationen zu den Änderungen finden Sie in der Datei [Dynamics CSP O
 ### <a name="robotic-process-automation"></a>Robotergesteuerte Prozessautomatisierung
 
 Am 1. Mai 2020 wird die Verfügbarkeit neuer RPA-Angebote in den Education-Programmen von Microsoft erweitert.
-Weitere Informationen zu Änderungen am Authorized Education Partner-Programm im CSP-Programm erhalten Sie [hier](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/). HINWEIS: Dieser Link führt zu einer vorhandenen Sammlung in Partner Center.
+Weitere Informationen zu Änderungen am Authorized Education Partner-Programm im CSP-Programm erhalten Sie [hier](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/). Dieser Link führt zu einer vorhandenen Sammlung in Partner Center.
 
 Weitere Informationen finden Sie in der Datei **Dynamics CSP Offer Updates-May 2020**[](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) (Änderungen an Dynamics-CSP-Angeboten – Mai 2020), die Sie im entsprechenden Abschnitt herunterladen können.
 

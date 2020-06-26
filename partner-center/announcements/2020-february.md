@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: fccdb29090effaae9187778a0c243f051613e3c4
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253967"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749134"
 ---
 # <a name="february-2020-announcements"></a>Ankündigungen für Februar 2020
 
@@ -77,7 +77,10 @@ Das bedeutet, dass [Partnern jetzt zwei Möglichkeiten zur Verfügung stehen](ht
 
 Partner können über eine neue Funktionen auf dem Partner Center-Dashboard oder über [diese neue API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) überprüfen, ob Kunden der neuen Vereinbarung zugestimmt haben.
 
-Seit dem 1. Februar 2020 müssen Partner die Zustimmung ihrer Kunden zur Microsoft-Kundenvereinbarung bestätigen, um neue Bestellungen für CSP-Angebote in allen Regionen unter Microsoft Public Cloud aufzugeben. CSP-Partner können keine neuen Käufe tätigen (einschließlich Änderungen an der Anzahl der Arbeitsplätze oder Verlängerungen vorhandener Käufe), ohne über eine dieser Optionen zu bestätigen, dass ihre Kunden der Microsoft-Kundenvereinbarung zugestimmt haben. Hinweis: Automatische Verlängerungen sind nicht betroffen.
+Seit dem 1. Februar 2020 müssen Partner die Zustimmung ihrer Kunden zur Microsoft-Kundenvereinbarung bestätigen, um neue Bestellungen für CSP-Angebote in allen Regionen unter Microsoft Public Cloud aufzugeben. CSP-Partner können keine neuen Käufe tätigen (einschließlich Änderungen an der Anzahl der Arbeitsplätze oder Verlängerungen vorhandener Käufe), ohne über eine dieser Optionen zu bestätigen, dass ihre Kunden der Microsoft-Kundenvereinbarung zugestimmt haben.
+ 
+>[!Note] 
+>Automatische Verlängerungen sind nicht betroffen.
 
 ### <a name="next-steps"></a>Nächste Schritte:
 
@@ -166,7 +169,7 @@ _________________
 
 ### <a name="summary"></a>Zusammenfassung:
 
-Dies ist ein wichtiges Update für die [obligatorischen Sicherheitsanforderungen für Partner](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). Ab **29. Februar 2020** werden [„Basisrichtlinien“ aus Azure Active Directory (Azure AD) entfernt](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) und durch „Sicherheitsstandards“ ersetzt, einen umfassenderen Satz an Schutzrichtlinien für Sie und Ihre Kunden. Durch die Sicherheitsstandards in Azure AD kann Ihre Organisation durch vorkonfigurierte Sicherheitseinstellungen für allgemeine Angriffe geschützt werden.
+Dies ist ein wichtiges Update für die [obligatorischen Sicherheitsanforderungen für Partner](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). Ab **29. Februar 2020** werden [„Basisrichtlinien“ aus Azure Active Directory (Azure AD) entfernt](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) und durch „Sicherheitsstandards“ ersetzt, einen umfassenderen Satz an Schutzrichtlinien für Sie und Ihre Kunden. Durch die Sicherheitsstandards in Azure AD können Sie Ihr Unternehmen mithilfe vorkonfigurierter Sicherheitseinstellungen vor allgemeinen Angriffen schützen.
 
 In unserem System wird angezeigt, dass Ihre Organisation derzeit Basisrichtlinien verwendet und noch nicht auf Sicherheitsstandards umgestellt hat. **Wenn Sie vor dem 29. Februar nicht zu Sicherheitsstandards wechseln, können Sie nicht mehr auf die mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) zugreifen, die Sie über Basisrichtlinien in Ihren Partnermandanten eingerichtet haben. Aktivieren Sie Sicherheitsstandards so schnell wie möglich, um Unterbrechungen im Geschäftsalltag zu vermeiden.**
 
@@ -191,7 +194,9 @@ Partner, die derzeit die Basisrichtlinien verwenden:
 Indirekte Anbieter:
 
 - Informieren Sie Ihre Handelspartner im Microsoft CSP-Programm über diese Änderung (verwenden Sie dazu [diese E-Mail-Vorlage](https://assetsprod.microsoft.com/security-defaults-indirect-reseller-template.docx)). Stellen Sie sicher, dass Ihre Handelspartner die Sicherheitsstandards aktivieren, wenn sie derzeit die Basisrichtlinien verwenden.
-- Hinweis: Microsoft sendet direkte Mitteilungen an diejenigen Ihrer Handelspartner, die derzeit die Basisrichtlinien verwenden und in Partner Center ihre Kontaktinformationen hinterlegt haben.
+
+>[!Note] 
+>Microsoft sendet direkte Mitteilungen an diejenigen Ihrer Handelspartner, die derzeit die Basisrichtlinien verwenden und in Partner Center ihre Kontaktinformationen hinterlegt haben.
 
 Wenn Sie Fragen zu den Sicherheitsanforderungen für Partner haben, informieren Sie sich [hier](https://aka.ms/security-requirements) in unseren weiteren Ressourcen.
 
@@ -274,9 +279,8 @@ Mit der [neuen Handelsplattform für Azure in CSP](https://blogs.partner.microso
 - Partner können monatliche Wechselkurse für unterstützte Abrechnungswährungen abrufen (Azure-Plan).
 - Sie können Preise oder Wechselkurse für den aktuellen Monat oder die Vormonate abrufen.
 
-Hinweis:
-
-- Hierbei handelt es sich um eine neue API-Ressource, die speziell auf die Preise für Azure-Pläne ausgelegt ist.
+>[!Note] 
+>Hierbei handelt es sich um eine neue API-Ressource, die speziell auf die Preise für Azure-Pläne ausgelegt ist.
 - Die vorhandene [RateCard-API](https://docs.microsoft.com/partner-center/develop/get-prices-for-microsoft-azure) sollte weiterhin für vorhandene Azure-Ressourcen oder -Reservierungen verwendet werden, die in Azure-Abonnements bereitgestellt wurden, die nicht Teil eines Azure-Plans sind.
 - Diese APIs befinden sich an einem anderen Endpunkt (einer Domäne, die diese hostet) als die Partner Center-APIs.
 
@@ -345,7 +349,7 @@ _________________
 
 Im Oktober 2019 wurde die neue [Microsoft-Kundenvereinbarung](https://www.microsoft.com/licensing/docs/customeragreement) im Cloud Solution Provider-Programm (CSP) eingeführt. Sie ersetzt den bisherigen Microsoft Cloud-Vertrag. In der neuen, vereinfachten Kundenvereinbarung wurden die Kaufbedingungen für Kunden vereinheitlicht. Sie hängen also nicht mehr von der Kaufmethode ab.
 
-**Ab dem 1. Februar 2020 müssen alle Anbieter mit Direktabrechnung und alle indirekten Anbieter im CSP-Programm bestätigen, dass ihre Kunden die Microsoft-Kundenvereinbarung für alle CSP-Angebote im Rahmen von Microsoft Public Cloud akzeptieren.** Wenn Partner die neue Vereinbarung nicht im Namen ihrer Kunden akzeptieren, können sie ab diesem Datum keine neuen Käufe für Kunden mehr tätigen oder Arbeitsplätze ändern sowie bestehende Käufe verlängern. Hinweis: Die automatische Verlängerung ist davon nicht betroffen.
+**Ab dem 1. Februar 2020 müssen alle Anbieter mit Direktabrechnung und alle indirekten Anbieter im CSP-Programm bestätigen, dass ihre Kunden die Microsoft-Kundenvereinbarung für alle CSP-Angebote im Rahmen von Microsoft Public Cloud akzeptieren.** Wenn Partner die neue Vereinbarung nicht im Namen ihrer Kunden akzeptieren, können sie ab diesem Datum keine neuen Käufe für Kunden mehr tätigen oder Arbeitsplätze ändern sowie bestehende Käufe verlängern. Die automatische Verlängerung ist davon nicht betroffen.
 
 Partner können ihren Kunden die neue Vereinbarung genau wie den bisherigen Microsoft Cloud-Vertrag zukommen lassen. Sobald sich ein Kunde die Vereinbarung durchgelesen und akzeptiert hat, müssen Partner dies im Partner Center bestätigen. Die Webbenutzeroberfläche, die API und das .NET-SDK wurden in Partner Center aktualisiert, um die neue Vereinbarung zu unterstützen.
 
@@ -357,10 +361,8 @@ Auf [dieser Seite](https://partner.microsoft.com/resources/collection/Microsoft-
 - Partner, die APIs für den bestehenden Microsoft Cloud-Vertrag verwenden, müssen ihre vorhandene Implementierung mit der [aktualisierten API](https://docs.microsoft.com/partner-center/confirm-customer-agreement) überprüfen.
 - Informieren Sie Ihre Vertreter und Vertriebsmitarbeiter über die [neuen Bedingungen der Microsoft-Kundenvereinbarung](https://www.microsoft.com/licensing/docs/customeragreement), stellen Sie die neue Vereinbarung für Ihre Kunden zur Verfügung, und bestätigen Sie die Akzeptanz im Namen Ihrer Kunden.
 
-### <a name="note"></a>Hinweis:
-
-- Kunden müssen der Microsoft-Kundenvereinbarung im CSP-Programm zustimmen, wenn sie Käufe über die [neue Commerce-Funktion im CSP-Programm für Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) tätigen möchten, die seit November 2019 verfügbar ist.
-- Ab dem ersten Quartal des Kalenderjahres 2020 wird für Partner im CSP-Programm in Partner Center außerdem eine zusätzliche Option angezeigt, mit der Partner Kunden in ein authentifiziertes Microsoft-Portal einladen können (Microsoft 365 Admin Center). Dort können Kunden die Microsoft-Kundenvereinbarung direkt ansehen und akzeptieren.
+>[!NOTE] 
+>Kunden müssen der Microsoft-Kundenvereinbarung im CSP-Programm zustimmen, wenn sie Käufe über die [neue Commerce-Funktion im CSP-Programm für Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) tätigen möchten, die seit November 2019 verfügbar ist. Ab dem ersten Quartal des Kalenderjahres 2020 wird für Partner im CSP-Programm in Partner Center außerdem eine zusätzliche Option angezeigt, mit der Partner Kunden in ein authentifiziertes Microsoft-Portal einladen können (Microsoft 365 Admin Center). Dort können Kunden die Microsoft-Kundenvereinbarung direkt ansehen und akzeptieren.
 
 ### <a name="change-log"></a>Änderungsprotokoll:
 

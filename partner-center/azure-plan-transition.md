@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 05/04/2020
-ms.openlocfilehash: 073ee1a3f0cd90d3b10493a989d00dc1594505d6
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.date: 06/16/2020
+ms.openlocfilehash: 0629ddcee62040ecc1e5fca40689ede71f2b73ca
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452587"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908958"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Umstellen von Kunden von vorhandenen CSP-Azure-Angeboten auf einen Azure-Plan
 
@@ -41,11 +41,11 @@ Sie können einen Kunden auf der neuen E-Commerce-Benutzeroberfläche im Partner
 
 2. Wählen Sie **Abrechnung auf Azure-Plan umstellen** aus.
 
-   :::image type="content" source="images/azure/transition1.png" alt-text="Umstellung":::
+   :::image type="content" source="images/azure/transition1.png" alt-text="Screenshot: Informationen zum Bericht für nutzungsbasierte Abonnements mit einer auswählbaren Option namens: Abrechnung für das Azure-Abonnement in einen Azure-Plan umwandeln":::
 
 3. Wählen Sie **Weiter** aus.
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="Umstellung":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="Dialogfeld zum Umstellen auf einen Azure-Plan mit Informationen zu den Auswirkungen einer Umstellung und den beiden auswählbaren Optionen „Weiter“ oder „Abbrechen“":::
 
    Ihr Kunde wird auf den Azure-Plan umgestellt.
 
@@ -63,7 +63,7 @@ Sie können einen Kunden auf der neuen E-Commerce-Benutzeroberfläche im Partner
 
 4. Kehren Sie zu den Partner Center-**Abonnements** Ihres Kunden zurück, um seinen Budgetgrenzwert in der lokalen Währung des Kunden zu aktualisieren.
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="Umstellung":::
+   :::image type="content" source="images/azure/transition3.png" alt-text="Teilansicht der Seite für Partner Center-Abonnements mit den für einen Abrechnungszeitraum in der lokalen Währung festgelegten Budgetlimits":::
 
    >[!NOTE]
    >Das Budget, das Sie im Partner Center festgelegt haben, wird nicht in das Azure-Portal übertragen. Sie sollten das Budget und die Benachrichtigung auch im Azure-Portal festlegen.
@@ -77,7 +77,7 @@ Sie können einen Kunden auf der neuen E-Commerce-Benutzeroberfläche im Partner
 
 Folgen Sie dem Fortschritt der Umstellung im Azure-Portal sowie im Partner Center.
 
-:::image type="content" source="images/azure/details1.png" alt-text="Details anzeigen":::
+:::image type="content" source="images/azure/details1.png" alt-text="Screenshot: Tabelle mit einer Liste der Umstellungsdetails pro Abonnement, einschließlich Abonnement-ID, Umstellungsdatum und Umstellungsstatus":::
 
 ### <a name="billing-impact-to-partners"></a>Auswirkungen der Abrechnung auf Partner
 
@@ -100,7 +100,7 @@ Das Abonnement „Microsoft Azure“ (0145P) setzt sich aus zwei Teilen zusammen
 
 Nach Abschluss der Umstellung wird das Azure-Abonnement unter den neuen Azure-Plan verschoben, und das Commerce-Abonnement wird angehalten, sodass keine weitere Nutzung gemeldet wird.  
 
->[!Note]
+>[!NOTE]
 >Wenn das Microsoft Azure-Abonnement (0145P) in CSP erworben wird, weisen das Commerce-Abonnement und das Azure-Abonnement (Berechtigung) den gleichen Wert auf. Nur im Fall von Änderungen oder einer Übertragung des Abrechnungsbesitzes unterscheiden sich die Werte.
 
 ### <a name="transition-issues"></a>Probleme bei der Umstellung

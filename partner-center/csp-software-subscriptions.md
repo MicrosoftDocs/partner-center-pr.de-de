@@ -1,7 +1,7 @@
 ---
 title: Verkaufen von Softwareabonnements über CSP
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Partner im CSP-Programm Partner Center verwenden können, um reservierte Azure-Instanzen und Serverabonnements für Kunden zu erwerben, zu verwalten, zu verkaufen und zu stornieren.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Azure RI, Windows Server, SQL Server, Softwareabonnements, Stornieren von Software
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7901d3280cb5f9a1523b2974d4a462373b94e354
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 46d64a72ded1e9b165a84ede50c0baf695a816b7
+ms.sourcegitcommit: 11325c74d0c41316fb143beda603177241403b8c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907956"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "85267187"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vertreiben von Softwareabonnements über das CSP (Cloud Solution Provider)-Programm
 
@@ -28,7 +28,7 @@ ms.locfileid: "82907956"
 - Administrator-Agent
 - Globaler Administrator
 
-Durch Azure-Reservierungen und Serverabonnements können Partner im CSP-Programm die schnell wachsende Kundennachfrage nach kostengünstigeren Lösungen zur Unterstützung höchst vorhersehbarer, persistenter Cloudworkloads erfüllen. 
+Durch Azure-Reservierungen und -Serverabonnements (Windows Server- und SQL Server-Abonnements) können Partner im CSP-Programm die schnell wachsende Kundennachfrage nach kostengünstigeren Lösungen zur Unterstützung höchst vorhersagbarer, beständiger Cloudworkloads besser erfüllen. 
 
 Sie können jetzt Azure-Reservierungen und Serverabonnements im Auftrag von Geschäftskunden über das Partner Center und das Azure-Portal erwerben, bereitstellen und verwalten, indem Sie den Azure-Hybridvorteil nutzen.
 
@@ -36,10 +36,12 @@ Der Azure-Hybridvorteil hilft Ihnen, mehr Nutzen aus Ihren Windows Server-Lizenz
 
 ## <a name="azure-reservations-unavailable-markets"></a>Azure-Reservierungen: Märkte ohne Verfügbarkeit
 
->[!IMPORTANT] 
->Azure-Reservierungen sind in den folgenden Märkten *nicht* verfügbar:  
+>[!IMPORTANT]
+>Azure-Reservierungen sind in den folgenden Märkten **nicht** verfügbar:  
 >  
-> | Märkte ohne Verfügbarkeit | &nbsp; | &nbsp; |
+> **Nicht verfügbare Märkte (in alphabetischer Reihenfolge)**
+>
+> |A bis Gi   | Gr bis Pal  | Pap bis Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Ålandinseln     | Grönland     | Papua-Neuguinea     |
 > | Amerikanisch-Samoa     | Grenada     | Pitcairninseln     |
@@ -78,8 +80,6 @@ Der Azure-Hybridvorteil hilft Ihnen, mehr Nutzen aus Ihren Windows Server-Lizenz
 > | Gabun     | Norfolkinsel     | Jemen   |
 > | Gambia     | Nördliche Marianen     |    |
 > | Gibraltar     | Palau       |    |
-<!--Nov 30, 2019 - this list of countries was correct as of today.
--->
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Kaufen von Softwareabonnements im Auftrag von Kunden
 
@@ -114,6 +114,10 @@ Nachdem Sie das Softwareabonnement erworben haben, führen Sie die folgenden Sch
 
 >[!NOTE]
 >Dieser Link läuft nach zwei Wochen bzw. 50 Downloads ab, je nachdem, was zuerst eintritt. Kehren Sie nach Ablauf des Links zu dieser Seite zurück, und wählen Sie erneut **Schlüssel und Downloads abrufen** aus, um ihn für weitere zwei Wochen oder 50 Downloads zu aktivieren. Sie können dies beliebig oft tun. 
+
+## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Downloads und Lizenzschlüssel für Serverabonnements, die Kunden über das Microsoft 365 Admin Center zur Verfügung stehen 
+
+Ihre Kunden können Lizenzschlüssel und Downloads für CSP-Serverabonnements aus dem Microsoft 365 Admin Center abrufen. Um Lizenzschlüssel und Downloads für CSP-Serverabonnements anzuzeigen, muss der Kunde im Microsoft 365 Admin Center die Optionen **Abrechnung > Ihre Produkte > Registerkarte „Software“** aufrufen. Weitere Informationen finden Sie auf der [Registerkarte „Software“ unter „Abrechnung“](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview?view=o365-worldwide#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Anzeigen der Aktivitäten für Zugriff auf Softwareschlüssel und Softwaredownloads
 
@@ -173,7 +177,9 @@ Wenn Sie versuchen, eine Bestellung zu stornieren, werden von Partner Center mö
 - Wenn wir weitere Informationen zu ihrer Stornierungsanfrage benötigen, erhalten Sie möglicherweise einen Link zu einem Formular mit einer **Kundensupportanfrage**.
 
 >[!IMPORTANT]
->Nachdem Sie eine Bestellung storniert haben, wird eine Meldung angezeigt, mit der die Stornierung bestätigt wird. Es kann jedoch eine Verzögerung von bis zu 15 Minuten eintreten, bis die Stornierung im Partner Center-Dashboard angezeigt wird. Beachten Sie auch die folgenden Details nach der Stornierung.
+>Nachdem Sie eine Bestellung storniert haben, wird eine Meldung angezeigt, mit der die Stornierung bestätigt wird. Es kann jedoch eine Verzögerung von bis zu 15 Minuten eintreten, bis die Stornierung im Partner Center-Dashboard angezeigt wird. 
+
+### <a name="post-cancellation-details"></a>Details nach der Stornierung
 
 Nach dem Stornieren eines Einkaufs:
 
@@ -187,9 +193,9 @@ Nach dem Stornieren eines Einkaufs:
 
 Wenn Sie versucht haben, einen Softwarekauf über Partner Center zu stornieren, aber aufgefordert wurden, weitere Informationen bereitzustellen und ein Formular für eine Kundensupportanfrage auszufüllen, können diese Schritte hilfreich sein:
 
-1. Wenn Sie den Link **Kundensupportanfrage** im Fenster „Kauf stornieren“ auswählen, wird die Seite „Problem mit Partner Center melden“ geöffnet.
+1. Wenn Sie den Link **Kundensupportanfrage** im Fenster „Kauf stornieren“ auswählen, wird die Seite **Problem mit Partner Center melden** geöffnet.
 
-2. Wählen Sie unter „Details“ in der Liste „Art des Problems“ die Option **CSP-Kauf/Rückerstattung im Auftrag der Kunden** aus.
+2. Wählen Sie unter **Details** in der Liste „Art des Problems“ die Option **CSP-Kauf/Rückerstattung im Auftrag der Kunden** aus.
 
 3. Füllen Sie die Felder „Auswirkungen“ und „Titel“ aus.
 
@@ -208,3 +214,9 @@ Wenn Sie versucht haben, einen Softwarekauf über Partner Center zu stornieren, 
 6. Wenn Sie aus einem beliebigen Grund eine Datei anfügen möchten, wählen Sie **Dateien hinzufügen** aus. Dieser Schritt ist optional.
 
 7. Wenn Sie fertig sind, klicken Sie auf **Senden**.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Verkaufen von Kundenabonnements für Produkte im kommerziellen Marketplace über das Partner Center](sell-marketplace-products.md)
+ 
+- [Zuweisen von Azure-Abonnements zu Kunden im Partner Center](assign-azure-subscriptions.md)

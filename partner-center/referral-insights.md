@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Weiterleitung, analysieren, Analyse, Metrik, Konvertierung
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c13f2e6d8500b715aa29fb3f0178e7ed020062a
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 4ffe5c7a485749d138be09fb5740d9b15970a546
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467450"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679427"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>In Partner Center erhalten Sie Erkenntnisse zu Empfehlungen und Informationen zur Entwicklung Ihrer Empfehlungen.
 
@@ -39,13 +39,13 @@ Ferner lässt sich „Filter“ erweitern, um alle Daten auf dieser Seite nach M
   - **Marketingqualifizierung**: Von den Marketingsystemen von Microsoft erstellt.
   - **Vertriebsqualifizierung**: Von einem Microsoft-Vertriebsmitarbeiter erstellt.
   - **Nicht qualifiziert**: Eine Empfehlung, der kein Qualitätsmeasure zugeordnet ist.
-- **Empfehlungstyp**: Der Standardwert ist **Alle**, Sie können sich aber entscheiden, die Daten entweder auf **Unabhängige** Empfehlungen (bei denen Sie direkt mit dem Kunden am Abschluss arbeiten) oder auf **Co-Selling**-Empfehlungen (bei denen weitere Parteien beteiligt sind, die mit dem Kunden am Abschluss arbeiten) einschränken.
+  - **Empfehlungstyp**: Der Standardwert ist **Alle**, Sie können sich aber entscheiden, die Daten entweder auf **Unabhängige** Empfehlungen (bei denen Sie direkt mit dem Kunden am Abschluss arbeiten) oder auf **Co-Selling**-Empfehlungen (bei denen weitere Parteien beteiligt sind, die mit dem Kunden am Abschluss arbeiten) einschränken.
 
 Die Informationen in allen unten angezeigten Diagrammen beziehen sich auf den ausgewählten Zeitraum und alle von Ihnen ausgewählten Filter, abgesehen von den unten aufgeführten Ausnahmen. Einige Abschnitte ermöglichen außerdem das Anwenden weiterer Filter, beispielsweise, wenn nach einer bestimmten Lösung gefiltert werden soll.
 
 ## <a name="referrals-summary"></a>Zusammenfassung der Empfehlungen
 
-Dieses Diagramm stellt die Leistung Ihrer Empfehlungen als Übersicht dar. Beachten Sie, dass auf dieses Diagramm nur die Datumsbereichsfilter angewendet werden; keiner der sonstigen Filter wird angewendet. 
+Dieses Diagramm stellt die Leistung Ihrer Empfehlungen als Übersicht dar. Auf dieses Diagramm werden nur die Datumsbereichsfilter und keine anderen Filter angewendet. 
 
 Das Diagramm zeigt die Gesamtzahl der Empfehlungen, die Anzahl der gewonnenen Empfehlungen und das Gesamthandelsvolumen (in USD) für den ausgewählten Zeitraum an. Durch Erweitern des Diagramms können zusätzliche Daten dargestellt werden, wie etwa die Aufschlüsselung nach Empfehlungsquelle und Empfehlungsrichtung. 
 

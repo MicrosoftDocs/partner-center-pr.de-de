@@ -3,20 +3,20 @@ title: Überprüfen von Partnerprofilen
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Ihre Unternehmensdetails überprüfen, z. B. den primären Kontakt-, die Adresse und Programminformationen. Sie können auch ihre rechtlichen Adressen und Abrechnungsadressen aktualisieren.
-ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: conceptual
 ms.localizationpriority: high
-ms.date: 03/23/2020
-ms.openlocfilehash: 5b0cc51ea3ab7e8984876f9d638c4af6e7213abe
-ms.sourcegitcommit: c1d93605a87ecdbeedc98c7fbb9c428752c5cbd7
+ms.date: 06/05/2020
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c2534a13d2b24acd689a12476590f8f607c678e2
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "82595386"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991983"
 ---
-# <a name="verify-your-partner-profile-information"></a>Überprüfen von Partnerprofilinformationen
+# <a name="verify-your-partner-profile-information-in-partner-center"></a>Überprüfen von Partnerprofilinformationen im Partner Center
 
 Wenn Sie sich zum ersten Mal bei Partner Center als globaler Administrator anmelden, sollten Sie bestätigen, dass alle Unternehmensdetails richtig sind. Hierzu gehören der primäre Kontakt, der rechtliche Geschäftsname und die Adresse sowie Programminformationen. Wenn Ihr Unternehmen mehr als einen Standort hat, überprüfen Sie Ihre Standortdaten auf Richtigkeit. Als globaler Administrator, Abrechnungsadministrator oder Administrator-Agent können Sie auch Ihre Abrechnungs- und Steuerinformationen einsehen und aktualisieren.
 

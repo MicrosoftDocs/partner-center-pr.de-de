@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie Sie einzelne oder mehrere Azure-Abonnements und Azure-Reservierungen im Azure-Plan erwerben, Ressourcen konfigurieren sowie Abonnements anzeigen oder hinzufügen.
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b40851ae718bc3efdc416c633ad4ed54c802f75
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 711a787fd6ebd3494eb2b975aee338494728aa89
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467520"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909128"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Erwerben Sie den Azure-Plan für Kunden und greifen Sie auf die neuesten Azure-Dienste zu nutzungsbasierten Tarifen zu.
 
@@ -78,7 +77,8 @@ Azure-Reservierungen müssen einem aktiven Azure-Abonnement zugeordnet werden. W
 >[!Important] 
 >Wenn der Kunde noch keinen aktiven Azure-Plan besitzt, wähle Azure aus, um jetzt einen hinzuzufügen. Weitere Anweisungen finden Sie unter [Kaufen von Azure-Reservierungen](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
 
-Der Umfang der Reservierung kann derzeit nur auf **Freigegeben** festgelegt werden. 
+>[!Note] 
+>Der Umfang der Reservierung kann derzeit nur auf **Freigegeben** festgelegt werden. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Einstellung „Freigegeben“ für den Umfang der Reservierungen":::
 

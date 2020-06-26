@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Produkt hinzufügen, an Kunden verkaufen, Partnerangebote, CSP-Angebote, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner, in CSP verkaufen, Azure RI, Azure Reserved Virtual Machine Instances, Azure-Reservierungen, Onlinedienste, Abonnementsoftware, AHUB, SQL Server in Azure, Windows Server in Azure, Kundenabonnements
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73313831bd1536e7f102520b1fd0df4606aa56dc
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 32d89ec53eb11f661758e008c9566fbdac9f383e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467240"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679017"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Übersicht über Partnerangebote im Cloud Solution Provider-Programm
 
@@ -62,9 +62,12 @@ Derzeit können Sie Ihren CSP-Kunden die folgenden Arten von Produkten und Diens
 
    Sie können für SaaS-Produkte von unabhängigen Softwareanbietern (ISVs) Abonnements verkaufen. Um unter **Onlinedienste** nur SaaS-Angebote zu finden, legen Sie mithilfe der Filter **Herausgeber** auf **Partner** fest. Dadurch werden alle SaaS-Angebote angezeigt, die für diesen Kunden erworben werden können.
 
-   Informationen zu diesen Produkten finden auch auf der Seite **Marketplace**. Beachten Sie, dass diese Seite auch Informationen zu anderen Arten von Produkten enthält, die über das Azure-Portal und nicht über das Partner Center erworben werden müssen.
+   Informationen zu diesen Produkten finden auch auf der Seite **Marketplace**.
 
-   Weitere Informationen finden Sie unter [Übersicht über den kommerziellen CSP-Marketplace](CSP-commercial-marketplace-overview.md).
+>[!NOTE] 
+>Diese Seite enthält auch Informationen zu anderen Arten von Produkten, die über das Azure-Portal und nicht über das Partner Center erworben werden müssen.
+
+Weitere Informationen finden Sie unter [Übersicht über den kommerziellen CSP-Marketplace](CSP-commercial-marketplace-overview.md).
 
 ## <a name="add-products-page-details"></a>Details der Seite „Produkte hinzufügen“
 
@@ -88,7 +91,7 @@ Die folgende Liste identifiziert jeden der neuen Bereiche auf der Seite **Produk
 
 Um Produkte und Dienstleistungen im Auftrag Ihrer CSP-Kunden zu kaufen, wählen Sie die Artikel aus, die der Kunde wünscht. Fügen Sie sie Ihrem Einkaufswagen hinzu, wodurch eine Bestellung erstellt wird, prüfen Sie dann die Bestellung, und senden Sie sie ab. Der allgemeine Ablauf wird im Folgenden beschrieben. (Weitere Informationen zu Bestellungen eines bestimmten Produkttyps finden Sie über die obigen Links.)
 
->[!Note]
+>[!NOTE]
 >Ein CSP-Angebot muss sowohl im Land des Mandanten als auch im Land des Mandanten des Kunden verfügbar sein. Wenn sich dein Mandant beispielsweise in der Slowakei und der Mandant des Kunden in Deutschland befindet, kannst du Dynamics 365 Business Central Premium nicht an diesen Kunden verkaufen, da dieses Angebot zurzeit nicht in der Slowakei verfügbar ist.
 
 1. Wählen Sie **Kunden** im Menü „Partner Center“ aus, und suchen Sie den Kunden, der bei Ihnen kaufen möchte. 
@@ -110,6 +113,23 @@ Um Produkte und Dienstleistungen im Auftrag Ihrer CSP-Kunden zu kaufen, wählen 
 ## <a name="rules-for-special-segments"></a>Regeln für spezielle Segmente
 
 Einige lizenzbasierte Angebote können nur unter bestimmten Bedingungen erworben werden. Zu den speziellen Segmentangeboten gehören Education-, Non-Profit- und GCC-Angebote (Government Community Cloud). Details zu diesen Kaufbedingungen finden Sie im Thema [Kaufregeln für spezielle Segmente](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
+
+## <a name="troubleshooting-catalog-purchases"></a>Problembehandlung bei Katalogkäufen
+
+Es kann verschiedene Gründe dafür geben, dass Sie das von Ihnen gesuchte Angebot im Katalog nicht finden. Prüfen Sie die folgenden Punkte, wenn Sie das erwartete Angebot nicht finden können.
+
+- **Vergewissern Sie sich, dass Ihr Kunde qualifiziert ist**. Bei vielen Angeboten müssen Kunden besondere Qualifikationen erwerben. Zu den speziellen Segmenten gehören Education-, Non-Profit- und GCC (Government Community Cloud)-Angebote. Bevor Sie ein Problem protokollieren, überprüfen Sie zunächst, ob die Qualifikationen des Kunden entsprechend festgelegt sind. Sie können dies überprüfen, indem Sie in der Kundenliste auf den Kunden klicken und das Konto anzeigen. Für das Konto ist ggf. eine besondere Qualifikation festgelegt. Wenn Sie ein Bildungsangebot für einen Kunden erwerben möchten, der nicht qualifiziert ist, werden diese Angebote im Katalog nicht angezeigt. Weitere Informationen zum Qualifizieren Ihrer Kunden finden Sie in der [Dokumentation zu speziellen Segmenten](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers).
+- **Entscheiden Sie, ob Sie ein Add-On oder ein Basisangebot erwerben**. Viele lizenzbasierte Dienste wie Microsoft 365 und Dynamics 365 unterstützen sowohl Katalogkäufe von Basisangeboten als auch von Add-Ons. Im Katalog können nur Basisangebote erworben werden. Um Add-Ons zu erwerben, müssen Sie zunächst das Basisangebot im Katalog erwerben, dann den Kunden aus der Kundenliste auswählen und anschließend das Abonnement für das Basisangebot auswählen. Add-Ons können auf dieser Seite für die Abonnementverwaltung auf das Basisangebot angewendet werden. 
+- **Vergewissern Sie sich, dass die Produkte auf Ihrem Markt verfügbar sind**. Viele Produkte und Dienste sind so konfiguriert, dass sie nur an Kunden in bestimmten Ländern verkauft werden dürfen. Sie finden die Liste der unterstützten Länder in den verschiedenen Preislistendateien. Unterstützte Länder für lizenzbasierte Dienste sind in der Angebotslistenmatrix auf der Seite „Preise und Angebote“ enthalten.
+- **Vergewissern Sie sich, dass die Angebote in der Preisliste verfügbar sind**. Die Liste der verfügbaren Angebote kann sich von Monat zu Monat ändern. Wenn Sie ein Angebot im Katalog nicht finden, vergewissern Sie sich, dass es in den aktuellen Preislisten auf der Seite **Verkaufen > Preise und Angebote** verfügbar ist.
+
+### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Empfohlene Dokumente zum Kauf von Artikeln im Partner Center
+
+- [Preise und Angebote im Partner Center](https://docs.microsoft.com/partner-center/pricing-and-offers)
+- [Übersicht über Partnerangebote im Cloud Solution Provider-Programm](https://docs.microsoft.com/partner-center/csp-offers)
+- [Verkaufen von Angeboten an Kunden im Bildungswesen und Erstellen eines Kunden aus dem Bildungswesen](https://docs.microsoft.com/partner-center/sell-to-education-customers)
+- [Verkaufen an spezielle Branchen wie Bildungseinrichtungen, gemeinnützige Organisationen und Behörden](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
+- [Einkaufsregeln für spezielle Segmente](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers#purchase-rules-for-special-segments)
 
 ## <a name="next-steps"></a>Nächste Schritte
 

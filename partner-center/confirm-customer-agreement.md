@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Kunden, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Microsoft-Kundenvertrag, Vorlagen für Kundenverträge
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6d67c7e970d042704e1cc1c731d6ae1e85d6687
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0d89c625375c203fe77556c47b6061faa293e1b0
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453267"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679107"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung im CSP-Partnerprogramm
 
@@ -128,7 +128,10 @@ Mit den folgenden Schritten kannst du einen neuen Kunden im Partner Center erste
 
 3. Wähle unter **Kundenvereinbarung** die erste Option aus: **Customer will be asked to accept the Microsoft Customer Agreement in Microsoft 365 Admin Center** (Der Kunde wird aufgefordert, der Microsoft-Kundenvereinbarung im Microsoft 365 Admin Center zuzustimmen). Fülle alle weiteren Pflichtfelder auf der Seite aus.
 
-4. Wählen Sie **Weiter: Überprüfung** aus und führen Sie dann die Schritte zum Erstellen des Kundenmandanten aus. (Anmerkung: Neue Kunden können erst einen neuen Kauf tätigen, nachdem sie der Microsoft-Kundenvereinbarung zugestimmt haben.)  
+4. Wählen Sie **Weiter: Überprüfung** aus und führen Sie dann die Schritte zum Erstellen des Kundenmandanten aus. 
+
+>[!NOTE] 
+>Neue Kunden können erst einen neuen Kauf tätigen, nachdem sie der Microsoft-Kundenvereinbarung zugestimmt haben.  
 
    :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Erstellen eines neuen Kunden":::
 

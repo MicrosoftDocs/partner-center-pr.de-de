@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4437d3afd408810c9770e532950fc2661228eb62
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 773466a1c7bfb8a091be11f8e825dae6cc90b765
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453237"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679087"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Leitfaden zum Migrieren von PMC zu Partner Center
 
@@ -27,7 +27,7 @@ Die Microsoft-Partner-Website unter „partner.microsoft.com“ ist ein einheitl
 
 Das Partner Membership Center (PMC) wird außer Betrieb gesetzt. Ihr Unternehmen wurde eingeladen, Ihre Microsoft Partner Network-Mitgliedschaftsverwaltung auf Partner Center umzustellen. In dieser Anleitung werden Sie darauf vorbereitet, was zu erwarten ist, wenn Sie den Wechsel von PMC zu Partner Center durchführen.
 
->[!Note]
+>[!NOTE]
 >Auch wenn Ihr Unternehmen mehrere Konten oder Standorte hat, beginnt der Wechsel zu Partner Center mit dem Verschieben eines (Ihres ersten) Kontos in Partner Center.
 
 ## <a name="get-started"></a>Erste Schritte
@@ -51,7 +51,7 @@ Wählen Sie in Ihrer Einladung **Erste Schritte** aus. Daraufhin wird die Partne
 
 Wenn Ihr Unternehmen keine geschäftliche E-Mail-Adresse und keinen AAD-Mandanten aufweist, können wir Ihnen während des Partner Center-Anmeldevorgangs helfen, eine Adresse und einen Mandanten einzurichten. Wenn Sie versuchen, sich mit einem E-Mail-Konto anzumelden, das keiner geschäftlichen E-Mail-Adresse entspricht (z. B. Ihrem persönlichen Konto), werden Sie aufgefordert, Informationen zu Ihrem Unternehmen anzugeben, damit wir einen AAD-Mandanten und eine geschäftliche E-Mail-Adresse einrichten können. Weil diese Unternehmensdetails zum Fertigstellen Ihres Kontos in Partner Center verwendet werden, sorgen Sie dafür, dass sie korrekt sind.
 
->[!Note]
+>[!NOTE]
 >Wenn Sie ein Partner in China sind und sowohl im Microsoft Partner Network als auch im Cloud Solution Provider-Programm (CSP) registriert sind, haben Sie einen separaten Mandanten für jedes Konto. Ihr Konto mit dem Cloud Solution Provider-Programm wird in der nationalen Cloud verwaltet und Ihr Microsoft Partner Network-Konto in der globalen Cloud. Die beiden Konten können nicht verknüpft werden.
 
 :::image type="content" source="images/migration/newtellusabout.png" alt-text="Machen Sie einige Angaben zu Ihrem Unternehmen":::
@@ -74,11 +74,16 @@ Nachdem Ihr neuer Azure AD-Mandant erstellt wurde, können Sie Ihre Mitarbeiter 
 
 :::image type="content" source="images/migration/invite.png" alt-text="Einladen von Mitarbeitern":::
 
-Falls Sie sich bei einem vorhandenen AAD-Mandanten angemeldet haben, wurden Ihre Mitarbeiter zusammen mit Ihnen verschoben. Weisen Sie in diesem Fall Ihren Mitarbeitern Rollen zu, die festlegen, welche Berechtigungen sie in Partner Center haben. Hinweis: Rollen in Partner Center unterscheiden sich von Rollen in PMC. Weitere Informationen finden Sie unter [Wechsel von PMC zu Partner Center](move-pmc-pc-map.md).
+Falls Sie sich bei einem vorhandenen AAD-Mandanten angemeldet haben, wurden Ihre Mitarbeiter zusammen mit Ihnen verschoben. Weisen Sie in diesem Fall Ihren Mitarbeitern Rollen zu, die festlegen, welche Berechtigungen sie in Partner Center haben. 
+
+>[!NOTE] 
+>Rollen in Partner Center unterscheiden sich von Rollen in PMC. Weitere Informationen finden Sie unter [Wechsel von PMC zu Partner Center](move-pmc-pc-map.md).
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>Überprüfen Ihrer Domäne und ein globaler Administrator werden  
 
-Sollte Ihr AAD-Mandant neu sein, wurde niemandem die Rolle „globaler Administrator“ zugewiesen. Wenn Sie der globale Administrator werden möchten, müssen Sie Ihren Domänenbesitz überprüfen. Möglicherweise müssen Sie dazu den Domänenadministrator um Hilfe bitten. Beachten Sie: Während Sie bereits erworbene Angebote sofort nutzen können, können Sie neue Angebote erst dann erwerben, nachdem Sie den Schritt „ein globaler Administrator werden“ abgeschlossen haben.
+Sollte Ihr AAD-Mandant neu sein, wurde niemandem die Rolle „globaler Administrator“ zugewiesen. Wenn Sie der globale Administrator werden möchten, müssen Sie Ihren Domänenbesitz überprüfen. Möglicherweise müssen Sie dazu den Domänenadministrator um Hilfe bitten.
+
+Während Sie bereits erworbene Angebote sofort nutzen können, können Sie neue Angebote erst dann erwerben, nachdem Sie den Schritt zum Zuweisen eines globalen Administrators abgeschlossen haben.
 
 :::image type="content" source="images/migration/takecontrol.png" alt-text="Übernehmen der Kontrolle":::
 

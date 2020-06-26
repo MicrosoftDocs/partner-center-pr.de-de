@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Standorten im Partnerkonto
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie im Partner Center, wie Sie einen neuen Standort hinzufügen und wie die Standort-MPN-ID in Incentive-Programmen, CSP-Geschäftsaktionen, Abonnements und anderen Transaktionen verwendet wird.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Partner-Konto, Standorte
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 943299cc4c68a6252c69a96204ef6001b89eda09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 6cce4b38cb27d8cef88f71ced6fe985631a24914
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453207"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909058"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>Verwalten von Partnerkonto-Standorten im Partner Center und Hinzufügen eines neuen Standorts
 
@@ -54,12 +54,12 @@ Die Rollen von Benutzern können sich über mehrere Standorte erstrecken. So kan
 
 1. Überprüfen Sie auf der Seite **Standorte** die Liste der Standorte, um sicherzustellen, dass der Standort, den Sie als juristische Entität wünschen, aufgeführt ist. Wenn dies nicht der Fall ist, fügen Sie ihn hinzu.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Aktualisieren des Geschäftsstandorts":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Screenshot: Liste aller aktuellen Standorte auf der Seite mit den Standorten für Partner Center-Konten":::
 
 2. Wählen Sie **Partnerprofil** aus, und wählen Sie dann **Firmenprofil aktualisieren** aus.
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Aktualisieren des Geschäftsstandorts":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Screenshot: Partner Center-Konto mit Informationen zum Partnerprofil und auswählbarer Aktualisierungsoption":::
 
 3. Wählen Sie die Region und die juristische Entität aus, und klicken Sie auf **Senden**.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Aktualisieren des Geschäftsstandorts":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Screenshot zum Aktualisieren des rechtlichen Geschäftsprofils des Partners einschließlich Dropdownlisten, über die das Land oder die Region und die juristische Person aktualisiert werden können":::

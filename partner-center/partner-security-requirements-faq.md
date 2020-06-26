@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure Active Directory, Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Control Panel-Anbieter, CPV, mehrstufige Authentifizierung, MFA, sicheres Anwendungsmodell, sicheres App-Modell, Sicherheit
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a0e318ccc7ea2ff3fa0d50fbc1514682ca9566a5
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 203afa3fd238222e902a06ac3c173876e185f025
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328271"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679271"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Häufig gestellte Fragen zu den Sicherheitsanforderungen für Partner
 
@@ -208,11 +208,17 @@ Control Panel-Anbieter müssen das [Onboarding](https://docs.microsoft.com/partn
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Muss das sichere Anwendungsmodell nur für die Partner Center-API bzw. das Partner Center SDK implementiert werden?
 
-Das Erzwingen der mehrstufigen Authentifizierung für alle Benutzerkonten wirkt sich auf jede Automatisierung oder Integration aus, die für die nicht interaktive Ausführung vorgesehen ist. Gemäß den Partnersicherheitsanforderungen muss das sichere Anwendungsmodell für die Partner Center API aktiviert werden. Das Modell kann aber auch genutzt werden, um eine Zwei-Faktor-Authentifizierung mit Automatisierung und Integration einzurichten. Dabei muss die Ressource, auf die zugegriffen wird, die zugriffstokenbasierte Authentifizierung unterstützen.
+Das Erzwingen der mehrstufigen Authentifizierung für alle Benutzerkonten wirkt sich auf jede Automatisierung oder Integration aus, die für die nicht interaktive Ausführung vorgesehen ist. Gemäß den Partnersicherheitsanforderungen muss das sichere Anwendungsmodell für die Partner Center API aktiviert werden. Das Modell kann aber auch genutzt werden, um eine Zwei-Faktor-Authentifizierung mit Automatisierung und Integration einzurichten. 
+
+>[!Note] 
+>Ressourcen, auf die zugegriffen wird, müssen die zugriffstokenbasierte Authentifizierung unterstützen.
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>Ich verwende Automatisierungstools wie z. B. PowerShell. Wie implementiere ich das sichere Anwendungsmodell?
 
-Wenn deine Automatisierung nicht interaktiv ausgeführt werden soll und sie Benutzeranmeldeinformationen zur Authentifizierung verwendet, musst du das sichere Anwendungsmodell implementieren. Informationen zur Implementierung dieses Frameworks findest du unter [Sicheres Anwendungsmodell | Partner Center PowerShell](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5).  Hinweis: Nicht alle Automatisierungstools bieten die Möglichkeit zur Authentifizierung mit Zugriffstoken. Wenn du genauere Informationen dazu benötigst, welche Änderungen erforderlich sind, sende eine Nachricht an die Gruppe [Partner Center Security Guidance](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance). 
+Wenn deine Automatisierung nicht interaktiv ausgeführt werden soll und sie Benutzeranmeldeinformationen zur Authentifizierung verwendet, musst du das sichere Anwendungsmodell implementieren. Informationen zur Implementierung dieses Frameworks findest du unter [Sicheres Anwendungsmodell | Partner Center PowerShell](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5).  
+
+>[!Note] 
+>Nicht alle Automatisierungstools ermöglichen die Authentifizierung mit Zugriffstoken. Wenn du genauere Informationen dazu benötigst, welche Änderungen erforderlich sind, sende eine Nachricht an die Gruppe [Partner Center Security Guidance](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance). 
 
 ### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>Welche Benutzeranmeldeinformationen sollte der Anwendungsadministrator beim Durchführen des Zustimmungsprozesses bereitstellen?
 
@@ -238,7 +244,9 @@ Wenn CPVs den Registrierungslink erhalten möchten, müssen sie [CPVHelp@microso
 
 Nachdem du dich bei Partner Center angemeldet und deine Anwendungen registriert hast, kannst du auf Partner Center-APIs zugreifen. Neue CPVs erhalten die Informationen zu ihrer Sandbox über eine Partner Center-Benachrichtigung. Nach der Registrierung als Control Panel-Anbieter für Microsoft und Zustimmung zur CPV-Vereinbarung stehen dir folgende Möglichkeiten zur Verfügung:
 
-1. Verwalten von Mehrinstanzenanwendungen (Anwendungen im Azure-Portal hinzufügen, Anwendungen in Partner Center registrieren und deren Registrierung aufheben). Hinweis: CPVs müssen ihre Anwendungen in Partner Center registrieren, um die Autorisierung für Partner Center-APIs zu erhalten. Das Hinzufügen von Anwendungen in das Azure-Portal allein reicht nicht aus, um CPV-Anwendungen für Partner Center-APIs zu autorisieren.
+1. Verwalten von Mehrinstanzenanwendungen (Anwendungen im Azure-Portal hinzufügen, Anwendungen in Partner Center registrieren und deren Registrierung aufheben). 
+     >[!Note] 
+     >CPVs müssen ihre Anwendungen in Partner Center registrieren, um die Autorisierung für Partner Center-APIs zu erhalten. Das Hinzufügen von Anwendungen in das Azure-Portal allein reicht nicht aus, um CPV-Anwendungen für Partner Center-APIs zu autorisieren.
 2. Anzeigen und Verwalten deines CPV-Profils.
 3. Anzeigen und Verwalten Ihrer Benutzer, die Zugriff auf CPV Funktionen benötigen. Die einzige Rolle eines CPVs ist der globale Administrator.
 

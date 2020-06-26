@@ -1,22 +1,22 @@
 ---
 title: Erstellen eines Partner Center-Kontos
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Erfahren Sie, wie Mitglieder im Microsoft Partner Network ein Geschäftsprofil und Partner Center-Konten erstellen können, um ihre Netzwerkvorteile und Kompetenzen zu verwalten.
+description: Erfahren Sie, wie Mitglieder im Microsoft Partner Network ein Partner Center-Konto erstellen können, um ihre Netzwerkvorteile und Kompetenzen zu verwalten.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dbfbe23c84542e9164ba3ddfda811add34962fdc
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: bb703eac9e609badbc71f53bb9561a363f3a76f8
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795734"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603819"
 ---
-# <a name="create-a-business-profile-and-partner-center-account-to-manage-network-benefits-and-competencies"></a>Erstellen eines Geschäftsprofils und eines Partner Center-Kontos zum Verwalten von Netzwerkvorteilen und Kompetenzen
+# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Erstellen eines Partner Center-Kontos zum Verwalten von Netzwerkvorteilen und Kompetenzen
 
 **Geeignete Rollen**
 

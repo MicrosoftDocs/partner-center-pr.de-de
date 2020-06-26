@@ -1,20 +1,21 @@
 ---
-title: Microsoft-Kundenvereinbarung – Kundenvorlagen | Partner Center
+title: Vorlagen für die Microsoft-Kundenvereinbarung
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Hier erfährst du, wo du regions- und sprachspezifische Versionen der Microsoft-Kundenvereinbarung finden und herunterladen kannst, um sie gemeinsam mit deinen Kunden zu überprüfen.
+description: Erfahren Sie, wo Sie regions- und sprachspezifische Versionen der Microsoft-Kundenvereinbarung finden und herunterladen können, um sie gemeinsam mit Ihren Kunden zu überprüfen.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Microsoft-Kundenvereinbarungen, Vorlagen für Kundenvereinbarungen, CSP-Vereinbarungen für Kunden, Microsoft-Kundenvereinbarung, Microsoft Cloud Agreement, MCA, CSP, wo kann ich über CSP verkaufen?, CSP-Länder und -Regionen, CSP-MCAs in mehreren Sprachen, CSP Nordamerika, CSP Mittelamerika, CSP Südamerika, CSP Karibik, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud Deutschland, CSP Naher Osten, CSP Afrika, CSP Europa, CSP Asien, CSP Pazifik, CSP-MCAs
 ms.localizationpriority: high
-ms.openlocfilehash: f60bcdd5c986e825089144ff4b908ed5b779a735
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 9bd4bc77c6afcd1efcb112fc45328150c54d7413
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798638"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198588"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Microsoft-Kundenvereinbarungen nach Region und Sprache
 
@@ -38,12 +39,6 @@ Bevor du eine Bestellung im Auftrag eines Kunden aufgeben kannst, muss der Kunde
 Die Microsoft-Kundenvereinbarungen sind regionsspezifisch und in mehreren Sprachen verfügbar. Suchen Sie in einer der folgenden Listen nach dem Standort und der bevorzugten Sprache des Kunden, um den richtigen Vertrag herunterzuladen.
 
 Wenn Sie nicht sicher sind, in welchen Regionen und auf welchen Märkten Sie Verkäufe tätigen können, suchen Sie in der folgenden Liste nach dem Standort Ihres Unternehmens: [Regionale Märkte und Währungen des Cloud Solution Provider-Programms](regional-authorization-overview.md).
-
-<!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
-
-> [!NOTE]  
-> The Microsoft Customer Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
--->
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>Nordamerika, Mittelamerika, Südamerika und Karibik
 
@@ -180,13 +175,6 @@ Wenn Sie nicht sicher sind, in welchen Regionen und auf welchen Märkten Sie Ver
 - Ukraine: [Englisch](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [Ukrainisch](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_UKR_Sep20172_CR.pdf) 
 - Vereinigtes Königreich: [Englisch](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Vatikanstadt: [Englisch](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
-
-<!--
-November 5, 2018 - commenting out this section because we've stopped accepting new enrollments into the MS Cloud Germany - MaggieE
-
-## Microsoft Cloud Germany
-- All EU/EFTA: [English](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F2%2FC%2F8%2F2C8CAC17-FCE7-4F51-9556-4D77C7022DF5%2FMCA2017Agr_EMEA_EU-EFTA_GER_ENG_Aug2018_GermanCloud_CR.pdf&data=02%7C01%7C%7C3099d55ab6df4b5d1ea608d5fd8a8cfd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636693693863183184&sdata=FF2w1Zx1MhkKliW25tsvegd67%2FZy2VwE7QsRPEIkb9U%3D&reserved=0), [German](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F2%2FC%2F8%2F2C8CAC17-FCE7-4F51-9556-4D77C7022DF5%2FMCA2017Agr_EMEA_EU-EFTA_GER_GER_Aug2018_GermanCloud_CR.pdf&data=02%7C01%7C%7C3099d55ab6df4b5d1ea608d5fd8a8cfd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636693693863193193&sdata=bnijpI%2Fw442YANA8y2wVHKfg5gbqYp8WTS1dfGhBIxQ%3D&reserved=0)
--->
 
 ## <a name="middle-east-and-africa"></a>Naher Osten und Afrika
 - Algerien: [Englisch](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf), [Französisch](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf), [Arabisch](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)

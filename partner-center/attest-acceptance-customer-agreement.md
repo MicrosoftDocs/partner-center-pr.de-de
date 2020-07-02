@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Kunde, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Microsoft-Kundenvereinbarung, Vorlagen für Kundenvereinbarungen, Zustimmung bestätigen
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e5402d1c6075c86df8511a1621c9090cd2c9451
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: b74989324fb64cbc8875752bfc33a24285e96936
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909018"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678564"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Bestätigen der Zustimmung zur Microsoft-Kundenvereinbarung im Namen Ihres Kunden
 
@@ -54,4 +54,7 @@ Wenn der Kunde auf die URL für das Microsoft 365 Admin Center klickt, um der n
 
 **Lösung**: Du musst die Zustimmung im Namen des Kunden bestätigen.  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="Screenshot: Seite zum Autorisieren des Partners mit der auszuwählenden Autorisierungsoption – hier werden Details eines bestimmten Partners, seine Beziehung und seine Administratorrollen angezeigt.":::
+## <a name="next-steps"></a>Nächste Schritte
+
+- [So fügen Sie im Partner Center einen neuen Kundendatensatz hinzu](add-a-new-customer.md)
+- [Einführung: Mit dem Azure-Plan können Partner Azure zu nutzungsbasierten Tarifen für Kunden erwerben](azure-plan-lp.md)

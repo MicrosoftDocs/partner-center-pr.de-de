@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c29a1e466d441a9e498c576fb8f20a64fed3a074
-ms.sourcegitcommit: 1fa9ac175cfed992c655c9784081cb636bffc8b8
+ms.openlocfilehash: 77b5d692a103303b9a0e70aa49321773569bf954
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "85346716"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678656"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,8 +22,9 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Juni 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+| Angebote/Märkte | [Windows 7-ESU (2. Jahr) für CSP-Partner jetzt verfügbar](2020-june.md#6) | 29. Juni |
 | Funktionen | [Aktualisierte Funktion zum Entfernen von Beziehungen im Partner Center](2020-june.md#5) | 29. Juni |
-| Funktionen | [Das standardmäßige Fakturierungsintervall wird von der jährlichen in die monatliche Abrechnung geändert.](2020-june.md#4) | 17. Juni |
+| Funktionen | [Die standardmäßige Abrechnungshäufigkeit wird von jährlicher in monatliche Abrechnung geändert.](2020-june.md#4) | 17. Juni |
 | Angebote/Märkte | [Änderungen an Microsoft 365 F1](2020-june.md#3) | 15. Juni |
 | Funktionen | [Windows Server-Softwareabonnements – Medienaktualisierung für CSP](2020-june.md#2) | 12. Juni |
 | Angebote/Märkte | [Neue und End-of-Life-Angebote und -Produkte für Microsoft Dynamics 365 und Power Platform](2020-june.md#1) | 11. Juni |

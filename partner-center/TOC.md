@@ -44,8 +44,9 @@
 ## [CSP-Verträge, Preislisten und Angebote](csp-documents-and-learning-resources.md)
 ## [Regionale CSP-Märkte und Währungen](regional-authorization-overview.md)
 ## [Anweisungen zur Mandantenkonsolidierung für regionale CSP-Autorisierung](csp-regional-authorization-tenant-consolidation.md)
-## [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag](confirm-customer-agreement.md)
-### [Wann muss die Zustimmung zur Kundenvereinbarung im Namen eines Kunden bestätigt werden?](attest-acceptance-customer-agreement.md)
+## [Übersicht – die neue Möglichkeit, die Zustimmung des Kunden zur Microsoft-Kundenvereinbarung zu bestätigen](confirm-consent.md)
+## [So bestätigen Sie die Zustimmung des Kunden zur Microsoft-Kundenvereinbarung](confirm-customer-agreement.md)
+## [Wann muss die Zustimmung zur Kundenvereinbarung im Namen eines Kunden bestätigt werden?](attest-acceptance-customer-agreement.md)
 
 ## [Bewerben für den Verkauf in nationalen Clouds](csp-national-clouds-overview.md)
 ### [Partner Center für Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md)
@@ -94,12 +95,25 @@
 ### [Registrieren von Abschlüssen](register-deals.md)
 ### [Abrufen von Empfehlungsdaten](referral-insights.md)
 ### [Analysieren des Geschäftsprofils](analyze-your-marketing-profile.md)
-## [Incentiveansprüche](claims-overview.md)
-### [Erstellen und Verwalten von Incentiveansprüchen](create-incentives-claims.md)
-### [Grundlegende Anforderungen für Incentiveansprüche](core-requirements.md)
-### [Zugriff auf die Seite für Anreizauszahlungen](incentives-unified-user-guide.md)
-### [Anzeigen Ihrer Incentivezahlungen und -programme](understand-incentive-payouts.md)
-### [Erstellen einer Kundenzuordnung mithilfe des CPOR-Modells](submit-osa-claim.md)
+## [Incentives](claims-overview.md)
+### Erste Schritte mit Incentives
+#### [Ermitteln Ihrer Programmberechtigung](incentives-determined-your-program-eligibility.md)
+#### [Erstellen und Verwalten von Auszahlungs- und Steuerprofilen im Partner Center](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [Bestätigen Ihrer Einnahmeberechtigung](incentives-confirm-your-earnings-eligibility.md)
+#### [Anzeigen Ihrer Incentivezahlungen und -programme](understand-incentive-payouts.md)
+#### [Zugriff auf die Seite für Anreizauszahlungen](incentives-unified-user-guide.md)
+### Pläne und Ausführungsnachweise
+#### [Erstellen Ihres Plans](incentives-create-your-plan.md)
+#### [Vorbereiten Ihres Ausführungsnachweises](incentives-prepare-your-proof-of-execution.md)
+### Incentives-Co-Op-Ansprüche
+#### [Erstellen und Verwalten von Incentives-Co-Op-Ansprüchen](create-incentives-claims.md)
+#### [Grundlegende Anforderungen für Incentives-Co-Op-Ansprüche](core-requirements.md)
+#### [Genehmigungs- und Zahlungsfristen für Co-Op-Ansprüche](incentives-managing-co-op-claims.md)
+### CPOR-Zuordnung für Incentiveansprüche
+#### [Erstellen einer Kundenzuordnung mithilfe des CPOR-Modells](submit-osa-claim.md)
+#### [Verwalten von Kundenzuordnungen](incentives-manage-customer-associations.md)
+#### [Probleme bei Kundenzuordnungen](incentives-customer-association-issues.md)
+### [Problembehandlung bei Zahlungen und Einnahmen](incentives-payment-issues.md)
 
 # [Abrechnung und Steuern](billing.md)
 ## [Grundlagen zur Abrechnung](billing-basics.md)

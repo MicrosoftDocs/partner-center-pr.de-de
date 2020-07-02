@@ -546,7 +546,7 @@ Weitere Informationen zu den Änderungen finden Sie in der Datei [Dynamics CSP O
 Am 1. Mai 2020 wird die Verfügbarkeit neuer RPA-Angebote in den Education-Programmen von Microsoft erweitert.
 Weitere Informationen zu Änderungen am Authorized Education Partner-Programm im CSP-Programm erhalten Sie [hier](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/). Dieser Link führt zu einer vorhandenen Sammlung in Partner Center.
 
-Weitere Informationen finden Sie in der Datei **Dynamics CSP Offer Updates-May 2020**[](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) (Änderungen an Dynamics-CSP-Angeboten – Mai 2020), die Sie im entsprechenden Abschnitt herunterladen können.
+Weitere Informationen finden Sie in der Datei **[Dynamics CSP Offer Updates-May 2020](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)** (Änderungen an Dynamics-CSP-Angeboten – Mai 2020), die Sie im entsprechenden Abschnitt herunterladen können.
 
 ### <a name="ecommerce-changes"></a>eCommerce-Änderungen
 

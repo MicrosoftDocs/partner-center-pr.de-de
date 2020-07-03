@@ -1,7 +1,7 @@
 ---
 title: CSP-Verträge für kommerziellen Marketplace
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über die Bedingungen, Bedingungen und Verträge für Abonnements von ISV-Produkten von Drittanbietern, die von CSP-Partnern im kommerziellen Marketplace erworben wurden.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Abonnements, Marketplace, Drittanbieter, ISV, CSP-Partnerprogramm, Verträge, verkaufen, kaufen,
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5bac92edfbe4d88d6c0fe1bf132f9cab75749093
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 1f373c29fb52252014af262e530e364fe9f08782
+ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362628"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85937619"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Verträge für CSP-Partner, die geschäftlich im kommerziellen Marketplace tätig sind
 
@@ -42,7 +42,7 @@ Wenn Partner ihre CSP-Vereinbarungen bereits signiert haben, müssen Sie sich ni
 
 Weitere Informationen zu den Begriffen für CSP-Aktivitäten im kommerziellen Marketplace finden Sie unter:
 
-- **Abschnitt 5,7 (Angebote von Drittanbietern)** im [CSP-Programmhandbuch](https://go.microsoft.com/fwlink/p/?LinkId=617100). Dies stellt die Bedingungen bereit, die den Verkauf von ISV-Lösungen durch Partner im CSP-Programm steuern.
+- **Der Abschnitt "Angebote von Drittanbietern"** im CSP- [Programmhandbuch](https://go.microsoft.com/fwlink/p/?LinkId=617100). Dies stellt die Bedingungen bereit, die den Verkauf von ISV-Lösungen durch Partner im CSP-Programm steuern.
 
 - **Die Microsoft-Partner Vereinbarung (MPa)** regelt das CSP-Programm und ersetzt die vorhandene mcra und MCDA. Die MPA ist im [Partner Center](https://partner.microsoft.com/pcv/dashboard/overview) verfügbar, sodass Partner, die am CSP-Programm teilnehmen möchten, Sie überprüfen und akzeptieren können.
   

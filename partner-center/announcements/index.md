@@ -9,19 +9,23 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 77b5d692a103303b9a0e70aa49321773569bf954
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 74c78646924c923a6c9db992589ed98612245cab
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85678656"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879086"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
 Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen werden häufig aktualisiert, überprüfen Sie sie daher in regelmäßigen Abständen.
 
-| **Kategorie** | **Ankündigungen für Juni 2020** | **Angekündigt** |
+| **Kategorie** | **Ankündigungen für Juli 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+| Angebote/Märkte | [Neue und End-of-Life-Angebote und -Produkte für Microsoft Dynamics 365 und Power Platform](2020-july.md#3) | 1\. Juli |
+| Angebote/Märkte | [Microsoft hat den Vertrieb der eigenständigen Microsoft Kaizala Pro-SKU eingestellt](2020-july.md#2) | 1\. Juli |
+| Funktionen | [Die CSP-Incentive-Programme wurden für das erste Quartal des Geschäftsjahrs 2021 verlängert](2020-july.md#1) | 1\. Juli |
+| **Kategorie** | **Ankündigungen für Juni 2020** | **Datum** |
 | Angebote/Märkte | [Windows 7-ESU (2. Jahr) für CSP-Partner jetzt verfügbar](2020-june.md#6) | 29. Juni |
 | Funktionen | [Aktualisierte Funktion zum Entfernen von Beziehungen im Partner Center](2020-june.md#5) | 29. Juni |
 | Funktionen | [Die standardmäßige Abrechnungshäufigkeit wird von jährlicher in monatliche Abrechnung geändert.](2020-june.md#4) | 17. Juni |

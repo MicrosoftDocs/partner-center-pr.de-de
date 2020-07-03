@@ -1,21 +1,21 @@
 ---
-title: Verwaltung von Benutzern und Lizenzen
+title: Verwaltung von Benutzerlizenzen
 titleSuffix: Microsoft Cloud Germany - Partner Center
 description: Erfahren Sie, wie und wo Partner Center für Microsoft Cloud Deutschland-Partner,-Kunden und-Lizenzen sowie das Zurücksetzen von Kenn Wörtern verwaltet werden.
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ed349d0e9bfbc6768defcf781e612ee38e6f764f
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 48bd1e315c51c3884889e80d5d295402fc9fab84
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603619"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879212"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland
 
@@ -52,7 +52,7 @@ Nachdem Sie sich erfolgreich beim Azure-Portal für Microsoft-Cloud Deutschland 
 
 -  [Zurücksetzen des Kennworts für einen Benutzer in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**Verwandte Themen**
+**Zugehörige Themen**
 
 -  [Microsoft Azure Deutschland](https://azure.microsoft.com/global-infrastructure/germany/)
 

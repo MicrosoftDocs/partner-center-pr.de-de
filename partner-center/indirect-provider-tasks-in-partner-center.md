@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 02/04/2020
-ms.openlocfilehash: 74db948f1f55e52957a480f2dc74a41b888f18c4
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.date: 07/01/2020
+ms.openlocfilehash: c05ed9aca47b7d232d7d6a0087217850c834e513
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394122"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879370"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Wiederverkäufern im Programm für Cloud-Lösungsanbieter
 
@@ -104,6 +104,25 @@ Wenn Sie sich bei bestehenden Abonnements für die Zusammenarbeit mit einem indi
 | Dem Vertriebspartner ermöglichen, das Azure-Konto eines Kunden zu verwalten|Zuordnen eines Vertriebspartners zu einem Azure-Kundenkonto beim Hinzufügen neuer Kunden|Wählen Sie im **Azure Service-Portal** die Option [Benutzereinstellungen](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) aus, um dem indirekten Vertriebspartner eine **Mandanten-Besitzer**-Berechtigungen zu erteilen|
 | Zuschreiben von Incentives für Vertriebspartner | Ordnen Sie den Vertriebspartner dem (neuen oder vorhandenen) Abonnement zu. | Auf der Seite **Neues Abonnement** |
 | Delegieren des Kundensupports für bestimmte Abonnements an den Vertriebspartner | Wählen Sie den Vertriebspartner in der Liste der **designierten Supportkontakte** aus. | Auf der Detailseite des Abonnements: Wählen Sie den Kunden von Ihrer **Kunden** Seite aus, und wählen Sie dann auf der Seite **Abonnements** des Kunden das Abonnement aus. |
+
+## <a name="remove-partnership-with-indirect-resellers"></a>Entfernen der Partnerschaft mit indirekten Wiederverkäufern
+
+Führen Sie die folgenden Schritte aus, um die Partnerschaft mit dem vorhandenen indirekten Reseller zu entfernen. 
+
+1. Wählen Sie im Menü Partner Center auf dem Dashboard **indirekte Reseller**aus. 
+
+2. Wählen Sie auf der Seite **indirekte Reseller** die Option **Partnerschaft entfernen**aus. Eine Meldung mit der Aufforderung zur Bestätigung wird angezeigt. Wählen Sie ja, um fortzufahren.
+
+:::image type="content" source="images/ip-ir-relationship.png" alt-text="Partnerschaft entfernen":::
+
+>[!IMPORTANT]
+>Kunden, die dem indirekten Reseller zugeordnet sind, werden nicht entfernt. Alle gewährten delegierten Administratorrechte bleiben unverändert.
+>Sie stellen dar, dass die Entscheidung, ihre Partnerschaft mit dem Partner zu unterbrechen, für einen legitimen geschäftlichen Zweck und in Übereinstimmung mit Ihrem Vertrag mit Ihrem Kunden oder Partner in gutem Glauben gemacht wurde, und Sie erklären sich damit einverstanden, Microsoft vor und gegen alle Ansprüche von Drittanbietern Gegenteiliges zu verteidigen und zu halten.
+>Sie müssen einen rechtlichen Hinweis zur Beendigung Ihres Kunden oder Partners angeben, wenn dies für Ihre Vereinbarung erforderlich ist. Dieses Tool generiert keine Hinweise für den Kunden oder Partner.
+
+3. Der indirekte Reseller, dessen Partnerschaft Sie entfernt haben, wird nicht in der Liste angezeigt.
+Abhängig von der Zugriffsebene und der Beteiligung möchten Sie möglicherweise mit dem indirekten Händler und dem Endkunden über diese Änderung kommunizieren.
+
 
 ## <a name="connect-with-customers"></a>Kontakt zu Kunden
 

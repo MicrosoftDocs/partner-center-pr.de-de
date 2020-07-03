@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Marketplace-Produkten & angeboten
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Mithilfe von Partner Center erfahren Sie, wie cloudlösungsanbieter ISV-Angebote von Drittanbietern verwalten können, die für Kunden aus dem kommerziellen Marketplace erworben wurden.
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Abonnements, Marketplace, Drittanbieter, ISV, SaaS-Angebote, cloudlösungsanbieter-Programm, Verwalten eines Angebots, Verwalten eines Abonnements, Lizenzen, kündigen eines Abonnements, Arbeitsplätze, Deaktivieren der automatischen Verlängerung, indirekte Reseller-MPN-ID
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53e750c3e661115071c359ce56fbb97a31edeef9
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 484d99bda87ddcfa960b66f5b27a07d943fe1ebe
+ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908103"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85937630"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Verwalten Sie kommerzielle Marketplace-Produkte und-Angebote für Ihre Kunden
 
@@ -64,11 +64,14 @@ Der Herausgeber sollte Ihnen einen personalisierten Link und einen Autorisierung
 
 1. Sie finden diesen personalisierten Link auf dem ISV-Verleger auf verschiedene Arten:
 
-    - Sie können den Link auf der Bestätigungsseite sehen, der angezeigt wird, nachdem Sie ein ISV SaaS-Angebot erworben haben.
+   - Sie können den Link auf der Bestätigungsseite sehen, der angezeigt wird, nachdem Sie ein ISV SaaS-Angebot erworben haben. Um diesen Link auf der Seite zu finden, suchen Sie nach, und wählen Sie **dann zu Verleger Website**wechseln aus.
 
-    - Sie können den Link auf der Seite Abonnements eines bestimmten Kunden anzeigen. Dieser Verleger Link wird in der Zeile angezeigt, die dem für den Kunden erworbenen ISV-Angebot oder-Abonnement zugeordnet ist.
+   - Sie können den Link auf der Seite Abonnements eines bestimmten Kunden anzeigen. Dieser Verleger Link wird in der Zeile angezeigt, die dem für den Kunden erworbenen ISV-Angebot oder-Abonnement zugeordnet ist.
 
-    - Sie können [den Link mithilfe der Partner Center-APIs abrufen](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+   - Sie können [den Link mithilfe der Partner Center-APIs abrufen](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+
+   > [!NOTE]
+   > Um dies im Auftrag Ihres Kunden zu tun, müssen Sie möglicherweise den personalisierten Link kopieren, ihn in einen privaten Browser einfügen und die Anmelde Informationen des Kunden eingeben.
 
 2. Wenn Sie sich auf der Website oder dem System des ISV-Verlegers befinden, werden Sie vom Herausgeber über alle zusätzlichen Schritte informiert, die Sie durchführen müssen, um den Kunden Setup Vorgang abzuschließen und Lizenzen bereitzustellen oder zuzuweisen.
 
@@ -90,7 +93,7 @@ Wenn Sie ein Lizenz basiertes Saas-Produkt abonnieren, das von einem ISV-Verlege
 
 Weitere Informationen zu abbruchzeiten, die angewendet werden, zum Abbrechen oder zum automatischen erneuern eines Abonnements finden Sie unter:
 
-- [Stornieren eines Abonnements](create-a-new-subscription.md#cancel-a-subscription)
+- [Kündigen eines Abonnements](create-a-new-subscription.md#cancel-a-subscription)
 
 - [Automatisches erneuern eines kommerziellen Marketplace-Abonnements](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
 

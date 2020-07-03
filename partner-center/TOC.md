@@ -95,7 +95,7 @@
 ### [Registrieren von Abschlüssen](register-deals.md)
 ### [Abrufen von Empfehlungsdaten](referral-insights.md)
 ### [Analysieren des Geschäftsprofils](analyze-your-marketing-profile.md)
-## [Incentives](claims-overview.md)
+## Incentives
 ### Erste Schritte mit Incentives
 #### [Ermitteln Ihrer Programmberechtigung](incentives-determined-your-program-eligibility.md)
 #### [Erstellen und Verwalten von Auszahlungs- und Steuerprofilen im Partner Center](incentives-create-and-manage-your-payout-and-tax-profiles.md)
@@ -106,6 +106,7 @@
 #### [Erstellen Ihres Plans](incentives-create-your-plan.md)
 #### [Vorbereiten Ihres Ausführungsnachweises](incentives-prepare-your-proof-of-execution.md)
 ### Incentives-Co-Op-Ansprüche
+#### [Incentives](claims-overview.md)
 #### [Erstellen und Verwalten von Incentives-Co-Op-Ansprüchen](create-incentives-claims.md)
 #### [Grundlegende Anforderungen für Incentives-Co-Op-Ansprüche](core-requirements.md)
 #### [Genehmigungs- und Zahlungsfristen für Co-Op-Ansprüche](incentives-managing-co-op-claims.md)

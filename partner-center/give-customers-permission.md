@@ -5,17 +5,17 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 Keywords: Abonnement, Self-Service-Erwerb, Self-Service-RI, Aktivieren von RI, Deaktivieren von RI, Self-Service, Kunden Erwerb, Kunden Berechtigungen, reservierte Instanz des Kunden Kauf, Kunden Kauf Azure-Reservierungen, Self-Service aktivieren, Self-Service ausschalten
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d04f7aad779a6bf3be08b24f43da6abc4dfdac4d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 0c507aae75dad4a1dce5dc9746ebe9f7ed48f040
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795112"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947465"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Erteilen Sie Kunden eine Berechtigung im Partner Center, um Ihre eigenen Produkte oder Dienste zu erwerben.
 

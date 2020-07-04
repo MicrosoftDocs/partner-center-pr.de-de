@@ -3,17 +3,17 @@ title: Abrechnungs Lizenz basierte Saas-Transaktionen
 ms.topic: article
 ms.date: 05/05/2020
 description: Erfahren Sie mehr über häufige Abrechnungs Szenarien im Partner Center für Lizenz basierte Saas-Transaktionen.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 Keywords: Abrechnung, Zahlungen, einmaliger Kauf, wiederkehrende Käufe, Abonnements, Arbeitsplätze
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a25344e6a513c521e7f99e1bad3db9ec935159b3
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: d19ab812d09ff797de70eb27430e26f7a0966980
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908798"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947950"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Häufige Abrechnungs Szenarien für Lizenz basierte Saas-Transaktionen im Partner Center
 

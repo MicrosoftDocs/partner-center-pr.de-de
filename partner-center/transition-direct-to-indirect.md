@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie ein CSP-Programmpartner Partner Center für den Übergang von einem Direct-Bill-Partner zum indirekten Händler verwenden kann.
-author: LauraBrenner
-ms.author: labrenne
+author: aarzh-AaronZhang
+ms.author: v-aarzh
 ms.localizationpriority: medium
 keywords: Direktabrechnung, Übergang, indirekter Wiederverkäufer
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05c26bdb7a8689e9b0964e19c89685cb67260ca6
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 93b3d2e204911d059ed0d17e977c0e50533e504c
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679447"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949215"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer
 
@@ -95,7 +95,7 @@ So erstellen Sie eine Einladung als indirekter Wiederverkäufer:
 
 2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu einer Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzuladen. Der Anbieter muss über eine Reseller-Beziehung mit Ihrem Kunden verfügen, damit er Bestellungen im Auftrag Ihres Kunden einreichen kann, wenn der Kunde neue Abonnements erwerben oder vorhandene Abonnements neue Lizenzen hinzufügen möchte.
 
-3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
+3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
 
 4. Bearbeiten Sie den Text in der e-Mail-Nachricht, um zu sagen, was Sie brauchen, aber achten Sie darauf, den Link so zu schließen, dass er den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters verbindet. Wählen Sie dann **Fertig** aus.
 
@@ -195,7 +195,7 @@ Ihr indirekter Anbieter kann keine Bestellungen für Ihre bestehenden Kunden der
 
     :::image type="content" source="images/direct/direct6.png" alt-text="Neue Kunden einladen":::
 
-3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
+3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
 
 4. Bearbeiten Sie den Text in der e-Mail-Nachricht, um zu sagen, was Sie brauchen, aber achten Sie darauf, den Link so zu schließen, dass er den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters verbindet. Wählen Sie dann **Fertig** aus.
 

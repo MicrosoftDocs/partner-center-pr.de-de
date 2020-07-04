@@ -5,17 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Aktivitäts Protokolle anzeigen und exportieren, um Einblicke in Kundenkonto Transaktionen und andere Kunden relevante Partner Verwaltungsaktivitäten zu erhalten.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 Keywords: Aktivitätsprotokolle, Abonnement, Abonnements, Zahlungen, Abrechnung, Transaktionen
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cfef9a4e6c68496ffbe9e9f6abc25629e2d2eb73
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 06dc153dde88321556d7ff81da03264075ecc190
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991162"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947365"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Anzeigen oder Exportieren von Kunden Aktivitäts Protokollen, um weitere Einblicke in Kundentransaktionen zu erhalten
 

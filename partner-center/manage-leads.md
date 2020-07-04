@@ -5,17 +5,17 @@ ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Verwenden Sie Partner Center, um auf Verweise zu Antworten und neue, vorhandene und archivierte Leads und Verweise zu verwalten. Erfahren Sie außerdem, wie Sie in Zukunft weitere Verweise erhalten.
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 keywords: Referenz, Co-Selling, Deal
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e91035d860c9d7e7e908e7645756ca64e64d4828
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 9e086ae93493c26880b912130752e69adcbef58a
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328331"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949438"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Verwalten verschiedener Leads wie Kundenanfragen, Marketing qualifizierter Leads und Vertriebs qualifizierter Leads
 

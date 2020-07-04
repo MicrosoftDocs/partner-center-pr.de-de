@@ -3,17 +3,17 @@ title: Häufige monatliche Abrechnungs Szenarien
 ms.topic: article
 ms.date: 05/13/2020
 description: 'Häufige Szenarien in Partner Center bei der monatlichen Abrechnung: umfasst das Hinzufügen neuer Abonnements, das Ändern der Lizenz Menge und das Anhalten von Abonnements.'
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 Keywords: Abrechnung, Zahlungen, Aufträge, Nutzung, monatliche Abrechnung, Abonnements, Abstimmungs Datei
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9da060e1c8b0a9d2f0a5de0987ccb4ea1e167b7c
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 52a2e135f7f3adb1f08de179ceeb031c0e649063
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908878"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948012"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Stichproben von monatlichen Abrechnungs Szenarien für neue Abonnements, Ändern von Lizenz Beträgen oder Suspendierungen
 

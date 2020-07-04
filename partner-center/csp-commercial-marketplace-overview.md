@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Kunden Abonnements für SaaS-Angebote (Software-as-a-Service) von unabhängigen Softwareanbietern (ISVs) im Marketplace verkaufen.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: Abonnements, Marketplace, Drittanbieter, ISV, Saas, Lizenz
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c9366bfc9dc09d7c62fcf01cacf30944b8801550
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96e8001294112bdc5af59512fe04c282a09430bb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908092"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947723"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Übersicht über den kommerziellen Marketplace im Partner Center
 
@@ -38,7 +38,7 @@ Als Partner im CSP-Programm können Sie Partner Center verwenden, um viele ISV-L
 
 Wenn Sie Partner im CSP-Programm sind, gibt es viele kommerzielle Marketplace-Aktivitäten, die Sie möglicherweise in Bezug auf ISV-Angebote durchführen möchten. Weitere Informationen zu den einzelnen Aktivitäten finden Sie in der folgenden Tabelle.
 
-|**Wenn Sie**  |**Lesen**   |
+|**Zweck**  |**Lesen**   |
 |:------------------------------------|:------------------|
 |Erfahren Sie, wie Sie verfügbare Angebote, Preise, Produktdetails oder Kontaktinformationen des Herausgebers anzeigen oder suchen. | [Angebote entdecken](csp-commercial-marketplace-discover.md) | 
 |Erfahren Sie, wie Sie ein Angebot erwerben und bereitstellen.   | [Kaufangebote](csp-commercial-marketplace-purchase.md)   | 
@@ -56,7 +56,7 @@ Als Partner im CSP-Programm können Sie viele kommerzielle Marketplace-Aktivitä
 
 - Das [Microsoft Azure Verwaltungs Portal](https://portal.azure.com/)
 
-    oder
+    Oder
 
 - System oder Website eines Drittanbieter-ISV-Verlegers
 

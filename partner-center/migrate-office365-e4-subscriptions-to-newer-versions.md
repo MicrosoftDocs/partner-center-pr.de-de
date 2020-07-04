@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Die Enterprise E4-Edition von Microsoft Office 365 wurde am 7. April 2017 eingestellt. Hier erfahren Sie, wie Sie Ihre Kundenabonnements zu neueren Versionen von Office 365 migrieren.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd9f9effd501846934e1b0b2a86b654dfa14ebbe
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: bbd2aceac62a7e726ed81a78305ea23213c94156
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795759"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949045"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Migrieren von Abonnements für Office 365 E4 auf neuere Versionen von Office 365
 
@@ -54,7 +54,7 @@ Sie können wählen, ob die gleichen Funktionen wie in E4 bereitgestellt werden 
 - Option 4: Office 365 Enterprise E3
 
 
-| Funktion | Option 1: | Option 2: | Option 3 | Option 4 |
+| Feature | Option 1: | Option 2: | Option 3 | Option 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
 | Alle in Office 365 Enterprise E4 enthaltenen Features verfügbar? | Ja | Ja | Ja | Nein |
 | Verwaltung von Telefonnummern in Office 365? | Ja | Ja | Nein | Nein |

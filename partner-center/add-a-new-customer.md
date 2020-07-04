@@ -5,19 +5,19 @@ ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie im Partner Center einen neuen Kundendaten Satz hinzufügen. Anschließend können Sie die Kunden Abonnements verkaufen, die Abrechnung verwalten oder Kundensupport bereitstellen.
-author: LauraBrenner
-ms.author: labrenne
+author: parthp
+ms.author: parthp
 keywords: Kunde, Kunde hinzufügen, Kundenkonto, Kundenkonto im Partner Center, Kunden, Kunden hinzufügen, Kundenkonto erstellen
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: fcfb35585dc145917614f4557465cb2661dd254a
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: b61fe6df289d0ca95d170439573bf7887cd2a9bb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991107"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947445"
 ---
-# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Hinzufügen eines neuen Kundendatensatzes in Partner Center
+# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>So fügen Sie im Partner Center einen neuen Kundendatensatz hinzu
 
 **Zielgruppe**
 
@@ -70,6 +70,6 @@ In diesem Artikel erfahren Sie, wie Sie Ihrer Kundenliste im Partner Center eine
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- Weitere Informationen zu den Möglichkeiten, die Sie Kunden über das Cloud Solution Provider-Programm verkaufen können, finden Sie unter [Partner Angebote im Cloud Solution Provider-Programm](csp-offers.md).
+- Weitere Informationen zu den Möglichkeiten, die Sie Kunden über das Cloud Solution Provider-Programm verkaufen können, finden Sie unter [Partner Angebote im Cloud Solution Provider-Programm](csp-offers.md) .
 
 - Weitere Informationen zum Zuordnen eines neuen Kunden zu Ihrem Partnerkonto finden Sie unter [Herstellen einer Verbindung mit Kunden](customer-accounts.md).

@@ -5,15 +5,15 @@ ms.date: 06/12/2020
 description: Informieren Sie sich über den Co-op-Anspruchs Prozess, einschließlich der Fristen, der zahlungszeiten und der Ausführungs Prüfung (PoE).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: 9ca387b5f204345d74091de9dc92305b22ef824f
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ceffac9a2441895d698b9315f62e71ea9a9220b3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992116"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949702"
 ---
 # <a name="co-op-claims-plans-and-poes"></a>Co-op-Ansprüche,-Pläne und-Poes
 
@@ -86,7 +86,7 @@ Sie müssen Ihren Plan am letzten Tag des Programmjahrs erstellen und übermitte
 
 3. Suchen Sie auf der Seite **Programm** den entsprechenden Markt für Ihren Plan, und wählen Sie dann **Plan erstellen**aus.
 
-4. Füllen Sie auf der Seite **neuer Plan** die erforderlichen Felder aus. **Währung** ist der Wert, den der Plan widerspiegeln soll. **Reviewer-e-Mail** sollte die Microsoft-e-Mail-Adresse Ihres Konto Managers sein. Beachten Sie, dass pro MPN-ID, Finanzierung, Programm und Zeitraum nur ein Plan erstellt werden kann. Wählen Sie **Speichern** aus.
+4. Füllen Sie auf der Seite **neuer Plan** die erforderlichen Felder aus. **Währung** ist der Wert, den der Plan widerspiegeln soll. **Reviewer-e-Mail** sollte die Microsoft-e-Mail-Adresse Ihres Konto Managers sein. Beachten Sie, dass pro MPN-ID, Finanzierung, Programm und Zeitraum nur ein Plan erstellt werden kann. Klicken Sie auf **Speichern**.
 
 5. Überprüfen Sie auf der Statusseite des Plans die angezeigten Informationen. Wählen Sie **Bearbeiten** aus, um die Informationen zu aktualisieren.
 
@@ -159,7 +159,7 @@ Sie müssen den Ausführungs Nachweis für Ihren Plan innerhalb von 180 Tagen na
     - **Datum**  Das Ausführungs Datum. Dieser Wert muss zwischen dem Startdatum und dem Enddatum der Kampagne liegen.
     - **Betrag**  Der Betrag des Co-op-Anspruchs.
 
-7. Wählen Sie **Speichern** aus.
+7. Klicken Sie auf **Speichern**.
 
 8. Geben Sie auf der Seite **Neuer Anspruch der Ausführungs** Prüfung die erforderlichen Felder ein.
 

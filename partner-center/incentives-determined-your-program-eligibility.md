@@ -1,19 +1,19 @@
 ---
-title: Bestimmen der Programm Berechtigung
+title: Ermitteln Ihrer Programmberechtigung
 description: Stellen Sie sicher, dass Ihr Incentives-Programm qualifiziert ist, damit Sie bezahlt werden können.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 5e78d1cb1d9d88378e909a4ecbacd41aa3842fe6
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: e29e134c162b0d0d2a05998a4a5df23c2f695da0
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719353"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949520"
 ---
 # <a name="program-eligibility"></a>Programm Berechtigung
 

@@ -5,17 +5,17 @@ ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: MPN-Partner können sich über die beiden Konto Ebenen in Partner Center, das globale Partnerkonto (Partner Global Account, PGA) und das Partner Location Account (PLA) informieren.
-author: LauraBrenner
-ms.author: labrenne
+author: parthp
+ms.author: parthp
 keywords: ''
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 28495c35235883ba36204105d06d5996b4101d9f
-ms.sourcegitcommit: acb8c982a6724797d2fcb4e0f01a31cfd1425126
+ms.openlocfilehash: 5aeb8daebbb27492981945573126733a0ccbcd35
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84977230"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947472"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center verfügt über zwei Konten für MPN-Partner.
 

@@ -5,17 +5,17 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie ein Kundenkonto zum gleichzeitigen zuweisen oder widerrufen von Lizenzen und Diensten für einen oder mehrere Benutzer verwenden.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 Keywords: Lizenz zuweisen, Lizenz widerrufen, mehreren Benutzern zuweisen,
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 6508fad5e72e73cfab6310a413fded49d939158a
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 35ab785649419e443171f5037e66a8a38fd1c7e6
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991627"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948148"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Zuweisen oder widerrufen von Lizenzen gleichzeitig für mehrere Benutzer in einem Kundenkonto
 
@@ -74,7 +74,7 @@ Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und ze
 7. Durch Aktivierung des Kontrollkästchens aller Produkte wählen Sie mehrere Produkte für die Benutzer aus.
     -   Wählen Sie für ein beliebiges Produkt **View service plans**, um die von den Benutzern benötigten Servicepläne anzuzeigen und auszuwählen.
 
-8. Wählen Sie **Speichern** aus. Partner Center öffnet die Bestätigungsseite **Licenses updated**, auf der die Benutzer und ihre neuen Lizenzen aufgeführt sind.
+8. Klicken Sie auf **Speichern**. Partner Center öffnet die Bestätigungsseite **Licenses updated**, auf der die Benutzer und ihre neuen Lizenzen aufgeführt sind.
 
 >[!NOTE]
 >Einige Microsoft-Produkte sind an bestimmten Standorten möglicherweise nicht verfügbar. Wieder andere Produkte sind abhängig von anderen Produkten oder Diensten oder können dem gleichen Benutzer nicht zusammen zugewiesen werden. Nach dem Speichern werden auf der Bestätigungsseite die Ergebnisse der erfolgreichen Lizenzzuweisung für alle Benutzer sowie fehlerhafte Lizenzzuweisungen angezeigt.

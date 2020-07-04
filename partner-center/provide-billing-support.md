@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über den Kunden Abrechnungs Support, der von CSP-Programmpartnern benötigt wird. Dies umfasst das Besitz der Kunden abrechnungsbeziehung und das Beantworten von Abrechnungsfragen.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 620b301aa428aef3348e316667b82507d2fc3b5b
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992065"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949326"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Bereitstellen von Abrechnungs Support für Ihre Kunden und Hilfe bei der Beantwortung Ihrer Abrechnungsfragen
 
@@ -59,7 +59,7 @@ Partner sind verpflichtet, eingehende Supportanfragen von Kunden zu erhalten, Pr
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Bereitstellen von Abrechnung, Abonnementverwaltung und technischem Support 
 
-Bei jedem Onlinedienst gibt es bestimmte, detaillierte Anforderungen für die Bereitstellung von Abrechnung, Abonnementverwaltung und technischem Support für Kunden. Weitere Informationen finden Sie unter
+Bei jedem Onlinedienst gibt es bestimmte, detaillierte Anforderungen für die Bereitstellung von Abrechnung, Abonnementverwaltung und technischem Support für Kunden. Weitere Informationen finden Sie unter:
 
 - [Dynamics 365-Abonnements über CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

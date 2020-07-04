@@ -3,16 +3,16 @@ title: Nutzungsbasierte Abstimmungsdateien
 ms.topic: article
 ms.date: 06/08/2020
 description: Erfahren Sie mehr über alle Elemente in ihrer nutzungsbasierten Abstimmungs Datei im Partner Center. Enthält einige Beispiele.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9a84ca15cd51c02a3b5c53ad4478d72343add284
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 04ad6a0c2c7a6330d2e1230f046ee78b2a7405c8
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909118"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949549"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Grundlegendes zu nutzungsbasierten Abstimmungs Dateien und ihren spezifischen Feldern im Partner Center
 
@@ -27,7 +27,7 @@ Wenn Sie Ihre Kosten mit der Nutzung eines Kunden abstimmen möchten, vergleiche
 
 Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den Raten.
 
-| Column | Beschreibung | Beispiel Wert (e) |
+| Spalte | BESCHREIBUNG | Beispiel Wert (e) |
 | ------ | ----------- | ------------ |
 | PartnerId | Die Partner-ID im GUID-Format. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | Name des Partners | *"Configuration Manager", Ltd.* |
@@ -69,5 +69,5 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 | MeteredRegion | Gibt den Speicherort eines Rechenzentrums innerhalb der Region an (für Dienste, bei denen dieser Wert anwendbar und aufgefüllt ist). | *Asien, Osten*, *Süd Asien, Osten*, *Europa, Norden*, *Europa, Westen*, USA, Norden- *Mitte*, USA, *Süden-Mitte* |
 | MeteredService | Gibt die Verwendung einzelner Azure-Dienste an, wenn diese nicht explizit in der **Service Name** -Spalte identifiziert werden. Beispielsweise werden Datenübertragungen in der Spalte **Service Name** als *Microsoft Azure-all-Dienste* gemeldet. | *AccessControl*, *CDN*, *Compute*, *Datenbank*, *ServiceBus*, *Speicher* |
 | MeteredServiceType | Unterüberschrift für das Feld " **meteredservice** ", das weitere Erläuterungen zur Nutzung von Azure-Diensten bietet. | *Außen* |
-| Project | Benutzerdefinierter Name für die jeweilige Dienstinstanz. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
+| Projekt | Benutzerdefinierter Name für die jeweilige Dienstinstanz. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | Die Anzahl der Azure Service Bus Verbindungen, die an einem bestimmten Tag bereitgestellt und verwendet wurden. | *1,000000 Verbindungen/30 Tage* (wenn Sie über eine einzeln bereitgestellte Verbindung während eines 30-tägigen Monats verfügen), *25 Verbindungen/30 Tage – wird verwendet: 1,000000* (wenn Sie über ein 25 Pack Service Bus Verbindungen verfügen und 1 an diesem Tag verwendet haben) |

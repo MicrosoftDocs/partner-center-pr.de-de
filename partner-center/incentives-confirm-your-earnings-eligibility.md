@@ -1,21 +1,21 @@
 ---
-title: Bestätigen der Ergebnis Berechtigung
+title: Bestätigen Ihrer Einnahmeberechtigung
 ms.topic: article
 ms.date: 06/29/2020
 description: Stellen Sie sicher, dass Sie berechtigt sind, Einnahmen zu erstellen und unter dem Programm "Incentives" bezahlt zu werden.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: c030c3009361fa5c41cad13650ab553dd26e4896
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 052cd36c06c9d1856fa3ccf6d257f806891a3303
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719401"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949692"
 ---
-# <a name="confirm-your-earnings-eligibility"></a>Bestätigen der Ergebnis Berechtigung
+# <a name="confirm-your-earnings-eligibility"></a>Bestätigen Ihrer Einnahmeberechtigung
 
 Gilt für:
 

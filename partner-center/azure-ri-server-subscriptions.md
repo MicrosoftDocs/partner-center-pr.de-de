@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über die Möglichkeiten von Cloud Solution Provider zum Abrufen, bereitstellen und Verwalten von Azure-Reservierungen und Server Abonnements für Kunden.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: Azure, Abonnements, VM, Reservierung, reservierte Instanz
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e5e5d88b1f629b07932d37dedb70d0309a26dce
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: dacab1c67a12be5143946c7ede33e647e1373cbb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198628"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948261"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Erwerben, bereitstellen und & Verwalten von reservierten Azure-VM-Instanzen (RI) und Server Abonnements für Kunden
 
@@ -51,7 +51,7 @@ Beispielsweise können gewerbliche Kunden jetzt bis zu 72% im Vergleich zu Preis
 
 Mit einer unglaublichen Kombination aus einem überzeugenden Preis und beispielloser Bereitstellungsflexibilität erhalten Kunden den besten Gesamtwert, wenn sie Azure Reservations zusammen mit Server-Abonnements auswählen.
 
-#### <a name="azure-reservations"></a>Azure Reservations
+#### <a name="azure-reservations"></a>Azure-Reservierungen
 
 - Azure Reserved VM Instances
 - SQL DB Reservations
@@ -131,7 +131,7 @@ Bei on-Demand-Ereignissen für die Lizenzierung sind folgende Themen enthalten:
 
 Weitere nützliche Schulungen umfassen das [Azure-Lizenzierungs Modul auf der Partner Universität](https://aka.ms/azure_partner_licensing).
 
-### <a name="operations"></a>Operations
+### <a name="operations"></a>Operationen (Operations)
 
 - [Betriebshandbuch für den modernen Handel](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (aktualisiert): ein umfassendes Handbuch, das wichtige Richtlinien und betriebliche Aspekte behandelt, wie z. b. Verträge, die Bestellung über Partner Center, Rechnungen, Preislisten Details, Anreize, Abstimmungs Datei, API/SDK, Sandbox und gemeinsame Azure-Partner Dienste.
 - [Länderverfügbarkeit für moderne Angebote und Kundenwährungsmatrix](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
@@ -141,7 +141,7 @@ Weitere nützliche Schulungen umfassen das [Azure-Lizenzierungs Modul auf der Pa
 - [Abrechnung für Azure Reservations](azure-plan-billing.md)
 - [VM-Größe für die maximale Reservierungsnutzung](https://go.microsoft.com/fwlink/?linkid=872810)
 - [Partner Center API (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
-- [Remotedesktopdienste (RDS)](https://docs.microsoft.com/windows-server/remote/remote-desktop-services/welcome-to-rds)
+- [Remotedesktopdienste](https://docs.microsoft.com/windows-server/remote/remote-desktop-services/welcome-to-rds)
 
 ## <a name="azure-hybrid-benefit"></a>Azure-Hybridvorteil
 

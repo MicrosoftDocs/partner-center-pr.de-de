@@ -1,21 +1,21 @@
 ---
-title: Co-Selling-Verkaufschancen
+title: Verwalten von Co-Selling-Verkaufschancen
 ms.topic: article
 ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Als qualifizierter Microsoft-Partner können Sie Co-Selling mit Microsoft durcharbeiten. Erfahren Sie, wie Sie Deals definieren, Microsoft zur Zusammenarbeit einladen oder gesendete Geschäfte anzeigen.
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 keywords: Referenz, Co-Selling, Deal
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 485999e323c325ab30361ed60dfe2c9eb7bada07
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: cee3c8a54aafb8fd8b984f3ece1647597afbe2bc
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328361"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949453"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Verwalten von Co-Selling-Verkaufschancen in Partner Center zum Definieren von Geschäften und besseren Erfüllung der Kundenanforderungen
 
@@ -65,7 +65,7 @@ Sie können zwei Arten von Co-Selling-Verkaufschancen erstellen.
 
 Wählen Sie den Kunden für diesen speziellen Vertrag aus. Geben Sie den Speicherort ein, und geben Sie den Namen ein. Das automatische vorschlagen zeigt Empfehlungen basierend auf den Suchkriterien an. Da viele Unternehmen über mehr als eine Geschäftseinheit am gleichen Standort verfügen, werden möglicherweise mehrere Ergebnisse angezeigt. Wenn Sie nicht sicher sind, was Sie auswählen sollen, können Sie bestätigen, welche D-U-N-S-Nummer zu Ihrem Kunden gehört. Achten Sie darauf, die genaue Entsprechung für den Kunden auszuwählen, mit dem Sie arbeiten.
 
-Nachdem Sie auf **Wählen Sie den Kunden auswählen**, werden Sie aufgefordert, den Namen, die Telefonnummer und die e-Mail-Adresse für die Person einzugeben, die als Hauptkontakt Punkt für dieses Problem gilt. Diese Details sind optional und nur erforderlich, wenn Sie beabsichtigen, Microsoft-Verkäufe einzuladen, um Sie beim Engagement zu unterstützen. Wählen Sie **Weiter** aus.
+Nachdem Sie auf **Wählen Sie den Kunden auswählen**, werden Sie aufgefordert, den Namen, die Telefonnummer und die e-Mail-Adresse für die Person einzugeben, die als Hauptkontakt Punkt für dieses Problem gilt. Diese Details sind optional und nur erforderlich, wenn Sie beabsichtigen, Microsoft-Verkäufe einzuladen, um Sie beim Engagement zu unterstützen. Klicken Sie auf **Weiter**.
 
 > [!IMPORTANT]
 > Stellen Sie sicher, dass Sie die Zustimmung des Kunden erhalten haben, dem Microsoft seine Kontaktinformationen zur Verfügung zu stellen. Microsoft kann diese Informationen verwenden, um den Kunden direkt zu kontaktieren.
@@ -81,7 +81,7 @@ Geben Sie die Details des aktuellen Deals ein. Die unten definierten Felder kön
 |**Geschätztes Schluss Datum**| Obligatorisch.| Das Datum, an dem Sie den Umgang mit dem Kunden erwarten. |
 |**CRM-ID**| Optional | Markieren Sie den Umgang mit der ID der Verkaufschance im jeweiligen CRM zum Nachverfolgen.|
 |**Marketing Kampagnen-ID**| Optional | Erfassen Sie die Marketingkampagne, die zu diesem Problem geführt hat. Mit diesem Profil können Sie den ROI einer bestimmten Kampagne nachverfolgen, wenn Sie alle aus der Kampagne stammenden Geschäfte mit der gleichen ID markieren.|
-|**Hinweise**| Optional | Aktualisieren Sie alle aktuellen Informationen, um anderen Mitarbeitern Ihres Unternehmens einen Einblick in den gleichen Umgang zu bieten, oder versuchen Sie, den aktuellen Zustand des Deals zu verstehen. Sie können dies auch als Kommunikationsprotokoll für Diskussionen zwischen Microsoft-Verkäufern und anderen Partnern in Ihrem Unternehmen verwenden.|
+|**Notizen**| Optional | Aktualisieren Sie alle aktuellen Informationen, um anderen Mitarbeitern Ihres Unternehmens einen Einblick in den gleichen Umgang zu bieten, oder versuchen Sie, den aktuellen Zustand des Deals zu verstehen. Sie können dies auch als Kommunikationsprotokoll für Diskussionen zwischen Microsoft-Verkäufern und anderen Partnern in Ihrem Unternehmen verwenden.|
 
 ### <a name="add-your-employees"></a>Mitarbeiter hinzufügen
 

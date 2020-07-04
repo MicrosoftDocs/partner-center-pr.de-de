@@ -1,7 +1,7 @@
 ---
-title: Erweiterte Spezialisierung erwerben
+title: Erweiterte Spezialisierungen erwerben
 ms.topic: article
-ms.date: 06/11/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Stärken Sie Ihr Geschäftsprofil im Partnerverzeichnis. Erfahren Sie, wie Sie erweiterte Spezialisierungs-und Gold-und Silber-Kompetenzen erwerben.
@@ -10,37 +10,49 @@ ms.author: labrenne
 keywords: Kompetenzen, Silver-Mitgliedschaft, Gold-Mitgliedschaft, MPN, MAPS, Kenntnisse, Microsoft Partner Network, Network Mitgliedschaft, erweiterte Spezialisierung
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f62a1795a9ad3fd07de43bcf5cfa8703133e0fe9
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 7393fdfbc1aa94961680d869cf00cd5855efa0a6
+ms.sourcegitcommit: d5fc07cf20a9de970f9bb65019732792dd81b4a0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749158"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85911275"
 ---
-# <a name="advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>Erweiterte Spezialisierungs Informationen unterstützen Ihr Geschäftsprofil bei Kunden
+# <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Profitieren Sie von einer erweiterten Spezialisierung, um Fachkenntnisse zu präsentieren und Kunden zu präsentieren. 
 
-Gehen Sie über Ihre Gold-Kompetenz mit einer erweiterten Spezialisierung hinaus. Erweiterte spezialisierungslösungen helfen Ihnen, bewährte, überprüfbare Fachkenntnisse in einem Produkt, Lösungs Bereich oder Dienst vorzustellen. Kunden können Ihre Gold-Kompetenz und ihre erweiterte Spezialisierung in Ihrem Geschäftsprofil im Partnerverzeichnis sehen. Zum Erhalt eines erweiterten Spezialisierungs Tags muss Ihr Unternehmen eine Reihe veröffentlichter Kriterien erfüllen und von Microsoft überprüft werden. [Weitere Informationen](https://partner.microsoft.com/membership/advanced-specialization)
+Unterscheiden Sie sich mit Kunden, indem Sie eine erweiterte Spezialisierung erwerben. Erweiterte Spezialisierungs Funktionen sind eine Überprüfung ihrer Fähigkeit, High-Fidelity-Dienste in einem bestimmten Lösungs Bereich bereitzustellen. Kunden sehen, dass ihre erweiterte Spezialisierung in Ihrem Geschäftsprofil im Partnerverzeichnis angezeigt wird. [Weitere Informationen](https://partner.microsoft.com/membership/advanced-specialization)
 
-## <a name="the-current-advanced-specializations"></a>Die aktuellen erweiterten Spezialisierungen
+## <a name="use-partner-center-to-move-through-the-application-process"></a>Verwenden des Partner Centers zum Durchlaufen des Anwendungsprozesses
 
-- **Übernahme und Änderungs Verwaltung** Präsentieren Sie Ihre umfassenden Funktionen, und stellen Sie sich einen erfolgreichen Erfolg vor, um Akzeptanz-und Change Management Dienste bereitzustellen und Microsoft 365 Nutzung und Organisationsänderung
+Um eine erweiterte Spezialisierung zu erhalten, muss Ihr Unternehmen eine ausgerichtete Gold-Kompetenz erlangt haben und andere Anforderungen erfüllen. Der Anwendungsprozess besteht aus zwei Schritten. Zuerst erfüllt Ihr Unternehmen die Voraussetzungen. Zweitens: Sobald die Voraussetzungen erfüllt sind, ist die Schaltfläche **Audit planen** aktiviert. Sie müssen die Überwachung dann übergeben. 
 
-- **Teamwork-Bereitstellung** Gewinnen Sie Anerkennung für Ihre Benutzer Arbeit, und stellen Sie die erfolgreiche Bereitstellung Microsoft 365 Arbeits Auslastungen
+## <a name="advanced-specialization-requirements-that-include-an-audit-an-example"></a>Erweiterte Spezialisierungs Anforderungen, die eine Überwachung enthalten: Beispiel
 
-- **Aufrufen für Microsoft Teams** Stellen Sie Ihre Kenntnisse in der Bereitstellung und Verwaltung Microsoft 365 Telefonsystems dar, um den Geschäftswert von Kunden zu fördern
+Wenn Sie an der erweiterten Spezialisierung interessiert sind, die als **Modernisierung von weMicrosoft Azure bAnwendungen**bezeichnet wird, wählen Sie diese im Partner Center-Menü aus. Sie gelangen zur Seite Voraussetzungen.
 
-- **SAP in Azure** Sie verfügen über umfassende Kenntnisse, umfassende Erfahrungen und bewährte Erfolge bei der Implementierung von SAP in Azure-Lösungen. 
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Voraussetzungen":::
 
-- **Migration von Windows Server und SQL Server zu Microsoft Azure** Veranschaulichen Sie Ihre Wissens Wissensquelle, indem Sie Anleitungen zu den verschiedenen SQL-Migrations Optionen in Azure bereitstellen, und veranschaulichen Sie das Know-how zum Migrieren und Optimieren von Windows Server-und SQL Server basierten Workloads in Microsoft Azure. 
 
-- **Migration von Linux-und Open Source-Datenbanken zu Microsoft Azure** Veranschaulichen Sie Ihre Kenntnisse in Open-Source-Technologien, und veranschaulichen Sie das Know-how zum Migrieren und Optimieren von produktionsworkloads, die auf Red Hat Enterprise Linux (RHEL) oder SuSE Virtual Machines und/oder MariaDB, PostgreSQL, MySQL, cassandradb, MongoDB-Datenbanken in Azure ausgeführt
+Wenn Sie alle Voraussetzungen erfüllt haben, bleibt Ihr Status **nicht gestartet.** Wenn Sie die Voraussetzungen erfüllt haben, ist die Schaltfläche **Audit planen** aktiviert. Sie müssen eine Überwachung mit einem Drittanbieter für die folgenden erweiterten Azure-Spezialisierungs-Spezialisierungs Schritte durchführen:
+ 
+- Migration von Windows Server und SQL Server zu Microsoft Azure
+- Migration von Linux-und Open Source-Datenbanken zu Microsoft Azure
+- Data Warehouse Migration zu Microsoft Azure
+- Kubernetes auf Microsoft Azure
+- Modernisierung von Webanwendungen auf Microsoft Azure
 
-- **Data Warehouse Migration zu Microsoft Azure** Sie verfügen über eine umfassende Erfahrung bei der Migration von Data Warehouse von Teradata, Netezza oder Oracle Exadata zu Azure und veranschaulichen Kenntnisse in der Analyse vorhandener Workloads, beim Erzeugen von Schema Modellen und beim Ausführen von ETL-Vorgängen (extrahieren, Transformieren und laden) zum Migrieren von Daten zu cloudbasierten Datenlagern.
 
-- **Kubernetes auf Microsoft Azure** Sie arbeiten mit devops-Methoden für AKS-Implementierungen und veranschaulichen Kenntnisse in der Bereitstellung und Verwaltung von produktionsworkloads in der Cloud mithilfe von Containern und der Verwaltung gehosteter Kubernetes-Umgebungen in Microsoft Azure
+Wenn Sie alle Anforderungen erfüllt haben, lautet Ihr Status " **aktiv**". Der aktive Status aktiviert automatisch ein Tag in Ihrem **Geschäftsprofil** , das für alle Kunden sichtbar ist, die die Suche nach [einem Lösungsanbieter](https://www.microsoft.com/solution-providers/home)durchsuchen.
 
-- **Modernisierung von Webanwendungen in Microsoft Azure** Sie stellen sicher, dass der Kunde bei der Anwendungsentwicklung und mit den Content Management-Systemen vertraut ist. Sie weisen ihr Fachwissen bei Migration und Bereitstellung von Web-App-Produktionsworkloads nach, wenden DevOps-Praktiken an und verwalten Anwendungsdienste in Microsoft Azure.
+## <a name="prerequisites-that-include-customer-references-an-example"></a>Voraussetzungen, die Kunden Verweise enthalten: Beispiel
 
- ## <a name="next-steps"></a>Nächste Schritte
+Ein Beispiel für eine erweiterte Spezialisierung, die Kundenreferenzen erfordert, sind **Besprechungen und Besprechungsräume für Microsoft-Teams**. Zusätzlich zu den Gold-Kompetenz, Zertifizierungen und einer Leistungsanforderung müssen Sie drei Kundenreferenzen bereitstellen, die Ihnen die Möglichkeit bieten, bereitzustellen und zu verwalten.
 
- Informationen zu den [Microsoft-Kompetenzanforderungen für Gold-und Silver-Mitgliedschaften](learn-about-competencies.md)
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Voraussetzungen":::
+
+Wenn Sie alle Voraussetzungen erfüllt haben, bleibt Ihr Status **nicht gestartet.** Wenn Sie alle Anforderungen erfüllt haben, lautet Ihr Status " **aktiv**". Der aktive Status aktiviert automatisch ein Tag in Ihrem **Geschäftsprofil** , das für alle Kunden sichtbar ist, die die Suche nach [einem Lösungsanbieter](https://www.microsoft.com/solution-providers/home)durchsuchen.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- Erfahren Sie mehr über das erreichen von Microsoft-Kompetenzanforderungen [Microsoft-Kompetenzanforderungen für Gold und Silver](learn-about-competencies.md)
+
+- Erfahren Sie mehr über [Erweiterte Spezialisierungs](https://partner.microsoft.com/membership/advanced-specialization)Informationen.

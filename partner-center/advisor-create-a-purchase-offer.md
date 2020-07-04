@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
 description: Erfahren Sie, wie ein autorisierter Abonnement Ratgeber mithilfe von Partner Center ein Kaufangebot und eine benutzerdefinierte URL erstellen kann, die in Office 365-Test Einladungen enthalten sein soll.
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 keywords: Advisor, Office 365, Kauf
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b9ab4fd293dce26a738ab055a2ca31e8ce1884b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: f11aa00692ac3686aedaf069e11960919d1c4380
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458366"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947457"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Ratgeber: Erstellen eines Kaufangebots
 

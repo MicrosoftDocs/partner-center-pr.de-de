@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wann es sinnvoll ist, ein Kundendienst Problem an Microsoft zu eskalieren und ein Support Ticket dafür zu erhalten.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 Keywords: Serviceanfrage, Serviceticket, Support, Supportanspruch, AOBO, Azure-AOBO
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a2378c947f9b871ec9cba104136fcede72f0f72
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 512b8b51dd036bb6428a3f5f730c36168c5fa455
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992042"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949277"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Melden eines Dienst Problems im Namen eines Kunden, einschließlich des Zeit-und Vorgehensweise
 
@@ -94,7 +94,7 @@ So finden Sie Kontaktdaten des ISV:
     - Eine Support-E-Mail-Adresse
     - Eine Supportrufnummer
 
-## <a name="faq"></a>Häufig gestellte Fragen
+## <a name="faq"></a>FAQ
 
 **Was ist Bestandteil des Supportanspruchs?**
 

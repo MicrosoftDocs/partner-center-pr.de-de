@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Mithilfe von Partner Center erfahren Sie, wie cloudlösungsanbieter ISV-Angebote von Drittanbietern verwalten können, die für Kunden aus dem kommerziellen Marketplace erworben wurden.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: Abonnements, Marketplace, Drittanbieter, ISV, SaaS-Angebote, cloudlösungsanbieter-Programm, Verwalten eines Angebots, Verwalten eines Abonnements, Lizenzen, kündigen eines Abonnements, Arbeitsplätze, Deaktivieren der automatischen Verlängerung, indirekte Reseller-MPN-ID
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 484d99bda87ddcfa960b66f5b27a07d943fe1ebe
-ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
+ms.openlocfilehash: a2d64a18410ac5a668d7ace8f236716df21eb2bc
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 07/03/2020
-ms.locfileid: "85937630"
+ms.locfileid: "85947756"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Verwalten Sie kommerzielle Marketplace-Produkte und-Angebote für Ihre Kunden
 

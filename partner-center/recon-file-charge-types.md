@@ -3,16 +3,16 @@ title: Abgleichen von Datei Lade Typen
 ms.topic: article
 ms.date: 06/05/2020
 description: Ermitteln Sie die Arten von Gebühren (z. b. Lizenz basiert, Nutzungs basiert und einmalig), Gutschriften und Rabatte in Partner Center-Abstimmungs Dateien.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1ec4f4a483ecfd106f7ec41b85372e136524a046
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: fdd372ba260254032d0978e6b2f80947d11aa84f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909108"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949307"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Informationen zu den verschiedenen Lade Typen in Partner Center-Abstimmungs Dateien
 

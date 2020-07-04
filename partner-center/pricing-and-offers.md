@@ -5,16 +5,16 @@ ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Weitere Informationen finden Sie in den aktuellen Preislisten für Lizenz basierte Dienste wie Office 365, Microsoft Dynamics CRM und Enterprise Mobility Suite und Verwendungs basierte Dienste wie Azure.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 47be4df115adbfacd32304104b323f7266eb77f0
-ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
+ms.openlocfilehash: 066b69cc0a70ded518c6bbaa9f35879e4b992a89
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84661663"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949331"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preise und Angebote für Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure und mehr
 
@@ -157,7 +157,7 @@ Es gibt ungefähr 50 Dynamics-Angebote mit drei Jahres Bedingungen. Diese werden
 
 Das Basisangebot Microsoft 365 a1 hat eine Laufzeit von sechs Jahren.  Die Office 365 a1-Add-ons sind nach dem Erwerb dieses Basis Angebots verfügbar. 
 
-|**Angebotsname**   |**Angebots-ID**   |**Typ**|
+|**Angebotsname**   |**Angebots-ID**   |**Type**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Basisangebot|
 |Office 365 a1 für Lehrpersonal (für Gerät)|0757d14e-7c57-456F-8dab-47d164f2ff1f|Add-On|
@@ -181,7 +181,7 @@ Die meisten Preislisten enthalten einen Listenpreis, den Preis, der dem Partner 
 |Produkt oder Dienst  |Details zur ERP-und MSRP-Preisliste  |
 |Lizenzbasierte Dienste  |In den lizenzbasierten Preislisten als ERP aufgeführt  |
 |Nutzungsbasierte Azure-Dienste  |Finden Sie in den entsprechenden Preislisten für gemeinsame Dienste.  |
-|Azure Reservations  |Finden Sie in den entsprechenden Preislisten für gemeinsame Dienste.  |
+|Azure-Reservierungen  |Finden Sie in den entsprechenden Preislisten für gemeinsame Dienste.  |
 |Verwendung basierend auf Azure-Plänen  |Preise sind nicht Rabatt in Preistabellen  |
 |Azure-Plan Reservierungen  |Referenz zu Preislisten für gemeinsame Dienste von Azure-Reservierungen  |
 |Softwareabonnements  |Aufgeführt als msrp in den Preislisten zu Software Abonnements  |

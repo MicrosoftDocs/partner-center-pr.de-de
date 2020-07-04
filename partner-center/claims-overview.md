@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Ihre Incentives-Ansprüche ohne die erforderliche Komponente einreichen, damit der Aktivitätsplan überprüft wird.
-author: LauraBrenner
-ms.author: labrenne
+author: kaushikgMSFT
+ms.author: kaushikg
 keywords: Incentives-Ansprüche, Co-Op-Ansprüche, Co-Op-Mittel
 ms.localizationpriority: medium
-ms.openlocfilehash: f966406c0cc5e2bb427cd07a14755f41f1b55b28
-ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
+ms.openlocfilehash: 4b789b3243231307e3aa969b52498117199f4612
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84776277"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948083"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Übersicht über Incentives-Co-Op-Ansprüche
 

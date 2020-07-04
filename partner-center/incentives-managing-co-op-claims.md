@@ -3,17 +3,17 @@ title: Verwalten von Co-op-Ansprüchen
 description: Informieren Sie sich über den Co-op-Anspruchs Prozess, einschließlich Terminen, Währungsproblemen und der Beilegung eines abgelehnten Co-op-Anspruchs.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: e567b6bd0eaabb1dc705925e140f9de07c6f8a98
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 3a611ca37f1ddad53d1fdbf049645c7976a67d3f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719365"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949497"
 ---
 # <a name="manage-co-op-claims"></a>Verwalten von Co-op-Ansprüchen
 
@@ -27,7 +27,7 @@ Geeignete Rollen:
 
 - Incentiveadministrator
 
-## <a name="co-op-claims-approval-and-payment-deadlines"></a>Co-op-Forderungs Genehmigung und Zahlungsfristen
+## <a name="co-op-claims-approval-and-payment-deadlines"></a>Genehmigungs- und Zahlungsfristen für Co-Op-Ansprüche
 
 ### <a name="when-will-my-co-op-claim-be-approved"></a>Wann wird mein Co-op-Anspruch genehmigt?
 

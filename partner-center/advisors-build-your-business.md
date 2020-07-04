@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
 description: Erfahren Sie, wie autorisierte Microsoft-Berater Ihre Office 365-Abonnements vergrößern können. Erstellen und senden Sie Office 365-Einladungen und Kaufangebote an Clients.
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 keywords: Advisor, Office 365
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae1894f592ed066b521e217558b6b6c4142bc62c
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 6a299fe3c4e65a1752a53053e0071c980b5246d5
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362658"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947435"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Ratgeber: Erstellen Sie Ihre Client Basis mit Office 365-Einladungen und Kauf angeboten
 

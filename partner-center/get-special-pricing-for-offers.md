@@ -5,18 +5,18 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie mehr über die speziellen, reduzierten Preise für bestimmte Kundengruppen von Microsoft, einschließlich Bildungs Kunden, gemeinnützige Kunden und Regierungsbehörden.
-author: LauraBrenner
-ms.author: labrenne
+author: alikhaki
+ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e8b03925b29901ed68482242e6340ebd0155c76
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 849c7fc92a4ca88fbddf5e8aa3c95e6ac60ff984
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991239"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947405"
 ---
-# <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Vertrieb an spezialisierte Branchen wie Education, Non-Profit und Government-Benutzer
+# <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Verkauf an spezialisierte Branchen wie Bildungs-, gemeinnützige und behördliche Benutzer
 
 **Zielgruppe**
 
@@ -60,7 +60,7 @@ Die folgenden Schritte gelten nur für indirekte Anbieter und direkte Rechnungs 
 
 Nachdem Sie und der Kunde für ein Sonderangebotsprogramm qualifiziert wurden, führen Sie die Schritte zum [Hinzufügen eines Abonnements](create-a-new-subscription.md) aus. Wählen Sie auf der Seite **Neues Abonnement** im Abschnitt **Katalog** eine spezielle Branche aus, um die Sonderangebote anzuzeigen, die Sie verkaufen können.
 
-## <a name="purchase-rules-for-special-segments"></a>Kauf Regeln für spezielle Segmente
+## <a name="purchase-rules-for-special-segments"></a>Erwerbsregeln für spezielle Segmente
 
 Partner können nur spezielle Angebote an Kunden verkaufen, wenn Sie bestimmte Kriterien erfüllen. 
 

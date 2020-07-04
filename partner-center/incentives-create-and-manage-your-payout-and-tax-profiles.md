@@ -1,19 +1,19 @@
 ---
-title: Erstellen und Verwalten von Auszahlungs-und Steuer Profilen in Partner Center
+title: Erstellen und Verwalten von Auszahlungs- und Steuerprofilen im Partner Center
 ms.topic: article
 ms.date: 06/29/2020
 description: Bevor Sie für Ihre Incentives bezahlt werden können, müssen Sie Ihre Auszahlungs-und Steuer Profile erstellen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: b7f99ff64b6cdabe8b59607e5820daf0909050f1
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 02212a09ab18ff5b978107af00ac990aa0c702a3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719400"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949687"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>Auszahlungs-und Steuer Profile im Partner Center
 
@@ -29,7 +29,7 @@ Geeignete Rollen:
 - Abrechnungsadministrator
 - Globaler Administrator
 
-## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Erstellen und Verwalten von Auszahlungs-und Steuer Profilen in Partner Center
+## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Erstellen und Verwalten von Auszahlungs- und Steuerprofilen im Partner Center
 
 In den folgenden Abschnitten werden die Schritte zum Erstellen und Verwalten von Zahlungs-und Steuer Profilen in Partner Center erläutert.
 
@@ -85,11 +85,11 @@ Bank Profile werden auf Organisationsebene erstellt, sodass das gleiche Bank Pro
     **Speicherort des Bankkontos:** Das Land, in dem sich die Bank des Unternehmens befindet.
     **Zahlungsmethode:** Die bevorzugte Zahlungsmethode ist für Partner Center Electronic Bank Transfer.
 
-2. Wählen Sie **Weiter** aus.
+2. Klicken Sie auf **Weiter**.
 
 3. Geben Sie auf der Seite **Bankkonto** Ihre Informationen ein. Felder, die auf dieser Seite angezeigt werden, variieren je nach Land. 
 
-4. Wählen Sie **Weiter** aus.
+4. Klicken Sie auf **Weiter**.
 
 5. Geben Sie auf der Seite **Empfänger** die entsprechenden Informationen ein. Der Begünstigter ist die Person in Ihrem Unternehmen, die die Bank kontaktiert, wenn Sie Ihr Konto besprechen müssen.
 
@@ -116,7 +116,7 @@ Wenn Sie für Partnerunternehmen in Nordamerika Informationen zum Abschließen v
    - Wählen Sie die Option auf der linken Seite aus, wenn Ihr Unternehmen nur in den USA integriert ist, oder wenn dieses Profil für eine Person vorgesehen ist. 
    - Wählen Sie die Option auf der rechten Seite aus, wenn Ihr Unternehmen außerhalb des USA integriert ist, und wählen Sie dann Ihr Land/Ihre Region aus der Liste aus.
 
-3. Wählen Sie **Weiter** aus. 
+3. Klicken Sie auf **Weiter**. 
 
 4. Geben Sie auf der Seite " **Tax Status** " die erforderlichen Informationen ein, und klicken Sie dann auf **weiter**. Felder auf dieser Seite variieren je nach Land. Ihre Details. 
 
@@ -170,6 +170,6 @@ Es kann jedoch Ausnahmen geben, wenn Sie Ihr Bankprofil verschiedenen Ländern o
 
 Für einen MPN-Standort erstellte Steuerprofile werden wiederverwendet und automatisch ausgefüllt, wenn derselbe MPN-Standort an einem anderen Incentives-Programm teilnimmt. Es kann jedoch Ausnahmen geben. Beispielsweise können die Auszahlungsregeln eines neuen Incentives-Programms zusätzliche Details zum Steuerprofil erfordern.  
 
-### <a name="i-am-only-able-to-log-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Ich kann mich nur bei meiner @onmicrosoft.com Domäne anmelden. Wie sollte ich vorgehen?
+### <a name="i-am-only-able-to-log-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Ich kann mich nur bei meiner @onmicrosoft.com Domäne anmelden.   Wie sollte ich vorgehen?
 
 Bitten Sie Ihren Kontoadministrator, dem AAD-Konto zusätzliche Domänen hinzuzufügen.

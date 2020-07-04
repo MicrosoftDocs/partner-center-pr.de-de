@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 description: Erfahren Sie mehr über Ihre Rechnung & Abstimmungs Dateien. Ihre Rechnung zeigt Partner Center-Gebühren für das Programm, die Produkte und Kunden für diesen monatlichen Zeitraum an.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: Abonnementabrechnungen, Abrechnung, Abrechnung im Partner Center, Partner Center-Abrechnung, meine Rechnung lesen, Rechnung, Rechnung für Partner Center, CSP-Abrechnung, wo ist meine Rechnung?
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df330ce2e66cf198ce97919c02a15eb7a50f6486
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 40809fbca8ed81882e9b1d315fd5967143faff1e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991878"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949317"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Informationen zu Ihrer Rechnung und Abstimmungs Datei: erfahren Sie, wie Sie diese im Partner Center finden.
 

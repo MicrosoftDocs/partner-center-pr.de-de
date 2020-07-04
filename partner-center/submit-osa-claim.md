@@ -5,17 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erstellen Sie Kunden Zuordnungen über das cpor (Partner of Record)-Modell. Hilft bei der Verwaltung von Vertriebs-, Nutzungs-und & Anreizen für Microsoft 365-und Dynamics 365-Kunden.
-author: LauraBrenner
-ms.author: labrenne
+author: mallp
+ms.author: mallp
 keywords: anspruchsansprüche, Co-op-Ansprüche, Co-op-Geld, OSU, OSA, ISV, Umsatz Zuordnung
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c33f80ffb6b34e3d13bd3ad6c8dacb0a0eeffa1b
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 5af39f3dbd4223f462807aaa9aa8eac4d7f9d2fe
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425939"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949178"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Erstellen einer Kunden Zuordnung über das cpor-Modell – Verwendung für Microsoft 365-und Dynamics 365-Kunden
 

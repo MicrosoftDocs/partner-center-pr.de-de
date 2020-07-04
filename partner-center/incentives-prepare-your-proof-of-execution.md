@@ -1,21 +1,21 @@
 ---
-title: Vorbereiten der Ausführung
+title: Vorbereiten Ihres Ausführungsnachweises
 description: Informieren Sie sich über die Wichtigkeit der Ausführungs-und Übermittlungs Richtlinien, und informieren Sie sich über die Wichtigkeit der Ausführungs-und Übermittlungs Richtlinien.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 93a4b18d852dec31e2bbeb8b66f15feb075f5be8
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 56210d460d3ca4f58b87a8ead8ed7161058aba78
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719370"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949476"
 ---
-# <a name="prepare-your-proof-of-execution"></a>Vorbereiten der Ausführung
+# <a name="prepare-your-proof-of-execution"></a>Vorbereiten Ihres Ausführungsnachweises
 
 Gilt für:
 
@@ -45,7 +45,7 @@ Geeignete Rollen:
    - **Datum**  Das Ausführungs Datum. Dieser Wert muss zwischen dem Startdatum und dem Enddatum der Kampagne liegen.
    - **Betrag**  Der Betrag des Co-op-Anspruchs.
 
-7. Wählen Sie **Speichern** aus.
+7. Klicken Sie auf **Speichern**.
 
 8. Geben Sie auf der Seite **Neuer Anspruch der Ausführungs** Prüfung die erforderlichen Felder ein.
 

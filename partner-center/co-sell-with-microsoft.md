@@ -5,17 +5,17 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Als qualifizierter Microsoft-Partner können Sie Co-Selling mit Microsoft durcharbeiten. Erfahren Sie, wie Sie Engagements definieren, Microsoft zur Zusammenarbeit einladen oder gesendete Engagements anzeigen.
-author: JnHs
+author: sroy
 ms.author: jenhayes
 keywords: Empfehlung, RFI, Partner suchen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 836bb2634a010cee7adab883f47af50fc7007d73
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 63b046422d76864b0836cd85483a0a3aebfe8b25
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721502"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948051"
 ---
 # <a name="co-sell-with-microsoft"></a>Co-Selling mit Microsoft
 
@@ -66,7 +66,7 @@ Wählen Sie abschließend im Abschnitt **Lösungen hinzufügen** die Lösung aus
 
 Wählen Sie **weiter** aus, um mit dem nächsten Schritt fortzufahren.
 
-### <a name="invite-others"></a>Weitere einladen
+### <a name="invite-others"></a>Mehr einladen
 
 Der letzte Schritt bei der Erstellung des Co-Selling Engagement besteht darin, ausführlichere Informationen über die Art der gesuchten Hilfe bereitzustellen. Wählen Sie die am besten geeignete Option unter **wie können wir Ihnen helfen?** Stellen Sie dann im Feld **Hinweise zu Microsoft** so viele Details wie möglich zur Verfügung, damit Microsoft Unterstützung bietet.
 

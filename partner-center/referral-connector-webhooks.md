@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Verwenden Sie Partner Center-webhook-APIs, um zu erfahren, wann die Ressourcen Änderungen von Verweisen für Dynamics 365 CRM oder Salesforce CRM auftreten.
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 keywords: Verweise, webhook-API, Ressourcen Änderungs Ereignisse
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6d3cf5a4049f96f7eebce8d23c33ca79ad352ce5
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ed7cad26af447302cb0ccd1d8d359ce6b7bbe87f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991891"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949349"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>Verwenden von webhook-APIs zum Registrieren für Ressourcen Änderungs Ereignisse für Dynamics 365 CRM und Salesforce CRM
 

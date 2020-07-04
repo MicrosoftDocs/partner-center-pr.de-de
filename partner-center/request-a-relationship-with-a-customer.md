@@ -5,17 +5,17 @@ ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Fordern Sie eine Beziehung mit einem Kunden für Multi-Channel-Szenarien mit mehreren Partnern an, oder wenn Ihre delegierten Administratorrechte für einen Kunden wieder hergestellt werden müssen.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104087"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949241"
 ---
-# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Anfordern einer Reseller-Beziehung von einem Kunden im Partner Center
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Anfordern einer Handelspartnerbeziehung von einem Kunden in Partner Center
 
 **Zielgruppe**
 
@@ -34,9 +34,9 @@ Sie können eine Reseller-Beziehung mit einem Kunden aus Ihrem Land oder aus der
 
 1. Wählen Sie im **Partner Center**-Menü die Option **Kunden** und anschließend **Vertriebspartnerschaft beantragen** aus.
 
-2. Um Administratorrechte von diesem Kunden anzufordern, wählen Sie **Delegierte Administratorrechte für Azure Active Directory und Office 365 einbeziehen** aus. Deaktivieren Sie diese Option, um die Beziehung herzustellen, ohne Administratorrechte anzufordern.
+2. Um Administrator Berechtigungen für diesen Kunden anzufordern, wählen Sie **Delegierte Administratorrechte für Azure Active Directory und Office 365 einschließen**aus. Deaktivieren Sie diese Option, um die Beziehung ohne Anforderung von Administratorberechtigungen herzustellen.
 
-3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer standardmäßigen E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
+3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail. Sie können den Entwurf der Nachricht in Ihrer Standardanwendung für E-Mails öffnen oder in die Zwischenablage kopieren und in eine E-Mail einfügen.
 
    Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist und den Kunden direkt mit Ihrem Konto verknüpft. Wähle **Fertig** aus, nachdem du diesen Schritt abgeschlossen hast.
 

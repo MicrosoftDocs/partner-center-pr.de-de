@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Lesen Sie diesen Produktlizenz Bericht, und erfahren Sie, wie Sie mit den lizenzierten (oder Arbeitsplatz basierten) cloudprodukten verbessern, die Sie für Ihre Kunden verkaufen oder verwalten.
 keywords: PCI, Leistung, Messungen, Kunden Erfolg, cloudabonnements, Analysen, Bericht
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9fe76602d9a258f8e8766d29ebc3c4fb75bb1f8
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 680c2c92846692843d7d76496a327c0f8eba3cb4
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908618"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948799"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Bericht "Produktlizenzen" im Partner Center Insights-Dashboard
 

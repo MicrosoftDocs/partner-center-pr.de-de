@@ -1,21 +1,21 @@
 ---
-title: Verwalten von Kunden Zuordnungen
+title: Verwalten von Kundenzuordnungen
 description: Informieren Sie sich über wichtige Prozesse und Zeitachsen zum Verwalten von Ansprüchen von Kunden Zuordnungen (cpor).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.topic: article
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: a5cd485c5d12c333c81954e74574968df7163d3d
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 97871089ad7614be47a65bb41dfb8dc4f871b54b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719364"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949506"
 ---
-# <a name="manage-customer-associations"></a>Verwalten von Kunden Zuordnungen
+# <a name="manage-customer-associations"></a>Verwalten von Kundenzuordnungen
 
 Gilt für:
 
@@ -52,7 +52,7 @@ Dies sind die Statuswerte und ihre Bedeutung:
 
 | Anspruchsstatus | Bedingung für Anzeige |
 | ------ | ----------- | 
-|  Bearbeitung läuft  | Ihr cpor Association-Anspruch wurde erstellt. Sie verbleibt in diesem Status, bis Sie das Dokument für die Beweis Ausführung hochladen und den Anspruch zur Genehmigung einreichen.   |
+|  Bearbeiten  | Ihr cpor Association-Anspruch wurde erstellt. Sie verbleibt in diesem Status, bis Sie das Dokument für die Beweis Ausführung hochladen und den Anspruch zur Genehmigung einreichen.   |
 |  Gesendet  | Der Partner hat seinen cpor Association-Anspruch erfolgreich übermittelt, aber Microsoft hat den Überprüfungsprozess noch nicht gestartet.   |
 |  Wird überprüft  | Microsoft hat mit der Überprüfung ihrer Poe-Dokumentation begonnen. Wir kontaktieren Sie möglicherweise, um weitere Informationen zu erhalten. Die Überprüfungsprozess-SLA ist fünf Werktage.  |
 |  Rejected (Abgelehnt)  | Ihr Poe war unzureichend, oder Sie reagierten nicht innerhalb von fünf Werktagen gemäß den Poe-Überprüfungs Richtlinien, und der Anspruch wurde verweigert.   |
@@ -69,17 +69,19 @@ Dies sind die Statuswerte und ihre Bedeutung:
 
 - Fehlende Produkte: Ausführungsnachweis enthält kein beanspruchtes Produkt bzw. keine beanspruchte Workload. 
 
-
 ## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Streiten Sie den Status eines cpor-Zuordnungs Anspruchs.
 
-Wenden Sie sich an den [Support](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives), und geben Sie dem Support Team die folgenden Informationen, um den Status eines cpor-Zuordnungs Anspruchs zu streiten:
+Wenn Ihr cpor Association-Anspruch abgelehnt wird, haben Sie 30 Tage Zeit, die Ablehnung abzulehnen. Die e-Mail, die Sie darüber informiert, dass Sie benachrichtigt werden, wo Sie den Grund für die Ablehnung sehen können, und wie Sie diese Vorgehensweise ablehnen können, erfahren Sie hier.  
 
-- MPN-ID
-- Name des Incentive-Programms 
-- ID des CPOR-Zuordnungsanspruchs 
-- Product – geben Sie für Business Applications die Dynamics-Produkte und-Abonnements an. Geben Sie für M365 Workloads an. 
-- Mandanten-ID des Kunden
-- Details des Issues
+Wenn 30 Tage vergangen sind und Sie trotzdem einen abgelehnten Anspruch übernehmen möchten, müssen Sie eine neue Zuordnung mit ihrer aktualisierten Ausführungs Prüfung ((PoE) einreichen. 
+
+### <a name="to-dispute-a-rejected-claim"></a>So streiten Sie einen abgelehnten Anspruch
+
+1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
+2. Öffnen Sie den Anspruch, den Sie in Konflikt stellen möchten.
+3. Wählen Sie auf der Seite Anspruch die Option **Streit**aus.
+4. Geben Sie eine geschäftliche Begründung und/oder einen aktualisierten Poe ein, die erläutern, warum die Ablehnung erneut in Erwägung gezogen werden soll.
+5. Wenn Sie mit dem Hinzufügen von Informationen fertig sind, wählen Sie **Streit** Unsere Reviewer sollten Sie mit Ergebnissen innerhalb von fünf Arbeitstagen kontaktieren.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Gründe für die Ablehnung eines cpor-Zuordnungs Anspruchs
 

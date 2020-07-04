@@ -5,17 +5,17 @@ ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über verschiedene Partnerbeziehungen und unterstützte Transaktions Szenarien für Partner im CSP-Programm.
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 keywords: indirekter Reseller, indirekter Anbieter, Direct Bill, Direct-Bill-Partner, cloudlösungsanbieter-Programm, CSP-Programm, CSP-Partner, CSP-Transaktionen
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5da1cdd30563b57badd2aaec619c5e53ca93641
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 5728765cb22c77e6052bf2b772d65e777355def6
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83398335"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947631"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>Erfahren Sie, wie Partner mit anderen Partnern im CSP-Programm arbeiten können.
 

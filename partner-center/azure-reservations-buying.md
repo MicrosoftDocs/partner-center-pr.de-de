@@ -5,17 +5,17 @@ ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie, wie Sie Azure-Reservierungen im Namen Ihrer Kunden im Partner Center erwerben oder erwerben.
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: Azure, Reservierungen, verwalten, Abrechnung, kaufen
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 25ff9ac88876b11d76a60db6cf4e471d230dd6f3
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: da12aecaf78266c5a13da2948c0606121a0ea6ae
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104112"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948325"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Kaufen von Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden im Partner Center
 
@@ -33,7 +33,7 @@ ms.locfileid: "85104112"
 - Vertriebsbeauftragter
 - Benutzerverwaltungsadministrator
 
-## <a name="before-you-begin"></a>Voraussetzungen
+## <a name="before-you-begin"></a>Vorbereitung
 
 Lesen Sie die folgenden wichtigen Informationen, bevor Sie Azure-Reservierungen im Auftrag Ihrer Kunden kaufen. (Möchten Sie, dass Kunden ihre eigenen Azure-Reservierungen von einem früheren Azure-Abonnement erwerben können, das Sie für Sie erworben haben? Weitere Informationen finden [Sie unter Erteilen von Kunden Berechtigungen zum erwerben ihrer eigenen Azure-Reservierungen](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations).)
 
@@ -60,7 +60,7 @@ Lesen Sie die folgenden wichtigen Informationen, bevor Sie Azure-Reservierungen 
 >  
 > **Nicht verfügbare Märkte (in alphabetischer Reihenfolge)**
 >
-> |A zu GI   | Gr nach PAL  | PAP bis Z |
+> |A bis Gi   | Gr bis Pal  | Pap bis Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Ålandinseln     | Grönland     | Papua-Neuguinea     |
 > | Amerikanisch-Samoa     | Grenada     | Pitcairninseln     |

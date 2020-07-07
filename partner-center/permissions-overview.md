@@ -12,7 +12,6 @@ ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 0858340c6965ac932f0d4694f6f21be89ca5f817
 ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
-ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 05/22/2020
 ms.locfileid: "83795887"
@@ -25,14 +24,14 @@ ms.locfileid: "83795887"
 - Benutzeradministrator
 - MPN-Partneradministrator
 
-Sie haben Ihr Partnerprofil mit gesetzlichem Namen und Adresse, Supportdetails, Steuerbefreiungen, Bankverbindung und dem Hauptansprechpartner für Ihr Unternehmen eingerichtet. Nächster Schritt: Richten Sie Kennwörter und Rollen für Ihre Benutzer ein, damit sie gemeinsam mit Ihnen im Partner Center arbeiten können.
+Sie haben Ihr Partnerprofil mit gesetzlichem Namen und Adresse, Supportdetails, Steuerbefreiungen, Bankverbindung und dem Hauptansprechpartner für Ihr Unternehmen eingerichtet. Der nächste Schritt besteht in der Einrichtung von Kennwörtern und Rollen für Ihre Benutzer, damit diese gemeinsam mit Ihnen im Partner Center arbeiten können.
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>Einrichten Ihrer Mitarbeiter für die Arbeit im Partner Center
 
-Die Zugriffsarten Ihrer Benutzer auf das Partner Center bestimmen Sie durch die Rollen und Berechtigungen, die Sie ihnen erteilen. Rollen beziehen sich auf die Programme, an denen Ihr Unternehmen beteiligt ist. Wenn Ihr Unternehmen beispielsweise im CSP-Bereich (Cloud Solution Provider) tätig ist, verfügen Sie nicht nur über die Standard-Mandantenverwaltungsrollen von Azure AD (z.B. „Globaler Administrator“), sondern benötigen auch spezielle Rollen für das CSP-Programm. Jedes Programm verfügt über Rollen, die spezifisch für das jeweilige Programm sind.
+Wie Ihre Benutzer auf das Partner Center zugreifen können, bestimmen Sie über die Rollen und Berechtigungen, die Sie ihnen erteilen. Rollen beziehen sich auf die Programme, an denen Ihr Unternehmen beteiligt ist. Wenn Ihr Unternehmen beispielsweise im CSP-Bereich (Cloud Solution Provider) tätig ist, verfügen Sie nicht nur über die Standard-Mandantenverwaltungsrollen von Azure AD (z.B. „Globaler Administrator“), sondern benötigen auch spezielle Rollen für das CSP-Programm. Jedes Programm verfügt über Rollen, die spezifisch für das jeweilige Programm sind.
 
 >[!Note]
-> AAD-Mandantenrollen (Azure Active Directory) enthalten globale Administrator-, Benutzeradministrator- und CSP-Rollen. Nicht-AAD-Rollen sind Rollen, die keine Verwaltung des Mandanten umfassen. Zu ihnen gehören MPN-Administrator, Geschäftsprofiladministrator, Empfehlungsadministrator, Incentiveadministrator und Incentivebenutzer. 
+> Zu den AAD-Mandantenrollen (Azure Active Directory) gehören die Rollen „Globaler Administrator“, „Benutzeradministrator“ und „CSP“. Nicht-AAD-Rollen sind Rollen, die keine Verwaltung des Mandanten umfassen. Zu ihnen gehören MPN-Administratoren, Geschäftsprofiladministratoren, Empfehlungsadministratoren, Prämienadministratoren und Prämienbenutzer. 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Verwalten kommerzieller Transaktionen im Partner Center (Azure AD- und CSP-Rollen)
 
@@ -72,7 +71,7 @@ Die Zugriffsarten Ihrer Benutzer auf das Partner Center bestimmen Sie durch die 
 ||* Anfordern von Support für Kunden 
 ||* Verwalten von Abonnements und Abrechnungsproblemen im Namen von Kunden| 
 
-### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>CPV (Control Panel Vendor). (CSP-Rolle und Nicht-AAD-Rolle)
+### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>CPV (Control Panel Vendor, CSP- und Nicht-AAD-Rolle)
 CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provider), damit diese ihre Systeme mit Partner Center-APIs integrieren können. 
 
 |**Rolle**   |**Funktionsumfang**|
@@ -91,7 +90,7 @@ CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provi
 ||Empfehlungsadministrator|
 
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Verwalten der MPN-Mitgliedschaft und Ihres Unternehmens (nicht-AAD-Rollen: diese Rollen sind auf das Unternehmen bezogen, nicht auf den Mandanten)
+## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Verwalten der MPN-Mitgliedschaft und Ihres Unternehmens (Nicht-AAD-Rollen, die zur Verwaltung auf Unternehmens- statt auf Mandantenebene verwendet werden)
 
 |**Rolle** | **Funktionsumfang**|
 |----------------------------|:----------------------------|
@@ -138,12 +137,12 @@ CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provi
 ||* Anzeigen von Rabatten und Co-Op-Erträgen
 ||* Zugreifen auf den Support
 
-## <a name="view-partner-center-insights-data"></a>Partner Center-Einblicke – Daten anzeigen
+## <a name="view-partner-center-insights-data"></a>Anzeigen aussagekräftiger Daten zum Partner Center
 
 |**Rolle** | **Funktionsumfang**|
 |------------------------------|:-------------------------|
-|Bericht-Viewer für leitende Mitarbeiter|Zugriff auf alle Berichtsdatasets|
-|Berichts-Viewer|Zugriff auf Datenberichte mit Ausnahme von Umsatz-, Kunden- und personenbezogenen Mitarbeiterdaten|
+|Executive Report-Leser|Zugriff auf alle Berichtsdatasets|
+|Berichtleser|Zugriff auf Datenberichte mit Ausnahme von Umsatz-, Kunden- und personenbezogenen Mitarbeiterdaten|
 
 
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 74c78646924c923a6c9db992589ed98612245cab
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: 2dd815862d84509a58726bea804be4fa14f3b729
+ms.sourcegitcommit: 622dab23ac25ebdcc9fcd736c23ce9cc177fe6da
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879086"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "86032486"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Juli 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+| Angebote/Märkte | [Neue Microsoft 365 Enterprise Sprach-SKUs für Teams](2020-july.md#4) | 3\. Juli |
 | Angebote/Märkte | [Neue und End-of-Life-Angebote und -Produkte für Microsoft Dynamics 365 und Power Platform](2020-july.md#3) | 1\. Juli |
 | Angebote/Märkte | [Microsoft hat den Vertrieb der eigenständigen Microsoft Kaizala Pro-SKU eingestellt](2020-july.md#2) | 1\. Juli |
 | Funktionen | [Die CSP-Incentive-Programme wurden für das erste Quartal des Geschäftsjahrs 2021 verlängert](2020-july.md#1) | 1\. Juli |

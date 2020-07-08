@@ -5,17 +5,17 @@ ms.date: 04/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Informieren Sie sich über Abrechnungs- und Steuerthemen im Partner Center. Die Informationen umfassen Abrechnungsressourcen, Rechnungen, CSP-Abrechnungen und Steuern.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: Abrechnung, Zahlungen, Bestellungen, Kündigung, Auftragsverwaltung, Nichtbezahlung, Betrug, Missbrauch, Steuern, Steuerbefreiungen, Kontenabstimmungsdateien, Kontenabstimmungsdatei
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c29de1da1e3581e8aea02faa29ef1b804794b9c9
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 30415c0580a6a3a5a656f5fd66a5b53aa5c5b7b3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84990967"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948157"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Übersicht: Wichtigste Artikel zur Abrechnung und zu Steuern im Partner Center
 

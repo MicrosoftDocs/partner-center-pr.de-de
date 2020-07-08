@@ -10,12 +10,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf1822db6b689cc75c13a782c93a9d21b0ac3f75
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 73790a3fc59a2271b33c772d94b8c30902f16820
+ms.sourcegitcommit: 00f6e38cb6e3dce075174d757a5adf8fd6430bac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949388"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "86092354"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Im Partner Center Insights-Dashboard verfügbarer Leistungsbericht
 
@@ -42,7 +42,7 @@ Sie können die folgenden Diagramme im Bericht "Vorteile" visualisieren:
  > [!NOTE]
  > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administrator Berechtigungen für Berichte verfügen.
 
-**Zusammenfassung**
+## <a name="summary"></a>Zusammenfassung
 
 Der Abschnitt Zusammenfassung enthält die Vorteile, die in Bezug auf lizenzierte Software, Clouddienste (nicht Azure), Visual Studio-Abonnements, technischen Support und bestimmte Markt Einführungs Dienste oder-Angebote gewährt werden.
 
@@ -50,20 +50,20 @@ Beispiel: Microsoft Partner Network-Mitgliedschafts Partner (MPN) sind für den 
 
 :::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="Zusammenfassung der Vorteile":::
 
-**Gewährte Cloud Services**
+## <a name="cloud-services-granted"></a>Gewährte Cloud Services
 
 Dieses Diagramm zeigt den monatlichen Trend der Lizenzen, die während des ausgewählten Datums Bereichs für Lizenz basierte Abonnements des ausgewählten clouddiensts erteilt wurden.
 Wählen Sie auf der Registerkarte **Dienste** einen clouddienst aus, um das Diagramm für einen bestimmten clouddienst anzuzeigen. Das Liniendiagramm stellt die Gesamt Lizenzen dar, die Ihrem Unternehmen erteilt wurden.
 
 :::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="gewährte Cloud Services":::
 
-**Softwareprodukte**
+## <a name="software-products"></a>Softwareprodukte
 
 Dieses Diagramm zeigt den monatlichen Trend von Lizenzen, die im ausgewählten Datumsbereich für ein bestimmtes Softwareprodukt erteilt wurden. Wählen Sie ein Softwareprodukt aus der Dropdown Liste oben im Diagramm aus, um den Trend eines bestimmten Softwareprodukts anzuzeigen, das Sie als Vorteile erhalten. Das Liniendiagramm stellt die Gesamt Lizenzen dar, die Ihrem Unternehmen erteilt wurden.
 
 :::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="gewährte Softwareprodukte":::
 
-**Visual Studio-Abonnements**
+## <a name="visual-studio-subscriptions"></a>Visual Studio-Abonnements
 
 Dieses Diagramm zeigt den monatlichen Trend von Visual Studio-Abonnements, die für Abonnements aktiviert sind, die Sie im Rahmen des ausgewählten Datums Bereichs zugewiesen haben.
 
@@ -71,7 +71,7 @@ Wählen Sie oben im Diagramm eine Registerkarte aus, um den Trend eines bestimmt
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio-Abonnements":::
 
-**Technische Vorteile**
+## <a name="technical-benefits"></a>Technische Vorteile
 
 Dieses Diagramm zeigt den monatlichen Trend der Support Leistungen, die während des ausgewählten Datums Bereichs erteilt wurden.
 
@@ -79,13 +79,13 @@ Wählen Sie oben im Diagramm eine Registerkarte aus, um den Trend eines bestimmt
 
 :::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="technische Vorteile":::
 
-**Angebote oder Dienste für Markteinführungszeiten**
+## <a name="go-to-market-offers-or-services"></a>Angebote oder Dienste für Markteinführungszeiten
 
 Dieses Diagramm zeigt den monatlichen Trend von Markt Einführungs angeboten oder-Diensten, die für die Zuordnung während des ausgewählten Datums Bereichs und für ein ausgewähltes Angebot oder eine Dienst Kategorie ausgewählt werden.
 
 Wählen Sie in der Dropdown Liste oben im Diagramm ein Angebot oder eine Dienst Kategorie für das Markt Einführungsangebot aus, um den Trend der ausgewählten Markt Einführungs Dienste anzuzeigen, die Ihrem Unternehmen erteilt wurden. Die Spalten im Diagramm Stellenangebote oder aktivierte Dienste dar. Das Liniendiagramm stellt die Gesamtzahl der Markt Einführungsangebote oder-Dienste dar, die Ihrem Unternehmen erteilt wurden.
 
-![Angebote zu Markteinführungszeiten](images/pci/pci-benefits-go-to-market-7.png)
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Angebote zu Markteinführungszeiten":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 

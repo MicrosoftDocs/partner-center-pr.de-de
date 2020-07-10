@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66ea888a8efa9b44ea98b36c4341ba88f9bd1f4c
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 3cb1b2104119a28b376301637e559df76392d65c
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907352"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175989"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Bieten Sie Kunden 30-tägige kostenlose Testversionen von Microsoft-Produkten an.
 
@@ -27,7 +27,7 @@ ms.locfileid: "82907352"
 -   Benutzeradministrator
 -   Vertriebsbeauftragter
 
-Eine kostenlose 30-Tage-Testversion ist eine gute Möglichkeit, Kunden neue Microsoft-Produkte vorzustellen. Sie können sich für die Testversionen im Katalog ebenso wie für viele andere Onlinedienste registrieren. Alle Partner können daran teilnehmen.
+Eine gute Möglichkeit, Kunden neue Microsoft-Produkte vorzustellen, besteht darin, 30 Tage kostenlose Testversionen anzubieten. Sie können sich für die Testversionen im Katalog ebenso wie für viele andere Onlinedienste registrieren. Alle Partner können daran teilnehmen.
 
 ## <a name="available-trial-offers"></a>Verfügbare Testangebote
 
@@ -37,18 +37,9 @@ Jeder Kunde hat Anspruch auf eine kostenlose Testversion für jedes verfügbare 
 
 ### <a name="available-products"></a>Verfügbare Produkte
 
-Kostenlose Testversionen sind für folgende Produkte verfügbar:
+Kostenlose Testversionen sind für die umfangreichsten und beliebtesten licesen-basierten Angebote verfügbar. Neue Testangebote können monatlich eingeführt werden.
 
-- Standard Microsoft 365 Business
-- Office 365 E3
-- Office 365 E5 mit PSTN
-- Office 365 E5 ohne PSTN
-- Enterprise Mobility & Security E5
-- Dynamics 365 Customer Engagement-Plan 1
-- Dynamics 365 Business Central
-- Microsoft 365 Business Premium
-
-Wir bieten kostenlose Testversionen für diese Produkte an, da sie die umfassendsten und beliebtesten Angebote für Unternehmen sind. Wir werden in Zukunft möglicherweise weitere kostenlose Testversionen anbieten.
+Partner können auf der Seite " **Preise und Angebote** " im Partner Center in der Liste "monatlicher Preis" nach Tests suchen. Für Testangebote wird in der Spalte Preisliste **sekundärer Lizenztyp** der Eintrag "Testversion" aufgeführt.
 
 Zurzeit sind **keine kostenlosen** Testversionen für behördliche Angebote, Schulungsangebote oder Add-on-Angebote verfügbar.
 
@@ -56,15 +47,15 @@ Zurzeit sind **keine kostenlosen** Testversionen für behördliche Angebote, Sch
 
 Alle kostenlosen Testversionen bieten 25 Lizenzen. Diese Anzahl kann während des Testzeitraums nicht geändert werden. Sie können keine Arbeitsplätze in der kostenlosen Testversion hinzufügen oder entfernen. Nachdem die Testversion in ein kostenpflichtiges Abonnement konvertiert wurde, können Sie dem Abonnement weitere Lizenzen hinzufügen.
 
-Sie sollten Testlizenzen und Arbeitsplätze genauso wie bei einem kostenpflichtigen Dienst im Partner Center zuweisen.
+Testlizenzen und Arbeitsplätze sollten Benutzern auf die gleiche Weise zugewiesen werden, wie kostenpflichtige Dienst Lizenzen zugewiesen werden.
 
 ## <a name="sign-customers-up-for-trials"></a>Registrieren von Kunden für Testversionen
 
-So signieren Sie Ihren Kunden für eine Testversion über Partner Center:
+Verschaffen Sie sich eine Testversion für Ihren Kunden im Partner Center:
 
 1. Navigieren Sie im Partner Center unter **Verkaufen** zu **Katalog**. 
 2. Klicken Sie im Katalog unter **Billing frequency** (Abrechnungshäufigkeit) auf **Trial offer** (Testangebot). Dadurch werden nur kostenlose Testversionen angezeigt und kostenpflichtige Angebote ausgeblendet. Testversionen werden im Katalog auf der Registerkarte **Testversionen** angezeigt.
-3. Wählen Sie die kostenlose Testversion aus, die Sie anbieten möchten, und wählen Sie dann **Übermitteln** aus. Alle Testversionen gelten für 30 Tage, in denen keine Kosten in Rechnung gestellt werden. Sie können sie auch zu einem beliebigen Zeitpunkt während des Testzeitraums in ein kostenpflichtiges Abonnement umwandeln.
+3. Wählen Sie die kostenlose Testversion aus, die Sie anbieten möchten, und wählen Sie dann **Übermitteln** aus. Alle Testversionen werden 30 Tage lang in Rechnung gestellt. Sie können sie auch zu einem beliebigen Zeitpunkt während des Testzeitraums in ein kostenpflichtiges Abonnement umwandeln.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Umstellen von Testversionen in kostenpflichtige Abonnements
 
@@ -77,12 +68,12 @@ Sie müssen die Testversion selbst in ein kostenpflichtiges Abonnement konvertie
 
 ### <a name="convert-trials-using-partner-center"></a>Konvertieren von Tests mithilfe von Partner Center
 
-Sie können mithilfe des Partner Center-Dashboards wie folgt Tests in kostenpflichtige Abonnements konvertieren:
+Sie können mithilfe von Partner Center Tests in kostenpflichtige Abonnements konvertieren:
 
 1. Wählen Sie auf der Abonnementseite des Kunden die kostenlose Testversion aus.
 2. Wählen Sie **Testabonnement auf kostenpflichtiges Abonnement umstellen** aus.
 3. Geben Sie die gewünschte Anzahl von Lizenzen und die Abrechnungshäufigkeit ein, und wählen Sie **Übernehmen** aus.
-4. Die Abrechnung für das kostenpflichtige Abonnement beginnt mit dem Datum der Umstellung, und das Abonnement wird automatisch zwölf Monate nach der Umstellung verlängert. 
+4. Die Abrechnung für das kostenpflichtige Abonnement beginnt am Konvertierungs Datum, und das Abonnement wird zwölf Monate nach dem Konvertierungs Datum automatisch veröffentlicht. 
 
 ### <a name="convert-trials-using-apis"></a>Konvertieren von Testversionen mithilfe von APIs
 

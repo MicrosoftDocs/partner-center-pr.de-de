@@ -4,18 +4,18 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Verwenden Sie Analytics, um zu erfahren, wie ihre indirekten Vertriebspartner dies tun, sowohl ihre Erfolge als auch die Bereiche, die möglicherweise mehr Aufmerksamkeit erfordern
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: Geschäftsdaten
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3bdc3e149d445a1d43f24d54e16c04464bea807e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 33d435b6497f84d87ce866624deb47e2bd6ebc89
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947415"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175974"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Analysieren der Leistung ihrer indirekten Händler mithilfe von Analytics
 
@@ -35,6 +35,8 @@ Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der
 
 > [!NOTE]
 > Die Analysen indirekter Vertriebspartner stehen nur Partnern im Cloud Solution Provider-Programm zur Verfügung.
+
+## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Typen von Reseller Analytics-Metriken, die Sie anzeigen können
 
 Wir verfolgen die folgenden Metriken:
 
@@ -69,4 +71,6 @@ Wir verfolgen die folgenden Metriken:
  - **Abonnements**: Anzahl der Abonnements, die der Reseller verkauft hat  
  - **Lizenzen**: Gesamtzahl der Lizenzen, die der Reseller in allen Abonnements verkauft hat  
   
-  
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Analysieren von Abonnements und Lizenzen, um geschäftliche Entscheidungen zu fördern](analyze-subscriptions-licenses.md)

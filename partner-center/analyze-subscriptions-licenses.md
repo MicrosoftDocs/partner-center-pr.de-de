@@ -1,23 +1,23 @@
 ---
-title: Analysieren von Abonnements und Lizenzen | Partner Center
-ms.date: 11/13/2019
+title: Analysieren von Abonnements und Lizenzen
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie, wie Sie die Metriken auf der Seite Abonnement-und Lizenz Analyse verwenden, um Ihre Erfolge und Bereiche zu identifizieren, die mehr Aufmerksamkeit erfordern.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: Geschäftsdaten
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 6248b3fcf99bba9aaaa3984b40346c97ce5e37bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: bef5eb909b5ad739325c87b774fb738e89c26ac0
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948587"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175963"
 ---
-# <a name="analyze-subscriptions-and-licenses"></a>Analysieren von Abonnements und Lizenzen 
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analysieren Sie Abonnements und Lizenzen, um Geschäftsentscheidungen und neue Ziele zu fördern
 
 **Zielgruppe**
 
@@ -44,6 +44,8 @@ Dieser Bericht dient zum Pivotieren basierend auf den folgenden Produkten:
  - **Microsoft 365**: Microsoft 365 Daten  
  - **Office 365**: Office 365-Daten  
 
+
+## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Typen von Abonnement-und Lizenzmetriken, die Sie anzeigen können
 
 Wir verfolgen die folgenden Metriken:
 
@@ -77,4 +79,6 @@ Wir verfolgen die folgenden Metriken:
 **Abonnements kostenloser Testversionen, die in 30 Tagen enden**  
  - Liste der gestarteten Abonnements kostenloser Testversionen, deren Enddatum innerhalb von 30 Tagen liegt und für die kein Startdatum für ein kostenpflichtiges Abonnement vorliegt  
 
-  
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Analysieren der Leistung der indirekten Reseller](analyze-indirect-resellers.md)

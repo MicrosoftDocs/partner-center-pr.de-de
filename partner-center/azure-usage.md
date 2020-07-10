@@ -1,7 +1,7 @@
 ---
-title: Microsoft Azure VM-Größe für die Verwendung der maximalen Reservierung | Partner Center
+title: Azure-VM-Größenanpassung für die maximale Reservierungs Nutzung
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie, wie Sie die Größe eines virtuellen Computers (VM) mit den computinganforderungen ihrer Kunden skalimachen, wenn Sie Microsoft Azure Reservierungen für diese Computer erwerben.
@@ -9,13 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, Reservierungen, VM, verwalten, Nutzung, Größe
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 02635631d618b226eebcacee534e5947975b8153
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453277"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175909"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Microsoft Azure VM-Größe für die maximale Reservierungsnutzung
 
@@ -25,7 +25,7 @@ ms.locfileid: "84453277"
 - Azure-Portal
 - Partner im CSP
 
-## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Ermitteln der VM-Größe für die Azure-Reservierung eines Kunden 
+## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Ermitteln der VM-Größe für die Azure-Reservierung eines Kunden
 
 Beim Kauf von Microsoft Azure Reservierungen im Auftrag ihrer Kunden müssen Sie einen virtuellen Computer (VM) auswählen, um die Anforderungen des Kunden zu erfüllen. Verwenden Sie eine der folgenden Methoden, um diese Informationen zu finden:
 
@@ -42,27 +42,31 @@ Nachstehend finden Sie eine Anleitung für jede dieser Vorgehensweisen. Nachdem 
 >[!IMPORTANT]
 >Um den Typ und die Größe des virtuellen Computers im Auftrag des Kunden korrekt identifizieren zu können, müssen Sie die unten aufgeführten Methoden verwenden, da der Typ des virtuellen Computers in der Partner Center-Abstimmungsdatei nicht richtig angezeigt wird.
 
-**Abrufen der VM-Größeninformationen mit der Azure-Nutzungs-API**
+### <a name="get-vm-sizing-information-using-the-azure-utilization-api"></a>Abrufen der VM-Größeninformationen mit der Azure-Nutzungs-API
 
 1. Verwenden Sie den Wert für Diensttyp-Attribute aus additionalInfo in der API-Antwort, um die VM-Größe für den Kauf zu identifizieren.
+
 2. Weitere Informationen finden Sie unter Ermitteln der [Auslastungs Datensätze eines Kunden für Azure](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) in der [Partner Center-API](https://docs.microsoft.com/partner-center/develop/).
 
-**Abrufen der VM-Größeninformationen im Microsoft Azure-Portal**
+### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Abrufen der VM-Größeninformationen im Microsoft Azure-Portal
 
 1. Navigieren Sie im Partner Center zur Seite **Kunden**.
+
 2. Suchen Sie den Kunden, der Azure-VM-Reservierungen erwerben möchte, und wählen Sie dann den Pfeil nach unten aus, um die Informationen des Kunden zu erweitern. Wählen Sie **Microsoft Azure-Verwaltungsportal** aus, um den Datensatz des Kunden im Azure-Portal zu öffnen.
+
 3. Wählen Sie **Virtuelle Computer** aus dem Portalmenü aus, und wählen Sie anschließend den virtuellen Computer aus, für den Sie eine Reservierung erwerben möchten.
+
 4. Suchen Sie auf der Detailseite des virtuellen Computers die Größe und Regions Informationen, wie unten dargestellt, und verwenden Sie diese Informationen, um die Reservierung in Partner Center zu erwerben.  
 
-    :::image type="content" source="images/usage1.png" alt-text="Informationen zu Größe und Region auf der Detailseite":::
+   :::image type="content" source="images/usage1.png" alt-text="Informationen zu Größe und Region auf der Detailseite":::
 
-**Abrufen der VM-Größeninformationen in Microsoft Azure PowerShell**
+### <a name="get-vm-sizing-information-using-microsoft-azure-powershell"></a>Abrufen der VM-Größeninformationen in Microsoft Azure PowerShell
 
 Verwenden Sie die Informationen in der Abbildung unten zum Abrufen von Standort und Größe des virtuellen Computers, für den Sie eine Reservierung erwerben möchten. 
 
 :::image type="content" source="images/usage2.png" alt-text="VM-Standort und Größe":::
 
-**Abrufen der VM-Größeninformationen in der Azure Resource Manager (ARM)-API**
+### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>Abrufen der VM-Größeninformationen in der Azure Resource Manager (ARM)-API
 
 1. Rufen Sie mithilfe der ARMClient- oder der ARM-APIs den ARM-Client für den virtuellen Computer auf, für den Sie eine Reservierung erwerben möchten.
 

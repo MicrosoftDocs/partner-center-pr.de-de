@@ -1,7 +1,7 @@
 ---
 title: Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie ein Kundenkonto zum gleichzeitigen zuweisen oder widerrufen von Lizenzen und Diensten für einen oder mehrere Benutzer verwenden.
@@ -10,95 +10,101 @@ ms.author: dineshvu
 Keywords: Lizenz zuweisen, Lizenz widerrufen, mehreren Benutzern zuweisen,
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 35ab785649419e443171f5037e66a8a38fd1c7e6
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 6211bbca4fad5bf6a28c98a76a98a6be02d4fceb
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948148"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86176011"
 ---
-# <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a><span data-ttu-id="bde46-104">Zuweisen oder widerrufen von Lizenzen gleichzeitig für mehrere Benutzer in einem Kundenkonto</span><span class="sxs-lookup"><span data-stu-id="bde46-104">Assign or revoke licenses at the same time to multiple users in a customer account</span></span>
+# <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a><span data-ttu-id="c1620-104">Zuweisen oder widerrufen von Lizenzen gleichzeitig für mehrere Benutzer in einem Kundenkonto</span><span class="sxs-lookup"><span data-stu-id="c1620-104">Assign or revoke licenses at the same time to multiple users in a customer account</span></span>
 
-<span data-ttu-id="bde46-105">**Zielgruppe**</span><span class="sxs-lookup"><span data-stu-id="bde46-105">**Applies to**</span></span>
+<span data-ttu-id="c1620-105">**Zielgruppe**</span><span class="sxs-lookup"><span data-stu-id="c1620-105">**Applies to**</span></span>
 
-- <span data-ttu-id="bde46-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="bde46-106">Partner Center</span></span>
+- <span data-ttu-id="c1620-106">Partner Center</span><span class="sxs-lookup"><span data-stu-id="c1620-106">Partner Center</span></span>
 
-<span data-ttu-id="bde46-107">**Geeignete Rollen**</span><span class="sxs-lookup"><span data-stu-id="bde46-107">**Appropriate roles**</span></span>
+<span data-ttu-id="c1620-107">**Geeignete Rollen**</span><span class="sxs-lookup"><span data-stu-id="c1620-107">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="bde46-108">Administrator-Agent</span><span class="sxs-lookup"><span data-stu-id="bde46-108">Admin agent</span></span>
-- <span data-ttu-id="bde46-109">Globaler Administrator</span><span class="sxs-lookup"><span data-stu-id="bde46-109">Global admin</span></span>
-- <span data-ttu-id="bde46-110">Helpdesk-Agent</span><span class="sxs-lookup"><span data-stu-id="bde46-110">Helpdesk agent</span></span>
-- <span data-ttu-id="bde46-111">Vertriebsbeauftragter</span><span class="sxs-lookup"><span data-stu-id="bde46-111">Sales agent</span></span>
-- <span data-ttu-id="bde46-112">Benutzerverwaltungsadministrator</span><span class="sxs-lookup"><span data-stu-id="bde46-112">User management admin</span></span>
+- <span data-ttu-id="c1620-108">Administrator-Agent</span><span class="sxs-lookup"><span data-stu-id="c1620-108">Admin agent</span></span>
+- <span data-ttu-id="c1620-109">Globaler Administrator</span><span class="sxs-lookup"><span data-stu-id="c1620-109">Global admin</span></span>
+- <span data-ttu-id="c1620-110">Helpdesk-Agent</span><span class="sxs-lookup"><span data-stu-id="c1620-110">Helpdesk agent</span></span>
+- <span data-ttu-id="c1620-111">Vertriebsbeauftragter</span><span class="sxs-lookup"><span data-stu-id="c1620-111">Sales agent</span></span>
+- <span data-ttu-id="c1620-112">Benutzerverwaltungsadministrator</span><span class="sxs-lookup"><span data-stu-id="c1620-112">User management admin</span></span>
 
-<span data-ttu-id="bde46-113">Sie können Lizenzen und Dienste einem Benutzer oder gleichzeitig mehreren Benutzern in einem Benutzerkonto zuweisen und die Lizenzzuweisung für Benutzer aufheben.</span><span class="sxs-lookup"><span data-stu-id="bde46-113">You can assign licenses and services to a user, or to multiple users at once in a customer account, and revoke license assignments to users.</span></span>
+<span data-ttu-id="c1620-113">Sie können Lizenzen und Dienste einem Benutzer oder gleichzeitig mehreren Benutzern in einem Benutzerkonto zuweisen und die Lizenzzuweisung für Benutzer aufheben.</span><span class="sxs-lookup"><span data-stu-id="c1620-113">You can assign licenses and services to a user, or to multiple users at once in a customer account, and revoke license assignments to users.</span></span>
 
-<span data-ttu-id="bde46-114">Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und zeigt diese an.</span><span class="sxs-lookup"><span data-stu-id="bde46-114">The Partner Center tracks and shows all customer-owned license entitlements.</span></span>
+<span data-ttu-id="c1620-114">Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und zeigt diese an.</span><span class="sxs-lookup"><span data-stu-id="c1620-114">The Partner Center tracks and shows all customer-owned license entitlements.</span></span>
 
-## <a name="in-this-section"></a><span data-ttu-id="bde46-115">In diesem Abschnitt</span><span class="sxs-lookup"><span data-stu-id="bde46-115">In this section</span></span>
-
-
-- [<span data-ttu-id="bde46-116">Zuweisen von Lizenzen zu mehreren Benutzern</span><span class="sxs-lookup"><span data-stu-id="bde46-116">Assign licenses to multiple users</span></span>](#assign-licenses-to-groups)
-- [<span data-ttu-id="bde46-117">Widerrufen der Lizenzzuweisungen von Benutzern</span><span class="sxs-lookup"><span data-stu-id="bde46-117">Revoking users' license assignments</span></span>](#revoking-licenses)
+<span data-ttu-id="c1620-115">Im weiteren Verlauf wird Folgendes vermittelt:</span><span class="sxs-lookup"><span data-stu-id="c1620-115">The following sections show you how to:</span></span>
+- [<span data-ttu-id="c1620-116">Zuweisen von Lizenzen zu mehreren Benutzern</span><span class="sxs-lookup"><span data-stu-id="c1620-116">Assign licenses to multiple users</span></span>](#assign-licenses-to-groups)
+- [<span data-ttu-id="c1620-117">Lizenz Zuweisungen von Benutzern widerrufen</span><span class="sxs-lookup"><span data-stu-id="c1620-117">Revoke users' license assignments</span></span>](#revoking-licenses)
 
 <a href="" id="assign-licenses-to-groups"></a>
-<span data-ttu-id="bde46-118">**Zuweisen von Lizenzen zu mehreren Benutzern**</span><span class="sxs-lookup"><span data-stu-id="bde46-118">**Assign licenses to multiple users**</span></span>
+## <a name="assign-licenses-to-multiple-users"></a><span data-ttu-id="c1620-118">Zuweisen von Lizenzen zu mehreren Benutzern</span><span class="sxs-lookup"><span data-stu-id="c1620-118">Assign licenses to multiple users</span></span>
 
-1. <span data-ttu-id="bde46-119">Wählen Sie im Menü **Partner Center** die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.</span><span class="sxs-lookup"><span data-stu-id="bde46-119">From the **Partner Center** menu, select **Customers**, and then choose a customer from the list.</span></span>
+1. <span data-ttu-id="c1620-119">Wählen Sie im Menü **Partner Center** die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.</span><span class="sxs-lookup"><span data-stu-id="c1620-119">From the **Partner Center** menu, select **Customers**, and then choose a customer from the list.</span></span>
 
-2. <span data-ttu-id="bde46-120">Wählen Sie **Benutzer und Lizenzen**aus.</span><span class="sxs-lookup"><span data-stu-id="bde46-120">Select **Users and licenses**.</span></span>
+2. <span data-ttu-id="c1620-120">Wählen Sie **Benutzer und Lizenzen**aus.</span><span class="sxs-lookup"><span data-stu-id="c1620-120">Select **Users and licenses**.</span></span>
 
-3. <span data-ttu-id="bde46-121">Aktivieren Sie das Kontrollkästchen für zwei oder mehr Benutzer aus der Liste.</span><span class="sxs-lookup"><span data-stu-id="bde46-121">Select the check box for two or more users from the list.</span></span> <span data-ttu-id="bde46-122">(Aktivieren Sie zum Auswählen aller Benutzer auf der aktuellen Seite das Kontrollkästchen oben in der Spalte **Benutzer**.)</span><span class="sxs-lookup"><span data-stu-id="bde46-122">(To select all users on the current page, select the check box at the top of the **Users** column.)</span></span>
+3. <span data-ttu-id="c1620-121">Aktivieren Sie das Kontrollkästchen für zwei oder mehr Benutzer aus der Liste.</span><span class="sxs-lookup"><span data-stu-id="c1620-121">Select the check box for two or more users from the list.</span></span> <span data-ttu-id="c1620-122">(Aktivieren Sie zum Auswählen aller Benutzer auf der aktuellen Seite das Kontrollkästchen oben in der Spalte **Benutzer**.)</span><span class="sxs-lookup"><span data-stu-id="c1620-122">(To select all users on the current page, select the check box at the top of the **Users** column.)</span></span>
 
-    <span data-ttu-id="bde46-123">Mithilfe der Optionen **First**, **Previous**, **Next** und **Last** können Sie Benutzer auf mehreren Seiten suchen und auswählen.</span><span class="sxs-lookup"><span data-stu-id="bde46-123">You can find and select users across multiple pages using the **First**, **Previous**, **Next** and **Last** tools.</span></span>
+    <span data-ttu-id="c1620-123">Mithilfe der Optionen **First**, **Previous**, **Next** und **Last** können Sie Benutzer auf mehreren Seiten suchen und auswählen.</span><span class="sxs-lookup"><span data-stu-id="c1620-123">You can find and select users across multiple pages using the **First**, **Previous**, **Next** and **Last** tools.</span></span>
 
-4. <span data-ttu-id="bde46-124">Wählen Sie den Link **Ausgewählte Benutzer**.</span><span class="sxs-lookup"><span data-stu-id="bde46-124">Select the **Selected Users** link.</span></span> <span data-ttu-id="bde46-125">Die angezeigte Liste enthält die ausgewählten Benutzer.</span><span class="sxs-lookup"><span data-stu-id="bde46-125">The displayed list shows the selected users.</span></span>
+4. <span data-ttu-id="c1620-124">Wählen Sie den Link **Ausgewählte Benutzer**.</span><span class="sxs-lookup"><span data-stu-id="c1620-124">Select the **Selected Users** link.</span></span> <span data-ttu-id="c1620-125">Die angezeigte Liste enthält die ausgewählten Benutzer.</span><span class="sxs-lookup"><span data-stu-id="c1620-125">The displayed list shows the selected users.</span></span>
 
-5. <span data-ttu-id="bde46-126">Wählen Sie den Link **Lizenzen verwalten**.</span><span class="sxs-lookup"><span data-stu-id="bde46-126">Select the **Manage licenses** link.</span></span>
+5. <span data-ttu-id="c1620-126">Wählen Sie den Link **Lizenzen verwalten**.</span><span class="sxs-lookup"><span data-stu-id="c1620-126">Select the **Manage licenses** link.</span></span>
 
-    <span data-ttu-id="bde46-127">Auf der Seite „Lizenzen verwalten“ werden die Liste der Lizenzansprüche für die Kundenkonten sowie die Anzahl für **Available licenses** für jedes Produkt angezeigt.</span><span class="sxs-lookup"><span data-stu-id="bde46-127">The Manage licenses page shows the list of license entitlements for the customer accounts, and the count of **Available licenses** for each product.</span></span>
+    <span data-ttu-id="c1620-127">Auf der Seite „Lizenzen verwalten“ werden die Liste der Lizenzansprüche für die Kundenkonten sowie die Anzahl für **Available licenses** für jedes Produkt angezeigt.</span><span class="sxs-lookup"><span data-stu-id="c1620-127">The Manage licenses page shows the list of license entitlements for the customer accounts, and the count of **Available licenses** for each product.</span></span>
 
-    -   <span data-ttu-id="bde46-128">Die Kontrollkästchen in der Spalte **Produkt** zeigen den Status aller ausgewählten Benutzer für die Produkte, für die Kundenansprüche vorliegen:</span><span class="sxs-lookup"><span data-stu-id="bde46-128">The check boxes in the **Product** column show the status of all selected users for the customer-entitled products:</span></span>
+    - <span data-ttu-id="c1620-128">Die Kontrollkästchen in der Spalte **Produkt** zeigen den Status aller ausgewählten Benutzer für die Produkte, für die Kundenansprüche vorliegen:</span><span class="sxs-lookup"><span data-stu-id="c1620-128">The check boxes in the **Product** column show the status of all selected users for the customer-entitled products:</span></span>
 
-        -   <span data-ttu-id="bde46-129">Wenn alle ausgewählten Benutzer bereits eine Lizenz besitzen, ist das Kontrollkästchen des Produkts ausgefüllt.</span><span class="sxs-lookup"><span data-stu-id="bde46-129">When all selected users already have a license, the product's check box is filled.</span></span>
-        -   <span data-ttu-id="bde46-130">Wenn einige der ausgewählten Benutzer über eine Produktlizenz verfügen, ist das Kontrollkästchen des Produkts teilweise ausgefüllt.</span><span class="sxs-lookup"><span data-stu-id="bde46-130">If some of the selected users have a product license, the product's check box is partially filled.</span></span>
-        -   <span data-ttu-id="bde46-131">Besitzt keiner der ausgewählten Benutzer eine Produktlizenz, ist das Kontrollkästchen leer.</span><span class="sxs-lookup"><span data-stu-id="bde46-131">If none of the selected users have a product license, the check box is clear.</span></span>
-    -   <span data-ttu-id="bde46-132">Jeder ausgewählte Benutzer wird in einem kleinen Feld am oberen Seitenrand angezeigt.</span><span class="sxs-lookup"><span data-stu-id="bde46-132">Each selected user appears in a small box near the top of the page.</span></span> <span data-ttu-id="bde46-133">Benutzer werden in einer sortierten Reihenfolge angezeigt.</span><span class="sxs-lookup"><span data-stu-id="bde46-133">Users appear in sorted order.</span></span>
+       - <span data-ttu-id="c1620-129">Wenn alle ausgewählten Benutzer bereits eine Lizenz besitzen, ist das Kontrollkästchen des Produkts ausgefüllt.</span><span class="sxs-lookup"><span data-stu-id="c1620-129">When all selected users already have a license, the product's check box is filled.</span></span>
 
-    -   <span data-ttu-id="bde46-134">Wählen Sie einen Link in der Spalte **Assigned**, um eine QuickInfo-Liste der ausgewählten Benutzer anzuzeigen, die bereits über eine Lizenz verfügen.</span><span class="sxs-lookup"><span data-stu-id="bde46-134">Select any link in the **Assigned** column to view a tooltip list showing the selected users that already have a license.</span></span>
+       - <span data-ttu-id="c1620-130">Wenn einige der ausgewählten Benutzer über eine Produktlizenz verfügen, ist das Kontrollkästchen des Produkts teilweise ausgefüllt.</span><span class="sxs-lookup"><span data-stu-id="c1620-130">If some of the selected users have a product license, the product's check box is partially filled.</span></span>
 
-    -   <span data-ttu-id="bde46-135">Für alle Produkte ohne verfügbare Lizenzen wird der Link **Buy more** angezeigt.</span><span class="sxs-lookup"><span data-stu-id="bde46-135">Any product without available licenses shows a **Buy more** link.</span></span> <span data-ttu-id="bde46-136">Sie können weitere Lizenzen erwerben, wenn Kunden sie benötigen.</span><span class="sxs-lookup"><span data-stu-id="bde46-136">You can purchase more licenses when customers require them.</span></span>
+       - <span data-ttu-id="c1620-131">Besitzt keiner der ausgewählten Benutzer eine Produktlizenz, ist das Kontrollkästchen leer.</span><span class="sxs-lookup"><span data-stu-id="c1620-131">If none of the selected users have a product license, the check box is clear.</span></span>
 
-6.  <span data-ttu-id="bde46-137">Wählen Sie unter **Assign and revoke licenses** die Produktlizenzen für die neuen Benutzer aus.</span><span class="sxs-lookup"><span data-stu-id="bde46-137">Under **Assign and revoke licenses**, select the product licenses for the new users.</span></span> <span data-ttu-id="bde46-138">Beispiel: Wenn keiner der ausgewählten Benutzer Office 365 Enterprise-Lizenzen besitzt und Sie diese hinzufügen möchten, aktivieren Sie das Kontrollkästchen.</span><span class="sxs-lookup"><span data-stu-id="bde46-138">For example, if none of the selected users have Office 365 Enterprise licenses and you want to add them, select the check box.</span></span> <span data-ttu-id="bde46-139">Sie benötigen ausreichend Lizenzen für jedes ausgewählte Produkt.</span><span class="sxs-lookup"><span data-stu-id="bde46-139">You need enough licenses for each selected product.</span></span>
+    - <span data-ttu-id="c1620-132">Jeder ausgewählte Benutzer wird in einem kleinen Feld am oberen Seitenrand angezeigt.</span><span class="sxs-lookup"><span data-stu-id="c1620-132">Each selected user appears in a small box near the top of the page.</span></span> <span data-ttu-id="c1620-133">Benutzer werden in einer sortierten Reihenfolge angezeigt.</span><span class="sxs-lookup"><span data-stu-id="c1620-133">Users appear in sorted order.</span></span>
 
-7. <span data-ttu-id="bde46-140">Durch Aktivierung des Kontrollkästchens aller Produkte wählen Sie mehrere Produkte für die Benutzer aus.</span><span class="sxs-lookup"><span data-stu-id="bde46-140">Select more than one product for the users by selecting each product's check box.</span></span>
-    -   <span data-ttu-id="bde46-141">Wählen Sie für ein beliebiges Produkt **View service plans**, um die von den Benutzern benötigten Servicepläne anzuzeigen und auszuwählen.</span><span class="sxs-lookup"><span data-stu-id="bde46-141">Select **View service plans** for any product, to view and select the service plans that the users need.</span></span>
+    - <span data-ttu-id="c1620-134">Wählen Sie einen Link in der Spalte **Assigned**, um eine QuickInfo-Liste der ausgewählten Benutzer anzuzeigen, die bereits über eine Lizenz verfügen.</span><span class="sxs-lookup"><span data-stu-id="c1620-134">Select any link in the **Assigned** column to view a tooltip list showing the selected users that already have a license.</span></span>
 
-8. <span data-ttu-id="bde46-142">Klicken Sie auf **Speichern**.</span><span class="sxs-lookup"><span data-stu-id="bde46-142">Select **Save**.</span></span> <span data-ttu-id="bde46-143">Partner Center öffnet die Bestätigungsseite **Licenses updated**, auf der die Benutzer und ihre neuen Lizenzen aufgeführt sind.</span><span class="sxs-lookup"><span data-stu-id="bde46-143">The Partner Center opens a **Licenses updated** confirmation page listing the users and their new licenses.</span></span>
+    - <span data-ttu-id="c1620-135">Für alle Produkte ohne verfügbare Lizenzen wird der Link **Buy more** angezeigt.</span><span class="sxs-lookup"><span data-stu-id="c1620-135">Any product without available licenses shows a **Buy more** link.</span></span> <span data-ttu-id="c1620-136">Sie können weitere Lizenzen erwerben, wenn Kunden sie benötigen.</span><span class="sxs-lookup"><span data-stu-id="c1620-136">You can purchase more licenses when customers require them.</span></span>
+
+6. <span data-ttu-id="c1620-137">Wählen Sie unter **Assign and revoke licenses** die Produktlizenzen für die neuen Benutzer aus.</span><span class="sxs-lookup"><span data-stu-id="c1620-137">Under **Assign and revoke licenses**, select the product licenses for the new users.</span></span> 
+
+   <span data-ttu-id="c1620-138">Wenn keiner der ausgewählten Benutzer beispielsweise über Office 365 Enterprise-Lizenzen verfügt und Sie diese hinzufügen möchten, aktivieren Sie das Kontrollkästchen.</span><span class="sxs-lookup"><span data-stu-id="c1620-138">For example, if none of the selected users has Office 365 Enterprise licenses and you want to add them, select the check box.</span></span> <span data-ttu-id="c1620-139">Sie benötigen ausreichend Lizenzen für jedes ausgewählte Produkt.</span><span class="sxs-lookup"><span data-stu-id="c1620-139">You need enough licenses for each selected product.</span></span>
+
+7. <span data-ttu-id="c1620-140">Durch Aktivierung des Kontrollkästchens aller Produkte wählen Sie mehrere Produkte für die Benutzer aus.</span><span class="sxs-lookup"><span data-stu-id="c1620-140">Select more than one product for the users by selecting each product's check box.</span></span>
+    -   <span data-ttu-id="c1620-141">Wählen Sie für ein beliebiges Produkt **View service plans**, um die von den Benutzern benötigten Servicepläne anzuzeigen und auszuwählen.</span><span class="sxs-lookup"><span data-stu-id="c1620-141">Select **View service plans** for any product, to view and select the service plans that the users need.</span></span>
+
+8. <span data-ttu-id="c1620-142">Wählen Sie **Speichern** aus.</span><span class="sxs-lookup"><span data-stu-id="c1620-142">Select **Save**.</span></span> <span data-ttu-id="c1620-143">Partner Center öffnet die Bestätigungsseite **Licenses updated**, auf der die Benutzer und ihre neuen Lizenzen aufgeführt sind.</span><span class="sxs-lookup"><span data-stu-id="c1620-143">The Partner Center opens a **Licenses updated** confirmation page listing the users and their new licenses.</span></span>
 
 >[!NOTE]
-><span data-ttu-id="bde46-144">Einige Microsoft-Produkte sind an bestimmten Standorten möglicherweise nicht verfügbar.</span><span class="sxs-lookup"><span data-stu-id="bde46-144">Some Microsoft products may not be available in certain locations.</span></span> <span data-ttu-id="bde46-145">Wieder andere Produkte sind abhängig von anderen Produkten oder Diensten oder können dem gleichen Benutzer nicht zusammen zugewiesen werden.</span><span class="sxs-lookup"><span data-stu-id="bde46-145">Other products are dependent on other products or services, or can't be assigned together to the same user.</span></span> <span data-ttu-id="bde46-146">Nach dem Speichern werden auf der Bestätigungsseite die Ergebnisse der erfolgreichen Lizenzzuweisung für alle Benutzer sowie fehlerhafte Lizenzzuweisungen angezeigt.</span><span class="sxs-lookup"><span data-stu-id="bde46-146">After you save, the confirmation page lists all users' results from successful license assignment, and any errors from the license assignment.</span></span>
-
+><span data-ttu-id="c1620-144">Einige Microsoft-Produkte sind an bestimmten Standorten möglicherweise nicht verfügbar.</span><span class="sxs-lookup"><span data-stu-id="c1620-144">Some Microsoft products may not be available in certain locations.</span></span> <span data-ttu-id="c1620-145">Wieder andere Produkte sind abhängig von anderen Produkten oder Diensten oder können dem gleichen Benutzer nicht zusammen zugewiesen werden.</span><span class="sxs-lookup"><span data-stu-id="c1620-145">Other products are dependent on other products or services, or can't be assigned together to the same user.</span></span> <span data-ttu-id="c1620-146">Nach dem Speichern werden auf der Bestätigungsseite die Ergebnisse der erfolgreichen Lizenzzuweisung für alle Benutzer sowie fehlerhafte Lizenzzuweisungen angezeigt.</span><span class="sxs-lookup"><span data-stu-id="c1620-146">After you save, the confirmation page lists all users' results from successful license assignment, and any errors from the license assignment.</span></span>
 
 <a href="" id="revoking-licenses"></a>
-<span data-ttu-id="bde46-147">**Aufheben der Lizenz Zuweisungen von Benutzern**</span><span class="sxs-lookup"><span data-stu-id="bde46-147">**Revoking users' license assignments**</span></span>
+## <a name="revoke-users-license-assignments"></a><span data-ttu-id="c1620-147">Lizenz Zuweisungen von Benutzern widerrufen</span><span class="sxs-lookup"><span data-stu-id="c1620-147">Revoke users' license assignments</span></span>
 
-1. <span data-ttu-id="bde46-148">Wählen Sie im Menü **Partner Center** die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.</span><span class="sxs-lookup"><span data-stu-id="bde46-148">From the **Partner Center** menu, select **Customers**, and then choose a customer from the list.</span></span>
+1. <span data-ttu-id="c1620-148">Wählen Sie im Menü **Partner Center** die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.</span><span class="sxs-lookup"><span data-stu-id="c1620-148">From the **Partner Center** menu, select **Customers**, and then choose a customer from the list.</span></span>
 
-2. <span data-ttu-id="bde46-149">Wählen Sie **Benutzer und Lizenzen**aus.</span><span class="sxs-lookup"><span data-stu-id="bde46-149">Select **Users and licenses**.</span></span>
+2. <span data-ttu-id="c1620-149">Wählen Sie **Benutzer und Lizenzen**aus.</span><span class="sxs-lookup"><span data-stu-id="c1620-149">Select **Users and licenses**.</span></span>
 
-3. <span data-ttu-id="bde46-150">Aktivieren Sie das Kontrollkästchen für zwei oder mehr Benutzer aus der Liste.</span><span class="sxs-lookup"><span data-stu-id="bde46-150">Select the check box for two or more users from the list.</span></span> <span data-ttu-id="bde46-151">(Aktivieren Sie zum Auswählen aller Benutzer auf der aktuellen Seite das Kontrollkästchen oben in der Spalte **Benutzer**.)</span><span class="sxs-lookup"><span data-stu-id="bde46-151">(To select all users on the current page, select the check box at the top of the **Users** column.)</span></span>
+3. <span data-ttu-id="c1620-150">Aktivieren Sie das Kontrollkästchen für zwei oder mehr Benutzer aus der Liste.</span><span class="sxs-lookup"><span data-stu-id="c1620-150">Select the check box for two or more users from the list.</span></span> <span data-ttu-id="c1620-151">(Aktivieren Sie zum Auswählen aller Benutzer auf der aktuellen Seite das Kontrollkästchen oben in der Spalte **Benutzer**.)</span><span class="sxs-lookup"><span data-stu-id="c1620-151">(To select all users on the current page, select the check box at the top of the **Users** column.)</span></span>
 
-    <span data-ttu-id="bde46-152">Blättern Sie durch die Optionen **First**, **Previous**, **Next** und **Last**, um weitere Benutzer zu suchen und auszuwählen.</span><span class="sxs-lookup"><span data-stu-id="bde46-152">Page through the **First**, **Previous**, **Next** and **Last** tools to find and select other users.</span></span> <span data-ttu-id="bde46-153">Sie können Benutzer auf mehreren Seiten auswählen.</span><span class="sxs-lookup"><span data-stu-id="bde46-153">You can select across multiple pages.</span></span>
+    <span data-ttu-id="c1620-152">Blättern Sie durch die Optionen **First**, **Previous**, **Next** und **Last**, um weitere Benutzer zu suchen und auszuwählen.</span><span class="sxs-lookup"><span data-stu-id="c1620-152">Page through the **First**, **Previous**, **Next** and **Last** tools to find and select other users.</span></span> <span data-ttu-id="c1620-153">Sie können Benutzer auf mehreren Seiten auswählen.</span><span class="sxs-lookup"><span data-stu-id="c1620-153">You can select across multiple pages.</span></span>
 
-4. <span data-ttu-id="bde46-154">Klicken Sie nach dem Auswählen der Benutzer auf den Link **Ausgewählte Benutzer**.</span><span class="sxs-lookup"><span data-stu-id="bde46-154">After selecting the users, choose the **Selected Users** link.</span></span> <span data-ttu-id="bde46-155">Die angezeigte Liste enthält nur die ausgewählten Benutzer.</span><span class="sxs-lookup"><span data-stu-id="bde46-155">The displayed list shows only the selected users.</span></span>
+4. <span data-ttu-id="c1620-154">Klicken Sie nach dem Auswählen der Benutzer auf den Link **Ausgewählte Benutzer**.</span><span class="sxs-lookup"><span data-stu-id="c1620-154">After selecting the users, choose the **Selected Users** link.</span></span> <span data-ttu-id="c1620-155">Die angezeigte Liste enthält nur die ausgewählten Benutzer.</span><span class="sxs-lookup"><span data-stu-id="c1620-155">The displayed list shows only the selected users.</span></span>
 
-5. <span data-ttu-id="bde46-156">Wählen Sie den Link **Lizenzen verwalten**.</span><span class="sxs-lookup"><span data-stu-id="bde46-156">Select the **Manage licenses** link.</span></span>
+5. <span data-ttu-id="c1620-156">Wählen Sie den Link **Lizenzen verwalten**.</span><span class="sxs-lookup"><span data-stu-id="c1620-156">Select the **Manage licenses** link.</span></span>
 
-6. <span data-ttu-id="bde46-157">Deaktivieren Sie unter **Assign and revoke licenses** die Kontrollkästchen für den Benutzern zugewiesene Produkte.</span><span class="sxs-lookup"><span data-stu-id="bde46-157">Under **Assign and revoke licenses**, clear the check boxes for products assigned to the users.</span></span> <span data-ttu-id="bde46-158">Beispiel: Wenn alle ausgewählten Benutzer Office 365 Enterprise-Lizenzen besitzen und Sie diese widerrufen möchten, deaktivieren Sie das Kontrollkästchen.</span><span class="sxs-lookup"><span data-stu-id="bde46-158">For example, if all of the selected users have Office 365 Enterprise licenses and you want to revoke them, select the check box to clear it.</span></span>
+6. <span data-ttu-id="c1620-157">Deaktivieren Sie unter **Assign and revoke licenses** die Kontrollkästchen für den Benutzern zugewiesene Produkte.</span><span class="sxs-lookup"><span data-stu-id="c1620-157">Under **Assign and revoke licenses**, clear the check boxes for products assigned to the users.</span></span>
 
-7. <span data-ttu-id="bde46-159">Wählen Sie **Speichern** aus.</span><span class="sxs-lookup"><span data-stu-id="bde46-159">Select **Save**.</span></span>
+   <span data-ttu-id="c1620-158">Beispiel: Wenn alle ausgewählten Benutzer Office 365 Enterprise-Lizenzen besitzen und Sie diese widerrufen möchten, deaktivieren Sie das Kontrollkästchen.</span><span class="sxs-lookup"><span data-stu-id="c1620-158">For example, if all of the selected users have Office 365 Enterprise licenses and you want to revoke them, select the check box to clear it.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="bde46-160">Nächste Schritte</span><span class="sxs-lookup"><span data-stu-id="bde46-160">Next steps</span></span>
+7. <span data-ttu-id="c1620-159">Wählen Sie **Speichern** aus.</span><span class="sxs-lookup"><span data-stu-id="c1620-159">Select **Save**.</span></span>
 
-[<span data-ttu-id="bde46-161">Zuweisen von Lizenzen an einen Benutzer</span><span class="sxs-lookup"><span data-stu-id="bde46-161">Assign licenses to a user</span></span>](assign-licenses-to-users.md)
+## <a name="next-steps"></a><span data-ttu-id="c1620-160">Nächste Schritte</span><span class="sxs-lookup"><span data-stu-id="c1620-160">Next steps</span></span>
+
+- [<span data-ttu-id="c1620-161">Zuweisen von Lizenzen an einen Benutzer</span><span class="sxs-lookup"><span data-stu-id="c1620-161">Assign licenses to a user</span></span>](assign-licenses-to-users.md)
+
+- [<span data-ttu-id="c1620-162">Wiederherstellen von Administratorrechten für Azure CSP-Abonnements eines Kunden</span><span class="sxs-lookup"><span data-stu-id="c1620-162">Reinstate admin privileges for a customer's Azure CSP subscriptions</span></span>](revoke-reinstate-csp.md)

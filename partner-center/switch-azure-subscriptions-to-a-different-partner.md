@@ -1,21 +1,20 @@
 ---
 title: Übertragen eines Azure-Abonnements auf einen anderen Partner
 ms.topic: article
-ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie Kunden dabei helfen, den CSP-Programmpartner zu ändern, der den Azure-Abonnements dieses Kunden zugeordnet ist.
-author: dhirajgandhi
-ms.author: dhgandhi
-keywords: Azure-Abonnement, Partner wechseln, Partner ändern, neue Partner, andere Partner
+description: Erfahren Sie, wie Sie den Programmpartner von Cloud Solution Provider ändern, der mit den Azure-Abonnements eines Kunden verknüpft ist.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 65278a9c597fb240f87c04f215a8195a0cff3e19
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+author: dhirajgandhi
+ms.author: dhgandhi
+ms.date: 07/10/2020
+ms.openlocfilehash: 688208dc94b2be7c641065bbc262241a488d9152
+ms.sourcegitcommit: 51b8acee427a8130d20b4a82d1ac107f962a51db
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949096"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86237970"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Erfahren Sie, wie Sie die Azure-Abonnements eines Kunden auf einen anderen Partner übertragen.
 
@@ -52,9 +51,9 @@ Führen Sie die folgenden manuellen Schritte aus, um die Azure-Dienste oder-Abon
 
      Wählen Sie in Schritt 2 die Option **C-minimale Auswirkung** aus, und wählen Sie **andere allgemeine Fragen** als Problemtyp aus.
 
-     Laden Sie das [CSP-Abonnementübertragungsformular](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip) herunter.
+     Laden Sie das [CSP-Abonnementübertragungsformular](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA) herunter.
 
-3. Der Partner für das Abonnement: füllen Sie das [Formular für das CSP-Abonnement Transfer](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)aus, Signieren Sie es, und senden Sie es dann an den Kunden. Sie benötigen folgende Informationen, um das Formular auszufüllen:
+3. Der Partner für das Abonnement: füllen Sie das [Formular für das CSP-Abonnement Transfer](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)aus, Signieren Sie es, und senden Sie es dann an den Kunden. Sie benötigen folgende Informationen, um das Formular auszufüllen:
 
    - Die Kontaktinformationen und die Microsoft-ID des aktuellen Partners. Wählen Sie im Menü „Partner Center” **Kontoeinstellungen** &gt; **Organisationsprofil**, und verwenden Sie die **Microsoft-ID**, **Name der Organisation** und **Adresse**, die dort aufgeführt sind.
 

@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Ihr Partner Center-Kennwort zurücksetzen oder Hilfe vom globalen Administrator Ihres Unternehmens erhalten. Erfahren Sie außerdem, wie Sie einen neuen globalen Administrator für Partner Center hinzufügen.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b18e28170dcf51d1a2dc36134fb5ad404f18502
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: efd7b886c507940fe474b1984024a18766ebfce7
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991994"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265220"
 ---
 # <a name="reset-my-password"></a>Zurücksetzen des eigenen Kennworts
 
@@ -28,7 +28,7 @@ Ihr globaler Administrator muss das Kennwort selbst zurücksetzen können. (Wenn
 
 2. Wählen Sie Geschäfts- **oder Schul Konto**aus.
 
-3. Als nächstes werden Sie aufgefordert, Ihre Benutzer-ID und die Zeichen in der Abbildung oder im Audioformat einzugeben. Wählen Sie **Weiter**aus.
+3. Als nächstes werden Sie aufgefordert, Ihre Benutzer-ID und die Zeichen in der Abbildung oder im Audioformat einzugeben. Klicken Sie anschließend auf **Weiter**.
 
 4. Richten Sie Ihr neues Kennwort ein.
 

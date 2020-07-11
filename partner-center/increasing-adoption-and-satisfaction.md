@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32c765797af31095ddec0c43c9bb132b68e1d319
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ef1ea79e669c16e663a40cdef8b0d4d3af6f219f
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992114"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175889"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Verwenden von Metriken im Partner Center, um Akzeptanz und Zufriedenheit zu steigern
 
@@ -39,21 +39,31 @@ Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wä
 
 ## <a name="find-license-and-user-data"></a>Suchen nach Lizenz- und Benutzerdaten
 
+Sie können Lizenz-und Benutzerdaten für einen einzelnen Kunden oder für das gesamte Portfolio finden.
 
-**Einzelner Kunde**
+### <a name="find-license-and-user-data-for-a-single-customer"></a>Suchen von Lizenz-und Benutzerdaten für einen einzelnen Kunden
 
-- Wählen Sie im **Partner Center** die Option **Kunden**, dann einen Kundennamen und schließlich **Kundendaten** aus.
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
-**Ganzes Portfolio**
+2. Auswählen von **Kunden** aus dem **Partner Center**
 
-1.  Wählen Sie im **Partner Center** die Option **Analysieren** aus.
-2.  Laden Sie Bereitstellungs- und Nutzungsdaten Ihres gesamten Kundenstamms herunter, indem Sie die Optionen für den **Export** auswählen.
+3. Wählen Sie einen Kunden aus.
+
+4. Wählen Sie **Customer Insights**aus.
+
+### <a name="find-license-and-user-data-across-your-portfolio"></a>Suchen von Lizenz-und Benutzerdaten in Ihrem gesamten Portfolio
+
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
+
+2. Wählen Sie **analysieren**aus, und wählen Sie eine der Analyseoptionen im Menü aus.
+
+3. Wenn Sie Bereitstellungs-und Nutzungsdaten für den gesamten Kunden Satz herunterladen möchten, wählen Sie die Option **exportieren** (Pfeil nach unten) aus.
 
 Terminologie:
 
-- **Berechtigung:** eine Lizenz, für die der Benutzer berechtigt ist (er wird nicht für Betrug oder Nichtzahlung angehalten, es wurde kein Upgrade auf eine andere Lizenz durchgeführt, er wurde nicht vom Benutzer abgebrochen usw.)
+- **Berechtigung** = eine Lizenz, die der Benutzer verwendet (er wird nicht für Betrug oder Nichtzahlung angehalten, es wurde kein Upgrade auf eine andere Lizenz durchgeführt, er wurde nicht vom Benutzer abgebrochen usw.)
 
-- **Aktiv** Der Abonnent hat die Berechtigung in den letzten 28 Kalendertagen für eine Aufgabe genutzt.
+- **Aktiv** = gibt an, ob der abonnierte Benutzer die Berechtigung für eine Aufgabe in den letzten 28 Kalendertagen verwendet hat.
 
 - **Bereitstellung %** = zugewiesene Lizenzen/verkaufte Lizenzen
 
@@ -61,13 +71,13 @@ Terminologie:
 
    Manchmal ist die prozentuale Nutzung überhöht oder größer als 100 %. Dies kann verschiedene Ursachen haben:
 
-   - Die Lizenz wurde aufgrund eines Mitarbeiterwechsels beim Kunden auf einen neuen Benutzer übertragen.
+  - Die Lizenz wurde aufgrund eines Mitarbeiterwechsels beim Kunden auf einen neuen Benutzer übertragen.
 
-   - Wenn der Kunde über zwei Abonnements für eine SKU verfügt, eines davon aber in Karenzzeit, deaktiviert oder nicht mehr bereitgestellt ist, kann die aktive Nutzung während des 28-Tage-Zeitraums für die Berechtigungen beider Abonnements erfasst werden, es wird aber nur ein Abonnement auf die Gesamtsumme angerechnet.
+  - Wenn der Kunde über zwei Abonnements für eine SKU verfügt, eines davon aber in Karenzzeit, deaktiviert oder nicht mehr bereitgestellt ist, kann die aktive Nutzung während des 28-Tage-Zeitraums für die Berechtigungen beider Abonnements erfasst werden, es wird aber nur ein Abonnement auf die Gesamtsumme angerechnet.
 
-   - Wenn der Kunde über ein Testabonnement verfügt, wird die Aktivität erfasst, aber das Abonnement wird nicht auf die Gesamtberechtigungen angerechnet.
+  - Wenn der Kunde über ein Testabonnement verfügt, wird die Aktivität erfasst, aber das Abonnement wird nicht auf die Gesamtberechtigungen angerechnet.
 
-   - Wenn einige Kunden Yammer viel intensiver nutzen als per Lizenz vereinbart, können die Daten erheblich verzerrt sein.
+  - Wenn einige Kunden Yammer viel intensiver nutzen als per Lizenz vereinbart, können die Daten erheblich verzerrt sein.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

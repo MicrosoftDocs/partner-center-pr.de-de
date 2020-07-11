@@ -5,18 +5,18 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie ein ausgesetztes Partner Center-Konto wiederherstellen, warum Partner Center-Konten ausgesetzt werden, und wie Sie Ihr Konto verwenden können, während es ausgesetzt ist.
-author: LauraBrenner
-ms.author: labrenne
+author: kbangalore
+ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514480372d1717159f9dff6cb3b3b2e575c069b8
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 07d9f4f484a7c7803d5b7a41d1d8fe0f698b58d3
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991796"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219648"
 ---
-# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Wiederherstellen eines angehaltenen Partner Center-Kontos: erfahren Sie, warum es passiert und was Sie tun sollten
+# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Wiederherstellen eines gesperrten Partner Center-Kontos: Gründe und Vorgehensweise
 
 In diesem Artikel wird beschrieben, was zu tun ist, wenn Ihr Partner Center-Konto gesperrt ist.
 
@@ -27,7 +27,7 @@ In diesem Artikel wird beschrieben, was zu tun ist, wenn Ihr Partner Center-Kont
 
 
 > [!IMPORTANT]  
-> Während Ihr Partner Center-Konto ausgesetzt ist, können Sie vorhandene Bereitstellungen, Lizenzen und Dienste weiter verwalten. Sie sind jedoch nicht in der Lage, neue Lizenzen oder Dienste zu autorisieren oder neu zu verkaufen, bis Ihr Konto wieder in Ordnung ist.
+> Während Ihr Partner Center-Konto gesperrt ist, können Sie Ihre vorhandenen Bereitstellungen, Lizenzen und Dienste weiterhin verwalten. Sie sind jedoch nicht in der Lage, neue Lizenzen oder Dienste zu autorisieren oder weiterzuverkaufen, bis Ihr Konto wieder ordnungsgemäß geführt wird.
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>Warum Partner Center-Konten gesperrt werden
 

@@ -1,7 +1,7 @@
 ---
 title: Preise und Angebote
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Weitere Informationen finden Sie in den aktuellen Preislisten für Lizenz basierte Dienste wie Office 365, Microsoft Dynamics CRM und Enterprise Mobility Suite und Verwendungs basierte Dienste wie Azure.
@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 066b69cc0a70ded518c6bbaa9f35879e4b992a89
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f119410e1d1530ba909d4ce18edd83b718da74f8
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949331"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286628"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preise und Angebote für Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure und mehr
 
@@ -42,7 +42,7 @@ Um die neuesten Programme und Angebote für Cloud Solution Provider anzuzeigen, 
 - **Marketplace** umfasst die Preise für ISV-Lösungen aus dem kommerziellen Marketplace von Microsoft. Die Preise werden pro Markt abgerufen. Die Daten in diesen Dateien werden täglich aktualisiert.
 
 > [!Note] 
-> Nur CSP-Partner mit der Funktion zum Transact können Preislisten anzeigen und herunterladen. Indirekte Händler wenden sich an [ihren CSP-Anbieter]( https://partner.microsoft.com/en-us/cloud-solution-provider/find-a-provider) , um Details zu den Preisen anzufordern.
+> Nur CSP-Partner mit der Funktion zum Transact können Preislisten anzeigen und herunterladen. Indirekte Händler wenden sich an [ihren CSP-Anbieter]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) , um Details zu den Preisen anzufordern.
 
 ## <a name="price-list-preview-and-change-frequency"></a>Preislisten Vorschau und Änderungs Häufigkeit 
 
@@ -89,8 +89,8 @@ CSP bietet einige Dienste für spezielle Marktsegmente, z. b. Education, Non-Pro
 
 |**Segment**   |**Wer muss qualifiziert werden**   |**Partner qualifiziert Kunden**|**Aktivierte Produkttypen**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Kunde|Nein, Kunden Qualifizierung wird von Microsoft durchgeführt. |Nur Lizenz basiert|
-|Non-Profit|Kunde|Nein, Kunden, die sich außerhalb von Partner Center qualifizieren|Nur Lizenz basiert|
+|Education|Customer|Nein, Kunden Qualifizierung wird von Microsoft durchgeführt. |Nur Lizenz basiert|
+|Non-Profit|Customer|Nein, Kunden, die sich außerhalb von Partner Center qualifizieren|Nur Lizenz basiert|
 |Government Community Cloud (GCC)|Partner und Kunde|Nachdem gcc aktiviert wurde, kann der Partner gcc-Kunden erstellen.| Nur Lizenz basiert|
 |Azure Government|Partner|Nach der Qualifikation arbeitet der Partner in einem CSP-Mandanten, der für Azure Government|Azure-Ressourcen|
 
@@ -157,7 +157,7 @@ Es gibt ungefähr 50 Dynamics-Angebote mit drei Jahres Bedingungen. Diese werden
 
 Das Basisangebot Microsoft 365 a1 hat eine Laufzeit von sechs Jahren.  Die Office 365 a1-Add-ons sind nach dem Erwerb dieses Basis Angebots verfügbar. 
 
-|**Angebotsname**   |**Angebots-ID**   |**Type**|
+|**Angebotsname**   |**Angebots-ID**   |**Typ**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Basisangebot|
 |Office 365 a1 für Lehrpersonal (für Gerät)|0757d14e-7c57-456F-8dab-47d164f2ff1f|Add-On|

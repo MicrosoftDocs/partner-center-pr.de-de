@@ -5,15 +5,15 @@ ms.date: 05/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synchronisieren Ihrer Verweise in Partner Center mit Ihrem Salesforce CRM
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e51ddc8ec3ea568a20404801802548f79cae43d0
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 0a22587f5b555281cae6f557acfc2695ba92727e
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991616"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302377"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Co-Selling-Connector für Salesforce CRM – Übersicht
 
@@ -28,7 +28,7 @@ Die Lösung basiert auf der Microsoft Power automatisieren-Lösung und verwendet
 
 ## <a name="before-you-install---pre-requisites"></a>Vor der Installation von-Pre-Requirements
 
-|**Themen**   |**Details**   |**Links**   |
+|**Sonder**   |**Details**   |**Links**   |
 |--------------|--------------------|------|
 |Microsoft Partner Network-ID |Sie benötigen eine gültige MPN-ID.|So fügen Sie [MPN](https://partner.microsoft.com/) an|
 |Co-Selling bereit|Ihre IP-/Dienst-Lösung muss für den Co-Selling bereit sein.|[Vertrieb mit Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -226,7 +226,7 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
 3. **Felder & Beziehungen** im linken Navigationsbereich auswählen
 
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
+   :::image type="content" source="images/salesforce/fields1.png" alt-text="Felder":::
 
 4. Fügen Sie die folgenden Felder in den **Feldern & Beziehungs** Tabelle hinzu:
 
@@ -235,7 +235,7 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
    |Audit| Audit__c|Long-Text Bereich (100000) (sichtbare Zeile 4)||
    |Wie kann Microsoft helfen?|How_can_Microsoft_help_c|Auswahlliste|
    |Produkte|Products_c|Text (255)||
-   |Referral | Referral_Identfier_c|Text (100) (externe ID)|Ja|
+   |Referral | Referral_Identfier_c|Text (100) (externe ID)|ja|
    |Verweis Link| Referral_Link_c_|URL (255)||
    |Mit Partner Center synchronisieren|sync_with_partner_center_c|CheckBox (Standardeinstellung deaktiviert)||
 

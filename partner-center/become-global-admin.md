@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Zum Arbeiten in Partner Center müssen Sie zunächst den Besitz Ihrer Domäne überprüfen. Hier erfahren Sie, wie Sie dazu vorgehen müssen und wie Sie ein globaler Administrator werden, der Benutzer hinzufügen kann.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 keywords: Domäne, Domänenüberprüfung, Domäne überprüfen, globaler Administrator, Benutzerrollen, Berechtigungen
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2aed5fa0c8e80f056d643dbfd7c55b3a156331e7
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: b9081796263e109e65a633b0a492d4bd58c7fa0a
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908259"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948237"
 ---
 # <a name="verify-your-domain-ownership"></a>Überprüfen Ihres Domänenbesitzes
 
@@ -36,7 +36,7 @@ Sie müssen den Besitz Ihrer Domain bestätigen, damit Sie die Vorteile, für di
 
 ## <a name="verify-your-domain-ownership-and-become-a-global-admin-in-partner-center"></a>Überprüfen des Domänenbesitzes und globaler Administrator im Partner Center werden
 
-1. Wählen Sie im Partner Center auf der Seite **Mitgliedschaftsangebote** die Option **Globaler Administrator werden** aus. 
+1. Wählen Sie im Partner Center-Dashboard auf der Seite **Mitgliedschaftsangebote** die Option **Globaler Administrator werden** aus. 
 
 2. Kopieren Sie auf der Seite zum **Überprüfen des Domänenbesitzes** die TXT-Werte aus der Tabelle aus. Beachten Sie, dass Ihre Domäne bereits für Sie ausgewählt ist.
 

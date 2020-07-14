@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: Indirekte Vertriebspartner, Händler, indirekte Anbieter, Anbieter, Partnerschaft, VAR, Ebene2, Ebene 2
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ec6fcb6ccfd867d986aad2b751650cd6c1669229
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9450d4e32a086add3c86e398dacd1a590e7e6d4c
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362758"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879353"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Informationen zum Arbeiten mit indirekten Anbietern im Cloud Solution Provider-Programm
 
@@ -196,6 +196,24 @@ Um Administratorberechtigungen zum Verwalten von Abonnements und Diensten eines 
 4. Nachdem der Kunde Sie und Ihren Anbieter als Vertriebspartner autorisiert hat, verfügen Sie über Administratorberechtigungen zur Verwaltung seiner Abonnements, Lizenzen und Benutzer. Außerdem kann Ihr indirekter Anbieter Aufträge im Namen des Kunden ausführen.
 
 5. Erweitere zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem du neben seinem Namen auf den nach unten weisenden Pfeil klickst.
+
+## <a name="remove-a-relationship-with-a-customer"></a>Entfernen einer Partnerschaft mit einem Kunden
+
+Zum Entfernen einer Partnerschaft mit einem Kunden führen Sie die folgenden Schritte aus:
+
+1.  Wechseln Sie im Partner Center zu **Kunden**, und wählen Sie den Kunden aus, dessen Kundenbeziehung Sie entfernen möchten.
+
+2.  Wählen Sie das **Konto** aus.
+
+3.  Wählen Sie **Kundenbeziehung entfernen** aus.
+
+4.  Der Kunde wird nicht mehr in der Kundenliste angezeigt.
+
+>[!IMPORTANT]
+>Wenn Sie eine Partnerschaft mit einem Kunden aufgebaut haben und diese Kundenbeziehung entfernen, bleiben alle zugewiesenen delegierten Administratorrechte unverändert.
+>Sie versichern, dass die Entscheidung, Ihre Partnerschaft mit dem Kunden zu beenden, in gutem Glauben, aus einem legitimen Geschäftszweck und in Übereinstimmung mit Ihrer Vereinbarung mit dem Kunden oder Partner getroffen wurde, und Sie erklären sich damit einverstanden, Microsoft gegen gegenteilige Ansprüche Dritter zu verteidigen und schadlos zu halten.
+>Sie müssen Ihrem Kunden oder Partner eine rechtsgültige Kündigung zukommen lassen, wenn Ihre Vereinbarung dies erfordert. Dieses Tool generiert keine Kündigungshinweise an den Kunden oder Partner.
+
 
 ## <a name="next-steps"></a>Nächste Schritte
 

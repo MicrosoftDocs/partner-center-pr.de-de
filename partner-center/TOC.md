@@ -252,6 +252,4 @@
 ## [Übersicht](partner-security-requirements.md)
 ## [Festlegen von MFA für Ihren Partnermandanten](partner-security-requirements-mandating-mfa.md) 
 ## [Anforderungsstatus](partner-security-compliance.md)
-## [Implementieren der Sicherheitsanforderungen für Partner](implement-security-requirements.md)
 ## [Häufig gestellte Fragen](partner-security-requirements-faq.md)
-

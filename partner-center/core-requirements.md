@@ -1,22 +1,23 @@
 ---
-title: Incentives-Co-Op-Ansprüche – Grundlegende Anforderungen | Partner Center
+title: Grundlegende Anforderungen für Incentives-Co-Op-Ansprüche
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Hier erfahren Sie etwas über die Anforderungen zum Übermitteln eines Incentiveanspruchs in Partner Center für eine bestimmte Art von Aktivität innerhalb des Incentives-Co-Op-Programms.
+description: Erfahren Sie, wie Sie Nachfrage erzeugen, die Marktentwicklung verstehen und die Bereitschaft von Partnern für die Aktivitäten in Ihrem Incentives-Programm maximieren können.
 author: kim-davis
 ms.author: kimnich
 keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel, grundlegende Anforderungen
 ms.localizationpriority: high
-ms.openlocfilehash: ec231bf62c302f48cbdb66994433277c96e3f862
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 9ba2ea7a19309443f847322e847666e78ecf058b
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947865"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377614"
 ---
-# <a name="core-requirements-for-incentives-co-op-claims"></a>Grundlegende Anforderungen für Incentives-Co-Op-Ansprüche
+# <a name="incentives-co-op-claims-core-requirements"></a>Incentives-Co-Op-Ansprüche – Grundlegende Anforderungen
 
 **Zielgruppe**
 

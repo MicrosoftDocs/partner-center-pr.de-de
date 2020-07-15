@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Vergleichen Sie die wichtigsten Unterschiede zwischen den Angeboten in der neuen Microsoft Commerce-Funktionalität für Partner im CSP-Programm (Cloud Solution Provider).
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a68009f213ac31210b5c1c142116e8057231c3ed
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 5160c494dbd6b64fd6f1c29ce7d3ffcf0d83730b
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908738"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377624"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Vergleich der Unterschiede zwischen Azure-Angeboten im CSP-Programm
 
@@ -26,8 +26,11 @@ ms.locfileid: "84908738"
 - Helpdesk-Agent
 - Vertriebsbeauftragter
 
-Die folgende Tabelle bietet eine Übersicht der wichtigsten Unterschiede zwischen den Angeboten, die im CSP-Programm (Cloud Solution Provider, Cloud-Lösungsanbieter) zur Verfügung stehen und Teil der neuen Microsoft Commerce-Funktionalität sind.
+In diesem Artikel werden die wichtigsten Unterschiede zwischen Azure-Angeboten im Cloud Solution Provider (CSP)-Programm beschrieben.
 
+## <a name="overview-of-key-differences-between-azure-offers"></a>Die wichtigsten Unterschiede zwischen Azure-Angeboten – Übersicht
+
+Die folgende Tabelle enthält eine Übersicht der wichtigsten Unterschiede zwischen den Angeboten im CSP-Programm, die Teil der neuen Microsoft Commerce-Funktionalität sind.
 
 |**Angebot**| **Azure-Plan**|**Marketplace-Angebote von Drittanbietern**|**Azure-Reservierungen**|**Über CSP verkaufte Serverabonnements**|**Arbeitsplatzbasierte Angebote**|
 |-------------------|:------|:-----|:---------|:--------------|:---------|
@@ -44,11 +47,10 @@ Die folgende Tabelle bietet eine Übersicht der wichtigsten Unterschiede zwische
 
 *Microsoft stellt im vierten Quartal Preislisten-APIs für den programmgesteuerten Echtzeitzugriff auf Preise für Azure-Verbrauchseinheiten bereit.
 
-**Weitere Informationen**
+## <a name="next-steps"></a>Nächste Schritte
 
 - [Umstellung auf Azure-Plan: Einstieg](azure-plan-get-started.md)
 
 - [Erwerb des Azure-Plans](purchase-azure-plan.md)
 
 - [Verwalten von Abonnements und Ressourcen in einem Azure-Plan](azure-plan-manage.md)
-

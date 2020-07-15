@@ -5,16 +5,16 @@ ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie Partner mithilfe der verschiedenen Optionen für die rollenbasierte Zugriffssteuerung (Role-Based Access Control, RBAC) die operative Kontrolle über und die Verwaltung für die Azure-Ressourcen eines Kunden erhalten.
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d06ada3cc16949da9a457b4515978444887ed56
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1d89c74ac9adb689e1b349a38de7ac49eb6c8076
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948440"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175946"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Verwalten von Abonnements und Ressourcen in einem Azure-Plan
 
@@ -29,9 +29,9 @@ Wenn Sie einen Kunden auf den Azure-Plan umstellen, werden Ihnen standardmäßig
 
 - **Azure Lighthouse**: AOBO bietet nicht die Flexibilität, verschiedene, getrennte Gruppen zu erstellen, die mit verschiedenen Kunden zusammenarbeiten, oder für Gruppen und Benutzer verschiedene Rollen zu aktivieren. Mithilfe von Azure Lighthouse können Sie verschiedene Gruppen verschiedenen Kunden oder Rollen zuweisen. Da Benutzer in Form der delegierten Ressourcenverwaltung von Azure über eine geeignete Zugriffsebene verfügen, können Sie die Anzahl der Benutzer verringern, die über die Rolle „Administrator-Agent“ verfügen (und daher vollständigen AOBO-Zugriff besitzen). Dies hilft, die Sicherheit zu verbessern, indem unnötiger Zugriff auf die Ressourcen deiner Kunden vermieden wird. Außerdem erhalten Sie mehr Flexibilität beim Verwalten mehrerer Kunden in großem Maßstab. Weitere Informationen finden Sie unter [Azure Lighthouse und das Programm für Cloud-Lösungsanbieter](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider).
 
--  **Verzeichnis- oder Gastbenutzer oder [Dienstprinzipale](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** : Sie können den Zugriff auf CSP-Abonnements im Detail delegieren, indem Sie Benutzer im Kundenverzeichnis hinzufügen oder Gastbenutzer hinzufügen und ihnen spezifische RBAC-Rollen zuweisen. 
+-  **Verzeichnis- oder Gastbenutzer oder [Dienstprinzipale](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** : Sie können den Zugriff auf CSP-Abonnements im Detail delegieren, indem Sie Benutzer im Kundenverzeichnis hinzufügen oder Gastbenutzer hinzufügen und ihnen spezifische RBAC-Rollen zuweisen.
 
-Microsoft empfiehlt als Sicherheitsmaßnahme, dass Benutzer nur über die Minimalberechtigungen verfügen, die sie zum Durchführen ihrer Arbeit benötigen. Weitere Informationen erhalten Sie unter [Ressourcen für das Azure Active Directory Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure). 
+Microsoft empfiehlt als Sicherheitsmaßnahme, dass Benutzer nur über die Minimalberechtigungen verfügen, die sie zum Durchführen ihrer Arbeit benötigen. Weitere Informationen erhalten Sie unter [Ressourcen für das Azure Active Directory Privileged Identity Management](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure).
 
 ## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>Verknüpfen Sie Ihre Partner-ID (MPN ID) mit Ihren Anmeldeinformationen, um die Azure-Ressourcen von Kunden zu verwalten
 
@@ -56,28 +56,27 @@ Sie benötigen Administratorzugriff, um die Dienste Ihres Kunden zu verwalten un
 
 1. Erstellen einer Warnmeldung.
 
-:::image type="content" source="images/azure/azurealert1.png" alt-text="Azure-Warnmeldung":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="Azure-Warnmeldung":::
 
 2. Wählen Sie die Art der Aktion aus, die die Warnmeldung ausführen soll. Wenn Sie beispielsweise angeben, dass Sie eine E-Mail erhalten möchten, empfangen Sie eine E-Mail, die Sie benachrichtigt, falls Löschungen von Rollenzuweisungen auftreten.
 
-:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Konfigurieren der Warnmeldung":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Konfigurieren der Warnmeldung":::
 
 ### <a name="aobo-removal"></a>AOBO-Entfernung
 
 Kunden können den Zugriff auf ihre Abonnements verwalten, indem sie im Azure-Portal zu **Zugriffssteuerung** navigieren. Auf der Registerkarte **Rollenzuweisungen** wählen sie **Zugriff entfernen** aus. Wenn dies geschieht, haben Sie die folgenden Möglichkeiten:
 
 - Setzen Sie sich mit Ihrem Kunden in Verbindung, um herauszufinden, ob der Administratorzugriff wiederhergestellt werden kann.
+
 - Verwenden Sie den Zugriff, der durch die [rollenbasierte Zugriffssteuerung (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview) zur Verfügung steht.
+
 - Verwenden Sie den Zugriff, der durch [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) zur Verfügung steht.
 
 Der rollenbasierte Zugriff unterscheidet sich vom Administratorzugriff. Rollen grenzen präzise ein, was Sie ausführen können und was nicht. Der Administratorzugriff ist breiter.
 
 Um die Rollen zu sehen, die zum Erwerb von PEC berechtigt sind, lesen Sie [Roles and permissions for the partner earned credit](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2) (Rollen und Berechtigungen für vom Partner erworbenes Guthaben).
 
-
-
-
-**Weitere Informationen**
+## <a name="next-steps"></a>Nächste Schritte
 
 - [Wiederrufen und Reaktivieren von Administratorrechten für Azure CSP-Abonnements](revoke-reinstate-csp.md)
 

@@ -5,16 +5,16 @@ ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: In Partner Center erfahren Sie, wie Sie die Abrechnungsinformationen eines Kunden aktualisieren oder Unternehmens Details aktualisieren.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: efb862be225ca98cb9ec07eca4cc01e1839d70da
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 025d1344b95476a1ebeb22336e5b0c8e11609625
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991785"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377244"
 ---
 # <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>Aktualisieren von Kundenkontoinformationen, Unternehmens Details und Kunden Abrechnungsinformationen im Partner Center
 

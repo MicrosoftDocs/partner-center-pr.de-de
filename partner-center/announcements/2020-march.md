@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/01/2020
-ms.openlocfilehash: 8f4a7d6cb423eac8360eee85fbfdb310bd54eeda
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.date: 07/10/2020
+ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84678927"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286618"
 ---
 # <a name="march-2020-announcements"></a>Ankündigungen für März 2020
 
@@ -118,7 +118,7 @@ Sehen Sie sich die verfügbaren Ressourcen an, und geben Sie diese an die entspr
 
 **Noch Fragen?**
 
-Wenden Sie sich bei Fragen, Anmerkungen oder dem Wunsch nach weiteren Informationen an den [Support](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?category=csp).
+Wenden Sie sich bei Fragen, Anmerkungen oder dem Wunsch nach weiteren Informationen an den [Support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
 
 _________________
 
@@ -148,7 +148,7 @@ Am 1. April 2020 führt Microsoft eine neue SKU auf Einstiegsebene ein und sor
 
 **Neue SKU auf Einstiegsebene:** Die neue SKU auf Einstiegsebene erhält den Namen „Microsoft 365 F1“ und ist auf Mitarbeiter in Service und Produkt zugeschnitten, bietet aber auch allen Mitarbeitern zusätzliche Sicherheit und Identitätswerte. Dieses Angebot umfasst Teams, SharePoint Online, Yammer Enterprise, Stream, EMS E3 und schreibgeschützten Zugriff für Office Web/mobile Apps.
 
-Diese Änderungen bieten Mitarbeitern in Service und Produktion einen höheren Nutzen und eröffnen Partnern die Möglichkeit, die Benutzerzahlen deutlich zu steigern. **Überprüfen Sie über [diesen Link](http:/resources/collection/Microsoft-365-firstline-offer-updates#/) die weiteren Dokumente, um mehr über das Wertversprechen und die nächsten Schritte zu erfahren.**
+Diese Änderungen bieten Mitarbeitern in Service und Produktion einen höheren Nutzen und eröffnen Partnern die Möglichkeit, die Benutzerzahlen deutlich zu steigern. **Überprüfen Sie über [diesen Link](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates) die weiteren Dokumente, um mehr über das Wertversprechen und die nächsten Schritte zu erfahren.**
 
 |**Zeitlicher Ablauf der Änderungen**|**Änderung**|
 |-------------------|:------|
@@ -311,7 +311,7 @@ Die folgenden Änderungen werden ab dem 1. April 2020 an Dynamics Biz Apps- und
 - Drittanbieter-RPA-Angebote (Robotic Process Automation, robotergesteuerte Prozessautomatisierung)
 - Neues Botprodukt für RPA-Angebote
 
-Weitere Informationen zu den Änderungen finden Sie in der Datei [Änderungen an Dynamics-CSP-Angeboten – März 2020](https://partner.microsoft.com/en-us/pcv/.).
+Weitere Informationen zu den Änderungen finden Sie in der Datei [Änderungen an Dynamics-CSP-Angeboten – März 2020](https://partner.microsoft.com/pcv/.).
 
 ### <a name="additional-resources"></a>Weitere Ressourcen:
 
@@ -367,7 +367,7 @@ Darüber hinaus werden an den Gebühren für vorhandene Windows E5-, Microsoft 3
 
 **Noch Fragen?**
 
-Wenn Sie Fragen hinsichtlich Ihres Geschäftsbetriebs mit Microsoft haben, wenden Sie sich über das Partnerdashboard an den Support: https://partner.microsoft.com/en-us/pcv/servicerequests/create.
+Wenn Sie Fragen hinsichtlich Ihres Geschäftsbetriebs mit Microsoft haben, wenden Sie sich über das Partnerdashboard an den Support: https://partner.microsoft.com/pcv/servicerequests/create.
 
 ### <a name="change-log"></a>Änderungsprotokoll
 

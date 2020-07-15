@@ -5,17 +5,17 @@ ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Partner im CSP-Programm Partner Center verwenden können, um reservierte Azure-Instanzen und Serverabonnements für Kunden zu erwerben, zu verwalten, zu verkaufen und zu stornieren.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Azure RI, Windows Server, SQL Server, Softwareabonnements, Stornieren von Software
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46d64a72ded1e9b165a84ede50c0baf695a816b7
-ms.sourcegitcommit: 11325c74d0c41316fb143beda603177241403b8c
+ms.openlocfilehash: 96e4e0fb973350e8d3718b6545eb80ae21d0b49c
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "85267187"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377584"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vertreiben von Softwareabonnements über das CSP (Cloud Solution Provider)-Programm
 

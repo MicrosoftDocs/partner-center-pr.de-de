@@ -5,17 +5,17 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Ihre Kunden Abonnements sowohl für von Microsoft veröffentlichte Produkte als auch für SaaS-Produkte verkaufen, die von Drittanbieter-ISVs veröffentlicht werden.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 Keywords: Abonnement, neu erstellen, Abonnement hinzufügen, anhalten, Abbrechen, aussetzen, anhalten, Saas, Lizenz, ISV, Drittanbieter
 ms.localizationpriority: medium
-ms.openlocfilehash: 3588fb8408ef3c190813691d42331753ac531a8f
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ea5c15248eb38e1c69b6501e21aed1772e937d45
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991495"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377595"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Aussetzen oder Stornieren von Kundenabonnements
 
@@ -99,7 +99,7 @@ Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Be
 
 Wenn Sie ein Abonnement aussetzen, gibt das Datum, das unterhalb der Schaltfläche **Ausgesetzt** angezeigt wird, an, wann das Abonnement automatisch ablaufen würde, wenn Sie es nicht erneut aktivieren. Weitere Informationen finden Sie unter Häufig gestellte [Fragen zu neuen Abrechnungs Features](faq-about-new-billing-features.md).
 
-### <a name="cancel-a-subscription"></a>Stornieren eines Abonnements
+### <a name="cancel-a-subscription"></a>Kündigen eines Abonnements
 
 Sie haben die Möglichkeit, Lizenz basierte Saas-Abonnements von Drittanbieter-ISV-Verlegern innerhalb des [kommerziellen Marketplace](csp-commercial-marketplace-overview.md)von Partner Center abzubrechen. Solange Sie innerhalb des Abbruch Zeitraums abbrechen, erhalten Sie eine vollständige Rückerstattung.
 
@@ -139,7 +139,7 @@ Gehen Sie zum Kündigen eines lizenzbasierten SaaS-Abonnements eines ISV-Herausg
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Auswählen, ob ein Abonnement des kommerziellen Marketplace automatisch verlängert werden soll
 
-Standardmäßig werden aktive Abonnements auf automatische Verlängerung festgelegt, wenn der Abonnementzeitraum abläuft. Bei [Abonnements von Produkten des kommerziellen Marketplace](csp-commercial-marketplace-overview.md) können Sie optional auswählen, dass das Abonnement nicht automatisch verlängert wird.
+Standardmäßig sind aktive Abonnements so festgelegt, dass sie automatisch erneuert werden, wenn der Abonnementzeitraum abläuft. Bei [Abonnements für kommerzielle Marketplace-Produkte](csp-commercial-marketplace-overview.md)können Sie optional festlegen, dass das Abonnement nicht automatisch erneuert wird.
 
 So beenden Sie das automatische Erneuern eines aktiven Marketplace-Abonnements:
 
@@ -153,7 +153,7 @@ So beenden Sie das automatische Erneuern eines aktiven Marketplace-Abonnements:
 
 5. Suchen Sie auf der Seite Abonnement Details den Abschnitt **Status** , und deaktivieren Sie das Kontrollkästchen **Automatische Verlängerung** .
 
-6. Klicken Sie auf **Senden**.
+6. Klicken Sie auf **Submit** (Senden).
 
 ## <a name="next-steps"></a>Nächste Schritte
 

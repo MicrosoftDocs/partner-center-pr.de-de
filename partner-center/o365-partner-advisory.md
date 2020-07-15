@@ -3,19 +3,19 @@ title: CSP-Partner Beratung-Microsoft 365 Stimme
 description: Informieren Sie sich in einigen Ländern über PSTN-Dienste und spezielle Steuern oder gesetzliche Bestimmungen, die sich auf die Reihenfolge der Partner und die Rechnungsstellung auswirken können.
 ms.topic: article
 ms.date: 05/05/2020
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Office, O365, PSTN-Dienste, Steuern, Anforderungen, Rechnungen, Rechnungsstellung
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ed43b8ca9a5596f6734ee5e2ecb6c041bbf72ea
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96271a574ad84d28651e263c34a8238093e0d026
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907365"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377794"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Office 365-Partner Beratung: Microsoft 365 Business Stimme im CSP-Programm
+# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Office 365 Partner Advisory: Microsoft 365 Business Voice im CSP-Programm
 
 **Zielgruppe**
 
@@ -38,7 +38,7 @@ CSP-Rechnungen und CSP-Abstimmungs Dateien in den USA, Puerto Rico und Kanada, d
 
 Darüber hinaus wird für CSP-Rechnungen der folgende Fußnote angezeigt:
 
-* Der angezeigte Preis ist eine Gebühr für Audiokonferenzen und das Aufrufen von Plan Diensten.  Alle anwendbaren Transaktionssteuern werden ausschließlich in Rechnung gestellt, mit Ausnahme des Umsatzes, der in der USA erfolgt.  In den USA ist der angezeigte Preis steuerlich inklusiv, da er eine Gebühr für den Aufruf Plan und die Audiokonferenz-Dienste sowie eine Gebühr für die Steuern und Gebühren enthält, die wir berechnen müssen.  Audiokonferenzen und Aufruf Plan Dienste werden vom Microsoft-Partner betreut, der zur Bereitstellung autorisiert ist.  Weitere Informationen finden Sie in der [Microsoft-Volumen Lizenzierung](https://go.microsoft.com/fwlink/?LinkId=690247) .
+* Der angezeigte Preis ist eine Gebühr für Audiokonferenzen und das Aufrufen von Plan Diensten.  Alle anwendbaren Transaktionssteuern werden ausschließlich in Rechnung gestellt, mit Ausnahme des Umsatzes, der in der USA erfolgt.  In den USA ist der angezeigte Preis steuerlich inklusiv, da er eine Gebühr für den Aufruf Plan und die Audiokonferenz-Dienste sowie eine Gebühr für die Steuern und Gebühren enthält, die wir berechnen müssen.  Audiokonferenzen und Aufruf Plan Dienste werden vom Microsoft-Partner betreut, der zur Bereitstellung autorisiert ist.  Weitere Informationen finden Sie unter [Microsoft-Volumenlizenzierung](https://go.microsoft.com/fwlink/?LinkId=690247).
 
 ## <a name="reconciliation-file-example"></a>Beispiel für eine Abstimmungs Datei
 
@@ -46,7 +46,7 @@ Office 365 Enterprise E5 zeigt eine Abstimmungs Datei als zweizeilige Elemente m
 
 **Beispiel für Partner Abstimmung #1 (Spalten auswählen):**
 
-|**Permanente Angebots-ID**|**Offer_Name**|**Startdatum des Abonnements**|**Enddatum des Abonnements**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
+|**Permanente Angebots-ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Gebühr für Zyklus   |28,40   |
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Enterprise E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Gebühr für Zyklus   |2.00   |

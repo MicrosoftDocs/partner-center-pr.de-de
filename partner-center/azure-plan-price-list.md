@@ -5,18 +5,18 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Partner im CSP-Programm im Partner Center die Preisliste für Abonnements unter dem Azure-Plan anzeigen können.
-author: dineshvu
-ms.author: dineshvu
+author: brentserbus
+ms.author: brserbus
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecfd86d41f550bc4f124b371d87c59e928dd4253
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 9c9c19d9df9238e1a53d5196312d7d10515b121f
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948402"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390337"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Preisliste für die neue E-Commerce-Benutzeroberfläche in CSP für Azure
 

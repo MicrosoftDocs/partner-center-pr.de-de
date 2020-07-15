@@ -5,16 +5,16 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über die Rollen und Berechtigungen für Partner, die in der Lage sind, vom Partner erworbene Guthaben (PEC) zu verdienen. Diese unterscheiden sich von den Rollen, die in Partner Center funktionieren.
-author: dineshvu
-ms.author: dineshvu
+author: adamyeh
+ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0f4e99dab2c898564941e926fc6d754547d66c1
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: fa6241755e228e36abdd15022c127d2b243b488f
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948258"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390587"
 ---
 # <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Rollen und Berechtigungen, die zum erwerben von Partnern berechtigt sind
 
@@ -26,7 +26,7 @@ Die folgenden Rollen entsprechen den Berechtigungsstufen, die bestimmen, ob ein 
 |**Rolle**   |**Beschreibung**   |**PEC berechtigt**   |
 |-----------------|:------------------|:--------------|
 |Besitzer  |Sie verwalten alles, einschließlich des Zugriffs auf Ressourcen.|Ja|
-|Beitragender |Sie verwalten alles außer dem Gewähren des Zugriffs auf Ressourcen.|Ja|
+|Mitwirkender |Sie verwalten alles außer dem Gewähren des Zugriffs auf Ressourcen.|Ja|
 |Leser|Sie können alles anzeigen, aber keine Änderungen vornehmen.|Nein|
 |Acrdelete|ACR-Löschvorgang|Ja|
 |Acrimagesigner|ACR-Imagesignaturgeber|Ja|

@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Verfolgen Sie die Lernmodule in Ihrem Unternehmen, indem Sie Daten zu einzelnen Schulungen, abgeschlossenen Modulen, abgeschlossenen Lernpfaden und mehr nutzen.
-author: LauraBrenner
-ms.author: labrenne
+author: shganesh-dev
+ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e69b283edd0110ba2b6e13ea60621171b83e4b6
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: d294250e1a8fe58d190c76aee7b3b885d1bf2435
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795935"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390657"
 ---
 # <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Der Bericht "Microsoft Learn Analytics" zeigt den Status von Lernmodulen in Ihrem Unternehmen.
 

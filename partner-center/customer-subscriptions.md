@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Partner im CSP-Programm Abonnements an Kunden verkaufen und über Partner Center verwalten können.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 Keywords: Abonnements, Lizenz zuweisen, Lizenz, Kundenzufriedenheit, Azure-Abonnements
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e9902bddfacd2bf8c388e231f928a386fcba4ce
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: eb35353c84e35c3900b76676ed5cf1d908979fb3
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907900"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377444"
 ---
 # <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>So können CSP-Programmpartner Abonnements an Kunden verkaufen
 

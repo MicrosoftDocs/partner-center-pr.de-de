@@ -1,20 +1,21 @@
 ---
-title: Incentives-Co-Op-Ansprüche | Partner Center
+title: Incentives-Co-Op-Ansprüche
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie Ihre Incentives-Ansprüche ohne die erforderliche Komponente einreichen, damit der Aktivitätsplan überprüft wird.
+description: Erfahren Sie, wie Sie einen erfolgreichen Co-op-Anspruch für ihre Anreize übermitteln, indem Sie die richtige Dokumentation, Rechnungen, Anweisungen und den Ausführungs Nachweis organisieren.
 author: kaushikgMSFT
 ms.author: kaushikg
 keywords: Incentives-Ansprüche, Co-Op-Ansprüche, Co-Op-Mittel
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b789b3243231307e3aa969b52498117199f4612
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 56d22bf704b0ce702b36668f03dfbc766fdf367e
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948083"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377634"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Übersicht über Incentives-Co-Op-Ansprüche
 

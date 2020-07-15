@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Als qualifizierter Microsoft-Partner können Sie Co-Selling mit Microsoft durcharbeiten. Erfahren Sie, wie Sie Engagements definieren, Microsoft zur Zusammenarbeit einladen oder gesendete Engagements anzeigen.
 author: sroy
-ms.author: jenhayes
+ms.author: sroy
 keywords: Empfehlung, RFI, Partner suchen
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 63b046422d76864b0836cd85483a0a3aebfe8b25
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 6297fc3f43fbb19d4d1501e812d8b8350031ddef
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948051"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390557"
 ---
 # <a name="co-sell-with-microsoft"></a>Co-Selling mit Microsoft
 
@@ -31,7 +31,7 @@ ms.locfileid: "85948051"
 Als qualifizierter Microsoft-Partner haben Sie die Möglichkeit, mit Microsoft gemeinsam zu verkaufen. Diese Zusammenarbeit unterstützt Sie beim Erstellen von Lösungen für den Markt, bei einem gemeinsamen Umsatz und beim Erfolg der Kunden.
 
 > [!IMPORTANT]
-> Zum Co-Selling mit Microsoft benötigen Partner eine kommerziell einsatzbereite Lösung, ein engagiertes Vertriebsteam und eine starke Markt Einführungsstrategie. Sie müssen auch bestimmte zusätzliche Kriterien erfüllen. Weitere Informationen finden Sie unter [Bereitstellung von Co-Selling](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
+> Für das Co-Selling mit Microsoft benötigen Partner eine für kommerzielle Zwecke bereite Lösung, ein engagiertes Vertriebsteam und eine starke Markteinführungsstrategie. Darüber hinaus müssen noch bestimmte weitere Kriterien erfüllt werden. Weitere Informationen finden Sie unter [Bereitstellung von Co-Selling](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
 
 ## <a name="invite-microsoft-to-collaborate-on-an-engagement"></a>Einladen von Microsoft für die Zusammenarbeit an einem Engagement
 

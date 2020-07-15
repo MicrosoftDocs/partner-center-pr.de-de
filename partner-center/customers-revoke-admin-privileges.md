@@ -5,17 +5,17 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Rufen Sie die Berechtigungen ab, die Sie benötigen, um den Dienst oder das Abonnement eines Kunden in seinem Namen zu verwalten. Erfahren Sie, wie Berechtigungen erteilt, widerrufen und verwaltet werden.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 keywords: delegierte Administratorrechte, Administrator im Auftrag von, Berechtigungen entfernen, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 95f6ae6661180e4d607065a5211ca5f600719f7c
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198598"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377434"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Abrufen von Berechtigungen zum Verwalten des Diensts oder Abonnements eines Kunden
 
@@ -34,7 +34,7 @@ Um den Dienst oder das Abonnement im Auftrag eines Kunden verwalten zu können, 
 
 1.  Wählen Sie **Kunden** aus, und wählen Sie dann **Vertriebspartnerschaft beantragen** aus.
 
-2.  Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer standardmäßigen E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen. 
+2.  Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Entwurf der Nachricht in Ihrer Standardanwendung für E-Mails öffnen oder in die Zwischenablage kopieren und in eine E-Mail einfügen. 
 
     >[!IMPORTANT]
     >Sie können den Text in der E-Mail bearbeiten. Nehmen Sie jedoch unbedingt den Link mit auf, da er personalisiert ist und den Kunden direkt mit Ihrem Konto verknüpft. 

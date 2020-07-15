@@ -3,16 +3,16 @@ title: Einmalige und wiederkehrende Abstimmungs Dateien
 ms.topic: article
 ms.date: 05/26/2020
 description: Verstehen Sie die Bedeutung der einzelnen Felder oder Spalten in den einmaligen und wiederkehrenden Abstimmungs Dateien von Partner Center.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a39962fb046b50497432e7e4fdabd020668702fe
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: a84a9bdf1e7366bed9e83f370703df5f44be1dfc
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908668"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390297"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>Einmalige und wiederkehrende Abstimmungs Dateien im Partner Center
 
@@ -33,7 +33,7 @@ In diesem Thema wird erläutert, wie Sie einmalige und wiederkehrende Abstimmung
 
 ## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>Felder in einmaligen und wiederkehrenden Abgleich Dateien
 
-| Column | Beschreibung |
+| Spalte | BESCHREIBUNG |
 | ------ | ----------- |
 | PartnerId | Eindeutige Azure Active Directory (Azure AD)-Mandanten Bezeichner für eine bestimmte Abrechnungs Entität im GUID-Format. Für die Abstimmung nicht erforderlich. In allen Zeilen gleich. |
 | CustomerId | Eindeutige Azure AD Mandanten-ID im GUID-Format. Identifiziert den Kunden. |
@@ -50,7 +50,7 @@ In diesem Thema wird erläutert, wie Sie einmalige und wiederkehrende Abstimmung
 | SkuName | Der Titel einer bestimmten SKU. |
 | ProductName | Der Name des Produkts. |
 | ChargeType | Der Typ der Gebühr oder Berichtigung. |
-| UnitPrice | Der in der Preisliste zum Zeitpunkt des Kaufs veröffentlichte Einheitspreis. *Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert* |
+| UnitPrice (Stückpreis) | Der in der Preisliste zum Zeitpunkt des Kaufs veröffentlichte Einheitspreis. *Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert* |
 | Menge | Anzahl der Einheiten. *Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert* |
 | SubTotal | Gesamtbetrag vor Steuern Überprüft, ob Ihr Teilergebnis mit dem erwarteten Gesamtbetrag übereinstimmt, falls ein Rabatt vorliegt. |
 | TaxTotal | Steuern der Steuerbeträge. Basierend auf den Steuerregeln Ihres Marktes und bestimmten Bedingungen. |

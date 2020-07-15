@@ -5,19 +5,19 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: In Partner Center erfahren Sie, wie Sie Kunden Abonnements für SaaS-Produkte verkaufen, die von unabhängigen Software Herstellern (ISVs) auf dem kommerziellen Marketplace veröffentlicht werden.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Abonnements, Marketplace, Drittanbieter, ISV
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b18b0196b3aa8c3013fe7515b745277db7b55f21
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 8c862cbe8048881fd8fe223d9afae85c66e7104e
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84426019"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390597"
 ---
-# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Partner Center zum verkaufen von Kunden Abonnements für kommerzielle Marketplace-Produkte verwenden
+# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Verkaufen von Kundenabonnements für Produkte im kommerziellen Marketplace über das Partner Center
 
 **Zielgruppe**
 

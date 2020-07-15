@@ -1,34 +1,35 @@
 ---
-title: Ihre Incentive-Zahlungen und-Programme anzeigen | Partner Center
+title: Anzeigen von Informationen zu Incentives und Programmen
 ms.topic: article
-ms.date: 01/21/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Anzeigen, verwalten oder Exportieren von Daten über den aktuellen Status von Incentive-Programmen, Einnahmen und Zahlungen, einschließlich der Incentive-Einnahmen pro Programm und Standort.
-author: Kim-Davis
+description: Verwenden Sie diese Seiten, um Zahlungs-und Ergebnis Details sowie den Programmstatus und den gesamten Transaktionsverlauf anzuzeigen, zu verwalten und zu exportieren.
+author: kim-davis
 ms.author: kimnich
 keywords: Incentives, Auszahlungen, Zahlungen, Incentive Program, Locations, Program Status
 ms.localizationpriority: medium
-ms.openlocfilehash: da504e4916c9a44c09bbd0cba8ad4af5bf0dd3b0
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.custom: SEOJULY.20
+ms.openlocfilehash: cfbca13e9abb4bd474923cf7e9dabf6bb2ac85a2
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265157"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377294"
 ---
-# <a name="view-your-incentive-payments-and-programs"></a>Anzeigen Ihrer Incentivezahlungen und -programme
+# <a name="view-manage-and-export-your-incentives-program-details"></a>Details zum Programm anzeigen, verwalten und exportieren
 
 **Zielgruppe**
 
--  Partner Center
+- Partner Center
 
 **Geeignete Rollen**
 
--  Incentive-Administrator
--  Incentive-Benutzer 
--  Schreib geschützter Incentive-Viewer
--  Globaler Administrator
--  MPN-Partneradministrator
+- Incentive-Administrator
+- Incentive-Benutzer
+- Schreib geschützter Incentive-Viewer
+- Globaler Administrator
+- MPN-Partneradministrator
 
 Verwenden Sie diese Seiten, um Details zu den bisherigen, ausstehenden und bevorstehenden Zahlungen und Ergebnissen, den Status Ihrer Incentive-Programme an jedem Standort und den gesamten Transaktionsverlauf anzuzeigen. Sie können auch ausführliche Informationen zu beliebigen Transaktionen herunterladen oder exportieren. Auf allen Seite "Incentives" werden Beträge in US-Dollar angezeigt.
 
@@ -59,7 +60,7 @@ In der **Übersicht über die Incentives** wird der Gesamtstatus Ihrer Incentive
 Diese Seite enthält auch Einnahmen und Zahlungen nach Standort oder Programm sowie alle weiteren Aktionen, die Sie möglicherweise durchführen müssen, um sich an einem bestimmten Ort bei einem Programm anzumelden.
 
 So greifen Sie auf **meine Incentive-Übersicht**zu:
- 
+
 1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 2. Wählen Sie im Menü den Befehl **Incentives**und dann **Overview** aus.
 3. Zeigen Sie im oberen Bereich der Seite die Zusammenfassung der Einnahmen und Zahlungen an, und weitere Details finden Sie in der Tabelle unten. Sie können die zugehörige Tabelle auch sortieren, gruppieren und erweitern:
@@ -86,7 +87,7 @@ So greifen Sie auf **meine Incentive-Übersicht**zu:
 | Die Registrierung wird überprüft.  | Der Partner hat die Bank-und Steuerinformationen für eine neue oder vorhandene Registrierung bereits abgeschlossen oder aktualisiert und wartet darauf, dass Microsoft diese Informationen überprüft. Während der über **Prüfung wird die** Überprüfung der Registrierung möglicherweise für bis zu 48 Stunden angezeigt.  |
 
 ## <a name="payments-page"></a>Seite „Zahlungen“
-Die Summen auf dieser Seite stellen alle von Ihnen verwendeten MPN-IDs dar. Sie können nach Teilnehmer-ID, Programm, Zahlungs-ID und Einnahmetyp filtern. Beträge werden in US-Dollar angegeben. Der gezahlte Wert wird auch in der Auszahlungswährung angezeigt. 
+Die Summen auf dieser Seite stellen alle von Ihnen verwendeten MPN-IDs dar. Sie können nach Teilnehmer-ID, Programm, Zahlungs-ID und Einnahmetyp filtern. Beträge werden in US-Dollar angegeben. Der gezahlte Wert wird auch in der Auszahlungswährung angezeigt.
 
 |**Gebiet**   |**Beschreibung**    |
 |------------------|:-------------------------------------|
@@ -96,14 +97,14 @@ Die Summen auf dieser Seite stellen alle von Ihnen verwendeten MPN-IDs dar. Sie 
 |Zahlungen nach Quelle       |Die Menge der Zahlungen in US-Dollar, die durch das Programm in den letzten 12 Monaten dargestellt wird.                                      |
 |Zahlungen                       |Wählen Sie **bezahlt** oder **Ausstehend aus** , und sortieren Sie Sie nach Ihren Wünschen. Zum Anzeigen weiterer Details einer bestimmten Zahlung wählen Sie **Ansicht** aus. Wenn Sie eine Kopie der Zahlungsanweisung herunterladen möchten, wählen Sie **Herunterladen** aus. Beachten Sie, dass es bis zu 24 Stunden dauern kann, bis die Daten für den Transaktionsverlauf angezeigt werden, sodass die zugehörigen Gewinne möglicherweise nicht sofort angezeigt werden.  |
 
-Wählen Sie zum Exportieren der Daten auf dieser Seite **exportieren** aus, und befolgen Sie dann die Anweisungen auf der Seite Daten exportieren. 
+Wählen Sie zum Exportieren der Daten auf dieser Seite **exportieren** aus, und befolgen Sie dann die Anweisungen auf der Seite Daten exportieren.
 
 ## <a name="transaction-history-page"></a>Seite „Transaktionsverlauf“
-Auf dieser Seite werden alle Ihre individuellen Einnahmen angezeigt, einschließlich Datum, Typ und jeweiliger Einnahme. Sie können einen anzuzeigenden Zeitraum auswählen. Außerdem können Sie nach Registrierungs-ID, Programm, Zahlungs-ID, Einnahmetyp, Hebel und Status filtern. Daten sind für das aktuelle Geschäftsjahr (1. Juni 30. Juli) und die letzten beiden Geschäftsjahre verfügbar. 
+Auf dieser Seite werden alle Ihre individuellen Einnahmen angezeigt, einschließlich Datum, Typ und jeweiliger Einnahme. Sie können einen anzuzeigenden Zeitraum auswählen. Außerdem können Sie nach Registrierungs-ID, Programm, Zahlungs-ID, Einnahmetyp, Hebel und Status filtern. Daten sind für das aktuelle Geschäftsjahr (1. Juni 30. Juli) und die letzten beiden Geschäftsjahre verfügbar.
 
-Zum Anzeigen weiterer Details zu einer Einnahme klicken Sie rechts auf der Seite auf den Pfeil nach unten. Dadurch werden der Hebel, der Umsatz Betrag, das Produkt und der Kunde angezeigt. Wenn eine dieser Daten aus irgendeinem Grund nicht verfügbar ist, Sie aber darauf zugreifen müssen, wenden Sie sich an den Support. Wenn das Ergebnis einer Anpassung und nicht einer Transaktion entspricht, werden die Felder Product und Customer nicht angezeigt. 
+Zum Anzeigen weiterer Details zu einer Einnahme klicken Sie rechts auf der Seite auf den Pfeil nach unten. Dadurch werden der Hebel, der Umsatz Betrag, das Produkt und der Kunde angezeigt. Wenn eine dieser Daten aus irgendeinem Grund nicht verfügbar ist, Sie aber darauf zugreifen müssen, wenden Sie sich an den Support. Wenn das Ergebnis einer Anpassung und nicht einer Transaktion entspricht, werden die Felder Product und Customer nicht angezeigt.
 
-Wählen Sie zum Exportieren der Transaktionsdaten auf dieser Seite die Option **exportieren** aus, und befolgen Sie dann die Anweisungen auf der Seite Daten exportieren. Dateien, die aus der Seite Transaktionsverlauf exportiert wurden, zeigen Daten in Transaktionswährung, Einnahmen in Transaktionswährung und US-Dollar sowie den bezahlten Wert in Zahlung in Währung an. 
+Wählen Sie zum Exportieren der Transaktionsdaten auf dieser Seite die Option **exportieren** aus, und befolgen Sie dann die Anweisungen auf der Seite Daten exportieren. Dateien, die von der Seite „Transaktionsverlauf“ exportiert wurden, zeigen Daten in Transaktionswährung, Einnahmen in Transaktionswährung und US-Dollar sowie den gezahlten Wert in Auszahlungswährung.
 
 ## <a name="payment-status"></a>Zahlungsstatus
 
@@ -113,7 +114,7 @@ Wählen Sie zum Exportieren der Transaktionsdaten auf dieser Seite die Option **
 |Anstehend      |Der Zahlungsauftrag hat ausstehende interne Überprüfungen generiert, bevor die Zahlung verarbeitet wird.       |Nein       |
 |Ausstehende Steuerrechnung      |Ihre Steuerrechnung ist unvollständig oder ungültig.          |Sie müssen Ihre Steuerrechnung aktualisieren, bevor Sie bezahlt werden können.         |
 |Bei Überprüfung abgelehnt        |Die Zahlung wurde während der Überprüfung abgelehnt.          |Wenden Sie sich an den Microsoft-Support, um weitere Informationen zu erhalten.         |
-|Fehlgeschlagen        |Die Zahlung ist aufgrund eines Microsoft-Systemfehlers fehlgeschlagen.         |Weitere Informationen erhalten Sie vom Microsoft Support.         |
+|Fehler        |Die Zahlung ist aufgrund eines Microsoft-Systemfehlers fehlgeschlagen.         |Weitere Informationen erhalten Sie vom Microsoft Support.         |
 |In Bearbeitung     |Die Zahlung wird ausgeführt.         |Nein         |
 |Falsche Zahlung        |Der Zahlungsvorgang wird wiederholt.          |Nein        |
 |Gesendet        |Die Zahlung wurde an Ihre Bank gesendet.          |Nein       |
@@ -124,12 +125,13 @@ Wählen Sie zum Exportieren der Transaktionsdaten auf dieser Seite die Option **
 |Rejected (Abgelehnt)        |Die Zahlung wurde von Ihrer Bank abgelehnt.           |Weitere Informationen erhalten Sie von Ihrer Bank.  |
 
 ## <a name="export-data-page"></a>Seite „Daten exportieren“
-Befolgen Sie die Anweisungen auf dieser Seite, um die gewünschten Daten zu exportieren. 
+Befolgen Sie die Anweisungen auf dieser Seite, um die gewünschten Daten zu exportieren.
 
 **Hinweise:**
--   Es werden nur Daten für MPN-IDs und Programme angezeigt, denen Sie zugeordnet sind. Wenn Sie auf zusätzliche Daten zugreifen möchten, finden Sie weitere Informationen unter Administrator. 
--   Die Seite „Daten exportieren“ wird nicht eigenständig aktualisiert. Möglicherweise müssen Sie die Seite manuell aktualisieren, um die neuesten Daten anzuzeigen. 
--   Ihr Filter bewirkt möglicherweise einen Fehler vom Typ **Keine Daten verfügbar**. Dies bedeutet wahrscheinlich, dass Sie den Standard Zeitraum in drei Monaten ausgewählt haben und dann eine Zahlungs-ID aus einem Verdienst außerhalb dieses Zeitraums ausgewählt haben. Erweitern Sie den Zeitraum, und versuchen Sie es erneut. 
+
+- Es werden nur Daten für MPN-IDs und Programme angezeigt, denen Sie zugeordnet sind. Wenn Sie auf zusätzliche Daten zugreifen möchten, finden Sie weitere Informationen unter Administrator.
+- Die Seite „Daten exportieren“ wird nicht eigenständig aktualisiert. Möglicherweise müssen Sie die Seite manuell aktualisieren, um die neuesten Daten anzuzeigen.
+- Ihr Filter bewirkt möglicherweise einen Fehler vom Typ **Keine Daten verfügbar**. Dies bedeutet wahrscheinlich, dass Sie den Standard Zeitraum in drei Monaten ausgewählt haben und dann eine Zahlungs-ID aus einem Verdienst außerhalb dieses Zeitraums ausgewählt haben. Erweitern Sie den Zeitraum, und versuchen Sie es erneut.
 
 ## <a name="payment-download-export"></a>Zahlungs Download Export
 Mit dieser Option können Sie die Zahlungen, die Sie in Ihrer Bank für ein bestimmtes Programm erhalten haben, sowie die zugehörigen Steuern und den aggregierten Einnahmebetrag herunterladen.
@@ -185,7 +187,6 @@ Mit dieser Option können Sie jede Einnahmeposition, die auf der Seite „Transa
 |customerId   |Kunden Bezeichner   |
 |customerName   |Name der Transaktions Kunden   |
 
-
 Zusätzlich zur obigen Tabelle sind diese Felder für den Transaktionsverlauf für das Programm verfügbar.
 
 |**Spaltenname**   |**Beschreibung**   |
@@ -205,5 +206,3 @@ Zusätzlich zur obigen Tabelle sind diese Felder für den Transaktionsverlauf f�
 |agreementStartDate   |Startdatum der Vereinbarung   |
 |agreementEndDate   |Enddatum der Vereinbarung   |
 |workload   |Workload   |
-  
-

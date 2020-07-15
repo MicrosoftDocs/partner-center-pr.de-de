@@ -4,17 +4,17 @@ description: Als indirekter Anbieter oder Verteiler erfahren Sie mehr darüber, 
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: c05ed9aca47b7d232d7d6a0087217850c834e513
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: cb7a9bca65bb4fbb8ef9f3fb88a968155bf17ced
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879370"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377214"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Wiederverkäufern im Programm für Cloud-Lösungsanbieter
 
@@ -118,7 +118,7 @@ Führen Sie die folgenden Schritte aus, um die Partnerschaft mit dem vorhandenen
 >[!IMPORTANT]
 >Kunden, die dem indirekten Reseller zugeordnet sind, werden nicht entfernt. Alle gewährten delegierten Administratorrechte bleiben unverändert.
 >Sie stellen dar, dass die Entscheidung, ihre Partnerschaft mit dem Partner zu unterbrechen, für einen legitimen geschäftlichen Zweck und in Übereinstimmung mit Ihrem Vertrag mit Ihrem Kunden oder Partner in gutem Glauben gemacht wurde, und Sie erklären sich damit einverstanden, Microsoft vor und gegen alle Ansprüche von Drittanbietern Gegenteiliges zu verteidigen und zu halten.
->Sie müssen einen rechtlichen Hinweis zur Beendigung Ihres Kunden oder Partners angeben, wenn dies für Ihre Vereinbarung erforderlich ist. Dieses Tool generiert keine Hinweise für den Kunden oder Partner.
+>Sie müssen Ihrem Kunden oder Partner eine rechtsgültige Kündigung zukommen lassen, wenn Ihre Vereinbarung dies erfordert. Dieses Tool generiert keine Kündigungshinweise an den Kunden oder Partner.
 
 3. Der indirekte Reseller, dessen Partnerschaft Sie entfernt haben, wird nicht in der Liste angezeigt.
 Abhängig von der Zugriffsebene und der Beteiligung möchten Sie möglicherweise mit dem indirekten Händler und dem Endkunden über diese Änderung kommunizieren.

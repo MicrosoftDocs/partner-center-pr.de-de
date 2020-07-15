@@ -5,17 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Ihren Kunden in Partner Center Azure-Abonnements zuweisen und wie Sie es Kunden ermöglichen, ihre eigenen Abonnements zu verwalten.
-author: dineshvu
-ms.author: dineshvu
+author: rbars
+ms.author: rbars
 keywords: Azure, Abonnement für Azure, Abonnement, Abonnements, Abonnement zuweisen, Abonnement für Azure verwalten
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae6b1dd2d5b24dd44431f27473f783b90a74fd18
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: f9b9b2f1f62d06e8f6802535738c7ba08666ac56
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175922"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390487"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Zuweisen von Azure-Abonnements zu Kunden im Partner Center
 

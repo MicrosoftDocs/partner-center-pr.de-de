@@ -3,18 +3,18 @@ title: Überprüfen von Partnerprofilen
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Ihre Unternehmensdetails überprüfen, z. B. den primären Kontakt-, die Adresse und Programminformationen. Sie können auch ihre rechtlichen Adressen und Abrechnungsadressen aktualisieren.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.topic: conceptual
 ms.localizationpriority: high
-ms.date: 06/05/2020
+ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2534a13d2b24acd689a12476590f8f607c678e2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 64c794fad671cee780c23cb67e1679dff4f00233
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991983"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286578"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Überprüfen von Partnerprofilinformationen im Partner Center
 
@@ -37,7 +37,7 @@ Sie können nun Ihre juristische Adresse im Partner Center aktualisieren.
 2. Klicken Sie neben „Juristische Adresse“ auf **Aktualisieren**. ""
 
 >[!Important]
->Als CSP-Partner können Sie das mit Ihrer juristischen Adresse verknüpfte Land nicht ändern. Das Land Ihrer juristischen Adresse ist an Ihren Mandanten und Ihre Dienste sowie an die Währung gebunden, in der Sie Geschäfte tätigen. Wenn Sie nicht am CSP-Programm teilnehmen, können Sie das mit Ihrer juristischen Adresse verknüpfte Land ändern. Der rechtsgültige Firmenname kann nicht im Partner Center aktualisiert werden, wenn Ihr Überprüfungsstatus „Autorisiert“ lautet. Sie müssen [ein Supportticket erstellen](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>Als CSP-Partner können Sie das mit Ihrer juristischen Adresse verknüpfte Land nicht ändern. Das Land Ihrer juristischen Adresse ist an Ihren Mandanten und Ihre Dienste sowie an die Währung gebunden, in der Sie Geschäfte tätigen. Wenn Sie nicht am CSP-Programm teilnehmen, können Sie das mit Ihrer juristischen Adresse verknüpfte Land ändern. Der rechtsgültige Firmenname kann nicht im Partner Center aktualisiert werden, wenn Ihr Überprüfungsstatus „Autorisiert“ lautet. Sie müssen [ein Supportticket erstellen](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 3. Wenn Sie auf **Senden** klicken, wird Ihre juristische Identität neu bewertet, und Sie erhalten eine weitere E-Mail, die Sie akzeptieren müssen.
 

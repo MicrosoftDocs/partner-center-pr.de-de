@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Es ist wichtig, dass Sie sich mit den verschiedenen Risiken von Online Transaktionen und den bewährten Methoden zum Verwalten und mindern dieser Risiken vertraut machen.
 keywords: Betrug, Missbrauch, akzeptable Nutzung, Nutzungsrichtlinie, Nichtzahlung, Kunde bezahlt die Rechnung nicht, Onlinerisiko, Diebstahl von Diensten, Dienstmissbrauch, Abonnements aussetzen
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8ca1461ed8b71ea2e6c82603672f4029599b4cc
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 0b08fc6a94f91be978802a6bf850b46189ea740f
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991903"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377804"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Verwalten von Nichtzahlung, Betrug oder Missbrauch im Partner Center
 

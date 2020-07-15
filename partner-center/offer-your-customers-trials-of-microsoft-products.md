@@ -5,16 +5,16 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Kunden können Microsoft-Abonnement Produkte 30 Tage lang testen. Registrieren Sie sich wie viele andere Onlinedienste für diese kostenlosen Testversionen im Katalog.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3cb1b2104119a28b376301637e559df76392d65c
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 3a940370e50579e09cd24467145decbc6ec4f98a
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175989"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377774"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Bieten Sie Kunden 30-tägige kostenlose Testversionen von Microsoft-Produkten an.
 

@@ -1,7 +1,7 @@
 ---
 title: Azure-Plan – Erwerben von Azure zu nutzungsbasierten Tarifen
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie etwas über die Commerce-Funktionalität des Azure-Plans zum Kauf von Azure-Diensten zu nutzungsbasierten Tarifen für Kunden. Informieren Sie sich auch über die neuen Sicherheitsanforderungen.
@@ -11,12 +11,12 @@ Keywords: Azure, Azure-Plan, Abonnements erwerben, Abonnements
 robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 77e99f8151227650639f9bd9b54a794985db4554
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c2638aea520500d6007495281226078a8acf7701
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948427"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286588"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Einführung: Mit dem Azure-Plan können Partner Azure zu nutzungsbasierten Tarifen für Kunden erwerben.
 
@@ -44,9 +44,5 @@ Stelle deine Kunden auf der neuen Commerce-Benutzeroberfläche im CSP-Programm i
 |Verwalten von Kundenabonnements und -ressourcen im Azure-Plan|[Verwalten von Abonnements und Ressourcen in einem Azure-Plan](azure-plan-manage.md)|
 |Informationen zum Lesen der Preisliste für den Azure-Plan   |[Erläuterungen zur Azure-Plan-Preisliste](azure-plan-price-list.md)|
 |Wo ist der Azure-Plan verfügbar?|[Die vollständige Liste der Länder/Regionien, in denen Azure-Plan verfügbar ist](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)
-|Um zu erfahren, wie vom Partner erworbenes Guthaben berechnet wird, musst du dich beim Partner Center-Dashboard anmelden und die Preisliste anzeigen.|[Partner Center-Dashboard](https://partner.microsoft.com/en-us/dashboard/home)|
-|Abrechnung gemäß dem Azure-Plan|[Azure-Abrechnung](azure-plan-billing.md)| 
-
-
-
-
+|Um zu erfahren, wie vom Partner erworbenes Guthaben berechnet wird, musst du dich beim Partner Center-Dashboard anmelden und die Preisliste anzeigen.|[Partner Center-Dashboard](https://partner.microsoft.com/dashboard/home)|
+|Abrechnung gemäß dem Azure-Plan|[Azure-Abrechnung](azure-plan-billing.md)|

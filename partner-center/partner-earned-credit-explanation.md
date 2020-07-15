@@ -5,18 +5,18 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie vom Microsoft-Partner erworbenes Guthaben (Partner Earned Credit, PEC) für verwaltete Dienste berechnet und ausgezahlt wird und wie Sie sicherstellen können, dass Sie berechtigt sind.
-author: dineshvu
-ms.author: dineshvu
+author: adamyeh
+ms.author: adamyeh
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 553d23fcd33f290d976f789657ee9ad71dbcae46
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1d240b3d8e411ce55b086a63d1c14903d6f666d7
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949394"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390617"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Wie von Partnern erworbene Guthaben berechnet und bezahlt werden
 

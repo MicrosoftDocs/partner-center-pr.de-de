@@ -3,16 +3,16 @@ title: Nutzungs Abgleich-Dateien mit täglicher Bewertung
 ms.topic: article
 ms.date: 06/12/2020
 description: Erfahren Sie, wie Sie Nutzungs Abgleich-Dateien für die tägliche Bewertung in Partner Center lesen.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37f337734d4f3f9ea67ec434e1bd478a355214bb
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: bdb8e392761d02909ebca21c38d2f04a9dfeb60d
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908678"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377414"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Erfahren Sie, wie Sie Nutzungs Abgleich-Dateien für die tägliche Bewertung in Partner Center lesen.
 
@@ -35,7 +35,7 @@ In diesem Thema wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit tägliche
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Felder in den Nutzungs Abgleich-Dateien mit täglicher Bewertung
 
-| Column | Beschreibung |
+| Spalte | BESCHREIBUNG |
 | ------ | ----------- |
 | PartnerId | Die Partner-ID im GUID-Format. |
 | PartnerName | Name des Partners |
@@ -70,7 +70,7 @@ In diesem Thema wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit tägliche
 | ResourceGroup | Stellt einen Container dar, der verwandte Ressourcen für eine Azure-Lösung enthält. |
 | ResourceURI | Der URI der verwendeten Ressource. |
 | ChargeType | Der Typ der Gebühr oder Berichtigung.  |
-| UnitPrice | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dieser Preis den im Abrechnungssystem während der Abstimmung gespeicherten Informationen entspricht. |
+| UnitPrice (Stückpreis) | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dieser Preis den im Abrechnungssystem während der Abstimmung gespeicherten Informationen entspricht. |
 | Menge | Anzahl der Lizenzen. Stellen Sie sicher, dass dieser Preis den im Abrechnungssystem während der Abstimmung gespeicherten Informationen entspricht. |
 | UnitType | Der Typ der Einheit, mit der die Verbrauchseinheit in Rechnung gestellt wird.  |
 | Billingpretaxtotal | Gesamtbetrag der Abrechnung vor Steuern. |

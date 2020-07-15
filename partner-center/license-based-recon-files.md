@@ -3,16 +3,16 @@ title: Lizenzbasierte Abstimmungsdateien
 ms.topic: article
 ms.date: 05/18/2020
 description: Erfahren Sie, wie Sie Lizenz basierte ababstimmungs Dateien im Partner Center lesen. In diesem Artikel wird die Bedeutung der einzelnen Felder in ihrer lizenzbasierten Reconnaissance-Datei erläutert.
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ce9400c3672ff09997321b2e55f46daf102ebbd
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: cd275c074bb3710a2a438d65989b16a1be398830
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909048"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377694"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Grundlegendes zu den Feldern in den lizenzbasierten Abstimmungs Dateien von Partner Center
 
@@ -31,7 +31,7 @@ Vergleichen Sie die **Syndication_Partner_Subscription_Number** aus der Abstimmu
 
 ## <a name="fields-in-license-based-reconciliation-files"></a>Felder in lizenzbasierten Abstimmungs Dateien
 
-| Column | BESCHREIBUNG | Beispielwert |
+| Spalte | BESCHREIBUNG | Beispielwert |
 | ------ | ----------- | ------------ |
 | PartnerId | Eindeutiger Bezeichner im GUID-Format für eine bestimmte Abrechnungs Entität. Für die Abstimmung nicht erforderlich. In allen Zeilen gleich. | *8ddd03642-test-test-test-46b58d356b4e* |
 | CustomerId | Eindeutiger Microsoft-Bezeichner für den Kunden im GUID-Format. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
@@ -49,9 +49,9 @@ Vergleichen Sie die **Syndication_Partner_Subscription_Number** aus der Abstimmu
 | ChargeStartDate | Der erste Tag, an dem Gebühren anfallen. Die Uhrzeit ist immer der Tagesanfang (0:00 Uhr). Wird verwendet, um tägliche Gebühren zu berechnen (*pro-anteiliger* Gebühren), wenn ein Kunde die Arbeitsplatz Nummern | *2/1/2019 0:00* |
 | ChargeEndDate | Letzter Tag, an dem Gebühren anfallen. Die Uhrzeit ist immer auf das Tagesende um 23:59 Uhr festgelegt. Wird verwendet, um tägliche Gebühren zu berechnen (*pro-anteiliger* Gebühren), wenn ein Kunde die Arbeitsplatz Nummern | *2/28/2019 23:59* |
 | ChargeType | Der [Typ der Belastung](recon-file-charge-types.md) oder der Anpassung. | Siehe " [Abrechnung](recon-file-charge-types.md)". |
-| UnitPrice | Preis pro Arbeitsplatz entsprechend der Preisliste zum Kaufzeitpunkt. Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert | *6,82* |
+| UnitPrice (Stückpreis) | Preis pro Arbeitsplatz entsprechend der Preisliste zum Kaufzeitpunkt. Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert | *6,82* |
 | Menge | Anzahl der Arbeitsplätze Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert | *2* |
-| Amount | Gesamtpreis für die Menge Wird verwendet, um zu überprüfen, ob die Betrag Berechnung mit der Berechnung dieses Werts für Ihre Kunden übereinstimmt. | *13,32* |
+| Betrag | Gesamtpreis für die Menge Wird verwendet, um zu überprüfen, ob die Betrag Berechnung mit der Berechnung dieses Werts für Ihre Kunden übereinstimmt. | *13,32* |
 | TotalOtherDiscount | Rabattbetrag auf diese Gebühren. Produktlizenzen, die in einer Kompetenz oder in Karten enthalten sind, oder neue Abonnements, die für einen Anreiz geeignet sind, enthalten in dieser Spalte ebenfalls einen Rabatt Betrag. | *2,32* |
 | Subtotal (Zwischensumme) | Gesamtbetrag vor Steuern Überprüft, ob Ihr Teilergebnis mit dem erwarteten Gesamtbetrag übereinstimmt, falls ein Rabatt vorliegt. | *11* |
 | Tax (Steuern) | Steuern der Steuerbeträge. Basierend auf den Steuerregeln Ihres Marktes und bestimmten Bedingungen. | *0* |

@@ -1,21 +1,20 @@
 ---
 title: Verwalten von Nichtbezahlung, Betrug oder Missbrauch
+description: Es ist wichtig, dass Sie sich mit den verschiedenen Risiken von Online Transaktionen und den bewährten Methoden zum Verwalten und mindern dieser Risiken vertraut machen.
 ms.topic: article
-ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Es ist wichtig, dass Sie sich mit den verschiedenen Risiken von Online Transaktionen und den bewährten Methoden zum Verwalten und mindern dieser Risiken vertraut machen.
-keywords: Betrug, Missbrauch, akzeptable Nutzung, Nutzungsrichtlinie, Nichtzahlung, Kunde bezahlt die Rechnung nicht, Onlinerisiko, Diebstahl von Diensten, Dienstmissbrauch, Abonnements aussetzen
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b08fc6a94f91be978802a6bf850b46189ea740f
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.date: 07/14/2020
+ms.openlocfilehash: ad0ef9c7aa242645ed0ffef0d5bbb07521edbc72
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377804"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405561"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Verwalten von Nichtzahlung, Betrug oder Missbrauch im Partner Center
 
@@ -87,7 +86,7 @@ Vorschläge zum Verringern von Online Risiken beim Onboarding von neuen Kunden:
 Vorschläge für die Verwaltung von Kundenkonten nach dem Kauf:
 
 - Implementieren Sie einen Prozess zum schnellen empfangen, überprüfen, reagieren und reagieren auf Microsoft-Benachrichtigungen.
-- Arbeiten Sie mit Kunden zusammen, um Ihre geschäftlichen Anforderungen für die cloudnutzung zu verstehen, während Sie Einstellungen für die Überwachung (Sie können z. b. [ein monatliches Azure-Ausgabenbudget](set-an-azure-spending-budget-for-your-customers.md) in Partner Center festlegen. Dies ermöglicht es Ihnen, die Kundennutzung während des Monats zu überwachen und benachrichtigt zu werden, wenn sich Kunden in der Nähe Ihres Budgets befinden.)
+- Arbeiten Sie mit Kunden zusammen, um Ihre geschäftlichen Anforderungen für die cloudnutzung zu verstehen, während Sie Einstellungen für die Überwachung (Sie können z. b. [ein monatliches Azure-Ausgabenbudget](set-an-azure-spending-budget-for-your-customers.md) in Partner Center festlegen. Mit diesem Verständnis können Sie die Kundennutzung während des Monats überwachen und benachrichtigt werden, wenn sich Kunden in der Nähe Ihres Budgets befinden.)
 - Überwachen Sie die [Kunden Aktivitäts Protokolle](activity-logs.md) regelmäßig, um den Betrug frühzeitig zu
 - Führen Sie schnell Maßnahmen aus, wenn verdächtige Aktivitäten erkannt werden.
 - Vermeiden Sie es, den Benutzern vollen Administrator Zugriff auf Abonnements zu gewähren, ohne zuvor die Steuerungsmaßnahmen zur Risikominderung
@@ -100,4 +99,4 @@ Vorschläge zur Verwaltung der Kundenabrechnung nach dem Kauf:
 - Akzeptieren Sie keine risikoreichen Zahlungsinstrumente (z. b. vorab bezahlte Karten oder gespeicherte Wertkarten).
 - Überwachen von Kunden Zahlungen und Abrechnungen von Konten. Erzwingen Sie eine aggressive Durchsetzung standardisierter Prozesse für späte Zahlungen oder eine Nichtzahlung.
 
-Detailliertere Strategien zur Minderung des Onlinerisikos finden Sie in der [Anleitung zur Verwaltung von Onlinetransaktionsrisiken](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip).
+Detailliertere Strategien zur Minderung des Onlinerisikos finden Sie in der [Anleitung zur Verwaltung von Onlinetransaktionsrisiken](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt).

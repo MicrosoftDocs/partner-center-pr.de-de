@@ -7,15 +7,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
-keywords: zurückbehalten von Steuer Guthaben, Steuer Guthaben, deutschen Steuer Guthaben, Steuer Zertifikaten
+keywords: zurückbehalten von Steuer Guthaben, Steuer Guthaben, deutschen Steuer Guthaben, Steuer Zertifikaten, Gutschriften
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b232526a213a06e2c11001131241dd5be554770
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3992254595024635ab4200456537366d5c5cc52d
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949575"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405521"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Stellen Sie sicher, dass Ihnen die zurück Haltungs Steuern gutgeschrieben werden, wenn Sie anstelle von Microsoft eine lokale Steuerbehörde bezahlen.
 
@@ -40,7 +40,7 @@ Führen Sie die folgenden Schritte aus, um eine neue Steuer gegen übereinhaltun
 
 2. Wählen Sie im Menü auf der linken Seite die Option **Abrechnung** aus, und wechseln Sie zu **Abrechnungs Verlauf**.
 
-3. Klicken Sie auf " **neu senden** ", sodass Sie zur neuen Seite " **steuerungszurückhaltungs Anforderungen** " gelangen.
+3. Klicken Sie auf " **neu senden** ", um zur neuen Seite " **steuerungszurückhaltungs Anforderungen** " zu gelangen.
 
    :::image type="content" source="images/wht1.png" alt-text="Übermitteln von neuen Steuermitteln für eine Rechnung":::
 

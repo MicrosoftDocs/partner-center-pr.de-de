@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Partner, die Angebote im kommerziellen Marketplace veröffentlichen, können sich auf Vorteile stützen, die Marketingunterstützung bieten.
 author: laurabrenner
 ms.author: labrenne
-Keywords: Marketplace-Angebote, Marketingunterstützung, Bonus, Vorteile des Herausgebers
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9df2d287899da4c92ac55a5ac160f0e36b09c520
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 2b811ab94a3774c41955b2d152bba5b143d711fa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909008"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436839"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Verwalten von Marketplace-Prämien in Partner Center & Aktivieren von Marketing-, Vertriebs-und technischen Vorteilen
 
@@ -35,13 +34,13 @@ Die Berechtigungs Berechtigung für Marketplace-Prämien wird basierend auf alle
 
 2. Um einen beliebigen Marketing- und Vertriebsvorteil zu aktivieren, müssen Sie zunächst einen Marketingkontakt zuweisen. Dieser Kontakt erhält dann weitere Informationen zu Ihren Marketplace-Prämien.
 
-3. Um Ihre Marketing Kontaktinformationen hinzuzufügen oder zu aktualisieren, klicken Sie auf der Registerkarte "Sales and Marketing Benefits" auf der Marketplace-Bonusseite auf " **Hinzufügen", "Aktualisieren" oder "ändern**". 
+3. Zum Hinzufügen oder Aktualisieren Ihrer Marketingkontaktinformationen navigieren Sie auf der Seite für Marketplace-Prämien zum oberen Bereich der Registerkarte für Verkaufs- und Marketingvorteile, und wählen Sie dann **Hinzufügen, aktualisieren oder ändern** aus. 
 
    Gehen Sie anschließend wie folgt vor:
 
    - Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste enthalten ist, können Sie unter „Kontoeinstellungen“ neue Benutzer hinzufügen.
 
-   - Geben Sie für den Benutzer eine E-Mail-Adresse ein, die sich von der E-Mail-Adresse unterscheidet, die dem Partner Center-Konto Ihres Unternehmens zugeordnet ist. Wir senden Anweisungen zur Nutzung Ihres Vorteils im Rahmen des Marketplace-Prämienprogramms an die E-Mail-Adresse des genannten Marketingkontakts.
+   - Geben Sie eine E-Mail-Adresse für den Benutzer an, die nicht mit der E-Mail-Adresse des Partner Center-Kontos Ihres Unternehmens identisch ist. Wir senden Anweisungen zur Nutzung Ihres Vorteils im Rahmen des Marketplace-Prämienprogramms an die E-Mail-Adresse des genannten Marketingkontakts.
 
    - Geben Sie die Telefonnummer und die bevorzugte Sprache für diesen Marketingkontakt an. Nachdem Sie diese Informationen eingegeben haben, wählen Sie **Benutzer zuweisen** aus.
 
@@ -49,9 +48,9 @@ Die Berechtigungs Berechtigung für Marketplace-Prämien wird basierend auf alle
 
 ## <a name="technical-benefits"></a>Technische Vorteile
 
-1. Sie können Ihren technischen Vorteil nutzen, um während der Planungs-, Entwurfs-, Bereitstellungs-und App-Entwicklungsphasen ihrer Cloud-und Hybridlösungen technische Unterstützung anzufordern. Um Unterstützung anzufordern, füllen Sie das Anforderungs Formular aus, und wählen Sie dann **Anforderung senden**aus.
+1. Sie können Ihren technischen Vorteil nutzen, um während der Presales-, Entwurfs-, Bereitstellungs- und App-Entwicklungsphasen Ihrer Cloud- und Hybridlösungen technische Unterstützung anzufordern. Zum Anfordern von Unterstützung füllen Sie das Anforderungsformular aus, und wählen Sie dann **Anforderung übermitteln** aus.
 
-2. Die Nutzung der Vorteile von Azure-Sponsoring wird über eine e-Mail freigegeben, wenn Sie diese Vorteile entsperren.
+2. Informationen zur Nutzung der Vorteile von Azure Sponsorship erhalten Sie per E-Mail, sobald Sie diese Vorteile entsperren.
 
 ## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>Warum wird das Prämienprogramm für den kommerziellen Marketplace in meinem Dashboard nicht angezeigt?
 

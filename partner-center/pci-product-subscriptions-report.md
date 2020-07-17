@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sehen Sie sich an, was Sie gut machen und wo Sie die cloudabonnements verbessern können, die Sie für Ihre Kunden verkaufen oder verwalten.
-keywords: PCI, Leistung, Messungen, Kunden Erfolg, cloudabonnements, Analysen, Bericht
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc9b306e635a27e1bf19f945341f9d8aab834782
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 0f1f2498f9c91f467b4b2b1980a14995782a5137
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948810"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436669"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Bericht "Produkt Abonnements" im Partner Center Insights-Dashboard verfügbar
 

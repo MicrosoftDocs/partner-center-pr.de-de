@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie, was nicht zugewiesene Zahlungen sind, wenn Sie auf Ihrer Partner Center-Abrechnungs Seite angezeigt werden. Erfahren Sie auch, wie Sie diese auf Ihre Rechnungen anwenden.
 author: sodeb
 ms.author: sodeb
-keywords: Abrechnung, Zahlung, Zahlungen, nicht zugewiesene Zahlung
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ddd82643b43be7ab19e4bcf6d25f67d031ed87af
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 8724cf6bb487d42742c83d80340acbbcc01d0b6e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949581"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436499"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Verwalten nicht zugewiesener Zahlungen auf Ihrer Partner Center-Abrechnungs Seite
 

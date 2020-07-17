@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Erfahren Sie, wie Sie Azure-Reservierungen im Namen Ihrer Kunden im Partner Center erwerben oder erwerben.
 author: rbars
 ms.author: rbars
-keywords: Azure, Reservierungen, verwalten, Abrechnung, kaufen
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: da12aecaf78266c5a13da2948c0606121a0ea6ae
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: a8f9193d7bb383b602acc8092b159401ab0785d5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948325"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435769"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Kaufen von Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden im Partner Center
 
@@ -33,7 +32,7 @@ ms.locfileid: "85948325"
 - Vertriebsbeauftragter
 - Benutzerverwaltungsadministrator
 
-## <a name="before-you-begin"></a>Vorbereitung
+## <a name="before-you-begin"></a>Voraussetzungen
 
 Lesen Sie die folgenden wichtigen Informationen, bevor Sie Azure-Reservierungen im Auftrag Ihrer Kunden kaufen. (Möchten Sie, dass Kunden ihre eigenen Azure-Reservierungen von einem früheren Azure-Abonnement erwerben können, das Sie für Sie erworben haben? Weitere Informationen finden [Sie unter Erteilen von Kunden Berechtigungen zum erwerben ihrer eigenen Azure-Reservierungen](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations).)
 
@@ -110,9 +109,9 @@ Führen Sie die folgenden Schritte aus, um Microsoft Azure-Reservierungen im Auf
 
 3. Wählen Sie **Produkte hinzufügen** und dann **Azure** aus. 
 
-    a. Wählen Sie in der Liste **Segment** das Marktsegment des Kunden aus.
+    a) Wählen Sie in der Liste **Segment** das Marktsegment des Kunden aus.
 
-    b. Wählen Sie **Reservierungen** in der Liste **Produkttyp** aus.
+    b) Wählen Sie **Reservierungen** in der Liste **Produkttyp** aus.
 
     c. Wählen Sie in der Liste **Reservierungstyp** den vom Kunden gewünschten Typ der Reservierung aus.
 

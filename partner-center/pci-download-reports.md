@@ -7,21 +7,20 @@ ms.subservice: partnercenter-csp
 description: Erkunden Sie das Unified Reporting-Dashboard für Partner Center.
 author: shthota77
 ms.author: shthota
-Keywords: Partner Center Insights, Berichte, Berichte herunterladen
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42be29d69d5d4937d984047f4c75e357aa4d436d
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 311cff645487d613ed23d2109ed195822f8e021a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948865"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436679"
 ---
 # <a name="download-reports"></a>Berichte herunterladen
 
 **Geeignete Rollen**
-- Bericht-Viewer für leitende Mitarbeiter
-- Berichts-Viewer
+- Executive Report-Leser
+- Berichtleser
 
 ## <a name="introduction"></a>Einführung
 
@@ -29,11 +28,11 @@ Der Hub zum Herunterladen von Berichten im Insights-Dashboard ermöglicht Ihnen 
 
 Nachdem der Bericht generiert wurde, steht er im Abschnitt **generierte Berichte** zur Verfügung, mit dem Sie Tools wie Microsoft Excel herunterladen und analysieren können.
 
-**Create a new report from a dataset in Power BI Embedded** (Erstellen eines neuen Berichts aus einem Dataset in Power BI Embedded)
+**Neuen Bericht erstellen**
 
 Um einen Bericht zu generieren, wählen Sie **zuerst den Bericht aus der Dropdown** -Dropdown-Dropdown-Dropdown Wählen Sie dann den Datumsbereich in der Dropdown Liste **Datumsbereich auswählen** aus. Wählen Sie **Generieren** aus. Der Bericht wird im TSV-Format (durch Tabstopps getrennt) generiert und kann innerhalb weniger Minuten im Abschnitt **generierte Berichte** heruntergeladen werden. Berichte, die während der letzten 14 Tage generiert wurden, stehen zum Herunterladen zur Verfügung.
 
-:::image type="content" source="images/pci/create-new-report.png" alt-text="Create a new report from a dataset in Power BI Embedded"::: (Erstellen eines neuen Berichts aus einem Dataset in Power BI Embedded)
+:::image type="content" source="images/pci/create-new-report.png" alt-text="Neuen Bericht erstellen":::
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="Generierte Berichte":::
 

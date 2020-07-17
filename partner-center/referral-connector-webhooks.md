@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Verwenden Sie Partner Center-webhook-APIs, um zu erfahren, wann die Ressourcen Änderungen von Verweisen für Dynamics 365 CRM oder Salesforce CRM auftreten.
 author: sroy
 ms.author: sroy
-keywords: Verweise, webhook-API, Ressourcen Änderungs Ereignisse
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ed7cad26af447302cb0ccd1d8d359ce6b7bbe87f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2335c06d9c410d44ed5f444574d9bc8fb3e48fc0
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949349"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434019"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>Verwenden von webhook-APIs zum Registrieren für Ressourcen Änderungs Ereignisse für Dynamics 365 CRM und Salesforce CRM
 
@@ -147,7 +146,7 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
    2. Stellen Sie sicher, dass der folgende Abschnitt vorhanden ist, wenn Sie eine "neue Verkaufschance" in der Dynamics 365-Umgebung erstellen.
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Verkaufschance":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Möglichkeiten":::
 
    3. Wenn Sie diese Gelegenheit mit dem Microsoft Partner Center synchronisieren möchten, stellen Sie sicher, dass Sie die folgenden Felder in der Kartenansicht festlegen:
 

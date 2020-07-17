@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über die Möglichkeiten von Cloud Solution Provider zum Abrufen, bereitstellen und Verwalten von Azure-Reservierungen und Server Abonnements für Kunden.
 author: rbars
 ms.author: rbars
-keywords: Azure, Abonnements, VM, Reservierung, reservierte Instanz
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dacab1c67a12be5143946c7ede33e647e1373cbb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1b804c76428b0d1f699874b48f7a884161aebcdd
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948261"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435709"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Erwerben, bereitstellen und & Verwalten von reservierten Azure-VM-Instanzen (RI) und Server Abonnements für Kunden
 
@@ -112,7 +111,7 @@ Im Folgenden finden Sie eine umfassende Liste der Ressourcen, die Ihnen helfen, 
 - [SuSE und Red Hat Enterprise Linux (Azure-Portal)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
 - [Red hat Linux in Azure](https://azure.com/redhat)
 - [SUSE Linux in Azure](https://azure.microsoft.com/overview/linux-on-azure/suse/)
-- [Linux auf Azure](https://azure.microsoft.com/overview/linux-on-azure/)
+- [Linux in Azure](https://azure.microsoft.com/overview/linux-on-azure/)
 - [Übersicht über Azure-Preise](https://azure.microsoft.com/pricing/)
 - [Azure-Preisrechner](https://azure.microsoft.com/pricing/calculator)
 - [Azure Databricks Einheiten Reservierungen](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)

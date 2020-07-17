@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
 ms.author: amrava
-Keywords: Abonnement, Self-Service-Erwerb, Self-Service-RI, Aktivieren von RI, Deaktivieren von RI, Self-Service, Kunden Erwerb, Kunden Berechtigungen, reservierte Instanz des Kunden Kauf, Kunden Kauf Azure-Reservierungen, Self-Service aktivieren, Self-Service ausschalten
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62447e284ce35b414594031c590110cedc5a59ab
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 86a3be3b80ff274bb609490f86706178fe3d19d7
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377454"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434599"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Erteilen Sie Kunden eine Berechtigung im Partner Center, um Ihre eigenen Produkte oder Dienste zu erwerben.
 
@@ -33,7 +32,7 @@ In diesem Artikel wird gezeigt, wie ein Partner im Cloud Solution Provider-Progr
 
 Partner im CSP-Programm nutzen häufig Partner Center und ihren kommerziellen Marketplace, um Lösungen und Dienste für Ihre Kunden zu erwerben. Partner ermöglichen es einigen Kunden dann, diese Dienste selbst direkt aus dem Azure-Portal bereitzustellen.
 
-Hier sehen Sie ein Beispiel. Nehmen wir an, dass Sie ein Azure-Plan Abonnement für einen Kunden im Partner Center erwerben. Anschließend legen Sie im Auftrag des Kunden weitere Ressourcen oder Dienste zu diesem Abonnement hinzu. In diesem Fall können Sie Azure-Reservierungen dem Abonnement des Kunden hinzufügen (z. b. durch Hinzufügen reservierter Instanzen virtueller Computer). Sie können dem Kunden dann gestatten, die Azure-Reservierungs Ressourcen selbst in der Azure-Portal bereitzustellen.
+Hier finden Sie ein Beispiel. Nehmen wir an, dass Sie ein Azure-Plan Abonnement für einen Kunden im Partner Center erwerben. Anschließend legen Sie im Auftrag des Kunden weitere Ressourcen oder Dienste zu diesem Abonnement hinzu. In diesem Fall können Sie Azure-Reservierungen dem Abonnement des Kunden hinzufügen (z. b. durch Hinzufügen reservierter Instanzen virtueller Computer). Sie können dem Kunden dann gestatten, die Azure-Reservierungs Ressourcen selbst in der Azure-Portal bereitzustellen.
 
 Mit dem Feature " **Kunden Berechtigungen** " bieten Sie den Kunden nun mehr Self-Service-Optionen für Azure-Ressourcen. Durch Aktivieren der Berechtigungen für den Kunden gestatten Sie Kunden, ihre eigenen Ressourcen zu erwerben (z. b., um Ihre eigenen Azure-Reservierungen zu erwerben).  
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie CSP-Programmpartner den Partner Center Marketplace nutzen können, um Kunden Käufe von SaaS-Angeboten von unabhängigen Software Anbietern (ISVs) zu tätigen.
 author: rbars
 ms.author: rbars
-keywords: Abonnements, Marketplace, kommerzieller Marketplace, Drittanbieter, ISV, SaaS-Angebote, Cloud Solution Provider-Programm, erwerben eines Angebots, erwerben eines Abonnements
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0450acd0cfe6586e26baf55c128e64c88f680ba9
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c711a937925cea8b1595fce1811142e4076b4d57
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947695"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435059"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Erwerben Sie kommerzielle Marketplace-Produkte für Ihre Kunden im Partner Center
 

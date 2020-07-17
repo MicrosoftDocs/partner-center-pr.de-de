@@ -7,15 +7,14 @@ ms.subservice: partnercenter-incentives
 description: Verwenden Sie diese Seiten, um Zahlungs-und Ergebnis Details sowie den Programmstatus und den gesamten Transaktionsverlauf anzuzeigen, zu verwalten und zu exportieren.
 author: kim-davis
 ms.author: kimnich
-keywords: Incentives, Auszahlungen, Zahlungen, Incentive Program, Locations, Program Status
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cfbca13e9abb4bd474923cf7e9dabf6bb2ac85a2
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 2ffd5168f0bcad08502a8afe751e568b34f394b1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377294"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436489"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Details zum Programm anzeigen, verwalten und exportieren
 
@@ -108,7 +107,7 @@ Wählen Sie zum Exportieren der Transaktionsdaten auf dieser Seite die Option **
 
 ## <a name="payment-status"></a>Zahlungsstatus
 
-|**Einnahmenstatus** |**Ursache** |**Partneraktion erforderlich?**       |
+|**Einnahmenstatus** |**`Reason`** |**Partneraktion erforderlich?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |Nicht verarbeitet        | Die Einnahme ist für eine Auszahlung qualifiziert. Sie behält diesen Status für die Dauer der sogenannten „Cooling Period“, wie sie im Programmhandbuch für das Incentive-Programm definiert ist.       |Nein        |
 |Anstehend      |Der Zahlungsauftrag hat ausstehende interne Überprüfungen generiert, bevor die Zahlung verarbeitet wird.       |Nein       |

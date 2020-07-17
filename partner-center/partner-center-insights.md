@@ -4,26 +4,25 @@ description: Erkunden Sie dieses Partner Center Unified Reporting-Dashboard. Seh
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-keywords: PCI, Leistung, Kunden Erfolg, Messungen, Bericht Erstellungs Daten
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 9e56ae1922abee38537d65564781fea3cb0251e7
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: bd73a9b8f5dfd1956b2b5dc598194778208aaa7e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949411"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436769"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights: ein Dashboard, das zeigt, wie ein kommerzieller Partner von Microsoft ist
 
 **Geeignete Rollen**
 - Globaler Administrator
 - Kontoadministrator
-- Bericht-Viewer für leitende Mitarbeiter
-- Berichts-Viewer
+- Executive Report-Leser
+- Berichtleser
 
 ## <a name="introduction"></a>Einführung
 

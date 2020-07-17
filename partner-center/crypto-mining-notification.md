@@ -7,16 +7,15 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie, was es bedeutet, wenn Sie eine Benachrichtigung über das potenzielle kryptowährungen Mining (oder kryptografiemining) in einem oder mehreren Azure-Abonnements sehen.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
-Keywords: Krypto-Mining, Mining von Kryptowährungen, Sicherheit
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5154267299b3ac15c58cb531ef1bd43f54cad187
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: d691ef30bf01fcb25d686649291e92cfec47f100
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947859"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435199"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Partner Center-Benachrichtigung für Krypto-Mining-Aktivität
 

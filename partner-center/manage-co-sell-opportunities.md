@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Als qualifizierter Microsoft-Partner können Sie Co-Selling mit Microsoft durcharbeiten. Erfahren Sie, wie Sie Deals definieren, Microsoft zur Zusammenarbeit einladen oder gesendete Geschäfte anzeigen.
 author: sroy
 ms.author: sroy
-keywords: Referenz, Co-Selling, Deal
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cee3c8a54aafb8fd8b984f3ece1647597afbe2bc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1eea363576f40604465cef55e49be9be92a117d4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949453"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434359"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Verwalten von Co-Selling-Verkaufschancen in Partner Center zum Definieren von Geschäften und besseren Erfüllung der Kundenanforderungen
 
@@ -56,7 +55,7 @@ Ausgehend **– alle** Möglichkeiten, die vom Partner erstellt werden, sind auf
 ## <a name="creating-a-co-sell-opportunity"></a>Erstellen einer Co-Selling-Verkaufschance 
 
 > [!IMPORTANT]
-> Zum Co-Selling mit Microsoft benötigen Partner eine kommerziell einsatzbereite Lösung, ein engagiertes Vertriebsteam und eine starke Markt Einführungsstrategie. Sie müssen auch bestimmte zusätzliche Kriterien erfüllen. Weitere Informationen finden Sie unter [Bereitstellung von Co-Selling](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
+> Für das Co-Selling mit Microsoft benötigen Partner eine für kommerzielle Zwecke bereite Lösung, ein engagiertes Vertriebsteam und eine starke Markteinführungsstrategie. Darüber hinaus müssen noch bestimmte weitere Kriterien erfüllt werden. Weitere Informationen finden Sie unter [Bereitstellung von Co-Selling](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
 
 
 Sie können zwei Arten von Co-Selling-Verkaufschancen erstellen. 
@@ -65,7 +64,7 @@ Sie können zwei Arten von Co-Selling-Verkaufschancen erstellen.
 
 Wählen Sie den Kunden für diesen speziellen Vertrag aus. Geben Sie den Speicherort ein, und geben Sie den Namen ein. Das automatische vorschlagen zeigt Empfehlungen basierend auf den Suchkriterien an. Da viele Unternehmen über mehr als eine Geschäftseinheit am gleichen Standort verfügen, werden möglicherweise mehrere Ergebnisse angezeigt. Wenn Sie nicht sicher sind, was Sie auswählen sollen, können Sie bestätigen, welche D-U-N-S-Nummer zu Ihrem Kunden gehört. Achten Sie darauf, die genaue Entsprechung für den Kunden auszuwählen, mit dem Sie arbeiten.
 
-Nachdem Sie auf **Wählen Sie den Kunden auswählen**, werden Sie aufgefordert, den Namen, die Telefonnummer und die e-Mail-Adresse für die Person einzugeben, die als Hauptkontakt Punkt für dieses Problem gilt. Diese Details sind optional und nur erforderlich, wenn Sie beabsichtigen, Microsoft-Verkäufe einzuladen, um Sie beim Engagement zu unterstützen. Klicken Sie auf **Weiter**.
+Nachdem Sie auf **Wählen Sie den Kunden auswählen**, werden Sie aufgefordert, den Namen, die Telefonnummer und die e-Mail-Adresse für die Person einzugeben, die als Hauptkontakt Punkt für dieses Problem gilt. Diese Details sind optional und nur erforderlich, wenn Sie beabsichtigen, Microsoft-Verkäufe einzuladen, um Sie beim Engagement zu unterstützen. Wählen Sie **Weiter** aus.
 
 > [!IMPORTANT]
 > Stellen Sie sicher, dass Sie die Zustimmung des Kunden erhalten haben, dem Microsoft seine Kontaktinformationen zur Verfügung zu stellen. Microsoft kann diese Informationen verwenden, um den Kunden direkt zu kontaktieren.

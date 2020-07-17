@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Als cloudlösungsanbieter können Sie Azure-Reservierungen für Kunden erwerben, verkaufen oder verwalten. Verwenden Sie Partner Center, die Azure-Portal oder die Partner Center-API.
 author: BillLinzbach
 ms.author: BillLi
-keywords: Azure, Reservierungen, verwalten, Abrechnung, kaufen, Azure-RI, Azure Reserved Instances
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93c6353922197270245b4b21f3bc210f26c7ec8f
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 4524d810a036953e45fb94a72241734e02a2798f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377644"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435729"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Verkaufen Sie Microsoft Azure Reservierungen an Kunden, die Partner Center, die Azure-Portal oder APIs verwenden.
 

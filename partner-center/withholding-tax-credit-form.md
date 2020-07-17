@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
-keywords: zurückbehalten von Steuer Guthaben, Steuer Guthaben, deutschen Steuer Guthaben, Steuer Zertifikaten, Gutschriften
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3992254595024635ab4200456537366d5c5cc52d
-ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
+ms.openlocfilehash: b4660db3b23f44a9b7bbf7bf238a03b271405bfe
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86405521"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436449"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>Stellen Sie sicher, dass Ihnen die zurück Haltungs Steuern gutgeschrieben werden, wenn Sie anstelle von Microsoft eine lokale Steuerbehörde bezahlen.
 

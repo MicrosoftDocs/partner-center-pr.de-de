@@ -1,22 +1,21 @@
 ---
 title: Mandantenkonsolidierung für regionale CSP-Autorisierung
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschiedene Länder/Regionen. Dies schließt Schritte zum Migrieren von Kundenkonten und Kunden Abonnements ein.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Migrieren von Kunden, Bereitstellung, Mandantenkonto, Mandanten konsolidieren
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e3c0bd9b50e91e02952a690cc7cbfe1601ad550
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 46ba699bee0a7e4554042522528fdc6d2a18596a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991473"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434919"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Anweisungen zur Mandantenkonsolidierung für regionale CSP-Autorisierung
 
@@ -32,28 +31,28 @@ ms.locfileid: "84991473"
 
 \[Einige Informationen beziehen sich auf Vorabversionen, die vor der kommerziellen Freigabe grundlegend geändert werden können. Microsoft übernimmt keine Garantie, weder ausdrücklich noch stillschweigend, für die hier bereitgestellten Informationen.\]
 
-Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschiedene Länder/Regionen.
+Mandanten können für Ihr Unternehmen konsolidiert werden. Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschiedene Länder/Regionen.
 
 >[!NOTE]  
->Sie müssen alle Abonnements und Arbeitsplatz Zähler für Ihre Kunden kennen, die über die Übergangs Konten bereitgestellt werden. Sie werden im Rahmen des Migrationsprozesses unter dem neuen zentralen CSP-Konto genau dieselben Abonnements mit derselben Anzahl von Arbeitsplätzen erneut bereitstellen. Verwenden Sie das Feature zum Exportieren der Liste, um eine Liste mit Kunden zu erstellen, die zum zentralisierten Mandanten migriert werden sollen. Partner entscheiden sich für die Konsolidierung ihrer Mandanten. Nach Abschluss der Konsolidierung können Partner nicht den vorherigen Zustand wiederherstellen. Möglicherweise ist auch eine Kunden Aktion erforderlich.
+>Sie müssen alle bereitgestellten Abonnements und Arbeitsplatz Anzahlen für die einzelnen Kunden in dem Konto beachten, von dem aus Sie wechseln. Sie werden im Rahmen des Migrationsprozesses dieselben exakten Abonnements mit der gleichen Anzahl von Arbeitsplätzen unter dem neuen zentralen CSP-Konto bereitstellen. Verwenden Sie das Feature zum Exportieren der Liste, um eine Liste mit Kunden zu erstellen, die zum zentralisierten Mandanten migriert werden sollen.  Wenn die Konsolidierung fertiggestellt ist, können Sie nicht mehr auf den vorherigen Mandanten Status zurückgreifen. Möglicherweise ist auch eine Kunden Aktion erforderlich.
 
 ## <a name="prepare-for-migration"></a>Vorbereiten der Migration
 
-- Melden Sie sich **mit dem Übergangs Konto (das** vorhandene Konto), das Sie übertragen werden, bei **Partner Center** an, und überprüfen Sie alle Kunden und alle Dienste, die für diese Kunden bereitgestellt werden.
+- Melden Sie sich mit dem **transitionskonto** , das Sie zum neuen Konto wechseln, bei **Partner Center** an, und überprüfen Sie alle Kunden und alle Dienste, die für diese Kunden bereitgestellt werden.
 
-   :::image type="content" source="images/regionalcustomer1.png" alt-text="Liste regionaler Kunden":::
+- Melden Sie sich von diesem Konto ab.
 
 ## <a name="migrate-customer-accounts"></a>Migrieren von Kundenkonten
 
-1. Melden Sie sich bei Ihrem **Partner Center** mit dem zu **migrierenden** (neuen) Konto an, und navigieren Sie von **Kunden** aus zur Liste „Kunden“.
+1. Melden Sie sich bei **Partner Center** mit dem **transitionskonto** (neu) an (das Konto, in das Sie die Kunden wechseln).
 
-2. Wählen Sie „Kunden“ aus.
+2. Wählen Sie **Kunden** aus.
 
-3. Klicken Sie auf **Vertriebspartnerschaft beantragen**. Ihnen wird eine Standard-E-Mail-Nachricht für die Weiterleitung an Ihre Kunden angezeigt. Diese Nachricht enthält eine URL mit der Organisations-ID für Ihr neues Partner Center-Konto.
+3. Klicken Sie auf **Vertriebspartnerschaft beantragen**. Ihnen wird eine Standard-e-Mail-Nachricht angezeigt, die an Ihre Kunden gesendet wird. Diese Nachricht enthält eine URL mit der Organisations-ID für Ihr neues Partner Center-Konto.
 
 4. **Kundenaktion:** Stellen Sie sicher, dass alle aktiven Kunden, die Sie migrieren möchten, diese URL aufrufen. Beim Öffnen der URL wird der Kunde zur Anmeldung beim Office 365-Portal aufgefordert. Der Kunde meldet sich mit der gleichen Organisations-ID an, mit der er auch auf die Verwaltungsportale von Azure und Office 365 zugreift.
 
-5. Nach der Anmeldung wird der globale Administrator für das Kundenkonto aufgefordert, eine Vereinbarung zu übermitteln, um dem neuen CSP-Konto delegierte Administratorrechte zu gewähren. Ist er einverstanden, aktiviert der Kunde das Kontrollkästchen und stimmt damit der Autorisierung der Beziehung zu.
+5. Nach der Anmeldung wird der globale Administrator für das **Kundenkonto** aufgefordert, eine Vereinbarung zu übermitteln, die dem neuen CSP-Konto Delegierte Administratorrechte erteilt. Ist er einverstanden, aktiviert der Kunde das Kontrollkästchen und stimmt damit der Autorisierung der Beziehung zu.
 
 Die Kunden werden in der Kundenliste des Partners angezeigt, nachdem Sie die Vereinbarung nacheinander übermittelt haben.
 
@@ -80,11 +79,11 @@ Die Kunden werden in der Kundenliste des Partners angezeigt, nachdem Sie die Ver
 Bevor Sie mit dem nächsten Abschnitt fortfahren, stellen Sie sicher, dass alle Kundenabonnements unter den Partnerkonten vom Typ **Transitioning From** unter dem Partnerkonto vom Typ **Transitioning To** erneut bereitgestellt wurden.
 
 > [!NOTE]
-> Partner müssen Abonnements bei der **Umstellung vom** Partner Mandanten Konto in Partner Center an denselben Tag aussetzen, an dem diese Abonnements übertragen werden, und im Partner Center im Rahmen des **Übergangs zum** Partner Mandanten Konto eingerichtet werden, um sicherzustellen, dass keine doppelte Abrechnung erfolgt. Supportanfragen in Bezug auf Kosten, die infolge sich überschneidender Abrechnungen auftreten, weil die Abonnements vom Typ **Transitioning From** nicht ordnungsgemäß deaktiviert wurden, werden abgelehnt.
+> Partner müssen Abonnements bei der **Umstellung vom** Partner Mandanten Konto in Partner Center an denselben Tag aussetzen, an dem diese Abonnements übertragen werden, und im Partner Center im Rahmen des **Übergangs zum** Partner Mandanten Konto eingerichtet werden, um sicherzustellen, dass keine doppelte Abrechnung erfolgt. Support Anfragen werden aufgrund von Überlappungen bei der Abrechnung verweigert, wenn der **Übergang von** Abonnements nicht ordnungsgemäß deaktiviert wird.
 
 ## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>Deaktivieren der Office 365-Abonnements unter dem Partnerkonto vom Typ „Transitioning From“
 
-Durch die Deaktivierung des CSP-Abonnements unter den Partnerkonten vom Typ **Transitioning From** erfolgen keine zukünftigen Abrechnungen mehr. Azure-Abonnements müssen nicht manuell deaktiviert werden, da diese Abonnements während des Migrationsprozesses automatisch deaktiviert werden.
+Durch die Deaktivierung des CSP-Abonnements unter den Partnerkonten vom Typ **Transitioning From** erfolgen keine zukünftigen Abrechnungen mehr. Azure-Abonnements müssen nicht manuell deaktiviert werden, da Azure-Abonnements während des Migrations Vorgangs automatisch deaktiviert werden.
 
 1. Melden Sie sich im **Partner Center** mit dem CSP-Konto **Wechsel von** an, und navigieren Sie zur Kundenliste.
 
@@ -95,7 +94,7 @@ Durch die Deaktivierung des CSP-Abonnements unter den Partnerkonten vom Typ **Tr
    >[!Note]
    >Durch das Anhalten des Abonnements wird sichergestellt, dass keine doppelte Abrechnung erfolgt.
 
-   Für das Abonnement wird in der Abonnementliste **suspended** angezeigt.
+   Das Abonnement **wird** in der Liste Abonnements angezeigt.
 
 4. Wiederholen Sie diese Schritte für alle Abonnements des Kunden. Vergewissern Sie sich, dass für alle Abonnements **suspended** angezeigt wird.
 
@@ -103,17 +102,17 @@ Durch die Deaktivierung des CSP-Abonnements unter den Partnerkonten vom Typ **Tr
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Migrieren von nutzungsbasierten Azure-Abonnements
 
-Azure-Verwendungs basierte CSP-Abonnements müssen nicht manuell migriert werden, wie dies bei Office 365 CSP-Abonnements der Fall ist. Der Microsoft Azure-Support kann die Azure-Abonnements sowie alle bereitgestellten Dienste oder Ressourcen von den CSP-Vertriebspartnerkonten vom Typ **Transitioning From** zum CSP-Vertriebspartnerkonto vom Typ **Transitioning To** migrieren. Während dieses Übergangs treten beim Kunden keine Dienstunterbrechungen auf.
+Im Gegensatz zu den Office 365 CSP-Abonnements müssen Azure und Verwendungs basierte CSP-Abonnements nicht manuell migriert werden. Microsoft Azure Support migriert die Azure-Abonnements sowie alle bereitgestellten Dienste oder Ressourcen von der **Umstellung von** CSP-Reseller-Konten zum Wechsel **zum** CSP-Reseller-Konto. Während dieses Übergangs treten beim Kunden keine Dienstunterbrechungen auf.
 
-1. Stellen Sie sicher, dass für die Kundenkonten, deren Azure-Abonnements migriert werden müssen, die Vereinbarung für das neue CSP-Konto vom Typ **Transitioning To** akzeptiert wurde.
+1. Stellen Sie sicher, dass das Kundenkonto, für das Azure-Abonnements migriert werden sollen, die Vereinbarung zum neuen **Übergang zum** CSP-Konto zugeordnet haben.
 
-2. Partner Benachrichtigen Microsoft, welche Kundenkonten, die über Azure-Abonnements verfügen, für die Migration bereit sind, und stellen diese Firmennamen für Kunden bereit.
+2. Sie benachrichtigen Microsoft, welche Kundenkonten für die Migration bereit sind, und geben die Firmennamen dieser Kunden an.
 
-3. Microsoft migriert die nutzungsbasierten Azure-Abonnements und benachrichtigt den Partner, wenn die Migration abgeschlossen ist.
+3. Microsoft migriert die nutzungsbasierten Azure-Abonnements und benachrichtigt Sie, wenn die Migration beendet ist.
 
-4. Der Partner überprüft, ob für das Azure-Abonnement unter den CSP-Vertriebspartnerkonten vom Typ **Transitioning From** in Partner Center im Abschnitt mit den Kundenabonnements jetzt „suspended“ angezeigt wird.
+4. Sie müssen sicherstellen, dass das Azure-Abonnement im Rahmen des **Übergangs von** CSP-Reseller-Konto jetzt im Partner Center im Abschnitt Kunden Abonnements als angeh **alten gekennzeichnet ist** .
 
-5. Der Partner überprüft, ob für das Azure-Abonnement unter dem CSP-Vertriebspartnerkonto vom Typ **Transitioning To** nun in Partner Center im Abschnitt mit den Kundenabonnements der Status **active** angezeigt wird.
+5. Vergewissern Sie sich, dass das Azure-Abonnement unter der **Umstellung auf** das CSP-Reseller-Konto jetzt den Status **aktiv** im Partner Center im Abschnitt Kunden Abonnements anzeigt.
 
    >[!Note]
    > Durch das Deaktivieren der Abonnements unter dem Kunden wird die Darstellung des Kunden in der Kundenliste nicht geändert. Zurzeit besteht keine Möglichkeit, Kunden aus der Liste zu entfernen. Partner sollten in Zukunft das erneute Hinzufügen von Abonnements zu diesen Kunden aus dem Konto vom Typ **Transitioning From** vermeiden.
@@ -126,16 +125,16 @@ Azure-Verwendungs basierte CSP-Abonnements müssen nicht manuell migriert werden
 
 - Abonnements können nicht vom Kunden verwendet werden, und es werden keine Gebühren generiert, wenn Sie angehalten oder abgebrochen werden.
 
-- Zurzeit besteht keine Möglichkeit, einen Kunden vollständig aus der Kundenliste zu entfernen.
-
+- Es gibt derzeit keine Möglichkeit, einen Kunden vollständig aus der **Kunden** Liste zu entfernen.
+- 
     >[!Note]
-    > Partner müssen Abonnements bei der **Umstellung vom** Partner Mandanten Konto in Partner Center an denselben Tag aussetzen, an dem diese Abonnements umgestellt werden, und unter dem Konto des **Übergangs zum** Partner Mandanten im Partner Center eingerichtet werden, um sicherzustellen, dass keine doppelte Abrechnung erfolgt. Microsoft unterstützt keine Kreditanforderungen aufgrund einer Überlappung bei der Abrechnung, wenn die **Umstellung von** Abonnements auf angehalten nicht ordnungsgemäß festgelegt wird.
+    > Partner müssen Abonnements bei der **Umstellung vom** Partner Mandanten Konto in Partner Center an denselben Tag, an dem diese Abonnements umgestellt werden, und bei der Umstellung **auf** das Konto sperren, um sicherzustellen, dass keine doppelte Abrechnung erfolgt. Microsoft unterstützt keine Kreditanforderungen aufgrund einer Überlappung bei der Abrechnung, wenn die **Umstellung von** Abonnements auf angehalten nicht ordnungsgemäß festgelegt wird.
 
 ### <a name="simplify-migration-using-export"></a>Vereinfachen der Migration mithilfe der Exportfunktion
 
 Mit der **Exportfunktion** können Sie die Abonnements erfassen, die Sie in der neuen konsolidierten Struktur benötigen:
 
-1. Klicken Sie im Partner Center auf **Kunden**, um die Liste der Kunden in der vorhandenen Struktur anzuzeigen.
+1. Klicken Sie auf **Kunden** im Partner Center, um die Kundenliste anzuzeigen. 
 
 2. Öffnen Sie den Namen des gewünschten Kunden.
 
@@ -146,3 +145,7 @@ Mit der **Exportfunktion** können Sie die Abonnements erfassen, die Sie in der 
 ### <a name="api-registration"></a>API-Registrierung
 
 Weitere Informationen zur API-Registrierung finden [Sie unter Einrichten des API-Zugriffs in Partner Center](https://go.microsoft.com/fwlink/?linkid=847990).
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Einrichten und Verwalten von Kundenkonten für Reseller-Partner in Partner Center](customer-accounts.md)

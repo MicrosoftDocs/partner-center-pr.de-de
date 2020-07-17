@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Kunden Abonnements für SaaS-Angebote (Software-as-a-Service) von unabhängigen Softwareanbietern (ISVs) im Marketplace verkaufen.
 author: rbars
 ms.author: rbars
-keywords: Abonnements, Marketplace, Drittanbieter, ISV, Saas, Lizenz
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96e8001294112bdc5af59512fe04c282a09430bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947723"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435069"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Übersicht über den kommerziellen Marketplace im Partner Center
 
@@ -56,7 +55,7 @@ Als Partner im CSP-Programm können Sie viele kommerzielle Marketplace-Aktivitä
 
 - Das [Microsoft Azure Verwaltungs Portal](https://portal.azure.com/)
 
-    Oder
+    oder
 
 - System oder Website eines Drittanbieter-ISV-Verlegers
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie die Abrechnung für ISV SaaS-Produkte oder-Abonnements funktioniert, die für Kunden vom kommerziellen Marketplace innerhalb von Partner Center erworben wurden.
 author: rbars
 ms.author: rbars
-keywords: Abonnements, Produkte, Käufe, Marketplace, Drittanbieter, ISV, Abrechnung, Rechnungen, Abstimmung, Reconnaissance-Datei
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: af02c5e0d9f824bfe2e5d5e67e5582a3c92c74ed
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947820"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435139"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Abrechnung für kommerzielle Marketplace-Produkte und-Abonnements im Partner Center
 

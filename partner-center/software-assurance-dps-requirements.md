@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Informieren Sie sich über die Berechtigungsanforderungen für jede Software Assurance Planning Services-Einbindung, die ein Unternehmen für Unternehmenskunden anbieten kann.
 author: ArpithaKanuganti
 ms.author: v-arkanu
-Keywords: vor der Bereitstellung, Planung, Software Assurance, Engagements, Anforderungen, Qualifikation, Angebot
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 491f685867a529047405df8941e8abdebf8c91ba
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 1ab8d3fd15fcd0d50e3bf6ff89865c4dd402e679
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390207"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436549"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Anzeigen der Berechtigungsanforderungen für die Planung von Dienst Engagements
 

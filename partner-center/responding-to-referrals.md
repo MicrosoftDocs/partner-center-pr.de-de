@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie qualifizierte Microsoft-Partner auf Verweise reagieren, neue, vorhandene und archivierte Verweise verwalten können und in Zukunft weitere Verweise erhalten.
 author: rajap-ms
 ms.author: rajap
-keywords: Empfehlung, RFI, Partner suchen
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb9a175016c27896c467ffe78d692c162e41c41f
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: f26e80d3850ca3fb227605d5c7582e729a95e00b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302247"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436599"
 ---
 # <a name="respond-to-referrals-and-get-potential-business-leads"></a>Antworten auf Verweise und erzielen potenzieller Geschäfts Leads
 
@@ -81,3 +80,7 @@ Hier sehen Sie einige Tipps, wie Sie weitere Empfehlungen erhalten, die für Ihr
 - **Seien Sie bei den Angeboten, die Sie akzeptieren, wählerisch**. Wir überwachen die Art der Angebote, die Sie akzeptieren und ablehnen, und helfen Ihnen, anhand dieser Informationen ähnliche Angebote ausfindig zu machen. Wenn Sie nicht gut geeignete Angebote akzeptieren, können Sie die Suchergebnisse nicht verbessern und sich auf die Qualität der Leads auswirken, die Sie erhalten.
 
 - **Melden Sie den geschätzten Geschäftsumfang, Enddatum und den endgültigen Status Ihrer Geschäfte ** (gewonnen oder verloren) zurück an uns. Wir verwenden diese Informationen, um Ihnen weiterhin Qualitäts Referenzen zu bieten.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+-[Leads verwalten](manage-leads.md)

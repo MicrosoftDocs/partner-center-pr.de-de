@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Erfahren Sie, wie Sie Azure-Reservierungen für einen Kunden verwalten und wie Sie eine Reservierung stornieren, eine Reservierung austauschen oder eine Rückerstattung anfordern.
 author: amitravat
 ms.author: amrava
-keywords: Azure, Reservierungen, verwalten, Abrechnung, Kauf, Stornierung, Umtausch, Gebühr bei vorzeitiger Kündigung
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ed925dc5a3b59db936f1e65290f58bc7912736c
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 3197f2281ef4a41a200e08290712218c634d1f52
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175896"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435759"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Verwalten, Abbrechen, austauschen oder Rückerstattung von Microsoft Azure Reservierungen für Kunden
 
@@ -64,7 +63,7 @@ Nachfolgend finden Sie Details zu Kündigung und Gebühren.
 
 |**Kündigungsdatum**<br> (Tage)   |**Verwendung**    |**Quelle**  |**Frühzeitige Kündigung**<br> gebühr    |**Max. Rückerstattungsbetrag** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 oder weniger                         | Nein          | 100%       | Nein                              | 50.000 USD   |
+|5 oder weniger                         | Nein          | 100 %       | Nein                              | 50.000 USD   |
 |5 oder weniger                         | Ja         | Anteilig  | Nein                              | 50.000 USD   |
 |Mehr als 5                        | Nein          | Anteilig  | 12 %                             | 50.000 USD   |
 |Mehr als 5                        | Ja         | Anteilig  | 12 %                             | 50.000 USD   |

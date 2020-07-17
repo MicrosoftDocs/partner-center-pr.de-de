@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie einen erfolgreichen Co-op-Anspruch für ihre Anreize übermitteln, indem Sie die richtige Dokumentation, Rechnungen, Anweisungen und den Ausführungs Nachweis organisieren.
 author: kaushikgMSFT
 ms.author: kaushikg
-keywords: Incentives-Ansprüche, Co-Op-Ansprüche, Co-Op-Mittel
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 56d22bf704b0ce702b36668f03dfbc766fdf367e
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 487aacc5028b501f4cb8ac673e339a0d766784b5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377634"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435419"
 ---
 # <a name="incentives-co-op-claims-overview"></a>Übersicht über Incentives-Co-Op-Ansprüche
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie CSP-Partner Partner Center zum Anzeigen oder Durchsuchen des Marketplace für SaaS-Angebote oder Preise von unabhängigen Software Anbietern (ISVs) verwenden können.
 author: rbars
 ms.author: rbars
-keywords: Abonnements, Marketplace, kommerzieller Marketplace, Drittanbieter, ISV, SaaS-Angebote, Cloud Solution Provider Program, CSP-Programm, CSP-Partner
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a4576faeeeed6bddd86bb3ec8d340af91adf408
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2d1185fec49c594996094d62b4de628175d931a5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947766"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435119"
 ---
 # <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Entdecken Sie Angebote und Preise im Partner Center kommerziell Marketplace
 

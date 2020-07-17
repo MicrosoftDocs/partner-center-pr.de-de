@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Was Sie wissen sollten, wenn Sie mehrere Unternehmen aus dem Partner Mitgliedschafts Center (Partner Membership Center, PMC) zu Partner Center migrieren und in einem globalen Partnerkonto konsolidieren.
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d021946fa09a046cdff10bcf1ca8dc25558063c8
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: b0bab2b69564915fb617754d55e7c113eaf0ddeb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603779"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434409"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Verschieben mehrerer Unternehmen von Partner Membership Center (PMC) zum Partner Center
 

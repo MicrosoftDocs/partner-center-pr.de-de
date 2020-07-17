@@ -6,16 +6,15 @@ description: Antworten auf Fragen zum Ablauf von Vorteilen, zur Verlängerung un
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
-keywords: Vorteile, Ablauf, Ablauf, erneuern, Abonnement, Lizenz, erweitern
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 6050dc81a192d924ce9d1203ed435f8983bb1b26
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 9449778c184ab9e64abfd908fd5f8708f752f44a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072789"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435629"
 ---
 # <a name="benefits-faq"></a>Häufig gestellte Fragen zu den Vorteilen
 

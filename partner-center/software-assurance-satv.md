@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie sich beim Software Assurance-Schulungs-Gutscheinprogramm registrieren, damit Sie für die Bereitstellung von Schulungen und Planung für Unternehmenskunden kompensiert werden können.
 author: mowree
 ms.author: mowrim
-keywords: Schulungsgutscheine, Software Assurance, Schulung, Registrieren bei SATV, SATV
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: a041631be7fe602ea16eebda557bb55aa9595173
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 91cf374c8739bfc428f58e5ec5f4b7748778f923
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390237"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436529"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>SATV-Programm (Software Assurance Training Voucher, Software Assurance-Trainingsgutschein) in Partner Center
 

@@ -7,14 +7,13 @@ ms.subservice: partnercenter-csp
 description: Synchronisieren Ihrer Verweise in Partner Center mit Dynamics 365 CRM
 author: sroy
 ms.author: sroy
-keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ec0a23afb9e98cc6604977a5a0489b1fc7c5e8a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1b7124ef2db99e4b6e79ed71c2998973ee3ef126
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948008"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435449"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Co-Selling-Connector für Dynamics 365 CRM – Übersicht
 
@@ -156,9 +155,9 @@ Je nach Ihren Anforderungen können mehrere Schritte der einzelnen Strom automat
 
 1. So passen Sie die Felder für die CREATE-oder Update-Ereignisse im Partner Center an die CRM-Referenz Synchronisierung an: 
 
-    a. Wählen Sie Partner Center für Dynamics 365 (Insider Preview) oder Partner Center für Salesforce (Insider Preview) aus.
+    a) Wählen Sie Partner Center für Dynamics 365 (Insider Preview) oder Partner Center für Salesforce (Insider Preview) aus.
 
-    b. Wählen Sie **Bearbeiten** aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
+    b) Wählen Sie **Bearbeiten** aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
 
     c. Select **(Bereich) Hiermit wird der Lead oder die Verkaufschance synchronisiert**.
 
@@ -172,9 +171,9 @@ Je nach Ihren Anforderungen können mehrere Schritte der einzelnen Strom automat
 
 3. So passen Sie die Felder für die CRM-zu-PC-Referenz Synchronisierung für Update Ereignisse an
 
-    a. Wählen Sie **Bearbeiten** aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
+    a) Wählen Sie **Bearbeiten** aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
 
-    b. Select **(Bereich) Synchronisieren der Verkaufschance**.
+    b) Select **(Bereich) Synchronisieren der Verkaufschance**.
 
     c. Wenn Sie die CRM-Feld Zuordnungen für Update Ereignisse anpassen möchten, wählen Sie aus, **ob es Unterschiede zwischen den führenden Objekten in Partner Center und CRM gibt**. 
 
@@ -184,9 +183,9 @@ Je nach Ihren Anforderungen können mehrere Schritte der einzelnen Strom automat
 
 4. Zum Anpassen der Felder für die CRM-zu-PC-Referenz Synchronisierung für Erstellungs Ereignisse
 
-   a. Wählen Sie **Bearbeiten** aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
+   a) Wählen Sie **Bearbeiten** aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
 
-   b. Wählen Sie die **Synchronisierungs Verweise aus (Bereich).**
+   b) Wählen Sie die **Synchronisierungs Verweise aus (Bereich).**
 
    c. Wählen Sie zum Anpassen von CRM-Feld Zuordnungen (basierend auf Feld Zuordnungs Handbuch) für Create Events die Option **Microsoft-Verweis erstellen**.
 
@@ -224,7 +223,7 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
    2. Stellen Sie sicher, dass der folgende Abschnitt vorhanden ist, wenn Sie eine "neue Verkaufschance" in der Dynamics 365-Umgebung erstellen.
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Verkaufschance":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Möglichkeiten":::
 
    3. Wenn Sie diese Gelegenheit mit dem Microsoft Partner Center synchronisieren möchten, stellen Sie sicher, dass Sie die folgenden Felder in der Kartenansicht festlegen:
 

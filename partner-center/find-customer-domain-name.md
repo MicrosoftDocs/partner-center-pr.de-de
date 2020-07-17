@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie den Domänen Namen und die Verzeichnis-ID Ihres Kunden beim Einreichen eines Anspruchs finden.
 author: dineshvu
 ms.author: dineshvu
-keywords: Incentiveansprüche, Co-Op-Ansprüche, Co-Op-Mittel, OSA, ISV, Umsatzzuordnung, Domänenname, Verzeichnis-ID
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 47f0e62c50197af9acda76c800b1304321b5e577
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: e777578763cdd76f8bd011542412b6840cbe9c7e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377404"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434713"
 ---
 # <a name="find-your-customers-domain-name-and-directory-id-when-submitting-an-incentives-claim"></a>Ermitteln des Domänen Namens und der Verzeichnis-ID Ihres Kunden beim Einreichen eines Anspruchs Anspruchs
 
@@ -31,7 +30,7 @@ ms.locfileid: "86377404"
 - Globaler Administrator
 - Vertriebsbeauftragter
 
-1. Bitten Sie Ihren Kunden, das [Microsoft Azure-Portal](https://portal.azure.com/#home) zu öffnen und **Azure Active Directory** auszuwählen.
+1. Bitten Sie Ihren Kunden, sich beim [Microsoft Azure-Portal](https://portal.azure.com/#home) anzumelden und **Azure Active Directory**auszuwählen.
 
 2. Der Domänen Name wird im Abschnitt **Übersicht** Ihres Kunden direkt oberhalb des Firmennamens angezeigt.  
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Untersuchen Sie die Abrechnung, wenn Sie neue Abonnements hinzufügen, die Lizenz Menge anpassen oder ein Abonnement kündigen. Sehen Sie sich an, wie sich nutzungsbasierte und Lizenz basierte Abonnements unterscheiden.
 author: sodeb
 ms.author: sodeb
-Keywords: Abrechnung, Zahlungen, Bestellungen, Nutzung, lizenzbasierte Abrechnung, Abonnementdatum, Laufzeit, Kündigung, Verlängerung, Kontenabstimmungsdatei, Abstimmungsdatei
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d79361271424de92a85ac7819353c8d2e906cdb6
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ff289f2fd93030e3ed7055b17ad696b6700fe3aa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947930"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435339"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Häufige Abrechnungs Szenarien für CSP-Programmpartner, die in Partner Center arbeiten
 

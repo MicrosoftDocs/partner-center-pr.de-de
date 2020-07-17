@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie dem Konto eines Kunden mehrere Benutzer gleichzeitig hinzufügen. Laden Sie eine Datendatei mit dem Dateiformat mit Komma getrennten Werten (CSV-Datei) in Partner Center hoch.
 author: parthpandyaMSFT
 ms.author: parthp
-keywords: Massenupload, einem Kundenkonto mehrere Benutzer hinzufügen, Benutzer eines Kunden hinzufügen, Massenupload der Benutzer eines Kunden, Kundenkonto, Kundenbenutzer, Benutzer
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72a1bf634950ac5a445dca894e3925abcae5f645
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: a9a94ac9d9022b33c7f909a258b66daa4312ad13
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377274"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436309"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>Hinzufügen mehrerer Benutzer zu einem Kundenkonto: Hochladen einer Datendatei in Partner Center
 

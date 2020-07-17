@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Stärken Sie Ihr Geschäftsprofil im Partnerverzeichnis. Erfahren Sie, wie Sie erweiterte Spezialisierungs-und Gold-und Silber-Kompetenzen erwerben.
 author: ArpithaKanuganti
 ms.author: v-arkanu
-keywords: Kompetenzen, Silver-Mitgliedschaft, Gold-Mitgliedschaft, MPN, MAPS, Kenntnisse, Microsoft Partner Network, Network Mitgliedschaft, erweiterte Spezialisierung
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e4d4c8d6a89674153987308f11bd45ee1a5b7ec
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: f4dbfee981023fe567ef345db8b9363cce886adc
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390197"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436349"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Profitieren Sie von einer erweiterten Spezialisierung, um Fachkenntnisse zu präsentieren und Kunden zu präsentieren. 
 

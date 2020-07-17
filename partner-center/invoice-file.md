@@ -5,15 +5,14 @@ ms.date: 05/18/2020
 description: Machen Sie sich mit den Feldern in der Rechnungs Datei für die Partner Center-Abrechnung vertraut.
 author: sodeb
 ms.author: sodeb
-keywords: Abrechnung, Rechnung
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 431ed4224e67312605367709174386327a521052
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 72b8abc1edb4e27b4c9677cc9f374af2aff25986
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377094"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434529"
 ---
 # <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>Abrechnungs Rechnungen für Partner Center: erfahren Sie, wie Sie die Abrechnungs-und einzeitangabefelder lesen.
 

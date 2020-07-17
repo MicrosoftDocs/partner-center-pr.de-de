@@ -7,21 +7,20 @@ ms.subservice: partnercenter-csp
 description: Erkunden Sie das Partner Center-Schulungs Dashboard.
 author: sroy
 ms.author: sroy
-Keywords: Partner Center Insights, Berichte, Berichte herunterladen
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2db166e61ad153c23ffa991d430f711f0f5ddd87
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4ca943d75869e793237989304888c6e6932ed824
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948667"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436649"
 ---
 # <a name="trainings-dashboard"></a>Schulungs Dashboard
 
 **Geeignete Rollen**
-- Bericht-Viewer für leitende Mitarbeiter
-- Berichts-Viewer
+- Executive Report-Leser
+- Berichtleser
 
 Das Trainings Dashboard bietet Einblicke in die Zertifizierungen, BEWERTUNGEN und Prüfungen, die von Ihrem Unternehmen Unternehmen. Das Trainings Dashboard umfasst die folgenden Abschnitte:
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie im Partner Center einen neuen Kundendaten Satz hinzufügen. Anschließend können Sie die Kunden Abonnements verkaufen, die Abrechnung verwalten oder Kundensupport bereitstellen.
 author: parthp
 ms.author: parthp
-keywords: Kunde, Kunde hinzufügen, Kundenkonto, Kundenkonto im Partner Center, Kunden, Kunden hinzufügen, Kundenkonto erstellen
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b61fe6df289d0ca95d170439573bf7887cd2a9bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c4486153c5b9a03b90102dd42460e61ad43ecbf8
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947445"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436379"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>So fügen Sie im Partner Center einen neuen Kundendatensatz hinzu
 

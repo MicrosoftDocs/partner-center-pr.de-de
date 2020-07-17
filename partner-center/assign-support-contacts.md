@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie einen Reseller als technischen Support für Kunden, die über Abonnements für Microsoft-Dienste verfügen, zuweisen.
 author: BillLinzbach
 ms.author: BillLi
-keywords: Supportmitarbeiter, Support, Supportkontakt zuweisen, designierter Supportkontakt
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 481f8cdf0f2b1834bca12c2523e43c76765bae4b
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 8186a58523502fddb0ecb2e8ef7bb91bd318680f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377674"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435949"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>Einen Händler als technischen Support Kontakt für Kunden zuweisen
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Wenn Sie ein Problem registrieren, das Sie im Partner Center gewonnen haben, hilft Ihnen Microsoft, Ihnen in Zukunft weitere Möglichkeiten zu bieten.
 author: rajap-ms
 ms.author: rajap
-keywords: Registrierung des Angebots
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 782eee28a7bd26131d15d449d451a4c29050fd4a
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 7551d3d010bfb7a4bd96b425d0afbf16ab8ebb1d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302257"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434079"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registrieren Sie die von Ihnen im Partner Center gewonnenen Angebote, damit Sie später weitere Möglichkeiten erhalten.
 

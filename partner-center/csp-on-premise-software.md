@@ -7,16 +7,14 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Partner im CSP-Programm lokale Software Abonnements im Auftrag von Kunden im Partner Center kaufen, verwalten, verkaufen und abbrechen können.
 author: BillLinzbach
 ms.author: BillLi
-keywords: Cloud Solution Provider, CSP, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner im CSP, direkte Partner, direkter CSP-Partner, indirekter CSP-Händler, direkter CSP, indirekter CSP, direktes Modell, indirektes Modell, indirekter Händler, indirekter Anbieter, Anbieter, Verteiler, Cloud Solution Provider-Programm
-robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecea7dcaa30f95a0156681e6d74b80382cfd66fe
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 79448a366665a5ace8ed230aee685c40c0465b85
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377603"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434939"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Verkaufen lokaler Software über das CSP-Programm (Cloud Solution Provider)
 
@@ -55,16 +53,17 @@ Nachdem Sie Ihre Software erworben haben, müssen Sie und ihre Kunden Sie herunt
 
 
 ## <a name="cancel-a-purchase"></a>Stornieren eines Einkaufs
+
 Gehen Sie wie folgt vor, um einen Kauf zu stornieren. Sobald die Stornierung abgeschlossen ist, wird der Softwareschlüssel gesperrt. 
 
 >[!NOTE]
 >Sie müssen ein Administrator-Agent sein, um einen Kauf zu stornieren. 
 
 1.  Bevor Sie beginnen, sollten Sie sicherstellen, dass Sie über Folgendes verfügen: 
-    -   Mandanten-GUID oder Domänenname des Kunden
-    -   Auftrags- oder Abonnement-ID
-    -   Grund für Rückerstattung
-    -   Angeforderter Betrag
+    - Mandanten-GUID oder Domänenname des Kunden
+    - Auftrags- oder Abonnement-ID
+    - Grund für Rückerstattung
+    - Angeforderter Betrag
 
 2.  Wählen Sie auf der Seite Details des Kunden die Option **Software**aus. Sie sehen eine Liste der Software, die Sie gekauft haben. 
 

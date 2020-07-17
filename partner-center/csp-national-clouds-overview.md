@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Microsoft-Partner im Cloud Solution Provider-Programm Kunden, die in unterstützten nationalen Clouds angemeldet sind, verkaufen können.
 author: LauraBrenner
 ms.author: labrenne
-keywords: Nationale Clouds, Microsoft Cloud Deutschland, Microsoft Cloud for US Government, 21Vianet, Microsoft Cloud China
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5977eb6ac583c9de79de3b1ba1fe7f0f98aa1e4d
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a8b809d83cf775af84889cbcfddde5dfe0c1cf73
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908063"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434949"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Für den Vertrieb in Microsoft National Clouds als Teil des CSP-Programms anwenden
 

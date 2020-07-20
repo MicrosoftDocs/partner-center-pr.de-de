@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 6163da45280bf0e94fa041470d5ca131341a0516
-ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
+ms.openlocfilehash: 1bf50d056d9f1b688e9593aea9b0edfc955876d7
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86405551"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436069"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Juli 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+|Funktionen|[Neue Funktionen für Berichte „Einblicke“ im Partner Center ](2020-july.md#6)|16. Juli|
 |Angebote/Märkte|[Unbegrenzte Software im Cloud Solution Provider-Programm ](2020-july.md#5)|15. Juli|
 | Angebote/Märkte | [Neue Microsoft 365 Enterprise Sprach-SKUs für Teams](2020-july.md#4) | 3\. Juli |
 | Angebote/Märkte | [Neue und End-of-Life-Angebote und -Produkte für Microsoft Dynamics 365 und Power Platform](2020-july.md#3) | 1\. Juli |

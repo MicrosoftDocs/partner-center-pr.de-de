@@ -42,6 +42,7 @@
 ## [Eingeschränkte Direktabrechnungsfunktionen](restricted-direct-bill-capabilities.md)
 ## [Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer](transition-direct-to-indirect.md)
 ## [CSP-Verträge, Preislisten und Angebote](csp-documents-and-learning-resources.md)
+## [Azure Cost Management von Cloudyn für CSPs](azure-cost-management-app-for-csp-partners.md)
 ## [Regionale CSP-Märkte und Währungen](regional-authorization-overview.md)
 ## [Anweisungen zur Mandantenkonsolidierung für regionale CSP-Autorisierung](csp-regional-authorization-tenant-consolidation.md)
 ## [Übersicht – die neue Möglichkeit, die Zustimmung des Kunden zur Microsoft-Kundenvereinbarung zu bestätigen](confirm-consent.md)
@@ -121,6 +122,7 @@
 ## [Abrechnungsarten in Partner Center](billing-different-types.md)
 ## [Erläuterungen zur Rechnung](read-your-bill.md)
 ## [Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md)
+## [Gebührenarten für Abstimmungsdateien](recon-file-charge-types.md)
 ## [Lesen von Abstimmungsdateien zur täglich bewerteten Nutzung im Partner Center](daily-rated-usage-recon-files.md)
 ## [Lizenzbasierte Abstimmungsdateien](license-based-recon-files.md)
 ## [Allgemeine Abrechnungsszenarien](common-billing-scenarios.md)
@@ -203,7 +205,10 @@
 ### [Migrieren von Skype for Business Online Plan 1 zu neueren Office 365-Versionen](skype-retiring.md)
 ### [Übertragen von Azure-Abonnements](switch-azure-subscriptions-to-a-different-partner.md)
 ### [Migrieren von Kaizala Pro-Abonnements zu Microsoft 365](migrate-kaizala-pro-partner.md)
-
+## Beratungsdienstleister, die Office 365 vertreiben
+### [Verfassen von Einladungen zu Office 365-Testversionen](advisors-create-a-trial-invitation.md)
+### [Gewinnen von Kunden mit Office 365-Testangeboten](advisors-build-your-business.md)
+### [Erstellen eines Office 365-Kaufangebots](advisor-create-a-purchase-offer.md)
 # Partner Center-Daten und -Analysen
 ## [Zugreifen auf Benutzerdaten und Analysen](data-analysis-lp.md)
 ## [Verwenden der Partner Center Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners.md)

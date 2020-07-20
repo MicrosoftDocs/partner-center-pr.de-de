@@ -127,7 +127,7 @@ ms.locfileid: "86434599"
 
 5. <span data-ttu-id="4d42e-181">Suchen Sie unten auf der Seite den Bereich **Kunden Berechtigungen** .</span><span class="sxs-lookup"><span data-stu-id="4d42e-181">Locate the **Customer permissions** area at the bottom of the page.</span></span>
 
-   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="Kunden Berechtigungen auf der Seite "Konto"." border="true":::
+   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="Kunden Berechtigungen auf der Seite Konto." border="true":::
 
 6. <span data-ttu-id="4d42e-183">Suchen Sie unter **Azure-Reservierungen**die Option **Kauf von Kunden gestatten** .</span><span class="sxs-lookup"><span data-stu-id="4d42e-183">Under **Azure reservations**, locate the **Allow customer to purchase** option.</span></span>
 

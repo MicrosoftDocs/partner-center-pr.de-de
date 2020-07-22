@@ -1,7 +1,7 @@
 ---
 title: Steigerung von Einführungsrate und Zufriedenheit
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Metriken im Partner Center verwenden. Metriken können zeigen, ob Ihr Unternehmen zunimmt, wie Kunden ihre Lizenzen verwenden und wo Sie sich mit den Investitionen beschäftigen.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fda561933082f829a35e6cd9c9b8b0754225cb4c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 7d60f1b21a6f9b29fdcaa5551875ce2c6d338a26
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377264"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875286"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Verwenden von Metriken im Partner Center, um Akzeptanz und Zufriedenheit zu steigern
 
@@ -35,7 +35,7 @@ Mithilfe zahlreicher Kennzahlen verfolgen unsere Partner, ob ihr Unternehmen wä
 Über das Programm für Cloud-Lösungsanbieter können Sie Daten für alle Ihre Kunden einsehen. Einige Kunden können Lizenzen von anderen Partnern oder direkt von Microsoft erwerben. In diesen Fällen sehen Sie die Gesamtzahl der Lizenzen für alle Partner. Um nur Ihre eigenen Lizenzen anzuzeigen, rufen Sie stattdessen die Abonnements des Kunden auf.
 
 > [!NOTE]  
->  Aktuell werden nur Daten für Office 365 und Dynamics 365 angezeigt. Wir werden in Zukunft Daten für weitere Produkte bereitstellen.
+> Aktuell werden nur Daten für Office 365 und Dynamics 365 angezeigt. Wir werden in Zukunft Daten für weitere Produkte bereitstellen.
 
 ## <a name="find-license-and-user-data"></a>Suchen nach Lizenz- und Benutzerdaten
 
@@ -81,23 +81,21 @@ Terminologie:
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-Wenn Sie viele Hilfe und Fragen zu Fragen haben, sind die Einführungs Zahlen in Ihrem Konto niedrig, oder Sie suchen nach Upselling-Möglichkeiten. Sie sollten auch Schulungskurse anbieten. Wenn Sie Ihren Kunden die Nutzung der von Ihnen erworbenen cloudlösungssoftware erleichtern, sehen Sie eher eine Steigerung der Produktivität und Zufriedenheit und eine Abnahme der Supportanforderungen.
+Wenn Sie viele Hilfe und Fragen zu Fragen haben, sind die Einführungs Zahlen in Ihrem Konto niedrig, oder Sie suchen nach den Verkaufschancen. Sie sollten auch Schulungskurse anbieten. Wenn Sie Ihren Kunden die Nutzung der von Ihnen erworbenen cloudlösungssoftware erleichtern, sehen Sie eher eine Steigerung der Produktivität und Zufriedenheit und eine Abnahme der Supportanforderungen.
 
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Problem:</strong> Die Benutzer Akzeptanz Rate ist niedrig, und viele Lizenzen werden&#39;t verwendet.</p>
-<p><strong>Zu berücksichtigende Punkte:</strong> Kunden können den von der Software bereitgestellten Wert möglicherweise nicht verstehen. Sie benötigen Hilfe bei der Planung der Art und Weise, wie Sie Sie in Ihren Tag einbinden können, um Aufgaben zu vereinfachen, die Sie bereits ausführen, oder um neue Arten von Produktivität zu ermöglichen.</p>
-<p><strong>Was Sie ausprobieren sollten:</strong> Fallstudien, Benutzer Hinweise zu bestimmten Szenarien, Tutorial-Blogs oder Videos.</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Problem:</strong> Es gibt eine große Anzahl von Supportanfragen für Hilfe und Anleitungen.</p>
-<p><strong>Zu berücksichtigende Punkte:</strong> Kunden sind möglicherweise noch nicht mit der Software, der Produktversion oder ihrer Aufgabe vertraut.</p>
-<p><strong>Was Sie ausprobieren sollten:</strong> Sie können eine duale Strategie zum anbieten von Schulungen (persönlich oder Online) verwenden, um das allgemeine Know-how der Kunden&#39;zu steigern und gleichzeitig einige der Self-Service-Optionen zu fördern, die Kunden zur Verfügung stehen.</p>
-<p>Sie können ggf. auch Ihre Supportwebsite so anpassen, dass sie zusätzlich zu den Supportkontaktinformationen auch die Self-Service-Optionen umfasst, die im Thema <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Kundenselbsthilfe</a> beschrieben sind.</p></td>
-</tr>
-</tbody>
-</table>
+### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>Erwägen der Verbesserung der Kundenakzeptanz und-Nutzung: einige Szenarien
+
+**Problem**: die Benutzer Akzeptanz Rate ist niedrig, und viele Lizenzen werden nicht verwendet.
+
+**Zu berücksichtigende**Punkte: Kunden können den Wert, der von der Software bereitgestellt werden könnte, nicht verstehen. Sie benötigen Hilfe bei der Planung der Art und Weise, wie Sie Sie in Ihren Tag einbinden können, um Aufgaben zu vereinfachen, die Sie bereits ausführen, oder um neue Arten von Produktivität zu ermöglichen.
+
+**Was Sie ausprobieren**sollten: Fallstudien, Benutzer Hinweise zu bestimmten Szenarien, Tutorial-Blogs oder Videos.
+
+**Problem**: Es gibt eine große Anzahl von Supportanfragen für Hilfe und Anleitungen.
+
+**Zu berücksichtigende**Punkte: Kunden sind möglicherweise noch nicht mit der Software, der Produktversion oder ihrer Aufgabe vertraut.
+
+**Was Sie ausprobieren sollten**: Sie können eine duale Strategie zum anbieten von Schulungen (persönlich oder Online) verwenden, um das allgemeine Know-how der Kunden zu verbessern, während gleichzeitig einige der Self-Service-Optionen für Kunden herauf gestuft werden.
+
+Möglicherweise möchten Sie Ihre Support-Website umgestalten, um auch die Self-Service-Optionen zu berücksichtigen, die Sie zusätzlich zu den Kontaktinformationen Ihres Supports unter [Kunden selbst Unterstützung](customer-self-support.md) beschrieben haben.
+

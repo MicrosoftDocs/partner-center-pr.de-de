@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: Erfahre, wie du bestätigst, dass ein Kunde der Microsoft-Kundenvereinbarung zugestimmt hat. Dies ist für CSPs erforderlich, um Microsoft-Produkte und -Dienste für Kunden zu bestellen.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
-keywords: Kunden, Kunden, Zustimmung, MCA, Microsoft Cloud-Vertrag, Microsoft-Kundenvertrag, Vorlagen für Kundenverträge
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc809c693b74f2a7fc6a906c625efebb6678784e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 9df7dadbf9d2e6d1cc685b888ea2ae18436c8abf
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947960"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435429"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung im CSP-Partnerprogramm
 

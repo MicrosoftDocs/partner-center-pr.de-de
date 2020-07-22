@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 3fed5a5a584775f73ed3ad83978a6d38cb50293b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 056607725875b916298251cad2015069a43c4fba
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948224"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875196"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Grundlegendes zum Unterschied zwischen monatlicher und jährlicher Abrechnung in Partner Center
 
@@ -86,7 +86,7 @@ Außerdem müssen Sie [Ihre APIs für die jährliche Abrechnung aktualisieren](#
 Um die jährliche Abrechnung nutzen zu können, müssen Sie einige Änderungen an Ihren APIs vornehmen.
 
 - [Order. billingcycle (Eigenschaft)](https://docs.microsoft.com/dotnet/api/microsoft.store.partnercenter.models.orders.order.billingcycle)
-- [Erstellen eines Auftrags](https://docs.microsoft.com/partner-center/develop/create-an-order)
+- [Erstellen einer Bestellung](https://docs.microsoft.com/partner-center/develop/create-an-order)
 
 Weitere Informationen zu Partner Center-APIs finden Sie unter alle [Partner Center-Entwickler Ressourcen und-Dokumentation](https://docs.microsoft.com/partner-center/develop/).
 

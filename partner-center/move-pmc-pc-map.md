@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Informieren Sie sich, welche Unterschiede PMC und Partner Center im Hinblick auf Verlängerungen, die Kontostruktur, die Anmeldung, Benutzerrollen, Kompetenzen und mehr aufweisen.
 author: parthpandyaMSFT
 ms.author: parthp
-keywords: PMC, Migration, Wechsel zu Partner Center
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ac79b85d4278f6340d6997fc94151bc0cb404c3e
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: a6fc3fbfbc5ebf874460fbf2f0065150089db39d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390627"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436809"
 ---
 # <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>Umstellung von Partner Membership Center (PMC) auf Partner Center
 

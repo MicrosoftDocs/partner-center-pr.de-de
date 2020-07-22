@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 47291be42523cbcc3aafbb76a6fd9512191ca806
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e72c499cac9b2408e34a0f6fbf2e442f93faef47
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435249"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875226"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Aussetzen oder Stornieren von Kundenabonnements
 
@@ -77,6 +77,26 @@ Einige Angebote sind auf ein Abonnement pro Kunde beschränkt. Eine Liste der ei
     > Weder Sie noch Ihr Kunde erhalten eine e-Mail mit Anweisungen zum Abschließen der Konto Einrichtung/-Bereitstellung für diese Art von ISV-Abonnement.)
 
     - Wenn Ihr Abonnement eine 30-tägige kostenlose Testversion enthält, wird der kostenlose Testzeitraum automatisch angewendet. Als Partner im CSP-Programm können Sie den kostenlosen Testzeitraum für Angebote, die Sie für Kunden erwerben, nicht aufheben. Sobald der kostenlose Testzeitraum endet, beginnt die Abonnement Laufzeit, und das Abonnement wird in den kostenpflichtigen Status konvertiert. Das Abonnement wird dann nach dem gleichen Zeitplan automatisch aufgelöst.
+   
+## <a name="update-subscriptions-with-add-ons"></a>Aktualisieren von Abonnements mit Add-ons 
+
+Um ein Add-on zu erwerben, muss der Kunde zuerst über ein aktives Basis Abonnement verfügen.  Sie können keine Add-ons über den Katalog erwerben.
+
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
+
+2. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
+
+3. Wählen Sie das Abonnement aus, das Sie verwalten möchten.
+
+4. Unter dem Abschnitt **Status** finden Sie eine Liste der verfügbaren Add-ons für das Abonnement.  
+
+5. Aktualisieren Sie die Anzahl der Lizenzen für jedes erforderliche Add-on. Wählen Sie anschließend **Übermitteln** aus, um Ihre Änderungen zu übermitteln.
+
+Die Möglichkeit, Add-ons über Partner Center zu erwerben, ist nur für CSP-Partner verfügbar.
+Nur berechtigte Add-ons werden basierend auf den Basis Anforderungen und der regionalen Verfügbarkeit angezeigt. Weitere Informationen zu Preisen und Angeboten finden Sie in der Cloud Reseller offer-Matrix.  Durch das Anhalten des Basisabonnements werden auch alle zugehörigen Add-ons angehalten.
+
+Startdatums Angaben für Add-ons richten sich an das Basis Abonnement, und die Gebühren werden aus dem Startdatum der Gebühr und dem Abrechnungsdatum für die ersten Rechnung berechnet. 
+
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Aussetzen oder Stornieren eines Abonnements
 
@@ -96,7 +116,7 @@ Wenn Sie den Status eines Abonnements zu **Ausgesetzt** ändern, können sich Be
 
 5. Alle Daten werden gelöscht, solange das Abonnement nicht innerhalb von 90 Tagen oder 90 Tagen zuzüglich der Anzahl der Tage zwischen der Eröffnung des Kontos und dem ersten Abrechnungszeitraum (maximal 120 Tage) reaktiviert wird.
 
-Wenn Sie ein Abonnement aussetzen, gibt das Datum, das unterhalb der Schaltfläche **Ausgesetzt** angezeigt wird, an, wann das Abonnement automatisch ablaufen würde, wenn Sie es nicht erneut aktivieren. Weitere Informationen finden Sie unter Häufig gestellte [Fragen zu neuen Abrechnungs Features](faq-about-new-billing-features.md).
+Wenn Sie ein Abonnement aussetzen, gibt das Datum, das unterhalb der Schaltfläche **Ausgesetzt** angezeigt wird, an, wann das Abonnement automatisch ablaufen würde, wenn Sie es nicht erneut aktivieren. 
 
 ### <a name="cancel-a-subscription"></a>Kündigen eines Abonnements
 

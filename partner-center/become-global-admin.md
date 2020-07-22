@@ -8,14 +8,13 @@ description: Zum Arbeiten in Partner Center müssen Sie zunächst den Besitz Ihr
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-keywords: Domäne, Domänenüberprüfung, Domäne überprüfen, globaler Administrator, Benutzerrollen, Berechtigungen
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9081796263e109e65a633b0a492d4bd58c7fa0a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c448ea1786311c265ffc6defe0ec445fd41bc9a2
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948237"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435639"
 ---
 # <a name="verify-your-domain-ownership"></a>Überprüfen Ihres Domänenbesitzes
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Als Partner im CSP-Programm erfahren Sie mehr über die wachsende Anzahl von Microsoft Cloud Services und Angeboten, die Sie an Kunden verkaufen können.
 author: BillLinzbach
 ms.author: BillLi
-keywords: Cloud Solution Provider, Cloud Solution Provider-Programm, CSP, Produkt hinzufügen, an Kunden verkaufen, Partnerangebote, CSP-Angebote, cloudbasierte Dienste, Azure, Office 365, Dynamics, CSP-Partner, in CSP verkaufen, Azure RI, Azure Reserved Virtual Machine Instances, Azure-Reservierungen, Onlinedienste, Abonnementsoftware, AHUB, SQL Server in Azure, Windows Server in Azure, Kundenabonnements
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 88565466bfe124e05d3bac85e6814dfa44ec3ca7
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: dd50d2e4e02e342162c8680126dd9e11f1b5a0f2
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390527"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434559"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Übersicht über Partnerangebote im Cloud Solution Provider-Programm
 
@@ -118,17 +117,17 @@ Einige lizenzbasierte Angebote können nur unter bestimmten Bedingungen erworben
 
 Es kann verschiedene Gründe dafür geben, dass Sie das von Ihnen gesuchte Angebot im Katalog nicht finden. Prüfen Sie die folgenden Punkte, wenn Sie das erwartete Angebot nicht finden können.
 
-- **Vergewissern Sie sich, dass Ihr Kunde qualifiziert ist**. Bei vielen Angeboten müssen Kunden besondere Qualifikationen erwerben. Zu den speziellen Segmenten gehören Education-, Non-Profit- und GCC (Government Community Cloud)-Angebote. Bevor Sie ein Problem protokollieren, überprüfen Sie zunächst, ob die Qualifikationen des Kunden entsprechend festgelegt sind. Sie können dies überprüfen, indem Sie in der Kundenliste auf den Kunden klicken und das Konto anzeigen. Für das Konto ist ggf. eine besondere Qualifikation festgelegt. Wenn Sie ein Bildungsangebot für einen Kunden erwerben möchten, der nicht qualifiziert ist, werden diese Angebote im Katalog nicht angezeigt. Weitere Informationen zum Qualifizieren Ihrer Kunden finden Sie in der [Dokumentation zu speziellen Segmenten](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers).
-- **Entscheiden Sie, ob Sie ein Add-On oder ein Basisangebot erwerben**. Viele lizenzbasierte Dienste wie Microsoft 365 und Dynamics 365 unterstützen sowohl Katalogkäufe von Basisangeboten als auch von Add-Ons. Im Katalog können nur Basisangebote erworben werden. Um Add-Ons zu erwerben, müssen Sie zunächst das Basisangebot im Katalog erwerben, dann den Kunden aus der Kundenliste auswählen und anschließend das Abonnement für das Basisangebot auswählen. Add-Ons können auf dieser Seite für die Abonnementverwaltung auf das Basisangebot angewendet werden. 
-- **Vergewissern Sie sich, dass die Produkte auf Ihrem Markt verfügbar sind**. Viele Produkte und Dienste sind so konfiguriert, dass sie nur an Kunden in bestimmten Ländern verkauft werden dürfen. Sie finden die Liste der unterstützten Länder in den verschiedenen Preislistendateien. Unterstützte Länder für lizenzbasierte Dienste sind in der Angebotslistenmatrix auf der Seite „Preise und Angebote“ enthalten.
-- **Vergewissern Sie sich, dass die Angebote in der Preisliste verfügbar sind**. Die Liste der verfügbaren Angebote kann sich von Monat zu Monat ändern. Wenn Sie ein Angebot im Katalog nicht finden, vergewissern Sie sich, dass es in den aktuellen Preislisten auf der Seite **Verkaufen > Preise und Angebote** verfügbar ist.
+- **Vergewissern Sie sich, dass Ihr Kunde qualifiziert ist**. Bei vielen Angeboten müssen besondere Qualifikationen an Kunden verkauft werden. Zu diesen speziellen Segmenten zählen Bildung, Gemeinnützigkeit und die Government Community Cloud (GCC). Vergewissern Sie sich vor dem Übermitteln eines Problems zunächst, dass die Qualifikationen des Kunden entsprechend festgelegt sind. Sie können dies überprüfen, indem Sie in der Kundenliste auf den Kunden klicken und das Konto anzeigen. Für das Konto ist ggf. eine spezielle Qualifikation festgelegt. Wenn Sie ein Bildungsangebot für einen Kunden erwerben möchten, der nicht qualifiziert ist, werden diese Angebote im Katalog nicht angezeigt. Weitere Informationen zum Qualifizieren Ihrer Kunden finden Sie in der [Dokumentation zu speziellen Segmenten](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers).
+- **Entscheiden Sie, ob Sie ein Add-On oder ein Basisangebot erwerben**. Viele der lizenzbasierten Dienste wie Microsoft 365 und Dynamics 365 ermöglichen sowohl den Katalogerwerb von Basisangeboten als auch Add-Ons. Im Katalog können nur Basisangebote erworben werden. Um Add-Ons zu erwerben, müssen Sie zunächst das Basisangebot im Katalog erwerben, dann den Kunden in der Kundenliste auswählen und schließlich das Abonnement für das Basisangebot auswählen. Add-Ons können auf dieser Seite zum Verwalten von Abonnements auf das Basisangebot angewandt werden. 
+- **Vergewissern Sie sich, dass die Produkte in Ihrem Markt verfügbar sind**. Viele Produkte und Dienste sind so konfiguriert, dass sie nur an Kunden in bestimmten Ländern verkauft werden. Die Liste der unterstützten Länder finden Sie in den verschiedenen Preislistendateien. Die Länder, in denen lizenzbasierte Dienste unterstützt werden, sind in der Angebotslistenmatrix auf der Seite mit den Preisen und Angeboten enthalten.
+- **Vergewissern Sie sich, dass die Angebote in der Preisliste verfügbar sind**. Die Liste der verfügbaren Angebote kann monatlich geändert werden. Wenn Sie ein Angebot im Katalog nicht finden, vergewissern Sie sich, dass es in den aktuellen Preislisten auf der Seite **Verkaufen > Preise und Angebote** verfügbar ist.
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Empfohlene Dokumente zum Kauf von Artikeln im Partner Center
 
 - [Preise und Angebote im Partner Center](https://docs.microsoft.com/partner-center/pricing-and-offers)
 - [Übersicht über Partnerangebote im Cloud Solution Provider-Programm](https://docs.microsoft.com/partner-center/csp-offers)
-- [Verkaufen von Angeboten an Kunden im Bildungswesen und Erstellen eines Kunden aus dem Bildungswesen](https://docs.microsoft.com/partner-center/sell-to-education-customers)
-- [Verkaufen an spezielle Branchen wie Bildungseinrichtungen, gemeinnützige Organisationen und Behörden](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
+- [Verkaufen von Angeboten an Bildungskunden und Erstellen eines Bildungskunden](https://docs.microsoft.com/partner-center/sell-to-education-customers)
+- [Verkauf an spezialisierte Branchen wie Bildungs-, gemeinnützige und behördliche Benutzer](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
 - [Einkaufsregeln für spezielle Segmente](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers#purchase-rules-for-special-segments)
 
 ## <a name="next-steps"></a>Nächste Schritte

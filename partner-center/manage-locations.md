@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: Erfahren Sie im Partner Center, wie Sie einen neuen Standort hinzufügen und wie die Standort-MPN-ID in Incentive-Programmen, CSP-Geschäftsaktionen, Abonnements und anderen Transaktionen verwendet wird.
 author: vinayks
 ms.author: vinayks
-keywords: Partner-Konto, Standorte
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 111acf67a57b8c8be1ef8c6bd4017c8d37770dde
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f13676c8a4343feb5a099053b32b7444bbdfba45
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949668"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436869"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>Verwalten von Partnerkonto-Standorten im Partner Center und Hinzufügen eines neuen Standorts
 

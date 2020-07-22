@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: Verlängern Sie Angebote für das Microsoft Partner Network (MPN) für Microsoft Action Pack und -Kompetenzen. Der Verlängerungszeitraum beginnt einen Tag nach dem Jahrestag des Kaufdatums.
 author: LauraBrenner
 ms.author: labrenne
-keywords: MPN, Microsoft Action Pack, MAPS, Kompetenzerneuerung, Verlängerungsdatum
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c980c7820efcb5eba5de88356587c27719d0ce14
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: ab672c37c5bc707742bd7a28a54343b5a1b01aa9
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467400"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434209"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Verlängern Sie Ihre MPN-Angebote für Microsoft Action Pack und -Kompetenzen während des Verlängerungszeitraums
 

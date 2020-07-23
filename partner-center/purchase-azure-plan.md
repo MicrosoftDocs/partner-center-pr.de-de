@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8b701f372292497d227f607fbd56f06f6da90e4
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377784"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875256"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Erwerben Sie den Azure-Plan für Kunden und greifen Sie auf die neuesten Azure-Dienste zu nutzungsbasierten Tarifen zu.
 
@@ -78,7 +78,7 @@ Azure-Reservierungen müssen einem aktiven Azure-Abonnement zugeordnet werden. W
 >Wenn der Kunde noch keinen aktiven Azure-Plan besitzt, wähle Azure aus, um jetzt einen hinzuzufügen. Weitere Anweisungen finden Sie unter [Kaufen von Azure-Reservierungen](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
 
 >[!Note] 
->Der Umfang der Reservierung kann derzeit nur auf **Freigegeben** festgelegt werden. 
+>Der Umfang einer Reservierung kann im Partner Center derzeit nur auf **Freigegeben** festgelegt werden. Um den Umfang eines Einzelabonnements auszuwählen oder den Umfang von einem freigegebenen in ein Einzelabonnement zu aktualisieren, wechseln Sie wie nachfolgend beschrieben zum **Microsoft Azure-Verwaltungsportal**. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Einstellung „Freigegeben“ für den Umfang der Reservierungen":::
 

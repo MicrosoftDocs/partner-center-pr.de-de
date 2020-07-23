@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 1bf50d056d9f1b688e9593aea9b0edfc955876d7
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7db336b8d954c738d2d9d7bf9acd9ec744206a72
+ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436069"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86949856"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Juli 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+|Funktionen|[Cloud Solution Provider (CSP)-Incentive für berechtigte Angebote im kommerziellen Microsoft-Marketplace, auf Geschäftsjahr 2021 ausgeweitet](2020-July.md#7)|22. Juli|
 |Funktionen|[Neue Funktionen für Berichte „Einblicke“ im Partner Center ](2020-july.md#6)|16. Juli|
 |Angebote/Märkte|[Unbegrenzte Software im Cloud Solution Provider-Programm ](2020-july.md#5)|15. Juli|
 | Angebote/Märkte | [Neue Microsoft 365 Enterprise Sprach-SKUs für Teams](2020-july.md#4) | 3\. Juli |
@@ -35,7 +36,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 | Angebote/Märkte | [Änderungen an Microsoft 365 F1](2020-june.md#3) | 15. Juni |
 | Funktionen | [Windows Server-Softwareabonnements – Medienaktualisierung für CSP](2020-june.md#2) | 12. Juni |
 | Angebote/Märkte | [Neue und End-of-Life-Angebote und -Produkte für Microsoft Dynamics 365 und Power Platform](2020-june.md#1) | 11. Juni |
-| Funktionen | [Zusammenführen von zwei oder mehr Unternehmenskonten im Partner Center](https://docs.microsoft.com/partner-center/merge-accounts) | 9\. Juni |
+| Funktionen | [Zusammenführen von zwei oder mehr Unternehmenskonten im Partner Center](../merge-accounts.md) | 9\. Juni |
 | **Kategorie** | **Ankündigungen für Mai 2020** | **Datum** |
 | Funktionen | [Microsoft 365 A3 – Korrektur des Lizenzangebots für unbeaufsichtigte Szenarien für Education](2020-may.md#5) | 28. Mai |
 | Funktionen | [Aktive Kunden können ihren Erweiterungsplan (EP) über das Cloud Solution Provider (CSP)-Programm verlängern und Onlinelizenzen erhalten.](2020-may.md#4) | 26. Mai |

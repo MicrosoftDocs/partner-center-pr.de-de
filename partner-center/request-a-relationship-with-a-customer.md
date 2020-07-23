@@ -8,12 +8,12 @@ description: Fordern Sie eine Beziehung mit einem Kunden für Multi-Channel-Szen
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: b928b5fabb0a3f24a3b60e1712c2e2f77659ad5e
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949241"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943717"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Anfordern einer Handelspartnerbeziehung von einem Kunden in Partner Center
 
@@ -26,9 +26,9 @@ Wenn Sie den Dienst oder das Abonnement eines Kunden in seinem Namen verwalten m
 Wenn Sie eine Vertriebspartnerschaft mit einem Kunden aufbauen und nur die von Ihnen bereitgestellten Azure-Abonnements verwalten möchten, ist es nicht erforderlich, Administratorrechte zu erhalten.
 
 >[!NOTE] 
->Die Option zum Anfordern von Berechtigungen ist nicht für Partner verfügbar, die Microsoft Cloud für die US-Regierung oder Microsoft Cloud Deutschland betreiben. Weitere Informationen finden Sie unter [Kunden delegieren Administratorrechte an Partner](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges).
+>Die Option zum Anfordern von Berechtigungen ist nicht für Partner verfügbar, die Microsoft Cloud für die US-Regierung oder Microsoft Cloud Deutschland betreiben. Weitere Informationen finden Sie unter [Kunden delegieren Administratorrechte an Partner](customers-revoke-admin-privileges.md).
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden, eine Vertriebspartnerschaft mit Ihnen einzugehen
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden zur Einrichtung einer Vertriebspartnerschaft mit Ihnen
 
 Sie können eine Reseller-Beziehung mit einem Kunden aus Ihrem Land oder aus derselben Region anfordern.
 

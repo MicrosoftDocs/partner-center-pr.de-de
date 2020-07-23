@@ -10,12 +10,12 @@ ms.author: v-aarzh
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d691ef30bf01fcb25d686649291e92cfec47f100
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05da3ae93a43b1e9977d5b6646a73750b30b4415
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435199"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943497"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>Partner Center-Benachrichtigung für Krypto-Mining-Aktivität
 
@@ -54,7 +54,7 @@ Wenn die Aktivität nicht normal ist, beachten Sie Folgendes:
 
 3. Wenn Sie herausfinden möchten, wer das Abonnement erstellt hat, überprüfen Sie das Aktivitätsprotokoll des Partner Centers.
 
-Die Erkennung von Krypto-Mining-Aktivitäten basiert auf Heuristik und ist möglicherweise nicht 100%ig genau. Stellen Sie sicher, dass Governance- und Überwachungssysteme vorhanden sind, um sich vor betrügerischen oder anderen unzulässigen Aktivitäten zu schützen. Weitere Informationen finden Sie unter [Nichtbezahlung, Betrug oder Missbrauch](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse).
+Die Erkennung von Krypto-Mining-Aktivitäten basiert auf Heuristik und ist möglicherweise nicht 100%ig genau. Stellen Sie sicher, dass Governance- und Überwachungssysteme vorhanden sind, um sich vor betrügerischen oder anderen unzulässigen Aktivitäten zu schützen. Weitere Informationen finden Sie unter [Nichtbezahlung, Betrug oder Missbrauch](non-payment--fraud--or-misuse.md).
 
 ## <a name="contact-support-if-needed"></a>Support bei Bedarf kontaktieren
 

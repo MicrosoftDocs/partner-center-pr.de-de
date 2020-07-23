@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a96375c26468c130ec14e41f83eb8a1d35daa58
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c53aac7566bfa561521d5cb9304b90dd172784d5
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434159"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943747"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Umstellung vom Admin Center für Partner auf Partner Center
 
@@ -43,7 +43,6 @@ Im April 2018 wird das PAC ausgemustert, und CSP-Partner werden automatisch zu 
 
 **Advisor-Partner** (wenn Sie keine Transaktionen über CSP durchführen und PAC verwenden, um Testversionen/Angebote für Ihre Kunden bereitzustellen): Sobald wir den Zeitablauf für Ihre automatische Umleitung zu Partner Center festgelegt haben, werden wir ihn hier ankündigen. 
 
-
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Verwenden Sie Microsoft Partner Center ab sofort!
 
 Beginnen Sie jetzt mit [der Verwendung des Microsoft Partner Centers](https://partnercenter.microsoft.com/) , um sich für den Umstieg von PAC zu informieren.  Sie verwenden die gleichen Anmelde Informationen für das Partner Center, das Sie für PAC verwenden.
@@ -51,4 +50,4 @@ Beginnen Sie jetzt mit [der Verwendung des Microsoft Partner Centers](https://pa
 > [!IMPORTANT]  
 > Einige im PAC verfügbare Features und Funktionen stehen in Partner Center nicht zur Verfügung.
 
- Lesen Sie den [Vergleich](moving-from-pac-to-pc.md), um diese Änderungen zu verstehen und sich mit ihnen vertraut zu machen.  Unter [Hilfe für Microsoft Partner Center](https://docs.microsoft.com/partner-center/) finden Sie weitere Informationen zu Kontoverwaltung, Kundenverwaltung, Lizenzen, Abonnements, Preisen, Angeboten usw.
+ Lesen Sie den [Vergleich](moving-from-pac-to-pc.md), um diese Änderungen zu verstehen und sich mit ihnen vertraut zu machen. 

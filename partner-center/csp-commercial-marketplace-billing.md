@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f5c506e1f3dd5e1ffcac1d7017687b1b36718745
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435139"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943474"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Abrechnung für kommerzielle Marketplace-Produkte und-Abonnements im Partner Center
 
@@ -47,7 +47,7 @@ Der globale Administrator oder der Abrechnungsadministrator Ihres Unternehmens e
 
     Am oberen Rand der Abrechnungs Seite werden zwei Registerkarten angezeigt: **wiederkehrende** und **wiederkehrende und einmalige Käufe**. Auf jeder Registerkarte können Sie auf Rechnungen und Abgleich Dateien (Recon) für verschiedene Marketplace-Produkte zugreifen:
 
-    - Registerkarte "wieder **holt** ": zeigt Rechnungs-und Abstimmungs Dateien für Abonnements im Zusammenhang mit Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, powerbi pro und Microsoft Azure.
+    - Registerkarte "wieder **holt** ": zeigt Rechnungs-und Abstimmungs Dateien für Abonnements im Zusammenhang mit Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, Power BI pro und Microsoft Azure an.
 
     - Registerkarte " **wiederkehrende und einmalige Käufe** ": zeigt Rechnungs-und Abgleich Dateien für Azure-Plan, Azure-Reservierungen, Software und kommerzielle Marketplace-Produkte.
   

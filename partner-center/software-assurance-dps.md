@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6a0aefa9a6342a6588888c592f0026382e3eb0e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4078bbbc264ec48343deb69d93bedbf75de6d364
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436539"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943687"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance-Planungsdienste in Partner Center
 
@@ -68,7 +68,7 @@ Vergewissern Sie sich zunächst, dass alle [Planungsdienste-Programmrichtlinien]
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Erstellen oder Aktualisieren des Geschäfts Profils Ihres Unternehmens (neue Partner)
 
-Maximieren Sie Ihre Gefährdung für potenzielle Kunden. Befolgen Sie die [Anweisungen und Anleitungen](https://docs.microsoft.com/partner-center/create-a-marketing-profile) , um das Geschäftsprofil Ihres Unternehmens innerhalb von Partner Center zu erstellen oder zu aktualisieren.
+Maximieren Sie Ihre Gefährdung für potenzielle Kunden. Befolgen Sie die [Anweisungen und Anleitungen](create-a-marketing-profile.md) , um das Geschäftsprofil Ihres Unternehmens innerhalb von Partner Center zu erstellen oder zu aktualisieren.
 
 ## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>Kunde erstellt und weist einen Gutschein zu (vorhandene Partner)
 

@@ -177,6 +177,7 @@
 ### [Umstellung Ihrer Kunden auf einen Azure-Plan](azure-plan-transition.md)
 ### [Vom Partner erworbenes Guthaben – Übersicht](partner-earned-credit.md)
 ### [Wie von Partnern erworbene Guthaben berechnet und bezahlt werden](partner-earned-credit-explanation.md)
+### [Rollen und Berechtigungen für vom Partner erworbenes Guthaben](azure-roles-perms-pec.md)
 ### [Neues E-Commerce-Verfahren in CSP: Azure-Abrechnung](azure-plan-billing.md) 
 ### [Preisliste für die neue E-Commerce-Benutzeroberfläche in CSP für Azure](azure-plan-price-list.md)
 ### [Verwalten von Abonnements und Ressourcen in einem Azure-Plan](azure-plan-manage.md)

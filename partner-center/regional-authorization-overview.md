@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sehen Sie sich die Länder, Regionen und Währungen an, in denen Sie CSP-Angebote basierend auf dem Standort Ihres Unternehmens verkaufen können.
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ced2ff2890f9e017de5f4bcc1dfefaedf33cda64
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434169"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114094"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider Program (regionale Märkte und Währungen), in denen Sie CSP-Angebote verkaufen können
 
@@ -54,7 +54,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 | Tschad                     |   USD    |
 | Komoren                  |   USD    |
 | Kongo                    |   USD    |
-| Kongo (DRK)              |   USD    |
+| Kongo, Demokratische Republik              |   USD    |
 | Côte d'Ivoire            |          |
 | Dschibuti                 |   USD    |
 | Äquatorialguinea        |   USD    |
@@ -85,7 +85,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 | Sierra Leone             |   USD    |
 | Somalia                  |   USD    |
 | Südsudan              |   USD    |
-| St. Helena, Ascension, Tristan da Cunha|    USD   |
+| St. Helena, Ascension und Tristan da Cunha|    USD   |
 | Tansania                 |   USD    |
 | Togo                     |   USD    |
 | Uganda                   |          |
@@ -133,7 +133,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Guam                  |  AUD     |
 |  Heard und McDonaldinseln| AUD |
 |  Kiribati              |   AUD    |
-|  Marshall-Inseln      |   AUD    |
+|  Marshallinseln      |   AUD    |
 |  Mikronesien            |   AUD    |
 |  Nauru                 |   AUD    |
 |  Niue                  |   AUD    |
@@ -276,7 +276,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Ecuador        |   USD    |
 |  El Salvador    |   USD    |
 |  Falklandinseln|  USD    |
-|  Französisch-Guayana  |   USD    |
+|  Französisch-Guyana  |   USD    |
 |  Grenada        |   USD    |
 |  Guadeloupe     |          |
 |  Guatemala      |   USD    |
@@ -293,15 +293,15 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Peru           |   USD    |
 |  Puerto Rico    |   USD    |
 |  Saba           |   USD    |
-|  St. Barthélemy|  USD    |
+|  Saint Barthélemy|  USD    |
 |  St. Kitts und Nevis|    |
 |  St. Lucia    |   USD    |
-|  St. Martin   |   USD    |
+|  Saint Martin   |   USD    |
 |  St. Vincent und die Grenadinen| USD |
 |  Sint Eustatius |   USD    |
 |  Sint Maarten   |   USD    |
-|  Südgeorgien und Südliche Sandwichinseln| USD|
-|  Surinam       |   USD    |
+|  Südgeorgien und die Südlichen Sandwichinseln| USD|
+|  Suriname       |   USD    |
 |  Trinidad und Tobago|USD   |
 |  Turks- und Caicosinseln| USD|
 |  Uruguay        |   USD    |
@@ -399,5 +399,5 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Land/Region       | Währung |
 |  -------------        |:--------:|
 |  USA        |   USD    |
-|  USA Amerikanische Überseeinseln|   USD    |
+|  USA Kleinere Amerikanische Überseeinseln|   USD    |
 |

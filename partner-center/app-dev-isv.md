@@ -5,16 +5,16 @@ ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Für Partner mit einer früheren ISV-Kompetenz erfahren Sie, wie Sie eine einmalige Prüfung der Anforderungen an die Anwendungsentwicklung erhalten.
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 39fd6fea1845edbb520cfd9d9c6ebe985765716b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: ed3fd024b415cba79684359e1f1f01f594164c34
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436079"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114795"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Ausnahme bei der einmaligen Prüfung von Anforderungen für die Anwendungs Entwicklungskompetenz
 

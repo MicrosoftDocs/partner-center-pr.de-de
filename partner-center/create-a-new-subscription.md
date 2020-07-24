@@ -1,7 +1,7 @@
 ---
 title: Erstellen von Kunden Abonnements im Partner Center
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Ihre Kunden Abonnements sowohl für von Microsoft veröffentlichte Produkte als auch für SaaS-Produkte verkaufen, die von Drittanbieter-ISVs veröffentlicht werden.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: e72c499cac9b2408e34a0f6fbf2e442f93faef47
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 3e154fd217af8ca0f5d45c686467e671e5bd9a03
+ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875226"
+ms.locfileid: "86949836"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Aussetzen oder Stornieren von Kundenabonnements
 
@@ -49,7 +49,7 @@ Einige Angebote sind auf ein Abonnement pro Kunde beschränkt. Eine Liste der ei
 
 4. Um nur bestimmte Arten von Abonnements anzuzeigen, treffen Sie eine Auswahl bei den verfügbaren Filter:
    - **Herausgeber**: Wählen Sie **Microsoft** aus, um nur Angebote von Microsoft oder **Partnern** anzuzeigen, um kommerzielle Marketplace-Produkte anzuzeigen, die von ISVs veröffentlicht werden.
-   - **Abrechnungstyp**: Wählen Sie den Typ der Abonnement Abrechnung aus, den Sie verwenden möchten: **Lizenz** oder **Nutzung**. Unter [Häufig gestellte Fragen zu neuen Abrechnungsfunktionen](faq-about-new-billing-features.md) finden Sie Informationen, die Ihnen bei der Wahl zwischen monatlichem und jährlichem Abrechnungsintervall helfen.
+   - **Abrechnungstyp**: Wählen Sie den Typ der Abonnement Abrechnung aus, den Sie verwenden möchten: **Lizenz** oder **Nutzung**. Informationen, die Ihnen bei der Entscheidung zwischen monatlicher und jährlicher Abrechnungs Häufigkeit helfen, finden Sie unter [Lizenz basierte Abrechnung](license-based-billing.md) .
    - **Kategorie**: Wählen Sie **Enterprise**, **Small Business**oder **Testversion**aus. Informationen zu Testabonnements finden Sie unter [Testversionen von Microsoft-Produkten anbieten](offer-your-customers-trials-of-microsoft-products.md).
 
 5. Wählen Sie die Produkt Abonnements aus, die Sie für Ihren Kunden erwerben möchten. Welche Produkte Sie sehen, hängt vom Typ des Kunden Segments (Education, Government usw.) und den von Ihnen angewendeten Filtern ab. Einige Angebote, die auf dem Marketplace angezeigt werden, sind möglicherweise nicht immer für einen bestimmten Kunden oder einen bestimmten CSP-Partner verfügbar. Dies kann folgende Ursache haben:
@@ -76,7 +76,7 @@ Einige Angebote sind auf ein Abonnement pro Kunde beschränkt. Eine Liste der ei
     >[!NOTE]
     > Weder Sie noch Ihr Kunde erhalten eine e-Mail mit Anweisungen zum Abschließen der Konto Einrichtung/-Bereitstellung für diese Art von ISV-Abonnement.)
 
-    - Wenn Ihr Abonnement eine 30-tägige kostenlose Testversion enthält, wird der kostenlose Testzeitraum automatisch angewendet. Als Partner im CSP-Programm können Sie den kostenlosen Testzeitraum für Angebote, die Sie für Kunden erwerben, nicht aufheben. Sobald der kostenlose Testzeitraum endet, beginnt die Abonnement Laufzeit, und das Abonnement wird in den kostenpflichtigen Status konvertiert. Das Abonnement wird dann nach dem gleichen Zeitplan automatisch aufgelöst.
+    - Wenn Ihr Abonnement eine 30-tägige kostenlose Testversion enthält, wird der kostenlose Testzeitraum automatisch angewendet. Als Partner im CSP-Programm können Sie den kostenlosen Testzeitraum für Angebote, die Sie für Kunden erwerben, nicht aufheben. Sobald der kostenlose Testzeitraum endet, beginnt die Abonnement Laufzeit, und das Abonnement wird in den kostenpflichtigen Status konvertiert. Das Abonnement wird dann nach dem gleichen Zeitplan automatisch erneuert.
    
 ## <a name="update-subscriptions-with-add-ons"></a>Aktualisieren von Abonnements mit Add-ons 
 
@@ -92,10 +92,10 @@ Um ein Add-on zu erwerben, muss der Kunde zuerst über ein aktives Basis Abonnem
 
 5. Aktualisieren Sie die Anzahl der Lizenzen für jedes erforderliche Add-on. Wählen Sie anschließend **Übermitteln** aus, um Ihre Änderungen zu übermitteln.
 
-Die Möglichkeit, Add-ons über Partner Center zu erwerben, ist nur für CSP-Partner verfügbar.
+Die Möglichkeit, Add-ons über Partner Center zu erwerben, ist nur für die direkte Abrechnung und indirekte Anbieter verfügbar.
 Nur berechtigte Add-ons werden basierend auf den Basis Anforderungen und der regionalen Verfügbarkeit angezeigt. Weitere Informationen zu Preisen und Angeboten finden Sie in der Cloud Reseller offer-Matrix.  Durch das Anhalten des Basisabonnements werden auch alle zugehörigen Add-ons angehalten.
 
-Startdatums Angaben für Add-ons richten sich an das Basis Abonnement, und die Gebühren werden aus dem Startdatum der Gebühr und dem Abrechnungsdatum für die ersten Rechnung berechnet. 
+Startdatums Angaben für Add-ons richten sich an das Basis Abonnement, und die Gebühren werden aus dem Startdatum der Gebühr und dem Abrechnungsdatum für die ersten Rechnung berechnet. Weitere Informationen finden Sie unter [Lizenz basierte Abrechnung](license-based-billing.md).
 
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Aussetzen oder Stornieren eines Abonnements

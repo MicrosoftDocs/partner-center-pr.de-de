@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Testen Sie die neuen Partner Center-Features vor der Freigabe, und teilen Sie uns Ihre Meinung mit. Helfen Sie bei der Gestaltung der Zukunft von Partner Center!
-author: LauraBrenner
-ms.author: labrenne
+author: adamyeh
+ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 422f2d662d8fa8d992532bf5945acdd5bf6683ca
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679397"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114847"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>Testen Sie neue Partner Center-Features, und gestalten Sie die Zukunft von Partner Center.
 
@@ -24,7 +24,7 @@ ms.locfileid: "84679397"
 
 ## <a name="help-shape-the-future-of-partner-center"></a>Helfen Sie bei der Gestaltung der Zukunft von Partner Center!
 
-Wir veröffentlichen ständig neue Features und Funktionen für Partner Center und möchten Ihr Feedback erhalten! 
+Wir veröffentlichen ständig neue Features und Funktionen für Partner Center und möchten Ihr Feedback erhalten!
 
 Wir möchten dich gerne einladen, neue Features zu testen, bevor sie in der weltweiten Partner Center-Community veröffentlicht werden, und uns deine Gedanken dazu mitzuteilen. Sehen Sie sich die Informationen zu neuen Features auf der [Partner Center-Ankündigungsseite](announcements/index.md) an, damit Sie mit der Planung ihrer Nutzung zum Ausbau Ihres Unternehmens beginnen können. Es gibt möglicherweise mehrere Features, die Sie zum Testen des Laufwerks zu einem bestimmten Zeitpunkt benötigen.
 

@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Microsoft-Partner im Cloud Solution Provider-Programm Kunden, die in unterstützten nationalen Clouds angemeldet sind, verkaufen können.
-author: LauraBrenner
-ms.author: labrenne
+author: billLinzbach
+ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8b809d83cf775af84889cbcfddde5dfe0c1cf73
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 8f7b29b39cbc4a991accd6821a6b6cd037ccfc54
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434949"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114339"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Für den Vertrieb in Microsoft National Clouds als Teil des CSP-Programms anwenden
 

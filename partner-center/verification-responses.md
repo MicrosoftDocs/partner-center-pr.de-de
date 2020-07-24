@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b3a82e53c4947cdfd761fd2a9e0d998ca0d5c3a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436439"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943817"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Überprüfen Sie Ihre Kontoinformationen, wenn Sie sich in einem neuen Partner Center-Programm anmelden.
 
@@ -39,7 +39,7 @@ Wechseln Sie für das CSP-Programm auf [Diese Seite](https://partner.microsoft.c
 |Business   |Die Geschäfts Überprüfung bestätigt, dass das Registrierungs Unternehmen eine legitime Geschäftseinheit und an der Adresse ist, die für die Anmeldung verwendet wird.|Wenn die geschäftliche Überprüfung fehlschlägt, wird der primäre Kontakt (normalerweise Ihr globaler oder Konto Administrator) aufgefordert, eine offizielle Dokumentation (z. b. eine Geschäftsregistrierung oder ein Steuer Registrierungszertifikat oder eine Bestätigung) aus dem Heim Land oder der Gemeinde des Unternehmens zu liefern, um zu bestätigen, dass das Unternehmen für Geschäfte unter diesem Entitäts Namen autorisiert ist. [Erstellen eines Support Tickets](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
 
 >[!NOTE]
->Erfahren Sie, wie Sie Ihr [juristisches Geschäftsprofil (Adresse)](https://docs.microsoft.com/partner-center/update-your-partner-profile)aktualisieren.
+>Erfahren Sie, wie Sie Ihr [juristisches Geschäftsprofil (Adresse)](update-your-partner-profile.md)aktualisieren.
 
 ## <a name="when-verification-concludes"></a>Nach Abschluss der Überprüfung
 

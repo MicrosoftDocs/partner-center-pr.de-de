@@ -4,18 +4,18 @@ description: Qualifizieren Sie sich für exklusive Vorteile, indem Sie Ihre MPN-
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.date: 03/19/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dac4c066df7022489cc43694450f5ae4aa7027a4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 53b25e454c3ba5c59b9fa460bbd38d81391f7093
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436479"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114460"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership-and-explore-new-offers-programs-and-resources"></a>Aktualisieren Sie Ihre Microsoft Partner Network Mitgliedschaft, und entdecken Sie neue Angebote, Programme und Ressourcen.
 
@@ -109,7 +109,7 @@ Weitere Informationen zu Microsoft Action Pack finden Sie unter [https://partner
 
 Wenn Sie Ihr Microsoft Action Pack-Abonnement kündigen möchten, müssen Sie sich an den Partner Center-Support wenden.
 
-1. Navigieren Sie zu [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support).
+1. Wechseln Sie zu [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support).
 
 2. Wählen Sie **Probleme mit dem Partner Center melden** und dann auf der nächsten Seite **Neue Anfrage** aus.
 

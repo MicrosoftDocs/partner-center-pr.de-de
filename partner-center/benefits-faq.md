@@ -5,16 +5,16 @@ ms.date: 06/17/2020
 description: Antworten auf Fragen zum Ablauf von Vorteilen, zur Verlängerung und zum Aktivieren von Lizenzen für Azure, Cloud, Visual Studio und technische und Supportleistungen
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: arpithakanuganti
+ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 9449778c184ab9e64abfd908fd5f8708f752f44a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 89b3c8ae87072247da32bc015693205e3b2d8479
+ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435629"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87120026"
 ---
 # <a name="benefits-faq"></a>Häufig gestellte Fragen zu den Vorteilen
 
@@ -25,7 +25,7 @@ Gilt für:
 
 ## <a name="general-questions"></a>Allgemeine Fragen
 
-### <a name="q-what-does-benefit-expiry-date-mean"></a>Q. Was bedeutet "Ablaufdatum des Vorteils"
+### <a name="q-what-does-benefit-expiry-date-mean"></a>F. Was bedeutet "Ablaufdatum des Vorteils"
 
 Das Ablaufdatum des Vorteils bedeutet, dass das letzte Datum zum Aktivieren Ihrer Vorteile ist.
 
@@ -38,7 +38,7 @@ Wenn Ihr Vorteil beispielsweise das Ablaufdatum 31. Januar 2021 ist, müssen Sie
 >[!NOTE]
 >Wenn Sie Vorteile haben, die eine Benutzer Zuweisung erfordern (z. b. Visual Studio-Abonnements), können Sie diese Vorteile für weitere 30 Tage nach dem Datum der Registrierungs Erneuerung aktivieren und nutzen.
 
-### <a name="q-how-do-i-renew-my-benefits"></a>Q. Meine Vorteile Gewusst wie erneuern
+### <a name="q-how-do-i-renew-my-benefits"></a>F. Meine Vorteile Gewusst wie erneuern
 
 Verwenden Sie das folgende Verfahren, um Ihre Vorteile zu erneuern:
 
@@ -52,17 +52,17 @@ Verwenden Sie das folgende Verfahren, um Ihre Vorteile zu erneuern:
 
 Wenn der gewünschte Vorteil nicht verfügbar ist, müssen Sie Ihre Partner Center-Mitgliedschaft erneuern und den oben beschriebenen Prozess wiederholen.
 
-### <a name="q-i-received-a-notification-informing-me-that-my-subscription-is-expiring-soon---what-should-i-do"></a>Q. Ich habe eine Benachrichtigung erhalten, dass mein Abonnement bald abläuft. Was soll ich tun?
+### <a name="q-i-received-a-notification-informing-me-that-my-subscription-is-expiring-soon---what-should-i-do"></a>F. Ich habe eine Benachrichtigung erhalten, dass mein Abonnement bald abläuft. Was soll ich tun?
 
 Melden Sie sich bei dem Cloud-Portal an, das die Benachrichtigung generiert hat, überprüfen Sie das Ablaufdatum Ihrer vorhandenen Abonnements, und fügen Sie dann dem ablaufenden Abonnement Lizenzen hinzu, oder erweitern Sie das vorhandene Abonnement für das nächste Jahr der Registrierung.
 
-### <a name="q-when-can-i-renew-my-membership"></a>Q. Wann kann ich meine Mitgliedschaft erneuern?
+### <a name="q-when-can-i-renew-my-membership"></a>F. Wann kann ich meine Mitgliedschaft erneuern?
 
 Eine bestehende Mitgliedschaft kann jeden Tag nach dem Startdatum der Verlängerung verlängert werden.
 
 ## <a name="azure-and-cloud-activation-benefits"></a>Vorteile der Azure-und cloudaktivierung
 
-### <a name="q-how-does-adding-extendingrenewing-licenses-work-on-azure"></a>Q. Wie funktioniert das Hinzufügen, erweitern oder Erneuern von Lizenzen in Azure?
+### <a name="q-how-does-adding-extendingrenewing-licenses-work-on-azure"></a>F. Wie funktioniert das Hinzufügen, erweitern oder Erneuern von Lizenzen in Azure?
 
 Wenn Sie Lizenzen hinzufügen, erhöhen Sie die Gesamtzahl der Lizenzen für Ihr vorhandenes Abonnement.
 
@@ -71,23 +71,23 @@ Wenn Sie Abonnements erneuern oder erweitern, bleibt die Anzahl der Lizenzen unv
 >[!IMPORTANT]
 >Wenn Sie Lizenzen für ein vorhandenes Abonnement hinzufügen, läuft das Abonnement in weniger als 12 Monaten ab, abhängig von der Anzahl vorhandener und hinzugefügter Lizenzen. Nachdem Sie einen Schlüssel eingelöst haben, können Sie ihn nicht mehr einlösen. Bevor Sie Ihren Schlüssel einlösen, sollten Sie sicherstellen, dass Sie wissen, ob Sie Lizenzen hinzufügen oder das Abonnement erneuern oder verlängern müssen.
 
-### <a name="q-why-dont-i-see-the-renew-or-extend-options-when-i-activate-my-product-key"></a>Q. Warum sehe ich beim Aktivieren meiner Product Key nicht die Optionen zum erneuern oder erweitern.
+### <a name="q-why-dont-i-see-the-renew-or-extend-options-when-i-activate-my-product-key"></a>F. Warum sehe ich beim Aktivieren meiner Product Key nicht die Optionen zum erneuern oder erweitern.
 
 Wenn die Option erneuern/erweitern nicht angezeigt wird, bedeutet dies wahrscheinlich, dass Sie bereits über mehr Lizenzen für Ihr vorhandenes Abonnement verfügen als vom neuen Product Key bereitgestellt werden.
 
 Für den Zugriff auf die Option zum erneuern/erweitern müssen Sie Lizenzen in Ihrem aktuellen Abonnement entfernen, bis die Anzahl der Lizenzen, die Sie besitzen, gleich oder kleiner ist als die Anzahl der Lizenzen, die Ihr neuer Schlüssel besitzt.
 
-### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>Q. Kann ich die Lizenz für mein Kundenkonto aktivieren
+### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>F. Kann ich die Lizenz für mein Kundenkonto aktivieren
 
 Nein. Produktlizenzen werden zu Demonstrationszwecken ausgestellt. Ihre Mitarbeiter für Vertrieb und Marketing können diese Software zum präsentieren von Produkten für Ihre Kunden verwenden, aber Demonstrations Produkte können nicht auf Kunden Hardware oder-Infrastruktur installiert werden und müssen mit der Partner Aufsicht verwendet werden.
 
-### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>Q. Beim Zuweisen von Benutzern in Azure Bulk Credit treten Probleme auf. Was soll ich tun
+### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>F. Beim Zuweisen von Benutzern in Azure Bulk Credit treten Probleme auf. Was soll ich tun
 
 Azure Bulk Credit-Angebote können nicht mit anderen Angeboten kombiniert werden. Wenn eine Benutzer Zuweisung nicht funktioniert, bedeutet dies wahrscheinlich, dass der Benutzer, den Sie zuweisen möchten, bereits andere Lizenzierungs-, Prepaid-oder Kreditangebote wie z. b. Microsoft Konzernvertrag, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack usw. verwendet. Wenn der Benutzer diese Verträge oder Pläne nicht abonniert hat und Sie ihn trotzdem nicht zuweisen können, wenden Sie sich an Microsoft-Support.
 
 ## <a name="visual-studio-benefits"></a>Visual Studio-Vorteile
 
-### <a name="q-how-does-visual-studio-activation-work-in-partner-center"></a>Q. Funktionsweise der Visual Studio-Aktivierung im Partner Center
+### <a name="q-how-does-visual-studio-activation-work-in-partner-center"></a>F. Funktionsweise der Visual Studio-Aktivierung im Partner Center
 
 Mithilfe der folgenden Schritte können Sie jeder Person in der Benutzer Verwaltungsliste in Partner Center oder Azure Active Directory im Aad-Mandanten (AAD) Abonnements zuweisen:
 
@@ -103,7 +103,7 @@ Nachdem Sie das Abonnement zugewiesen haben, muss sich der Benutzer bei Visual S
 
 ## <a name="technical-benefits-and-support"></a>Technische Vorteile und Support
 
-### <a name="q-i-cant-install-the-software-i-downloaded-from-partner-center-how-do-i-get-help"></a>Q. Ich kann die Software nicht installieren, die ich aus Partner Center heruntergeladen habe. Gewusst wie Hilfe
+### <a name="q-i-cant-install-the-software-i-downloaded-from-partner-center-how-do-i-get-help"></a>F. Ich kann die Software nicht installieren, die ich aus Partner Center heruntergeladen habe. Gewusst wie Hilfe
 
 Installation, Aktivierung und andere produktbezogene Hilfe werden über Microsoft-Support bereitgestellt. Um Unterstützung zu erhalten, führen Sie die folgenden Schritte aus:
 

@@ -1,20 +1,20 @@
 ---
 title: Eskalieren von Problemen an Microsoft
+description: Erfahren Sie, welche Probleme Microsoft-Partner für Ihre Kunden selbst lösen und welche Probleme Sie an Microsoft eskalieren müssen.
 ms.topic: article
-ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, welche Probleme Microsoft-Partner für Ihre Kunden selbst lösen und welche Probleme Sie an Microsoft eskalieren müssen.
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c08f98477e1c7761a66c2d7cfccabd27d8e81a77
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.date: 05/18/2020
+ms.openlocfilehash: 92ce4eea3fba444967f83aab5ff4e3d8ed9aa560
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219598"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114157"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Eskalieren von Problemen an Microsoft und erfahren, welche Probleme für die Microsoft-Eskalation besser geeignet sind  
 
@@ -56,19 +56,12 @@ Es gibt jedoch einige Typen von Problemen, mit denen Sie sich an Microsoft wende
 
 5. Sie gelangen zum Office 365-Portal. Hier melden Sie sich mit Ihren Partner Center-Anmeldeinformationen an.
 
-6. Wählen Sie **Support** und dann im Menü auf der linken Seite **Neue Serviceanfrage** aus.
+6. Wählen Sie im Menü auf der linken Seite **Unterstützung**, **neue Service Request** aus.
 
 7. Wählen Sie das Supportthema aus.
 
 >[!NOTE]
 >Es ist wichtig, über das Partner Center-Dashboard zu starten, damit die Beziehung zwischen Partner und Kunde gewahrt bleibt. 
 
-
 Informationen zum Melden von Problemen im Auftrag des Kunden finden Sie unter [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md).
-
- 
-
- 
-
-
 

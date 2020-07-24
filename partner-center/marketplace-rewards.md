@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Partner, die Angebote im kommerziellen Marketplace veröffentlichen, können sich auf Vorteile stützen, die Marketingunterstützung bieten.
-author: laurabrenner
-ms.author: labrenne
+author: billlinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b811ab94a3774c41955b2d152bba5b143d711fa
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5822fbc1cb874f0199c4dc8e1e2c541a3ed3f9bd
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436839"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114166"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Verwalten von Marketplace-Prämien in Partner Center & Aktivieren von Marketing-, Vertriebs-und technischen Vorteilen
 

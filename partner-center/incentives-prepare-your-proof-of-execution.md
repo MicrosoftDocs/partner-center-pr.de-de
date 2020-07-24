@@ -1,19 +1,19 @@
 ---
 title: Vorbereiten Ihres Ausführungsnachweises
-description: Informieren Sie sich über die Wichtigkeit der Ausführungs-und Übermittlungs Richtlinien, und informieren Sie sich über die Wichtigkeit der Ausführungs-und Übermittlungs Richtlinien.
+description: Informieren Sie sich über die Wichtigkeit der Ausrichtungs Prüfung (PoE), Zeitachsen, Anzeige Status und Übermittlungs Richtlinien.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 56210d460d3ca4f58b87a8ead8ed7161058aba78
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c036d11840cbec6d4fd390ac48e2ef4824eb2608
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949476"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114749"
 ---
 # <a name="prepare-your-proof-of-execution"></a>Vorbereiten Ihres Ausführungsnachweises
 
@@ -21,7 +21,7 @@ Gilt für:
 
 - Partner Center
 
-Bevor Sie für Ihre Incentives bezahlt werden, müssen Sie einen detaillierten Ausführungs Nachweis (PoE) einreichen. Dieses Thema führt Sie durch die Erstellung eines effektiven Ausführungs Nachweises.
+Bevor Sie für Ihre Incentives bezahlt werden, müssen Sie einen detaillierten Ausführungs Nachweis (PoE) einreichen. Dieser Artikel führt Sie durch den Prozess der Erstellung eines effektiven Ausführungs Nachweises.
 
 Geeignete Rollen:
 
@@ -42,15 +42,15 @@ Geeignete Rollen:
 6. Geben Sie auf der **Seite neuer Ausführungs Nachweis**die erforderlichen Felder ein.
 
    - **Name**  Ein Anzeige Name für den Co-op-Anspruch.
-   - **Datum**  Das Ausführungs Datum. Dieser Wert muss zwischen dem Startdatum und dem Enddatum der Kampagne liegen.
+   - **Datum**  Das Ausführungs Datum. Dieses Datum muss zwischen dem Startdatum und dem Enddatum der Kampagne liegen.
    - **Betrag**  Der Betrag des Co-op-Anspruchs.
 
-7. Klicken Sie auf **Speichern**.
+7. Wählen Sie **Speichern** aus.
 
 8. Geben Sie auf der Seite **Neuer Anspruch der Ausführungs** Prüfung die erforderlichen Felder ein.
 
    - **Name**  Ein Anzeige Name für den Co-op-Anspruch.
-   - **Datum**  Das Ausführungs Datum. Dieser Wert muss zwischen dem Startdatum und dem Enddatum der Kampagne liegen.
+   - **Datum**  Das Ausführungs Datum. Dieses Datum muss zwischen dem Startdatum und dem Enddatum der Kampagne liegen.
    - **Geschätzte Eindrücke**   Die geschätzte Reichweite dieser Aktivität. Anzahl der Personen.
    - **ID der Vorabgenehmigung**   Dies ist die ID, die Microsoft Ihnen sendet, nachdem wir Ihre Marketingmaterialien genehmigt haben.
 
@@ -60,7 +60,7 @@ Geeignete Rollen:
     - **Rechnung von Drittanbietern**  Wählen Sie im Feld **Rechnungen von Drittanbietern** die Option **Dateien zum Hochladen ziehen oder durchsuchen**aus. Fügen Sie die Rechnung und die erforderlichen Rechnungsdetails hinzu, und wählen Sie dann **Speichern**aus.
     - **Bericht zum Zertifizierungsdienst**  Wählen Sie **Zertifizierungsdienst Bericht hinzufügen**aus. Füllen Sie auf der Seite **einen Zertifizierungsdienst Bericht generieren** die erforderlichen Felder aus, und klicken Sie dann auf **Speichern**.
 
-11. Sie können auch bei Bedarf **Nachweis Dokumente** hochladen. Wählen Sie im Feld **Nachweis Dokumente** die Option **Dateien zum Hochladen ziehen oder durchsuchen**aus. Beachten Sie, dass Sie nach Auswählen von Nachweisdokumente erläuternde Anmerkungen hinzufügen müssen. Nachdem Sie eine Anmerkung hinzugefügt haben, wählen Sie **Speichern** aus.
+11. Sie können auch bei Bedarf **Nachweis Dokumente** hochladen. Wählen Sie im Feld **Nachweis Dokumente** die Option **Dateien zum Hochladen ziehen oder durchsuchen**aus. Wenn Sie Nachweis Dokumente auswählen, müssen Sie Erläuterungen zu den Anmerkungen hinzufügen. Nachdem Sie eine Anmerkung hinzugefügt haben, wählen Sie **Speichern** aus.
 
 12. Geben Sie vor dem Übermitteln des Poe alle abschließenden Kommentare ein, und wählen Sie dann **Anspruch senden**aus.
 

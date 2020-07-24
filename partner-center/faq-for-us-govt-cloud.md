@@ -8,12 +8,12 @@ description: Hier finden Sie Antworten auf häufig gestellte Fragen (FAQ) zum Cl
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: 0971753d47eb86882167b5dcfe922e4810ae4c9d
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: b35d178b17f6541f2ad3ec45190aff1c09e6dda6
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390537"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943907"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Häufig gestellte Fragen zum Partner Center für Microsoft Cloud for US Government
 
@@ -165,7 +165,7 @@ Die APIs und Integrationsanforderungen für das CSP-Programm für Microsoft Clou
 
 **Gibt es eine Problemumgehung für die nicht im CSP-Programm für Microsoft Cloud for US Government verfügbaren APIs?**
 
-Partner können das Azure-Portal, die Azure AD-PowerShell oder die Graph-API für die Partner-Benutzerkontenverwaltung verwenden. Weitere Informationen finden Sie unter [Developing with Partner Center for Government Cloud](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud).
+Partner können die Azure-Portal, Azure AD PowerShell oder die Graph-API für die Partner Benutzerkonten Verwaltung verwenden. Weitere Informationen finden Sie unter [Developing with Partner Center for Government Cloud](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud).
 
 **Wo kann ich mehr erfahren?**
 

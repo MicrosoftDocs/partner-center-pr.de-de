@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 25e5cbea7cd28dbe3f0fbdd67a264d1be0728e08
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434369"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944477"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Verwalten verschiedener Leads wie Kundenanfragen, durch Marketing qualifizierte Leads und durch den Vertrieb qualifizierte Leads
 
@@ -32,7 +32,7 @@ ms.locfileid: "86434369"
 
 Microsoft sendet Millionen von Leads pro Jahr an seine Partner. Sie haben die Möglichkeit, Leads von Microsoft zu erhalten und Ihr Unternehmen zu entwickeln. In diesem Abschnitt erfahren Sie, wie Sie die Leads verwalten, die Sie von der Seite des Microsoft-Lösungsanbieters erhalten und auf diese reagieren.
 
-Die Voraussetzung für den Empfang von Leads besteht darin, [ein Geschäftsprofil](https://docs.microsoft.com/partner-center/create-a-marketing-profile) für Ihr Unternehmen zu erstellen. Das Geschäftsprofil, das Sie für Ihr Unternehmen erstellen, unterstützt Sie bei potenziellen Kunden, anderen Partnern und Microsoft-Verkäufern auf der Webseite des [Microsoft Solution providers](https://www.microsoft.com/solution-providers/home) . Ihre Geschäftsprofil Informationen werden mit den Mitgliedschafts Informationen Ihres Unternehmens kombiniert, z. b. den Kompetenz Daten und zusätzlichen Unterstützung von Microsoft, die ein umfassendes Profil für die Kunden bereitstellt, wenn Sie nach einem Partner suchen, mit dem Sie arbeiten. Alle Anforderungen, die aus der Profil Auflistung auf der Seite Microsoft-Lösungsanbieter stammen, sind im Abschnitt **"Leads"** im linken Navigationsbereich auf der Registerkarte **Verweise** verfügbar. 
+Die Voraussetzung für den Empfang von Leads besteht darin, [ein Geschäftsprofil](create-a-marketing-profile.md) für Ihr Unternehmen zu erstellen. Das Geschäftsprofil, das Sie für Ihr Unternehmen erstellen, unterstützt Sie bei potenziellen Kunden, anderen Partnern und Microsoft-Verkäufern auf der Webseite des [Microsoft Solution providers](https://www.microsoft.com/solution-providers/home) . Ihre Geschäftsprofil Informationen werden mit den Mitgliedschafts Informationen Ihres Unternehmens kombiniert, z. b. den Kompetenz Daten und zusätzlichen Unterstützung von Microsoft, die ein umfassendes Profil für die Kunden bereitstellt, wenn Sie nach einem Partner suchen, mit dem Sie arbeiten. Alle Anforderungen, die von der Profil Auflistung auf der Seite Microsoft-Lösungsanbieter stammen, sind im Abschnitt **Leads** im linken Navigationsbereich auf der Registerkarte **Verweise** verfügbar.
 
 ## <a name="types-of-leads"></a>Typen von Leads
 
@@ -85,9 +85,9 @@ Dies ist eine Terminalphase, in der alle Verkaufschancen letztendlich erreicht w
 
 Hier finden Sie einige Tipps, die Ihnen helfen, geeignetere Verweise zu erhalten:
 
-- **Wählen Sie in Ihrem [Unternehmensprofil](https://docs.microsoft.com/partner-center/create-a-marketing-profile) Schlüsselwörter und Einstellungen aus, die Ihr einzigartiges Expertenwissen und Geschäftsmodell darstellen**. Entfernen Sie Schlüsselwörter, die Verweise generieren, für die Sie nicht interessiert sind. Wenn Sie nicht an Unternehmen mit einer bestimmten Größe interessiert sind, sollten Sie diese Einstellung aktualisieren.
+- **Wählen Sie in Ihrem [Unternehmensprofil](create-a-marketing-profile.md) Schlüsselwörter und Einstellungen aus, die Ihr einzigartiges Expertenwissen und Geschäftsmodell darstellen**. Entfernen Sie Schlüsselwörter, die Verweise generieren, für die Sie nicht interessiert sind. Wenn Sie nicht an Unternehmen mit einer bestimmten Größe interessiert sind, sollten Sie diese Einstellung aktualisieren.
 
-- **Überprüfen Sie Ihre Kontaktinformationen in Ihrem [Geschäftsprofil](https://docs.microsoft.com/partner-center/create-a-marketing-profile) für jeden Standort** . Stellen Sie sicher, dass Ihr Team eingehende Warnungen erhält.
+- **Überprüfen Sie Ihre Kontaktinformationen in Ihrem [Geschäftsprofil](create-a-marketing-profile.md) für jeden Standort** . Stellen Sie sicher, dass Ihr Team eingehende Warnungen erhält.
 
 - **Schnelle Reaktion auf Verweise** Wenn Sie rechtzeitig auf eingehende Anforderungen reagieren, erhöhen wir Ihre Sichtbarkeit in zukünftigen Kunden Suchergebnissen. Stellen Sie sicher, dass Ihr Team in Ihrem Sinne schnell reagiert.
 

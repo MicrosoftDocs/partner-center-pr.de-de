@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 056607725875b916298251cad2015069a43c4fba
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 7a45b3033c448255d5508e7b7abb7a29c1c0a9e9
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875196"
+ms.locfileid: "86943537"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>Grundlegendes zum Unterschied zwischen monatlicher und jährlicher Abrechnung in Partner Center
 
@@ -32,13 +32,13 @@ ms.locfileid: "86875196"
 - Helpdesk-Agent
 - Vertriebsbeauftragter
 
-In diesem Thema werden die Unterschiede zwischen **monatlicher Abrechnung** und **jährlicher Abrechnung** in Partner Center erläutert, einschließlich Vorteilen und Anwendungsfällen. Sie haben die Möglichkeit, monatlich oder jährlich für bestimmte CSP-Abonnements (Cloud Solution Provider) zu bezahlen.
+In diesem Artikel werden die Unterschiede zwischen **monatlicher Abrechnung** und **jährlicher Abrechnung** in Partner Center erläutert, einschließlich Vorteilen und Anwendungsfällen. Sie haben die Möglichkeit, monatlich oder jährlich für bestimmte CSP-Abonnements (Cloud Solution Provider) zu bezahlen.
 
 ## <a name="applicability"></a>Anwendbarkeit
 
 Die meisten lizenzierten Abonnements haben die Möglichkeit, eine monatliche oder jährliche Abrechnungs Option zu erhalten. Für nutzungsbasierte Abonnements ist nur die monatliche Abrechnung verfügbar.
 
-Sowohl die jährliche als auch die monatliche Abrechnung erfolgt **pro Abonnement**, ** *nicht* pro Lizenz**.
+Sowohl die jährliche als auch die monatliche Abrechnung erfolgt **pro Abonnement**, ** _nicht_ pro Lizenz**.
 
 ### <a name="find-subscription-applicability"></a>Suchen von Abonnement Anwendbarkeit
 
@@ -64,7 +64,7 @@ Der Wechsel von der monatlichen Abrechnung zur jährlichen Abrechnung kann nütz
 
 ### <a name="annual-to-monthly-billing"></a>Abrechnung jährlich in monatlicher Abrechnung
 
-Die Umstellung von der jährlichen Abrechnung auf die monatliche Abrechnung kann nützlich sein, wenn Sie Ihre Abrechnungsdaten an die einzelnen Kunden anpassen möchten.
+Der Wechsel von der jährlichen Abrechnung in die monatliche Abrechnung kann nützlich sein, wenn Sie Ihre Abrechnungsdaten an die Daten ihrer einzelnen Kunden anpassen möchten.
 
 ## <a name="annual-billing"></a>Jährliche Abrechnung
 
@@ -77,7 +77,7 @@ Die jährliche Abrechnung bietet folgende Vorteile:
 
 ### <a name="configure-annual-billing"></a>Konfigurieren der jährlichen Abrechnung
 
-Wenn Sie beabsichtigen, zur jährlichen Abrechnung in Partner Center zu wechseln, achten Sie darauf, dass Sie die Auswirkungen auf Ihre Verkaufs Bewegung in Erwägung gezogen haben. Informieren Sie Ihr Team, und aktualisieren Sie die internen Prozesse nach Bedarf. Sie sollten auch Änderungen an Ihrer Rechnung und der lizenzbasierten Abstimmungs Datei überprüfen. 
+Wenn Sie beabsichtigen, zur jährlichen Abrechnung in Partner Center zu wechseln, achten Sie darauf, dass Sie die Auswirkungen auf Ihre Verkaufs Bewegung in Erwägung gezogen haben. Informieren Sie Ihr Team, und aktualisieren Sie die internen Prozesse nach Bedarf. Sie sollten auch Änderungen an Ihrer Rechnung und der lizenzbasierten Abstimmungs Datei überprüfen.
 
 Außerdem müssen Sie [Ihre APIs für die jährliche Abrechnung aktualisieren](#required-api-changes).
 
@@ -100,7 +100,7 @@ Wenn Sie ein neues Abonnement hinzufügen, werden Sie aufgefordert, die Abrechnu
 
 ### <a name="billing-time"></a>Abrechnungszeit
 
-Ihnen wird das nächste Abrechnungsdatum in Rechnung gestellt. Wenn Ihr Abrechnungsdatum z. b. der 1. Tag des Monats ist und Sie ein Abonnement, das jährlich in Rechnung gestellt wird, ab dem 29. Oktober 2019, wird Ihnen der 1. November 2019 in Rechnung gestellt. Vorausgesetzt, dass Sie keine Lizenzänderungen vornehmen, werden Sie am 1. November 2020 erneut in Rechnung gestellt. Wenn Sie eine Lizenzänderung vornehmen, erhalten Sie ein Guthaben und können sich beim nächsten Abrechnungsdatum anmelden.
+Ihnen wird das nächste Abrechnungsdatum in Rechnung gestellt. Wenn Ihr Abrechnungsdatum z. b. der 1. Tag des Monats ist und Sie ein Abonnement, das jährlich in Rechnung gestellt wird, ab dem 29. Oktober 2019, wird Ihnen der 1. November 2019 in Rechnung gestellt. Vorausgesetzt, dass Sie keine Lizenzänderungen vornehmen, werden Sie am 1. November 2020 erneut in Rechnung gestellt. Wenn Sie eine Lizenzänderung vornehmen, erhalten Sie ein Guthaben und können sich beim nächsten Abrechnungsdatum erneut anmelden.
 
 ### <a name="annual-renewals"></a>Jährliche Erneuerungen
 
@@ -112,11 +112,11 @@ Die Rechnungslegung erfolgt am nächsten Abrechnungsdatum nach dem Verlängerung
 
 Es ist nicht möglich, ein **einzelnes Abonnement** aufzuteilen, damit ein Teil monatlich abgerechnet wird und der andere Teil jährlich abgerechnet wird. Das gesamte Abonnement muss über dieselbe Abrechnungs Häufigkeit verfügen (entweder monatliche oder jährliche Abrechnung).
 
-Für Kunden, die über **mehrere Abonnements** desselben Angebots verfügen, ist es möglicherweise möglich, unterschiedliche Abrechnungs Frequenzen pro Abonnement zu haben. Bestimmte Angebote sind auf ein Abonnement pro Kunde beschränkt. Wenn für das Angebot keine Einschränkung gelten, kann ein Kunde mehrere Abonnements für das gleiche Angebot mit unterschiedlichen Abrechnungshäufigkeiten besitzen. Details zu allen Angebotseinschränkungen sind in der Spalte „I“ der Angebotsmatrix angegeben. Die Angebots Matrix finden Sie im Abschnitt " **Angebote und Preise** " im Partner Center.
+Für Kunden, die über **mehrere Abonnements** desselben Angebots verfügen, ist es möglicherweise möglich, unterschiedliche Abrechnungs Frequenzen pro Abonnement zu haben. Es gibt einige Angebote, die auf ein Abonnement pro Kunde beschränkt sind. Wenn für das Angebot keine Einschränkung gelten, kann ein Kunde mehrere Abonnements für das gleiche Angebot mit unterschiedlichen Abrechnungshäufigkeiten besitzen. Details zu allen Angebotseinschränkungen sind in der Spalte „I“ der Angebotsmatrix angegeben. Die Angebots Matrix finden Sie im Abschnitt " **Angebote und Preise** " im Partner Center.
 
 ### <a name="free-subscription-period"></a>Kostenloser Abonnementzeitraum
 
-Abonnements mit jährlicher Abrechnungs Häufigkeit erhalten keinen kostenlosen Zeitraum. Der kostenpflichtige 12-Monats-Zeitraum beginnt mit dem Kauf Datum. Dies unterscheidet sich von Abonnements mit monatlicher Abrechnung, für die nach dem Kauf ein kostenloser Zeitraum bis zum nächsten Abrechnungsdatum gilt.
+Abonnements mit jährlicher Abrechnungs Häufigkeit erhalten keinen kostenlosen Zeitraum. Der kostenpflichtige 12-Monats-Zeitraum beginnt mit dem Kauf Datum. Dies ist im Gegensatz zu Abonnements mit monatlicher Abrechnungs Häufigkeit, bei der ein kostenloser Zeitraum vom Kauf Datum bis zum nächsten Abrechnungsdatum empfangen wird.
 
 ### <a name="adding-and-removing-licenses"></a>Hinzufügen und Entfernen von Lizenzen
 
@@ -134,11 +134,11 @@ Dem Add-On-Abonnement wird automatisch die gleiche Abrechnungshäufigkeit zugewi
 
 Für alle Abrechnungshäufigkeiten gelten die gleichen Kündigungsbedingungen.
 
-Wenn das Abonnement in den ersten 30 Tagen der kostenpflichtigen zwölfmonatigen Abrechnung abgebrochen wird, erhalten Sie bei der jährlichen Abrechnung eine Gutschrift von 100% beim nächsten Abrechnungsdatum. Wenn das Abonnement nach 30 Tagen des kostenpflichtigen zwölfmonatigen Zeitraums abgebrochen wird, erhalten Sie beim nächsten Abrechnungsdatum eine Anteils mäßige Gutschrift.
+Wenn das Abonnement in den ersten 30 Tagen der kostenpflichtigen zwölfmonatigen Abrechnung abgebrochen wird, erhalten Sie bei der jährlichen Abrechnung eine Gutschrift von 100% beim nächsten Abrechnungsdatum. Wenn das Abonnement nach 30 Tagen nach dem bezahlten 12-monatigen Abrechnungszeitraum abgebrochen wird, erhalten Sie beim nächsten Abrechnungsdatum eine Anteils mäßige Gutschrift.
 
 ### <a name="moving-subscriptions-between-partners"></a>Verschieben von Abonnements zwischen Partnern
 
-Kunden können Abonnements nicht zwischen Partnern verschieben. Dies gilt für Abonnements mit monatlicher und jährlicher Abrechnung.
+Kunden können Abonnements nicht zwischen Partnern verschieben. Diese Einschränkung gilt für monatliche und jährlich in Rechnung gestellte Abonnements.
 
 Der neue Partner muss im Auftrag des Kunden ein neues Abonnement erwerben. Es ist nicht möglich, Abonnements zwischen Partnern zu verschieben.
 
@@ -152,7 +152,7 @@ Sie können ein Abonnement für bis zu 90 Tage nach dem Ablaufdatum erneut aktiv
 
 Der Angebotspreis zum Zeitpunkt des Kaufs ist für die Abonnement Laufzeit garantiert (ein Monat für die monatliche Abrechnung, 12 Monate für die jährliche Abrechnung). Wenn ein Abonnement verlängert wird, gilt der Preis in der aktuellen Preisliste zum Zeitpunkt der Verlängerung. Der neue Preis ist für die nächste Abonnement Laufzeit garantiert.
 
-Wenn sich der Preis eines Angebots während des Abrechnungszeitraums verringert, ändert sich der Betrag, den Sie in Rechnung stellen, nicht. Der Preis wird für den vollständigen Abrechnungszeitraum zum Zeitpunkt des Kaufs festgelegt. Dies gilt sowohl für die monatliche als auch für die jährliche Abrechnung.
+Wenn sich der Preis eines Angebots während des Abrechnungszeitraums verringert, ändert sich der Betrag, den Sie in Rechnung stellen, nicht. Der Preis wird für den vollständigen Abrechnungszeitraum zum Zeitpunkt des Kaufs festgelegt. Diese Konvention gilt sowohl für die monatliche als auch für die jährliche Abrechnung.
 
 ### <a name="cancellation-credits"></a>Abbruch Guthaben
 
@@ -176,7 +176,7 @@ Wenn Sie ein Abonnement mit jährlicher Abrechnung erwerben oder erneuern, ände
 
 - Wenn keine Änderungen am Abonnement vorgenommen werden, gibt es für die Abstimmungs Dateien keine Zeilen für die Monate 2 bis 12 der Abonnement Laufzeit. Wenn während der zwölfmonatigen Laufzeit eine Änderung an dem Abonnement vorgenommen wird, werden ein Guthaben und eine anteilsmäßig aufgenommene Rechnung in der nächsten Abstimmungs Datei angezeigt, nachdem die Änderung vorgenommen wurde.
 
-- Die nächste Änderung an der Abstimmungs Datei wird angezeigt, wenn das Abonnement erneuert wird. Diese Änderung erscheint am ersten Abrechnungsdatum nach der Verlängerung.
+- Die nächste Änderung an der Abstimmungs Datei wird angezeigt, wenn das Abonnement erneuert wird. Die Änderung wird nach der Verlängerung am ersten Abrechnungsdatum angezeigt.
 
 ### <a name="usage-file-changes-for-annual-billing"></a>Änderungen an der Nutzungs Datei für die jährliche Abrechnung
 
@@ -194,7 +194,7 @@ Wenn der Abbruch in den ersten 30 Tagen der 12-monatigen Laufzeit erfolgt, wird 
 
 ### <a name="adding-licenses-to-annual-subscription"></a>Hinzufügen von Lizenzen zum Jahresabonnement
 
-Wenn Sie einem Abonnement Lizenzen hinzufügen, enthält die Abstimmungs Datei ein Guthaben und eine anteilsmäßig aufgehende Rechnung. Dies gilt für monatliche und jährlich in Rechnung gestellte Abonnements.
+Wenn Sie einem Abonnement Lizenzen hinzufügen, enthält die Abstimmungs Datei ein Guthaben und eine anteilsmäßig aufgehende Rechnung. Diese Konvention gilt für monatliche und jährlich in Rechnung gestellte Abonnements.
 
 ### <a name="price-lists-for-annual-billing"></a>Preislisten für die jährliche Abrechnung
 

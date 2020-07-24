@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Was Sie wissen sollten, wenn Sie mehrere Unternehmen aus dem Partner Mitgliedschafts Center (Partner Membership Center, PMC) zu Partner Center migrieren und in einem globalen Partnerkonto konsolidieren.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0bab2b69564915fb617754d55e7c113eaf0ddeb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 59c40ebfe65d83abfb33f8994f1c0a0ffa7149a7
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434409"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114151"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Verschieben mehrerer Unternehmen von Partner Membership Center (PMC) zum Partner Center
 
@@ -51,7 +51,7 @@ Es werden Ihr bestehendes Konto und eine Notiz angezeigt, die Ihnen mitteilt, da
 
 Auf diesem Bildschirm werden Ihnen die Details des bestehenden Kontos (Name und Adresse), das bereits in Partner Center erstellt wurde, zusammen mit den Details des primären Kontakts angezeigt.
 
-Wählen Sie **Weiter**.
+Klicken Sie auf **Weiter**.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Was geschieht bei der Konsolidierung von Konten?
 

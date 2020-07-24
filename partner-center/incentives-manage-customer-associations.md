@@ -4,16 +4,16 @@ description: Informieren Sie sich über wichtige Prozesse und Zeitachsen zum Ver
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.topic: article
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 97871089ad7614be47a65bb41dfb8dc4f871b54b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: eef3ac8253c0507b5fd5fc24cc961f45518f6da2
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949506"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114788"
 ---
 # <a name="manage-customer-associations"></a>Verwalten von Kundenzuordnungen
 
@@ -42,7 +42,7 @@ Wenn Ihr cpor-Zuordnungs Anspruch genehmigt ist und für die Inanspruchnahme gee
 - Übermittelt: der Status wird für bis zu fünf Werktage übermittelt, bis Microsoft den Genehmigungsprozess startet.
 - Unter Review: Microsoft verfügt über fünf Werktage, um eine Entscheidung basierend auf dem von Ihnen bereitgestellten Ausführungs Nachweis treffen zu können.
 - Partner Aktion erforderlich: Wenn ein Reviewer Kommentare sendet und eine Anforderung für zusätzliche Informationen sendet, haben Sie fünf Werktage Zeit, um zu antworten. Basierend auf der SLA des Reviewer und der Zeitspanne, die für die Bereitstellung von Poe-Reviewern zusätzliche Informationen benötigt, muss innerhalb von 10 Tagen eine Entscheidung getroffen werden.
-- Genehmigt: Ihr cpor Association-Anspruch wurde genehmigt. Nachdem Sie Ihre Zuordnung genehmigt haben, wird eine Benachrichtigung an den Kunden gesendet, die Ihnen die Möglichkeit gibt, ihre Zuordnung abzulehnen. Der Kunde erhält dann sieben Tage Zeit, um sich abzumelden. Nachdem dieser Zustimmungs Zeitraum abgelaufen ist, wird der Anspruch gesendet, um die Berechtigung für Incentive-Programme zu bewerten.
+- Genehmigt: Ihr cpor Association-Anspruch wurde genehmigt. Nachdem Ihre Zuordnung genehmigt wurde, wird eine Benachrichtigung an den Kunden gesendet, die Ihnen die Möglichkeit gibt, ihre Zuordnung abzulehnen. Der Kunde erhält dann sieben Tage Zeit, um sich abzumelden. Nachdem dieser Zustimmungs Zeitraum abgelaufen ist, wird der Anspruch gesendet, um die Berechtigung für Incentive-Programme zu bewerten.
 
 ## <a name="view-the-status-of-your-cpor-association-claim"></a>Anzeigen des Status des cpor-Zuordnungs Anspruchs
 
@@ -71,7 +71,7 @@ Dies sind die Statuswerte und ihre Bedeutung:
 
 ## <a name="dispute-the-status-of-a-cpor-association-claim"></a>Streiten Sie den Status eines cpor-Zuordnungs Anspruchs.
 
-Wenn Ihr cpor Association-Anspruch abgelehnt wird, haben Sie 30 Tage Zeit, die Ablehnung abzulehnen. Die e-Mail, die Sie darüber informiert, dass Sie benachrichtigt werden, wo Sie den Grund für die Ablehnung sehen können, und wie Sie diese Vorgehensweise ablehnen können, erfahren Sie hier.  
+Wenn Ihr cpor Association-Anspruch abgelehnt wird, haben Sie 30 Tage Zeit, die Ablehnung abzulehnen. In der E-Mail mit der Ablehnungsbenachrichtigung erfahren Sie auch, wo der Grund für die Ablehnung angegeben ist und wie Sie Widerspruch dagegen einlegen können.  
 
 Wenn 30 Tage vergangen sind und Sie trotzdem einen abgelehnten Anspruch übernehmen möchten, müssen Sie eine neue Zuordnung mit ihrer aktualisierten Ausführungs Prüfung ((PoE) einreichen. 
 
@@ -81,17 +81,17 @@ Wenn 30 Tage vergangen sind und Sie trotzdem einen abgelehnten Anspruch überneh
 2. Öffnen Sie den Anspruch, den Sie in Konflikt stellen möchten.
 3. Wählen Sie auf der Seite Anspruch die Option **Streit**aus.
 4. Geben Sie eine geschäftliche Begründung und/oder einen aktualisierten Poe ein, die erläutern, warum die Ablehnung erneut in Erwägung gezogen werden soll.
-5. Wenn Sie mit dem Hinzufügen von Informationen fertig sind, wählen Sie **Streit** Unsere Reviewer sollten Sie mit Ergebnissen innerhalb von fünf Arbeitstagen kontaktieren.
+5. Wenn Sie mit dem Hinzufügen der Informationen fertig sind, wählen Sie **Dispute** (Widersprechen) aus. Unsere Reviewer sollten Sie mit Ergebnissen innerhalb von fünf Arbeitstagen kontaktieren.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Gründe für die Ablehnung eines cpor-Zuordnungs Anspruchs
 
 Es gibt drei Hauptgründe für die Ablehnung eines cpor Association-Anspruchs.
 
-**Partner Anforderung:** Partner können anfordern, dass Ihre Zuordnung abgelehnt wird. Dies wird größtenteils verwendet, wenn der Partner einen cpor-Zuordnungs Anspruch versehentlich mithilfe eines falschen MPN erstellt hat und eine falsche Aktivität ausgewählt hat (z. b.... Sie entscheiden sich für die Umsatz Zuordnung anstelle von vorab Verkäufen) oder arbeiten nicht länger mit dem Kunden.
+**Partner Anforderung:** Partner können anfordern, dass Ihre Zuordnung abgelehnt wird. Diese Begründung wird größtenteils verwendet, wenn der Partner einen cpor-Zuordnungs Anspruch versehentlich mithilfe eines falschen MPN erstellt hat und eine falsche Aktivität ausgewählt hat (z. b.... Sie entscheiden sich für die Umsatz Zuordnung anstelle von vorab Verkäufen) oder arbeiten nicht länger mit dem Kunden.
 
 **Kunden Verlust:** Sobald der cpor Association-Anspruch den Poe-Genehmigungsprozess erfolgreich durchlaufen hat, ändert sich der Status in "genehmigt", während der Kunde die Möglichkeit erhält, die Zustimmung der Zuordnung abzulehnen. Wenn der Kunde die Zustimmung verweigert, wird die Zuordnung abgelehnt.
 
-**Unzureichender Ausführungs Nachweis:** Der Ausführungs Nachweis ist für jede cpor-Zuordnung erforderlich. Nachdem Ihr cpor-Zuordnungs Anspruch übermittelt wurde, dauert es bis zu 5 Tage, bis Microsoft-Prüfer Ihren Poe überprüfen und zusätzliche Informationen anfordern können, die Sie im Abschnitt "Kommentare" Ihres Anspruchs benötigen. Wenn die Informationen nicht ausreichen, wird der cpor Association-Anspruch abgelehnt.
+**Unzureichender Ausführungs Nachweis:** Der Ausführungs Nachweis ist für jede cpor-Zuordnung erforderlich. Nachdem Ihr cpor-Zuordnungs Anspruch übermittelt wurde, dauert es bis zu fünf Tage, bis Microsoft-Prüfer Ihren Poe überprüfen und zusätzliche Informationen anfordern können, die Sie im Abschnitt "Kommentare" Ihres Anspruchs benötigen. Wenn die Informationen nicht ausreichen, wird der cpor Association-Anspruch abgelehnt.
 
 Weitere mögliche Gründe für die Ablehnung:
 
@@ -113,7 +113,7 @@ Felder, die Sie bearbeiten können:
 
 ## <a name="customer-consent-notification"></a>Benachrichtigung zur Kunden Zustimmung
 
-Nachdem Ihr cpor-Zuordnungs Anspruch genehmigt wurde, wird eine Benachrichtigung an den Kunden gesendet, die Ihnen die Möglichkeit gibt, ihre Zuordnung abzulehnen. Der Kunde erhält dann 7 Tage Zeit, um sich abzumelden. Ihr Status während dieses Zeitraums wird als genehmigt angezeigt. Wenn der Kunde die Zustimmung verweigert, wird die Zuordnung abgelehnt. Nachdem der Zustimmungs Zeitraum abgelaufen ist und der Kunde die Zustimmung nicht verweigert hat, wird der Anspruch gesendet, um die Berechtigung für Incentive-Programme zu bewerten.
+Nachdem Ihr cpor-Zuordnungs Anspruch genehmigt wurde, wird eine Benachrichtigung an den Kunden gesendet, die Ihnen die Möglichkeit gibt, ihre Zuordnung abzulehnen. Der Kunde erhält dann sieben Tage Zeit, um sich abzumelden. Ihr Status während dieses Zeitraums wird als genehmigt angezeigt. Wenn der Kunde die Zustimmung verweigert, wird die Zuordnung abgelehnt. Nachdem der Zustimmungs Zeitraum abgelaufen ist und der Kunde die Zustimmung nicht verweigert hat, wird der Anspruch gesendet, um die Berechtigung für Incentive-Programme zu bewerten.
 
 ## <a name="how-to-communicate-with-poe-reviewers"></a>So kommunizieren Sie mit PoE-Reviewern
 

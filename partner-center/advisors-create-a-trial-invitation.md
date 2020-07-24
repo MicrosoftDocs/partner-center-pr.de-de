@@ -1,19 +1,19 @@
 ---
-title: Erstellen einer Einladung für Office 365-Testversionen
+title: Verfassen von Einladungen zu Office 365-Testversionen
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
 description: Erfahren Sie, wie Partner Einladungen für Ihre Clients erstellen und senden können, um Office 365 zu testen. Partner sind ein autorisierter Abonnement Ratgeber.
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 04fb03ab49b68023898b44a9ec6ffad2b1f76a8e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5d76de11eb69692f8829697a664a55b01ee87c12
+ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436229"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87120034"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Ratgeber: Erstellen und Senden einer Einladung zum Testen für Clients zum Testen von Office 365
 

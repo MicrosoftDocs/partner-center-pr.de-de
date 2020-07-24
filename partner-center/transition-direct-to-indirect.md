@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010e647be83ea07eb77a52e80682d582aad52df1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1c3c3384516f7ff5d7780ac69ccaf635ab7e39fa
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436469"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944497"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer
 
@@ -178,7 +178,7 @@ So verwenden Sie dieses Feature für einen vorhandenen Kunden Mandanten:
 
 4. Wählen Sie im Popup Dialogfeld den **indirekten Anbieter** aus, dem die Wiederverkäufer Beziehung zum Kunden hinzugekommen sein soll.
 
-5. Klicken Sie auf **Speichern und Fortfahren**.
+5. Klicken Sie auf **Speichern und fortfahren**.
 
 6. Überprüfen Sie, ob der ausgewählte indirekte Anbieter unter **indirekte Anbieter**angezeigt wird.
 
@@ -204,7 +204,7 @@ Ihr indirekter Anbieter kann keine Bestellungen für Ihre bestehenden Kunden der
 
 ### <a name="microsoft-customer-agreement-acceptance"></a>Zustimmung des Microsoft-Kunden Vertrags
 
-Microsoft Cloud Vereinbarung ist bis zum 31. Januar 2020 gültig. Nach diesem Datum müssen alle Kunden, vorhandene und neue, den neuen Microsoft- [Kundenvertrag](https://docs.microsoft.com/partner-center/confirm-customer-agreement)signieren. Für den Übergang von Kunden:
+Microsoft Cloud Vereinbarung ist bis zum 31. Januar 2020 gültig. Nach diesem Datum müssen alle Kunden, vorhandene und neue, den neuen Microsoft- [Kundenvertrag](confirm-customer-agreement.md)signieren. Für den Übergang von Kunden:
 
 - **Der Kunde hat den Microsoft-Kundenvertrag noch nicht akzeptiert.**
 
@@ -347,7 +347,7 @@ Der Übergangs Partner sollte folgende Aktionen ausführen:
 
 - **Die Anzahl der Arbeitsplatz Änderungen an einem Abonnement wird in der vorhandenen Übertragungs Anforderung nicht widergespiegelt.** Nachdem Sie eine Übertragungs Anforderung erstellt haben, die ein vorhandenes Abonnement enthält, sollten Sie das Aktualisieren der Arbeitsplatz Menge des Abonnements (oder der zugehörigen Addons) vermeiden. Wenn Sie dies tun, wird die neue Menge in der Übertragungs Anforderung nicht berücksichtigt. Nachdem der indirekte Anbieter die Übertragungs Anforderung akzeptiert hat, weist das resultierende Abonnement die alte Menge auf. Wenn Sie möchten, dass die neue Menge an den indirekten Anbieter übertragen wird, müssen Sie die vorhandene Übertragungs Anforderung abbrechen und eine neue erstellen.
 
-- **Nicht alle Käufe können mithilfe der Self-served-Abonnement Übertragung übertragen werden.** Derzeit können Sie mit diesem Feature nur O365-Abonnements und Azure PAYG-Abonnements (MS-AZR-0145p) übertragen. Weitere Käufe einschließlich Azure-Pläne, reservierte Azure-Instanzen, Begriffs basierte Abonnements und Saas-Abonnements für Azure Marketplace werden nicht unterstützt. Der Grund für das übertragen eines Abonnements auf der Seite "Übertragungs Anforderung senden" wird angezeigt. Um diese Abonnements zu übertragen, müssen Sie [das vorhandene Abonnement Abbrechen](https://docs.microsoft.com/partner-center/create-a-new-subscription#suspend-or-cancel-a-subscription) und ein neues Angebot für Kunden über den indirekten Anbieter erwerben.
+- **Nicht alle Käufe können mithilfe der Self-served-Abonnement Übertragung übertragen werden.** Derzeit können Sie mit diesem Feature nur O365-Abonnements und Azure PAYG-Abonnements (MS-AZR-0145p) übertragen. Weitere Käufe einschließlich Azure-Pläne, reservierte Azure-Instanzen, Begriffs basierte Abonnements und Saas-Abonnements für Azure Marketplace werden nicht unterstützt. Der Grund für das übertragen eines Abonnements auf der Seite "Übertragungs Anforderung senden" wird angezeigt. Um diese Abonnements zu übertragen, müssen Sie [das vorhandene Abonnement Abbrechen](create-a-new-subscription.md#suspend-or-cancel-a-subscription) und ein neues Angebot für Kunden über den indirekten Anbieter erwerben.
 
 - **Kann nicht über die Sandbox Umgebung getestet werden.**
 

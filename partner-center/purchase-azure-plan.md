@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 9dae2a9b716ee87891aafbe41ad87200f99ecb1b
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875256"
+ms.locfileid: "86943527"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Erwerben Sie den Azure-Plan für Kunden und greifen Sie auf die neuesten Azure-Dienste zu nutzungsbasierten Tarifen zu.
 
@@ -37,7 +37,7 @@ Der Erwerb eines Azure-Plans ähnelt dem Erwerb eines beliebigen anderen Abonnem
 
 :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Kauf":::
 
-Der Partner muss bestätigen, dass der Kunde die Geschäftsbedingungen des Microsoft Kundenvertrags gelesen und ihnen zugestimmt hat. Weitere Informationen, wie der Partner dies sicherstellen kann, finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag](https://docs.microsoft.com/partner-center/confirm-customer-agreement). Weitere Ressourcen stehen im [Ressourcenkatalog](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/) zur Verfügung.
+Der Partner muss bestätigen, dass der Kunde die Geschäftsbedingungen des Microsoft Kundenvertrags gelesen und ihnen zugestimmt hat. Weitere Informationen, wie der Partner dies sicherstellen kann, finden Sie unter [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag](confirm-customer-agreement.md). Weitere Ressourcen stehen im [Ressourcenkatalog](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/) zur Verfügung.
 
 **Die Bestätigung können Sie wahlweise folgendermaßen vornehmen:** 
 
@@ -75,9 +75,9 @@ Im Partner Center können Sie darüber hinaus Microsoft Azure-Reservierungen im 
 Azure-Reservierungen müssen einem aktiven Azure-Abonnement zugeordnet werden. Wählen Sie den Azure-Plan im Abonnement des Kunden aus, dem Sie Azure-Reservierungen hinzufügen möchten. 
 
 >[!Important] 
->Wenn der Kunde noch keinen aktiven Azure-Plan besitzt, wähle Azure aus, um jetzt einen hinzuzufügen. Weitere Anweisungen finden Sie unter [Kaufen von Azure-Reservierungen](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations).
+>Wenn der Kunde noch keinen aktiven Azure-Plan besitzt, wähle Azure aus, um jetzt einen hinzuzufügen. Weitere Anweisungen finden Sie unter [Kaufen von Azure-Reservierungen](azure-reservations-buying.md#purchase-azure-reservations).
 
->[!Note] 
+>[!Note]
 >Der Umfang einer Reservierung kann im Partner Center derzeit nur auf **Freigegeben** festgelegt werden. Um den Umfang eines Einzelabonnements auszuwählen oder den Umfang von einem freigegebenen in ein Einzelabonnement zu aktualisieren, wechseln Sie wie nachfolgend beschrieben zum **Microsoft Azure-Verwaltungsportal**. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Einstellung „Freigegeben“ für den Umfang der Reservierungen":::

@@ -9,12 +9,12 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: a1937a750100450aa8c3fe0e0846ea688d284bf5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cf2d1085b529e1fbd0fad74c4e56d16f789a48e9
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435819"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943957"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Verwenden nutzungsbasierter Tarife mit dem Azure-Plan
 
@@ -48,7 +48,7 @@ Angesichts der privilegierten Natur der Partner müssen wir sicherstellen, dass 
 - Implementieren der [Azure AD-Sicherheitsstandards](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - Implementieren der Lösung eines Drittanbieters und Sicherstellen, dass MFA für jeden Benutzer erzwungen wird
 
-Seit dem 1. August 2019 sind alle Partner verpflichtet, die mehrstufige Authentifizierung für alle Benutzer, einschließlich Dienstkonten, in ihrem Partnermandanten durchzusetzen. Detailinformationen zu diesen Sicherheitsanforderungen finden Sie unter [Sicherheitsanforderungen für Partner](https://docs.microsoft.com/partner-center/partner-security-requirements).
+Seit dem 1. August 2019 sind alle Partner verpflichtet, die mehrstufige Authentifizierung für alle Benutzer, einschließlich Dienstkonten, in ihrem Partnermandanten durchzusetzen. Detailinformationen zu diesen Sicherheitsanforderungen finden Sie unter [Sicherheitsanforderungen für Partner](partner-security-requirements.md).
 
 Microsoft empfiehlt Partnern eine sorgfältige Nutzung von RBAC unter Berücksichtigung der empfohlenen Methoden, die in Form der [Azure Active Directory-Ressourcen zur privilegierten Identitätsverwaltung](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure) zur Verfügung stehen.
 

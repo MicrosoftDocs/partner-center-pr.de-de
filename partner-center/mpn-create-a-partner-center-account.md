@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Mitglieder im Microsoft Partner Network ein Partner Center-Konto erstellen können, um ihre Netzwerkvorteile und Kompetenzen zu verwalten.
-author: LauraBrenner
-ms.author: labrenne
+author: ParthP
+ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb703eac9e609badbc71f53bb9561a363f3a76f8
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 927cfcaf87b01dc31d899e2509f441462f1d295a
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603819"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114721"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Erstellen eines Partner Center-Kontos zum Verwalten von Netzwerkvorteilen und Kompetenzen
 

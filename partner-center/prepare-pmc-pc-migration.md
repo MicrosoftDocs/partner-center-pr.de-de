@@ -5,16 +5,16 @@ ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Machen Sie sich mit nützlichen Informationen und häufig gestellten Fragen vertraut, bevor Sie Ihr Geschäft vom Partner Membership Center auf das Partner Center umstellen.
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyamsft
+ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749169"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114565"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Vorbereiten der Umstellung von Partner Membership Center (PMC) auf Partner Center
 
@@ -55,7 +55,7 @@ Partner Center verfügt über verschiedene Arten von Rollen, abhängig von den A
 
 **Was geschieht mit den Rollen meiner Benutzer, wenn sie von PMC zu Partner Center wechseln?**
 
-Mit Ausnahme des globalen MPN-Administrators oder primären Programmkontakts, der die Migration durchführt, verlieren alle Benutzer in PMC Ihre Administratorrollen. Die Person, die die Migration abschließt, muss Rollen in Partner Center zuweisen. Die Rollen in Partner Center unterscheiden sich von den Rollen in PMC. Weitere Informationen zu Benutzerrollen in Partner Center finden Sie unter [Zuweisen von Rollen und Berechtigungen zu Benutzern] (permissions-overview.md) und [Wechsel von PMC zu Partner Center](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles).
+Mit Ausnahme des globalen MPN-Administrators oder primären Programmkontakts, der die Migration durchführt, verlieren alle Benutzer in PMC Ihre Administratorrollen. Die Person, die die Migration abschließt, muss Rollen in Partner Center zuweisen. Die Rollen in Partner Center unterscheiden sich von den Rollen in PMC. Weitere Informationen zu Benutzerrollen in Partner Center finden Sie unter [Zuweisen von Rollen und Berechtigungen zu Benutzern] (permissions-overview.md) und [Wechsel von PMC zu Partner Center](move-pmc-pc-map.md#user-roles).
 
 
 **Worin besteht der Unterschied zwischen meinem Unternehmensprofil und meinem Geschäftsprofil?**

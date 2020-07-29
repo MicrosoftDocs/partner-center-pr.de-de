@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über die Vorteile und verschiedene Modelle im Cloud Solution Provider-Programm, um Ihr Unternehmen mit neuen Kunden und neuem Know-how voranzubringen.
-author: LauraBrenner
-ms.author: labrenne
+author: billlinzbach
+ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 152283c6996021ab3944cecd89d808ee70b2d250
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7be23ecd37aadcccdb29606573b8bb46ae607539
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434909"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114326"
 ---
 # <a name="cloud-solution-provider-program-benefits-and-different-models"></a>Vorteile und verschiedene Modelle des Cloud Solution Provider-Programms
 

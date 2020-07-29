@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 22cdcb48df263323ac2862ced3a0f06eff2b0570
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 88b3a71bb63ac7ac3287712944a2a4663928a165
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434749"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943507"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Abrufen von Berechtigungen zum Verwalten des Diensts oder Abonnements eines Kunden
 
@@ -106,7 +106,7 @@ Im Partner Center können CSP-Partner unter den folgenden Umständen Autopilot-P
 
 - Sie können keine Geräte verwalten, die Ihr Kunde über den Microsoft Store für Unternehmen, den Microsoft Store für Bildungseinrichtungen oder das Microsoft Intune-Portal hinzugefügt hat.
 
-Weitere Informationen zu Autopilot finden Sie unter [Vereinfachen der Geräteinstallation mit Windows Autopilot](https://docs.microsoft.com/partner-center/autopilot).
+Weitere Informationen zu Autopilot finden Sie unter [Vereinfachen der Geräteinstallation mit Windows Autopilot](autopilot.md).
 
 >[!IMPORTANT]  
 >Die aktuelle Autopilot-Verwaltungsoberfläche im Partner Center kann weiterhin Änderungen unterliegen. Zum Zeitpunkt der Veröffentlichung dieses Artikels werden die folgenden Änderungen in Betracht gezogen:

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: 5cbaaa63ce4e28f57e8f50bff8ee13f013080526
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286618"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943977"
 ---
 # <a name="march-2020-announcements"></a>Ankündigungen für März 2020
 
@@ -102,14 +102,14 @@ Am 31. August 2018 hat Microsoft die Registrierungsanforderungen für Partner m
 
 Es sind neue Funktionen zum Übertragen von CSP-Abonnements verfügbar, die von Kunden genutzt werden können, die von Mandanten mit direkter Abrechnung zu Mandanten für indirekte Anbieter werden. Mit dieser neuen Funktion können Partner mit direkter Abrechnung einfacher zu indirekten Handelspartnern werden und so das Unternehmenswachstum im Rahmen des Programms beschleunigen.
 
-Weitere Informationen finden Sie auf der Seite für [CSP-Angebote](https://docs.microsoft.com/partner-center/csp-offers).
+Weitere Informationen finden Sie auf der Seite für [CSP-Angebote](../csp-offers.md).
 
 >[!NOTE] 
->Die Umstellung ist nur für lizenzbasierte Abonnements und Azure-Abonnements möglich. Sie müssen für den Azure-Plan und im kommerziellen Marketplace getätigte Käufe manuell übertragen. Beachten Sie, dass Sie hierfür die in den folgenden Dokumenten aufgeführten Abonnements kündigen und neu abschließen müssen: [Azure-Plan](https://docs.microsoft.com/partner-center/azure-plan-lp) und [kommerzieller Marketplace](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage). Da es sich bei Serverabonnements und Azure-Reservierungen um einen einmaligen Kauf handelt, müssen diese nicht an einen Mandanten für indirekte Handelspartner übertragen werden. Weitere Informationen finden Sie auf der Seite für CSP-Angebote.
+>Die Umstellung ist nur für lizenzbasierte Abonnements und Azure-Abonnements möglich. Sie müssen für den Azure-Plan und im kommerziellen Marketplace getätigte Käufe manuell übertragen. Beachten Sie, dass Sie hierfür die in den folgenden Dokumenten aufgeführten Abonnements kündigen und neu abschließen müssen: [Azure-Plan](../azure-plan-lp.md) und [kommerzieller Marketplace](../csp-commercial-marketplace-manage.md). Da es sich bei Serverabonnements und Azure-Reservierungen um einen einmaligen Kauf handelt, müssen diese nicht an einen Mandanten für indirekte Handelspartner übertragen werden. Weitere Informationen finden Sie auf der Seite für CSP-Angebote.
 
 ### <a name="additional-resources"></a>Weitere Ressourcen:
 
-- Hilfeartikel [Wechsel vom CSP-Partner mit direkter Abrechnung zum indirekten CSP-Handelspartner](https://docs.microsoft.com/partner-center/transition-direct-to-indirect#move-your-direct-bill-customers-to-your-indirect-provider)
+- Hilfeartikel [Wechsel vom CSP-Partner mit direkter Abrechnung zum indirekten CSP-Handelspartner](../transition-direct-to-indirect.md#move-your-direct-bill-customers-to-your-indirect-provider)
 - [Wechsel vom Partner mit direkter Abrechnung zum indirekten Handelspartner](https://assetsprod.microsoft.com/mpn/direct-bill-transition-to-indirect-reseller-new-capability)
 
 ### <a name="next-steps"></a>Nächste Schritte

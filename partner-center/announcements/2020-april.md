@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: ebff4f924224c02f5c622b5f87849e36c96f6ab7
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: d03421995c2243b5deb8575916dbe15c76ea746c
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749125"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944447"
 ---
 # <a name="april-2020-announcements"></a>Ankündigungen für April 2020
 
@@ -48,7 +48,7 @@ Am 4. Mai 2020 führt Microsoft neue Rabattaktionen für Office 365 E1 und M
 
 Diese Promotions ersetzen das aktuelle Testangebot für Office 365 E1 und weisen folgende Unterschiede auf:
 
-- Partner bieten diese Office 365 E1- oder Microsoft 365 Business Basic-SKUs im Jahresabonnement an. Dabei nutzen sie eine CSP-Promotion und gewähren für die ersten 6 Monate einen 100 %-igen Rabatt, anstatt eine einmalige 6-monatige Test-SKU bereitzustellen. [Erfahren Sie mehr zu CSP-Promotions](https://docs.microsoft.com/partner-center/promotions).
+- Partner bieten diese Office 365 E1- oder Microsoft 365 Business Basic-SKUs im Jahresabonnement an. Dabei nutzen sie eine CSP-Promotion und gewähren für die ersten 6 Monate einen 100 %-igen Rabatt, anstatt eine einmalige 6-monatige Test-SKU bereitzustellen. [Erfahren Sie mehr zu CSP-Promotions](../promotions.md).
 - Die Bestellung ist technisch „ausschließlich auf Neukunden“ beschränkt. Dies steht im Gegensatz zur Testversion von Office 365 E1, die lediglich durch eine schriftliche Regelung auf Neukunden beschränkt war. Weitere Informationen finden Sie in den [Microsoft Partner-FAQ](https://aka.ms/CSPCOVIDPromo).
 - Für SMB-Kunden ist Microsoft 365 Business Basic in dieser Promotion enthalten. So können Partner dafür sorgen, dass Kunden mit weniger als 300 Arbeitsplätzen mit Microsoft 365 Business direkt in der richtigen Produktfamilie starten können.
 Kunden, die derzeit über eine Lizenz für die Testversion von Office 365 E1 verfügen (bis zum 4. Mai 2020 verfügbar), behalten ihren aktuellen Plan – diese Änderung gilt nur für reine Neukunden.
@@ -106,7 +106,7 @@ Im Folgenden finden Sie einige Details zur Funktionsweise:
 ### <a name="next-steps"></a>Nächste Schritte
 
 1. Ermöglichen Sie es Ihren Kunden, mithilfe der neuen Funktion eigene Azure-Reservierungen zu erwerben.
-2. [Die Ressourcen in dieser Sammlung enthalten weitere Informationen.](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/) Unter anderem finden Sie dort die [technische Dokumentation](https://docs.microsoft.com/partner-center/give-customers-permission) sowie ausführliche Leitfäden für Partner und Kunden.
+2. [Die Ressourcen in dieser Sammlung enthalten weitere Informationen.](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/) Unter anderem finden Sie dort die [technische Dokumentation](../give-customers-permission.md) sowie ausführliche Leitfäden für Partner und Kunden.
 
 _________________
 
@@ -168,7 +168,7 @@ Stärkere und laufende Sicherheits- und Datenschutzmaßnahmen gehören zu unsere
 
 Vor Kurzem haben wir die Aktivierung der Sicherheitsvorkehrungen für AOBO-Funktionen (Admin-on-Behalf-of) für alle Partnermandanten abgeschlossen, um die Unternehmen und Kunden unserer Partner vor Identitätsdiebstahl zu schützen.
 
-Zur weiteren Unterstützung von Partnern und Kunden beginnt **ab dem 1. Mai 2020 die Aktivierung von Sicherheitsvorkehrungen für Partner Center-Transaktionen im CSP-Programm**. Die Aktivierung der zusätzlichen Sicherheitsmaßnahmen bedeutet, dass Partner die mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für sämtliche Transaktionen im CSP-Programm über die Partner Center-Benutzeroberfläche oder APIs verwenden müssen, um nicht autorisierten Zugriff zu verhindern und ihre Kunden und Mandanten vor Sicherheitsincidents im Bereich Identitätsdiebstahl zu schützen. Weitere Informationen finden Sie [hier](https://docs.microsoft.com/partner-center/partner-security-requirements-mandating-mfa).
+Zur weiteren Unterstützung von Partnern und Kunden beginnt **ab dem 1. Mai 2020 die Aktivierung von Sicherheitsvorkehrungen für Partner Center-Transaktionen im CSP-Programm**. Die Aktivierung der zusätzlichen Sicherheitsmaßnahmen bedeutet, dass Partner die mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für sämtliche Transaktionen im CSP-Programm über die Partner Center-Benutzeroberfläche oder APIs verwenden müssen, um nicht autorisierten Zugriff zu verhindern und ihre Kunden und Mandanten vor Sicherheitsincidents im Bereich Identitätsdiebstahl zu schützen. Weitere Informationen finden Sie [hier](../partner-security-requirements-mandating-mfa.md).
 
 ### <a name="next-steps"></a>Nächste Schritte
 
@@ -181,9 +181,9 @@ Zur weiteren Unterstützung von Partnern und Kunden beginnt **ab dem 1. Mai 202
 
 Sehen Sie sich diese Ressourcen an, die Sie bei der Implementierung der Sicherheitsanforderungen unterstützen.
 
-- Lesen Sie sich den [ausführlichen Leitfaden](https://docs.microsoft.com/partner-center/partner-security-requirements) zur Implementierung der Sicherheitsanforderungen für Partner durch.
-- Lesen Sie die [häufig gestellten Fragen](https://docs.microsoft.com/partner-center/partner-security-requirements-faq) und die entsprechenden Antworten zu den Sicherheitsanforderungen der Partner.
-- Lesen Sie sich den [Leitfaden zur Statusüberprüfung der Sicherheitsanforderungen](https://docs.microsoft.com/partner-center/partner-security-compliance) durch.
+- Lesen Sie sich den [ausführlichen Leitfaden](../partner-security-requirements.md) zur Implementierung der Sicherheitsanforderungen für Partner durch.
+- Lesen Sie die [häufig gestellten Fragen](../partner-security-requirements-faq.md) und die entsprechenden Antworten zu den Sicherheitsanforderungen der Partner.
+- Lesen Sie sich den [Leitfaden zur Statusüberprüfung der Sicherheitsanforderungen](../partner-security-compliance.md) durch.
 - Über die Sammlung zur [Implementierung der Sicherheitsanforderungen für Partner](https://partner.microsoft.com/resources/collection/partner-security-requirements#/) können Sie auf weitere Ressourcen zugreifen.
 - Speichern Sie die [Communitygruppe für Partner Center-Sicherheitsanleitungen](https://aka.ms/MPCSecurityGuidance) als Lesezeichen.
 
@@ -192,7 +192,7 @@ Wenn Sie weitere Hilfe bei einem technischen Problem benötigen, können Sie ein
 Vielen Dank für Ihre Partnerschaft und dass Sie sich für die Vertrauenswürdigkeit unseres Ökosystems einsetzen.
 
 >[!NOTE] 
->Wenn Sie Baselinerichtlinien verwenden und nicht auf die Richtlinie für Sicherheitsstandards oder [andere MFA-Implementierungsoptionen](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take) umgestellt haben, sollten Sie dies schnellstmöglich nachholen. [Hier finden Sie die wichtigsten Ressourcen](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>Wenn Sie Baselinerichtlinien verwenden und nicht auf die Richtlinie für Sicherheitsstandards oder [andere MFA-Implementierungsoptionen](..\partner-security-requirements.md#actions-that-you-need-to-take) umgestellt haben, sollten Sie dies schnellstmöglich nachholen. [Hier finden Sie die wichtigsten Ressourcen](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
 
 ### <a name="change-log"></a>Änderungsprotokoll
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd50d2e4e02e342162c8680126dd9e11f1b5a0f2
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 59e84162b85df197b135bcf5792fd2e730b53e56
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434559"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943927"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Übersicht über Partnerangebote im Cloud Solution Provider-Programm
 
@@ -117,21 +117,21 @@ Einige lizenzbasierte Angebote können nur unter bestimmten Bedingungen erworben
 
 Es kann verschiedene Gründe dafür geben, dass Sie das von Ihnen gesuchte Angebot im Katalog nicht finden. Prüfen Sie die folgenden Punkte, wenn Sie das erwartete Angebot nicht finden können.
 
-- **Vergewissern Sie sich, dass Ihr Kunde qualifiziert ist**. Bei vielen Angeboten müssen besondere Qualifikationen an Kunden verkauft werden. Zu diesen speziellen Segmenten zählen Bildung, Gemeinnützigkeit und die Government Community Cloud (GCC). Vergewissern Sie sich vor dem Übermitteln eines Problems zunächst, dass die Qualifikationen des Kunden entsprechend festgelegt sind. Sie können dies überprüfen, indem Sie in der Kundenliste auf den Kunden klicken und das Konto anzeigen. Für das Konto ist ggf. eine spezielle Qualifikation festgelegt. Wenn Sie ein Bildungsangebot für einen Kunden erwerben möchten, der nicht qualifiziert ist, werden diese Angebote im Katalog nicht angezeigt. Weitere Informationen zum Qualifizieren Ihrer Kunden finden Sie in der [Dokumentation zu speziellen Segmenten](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers).
+- **Vergewissern Sie sich, dass Ihr Kunde qualifiziert ist**. Bei vielen Angeboten müssen besondere Qualifikationen an Kunden verkauft werden. Zu diesen speziellen Segmenten zählen Bildung, Gemeinnützigkeit und die Government Community Cloud (GCC). Vergewissern Sie sich vor dem Übermitteln eines Problems zunächst, dass die Qualifikationen des Kunden entsprechend festgelegt sind. Sie können dies überprüfen, indem Sie in der Kundenliste auf den Kunden klicken und das Konto anzeigen. Für das Konto ist ggf. eine spezielle Qualifikation festgelegt. Wenn Sie ein Bildungsangebot für einen Kunden erwerben möchten, der nicht qualifiziert ist, werden diese Angebote im Katalog nicht angezeigt. Weitere Informationen zum Qualifizieren Ihrer Kunden finden Sie in der [Dokumentation zu speziellen Segmenten](get-special-pricing-for-offers.md).
 - **Entscheiden Sie, ob Sie ein Add-On oder ein Basisangebot erwerben**. Viele der lizenzbasierten Dienste wie Microsoft 365 und Dynamics 365 ermöglichen sowohl den Katalogerwerb von Basisangeboten als auch Add-Ons. Im Katalog können nur Basisangebote erworben werden. Um Add-Ons zu erwerben, müssen Sie zunächst das Basisangebot im Katalog erwerben, dann den Kunden in der Kundenliste auswählen und schließlich das Abonnement für das Basisangebot auswählen. Add-Ons können auf dieser Seite zum Verwalten von Abonnements auf das Basisangebot angewandt werden. 
 - **Vergewissern Sie sich, dass die Produkte in Ihrem Markt verfügbar sind**. Viele Produkte und Dienste sind so konfiguriert, dass sie nur an Kunden in bestimmten Ländern verkauft werden. Die Liste der unterstützten Länder finden Sie in den verschiedenen Preislistendateien. Die Länder, in denen lizenzbasierte Dienste unterstützt werden, sind in der Angebotslistenmatrix auf der Seite mit den Preisen und Angeboten enthalten.
 - **Vergewissern Sie sich, dass die Angebote in der Preisliste verfügbar sind**. Die Liste der verfügbaren Angebote kann monatlich geändert werden. Wenn Sie ein Angebot im Katalog nicht finden, vergewissern Sie sich, dass es in den aktuellen Preislisten auf der Seite **Verkaufen > Preise und Angebote** verfügbar ist.
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Empfohlene Dokumente zum Kauf von Artikeln im Partner Center
 
-- [Preise und Angebote im Partner Center](https://docs.microsoft.com/partner-center/pricing-and-offers)
-- [Übersicht über Partnerangebote im Cloud Solution Provider-Programm](https://docs.microsoft.com/partner-center/csp-offers)
-- [Verkaufen von Angeboten an Bildungskunden und Erstellen eines Bildungskunden](https://docs.microsoft.com/partner-center/sell-to-education-customers)
-- [Verkauf an spezialisierte Branchen wie Bildungs-, gemeinnützige und behördliche Benutzer](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
-- [Einkaufsregeln für spezielle Segmente](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers#purchase-rules-for-special-segments)
+- [Preise und Angebote im Partner Center](pricing-and-offers.md)
+- [Übersicht über Partnerangebote im Cloud Solution Provider-Programm](csp-offers.md)
+- [Verkaufen von Angeboten an Bildungskunden und Erstellen eines Bildungskunden](sell-to-education-customers.md)
+- [Verkauf an spezialisierte Branchen wie Bildungs-, gemeinnützige und behördliche Benutzer](get-special-pricing-for-offers.md)
+- [Einkaufsregeln für spezielle Segmente](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-Weitere Informationen zur Funktionsweise des Abrechnungsprozesses finden Sie unter [Grundlagen zur Abrechnung](https://docs.microsoft.com/partner-center/billing-basics).
+Weitere Informationen zur Funktionsweise des Abrechnungsprozesses finden Sie unter [Grundlagen zur Abrechnung](billing-basics.md).
 
 Informationen zum Einkaufen im Rahmen des Azure-Plans finden Sie unter [Kauf des Azure-Plans](purchase-azure-plan.md).

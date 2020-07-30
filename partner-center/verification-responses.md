@@ -9,16 +9,21 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 73ace89b24dba143f410e879e9012a0f0f60e3c6
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943817"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365726"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Überprüfen Sie Ihre Kontoinformationen, wenn Sie sich in einem neuen Partner Center-Programm anmelden.
 
-Wenn Sie sich im Partner Center für ein neues Programm registrieren, werden die von Ihnen angegebenen Informationen zur Kontoregistrierung von Microsoft überprüft, z. B. Firmenname, Firmenadresse und Kontaktinformationen des Ansprechpartners. Während dieses Prozesses sendet Microsoft unter Umständen eine E-Mail an den von Ihnen genannten Ansprechpartner, um ihn über den Status zu informieren und weitere Dokumente für die Verifizierung anzufordern.
+**Geeignete Rollen**
+
+- Globaler Administrator
+- MPN-Konto Administrator
+
+Wenn Sie sich in einem neuen Programm im Partner Center anmelden, überprüft Microsoft die von Ihnen bereitgestellten Konto Registrierungsinformationen, wie z. b. den Firmennamen, die Unternehmens Adresse und die primären Kontaktinformationen. Während dieses Prozesses sendet Microsoft unter Umständen eine E-Mail an den von Ihnen genannten Ansprechpartner, um ihn über den Status zu informieren und weitere Dokumente für die Verifizierung anzufordern.
 
 >[!NOTE]
 >Um sicherzustellen, dass Sie die e-Mail erhalten, stellen Sie sicher, dass e-Mail von Microsoft.com als "sichere" Domäne gekennzeichnet ist, und überprüfen Sie Junk-e-Mail-Ordner.

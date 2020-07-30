@@ -9,14 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 76c16d7f40bac4a01f90df3dfe289cf92f588462
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: af06cd5da4ea5a38ea272a2210bca9917bbecdd9
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436509"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365746"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Wenn Sie sich nicht bei Partner Center anmelden können und Ihr Kennwort zurücksetzen müssen
+
+**Geeignete Rollen**
+
+- Partner Center-Benutzer
 
 Wenn Sie Ihr Kennwort vergessen haben und sich nicht bei Partner Center anmelden können, müssen Sie sich an den Support wenden. Die entsprechende Telefonnummer finden Sie unter [Kontakt mit dem Support für Geschäftsprodukte aufnehmen – Administratorhilfe](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone#ID0EAADAAA=Phone_support_). 
 
@@ -24,7 +28,7 @@ Weitere Möglichkeiten, wie Sie Ihr Kennwort zurücksetzen und wieder Zugriff au
 
 Nachdem Ihr Arbeits Konto Kennwort zurückgesetzt wurde, können Sie auf Partner Center zugreifen. 
 
-## <a name="see-more"></a>Weitere Informationen
+## <a name="next-steps"></a>Nächste Schritte
 
 - [Überprüfen deiner Kontoinformationen](verification-responses.md)
 - [Zurücksetzen meines Kennworts](reset-my-pasword.md)

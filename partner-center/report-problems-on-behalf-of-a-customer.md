@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wann es sinnvoll ist, ein Kundendienst Problem an Microsoft zu eskalieren und ein Support Ticket dafür zu erhalten.
+description: Erfahren Sie, wann Sie ein Kundendienst Problem an Microsoft eskalieren und wie Sie ein Support Ticket einreichen.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecca066e5d637b780a0ede23ffc2cab69ef0afc7
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 032c4b924da4f123485c3959448441f420f6ba37
+ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114052"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87389139"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Melden eines Dienst Problems im Namen eines Kunden, einschließlich des Zeit-und Vorgehensweise
 
@@ -23,7 +23,7 @@ ms.locfileid: "87114052"
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
 
-Wenn Ihr Kunde ein Dienst Problem hat, das Sie nicht beheben können, und das die unter [eskalieren von Problemen an Microsoft](escalate-problems-to-microsoft.md)beschriebenen Kriterien erfüllt, müssen Sie ein Support Ticket für Sie einreichen. Dieser Vorgang eignet sich auch zum Eskalieren von Abrechnungsproblemen oder -streitigkeiten und Betrugsverdachtsfällen.
+Wenn Ihr Kunde ein Dienst Problem hat, das Sie nicht beheben können, und das die unter [eskalieren von Problemen an Microsoft](escalate-problems-to-microsoft.md)beschriebenen Kriterien erfüllt, können Sie ein Support Ticket für Sie einreichen. Dieser Vorgang eignet sich auch zum Eskalieren von Abrechnungsproblemen oder -streitigkeiten und Betrugsverdachtsfällen. 
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Übermitteln einer Serviceanfrage für einen Kunden
 
@@ -32,6 +32,9 @@ Wenn Ihr Kunde ein Dienst Problem hat, das Sie nicht beheben können, und das di
 2. Suchen Sie auf der Seite der Kundenanforderungen die gewünschten Kunden aus.
 
 3. Wählen Sie aus dem Dropdownmenü **Neue Anforderung** entweder **Azure** oder **Office 365, Dynamics 365, Enterprise Mobility Suite** aus. Sie werden entweder an die Microsoft Azure-Portal oder an das Office 365 Admin Center umgeleitet.
+
+>[!NOTE]
+>Unterstützung von Betriebs Partnern, die Dynamics 365 im CSP-Dienst unterstützen, sind erforderlich, um eine Supportvereinbarung des Advanced Support for Partner (asfp)-Plans oder höher aufrechtzuerhalten. Diese Supportvereinbarung ist erforderlich, um Dynamics 365-Vorfälle im Auftrag eines CSP-Kunden zu übermitteln. [Weitere](https://partner.microsoft.com/support/partnersupport) Informationen zu den Optionen für die Supportvereinbarung.
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
@@ -52,10 +55,10 @@ Wenn Ihr Kunde ein Dienst Problem hat, das Sie nicht beheben können, und das di
 
 3. Überprüfen Sie später die Serviceanfragen Ihrer Kunden über das Microsoft Azure-Portal, indem Sie **Supportanfragen verwalten** wählen.
 
-Unter Umständen müssen Sie eine Supportanfrage für einen Kunden erstellen, wenn Sie für diesen Kunden nicht über Administratorberechtigungen verfügen. Dies kann in einem der folgenden Szenarios auftreten:
+Sie müssen möglicherweise eine Supportanfrage für einen Kunden erstellen, wenn Sie nicht über Administrator Berechtigungen für diesen Kunden verfügen. Dies kann in einem der folgenden Szenarios auftreten:
 
-- Bei der erstmaligen Einrichtung der Beziehung haben Sie keine Administratorrechte angefordert.
-- Sie verwalten die Azure-Abonnements eines Kunden und keine anderen, für die keine Administrator Berechtigungen erforderlich sind.
+- Beim ersten feststellen der Beziehung haben Sie keine Administrator Berechtigungen angefordert.
+- Sie verwalten nur die Azure-Abonnements eines Kunden, sodass Sie nicht über Administrator Berechtigungen verfügen.
  
 In beiden Fällen können Sie das folgende Verfahren zum Erstellen einer Supportanfrage anwenden. 
 
@@ -70,7 +73,7 @@ In beiden Fällen können Sie das folgende Verfahren zum Erstellen einer Support
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
-1. Wählen Sie im Abschnitt **Serviceanfrage erstellen** die geeignete Supportkategorie aus. Möglicherweise müssen Sie **mehr auswählen...** , um weitere Themen anzuzeigen.    
+1. Wählen Sie im Abschnitt **Service Request erstellen** die entsprechende Support Kategorie aus. Möglicherweise müssen Sie **mehr auswählen...** , um weitere Artikel anzuzeigen.
 
 2. Vervollständigen Sie das Service Request Formular, und wählen Sie **senden**aus.
 
@@ -81,13 +84,13 @@ In beiden Fällen können Sie das folgende Verfahren zum Erstellen einer Support
 
 ### <a name="support-for-commercial-marketplace-products"></a>Support für Produkte des kommerziellen Marketplace
 
-Microsoft bietet keinen Produktsupport für Produkte des kommerziellen Marketplace an. Sie müssen sich an den unabhängigen Software Hersteller (Independent Software Vendor, ISV) wenden, der das Produkt veröffentlicht hat, um Support zu erhalten.
+Microsoft bietet keine Produktunterstützung für kommerzielle Marketplace-Produkte. Sie müssen sich an den unabhängigen Software Hersteller (Independent Software Vendor, ISV) wenden, der das Produkt veröffentlicht hat, um Support zu erhalten.
 
 So finden Sie Kontaktdaten des ISV:
 
 1.  Wählen Sie auf der Seite **Marketplace** das Produkt aus, zu dem Sie Hilfe benötigen.
 
-2.  Auf der Seite des Produkts finden Sie Support-Kontaktinformationen. Dies kann Folgendes umfassen:
+2.  Auf der Seite des Produkts finden Sie Support-Kontaktinformationen. Dies kann eine oder mehrere der folgenden Optionen sein:
 
     - Einen Supportlink auf der Website des ISV
     - Eine Support-E-Mail-Adresse
@@ -97,9 +100,9 @@ So finden Sie Kontaktdaten des ISV:
 
 **Was ist Bestandteil des Supportanspruchs?**
 
-Serviceanfragen sollten über das Partner Center eingereicht werden. Sie sind für Azure, Microsoft Office 365, Microsoft Dynamics CRM Online und Enterprise Mobility Suite verfügbar. Partner, die am Cloud Solution Provider-Programm teilnimmt, werden bei schwerwiegenden Problemen bevorzugt behandelt.
+Service Requests sollten über Partner Center abgelegt werden. Sie sind für Azure, Microsoft Office 365, Microsoft Dynamics CRM Online und Enterprise Mobility Suite verfügbar. Partner, die am Cloud Solution Provider-Programm teilnimmt, werden bei schwerwiegenden Problemen bevorzugt behandelt.
 
-Die Unterstützung für Ihren eigenen Partnermandanten ist nicht Bestandteil des CSP-Supportvorteils. Für Office 365, Microsoft Dynamics CRM Online und Enterprise Mobility Suite werden jedoch keine separaten Abonnementgebühren für den Support für Partner oder Kunden berechnet. Azure erhebt eine Gebühr, aber wenn Sie Anspruch auf Signature Cloud Support oder andere Microsoft Partner Network (MPN)-Vorteile haben, können Sie damit die Gebühr bezahlen.
+Die Unterstützung für Ihren eigenen Partner Mandanten ist nicht im Rahmen des CSP-Support-Vorteils enthalten. Allerdings berechnen Office 365, Microsoft Dynamics CRM Online und Enterprise Mobility Suite keine separaten Support Abonnementgebühren für Partner oder Kunden. Azure berechnet eine Gebühr, aber wenn Sie berechtigt sind, Cloud-Support oder andere Microsoft Partner Network (MPN) zu unterstützen, können Sie diese Gebühren nutzen, um diese Gebühren zu bezahlen.
 
 Dieser Vorteil wird Partnern, die am kostenpflichtigen Cloud Solution Provider-Programm teilnehmen, ebenso gewährt wie Partnern, die den Testzeitraum nutzen. Support für die Abrechnung und Abonnementverwaltung ist auch als kostenlose Komponente in diesem Paket enthalten.
 
@@ -107,33 +110,38 @@ Dieser Vorteil wird Partnern, die am kostenpflichtigen Cloud Solution Provider-P
 
 Unsere Reaktionszeiten hängen vom Schweregrad des übermittelten Ereignisses ab. Der Schweregrad eines Problems wird durch die bei der Übermittlung der Serviceanfrage angegebenen geschäftlichen Auswirkungen festgelegt.
 
-Die anfänglichen Reaktionszeiten für **technische Problemlösungsfälle** sind wie folgt:
+Anfängliche Reaktionszeiten für **technische Fehlerbehebung**:
 
 - Kritische Auswirkungen (Schweregrad A): 2 Stunden (Erhebliche Ausfälle oder Beeinträchtigungen in Bezug auf Dienste. Ausfall der Produktionssdienste.)
-- Mittlere Auswirkungen (Schweregrad B): 4 Stunden (Mäßige Ausfälle oder Beeinträchtigungen in Bezug auf Dienste. Produktionsdienste teilweise betroffen.)
-- Minimale Auswirkungen (Schweregrad C): 8 Stunden (Minimale Ausfälle oder Beeinträchtigungen in Bezug auf Dienste. Dienste sind weiterhin verfügbar oder es sind Dienste ohne Auswirkungen auf die Produktion betroffen.)
+- Moderate Auswirkung (Schweregrad B): vier Stunden (mittlerer Verlust oder Verschlechterung der Dienste. Die Produktions Dienste sind teilweise betroffen.)
+- Minimale Auswirkung (Schweregrad C): acht Stunden (minimaler Verlust oder Verschlechterung der Dienste. Dienste sind weiterhin verfügbar oder nicht-Produktions Dienste betroffen.)
 
 Die anfänglichen Reaktionszeiten gelten nur für englischsprachigen Support. Support in der Landessprache steht nur während der Geschäftszeiten zur Verfügung.
-Für Fälle, die innerhalb der Grenzen des Supportanspruchs liegen, jedoch keine Break-Fix-Ereignisse sind, kann die anfängliche Reaktionszeit bis zu einem Werktag betragen.
+Bei Vorfällen, die innerhalb der Grenzen der Support Berechtigung liegen, aber nicht als Fehlerbehebung für Vorfälle angesehen werden, kann die anfängliche Antwortzeit bis zu einem Werktag betragen.
 
 **Kann ich eine Serviceanfrage per Telefon übermitteln?**
 
-Nein, für dieses Programm wird kein telefonischer Support angeboten.
+Nein, der telefonischen Support wird für dieses Programm nicht angeboten.
 
 **Was geschieht, wenn ich mich beim Azure-Portal anmelde und Partner Center umgehe?**
 
-Wenn Sie sich direkt beim Microsoft Azure-Portal anmelden, wird das Center in Ihrem eigenen Kontext angezeigt, nicht im Kontext eines Kunden. Aus diesem Grund sollten Sie sich nur direkt beim Microsoft Azure-Portal anmelden, wenn Sie eine Serviceanfrage für Ihre eigenen Abonnements erstellen.
+Wenn Sie sich direkt bei der Microsoft Azure-Portal anmelden, sehen Sie das Center in Ihrem eigenen Kontext und nicht im Kontext eines Kunden. Aus diesem Grund sollten Sie sich beim Erstellen eines Service Request für Ihre eigenen Abonnements nur direkt beim Microsoft Azure-Portal anmelden.
 
-Ihr Anspruch auf Support für das CSP-Programm umfasst keinen Support für Ihr eigenes Partnerabonnement. Wenn Sie also eine Serviceanfrage erstellen, die sich auf Ihr eigenes Partnerabonnement bezieht, müssen Sie einen gültigen Supportplan nachweisen. Beispiele für Nachweise sind die MPN-Vertrags-ID, ein Premier- oder ein Azure-Supportplan. Informationen dazu finden Sie auf der Seite [Häufig gestellte Fragen zum Azure-Support](https://go.microsoft.com/fwlink/?LinkId=717532).
+Ihre CSP-Programm Unterstützungs Berechtigung bietet keine Unterstützung für Ihr eigenes Partner Abonnement. Aus diesem Grund müssen Sie Ihre gültige Support Plan Berechtigung angeben, wenn Sie eine Service Request erstellen, die ihr eigenes Partner Abonnement betrifft. Beispiele hierfür sind MPN Contract ID, Premier oder ein Azure-Support Plan. Weitere Informationen finden Sie unter Häufig gestellte Fragen zum [Azure-Support](https://go.microsoft.com/fwlink/?LinkId=717532).
 
 **Was geschieht, wenn ich mich beim Office 365 Admin Center-Portal anmeldet und Partner Center umgehe?**
 
-Wenn Sie sich direkt beim Office 365 Admin Center anmelden, sehen Sie das Center in Ihrem eigenen Kontext und nicht im Kontext eines Kunden. Daher sollten Sie sich beim Erstellen eines Service Request für Ihre eigenen Abonnements nur direkt beim Office 365 Admin Center anmelden.
+Wenn Sie sich direkt beim Office 365 Admin Center anmelden, sehen Sie das Center in Ihrem eigenen Kontext und nicht im Kontext eines Kunden. Aus diesem Grund sollten Sie sich beim Erstellen eines Service Request für Ihre eigenen Abonnements nur direkt beim Office 365 Admin Center anmelden.
 
 **Wie kann ich zusätzlichen Dynamics 365-Support anfordern?**
 
-Bei Problemen im Zusammenhang mit: Dynamics 365 planen Sie Abonnements, Lizenzierung, Abrechnung, Finanzen & Vorgängen, Dynamics 365-Produktlizenzen oder benötigen Sie technischen Support:
+Bei Problemen im Zusammenhang mit: Dynamics 365 planen Sie Abonnements, Lizenzierung, Abrechnung, Finanzen & Vorgänge, Dynamics 365-Produktlizenzen oder benötigen Sie technischen Support:
  
 Wenden Sie sich an [Dynamics-Support](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support).
 
 Lesen Sie [Support für Microsoft Dynamics](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur).
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Bereitstellen von Support für Kunden](customer-support.md)
+- [Überprüfen der Dienstintegrität](check-service-health.md)

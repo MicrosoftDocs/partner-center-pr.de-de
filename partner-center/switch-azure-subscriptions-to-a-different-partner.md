@@ -8,13 +8,13 @@ ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
-ms.date: 07/10/2020
-ms.openlocfilehash: 688208dc94b2be7c641065bbc262241a488d9152
-ms.sourcegitcommit: 51b8acee427a8130d20b4a82d1ac107f962a51db
+ms.date: 07/29/2020
+ms.openlocfilehash: 2ffb35ecb0b0b92b1adfbd11172b14776a5a27d3
+ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86237970"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87412436"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Erfahren Sie, wie Sie die Azure-Abonnements eines Kunden auf einen anderen Partner übertragen.
 
@@ -32,7 +32,7 @@ Führen Sie die folgenden manuellen Schritte aus, um die Azure-Dienste oder-Abon
 >Derzeit können nur direkte oder indirekte Anbieter Abonnements übertragen.
 >Sie können keine Partner für Cloud Solution Provider-Abonnements ändern, die mit den Azure-Plänen, Office 365, Enterprise Mobility Suite oder Microsoft Dynamics CRM-Abonnements verknüpft sind.
 
-**Partner für Azure-Abonnements wechseln**
+## <a name="switch-partners-for-azure-subscriptions"></a>Partner für Azure-Abonnements wechseln
 
 1. Um ein Azure-Abonnement auf einen neuen Partner zu übertragen, muss der Kunde den Prozess starten und sich schriftlich an seinen aktuellen registrierten Abonnementberater wenden.
 
@@ -84,20 +84,27 @@ Führen Sie die folgenden manuellen Schritte aus, um die Azure-Dienste oder-Abon
    - Hinzufügen des neuen Partners als Vertriebspartner für das Konto:
 
      ```powershell
-     Add-AzureRMAccount -tenant "CustomerDomainName"
+     Connect-AzAccount -Tenant 'xxxx-xxxx-xxxx-xxxx'
      ```
 
-     So finden Sie den Namen der Domäne des Kunden: Wählen Sie im Partner Center-Menü **Kunden** aus. Wählen Sie den Kunden aus der Kundenliste aus. Wählen Sie im Menü „Kunden” **Konto**, und verwenden Sie den **Domänennamen**.
+     >[!NOTE]
+     > Die Mandanten- **ID** des Kunden wird im Partner Center als Microsoft- **ID**des Kunden angezeigt. Wenn Sie die Microsoft-ID (Mandanten-ID) für einen bestimmten Kunden ermitteln möchten, melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an. Wählen Sie dann im Menü die Option **Kunden** aus. Suchen Sie den Kunden in der Liste. Wählen Sie den Pfeil nach unten aus, um die Liste des Kunden zu erweitern. Informationen zum *Domänen Namen* des Kunden und zur **Microsoft-ID**des Kunden werden angezeigt. Verwenden Sie die 16-stellige **Microsoft-ID** im PowerShell-Cmdlet.
 
    - Anzeigen der Rollen für das Konto, einschließlich des vorherigen CSP-Partners:
 
      ```powershell
-     Get-AzureRMRoleAssignment
+     Get-AzRoleAssignment
      ```
 
 7. Entfernen veralteter Zugriffsberechtigungen
 
    - Wählen Sie im Menü „Partner Center” **Kunden**.
-   - Erweitern Sie den Kundeneintrag und wählen Sie **Abonnements anzeigen**.
-   - Wählen Sie im Menü „Kunden” **Service management**.
+   - Suchen Sie den Kunden in der Liste. Wählen Sie den Namen Ihres Unternehmens aus (Doppelklicken). Dadurch wird die Seite Kunden **Abonnements** geöffnet.
+   - Wählen Sie im Menü Kunden Detail die Option **Dienst Verwaltung**aus.
    - Unter **Microsoft Azure** klicken Sie auf den Link, um zum **Microsoft Azure-Verwaltungsportal** zu wechseln.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- Laden Sie das [CSP-Abonnementübertragungsformular](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA) herunter.
+- Erfahren Sie [mehr über die Unterstützung von mehreren Partnern](multipartner.md).
+- Erfahren Sie [mehr über die Unterstützung für mehrere Kanäle](multichannel.md).

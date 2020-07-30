@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4af506399707f5efafae2fdf919ba7aee643fc67
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 0e08340aed63d0a274632d24047aa0890c7c2e2e
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175827"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365706"
 ---
 # <a name="customize-the-microsoft-catalog-with-offers-or-products-most-suited-to-your-organization"></a>Anpassen des Microsoft-Katalogs mit angeboten oder Produkten, die am besten für Ihre Organisation geeignet sind
 
@@ -29,9 +29,13 @@ ms.locfileid: "86175827"
 - Globaler Administrator
 - Vertriebsbeauftragter
 
-Im Katalog sind Microsoft-Produkte und -Add-Ons aufgeführt, die Sie Ihren Kunden anbieten können. Diese Angebote werden nach Kundensegment gruppiert, inklusive Unternehmen, Kleinunternehmen oder Regierungsbehörden. Um leichter auf die Angebote zuzugreifen, die Ihre Organisation am häufigsten verwendet oder Ihren Vertriebsmitarbeitern neue Angebote zu präsentieren, können Sie bis zu fünf Angebote am Anfang der Katalogliste anheften.
+Im Katalog sind Microsoft-Produkte und -Add-Ons aufgeführt, die Sie Ihren Kunden anbieten können. Diese Angebote werden nach Kundensegment gruppiert, inklusive Unternehmen, Kleinunternehmen oder Regierungsbehörden. Sie können bis zu fünf Angebote an den Anfang der Katalog Liste anheften, um den Zugriff auf die Angebote zu vereinfachen, die Ihr Unternehmen am meisten nutzt oder um neue Angebote für Ihre Vertriebsmitarbeiter vorzustellen.
 
 ## <a name="customize-the-catalog"></a>Anpassen des Katalogs
 
 1. Navigieren Sie zum Menü „Partner Center” &gt; **Verkaufen** &gt; **Katalog**.
 2. Wählen Sie bis zu fünf Angebote aus, die am Anfang des Katalogs angezeigt werden sollen.
+ 
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Verwalten verschiedener Leads wie Kundenanfragen, durch Marketing qualifizierte Leads und durch den Vertrieb qualifizierte Leads](manage-leads.md) 

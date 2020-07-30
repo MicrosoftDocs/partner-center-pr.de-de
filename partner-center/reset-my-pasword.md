@@ -9,14 +9,24 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: efd7b886c507940fe474b1984024a18766ebfce7
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: f750d27753d78267def99eb06053174a25d0f04d
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265220"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365696"
 ---
 # <a name="reset-my-password"></a>Zurücksetzen des eigenen Kennworts
+
+**Zielgruppe**
+
+- Partner Center
+ 
+**Geeignete Rollen**
+
+- Globaler Administrator
+- Partner Center-Benutzer
+
 
 Wenn Sie Ihr Partner Center-Kennwort nicht merken können, können Sie es zurücksetzen.
 
@@ -28,10 +38,14 @@ Ihr globaler Administrator muss das Kennwort selbst zurücksetzen können. (Wenn
 
 2. Wählen Sie Geschäfts- **oder Schul Konto**aus.
 
-3. Als nächstes werden Sie aufgefordert, Ihre Benutzer-ID und die Zeichen in der Abbildung oder im Audioformat einzugeben. Klicken Sie anschließend auf **Weiter**.
+3. Als nächstes werden Sie aufgefordert, Ihre Benutzer-ID und die Zeichen in der Abbildung oder im Audioformat einzugeben. Wählen Sie **Weiter**aus.
 
 4. Richten Sie Ihr neues Kennwort ein.
 
 ## <a name="if-your-global-admin-has-left-the-company"></a>Wenn Ihr globaler Administrator das Unternehmen verlassen hat
 
 Wenn Ihr globaler Administrator Ihr Unternehmen verlassen oder zu einer anderen Rolle gewechselt hat und Sie einen neuen globalen Administrator hinzufügen müssen, müssen Sie eine Service Request im [Microsoft Partner Network Portal](https://partner.microsoft.com/commercial#/)protokollieren. Der Support-Agent kann die Rechte Erweiterung eines Benutzers an einen globalen Administrator anfordern, wenn der Anforderer die erforderlichen persönlichen Identitätsinformationen bereitstellen und zusätzliche Informationen zu Ihrem Unternehmen bereitstellen kann.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Wenn Sie sich nicht bei Partner Center anmelden können und Ihr Kennwort zurücksetzen müssen](unable-to-sign-in.md)

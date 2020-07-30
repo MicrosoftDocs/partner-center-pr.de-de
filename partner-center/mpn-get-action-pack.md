@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Hier erfährst du, wie du ein Microsoft Action Pack-Abonnement erwirbst und die Action Pack-Vorteile nutzen kannst. Darüber hinaus zeigen wir, wie du dein Abonnement verlängern, kündigen oder deine Abrechnung anzeigen kannst.
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45abf47801dce26e14880afe91b3f104ee9822ec
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 6408aca4275b331b46de45b62d66e637dd422033
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436799"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114684"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements oder der Silver- und Gold-Kompetenzen
 
@@ -32,7 +32,7 @@ ms.locfileid: "86436799"
 - Administrator-Agent
 - Vertriebsbeauftragter
 
-Ab sofort können Mitglieder im Microsoft Partner Network (MPN) Vorteilsangebote im Partner Center-[Dashboard](https://docs.microsoft.com/partner-center/) erwerben oder verlängern. Die Angebote umfassen das Microsoft Action Pack-Abonnement sowie die Silver- und Gold-Kompetenzen.
+Ab sofort können Mitglieder im Microsoft Partner Network (MPN.md) Vorteilsangebote im Partner Center-[Dashboard]() erwerben oder verlängern. Die Angebote umfassen das Microsoft Action Pack-Abonnement sowie die Silver- und Gold-Kompetenzen.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Erstmaliges Erwerben eines Microsoft Action Pack-Abonnements
 

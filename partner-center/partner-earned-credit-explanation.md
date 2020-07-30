@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8c42916c253d1ff2497f47c11c640f2805fc0a86
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: db2dc98d3f40dbb29bd00111d8787a4a8cb0e082
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436739"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943617"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Wie von Partnern erworbene Guthaben berechnet und bezahlt werden
 
@@ -48,15 +48,17 @@ Lesen Sie auch [Reaktivieren von Administratorrechten für Azure CSP-Abonnements
 
 ## <a name="azure-cost-management"></a>Azure-Kostenmanagement
 
- Azure Cost Management (ACM) mit Kostenanalyse ermöglicht es Ihnen als Partner, die Kosten anzuzeigen, auf die der PEC-Vorteil angerechnet wurde.  
+Azure Cost Management (ACM) mit Kostenanalyse ermöglicht es Ihnen als Partner, die Kosten anzuzeigen, auf die der PEC-Vorteil angerechnet wurde.  
 
-1. Melden Sie sich im Azure-Portal bei Ihrem Partnermandanten an, und wählen Sie **Kostenmanagement + Abrechnung** aus.
-2.  Wählen Sie **Kostenmanagement** aus.
-3.  Wählen Sie **Kostenanalyse** aus.
+1. Melden Sie sich im [Azure-Portal](https://portal.azure.com) bei Ihrem Partnermandanten an, und wählen Sie **Kostenmanagement + Abrechnung** aus.
 
-In der Ansicht „Kostenanalyse“ werden die Kosten für Ihr Abrechnungskonto für alle erworbenen und genutzten Dienste mit den Preisen angezeigt, die Sie an Microsoft bezahlen.
+2. Wählen Sie **Kostenmanagement** aus.
 
-4.  Wählen Sie **PartnerEarnedCreditApplied** in der Dropdownliste einer PivotChart aus, um die Kosten anzuzeigen, auf die PEC angerechnet wurden. Wenn die **PartnerEarnedCreditApplied**-Eigenschaft den Wert „True“ aufweist, wurde auf die zugehörigen Kosten das vom Partner erworbene Guthaben angerechnet. 
+3. Wählen Sie **Kostenanalyse** aus.
+
+   In der Ansicht „Kostenanalyse“ werden die Kosten für Ihr Abrechnungskonto für alle erworbenen und genutzten Dienste mit den Preisen angezeigt, die Sie an Microsoft bezahlen.
+
+4. Wählen Sie **PartnerEarnedCreditApplied** in der Dropdownliste einer PivotChart aus, um die Kosten anzuzeigen, auf die PEC angerechnet wurden. Wenn die **PartnerEarnedCreditApplied**-Eigenschaft den Wert „True“ aufweist, wurde auf die zugehörigen Kosten das vom Partner erworbene Guthaben angerechnet. 
 
 Wenn die Eigenschaft „PartnerEarnedCreditApplied“ den Wert „False“ aufweist, haben die zugehörigen Kosten nicht die erforderliche Berechtigung für die Gutschrift erfüllt, oder der erworbene Dienst ist nicht für PEC qualifiziert.
 

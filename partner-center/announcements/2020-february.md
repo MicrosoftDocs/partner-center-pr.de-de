@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 478458e57ab31ccad25e99cb977833d2973f30ea
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749134"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944437"
 ---
 # <a name="february-2020-announcements"></a>Ankündigungen für Februar 2020
 
@@ -70,7 +70,7 @@ _________________
 
 Partner können jetzt Neukunden und Bestandskunden dazu einladen, die Microsoft-Kundenvereinbarung direkt über ein authentifiziertes Microsoft-Portal (Microsoft 365 Admin Center) zu lesen und dieser zuzustimmen.
 
-Das bedeutet, dass [Partnern jetzt zwei Möglichkeiten zur Verfügung stehen](https://docs.microsoft.com/partner-center/confirm-customer-agreement), um ihren Kunden die Microsoft-Kundenvereinbarung zugänglich zu machen:
+Das bedeutet, dass [Partnern jetzt zwei Möglichkeiten zur Verfügung stehen](../confirm-customer-agreement.md), um ihren Kunden die Microsoft-Kundenvereinbarung zugänglich zu machen:
 
 - **Option 1:** Partner können ihren Kunden die neue Microsoft-Kundenvereinbarung genau wie vorher den Microsoft Cloud-Vertrag zukommen lassen. Nachdem ein Kunde die Vereinbarung gelesen und akzeptiert hat, muss der Partner die Zustimmung des Kunden gegenüber Microsoft nachweisen. Das Partner Center-Dashboard, die Partner Center-API und das .NET SDK wurden aktualisiert, sodass Partner darüber bestätigen können, dass der Kunde der Microsoft-Kundenvereinbarung zugestimmt hat.
 - **2. Option (neu):** Partner können Kunden in ein authentifiziertes Microsoft-Portal (Microsoft 365 Admin Center) einladen, damit diese die Vereinbarung dort lesen und unterzeichnen können. Mit dieser Option lassen sich Vereinbarungen einfacher verwalten und schneller implementieren. Außerdem sparen Partner Zeit, da durch die direkte Zustimmung zur Vereinbarung im Microsoft 365 Admin Center durch ihre Kunden auch die Zustimmung zu den Bedingungen bestätigt wird.
@@ -130,7 +130,7 @@ Diese ist nicht verfügbar und wird aus zukünftigen Preislisten entfernt:
 
 Angebot: Microsoft 365 Phone System - Virtual User Trial, Angebots-ID: `b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
 
-Diese Angebote sind zwar verfügbar, aber nicht in der Angebotslistenmatrix enthalten. Weitere Informationen finden Sie in der vorherigen Angebotslistenmatrix von Januar 2020.
+Diese Angebote sind verfügbar, werden aber nicht in der Angebotslistenmatrix angezeigt. Details zur Angebotsmatrix finden Sie in der vorherigen Angebotslistenmatrix vom Januar 2020.
 
 Angebot: Pro Direct-Unterstützung für Dynamics 365 Unified Operations, Angebots-ID: `09dc6202-bfbb-44fb-9c87-b12c90084010`
 
@@ -175,7 +175,7 @@ In unserem System wird angezeigt, dass Ihre Organisation derzeit Basisrichtlinie
 
 ### <a name="key-considerations"></a>Wichtige Hinweise
 
-Die Richtlinie für Sicherheitsstandards ist eine der [Optionen](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take), die Partner je nach ihren geschäftlichen Bedürfnissen für die Umsetzung von MFA gemäß ihren Sicherheitsanforderungen wählen können. Sie bietet eine grundlegende Sicherheitsstufe, die ohne Zusatzkosten bereitgestellt wird. Informieren Sie sich, wie Sie [MFA für Ihre Organisation mit Azure AD aktivieren](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started), und lesen Sie die folgenden wichtigen Hinweise:
+Die Richtlinie für Sicherheitsstandards ist eine der [Optionen](../partner-security-requirements.md#actions-that-you-need-to-take), die Partner je nach ihren geschäftlichen Bedürfnissen für die Umsetzung von MFA gemäß ihren Sicherheitsanforderungen wählen können. Sie bietet eine grundlegende Sicherheitsstufe, die ohne Zusatzkosten bereitgestellt wird. Informieren Sie sich, wie Sie [MFA für Ihre Organisation mit Azure AD aktivieren](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started), und lesen Sie die folgenden wichtigen Hinweise:
 
 - Partner, die den [bedingten Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common) verwenden, haben keinen Zugang zu Sicherheitsstandards.
 - Sicherheitsstandards erzwingen alle Richtlinien gleichzeitig – einschließlich der Richtlinie zur Durchsetzung der MFA für Administratoren, der Richtlinie für den Endbenutzerschutz und der Richtlinie für die Durchsetzung der MFA für die Dienstverwaltung.
@@ -288,7 +288,7 @@ Mit der [neuen Handelsplattform für Azure in CSP](https://blogs.partner.microso
 
 - Lesen Sie die [Entwicklerdokumentation](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/).
 - Implementieren Sie den automatisierten Prozess mit [der neuen API](https://docs.microsoft.com/partner/develop/pricing).
-- Lesen Sie die [Dokumentation zu den Preisen für Azure-Pläne](https://docs.microsoft.com/partner-center/azure-plan-price-list), wenn Sie Fragen zur Preisgestaltung haben.
+- Lesen Sie die [Dokumentation zu den Preisen für Azure-Pläne](../azure-plan-price-list.md), wenn Sie Fragen zur Preisgestaltung haben.
 - [Hier finden Sie weitere Informationen zu Azure-Plänen und der neuen Handelsplattform im CSP-Programm.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ### <a name="change-log"></a>Änderungsprotokoll
@@ -324,7 +324,7 @@ Diese Änderungen sind ab der mit dem 3. Februar beginnenden Woche verfügbar.
 
 ### <a name="additional-resources"></a>Weitere Ressourcen:
 
-- [Erstellen von Supportanfragen über Partner Center](https://docs.microsoft.com/partner-center/report-problems-with-partner-center)
+- [Erstellen von Supportanfragen über Partner Center](../report-problems-with-partner-center.md)
 
 ### <a name="change-log"></a>Änderungsprotokoll
 
@@ -357,8 +357,8 @@ Auf [dieser Seite](https://partner.microsoft.com/resources/collection/Microsoft-
 
 ### <a name="next-steps"></a>Nächste Schritte
 
-- Weitere Informationen zur Bestätigung der Akzeptanz der Microsoft-Kundenvereinbarung im Namen des Kunden über die Partner Center-Webbenutzeroberfläche oder -API finden Sie in [diesem Artikel](https://docs.microsoft.com/partner-center/confirm-customer-agreement).
-- Partner, die APIs für den bestehenden Microsoft Cloud-Vertrag verwenden, müssen ihre vorhandene Implementierung mit der [aktualisierten API](https://docs.microsoft.com/partner-center/confirm-customer-agreement) überprüfen.
+- Weitere Informationen zur Bestätigung der Akzeptanz der Microsoft-Kundenvereinbarung im Namen des Kunden über die Partner Center-Webbenutzeroberfläche oder -API finden Sie in [diesem Artikel](../confirm-customer-agreement.md).
+- Partner, die APIs für den bestehenden Microsoft Cloud-Vertrag verwenden, müssen ihre vorhandene Implementierung mit der [aktualisierten API](../confirm-customer-agreement.md) überprüfen.
 - Informieren Sie Ihre Vertreter und Vertriebsmitarbeiter über die [neuen Bedingungen der Microsoft-Kundenvereinbarung](https://www.microsoft.com/licensing/docs/customeragreement), stellen Sie die neue Vereinbarung für Ihre Kunden zur Verfügung, und bestätigen Sie die Akzeptanz im Namen Ihrer Kunden.
 
 >[!NOTE] 

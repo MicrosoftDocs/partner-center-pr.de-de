@@ -9,14 +9,19 @@ ms.topic: conceptual
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64c794fad671cee780c23cb67e1679dff4f00233
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: a8a090b4f49260ecbb6597d8b989a1a1156422ac
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286578"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365716"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Überprüfen von Partnerprofilinformationen im Partner Center
+
+**Geeignete Rollen**
+
+- Globaler Administrator
+- MPN-Kontoadministrator
 
 Wenn Sie sich zum ersten Mal bei Partner Center als globaler Administrator anmelden, sollten Sie bestätigen, dass alle Unternehmensdetails richtig sind. Hierzu gehören der primäre Kontakt, der rechtliche Geschäftsname und die Adresse sowie Programminformationen. Wenn Ihr Unternehmen mehr als einen Standort hat, überprüfen Sie Ihre Standortdaten auf Richtigkeit. Als globaler Administrator, Abrechnungsadministrator oder Administrator-Agent können Sie auch Ihre Abrechnungs- und Steuerinformationen einsehen und aktualisieren.
 
@@ -56,5 +61,7 @@ Wenn während der Migration von Partner Membership Center zu Partner Center das 
 Wenn Sie der globale Administrator, Abrechnungsadministrator oder Administrator-Agent sind, können Sie die auf Ihrer Rechnung angezeigte Adresse in Ihrem **Abrechnungsprofil** ändern. Sie können jedoch den Unternehmensnamen auf Ihrer Rechnung aufgrund einer Einschränkung des Rechnungssystems nicht ändern.
 
  
+## <a name="next-steps"></a>Nächste Schritte
 
+- [Standorte verwalten](manage-locations.md)
 

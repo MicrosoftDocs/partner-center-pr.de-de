@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 1de1cebbf42eb03e375af2210bbae2d2ed55e5d8
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: dd12838ec0cdbb697aa64b8b398d1a770d2a4517
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286608"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944007"
 ---
 # <a name="january-2020-announcements"></a>Ankündigungen für Januar 2020
 
@@ -53,7 +53,7 @@ Partner können jetzt Azure-Reservierungen sowie Windows Server- und SQL Serve
 ### <a name="additional-resources"></a>Zusätzliche Ressourcen
 
 - Ressourcen zum CSP-Programm im Partnerkatalog: [In Russland verfügbare Windows Server- und SQL Server-Abonnements für CSP-Partner](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
-- [Weitere Informationen zu Partner Center](https://docs.microsoft.com/partner-center/azure-plan-get-started)
+- [Weitere Informationen zu Partner Center](../azure-plan-get-started.md)
 
 ### <a name="next-steps"></a>Nächste Schritte
 
@@ -61,7 +61,7 @@ Partner können jetzt Azure-Reservierungen sowie Windows Server- und SQL Serve
 
 ### <a name="questions"></a>Noch Fragen?
 
-- Wenden Sie sich bei Fragen, Anmerkungen oder dem Wunsch nach weiteren Informationen an den [Support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
+- Wenden Sie sich bei Fragen, Anmerkungen oder dem Wunsch nach weiteren Informationen [an den Support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
 
 _________________
 
@@ -131,7 +131,7 @@ Im dritten Quartal des Geschäftsjahrs 2020 führen wir Self-Service-Käufe für
 
 Weitere Informationen zu Self-Service-Käufen finden Sie im Ressourcenkatalog (Abschnitt „Weitere Ressourcen“). Dort finden Sie auch Anweisungen zur Implementierung von PowerShell, falls Kunden Self-Service-Käufe deaktivieren möchten.
 
-Das **PowerShell**-Skript, mit dem IT-Administratoren Self-Service-Käufe auf Produktbasis steuern (also aktivieren oder deaktivieren) können, ist **jetzt verfügbar**. Die technische Dokumentation finden Sie im Abschnitt „Weitere Ressourcen“.
+Das **PowerShell**-Skript, mit dem IT-Administratoren Self-Service-Käufe auf Produktbasis steuern (also aktivieren oder deaktivieren) können, ist **jetzt verfügbar**. Technische Dokumentation finden Sie im Abschnitt „Weitere Ressourcen“.
 
 NEU: In der letzten Woche haben wir Ihr Feedback zum Rollout der Self-Service-Käufe für Power Platform-Produkte überprüft. Wir möchten Ihnen für Ihre Angaben danken. Anhand Ihres Feedbacks haben wir unsere Herangehensweise angepasst, sodass diese den Anforderungen von IT-Administratoren und Endbenutzern in Organisationen besser gerecht wird. Wir nehmen die folgenden Änderungen an unserem Plan vor:
 
@@ -142,12 +142,12 @@ Für das eingereichte Feedback möchten wir Ihnen erneut danken. Wir hoffen weit
 
 Während die digitale Transformation voranschreitet, erwerben Endbenutzer und Geschäftseinheiten vorgefertigte SaaS-Lösungen selbstständig und führen diese ein. Deshalb führen wir jetzt Self-Service-Käufe ein, damit Benutzer 1:n-Lizenzen kaufen und Abteilungen, Teams und gesamte Unternehmen flexibler und unabhängiger eigene Lösungen erstellen können.
 
-Der Rollout für Microsoft Power Platform-Produkte (Power BI, Power Apps und Power Automate) erfolgt in mehreren Phasen:
+Der Rollout für Microsoft Power Platform-Produkte (Power BI, Power Apps und Power Automate) erfolgt in mehreren Phasen:
 
 - Self-Service-Käufe sind ab dem **14. Januar zunächst für Power BI** verfügbar.
 - Der Rollout beginnt für Kunden in den USA und wird dann auf andere Geografien ausgeweitet.
 - Diese Funktion ist derzeit nicht für Behörden, gemeinnützige Organisationen und Bildungseinrichtungen verfügbar.
-- Weitere Informationen zu Power Apps und Power Automate folgen bald.
+- Weitere Informationen zu Power Apps und Power Automate folgen bald.
 
 Partner profitieren von Self-Service-Käufen, da sie Lösungen für Azure und Power Platform erstellen können. Partner mit Administratorzugriff können die Power Platform-Käufe im Microsoft 365 Admin Center einsehen und diese als Vertriebsleads für ihre Cloudlösungen behandeln. Wenn ein Partner beispielsweise feststellt, dass eine Arbeitsgruppe Power BI einführt, kann dieser umfangreiche Power BI-Dashboards erstellen und verkaufen, die Daten aus Azure SQL-Datenbank-Instanzen und anderen Geschäftsanwendungen nutzen. Wenn sich die Nutzung in einer Organisation durch Self-Service-Käufe verbreitet, können Partner auch eine umfassende Power Platform-Abdeckung an die zentrale IT-Abteilung verkaufen.
 
@@ -190,7 +190,7 @@ Sie können das neue Berichtsdashboard anstelle des aktuellen MyInsights-Bericht
 ### <a name="additional-resources"></a>Zusätzliche Ressourcen
 
 - Unter folgendem Link finden Sie weitere Informationen zu Insights-Ressourcen, u. a. zu den Themen Zugriff, Navigation, Berichtsübersichten und Berichtsnutzung sowie zum Übermitteln von Feedback: [Ankündigung eines neuen Berichtsdashboards (Betaversion) für Partner Center](https://partner.microsoft.com/resources/collection/partner-center-insights-reporting-dashboard#/)
-- Noch Fragen? Wenden Sie sich an den [Partner-Support](https://partner.microsoft.com/support).
+- Noch Fragen? [Wenden Sie sich an den Partnersupport](https://partner.microsoft.com/support).
 
 ### <a name="change-log"></a>Änderungsprotokoll
 
@@ -229,7 +229,7 @@ Partner können ihren Kunden die neue Microsoft-Kundenvereinbarung genau wie vor
 
 - Bestätigen Sie die Zustimmung zur Microsoft-Kundenvereinbarung vor dem 31. Januar 2020.
 - Unterweisen Sie Ihre Mitarbeiter und Handelspartner in den neuen Bedingungen und der Präsentation der neuen Vereinbarung sowie im Einholen der Kundenzustimmung. Indirekte Anbieter müssen sich mit indirekten Handelspartnern koordinieren, um die Kundenzustimmung zu überprüfen.
-- Partner mit direkter Abrechnung und indirekte Handelspartner, die APIs nutzen, müssen vorhandene Implementierungen auf die [aktualisierte API](https://docs.microsoft.com/partner-center/confirm-customer-agreement) aktualisieren, um diese an die neue Microsoft-Kundenvereinbarung anzupassen.
+- Partner mit direkter Abrechnung und indirekte Handelspartner, die APIs nutzen, müssen vorhandene Implementierungen auf die [aktualisierte API](../confirm-customer-agreement.md) aktualisieren, um diese an die neue Microsoft-Kundenvereinbarung anzupassen.
 - Partner mit direkter Abrechnung und indirekte Anbieter können die Kundenzustimmung auch über die Partner Center-Webbenutzeroberfläche bestätigen.
 
 ### <a name="additional-resources-partners-can-view-content-available-on-the-csp-gallery-page-including"></a>Partner können folgende Inhalte im [CSP-Katalog](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/) aufrufen:
@@ -329,7 +329,7 @@ Am 2. Januar 2020 wurden folgende Power Virtual Agent-Angebote veröffentlicht
 
 - Dynamics 365 Virtual Agent for Customer Service
 
-Lesen Sie [hier](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) die ausführlichen SKU-Informationen in der Datei „Dynamics CSP Offers 1-1-20“.
+Lesen Sie [hier](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) die ausführlichen SKU-Informationen in der Datei „Dynamics CSP Offers 1-1-20“.
 
 Biz Apps und Power Platform
 
@@ -337,7 +337,7 @@ Am 2. Januar 2020 wurden folgende Biz Apps- und Power Platform-Angebote verö
 
 - Einführung von Angeboten für Schüler/Studenten für vorhandene App-basierte Power Apps-Pläne
 
-Lesen Sie [hier](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) die ausführlichen SKU-Informationen in der Datei „Dynamics CSP Offers 1-1-20“.
+Lesen Sie [hier](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) die ausführlichen SKU-Informationen in der Datei „Dynamics CSP Offers 1-1-20“.
 
 Am 1. Februar 2020 werden die folgenden neuen und aktualisierten Angebote für Biz Apps und Power Platform veröffentlicht:
 
@@ -371,7 +371,7 @@ SKU-Informationen ausstehend
 
 Am 1. Februar 2020 ändert Microsoft die Namen einiger Produktfamilien und Angebote, um die Benennung vorhandener Dynamics 365- und Power Platform-Angebote an die Namen in anderen Kanälen und Regionen anzupassen.
 
-Genaue Informationen zu den Änderungen finden Sie [hier](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) in der Datei „Dynamics CSP Offer Name Changes – Feb 2020“.
+Genaue Informationen zu den Änderungen finden Sie [hier](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) in der Datei „Dynamics CSP Offer Name Changes – Feb 2020“.
 
 ### <a name="additional-resources"></a>Zusätzliche Ressourcen
 
@@ -379,13 +379,13 @@ Genaue Informationen zu den Änderungen finden Sie [hier](https://partner.micros
 - [Homepage der Anleitungen für Mixed Reality-Apps](https://dynamics.microsoft.com/mixed-reality/guides/)
 - [Homepage: Fraud Protection für Biz Apps](https://docs.microsoft.com/dynamics365/fraud-protection/overview)
 - [Homepage der Power Platform-Produkte](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
-- [Lizenzierungsupdates für Power Apps und Flow im Geschäftsjahr 2020](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
+- [Lizenzierungsupdates für Power Apps und Flow im Geschäftsjahr 2020](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Microsoft Dynamics 365-Lizenzierung](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 
 ### <a name="next-steps"></a>Nächste Schritte
 
-- Bitte geben Sie diese Informationen an die entsprechenden Kontakte in Ihrer Organisation weiter.
-- Wenn Sie mehr zu den Updates und dem Nutzenversprechen von Lizenzen erfahren möchten, erhalten Sie unter „Zusätzliche Ressourcen“ und auf PartnerSource weitere Informationen zur Verfügbarkeit.
+- Leiten Sie diese Informationen an alle zuständigen Mitarbeiter in Ihrem Unternehmen weiter.
+- Wenn Sie mehr zu den Updates und dem Nutzenversprechen von Lizenzen erfahren möchten, erhalten Sie unter Zusätzliche Ressourcen und auf PartnerSource weitere Informationen zur Verfügbarkeit.
 
 ### <a name="questions"></a>Noch Fragen?
 

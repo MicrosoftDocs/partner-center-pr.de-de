@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d2656ad80cc66742ee432f3eaecb284da798b1c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f89240966de1976bd08ae8a91272bf6b10dddfcc
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434119"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943558"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Häufig gestellte Fragen zu den Sicherheitsanforderungen für Partner
 
@@ -40,9 +40,9 @@ Die Microsoft Partner-Vereinbarung setzt voraus, dass Sie die mehrstufige Authen
 
 Partner, die diese Sicherheitsverfahren nicht einhalten, können dann möglicherweise keine Transaktionen im CSP-Programm mehr ausführen oder Kundenmandanten mit delegierten Administratorrechten verwalten.
 
-### <a name="does-this-apply-to-all-geographies"></a>Gilt dies für alle geografischen Regionen?
+### <a name="do-the-security-requirements-apply-to-all-geographies"></a>Gelten die Sicherheitsanforderungen für alle geografischen Regionen?
 
-Ja, dies gilt für alle geografischen Regionen. Es wird dringend empfohlen, dass alle Partner, die über eine unabhängige Cloud (21Vianet, US-Regierung und Deutschland) handeln, diese neuen Sicherheitsanforderungen sofort umsetzen. Diese Partner müssen jedoch nicht die neuen Sicherheitsanforderungen zum 1. August erfüllen. Microsoft wird in Zukunft zusätzliche Details zur Durchsetzung dieser Sicherheitsanforderungen für unabhängige Clouds bereitstellen.
+Ja, die Sicherheitsanforderungen gelten für alle geografischen Regionen. Es wird dringend empfohlen, dass alle Partner, die über eine unabhängige Cloud (21Vianet, US-Regierung und Deutschland) handeln, diese neuen Sicherheitsanforderungen sofort umsetzen. Diese Partner müssen jedoch nicht die neuen Sicherheitsanforderungen zum 1. August erfüllen. Microsoft wird in Zukunft zusätzliche Details zur Durchsetzung dieser Sicherheitsanforderungen für unabhängige Clouds bereitstellen.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>Sind Ausnahmen für ein Konto möglich?
 
@@ -52,12 +52,12 @@ Nein, kein Benutzerkonto kann davon ausgenommen werden, ein MFA-Verfahren durchz
 
 Führen Sie die folgenden Schritte aus.
 
-- Sie müssen alle Anforderungen erfüllen, die in den [Sicherheitsanforderungen für Partner](https://docs.microsoft.com/partner-center/partner-security-requirements) beschrieben werden.
+- Sie müssen alle Anforderungen erfüllen, die in den [Sicherheitsanforderungen für Partner](partner-security-requirements.md) beschrieben werden.
 - Sie müssen sicherstellen, dass für alle Benutzerkonten in Ihrem Partnermandanten die mehrstufige Authentifizierung erzwungen wird.
 
 Um die wichtigsten Bereiche zu identifizieren, in denen Sie Maßnahmen ergreifen können, nutzen Sie den Bericht [Status der Sicherheitsanforderungen](https://partner.microsoft.com/pcv/security/compliance), der über das Partner Center verfügbar ist.
 
-Weitere Informationen zum Statusbericht finden Sie unter [Status der Sicherheitsanforderungen für Partner](https://docs.microsoft.com/partner-center/partner-security-compliance).
+Weitere Informationen zum Statusbericht finden Sie unter [Status der Sicherheitsanforderungen für Partner](partner-security-compliance.md).
 
 ## <a name="required-actions"></a>Erforderliche Aktionen
 
@@ -89,7 +89,7 @@ Alle Partner im CSP-Programm (Partner mit direkter Abrechnung, indirekte Anbiete
 
     Wenn Sie einen Control Panel verwenden, wenden Sie sich im Hinblick auf die Übernahme des Frameworks „Sicheres Anwendungsmodell“ an den Hersteller.
 
-    Control Panel-Anbieter müssen das [Onboarding](https://docs.microsoft.com/partner-center/enroll-as-cpv) in Partner Center als Control Panel-Anbieter durchführen und sofort mit der Umsetzung dieser Anforderung beginnen. Weitere Informationen findest du unter [Partner Center: Framework „Sicheres Anwendungsmodell“](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Control Panel-Anbieter müssen anstelle von Anmeldeinformationen die Zustimmung von CSP-Partnern akzeptieren und verwalten und alle vorhandenen Anmeldeinformationen von CSP-Partnern löschen.
+    Control Panel-Anbieter müssen das [Onboarding](enroll-as-cpv.md) in Partner Center als Control Panel-Anbieter durchführen und sofort mit der Umsetzung dieser Anforderung beginnen. Weitere Informationen findest du unter [Partner Center: Framework „Sicheres Anwendungsmodell“](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Control Panel-Anbieter müssen anstelle von Anmeldeinformationen die Zustimmung von CSP-Partnern akzeptieren und verwalten und alle vorhandenen Anmeldeinformationen von CSP-Partnern löschen.
 
 ## <a name="multi-factor-authentication"></a>Mehrstufige Authentifizierung
 
@@ -124,9 +124,9 @@ Ja, jeder Benutzer muss MFA erzwingen. Wenn Sie aber Azure AD-Sicherheitsstandar
 
 Cloud Solution Provider-Partner mit direkter Abrechnung müssen die MFA für jeden Benutzer in ihrem Partnermandanten erzwingen.
 
-### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-this"></a>Ich bin indirekter Handelspartner und führe Transaktionen nur über einen Distributor durch. Muss ich trotzdem Maßnahmen ergreifen?
+### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-enable-mfa"></a>Ich bin indirekter Handelspartner und führe Transaktionen nur über einen Distributor durch. Muss ich trotzdem MFA aktivieren?
 
-Alle indirekten Handelspartner müssen die MFA für jeden Benutzer in ihrem Partnermandanten erzwingen. Dies ist eine Maßnahme, die vom indirekten Handelspartner durchgeführt werden muss.
+Alle indirekten Handelspartner müssen die MFA für jeden Benutzer in ihrem Partnermandanten erzwingen. Der indirekte Wiederverkäufer muss MFA aktivieren.
 
 ### <a name="i-dont-use-the-partner-center-api-do-i-still-need-to-implement-mfa"></a>Ich verwende die Partner Center-API nicht. Muss ich die MFA dennoch implementieren?
 
@@ -152,7 +152,7 @@ Nein Die Erfüllung dieser Sicherheitsanforderungen wirkt sich nicht auf die Ver
 
 Nein. Die MFA muss nicht für jeden Benutzer in den Azure AD-Mandanten deiner Kunden erzwungen werden. Es empfiehlt sich allerdings, in Zusammenarbeit mit jedem Kunden zu ermitteln, wie die Benutzer der Kunden am besten geschützt werden können.
 
-### <a name="can-any-user-be-excluded-from-this-requirement"></a>Kann ein Benutzer von dieser Anforderung ausgenommen werden?
+### <a name="can-any-user-be-excluded-from-the-mfa-requirement"></a>Kann ein Benutzer von der MFA-Anforderung ausgenommen werden?
 
 Nein. Jeder Benutzer im Partnermandanten, einschließlich aller Dienstkonten, muss sich per MFA authentifizieren.
 
@@ -162,7 +162,7 @@ Ja. Die Sicherheitsanforderungen für Partner gelten auch für die Sandbox zur I
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>Wie konfiguriere ich ein Konto für den Notfallzugriff?
 
-Es hat sich bewährt, ein oder zwei Konten für den Notfallzugriff einzurichten, um eine versehentliche Aussperrung aus dem Azure AD-Mandanten zu verhindern. Aufgrund der Sicherheitsanforderungen für Partner muss sich jeder Benutzer per MFA authentifizieren. Dies bedeutet, dass du die Definition eines Kontos für den Notfallzugriff ändern musst. Du könntest z. B. ein Konto verwenden, das eine Drittanbieterlösung für die MFA nutzt.
+Es hat sich bewährt, ein oder zwei Konten für den Notfallzugriff einzurichten, um eine versehentliche Aussperrung aus dem Azure AD-Mandanten zu verhindern. Aufgrund der Sicherheitsanforderungen für Partner muss sich jeder Benutzer per MFA authentifizieren. Diese Anforderung bedeutet, dass Sie die Definition eines Kontos für den Notfallzugriff ändern müssen. Du könntest z. B. ein Konto verwenden, das eine Drittanbieterlösung für die MFA nutzt.
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>Ist der Active Directory-Verbunddienst (Active Directory Federation Service, ADFS) erforderlich, wenn ich eine Drittanbieterlösung verwende?
 
@@ -203,11 +203,11 @@ Alle Partner, die eine benutzerdefinierte Integration über APIs (z. B. Azure R
 
 Wenn Sie einen Control Panel verwenden, müssen Sie sich im Hinblick auf die Übernahme des Frameworks „Sicheres Anwendungsmodell“ an den Hersteller wenden.
 
-Control Panel-Anbieter müssen das [Onboarding](https://docs.microsoft.com/partner-center/enroll-as-cpv) in Partner Center als Control Panel-Anbieter durchführen und sofort mit der Umsetzung dieser Anforderung beginnen. Weitere Informationen findest du unter [Partner Center: Framework „Sicheres Anwendungsmodell“](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Control Panel-Anbieter müssen anstelle von Anmeldeinformationen die Zustimmung von CSP-Partnern akzeptieren und verwalten und alle vorhandenen Anmeldeinformationen von CSP-Partnern löschen.
+Control Panel-Anbieter müssen das [Onboarding](enroll-as-cpv.md) in Partner Center als Control Panel-Anbieter durchführen und sofort mit der Umsetzung dieser Anforderung beginnen. Weitere Informationen findest du unter [Partner Center: Framework „Sicheres Anwendungsmodell“](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Control Panel-Anbieter müssen anstelle von Anmeldeinformationen die Zustimmung von CSP-Partnern akzeptieren und verwalten und alle vorhandenen Anmeldeinformationen von CSP-Partnern löschen.
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Muss das sichere Anwendungsmodell nur für die Partner Center-API bzw. das Partner Center SDK implementiert werden?
 
-Das Erzwingen der mehrstufigen Authentifizierung für alle Benutzerkonten wirkt sich auf jede Automatisierung oder Integration aus, die für die nicht interaktive Ausführung vorgesehen ist. Gemäß den Partnersicherheitsanforderungen muss das sichere Anwendungsmodell für die Partner Center API aktiviert werden. Das Modell kann aber auch genutzt werden, um eine Zwei-Faktor-Authentifizierung mit Automatisierung und Integration einzurichten. 
+Das Erzwingen der mehrstufigen Authentifizierung für alle Benutzerkonten wirkt sich auf jede Automatisierung oder Integration aus, die für die nicht interaktive Ausführung vorgesehen ist. Gemäß den Partnersicherheitsanforderungen muss das sichere Anwendungsmodell für die Partner Center API aktiviert werden. Das Modell kann aber auch genutzt werden, um eine Zwei-Faktor-Authentifizierung mit Automatisierung und Integration einzurichten.
 
 >[!Note] 
 >Ressourcen, auf die zugegriffen wird, müssen die zugriffstokenbasierte Authentifizierung unterstützen.
@@ -221,7 +221,7 @@ Wenn deine Automatisierung nicht interaktiv ausgeführt werden soll und sie Benu
 
 ### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>Welche Benutzeranmeldeinformationen sollte der Anwendungsadministrator beim Durchführen des Zustimmungsprozesses bereitstellen?
 
-Es wird empfohlen, ein Dienstkonto zu verwenden, dem die geringstmöglichen Berechtigungen zugewiesen wurden. In Bezug auf die Partner Center-API bedeutet dies, dass du ein Konto verwenden solltest, dem die Rolle „Sales Agent“ oder „Admin Agents“ zugewiesen wurde.
+Es wird empfohlen, ein Dienstkonto zu verwenden, dem die geringstmöglichen Berechtigungen zugewiesen wurden. Hinsichtlich der Partner Center-API sollten Sie ein Konto verwenden, dem die Rolle „Sales Agent“ oder „Admin Agents“ zugewiesen wurde.
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>Warum sollte der Anwendungsadministrator beim Durchführen des Zustimmungsprozesses keine Anmeldeinformationen eines globalen Administrators bereitstellen?
 
@@ -237,17 +237,20 @@ Ein Control Panel-Anbieter ist ein unabhängiger Softwarehersteller, der Apps en
 
 ### <a name="i-am-a-cpv-how-do-i-enroll"></a>Ich bin Control Panel-Anbieter. Wie registriere ich mich?
 
-Informationen zum Registrieren als Control Panel-Anbieter (Control Panel Vendor, CPV) findest du in den [hier](https://docs.microsoft.com/partner-center/enroll-as-cpv) beschriebenen Richtlinien.
+Informationen zum Registrieren als Control Panel-Anbieter (Control Panel Vendor, CPV) findest du in den [hier](enroll-as-cpv.md) beschriebenen Richtlinien.
 
 Wenn CPVs den Registrierungslink erhalten möchten, müssen sie [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) kontaktieren und einen Microsoft-Mitarbeiter als Sponsor angeben, der eine geschäftliche Beziehung mit dem CPV unterhält oder dessen Geschäft kennt. Beispiel: ein Partner Development Manager (PDM).
 
 Nachdem du dich bei Partner Center angemeldet und deine Anwendungen registriert hast, kannst du auf Partner Center-APIs zugreifen. Neue CPVs erhalten die Informationen zu ihrer Sandbox über eine Partner Center-Benachrichtigung. Nach der Registrierung als Control Panel-Anbieter für Microsoft und Zustimmung zur CPV-Vereinbarung stehen dir folgende Möglichkeiten zur Verfügung:
 
-1. Verwalten von Mehrinstanzenanwendungen (Anwendungen im Azure-Portal hinzufügen, Anwendungen in Partner Center registrieren und deren Registrierung aufheben). 
-     >[!Note] 
-     >CPVs müssen ihre Anwendungen in Partner Center registrieren, um die Autorisierung für Partner Center-APIs zu erhalten. Das Hinzufügen von Anwendungen in das Azure-Portal allein reicht nicht aus, um CPV-Anwendungen für Partner Center-APIs zu autorisieren.
-2. Anzeigen und Verwalten deines CPV-Profils.
-3. Anzeigen und Verwalten Ihrer Benutzer, die Zugriff auf CPV Funktionen benötigen. Die einzige Rolle eines CPVs ist der globale Administrator.
+1. Verwalten von mehrinstanzenfähigen Anwendungen (Anwendungen im Azure-Portal hinzufügen, Anwendungen in Partner Center registrieren und deren Registrierung aufheben).
+
+   >[!Note]
+   >CPVs müssen ihre Anwendungen in Partner Center registrieren, um die Autorisierung für Partner Center-APIs zu erhalten. Das Hinzufügen von Anwendungen in das Azure-Portal allein reicht nicht aus, um CPV-Anwendungen für Partner Center-APIs zu autorisieren.
+
+1. Anzeigen und Verwalten deines CPV-Profils.
+
+1. Anzeigen und Verwalten Ihrer Benutzer, die Zugriff auf CPV Funktionen benötigen. Ein CPV kann nur über die Rolle „Globaler Administrator“ verfügen.
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>Ich verwende das Partner Center SDK. Übernimmt das SDK automatisch das sichere Anwendungsmodell?
 
@@ -255,7 +258,7 @@ Nein, du musst die Richtlinien im [Leitfaden für das sichere Anwendungsmodell](
 
 ### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-dont-have-mfa-enabled"></a>Kann ich ein Aktualisierungstoken für das sichere Anwendungsmodell mit Konten generieren, die nicht für die MFA aktiviert wurden?
 
-Ja, ein Aktualisierungstoken kann mit einem Konto generiert werden, für das die MFA nicht erzwungen wird. Dies wird jedoch nicht empfohlen, weil ein Token, das mit einem nicht für die MFA aktivierten Konto generiert wurde, nicht auf Ressourcen zugreifen kann, denn dafür ist die MFA erforderlich.
+Ja, ein Aktualisierungstoken kann mit einem Konto generiert werden, für das die MFA nicht erzwungen wird. Dies sollte jedoch vermieden werden. Jedes Token, das mit einem Konto ohne aktivierte MFA generiert wurde, kann nicht auf Ressourcen zugreifen, das MFA hierfür erforderlich ist.
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>Wie kann meine Anwendung ein Zugriffstoken abrufen, wenn ich die MFA aktiviere?
 
@@ -315,7 +318,7 @@ Führen Sie eine der folgenden Aktionen aus, damit Ihre Konformität gewahrt ble
 
 ### <a name="how-to-get-started"></a>Erste Schritte
 
-- [Sicherheitsanforderungen für Partner: Schrittanleitung](https://docs.microsoft.com/partner-center/partner-security-requirements).
+- [Sicherheitsanforderungen für Partner: Schrittanleitung](partner-security-requirements.md).
 - Sende Fragen und Feedback an die [Partner Center Security Guidance Group](https://aka.ms/MPCSecurityGuidance).
 - Nimm an Informationsveranstaltungen und Webinaren für Partner teil. [Hier findest du den detaillierten Zeitplan und Ressourcen](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance).
 
@@ -340,9 +343,8 @@ Optionen für den technischen Produktsupport für Azure Active Directory sind ü
 
 ### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>Wie kann ich mich an den Support wenden, wenn ich den Zugriff auf Partner Center verloren habe?
 
-Navigiere zu [Microsoft Partner-Support](https://partner.microsoft.com/support), und wähle dann **Alle Supportoptionen anzeigen** aus. Die verfügbaren Optionen zum Kontaktieren des Microsoft Partner-Supports werden angezeigt. Hierzu gehören eine Telefonnummer zum Anrufen des Supports und eine Option zum Chatten mit dem Support. 
+Navigiere zu [Microsoft Partner-Support](https://partner.microsoft.com/support), und wähle dann **Alle Supportoptionen anzeigen** aus. Ihnen werden die verfügbaren Optionen für die Kontaktaufnahme mit dem Microsoft Partner-Support angezeigt, einschließlich einer Telefonnummer, um den Support anzurufen, und einer Option, um mit dem Support zu chatten.
 
-### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>Wo finde ich Informationen zu häufigen technischen Problemen?
+### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>Wo finde ich Informationen zu häufigen technischen Problemen?
 
-Informationen zu häufigen technischen Problemen sind [hier](https://docs.microsoft.com/partner-center/partner-security-requirements#common-issues) zu finden.
-
+Informationen zu häufigen technischen Problemen finden Sie unter [Sicherheitsanforderungen für Partner, die das Partner Center oder Partner Center-APIs verwenden](partner-security-requirements.md).

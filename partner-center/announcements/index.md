@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 7db336b8d954c738d2d9d7bf9acd9ec744206a72
-ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
+ms.openlocfilehash: 7a15cd7fbf51a54e6190f29c41fd21ef5ed419fd
+ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86949856"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "87330117"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,7 +22,9 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Juli 2020** | **Angekündigt** |
 |---------|:---------|:---------|
-|Funktionen|[Cloud Solution Provider (CSP)-Incentive für berechtigte Angebote im kommerziellen Microsoft-Marketplace, auf Geschäftsjahr 2021 ausgeweitet](2020-July.md#7)|22. Juli|
+|Funktionen|[Änderungen an den Partner Center-APIs](2020-july.md#9)|28. Juli|
+|Funktionen|[SDK-Release für .NET Standard v 1.16.1 (Vorschau)](2020-july.md#8)|21. Juli|
+|Funktionen|[Cloud Solution Provider (CSP)-Incentive für berechtigte Angebote im kommerziellen Microsoft-Marketplace, auf Geschäftsjahr 2021 ausgeweitet](2020-july.md#7)|22. Juli|
 |Funktionen|[Neue Funktionen für Berichte „Einblicke“ im Partner Center ](2020-july.md#6)|16. Juli|
 |Angebote/Märkte|[Unbegrenzte Software im Cloud Solution Provider-Programm ](2020-july.md#5)|15. Juli|
 | Angebote/Märkte | [Neue Microsoft 365 Enterprise Sprach-SKUs für Teams](2020-july.md#4) | 3\. Juli |

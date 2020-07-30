@@ -15,6 +15,7 @@
 ### [Anleitung zum Verschieben mehrerer Unternehmen zu Partner Center](move-multiple-companies.md)
 ### [Konsolidieren Ihrer Unternehmen](consolidate-accounts.md)
 
+
 ## Mitgliedschaftsangebote
 ### [Action Pack](mpn-get-action-pack.md)
 ### [Verlängern Ihrer Angebote](renew-mpn-offers.md)
@@ -65,6 +66,7 @@
 ## [Überprüfen Ihres Domänenbesitzes](become-global-admin.md)
 ## [Überprüfen deiner Kontoinformationen](verification-responses.md)
 ## [Zusammenführen Ihres Partnerkontos mit einem anderen Partnerkonto](merge-accounts.md)
+## [Zuordnen zusätzlicher Azure AD-Mandanten zu Ihrem Partner Center-Konto](multi-tenant-account.md)
 ## [Aktualisieren von Partnerprofilen](update-your-partner-profile.md)
 ## [Standorte](manage-locations.md)
 ## [Registrierung als Control Panel Vendor](enroll-as-cpv.md)
@@ -100,6 +102,7 @@
 ### Erste Schritte mit Incentives
 #### [Ermitteln Ihrer Programmberechtigung](incentives-determined-your-program-eligibility.md)
 #### [Erstellen und Verwalten von Auszahlungs- und Steuerprofilen im Partner Center](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [Häufig gestellte Fragen zu den Incentivezahlungen und Steuerprofilen](incentives-payout-tax-profile-faqs.md)
 #### [Bestätigen Ihrer Einnahmeberechtigung](incentives-confirm-your-earnings-eligibility.md)
 #### [Anzeigen Ihrer Incentivezahlungen und -programme](understand-incentive-payouts.md)
 #### [Zugriff auf die Seite für Anreizauszahlungen](incentives-unified-user-guide.md)
@@ -132,6 +135,9 @@
 ### [Rechnungsstellung – Lesen der Felder für Rechnungen und einmalige Kosten](invoice-file.md)
 ### [Lizenzbasierte Abrechnung](license-based-billing.md)
 ### [Szenarien für lizenzbasierte Saas-Abonnements](common-billing-scenarios-saas.md)
+
+## [Anzeigen von digitalen Signaturen – Partner Center Indien](digital-signature.md)
+
 ## [Steuern und Steuerbefreiungen](tax-and-tax-exemptions.md)
 ### [Umsatzsteuerinformationen für Unternehmen](organization-tax-info.md)
 ### [Sicherstellen, dass Ihnen Quellensteuer gutgeschrieben wird](withholding-tax-credit-form.md)

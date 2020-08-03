@@ -149,7 +149,6 @@
 
 # [Kontakt zu Kunden](customer-accounts.md)
 ## [Hinzufügen neuer Kunden](add-a-new-customer.md)
-## [Ermitteln des Domänennamens und der Verzeichnis-ID Ihres Kunden](find-customer-domain-name.md)
 ## [Beantragen einer Vertriebspartnerschaft mit einem Kunden](request-a-relationship-with-a-customer.md)
 ## [Entfernen der Partnerschaft zwischen einem Händler und einem Kunden](remove-a-relationship.md)
 ## [Delegieren oder Widerrufen von Administratorrechten für Partner durch Kunden](customers-revoke-admin-privileges.md) 
@@ -217,9 +216,12 @@
 ### [Gewinnen von Kunden mit Office 365-Testangeboten](advisors-build-your-business.md)
 ### [Erstellen eines Office 365-Kaufangebots](advisor-create-a-purchase-offer.md)
 # Partner Center-Daten und -Analysen
+
 ## [Zugreifen auf Benutzerdaten und Analysen](data-analysis-lp.md)
-## [Verwenden der Partner Center Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners.md)
-## [Verwendung der Partner Center Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners.md)
+## Partner Center Analytics-App für Power BI
+### [Einführung in die Partner Center Analytics-App für Power BI](power-bi-app-for-direct-partners.md)
+### [Installieren der Partner Center Analytics-App für Power BI](power-bi-app-for-direct-partners-install.md)
+### [Verwenden der Partner Center Analytics-App für Power BI](power-bi-app-for-direct-partners-use.md)
 ## [Partner Center-Einblicke](partner-center-insights.md)
 ### [Einblicke – Dashboard „Übersicht“](pci-overview-report.md)
 ### [Einblicke: Rollenbasierte Steuerung des Zugriffs auf das Dashboard für Einblicke](pci-roles.md)
@@ -237,8 +239,6 @@
 ## [Analysieren der Leistung indirekter Händler](analyze-indirect-resellers.md)
 ## [Analysieren von Abonnements und Lizenzen](analyze-subscriptions-licenses.md)
 ## [Microsoft Learn-Analysen](ms-learn-analytics.md)
-## [Partner Center Analytics-App für Power BI](power-bi-app-for-direct-partners-use.md)
-## [Installation und Vorschauversion der Partner Center Analytics-App für Microsoft Power BI](power-bi-app-for-direct-partners-install.md)
 
 # [Zusammenarbeit mit anderen Partnern](work-with-other-partners.md)
 ## [Aufgaben indirekter Anbieter in Partner Center](indirect-provider-tasks-in-partner-center.md)

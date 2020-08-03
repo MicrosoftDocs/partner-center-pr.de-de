@@ -2,17 +2,17 @@
 title: Abrechnung für einmalige & wiederkehrende Käufe
 ms.topic: article
 ms.date: 05/05/2020
-description: Weitere Informationen finden Sie in den Partner Center-Abrechnungs Beispielen für einmalige und wiederkehrende Käufe. Wenn Sie Abonnements erwerben, können Sie weitere Abonnements hinzufügen, Arbeitsplätze hinzufügen oder entfernen.
+description: Weitere Informationen finden Sie in den Partner Center-Abrechnungs Beispielen für einmalige und wiederkehrende Käufe. Wenn Sie Abonnements erwerben, können Sie weitere Abonnements hinzufügen und Lizenzen hinzufügen oder entfernen.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 06ecd9463f7b9bcb5d370de8f3cd011973cb3607
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5349a78b788c060999c98440edf962a64cb43112
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435389"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468394"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Partner Center-Abrechnungs Szenarien für einmal und Auswahl von wiederkehrenden Käufen
 
@@ -23,9 +23,9 @@ ms.locfileid: "86435389"
 - Helpdesk-Agent
 - Vertriebsbeauftragter
 
-Diese Beispiel [Szenarien für allgemeine Abrechnung](common-billing-scenarios.md) gelten für [einmalige und ausgewählte wiederkehrende Gebühren](one-time-and-recurring-billing.md) im Partner Center.
+Dabei handelt es sich um [häufige Abrechnungs Szenarien](common-billing-scenarios.md). 
 
-## <a name="purchase-a-subscription-and-add-a-seat-on-the-same-day"></a>Erwerben eines Abonnements und Hinzufügen eines Arbeitsplatzes am selben Tag
+## <a name="purchase-a-subscription-and-add-a-license-on-the-same-day"></a>Erwerben eines Abonnements und Hinzufügen einer Lizenz am selben Tag
 
 In Szenario 1 erwerben Sie am 11. Juni ein Abonnement mit einem Preis pro Einheit von 4 USD. Später am gleichen Tag erwerben ein weiteres gleiches Abonnement zum gleichen Preis.
 
@@ -57,9 +57,9 @@ Die Kontenabstimmungsdatei enthält Folgendes:
 |12.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        |1        | -3,87 USD       |addQuantity           |
 |12.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        | 2      |7,74 USD       |addQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-a-seat-on-the-same-day"></a>Erwerben eines Abonnements und Entfernen eines Arbeitsplatzes am selben Tag
+## <a name="purchase-a-subscription-and-remove-a-license-on-the-same-day"></a>Erwerben eines Abonnements und Entfernen einer Lizenz am selben Tag
 
-In Szenario 3 erwerben Sie zwei Abonnements für das gleiche Produkt am 11. Juni mit einem Preis pro Einheit von 4 USD. Später am gleichen Tag entfernen Sie einen der Arbeitsplätze.  
+In Szenario 3 erwerben Sie zwei Abonnements für das gleiche Produkt am 11. Juni mit einem Preis pro Einheit von 4 USD. Zu einem späteren Zeitpunkt entfernen Sie eine der Lizenzen.  
 
 Die Kontenabstimmungsdatei enthält Folgendes:
 
@@ -73,9 +73,9 @@ Die Kontenabstimmungsdatei enthält Folgendes:
 |11.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        |2        | \- 8 US-Dollar       |removeQuantity           |
 |11.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        | 1      |4 US-Dollar         |removeQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-seats-later"></a>Erwerben eines Abonnements und Entfernen von Arbeitsplätzen zu einem späteren Zeitpunkt
+## <a name="purchase-a-subscription-and-remove-licenses-later"></a>Erwerben eines Abonnements und Entfernen von Lizenzen später
 
-In Szenario 4 erwerben Sie am 11. Juni 2 Abonnements mit einem Preis pro Einheit von 4 USD. Am 12. Juni entfernen Sie einen der Arbeitsplätze.
+In Szenario 4 erwerben Sie 2 Abonnements am 11. Juni mit einem Einheitspreis von $4. am 12. Juni entfernen Sie eine der Lizenzen.
 
 Die Kontenabstimmungsdatei enthält Folgendes:
 

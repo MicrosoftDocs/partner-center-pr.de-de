@@ -1,5 +1,5 @@
 ---
-title: Abgleichen von Datei Lade Typen
+title: Gebührenarten für Abstimmungsdateien
 ms.topic: article
 ms.date: 06/05/2020
 description: Ermitteln Sie die Arten von Gebühren (z. b. Lizenz basiert, Nutzungs basiert und einmalig), Gutschriften und Rabatte in Partner Center-Abstimmungs Dateien.
@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fdd372ba260254032d0978e6b2f80947d11aa84f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949307"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444783"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Informationen zu den verschiedenen Lade Typen in Partner Center-Abstimmungs Dateien
 
@@ -45,10 +45,10 @@ Um diese lizenzbasierten Gebühren Ihrer Rechnung zuzuordnen, addieren Sie die S
 | Lade Beschreibung (Spalte chargetype in der Abstimmungs Datei) | Erklärung der Abrechnung |
 | ------------------------------------------------------------- | ------------------ |
 | Aktivierungsgebühr | Der Betrag, der dem Kunden in Rechnung gestellt wird, wenn er das Abonnement nach dem Kauf verwendet. |
-| Stornierungsgebühr | Anteilsmäßig an den Kunden abgezahlte Gebühren, wenn die zugeordneten Arbeitsplätze geändert werden. |
-| Instanzangleich anbrechen | Anteilsmäßig aufgesetzte Gebühren wurden abgebrochen, wenn der Kunde mit monatlichem Abonnement das Abonnement angehalten hat und die zugeordneten Arbeitsplätze innerhalb desselben |
+| Stornierungsgebühr | Anteilsmäßig an den Kunden abgezahlte Gebühren, wenn die zugeordneten Lizenzen geändert werden. |
+| Instanzangleich anbrechen | Anteilsmäßig abgeänderte Gebühren werden abgebrochen, wenn der Kunde mit monatlichem Abonnement das Abonnement angehalten hat und die zugeordneten Lizenzen innerhalb desselben Monats |
 | Gebühr für Zyklus | Regelmäßige Gebühren für ein Abonnement. |
-| Anteiliger Zyklus für Instanz | Anteilsmäßig abgeänderte Gebühren vom Kunden, wenn die zugeordneten Arbeitsplätze geändert werden. |
+| Anteiliger Zyklus für Instanz | Anteilsmäßig abgeänderte Gebühren vom Kunden, wenn zugehörige Lizenzen geändert werden. |
 | Gebühren bei Stornierung anteilig zuordnen | Anteilsmäßig abgenommene Rückerstattung für den nicht genutzten Dienst Anteil nach Abbruch. |
 | Anteilsmäßig Gebühren beim Konvertieren aus dem aktuellen Angebot | Anteilsmäßig anfallenden Gebühren nach der Umstellung des aktuellen monatlichen Abonnements in ein Jahresabonnement. |
 | Angleichen von Gebühren beim Konvertieren in ein neues Angebot | Anteilsmäßig anfallenden Gebühren nach der Umstellung eines monatlichen Abonnements in ein neues Jahresabonnement. |
@@ -68,7 +68,7 @@ Um diese einmaligen Gebühren Ihrer Rechnung zuzuordnen, addieren Sie die Spalte
 | addQuantity | Wird sowohl bei der Rückerstattung des ursprünglichen Kaufs als auch bei der neuen Menge nach einer Erhöhung verwendet. |
 | removeQuantity | Wird sowohl bei der Rückerstattung des ursprünglichen Kaufs als auch bei der neuen Menge nach einer Abnahme verwendet. |
 | Abbrechen | Wird verwendet, wenn ein Abonnement abgebrochen wird. |
-| Convert | Wird verwendet, wenn eine Lizenz aktualisiert wird, die Anzahl der Arbeitsplätze jedoch unverändert bleibt. |
+| Convert | Wird verwendet, wenn eine Lizenz aktualisiert wird, die Anzahl der Lizenzen jedoch unverändert bleibt. |
 
 ## <a name="usage-charges"></a>Usage Charges
 

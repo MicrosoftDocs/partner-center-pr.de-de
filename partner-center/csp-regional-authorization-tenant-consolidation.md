@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 956ed0dec2588e1cc2f697e61671308c2d86f8d0
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 4389ed675bfc7186aa19e595b14ac9200334c61c
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114404"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444929"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Anweisungen zur Mandantenkonsolidierung für regionale CSP-Autorisierung
 
@@ -34,7 +34,7 @@ ms.locfileid: "87114404"
 Mandanten können für Ihr Unternehmen konsolidiert werden. Konsolidieren Sie anhand dieser Anweisungen Mandanten für verschiedene Länder/Regionen.
 
 >[!NOTE]  
->Sie müssen alle bereitgestellten Abonnements und Arbeitsplatz Anzahlen für die einzelnen Kunden in dem Konto beachten, von dem aus Sie wechseln. Sie werden im Rahmen des Migrationsprozesses dieselben exakten Abonnements mit der gleichen Anzahl von Arbeitsplätzen unter dem neuen zentralen CSP-Konto bereitstellen. Verwenden Sie das Feature zum Exportieren der Liste, um eine Liste mit Kunden zu erstellen, die zum zentralisierten Mandanten migriert werden sollen.  Wenn die Konsolidierung fertiggestellt ist, können Sie nicht mehr auf den vorherigen Mandanten Status zurückgreifen. Möglicherweise ist auch eine Kunden Aktion erforderlich.
+>Sie müssen alle bereitgestellten Abonnements und Lizenz Anzahlen für die einzelnen Kunden in dem Konto beachten, von dem aus Sie wechseln. Sie werden im Rahmen des Migrationsprozesses dieselben exakten Abonnements mit der gleichen Anzahl von Lizenzen unter dem neuen zentralen CSP-Konto bereitstellen. Verwenden Sie das Feature zum Exportieren der Liste, um eine Liste mit Kunden zu erstellen, die zum zentralisierten Mandanten migriert werden sollen.  Wenn die Konsolidierung fertiggestellt ist, können Sie nicht mehr auf den vorherigen Mandanten Status zurückgreifen. Möglicherweise ist auch eine Kunden Aktion erforderlich.
 
 ## <a name="prepare-for-migration"></a>Vorbereiten der Migration
 
@@ -66,7 +66,7 @@ Die Kunden werden in der Kundenliste des Partners angezeigt, nachdem Sie die Ver
 
 4. Wählen Sie **Abonnement hinzufügen** aus.
 
-5. Fügen Sie die richtigen Abonnements und die korrekte Arbeitsplatzanzahl aus dem Katalog hinzu. Gleichen Sie die Angaben mit den Informationen der Partnerkonten vom Typ **Transitioning From** ab.
+5. Fügen Sie die richtigen Abonnements und Lizenz Anzahl aus dem Katalog hinzu. Gleichen Sie die Angaben mit den Informationen der Partnerkonten vom Typ **Transitioning From** ab.
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="Kundenliste":::
 

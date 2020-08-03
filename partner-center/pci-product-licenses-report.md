@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lesen Sie diesen Produktlizenz Bericht, und erfahren Sie, wie Sie mit den lizenzierten (oder Arbeitsplatz basierten) cloudprodukten verbessern, die Sie für Ihre Kunden verkaufen oder verwalten.
+description: Sehen Sie sich diesen Produktlizenz Bericht an, und erfahren Sie, wie Sie mit den lizenzierten cloudprodukten verbessern, die Sie für Ihre Kunden verkaufen oder verwalten.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 466ae67b46834ae803c7900c3bd610cfd5813ed5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1dd4dc27c17c40b76020f6233257637a387c5f81
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436659"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444840"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Bericht "Produktlizenzen" im Partner Center Insights-Dashboard
 
@@ -24,7 +24,7 @@ ms.locfileid: "86436659"
 - Berichtanzeige
 - Executive Report Viewer
 
-Der Bericht zu den Produktlizenzen enthält Lizenz Analysen für Arbeitsplatz basierte Cloud-Produkte, z. b. O365, Dynamics, M365, Power BI usw. Die hier vorgestellte Analyse ist mit der Nutzung der Lizenzen verknüpft, die Sie verkauft haben oder die Sie für Ihre Kunden verwalten. Die folgenden Abschnitte finden Sie im Bericht zu Produktlizenzen.
+Der Bericht zu den Produktlizenzen enthält Lizenz Analysen für Lizenz basierte cloudprodukte, z. b. O365, Dynamics, M365, Power BI usw. Die hier vorgestellte Analyse ist mit der Nutzung der Lizenzen verknüpft, die Sie verkauft haben oder die Sie für Ihre Kunden verwalten. Die folgenden Abschnitte finden Sie im Bericht zu Produktlizenzen.
 
 - Zusammenfassung
 - Geografische Verteilung von Lizenzen
@@ -38,7 +38,7 @@ Der Bericht zu den Produktlizenzen enthält Lizenz Analysen für Arbeitsplatz ba
 
 Der Abschnitt "Zusammenfassung" enthält eine Momentaufnahme Ansicht von Key Performance Indicator (KPIs), die den verkauften, bereitgestellten und verwendeten Cloud-Produktlizenzen zugeordnet sind. Auf diese Weise können Sie die aktive Nutzung anhand der Lizenzen nachverfolgen, die Sie an Ihre Kunden verkauft haben.
 
-- Lizenzen: die aktuelle Anzahl aller Lizenzen, die von Ihnen für Arbeitsplatz basierte cloudprodukte (z. b. O365, Dynamics, M365, Power BI usw.) verkauft oder verwaltet werden. Prozentuale Vergrößerung oder Abnahme dieser Lizenzen im ausgewählten Datumsbereich.
+- Lizenzen: aktuelle Anzahl aller Lizenzen, die von Ihnen für Lizenz basierte cloudprodukte (z. b. O365, Dynamics, M365, Power BI usw.) verkauft oder verwaltet werden. Prozentuale Vergrößerung oder Abnahme dieser Lizenzen im ausgewählten Datumsbereich.
 
 Das Micro-Diagramm zeigt den Trend für den Monatsvergleich der Lizenz Anzahl während des ausgewählten Datums Bereichs.
 

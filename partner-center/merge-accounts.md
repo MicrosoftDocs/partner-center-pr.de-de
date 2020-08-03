@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: fb54d52d77c6ea80dc2b60f2889e8404c6aca3e0
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 6c2ac5560b77528766a4d0aa068f231e0aa0bc99
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265201"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444955"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Zusammenführen Ihres Partnerkontos mit einem anderen Partnerkonto
 
@@ -65,7 +65,7 @@ Wenn Sie sich dazu entschließen, die Einladung zum Zusammenführen von Konten z
 
   - Kompetenz: das Partnerunternehmen erhält ein Paket mit Kern Vorteilen, das mit der höchsten Erreichung verbunden ist, sowie Kompetenz spezifische Vorteile, die der Partner für ein globales Partnerkonto infrage kommt.
 
-- Alle Vorteile unterliegen dem [Nutzungs Leit Faden für Microsoft Partner Network Vorteile](https://aka.ms/partner-benefits-use-guide). Beispiel: ein aktiviertes O365 E3-Token ist für zwölf (12) Monate nach der Aktivierung funktionsfähig. Nachdem ein Token für die Arbeitsplätze in einem Mandanten aktiviert wurde, werden diese Arbeitsplätze möglicherweise nicht in einen anderen Mandanten verschoben.
+- Alle Vorteile unterliegen dem [Nutzungs Leit Faden für Microsoft Partner Network Vorteile](https://aka.ms/partner-benefits-use-guide). Beispiel: ein aktiviertes O365 E3-Token ist für zwölf (12) Monate nach der Aktivierung funktionsfähig. Nachdem ein Token für Lizenzen für einen Mandanten aktiviert wurde, werden diese Lizenzen möglicherweise nicht mehr in einen anderen Mandanten verschoben.
 
 - Die MCP-ID-Zuordnungen für beide Unternehmen werden beibehalten und der PGA-MPN-ID zugeordnet.
 

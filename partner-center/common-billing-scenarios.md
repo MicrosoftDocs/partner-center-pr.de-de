@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ff289f2fd93030e3ed7055b17ad696b6700fe3aa
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dcac190570d42fa165d33226c3ad33ec836f521b
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435339"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444628"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Häufige Abrechnungs Szenarien für CSP-Programmpartner, die in Partner Center arbeiten
 
@@ -29,11 +29,11 @@ Gilt für:
 - Helpdesk-Agent
 - Vertriebsbeauftragter
 
-In diesen Themen wird erläutert, was Sie auf Ihrer Rechnung erwarten sollten, nachdem Sie neue Abonnements hinzugefügt, neue Arbeitsplätze hinzugefügt, die Anzahl der Lizenzen an ein Abonnement angepasst oder ein Abonnement gekündigt haben. Andere [Partner Center-Abrechnungs Typen](billing-different-types.md), z. b. nutzungsbasierte und Lizenz basierte Abonnements, werden unterschiedlich abgerechnet.
+In diesen Themen wird erläutert, was Sie auf Ihrer Rechnung erwarten sollten, nachdem Sie neue Abonnements hinzugefügt, die Anzahl der Lizenzen an ein Abonnement angepasst oder ein Abonnement gekündigt haben. Andere [Partner Center-Abrechnungs Typen](billing-different-types.md), z. b. nutzungsbasierte und Lizenz basierte Abonnements, werden unterschiedlich abgerechnet.
 
 | Art der Abrechnung | Behandelte Szenarien |
 | --------------- | ----------------- |
 | [Monatliche Abrechnung](common-billing-scenarios-monthly.md) | Hinzufügen neuer Abonnements, Ändern der Lizenz Menge und Anhalten von Abonnements. |
 | [Jährliche Abrechnung](common-billing-scenarios-annual.md) | Hinzufügen neuer Abonnements, Hinzufügen von Lizenzen vor dem Abrechnungsdatum, Ändern der Lizenz Menge und anhalten und erneutes Aktivieren von Abonnements. |
-| [Abrechnung für einmalige Käufe und Auswahl von wiederkehrenden Käufen](common-billing-scenarios-onetime-recurring.md) | Erwerben von Abonnements, Hinzufügen von weiteren Abonnements, hinzufügen und Entfernen von Arbeitsplätzen. |
+| [Abrechnung für einmalige Käufe und Auswahl von wiederkehrenden Käufen](common-billing-scenarios-onetime-recurring.md) | Erwerben von Abonnements, Hinzufügen von weiteren Abonnements, hinzufügen und Entfernen von Lizenzen. |
 | [Abrechnung für Lizenz basierte Saas-Abonnements](common-billing-scenarios-saas.md) | Kostenlose Testversionen für Lizenz basierte Saas-Abonnements (Software-as-a-Service). Erwerben und Abbrechen von benutzerdefinierten Abrechnungs Einheiten für SaaS-Abonnements. |

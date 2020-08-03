@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8be96bffd34cef4beb4f53f23266a389a9c9d0f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436709"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444885"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Im Partner Center Insights-Dashboard verfügbarer Leistungsbericht
 
@@ -66,7 +66,7 @@ Dieses Diagramm zeigt den monatlichen Trend von Lizenzen, die im ausgewählten D
 
 Dieses Diagramm zeigt den monatlichen Trend von Visual Studio-Abonnements, die für Abonnements aktiviert sind, die Sie im Rahmen des ausgewählten Datums Bereichs zugewiesen haben.
 
-Wählen Sie oben im Diagramm eine Registerkarte aus, um den Trend eines bestimmten Visual Studio-Abonnements anzuzeigen, das Sie als Vorteile erhalten. Die Spalten im Diagramm repräsentieren die für das Abonnement genutzten Arbeitsplätze. Das Liniendiagramm stellt die Gesamt Arbeitsplätze dar, die für das Abonnement zugewiesen wurden.
+Wählen Sie oben im Diagramm eine Registerkarte aus, um den Trend eines bestimmten Visual Studio-Abonnements anzuzeigen, das Sie als Vorteile erhalten. Die Spalten im Diagramm repräsentieren die für das Abonnement genutzten Lizenzen. Das Liniendiagramm stellt die Gesamt Lizenzen dar, die für das Abonnement zugewiesen wurden.
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio-Abonnements":::
 

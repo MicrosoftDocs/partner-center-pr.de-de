@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a76c433f79b6c060c284e8a058c50f50a6b9628c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 993fc3a3e6ff55c392b617b265215d95f7bd7513
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377224"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444556"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Verschieben Lizenz basierter Kunden aus anderen Kanälen & Partnern in das Cloud Solution Provider-Programm
 
@@ -28,7 +28,7 @@ Wenn Ihr Kunde mehrere Partner beauftragen möchte, übertragen Sie seine Abonne
 
 1. Wählen Sie im Menü „Partner Center“ die Option **Kunden** und anschließend **Vertriebspartnerschaft beantragen** aus. Um Unterstützung für Konten mit mehreren Kanälen bereitzustellen, gehen Sie gleichermaßen vor.
 
-2. Nachdem der Kunde Ihre Einladung akzeptiert hat, können Sie die gewünschten Abonnements und Arbeitsplätze für den Kunden bereitstellen (z. b. das gleiche Office 365-Angebot, das der Kunde zuvor gekauft hat).
+2. Nachdem der Kunde Ihre Einladung akzeptiert hat, können Sie die gewünschten Abonnements und Lizenzen für den Kunden bereitstellen (z. b. das gleiche Office 365-Angebot, das der Kunde zuvor gekauft hat).
 
 3. Der Kunde kann entweder zulassen, dass die ursprünglichen Abonnements ablaufen oder abgebrochen werden. Da jedoch keine Rückerstattungen für abgebrochene Abonnements vorhanden sind, empfiehlt es sich, zu warten, bis die Abonnements in der Nähe der natürlichen Ablaufzeit liegen.
 

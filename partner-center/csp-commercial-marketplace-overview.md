@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 044f541e519a0f2789f340e9fc7b9fb558e6bb38
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435069"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444940"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Übersicht über den kommerziellen Marketplace im Partner Center
 
@@ -37,11 +37,11 @@ Als Partner im CSP-Programm können Sie Partner Center verwenden, um viele ISV-L
 
 Wenn Sie Partner im CSP-Programm sind, gibt es viele kommerzielle Marketplace-Aktivitäten, die Sie möglicherweise in Bezug auf ISV-Angebote durchführen möchten. Weitere Informationen zu den einzelnen Aktivitäten finden Sie in der folgenden Tabelle.
 
-|**Zweck**  |**Lesen**   |
+|**Wenn Sie**  |**Lesen**   |
 |:------------------------------------|:------------------|
 |Erfahren Sie, wie Sie verfügbare Angebote, Preise, Produktdetails oder Kontaktinformationen des Herausgebers anzeigen oder suchen. | [Angebote entdecken](csp-commercial-marketplace-discover.md) | 
 |Erfahren Sie, wie Sie ein Angebot erwerben und bereitstellen.   | [Kaufangebote](csp-commercial-marketplace-purchase.md)   | 
-|Erfahren Sie, wie Sie ein Abonnement kündigen oder erneuern oder Arbeitsplätze hinzufügen oder entfernen.  | [Verwalten von Angeboten](csp-commercial-marketplace-manage.md) |
+|Erfahren Sie, wie Sie ein Abonnement kündigen oder erneuern oder Lizenzen hinzufügen oder entfernen.  | [Verwalten von Angeboten](csp-commercial-marketplace-manage.md) |
 |Erfahren Sie, wie die Abrechnung für kommerzielle Marketplace-Käufe funktioniert. | [Grundlegendes zur Abrechnung](csp-commercial-marketplace-billing.md) |
 |Erfahren Sie, wer für welche Arten von Unterstützung für ISV-Käufe zuständig ist. | [Unterstützung](csp-commercial-marketplace-support.md) |
 |Erfahren Sie mehr über Verträge und Zuständigkeiten von CSP-Partnern und ISVs im kommerziellen Marketplace | [Grundlegendes zum Vertrag](csp-commercial-marketplace-contracting.md) |
@@ -73,7 +73,7 @@ In den folgenden Tabellen erfahren Sie, wo Sie eine bestimmte Marketplace-Aktivi
 |So finden Sie verfügbare Angebote und suchen nach verfügbaren angeboten  | Partner Center-Dashboard oder Partner Center-APIs  |
 |So erwerben Sie ein Angebot  | Partner Center-Dashboard oder Partner Center-APIs  |
 |So stellen Sie ein erworbenes Angebot bereit (Konto Einrichtung, Software Verwaltung oder Bereitstellung im Aad-Mandanten des Kunden)  | System oder Website des ISV-Verlegers  |
-|So können Sie Angebots Abonnements Abbrechen/erneuern oder Arbeitsplätze hinzufügen/entfernen | Partner Center-Dashboard oder Partner Center-APIs  |
+|So können Sie Angebots Abonnements Abbrechen/erneuern oder Lizenzen hinzufügen/entfernen | Partner Center-Dashboard oder Partner Center-APIs  |
 |So erstellen Sie Benutzer oder verwalten Berechtigungen  | System oder Website des ISV-Verlegers  |
 
 |**Für nutzungsbasierte Angebote von ISVs**  |**Verwenden Sie**  |
@@ -81,7 +81,7 @@ In den folgenden Tabellen erfahren Sie, wo Sie eine bestimmte Marketplace-Aktivi
 |So finden Sie verfügbare Angebote und suchen nach verfügbaren angeboten  | Partner Center-Dashboard, Partner Center-APIs oder Azure-Portal  |
 |So erwerben Sie ein Angebot  | Azure-Portal  |
 |So stellen Sie ein erworbenes Angebot bereit (Konto Einrichtung, Software Verwaltung oder Bereitstellung im Aad-Mandanten des Kunden)  | Azure-Portal  |
-|So können Sie Angebots Abonnements Abbrechen/erneuern oder Arbeitsplätze hinzufügen/entfernen | Azure-Portal  |
+|So können Sie Angebots Abonnements Abbrechen/erneuern oder Lizenzen hinzufügen/entfernen | Azure-Portal  |
 |So erstellen Sie Benutzer oder verwalten Berechtigungen  | Azure-Portal  |
 
 ## <a name="next-steps"></a>Nächste Schritte

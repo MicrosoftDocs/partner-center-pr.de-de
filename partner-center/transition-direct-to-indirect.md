@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1c3c3384516f7ff5d7780ac69ccaf635ab7e39fa
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 057c0549d05fc560a325c20a31e64f516d0d7ff8
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944497"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87445003"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer
 
@@ -333,7 +333,7 @@ Der Übergangs Partner sollte folgende Aktionen ausführen:
 
    1. Wenn es sich um ein Azure-Abonnement (MS-AZR-0145p) handelt, wird es nicht mehr aufgelistet.
 
-   2. Handelt es sich hierbei um ein Arbeitsplatz basiertes Abonnement (Office 365, Dynamics, InTune), wird es mit dem Status angehalten **aufgeführt.**
+   2. Wenn dies ein Lizenz basiertes Abonnement (Office 365, Dynamics, InTune) ist, wird es mit dem Status angehalten aufgeführt **.**
 
    :::image type="content" source="images/direct/direct13.png" alt-text="Abonnement angehalten":::
 
@@ -343,9 +343,9 @@ Der Übergangs Partner sollte folgende Aktionen ausführen:
 
 - **Auf dasselbe Abonnement kann nicht von mehreren Übertragungsanforderungen verwiesen werden.** Nachdem Sie eine Übertragungs Anforderung erstellt haben, die ein vorhandenes Abonnement enthält, können Sie keine zusätzlichen Übertragungsanforderungen einschließlich desselben Abonnements erstellen, bis die erste Übertragungs Anforderung abgebrochen wurde.
 
-- **Add-ons für Arbeitsplatz basierte Abonnements müssen zusammen mit Ihrem Basis Abonnement übertragen werden.** Wenn Sie beim Erstellen einer Übertragungs Anforderung ein vorhandenes Abonnement mit einem oder mehreren Add-ons auswählen, werden die Add-ons automatisch in die Übertragungs Anforderung eingeschlossen.
+- **Add-ons für Lizenz basierte Abonnements müssen zusammen mit dem Basis Abonnement übertragen werden.** Wenn Sie beim Erstellen einer Übertragungs Anforderung ein vorhandenes Abonnement mit einem oder mehreren Add-ons auswählen, werden die Add-ons automatisch in die Übertragungs Anforderung eingeschlossen.
 
-- **Die Anzahl der Arbeitsplatz Änderungen an einem Abonnement wird in der vorhandenen Übertragungs Anforderung nicht widergespiegelt.** Nachdem Sie eine Übertragungs Anforderung erstellt haben, die ein vorhandenes Abonnement enthält, sollten Sie das Aktualisieren der Arbeitsplatz Menge des Abonnements (oder der zugehörigen Addons) vermeiden. Wenn Sie dies tun, wird die neue Menge in der Übertragungs Anforderung nicht berücksichtigt. Nachdem der indirekte Anbieter die Übertragungs Anforderung akzeptiert hat, weist das resultierende Abonnement die alte Menge auf. Wenn Sie möchten, dass die neue Menge an den indirekten Anbieter übertragen wird, müssen Sie die vorhandene Übertragungs Anforderung abbrechen und eine neue erstellen.
+- **Die Lizenz Anzahl Änderungen an einem Abonnement werden in der vorhandenen Übertragungs Anforderung nicht widergespiegelt.** Nachdem Sie eine Übertragungs Anforderung erstellt haben, die ein vorhandenes Abonnement enthält, sollten Sie die Lizenz Menge des Abonnements (oder der zugehörigen Addons) nicht mehr aktualisieren. Wenn Sie dies tun, wird die neue Menge in der Übertragungs Anforderung nicht berücksichtigt. Nachdem der indirekte Anbieter die Übertragungs Anforderung akzeptiert hat, weist das resultierende Abonnement die alte Menge auf. Wenn Sie möchten, dass die neue Menge an den indirekten Anbieter übertragen wird, müssen Sie die vorhandene Übertragungs Anforderung abbrechen und eine neue erstellen.
 
 - **Nicht alle Käufe können mithilfe der Self-served-Abonnement Übertragung übertragen werden.** Derzeit können Sie mit diesem Feature nur O365-Abonnements und Azure PAYG-Abonnements (MS-AZR-0145p) übertragen. Weitere Käufe einschließlich Azure-Pläne, reservierte Azure-Instanzen, Begriffs basierte Abonnements und Saas-Abonnements für Azure Marketplace werden nicht unterstützt. Der Grund für das übertragen eines Abonnements auf der Seite "Übertragungs Anforderung senden" wird angezeigt. Um diese Abonnements zu übertragen, müssen Sie [das vorhandene Abonnement Abbrechen](create-a-new-subscription.md#suspend-or-cancel-a-subscription) und ein neues Angebot für Kunden über den indirekten Anbieter erwerben.
 

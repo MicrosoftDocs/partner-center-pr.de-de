@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17cdb74dfded2c9c10cc4d648d8941b25a27e57b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3600dac6d5ad7f6f5994cddaf771c0397ec4cf7f
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434379"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468345"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Lizenz basierte Abrechnung in Partner Center
 
@@ -30,7 +30,7 @@ Wenn Sie Produkte oder Onlinedienste in Partner Center kaufen, die **Lizenzen**b
 
 ## <a name="license-billing-frequency"></a>Lizenz Abrechnungs Häufigkeit
 
-Sie können auswählen, dass Lizenzen einmal monatlich (**monatliche Abrechnung**) oder einmal pro Jahr (**jährliche Abrechnung**) in Rechnung gestellt werden. Weitere Informationen zur **Abrechnungs Häufigkeit**finden Sie [unter "monatliche und jährliche Abrechnungs Unterschiede](billing-annual-monthly.md)".
+Sie können auswählen, dass Lizenzen einmal monatlich (**monatliche Abrechnung**) oder einmal pro Jahr (**jährliche Abrechnung**) in Rechnung gestellt werden. 
 
 ## <a name="billing-date-for-licenses"></a>Abrechnungsdatum für Lizenzen
 
@@ -55,14 +55,12 @@ Wenn Sie ein Abonnement in Monaten 2-12 sperren, werden Sie auf anteilig abgerec
 
 ## <a name="license-renewal"></a>Lizenz Erneuerung
 
-Alle lizenzbasierten Abonnements werden 12 Monate nach dem Zahlungspflichtigen Termin automatisch in den Tarif eingeteilt.
+Alle lizenzbasierten Abonnements werden 12 Monate nach der kostenpflichtigen Laufzeit automatisch verlängert.
 
 ## <a name="next-steps"></a>Nächste Schritte
 
 - [Übersicht über die Abrechnung im Partner Center](billing-basics.md)
 
 - [Abrechnungsarten in Partner Center](billing-different-types.md)
-
-- [Unterschiede zwischen monatlicher und jährlicher Abrechnung](billing-annual-monthly.md)
 
 - [Hauptartikel zu Abrechnung und Steuer Artikeln](billing.md)

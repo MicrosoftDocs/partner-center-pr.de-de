@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb6f89bca86feb1f2c3d2b7d536a810bdb5173e3
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87113981"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444780"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Eingeschränkte direkte Rechnungs Funktionen und die Anforderungen für direkte CSP-Abrechnungspartner  
 
@@ -43,9 +43,9 @@ Wenn Ihre direkt Rechnung eingeschränkt ist, können Sie keine neuen Käufe meh
 
 - Azure-Abonnements
 
-- Arbeitsplatz basierte Abonnements
+- Lizenzbasierte Abonnements
 
-- Fügen Sie vorhandenen Arbeitsplatz basierten Abonnements neue Add-ons hinzu.
+- Hinzufügen von neuen Add-ons zu vorhandenen lizenzbasierten Abonnements
 
 - Erstellen Sie einmalige Käufe von Software-und Reservierungs Produkten (z. b. Software Abonnements, unbefristete Software und reservierte Azure-VM-Instanzen).
 
@@ -55,9 +55,9 @@ Vorhandene Direktabrechnungsabonnements sind nicht betroffen. Sie bleiben gülti
 
 - Aussetzen vorhandener Abonnements
 
-- Anpassen der Anzahl der Arbeitsplätze vorhandener Arbeitsplatz basierter Abonnements
+- Anpassen der Lizenz Anzahl vorhandener Lizenz basierter Abonnements
 
-- Anpassen der Arbeitsplatzanzahl für vorhandene Abonnement-Add-Ons. 
+- Passen Sie die Lizenz Anzahl vorhandener Add-ons an ein Abonnement an. 
  
     >[!Note] 
     >Sie können vorhandenen Abonnements keine neuen Add-ons hinzufügen, da diese als neuer Kauf behandelt werden.

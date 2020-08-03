@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baa61b2f22f7b585f9764ea33d968c35d7360b53
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943677"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468346"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Erstellen einer Kunden Zuordnung über das cpor-Modell – Verwendung für Microsoft 365-und Dynamics 365-Kunden
 
@@ -30,9 +30,9 @@ Zum Vervollständigen eines Anspruchs benötigen Sie die folgenden Informationen
 
 - Die **MPN-ID** für die Entität, die den Anspruch macht.
 
-- **Domänen Name** des Kunden [Suchen](find-customer-domain-name.md)
+- **Domänen Name** des Kunden [Suchen](find-domain-name.md)
 
-- Verzeichnis- **ID** oder Mandanten- **ID** des Kunden [Suchen](find-customer-domain-name.md)
+- Verzeichnis- **ID** oder Mandanten- **ID** des Kunden [Suchen](find-domain-name.md)
 
 - Der **Lösungs Bereich**, z. b. Business Applications oder Microsoft 365
 
@@ -66,9 +66,9 @@ Außerdem sollten Sie die folgenden Punkte kennen:
 
 2. Wählen Sie am oberen Rand der Seite Kunden Zuordnungen die Option **+ Customer Association**aus.
 
-3. Wählen Sie die **MPN-ID** des Partner Standorts aus, der dem Kunden zugeordnet werden soll, und fügen Sie dann den Domänen Namen und die Verzeichnis-ID des Kunden hinzu. [Wo sind diese?](find-customer-domain-name.md)
+3. Wählen Sie die **MPN-ID** des Partner Standorts aus, der dem Kunden zugeordnet werden soll, und fügen Sie dann den Domänen Namen und die Verzeichnis-ID des Kunden hinzu. [Suchen Sie nach diesem](find-domain-name.md)
 
-4. Klicken Sie auf **Weiter**.
+4. Wählen Sie **Weiter**.
 
 5. Wählen Sie den projektmappenbereich und die **Aktivität**aus. **Solution area** 
 

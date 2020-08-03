@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a940370e50579e09cd24467145decbc6ec4f98a
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377774"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444908"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Bieten Sie Kunden 30-tägige kostenlose Testversionen von Microsoft-Produkten an.
 
@@ -45,9 +45,9 @@ Zurzeit sind **keine kostenlosen** Testversionen für behördliche Angebote, Sch
 
 ## <a name="licenses-for-free-trial-offers"></a>Lizenzen für kostenlose Testangebote
 
-Alle kostenlosen Testversionen bieten 25 Lizenzen. Diese Anzahl kann während des Testzeitraums nicht geändert werden. Sie können keine Arbeitsplätze in der kostenlosen Testversion hinzufügen oder entfernen. Nachdem die Testversion in ein kostenpflichtiges Abonnement konvertiert wurde, können Sie dem Abonnement weitere Lizenzen hinzufügen.
+Alle kostenlosen Testversionen bieten 25 Lizenzen. Diese Anzahl kann während des Testzeitraums nicht geändert werden. Sie können keine Lizenzen in der kostenlosen Testversion hinzufügen oder entfernen. Nachdem die Testversion in ein kostenpflichtiges Abonnement konvertiert wurde, können Sie dem Abonnement weitere Lizenzen hinzufügen.
 
-Testlizenzen und Arbeitsplätze sollten Benutzern auf die gleiche Weise zugewiesen werden, wie kostenpflichtige Dienst Lizenzen zugewiesen werden.
+Testlizenzen sollten Benutzern auf die gleiche Weise zugewiesen werden, wie die Lizenz für kostenpflichtige Dienste zugewiesen wird.
 
 ## <a name="sign-customers-up-for-trials"></a>Registrieren von Kunden für Testversionen
 
@@ -109,7 +109,7 @@ Kostenlose Testversionen können sowohl für monatliche als auch für jährlich 
 
 Das Startdatum des Abonnements basiert auf dem Konvertierungs Datum. Wenn die kostenlose Testversion in ein kostenpflichtiges Angebot mit jährlicher Abrechnung umgewandelt wird, liegt das Verlängerungsdatum des Abonnements zwölf Monate nach dem Datum der Umwandlung. Wird die kostenlose Testversion in ein kostenpflichtiges Angebot mit monatlicher Abrechnung umgewandelt, liegt das Verlängerungsdatum des Abonnements zwölf Monate nach dem auf das Datum der Umwandlung folgenden Abrechnungsdatum.
 
-### <a name="invoices"></a>Invoices
+### <a name="invoices"></a>Rechnungen
 
 In Ihrer Rechnung oder lizenzbasierten Abstimmungs Datei werden keine kostenlosen Testversionen aufgeführt. Kostenlose Testversionen werden nur auf der Rechnung und der lizenzbasierten Abstimmungs Datei angezeigt, nachdem Sie eine kostenlose Testversion in ein kostenpflichtiges Abonnement konvertiert haben. Das konvertierte Abonnement wird auf die gleiche Weise wie jedes neue Abonnement angezeigt.
 

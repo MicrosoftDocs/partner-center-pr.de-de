@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b83116bf4b32754c1a8f270136f44e9120f034b5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c8ae3334685ee74fabd3be99d53b1f90d18026e4
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435589"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468518"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>Abrechnungs Typen in Partner Center: umfasst Lizenz basierte, nutzungsbasierte und einmalige Abrechnung.
 
@@ -34,8 +34,6 @@ ms.locfileid: "86435589"
 Die Abrechnung von Partner Center-Käufen erfolgt in Abhängigkeit von den Produkten, Lösungen und Diensten, die Sie im Namen Ihrer Kunden erwerben. Die Abrechnungs Typen lauten wie folgt:
 
 - [**Lizenz basierte Abrechnung**](license-based-billing.md), bei der die Abrechnung pro Lizenz erfolgt (nicht nach Lizenz Verwendung).
-- [**Nutzungsbasierte Abrechnung**](usage-based-billing.md), bei der Ihnen monatliche Nutzungsgebühren in Rechnung gestellt werden.
-- Berechnen Sie [**einmalig und wählen Sie wiederkehrende Gebühren**](one-time-and-recurring-billing.md)aus, bei denen Sie für einen vordefinierten Begriff für ISV-Produkte von Microsoft und Drittanbietern bezahlen.
 - Abrechnung für Lizenz basierte Saas-Transaktionen (Weitere Informationen finden Sie unter [**häufige Abrechnungs Szenarien für SaaS-Gebühren**](common-billing-scenarios-saas.md)).
 
 Je nach den Typen der Produkte, die Sie für Ihre Kunden erwerben, gibt es möglicherweise unterschiedliche Abrechnungszeiträume, die an verschiedenen Tagen desselben Monats in Rechnung gestellt werden.

@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444783"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479113"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Informationen zu den verschiedenen Lade Typen in Partner Center-Abstimmungs Dateien
 
@@ -52,8 +52,7 @@ Um diese lizenzbasierten Gebühren Ihrer Rechnung zuzuordnen, addieren Sie die S
 | Gebühren bei Stornierung anteilig zuordnen | Anteilsmäßig abgenommene Rückerstattung für den nicht genutzten Dienst Anteil nach Abbruch. |
 | Anteilsmäßig Gebühren beim Konvertieren aus dem aktuellen Angebot | Anteilsmäßig anfallenden Gebühren nach der Umstellung des aktuellen monatlichen Abonnements in ein Jahresabonnement. |
 | Angleichen von Gebühren beim Konvertieren in ein neues Angebot | Anteilsmäßig anfallenden Gebühren nach der Umstellung eines monatlichen Abonnements in ein neues Jahresabonnement. |
-| Anteilige Gebühren beim Kauf | Der Typ der Gebühr für ein Abonnement bei Verwendung der jährlichen Abrechnung. |
-| Kaufgebühr | Der Gebühr für ein Abonnement, wenn die monatliche Abrechnung verwendet wird. |
+| Anteilige Gebühren beim Kauf | Der Gebühr für ein Abonnement, wenn die monatliche oder jährliche Abrechnung verwendet wird. |
 | Anteilige Gebühr bei Verlängerung | Anteilsmäßig Kosten bei der Erneuerung des Abonnements. |
 | Verlängerungsgebühr | Gebühr für Verlängerung eines Abonnements |
 | Anteilige Gebühren beim Aktivieren | Anteilsmäßig an der Aktivierung bis zum Ende des Abrechnungszeitraums. |

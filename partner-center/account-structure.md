@@ -3,18 +3,18 @@ title: Zwei Ebenen von MPN-Partnerkonten
 ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: MPN-Partner können sich über die beiden Konto Ebenen in Partner Center, das globale Partnerkonto (Partner Global Account, PGA) und das Partner Location Account (PLA) informieren.
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 326f46af86c890c6f34460669ec167399515014d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4fabdc52056b4b4bd9fe612dfa2d299a357be213
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436409"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527436"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>Partner Center verfügt über zwei Konten für MPN-Partner.
 

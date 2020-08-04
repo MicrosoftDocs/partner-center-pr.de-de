@@ -1,6 +1,6 @@
 ---
-title: Azure-VM-Größenanpassung für die maximale Reservierungs Nutzung
-ms.topic: article
+title: Azure-VM-Größe für die maximale Reservierungsnutzung
+ms.topic: how-to
 ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 706021c39e136954d3791856da12c828cbdf6389
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 48f7fb317d35c87eaf3d8fddc7a5da907178ef36
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435739"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527446"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Microsoft Azure VM-Größe für die maximale Reservierungsnutzung
 
@@ -101,8 +101,8 @@ Nachstehend finden Sie eine Anleitung für jede dieser Vorgehensweisen.
     >[!NOTE]
     >Nutzungsdaten können um bis zu 8 Stunden verzögert sein.
 
-    a) Wenn die Nutzung der Reservierung 100% beträgt, erhält der Kunde alle möglichen Einsparungen, die der reservierte Kauf bereitstellen kann.
-    b) Wenn die Nutzung der Reservierung 0% beträgt, wird der Rabatt nicht auf einen virtuellen Computer angewendet.
+    ein. Wenn die Nutzung der Reservierung 100% beträgt, erhält der Kunde alle möglichen Einsparungen, die der reservierte Kauf bereitstellen kann.
+    b. Wenn die Nutzung der Reservierung 0% beträgt, wird der Rabatt nicht auf einen virtuellen Computer angewendet.
     c. Wenn die Reservierungs Nutzung zwischen 1% und 99% liegt, gibt es nicht genutzte Vorteile.
 
 5. Um dieses Problem zu vermeiden, sollten Sie die richtige VM-Größe festlegen, um die computingressourcen der Kunden vor dem Erwerb zu unterstützen

@@ -1,21 +1,31 @@
 ---
-title: Hinzufügen von Clients mit Office 365-Test angeboten
+title: Gewinnen von Kunden mit Office 365-Testangeboten
 ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie autorisierte Microsoft-Berater Ihre Office 365-Abonnements vergrößern können. Erstellen und senden Sie Office 365-Einladungen und Kaufangebote an Clients.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c1dc96c2947da8ab37787e406d40400071a3b31
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436259"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527006"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Ratgeber: Erstellen Sie Ihre Client Basis mit Office 365-Einladungen und Kauf angeboten
+
+**Zielgruppe**
+
+- Partner Center
+ 
+**Geeignete Rollen**
+
+- Berater
+
 
 Als autorisierter Microsoft Advisor bietet **Partner Center** Ihnen die Möglichkeit, Ihre Client Basis zu erweitern und dauerhafte Beziehungen mit ihren Kunden zu erstellen. Mit Partner Center können Sie die Einladungen und Kaufangebote ihrer Kunden testen und Ihnen Delegierte Verwaltungsdienste anbieten, abhängig von den Diensten, die Sie zur Verfügung stellen.
 

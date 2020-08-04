@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22581771f05c88ec2ad097890959dab6d6e27962
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 160191b4c881ab4b143c6a5bc3241e3fe26c701f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436179"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526946"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Erhalten Sie Daten zur Leistung Ihrer Kunden und Azure-Abonnements.
 
@@ -31,6 +31,8 @@ ms.locfileid: "86436179"
 - Vertriebsbeauftragter
 
 Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Azure-Nutzung**, um Ihre Erfolge sowie die Bereiche zu identifizieren, die mehr Aufmerksamkeit erfordern. Nutzen Sie diese Informationen bei der Planung neuer Geschäftsziele.
+
+Um zur Azure- **Nutzung**zu gelangen, melden Sie sich beim Partner Center- [Dashboard](https:/partner.microsoft.com/dashboard)an. Wählen Sie im Partner Center-Menü **Analytics** aus, und wählen Sie dann **Azure Usage**aus.
 
 > [!NOTE]
 > Azure Usage Analytics ist nur für Partner im Cloud Solution Provider-Programm verfügbar.
@@ -67,3 +69,7 @@ In diesem Abschnitt wird das vorhergesagte Änderungs Risiko für Azure-Abonneme
 ## <a name="azure-subscription-retention"></a>Beibehaltene Azure-Abonnements
 
 - Anzahl der Abonnements, die verlängert wurden
+
+ ## <a name="next-steps"></a>Nächste Schritte
+
+- [Erwerben Sie den Azure-Plan für Kunden & greifen Sie auf die neuesten Azure-Dienste zu den Sätzen für die Bezahlung mit Sätzen zu.](purchase-azure-plan.md)

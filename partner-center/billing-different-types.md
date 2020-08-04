@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8ae3334685ee74fabd3be99d53b1f90d18026e4
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 87df060346e380a17030e6d1dc83ff5746f55eb0
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468518"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527606"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>Abrechnungs Typen in Partner Center: umfasst Lizenz basierte, nutzungsbasierte und einmalige Abrechnung.
 
@@ -39,3 +39,7 @@ Die Abrechnung von Partner Center-Käufen erfolgt in Abhängigkeit von den Produ
 Je nach den Typen der Produkte, die Sie für Ihre Kunden erwerben, gibt es möglicherweise unterschiedliche Abrechnungszeiträume, die an verschiedenen Tagen desselben Monats in Rechnung gestellt werden.
 
 Wenn Sie eine monatliche Rechnungsstellung gewählt oder wenn Sie nutzungsbasierte Produkte erworben haben, die monatlich abgerechnet werden, ist Ihr monatliches Abrechnungsdatum der Tag des Monats, den Sie bei der Erstellung Ihres CSP-Kontos im Partner Center ausgewählt haben. Nachdem Sie Ihr CSP-Konto erfolgreich erstellt haben, sendet Ihnen Microsoft eine Bestätigungs-E-Mail mit Ihrem Abrechnungsdatum. Dieses Datum kann nach seiner Erstellung nicht mehr geändert werden.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Informationen zu Ihrer Rechnung und Abstimmungs Datei: erfahren Sie, wie Sie diese im Partner Center finden.](read-your-bill.md)

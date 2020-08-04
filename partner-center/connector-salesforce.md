@@ -1,6 +1,6 @@
 ---
 title: Der Co-Selling-Connector für das Salesforce CRM Partner Center
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ description: Synchronisieren Ihrer Verweise in Partner Center mit Ihrem Salesfor
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a22587f5b555281cae6f557acfc2695ba92727e
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 4f636da49504c69c1e0e44c176fb76a4d7f8a78e
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302377"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527833"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Co-Selling-Connector für Salesforce CRM – Übersicht
 

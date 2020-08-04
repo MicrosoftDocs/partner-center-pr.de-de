@@ -1,6 +1,6 @@
 ---
 title: Verwalten von Benutzern in Kundenkonten
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18b1fd689db84d20b62389841c5e5474d97ff1cb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a3febadda51094d443d83d17b640b1744a130335
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435959"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527676"
 ---
 # <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>Benutzer Verwaltungsaufgaben für Kundenkonten im Partner Center
 
@@ -113,7 +113,7 @@ Wenn Sie dieses Konto wiederherstellen müssen, finden Sie es auf der Registerka
 
     Alle ausgewählten Benutzerkonten werden erneut auf der Seite **Benutzer und Lizenzen** angezeigt.
 
-## <a name="related-topics"></a>Verwandte Themen
+## <a name="related-topics"></a>Zugehörige Themen
 
 
 [Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer](bulk-license-provisioning-for-multiple-users.md)

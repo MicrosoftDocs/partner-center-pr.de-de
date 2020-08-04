@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eba88c5380254929809d27ff2b877a5ee72df239
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 34b74d6039e0fb184d7fcb7f3a5b24717d593ed3
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114804"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527586"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Überprüfen der Dienst Integrität für einen Kunden, der ein mögliches Dienst Problem oder einen Ausfall meldet
 
@@ -42,9 +42,11 @@ Wenn ein Kunde mit einem Dienst Probleme hat, sollten Sie zuerst die Dienstinteg
  
 Während eines Dienstausfalls bietet Microsoft regelmäßige Updates, während wir daran arbeiten, das Problem zu beheben. Diese Benachrichtigungen werden auch im Microsoft Azure-Portal oder im Microsoft 365 Admin Center angezeigt.
 
-Wenn das Problem nach dem Ende des Dienst Ausfalls weiterhin auftritt, senden Sie eine Service Request. Siehe [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md).
+## <a name="next-steps"></a>Nächste Schritte 
 
-Microsoft 365 und Microsoft Azure jeweils APIs bereitstellen [, mit denen Partner Echtzeitdienst](get-automated-service-notifications-with-our-apis.md)Integrität, Nachrichten Center Kommunikation und geplante Wartungs Ereignisse abrufen können.
+- Wenn das Problem nach dem Ende des Dienst Ausfalls weiterhin auftritt, senden Sie eine Service Request. Siehe [Melden von Problemen im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md).
+
+- Microsoft 365 und Microsoft Azure jeweils APIs bereitstellen [, mit denen Partner Echtzeitdienst](get-automated-service-notifications-with-our-apis.md)Integrität, Nachrichten Center Kommunikation und geplante Wartungs Ereignisse abrufen können.
 
  
 

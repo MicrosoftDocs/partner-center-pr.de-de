@@ -2,18 +2,18 @@
 title: Verwalten von Kundenzuordnungen
 description: Informieren Sie sich über wichtige Prozesse und Zeitachsen zum Verwalten von Ansprüchen von Kunden Zuordnungen (cpor).
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-ms.topic: article
+ms.subservice: partnercenter-incentives
+ms.topic: how-to
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: eef3ac8253c0507b5fd5fc24cc961f45518f6da2
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 23d2694cbd78de0d6db7669b33c793c535594978
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114788"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545991"
 ---
 # <a name="manage-customer-associations"></a>Verwalten von Kundenzuordnungen
 
@@ -52,7 +52,7 @@ Dies sind die Statuswerte und ihre Bedeutung:
 
 | Anspruchsstatus | Bedingung für Anzeige |
 | ------ | ----------- | 
-|  Bearbeiten  | Ihr cpor Association-Anspruch wurde erstellt. Sie verbleibt in diesem Status, bis Sie das Dokument für die Beweis Ausführung hochladen und den Anspruch zur Genehmigung einreichen.   |
+|  Bearbeitung läuft  | Ihr cpor Association-Anspruch wurde erstellt. Sie verbleibt in diesem Status, bis Sie das Dokument für die Beweis Ausführung hochladen und den Anspruch zur Genehmigung einreichen.   |
 |  Gesendet  | Der Partner hat seinen cpor Association-Anspruch erfolgreich übermittelt, aber Microsoft hat den Überprüfungsprozess noch nicht gestartet.   |
 |  Wird überprüft  | Microsoft hat mit der Überprüfung ihrer Poe-Dokumentation begonnen. Wir kontaktieren Sie möglicherweise, um weitere Informationen zu erhalten. Die Überprüfungsprozess-SLA ist fünf Werktage.  |
 |  Rejected (Abgelehnt)  | Ihr Poe war unzureichend, oder Sie reagierten nicht innerhalb von fünf Werktagen gemäß den Poe-Überprüfungs Richtlinien, und der Anspruch wurde verweigert.   |

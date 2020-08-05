@@ -1,6 +1,6 @@
 ---
 title: Verkaufen an spezielle Branchen
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 849c7fc92a4ca88fbddf5e8aa3c95e6ac60ff984
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 863084a34a35c887b18a58231ac86b45e3acd03f
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947405"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545531"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Verkauf an spezialisierte Branchen wie Bildungs-, gemeinnützige und behördliche Benutzer
 
@@ -36,7 +36,7 @@ Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z. B
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Education   |Keine   | Sie müssen ein [qualifizierter Benutzer von Bildungsangeboten](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) sein.   |
 |Regierung   |Um Azure zu verkaufen, registrieren Sie sich mit dem [cloudvalidierungsformular der Microsoft US Government-Cloud](https://azuregov.microsoft.com/csp). Wenn Sie lizenzbasierte Abonnements an Behörden verkaufen möchten, ist keine Qualifikation erforderlich.|   Keine|
-|Gemeinnützig  |Keine<br/> Sie benötigen einen Azure Active Directory-Mandanten für gemeinnützige Organisationen.<br/> Unter [Sonderangebote für gemeinnützige Organisationen](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf) finden Sie weitere Informationen.   |Melden Sie sich über das [Microsoft-Programm für gemeinnützige Organisationen](https://nonprofit.microsoft.com/#/register) an, um sich zu qualifizieren.   |
+|Gemeinnützig  |Keine<br/> Sie benötigen einen Azure Active Directory-Mandanten für gemeinnützige Organisationen.<br/> Informieren Sie sich über [gemeinnützige Sonderangebote](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf).   |Melden Sie sich über das [Microsoft-Programm für gemeinnützige Organisationen](https://nonprofit.microsoft.com/#/register) an, um sich zu qualifizieren.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Überprüfen Ihrer Händlerqualifikationen
 
@@ -62,7 +62,7 @@ Nachdem Sie und der Kunde für ein Sonderangebotsprogramm qualifiziert wurden, f
 
 ## <a name="purchase-rules-for-special-segments"></a>Erwerbsregeln für spezielle Segmente
 
-Partner können nur spezielle Angebote an Kunden verkaufen, wenn Sie bestimmte Kriterien erfüllen. 
+Partner können Kunden nur dann spezielle Angebote anbieten, wenn sie bestimmte Kriterien erfüllen. 
 
 - Schulungsangebote können nur erworben werden, wenn der Kunde als Bildungseinrichtung autorisiert ist. Ein Education-Kunde kann nur Schulungs-und kommerzielle Angebote erhalten, aber weder gemeinnützige noch Government-Community Cloud (gcc).
 - Partner können nur gcc-Abonnements für gcc-Kunden erwerben. Nachdem ein Kunde ein gcc-Abonnement erworben hat, können Partner keine kommerziellen, Schulungs-und Non-Profit-Abonnements erwerben. 

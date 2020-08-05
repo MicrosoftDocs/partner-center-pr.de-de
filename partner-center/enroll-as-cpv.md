@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38905832b4263c2e61cf8384e9626b04862b9e41
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: b6258f54120e0a40f94ad74a76821c4222eb0ef4
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434714"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545891"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Registrieren als Anbieter der Systemsteuerung zur Unterstützung der Integration von CSP-Partnersystemen in Partner Center-APIs
 
@@ -38,8 +38,8 @@ Nachdem Sie sich beim Partner Center CPV-Prozess angemeldet und die CPV-Vereinba
 
 - Verwalten von mehr Instanzen fähigen Anwendungen (Hinzufügen von Anwendungen zu Azure-Portal, registrieren und Aufheben der Registrierung von Anwendungen im Partner Center).
 
->[!Note] 
->CPVs müssen ihre Anwendungen in Partner Center registrieren, um die Autorisierung für Partner Center-APIs zu erhalten. Das Hinzufügen von Anwendungen in das Azure-Portal allein reicht nicht aus, um CPV-Anwendungen für Partner Center-APIs zu autorisieren. 
+    >[!Note] 
+    >CPVs müssen ihre Anwendungen in Partner Center registrieren, um die Autorisierung für Partner Center-APIs zu erhalten. Das Hinzufügen von Anwendungen in das Azure-Portal allein reicht nicht aus, um CPV-Anwendungen für Partner Center-APIs zu autorisieren. 
 
 - Anzeigen und Verwalten Ihres CPV-Profils 
 

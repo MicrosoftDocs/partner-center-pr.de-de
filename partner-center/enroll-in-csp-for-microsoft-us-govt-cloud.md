@@ -1,6 +1,6 @@
 ---
 title: Registrieren für das CSP-Programm
-ms.topic: article
+ms.topic: how-to
 titleSuffix: Microsoft Cloud for US Government - Partner Center
 ms.date: 06/30/2020
 ms.service: partner-dashboard
@@ -10,12 +10,12 @@ author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 67dd4823e5167fb0e0ece692e873cd8cde7013ea
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 7ca8db8e2910b4825aab7bda27dfe61dbcd4ca9a
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947533"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545861"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registrieren für das Cloud Solution Provider-Programm für Microsoft Cloud for US Government
 
@@ -31,7 +31,7 @@ Microsoft-Partner können jetzt Cloudlösungen und -dienste von Microsoft an Bun
 
 Microsoft Cloud for US Government bietet eine private, dedizierte und isolierte Instanz von Microsoft Azure, die die Anforderungen von US-Behörden an Datensicherheit, Datenschutz und Compliance erfüllt. Ihr Unternehmen muss die Qualifizierungskriterien von Microsoft zur Teilnahme am CSP-Programm für Microsoft Cloud for US Government erfüllen. Weitere Informationen finden Sie unter [Partner Center für Microsoft Cloud for US Government](partner-center-for-microsoft-us-govt-cloud.md).
 
-## <a name="before-you-begin"></a>Vorbereitung
+## <a name="before-you-begin"></a>Voraussetzungen
 
 Damit Sie sich für das CSP-Programm für Microsoft Cloud for US Government registrieren können, müssen wir uns zunächst vergewissern, dass Ihr Unternehmen die Anforderungen für den Verkauf an US-Behörden erfüllt. Füllen Sie vor Beginn des Registrierungsprozesses das [Formular zur Microsoft Government Cloud-Überprüfung](https://azuregov.microsoft.com/csp) aus, damit die Qualifikation Ihres Unternehmens überprüft werden kann. Nachdem wir die Qualifikation Ihres Unternehmens überprüft haben, stellen wir einen speziellen Azure AD-Mandanten (Azure Active Directory) für Microsoft Cloud for US Government bereit.  
 
@@ -83,7 +83,7 @@ Microsoft Cloud for US Government bietet eine separate Instanz von Microsoft Az
  
 ## <a name="connect-with-us"></a>Neuigkeiten abonnieren
 
-- Noch Fragen? Senden Sie uns eine E-Mail: azgovcsp@microsoft.com.
+- Haben Sie Fragen? Senden Sie uns eine E-Mail: azgovcsp@microsoft.com.
 
 - Folgen Sie uns auf [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all). 
 

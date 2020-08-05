@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/29/2020
 description: Erfahren Sie, wie Sie Probleme beheben, z. b. fehlende oder falsche Einnahmen, Berechtigungsprobleme und wie Sie die Auswirkungen ihrer Anreize abstimmen.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: fc086b74fd140e669720743b067959fc3463f6c9
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 6c56fe41d6a12a2e6337dba5bc611124eeaf3429
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114753"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545921"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>Problembehandlung bei Zahlungen und Einnahmen
 
@@ -51,8 +51,8 @@ Microsoft unterstützt derzeit nicht die Möglichkeit, bestehende Auszahlungs- u
 
 Fehlende oder falsche Zahlungen sind häufig auf eine der folgenden Ursachen zurückzuführen:
 
-- **Möglicherweise sind Sie nicht berechtigt.**  Das Ergebnis ist nur verfügbar, wenn Sie die betrieblichen Anforderungen erfüllen, die für den jeweiligen Programm Erstellungs Zeitraum registriert sind.
-- **Möglicherweise haben Sie die Anforderungen nicht erfüllt.**  Überprüfen Sie, ob Sie die Berechtigungs-und Berechtigungs Regeln für den Anreiz erfüllt haben, nach dem Sie suchen.
+- **Möglicherweise sind Sie nicht berechtigt.**  Einnahmen stehen nur zur Verfügung, wenn Sie die betrieblichen Berechtigungsvoraussetzungen erfüllen, d. h. wenn Sie im entsprechenden Einnahmenzeitraum des Programms registriert sind.
+- **Unter Umständen haben Sie die Voraussetzungen nicht erfüllt.**  Überprüfen Sie, ob Sie die Berechtigung besitzen und die entsprechenden Umsatzerlösregeln für die gesuchte Incentive erfüllen.
 
   **So überprüfen Sie Ihre Berechtigung**
 
@@ -62,7 +62,7 @@ Fehlende oder falsche Zahlungen sind häufig auf eine der folgenden Ursachen zur
   
   3. Wählen Sie den gewünschten Dokument Link aus, und überprüfen Sie dann die Abschnitte **Partner Voraussetzungen** und **berechtigte Umsatz Regeln**.
 
-- **Ihr Zahlungsprofil ist möglicherweise unvollständig.** Das Startdatum Ihres Incentive-Ergebnisses ist der erste Tag des Monats, in dem Sie alle Berechtigungsanforderungen erfüllt haben, einschließlich des onboardings mit Auszahlungs-und Steuer Details. Der Gewinn ist nicht für die Monate vor der Auszahlung und der Steuer Vervollständigung verfügbar. Wenn Sie z. b. alle Anforderungen während des Monats April 2020 erfüllen, ist das Startdatum für das Ergebnis der 1. April 2020.
+- **Ihr Zahlungsprofil ist möglicherweise unvollständig.** Das Startdatum Ihrer Incentive-Einnahmen ist der erste Tag des Monats, in dem Sie alle Berechtigungsvoraussetzungen erfüllt haben, einschließlich Onboarding mit Auszahlungs- und Steuerdetails. In den Monaten vor der Vervollständigung der Angaben zu Auszahlung und Steuern stehen Einnahmen nicht zur Verfügung. Wenn Sie beispielsweise alle Anforderungen während des Monats April 2020 erfüllt haben, ist der 1. April 2020 das Startdatum für Ihre Einnahmen.
 - **Möglicherweise liegt eine ausstehende Aktion**vor.  Es könnte sein, dass Ihre Incentives nicht verarbeitet werden, weil eine Aktion von Ihnen noch aussteht.
 
   **So zeigen Sie ausstehende Aktionen an**
@@ -84,9 +84,9 @@ Jedes Incentives-Programm hat ein Bankprofil, das bei der Einrichtung angelegt w
 
 Wenn für einen Zeitraum, in dem Sie erwartet werden, keine Einnahmen angezeigt werden, liegt dies in der Regel an einem der folgenden Probleme:
 
-- **Möglicherweise sind Sie nicht berechtigt.**  Das Ergebnis ist nur verfügbar, wenn Sie die betrieblichen Anforderungen erfüllen, die für den jeweiligen Programm Erstellungs Zeitraum registriert sind.
+- **Möglicherweise sind Sie nicht berechtigt.**  Einnahmen stehen nur zur Verfügung, wenn Sie die betrieblichen Berechtigungsvoraussetzungen erfüllen, d. h. wenn Sie im entsprechenden Einnahmenzeitraum des Programms registriert sind.
 
-- **Ihr Zahlungsprofil ist möglicherweise unvollständig.**  Das Startdatum Ihres Incentive-Ergebnisses ist der erste Tag des Monats, in dem Sie alle Berechtigungsanforderungen erfüllt haben, einschließlich des onboardings mit Auszahlungs-und Steuer Details. Der Gewinn ist nicht für die Monate vor der Auszahlung und der Steuer Vervollständigung verfügbar. Wenn Sie z. b. alle Anforderungen während des Monats April 2020 erfüllen, ist das Startdatum für das Ergebnis der 1. April 2020.
+- **Ihr Zahlungsprofil ist möglicherweise unvollständig.**  Das Startdatum Ihrer Incentive-Einnahmen ist der erste Tag des Monats, in dem Sie alle Berechtigungsvoraussetzungen erfüllt haben, einschließlich Onboarding mit Auszahlungs- und Steuerdetails. In den Monaten vor der Vervollständigung der Angaben zu Auszahlung und Steuern stehen Einnahmen nicht zur Verfügung. Wenn Sie beispielsweise alle Anforderungen während des Monats April 2020 erfüllt haben, ist der 1. April 2020 das Startdatum für Ihre Einnahmen.
 
 Wenden Sie sich an den [Support](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives), wenn Sie die Berechtigungsanforderungen, einschließlich des onboardings mit Auszahlungs-und Steuer Details zur Zeit, abgeschlossen haben.
 
@@ -94,25 +94,25 @@ Wenden Sie sich an den [Support](https://partner.microsoft.com/dashboard/support
 
 Fehlende oder falsche Einnahmen können durch eines der folgenden Probleme verursacht werden:
 
-- **Möglicherweise haben Sie die Anforderungen nicht erfüllt.**  Überprüfen Sie, ob Sie die [Berechtigungs](#my-payment-is-missing-or-incorrect) -und Berechtigungs Regeln für den Anreiz erfüllt haben, nach dem Sie suchen.
+- **Unter Umständen haben Sie die Voraussetzungen nicht erfüllt.**  Überprüfen Sie, ob Sie die [Berechtigung](#my-payment-is-missing-or-incorrect) besitzen und die entsprechenden Umsatzerlösregeln für die gesuchte Incentive erfüllen.
 
-- **Möglicherweise gibt es eine Abweichung.**  Wenn Sie sowohl Partner-als auch berechtigte Umsatz Regeln erfüllen und weiterhin falsche Einnahmen anzeigen, finden Sie unter [Identifizieren von Gewinn & Zahlungs Abweichung](https://support.microsoft.com/help/4534675) Informationen zu den Schritten für den Zugriff auf alle Einnahmen und die jeweiligen Transaktionen.
+- **Unter Umständen liegt eine Abweichung vor.**  Falls Sie sowohl die Regeln für die Partnerqualifizierung als auch für Umsatzerlöse erfüllen und trotzdem fehlerhafte Einnahmen erhalten, helfen Ihnen die Informationen zum [Ermitteln von Abweichungen bei Einnahmen und Auszahlungen](https://support.microsoft.com/help/4534675) weiter. In diesem Artikel sind die Schritte angegeben, mit denen Sie auf alle Einnahmen und die entsprechenden Transaktionen zugreifen können.
 
 Wenden Sie sich an den [Support](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives), wenn diese Aktionen nicht hilfreich sind und Sie nach wie vor keine Gewinne finden können oder wenn Sie weiterhin davon ausgehen, dass das Ergebnis falsch ist
 
 ## <a name="how-do-i-reconcile-my-earnings"></a>Gewusst wie meine Einnahmen abstimmen?
 
-Führen Sie die folgenden Schritte aus, wenn eine Abweichung in ihrem Ergebnis vorliegt:
+Führen Sie die folgenden Schritte aus, falls Ihre Einnahmen Abweichungen aufweisen:
 
-1. **Vergewissern Sie sich, dass Sie für den gewinnberechtigt sind.**  Das Ergebnis ist nur verfügbar, wenn Sie die betrieblichen Anforderungen erfüllen, die für den jeweiligen Programm Erstellungs Zeitraum registriert sind.
+1. **Vergewissern Sie sich, dass Sie zum Erhalt von Einnahmen berechtigt sind.**  Einnahmen stehen nur zur Verfügung, wenn Sie die betrieblichen Berechtigungsvoraussetzungen erfüllen, d. h. wenn Sie im entsprechenden Einnahmenzeitraum des Programms registriert sind.
 
-2. **Überprüfen Sie, ob Ihr Zahlungsprofil fertiggestellt ist.**  Das Startdatum Ihres Incentive-Ergebnisses ist der erste Tag des Monats, in dem Sie alle Berechtigungsanforderungen erfüllt haben, einschließlich des onboardings mit Auszahlungs-und Steuer Details. Der Gewinn ist nicht für die Monate vor der Auszahlung und der Steuer Vervollständigung verfügbar. Wenn Sie z. b. alle Anforderungen während des Monats April 2020 erfüllen, ist das Startdatum für das Ergebnis der 1. April 2020. 
+2. **Überprüfen Sie, ob Ihr Zahlungsprofil vollständig ist.**  Das Startdatum Ihrer Incentive-Einnahmen ist der erste Tag des Monats, in dem Sie alle Berechtigungsvoraussetzungen erfüllt haben, einschließlich Onboarding mit Auszahlungs- und Steuerdetails. In den Monaten vor der Vervollständigung der Angaben zu Auszahlung und Steuern stehen Einnahmen nicht zur Verfügung. Wenn Sie beispielsweise alle Anforderungen während des Monats April 2020 erfüllt haben, ist der 1. April 2020 das Startdatum für Ihre Einnahmen. 
 
-3. **Vergewissern Sie sich, dass die Anforderungen erfüllt sind.**  Überprüfen Sie, ob Sie die [Berechtigungs](#my-payment-is-missing-or-incorrect) -und Berechtigungs Regeln für den Anreiz erfüllt haben, nach dem Sie suchen.
+3. **Vergewissern Sie sich, dass Sie die Anforderungen erfüllt haben.**  Überprüfen Sie, ob Sie die [Berechtigung](#my-payment-is-missing-or-incorrect) besitzen und die entsprechenden Umsatzerlösregeln für die gesuchte Incentive erfüllen.
 
-4. **Stellen Sie fest, ob eine Abweichung vorliegt.**  Wenn Sie sowohl Partner-als auch berechtigte Umsatz Regeln erfüllen und weiterhin falsche Einnahmen sehen, finden Sie unter [Identifizieren von Gewinn & Zahlungs Abweichung](https://support.microsoft.com/help/4534675) Informationen zu den Schritten für den Zugriff auf alle Gewinne und die jeweiligen Transaktionen.
+4. **Ermitteln Sie, ob es zu Abweichungen gekommen ist.**  Falls Sie sowohl die Regeln für die Partnerberechtigung als auch für Umsatzerlöse erfüllen und trotzdem fehlerhafte Einnahmen erhalten, helfen Ihnen die Informationen zum [Ermitteln von Abweichungen bei Einnahmen und Auszahlungen](https://support.microsoft.com/help/4534675) weiter. Darin sind die Schritte angegeben, mit denen Sie auf alle Einnahmen und die entsprechenden Transaktionen zugreifen können.
 
-Wenden Sie sich an den [Support](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives), wenn diese Aktionen nicht hilfreich sind und ihre Einnahmen noch immer nicht ausgeglichen sind.
+Falls diese Aktionen nicht hilfreich sind und Ihre Einnahmen immer noch nicht stimmen, sollten Sie sich an den [Support](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives) wenden.
 
 ## <a name="where-can-i-find-my-rates"></a>Wo finde ich meine Raten?
 

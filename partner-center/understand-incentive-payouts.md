@@ -1,7 +1,7 @@
 ---
 title: Anzeigen von Informationen zu Incentives und Programmen
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 08/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Verwenden Sie diese Seiten, um Zahlungs-und Ergebnis Details sowie den Programmstatus und den gesamten Transaktionsverlauf anzuzeigen, zu verwalten und zu exportieren.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: f42ce255396411b68363f3a6ad928e80d87d96ad
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 2829931ca80cea33a48e1658f97f2a1fe1a03173
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114839"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545951"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Details zum Programm anzeigen, verwalten und exportieren
 
@@ -48,28 +48,29 @@ Die folgenden Seiten werden hier beschrieben:
 - Seite „Zahlungen“
 - Seite „Transaktionsverlauf“
 - Seite "Daten exportieren" und andere zugeordnete Export Seiten
+- Transaktions Zusammenfassungs Bericht
 
 >[!NOTE]
 >Weitere Informationen zu Incentives und Incentive-Features in Partner Center finden Sie unter [Partner Investitionen und-Anreize](https://partner.microsoft.com/membership/partner-incentives) (Anmeldung erforderlich).
 
 ## <a name="my-incentives-overview-page"></a>Übersicht über meine Incentives
 
-In der **Übersicht über die Incentives** wird der Gesamtstatus Ihrer Incentive-Programme sowie der Status jedes Programms an jedem Standort angezeigt. Diese Informationen umfassen den Gesamtgewinn und die Gesamtzahlungen, seit Sie sich bei Incentive-Programmen angemeldet haben.
+In der **Übersicht über die Incentives** wird der Gesamtstatus Ihrer Incentive-Programme sowie der Status der einzelnen Programme an jedem Standort angezeigt. Diese Informationen umfassen den Gesamtgewinn und die Gesamtzahlungen, seit Sie sich bei Incentive-Programmen angemeldet haben.
 
 Diese Seite enthält auch Einnahmen und Zahlungen nach Standort oder Programm sowie alle weiteren Aktionen, die Sie möglicherweise durchführen müssen, um sich an einem bestimmten Ort bei einem Programm anzumelden.
 
-So greifen Sie auf **meine Incentive-Übersicht**zu:
+So greifen Sie auf Ihre **Incentive-Übersicht** zu:
 
 1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 2. Wählen Sie im Menü den Befehl **Incentives**und dann **Overview** aus.
-3. Zeigen Sie im oberen Bereich der Seite die Zusammenfassung der Einnahmen und Zahlungen an, und weitere Details finden Sie in der Tabelle unten. Sie können die zugehörige Tabelle auch sortieren, gruppieren und erweitern:
+3. Zeigen Sie im oberen Bereich der Seite die Zusammenfassung der Einnahmen und Zahlungen an. Weitere Details finden Sie in der Tabelle unten. Sie können die zugehörige Tabelle auch sortieren, gruppieren und erweitern:
 
    - Wenn Sie nach Spalte sortieren möchten, wählen Sie den Spaltennamen aus.
    - Um nach einem Programm zu gruppieren, wählen Sie die Registerkarte **nach Programm** über der Tabelle aus.
    - Um nach Standort zu gruppieren, wählen Sie die Registerkarte **nach Speicherort** über der Tabelle aus.
    - Wenn Sie weitere Details zu Registrierungen innerhalb einer bestimmten Gruppe anzeigen möchten, wählen Sie das Chevron-Symbol am Ende einer bestimmten Zeile aus. Dieses Chevron erweitert Ihre Ansicht.
 
-4. Wenn weitere Aktionen erforderlich sind, um sich in einem Programm anzumelden, werden diese Informationen in der Spalte **Status** angezeigt. Wählen Sie in diesem Fall das Chevron-Symbol aus, um mehr über die nächsten Schritte zu erfahren, die Sie durchführen müssen.
+4. Wenn weitere Aktionen erforderlich sind, um sich für ein Programm zu registrieren, werden diese Informationen in der Spalte **Status** angezeigt. Wählen Sie in diesem Fall das Chevron-Symbol aus, um mehr über die nächsten Schritte zu erfahren, die Sie durchführen müssen.
 
 >[!NOTE]
 >In der folgenden Tabelle finden Sie weitere Informationen zu den verschiedenen Registrierungs Zuständen, die in der Spalte **Status** angezeigt werden.
@@ -113,7 +114,7 @@ Wählen Sie zum Exportieren der Transaktionsdaten auf dieser Seite die Option **
 |Anstehend      |Der Zahlungsauftrag hat ausstehende interne Überprüfungen generiert, bevor die Zahlung verarbeitet wird.       |Nein       |
 |Ausstehende Steuerrechnung      |Ihre Steuerrechnung ist unvollständig oder ungültig.          |Sie müssen Ihre Steuerrechnung aktualisieren, bevor Sie bezahlt werden können.         |
 |Bei Überprüfung abgelehnt        |Die Zahlung wurde während der Überprüfung abgelehnt.          |Wenden Sie sich an den Microsoft-Support, um weitere Informationen zu erhalten.         |
-|Fehlgeschlagen        |Die Zahlung ist aufgrund eines Microsoft-Systemfehlers fehlgeschlagen.         |Weitere Informationen erhalten Sie vom Microsoft Support.         |
+|Fehler        |Die Zahlung ist aufgrund eines Microsoft-Systemfehlers fehlgeschlagen.         |Weitere Informationen erhalten Sie vom Microsoft Support.         |
 |In Bearbeitung     |Die Zahlung wird ausgeführt.         |Nein         |
 |Falsche Zahlung        |Der Zahlungsvorgang wird wiederholt.          |Nein        |
 |Gesendet        |Die Zahlung wurde an Ihre Bank gesendet.          |Nein       |
@@ -128,6 +129,7 @@ Befolgen Sie die Anweisungen auf dieser Seite, um die gewünschten Daten zu expo
 
 **Hinweise:**
 
+- Aufgrund der großen Datenmenge beträgt die SLA für die zu verarbeitende gesendete Anforderung 24 Stunden.
 - Es werden nur Daten für MPN-IDs und Programme angezeigt, denen Sie zugeordnet sind. Wenn Sie auf zusätzliche Daten zugreifen möchten, finden Sie weitere Informationen unter Administrator.
 - Die Seite „Daten exportieren“ wird nicht eigenständig aktualisiert. Möglicherweise müssen Sie die Seite manuell aktualisieren, um die neuesten Daten anzuzeigen.
 - Ihr Filter bewirkt möglicherweise einen Fehler vom Typ **Keine Daten verfügbar**. Dieser Fehler bedeutet wahrscheinlich, dass Sie den Standard Zeitraum in drei Monaten ausgewählt haben und dann eine Zahlungs-ID aus einem Verdienst außerhalb dieses Zeitraums ausgewählt haben. Erweitern Sie den Zeitraum, und versuchen Sie es erneut.
@@ -157,18 +159,27 @@ Mit dieser Option können Sie die Zahlungen, die Sie in Ihrer Bank für ein best
 ## <a name="transaction-history-download-export"></a>Download des exportierten Transaktionsverlaufs
 Mit dieser Option können Sie jede Einnahmeposition, die auf der Seite „Transaktionsverlauf“ angezeigt wird, wie beispielsweise Einnahmetyp, Datum, zugehöriger Transaktionsbetrag, Kunde, Produkt und andere Transaktionsdetails, die für das Incentive-Programm gelten, herunterladen.
 
+>[!NOTE]
+>Der Export für den Transaktions Verlaufs Download enthält zwei neue Felder ab August 2020:
+>
+>- **lastpaymentcurrency**  Die Währung, in der die letzte Zahlung über alle mpns eingegangen ist, an die der derzeit angemeldete Partner Zugriff hat. Wenn keine Zahlung eingegangen ist, ist die letzte Zahlungswährung US-Dollar.
+>- **earningamountinlastpaymentcurrency**  Der Erwerbs Betrag in der letzten Zahlungswährung.
+
+
 |**Spaltenname**   |**Beschreibung**   |
 |------------------|:-------------------------------------|
 |customerId   |Kunden Bezeichner   |
 |customerName   |Name der Transaktions Kunden   |
 |earningamount   |Betrag in der ursprünglichen Transaktionswährung   |
+|earningAmountInLastPaymentCurrency   |Der Erwerbs Betrag in der letzten Zahlungswährung.   |
 |earningAmountUSD   |Betrag in USD   |
 |earningDate   |Datum der Einnahme   |
 |earningExchangeRate   |Wechselkurs zum Anzeigen des entsprechenden Betrags in US-Dollar   |
 |earningId   |Eindeutiger Bezeichner für jede Einnahme   |
 |earningrate   |Auf den Transaktionsbetrag angewendete Incentive-Rate zum Generieren einer Einnahme   |
-|earningType   |Gibt an, ob es sich um eine Gebühr, einen Rabatt, einen Coop, einen Verkauf usw. handelt.   |
+|earningType   |Gibt an, ob es sich um eine Gebühr, einen Rabatt, Co-op, Verkauf usw. handelt.   |
 |exchangeRateDate   |Datum des Wechselkurses, der zum Berechnen des Einnahmebetrags in US-Dollar verwendet wurde   |
+|lastPaymentCurrency   |Die Währung, in der die letzte Zahlung über alle mpns eingegangen ist, an die der derzeit angemeldete Partner Zugriff hat. Wenn keine Zahlung eingegangen ist, ist die letzte Zahlungswährung US-Dollar.   |
 |lever   |Geschäftsregel für die Einnahme   |
 |participantID   |Primäre Identität des Partners, der unter dem Programm die Einnahme erzielt   |
 |participantIDType   |Normalerweise MPN für Incentive-Programme und Verkäufer-ID für Store-Programme   |
@@ -205,3 +216,58 @@ Zusätzlich zur obigen Tabelle sind diese Felder für den Transaktionsverlauf f�
 |agreementStartDate   |Startdatum der Vereinbarung   |
 |agreementEndDate   |Enddatum der Vereinbarung   |
 |workload   |Workload   |
+
+## <a name="transaction-summary-report"></a>Transaktions Zusammenfassungs Bericht
+
+>[!NOTE]
+>Im Transaktions Zusammenfassungs Bericht werden nicht alle Programme oder Einnahmen angezeigt. Es handelt sich um eine Zusammenfassung, die sich nur auf aggregierte Hebesätze konzentriert. Um einzelne Transaktionen anzuzeigen, laden Sie den [Bericht zum Transaktionsverlauf](#transaction-history-page)herunter.
+
+Der Transaktions Zusammenfassungs Bericht bietet Transaktionsdetails auf Übersichts Ebene, einschließlich Kundennamen und Abonnement-IDs, für aggregierte Erfassungs Sätze. Der Bericht umfasst jede Erwerbs-ID, die mehreren Transaktionen zugeordnet ist. Der Gesamtbetrag und die Ergebnis Details für diese Erwerbs-ID werden für jeden Kunden/jedes Abonnement wiederholt. Dies liegt daran, dass die Anreize für aggregierte Hebesätze kollektiv und nicht pro Abonnement erworben werden.
+
+
+### <a name="download-the-transaction-summary-report"></a>Herunterladen des Transaktions Zusammenfassungs Berichts
+
+1. Wählen Sie auf der Seite **Übersicht über Incentives** das Symbol **Money** (Auszahlung) in der oberen rechten Ecke aus.
+2. Wählen Sie **Daten exportieren** aus.
+3. Wählen Sie die Registerkarte **Transaktions Zusammenfassung** aus.
+4. Wählen Sie die entsprechenden Filter aus, um die für aggregierte Einnahmen berechtigten Programme und Hebel anzuzeigen. Wenn keine Daten angezeigt werden, sind Ihre Programme nicht für aggregierte Hebesätze geeignet.
+5. Wählen Sie **Download starten**aus   , um den Bericht zu exportieren.  
+
+>[!NOTE]
+>Der Transaktions Zusammenfassungs Bericht enthält keine Kunden-und Abonnement Informationen für Abonnements, die neuer als 60 Tage sind, oder wenn der Verbrauchs Umsatz weniger als einen Cent beträgt.
+
+|Spaltenname |BESCHREIBUNG |
+|------ |:-----------|
+|  earningId | Eindeutiger Bezeichner für jede Einnahme  |
+|  participantID | Primäre Identität des Partners, der unter dem Programm die Einnahme erzielt  |
+|  participantIdType | Normalerweise MPN für Incentive-Programme und Verkäufer-ID für Store-Programme  |
+|  participantName | Name des Partners, der die Einnahme erzielt  |
+|  partnerCountryCode | Standort/Land des Partners, der die Einnahme erzielt  |
+|  programName | Name des Incentive-/Store-Programms  |
+|  lever | Geschäftsregel für die Einnahme  |
+|  earningrate | Auf den Transaktionsbetrag angewendete Incentive-Rate zum Generieren einer Einnahme  |
+|  earningType | Gibt an, ob es sich um eine Gebühr, einen Rabatt, Co-op, Verkauf usw. handelt.  |
+|  earningamount | Betrag in der ursprünglichen Transaktionswährung  |
+|  earningAmountUSD | Betrag in USD  |
+|  earningDate | Datum der Einnahme  |
+|  earningExchangeRate | Wechselkurs zum Anzeigen des entsprechenden Betrags in US-Dollar  |
+|  exchangeRateDate | Datum des Wechselkurses, der zum Berechnen des Einnahmebetrags in US-Dollar verwendet wurde  |
+|  transaktionmonth |  Transaktions Monat   |
+|  transactionCurrency | Währung, in der die ursprüngliche Kunden Transaktion aufgetreten ist  |
+|  totaltransaktionsetusd |  Transaktion Gesamt   |
+|  customerId | Kunden Bezeichner  |
+|  customerName | Name der Transaktions Kunden  |
+|  subscriptionId | Abonnement-ID, die dem Kunden zugeordnet ist  |
+|  subscriptionStartDate | Startdatum des Abonnements  |
+|  subscriptionEndDate | Enddatum des Abonnements  |
+|  agreementNumber | Vereinbarungsnummer  |
+|  InvoiceNumber |  Rechnungs-ID   |
+|  partNumber | Die mit der Transaktion verknüpfte Teilenummer. Microsoft-Terminologie.  |
+|  resellerId | ID des Handelspartners  |
+|  resellerName | Name des Handelspartners  |
+|  distributorId | Verteiler-ID  |
+|  distributorName | Verteilername   |
+|  paymentId | Eindeutige ID für die Zahlung. Diese Zahl ist normalerweise in der Bank-Anweisung sichtbar.|  
+
+## <a name="next-steps"></a>Nächste Schritte
+- [Zugriff auf die Seite für Anreizauszahlungen](incentives-unified-user-guide.md)

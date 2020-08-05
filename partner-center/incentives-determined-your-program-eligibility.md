@@ -1,19 +1,19 @@
 ---
 title: Ermitteln Ihrer Programmberechtigung
 description: Stellen Sie sicher, dass Ihr Incentives-Programm qualifiziert ist, damit Sie bezahlt werden können.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 15b674a9e3c643de2899f3658b474c9209878880
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 498604c94d86c2e8996725470cd15869dc99d068
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114780"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546001"
 ---
 # <a name="program-eligibility"></a>Programm Berechtigung
 
@@ -21,14 +21,14 @@ Gilt für:
 
 - Partner Center
 
-Für jedes Incentives-Programm gelten bestimmte Anforderungen in Bezug auf die Berechtigung. Diese Programm Erstellungs Anforderungen sind darauf ausgelegt, sicherzustellen, dass Sie alle geeigneten Verträge signiert haben, erworbene Kompetenzen, Umsatzprognosen und andere erforderliche Voraussetzungen, damit Ihr Incentives-Programm erfolgreich ausgeführt werden kann.
+Für jedes Incentives-Programm gelten bestimmte Anforderungen in Bezug auf die Berechtigung. Mit diesen Anforderungen zur Berechtigung für ein Programm soll sichergestellt werden, dass Sie alle erforderlichen Vereinbarungen unterschrieben und Kompetenzen erworben sowie alle restlichen Voraussetzungen für das Incentives-Programm erfüllt haben, damit die Nutzung des Programms erfolgreich ist.
 
 Geeignete Rollen:
 
 - Globaler Administrator
 - Incentiveadministrator
 
-## <a name="determining-your-program-eligibility"></a>Festlegen der Berechtigung für das Programm
+## <a name="determining-your-program-eligibility"></a>Ermitteln der Programmberechtigung
 
 Sie finden die spezifischen Anforderungen zur Berechtigung für das Programm im zugehörigen Leitfaden. 
 
@@ -36,7 +36,7 @@ Sie finden die spezifischen Anforderungen zur Berechtigung für das Programm im 
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 
-2. Wählen Sie im linken Navigationsbereich unter **Incentives** die Option **Übersicht** aus. Die Seite " **Programmübersicht** " wird geöffnet.
+2. Wählen Sie im linken Navigationsbereich unter **Incentives** die Option **Übersicht** aus. Die Seite mit der **Programmübersicht** wird geöffnet.
 
 3. Wählen Sie das gewünschte Programm aus, um diese Seite zu öffnen.
 

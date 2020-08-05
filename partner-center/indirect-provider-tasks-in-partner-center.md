@@ -1,7 +1,7 @@
 ---
 title: Partner mit indirekten Wiederverkäufern in CSP
 description: Als indirekter Anbieter oder Verteiler erfahren Sie mehr darüber, wie Sie eine Partnerschaft mit indirekten Wiederverkäufern durcharbeiten. Dies schließt Aufgaben ein, die Sie im Partner Center ausführen können.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: cb7a9bca65bb4fbb8ef9f3fb88a968155bf17ced
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 92c82bbc785a6b8ef01fc39abe5bb4235fbc5622
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377214"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545981"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Wiederverkäufern im Programm für Cloud-Lösungsanbieter
 
@@ -47,9 +47,9 @@ Informationen dazu, was erforderlich ist, um als indirekter Reseller an dem CSP-
 
 Führen Sie zum Einrichten und Verwalten Ihrer Partnerschaft mit indirekten Vertriebspartnern und Kunden im Partner-Dashboard folgende Schritte aus. Die Schritte 2 und 3 werden im folgenden ausführlicher beschrieben.
 
-1. Überprüfen Sie Ihr Unternehmensprofil in [der offiziellen Liste der indirekten Anbieter von Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
+1. Überprüfen Sie das Profil Ihres Unternehmens in [der Liste der offiziellen indirekten Anbieter von Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
 
-   - Um Änderungen am indirekten Anbieterprofil Ihres Unternehmens vorzunehmen, wenden Sie sich an Ihren Microsoft-Vertriebsmitarbeiter.
+   - Wenden Sie sich an Ihren Microsoft-Vertreter, falls für Ihr Unternehmen Änderungen am Profil für indirekte Anbieter vorgenommen werden müssen.
 
 2. Vernetzen mit indirekten Vertriebspartnern
 
@@ -147,7 +147,7 @@ Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren S
     > [!IMPORTANT]  
     > Notieren Sie sich den Benutzerkonto Namen und das Kennwort, da Sie nicht erneut auf diese Informationen zugreifen können, nachdem Sie diese Seite geschlossen haben.
 
-7. Wählen Sie **Fertig**aus. Der neue Kunde wird in Ihrer Kundenliste angezeigt und ist dem indirekten Vertriebspartner zugeordnet. Der Reseller verfügt jetzt über Administrator Zugriff auf die Kontoinformationen und Abonnements des Kunden und kann die Abonnements im Auftrag des Kunden verwalten.
+7. Klicken Sie auf **Fertig**. Der neue Kunde wird in Ihrer Kundenliste angezeigt und ist dem indirekten Vertriebspartner zugeordnet. Der Reseller verfügt jetzt über Administrator Zugriff auf die Kontoinformationen und Abonnements des Kunden und kann die Abonnements im Auftrag des Kunden verwalten.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Hinzufügen neuer Abonnements zu Kundenkonten
 

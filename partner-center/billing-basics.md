@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ba6ea547ed63bc4369b06cb86df8aad24870d2ab
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4ff64c265aadacca5389c16168d1e161936f5e88
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435609"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468528"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Abrechnungsübersicht für CSP-Programmpartner, die im Partner Center arbeiten 
 
@@ -49,7 +49,7 @@ Um die Nutzung eines Kunden zu ermitteln, [überprüfen Sie Ihre Kontenabstimmun
 
 ### <a name="billing-types"></a>Abrechnungsarten
 
-Zu den Abrechnungsarten in Partner Center gehören **lizenzbasierte Abrechnung**, **nutzungsbasierte Abrechnungs** und **einmalige Abrechnung**. Weitere Informationen finden Sie in der vollständigen Erläuterung der [Abrechnungsarten in Partner Center](billing-different-types.md).
+Zu den Abrechnungsarten in Partner Center gehören **lizenzbasierte Abrechnung**, **nutzungsbasierte Abrechnungs** und **einmalige Abrechnung**. 
 
 ### <a name="billing-currency"></a>Abrechnungswährung
 

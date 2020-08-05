@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: d03421995c2243b5deb8575916dbe15c76ea746c
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 6ccdba6004e1449b0cf83e65c71714f33e9dadfb
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944447"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433901"
 ---
 # <a name="april-2020-announcements"></a>Ankündigungen für April 2020
 
@@ -174,7 +174,7 @@ Zur weiteren Unterstützung von Partnern und Kunden beginnt **ab dem 1. Mai 202
 
 - **Wenn Sie die empfohlenen Sicherheitsanforderungen zum Schutz Ihrer Mandanten und Benutzer nicht aktiviert haben**, sollten Sie dies sofort nachholen, damit Ihre Compliance erhalten bleibt und Geschäftsunterbrechungen bei der Verwaltung von Kunden oder beim Durchführen von Transaktionen im CSP-Programm vermieden werden. Partner, die diese Sicherheitsanforderungen nicht implementieren, gefährden damit möglicherweise ihre Teilnahme am CSP-Programm.
 - Indirekte Anbieter müssen diese Sicherheitsanforderungen für ihre Unternehmen selbst implementieren und mit ihren Handelspartnern zusammenarbeiten, um sicherzustellen, dass diese die Anforderungen ebenfalls implementieren. Dafür kann diese E-Mail-Vorlage eingesetzt werden. Wir nehmen zudem per E-Mail direkten Kontakt zu Ihren Handelspartnern auf.
-- Rufen Sie die [Statusseite zu den Partner Center-Sicherheitsanforderungen](https://partner.microsoft.com/pcv/security/compliance) auf, um Ihren Fortschritt und die wichtigsten Aktionen einzusehen. Arbeiten Sie mit Ihrem globalen Administrator zusammen, um den Fortschritt der Sicherheitsanforderungen für die einzelnen Mandanten regelmäßig zu überprüfen.
+- Rufen Sie die [Statusseite zu den Partner Center-Sicherheitsanforderungen](https://partner.microsoft.com/commerce/security/compliance) auf, um Ihren Fortschritt und die wichtigsten Aktionen einzusehen. Arbeiten Sie mit Ihrem globalen Administrator zusammen, um den Fortschritt der Sicherheitsanforderungen für die einzelnen Mandanten regelmäßig zu überprüfen.
 - Wenden Sie sich an Ihren CPV (Control Panel Vendor), wenn Sie eine CPV-Lösung verwenden.
 
 ### <a name="additional-resources"></a>Zusätzliche Ressourcen

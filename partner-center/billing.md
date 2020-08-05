@@ -3,18 +3,18 @@ title: Referenz – Artikel zur Partner Center-Abrechnung
 ms.topic: article
 ms.date: 04/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 Description: Informieren Sie sich über Abrechnungs- und Steuerthemen im Partner Center. Die Informationen umfassen Abrechnungsressourcen, Rechnungen, CSP-Abrechnungen und Steuern.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df4e6932ba1b551403143f154ea1202109369ddb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c78e90ab5d412f58384c039bcd4965170662ec0a
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435579"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527406"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Übersicht: Wichtigste Artikel zur Abrechnung und zu Steuern im Partner Center
 
@@ -34,7 +34,6 @@ ms.locfileid: "86435579"
 | ----- | ----------- |
 | [Grundlagen zur Abrechnung](billing-basics.md) | Grundlagen der Abrechnung von Partner Center (einschließlich Zahlungen, Rechnungen und Abstimmungsdateien). |
 | [Abrechnungsarten](billing-different-types.md) | Erläuterung der verschiedenen Abrechnungsarten in Partner Center. |
-| [Unterschiede zwischen monatlicher und jährlicher Abrechnung](billing-annual-monthly.md) | Erläuterung der Unterschiede zwischen monatlichen und jährlichen Fakturierungsintervallen. |
 | [Erläuterungen zur Rechnung](read-your-bill.md) | Informationen zum Lesen und Verstehen Ihrer Partner Center-Rechnung. |
 | [Kostenlose Testversionen](offer-your-customers-trials-of-microsoft-products.md) | Informationen zum Anbieten von kostenlosen Testversionen für Ihre Kunden und wie diese Versionen abgerechnet werden. |
 | [Abstimmungsdatei](use-the-reconciliation-files.md) | Informationen zum Lesen und Verwenden Ihrer Kontenabstimmungsdatei für Positionen. |

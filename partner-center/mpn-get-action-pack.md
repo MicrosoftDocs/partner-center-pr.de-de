@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6408aca4275b331b46de45b62d66e637dd422033
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 41797ec9a176e9bec05746cc860d65faba684029
+ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114684"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87389129"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements oder der Silver- und Gold-Kompetenzen
 
@@ -32,7 +32,7 @@ ms.locfileid: "87114684"
 - Administrator-Agent
 - Vertriebsbeauftragter
 
-Ab sofort können Mitglieder im Microsoft Partner Network (MPN.md) Vorteilsangebote im Partner Center-[Dashboard]() erwerben oder verlängern. Die Angebote umfassen das Microsoft Action Pack-Abonnement sowie die Silver- und Gold-Kompetenzen.
+Ab sofort können Mitglieder im Microsoft Partner Network (MPN.md) Vorteilsangebote im Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) erwerben oder verlängern. Die Angebote umfassen das Microsoft Action Pack-Abonnement sowie die Silver- und Gold-Kompetenzen.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Erstmaliges Erwerben eines Microsoft Action Pack-Abonnements
 

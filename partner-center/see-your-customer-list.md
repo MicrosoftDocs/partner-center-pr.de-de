@@ -1,6 +1,6 @@
 ---
 title: Ihre Kundenliste verwalten
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 865af6a054fc10cddd5422e1ef91ec3df14f69aa
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 40df034e88a1bba7829d6f73e0fb970795a2a0dd
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377744"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811260"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Verwalten der Kundenliste: suchen, aktualisieren oder Exportieren von Kunden im Partner Center
 
@@ -39,7 +39,7 @@ Wählen Sie im **Partner Center** -Menü die Option **Kunden**aus.
 2.  Um nach einem Kunden zu suchen, geben Sie in das Suchfeld den Kundennamen oder den Domänennamen ein.
 3.  Wählen Sie den **Pfeil nach unten** am Ende einer Kundenzeile aus, um die Microsoft-ID des Kunden sowie die verknüpften Abonnements und Quicklinks zu Diensten anzuzeigen.
 4.  Aktualisieren Sie in den Daten zum **Rechnungsempfänger** den Unternehmensnamen. Wenn Sie den neuen Wert speichern, wird er in die Kundenliste aufgenommen. Dadurch werden nur der Firmenname für die Rechnungsadresse und der Wert in der Kundenliste geändert. Anderswo werden die Änderungen nicht wiedergegeben.
-<sup>1</sup>
+
 ## <a name="export-your-customer-list"></a>Exportieren der Kundenliste
 
 1. Wählen Sie im **Partner Center** -Menü die Option **Kunden**aus.
@@ -55,7 +55,7 @@ Wählen Sie im **Partner Center** -Menü die Option **Kunden**aus.
     Standardmäßig exportiert Partner Center die gesamte Kundenliste, unabhängig von der Länge. Sie können die Kundenliste auch nach dem Namen des Unternehmens oder der Domäne auflisten und diese Teilmenge von Daten exportieren.
 
 3. Wenn Sie indirekter Anbieter sind, können Sie die Kundenliste nach indirekten Händlern filtern. Wählen Sie die Liste **Nach indirekten Händlern filtern** aus, und wählen Sie einen Händler aus.
-<sup>1</sup>
+
 
 ## <a name="export-customer-subscription-information"></a>Exportieren von Informationen zum Kundenabonnement
 

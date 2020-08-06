@@ -1,7 +1,7 @@
 ---
 title: Verkaufen von Angeboten an Bildungs Kunden
 description: Erfahren Sie, wie Sie einen Bildungs Kunden erstellen und Angebote in Partner Center verkaufen.
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 25710920130fc78e220d000e552914c093f92706
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e6d7ad9ed7acecf8d542577c87d4387240ded7b7
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436579"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811270"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Verkaufen von Angeboten an Bildungs Kunden & How to Create a Education Customer in Partner Center
 
@@ -82,7 +82,7 @@ Sie müssen über globale Administratorrechte verfügen, um die Kundeninformatio
 
 4. Sie werden auf einer neuen Registerkarte Ihres Browsers an das Office 365 Admin Center umgeleitet. Möglicherweise werden Sie aufgefordert, sich mit Ihren Anmelde Informationen anzumelden.
 
-5. Klicken Sie auf **Einstellungen**.
+5. Wählen Sie **Einstellungen** aus.
 
 6. Wählen Sie oben auf dem Bildschirm die Registerkarte **Organisations Profil** und dann **Organisations Informationen**aus. Sie können jetzt die Kunden Details aktualisieren.
 

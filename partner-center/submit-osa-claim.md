@@ -3,18 +3,18 @@ title: Erstellen einer Kunden Zuordnung über das cpor-Modell
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 description: Erstellen Sie Kunden Zuordnungen über das cpor (Partner of Record)-Modell. Hilft bei der Verwaltung von Vertriebs-, Nutzungs-und & Anreizen für Microsoft 365-und Dynamics 365-Kunden.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 7f36480f62e82c10fe90cb0b95dbd7c7db9a5080
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468346"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811180"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Erstellen einer Kunden Zuordnung über das cpor-Modell – Verwendung für Microsoft 365-und Dynamics 365-Kunden
 
@@ -66,7 +66,7 @@ Außerdem sollten Sie die folgenden Punkte kennen:
 
 2. Wählen Sie am oberen Rand der Seite Kunden Zuordnungen die Option **+ Customer Association**aus.
 
-3. Wählen Sie die **MPN-ID** des Partner Standorts aus, der dem Kunden zugeordnet werden soll, und fügen Sie dann den Domänen Namen und die Verzeichnis-ID des Kunden hinzu. [Suchen Sie nach diesem](find-domain-name.md)
+3. Wählen Sie die **MPN-ID** des Partnerstandorts aus, der dem Kunden zugeordnet werden soll, und fügen Sie dann den Domänennamen und die Verzeichnis-ID des Kunden hinzu. [Suchen Sie nach diesem](find-domain-name.md)
 
 4. Wählen Sie **Weiter**.
 
@@ -76,7 +76,7 @@ Außerdem sollten Sie die folgenden Punkte kennen:
    >
    >Wenn Sie Business Applications auswählen, wählen Sie entweder **Nutzung und/oder vorab Verkäufe**oder **Umsatz**Zuordnung aus, und klicken Sie dann auf **weiter**. 
 
-   >Wenn Sie Umsatz Zuordnung auswählen, werden Sie aufgefordert, etwas andere Informationen als die unten aufgeführten Informationen zu erhalten.
+   >Wenn Sie die „Umsatzzuordnung“ auswählen, werden Sie aufgefordert, etwas andere Informationen als die unten aufgeführten Informationen anzugeben.
 
 6. Geben Sie die entsprechenden Informationen auf der Seite **Customer zuordnen** ein, und wählen Sie dann **Anspruch erstellen**aus.
 
@@ -87,13 +87,13 @@ Außerdem sollten Sie die folgenden Punkte kennen:
    >[!NOTE]
    >Wenn Ihr Produkt Dynamics 365 ist und das ausgewählte Produkt mehrere Abonnements für diesen bestimmten Kunden enthält, müssen Sie auch die Abonnement-ID eingeben.
 
-9. Stellen Sie Ihre Ausführungs Prüfung (PoE) bereit. Sie können Sie in das Feld ziehen, eine eigene unterstützende Dokumentation durchsuchen oder eine Vorlage verwenden, indem Sie **Vorlage herunterladen**auswählen. 
+9. Reichen Sie Ihren Ausführungsnachweis (Proof of Execution, PoE) ein. Sie können ihn in das Feld ziehen, zur Ihrer eigenen zugehörigen Dokumentation navigieren oder eine Vorlage verwenden, indem Sie **Vorlage herunterladen** auswählen. 
 
-10. Fügen Sie Kommentare hinzu, und speichern Sie Sie, und wählen Sie dann **Anspruch senden**aus. Wir senden eine e-Mail an den Kunden, der die Genehmigung ihrer Kunden Zuordnung anfordert.
+10. Fügen Sie ggf. Kommentare hinzu und speichern sie, und wählen Sie dann **Anspruch senden** aus. Wir senden eine E-Mail an den Kunden, in der die Genehmigung ihrer Kundenzuordnung angefordert wird.
 
    >[!NOTE]
    >Nachdem Sie Ihre Kunden Zuordnung eingereicht haben, können Sie Sie nicht mehr bearbeiten.
 
-Der Status der Kunden Zuordnung wird im Feld **Status** angezeigt.
+Der Status der Kundenzuordnung wird im Feld **Status** angezeigt.
 
-Wählen Sie **Verlauf** aus, um den Verlauf einer Kunden Zuordnung anzuzeigen.
+Wählen Sie **Verlauf**  aus, um den Verlauf einer Kundenzuordnung anzuzeigen.

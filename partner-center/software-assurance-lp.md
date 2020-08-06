@@ -3,18 +3,18 @@ title: Software Assurance-Programme
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Registrieren Sie sich für ein Software Assurance-Programm, um Geschäftskunden zu entwickeln und für Unternehmenskunden Schulungen und Planung zu bieten.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecc3aa2a5bb9059211b74f35ed43147e754bbf05
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 60034f1810db7fbf48db5c42d1f36f81f8e227e3
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390257"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811210"
 ---
 # <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>Teilnehmen von Software Assurance-Programmen, einschließlich Schulungs Gutscheine und Planungsdienste
 

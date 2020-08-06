@@ -3,18 +3,18 @@ title: Anmeldung beim Partner Center nicht möglich.
 ms.topic: article
 ms.date: 07/30/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: 'Erfahren Sie, was Sie tun sollten, wenn Sie sich nicht bei Partner Center anmelden können: enthält Informationen zum Zurücksetzen des Kennworts für Arbeits Konten oder des Schul Kontos, wenn Sie es vergessen haben.'
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c77b6ebc469edcce1444fbe5f58436ca161fe47
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 8b237e3de6318b139812f168e0436daedcb96ac5
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444977"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811170"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Wenn Sie sich nicht bei Partner Center anmelden können und Ihr Kennwort zurücksetzen müssen
 

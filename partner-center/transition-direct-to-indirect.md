@@ -1,6 +1,6 @@
 ---
 title: Direkt Abrechnungspartner auf indirekten Händler umstellen
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,16 +9,16 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 057c0549d05fc560a325c20a31e64f516d0d7ff8
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 16f3c4a2e61bbc207bb99d6c9aeb1636260a55ee
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87445003"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811190"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer
 
-**Anwendungsbereich:**
+**Gilt für:**
 
 - CSP-Partner
 

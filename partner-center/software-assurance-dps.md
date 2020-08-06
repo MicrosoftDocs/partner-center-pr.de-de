@@ -3,18 +3,18 @@ title: Software Assurance-Planungsdienste
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie sich bei Microsoft Planning Services Engagement registrieren und qualifizieren, damit Sie Kunden mit Software Assurance Schulungen und andere Dienste anbieten können.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4078bbbc264ec48343deb69d93bedbf75de6d364
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 9cab5ac13b37c11f9e07f1c99d63728f7ad92264
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943687"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811220"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance-Planungsdienste in Partner Center
 

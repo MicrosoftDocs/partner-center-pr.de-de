@@ -3,25 +3,25 @@ title: Überprüfen deiner Kontoinformationen
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Befolgen Sie den Status Ihrer Kontoüberprüfung, wenn Sie versuchen, sich in einem neuen Partner Center-Programm anzumelden. Erfahren Sie, wie Sie ggf. zusätzliche Informationen angeben.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73ace89b24dba143f410e879e9012a0f0f60e3c6
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 40b3a8118ace01bd7b1c72d4cd008a6a6e612bd1
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365726"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811140"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Überprüfen Sie Ihre Kontoinformationen, wenn Sie sich in einem neuen Partner Center-Programm anmelden.
 
 **Geeignete Rollen**
 
 - Globaler Administrator
-- MPN-Konto Administrator
+- MPN-Kontoadministrator
 
 Wenn Sie sich in einem neuen Programm im Partner Center anmelden, überprüft Microsoft die von Ihnen bereitgestellten Konto Registrierungsinformationen, wie z. b. den Firmennamen, die Unternehmens Adresse und die primären Kontaktinformationen. Während dieses Prozesses sendet Microsoft unter Umständen eine E-Mail an den von Ihnen genannten Ansprechpartner, um ihn über den Status zu informieren und weitere Dokumente für die Verifizierung anzufordern.
 

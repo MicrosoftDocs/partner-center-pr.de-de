@@ -1,7 +1,7 @@
 ---
 title: Lizenz basierte Kunden in das CSP-Programm verschieben
 description: Erfahren Sie, wie Sie Lizenz basierte Kunden aus anderen Kanälen oder einem anderen Partner in das CSP-Programm (Cloud Solution Provider) im Partner Center verschieben.
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 993fc3a3e6ff55c392b617b265215d95f7bd7513
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 5304e8c2e00b832551bfdb06872bc0051b6064dc
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444556"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811130"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Verschieben Lizenz basierter Kunden aus anderen Kanälen & Partnern in das Cloud Solution Provider-Programm
 

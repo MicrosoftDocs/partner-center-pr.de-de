@@ -1,7 +1,7 @@
 ---
 title: Verkaufen von Kunden Microsoft Azure Reservierungen
 ms.topic: article
-ms.date: 06/19/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Als cloudlösungsanbieter können Sie Azure-Reservierungen für Kunden erwerben, verkaufen oder verwalten. Verwenden Sie Partner Center, die Azure-Portal oder die Partner Center-API.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4524d810a036953e45fb94a72241734e02a2798f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3efe8ae6a955dee5cfe01d0571cd107f8ee50f5c
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435729"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900084"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Verkaufen Sie Microsoft Azure Reservierungen an Kunden, die Partner Center, die Azure-Portal oder APIs verwenden.
 
@@ -22,7 +22,7 @@ ms.locfileid: "86435729"
 
 - Partner Center
 - Microsoft Azure-Portal
-- Partner im CSP
+- Partner im CSP-Programm
 
 **Geeignete Rollen**
 
@@ -32,12 +32,15 @@ ms.locfileid: "86435729"
 - Vertriebsbeauftragter
 - Benutzerverwaltungsadministrator
 
-Partner im Cloud Solution Provider-Programm (CSP) können ihren Kunden Microsoft Azure-Reservierungen anbieten. Kunden profitieren von deutlichen Einsparungen, wenn sie im Voraus reservieren. Azure-Reservierungen bieten Kunden Einfachheit und Flexibilität auf folgende Weise:
+> [!NOTE]
+> Dieser Artikel gilt nur für Partner im CSP-Programm (Cloud Solution Provider). Kunden, die andere Abonnementtypen (z. b. Pay-as-you-go, individuelle, Microsoft-Kunden Vereinbarung oder Konzernvertrag Abonnements) verwenden, sollten stattdessen [diese Azure-Reservierungs Dokumentation](https://docs.microsoft.com/azure/cost-management-billing/reservations)lesen.
+
+Partner im CSP-Programm können Ihren Kunden Microsoft Azure Reservierungen anbieten. Kunden profitieren von deutlichen Einsparungen, wenn sie im Voraus reservieren. Azure-Reservierungen bieten Kunden Einfachheit und Flexibilität auf folgende Weise:
 
 - Ein- oder dreijährige Reservierungslaufzeiten
 - Einfache Inbetriebnahme, sehr schnelles Setup
 - Jederzeitiges Stornieren oder Umtauschen reservierter Instanzen gegen angepasste Rückerstattung
-- Verwalten reservierter Instanzen auf Organisations- oder Abteilungsebene 
+- Verwalten reservierter Instanzen auf Organisations- oder Abteilungsebene
 
 Azure-Reservierungen können Kunden wie folgt ansprechen:
 

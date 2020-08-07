@@ -1,7 +1,7 @@
 ---
 title: Microsoft Azure Reservierungen für Kunden kaufen
 ms.topic: article
-ms.date: 06/18/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: Erfahren Sie, wie Sie Azure-Reservierungen im Namen Ihrer Kunden im Partner Center erwerben oder erwerben.
@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a8f9193d7bb383b602acc8092b159401ab0785d5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435769"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900100"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Kaufen von Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden im Partner Center
 
@@ -31,6 +31,9 @@ ms.locfileid: "86435769"
 - Helpdesk-Agent
 - Vertriebsbeauftragter
 - Benutzerverwaltungsadministrator
+ 
+> [!NOTE]
+> Dieser Artikel gilt nur für Partner im CSP-Programm (Cloud Solution Provider). Kunden, die andere Abonnementtypen (z. b. Pay-as-you-go, individuelle, Microsoft-Kunden Vereinbarung oder Konzernvertrag Abonnements) verwenden, sollten stattdessen [diese Azure-Reservierungs Dokumentation](https://docs.microsoft.com/azure/cost-management-billing/reservations)lesen.
 
 ## <a name="before-you-begin"></a>Voraussetzungen
 
@@ -109,9 +112,9 @@ Führen Sie die folgenden Schritte aus, um Microsoft Azure-Reservierungen im Auf
 
 3. Wählen Sie **Produkte hinzufügen** und dann **Azure** aus. 
 
-    a) Wählen Sie in der Liste **Segment** das Marktsegment des Kunden aus.
+    a. Wählen Sie in der Liste **Segment** das Marktsegment des Kunden aus.
 
-    b) Wählen Sie **Reservierungen** in der Liste **Produkttyp** aus.
+    b. Wählen Sie **Reservierungen** in der Liste **Produkttyp** aus.
 
     c. Wählen Sie in der Liste **Reservierungstyp** den vom Kunden gewünschten Typ der Reservierung aus.
 
@@ -130,7 +133,7 @@ Führen Sie die folgenden Schritte aus, um Microsoft Azure-Reservierungen im Auf
 
     - Überprüfen oder Ändern der Menge der reservierten Instanzen
 
-    - Wählen Sie den Bereich der Reservierung aus. Der Reservierungsbereich kann ein Abonnement oder mehrere Abonnements (frei gegebener Bereich) abdecken. Wenn Sie ein einzelnes Abonnement auswählen, gilt der Reservierungsrabatt nur für dieses Abonnement. Wenn Sie Shared auswählen, wird der Reservierungs Rabatt auf alle Abonnements innerhalb des Abrechnungs Kontexts des Kunden angewendet. 
+    - Wählen Sie den Bereich der Reservierung aus. Der Bereich der Reservierung kann ein Abonnement oder mehrere Abonnements (freigegebener Bereich) umfassen. Wenn Sie ein einzelnes Abonnement auswählen, gilt der Reservierungsrabatt nur für dieses Abonnement. Wenn Sie Shared auswählen, wird der Reservierungs Rabatt auf alle Abonnements innerhalb des Abrechnungs Kontexts des Kunden angewendet. 
 
       >[!NOTE] 
       >Wenn Sie sich dafür entscheiden, den Umfang der Reservierung auf ein einzelnes Azure-Abonnement zu beschränken, müssen Sie möglicherweise die vCPU-Kontingente des Abonnements erhöhen. Um das vCPU-Kontingent des Abonnements zu erhöhen, müssen Sie im Azure-Portal eine Supportanfrage stellen. Folgen Sie den Anweisungen [in diesem Thema](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request), um die Anfrage zu erstellen. 

@@ -3,102 +3,106 @@ title: Erstellen von Benutzerkonten und Zuweisen von Rollen
 description: Jedem Mitarbeiter muss eine Rolle zugewiesen werden, bevor er auf das Partner Center zugreifen kann. Erfahren Sie, wie Sie Benutzerkonten erstellen, Rollen zuweisen und Berechtigungen festlegen.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: c7d04307be7a81cf3501e1b50e278cf1a012afcd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cfd681a56bfaebcc1fd6c77de3e5a0c6deb4a46f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435189"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527736"
 ---
-# <a name="create-user-accounts-and-assign-roles-and-permissions"></a><span data-ttu-id="6714f-104">Erstellen von Benutzerkonten und Zuweisen von Rollen und Berechtigungen</span><span class="sxs-lookup"><span data-stu-id="6714f-104">Create user accounts and assign roles and permissions</span></span>
+# <a name="create-user-accounts-and-assign-roles-and-permissions"></a><span data-ttu-id="d96cd-104">Erstellen von Benutzerkonten und Zuweisen von Rollen und Berechtigungen</span><span class="sxs-lookup"><span data-stu-id="d96cd-104">Create user accounts and assign roles and permissions</span></span>
 
-<span data-ttu-id="6714f-105">**Geeignete Rollen**</span><span class="sxs-lookup"><span data-stu-id="6714f-105">**Appropriate roles**</span></span>
+<span data-ttu-id="d96cd-105">**Geeignete Rollen**</span><span class="sxs-lookup"><span data-stu-id="d96cd-105">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="6714f-106">Kontoadministrator</span><span class="sxs-lookup"><span data-stu-id="6714f-106">Account admin</span></span>
-- <span data-ttu-id="6714f-107">Globaler Administrator</span><span class="sxs-lookup"><span data-stu-id="6714f-107">Global admin</span></span>
-- <span data-ttu-id="6714f-108">Benutzerverwaltungsadministrator</span><span class="sxs-lookup"><span data-stu-id="6714f-108">User management admin</span></span>
+- <span data-ttu-id="d96cd-106">Kontoadministrator</span><span class="sxs-lookup"><span data-stu-id="d96cd-106">Account admin</span></span>
+- <span data-ttu-id="d96cd-107">Globaler Administrator</span><span class="sxs-lookup"><span data-stu-id="d96cd-107">Global admin</span></span>
+- <span data-ttu-id="d96cd-108">Benutzerverwaltungsadministrator</span><span class="sxs-lookup"><span data-stu-id="d96cd-108">User management admin</span></span>
 
-<span data-ttu-id="6714f-109">Erstellen Sie Benutzerkonten für Mitarbeiter, die Zugriff auf das Partner Center benötigen.</span><span class="sxs-lookup"><span data-stu-id="6714f-109">Create user accounts for employees who need access to the Partner Center.</span></span> <span data-ttu-id="6714f-110">Diese Aufgaben müssen von einem Administrator für die Benutzerverwaltung, Kontoadministrator oder vom globalen Administrator durchgeführt werden. Dem Benutzer, der diese Aufgaben ausführt, müssen auch die AAD-Rollen (Azure Active Directory) „Benutzeradministrator“ und „Globaler Administrator“ zugewiesen werden.</span><span class="sxs-lookup"><span data-stu-id="6714f-110">These tasks must be done by the user management admin, accounts admin, or the global admin. The user performing these tasks must also be assigned the Azure Active Directory (AAD) roles of User administrator or Global administrator.</span></span> <span data-ttu-id="6714f-111">Weitere Informationen zu AAD-Rollen findest du unter [Berechtigungen für Administratorrollen in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles).</span><span class="sxs-lookup"><span data-stu-id="6714f-111">For more information about AAD roles, see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles).</span></span>
+<span data-ttu-id="d96cd-109">Erstellen Sie Benutzerkonten für Mitarbeiter, die Zugriff auf das Partner Center benötigen.</span><span class="sxs-lookup"><span data-stu-id="d96cd-109">Create user accounts for employees who need access to the Partner Center.</span></span> <span data-ttu-id="d96cd-110">Diese Aufgaben müssen von einem Administrator für die Benutzerverwaltung, Kontoadministrator oder vom globalen Administrator durchgeführt werden. Dem Benutzer, der diese Aufgaben ausführt, müssen auch die AAD-Rollen (Azure Active Directory) „Benutzeradministrator“ und „Globaler Administrator“ zugewiesen werden.</span><span class="sxs-lookup"><span data-stu-id="d96cd-110">These tasks must be done by the user management admin, accounts admin, or the global admin. The user performing these tasks must also be assigned the Azure Active Directory (AAD) roles of User administrator or Global administrator.</span></span> <span data-ttu-id="d96cd-111">Weitere Informationen zu AAD-Rollen findest du unter [Berechtigungen für Administratorrollen in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles).</span><span class="sxs-lookup"><span data-stu-id="d96cd-111">For more information about AAD roles, see [Administrator role permissions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles).</span></span>
 
 
-## <a name="add-a-new-user"></a><span data-ttu-id="6714f-112">Neuen Benutzer hinzufügen</span><span class="sxs-lookup"><span data-stu-id="6714f-112">Add a new user</span></span>
+## <a name="add-a-new-user"></a><span data-ttu-id="d96cd-112">Neuen Benutzer hinzufügen</span><span class="sxs-lookup"><span data-stu-id="d96cd-112">Add a new user</span></span>
 
-1. <span data-ttu-id="6714f-113">Klicken Sie im Partner Center rechts oben auf das Symbol **Einstellungen** und dann auf **Benutzerverwaltung**.</span><span class="sxs-lookup"><span data-stu-id="6714f-113">From the **Settings** icon at the top right of the Partner Center, select **User management**.</span></span>
+1. <span data-ttu-id="d96cd-113">Klicken Sie im Partner Center rechts oben auf das Symbol **Einstellungen** und dann auf **Benutzerverwaltung**.</span><span class="sxs-lookup"><span data-stu-id="d96cd-113">From the **Settings** icon at the top right of the Partner Center, select **User management**.</span></span>
 
-2. <span data-ttu-id="6714f-114">Wählen Sie **Benutzer hinzufügen** aus.</span><span class="sxs-lookup"><span data-stu-id="6714f-114">Select **Add user**.</span></span>
+2. <span data-ttu-id="d96cd-114">Wählen Sie **Benutzer hinzufügen** aus.</span><span class="sxs-lookup"><span data-stu-id="d96cd-114">Select **Add user**.</span></span>
 
-3. <span data-ttu-id="6714f-115">Gib den vollständigen Namen und die eindeutige E-Mail-Adresse des Benutzers ein.</span><span class="sxs-lookup"><span data-stu-id="6714f-115">Enter the user's full name and unique email address.</span></span>
+3. <span data-ttu-id="d96cd-115">Gib den vollständigen Namen und die eindeutige E-Mail-Adresse des Benutzers ein.</span><span class="sxs-lookup"><span data-stu-id="d96cd-115">Enter the user's full name and unique email address.</span></span>
 
-4. <span data-ttu-id="6714f-116">Wählen Sie den Agent- bzw. Administratortyp, den Sie dem Benutzer zuweisen möchten.</span><span class="sxs-lookup"><span data-stu-id="6714f-116">Select the type of agent and/or the type of admin you want to assign to the user.</span></span> <span data-ttu-id="6714f-117">Partner Center-Zugriff ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt.</span><span class="sxs-lookup"><span data-stu-id="6714f-117">Partner Center access is role-based, so you can assign permissions to customize the user's view to show only the features the user needs to complete specific tasks.</span></span>  <span data-ttu-id="6714f-118">Wenn Benutzer eine Rollenzuweisung wünschen, finden sie die zu kontaktierenden globalen Administratoren unter **Benutzerverwaltung** durch Filtern nach „globaler Administrator“.</span><span class="sxs-lookup"><span data-stu-id="6714f-118">If users want a role assignment, they can find global admins to contact by going to **User management** and filtering on global admin.</span></span>
+4. <span data-ttu-id="d96cd-116">Wählen Sie den Agent- bzw. Administratortyp, den Sie dem Benutzer zuweisen möchten.</span><span class="sxs-lookup"><span data-stu-id="d96cd-116">Select the type of agent and/or the type of admin you want to assign to the user.</span></span> <span data-ttu-id="d96cd-117">Partner Center-Zugriff ist rollenbasiert. So können Sie Berechtigungen zum Anpassen der Benutzeransicht zuweisen, um nur die Funktionen anzuzeigen, die der Benutzer für bestimmte Aufgaben benötigt.</span><span class="sxs-lookup"><span data-stu-id="d96cd-117">Partner Center access is role-based, so you can assign permissions to customize the user's view to show only the features the user needs to complete specific tasks.</span></span>  <span data-ttu-id="d96cd-118">Wenn Benutzer eine Rollenzuweisung wünschen, finden sie die zu kontaktierenden globalen Administratoren unter **Benutzerverwaltung** durch Filtern nach „globaler Administrator“.</span><span class="sxs-lookup"><span data-stu-id="d96cd-118">If users want a role assignment, they can find global admins to contact by going to **User management** and filtering on global admin.</span></span>
 
-5. <span data-ttu-id="6714f-119">Wählen Sie **Hinzufügen** aus, um das Benutzerkonto zu erstellen.</span><span class="sxs-lookup"><span data-stu-id="6714f-119">Select **Add** to create the user account.</span></span> <span data-ttu-id="6714f-120">Bestätigen Sie die Details des Benutzers auf der nächsten Seite.</span><span class="sxs-lookup"><span data-stu-id="6714f-120">Confirm the user's details on the next page.</span></span>
+5. <span data-ttu-id="d96cd-119">Wählen Sie **Hinzufügen** aus, um das Benutzerkonto zu erstellen.</span><span class="sxs-lookup"><span data-stu-id="d96cd-119">Select **Add** to create the user account.</span></span> <span data-ttu-id="d96cd-120">Bestätigen Sie die Details des Benutzers auf der nächsten Seite.</span><span class="sxs-lookup"><span data-stu-id="d96cd-120">Confirm the user's details on the next page.</span></span>
 
 > [!IMPORTANT]  
-> <span data-ttu-id="6714f-121">Notieren Sie sich die Anmeldeinformationen des neuen Benutzers, die auf dieser Seite angezeigt werden.</span><span class="sxs-lookup"><span data-stu-id="6714f-121">Make a note of the new user's sign-in information displayed on this page.</span></span> <span data-ttu-id="6714f-122">Achten Sie darauf, diese Informationen zu kopieren und an den neuen Benutzer zu senden, da Sie später nicht erneut darauf zugreifen können.</span><span class="sxs-lookup"><span data-stu-id="6714f-122">Be sure to copy and send this information to the new user as you will not be able to access it again later.</span></span> 
+> <span data-ttu-id="d96cd-121">Notieren Sie sich die Anmeldeinformationen des neuen Benutzers, die auf dieser Seite angezeigt werden.</span><span class="sxs-lookup"><span data-stu-id="d96cd-121">Make a note of the new user's sign-in information displayed on this page.</span></span> <span data-ttu-id="d96cd-122">Achten Sie darauf, diese Informationen zu kopieren und an den neuen Benutzer zu senden, da Sie später nicht erneut darauf zugreifen können.</span><span class="sxs-lookup"><span data-stu-id="d96cd-122">Be sure to copy and send this information to the new user as you will not be able to access it again later.</span></span> 
 
 
-<span data-ttu-id="6714f-123">Der Benutzer muss sich bei Partner Center mit seinem Benutzernamen und einem temporären Kennwort anmelden.</span><span class="sxs-lookup"><span data-stu-id="6714f-123">The user will need to sign in to the Partner Center with their user name and temporary password.</span></span> <span data-ttu-id="6714f-124">Wenn sich der Benutzer zum ersten Mal bei Partner Center anmeldet, wird er aufgefordert, sein Kennwort zu ändern.</span><span class="sxs-lookup"><span data-stu-id="6714f-124">When the user signs in to the Partner Center for the first time, they are prompted to change their password.</span></span> 
+<span data-ttu-id="d96cd-123">Der Benutzer muss sich bei Partner Center mit seinem Benutzernamen und einem temporären Kennwort anmelden.</span><span class="sxs-lookup"><span data-stu-id="d96cd-123">The user will need to sign in to the Partner Center with their user name and temporary password.</span></span> <span data-ttu-id="d96cd-124">Wenn sich der Benutzer zum ersten Mal bei Partner Center anmeldet, wird er aufgefordert, sein Kennwort zu ändern.</span><span class="sxs-lookup"><span data-stu-id="d96cd-124">When the user signs in to the Partner Center for the first time, they are prompted to change their password.</span></span> 
 
 
-### <a name="find-your-global-admin"></a><span data-ttu-id="6714f-125">Finden des globalen Administrators</span><span class="sxs-lookup"><span data-stu-id="6714f-125">Find your global admin</span></span>
+### <a name="find-your-global-admin"></a><span data-ttu-id="d96cd-125">Finden des globalen Administrators</span><span class="sxs-lookup"><span data-stu-id="d96cd-125">Find your global admin</span></span>
 
-<span data-ttu-id="6714f-126">Es kann vorkommen, dass ein Benutzer seine Rolle ändern lassen muss oder ein neuer Benutzer eine Zuweisung zu einer bestimmten Rolle wünscht.</span><span class="sxs-lookup"><span data-stu-id="6714f-126">Sometimes a user might need to have their role changed or a new user may want a specific role assignment.</span></span>  
-<span data-ttu-id="6714f-127">Um einen globalen Administrator zu finden, der Rollenänderungen vornehmen oder einem neuen Benutzer Rollen zuweisen kann, klicken Sie rechts oben im Partner Center auf das Symbol **Einstellungen**, wählen Sie **Benutzerverwaltung** aus, und filtern Sie nach „Globaler Administrator“.</span><span class="sxs-lookup"><span data-stu-id="6714f-127">To find a global admin who can make role changes or assign roles to a new user, from the **Settings icon** at the top right of the Partner Center, select **User management** and filter on global admin.</span></span> 
-
-
-### <a name="new-global-admin"></a><span data-ttu-id="6714f-128">Neuer globaler Administrator</span><span class="sxs-lookup"><span data-stu-id="6714f-128">New global admin</span></span>
-
-<span data-ttu-id="6714f-129">Wenn Ihr globaler Administrator aus dem Unternehmen ausscheidet und diese Aufgabe von jemand anderem übernommen wird, können Sie ein Ticket an das Azure-Team oder an das Office 365-Team senden.</span><span class="sxs-lookup"><span data-stu-id="6714f-129">If your global admin leaves the organization and someone else needs to fill this role, you can submit a ticket to either the Azure or Office 365 team.</span></span> <span data-ttu-id="6714f-130">Wählen Sie eine der folgenden Optionen aus, um zu erfahren, wie Sie dazu vorgehen.</span><span class="sxs-lookup"><span data-stu-id="6714f-130">For information on how to do this, select one of the options below.</span></span>
-
-[<span data-ttu-id="6714f-131">Neuer globaler Administrator für Azure</span><span class="sxs-lookup"><span data-stu-id="6714f-131">New global admin for Azure</span></span>](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
-
-[<span data-ttu-id="6714f-132">Neuer globaler Administrator für Office 365</span><span class="sxs-lookup"><span data-stu-id="6714f-132">New global admin for Office 365</span></span>](https://admin.microsoft.com/)
+<span data-ttu-id="d96cd-126">Es kann vorkommen, dass ein Benutzer seine Rolle ändern lassen muss oder ein neuer Benutzer eine Zuweisung zu einer bestimmten Rolle wünscht.</span><span class="sxs-lookup"><span data-stu-id="d96cd-126">Sometimes a user might need to have their role changed or a new user may want a specific role assignment.</span></span>  
+<span data-ttu-id="d96cd-127">Um einen globalen Administrator zu finden, der Rollenänderungen vornehmen oder einem neuen Benutzer Rollen zuweisen kann, klicken Sie rechts oben im Partner Center auf das Symbol **Einstellungen**, wählen Sie **Benutzerverwaltung** aus, und filtern Sie nach „Globaler Administrator“.</span><span class="sxs-lookup"><span data-stu-id="d96cd-127">To find a global admin who can make role changes or assign roles to a new user, from the **Settings icon** at the top right of the Partner Center, select **User management** and filter on global admin.</span></span> 
 
 
-## <a name="assign-user-roles"></a><span data-ttu-id="6714f-133">Zuweisen von Benutzerrollen</span><span class="sxs-lookup"><span data-stu-id="6714f-133">Assign user roles</span></span>
+### <a name="new-global-admin"></a><span data-ttu-id="d96cd-128">Neuer globaler Administrator</span><span class="sxs-lookup"><span data-stu-id="d96cd-128">New global admin</span></span>
 
-<span data-ttu-id="6714f-134">Um im Partner Center arbeiten zu können, muss Ihnen eine Rolle zugewiesen sein.</span><span class="sxs-lookup"><span data-stu-id="6714f-134">To work in the Partner Center, you must have an assigned role.</span></span>  <span data-ttu-id="6714f-135">Derzeit gibt es Rollen für Azure Active Directory-Mandanten, Cloud Solution Provider (CSP) und nicht auf AAD bezogene Rollen im Unternehmen.</span><span class="sxs-lookup"><span data-stu-id="6714f-135">Currently, roles include Azure Active Directory tenant roles, Cloud Solution Provider (CSP) roles, and non-AAD company roles.</span></span> <span data-ttu-id="6714f-136">Ein einzelnes Unternehmen kann eine alle diese Rollen benötigen.</span><span class="sxs-lookup"><span data-stu-id="6714f-136">An individual company can have a need for all of these roles.</span></span>
+<span data-ttu-id="d96cd-129">Wenn Ihr globaler Administrator aus dem Unternehmen ausscheidet und diese Aufgabe von jemand anderem übernommen wird, können Sie ein Ticket an das Azure-Team oder an das Office 365-Team senden.</span><span class="sxs-lookup"><span data-stu-id="d96cd-129">If your global admin leaves the organization and someone else needs to fill this role, you can submit a ticket to either the Azure or Office 365 team.</span></span> <span data-ttu-id="d96cd-130">Wählen Sie eine der folgenden Optionen aus, um zu erfahren, wie Sie dazu vorgehen.</span><span class="sxs-lookup"><span data-stu-id="d96cd-130">For information on how to do this, select one of the options below.</span></span>
+
+[<span data-ttu-id="d96cd-131">Neuer globaler Administrator für Azure</span><span class="sxs-lookup"><span data-stu-id="d96cd-131">New global admin for Azure</span></span>](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
+
+[<span data-ttu-id="d96cd-132">Neuer globaler Administrator für Office 365</span><span class="sxs-lookup"><span data-stu-id="d96cd-132">New global admin for Office 365</span></span>](https://admin.microsoft.com/)
+
+
+## <a name="assign-user-roles"></a><span data-ttu-id="d96cd-133">Zuweisen von Benutzerrollen</span><span class="sxs-lookup"><span data-stu-id="d96cd-133">Assign user roles</span></span>
+
+<span data-ttu-id="d96cd-134">Um im Partner Center arbeiten zu können, muss Ihnen eine Rolle zugewiesen sein.</span><span class="sxs-lookup"><span data-stu-id="d96cd-134">To work in the Partner Center, you must have an assigned role.</span></span>  <span data-ttu-id="d96cd-135">Derzeit gibt es Rollen für Azure Active Directory-Mandanten, Cloud Solution Provider (CSP) und nicht auf AAD bezogene Rollen im Unternehmen.</span><span class="sxs-lookup"><span data-stu-id="d96cd-135">Currently, roles include Azure Active Directory tenant roles, Cloud Solution Provider (CSP) roles, and non-AAD company roles.</span></span> <span data-ttu-id="d96cd-136">Ein einzelnes Unternehmen kann eine alle diese Rollen benötigen.</span><span class="sxs-lookup"><span data-stu-id="d96cd-136">An individual company can have a need for all of these roles.</span></span>
 
 >[!Important]
-><span data-ttu-id="6714f-137">Benutzer müssen in Ihrem Mandanten aufgeführt sein, um auf das Partner Center zugreifen zu können.</span><span class="sxs-lookup"><span data-stu-id="6714f-137">Individuals must be listed in your tenant to access Partner Center.</span></span> <span data-ttu-id="6714f-138">Rollenzuweisungen gewähren zusätzliche Zugriffsrechte.</span><span class="sxs-lookup"><span data-stu-id="6714f-138">Role assignments provide additional access.</span></span>
+><span data-ttu-id="d96cd-137">Benutzer müssen in Ihrem Mandanten aufgeführt sein, um auf das Partner Center zugreifen zu können.</span><span class="sxs-lookup"><span data-stu-id="d96cd-137">Individuals must be listed in your tenant to access Partner Center.</span></span> <span data-ttu-id="d96cd-138">Rollenzuweisungen gewähren zusätzliche Zugriffsrechte.</span><span class="sxs-lookup"><span data-stu-id="d96cd-138">Role assignments provide additional access.</span></span>
 
 
-<span data-ttu-id="6714f-139">**AAD-Mandantenrollen**:</span><span class="sxs-lookup"><span data-stu-id="6714f-139">**AAD tenant roles include**:</span></span>
-- <span data-ttu-id="6714f-140">Globaler Administrator</span><span class="sxs-lookup"><span data-stu-id="6714f-140">Global admin</span></span>
-- <span data-ttu-id="6714f-141">Benutzeradministrator</span><span class="sxs-lookup"><span data-stu-id="6714f-141">User admin</span></span>
+<span data-ttu-id="d96cd-139">**AAD-Mandantenrollen**:</span><span class="sxs-lookup"><span data-stu-id="d96cd-139">**AAD tenant roles include**:</span></span>
+- <span data-ttu-id="d96cd-140">Globaler Administrator</span><span class="sxs-lookup"><span data-stu-id="d96cd-140">Global admin</span></span>
+- <span data-ttu-id="d96cd-141">Benutzeradministrator</span><span class="sxs-lookup"><span data-stu-id="d96cd-141">User admin</span></span>
 
-<span data-ttu-id="6714f-142">**CSP-Rollen**:</span><span class="sxs-lookup"><span data-stu-id="6714f-142">**CSP roles include**:</span></span>
-- <span data-ttu-id="6714f-143">Administrator-Agent</span><span class="sxs-lookup"><span data-stu-id="6714f-143">Admin agent</span></span>
-- <span data-ttu-id="6714f-144">Abrechnungsadministrator</span><span class="sxs-lookup"><span data-stu-id="6714f-144">Billing admin</span></span>
-- <span data-ttu-id="6714f-145">Vertriebsbeauftragter</span><span class="sxs-lookup"><span data-stu-id="6714f-145">Sales agent</span></span>
-- <span data-ttu-id="6714f-146">Helpdesk-Agent</span><span class="sxs-lookup"><span data-stu-id="6714f-146">Helpdesk agent</span></span>
+<span data-ttu-id="d96cd-142">**CSP-Rollen**:</span><span class="sxs-lookup"><span data-stu-id="d96cd-142">**CSP roles include**:</span></span>
+- <span data-ttu-id="d96cd-143">Administrator-Agent</span><span class="sxs-lookup"><span data-stu-id="d96cd-143">Admin agent</span></span>
+- <span data-ttu-id="d96cd-144">Abrechnungsadministrator</span><span class="sxs-lookup"><span data-stu-id="d96cd-144">Billing admin</span></span>
+- <span data-ttu-id="d96cd-145">Vertriebsbeauftragter</span><span class="sxs-lookup"><span data-stu-id="d96cd-145">Sales agent</span></span>
+- <span data-ttu-id="d96cd-146">Helpdesk-Agent</span><span class="sxs-lookup"><span data-stu-id="d96cd-146">Helpdesk agent</span></span>
 
-<span data-ttu-id="6714f-147">**Rollen für die Verwaltung der MPN-Mitgliedschaft und des Unternehmens (außerhalb von AAD)**</span><span class="sxs-lookup"><span data-stu-id="6714f-147">**Roles that manage the MPN membership and the company (Non-AAD)**</span></span>
-- <span data-ttu-id="6714f-148">MPN-Partneradministrator</span><span class="sxs-lookup"><span data-stu-id="6714f-148">MPN partner admin</span></span>
-- <span data-ttu-id="6714f-149">Kontoadministrator</span><span class="sxs-lookup"><span data-stu-id="6714f-149">Account admin</span></span>
-- <span data-ttu-id="6714f-150">Administrator für Empfehlungen</span><span class="sxs-lookup"><span data-stu-id="6714f-150">Referral admin</span></span>
-- <span data-ttu-id="6714f-151">Unternehmensprofiladministrator</span><span class="sxs-lookup"><span data-stu-id="6714f-151">Business profile admin</span></span>
-- <span data-ttu-id="6714f-152">Incentives-Administrator und -Benutzer</span><span class="sxs-lookup"><span data-stu-id="6714f-152">Incentives admin and user</span></span>
+<span data-ttu-id="d96cd-147">**Rollen für die Verwaltung der MPN-Mitgliedschaft und des Unternehmens (außerhalb von AAD)**</span><span class="sxs-lookup"><span data-stu-id="d96cd-147">**Roles that manage the MPN membership and the company (Non-AAD)**</span></span>
+- <span data-ttu-id="d96cd-148">MPN-Partneradministrator</span><span class="sxs-lookup"><span data-stu-id="d96cd-148">MPN partner admin</span></span>
+- <span data-ttu-id="d96cd-149">Kontoadministrator</span><span class="sxs-lookup"><span data-stu-id="d96cd-149">Account admin</span></span>
+- <span data-ttu-id="d96cd-150">Administrator für Empfehlungen</span><span class="sxs-lookup"><span data-stu-id="d96cd-150">Referral admin</span></span>
+- <span data-ttu-id="d96cd-151">Unternehmensprofiladministrator</span><span class="sxs-lookup"><span data-stu-id="d96cd-151">Business profile admin</span></span>
+- <span data-ttu-id="d96cd-152">Incentives-Administrator und -Benutzer</span><span class="sxs-lookup"><span data-stu-id="d96cd-152">Incentives admin and user</span></span>
 
-<span data-ttu-id="6714f-153">**Control Panel Vendor ist eine CSP- und keine AAD-Rolle**.</span><span class="sxs-lookup"><span data-stu-id="6714f-153">**Control Panel Vendor is a CSP and non-AAD role**.</span></span>
-- <span data-ttu-id="6714f-154">Globaler Administrator</span><span class="sxs-lookup"><span data-stu-id="6714f-154">Global admin</span></span>
+<span data-ttu-id="d96cd-153">**Control Panel Vendor ist eine CSP- und keine AAD-Rolle**.</span><span class="sxs-lookup"><span data-stu-id="d96cd-153">**Control Panel Vendor is a CSP and non-AAD role**.</span></span>
+- <span data-ttu-id="d96cd-154">Globaler Administrator</span><span class="sxs-lookup"><span data-stu-id="d96cd-154">Global admin</span></span>
 
-<span data-ttu-id="6714f-155">**Gastbenutzer** muss Teil des AAD-Mandanten sein und eine beliebige AAD-externe Rolle haben.</span><span class="sxs-lookup"><span data-stu-id="6714f-155">**Guest user** must be part of the AAD tenant and can have any non-AAD role.</span></span>
+<span data-ttu-id="d96cd-155">**Gastbenutzer** muss Teil des AAD-Mandanten sein und eine beliebige AAD-externe Rolle haben.</span><span class="sxs-lookup"><span data-stu-id="d96cd-155">**Guest user** must be part of the AAD tenant and can have any non-AAD role.</span></span>
 
-<span data-ttu-id="6714f-156">Spezifische Informationen zu den Rollen und ihren Möglichkeiten finden Sie unter [Zuweisen von Benutzerberechtigungen](permissions-overview.md).</span><span class="sxs-lookup"><span data-stu-id="6714f-156">For specific information on the roles and what each role can do, see [Assign user permissions](permissions-overview.md).</span></span>
+<span data-ttu-id="d96cd-156">Spezifische Informationen zu den Rollen und ihren Möglichkeiten finden Sie unter [Zuweisen von Benutzerberechtigungen](permissions-overview.md).</span><span class="sxs-lookup"><span data-stu-id="d96cd-156">For specific information on the roles and what each role can do, see [Assign user permissions](permissions-overview.md).</span></span>
 
-## <a name="associate-a-users-microsoft-learn-account-in-partner-center"></a><span data-ttu-id="6714f-157">Zuordnen des Microsoft Learn Kontos eines Benutzers im Partner Center</span><span class="sxs-lookup"><span data-stu-id="6714f-157">Associate a user's Microsoft Learn account in Partner Center</span></span>
+## <a name="associate-a-users-microsoft-learn-account-in-partner-center"></a><span data-ttu-id="d96cd-157">Zuordnen des Microsoft Learn Kontos eines Benutzers im Partner Center</span><span class="sxs-lookup"><span data-stu-id="d96cd-157">Associate a user's Microsoft Learn account in Partner Center</span></span>
 
-<span data-ttu-id="6714f-158">Damit Sie die Schulungs- und Lernpfade anzeigen können, die Ihre Benutzer für Kompetenzen verwenden, müssen sie Ihre MCP-ID ihrem Partner Center-Konto zuordnen.</span><span class="sxs-lookup"><span data-stu-id="6714f-158">In order to be able to see the training and learning paths your users are taking towards competencies, they need to associate their MCP ID to their Partner Center account.</span></span> <span data-ttu-id="6714f-159">Wenn Sie als globaler Administrator neue Benutzer hinzufügen, müssen Sie sie daran erinnern, ihre MCP-ID ihrem Konto zuzuordnen.</span><span class="sxs-lookup"><span data-stu-id="6714f-159">As the global admin, when you add new users, be sure to remind them to associate their MCP ID to their account.</span></span> 
+<span data-ttu-id="d96cd-158">Damit Sie die Schulungs- und Lernpfade anzeigen können, die Ihre Benutzer für Kompetenzen verwenden, müssen sie Ihre MCP-ID ihrem Partner Center-Konto zuordnen.</span><span class="sxs-lookup"><span data-stu-id="d96cd-158">In order to be able to see the training and learning paths your users are taking towards competencies, they need to associate their MCP ID to their Partner Center account.</span></span> <span data-ttu-id="d96cd-159">Wenn Sie als globaler Administrator neue Benutzer hinzufügen, müssen Sie sie daran erinnern, ihre MCP-ID ihrem Konto zuzuordnen.</span><span class="sxs-lookup"><span data-stu-id="d96cd-159">As the global admin, when you add new users, be sure to remind them to associate their MCP ID to their account.</span></span> 
 
-### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a><span data-ttu-id="6714f-160">Zuordnen Ihrer MCP-ID zu Ihrem Partner Center-Konto</span><span class="sxs-lookup"><span data-stu-id="6714f-160">How to associate your MCP ID to your Partner Center account</span></span>
+### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a><span data-ttu-id="d96cd-160">Zuordnen Ihrer MCP-ID zu Ihrem Partner Center-Konto</span><span class="sxs-lookup"><span data-stu-id="d96cd-160">How to associate your MCP ID to your Partner Center account</span></span>
 
-1. <span data-ttu-id="6714f-161">Wähle im Partner Center-Dashboard das Symbol für **Dein Konto** in der rechten Ecke des Dashboards aus, und wähle dann **Mein Profil** aus.</span><span class="sxs-lookup"><span data-stu-id="6714f-161">From the Partner Center dashboard, select the **Your account** icon in the right corner of the dashboard, and then select **My profile**.</span></span>
+1. <span data-ttu-id="d96cd-161">Wähle im Partner Center-Dashboard das Symbol für **Dein Konto** in der rechten Ecke des Dashboards aus, und wähle dann **Mein Profil** aus.</span><span class="sxs-lookup"><span data-stu-id="d96cd-161">From the Partner Center dashboard, select the **Your account** icon in the right corner of the dashboard, and then select **My profile**.</span></span>
 
-2. <span data-ttu-id="6714f-162">Unter **Dein Learning** kannst du dein Microsoft Learning-Konto zuordnen und auch dein Microsoft-Konto mit Partner University verbinden.</span><span class="sxs-lookup"><span data-stu-id="6714f-162">Under **Your learning** you will be able to associate your Microsoft Learning account and also connect your Microsoft account to Partner University.</span></span>
+2. <span data-ttu-id="d96cd-162">Unter **Dein Learning** kannst du dein Microsoft Learning-Konto zuordnen und auch dein Microsoft-Konto mit Partner University verbinden.</span><span class="sxs-lookup"><span data-stu-id="d96cd-162">Under **Your learning** you will be able to associate your Microsoft Learning account and also connect your Microsoft account to Partner University.</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="d96cd-163">Nächste Schritte</span><span class="sxs-lookup"><span data-stu-id="d96cd-163">Next steps</span></span>
+
+- [<span data-ttu-id="d96cd-164">Zuweisen von Rollen und Berechtigungen zu Benutzern im Unternehmen, die im Partner Center arbeiten müssen</span><span class="sxs-lookup"><span data-stu-id="d96cd-164">Assign users roles and permissions for a company's users needing to work in Partner Center</span></span>](permissions-overview.md)

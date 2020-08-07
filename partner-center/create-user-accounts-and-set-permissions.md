@@ -3,18 +3,18 @@ title: Erstellen von Benutzerkonten und Zuweisen von Rollen
 description: Jedem Mitarbeiter muss eine Rolle zugewiesen werden, bevor er auf das Partner Center zugreifen kann. Erfahren Sie, wie Sie Benutzerkonten erstellen, Rollen zuweisen und Berechtigungen festlegen.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: c7d04307be7a81cf3501e1b50e278cf1a012afcd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cfd681a56bfaebcc1fd6c77de3e5a0c6deb4a46f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435189"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527736"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>Erstellen von Benutzerkonten und Zuweisen von Rollen und Berechtigungen
 
@@ -102,3 +102,7 @@ Damit Sie die Schulungs- und Lernpfade anzeigen können, die Ihre Benutzer für 
 1. Wähle im Partner Center-Dashboard das Symbol für **Dein Konto** in der rechten Ecke des Dashboards aus, und wähle dann **Mein Profil** aus.
 
 2. Unter **Dein Learning** kannst du dein Microsoft Learning-Konto zuordnen und auch dein Microsoft-Konto mit Partner University verbinden.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Zuweisen von Rollen und Berechtigungen zu Benutzern im Unternehmen, die im Partner Center arbeiten müssen](permissions-overview.md)

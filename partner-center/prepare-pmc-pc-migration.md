@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 08b1b547fc6f494dfdb1199824221aecad9120bc
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114565"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433894"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Vorbereiten der Umstellung von Partner Membership Center (PMC) auf Partner Center
 
@@ -117,7 +117,6 @@ In Partner Center kann ein Partner Geschäftskonten und Gastbenutzerkonten vom T
 
 Ein MPN-Administrator oder globaler Administrator kann zwar Gastbenutzern nutzungsbasierte Visual Studio-Abonnements zuweisen, aber Gastbenutzer können sich nicht mit ihrem MSA bei Partner Center anmelden. Gastbenutzer können sich aber bei Azure und Visual Studio anmelden, um die ihnen zugewiesenen Vorteile zu überprüfen und zu nutzen.
 
-
  **Wie sollten wir unsere MCP-Zuordnungen und unseren Partner University-Zugang verwalten?**
 
  Es gibt keine Änderungen an MCP-Zuordnungen, die aus PMC verschoben werden. Neue Mitarbeiter müssen jedoch nach dem Wechsel zu Partner Center in Partner Center zugeordnet werden. Alle Ihre Partner University-Berechtigungen für vorhandene Benutzer bleiben erhalten, aber alle neuen Mitarbeiter sollten zum [Trainigscenter](https://partner.microsoft.com/training) navigieren, um Informationen dazu zu erhalten, wie Sie auf Partner University zugreifen können.
@@ -137,7 +136,9 @@ Wählen Sie im linken Navigationsbereich des Dashboards **Kompetenzen** aus. Auf
 
 **Gibt es aufgrund der Umstellung auf Partner Center Auswirkungen auf Incentives?**
 
-Nein, es gibt keine Auswirkung auf Incentives, wenn Sie Ihr Konto verschoben haben, ohne Standorte zu konsolidieren. Wenn Ihr Unternehmen über mehrere Konten in PMC verfügt und Sie sich bei der Umstellung auf Partner Center entscheiden, diese in einem globalen Konto zu konsolidieren, kommt es nicht zu einem Verlust von Incentives, aber es kann zu einer Verzögerung bei der Incentiveauszahlung kommen. Wenn Sie nicht alle Ihre PMC-Konten verschieben, die an Incentivepogrammen teilgenommen haben, erwerben Sie möglicherweise keine weiteren mit diesen Konten verknüpften Incentives.
+Nein, es gibt keine Auswirkung auf Incentives, wenn Sie Ihr Konto verschoben haben, ohne Standorte zu konsolidieren. Wenn Ihr Unternehmen über mehrere Konten in PMC verfügt und Sie sich bei der Umstellung auf Partner Center entscheiden, diese in einem globalen Konto zu konsolidieren, kommt es nicht zu einem Verlust von Incentives, aber es kann zu einer Verzögerung bei der Incentiveauszahlung kommen. 
+
+Wenn Sie nicht alle Ihre PMC-Konten verschieben, die an Incentivepogrammen teilgenommen haben, erwerben Sie möglicherweise keine weiteren mit diesen Konten verknüpften Incentives.
 
 
 **Was sind die Incentiverollen im Partner Center?** 
@@ -160,7 +161,12 @@ Ihr Unternehmen kann so viele Geschäftsprofile wie erforderlich erstellen, um d
 
 Empfehlungen werden basierend auf den Suchparametern zugewiesen, die der Kunde definiert. Wenn Kunden einen gewünschten Standort angeben und Sie dort ein Unternehmen betreiben, das die anderen Parameter erfüllt, geht die Empfehlung unabhängig davon, ob Sie einen oder mehrere Standorte nutzen, an diesen Standort.
 
+**Ich migriere in Russland zum Partner Center und erhalte eine Fehlermeldung zu Web Direct. Wie kann ich die Migration fortsetzen?**
 
+Wenn Sie eine Fehlermeldung erhalten, weil Sie am Web Direct-Programm teilnehmen, sollten Sie wie folgt verfahren:
+
+1. Melden Sie sich bei „portal.Azure.com“ an, und erstellen Sie einen neuen Azure AD-Mandanten. Weitere Informationen finden Sie unter [Erstellen eines neuen Azure AD-Mandanten](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant).
+1. Sobald Sie den neuen Azure AD-Mandanten erstellt haben, verwenden Sie ihn, um vom Partner Membership Center zum Partner Center zu migrieren oder um sich völlig neu im Partner Center zu registrieren.
 
 
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7cbf049d2a65fd9738299e090e8ab40107d64f89
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 42732a20b4901223a9376d3221579e7cd7be3297
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875166"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444589"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>Vergleich der Unterschiede zwischen Azure-Angeboten im CSP-Programm
 
@@ -32,11 +32,11 @@ In diesem Artikel werden die wichtigsten Unterschiede zwischen Azure-Angeboten i
 
 Die folgende Tabelle enthält eine Übersicht der wichtigsten Unterschiede zwischen den Angeboten im CSP-Programm, die Teil der neuen Microsoft Commerce-Funktionalität sind.
 
-|**Angebot**| **Azure-Plan**|**Marketplace-Angebote von Drittanbietern**|**Azure-Reservierungen**|**Über CSP verkaufte Serverabonnements**|**Arbeitsplatzbasierte Angebote**|
+|**Angebot**| **Azure-Plan**|**Marketplace-Angebote von Drittanbietern**|**Azure-Reservierungen**|**Über CSP verkaufte Serverabonnements**|**Lizenzbasierte Angebote**|
 |-------------------|:------|:-----|:---------|:--------------|:---------|
 |Abrechnung|Monatlich|Variabel (abhängig vom Angebot)|Endkunde|Vorab für die gesamte Laufzeit oder eine Laufzeit von 3 Jahren|Monatlich oder jährlich|
 |Lizenznehmer|Endkunde|Variabel (abhängig vom Angebot)|Endkunde| Endkunde|Endkunde|
-|Laufzeit der Abdeckung|Aktiv bis zur Stornierung|Variabel (abhängig vom Angebot)|Siehe Angebotsbeschreibung|Alle Azure-Reservierungen verfügen über einen eigenen eindeutigen Abdeckungszeitraum. Alle Azure-Abonnements verfügen über einen eigenen eindeutigen Abdeckungszeitraum.|   Zusätzliche arbeitsplatzbasierte Lizenzen klinken sich in den bestehenden Abdeckungszeitraum ein.|
+|Laufzeit der Abdeckung|Aktiv bis zur Stornierung|Variabel (abhängig vom Angebot)|Siehe Angebotsbeschreibung|Alle Azure-Reservierungen verfügen über einen eigenen eindeutigen Abdeckungszeitraum. Alle Azure-Abonnements verfügen über einen eigenen eindeutigen Abdeckungszeitraum.|   Zusätzliche Lizenzen fügen sich in den bestehenden Abdeckungszeitraum ein.|
 |Automatische Verlängerung|Ja|Ja|Nein| Nein|Ja|
 |Mehrere Währungen|Rechnung basierend auf Standort/Währung des Kunden|Rechnung basierend auf Standort/Währung des Kunden|Rechnung basierend auf Standort/Währung des Kunden|Rechnung basierend auf Standort/Währung des Kunden|Basierend auf der Währung des Partnerstandorts| 
 |Rechnungs- und Abstimmungsdatei|Separate Rechnungs- und Abstimmungsdatei für jede Währung am Kundenstandort.  Wir stellen ferner täglich bewertete Nutzungsdateien bereit (sowohl für berechnete als auch für nicht berechnete Teile). |Separate Rechnungs- und Abstimmungsdatei für jede Währung am Kundenstandort|Separate Rechnungs- und Abstimmungsdatei für jede Währung am Kundenstandort|Separate Rechnungs- und Abstimmungsdatei für jede Währung am Kundenstandort|Alle Bestellungen in einer Rechnungs- und Abstimmungsdatei|

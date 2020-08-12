@@ -102,6 +102,7 @@
 ### [Analysieren des Geschäftsprofils](analyze-your-marketing-profile.md)
 ## Incentives
 ### Erste Schritte mit Incentives
+#### [Erste Schritte](incentives-get-started-intro.md)
 #### [Ermitteln Ihrer Programmberechtigung](incentives-determined-your-program-eligibility.md)
 #### [Erstellen und Verwalten von Auszahlungs- und Steuerprofilen im Partner Center](incentives-create-and-manage-your-payout-and-tax-profiles.md)
 #### [Häufig gestellte Fragen zu den Incentivezahlungen und Steuerprofilen](incentives-payout-tax-profile-faqs.md)
@@ -109,14 +110,16 @@
 #### [Anzeigen Ihrer Incentivezahlungen und -programme](understand-incentive-payouts.md)
 #### [Zugriff auf die Seite für Anreizauszahlungen](incentives-unified-user-guide.md)
 ### Pläne und Ausführungsnachweise
+#### [Informationen zu Plänen und PoE](incentives-plans-proofs-intro.md)
 #### [Erstellen Ihres Plans](incentives-create-your-plan.md)
 #### [Vorbereiten Ihres Ausführungsnachweises](incentives-prepare-your-proof-of-execution.md)
 ### Incentives-Co-Op-Ansprüche
-#### [Incentives](claims-overview.md)
+#### [Informationen zu Co-Op-Ansprüchen](claims-overview.md)
 #### [Erstellen und Verwalten von Incentives-Co-Op-Ansprüchen](create-incentives-claims.md)
 #### [Grundlegende Anforderungen für Incentives-Co-Op-Ansprüche](core-requirements.md)
 #### [Genehmigungs- und Zahlungsfristen für Co-Op-Ansprüche](incentives-managing-co-op-claims.md)
 ### CPOR-Zuordnung für Incentiveansprüche
+#### [Informationen zu CPOR-Zuordnungen](incentives-customer-associations-intro.md)
 #### [Erstellen einer Kundenzuordnung mithilfe des CPOR-Modells](submit-osa-claim.md)
 #### [Verwalten von Kundenzuordnungen](incentives-manage-customer-associations.md)
 #### [Probleme bei Kundenzuordnungen](incentives-customer-association-issues.md)

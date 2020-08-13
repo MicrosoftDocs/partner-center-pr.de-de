@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 07aed688aa17c1ee9017785e16eded56624d7d62
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: dbedfdb2001966a78f1453ee45615ab9418d968a
+ms.sourcegitcommit: 9ad926be9f5d245b307bc7d3975ff3973dba3161
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527616"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "88188440"
 ---
 # <a name="benefits-faq"></a>Häufig gestellte Fragen zu den Vorteilen
 
@@ -70,12 +70,6 @@ Wenn Sie Abonnements erneuern oder erweitern, bleibt die Anzahl der Lizenzen unv
 
 >[!IMPORTANT]
 >Wenn Sie Lizenzen für ein vorhandenes Abonnement hinzufügen, läuft das Abonnement in weniger als 12 Monaten ab, abhängig von der Anzahl vorhandener und hinzugefügter Lizenzen. Nachdem Sie einen Schlüssel eingelöst haben, können Sie ihn nicht mehr einlösen. Bevor Sie Ihren Schlüssel einlösen, sollten Sie sicherstellen, dass Sie wissen, ob Sie Lizenzen hinzufügen oder das Abonnement erneuern oder verlängern müssen.
-
-### <a name="q-why-dont-i-see-the-renew-or-extend-options-when-i-activate-my-product-key"></a>Q. Warum sehe ich beim Aktivieren meiner Product Key nicht die Optionen zum erneuern oder erweitern.
-
-Wenn die Option erneuern/erweitern nicht angezeigt wird, bedeutet dies wahrscheinlich, dass Sie bereits über mehr Lizenzen für Ihr vorhandenes Abonnement verfügen als vom neuen Product Key bereitgestellt werden.
-
-Für den Zugriff auf die Option zum erneuern/erweitern müssen Sie Lizenzen in Ihrem aktuellen Abonnement entfernen, bis die Anzahl der Lizenzen, die Sie besitzen, gleich oder kleiner ist als die Anzahl der Lizenzen, die Ihr neuer Schlüssel besitzt.
 
 ### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>Q. Kann ich die Lizenz für mein Kundenkonto aktivieren
 

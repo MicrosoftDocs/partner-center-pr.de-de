@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41797ec9a176e9bec05746cc860d65faba684029
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389129"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998374"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements oder der Silver- und Gold-Kompetenzen
 
@@ -72,6 +72,13 @@ Weitere Details zum Action Pack finden Sie auf der [Microsoft Partner Network](h
 
 Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlängert. Sie können die automatische Verlängerung jederzeit in der Liste **Gekauft** deaktivieren. Allerdings können Sie die automatische Abonnementverlängerung erst wieder aktivieren, wenn Sie Ihr Abonnement erneut verlängern. 
 
+### <a name="update-your-bill-to-address"></a>Aktualisieren Ihrer Rechnungsadresse
+
+Beim Verlängern oder Erwerben von Action Pack haben Sie die Möglichkeit, Ihre Rechnungsadresse zu überprüfen.
+
+ 1. Nachdem Sie **Übermitteln** ausgewählt haben, können Sie die Details Ihres Kaufs überprüfen. Wenn Sie feststellen, dass Ihre Adresse aktualisiert werden muss, wählen Sie **Aktualisieren** aus.
+  
+ 1. Aktualisieren Sie die Adresse auf der Seite **Partnerprofil**.
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Deaktivieren der automatischen Verlängerung des Action Pack-Abonnements
 

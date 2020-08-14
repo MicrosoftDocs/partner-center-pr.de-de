@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0e7aecd7d56e1919c7f142312a9090b8ff40bd3
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c87e47efc6c94e4e53a031a983a4a4e528ddc012
+ms.sourcegitcommit: 59bdf42f5282262835cb7ee2bd215bbddc7686d7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434319"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87839185"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern im Unternehmen, die im Partner Center arbeiten müssen
 
@@ -46,6 +46,7 @@ Wie Ihre Benutzer auf das Partner Center zugreifen können, bestimmen Sie über 
 ||* Anzeigen aller Partnerprofile
 ||* Anzeigen, Erstellen und Verwalten von Partnerbenutzern  |
 |Abrechnungsadministrator | • Anzeigen, Erstellen und Verwalten der Abrechnung, von Rechnungen und Kontenabstimmungsdateien|
+||* Anzeigen von Preisen
 |Standardbenutzer|  Anzeigen des eigenen Profils   |
 |Administrator-Agent | * Kundenverwaltung
 ||* Hinzufügen einer Geräteliste zum Partner Center
@@ -62,6 +63,7 @@ Wie Ihre Benutzer auf das Partner Center zugreifen können, bestimmen Sie über 
 ||* Abonnementverwaltung
 ||* Anzeigen von Supporttickets
 ||* Beantragen einer Partnerschaft mit einem Kunden
+||* Anzeigen von Preisen und Angeboten
 ||* Verwalten potenzieller Kunden
 ||* Anzeigen der Kundenvereinbarung
 ||* Registrieren eines Vertragshändlers|

@@ -1,7 +1,7 @@
 ---
 title: Erstellen eines Partner Center-Kontos
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 08/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Mitglieder im Microsoft Partner Network ein Partner Center-Konto erstellen können, um ihre Netzwerkvorteile und Kompetenzen zu verwalten.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 927cfcaf87b01dc31d899e2509f441462f1d295a
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: f39b53e7b1a0a95b9d90a18c1a07694f4eac62b7
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114721"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998408"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Erstellen eines Partner Center-Kontos zum Verwalten von Netzwerkvorteilen und Kompetenzen
 
@@ -65,6 +65,45 @@ Wir überprüfen diese Informationen im Rahmen des Kontoerstellungsprozesses.
     ein. Wählen Sie im Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home**) das Symbol **Einstellungen** und anschließend **Benutzerverwaltung** aus.  
 
     b. Wähle deinen Namen aus der Benutzerliste und dann **Administrator-Agent** aus, sofern diese Option nicht bereits ausgewählt ist. Wählen Sie **Aktualisieren** aus.  
+
+## <a name="view-mpn-account-details"></a>Anzeigen von MPN-Kontodetails
+
+Nachdem Sie ein Partner Center-Konto erstellt haben, können Sie zum Partner Center zurückkehren, um verschiedene Kontodetails anzuzeigen. Viele dieser Details sind auf der Seite **Partnerprofil** in Ihrem Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) enthalten.
+
+Diese Details umfassen Folgendes:
+
+- Offizielles Geschäftsprofil Ihres Unternehmens
+
+- Informationen zu Ihrer MPN-ID
+
+- Links zu aktuellen Vereinbarungen im Zusammenhang mit Ihrem registrierten Microsoft-Programm
+
+  Wenn Sie z. B. für das MPN-Programm registriert sind, wird ein Link zur aktuellen Microsoft Partner Network-Vereinbarung angezeigt. Wenn Sie für andere Partnerprogramme wie das CSP-Programm (Cloud Solution Provider) registriert sind, werden möglicherweise auch Links zu anderen Vereinbarungen angezeigt, z. B. der Microsoft Partner-Vereinbarung. 
+
+  > [!NOTE]
+  > Diese Art von Links kann nützlich sein, wenn Sie eine Vereinbarung überprüfen, darauf zugreifen oder herunterladen möchten, oder wenn Sie das Datum prüfen möchten, an dem sie unterzeichnet wurde.
+
+### <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Anzeigen von Kontodetails oder Anzeigen und Herunterladen der MPN-Vereinbarung
+
+Führen Sie die folgenden Schritte aus, um Kontodetails anzuzeigen oder die MPN-Vereinbarung anzuzeigen und herunterzuladen:
+
+1. Melden Sie sich mit dem Benutzernamen und Kennwort Ihres Geschäftskonto beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
+
+2. Eine Übersichtsseite wird angezeigt. (Wenn die Übersichtsseite nicht angezeigt wird, wählen Sie im linken Navigationsmenü die Option **Übersicht** aus.)
+
+3. Wählen Sie das Zahnradsymbol in der oberen rechten Ecke des Dashboards und dann **Partnereinstellungen** aus. Dadurch gelangen Sie zur Seite „Partnerprofil“.
+
+4. Auf der Seite „Partnerprofil“ werden verschiedene Bereiche angezeigt. Hierzu gehören ein Bereich **Unternehmensprofil** und ein Bereich **Programminfos**.
+
+5. Suchen Sie unter **Programminfos** nach dem Feld **MPN-Programmstatus**. Dadurch wird ein Link zu Ihrer Microsoft Partner Network-Vereinbarung angezeigt. Außerdem wird Ihr aktueller Status im Programm beschrieben.
+
+
+   :::image type="content" source="images/accountsettings/mpn-program-info-download-mpn-agreement.png" alt-text="Abbildung des Bereichs „Programminfos“ auf der Seite „Partnerprofil“ mit einem roten Kasten zur Hervorhebung des Felds „MPN-Programmstatus“ in diesem Bereich sowie dem zugehörigen Link zur Microsoft Partner Network-Vereinbarung":::
+
+6. Wählen Sie **Microsoft Partner Network-Vereinbarung** aus, um diese Vereinbarung anzuzeigen oder herunterzuladen.  
+
+> [!NOTE]
+> Mithilfe der oben genannten Schritte können Sie auch andere Vereinbarungen für andere registrierte Programme anzeigen oder herunterladen, z. B. die Microsoft Partner-Vereinbarung, wenn Sie für das CSP-Programm (Cloud Solution Provider) registriert sind.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

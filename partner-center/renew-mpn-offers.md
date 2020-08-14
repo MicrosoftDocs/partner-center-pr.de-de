@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6d50081332a404507fea9c196e10cf3d5f0ecb
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114056"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998390"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Verlängern Sie Ihre MPN-Angebote für Microsoft Action Pack und -Kompetenzen während des Verlängerungszeitraums
 
@@ -40,11 +40,13 @@ Wenn Sie Ihr Abonnement innerhalb des Zeitfensters verlängern, liegt der neue J
 
 ## <a name="responding-to-covid-19"></a>Reagieren auf COVID-19:
 
-**Falls der Jahrestag Ihrer Kompetenz zwischen dem 1. Januar und dem 30. Juni 2020 liegt**, verlängern wir Ihre bestehenden Kompetenzen bis zu Ihrem nächsten Jahrestag im Jahr 2021, damit Sie sich auf die Betreuung Ihrer Kunden konzentrieren können. Erinnerungen an die Verlängerung Ihrer Kompetenz werden entsprechend diesem neuen Angebot aktualisiert. 
+Damit Sie sich auf die Betreuung Ihrer Kunden konzentrieren können: 
+
+- **Falls der Jahrestag Ihrer Kompetenz zwischen dem 1. Juli und dem 31. Dezember 2020 liegt**, verlängern wir Ihre bestehenden Kompetenzen bis zu Ihrem nächsten Jahrestag im Jahr 2021. Erinnerungen an die Verlängerung Ihrer Kompetenz werden entsprechend diesem neuen Angebot aktualisiert. 
 
 - **Wenn Ihre Kompetenz in Kürze verlängert werden müsste**, wird im Partner Center angezeigt, dass Ihre Anforderungen erfüllt sind. Zum Verlängern müssen Sie Ihre Kompetenzgebühr innerhalb Ihres Verlängerungszeitfensters auf der Seite „Mitgliedschaftsangebote“ bezahlen. 
 
-- **Wenn Sie das Verlängerungszeitfenster bereits überschritten haben**, können Sie Ihre Kompetenz reaktivieren und wieder auf Ressourcen und Vorteile zugreifen, indem Sie Ihre Gebühr auf der Seite „Mitgliedschaftsangebote“ bezahlen. Diese Erweiterung ist bis zum 30. Juni 2020 verfügbar.   
+- **Wenn Sie das Verlängerungszeitfenster bereits überschritten haben**, können Sie Ihre Kompetenz reaktivieren und wieder auf Ressourcen und Vorteile zugreifen, indem Sie Ihre Gebühr auf der Seite „Mitgliedschaftsangebote“ bezahlen. Diese Erweiterung ist bis zum 31. Dezember 2020 verfügbar.
 
 ### <a name="how-to-view-this-information"></a>So können Sie diese Informationen anzeigen
 

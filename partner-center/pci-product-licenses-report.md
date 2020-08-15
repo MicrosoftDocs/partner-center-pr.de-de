@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dd4dc27c17c40b76020f6233257637a387c5f81
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 66b913688b279654c79b0860fbd0f92a921d87dd
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444840"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239048"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Bericht "Produktlizenzen" im Partner Center Insights-Dashboard
 
@@ -83,3 +83,6 @@ Diese Ansicht zeigt eine Aufschlüsselung der Kunden Lizenzen nach Produkt und K
 ## <a name="next-steps"></a>Nächste Schritte
 
 Weitere Berichte finden Sie unter [Partner Center Insights](partner-center-insights.md).
+
+>[!NOTE] 
+> Sie können die Rohdaten, die diesen Bericht über den Abschnitt Berichte herunterladen im Insights-Dashboard herunterladen. [Weitere Informationen](pci-download-reports.md)

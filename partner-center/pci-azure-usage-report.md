@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9be334b02576927231b9cdde1114ce013ed1018b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 72676a714cf944bc9210de8e8f6edfa0d3037da9
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436719"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239068"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Azure-Verwendungs Bericht, der im Partner Center Insights-Dashboard verfügbar ist
 
@@ -77,3 +77,6 @@ Das Balkendiagramm zeigt den monatlichen Umsatz/Nutzungsstunden-Trend. Das Linie
 ## <a name="next-steps"></a>Nächste Schritte
 
 - Weitere Berichte finden Sie unter [Partner Center Insights](partner-center-insights.md).
+
+>[!NOTE] 
+> Sie können die Rohdaten, die diesen Bericht über den Abschnitt Berichte herunterladen im Insights-Dashboard herunterladen. [Weitere Informationen](pci-download-reports.md) 

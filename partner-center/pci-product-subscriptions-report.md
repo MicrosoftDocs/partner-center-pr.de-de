@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f1f2498f9c91f467b4b2b1980a14995782a5137
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f26384f408f7644d577940e22ea43a197c41164f
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436669"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239058"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Bericht "Produkt Abonnements" im Partner Center Insights-Dashboard verfügbar
 
@@ -110,3 +110,6 @@ In den beiden Kreis Diagrammen wird eine Aufschlüsselung Ihrer aktuellen Kunden
 ## <a name="next-steps"></a>Nächste Schritte
 
 - Weitere Berichte finden Sie unter [Partner Center Insights](partner-center-insights.md).
+
+>[!NOTE] 
+> Sie können die Rohdaten, die diesen Bericht über den Abschnitt Berichte herunterladen im Insights-Dashboard herunterladen. [Weitere Informationen](pci-download-reports.md) 

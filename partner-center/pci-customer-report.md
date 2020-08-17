@@ -40,7 +40,7 @@ ms.locfileid: "88239028"
 - <span data-ttu-id="55588-119">% Der Kunden während des ausgewählten Datums Bereichs ablehnen</span><span class="sxs-lookup"><span data-stu-id="55588-119">Decline % of customers during the selected date range</span></span> 
 - <span data-ttu-id="55588-120">Micro-Diagramm zeigt den Monats-und Monats Trend der Kundenanzahl im ausgewählten Datumsbereich</span><span class="sxs-lookup"><span data-stu-id="55588-120">Micro chart presents month over month trend of customers count over the selected date range</span></span>
 
-  :::image type="content" source="images/pci/customerproduct.png" alt-text="Screenshot des Dashboards "Kunden Zusammenfassung" zeigt Balkendiagramme und die Anzahl der Kunden, die aktiv, kürzlich hinzugefügt, verloren gegangen sind oder von einem bestimmten Produkt.":::
+  :::image type="content" source="images/pci/customerproduct.png" alt-text="Screenshot des Dashboards Kunden Zusammenfassung zeigt Balkendiagramme und die Anzahl der Kunden, die aktiv, kürzlich hinzugefügt, verloren gegangen sind oder von einem bestimmten Produkt.":::
 
 <span data-ttu-id="55588-122">**Aktive Kunden**:</span><span class="sxs-lookup"><span data-stu-id="55588-122">**Active Customers**:</span></span>
 
@@ -85,13 +85,13 @@ ms.locfileid: "88239028"
 
 <span data-ttu-id="55588-161">Monatlicher Trend der Verteilung Ihrer Kunden während des ausgewählten Datums Bereichs nach Märkten, Segmenten, ihren MPN-Standorten und Produkten, die Sie erworben haben.</span><span class="sxs-lookup"><span data-stu-id="55588-161">Monthly trend of the distribution of your customers during the selected date range by markets, segments, your MPN locations and products they have acquired.</span></span> <span data-ttu-id="55588-162">Klicken Sie im Diagramm auf die entsprechenden Registerkarten, um den Trend nach diesen Kategorien anzuzeigen.</span><span class="sxs-lookup"><span data-stu-id="55588-162">Click on the respective tabs in the chart to view the trend by these categories.</span></span> <span data-ttu-id="55588-163">Die X-Achse stellt die Monate für den ausgewählten Datumsbereich dar, und die Y-Achse enthält die Anzahl der Kunden für die ausgewählte Kategorie (Registerkarten Auswahl).</span><span class="sxs-lookup"><span data-stu-id="55588-163">X-axis represents the months for the date range you have selected, and Y-axis has the count of customers for the selected category (Tab selection).</span></span> <span data-ttu-id="55588-164">Sie können mit dem Mauszeiger auf die Diagramm Spalten zeigen, um die Werte für die einzelnen Stapel Aufbrüche anzuzeigen.</span><span class="sxs-lookup"><span data-stu-id="55588-164">You can hover on the chart columns to view the values breakup of each stack.</span></span> <span data-ttu-id="55588-165">Sie können den Schieberegler am oberen Rand des Diagramms nutzen, um einen bestimmten Zeitraum zu vergrößern.</span><span class="sxs-lookup"><span data-stu-id="55588-165">You can leverage slider on top of the chart to zoom in to a specific period.</span></span>   
 
-:::image type="content" source="images/pci/customerdistri.png" alt-text="Screenshot des Berichts "Trend der Kunden Verteilung", der Balkendiagramme anzeigt, die Sie nach Markt, Segment, Partnerstandort oder Produkten anzeigen können.":::
+:::image type="content" source="images/pci/customerdistri.png" alt-text="Screenshot des Berichts Trend der Kunden Verteilung, der Balkendiagramme anzeigt, die Sie nach Markt, Segment, Partnerstandort oder Produkten anzeigen können.":::
 
 <span data-ttu-id="55588-167">**Aktive Kunden**</span><span class="sxs-lookup"><span data-stu-id="55588-167">**Active customers**</span></span>
 
 <span data-ttu-id="55588-168">Monatliches Trend Diagramm zum Vergleichen aktiver und gesamter Kunden für den ausgewählten Datumsbereich.</span><span class="sxs-lookup"><span data-stu-id="55588-168">Monthly trend chart comparing active and total customers for the selected date range.</span></span> <span data-ttu-id="55588-169">Die Spalten repräsentieren jeden Monat aktive Kunden zahlen, und die Linie repräsentiert die Gesamtzahl der Kunden pro Monat.</span><span class="sxs-lookup"><span data-stu-id="55588-169">Columns represent active customer counts each month and the line represents total customers each month.</span></span> 
 
-:::image type="content" source="images/pci/activecustomer.png" alt-text="Screenshot des Partners "aktive Kunden von Partner Center Insights" zeigt Balkendiagramme im Zeitverlauf aktiver Kunden an.":::
+:::image type="content" source="images/pci/activecustomer.png" alt-text="Screenshot des Partners aktive Kunden von Partner Center Insights zeigt Balkendiagramme im Zeitverlauf aktiver Kunden an.":::
 
 ## <a name="next-steps"></a><span data-ttu-id="55588-171">Nächste Schritte</span><span class="sxs-lookup"><span data-stu-id="55588-171">Next steps</span></span>
 

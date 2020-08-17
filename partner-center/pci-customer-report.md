@@ -40,7 +40,7 @@ Der Abschnitt "Zusammenfassung" enthält eine Momentaufnahme Ansicht verschieden
 - % Der Kunden während des ausgewählten Datums Bereichs ablehnen 
 - Micro-Diagramm zeigt den Monats-und Monats Trend der Kundenanzahl im ausgewählten Datumsbereich
 
-  :::image type="content" source="images/pci/customerproduct.png" alt-text="Screenshot des Dashboards "Kunden Zusammenfassung" zeigt Balkendiagramme und die Anzahl der Kunden, die aktiv, kürzlich hinzugefügt, verloren gegangen sind oder von einem bestimmten Produkt.":::
+  :::image type="content" source="images/pci/customerproduct.png" alt-text="Screenshot des Dashboards Kunden Zusammenfassung zeigt Balkendiagramme und die Anzahl der Kunden, die aktiv, kürzlich hinzugefügt, verloren gegangen sind oder von einem bestimmten Produkt.":::
 
 **Aktive Kunden**:
 
@@ -85,13 +85,13 @@ Aufschlüsselung Ihrer aktuellen Kundenanzahl nach Produkten und SKUs/Plänen. W
 
 Monatlicher Trend der Verteilung Ihrer Kunden während des ausgewählten Datums Bereichs nach Märkten, Segmenten, ihren MPN-Standorten und Produkten, die Sie erworben haben. Klicken Sie im Diagramm auf die entsprechenden Registerkarten, um den Trend nach diesen Kategorien anzuzeigen. Die X-Achse stellt die Monate für den ausgewählten Datumsbereich dar, und die Y-Achse enthält die Anzahl der Kunden für die ausgewählte Kategorie (Registerkarten Auswahl). Sie können mit dem Mauszeiger auf die Diagramm Spalten zeigen, um die Werte für die einzelnen Stapel Aufbrüche anzuzeigen. Sie können den Schieberegler am oberen Rand des Diagramms nutzen, um einen bestimmten Zeitraum zu vergrößern.   
 
-:::image type="content" source="images/pci/customerdistri.png" alt-text="Screenshot des Berichts "Trend der Kunden Verteilung", der Balkendiagramme anzeigt, die Sie nach Markt, Segment, Partnerstandort oder Produkten anzeigen können.":::
+:::image type="content" source="images/pci/customerdistri.png" alt-text="Screenshot des Berichts Trend der Kunden Verteilung, der Balkendiagramme anzeigt, die Sie nach Markt, Segment, Partnerstandort oder Produkten anzeigen können.":::
 
 **Aktive Kunden**
 
 Monatliches Trend Diagramm zum Vergleichen aktiver und gesamter Kunden für den ausgewählten Datumsbereich. Die Spalten repräsentieren jeden Monat aktive Kunden zahlen, und die Linie repräsentiert die Gesamtzahl der Kunden pro Monat. 
 
-:::image type="content" source="images/pci/activecustomer.png" alt-text="Screenshot des Partners "aktive Kunden von Partner Center Insights" zeigt Balkendiagramme im Zeitverlauf aktiver Kunden an.":::
+:::image type="content" source="images/pci/activecustomer.png" alt-text="Screenshot des Partners aktive Kunden von Partner Center Insights zeigt Balkendiagramme im Zeitverlauf aktiver Kunden an.":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 

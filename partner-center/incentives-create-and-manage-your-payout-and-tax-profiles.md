@@ -1,19 +1,19 @@
 ---
 title: Erstellen und Verwalten von Auszahlungs- und Steuerprofilen im Partner Center
 ms.topic: how-to
-ms.date: 06/29/2020
+ms.date: 08/13/2020
 description: Bevor Sie für Ihre Incentives bezahlt werden können, müssen Sie Ihre Auszahlungs-und Steuer Profile erstellen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e7424ff1329d9c2bf13e9a6c4181c312396e073
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6bf2f70bac6cbabcc0e4267585a23e1b74916c06
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546041"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303276"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>Auszahlungs- und Steuerprofile in Partner Center
 
@@ -29,6 +29,30 @@ Geeignete Rollen:
 - Abrechnungsadministrator
 - Globaler Administrator
 
+## <a name="roles-currencies-and-other-microsoft-programs"></a>Rollen, Währungen und andere Microsoft-Programme
+
+Es ist wichtig, die folgenden Informationen zu verstehen, bevor Sie mit Ihrem Auszahlungs-und Steuer Profil beginnen.
+
+### <a name="roles-and-permissions"></a>Rollen und Berechtigungen
+
+Sie müssen ein Administrator der Administrator sein, um Bank-und Steuerinformationen für Incentive-Zahlungen einzugeben. Wenn Sie ein MPN/Konto-Administrator sind, können Sie sich selbst und/oder einen Kollegen als Administrator für Administratoren zuweisen.
+
+Wenn Sie Administrator Berechtigungen für Incentives anfordern müssen, wenden Sie sich an den MPN-Administrator oder den globalen Administrator. Sie können herausfinden, wer in Ihrem Unternehmen über diese Rollen im [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/)verfügt. Wählen Sie oben rechts im Symbol " **Einstellungen** " die Option **Benutzerverwaltung** aus, und Filtern Sie dann nach globaler Administrator.
+
+Incentives: Benutzer können die Informationen zu den Incentive-und Zahlungsdetails und-Berichten anzeigen, aber keine Bank-und Steuer Details bearbeiten.
+
+### <a name="choose-your-disbursement-currency"></a>Wählen Sie Ihre Auszahlungs Währung aus.
+
+Standardmäßig werden in der lokalen Währung der einzelnen Entitäten Incentives-Zahlungen durchgeführt. Während der Profil Einrichtung können Sie eine andere Währung angeben. Zahlungen werden mit einem Exchange-Satz berechnet, der monatlich von Microsoft festgelegt wird. Aufgrund der ausgewählten Währung sind Sie für alle Änderungen am Wert verantwortlich.
+
+### <a name="bank-and-tax-information-and-other-programs"></a>Bank-und Steuerinformationen und andere Programme
+
+Geben Sie die unten beschriebenen Informationen an, selbst wenn Microsoft Ihre Bank Daten bereits für Zahlungen verwendet. Dies trägt dazu bei, den Datenschutz und die Sicherheit der Daten Ihres Unternehmens sicherzustellen, da das Kopieren Ihres Profils in das neue Tool vertrauliche Informationen verfügbar machen kann. Diese Vorgehensweise ist auch eine gute Möglichkeit, um sicherzustellen, dass die Daten komplett und korrekt sind.
+
+### <a name="using-different-profiles-for-different-microsoft-programs"></a>Verwenden verschiedener Profile für verschiedene Microsoft-Programme
+
+Im Einzelhandel können Zahlungen für jedes der fünf Einzelhandels Incentive-Programme auf dasselbe Bankkonto übertragen werden. Alternativ können Sie auswählen, dass die Einzelhandel-Xbox-Zahlungen in einem Bankkonto durchlaufen werden, während der Einzelhandel an ein anderes Bankkonto gezahlt wird.
+
 ## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Erstellen und Verwalten von Auszahlungs- und Steuerprofilen im Partner Center
 
 In den folgenden Abschnitten werden die Schritte zum Erstellen und Verwalten von Zahlungs-und Steuer Profilen in Partner Center erläutert.
@@ -38,11 +62,11 @@ In den folgenden Abschnitten werden die Schritte zum Erstellen und Verwalten von
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Zugriff auf den Abschnitt "Auszahlungs-und Steuer Berechtigung" im Partner Center
 
-1. Melden Sie sich bei Partner Center mithilfe Ihres Aad-Kontos (Firmenkonto) oder der entsprechenden e-Mail-Adresse an, wenn eine zugewiesen wurde. 
+1. Melden Sie sich bei Partner Center mit Ihrem Azure Active Directory (Azure AD)-Konto (Firmenkonto) oder der entsprechenden e-Mail-Adresse an, wenn eine zugewiesen wurde. 
 
-   - Mehrere Domänen können innerhalb eines Aad-Kontos registriert werden. Wenden Sie sich an ihren globalen Administrator, um die zugeordneten Domänen zu ermitteln
-   - Wenn Sie sich nur bei der Domäne anmelden können, wenden Sie sich an **@onmicrosoft.com** Ihren Konto Administrator, um dem AAD-Konto zusätzliche Domänen hinzuzufügen.
-   - Wenn Sie aufgefordert werden, Geschäfts- **oder Schul Konto** oder **persönliches Konto**auszuwählen, wählen Sie Geschäfts- **oder Schul Konto**aus.
+   - Mehrere Domänen können innerhalb eines Azure AD Kontos registriert werden. Wenden Sie sich an ihren globalen Administrator, um die zugeordneten Domänen zu ermitteln
+   - Wenn Sie sich nur bei der Domäne anmelden können, wenden Sie sich an @onmicrosoft.com Ihren Konto Administrator, um dem Azure AD Konto zusätzliche Domänen hinzuzufügen.
+   - Wenn Sie aufgefordert werden, Geschäfts-, **Schul** -oder unikonto oder **persönliches Konto**auszuwählen, wählen Sie Geschäfts- **oder Schul Konto**aus.
 
 2. Wählen Sie das Zahnrad Symbol aus, um das Menü **Einstellungen** zu öffnen, und wählen Sie dann **Partner Einstellungen**aus.
 
@@ -60,9 +84,9 @@ In den folgenden Abschnitten werden die Schritte zum Erstellen und Verwalten von
 
 4. Wählen Sie **Zahlungsmethode**aus.
 
-   - Wenn Sie **Electronic Bank Transfer** as Payment Method ausgewählt haben, wählen Sie in der Dropdown Liste Payment Profile das gewünschte Zahlungsprofil aus, oder wählen Sie die Option zum Erstellen eines neuen Profils aus. Wenn Sie die Option zum Erstellen eines neuen Profils auswählen, werden Sie entsprechend umgeleitet.  Wählen Sie im Popup Fenster fortsetzen aus. Der Prozess zum Erstellen eines neuen Zahlungs Profils wurde unten bereitgestellt.
+   - Wenn Sie **Electronic Bank Transfer** als Zahlungsmethode ausgewählt haben, wählen Sie das gewünschte Zahlungsprofil aus, oder wählen Sie die Option zum Erstellen eines neuen Profils aus. Wenn Sie die Option zum Erstellen eines neuen Profils auswählen, werden Sie entsprechend umgeleitet. Wählen Sie im Popup Fenster fortsetzen aus. Der Prozess zum Erstellen eines neuen Zahlungs Profils wurde unten bereitgestellt.
 
-   - Wenn Sie **Guthaben Hinweis** als Zahlungsmethode ausgewählt haben, führen Sie die Überprüfung aus, um zu bestätigen, dass die referenzierte SAP-Nummer zu Ihrer Organisation gehört.
+   - Wenn Sie **Guthaben Hinweis** als Zahlungsmethode ausgewählt haben, schließen Sie die Überprüfung ab. Dadurch wird bestätigt, dass die referenzierte SAP-Nummer zu Ihrer Organisation gehört.
 
     >[!NOTE]
     >Wenn mehrere Microsoft-Geschäfts Entitäten aufgelistet sind, müssen Sie ein Zahlungsprofil für jede Entität auswählen.
@@ -76,14 +100,14 @@ In den folgenden Abschnitten werden die Schritte zum Erstellen und Verwalten von
 
 ## <a name="create-your-bank-profile"></a>Erstellen Ihres Bank Profils
 
-Bank Profile werden auf Organisationsebene erstellt, sodass das gleiche Bank Profil über mehrere MPN-IDs und Incentive-Programme innerhalb einer Organisation hinweg zugewiesen werden kann. Möglicherweise gibt es Ausnahmen, wenn Sie das Banking-Profil auf verschiedene Länder anwenden, da ggf. andere Bank-und Steuerregeln gelten.
+Bank Profile werden auf Organisationsebene erstellt. Dadurch kann ein Bankkonto in einer Organisation über mehrere MPN-IDs und Incentive-Programme hinweg zugewiesen werden. Möglicherweise gibt es Ausnahmen, wenn Sie das Banking-Profil auf verschiedene Länder anwenden, da ggf. andere Bank-und Steuerregeln gelten.
 
 >[!NOTE]
 >Auf den folgenden Seiten sind Felder mit einem Sternchen erforderlich. Wenn Sie nicht wissen, was ein Feld ist, wählen Sie das Informationssymbol aus. 
 
 1. Füllen Sie auf der Seite **Details** die folgenden Felder aus: **Profilname:** geben Sie einen eindeutigen Namen ein, um dieses Zahlungsprofil zu identifizieren.
     **Speicherort des Bankkontos:** Das Land, in dem sich die Bank des Unternehmens befindet.
-    **Zahlungsmethode:** Die bevorzugte Zahlungsmethode ist für Partner Center Electronic Bank Transfer.
+    **Zahlungsmethode:** Die bevorzugte Zahlungsmethode für Partner Center ist Electronic Bank Transfer.
 
 2. Wählen Sie **Weiter** aus.
 
@@ -95,11 +119,11 @@ Bank Profile werden auf Organisationsebene erstellt, sodass das gleiche Bank Pro
 
 6. Wenn die Felder abgeschlossen sind, klicken Sie auf **Fertig**stellen, und wählen Sie dann **bestätigen** aus, um das Bank Profil zu erstellen.
 
-Sie werden auf die Seite " **Auszahlungs-und Steuer profile** " umgeleitet. Der Status Ihres neuen Profils reflektiert die **ausstehende Microsoft** -Überprüfung, bis die Überprüfung abgeschlossen ist. Dies kann bis zu 48 Stunden dauern. Nachdem die Überprüfung abgeschlossen ist, wird Ihr Profil Status entweder **genehmigt** oder **Aktion erforderlich**angezeigt. Wenn eine **Aktion erforderlich**ist, wiederholen Sie die obigen Schritte, um die erforderlichen Informationen bereitzustellen 
+Sie werden auf die Seite " **Auszahlungs-und Steuer profile** " umgeleitet. Der Status Ihres neuen Profils reflektiert die **ausstehende Microsoft** -Überprüfung, bis die Überprüfung abgeschlossen ist. Dieser Vorgang kann bis zu 48 Stunden dauern. Nachdem die Überprüfung abgeschlossen ist, wird Ihr Profil Status entweder **genehmigt** oder **Aktion erforderlich**angezeigt. Wenn eine **Aktion erforderlich**ist, wiederholen Sie die obigen Schritte, um die erforderlichen Informationen bereitzustellen 
 
 ## <a name="create-your-tax-profile"></a>Steuer Profil erstellen
 
-Mithilfe des folgenden Verfahrens können Sie Microsoft die für Ihre Organisation erforderlichen Steuerinformationen bereitstellen. Die Seiten in diesem Abschnitt sind dynamisch und unterscheiden sich je nach Land oder Region. Wenn Sie Hilfe bei der Identifizierung der richtigen Steuerinformationen benötigen, wenden Sie sich an die entsprechenden Regierungsquellen in Ihrem Land.
+Mithilfe des folgenden Verfahrens können Sie Microsoft die für Ihre Organisation erforderlichen Steuerinformationen bereitstellen. Die Seiten in diesem Abschnitt sind dynamisch und variieren je nach Land oder Region. Wenn Sie Hilfe bei der Identifizierung der richtigen Steuerinformationen benötigen, wenden Sie sich an die entsprechenden Regierungsquellen in Ihrem Land.
 
 Wenn Sie für Partnerunternehmen in Nordamerika Informationen zum Abschließen von W8-oder W9-Formularen benötigen, gelangen Sie mit den folgenden Adressen zur IRS-Website:
 
@@ -113,7 +137,7 @@ Wenn Sie für Partnerunternehmen in Nordamerika Informationen zum Abschließen v
 
 2. Wählen Sie auf der Seite **Setup** die Option aus, die für Ihr Unternehmen gilt.
 
-   - Wählen Sie die Option auf der linken Seite aus, wenn Ihr Unternehmen nur in den USA integriert ist, oder wenn dieses Profil für eine Person vorgesehen ist. 
+   - Wählen Sie die Option auf der linken Seite aus, wenn Ihr Unternehmen nur in den USA integriert ist, oder wenn dieses Profil für eine Person vorgesehen ist.
    - Wählen Sie die Option auf der rechten Seite aus, wenn Ihr Unternehmen außerhalb des USA integriert ist, und wählen Sie dann Ihr Land/Ihre Region aus der Liste aus.
 
 3. Wählen Sie **Weiter** aus. 
@@ -130,46 +154,6 @@ Wenn Sie für Partnerunternehmen in Nordamerika Informationen zum Abschließen v
 
 9. Wählen Sie in der Popup Meldung **bestätigen** aus. Sie gelangen zurück zur Seite " **Auszahlungs-und Steuereinrichtung** ".
 
-## <a name="payout-and-tax-profile-faqs"></a>FAQs zu Auszahlungs-und Steuer Profilen
+## <a name="next-steps"></a>Nächste Schritte
 
-### <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a>Warum muss ich meine Auszahlungs-und/oder Steuer Details angeben?
-
-Um die Auszahlungen für Microsoft Incentive-Programme zu erhalten, müssen Sie die Registrierung durchführen, indem Sie gültige Auszahlungs-und Steuer Details angeben. Eine Registrierung gilt nur, wenn das von Ihnen bereitgestellte Auszahlungs-und Steuer Profil von Microsoft überprüft wird.
-
-### <a name="how-do-i-know-that-i-need-to-provideupdate-my-payout-andor-tax-details"></a>Gewusst wie wissen, dass ich meine Auszahlungs-und/oder Steuer Details angeben oder aktualisieren muss?
-
-Alle Partner, die sich in einem neuen Incentive-Programm anmelden, müssen gültige Auszahlungs-und Steuer Details angeben, um die Registrierung abzuschließen.
-
-Sie müssen möglicherweise auch aktualisierte Informationen bereitstellen, wenn sich die Regeln für das Incentive-Programm ändern oder wenn Aspekte des Profils ablaufen oder veraltet sind. Wenn dies der Fall ist, wird auf der Übersichtsseite der Status **Aktion erforderlich – Update Bank und/oder Steuer Profil**angezeigt.
-
-### <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>Wie kann ich meine Auszahlungs- und/oder Steuerdetails bereitstellen/aktualisieren?
-
-Ausführliche Informationen zum Aktualisieren von Zahlungs-und Steuer Details in Partner Center finden Sie unter [Erstellen und Verwalten von Bank-und Steuer Profilen in Partner Center](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center) .
-
-### <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>Warum sehe ich meine Registrierungen nicht, wenn ich mein Auszahlungs- und Steuerprofil zuweise?
-
-Nur Incentives-Administratoren für Ihren MPN-Standort können Auszahlungs- und Steuerprofile erstellen oder verwalten. Möglicherweise verfügen Sie nicht über die entsprechenden Berechtigungen, oder Sie sind mit einem Konto angemeldet, das nicht über diese Berechtigungen verfügt. Wenden Sie sich zwecks Verwaltung der Berechtigungen für Bank und Steuern an den Administrator Ihrer Organisation.
-
-### <a name="where-can-i-see-the-payout-and-tax-profiles-for-my-organization-that-i-can-use"></a>Wo kann ich die Auszahlungs- und Steuerprofile für meine Organisation sehen, die ich nutzen kann?
-
-Verwenden Sie das folgende Verfahren, um Auszahlungs-und Steuer Profile anzuzeigen:
-
-1. Melden Sie sich bei Partner Center an.
-
-2. Wählen Sie das Zahnradsymbol zum Öffnen des Menüs **Einstellungen** aus.
-
-3. Wählen Sie **Partner Einstellungen**aus.
-
-4. Wählen Sie unter **Kontoeinstellungen** die Option **Auszahlung und Steuer** und dann **Auszahlungs- und Steuerprofil** aus. Sie sehen alle vorhandenen Zahlungs- und Steuerprofile mit Status und Bearbeitungsmöglichkeiten.
-
-### <a name="my-organization-is-participating-in-multiple-incentive-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Meine Organisation ist an mehreren Incentive-Programmen beteiligt. Muss ich mein Zahlungs-und Steuer Profil mehrmals bereitstellen?
-
-Bei Zahlungsprofilen liegt es in der Regel an Ihnen. Zahlungsprofile werden auf Organisationsebene erstellt, was es ermöglicht, dass dasselbe Bankprofil mehreren MPN-IDs und Incentives-Programmen innerhalb einer Organisation zugewiesen werden kann. In den meisten Fällen können Sie entweder ein vorhandenes Profil wieder verwenden oder ein neues erstellen.
-
-Es kann jedoch Ausnahmen geben, wenn Sie Ihr Bankprofil verschiedenen Ländern oder Regionen zuordnen, da möglicherweise lokale Bank- oder Steuervorschriften gelten.
-
-Für einen MPN-Standort erstellte Steuerprofile werden wiederverwendet und automatisch ausgefüllt, wenn derselbe MPN-Standort an einem anderen Incentives-Programm teilnimmt. Es kann jedoch Ausnahmen geben. Beispielsweise können die Auszahlungsregeln eines neuen Incentives-Programms zusätzliche Details zum Steuerprofil erfordern.  
-
-### <a name="i-am-only-able-to-log-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Ich kann mich nur bei meiner @onmicrosoft.com Domäne anmelden. Wie sollte ich vorgehen?
-
-Bitten Sie Ihren Kontoadministrator, dem AAD-Konto zusätzliche Domänen hinzuzufügen.
+- [Häufig gestellte Fragen zu den Incentivezahlungen und Steuerprofilen](incentives-payout-tax-profile-faqs.md)

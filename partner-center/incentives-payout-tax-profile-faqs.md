@@ -5,15 +5,15 @@ ms.date: 07/21/2020
 description: Häufig gestellte Fragen zu Incentives-Auszahlungs-und Steuer Profilen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: kim-davis
-ms.author: kimnich
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 176533700870af15107221396803d7f7cacfd0d7
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 29c77cd06964bf00e7506738c92f5764a678e605
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545911"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303146"
 ---
 # <a name="incentives-payout-and-tax-profile-faqs"></a>Häufig gestellte Fragen zu den Incentivezahlungen und Steuerprofilen
 
@@ -39,7 +39,7 @@ Sie müssen möglicherweise auch aktualisierte Informationen bereitstellen, wenn
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>Wie kann ich meine Auszahlungs- und/oder Steuerdetails bereitstellen/aktualisieren?
 
-Ausführliche Informationen zum Aktualisieren von Zahlungs-und Steuer Details in Partner Center finden Sie unter [Erstellen und Verwalten von Bank-und Steuer Profilen in Partner Center](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center).
+Ausführliche Informationen dazu, wie Sie Zahlungs- und Steuerdetails in Partner Center aktualisieren, finden Sie unter [Erstellen und Verwalten von Bank- und Steuerprofilen in Partner Center](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center).
 
 ## <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>Warum sehe ich meine Registrierungen nicht, wenn ich mein Auszahlungs- und Steuerprofil zuweise?
 

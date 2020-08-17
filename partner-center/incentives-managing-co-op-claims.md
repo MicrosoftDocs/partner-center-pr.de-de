@@ -1,21 +1,21 @@
 ---
-title: Verwalten von Co-op-Ansprüchen
+title: Verwalten von Co-Op-Ansprüchen
 description: Informieren Sie sich über den Co-op-Anspruchs Prozess, einschließlich Terminen, Währungsproblemen und der Beilegung eines abgelehnten Co-op-Anspruchs.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 4d164eed72906b8fd04700865c7320c7fc23f11f
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: c3bb6bc8c1d59caae278863974524a5946fecf6c
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545971"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303196"
 ---
-# <a name="manage-co-op-claims"></a>Verwalten von Co-op-Ansprüchen
+# <a name="manage-co-op-claims"></a>Verwalten von Co-Op-Ansprüchen
 
 Gilt für:
 

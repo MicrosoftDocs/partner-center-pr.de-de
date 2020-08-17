@@ -4,16 +4,16 @@ description: Hier finden Sie Ressourcen, die Ihnen den Einstieg in die Incentive
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 1a7a20d788676bc31a500638b4b4dd2884d61a46
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 4f4a82d4b8a94e960befb55bdd4a99e0cdcc9bb0
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "88110572"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303166"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Verwenden Sie diese Ressourcen für den Einstieg in die Verwendung von Incentives.
 
@@ -44,12 +44,13 @@ Bevor Sie für Ihre Arbeit in einem Incentives-Programm bezahlt werden können, 
 
 |  **Aufgabe**  |  **Artikel**  |
 |--------------|-----------|
-| Erfahren Sie, ob Ihre Incentives die Berechtigungsanforderungen für ein bestimmtes Incentive-Programm erfüllen. | [Ermitteln der Programmberechtigung](incentives-determined-your-program-eligibility.md)  |
+| Weitere Informationen zum Anmelden beim Incentive-Programm | [Anmelden beim Incentive-Programm](incentives-enroll.md)  |
+| Erfahren Sie, ob Ihre Incentives die Berechtigungsanforderungen für ein bestimmtes Incentive-Programm erfüllen. | [Ermitteln Ihrer Programmberechtigung](incentives-determined-your-program-eligibility.md)  |
 | Suchen und Bereitstellen der Daten, die Microsoft benötigt, bevor Sie Ihre Incentives-Auszahlungen erhalten | [Erstellen und Verwalten von Auszahlungs- und Steuerprofilen im Partner Center](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
 | Vergewissern Sie sich, dass Sie alle Informationen bereitgestellt haben, die Sie für den Erhalt von Incentives-Ergebnissen benötigen. | [Bestätigen Ihrer Einnahmeberechtigung](incentives-confirm-your-earnings-eligibility.md)  |
-| Alle Daten und Berichte für Ihr Incentives-Programm anzeigen | [Anzeigen der Incentive-Zahlungen und -Programme](understand-incentive-payouts.md)  |
+| Alle Daten und Berichte für Ihr Incentives-Programm anzeigen | [Anzeigen Ihrer Incentivezahlungen und -programme](understand-incentive-payouts.md)  |
 | Greifen Sie auf Ihre Programm spezifische Seite "Incentive-Auszahlungen" zu. | [Zugriff auf die Seite für Anreizauszahlungen](incentives-unified-user-guide.md)  |
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-[Ermitteln der Programmberechtigung](incentives-determined-your-program-eligibility.md)
+[Ermitteln Ihrer Programmberechtigung](incentives-determined-your-program-eligibility.md)

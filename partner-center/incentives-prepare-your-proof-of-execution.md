@@ -3,17 +3,17 @@ title: Vorbereiten Ihres Ausführungsnachweises
 description: Informieren Sie sich über die Wichtigkeit der Ausrichtungs Prüfung (PoE), Zeitachsen, Anzeige Status und Übermittlungs Richtlinien.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: ce7f135dfc4a2a1e6af5396a6fe01c9d7377f493
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: b84d66c9eb623d043e1110cbd9223d6745f571b3
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545941"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303296"
 ---
 # <a name="prepare-your-proof-of-execution"></a>Vorbereiten Ihres Ausführungsnachweises
 
@@ -45,7 +45,7 @@ Geeignete Rollen:
    - **Datum**  Das Ausführungs Datum. Dieses Datum muss zwischen dem Startdatum und dem Enddatum der Kampagne liegen.
    - **Betrag**  Der Betrag des Co-op-Anspruchs.
 
-7. Wählen Sie **Speichern** aus.
+7. Klicken Sie auf **Speichern**.
 
 8. Geben Sie auf der Seite **Neuer Anspruch der Ausführungs** Prüfung die erforderlichen Felder ein.
 

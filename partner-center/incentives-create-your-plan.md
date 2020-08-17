@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: Sammeln und erstellen Sie die erforderlichen Informationen, um einen erfolgreichen Marketingplan für Ihr Incentives-Programm zu generieren.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e10bdf6d47213ec88f4b434fc4c815ce336d956
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 70740341211f5386882e7be05ce9cb921f0be8dd
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546021"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303246"
 ---
 # <a name="create-your-plan"></a>Erstellen Ihres Plans
 
@@ -46,7 +46,7 @@ Weitere Informationen zu den Plänen für Ihr spezielles Incentives-Programm fin
 
 3. Suchen Sie auf der Seite **Programm** den entsprechenden Markt für Ihren Plan, und wählen Sie dann **Plan erstellen**aus. 
 
-4. Füllen Sie auf der Seite **neuer Plan** die erforderlichen Felder aus. **Währung** ist der Wert, den der Plan widerspiegeln soll. **Reviewer-e-Mail** sollte die Microsoft-e-Mail-Adresse Ihres Konto Managers sein. Beachten Sie, dass pro MPN-ID, Finanzierung, Programm und Zeitraum nur ein Plan erstellt werden kann. Wählen Sie **Speichern** aus.
+4. Füllen Sie auf der Seite **neuer Plan** die erforderlichen Felder aus. **Währung** ist der Wert, den der Plan widerspiegeln soll. **Reviewer-e-Mail** sollte die Microsoft-e-Mail-Adresse Ihres Konto Managers sein. Beachten Sie, dass pro MPN-ID, Finanzierung, Programm und Zeitraum nur ein Plan erstellt werden kann. Klicken Sie auf **Speichern**.
 
 5. Überprüfen Sie auf der Statusseite des Plans die angezeigten Informationen. Wählen Sie **Bearbeiten** aus, um die Informationen zu aktualisieren.
 

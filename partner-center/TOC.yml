@@ -171,8 +171,6 @@
     - name: Übersicht über Empfehlungen
       href: referrals.md
       items:
-        - name: Antworten auf Empfehlungen
-          href: responding-to-referrals.md
         - name: Verwalten von Geschäftsprofilen
           href: create-a-marketing-profile.md
         - name: Verwalten von Leads
@@ -193,8 +191,12 @@
       items:
         - name: Erste Schritte mit Incentives
           items:
+            - name: Häufig gestellte Fragen
+              href: incentives-faq.md
             - name: Erste Schritte
               href: incentives-get-started-intro.md
+            - name: Für das Incentives-Programm registrieren
+              href: incentives-enroll.md
             - name: Ermitteln Ihrer Programmberechtigung
               href: incentives-determined-your-program-eligibility.md
             - name: Erstellen und Verwalten von Auszahlungs- und Steuerprofilen im Partner Center

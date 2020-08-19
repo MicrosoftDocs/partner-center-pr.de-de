@@ -1,7 +1,7 @@
 ---
 title: Anzeigen von Informationen zu Incentives und Programmen
 ms.topic: article
-ms.date: 08/03/2020
+ms.date: 08/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Verwenden Sie diese Seiten, um Zahlungs-und Ergebnis Details sowie den Programmstatus und den gesamten Transaktionsverlauf anzuzeigen, zu verwalten und zu exportieren.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 2829931ca80cea33a48e1658f97f2a1fe1a03173
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: cd42d0f1444a0b8a48e5e4892791940cb4928a76
+ms.sourcegitcommit: aea56f82c482a932f71c87801c359a6646b2a921
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545951"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "88560218"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Details zum Programm anzeigen, verwalten und exportieren
 
@@ -82,14 +82,14 @@ So greifen Sie auf Ihre **Incentive-Übersicht** zu:
 | Nicht mehr unterstützt  | Das spezielle Incentive-Programm wird nicht mehr im System "Incentives" angeboten. |
 | Registriert  | Alle Steuer-und Bankinformationen wurden überprüft. Es ist keine weitere Registrierungsaktion für den Partner erforderlich. |
 | Wird registriert  | Der Benutzer ist kein Incentive-Administrator, und die Registrierung erfolgt in der **erforderlichen Aktion** oder **bei** der Überprüfung der Registrierungs Zustände.|
-| Inaktiv/nicht berechtigt | Das Incentive-Programm ist zu diesem Zeitpunkt möglicherweise nicht für die Registrierung geöffnet, oder der Partner erfüllt nicht die aktuelle Berechtigung zur Registrierung oder erneuten Registrierung. <br> Wenn der Status nicht **qualifiziert**ist, erfüllt der Partner nicht die aktuellen Berechtigungsanforderungen für das Programm. Wenn Sie unter dem Registrierungsstatus auf den Link für die **Berechtigungsanforderungen** anzeigen klicken, werden die Voraussetzungen für die Berechtigung angezeigt, und welche dieser Anforderungen erfüllt sind. |
+| Inaktiv/nicht berechtigt | Das Incentive-Programm ist zu diesem Zeitpunkt möglicherweise nicht für die Registrierung geöffnet, oder der Partner erfüllt nicht die aktuelle Berechtigung zur Registrierung oder erneuten Registrierung. <br> Wenn der Status nicht **qualifiziert**ist, erfüllt der Partner nicht die aktuellen Berechtigungsanforderungen für das Programm. Wenn Sie unter dem Registrierungsstatus den Link Informationen zu den **Berechtigungsanforderungen** anzeigen auswählen, werden die Voraussetzungen für die Berechtigung angezeigt, und welche dieser Anforderungen erfüllt sind. |
 | Eingeladen  | Es wurde eine neue Einladungsprogramm-Registrierungs Einladung an den Partner gesendet, aber der Partner hat den Registrierungsprozess noch nicht gestartet. In der angrenzenden Spalte **Aktionen erforderlich** werden die nächsten Schritte und alle zugehörigen Links angezeigt.  |
 | Die Registrierung wird überprüft.  | Der Partner hat die Bank-und Steuerinformationen für eine neue oder vorhandene Registrierung bereits abgeschlossen oder aktualisiert und wartet darauf, dass Microsoft diese Informationen überprüft. Während der über **Prüfung wird die** Überprüfung der Registrierung möglicherweise für bis zu 48 Stunden angezeigt.  |
 
 ## <a name="payments-page"></a>Seite „Zahlungen“
 Die Summen auf dieser Seite stellen alle von Ihnen verwendeten MPN-IDs dar. Sie können nach Teilnehmer-ID, Programm, Zahlungs-ID und Einnahmetyp filtern. Beträge werden in US-Dollar angegeben. Der gezahlte Wert wird auch in der Auszahlungswährung angezeigt.
 
-|**Gebiet**   |**Beschreibung**    |
+|**Bereich**   |**Beschreibung**    |
 |------------------|:-------------------------------------|
 |Zahlungen gesamt in diesem Jahr        |Die kombinierte Summe, die Sie in diesem Jahr in US-Dollar für alle Ihre MPN-IDs bezahlt haben.                                      |
 |Nächste geschätzte Zahlung      |Die nächste nächste Zahlung an Sie (auch wenn andere in Kürze verfügbar sind) in US-Dollar.                                     |
@@ -105,6 +105,36 @@ Auf dieser Seite werden alle Ihre individuellen Einnahmen angezeigt, einschließ
 Zum Anzeigen weiterer Details zu einer Einnahme klicken Sie rechts auf der Seite auf den Pfeil nach unten. Auf diese Weise werden der Hebel, der Umsatz Betrag, das Produkt und der Kunde angezeigt. Wenn eine dieser Daten aus irgendeinem Grund nicht verfügbar ist, Sie aber darauf zugreifen müssen, wenden Sie sich an den Support. Wenn das Ergebnis einer Anpassung und nicht einer Transaktion entspricht, werden die Felder Product und Customer nicht angezeigt.
 
 Wählen Sie zum Exportieren der Transaktionsdaten auf dieser Seite die Option **exportieren** aus, und befolgen Sie dann die Anweisungen auf der Seite Daten exportieren. Dateien, die von der Seite „Transaktionsverlauf“ exportiert wurden, zeigen Daten in Transaktionswährung, Einnahmen in Transaktionswährung und US-Dollar sowie den gezahlten Wert in Auszahlungswährung.
+
+### <a name="estimated-payment-month"></a>Geschätzter Zahlungs Monat
+
+Die Seite Transaktionsverlauf enthält jetzt eine Tabelle mit ihren geschätzten Zahlungs Summen in den nächsten Monaten. Sie können diese Informationen auch in den Exporten Transaktionsverlauf und Zusammenfassungs Bericht anzeigen und herunterladen. Diese Informationen erleichtern das verbessern von reversationen und Zahlungs Projektionen.
+
+Der geschätzte Zahlungs Monat wird basierend auf Programm Konfigurations Regeln und Zeitachsen berechnet und im nächsten/bevorstehenden Zahlungszeitraum verarbeitet.
+
+Der geschätzte Zahlungs Monat ist zurzeit für alle Erwerbs Typen mit Ausnahme von Co-op verfügbar, die als **nicht zutreffend**angezeigt werden. Für den Gewinn vor dem 1. Juli 2020 wird der geschätzte Zahlungs Monat als **nicht verfügbar**angezeigt.
+
+#### <a name="estimated-payment-month-example"></a>Beispiel für geschätzten Zahlungs Monat
+
+| Month (Monat) | Betrag |
+| ------ | :-----------: |
+|  Sep-2020 |  $7.273,99   |
+|  Oct-2020 | $8.692,30  |
+|  November-2020 | $107,89  |
+
+Der geschätzte Betrag kann aus einer Vielzahl von Gründen von der tatsächlichen Menge abweichen:
+
+- Restatement wird generiert: Wenn die Einnahmen neu berechnet werden, ist der tatsächliche Betrag anders.
+- Anpassungen: der tatsächliche Betrag variiert abhängig von den erfolgten oder gesendeten Anpassungen.
+- Regeln ändern: eine Änderung der Regeln kann die Neuberechnung in tatsächlichem Betrag widerspiegeln.
+- Zahlbar: Wenn ein Zahlungs Fehler auftritt, kann der tatsächliche Betrag abweichen.
+
+Beachten Sie, dass Ihre Zahlung nur im projizierten Monat freigegeben wird, wenn die Regeln für Schwellenwert und Zahlungs Berechtigungen Ihres Programms erfüllt sind. Diese Regeln enthalten, sind jedoch nicht auf die unten stehende Liste beschränkt:
+
+- Ihr Steuer Profil muss auf dem neuesten Stand sein.
+- Ihre Einnahmen müssen den minimalen Erstellungs Schwellenwert, der in Ihrem Programmhandbuch definiert ist, erfüllen oder überschreiten.
+- Auszahlung bei Halt: Wenn Sie auf der Seite "Profil Zuweisung" die Option "meine Zahlung aufbewahren" auswählen.
+- Auszahlungs Instrument nicht verfügbar: Zahlungs-oder/oder Steuer Profil ist nicht abgeschlossen.
 
 ## <a name="payment-status"></a>Zahlungsstatus
 
@@ -178,6 +208,7 @@ Mit dieser Option können Sie jede Einnahmeposition, die auf der Seite „Transa
 |earningId   |Eindeutiger Bezeichner für jede Einnahme   |
 |earningrate   |Auf den Transaktionsbetrag angewendete Incentive-Rate zum Generieren einer Einnahme   |
 |earningType   |Gibt an, ob es sich um eine Gebühr, einen Rabatt, Co-op, Verkauf usw. handelt.   |
+|Geschätzter Zahlungs Monat   |Der geplante Monat der Zahlung mit dem geschätzten Betrag, vorausgesetzt, die Mindestanforderungen für den Schwellenwert und die Zahlungs Berechtigungen sind erfüllt.   |
 |exchangeRateDate   |Datum des Wechselkurses, der zum Berechnen des Einnahmebetrags in US-Dollar verwendet wurde   |
 |lastPaymentCurrency   |Die Währung, in der die letzte Zahlung über alle mpns eingegangen ist, an die der derzeit angemeldete Partner Zugriff hat. Wenn keine Zahlung eingegangen ist, ist die letzte Zahlungswährung US-Dollar.   |
 |lever   |Geschäftsregel für die Einnahme   |
@@ -220,7 +251,7 @@ Zusätzlich zur obigen Tabelle sind diese Felder für den Transaktionsverlauf f�
 ## <a name="transaction-summary-report"></a>Transaktions Zusammenfassungs Bericht
 
 >[!NOTE]
->Im Transaktions Zusammenfassungs Bericht werden nicht alle Programme oder Einnahmen angezeigt. Es handelt sich um eine Zusammenfassung, die sich nur auf aggregierte Hebesätze konzentriert. Um einzelne Transaktionen anzuzeigen, laden Sie den [Bericht zum Transaktionsverlauf](#transaction-history-page)herunter.
+>Im Transaktions Zusammenfassungs Bericht werden nicht alle Programme oder Einnahmen angezeigt. Es handelt sich um eine Zusammenfassung, die sich nur auf aggregierte Hebesätze konzentriert. 
 
 Der Transaktions Zusammenfassungs Bericht bietet Transaktionsdetails auf Übersichts Ebene, einschließlich Kundennamen und Abonnement-IDs, für aggregierte Erfassungs Sätze. Der Bericht umfasst jede Erwerbs-ID, die mehreren Transaktionen zugeordnet ist. Der Gesamtbetrag und die Ergebnis Details für diese Erwerbs-ID werden für jeden Kunden/jedes Abonnement wiederholt. Dies liegt daran, dass die Anreize für aggregierte Hebesätze kollektiv und nicht pro Abonnement erworben werden.
 
@@ -251,6 +282,7 @@ Der Transaktions Zusammenfassungs Bericht bietet Transaktionsdetails auf Übersi
 |  earningAmountUSD | Betrag in USD  |
 |  earningDate | Datum der Einnahme  |
 |  earningExchangeRate | Wechselkurs zum Anzeigen des entsprechenden Betrags in US-Dollar  |
+|Geschätzter Zahlungs Monat   |Der geplante Monat der Zahlung mit dem geschätzten Betrag, vorausgesetzt, die Mindestanforderungen für den Schwellenwert und die Zahlungs Berechtigungen sind erfüllt.   |
 |  exchangeRateDate | Datum des Wechselkurses, der zum Berechnen des Einnahmebetrags in US-Dollar verwendet wurde  |
 |  transaktionmonth |  Transaktions Monat   |
 |  transactionCurrency | Währung, in der die ursprüngliche Kunden Transaktion aufgetreten ist  |

@@ -9,14 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecc7d73734ab0d5312293f7ab8335bda76eea6e6
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: fb6af7896f659630bb6810868dc017e1968e4d19
+ms.sourcegitcommit: b74701f3806af2c5da04b21f6c1d1371b56509cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811340"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "88584679"
 ---
-# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Entfernen einer Reseller-Beziehung mit einem Kunden im Partner Center
+# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Entfernen einer Handelspartnerbeziehung mit einem Kunden in Partner Center
 
 **Zielgruppe**
 
@@ -24,14 +24,14 @@ ms.locfileid: "87811340"
 
 In diesem Artikel wird beschrieben, wie Sie eine Reseller-Beziehung mit einem Kunden im Partner Center entfernen.
 
-Direkte Partner: Wenn Sie keine Transaktionen mehr mit einem Kunden abwickeln, können Sie die Partnerschaft in Partner Center entfernen.
+Direkte Partner oder indirekte Anbieter: Wenn Sie nicht mehr mit einem Kunden in der Transaktion arbeiten, können Sie die Beziehung im Partner Center entfernen.
 
-Das Entfernen einer Beziehung hat folgende Konsequenzen:
+Das Entfernen einer Beziehung bewirkt Folgendes:
 
 - Kunden aus der Kundenliste im Partner Center entfernen
-- Sie aus der [Liste verfügbarer Supportkontakte](assign-support-contacts.md) Ihres Kunden entfernen
+- Entfernt Sie aus der [Liste der verfügbaren Support Kontakte](assign-support-contacts.md) für Ihren Kunden.
 - Delegierungsadministratorrechte für den Kunden entfernen
-- Verhindert, dass Sie zukünftige Einkäufe für den Kunden tätigen
+- Tätigen weiterer Käufe für den Kunden verhindern
 
 ## <a name="how-to-remove-a-relationship"></a>Vorgehensweise beim Entfernen einer Beziehung
 

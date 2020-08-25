@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01a4fb132d2ec396bfe45e22cccdabc7f2d15a2e
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
+ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811320"
+ms.lasthandoff: 08/24/2020
+ms.locfileid: "88781832"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Melden eines Dienst Problems im Namen eines Kunden, einschließlich des Zeit-und Vorgehensweise
 
@@ -23,7 +23,11 @@ ms.locfileid: "87811320"
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
 
-Wenn Ihr Kunde ein Dienst Problem hat, das Sie nicht beheben können, und das die unter [eskalieren von Problemen an Microsoft](escalate-problems-to-microsoft.md)beschriebenen Kriterien erfüllt, können Sie ein Support Ticket für Sie einreichen. Dieser Vorgang eignet sich auch zum Eskalieren von Abrechnungsproblemen oder -streitigkeiten und Betrugsverdachtsfällen. 
+**Geeignete Rollen**
+
+- Indirekter Anbieter
+
+Wenn Ihr Kunde ein Dienst Problem hat, das Sie nicht beheben können, und das die unter [eskalieren von Problemen an Microsoft](escalate-problems-to-microsoft.md)beschriebenen Kriterien erfüllt, kann Ihr indirekter Anbieter ein Support Ticket für Sie einreichen. Dieser Vorgang eignet sich auch zum Eskalieren von Abrechnungsproblemen oder -streitigkeiten und Betrugsverdachtsfällen.
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Übermitteln einer Serviceanfrage für einen Kunden
 
@@ -41,7 +45,7 @@ Wenn Ihr Kunde ein Dienst Problem hat, das Sie nicht beheben können, und das di
 > [!IMPORTANT]
 > Wenn Sie eine Serviceanfrage für Ihren Kunden in Azure erstellen möchten, beachten Sie Folgendes:
 >
->- Damit Sie in Azure Serviceanfragen für Ihren Kunden erstellen können, muss Ihnen Ihr indirekter Anbieter Zugriff auf das Azure-Konto des Kunden gewähren. Dies unterscheidet sich von der Verwaltung im Auftrag von Kunden für Office 365.
+>- Damit Sie als indirekter Reseller Service Requests für Ihren Kunden in Azure erstellen können, muss Ihr indirekter Anbieter Ihnen Zugriff auf das Azure-Konto des Kunden gewähren. Dies unterscheidet sich von der Verwaltung im Auftrag von Kunden für Office 365.
 >
 >- Der Helpdesk-Administrator in Partner Center kann zwar keine Serviceanfragen im Azure-Serviceportal erstellen, er kann jedoch eine Supportgruppe im Azure-Serviceportal erstellen und dieser Gruppe Berechtigungen zum Protokollieren von Supportanfragen zuweisen.
 

@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cd42d0f1444a0b8a48e5e4892791940cb4928a76
-ms.sourcegitcommit: aea56f82c482a932f71c87801c359a6646b2a921
+ms.openlocfilehash: acb8d38ab4a3b85dd031790dc75c16ec064195f3
+ms.sourcegitcommit: 389dda2e4100d56c846245ff8ca85c4755b15c25
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "88560218"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88799825"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Details zum Programm anzeigen, verwalten und exportieren
 
@@ -80,7 +80,7 @@ So greifen Sie auf Ihre **Incentive-Übersicht** zu:
 |:------------------------------------|:------------------|
 | Erforderliche Aktion  | Der Partner hat eine Einladung zum Anmelden bei einem Incentive-Programm akzeptiert, muss jedoch die Bank-oder Steuerinformationen aktualisieren. In der Spalte **erforderliche Aktionen** finden Sie alle nächsten Schritte oder Links zum Aktualisieren Ihrer Bank-oder Steuerinformationen in Partner Center. |
 | Nicht mehr unterstützt  | Das spezielle Incentive-Programm wird nicht mehr im System "Incentives" angeboten. |
-| Registriert  | Alle Steuer-und Bankinformationen wurden überprüft. Es ist keine weitere Registrierungsaktion für den Partner erforderlich. |
+| Enrolled (Registriert)  | Alle Steuer-und Bankinformationen wurden überprüft. Es ist keine weitere Registrierungsaktion für den Partner erforderlich. |
 | Wird registriert  | Der Benutzer ist kein Incentive-Administrator, und die Registrierung erfolgt in der **erforderlichen Aktion** oder **bei** der Überprüfung der Registrierungs Zustände.|
 | Inaktiv/nicht berechtigt | Das Incentive-Programm ist zu diesem Zeitpunkt möglicherweise nicht für die Registrierung geöffnet, oder der Partner erfüllt nicht die aktuelle Berechtigung zur Registrierung oder erneuten Registrierung. <br> Wenn der Status nicht **qualifiziert**ist, erfüllt der Partner nicht die aktuellen Berechtigungsanforderungen für das Programm. Wenn Sie unter dem Registrierungsstatus den Link Informationen zu den **Berechtigungsanforderungen** anzeigen auswählen, werden die Voraussetzungen für die Berechtigung angezeigt, und welche dieser Anforderungen erfüllt sind. |
 | Eingeladen  | Es wurde eine neue Einladungsprogramm-Registrierungs Einladung an den Partner gesendet, aber der Partner hat den Registrierungsprozess noch nicht gestartet. In der angrenzenden Spalte **Aktionen erforderlich** werden die nächsten Schritte und alle zugehörigen Links angezeigt.  |
@@ -116,7 +116,7 @@ Der geschätzte Zahlungs Monat ist zurzeit für alle Erwerbs Typen mit Ausnahme 
 
 #### <a name="estimated-payment-month-example"></a>Beispiel für geschätzten Zahlungs Monat
 
-| Month (Monat) | Betrag |
+| Month (Monat) | Amount (Betrag) |
 | ------ | :-----------: |
 |  Sep-2020 |  $7.273,99   |
 |  Oct-2020 | $8.692,30  |
@@ -198,6 +198,14 @@ Mit dieser Option können Sie jede Einnahmeposition, die auf der Seite „Transa
 
 |**Spaltenname**   |**Beschreibung**   |
 |------------------|:-------------------------------------|
+| AR-Konformität | Anpassung, bei der die Einnahmen reduziert werden, wenn Microsoft-Rechnungen nicht rechtzeitig vom Partner bezahlt werden |
+| Co-op-Rollover | Anpassung, bei der Co-op-Gewinn in einen anderen Zeitraum übertragen wird |
+| OPS-Anpassung Microsoft falsche Calc | Anpassung, die falsch Skalierungen korrigiert |
+| OPS-Anpassung Microsoft falsche Registrierung | Anpassung bei falsch Skalierungen im Zusammenhang mit der Registrierung |
+| Richtlinien Ausnahme | Anpassung, die eine Programm Regel überschreibt  |
+| OPS-Anpassung | Anpassung, die Fehler bei der Microsoft-System Berechnung korrigiert |
+| Ergebnis des vorherigen Zeitraums | Anpassung für das Ergebnis außerhalb des aktuellen Erwerbs Zeitraums |
+| Partner Zuordnung (Abonnement) MCI/CSP | Anpassung, die die Fehlausrichtung von Abonnements korrigiert |
 |customerId   |Kunden Bezeichner   |
 |customerName   |Name der Transaktions Kunden   |
 |earningamount   |Betrag in der ursprünglichen Transaktionswährung   |
@@ -267,7 +275,7 @@ Der Transaktions Zusammenfassungs Bericht bietet Transaktionsdetails auf Übersi
 >[!NOTE]
 >Der Transaktions Zusammenfassungs Bericht enthält keine Kunden-und Abonnement Informationen für Abonnements, die neuer als 60 Tage sind, oder wenn der Verbrauchs Umsatz weniger als einen Cent beträgt.
 
-|Spaltenname |BESCHREIBUNG |
+|Spaltenname |Beschreibung |
 |------ |:-----------|
 |  earningId | Eindeutiger Bezeichner für jede Einnahme  |
 |  participantID | Primäre Identität des Partners, der unter dem Programm die Einnahme erzielt  |

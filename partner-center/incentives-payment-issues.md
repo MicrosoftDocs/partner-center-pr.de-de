@@ -1,31 +1,32 @@
 ---
 title: Problembehandlung bei Zahlungen und Einnahmen
 ms.topic: article
-ms.date: 06/29/2020
+ms.date: 08/25/2020
 description: Erfahren Sie, wie Sie Probleme beheben, z. b. fehlende oder falsche Einnahmen, Berechtigungsprobleme und wie Sie die Auswirkungen ihrer Anreize abstimmen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cb278d51235ef7c306691e2926925b0a2396e7e
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: ba1b6eb3ae77903a898815de60a4df05c48f3bd6
+ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303156"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88893469"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>Problembehandlung bei Zahlungen und Einnahmen
 
-Gilt für:
+**Gilt für**:
 
 - Partner Center
 
-Dieser Artikel hilft Ihnen bei der Behebung von Ergebnis-oder Zahlungsproblemen in Ihrem Incentive-Programm. Zu den behandelten Themen zählen die zeitliche Steuerung von Zahlungen, die Überprüfung der Ergebnis Berechtigung und die Wichtigkeit der ordnungsgemäßen Einrichtung ihrer Auszahlungs-und Steuer Profile.
-
-Geeignete Rollen:
+**Geeignete Rollen**:
 
 - Incentiveadministrator
+
+
+Dieser Artikel hilft Ihnen bei der Behebung von Ergebnis-oder Zahlungsproblemen in Ihrem Incentive-Programm. Zu den behandelten Themen zählen die zeitliche Steuerung von Zahlungen, die Überprüfung der Ergebnis Berechtigung und die Wichtigkeit der ordnungsgemäßen Einrichtung ihrer Auszahlungs-und Steuer Profile.
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Wer kann Auszahlungs-und Steuer Profile für meine Organisation erstellen oder aktualisieren?
 
@@ -37,7 +38,7 @@ Die Prüfung kann bis zu 48 Stunden dauern. Während dieser Zeit wird Ihr Profi
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>Wie erkenne ich, dass ich mein Auszahlungs- und Steuerprofil ordnungsgemäß ausgefüllt habe?
 
-Der Status Ihrer Registrierung wird auf der Seite „Übersicht“ angezeigt. Wenn Sie die Profilerstellung abgeschlossen haben, wird der Status der Registrierung **überprüft**. Nachdem wir Ihre Daten überprüft haben, **ändert sich der Status in "** registriert". Dies zeigt an, dass Ihr Auszahlungs- und Steuerprofil und Ihre Registrierung erfolgreich abgeschlossen wurden.
+Der Status Ihrer Registrierung wird auf der Seite „Übersicht“ angezeigt. Wenn Sie die Profilerstellung abgeschlossen haben, wird der Status der Registrierung **überprüft**. Nachdem wir Ihre Daten überprüft haben, **ändert sich der Status in "** registriert". Dieser Status gibt an, dass Ihr Auszahlungs-und Steuer Profil und Ihre Registrierung erfolgreich abgeschlossen wurden.
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>Warum muss ich mein Steuerprofil aktualisieren, um es mit einem neuen Incentives-Programm zu nutzen?
 
@@ -96,7 +97,32 @@ Fehlende oder falsche Einnahmen können durch eines der folgenden Probleme verur
 
 - **Unter Umständen haben Sie die Voraussetzungen nicht erfüllt.**  Überprüfen Sie, ob Sie die [Berechtigung](#my-payment-is-missing-or-incorrect) besitzen und die entsprechenden Umsatzerlösregeln für die gesuchte Incentive erfüllen.
 
-- **Unter Umständen liegt eine Abweichung vor.**  Falls Sie sowohl die Regeln für die Partnerqualifizierung als auch für Umsatzerlöse erfüllen und trotzdem fehlerhafte Einnahmen erhalten, helfen Ihnen die Informationen zum [Ermitteln von Abweichungen bei Einnahmen und Auszahlungen](https://support.microsoft.com/help/4534675) weiter. In diesem Artikel sind die Schritte angegeben, mit denen Sie auf alle Einnahmen und die entsprechenden Transaktionen zugreifen können.
+- **Unter Umständen liegt eine Abweichung vor.**  Wenn Sie sowohl Partner-als auch berechtigte Umsatz Regeln erfüllen und weiterhin falsche Einnahmen anzeigen, helfen Ihnen die folgenden Informationen möglicherweise beim Abrufen Ihrer Daten.
+ 
+Die Einnahmen können über den **Transaktionsverlauf** oder die **Zahlungen** im Partner Center angezeigt werden, indem Sie auf der Navigationsleiste in Partner Center auf das **Auszahlungs** Symbol klicken. 
+
+:::image type="content" source="images/incentives/paymenticon.png" alt-text="Transaktionsinformationen":::
+
+Monatliche Erwerbs Beträge in der Transaktions Verlaufs Ansicht können nicht mit dem für einen bestimmten Monat empfangenen Zahlungsbetrag übereinstimmen. Der Grund hierfür ist die Neuberechnung und die Anpassungen für vorherige Erwerbs Zeiträume, die auf zukünftige Zahlungen angewendet werden.
+
+Beispielsweise wird eine Anpassung für das Ergebnis vom Januar 2019, das im September 2019 verarbeitet wurde, nicht im Ergebnis Betrag für den 2019 Wenn jedoch die Zahlung für September 2019 empfangen wird, enthält Sie die Anpassung für den Januar 2019, die im September angewendet wurde.
+In diesem Szenario müssen Sie die Transaktionsdetails herunterladen, um eine vollständige Übersicht über alle in Ihrer Zahlung enthaltenen Einnahmen zu erhalten.  Außerdem können Sie zur Ansicht "Zahlungen" navigieren, um Transaktionen für jede Zahlung herunterzuladen.
+
+### <a name="transaction-history"></a>Transaktionsverlauf
+
+Diese Ansicht ermöglicht es Ihnen, Gewinn-und Zahlungs Trends nach Monat, Gewinn nach Status und Transaktionsdetails zusammen mit dem Zahlungsstatus der einzelnen Transaktionen anzuzeigen. Die Daten werden nur für die Programme und die MPN-ID angezeigt, die Sie als Incentive-Benutzer oder Administrator Rolle zugewiesen haben.
+
+### <a name="payments"></a>Zahlungen
+
+Diese Ansicht ermöglicht es Ihnen, die Zahlungen für alle Programme und MPN-IDs anzuzeigen. Die Daten werden nur für die Programme und die MPN-ID angezeigt, die Sie als Incentive-Benutzer oder Administrator Rolle zugewiesen haben. In dieser Ansicht können Sie Überweisungen herunterladen oder Transaktionsdetails nach Zahlung anzeigen. 
+
+Scrollen Sie nach unten zum Abschnitt **mit den Zahlungen** , um die Zahlungsinformationen per Zeile anzuzeigen, einschließlich der Beträge und Zahlungsbeträge in der lokalen Währung. Klicken Sie auf " **Zahlungs Übertragung** ", um einen Rück Brief zu laden. Klicken Sie auf **anzeigen** , um eine neue Registerkarte zu öffnen und Details zur Transaktionsebene für eine bestimmte Zahlung anzuzeigen. 
+
+Um Transaktionsdetails in Excel zu exportieren, klicken Sie auf **Download starten** , und klicken Sie dann auf **Daten exportieren**. Hinweis: alle ausgewählten Filter werden auf die exportierten Daten angewendet. Sobald sich der Status in abgeschlossen geändert hat, können Sie auf herunterladen klicken und die Anweisungen befolgen, um den Bericht zu den ausführlichen Transaktionen zu exportieren. Aktualisieren Sie die Seite, wenn der Status nicht innerhalb von fünf Minuten aktualisiert wird. 
+
+### <a name="missing-or-incorrect-earnings-and-payments"></a>Fehlende oder falsche Einnahmen und Zahlungen
+
+Wenn Sie keine Zahlungs-oder Transaktionsdetails finden können, überprüfen Sie, ob die richtigen Filter angewendet wurden. Einige Programmnamen wurden geändert, was möglicherweise mehrere Auswahlen erfordert (z. b. CSP 1T Direct Partner, CSP Direct Bill Partner).
 
 Wenden Sie sich an den [Support](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives), wenn diese Aktionen nicht hilfreich sind und Sie nach wie vor keine Gewinne finden können oder wenn Sie weiterhin davon ausgehen, dass das Ergebnis falsch ist
 
@@ -110,8 +136,6 @@ Führen Sie die folgenden Schritte aus, falls Ihre Einnahmen Abweichungen aufwei
 
 3. **Vergewissern Sie sich, dass Sie die Anforderungen erfüllt haben.**  Überprüfen Sie, ob Sie die [Berechtigung](#my-payment-is-missing-or-incorrect) besitzen und die entsprechenden Umsatzerlösregeln für die gesuchte Incentive erfüllen.
 
-4. **Ermitteln Sie, ob es zu Abweichungen gekommen ist.**  Falls Sie sowohl die Regeln für die Partnerberechtigung als auch für Umsatzerlöse erfüllen und trotzdem fehlerhafte Einnahmen erhalten, helfen Ihnen die Informationen zum [Ermitteln von Abweichungen bei Einnahmen und Auszahlungen](https://support.microsoft.com/help/4534675) weiter. Darin sind die Schritte angegeben, mit denen Sie auf alle Einnahmen und die entsprechenden Transaktionen zugreifen können.
-
 Falls diese Aktionen nicht hilfreich sind und Ihre Einnahmen immer noch nicht stimmen, sollten Sie sich an den [Support](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives) wenden.
 
 ## <a name="where-can-i-find-my-rates"></a>Wo finde ich meine Raten?
@@ -120,4 +144,8 @@ Falls diese Aktionen nicht hilfreich sind und Ihre Einnahmen immer noch nicht st
 
 2. Scrollen Sie nach dem Anmelden nach unten, um auf die Dokumente für Ihr jeweiliges Programm zuzugreifen, und klicken Sie auf den entsprechenden Dokumentlink.
 
-3. Lesen Sie den Abschnitt **Programmstruktur und-Sätze**aus dem Dokument.
+3. Lesen Sie im Dokument den Abschnitt **Programmstruktur und-Sätze**.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Verwalten von Co-Op-Ansprüchen](incentives-managing-co-op-claims.md)

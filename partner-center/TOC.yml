@@ -9,6 +9,8 @@
       href: mpn-create-a-partner-center-account.md
     - name: Beziehen einer geschäftlichen E-Mail-Adresse
       href: buy-email-domain.md
+    - name: Problembehandlung der Kontoeinrichtung
+      href: troubleshoot-account-sign-n.md
     - name: Wechsel zum Partner Center
       items:
         - name: Wechsel vom PAC – Übersicht
@@ -35,6 +37,8 @@
           href: mpn-get-action-pack.md
         - name: Verlängern Ihrer Angebote
           href: renew-mpn-offers.md
+        - name: Finden Ihrer MPN-Vorteile
+          href: mpn-find-benefits.md
     - name: Kompetenzen
       href: learn-about-competencies.md
     - name: Erweiterte Spezialisierungen-

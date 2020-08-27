@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80a44e50134f9bee335627f66cc27beee8a93926
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0aa6efabbff39d63847451c667d48f723ad33b24
+ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527016"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88942562"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Profitieren Sie von einer erweiterten Spezialisierung, um Fachkenntnisse zu präsentieren und Kunden zu präsentieren. 
 
@@ -38,6 +38,7 @@ Wenn Sie alle Voraussetzungen erfüllt haben, bleibt Ihr Status **nicht gestarte
 - Data Warehouse Migration zu Microsoft Azure
 - Kubernetes auf Microsoft Azure
 - Modernisierung von Webanwendungen auf Microsoft Azure
+- Windows Virtual Desktop
 
 
 Wenn Sie alle Anforderungen erfüllt haben, lautet Ihr Status " **aktiv**". Der aktive Status aktiviert automatisch ein Tag in Ihrem **Geschäftsprofil** , das für alle Kunden sichtbar ist, die die Suche nach [einem Lösungsanbieter](https://www.microsoft.com/solution-providers/home)durchsuchen.

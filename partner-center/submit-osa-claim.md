@@ -1,7 +1,7 @@
 ---
 title: Erstellen einer Kunden Zuordnung über das cpor-Modell
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 08/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Erstellen Sie Kunden Zuordnungen über das cpor (Partner of Record)-Modell. Hilft bei der Verwaltung von Vertriebs-, Nutzungs-und & Anreizen für Microsoft 365-und Dynamics 365-Kunden.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7f36480f62e82c10fe90cb0b95dbd7c7db9a5080
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: d5c71bf5c5461abaa7d86a19711ad941e0e8a4ff
+ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811180"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88942552"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Erstellen einer Kunden Zuordnung über das cpor-Modell – Verwendung für Microsoft 365-und Dynamics 365-Kunden
 
@@ -23,6 +23,8 @@ ms.locfileid: "87811180"
 - Partner Center
 
 Am 1. Oktober 2019 begann Microsoft, das Anspruchs Partner of Record-Modell (cpor) zu verwenden, um die Zuordnungen zu verwalten, die Sie mit Ihren Microsoft 365-und Dynamics 365-Kunden in Bezug auf die IT-Microsoft 365 und OSU-Business-Anwendungs Anreize haben.
+
+>[! Wichtig:] Kunden Zuordnungs Ansprüche (Customer Association, cpor) gelten nur für die Online Services Advisory (OSA) Sell (OSU)-Microsoft 365 und OSU-Business Application Incentive-Programme. Wenn Sie einen Co-op-Anspruch für ein anderes Programm, z. b. cloudlösungsanbieter, verwalteten Händler, Hosting oder Oberfläche, übermitteln, lesen Sie den hier beschriebenen Co-op-Anspruchs Prozess.
 
 Wenn Sie Ihren Anspruch einreichen, wird er von Microsoft überprüft. Wir werden möglicherweise an dieser Stelle Weitere Informationen anfordern. Wir benachrichtigen den Kunden auch über Ihre Zuordnungs Anforderung. Kunden haben fünf Werktage, um sich abzumelden. Wenn Sie sich nicht entscheiden, ist die Zuordnung zu diesem spezifischen Mandanten und der Arbeitsauslastung offiziell. An diesem Punkt haben Sie Zugriff auf die Nutzungsdaten des Kunden. 
 

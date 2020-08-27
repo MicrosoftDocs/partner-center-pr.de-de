@@ -9,20 +9,20 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 20ea64ffa15ae5f2370e9194bd3f9907c498a4e9
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998390"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846920"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>Verlängern Sie Ihre MPN-Angebote für Microsoft Action Pack und -Kompetenzen während des Verlängerungszeitraums
 
-**Zielgruppe**
+### <a name="applies-to"></a>Gilt für:
 
 - Partner Center
 
-Das Microsoft Action Pack und Kompetenzen sind Angebote für Mitglieder des Microsoft Partner Network, für die eine jährliche Verlängerung erforderlich ist. Das Zeitfenster für die Verlängerung beginnt einen Tag nach dem Jahrestag des Kaufdatums. Wenn Sie beispielsweise das Microsoft Action Pack am 1. September 2018 gekauft haben, beginnt das Zeitfenster für die Verlängerung am 2. September 2019. Sie können das Microsoft Action Pack und Kompetenzen in Partner Center verlängern. Unter „Mitgliedschaftsangebote“ finden Sie Ihre erworbenen Angebote und den Jahrestag des Kaufdatums für Ihre Angebote in der Spalte mit dem Startdatum für die Verlängerung. Die Mitgliedschaft im Microsoft Partner Network selbst erfordert keine jährliche Verlängerung. 
+Das Microsoft Action Pack und die Silber- und Goldkompetenzen sind Angebote für Mitglieder des Microsoft Partner Network, für die eine jährliche Verlängerung erforderlich ist. Das Zeitfenster für die Verlängerung beginnt einen Tag nach dem Jahrestag des Kaufdatums. Wenn Sie beispielsweise das Microsoft Action Pack am 1. September 2018 gekauft haben, beginnt das Zeitfenster für die Verlängerung am 2. September 2019. Sie können das Microsoft Action Pack und Kompetenzen in Partner Center verlängern. Unter „Mitgliedschaftsangebote“ finden Sie Ihre erworbenen Angebote und den Jahrestag des Kaufdatums für Ihre Angebote in der Spalte mit dem Startdatum für die Verlängerung. Die Mitgliedschaft im Microsoft Partner Network selbst erfordert keine jährliche Verlängerung. 
 
 Weitere Informationen erhalten Sie über den passenden Link unten: 
 
@@ -48,14 +48,15 @@ Damit Sie sich auf die Betreuung Ihrer Kunden konzentrieren können:
 
 - **Wenn Sie das Verlängerungszeitfenster bereits überschritten haben**, können Sie Ihre Kompetenz reaktivieren und wieder auf Ressourcen und Vorteile zugreifen, indem Sie Ihre Gebühr auf der Seite „Mitgliedschaftsangebote“ bezahlen. Diese Erweiterung ist bis zum 31. Dezember 2020 verfügbar.
 
-### <a name="how-to-view-this-information"></a>So können Sie diese Informationen anzeigen
+### <a name="how-to-view-competency-renewal-information"></a>Gewusst wie: Anzeigen von Verlängerungsinformationen für Kompetenzen
 
 1. Wählen Sie im Partner Center-Menü auf Ihrem Dashboard die Option **Kompetenzen** aus.  
 
 2. In der Liste der verfügbaren Kompetenzen sollten ihre Kompetenzen als „Vollständig“ gekennzeichnet sein.  
 
-3. Wählen Sie den Namen der Kompetenz aus. Es wird eine Mitteilung angezeigt, dass Sie bis zu Ihrem nächsten Verlängerungsdatum von der Erfüllung der Anforderungen befreit wurden.   
+3. Wählen Sie eine Ihrer Kompetenzen aus. Es wird eine Mitteilung angezeigt, dass Sie bis zu Ihrem nächsten Verlängerungsdatum von der Erfüllung der Anforderungen befreit wurden.
 
 4. Um dieses Angebot nutzen zu können, navigieren Sie zu **Mitgliedschaftsangebote**. Sie müssen möglicherweise die Kompetenzgebühr bezahlen, um den Vorgang abzuschließen, je nach dem Status des Kaufs bzw. der Verlängerung Ihrer Kompetenz. 
 
 Um die Erweiterung zu nutzen, müssen Sie Ihre Mitgliedschaft aus dem Partner Membership Center (PMC) in das Partner Center verschoben haben, um ihre Kompetenz zu verlängern und die Gebühr zu bezahlen. Wenn Sie Ihre Mitgliedschaft nicht verschoben haben, können Sie noch heute [mehr erfahren](prepare-pmc-pc-migration.md)  und die  [Umstellung durchführen](https://partners.microsoft.com/partnerprogram/Welcome.aspx) .  
+

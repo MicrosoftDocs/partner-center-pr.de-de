@@ -58,7 +58,7 @@ Wenn die Registerkarte Verweise nicht angezeigt wird:
 
 - Der [Konto Administrator](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) Ihres Unternehmens kann Ihnen Zugriff auf die Registerkarte "Verweise" gewähren. Um Ihren Konto Administrator zu finden, wechseln Sie über das Zahnrad Symbol in der oberen rechten Ecke des Partner Centers zu den Partner Einstellungen. Wählen Sie die Seite Benutzerverwaltung auf der zweiten Ebene der linken Navigationsleiste aus. Klicken Sie oben rechts auf der Seite auf die Dropdown-Ansicht mit "alle Benutzer", und wechseln Sie zu "Konto Administratoren". Auf der Seite werden dann alle Konto Administratoren mit ihren jeweiligen e-Mail-IDs angezeigt. Wenden Sie sich an die IT-Abteilung, um den Zugriff auf Ihr Geschäftskonto zu erhalten.
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Das Bild zeigt die Konto Administratoren auf der Seite "Einstellungen für die Benutzerverwaltung" an.":::
+ :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Das Bild zeigt die Konto Administratoren auf der Seite Einstellungen für die Benutzerverwaltung an.":::
 
 - Wechseln Sie im linken Navigationsbereich zur Registerkarte Verweise, und überprüfen Sie, ob Sie auf die Seiten zugreifen können.
 
@@ -117,7 +117,7 @@ In diesem Abschnitt erfahren Sie, wie Sie die genaue Zuordnung von Attributen zw
 - Die Rolle "Geschäft" ist kein Pflichtfeld im PC. Sie wird weder in einem der Workflows angezeigt noch erfasst. Es wird automatisch auf der Seite des Microsoft-Verkäufers basierend auf den Lösungen abgeleitet, die dem Geschäft hinzugefügt werden.
 - Das Datum der letzten Änderung wird nicht auf der Seite mit den Verweis Details auf dem PC angezeigt. Partner können die Sortierungs Funktionen verwenden, um die Geschäfte basierend auf dem Datum der letzten Aktualisierung zu sortieren.
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Ansicht "Partner Sales Connect" (PSC) und der Partner Center-Ansicht.":::
+ :::image type="content" source="images/pscmigration/gridview.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Ansicht Partner Sales Connect (PSC) und der Partner Center-Ansicht.":::
 
 ### <a name="deal-details-view-in-psc-and-partner-center"></a>Detailansicht im PSC und Partner Center
 
@@ -138,7 +138,7 @@ In diesem Abschnitt erfahren Sie, wie Sie die genaue Zuordnung von Attributen zw
 
 ### <a name="user-management-in-psc-and-partner-center"></a>Benutzerverwaltung in PSC und Partner Center
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Partner Sales Connect (PSC)-Startseite und der Partner Center-Benutzerverwaltung in der Ansicht "Kontoeinstellungen".":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Partner Sales Connect (PSC)-Startseite und der Partner Center-Benutzerverwaltung in der Ansicht Kontoeinstellungen.":::
 
 ### <a name="user-role-assignment-in-psc-and-partner-center"></a>Benutzer Rollenzuweisung in PSC und Partner Center
 

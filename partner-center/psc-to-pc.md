@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fd58f9e84ce8e1e3dd8d1da39f24614db1da99b5
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 4bf873bbd5e12372d73d2ed1b4c3307c71fda359
+ms.sourcegitcommit: a2bfdc2ca5fe11afa5e2fb71e1b0fd61180f2d70
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041018"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "89056187"
 ---
 # <a name="referrals-guide-for-managing-your-deals-in-partner-center-instead-of-partner-sales-connect-psc"></a>Leitfaden für die Verwaltung ihrer Geschäfte im Partner Center anstelle von Partner Sales Connect (PSC)
 
@@ -47,8 +47,8 @@ Wie Sie wissen, verliert Ihr Unternehmen den Zugriff auf den PSC-Beitrag am 31. 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Wenn Sie PSC-Deal-Manager oder Verkäufer sind
 
 - Sie benötigen eine geschäftliche e-Mail-Adresse für die Anmeldung bei [Partner Center](https://partner.microsoft.com/).
-- Wenn Sie ein nicht-Geschäftskonto in PSC oder eine andere Domäne als andere in PSC verwenden, wenden Sie sich für die Einrichtung des Kontos an Ihren PSC-Administrator.
-- Wenden Sie sich an Ihren PSC-Administrator, wenn das Einrichten Ihres Partner Center-Kontos unabhängig von dem Konto, das Sie für die Anmeldung beim PSC verwenden, fertiggestellt ist.
+- Wenn Sie ein nicht Geschäftskonto in PSC oder eine andere Domäne als die andere in PSC verwenden, wenden Sie sich für die Einrichtung des Kontos an Ihren PSC-Administrator.
+- Wenden Sie sich an Ihren PSC-Administrator, wenn das Einrichten Ihres Partner Center-Kontos unabhängig von dem Konto, mit dem Sie sich beim PSC anmelden, fertiggestellt ist.
 - Überprüfen Sie, ob Sie Zugriff auf Partner Center und den Abschnitt "Verweise" haben.
 - Lesen Sie dieses Dokument, um sich mit den Workflows und den Änderungen in Partner Center vertraut zu machen.
 
@@ -58,7 +58,7 @@ Wenn die Registerkarte Verweise nicht angezeigt wird:
 
 - Der [Konto Administrator](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) Ihres Unternehmens kann Ihnen Zugriff auf die Registerkarte "Verweise" gewähren. Um Ihren Konto Administrator zu finden, wechseln Sie über das Zahnrad Symbol in der oberen rechten Ecke des Partner Centers zu den Partner Einstellungen. Wählen Sie die Seite Benutzerverwaltung auf der zweiten Ebene der linken Navigationsleiste aus. Klicken Sie oben rechts auf der Seite auf die Dropdown-Ansicht mit "alle Benutzer", und wechseln Sie zu "Konto Administratoren". Auf der Seite werden dann alle Konto Administratoren mit ihren jeweiligen e-Mail-IDs angezeigt. Wenden Sie sich an die IT-Abteilung, um den Zugriff auf Ihr Geschäftskonto zu erhalten.
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Das Bild zeigt die Konto Administratoren auf der Seite Einstellungen für die Benutzerverwaltung an.":::
+ :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Das Bild zeigt die Konto Administratoren auf der Seite "Einstellungen für die Benutzerverwaltung" an.":::
 
 - Wechseln Sie im linken Navigationsbereich zur Registerkarte Verweise, und überprüfen Sie, ob Sie auf die Seiten zugreifen können.
 
@@ -114,10 +114,10 @@ In diesem Abschnitt erfahren Sie, wie Sie die genaue Zuordnung von Attributen zw
 ### <a name="psc-grid-view-and-the-partner-center-deal-view"></a>PSC-Rasteransicht und Partner Center-Ansicht
 
 - Im Partner Center gibt es keine Listenansicht wie die des PSC.  Alle Geschäfte werden basierend auf dem Datum der letzten empfangenen oder erstellten Informationen mit den Kundeninformationen und dem Typ des Deals aufgelistet. Der erste Teil der Ansicht ist standardmäßig ausgewählt. Die meisten der Werte, die im PSC-Tabellenformat angezeigt werden, sind in der Detailansicht des PCs (PC) verfügbar.
-- Die Rolle "Geschäft" ist kein Pflichtfeld im PC. Sie wird weder in einem der Workflows angezeigt noch erfasst. Es wird automatisch auf der Seite des Microsoft-Verkäufers basierend auf den Lösungen abgeleitet, die dem Geschäft hinzugefügt werden.
+- Die Rolle "Geschäft" ist kein Pflichtfeld im PC. Sie wird weder in einem der Workflows angezeigt noch aufgezeichnet. Es wird automatisch auf der Seite des Microsoft-Verkäufers basierend auf den Lösungen abgeleitet, die dem Geschäft hinzugefügt werden.
 - Das Datum der letzten Änderung wird nicht auf der Seite mit den Verweis Details auf dem PC angezeigt. Partner können die Sortierungs Funktionen verwenden, um die Geschäfte basierend auf dem Datum der letzten Aktualisierung zu sortieren.
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Ansicht Partner Sales Connect (PSC) und der Partner Center-Ansicht.":::
+ :::image type="content" source="images/pscmigration/gridview.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Ansicht "Partner Sales Connect" (PSC) und der Partner Center-Ansicht.":::
 
 ### <a name="deal-details-view-in-psc-and-partner-center"></a>Detailansicht im PSC und Partner Center
 
@@ -138,7 +138,7 @@ In diesem Abschnitt erfahren Sie, wie Sie die genaue Zuordnung von Attributen zw
 
 ### <a name="user-management-in-psc-and-partner-center"></a>Benutzerverwaltung in PSC und Partner Center
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Partner Sales Connect (PSC)-Startseite und der Partner Center-Benutzerverwaltung in der Ansicht Kontoeinstellungen.":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Partner Sales Connect (PSC)-Startseite und der Partner Center-Benutzerverwaltung in der Ansicht "Kontoeinstellungen".":::
 
 ### <a name="user-role-assignment-in-psc-and-partner-center"></a>Benutzer Rollenzuweisung in PSC und Partner Center
 
@@ -156,7 +156,7 @@ In diesem Abschnitt erfahren Sie, wie Sie die genaue Zuordnung von Attributen zw
 
 ### <a name="q-what-should-i-do-if-i-dont-have-access-to-partner-center"></a>Q. Was soll ich tun, wenn ich keinen Zugriff auf Partner Center habe?
 
-Sie können sich an Ihre Administratoren wenden, die auf der Seite "kein Zugriff" aufgeführt sind, um die zugewiesenen Rollen zu erhalten. Sie benötigen die Berechtigung "[Verweis Administrator]" (( https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) "Rolle für Lese-und Schreib Berechtigung" im Abschnitt "Verweise". Wenn Sie nur geschäftsprofile verwalten, benötigen Sie die Rolle "Geschäftsprofil Administrator" im Partner Center.
+Sie können sich an Ihre Administratoren wenden, die auf der Seite "kein Zugriff" aufgeführt sind, um die zugewiesenen Rollen zu erhalten. Sie benötigen die Rolle "[Verweis admin](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)" für Lese-und Schreibberechtigungen im Abschnitt "Verweise". Wenn Sie nur geschäftsprofile verwalten, benötigen Sie die Rolle "Geschäftsprofil Administrator" im Partner Center.
 
 ### <a name="q-who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>Q. Wer kann mir Zugriff auf den Abschnitt "Verweise" in Partner Center gewähren?
 

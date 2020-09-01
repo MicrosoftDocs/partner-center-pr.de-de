@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7377af06898afe72df7730f2a809ca85a0e9bdc9
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: bff2c66e7efd05631de7d7643a780cbe5f726103
+ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 09/01/2020
-ms.locfileid: "89274979"
+ms.locfileid: "89281312"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Erfahren Sie, wie Sie Nutzungs Abgleich-Dateien für die tägliche Bewertung in Partner Center lesen.
 
@@ -73,9 +73,9 @@ In diesem Artikel wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit täglic
 | UnitPrice | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dieser Preis den im Abrechnungssystem während der Abstimmung gespeicherten Informationen entspricht. |
 | Menge | Anzahl der Lizenzen. Stellen Sie sicher, dass dieser Preis den im Abrechnungssystem während der Abstimmung gespeicherten Informationen entspricht. |
 | UnitType | Der Typ der Einheit, mit der die Verbrauchseinheit in Rechnung gestellt wird.  |
-| Billingpretaxtotal | Gesamtbetrag der Abrechnung vor Steuern. |
+| Billingpretaxtotal | Gesamtbetrag der Abrechnung vor Steuern.<br/> _**Billingpretaxtotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | BillingCurrency | Die Währung in der geografischen Region des Kunden. |
-| Pricingpretaxtotal | Die Preise, bevor Steuern hinzugefügt werden. <br/> _**Pricingpretaxtotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
+| Pricingpretaxtotal | Die Preise, bevor Steuern hinzugefügt werden. |
 | PricingCurrency | Die Währung in der Preisliste. |
 | ServiceInfo1 | Die Anzahl der Service Bus Verbindungen, die an einem bestimmten Tag bereitgestellt und verwendet wurden. |
 | ServiceInfo2 | Ein Legacyfeld, in dem optionale dienstspezifische Metadaten erfasst werden. |

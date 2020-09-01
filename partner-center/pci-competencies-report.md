@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8a6c5fc3a087c97b2ad19b2067027bab24ac15b
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 8d03533d69df4600879dbc90622b640a932ab069
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239038"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220468"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Im Partner Center Insights-Dashboard verfügbarer Bericht "Kompetenzen"
 
@@ -26,15 +26,18 @@ ms.locfileid: "88239038"
 
 Mit den Kompetenzen kann Ihr Unternehmen ihre technische Funktion zur Bereitstellung von Microsoft-Lösungen veranschaulichen. Die Microsoft-Kompetenzen sind so konzipiert, dass Sie die Anforderungen Ihrer Kunden erfüllen und ihr Fachwissen an potenzielle Kunden präsentieren können. Sie verfügen über eine Vielzahl von Vorteilen von Microsoft, z. b. enthaltene Mengen an Azure-Verbrauch, Berechtigungen für cloudprodukte wie O365, technischen Support, Markt Einführungsangebote usw. Heute gibt es insgesamt 19 Kompetenzen in den folgenden Kategorien: **App und Infrastruktur**, **Geschäftsanwendungen**, **Daten und Ki** und **moderner Arbeitsplatz**. Kompetenzen werden beispielsweise in Silver-oder Gold-Stufen eingeteilt. Es gibt einen höheren Balken für die Gold-Kompetenz und eine zugeordnete höhere Menge an Marketingressourcen, angeboten und Programmen.  
 
-**Lebenszyklus der Kompetenz**
+Wenn Sie mehr über den Lebenszyklus des Lebenszyklus, die Kompetenz und andere Kompetenz Berichte erfahren möchten, erhalten Sie mehr Verwendungs Informationen aus dem kompetenzbericht.
+
+## <a name="competency-life-cycle"></a>Lebenszyklus der Kompetenz
 
 Aus Sicht des Lebenszyklus beginnen Partner mit der Entwicklung von Key Performance Indicator (KPIs), die zum Erreichen spezifischer Kompetenzen erforderlich sind. Sobald Sie den Schwellenwert für eine bestimmte Kompetenz über alle erforderlichen Metriken erreichen, werden Sie für eine Kompetenz **qualifiziert** . Partner können dann das Kompetenz Angebot (Silver oder Gold) bezahlen, um die Kompetenz zu erreichen und in dieser Kompetenz **aktiv** zu werden. Der **aktive** Status der Kompetenz ist für ein Jahr ab dem Datum der Erlangung der Kompetenz gültig (Dies wird als **Jahrestag** der Kompetenz bezeichnet). Am Ende des Jahres Jahrs müssen Partner die Kompetenzanforderungen erfüllen. Wenn diese Anforderungen nicht wieder erfüllt werden, verlieren Sie die Kompetenz. Ein **Risiko** Status für eine zuvor ersagte Kompetenz bedeutet, dass bestimmte Schlüsselmetriken an den Schwellenwert für das **Enddatum**der Zuständigkeiten unterliegen.
 
-**Kompetenz Erreichung**
+## <a name="competency-attainment"></a>Kompetenz Erreichung
 
 Jede Kompetenz muss einen bestimmten Satz von Anforderungen erfüllen. Die cloudanformfähigkeits-Anforderungen werden in zwei Kategorien unterteilt: Fähigkeiten und Leistung
 
 - Fähigkeiten: Anforderungen umfassen häufig Prüfungen, Bewertungen oder Zertifizierungen, die Einzelpersonen innerhalb Ihres Unternehmens durchlaufen müssen.
+
 - Leistung: damit Sie für eine Kompetenz qualifiziert werden können, muss Ihr Unternehmen bestimmte Leistungs Schwellenwerte für den Kompetenzbereich erfüllen. Beispielsweise muss Ihr Unternehmen in den nachfolgenden 12 Monaten möglicherweise einen minimalen Azure-Verbrauch erreichen.
 
 ## <a name="competencies-report-details"></a>Details zu den Zuständigkeiten Berichten
@@ -46,9 +49,9 @@ Die folgenden Abschnitte werden im Bericht "Kompetenzen" angezeigt:
 - Kompetenz Verlauf
 
  > [!NOTE]
- > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administrator Berechtigungen für Berichte verfügen.
+ > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administratorrechte für Berichte verfügen.
 
-**Zusammenfassung**
+### <a name="summary"></a>Zusammenfassung
 
 Die Zusammenfassungs Ansicht zeigt die Anzahl der Kompetenzen mit ihren Namen auf den einzelnen Zuständigkeits Stufen (Gold/Silver) in allen Phasen des Lebenszyklus der Kompetenz. Zu den Phasen des Lebenszyklus der Kompetenz gehören: **Started**, **qualified**, **Active**und **Risk**. Beispiel: Cloud-Kompetenzanforderungen fallen in zwei Kategorien: Fähigkeiten und Leistung.
 
@@ -64,7 +67,7 @@ Aufschlüsselung der Kompetenzen (nach Kompetenzniveau wie Silver/Gold und Kompe
 
 :::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Zusammenfassung der Zuständigkeiten":::
 
-**Analyse der Kompetenz Metrik**
+### <a name="competency-metric-analysis"></a>Analyse der Kompetenz Metrik
 
 In dieser Ansicht wird der Status von Kompetenz Metriken anhand der Schwellenwerte angezeigt, die für Partner erforderlich sind, um die Kompetenz auf der Ebene Silber/Gold zu erreichen/zu behalten 
 
@@ -78,7 +81,7 @@ Der Bericht kann nach folgenden zwei Datumsbereichen pivotiert werden:
 > [!NOTE]
  > Nicht alle Metriken werden in der Analyse behandelt. Derzeit werden im Bericht "Kompetenzen" keine Metriken unterstützt. CBA-Kompetenzen (Cloud Business Applications) werden zurzeit in der metrikanalyse für den **aktiven** Kompetenz Status ebenfalls nicht unterstützt.
 
-**Kompetenz Verlauf**
+### <a name="competency-history"></a>Kompetenz Verlauf
 
 Diese Ansicht zeigt eine detaillierte Tabelle mit allen Kompetenzen, die Sie bisher erreicht haben, mit dem Kompetenzniveau und der Kompetenz Phase.
 

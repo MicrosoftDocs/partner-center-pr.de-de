@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: b84d66c9eb623d043e1110cbd9223d6745f571b3
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 76bf9cf147c27a562962dcff3baa0ff34cf959b2
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303296"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220778"
 ---
 # <a name="prepare-your-proof-of-execution"></a>Vorbereiten Ihres Ausführungsnachweises
 
-Gilt für:
+**Gilt für:**
 
 - Partner Center
 
-Bevor Sie für Ihre Incentives bezahlt werden, müssen Sie einen detaillierten Ausführungs Nachweis (PoE) einreichen. Dieser Artikel führt Sie durch den Prozess der Erstellung eines effektiven Ausführungs Nachweises.
-
-Geeignete Rollen:
+**Geeignete Rollen:**
 
 - Incentiveadministrator
+
+Bevor Sie für Ihre Incentives bezahlt werden, müssen Sie einen detaillierten Ausführungs Nachweis (PoE) einreichen. Dieser Artikel führt Sie durch den Prozess der Erstellung eines effektiven Ausführungs Nachweises.
 
 ## <a name="how-to-submit-a-poe"></a>Übermitteln eines Poe
 
@@ -80,3 +80,7 @@ Geeignete Rollen:
    - Bearbeitung läuft
    - Genehmigt
    - Rejected (Abgelehnt)
+
+## <a name="next-steps"></a>Nächste Schritte:
+
+- [Erste Schritte mit Incentives](incentives-get-started-intro.md)

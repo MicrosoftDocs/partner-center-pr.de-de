@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f26384f408f7644d577940e22ea43a197c41164f
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 8df91ec4072b1873a240d42fa2382ebcc00b9bc5
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239058"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220328"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Bericht "Produkt Abonnements" im Partner Center Insights-Dashboard verfügbar
 
@@ -36,37 +36,39 @@ Die folgenden Abschnitte finden Sie im Bericht zu Produkt Abonnements.
 - Produkt Trend
 
  > [!NOTE]
- > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administrator Berechtigungen für Berichte verfügen.
+ > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administratorrechte für Berichte verfügen.
 
-**Zusammenfassung**
+## <a name="summary"></a>Zusammenfassung
 
 Der Abschnitt Zusammenfassung enthält eine Momentaufnahme Ansicht der KPIs (Key Performance Indicator), die sich auf Abonnements beziehen, die von Ihnen für Ihre Kunden verkauft oder verwaltet werden.  
 
-- Abonnements: die aktuelle Anzahl der cloudproduktabonnements, die von Ihnen verkauft oder verwaltet werden.
-Prozentualer Zuwachs oder ablehnen von Abonnements während des ausgewählten Datums Bereichs.
+:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Zusammenfassung der Abonnement Berichte":::
 
-Das Micro-Diagramm zeigt einen Monat-für-Monat-Trend der Abonnement Anzahl während des ausgewählten Datums Bereichs.
+Weitere Informationen zu den einzelnen Abschnitten der Zusammenfassung finden Sie unten.
 
-- Aktive Abonnements: aktuelle Anzahl der cloudabonnements mit aktiver Verwendung, gemessen basierend auf Produkt Telemetrie. Dies schließt alle Test Abonnements im Fall von Azure-Abonnements aus.
-Prozentualer Zuwachs oder Rückgang aktiver Abonnements im ausgewählten Zeitraum.
+- Abonnements:
+  - Aktuelle Anzahl der cloudproduktabonnements, die von Ihnen verkauft oder verwaltet werden.
+  - Prozentualer Zuwachs oder ablehnen von Abonnements während des ausgewählten Datums Bereichs.
+  - Das Micro-Diagramm zeigt einen Monat-für-Monat-Trend der Abonnement Anzahl während des ausgewählten Datums Bereichs.
 
-Das Micro-Diagramm zeigt einen Monat-für-Monat-Trend aktiver Abonnements während des ausgewählten Datums Bereichs.
+- Aktive Abonnements:
+  - Aktuelle Anzahl der cloudabonnements, bei der die aktive Verwendung basierend auf Produkt Telemetrie gemessen wird. Dies schließt alle Test Abonnements im Fall von Azure-Abonnements aus.
+  - Prozentualer Zuwachs oder Rückgang aktiver Abonnements im ausgewählten Zeitraum.
+  - Das Micro-Diagramm zeigt einen Monat-für-Monat-Trend aktiver Abonnements während des ausgewählten Datums Bereichs.
 
-- Hinzugefügte Abonnements: gesamte Kunden Abonnements, die während des ausgewählten Datums Bereichs von Ihnen hinzugefügt (verkauft oder verwaltet) werden. Neue Abonnements mit dem Status " **aktiv** " oder " **erneuert** " werden als Abonnements gezählt.
-Der Prozentsatz der im letzten vollen Monat hinzugefügten Abonnements im Vergleich zum ersten vollen Monat.
+- Hinzugefügte Abonnements:
+  - Gesamte Kunden Abonnements, die während des ausgewählten Datums Bereichs von Ihnen hinzugefügt (verkauft oder verwaltet) werden. Neue Abonnements mit dem Status " **aktiv** " oder " **erneuert** " werden als Abonnements gezählt.
+  - Der Prozentsatz der im letzten vollen Monat hinzugefügten Abonnements im Vergleich zum ersten vollen Monat.
+  - Das Micro-Diagramm zeigt einen monatlichen Trend der Abonnements, die während des ausgewählten Datums Bereichs hinzugefügt wurden.
 
-Das Micro-Diagramm zeigt einen monatlichen Trend der Abonnements, die während des ausgewählten Datums Bereichs hinzugefügt wurden.
-
-- Abonnement Änderungen: Gesamtzahl der Kunden Abonnements, die während des ausgewählten Datums Bereichs über den Zeitraum verfügen. Abonnements, deren Status in diesem Monat **aufgeh** oben oder **angeh** alten wurde, werden als ein Änderungs Abonnement gezählt.  
-Prozentsatz der Abonnements, die im ausgewählten Datumsbereich angegeben wurden.
-
-Das Micro-Diagramm zeigt einen monatlichen Trend der Abonnements, die im ausgewählten Datumsbereich angezeigt werden.
+- Abonnements:
+  - Gesamtanzahl der Kunden Abonnements, die während des ausgewählten Datums Bereichs über den Zeitraum Abonnements, deren Status in diesem Monat **aufgeh** oben oder **angeh** alten wurde, werden als ein Änderungs Abonnement gezählt.  
+  - Prozentsatz der Abonnements, die im ausgewählten Datumsbereich angegeben wurden.
+  - Das Micro-Diagramm zeigt einen monatlichen Trend der Abonnements, die im ausgewählten Datumsbereich angezeigt werden.
 
 - Abonnements nach Produkten: Aufschlüsselung der aktuellen Abonnement Anzahl nach cloudprodukten.
 
-:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Zusammenfassung der Abonnement Berichte":::
-
-**Geografische Verteilung von Abonnements**
+## <a name="geographical-spread-of-subscriptions"></a>Geografische Verteilung von Abonnements
 
 In der Ansicht " **Abonnements nach Geografie** " wird die geografische Verteilung der Gesamt Abonnements nach kundenmärkten angezeigt. Der gesamte Abonnement Betrag umfasst sowohl verkaufte Abonnements als auch aktive Abonnements.
 
@@ -76,27 +78,27 @@ Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte
 
 :::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="Abonnements nach Geografie":::
 
-**Hinzufügungen/Abwanderung von Abonnements**
+## <a name="subscription-addschurns"></a>Hinzufügungen/Abwanderung von Abonnements
 
 Diese Ansicht zeigt einen Trend von Abonnements. Diese werden für den ausgewählten Datumsbereich in verschiedene Kategorien unterteilt (neu, vorhandene, Änderungen). Die X-Achse stellt Monate des ausgewählten Datums Bereichs dar. Die Y-Achse stellt die Anzahl der Abonnements dar. Versennte Abonnements werden auf der negativen Skala der Y-Achse dargestellt. 
 
-Das gestapelte Säulendiagramm stellt eine Aufschlüsselung neuer, vorhandener und Änderungs Abonnements für den Monat dar. Sie können das Säulendiagramm neu erstellen, wobei Sie mit bestimmten Stapel Elementen aufgeschlüsselt sind. Wählen Sie zu diesem Zweck die einzelnen Elemente in der Legende aus. Sie können auch den Schieberegler oberhalb des Diagramms nutzen, um einen bestimmten Zeitraum zu vergrößern.
+Das gestapelte Säulendiagramm zeigt eine Aufschlüsselung neuer, vorhandener und Änderungs Abonnements für den Monat. Sie können das Säulendiagramm neu erstellen, wobei Sie mit bestimmten Stapel Elementen aufgeschlüsselt sind. Wählen Sie zu diesem Zweck die einzelnen Elemente in der Legende aus. Sie können auch den Schieberegler oberhalb des Diagramms nutzen, um einen bestimmten Zeitraum zu vergrößern.
 
 :::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="Hinzufügungen und Änderungen von Abonnements":::
 
-**Abonnement Verteilung**
+## <a name="subscription-distribution"></a>Abonnement Verteilung
 
 Diese Ansicht zeigt eine Aufschlüsselung Ihrer aktuellen Abonnements durch ihre MPN-Standorte, Kundensegmente, Vertriebskanäle/Azure-Preismodell und den Zuweisungs Typen (z. b. dpor, DAP usw.). Klicken Sie auf die entsprechenden Registerkarten, um die Aufteilung nach diesen Kategorien anzuzeigen. Um das Kreis Diagramm mit einer Aufschlüsselung bestimmter Element Kategorien zu erstellen, wählen Sie die Element Kategorien in der Legende aus.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="Abonnement Verteilung":::
 
-**Verteilung des Abonnement Status**
+## <a name="subscription-state-distribution"></a>Verteilung des Abonnement Status
 
 Diese Ansicht zeigt die Verteilung Ihrer aktuellen Kunden Abonnements nach Abonnement Zustand oder-Status. Dies schließt die folgenden Abonnement Zustände ein: **aktiv**, deaktiviert **, bereitgestellt,** **offen**, **ingraceperiod**, **Closed**und **andere**. **Disabled**
 
 :::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="Verteilung des Abonnement Status":::
 
-**Produkt Trend**
+## <a name="products-trend"></a>Produkt Trend
 
 In dieser Ansicht werden ein Balkendiagramm und zwei Kreis Diagramme angezeigt. Das Balkendiagramm zeigt einen monatlichen Trend von Abonnements, die von kommerziellen Produkten wie Azure, Office, Dynamics usw. aufgeschlüsselt sind.
 

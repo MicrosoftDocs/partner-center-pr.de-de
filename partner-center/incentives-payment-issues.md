@@ -1,19 +1,19 @@
 ---
 title: Problembehandlung bei Zahlungen und Einnahmen
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 08/31/2020
 description: Erfahren Sie, wie Sie Probleme beheben, z. b. fehlende oder falsche Einnahmen, Berechtigungsprobleme und wie Sie die Auswirkungen ihrer Anreize abstimmen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ba1b6eb3ae77903a898815de60a4df05c48f3bd6
-ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
+ms.openlocfilehash: 5696c4e3e74fd9fe4c17b0da37f6b6bf3ba98165
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88893469"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220788"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>Problembehandlung bei Zahlungen und Einnahmen
 
@@ -24,7 +24,6 @@ ms.locfileid: "88893469"
 **Geeignete Rollen**:
 
 - Incentiveadministrator
-
 
 Dieser Artikel hilft Ihnen bei der Behebung von Ergebnis-oder Zahlungsproblemen in Ihrem Incentive-Programm. Zu den behandelten Themen zählen die zeitliche Steuerung von Zahlungen, die Überprüfung der Ergebnis Berechtigung und die Wichtigkeit der ordnungsgemäßen Einrichtung ihrer Auszahlungs-und Steuer Profile.
 
@@ -57,18 +56,20 @@ Fehlende oder falsche Zahlungen sind häufig auf eine der folgenden Ursachen zur
 
   **So überprüfen Sie Ihre Berechtigung**
 
-  1. Melden Sie sich hier bei Partner Center an: [Partner-Incentives](https://partner.microsoft.com/membership/partner-incentives).
-  
+  1. Melden Sie sich bei [Partnern](https://partner.microsoft.com/membership/partner-incentives)an.
+
   2. Scrollen Sie nach unten zu den Dokumenten für das Programm.
   
-  3. Wählen Sie den gewünschten Dokument Link aus, und überprüfen Sie dann die Abschnitte **Partner Voraussetzungen** und **berechtigte Umsatz Regeln**.
+  3. Wählen Sie den gewünschten Dokument Link aus, und überprüfen Sie die Abschnitte. 
+
+Regeln für den **Partner** und **berechtigte Umsätze**.
 
 - **Ihr Zahlungsprofil ist möglicherweise unvollständig.** Das Startdatum Ihrer Incentive-Einnahmen ist der erste Tag des Monats, in dem Sie alle Berechtigungsvoraussetzungen erfüllt haben, einschließlich Onboarding mit Auszahlungs- und Steuerdetails. In den Monaten vor der Vervollständigung der Angaben zu Auszahlung und Steuern stehen Einnahmen nicht zur Verfügung. Wenn Sie beispielsweise alle Anforderungen während des Monats April 2020 erfüllt haben, ist der 1. April 2020 das Startdatum für Ihre Einnahmen.
 - **Möglicherweise liegt eine ausstehende Aktion**vor.  Es könnte sein, dass Ihre Incentives nicht verarbeitet werden, weil eine Aktion von Ihnen noch aussteht.
 
   **So zeigen Sie ausstehende Aktionen an**
 
-  1. Melden Sie sich hier bei Partner Center an: [Partner-Incentives](https://partner.microsoft.com/membership/partner-incentives).
+  1. Melden Sie sich bei [Partnern](https://partner.microsoft.com/membership/partner-incentives)an.
   2. Öffnen Sie die Seite **Transaktionsverlauf** . Überprüfen Sie die Felder auf dieser Seite auf Ausstehende Aktionen, die abgeschlossen werden müssen, z. b. **ausstehende Steuer profile**, **ausstehende Zahlungs profile**oder **ausstehende Steuer Rechnungs Übermittlung**.
 
 Wenn diese Aktionen nicht hilfreich sind und ihre Zahlungen weiterhin fehlen oder nicht korrekt sind, wenden Sie sich an den [Support](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
@@ -112,7 +113,7 @@ In diesem Szenario müssen Sie die Transaktionsdetails herunterladen, um eine vo
 
 Diese Ansicht ermöglicht es Ihnen, Gewinn-und Zahlungs Trends nach Monat, Gewinn nach Status und Transaktionsdetails zusammen mit dem Zahlungsstatus der einzelnen Transaktionen anzuzeigen. Die Daten werden nur für die Programme und die MPN-ID angezeigt, die Sie als Incentive-Benutzer oder Administrator Rolle zugewiesen haben.
 
-### <a name="payments"></a>Zahlungen
+### <a name="payments"></a>Payments
 
 Diese Ansicht ermöglicht es Ihnen, die Zahlungen für alle Programme und MPN-IDs anzuzeigen. Die Daten werden nur für die Programme und die MPN-ID angezeigt, die Sie als Incentive-Benutzer oder Administrator Rolle zugewiesen haben. In dieser Ansicht können Sie Überweisungen herunterladen oder Transaktionsdetails nach Zahlung anzeigen. 
 
@@ -140,9 +141,9 @@ Falls diese Aktionen nicht hilfreich sind und Ihre Einnahmen immer noch nicht st
 
 ## <a name="where-can-i-find-my-rates"></a>Wo finde ich meine Raten?
 
-1. Navigieren Sie zur Seite mit den [Partnerincentives](https://partner.microsoft.com/membership/partner-incentives), und melden Sie sich an.
+1. Melden Sie sich bei [Partnern](https://partner.microsoft.com/membership/partner-incentives)an.
 
-2. Scrollen Sie nach dem Anmelden nach unten, um auf die Dokumente für Ihr jeweiliges Programm zuzugreifen, und klicken Sie auf den entsprechenden Dokumentlink.
+2. Scrollen Sie nach unten, um auf die Dokumente für das gewünschte Programm zuzugreifen, und klicken Sie auf den Dokument Link für das jeweilige Programm.
 
 3. Lesen Sie im Dokument den Abschnitt **Programmstruktur und-Sätze**.
 

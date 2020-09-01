@@ -1,33 +1,33 @@
 ---
-title: Erstellen Ihres Plans
+title: Erstellen Sie Ihren Incentive-Plan
 ms.topic: article
-ms.date: 06/29/2020
+ms.date: 08/31/2020
 description: Sammeln und erstellen Sie die erforderlichen Informationen, um einen erfolgreichen Marketingplan für Ihr Incentives-Programm zu generieren.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 70740341211f5386882e7be05ce9cb921f0be8dd
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 018caf14a7ccc4c7e5e63e25d48c57df923af5a3
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303246"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220628"
 ---
-# <a name="create-your-plan"></a>Erstellen Ihres Plans
+# <a name="create-your-incentives-plan"></a>Erstellen Sie Ihren Incentive-Plan
 
-Gilt für:
+**Gilt für:**
 
 - Partner Center
 
-Ein Co-op-Anspruchs Plan ist die Reihe von Marketingkampagnen, Aktivitäten und anderen Details, die beschreiben, wie Sie Ihr Programm Erfolg machen. Nachdem Sie den Plan erstellt haben, übermitteln Sie ihn zur Genehmigung an Microsoft. 
-
-Geeignete Rollen:
+**Geeignete Rollen:**
 
 - Incentiveadministrator
 - Abrechnungsadministrator
 - Globaler Administrator
+
+Ein Co-op-Anspruchs Plan ist die Reihe von Marketingkampagnen, Aktivitäten und anderen Details, die beschreiben, wie Sie Ihr Programm Erfolg machen. Nachdem Sie den Plan erstellt haben, übermitteln Sie ihn zur Genehmigung an Microsoft.
 
 ## <a name="create-your-incentives-plan"></a>Erstellen Sie Ihren Incentive-Plan
 
@@ -93,3 +93,7 @@ Microsoft zahlt Ihnen jeden Monat basierend auf Ihren Einnahmen und den Grenzwer
 Wenn für Ihren Plan beispielsweise 10.000 USD genehmigt sind und Sie im April 5.000 USD eingenommen haben, werden Ihnen am 15. Mai 5.000 USD ausgezahlt.
 
 Wenn Sie für denselben Plan im April 15.000 USD einnehmen, erhalten Sie am 15. Mai eine Zahlung in Höhe von 10.000 USD, weil der Grenzwert für Ihren Plan 10.000 USD beträgt. Sie müssen den Grenzwert für Ihren Plan für den nächsten Monat erhöhen, damit Sie höhere Zahlungen erhalten können.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Vorbereiten Ihres Ausführungsnachweises](incentives-prepare-your-proof-of-execution.md)

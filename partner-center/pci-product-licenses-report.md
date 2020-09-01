@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66b913688b279654c79b0860fbd0f92a921d87dd
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 4f1709d9a95e3509edbc431a851a2f1fdc0aae01
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239048"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220299"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Bericht "Produktlizenzen" im Partner Center Insights-Dashboard
 
@@ -32,29 +32,32 @@ Der Bericht zu den Produktlizenzen enthält Lizenz Analysen für Lizenz basierte
 - Lizenz Verteilung nach Partnerstandorten, Vertriebskanal, SKUs, Anfügungs Typ für Partner, Segment
 
  > [!NOTE]
- > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administrator Berechtigungen für Berichte verfügen.
+ > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administratorrechte für Berichte verfügen.
 
-**Zusammenfassung**
+## <a name="summary"></a>Zusammenfassung
 
 Der Abschnitt "Zusammenfassung" enthält eine Momentaufnahme Ansicht von Key Performance Indicator (KPIs), die den verkauften, bereitgestellten und verwendeten Cloud-Produktlizenzen zugeordnet sind. Auf diese Weise können Sie die aktive Nutzung anhand der Lizenzen nachverfolgen, die Sie an Ihre Kunden verkauft haben.
 
-- Lizenzen: aktuelle Anzahl aller Lizenzen, die von Ihnen für Lizenz basierte cloudprodukte (z. b. O365, Dynamics, M365, Power BI usw.) verkauft oder verwaltet werden. Prozentuale Vergrößerung oder Abnahme dieser Lizenzen im ausgewählten Datumsbereich.
-
-Das Micro-Diagramm zeigt den Trend für den Monatsvergleich der Lizenz Anzahl während des ausgewählten Datums Bereichs.
-
-- Bereitgestellte Lizenzen: aktuelle Anzahl aller zugewiesenen Lizenzen Ihres Kunden.
-Prozentuale Vergrößerung oder Abnahme dieser Lizenzen während des ausgewählten Zeitraums.
-
-Das Micro-Diagramm zeigt den monatlichen Trend der zugewiesenen Lizenz Anzahl während des ausgewählten Datums Bereichs.
-
-- Aktive Lizenzen: aktuelle Anzahl aller Kunden Lizenzen mit einer beliebigen aktiven Nutzung während des ausgewählten Datums Bereichs in den letzten 30 Tagen.
-Prozentuale Vergrößerung oder Abnahme dieser Lizenzen während des ausgewählten Datums Bereichs.
-
-Das Micro-Diagramm zeigt den Trend für den Monat-über-Monat-Trend der Anzahl von Lizenzen während des ausgewählten Datums Bereichs.
-
 :::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Zusammenfassung des Lizenz Berichts":::
 
-**Geografische Verteilung von Lizenzen**
+Weitere Informationen zu den einzelnen Abschnitten der Zusammenfassung finden Sie unten.
+
+- Licenses: 
+  - Aktuelle Anzahl aller Lizenzen, die von Ihnen für Lizenz basierte cloudprodukte (z. b. O365, Dynamics, M365, Power BI usw.) verkauft oder verwaltet werden.
+  - Prozentuale Vergrößerung oder Abnahme dieser Lizenzen im ausgewählten Datumsbereich.
+  - Lizenz Trend Micro-Diagramm: das Micro-Diagramm zeigt den Monat-über-Monat-Trend der Lizenz Anzahl im ausgewählten Datumsbereich.
+
+- Bereitgestellte Lizenzen:
+  - Aktuelle Anzahl aller zugewiesenen Lizenzen Ihres Kunden.
+  - Prozentuale Vergrößerung oder Abnahme dieser Lizenzen während des ausgewählten Zeitraums.
+  - Micro-Diagramm für Lizenzen: das Micro-Diagramm zeigt den Monat-über-Monat-Trend der zugewiesenen Lizenz Anzahl während des ausgewählten Datums Bereichs an.
+
+- Aktive Lizenzen: 
+  - Die aktuelle Anzahl aller Kunden Lizenzen, die während der letzten 30 Tage während des ausgewählten Datums Bereichs aktiv waren.
+  - Prozentuale Vergrößerung oder Abnahme dieser Lizenzen während des ausgewählten Datums Bereichs.
+  - Das Micro-Diagramm zeigt den Trend für den Monat-über-Monat-Trend der Anzahl von Lizenzen während des ausgewählten Datums Bereichs.
+
+## <a name="geographical-spread-of-licenses"></a>Geografische Verteilung von Lizenzen
 
 In der Ansicht geografische Verteilung von **Lizenzen** wird die geografische Verteilung aktueller Lizenzen und aktiver Lizenzen nach kundenmärkten angezeigt. (Die **aktuelle** Anzahl der Lizenzen umfasst auch nicht zugewiesene Lizenzen.)
 
@@ -64,7 +67,7 @@ Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte
 
 :::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="geografische Verteilung von Lizenzen":::
 
-**Lizenz Ergänzungen**
+## <a name="license-adds"></a>Lizenz Ergänzungen
 
 Diese Ansicht zeigt den Trend der Lizenzen, die im ausgewählten Datumsbereich hinzugefügt wurden. 
 
@@ -74,7 +77,7 @@ Die X-Achse stellt Monate des ausgewählten Datums Bereichs dar. Die Y-Achse ste
 
 :::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Lizenz Ergänzungen":::
 
-**Lizenz Verteilung**
+## <a name="license-distribution"></a>Lizenz Verteilung
 
 Diese Ansicht zeigt eine Aufschlüsselung der Kunden Lizenzen nach Produkt und Kunden Land/Region. Wenn Sie ein Produkt im Kreis Diagramm " **License by Product** " auswählen, wird im angrenzenden Diagramm eine Lizenz Aufschlüsselung nach Kunden Region angezeigt.
 

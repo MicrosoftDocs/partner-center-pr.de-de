@@ -1,33 +1,33 @@
 ---
 title: Erstellen und Verwalten von Auszahlungs- und Steuerprofilen im Partner Center
 ms.topic: how-to
-ms.date: 08/13/2020
+ms.date: 08/31/2020
 description: Bevor Sie für Ihre Incentives bezahlt werden können, müssen Sie Ihre Auszahlungs-und Steuer Profile erstellen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bf2f70bac6cbabcc0e4267585a23e1b74916c06
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: e85401983e60f4d8143f8a056539edd8ecaa4dcb
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303276"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220798"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>Auszahlungs- und Steuerprofile in Partner Center
 
-Gilt für:
+**Gilt für:**
 
 - Partner Center
 
-Bevor Sie Zahlungen für Ihre Incentives-Programme für einen bestimmten MPN-Standort erhalten können, müssen Sie Ihre Registrierung abschließen, indem Sie ein gültiges Auszahlungs- und Steuerprofil mit dem Programm und MPN-Standort verknüpfen. Microsoft nutzt dieses Auszahlungs- und Steuerprofil zur Ausstellung von Zahlungen. Je nach Regeln des Incentives-Programms kann es Ihnen gestattet sein, für die Zahlung eine elektronische Banküberweisung oder eine Gutschrift zu nutzen. 
-
-Geeignete Rollen:
+**Geeignete Rollen:**
 
 - Incentiveadministrator
 - Abrechnungsadministrator
 - Globaler Administrator
+
+Bevor Sie Zahlungen für Ihre Incentives-Programme für einen bestimmten MPN-Standort erhalten können, müssen Sie Ihre Registrierung abschließen, indem Sie ein gültiges Auszahlungs- und Steuerprofil mit dem Programm und MPN-Standort verknüpfen. Microsoft nutzt dieses Auszahlungs- und Steuerprofil zur Ausstellung von Zahlungen. Je nach Regeln des Incentives-Programms kann es Ihnen gestattet sein, für die Zahlung eine elektronische Banküberweisung oder eine Gutschrift zu nutzen. 
 
 ## <a name="roles-currencies-and-other-microsoft-programs"></a>Rollen, Währungen und andere Microsoft-Programme
 
@@ -37,7 +37,7 @@ Es ist wichtig, die folgenden Informationen zu verstehen, bevor Sie mit Ihrem Au
 
 Sie müssen ein Administrator der Administrator sein, um Bank-und Steuerinformationen für Incentive-Zahlungen einzugeben. Wenn Sie ein MPN/Konto-Administrator sind, können Sie sich selbst und/oder einen Kollegen als Administrator für Administratoren zuweisen.
 
-Wenn Sie Administrator Berechtigungen für Incentives anfordern müssen, wenden Sie sich an den MPN-Administrator oder den globalen Administrator. Sie können herausfinden, wer in Ihrem Unternehmen über diese Rollen im [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/)verfügt. Wählen Sie oben rechts im Symbol " **Einstellungen** " die Option **Benutzerverwaltung** aus, und Filtern Sie dann nach globaler Administrator.
+Wenn Sie Administrator Berechtigungen für Incentives anfordern müssen, wenden Sie sich an den MPN-Administrator oder den globalen Administrator. Sie können herausfinden, wer in Ihrem Unternehmen über diese Rollen verfügt, indem Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/)anmelden. Wählen Sie oben rechts im Symbol " **Einstellungen** " die Option **Benutzerverwaltung** aus, und Filtern Sie dann nach globaler Administrator.
 
 Incentives: Benutzer können die Informationen zu den Incentive-und Zahlungsdetails und-Berichten anzeigen, aber keine Bank-und Steuer Details bearbeiten.
 
@@ -58,11 +58,11 @@ Im Einzelhandel können Zahlungen für jedes der fünf Einzelhandels Incentive-P
 In den folgenden Abschnitten werden die Schritte zum Erstellen und Verwalten von Zahlungs-und Steuer Profilen in Partner Center erläutert.
 
 >[!IMPORTANT]
->Sie müssen ein Incentive-Administrator sein, um Zahlungs Profile in Partner Center zu erstellen oder zu verwalten. Incentive-Rollen müssen jedem MPN-Speicherort unter jedem Incentive-Programm zugewiesen werden. Weitere Informationen zum Hinzufügen von Incentive-Administratoren in Partner Center finden Sie unter [Hinzufügen von Incentive-Benutzern oder-Administratoren in Partner Center](https://support.microsoft.com/help/3011450/how-to-add-incentive-users-or-admins-in-partner-center).
+>Sie müssen ein Incentive-Administrator sein, um Zahlungs Profile in Partner Center zu erstellen oder zu verwalten. Incentive-Rollen müssen jedem MPN-Speicherort unter jedem Incentive-Programm zugewiesen werden. Weitere Informationen zum Hinzufügen von Incentive-Administratoren in Partner Center finden Sie unter [Erstellen von Benutzerkonten](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions).
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Zugriff auf den Abschnitt "Auszahlungs-und Steuer Berechtigung" im Partner Center
 
-1. Melden Sie sich bei Partner Center mit Ihrem Azure Active Directory (Azure AD)-Konto (Firmenkonto) oder der entsprechenden e-Mail-Adresse an, wenn eine zugewiesen wurde. 
+1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) mit Ihrem Azure Active Directory (Azure AD)-Konto (Firmenkonto) oder der entsprechenden e-Mail-Adresse an, wenn eine zugewiesen wurde.
 
    - Mehrere Domänen können innerhalb eines Azure AD Kontos registriert werden. Wenden Sie sich an ihren globalen Administrator, um die zugeordneten Domänen zu ermitteln
    - Wenn Sie sich nur bei der Domäne anmelden können, wenden Sie sich an @onmicrosoft.com Ihren Konto Administrator, um dem Azure AD Konto zusätzliche Domänen hinzuzufügen.
@@ -74,7 +74,7 @@ In den folgenden Abschnitten werden die Schritte zum Erstellen und Verwalten von
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Zuweisen von Auszahlungs-und Steuer Profilen zu einzelnen Programmen
 
-1. Wählen Sie im Partner Center das Zahnrad Symbol aus, um das Menü " **Einstellungen** " zu öffnen. 
+1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/)an, und wählen Sie das Zahnrad Symbol aus, um das Menü " **Einstellungen** " zu öffnen. 
 
 2. Wählen Sie **Partner Einstellungen**aus, erweitern Sie den **Abschnitt Auszahlung und Steuern**, und wählen Sie dann **Auszahlungs-und Steuer Profil Zuweisung**aus. 
    

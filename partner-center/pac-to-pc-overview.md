@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 674cb8d9e97874093224e4f2ef818921ce74ec15
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 31bf26495f2429402b600324353017895ca2af8a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114519"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220738"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Umstellung vom Admin Center für Partner auf Partner Center
 
@@ -39,9 +39,9 @@ Microsoft Partner Center wird zu dem zentralen Ort, an dem Sie Ihre Partnerschaf
 
 Im April 2018 wird das PAC ausgemustert, und CSP-Partner werden automatisch zu Microsoft Partner Center umgeleitet. Die Umleitung erfolgt schrittweise. Nachdem Sie zu Partner Center umgeleitet wurden, können Sie das PAC nicht mehr verwenden. 
 
-**Cloud Solution Provider-Partner:** Als CSP-Partner werden Sie ab April 2018 automatisch zu Partner Center umgeleitet. 
+- Cloud Solutions Provider-Partner: Wenn Sie CSP-Partner sind, werden Sie ab dem 2018 automatisch zum Partner Center umgeleitet.
 
-**Advisor-Partner** (wenn Sie keine Transaktionen über CSP durchführen und PAC verwenden, um Testversionen/Angebote für Ihre Kunden bereitzustellen): Sobald wir den Zeitablauf für Ihre automatische Umleitung zu Partner Center festgelegt haben, werden wir ihn hier ankündigen. 
+- Advisor-Partner (wenn Sie keine Transact-Übertragung durchführen und PAC zum Bereitstellen von Test/Anführungszeichen für Ihre Kunden verwenden): Sobald wir uns für die Zeitachse für Ihre automatische Umleitung zum Partner Center entscheiden, wird diese hier angekündigt.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Verwenden Sie Microsoft Partner Center ab sofort!
 

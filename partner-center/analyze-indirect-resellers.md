@@ -9,12 +9,12 @@ ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc14a98d6460fc330564317c1bf089e53438a1d0
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 2b43b09f8717169c40f6d0a96db5371c2eeebd11
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998366"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220698"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>Analysieren der Leistung ihrer indirekten Händler mithilfe von Analytics
 
@@ -69,6 +69,18 @@ Wir verfolgen die folgenden Metriken:
  - **Standort**: Märkte, in denen indirekte Vertriebspartner arbeiten  
  - **Abonnements**: Anzahl der Abonnements, die der Reseller verkauft hat  
  - **Lizenzen**: Gesamtzahl der Lizenzen, die der Reseller in allen Abonnements verkauft hat  
+
+**Status "MPA signiert"**
+
+In diesem Abschnitt wird der Status des Status "MPA-signiert" der indirekten CSP-Reseller bereitstellt.
+
+ - **Reseller Name**: Name des indirekten CSP-Wiederverkäufers
+ - **MPN-ID**: MPN-ID des indirekten Wiederverkäufers
+ - **Region**: Region, in der der indirekte Reseller operiert
+ - **MPN-Status**der Überprüfung: Status des indirekten Wiederverkäufers
+ - **Status "MPA signiert**": MPA-Signatur Status für den indirekten Händler
+
+Klicken Sie im Diagramm auf das Symbol "herunterladen", um die Statusdaten mit den Daten mit dem Status "mit
   
 ## <a name="next-steps"></a>Nächste Schritte
 

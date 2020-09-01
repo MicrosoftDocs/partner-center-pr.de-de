@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
-ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
+ms.openlocfilehash: 6cd4b78d95de282ccaef032b7975069f49a1267d
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/24/2020
-ms.locfileid: "88781832"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220178"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Melden eines Dienst Problems im Namen eines Kunden, einschließlich des Zeit-und Vorgehensweise
 
@@ -102,7 +102,9 @@ So finden Sie Kontaktdaten des ISV:
 
 ## <a name="faq"></a>Häufig gestellte Fragen
 
-**Was ist Bestandteil des Supportanspruchs?**
+Im folgenden finden Sie häufig gestellte Fragen zu Dienst Anforderungen, die Sie im Auftrag eines Kunden einreichen können. 
+
+### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Was ist Bestandteil des Supportanspruchs?
 
 Service Requests sollten über Partner Center abgelegt werden. Sie sind für Azure, Microsoft Office 365, Microsoft Dynamics CRM Online und Enterprise Mobility Suite verfügbar. Partner, die am Cloud Solution Provider-Programm teilnimmt, werden bei schwerwiegenden Problemen bevorzugt behandelt.
 
@@ -110,7 +112,7 @@ Die Unterstützung für Ihren eigenen Partner Mandanten ist nicht im Rahmen des 
 
 Dieser Vorteil wird Partnern, die am kostenpflichtigen Cloud Solution Provider-Programm teilnehmen, ebenso gewährt wie Partnern, die den Testzeitraum nutzen. Support für die Abrechnung und Abonnementverwaltung ist auch als kostenlose Komponente in diesem Paket enthalten.
 
-**Wie schnell erhalte ich eine erste Antwort?**
+### <a name="how-quickly-will-i-get-an-initial-response"></a>Wie schnell erhalte ich eine erste Antwort?
 
 Unsere Reaktionszeiten hängen vom Schweregrad des übermittelten Ereignisses ab. Der Schweregrad eines Problems wird durch die bei der Übermittlung der Serviceanfrage angegebenen geschäftlichen Auswirkungen festgelegt.
 
@@ -123,21 +125,21 @@ Anfängliche Reaktionszeiten für **technische Fehlerbehebung**:
 Die anfänglichen Reaktionszeiten gelten nur für englischsprachigen Support. Support in der Landessprache steht nur während der Geschäftszeiten zur Verfügung.
 Bei Vorfällen, die innerhalb der Grenzen der Support Berechtigung liegen, aber nicht als Fehlerbehebung für Vorfälle angesehen werden, kann die anfängliche Antwortzeit bis zu einem Werktag betragen.
 
-**Kann ich eine Serviceanfrage per Telefon übermitteln?**
+### <a name="can-i-submit-a-service-request-by-phone"></a>Kann ich eine Serviceanfrage per Telefon übermitteln?
 
 Nein, der telefonischen Support wird für dieses Programm nicht angeboten.
 
-**Was geschieht, wenn ich mich beim Azure-Portal anmelde und Partner Center umgehe?**
+### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>Was geschieht, wenn ich mich beim Azure-Portal anmelde und das Partner Center umgehe?
 
 Wenn Sie sich direkt bei der Microsoft Azure-Portal anmelden, sehen Sie das Center in Ihrem eigenen Kontext und nicht im Kontext eines Kunden. Aus diesem Grund sollten Sie sich beim Erstellen eines Service Request für Ihre eigenen Abonnements nur direkt beim Microsoft Azure-Portal anmelden.
 
 Ihre CSP-Programm Unterstützungs Berechtigung bietet keine Unterstützung für Ihr eigenes Partner Abonnement. Aus diesem Grund müssen Sie Ihre gültige Support Plan Berechtigung angeben, wenn Sie eine Service Request erstellen, die ihr eigenes Partner Abonnement betrifft. Beispiele hierfür sind MPN Contract ID, Premier oder ein Azure-Support Plan. Weitere Informationen finden Sie unter Häufig gestellte Fragen zum [Azure-Support](https://go.microsoft.com/fwlink/?LinkId=717532).
 
-**Was geschieht, wenn ich mich beim Office 365 Admin Center-Portal anmeldet und Partner Center umgehe?**
+### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>Was geschieht, wenn ich mich beim Office 365 Admin Center-Portal anmeldet und Partner Center umgehe?
 
 Wenn Sie sich direkt beim Office 365 Admin Center anmelden, sehen Sie das Center in Ihrem eigenen Kontext und nicht im Kontext eines Kunden. Aus diesem Grund sollten Sie sich beim Erstellen eines Service Request für Ihre eigenen Abonnements nur direkt beim Office 365 Admin Center anmelden.
 
-**Wie kann ich zusätzlichen Dynamics 365-Support anfordern?**
+### <a name="how-do-i-get-additional-dynamics-365-support"></a>Wie kann ich zusätzlichen Dynamics 365-Support anfordern?
 
 Bei Problemen im Zusammenhang mit: Dynamics 365 planen Sie Abonnements, Lizenzierung, Abrechnung, Finanzen & Vorgänge, Dynamics 365-Produktlizenzen oder benötigen Sie technischen Support:
  

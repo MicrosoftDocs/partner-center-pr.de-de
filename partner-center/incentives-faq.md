@@ -1,25 +1,31 @@
 ---
 title: FAQ zu Incentives
 ms.topic: how-to
-ms.date: 08/14/2020
+ms.date: 08/31/2020
 description: Häufig gestellte Fragen zu Microsoft-Incentives
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: d5807dabe5ad41f976bbe099aaaa8d459b77f154
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2fb8ec1bd957f185853db3f220ac1eb17a697927
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88427002"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220588"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Häufig gestellte Fragen zu Incentives
 
-Gilt für:
+**Gilt für:**
 
 - Partner Center
+
+**Geeignete Rollen:**
+
+- Incentiveadministrator
+
+- Incentivebenutzer
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Muss ich der globale Administrator sein, um sich bei den Incentives anzumelden?
 
@@ -42,3 +48,7 @@ Die wichtigsten Rollen für die Anreize sind die Administrator-und Incentive-Ben
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>An wen sollte ich mich wenden, wenn ich eine Fehlermeldung erhalte oder während des Registrierungsvorgangs Hilfe benötige?
 
 Es gibt einen Online Support Dienst, wenn im Abschnitt "Incentives" des Dashboards Probleme auftreten – Weitere Informationen finden Sie unter Support Option (? Symbol) oben rechts.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Erste Schritte mit Incentives](incentives-get-started-intro.md)

@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b22ac3137be610d3f8e6bce9569b1f4cd7ef191b
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 3cb6491a3c0245cece4d65d3be6b1ec2f4a836cd
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040756"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220248"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Melden von Problemen mit dem Partner Center und Übermitteln von Protokoll-oder Diagnoseinformationen
 
@@ -29,7 +29,7 @@ Wenden Sie sich an den Partner Center-Support, wenn Sie Probleme finden oder Hil
 
 Alle angemeldeten Partner Center-Benutzer können Partner Supportanfragen erstellen. Benutzer können nur Supportanfragen anzeigen, die Sie nach der Anmeldung beim Partner Center übermittelt haben.
 
-**Melden eines Problems mit Partner Center**
+## <a name="report-a-problem-with-the-partner-center"></a>Melden eines Problems mit Partner Center
 
 1. Wählen Sie in Ihrem **Partner Center** -Dashboard **Unterstützung** und dann **Partner Supportanfragen**aus.
 
@@ -41,7 +41,7 @@ Alle angemeldeten Partner Center-Benutzer können Partner Supportanfragen erstel
 
 5. Vervollständigen Sie die **Problem Details** , und über **Mitteln**Sie Sie. Ein Partner-Supportmitarbeiter wird sich bei Ihnen melden.
 
-**Senden von Diagnosen**
+## <a name="send-diagnostics"></a>Senden von Diagnosen
 
 Wenn ein Fehler auftritt, während Sie sich auf einer Partner Center-Seite befinden, werden Sie möglicherweise aufgefordert, Protokollinformationen zu sammeln. Wählen Sie **Weitere Informationen sammeln** aus dem Link aus, der oben auf der Seite angezeigt wird, um das Client Diagnosetool zu öffnen. Mit diesem Tool werden Informationen gesammelt, die vom Supportteam des Partners benötigt werden, um die Ursache des Fehlers zu ermitteln. 
 
@@ -54,7 +54,7 @@ Wenn ein Fehler auftritt, während Sie sich auf einer Partner Center-Seite befin
 
 Sie erhalten eine Vorschau der Diagnoseinformationen und können diese auf eine Datei speichern, die Sie der Anfrage hinzufügen können. So senden Sie uns die Informationen:
 
-3. Überprüfen Sie vor dem Senden die Informationen in der Datei, da sie persönlich identifizierbare Informationen enthalten können, die Sie entfernen möchten. 
+3. Überprüfen Sie vor dem Senden die Informationen in der Datei, da sie persönlich identifizierbare Informationen enthalten können, die Sie entfernen möchten.
 
     >[!NOTE]
     >In einigen Browsern wird der Abschnitt **Seitenansicht** am unteren Rand der Seite **Vorschau** möglicherweise leer angezeigt. Dies ist in Ordnung.

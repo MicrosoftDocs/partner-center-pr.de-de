@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: acb8d38ab4a3b85dd031790dc75c16ec064195f3
-ms.sourcegitcommit: 389dda2e4100d56c846245ff8ca85c4755b15c25
+ms.openlocfilehash: fbd91659a8118cd2efa8c361adaf4c0668245e70
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88799825"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220258"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Details zum Programm anzeigen, verwalten und exportieren
 
@@ -95,7 +95,7 @@ Die Summen auf dieser Seite stellen alle von Ihnen verwendeten MPN-IDs dar. Sie 
 |Nächste geschätzte Zahlung      |Die nächste nächste Zahlung an Sie (auch wenn andere in Kürze verfügbar sind) in US-Dollar.                                     |
 |Letzte Zahlung           |Der Betrag (in US-Dollar), der Programmname und die MPN-ID der letzten Zahlung.                                      |
 |Zahlungen nach Quelle       |Die Menge der Zahlungen in US-Dollar, die durch das Programm in den letzten 12 Monaten dargestellt wird.                                      |
-|Zahlungen                       |Wählen Sie **bezahlt** oder **Ausstehend aus** , und sortieren Sie Sie nach Ihren Wünschen. Wenn Sie weitere Details zu einer bestimmten Zahlung erhalten, wählen Sie **Ansicht**aus. Wenn Sie eine Kopie der Zahlungsanweisung herunterladen möchten, wählen Sie **Herunterladen** aus. Es kann bis zu 24 Stunden dauern, bis die Daten für den Transaktionsverlauf angezeigt werden, sodass die zugehörigen Gewinne möglicherweise nicht sofort angezeigt werden.  |
+|Payments                       |Wählen Sie **bezahlt** oder **Ausstehend aus** , und sortieren Sie Sie nach Ihren Wünschen. Wenn Sie weitere Details zu einer bestimmten Zahlung erhalten, wählen Sie **Ansicht**aus. Wenn Sie eine Kopie der Zahlungsanweisung herunterladen möchten, wählen Sie **Herunterladen** aus. Es kann bis zu 24 Stunden dauern, bis die Daten für den Transaktionsverlauf angezeigt werden, sodass die zugehörigen Gewinne möglicherweise nicht sofort angezeigt werden.  |
 
 Wählen Sie zum Exportieren der Daten auf dieser Seite **exportieren** aus, und befolgen Sie dann die Anweisungen auf der Seite Daten exportieren.
 
@@ -116,7 +116,7 @@ Der geschätzte Zahlungs Monat ist zurzeit für alle Erwerbs Typen mit Ausnahme 
 
 #### <a name="estimated-payment-month-example"></a>Beispiel für geschätzten Zahlungs Monat
 
-| Month (Monat) | Amount (Betrag) |
+| Month | Amount (Betrag) |
 | ------ | :-----------: |
 |  Sep-2020 |  $7.273,99   |
 |  Oct-2020 | $8.692,30  |
@@ -157,11 +157,14 @@ Beachten Sie, dass Ihre Zahlung nur im projizierten Monat freigegeben wird, wenn
 ## <a name="export-data-page"></a>Seite „Daten exportieren“
 Befolgen Sie die Anweisungen auf dieser Seite, um die gewünschten Daten zu exportieren.
 
-**Hinweise:**
+Im folgenden finden Sie einige Überlegungen, wenn Sie versuchen, Daten zu exportieren:
 
 - Aufgrund der großen Datenmenge beträgt die SLA für die zu verarbeitende gesendete Anforderung 24 Stunden.
+
 - Es werden nur Daten für MPN-IDs und Programme angezeigt, denen Sie zugeordnet sind. Wenn Sie auf zusätzliche Daten zugreifen möchten, finden Sie weitere Informationen unter Administrator.
+
 - Die Seite „Daten exportieren“ wird nicht eigenständig aktualisiert. Möglicherweise müssen Sie die Seite manuell aktualisieren, um die neuesten Daten anzuzeigen.
+
 - Ihr Filter bewirkt möglicherweise einen Fehler vom Typ **Keine Daten verfügbar**. Dieser Fehler bedeutet wahrscheinlich, dass Sie den Standard Zeitraum in drei Monaten ausgewählt haben und dann eine Zahlungs-ID aus einem Verdienst außerhalb dieses Zeitraums ausgewählt haben. Erweitern Sie den Zeitraum, und versuchen Sie es erneut.
 
 ## <a name="payment-download-export"></a>Zahlungs Download Export
@@ -275,7 +278,7 @@ Der Transaktions Zusammenfassungs Bericht bietet Transaktionsdetails auf Übersi
 >[!NOTE]
 >Der Transaktions Zusammenfassungs Bericht enthält keine Kunden-und Abonnement Informationen für Abonnements, die neuer als 60 Tage sind, oder wenn der Verbrauchs Umsatz weniger als einen Cent beträgt.
 
-|Spaltenname |Beschreibung |
+|Spaltenname |BESCHREIBUNG |
 |------ |:-----------|
 |  earningId | Eindeutiger Bezeichner für jede Einnahme  |
 |  participantID | Primäre Identität des Partners, der unter dem Programm die Einnahme erzielt  |

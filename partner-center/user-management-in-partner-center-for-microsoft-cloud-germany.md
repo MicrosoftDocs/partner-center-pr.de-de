@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9118745b19d48d572378df0b32035c9de4d62c99
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 044aae1dd1482f41799acd06c791447a773b4226
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949532"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220089"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland
 
@@ -44,7 +44,7 @@ Wenn Sie sich beim Partner Center für Microsoft-Cloud Deutschland angemeldet ha
 Nachdem Sie sich erfolgreich beim Azure-Portal für Microsoft-Cloud Deutschland angemeldet haben, öffnen Sie die Übersicht der Seite Azure Active Directory (Azure AD) und folgen Sie den Anweisungen für folgende Themen:
 
 > [!NOTE]  
-> Durch Klicken auf die nachstehenden Links gelangen Sie auf eine andere Website. 
+> Durch Klicken auf die nachstehenden Links gelangen Sie auf eine andere Website.
 
 -  [Hinzufügen neuer Benutzer zu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
@@ -52,10 +52,7 @@ Nachdem Sie sich erfolgreich beim Azure-Portal für Microsoft-Cloud Deutschland 
 
 -  [Zurücksetzen des Kennworts für einen Benutzer in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**Zugehörige Themen**
+## <a name="next-steps"></a>Nächste Schritte
 
 -  [Microsoft Azure Deutschland](https://azure.microsoft.com/global-infrastructure/germany/)
-
 -  [Partner Center für Microsoft Cloud Deutschland](partner-center-for-microsoft-cloud-germany.md)
-
-

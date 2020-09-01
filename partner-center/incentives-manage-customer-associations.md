@@ -1,5 +1,5 @@
 ---
-title: Verwalten von Kundenzuordnungen
+title: Verwalten von Incentives-Kunden Zuordnungen
 description: Informieren Sie sich über wichtige Prozesse und Zeitachsen zum Verwalten von Ansprüchen von Kunden Zuordnungen (cpor).
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,27 +7,27 @@ ms.topic: how-to
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: 6a98d14bbbe614d0d57a3d1032b93b8cd43119e1
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 6fe9ce95a1e4bfc017888dcdeb95e02deb3f64fe
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303176"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220578"
 ---
-# <a name="manage-customer-associations"></a>Verwalten von Kundenzuordnungen
+# <a name="manage-incentives-customer-associations"></a>Verwalten von Incentives-Kunden Zuordnungen
 
-Gilt für:
+**Gilt für:**
 
 - Partner Center
 
-Die beanspruchte cpor-Plattform (Partner of Record, Partner of Record) wird für Partner verwendet, um sich selbst den Endkunden zuzuordnen, für die Sie die Nutzung oder den Kauf von Microsoft-Produkten beeinflussen. Derzeit unterstützt die cpor-Plattform die Business Applications-und Microsoft 365-Produkte. Partner nutzen diese Zuordnungs Methode, um Einblicke in die Leistung der Kunden zu erhalten, über die OSU-und OSA-Programme über die Dienstleistungen zu erhalten  
-
-Geeignete Rollen:
+**Geeignete Rollen:**
 
 - Abrechnungsadministrator
 - Globaler Administrator
 - Incentiveadministrator
+
+Die beanspruchte cpor-Plattform (Partner of Record, Partner of Record) wird für Partner verwendet, um sich selbst den Endkunden zuzuordnen, für die Sie die Nutzung oder den Kauf von Microsoft-Produkten beeinflussen. Derzeit unterstützt die cpor-Plattform die Business Applications-und Microsoft 365-Produkte. Partner nutzen diese Zuordnungs Methode, um Einblicke in die Leistung der Kunden zu erhalten, über die OSU-und OSA-Programme über die Dienstleistungen zu erhalten  
 
 ## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>Beziehung zwischen dem cpor-Zuordnungs Anspruch und den Anreizen
 
@@ -41,12 +41,12 @@ Wenn Ihr cpor-Zuordnungs Anspruch genehmigt ist und für die Inanspruchnahme gee
 
 - Übermittelt: der Status wird für bis zu fünf Werktage übermittelt, bis Microsoft den Genehmigungsprozess startet.
 - Unter Review: Microsoft verfügt über fünf Werktage, um eine Entscheidung basierend auf dem von Ihnen bereitgestellten Ausführungs Nachweis treffen zu können.
-- Partner Aktion erforderlich: Wenn ein Reviewer Kommentare sendet und eine Anforderung für zusätzliche Informationen sendet, haben Sie fünf Werktage Zeit, um zu antworten. Basierend auf der SLA des Reviewer und der Zeitspanne, die für die Bereitstellung von Poe-Reviewern zusätzliche Informationen benötigt, muss innerhalb von 10 Tagen eine Entscheidung getroffen werden.
+- Partner Aktion erforderlich: Wenn ein Reviewer Kommentare sendet und eine Anforderung für zusätzliche Informationen sendet, haben Sie fünf Werktage Zeit, um zu antworten. Basierend auf der SLA des Reviewer und der Zeitspanne, die für die Bereitstellung von Poe-Reviewern (Proof of Execution) benötigt wird, muss innerhalb von 10 Tagen eine Entscheidung getroffen werden.
 - Genehmigt: Ihr cpor Association-Anspruch wurde genehmigt. Nachdem Ihre Zuordnung genehmigt wurde, wird eine Benachrichtigung an den Kunden gesendet, die Ihnen die Möglichkeit gibt, ihre Zuordnung abzulehnen. Der Kunde erhält dann sieben Tage Zeit, um sich abzumelden. Nachdem dieser Zustimmungs Zeitraum abgelaufen ist, wird der Anspruch gesendet, um die Berechtigung für Incentive-Programme zu bewerten.
 
 ## <a name="view-the-status-of-your-cpor-association-claim"></a>Anzeigen des Status des cpor-Zuordnungs Anspruchs
 
-Sie können den Status des cpor-Zuordnungs Anspruchs jederzeit überprüfen, indem Sie das Dashboard für die [Kunden Zuordnungen](https://partner.microsoft.com/dashboard/incentives/claims/associations)verwenden.
+Sie können den Status des cpor-Zuordnungs Anspruchs jederzeit überprüfen, indem Sie das Dashboard für die [Kunden Zuordnungen](https://partner.microsoft.com/dashboard/incentives/claims/associations) verwenden (Anmeldung erforderlich).
 
 Dies sind die Statuswerte und ihre Bedeutung:
 
@@ -98,7 +98,7 @@ Weitere mögliche Gründe für die Ablehnung:
 - Fehlende Zustimmung des Kunden in Poe
 - Fehlende Produkte
 - Keine Partner Antwort
-- Poe nicht verfügbar 
+- Poe nicht verfügbar
 
 ## <a name="edit-your-cpor-association-claim"></a>Bearbeiten des cpor-Zuordnungs Anspruchs
 
@@ -122,3 +122,7 @@ Nachdem Reviewer ihren Poe durchlaufen haben, können Sie feststellen, dass zus�
 ## <a name="view-claim-history"></a>Anspruchs Verlauf anzeigen
 
 Im cpor-Zuordnungs Anspruch gibt es rechts oben eine Schaltfläche " **Verlauf** ", die es Ihnen ermöglicht, alle Änderungen, Kommentare und Aktionen, die für diesen Anspruch ausgeführt werden, aus einer Partner-und reviewerperspektive anzuzeigen.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Erste Schritte mit Incentives](incentives-get-started-intro.md)

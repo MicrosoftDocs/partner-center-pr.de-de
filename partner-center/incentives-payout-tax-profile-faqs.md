@@ -1,19 +1,19 @@
 ---
 title: Häufig gestellte Fragen zu den Incentivezahlungen und Steuerprofilen
 ms.topic: article
-ms.date: 07/21/2020
+ms.date: 08/31/2020
 description: Häufig gestellte Fragen zu Incentives-Auszahlungs-und Steuer Profilen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 29c77cd06964bf00e7506738c92f5764a678e605
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: b6e66605c0afcf460fffd5d31c14b5e150ff495a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303146"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220528"
 ---
 # <a name="incentives-payout-and-tax-profile-faqs"></a>Häufig gestellte Fragen zu den Incentivezahlungen und Steuerprofilen
 
@@ -39,7 +39,7 @@ Sie müssen möglicherweise auch aktualisierte Informationen bereitstellen, wenn
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>Wie kann ich meine Auszahlungs- und/oder Steuerdetails bereitstellen/aktualisieren?
 
-Ausführliche Informationen dazu, wie Sie Zahlungs- und Steuerdetails in Partner Center aktualisieren, finden Sie unter [Erstellen und Verwalten von Bank- und Steuerprofilen in Partner Center](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center).
+Ausführliche Informationen zum Aktualisieren von Zahlungs-und Steuer Details in Partner Center finden Sie unter [Erstellen und Verwalten von Auszahlungs-und Steuer Profilen in Partner Center](https://docs.microsoft.com/partner-center/incentives-create-and-manage-your-payout-and-tax-profiles.md).
 
 ## <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>Warum sehe ich meine Registrierungen nicht, wenn ich mein Auszahlungs- und Steuerprofil zuweise?
 
@@ -65,7 +65,7 @@ Es kann jedoch Ausnahmen geben, wenn Sie Ihr Bankprofil verschiedenen Ländern o
 
 Für einen MPN-Standort erstellte Steuerprofile werden wiederverwendet und automatisch ausgefüllt, wenn derselbe MPN-Standort an einem anderen Incentives-Programm teilnimmt. Es kann jedoch Ausnahmen geben. Beispielsweise können die Auszahlungsregeln eines neuen Incentives-Programms zusätzliche Details zum Steuerprofil erfordern.  
 
-## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Ich kann mich nur bei meiner @onmicrosoft.com Domäne anmelden. Wie sollte ich vorgehen?
+## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Ich kann mich nur bei meiner @onmicrosoft.com Domäne anmelden.   Wie sollte ich vorgehen?
 
 Bitten Sie Ihren Kontoadministrator, dem AAD-Konto zusätzliche Domänen hinzuzufügen.
 

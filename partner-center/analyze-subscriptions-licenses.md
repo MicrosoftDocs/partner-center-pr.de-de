@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b6daf2c2c7cadd52cd90ce3a25c9a7a681522d24
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 001d047e37bde14ac99de680ef4f59e136282120
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436119"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220688"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analysieren Sie Abonnements und Lizenzen, um Geschäftsentscheidungen und neue Ziele zu fördern
 
@@ -32,11 +32,9 @@ ms.locfileid: "86436119"
 
 Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Abonnement-und Lizenz Analyse** , um Ihre Erfolge und Bereiche zu identifizieren, die mehr Aufmerksamkeit erfordern. Nutzen Sie diese Informationen bei der Planung neuer Geschäftsziele.
 
-> [!NOTE]
-> Die Analysen zu Abonnements und Lizenzen stehen nur Partnern im Cloud Solution Provider-Programm zur Verfügung.
+**CSP-TTM-Umsatz (USD)**: Diese Metrik repräsentiert den aggregierten, von CSP in Rechnung gestellten Umsatz (USD) für die nachgestellten zwölf Monate (TTM) für die Partnerstandort Konten und das globale Partnerkonto (PGA), dem dieses CSP-Konto zugeordnet ist. Wenn Sie über andere CSP-Konten mit einer anderen-Datenbank verfügen, müssen Sie sich bei jeder von Ihnen anmelden, um den entsprechenden aggregierten TTM-Umsatz anzuzeigen.  Klicken Sie auf den Link Details herunterladen, um eine Aufschlüsselung der TTM-Einnahmen (USD) pro MPN-ID zu erhalten.
 
-
-Dieser Bericht dient zum Pivotieren basierend auf den folgenden Produkten:
+Der Rest des Berichts kann basierend auf den folgenden Produkten pivotieren:
 
  - **Dynamics 365**: Dynamics 365-Daten  
  - **EMS**: Enterprise Management Services-Daten  

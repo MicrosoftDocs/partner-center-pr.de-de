@@ -1,7 +1,7 @@
 ---
 title: Erstellen einer Kunden Zuordnung über das cpor-Modell
 ms.topic: article
-ms.date: 08/26/2020
+ms.date: 08/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Erstellen Sie Kunden Zuordnungen über das cpor (Partner of Record)-Modell. Hilft bei der Verwaltung von Vertriebs-, Nutzungs-und & Anreizen für Microsoft 365-und Dynamics 365-Kunden.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5c71bf5c5461abaa7d86a19711ad941e0e8a4ff
-ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
+ms.openlocfilehash: d5b14759803beb73cc970bf5fb96747048b8bdc1
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88942552"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220368"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>Erstellen einer Kunden Zuordnung über das cpor-Modell – Verwendung für Microsoft 365-und Dynamics 365-Kunden
 
@@ -22,11 +22,14 @@ ms.locfileid: "88942552"
 
 - Partner Center
 
+**Geeignete Rollen:**
+
+- Incentiveadministrator
+
 Am 1. Oktober 2019 begann Microsoft, das Anspruchs Partner of Record-Modell (cpor) zu verwenden, um die Zuordnungen zu verwalten, die Sie mit Ihren Microsoft 365-und Dynamics 365-Kunden in Bezug auf die IT-Microsoft 365 und OSU-Business-Anwendungs Anreize haben.
 
->[! Wichtig:] Kunden Zuordnungs Ansprüche (Customer Association, cpor) gelten nur für die Online Services Advisory (OSA) Sell (OSU)-Microsoft 365 und OSU-Business Application Incentive-Programme. Wenn Sie einen Co-op-Anspruch für ein anderes Programm, z. b. cloudlösungsanbieter, verwalteten Händler, Hosting oder Oberfläche, übermitteln, lesen Sie den hier beschriebenen Co-op-Anspruchs Prozess.
-
-Wenn Sie Ihren Anspruch einreichen, wird er von Microsoft überprüft. Wir werden möglicherweise an dieser Stelle Weitere Informationen anfordern. Wir benachrichtigen den Kunden auch über Ihre Zuordnungs Anforderung. Kunden haben fünf Werktage, um sich abzumelden. Wenn Sie sich nicht entscheiden, ist die Zuordnung zu diesem spezifischen Mandanten und der Arbeitsauslastung offiziell. An diesem Punkt haben Sie Zugriff auf die Nutzungsdaten des Kunden. 
+>[!Important]
+> Kunden Zuordnungs Ansprüche (cpor) gelten nur für die Online Services Advisory (OSA) Sell-Microsoft 365 und OSU-Business Application Incentive-Programme. Wenn Sie einen Co-op-Anspruch für ein anderes Programm, z. b. cloudlösungsanbieter, verwalteten Händler, Hosting oder Oberfläche, übermitteln, lesen Sie den hier beschriebenen Co-op-Anspruchs Prozess. <br><br>Wenn Sie Ihren Anspruch einreichen, wird er von Microsoft überprüft. Wir werden möglicherweise an dieser Stelle Weitere Informationen anfordern. Wir benachrichtigen den Kunden auch über Ihre Zuordnungs Anforderung. Kunden haben fünf Werktage, um sich abzumelden. Wenn Sie sich nicht entscheiden, ist die Zuordnung zu diesem spezifischen Mandanten und der Arbeitsauslastung offiziell. An diesem Punkt haben Sie Zugriff auf die Nutzungsdaten des Kunden. 
 
 Zum Vervollständigen eines Anspruchs benötigen Sie die folgenden Informationen:
 
@@ -64,34 +67,35 @@ Außerdem sollten Sie die folgenden Punkte kennen:
 
 ## <a name="create-a-customer-association"></a>Erstellen einer Kunden Zuordnung
 
-1. Wählen Sie im Partner Center-Dashboard unter " **Incentives**" die Option **Übersicht**aus, und wählen Sie dann **Kunden Zuordnungen**aus. 
+1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 
-2. Wählen Sie am oberen Rand der Seite Kunden Zuordnungen die Option **+ Customer Association**aus.
+2. Wählen Sie die Registerkarte " **Incentives** " aus, wählen Sie **Übersicht**und dann **Kunden Zuordnungen**aus.
 
-3. Wählen Sie die **MPN-ID** des Partnerstandorts aus, der dem Kunden zugeordnet werden soll, und fügen Sie dann den Domänennamen und die Verzeichnis-ID des Kunden hinzu. [Suchen Sie nach diesem](find-domain-name.md)
+3. Wählen Sie am oberen Rand der Seite Kunden Zuordnungen die Option **+ Customer Association**aus.
 
-4. Wählen Sie **Weiter**.
+4. Wählen Sie die **MPN-ID** des Partnerstandorts aus, der dem Kunden zugeordnet werden soll, und fügen Sie dann den Domänennamen und die Verzeichnis-ID des Kunden hinzu. [Suchen Sie nach diesem](find-domain-name.md)
 
-5. Wählen Sie den projektmappenbereich und die **Aktivität**aus. **Solution area** 
+5. Wählen Sie **Weiter**.
+
+6. Wählen Sie den projektmappenbereich und die **Aktivität**aus. **Solution area** 
 
    >[!Note]
    >
    >Wenn Sie Business Applications auswählen, wählen Sie entweder **Nutzung und/oder vorab Verkäufe**oder **Umsatz**Zuordnung aus, und klicken Sie dann auf **weiter**. 
+   <br><br>Wenn Sie die „Umsatzzuordnung“ auswählen, werden Sie aufgefordert, etwas andere Informationen als die unten aufgeführten Informationen anzugeben.
 
-   >Wenn Sie die „Umsatzzuordnung“ auswählen, werden Sie aufgefordert, etwas andere Informationen als die unten aufgeführten Informationen anzugeben.
+7. Geben Sie die entsprechenden Informationen auf der Seite **Customer zuordnen** ein, und wählen Sie dann **Anspruch erstellen**aus.
 
-6. Geben Sie die entsprechenden Informationen auf der Seite **Customer zuordnen** ein, und wählen Sie dann **Anspruch erstellen**aus.
+8. Wählen Sie die mit dieser Kunden Zuordnung verknüpften Produkte aus, und klicken Sie dann auf **weiter**.
 
-7. Wählen Sie die mit dieser Kunden Zuordnung verknüpften Produkte aus, und klicken Sie dann auf **weiter**.
-
-8. Vervollständigen Sie die Kundenkontaktinformationen und die Kontaktinformationen Ihres Unternehmens. Alle Felder sind erforderlich. 
+9. Vervollständigen Sie die Kundenkontaktinformationen und die Kontaktinformationen Ihres Unternehmens. Alle Felder sind erforderlich. 
 
    >[!NOTE]
    >Wenn Ihr Produkt Dynamics 365 ist und das ausgewählte Produkt mehrere Abonnements für diesen bestimmten Kunden enthält, müssen Sie auch die Abonnement-ID eingeben.
 
-9. Reichen Sie Ihren Ausführungsnachweis (Proof of Execution, PoE) ein. Sie können ihn in das Feld ziehen, zur Ihrer eigenen zugehörigen Dokumentation navigieren oder eine Vorlage verwenden, indem Sie **Vorlage herunterladen** auswählen. 
+10. Stellen Sie Ihre Ausführungs Prüfung (PoE) bereit. Sie können ihn in das Feld ziehen, zur Ihrer eigenen zugehörigen Dokumentation navigieren oder eine Vorlage verwenden, indem Sie **Vorlage herunterladen** auswählen. 
 
-10. Fügen Sie ggf. Kommentare hinzu und speichern sie, und wählen Sie dann **Anspruch senden** aus. Wir senden eine E-Mail an den Kunden, in der die Genehmigung ihrer Kundenzuordnung angefordert wird.
+11. Fügen Sie ggf. Kommentare hinzu und speichern sie, und wählen Sie dann **Anspruch senden** aus. Wir senden eine E-Mail an den Kunden, in der die Genehmigung ihrer Kundenzuordnung angefordert wird.
 
    >[!NOTE]
    >Nachdem Sie Ihre Kunden Zuordnung eingereicht haben, können Sie Sie nicht mehr bearbeiten.
@@ -99,3 +103,7 @@ Außerdem sollten Sie die folgenden Punkte kennen:
 Der Status der Kundenzuordnung wird im Feld **Status** angezeigt.
 
 Wählen Sie **Verlauf**  aus, um den Verlauf einer Kundenzuordnung anzuzeigen.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Verwalten von Kundenzuordnungen](incentives-manage-customer-associations.md)

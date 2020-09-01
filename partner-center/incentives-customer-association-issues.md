@@ -1,5 +1,5 @@
 ---
-title: Probleme bei der Kundenzuordnung
+title: 'Incentives: Probleme bei der Kundenzuordnung'
 description: Erfahren Sie, wie Sie Probleme beheben, die bei der Arbeit mit den in Anspruch genommenen Kunden Zuordnungen von Partner of Record (cpor) auftreten.
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -7,27 +7,27 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: ef818b15d4ddd891c29669071d3f8dc51d007bca
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 8b1ab61422dd6583a66c6968ac202403e64cdd4e
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303256"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220618"
 ---
-# <a name="customer-association-issues"></a>Probleme bei der Kundenzuordnung
+# <a name="incentives-customer-association-issues"></a>Incentives: Probleme bei der Kundenzuordnung
 
-Gilt für:
+**Gilt für:**
 
 - Partner Center
 
-Der folgende Inhalt hilft Ihnen beim Beheben von Problemen, die bei der Arbeit mit Kunden Zuordnungen auftreten können.
-
-Geeignete Rollen:
+**Geeignete Rollen:**
 
 - Abrechnungsadministrator
 - Globaler Administrator
 - Incentiveadministrator
+
+Der folgende Inhalt hilft Ihnen beim Beheben von Problemen, die bei der Arbeit mit Kunden Zuordnungen auftreten können.
 
 ## <a name="domain-tenant-mismatch"></a>Domänen-Mandanten stimmen nicht überein.
 
@@ -72,7 +72,7 @@ Im cpor-Zuordnungs Anspruchs-Flow werden Sie aufgefordert, einen Unternehmens-MP
 
 Wenn Sie nicht wissen, welcher MPN verwendet werden soll, wenden Sie sich an ihren globalen Administrator.
 
-Wenn der MPN, den Sie verwenden möchten, nicht registriert ist, können Sie diesen auf der [Registerkarte "Incentives Overview](https://partner.microsoft.com/dashboard/incentives/enrollment/summary)" verwalten.
+Wenn der MPN, den Sie verwenden möchten, nicht registriert ist, können Sie diesen auf der [Registerkarte "Incentives Overview](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) " (Anmeldung erforderlich) verwalten.
 
 ## <a name="choosing-a-product-vs-entering-a-subscription"></a>Auswählen eines Produkts und Eingeben eines Abonnements
 
@@ -91,4 +91,8 @@ Wenn Sie einen cpor-Zuordnungs Anspruch für einen Kunden und ihre Produkte erst
 4. Ihr cpor-Zuordnungs Anspruch wird immer noch innerhalb von fünf Werktagen überprüft, obwohl der Status für einen längeren Zeitraum _als überprüft bleiben_ kann. Dieses Szenario kann eintreten, wenn Microsoft mit dem Partner zusammenarbeitet, der derzeit das Produkt/die Arbeitsauslastung besitzt. Wenn dies der Fall ist, werden Sie im Kommentar Abschnitt Ihres Anspruchs benachrichtigt. 
 
 >[!IMPORTANT]
->Wenn Sie zusätzliche Informationen benötigen, um Ihre cpor-Zuordnung zu überprüfen, kontaktieren wir Sie über den cpor Association Claim comments-Abschnitt.
+>Wenn zusätzliche Informationen erforderlich sind, um die cpor Association Proof of Execution (PoE) zu überprüfen, kontaktieren wir Sie über den cpor Association Claim comments-Abschnitt.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Erste Schritte mit Incentives](incentives-get-started-intro.md)

@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: c3bb6bc8c1d59caae278863974524a5946fecf6c
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: c21875f53c4263fd21c0e12e9ec3347bc0e07278
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303196"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220538"
 ---
 # <a name="manage-co-op-claims"></a>Verwalten von Co-Op-Ansprüchen
 
-Gilt für:
+**Gilt für:**
 
 - Partner Center
 
-Der folgende Inhalt enthält Informationen zum Verwalten von Co-op-Ansprüchen, z. b. Zeitachsen, Regeln und zum ablehnen eines abgelehnten Co-op-Anspruchs.
-
-Geeignete Rollen:
+**Geeignete Rollen:**
 
 - Incentiveadministrator
+
+Der folgende Inhalt enthält Informationen zum Verwalten von Co-op-Ansprüchen, z. b. Zeitachsen, Regeln und zum ablehnen eines abgelehnten Co-op-Anspruchs.
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>Genehmigungs- und Zahlungsfristen für Co-Op-Ansprüche
 
@@ -72,3 +72,7 @@ Wenn die Materialien, die Sie mit Ihrem Co-Op-Anspruch eingereicht haben, sich a
 4. Wählen Sie unten auf der Seite **Widersprechen** aus.
 
 Das Team zur Prüfung von Co-Op-Ansprüchen wird den Anspruch binnen fünf Werktagen prüfen. Während dieser Zeit wird der Status als **Widersprochen** angezeigt. Möglicherweise kontaktieren wir Sie, um zusätzliche Informationen anzufordern. Nach Abschluss der Überprüfung ändert das Prüfteam den Status in entweder **Genehmigt**, **Abgelehnt** oder **Partneraktion erforderlich**.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Erste Schritte mit Incentives](incentives-get-started-intro.md)

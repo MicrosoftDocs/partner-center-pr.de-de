@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ec1b58206b4947ceadd98942e8c8b982749b8645
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 7377af06898afe72df7730f2a809ca85a0e9bdc9
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943457"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274979"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Erfahren Sie, wie Sie Nutzungs Abgleich-Dateien für die tägliche Bewertung in Partner Center lesen.
 
@@ -35,7 +35,7 @@ In diesem Artikel wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit täglic
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Felder in den Nutzungs Abgleich-Dateien mit täglicher Bewertung
 
-| Column | BESCHREIBUNG |
+| Spalte | BESCHREIBUNG |
 | ------ | ----------- |
 | PartnerId | Die Partner-ID im GUID-Format. |
 | PartnerName | Name des Partners |
@@ -75,11 +75,11 @@ In diesem Artikel wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit täglic
 | UnitType | Der Typ der Einheit, mit der die Verbrauchseinheit in Rechnung gestellt wird.  |
 | Billingpretaxtotal | Gesamtbetrag der Abrechnung vor Steuern. |
 | BillingCurrency | Die Währung in der geografischen Region des Kunden. |
-| Pricingpretaxtotal | Die Preise, bevor Steuern hinzugefügt werden. |
+| Pricingpretaxtotal | Die Preise, bevor Steuern hinzugefügt werden. <br/> _**Pricingpretaxtotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | PricingCurrency | Die Währung in der Preisliste. |
 | ServiceInfo1 | Die Anzahl der Service Bus Verbindungen, die an einem bestimmten Tag bereitgestellt und verwendet wurden. |
 | ServiceInfo2 | Ein Legacyfeld, in dem optionale dienstspezifische Metadaten erfasst werden. |
-| `Tags` | Stellt eine logische Organisation von Azure-Ressourcen dar, die vom Benutzer festgelegt werden. |
+| Tags | Stellt eine logische Organisation von Azure-Ressourcen dar, die vom Benutzer festgelegt werden. |
 | AdditionalInfo | Alle zusätzlichen Informationen, die in den anderen Spalten nicht enthalten sind. |
 | Effectiveunitprice | Der tatsächliche Wert, der pro Einheit berechnet wird, einschließlich aller Rabatte, erworbenen Gutschriften usw. |
 | Pctobcexchangerate | Wechselkurs für Preiswährung auf Abrechnungswährung. |

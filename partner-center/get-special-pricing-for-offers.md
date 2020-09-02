@@ -1,20 +1,20 @@
 ---
 title: Verkaufen an spezielle Branchen
+description: Erfahren Sie mehr über die speziellen, reduzierten Preise für bestimmte Kundengruppen von Microsoft, einschließlich Bildungs Kunden, gemeinnützige Kunden und Regierungsbehörden.
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Erfahren Sie mehr über die speziellen, reduzierten Preise für bestimmte Kundengruppen von Microsoft, einschließlich Bildungs Kunden, gemeinnützige Kunden und Regierungsbehörden.
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 863084a34a35c887b18a58231ac86b45e3acd03f
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545531"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367174"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Verkauf an spezialisierte Branchen wie Bildungs-, gemeinnützige und behördliche Benutzer
 

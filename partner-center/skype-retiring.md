@@ -1,20 +1,20 @@
 ---
 title: Migrieren einiger Skype for Business-Abonnements
+description: Erfahren Sie, wie und wann bestimmte Kunden mit ablaufenden Skype for Business Online Plan 1-Abonnements zu neuen Office 365-Versionen migriert werden.
 ms.topic: article
-ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Erfahren Sie, wie und wann bestimmte Kunden mit ablaufenden Skype for Business Online Plan 1-Abonnements zu neuen Office 365-Versionen migriert werden.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f65977c5ff8f512c0b95a165cc667bc6bff05c7
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.date: 06/03/2020
+ms.openlocfilehash: c9ad5b1c0671ff1d27d25c6f92499b72d77e6c22
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436559"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367624"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrieren von Skype for Business Online Plan 1-Abonnements zu neueren Versionen von Office 365
 
@@ -39,7 +39,7 @@ Mit den neuen Plänen können Ihre Kunden neuere Features und Funktionen in Offi
 - Option 2: Microsoft 365 Enterprise F1
 - Option 3: Weitere Office 365-Pläne
 
-|**Feature**    |**Option 1:**   |**Option 2:**   |**Option 3**   |
+|**Feature**    |**Option 1**   |**Option 2**   |**Option 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
 |Alle in Skype for Business Online Plan 1 enthaltenen Features|Ja   |Ja   |Ja   |
 |Chatten und Anwesenheit |Ja   |Ja   |Ja   |

@@ -1,20 +1,20 @@
 ---
 title: Registrierung als Control Panel Vendor
+description: Erfahren Sie, wie Sie sich als System Steuerungs Anbieter (CPV) im Partner Center registrieren.
 ms.topic: article
-ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Erfahren Sie, wie Sie sich als System Steuerungs Anbieter (CPV) im Partner Center registrieren.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b6258f54120e0a40f94ad74a76821c4222eb0ef4
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.date: 05/20/2020
+ms.openlocfilehash: 79d46b306795c1261fb8e9af45e7c102b9e79601
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545891"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89366734"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>Registrieren als Anbieter der Systemsteuerung zur Unterstützung der Integration von CSP-Partnersystemen in Partner Center-APIs
 

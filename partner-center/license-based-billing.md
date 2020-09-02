@@ -1,18 +1,18 @@
 ---
 title: Lizenzbasierte Abrechnung
+description: Erfahren Sie, wie die Lizenz basierte Abrechnung von der nutzungsbasierten Abrechnung in Partner Center abweicht, einschließlich der Abrechnung pro Lizenz (nicht nach Lizenznutzung).
 ms.topic: article
-ms.date: 05/18/2020
-Description: Erfahren Sie, wie die Lizenz basierte Abrechnung von der nutzungsbasierten Abrechnung in Partner Center abweicht, einschließlich der Abrechnung pro Lizenz (nicht nach Lizenznutzung).
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3600dac6d5ad7f6f5994cddaf771c0397ec4cf7f
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.date: 05/18/2020
+ms.openlocfilehash: 1fd6d9e4a9115757382e79f884a14d23e4545419
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468345"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367484"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Lizenz basierte Abrechnung in Partner Center
 

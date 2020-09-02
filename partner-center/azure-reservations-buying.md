@@ -1,20 +1,20 @@
 ---
 title: Microsoft Azure Reservierungen für Kunden kaufen
+description: Erfahren Sie, wie Sie Azure-Reservierungen im Namen Ihrer Kunden im Partner Center erwerben oder erwerben.
 ms.topic: article
-ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Erfahren Sie, wie Sie Azure-Reservierungen im Namen Ihrer Kunden im Partner Center erwerben oder erwerben.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.date: 08/06/2020
+ms.openlocfilehash: 19a358fe023a8c8fd9d30ecb9dd1c37114dca84a
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900100"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367014"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Kaufen von Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden im Partner Center
 
@@ -139,7 +139,7 @@ Führen Sie die folgenden Schritte aus, um Microsoft Azure-Reservierungen im Auf
       >Wenn Sie sich dafür entscheiden, den Umfang der Reservierung auf ein einzelnes Azure-Abonnement zu beschränken, müssen Sie möglicherweise die vCPU-Kontingente des Abonnements erhöhen. Um das vCPU-Kontingent des Abonnements zu erhöhen, müssen Sie im Azure-Portal eine Supportanfrage stellen. Folgen Sie den Anweisungen [in diesem Thema](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request), um die Anfrage zu erstellen. 
 
       >[!NOTE]   
-      >Wenn sich Ihr Kunde im Azure-Plan befindet, wird der Gültigkeits **Bereich** auf " **Shared**" festgelegt. 
+      >Wenn sich Ihr Kunde im Azure-Plan befindet, wird der Gültigkeits **Bereich**  auf " **Shared**" festgelegt. 
 
     - Wenn Sie Anbieterpartner sind, wählen Sie den Vertriebspartner aus, den Sie mit dem Produkt verknüpfen möchten.
     

@@ -1,20 +1,20 @@
 ---
 title: Anzeigen und Verwalten von Kundenkonten
+description: Hier finden Sie Ressourcen für Reseller-Partner in Partner Center. Dies schließt die Erstellung von Kundenkonten ein, bevor Sie Abonnements, Rechnungen oder Angebots Support verkaufen.
 ms.topic: article
-ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Hier finden Sie Ressourcen für Reseller-Partner in Partner Center. Dies schließt die Erstellung von Kundenkonten ein, bevor Sie Abonnements, Rechnungen oder Angebots Support verkaufen.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74abd9a7a77980b8b42364a4ca6b854140bd74af
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.date: 05/05/2020
+ms.openlocfilehash: 7ff3f1f7fa5488fe1c4a2ccfccf716dc6adc97f9
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377554"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89366985"
 ---
 # <a name="customer-account-setup-and-management-for-reseller-partners-in-partner-center"></a>Einrichten und Verwalten von Kundenkonten für Reseller-Partner in Partner Center
 

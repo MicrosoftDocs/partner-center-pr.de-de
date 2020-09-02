@@ -187,6 +187,8 @@
           href: connector-dynamics.md
         - name: Co-Selling-Connector für Salesforce CRM – Übersicht
           href: connector-salesforce.md
+        - name: 'Co-Selling für Partner, die von Partner Sales Connect (PSC) migrieren'
+          href: psc-to-pc.md
         - name: Registrieren Ihrer Angebote
           href: register-deals.md
         - name: Abrufen von Empfehlungsdaten
@@ -293,7 +295,7 @@
     - name: Einrichten eines Kundenbudgets für Azure-Kosten
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: 'Verwalten von Nichtbezahlung, Betrug oder Missbrauch'
-      href: non-payment--fraud--or-misuse.md
+      href: non-payment-fraud-misuse.md
     - name: Verwalten nicht zugewiesener Zahlungen
       href: unallocated-payment.md
 - name: Kontakt zu Kunden
@@ -458,6 +460,8 @@
           href: pci-roles.md
         - name: Einblicke – Dashboard „Kunden“
           href: pci-customer-report.md
+        - name: Insights – Dashboard „Handelspartner-Performance“
+          href: pci-resellers-performance.md
         - name: Einblicke – Dashboard „Produktabonnements“
           href: pci-product-subscriptions-report.md
         - name: Einblicke – Dashboard „Produktlizenzen“

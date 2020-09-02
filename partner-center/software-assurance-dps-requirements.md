@@ -1,7 +1,7 @@
 ---
 title: Berechtigung für die Planung von Dienst Engagements
 ms.topic: article
-ms.date: 08/20/2020
+ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Informieren Sie sich über die Berechtigungsanforderungen für jede Software Assurance Planning Services-Einbindung, die ein Unternehmen für Unternehmenskunden anbieten kann.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc1209794a4b12173ff25191a6f37bd0892ed54
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
+ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "88711822"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89286495"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Anzeigen der Berechtigungsanforderungen für die Planung von Dienst Engagements
 
@@ -31,9 +31,6 @@ In diesem Thema erhalten Sie Informationen zu den Berechtigungsanforderungen, di
 ## <a name="learn-more-about-each-engagement"></a>Weitere Informationen zu den einzelnen Engagement
 
 Jede Planungsdienste-Einbindung verfügt über eigene, spezifische Berechtigungsanforderungen und eine eigene zulässige maximale Dauer.
-
-> [!NOTE]
-> Bevor Sie eine bestimmte Planungsdienst Einbindung bereitstellen können, müssen Sie verschiedene Arten von Kompetenzanforderungen erfüllen. Zunächst müssen Sie die Mindestanforderungen für die Kompetenz erfüllen, die bei den Angeboten für Planungsdienste registriert werden müssen. Dann muss Ihr Unternehmen auch die Kompetenzanforderungen erfüllen, die mit der Bereitstellung einer bestimmten Art von Engagement verknüpft sind.
 
 Weitere Informationen zu diesen Engagement-spezifischen Kompetenzanforderungen finden Sie in der folgenden Tabelle.
 

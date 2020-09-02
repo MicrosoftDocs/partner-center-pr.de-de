@@ -1,20 +1,20 @@
 ---
 title: Referenz – Artikel zur Partner Center-Abrechnung
+description: Informieren Sie sich über Abrechnungs- und Steuerthemen im Partner Center. Die Informationen umfassen Abrechnungsressourcen, Rechnungen, CSP-Abrechnungen und Steuern.
 ms.topic: article
-ms.date: 04/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-Description: Informieren Sie sich über Abrechnungs- und Steuerthemen im Partner Center. Die Informationen umfassen Abrechnungsressourcen, Rechnungen, CSP-Abrechnungen und Steuern.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c78e90ab5d412f58384c039bcd4965170662ec0a
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.date: 04/05/2020
+ms.openlocfilehash: 0198da249d158603d848e8652eb14444cac7f4a5
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527406"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274999"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Übersicht: Wichtigste Artikel zur Abrechnung und zu Steuern im Partner Center
 
@@ -40,7 +40,7 @@ ms.locfileid: "87527406"
 | [Allgemeine Abrechnungsszenarien](common-billing-scenarios.md) | Informationen zum Verstehen allgemeiner Partner Center-Abrechnungsszenarien (für monatliche und jährliche Abrechnung sowie die Abrechnung für einmalige und wiederkehrende Käufe). |
 | [Steuerpflichten und -befreiungen](tax-and-tax-exemptions.md) | Erläuterung Ihrer Steuerpflichten und Steuerbefreiungen für Partner Center-Vertrieb. |
 | [Azure-Ausgabenbudget](set-an-azure-spending-budget-for-your-customers.md) | Informationen zum Festlegen eines Azure-Ausgabenbudgets für Ihre Kunden. |
-| [Nichtbezahlung, Betrug oder Missbrauch](non-payment--fraud--or-misuse.md) | Informationen zum Verwalten von Nichtbezahlung, Betrug oder Missbrauch durch Ihre Kunden in Partner Center. |
+| [Nichtbezahlung, Betrug oder Missbrauch](non-payment-fraud-misuse.md) | Informationen zum Verwalten von Nichtbezahlung, Betrug oder Missbrauch durch Ihre Kunden in Partner Center. |
 | [Beantragen einer SLA-Gutschrift bei Ausfällen](request-credit.md) | Informationen zum Beantragen einer SLA-Gutschrift von Microsoft für Ihre Kunden im Fall einer Dienstunterbrechung. |
 
 Abrechnungsinformationen und -ressourcen für Partner Center-API finden Sie in der [Abrechnungsdokumentation für Entwickler](https://docs.microsoft.com/partner-center/develop/manage-billing).

@@ -9,19 +9,24 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: b34cfc1448ba97d663b8dc89f424905775f9766c
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 847b586fdb3e7b2361042c18ad9f9f0ae3203a62
+ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303286"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89286504"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
 Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen werden häufig aktualisiert, überprüfen Sie sie daher in regelmäßigen Abständen.
 
-| **Kategorie** | **Ankündigungen für August 2020** | **Angekündigt** |
+| **Kategorie** | **Ankündigungen für September 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+|Angebote/Märkte|[Bevorstehende neue Microsoft Dynamics 365-Angebote](2020-september.md#3)|1\. September|
+|Angebote/Märkte|[Office 365-Aufrufplan am 1. Oktober 2020 in neuen Märkten verfügbar](2020-september.md#2)|1\. September|
+|Angebote/Märkte|[Microsoft Defender Advanced Threat Protection (ATP) für Server für Bildungseinrichtungen verfügbar](2020-september.md#1)|1\. September|
+| **Kategorie** | **Ankündigungen für August 2020** | **Datum** |
+|Funktionen|[Partner Center-API-Updates und Verbesserungen der Benutzeroberfläche für den Überprüfungsprozess für Kunden im Bildungswesen](2020-august.md#8)|31. August|
 |Angebote/Märkte|[Updates an der Microsoft 365 Voice-Promotion](2020-august.md#7)|14. August|
 |Funktionen|[SDK-Release für .NET Standard v 1.16.1](2020-august.md#6)|12. August|
 |Funktionen|[Self-Service-Einkauf für Microsoft Project und Microsoft Visio in Kürze verfügbar](2020-august.md#5)|12. August|

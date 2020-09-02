@@ -9,12 +9,12 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14f5a8e4f3ed25162ffc3c9f3dfa7ef0171f690b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 79fd61827f64a060da2b1ecd8f7eeceedb2fcdc5
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436729"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220198"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>Status der Sicherheitsanforderungen für Partner – hier finden Sie Antworten auf Ihre Fragen und Berichte zum aktuellen Status.
 
@@ -129,7 +129,7 @@ Wenn Sie eine MFA-Lösung eines Drittanbieters verwenden, bestimmen Sie, wie Sie
 
 Es kann sinnvoll sein, zu identifizieren, welche Benutzer sich ohne MFA-Überprüfung beim Partner Center anmelden und sie mithilfe Ihrer aktuellen MFA-Implementierung zu überprüfen. Sie können den [Azure AD-Anmeldebericht](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) verwenden, um herauszufinden, ob ein Benutzer die MFA-Überprüfung abgeschlossen hat oder nicht. Der Azure AD-Anmeldebericht steht zurzeit nur Partnern zur Verfügung, die Azure AD Premium oder eine andere O365-SKU abonniert haben, die Azure AD Premium umfasst (beispielsweise EMS).
 
-**Weitere Informationen**
+## <a name="next-steps"></a>Nächste Schritte
 
 - [Partner Center security guidance group community](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
 - [Sicherheitsanforderungen für Partner](partner-security-requirements.md)

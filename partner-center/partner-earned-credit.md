@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a958450349056dc24e7e46b2ecbb84c857938a0
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390607"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220508"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Vom Partner erworbenes Guthaben – Übersicht über die Funktionsweise in der neuen E-Commerce-Oberfläche im CSP-Programm
 
@@ -73,11 +73,8 @@ Diese Dienste bieten Partnern ein geeignetes Maß an Zugriff auf die Azure-Umgeb
 >[!Note]
 >Kunden haben die Option, jeden Zugriff zu blockieren, der Partnern erteilt wurde. Partner dürfen Kunden nicht nötigen, ihnen geeigneten Zugriff zu erteilen, nur um damit vom Partner erworbenes Microsoft-Guthaben zu verdienen – die Nichtbeachtung dieser Anforderung kann Partner ihre Berechtigung kosten, von Partnern erworbenes Guthaben zu verdienen.
 
-**Weitere Informationen**
+## <a name="next-steps"></a>Nächste Schritte
 
 - [Wie von Partnern erworbene Guthaben berechnet und bezahlt werden](partner-earned-credit-explanation.md)
-
 - [Verwalten von Abonnements und Ressourcen in einem Azure-Plan](azure-plan-manage.md)
-
 - [Preisliste für die neue Azure E-Commerce-Benutzeroberfläche in CSP](azure-plan-price-list.md)
-

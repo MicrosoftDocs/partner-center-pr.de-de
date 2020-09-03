@@ -1,7 +1,7 @@
 ---
 title: Finden Sie Ihre Vorteile
 ms.topic: how-to
-ms.date: 08/27/2020
+ms.date: 09/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie Ihre MPN-Vorteile im Partner Center-Dashboard finden.
@@ -9,19 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a953eb47623bce8c0133266e26715f54557444fc
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 938197707c7a27e1485e9d22030cc4a94094197d
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220762"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427117"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Suchen Sie Ihre Microsoft Partner Network Vorteile 
-
-In diesem Artikel werden die Mitglieder der Microsoft Partner Network (MPN) erläutert, wie Sie Ihre MPN-Vorteile im Partner Center-Dashboard finden. Zu diesen Informationen gehört das Auffinden der spezifischen Produktsupport-IDs Ihres Unternehmens, z. b. Vertrags-ID und Zugriffs-ID, die mit technischen Vorteilen verknüpft sind.
-
->[!NOTE]
-> Wenn sich Ihre Microsoft Partner Network Mitgliedschaft noch im Partner Membership Center (PMC) befindet, müssen Sie möglicherweise eine andere Ressource wie Partner Frontline kontaktieren, damit Sie bestimmte Vorteile anzeigen oder aktivieren können. Weitere Informationen finden Sie unter [Aktivieren von technischen Vorteilen außerhalb von Partner Center](partner-membership-center-tech-benefits-activate.md).
 
 ### <a name="applies-to"></a>Gilt für:
 
@@ -32,7 +27,14 @@ In diesem Artikel werden die Mitglieder der Microsoft Partner Network (MPN) erl�
 - MPN-Partneradministrator
 - Globaler Administrator
 
-Als Mitglied der Microsoft Partner Network (MPN) hat Ihr Unternehmen Zugriff auf zahlreiche Vorteile, die beim Wachstum Ihres Unternehmens helfen können. So können Sie herausfinden, was diese Vorteile sind:
+In diesem Artikel werden die Mitglieder der Microsoft Partner Network (MPN) erläutert, wie Sie Ihre MPN-Vorteile im Partner Center-Dashboard finden. Zu diesen Informationen gehört das Auffinden der spezifischen Produktsupport-IDs Ihres Unternehmens, z. b. Vertrags-ID und Zugriffs-ID, die mit technischen Vorteilen verknüpft sind.
+
+>[!NOTE]
+> Wenn sich Ihre Microsoft Partner Network Mitgliedschaft noch im Partner Membership Center (PMC) befindet, müssen Sie möglicherweise eine andere Ressource wie Partner Frontline kontaktieren, damit Sie bestimmte Vorteile anzeigen oder aktivieren können. Weitere Informationen finden Sie unter [Aktivieren von technischen Vorteilen außerhalb von Partner Center](partner-membership-center-tech-benefits-activate.md).
+
+## <a name="find-your-mpn-benefits-in-partner-center"></a>Finden Sie Ihre MPN-Vorteile im Partner Center
+
+Als Microsoft Partner Network Mitglied hat Ihr Unternehmen Zugriff auf viele Vorteile, die möglicherweise beim Wachstum Ihres Unternehmens helfen. So können Sie herausfinden, was diese Vorteile sind:
 
 1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/home)an, wählen Sie **MPN**aus, und klicken Sie dann auf **Vorteile**.
 
@@ -60,7 +62,7 @@ Nachdem Sie die obigen Schritte ausgeführt haben und bestimmte Vorteile (wie te
 Technische Vorteile finden Sie in den Microsoft-Produktsupport-IDs, z. b. **Zugriffs-ID** und **Vertrags-ID** im Partner Center.
 
 >[!NOTE]
-> Wenn Ihre Microsoft Partner Network Mitgliedschaft noch im Partner Membership Center (PMC) ist und noch nicht zu Partner Center migriert wurde, müssen Sie sich an den Partner Frontline wenden, um technische Vorteile zu aktivieren oder Ihre Support-ID und Vertrags-ID zu erhalten.
+> Wenn Ihre Microsoft Partner Network Mitgliedschaft noch im Partner Membership Center (PMC) ist und noch nicht zu Partner Center migriert wurde, müssen Sie sich an den [Partner Frontline wenden](partner-membership-center-tech-benefits-activate.md) , um technische Vorteile zu aktivieren oder Ihre Support-ID und Vertrags-ID zu erhalten.
 
  Führen Sie die folgenden Schritte aus, um diese Informationen im Partner Center anzuzeigen:
 

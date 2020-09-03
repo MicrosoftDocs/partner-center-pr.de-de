@@ -9,18 +9,57 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: 6382e5e594dbe68c63cbbad1313948fedcf0fd89
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: acbe2e22f1295a881ef064e0e6ff018c9b98eb95
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303056"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274988"
 ---
 # <a name="august-2020-announcements"></a>Ankündigungen für August 2020
 
 Auf dieser Seite finden Sie Informationen zu den Ankündigungen vom August 2020 für Microsoft Partner Center.
 
 Ankündigungen für 2020: [Januar](2020-january.md) | [Februar](2020-february.md) | [März](2020-march.md) | [April](2020-april.md) | [Mai](2020-may.md) | [Juni](2020-june.md) | [Juli](2020-july.md) | August
+
+________________
+
+## <a name="partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="8"></a>Partner Center-API-Updates und Verbesserungen der Benutzeroberfläche für den Überprüfungsprozess für Kunden im Bildungswesen
+
+### <a name="categories"></a>Kategorien
+
+- Datum: 31.08.2020
+- Funktionen
+
+### <a name="impacted-audience"></a>Zielgruppe
+
+Partner, die Angebote für Bildungseinrichtungen im Rahmen des CSP-Programms (Cloud Solution Provider) vertreiben 
+
+### <a name="summary"></a>Zusammenfassung
+
+Microsoft setzt auf Vertrauen, und wir haben uns verpflichtet, eine kompatible und sichere Methode der Kundenüberprüfung zur Abwicklung von Angeboten für Bildungseinrichtungen im Cloud Solution Provider-Programm bereitzustellen. Im Rahmen dieser Verpflichtung führen wir im zweiten Quartal des Geschäftsjahres (FY21 Q2) Verbesserungen der Partner Center-API und der Benutzeroberfläche ein. Diese werden für mehr Klarheit und Transparenz beim Prozess der Kundenüberprüfung sorgen sowie die Eingabe genauerer Daten ermöglichen und dadurch zu größerem Erfolg bei der Kundenüberprüfung beitragen. 
+
+#### <a name="partner-center-enhancements"></a>Partner Center-Verbesserungen
+
+- Neue GET- und POST-Qualifizierungs-APIs zur Unterstützung einer genauen Dateneingabe und Verbesserung des Überprüfungsprozesses für Kunden im Bildungswesen durch Microsoft.
+- Verbesserungen der Benutzeroberfläche zur Unterstützung einer genauen Dateneingabe und Verbesserung des Überprüfungsprozesses für Kunden im Bildungswesen durch Microsoft.
+
+#### <a name="testing"></a>Testen
+
+Partner können diese Verbesserungen ab Oktober testen. Wir empfehlen Ihnen dringend, diese Gelegenheit zu nutzen, um sich mit den APIs und der Dateneingabe vertraut zu machen, die für eine erfolgreiche Kundenüberprüfung erforderlich sind. Wir werden Ihnen in Kürze weitere Informationen zum genauen Zeitpunkt und zur Teilnahme bekanntgeben. Die vorhandenen Partner Center-APIs werden vor Ende des zweiten Quartals des Geschäftsjahres (FY21 Q2) eingestellt. Ab diesem Zeitpunkt müssen alle Partner die neuen Partner Center-APIs verwenden.
+
+#### <a name="library-and-museum-customers"></a>Kunden im Bereich Bibliotheken und Museen
+
+Zusätzlich zu den oben genannten Verbesserungen freuen wir uns mitteilen zu können, dass im zweiten Quartal des Geschäftsjahres (FY21 Q2) Kunden im Bereich Bibliotheken und Museen Angebote zu Preisen für Bildungseinrichtungen bereitgestellt werden können. Dadurch wird die Kundenbasis im Bildungswesen ausgeweitet, mit der Sie CSP-Angebote abwickeln können.
+
+Microsoft behält sich das Recht vor, den Status jedes Kunden oder vorgeschlagenen Kunden als qualifizierter Nutzer von Bildungsangeboten zu überprüfen. Ausführliche Informationen dazu finden Sie unter den [Anforderungen für qualifizierte Nutzer für Forschung & Lehre](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).
+
+### <a name="next-stepsadditional-resources"></a>Nächste Schritte/zusätzliche Ressourcen
+
+- Informieren Sie sich über die neue Partner Center-Benutzeroberfläche und API-Änderungen in den Operations Readiness-Ressourcen: [Verbesserungen des Überprüfungsprozesses für Kunden im Bildungswesen im Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Stellen Sie sicher, dass Ihre Organisation mit den [Anforderungen für qualifizierte Nutzer für Forschung & Lehre](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) vertraut ist.
+- Leiten Sie diese Informationen an die entsprechenden Teams in Ihrer Organisation und Ihre Handelspartner weiter, um sie bei der Vorbereitung auf diese Änderungen zu unterstützen.
+- Halten Sie sich über die Testgelegenheit im Oktober auf dem Laufenden. Wir werden dann Informationen zum genauen Zeitpunkt und zur Teilnahme bekanntgeben.
 
 ________________
 

@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: efae9cce608524835c8e4526f23e61b793470d2b
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 0ba59ee7b502d06aa5f95ca45fa86aa10fcab059
+ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811110"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89304977"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Überprüfen von Partnerprofilinformationen im Partner Center
 
@@ -25,7 +25,7 @@ ms.locfileid: "87811110"
 
 Wenn Sie sich zum ersten Mal bei Partner Center als globaler Administrator anmelden, sollten Sie bestätigen, dass alle Unternehmensdetails richtig sind. Hierzu gehören der primäre Kontakt, der rechtliche Geschäftsname und die Adresse sowie Programminformationen. Wenn Ihr Unternehmen mehr als einen Standort hat, überprüfen Sie Ihre Standortdaten auf Richtigkeit. Als globaler Administrator, Abrechnungsadministrator oder Administrator-Agent können Sie auch Ihre Abrechnungs- und Steuerinformationen einsehen und aktualisieren.
 
-Ihr Partnerprofil besteht aus Ihren juristischen Geschäftsinformationen, dem Namen und der E-Mail-Adresse des Hauptansprechpartners, den Programmen, an denen Ihr Unternehmen beteiligt ist, und gegebenenfalls Ihren anderen Unternehmen, die jetzt unter Ihrem Rechtsgeschäft zusammengefasst werden.
+Ihr Partnerprofil besteht aus Ihren juristischen Geschäftsinformationen, dem Namen und der E-Mail-Adresse des Hauptansprechpartners, den Programmen, an denen Ihr Unternehmen beteiligt ist, und gegebenenfalls Ihren anderen Unternehmen, die jetzt unter Ihrem Rechtsgeschäft zusammengefasst werden. Vergewissern Sie sich, dass der Name und die Adresse des Unternehmens in Ihrem Rechtsgeschäftsprofil keine Rechtschreibfehler und Abkürzungen enthalten und den formalen Geschäftsregistrierungsdatensätzen Ihres Unternehmens exakt entsprechen. Wenn Sie als Einzelunternehmer tätig sind, müssen Sie den Namen Ihres Unternehmens als rechtlichen Namen verwenden.
 
 1. Wechseln Sie zu **Einstellungen**, und wählen Sie **Partnerprofil** aus.
 
@@ -39,7 +39,7 @@ Sie können nun Ihre juristische Adresse im Partner Center aktualisieren.
 
 1. Wechseln Sie zu **Einstellungen**, und wählen Sie **Partnerprofil** aus. 
 
-2. Klicken Sie neben „Juristische Adresse“ auf **Aktualisieren**. ""
+2. Klicken Sie neben „Juristische Adresse“ auf **Aktualisieren**. 
 
 >[!Important]
 >Als CSP-Partner können Sie das mit Ihrer juristischen Adresse verknüpfte Land nicht ändern. Das Land Ihrer juristischen Adresse ist an Ihren Mandanten und Ihre Dienste sowie an die Währung gebunden, in der Sie Geschäfte tätigen. Wenn Sie nicht am CSP-Programm teilnehmen, können Sie das mit Ihrer juristischen Adresse verknüpfte Land ändern. Der rechtsgültige Firmenname kann nicht im Partner Center aktualisiert werden, wenn Ihr Überprüfungsstatus „Autorisiert“ lautet. Sie müssen [ein Supportticket erstellen](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).

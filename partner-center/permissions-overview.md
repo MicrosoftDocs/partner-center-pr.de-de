@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c87e47efc6c94e4e53a031a983a4a4e528ddc012
-ms.sourcegitcommit: 59bdf42f5282262835cb7ee2bd215bbddc7686d7
+ms.openlocfilehash: 3feb4e678381b6fa5398bf3b3d89f6e4286e6ff1
+ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87839185"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "89040766"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern im Unternehmen, die im Partner Center arbeiten müssen
 
@@ -39,14 +39,19 @@ Wie Ihre Benutzer auf das Partner Center zugreifen können, bestimmen Sie über 
 |----------------------------------|:---------------------------------|
 |Globaler Administrator|* Zugriff auf alle Microsoft-Konten/-Dienste mit allen Berechtigungen
 |      |* Erstellen von Supporttickets für das Partner Center
+||* Anzeigen erstellter Partnersupporttickets
 ||* Anzeigen von Vereinbarungen, Preislisten und Angeboten
 ||* Anzeigen, Erstellen und Verwalten von Partnerbenutzern|
 ||  Anzeigen, Erstellen und Verwalten der Abrechnung, von Rechnungen und Kontenabstimmungsdateien
 |Benutzerverwaltungsadministrator   | * Anzeigen, Erstellen und Verwalten von Benutzern
 ||* Anzeigen aller Partnerprofile
 ||* Anzeigen, Erstellen und Verwalten von Partnerbenutzern  |
+||* Erstellen von Supporttickets für das Partner Center
+||* Anzeigen erstellter Partnersupporttickets
 |Abrechnungsadministrator | • Anzeigen, Erstellen und Verwalten der Abrechnung, von Rechnungen und Kontenabstimmungsdateien|
 ||* Anzeigen von Preisen
+||* Erstellen von Supporttickets für das Partner Center
+||* Anzeigen erstellter Partnersupporttickets
 |Standardbenutzer|  Anzeigen des eigenen Profils   |
 |Administrator-Agent | * Kundenverwaltung
 ||* Hinzufügen einer Geräteliste zum Partner Center
@@ -57,7 +62,9 @@ Wie Ihre Benutzer auf das Partner Center zugreifen können, bestimmen Sie über 
 ||* Anzeigen von Preisen und Angeboten
 ||* Abrechnung
 ||* Verwalten im Auftrag eines Kunden
-||* Registrieren eines Vertragshändlers|
+||* Registrieren eines Vertragshändlers
+||* Erstellen von Supporttickets für das Partner Center
+||* Anzeigen erstellter Partnersupporttickets|
 |Vertriebsbeauftragter | * Kundenverwaltung
 ||* Hinzufügen einer Geräteliste zum Partner Center
 ||* Abonnementverwaltung
@@ -66,12 +73,16 @@ Wie Ihre Benutzer auf das Partner Center zugreifen können, bestimmen Sie über 
 ||* Anzeigen von Preisen und Angeboten
 ||* Verwalten potenzieller Kunden
 ||* Anzeigen der Kundenvereinbarung
-||* Registrieren eines Vertragshändlers|
+||* Registrieren eines Vertragshändlers
+||* Erstellen von Supporttickets für das Partner Center
+||* Anzeigen erstellter Partnersupporttickets|
 |Helpdesk-Agent| * Suchen und Anzeigen von Kunden
 ||* Bearbeiten von Kundendetails
 ||* Unterstützen von Kunden beim Lösen von Problemen mit der Abrechnung oder der Abonnementverwaltung
 ||* Anfordern von Support für Kunden 
-||* Verwalten von Abonnements und Abrechnungsproblemen im Namen von Kunden| 
+||* Verwalten von Abonnements und Abrechnungsproblemen im Namen von Kunden
+||* Erstellen von Supporttickets für das Partner Center
+||* Anzeigen erstellter Partnersupporttickets| 
 
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>CPV (Control Panel Vendor, CSP- und Nicht-AAD-Rolle)
 CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provider), damit diese ihre Systeme mit Partner Center-APIs integrieren können. 
@@ -107,10 +118,14 @@ CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provi
 ||* Arbeiten im Gutscheinüberprüfungstool|
 ||* Anzeigen von Kundendatenanalysen
 ||* Anzeigen der Rollen anderer Benutzer im Unternehmen, kann jedoch seinerseits keine Rollen zuweisen
+||* Erstellen von Supporttickets für das Partner Center
+||* Anzeigen erstellter Partnersupporttickets
 |Kontoadministrator| Hinzufügen von Speicherorten
 || • Verwalten von Profilen, die im Zusammenhang mit den Konten stehen, für die Sie Administrator sind 
 ||* Zuweisen von Rollen für Benutzer im Mandanten zu Nicht-AAD-Rollen 
 ||* Registrieren von Standorten in Programmen
+||* Erstellen von Supporttickets für das Partner Center
+||* Anzeigen erstellter Partnersupporttickets
 
 
 ## <a name="manage-referrals"></a>Verwalten von Empfehlungen 
@@ -122,7 +137,9 @@ CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provi
 ||* Anzeigen, Erstellen und Verwalten von Co-Selling-Empfehlungen|
 ||* Anzeigen, Erstellen und Verwalten von Serviceanfragen von Partnern
 |Unternehmensprofiladministrator   |* Anzeigen, Erstellen und Verwalten des Geschäftsprofils 
-||* Anzeigen, Erstellen und Verwalten von Serviceanfragen von Partnern|
+||* Anzeigen, Erstellen und Verwalten von Serviceanfragen von Partnern
+||* Erstellen von Supporttickets für das Partner Center
+||* Anzeigen erstellter Partnersupporttickets|
 
 ## <a name="manage-incentives"></a>Verwalten von Incentives 
 
@@ -137,14 +154,15 @@ CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provi
 |Incentivebenutzer|* Anzeigen von Incentiveprogrammen
 ||* Anzeigen und Initiieren von Incentiveansprüchen
 ||* Anzeigen von Rabatten und Co-Op-Erträgen
-||* Zugreifen auf den Support
+||* Erstellen von Supporttickets für das Partner Center
+||* Anzeigen erstellter Partnersupporttickets
 
 ## <a name="view-partner-center-insights-data"></a>Anzeigen aussagekräftiger Daten zum Partner Center
 
 |**Rolle** | **Funktionsumfang**|
 |------------------------------|:-------------------------|
-|Executive Report-Leser|Zugriff auf alle Berichtsdatasets|
-|Berichtleser|Zugriff auf Datenberichte mit Ausnahme von Umsatz-, Kunden- und personenbezogenen Mitarbeiterdaten|
+|Executive Report-Leser|Zugriff auf alle Berichtsdatasets, Erstellen von Partnersupporttickets, Anzeigen erstellter Partnersupporttickets|
+|Berichtleser|Zugriff auf Datenberichte mit Ausnahme von Umsatz-, Kunden- und personenbezogenen Mitarbeiterdaten, Erstellen von Partnersupporttickets, Anzeigen erstellter Partnersupporttickets|
 
 
 

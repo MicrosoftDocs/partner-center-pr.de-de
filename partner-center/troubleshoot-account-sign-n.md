@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c1d850663224469f24d5d4442e33cc17c1bb6704
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 58acef4599333929446a283ecde1cca9f3ef9ce8
+ms.sourcegitcommit: 983457c8e8fcfbfe48b80b1c86fe894c1e106eb3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220238"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89443586"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Behandeln von Problemen mit der Konto Einrichtung oder der MPN-Erneuerung
 
@@ -31,13 +31,15 @@ Hier finden Sie einige Vorschläge zur Problembehandlung bei häufigen Problemen
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Was geschieht, wenn Sie vom Partner Mitgliedschafts Center migrieren und keine Firmen Informationsfelder bearbeiten können.
 
-Dies tritt auf, wenn Ihr Unternehmen bereits in Partner Center (z. –. CSP-Konto) vorhanden ist Ihnen wird ein Schreib geschützter Bildschirm angezeigt, auf dem alle Informationen zu Ihrem Unternehmen angezeigt werden, wie es im Partner Center vorhanden ist.
+In Fällen, in denen Ihr Unternehmen bereits in Partner Center (z. –. CSP-Konto) vorhanden ist, wird Ihnen ein Schreib geschützter Bildschirm angezeigt, auf dem alle Informationen zu Ihrem Unternehmen angezeigt werden, wie es im Partner Center vorhanden ist.
 
 Die Details auf diesem Bildschirm können nicht geändert werden. Dies ist Entwurfs bedingt und kein Fehler.
 
 Wählen Sie **annehmen** und **fort** fahren aus.
 
-## <a name="you-are-trying-to-enroll-or-to-migrate-from-partner-membership-center-and-you-receive-an-error-message-saying-that-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Sie versuchen, sich zu registrieren oder aus dem Partner Membership Center zu migrieren, und Sie erhalten eine Fehlermeldung, die besagt, dass die IT-Abteilung die Registrierung **für Partner Center**ausgeschaltet hat.
+
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>, Wenn die IT-Abteilung die **Anmeldung für Partner Center**ausgeschaltet hat.
+
 
 Diese Meldung wird angezeigt, weil virale Benutzer deaktiviert sind oder die virale Registrierung für den Azure AD Mandanten deaktiviert ist. Der globale Administrator für Ihr Azure AD Konto kann erforderliche Features aktivieren, indem Sie den folgenden PowerShell-Befehl ausführen:
 
@@ -51,11 +53,13 @@ Wenn Sie Ihr Kennwort vergessen haben, wählen Sie auf der Anmeldeseite den Link
 
 ## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Auf dem Bildschirm "erzählen Sie uns von Ihrem Unternehmen" erhalten Sie den Fehler "ein Fehler ist aufgetreten".
 
-Dies geschieht normalerweise, wenn Sie versehentlich Sonderzeichen, Leerzeichen oder Ländercode in der Telefonnummer Ihres Unternehmens verwenden. Der im Feld für die Telefonnummer eingegebene Wert darf maximal 10 Zeichen enthalten.
+Diese Fehlermeldung wird normalerweise angezeigt, wenn Sie versehentlich Sonderzeichen, Leerzeichen oder Ländercode in der Telefonnummer Ihres Unternehmens verwenden. Der im Feld für die Telefonnummer eingegebene Wert darf maximal 10 Zeichen enthalten.
 
-## <a name="you-are-trying-to-complete-the-purchase-via-credit-card-but-you-are-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Sie versuchen, den Kauf über die Kreditkarte abzuschließen, aber Sie erhalten eine Fehlermeldung mit dem Hinweis, dass die Bestellung abgelehnt wurde. Überprüfen Sie Ihre Informationen "
 
-Sie sollten immer die Adresse Ihrer Kreditkarte einfügen, die ihrer juristischen Person nicht entspricht. Stellen Sie außerdem sicher, dass die Postleitzahl korrekt ist und der von Ihnen verwendeten Adresse entspricht.
+### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Ihr Kreditkarten Erwerb erhält eine Fehlermeldung, die besagt, dass Ihre Bestellung abgelehnt wurde. Überprüfen Sie Ihre Informationen "
+
+
+Verwenden Sie immer die Adresse, die Ihrer Kreditkarte entspricht, anstelle ihrer juristischen Person. Stellen Sie außerdem sicher, dass die Postleitzahl korrekt ist und der von Ihnen verwendeten Adresse entspricht.
 
 ## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>Sie möchten von der Offline Zahlung zur Online Zahlungsmethode wechseln. 
 
@@ -68,3 +72,8 @@ So brechen Sie eine Bestellung ab
 2. Select- **Reihenfolge Abbrechen**
 
 3. Es wird ein Bestätigungsfenster angezeigt, das Sie bestätigen müssen, um die anfängliche Reihenfolge abzubrechen.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Verwalten des Partner Center-Kontos](partner-center-account-setup.md)
+- [So lesen Sie Ihre Rechnung und die Datei "Reconnaissance"](read-your-bill.md)

@@ -9,28 +9,25 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1eea363576f40604465cef55e49be9be92a117d4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5b30ebc733fd935a813617477de186129076e74b
+ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434359"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89471445"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Verwalten von Co-Selling-Verkaufschancen in Partner Center zum Definieren von Geschäften und besseren Erfüllung der Kundenanforderungen
 
 **Zielgruppe**
 
 - Partner Center
-- Empfehlungen
-- Co-Selling mit Microsoft
-- Freigabe freigeben
 
 **Geeignete Rollen**
 
 - MPN-Partneradministrator
 - Empfehlungsadministrator
 
-Sie können die Vorteile der Co-Selling-Verkaufschancen nutzen.  Co-Selling-Möglichkeiten sind solche, bei denen eine gemeinsame Verkäufe von mehreren Parteien durchgeführt werden, um einen Kundenbedarf zu erfüllen. In diesem Abschnitt erfahren Sie, wie Sie die Leistungsfähigkeit des Co-Selling in Partner Center nutzen können, um gemeinsamen Co-Selling und neue Kunden zu erwerben.
+Profitieren Sie von Co-Selling-Verkaufschancen.  Co-Selling-Möglichkeiten sind die Zusammenarbeit mehrerer Parteien, um Produkte zu verkaufen, die einem Kundenbedarf gerecht werden. In diesem Artikel erfahren Sie, wie Sie die Leistungsfähigkeit des Co-Selling in Partner Center nutzen können, um Kunden effektiv gemeinsam zu verkaufen und neue Kunden zu erwerben.
 
 ## <a name="types-of-co-sell-opportunities"></a>Arten von Co-Selling-Verkaufschancen
 
@@ -49,7 +46,7 @@ Eingehend **– alle** Verkaufschancen, die von Microsoft-Verkäufern für die g
 
 Ausgehend **– alle** Möglichkeiten, die vom Partner erstellt werden, sind auf dieser Registerkarte verfügbar. Partner können zwei verschiedene Kategorien von Verkaufschancen erstellen – Co-Selling und private Pipeline. 
 
-**Favoriten** – Verkaufschancen, die auf den Registerkarten für eingehende oder ausgehende Co-Selling-Verkaufschancen als Favoriten gekennzeichnet sind, werden auf dieser Registerkarte angezeigt. Markieren Sie alle Chancen als Favorit, indem Sie auf das Herz Symbol der Gelegenheit in der Listenansicht klicken. Sie können die Gelegenheit aus den Favoriten entfernen, indem Sie einfach erneut auf dasselbe Symbol klicken.
+**Favoriten** – Verkaufschancen, die auf den Registerkarten für eingehende oder ausgehende Co-Selling-Möglichkeiten als Favoriten gekennzeichnet sind, werden auf dieser Registerkarte angezeigt. Markieren Sie eine beliebige Gelegenheit als Favorit, indem Sie auf das Herz Symbol der Gelegenheit in der Listenansicht klicken. Sie können die Gelegenheit aus den Favoriten entfernen, indem Sie einfach erneut auf dasselbe Symbol klicken.
 
 
 ## <a name="creating-a-co-sell-opportunity"></a>Erstellen einer Co-Selling-Verkaufschance 
@@ -80,7 +77,7 @@ Geben Sie die Details des aktuellen Deals ein. Die unten definierten Felder kön
 |**Geschätztes Schluss Datum**| Obligatorisch.| Das Datum, an dem Sie den Umgang mit dem Kunden erwarten. |
 |**CRM-ID**| Optional | Markieren Sie den Umgang mit der ID der Verkaufschance im jeweiligen CRM zum Nachverfolgen.|
 |**Marketing Kampagnen-ID**| Optional | Erfassen Sie die Marketingkampagne, die zu diesem Problem geführt hat. Mit diesem Profil können Sie den ROI einer bestimmten Kampagne nachverfolgen, wenn Sie alle aus der Kampagne stammenden Geschäfte mit der gleichen ID markieren.|
-|**Notizen**| Optional | Aktualisieren Sie alle aktuellen Informationen, um anderen Mitarbeitern Ihres Unternehmens einen Einblick in den gleichen Umgang zu bieten, oder versuchen Sie, den aktuellen Zustand des Deals zu verstehen. Sie können dies auch als Kommunikationsprotokoll für Diskussionen zwischen Microsoft-Verkäufern und anderen Partnern in Ihrem Unternehmen verwenden.|
+|**Hinweise**| Optional | Aktualisieren Sie alle aktuellen Informationen, um anderen Mitarbeitern Ihres Unternehmens einen Einblick in den gleichen Umgang zu bieten, oder versuchen Sie, den aktuellen Zustand des Deals zu verstehen. Sie können dies auch als Kommunikationsprotokoll für Diskussionen zwischen Microsoft-Verkäufern und anderen Partnern in Ihrem Unternehmen verwenden.|
 
 ### <a name="add-your-employees"></a>Mitarbeiter hinzufügen
 
@@ -130,7 +127,25 @@ Wenn Sie fertig sind, können Sie eine der beiden Aktionen ausführen, die das E
 
 ### <a name="archived-stage"></a>Archivierte Phase
 
-Dies ist eine Terminalphase, in der alle Verkaufschancen letztendlich erreicht werden. In dieser Phase können Sie alle Leads anzeigen, die sich in "gewinnt", " **verloren", "abgelehnt**" und " **abgelaufen** " befinden. Es gibt keine Aktionen, die Sie in dieser Phase durchführen können.
+Dies ist die letzte Phase für alle Verkaufschancen. Sie können alle Leads anzeigen, die sich in " **gewinnt", "verloren", "abgelehnt**" und " **abgelaufen** " im Archiv befinden. Es gibt keine Aktionen, die Sie in dieser Phase durchführen können.
+
+## <a name="frequently-asked-questions"></a>Häufig gestellte Fragen
+
+**Quartal. Kann ein Problem bearbeitet werden, nachdem es als "gewonnen" oder "verloren" gekennzeichnet wurde?**
+
+Nein. die Geschäfte können nicht geändert werden, sobald Sie in einen Terminal Zustand wechseln. "Abgelaufen", "ablehnen", "gewonnen" und "verloren" sind Terminal Zustände, in denen keine weiteren Updates für das Geschäft möglich sind Gehen Sie vorsichtig vor, wenn Sie den Deal in einen dieser Terminal Zustände verschieben.
+
+**Q2. Ich habe eine neue Verweis Benachrichtigung erhalten, kann Sie aber nicht in Partner Center finden?**
+
+Dies kann vorkommen, wenn in Ihrem Unternehmen mehrere Mandanten demselben MPN-Konto zugeordnet sind. Wechseln Sie zu den Partner Center-Kontoeinstellungen, und überprüfen Sie die dem Konto zugeordneten Mandanten. Erstellen Sie dann ein Support Ticket, das eine Verknüpfung der Mandanten angefordert hat. Geben Sie die Mandanten-ID an, in die Sie sich beim Support Ticket angemeldet haben.
+
+:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Bild, das die Kontoeinstellungen anzeigt, in denen Mandanten Informationen gefunden werden können.":::
+
+**Q3. Wer erhält eine e-Mail-Benachrichtigung von Partner Center?**
+
+Der folgende Workflow erläutert, wie die e-Mails aus dem Partner Center-Referenzsystem für neue eingehende Partner Verweise an Partner gesendet werden.
+
+:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Bild, das die Logik zeigt, wie e-Mails für neue eingehende Verweise an Partner gesendet werden.":::
 
 ## <a name="getting-more-co-sell-opportunities"></a>Weitere Co-Selling-Möglichkeiten
 

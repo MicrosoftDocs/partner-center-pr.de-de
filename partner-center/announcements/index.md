@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 847b586fdb3e7b2361042c18ad9f9f0ae3203a62
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 5309b7cca20aff3fb37c0dd7607ba7439f2851c4
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89286504"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427097"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für September 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+|Angebote/Märkte|[Erweiterte Unterstützung für Incentives und Ticketerstellung](2020-september.md#4)|2\. September|
 |Angebote/Märkte|[Bevorstehende neue Microsoft Dynamics 365-Angebote](2020-september.md#3)|1\. September|
 |Angebote/Märkte|[Office 365-Aufrufplan am 1. Oktober 2020 in neuen Märkten verfügbar](2020-september.md#2)|1\. September|
 |Angebote/Märkte|[Microsoft Defender Advanced Threat Protection (ATP) für Server für Bildungseinrichtungen verfügbar](2020-september.md#1)|1\. September|

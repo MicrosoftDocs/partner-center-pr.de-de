@@ -9,12 +9,12 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2509068cc035dda1dc8494a7989bd375a45c6f26
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 8679146bc628514fb6b4885ee18651c2676fb18b
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545661"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490648"
 ---
 # <a name="view-digitally-signed-invoices"></a>Anzeigen von digital signierten Rechnungen
 
@@ -34,19 +34,19 @@ Partner in Indien sehen nun, dass Microsoft Rechnungen digital signiert hat. Sie
 
 2. Am Anfang der Rechnung sollte "signiert" angezeigt **werden, und alle Signaturen sind gültig**.
  
- :::image type="content" source="images/digitalsig/digital1.png" alt-text="gültige Signatur":::
+ :::image type="content" source="images/digitalsig/digital1.png" alt-text="Die Beispiel Rechnung mit einem gültigen Signatur Benachrichtigungs Banner mit einer grünen häkchensignatur und einem Ausdruck, der besagt, dass signiert und alle Signaturen gültig sind.":::
 
 3. Klicken Sie auf die Signatur. Das Zertifikat, das die Gültigkeit angibt, wird angezeigt.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="stellt"::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Signierte Rechnung mit autorisiertem unter zeichnerfeld und Dialogfeld "Signatur Überprüfungs Status" mit Details, Signatur Eigenschaften Option, Option "Abbrechen"."::: 
 
 4. Wählen Sie **Signatur Eigenschaften** aus, um weitere Informationen zur Gültigkeit der Signatur anzuzeigen.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="Signatur Eigenschaften"::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="Die Detailansicht der Signatur Eigenschaften zeigt Informationen darüber an, wer, wo, wann das Dokument signiert wurde, den Validierungsprozess und das Zertifikat des Signatur Gebers."::: 
 
 4. Sie können auch sicherstellen, dass die Zertifizierungs Pfade richtig sind und dass das Zertifikat vertrauenswürdig ist.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="stellt":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="Das Dialogfeld Zertifikat Anzeige zeigt mehrere Registerkarten mit weiteren Details zu einem Zertifikat und seiner gesamten Ausstellungs Kette an.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Zusätzliche Informationen zu Rechnungen und digitalen Signaturen
 

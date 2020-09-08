@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: dbedfdb2001966a78f1453ee45615ab9418d968a
-ms.sourcegitcommit: 9ad926be9f5d245b307bc7d3975ff3973dba3161
+ms.openlocfilehash: ea89b3dae9d57957431e6e23c5fd102de3898d8f
+ms.sourcegitcommit: b5dd3427cec176a55f00394f4f33b2b570d4abd5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2020
-ms.locfileid: "88188440"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "89551641"
 ---
 # <a name="benefits-faq"></a>Häufig gestellte Fragen zu den Vorteilen
 
@@ -94,6 +94,8 @@ Mithilfe der folgenden Schritte können Sie jeder Person in der Benutzer Verwalt
 4. Weisen Sie die gewünschten Benutzer Ihren vorhandenen verfügbaren Visual Studio-Abonnements zu.
 
 Nachdem Sie das Abonnement zugewiesen haben, muss sich der Benutzer bei Visual Studio anmelden, um ihn zu verwalten.
+
+Hinweis: der Benutzer, der einem Visual Studio-Abonnement auf Partner Center zugewiesen ist, kann bis 90 Tage der ursprünglichen Zuweisung nicht entfernt werden.
 
 ## <a name="technical-benefits-and-support"></a>Technische Vorteile und Support
 

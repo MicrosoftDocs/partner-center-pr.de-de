@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8618e6b75e6d45ebe37510b398c2f03c9e1e9c8
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 216858aff2ecbb5eb11c739db0a0a7ad6ee390f1
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811280"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564770"
 ---
 # <a name="reset-my-password"></a>Zurücksetzen des eigenen Kennworts
 
@@ -44,7 +44,7 @@ Ihr globaler Administrator muss das Kennwort selbst zurücksetzen können. (Wenn
 
 ## <a name="if-your-global-admin-has-left-the-company"></a>Wenn Ihr globaler Administrator das Unternehmen verlassen hat
 
-Wenn Ihr globaler Administrator Ihr Unternehmen verlassen oder zu einer anderen Rolle gewechselt hat und Sie einen neuen globalen Administrator hinzufügen müssen, müssen Sie eine Service Request im [Microsoft Partner Network Portal](https://partner.microsoft.com/commercial#/)protokollieren. Der Support-Agent kann die Rechte Erweiterung eines Benutzers an einen globalen Administrator anfordern, wenn der Anforderer die erforderlichen persönlichen Identitätsinformationen bereitstellen und zusätzliche Informationen zu Ihrem Unternehmen bereitstellen kann.
+Wenn Ihr globaler Administrator Ihr Unternehmen verlassen oder zu einer anderen Rolle gewechselt hat und Sie einen neuen globalen Administrator hinzufügen müssen, müssen Sie eine Service Request im [Microsoft Partner Network Portal](https://partner.microsoft.com/commercial#/)protokollieren. Der Support-Agent kann die Rechte Erweiterung eines Benutzers an einen globalen Administrator anfordern, wenn der Anforderer die erforderlichen persönlichen Identitätsinformationen bereitstellen und zusätzliche Informationen zu Ihrem Unternehmen bereitstellen kann. 
 
 ## <a name="next-steps"></a>Nächste Schritte
 

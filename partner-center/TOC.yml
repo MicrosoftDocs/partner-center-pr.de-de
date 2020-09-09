@@ -163,6 +163,8 @@
       href: reset-my-pasword.md
     - name: Anmeldung bei Partner Center nicht möglich
       href: unable-to-sign-in.md
+    - name: 'Was ist zu tun, wenn der Administrator für das MPN-Programm das Unternehmen verlassen hat?'
+      href: no-mpn-admin.md
 - name: Verwalten des Partner Center-Kontos – Unternehmen
   items:
     - name: Hinzufügen von Azure Partner Shared Services

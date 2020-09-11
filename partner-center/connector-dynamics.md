@@ -223,7 +223,7 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
    2. Stellen Sie sicher, dass der folgende Abschnitt vorhanden ist, wenn Sie eine "neue Verkaufschance" in der Dynamics 365-Umgebung erstellen.
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Der Abschnitt "Beispiel Verkaufschancen" zeigt Informationen zum Microsoft Partner Center in Dynamics 365 an.":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Der Abschnitt Beispiel Verkaufschancen zeigt Informationen zum Microsoft Partner Center in Dynamics 365 an.":::
 
    3. Wenn Sie diese Gelegenheit mit dem Microsoft Partner Center synchronisieren möchten, stellen Sie sicher, dass Sie die folgenden Felder in der Kartenansicht festlegen:
 
@@ -231,7 +231,7 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
       - **Wie kann Microsoft Help?**: Wählen Sie eine der folgenden Aktionen aus:
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Beispiel für eine Verkaufschance in Dynamics 365, das Microsoft Partner Center-Hilfe Optionen neben einem Feld mit dem Namen "wie kann Microsoft Hilfe" angezeigt wird?":::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Beispiel für eine Verkaufschance in Dynamics 365, das Microsoft Partner Center-Hilfe Optionen neben einem Feld mit dem Namen wie kann Microsoft Hilfe angezeigt wird?":::
 
       - **Produkte**: Lösungs-IDs des Produkts
 

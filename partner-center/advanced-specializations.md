@@ -28,7 +28,7 @@ Um eine erweiterte Spezialisierung zu erhalten, muss Ihr Unternehmen eine ausger
 
 Wenn Sie an der erweiterten Spezialisierung interessiert sind, die als **Modernisierung von weMicrosoft Azure bAnwendungen**bezeichnet wird, wählen Sie diese im Partner Center-Menü aus. Sie gelangen zur Seite Voraussetzungen.
 
-:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Die Seite "Beispiel Voraussetzungen", die Anforderungen zum Erwerben einer aktiven Gold Cloud Platform-Kompetenz anzeigt.":::
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="Die Seite Beispiel Voraussetzungen, die Anforderungen zum Erwerben einer aktiven Gold Cloud Platform-Kompetenz anzeigt.":::
 
 
 Wenn Sie alle Voraussetzungen erfüllt haben, bleibt Ihr Status **nicht gestartet.** Wenn Sie die Voraussetzungen erfüllt haben, ist die Schaltfläche **Audit planen** aktiviert. Sie müssen eine Überwachung mit einem Drittanbieter für die folgenden erweiterten Azure-Spezialisierungs-Spezialisierungs Schritte durchführen:

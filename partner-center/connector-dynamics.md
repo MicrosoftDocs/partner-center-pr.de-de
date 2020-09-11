@@ -223,7 +223,7 @@ ms.locfileid: "89490668"
 
    2. <span data-ttu-id="2dba6-261">Stellen Sie sicher, dass der folgende Abschnitt vorhanden ist, wenn Sie eine "neue Verkaufschance" in der Dynamics 365-Umgebung erstellen.</span><span class="sxs-lookup"><span data-stu-id="2dba6-261">Ensure that the following section is present when you create a “New Opportunity” in Dynamics 365 environment</span></span>
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Der Abschnitt "Beispiel Verkaufschancen" zeigt Informationen zum Microsoft Partner Center in Dynamics 365 an.":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Der Abschnitt Beispiel Verkaufschancen zeigt Informationen zum Microsoft Partner Center in Dynamics 365 an.":::
 
    3. <span data-ttu-id="2dba6-263">Wenn Sie diese Gelegenheit mit dem Microsoft Partner Center synchronisieren möchten, stellen Sie sicher, dass Sie die folgenden Felder in der Kartenansicht festlegen:</span><span class="sxs-lookup"><span data-stu-id="2dba6-263">To synchronize this opportunity with Microsoft Partner Center, ensure that you set the following fields in the card view:</span></span>
 
@@ -231,7 +231,7 @@ ms.locfileid: "89490668"
 
       - <span data-ttu-id="2dba6-265">**Wie kann Microsoft Help?**: Wählen Sie eine der folgenden Aktionen aus:</span><span class="sxs-lookup"><span data-stu-id="2dba6-265">**How can Microsoft help?**: Select from the following:</span></span>
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Beispiel für eine Verkaufschance in Dynamics 365, das Microsoft Partner Center-Hilfe Optionen neben einem Feld mit dem Namen "wie kann Microsoft Hilfe" angezeigt wird?":::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Beispiel für eine Verkaufschance in Dynamics 365, das Microsoft Partner Center-Hilfe Optionen neben einem Feld mit dem Namen wie kann Microsoft Hilfe angezeigt wird?":::
 
       - <span data-ttu-id="2dba6-267">**Produkte**: Lösungs-IDs des Produkts</span><span class="sxs-lookup"><span data-stu-id="2dba6-267">**Products**: Solution IDs of the product</span></span>
 

@@ -38,7 +38,7 @@ ms.locfileid: "89490648"
 
 3. <span data-ttu-id="09b9a-114">Klicken Sie auf die Signatur.</span><span class="sxs-lookup"><span data-stu-id="09b9a-114">Click the signature.</span></span> <span data-ttu-id="09b9a-115">Das Zertifikat, das die Gültigkeit angibt, wird angezeigt.</span><span class="sxs-lookup"><span data-stu-id="09b9a-115">The certificate stating validity will appear.</span></span>
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="Signierte Rechnung mit autorisiertem unter zeichnerfeld und Dialogfeld "Signatur Überprüfungs Status" mit Details, Signatur Eigenschaften Option, Option "Abbrechen"."::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Signierte Rechnung mit autorisiertem unter zeichnerfeld und Dialogfeld Signatur Überprüfungs Status mit Details, Signatur Eigenschaften Option, Option Abbrechen."::: 
 
 4. <span data-ttu-id="09b9a-117">Wählen Sie **Signatur Eigenschaften** aus, um weitere Informationen zur Gültigkeit der Signatur anzuzeigen.</span><span class="sxs-lookup"><span data-stu-id="09b9a-117">Select **Signature Properties** to view more details on signature validity.</span></span>
 

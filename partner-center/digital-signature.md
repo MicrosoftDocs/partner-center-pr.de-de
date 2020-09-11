@@ -38,7 +38,7 @@ Partner in Indien sehen nun, dass Microsoft Rechnungen digital signiert hat. Sie
 
 3. Klicken Sie auf die Signatur. Das Zertifikat, das die Gültigkeit angibt, wird angezeigt.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="Signierte Rechnung mit autorisiertem unter zeichnerfeld und Dialogfeld "Signatur Überprüfungs Status" mit Details, Signatur Eigenschaften Option, Option "Abbrechen"."::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Signierte Rechnung mit autorisiertem unter zeichnerfeld und Dialogfeld Signatur Überprüfungs Status mit Details, Signatur Eigenschaften Option, Option Abbrechen."::: 
 
 4. Wählen Sie **Signatur Eigenschaften** aus, um weitere Informationen zur Gültigkeit der Signatur anzuzeigen.
 

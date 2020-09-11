@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ba59ee7b502d06aa5f95ca45fa86aa10fcab059
-ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
+ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89304977"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490638"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Überprüfen von Partnerprofilinformationen im Partner Center
 
@@ -55,6 +55,17 @@ Wenn während der Migration von Partner Membership Center zu Partner Center das 
 2. Wechseln Sie anschließend zu **Partnerprofil**, und wählen Sie die Option zum **Aktualisieren des Rechtsgeschäftsprofils** aus.
 
 3. Wählen Sie den Standort und das Unternehmen, das Sie als Ihr Rechtsgeschäft verwenden möchten, und wählen Sie dann **Speichern** aus.
+
+## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>Aktualisieren der MPN-ID, die Ihrem CSP-Konto zugeordnet ist
+
+So aktualisieren Sie die MPN-ID, die Ihrem CSP-Konto zugeordnet ist:
+
+1. Melden Sie sich beim Partner Center-Dashboard an.
+1. Wählen Sie unter **Kontoeinstellungen** die Option **Partnerprofil** aus.
+1. Wählen Sie neben **Associated MPNID** (Zugeordnete MPN-ID) **Aktualisieren** aus.
+1. Wählen Sie **Weiter**.
+1. Fügen Sie Ihre MPN-ID hinzu.
+
 
 ## <a name="update-your-billing-address"></a>Aktualisieren der Abrechnungsadresse
 

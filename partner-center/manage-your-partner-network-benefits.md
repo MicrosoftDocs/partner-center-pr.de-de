@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Microsoft Partner Network-Vorteilen
 ms.topic: article
-ms.date: 08/27/2020
+ms.date: 09/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Treten Sie dem Microsoft Partner Network (MPN) bei, und nutzen Sie das Partner Center, um Mitgliedschaftsvorteile und Angebote zu verwalten, die Ihr Geschäft voranbringen können.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ff62fbcd082dc69204831cc57bc7af36b83762fa
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ee0158bfd902e1cc0a4a664b6d051a41d1e209ce
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220748"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427087"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Verwalten von Microsoft Partner Network-Mitgliedschaftsvorteilen und -Angeboten im Partner Center
 
@@ -106,12 +106,23 @@ Gehen Sie folgendermaßen vor, um Ihre technischen Vorteile in Partner Center an
 
    - **Anzeigen und Angeben von Zugriffs-ID und Vertrags-ID für den Produktsupport.** Nachdem die Aktivierungsanforderung verarbeitet wurde, werden Ihnen beim nächsten Mal, wenn Sie diesen technischen Vorteil erweitern, Details zur **Zugriffs-ID** und **Vertrags-ID** angezeigt. Sie oder die Benutzer in Ihrem Unternehmen müssen diese Informationen möglicherweise angeben, wenn zum ersten Mal eine Supportanfrage für bestimmte Arten von Produkten oder Diensten übermittelt wird.
 
-4. Nach der Aktivierung können Sie technische Vorteile für verschiedene Arten von technischem Support nutzen. Wenn Sie technische Supportanfragen für die folgenden Arten von Diensten einreichen möchten, lesen Sie die ausführlichen Anweisungen auf der Seite „Technische Vorteile“:
+4. Nach der Aktivierung können Sie technische Vorteile für verschiedene Arten von technischem Support nutzen. Wenn Sie technische Supportanfragen für die folgenden Dienste übermitteln möchten, lesen Sie die ausführlichen Anweisungen auf der Seite „Technische Vorteile“. Nachfolgend finden Sie ebenfalls hilfreiche Informationen.
 
-   - Anfordern von Support für Cloudprodukte im Auftrag Ihres Kunden
-   - Anfordern von Support für lokale Produkte
-   - Anfordern von technischen Vorverkauf- und Bereitstellungsdiensten oder [Beratungsstunden](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)
+   Auf der Seite mit den technischen Vorteilen im Partner Center werden die folgenden Arten von technischem Support beschrieben:
 
+   **Technischer Support (Break-Fix)** : Nutzen Sie diesen technischen Support, wenn Funktionen beeinträchtigt sind oder nicht erwartungsgemäß funktionieren (wenn beispielsweise eine Fehlermeldung ausgegeben wird). Hier einige Erläuterungen:
+
+   - Nur für Gold-/Silver-Kompetenzpartner (nicht für Action Pack-Abonnenten verfügbar). Nutzen Sie **Signature Product Support** für **Cloudprodukte**.
+
+   - Sowohl für Action Pack-Abonnenten als auch für Gold-/Silver-Kompetenzpartner. Nutzen Sie **Microsoft-Produktsupport**-Incidents für **aktuelle lokale Produkte** (nur derzeit gültige und Vorgängerversionen).
+
+     >[!NOTE]
+     > Für technische Supportanfragen im Zusammenhang mit lokalen, Azure- (nicht CSP) und Dynamics-Produkten sind Zugriffs-ID und Vertrags-ID erforderlich. Um zukünftig Ihre Zugriffs-ID und Vertrags-ID zu ermitteln, können Sie sich auch im Thema zu [Ihren Vorteilen](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits) informieren.
+  
+   **Technische Dienste vor dem Verkauf und für die Bereitstellung**:  Nutzen Sie diesen Support, wenn Sie Beratungsleistungen rund um den technischen Vertrieb oder die technische Bereitstellung benötigen. Diese Dienste können direkt im [Partner Center](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest) angefordert werden.
+
+   - Nutzen Sie für Action Pack-Abonnements und Gold-/Silver-Kompetenzpartner **Technische Dienste vor dem Verkauf und für die Bereitstellung** für Cloud- und Hybridlösungen.
+  
 ## <a name="manage-go-to-market-offers"></a>Verwalten von Markteinführungsangeboten
 
 **Geeignete Rollen zum Ausführen dieser Aufgabe:**

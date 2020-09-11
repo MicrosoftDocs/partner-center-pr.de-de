@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3feb4e678381b6fa5398bf3b3d89f6e4286e6ff1
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 2e8608c194057ea811890c9c575f8964b63564f0
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040766"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490598"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern im Unternehmen, die im Partner Center arbeiten müssen
 
@@ -35,25 +35,24 @@ Wie Ihre Benutzer auf das Partner Center zugreifen können, bestimmen Sie über 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Verwalten kommerzieller Transaktionen im Partner Center (Azure AD- und CSP-Rollen)
 
-|**Rolle**|**Funktionsumfang**|
-|----------------------------------|:---------------------------------|
-|Globaler Administrator|* Zugriff auf alle Microsoft-Konten/-Dienste mit allen Berechtigungen
+|**Rolle**|**Funktionsumfang**|**Weitere Informationen**|
+|----------------------------------|---|:---------------------------------|
+|Globaler Administrator|* Zugriff auf alle Microsoft-Konten/-Dienste mit allen Berechtigungen|[Verwalten des Partner Center-Kontos](partner-center-account-setup.md)
 |      |* Erstellen von Supporttickets für das Partner Center
 ||* Anzeigen erstellter Partnersupporttickets
 ||* Anzeigen von Vereinbarungen, Preislisten und Angeboten
 ||* Anzeigen, Erstellen und Verwalten von Partnerbenutzern|
 ||  Anzeigen, Erstellen und Verwalten der Abrechnung, von Rechnungen und Kontenabstimmungsdateien
-|Benutzerverwaltungsadministrator   | * Anzeigen, Erstellen und Verwalten von Benutzern
+|Benutzerverwaltungsadministrator   | * Anzeigen, Erstellen und Verwalten von Benutzern|[Verwalten von Microsoft Partner Network-Mitgliedschaftsvorteilen und -Angeboten im Partner Center](manage-your-partner-network-benefits.md)
 ||* Anzeigen aller Partnerprofile
-||* Anzeigen, Erstellen und Verwalten von Partnerbenutzern  |
 ||* Erstellen von Supporttickets für das Partner Center
 ||* Anzeigen erstellter Partnersupporttickets
-|Abrechnungsadministrator | • Anzeigen, Erstellen und Verwalten der Abrechnung, von Rechnungen und Kontenabstimmungsdateien|
+|Abrechnungsadministrator | • Anzeigen, Erstellen und Verwalten der Abrechnung, von Rechnungen und Kontenabstimmungsdateien|[Lesen Ihrer Rechnung](billing.md)
 ||* Anzeigen von Preisen
 ||* Erstellen von Supporttickets für das Partner Center
 ||* Anzeigen erstellter Partnersupporttickets
-|Standardbenutzer|  Anzeigen des eigenen Profils   |
-|Administrator-Agent | * Kundenverwaltung
+|Standardbenutzer|  Anzeigen des eigenen Profils   |[Zurücksetzen Ihres Kennworts](reset-my-pasword.md)
+|Administrator-Agent | * Kundenverwaltung|[Einrichtung und Verwaltung von Kundenkonten für Handelspartner im Partner Center](customer-accounts.md)
 ||* Hinzufügen einer Geräteliste zum Partner Center
 ||* Erstellen und Anwenden von Profilen auf Geräte
 ||* Abonnementverwaltung
@@ -65,7 +64,7 @@ Wie Ihre Benutzer auf das Partner Center zugreifen können, bestimmen Sie über 
 ||* Registrieren eines Vertragshändlers
 ||* Erstellen von Supporttickets für das Partner Center
 ||* Anzeigen erstellter Partnersupporttickets|
-|Vertriebsbeauftragter | * Kundenverwaltung
+|Vertriebsbeauftragter | * Kundenverwaltung|[Bereitstellen von Abrechnungssupport für Kunden und Beantworten von Fragen zur Abrechnung](provide-billing-support.md)
 ||* Hinzufügen einer Geräteliste zum Partner Center
 ||* Abonnementverwaltung
 ||* Anzeigen von Supporttickets
@@ -76,7 +75,7 @@ Wie Ihre Benutzer auf das Partner Center zugreifen können, bestimmen Sie über 
 ||* Registrieren eines Vertragshändlers
 ||* Erstellen von Supporttickets für das Partner Center
 ||* Anzeigen erstellter Partnersupporttickets|
-|Helpdesk-Agent| * Suchen und Anzeigen von Kunden
+|Helpdesk-Agent| * Suchen und Anzeigen von Kunden|[Eskalieren von Problemen an Microsoft und Bestimmen, welche Probleme besser für die Eskalation an Microsoft geeignet sind](escalate-problems-to-microsoft.md)
 ||* Bearbeiten von Kundendetails
 ||* Unterstützen von Kunden beim Lösen von Problemen mit der Abrechnung oder der Abonnementverwaltung
 ||* Anfordern von Support für Kunden 
@@ -87,9 +86,9 @@ Wie Ihre Benutzer auf das Partner Center zugreifen können, bestimmen Sie über 
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>CPV (Control Panel Vendor, CSP- und Nicht-AAD-Rolle)
 CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provider), damit diese ihre Systeme mit Partner Center-APIs integrieren können. 
 
-|**Rolle**   |**Funktionsumfang**|
-|------------------------------|:----------------------------|
-|Globaler Administrator| Anzeigen und Verwalten Ihres CPV-Profils|
+|**Rolle**   |**Funktionsumfang**|**Weitere Informationen**|
+|------------------------------|:----------------------------|----|
+|Globaler Administrator| Anzeigen und Verwalten Ihres CPV-Profils|[Registrieren als Control Panel Vendor, um die Integration von CSP-Partnersystemen in Partner Center-APIs zu unterstützen](enroll-as-cpv.md)
 ||Anzeigen und Verwalten der Benutzer, die Zugriff auf CPV Funktionen benötigen|
 
 ### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>Gastbenutzer (muss dem AAD-Mandanten hinzugefügt werden)
@@ -105,9 +104,9 @@ CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provi
 
 ## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>Verwalten der MPN-Mitgliedschaft und Ihres Unternehmens (Nicht-AAD-Rollen, die zur Verwaltung auf Unternehmens- statt auf Mandantenebene verwendet werden)
 
-|**Rolle** | **Funktionsumfang**|
-|----------------------------|:----------------------------|
-|MPN-Partneradministrator|* Anzeigen, Erstellen und Verwalten von Serviceanfragen von Partnern||
+|**Rolle** | **Funktionsumfang**|**Weitere Informationen**|
+|----------------------------|:----------------------------|-----|
+|MPN-Partneradministrator|* Anzeigen, Erstellen und Verwalten von Serviceanfragen von Partnern|[Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements oder der Silver- und Gold-Kompetenzen](mpn-get-action-pack.md)
 ||* Anzeigen von rechtlichen, unternehmerischen, geschäftlichen und MPN-Profilen
 ||* Anzeigen der Daten und Qualifikationen von Benutzern
 ||* Anzeigen von Kompetenzen
@@ -120,7 +119,7 @@ CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provi
 ||* Anzeigen der Rollen anderer Benutzer im Unternehmen, kann jedoch seinerseits keine Rollen zuweisen
 ||* Erstellen von Supporttickets für das Partner Center
 ||* Anzeigen erstellter Partnersupporttickets
-|Kontoadministrator| Hinzufügen von Speicherorten
+|Kontoadministrator| Hinzufügen von Speicherorten|[Standorte verwalten](manage-locations.md)
 || • Verwalten von Profilen, die im Zusammenhang mit den Konten stehen, für die Sie Administrator sind 
 ||* Zuweisen von Rollen für Benutzer im Mandanten zu Nicht-AAD-Rollen 
 ||* Registrieren von Standorten in Programmen
@@ -130,22 +129,22 @@ CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provi
 
 ## <a name="manage-referrals"></a>Verwalten von Empfehlungen 
 
-|**Rolle**|**Funktionsumfang**|
-|-----------------------------|:------------------------|
-|Empfehlungsadministrator       |* Anzeigen, Erstellen und Verwalten von Geschäftsprofilen
+|**Rolle**|**Funktionsumfang**|**Weitere Informationen**|
+|-----------------------------|:------------------------|---|
+|Empfehlungsadministrator       |* Anzeigen, Erstellen und Verwalten von Geschäftsprofilen|[Verwalten verschiedener Leads wie Kundenanfragen, durch Marketing qualifizierte Leads und durch den Vertrieb qualifizierte Leads](manage-leads.md)
 ||* Empfangen und Verwalten von Empfehlungen
 ||* Anzeigen, Erstellen und Verwalten von Co-Selling-Empfehlungen|
 ||* Anzeigen, Erstellen und Verwalten von Serviceanfragen von Partnern
-|Unternehmensprofiladministrator   |* Anzeigen, Erstellen und Verwalten des Geschäftsprofils 
+|Unternehmensprofiladministrator   |* Anzeigen, Erstellen und Verwalten des Geschäftsprofils |[Erstellen eines Unternehmensprofils](create-a-marketing-profile.md)
 ||* Anzeigen, Erstellen und Verwalten von Serviceanfragen von Partnern
 ||* Erstellen von Supporttickets für das Partner Center
 ||* Anzeigen erstellter Partnersupporttickets|
 
 ## <a name="manage-incentives"></a>Verwalten von Incentives 
 
-|**Rolle** | **Funktionsumfang**|
-|------------------------------|:-------------------------|
-|Incentiveadministrator|* Initiieren und Verwalten von Incentives 
+|**Rolle** | **Funktionsumfang**|**Weitere Informationen**
+|------------------------------|:-------------------------|---|
+|Incentiveadministrator|* Initiieren und Verwalten von Incentives |[Hilfreiche Ressourcen für den Einstieg in Incentives](incentives-get-started-intro.md)
 ||* Anzeigen und Bearbeiten aller Aspekte von Incentiveprogrammen
 ||* Anzeigen und Bearbeiten von Bank- und Steuerdaten
 ||* Anzeigen von Rabatten und Co-Op-Erträgen
@@ -159,12 +158,15 @@ CPVs entwickeln Apps für die Verwendung durch CSP-Partner (Cloud Solution Provi
 
 ## <a name="view-partner-center-insights-data"></a>Anzeigen aussagekräftiger Daten zum Partner Center
 
-|**Rolle** | **Funktionsumfang**|
-|------------------------------|:-------------------------|
-|Executive Report-Leser|Zugriff auf alle Berichtsdatasets, Erstellen von Partnersupporttickets, Anzeigen erstellter Partnersupporttickets|
+|**Rolle** | **Funktionsumfang**|**Weitere Informationen**|
+|------------------------------|:-------------------------|---|
+|Executive Report-Leser|Zugriff auf alle Berichtsdatasets, Erstellen von Partnersupporttickets, Anzeigen erstellter Partnersupporttickets|[Partner Center-Einblicke – Berichte im Dashboard „Übersicht“](pci-overview-report.md)
 |Berichtleser|Zugriff auf Datenberichte mit Ausnahme von Umsatz-, Kunden- und personenbezogenen Mitarbeiterdaten, Erstellen von Partnersupporttickets, Anzeigen erstellter Partnersupporttickets|
 
+## <a name="next-steps"></a>Nächste Schritte
 
+- [Erstellen von Benutzerkonten und Zuweisen von Rollen und Berechtigungen](create-user-accounts-and-set-permissions.md)
+- [Überprüfen der Kontoinformationen bei der Registrierung für ein neues Partner Center-Programm](verification-responses.md)
 
 
 

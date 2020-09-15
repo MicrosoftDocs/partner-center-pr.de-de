@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 936a1ec026ce502037d419874a169d3afdca5472
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 8fa06bb0aaecb5f2564c2baab9d7a2c6ac6f0f1d
+ms.sourcegitcommit: 3502f32da07a3db8b865d7f32416eeb8cfd5502c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490658"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90082518"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Leitfaden zum Co-Selling im Partner Center (PC) für Partner, die von Partner Sales Connect (PSC) migrieren
 
@@ -44,6 +44,9 @@ Wie Sie wissen, verliert Ihr Unternehmen den Zugriff auf den PSC-Beitrag am 31. 
 - Lesen Sie dieses Dokument, um zu erfahren, wie Sie im Partner Center mitverkaufen.
 - Richten Sie Benutzerkonten im Partner Center für alle Ihre PSC-Benutzer (Administrator, Manager-und Verkäufer Rollen) ein, und weisen Sie Ihnen [Verweis Administrator Rollen](https://docs.microsoft.com/partner-center/permissions-overview)zu.
 
+>[!Important]
+> Stellen Sie sicher, dass die im PSC-Banner angezeigte MPN-ID in der Liste der MPN-Standorte im Partner Center verfügbar ist. Sie können überprüfen, ob Sie in Partner Center zu den Kontoeinstellungen und- [Standorten](https://docs.microsoft.com/partner-center/manage-locations) navigieren, um die Liste aller dem Partner Center-Konto zugeordneten mpns zu finden.
+
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Wenn Sie PSC-Deal-Manager oder Verkäufer sind
 
 - Sie benötigen eine geschäftliche e-Mail-Adresse für die Anmeldung bei [Partner Center](https://partner.microsoft.com/).
@@ -61,7 +64,7 @@ Wenn die Registerkarte Verweise nicht angezeigt wird:
 >[!Important]
 > Wenn Ihre Rolle nur Benutzer im PSC verwaltet, können Sie die [Konto Administrator](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) Rolle im Partner Center erhalten. Wenn Ihre Rolle auch die Verwaltung von Co-Selling-Verkaufschancen umfasst, sollten Sie die Administrator Rolle " [referenrals](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) " erhalten. Außerdem sollten Sie einen Change Management für die PSC-Administratoren treffen, damit Sie mit dem Partner Center-Konto Administrator zusammenarbeiten können, anstatt alle PSC-Administratoren, die sich einzeln an die Konto Administratoren des PCs wenden.
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Bild, das die Konto Administratoren auf der Seite Partner Einstellungen Benutzerverwaltung anzeigt.":::
+ :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Bild, das die Konto Administratoren auf der Seite "Partner Einstellungen Benutzerverwaltung" anzeigt.":::
 
 - Wechseln Sie im linken Navigationsbereich zur Registerkarte Verweise, und überprüfen Sie, ob Sie auf die Seiten zugreifen können.
 
@@ -123,7 +126,7 @@ In diesem Abschnitt wird die exakte Zuordnung von Attributen zwischen PSC und Pa
 - Die Rolle "Geschäft" ist kein Pflichtfeld im PC. Sie wird weder in einem der Workflows angezeigt noch aufgezeichnet. Es wird automatisch auf der Seite des Microsoft-Verkäufers basierend auf den Lösungen abgeleitet, die dem Geschäft hinzugefügt werden.
 - Das Datum der letzten Änderung wird nicht auf der Seite mit den Verweis Details auf dem PC angezeigt. Partner können die Sortierungs Funktionen verwenden, um die Geschäfte basierend auf dem Datum der letzten Aktualisierung zu sortieren.
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Ansicht Partner Sales Connect (PSC) und der Partner Center-Ansicht.":::
+ :::image type="content" source="images/pscmigration/gridview.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Ansicht "Partner Sales Connect" (PSC) und der Partner Center-Ansicht.":::
 
 **Detailansicht im PSC und Partner Center**
 
@@ -144,7 +147,7 @@ In diesem Abschnitt wird die exakte Zuordnung von Attributen zwischen PSC und Pa
 
 **Benutzerverwaltung in PSC und Partner Center**
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Partner Sales Connect (PSC)-Startseite und der Partner Center-Benutzerverwaltung in der Ansicht Kontoeinstellungen.":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Partner Sales Connect (PSC)-Startseite und der Partner Center-Benutzerverwaltung in der Ansicht "Kontoeinstellungen".":::
 
 **Benutzer Rollenzuweisung in PSC und Partner Center**
 

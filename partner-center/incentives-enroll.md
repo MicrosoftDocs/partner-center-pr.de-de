@@ -1,21 +1,21 @@
 ---
-title: Für das Incentives-Programm registrieren
+title: Einschreibungs Registrierung
 ms.topic: how-to
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 description: Registrieren Sie sich für das Programm "Incentives", und weisen Sie die erforderlichen Rollen für die Benutzerverwaltung zu.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 65d62f20daef625a9871fe121d04ed3dcdd1b472
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 7f86b59708ab26a5ef02a952f34ef3558af097af
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220598"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714444"
 ---
-# <a name="enroll-in-the-incentives-program"></a>Für das Incentives-Programm registrieren
+# <a name="enrollment-and-user-management-in-the-incentives-program"></a>Registrierung und Benutzerverwaltung im Incentives-Programm
 
 **Gilt für:**
 
@@ -55,4 +55,4 @@ Die Registrierung von Incentives läuft am Ende des Geschäftsjahrs ab. Solange 
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Ermitteln Ihrer Programmberechtigung](incentives-determined-your-program-eligibility.md)
+- [Ermitteln der Programmberechtigung](incentives-determined-your-program-eligibility.md)

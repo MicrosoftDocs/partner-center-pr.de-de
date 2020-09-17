@@ -1,7 +1,7 @@
 ---
 title: Incentives-Co-Op-Ansprüche
 ms.topic: article
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Erfahren Sie, wie Sie einen erfolgreichen Co-op-Anspruch für ihre Anreize übermitteln, indem Sie die richtige Dokumentation, Rechnungen, Anweisungen und den Ausführungs Nachweis organisieren.
@@ -9,14 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 78c9d9b0150e936afc0d90ffc16d90a1334cbaba
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 0b8416281bcb8afd4e5166104df0710df100901b
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220678"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714304"
 ---
-# <a name="incentives-co-op-claims-overview"></a>Übersicht über Incentives-Co-Op-Ansprüche
+# <a name="overview-of-incentives-co-op-claims"></a>Übersicht über die Anreize für Co-op-Ansprüche
 
 **Zielgruppe**
 

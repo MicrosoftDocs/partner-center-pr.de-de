@@ -7,15 +7,15 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: 76bf9cf147c27a562962dcff3baa0ff34cf959b2
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: 82c45a1edcc19dc26dfefff88f59c598ab9bc6ea
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220778"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714384"
 ---
-# <a name="prepare-your-proof-of-execution"></a>Vorbereiten Ihres Ausführungsnachweises
+# <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Erstellen und Übermitteln von Dokumenten für Ihren Incentive-Ausführungs Nachweis (PoE)
 
 **Gilt für:**
 
@@ -45,7 +45,7 @@ Bevor Sie für Ihre Incentives bezahlt werden, müssen Sie einen detaillierten A
    - **Datum**  Das Ausführungs Datum. Dieses Datum muss zwischen dem Startdatum und dem Enddatum der Kampagne liegen.
    - **Betrag**  Der Betrag des Co-op-Anspruchs.
 
-7. Klicken Sie auf **Speichern**.
+7. Wählen Sie **Speichern** aus.
 
 8. Geben Sie auf der Seite **Neuer Anspruch der Ausführungs** Prüfung die erforderlichen Felder ein.
 

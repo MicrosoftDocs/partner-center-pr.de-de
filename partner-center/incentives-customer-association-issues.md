@@ -7,15 +7,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: 8b1ab61422dd6583a66c6968ac202403e64cdd4e
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: ab2c26cf097d6212375382cadd9ac5f4f80b5c2a
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220618"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714474"
 ---
-# <a name="incentives-customer-association-issues"></a>Incentives: Probleme bei der Kundenzuordnung
+# <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Probleme mit den beanspruchten Kunden Zuordnungen von Partner of Record (cpor)
 
 **Gilt für:**
 
@@ -62,9 +62,9 @@ Die cpor-Plattform, die die Plattform beansprucht, ermöglicht cpor-Zuordnungs A
 | Lösungsbereich | Aktivität | Anwendbar für |
 | ------ | ----------- | ----------- |
 | Geschäftsanwendungen      | Presales   | Wählen Sie diese Option aus, wenn Sie den Erwerb eines berechtigten Produkts beeinflusst haben und sich für die vorab Verkaufsanreize bewerben möchten. Diese Option ist nur anwendbar, wenn der Kunde diese Produkte über einen Volumenlizenzvertrag oder über Web-Direct erworben hat. |
-|    |  Verwendung  | Wählen Sie diese Option aus, wenn Sie die Übernahme und Nutzung einer berechtigten Arbeitsauslastung fördern und für Nutzungs Anreize verwenden möchten. Diese Option ist nur anwendbar, wenn der Kunde diese Produkte über einen Volumenlizenzvertrag oder über Web-Direct erworben hat. |
+|    |  Verbrauch  | Wählen Sie diese Option aus, wenn Sie die Übernahme und Nutzung einer berechtigten Arbeitsauslastung fördern und für Nutzungs Anreize verwenden möchten. Diese Option ist nur anwendbar, wenn der Kunde diese Produkte über einen Volumenlizenzvertrag oder über Web-Direct erworben hat. |
 |    | Umsatz Zuordnung   | Wählen Sie diese Option aus, wenn Sie die Auswahl eines berechtigten Produkts als geschäftliche Einflussfaktoren beeinflusst haben. Diese Option gilt nur für die Umsatz Zuweisung, nicht für Incentive-Zahlungen. Diese Option ist nur anwendbar, wenn der Kunde diese Produkte über einen Volumenlizenzvertrag oder über Web-Direct erworben hat.   |
-| Microsoft 365   | Verwendung   | Wählen Sie diese Option aus, wenn Sie die Übernahme und Nutzung einer berechtigten Arbeitsauslastung fördern und für Nutzungs Anreize verwenden möchten. |
+| Microsoft 365   | Verbrauch   | Wählen Sie diese Option aus, wenn Sie die Übernahme und Nutzung einer berechtigten Arbeitsauslastung fördern und für Nutzungs Anreize verwenden möchten. |
 
 ## <a name="which-mpn-do-i-choose"></a>Welches MPN wähle ich aus?
 

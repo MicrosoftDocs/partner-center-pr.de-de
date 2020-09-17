@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: acbe2e22f1295a881ef064e0e6ff018c9b98eb95
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: c40af7e33e190b86e29b3a392dcc7df805d729b3
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89274988"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614133"
 ---
 # <a name="august-2020-announcements"></a>Ankündigungen für August 2020
 
@@ -46,7 +46,7 @@ Microsoft setzt auf Vertrauen, und wir haben uns verpflichtet, eine kompatible u
 
 #### <a name="testing"></a>Testen
 
-Partner können diese Verbesserungen ab Oktober testen. Wir empfehlen Ihnen dringend, diese Gelegenheit zu nutzen, um sich mit den APIs und der Dateneingabe vertraut zu machen, die für eine erfolgreiche Kundenüberprüfung erforderlich sind. Wir werden Ihnen in Kürze weitere Informationen zum genauen Zeitpunkt und zur Teilnahme bekanntgeben. Die vorhandenen Partner Center-APIs werden vor Ende des zweiten Quartals des Geschäftsjahres (FY21 Q2) eingestellt. Ab diesem Zeitpunkt müssen alle Partner die neuen Partner Center-APIs verwenden.
+Partner können diese Verbesserungen ab Oktober testen. Wir empfehlen Ihnen dringend, diese Gelegenheit zu nutzen, um sich mit den APIs und der Dateneingabe vertraut zu machen, die für eine erfolgreiche Kundenüberprüfung erforderlich sind. Wir werden Ihnen in Kürze weitere Informationen zum genauen Zeitpunkt und zur Teilnahme bekannt geben. Die vorhandenen Partner Center-APIs werden vor Ende des zweiten Quartals des Geschäftsjahres (FY21 Q2) eingestellt. Ab diesem Zeitpunkt müssen alle Partner die neuen Partner Center-APIs verwenden.
 
 #### <a name="library-and-museum-customers"></a>Kunden im Bereich Bibliotheken und Museen
 
@@ -125,18 +125,18 @@ Partner, die Onlinedienste an Gewerbekunden verkaufen
 
 ### <a name="details"></a>Details
 
-[Im letzten Jahr](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) haben wir Sie informiert, dass Microsoft Einzelpersonen und Teams ermöglicht, ausgewählte Dienste direkt zu kaufen. Heute kündigen wir an, dass Funktionen für Self-Service-Käufe in Kürze für Microsoft Project- und Microsoft Visio-Produkte verfügbar sein werden. Ab 15. September 2020 können Einzelpersonen weltweit Abonnements für die folgenden Produkte über Self-Service-Käufe erwerben:
+[Im letzten Jahr](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) haben wir Sie informiert, dass Microsoft Einzelpersonen und Teams ermöglicht, ausgewählte Dienste direkt zu kaufen. Heute kündigen wir an, dass in Kürze Funktionen für Self-Service-Käufe für Microsoft Project- und Microsoft Visio-Produkte verfügbar sind. Ab 15. September 2020 können Einzelpersonen weltweit Abonnements für die folgenden Produkte über Self-Service-Käufe erwerben:
 
 - [Visio Plan 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) und [Visio Plan 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
 - [Project Plan 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) und [Project Plan 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
 
-**Hinweis:** Self-Service-Kauf-Funktionen sind nicht verfügbar in Indien oder für Kunden, die berechtigt sind, Government- oder Education-Angebote in Anspruch zu nehmen.
+**Hinweis:** Funktionen für Self-Service-Käufe sind in Indien oder für Kunden, die berechtigt sind, Government- oder Education-Angebote in Anspruch zu nehmen, nicht verfügbar.
 
 #### <a name="partner-benefits"></a>Partnervorteile
 
 Sie können Ihre Dienste Einzelpersonen und Teams anbieten, ohne den zentralisierten IT-Beschaffungsprozess durchlaufen zu müssen, um die erforderlichen Lizenzen zu erhalten. Ihre Dienste können Project und Visio umfassen, basierend auf Integrationsszenarien mit Microsoft 365 und Power Platform. 
 
-Erfahren Sie mehr über Partnermöglichkeiten mit Visio- und Power Platform-Lösungen in der Microsoft Inspire-Sitzung [Rebuild and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform) (Neue Wege für Unternehmen mit Microsoft Visio und Power Platform). Weitere Informationen finden Sie im [Self-Service-Administratorhandbuch](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide).
+Erfahren Sie mehr über Partnermöglichkeiten mit Visio- und Power Platform-Lösungen in der Microsoft Inspire-Sitzung [Rebuild and reimagine business with Microsoft Visio and Power Platform](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform) (Neue Wege für Unternehmen mit Microsoft Visio und Power Platform). Weitere Informationen finden Sie im [Self-Service-Administratorhandbuch](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins).
 
 #### <a name="additional-resources"></a>Zusätzliche Ressourcen
 

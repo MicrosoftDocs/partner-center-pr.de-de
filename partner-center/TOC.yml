@@ -203,54 +203,72 @@
       items:
         - name: Erste Schritte mit Incentives
           items:
-            - name: Häufig gestellte Fragen
+            - name: Häufig gestellte Fragen zu Incentives
               href: incentives-faq.md
-            - name: Erste Schritte
+            - name: Erste Schritte mit Incentives
               href: incentives-get-started-intro.md
-            - name: Für das Incentives-Programm registrieren
+            - name: "Die 10\_wichtigsten Merkmale von Incentives"
+              href: incentives-ten-essentials.md
+            - name: Registrieren für Incentives
               href: incentives-enroll.md
-            - name: Ermitteln Ihrer Programmberechtigung
+            - name: Überprüfen der Berechtigung für das Programm
               href: incentives-determined-your-program-eligibility.md
-            - name: Erstellen und Verwalten von Auszahlungs- und Steuerprofilen im Partner Center
+              displayName: incentives
+            - name: Grundlegendes zu Auszahlungen und Steuerprofilen
               href: incentives-create-and-manage-your-payout-and-tax-profiles.md
-            - name: Häufig gestellte Fragen zu den Incentivezahlungen und Steuerprofilen
+              displayName: incentives
+            - name: Häufig gestellte Fragen zu Auszahlungen und Steuerprofilen
               href: incentives-payout-tax-profile-faqs.md
-            - name: Bestätigen Ihrer Einnahmeberechtigung
+              displayName: incentives
+            - name: Überprüfen der Einnahmeberechtigung
               href: incentives-confirm-your-earnings-eligibility.md
-            - name: Anzeigen Ihrer Incentivezahlungen und -programme
+              displayName: incentives
+            - name: Anzeigen von Zahlungen und Programmen
               href: understand-incentive-payouts.md
-            - name: Zugriff auf die Seite für Anreizauszahlungen
+              displayName: incentives
+            - name: Zugreifen auf Ihre Auszahlungsseite
               href: incentives-unified-user-guide.md
+              displayName: incentives
         - name: Pläne und Ausführungsnachweise
           items:
-            - name: Informationen zu Plänen und PoE
+            - name: Grundlegendes zu Plänen und Ausführungsnachweisen
               href: incentives-plans-proofs-intro.md
+              displayName: 'incentives, proof of execution, proofs of execution'
             - name: Erstellen Ihres Plans
               href: incentives-create-your-plan.md
-            - name: Vorbereiten Ihres Ausführungsnachweises
+              displayName: incentives
+            - name: Erstellen Ihres Ausführungsnachweises
               href: incentives-prepare-your-proof-of-execution.md
+              displayName: incentives
         - name: Incentives-Co-Op-Ansprüche
           items:
-            - name: Informationen zu Co-Op-Ansprüchen
+            - name: Incentive-Co-Op-Ansprüche
               href: claims-overview.md
-            - name: Erstellen und Verwalten von Incentives-Co-Op-Ansprüchen
+              displayName: incentives
+            - name: Verwalten von Co-Op-Ansprüchen
               href: create-incentives-claims.md
-            - name: Grundlegende Anforderungen für Incentives-Co-Op-Ansprüche
+              displayName: incentives
+            - name: Anzeigen grundlegender Anforderungen
               href: core-requirements.md
-            - name: Genehmigungs- und Zahlungsfristen für Co-Op-Ansprüche
+              displayName: incentives
+            - name: Genehmigung und Fristen für Co-Op-Ansprüche
               href: incentives-managing-co-op-claims.md
+              displayName: incentives
         - name: CPOR-Zuordnung für Incentiveansprüche
           items:
-            - name: Informationen zu CPOR-Zuordnungen
+            - name: Grundlegendes zu CPOR-Zuordnungen
               href: incentives-customer-associations-intro.md
-            - name: Erstellen einer Kundenzuordnung mithilfe des CPOR-Modells
+            - name: Erstellen einer Kundenzuordnung
               href: submit-osa-claim.md
             - name: Verwalten von Kundenzuordnungen
               href: incentives-manage-customer-associations.md
+              displayName: incentives
             - name: Probleme bei der Kundenzuordnung
               href: incentives-customer-association-issues.md
+              displayName: incentives
         - name: Problembehandlung bei Zahlungen und Einnahmen
           href: incentives-payment-issues.md
+          displayName: incentives
 - name: Abrechnung und Steuern
   href: billing.md
   items:
@@ -536,6 +554,8 @@
   items:
     - name: Ressourcen zu „Lizenzierung“
       href: support-resources-licensing.md
+    - name: Suchen von IDs und Domänennamen
+      href: find-ids-and-domain-names.md
 - name: Sicherheitsanforderungen
   items:
     - name: Übersicht

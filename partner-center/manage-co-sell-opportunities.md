@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edbd1e8395e1ecad759666a2c2acd3653e8ff28c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 631667f521825697a7b16b0db40cb5dd4610e636
+ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714374"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90848238"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Verwalten von Co-Selling-Verkaufschancen in Partner Center zum Definieren von Geschäften und besseren Erfüllung der Kundenanforderungen
 
@@ -95,6 +95,9 @@ Nachdem Sie die Lösungs Informationen bereitgestellt haben, klicken Sie auf Wei
 
 **Privates Geschäft**: Wenn Sie Microsoft nicht einladen und in diesem Schritt eine Einbindung erstellen, ist es vom Typ private Pipeline. Microsoft-Verkäufer haben keinen Einblick in die Details dieses Deals.
 
+> [!Important]
+> Die Registrierung von Deals ist für private Geschäfte nicht anwendbar. Seien Sie vorsichtig, wenn Sie ein privates Geschäft mit berechtigten Lösungen erstellen, da diese nicht für die Registrierung in Partner Center qualifiziert sind.
+
 **Co-Selling-Vertrag:** Wenn Sie eine andere Option als die Standardauswahl für die Frage **"ermitteln Sie die Art der von Microsoft gewünschten Hilfe**" auswählen, wird ein Co-Selling-Deal durchgeführt, bei dem ein Microsoft-Verkäufer Ihnen möglicherweise bei der Schließung des Deals behilflich ist. Eine Anforderung der Hilfe von Microsoft ist keine Garantie dafür, dass ein Microsoft-Verkäufer an der Sache teilnehmen wird. Microsoft-Vertriebsmitarbeiter haben 14 Tage Zeit, um zu entscheiden, ob Sie teilnehmen möchten. Stellen Sie sicher, dass Sie im Abschnitt "Hinweise" den gewünschten Hilfe Typ identifizieren.
 
 **Partner-zu-Partner-Arbeit (P2P)**: Sie können andere Partner zur Arbeit einladen, indem Sie auf den Link "Partner einladen" klicken. Im folgenden wird der Prozess zum Erstellen eines P2P-Vorgangs erläutert.
@@ -133,9 +136,50 @@ Wenn Sie in dieser Phase einen neuen Co-Selling-Verkaufschancen von einem Micros
 
 ### <a name="accepted-stage"></a>Akzeptierte Phase
 
-Bemühen Sie sich, das Geschäft mit dem Kunden abzuschließen. Wenn Sie die Informationen ändern möchten, die Sie für eine akzeptierte Referenz angegeben haben, wählen Sie **Bearbeiten**aus. Anschließend können Sie den Namen, den geschätzten kauftermin, den geschätzten Wert, Notizen, die CRM-ID und/oder die Marketingkampagnen-ID aktualisieren.  Sie können auch die Option **Ihre Mitarbeiter hinzufügen** auswählen, um den Namen, die Telefonnummer und die e-Mail-Adressen aller weiteren Personen anzugeben, die an diesem Teil arbeiten. Projektmappen können auch basierend auf dem Kundenbedarf bearbeitet werden.
+Bemühen Sie sich, das Geschäft mit dem Kunden abzuschließen. Wenn Sie die Informationen ändern möchten, die Sie für eine akzeptierte Referenz angegeben haben, wählen Sie **Bearbeiten**aus. Anschließend können Sie den Namen, den geschätzten kauftermin, den geschätzten Wert, Notizen, die CRM-ID und/oder die Marketingkampagnen-ID aktualisieren.  Sie können auch **Team hinzufügen** auswählen, um den Namen, die Telefonnummer und die e-Mail-Adressen aller weiteren Personen anzugeben, die an diesem Teil arbeiten. Projektmappen können auch basierend auf dem Kundenbedarf bearbeitet werden.
 
 Alle von Ihnen erstellten Angebote sind standardmäßig in der angenommenen Phase enthalten.
+
+Nachdem Sie mit der Arbeit an diesem Vorgang begonnen haben, können Sie die Details des Fortschritts bereitstellen, indem Sie die Verkaufsphasen im Auftrags Lebenszyklus markieren. Es gibt vier Phasen im Lebenszyklus, abgesehen von der anfänglichen Annahme oder Erstellung und den letzten gewonnenen oder verlorenen Phasen, wie unten erwähnt. Die Angabe dieser Details ist optional, aber es wird dringend empfohlen, diese zu teilen, damit Sie von Microsoft-Vertriebsmitarbeitern bei einem Co-Selling-Deal eine angemessene Hilfe erhalten.
+
+:::image type="content" source="images/pscmigration/salesstage.png" alt-text="Bild, das den Lebenszyklus zeigt, in dem die Verkaufsphase gekennzeichnet werden kann.":::
+
+|**Name der Verkaufsphase**|**Prozentsatz der Verkaufsphase**|**Definition der Verkaufsphase**|
+|:----|:-----|:-----|
+|Erstellt|10 %|Erstellen eines ausgehenden Deals|
+|Akzeptiert|10 %|Akzeptieren eines eingehenden Deals.|
+|Qualified|20%|Qualifizieren Sie den Wert für das Geschäft und die Kundenanforderungen, bevor Sie fortfahren.|
+|Entstehen|40%|Entwickeln Sie das Problem weiter, um die detaillierten Anforderungen zum Vorbereiten eines POC-oder anderer Artefakte zu verstehen, die für einen formalen Vorschlag erforderlich sind.|
+|Proposed|60 %|Erstellen eines formalen Angebots für den Kunden basierend auf Ihren Anforderungen.|
+|Ausgehandelt|80 %|Aushandeln der endgültigen Bedingungen basierend auf dem Vorschlag, um zum Endzustand zu gelangen – Gewinn oder Verlust des Vertrags.|
+|Gewonnen|100 %|Markieren des Deals als gewonnen.|
+
+Wenn Sie fertig sind, können Sie eine der beiden Aktionen ausführen, bei denen das Ergebnis als " **gewinnt** " oder " **verloren** " markiert wird, um das Ergebnis zu melden.
+
+> [!Note]
+> Es ist nicht erforderlich, dass Ihr Unternehmen die gleichen Verkaufsphasen befolgt. Auf diese Weise erkennt Partner Center die Verkaufsphasen der Geschäfte und ordnet die Phasen Ihres Unternehmens automatisch diesen Standard Stufen zu, wenn Sie diese Werte mithilfe der API übergeben. Wenn Sie die Partner Center-Benutzeroberfläche verwenden, werden die in der Tabelle gezeigten Prozentsätze verwendet, um die Verkaufsphasen zu markieren.
+
+> [!Important]
+> Bei bestimmten berechtigten Lösungen werden Sie nach der Auswahl von "gewinnt" aufgefordert, zusätzliche Informationen zum Registrieren Ihres Deals bereitzustellen. Microsoft überprüft die hier von Ihnen bereitgestellten Informationen und kann während des Überprüfungsvorgangs weitere Details anfordern. Weitere Informationen finden Sie unter [Registrieren Ihrer Angebote](register-deals.md).
+
+Ein Problem kann nur dann für die Registrierung von Deals in Frage kommen, wenn es alle unten aufgeführten Kriterien erfüllt.
+
+1. Microsoft ist zur Sache eingeladen.
+2. Microsoft hat entweder die Einladung akzeptiert oder den Deal als gewonnen gekennzeichnet. Sie können den Microsoft-Status verstehen, indem Sie sich die Microsoft-Karte unter Ihren Details ansehen.
+3. Es gibt eine berechtigte Lösung für die Lösung.
+
+> [!Important]
+> Registrieren Sie den Teil nur dann, wenn der Name Ihres Unternehmens und die berechtigte Lösung im Vertrag eindeutig im Vertrag mit dem Kunden aufgeführt sind.
+
+Wenn der Vorgang für die Registrierung in Frage kommt, wird dem Lebenszyklus des Prozesses mit dem Namen "Umgang-Registrierung" ein zusätzlicher Meilenstein hinzugefügt, wie unten gezeigt.
+
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Das Image zeigt den Lebenszyklus, den Speicherort, von dem aus die Registrierung des Deals initiiert werden kann.":::
+
+Sie können den Teil sofort registrieren, nachdem Sie den Deal als gewonnen markiert haben, oder zu einem späteren Zeitpunkt über die Schaltfläche "Lebenszyklus **Registrierung registrieren** ".
+Sobald der Vorgang registriert ist, können Sie den Status der Überprüfung des Vorgangs vom gleichen Lebenszyklus aus anzeigen. Wenn Ihr Unternehmen eine Aktion erfordert, werden entsprechende Fehler in der Ansicht "Umgang mit Lebenszyklus" angezeigt. Der Vorgang wechselt in den Zustand "geschlossen", wenn die Überprüfung abgeschlossen ist.
+
+> [!Important]
+> Sowohl der Überprüfungs Status als auch der endgültige Überprüfungs Status sind nur für die IP-Co-Selling-Angebote anwendbar.
 
 ### <a name="combinations"></a>Nation
 
@@ -143,19 +187,14 @@ In der folgenden Tabelle werden die Kombinationen von, die in dieser Phase des D
 
 |**Ursprünglicher Typ**|**Wer kann eingeladen werden?**|**Hinweise**|
 |-----|:-----|:-----|
-|Private|Microsoft und/oder andere Partner|Der Vorgang wird auf Co-Selling aktualisiert, wenn Microsoft eingeladen wird.|
+|Privat|Microsoft und/oder andere Partner|Der Vorgang wird auf Co-Selling aktualisiert, wenn Microsoft eingeladen wird.|
 |Co-Selling|Andere Partner|Andere Partner können nur eingeladen werden, wenn Ihr Unternehmen den Vertrag initiiert hat. Partner können auf der Registerkarte eingehend nicht zu den Abschlüssen eingeladen werden.|
 |Partner für Partner ohne Microsoft|Microsoft|Der Vorgang wird auf eine Co-Selling-Vereinbarung aktualisiert.|
 |Partner für Partner ohne Microsoft|Andere Partner||
 
-Wenn Sie fertig sind, können Sie eine der beiden Aktionen ausführen, die das Ergebnis als " **gewonnen** " **markieren, um das Ergebnis zu melden** , damit wir es entsprechend archivieren können.
+### <a name="closed-stage"></a>Geschlossene Phase
 
-> [!TIP]
-> Bei bestimmten berechtigten Lösungen werden Sie nach der Auswahl von "gewinnt" aufgefordert, zusätzliche Informationen zum Registrieren Ihres Deals bereitzustellen. Microsoft überprüft die hier von Ihnen bereitgestellten Informationen und kann während des Überprüfungsvorgangs weitere Details anfordern. Weitere Informationen finden Sie unter Registrieren Ihrer Angebote.
-
-### <a name="archived-stage"></a>Archivierte Phase
-
-Dies ist die letzte Phase für alle Verkaufschancen. Sie können alle Leads anzeigen, die sich in " **gewinnt", "verloren", "abgelehnt**" und " **abgelaufen** " im Archiv befinden. Es gibt keine Aktionen, die Sie in dieser Phase durchführen können.
+Dies ist die letzte Phase für alle Verkaufschancen. Sie können alle Geschäfte anzeigen, die sich in den Phasen "gewinnt", " **verloren", "abgelehnt**" und " **abgelaufen** " befinden. Es gibt keine Aktionen, die Sie in dieser Phase durchführen können.
 
 ## <a name="frequently-asked-questions"></a>Häufig gestellte Fragen
 

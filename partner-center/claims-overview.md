@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 05ce007901baccd76228c55b7a846fc51718409d
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: a79ca29d3bf097d9248c596d54d21ea4222a62ab
+ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "90811298"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90848220"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Kooperative Marketing Gelder verdienen
 
@@ -51,14 +51,14 @@ Die Zeitachse für Co-op-Geld ist in Zeiträume von 2 6 Monaten (H1 und H2) unte
 
 Der Zeitraum von sechs Monaten, in dem Sie Ihre Einnahmen als Ergebnis erwerben, wird zu Ihrem **Verdienst**. Sie müssen diese Gewinne zu einem bestimmten Zeitpunkt innerhalb der folgenden sechsmonatigen **Nutzungsdauer**verwenden. Wenn Sie Ihre Einnahmen nicht bis zum Ende der Nutzungsdauer verwenden, werden Sie nicht mehr verwendet. Der Anspruchs **Zeitraum** ist der Zeitraum von sechs Monaten, in dem Sie die Rückerstattung für Ihre Incentive-Programmaktivitäten anfordern können.
 
-In der folgenden Tabelle sind die unterschiedlichen Zeiträume für die Inanspruchnahme, Nutzung und Inanspruchnahme aufgeführt. Zeiträume werden vom ersten Tag des ersten Monats bis zum letzten Tag des letzten Monats erweitert.
+In der folgenden Tabelle sind die unterschiedlichen Zeiträume für die Inanspruchnahme, Nutzung und Inanspruchnahme aufgeführt. Sofern nicht anders angegeben, werden Zeiträume vom ersten Tag des ersten Monats bis zum letzten Tag des letzten Monats verlängert.
 
 |  Wenn Ihr erverdienst/Ihr Zuordnungs Zeitraum  |Ihr Geschäfts Halbjahr ist  |  Der Verwendungs Zeitraum beträgt  |  Ihre Anspruch Frist ist  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**Juli, 2020**| FY20 H1  |  Jan-Juni 2021  |  Februar-2021  |
-|**Jan-Juni 2021** |  FY20 H2  |  Juli, 2021  |  Aug 2021-Jan 2022  |
-|**Juli, 2021**|  FY21 H1  |  Jan-Juni 2022  |  Februar-2022  |
-|**Jan-Juni 2022** |  FY21 H2  |  Juli, 2022  |  Aug 2022-Jan 2023  |
+|**Juli, 2020**| FY20 H1  |  Jan-Juni 2021  |  16. Feb. Aug 15 2021  |
+|**Jan-Juni 2021** |  FY20 H2  |  Juli, 2021  |  Aug 16 2021-Feb 15 2022  |
+|**Juli, 2021**|  FY21 H1  |  Jan-Juni 2022  |  16. Feb. Aug 15 2022  |
+|**Jan-Juni 2022** |  FY21 H2  |  Juli, 2022  |  Aug 16 2022-Feb 15 2023  |
 
 >[!NOTE]
 >Microsoft behält sich das Recht vor, die Original Prüfung der Ausführungs Prüfung (PoE) anzufordern. Sie sollten alle Ihre ursprünglichen Dokumente 24 Monate nach dem Aktivitäts Datum aufbewahren.

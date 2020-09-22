@@ -8,12 +8,12 @@ description: Synchronisieren Ihrer Verweise in Partner Center mit Dynamics 365 C
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 0071de30b47ee987be027b3586c1df9eef300b05
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 39fbeb4e180b24dc19f73b5381af8b8b481045f3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490668"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000494"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Co-Selling-Connector für Dynamics 365 CRM – Übersicht
 
@@ -28,12 +28,12 @@ Die Lösung basiert auf der Microsoft Power automatisieren-Lösung und verwendet
 
 ## <a name="before-you-install---pre-requisites"></a>Vor der Installation von-Pre-Requirements
 
-|**Sonder**   |**Details**   |**Links**   |
+|**Themen**   |**Details**   |**Links**   |
 |--------------|--------------------|------|
 |Microsoft Partner Network-ID |Sie benötigen eine gültige MPN-ID.|So fügen Sie [MPN](https://partner.microsoft.com/) an|
 |Cosell bereit|Ihre IP-/Dienst-Lösung muss für den Co-Selling bereit sein.|[Vertrieb mit Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Partner Center-Konto|Die MPN-ID, die dem Partner Center-Mandanten zugeordnet ist, muss mit der MPN-ID identisch sein, die ihrer Co-Selling-Lösung zugeordnet ist. Vergewissern Sie sich, dass Sie Ihre Co-Selling-Verweise im Partner Center-Portal sehen können, bevor Sie die Connectors bereitstellen.|[Verwalten Ihres Kontos](create-user-accounts-and-set-permissions.md)|
-|Partner Center-Benutzerrollen|Der Mitarbeiter, der die Connectors installieren und verwenden soll, muss ein Administrator sein.|[Zuweisen von Rollen und Berechtigungen zu Benutzern](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|Die CRM-Benutzerrolle ist Systemadministrator oder SystemCustomizer.|[Zuweisen von Rollen in Dynamics 365](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
+|Partner Center-Benutzerrollen|Der Mitarbeiter, der die Connectors installieren und verwenden soll, muss ein Administrator sein.|[Zuweisen von Rollen und Berechtigungen zu Benutzern](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|Die CRM-Benutzerrolle ist Systemadministrator oder SystemCustomizer.|[Zuweisen von Rollen in Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
 |Energie automatisierter Fluss Konto|Ein aktives, [Energie automatisierbares](https://flow.microsoft.com) Konto für den CRM-Systemadministrator oder den SystemCustomizer. Dieser Benutzer sollte sich mindestens einmal vor der Installation bei der [Strom Automatisierung](https://flow.microsoft.com) anmelden.|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Installieren der Partner Center-Synchronisierung für Dynamics 365 (Energie automatisierte Lösung)
@@ -223,7 +223,7 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
    2. Stellen Sie sicher, dass der folgende Abschnitt vorhanden ist, wenn Sie eine "neue Verkaufschance" in der Dynamics 365-Umgebung erstellen.
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Der Abschnitt Beispiel Verkaufschancen zeigt Informationen zum Microsoft Partner Center in Dynamics 365 an.":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Der Abschnitt "Beispiel Verkaufschancen" zeigt Informationen zum Microsoft Partner Center in Dynamics 365 an.":::
 
    3. Wenn Sie diese Gelegenheit mit dem Microsoft Partner Center synchronisieren möchten, stellen Sie sicher, dass Sie die folgenden Felder in der Kartenansicht festlegen:
 
@@ -231,7 +231,7 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
       - **Wie kann Microsoft Help?**: Wählen Sie eine der folgenden Aktionen aus:
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Beispiel für eine Verkaufschance in Dynamics 365, das Microsoft Partner Center-Hilfe Optionen neben einem Feld mit dem Namen wie kann Microsoft Hilfe angezeigt wird?":::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Beispiel für eine Verkaufschance in Dynamics 365, das Microsoft Partner Center-Hilfe Optionen neben einem Feld mit dem Namen "wie kann Microsoft Hilfe" angezeigt wird?":::
 
       - **Produkte**: Lösungs-IDs des Produkts
 
@@ -261,6 +261,6 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
 - [Co-Selling-Verkaufschancen](manage-co-sell-opportunities.md)
 
-- [Weitere Informationen zur Microsoft powerautomatisieren-Plattform](https://docs.microsoft.com/power-automate/)
+- [Weitere Informationen zur Microsoft powerautomatisieren-Plattform](/power-automate/)
 
-- [Partner Center-Webhooks](https://docs.microsoft.com/partner-center/develop/partner-center-webhooks)
+- [Partner Center-Webhooks](/partner-center/develop/partner-center-webhooks)

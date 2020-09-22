@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e6d98069822df9a6310335ffd8b1ab08dc61ccb
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 232eae10927d8ac38b4cce0842fbb8e4278f8d03
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545651"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000374"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Anweisungen zur Mandantenkonsolidierung für regionale CSP-Autorisierung
 
@@ -44,7 +44,7 @@ Mandanten können für Ihr Unternehmen konsolidiert werden. Konsolidieren Sie an
 
 ## <a name="migrate-customer-accounts"></a>Migrieren von Kundenkonten
 
-1. Melden Sie sich bei **Partner Center** mit dem **transitionskonto** (neu) an (das Konto, in das Sie die Kunden wechseln).
+1. Melden Sie sich bei **Partner Center**  mit dem **transitionskonto** (neu) an (das Konto, in das Sie die Kunden wechseln).
 
 2. Wählen Sie **Kunden** aus.
 
@@ -144,8 +144,8 @@ Mit der **Exportfunktion** können Sie die Abonnements erfassen, die Sie in der 
 
 ### <a name="api-registration"></a>API-Registrierung
 
-Weitere Informationen zur API-Registrierung finden [Sie unter Einrichten des API-Zugriffs in Partner Center](https://go.microsoft.com/fwlink/?linkid=847990).
+Weitere Informationen zur API-Registrierung finden [Sie unter Einrichten des API-Zugriffs in Partner Center](/partner-center/develop/set-up-api-access-in-partner-center).
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Einrichten und Verwalten von Kundenkonten für Reseller-Partner in Partner Center](customer-accounts.md)
+- [Einrichtung und Verwaltung von Kundenkonten für Handelspartner im Partner Center](customer-accounts.md)

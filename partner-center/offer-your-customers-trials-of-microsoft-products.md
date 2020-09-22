@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444908"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999214"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Bieten Sie Kunden 30-tägige kostenlose Testversionen von Microsoft-Produkten an.
 
@@ -79,8 +79,8 @@ Sie können mithilfe von Partner Center Tests in kostenpflichtige Abonnements ko
 
 Möglicherweise müssen Sie Ihre APIs ändern, um die Konvertierung einer kostenlosen Testversion in ein kostenpflichtiges Abonnement zu ermöglichen. Weitere Informationen finden Sie in der folgenden Entwicklerdokumentation:
 
-- [Umwandeln eines Testabonnements in ein kostenpflichtiges Abonnement](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [Abrufen einer Liste von Testwechselangeboten](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [Umwandeln eines Testabonnements in ein kostenpflichtiges Abonnement](/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Abrufen einer Liste von Testwechselangeboten](/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="trials-without-conversions"></a>Tests ohne Konvertierungen
 
@@ -109,7 +109,7 @@ Kostenlose Testversionen können sowohl für monatliche als auch für jährlich 
 
 Das Startdatum des Abonnements basiert auf dem Konvertierungs Datum. Wenn die kostenlose Testversion in ein kostenpflichtiges Angebot mit jährlicher Abrechnung umgewandelt wird, liegt das Verlängerungsdatum des Abonnements zwölf Monate nach dem Datum der Umwandlung. Wird die kostenlose Testversion in ein kostenpflichtiges Angebot mit monatlicher Abrechnung umgewandelt, liegt das Verlängerungsdatum des Abonnements zwölf Monate nach dem auf das Datum der Umwandlung folgenden Abrechnungsdatum.
 
-### <a name="invoices"></a>Rechnungen
+### <a name="invoices"></a>Invoices
 
 In Ihrer Rechnung oder lizenzbasierten Abstimmungs Datei werden keine kostenlosen Testversionen aufgeführt. Kostenlose Testversionen werden nur auf der Rechnung und der lizenzbasierten Abstimmungs Datei angezeigt, nachdem Sie eine kostenlose Testversion in ein kostenpflichtiges Abonnement konvertiert haben. Das konvertierte Abonnement wird auf die gleiche Weise wie jedes neue Abonnement angezeigt.
 

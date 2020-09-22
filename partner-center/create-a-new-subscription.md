@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 66c8b490e69e9b03ec0db213ca2a5baf3d42635e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8c3cfc2a6576029a8fdfb902a7b3889b4ea6c628
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527803"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000524"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Aussetzen oder Stornieren von Kundenabonnements
 
@@ -78,9 +78,9 @@ Einige Angebote sind auf ein Abonnement pro Kunde beschränkt. Eine Liste der ei
 
     - Wenn Ihr Abonnement eine 30-tägige kostenlose Testversion enthält, wird der kostenlose Testzeitraum automatisch angewendet. Als Partner im CSP-Programm können Sie den kostenlosen Testzeitraum für Angebote, die Sie für Kunden erwerben, nicht aufheben. Sobald der kostenlose Testzeitraum endet, beginnt die Abonnement Laufzeit, und das Abonnement wird in den kostenpflichtigen Status konvertiert. Das Abonnement wird dann nach dem gleichen Zeitplan automatisch erneuert.
    
-## <a name="update-subscriptions-with-add-ons"></a>Aktualisieren von Abonnements mit Add-ons 
+## <a name="update-subscriptions-with-add-ons"></a>Aktualisieren von Abonnements mit Add-Ons 
 
-Um ein Add-on zu erwerben, muss der Kunde zuerst über ein aktives Basis Abonnement verfügen.  Sie können keine Add-ons über den Katalog erwerben.
+Zum Erwerben eines Add-Ons muss der Kunde zunächst über ein aktives Basisabonnement verfügen.  Sie können über den Katalog keine Add-Ons erwerben.
 
 1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
@@ -93,9 +93,9 @@ Um ein Add-on zu erwerben, muss der Kunde zuerst über ein aktives Basis Abonnem
 5. Aktualisieren Sie die Anzahl der Lizenzen für jedes erforderliche Add-on. Wählen Sie anschließend **Übermitteln** aus, um Ihre Änderungen zu übermitteln.
 
 Die Möglichkeit, Add-ons über Partner Center zu erwerben, ist nur für die direkte Abrechnung und indirekte Anbieter verfügbar.
-Nur berechtigte Add-ons werden basierend auf den Basis Anforderungen und der regionalen Verfügbarkeit angezeigt. Weitere Informationen zu Preisen und Angeboten finden Sie in der Cloud Reseller offer-Matrix.  Durch das Anhalten des Basisabonnements werden auch alle zugehörigen Add-ons angehalten.
+Nur berechtigte Add-ons werden basierend auf den Basis Anforderungen und der regionalen Verfügbarkeit angezeigt. Weitere Informationen zu Preisen und Angeboten finden Sie in der Cloud Reseller-Angebotsmatrix.  Wenn die Ausführung des Basisabonnements angehalten wird, werden auch alle zugehörigen Add-Ons angehalten.
 
-Startdatums Angaben für Add-ons richten sich an das Basis Abonnement, und die Gebühren werden aus dem Startdatum der Gebühr und dem Abrechnungsdatum für die ersten Rechnung berechnet. Weitere Informationen finden Sie unter [Lizenz basierte Abrechnung](license-based-billing.md).
+Das Startdatum für Add-Ons richtet sich nach dem Basisabonnement, und die Gebühren werden anhand des entsprechenden Start- und Enddatums berechnet. Die erste Rechnung enthält die anteiligen Gebühren. Weitere Informationen finden Sie unter [Lizenz basierte Abrechnung](license-based-billing.md).
 
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Aussetzen oder Stornieren eines Abonnements
@@ -154,7 +154,7 @@ Gehen Sie zum Kündigen eines lizenzbasierten SaaS-Abonnements eines ISV-Herausg
 6. Um den Abbruch zu bestätigen, wählen Sie **Ja, Abbrechen**aus.
 
 > [!NOTE]
-> Sie haben auch die Möglichkeit, ein Azure Marketplace Abonnement mithilfe von APIs abzubrechen. Informationen hierzu finden Sie unter [Abbrechen eines Azure Marketplace Abonnements](https://docs.microsoft.com/partner-center/develop/cancel-an-azure-marketplace-subscription).
+> Sie haben auch die Möglichkeit, ein Azure Marketplace Abonnement mithilfe von APIs abzubrechen. Informationen hierzu finden Sie unter [Abbrechen eines Azure Marketplace Abonnements](/partner-center/develop/cancel-an-azure-marketplace-subscription).
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Auswählen, ob ein Abonnement des kommerziellen Marketplace automatisch verlängert werden soll
 

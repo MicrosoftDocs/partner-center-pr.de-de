@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4ee9d084d0afca9dfdba5cae9c6e060747d8e0e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: bf832377cdaa6a680fef3ea3c2535f20a3ad65e1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436609"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999134"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Steigerung des Umsatzes mit Empfehlungen von Microsoft
 
@@ -26,6 +26,7 @@ Viele Kunden suchen nach qualifizierten Experten, die sie bei der Implementierun
 
 Wir möchten für Sie den Kontakt mit Kunden herstellen, die Ihre Lösungen und Ihr Fachwissen benötigen. Der wichtigste Schritt, um Vertriebsleads von uns zu erhalten, besteht darin, [ein Unternehmensprofil zu erstellen](create-a-marketing-profile.md), das die Angebote, Lösungen und das Fachwissen Ihres Unternehmens präsentiert. Ihr Unternehmensprofil wird überall dort aufgeführt, wo Kunden und interne Microsoft-Vertriebsmitarbeiter nach qualifizierten Partnern suchen. 
 
- Nach der Veröffentlichung Ihres Unternehmensprofils erhalten Sie über die Funktion „Empfehlungen“ in Partner Center Vertriebsleads. Es ist wichtig, auf Empfehlungen im erforderlichen Zeitraum zu reagieren, damit Sie weiterhin Leads erhalten und vor allem Abschlüsse erzielen. Ausführliche Informationen zum Verwalten von Vertriebsleads in Partner Center finden Sie unter [Antworten auf Empfehlungen](responding-to-referrals.md).  
+ Nach der Veröffentlichung Ihres Unternehmensprofils erhalten Sie über die Funktion „Empfehlungen“ in Partner Center Vertriebsleads. Es ist wichtig, auf Empfehlungen im erforderlichen Zeitraum zu reagieren, damit Sie weiterhin Leads erhalten und vor allem Abschlüsse erzielen. Ausführliche Informationen zum Verwalten von Vertriebsleads in Partner Center finden Sie unter [Antworten auf Empfehlungen](manage-leads.md).  
 
-Schauen Sie sich zu Beginn dieses kurze Video an: [Optimieren Ihres Unternehmensprofils](https://player.vimeo.com/video/252788046).  
+
+Schauen Sie sich zu Beginn dieses kurze Video an: [Optimieren Ihres Unternehmensprofils](https://player.vimeo.com/video/252788046).

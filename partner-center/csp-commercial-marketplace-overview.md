@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 044f541e519a0f2789f340e9fc7b9fb558e6bb38
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444940"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000404"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Übersicht über den kommerziellen Marketplace im Partner Center
 
@@ -37,7 +37,7 @@ Als Partner im CSP-Programm können Sie Partner Center verwenden, um viele ISV-L
 
 Wenn Sie Partner im CSP-Programm sind, gibt es viele kommerzielle Marketplace-Aktivitäten, die Sie möglicherweise in Bezug auf ISV-Angebote durchführen möchten. Weitere Informationen zu den einzelnen Aktivitäten finden Sie in der folgenden Tabelle.
 
-|**Wenn Sie**  |**Lesen**   |
+|**Zweck**  |**Lesen**   |
 |:------------------------------------|:------------------|
 |Erfahren Sie, wie Sie verfügbare Angebote, Preise, Produktdetails oder Kontaktinformationen des Herausgebers anzeigen oder suchen. | [Angebote entdecken](csp-commercial-marketplace-discover.md) | 
 |Erfahren Sie, wie Sie ein Angebot erwerben und bereitstellen.   | [Kaufangebote](csp-commercial-marketplace-purchase.md)   | 
@@ -47,15 +47,15 @@ Wenn Sie Partner im CSP-Programm sind, gibt es viele kommerzielle Marketplace-Ak
 |Erfahren Sie mehr über Verträge und Zuständigkeiten von CSP-Partnern und ISVs im kommerziellen Marketplace | [Grundlegendes zum Vertrag](csp-commercial-marketplace-contracting.md) |
 
 > [!NOTE]
-> In dieser Übersicht wird beschrieben, wie Partner im CSP-Programm bestimmte kommerzielle Marketplace-Features in Partner Center verwenden können. Im Gegensatz zu Partnern im CSP-Programm haben ISV-Verleger eine andere Marketplace-Rolle. Außerdem verfügen Sie über verschiedene kommerzielle Marketplace-Features, die Ihnen innerhalb von Partner Center zur Verfügung stehen. Weitere Informationen zur Rolle von ISV-Verlegern finden Sie in der [Übersicht über den kommerziellen Marketplace in Azure](https://docs.microsoft.com/azure/marketplace/partner-center-portal/commercial-marketplace-overview).
+> In dieser Übersicht wird beschrieben, wie Partner im CSP-Programm bestimmte kommerzielle Marketplace-Features in Partner Center verwenden können. Im Gegensatz zu Partnern im CSP-Programm haben ISV-Verleger eine andere Marketplace-Rolle. Außerdem verfügen Sie über verschiedene kommerzielle Marketplace-Features, die Ihnen innerhalb von Partner Center zur Verfügung stehen. Weitere Informationen zur Rolle von ISV-Verlegern finden Sie in der [Übersicht über den kommerziellen Marketplace in Azure](/azure/marketplace/partner-center-portal/commercial-marketplace-overview).
 
 ## <a name="where-to-complete-commercial-marketplace-activities"></a>Informationen zum Abschluss kommerzieller Marketplace-Aktivitäten
 
-Als Partner im CSP-Programm können Sie viele kommerzielle Marketplace-Aktivitäten für ISV SaaS-Angebote direkt über das Partner Center- [Dashboard](https://partner.microsoft.com/dashboard) oder mithilfe von [Partner Center-APIs](https://docs.microsoft.com/partner-center/develop/)durchführen. Zum Ausführen anderer Marketplace-Aktivitäten müssen Sie jedoch möglicherweise Folgendes aufrufen:
+Als Partner im CSP-Programm können Sie viele kommerzielle Marketplace-Aktivitäten für ISV SaaS-Angebote direkt über das Partner Center- [Dashboard](https://partner.microsoft.com/dashboard) oder mithilfe von [Partner Center-APIs](/partner-center/develop/)durchführen. Zum Ausführen anderer Marketplace-Aktivitäten müssen Sie jedoch möglicherweise Folgendes aufrufen:
 
 - Das [Microsoft Azure Verwaltungs Portal](https://portal.azure.com/)
 
-    oder
+    Or
 
 - System oder Website eines Drittanbieter-ISV-Verlegers
 

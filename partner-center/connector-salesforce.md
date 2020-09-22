@@ -8,12 +8,12 @@ description: Synchronisieren Ihrer Verweise in Partner Center mit Ihrem Salesfor
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4f636da49504c69c1e0e44c176fb76a4d7f8a78e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 595cbba8a173eb81b4e3520d1b1b0533c4dee296
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527833"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000594"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Co-Selling-Connector für Salesforce CRM – Übersicht
 
@@ -28,13 +28,13 @@ Die Lösung basiert auf der Microsoft Power automatisieren-Lösung und verwendet
 
 ## <a name="before-you-install---pre-requisites"></a>Vor der Installation von-Pre-Requirements
 
-|**Sonder**   |**Details**   |**Links**   |
+|**Themen**   |**Details**   |**Links**   |
 |--------------|--------------------|------|
 |Microsoft Partner Network-ID |Sie benötigen eine gültige MPN-ID.|So fügen Sie [MPN](https://partner.microsoft.com/) an|
-|Co-Selling bereit|Ihre IP-/Dienst-Lösung muss für den Co-Selling bereit sein.|[Vertrieb mit Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|Co-Sell Ready|Ihre IP-/Dienst-Lösung muss für den Co-Selling bereit sein.|[Vertrieb mit Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Partner Center-Konto|Die MPN-ID, die dem Partner Center-Mandanten zugeordnet ist, muss mit der MPN-ID identisch sein, die ihrer Co-Selling-Lösung zugeordnet ist. Vergewissern Sie sich, dass Sie Ihre Co-Selling-Verweise im Partner Center-Portal sehen können, bevor Sie die Connectors bereitstellen.|[Verwalten Ihres Kontos](create-user-accounts-and-set-permissions.md)|
 |Partner Center-Benutzerrollen|Der Mitarbeiter, der die Connectors installieren und verwenden soll, muss ein Administrator sein.|[Zuweisen von Rollen und Berechtigungen zu Benutzern](create-user-accounts-and-set-permissions.md)|
-|Salesforce-CRM|Die CRM-Benutzerrolle ist Systemadministrator oder SystemCustomizer.|[Zuweisen von Rollen in Salesforce CRM](https://docs.microsoft.com/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
+|Salesforce-CRM|Die CRM-Benutzerrolle ist Systemadministrator oder SystemCustomizer.|[Zuweisen von Rollen in Salesforce CRM](/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
 |Energie automatisierter Fluss Konto|Ein aktives, [Energie automatisierbares](https://flow.microsoft.com) Konto für den CRM-Systemadministrator oder den SystemCustomizer. Dieser Benutzer sollte sich mindestens einmal vor der Installation bei der [Strom Automatisierung](https://flow.microsoft.com) anmelden.|
 
 ## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Installieren der Partner Center-Synchronisierung für Salesforce CRM
@@ -115,7 +115,7 @@ Die Partner Center-webhook-APIs ermöglichen es Ihnen, sich für Ressourcen Änd
 
 1. Um Ihre URL zu registrieren, wählen Sie **Partner Center-webhook-Registrierung (Insider Vorschau)** Energie automatisierter Flow aus.
 
-2. Hinzufügen von Verbindungen für (a.) Partner Center-Benutzer mit referengenalen Administrator Anmelde Informationen (b) Partner Center-Veranstaltungen wie unten gezeigt
+2. Fügen Sie Verbindungen für den (a.) Partner Center-Benutzer mit referengenalen Administrator Anmelde Informationen (b.) Partner Center-Veranstaltungen hinzu, wie unten gezeigt.
 
    :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Trigger":::
 
@@ -177,7 +177,7 @@ Je nach Ihren Anforderungen können mehrere Schritte der einzelnen Strom automat
 
 3. So passen Sie die Felder für die CRM-zu-PC-Referenz Synchronisierung für Update Ereignisse an
 
-   1. Wählen Sie **Bearbeiten** aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
+   1. Wählen Sie **Bearbeiten**  aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
 
    2. Select **(Bereich) Synchronisieren der Verkaufschance**.
 
@@ -189,7 +189,7 @@ Je nach Ihren Anforderungen können mehrere Schritte der einzelnen Strom automat
 
 4. Zum Anpassen der Felder für die CRM-zu-PC-Referenz Synchronisierung für Erstellungs Ereignisse
 
-   1. Wählen Sie **Bearbeiten** aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
+   1. Wählen Sie **Bearbeiten**  aus, um den Energie automatisierten Flow zu bearbeiten bzw. anzupassen.
 
    2. Wählen Sie die **Synchronisierungs Verweise aus (Bereich).**
 
@@ -226,7 +226,7 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
 3. **Felder & Beziehungen** im linken Navigationsbereich auswählen
 
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="Felder":::
+   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
 
 4. Fügen Sie die folgenden Felder in den **Feldern & Beziehungs** Tabelle hinzu:
 
@@ -298,7 +298,7 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
        - "Wie kann Microsoft Help?": Wählen Sie eine der folgenden Optionen aus:
        - Produkte: Lösungs-IDs des Produkts
 
-   4. Nachdem Sie die Option für die Verkaufschancen **Synchronisierung mit Partner Center** auf **Ja**festgelegt haben, können Sie sich bei Ihrem Partner Center-Konto anmelden. Ihre Verweise werden mit Salesforce CRM synchronisiert.
+   4. Nachdem Sie die Option für die Verkaufschancen  **Synchronisierung mit Partner Center** auf **Ja**festgelegt haben, können Sie sich bei Ihrem Partner Center-Konto anmelden. Ihre Verweise werden mit Salesforce CRM synchronisiert.
 
    5. Wenn die Option "Sync with Partner Center" auf "yes" festgelegt ist, werden die Änderungen, wenn Sie die Verkaufschance in Salesforce CRM aktualisieren, mit Ihrem Partner Center-Konto synchronisiert.
 
@@ -322,10 +322,10 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Weitere Informationen zur Microsoft powerautomatisieren-Plattform](https://docs.microsoft.com/-automate/)
+- [Weitere Informationen zur Microsoft powerautomatisieren-Plattform](/-automate/)
 
 - [Verwalten von Leads](manage-leads.md)
 
 - [Co-Selling-Verkaufschancen](manage-co-sell-opportunities.md)
 
-- [Partner Center-Webhooks](https://docs.microsoft.com/partner-center/develop/partner-center-webhooks)
+- [Partner Center-Webhooks](/partner-center/develop/partner-center-webhooks)

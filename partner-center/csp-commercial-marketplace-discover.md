@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 492c0358d75488a199c24b7f47931305b46a73a0
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527726"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000414"
 ---
 # <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Entdecken Sie Angebote und Preise im Partner Center kommerziell Marketplace
 
@@ -70,7 +70,7 @@ Zum Anzeigen der verfügbaren kommerziellen Marketplace-Angebote im CSP-Programm
 
 ## <a name="view-marketplace-offers-via-partner-center-apis"></a>Anzeigen von Marketplace-angeboten über Partner Center-APIs
 
-CSP-Programmpartner können auch APIs verwenden, um eine Liste der berechtigten Angebote zurückzugeben. Berechtigte Angebote sind nur die SaaS-ISV-Angebote, die der Partner über den Partner Center Marketplace verkaufen kann. Partner, die APIs verwenden, um Angebote im Katalog zu identifizieren, finden Sie in der Anleitung zum [Abrufen einer Liste mit Angeboten für einen Markt](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
+CSP-Programmpartner können auch APIs verwenden, um eine Liste der berechtigten Angebote zurückzugeben. Berechtigte Angebote sind nur die SaaS-ISV-Angebote, die der Partner über den Partner Center Marketplace verkaufen kann. Partner, die APIs verwenden, um Angebote im Katalog zu identifizieren, finden Sie in der Anleitung zum [Abrufen einer Liste mit Angeboten für einen Markt](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market).
 
 ## <a name="view-the-latest-marketplace-offer-pricing-in-partner-center"></a>Anzeigen der neuesten Preise für Marketplace-Angebote in Partner Center
 
@@ -101,7 +101,7 @@ Für alle Angebote, die als exklusiv gekennzeichnet sind, können jedoch nur die
 > [!NOTE]
 > Wenn Sie ein als exklusiv markierte Angebot sehen, das Sie an Ihre Kunden verkaufen möchten, wenden Sie sich direkt an den ISV, und bitten Sie um die Berechtigung, das exklusive Angebot zu verkaufen. Wenn Sie die Details eines exklusiven Angebots anzeigen, wird möglicherweise ein **Kontakt-ISV** -Link angezeigt, den Sie auswählen können.
 
-Weitere Informationen zur ISV-Benutzer Darstellung im kommerziellen Marketplace finden Sie unter [cloudlösungsanbieter](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
+Weitere Informationen zur ISV-Benutzer Darstellung im kommerziellen Marketplace finden Sie unter [cloudlösungsanbieter](/azure/marketplace/cloud-solution-providers).
 
 Weitere Informationen zu den CSP-Funktionen im Marketplace finden Sie unter [Übersicht über den kommerziellen Marketplace](csp-commercial-marketplace-overview.md).
 

@@ -10,12 +10,12 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 06/30/2020
-ms.openlocfilehash: 12ddd290f22fc672ca2fb0c911567ca7419d88b0
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 26884be7c4bfa7a7f0b3d9f8ae60016f8e843db0
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026278"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999914"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Registrieren für das Cloud Solution Provider-Programm für Microsoft Cloud for US Government
 
@@ -76,11 +76,11 @@ Microsoft Cloud for US Government bietet eine separate Instanz von Microsoft Az
 
 1. Melden Sie sich beim Microsoft Azure Admin-Portal unter an [https://portal.azure.us/](https://portal.azure.us/) .
 
-2. Weisen Sie die Administrator-Agent-Rolle den entsprechenden Benutzern in Ihrer Organisation zu. Hierzu müssen die Benutzer der integrierten Gruppe **AdminAgent** hinzugefügt werden. Weitere Informationen finden Sie unter [Hinzufügen oder Entfernen von Gruppenmitgliedern mithilfe von Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal).
+2. Weisen Sie die Administrator-Agent-Rolle den entsprechenden Benutzern in Ihrer Organisation zu. Hierzu müssen die Benutzer der integrierten Gruppe **AdminAgent** hinzugefügt werden. Weitere Informationen finden Sie unter [Hinzufügen oder Entfernen von Gruppenmitgliedern mithilfe von Azure Active Directory](/azure/active-directory/active-directory-groups-members-azure-portal).
 
 ## <a name="connect-with-us"></a>Neuigkeiten abonnieren
 
-- Fragen? Senden Sie uns eine E-Mail: azgovcsp@microsoft.com.
+- Haben Sie Fragen? Senden Sie uns eine E-Mail: azgovcsp@microsoft.com.
 
 - Folgen Sie uns auf [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777).
 

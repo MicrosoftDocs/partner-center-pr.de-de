@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a05e2cc968e96e429390ea63ecb6fe213ab2ca2c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: b37e1ffef291defec0cba03aa9306f7bc82f5cd9
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436569"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999964"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Verkaufen von Kundenabonnements für Produkte im kommerziellen Marketplace über das Partner Center
 
@@ -29,4 +29,4 @@ Dies kann Ihnen dabei helfen, Ihr Unternehmen von der Konkurrenz abzuheben und I
 
 Informationen dazu, wie Partner im CSP-Programm den kommerziellen Marketplace nutzen können, finden Sie unter [Übersicht über den kommerziellen Marketplace für cloudlösungsanbieter](csp-commercial-marketplace-overview.md).
 
-Weitere Informationen über die unterschiedlichen Rollen von ISVs im kommerziellen Marketplace finden Sie in den häufig gestellten Fragen zum [Marketplace](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide).
+Weitere Informationen über die unterschiedlichen Rollen von ISVs im kommerziellen Marketplace finden Sie in den häufig gestellten Fragen zum [Marketplace](/azure/marketplace/marketplace-faq-publisher-guide).

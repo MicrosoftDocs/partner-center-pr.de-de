@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5c506e1f3dd5e1ffcac1d7017687b1b36718745
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: c03ab358b8fb6ab0f23ea5f42b9d35c6f6c2b80c
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943474"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000424"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Abrechnung für kommerzielle Marketplace-Produkte und-Abonnements im Partner Center
 
@@ -30,12 +30,12 @@ ms.locfileid: "86943474"
 
 Als Partner im CSP-Programm können Sie mit Partner Center Lizenz basierte SaaS-Produkte von ISV-Verlegern im kommerziellen Marketplace erwerben. Anschließend können Sie auf eine Rechnung für diese Art von Käufen zugreifen. Der Abrechnungszeitraum beginnt am ersten Tag des Kalendermonats und endet am letzten Tag des Kalendermonats. Rechnungen werden am 8. Tag des folgenden Monats verfügbar gemacht.
 
-Sie können auf Rechnungen entweder über das Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/) oder mithilfe von [Partner Center-APIs](https://docs.microsoft.com/partner-center/develop/)zugreifen.
+Sie können auf Rechnungen entweder über das Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/) oder mithilfe von [Partner Center-APIs](/partner-center/develop/)zugreifen.
 
 Partner im CSP-Programm werden für einen Kunden erworbene ISV-Marketplace-Lösungen in Rechnung gestellt, wenn Sie diese Produkte entweder über Partner Center oder über den Azure-Portal erwerben (über den früheren, von CSP erworbenen Azure-Mandanten des Kunden).
 
 >[!NOTE]
->Wenn Kunden ihren eigenen Azure AD Mandanten verwenden (nicht einer von einem Partner im CSP-Programm erworbenen), können Kunden auch eine eigene ISV-SaaS-Lösung direkt von ([Microsoft AppSource](https://appsource.microsoft.com/) oder [Azure Marketplace](https://azuremarketplace.microsoft.com/)) erwerben. Wenn dies der Fall ist, erhalten Sie eine eigene Rechnung direkt von Microsoft. Wenn ein Partner im CSP-Programm ein Azure-Abonnement oder den neuen Azure-Plan an den Kunden verkauft und dem Kunden (oder dem indirekten Reseller) [rollenbasierten Zugriff](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) auf diesen Mandanten gewährt (dem Kunden neben **Reader**eine Rolle zuweisen), kann dieser Kunde (oder indirekte Reseller) auch kommerzielle Marketplace-Angebote erwerben, ohne vorherige Genehmigung oder Benachrichtigung an den CSP-Partner zu erhalten. In diesen Fällen werden Partner im CSP-Programm von Microsoft nicht direkt über die von ihren Kunden getätigten Einkäufe benachrichtigt. Microsoft bietet jedoch einen optionalen [Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) Mechanismus an, den Sie verwenden können, um Warnungen oder Benachrichtigungen zu Aktivitäten in einem Azure-Abonnement festzulegen.
+>Wenn Kunden ihren eigenen Azure AD Mandanten verwenden (nicht einer von einem Partner im CSP-Programm erworbenen), können Kunden auch eine eigene ISV-SaaS-Lösung direkt von ([Microsoft AppSource](https://appsource.microsoft.com/) oder [Azure Marketplace](https://azuremarketplace.microsoft.com/)) erwerben. Wenn dies der Fall ist, erhalten Sie eine eigene Rechnung direkt von Microsoft. Wenn ein Partner im CSP-Programm ein Azure-Abonnement oder den neuen Azure-Plan an den Kunden verkauft und dem Kunden (oder dem indirekten Reseller) [rollenbasierten Zugriff](/azure/role-based-access-control/built-in-roles) auf diesen Mandanten gewährt (dem Kunden neben **Reader**eine Rolle zuweisen), kann dieser Kunde (oder indirekte Reseller) auch kommerzielle Marketplace-Angebote erwerben, ohne vorherige Genehmigung oder Benachrichtigung an den CSP-Partner zu erhalten. In diesen Fällen werden Partner im CSP-Programm von Microsoft nicht direkt über die von ihren Kunden getätigten Einkäufe benachrichtigt. Microsoft bietet jedoch einen optionalen [Azure Monitor](/azure/azure-monitor/platform/alerts-activity-log) Mechanismus an, den Sie verwenden können, um Warnungen oder Benachrichtigungen zu Aktivitäten in einem Azure-Abonnement festzulegen.
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>Zugriff auf Abrechnungsinformationen für kommerzielle Marketplace-Produkte
 
@@ -53,7 +53,7 @@ Der globale Administrator oder der Abrechnungsadministrator Ihres Unternehmens e
   
 3. Wählen Sie die Registerkarte **wiederkehrende und einmalige Käufe** aus. Wenn Sie Abonnements für einen Kunden in einer anderen Währung erworben haben, wird für jede Währung eine Registerkarte angezeigt. Sie können Folgendes tun: "OM This page:
 
-    - Um die neueste Rechnung und die Abstimmungs Datei anzuzeigen, wählen Sie die **Rechnungs** -oder Abstimmungs **Datei**aus. (Wenn Sie möchten, können Sie auch auf die neueste Rechnung zugreifen und Datei Daten mithilfe der [Partner Center-APIs](https://docs.microsoft.com/partner-center/develop/)wiederholen.
+    - Um die neueste Rechnung und die Abstimmungs Datei anzuzeigen, wählen Sie die **Rechnungs** -oder Abstimmungs **Datei**aus. (Wenn Sie möchten, können Sie auch auf die neueste Rechnung zugreifen und Datei Daten mithilfe der [Partner Center-APIs](/partner-center/develop/)wiederholen.
 
     - Wenn Sie frühere Rechnungen anzeigen und Dateien wiederholen möchten, erweitern Sie unten die Zeile **Abrechnungs Verlauf** .
 

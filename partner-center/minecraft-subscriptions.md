@@ -8,12 +8,12 @@ description: Verkaufen Sie minecraft Education Edition-Abonnements an qualifizie
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: 98094096de41f20df6f381687984ea3ee1a7c334
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dc4fa7c3828bc6c6bc3fb711184a876c0b92b925
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436819"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000064"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Verkaufen von minecraft: Education Edition-Abonnements für Bildungs Kunden
 
@@ -53,9 +53,7 @@ Führen Sie die folgenden Schritte aus, um **minecraft: Education Edition** -Abo
 
   6.  Nachdem Sie das Abonnement erworben haben, leiten Sie Ihren Bildungskunden zu seinem Bestand im [Microsoft Store für Bildungseinrichtungen](https://educationstore.microsoft.com) weiter, damit er die Software herunterladen und die Lizenzen verteilen kann.
 
-      Wenn Ihr Kunden weitere Informationen zum Verteilen von Softwarelizenzen an Benutzer benötigt, findet er [hier](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft) weitere Informationen.  
+      Wenn Ihr Kunden weitere Informationen zum Verteilen von Softwarelizenzen an Benutzer benötigt, findet er [hier](/education/windows/school-get-minecraft#distribute-minecraft) weitere Informationen.  
   
-      Wenn Ihr Kunde nicht mit dem Store für Bildungseinrichtungen vertraut ist, findet er auf [dieser Übersichtsseite](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview) weitere Informationen dazu.  
-
-      
+      Wenn Ihr Kunde nicht mit dem Store für Bildungseinrichtungen vertraut ist, findet er auf [dieser Übersichtsseite](/microsoft-store/windows-store-for-business-overview) weitere Informationen dazu.  
 

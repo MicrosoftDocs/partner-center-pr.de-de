@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a59b0c25b8f5203942e73b549d5ffb9d65d90c36
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527656"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999434"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Verwenden von Windows Autopilot-Profilen auf neuen Geräten zum Anpassen der Standardbenutzer Freundlichkeit eines Kunden
 
@@ -37,7 +37,7 @@ In diesem Artikel wird erläutert, wie Sie im Partner Center Autopilot-Profile e
 
 Wenn Sie noch nicht mit Autopilot vertraut sind, lesen Sie die Informationen in diesen Artikeln:
 
-- [Übersicht über Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
+- [Übersicht über Windows Autopilot](/windows/deployment/windows-10-auto-pilot)
 - [Referenzhandbuch für die Bereitstellung mit Autopilot](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Übersicht
@@ -77,7 +77,7 @@ Im Partner Center können Sie Windows Autopilot-Bereitstellungsprofile erstellen
 
 3. Klicken Sie unter **Windows Autopilot-Profile** auf **Neues Profil hinzufügen**.
 
-4. Geben Sie Namen und eine Beschreibung des Profils ein, und konfigurieren Sie dann die Einstellungen für die Windows-Willkommensseite. Es stehen die folgenden Optionen zur Auswahl:  
+4. Geben Sie Namen und eine Beschreibung des Profils ein, und konfigurieren Sie dann die Einstellungen für die Windows-Willkommensseite. Folgende Optionen stehen zur Auswahl:  
 
    - Datenschutzeinstellungen beim Setup überspringen
 
@@ -107,7 +107,7 @@ Nachdem Sie ein Autopilot-Profil für einen Kunden erstellt haben, können Sie e
 
 4. Führen Sie die folgenden Schritte aus, um sicherzustellen, dass das Profil erfolgreich auf das Gerät angewendet wird.
 
-    ein.  Schließen Sie ein Gerät an das Netzwerk an, und schalten Sie es ein.
+    a.  Schließen Sie ein Gerät an das Netzwerk an, und schalten Sie es ein.
 
     b.  Stellen Sie sicher, dass die entsprechenden Bildschirme der Windows-Willkommensseite (sofern vorhanden) angezeigt werden.
 
@@ -162,7 +162,7 @@ Führen Sie die im Partner Center nachstehenden Anweisungen zum Hinzufügen von 
 4. Geben Sie einen Namen für die Geräteliste aus, und klicken Sie dann auf **Durchsuchen**, um die Kundenliste (im Dateiformat CSV) ins Partner Center hochzuladen.
 
     >[!NOTE]
-    >Beim Kauf Ihres Geräts sollten Sie diese CSV-Datei erhalten haben. Wenn Sie keine CSV-Datei erhalten haben, können Sie selbst eine erstellen, indem Sie die Schritte unter [Hinzufügen von Geräten zu Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell) ausführen.  
+    >Beim Kauf Ihres Geräts sollten Sie diese CSV-Datei erhalten haben. Wenn Sie keine CSV-Datei erhalten haben, können Sie selbst eine erstellen, indem Sie die Schritte unter [Hinzufügen von Geräten zu Windows Autopilot](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell) ausführen.  
 
 5. Laden Sie die CSV-Datei hoch, und klicken Sie dann auf **Speichern**.
 

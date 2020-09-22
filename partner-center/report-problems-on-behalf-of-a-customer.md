@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6cd4b78d95de282ccaef032b7975069f49a1267d
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 73773101eda7dc9ad40b8a579ea3ba441739e931
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220178"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999784"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Melden eines Dienst Problems im Namen eines Kunden, einschließlich des Zeit-und Vorgehensweise
 
@@ -100,7 +100,7 @@ So finden Sie Kontaktdaten des ISV:
     - Eine Support-E-Mail-Adresse
     - Eine Supportrufnummer
 
-## <a name="faq"></a>Häufig gestellte Fragen
+## <a name="faq"></a>FAQ
 
 Im folgenden finden Sie häufig gestellte Fragen zu Dienst Anforderungen, die Sie im Auftrag eines Kunden einreichen können. 
 
@@ -143,7 +143,7 @@ Wenn Sie sich direkt beim Office 365 Admin Center anmelden, sehen Sie das Center
 
 Bei Problemen im Zusammenhang mit: Dynamics 365 planen Sie Abonnements, Lizenzierung, Abrechnung, Finanzen & Vorgänge, Dynamics 365-Produktlizenzen oder benötigen Sie technischen Support:
  
-Wenden Sie sich an [Dynamics-Support](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support).
+Wenden Sie sich an [Dynamics-Support](/dynamics365/customer-engagement/admin/contact-technical-support).
 
 Lesen Sie [Support für Microsoft Dynamics](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur).
 

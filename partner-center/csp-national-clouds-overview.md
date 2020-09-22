@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f7b29b39cbc4a991accd6821a6b6cd037ccfc54
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114339"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000384"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Für den Vertrieb in Microsoft National Clouds als Teil des CSP-Programms anwenden
 
@@ -48,4 +48,4 @@ Qualifizierte Partner können Microsoft-Cloudlösungen an Kunden in allen diesen
 
     Microsoft ist der Technologieanbieter, aber nicht der Betreiber des Diensts. 21Vianet betreibt den Dienst unabhängig, bietet diesen an und verwaltet die Bereitstellung von Microsoft Cloud Services. Durch die Lizenzierung von Microsoft-Technologien kann 21Vianet Azure und Office 365-Dienste anbieten und Azure- und Office 365-Rechenzentren betreiben, wobei Daten auf dem chinesischen Festland verbleiben. 21Vianet bietet außerdem Abonnement- und Abrechnungsdienste sowie Support.
 
-    Informationen zum Registrieren und Verkauf an Kunden von Azure und Office 365 in einer Betriebsumgebung mit 21Vianet in China finden Sie unter [Partner Center-Betreiber ist 21Vianet](https://msdn.microsoft.com/partner-china/index). 
+    Informationen zum Registrieren und Verkauf an Kunden von Azure und Office 365 in einer Betriebsumgebung mit 21Vianet in China finden Sie unter [Partner Center-Betreiber ist 21Vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).

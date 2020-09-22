@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59c40ebfe65d83abfb33f8994f1c0a0ffa7149a7
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114151"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000074"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Verschieben mehrerer Unternehmen von Partner Membership Center (PMC) zum Partner Center
 
@@ -51,7 +51,7 @@ Es werden Ihr bestehendes Konto und eine Notiz angezeigt, die Ihnen mitteilt, da
 
 Auf diesem Bildschirm werden Ihnen die Details des bestehenden Kontos (Name und Adresse), das bereits in Partner Center erstellt wurde, zusammen mit den Details des primären Kontakts angezeigt.
 
-Klicken Sie auf **Weiter**.
+Wählen Sie **Weiter**.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Was geschieht bei der Konsolidierung von Konten?
 
@@ -93,4 +93,4 @@ Wenn Sie Ihr Profil anzeigen, sehen Sie die Informationen für Ihr Rechtsgeschä
 - [Zuweisen von Benutzerrollen und Berechtigungen](permissions-overview.md)
 - [Verwalten der Microsoft Partner Network-Mitgliedschaftsprogramme](renew-mpn-offers.md)
 - [Erstellen Ihres Unternehmensprofils](create-a-marketing-profile.md)
-- [Kontaktaufnahme mit Kunden durch Empfehlungen](responding-to-referrals.md)
+- [Kontaktaufnahme mit Kunden durch Empfehlungen](manage-leads.md)

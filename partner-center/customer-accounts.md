@@ -9,14 +9,14 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 7ff3f1f7fa5488fe1c4a2ccfccf716dc6adc97f9
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: bc46789ccabea3e8b3b2ade0d87bfe058c2f0f12
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366985"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000474"
 ---
-# <a name="customer-account-setup-and-management-for-reseller-partners-in-partner-center"></a>Einrichten und Verwalten von Kundenkonten für Reseller-Partner in Partner Center
+# <a name="customer-account-setup-and-management-for-reseller-partners-in-partner-center"></a>Einrichtung und Verwaltung von Kundenkonten für Handelspartner im Partner Center
 
 **Zielgruppe**
 
@@ -36,7 +36,7 @@ Als Handelspartner müssen Sie für jeden Ihrer Kunden im Partner Center ein Kon
 
 |**Aufgabe**   |**Anleitung**   |**Zielgruppe**|
 |-----------------|:----------------------------|:--------------|
-|Kundengewinnung|Indirekte Händler stellen eine Verbindung mit [indirekten Anbietern](indirect-reseller-tasks-in-partner-center.md) her, von denen Sie Kunden empfohlen werden. Sie sollten auch sicherstellen, dass Ihr [Unternehmensprofil](create-a-marketing-profile.md) auf dem neuesten Stand ist. Wenn Sie mit einem Kunden eine [Zusammenarbeit](responding-to-referrals.md) vereinbart haben, [fügen](add-a-new-customer.md) Sie diesen Ihrem Konto hinzu. Direkte Partner sollten [Anfordern einer Beziehung mit einem Kunden](request-a-relationship-with-a-customer.md) lesen.|CSP-Partner|
-|Hinzufügen von Bestandskunden zu Ihrem Konto   | Kunden, mit denen Sie in anderen Portalen wie z. B. Office 365 Transaktionen durchführen, werden in Partner Center in Ihrer [Kundenliste](see-your-customer-list.md) angezeigt. Sie müssen Reseller- [Beziehungen](indirect-reseller-tasks-in-partner-center.md) mit anderen Bestandskunden einrichten. Zu diesem Zweck laden Sie sie per E-Mail ein, [mit Ihnen im Partner Center in Verbindung zu treten](responding-to-referrals.md).   | CSP-Partner   |
+|Kundengewinnung|Indirekte Händler stellen eine Verbindung mit [indirekten Anbietern](indirect-reseller-tasks-in-partner-center.md) her, von denen Sie Kunden empfohlen werden. Sie sollten auch sicherstellen, dass Ihr [Unternehmensprofil](create-a-marketing-profile.md) auf dem neuesten Stand ist. Wenn Sie mit einem Kunden eine [Zusammenarbeit](manage-leads.md) vereinbart haben, [fügen](add-a-new-customer.md) Sie diesen Ihrem Konto hinzu. Direkte Partner sollten [Anfordern einer Beziehung mit einem Kunden](request-a-relationship-with-a-customer.md) lesen.|CSP-Partner|
+|Hinzufügen von Bestandskunden zu Ihrem Konto   | Kunden, mit denen Sie in anderen Portalen wie z. B. Office 365 Transaktionen durchführen, werden in Partner Center in Ihrer [Kundenliste](see-your-customer-list.md) angezeigt. Sie müssen Reseller- [Beziehungen](indirect-reseller-tasks-in-partner-center.md) mit anderen Bestandskunden einrichten. Zu diesem Zweck laden Sie sie per E-Mail ein, [mit Ihnen im Partner Center in Verbindung zu treten](manage-leads.md).   | CSP-Partner   |
 |Beenden oder Reaktivieren einer Kundenbeziehung   | Hinzufügen oder Entfernen von Kunden oder [Beenden einer Kundenbeziehung](remove-a-relationship.md).  |   CSP-Partner |
 |Kunden das Kaufen eigener Dienste erlauben   | [Erteilen Sie Kunden die Berechtigung, eigene Produkte oder Dienste zu erwerben](give-customers-permission.md), wie z. b. das erwerben ihrer eigenen Azure-Reservierungen von einem vorherigen Abonnement, das Sie für Sie erworben haben.  | CSP-Partner |

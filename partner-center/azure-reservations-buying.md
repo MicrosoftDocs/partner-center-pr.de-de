@@ -9,12 +9,12 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 19a358fe023a8c8fd9d30ecb9dd1c37114dca84a
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 655bd48df616b26b842d5f99960d6b6ad2e75f1f
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367014"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000264"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Kaufen von Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden im Partner Center
 
@@ -33,7 +33,7 @@ ms.locfileid: "89367014"
 - Benutzerverwaltungsadministrator
  
 > [!NOTE]
-> Dieser Artikel gilt nur für Partner im CSP-Programm (Cloud Solution Provider). Kunden, die andere Abonnementtypen (z. b. Pay-as-you-go, individuelle, Microsoft-Kunden Vereinbarung oder Konzernvertrag Abonnements) verwenden, sollten stattdessen [diese Azure-Reservierungs Dokumentation](https://docs.microsoft.com/azure/cost-management-billing/reservations)lesen.
+> Dieser Artikel gilt nur für Partner im CSP-Programm (Cloud Solution Provider). Kunden, die andere Abonnementtypen (z. b. Pay-as-you-go, individuelle, Microsoft-Kunden Vereinbarung oder Konzernvertrag Abonnements) verwenden, sollten stattdessen [diese Azure-Reservierungs Dokumentation](/azure/cost-management-billing/reservations)lesen.
 
 ## <a name="before-you-begin"></a>Voraussetzungen
 
@@ -136,7 +136,7 @@ Führen Sie die folgenden Schritte aus, um Microsoft Azure-Reservierungen im Auf
     - Wählen Sie den Bereich der Reservierung aus. Der Bereich der Reservierung kann ein Abonnement oder mehrere Abonnements (freigegebener Bereich) umfassen. Wenn Sie ein einzelnes Abonnement auswählen, gilt der Reservierungsrabatt nur für dieses Abonnement. Wenn Sie Shared auswählen, wird der Reservierungs Rabatt auf alle Abonnements innerhalb des Abrechnungs Kontexts des Kunden angewendet. 
 
       >[!NOTE] 
-      >Wenn Sie sich dafür entscheiden, den Umfang der Reservierung auf ein einzelnes Azure-Abonnement zu beschränken, müssen Sie möglicherweise die vCPU-Kontingente des Abonnements erhöhen. Um das vCPU-Kontingent des Abonnements zu erhöhen, müssen Sie im Azure-Portal eine Supportanfrage stellen. Folgen Sie den Anweisungen [in diesem Thema](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request), um die Anfrage zu erstellen. 
+      >Wenn Sie sich dafür entscheiden, den Umfang der Reservierung auf ein einzelnes Azure-Abonnement zu beschränken, müssen Sie möglicherweise die vCPU-Kontingente des Abonnements erhöhen. Um das vCPU-Kontingent des Abonnements zu erhöhen, müssen Sie im Azure-Portal eine Supportanfrage stellen. Folgen Sie den Anweisungen [in diesem Thema](/azure/azure-supportability/resource-manager-core-quotas-request), um die Anfrage zu erstellen. 
 
       >[!NOTE]   
       >Wenn sich Ihr Kunde im Azure-Plan befindet, wird der Gültigkeits **Bereich**  auf " **Shared**" festgelegt. 
@@ -156,5 +156,5 @@ Führen Sie die folgenden Schritte aus, um Microsoft Azure-Reservierungen im Auf
 |Azure-Reservierungen in CSP (Übersicht)  | [Verkaufen von Microsoft Azure Reserved Instances](azure-reservations.md) |
 |Verwalten von Azure-Reservierungen in Partner Center | [Verwalten von Azure-Reservierungen in Partner Center](azure-reservations-manage.md)
 |Bestimmen der richtigen VM-Größe und Überprüfen der VM-Nutzung durch den Kunden   |[Bestimmen der VM-Größe für die maximale Nutzung von Azure-Reservierungen](azure-usage.md)   |
-|Erwerb von Azure-Reservierungen über die Partner Center-API | [Kaufen von Azure Reserved VM Instances](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations) in der Partner Center-Entwicklerdokumentation   |
+|Erwerb von Azure-Reservierungen über die Partner Center-API | [Kaufen von Azure Reserved VM Instances](/partner-center/develop/purchase-azure-reservations) in der Partner Center-Entwicklerdokumentation   |
 |Erteilen von Kunden Berechtigungen zum erwerben ihrer eigenen Azure-Reservierungen  | [Erteilen Sie Kunden die Berechtigung, ihre eigenen Azure-Reservierungen zu erwerben.](give-customers-permission.md)  |

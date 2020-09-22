@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16f3c4a2e61bbc207bb99d6c9aeb1636260a55ee
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e9ffa6ef8145099a90fde16e4ce8d6a3453973e0
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811190"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000644"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer
 
@@ -161,7 +161,7 @@ Mit dem Feature für die Reseller-Beziehungs Erweiterung können Sie eine Resell
 
 - Ihr indirekter Anbieter wird nicht mit [Delegierten Administratorrechten](customers-revoke-admin-privileges.md) für den Kunden Mandanten bereitgestellt. Wenn Ihr indirekter Anbieter Delegierte Administratorrechte erfordert, müssen Sie stattdessen eine indirekte Reseller-Einladung an den Kunden senden.
 
-- Sobald die Reseller-Beziehung eingerichtet ist, wird der indirekte Anbieter als CSP-Partner für den Kunden auf der Seite Partnerbeziehungen in [M365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/partners) und [Microsoft Store for Business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)angezeigt.
+- Sobald die Reseller-Beziehung eingerichtet ist, wird der indirekte Anbieter als CSP-Partner für den Kunden auf der Seite Partnerbeziehungen in [M365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/partners) und [Microsoft Store for Business](/microsoft-store/work-with-partner-microsoft-store-business)angezeigt.
 
     > [!IMPORTANT]
     > Um Verwirrung und Missverständnisse zu vermeiden, werden Sie von Ihrem Partnervertrag vertraglich dazu verpflichtet, die Zustimmung des Kunden Vertrags zu übermitteln, bevor Sie mit dem Relationship-Erweiterungs Feature eine Reseller-Beziehung zwischen einem bestehenden Kunden der direkt Rechnung und einem indirekten Anbieter herstellen.
@@ -245,15 +245,15 @@ Die Funktion ist ein 4-stufiger Prozess, bei dem Folgendes gilt:
 ### <a name="transitioning-partner"></a>Übergangs Partner
 
 > [!NOTE]
-> Sie können auch die [Partner Center-API/das SDK](https://docs.microsoft.com/partner-center/develop/manage-customers) verwenden, um die vorhandenen Abonnements an Ihren indirekten Anbieter zu übertragen.
+> Sie können auch die [Partner Center-API/das SDK](/partner-center/develop/manage-customers) verwenden, um die vorhandenen Abonnements an Ihren indirekten Anbieter zu übertragen.
 >
-> - [Abrufen der Berechtigung eines Kunden zum Übertragen eines Abonnements](https://docs.microsoft.com/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
-> - [Erstellen der Übertragung eines Kunden](https://docs.microsoft.com/partner-center/develop/create-a-transfer)
-> - [Zurückziehen der Übertragung eines Kunden](https://docs.microsoft.com/partner-center/develop/withdraw-a-transfer)
-> - [Akzeptieren der Übertragung eines Kunden](https://docs.microsoft.com/partner-center/develop/accept-a-transfer)
-> - [Ablehnen der Übertragung eines Kunden](https://docs.microsoft.com/partner-center/develop/reject-a-transfer)
-> - [Abrufen der Übertragungen eines Kunden](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)
-> - [Übertragungs Details nach ID erhalten](https://docs.microsoft.com/partner-center/develop/get-transfer-by-id)
+> - [Abrufen der Berechtigung eines Kunden zum Übertragen eines Abonnements](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [Erstellen der Übertragung eines Kunden](/partner-center/develop/create-a-transfer)
+> - [Zurückziehen der Übertragung eines Kunden](/partner-center/develop/withdraw-a-transfer)
+> - [Akzeptieren der Übertragung eines Kunden](/partner-center/develop/accept-a-transfer)
+> - [Ablehnen der Übertragung eines Kunden](/partner-center/develop/reject-a-transfer)
+> - [Abrufen der Übertragungen eines Kunden](/partner-center/develop/get-all-of-a-customer-s-transfers)
+> - [Übertragungs Details nach ID erhalten](/partner-center/develop/get-transfer-by-id)
 
 ### <a name="transitioning-partner---create-transfer-request"></a>Übergang von Partner-Create Transfer Request
 

@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96c07ee9d03b433992632337d13c561d6334a896
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 1d32f42b2c4bd8e4ec6c659326d1a21385c0642f
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527716"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000514"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Verwalten Sie kommerzielle Marketplace-Produkte und-Angebote für Ihre Kunden
 
@@ -67,7 +67,7 @@ Der Herausgeber sollte Ihnen einen personalisierten Link und einen Autorisierung
 
    - Sie können den Link auf der Seite Abonnements eines bestimmten Kunden anzeigen. Dieser Verleger Link wird in der Zeile angezeigt, die dem für den Kunden erworbenen ISV-Angebot oder-Abonnement zugeordnet ist.
 
-   - Sie können [den Link mithilfe der Partner Center-APIs abrufen](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+   - Sie können [den Link mithilfe der Partner Center-APIs abrufen](/partner-center/develop/get-activation-link-by-order-line-item).
 
    > [!NOTE]
    > Um dies im Auftrag Ihres Kunden zu tun, müssen Sie möglicherweise den personalisierten Link kopieren, ihn in einen privaten Browser einfügen und die Anmelde Informationen des Kunden eingeben.
@@ -112,7 +112,7 @@ Für Angebote des kommerziellen Marketplace in Saas können Sie Benutzerlizenzen
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Verwalten von Abonnements mithilfe von Partner Center-APIs
 
-Sie können auch Partner Center-APIs verwenden, um die Lebenszyklus Verwaltung durchzuführen und Rechnungen für Ihre Abonnements zu verwalten. Weitere Informationen finden Sie unter [Erstellen eines Abonnements für kommerzielle Marketplace-Produkte](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
+Sie können auch Partner Center-APIs verwenden, um die Lebenszyklus Verwaltung durchzuführen und Rechnungen für Ihre Abonnements zu verwalten. Weitere Informationen finden Sie unter [Erstellen eines Abonnements für kommerzielle Marketplace-Produkte](/partner-center/develop/create-subscription-azure-marketplace-products).
 
 ## <a name="next-steps"></a>Nächste Schritte
 

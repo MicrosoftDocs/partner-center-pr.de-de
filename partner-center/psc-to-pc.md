@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dd511f455c24d7fa3193d6a99efd786eb3c34da
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848265"
+ms.locfileid: "90999344"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Leitfaden zum Co-Selling im Partner Center (PC) für Partner, die von Partner Sales Connect (PSC) migrieren
 
@@ -40,12 +40,12 @@ Wie Sie wissen, verliert Ihr Unternehmen den Zugriff auf den PSC-Beitrag am 31. 
 ### <a name="if-you-are-psc-admin"></a>Wenn Sie PSC-Administrator sind
 
 - Sie benötigen eine geschäftliche e-Mail-Adresse für die Anmeldung bei [Partner Center](https://partner.microsoft.com/).
-- Richten Sie Ihr Konto mit der Hilfe des Partner Center- [Konto Administrators](https://docs.microsoft.com/partner-center/permissions-overview)ein.
+- Richten Sie Ihr Konto mit der Hilfe des Partner Center- [Konto Administrators](permissions-overview.md)ein.
 - Lesen Sie dieses Dokument, um zu erfahren, wie Sie im Partner Center mitverkaufen.
-- Richten Sie Benutzerkonten im Partner Center für alle Ihre PSC-Benutzer (Administrator, Manager-und Verkäufer Rollen) ein, und weisen Sie Ihnen [Verweis Administrator Rollen](https://docs.microsoft.com/partner-center/permissions-overview)zu.
+- Richten Sie Benutzerkonten im Partner Center für alle Ihre PSC-Benutzer (Administrator, Manager-und Verkäufer Rollen) ein, und weisen Sie Ihnen [Verweis Administrator Rollen](permissions-overview.md)zu.
 
 >[!Important]
-> Stellen Sie sicher, dass die im PSC-Banner angezeigte MPN-ID in der Liste der MPN-Standorte im Partner Center verfügbar ist. Sie können überprüfen, ob Sie in Partner Center auf "Kontoeinstellungen" und "[Standorte](https://docs.microsoft.com/partner-center/manage-locations)" klicken, um die Liste aller mpns zu ermitteln, die dem Partner Center-Konto zugeordnet sind.
+> Stellen Sie sicher, dass die im PSC-Banner angezeigte MPN-ID in der Liste der MPN-Standorte im Partner Center verfügbar ist. Sie können überprüfen, ob Sie in Partner Center auf "Kontoeinstellungen" und "[Standorte](manage-locations.md)" klicken, um die Liste aller mpns zu ermitteln, die dem Partner Center-Konto zugeordnet sind.
 
  :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Bild, das das PSC-Banner anzeigt, in dem die Partner die MPN-ID finden können.":::
 
@@ -61,12 +61,12 @@ Wie Sie wissen, verliert Ihr Unternehmen den Zugriff auf den PSC-Beitrag am 31. 
 
 Wenn die Registerkarte Verweise nicht angezeigt wird:
 
-- Der [globale Administrator](https://docs.microsoft.com/partner-center/permissions-overview) Ihres Unternehmens kann Ihnen Zugriff auf die Registerkarte "Verweise" gewähren. Um ihren globalen Administrator zu finden, wechseln Sie über das Zahnrad Symbol in der oberen rechten Ecke des Partner Centers zu den Partner Einstellungen. Wählen Sie die Seite Benutzerverwaltung auf der zweiten Ebene der linken Navigationsleiste aus. Klicken Sie oben rechts auf der Seite auf die Dropdown-Ansicht mit "alle Benutzer", und wechseln Sie zu "globale Administratoren". Auf der Seite werden dann alle globalen Administratoren mit ihren jeweiligen e-Mail-IDs angezeigt. Wenden Sie sich an die IT-Abteilung, um den Zugriff auf Ihr Geschäftskonto zu erhalten.
+- Der [globale Administrator](permissions-overview.md) Ihres Unternehmens kann Ihnen Zugriff auf die Registerkarte "Verweise" gewähren. Um ihren globalen Administrator zu finden, wechseln Sie über das Zahnrad Symbol in der oberen rechten Ecke des Partner Centers zu den Partner Einstellungen. Wählen Sie die Seite Benutzerverwaltung auf der zweiten Ebene der linken Navigationsleiste aus. Klicken Sie oben rechts auf der Seite auf die Dropdown-Ansicht mit "alle Benutzer", und wechseln Sie zu "globale Administratoren". Auf der Seite werden dann alle globalen Administratoren mit ihren jeweiligen e-Mail-IDs angezeigt. Wenden Sie sich an die IT-Abteilung, um den Zugriff auf Ihr Geschäftskonto zu erhalten.
 
 >[!Important]
-> Wenn Ihre Rolle nur Benutzer im PSC verwaltet, können Sie die [Konto Administrator](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) Rolle im Partner Center erhalten. Wenn Ihre Rolle auch die Verwaltung von Co-Selling-Verkaufschancen umfasst, sollten Sie die Administrator Rolle " [referenrals](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) " erhalten. Außerdem sollten Sie einen Change Management für die PSC-Administratoren treffen, damit Sie mit dem Partner Center-Konto Administrator zusammenarbeiten können, anstatt alle PSC-Administratoren, die sich einzeln an die Konto Administratoren des PCs wenden.
+> Wenn Ihre Rolle nur Benutzer im PSC verwaltet, können Sie die [Konto Administrator](permissions-overview.md#manage-mpn-membership-and-your-company) Rolle im Partner Center erhalten. Wenn Ihre Rolle auch die Verwaltung von Co-Selling-Verkaufschancen umfasst, sollten Sie die Administrator Rolle " [referenrals](permissions-overview.md#manage-referrals) " erhalten. Außerdem sollten Sie einen Change Management für die PSC-Administratoren treffen, damit Sie mit dem Partner Center-Konto Administrator zusammenarbeiten können, anstatt alle PSC-Administratoren, die sich einzeln an die Konto Administratoren des PCs wenden.
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Bild, das die Konto Administratoren auf der Seite Partner Einstellungen Benutzerverwaltung anzeigt.":::
+ :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Bild, das die Konto Administratoren auf der Seite "Partner Einstellungen Benutzerverwaltung" anzeigt.":::
 
 - Wechseln Sie im linken Navigationsbereich zur Registerkarte Verweise, und überprüfen Sie, ob Sie auf die Seiten zugreifen können.
 
@@ -76,9 +76,9 @@ Wenn die Registerkarte Verweise nicht angezeigt wird:
 Nachdem Sie Ihr Konto in Partner Center eingerichtet haben,
 
 - Laden Sie alle Benutzer, die die Rolle "Deal Manager" oder "Verkäufer" im PSC zu Partner Center haben, als nächsten Schritt ein.
-- Der [Konto Administrator](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) , der Ihnen beim Zugriff auf Verweise geholfen hat, kann alle Benutzer einladen.
-- Bitten Sie den Konto Administrator beim einladen der Benutzer, ihm die [verweisadministrator](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) -Rolle zuzuweisen.
-- Einige ihrer PSC-Benutzer verwenden möglicherweise ein nicht-Geschäftskonto oder ein Konto aus einer Domäne, die sich von der Domäne unterscheidet, die Sie im Partner Center verwenden. Alle Benutzer müssen sich mit Ihrem Geschäftskonto, das an Ihren Azure AD Mandanten angefügt ist, bei Partner Center anmelden. Der [globale Administrator](https://docs.microsoft.com/partner-center/permissions-overview#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) kann dabei helfen. Um ihren globalen Administrator zu finden, wechseln Sie über das Zahnrad Symbol in der oberen rechten Ecke des Partner Centers zu den Partner Einstellungen. Klicken Sie auf der zweiten Ebene der linken Navigationsleiste auf die Seite Benutzerverwaltung. Klicken Sie oben rechts auf der Seite auf die Dropdown-Ansicht mit "alle Benutzer", und wechseln Sie zu "globale Administratoren".
+- Der [Konto Administrator](permissions-overview.md#manage-mpn-membership-and-your-company) , der Ihnen beim Zugriff auf Verweise geholfen hat, kann alle Benutzer einladen.
+- Bitten Sie den Konto Administrator beim einladen der Benutzer, ihm die [verweisadministrator](permissions-overview.md#manage-referrals) -Rolle zuzuweisen.
+- Einige ihrer PSC-Benutzer verwenden möglicherweise ein nicht-Geschäftskonto oder ein Konto aus einer Domäne, die sich von der Domäne unterscheidet, die Sie im Partner Center verwenden. Alle Benutzer müssen sich mit Ihrem Geschäftskonto, das an Ihren Azure AD Mandanten angefügt ist, bei Partner Center anmelden. Der [globale Administrator](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) kann dabei helfen. Um ihren globalen Administrator zu finden, wechseln Sie über das Zahnrad Symbol in der oberen rechten Ecke des Partner Centers zu den Partner Einstellungen. Klicken Sie auf der zweiten Ebene der linken Navigationsleiste auf die Seite Benutzerverwaltung. Klicken Sie oben rechts auf der Seite auf die Dropdown-Ansicht mit "alle Benutzer", und wechseln Sie zu "globale Administratoren".
 - Der globale Administrator kann entweder ein neues Benutzerkonto in Ihrem Azure AD-Mandanten erstellen oder den Benutzern Zugriff auf Gastbenutzer zuweisen.
 - Nachdem die Konten für alle PSC-Deal-Manager und Benutzer eingerichtet sind, müssen Sie sich bei Partner Center anmelden, auf der Registerkarte "Referenzen" im linken Navigationsbereich auf "überprüfen" klicken und sicherstellen, dass die Seite "Verweise" angezeigt wird.
 
@@ -100,16 +100,16 @@ Dies ist ein wichtiger Schritt, der Ihnen bei der Vorbereitung auf Co-Selling im
 
 |**Szenario**|**Partner Sales Connect**|**Partner Center**|
 |-----|:-----|:-----|
-|Benutzerrollen|PSC verfügt über die Rollen admin, Deal Manager und Verkäufer.|Der PC verfügt nur über die Rolle " [Verweis Administrator](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) ", die Lese-und Schreibberechtigungen für alle Geschäfte erteilt.|
-|Einladen von Microsoft für einen Co-Selling-Deal|Vom Microsoft-Verkäufer initiiert, gibt es keine explizite Frage nach Partner.|Der Partner muss eine [explizite Anfrage](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) stellen, wenn eine Microsoft-Verkäufer Hilfe benötigt wird. Der Microsoft-Verkäufer hat die Möglichkeit, die Anforderung abzulehnen.|
+|Benutzerrollen|PSC verfügt über die Rollen admin, Deal Manager und Verkäufer.|Der PC verfügt nur über die Rolle " [Verweis Administrator](permissions-overview.md#manage-referrals) ", die Lese-und Schreibberechtigungen für alle Geschäfte erteilt.|
+|Einladen von Microsoft für einen Co-Selling-Deal|Vom Microsoft-Verkäufer initiiert, gibt es keine explizite Frage nach Partner.|Der Partner muss eine [explizite Anfrage](manage-co-sell-opportunities.md#add-solutions) stellen, wenn eine Microsoft-Verkäufer Hilfe benötigt wird. Der Microsoft-Verkäufer hat die Möglichkeit, die Anforderung abzulehnen.|
 |Expiry|Es gibt kein Konzept für eine Ablaufzeit.|Eingehende Partner Verträge laufen in 14 Tagen ab, wenn Sie vom Partner nicht akzeptiert werden. Dasselbe gilt für ausgehende Partnerangebote, bei denen Sie in den abgelaufenen Status wechseln können, wenn der Microsoft-Verkäufer nicht innerhalb von 14 Tagen darauf reagiert.|
 |Details des Microsoft-Verkäufers|Sichtbar, sobald ein Problem erstellt wird.|Details des Microsoft-Verkäufers werden nur dann für Partner freigegeben, wenn der Verkäufer die Einladung zum Co-Selling von Partner explizit akzeptiert.|
-|[Private Pipeline](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities)|Nicht verfügbar.|Partner können ihre Pipeline freigeben, ohne den Microsoft-Verkäufern Einblick zu geben.|
-|Lösungen|Es können nur Lösungen hinzugefügt werden, die zu einer Preisliste gehören.|Partner können [Lösungen](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) hinzufügen, die den folgenden Listen angehören. a) ihre eigenen Lösungen b) Lösungen aus dem Microsoft First Party Catalog (ähnlich der Rolle "Transaktions Rolle in PSC") und "c" Co-Selling-Lösungen von anderen Drittanbieter Partnern (ähnlich wie die Rolle "ISV-Rolle" in PSC).|
+|[Private Pipeline](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|Nicht verfügbar.|Partner können ihre Pipeline freigeben, ohne den Microsoft-Verkäufern Einblick zu geben.|
+|Lösungen|Es können nur Lösungen hinzugefügt werden, die zu einer Preisliste gehören.|Partner können [Lösungen](manage-co-sell-opportunities.md#add-solutions) hinzufügen, die den folgenden Listen angehören. a) ihre eigenen Lösungen b) Lösungen aus dem Microsoft First Party Catalog (ähnlich der Rolle "Transaktions Rolle in PSC") und "c" Co-Selling-Lösungen von anderen Drittanbieter Partnern (ähnlich wie die Rolle "ISV-Rolle" in PSC).|
 |Zuweisungs Zuweisung|Nur der zugewiesene Verkäufer kann die Geschäfte anzeigen und darauf reagieren.|Team Mitglieder können einem Teil hinzugefügt werden, um die Mitarbeiter anzugeben, die an einem Teil arbeiten. es gibt keine Blockierung anderer verweisadministratoren, die diese Aktionen nicht anzeigen oder darauf reagieren.|
-|Kundenorganisation|Freier Formular Text Eintrag.|Sie können die [Kundenorganisation](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) anhand der [D-&B-Datenbank](https://www.dnb.com/) durchsuchen, indem Sie nur einige Zeichen eingeben. Der rechtliche Name und die Adresse werden automatisch basierend auf der Wahl aufgefüllt.|
+|Kundenorganisation|Freier Formular Text Eintrag.|Sie können die [Kundenorganisation](manage-co-sell-opportunities.md#select-your-customer) anhand der [D-&B-Datenbank](https://www.dnb.com/) durchsuchen, indem Sie nur einige Zeichen eingeben. Der rechtliche Name und die Adresse werden automatisch basierend auf der Wahl aufgefüllt.|
 |Kundenkontakt|Nicht obligatorisch.|Für die private Pipeline Freigabe nicht obligatorisch. Erforderlich, wenn der Microsoft-Verkäufer eingeladen wird, an einer Co-Selling-Anforderung teilzunehmen.|
-|Öffentliche API|Nicht verfügbar.|[Öffentliche API](https://docs.microsoft.com/partner/develop/referrals) zum programmgesteuerten Verwalten von Partner Center-verweisen.|
+|Öffentliche API|Nicht verfügbar.|[Öffentliche API](/partner/develop/referrals) zum programmgesteuerten Verwalten von Partner Center-verweisen.|
 
 ## <a name="psc-and-partner-center-field-mapping"></a>PSC-und Partner Center-Feld Zuordnung
 
@@ -128,7 +128,7 @@ In diesem Abschnitt wird die exakte Zuordnung von Attributen zwischen PSC und Pa
 - Die Rolle "Geschäft" ist kein Pflichtfeld im PC. Sie wird weder in einem der Workflows angezeigt noch aufgezeichnet. Es wird automatisch auf der Seite des Microsoft-Verkäufers basierend auf den Lösungen abgeleitet, die dem Geschäft hinzugefügt werden.
 - Das Datum der letzten Änderung wird nicht auf der Seite mit den Verweis Details auf dem PC angezeigt. Partner können die Sortierungs Funktionen verwenden, um die Geschäfte basierend auf dem Datum der letzten Aktualisierung zu sortieren.
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Ansicht Partner Sales Connect(PSC) und der Partner Center-Ansicht.":::
+ :::image type="content" source="images/pscmigration/gridview.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Ansicht "Partner Sales Connect" (PSC) und der Partner Center-Ansicht.":::
 
 **Detailansicht im PSC und Partner Center**
 
@@ -149,7 +149,7 @@ In diesem Abschnitt wird die exakte Zuordnung von Attributen zwischen PSC und Pa
 
 **Benutzerverwaltung in PSC und Partner Center**
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Partner Sales Connect (PSC)-Startseite und der Partner Center-Benutzerverwaltung in der Ansicht Kontoeinstellungen.":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Partner Sales Connect (PSC)-Startseite und der Partner Center-Benutzerverwaltung in der Ansicht "Kontoeinstellungen".":::
 
 **Benutzer Rollenzuweisung in PSC und Partner Center**
 
@@ -166,13 +166,13 @@ In diesem Abschnitt wird die exakte Zuordnung von Attributen zwischen PSC und Pa
 
 **Quartal. Was soll ich tun, wenn ich keinen Zugriff auf Partner Center habe?**
 
-Sie können sich an Ihre Administratoren wenden, die auf der Seite "kein Zugriff" aufgeführt sind, um die zugewiesenen Rollen zu erhalten. Sie benötigen die Rolle "[Verweis admin](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)" für Lese-und Schreibberechtigungen im Abschnitt "Verweise". Wenn Sie nur geschäftsprofile verwalten, benötigen Sie die Rolle "Geschäftsprofil Administrator" im Partner Center.
+Sie können sich an Ihre Administratoren wenden, die auf der Seite "kein Zugriff" aufgeführt sind, um die zugewiesenen Rollen zu erhalten. Sie benötigen die Rolle "[Verweis admin](permissions-overview.md#manage-referrals)" für Lese-und Schreibberechtigungen im Abschnitt "Verweise". Wenn Sie nur geschäftsprofile verwalten, benötigen Sie die Rolle "Geschäftsprofil Administrator" im Partner Center.
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="Bild, das den Zugriff ohne Zugriff in Partner Center anzeigt.":::
 
 **Q2. Wer kann mir Zugriff auf den Abschnitt "Verweise" in Partner Center gewähren?**
 
-Ihr [Konto Administrator](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) kann Ihnen Zugriff auf die Registerkarte "Verweise" gewähren. Um Ihren Konto Administrator zu finden, wechseln Sie über das Zahnrad Symbol in der oberen rechten Ecke des Partner Centers zu den Partner Einstellungen. Klicken Sie auf der zweiten Ebene der linken Navigationsleiste auf die Seite Benutzerverwaltung. Klicken Sie oben rechts auf der Seite auf die Dropdown-Ansicht mit "alle Benutzer", und wechseln Sie zu "Konto Administratoren". Auf der Seite werden dann alle Konto Administratoren mit ihren jeweiligen e-Mail-IDs angezeigt. Wenden Sie sich an die IT-Abteilung, um den Zugriff auf Ihr Geschäftskonto zu erhalten.
+Ihr [Konto Administrator](permissions-overview.md#manage-mpn-membership-and-your-company) kann Ihnen Zugriff auf die Registerkarte "Verweise" gewähren. Um Ihren Konto Administrator zu finden, wechseln Sie über das Zahnrad Symbol in der oberen rechten Ecke des Partner Centers zu den Partner Einstellungen. Klicken Sie auf der zweiten Ebene der linken Navigationsleiste auf die Seite Benutzerverwaltung. Klicken Sie oben rechts auf der Seite auf die Dropdown-Ansicht mit "alle Benutzer", und wechseln Sie zu "Konto Administratoren". Auf der Seite werden dann alle Konto Administratoren mit ihren jeweiligen e-Mail-IDs angezeigt. Wenden Sie sich an die IT-Abteilung, um den Zugriff auf Ihr Geschäftskonto zu erhalten.
 
 **Q3. Die Schaltfläche + neu bearbeiten ist für unser Konto abgeblendet. Was soll ich tun, um mit dem Erstellen von Deals zu beginnen?**
 
@@ -192,7 +192,7 @@ Nein, es gibt keine schreibgeschützte Ansicht der Deals im Abschnitt "Verweise"
 
 **Q7. Wie kann ich ein Problem registrieren, nachdem es als gewonnen gewonnen wurde?**
 
-Wenn der Vorgang die unten aufgeführten Kriterien erfüllt, wird ein Popup Fenster angezeigt, um die [Registrierung](https://docs.microsoft.com/partner-center/register-deals)zu beginnen.
+Wenn der Vorgang die unten aufgeführten Kriterien erfüllt, wird ein Popup Fenster angezeigt, um die [Registrierung](./register-deals.md)zu beginnen.
 
 - Es gibt eine berechtigte berechtigte Lösung, die an den Vertrag angeschlossen ist.
 - Der Microsoft-Verkäufer ist eingeladen, am Umgang teilzunehmen, oder Sie haben Sie zur Sache eingeladen.
@@ -204,11 +204,11 @@ Die "+ New-Deal-Registrierung" soll nur von den Partnern verwendet werden, die i
 
 **Q9. Ist das Hinzufügen einer Kundenorganisation obligatorisch?**
 
-Ja, das Hinzufügen einer [Kundenorganisation](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) ist im Partner Center obligatorisch. Zuerst suchen Sie nach dem Speicherort, an dem sich der Kunde befindet. Basierend auf den Details, die Sie besitzen. Sie können genau den genauen Gebäude Namen einschließen oder nur die Details der Stadt angeben. Bei der Organisations Suche werden alle juristischen Entitäten abgerufen, die mit dem eingegebenen Namen übereinstimmen, sodass Sie keine Adressen Details eingeben müssen. Alle Details werden automatisch basierend auf der ausgewählten Organisation ausgefüllt.
+Ja, das Hinzufügen einer [Kundenorganisation](./manage-co-sell-opportunities.md#select-your-customer) ist im Partner Center obligatorisch. Zuerst suchen Sie nach dem Speicherort, an dem sich der Kunde befindet. Basierend auf den Details, die Sie besitzen. Sie können genau den genauen Gebäude Namen einschließen oder nur die Details der Stadt angeben. Bei der Organisations Suche werden alle juristischen Entitäten abgerufen, die mit dem eingegebenen Namen übereinstimmen, sodass Sie keine Adressen Details eingeben müssen. Alle Details werden automatisch basierend auf der ausgewählten Organisation ausgefüllt.
 
 **Q10. Sind Kundenkontakt Details obligatorisch?**
 
-Hängt vom [Typ des](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities) zu erstellenden Typs ab. Wenn Sie nur ihre Pipeline freigeben und keine Hilfe von der Microsoft-Vertriebsorganisation benötigen, können Sie auswählen, dass Sie keine Kundenkontaktinformationen erhalten. Wenn Sie gemeinsam mit der Unterstützung von Microsoft-Verkäufern Hilfe benötigen, müssen Sie die Details des Kundenkontakts angeben. Sie sollten vor dem Erstellen einer Co-Selling-Anforderung im Partner Center eine explizite Zustimmung des Kunden erhalten.
+Hängt vom [Typ des](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) zu erstellenden Typs ab. Wenn Sie nur ihre Pipeline freigeben und keine Hilfe von der Microsoft-Vertriebsorganisation benötigen, können Sie auswählen, dass Sie keine Kundenkontaktinformationen erhalten. Wenn Sie gemeinsam mit der Unterstützung von Microsoft-Verkäufern Hilfe benötigen, müssen Sie die Details des Kundenkontakts angeben. Sie sollten vor dem Erstellen einer Co-Selling-Anforderung im Partner Center eine explizite Zustimmung des Kunden erhalten.
 
 **Q11. Wie viele Lösungen kann ich zu einem Teil hinzufügen?**
 
@@ -228,7 +228,7 @@ Ihr PDMS kann nicht direkt im Gegensatz zu PSC auf Partner Center zugreifen. Es 
 
 - OCP Insights: Wenn PDMS nur die & fortlaufenden Status anzeigen, können Sie das OCP Insights-Portal verwenden, um Ihre Organisations Ansicht zu erhalten. Hierbei handelt es sich um ein internes Tool, das nur für PDMS verfügbar ist. Beachten Sie, dass OCP Insights für die Benutzer Ihres Unternehmens nicht verfügbar ist.
 - Gastbenutzer in Partner Center: Sie können Ihr PDM- @microsoft.com Konto als Gastbenutzer in Partner Center hinzufügen und ihm eine verweisadministrator-Rolle zuweisen, damit Sie Verweise anzeigen und darauf reagieren können.
-- Erstellen eines [neuen Benutzers](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions#add-a-new-user) in Ihrem Mandanten: Sie können einen neuen Benutzer in Ihrem eigenen Mandanten erstellen und diese Details mit dem PDM teilen, sodass Sie Verweise anzeigen und auf ähnliche Verweise wie andere verweisbenutzer in Ihrem Konto reagieren können.
+- Erstellen eines [neuen Benutzers](./create-user-accounts-and-set-permissions.md#add-a-new-user) in Ihrem Mandanten: Sie können einen neuen Benutzer in Ihrem eigenen Mandanten erstellen und diese Details mit dem PDM teilen, sodass Sie Verweise anzeigen und auf ähnliche Verweise wie andere verweisbenutzer in Ihrem Konto reagieren können.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Ressourcen, die Sie beim Erstellen und Verwalten Ihrer Geschäfte in Partner Center unterstützen
 
@@ -236,15 +236,15 @@ Wenn Sie die Hilfe Themen für die Co-Selling-Hilfe noch nicht gelesen haben, he
 
 |**Aufgabe**   |**Artikel**   |
 |-----------------------|:-----------------------|
-|Grundlegendes zu den Registerkarten und Navigation auf der Seite mit den Möglichkeiten|[Navigieren im Co-Selling-Abschnitt](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#navigating-the-co-sell-section)|
-|Auswählen einer Kundenorganisation aus der Liste der D-&B |[Wählen Sie Ihren Kunden aus](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer)|
-|Ändern der Felder im Abschnitt "Details zum Abschnitt"|[Details zum Umgang](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#deal-details)|
-|Hinzufügen der Mitarbeiter Ihres Unternehmens zu einem Deal-Team|[Mitarbeiter hinzufügen](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-your-employees)|
-|Antworten auf einen Co-Selling-Deal|[Verwalten von Co-Selling-Geschäften](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#responding-to-a-co-sell-opportunity)
-|Von Ihnen im Partner Center ersicherte Angebote registrieren |[Registrieren eines neuen Angebots](https://docs.microsoft.com/partner-center/register-deals)
-|Verschaffen Sie sich Einblicke, und informieren Sie sich über die Funktionsweise ihrer Verweise. |[Einblicke zu Empfehlungen](https://docs.microsoft.com/partner-center/referral-insights)
-|Erstellen und Verwalten von Geschäftsprofilen|[Verwalten von Geschäftsprofilen](https://docs.microsoft.com/partner-center/create-a-marketing-profile)
-|Verwalten von Leads für Ihr Geschäftsprofil |[Verwalten von Leads](https://docs.microsoft.com/partner-center/manage-leads)|
+|Grundlegendes zu den Registerkarten und Navigation auf der Seite mit den Möglichkeiten|[Navigieren im Co-Selling-Abschnitt](./manage-co-sell-opportunities.md#navigating-the-co-sell-section)|
+|Auswählen einer Kundenorganisation aus der Liste der D-&B |[Wählen Sie Ihren Kunden aus](./manage-co-sell-opportunities.md#select-your-customer)|
+|Ändern der Felder im Abschnitt "Details zum Abschnitt"|[Details zum Umgang](./manage-co-sell-opportunities.md#deal-details)|
+|Hinzufügen von Teammitgliedern zu einem Deal-Team|[Mitarbeiter hinzufügen](./manage-co-sell-opportunities.md#add-team-members)|
+|Antworten auf einen Co-Selling-Deal|[Verwalten von Co-Selling-Geschäften](./manage-co-sell-opportunities.md#responding-to-a-co-sell-opportunity)
+|Von Ihnen im Partner Center ersicherte Angebote registrieren |[Registrieren eines neuen Angebots](./register-deals.md)
+|Verschaffen Sie sich Einblicke, und informieren Sie sich über die Funktionsweise ihrer Verweise. |[Einblicke zu Empfehlungen](./referral-insights.md)
+|Erstellen und Verwalten von Geschäftsprofilen|[Verwalten von Geschäftsprofilen](./create-a-marketing-profile.md)
+|Verwalten von Leads für Ihr Geschäftsprofil |[Verwalten von Leads](./manage-leads.md)|
 
 ## <a name="additional-resources"></a>Zusätzliche Ressourcen
 

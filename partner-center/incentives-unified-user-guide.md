@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 32a7afcd939d47ed71627511645e1f3560717288
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 4f5c2188c88f66c3cc406af32bde9043ae7bb4c2
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714364"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999884"
 ---
 # <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>Zugreifen auf die Auszahlungs Seiten für Windows-apps und-Spiele, MPN-Incentives und kommerzielle Marketplace-Zahlungen
 
@@ -29,10 +29,10 @@ ms.locfileid: "90714364"
 
 Die Informationen zur Auszahlungs Hilfe, die für Sie relevant sind, hängen davon ab, in welchem Partnerprogramm Sie arbeiten. Wählen Sie den entsprechenden Link unten aus, um die für Sie geeignete Seite anzuzeigen:
 
-- Informationen zu Windows-apps und Spiel Zahlungen finden Sie unter [Auszahlungs Zusammenfassung](https://docs.microsoft.com/windows/uwp/publish/payout-summary) in der Windows-Entwicklerdokumentation.
+- Informationen zu Windows-apps und Spiel Zahlungen finden Sie unter [Auszahlungs Zusammenfassung](/windows/uwp/publish/payout-summary) in der Windows-Entwicklerdokumentation.
 
 - Informationen zu Microsoft Partner Network-Incentive-Zahlungen finden Sie unter [Anzeigen der Informationen zu Incentive-Zahlungen](understand-incentive-payouts.md) in der MPN-Incentive-Dokumentation.
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- Informationen zu kommerziellen Marketplace-Zahlungen für unabhängige Software Anbieter (ISVs) finden Sie unter [Zusammenfassung des kommerziellen Marketplace-Auszahlungs](https://docs.microsoft.com/azure/marketplace/partner-center-portal/payout-summary)Dienstanbietern.
+- Informationen zu kommerziellen Marketplace-Zahlungen für unabhängige Software Anbieter (ISVs) finden Sie unter [Zusammenfassung des kommerziellen Marketplace-Auszahlungs](/azure/marketplace/partner-center-portal/payout-summary)Dienstanbietern.

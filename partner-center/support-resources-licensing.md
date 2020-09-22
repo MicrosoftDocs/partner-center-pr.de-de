@@ -8,14 +8,14 @@ description: Als Microsoft-Partner haben Sie möglicherweise Fragen zur Verwendu
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b557e3cc5bc7dbb7964809ee5032c2ad2b5c8a9
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041013"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999754"
 ---
-# <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Leitfaden zu Lizenzierungs Ressourcen für Microsoft-Partner 
+# <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Leitfaden zum Lizenzieren von Ressourcen für Microsoft-Partner 
 
 **Zielgruppe**
 
@@ -48,7 +48,7 @@ Weitere Informationen zu bestimmten Lizenzierungs Programmen finden Sie in den f
 |Erfahren Sie mehr über die Volumen Lizenzierung (VL) und die Lizenzierung für bestimmte Lösungen.  | [Microsoft-Lizenzierung-Produkte und-Lösungen](https://www.microsoft.com/licensing/default) |
 |Erfahren Sie mehr über die Volumen Lizenzierungs Schulungen und-Ressourcen, die bei VL-Preisen,-angeboten,-Vereinbarungen, Produktaktivierung und anderen Tools helfen können.  | [Microsoft Partner Network Schulungen und Ressourcen](https://partner.microsoft.com/licensing/training-and-resources) |
 |Erkunden Sie die Schulungsmodule für die Lizenzierung für die **Lizenzierung** .  | [Lizenzierung vorbereiten](https://www.getlicensingready.com/)  |
-|Informieren Sie sich über die Lizenzierungs Prüfung, die Sie beim Entwerfen und Bereitstellen von Microsoft-Lizenzierungs Lösungen für große Unternehmen unterstützt *(die Prüfung wird ab dem 31. Januar 2021 um 11:59 Uhr Mitte)*  | [Prüfung 70-705](https://docs.microsoft.com/learn/certifications/exams/70-705) |
+|Informieren Sie sich über die Lizenzierungs Prüfung, die Sie beim Entwerfen und Bereitstellen von Microsoft-Lizenzierungs Lösungen für große Unternehmen unterstützt *(die Prüfung wird ab dem 31. Januar 2021 um 11:59 Uhr Mitte)*  | [Prüfung 70-705](/learn/certifications/exams/70-705) |
 
 ## <a name="program-specific-and-product-specific-licensing-terms-and-agreements"></a>Programm spezifische und produktspezifische Lizenzierungs Bestimmungen und Vereinbarungen
 
@@ -66,7 +66,7 @@ Diese anderen Ressourcen sind möglicherweise hilfreich. Für den Zugriff auf ei
 
 Wenn Sie bestimmte Fragen zum Erfüllungs-, Zahlungs-oder Finanzierungs Zeitpunkt der Lizenzierung haben, ist Ihre erste Anlauf Person der indirekte Anbieter (für das CSP-Programm) oder der Programm Verteiler. Möglicherweise finden Sie auch die folgenden Ressourcen, die hilfreich sind.
 
-|Aufgabe  | Siehe  |
+|Aufgabe  | Finden Sie unter  |
 |:------------------|:--------------- |
 |Beantworten Sie Fragen zu Installationsmedien im Volumen Lizenzierungsprogramm. | [Seite "Lizenz Erfüllung"](https://www.microsoft.com/licensing/existing-customer/fulfillment.aspx)  |
 |Beantworten Sie Fragen zu Onlinedienste für die folgenden Registrierungs Programme: Konzernvertrag (EA), Server-und cloudregistrierung (SCE) und Open Value-Abonnement (OVS).  | [Schulungen und Ressourcen zum Microsoft Volume Licensing Center](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
@@ -78,13 +78,13 @@ Wenn Sie bestimmte Fragen zum Erfüllungs-, Zahlungs-oder Finanzierungs Zeitpunk
 
 Ihr indirekter Anbieter (für das CSP-Programm) oder der Programm Verteiler sollte in der Lage sein, viele ihrer speziellen Fragen zur Lizenzierung oder zum Durchführung von Kunden angeboten zu beantworten. Die folgenden Ressourcen können Ihnen auch helfen.
 
-|Aufgabe  | Siehe  |
+|Aufgabe  | Finden Sie unter  |
 |:------------------|:--------------- |
 |Suchen eines Partners oder Verteilers | [Finden Sie einen Partner, der Ihnen helfen kann](find-a-partner.md)  |
 |Anzeigen der Preise und Angebote für das CSP-Programm über das Partner Center-Dashboard *(muss im CSP-Programm registriert sein, um dieses Dashboard anzuzeigen)*  |[Übersicht über CSP-Preise und-Angebote](pricing-and-offers.md) oder [CSP-Dokumente und-Ressourcen](csp-documents-and-learning-resources.md) |
 |Erkunden Sie Marketingmaterialien, um Sie bei der Kundenlösung zu unterstützen  | [Material zur MPN-Partner Bereitschaft](https://partner.microsoft.com/asset#/?type=marketing-campaigns&area=mrkt)  |
 |Erhalten Sie Hilfe von Microsoft Technical Presales und Bereitstellungs Diensten für einen Kunden-oder Online Fall  | [Übersicht über Technical Presales und Bereitstellungs Dienste](https://partner.microsoft.com/training/technical-presales-deployment-services) oder [Support Übersicht](https://support.microsoft.com/help/3121537/using-technical-presales-and-deployment-services)  |
-|Erfahren Sie, wie Sie Microsoft Azure in Open Licensing aktivieren.   | [FAQ zu Online Dienst Aktivierung für geöffnete Programme](https://docs.microsoft.com/licensing/online-service-activation-faq)  |
+|Erfahren Sie, wie Sie Microsoft Azure in Open Licensing aktivieren.   | [FAQ zu Online Dienst Aktivierung für geöffnete Programme](/licensing/online-service-activation-faq)  |
 |Wie und wann soll eine SLA-Gutschrift von Microsoft für Kunden, die von einem Ausfall betroffen sind, berechnet und angefordert werden?  | [Anfordern einer SLA-Gutschrift für einen Ausfall](request-credit.md)   |
 |Hilfe von der Microsoft Partner Community erhalten  | [Microsoft Partner Community-Forum](https://www.microsoftpartnercommunity.com)  |
 

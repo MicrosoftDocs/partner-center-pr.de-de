@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: ba5fe60234c002ad2696de348a1b3b9b1284c149
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280593"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999294"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Verwalten von Nichtzahlung, Betrug oder Missbrauch im Partner Center
 
@@ -79,7 +79,7 @@ Vorschläge zum Verringern von Online Risiken beim Onboarding von neuen Kunden:
 - Verwenden Sie die Multi-Factor Authentication (z. b. die SMS-Überprüfung) während der Registrierung, um das Risiko für die Erstellung und den Einkauf von Robotor
 - Verwalten und Nachverfolgen von Identitäten mithilfe von Diensten (z. b. digitalen Identitäts Diensten).
 - Bewerten Sie die Finanzstärke von Kunden durch strenge Kreditkarten-Betrugs Erkennungssysteme.
-- Richten Sie eine Richtlinie zum Löschen von Sammlungen ein Beschreiben Sie den Prozess ihrer Sammlungen, und wenn der Zugriff auf Abonnements durch eine Nichtzahlung beeinträchtigt wird. (Sie können den Zugriff auf [die Abonnements eines Kunden für eine](suspend-a-subscription.md) Nichtzahlung deaktivieren oder diese Sperren.)
+- Richten Sie eine Richtlinie zum Löschen von Sammlungen ein Beschreiben Sie den Prozess ihrer Sammlungen, und wenn der Zugriff auf Abonnements durch eine Nichtzahlung beeinträchtigt wird. (Sie können den Zugriff auf [die Abonnements eines Kunden für eine](create-a-new-subscription.md#suspend-a-subscription) Nichtzahlung deaktivieren oder diese Sperren.)
 
 ### <a name="managing-customer-accounts"></a>Kundenkonten
 

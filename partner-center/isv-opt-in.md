@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc997d302b2ccd4dffa7708a9ec1cad60b09f998
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 87863efd5c4d15c560a488f3cf6ec817c5e34ddc
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949444"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000114"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Exklusive Marketplace-Angebote von unabhängigen Softwareherstellern
 
@@ -46,6 +46,6 @@ Die Optionen lauten:
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- Weitere Informationen zur ISV-Benutzer Darstellung im kommerziellen Marketplace finden Sie unter [cloudlösungsanbieter](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers).
+- Weitere Informationen zur ISV-Benutzer Darstellung im kommerziellen Marketplace finden Sie unter [cloudlösungsanbieter](/azure/marketplace/cloud-solution-providers).
 
 - Weitere Informationen zum kommerziellen Marketplace finden Sie unter Übersicht über den [kommerziellen Marketplace für cloudlösungsanbieter](csp-commercial-marketplace-overview.md).

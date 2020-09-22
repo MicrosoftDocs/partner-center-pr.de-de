@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7551d3d010bfb7a4bd96b425d0afbf16ab8ebb1d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9964dd4fb1ae96e890dd357a045acdb152fb95f1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434079"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999104"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registrieren Sie die von Ihnen im Partner Center gewonnenen Angebote, damit Sie später weitere Möglichkeiten erhalten.
 
@@ -24,7 +24,7 @@ ms.locfileid: "86434079"
 
 Sie können die von Ihnen im Partner Center gewonnenen Angebote registrieren, indem Sie zusätzliche Informationen zum Vertrag bereitstellen. Diese Informationen helfen uns, Ihnen in Zukunft weitere Möglichkeiten zu bieten.
 
-Für bestimmte in Frage kommende Lösungen werden Sie nach der Auswahl von **Gewonnen** im [Empfehlungsantwortvorgang](responding-to-referrals.md) aufgefordert, zusätzliche Informationen anzugeben, um Ihr Angebot zu registrieren. Microsoft überprüft die von Ihnen bereitgestellten Informationen und kann während des Überprüfungsvorgangs weitere Details anfordern.
+Für bestimmte in Frage kommende Lösungen werden Sie nach der Auswahl von **Gewonnen** im [Empfehlungsantwortvorgang](manage-leads.md) aufgefordert, zusätzliche Informationen anzugeben, um Ihr Angebot zu registrieren. Microsoft überprüft die von Ihnen bereitgestellten Informationen und kann während des Überprüfungsvorgangs weitere Details anfordern.
 
 Sie können auch neue, von Ihnen gewonnene Angebote registrieren, die eine Ihrer Lösungen verwenden, auch wenn sie nicht durch eine [Empfehlung](referrals.md) zustande gekommen sind. 
 

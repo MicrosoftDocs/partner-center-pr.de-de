@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 3b972090c376399dfc474d74b8be5b03330ea0c1
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: c76541295c8eb068dbde84a4f6dd6f058af37c42
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714404"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999304"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Häufig gestellte Fragen zu den Auszahlungs-und Steuer Profilen für die Anreize
 
@@ -39,7 +39,7 @@ Sie müssen möglicherweise auch aktualisierte Informationen bereitstellen, wenn
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>Wie kann ich meine Auszahlungs- und/oder Steuerdetails bereitstellen/aktualisieren?
 
-Ausführliche Informationen zum Aktualisieren von Zahlungs-und Steuer Details in Partner Center finden Sie unter [Erstellen und Verwalten von Auszahlungs-und Steuer Profilen in Partner Center](https://docs.microsoft.com/partner-center/incentives-create-and-manage-your-payout-and-tax-profiles.md).
+Ausführliche Informationen zum Aktualisieren von Zahlungs-und Steuer Details in Partner Center finden Sie unter [Erstellen und Verwalten von Auszahlungs-und Steuer Profilen in Partner Center](./incentives-create-and-manage-your-payout-and-tax-profiles.md).
 
 ## <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>Warum sehe ich meine Registrierungen nicht, wenn ich mein Auszahlungs- und Steuerprofil zuweise?
 

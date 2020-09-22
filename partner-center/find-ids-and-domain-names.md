@@ -59,11 +59,11 @@ Das Auffinden des Domänen Namens und der Mandanten-ID ist möglicherweise nicht
 
 3. Suchen Sie im Menü den Abschnitt **Verwalten** , und wählen Sie dann **Benutzer**aus.
 
-      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Zeigt Azure Active Directory Menü mit hervorgehobener Option "Benutzer" an.":::
+      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Zeigt Azure Active Directory Menü mit hervorgehobener Option Benutzer an.":::
 
 4. Geben Sie auf der Seite Benutzer den Namen des Benutzers in das Suchfeld ein.
 
-      :::image type="content" source="images/id/5-find-id-azure-portal-aad-all-users-search.png" alt-text="Zeigt die Seite "Benutzer" mit Suchfeld an, um nach einem bestimmten Benutzer zu suchen.":::
+      :::image type="content" source="images/id/5-find-id-azure-portal-aad-all-users-search.png" alt-text="Zeigt die Seite Benutzer mit Suchfeld an, um nach einem bestimmten Benutzer zu suchen.":::
 
 5. Wählen Sie den Namen des Benutzers aus, in dem er in der Liste angezeigt wird.  
 
@@ -71,7 +71,7 @@ Das Auffinden des Domänen Namens und der Mandanten-ID ist möglicherweise nicht
 
 6. Suchen Sie auf der Profilseite des Benutzers den Abschnitt "Identität". Das Feld Objekt-ID wird hier mit der eindeutigen Objekt-ID des Benutzers angezeigt.
 
-      :::image type="content" source="images/id/7-find-id-azure-portal-aad-user-profile-object-id.png" alt-text="Zeigt die Seite "Benutzerprofil" mit dem Identitäts Abschnitt und einem markierten Feld für die Objekt-ID an.":::
+      :::image type="content" source="images/id/7-find-id-azure-portal-aad-user-profile-object-id.png" alt-text="Zeigt die Seite Benutzerprofil mit dem Identitäts Abschnitt und einem markierten Feld für die Objekt-ID an.":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 

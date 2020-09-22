@@ -59,11 +59,11 @@ ms.locfileid: "90740403"
 
 3. <span data-ttu-id="3327f-131">Suchen Sie im Menü den Abschnitt **Verwalten** , und wählen Sie dann **Benutzer**aus.</span><span class="sxs-lookup"><span data-stu-id="3327f-131">Locate the **Manage** section on the menu, then select **Users**.</span></span>
 
-      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Zeigt Azure Active Directory Menü mit hervorgehobener Option "Benutzer" an.":::
+      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Zeigt Azure Active Directory Menü mit hervorgehobener Option Benutzer an.":::
 
 4. <span data-ttu-id="3327f-133">Geben Sie auf der Seite Benutzer den Namen des Benutzers in das Suchfeld ein.</span><span class="sxs-lookup"><span data-stu-id="3327f-133">From the Users page, type the user's name in the search box.</span></span>
 
-      :::image type="content" source="images/id/5-find-id-azure-portal-aad-all-users-search.png" alt-text="Zeigt die Seite "Benutzer" mit Suchfeld an, um nach einem bestimmten Benutzer zu suchen.":::
+      :::image type="content" source="images/id/5-find-id-azure-portal-aad-all-users-search.png" alt-text="Zeigt die Seite Benutzer mit Suchfeld an, um nach einem bestimmten Benutzer zu suchen.":::
 
 5. <span data-ttu-id="3327f-135">Wählen Sie den Namen des Benutzers aus, in dem er in der Liste angezeigt wird.</span><span class="sxs-lookup"><span data-stu-id="3327f-135">Select the user's name where it appears on the list.</span></span>  
 
@@ -71,7 +71,7 @@ ms.locfileid: "90740403"
 
 6. <span data-ttu-id="3327f-137">Suchen Sie auf der Profilseite des Benutzers den Abschnitt "Identität".</span><span class="sxs-lookup"><span data-stu-id="3327f-137">Locate the Identity section on the user's Profile page.</span></span> <span data-ttu-id="3327f-138">Das Feld Objekt-ID wird hier mit der eindeutigen Objekt-ID des Benutzers angezeigt.</span><span class="sxs-lookup"><span data-stu-id="3327f-138">The Object ID field appears here with the user's unique object ID.</span></span>
 
-      :::image type="content" source="images/id/7-find-id-azure-portal-aad-user-profile-object-id.png" alt-text="Zeigt die Seite "Benutzerprofil" mit dem Identitäts Abschnitt und einem markierten Feld für die Objekt-ID an.":::
+      :::image type="content" source="images/id/7-find-id-azure-portal-aad-user-profile-object-id.png" alt-text="Zeigt die Seite Benutzerprofil mit dem Identitäts Abschnitt und einem markierten Feld für die Objekt-ID an.":::
 
 ## <a name="next-steps"></a><span data-ttu-id="3327f-140">Nächste Schritte</span><span class="sxs-lookup"><span data-stu-id="3327f-140">Next steps</span></span>
 

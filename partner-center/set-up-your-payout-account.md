@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: e47277efa11fa7e08a40be867287f92e42a99811
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026453"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007404"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Einrichten von Auszahlungskonten und Steuerformularen
 
@@ -28,7 +28,7 @@ Nachdem Sie Ihr Konto eingerichtet haben, müssen Sie zwei Schritte ausführen, 
 - [Einrichten Ihres Auszahlungskontos](#payout-account)
 
 > [!NOTE]
-> Ausführliche Informationen dazu, wie und wann Sie das Geld für kostenpflichtige Angebote erhalten, finden Sie unter [Erhalten der Bezahlung](marketplace-payout-account-setup.md).
+> Ausführliche Informationen dazu, wie und wann Sie das Geld für kostenpflichtige Angebote erhalten, finden Sie unter [Erhalten der Bezahlung](/azure/marketplace/marketplace-payout-account-setup).
 
 ## <a name="tax-forms"></a>Steuerformulare
 
@@ -131,7 +131,7 @@ Sie können vorhandene Zahlungsprofile bearbeiten, falls Sie Änderungen vornehm
 3. Ihre Zahlungsprofile werden zusammen mit dem jeweiligen Status aufgeführt. Suchen Sie nach dem Profil, das Sie bearbeiten möchten, und klicken Sie ganz rechts auf **Bearbeiten**.
 
 > [!IMPORTANT]
-> Wenn Sie Ihr Zahlungskonto ändern, kann dies dazu führen, dass sich Ihre Zahlungen um maximal einen Zahlungszyklus verzögern. Diese Verzögerung tritt auf, weil wir die Kontoänderung überprüfen müssen. Dies ist der gleiche Vorgang wie bei der ersten Einrichtung des Zahlungskontos. Nachdem das Konto bestätigt wurde, erhalten Sie trotzdem den vollen Betrag. Zahlungen, die für den aktuellen Zahlungszyklus fällig sind, werden im nächsten Zyklus hinzugefügt. Weitere Informationen finden Sie unter [Erhalten der Bezahlung](marketplace-payout-account-setup.md).
+> Wenn Sie Ihr Zahlungskonto ändern, kann dies dazu führen, dass sich Ihre Zahlungen um maximal einen Zahlungszyklus verzögern. Diese Verzögerung tritt auf, weil wir die Kontoänderung überprüfen müssen. Dies ist der gleiche Vorgang wie bei der ersten Einrichtung des Zahlungskontos. Nachdem das Konto bestätigt wurde, erhalten Sie trotzdem den vollen Betrag. Zahlungen, die für den aktuellen Zahlungszyklus fällig sind, werden im nächsten Zyklus hinzugefügt. Weitere Informationen finden Sie unter [Erhalten der Bezahlung](/azure/marketplace/marketplace-payout-account-setup).
 
 ### <a name="paypal-info"></a>PayPal-Informationen
 

@@ -8,12 +8,12 @@ description: Fordern Sie eine Beziehung mit einem Kunden für Multi-Channel-Szen
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 53cb70e4d21824dc030f469b43e4465e9c5ce871
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 26f39943ecc06f70b0194f1e892c4cfa218f5ee9
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811300"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007414"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Anfordern einer Handelspartnerbeziehung von einem Kunden in Partner Center
 
@@ -45,7 +45,7 @@ Sie können eine Reseller-Beziehung mit einem Kunden aus Ihrem Land oder aus der
 5. Nachdem der Kunde die Einladung angenommen hat, wird er auf der Seite **Kunden** angezeigt, und Sie können den Dienst für den Kunden von dort aus bereitstellen und verwalten.
 
    > [!NOTE]
-   > Wenn der Kunde den Microsoft-Kundenvertrag noch nicht akzeptiert hat, wird er aufgefordert, dies zu tun, wenn er Ihre Einladung annimmt. 
+   > Wenn der Kunde den Microsoft-Kundenvertrag noch nicht akzeptiert hat, wird er aufgefordert, dies zu tun, wenn er Ihre Einladung annimmt. Der Kunde muss globaler Administrator sein, um eine Einladung zu akzeptieren.
 
 6. Erweitere zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem du neben seinem Namen auf den nach unten weisenden Pfeil klickst.
 

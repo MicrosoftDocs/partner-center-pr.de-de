@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 10/31/2018
-ms.openlocfilehash: b894bd8c4c609cfffb1cdb88e29bb4dc9b937df5
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 4d750f677d54023731cbef587c4ccdea30aafb43
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026448"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007472"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Kennenlernen der von Microsoft ausgestellten IRS-Steuerformulare
 
@@ -27,7 +27,7 @@ Nachfolgend erläutern wir diese Formulare eingehender, etwa, wer sie erhält un
 |1042-S | Im Zusammenhang mit Zahlungen, die für Sie durchgeführt werden und die USA der Steuerpflichtige Steuer | Gedruckte Formulare werden am oder vor dem 15. **März**postmarkiert, und PDF-Kopien werden in Partner Center (in den **Partner Center-Entwicklereinstellungen** unter **Auszahlungs-und Steuer > Auszahlungs-und Steuer profile**) gleichzeitig verfügbar sein.  |
 
 > [!NOTE]
-> Die von uns verwendete Adresse in den IRS-Steuerformularen ergibt sich aus der Adresse Ihres [Steuer Profils](marketplace-payout-account-setup.md). Wenn sich Ihre Adresse geändert hat, stellen Sie sicher, dass Sie die Adresse in Ihrem **Steuer Profil**aktualisieren.
+> Die von uns verwendete Adresse in den IRS-Steuerformularen ergibt sich aus der Adresse Ihres [Steuer Profils](/azure/marketplace/marketplace-payout-account-setup). Wenn sich Ihre Adresse geändert hat, stellen Sie sicher, dass Sie die Adresse in Ihrem **Steuer Profil**aktualisieren.
 
 Die Steuerformulare werden von den folgenden Adressen an Sie gesendet:
 

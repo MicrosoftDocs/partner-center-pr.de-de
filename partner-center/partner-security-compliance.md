@@ -9,12 +9,12 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 79fd61827f64a060da2b1ecd8f7eeceedb2fcdc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 1b6c2d56a0747ddf2bd1a821886e371ed698a4a1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220198"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999834"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>Status der Sicherheitsanforderungen für Partner – hier finden Sie Antworten auf Ihre Fragen und Berichte zum aktuellen Status.
 
@@ -37,7 +37,7 @@ Seit dem 1. August 2019 sind alle Partner verpflichtet, die mehrstufige Authenti
 Wir möchten sicherstellen, dass jeder Benutzer für jede einzelne Authentifizierung über eine MFA-Herausforderung verfügt. Dies kann auf eine der folgenden Arten erreicht werden:
 
 - Implementieren von Azure AD Premium zum Sicherstellen, dass MFA für jeden Benutzer erzwungen wird
-- Implementieren der [Azure AD-Sicherheitsstandards](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+- Implementieren der [Azure AD-Sicherheitsstandards](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - Implementieren der Lösung eines Drittanbieters zum Sicherstellen, dass MFA für jeden Benutzer erzwungen wird
 
 ## <a name="partner-security-requirements-status"></a>Status der Sicherheitsanforderungen für Partner
@@ -53,10 +53,10 @@ Der Partner Center-MFA-Bericht bietet Erkenntnisse über die MFA-Partnerimplemen
 
 ### <a name="mfa-configuration-on-a-csp-tenant"></a>MFA-Konfiguration für einen CSP-Mandanten
 
-Diese Metrik bezieht sich auf die MFA-Konfiguration eines CSP-Mandanten, die täglich erfasst und gemeldet wird. Sie misst den Prozentsatz der aktivierten Benutzerkonten mit MFA, die mithilfe einer der [MFA-Optionen](https://aka.ms/partner-mfa-get-started) erzwungen wird. Beispiel:
+Diese Metrik bezieht sich auf die MFA-Konfiguration eines CSP-Mandanten, die täglich erfasst und gemeldet wird. Sie misst den Prozentsatz der aktivierten Benutzerkonten mit MFA, die mithilfe einer der [MFA-Optionen](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) erzwungen wird. Beispiel:
 
 - Contoso ist ein CSP-Partner mit 110 Benutzerkonten im Mandanten. 10 Benutzerkonten sind deaktiviert. 
-- Für 90 von den übrigen 100 Benutzerkonten wird mithilfe der bereitgestellten [MFA-Optionen](https://aka.ms/partner-mfa-get-started) MFA erzwungen. Daher zeigt die Metrik 90 % an. 
+- Für 90 von den übrigen 100 Benutzerkonten wird mithilfe der bereitgestellten [MFA-Optionen](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) MFA erzwungen. Daher zeigt die Metrik 90 % an. 
 
 ### <a name="partner-center-activities-with-mfa"></a>Partner Center-Aktivitäten mit MFA
 
@@ -127,7 +127,7 @@ Wenn Sie eine MFA-Lösung eines Drittanbieters verwenden, bestimmen Sie, wie Sie
 
 ### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>Identifizieren der Benutzer, die sich ohne MFA beim Partner Center angemeldet haben
 
-Es kann sinnvoll sein, zu identifizieren, welche Benutzer sich ohne MFA-Überprüfung beim Partner Center anmelden und sie mithilfe Ihrer aktuellen MFA-Implementierung zu überprüfen. Sie können den [Azure AD-Anmeldebericht](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins) verwenden, um herauszufinden, ob ein Benutzer die MFA-Überprüfung abgeschlossen hat oder nicht. Der Azure AD-Anmeldebericht steht zurzeit nur Partnern zur Verfügung, die Azure AD Premium oder eine andere O365-SKU abonniert haben, die Azure AD Premium umfasst (beispielsweise EMS).
+Es kann sinnvoll sein, zu identifizieren, welche Benutzer sich ohne MFA-Überprüfung beim Partner Center anmelden und sie mithilfe Ihrer aktuellen MFA-Implementierung zu überprüfen. Sie können den [Azure AD-Anmeldebericht](/azure/active-directory/reports-monitoring/concept-sign-ins) verwenden, um herauszufinden, ob ein Benutzer die MFA-Überprüfung abgeschlossen hat oder nicht. Der Azure AD-Anmeldebericht steht zurzeit nur Partnern zur Verfügung, die Azure AD Premium oder eine andere O365-SKU abonniert haben, die Azure AD Premium umfasst (beispielsweise EMS).
 
 ## <a name="next-steps"></a>Nächste Schritte
 

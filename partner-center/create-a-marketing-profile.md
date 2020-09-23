@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d07a7d04ca92bb7c40559b127707b09e82f2e4ff
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 8425461747c2cf4978d13ee3c2961ac426231bd5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435269"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000444"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -142,11 +142,12 @@ Nachdem Sie Ihr Profil veröffentlicht haben, werden Aktualisierungen in Suchanf
 
 ## <a name="improve-the-visibility-of-your-profile"></a>Verbessern der Sichtbarkeit Ihres Profils 
 
-- **[Reagieren Sie schnell auf Anfragen](responding-to-referrals.md)** . Wenn Sie eine Kundenempfehlung erhalten, kann eine schnellere Antwort für zukünftige Kunden zu besseren Ergebnissen auf den Suchseiten führen.
+- **[Reagieren Sie schnell auf Anfragen](manage-leads.md)** . Wenn Sie eine Kundenempfehlung erhalten, kann eine schnellere Antwort für zukünftige Kunden zu besseren Ergebnissen auf den Suchseiten führen.
+
 - **Seien Sie wählerisch bei Ihren Tags**.  Es ist besser, weniger Tags zu haben, die die Angebote, Lösungen, Nutzenversprechen und Alleinstellung deines Unternehmens am besten darstellen, damit du konsistent Erfolge nachweisen kannst.  Davon profitieren Sie in zukünftigen Suchergebnissen.
 - **Verdienen Sie sich Kompetenz-Tags** über Microsoft, um Ihr Sachverständnis in Bezug auf unsere Produkte zu demonstrieren.
 - **Verdienen Sie sich Unterstützungs-Tags** von Kunden, die Ihre Arbeit zu schätzen wissen.
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-[Reaktion auf Empfehlungen](responding-to-referrals.md)
+[Reaktion auf Empfehlungen](manage-leads.md)

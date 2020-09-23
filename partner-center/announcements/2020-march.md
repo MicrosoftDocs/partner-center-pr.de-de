@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 5cbaaa63ce4e28f57e8f50bff8ee13f013080526
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 1b3578a1af437b3a75a774c5cc559b8a8c50c622
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943977"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999504"
 ---
 # <a name="march-2020-announcements"></a>Ankündigungen für März 2020
 
@@ -86,7 +86,7 @@ _________________
 - Datum: 2020-03-20
 - Typ: Funktionen
 - Status: Jetzt verfügbar
-- [Weitere Informationen](https://docs.microsoft.com/partner-center/)
+- [Weitere Informationen](../index.yml)
 
 ### <a name="summary"></a>Zusammenfassung:
 

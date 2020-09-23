@@ -191,6 +191,8 @@
           href: connector-dynamics.md
         - name: Co-Selling-Connector für Salesforce CRM – Übersicht
           href: connector-salesforce.md
+        - name: Problembehandlung bei Connectors mit Co-Selling-Empfehlungen
+          href: connectors-troubleshoot.md
         - name: 'Co-Selling für Partner, die von Partner Sales Connect (PSC) migrieren'
           href: psc-to-pc.md
         - name: Registrieren Ihrer Angebote
@@ -301,6 +303,10 @@
           href: license-based-billing.md
         - name: Szenarien für lizenzbasierte Saas-Abonnements
           href: common-billing-scenarios-saas.md
+        - name: Abrechnung für Marketplace-Angebote
+          href: csp-commercial-marketplace-billing.md
+        - name: Bezahlung – Marketplace
+          href: marketplace-get-paid.md
     - name: Anzeigen von digitalen Signaturen – Partner Center Indien
       href: digital-signature.md
     - name: Steuern und Steuerbefreiungen
@@ -308,12 +314,20 @@
       items:
         - name: Umsatzsteuerinformationen für Unternehmen
           href: organization-tax-info.md
+        - name: Umsatzsteuerinfo in der Partner Center-Registrierung
+          href: vat-info.md
         - name: Guthaben für Steuereinbehaltung empfangen
           href: withholding-tax-credit-form.md
         - name: "Regionale Steuer\_– Sprachdienste"
           href: tax-and-fees-voice-services.md
-    - name: Beantragen einer SLA-Gutschrift bei Microsoft
-      href: request-credit.md
+        - name: Steuerliche Aspekte für kommerzielle Marketplace-Herausgeber
+          href: tax-details-marketplace.md
+        - name: Kennenlernen der von Microsoft ausgestellten IRS-Steuerformulare
+          href: understand-irs-tax-forms.md
+        - name: Einrichten von Auszahlungskonten und Steuerformularen
+          href: set-up-your-payout-account.md
+        - name: Beantragen einer SLA-Gutschrift bei Microsoft
+          href: request-credit.md
     - name: Einrichten eines Kundenbudgets für Azure-Kosten
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: 'Verwalten von Nichtbezahlung, Betrug oder Missbrauch'
@@ -360,8 +374,6 @@
           href: isv-opt-in.md
         - name: 'Marketplace-Angebote: Verwalten'
           href: csp-commercial-marketplace-manage.md
-        - name: Abrechnung für Marketplace-Angebote
-          href: csp-commercial-marketplace-billing.md
         - name: Support für Marketplace-Angebote
           href: csp-commercial-marketplace-support.md
         - name: Verträge für Marketplace-Käufe
@@ -429,7 +441,7 @@
           href: bulk-license-provisioning-for-multiple-users.md
         - name: Verschieben von Kunden mit lizenzbasierten Diensten zum Clouddienstanbieter-Programm
           href: transition-seat-based-services.md
-        - name: 'Verkaufen von Abonnements für Minecraft: Education Edition'
+        - name: Sell Minecraft Education Edition-Abonnements
           href: minecraft-subscriptions.md
         - name: Verkaufen an spezielle Branchen
           href: Get-special-pricing-for-offers.md

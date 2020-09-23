@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 478458e57ab31ccad25e99cb977833d2973f30ea
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: afcbfcfb2b303acb15774e7f6019164e34b8e6ae
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944437"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999614"
 ---
 # <a name="february-2020-announcements"></a>Ankündigungen für Februar 2020
 
@@ -75,7 +75,7 @@ Das bedeutet, dass [Partnern jetzt zwei Möglichkeiten zur Verfügung stehen](..
 - **Option 1:** Partner können ihren Kunden die neue Microsoft-Kundenvereinbarung genau wie vorher den Microsoft Cloud-Vertrag zukommen lassen. Nachdem ein Kunde die Vereinbarung gelesen und akzeptiert hat, muss der Partner die Zustimmung des Kunden gegenüber Microsoft nachweisen. Das Partner Center-Dashboard, die Partner Center-API und das .NET SDK wurden aktualisiert, sodass Partner darüber bestätigen können, dass der Kunde der Microsoft-Kundenvereinbarung zugestimmt hat.
 - **2. Option (neu):** Partner können Kunden in ein authentifiziertes Microsoft-Portal (Microsoft 365 Admin Center) einladen, damit diese die Vereinbarung dort lesen und unterzeichnen können. Mit dieser Option lassen sich Vereinbarungen einfacher verwalten und schneller implementieren. Außerdem sparen Partner Zeit, da durch die direkte Zustimmung zur Vereinbarung im Microsoft 365 Admin Center durch ihre Kunden auch die Zustimmung zu den Bedingungen bestätigt wird.
 
-Partner können über eine neue Funktionen auf dem Partner Center-Dashboard oder über [diese neue API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) überprüfen, ob Kunden der neuen Vereinbarung zugestimmt haben.
+Partner können über eine neue Funktionen auf dem Partner Center-Dashboard oder über [diese neue API](/partner-center/develop/get-direct-sign-status-of-customer-agreement) überprüfen, ob Kunden der neuen Vereinbarung zugestimmt haben.
 
 Seit dem 1. Februar 2020 müssen Partner die Zustimmung ihrer Kunden zur Microsoft-Kundenvereinbarung bestätigen, um neue Bestellungen für CSP-Angebote in allen Regionen unter Microsoft Public Cloud aufzugeben. CSP-Partner können keine neuen Käufe tätigen (einschließlich Änderungen an der Anzahl der Arbeitsplätze oder Verlängerungen vorhandener Käufe), ohne über eine dieser Optionen zu bestätigen, dass ihre Kunden der Microsoft-Kundenvereinbarung zugestimmt haben.
  
@@ -98,7 +98,7 @@ Partner können den Inhalt der Microsoft-Kundenvereinbarung über den [CSP-Katal
 ### <a name="change-log"></a>Änderungsprotokoll:
 
 - 11. Februar 2020: Veröffentlichung der Erstankündigung
-- 25. Februar 2020: Die Ankündigung wurde mit [dieser neuen API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) aktualisiert, mit der der Status der direkten Zustimmung durch einen Kunden abgerufen werden kann.
+- 25. Februar 2020: Die Ankündigung wurde mit [dieser neuen API](/partner-center/develop/get-direct-sign-status-of-customer-agreement) aktualisiert, mit der der Status der direkten Zustimmung durch einen Kunden abgerufen werden kann.
 
 _________________
 
@@ -169,27 +169,27 @@ _________________
 
 ### <a name="summary"></a>Zusammenfassung:
 
-Dies ist ein wichtiges Update für die [obligatorischen Sicherheitsanforderungen für Partner](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). Ab **29. Februar 2020** werden [„Basisrichtlinien“ aus Azure Active Directory (Azure AD) entfernt](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) und durch „Sicherheitsstandards“ ersetzt, einen umfassenderen Satz an Schutzrichtlinien für Sie und Ihre Kunden. Durch die Sicherheitsstandards in Azure AD können Sie Ihr Unternehmen mithilfe vorkonfigurierter Sicherheitseinstellungen vor allgemeinen Angriffen schützen.
+Dies ist ein wichtiges Update für die [obligatorischen Sicherheitsanforderungen für Partner](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/). Ab **29. Februar 2020** werden [„Basisrichtlinien“ aus Azure Active Directory (Azure AD) entfernt](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) und durch „Sicherheitsstandards“ ersetzt, einen umfassenderen Satz an Schutzrichtlinien für Sie und Ihre Kunden. Durch die Sicherheitsstandards in Azure AD können Sie Ihr Unternehmen mithilfe vorkonfigurierter Sicherheitseinstellungen vor allgemeinen Angriffen schützen.
 
 In unserem System wird angezeigt, dass Ihre Organisation derzeit Basisrichtlinien verwendet und noch nicht auf Sicherheitsstandards umgestellt hat. **Wenn Sie vor dem 29. Februar nicht zu Sicherheitsstandards wechseln, können Sie nicht mehr auf die mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) zugreifen, die Sie über Basisrichtlinien in Ihren Partnermandanten eingerichtet haben. Aktivieren Sie Sicherheitsstandards so schnell wie möglich, um Unterbrechungen im Geschäftsalltag zu vermeiden.**
 
 ### <a name="key-considerations"></a>Wichtige Hinweise
 
-Die Richtlinie für Sicherheitsstandards ist eine der [Optionen](../partner-security-requirements.md#actions-that-you-need-to-take), die Partner je nach ihren geschäftlichen Bedürfnissen für die Umsetzung von MFA gemäß ihren Sicherheitsanforderungen wählen können. Sie bietet eine grundlegende Sicherheitsstufe, die ohne Zusatzkosten bereitgestellt wird. Informieren Sie sich, wie Sie [MFA für Ihre Organisation mit Azure AD aktivieren](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started), und lesen Sie die folgenden wichtigen Hinweise:
+Die Richtlinie für Sicherheitsstandards ist eine der [Optionen](../partner-security-requirements.md#actions-that-you-need-to-take), die Partner je nach ihren geschäftlichen Bedürfnissen für die Umsetzung von MFA gemäß ihren Sicherheitsanforderungen wählen können. Sie bietet eine grundlegende Sicherheitsstufe, die ohne Zusatzkosten bereitgestellt wird. Informieren Sie sich, wie Sie [MFA für Ihre Organisation mit Azure AD aktivieren](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started), und lesen Sie die folgenden wichtigen Hinweise:
 
-- Partner, die den [bedingten Zugriff](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common) verwenden, haben keinen Zugang zu Sicherheitsstandards.
+- Partner, die den [bedingten Zugriff](/azure/active-directory/conditional-access/concept-conditional-access-policy-common) verwenden, haben keinen Zugang zu Sicherheitsstandards.
 - Sicherheitsstandards erzwingen alle Richtlinien gleichzeitig – einschließlich der Richtlinie zur Durchsetzung der MFA für Administratoren, der Richtlinie für den Endbenutzerschutz und der Richtlinie für die Durchsetzung der MFA für die Dienstverwaltung.
 - Die Blockierung der Legacyauthentifizierung wird derzeit für Partner nicht erzwungen. Da die meisten Ereignisse in Zusammenhang mit Identitätsbetrug jedoch bei der Anmeldung über die Legacyauthentifizierung auftreten, sollten Partner besser auf diese älteren Protokolle verzichten.
 - Sicherheitsstandards schließen das Azure AD Connect-Synchronisierungskonto automatisch aus.
-- Die nun allgemein verfügbaren Sicherheitsstandards ersetzen die [Baselinerichtlinien](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) aus der Vorschauversion. Nachdem ein Partner die Sicherheitsstandards aktiviert hat, kann er keine Baselinerichtlinien mehr aktivieren.
+- Die nun allgemein verfügbaren Sicherheitsstandards ersetzen die [Baselinerichtlinien](/azure/active-directory/conditional-access/concept-baseline-protection) aus der Vorschauversion. Nachdem ein Partner die Sicherheitsstandards aktiviert hat, kann er keine Baselinerichtlinien mehr aktivieren.
 
 ### <a name="next-steps-and-resources-for-security-defaults"></a>Nächste Schritte und Ressourcen für Sicherheitsstandards
 
 Partner, die derzeit die Basisrichtlinien verwenden:
 
-- Erfahren Sie mehr über [Sicherheitsstandards](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) und die [Aktivierung der MFA für Ihre Organisation](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started).
+- Erfahren Sie mehr über [Sicherheitsstandards](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) und die [Aktivierung der MFA für Ihre Organisation](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started).
 - Planen Sie die Umstellung von Basisrichtlinien auf Sicherheitsstandards.
-- [Aktivieren Sie Sicherheitsstandards](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) so schnell wie möglich für jeden Partnermandanten – mit nur einem Klick. Wenn die Sicherheitsstandards Ihre Anforderungen nicht erfüllen, ziehen Sie andere Optionen in Betracht.
+- [Aktivieren Sie Sicherheitsstandards](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) so schnell wie möglich für jeden Partnermandanten – mit nur einem Klick. Wenn die Sicherheitsstandards Ihre Anforderungen nicht erfüllen, ziehen Sie andere Optionen in Betracht.
 
 Indirekte Anbieter:
 
@@ -270,7 +270,7 @@ Anbieter mit direkter Abrechnung und indirekte Anbieter im CSP-Programm, die Ver
 
 Mit der [neuen Handelsplattform für Azure in CSP](https://blogs.partner.microsoft.com/mpn/grow-your-business-with-the-new-commerce-experience-for-azure-in-the-csp-program/) können Sie mehr Kunden anwerben und die Rentabilität steigern, indem Sie Kauf- und Verkaufsvorgänge optimieren.
 
- Wir freuen uns, die Verfügbarkeit der [neuen Preis-APIs](https://docs.microsoft.com/partner/develop/pricing) für diese Plattform bekanntgeben zu dürfen, die die **Preise für Verbrauch und Reservierungen in Azure-Plänen** und **Indizes für Wechselkurse** für von Microsoft unterstützte Abrechnungswährungen programmgesteuert abrufen. Mit der neuen Preis-API können Partner das Abrufen von Preisinformationen automatisieren und vereinfachen.
+ Wir freuen uns, die Verfügbarkeit der [neuen Preis-APIs](/partner/develop/pricing) für diese Plattform bekanntgeben zu dürfen, die die **Preise für Verbrauch und Reservierungen in Azure-Plänen** und **Indizes für Wechselkurse** für von Microsoft unterstützte Abrechnungswährungen programmgesteuert abrufen. Mit der neuen Preis-API können Partner das Abrufen von Preisinformationen automatisieren und vereinfachen.
 
 ### <a name="the-new-pricing-apis-provide-the-following-capabilities"></a>Die neuen Preis-APIs bieten die folgenden Funktionen:
 
@@ -281,13 +281,13 @@ Mit der [neuen Handelsplattform für Azure in CSP](https://blogs.partner.microso
 
 >[!Note] 
 >Hierbei handelt es sich um eine neue API-Ressource, die speziell auf die Preise für Azure-Pläne ausgelegt ist.
-- Die vorhandene [RateCard-API](https://docs.microsoft.com/partner-center/develop/get-prices-for-microsoft-azure) sollte weiterhin für vorhandene Azure-Ressourcen oder -Reservierungen verwendet werden, die in Azure-Abonnements bereitgestellt wurden, die nicht Teil eines Azure-Plans sind.
+- Die vorhandene [RateCard-API](/partner-center/develop/get-prices-for-microsoft-azure) sollte weiterhin für vorhandene Azure-Ressourcen oder -Reservierungen verwendet werden, die in Azure-Abonnements bereitgestellt wurden, die nicht Teil eines Azure-Plans sind.
 - Diese APIs befinden sich an einem anderen Endpunkt (einer Domäne, die diese hostet) als die Partner Center-APIs.
 
 ### <a name="partner-next-steps-and-resources"></a>Nächste Schritte und zusätzliche Ressourcen für Partner:
 
 - Lesen Sie die [Entwicklerdokumentation](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/).
-- Implementieren Sie den automatisierten Prozess mit [der neuen API](https://docs.microsoft.com/partner/develop/pricing).
+- Implementieren Sie den automatisierten Prozess mit [der neuen API](/partner/develop/pricing).
 - Lesen Sie die [Dokumentation zu den Preisen für Azure-Pläne](../azure-plan-price-list.md), wenn Sie Fragen zur Preisgestaltung haben.
 - [Hier finden Sie weitere Informationen zu Azure-Plänen und der neuen Handelsplattform im CSP-Programm.](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 

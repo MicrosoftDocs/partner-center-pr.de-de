@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: c599358b2cfe5603a09fb37e48e897a2f92111bc
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 7d25625eebaf863ed819112439bbf2d6e0f505e1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367284"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000544"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung im CSP-Partnerprogramm
 
@@ -96,13 +96,13 @@ Mithilfe der folgenden Schritte können Sie eine Bestätigung abrufen, dass ein 
 
 Du kannst die Partner Center-API oder das Partner Center SDK verwenden, um die Zustimmung des Kunden zur Microsoft-Kundenvereinbarung zu bestätigen. Ausführliche Informationen zur API bzw. zum SDK findest du unter:
 
-- [Abrufen von Vertragsmetadaten für den Microsoft-Kundenvertrag](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
+- [Abrufen von Vertragsmetadaten für den Microsoft-Kundenvertrag](/partner-center/develop/get-customer-agreement-metadata)
 
-- [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
+- [Bestätigen der Zustimmung des Kunden zum Microsoft-Kundenvertrag](/partner-center/develop/confirm-customer-consent-customer-agreement)
 
-- [Abrufen der Bestätigung der Kundenakzeptanz zur Microsoft-Kundenvereinbarung](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
+- [Abrufen der Bestätigung der Kundenakzeptanz zur Microsoft-Kundenvereinbarung](/partner-center/develop/get-confirmation-of-customer-agreement)
 
-- [Abrufen eines Downloadlinks für die Vorlage des Microsoft-Kundenvertrags](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
+- [Abrufen eines Downloadlinks für die Vorlage des Microsoft-Kundenvertrags](/partner-center/develop/download-customer-agreement-template)
 
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Option 2: Zustimmung des Kunden im Microsoft 365 Admin Center
 
@@ -115,7 +115,7 @@ Partner können neue und bestehende Kunden über eine URL einladen, die Vereinba
 - Einladen eines bestehenden Kunden, die Vereinbarung zu überprüfen und ihr zuzustimmen
 
 >[!NOTE]
-> Sie können die [Partner Center-API oder das Partner Center SDK](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) verwenden, um den Status der direkten Zustimmung eines Kunden zur Microsoft-Kundenvereinbarung zu ermitteln.  
+> Sie können die [Partner Center-API oder das Partner Center SDK](/partner-center/develop/get-direct-sign-status-of-customer-agreement) verwenden, um den Status der direkten Zustimmung eines Kunden zur Microsoft-Kundenvereinbarung zu ermitteln.  
 
 ## <a name="create-a-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>Erstellen eines neuen Kunden und Einladen des Kunden, die Vereinbarung zu überprüfen und ihr zuzustimmen
 

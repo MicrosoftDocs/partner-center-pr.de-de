@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12b5b94194c6ca65b31af08dbf0dafef5c6ef21c
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220388"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999984"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Vorbereiten der Umstellung von Partner Membership Center (PMC) auf Partner Center
 
@@ -36,7 +36,7 @@ Ein Azure-Geschäftskonto ist eine dedizierte und isolierte virtuelle Darstellun
 
 Das Geschäftskonto hostet Ihre Azure AD-Benutzer und die zugehörigen Informationen: E-Mail-Nachrichten, Kennwörter, Profildaten, Berechtigungen usw. Zudem enthält das Geschäftskonto Gruppen, Anwendungen und andere Informationen, die ein Unternehmen und seine Sicherheit betreffen. 
 
-Ihre geschäftliche E-Mail-Adresse ist Teil Ihres Azure Active Directory-Mandanten. Wenn Sie ein Konto in Partner Center verwenden möchten, benötigen Sie einen AAD-Mandanten. Weitere Informationen zu Azure Active Directory finden Sie unter [Erstellen Ihres Verzeichnisses in Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
+Ihre geschäftliche E-Mail-Adresse ist Teil Ihres Azure Active Directory-Mandanten. Wenn Sie ein Konto in Partner Center verwenden möchten, benötigen Sie einen AAD-Mandanten. Weitere Informationen zu Azure Active Directory finden Sie unter [Erstellen Ihres Verzeichnisses in Azure AD](/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad).
 
 In Partner Center verwenden Sie Ihre geschäftliche E-Mail-Adresse (nicht Ihre persönliche E-Mail-Adresse), um sich bei Ihrem Konto anzumelden.
 
@@ -49,7 +49,7 @@ Sie können sich mit dem CSP-Konto oder Ihrem geschäftlichen MPN-E-Mail-Konto b
 
 ### <a name="if-you-dont-want-to-use-your-existing-office-365-azure-ad-tenant-for-partner-center-you-can-create-a-new-tenant-prior-to-migrating-from-pmc"></a>Wenn Sie Ihren vorhandenen Office 365 Azure AD-Mandanten nicht für Partner Center verwenden möchten, können Sie vor der Migration von PMC einen neuen Mandanten erstellen.
 
-Möglicherweise gibt es viele Gründe, warum Sie keinen vorhandenen Azure AD-Mandanten verwenden möchten, um Ihr Partner Center-Konto einzurichten. Bevor Sie mit der Migration zu Partner Center beginnen, navigieren Sie zum [Azure-Portal](https://ms.portal.azure.com/#home), um einen neuen Azure AD-Mandanten zu erstellen. Befolgen Sie die Anweisungen unter [Erstellen eines neuen Mandanten in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant). Verwenden Sie den neuen AAD-Mandanten, um Ihr Partner Center-Konto einzurichten. Sie müssen ein globaler Administrator sein, um den Mandanten erstellen zu können. 
+Möglicherweise gibt es viele Gründe, warum Sie keinen vorhandenen Azure AD-Mandanten verwenden möchten, um Ihr Partner Center-Konto einzurichten. Bevor Sie mit der Migration zu Partner Center beginnen, navigieren Sie zum [Azure-Portal](https://ms.portal.azure.com/#home), um einen neuen Azure AD-Mandanten zu erstellen. Befolgen Sie die Anweisungen unter [Erstellen eines neuen Mandanten in Azure Active Directory](/azure/active-directory/develop/quickstart-create-new-tenant). Verwenden Sie den neuen AAD-Mandanten, um Ihr Partner Center-Konto einzurichten. Sie müssen ein globaler Administrator sein, um den Mandanten erstellen zu können. 
 
 ### <a name="user-roles-including-guest-user-roles-in-partner-center"></a>Benutzerrollen einschließlich Gastbenutzerrollen in Partner Center
 
@@ -132,7 +132,7 @@ Nein, Sie benötigen keine Kundenreferenzen, um die Kompetenzanforderungen in Pa
 
 ### <a name="will-partner-of-record-associations-move-to-partner-center"></a>Werden registrierte Abonnementberater (Partner of Record) in Partner Center verschoben?
 
-Ja, es gibt keine Änderungen bei Partner of Record. Erfahren Sie mehr über das [Verknüpfen Ihrer Partner-ID mit Ihren Kunden](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started).
+Ja, es gibt keine Änderungen bei Partner of Record. Erfahren Sie mehr über das [Verknüpfen Ihrer Partner-ID mit Ihren Kunden](/azure/billing/billing-partner-admin-link-started).
 
 ### <a name="is-there-an-impact-to-incentives-because-of-the-move-to-partner-center"></a>Gibt es aufgrund der Umstellung auf Partner Center Auswirkungen auf Incentives?
 
@@ -164,6 +164,6 @@ Empfehlungen werden basierend auf den Suchparametern zugewiesen, die der Kunde d
 
 Wenn Sie eine Fehlermeldung erhalten, weil Sie am Web Direct-Programm teilnehmen, sollten Sie wie folgt verfahren:
 
-1. Melden Sie sich bei „portal.Azure.com“ an, und erstellen Sie einen neuen Azure AD-Mandanten. Weitere Informationen finden Sie unter [Erstellen eines neuen Azure AD-Mandanten](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant).
+1. Melden Sie sich bei „portal.Azure.com“ an, und erstellen Sie einen neuen Azure AD-Mandanten. Weitere Informationen finden Sie unter [Erstellen eines neuen Azure AD-Mandanten](/azure/active-directory/fundamentals/active-directory-access-create-new-tenant).
 
 2. Sobald Sie den neuen Azure AD-Mandanten erstellt haben, verwenden Sie ihn, um vom Partner Membership Center zum Partner Center zu migrieren oder um sich völlig neu im Partner Center zu registrieren.

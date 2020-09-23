@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89b4a1d552067f7bda553bc96e19a89bdc9f23cd
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468779"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999674"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Hinzufügen von Lizenzen oder zusätzlichen Diensten zum Abonnement eines Kunden
 
@@ -31,7 +31,7 @@ ms.locfileid: "87468779"
 - Vertriebsbeauftragter
 - Helpdesk-Agent
 
-Wenn Ihr Kunde mehr Lizenzen benötigt, als das aktuelle Abonnement zur Verfügung stellt, oder wenn er eine andere Version mit zusätzlichen Diensten benötigt, können Sie u. U. ein Upgrade für das Abonnement vornehmen. Weitere Informationen finden Sie unter [Wechseln zu einem anderen Plan für Microsoft 365 Apps for Business](https://go.microsoft.com/fwlink/p/?LinkId=723577).
+Wenn Ihr Kunde mehr Lizenzen benötigt, als das aktuelle Abonnement zur Verfügung stellt, oder wenn er eine andere Version mit zusätzlichen Diensten benötigt, können Sie u. U. ein Upgrade für das Abonnement vornehmen. Weitere Informationen finden Sie unter [Wechseln zu einem anderen Plan für Microsoft 365 Apps for Business](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>Im CSP-Programm unterstützte Upgrades <a id="upgradesubscription"></a>
 
@@ -70,11 +70,12 @@ Weitere Informationen über die Auswirkungen auf die Abrechnung finden Sie in de
 
 3. Wählen Sie das neue Angebot und dann **Absenden**.
 
-4. Möglicherweise ist zusätzliche Arbeit erforderlich, um einige Benutzerkonten für bestimmte Dienste zu aktualisieren. Wenn dies der Fall ist, zeigt Partner Center eine Liste der Konten und Dienste an, die betroffen sind. Hilfe finden Sie im Knowledge Base-Artikel [Bei Lizenzen neu zuweisen, während Sie Pläne in Office 365 wechseln](https://go.microsoft.com/fwlink/p/?LinkId=723576).
+4. Möglicherweise ist zusätzliche Arbeit erforderlich, um einige Benutzerkonten für bestimmte Dienste zu aktualisieren. Wenn dies der Fall ist, zeigt Partner Center eine Liste der Konten und Dienste an, die betroffen sind. Hilfe finden Sie im Knowledge Base-Artikel [Bei Lizenzen neu zuweisen, während Sie Pläne in Office 365 wechseln](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Zu einem anderen Microsoft 365 Business-Plan wechseln](https://go.microsoft.com/fwlink/p/?LinkId=723577)
+- [Zu einem anderen Microsoft 365 Business-Plan wechseln](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 - [Delegierte Administratorrechte anfordern](request-a-relationship-with-a-customer.md)
 

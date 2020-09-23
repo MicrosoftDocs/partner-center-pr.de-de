@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 980f6429d146757edbab4c97cebfd3616cb48760
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527556"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000324"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Preisliste für die neue E-Commerce-Benutzeroberfläche in CSP für Azure
 
@@ -104,7 +104,7 @@ Wenn in diesem Beispiel 101 Einheiten verwendet werden, würde die Gebühr 100
 
 ## <a name="pricing-api-for-azure-plan"></a>Preis-API für den Azure-Plan
 
-Mithilfe der [Preis-API](https://docs.microsoft.com/partner/develop/pricing) können Nutzungs- und Reservierungspreise für den Azure-Plan programmgesteuert abgerufen werden. Darüber hinaus können auch Wechselkurse abgerufen werden.
+Mithilfe der [Preis-API](/partner/develop/pricing) können Nutzungs- und Reservierungspreise für den Azure-Plan programmgesteuert abgerufen werden. Darüber hinaus können auch Wechselkurse abgerufen werden.
 
 Die Preis-API befindet sich auf einem anderen Endpunkt als die anderen Partner Center-APIs. Die Preisinformationen umfassen Verbrauchseinheitspreise für Azure-Planressourcen und Reservierungspreise, die für Azure-Planabonnements gelten, in USD.
 
@@ -113,4 +113,4 @@ Mit dieser API können Partner auch monatliche Wechselkurse abrufen, da die Prei
 >[!NOTE]
 > Die Preis-API bezieht sich speziell auf Preise für den Azure-Plan. Für Azure-Ressourcen oder -Reservierungen, die für Nicht-Azure-Planabonnements bereitgestellt werden, sollten weiterhin die bestehende RateCard-API und die Preislisten verwendet werden, die auf der Seite „Preise und Angebote“ im Partner Center veröffentlicht werden. Die Preis-API für Azure-Pläne unterstützt keine software-, Marketplace- oder lizenzbasierten Preise wie Microsoft 365 oder Dynamics 365.
 
-Weitere Informationen zu Preisen für den Azure-Plan und zu Wechselkurs-APIs findest du in der vollständigen [Dokumentation zur Preis-API](https://docs.microsoft.com/partner/develop/pricing).
+Weitere Informationen zu Preisen für den Azure-Plan und zu Wechselkurs-APIs findest du in der vollständigen [Dokumentation zur Preis-API](/partner/develop/pricing).

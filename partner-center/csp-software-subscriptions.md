@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 467f46b2e6dfc41730970abe9005e1f2d28409f3
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614154"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000484"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vertreiben von Softwareabonnements über das CSP (Cloud Solution Provider)-Programm
 
@@ -116,7 +116,7 @@ Nachdem Sie das Softwareabonnement erworben haben, führen Sie die folgenden Sch
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Downloads und Lizenzschlüssel für Serverabonnements, die Kunden über das Microsoft 365 Admin Center zur Verfügung stehen 
 
-Ihre Kunden können Lizenzschlüssel und Downloads für CSP-Serverabonnements aus dem Microsoft 365 Admin Center abrufen. Um Lizenzschlüssel und Downloads für CSP-Serverabonnements anzuzeigen, muss der Kunde im Microsoft 365 Admin Center die Optionen **Abrechnung > Ihre Produkte > Registerkarte „Software“** aufrufen. Weitere Informationen finden Sie auf der [Registerkarte „Software“ unter „Abrechnung“](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
+Ihre Kunden können Lizenzschlüssel und Downloads für CSP-Serverabonnements aus dem Microsoft 365 Admin Center abrufen. Um Lizenzschlüssel und Downloads für CSP-Serverabonnements anzuzeigen, muss der Kunde im Microsoft 365 Admin Center die Optionen **Abrechnung > Ihre Produkte > Registerkarte „Software“** aufrufen. Weitere Informationen finden Sie auf der [Registerkarte „Software“ unter „Abrechnung“](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Anzeigen der Aktivitäten für Zugriff auf Softwareschlüssel und Softwaredownloads
 
@@ -138,12 +138,12 @@ Zu Überprüfungs- oder Konformitätszwecken müssen Sie möglicherweise eine Li
 Sie können einen Softwarekauf binnen 60 Tagen nach Kaufdatum stornieren. Wenn Sie innerhalb dieses ersten Zeitraums von 60 Tagen eine Stornierung ausführen, wird Ihnen keine Gebühr bei vorzeitiger Beendigung in Rechnung gestellt. Nach 60 Tagen kann ein Kauf nicht mehr storniert werden. (Weitere Informationen finden Sie im Hinweis zu wichtigen Einschränkungen für diese Stornierungsregel. Weitere Informationen dazu, was geschieht, nachdem Sie einen Softwarekauf storniert haben, finden Sie auch im wichtigen Hinweis nach diesen Schritten.) 
 
 >[!NOTE]
->Die folgenden Schritte zum Stornieren eines Kaufs gelten nur für Software, die innerhalb eines bestimmten Stornierungsfensters (z. B. innerhalb der ersten 60 Tage nach dem Kauf) für eine Stornierung in Frage kommt. Diese Schritte gelten auch nicht für einen SUSE Linux- oder RedHat-Softwareplan in Azure. Zurzeit können Sie einen SUSE- oder RedHat-Softwareplan nicht stornieren oder austauschen. [Weitere Informationen](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges) zur Verwendung von SUSE Linux- oder RedHat-Plänen.
+>Die folgenden Schritte zum Stornieren eines Kaufs gelten nur für Software, die innerhalb eines bestimmten Stornierungsfensters (z. B. innerhalb der ersten 60 Tage nach dem Kauf) für eine Stornierung in Frage kommt. Diese Schritte gelten auch nicht für einen SUSE Linux- oder RedHat-Softwareplan in Azure. Zurzeit können Sie einen SUSE- oder RedHat-Softwareplan nicht stornieren oder austauschen. [Weitere Informationen](/azure/virtual-machines/linux/prepay-suse-software-charges) zur Verwendung von SUSE Linux- oder RedHat-Plänen.
 
 Gehen Sie folgendermaßen vor, um einen Kauf zu stornieren:
 
 >[!NOTE]
->Sie müssen ein Administrator-Agent sein, um einen Kauf zu stornieren. In den folgenden Schritten wird beschrieben, wie ein Kauf im Partner Center-Dashboard storniert wird. Sie können diese Aufgabe auch mit der [Partner Center-API](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases) ausführen.
+>Sie müssen ein Administrator-Agent sein, um einen Kauf zu stornieren. In den folgenden Schritten wird beschrieben, wie ein Kauf im Partner Center-Dashboard storniert wird. Sie können diese Aufgabe auch mit der [Partner Center-API](/partner-center/develop/cancel-software-purchases) ausführen.
 
 1. Bevor Sie mit dem Stornierungsvorgang beginnen, stellen Sie sicher, dass Sie über die folgenden Informationen verfügen:
 

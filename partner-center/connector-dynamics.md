@@ -223,7 +223,7 @@ ms.locfileid: "91000494"
 
    2. <span data-ttu-id="67693-261">Stellen Sie sicher, dass der folgende Abschnitt vorhanden ist, wenn Sie eine "neue Verkaufschance" in der Dynamics 365-Umgebung erstellen.</span><span class="sxs-lookup"><span data-stu-id="67693-261">Ensure that the following section is present when you create a “New Opportunity” in Dynamics 365 environment</span></span>
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Der Abschnitt "Beispiel Verkaufschancen" zeigt Informationen zum Microsoft Partner Center in Dynamics 365 an.":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Der Abschnitt Beispiel Verkaufschancen zeigt Informationen zum Microsoft Partner Center in Dynamics 365 an.":::
 
    3. <span data-ttu-id="67693-263">Wenn Sie diese Gelegenheit mit dem Microsoft Partner Center synchronisieren möchten, stellen Sie sicher, dass Sie die folgenden Felder in der Kartenansicht festlegen:</span><span class="sxs-lookup"><span data-stu-id="67693-263">To synchronize this opportunity with Microsoft Partner Center, ensure that you set the following fields in the card view:</span></span>
 

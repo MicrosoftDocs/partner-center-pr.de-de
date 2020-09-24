@@ -66,7 +66,7 @@ Wenn die Registerkarte Verweise nicht angezeigt wird:
 >[!Important]
 > Wenn Ihre Rolle nur Benutzer im PSC verwaltet, können Sie die [Konto Administrator](permissions-overview.md#manage-mpn-membership-and-your-company) Rolle im Partner Center erhalten. Wenn Ihre Rolle auch die Verwaltung von Co-Selling-Verkaufschancen umfasst, sollten Sie die Administrator Rolle " [referenrals](permissions-overview.md#manage-referrals) " erhalten. Außerdem sollten Sie einen Change Management für die PSC-Administratoren treffen, damit Sie mit dem Partner Center-Konto Administrator zusammenarbeiten können, anstatt alle PSC-Administratoren, die sich einzeln an die Konto Administratoren des PCs wenden.
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Bild, das die Konto Administratoren auf der Seite "Partner Einstellungen Benutzerverwaltung" anzeigt.":::
+ :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Bild, das die Konto Administratoren auf der Seite Partner Einstellungen Benutzerverwaltung anzeigt.":::
 
 - Wechseln Sie im linken Navigationsbereich zur Registerkarte Verweise, und überprüfen Sie, ob Sie auf die Seiten zugreifen können.
 
@@ -128,7 +128,7 @@ In diesem Abschnitt wird die exakte Zuordnung von Attributen zwischen PSC und Pa
 - Die Rolle "Geschäft" ist kein Pflichtfeld im PC. Sie wird weder in einem der Workflows angezeigt noch aufgezeichnet. Es wird automatisch auf der Seite des Microsoft-Verkäufers basierend auf den Lösungen abgeleitet, die dem Geschäft hinzugefügt werden.
 - Das Datum der letzten Änderung wird nicht auf der Seite mit den Verweis Details auf dem PC angezeigt. Partner können die Sortierungs Funktionen verwenden, um die Geschäfte basierend auf dem Datum der letzten Aktualisierung zu sortieren.
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Ansicht "Partner Sales Connect" (PSC) und der Partner Center-Ansicht.":::
+ :::image type="content" source="images/pscmigration/gridview.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Ansicht Partner Sales Connect (PSC) und der Partner Center-Ansicht.":::
 
 **Detailansicht im PSC und Partner Center**
 
@@ -149,7 +149,7 @@ In diesem Abschnitt wird die exakte Zuordnung von Attributen zwischen PSC und Pa
 
 **Benutzerverwaltung in PSC und Partner Center**
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Partner Sales Connect (PSC)-Startseite und der Partner Center-Benutzerverwaltung in der Ansicht "Kontoeinstellungen".":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Partner Sales Connect (PSC)-Startseite und der Partner Center-Benutzerverwaltung in der Ansicht Kontoeinstellungen.":::
 
 **Benutzer Rollenzuweisung in PSC und Partner Center**
 

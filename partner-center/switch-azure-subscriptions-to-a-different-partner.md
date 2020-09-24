@@ -9,14 +9,14 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 2ffb35ecb0b0b92b1adfbd11172b14776a5a27d3
-ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
+ms.openlocfilehash: 607dd781640ca75dea89ae0f38877bc72a62bfcc
+ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87412436"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "91206322"
 ---
-# <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Erfahren Sie, wie Sie die Azure-Abonnements eines Kunden auf einen anderen Partner übertragen.
+# <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Erfahren Sie, wie Sie die Azure-Abonnements eines Kunden auf einen anderen Partner übertragen
 
 **Zielgruppe**
 
@@ -106,5 +106,6 @@ Führen Sie die folgenden manuellen Schritte aus, um die Azure-Dienste oder-Abon
 ## <a name="next-steps"></a>Nächste Schritte
 
 - Laden Sie das [CSP-Abonnementübertragungsformular](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA) herunter.
-- Erfahren Sie [mehr über die Unterstützung von mehreren Partnern](multipartner.md).
-- Erfahren Sie [mehr über die Unterstützung für mehrere Kanäle](multichannel.md).
+- [Unterstützung für mehrere Partner](multipartner.md).
+- [Unterstützung für mehrere Kanäle](multichannel.md).
+- [Übertragen von Azure-Abonnements](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)

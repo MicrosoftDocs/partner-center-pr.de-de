@@ -127,7 +127,7 @@ So aktivieren oder deaktivieren Sie Kunden Berechtigungen in Partner Center:
 
 5. Suchen Sie unten auf der Seite den Bereich **Kunden Berechtigungen** .
 
-   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="Kunden Berechtigungen auf der Seite "Konto"." border="true":::
+   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="Kunden Berechtigungen auf der Seite Konto." border="true":::
 
 6. Suchen Sie unter **Azure-Reservierungen**die Option **Kauf von Kunden gestatten** .
 

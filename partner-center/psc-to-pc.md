@@ -66,7 +66,7 @@ ms.locfileid: "90999344"
 >[!Important]
 > <span data-ttu-id="8f03e-139">Wenn Ihre Rolle nur Benutzer im PSC verwaltet, können Sie die [Konto Administrator](permissions-overview.md#manage-mpn-membership-and-your-company) Rolle im Partner Center erhalten.</span><span class="sxs-lookup"><span data-stu-id="8f03e-139">If your role is only managing users in PSC, you can get your the [account admin](permissions-overview.md#manage-mpn-membership-and-your-company) role in Partner Center.</span></span> <span data-ttu-id="8f03e-140">Wenn Ihre Rolle auch die Verwaltung von Co-Selling-Verkaufschancen umfasst, sollten Sie die Administrator Rolle " [referenrals](permissions-overview.md#manage-referrals) " erhalten.</span><span class="sxs-lookup"><span data-stu-id="8f03e-140">If your role also includes managing co-sell opportunities, you should get [referrals admin](permissions-overview.md#manage-referrals) role.</span></span> <span data-ttu-id="8f03e-141">Außerdem sollten Sie einen Change Management für die PSC-Administratoren treffen, damit Sie mit dem Partner Center-Konto Administrator zusammenarbeiten können, anstatt alle PSC-Administratoren, die sich einzeln an die Konto Administratoren des PCs wenden.</span><span class="sxs-lookup"><span data-stu-id="8f03e-141">Also, nominate one change management lead among the PSC admins to work with the Partner Center account admin instead of all the PSC admins reaching out to the account admins in PC individually.</span></span>
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Bild, das die Konto Administratoren auf der Seite "Partner Einstellungen Benutzerverwaltung" anzeigt.":::
+ :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Bild, das die Konto Administratoren auf der Seite Partner Einstellungen Benutzerverwaltung anzeigt.":::
 
 - <span data-ttu-id="8f03e-143">Wechseln Sie im linken Navigationsbereich zur Registerkarte Verweise, und überprüfen Sie, ob Sie auf die Seiten zugreifen können.</span><span class="sxs-lookup"><span data-stu-id="8f03e-143">Go to Referrals tab in the left navigation pane and check if you can access the pages.</span></span>
 
@@ -128,7 +128,7 @@ ms.locfileid: "90999344"
 - <span data-ttu-id="8f03e-223">Die Rolle "Geschäft" ist kein Pflichtfeld im PC.</span><span class="sxs-lookup"><span data-stu-id="8f03e-223">Deal role is not a required field in PC.</span></span> <span data-ttu-id="8f03e-224">Sie wird weder in einem der Workflows angezeigt noch aufgezeichnet.</span><span class="sxs-lookup"><span data-stu-id="8f03e-224">It is neither displayed nor captured in any of the workflows.</span></span> <span data-ttu-id="8f03e-225">Es wird automatisch auf der Seite des Microsoft-Verkäufers basierend auf den Lösungen abgeleitet, die dem Geschäft hinzugefügt werden.</span><span class="sxs-lookup"><span data-stu-id="8f03e-225">It is derived automatically at the Microsoft seller side based on the solutions added to the deal.</span></span>
 - <span data-ttu-id="8f03e-226">Das Datum der letzten Änderung wird nicht auf der Seite mit den Verweis Details auf dem PC angezeigt.</span><span class="sxs-lookup"><span data-stu-id="8f03e-226">The last modified date is not displayed on the referral details page in PC.</span></span> <span data-ttu-id="8f03e-227">Partner können die Sortierungs Funktionen verwenden, um die Geschäfte basierend auf dem Datum der letzten Aktualisierung zu sortieren.</span><span class="sxs-lookup"><span data-stu-id="8f03e-227">Partners can use the sort functionality to sort the deals based on the last updated date.</span></span>
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Ansicht "Partner Sales Connect" (PSC) und der Partner Center-Ansicht.":::
+ :::image type="content" source="images/pscmigration/gridview.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Ansicht Partner Sales Connect (PSC) und der Partner Center-Ansicht.":::
 
 <span data-ttu-id="8f03e-229">**Detailansicht im PSC und Partner Center**</span><span class="sxs-lookup"><span data-stu-id="8f03e-229">**Deal details view in PSC and Partner Center**</span></span>
 
@@ -149,7 +149,7 @@ ms.locfileid: "90999344"
 
 <span data-ttu-id="8f03e-244">**Benutzerverwaltung in PSC und Partner Center**</span><span class="sxs-lookup"><span data-stu-id="8f03e-244">**User management in PSC and Partner Center**</span></span>
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Partner Sales Connect (PSC)-Startseite und der Partner Center-Benutzerverwaltung in der Ansicht "Kontoeinstellungen".":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Partner Sales Connect (PSC)-Startseite und der Partner Center-Benutzerverwaltung in der Ansicht Kontoeinstellungen.":::
 
 <span data-ttu-id="8f03e-246">**Benutzer Rollenzuweisung in PSC und Partner Center**</span><span class="sxs-lookup"><span data-stu-id="8f03e-246">**User role assignment in PSC and Partner Center**</span></span>
 

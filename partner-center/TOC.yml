@@ -303,6 +303,8 @@
           href: license-based-billing.md
         - name: Szenarien für lizenzbasierte Saas-Abonnements
           href: common-billing-scenarios-saas.md
+    - name: Marketplace-Abrechnungs- und Auszahlungsszenarien
+      items:
         - name: Abrechnung für Marketplace-Angebote
           href: csp-commercial-marketplace-billing.md
         - name: Bezahlung – Marketplace

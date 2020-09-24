@@ -231,7 +231,7 @@ ms.locfileid: "91000494"
 
       - <span data-ttu-id="67693-265">**Wie kann Microsoft Help?**: Wählen Sie eine der folgenden Aktionen aus:</span><span class="sxs-lookup"><span data-stu-id="67693-265">**How can Microsoft help?**: Select from the following:</span></span>
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Beispiel für eine Verkaufschance in Dynamics 365, das Microsoft Partner Center-Hilfe Optionen neben einem Feld mit dem Namen "wie kann Microsoft Hilfe" angezeigt wird?":::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Beispiel für eine Verkaufschance in Dynamics 365, das Microsoft Partner Center-Hilfe Optionen neben einem Feld mit dem Namen wie kann Microsoft Hilfe angezeigt wird?":::
 
       - <span data-ttu-id="67693-267">**Produkte**: Lösungs-IDs des Produkts</span><span class="sxs-lookup"><span data-stu-id="67693-267">**Products**: Solution IDs of the product</span></span>
 

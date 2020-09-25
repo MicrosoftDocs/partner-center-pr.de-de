@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 2d3910192b08db481d73a221d9a243f8467570f9
-ms.sourcegitcommit: 9e2786bb4348c2a7e051415d670dd055d50dac34
+ms.openlocfilehash: 5b43a837bfa90685d13ff96656c9129113f058d9
+ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "91110659"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "91206292"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für September 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+|Funktionen|[SDK-Release für .NET Standard v1.16.2](2020-september.md#11)|22. September|
 |Funktionen|[Partner Center Insights – Ihre zentrale Berichterstellungsressource zur Auswertung der Geschäftsentwicklung mit Microsoft.](2020-september.md#10)|23. September|
 |Angebote/Märkte|[Ankündigung der allgemeinen Verfügbarkeit von Azure SQL Edge](2020-september.md#9)|22. September|
 |Funktionen|[Bevorstehende Änderungen an den CSP Office 365-Nutzungs-APIs und CSP-Lizenznutzungsberichten am 30. September 2020](2020-september.md#8)|17. September|

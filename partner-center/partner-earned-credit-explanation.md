@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31c82b52bf59c117f4605978f9903a4a2ef2adc8
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: f320896ac48a0de740a0d7bb02664648505a6bbe
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564691"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999864"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Wie von Partnern erworbene Guthaben berechnet und bezahlt werden
 
@@ -44,7 +44,7 @@ Lesen Sie auch [Reaktivieren von Administratorrechten für Azure CSP-Abonnements
 
 - PEC wird bis hinab zur Azure-Ressourcenebene erworben. Wenn der Partner über gültigen Zugriff verfügt, verdient jede Ressource auf Abonnement- oder Ressourcengruppenebene, die an die nächst höhere Entität berichtet, PEC.  
 
-- Die Details von PEC sind auch unter [Azure-Kostenmanagement](https://go.microsoft.com/fwlink/?linkid=2106482) verfügbar.
+- Die Details von PEC sind auch unter [Azure-Kostenmanagement](/azure/cost-management-billing/costs/get-started-partners) verfügbar.
 
 ## <a name="azure-cost-management"></a>Azure-Kostenmanagement
 
@@ -77,5 +77,4 @@ Wenn die Eigenschaft „PartnerEarnedCreditApplied“ den Wert „False“ aufwe
 
 - [Verwalten von Abonnements und Ressourcen in einem Azure-Plan](azure-plan-manage.md)
 
-- [Wiederrufen oder Reaktivieren von Administratorrechten für Azure CSP-Abonnements](revoke-reinstate-csp.md)
-
+- [Widerrufen oder Reaktivieren von Administratorrechten für Azure CSP-Abonnements](revoke-reinstate-csp.md)

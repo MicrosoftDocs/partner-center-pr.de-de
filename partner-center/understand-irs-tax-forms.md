@@ -5,19 +5,19 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: 4d750f677d54023731cbef587c4ccdea30aafb43
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.date: 09/24/2020
+ms.openlocfilehash: 9178cd8f3f516ca6ffacd481fb2721787dc581e2
+ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007472"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91248908"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Kennenlernen der von Microsoft ausgestellten IRS-Steuerformulare
 
-Je nach Ihrem Standort und der Höhe des Umsatzes und/oder der Zahlungen, die Sie erhalten, erhalten Sie jedes Jahr mindestens ein Steuerformular von Microsoft. Microsoft muss diese Formulare ausstellen und bei der Bundessteuerbehörde der USA (IRS) einreichen.
+Sie können jedes Jahr ein oder mehrere Steuerformulare von Microsoft erhalten. Dies richtet sich nach Ihrem Standort und der Menge an Verkäufen oder Zahlungen, die Sie erhalten. Microsoft muss diese Formulare ausstellen und bei der Bundessteuerbehörde der USA (IRS) einreichen.
 
-Nachfolgend erläutern wir diese Formulare eingehender, etwa, wer sie erhält und wann sie zur Verfügung gestellt werden.
+In diesem Artikel werden weitere Informationen zu diesen Formularen erläutert, einschließlich der Personen, die Sie erhalten und wann Sie verfügbar gemacht werden.
 
 ## <a name="types-of-tax-forms"></a>Arten von Steuerformularen
 
@@ -42,8 +42,8 @@ Die Steuerformulare werden von den folgenden Adressen an Sie gesendet:
 
 | Geschäftsgruppe         | Juristische Entität          | Adresse                                          |
 |------------------------|-----------------------|--------------------------------------------------|
-| Windows, Office, Azure | Microsoft Ireland Operations Limited (Zahlung erfolgt durch Microsoft Corporation über Microsoft Irland, das als qualifizierter Vermittler für Microsoft Corporation fungiert) | One Microsoft Place<br>Südcounty- &nbsp; &nbsp; Geschäfts &nbsp; Park<br>Leopardstown, Dublin 18 Irland|
-| Werbung\*          | Microsoft Ireland Operations Limited (Zahlung erfolgt durch Microsoft Online Inc. über Microsoft Irland, das als Auszahlungs-Agent für Microsoft Online Inc. fungiert) | One Microsoft Place<br>Südcounty- &nbsp; &nbsp; Geschäfts &nbsp; Park<br>Leopardstown, Dublin 18 Irland |
+| Windows, Office, Azure | Microsoft Ireland Operations Limited (Zahlung erfolgt durch Microsoft Corporation über Microsoft Irland, das als qualifizierter Vermittler für Microsoft Corporation fungiert) | One Microsoft Place<br>South County Business Park<br>Leopardstown, Dublin 18, D18 P521, Irland|
+| Werbung          | Microsoft Ireland Operations Limited (Zahlung erfolgt durch Microsoft Online Inc. über Microsoft Irland, das als Auszahlungs-Agent für Microsoft Online Inc. fungiert) | One Microsoft Place<br>Südcounty& Geschäfts Park<br>Leopardstown, Dublin 18, D18 P521, Irland |
 | Werbung            | Microsoft Online Inc. | 6880 Sierra Center Parkway<br>Reno, NV 98511 USA |
 
 >[!NOTE]
@@ -51,81 +51,26 @@ Die Steuerformulare werden von den folgenden Adressen an Sie gesendet:
 
 ## <a name="for-developers-located-in-the-united-states"></a>Für Entwickler in den USA
 
-<table>
-  <tr>
-     <th>Wenn ich Entwickler in den USA bin, kostenpflichtige Apps verkaufe und... </th>
-     <th> Ich sollte dieses Formular erhalten</th>
-  </tr>
-  <tr> 
-     <td valign="top">Ich hatte <b>mehr als 200 App-Verkäufe</b> mit einem Gesamtbetrag dieser Umsätze über <b>$20.000 USD</b> im geltenden Steuerjahr (<b>ohne</b> zählen der Umsätze, die in Brasilien und China durch die Microsoft Store unter Windows 10 getätigt wurden.)</td>
-    <td valign="top"><b>1099-K</b>:<br>Einreichende Instanz: Microsoft Corporation<br>EIN: * * * * * 4442<br><br><b>Wichtig</b>: das Formular 1099-K enthält <b>Brutto Kauf</b> Beträge, keine Zahlungen an Sie.</td>
-  </tr>
-  <tr> 
-     <td valign="top">Ich habe mindestens <b>$10 Zahlungen</b> für (i) app-Verkäufe in Brasilien und China über den Microsoft Store auf Windows 10-oder (II)-Verkäufen im minecraft Marketplace erhalten.<br>
-<br>
-<b>OR</b><br>
-<br>
-Ich habe mindestens $600 Zahlungen im Zusammenhang mit den App-Verkäufen von Microsoft im geltenden Steuerjahr erhalten (z. b. Anreizzahlungen oder Zahlungen von einem Wettbewerb oder einer Promotion).</td>
-    <td valign="top"><b>1099-MISC</b>:<br>Zahlende Instanz: Microsoft Corporation<br>EIN: * * * * * 4442<br><br><b>Wichtig</b>: bestimmte Geschäftseinheiten empfangen unabhängig von den von Microsoft empfangenen Zahlungs Beträgen nicht 1099-Misc-Formulare.  Weitere Informationen erhalten Sie bei Ihrem Steuerberater.</td>
-  </tr>
-  <tr>
-    <td valign="top">Keine der Antworten oben trifft zu.</td>
-    <td valign="top">Keine</td>
-  </tr>
-  <tr>
-    <td valign="top">&nbsp;</td>
-    <td valign="top">&nbsp;</td>
-  </tr>
-  <tr>
-     <th>Wenn ich ein USA Entwickler Werbeeinblendungen in apps und... </th>
-     <th> Ich sollte dieses Formular erhalten</th>
-  </tr>
-  <tr> 
-     <td valign="top">Ich habe mindestens <b>$600 Zahlungen</b> von Werbeeinblendungen in apps im geltenden Steuerjahr erhalten.</td>
-    <td valign="top"><b>1099-MISC</b>:<br>Zahlende Instanz: Microsoft Online Inc<br>EIN: * * * * * 0505<br><br><b>Wichtig</b>: bestimmte Geschäftseinheiten empfangen unabhängig von den von Microsoft empfangenen Zahlungs Beträgen nicht 1099-Misc-Formulare.  Weitere Informationen erhalten Sie bei Ihrem Steuerberater.</td>
-  </tr>
-  <tr> 
-     <td valign="top">Ich habe <b>weniger als $600 bei Zahlungen</b> von Werbeeinblendungen in apps im geltenden Steuerjahr erhalten.</td>
-     <td valign="top">Keine</td>
-  </tr>
-</table>
+| Wenn ich ein USA Entwickler kostenpflichtige Apps verkauft und...   | Ich sollte dieses Formular erhalten: |
+|------------------------|-----------------------|
+| Ich hatte **mehr als 200 App-Verkäufe** mit einem Gesamtbetrag dieser Umsätze über **$20.000 USD** im geltenden Steuerjahr (**ohne** zählen der Umsätze, die in Brasilien und China durch die Microsoft Store unter Windows 10 getätigt wurden.)| **1099-K:**<br/>Einreichende Instanz: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Wichtig:** Formular 1099-K enthält **Bruttoeinkaufsbeträge**, keine an Sie erfolgten Zahlungen.| 
+| Ich habe mindestens **$10 Zahlungen** für (i) app-Verkäufe in Brasilien und China über den Microsoft Store auf Windows 10-oder (II)-Verkäufen im minecraft Marketplace erhalten.<br/><br/>**OR**<br/><br/>Ich habe mindestens $600 Zahlungen im Zusammenhang mit den App-Verkäufen von Microsoft im geltenden Steuerjahr erhalten (z. b. Anreizzahlungen oder Zahlungen von einem Wettbewerb oder einer Promotion).| **1099-Verschiedenes:**<br/>Zahlende Instanz: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Wichtig:** Bestimmte Unternehmenseinheiten erhalten keine 1099-MISC-Formulare, ungeachtet der erhaltenen Zahlungen von Microsoft.  Weitere Informationen finden Sie in Ihrem Steuerexperten.| 
+| Keine der Antworten oben trifft zu.| Keine |
+| <br/><br/>**Wenn ich ein USA Entwickler Werbeeinblendungen in apps und...** |<br/><br/>**Ich sollte dieses Formular erhalten:** |
+|Ich habe mindestens **$600 Zahlungen** von Werbeeinblendungen in apps im geltenden Steuerjahr erhalten. | **1099-Verschiedenes:**<br/>Zahlende Instanz: Microsoft Online Inc<br/>EIN: \* \* \* \* \* 0505<br/><br/>**Wichtig:** Bestimmte Unternehmenseinheiten erhalten keine 1099-MISC-Formulare, ungeachtet der erhaltenen Zahlungen von Microsoft.  Weitere Informationen finden Sie in Ihrem Steuerexperten. |
+| Ich habe **weniger als $600 bei Zahlungen** von Werbeeinblendungen in apps im geltenden Steuerjahr erhalten. | Keine |
 
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Für Entwickler außerhalb der USA
 
-<table>
-  <tr>
-    <td valign="top"><b>Ich habe ein Formular 1042-S von Microsoft erhalten. Wozu dient es?</b></td>
-    <td valign="top">Microsoft hat Ihnen mindestens ein Formular 1042-S bereitgestellt, da wir Ihnen Beträge bezahlt haben, die an die Steuerbehörde der USA gemeldet werden müssen und quellensteuerpflichtig sind.  Formular 1042-S wird für diese Meldeanforderung verwendet.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Was muss ich mit den Formularen tun?</b></td>
-    <td valign="top">Im Allgemeinen ist keine spezifische Aktion Ihrerseits erforderlich. Das Formular 1042-S kann hilfreich sein, wenn Sie bei Ihren Steuerbehörden eine beliebige Form eines Steuerkredits beantragen möchten.  Bei Ihren Steuerberatern erhalten Sie weitere Informationen zu diesem Thema.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Warum wurde Steuer auf meine Zahlungen einbehalten, als ich ein Formular W8 ausgefüllt habe?</b></td>
-    <td valign="top">Steuern werden in einem der folgenden Fälle einbehalten:<br>
-     1. Sie haben den Steuer Vertragsabschnitt von W8 nicht ordnungsgemäß vervollständigt, oder<br>
-     2. Sie sind in einem Land ansässig, das nicht über einen Steuer Vertrag mit dem USA verfügt.<br><br>Sie können das Partner Center jederzeit aufrufen, um ein aktualisiertes W8-Formular zu übermitteln.<br><br><b>Hinweis</b>: nicht alle Einkommen unterliegen der Steuerverweigerung.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Ich habe ein aktualisiertes W8-Formular mit gültigen Vertragsinformationen übermittelt. Kann Microsoft mir die zurück haltene Frage erstatten?</b></td>
-    <td valign="top">Sobald die Steuer einbehalten wurde, kann diese nicht zurückerstattet werden. Besprechen Sie mit Ihren Steuerberatern, ob Sie eine lokale Gutschrift für diese Steuern beantragen können oder ob Sie eine Erstattung von IRS fordern möchten.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Welche Umsätze werden im Formular 1042-S angegeben?</b></td>
-    <td valign="top">Nur Verkäufe an <b>Käufer in den USA, die der Quellensteuer unterliegen,</b> müssen angegeben werden.  Alle anderen Verkäufe müssen nicht angegeben werden.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Warum habe ich 3 Kopien desselben Formulars 1042-S in einem Umschlag erhalten?</b></td>
-    <td valign="top">Die IRS-Bestimmungen erfordern die Bereitstellung von drei Kopien des Formulars:
-<ul>
-<li>Eine für die Unterlagen des Empfängers</li>
-<li>Eine zum Einreichen mit einer Bundessteuererklärung in den USA (sofern zutreffend)</li>
-<li>Eine zum Einreichen mit einer Landessteuererklärung in den USA (sofern zutreffend)</li>
-</ul></td>
-  </tr>
-</table>
+| | |
+|---|---|
+| **Ich habe ein Formular 1042-S von Microsoft erhalten. Wozu dient es?** | Microsoft hat Ihnen mindestens ein Formular 1042-S bereitgestellt, da wir Ihnen Beträge bezahlt haben, die an die Steuerbehörde der USA gemeldet werden müssen und quellensteuerpflichtig sind.  Formular 1042-S wird für diese Meldeanforderung verwendet. | 
+| **Was muss ich mit den Formularen tun?** | Im Allgemeinen ist keine spezifische Aktion Ihrerseits erforderlich. Das Formular 1042-S kann hilfreich sein, wenn Sie bei Ihren Steuerbehörden eine beliebige Form eines Steuerkredits beantragen möchten.  Weitere Informationen zu diesem Thema finden Sie in ihren eigenen Steuerberatern. | 
+| **Warum wurde Steuer auf meine Zahlungen einbehalten, als ich ein Formular W8 ausgefüllt habe?** | Steuern werden in einem der folgenden Fälle einbehalten:<ol><li>Sie haben den Abschnitt zum Steuerabkommen des W8 nicht ordnungsgemäß ausgefüllt oder</li><li>Sie wohnen in einem Land, das über kein Steuerabkommen mit den USA verfügt.</li></ol><br/>Sie können das Partner Center jederzeit aufrufen, um ein aktualisiertes W8-Formular zu übermitteln.<br/><br/> **Hinweis:** Nicht alle Einkommen unterliegen der Steuer gegen übereinhaltung. | 
+| **Ich habe ein aktualisiertes W8-Formular mit gültigen Vertragsinformationen übermittelt. Kann Microsoft mir die zurück haltene Frage erstatten?** | Sobald die Steuer einbehalten wurde, kann diese nicht zurückerstattet werden. Wenden Sie sich an Ihre Steuerberater, um zu erörtern, ob Sie für diese Steuern eine lokale Gutschrift anfordern können oder ob Sie eine Rückerstattung von der IRS durchsuchen können. | 
+| **Welche Umsätze werden im Formular 1042-S angegeben?** | Nur Verkäufe an **Käufer in den USA, die der Quellensteuer unterliegen,** müssen angegeben werden.  Alle anderen Verkäufe müssen nicht angegeben werden. | 
+| **Warum erhalte ich drei Kopien derselben Form 1042-S in einem Umschlag?** | Die IRS-Bestimmungen erfordern die Bereitstellung von drei Kopien des Formulars:<ul><li>Eine für die Unterlagen des Empfängers</li><li>Eine zum Einreichen mit einer Bundessteuererklärung in den USA (sofern zutreffend)</li><li>Eine zum Einreichen mit einer Landessteuererklärung in den USA (sofern zutreffend)</li></ul> |
 
 > [!NOTE]
-> Wenn Sie weitere Fragen oder Probleme im Zusammenhang mit **IRS-Steuerformularen**haben, erstellen Sie ein [Support Ticket](https://developer.microsoft.com/windows/support). Microsoft kann keine Fragen im Zusammenhang mit Ihren spezifischen Steuerumständen beantworten. Bei diesen Fragen wenden Sie sich an Ihre Steuerexperten.
+> Wenn Sie weitere Fragen oder Probleme im Zusammenhang mit **IRS-Steuerformularen**haben, besuchen Sie das Partner Center-Dashboard unter " [Hilfe und Support](https://partner.microsoft.com/dashboard/support/) ". Microsoft kann keine Fragen im Zusammenhang mit Ihren spezifischen Steuerumständen beantworten. Bei diesen Fragen wenden Sie sich an Ihre Steuerexperten.

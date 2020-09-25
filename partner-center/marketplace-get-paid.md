@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 06/09/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e75d10db14292ea0d2aa9ee391e0f1582252e732
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 22ca8ef0d1b5dad91036f0e2eb2be66f2da2640b
+ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007394"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91248898"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Zahlungserhalt im kommerziellen Marketplace
 
@@ -30,11 +30,11 @@ Die Store-Gebühr wird auf alle Angebotsverkäufe (einschließlich Add-Ons) ange
 
 ## <a name="payout-reporting"></a>Zahlungsberichte
 
-Sie können auf Details zu ihren Zahlungsinformationen zugreifen und in der **Zahlungsübersicht** im [Partner Center](https://partner.microsoft.com/dashboard) Berichte herunterladen. Weitere Einzelheiten zu den hier gezeigten Informationen und zur Kategorisierung des eingenommenen Betrags finden Sie unter [Übersicht über die Auszahlungszusammenfassung](/azure/marketplace/payout-summary-overview).
+Sie können auf Details zu ihren Zahlungsinformationen zugreifen und in der **Zahlungsübersicht** im [Partner Center](https://partner.microsoft.com/dashboard) Berichte herunterladen. Ausführliche Informationen zu den hier gezeigten Informationen und zur Kategorisierung des Geldes, das Sie verdienen, finden Sie unter [Auszahlungs Anweisung](payout-statement.md).
 
 ## <a name="payout-time-frame"></a>Zeitrahmen für die Auszahlung
 
-Die Zahlungen erfolgen monatlich (sofern der entsprechende Zahlungsschwellenwert erreicht wurde und Sie Ihre Auszahlung nicht wie unten beschrieben zurückgehalten haben). In der Regel senden wir alle in einem Monat fälligen Zahlungen am 15. des Monats. Beachten Sie, dass es in der Regel weitere 3 bis 10 Werktage dauert, bis die Zahlung auf Ihrem Auszahlungskonto eingeht. Ausführliche Informationen finden Sie unter [Zahlungsschwellenwerte, -methoden und -zeitrahmen](/azure/marketplace/payment-thresholds-methods-timeframes).
+Die Zahlungen erfolgen monatlich (sofern der entsprechende Zahlungsschwellenwert erreicht wurde und Sie Ihre Auszahlung nicht wie unten beschrieben zurückgehalten haben). In der Regel senden wir alle in einem Monat fälligen Zahlungen am 15. des Monats. Beachten Sie, dass es in der Regel weitere 3 bis 10 Werktage dauert, bis die Zahlung auf Ihrem Auszahlungskonto eingeht. Ausführliche Informationen finden Sie unter [Zahlungsschwellenwerte, -methoden und -zeitrahmen](payment-thresholds-methods-timeframes.md).
 
 ## <a name="payout-hold-status"></a>Aufbewahrungsstatus für Auszahlungen
 

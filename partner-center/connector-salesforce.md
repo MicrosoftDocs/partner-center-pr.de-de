@@ -8,12 +8,12 @@ description: Synchronisieren Ihrer Verweise in Partner Center mit Ihrem Salesfor
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 595cbba8a173eb81b4e3520d1b1b0533c4dee296
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1b658f04b1348eb48f694fac069518a7a7fc6a70
+ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000594"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91372830"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Co-Selling-Connector für Salesforce CRM – Übersicht
 
@@ -36,6 +36,39 @@ Die Lösung basiert auf der Microsoft Power automatisieren-Lösung und verwendet
 |Partner Center-Benutzerrollen|Der Mitarbeiter, der die Connectors installieren und verwenden soll, muss ein Administrator sein.|[Zuweisen von Rollen und Berechtigungen zu Benutzern](create-user-accounts-and-set-permissions.md)|
 |Salesforce-CRM|Die CRM-Benutzerrolle ist Systemadministrator oder SystemCustomizer.|[Zuweisen von Rollen in Salesforce CRM](/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
 |Energie automatisierter Fluss Konto|Ein aktives, [Energie automatisierbares](https://flow.microsoft.com) Konto für den CRM-Systemadministrator oder den SystemCustomizer. Dieser Benutzer sollte sich mindestens einmal vor der Installation bei der [Strom Automatisierung](https://flow.microsoft.com) anmelden.|
+
+## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Installation des Salesforce-Pakets für benutzerdefinierte Microsoft-Felder 
+
+Um die Verweise auf Partner Center und Salesforce CRM zu synchronisieren, muss die Lösung für die Energie Automatisierung bestimmte Verweis Felder von Microsoft eindeutig identifizieren. Diese Abgrenzung bietet Partnern von Partner Verkäufern die Möglichkeit, zu entscheiden, welche Referenzen Sie gemeinsam mit Microsoft für Co-Selling verwenden möchten.
+
+1. Aktivieren Sie in Salesforce **Notizen** , und fügen Sie es der Liste Verkaufschancen hinzu. 
+[Verweis](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
+
+2. Aktivieren Sie **Opportunity-Teams** anhand der folgenden Schritte: 
+    - Verwenden Sie in Setup das Feld für die **Schnellsuche** , um die Einstellungen für das Team zu suchen.
+    - Definieren Sie die Einstellungen nach Bedarf.
+[Verweis](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
+
+3. Installieren Sie in Salesforce benutzerdefinierte Felder und Objekte mithilfe des unten aufgeführten Paketinstallers.
+  
+Wechseln Sie [hier](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) , um das Paket in einem beliebigen Unternehmen zu installieren:
+
+
+Hinweis: Wenn Sie in einem Sandkasten installieren, müssen Sie den anfänglichen Teil der URL durch ersetzen. http://test.salesforce.com
+
+4. Fügen Sie in Salesforce Microsoft-Lösungen zur Liste mit den Verkaufs **Chancen** hinzu. Klicken Sie nach dem Hinzufügen auf das Symbol für den **Schraubendreher** , und aktualisieren Sie Eigenschaften
+
+## <a name="best-practice-test-before-you-go-live"></a>Bewährte Vorgehensweise: testen, bevor Sie fortfahren
+
+Stellen Sie sicher, dass Sie die Lösung in einer-Staging-Instanz von CRM testen, bevor Sie die Energie automatisierte Lösung in der Produktionsumgebung installieren, konfigurieren und anpassen.
+
+- Installieren Sie die Microsoft powerautomatisieren-Lösung auf einer Staging-Umgebung/CRM-Instanz.
+
+- Erstellen Sie eine Kopie der Projekt Mappe, und führen Sie die Konfiguration aus, und führen Sie die Automatisierung der Fluss Anpassungen in der Stagingumgebung durch
+
+- Testen Sie die Lösung auf einer Staging/CRM-Instanz.
+
+- Importieren Sie bei Erfolg als verwaltete Lösung in die Produktions Instanz.
 
 ## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>Installieren der Partner Center-Synchronisierung für Salesforce CRM
 
@@ -65,49 +98,56 @@ Die Lösung basiert auf der Microsoft Power automatisieren-Lösung und verwendet
 
 10. Wählen Sie die **Synchronisierung der Partner Center-Verweise für Salesforce aus**. Die folgenden Strom automatisierten Flows und Entitäten sind verfügbar:
 
-    :::image type="content" source="images/salesforce/salesforce-flows.png" alt-text="Salesforce-Flows":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Salesforce-Flows":::
 
-## <a name="best-practice-test-before-you-go-live"></a>Bewährte Vorgehensweise: testen, bevor Sie fortfahren
 
-Stellen Sie sicher, dass Sie die Lösung in einer-Staging-Instanz von CRM testen, bevor Sie die Energie automatisierte Lösung in der Produktionsumgebung installieren, konfigurieren und anpassen.
-
-- Installieren Sie die Microsoft powerautomatisieren-Lösung auf einer Staging-Umgebung/CRM-Instanz.
-
-- Erstellen Sie eine Kopie der Projekt Mappe, und führen Sie die Konfiguration aus, und führen Sie die Automatisierung der Fluss Anpassungen in der Stagingumgebung durch
-
-- Testen Sie die Lösung auf einer Staging/CRM-Instanz.
-
-- Importieren Sie bei Erfolg als verwaltete Lösung in die Produktions Instanz.
 
 ## <a name="configure-the-solution"></a>Konfigurieren der Projektmappe
 
 1. Nachdem Sie die Lösung in Ihrer CRM-Instanz installiert haben, navigieren Sie zurück zu [Energie Automatisierung](https://flow.microsoft.com/).
 
 2. Wählen Sie in der Dropdown- **Umgebung** in der rechten oberen Ecke die CRM-Instanz aus, auf der Sie die Energie automatisierte Lösung installiert haben.
-
 3. Sie müssen Verbindungen erstellen, die die drei Benutzerkonten zuordnen:
+    - Partner Center-Benutzer mit referenrals Administrator Anmelde Informationen
+    - Partner Center-Ereignisse
+    - Der CRM-Administrator mit den Energie automatisierten Flows in der Lösung.
+4. Wählen Sie in der linken Navigationsleiste **Verbindungen** aus, und wählen Sie die Projekt Mappe "Partner Center-Verweise" aus der Liste aus.
 
-   - Partner Center-Benutzer mit referenrals Administrator Anmelde Informationen
-   - Partner Center-Ereignisse
-   - Der CRM-Administrator mit den Energie automatisierten Flows in der Lösung.
+5. Erstellen Sie eine Verbindung, indem Sie auf **Verbindung erstellen**klicken.
 
-   1. Wählen Sie in der linken Navigationsleiste **Verbindungen** aus, und wählen Sie die Projekt Mappe "Partner Center-Verweise" aus der Liste aus.
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Erstellen der Verbindung":::
 
-   2. Erstellen Sie eine Verbindung, indem Sie auf **Verbindung erstellen**klicken.
+- Suchen Sie in der Suchleiste in der oberen rechten Ecke nach Partner Center-Referenzen (Vorschau).
 
-       :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="Erstellen der Verbindung":::
+- Erstellen Sie eine Verbindung für Ihren Partner Center-Benutzer mit der Rolle "Anmelde Informationen" des Administrators "Administrator".
 
-   3. Suchen Sie in der Suchleiste in der oberen rechten Ecke nach **Partner Center-Referenzen (Vorschau)** .
+-  Erstellen Sie als nächstes eine Partner Center-Ereignis Verbindung für Ihren Partner Center-Benutzer mit den Anmelde Informationen für den Administrator.
 
-   4. Erstellen Sie eine Verbindung für Ihren Partner Center-Benutzer mit der Rolle "Anmelde Informationen" des Administrators "Administrator".
+- Erstellen Sie eine Verbindung für Common Data Service (aktuelle Umgebung) für den CRM-Administrator Benutzer.
 
-   5. Erstellen Sie als nächstes eine Partner Center-Ereignis Verbindung für Ihren Partner Center-Benutzer mit den Anmelde Informationen für den Administrator.
+-  Nachdem Sie alle Verbindungen hinzugefügt haben, sollten in Ihrer Umgebung die folgenden Verbindungen angezeigt werden:
 
-   6. Erstellen Sie eine Verbindung für Common Data Service (aktuelle Umgebung) für den CRM-Administrator Benutzer.
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Verbindungen beobachten":::
 
-4. Um die Strom automatisierten Flows den Verbindungen zuzuordnen, bearbeiten Sie jeden der Strom automatisierten Flows, um eine Verbindung mit Common Data Service-und Partner Center-Referenzen herzustellen. Speichern Sie die Änderungen.
+### <a name="edit-the-connections"></a>Verbindungen bearbeiten
 
-5. **Schalten** Sie die Strom automatisierten Flows ein.
+1. Kehren Sie zur Seite Lösungen zurück, und wählen Sie **Standard**Projekt Mappe aus.  Wählen Sie **Verbindungs Verweis (Vorschau)** aus, indem Sie auf **alle**klicken.
+ 
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Connector-Bearbeitung starten":::
+
+2. Bearbeiten Sie jede der Verbindungen nacheinander, indem Sie das Symbol drei Punkte auswählen. Fügen Sie die relevanten Verbindungen hinzu.
+
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Connectors bearbeiten":::
+
+3. Aktivieren Sie die Flows in der folgenden Reihenfolge:
+
+- Partner Center-webhook-Registrierung (Insider Preview)
+- Erstellen eines Co-Selling-Verweises-Salesforce an Partner Center (Insider Preview)
+- Partner Center Microsoft Co-Selling-Referenz Aktualisierungen an Salesforce (Insider Preview)
+- Partner Center zu Salesforce (Insider Vorschau)
+- Salesforce zu Partner Center (Insider Vorschau)
+- Salesforce-Verkaufschance an Partner Center (Insider Preview)
+- Salesforce Microsoft-Lösungen an Partner Center (Insider Preview)
 
 ## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Verwenden von webhook-APIs zum Registrieren für Ressourcen Änderungs Ereignisse
 
@@ -197,27 +237,6 @@ Je nach Ihren Anforderungen können mehrere Schritte der einzelnen Strom automat
 
 Sie können die Zuordnungen in diesem Abschnitt basierend auf dem Leitfaden für die Feld Zuordnung bearbeiten.
 
-## <a name="create-separate-section-in-salesforce-crm-opportunity-layout"></a>Erstellen eines separaten Abschnitts im Salesforce-CRM-Verkaufschancen Layout
-
-Um die Verweise auf Partner Center und Salesforce CRM zu synchronisieren, muss die Energie automatisierte Lösung die Microsoft-spezifischen verweigerfelder eindeutig abgrenzen. Dies bietet Ihren Verkäufer Teams die Möglichkeit, zu entscheiden, welche Referenzen Sie gemeinsam mit Microsoft für Co-Selling verwenden möchten.
-
-Eine Reihe von benutzerdefinierten Feldern ist als Teil der Synchronisierung von Partner Center-Referenzen für die Salesforce CRM-Verkaufs **Chancen** Entität verfügbar. Ein CRM-Administrator Benutzer muss einen separaten CRM-Abschnitt mit den benutzerdefinierten Feldern für die Verkaufs **Chance** erstellen.
-Der Salesforce CRM-Administrator Benutzer muss einen separaten CRM-Abschnitt erstellen.
-
-Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
-
-- **Synchronisierung mit Partner Center**: ob die Gelegenheit mit dem Microsoft Partner Center synchronisiert werden soll
-
-- **Verweis Bezeichner**: ein Schreib geschütztes Bezeichnerfeld für die Microsoft Partner Center-Referenz
-
-- **Verweis Link**: ein Schreib geschützter Link zum Verweis im Microsoft Partner Center
-
-- **Wie kann Microsoft helfen?** Von Microsoft für den Verweis erforderliche Hilfe
-
-- **Produkte**: Liste der Produkte, die dieser Verkaufschance zugeordnet sind
-
-- Überwachung **: ein**Schreib geschützter Überwachungs Pfad für die Synchronisierung mit dem Microsoft Partner Center-Verweis
-
 ### <a name="set-up-fields-and-relationships"></a>Einrichten von Feldern und Beziehungen
 
 1. Melden **Sie sich bei**Ihrem Salesforce-Konto an.
@@ -235,7 +254,7 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
    |Audit| Audit__c|Long-Text Bereich (100000) (sichtbare Zeile 4)||
    |Wie kann Microsoft helfen?|How_can_Microsoft_help_c|Auswahlliste|
    |Produkte|Products_c|Text (255)||
-   |Referral | Referral_Identfier_c|Text (100) (externe ID)|ja|
+   |Referral | Referral_Identfier_c|Text (100) (externe ID)|Ja|
    |Verweis Link| Referral_Link_c_|URL (255)||
    |Mit Partner Center synchronisieren|sync_with_partner_center_c|CheckBox (Standardeinstellung deaktiviert)||
 
@@ -321,8 +340,6 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
     6. Wenn Sie einen synchronisierten Verweis auswählen, werden die Details der Kartenansicht aufgefüllt.
 
 ## <a name="next-steps"></a>Nächste Schritte
-
-- [Weitere Informationen zur Microsoft powerautomatisieren-Plattform](/-automate/)
 
 - [Verwalten von Leads](manage-leads.md)
 

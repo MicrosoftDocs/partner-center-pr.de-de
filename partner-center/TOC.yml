@@ -301,6 +301,8 @@
           href: invoice-file.md
         - name: Lizenzbasierte Abrechnung
           href: license-based-billing.md
+        - name: Abrechnung über den Mobilfunkanbieter
+          href: mobile-operator-billing.md
         - name: Szenarien für lizenzbasierte Saas-Abonnements
           href: common-billing-scenarios-saas.md
     - name: Marketplace-Abrechnungs- und Auszahlungsszenarien
@@ -309,6 +311,14 @@
           href: csp-commercial-marketplace-billing.md
         - name: Bezahlung – Marketplace
           href: marketplace-get-paid.md
+        - name: Auszahlungsrichtliniendetails
+          href: payout-policy-details.md
+        - name: 'Zahlungsschwellenwerte, -methoden und -zeitrahmen'
+          href: payment-thresholds-methods-timeframes.md
+        - name: Auszahlungsaufstellungen
+          href: payout-statement.md
+        - name: Häufig gestellte Fragen zu Marketplace-Auszahlungen
+          href: payout-faq.md
     - name: Anzeigen von digitalen Signaturen – Partner Center Indien
       href: digital-signature.md
     - name: Steuern und Steuerbefreiungen

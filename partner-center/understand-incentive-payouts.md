@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: fbd91659a8118cd2efa8c361adaf4c0668245e70
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 0abc7235c091620650d3288ef228a3d009c016e0
+ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220258"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "91406343"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Details zum Programm anzeigen, verwalten und exportieren
 
@@ -80,9 +80,9 @@ So greifen Sie auf Ihre **Incentive-Übersicht** zu:
 |:------------------------------------|:------------------|
 | Erforderliche Aktion  | Der Partner hat eine Einladung zum Anmelden bei einem Incentive-Programm akzeptiert, muss jedoch die Bank-oder Steuerinformationen aktualisieren. In der Spalte **erforderliche Aktionen** finden Sie alle nächsten Schritte oder Links zum Aktualisieren Ihrer Bank-oder Steuerinformationen in Partner Center. |
 | Nicht mehr unterstützt  | Das spezielle Incentive-Programm wird nicht mehr im System "Incentives" angeboten. |
-| Enrolled (Registriert)  | Alle Steuer-und Bankinformationen wurden überprüft. Es ist keine weitere Registrierungsaktion für den Partner erforderlich. |
+| Registriert  | Alle Steuer-und Bankinformationen wurden überprüft. Es ist keine weitere Registrierungsaktion für den Partner erforderlich. |
 | Wird registriert  | Der Benutzer ist kein Incentive-Administrator, und die Registrierung erfolgt in der **erforderlichen Aktion** oder **bei** der Überprüfung der Registrierungs Zustände.|
-| Inaktiv/nicht berechtigt | Das Incentive-Programm ist zu diesem Zeitpunkt möglicherweise nicht für die Registrierung geöffnet, oder der Partner erfüllt nicht die aktuelle Berechtigung zur Registrierung oder erneuten Registrierung. <br> Wenn der Status nicht **qualifiziert**ist, erfüllt der Partner nicht die aktuellen Berechtigungsanforderungen für das Programm. Wenn Sie unter dem Registrierungsstatus den Link Informationen zu den **Berechtigungsanforderungen** anzeigen auswählen, werden die Voraussetzungen für die Berechtigung angezeigt, und welche dieser Anforderungen erfüllt sind. |
+| Inaktiv/nicht berechtigt | Das Incentive-Programm ist zu diesem Zeitpunkt möglicherweise nicht für die Registrierung geöffnet, oder der Partner erfüllt nicht die aktuelle Berechtigung zur Registrierung oder erneuten Registrierung. <br><br> Wenn der Status nicht **qualifiziert**ist, erfüllt der Partner nicht die aktuellen Berechtigungsanforderungen für das Programm. Wenn Sie unter dem Registrierungsstatus den Link Informationen zu den **Berechtigungsanforderungen** anzeigen auswählen, werden die Voraussetzungen für die Berechtigung angezeigt, und welche dieser Anforderungen erfüllt sind. <br><br> Möglicherweise wird auch ein **inaktiver** Status für Registrierungen virtueller Organisationen (Vorg) oder Partner globaler Konten (Partner Global Account, PGA) angezeigt, die im Incentive-Programm nicht mehr aktiv sind.  |
 | Eingeladen  | Es wurde eine neue Einladungsprogramm-Registrierungs Einladung an den Partner gesendet, aber der Partner hat den Registrierungsprozess noch nicht gestartet. In der angrenzenden Spalte **Aktionen erforderlich** werden die nächsten Schritte und alle zugehörigen Links angezeigt.  |
 | Die Registrierung wird überprüft.  | Der Partner hat die Bank-und Steuerinformationen für eine neue oder vorhandene Registrierung bereits abgeschlossen oder aktualisiert und wartet darauf, dass Microsoft diese Informationen überprüft. Während der über **Prüfung wird die** Überprüfung der Registrierung möglicherweise für bis zu 48 Stunden angezeigt.  |
 
@@ -95,7 +95,7 @@ Die Summen auf dieser Seite stellen alle von Ihnen verwendeten MPN-IDs dar. Sie 
 |Nächste geschätzte Zahlung      |Die nächste nächste Zahlung an Sie (auch wenn andere in Kürze verfügbar sind) in US-Dollar.                                     |
 |Letzte Zahlung           |Der Betrag (in US-Dollar), der Programmname und die MPN-ID der letzten Zahlung.                                      |
 |Zahlungen nach Quelle       |Die Menge der Zahlungen in US-Dollar, die durch das Programm in den letzten 12 Monaten dargestellt wird.                                      |
-|Payments                       |Wählen Sie **bezahlt** oder **Ausstehend aus** , und sortieren Sie Sie nach Ihren Wünschen. Wenn Sie weitere Details zu einer bestimmten Zahlung erhalten, wählen Sie **Ansicht**aus. Wenn Sie eine Kopie der Zahlungsanweisung herunterladen möchten, wählen Sie **Herunterladen** aus. Es kann bis zu 24 Stunden dauern, bis die Daten für den Transaktionsverlauf angezeigt werden, sodass die zugehörigen Gewinne möglicherweise nicht sofort angezeigt werden.  |
+|Zahlungen                       |Wählen Sie **bezahlt** oder **Ausstehend aus** , und sortieren Sie Sie nach Ihren Wünschen. Wenn Sie weitere Details zu einer bestimmten Zahlung erhalten, wählen Sie **Ansicht**aus. Wenn Sie eine Kopie der Zahlungsanweisung herunterladen möchten, wählen Sie **Herunterladen** aus. Es kann bis zu 24 Stunden dauern, bis die Daten für den Transaktionsverlauf angezeigt werden, sodass die zugehörigen Gewinne möglicherweise nicht sofort angezeigt werden.  |
 
 Wählen Sie zum Exportieren der Daten auf dieser Seite **exportieren** aus, und befolgen Sie dann die Anweisungen auf der Seite Daten exportieren.
 
@@ -116,7 +116,7 @@ Der geschätzte Zahlungs Monat ist zurzeit für alle Erwerbs Typen mit Ausnahme 
 
 #### <a name="estimated-payment-month-example"></a>Beispiel für geschätzten Zahlungs Monat
 
-| Month | Amount (Betrag) |
+| Month (Monat) | Amount (Betrag) |
 | ------ | :-----------: |
 |  Sep-2020 |  $7.273,99   |
 |  Oct-2020 | $8.692,30  |

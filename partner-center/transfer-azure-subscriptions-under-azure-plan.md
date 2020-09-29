@@ -1,0 +1,140 @@
+---
+title: Übertragen eines Azure-Abonnements im Azure-Plan auf einen anderen CSP-Partner
+ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Erfahren Sie, wie Sie den Programmpartner von Cloud Solution Provider ändern, der mit den Azure-Abonnements eines Kunden in einem Azure-Plan verknüpft ist.
+ms.custom: SEOMAY.20
+ms.localizationpriority: medium
+author: mckennaville
+ms.author: mcville
+ms.date: 07/29/2020
+ms.openlocfilehash: e1b70f26dc146507ac3764ae223ca27915162f0c
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422568"
+---
+# <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a><span data-ttu-id="cb934-103">Übertragen der Azure-Plan Abonnements eines Kunden an einen anderen Partner</span><span class="sxs-lookup"><span data-stu-id="cb934-103">Transfer a customer's Azure plan subscriptions to a different partner</span></span>
+
+## <a name="applies-to"></a><span data-ttu-id="cb934-104">Gilt für:</span><span class="sxs-lookup"><span data-stu-id="cb934-104">Applies to</span></span>
+
+- <span data-ttu-id="cb934-105">Partner im CSP-Programm (Cloud Solution Provider)</span><span class="sxs-lookup"><span data-stu-id="cb934-105">Partners in the Cloud Solution Provider (CSP) program</span></span>
+
+<span data-ttu-id="cb934-106">In diesem Artikel wird beschrieben, wie ein Kunde seine Azure-Abonnements in einem Azure-Plan von einem Cloud Solution Provider (CSP) zu einem anderen wechseln kann.</span><span class="sxs-lookup"><span data-stu-id="cb934-106">This article describes how a customer can switch their Azure subscriptions under an Azure plan from one Cloud Solution Provider (CSP) to another.</span></span>
+
+<span data-ttu-id="cb934-107">Um die Azure-Abonnements eines Kunden von einem anderen Partner zu wechseln, führen Sie die folgenden Schritte aus.</span><span class="sxs-lookup"><span data-stu-id="cb934-107">To switch a customer's Azure subscriptions from a different partner, follow these steps.</span></span> <span data-ttu-id="cb934-108">Sowohl der Partner als auch der Kunde müssen die erforderlichen Schritte ausführen.</span><span class="sxs-lookup"><span data-stu-id="cb934-108">Both the partner and the customer have steps to complete.</span></span>
+
+>[!Note]  
+><span data-ttu-id="cb934-109">Nur Partner mit einer direkten abrechnungsbeziehung mit Microsoft können auf die Übergangs Tools zugreifen.</span><span class="sxs-lookup"><span data-stu-id="cb934-109">Only partners with a direct billing relationship with Microsoft can access the transition tooling.</span></span> <span data-ttu-id="cb934-110">Indirekte Reseller müssen mit ihren indirekten Anbietern zusammenarbeiten, um dieses Übergangs Tool nutzen zu können.</span><span class="sxs-lookup"><span data-stu-id="cb934-110">Indirect Resellers must work with their Indirect Providers to leverage this transition tool.</span></span>
+
+<span data-ttu-id="cb934-111">Der Kunde muss sich in der Konversation mit beiden Partnern (Current und Future) befinden, bevor dieses Tool genutzt wird.</span><span class="sxs-lookup"><span data-stu-id="cb934-111">The customer must be in conversation with both partners (current and future) prior to this tool being leveraged.</span></span> <span data-ttu-id="cb934-112">Eine Offline Konversation muss durchgeführt werden, um Verwirrung und Abwanderung zu vermeiden.</span><span class="sxs-lookup"><span data-stu-id="cb934-112">An offline conversation needs to be had to avoid confusion and churn.</span></span> <span data-ttu-id="cb934-113">Außerdem sollten Partner und Kunden diese Überlegungen und Voraussetzungen vor dem Initiieren eines Übergangs verstehen:</span><span class="sxs-lookup"><span data-stu-id="cb934-113">In addition, partners and customers should understand these considerations and prerequisites prior to initiating a transition:</span></span>
+
+<span data-ttu-id="cb934-114">**Wichtige Überlegungen:**</span><span class="sxs-lookup"><span data-stu-id="cb934-114">**Key considerations:**</span></span>
+
+- <span data-ttu-id="cb934-115">Azure reservations wird nicht mit dem Abonnement an den zukünftigen Partner verschoben</span><span class="sxs-lookup"><span data-stu-id="cb934-115">Azure Reservations will not move with the subscription to future partner</span></span>
+- <span data-ttu-id="cb934-116">CSP-Preise für Azure-Dienste unter dem aktuellen Partner werden nicht übertragen</span><span class="sxs-lookup"><span data-stu-id="cb934-116">CSP pricing for Azure services under current partner will not transition</span></span>  
+- <span data-ttu-id="cb934-117">Support Aufgaben für Kunden werden auf den zukünftigen Partner verschoben</span><span class="sxs-lookup"><span data-stu-id="cb934-117">Support responsibilities for customer will move to future partner</span></span>
+- <span data-ttu-id="cb934-118">Abrechnung und Rechnungsstellung werden zum Zeitpunkt der Übertragung auf den zukünftigen Partner verschoben</span><span class="sxs-lookup"><span data-stu-id="cb934-118">Billing and invoicing will move to future partner at time of transfer</span></span>
+- <span data-ttu-id="cb934-119">Die rollenbasierte Access Control in Azure (RBAC) ist von der Übertragung nicht betroffen.</span><span class="sxs-lookup"><span data-stu-id="cb934-119">Azure Role-Based Access Control (RBAC) is not affected by the transfer</span></span>
+- <span data-ttu-id="cb934-120">Administrator im Auftrag von (Aobo) wird dem zukünftigen Partner standardmäßig nicht gewährt.</span><span class="sxs-lookup"><span data-stu-id="cb934-120">Admin on Behalf Of (AOBO) will not be granted by default to the future partner</span></span>
+- <span data-ttu-id="cb934-121">Marketplace-Produkte von Drittanbietern werden übertragen, solange die Produkte die Marketplace-Berechtigungsüberprüfung bestehen.</span><span class="sxs-lookup"><span data-stu-id="cb934-121">Third-party marketplace products will transfer as long as the products pass the Marketplace eligibility check.</span></span>
+    - <span data-ttu-id="cb934-122">Es gibt keine besonderen Rabatte oder regionalen Einschränkungen.</span><span class="sxs-lookup"><span data-stu-id="cb934-122">There are no special discounts or regional restrictions</span></span>
+    - <span data-ttu-id="cb934-123">Die Produkte sind nicht Abonnement basiert.</span><span class="sxs-lookup"><span data-stu-id="cb934-123">The products are non-subscription based</span></span>
+    - <span data-ttu-id="cb934-124">Der zukünftige Partner sollte mit dem Verleger zusammenarbeiten, um sicherzustellen, dass er für die Bereitstellung des Produkts in der Zulassungsliste enthalten ist.</span><span class="sxs-lookup"><span data-stu-id="cb934-124">The future partner should work with the publisher to make sure they are on the allow-list for deployment of the product</span></span>
+    - <span data-ttu-id="cb934-125">Wenn nicht alle diese Bedingungen erfüllt sind, um die Marketplace-Produkte zu übertragen, sollten Sie abgebrochen werden, die Azure-Abonnements übertragen und dann mit dem neuen Partner Marketplace-Produkte erneut erwerben.</span><span class="sxs-lookup"><span data-stu-id="cb934-125">If not all of these conditions are met in order to transfer the Marketplace products should be canceled, the Azure subscriptions transferred, and then repurchase of Marketplace products with the new partner</span></span>
+
+<span data-ttu-id="cb934-126">**Voraussetzungen:**</span><span class="sxs-lookup"><span data-stu-id="cb934-126">**Prerequisites:**</span></span>
+
+- <span data-ttu-id="cb934-127">Der Kunde nimmt den aktuellen CSP-Partner an seine Absicht für den Übergang</span><span class="sxs-lookup"><span data-stu-id="cb934-127">Customer engages current CSP partner on their intent to transition</span></span>
+- <span data-ttu-id="cb934-128">Zukünftiger CSP-Partner arbeitet mit Kunden zusammen, um sicherzustellen, dass Kundenanforderungen erfüllt werden können</span><span class="sxs-lookup"><span data-stu-id="cb934-128">Future CSP partner works with customer to ensure customer needs can be met</span></span>
+- <span data-ttu-id="cb934-129">Zukünftiger CSP-Partner stellt vor Beginn des Übergangs eine Beziehung mit dem Kunden her</span><span class="sxs-lookup"><span data-stu-id="cb934-129">Future CSP partner establishes a relationship with customer before transition begins</span></span>  
+- <span data-ttu-id="cb934-130">Kunde muss den Microsoft-Kundenvertrag mit dem zukünftigen CSP-Partner Signieren</span><span class="sxs-lookup"><span data-stu-id="cb934-130">Customer must sign Microsoft Customer Agreement with future CSP partner</span></span>
+- <span data-ttu-id="cb934-131">Der spätere CSP-Partner muss den Microsoft-Partnervertrag zur Verwendung dieses Tools signiert haben.</span><span class="sxs-lookup"><span data-stu-id="cb934-131">Future CSP partner must have signed the Microsoft Partner Agreement to use this tool</span></span>
+
+## <a name="customer-tasks-to-be-completed"></a><span data-ttu-id="cb934-132">Kunden Aufgaben, die abgeschlossen werden müssen</span><span class="sxs-lookup"><span data-stu-id="cb934-132">Customer tasks to be completed</span></span>
+
+<span data-ttu-id="cb934-133">Um ein Azure-Abonnement unter einem Azure-Plan zu übertragen, muss der Kunde den Prozess starten, indem er sich an den aktuellen Partner wenden.</span><span class="sxs-lookup"><span data-stu-id="cb934-133">To transfer an Azure subscription under an Azure plan, the customer must start the process by contacting their current partner.</span></span> <span data-ttu-id="cb934-134">Sie sollten den Firmennamen und die Domäne Ihres aktuellen Partners erfassen, damit Ihr zukünftiger Partner das Übertragungs Anforderungs Formular in seinem Namen ausfüllen kann.</span><span class="sxs-lookup"><span data-stu-id="cb934-134">They should collect their current partner's company name and domain so their future partner can complete the transfer request form on their behalf.</span></span>
+
+<span data-ttu-id="cb934-135">Der Kunde muss auch die Abonnements ermitteln, die er vom aktuellen Partner übertragen möchten.</span><span class="sxs-lookup"><span data-stu-id="cb934-135">The customer must also identify the subscriptions they wish to transfer from their current partner.</span></span> <span data-ttu-id="cb934-136">Partner für Office 365-, Enterprise Mobility Suite-oder Microsoft Dynamics CRM-Abonnements können nicht geändert werden.</span><span class="sxs-lookup"><span data-stu-id="cb934-136">You can't change partners for Office 365, Enterprise Mobility Suite, or Microsoft Dynamics CRM subscriptions.</span></span>
+
+>[!Note]  
+><span data-ttu-id="cb934-137">Es ist Aufgabe des zukünftigen Partners, das Übertragungs Anforderungs Formular abzuschließen, das den Übertragungsvorgang initiiert.</span><span class="sxs-lookup"><span data-stu-id="cb934-137">It is the future partner's responsibility to complete the transfer request form that initiates the transfer process.</span></span> <span data-ttu-id="cb934-138">Microsoft kann nicht im Auftrag des Kunden oder des aktuellen Partners eingreifen.</span><span class="sxs-lookup"><span data-stu-id="cb934-138">Microsoft cannot intervene on behalf of the customer or the current partner.</span></span> <span data-ttu-id="cb934-139">Der Kunde sollte planen, eng mit Ihrem zukünftigen und aktuellen Partner zusammenzuarbeiten, damit der Übergang reibungslos verläuft.</span><span class="sxs-lookup"><span data-stu-id="cb934-139">The customer should plan to work closely with their future and current partner to make the transition go smoothly.</span></span>
+
+## <a name="future-partner-tasks-to-be-completed"></a><span data-ttu-id="cb934-140">Zukünftige Partner Aufgaben, die abgeschlossen werden müssen</span><span class="sxs-lookup"><span data-stu-id="cb934-140">Future partner tasks to be completed</span></span>
+
+<span data-ttu-id="cb934-141">Der zukünftige Partner des Abonnements muss ein Übertragungs Anforderungs Formular von Partner Center abschließen, um eine Abonnement Übertragung anzufordern:</span><span class="sxs-lookup"><span data-stu-id="cb934-141">The future partner of the subscription needs to complete a transfer request form from Partner Center to request a subscription transfer:</span></span>
+
+1.  <span data-ttu-id="cb934-142">Wählen Sie im Partner Center-Menü **Kunden**aus, und wählen Sie dann den Kunden aus, für den Sie ein Übertragungs Anforderungs Formular im Auftrag von ausführen möchten.</span><span class="sxs-lookup"><span data-stu-id="cb934-142">From the Partner Center menu, select **Customers**, then select the customer you wish to complete a transfer request form on behalf of.</span></span>
+2.  <span data-ttu-id="cb934-143">Wählen Sie im Menü Kunde die Option **Abonnements**aus.</span><span class="sxs-lookup"><span data-stu-id="cb934-143">From the Customer menu, select **Subscriptions**.</span></span>
+3.  <span data-ttu-id="cb934-144">Wählen Sie den Abschnitt **Übertragungs Anforderung** aus.</span><span class="sxs-lookup"><span data-stu-id="cb934-144">Select the **Transfer request** section.</span></span>
+4.  <span data-ttu-id="cb934-145">Wählen Sie im **Abschnitt Übertragungs Anforderung**die Option **neue Anforderung hinzufügen**aus.</span><span class="sxs-lookup"><span data-stu-id="cb934-145">From the **Transfer request section**, select **Add new request**.</span></span>
+
+    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Abschnitt Übertragungen":::
+
+5.  <span data-ttu-id="cb934-147">Vervollständigen Sie das Formular für **neue Übertragungsanforderungen** .</span><span class="sxs-lookup"><span data-stu-id="cb934-147">Complete the **New transfer request** form.</span></span>
+
+6.  <span data-ttu-id="cb934-148">Wählen Sie Sende **Übertragungs Anforderung**  >  **senden**aus.</span><span class="sxs-lookup"><span data-stu-id="cb934-148">Select **Send transfer request** > **Send**.</span></span>
+
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Formular zum Vervollständigen der Übertragungs Anforderung":::
+
+7.  <span data-ttu-id="cb934-150">Bestätigung der Übertragungs Anforderung überprüfen</span><span class="sxs-lookup"><span data-stu-id="cb934-150">Review Transfer request confirmation</span></span>
+
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Ausstehende Übertragung überprüfen":::
+
+    >[!Note]
+    ><span data-ttu-id="cb934-152">Der zukünftige Partner kann die Übertragungs Anforderung abbrechen, indem er in der oberen rechten Ecke nur **Anforderung abbrechen** auswählt, wenn der Übertragungs Anforderungs Status "Ausstehend" lautet.</span><span class="sxs-lookup"><span data-stu-id="cb934-152">The future partner can cancel the transfer request by selecting **cancel request** in the upper right-hand corner only when the transfer request status is “pending”.</span></span> <span data-ttu-id="cb934-153">Wenn der Übertragungs Anforderungs Status "in Bearbeitung" oder "abgeschlossen" lautet, sind keine Abbrüche möglich.</span><span class="sxs-lookup"><span data-stu-id="cb934-153">Once the transfer request status is “in progress” or “complete”, cancellations will not be possible.</span></span>
+
+## <a name="current-partner-tasks-to-be-completed"></a><span data-ttu-id="cb934-154">Aktuelle Partner Aufgaben, die abgeschlossen werden müssen</span><span class="sxs-lookup"><span data-stu-id="cb934-154">Current partner tasks to be completed</span></span>
+
+<span data-ttu-id="cb934-155">Der Administrator-Agent des aktuellen Partners des Kunden erhält eine e-Mail, dass der Kunde eine Übertragung der Abonnements anfordert:</span><span class="sxs-lookup"><span data-stu-id="cb934-155">The current partner's Admin Agent of the customer will receive an email that their customer is requesting a transfer of their subscriptions:</span></span>
+
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Überprüfung":::
+
+<span data-ttu-id="cb934-157">Überprüfen und akzeptieren Sie das Übertragungs Anforderungs Formular von Partner Center, um die Abonnement Übertragung abzuschließen.</span><span class="sxs-lookup"><span data-stu-id="cb934-157">Review and accept the transfer request form from Partner Center to complete the subscription transfer.</span></span>
+
+>[!Note]  
+><span data-ttu-id="cb934-158">Wenn der aktuelle Partner innerhalb von 30 Tagen keine Aktion durchführt, läuft die Anforderung ab, und der zukünftige Partner erhält eine, um eine neue Übertragungs Anforderung zu erstellen.</span><span class="sxs-lookup"><span data-stu-id="cb934-158">If no action is taken by the current partner within 30 days the request will expire and the future partner will have a to create a new transfer request.</span></span>
+
+1.  <span data-ttu-id="cb934-159">Wählen Sie über **Prüfen der Übertragungs Anforderung** per e-Mail oder</span><span class="sxs-lookup"><span data-stu-id="cb934-159">Select **Review transfer Request** from the email OR</span></span>
+1.  <span data-ttu-id="cb934-160">Wählen Sie im Partner Center-Menü **Kunden**aus, und wählen Sie dann den Kunden aus, für den eine Übertragungs Anforderung übermittelt wurde.</span><span class="sxs-lookup"><span data-stu-id="cb934-160">From the Partner Center menu, select **Customers**, then select the customer that a transfer request has been submitted on behalf of.</span></span>
+2.  <span data-ttu-id="cb934-161">Wählen Sie im Menü Kunde die Option **Abonnements**aus.</span><span class="sxs-lookup"><span data-stu-id="cb934-161">From the Customer menu, select **Subscriptions**.</span></span>
+3.  <span data-ttu-id="cb934-162">Wählen Sie den Abschnitt **Übertragungs Anforderung** aus.</span><span class="sxs-lookup"><span data-stu-id="cb934-162">Select the **Transfer request** section.</span></span>
+4.  <span data-ttu-id="cb934-163">Erweitern Sie Übertragungs Informationen, indem Sie die ausgewählte **Übertragungs Anforderungs-ID** unter **empfangene Anforderungen** auswählen.</span><span class="sxs-lookup"><span data-stu-id="cb934-163">Expand transfer information by selecting the chosen **Transfer request ID** under **Received requests**</span></span>
+
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Übertragungs Anforderung für Quell Reviews":::
+
+5.  <span data-ttu-id="cb934-165">Überprüfen Sie die Übertragungs Anforderung.</span><span class="sxs-lookup"><span data-stu-id="cb934-165">Review transfer request.</span></span> <span data-ttu-id="cb934-166">Wählen Sie die angeforderten zu übertragenden Azure-Abonnements aus.</span><span class="sxs-lookup"><span data-stu-id="cb934-166">Select the requested Azure subscriptions to transfer.</span></span>
+
+>[!Note]  
+> <span data-ttu-id="cb934-167">Beachten Sie, dass Sie nicht mehr auf die ausgewählten Abonnements zugreifen können, bevor Sie fortfahren.</span><span class="sxs-lookup"><span data-stu-id="cb934-167">Before proceeding please note: You will no longer have access to the selected subscriptions.</span></span>
+> <span data-ttu-id="cb934-168">Sie werden nicht für die weitere Verwendung in Rechnung gestellt.</span><span class="sxs-lookup"><span data-stu-id="cb934-168">You will not be invoiced for further usage.</span></span>
+> <span data-ttu-id="cb934-169">Azure-Reservierungen werden nicht mit den Abonnements übertragen.</span><span class="sxs-lookup"><span data-stu-id="cb934-169">Azure reservations do not transfer with the subscriptions.</span></span>
+
+6.  <span data-ttu-id="cb934-170">Wählen Sie dann **akzeptieren und übertragen** aus, um den Übertragungsvorgang abzuschließen.</span><span class="sxs-lookup"><span data-stu-id="cb934-170">Then select **Accept and transfer** to complete the transfer process.</span></span>
+
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Auswählen von Abonnements, die in ihren Azure-Plänen übertragen werden sollen":::
+
+7.  <span data-ttu-id="cb934-172">Bestätigung der Übertragungs Annahme anzeigen.</span><span class="sxs-lookup"><span data-stu-id="cb934-172">View transfer acceptance confirmation.</span></span>
+
+   <span data-ttu-id="cb934-173">An diesem Punkt werden der zukünftige Partner, der Kunde und der aktuelle Partner über die akzeptierte Übertragungs Anforderung per e-Mail benachrichtigt.</span><span class="sxs-lookup"><span data-stu-id="cb934-173">At this point, the future partner, the customer, and current partner will be notified of the accepted transfer request via email.</span></span>
+
+   <span data-ttu-id="cb934-174">Nachdem der Übergang akzeptiert wurde, bleibt der Übertragungs Status möglicherweise bis zu 15 Minuten ausstehend, während das System aktualisiert wird.</span><span class="sxs-lookup"><span data-stu-id="cb934-174">After, the transition has been accepted the transfer status might remain Pending for up to 15 minutes while the system is updated.</span></span> <span data-ttu-id="cb934-175">Wenn es länger dauert, versucht das System, drei Tage lang einen Versuch zu durchführen.</span><span class="sxs-lookup"><span data-stu-id="cb934-175">If it takes longer, the system will keep trying for three days.</span></span> <span data-ttu-id="cb934-176">Wenn der Übertragungs Status weiterhin aussteht, sollte der Partner eine Service Request übermitteln.</span><span class="sxs-lookup"><span data-stu-id="cb934-176">If the transfer status still remains Pending, the partner should submit a service request.</span></span>
+
+   <span data-ttu-id="cb934-177">Nach Abschluss der Übertragung werden die in der Anforderung enthaltenen Abonnements im Azure-Plan des zukünftigen Partners angezeigt, und Sie werden nicht mehr mit Ihnen aufgelistet.</span><span class="sxs-lookup"><span data-stu-id="cb934-177">Once the transfer is complete, the subscriptions included within the request will appear in the Azure plan of the future partner, and no longer be listed with you.</span></span>
+
+>[!Note]  
+><span data-ttu-id="cb934-178">Für indirekte Anbieter: informieren Sie den indirekten Händler, dass die Übertragungs Anforderung akzeptiert wurde.</span><span class="sxs-lookup"><span data-stu-id="cb934-178">For Indirect Providers: Please inform your Indirect Reseller that the transfer request has been accepted.</span></span>
+
+### <a name="managing-your-transferred-customer-subscriptions"></a><span data-ttu-id="cb934-179">Verwalten Ihrer übertragenen Kunden Abonnements</span><span class="sxs-lookup"><span data-stu-id="cb934-179">Managing your transferred customer subscriptions</span></span>
+- <span data-ttu-id="cb934-180">Der Zugriff auf vorhandene Benutzer, Gruppen oder Dienstprinzipale, die per rollenbasierter Azure-Zugriffssteuerung (Azure Role-Based Access Control, Azure RBAC) zugewiesen wurden, ist von der Übertragung nicht betroffen.</span><span class="sxs-lookup"><span data-stu-id="cb934-180">Access to existing users, groups, or service principals that were assigned using Azure role-based access control (RBAC) isn't affected during the transition.</span></span> <span data-ttu-id="cb934-181">Mit der rollenbasierten Zugriffs Steuerung von Azure [(Azure RBAC)](/azure/role-based-access-control/overview) kann Ihr Kunde steuern, wer Zugriff auf Azure-Ressourcen hat, welche Möglichkeiten Sie mit diesen Ressourcen haben und auf welche Bereiche Sie zugreifen können.</span><span class="sxs-lookup"><span data-stu-id="cb934-181">Azure role-based access control [(Azure RBAC)](/azure/role-based-access-control/overview) helps your customer manage who has access to Azure resources, what they can do with those resources, and what areas they have access to.</span></span> <span data-ttu-id="cb934-182">Als neuer Partner erhalten Sie nach der Abonnement Übertragung keinen RBAC-Zugriff auf die Ressourcen Ihres Kunden.</span><span class="sxs-lookup"><span data-stu-id="cb934-182">As the new partner you aren't given any RBAC access to your customer’s resources after the subscription transfer.</span></span> <span data-ttu-id="cb934-183">Der vorherige Partner Ihres Kunden behält seinen RBAC-Zugriff bei.</span><span class="sxs-lookup"><span data-stu-id="cb934-183">Your customer’s previous partner retains their RBAC access.</span></span> <span data-ttu-id="cb934-184">Wenden Sie sich an Ihren Kunden, um zu verstehen, wer Einblicke in seine Abonnements hat und wie Sie alle gewünschten Änderungen vornehmen können.</span><span class="sxs-lookup"><span data-stu-id="cb934-184">Work with your customer to understand who has insight into their subscriptions and how to make any wanted changes.</span></span>
+
+- <span data-ttu-id="cb934-185">Folglich ist es wichtig, dass Ihr Kunde den Azure RBAC-Zugriff für den vorherigen Partner entfernt und den neuen Partner für den neuen Partner zugreift.</span><span class="sxs-lookup"><span data-stu-id="cb934-185">Consequently, it’s important that your customer removes Azure RBAC access for their previous partner and add access for the new partner.</span></span> <span data-ttu-id="cb934-186">Weitere Informationen zu Ihrem Kunden, der neuen Zugriff gewährt, finden Sie unter [Was ist die rollenbasierte Zugriffs Steuerung in Azure (Azure RBAC)?](/azure/role-based-access-control/overview)</span><span class="sxs-lookup"><span data-stu-id="cb934-186">For more information about your customer giving new access, see [What is Azure role-based access control (Azure RBAC)?](/azure/role-based-access-control/overview)</span></span> <span data-ttu-id="cb934-187">Weitere Informationen über den Kunden, der den RBAC-Zugriff ihres früheren Partners entfernt, finden Sie unter [Entfernen einer Rollenzuweisung](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment).</span><span class="sxs-lookup"><span data-stu-id="cb934-187">For more information about your customer removing your previous partner’s RBAC access, see [Remove a role assignment](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment).</span></span>
+
+- <span data-ttu-id="cb934-188">Außerdem erhalten Sie keinen automatischen [Administrator im Auftrag von (Aobo)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) -Zugriff auf Ihre Abonnements.</span><span class="sxs-lookup"><span data-stu-id="cb934-188">Additionally, you don’t automatically get [Admin on Behalf Of (AOBO)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) access to your subscriptions.</span></span> <span data-ttu-id="cb934-189">Aobo ist erforderlich, damit Partner die Azure-Abonnements Ihres Kunden in Ihrem Namen verwalten können.</span><span class="sxs-lookup"><span data-stu-id="cb934-189">AOBO is necessary for partner’s to manage their customer’s Azure subscriptions on their behalf.</span></span> <span data-ttu-id="cb934-190">Weitere Informationen zu Azure-Berechtigungen finden [Sie unter Abrufen von Berechtigungen zum Verwalten eines Kunden Dienstanbieter oder Abonnements.](/partner-center/customers-revoke-admin-privileges)</span><span class="sxs-lookup"><span data-stu-id="cb934-190">For more information about Azure privileges, see [Obtain permissions to manage a customer’s service or subscription.](/partner-center/customers-revoke-admin-privileges)</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="cb934-191">Nächste Schritte:</span><span class="sxs-lookup"><span data-stu-id="cb934-191">Next steps:</span></span>
+
+- [<span data-ttu-id="cb934-192">(Azure RBAC)</span><span class="sxs-lookup"><span data-stu-id="cb934-192">(Azure RBAC)</span></span>](/azure/role-based-access-control/overview)
+- [<span data-ttu-id="cb934-193">Abrufen der Berechtigungen zum Verwalten des Dienstanbieter oder Abonnements eines Kunden.</span><span class="sxs-lookup"><span data-stu-id="cb934-193">Obtain permissions to manage a customer’s service or subscription.</span></span>](/partner-center/customers-revoke-admin-privileges)

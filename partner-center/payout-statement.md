@@ -171,7 +171,7 @@ ms.locfileid: "91335722"
 >[!Note]
 > <span data-ttu-id="55d62-422">Qualifiziert für eine Auszahlung sind Beträge, die den [Zahlungsschwellenwert](payment-thresholds-methods-timeframes.md) von 50 US-Dollar erreichen.</span><span class="sxs-lookup"><span data-stu-id="55d62-422">To be eligible for payout, your proceeds must reach the [payment threshold](payment-thresholds-methods-timeframes.md) of $50.</span></span> <span data-ttu-id="55d62-423">Weitere Informationen finden Sie in der [Microsoft-Herausgeber Vereinbarung](https://go.microsoft.com/fwlink/?LinkID=699560).</span><span class="sxs-lookup"><span data-stu-id="55d62-423">For more information, see the [Microsoft Publisher Agreement](https://go.microsoft.com/fwlink/?LinkID=699560).</span></span>
 
-:::image type="content" source="images/payouts/payments-overview.png" alt-text="Übersichtsseite "Zahlungen".":::
+:::image type="content" source="images/payouts/payments-overview.png" alt-text="Übersichtsseite Zahlungen.":::
 
 - <span data-ttu-id="55d62-425">**Summe bezahlt in diesem Jahr** – die kombinierte Summe, die Sie in diesem Jahr in US-Dollar für alle Programme bezahlt haben.</span><span class="sxs-lookup"><span data-stu-id="55d62-425">**Total paid this year** – The combined total paid out to you this year, in U.S. dollars, for all of your programs.</span></span>
 - <span data-ttu-id="55d62-426">**Nächste geschätzte Zahlung** – die nächste nächste Zahlung an Sie (auch wenn in Kürze andere vorhanden sind), in US-Dollar.</span><span class="sxs-lookup"><span data-stu-id="55d62-426">**Next estimated payment** – The single next payment coming to you (even if there are others coming soon), in U.S. dollars.</span></span>

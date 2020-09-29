@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 9c92966788a8d00cc86776b996b3484a9bff8d59
-ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
+ms.openlocfilehash: 1d88ac82c905f5ecc1a7126988ecb4fdac599c3c
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91372790"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422326"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,9 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für September 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+|Funktionen|[Jetzt verfügbar: Neues Tool für den Abonnementübergang zwischen Partnern im Azure-Plan](2020-september.md#15)|28. September|
+|Funktionen|[Updatetests: Partner Center-API-Updates und Verbesserungen der Benutzeroberfläche für den Überprüfungsprozess für Kunden im Bildungswesen](2020-september.md#14)|28. September|
+|Funktionen|[Update – CSP Office 365-Nutzungs-APIs und CSP-Lizenznutzungsberichte](2020-september.md#13)|29. September|
 |Funktionen|[Bevorstehende MwSt.-Änderungen gemäß russischen föderalen Gesetzen](2020-september.md#12)|25. September|
 |Funktionen|[SDK-Release für .NET Standard v1.16.2](2020-september.md#11)|22. September|
 |Funktionen|[Partner Center Insights – Ihre zentrale Berichterstellungsressource zur Auswertung der Geschäftsentwicklung mit Microsoft.](2020-september.md#10)|23. September|

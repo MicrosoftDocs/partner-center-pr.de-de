@@ -171,7 +171,7 @@ Auf der Seite **Zahlungen** finden Sie Informationen zu den Kosten, die Sie mit 
 >[!Note]
 > Qualifiziert für eine Auszahlung sind Beträge, die den [Zahlungsschwellenwert](payment-thresholds-methods-timeframes.md) von 50 US-Dollar erreichen. Weitere Informationen finden Sie in der [Microsoft-Herausgeber Vereinbarung](https://go.microsoft.com/fwlink/?LinkID=699560).
 
-:::image type="content" source="images/payouts/payments-overview.png" alt-text="Übersichtsseite "Zahlungen".":::
+:::image type="content" source="images/payouts/payments-overview.png" alt-text="Übersichtsseite Zahlungen.":::
 
 - **Summe bezahlt in diesem Jahr** – die kombinierte Summe, die Sie in diesem Jahr in US-Dollar für alle Programme bezahlt haben.
 - **Nächste geschätzte Zahlung** – die nächste nächste Zahlung an Sie (auch wenn in Kürze andere vorhanden sind), in US-Dollar.

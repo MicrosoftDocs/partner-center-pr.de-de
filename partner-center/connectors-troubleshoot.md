@@ -1,5 +1,5 @@
 ---
-title: Problembehandlung bei Connectors für Co-Selling-Referenzen
+title: Problembehandlung bei Connectors mit Co-Selling-Empfehlungen
 ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
@@ -8,14 +8,14 @@ description: Häufig gestellte Fragen zur Problembehandlung bei Co-Selling-Conne
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: ad09d7c805ce5a1138d7546fd041ae1eda77b00c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d34a13a6789f3bd712d2cec3a594b8e407f7449d
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91002973"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422336"
 ---
-# <a name="troubleshoot-co-sell-referrals-connectors"></a>Problembehandlung bei Connectors für Co-Selling-Referenzen
+# <a name="troubleshoot-co-sell-referrals-connectors"></a>Problembehandlung bei Connectors mit Co-Selling-Empfehlungen
 
 **Gilt für:**
 
@@ -104,27 +104,28 @@ Wenn der Flow ausgeführt wird, fügen Sie Verbindungen zum Flow hinzu, und Sie 
 
 5. Was sollten Sie tun, wenn die Flows der Connectors-Lösung für Co-Selling-Verweise nicht aktiviert (Einschalten)?
 
-    A. In der Energie Automatisierung müssen Sie Flows in der folgenden Reihenfolge bearbeiten und Sie aktualisieren, um die entsprechenden Verbindungen zu verwenden:
+A. In der Energie Automatisierung müssen Sie Flows in der folgenden Reihenfolge bearbeiten und Sie aktualisieren, um die entsprechenden Verbindungen zu verwenden:
 
-    - Partner Center-webhook-Registrierung (Insider Preview)
-    - Erstellen eines Co-Selling-Verweises-Salesforce an Partner Center (Insider Preview)
-    - Partner Center Microsoft Co-Selling-Referenz Aktualisierungen an Salesforce (Insider Preview)
-    - Partner Center zu Salesforce (Insider Vorschau)
-    - Salesforce zu Partner Center (Insider Vorschau)
-    - Salesforce-Verkaufschance an Partner Center (Insider Preview)
-    - Salesforce Microsoft-Lösungen an Partner Center (Insider Preview)
+- Partner Center-webhook-Registrierung (Insider Preview)
+- Erstellen eines Co-Selling-Verweises-Salesforce an Partner Center (Insider Preview)
+- Partner Center Microsoft Co-Selling-Referenz Aktualisierungen an Salesforce (Insider Preview)
+- Partner Center zu Salesforce (Insider Vorschau)
+- Salesforce zu Partner Center (Insider Vorschau)
+- Salesforce-Verkaufschance an Partner Center (Insider Preview)
+- Salesforce Microsoft-Lösungen an Partner Center (Insider Preview)
 
-    B. Wählen Sie für jeden Flow die Option **nur Benutzer ausführen** aus. Wählen Sie **Verbindung verwenden** anstelle von **nur Benutzer ohne Benutzer bereit**stellen aus.  
+ B. Wählen Sie für jeden Flow die Option **nur Benutzer ausführen** aus. Wählen Sie **Verbindung verwenden** anstelle von **nur Benutzer ohne Benutzer bereit**stellen aus.  
 
 :::image type="content" source="images/cosellconnectors/runonly.png" alt-text="So aktivieren Sie einen Flow":::
 
+
 C. Aktivieren Sie die folgenden genannten Flows:
 
-- Partner Center Microsoft Co-Selling-Referenz Aktualisierungen an Salesforce (Insider Preview)
+ - Partner Center Microsoft Co-Selling-Referenz Aktualisierungen an Salesforce (Insider Preview)
 
 - Salesforce zu Partner Center (Insider Vorschau)
 
-
+    
 D: Aktivieren Sie alle verbleibenden Flows.
 
 E. Wählen Sie unter Flow Partner Center-webhook-Registrierung die Option **Ausführen**aus. Geben Sie die **http-URL** aus der ersten Aktion im **Partner Center für den Salesforce** -Flow an. Wählen Sie unter **zu registrierende Ereignisse** alle vier Optionen aus, und wählen Sie zum Überschreiben **Ja**

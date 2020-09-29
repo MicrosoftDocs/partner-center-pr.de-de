@@ -8,12 +8,12 @@ description: Synchronisieren Ihrer Verweise in Partner Center mit Ihrem Salesfor
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b658f04b1348eb48f694fac069518a7a7fc6a70
-ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
+ms.openlocfilehash: 4b96be195788ccc8b82aafd0bddb90dd34a672f9
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91372830"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422446"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Co-Selling-Connector für Salesforce CRM – Übersicht
 
@@ -237,45 +237,6 @@ Je nach Ihren Anforderungen können mehrere Schritte der einzelnen Strom automat
 
 Sie können die Zuordnungen in diesem Abschnitt basierend auf dem Leitfaden für die Feld Zuordnung bearbeiten.
 
-### <a name="set-up-fields-and-relationships"></a>Einrichten von Feldern und Beziehungen
-
-1. Melden **Sie sich bei**Ihrem Salesforce-Konto an.
-
-2. Klicken Sie auf die Optionen **Setup** und **Objekt bearbeiten** , um die erforderlichen Felder hinzuzufügen.
-
-3. **Felder & Beziehungen** im linken Navigationsbereich auswählen
-
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
-
-4. Fügen Sie die folgenden Felder in den **Feldern & Beziehungs** Tabelle hinzu:
-
-   |**Feld Bezeichnung**   |**Feldname**|**Datentyp**|**Zierenden**|
-   |---------------------|:-------------------|:--------------|:----------------|
-   |Audit| Audit__c|Long-Text Bereich (100000) (sichtbare Zeile 4)||
-   |Wie kann Microsoft helfen?|How_can_Microsoft_help_c|Auswahlliste|
-   |Produkte|Products_c|Text (255)||
-   |Referral | Referral_Identfier_c|Text (100) (externe ID)|Ja|
-   |Verweis Link| Referral_Link_c_|URL (255)||
-   |Mit Partner Center synchronisieren|sync_with_partner_center_c|CheckBox (Standardeinstellung deaktiviert)||
-
-   * Picklist-Werte:
-
-   - Auslastungs spezifischer Wert-Vorschlag
-   - Technische Kunden Architektur
-   - Proof of Concept oder Demo
-   - Anführungszeichen oder Lizenzierung
-   - Kunden Erfolg nach dem Verkauf
-   - Allgemein oder andere
-
-5. Die Felder werden unter " **Felder & Beziehungen** " erstellt.
-
-   :::image type="content" source="images/salesforce/fields2.png" alt-text="Erstellte Felder":::
-
-6. Erstellen Sie im Layout der Verkaufschancen einen separaten Abschnitt mit den oben aufgeführten Feldern.
-
-   - Dieser Abschnitt sollte für die Verkäufer im Verkaufschancen Layout verfügbar sein.
-
-   :::image type="content" source="images/salesforce/pc-fields-layout.png" alt-text="Layout der Partner Center-Felder":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>End-to-End-bidirektionale Co-Selling-Synchronisierung
 

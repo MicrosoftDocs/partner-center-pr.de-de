@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 607dd781640ca75dea89ae0f38877bc72a62bfcc
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.openlocfilehash: 83f5f3cea881780531d0b2f24e0422df76891382
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "91206322"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422316"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Erfahren Sie, wie Sie die Azure-Abonnements eines Kunden auf einen anderen Partner übertragen
 
@@ -37,23 +37,27 @@ Führen Sie die folgenden manuellen Schritte aus, um die Azure-Dienste oder-Abon
 1. Um ein Azure-Abonnement auf einen neuen Partner zu übertragen, muss der Kunde den Prozess starten und sich schriftlich an seinen aktuellen registrierten Abonnementberater wenden.
 
    >[!Note]
-   >Es liegt in der Verantwortung des aktuellen Partners, das Serviceticket zu erstellen, das den Übertragungsprozess initiiert. Microsoft kann nicht im Auftrag der Kunden oder des neuen Partner eingreifen. Der Kunde sollte planen, eng mit dem aktuellen Partner zusammenzuarbeiten, um den Übergang reibungslos zu gestalten.
+   > Es liegt in der Verantwortung des aktuellen Partners, das Serviceticket zu erstellen, das den Übertragungsprozess initiiert. Microsoft kann nicht im Auftrag der Kunden oder des neuen Partner eingreifen. Der Kunde sollte planen, eng mit dem aktuellen Partner zusammenzuarbeiten, um den Übergang reibungslos zu gestalten.
 
 2. Der Partner für das Abonnement muss die folgenden Aufgaben ausführen:
 
    Erstellen eines Azure-Servicetickets in Partner Center, um eine Abonnementübertragung anzufordern.
 
-   - Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie den Kunden aus der Liste aus. Wählen Sie anschließend **Dienstverwaltung** aus. Wählen Sie im Abschnitt **Supporttickets** die Dropdownliste **Neues Ticket** aus und anschließend **Microsoft Azure**.
+   1. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie den Kunden aus der Liste aus. Wählen Sie anschließend **Dienstverwaltung** aus. 
 
-   - Wählen Sie im [Azure-Portal](https://portal.azure.com)die Option **neue Supportanfrage**aus.
+   2. Wählen Sie im Abschnitt **Supporttickets** die Dropdownliste **Neues Ticket** aus und anschließend **Microsoft Azure**.
+   
+   3. Wählen Sie im [Azure-Portal](https://portal.azure.com)die Option **neue Supportanfrage**aus.
+   
+   4. Wählen Sie in Schritt 1 **Abonnement Verwaltung** als Problemtyp aus, geben Sie die Abonnement-ID an, die Sie übertragen möchten, und wählen Sie **Cloud Solution Provider** als Support Plan aus.
+   
+   5. Wählen Sie in Schritt 2 die Option **C-minimale Auswirkung** aus, und wählen Sie **andere allgemeine Fragen** als Problemtyp aus.
+   
+   6. Laden Sie das [CSP-Abonnementübertragungsformular](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA) herunter.
 
-     Wählen Sie in Schritt 1 **Abonnement Verwaltung** als Problemtyp aus, geben Sie die Abonnement-ID an, die Sie übertragen möchten, und wählen Sie **Cloud Solution Provider** als Support Plan aus.
+3. Der Partner für das Abonnement: füllen Sie das [Formular für das CSP-Abonnement Transfer](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)aus, Signieren Sie es, und senden Sie es dann an den Kunden. 
 
-     Wählen Sie in Schritt 2 die Option **C-minimale Auswirkung** aus, und wählen Sie **andere allgemeine Fragen** als Problemtyp aus.
-
-     Laden Sie das [CSP-Abonnementübertragungsformular](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA) herunter.
-
-3. Der Partner für das Abonnement: füllen Sie das [Formular für das CSP-Abonnement Transfer](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)aus, Signieren Sie es, und senden Sie es dann an den Kunden. Sie benötigen folgende Informationen, um das Formular auszufüllen:
+   Sie benötigen folgende Informationen, um das Formular auszufüllen:
 
    - Die Kontaktinformationen und die Microsoft-ID des aktuellen Partners. Wählen Sie im Menü „Partner Center” **Kontoeinstellungen** &gt; **Organisationsprofil**, und verwenden Sie die **Microsoft-ID**, **Name der Organisation** und **Adresse**, die dort aufgeführt sind.
 
@@ -106,6 +110,10 @@ Führen Sie die folgenden manuellen Schritte aus, um die Azure-Dienste oder-Abon
 ## <a name="next-steps"></a>Nächste Schritte
 
 - Laden Sie das [CSP-Abonnementübertragungsformular](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA) herunter.
+
+- Erfahren Sie [mehr über die Unterstützung von mehreren Partnern](multipartner.md).
+
 - [Unterstützung für mehrere Partner](multipartner.md).
 - [Unterstützung für mehrere Kanäle](multichannel.md).
 - [Übertragen von Azure-Abonnements](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
+

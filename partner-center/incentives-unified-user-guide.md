@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4f5c2188c88f66c3cc406af32bde9043ae7bb4c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 28ad3a9eef770793c1412623aba2bd1d1972c8aa
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999884"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591074"
 ---
 # <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>Zugreifen auf die Auszahlungs Seiten für Windows-apps und-Spiele, MPN-Incentives und kommerzielle Marketplace-Zahlungen
 
@@ -35,4 +35,4 @@ Die Informationen zur Auszahlungs Hilfe, die für Sie relevant sind, hängen dav
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- Informationen zu kommerziellen Marketplace-Zahlungen für unabhängige Software Anbieter (ISVs) finden Sie unter [Zusammenfassung des kommerziellen Marketplace-Auszahlungs](/azure/marketplace/partner-center-portal/payout-summary)Dienstanbietern.
+- Informationen zu kommerziellen Marketplace-Zahlungen für unabhängige Software Hersteller (ISVs) finden Sie unter [Auszahlungs Anweisungen](payout-statement.md).

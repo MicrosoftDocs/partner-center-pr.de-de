@@ -6,26 +6,17 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 04/24/2020
-ms.openlocfilehash: 17fedcf4ef3d474eab679a03eecb221c90342a04
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.date: 09/28/2020
+ms.openlocfilehash: 24436238cb28f4ef1b02afc4e2f4224d1440805c
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335703"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591110"
 ---
 # <a name="payout-policy-details"></a>Auszahlungsrichtliniendetails
 
-Dieser Artikel erläutert den Auszahlungsprozess von Microsoft, den auszahlungszeitplan und die Richtlinie für die Wiederaufnahme sowie den Ort, an dem der Status einer Auszahlung zu finden ist.
-
-## <a name="where-to-find-upcoming-payouts"></a>Ort für bevorstehende Auszahlungen
-
-Wählen Sie in Partner Center das **Auszahlungs** Symbol in der oberen rechten Ecke des Bildschirms aus:
-
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Auszahlungssymbol rechts oben im Partner Center-Portal":::
-
-> [!TIP]
-> Nicht alle Kontorollen haben Zugriff auf Auszahlungsinformationen. Weitere Informationen finden Sie unter [Rollen und Berechtigungen](payout-statement.md#roles-and-permissions).
+In diesem Artikel werden der Auszahlungsprozess von Microsoft, der Auszahlungszeitplan und die Entschädigungsrichtlinie erläutert, und Sie erfahren, wo Sie den Status einer Auszahlung finden.
 
 ## <a name="payment-schedules"></a>Zahlungspläne
 
@@ -33,9 +24,9 @@ In den folgenden Abschnitten wird der Prozess für Auszahlungen beschrieben.
 
 ### <a name="enterprise-agreement-transactions-after-may-1-2020"></a>Enterprise Agreement-Transaktionen nach dem 1. Mai 2020
 
-Wir haben das folgende Update für unser kommerzielles Marketplace-Herausgeber Auszahlungs Modell durchgeführt:
+#### <a name="update-to-our-commercial-marketplace-publisher-payout-model"></a>Aktualisieren auf unser kommerzielles Marketplace-Herausgeber Auszahlungs Modell
 
-Ab dem 1. Mai 2020 aktualisieren wir unsere Auszahlungs Richtlinie im Zusammenhang mit Produkten, die in Microsoft AppSource erworben wurden oder von Kunden mit einem Microsoft-Konzernvertrag Azure Marketplace werden. Wenn ein Kunde ein Produkt von Azure Marketplace oder appsource mithilfe der vorhandenen Microsoft-Konzernvertrag für Transaktionen kauft, beginnen wir nach dem 1. Mai 2020, im nächsten Auszahlungs Zeitraum 30 Tage nach Kunden Rechnung Zahlungen auszugeben. Für Transaktionen, bei denen der Kunde eine Kreditkarte verwendet, gilt unverändert ein Einbehaltungszeitraum von 30 Tagen vor der Auszahlung. In dieser Tabelle werden Details zum auszahlungszeitplan angezeigt.
+Ab dem 1. Mai 2020 aktualisieren wir unsere Auszahlungsrichtlinie für Produkte, die von Kunden mit einem Microsoft Enterprise Agreement im Azure Marketplace oder in AppSource erworben werden. Wenn ein Kunde ein Produkt im Azure Marketplace oder in AppSource erwirbt und dabei sein vorhandenes Microsoft Enterprise Agreement verwendet, werden Auszahlungen für Transaktionen nach dem 1. Mai 2020 im nächsten Auszahlungszyklus 30 Tage nach der Kundenrechnung geleistet. Für Transaktionen, bei denen der Kunde eine Kreditkarte verwendet, gilt unverändert ein Einbehaltungszeitraum von 30 Tagen vor der Auszahlung. In dieser Tabelle werden Details zum auszahlungszeitplan angezeigt.
 
 > [!NOTE]
 > Unter [Prozess bei Nichtzahlung des Kunden](#process-for-customer-non-payment) erfahren Sie, welche Maßnahmen wir ergreifen, wenn der Kunde nicht bezahlt und wir bereits eine Auszahlung an Sie geleistet haben.
@@ -51,7 +42,7 @@ Ab dem 1. Mai 2020 aktualisieren wir unsere Auszahlungs Richtlinie im Zusammenha
 | Begleichung der Kundenrechnung | 01.12.2020 | Kennzeichnung als **Gesendet** im Transaktionsverlauf und im Auszahlungsabschnitt des Auszahlungsdashboards | **Nutzungsbericht**: Anzeige des Verbrauchs mit Auftrags-ID/Auftragspositions-ID (OrderID/OrderLineItemID)<br>**Auftragsbericht**: Anzeige AKTIVER Kundenaufträge  |
 |  |  |  |  |
 
-\* Auf Nutzungs- und Auftragsberichte kann im Analyseabschnitt in Partner Center zugegriffen werden.</br>\** Das Auszahlungsdatum ist in Pacific Standard Time (PST) angegeben.
+\* Verwendungs-und Auftrags Berichte sind im Abschnitt analysieren im Partner Center verfügbar. \* *. Das Auszahlungsdatum liegt in der Pacific Standard Time (PST).
 
 ### <a name="customers-who-pay-using-credit-card-or-invoice"></a>Kunden mit Kreditkarten- oder Rechnungszahlung
 
@@ -95,12 +86,12 @@ Aufgrund des hier beschriebenen Auszahlungsprozesses wurden von Microsoft unter 
 
 Microsoft verwendet eine der folgenden Methoden, um bereits an Sie geleistete Zahlungen zurückzuerhalten: (1) Microsoft kann die unbezahlten Beträge mit zukünftigen Auszahlungen verrechnen. Wenn also beispielsweise Auszahlungen in Höhe von 1.000 USD als uneinbringlich eingestuft und abgeschrieben werden, werden Ihre zukünftigen Auszahlungen so lange zurückgehalten, bis die 1.000 USD ausgeglichen sind. (2) Alternativ kann Microsoft von Herausgebern eine Rückerstattung für nicht geleistete Zahlungen verlangen oder ihnen den entsprechenden Betrag in Rechnung stellen.
 
-In der folgenden Tabelle wird ein Beispiel für einen Zeitplan angezeigt:
+Im Anschluss finden Sie einen Beispielzeitplan:
 
 | Ereignis | Ungefähres Datum | Partnersichtbarkeit |
 | --- | --- | --- |
 | Exemplarisches Auszahlungsdatum | 15.10.2020 | Kennzeichnung als **Gesendet** im Transaktionsverlauf und im Auszahlungsabschnitt des Auszahlungsdashboards |
-| Ausbleibende Kundenzahlung an Microsoft | 02.12.2020–05.12.2020 | Keine Änderung, wie oben |
+| <font color="red">Ausbleibende Kundenzahlung an Microsoft</font> | 02.12.2020–05.12.2020 | Keine Änderung, wie oben |
 | Kunde erhält erste E-Mail wegen Zahlungsverzug | 06.12.2020 | Keine |
 | Kunde erhält regelmäßig E-Mails mit zunehmender Dringlichkeit | 07.12.2020–31.01.2021 | Keine |
 | Herausgeber wird über voraussichtliche Abschreibung informiert | 07.01.2021 | Herausgeber erhält eine E-Mail-Benachrichtigung mit der Information, dass der Kunde noch nicht bezahlt hat. Transaktions-ID und Dollarbetrag sind angegeben. |
@@ -122,7 +113,8 @@ In der Regel senden wir die in einem Monat fälligen Zahlungen am 15. des Monats
 | PayPal             | 1 Werktag                             |
 | ACH/SEPA-Überweisungen           | 2-3 Werktage                          |
 | Telegrafische Geldüberweisung      | 7-10 Werktage                         |
+|
 
-## <a name="next-step"></a>Nächster Schritt
+## <a name="next-steps"></a>Nächste Schritte
 
 - [Steuerliche Aspekte für kommerzielle Marketplace-Herausgeber](tax-details-marketplace.md)

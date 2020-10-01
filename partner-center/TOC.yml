@@ -71,9 +71,7 @@
             - name: Qualifizierungsanforderungen
               href: software-assurance-dps-requirements.md
     - name: Rechnungen und Steuern
-      items:
-        - name: Rechnungen und Steuern im MPN
-          href: mpn-view-print-maps-invoice.md
+      href: mpn-view-print-maps-invoice.md
     - name: Testen neuer Features
       href: test-drive-new-features.md
 - name: Cloud Solution Provider (CSP)
@@ -305,20 +303,8 @@
           href: mobile-operator-billing.md
         - name: Szenarien für lizenzbasierte Saas-Abonnements
           href: common-billing-scenarios-saas.md
-    - name: Marketplace-Abrechnungs- und Auszahlungsszenarien
-      items:
-        - name: Abrechnung für Marketplace-Angebote
-          href: csp-commercial-marketplace-billing.md
-        - name: Bezahlung – Marketplace
-          href: marketplace-get-paid.md
-        - name: Auszahlungsrichtliniendetails
-          href: payout-policy-details.md
-        - name: 'Zahlungsschwellenwerte, -methoden und -zeitrahmen'
-          href: payment-thresholds-methods-timeframes.md
-        - name: Auszahlungsaufstellungen
-          href: payout-statement.md
-        - name: Häufig gestellte Fragen zu Marketplace-Auszahlungen
-          href: payout-faq.md
+    - name: Abrechnung für Marketplace-Angebote
+      href: csp-commercial-marketplace-billing.md
     - name: Anzeigen von digitalen Signaturen – Partner Center Indien
       href: digital-signature.md
     - name: Steuern und Steuerbefreiungen
@@ -342,10 +328,24 @@
           href: request-credit.md
     - name: Einrichten eines Kundenbudgets für Azure-Kosten
       href: set-an-azure-spending-budget-for-your-customers.md
+- name: Erhalten der Bezahlung
+  items:
     - name: 'Verwalten von Nichtbezahlung, Betrug oder Missbrauch'
       href: non-payment-fraud-misuse.md
     - name: Verwalten nicht zugewiesener Zahlungen
       href: unallocated-payment.md
+    - name: Auszahlungen für kommerzielle Marketplace-Angebote
+      items:
+        - name: Bezahlung – Marketplace
+          href: marketplace-get-paid.md
+        - name: Auszahlungsrichtliniendetails
+          href: payout-policy-details.md
+        - name: 'Zahlungsschwellenwerte, -methoden und -zeitrahmen'
+          href: payment-thresholds-methods-timeframes.md
+        - name: Auszahlungsaufstellungen
+          href: payout-statement.md
+        - name: Häufig gestellte Fragen zu Auszahlungen
+          href: payout-faq.md
 - name: Kontakt zu Kunden
   href: customer-accounts.md
   items:

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 1d88ac82c905f5ecc1a7126988ecb4fdac599c3c
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: bbd614642544bfa9c389e596f06c805b8649f4ab
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422326"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591090"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,8 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für September 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+|Funktionen|[Hinweise zu Lizenzschlüssel und Download der Partner Center-Software](2020-september.md#17)|30. September|
+|Funktionen|[Weiterentwicklung des Cloud Solution Provider (CSP)- und Änderungen des Open License-Programms: Weg zu einer besseren Partner- und Benutzerfreundlichkeit](2020-september.md#16)|30. September|
 |Funktionen|[Jetzt verfügbar: Neues Tool für den Abonnementübergang zwischen Partnern im Azure-Plan](2020-september.md#15)|28. September|
 |Funktionen|[Updatetests: Partner Center-API-Updates und Verbesserungen der Benutzeroberfläche für den Überprüfungsprozess für Kunden im Bildungswesen](2020-september.md#14)|28. September|
 |Funktionen|[Update – CSP Office 365-Nutzungs-APIs und CSP-Lizenznutzungsberichte](2020-september.md#13)|29. September|

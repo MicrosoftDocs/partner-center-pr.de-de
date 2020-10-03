@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 129c89a443b3de828ea8c22b4de82597aa8af831
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.date: 10/02/2020
+ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714424"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663871"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Verwalten von Anreizen für Co-op-Ansprüche
 
@@ -65,11 +65,13 @@ Wenn die Materialien, die Sie mit Ihrem Co-Op-Anspruch eingereicht haben, sich a
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 
-2. Wählen Sie unter **Incentives** die Option **Co-Op-Ansprüche** aus.
+2. Wählen Sie unter " **Incentives**" die Option **Tarife Management**aus.
 
-3. Wählen Sie den Co-Op-Anspruch aus, dem Sie widersprechen möchten. Die Seite "Co-op-Anspruch" wird geöffnet.
+3. Wählen Sie **Co-op-Verwaltung**aus.
 
-4. Wählen Sie unten auf der Seite **Widersprechen** aus.
+4. Wählen Sie den Co-Op-Anspruch aus, dem Sie widersprechen möchten. Die Seite "Co-op-Anspruch" wird geöffnet.
+
+5. Wählen Sie unten auf der Seite **Widersprechen** aus.
 
 Das Team zur Prüfung von Co-Op-Ansprüchen wird den Anspruch binnen fünf Werktagen prüfen. Während dieser Zeit wird der Status als **Widersprochen** angezeigt. Möglicherweise kontaktieren wir Sie, um zusätzliche Informationen anzufordern. Nach Abschluss der Überprüfung ändert das Prüfteam den Status in entweder **Genehmigt**, **Abgelehnt** oder **Partneraktion erforderlich**.
 

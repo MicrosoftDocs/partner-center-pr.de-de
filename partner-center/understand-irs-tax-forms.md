@@ -5,13 +5,13 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 09/24/2020
-ms.openlocfilehash: 9178cd8f3f516ca6ffacd481fb2721787dc581e2
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.date: 09/30/2020
+ms.openlocfilehash: 487ad0b2ba42959748944721ebfcfc42fd4e506f
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91248908"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663911"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Kennenlernen der von Microsoft ausgestellten IRS-Steuerformulare
 
@@ -63,14 +63,15 @@ Die Steuerformulare werden von den folgenden Adressen an Sie gesendet:
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Für Entwickler außerhalb der USA
 
+
 | | |
 |---|---|
 | **Ich habe ein Formular 1042-S von Microsoft erhalten. Wozu dient es?** | Microsoft hat Ihnen mindestens ein Formular 1042-S bereitgestellt, da wir Ihnen Beträge bezahlt haben, die an die Steuerbehörde der USA gemeldet werden müssen und quellensteuerpflichtig sind.  Formular 1042-S wird für diese Meldeanforderung verwendet. | 
 | **Was muss ich mit den Formularen tun?** | Im Allgemeinen ist keine spezifische Aktion Ihrerseits erforderlich. Das Formular 1042-S kann hilfreich sein, wenn Sie bei Ihren Steuerbehörden eine beliebige Form eines Steuerkredits beantragen möchten.  Weitere Informationen zu diesem Thema finden Sie in ihren eigenen Steuerberatern. | 
-| **Warum wurde Steuer auf meine Zahlungen einbehalten, als ich ein Formular W8 ausgefüllt habe?** | Steuern werden in einem der folgenden Fälle einbehalten:<ol><li>Sie haben den Abschnitt zum Steuerabkommen des W8 nicht ordnungsgemäß ausgefüllt oder</li><li>Sie wohnen in einem Land, das über kein Steuerabkommen mit den USA verfügt.</li></ol><br/>Sie können das Partner Center jederzeit aufrufen, um ein aktualisiertes W8-Formular zu übermitteln.<br/><br/> **Hinweis:** Nicht alle Einkommen unterliegen der Steuer gegen übereinhaltung. | 
+| **Warum wurde Steuer auf meine Zahlungen einbehalten, als ich ein Formular W8 ausgefüllt habe?** | Steuern werden in einem der folgenden Fälle einbehalten:<br/><br/>1. Sie haben den Steuer Vertragsabschnitt von W8 nicht ordnungsgemäß vervollständigt, oder <br/>2. Sie sind in einem Land ansässig, das nicht über einen Steuer Vertrag mit dem USA verfügt.<br/><br/>Sie können das Partner Center jederzeit aufrufen, um ein aktualisiertes W8-Formular zu übermitteln.<br/><br/> **Hinweis:** Nicht alle Einkommen unterliegen der Steuer gegen übereinhaltung. | 
 | **Ich habe ein aktualisiertes W8-Formular mit gültigen Vertragsinformationen übermittelt. Kann Microsoft mir die zurück haltene Frage erstatten?** | Sobald die Steuer einbehalten wurde, kann diese nicht zurückerstattet werden. Wenden Sie sich an Ihre Steuerberater, um zu erörtern, ob Sie für diese Steuern eine lokale Gutschrift anfordern können oder ob Sie eine Rückerstattung von der IRS durchsuchen können. | 
 | **Welche Umsätze werden im Formular 1042-S angegeben?** | Nur Verkäufe an **Käufer in den USA, die der Quellensteuer unterliegen,** müssen angegeben werden.  Alle anderen Verkäufe müssen nicht angegeben werden. | 
-| **Warum erhalte ich drei Kopien derselben Form 1042-S in einem Umschlag?** | Die IRS-Bestimmungen erfordern die Bereitstellung von drei Kopien des Formulars:<ul><li>Eine für die Unterlagen des Empfängers</li><li>Eine zum Einreichen mit einer Bundessteuererklärung in den USA (sofern zutreffend)</li><li>Eine zum Einreichen mit einer Landessteuererklärung in den USA (sofern zutreffend)</li></ul> |
+| **Warum erhalte ich drei Kopien derselben Form 1042-S in einem Umschlag?** | Die IRS-Bestimmungen erfordern die Bereitstellung von drei Kopien des Formulars:<br/><br/>-1 für die Datensätze des Empfängers<br/>-Eine für die Einreichung mit einem USA Federal Tax return (falls zutreffend)<br/>-Eine für die Einreichung mit einer USA Zustands Steuer Rückgabe (falls zutreffend) |
 
 > [!NOTE]
 > Wenn Sie weitere Fragen oder Probleme im Zusammenhang mit **IRS-Steuerformularen**haben, besuchen Sie das Partner Center-Dashboard unter " [Hilfe und Support](https://partner.microsoft.com/dashboard/support/) ". Microsoft kann keine Fragen im Zusammenhang mit Ihren spezifischen Steuerumständen beantworten. Bei diesen Fragen wenden Sie sich an Ihre Steuerexperten.

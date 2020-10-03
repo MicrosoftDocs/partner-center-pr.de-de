@@ -1,17 +1,17 @@
 ---
-title: Mehrwertsteuer Informationen in der Partner Center-Registrierung mit Mehrwert
+title: Umsatzsteuerinfo in der Partner Center-Registrierung
 description: Wenn Sie während der Partner Center-Registrierung eine Umsatzsteuer-ID angeben müssen, helfen Ihnen diese Informationen beim Einstieg.
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 10/31/2018
-ms.openlocfilehash: 7e4f6778d14166dfe30a608d06dc75d953442c70
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026449"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663881"
 ---
 # <a name="vat-info"></a>Umsatzsteuerinfo
 
@@ -30,222 +30,36 @@ Eine Umsatzsteuernummer ist eine ID, die für Länder oder Regionen in der EU ve
 
 Beachten Sie, dass Microsoft keine Steuer Ratschläge bereitstellt, und die folgende Tabelle wird nur als Leitfaden bereitgestellt. Wenden Sie sich an die lokalen Steuerbehörden, um Änderungen an den aktuellen Änderungen vorzunehmen, wenn Ihnen diese Anleitung nicht genügt, damit Sie Microsoft eine Umsatzsteuernummer zur Verfügung stellen können.
 
-<table Responsive="true">
-<tr><th>Land/Region</th><th>Umsatzsteuerinfo</th></tr>
-<tr><td data-th="Country/region">Österreich
-</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 1 Buchstabe und 8 Ziffern</li>
-<li>Code für Land/Region: AT</li>
-<li>Beispiel: U12345678</li>
-<li>Hinweis: Erstes Zeichen lautet immer „U“.
-</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Belgien</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 10 Ziffern</li>
-<li>Code für Land/Region: BE</li>
-<li>Beispiel: 1234567890</li>
-<li>Hinweis: 9 Ziffern vor dem 1. Januar 2007.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Bulgarien</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 9 oder 10 Ziffern</li>
-<li>Code für Land/Region: BG</li>
-<li>Beispiel: 123456789 oder 0123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Kroatien</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 2 Buchstaben und 11 Ziffern</li>
-<li>Code für Land/Region: HR</li>
-<li>Beispiel: HR12345678901</li>
-<li>Hinweis: Die ersten Zeichen lauten immer „HR“.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Zypern</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 2 Buchstaben, 8 Ziffern und 1 Buchstabe</li>
-<li>Code für Land/Region: CY</li>
-<li>Beispiel: 12345678, 123456789 oder 0123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Tschechien</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 8, 9 oder 10 Ziffern</li>
-<li>Code für Land/Region: CZ</li>
-<li>Beispiel: 12345678, 123456789 oder 0123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Dänemark</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 8 Ziffern</li>
-<li>Code für Land/Region: DK</li>
-<li>Beispiel: 12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Estland</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 9 Ziffern</li>
-<li>Code für Land/Region: EE</li>
-<li>Beispiel: 123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Finnland</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: Ziffern</li>
-<li>Code für Land/Region: FI</li>
-<li>Beispiel: 12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Frankreich</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 11 Ziffern</li>
-<li>Code für Land/Region: FR</li>
-<li>Beispiel: 12345678901, X1234567890, 1X123456789 oder XX123456789</li>
-<li>Hinweis: kann beliebige Buchstaben mit Ausnahme von I und Q als erstes oder zweites Zeichen oder als erstes und zweites Zeichen gefolgt von 9 Ziffern enthalten.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Deutschland</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 9 Ziffern</li>
-<li>Code für Land/Region: DE</li>
-<li>Beispiel: 123456789</li>
-<li>Hinweis: muss die neunstellige „Umsatzsteuer-Identifikationsnummer“ (Ust-ID-Nr.) sein</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Griechenland</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 9 Ziffern</li>
-<li>Code für Land/Region: EL, GR</li>
-<li>Beispiel: 123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Ungarn</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 8 Ziffern</li>
-<li>Code für Land/Region: HU</li>
-<li>Beispiel: 12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Irland</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 8 Ziffern</li>
-<li>Code für Land/Region: IE</li>
-<li>Beispiel: 1234567X oder 1X34567X</li>
-<li>Hinweis: enthält 1 oder 2 Buchstaben: an der letzten Stelle oder an der zweiten und der letzten Stelle.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Italien</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 11 Ziffern</li>
-<li>Code für Land/Region: IT</li>
-<li>Beispiel: 12345678901</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Lettland</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 11 Ziffern</li>
-<li>Code für Land/Region: LV</li>
-<li>Beispiel: 01234567890</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Litauen</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 9 oder 12 Ziffern</li>
-<li>Code für Land/Region: LT</li>
-<li>Beispiel: 123456789 oder 012345678901</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Luxemburg</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 8 Ziffern</li>
-<li>Code für Land/Region: LU</li>
-<li>Beispiel: 12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Malta</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 2 Buchstaben und 8 Ziffern</li>
-<li>Code für Land/Region: MT</li>
-<li>Beispiel: MT12345678</li>
-<li>Hinweis: Die ersten Zeichen lauten immer „MT“.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Niederlande</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 11 Ziffern und 1 Buchstabe</li>
-<li>Code für Land/Region: NL</li>
-<li>Beispiel: 123456789B01</li>
-<li>Hinweis: zehntes Zeichen ist immer „B“.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Polen</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 10 Ziffern</li>
-<li>Code für Land/Region: PL</li>
-<li>Beispiel: 1234567890</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Portugal</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 9 Ziffern</li>
-<li>Code für Land/Region: PT</li>
-<li>Beispiel: 123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Rumänien</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 2 Buchstaben und 8-10 Ziffern</li>
-<li>Code für Land/Region: RO</li>
-<li>Beispiel: RO12345678, RO123456789 oder RO1234567890</li>
-<li>Hinweis: Die ersten Zeichen lauten immer „RO“.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Slowakei</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 10 Ziffern</li>
-<li>Code für Land/Region: SK</li>
-<li>Beispiel: 1234567890</li>
-<li>Hinweis: Die ersten Zeichen lauten immer „SI“.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Slowenien</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 2 Buchstaben und 8 Ziffern</li>
-<li>Code für Land/Region: SI</li>
-<li>Beispiel: SI12345678</li>
-<li>Hinweis: Die ersten Zeichen lauten immer „SI“.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Spanien</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 9 Ziffern</li>
-<li>Code für Land/Region: ES</li>
-<li>Beispiel: X12345678, 12345678X oder X1234567X</li>
-<li>Hinweis: enthält 1 oder 2 Buchstaben: an der ersten, an der letzten oder an der ersten und der letzten Stelle.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">Schweden</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 12 Ziffern</li>
-<li>Code für Land/Region: SE</li>
-<li>Beispiel: 123456789001</li>
-<li>Hinweis: Die letzten beiden Zeichen müssen „01“ sein.</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">United Kingdom</td><td data-th="VAT info">
-<ul>
-<li>Umsatzsteuernummernformat: 9 oder 12 Ziffern</li>
-<li>Code für Land/Region: GB</li>
-<li>Beispiel: 123456789 oder 123456789001</li>
-<li>Hinweis: normalerweise 9 Ziffern, aber 12 Ziffern, wenn die Nummer ein untergeordnetes Unternehmen innerhalb einer Gruppe darstellt.</li>
-</ul>
-</td></tr>
-</table>
-
+|Land/Region | Umsatzsteuerinfo |
+|:------------|:----------|
+|Österreich  |-Umsatzsteuer Nummern Format: 1 Buchstabe und 8 Ziffern<br/>-Land-/Regionscode: at<br/>-Beispiel: U12345678<br/>-Notes: das erste Zeichen ist immer "U". |
+|Belgien  |-Umsatzsteuer Nummern Format: 10 Ziffern<br/>-Land-/Regionscode:<br/>-Beispiel: 1234567890<br/>-Notes: 9 Ziffern vor dem 1. Januar 2007. |
+| Bulgarien  |-Umsatzsteuer Nummern Format: 9 oder 10 Ziffern<br/>-Länder-/Regionscode: BG<br/>-Beispiel: 123456789 oder 0123456789 |
+| Kroatien |-WST-Zahlen Format: 2 Buchstaben und 11 Ziffern<br/>-Land-/Regionscode: HR<br/>-Beispiel: HR12345678901<br/>-Hinweise: die ersten Zeichen sind immer "HR". |
+|Zypern |-WST-Zahlen Format: 2 Buchstaben und 8 Ziffern und 1 Buchstabe<br/>-Land-/Regionscode: CY<br/>-Beispiel: 12345678, 123456789 oder 0123456789 |
+|Tschechien |-Umsatzsteuer Nummern Format: 8, 9 oder 10 Ziffern<br/>-Land-/Regionscode: cz<br/>-Beispiel: 12345678, 123456789 oder 0123456789 |
+| Dänemark |-Umsatzsteuer Nummern Format: 8 Ziffern<br/>-Land-/Regionscode: DK<br/>-Beispiel: 12345678<br/> |
+|Estland |-WST-Zahlen Format: 9 Ziffern<br/>-Land-/Regionscode: EE<br/>-Beispiel: 123456789<br/> |
+|Finnland |-Umsatzsteuer Nummern Format: Ziffern<br/>-Land-/Regionscode: fi<br/>-Beispiel: 12345678 |
+|Frankreich |-Umsatzsteuer Nummern Format: 11 Ziffern<br/>-Land-/Regionscode: Fr<br/>-Beispiel: 12345678901, X1234567890, 1x123456789 oder XX123456789<br/>-Notes: kann beliebige alphabetische Zeichen, ausgenommen I oder Q, als erstes oder zweites Zeichen oder als erstes und zweites Zeichen gefolgt von 9 Ziffern enthalten. |
+|Deutschland |-WST-Zahlen Format: 9 Ziffern<br/>-Land-/Regionscode: de<br/>-Beispiel: 123456789<br/>-Hinweise: muss die neunstellige Ziffer "Umschlag-ID-ID" (USt-ID Nr.) sein. |
+|Griechenland |-WST-Zahlen Format: 9 Ziffern<br/>-Land-/Regionscode: El, Gr<br/>-Beispiel: 123456789 |
+|Ungarn |-Umsatzsteuer Nummern Format: 8 Ziffern<br/>-Länder-/Regionscode: HU<br/>-Beispiel: 12345678 |
+|Irland |-Umsatzsteuer Nummern Format: 8 Ziffern<br/>-Land-/Regionscode: IE<br/>-Beispiel: 1234567x oder 1x34567x<br/>-Notes: enthält 1 oder 2 alphabetische Zeichen: entweder "Last", "Second" und "Last". |
+|Italien |-Umsatzsteuer Nummern Format: 11 Ziffern<br/>-Land-/Regionscode: IT<br/>-Beispiel: 12345678901 |
+|Lettland |-Umsatzsteuer Nummern Format: 11 Ziffern<br/>-Länder-/Regionscode: LV<br/>-Beispiel: 01234567890 |
+|Litauen |-WST-Zahlen Format: 9 oder 12 Ziffern<br/>-Land-/Regionscode: lt<br/>-Beispiel: 123456789 oder 012345678901 |
+|Luxemburg |-Umsatzsteuer Nummern Format: 8 Ziffern<br/>-Land-/Regionscode: lu<br/>-Beispiel: 12345678 |
+|Malta |-WST-Zahlen Format: 2 Buchstaben und 8 Ziffern<br/>-Land-/Regionscode: MT</br>-Beispiel: MT12345678<br/>-Hinweise: die ersten Zeichen sind immer "MT". |
+|Niederlande |-WST-Zahlen Format: 11 Ziffern und 1 Buchstabe<br/>-Länder-/Regionscode: nl<br/>-Beispiel: 123456789b01<br/>-Hinweise: das zehnte Zeichen ist immer "B". |
+|Polen |-Umsatzsteuer Nummern Format: 10 Ziffern<br/>-Land-/Regionscode: pl<br/>-Beispiel: 1234567890 |
+|Portugal |-WST-Zahlen Format: 9 Ziffern<br/>-Land-/Regionscode: PT<br/>-Beispiel: 123456789 |
+|Rumänien |-WST-Zahlen Format: 2 Buchstaben und 8-10 Ziffern<br/>-Land-/Regionscode: ro<br/>-Beispiel: RO12345678, RO123456789 oder RO1234567890<br/>-Hinweise: die ersten Zeichen sind immer "ro". |
+|Slowakei |-Umsatzsteuer Nummern Format: 10 Ziffern<br/>-Land-/Regionscode: SK<br/>-Beispiel: 1234567890<br/>-Hinweise: die ersten Zeichen sind immer "Si". |
+|Slowenien |-WST-Zahlen Format: 2 Buchstaben und 8 Ziffern<br/>-Land-/Regionscode: Si<br/>-Beispiel: SI12345678<br/>-Hinweise: die ersten Zeichen sind immer "Si". |
+|Spanien |-WST-Zahlen Format: 9 Ziffern<br/>-Land-/Regionscode: es<br/>-Beispiel: X12345678, 12345678x oder X1234567X<br/>-Notes: enthält 1 oder 2 Buchstaben: entweder First, Last oder First und Last. |
+|Schweden |-Umsatzsteuer Nummern Format: 12 Ziffern<br/>-Land-/Regionscode: SE<br/>-Beispiel: 123456789001<br/>-Hinweise: die letzten 2 Zeichen müssen "01" sein. |
+|United Kingdom |-WST-Zahlen Format: 9 oder 12 Ziffern<br/>-Land-/Regionscode: GB<br/>-Beispiel: 123456789 oder 123456789001<br/>-Notes: 9 Ziffern im Allgemeinen, aber 12 Ziffern, wenn die Zahl ein Unternehmen innerhalb einer Gruppe darstellt. |
 ## <a name="next-steps"></a>Nächste Schritte
 
 - [Unternehmens Steuerungsinformationen und Vorgehensweise beim Hinzufügen oder Einreichen von Umsatzsteuer-IDs für Partner Center-Käufe](organization-tax-info.md)

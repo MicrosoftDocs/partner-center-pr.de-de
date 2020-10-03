@@ -1,19 +1,19 @@
 ---
 title: Der Co-Selling-Connector für das Salesforce CRM Partner Center
 ms.topic: how-to
-ms.date: 05/17/2020
+ms.date: 09/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synchronisieren Ihrer Verweise in Partner Center mit Ihrem Salesforce CRM
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b96be195788ccc8b82aafd0bddb90dd34a672f9
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 4bc404ca8c0647b1bcece767da75fa07ddc6b51f
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422446"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663861"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Co-Selling-Connector für Salesforce CRM – Übersicht
 
@@ -34,7 +34,7 @@ Die Lösung basiert auf der Microsoft Power automatisieren-Lösung und verwendet
 |Co-Sell Ready|Ihre IP-/Dienst-Lösung muss für den Co-Selling bereit sein.|[Vertrieb mit Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Partner Center-Konto|Die MPN-ID, die dem Partner Center-Mandanten zugeordnet ist, muss mit der MPN-ID identisch sein, die ihrer Co-Selling-Lösung zugeordnet ist. Vergewissern Sie sich, dass Sie Ihre Co-Selling-Verweise im Partner Center-Portal sehen können, bevor Sie die Connectors bereitstellen.|[Verwalten Ihres Kontos](create-user-accounts-and-set-permissions.md)|
 |Partner Center-Benutzerrollen|Der Mitarbeiter, der die Connectors installieren und verwenden soll, muss ein Administrator sein.|[Zuweisen von Rollen und Berechtigungen zu Benutzern](create-user-accounts-and-set-permissions.md)|
-|Salesforce-CRM|Die CRM-Benutzerrolle ist Systemadministrator oder SystemCustomizer.|[Zuweisen von Rollen in Salesforce CRM](/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
+|Salesforce-CRM|Die CRM-Benutzerrolle ist Systemadministrator oder SystemCustomizer.|[Zuweisen von Rollen in Salesforce CRM](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
 |Energie automatisierter Fluss Konto|Ein aktives, [Energie automatisierbares](https://flow.microsoft.com) Konto für den CRM-Systemadministrator oder den SystemCustomizer. Dieser Benutzer sollte sich mindestens einmal vor der Installation bei der [Strom Automatisierung](https://flow.microsoft.com) anmelden.|
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Installation des Salesforce-Pakets für benutzerdefinierte Microsoft-Felder 
@@ -84,13 +84,13 @@ Stellen Sie sicher, dass Sie die Lösung in einer-Staging-Instanz von CRM testen
 
 5. Suchen Sie im Popup-Bildschirm nach **Partner Center-verweisverweisconnectors für Salesforce** .  
 
-   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Appsource öffnen":::
 
 6. Klicken Sie auf die Schaltfläche **jetzt starten** und dann auf **weiter**.
 
 7. Daraufhin wird die Seite geöffnet, auf der Sie die Salesforce CRM-Umgebung zum Installieren der Anwendung auswählen können.  Stimmen Sie den Geschäftsbedingungen zu.
 
-   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Verfügbare CRMs":::
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Appsource öffnen":::
 
 8. Anschließend werden Sie zur Seite **Verwalten Ihrer Lösungen** weitergeleitet.  Navigieren Sie zu "Partner Center-Verweise", indem Sie die Pfeil Schaltflächen unten auf der Seite verwenden. Die **geplante Installation** sollte neben der Projekt Mappe für Partner Center-Verweise angezeigt werden. Die Installation wird 10-15 Minuten dauern.
 
@@ -98,7 +98,7 @@ Stellen Sie sicher, dass Sie die Lösung in einer-Staging-Instanz von CRM testen
 
 10. Wählen Sie die **Synchronisierung der Partner Center-Verweise für Salesforce aus**. Die folgenden Strom automatisierten Flows und Entitäten sind verfügbar:
 
-    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Salesforce-Flows":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Appsource öffnen":::
 
 
 
@@ -115,11 +115,7 @@ Stellen Sie sicher, dass Sie die Lösung in einer-Staging-Instanz von CRM testen
 
 5. Erstellen Sie eine Verbindung, indem Sie auf **Verbindung erstellen**klicken.
 
-:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Erstellen der Verbindung":::
-
-- Suchen Sie in der Suchleiste in der oberen rechten Ecke nach Partner Center-Referenzen (Vorschau).
-
-- Erstellen Sie eine Verbindung für Ihren Partner Center-Benutzer mit der Rolle "Anmelde Informationen" des Administrators "Administrator".
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Appsource öffnen" des Administrators "Administrator".
 
 -  Erstellen Sie als nächstes eine Partner Center-Ereignis Verbindung für Ihren Partner Center-Benutzer mit den Anmelde Informationen für den Administrator.
 
@@ -127,17 +123,17 @@ Stellen Sie sicher, dass Sie die Lösung in einer-Staging-Instanz von CRM testen
 
 -  Nachdem Sie alle Verbindungen hinzugefügt haben, sollten in Ihrer Umgebung die folgenden Verbindungen angezeigt werden:
 
- :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Verbindungen beobachten":::
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Appsource öffnen":::
 
 ### <a name="edit-the-connections"></a>Verbindungen bearbeiten
 
 1. Kehren Sie zur Seite Lösungen zurück, und wählen Sie **Standard**Projekt Mappe aus.  Wählen Sie **Verbindungs Verweis (Vorschau)** aus, indem Sie auf **alle**klicken.
  
-:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Connector-Bearbeitung starten":::
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Appsource öffnen":::
 
 2. Bearbeiten Sie jede der Verbindungen nacheinander, indem Sie das Symbol drei Punkte auswählen. Fügen Sie die relevanten Verbindungen hinzu.
 
-:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Connectors bearbeiten":::
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Appsource öffnen":::
 
 3. Aktivieren Sie die Flows in der folgenden Reihenfolge:
 
@@ -157,11 +153,11 @@ Die Partner Center-webhook-APIs ermöglichen es Ihnen, sich für Ressourcen Änd
 
 2. Fügen Sie Verbindungen für den (a.) Partner Center-Benutzer mit referengenalen Administrator Anmelde Informationen (b.) Partner Center-Veranstaltungen hinzu, wie unten gezeigt.
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Trigger":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Appsource öffnen":::
 
 3. Wenn Sie diese Updates vornehmen, wird Folgendes angezeigt:
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhooks":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Appsource öffnen":::
 
 4. Speichern Sie die Änderungen, und wählen Sie **einschalten aus**.
 
@@ -173,17 +169,7 @@ Die Partner Center-webhook-APIs ermöglichen es Ihnen, sich für Ressourcen Änd
 
 7. Wählen Sie das **Kopier** Symbol aus, um die bereitgestellte HTTP Post-URL zu kopieren.
 
-   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Kopieren der URL":::
-
-8. Wählen Sie jetzt die Option "Partner Center-webhook-Registrierung (Insider Vorschau)", und wählen Sie **Ausführen**aus.
-
-9. Stellen Sie sicher, dass im rechten Bereich das Fenster "Flow ausführen" geöffnet wird, und klicken Sie auf **weiter**.
-
-10. Geben Sie die folgenden Details ein:
-
-    1. **Http-auslöserendpunkt**: aus dem vorherigen Schritt kopierte URL
-
-    2. **Zu Registrier folgende Ereignisse**: "Verweis-erstellt" und "Verweis-aktualisiert"
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="Appsource öffnen"
 
     3. **Vorhandene auslöserendpunkte überschreiben, falls vorhanden**: Ja (Dadurch werden alle vorhandenen Endpunkte überschrieben.)
 
@@ -270,33 +256,13 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
    2. Stellen Sie sicher, dass der folgende Abschnitt vorhanden ist, wenn Sie eine "neue Verkaufschance" in der Salesforce CRM-Umgebung erstellen.
 
-      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Salesforce-Umgebung":::
-
-   3. Wenn Sie diese Gelegenheit mit dem Microsoft Partner Center synchronisieren möchten, stellen Sie sicher, dass Sie die folgenden Felder in der Kartenansicht festlegen:
-
-       - "Mit Partner Center synchronisieren": Ja
-       - "Wie kann Microsoft Help?": Wählen Sie eine der folgenden Optionen aus:
-       - Produkte: Lösungs-IDs des Produkts
-
-   4. Nachdem Sie die Option für die Verkaufschancen  **Synchronisierung mit Partner Center** auf **Ja**festgelegt haben, können Sie sich bei Ihrem Partner Center-Konto anmelden. Ihre Verweise werden mit Salesforce CRM synchronisiert.
-
-   5. Wenn die Option "Sync with Partner Center" auf "yes" festgelegt ist, werden die Änderungen, wenn Sie die Verkaufschance in Salesforce CRM aktualisieren, mit Ihrem Partner Center-Konto synchronisiert.
-
-   6. Verkaufschancen, die mit Partner Center erfolgreich synchronisiert werden, werden mit ✔ Symbol in Salesforce CRM identifiziert.
-
-2. Verweis Synchronisierung, wenn der Verweis im Microsoft Partner Center erstellt oder aktualisiert und in der Salesforce CRM-Umgebung synchronisiert wird:
-
-    1. Melden Sie sich bei Ihrem Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/home)an.
-
-    2. Wählen Sie im Menü auf der linken Seite die Option **Verweise** aus.
-
-    3. Erstellen Sie einen neuen Co-Selling-Verweis aus Partner Center, indem Sie auf die Option "neu erstellen" klicken.
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Appsource öffnen" klicken.
 
     4. Melden Sie sich bei ihrer Salesforce CRM-Umgebung an.
 
     5. Navigieren Sie zu **Open Verkaufschancen**. Der im Microsoft Partner Center erstellte Verweis ist nun in Salesforce CRM synchronisiert.
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Salesforce-Verkaufschancen Bildschirm":::
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Appsource öffnen":::
 
     6. Wenn Sie einen synchronisierten Verweis auswählen, werden die Details der Kartenansicht aufgefüllt.
 

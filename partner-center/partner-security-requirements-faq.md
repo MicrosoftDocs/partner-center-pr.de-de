@@ -9,22 +9,26 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5695a5478f1fdb9d16c395bb3ea87240fc2cf6f3
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
+ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999804"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "91406363"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Häufig gestellte Fragen zu den Sicherheitsanforderungen für Partner
+
+**Zielgruppe**
+
+- Partner Center
 
 **Geeignete Benutzer**
 
 - Alle aktivierten Benutzer einschließlich Gastbenutzer
 
-Dieser Artikel enthält einige häufig gestellte Fragen zu den [Sicherheitsanforderungen für Partner](partner-security-requirements.md) sowie die entsprechenden Antworten.
-
 ## <a name="partner-security-requirements"></a>Sicherheitsanforderungen für Partner
+
+Dieser Artikel enthält einige häufig gestellte Fragen zu den [Sicherheitsanforderungen für Partner](partner-security-requirements.md) sowie die entsprechenden Antworten.
 
 ### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>Was sind die Sicherheitsanforderungen für Partner, und warum sollten Partner sie implementieren?
 
@@ -32,7 +36,7 @@ Stärkere und laufende Sicherheits- und Datenschutzmaßnahmen gehören zu unsere
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Welches sind die wichtigsten Zeitpläne und Meilensteine?
 
-Die mit den Sicherheitsanforderungen verbundenen Bestimmungen wurden der Microsoft Partner-Vereinbarung in 2019 hinzugefügt. Sie müssen diese Sicherheitsanforderungen baldmöglichst implementieren, um die Voraussetzungen für Ihre Teilnahme am CSP-Programm zu erfüllen.
+Die mit den Sicherheitsanforderungen verbundenen Bestimmungen, einschließlich Zeitplänen und Meilensteinen, wurden der [Microsoft Partner-Vereinbarung](microsoft-partner-agreement.md) im Jahr 2019 hinzugefügt. Sie müssen diese Sicherheitsanforderungen baldmöglichst implementieren, um die Voraussetzungen für Ihre Teilnahme am CSP-Programm zu erfüllen.
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>Was geschieht, wenn ich diese Sicherheitsanforderungen für Partner nicht implementiere?
 
@@ -50,7 +54,7 @@ Nein, kein Benutzerkonto kann davon ausgenommen werden, ein MFA-Verfahren durchz
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Woher weiß ich, ob ich die Sicherheitsanforderungen für Partner erfüllt habe?
 
-Führen Sie die folgenden Schritte aus.
+Sie müssen die folgenden Schritte ausführen:
 
 - Sie müssen alle Anforderungen erfüllen, die in den [Sicherheitsanforderungen für Partner](partner-security-requirements.md) beschrieben werden.
 - Sie müssen sicherstellen, dass für alle Benutzerkonten in Ihrem Partnermandanten die mehrstufige Authentifizierung erzwungen wird.
@@ -99,7 +103,7 @@ Die MFA ist ein Sicherheitsmechanismus, mit dem Einzelpersonen über mehr als ei
 
 - Etwas, das Sie wissen (in der Regel ein Kennwort)
 - Etwas, das Sie besitzen (ein vertrauenswürdiges Gerät, das sich nicht leicht duplizieren lässt, z. B. ein Telefon)
-- Etwas, das Sie sind (Biometrie)
+- Etwas, das Sie sind (biometrisch)
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>Was kostet die Aktivierung der MFA?
 
@@ -114,7 +118,7 @@ Aufgrund dieser Sicherheitsanforderungen müssen Benutzer in einem Partnermandan
 
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>Ich führe Transaktionen mit mehreren Partnermandanten aus. Muss ich die MFA für alle Mandanten implementieren?
 
-Ja, Sie müssen die MFA für jeden Azure Active Directory-Mandanten erzwingen, der dem CSP-Programm oder dem Beraterprogramm zugeordnet ist. Wenn Sie eine Lizenz für Azure Active Directory Premium erwerben möchten, müssen Sie auch für den Benutzer in jedem Azure Active Directory-Mandanten eine Lizenz erwerben.
+Ja, Sie müssen die MFA für jeden Azure Active Directory-Mandanten erzwingen, der dem CSP-Programm oder dem Beraterprogramm zugeordnet ist. Zum Erwerb einer Azure Active Directory Premium-Lizenz müssen Sie eine Azure Active Directory-Lizenz für die Benutzer in jedem Azure Active Directory-Mandanten erwerben. 
 
 ### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>Muss MFA für jedes Benutzerkonto in meinem Partnermandanten erzwungen werden?
 
@@ -225,7 +229,7 @@ Es wird empfohlen, ein Dienstkonto zu verwenden, dem die geringstmöglichen Bere
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>Warum sollte der Anwendungsadministrator beim Durchführen des Zustimmungsprozesses keine Anmeldeinformationen eines globalen Administrators bereitstellen?
 
-Um das Risiko so gering wie möglich zu halten, empfiehlt sich die Verwendung eines Kontos mit möglichst wenigen Berechtigungen. Es wird davon abgeraten, ein Konto mit globalen Administratorrechten zu verwenden, weil dadurch mehr Berechtigungen bereitgestellt würden, als für diesen Vorgang erforderlich sind.
+Die Verwendung eine Identität mit geringstmöglichen Berechtigungen wird empfohlen.  Dadurch wird das Risiko reduziert. Es wird davon abgeraten, ein Konto mit globalen Administratorrechten zu verwenden, weil dadurch mehr Berechtigungen bereitgestellt würden, als für diesen Vorgang erforderlich sind.
 
 ### <a name="i-am-a-csp-partner-how-do-i-know-if-my-control-panel-vendor-cpv-is-working-on-implementing-the-solution-or-not"></a>Ich bin CSP-Partner. Woher weiß ich, ob mein Control Panel-Anbieter an der Implementierung der Lösung arbeitet oder nicht?
 
@@ -296,7 +300,7 @@ Wenn Sie nicht genau wissen, ob Ihre Drittanbieterlösung den erwarteten Anspruc
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA blockiert meinen Support meines Kunden über AOBO. Wie kann ich vorgehen?
 
-Bei der technischen Durchsetzung der Sicherheitsanforderungen für Partner wird überprüft, ob das authentifizierte Konto eine Herausforderung für mehrstufige Authentifizierung erhalten hat. Wenn dies nicht geschehen ist, werden Sie auf die Anmeldeseite umgeleitet und zur erneuten Authentifizierung aufgefordert. Ausführlichere Informationen und Anleitungen finden Sie in dieser Dokumentation zu [Festlegen von Multi-Factor Authentication (MFA) für Ihren Partnermandanten](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). In dem Fall, in dem Ihre Domäne keine Verbunddomäne ist, werden Sie nach erfolgreicher Authentifizierung aufgefordert, die mehrstufige Authentifizierung einzurichten. Nach Abschluss dieses Vorgangs können Sie Ihre Kunden mithilfe von AOBO verwalten. In dem Fall, in dem Ihre Domäne eine Verbunddomäne ist, müssen Sie sicherstellen, dass das Konto zur mehrstufigen Authentifizierung aufgefordert wird.
+Die technische Erzwingung der Sicherheitsanforderungen für Partner wird überprüft, wenn das authentifizierte Konto zur mehrstufigen Authentifizierung aufgefordert wurde. Wenn dies nicht geschehen ist, werden Sie auf die Anmeldeseite umgeleitet und zur erneuten Authentifizierung aufgefordert. Weitere Informationen und Anleitungen finden Sie in dieser Dokumentation zum [Festlegen von Multi-Factor Authentication (MFA) für Ihren Partnermandanten](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). In dem Fall, in dem Ihre Domäne keine Verbunddomäne ist, werden Sie nach erfolgreicher Authentifizierung aufgefordert, die mehrstufige Authentifizierung einzurichten. Nach Abschluss dieses Vorgangs können Sie Ihre Kunden mithilfe von AOBO verwalten. In dem Fall, in dem Ihre Domäne eine Verbunddomäne ist, müssen Sie sicherstellen, dass das Konto zur mehrstufigen Authentifizierung aufgefordert wird.
 
 ## <a name="security-defaults-transition"></a>Umstellung von Sicherheitsstandards
 
@@ -341,9 +345,11 @@ Unterstützende Ressourcen für die Erfüllung der Sicherheitsanforderungen find
 
 Optionen für den technischen Produktsupport für Azure Active Directory sind über MPN-Vorteile verfügbar. Partner mit Zugriff auf ein aktives ASfP- oder PSfP-Abonnement können sich an den entsprechenden Account Manager (SAM bzw. TAM) wenden, um die verfügbaren Optionen zu verstehen.
 
-### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>Wie kann ich mich an den Support wenden, wenn ich den Zugriff auf Partner Center verloren habe?
+### <a name="how-do-i-contact-support-if-ive-lost-access-to-partner-center"></a>Wie kann ich mich an den Support wenden, wenn ich den Zugriff auf Partner Center verloren habe?
 
-Navigiere zu [Microsoft Partner-Support](https://partner.microsoft.com/support), und wähle dann **Alle Supportoptionen anzeigen** aus. Ihnen werden die verfügbaren Optionen für die Kontaktaufnahme mit dem Microsoft Partner-Support angezeigt, einschließlich einer Telefonnummer, um den Support anzurufen, und einer Option, um mit dem Support zu chatten.
+Wenn Sie den Zugriff aufgrund eines MFA-Problems verlieren, wenden Sie sich an den globalen Administrator für Ihren Mandanten. Ihre interne IT-Abteilung kann Ihnen mitteilen, wer Ihr globaler Administrator ist. 
+
+Wenn Sie Ihr Kennwort vergessen haben, finden Sie Hilfe unter [Anmelden nicht möglich](unable-to-sign-in.md).
 
 ### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>Wo finde ich Informationen zu häufigen technischen Problemen?
 

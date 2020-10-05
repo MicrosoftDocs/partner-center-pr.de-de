@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 8af2a7127dd146a931ce127435413297559952b4
-ms.sourcegitcommit: 70eb4508cb0c799506e463c47cee5d98ef2f1fe7
+ms.openlocfilehash: 2055658d57d077c22e46c36241e4aa46db36af5a
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "91625143"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663811"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -23,10 +23,10 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 | **Kategorie** | **Ankündigungen für Oktober 2020** | **Angekündigt** |
 |---------|:---------|:---------|
 |Angebote/Märkte|[Erweiterte Sicherheitsupdates (ESU) für Windows 7 (2. Jahr) jetzt für CSP-Partner (Cloud Solution Provider) verfügbar](2020-october.md#3)|1\. Oktober|
-|Angebote/Märkte|[Office 365-Anrufplan jetzt in neuen Märkten verfügbar](2020-october.md#2)|1\. Oktober|
+|Angebote/Märkte|[Neue SKUs bringen die Leistungsfähigkeit von Project Cortex und mehr an Kunden](2020-october.md#2)|1\. Oktober|
 |Funktionen|[Ankündigung des Cloud Solution Provider (CSP)-Incentive-Programms für das Geschäftsjahr 2021 (FY21)](2020-october.md#1)|1\. Oktober|
 | **Kategorie** | **Ankündigungen für September 2020** | **Datum** |
-|Funktionen|[Hinweis zu Softwarelizenzschlüsseln und Softwaredownload im Partner Center](2020-september.md#17)|30. September|
+|Funktionen|[Hinweise zu Lizenzschlüssel und Download der Partner Center-Software](2020-september.md#17)|30. September|
 |Funktionen|[Weiterentwicklung des Cloud Solution Provider (CSP)- und Änderungen des Open License-Programms: Weg zu einer besseren Partner- und Benutzerfreundlichkeit](2020-september.md#16)|30. September|
 |Funktionen|[Jetzt verfügbar: Neues Tool für den Abonnementübergang zwischen Partnern im Azure-Plan](2020-september.md#15)|28. September|
 |Funktionen|[Updatetests: Partner Center-API-Updates und Verbesserungen der Benutzeroberfläche für den Überprüfungsprozess für Kunden im Bildungswesen](2020-september.md#14)|28. September|

@@ -1,7 +1,7 @@
 ---
 title: Sicherheitsanforderungen für Partner
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 10/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Beschreibt die Anforderungen für Partner, die für die mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) und das Framework für das sichere Anwendungsmodell erforderlich sind.
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 507c1e579c649ed743af58e2ca167ae016f6e9b6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000024"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763343"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Sicherheitsanforderungen für Partner, die das Partner Center oder Partner Center-APIs verwenden
 
@@ -100,7 +100,7 @@ Wenn du die mehrstufige Authentifizierung erzwingst, werden Nutzungsprotokolle f
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>Verfügen Sie über Benutzer, die Office 365 über Lizenzen nutzen, die Ihrem Partnermandanten zugeordnet sind?
 
-Vor der Implementierung einer beliebigen Lösung wird empfohlen, die Microsoft Office-Version zu ermitteln, die von Benutzern in deinem Partnermandanten verwendet wird. Überprüfen Sie den [Plan für die mehrstufige Authentifizierung für Office 365-Bereitstellungen](/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa), bevor Sie Maßnahmen ergreifen. Es besteht die Möglichkeit, dass für Ihre Benutzer Verbindungsprobleme bei Anwendungen wie Outlook auftreten. Bevor Sie mehrstufige Authentifizierung erzwingen, sollten Sie sicherstellen, dass Outlook 2013 SP1 oder höher verwendet wird und Ihr Unternehmen über eine moderne Authentifizierung verfügt. Weitere Informationen finden Sie unter [Aktivieren der modernen Authentifizierung in Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
+Vor der Implementierung einer beliebigen Lösung wird empfohlen, die Microsoft Office-Version zu ermitteln, die von Benutzern in deinem Partnermandanten verwendet wird. Es besteht die Möglichkeit, dass für Ihre Benutzer Verbindungsprobleme bei Anwendungen wie Outlook auftreten. Bevor Sie mehrstufige Authentifizierung erzwingen, sollten Sie sicherstellen, dass Outlook 2013 SP1 oder höher verwendet wird und Ihr Unternehmen über eine moderne Authentifizierung verfügt. Weitere Informationen finden Sie unter [Aktivieren der modernen Authentifizierung in Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
 
 Sie müssen zwei Registrierungsschlüssel erstellen, um eine moderne Authentifizierung für alle Geräte unter Windows zu ermöglichen, auf denen Microsoft Office 2013 installiert ist. Weitere Informationen finden Sie unter [Aktivieren der modernen Authentifizierung für Office 2013 auf Windows-Geräten](/office365/admin/security-and-compliance/enable-modern-authentication).
 

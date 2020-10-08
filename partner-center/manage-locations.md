@@ -1,42 +1,60 @@
 ---
 title: Verwalten von Standorten im Partnerkonto
 ms.topic: article
-ms.date: 06/16/2020
+ms.date: 10/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Erfahren Sie im Partner Center, wie Sie einen neuen Standort hinzufügen und wie die Standort-MPN-ID in Incentive-Programmen, CSP-Geschäftsaktionen, Abonnements und anderen Transaktionen verwendet wird.
+ms.subservice: partnercenter-mpn
+description: Erfahren Sie, wie Sie einen neuen Standort hinzufügen und wie die Standort-MPN-ID in Incentive-Programmen, CSP-Geschäftsaktionen, Abonnements und anderen Transaktionen verwendet wird.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f13676c8a4343feb5a099053b32b7444bbdfba45
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c9bc3ffc09b657ab6e3e7e2dcda576898c96803d
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436869"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663895"
 ---
-# <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>Verwalten von Partnerkonto-Standorten im Partner Center und Hinzufügen eines neuen Standorts
+# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Verwalten von MPN-Kontostandorten und Hinzufügen eines neuen Standorts
+
+**Zielgruppe**
+
+- Partner Center
 
 **Geeignete Rollen**
-- Globaler Administrator
-- Benutzeradministrator
-- Abrechnungsadministrator
-- Administrator-Agent
-- Vertriebsbeauftragter
 
-Die Standort-MPN-IDs identifizieren die spezifischen Standorte Ihres Unternehmens. Die Standort-MPN-ID wird für die Registrierung bei Incentive-Programmen, für die Abwicklung von Transaktionen als Cloud Solution Provider (CSP), beim Hinzufügen neuer Abonnements sowie für andere geschäftliche Transaktionen verwendet. Die Unternehmens-MPN-ID wird für transaktionsfremde Aktivitäten verwendet (etwa für Supportanfragen).
+- Globaler Administrator
+- Kontoadministrator
+
+Die Standort-MPN-ID identifiziert jeden spezifischen Standort Ihres Unternehmens und wird für die Registrierung bei Incentive-Programmen, für die Abwicklung von Transaktionen als Cloud Solution Provider (CSP) und andere geschäftliche Transaktionen verwendet. Die globale MPN-ID wird für transaktionsfremde Aktivitäten verwendet (etwa für Supportanfragen).
 
 ## <a name="the-following-is-a-typical-scenario"></a>Ein typisches Szenario:
 
-Ein Partnerunternehmen kann über ein CSP-Geschäft und über ein Veröffentlichungsgeschäft verfügen. Das CSP-Geschäft und das Veröffentlichungsgeschäft können sich jeweils an mehreren unterschiedlichen Orten befinden. Das registrierte Unternehmen verfügt über eine einzelne MPN-ID, die für die Verwaltung aller transaktionsfremden Angelegenheiten verwendet wird (also etwa zum Hinzufügen von Benutzern oder zum Erstellen von Supportanfragen).
+Contoso hat seinen globalen Partnerkontostandort (Partner Global Account, PGA) im Vereinigten Königreich. Dies ist das registrierte Unternehmen, das über eine einzelne MPN-ID verfügt, die für die Verwaltung aller transaktionsfremden Angelegenheiten verwendet wird. Contoso verfügt außerdem über Partnerstandortkonten (Partner Location Account, PLA), die den Niederlassungen oder Abteilungen an anderen Standorten im Vereinigten Königreich, Frankreich und den USA entsprechen. In der MPN-Kontostruktur werden diese PLAs als eindeutige Standort-MPN-IDs dargestellt. Die PLAs werden für transaktionsbezogene Angelegenheiten (beispielsweise CSP- oder Incentive-Programme) verwendet. Auszahlungen sind an spezifische Standorte gebunden. 
 
+>[!NOTE]
+>Zwischen einem CSP-Mandanten und einer MPN-Standort-ID besteht eine 1:1-Beziehung.
 
-Jeder Standort des Unternehmens verfügt über eine MPN-ID, die für transaktionsbezogene Angelegenheiten (beispielsweise CSP- oder Incentive-Programme) verwendet wird. Auszahlungen sind an spezifische Standorte gebunden.
+:::image type="content" source="images/accountsettings/accountstructure.png" alt-text="Struktur von MPN-Standorten":::
 
-Die Rollen von Benutzern können sich über mehrere Standorte erstrecken. So kann der Incentive-Administrator beispielsweise für alle Standorte in Europa zuständig sein.
+## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>Voraussetzungen für das Hinzufügen eines neuen Standorts für ein CSP-Geschäft
 
-## <a name="to-add-a-location"></a>So fügen Sie einen Standort hinzu
+Zum Hinzufügen eines neuen CSP-Geschäftsstandorts müssen mehrere Voraussetzungen erfüllt sein:
+
+1. Sie müssen über eine Standort-MPN-ID in dem Land verfügen, in dem Sie geschäftlich tätig sein möchten.
+
+1. Sie benötigen einen neuen Azure AD-Mandanten in der Geschäftsregion, der nicht bereits in CSP registriert ist. Erstellen Sie diesen bei der Registrierung in CSP.
+ 
+3. Verwenden Sie den neuen AAD-Mandanten, um sich beim CSP-Programm in der Region zu registrieren.
+Geben Sie rechtliche Firmendetails an, einschließlich des rechtsgültigen Firmennamens, der Adresse sowie Angaben zum primären Kontakt. Dieses Konto wird überprüft. Stellen Sie daher sicher, dass Sie gültige Informationen hinzufügen.
+
+>[!NOTE] 
+ >Denken Sie daran, sich mit den **neuen** Anmeldeinformationen für den **neuen** Azure AD-Mandanten anzumelden. Verwenden Sie nicht Ihre schon vorhandenen Anmeldeinformationen, da Partner Center erkennt, dass Sie bereits über ein Konto verfügen.
+
+4. Stimmen Sie der Microsoft Partner-Vereinbarung zu, und aktivieren Sie das Konto.
+
+## <a name="add-a-location"></a>Hinzufügen eines Standorts
 
 1. Wählen Sie das **Einstellungssymbol** und anschließend die **Partnereinstellungen** aus.
 
@@ -49,16 +67,20 @@ Die Rollen von Benutzern können sich über mehrere Standorte erstrecken. So kan
 > [!NOTE]
 > In Partner Center hinzugefügte Standorte können nicht mehr entfernt werden.
 
-## <a name="change-legal-headquarters-location"></a>Ändern des Standorts für die gesetzliche Zentrale
+## <a name="change-global-partner-account-location"></a>Ändern des globalen Partnerkontostandorts
 
 1. Überprüfen Sie auf der Seite **Standorte** die Liste der Standorte, um sicherzustellen, dass der Standort, den Sie als juristische Entität wünschen, aufgeführt ist. Wenn dies nicht der Fall ist, fügen Sie ihn hinzu.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Screenshot: Liste aller aktuellen Standorte auf der Seite mit den Standorten für Partner Center-Konten":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Struktur von MPN-Standorten":::
 
 2. Wählen Sie **Partnerprofil** aus, und wählen Sie dann **Firmenprofil aktualisieren** aus.
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Screenshot: Partner Center-Konto mit Informationen zum Partnerprofil und auswählbarer Aktualisierungsoption":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Struktur von MPN-Standorten":::
 
 3. Wählen Sie die Region und die juristische Entität aus, und klicken Sie auf **Senden**.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Screenshot zum Aktualisieren des rechtlichen Geschäftsprofils des Partners einschließlich Dropdownlisten, über die das Land oder die Region und die juristische Person aktualisiert werden können":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Struktur von MPN-Standorten":::
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- Erfahren Sie mehr über den [Überprüfungsprozess](verification-responses.md).

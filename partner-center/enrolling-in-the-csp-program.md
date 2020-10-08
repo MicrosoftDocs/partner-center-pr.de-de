@@ -1,7 +1,7 @@
 ---
 title: Registrieren für das Programm für Cloud-Lösungsanbieter
 ms.topic: how-to
-ms.date: 05/18/2020
+ms.date: 10/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie sich für ein Vertriebsmodell des Cloud Solution Provider (CSP)-Programms registrieren, das am besten für Ihr Unternehmen geeignet ist – z. B. als indirekter Wiederverkäufer oder Direktabrechnungspartner.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86fde264fe54b2ac6e72b1f630183c7dbdc7991b
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: f44d9dd79f5d02160aa30d99e4815bf8e7837ec5
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545821"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763335"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>Registrierung für das Cloud Solution Provider-Programm und Aufbau eines profitablen Geschäfts für Cloudlösungen
 
@@ -30,7 +30,7 @@ ms.locfileid: "87545821"
 
 Die rasant wachsende Nachfrage nach cloudbasierten Lösungen und Diensten bietet Microsoft-Partnern aller Größen zahlreiche Chancen für den Aufbau eines rentablen Cloudlösungsgeschäfts. Partner, die auf den Markt gehen, aber nicht mehrere Anbieter verwalten möchten oder die über keine Infrastruktur für das End-to-End-Kundenbeziehungsmanagement verfügen, können sich beim Microsoft-Programm für Cloud-Lösungsanbieter (Cloud Solution Provider, CSP) als indirekter Wiederverkäufer registrieren.
 
-Um sich beim Programm für Cloud Solution Provider zu registrieren, benötigen Sie zuerst eine MPN-ID. Sie besitzen noch keine? Treten Sie [hier](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=) bei.
+Um sich beim Programm für Cloud Solution Provider zu registrieren, benötigen Sie zuerst eine MPN-ID. Sie besitzen noch keine? Treten Sie [hier](https://partner.microsoft.com/) bei.
 
 Beim Ausfüllen der CSP-Anwendung benötigen Sie die MPN-ID Ihres Unternehmens, eine vollständige Geschäftsadresse, Bankverbindungen und die E-Mail-Adresse des Mitarbeiters, der als Administrator für Partner Center fungiert.
 
@@ -96,4 +96,5 @@ Unter [Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum 
 ## <a name="csp-regional-markets-and-currencies"></a>Regionale CSP-Märkte und Währungen
 
 Ihr Markt wird durch den Standort Ihres Unternehmens bestimmt. Ihr Markt umfasst die Regionen und/oder Länder, in denen Sie CSP-Angebote verkaufen können. Unter [Regionale Märkte und Währungen des Cloud Solution Provider-Programms](regional-authorization-overview.md) finden Sie Informationen zu Marktstandorten und Währungen.
+Lesen Sie unbedingt den Artikel zum [Hinzufügen einer neuen MPN-ID für den Standort](manage-locations.md).
 

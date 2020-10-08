@@ -8,12 +8,12 @@ description: Häufig gestellte Fragen zur Problembehandlung bei Co-Selling-Conne
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: d34a13a6789f3bd712d2cec3a594b8e407f7449d
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 312ff9155ab4c2d84fb38bb6ccd093505e628832
+ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422336"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91844654"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Problembehandlung bei Connectors mit Co-Selling-Empfehlungen
 
@@ -46,7 +46,7 @@ Partner Verkäufern muss die Rolle "referenrals admin" zugewiesen werden. Weiter
 
 • Stellen Sie sicher, dass Ihre Währung für Ihren Standort geeignet ist und sich in Ihrer CRM-Umgebung genau befindet. • Ihr Vertriebsteam sollte in Ihrer CRM-Umgebung als CRM-Benutzer aufgeführt sein.
 
-5.  Welche Voraussetzungen sind für das Erstellen der Energie automatisierten Umgebung erforderlich?
+5. Welche Voraussetzungen sind für das Erstellen der Energie automatisierten Umgebung erforderlich?
 
 Um die Energie automatisierte Umgebung zu verwenden, benötigen Sie Folgendes:
 
@@ -55,7 +55,7 @@ Um die Energie automatisierte Umgebung zu verwenden, benötigen Sie Folgendes:
 
 6.  Benötigen Sie ein Dynamics 365-Abonnement, um die Salesforce-Connectors-Lösung zu verwenden?
 
-Die Salesforce-Connector-Lösung ist vom Typ "Dynamics Flow", der die Synchronisierung mit anderen CRM-Systemen unterstützt. Die Lösung erfordert nicht, dass Sie über eine Dynamics 365-Instanz oder ein-Abonnement verfügen. Beim Installieren der Salesforce-Lösung wird möglicherweise eine Dropdown-Datei mit vorhandener CDs-Umgebung in Ihrem Unternehmen angezeigt. Sie müssen diese Umgebung auswählen. Wenn Sie die Fehlermeldung erhalten, dass eine Dynamics 365-Organisation, die mit dem angemeldeten Benutzer verbunden ist, nicht gefunden werden können, müssen Sie außerdem eine neue Umgebung für den Connector erstellen.
+Die Salesforce-Connector-Lösung ist vom Typ "Dynamics Flow", der die Synchronisierung mit anderen CRM-Systemen unterstützt. Die Lösung erfordert nicht, dass Sie über eine Dynamics 365-Instanz oder ein-Abonnement verfügen. Beim Installieren der Salesforce-Lösung wird möglicherweise eine Dropdown-Datei mit vorhandener CDs-Umgebung in Ihrem Unternehmen angezeigt. Sie müssen diese Umgebung auswählen. Wenn Sie die Fehlermeldung "Es konnte keine Dynamics 365-Organisation gefunden werden, die mit dem angemeldeten Benutzer verbunden ist" erhalten, müssen Sie außerdem eine neue Umgebung für den Connector erstellen.
 
 ## <a name="questions-and-answers-about-configuration"></a>Fragen und Antworten zur Konfiguration
 
@@ -69,18 +69,18 @@ Befolgen Sie diese Schritte zur Problembehandlung:
 - Aktivieren und Deaktivieren des untergeordneten Flows 
 - Löschen Sie die Lösung, und installieren Sie die Projekt Mappe neu. 
 
-2.  Was sollten Sie tun, wenn beim Hinzufügen eines Partner Center-Connector in der Energie automatisierten Plattform der folgende Fehler auftritt?
+2.  Was sollten Sie tun, wenn Sie sich beim Hinzufügen eines Partner Center-Connector in der Energie automatisierten Plattform mit dem Fehler "Anmelden" auskennen?
 
 :::image type="content" source="images/cosellconnectors/failure.png" alt-text="Fehlermeldung, die eine Anmeldung erfordert":::
 
 Befolgen Sie diese Schritte zur Problembehandlung:
 
-- Verwenden Sie die Partner Center-Anmeldung, um sich einmal bei der Flow-Umgebung anzumelden (Flow.Microsoft.com).
+- Verwenden Sie Ihre Partner Center-Anmelde Informationen, um sich einmal bei der Flow-Umgebung anzumelden (Flow.Microsoft.com).
 
 
 3. Was sollten Sie tun, wenn Sie den folgenden Fehler erhalten, während Sie den Partner Center für CRM-Flow in der Energie automatisierten Plattform aktivieren?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Fehlermeldung, die Updates erfordert":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Fehlermeldung, die eine Anmeldung erfordert":::
 
 Befolgen Sie diese Schritte zur Problembehandlung:
 
@@ -90,21 +90,21 @@ Befolgen Sie diese Schritte zur Problembehandlung:
 
 4. Was sollten Sie tun, wenn Sie keine Verbindungen zum Flow hinzufügen können, wenn Sie versuchen, den Flow zu bearbeiten?
 
-Wenn der Flow ausgeführt wird, fügen Sie Verbindungen zum Flow hinzu, und Sie fügen den einzelnen Flows separat hinzu.  Wenn das Dialogfeld zum Hinzufügen von Verbindungen beim Bearbeiten des Flows nicht automatisch geöffnet wird, können Sie die einzelnen Schritte und unter Schritte der Flows bearbeiten, um die Verbindungen hinzuzufügen.
+Wenn der Flow ausgeführt wird, fügen Sie Verbindungen zum Flow hinzu, und Sie fügen den einzelnen Flows separat hinzu.  Wenn das Dialogfeld zum Hinzufügen von Verbindungen beim Bearbeiten des Flows nicht automatisch geöffnet wird, können Sie die einzelnen Schritte und unter Schritte der Flows einzeln bearbeiten.
 
 - Wählen Sie jeden Flow aus, und bearbeiten Sie ihn einzeln.
 - Alle Schritte im Flow erweitern 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Schritte, die Verbindungen benötigen":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Fehlermeldung, die eine Anmeldung erfordert":::
 
 - Wählen Sie die Schritte aus, bei denen das Warnsymbol angezeigt wird, um Verbindungen zuzuordnen, und fügen Sie Verbindungen hinzu. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Flow Schritt für Schritt bearbeiten":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Fehlermeldung, die eine Anmeldung erfordert":::
 
 
-5. Was sollten Sie tun, wenn die Flows der Connectors-Lösung für Co-Selling-Verweise nicht aktiviert (Einschalten)?
+5. Was sollten Sie tun, wenn die Flows der Connectors-Lösung für Co-Selling-Verweise nicht aktiviert werden?
 
-A. In der Energie Automatisierung müssen Sie Flows in der folgenden Reihenfolge bearbeiten und Sie aktualisieren, um die entsprechenden Verbindungen zu verwenden:
+A. In der Energie Automatisierung müssen Sie Flows in der folgenden Reihenfolge bearbeiten und Sie aktualisieren, um die richtigen Verbindungen zu verwenden:
 
 - Partner Center-webhook-Registrierung (Insider Preview)
 - Erstellen eines Co-Selling-Verweises-Salesforce an Partner Center (Insider Preview)
@@ -116,7 +116,7 @@ A. In der Energie Automatisierung müssen Sie Flows in der folgenden Reihenfolge
 
  B. Wählen Sie für jeden Flow die Option **nur Benutzer ausführen** aus. Wählen Sie **Verbindung verwenden** anstelle von **nur Benutzer ohne Benutzer bereit**stellen aus.  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="So aktivieren Sie einen Flow":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Fehlermeldung, die eine Anmeldung erfordert":::
 
 
 C. Aktivieren Sie die folgenden genannten Flows:
@@ -126,7 +126,7 @@ C. Aktivieren Sie die folgenden genannten Flows:
 - Salesforce zu Partner Center (Insider Vorschau)
 
     
-D: Aktivieren Sie alle verbleibenden Flows.
+D. Aktivieren Sie alle verbleibenden Flows.
 
 E. Wählen Sie unter Flow Partner Center-webhook-Registrierung die Option **Ausführen**aus. Geben Sie die **http-URL** aus der ersten Aktion im **Partner Center für den Salesforce** -Flow an. Wählen Sie unter **zu registrierende Ereignisse** alle vier Optionen aus, und wählen Sie zum Überschreiben **Ja**
 
@@ -140,7 +140,7 @@ Um sicherzustellen, dass Ihre Energie automatisierenden Flows erwartungsgemäß 
  
 **Wählen Sie**überwachen aus, um den Status der Verweis Synchronisierung zu bestimmen. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Synchronisieren von verweisen":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Fehlermeldung, die eine Anmeldung erfordert":::
 
 Stellen Sie sicher, dass die folgenden Bedingungen erfüllt sind:
 
@@ -150,59 +150,13 @@ Stellen Sie sicher, dass die folgenden Bedingungen erfüllt sind:
 
 - Wenn die Hilfe von Microsoft für die Verkaufschance ausgewählt ist, sind Kundenkontaktinformationen erforderlich.
 
-3. Unter welchen Bedingungen wird ein Verweis nicht bidirektional synchronisiert
+3. Wie kann sichergestellt werden, dass ein Verweis bidirektional synchronisiert wird?
 
-Stellen Sie Folgendes sicher:
+Führen Sie die folgenden Schritte aus:
 
 - Partner Verkäufer müssen sicherstellen, dass die **Synchronisierung mit der Partner Center** -Option im CRM-Abschnitt aktiviert ist.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Stellen Sie sicher, dass die Synchronisierung aktiviert ist":::
-
-- Verkäufer müssen den Umsatz und das Enddatum angeben, wenn Sie einen Lead qualifizieren.
-
-- Wenn die CRM-ID in der Erstellung oder dem Update der Co-Selling-Verkaufschance bereitgestellt wird und ein Lead/eine Gelegenheit mit dieser ID in CRM nicht gefunden wird, wird Update oder CREATE für diese Gelegenheit ignoriert.
-
-- Stellen Sie sicher, dass das Feld für die Verweis Währung in der Salesforce-Umgebung 
-
-4. Was Sie tun sollten, wenn der Connector getrennt wird und eine verweissynchronisierung fehlt. 
-
-Im folgenden sind einige der Optionen aufgeführt, die Sie ausprobieren können:
-
-- Überprüfen Sie, ob der Benutzername oder das Kennwort für den Partner Center-Benutzer mit Referenz Administrator Rollen abgelaufen ist
-
-- Sie können zur nicht synchronisierten Gelegenheit wechseln, eine geringfügige Aktualisierung vornehmen und beobachten, ob der Verweis synchronisiert wurde.
-
-- Wenn die Flows ausgeführt wurden und fehlgeschlagen sind, wählen Sie den Flow aus, und übermitteln Sie den ausgefallenen Testlauf erneut.
-
-5. Was sollten Sie tun, wenn Sie Zugriffs Verweigerungs Fehler erhalten?
-
-Stellen Sie sicher, dass die entsprechenden Rollen vorhanden sind
-
-- Rolle "Verweis Administrator" für Partner Center-Verkäufer 
- 
-- System Administrator-oder systemanpassungsrolle in Ihrer CRM-Instanz
-
-- Stellen Sie sicher, dass sich der Benutzer mit dem Datenfluss Konto automatisch https://flow.microsoft.com bei mindestens einmal anmeldet.
-
-6. Was sollten Sie tun, wenn Sie sehen, dass der **Ländercode des Kundenkontos** beim Erstellen einer Co-Selling-Verkaufschance fehlt?
-
-Sie müssen dem Kundenkonto in CRM den aus zwei Buchstaben bestehenden ISO-Code hinzufügen.
-
-7. Was sollten Sie tun, wenn Sie sehen, dass die **Lösungs-ID erforderlich ist** , während Sie eine Co-Selling-Verkaufschance erstellen?
-
-Um einen Co-Selling-Verweis zu erstellen, benötigen Sie eine Microsoft Co-Selling-Lösung. 
-
-8. Was Sie tun sollten, wenn Sie die Co-Selling-Verkaufschancen in Partner Center sehen, die nicht mit CRM synchronisiert werden, auch wenn keine Datenflussfehler auftreten:
-
-Gehen Sie wie folgt vor:
-
-- Nachdem Sie im Partner Center einen neuen Co-Selling-Deal erstellt haben, überprüfen Sie, ob der Flow Partner Center auf Dynamics 365 aufgerufen wird (er wird möglicherweise mehrmals aufgerufen).
-
-- Wenn der Flow aufgerufen wird, überprüfen Sie alle aufgerufenen Flows, und identifizieren Sie die flowausführung, die das CRM aktualisieren würde. Sie können den Aktionen folgen und überprüfen, ob das CRM-Update oder ein Problem aufgetreten ist.
-
-- Überprüfen Sie den *neuen Deal** im Partner Center, um festzustellen, ob es mit der CRM-ID aufgefüllt wird
-
-- Stellen Sie sicher, dass das Geschäft im Partner Center nicht versehentlich als "gewonnen" oder "verloren" geschlossen wird.
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Fehlermeldung, die eine Anmeldung erfordert" geschlossen wird.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

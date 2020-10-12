@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 93b312341457038b1399dc77a343a6b323dd75bd
-ms.sourcegitcommit: f3a21becbb4148bc871e30ef2a12309863705017
+ms.openlocfilehash: 129db0715b52a55098ce4479fb3784506810543b
+ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91772251"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91844674"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Oktober 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+|Funktionen|[Vereinfachte Darstellung der Azure-Apps in Azure Marketplace](2020-october.md#8)|7\. Oktober|
 |Angebote/Märkte|[Einführung der Premium-SKU für Microsoft Teams-Räume](2020-october.md#7)|5\. Oktober|
 |Angebote/Märkte|[Microsoft-Anrufpläne jetzt in neuen Märkten verfügbar](2020-october.md#6)|2\. Oktober|
 |Angebote/Märkte|[Promotions für Microsoft Teams Advanced Communications in Kürze verfügbar](2020-october.md#5)|2\. Oktober|

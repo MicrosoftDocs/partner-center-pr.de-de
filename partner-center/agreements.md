@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: bd1b9b3fabc9e06cc368e75ba8479e3a38a843d5
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0243b88cd60098dca971bd846eb7b0418b15c280
+ms.sourcegitcommit: a3e277ebc9e4016aa48477363f26bb78760560bd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114831"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "91899228"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Microsoft-Kundenvereinbarungen nach Region und Sprache
 
@@ -127,11 +127,11 @@ Wenn Sie nicht sicher sind, in welchen Regionen und auf welchen Märkten Sie Ver
     
     In Deutschland verlangen das Strafgesetzbuch (§ 203) und die berufsrechtlichen Verhaltenkodizes die Geheimhaltung bestimmter Kundenbeziehungen. Dazu zählen beispielsweise das Verhältnis zwischen Patienten und ihren behandelnden Ärzten und das Verhältnis zwischen Anwälten und ihren Mandanten. Diese Berufsgruppen haben das Berufsgeheimnis zu wahren. Damit diese und andere Berufsgruppen cloudbasierte Dienste von Cloudlösungsanbietern (Cloud Solution Providers, CSPs) beziehen können, muss der Clouddienstanbieter mit dem Kunden eine zusätzliche Vereinbarung in Textform beifügen, in der die Wahrung des Berufsgeheimnisses gewährleistet wird.
 
-    Wenn Sie in Deutschland Geschäfte tätigen, müssen Sie Ihren Kunden dort möglicherweise diese Ergänzung des Berufsgeheimnisses zusätzlich zum Microsoft Cloud-Vertrag vorlegen.
+    Wenn Sie in Deutschland Geschäfte tätigen, müssen Sie Ihren Kunden dort möglicherweise diese Ergänzung des Berufsgeheimnisses zusätzlich zum Microsoft-Kundenvereinbarung vorlegen.
 
-  - [Microsoft Cloud Agreement Professional Secrecy Amendment for Germany (in englischer Sprache)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+  - [Microsoft Cloud Agreement Professional Secrecy Amendment for Germany (in englischer Sprache)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GKou)
 
-  - [Microsoft Cloud Agreement Berufsgeheimnisträger Zusatzvereinbarung für Deutschland (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+  - [Microsoft Cloud Agreement Berufsgeheimnisträger Zusatzvereinbarung für Deutschland (DE)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GI29)
 
 - Gibraltar: [Englisch](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - Griechenland: [Englisch](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf), [Griechisch](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)

@@ -1,7 +1,7 @@
 ---
 title: Werden Sie zum globalen Administrator für Ihr Unternehmen
 ms.topic: how-to
-ms.date: 05/04/2020
+ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Zum Arbeiten in Partner Center müssen Sie zunächst den Besitz Ihrer Domäne überprüfen. Hier erfahren Sie, wie Sie dazu vorgehen müssen und wie Sie ein globaler Administrator werden, der Benutzer hinzufügen kann.
@@ -9,14 +9,14 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fd2f47675cc60442390eb3394d7257d971c0e234
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: abec236f4856fdbfbcaa9654623c5f00b9a47584
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527386"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663801"
 ---
-# <a name="verify-your-domain-ownership"></a>Überprüfen Ihres Domänenbesitzes
+# <a name="verify-your-domain-ownership-to-become-global-admin"></a>Überprüfen des Domänenbesitzes, um globaler Administrator zu werden 
 
 **Gilt für:**
 
@@ -25,15 +25,20 @@ ms.locfileid: "87527386"
 **Geeignete Rollen**
 
 - Globaler Administrator
+- Kontoadministrator
 
-Wenn sich Ihr Unternehmen zum ersten Mal im Partner Center anmeldet, ist es wahrscheinlich, dass Ihren Mitarbeitern nicht die Rollen zugewiesen wurden, die sie für die Aufnahme der Arbeit im Partner Center benötigen. Um im Partner Center arbeiten zu können, muss jedem eine Rolle zugewiesen sein, die auch Berechtigungen umfasst.  
+Wenn Ihr Unternehmen zum ersten Mal ein Konto im Partner Center erstellt, ist es wahrscheinlich, dass Ihren Mitarbeitern noch nicht die Rollen zugewiesen wurden, die sie zum Arbeiten benötigen.  Um im Partner Center arbeiten zu können, muss jedem eine Rolle zugewiesen sein, die auch Berechtigungen umfasst.  
 
-Sie müssen den Besitz Ihrer Domain bestätigen, damit Sie die Vorteile, für die Ihr Unternehmen berechtigt ist, erwerben, neue Benutzer hinzufügen und ihnen Rollen zuweisen oder andere Aufgaben im Partner Center ausführen können.
+## <a name="find-the-companys-global-admin"></a>Suchen nach dem globalen Administrator des Unternehmens
 
->[!Note]
->Ein globaler Administrator ist z. B. in Ihrem Unternehmen derjenige, der Clouddienste verwaltet. Wenn Ihr Unternehmen über einen globalen Administrator verfügt, Sie sich aber nicht sicher sind, wer es ist, wählen Sie **Benutzerverwaltung** über das Symbol **Einstellungen** oben rechts im Partner Center aus. Suchen Sie nach globalen Administratoren, die Sie kontaktieren möchten, indem Sie zur Benutzerverwaltung wechseln und nach globalen Administratoren filtern.
+1. Klicken Sie im Partner Center rechts oben auf das Symbol **Einstellungen** und dann auf **Benutzerverwaltung**.
 
-## <a name="verify-your-domain-ownership-and-become-a-global-admin-in-partner-center"></a>Überprüfen des Domänenbesitzes und globaler Administrator im Partner Center werden
+1. Filtern Sie im Suchfeld nach globaler Administrator. Eine Liste der globalen Administratoren in Ihrem Unternehmen wird angezeigt. Wenn Ihr Unternehmen noch keinen globalen Administrator hat, gehen Sie wie nachfolgend beschrieben vor.
+
+
+## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>Überprüfen des Domänenbesitzes, um globaler Administrator im Partner Center zu werden
+
+Wenn Sie globaler Administrator für Ihr Unternehmen werden möchten, müssen Sie den Domänenbesitz überprüfen.
 
 1. Wählen Sie im Partner Center-Dashboard auf der Seite **Mitgliedschaftsangebote** die Option **Globaler Administrator werden** aus. 
 

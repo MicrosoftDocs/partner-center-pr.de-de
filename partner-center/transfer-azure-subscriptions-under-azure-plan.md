@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: e1b70f26dc146507ac3764ae223ca27915162f0c
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
+ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422568"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "91980261"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Übertragen der Azure-Plan Abonnements eines Kunden an einen anderen Partner
 
@@ -37,7 +37,7 @@ Der Kunde muss sich in der Konversation mit beiden Partnern (Current und Future)
 - CSP-Preise für Azure-Dienste unter dem aktuellen Partner werden nicht übertragen  
 - Support Aufgaben für Kunden werden auf den zukünftigen Partner verschoben
 - Abrechnung und Rechnungsstellung werden zum Zeitpunkt der Übertragung auf den zukünftigen Partner verschoben
-- Die rollenbasierte Access Control in Azure (RBAC) ist von der Übertragung nicht betroffen.
+- Azure Role-Based Access Control (RBAC) ist von der Übertragung nicht betroffen.
 - Administrator im Auftrag von (Aobo) wird dem zukünftigen Partner standardmäßig nicht gewährt.
 - Marketplace-Produkte von Drittanbietern werden übertragen, solange die Produkte die Marketplace-Berechtigungsüberprüfung bestehen.
     - Es gibt keine besonderen Rabatte oder regionalen Einschränkungen.
@@ -77,20 +77,17 @@ Der zukünftige Partner des Abonnements muss ein Übertragungs Anforderungs Form
 
 6.  Wählen Sie Sende **Übertragungs Anforderung**  >  **senden**aus.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Formular zum Vervollständigen der Übertragungs Anforderung":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Abschnitt Übertragungen":::
 
 7.  Bestätigung der Übertragungs Anforderung überprüfen
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Ausstehende Übertragung überprüfen":::
-
-    >[!Note]
-    >Der zukünftige Partner kann die Übertragungs Anforderung abbrechen, indem er in der oberen rechten Ecke nur **Anforderung abbrechen** auswählt, wenn der Übertragungs Anforderungs Status "Ausstehend" lautet. Wenn der Übertragungs Anforderungs Status "in Bearbeitung" oder "abgeschlossen" lautet, sind keine Abbrüche möglich.
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Abschnitt Übertragungen" lautet, sind keine Abbrüche möglich.
 
 ## <a name="current-partner-tasks-to-be-completed"></a>Aktuelle Partner Aufgaben, die abgeschlossen werden müssen
 
 Der Administrator-Agent des aktuellen Partners des Kunden erhält eine e-Mail, dass der Kunde eine Übertragung der Abonnements anfordert:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Überprüfung":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Abschnitt Übertragungen":::
 
 Überprüfen und akzeptieren Sie das Übertragungs Anforderungs Formular von Partner Center, um die Abonnement Übertragung abzuschließen.
 
@@ -103,7 +100,7 @@ Der Administrator-Agent des aktuellen Partners des Kunden erhält eine e-Mail, d
 3.  Wählen Sie den Abschnitt **Übertragungs Anforderung** aus.
 4.  Erweitern Sie Übertragungs Informationen, indem Sie die ausgewählte **Übertragungs Anforderungs-ID** unter **empfangene Anforderungen** auswählen.
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Übertragungs Anforderung für Quell Reviews":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Abschnitt Übertragungen":::
 
 5.  Überprüfen Sie die Übertragungs Anforderung. Wählen Sie die angeforderten zu übertragenden Azure-Abonnements aus.
 
@@ -114,7 +111,7 @@ Der Administrator-Agent des aktuellen Partners des Kunden erhält eine e-Mail, d
 
 6.  Wählen Sie dann **akzeptieren und übertragen** aus, um den Übertragungsvorgang abzuschließen.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Auswählen von Abonnements, die in ihren Azure-Plänen übertragen werden sollen":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Abschnitt Übertragungen":::
 
 7.  Bestätigung der Übertragungs Annahme anzeigen.
 
@@ -132,9 +129,9 @@ Der Administrator-Agent des aktuellen Partners des Kunden erhält eine e-Mail, d
 
 - Folglich ist es wichtig, dass Ihr Kunde den Azure RBAC-Zugriff für den vorherigen Partner entfernt und den neuen Partner für den neuen Partner zugreift. Weitere Informationen zu Ihrem Kunden, der neuen Zugriff gewährt, finden Sie unter [Was ist die rollenbasierte Zugriffs Steuerung in Azure (Azure RBAC)?](/azure/role-based-access-control/overview) Weitere Informationen über den Kunden, der den RBAC-Zugriff ihres früheren Partners entfernt, finden Sie unter [Entfernen einer Rollenzuweisung](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment).
 
-- Außerdem erhalten Sie keinen automatischen [Administrator im Auftrag von (Aobo)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) -Zugriff auf Ihre Abonnements. Aobo ist erforderlich, damit Partner die Azure-Abonnements Ihres Kunden in Ihrem Namen verwalten können. Weitere Informationen zu Azure-Berechtigungen finden [Sie unter Abrufen von Berechtigungen zum Verwalten eines Kunden Dienstanbieter oder Abonnements.](/partner-center/customers-revoke-admin-privileges)
+- Außerdem erhalten Sie keinen automatischen [Administrator im Auftrag von (Aobo)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) -Zugriff auf Ihre Abonnements. Aobo ist erforderlich, damit Partner die Azure-Abonnements Ihres Kunden in Ihrem Namen verwalten können. Weitere Informationen zu Azure-Berechtigungen finden [Sie unter Abrufen von Berechtigungen zum Verwalten eines Kunden Dienstanbieter oder Abonnements.](./customers-revoke-admin-privileges.md)
 
 ## <a name="next-steps"></a>Nächste Schritte:
 
 - [(Azure RBAC)](/azure/role-based-access-control/overview)
-- [Abrufen der Berechtigungen zum Verwalten des Dienstanbieter oder Abonnements eines Kunden.](/partner-center/customers-revoke-admin-privileges)
+- [Abrufen der Berechtigungen zum Verwalten des Dienstanbieter oder Abonnements eines Kunden.](./customers-revoke-admin-privileges.md)

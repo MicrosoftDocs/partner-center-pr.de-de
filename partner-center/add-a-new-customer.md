@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 71bfb819b0ce928d064bebe685664412a5eac689
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: b60ea73bc5fa7c4a25c61aa9651c303aa5087faf
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527236"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006727"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>So fügen Sie im Partner Center einen neuen Kundendatensatz hinzu
 
@@ -71,4 +71,3 @@ In diesem Artikel erfahren Sie, wie Sie Ihrer Kundenliste im Partner Center eine
 
 - Weitere Informationen zu den Möglichkeiten, die Sie Kunden über das Cloud Solution Provider-Programm verkaufen können, finden Sie unter [Partner Angebote im Cloud Solution Provider-Programm](csp-offers.md) .
 
-- Weitere Informationen zum Zuordnen eines neuen Kunden zu Ihrem Partnerkonto finden Sie unter [Herstellen einer Verbindung mit Kunden](customer-accounts.md).

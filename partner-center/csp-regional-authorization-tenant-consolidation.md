@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 232eae10927d8ac38b4cce0842fbb8e4278f8d03
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000374"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006774"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>Anweisungen zur Mandantenkonsolidierung für regionale CSP-Autorisierung
 
@@ -148,4 +148,4 @@ Weitere Informationen zur API-Registrierung finden [Sie unter Einrichten des API
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Einrichtung und Verwaltung von Kundenkonten für Handelspartner im Partner Center](customer-accounts.md)
+- [Cloud Solution Provider Program (regionale Märkte und Währungen), in denen Sie CSP-Angebote verkaufen können](regional-authorization-overview.md)

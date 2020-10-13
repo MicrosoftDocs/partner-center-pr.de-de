@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: 92c82bbc785a6b8ef01fc39abe5bb4235fbc5622
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 21a21bc363856ee041ff9e3f9f41b0bcf9796467
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545981"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006880"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Wiederverkäufern im Programm für Cloud-Lösungsanbieter
 
@@ -98,14 +98,14 @@ Wenn Sie sich bei bestehenden Abonnements für die Zusammenarbeit mit einem indi
 
 - Fügen Sie auf der Seite mit den Abonnementdetails im Feld **Reseller (MPN-ID)** den Vertriebspartner hinzu, mit dem Sie zusammenarbeiten möchten. Dadurch wird sichergestellt, dass der Vertriebspartner die entsprechenden Incentives erhält.
 
-| **So erreichen Sie dies** | **Dies** | **Where** |
+| **So erreichen Sie dies** | **Aktion** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | Aktivieren des Wiederverkäufers zum Verwalten des Kontos eines Kunden und zum Verwalten Ihrer Abonnements Administrator Berechtigungen | Zuordnen eines Vertriebspartners zu einem Kundenkonto beim Hinzufügen neuer Kunden | Auf der Seite **Neuer Kunde** |
 | Dem Vertriebspartner ermöglichen, das Azure-Konto eines Kunden zu verwalten|Zuordnen eines Vertriebspartners zu einem Azure-Kundenkonto beim Hinzufügen neuer Kunden|Wählen Sie im **Azure Service-Portal** die Option [Benutzereinstellungen](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) aus, um dem indirekten Vertriebspartner eine **Mandanten-Besitzer**-Berechtigungen zu erteilen|
 | Zuschreiben von Incentives für Vertriebspartner | Ordnen Sie den Vertriebspartner dem (neuen oder vorhandenen) Abonnement zu. | Auf der Seite **Neues Abonnement** |
 | Delegieren des Kundensupports für bestimmte Abonnements an den Vertriebspartner | Wählen Sie den Vertriebspartner in der Liste der **designierten Supportkontakte** aus. | Auf der Detailseite des Abonnements: Wählen Sie den Kunden von Ihrer **Kunden** Seite aus, und wählen Sie dann auf der Seite **Abonnements** des Kunden das Abonnement aus. |
 
-## <a name="remove-partnership-with-indirect-resellers"></a>Entfernen der Partnerschaft mit indirekten Wiederverkäufern
+## <a name="remove-partnership-with-indirect-resellers"></a>Entfernen einer Partnerschaft mit indirekten Handelspartnern
 
 Führen Sie die folgenden Schritte aus, um die Partnerschaft mit dem vorhandenen indirekten Reseller zu entfernen. 
 
@@ -147,7 +147,7 @@ Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren S
     > [!IMPORTANT]  
     > Notieren Sie sich den Benutzerkonto Namen und das Kennwort, da Sie nicht erneut auf diese Informationen zugreifen können, nachdem Sie diese Seite geschlossen haben.
 
-7. Klicken Sie auf **Fertig**. Der neue Kunde wird in Ihrer Kundenliste angezeigt und ist dem indirekten Vertriebspartner zugeordnet. Der Reseller verfügt jetzt über Administrator Zugriff auf die Kontoinformationen und Abonnements des Kunden und kann die Abonnements im Auftrag des Kunden verwalten.
+7. Wählen Sie **Fertig**aus. Der neue Kunde wird in Ihrer Kundenliste angezeigt und ist dem indirekten Vertriebspartner zugeordnet. Der Reseller verfügt jetzt über Administrator Zugriff auf die Kontoinformationen und Abonnements des Kunden und kann die Abonnements im Auftrag des Kunden verwalten.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Hinzufügen neuer Abonnements zu Kundenkonten
 
@@ -170,7 +170,5 @@ Wenn Kunden neue Abonnements erwerben, vorhandene aktualisieren oder zusätzlich
 ## <a name="next-steps"></a>Nächste Schritte
 
 Weitere Informationen zur Verwaltung von Kundenkonten und -abonnements finden Sie hier:
-
-- [Kundenkonten](customer-accounts.md)
 
 - [Kundenabonnements](customer-subscriptions.md)

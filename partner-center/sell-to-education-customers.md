@@ -2,19 +2,19 @@
 title: Verkaufen von Angeboten an Bildungs Kunden
 description: Erfahren Sie, wie Sie einen Bildungs Kunden erstellen und Angebote in Partner Center verkaufen.
 ms.topic: how-to
-ms.date: 06/03/2020
+ms.date: 10/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6d7ad9ed7acecf8d542577c87d4387240ded7b7
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 4ace0147eb87786e38cb43e5e362790c227ed08b
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811270"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006842"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Verkaufen von Angeboten an Bildungs Kunden & How to Create a Education Customer in Partner Center
 
@@ -30,43 +30,43 @@ ms.locfileid: "87811270"
 
 ## <a name="create-an-education-customer"></a>Erstellen eines Education-Kunden
 
-In diesem Artikel wird erläutert, wie Sie einen Bildungs Kunden in Partner Center erstellen und Schulungsprodukte an Sie verkaufen. Außerdem wird erläutert, wie Sie den Status der Überprüfung anzeigen und ggf. die Anforderung zur Überprüfung erneut senden.
+In diesem Artikel wird erläutert, wie Sie einen Bildungs Kunden in Partner Center erstellen und Schulungsprodukte an Sie verkaufen. Außerdem wird erläutert, wie Sie den Überprüfungs Status anzeigen und ggf. die Überprüfungs Anforderung erneut senden.
 
 > [!IMPORTANT]
-> Microsoft ist für jeden neu erstellten Kunden Mandanten zuständig, um sicherzustellen, dass Sie für Schulungsangebote qualifiziert sind.  Stellen Sie sicher, dass Sie die erforderlichen Informationen so genau und vollständig wie möglich eingeben, um Verzögerungen beim Prozess der Überprüfung zu verhindern.
+> Microsoft überprüft jeden neu erstellten Kunden Mandanten für Bildungseinrichtungen, um sicherzustellen, dass Sie für Schulungsangebote qualifiziert sind.  Stellen Sie sicher, dass Sie die erforderlichen Informationen so genau und vollständig wie möglich eingeben, um Verzögerungen beim Überprüfungsprozess zu verhindern.
 
 1. Melden Sie sich beim Partner Center an.
 
-2. Wählen Sie **Kunden** und dann **Kunde hinzufügen**aus. Wählen Sie in der Dropdown Liste **spezielle Qualifikationen** die Option **Education** aus.  Geben Sie die restlichen Kontoinformationen nach Bedarf ein.  Wichtige Felder, die den Prozess für die Überprüfung unterstützen, sind:
+2. Wählen Sie **Kunden** und dann **Kunde hinzufügen**aus. Wählen Sie in der Dropdown Liste **spezielle Qualifikationen** die Option **Education** aus.  Geben Sie die restlichen Kontoinformationen nach Bedarf ein.  Wichtige Felder, die den Überprüfungsprozess unterstützen, sind:
 
-   - **Firmenname**: Geben Sie den juristischen Entitäts Namen ein (erforderlich für die Überprüfung)
-   - **Land/Region und Adresszeile**: Geben Sie die vollständige Adresse für die Entitäts Adresse ein – für die Prüfung erforderlich
-   - **E-Mail-Adresse**: Geben Sie die e-Mail-Adresse des Unternehmens ein – keine kostenlose oder on.Microsoft.com-e-Mail
-   - **Kundenkontaktinformationen**: Diese Details werden im Rahmen des Prozess internen Prozesses verwendet.
+   - **Firmenname**: Geben Sie den juristischen Entitäts Namen für die Überprüfung ein.
+   - **Land/Region und Adresszeile**: Geben Sie die vollständige Adresse der Entitäts Adresse ein – für die Überprüfung
+   - **E-Mail-Adresse**: Geben Sie die e-Mail-Adresse des Unternehmens ein, die für die Überprüfung erforderlich ist.
+   - **Kundenkontaktinformationen**: Diese Details werden im Rahmen des Überprüfungsprozesses verwendet.
    - **Primärer Domänen Name**: wird zum Erstellen des Kundenkontos und der e-Mail-Adressen verwendet  Wählen Sie einen Namen aus, der dem Firmennamen ohne Leerzeichen oder Sonderzeichen ähnelt.  Dieser Name kann später nicht mehr geändert werden.
 
 3. Wenn Sie fertig sind, wählen Sie **überprüfen**aus.
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="Education-Kundenkonto":::
 
-### <a name="confirm-your-education-customers-vetting-status"></a>Bestätigen Sie den Status Ihres Bildungs Kunden.
+### <a name="confirm-your-education-customers-verification-status"></a>Verifizierungs Status Ihres Bildungs Kunden bestätigen
 
 **Weitere Informationen**finden Sie auf der Seite Konto des Kunden.
 Status Beispiele:
 
-- Wenn der Kunde die Überprüfung durchgeführt hat: Education
+- Wenn der Kunde die Überprüfung erfolgreich war: Education
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="Education-Überprüfung erfolgreich":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="Education-Kundenkonto":::
 
 - Wenn der Kunde die Überprüfung nicht bestanden hat: kein Education-Kunde
 
-   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="Die Bildungs Prüfung ist nicht erfolgreich.":::
+   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="Education-Kundenkonto":::
 
 - Wenn der Kunde nicht als Education-Kunde gekennzeichnet war: keine
 
-   :::image type="content" source="images/edunottagged.png" alt-text="Education nicht markiert":::
+   :::image type="content" source="images/edunottagged.png" alt-text="Education-Kundenkonto":::
 
-## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>Korrigieren der Kundenkontoinformationen und erneutes Einreichen zur Überprüfung  
+## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Kundenkontoinformationen korrigieren und zur Überprüfung erneut einreichen
 
 Wenn Ihr Kunde die anfängliche Überprüfung nicht bestanden hat, können Sie nun die Informationen korrigieren und erneut übermitteln.
 
@@ -74,7 +74,7 @@ Wenn Ihr Kunde die anfängliche Überprüfung nicht bestanden hat, können Sie n
 
 Sie müssen über globale Administratorrechte verfügen, um die Kundeninformationen aktualisieren zu können. Sie aktualisieren die Informationen im Office 365-Portal, da diese Daten nicht über das Partner Center-Portal aktualisiert werden können.
 
-1. Auf der Seite Konto werden Informationen angezeigt, die angeben, dass die Kunden Qualifikation als "kein Bildungs Kunde" angesehen wird.
+1. Auf der Seite **Konto** werden Informationen angezeigt, die angeben, dass die Kunden Qualifikation als "kein Bildungs Kunde" angesehen wird.
 
 2. Aktualisieren Sie den Browser, um die Seite zurückzusetzen. Es gibt eine **Aktualisierungs** Schaltfläche, und der **Status der speziellen Qualifikationen** ist auf **None**festgelegt.
 
@@ -82,15 +82,15 @@ Sie müssen über globale Administratorrechte verfügen, um die Kundeninformatio
 
 4. Sie werden auf einer neuen Registerkarte Ihres Browsers an das Office 365 Admin Center umgeleitet. Möglicherweise werden Sie aufgefordert, sich mit Ihren Anmelde Informationen anzumelden.
 
-5. Wählen Sie **Einstellungen** aus.
+5. Wählen Sie **Settings**aus.
 
 6. Wählen Sie oben auf dem Bildschirm die Registerkarte **Organisations Profil** und dann **Organisations Informationen**aus. Sie können jetzt die Kunden Details aktualisieren.
 
 7. Wählen Sie am unteren Rand der Rand Leiste die Option **Änderungen speichern** aus.  
 
-### <a name="resubmit-for-revetting"></a>Erneut zum erneuten Übermitteln
+### <a name="resubmit-for-verification"></a>Zur Überprüfung erneut senden
 
-1. Navigieren Sie zu ihrer Partner Center-Registerkarte und zur Seite Kunden **Konto** . Aktualisieren Sie den Browser. und überprüfen Sie, ob die Unternehmensseite auf die neuen Informationen aktualisiert wurde. Klicken Sie auf die Schaltfläche **Aktualisieren** , um die Überprüfung des Bildungs
+1. Navigieren Sie zu ihrer Partner Center-Registerkarte und zur Seite Kunden **Konto** . Aktualisieren Sie den Browser. und überprüfen Sie, ob die Unternehmensseite auf die neuen Informationen aktualisiert wurde. Wählen Sie die Schaltfläche **Aktualisieren** , um die erneute Überprüfung von Schulungen anzufordern
 
 2. Wenn die aktualisierten Kunden Details für Schulungsangebote qualifiziert sind, sehen Sie, dass die **speziellen Qualifikationen** auf **Education**aktualisiert werden. Wenn Sie immer noch **keinen Bildungs Kunden**sehen, wenden Sie sich an den Support für die manuelle Überprüfung.
 

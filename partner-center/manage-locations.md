@@ -1,20 +1,20 @@
 ---
 title: Verwalten von Standorten im Partnerkonto
 ms.topic: article
-ms.date: 10/01/2020
+ms.date: 10/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie einen neuen Standort hinzufügen und wie die Standort-MPN-ID in Incentive-Programmen, CSP-Geschäftsaktionen, Abonnements und anderen Transaktionen verwendet wird.
 author: vinayks
 ms.author: vinayks
-ms.localizationpriority: high
+ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c9bc3ffc09b657ab6e3e7e2dcda576898c96803d
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: c4435227cdd5d777d11c79bf4adc63471ad925e9
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663895"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006847"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Verwalten von MPN-Kontostandorten und Hinzufügen eines neuen Standorts
 
@@ -31,12 +31,12 @@ Die Standort-MPN-ID identifiziert jeden spezifischen Standort Ihres Unternehmens
 
 ## <a name="the-following-is-a-typical-scenario"></a>Ein typisches Szenario:
 
-Contoso hat seinen globalen Partnerkontostandort (Partner Global Account, PGA) im Vereinigten Königreich. Dies ist das registrierte Unternehmen, das über eine einzelne MPN-ID verfügt, die für die Verwaltung aller transaktionsfremden Angelegenheiten verwendet wird. Contoso verfügt außerdem über Partnerstandortkonten (Partner Location Account, PLA), die den Niederlassungen oder Abteilungen an anderen Standorten im Vereinigten Königreich, Frankreich und den USA entsprechen. In der MPN-Kontostruktur werden diese PLAs als eindeutige Standort-MPN-IDs dargestellt. Die PLAs werden für transaktionsbezogene Angelegenheiten (beispielsweise CSP- oder Incentive-Programme) verwendet. Auszahlungen sind an spezifische Standorte gebunden. 
+Contoso hat sein globales Partnerkonto (Partner Global Account, PGA) im Vereinigten Königreich. Dies ist das registrierte Unternehmen, und seine globale MPN-ID wird für die Verwaltung aller transaktionsfremden Angelegenheiten verwendet. Contoso verfügt außerdem über Partnerstandortkonten (Partner Location Account, PLA), die den Niederlassungen oder Abteilungen an anderen Standorten im Vereinigten Königreich, Frankreich und den USA entsprechen. In der MPN-Kontostruktur werden diese PLAs als eindeutige Standort-MPN-IDs dargestellt. Die PLAs werden für transaktionsbezogene Angelegenheiten (beispielsweise CSP- oder Incentive-Programme) verwendet. Auszahlungen sind an spezifische Standorte gebunden. 
 
 >[!NOTE]
 >Zwischen einem CSP-Mandanten und einer MPN-Standort-ID besteht eine 1:1-Beziehung.
 
-:::image type="content" source="images/accountsettings/accountstructure.png" alt-text="Struktur von MPN-Standorten":::
+:::image type="content" source="images/locations/locations1.png" alt-text="Struktur von MPN-Standorten":::
 
 ## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>Voraussetzungen für das Hinzufügen eines neuen Standorts für ein CSP-Geschäft
 
@@ -44,7 +44,7 @@ Zum Hinzufügen eines neuen CSP-Geschäftsstandorts müssen mehrere Voraussetzun
 
 1. Sie müssen über eine Standort-MPN-ID in dem Land verfügen, in dem Sie geschäftlich tätig sein möchten.
 
-1. Sie benötigen einen neuen Azure AD-Mandanten in der Geschäftsregion, der nicht bereits in CSP registriert ist. Erstellen Sie diesen bei der Registrierung in CSP.
+1. Sie benötigen einen neuen Azure AD-Mandanten in der [Geschäftsregion](regional-authorization-overview.md), der nicht bereits in CSP registriert ist. Erstellen Sie diesen bei der Registrierung in CSP.
  
 3. Verwenden Sie den neuen AAD-Mandanten, um sich beim CSP-Programm in der Region zu registrieren.
 Geben Sie rechtliche Firmendetails an, einschließlich des rechtsgültigen Firmennamens, der Adresse sowie Angaben zum primären Kontakt. Dieses Konto wird überprüft. Stellen Sie daher sicher, dass Sie gültige Informationen hinzufügen.
@@ -56,20 +56,20 @@ Geben Sie rechtliche Firmendetails an, einschließlich des rechtsgültigen Firme
 
 ## <a name="add-a-location"></a>Hinzufügen eines Standorts
 
+1. Melden Sie sich mit dem MPN-Konto im Partner Center an. Das MPN-Konto sollte über globale Administratorrechte oder Kontoadministratorrechte verfügen. 
+
 1. Wählen Sie das **Einstellungssymbol** und anschließend die **Partnereinstellungen** aus.
 
 2. Wählen Sie **Standorte** aus.
 
-3. Wählen Sie **Standort hinzufügen** aus.  
-
-4. Fügen Sie auf der Seite **Standort hinzufügen** die Adressdetails des Standorts ein, den Sie Ihrem Unternehmen hinzufügen möchten, und geben Sie auch einen Hauptansprechpartner für den Standort an.
+3. Wählen Sie **Standort hinzufügen** aus, und fügen Sie die Adressdetails des Standorts ein, den Sie Ihrem Unternehmen hinzufügen möchten. Geben Sie auch einen Hauptansprechpartner für den Standort an.
 
 > [!NOTE]
-> In Partner Center hinzugefügte Standorte können nicht mehr entfernt werden.
+> In Partner Center hinzugefügte Standorte können nicht mehr entfernt werden. Wenn Sie die richtige MPN-ID für die Anmeldung verwendet haben, wird **MPN** im linken Menü von Partner Center angezeigt.
 
 ## <a name="change-global-partner-account-location"></a>Ändern des globalen Partnerkontostandorts
 
-1. Überprüfen Sie auf der Seite **Standorte** die Liste der Standorte, um sicherzustellen, dass der Standort, den Sie als juristische Entität wünschen, aufgeführt ist. Wenn dies nicht der Fall ist, fügen Sie ihn hinzu.
+1. Überprüfen Sie auf der Seite **[Standorte](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)** die Liste der Standorte, um sicherzustellen, dass der Standort, den Sie als juristische Entität wünschen, aufgeführt ist. Wenn dies nicht der Fall ist, fügen Sie ihn hinzu.
 
    :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Struktur von MPN-Standorten":::
 

@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 09/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Synchronisieren Ihrer Verweise in Partner Center mit Ihrem Salesforce CRM
+description: Synchronisieren Sie Ihre Verweise in Partner Center mit Ihrem Salesforce CRM. Verkäufer können sich dann in Ihrem CRM-System mit Microsoft zusammen verkaufen.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bc404ca8c0647b1bcece767da75fa07ddc6b51f
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 4b3817dafbd05edf0c50b062b52ac4814c767d04
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663861"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031463"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Co-Selling-Connector für Salesforce CRM – Übersicht
 
@@ -42,12 +42,12 @@ Die Lösung basiert auf der Microsoft Power automatisieren-Lösung und verwendet
 Um die Verweise auf Partner Center und Salesforce CRM zu synchronisieren, muss die Lösung für die Energie Automatisierung bestimmte Verweis Felder von Microsoft eindeutig identifizieren. Diese Abgrenzung bietet Partnern von Partner Verkäufern die Möglichkeit, zu entscheiden, welche Referenzen Sie gemeinsam mit Microsoft für Co-Selling verwenden möchten.
 
 1. Aktivieren Sie in Salesforce **Notizen** , und fügen Sie es der Liste Verkaufschancen hinzu. 
-[Verweis](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
+[Referenz](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
 
 2. Aktivieren Sie **Opportunity-Teams** anhand der folgenden Schritte: 
     - Verwenden Sie in Setup das Feld für die **Schnellsuche** , um die Einstellungen für das Team zu suchen.
     - Definieren Sie die Einstellungen nach Bedarf.
-[Verweis](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
+[Referenz](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
 3. Installieren Sie in Salesforce benutzerdefinierte Felder und Objekte mithilfe des unten aufgeführten Paketinstallers.
   

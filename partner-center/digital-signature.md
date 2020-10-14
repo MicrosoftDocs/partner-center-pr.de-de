@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Partner können jetzt Rechnungen digital signieren.
+description: Erfahren Sie, wie Partner Center-Partner in Indien Digital signierte Rechnungen anzeigen und digitale Kopien von Rechnungen für Aufträge erhalten können, die in Partner Center erstellt wurden.
 author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8679146bc628514fb6b4885ee18651c2676fb18b
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 0696a3820a873ca213b4c2e0be847c0518095466
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490648"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031953"
 ---
 # <a name="view-digitally-signed-invoices"></a>Anzeigen von digital signierten Rechnungen
 
@@ -38,15 +38,15 @@ Partner in Indien sehen nun, dass Microsoft Rechnungen digital signiert hat. Sie
 
 3. Klicken Sie auf die Signatur. Das Zertifikat, das die Gültigkeit angibt, wird angezeigt.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="Signierte Rechnung mit autorisiertem unter zeichnerfeld und Dialogfeld Signatur Überprüfungs Status mit Details, Signatur Eigenschaften Option, Option Abbrechen."::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Die Beispiel Rechnung mit einem gültigen Signatur Benachrichtigungs Banner mit einer grünen häkchensignatur und einem Ausdruck, der besagt, dass signiert und alle Signaturen gültig sind."::: 
 
 4. Wählen Sie **Signatur Eigenschaften** aus, um weitere Informationen zur Gültigkeit der Signatur anzuzeigen.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="Die Detailansicht der Signatur Eigenschaften zeigt Informationen darüber an, wer, wo, wann das Dokument signiert wurde, den Validierungsprozess und das Zertifikat des Signatur Gebers."::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="Die Beispiel Rechnung mit einem gültigen Signatur Benachrichtigungs Banner mit einer grünen häkchensignatur und einem Ausdruck, der besagt, dass signiert und alle Signaturen gültig sind."::: 
 
 4. Sie können auch sicherstellen, dass die Zertifizierungs Pfade richtig sind und dass das Zertifikat vertrauenswürdig ist.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="Das Dialogfeld Zertifikat Anzeige zeigt mehrere Registerkarten mit weiteren Details zu einem Zertifikat und seiner gesamten Ausstellungs Kette an.":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="Die Beispiel Rechnung mit einem gültigen Signatur Benachrichtigungs Banner mit einer grünen häkchensignatur und einem Ausdruck, der besagt, dass signiert und alle Signaturen gültig sind.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Zusätzliche Informationen zu Rechnungen und digitalen Signaturen
 

@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Häufig gestellte Fragen zur Problembehandlung bei Co-Selling-Connectors.
+description: Hier finden Sie Antworten auf häufig gestellte Fragen zur Verwendung von Co-Selling-Connectors. In diesen FAQ finden Sie Informationen zur Problembehandlung bei Co-Selling-Connectors.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 312ff9155ab4c2d84fb38bb6ccd093505e628832
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844654"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031263"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Problembehandlung bei Connectors mit Co-Selling-Empfehlungen
 
@@ -126,7 +126,7 @@ C. Aktivieren Sie die folgenden genannten Flows:
 - Salesforce zu Partner Center (Insider Vorschau)
 
     
-D. Aktivieren Sie alle verbleibenden Flows.
+D: Aktivieren Sie alle verbleibenden Flows.
 
 E. Wählen Sie unter Flow Partner Center-webhook-Registrierung die Option **Ausführen**aus. Geben Sie die **http-URL** aus der ersten Aktion im **Partner Center für den Salesforce** -Flow an. Wählen Sie unter **zu registrierende Ereignisse** alle vier Optionen aus, und wählen Sie zum Überschreiben **Ja**
 

@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ace0147eb87786e38cb43e5e362790c227ed08b
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 59346026db6f8eb34f798146da88343e739dc510
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006842"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032083"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>Verkaufen von Angeboten an Bildungs Kunden & How to Create a Education Customer in Partner Center
 
@@ -51,7 +51,7 @@ In diesem Artikel wird erläutert, wie Sie einen Bildungs Kunden in Partner Cent
 
 ### <a name="confirm-your-education-customers-verification-status"></a>Verifizierungs Status Ihres Bildungs Kunden bestätigen
 
-**Weitere Informationen**finden Sie auf der Seite Konto des Kunden.
+**Weitere Informationen**finden Sie auf der Seite **Konto** des Kunden.
 Status Beispiele:
 
 - Wenn der Kunde die Überprüfung erfolgreich war: Education
@@ -90,7 +90,7 @@ Sie müssen über globale Administratorrechte verfügen, um die Kundeninformatio
 
 ### <a name="resubmit-for-verification"></a>Zur Überprüfung erneut senden
 
-1. Navigieren Sie zu ihrer Partner Center-Registerkarte und zur Seite Kunden **Konto** . Aktualisieren Sie den Browser. und überprüfen Sie, ob die Unternehmensseite auf die neuen Informationen aktualisiert wurde. Wählen Sie die Schaltfläche **Aktualisieren** , um die erneute Überprüfung von Schulungen anzufordern
+1. Navigieren Sie zu ihrer Partner Center-Registerkarte und zur Seite Kunden **Konto** . Aktualisieren Sie den Browser, und überprüfen Sie, ob die Unternehmensseite auf die neuen Informationen aktualisiert wurde. Wählen Sie die Schaltfläche **Aktualisieren** , um die erneute Überprüfung von Schulungen anzufordern
 
 2. Wenn die aktualisierten Kunden Details für Schulungsangebote qualifiziert sind, sehen Sie, dass die **speziellen Qualifikationen** auf **Education**aktualisiert werden. Wenn Sie immer noch **keinen Bildungs Kunden**sehen, wenden Sie sich an den Support für die manuelle Überprüfung.
 

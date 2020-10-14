@@ -2,17 +2,17 @@
 title: Nutzungs Abgleich-Dateien mit täglicher Bewertung
 ms.topic: article
 ms.date: 06/12/2020
-description: Erfahren Sie, wie Sie Nutzungs Abgleich-Dateien für die tägliche Bewertung in Partner Center lesen.
+description: Erfahren Sie, wie Sie Nutzungs Abgleich-Dateien für die tägliche Bewertung in Partner Center lesen. Enthält Beschreibungen für bestimmte Felder in der Datei "Reconnaissance".
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bff2c66e7efd05631de7d7643a780cbe5f726103
-ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
+ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89281312"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031963"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Erfahren Sie, wie Sie Nutzungs Abgleich-Dateien für die tägliche Bewertung in Partner Center lesen.
 
@@ -35,7 +35,7 @@ In diesem Artikel wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit täglic
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Felder in den Nutzungs Abgleich-Dateien mit täglicher Bewertung
 
-| Spalte | BESCHREIBUNG |
+| Column | Beschreibung |
 | ------ | ----------- |
 | PartnerId | Die Partner-ID im GUID-Format. |
 | PartnerName | Name des Partners |
@@ -70,7 +70,7 @@ In diesem Artikel wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit täglic
 | ResourceGroup | Stellt einen Container dar, der verwandte Ressourcen für eine Azure-Lösung enthält. |
 | ResourceURI | Der URI der verwendeten Ressource. |
 | ChargeType | Der Typ der Gebühr oder Berichtigung.  |
-| UnitPrice | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dieser Preis den im Abrechnungssystem während der Abstimmung gespeicherten Informationen entspricht. |
+| UnitPrice (Stückpreis) | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dieser Preis den im Abrechnungssystem während der Abstimmung gespeicherten Informationen entspricht. |
 | Menge | Anzahl der Lizenzen. Stellen Sie sicher, dass dieser Preis den im Abrechnungssystem während der Abstimmung gespeicherten Informationen entspricht. |
 | UnitType | Der Typ der Einheit, mit der die Verbrauchseinheit in Rechnung gestellt wird.  |
 | Billingpretaxtotal | Gesamtbetrag der Abrechnung vor Steuern.<br/> _**Billingpretaxtotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |

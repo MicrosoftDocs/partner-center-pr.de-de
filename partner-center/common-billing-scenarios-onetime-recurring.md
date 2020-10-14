@@ -2,17 +2,17 @@
 title: Abrechnung für einmalige & wiederkehrende Käufe
 ms.topic: article
 ms.date: 05/05/2020
-description: Weitere Informationen finden Sie in den Partner Center-Abrechnungs Beispielen für einmalige und wiederkehrende Käufe. Wenn Sie Abonnements erwerben, können Sie weitere Abonnements hinzufügen und Lizenzen hinzufügen oder entfernen.
+description: 'Partner Center-Abrechnungs Beispiele für einmalige und wiederkehrende Käufe: Wenn Sie Abonnements erwerben, können Sie weitere Abonnements hinzufügen oder Lizenzen hinzufügen oder entfernen.'
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5349a78b788c060999c98440edf962a64cb43112
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 720e3c4f97e374b0137db2302988a0fbd2db9432
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468394"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031313"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Partner Center-Abrechnungs Szenarien für einmal und Auswahl von wiederkehrenden Käufen
 
@@ -35,7 +35,7 @@ Die Kontenabstimmungsdatei enthält Folgendes:
 - -4,00 USD anteilige Weiterbelastung für den Leistungszeitraum 11. Juni bis 11. Juni. Dies ist der Zeitraum, in Sie eine Lizenz besessen haben. Berechnung: (monatlicher Preis/Tage im gesamten Leistungszeitraum) x Tage im anteiligen Leistungszeitraum x Lizenzanzahl = (4/30) x 30 x 1 = 4,00.
 - 8,00 USD anteilige Weiterbelastung für den Leistungszeitraum 10. Juni bis 9. Juli. Dies ist der Zeitraum, in Sie zwei Lizenzen besessen haben. Berechnung: (4/30) x 30 x 2 = 8,00.
 
-|**Kauf Datum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Einzelpreis**  |**Menge**  |**Betrag** |**Gebührentyp** |
+|**Kauf Datum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Einzelpreis**  |**Menge**  |**Amount** |**Gebührentyp** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
 |11.06.2019      |10.06.2019   |09.07.2019         |4 US-Dollar                |1                 |4 US-Dollar            |Neu         |
 |11.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        |1        | -4 USD       |addQuantity           |
@@ -51,7 +51,7 @@ Die Kontenabstimmungsdatei enthält Folgendes:
 - -3,87 USD anteilige Weiterbelastung für den Leistungszeitraum 11. Juni bis 12. Juni. Dies ist der Zeitraum, in Sie eine Lizenz besessen haben. Berechnung: (monatlicher Preis/Tage im gesamten Leistungszeitraum) x Tage im anteiligen Leistungszeitraum x Lizenzanzahl = (4/30) x 29 x 1 = 3,87.
 - 7,74 USD anteilige Weiterbelastung für den Leistungszeitraum 12. Juni bis 9. Juli. Dies ist der Zeitraum, in Sie zwei Lizenzen besessen haben. Berechnung = (4/30) x 29 x 2 = 7,74.
 
-|**Kauf Datum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Einzelpreis**  |**Menge**  |**Betrag** |**Gebührentyp** |
+|**Kauf Datum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Einzelpreis**  |**Menge**  |**Amount** |**Gebührentyp** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
 |11.06.2019 (Sie verfügen über eine Lizenz)     |10.06.2019   |09.07.2019         |4 US-Dollar         |1        |4 US-Dollar            |Neu         |
 |12.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        |1        | -3,87 USD       |addQuantity           |
@@ -67,7 +67,7 @@ Die Kontenabstimmungsdatei enthält Folgendes:
 - -8,00 USD anteilige Weiterbelastung für den Leistungszeitraum 11. Juni bis 11. Juni. Dies ist der Zeitraum, in Sie zwei Lizenzen besessen haben. Berechnung: (monatlicher Preis/Tage im gesamten Leistungszeitraum) x Tage im anteiligen Leistungszeitraum x Lizenzanzahl = (4/30) x 30 x 2 = 8,00.
 - 4,00 USD anteilige Weiterbelastung für den Leistungszeitraum 11. Juni bis 9. Juli. Dies ist der Zeitraum, in Sie eine Lizenz besessen haben. Berechnung = (4/30) x 30 x 1 = 4,00.
 
-|**Kauf Datum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Einzelpreis**  |**Menge**  |**Betrag** |**Gebührentyp** |
+|**Kauf Datum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Einzelpreis**  |**Menge**  |**Amount** |**Gebührentyp** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
 |11.06.2019      |10.06.2019   |09.07.2019         |4 US-Dollar                |2                 |-8 USD            |Neu         |
 |11.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        |2        | \- 8 US-Dollar       |removeQuantity           |
@@ -83,7 +83,7 @@ Die Kontenabstimmungsdatei enthält Folgendes:
 - -7.74 USD anteilige Weiterbelastung für den Leistungszeitraum 11. Juni bis 12. Juni. Dies ist der Zeitraum, in Sie zwei Lizenzen besessen haben. Berechnung: (monatlicher Preis/Tage im gesamten Leistungszeitraum) x Tage im anteiligen Leistungszeitraum x Lizenzanzahl = (4/30) x 29 x 2 = 7,74.
 - 3,87 USD anteilige Weiterbelastung für den Leistungszeitraum 12. Juni bis 9. Juli. Dies ist der Zeitraum, in Sie eine Lizenz besessen haben. Berechnung = (4/30) x 29 x 1 = 3,87.
 
-|**Kauf Datum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Einzelpreis**  |**Menge**  |**Betrag** |**Gebührentyp** |
+|**Kauf Datum**   |**Beginn der Abrechnung** |**Ende der Abrechnung**  |**Einzelpreis**  |**Menge**  |**Amount** |**Gebührentyp** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
 |11.06.2019 (Sie haben 2 Lizenzen)     |10.06.2019   |09.07.2019         |4 US-Dollar         |2        |-8 USD       |Neu       |
 |12.06.2019     | 10.06.2019    |09.07.2019        |4 US-Dollar        |2        | -7,74 USD       |removeQuantity           |

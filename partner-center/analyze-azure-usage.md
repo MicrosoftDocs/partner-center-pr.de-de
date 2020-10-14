@@ -1,6 +1,6 @@
 ---
 title: Analysieren Sie die Azure-Nutzung, um Ihr Geschäft zu steigern
-description: Erfahren Sie, wie Sie mit dem Partner Center Daten zur Nutzung der Azure-Abonnements ihrer Kunden erhalten.
+description: Erfahren Sie, wie Sie mit dem Partner Center Daten zur Nutzung der Azure-Abonnements ihrer Kunden erhalten. Zu den Daten gehören Abonnements, die verkauft, gefährdet und verwendet werden.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 40d74e22463c522333e1bdb4116369f5f6c3937a
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367444"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031883"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Erhalten Sie Daten zur Leistung Ihrer Kunden und Azure-Abonnements.
 

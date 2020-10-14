@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie mehr über die Verantwortlichkeiten des Kunden Supports für Partner im CSP-Programm.
+description: Erfahren Sie mehr über die Zuständigkeiten des Kunden Supports für Partner im CSP-Programm, einschließlich Details zur Abrechnung, Abonnement Verwaltung und technischen Problemen.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 2ae8ff6491388af8ed4c7865fef730a946fea332
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: ec9c80d7e57e0252f68f7ed7f7b0f73f8812de9d
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114371"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032043"
 ---
-# <a name="providing-different-types-of-support-to-your-customers"></a>Bereitstellen verschiedener Support Typen für Ihre Kunden
+# <a name="providing-different-types-of-support-to-your-customers"></a>Bereitstellen verschiedener Supporttypen für Ihre Kunden
 
 **Zielgruppe**
 

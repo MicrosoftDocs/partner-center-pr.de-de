@@ -160,6 +160,8 @@
           href: create-user-accounts-and-set-permissions.md
         - name: Zuweisen von Rollen zu Benutzern
           href: permissions-overview.md
+        - name: Suchen nach Ihrer Rolle
+          href: find-your-role.md
         - name: Control Panel Vendor
           href: enroll-as-cpv.md
         - name: Zurücksetzen des Benutzerkennworts
@@ -356,8 +358,9 @@
         - name: Häufig gestellte Fragen zu Auszahlungen
           href: payout-faq.md
 - name: Kontakt zu Kunden
-  href: customer-accounts.md
   items:
+    - name: Kontakt zu Ihren Kunden
+      href: connect-with-your-customers.md
     - name: Neuen Kunden hinzufügen
       href: add-a-new-customer.md
     - name: Beantragen einer Vertriebspartnerschaft mit einem Kunden

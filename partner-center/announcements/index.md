@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 129db0715b52a55098ce4479fb3784506810543b
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.openlocfilehash: eae97e29d6d29b1cd2614755a87ccafaf0b2063b
+ms.sourcegitcommit: 03204eb214b4b43c308db12c69631f5fd3605510
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844674"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92081369"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,9 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Oktober 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+|Funktionen|[Update vom November 2020: Leitfaden für Onlinedienste und Softwarekanalautorisierung](2020-october.md#11)|14. Oktober|
+|Angebote/Märkte|[Einführung von Microsoft 365 Business Voice für gemeinnützige Organisationen](2020-october.md#10)|12. Oktober|
+|Angebote/Märkte|[Promotions für Microsoft 365-Audiokonferenzen jetzt und für Microsoft 365 Business Voice in Kürze verfügbar](2020-october.md#9)|9\. Oktober|
 |Funktionen|[Vereinfachte Darstellung der Azure-Apps in Azure Marketplace](2020-october.md#8)|7\. Oktober|
 |Angebote/Märkte|[Einführung der Premium-SKU für Microsoft Teams-Räume](2020-october.md#7)|5\. Oktober|
 |Angebote/Märkte|[Microsoft-Anrufpläne jetzt in neuen Märkten verfügbar](2020-october.md#6)|2\. Oktober|

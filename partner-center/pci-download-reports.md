@@ -1,7 +1,7 @@
 ---
-title: Insights-Dashboard herunterladen.
+title: Insights-Download-Berichts Dashboard
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erkunden Sie das Unified Reporting-Dashboard für Partner Center.
@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 311cff645487d613ed23d2109ed195822f8e021a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e59ace7ab52b7c08fb824e62f72b60dd1ce4df25
+ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436679"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92100760"
 ---
 # <a name="download-reports"></a>Berichte herunterladen
 
@@ -34,7 +34,7 @@ Um einen Bericht zu generieren, wählen Sie **zuerst den Bericht aus der Dropdow
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="Neuen Bericht erstellen":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Generierte Berichte":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Neuen Bericht erstellen":::
 
 >[!NOTE] 
 >Nur die Benutzer, die als Executive-Bericht-Viewer dienen, können Berichte herunterladen. Weitere Informationen zum rollenbasierten Zugriff auf die Insights-Dashboardberichte finden Sie unter [PCI-Rollen](pci-roles.md). 
@@ -51,13 +51,13 @@ In den **Abonnement Details** finden Sie Informationen zu den vom Partner verkau
 
 **Azure-Nutzung** bietet Details zur Azure-Nutzung. Diese Details gelten für die Azure-Abonnements, die vom Partner verkauft oder verwaltet werden. Die Nutzungs Details werden nach der Kategorie "Meter Kategorie" und anderen Schlüssel Dimensionen aufgeteilt. Der Bericht wird monatlich aggregiert.
 
-**Office 365-die Lizenz Verwendung** bietet die Nutzungs Details von O365-Lizenzen, die vom Partner verkauft oder verwaltet werden. Außerdem werden Kundeninformationen und Schlüsselmetriken, wie z. b. aktive Berechtigungen, qualifizierte Berechtigungen usw., bereitstellt. Der Bericht wird monatlich aggregiert.
+**Office 365-die Lizenz Verwendung** bietet die Nutzungs Details von O365-Lizenzen, die vom Partner verkauft oder verwaltet werden. Außerdem werden Kundeninformationen und Schlüsselmetriken wie z. b. monatlich aktive Benutzer (Mau), qualifizierte Berechtigungen usw. bereitstellen. Der Bericht wird monatlich aggregiert.
 
-**Enterprise Mobility – die Lizenz Verwendung** bietet die Nutzungs Details von Enterprise Mobility-Lizenzen, die vom Partner verkauft oder verwaltet werden. Außerdem werden Kundeninformationen und Schlüsselmetriken, wie z. b. aktive Berechtigungen, qualifizierte Berechtigungen usw., bereitstellt. Der Bericht wird monatlich aggregiert.
+**Enterprise Mobility – die Lizenz Verwendung**  bietet die Nutzungs Details von Enterprise Mobility-Lizenzen, die vom Partner verkauft oder verwaltet werden. Außerdem werden Kundeninformationen und Schlüsselmetriken wie z. b. monatlich aktive Benutzer (Mau), qualifizierte Berechtigungen usw. bereitstellen. Der Bericht wird monatlich aggregiert.
 
-**Dynamics 365 – die Lizenz Verwendung** bietet die Nutzungs Details von D365-Lizenzen, die vom Partner verkauft oder verwaltet werden. Außerdem werden Kundeninformationen und Schlüsselmetriken, wie z. b. aktive Berechtigungen, qualifizierte Berechtigungen usw., bereitstellt. Der Bericht wird monatlich aggregiert.
+**Dynamics 365 – die Lizenz Verwendung** bietet die Nutzungs Details von D365-Lizenzen, die vom Partner verkauft oder verwaltet werden. Außerdem werden Kundeninformationen und Schlüsselmetriken wie z. b. monatlich aktive Benutzer (Mau), qualifizierte Berechtigungen usw. bereitstellen. Der Bericht wird monatlich aggregiert.
 
-Die **Verwendung von Power BI** Lizenzen enthält die Nutzungs Details Power BI Lizenzen, die vom Partner verkauft oder verwaltet werden. Außerdem werden Kundeninformationen und Schlüsselmetriken, wie z. b. aktive Berechtigungen, qualifizierte Berechtigungen usw., bereitstellt. Der Bericht wird monatlich aggregiert.
+Die **Verwendung von Power BI** Lizenzen enthält die Nutzungs Details Power BI Lizenzen, die vom Partner verkauft oder verwaltet werden. Außerdem werden Kundeninformationen und Schlüsselmetriken wie z. b. monatlich aktive Benutzer (Mau), qualifizierte Berechtigungen usw. bereitstellen. Der Bericht wird monatlich aggregiert.
 
 **Schulungen** enthalten Details wie Prüfungen, Zertifizierungen, Bewertungen, Spuren, Kurse, die von Mitarbeitern des Partners abgeschlossen oder übernommen wurden.
 

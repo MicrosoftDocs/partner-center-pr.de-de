@@ -1,18 +1,18 @@
 ---
 title: Details zu Auszahlungs Richtlinien-Microsoft Commercial Marketplace
-description: Details zu kommerziellen Marketplace-Auszahlungs Richtlinien, einschließlich Zeitpläne und neuausladung.
+description: Erfahren Sie mehr über Details im Zusammenhang mit kommerziellen Marketplace-Auszahlungs Richtlinien, einschließlich Zeitplänen und erneuter Überladung.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 09/28/2020
-ms.openlocfilehash: 24436238cb28f4ef1b02afc4e2f4224d1440805c
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: eec5f85f38280757bc1e5d5c36a4dd1ac5ce8d22
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591110"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174919"
 ---
 # <a name="payout-policy-details"></a>Auszahlungsrichtliniendetails
 

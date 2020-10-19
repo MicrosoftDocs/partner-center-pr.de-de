@@ -1,18 +1,18 @@
 ---
 title: Migrieren von kaizala pro-Abonnements zu Microsoft365
-description: Erfahren Sie, wie Sie kaizala pro-Abonnements zu Microsoft365-oder Office 365-Versionen migrieren.
+description: Erfahren Sie, wie Sie kaizala pro-Abonnements zu Microsoft365-oder Office 365-Versionen migrieren. Lesen Sie diesen Artikel, um weitere Informationen zum Übergang ihrer Kunden zu erhalten.
 ms.topic: article
 ms.service: partner-dashboard
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 842f4c0f88eec370821fa05c40cfadeee7fee12a
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84611236"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175175"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>Migrieren von eigenständigen kaizala pro-Abonnements zu Microsoft365-oder Office 365-Versionen
 
@@ -29,22 +29,22 @@ Die E4-Abonnements werden auf den `auto renew=False` 1. Juli 2020 festgelegt. Si
 Mit den neuen Plänen können Ihre Kunden in Microsoft 365 neuere Features und Funktionen nutzen. Preisdetails finden Sie in der Preisliste und der Angebotslistenmatrix in Partner Center.
 
 - [**Microsoft 365 für Unternehmen**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2), einschließlich:  
-   - Microsoft 365 Business Basic
-   - Standard Microsoft 365 Business
+   - Microsoft 365 Business Basic
+   - Microsoft 365 Business Standard
    - Microsoft 365 Business Premium
     
 - [**Microsoft 365 für Frontline**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab), einschließlich:
-   - Microsoft 365 F3 (früher Microsoft 365 F1) und Office 365 F3
+   - Microsoft 365 F3 (ehemals Microsoft 365 F1) und Office 365 F3
     
 - [**Microsoft 365 für Unternehmen**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans), einschließlich: 
-   - Office 365 E1
-   - Microsoft 365 E3 und Office 365 E3
-   - Microsoft 365 E5 und Office 365 E5
+   - Office 365 E1
+   - Microsoft 365 E3 and Office 365 E3
+   - Microsoft 365 E5 und Office 365 E5
 
 - [**Microsoft 365 für Bildungseinrichtungen**](https://www.microsoft.com/education/buy-license/microsoft365), einschließlich: 
-    - Microsoft 365 a1 und Office 365 a1
-    - Microsoft 365 a3 und Office 365 a3
-    - Microsoft 365 a5 und Office 365 a5
+    - Microsoft 365 A1 und Office 365 A1
+    - Microsoft 365 A3 und Office 365 A3
+    - Microsoft 365 A5 und Office 365 A5
 
 ## <a name="transition-customers-to-new-product-plans"></a>Migrieren von Kunden zu neuen Produktplänen
 
@@ -75,7 +75,7 @@ Ihr Kunde sollte nun sowohl alte als auch neue Abonnements haben, das alte, eige
 
 3. Deaktivieren Sie auf der Seite **Lizenzen verwalten** das Kontrollkästchen für die eigenständige kaizala pro-Lizenz, und wählen Sie einen neuen Dienstplan für das Abonnement aus, zu dem der Kunde wechselt.
 
-4.  Klicken Sie auf **Senden**. Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt. Führen Sie denselben Prozess für andere Benutzer durch, die Lizenzzuweisungen benötigen.
+4.  Klicken Sie auf **Submit** (Senden). Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt. Führen Sie denselben Prozess für andere Benutzer durch, die Lizenzzuweisungen benötigen.
 
 ### <a name="c-cancel-old-subscription"></a>C. Stornieren des alten Abonnements
 
@@ -85,6 +85,6 @@ Nachdem Sie die Benutzerlizenz zum neuen Dienst migriert haben, können Sie das 
 
 2.  Legen Sie auf der Seite mit den Abonnementdetails das Abonnement auf **Ausgesetzt** fest.
 
-3.  Klicken Sie auf **Senden**.
+3.  Klicken Sie auf **Submit** (Senden).
 
 Das alte Abonnement ist nun ausgesetzt, und das neue Abonnement ist aktiv. Die Bereitstellung des ausgesetzten Abonnements wird nach 120 Tagen automatisch aufgehoben. Für den Kunden fallen für das alte Abonnement keine zusätzlichen Kosten an.

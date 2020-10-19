@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wann Sie ein Kundendienst Problem an Microsoft eskalieren und wie Sie ein Support Ticket einreichen.
+description: Erfahren Sie, wann Sie ein Kundendienst Problem an Microsoft eskalieren und wie Sie ein Support Ticket für verschiedene Typen von Microsoft-Diensten einreichen.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73773101eda7dc9ad40b8a579ea3ba441739e931
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999784"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175087"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Melden eines Dienst Problems im Namen eines Kunden, einschließlich des Zeit-und Vorgehensweise
 
@@ -100,7 +100,7 @@ So finden Sie Kontaktdaten des ISV:
     - Eine Support-E-Mail-Adresse
     - Eine Supportrufnummer
 
-## <a name="faq"></a>FAQ
+## <a name="faq"></a>Häufig gestellte Fragen
 
 Im folgenden finden Sie häufig gestellte Fragen zu Dienst Anforderungen, die Sie im Auftrag eines Kunden einreichen können. 
 

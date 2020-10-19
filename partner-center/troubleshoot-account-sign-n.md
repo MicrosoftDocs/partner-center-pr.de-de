@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Beheben von Problemen bei der Anmeldung in Partner Center
+description: Beheben Sie Probleme bei der Registrierung beim Partner Center. Antworten behandeln Probleme mit Zahlungsmethoden, vergessen Kenn Wörter und vieles mehr.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 403899b73dda09dded582c94cabe4219ef56c568
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000614"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174838"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Behandeln von Problemen mit der Konto Einrichtung oder der MPN-Erneuerung
 
@@ -31,7 +31,7 @@ Hier finden Sie einige Vorschläge zur Problembehandlung bei häufigen Problemen
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Was geschieht, wenn Sie vom Partner Mitgliedschafts Center migrieren und keine Firmen Informationsfelder bearbeiten können.
 
-In Fällen, in denen Ihr Unternehmen bereits in Partner Center (z. –. CSP-Konto) vorhanden ist, wird Ihnen ein Schreib geschützter Bildschirm angezeigt, auf dem alle Informationen zu Ihrem Unternehmen angezeigt werden, wie es im Partner Center vorhanden ist.
+In Fällen, in denen Ihr Unternehmen bereits in Partner Center (z. –. CSP-Konto) vorhanden ist, wird Ihnen ein Schreib geschützter Bildschirm angezeigt. Auf diesem Bildschirm werden alle Informationen zu Ihrem Unternehmen angezeigt, so wie es im Partner Center vorhanden ist.
 
 Die Details auf diesem Bildschirm können nicht geändert werden. Dies ist Entwurfs bedingt und kein Fehler.
 
@@ -40,8 +40,7 @@ Wählen Sie **annehmen** und **fort** fahren aus.
 
 ### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>, Wenn die IT-Abteilung die **Anmeldung für Partner Center**ausgeschaltet hat.
 
-
-Diese Meldung wird angezeigt, weil virale Benutzer deaktiviert sind oder die virale Registrierung für den Azure AD Mandanten deaktiviert ist. Der globale Administrator für Ihr Azure AD Konto kann erforderliche Features aktivieren, indem Sie den folgenden PowerShell-Befehl ausführen:
+Diese Meldung wird angezeigt, weil virale Benutzer deaktiviert sind oder wenn die virale Registrierung für den Azure AD Mandanten deaktiviert ist. Der globale Administrator für Ihr Azure AD Konto kann erforderliche Features aktivieren, indem Sie den folgenden PowerShell-Befehl ausführen:
 
 **Set-msolcompanysettings-zustellwemailverifiedusers $true-allowadhocabonnements $true**
 
@@ -49,9 +48,9 @@ Weitere Informationen finden Sie [unter Self-Service](/azure/active-directory/us
 
 ## <a name="you-forgot-your-password"></a>Sie haben Ihr Kennwort vergessen.
 
-Wenn Sie Ihr Kennwort vergessen haben, wählen Sie auf der Anmeldeseite den Link **kein Zugriff auf Ihr Konto?** aus, um Ihr Kennwort zurückzusetzen, oder bitten Sie Ihren globalen Administrator, Ihnen neue Anmelde Informationen zuzuweisen.
+Wenn Sie Ihr Kennwort vergessen haben, wählen Sie auf der Anmeldeseite den Link **kein Zugriff auf Ihr Konto?** aus. Mit dieser Option können Sie Ihr Kennwort zurücksetzen oder ihren globalen Administrator bitten, Ihnen neue Anmelde Informationen zuzuweisen.
 
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Auf dem Bildschirm "erzählen Sie uns von Ihrem Unternehmen" erhalten Sie den Fehler "ein Fehler ist aufgetreten".
+## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>Auf der QuickInfo zu Ihrem Unternehmen erhalten Sie den Fehler "ein Fehler ist aufgetreten".
 
 Diese Fehlermeldung wird normalerweise angezeigt, wenn Sie versehentlich Sonderzeichen, Leerzeichen oder Ländercode in der Telefonnummer Ihres Unternehmens verwenden. Der im Feld für die Telefonnummer eingegebene Wert darf maximal 10 Zeichen enthalten.
 

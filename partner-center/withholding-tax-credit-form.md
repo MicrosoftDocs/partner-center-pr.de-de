@@ -2,19 +2,19 @@
 title: Erhalten Sie eine Gutschrift für die Steuer
 ms.topic: article
 ms.date: 06/05/2020
-description: Erhalten von Gutschriften in Ihrem Partner Center-Konto für die Steuerverweigerung
+description: Erhalten Sie eine Gutschrift für Ihr Partner Center-Konto für die Steuerverweigerung. Die Informationen umfassen die Schritte zum Übermitteln einer steuerungskentungs Anforderung.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98318b193691ebb50011a66c9caadd2f1ac61e8d
-ms.sourcegitcommit: d407cdf36ddb634cf209579797b08fd81cf453ea
+ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/15/2020
-ms.locfileid: "88251271"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174933"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Erhalten von Gutschriften in Ihrem Partner Center-Konto für die Steuerverweigerung
 
@@ -45,9 +45,7 @@ Führen Sie die folgenden Schritte aus, um eine neue Steuer gegen übereinhaltun
 
 4. Überprüfen Sie die Rechnungsdetails, um sicherzustellen, dass Sie die Anforderung für die richtige Rechnung einreichen.
 
-   :::image type="content" source="images/wht2.png" alt-text="Ausführliche Informationen zu Steuerinformationen für eine Rechnung":::
-
-5. Geben Sie unter **Steuern der Steuerinformationen**das Ergebnis "Gesamtsumme" ein. Die "Summe der Summe" ist der Betrag, den Sie erwarten.
+   :::image type="content" source="images/wht2.png" alt-text="Übermitteln von neuen Steuermitteln für eine Rechnung" ist der Betrag, den Sie erwarten.
 
 6. **Fügen** Sie ein Steuer Zertifikat an. Sie müssen eine **digitale Kopie** Ihres Zertifikats für die zurück **Haltung** von Steuer Zertifikaten in Ihre Steuern. Sie haben dieses Zertifikat von Ihrer lokalen Steuerbehörde erhalten, wenn Sie Ihre Steuern an Ihre lokale Steuerbehörde bezahlen. Der Rechnungs Steuerungs Betrag im Steuer Zertifikat für die Rechnungsstellung muss mit dem Gesamtbetrag in der steuerungskennisanforderung identisch sein.
 

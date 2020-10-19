@@ -1,6 +1,6 @@
 ---
 title: Partner Center Insights-cloudascent-Neigungs Berichte
-description: Erfahren Sie mehr über die cloudascent-Neigungs Berichte im Partner Center-Dashboard.
+description: Erfahren Sie mehr über die cloudascent-Neigungs Berichte in Partner Center. Enthält Informationen über die Neigung eines Kunden, Microsoft-Produkte zu erwerben.
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 09/18/2020
-ms.openlocfilehash: 510f85b053ec17fa0a2a66217a19c006e7ca2bc9
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: fd017884c29df3874a06e8c4213c6fe5f05a8995
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "90811350"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175286"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>Im Partner Center-Dashboard verfügbare cloudascent-Neigungs Berichte
 
@@ -40,14 +40,14 @@ Das Segment Small to Mittel Business (SMB) ist weiter in drei unterschiedliche u
 
    Wir definieren Top nicht verwaltete zwei Möglichkeiten:
 
-   - **Top nicht verwaltetes Benutzer basiertes**– umfasst Konten mit 300 oder mehr Mitarbeitern. Benutzerbasierte Konten sind hervorragend für den erstmaligen Kauf oder die Erweiterung von benutzerbasierten Abonnement Produkten wie M365, D365 oder Surface geeignet.
+   - **Top nicht verwaltetes Benutzer basiertes**– umfasst Konten mit 300 oder mehr Mitarbeitern. User-Based Konten sind hervorragend für den erstmaligen Kauf oder die Erweiterung von benutzerbasierten Abonnement Produkten wie M365, D365 oder Surface geeignet.
    - **Top nicht verwaltetes serverbasiertes** – schließt Konten mit Azure-Potenzial ein, das größer als $10K ist. Compute-basierte Konten enthalten bereits vorhandene Azure. Konten mit erheblichem Potenzial für das zukünftige Jahr und Konten, die noch Azure erwerben, aber ein Potenzial für Azure haben, das größer als $10K ist.
 
 2. **Mittelständische Unternehmen** umfassen vorhandene Kunden und Perspektiven Konten mit 25 bis 300 Mitarbeitern.
 
 3. **Small Business** umfasst alle verbleibenden Unternehmen mit weniger als 25 Mitarbeitern.
 
-:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Customer by SMC-Typ.":::
+:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Screenshot des Übersichts Dashboards für Kunden Chancen.":::
 
 Die meisten **nicht verwalteten** und **mittelständischen unter** Segmente stellen High-Life-Time-Kunden (LTV)-Kunden für Microsoft und Microsoft-Partner dar. Daher sind Sie die führenden Schwerpunktbereiche für das Wachstum in diesem Segment. In diesen beiden unter Segmenten sind wir besser positioniert, um den Socket mit M365 zu erwerben, mit D365/Azure Line of Business (LOB)-apps weiter zu monetarisieren und ein hohes LTV für Microsoft zu realisieren.
 
@@ -55,7 +55,7 @@ Heute haben wir zwei wichtige Bereiche von Verkaufschancen – 1. Unsere Kunden 
 
 Der folgende Screenshot stellt die drei SMB-unter Segmente und die optimierten Routen zu Market dar. Cloudascent priorisieren Sie die Profilerstellung, Bewertung und Modellierung aller obersten, nicht verwalteten und mittelgroßen Geschäftskonten.
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Screenshot der SMB-unter Segmente.":::
+:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Screenshot des Übersichts Dashboards für Kunden Chancen.":::
 
 ## <a name="cloudascent-machine-learning"></a>Cloudascent-Machine Learning
 
@@ -67,7 +67,7 @@ SMB nutzt Machine Learning-Technologie, um Kunden Vorhersagen für Umsätze und 
 
 - **Optimierung**: das Machine Learning System optimiert die Modelle, indem die Transaktionsdaten monatlich und die Abonnement Daten vierteljährlich genutzt werden.  Mithilfe der Win/Loss-Daten passt der Machine Learning die Algorithmen an und überprüft, ob die Modelle erwartungsgemäß funktionieren, indem Sie Cluster Empfehlungen mit Verkaufschancen in MSX vergleicht.
 
-:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Screenshot von SMB Machine Learning.":::
+:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Screenshot des Übersichts Dashboards für Kunden Chancen.":::
 
 ## <a name="cloudascent-propensity"></a>Cloudascent-Neigung
 
@@ -91,26 +91,13 @@ Mithilfe von Signalen, die mithilfe von Webcrawlern und Daten aus verschiedenen 
 
    - Die beabsichtigte Bewertung wird monatlich aktualisiert.
 
-   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="Cloudascent-SMB-Vorhersagemodelle.":::
-
-3. Clustering
-
-   Die Signale für fit und Intent werden in einem Clustering-Ergebnis zusammengefasst. Cloudascent verfügt über vier Cluster:
-
-      - Act-Kunden
-      - Evaluieren: Marketing bereite Kunden
-      - Kampagnen zur Sensibilisierung von Pflege Vorzügen
-      - Bildung: Schulungen und Überwachen der Absicht
-
-   Das Clustering ermöglicht es Benutzern, auf Grundlage von Segment Faktoren auf bestimmte Kunden für Vertriebs-und Marketinginitiativen zu abzielen, z. b.: Produkt, vertikal, Industrie und vertikal.
-
-   Die Registerkarte **Modell Modell** in den cloudascent-Arbeitsmappen teilt die Neigung und den geschätzten Leerraum. Um das Clustering von "fit" und "Intent" zu definieren, werden die folgenden Schritte durchlaufen:
+   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="Screenshot des Übersichts Dashboards für Kunden Chancen." zu definieren, werden die folgenden Schritte durchlaufen:
 
       1. Mithilfe von ml-Modellen berechnen wir zuerst die Customer fit-Bewertung und die Intent-Bewertung auf einer Skala von 100.  Genaue Ergebnisse variieren basierend auf ml-Modellen.  Folgende Beispiel Ergebnisse:
 
          |**Klassifizierung**|**Wert**|
          |---------|:---------|
-         |Hoch|75-100|
+         |High|75-100|
          |Medium|55-74|
          |Niedrig|30 - 54|
          |Sehr niedrig|0 - 29|
@@ -121,7 +108,7 @@ Mithilfe von Signalen, die mithilfe von Webcrawlern und Daten aus verschiedenen 
 
       4. Schließlich gruppieren Sie diese Segmente, um Cluster zu bilden.  Beispiel: a1, a2, a3, A4 bildet den Act Now-Cluster.
 
-         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="Cloudascent-Modelle.":::
+         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="Screenshot des Übersichts Dashboards für Kunden Chancen.":::
 
    Für diese Kunden empfiehlt es sich, jetzt agieren und Kunden zu evaluieren.
 
@@ -129,7 +116,7 @@ Mithilfe von Signalen, die mithilfe von Webcrawlern und Daten aus verschiedenen 
 
 Die folgende Grafik enthält eine Ansicht der einzelnen Modell Modell in cloudascent:
 
-:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="Cloudascent-neiglichkeits Modell.":::
+:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="Screenshot des Übersichts Dashboards für Kunden Chancen.":::
 
 Leerraum Modelle bestehen aus Vorhersagen für vorhandene Microsoft-Kunden, bei denen Sie nicht über ein Produkt und/oder Kunden für neue potenziellen Kunden verfügen.
 

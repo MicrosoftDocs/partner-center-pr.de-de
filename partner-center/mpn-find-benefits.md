@@ -4,19 +4,19 @@ ms.topic: how-to
 ms.date: 09/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Erfahren Sie, wie Sie Ihre MPN-Vorteile im Partner Center-Dashboard finden.
+description: Erfahren Sie, wie Sie Ihre MPN-Vorteile im Partner Center-Dashboard finden. Enthält Informationen dazu, wie Sie Ihre Zugriffs-ID und ihre Vertrags-ID für technische Vorteile finden.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 938197707c7a27e1485e9d22030cc4a94094197d
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427117"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175321"
 ---
-# <a name="locate-your-microsoft-partner-network-benefits"></a>Suchen Sie Ihre Microsoft Partner Network Vorteile 
+# <a name="locate-your-microsoft-partner-network-benefits"></a>Ermitteln Ihrer Microsoft Partner Network-Vorteile 
 
 ### <a name="applies-to"></a>Gilt für:
 
@@ -74,7 +74,7 @@ Technische Vorteile finden Sie in den Microsoft-Produktsupport-IDs, z. b. **Zugr
 
    Sie sollten die jeweilige Produktsupport **Vertrags-ID** und die **Zugriffs-ID** sehen, die diesem Vorteil zugewiesen ist.  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Beispiel für Gold-Kernkompetenz Support technischer Vorteil, der Microsoft-Produktsupport-IDs wie Vertrags-ID und Zugriffs-ID":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Erweiterte Vorteile":::
 
    > [!NOTE]
    > Verfolgen Sie diese Support-IDs. Bestimmte Systeme können diese Abfragen, wenn Sie (oder einer der Benutzer Ihres Unternehmens) eine Supportanfrage im Zusammenhang mit einem bestimmten technischen Vorteil protokollieren. Alle Benutzer Ihres Unternehmens verwenden wahrscheinlich die gleiche Zugriffs-ID und Vertrags-ID.

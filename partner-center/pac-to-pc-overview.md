@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Die Funktionen des Office 365 Admin Center für Partner werden in Partner Center verschoben.
+description: Die Funktionen des Office 365 Admin Center für Partner werden in Partner Center verschoben. Erfahren Sie, was dies bedeutet und wie Sie Dinge in Partner Center ausführen können.
 author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31bf26495f2429402b600324353017895ca2af8a
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: da6a3ab2a2fab99f49b9f5ba22824e5e61f6d482
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220738"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174905"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Umstellung vom Admin Center für Partner auf Partner Center
 

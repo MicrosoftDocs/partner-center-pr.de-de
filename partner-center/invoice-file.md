@@ -2,17 +2,17 @@
 title: Verstehen der Felder in Abrechnungs Rechnungen
 ms.topic: article
 ms.date: 05/18/2020
-description: Machen Sie sich mit den Feldern in der Rechnungs Datei für die Partner Center-Abrechnung vertraut.
+description: Machen Sie sich mit den Feldern in der Rechnungs Datei für die Partner Center-Abrechnung vertraut. zu den Informationen gehören Felder und Definitionen für alle Rechnungs Felder und einmalige Gebühren Felder.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc2515a2658fbd4f47f45bcbe21dff710ed39ae0
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 634dc8c9f1d21b62aa0a7e75eb0d31742cd17729
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444951"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175337"
 ---
 # <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>Abrechnungs Rechnungen für Partner Center: erfahren Sie, wie Sie die Abrechnungs-und einzeitangabefelder lesen.
 

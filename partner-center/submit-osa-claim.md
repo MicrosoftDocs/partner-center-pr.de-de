@@ -1,20 +1,20 @@
 ---
-title: Erstellen einer Kunden Zuordnung
+title: Erstellen einer Kundenzuordnung
 ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Erstellen Sie Kunden Zuordnungen mit dem Anspruchs enden Partner of Record (cpor)-Modell. Hilft bei der Verwaltung von Vertriebs-, Nutzungs-und & Anreizen für Microsoft 365-und Dynamics 365-Kunden.
+description: Erstellen Sie Kunden Zuordnungen mit dem Anspruchs enden Partner of Record (cpor)-Modell. Hilft bei der Verwaltung von Verkäufen, Nutzung und Anreizen für Microsoft 365 & Dynamics 365-Kunden.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1fc528b0a00fab42d7ddfcf8dae79d1eae1e2967
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714354"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174991"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Kunden Zuordnungen über das beanspruchte cpor-Modell (Partner of Record) für Microsoft 365 und Dynamics 365
 
@@ -26,10 +26,10 @@ ms.locfileid: "90714354"
 
 - Incentiveadministrator
 
-Am 1. Oktober 2019 begann Microsoft, das Anspruchs Partner of Record-Modell (cpor) zu verwenden, um die Zuordnungen zu verwalten, die Sie mit Ihren Microsoft 365-und Dynamics 365-Kunden in Bezug auf die IT-Microsoft 365 und OSU-Business-Anwendungs Anreize haben.
+Am 1. Oktober 2019 begann Microsoft, das Claim Partner of Record-Modell (cpor) zu verwenden, um die Zuordnungen zu verwalten, die Sie mit Ihren Microsoft 365-und Dynamics 365-Kunden in Bezug auf die Online Services Advisory (OSA) Sell, das OSU-Microsoft 365 und OSU-Business Anwendungs Incentives haben.
 
 >[!Important]
-> Kunden Zuordnungs Ansprüche (cpor) gelten nur für die Online Services Advisory (OSA) Sell-Microsoft 365 und OSU-Business Application Incentive-Programme. Wenn Sie einen Co-op-Anspruch für ein anderes Programm, z. b. cloudlösungsanbieter, verwalteten Händler, Hosting oder Oberfläche, übermitteln, lesen Sie den hier beschriebenen Co-op-Anspruchs Prozess. <br><br>Wenn Sie Ihren Anspruch einreichen, wird er von Microsoft überprüft. Wir werden möglicherweise an dieser Stelle Weitere Informationen anfordern. Wir benachrichtigen den Kunden auch über Ihre Zuordnungs Anforderung. Kunden haben fünf Werktage, um sich abzumelden. Wenn Sie sich nicht entscheiden, ist die Zuordnung zu diesem spezifischen Mandanten und der Arbeitsauslastung offiziell. An diesem Punkt haben Sie Zugriff auf die Nutzungsdaten des Kunden. 
+> Kunden Zuordnungs Ansprüche (Customer Association, cpor) gelten nur für die Online Services Advisory (OSA) Selling-Microsoft 365 und OSU-Business Application Incentive-Programme. Wenn Sie einen Co-op-Anspruch für ein anderes Programm, z. b. cloudlösungsanbieter, verwalteten Händler, Hosting oder Oberfläche, übermitteln, lesen Sie den hier beschriebenen Co-op-Anspruchs Prozess. <br><br>Wenn Sie Ihren Anspruch einreichen, wird er von Microsoft überprüft. Wir werden möglicherweise an dieser Stelle Weitere Informationen anfordern. Wir benachrichtigen den Kunden auch über Ihre Zuordnungs Anforderung. Kunden haben fünf Werktage, um sich abzumelden. Wenn Sie sich nicht entscheiden, ist die Zuordnung zu diesem spezifischen Mandanten und der Arbeitsauslastung offiziell. An diesem Punkt haben Sie Zugriff auf die Nutzungsdaten des Kunden. 
 
 Zum Vervollständigen eines Anspruchs benötigen Sie die folgenden Informationen:
 
@@ -63,9 +63,9 @@ Außerdem sollten Sie die folgenden Punkte kennen:
 
 - Wenn Sie über vorhandene Zuordnungen mit Dynamics 365 oder Power BI Kunden verfügen, bleiben diese Zuordnungen bis zum Ablauf Ihrer Abonnements gültig.
 
-- Ein Kunde kann über mehrere Partner verfügen, aber die einzelnen Arbeits Auslastungen (für OSU-Microsoft 365) oder das Abonnement (für OSA-Sell und OSU-Business Applications) können nur einem Partner zugeordnet werden.
+- Ein Kunde kann über mehrere Partner verfügen, aber die einzelnen Arbeits Auslastungen (für OSU-Microsoft 365) oder das Abonnement (für OSA-Sell-und OSU-Business Anwendungen) können nur einem Partner zugeordnet werden.
 
-## <a name="create-a-customer-association"></a>Erstellen einer Kunden Zuordnung
+## <a name="create-a-customer-association"></a>Erstellen einer Kundenzuordnung
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 

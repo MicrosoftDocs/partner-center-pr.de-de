@@ -2,18 +2,18 @@
 title: FAQ zu Incentives
 ms.topic: how-to
 ms.date: 08/31/2020
-description: Häufig gestellte Fragen zu Microsoft-Incentives
+description: Häufig gestellte Fragen zu Microsoft-Incentives. Dieser Artikel enthält Fragen zu Benutzer Rollen, zur Registrierung oder zu den Vorgehensweisen für Fehlermeldungen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 2fb8ec1bd957f185853db3f220ac1eb17a697927
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 9fca257d84c090a3d76807c703bae99449b79cdd
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220588"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175207"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Häufig gestellte Fragen zu Incentives
 

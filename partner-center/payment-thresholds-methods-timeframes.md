@@ -1,18 +1,18 @@
 ---
 title: 'Auszahlungsdetails nach Region: Kommerzieller Microsoft-Marketplace'
-description: Erfahren Sie mehr über Zahlungs Zeiträume und die Microsoft Online Stores, von denen Sie Zahlungen erhalten können, die je nach Land, Region und Auszahlungs Kontotyp variieren können.
+description: Erfahren Sie mehr über Zahlungs Zeiträume und die Microsoft-Online Filialen, in denen Sie Zahlungen erhalten können. Diese können je nach Land, Region und Auszahlungs Kontotyp variieren.
 author: mingshen-ms
 ms.author: mingshen
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 09/02/2020
-ms.openlocfilehash: 104fecead2d88ffbef593d6fd55c1f26056c88ad
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: cebd24d3709b622256469ab5e2af3e5cd6b80175
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335715"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175301"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Zahlungsschwellenwerte, -methoden und -zeitrahmen
 
@@ -196,4 +196,4 @@ In den folgenden Ländern und Regionen werden die oben genannten Zahlungsmethode
 
 ## <a name="next-step"></a>Nächster Schritt
 
-- [Auszahlungs Anweisungen](payout-statement.md)
+- [Auszahlungsaufstellungen](payout-statement.md)

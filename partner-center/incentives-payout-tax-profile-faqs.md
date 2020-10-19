@@ -2,18 +2,18 @@
 title: Häufig gestellte Fragen zu den Incentivezahlungen und Steuerprofilen
 ms.topic: article
 ms.date: 09/11/2020
-description: Häufig gestellte Fragen zu den Auszahlungs-und Steuer Profilen für die Anreize.
+description: Häufig gestellte Fragen zu Incentives-Auszahlungs-und Steuer Profilen. Zu den Fragen gehört, warum Sie Ihre Auszahlungs-und Steuer Profile nicht sehen können und was damit zu tun ist.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c76541295c8eb068dbde84a4f6dd6f058af37c42
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: de150c34f92fd74d7a593d90d2e23fdacc6b425d
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999304"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175344"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Häufig gestellte Fragen zu den Auszahlungs-und Steuer Profilen für die Anreize
 
@@ -65,7 +65,7 @@ Es kann jedoch Ausnahmen geben, wenn Sie Ihr Bankprofil verschiedenen Ländern o
 
 Für einen MPN-Standort erstellte Steuerprofile werden wiederverwendet und automatisch ausgefüllt, wenn derselbe MPN-Standort an einem anderen Incentives-Programm teilnimmt. Es kann jedoch Ausnahmen geben. Beispielsweise können die Auszahlungsregeln eines neuen Incentives-Programms zusätzliche Details zum Steuerprofil erfordern.  
 
-## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Ich kann mich nur bei meiner @onmicrosoft.com Domäne anmelden.   Wie sollte ich vorgehen?
+## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Ich kann mich nur bei meiner @onmicrosoft.com Domäne anmelden. Wie sollte ich vorgehen?
 
 Bitten Sie Ihren Kontoadministrator, dem AAD-Konto zusätzliche Domänen hinzuzufügen.
 

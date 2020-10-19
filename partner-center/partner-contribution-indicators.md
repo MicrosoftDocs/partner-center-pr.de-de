@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie mehr über die sieben wichtigsten Partner Beitrags Indikatoren (PCI), die Ihnen zeigen, wie Sie mit Dynamics 365 Customer Engagement oder Dynamics 365 Finance und Operations arbeiten.
+description: Erfahren Sie mehr über sieben Partner Beitrags Indikatoren (PCI), die Ihnen zeigen, wie Sie mit Dynamics 365 Customer Engagement oder Dynamics 365 Finance und Operations arbeiten.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e1c0c4e0f332e771415e9360e4eeaf756f00a8e
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714284"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175018"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Partner Beitrags Indikatoren (PCI) zeigen Partner Auswirkung auf sieben wichtige Measures des Kunden Erfolgs an
 
@@ -89,7 +89,7 @@ Jeder Indikator bringt eine Bewertung, die der Summe hinzugefügt wird. Dies sin
 |Kunden Erfolg: monatliches aktives Benutzer Wachstum  | 25 Punkte |
 
 Die folgende Abbildung bietet einen schnellen visuellen Verweis.
-:::image type="content" source="images/pci/perfnew.png" alt-text="Zeigt ein Diagramm mit maximal möglichen Bewertungen für jeden der sieben Partner Beitrags Indikatoren (PCI)." border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="Zeigt PCI-Ergebnisse, um Silver-oder Gold-Kompetenz zu erzielen." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>Schwellenwerte für jede PCI-Metrik
 
@@ -111,8 +111,8 @@ Weitere Informationen finden Sie in den folgenden Tabellen:
 | PCI-Metrik | Leistungsindikator: Netto neuer Umsatz | Leistungsindikator: neue Kunden hinzufügen | Funktions Indikator: Funktions Berater | Funktions Indikator: Wachstum des funktionalen Beraters | Funktions Indikator: Entwickler | Kunden Erfolgsindikator: neue große bereit Stellungen | Kunden Erfolgsindikator: monatliche aktive Benutzer Zunahme |
 |---|---|---|---|---|---|---|---|
 | **Maximale Anzahl von Punkten** | 10 Punkte | 10 Punkte | 15 Punkte | 15 Punkte | 5 Punkte | 20 Punkte | 25 Punkte |
-| **Entstehen** | $300.000 | 10 Punkte | 10 Punkte | *\* Siehe Hinweis* | 5 Punkte | 5 Punkte | 25% |
-| **Entwickeln** | $150.000 | 5 Punkte | 5 Punkte |*\* Siehe Hinweis* | 2 Punkte | 1 Punkt | 25% |
+| **Entstehen** | 300.000 USD | 10 Punkte | 10 Punkte | *\* Siehe Hinweis* | 5 Punkte | 5 Punkte | 25 % |
+| **Entwickeln** | $150.000 | 5 Punkte | 5 Punkte |*\* Siehe Hinweis* | 2 Punkte | 1 Punkt | 25 % |
 
 *\* Hinweis: die Wachstumsziele unterscheiden sich je nach Anzahl der baselineberater. Informationen zu Wachstumszielen finden Sie in [Tabelle 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) .*
 
@@ -122,8 +122,8 @@ Weitere Informationen finden Sie in den folgenden Tabellen:
 | PCI-Metrik | Leistungsindikator: Netto neuer Umsatz | Leistungsindikator: neue Kunden hinzufügen | Funktions Indikator: Funktions Berater | Funktions Indikator: Wachstum des funktionalen Beraters | Funktions Indikator: Entwickler | Kunden Erfolgsindikator: neue große bereit Stellungen | Kunden Erfolgsindikator: monatliche aktive Benutzer Zunahme |
 |---|---|---|---|---|---|---|---|
 | **Maximale Anzahl von Punkten** | 10 Punkte | 10 Punkte | 15 Punkte | 15 Punkte | 5 Punkte | 20 Punkte | 25 Punkte |
-| **Entstehen** | $300.000 | 3 Punkte | 15 Punkte | *\* Siehe Hinweis* | 5 Punkte | 3 Punkte | 25% |
-| **Entwickeln** | $150.000 | 1 Punkt | 5 Punkte |*\* Siehe Hinweis* | 2 Punkte | 1 Punkt | 25% |
+| **Entstehen** | 300.000 USD | 3 Punkte | 15 Punkte | *\* Siehe Hinweis* | 5 Punkte | 3 Punkte | 25 % |
+| **Entwickeln** | $150.000 | 1 Punkt | 5 Punkte |*\* Siehe Hinweis* | 2 Punkte | 1 Punkt | 25 % |
 
 *\* Hinweis: die Wachstumsziele unterscheiden sich je nach Anzahl der baselineberater. Informationen zu Wachstumszielen finden Sie in [Tabelle 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) .*
 
@@ -136,7 +136,7 @@ Weitere Informationen finden Sie in den folgenden Tabellen:
 | Entstehen | Entwickeln | Wachstum erforderlich, um alle 15 Punkte zu verdienen *
 |:---:|:---:|:---:|
 | 15-29 | 5-14 | 35 % |
-| 30–49 | 15-24 | 25% |
+| 30–49 | 15-24 | 25 % |
 | 50 und höher | 25 und höher | 15 % |
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>Ausführliche Definitionen von PCI-Metriken
@@ -313,7 +313,7 @@ In der folgenden Abbildung wird gezeigt, wie einige Bereiche und Diagramme auf d
 
 Weitere Informationen zur Verwendung dieses Bereichs finden Sie in der Sammlung von Ressourcen und Videos am Ende dieses Artikels.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="Erläuterung zum Diagramm":::
+   :::image type="content" source="images/pci/howto.png" alt-text="Zeigt PCI-Ergebnisse, um Silver-oder Gold-Kompetenz zu erzielen.":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 

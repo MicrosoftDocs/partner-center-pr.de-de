@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erkunden Sie das Partner Center-Schulungs Dashboard.
+description: Erkunden Sie das Partner Center-Schulungs Dashboard. Training ist einer der Berichte, die im Bereich Partner Center Insights (PCI) verfügbar sind.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 241f70f5abf597eccb4b85737967210c2d7728a8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 10646cb4ecc6c48c5187c96740a2c05610c9d3cc
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220718"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175258"
 ---
 # <a name="trainings-dashboard"></a>Schulungs Dashboard
 
@@ -49,16 +49,13 @@ Der Abschnitt Zusammenfassung enthält eine numerische momentaufnahmenansicht ve
 
 Die Trainingsleistung zeigt die Anzahl von Einzel Monaten und die Schulungen, die von Einzelpersonen in Ihrem Unternehmen abgeschlossen wurden. Sie wird durch Zertifizierungen, BEWERTUNGEN und Prüfungen in Form eines Diagramms für den ausgewählten Datumsbereich aufgeteilt. Die X-Achse stellt die Monate für den ausgewählten Datumsbereich dar. Die Y-Achse stellt die eindeutige Anzahl von Einzelpersonen und die Anzahl der durchgeführten Schulungen für den ausgewählten Trainingstyp dar. Klicken Sie auf die entsprechenden Registerkarten oberhalb des Diagramms, um die Aufschlüsselung nach trainingart anzuzeigen. Die Diagramm Daten können über das Download Symbol im TSV-Format für den ausgewählten Datumsbereich heruntergeladen werden.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Trainingsleistung":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Zusammenfassung":::
 
 ## <a name="individuals-performance"></a>Leistung einzelner Benutzer
 
 Der Abschnitt "Performance" (Einzelpersonen) enthält Informationen zu Schulungen, die von Einzelpersonen in Ihrem Unternehmen für den ausgewählten Datumsbereich durchgeführt werden. Suchen Sie im linken Bereich des Abschnitts nach dem Namen einer Person, und wählen Sie ihn aus. Im rechten Bereich des Abschnitts werden die Trainingsdetails für die ausgewählte Person angezeigt.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Einmalige Leistung":::
-
->[!NOTE] 
-> Der Abschnitt "Einzelleistung" steht nur Benutzern zur Verfügung, die als Viewer für ausführbare Berichte dienen. 
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Zusammenfassung" steht nur Benutzern zur Verfügung, die als Viewer für ausführbare Berichte dienen. 
 
 ## <a name="next-steps"></a>Nächste Schritte
 

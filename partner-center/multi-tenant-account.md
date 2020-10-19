@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 07/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Verwalten mehrerer Mandanten über Ihr Partner Center-Konto
+description: Erfahren Sie, wie Sie mehrere Azure AD Mandanten in Ihrem Partner Center-Konto hinzufügen, konsolidieren oder verwalten. Informieren Sie sich auch über einige der Gründe, die Sie möglicherweise tun möchten.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecdfcbd4801bee34be298030016d7366b12d7db3
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: b9379ce6b27a8ef6e5d6894a0630745794e04e04
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88846958"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175158"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Hinzufügen und Verwalten mehrerer Mandanten in Ihrem Partner Center-Konto
 
@@ -50,9 +50,7 @@ Mit diesem Feature können Sie mehrere Mandanten für Ihr Unternehmen verwalten 
 
 1. Melden Sie sich als globaler Administrator bei dem Mandanten an, den Sie zuordnen möchten, und bestätigen Sie die Zuordnung. 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Zuordnen von Mandanten bestätigen"::: 
-
-5. Nachdem Sie sich vergewissert haben, wird eine Benachrichtigung über den Hinweis " **alle** " angezeigt.  Wählen Sie **zur Mandanten Verwaltung zurückkehren aus,** damit der neu hinzugefügte Mandant aufgeführt wird. 
+:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Mandanten zuordnen" angezeigt.  Wählen Sie **zur Mandanten Verwaltung zurückkehren aus,** damit der neu hinzugefügte Mandant aufgeführt wird. 
  
 
 >[!NOTE]

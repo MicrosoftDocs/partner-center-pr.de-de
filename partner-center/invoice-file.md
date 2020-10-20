@@ -1,5 +1,5 @@
 ---
-title: Verstehen der Felder in Abrechnungs Rechnungen
+title: Verstehen der Abrechnungs Rechnungen von Partner Center
 ms.topic: article
 ms.date: 05/18/2020
 description: Machen Sie sich mit den Feldern in der Rechnungs Datei für die Partner Center-Abrechnung vertraut. zu den Informationen gehören Felder und Definitionen für alle Rechnungs Felder und einmalige Gebühren Felder.
@@ -7,14 +7,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 634dc8c9f1d21b62aa0a7e75eb0d31742cd17729
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 121b0bc756e715af358eda30eff92cba35e802ed
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175337"
+ms.locfileid: "92198006"
 ---
-# <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>Abrechnungs Rechnungen für Partner Center: erfahren Sie, wie Sie die Abrechnungs-und einzeitangabefelder lesen.
+# <a name="understand-partner-center-billing-invoice-fields"></a>Informationen zu den Feldern der Partner Center-abrechnungsrechnung
 
 **Geeignete Rollen**
 
@@ -59,7 +59,7 @@ Die folgenden Felder gelten nur für **einmalige Gebühren** in Partner Center:
 | Feld | Definition |
 | ----- | ---------- |
 | Date | Kaufdatum. |
-| BESCHREIBUNG | Produktname |
+| Beschreibung | Produktname |
 | Menge | Die Anzahl erworbener Produkte (z. b. Reservierungen). |
 | Unit price | Preis pro Produkt (z. b. eine Reservierung). |
 | Discounts | Alle anwendbaren Rabatte. |

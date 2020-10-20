@@ -1,22 +1,22 @@
 ---
-title: Verwalten von Benutzern in Kundenkonten
+title: Verwalten von Benutzern und Benutzerlizenzen für Kundenkonten
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie Benutzerkonten für einen Kunden erstellen, Benutzerlizenzen hinzufügen oder entfernen, Benutzer Kennwörter zurücksetzen, Benutzerkonten löschen oder wiederherstellen.
+description: Erfahren Sie, wie Sie Benutzer für Ihre Kunden in Partner Center verwalten, z. b. Benutzerkonten erstellen, Benutzerlizenzen hinzufügen oder entfernen, Benutzer Kennwörter zurücksetzen und Benutzerkonten löschen oder wiederherstellen.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a3febadda51094d443d83d17b640b1744a130335
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527676"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198016"
 ---
-# <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>Benutzer Verwaltungsaufgaben für Kundenkonten im Partner Center
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Verwalten von Benutzern und Benutzerlizenzen für Kundenkonten
 
 **Zielgruppe**
 
@@ -113,7 +113,7 @@ Wenn Sie dieses Konto wiederherstellen müssen, finden Sie es auf der Registerka
 
     Alle ausgewählten Benutzerkonten werden erneut auf der Seite **Benutzer und Lizenzen** angezeigt.
 
-## <a name="related-topics"></a>Zugehörige Themen
+## <a name="related-topics"></a>Verwandte Themen
 
 
 [Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer](bulk-license-provisioning-for-multiple-users.md)

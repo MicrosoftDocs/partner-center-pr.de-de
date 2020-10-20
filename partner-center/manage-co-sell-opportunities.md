@@ -9,14 +9,14 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 52f123f06da283036fa7758afd335768323594e4
-ms.sourcegitcommit: c47213f585b3cbc12ba0f7251fb44d1412815130
+ms.openlocfilehash: 4b8d849de6987e107c327d2fd2dcf892fae5a3f3
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/12/2020
-ms.locfileid: "91952376"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198036"
 ---
-# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>Verwalten von Co-Selling-Verkaufschancen in Partner Center zum Definieren von Geschäften und besseren Erfüllung der Kundenanforderungen
+# <a name="manage-co-sell-opportunities-in-partner-center"></a>Verwalten von Co-Selling-Verkaufschancen in Partner Center
 
 **Zielgruppe**
 
@@ -79,7 +79,7 @@ Geben Sie die Details des aktuellen Deals ein. Die unten definierten Felder kön
 |**Geschätztes Schluss Datum**| Obligatorisch.| Das Datum, an dem Sie den Umgang mit dem Kunden erwarten. |
 |**CRM-ID**| Optional | Markieren Sie den Umgang mit der ID der Verkaufschance im jeweiligen CRM zum Nachverfolgen.|
 |**Marketing Kampagnen-ID**| Optional | Erfassen Sie die Marketingkampagne, die zu diesem Problem geführt hat. Mit diesem Profil können Sie den ROI einer bestimmten Kampagne nachverfolgen, wenn Sie alle aus der Kampagne stammenden Geschäfte mit der gleichen ID markieren.|
-|**Hinweise**| Optional | Aktualisieren Sie alle aktuellen Informationen, um anderen Mitarbeitern Ihres Unternehmens einen Einblick in den gleichen Umgang zu bieten, oder versuchen Sie, den aktuellen Zustand des Deals zu verstehen. Sie können dies auch als Kommunikationsprotokoll für Diskussionen zwischen Microsoft-Verkäufern und anderen Partnern in Ihrem Unternehmen verwenden.|
+|**Notizen**| Optional | Aktualisieren Sie alle aktuellen Informationen, um anderen Mitarbeitern Ihres Unternehmens einen Einblick in den gleichen Umgang zu bieten, oder versuchen Sie, den aktuellen Zustand des Deals zu verstehen. Sie können dies auch als Kommunikationsprotokoll für Diskussionen zwischen Microsoft-Verkäufern und anderen Partnern in Ihrem Unternehmen verwenden.|
 
 ### <a name="add-team-members"></a>Hinzufügen von Teammitgliedern
 
@@ -158,11 +158,11 @@ Im folgenden finden Sie die Tabelle mit den Verkaufsstufen und den entsprechende
 |**Name der Verkaufsphase**|**Prozentsatz der Verkaufsphase**|**Definition der Verkaufsphase**|
 |:----|:-----|:-----|
 |Erstellt|10 %|Erstellen eines ausgehenden Deals|
-|Zulässig|10 %|Akzeptieren eines eingehenden Deals.|
+|Akzeptiert|10 %|Akzeptieren eines eingehenden Deals.|
 |Qualified|20%|Qualifizieren Sie den Wert für das Geschäft und die Kundenanforderungen, bevor Sie fortfahren.|
 |Entstehen|40%|Entwickeln Sie das Problem weiter, um die detaillierten Anforderungen zum Vorbereiten eines POC-oder anderer Artefakte zu verstehen, die für einen formalen Vorschlag erforderlich sind.|
 |Proposed|60 %|Erstellen eines formalen Angebots für den Kunden basierend auf Ihren Anforderungen.|
-|Ausgehandelt|80 %|Aushandeln der endgültigen Bedingungen basierend auf dem Vorschlag, um zum Endzustand zu gelangen – Gewinn oder Verlust des Vertrags.|
+|Ausgehandelt|80%|Aushandeln der endgültigen Bedingungen basierend auf dem Vorschlag, um zum Endzustand zu gelangen – Gewinn oder Verlust des Vertrags.|
 |Gewonnen|100 %|Markieren des Deals als gewonnen.|
 
 Wenn Sie fertig sind, können Sie eine der beiden Aktionen ausführen, bei denen das Ergebnis als &quot; **gewinnt** &quot; oder &quot; **verloren** &quot; markiert wird, um das Ergebnis zu melden.
@@ -194,11 +194,11 @@ Im folgenden finden Sie die Tabelle mit den Verkaufsstufen und den entsprechende
 |**Name der Verkaufsphase**|**Prozentsatz der Verkaufsphase**|**Definition der Verkaufsphase**|
 |:----|:-----|:-----|
 |Erstellt|10 %|Erstellen eines ausgehenden Deals|
-|Zulässig|10 %|Akzeptieren eines eingehenden Deals.|
+|Akzeptiert|10 %|Akzeptieren eines eingehenden Deals.|
 |Qualified|20%|Qualifizieren Sie den Wert für das Geschäft und die Kundenanforderungen, bevor Sie fortfahren.|
 |Entstehen|40%|Entwickeln Sie das Problem weiter, um die detaillierten Anforderungen zum Vorbereiten eines POC-oder anderer Artefakte zu verstehen, die für einen formalen Vorschlag erforderlich sind.|
 |Proposed|60 %|Erstellen eines formalen Angebots für den Kunden basierend auf Ihren Anforderungen.|
-|Ausgehandelt|80 %|Aushandeln der endgültigen Bedingungen basierend auf dem Vorschlag, um zum Endzustand zu gelangen – Gewinn oder Verlust des Vertrags.|
+|Ausgehandelt|80%|Aushandeln der endgültigen Bedingungen basierend auf dem Vorschlag, um zum Endzustand zu gelangen – Gewinn oder Verlust des Vertrags.|
 |Gewonnen|100 %|Markieren des Deals als gewonnen.|
 
 Wenn Sie fertig sind, können Sie eine der beiden Aktionen ausführen, bei denen das Ergebnis als &quot; **gewinnt** &quot; oder &quot; **verloren** &quot; markiert wird, um das Ergebnis zu melden.
@@ -227,7 +227,7 @@ Wenn der Vorgang für die Registrierung in Frage kommt, wird dem Lebenszyklus de
 
 In der folgenden Tabelle werden die Kombinationen von, die in dieser Phase des Deals eingeladen werden können, angezeigt.
 
-|**Ursprünglicher Typ**|**Wer kann eingeladen werden?**|**Hinweise**|
+|**Ursprünglicher Typ**|**Wer kann eingeladen werden?**|**Notizen**|
 |-----|:-----|:-----|
 |Privat|Microsoft und/oder andere Partner|Der Vorgang wird auf Co-Selling aktualisiert, wenn Microsoft eingeladen wird.|
 |Co-Selling|Andere Partner|Andere Partner können nur eingeladen werden, wenn Ihr Unternehmen den Vertrag initiiert hat. Partner können auf der Registerkarte eingehend nicht zu den Abschlüssen eingeladen werden.|
@@ -258,11 +258,11 @@ Im folgenden finden Sie die Tabelle mit den Verkaufsstufen und den entsprechende
 |**Name der Verkaufsphase**|**Prozentsatz der Verkaufsphase**|**Definition der Verkaufsphase**|
 |:----|:-----|:-----|
 |Erstellt|10 %|Erstellen eines ausgehenden Deals|
-|Zulässig|10 %|Akzeptieren eines eingehenden Deals.|
+|Akzeptiert|10 %|Akzeptieren eines eingehenden Deals.|
 |Qualified|20%|Qualifizieren Sie den Wert für das Geschäft und die Kundenanforderungen, bevor Sie fortfahren.|
 |Entstehen|40%|Entwickeln Sie das Problem weiter, um die detaillierten Anforderungen zum Vorbereiten eines POC-oder anderer Artefakte zu verstehen, die für einen formalen Vorschlag erforderlich sind.|
 |Proposed|60 %|Erstellen eines formalen Angebots für den Kunden basierend auf Ihren Anforderungen.|
-|Ausgehandelt|80 %|Aushandeln der endgültigen Bedingungen basierend auf dem Vorschlag, um zum Endzustand zu gelangen – Gewinn oder Verlust des Vertrags.|
+|Ausgehandelt|80%|Aushandeln der endgültigen Bedingungen basierend auf dem Vorschlag, um zum Endzustand zu gelangen – Gewinn oder Verlust des Vertrags.|
 |Gewonnen|100 %|Markieren des Deals als gewonnen.|
 
 Wenn Sie fertig sind, können Sie eine der beiden Aktionen ausführen, bei denen das Ergebnis als &quot; **gewinnt** &quot; oder &quot; **verloren** &quot; markiert wird, um das Ergebnis zu melden.
@@ -298,11 +298,11 @@ Im folgenden finden Sie die Tabelle mit den Verkaufsstufen und den entsprechende
 |**Name der Verkaufsphase**|**Prozentsatz der Verkaufsphase**|**Definition der Verkaufsphase**|
 |:----|:-----|:-----|
 |Erstellt|10 %|Erstellen eines ausgehenden Deals|
-|Zulässig|10 %|Akzeptieren eines eingehenden Deals.|
+|Akzeptiert|10 %|Akzeptieren eines eingehenden Deals.|
 |Qualified|20%|Qualifizieren Sie den Wert für das Geschäft und die Kundenanforderungen, bevor Sie fortfahren.|
 |Entstehen|40%|Entwickeln Sie das Problem weiter, um die detaillierten Anforderungen zum Vorbereiten eines POC-oder anderer Artefakte zu verstehen, die für einen formalen Vorschlag erforderlich sind.|
 |Proposed|60 %|Erstellen eines formalen Angebots für den Kunden basierend auf Ihren Anforderungen.|
-|Ausgehandelt|80 %|Aushandeln der endgültigen Bedingungen basierend auf dem Vorschlag, um zum Endzustand zu gelangen – Gewinn oder Verlust des Vertrags.|
+|Ausgehandelt|80%|Aushandeln der endgültigen Bedingungen basierend auf dem Vorschlag, um zum Endzustand zu gelangen – Gewinn oder Verlust des Vertrags.|
 |Gewonnen|100 %|Markieren des Deals als gewonnen.|
 
 Wenn Sie fertig sind, können Sie eine der beiden Aktionen ausführen, bei denen das Ergebnis als &quot; **gewinnt** &quot; oder &quot; **verloren** &quot; markiert wird, um das Ergebnis zu melden.

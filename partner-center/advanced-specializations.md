@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Stärken Sie Ihr Geschäftsprofil im Partnerverzeichnis. Erfahren Sie, wie Sie erweiterte Spezialisierungs-und Gold-und Silber-Kompetenzen erwerben.
+description: Stärken Sie Ihr Geschäftsprofil im Microsoft-Partnerverzeichnis. Erfahren Sie, wie Sie erweiterte Spezialisierungs-und Silber-Kompetenzen erwerben.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d1dd109f7a6966c288e34171fbbcd42573d8fca
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100750"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198076"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>Profitieren Sie von einer erweiterten Spezialisierung, um Fachkenntnisse zu präsentieren und Kunden zu präsentieren. 
+# <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>Erwerben Sie eine erweiterte Spezialisierung zum präsentieren von Kenntnissen
 
 Viele Partner, die eine [Gold-Kompetenz](learn-about-competencies.md) in einem Schlüsselbereich erlangt haben, können eine erweiterte Spezialisierung erwerben.
 

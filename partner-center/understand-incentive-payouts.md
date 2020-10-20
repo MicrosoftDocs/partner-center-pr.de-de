@@ -1,7 +1,7 @@
 ---
 title: Anzeigen von Informationen zu Incentives und Programmen
 ms.topic: article
-ms.date: 08/17/2020
+ms.date: 10/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Verwenden Sie diese Seiten, um Zahlungs-und Ergebnis Details sowie den Programmstatus und den gesamten Transaktionsverlauf anzuzeigen, zu verwalten und zu exportieren.
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 0abc7235c091620650d3288ef228a3d009c016e0
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406343"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198086"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Details zum Programm anzeigen, verwalten und exportieren
 
@@ -95,7 +95,7 @@ Die Summen auf dieser Seite stellen alle von Ihnen verwendeten MPN-IDs dar. Sie 
 |Nächste geschätzte Zahlung      |Die nächste nächste Zahlung an Sie (auch wenn andere in Kürze verfügbar sind) in US-Dollar.                                     |
 |Letzte Zahlung           |Der Betrag (in US-Dollar), der Programmname und die MPN-ID der letzten Zahlung.                                      |
 |Zahlungen nach Quelle       |Die Menge der Zahlungen in US-Dollar, die durch das Programm in den letzten 12 Monaten dargestellt wird.                                      |
-|Zahlungen                       |Wählen Sie **bezahlt** oder **Ausstehend aus** , und sortieren Sie Sie nach Ihren Wünschen. Wenn Sie weitere Details zu einer bestimmten Zahlung erhalten, wählen Sie **Ansicht**aus. Wenn Sie eine Kopie der Zahlungsanweisung herunterladen möchten, wählen Sie **Herunterladen** aus. Es kann bis zu 24 Stunden dauern, bis die Daten für den Transaktionsverlauf angezeigt werden, sodass die zugehörigen Gewinne möglicherweise nicht sofort angezeigt werden.  |
+|Payments                       |Wählen Sie **bezahlt** oder **Ausstehend aus** , und sortieren Sie Sie nach Ihren Wünschen. Wenn Sie weitere Details zu einer bestimmten Zahlung erhalten, wählen Sie **Ansicht**aus. Wenn Sie eine Kopie der Zahlungsanweisung herunterladen möchten, wählen Sie **Herunterladen** aus. Es kann bis zu 24 Stunden dauern, bis die Daten für den Transaktionsverlauf angezeigt werden, sodass die zugehörigen Gewinne möglicherweise nicht sofort angezeigt werden.  |
 
 Wählen Sie zum Exportieren der Daten auf dieser Seite **exportieren** aus, und befolgen Sie dann die Anweisungen auf der Seite Daten exportieren.
 
@@ -116,7 +116,7 @@ Der geschätzte Zahlungs Monat ist zurzeit für alle Erwerbs Typen mit Ausnahme 
 
 #### <a name="estimated-payment-month-example"></a>Beispiel für geschätzten Zahlungs Monat
 
-| Month (Monat) | Amount (Betrag) |
+| Month (Monat) | Amount |
 | ------ | :-----------: |
 |  Sep-2020 |  $7.273,99   |
 |  Oct-2020 | $8.692,30  |
@@ -144,7 +144,7 @@ Beachten Sie, dass Ihre Zahlung nur im projizierten Monat freigegeben wird, wenn
 |Anstehend      |Der Zahlungsauftrag hat ausstehende interne Überprüfungen generiert, bevor die Zahlung verarbeitet wird.       |Nein       |
 |Ausstehende Steuerrechnung      |Ihre Steuerrechnung ist unvollständig oder ungültig.          |Sie müssen Ihre Steuerrechnung aktualisieren, bevor Sie bezahlt werden können.         |
 |Bei Überprüfung abgelehnt        |Die Zahlung wurde während der Überprüfung abgelehnt.          |Wenden Sie sich an den Microsoft-Support, um weitere Informationen zu erhalten.         |
-|Fehler        |Die Zahlung ist aufgrund eines Microsoft-Systemfehlers fehlgeschlagen.         |Weitere Informationen erhalten Sie vom Microsoft Support.         |
+|Failed        |Die Zahlung ist aufgrund eines Microsoft-Systemfehlers fehlgeschlagen.         |Weitere Informationen erhalten Sie vom Microsoft Support.         |
 |In Bearbeitung     |Die Zahlung wird ausgeführt.         |Nein         |
 |Falsche Zahlung        |Der Zahlungsvorgang wird wiederholt.          |Nein        |
 |Gesendet        |Die Zahlung wurde an Ihre Bank gesendet.          |Nein       |
@@ -198,17 +198,23 @@ Mit dieser Option können Sie jede Einnahmeposition, die auf der Seite „Transa
 >- **lastpaymentcurrency**  Die Währung, in der die letzte Zahlung über alle mpns eingegangen ist, an die der derzeit angemeldete Partner Zugriff hat. Wenn keine Zahlung eingegangen ist, ist die letzte Zahlungswährung US-Dollar.
 >- **earningamountinlastpaymentcurrency**  Der Erwerbs Betrag in der letzten Zahlungswährung.
 
+In der folgenden Tabelle werden die Ursachen Codes für Anpassungen und deren Beschreibungen aufgelistet.
+
+|**Ursachen Code**   |**Beschreibung**   |
+|------------------|:-------------------------------------|
+| AR-Konformität | Anpassung, bei der die Einnahmen reduziert werden, wenn Microsoft-Rechnungen nicht rechtzeitig vom Partner bezahlt werden. |
+| Co-op-Rollover | Anpassung, bei der die Zusammenführung von Co-op-Ergebnissen in einen anderen Zeitraum übertragen wird |
+| OPS-Anpassung | Anpassung, die Fehler bei der Microsoft-System Berechnung korrigiert. |
+| OPS-Anpassung Microsoft falsche Calc | Anpassung, mit der falsch Skalierungen korrigiert werden. |
+| OPS-Anpassung Microsoft falsche Registrierung | Anpassung der in die Registrierung bezogenen falsch Skalierungen. |
+| Partner Zuordnung (Abonnement) MCI/CSP | Anpassung, mit der die Abonnement falsche Ausrichtung korrigiert wird. |
+| Richtlinien Ausnahme | Anpassung, die eine Programm Regel überschreibt.  |
+| Ergebnis des vorherigen Zeitraums | Anpassung für das Ergebnis außerhalb des aktuellen Erwerbs Zeitraums. |
+
+In der folgenden Tabelle sind die Felder aufgeführt, die auf der Seite Exportieren des Transaktions Verlaufs und ihre Beschreibungen angezeigt werden.
 
 |**Spaltenname**   |**Beschreibung**   |
 |------------------|:-------------------------------------|
-| AR-Konformität | Anpassung, bei der die Einnahmen reduziert werden, wenn Microsoft-Rechnungen nicht rechtzeitig vom Partner bezahlt werden |
-| Co-op-Rollover | Anpassung, bei der Co-op-Gewinn in einen anderen Zeitraum übertragen wird |
-| OPS-Anpassung Microsoft falsche Calc | Anpassung, die falsch Skalierungen korrigiert |
-| OPS-Anpassung Microsoft falsche Registrierung | Anpassung bei falsch Skalierungen im Zusammenhang mit der Registrierung |
-| Richtlinien Ausnahme | Anpassung, die eine Programm Regel überschreibt  |
-| OPS-Anpassung | Anpassung, die Fehler bei der Microsoft-System Berechnung korrigiert |
-| Ergebnis des vorherigen Zeitraums | Anpassung für das Ergebnis außerhalb des aktuellen Erwerbs Zeitraums |
-| Partner Zuordnung (Abonnement) MCI/CSP | Anpassung, die die Fehlausrichtung von Abonnements korrigiert |
 |customerId   |Kunden Bezeichner   |
 |customerName   |Name der Transaktions Kunden   |
 |earningamount   |Betrag in der ursprünglichen Transaktionswährung   |
@@ -278,7 +284,7 @@ Der Transaktions Zusammenfassungs Bericht bietet Transaktionsdetails auf Übersi
 >[!NOTE]
 >Der Transaktions Zusammenfassungs Bericht enthält keine Kunden-und Abonnement Informationen für Abonnements, die neuer als 60 Tage sind, oder wenn der Verbrauchs Umsatz weniger als einen Cent beträgt.
 
-|Spaltenname |BESCHREIBUNG |
+|Spaltenname |Beschreibung |
 |------ |:-----------|
 |  earningId | Eindeutiger Bezeichner für jede Einnahme  |
 |  participantID | Primäre Identität des Partners, der unter dem Programm die Einnahme erzielt  |

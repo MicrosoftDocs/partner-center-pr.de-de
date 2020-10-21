@@ -1,10 +1,11 @@
-- name: Über Microsoft Partner Center
+- name: Microsoft Partner Center-Dokumentation
   href: index.yml
 - name: Ankündigungen
   href: announcements/TOC.md
 - name: Mitgliedschaft im Partnernetzwerk
-  href: mpn-overview.md
   items:
+    - name: Partner von Microsoft
+      href: mpn-overview.md
     - name: Erstellen eines Partner Center-Kontos
       href: mpn-create-a-partner-center-account.md
     - name: Beziehen einer geschäftlichen E-Mail-Adresse
@@ -99,9 +100,9 @@
       href: regional-authorization-overview.md
     - name: Anweisungen zur Mandantenkonsolidierung für regionale CSP-Autorisierung
       href: csp-regional-authorization-tenant-consolidation.md
-    - name: 'Übersicht – die neue Möglichkeit, die Zustimmung des Kunden zur Microsoft-Kundenvereinbarung zu bestätigen'
+    - name: Aktualisieren der Bestätigungsmethode für Zustimmung zur Microsoft-Kundenvereinbarung
       href: confirm-consent.md
-    - name: So bestätigen Sie die Zustimmung des Kunden zur Microsoft-Kundenvereinbarung
+    - name: Bestätigen der Zustimmung zur Microsoft-Kundenvereinbarung
       href: confirm-customer-agreement.md
     - name: Wann muss die Zustimmung zur Kundenvereinbarung im Namen eines Kunden bestätigt werden?
       href: attest-acceptance-customer-agreement.md
@@ -120,9 +121,9 @@
           href: csp-gcc-overview.md
         - name: Office 365 Government GCC – Zulassungskriterien für Partner und Kunden
           href: csp-gcc-validate.md
-        - name: Benutzer- und Lizenzverwaltung im Partner Center für Microsoft-Cloud Deutschland
+        - name: Benutzer- und Lizenzverwaltung für Microsoft Cloud Deutschland
           href: user-management-in-partner-center-for-microsoft-cloud-germany.md
-        - name: Benutzer- und Lizenzverwaltung im Partner Center für Microsoft Cloud for US Government
+        - name: Benutzer- und Lizenzverwaltung für Microsoft Cloud for US Government
           href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
 - name: Verwalten eines Partner Center-Kontos
   items:
@@ -182,7 +183,7 @@
           href: customize-the-catalog.md
 - name: Empfehlungen
   items:
-    - name: Hilfe bei der Umsatzsteigerung
+    - name: Umsatzsteigerung
       href: grow-your-business.md
     - name: Übersicht über Empfehlungen
       href: referrals.md
@@ -251,6 +252,9 @@
         - name: Erstellen Ihres Ausführungsnachweises
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
+        - name: Einreichen einer Steuerrechnung als Ausführungsnachweis
+          href: incentives-tax-invoice-poe.md
+          displayName: incentives
     - name: Incentives-Co-Op-Ansprüche
       items:
         - name: Incentive-Co-Op-Ansprüche
@@ -306,7 +310,7 @@
           href: common-billing-scenarios-annual.md
         - name: Szenarien für einmalige und ausgewählte wiederkehrende Gebühren
           href: common-billing-scenarios-onetime-recurring.md
-        - name: Rechnungsstellung – Lesen der Felder für Rechnungen und einmalige Kosten
+        - name: Grundlegendes zur Abrechnung
           href: invoice-file.md
         - name: Lizenzbasierte Abrechnung
           href: license-based-billing.md
@@ -327,7 +331,7 @@
           href: vat-info.md
         - name: Guthaben für Steuereinbehaltung empfangen
           href: withholding-tax-credit-form.md
-        - name: "Regionale Steuer\_– Sprachdienste"
+        - name: Regionale Steuern für Sprachdienste
           href: tax-and-fees-voice-services.md
         - name: Steuerliche Aspekte für kommerzielle Marketplace-Herausgeber
           href: tax-details-marketplace.md
@@ -367,7 +371,7 @@
       href: request-a-relationship-with-a-customer.md
     - name: Entfernen der Partnerschaft zwischen einem Händler und einem Kunden
       href: remove-a-relationship.md
-    - name: Delegieren oder Widerrufen von Administratorrechten für Partner durch Kunden
+    - name: Erhalten delegierter Administratorrechte von einem Kunden
       href: customers-revoke-admin-privileges.md
     - name: Anzeigen der Kundenliste
       href: see-your-customer-list.md
@@ -418,7 +422,7 @@
     - name: Azure-Plan
       href: azure-plan-lp.md
       items:
-        - name: 'Azure-Plan: Einstieg'
+        - name: Übersicht über den Azure-Plan
           href: azure-plan-get-started.md
         - name: Kauf des Azure-Plans
           href: purchase-azure-plan.md
@@ -426,7 +430,7 @@
           href: compare-azure-offers.md
         - name: Umstellung Ihrer Kunden auf einen Azure-Plan
           href: azure-plan-transition.md
-        - name: Vom Partner erworbenes Guthaben – Übersicht
+        - name: Vom Partner erworbenes Guthaben
           href: partner-earned-credit.md
         - name: Wie von Partnern erworbene Guthaben berechnet und bezahlt werden
           href: partner-earned-credit-explanation.md
@@ -459,13 +463,13 @@
           href: sell-marketplace-products.md
         - name: Zuweisen von Azure-Abonnements in Partner Center
           href: assign-azure-subscriptions.md
-        - name: Zuweisen von Lizenzen zu Benutzern
+        - name: Verwalten von Benutzern und Lizenzen
           href: assign-licenses-to-users.md
         - name: Hinzufügen von Lizenzen oder Diensten zu einem vorhandenen Abonnement
           href: add-licenses-or-services-to-an-existing-subscription.md
         - name: Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer
           href: bulk-license-provisioning-for-multiple-users.md
-        - name: Verschieben von Kunden mit lizenzbasierten Diensten zum Clouddienstanbieter-Programm
+        - name: Verschieben von Kunden mit lizenzbasierten Diensten in das CSP-Programm
           href: transition-seat-based-services.md
         - name: Sell Minecraft Education Edition-Abonnements
           href: minecraft-subscriptions.md

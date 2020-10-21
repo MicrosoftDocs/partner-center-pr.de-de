@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 391602651976500576f13824bfebc6e06fec40a2
-ms.sourcegitcommit: 9359f92fb7d3965374eb095ebf68fd6a94ec4943
+ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/21/2020
-ms.locfileid: "90832113"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006811"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern im Unternehmen, die im Partner Center arbeiten müssen
 
@@ -52,7 +52,7 @@ Wie Ihre Benutzer auf das Partner Center zugreifen können, bestimmen Sie über 
 ||* Erstellen von Supporttickets für das Partner Center
 ||* Anzeigen erstellter Partnersupporttickets
 |Standardbenutzer|  Anzeigen des eigenen Profils   |[Zurücksetzen Ihres Kennworts](reset-my-pasword.md)
-|Administrator-Agent | * Kundenverwaltung|[Einrichtung und Verwaltung von Kundenkonten für Handelspartner im Partner Center](customer-accounts.md)
+|Administrator-Agent | * Kundenverwaltung|[Kontakt zu Ihren Kunden](connect-with-your-customers.md)
 ||* Hinzufügen einer Geräteliste zum Partner Center
 ||* Erstellen und Anwenden von Profilen auf Geräte
 ||* Abonnementverwaltung

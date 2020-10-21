@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 4cd39cfe3d927fbcaea3afc69c9e1844fc7917d7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999264"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92197996"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Verwalten Ihres Partner Center-Kontos – Unternehmensprofile, Bankdetails, Rollen, Berechtigungen und mehr
 
@@ -53,7 +53,7 @@ Konten werden im Partner Center derzeit in zwei verschiedenen Abschnitten verwal
 >[!NOTE]
 >Um auf **Partnereinstellungen** oder **Entwicklereinstellungen** zuzugreifen, musst du dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) anmelden. Wähle dann die Option **Einstellungen** (das Zahnradsymbol) in der oberen rechten Ecke des Bildschirms aus. Anschließend kannst du entweder **Partnereinstellungen** oder **Entwicklereinstellungen** aus dem Dropdownmenü auswählen.
 
-:::image type="content" source="images/accountsettings/account1.png" alt-text="Konteneinstellungen":::
+:::image type="content" source="images/accountsettings/account1.png" alt-text="Menü mit registrierten Programmen":::
 
 Partner können die Option zum Verwalten von **Partnereinstellungen** und/oder **Entwicklereinstellungen** sehen. Dies hängt davon ab, ob sich ihr Unternehmen für diese Programme registriert hat. Die Einstellungsoption ist nur verfügbar, wenn sich das Unternehmen für mindestens ein Programm registriert hat, das mit dieser Einstellung verknüpft ist.
 
@@ -85,11 +85,11 @@ Die Optionen unter **Partnereinstellungen** unterscheiden sich von den Optionen 
 
 **Optionen für Partnereinstellungen**:
 
-:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="Partneroptionen":::
+:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="Menü mit registrierten Programmen":::
 
 **Optionen für Entwicklereinstellungen**:
 
-:::image type="content" source="images/accountsettings/devoptions.png" alt-text="Entwickleroptionen":::
+:::image type="content" source="images/accountsettings/devoptions.png" alt-text="Menü mit registrierten Programmen":::
 
 ## <a name="enrolling-in-programs"></a>Registrieren für Programme
 
@@ -108,7 +108,7 @@ Weitere Informationen zum Registrieren bei Partner Center-Programmen findest du 
 
 Du kannst mehr als einem Konto angehören. Wenn du mehreren Konten angehörst, wird im linken Navigationsmenü die „Kontoauswahl“ angezeigt. Wenn du die Kontoauswahl auswählst, werden alle Konten, denen du angehörst, als Liste angezeigt. Du kannst ein beliebiges Konto auswählen und zu diesem Konto wechseln. Danach werden alle zum Konto gehörigen Programme und Informationen angezeigt. Wenn keine Kontoauswahl angezeigt wird, gehörst du nur einem einzelnen Konto an.
 
-:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="Kontoauswahl":::
+:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="Menü mit registrierten Programmen":::
 
 ## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>Weitere Ressourcen, die dir beim Verwalten deines Partner Center-Kontos helfen
 

@@ -34,10 +34,10 @@ Um die Erkenntnisse zu Ihren Co-Selling-Verkaufschancen anzuzeigen, navigieren S
 
 Im oberen Bereich der Seite **Co-Selling-Verkaufschancen** können Sie den Zeitraum auswählen, für den Daten angezeigt werden sollen. Standardmäßig ist **3M** (drei Monate) ausgewählt, Sie können sich aber entscheiden, stattdessen Daten für einen Zeitraum von sechs Monaten oder einem Jahr anzuzeigen. Sie können auch **Benutzerdefiniert** auswählen, um Daten für alle Empfehlungen innerhalb eines bestimmten Zeitraums anzuzeigen.
 
-Sie können auf die Schaltfläche „Filter“ klicken, um den Bereich zu öffnen, in dem Sie alle Daten auf dieser Seite nach Kundenname, Land, Dealtyp, Dealrichtung, Lösungsname und Status filtern können. Die Details dieser Filter sind nachfolgend angegeben.
+Sie können auf die Schaltfläche „Filter“ klicken, um den Bereich zu öffnen, in dem Sie alle Daten auf dieser Seite nach Kundenname, Land/Region, Dealtyp, Dealrichtung, Lösungsname und Status filtern können. Die Details dieser Filter sind nachfolgend angegeben.
 
 - **Kundenname**: Der Standardwert lautet **Alle**, aber Sie können die Daten auf einen oder mehrere ausgewählte Kunden begrenzen.
-- **Land**: Der Standardwert lautet **Alle**, aber Sie können die Daten auf ein oder mehrere Länder des ausgewählten Kunden begrenzen.
+- **Land/Region**: Der Standardwert lautet **Alle**, aber Sie können die Daten auf ein oder mehrere Länder des ausgewählten Kunden begrenzen.
 - **Dealtyp**: Der Standardwert lautet **Alle**, aber Sie können die Daten wahlweise auf Co-Selling-Verkaufschancen oder private Deals begrenzen.
 - **Dealrichtung**: Der Standardwert lautet **Alle**, aber Sie können die Daten wahlweise auf **eingehende** (von Ihnen empfangene) Empfehlungen oder **ausgehende** (von Ihnen gesendete) Empfehlungen einschränken.
 - **Lösungsname**: Der Standardwert lautet **Alle**, aber Sie können die Daten auf Empfehlungen begrenzen, die eine oder mehrere ausgewählte Lösungen enthalten.
@@ -63,7 +63,7 @@ In diesem Abschnitt wird visuell angezeigt, wie Ihre Deals im Laufe ihres Lebens
 
 ## <a name="deals-by-geography"></a>Deals nach Geografie
 
-Im diesem Abschnitt werden die Länder/Regionen angezeigt, aus denen die Deals stammen, zusammen mit Details zu jedem Land/jeder Region. Es gibt eine Tabellenansicht der Dealdetails für die einzelnen Länder sowie eine Kartenansicht aller Länder. Sie können auf ein bestimmtes Land in der Tabelle klicken oder auf die Kartenansicht klicken, um auf ein bestimmtes Land zu zoomen.
+Im diesem Abschnitt werden die Länder/Regionen angezeigt, aus denen die Deals stammen, zusammen mit Details zu jedem Land/jeder Region. Es gibt eine Tabellenansicht der Dealdetails für die einzelnen Länder sowie eine Kartenansicht aller Länder. Sie können auf ein bestimmtes Land/eine bestimmte Region in der Tabelle klicken oder auf die Kartenansicht klicken, um auf ein bestimmtes Land/eine bestimmte Region zu zoomen.
 
 :::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Abbildung der Zusammenfassungskarte zur Analyse von Co-Selling-Verkaufschancen":::
 

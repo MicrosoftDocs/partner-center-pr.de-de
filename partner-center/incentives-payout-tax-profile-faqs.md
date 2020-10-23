@@ -1,19 +1,19 @@
 ---
 title: Häufig gestellte Fragen zu den Incentivezahlungen und Steuerprofilen
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/22/2020
 description: Häufig gestellte Fragen zu Incentives-Auszahlungs-und Steuer Profilen. Zu den Fragen gehört, warum Sie Ihre Auszahlungs-und Steuer Profile nicht sehen können und was damit zu tun ist.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: de150c34f92fd74d7a593d90d2e23fdacc6b425d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f4335bc77acf0e73092de0441cc6254b11c62bb3
+ms.sourcegitcommit: a46ab876baf681c2fa4f9a2876d29c2ba4aad648
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175344"
+ms.lasthandoff: 10/23/2020
+ms.locfileid: "92454152"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Häufig gestellte Fragen zu den Auszahlungs-und Steuer Profilen für die Anreize
 
@@ -24,8 +24,34 @@ Gilt für:
 Geeignete Rollen:
 
 - Incentiveadministrator
-- Abrechnungsadministrator
+- Kontoadministrator
 - Globaler Administrator
+
+## <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Mein Steuer Profil ist abgelaufen. Wie kann ich dies korrigieren?
+
+Wenn ein Steuer Profil abgelaufen ist oder demnächst abläuft, muss das Steuerformular, das Sie für Microsoft bereitgestellt haben, aktualisiert werden. Verwenden Sie das folgende Verfahren, um die Steuer Profile zu bearbeiten:
+
+1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
+
+2. Wählen Sie das Zahnradsymbol zum Öffnen des Menüs **Einstellungen** aus.
+
+3. Wählen Sie unter **Kontoeinstellungen** die Option **Auszahlung und Steuer** und dann **Auszahlungs- und Steuerprofil** aus.
+
+4. Wählen Sie **Steuer Profil**aus.
+
+5. Wählen Sie die Spalte **Ablaufdatum** aus, und navigieren Sie dann zu dem Steuer Profil, das abgelaufen ist oder demnächst abläuft.
+
+6. Wählen Sie **Bearbeiten** aus, um den Bearbeitungsprozess für Steuer Profile zu starten.
+
+7. Aktualisieren Sie die Steuerformulare, indem Sie die erforderlichen Details angeben.
+
+## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Wie stellt Microsoft sicher, dass die Bankinformationen tatsächlich der des Unternehmens sind und kein persönliches Bankkonto für einen Mitarbeiter?
+
+Es liegt in der Verantwortung des Unternehmens, sicherzustellen, dass die Rolle des Incentive-Administrators, der über die Berechtigungen zum Bearbeiten dieser Informationen verfügt, nur den entsprechenden Mitarbeitern erteilt wird.
+
+## <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Kann ich dieselben Bank-und Steuer Details für alle Incentive-Programme bei Microsoft verwenden?
+
+Wenn Ihr Unternehmen für mehrere Incentive-Programme eingeladen ist, können Sie für all Ihre Incentive-Programme dasselbe Zahlungskonto verwenden, oder Sie können unterschiedliche Zahlungskonten für die verschiedenen Programme verwenden.
 
 ## <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a>Warum muss ich meine Auszahlungs-und/oder Steuer Details angeben?
 

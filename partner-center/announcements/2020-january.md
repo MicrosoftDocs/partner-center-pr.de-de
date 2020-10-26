@@ -1,6 +1,6 @@
 ---
 title: Ankündigungen für Januar 2020
-description: 'Ankündigungen für Januar 2020: Microsoft Partner Center'
+description: 'Ankündigungen für Januar 2020 zum Microsoft Partner Center: neue Funktionen, Promotionen, Angebote, Märkte oder Änderungen an bestehenden Angeboten.'
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 1b53b675b97a98b8a154998abf0d98d686844281
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 629e9982827f25e7358ef192e1f5726be1a07678
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999584"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031753"
 ---
 # <a name="january-2020-announcements"></a>Ankündigungen für Januar 2020
 
@@ -131,7 +131,7 @@ Im dritten Quartal des Geschäftsjahrs 2020 führen wir Self-Service-Käufe für
 
 Weitere Informationen zu Self-Service-Käufen finden Sie im Ressourcenkatalog (Abschnitt „Weitere Ressourcen“). Dort finden Sie auch Anweisungen zur Implementierung von PowerShell, falls Kunden Self-Service-Käufe deaktivieren möchten.
 
-Das **PowerShell**-Skript, mit dem IT-Administratoren Self-Service-Käufe auf Produktbasis steuern (also aktivieren oder deaktivieren) können, ist **jetzt verfügbar**. Technische Dokumentation finden Sie im Abschnitt „Weitere Ressourcen“.
+Das **PowerShell** -Skript, mit dem IT-Administratoren Self-Service-Käufe auf Produktbasis steuern (also aktivieren oder deaktivieren) können, ist **jetzt verfügbar** . Technische Dokumentation finden Sie im Abschnitt „Weitere Ressourcen“.
 
 NEU: In der letzten Woche haben wir Ihr Feedback zum Rollout der Self-Service-Käufe für Power Platform-Produkte überprüft. Wir möchten Ihnen für Ihre Angaben danken. Anhand Ihres Feedbacks haben wir unsere Herangehensweise angepasst, sodass diese den Anforderungen von IT-Administratoren und Endbenutzern in Organisationen besser gerecht wird. Wir nehmen die folgenden Änderungen an unserem Plan vor:
 
@@ -185,7 +185,7 @@ In Partner Center wird ein neues, vereinheitlichtes Berichtsdashboard für Partn
 
 Wählen Sie in Partner Center im linken Navigationsmenü die Option **INSIGHTS** aus, damit das Dashboard angezeigt wird. Für dieses Dashboard werden dieselben zugrunde liegenden Daten verwendet wie für das aktuelle MyInsights-Berichtstool. Es stehen jedoch vielfältigere grafische Elemente und Berichtsfunktionen, die noch mehr Einblicke in die Daten ermöglichen, sowie KPIs für Kunden, Abonnements, Lizenznutzung, Kompetenzen und Vorteile zur Verfügung. Das Berichtsdashboard wird zunächst als Betaversion angeboten. Es wird jedoch kontinuierlich um neue Berichte und Funktionen ergänzt werden, bis es dann voraussichtlich im zweiten Halbjahr 2020 allgemein verfügbar ist.
 
-Sie können das neue Berichtsdashboard anstelle des aktuellen MyInsights-Berichtstools verwenden. Über die Feedbackmöglichkeit auf der Registerkarte **INSIGHTS**, die für alle Berichte zur Verfügung steht, können Sie Feedback zum neuen Dashboard geben.
+Sie können das neue Berichtsdashboard anstelle des aktuellen MyInsights-Berichtstools verwenden. Über die Feedbackmöglichkeit auf der Registerkarte **INSIGHTS** , die für alle Berichte zur Verfügung steht, können Sie Feedback zum neuen Dashboard geben.
 
 ### <a name="additional-resources"></a>Zusätzliche Ressourcen
 

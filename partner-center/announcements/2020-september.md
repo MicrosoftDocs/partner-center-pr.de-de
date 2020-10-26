@@ -1,6 +1,6 @@
 ---
 title: Ankündigungen für September 2020
-description: 'Ankündigungen für September 2020: Microsoft Partner Center'
+description: 'Ankündigungen für September 2020 zum Microsoft Partner Center: neue Funktionen, Promotionen, Angebote, Märkte oder Änderungen an bestehenden Angeboten.'
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: 304514ed4210e2567e080b78b1c1ce135177d874
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: 1020adc0b2410435b31726fcc8a44342064bc4e8
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591120"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031553"
 ---
 # <a name="september-2020-announcements"></a>Ankündigungen für September 2020
 
@@ -46,7 +46,7 @@ Das Microsoft 365 Admin Center verbessert die sichere Bereitstellung erworbener
 
 ### <a name="next-steps"></a>Nächste Schritte
 
-- Informieren Sie sich über die Microsoft 365 Admin Center-Software in der [Übersicht](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) sowie unter den [häufigen Aufgaben](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide) und den [Funktionen für Lizenzschlüssel](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- Informieren Sie sich über die Microsoft 365 Admin Center-Software in der [Übersicht](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) sowie unter den [häufigen Aufgaben](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide) und den [Funktionen für Lizenzschlüssel](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 - Leiten Sie diese Aktualisierungen an zuständige Teams in Ihrem Unternehmen weiter.
 
@@ -183,17 +183,17 @@ Die Definitionen von Metriken, die in den CSP Office 365-Nutzungs-APIs verfügb
 
 ### <a name="details"></a>Details
 
-Dies ist eine Aktualisierung der [Partner Center-Ankündigung](https://docs.microsoft.com/partner-center/announcements/2020-september#8) vom 17. September 2020. Mithilfe von Aktualisierungen stellen wir sicher, dass die API-Updates abwärtskompatibel sind, und gewährleisten dadurch, dass keine Integrationsänderungen von Ihnen vorgenommen werden müssen. 
+Dies ist eine Aktualisierung der [Partner Center-Ankündigung](#8) vom 17. September 2020. Mithilfe von Aktualisierungen stellen wir sicher, dass die API-Updates abwärtskompatibel sind, und gewährleisten dadurch, dass keine Integrationsänderungen von Ihnen vorgenommen werden müssen. 
 
 Wie bereits zuvor angekündigt, werden die CSP Office 365-Nutzungsmetriken ab dem 30. September 2020 aktualisiert. 
 
 Aufgrund dieser Änderung werden die Definitionen der Metriken aktualisiert, die über die folgenden APIs zur Nutzung von CSP-Lizenzen verfügbar sind: 
 
-1. [API für Nutzungsinformationen zu Lizenzen](https://docs.microsoft.com/partner-center/develop/get-licenses-usage-information)
+1. [API für Nutzungsinformationen zu Lizenzen](/partner-center/develop/get-licenses-usage-information)
 
-2. [API für Nutzungsinformationen zu Kundenlizenzen](https://docs.microsoft.com/partner-center/develop/get-customer-licenses-usage-information)
+2. [API für Nutzungsinformationen zu Kundenlizenzen](/partner-center/develop/get-customer-licenses-usage-information)
 
-3.  [API für Nutzungsinformationen zu Partnerlizenzen](https://docs.microsoft.com/partner-center/develop/get-partner-licenses-usage-information)
+3.  [API für Nutzungsinformationen zu Partnerlizenzen](/partner-center/develop/get-partner-licenses-usage-information)
 
 Die aktualisierten Definitionen sind nachfolgend aufgelistet. Da das API-Schema keine Änderungen enthält, ist keine neue Integration erforderlich. 
 
@@ -226,7 +226,7 @@ Die durch das russische föderale Gesetz Nr. 265-FZ eingeführten MwSt.-Änderu
 
 ### <a name="details"></a>Details
 
-Durch das russische föderale Gesetz Nr. 265-FZ vom 31. Juli 2020 wurde Artikel 149, Absatz 2, Unterpunkt 26 des russischen Steuergesetzbuchs geändert. Gemäß den Änderungen sind ab dem 1. Januar 2021 in Russland die Gewährung exklusiver IP-Rechte für Software und elektronische Datenbanken, die im einheitlichen Register **russischer** Software und elektronischer Datenbanken **nicht enthalten** sind, sowie das Erteilen der Nutzungsrechte für solche Software und Datenbanken (einschließlich Updates und Upgrades) wie auch das Gewähren des Remotezugriffs darauf über das Internet **nicht mehr von der Mehrwertsteuer befreit**. 
+Durch das russische föderale Gesetz Nr. 265-FZ vom 31. Juli 2020 wurde Artikel 149, Absatz 2, Unterpunkt 26 des russischen Steuergesetzbuchs geändert. Gemäß den Änderungen sind ab dem 1. Januar 2021 in Russland die Gewährung exklusiver IP-Rechte für Software und elektronische Datenbanken, die im einheitlichen Register **russischer** Software und elektronischer Datenbanken **nicht enthalten** sind, sowie das Erteilen der Nutzungsrechte für solche Software und Datenbanken (einschließlich Updates und Upgrades) wie auch das Gewähren des Remotezugriffs darauf über das Internet **nicht mehr von der Mehrwertsteuer befreit** . 
 
 **Bitte beachten Sie, dass nach den oben genannten Änderungen die Mehrwertsteuer in der durch die geltenden Gesetze definierten Höhe von MIOL auf alle nicht materiellen Microsoft-Produkte in Russland aufgeschlagen wird.**
 
@@ -260,19 +260,19 @@ In Kürze wird Partner Center Insights das eingestellte Berichtstool **MyInsight
 
 ### <a name="what-is-insights"></a>Was sind „Einblicke“?
 
-Das Dashboard „Einblicke“ im Partner Center bietet eine einheitliche 360-Grad-Ansicht der wichtigsten Leistungskennzahlen (Key Performance Indicators, KPIs) für alle Cloudprodukte und Lizenzierungsmodelle Ihrer Partnerorganisation wie Office 365, Azure, Dynamics 365 bzw. Cloud Solution Provider (CSP) und Enterprise Agreement (EA). Es werden ständig neue Funktionen hinzugefügt, und alle Berichte unterstützen den [Export von Rohdaten](https://docs.microsoft.com/partner-center/pci-download-reports), sodass Sie Ad-hoc-Datenanalysen gemäß Ihren Geschäftsanforderungen durchführen können. Mithilfe von zwei Partner Center-Berichtsrollen, [Bericht-Viewer für leitende Mitarbeiter und Bericht-Viewer](https://docs.microsoft.com/partner-center/pci-roles), können Sie den Zugriff auf und die Nutzung von Einblicken innerhalb Ihres Unternehmens besser verwalten.
+Das Dashboard „Einblicke“ im Partner Center bietet eine einheitliche 360-Grad-Ansicht der wichtigsten Leistungskennzahlen (Key Performance Indicators, KPIs) für alle Cloudprodukte und Lizenzierungsmodelle Ihrer Partnerorganisation wie Office 365, Azure, Dynamics 365 bzw. Cloud Solution Provider (CSP) und Enterprise Agreement (EA). Es werden ständig neue Funktionen hinzugefügt, und alle Berichte unterstützen den [Export von Rohdaten](../pci-download-reports.md), sodass Sie Ad-hoc-Datenanalysen gemäß Ihren Geschäftsanforderungen durchführen können. Mithilfe von zwei Partner Center-Berichtsrollen, [Bericht-Viewer für leitende Mitarbeiter und Bericht-Viewer](../pci-roles.md), können Sie den Zugriff auf und die Nutzung von Einblicken innerhalb Ihres Unternehmens besser verwalten.
 
 Kürzlich hinzugefügte Berichte:
 
-- [Bericht und Datenexport zur Leistung von Handelspartnern](https://docs.microsoft.com/partner-center/pci-resellers-performance): Bietet indirekten CSP-Anbietern eine Übersicht über die Leistung ihrer verschiedenen indirekten Vertriebspartner.
+- [Bericht und Datenexport zur Leistung von Handelspartnern](../pci-resellers-performance.md): Bietet indirekten CSP-Anbietern eine Übersicht über die Leistung ihrer verschiedenen indirekten Vertriebspartner.
 
-- [Bericht und Datenexport zu Verkaufschancen](https://docs.microsoft.com/partner-center/pci-customer-opportunities): Bietet einen Überblick über die Bereitschaft der Kunden, Microsoft-Produkte zu erwerben.
+- [Bericht und Datenexport zu Verkaufschancen](../pci-customer-opportunities.md): Bietet einen Überblick über die Bereitschaft der Kunden, Microsoft-Produkte zu erwerben.
 
-Eine vollständige Liste der unter „Einblicke“ verfügbaren Berichte finden Sie [hier](https://docs.microsoft.com/partner-center/partner-center-insights).
+Eine vollständige Liste der unter „Einblicke“ verfügbaren Berichte finden Sie [hier](../partner-center-insights.md).
 
 ### <a name="next-steps"></a>Nächste Schritte:
 
-- Überprüfen Sie regelmäßig die [Seite „Einblicke“ im Partner Center](https://docs.microsoft.com/partner-center/partner-center-insights), um sich über Updates und Erweiterungen zu informieren.
+- Überprüfen Sie regelmäßig die [Seite „Einblicke“ im Partner Center](../partner-center-insights.md), um sich über Updates und Erweiterungen zu informieren.
 
 - Wir empfehlen Ihnen, diese neuen Funktionen zu erkunden und Ihr Feedback mithilfe der Inline-Feedbacktools auf der Registerkarte Einblicke mit uns zu teilen.
 
@@ -337,7 +337,7 @@ Ab sofort ist Azure SQL Edge verfügbar – die Microsoft SQL-Daten-Engine für 
 ### <a name="details"></a>Details
 
 Heute kündigen wir die Verfügbarkeit von Azure SQL Edge an, einer für IoT-Workloads optimierten Engine für Echtzeitdaten. Diese Containerlösung basiert auf derselben Engine, die SQL Server und Azure SQL unterstützt, und bietet dieselbe branchenführende Sicherheit, bekannte Entwicklerfunktionen und -tools, die viele Teams bereits kennen und denen sie vertrauen.
-Azure SQL Edge kann ab **Donnerstag, dem 24. September**, von Cloud Solution Providers (CSPs) erworben werden.
+Azure SQL Edge kann ab **Donnerstag, dem 24. September** , von Cloud Solution Providers (CSPs) erworben werden.
 
 [Azure SQL Edge](https://aka.ms/sqledge) ist ein Container mit geringem Speicherbedarf, der das Streamen, Speichern und Analysieren von Daten unterstützt, um Einblicke in Echtzeit zu gewähren. Sie können ihn auf Edgeservern, Gateways und Geräten in verbundenen, nicht verbundenen oder hybriden Umgebungen bereitstellen.
 
@@ -432,7 +432,7 @@ Aktionen:
 
 #### <a name="mpa-reporting-in-partner-center"></a>MPA-Berichte im Partner Center
 
-1. Informieren Sie sich im MPA-Bericht über Details zu Ihren indirekten Vertriebspartnern, die über ein Konto im Partner Center verfügen, und über und den Annahmestatus ihrer MPAs. Um den Bericht anzuzeigen, melden Sie sich beim Partner Center an und navigieren im linken Menü zu **Analysieren/Vertriebspartneranalyse**.
+1. Informieren Sie sich im MPA-Bericht über Details zu Ihren indirekten Vertriebspartnern, die über ein Konto im Partner Center verfügen, und über und den Annahmestatus ihrer MPAs. Um den Bericht anzuzeigen, melden Sie sich beim Partner Center an und navigieren im linken Menü zu **Analysieren/Vertriebspartneranalyse** .
 
 2. Klicken Sie auf das Downloadsymbol auf der rechten Seite, um den Bericht herunterzuladen.
 3. Öffnen Sie eine leere Excel-Datei, und ziehen Sie die heruntergeladene TSV-Datei auf die Excel-Datei.

@@ -1,6 +1,6 @@
 ---
 title: Ankündigungen für März 2020
-description: 'Ankündigungen für März 2020: Microsoft Partner Center'
+description: 'Ankündigungen für März 2020 zum Microsoft Partner Center: neue Funktionen, Promotionen, Angebote, Märkte oder Änderungen an bestehenden Angeboten.'
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 1b3578a1af437b3a75a774c5cc559b8a8c50c622
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 9a44adc0f4150f4cbb21c4b0e332c4958559443f
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999504"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031713"
 ---
 # <a name="march-2020-announcements"></a>Ankündigungen für März 2020
 
@@ -44,9 +44,9 @@ Alle CSP-Partner (Cloud Solution Provider)
 
 Am 21. April 2020 ändern wir die Namen unserer Office 365-Angebote für kleine und mittelständische Unternehmen:
 
-- Office 365 Business Essentials wird zu **Microsoft 365 Business Basic**. Hierbei handelt es sich um ein Einstiegsangebot für Kunden, die einfache Clouddienste benötigen.
-- Office 365 Business Premium wird zu **Microsoft 365 Business Standard**. Hierbei handelt es sich um das Grundangebot für kleine und mittelständische Unternehmen, das Clouddienste und mit der Cloud vernetzte Desktop-Apps beinhaltet.
-- Microsoft 365 Business wird zu **Microsoft 365 Business Premium**. Diese SKU ist weiterhin optimal für kleine und mittelständische Unternehmen geeignet, die auf hohe Leistung angewiesen sind und Zusatzangebote für Sicherheit, Geräte und Identitäten benötigen.
+- Office 365 Business Essentials wird zu **Microsoft 365 Business Basic** . Hierbei handelt es sich um ein Einstiegsangebot für Kunden, die einfache Clouddienste benötigen.
+- Office 365 Business Premium wird zu **Microsoft 365 Business Standard** . Hierbei handelt es sich um das Grundangebot für kleine und mittelständische Unternehmen, das Clouddienste und mit der Cloud vernetzte Desktop-Apps beinhaltet.
+- Microsoft 365 Business wird zu **Microsoft 365 Business Premium** . Diese SKU ist weiterhin optimal für kleine und mittelständische Unternehmen geeignet, die auf hohe Leistung angewiesen sind und Zusatzangebote für Sicherheit, Geräte und Identitäten benötigen.
 
 Außerdem wird **Microsoft 365 Apps** der neue Name für unsere beiden Office-Clientabonnements:
 
@@ -208,7 +208,7 @@ Hinweis zu neuen Funktionen: Partner können jetzt bei Fällen, bei denen der Ku
 Da Microsoft sich seit jeher zu richtlinienkonformen Geschäftspraktiken gegenüber Kunden und Partnern verpflichtet hat, wurde eine automatisierte Überprüfung aller neu angelegten Education-Kundenkonten eingeführt, um deren Qualifikation zu verifizieren. Seit dem Start der automatischen Überprüfungsfunktion haben wir aufgrund von unrichtigen oder ungültigen Eingaben von Kundendaten eine zunehmende Anzahl von Problemen bei der Prüfung festgestellt. Um den Prozess zu optimieren und Verzögerungen im Prüfprozess auf ein Minimum zu beschränken, beachten Sie die folgenden Anweisungen:
 
 - Stellen Sie sicher, dass Sie Kundendaten so **genau** und **vollständig** wie möglich eingeben, um Verzögerungen bei der Untersuchung von Prüffehlern für zulässige Einträge zu reduzieren. Geben Sie keine Test- oder Dummy-Daten ein.
-- Überprüfen Sie die Leitfäden **Erstellen eines Education-Kunden in Partner Center** und **Hinzufügen einer neuen Kundenseite**, in denen dokumentiert ist, was beim Erstellen eines neuen Education-Kunden in Partner Center erforderlich ist. Sie finden beide im weiter unten genannten Ressourcenkatalog.
+- Überprüfen Sie die Leitfäden **Erstellen eines Education-Kunden in Partner Center** und **Hinzufügen einer neuen Kundenseite** , in denen dokumentiert ist, was beim Erstellen eines neuen Education-Kunden in Partner Center erforderlich ist. Sie finden beide im weiter unten genannten Ressourcenkatalog.
 
 >[!NOTE] 
 >Der Leitfaden **Erstellen eines Education-Kunden in Partner Center** enthält jetzt schrittweise Anleitungen zum Korrigieren von Kundendaten und zum erneuten Übermitteln, falls der Kunde die Prüfung nicht bestanden hat.

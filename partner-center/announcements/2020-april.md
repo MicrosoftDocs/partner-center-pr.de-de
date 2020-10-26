@@ -1,6 +1,6 @@
 ---
 title: Ankündigungen für April 2020
-description: 'Ankündigungen für April 2020: Microsoft Partner Center'
+description: 'Ankündigungen für April 2020 zum Microsoft Partner Center: neue Funktionen, Promotionen, Angebote, Märkte oder Änderungen an bestehenden Angeboten.'
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 886c655b26bf4be65b2c9ad42e3ee2ac78f0d067
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7591868f31d51750fcb30c41f73cea47c7178955
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999634"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031843"
 ---
 # <a name="april-2020-announcements"></a>Ankündigungen für April 2020
 
@@ -168,11 +168,11 @@ Stärkere und laufende Sicherheits- und Datenschutzmaßnahmen gehören zu unsere
 
 Vor Kurzem haben wir die Aktivierung der Sicherheitsvorkehrungen für AOBO-Funktionen (Admin-on-Behalf-of) für alle Partnermandanten abgeschlossen, um die Unternehmen und Kunden unserer Partner vor Identitätsdiebstahl zu schützen.
 
-Zur weiteren Unterstützung von Partnern und Kunden beginnt **ab dem 1. Mai 2020 die Aktivierung von Sicherheitsvorkehrungen für Partner Center-Transaktionen im CSP-Programm**. Die Aktivierung der zusätzlichen Sicherheitsmaßnahmen bedeutet, dass Partner die mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für sämtliche Transaktionen im CSP-Programm über die Partner Center-Benutzeroberfläche oder APIs verwenden müssen, um nicht autorisierten Zugriff zu verhindern und ihre Kunden und Mandanten vor Sicherheitsincidents im Bereich Identitätsdiebstahl zu schützen. Weitere Informationen finden Sie [hier](../partner-security-requirements-mandating-mfa.md).
+Zur weiteren Unterstützung von Partnern und Kunden beginnt **ab dem 1. Mai 2020 die Aktivierung von Sicherheitsvorkehrungen für Partner Center-Transaktionen im CSP-Programm** . Die Aktivierung der zusätzlichen Sicherheitsmaßnahmen bedeutet, dass Partner die mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für sämtliche Transaktionen im CSP-Programm über die Partner Center-Benutzeroberfläche oder APIs verwenden müssen, um nicht autorisierten Zugriff zu verhindern und ihre Kunden und Mandanten vor Sicherheitsincidents im Bereich Identitätsdiebstahl zu schützen. Weitere Informationen finden Sie [hier](../partner-security-requirements-mandating-mfa.md).
 
 ### <a name="next-steps"></a>Nächste Schritte
 
-- **Wenn Sie die empfohlenen Sicherheitsanforderungen zum Schutz Ihrer Mandanten und Benutzer nicht aktiviert haben**, sollten Sie dies sofort nachholen, damit Ihre Compliance erhalten bleibt und Geschäftsunterbrechungen bei der Verwaltung von Kunden oder beim Durchführen von Transaktionen im CSP-Programm vermieden werden. Partner, die diese Sicherheitsanforderungen nicht implementieren, gefährden damit möglicherweise ihre Teilnahme am CSP-Programm.
+- **Wenn Sie die empfohlenen Sicherheitsanforderungen zum Schutz Ihrer Mandanten und Benutzer nicht aktiviert haben** , sollten Sie dies sofort nachholen, damit Ihre Compliance erhalten bleibt und Geschäftsunterbrechungen bei der Verwaltung von Kunden oder beim Durchführen von Transaktionen im CSP-Programm vermieden werden. Partner, die diese Sicherheitsanforderungen nicht implementieren, gefährden damit möglicherweise ihre Teilnahme am CSP-Programm.
 - Indirekte Anbieter müssen diese Sicherheitsanforderungen für ihre Unternehmen selbst implementieren und mit ihren Handelspartnern zusammenarbeiten, um sicherzustellen, dass diese die Anforderungen ebenfalls implementieren. Dafür kann diese E-Mail-Vorlage eingesetzt werden. Wir nehmen zudem per E-Mail direkten Kontakt zu Ihren Handelspartnern auf.
 - Rufen Sie die [Statusseite zu den Partner Center-Sicherheitsanforderungen](https://partner.microsoft.com/commerce/security/compliance) auf, um Ihren Fortschritt und die wichtigsten Aktionen einzusehen. Arbeiten Sie mit Ihrem globalen Administrator zusammen, um den Fortschritt der Sicherheitsanforderungen für die einzelnen Mandanten regelmäßig zu überprüfen.
 - Wenden Sie sich an Ihren CPV (Control Panel Vendor), wenn Sie eine CPV-Lösung verwenden.
@@ -621,7 +621,7 @@ Die Operations Readiness-Ressourcen auf „partner.microsoft.com“ funktioniere
 Wie können Sie sich vorbereiten?
 
 - **Erfahren Sie mehr** zum Ort der neuen Microsoft-Partner-Website, indem Sie die aktualisierten Readiness-Materialien in der Katalogsammlung [Bald verfügbar: Operations Readiness-Ressourcen an einem zentralen Ort](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/) lesen.
-- **Nehmen Sie im April an einem Partner Community Call teil**, bei dem Sie mehr über die neue Umgebung erfahren und Fragen stellen können: [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
+- **Nehmen Sie im April an einem Partner Community Call teil** , bei dem Sie mehr über die neue Umgebung erfahren und Fragen stellen können: [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
 ### <a name="questions"></a>Noch Fragen?
 

@@ -4,31 +4,31 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie mehr über die Vorteile und verschiedene Modelle im Cloud Solution Provider-Programm, um Ihr Unternehmen mit neuen Kunden und neuem Know-how voranzubringen.
+description: Erfahren Sie mehr über die Vorteile und verschiedenen Modelle im Cloud Solution Provider (CSP)-Programm, um Ihr Unternehmen mit neuen Kunden und neuem Know-how voranzubringen.
 author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7be23ecd37aadcccdb29606573b8bb46ae607539
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: e1f85f670de583052807c9ff2edfa84a50bd7daf
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114326"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92197906"
 ---
-# <a name="cloud-solution-provider-program-benefits-and-different-models"></a>Vorteile und verschiedene Modelle des Cloud Solution Provider-Programms
+# <a name="cloud-solution-provider-program"></a>Programm für Cloud-Lösungsanbieter 
 
 **Zielgruppe**
 
 - Partner Center
 - Partner im CSP-Programm
 
-Das Cloud Solution Provider (CSP)-Programm hilft Ihnen, sich über den Weiterverkauf von Lizenzen hinaus stärker am Geschäft Ihrer Kunden zu beteiligen.
+Dieser Artikel gibt einen Überblick über das Cloud Solution Provider (CSP)-Programm und erläutert die verschiedenen Betriebsmodelle und ihre Anforderungen sowie weitere Einzelheiten zum Verkauf über dieses Programm.  Das CSP-Programm hilft Ihnen, sich über den Weiterverkauf von Lizenzen hinaus stärker in die Geschäfte Ihrer Kunden einzubringen, und kann folgende Vorteile bieten: 
 
-- Vertiefen Sie die Kundenbeziehungen – Dank regelmäßiger Besprechungen mit Ihren Kunden erhalten Sie ein besseres Verständnis ihrer Geschäftsabläufe und Anforderungen.
-- Steigern Sie Ihre Gewinne – Bieten Sie in Eigenregie oder über einen indirekten Anbieter verbesserte Unterstützung und Abrechnungsdienste, und erschließen Sie so neue Umsatzquellen.  
-- Schaffen Sie einen Mehrwert – Bieten Sie Ihren Kunden branchenspezifische Lösungen im Bundle mit Microsoft-Produkten.
-- Stellen Sie verwaltete Dienste bereit – Stärken Sie Ihre Position, indem Sie die Kundennachfrage nach verwalteten Diensten erfüllen. 
+- Tiefere Kundenbindung: Dank regelmäßiger Besprechungen mit Ihren Kunden erhalten Sie ein besseres Verständnis ihrer Geschäftsabläufe und Bedürfnisse.
+- Höhere Gewinne: Bieten Sie in Eigenregie oder über einen indirekten Anbieter verbesserte Unterstützung und Abrechnungsdienste, und erschließen Sie so neue Umsatzquellen.  
+- Höherer Mehrwert: Bieten Sie Ihren Kunden branchenspezifische Lösungen im Bundle mit Microsoft-Produkten.
+- Verwaltete Dienste: Stärken Sie Ihre Position, indem Sie die Kundennachfrage nach verwalteten Diensten erfüllen. 
 
 ## <a name="which-csp-model-is-best-for-me"></a>Welches CSP-Modell ist optimal für mich?
 
@@ -36,7 +36,7 @@ Das Cloud Solution Provider (CSP)-Programm hilft Ihnen, sich über den Weiterver
 
  Beim Modell mit direkter Abrechnung erwerben Partner Microsoft-Produkte und -Abonnements direkt von Microsoft und verkaufen sie über ihre internen Vertriebsmitarbeiter direkt an ihre Kunden. Partner, die bereits über eine geeignete Vertriebs-, Abrechnungs- und Supportinfrastruktur verfügen oder eine solche aufbauen möchten, können sich für das CSP-Direktmodell entscheiden. Die Anforderungen für direkte Partner wurden vor Kurzem geändert. Die neuen Anforderungen sind ab 31. August 2018 gültig. Direkte Partner müssen die neuen Anforderungen ab ihrem nächsten Registrierungszeitraum nach dem 31. August 2018 erfüllen.
 
-#### <a name="new-expanded-requirements"></a>Neue erweiterte Anforderungen:
+#### <a name="new-expanded-requirements"></a>Neue erweiterte Anforderungen
 
 Support
 
@@ -44,10 +44,9 @@ Support
 
 Dienste
 
-- Zeigen Sie auf, dass Sie mindestens einen verwalteten Dienst, einen IP-Dienst oder eine kundenspezifische Anwendungslösung anbieten. Weitere Informationen zum Hinzufügen von verwalteten Diensten
+- Zeigen Sie auf, dass Sie mindestens einen verwalteten Dienst, einen IP-Dienst oder eine kundenspezifische Anwendungslösung anbieten. 
 
-- Erfüllen Sie die Mindestanforderungen an Infrastrukturfunktionen, wie Abrechnung und Bereitstellung.
-Wir beobachten die jährliche Leistung, um sicherzustellen, dass Partner mit direkter Abrechnung, die diese Anforderungen erfüllen, ein kontinuierliches Unternehmenswachstum verzeichnen. Derzeit gibt es keine spezifischen Leistungsziele, es kann aber sein, dass Microsoft künftig ein Leistungslimit einführt.
+- Erfüllen Sie die Mindestanforderungen an Infrastrukturfunktionen, wie Abrechnung und Bereitstellung. Wir beobachten die jährliche Leistung, um sicherzustellen, dass Partner mit direkter Abrechnung, die diese Anforderungen erfüllen, ein kontinuierliches Unternehmenswachstum verzeichnen. Derzeit gibt es keine spezifischen Leistungsziele, es kann aber sein, dass Microsoft künftig ein Leistungslimit einführt.
 
 - Eine aktive Microsoft Partner Network (MPN)-ID für den Standort, an dem Sie Produkte vertreiben möchten
 
@@ -71,12 +70,9 @@ Sie können das gesamte Spektrum von [Microsoft Cloud Services](https://partner.
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- Anforderungen an die einzelnen CSP-Modelle des [Cloud Solution Provider-Programms](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
-
-- Vertrieb in den nationalen Clouds von Microsoft: [Bewerben für den Vertrieb in nationalen Clouds von Microsoft](csp-national-clouds-overview.md)
-
-- Microsoft-Kundenvereinbarung – Kundenvorlagen: [Microsoft Kundenvereinbarungen nach Region und Sprache](agreements.md)
-
-- Aufgaben indirekter Anbieter im Partner Center [Arbeiten mit indirekten Wiederverkäufern im Cloud Solution Provider-Programm](indirect-provider-tasks-in-partner-center.md)
-
-- Aufgaben indirekter Wiederverkäufer im Partner Center [Arbeiten mit indirekten Anbietern im Cloud Solution Provider-Programm](indirect-reseller-tasks-in-partner-center.md)
+- [Registrieren für das CSP-Programm](enrolling-in-the-csp-program.md)
+- [Überprüfen der Anforderungen für die einzelnen CSP-Modelle](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
+- [Bewerben für den Vertrieb in nationalen Clouds von Microsoft](csp-national-clouds-overview.md)
+- [Microsoft Kundenvereinbarungen nach Region und Sprache](agreements.md)
+- [Aufgaben indirekter Anbieter im Partner Center](indirect-provider-tasks-in-partner-center.md)
+- [Arbeiten mit indirekten Anbietern im Cloud Solution Provider-Programm](indirect-reseller-tasks-in-partner-center.md)

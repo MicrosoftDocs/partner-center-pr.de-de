@@ -1,7 +1,7 @@
 ---
 title: Registrieren für das Programm für Cloud-Lösungsanbieter
 ms.topic: how-to
-ms.date: 10/05/2020
+ms.date: 10/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie sich für ein Vertriebsmodell des Cloud Solution Provider (CSP)-Programms registrieren, das am besten für Ihr Unternehmen geeignet ist – z. B. als indirekter Wiederverkäufer oder Direktabrechnungspartner.
@@ -9,14 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f44d9dd79f5d02160aa30d99e4815bf8e7837ec5
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763335"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198096"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>Registrierung für das Cloud Solution Provider-Programm und Aufbau eines profitablen Geschäfts für Cloudlösungen
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud-Lösungsanbieter
 
 **Zielgruppe**
 
@@ -64,7 +64,7 @@ Weitere Informationen zu den Anforderungen, die du als indirekter Wiederverkäuf
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Registrieren als Direktabrechnungspartner
 
-Als Direktabrechnungspartner sind Sie die für die End-to-End-Beziehung mit Ihren Kunden und Microsoft verantwortlich. Wir haben die Registrierungsanforderungen für Direktabrechnungspartner ab dem 31. August 2018 aktualisiert. Mit diesen neuen Anforderungen können Sie das Wachstum Ihres Unternehmens mit dem richtigen CSP-Registrierungsmodell beschleunigen und Ihre Kundenbeziehungen mithilfe von Mehrwertdiensten und Support festigen. 
+Als Direktabrechnungspartner sind Sie die für die End-to-End-Beziehung mit Ihren Kunden und Microsoft verantwortlich. Wir haben die Registrierungsanforderungen für Direktabrechnungspartner ab dem 31. August 2018 aktualisiert. Mit diesen neuen Anforderungen können Sie das Wachstum Ihres Unternehmens mit dem richtigen CSP-Registrierungsmodell beschleunigen und Ihre Kundenbeziehungen mithilfe von Mehrwertdiensten und Support festigen.
 
 ### <a name="minimum-requirements"></a>Mindestanforderungen
 
@@ -96,5 +96,8 @@ Unter [Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum 
 ## <a name="csp-regional-markets-and-currencies"></a>Regionale CSP-Märkte und Währungen
 
 Ihr Markt wird durch den Standort Ihres Unternehmens bestimmt. Ihr Markt umfasst die Regionen und/oder Länder, in denen Sie CSP-Angebote verkaufen können. Unter [Regionale Märkte und Währungen des Cloud Solution Provider-Programms](regional-authorization-overview.md) finden Sie Informationen zu Marktstandorten und Währungen.
-Lesen Sie unbedingt den Artikel zum [Hinzufügen einer neuen MPN-ID für den Standort](manage-locations.md).
+Informieren Sie sich auf jeden Fall unter [Voraussetzungen für das Hinzufügen eines neuen Standorts für ein CSP-Geschäft](manage-locations.md).
 
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Informationen zur Microsoft Partner-Vereinbarung für Partner im CSP-Programm](microsoft-partner-agreement.md)

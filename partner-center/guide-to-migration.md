@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Hier erfahren Sie, wie Sie Ihr Unternehmen vom Partner Membership Center (PMC) zu Partner Center migrieren.
+description: Erfahren Sie, wie Sie Ihr Unternehmen vom Partner Membership Center (PMC) zum Partner Center migrieren, einschließlich der erforderlichen Schritte.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c863f8b0942b38bab80cd97e72a85935bde2ba7c
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 8b6646ff943ff219c41c975d60e66a46d1e0f595
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663831"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175238"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Leitfaden zum Migrieren von PMC zu Partner Center
 
@@ -94,7 +94,7 @@ Ihre Domänenregistrierungsstelle wurde bereits automatisch ausgefüllt. Nur der
 
 ## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>Vertrautmachen mit Ihrem Dashboard und Partner Center
 
-Sehen Sie sich die Einführung zum Dashboard an. Hier können Sie Ihre Mitgliedschaft verwalten, ein Geschäftsprofil für Empfehlungen hinzufügen, sich beim Cloud Solution Provider-Programm registrieren sowie für Ihr Unternehmen relevante Benachrichtigungen und Angebote jederzeit anzeigen, indem Sie **Dashboard**auswählen. Sie können auch Incentives verwalten, auf dem Marketplace kaufen, sich für Markteinführungsdienste registrieren und vieles mehr ausführen.  
+Sehen Sie sich die Einführung zum Dashboard an. Hier können Sie Ihre Mitgliedschaft verwalten, ein Geschäftsprofil für Empfehlungen hinzufügen, sich beim Cloud Solution Provider-Programm registrieren sowie für Ihr Unternehmen relevante Benachrichtigungen und Angebote jederzeit anzeigen, indem Sie **Dashboard** auswählen. Sie können auch Incentives verwalten, auf dem Marketplace kaufen, sich für Markteinführungsdienste registrieren und vieles mehr ausführen.  
 
 :::image type="content" source="images/migration/fre.png" alt-text="Erste Schritte":::
 

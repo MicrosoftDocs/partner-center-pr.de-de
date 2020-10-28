@@ -4,18 +4,17 @@ ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erstellen Sie ein Geschäftskonto, durch das Ihr Unternehmen mit Ihrem Partner Center-Konto verknüpft wird. Auf diese Weise können Mitarbeiter Ihres Unternehmens auf das Partner Center zugreifen.
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.custom: SEOAPR.20
-Keywords: Geschäftskonto, E-Mail-Adresse, Mandant, Azure-Mandant, Konto erstellen, Domänenname
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394220"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "92333826"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Erstellen eines Geschäftskontos, durch das Ihr Unternehmen mit Ihrem Partner Center-Konto verknüpft wird
 
@@ -61,7 +60,7 @@ Das folgende Diagramm enthält die Schritte für mehrere typische Szenarien:
 
 :::image type="content" source="images/onboardingAADFlow.png" lightbox="images/onboardingAADFlow.png" alt-text="Besitzen Sie ein Geschäftskonto oder müssen Sie eins erstellen?":::
 
-Weitere Informationen zum Hinzufügen von Domänen in Azure AD finden Sie unter [Hinzufügen oder Zuordnen einer Domäne in Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain).
+Weitere Informationen zum Hinzufügen von Domänen in Azure AD finden Sie unter [Hinzufügen oder Zuordnen einer Domäne in Azure AD](/azure/active-directory/active-directory-add-domain).
 
 ## <a name="about-microsoft-azure"></a>Informationen zu Microsoft Azure
 

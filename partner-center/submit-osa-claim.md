@@ -1,7 +1,7 @@
 ---
 title: Erstellen einer Kundenzuordnung
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Erstellen Sie Kunden Zuordnungen mit dem Anspruchs enden Partner of Record (cpor)-Modell. Hilft bei der Verwaltung von Verkäufen, Nutzung und Anreizen für Microsoft 365 & Dynamics 365-Kunden.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174991"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917251"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Kunden Zuordnungen über das beanspruchte cpor-Modell (Partner of Record) für Microsoft 365 und Dynamics 365
 
@@ -35,15 +35,15 @@ Zum Vervollständigen eines Anspruchs benötigen Sie die folgenden Informationen
 
 - Die **MPN-ID** für die Entität, die den Anspruch macht.
 
-- **Domänen Name** des Kunden [Suchen](find-domain-name.md)
+- **Domänen Name** des Kunden [Suchen](find-ids-and-domain-names.md)
 
-- Verzeichnis- **ID** oder Mandanten- **ID** des Kunden [Suchen](find-domain-name.md)
+- Verzeichnis- **ID** oder Mandanten- **ID** des Kunden [Suchen](find-ids-and-domain-names.md)
 
-- Der **Lösungs Bereich**, z. b. Business Applications oder Microsoft 365
+- Der **Lösungs Bereich** , z. b. Business Applications oder Microsoft 365
 
 - Die **Aktivität** , die Sie ausgeführt haben, und der Anspruchstyp, den Sie erstellen möchten, z. b. vor der Verkäufe, Verwendung oder Umsatz Zuordnung
 
-- **Kontakt Name**, Titel und e-Mail-Adresse Ihres Kunden
+- **Kontakt Name** , Titel und e-Mail-Adresse Ihres Kunden
 
 - Für Dynamics 365 müssen Sie auch den **technischen Kontakt** Namen, den Titel und die e-Mail-Adresse Ihres Kunden angeben.
 
@@ -53,9 +53,9 @@ Zum Vervollständigen eines Anspruchs benötigen Sie die folgenden Informationen
 
 - Die von Ihnen beanspruchten **Produkte** oder Arbeits Auslastungen
 
-- Der **Ausführungs Nachweis (PoE)**, z. b. eine vom Kunden signierte Anweisung. Sie können auch eine zu verwendende Poe-Vorlage herunterladen.
+- Der **Ausführungs Nachweis (PoE)** , z. b. eine vom Kunden signierte Anweisung. Sie können auch eine zu verwendende Poe-Vorlage herunterladen.
 
-- Für Partner, die nur die Umsatz Zuordnung beanspruchen: **Name des Dynamics-Lösungs Verkäufers**, **Kunden Name**und **Name von ISV-Produkt/-Lösung**. 
+- Für Partner, die nur die Umsatz Zuordnung beanspruchen: **Name des Dynamics-Lösungs Verkäufers** , **Kunden Name** und **Name von ISV-Produkt/-Lösung** . 
 
 Außerdem sollten Sie die folgenden Punkte kennen:
 
@@ -69,24 +69,24 @@ Außerdem sollten Sie die folgenden Punkte kennen:
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 
-2. Wählen Sie die Registerkarte " **Incentives** " aus, wählen Sie **Übersicht**und dann **Kunden Zuordnungen**aus.
+2. Wählen Sie die Registerkarte " **Incentives** " aus, wählen Sie **Übersicht** und dann **Kunden Zuordnungen** aus.
 
-3. Wählen Sie am oberen Rand der Seite Kunden Zuordnungen die Option **+ Customer Association**aus.
+3. Wählen Sie am oberen Rand der Seite Kunden Zuordnungen die Option **+ Customer Association** aus.
 
-4. Wählen Sie die **MPN-ID** des Partnerstandorts aus, der dem Kunden zugeordnet werden soll, und fügen Sie dann den Domänennamen und die Verzeichnis-ID des Kunden hinzu. [Suchen Sie nach diesem](find-domain-name.md)
+4. Wählen Sie die **MPN-ID** des Partnerstandorts aus, der dem Kunden zugeordnet werden soll, und fügen Sie dann den Domänennamen und die Verzeichnis-ID des Kunden hinzu. [Suchen Sie nach diesem](find-ids-and-domain-names.md)
 
-5. Wählen Sie **Weiter**.
+5. Wählen Sie **Weiter** .
 
-6. Wählen Sie den projektmappenbereich und die **Aktivität**aus. **Solution area** 
+6. Wählen Sie den projektmappenbereich und die **Aktivität** aus. **Solution area** 
 
    >[!Note]
    >
-   >Wenn Sie Business Applications auswählen, wählen Sie entweder **Nutzung und/oder vorab Verkäufe**oder **Umsatz**Zuordnung aus, und klicken Sie dann auf **weiter**. 
+   >Wenn Sie Business Applications auswählen, wählen Sie entweder **Nutzung und/oder vorab Verkäufe** oder **Umsatz** Zuordnung aus, und klicken Sie dann auf **weiter** . 
    <br><br>Wenn Sie die „Umsatzzuordnung“ auswählen, werden Sie aufgefordert, etwas andere Informationen als die unten aufgeführten Informationen anzugeben.
 
-7. Geben Sie die entsprechenden Informationen auf der Seite **Customer zuordnen** ein, und wählen Sie dann **Anspruch erstellen**aus.
+7. Geben Sie die entsprechenden Informationen auf der Seite **Customer zuordnen** ein, und wählen Sie dann **Anspruch erstellen** aus.
 
-8. Wählen Sie die mit dieser Kunden Zuordnung verknüpften Produkte aus, und klicken Sie dann auf **weiter**.
+8. Wählen Sie die mit dieser Kunden Zuordnung verknüpften Produkte aus, und klicken Sie dann auf **weiter** .
 
 9. Vervollständigen Sie die Kundenkontaktinformationen und die Kontaktinformationen Ihres Unternehmens. Alle Felder sind erforderlich. 
 

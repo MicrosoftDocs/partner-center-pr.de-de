@@ -9,21 +9,25 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e9ffa6ef8145099a90fde16e4ce8d6a3453973e0
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3cd791f5f9f781980d73c79f0ec18627585372a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000644"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795864"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer
 
 **Gilt für:**
+- Partner Center
 
-- CSP-Partner
+**Geeignete Rollen**
+
+- Alle Direct Bill-CSP-Partner
 
 >[!Note]
 >Dieser Artikel richtet sich an Direktabrechnungspartner, die indirekte Wiederverkäufer werden möchten. Auch wenn Sie noch keine explizite Entscheidung getroffen haben, sich als indirekter Reseller anzumelden, werden direkt Rechnungs Partner, die die neuen [Anforderungen](direct-partner-new-requirements.md) für das CSP Direct Bill Partner Program nicht erfüllen, von Microsoft informiert, wenn Ihre [direkten Rechnungs Funktionen eingeschränkt](restricted-direct-bill-capabilities.md)werden.
+<br>Ab Januar 2021 wird eine neue Umsatz Anforderung hinzugefügt. Partner, die als direkter Rechnungs Partner angemeldet sind, müssen in den letzten 12 Monaten mindestens USD $300 KB in den Einnahmen eines Cloud Solution Provider-Programms auf der globalen Kontoebene eines Partners durchlaufen haben.
 
 Sie können sich unter Verwendung Ihres vorhandenen Direktabrechnungsmandanten beim Programm für indirekte Wiederverkäufer registrieren.
 
@@ -37,7 +41,7 @@ Sie können sich unter Verwendung Ihres vorhandenen Direktabrechnungsmandanten b
 
 3. Überprüfen Sie Ihre Partnerdetails im Registrierungsformular.
 
-   :::image type="content" source="images/direct/direct2a.png" alt-text="Jetzt registrieren":::
+   :::image type="content" source="images/direct/direct2a.png" alt-text="Übersicht":::
 
 4. Wählen Sie „Jetzt registrieren“ aus. Für Ihre Tätigkeit als indirekter Wiederverkäufer wird der gleiche AAD-Mandant verwendet wie für Ihre direkte Tätigkeit.
 
@@ -53,7 +57,7 @@ Sie können sich unter Verwendung Ihres vorhandenen Direktabrechnungsmandanten b
 
 Wenn Sie die Vereinbarung für indirekte Wiederverkäufer akzeptiert haben, weist Sie Ihr Partnerprofil als Direktabrechnungspartner **und** als indirekter Wiederverkäufer aus.
 
-:::image type="content" source="images/direct/direct3.png" alt-text="Vereinbarung für indirekte Wiederverkäufer":::
+:::image type="content" source="images/direct/direct3.png" alt-text="Übersicht":::
 
 > [!IMPORTANT]
 > Nachdem Sie sich mit der neuen Funktion als indirekter Wiederverkäufer registriert haben, steht keine Option für ein Rollback zu einem reinen Direktabrechnungsmandanten zur Verfügung. Registrieren Sie sich daher erst nach sorgfältiger Prüfung Ihrer geschäftlichen Anforderungen als indirekter Wiederverkäufer.
@@ -62,7 +66,7 @@ Wenn Sie die Vereinbarung für indirekte Wiederverkäufer akzeptiert haben, weis
 
 In dieser Phase verwalten Sie weiterhin die Abonnement Anforderungen ihrer direkten Kunden, einschließlich des Abrechnungs Prozesses. Außerdem beginnen Sie damit, Kunden von Ihrem indirekten Anbieter zu akzeptieren und als indirekter Wiederverkäufer zu agieren.
 
-:::image type="content" source="images/direct/direct4.png" alt-text="Sie sind sowohl Direktabrechnungspartner als auch indirekter Wiederverkäufer.":::
+:::image type="content" source="images/direct/direct4.png" alt-text="Übersicht":::
 
 ## <a name="find-an-indirect-provider"></a>Suchen eines indirekten Anbieters
 
@@ -94,7 +98,7 @@ So erstellen Sie eine Einladung als indirekter Wiederverkäufer:
 
 2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu einer Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzuladen. Der Anbieter muss über eine Reseller-Beziehung mit Ihrem Kunden verfügen, damit er Bestellungen im Auftrag Ihres Kunden einreichen kann, wenn der Kunde neue Abonnements erwerben oder vorhandene Abonnements neue Lizenzen hinzufügen möchte.
 
-3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
+3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
 
 4. Bearbeiten Sie den Text in der e-Mail-Nachricht, um zu sagen, was Sie brauchen, aber achten Sie darauf, den Link so zu schließen, dass er den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters verbindet. Wählen Sie dann **Fertig** aus.
 
@@ -168,21 +172,21 @@ Mit dem Feature für die Reseller-Beziehungs Erweiterung können Sie eine Resell
 
 So verwenden Sie dieses Feature für einen vorhandenen Kunden Mandanten:
 
-1. Melden Sie sich als **Administrator-Agent**beim Partner Center an.
+1. Melden Sie sich als **Administrator-Agent** beim Partner Center an.
 
-2. Wählen Sie auf der **Seite "Kunden**" einen vorhandenen Kunden aus, und klicken Sie auf das Symbol " **Quick Links** ", um die Zusammenfassungs Ansicht des Kunden zu erweitern.
+2. Wählen Sie auf der **Seite "Kunden** " einen vorhandenen Kunden aus, und klicken Sie auf das Symbol " **Quick Links** ", um die Zusammenfassungs Ansicht des Kunden zu erweitern.
 
-3. Klicken Sie unter **indirekte Anbieter** **auf Kunden an einem indirekten Anbieter übertragen**.
+3. Klicken Sie unter **indirekte Anbieter** **auf Kunden an einem indirekten Anbieter übertragen** .
 
-    :::image type="content" source="images/direct/direct5-1.png" alt-text="Kunden an einen indirekten Anbieter übertragen":::
+    :::image type="content" source="images/direct/direct5-1.png" alt-text="Übersicht":::
 
 4. Wählen Sie im Popup Dialogfeld den **indirekten Anbieter** aus, dem die Wiederverkäufer Beziehung zum Kunden hinzugekommen sein soll.
 
-5. Klicken Sie auf **Speichern und fortfahren**.
+5. Klicken Sie auf **Speichern und fortfahren** .
 
-6. Überprüfen Sie, ob der ausgewählte indirekte Anbieter unter **indirekte Anbieter**angezeigt wird.
+6. Überprüfen Sie, ob der ausgewählte indirekte Anbieter unter **indirekte Anbieter** angezeigt wird.
 
-    :::image type="content" source="images/direct/direct5-2.png" alt-text="Indirekter Anbieter aufgelistet":::
+    :::image type="content" source="images/direct/direct5-2.png" alt-text="Übersicht":::
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>Sendet eine indirekte Reseller-Einladung an den Kunden.
 
@@ -192,9 +196,9 @@ Ihr indirekter Anbieter kann keine Bestellungen für Ihre bestehenden Kunden der
 
 2. Wählen Sie **Neue Kunden einladen** aus, um einen Kunden zu einer Vertriebspartnerschaft mit Ihnen und dem indirekten Anbieter einzuladen. Der Anbieter muss über eine Reseller-Beziehung mit Ihrem Kunden verfügen, damit er Bestellungen im Auftrag Ihres Kunden einreichen kann, wenn der Kunde neue Abonnements erwerben oder vorhandene Abonnements neue Lizenzen hinzufügen möchte.
 
-    :::image type="content" source="images/direct/direct6.png" alt-text="Neue Kunden einladen":::
+    :::image type="content" source="images/direct/direct6.png" alt-text="Übersicht":::
 
-3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail-Nachricht. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
+3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail. Sie können den Nachrichtenentwurf in Ihrer E-Mail-Anwendung öffnen oder die Nachricht in die Zwischenablage kopieren und in eine E-Mail einfügen.
 
 4. Bearbeiten Sie den Text in der e-Mail-Nachricht, um zu sagen, was Sie brauchen, aber achten Sie darauf, den Link so zu schließen, dass er den Kunden direkt mit Ihrem Konto und dem Konto Ihres Anbieters verbindet. Wählen Sie dann **Fertig** aus.
 
@@ -259,29 +263,27 @@ Die Funktion ist ein 4-stufiger Prozess, bei dem Folgendes gilt:
 
 So erstellen Sie eine Übertragungs Anforderung als Übergangs Partner:
 
-1. Melden Sie sich als **Administrator-Agent**beim Partner Center an.
+1. Melden Sie sich als **Administrator-Agent** beim Partner Center an.
 
 2. Wählen Sie auf der Seite **Customers** den gewünschten Kunden aus, und klicken Sie auf das Symbol Quick Links, um die Zusammenfassungs Ansicht des Kunden zu erweitern.
 
-3. Vergewissern Sie sich, dass unter **indirekte Anbieter**der gewünschte indirekte Anbieter aufgeführt ist.
+3. Vergewissern Sie sich, dass unter **indirekte Anbieter** der gewünschte indirekte Anbieter aufgeführt ist.
 
-4. Klicken Sie auf **Abonnements anzeigen**.
+4. Klicken Sie auf **Abonnements anzeigen** .
 
-5. Suchen Sie auf der Seite **Abonnements** nach **Abonnement Übertragung**.
+5. Suchen Sie auf der Seite **Abonnements** nach **Abonnement Übertragung** .
 
-6. Klicken Sie unter **Abonnement Übertragung**auf **Abonnement Übertragung anfordern**.
+6. Klicken Sie unter **Abonnement Übertragung** auf **Abonnement Übertragung anfordern** .
 
-    :::image type="content" source="images/direct/direct8.png" alt-text="Übertragung von Abonnements anfordern":::
+    :::image type="content" source="images/direct/direct8.png" alt-text="Übersicht" mindestens ein Abonnement aus, das übertragen werden soll.
 
-7. Wählen Sie im Dialogfeld "Übertragungs Anforderung" mindestens ein Abonnement aus, das übertragen werden soll.
+    :::image type="content" source="images/direct/direct9.png" alt-text="Übersicht":::
 
-    :::image type="content" source="images/direct/direct9.png" alt-text="Übertragungs Anforderung erstellen":::
+8. Klicken Sie auf **Erstellen** .
 
-8. Klicken Sie auf **Erstellen**.
+9. Eine aktive Abonnement Übertragungs Anforderung wird unter **Abonnement Übertragung** angezeigt.
 
-9. Eine aktive Abonnement Übertragungs Anforderung wird unter **Abonnement Übertragung**angezeigt.
-
-    :::image type="content" source="images/direct/direct10.png" alt-text="Liste der Übertragungsanforderungen":::
+    :::image type="content" source="images/direct/direct10.png" alt-text="Übersicht":::
 
 10. Informieren Sie Ihren indirekten Anbieter darüber, dass Sie eine Abonnement Übertragungs Anforderung für Sie erstellt haben.
 
@@ -289,29 +291,29 @@ So erstellen Sie eine Übertragungs Anforderung als Übergangs Partner:
 
 So überprüfen und akzeptieren Sie eine Übertragungs Anforderung als indirekten Anbieter:
 
-1. Melden Sie sich bei Partner Center als **Administrator** -Agent oder **Vertriebs-Agent**an.
+1. Melden Sie sich bei Partner Center als **Administrator** -Agent oder **Vertriebs-Agent** an.
 
 2. Wählen Sie auf der Seite " **Kunden** " den gewünschten Kunden aus, und klicken Sie auf das Symbol "Quick Links", um die Zusammenfassungs Ansicht des Kunden zu erweitern.
 
-3. Vergewissern Sie sich unter **indirekte Händler**, dass der Übergangs Partner aufgeführt ist.
+3. Vergewissern Sie sich unter **indirekte Händler** , dass der Übergangs Partner aufgeführt ist.
 
-4. Klicken Sie auf **Abonnements anzeigen**.
+4. Klicken Sie auf **Abonnements anzeigen** .
 
-5. Suchen Sie auf der Seite **Abonnements** nach **Abonnement Übertragung**.
+5. Suchen Sie auf der Seite **Abonnements** nach **Abonnement Übertragung** .
 
-    :::image type="content" source="images/direct/direct11.png" alt-text="Übertragungs Anforderung anzeigen":::
+    :::image type="content" source="images/direct/direct11.png" alt-text="Übersicht":::
 
-6. Klicken Sie unter **Abonnement Übertragung**auf die zu überprüfende Übertragungs Anforderung.
+6. Klicken Sie unter **Abonnement Übertragung** auf die zu überprüfende Übertragungs Anforderung.
 
-7. Klicken Sie nach Bedarf auf **annehmen** (oder **ablehnen**).
+7. Klicken Sie nach Bedarf auf **annehmen** (oder **ablehnen** ).
 
-    :::image type="content" source="images/direct/direct12.png" alt-text="Übertragungs Anforderung akzeptieren":::
+    :::image type="content" source="images/direct/direct12.png" alt-text="Übersicht":::
 
 8. Warten Sie, bis die Übertragungs Anforderung beendet wurde.
 
 ### <a name="indirect-provider---verify-transfer-request-is-complete"></a>Indirekte Anbieter-Überprüfen der Übertragungs Anforderung ist beendet
 
-1. Nachdem die Übertragungs Anforderung erfolgreich abgeschlossen wurde, überprüfen Sie, ob die Abonnements unter **Abonnements**angezeigt werden.
+1. Nachdem die Übertragungs Anforderung erfolgreich abgeschlossen wurde, überprüfen Sie, ob die Abonnements unter **Abonnements** angezeigt werden.
 
 2. Informieren Sie den Übergangs Partner.
 
@@ -319,15 +321,15 @@ So überprüfen und akzeptieren Sie eine Übertragungs Anforderung als indirekte
 
 Der Übergangs Partner sollte folgende Aktionen ausführen:
 
-1. Melden Sie sich bei Partner Center als **Administrator-Agent** oder Vertriebs- **Agent**an.
+1. Melden Sie sich bei Partner Center als **Administrator-Agent** oder Vertriebs- **Agent** an.
 
 2. Wählen Sie auf der Seite **Customers** den gewünschten Kunden aus, und klicken Sie auf das Symbol **Quick Links** , um die Zusammenfassungs Ansicht des Kunden zu erweitern.
 
-3. Klicken Sie auf **Abonnements anzeigen**.
+3. Klicken Sie auf **Abonnements anzeigen** .
 
-4. Suchen Sie auf der Seite **Abonnements** nach **Abonnement Übertragung**.
+4. Suchen Sie auf der Seite **Abonnements** nach **Abonnement Übertragung** .
 
-5. Stellen Sie sicher, dass die Übertragungs Anforderung als " **Fertig**" gekennzeichnet ist.
+5. Stellen Sie sicher, dass die Übertragungs Anforderung als " **Fertig** " gekennzeichnet ist.
 
 6. Überprüfen Sie, ob die Abonnements auf der Seite " **Abonnements** " nicht mehr als aktiv angezeigt werden:
 
@@ -335,7 +337,7 @@ Der Übergangs Partner sollte folgende Aktionen ausführen:
 
    2. Wenn dies ein Lizenz basiertes Abonnement (Office 365, Dynamics, InTune) ist, wird es mit dem Status angehalten aufgeführt **.**
 
-   :::image type="content" source="images/direct/direct13.png" alt-text="Abonnement angehalten":::
+   :::image type="content" source="images/direct/direct13.png" alt-text="Übersicht":::
 
 ### <a name="considerations"></a>Überlegungen
 

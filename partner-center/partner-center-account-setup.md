@@ -8,13 +8,13 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/02/2020
-ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.date: 10/19/2020
+ms.openlocfilehash: 05cc8a07b3b2f388be201fa1a4065bddcd4b7f99
+ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92197996"
+ms.lasthandoff: 10/21/2020
+ms.locfileid: "92333932"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Verwalten Ihres Partner Center-Kontos – Unternehmensprofile, Bankdetails, Rollen, Berechtigungen und mehr
 
@@ -42,16 +42,16 @@ So erfahren Sie, auf welche Programme Sie im Partner Center zugreifen können:
 1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 2. Achte auf den linken Navigationsbereich, in dem Optionen für deine registrierten Programme angezeigt werden.
 
-Stellen wir uns einfach vor, dass ein Benutzer Zugriff auf drei Programme im Partner Center-Dashboard hat: die Programme **MPN**, **Empfehlungen** und **Kommerzieller Marketplace**. Wenn sich Benutzer beim Partner Center-Dashboard anmelden, sehen sie drei Programme auf der linken Seite des Bildschirms.
+Stellen wir uns einfach vor, dass ein Benutzer Zugriff auf drei Programme im Partner Center-Dashboard hat: die Programme **MPN** , **Empfehlungen** und **Kommerzieller Marketplace** . Wenn sich Benutzer beim Partner Center-Dashboard anmelden, sehen sie drei Programme auf der linken Seite des Bildschirms.
 
 :::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="Menü mit registrierten Programmen":::
 
 ## <a name="account-management"></a>Kontoverwaltung
 
-Konten werden im Partner Center derzeit in zwei verschiedenen Abschnitten verwaltet: unter **Partnereinstellungen** und **Entwicklereinstellungen**.
+Konten werden im Partner Center derzeit in zwei verschiedenen Abschnitten verwaltet: unter **Partnereinstellungen** und **Entwicklereinstellungen** .
 
 >[!NOTE]
->Um auf **Partnereinstellungen** oder **Entwicklereinstellungen** zuzugreifen, musst du dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) anmelden. Wähle dann die Option **Einstellungen** (das Zahnradsymbol) in der oberen rechten Ecke des Bildschirms aus. Anschließend kannst du entweder **Partnereinstellungen** oder **Entwicklereinstellungen** aus dem Dropdownmenü auswählen.
+>Um auf **Partnereinstellungen** oder **Entwicklereinstellungen** zuzugreifen, musst du dich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard) anmelden. Wähle dann die Option **Einstellungen** (das Zahnradsymbol) in der oberen rechten Ecke des Bildschirms aus. Anschließend kannst du entweder **Partnereinstellungen** oder **Entwicklereinstellungen** aus dem Dropdownmenü auswählen.
 
 :::image type="content" source="images/accountsettings/account1.png" alt-text="Menü mit registrierten Programmen":::
 
@@ -75,19 +75,19 @@ Dies ist eine partielle Liste der verfügbaren Programme und der entsprechenden 
 
 ### <a name="locate-your-mpn-id"></a>Ermitteln Ihrer MPN-ID
 
-Unabhängig davon, ob Sie Partner oder Entwickler sind, müssen Sie Ihre MPN-ID für Aktionen wie die Erstellung von Supporttickets verwenden. Wenn Sie Entwickler sind, befindet sich Ihre MPN-ID auf der Detailseite **Kontoeinstellungen**.
+Unabhängig davon, ob Sie Partner oder Entwickler sind, müssen Sie Ihre MPN-ID für Aktionen wie die Erstellung von Supporttickets verwenden. Wenn Sie Entwickler sind, befindet sich Ihre MPN-ID auf der Detailseite **Kontoeinstellungen** .
 
-Die MPN-ID für Partner befindet sich auf der Seite **Partnerprofil**.
+Die MPN-ID für Partner befindet sich auf der Seite **Partnerprofil** .
 
 ### <a name="see-partner-and-developer-settings"></a>Siehe Partner- und Entwicklereinstellungen
 
-Die Optionen unter **Partnereinstellungen** unterscheiden sich von den Optionen unter **Entwicklereinstellungen**. Im Folgenden werden Screenshots als Beispiele für die verschiedenen Optionen angezeigt. Wenn du Zugriff auf andere Programme hast, siehst du möglicherweise auch andere Optionen als hier in den Screenshots.
+Die Optionen unter **Partnereinstellungen** unterscheiden sich von den Optionen unter **Entwicklereinstellungen** . Im Folgenden werden Screenshots als Beispiele für die verschiedenen Optionen angezeigt. Wenn du Zugriff auf andere Programme hast, siehst du möglicherweise auch andere Optionen als hier in den Screenshots.
 
-**Optionen für Partnereinstellungen**:
+**Optionen für Partnereinstellungen** :
 
 :::image type="content" source="images/accountsettings/partneroptions.png" alt-text="Menü mit registrierten Programmen":::
 
-**Optionen für Entwicklereinstellungen**:
+**Optionen für Entwicklereinstellungen** :
 
 :::image type="content" source="images/accountsettings/devoptions.png" alt-text="Menü mit registrierten Programmen":::
 
@@ -126,6 +126,5 @@ Wenn du bei Programmen wie dem MPN-Programm oder dem CSP-Programm (Cloud Solutio
 |Registrieren als Control Panel-Anbieter in Partner Center|[Registrieren als Control Panel-Anbieter in Partner Center](enroll-as-cpv.md)|
 |Zuordnen des Microsoft Learn-Kontos im Partner Center|[Zuordnen des Microsoft Learn-Kontos im Partner Center](ms-learn-associate.md)|
 |Sicherstellen, dass Ihr Unternehmen so vermarktet wird, dass es von Kunden gefunden wird   |[Erstellen eines Unternehmensprofils](create-a-marketing-profile.md)|
-|Organisieren des Katalogs, sodass die wichtigsten Produkte am Anfang der Liste stehen   |[Anpassen des Katalogs](customize-the-catalog.md)|
 |Regelmäßige Aktualisierung mit aktuellen Preisen und Angeboten   |[Preise und Angebote](pricing-and-offers.md)|
-|API: Überprüfen einer Partner-MPN-ID|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]
+|API: Überprüfen einer Partner-MPN-ID|[Überprüfen einer Partner-MPN-ID](https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md)

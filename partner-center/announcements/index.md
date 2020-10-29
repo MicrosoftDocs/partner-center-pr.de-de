@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
+ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92352866"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92749703"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Oktober 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+|Funktionen|[Einführung eines Leistungsstandards für die Anforderungen von Partnern mit direkter Abrechnung im CSP-Programm (Cloud Solution Provider)](2020-october.md#13)|27. Oktober|
 |Angebote/Märkte|[Microsoft 365 Business Voice: Angebotsaktualisierung](2020-october.md#12)|16. Oktober|
 |Funktionen|[Update vom November 2020: Leitfaden für Onlinedienste und Softwarekanalautorisierung](2020-october.md#11)|14. Oktober|
 |Angebote/Märkte|[Einführung von Microsoft 365 Business Voice für gemeinnützige Organisationen](2020-october.md#10)|12. Oktober|

@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175184"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795830"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Zusammenführen Ihres Partnerkontos mit einem anderen Partnerkonto
 
@@ -84,12 +84,32 @@ Wenn Sie sich dazu entschließen, die Einladung zum Zusammenführen von Konten z
 
 1. Wählen Sie **Einstellungen** aus Ihrem Partner Center-Dashboard aus. 
 
-2. Wählen Sie **Konto Zusammenführung**aus.
+2. Wählen Sie **Konto Zusammenführung** aus.
 
 3. Fügen Sie die MPN-ID, die sich im **Partner Profil** des Kontos befindet, das Sie einladen möchten, mit Ihnen zusammen. Sie müssen ihre globale Partner-MPN-ID verwenden. Sie können keine Speicherort-MPN-ID verwenden.
 
-4. Wenn Sie zusammen **führen**auswählen, wird eine Einladung an das Partnerunternehmen gesendet. Wenn Sie Ihre Anforderung akzeptieren, können Sie die Konto Zusammenführung innerhalb von Partner Center initiieren. Wenn das Unternehmen Ihre Anforderung zum Zusammenführen von Konten ablehnt, kann es erklären, warum Sie die Anforderung abgelehnt haben. Eine Liste mit all Ihren Konto Zusammenführungen steht Ihnen im **mergeverlauf**zur Verfügung.
+4. Wenn Sie zusammen **führen** auswählen, wird eine Einladung an das Partnerunternehmen gesendet. Wenn Sie Ihre Anforderung akzeptieren, können Sie die Konto Zusammenführung innerhalb von Partner Center initiieren. Wenn das Unternehmen Ihre Anforderung zum Zusammenführen von Konten ablehnt, kann es erklären, warum Sie die Anforderung abgelehnt haben. Eine Liste mit all Ihren Konto Zusammenführungen steht Ihnen im **mergeverlauf** zur Verfügung.
+ 
+### <a name="example-of-two-companies-merging-accounts"></a>Beispiel für zwei Unternehmen, die Konten zusammenführen
 
+1. Von "Configuration Manager" 
+
+    a. eine [globale MPN-ID 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) und eine [der untergeordneten Speicherort-MPN-IDs 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
+  
+    b. einen Azure AD Mandanten = @contoso.com
+ 
+    c. eine Gold-Kompetenz ab dem 1. Oktober 2020
+2. Fabricam hat
+ 
+    a.  eine globale MPN-ID von 3333333 und zwei untergeordnete Speicherort-MPN-IDs von 4444444 und 5555555
+
+    b.  einen Aad-Mandanten = @fabricam.com
+
+    c.  zwei Gold-Kompetenzen, die am 1. Dezember 2020 ablaufen
+3.  Von "Configuration Manager" wird fabricam gekauft, und [hier](https://partner.microsoft.com/dashboard/account/merger) wird eine Merge-Anforderung initiiert.
+4.  Fabricam meldet sich bei Partner Center an und wechselt zu der gleichen Seite wie in Schritt #3, um die Anforderung von "tentoso" zu genehmigen.
+5.  Die Details der Zusammenführung auf derselben Seite werden von "Configuration Manager" überprüft, und Sie erhalten eine Bestätigung, dass die Konto Zusammenführung fortgesetzt werden kann.
+    
 ## <a name="next-steps"></a>Nächste Schritte
 
 - [Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md)

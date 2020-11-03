@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: db347387df29dc36e256881546e632bd321dfde5
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 61730eec204674d7ad095d1fffcd997f65d135ea
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175209"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189729"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Zahlungserhalt im kommerziellen Marketplace
 
@@ -35,9 +35,9 @@ Bevor Sie das erste Mal bezahlt haben, müssen Sie Ihr Auszahlungs Konto einrich
 
 Standardmäßig senden wir Zahlungen monatlich (wie oben beschrieben). Allerdings haben Sie die Möglichkeit, Ihre Einnahmen für ein Programm auf dem halten zu platzieren, und Microsoft gibt Ihre Zahlungen nicht an Ihr Konto weiter. Wenn Sie sich dafür entscheiden, Ihre Zahlungen anzuhalten, zeichnen wir weiterhin alle Einnahmen auf der Seite " **Auszahlungen** " auf. Allerdings werden wir keine Zahlungen auf Ihr Konto überweisen, bis Sie die Haltesperre aufheben.
 
-Um Ihre Zahlungen zurückzuhalten, wechseln Sie zu **Kontoeinstellungen**. Suchen Sie unter **Auszahlung und Steuern** im Abschnitt **Auszahlung und Steuerprofilzuweisung** das Programm, für das Zahlungen zurückgehalten werden sollen. Aktivieren Sie das Kontrollkästchen **meine Zahlung aufbewahren** , um die Zahlungen für dieses Programm zu speichern. Sie können den Status der Auszahlungs Aufbewahrung jederzeit ändern, aber ihre Entscheidung wirkt sich auf die nächste Monatliche Auszahlung aus. Wenn Sie zum Beispiel die Auszahlung für April zurückhalten möchten, legen Sie den Aufbewahrungsstatus für Auszahlungen vor Ende März auf **Ein** fest.
+Wählen Sie oben rechts das Zahnrad Symbol " **Einstellungen** " und dann " **Entwicklereinstellungen** " aus, um Ihre Zahlungen anzuhalten. Wählen Sie im Menü auf der linken Seite die Option **Auszahlung und Steuern** aus, und suchen Sie im Abschnitt " **Auszahlungs-und Steuer Profil Zuweisung** " das Programm, für das Sie die Zahlungen erhalten möchten. Aktivieren Sie das Kontrollkästchen **meine Zahlung aufbewahren** , um die Zahlungen für dieses Programm zu speichern. Sie können den Status der Auszahlungs Aufbewahrung jederzeit ändern, aber ihre Entscheidung wirkt sich auf die nächste Monatliche Auszahlung aus. Wenn Sie zum Beispiel die Auszahlung für April zurückhalten möchten, legen Sie den Aufbewahrungsstatus für Auszahlungen vor Ende März auf **Ein** fest.
 
-Nachdem Sie den Status der Auszahlungs **Aufbewahrung auf ein**festgelegt haben, werden alle Auszahlungen für dieses Programm angehalten, bis Sie das Kontrollkästchen **deaktivieren.** Wenn Sie dies tun, werden Sie im nächsten monatlichen Auszahlungs Zeitraum einbezogen (vorausgesetzt, der Zahlungs Schwellenwert wurde erreicht). Wenn Sie Ihre Auszahlungen in den Griff haben, aber im Juni eine Auszahlung generieren möchten, deaktivieren Sie das Kontroll **Kästchen vor dem** Ende des Mai.
+Nachdem Sie den Status der Auszahlungs **Aufbewahrung auf ein** festgelegt haben, werden alle Auszahlungen für dieses Programm angehalten, bis Sie das Kontrollkästchen **deaktivieren.** Wenn Sie dies tun, werden Sie im nächsten monatlichen Auszahlungs Zeitraum einbezogen (vorausgesetzt, der Zahlungs Schwellenwert wurde erreicht). Wenn Sie Ihre Auszahlungen in den Griff haben, aber im Juni eine Auszahlung generieren möchten, deaktivieren Sie das Kontroll **Kästchen vor dem** Ende des Mai.
 
 >[!Note]
 > Der Status Ihrer Auszahlungs Aufbewahrung gilt für jedes Programm einzeln (Microsoft Store, Werbung, Azure Marketplace usw.). Wenn Sie die Zahlungen für alle Programme aufbewahren möchten, halten Sie die Zahlung für jedes Programm einzeln durch.

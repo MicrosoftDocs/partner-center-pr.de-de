@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 10/02/2020
-ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 10/29/2020
+ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663871"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133149"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Verwalten von Anreizen für Co-op-Ansprüche
 
@@ -65,15 +65,13 @@ Wenn die Materialien, die Sie mit Ihrem Co-Op-Anspruch eingereicht haben, sich a
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 
-2. Wählen Sie unter " **Incentives**" die Option **Tarife Management**aus.
+2. Wählen Sie unter " **Incentives** " **Co-op Management** aus.
 
-3. Wählen Sie **Co-op-Verwaltung**aus.
+3. Wählen Sie den Co-Op-Anspruch aus, dem Sie widersprechen möchten. Die Seite "Co-op-Anspruch" wird geöffnet.
 
-4. Wählen Sie den Co-Op-Anspruch aus, dem Sie widersprechen möchten. Die Seite "Co-op-Anspruch" wird geöffnet.
+4. Wählen Sie unten auf der Seite **Widersprechen** aus.
 
-5. Wählen Sie unten auf der Seite **Widersprechen** aus.
-
-Das Team zur Prüfung von Co-Op-Ansprüchen wird den Anspruch binnen fünf Werktagen prüfen. Während dieser Zeit wird der Status als **Widersprochen** angezeigt. Möglicherweise kontaktieren wir Sie, um zusätzliche Informationen anzufordern. Nach Abschluss der Überprüfung ändert das Prüfteam den Status in entweder **Genehmigt**, **Abgelehnt** oder **Partneraktion erforderlich**.
+Das Team zur Prüfung von Co-Op-Ansprüchen wird den Anspruch binnen fünf Werktagen prüfen. Während dieser Zeit wird der Status als **Widersprochen** angezeigt. Möglicherweise kontaktieren wir Sie, um zusätzliche Informationen anzufordern. Nach Abschluss der Überprüfung ändert das Prüfteam den Status in entweder **Genehmigt** , **Abgelehnt** oder **Partneraktion erforderlich** .
 
 ## <a name="next-steps"></a>Nächste Schritte
 

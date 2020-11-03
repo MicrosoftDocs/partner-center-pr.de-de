@@ -1,7 +1,7 @@
 ---
 title: Arbeiten mit indirekten Anbietern im CSP-Programm
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie indirekte Vertriebspartner mit indirekten Microsoft-Anbietern (oder Distributoren) zusammenarbeiten können, um Unterstützung beim Kundensupport und bei der Abrechnung zu erhalten.
@@ -10,20 +10,23 @@ ms.custom: contperfq2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 1b8b6f3c094471e67d43701a83da46d7dd1372a0
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006827"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795847"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Informationen zum Arbeiten mit indirekten Anbietern im Cloud Solution Provider-Programm
 
+**Zielgruppe**
+
+- Partner Center
+
 **Geeignete Rollen**
 
-- Globaler Administrator
-- Benutzeradministrator
-- Administrator-Agent
+
+- Alle Microsoft-Partner, die an einer Registrierung für das Cloud Solution Provider-Programm interessiert sind
 
 
 Die rasant wachsende Nachfrage nach cloudbasierten Lösungen und Diensten bietet Microsoft-Partnern aller Größen zahlreiche Chancen für den Aufbau eines rentablen Cloudlösungsgeschäfts. Partner, die auf den Markt gehen, aber nicht mehrere Anbieter verwalten möchten oder die über keine Infrastruktur für das End-to-End-Kundenbeziehungsmanagement verfügen, können sich beim Microsoft-Programm für Cloud-Lösungsanbieter (Cloud Solution Provider, CSP) als indirekter Wiederverkäufer registrieren.
@@ -47,7 +50,7 @@ Weitere Informationen zu den Anforderungen, die ein indirekter Wiederverkäufer 
 
 ### <a name="before-you-begin"></a>Vorbereitung
 
-Wenn Sie noch keine CSP-Erfahrung haben, müssen Sie sich als indirekter Vertriebspartner registrieren und dann ein Konto im Partner Center erstellen. Dazu musst du bei der Registrierung die folgenden Informationen angeben. Es empfiehlt sich unter Umständen, vor Beginn des Vorgangs folgende Angaben zu sammeln:
+Ab Oktober 2020 registrieren sich alle Microsoft-Partner, die erstmalig am CSP-Programm teilnehmen, als indirekter Vertriebspartner. und dann ein Konto im Partner Center erstellen. Dazu müssen Sie bei der Registrierung die folgenden Informationen angeben. Es empfiehlt sich unter Umständen, vor Beginn des Vorgangs folgende Angaben zu sammeln:
 
 - **Anmeldeinformationen des globalen Administrators für Ihr Geschäftskonto**
 
@@ -65,7 +68,7 @@ Wenn Sie noch keine CSP-Erfahrung haben, müssen Sie sich als indirekter Vertrie
 
 ### <a name="get-started"></a>Erste Schritte
 
-1. Starten Sie den Prozess, indem Sie zur [**Willkommensseite**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) wechseln, um sich zu registrieren.
+1. Starten Sie den Registrierungsprozess, indem Sie zur [**Willkommensseite**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) wechseln.
 
 2. Vergewissern Sie sich auf der **Willkommensseite** , dass Sie über die erforderlichen Informationen für die Registrierung verfügen, und wählen Sie dann **Weiter** aus.
 
@@ -99,6 +102,16 @@ Wenn Sie noch keine CSP-Erfahrung haben, müssen Sie sich als indirekter Vertrie
 
    2. Wählen Sie ihren Namen aus der Benutzerliste aus. Wählen Sie dann **Administrator-Agent** aus, sofern der Eintrag noch nicht ausgewählt ist. Wählen Sie **Aktualisieren** aus.
 
+## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Alle indirekten Vertriebspartner müssen die Microsoft Partner-Vereinbarung unterzeichnen
+
+1.  Wenn Sie noch nicht von Partner Membership Center zu Partner Center gewechselt haben, nehmen Sie diese Umstellung jetzt vor. Hilfe bei der Umstellung auf Partner Center finden Sie im [Leitfaden zum Migrieren von PMC zu Partner Center](guide-to-migration.md). 
+
+2.  Wenn Sie über ein Partner Center-Mitgliedskonto (MPN-ID) verfügen, müssen Sie sich dennoch offiziell für das Cloud Solution Provider-Programm registrieren. Zum Überprüfen Ihres Mitgliedschaftsstatus wechseln Sie zu Ihrem [**Partner-Profil**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile), und bestätigen Sie den Kontotyp. Dann [registrieren Sie sich in CSP als indirekter Vertriebspartner](enrolling-in-the-csp-program.md). Nachdem Sie sich als indirekter Vertriebspartner registriert haben, [nehmen Sie die Anfrage für eine CSP-Beziehung von Ihrem indirekten Anbieter an](indirect-reseller-tasks-in-partner-center.md).
+
+3.  Wenn Sie sich bereits im Partner Center als indirekter Vertriebspartner registriert haben, müssen Sie die Microsoft Partner-Vereinbarung in der [Partner Center-Dashboardübersicht](https://partner.microsoft.com/pcv/dashboard/overview) mit den Anmeldeinformationen eines globalen Administrators akzeptieren. Vergewissern Sie sich im Abschnitt mit den **Programminformationen** im Partner-Profil, dass Sie die Microsoft Partner-Vereinbarung unterzeichnet haben. Außerdem wird auf der CSP-Übersichtsseite eine Bannerbenachrichtigung zur Bestätigung angezeigt. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Grünes Banner für akzeptierte Vereinbarung":::
+
 
 ## <a name="connect-with-an-indirect-provider"></a>Zusammenarbeiten mit einem indirekten Anbieter
 
@@ -128,6 +141,8 @@ Wenn ein indirekter Anbieter im Partner Center mit dir zusammenarbeiten möchte,
 
 
 ## <a name="next-steps"></a>Nächste Schritte
+
+- [Kontoüberprüfungsprozess](verification-responses.md)
 
 - [Verwalten des Partner Center-Kontos](partner-center-account-setup.md)
 

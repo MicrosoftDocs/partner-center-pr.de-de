@@ -1,7 +1,7 @@
 ---
 title: Sicherheitsanforderungen für Partner
 ms.topic: article
-ms.date: 10/05/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Beschreibt die Anforderungen für Partner, die für die mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) und das Framework für das sichere Anwendungsmodell erforderlich sind.
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: c92e8c9a9a08582d89ef478a4600f737a548b787
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763343"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680384"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Sicherheitsanforderungen für Partner, die das Partner Center oder Partner Center-APIs verwenden
 
@@ -41,7 +41,7 @@ Partner, die die obligatorischen Sicherheitsanforderungen nicht implementieren, 
 
 Damit Partner und ihre Kunden geschützt sind, setzen wir voraus, dass Partner folgende Maßnahmen sofort umsetzen:  
 
-1. **Aktivieren der Multi-Factor Authentication (MFA) für alle Benutzer in Partnermandanten**. Alle Benutzerkonten in Partnermandanten müssen die mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) verwenden, wenn sie sich bei kommerziellen Microsoft-Clouddiensten anmelden oder im Cloud Solution Provider-Programm Transaktionen über das Partner Center oder APIs ausführen.
+1. **Aktivieren der Multi-Factor Authentication (MFA) für alle Benutzer in Partnermandanten** . Alle Benutzerkonten in Partnermandanten müssen die mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) verwenden, wenn sie sich bei kommerziellen Microsoft-Clouddiensten anmelden oder im Cloud Solution Provider-Programm Transaktionen über das Partner Center oder APIs ausführen.
 
 2. **Übernehmen des Frameworks „Sicheres Anwendungsmodell“** . Übernehmen des Frameworks „Sicheres Anwendungsmodell“ Alle Partner, die eine Integration mit der Partner Center API durchführen, müssen das Framework „Sicheres Anwendungsmodell“ für alle Anwendungs- und Benutzerauthentifizierungsmodelle implementieren.
 
@@ -58,7 +58,7 @@ Zur Einhaltung der Sicherheitsanforderungen für Partner musst du die mehrstufig
 
 - Kauf von Azure Active Directory Premium für jedes Benutzerkonto. Weitere Informationen finden Sie unter [Planen einer cloudbasierten Azure Multi-Factor Authentication-Bereitstellung](/azure/active-directory/authentication/howto-mfa-getstarted).
 
-- Verwendung einer Drittanbieterlösung zur Erzwingung der mehrstufigen Authentifizierung für jedes Benutzerkonto in Ihrem Partnermandanten. Um sicherzustellen, dass die Lösung die erwarteten Ergebnisse liefert, informieren Sie sich, [wie die Sicherheitsanforderungen durchgesetzt werden](#how-the-requirements-will-be-enforced).
+- Verwendung einer Drittanbieterlösung zur Erzwingung der mehrstufigen Authentifizierung für jedes Benutzerkonto in Ihrem Partnermandanten. Um sicherzustellen, dass die Lösung die erwarteten Ergebnisse liefert, informieren Sie sich, [wie die Sicherheitsanforderungen durchgesetzt werden](#how-the-requirements-are-enforced).
 
 > [!NOTE]
 > Obwohl die mehrstufige Authentifizierung für eine Sovereign Cloud (21Vianet, US Government und Deutschland) vertraglich nicht verpflichtend ist, wird dringend empfohlen, diese Sicherheitsanforderungen umzusetzen.
@@ -92,7 +92,7 @@ Informationen zum Umstieg von Baselinerichtlinien auf Sicherheitsstandards finde
 
 Da diese Anforderungen für alle Benutzerkonten in deinem Partnermandanten gelten, muss du mehrere Punkte berücksichtigen, um eine reibungslose Bereitstellung zu gewährleisten. Dazu zählen die Identifizierung von Benutzerkonten in Azure Active Directory, die die mehrstufige Authentifizierung nicht durchführen können, sowie der Anwendungen und Geräte, die von deinem Unternehmen verwendet werden und keine moderne Authentifizierung unterstützen.
 
-Es wird empfohlen, sich vor der Durchführung von Aktionen folgende Frage zu stellen:
+Es wird empfohlen, vor der Durchführung von Aktionen Folgendes zu überprüfen: 
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>Verfügen Sie über eine Anwendung oder ein Gerät, von der bzw. dem die Verwendung moderner Authentifizierung nicht unterstützt wird?
 
@@ -100,9 +100,9 @@ Wenn du die mehrstufige Authentifizierung erzwingst, werden Nutzungsprotokolle f
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>Verfügen Sie über Benutzer, die Office 365 über Lizenzen nutzen, die Ihrem Partnermandanten zugeordnet sind?
 
-Vor der Implementierung einer beliebigen Lösung wird empfohlen, die Microsoft Office-Version zu ermitteln, die von Benutzern in deinem Partnermandanten verwendet wird. Es besteht die Möglichkeit, dass für Ihre Benutzer Verbindungsprobleme bei Anwendungen wie Outlook auftreten. Bevor Sie mehrstufige Authentifizierung erzwingen, sollten Sie sicherstellen, dass Outlook 2013 SP1 oder höher verwendet wird und Ihr Unternehmen über eine moderne Authentifizierung verfügt. Weitere Informationen finden Sie unter [Aktivieren der modernen Authentifizierung in Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
+Vor der Implementierung einer beliebigen Lösung wird empfohlen, die Microsoft Office-Version zu ermitteln, die von Benutzern in deinem Partnermandanten verwendet wird. Es besteht die Möglichkeit, dass für Ihre Benutzer Verbindungsprobleme bei Anwendungen wie Outlook auftreten. Bevor Sie mehrstufige Authentifizierung erzwingen, sollten Sie sicherstellen, dass Outlook 2013 SP1 oder höher verwendet wird und Ihr Unternehmen über eine moderne Authentifizierung verfügt. Weitere Informationen finden Sie unter [Aktivieren der modernen Authentifizierung in Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
 
-Sie müssen zwei Registrierungsschlüssel erstellen, um eine moderne Authentifizierung für alle Geräte unter Windows zu ermöglichen, auf denen Microsoft Office 2013 installiert ist. Weitere Informationen finden Sie unter [Aktivieren der modernen Authentifizierung für Office 2013 auf Windows-Geräten](/office365/admin/security-and-compliance/enable-modern-authentication).
+Sie müssen zwei Registrierungsschlüssel erstellen, um eine moderne Authentifizierung für alle Geräte mit Windows zu ermöglichen, auf denen Microsoft Office 2013 installiert ist. Weitere Informationen finden Sie unter [Aktivieren der modernen Authentifizierung für Office 2013 auf Windows-Geräten](/office365/admin/security-and-compliance/enable-modern-authentication).
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Gibt es eine Richtlinie, die verhindert, dass Benutzer ihre mobilen Geräte während der Arbeit verwenden?
 
@@ -128,13 +128,15 @@ Die obige Liste ist nicht vollständig. Daher ist es wichtig, dass Sie eine voll
 
 ## <a name="accessing-your-environment"></a>Zugriff auf Ihre Umgebung
 
-Um besser zu verstehen, was oder wer die Authentifizierung vornimmt, ohne zur mehrstufigen Authentifizierung aufgefordert zu werden, wird die Überprüfung der Anmeldeaktivitäten empfohlen. Über Azure Active Directory Premium können Sie den Anmeldebericht nutzen. Weitere Informationen finden Sie unter [Berichte zu Anmeldeaktivitäten im Azure Active Directory-Portal](/azure/active-directory/reports-monitoring/concept-sign-ins). Wenn du nicht über Azure Active Directory Premium verfügst oder nach einer Möglichkeit suchst, diese Aufgabe über PowerShell zu erledigen, musst du das Cmdlet [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) aus dem Modul [Partner Center PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) verwenden.
+Um besser zu verstehen, was oder wer die Authentifizierung vornimmt, ohne zur mehrstufigen Authentifizierung aufgefordert zu werden, wird die Überprüfung der Anmeldeaktivitäten empfohlen. Über Azure Active Directory Premium können Sie den Anmeldebericht nutzen. Weitere Informationen zu diesem Thema finden Sie unter [Berichte zu Anmeldeaktivitäten im Azure Active Directory-Portal](/azure/active-directory/reports-monitoring/concept-sign-ins). Wenn Sie nicht über Azure Active Directory Premium verfügen oder nach einer Möglichkeit suchen, diese Anmeldeaktivität über PowerShell auszuführen, müssen Sie das Cmdlet [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) aus dem Modul [Partner Center PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) verwenden.
 
-## <a name="how-the-requirements-will-be-enforced"></a>Vorgehensweise beim Erzwingen der Anforderungen
+## <a name="how-the-requirements-are-enforced"></a>Vorgehensweise beim Erzwingen der Anforderungen
 
-Die Sicherheitsanforderungen für Partner werden von Azure Active Directory und im Gegenzug vom Partner Center erzwungen, indem geprüft wird, ob der MFA-Anspruch vorhanden ist, um so zu ermitteln, ob die mehrstufige Authentifizierung durchgeführt wurde. Ab dem 18. November 2019 aktiviert Microsoft zusätzliche Sicherheitsvorkehrungen (früher als „technische Erzwingung“ bezeichnet) für Partnermandanten. 
+Die Sicherheitsanforderungen für Partner werden von Azure Active Directory und im Gegenzug vom Partner Center erzwungen, indem geprüft wird, ob der MFA-Anspruch vorhanden ist, und so festzustellen, ob die mehrstufige Authentifizierung durchgeführt wurde. Seit dem 18. November 2019 hat Microsoft zusätzliche Sicherheitsvorkehrungen (früher als „technische Erzwingung“ bezeichnet) für Partnermandanten aktiviert.
 
-Nach der Aktivierung werden Benutzer im Partnermandanten aufgefordert, die Überprüfung der Multi-Factor Authentication (MFA) abzuschließen, wenn sie Administratoraufgaben im Auftrag von (AOBO-)Vorgängen ausführen. Wir werden die Sicherheitsmaßnahmen auf weitere Szenarien und Benutzerrollen ausweiten und unsere Partner vorab darüber informieren. Weitere Informationen finden Sie in diesem Dokument, das wir in kurzen Abständen aktualisieren. Partner, die die Anforderungen nicht erfüllen, sollten diese Maßnahmen schnellstmöglich implementieren, um Geschäftsunterbrechungen zu vermeiden. 
+Nach der Aktivierung werden Benutzer im Partnermandanten aufgefordert, die MFA-Überprüfung (Multi-Factor Authentication) abzuschließen, wenn sie AOBO-Vorgänge (Admin-on-Behalf-Of, Administrator im Auftrag von) ausführen, auf das Partner Center-Portal zugreifen oder die Partner Center-API aufrufen. Ausführlichere Informationen finden Sie unter [Festlegen von Multi-Factor Authentication (MFA) für Ihren Partnermandanten](partner-security-requirements-mandating-mfa.md). 
+
+Partner, die die Anforderungen nicht erfüllen, sollten diese Maßnahmen schnellstmöglich implementieren, um Geschäftsunterbrechungen zu vermeiden. 
 
 Wenn du Azure Multi-Factor Authentication oder Azure AD-Sicherheitsstandards verwendest, musst du keine weiteren Maßnahmen ergreifen.
 

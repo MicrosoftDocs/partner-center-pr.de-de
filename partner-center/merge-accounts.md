@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795830"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189746"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Zusammenführen Ihres Partnerkontos mit einem anderen Partnerkonto
 
@@ -103,13 +103,23 @@ Wenn Sie sich dazu entschließen, die Einladung zum Zusammenführen von Konten z
  
     a.  eine globale MPN-ID von 3333333 und zwei untergeordnete Speicherort-MPN-IDs von 4444444 und 5555555
 
-    b.  einen Aad-Mandanten = @fabricam.com
+    b.  einen Azure AD Mandanten = @fabricam.com
 
-    c.  zwei Gold-Kompetenzen, die am 1. Dezember 2020 ablaufen
+    c.  zwei Gold-Kompetenzen, die bis zum 1. Dezember 2020 ablaufen
 3.  Von "Configuration Manager" wird fabricam gekauft, und [hier](https://partner.microsoft.com/dashboard/account/merger) wird eine Merge-Anforderung initiiert.
 4.  Fabricam meldet sich bei Partner Center an und wechselt zu der gleichen Seite wie in Schritt #3, um die Anforderung von "tentoso" zu genehmigen.
 5.  Die Details der Zusammenführung auf derselben Seite werden von "Configuration Manager" überprüft, und Sie erhalten eine Bestätigung, dass die Konto Zusammenführung fortgesetzt werden kann.
+6.  Nach der Zusammenführung wird das Unternehmens Konto wie folgt angezeigt:
+
+    a.  Ein Unternehmen mit dem Namen "CSO" mit einer globalen MPN-ID von 1111111 und vier untergeordneten Speicherort-MPN-IDs von 2222222, 3333333, 4444444 und 5555555
     
+    b.  Sie verfügt über zwei Azure AD Mandanten ( @contoso.com + @fabricam.com ), die Zugriff auf dasselbe Partner Center-Konto haben.
+    
+    c.  Sie verfügt über zwei Kompetenz Vorteil-Pakete: eine, die bis zum 1. Oktober 2020 endet, und eine andere, die am 1. Dezember 2020 abläuft. Sie sind in der Lage, als ein einzelnes Kompetenz-Vorteil-Paket am 1. Dezember 2020 zu erneuern. Wenn Sie sich erneuern, behält "Configuration Manager" alle drei Kompetenzen bei, obwohl Sie nur ein einzelnes Vorteils Paket verwalten können.
+    
+7.  Die Administratoren von "Administratoren" von "Configuration Manager" Verwalten weiterhin Partner Center-Rollen für @contoso.com Benutzer. Die Administratoren von fabricam verwalten weiterhin Partner Center-Rollen für @fabricam.com Benutzer. Die Administratoren von "Configuration Manager" können nur die Benutzer von fabricam verwalten, wenn Sie als Gast in den Mandanten von fabricam eingeladen werden.
+8.  Die Verbindung zwischen dem Mandanten @fabricam.com und den neuen Anmelde Informationen für fabricam-Mitarbeiter @contoso.com mit neuen Rollen und Berechtigungen kann von "Configuration Manager" ignoriert werden.
+
 ## <a name="next-steps"></a>Nächste Schritte
 
 - [Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md)

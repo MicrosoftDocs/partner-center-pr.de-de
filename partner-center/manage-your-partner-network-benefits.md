@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Microsoft Partner Network-Vorteilen
-ms.topic: article
-ms.date: 09/03/2020
+ms.topic: how-to
+ms.date: 10/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Treten Sie dem Microsoft Partner Network (MPN) bei, und nutzen Sie das Partner Center, um Mitgliedschaftsvorteile und Angebote zu verwalten, die Ihr Geschäft voranbringen können.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee0158bfd902e1cc0a4a664b6d051a41d1e209ce
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: 321e3c7f48106d29e44941f24b9cd709662618a9
+ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427087"
+ms.lasthandoff: 10/24/2020
+ms.locfileid: "92523585"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Verwalten von Microsoft Partner Network-Mitgliedschaftsvorteilen und -Angeboten im Partner Center
 
@@ -43,7 +43,7 @@ Nach dem Erwerb eines Mitgliedschaftsvorteilspakets müssen Sie Softwareschlüss
 
 Vorteilspakete umfassen Zuweisungen von lizenzierter Software, Clouddiensten, Visual Studio-Abonnements und technischem Support. Vorteilspakete können auch bestimmte Markteinführungsressourcen und -angebote sowie marktbezogene Programme enthalten. Ausführliche Informationen zum Action Pack-Abonnement finden Sie auf der [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software)-Website.  
 
-Wenn Sie alle Ihre Mitgliedschaftsvorteile anzeigen und verwalten möchten, navigieren Sie zu Ihrer Seite [**Vorteile**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Alternativ können Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) anmelden, im Menü auf der linken Seite die [**Option „Vorteile“** ] auswählen und dann aus den angezeigten Vorteilsoptionen auswählen.  
+Wenn Sie alle Ihre Mitgliedschaftsvorteile anzeigen und verwalten möchten, navigieren Sie zu Ihrer Seite [**Vorteile**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Alternativ können Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard) anmelden, im Menü auf der linken Seite die [ **Option „Vorteile“** ] auswählen und dann aus den angezeigten Vorteilsoptionen auswählen.  
 
 Zum Aktivieren der meisten Vorteile oder zum Herunterladen zugehöriger Softwareschlüssel usw. erfordert Partner Center in der Regel eine Person, der die Rolle „Globaler Administrator“ oder „MPN-Partneradministrator“ zugewiesen ist. Wenn keine Vorteile angezeigt werden oder Vorteile nicht aktiviert werden können, wenden Sie sich an Ihren globalen Partner Center-Administrator, um sicherzustellen, dass Sie über die richtigen Berechtigungen verfügen. [Weitere Informationen zu Partner Center-Rollen](permissions-overview.md).
 
@@ -79,14 +79,15 @@ Zum Aktivieren der meisten Vorteile oder zum Herunterladen zugehöriger Software
 
 2. Suchen Sie das gewünschte Abonnement, und wählen Sie dann den Pfeil nach unten rechts in der Zeile aus, um die Details zum Abonnement anzuzeigen.
 
-3. Wählen Sie zum Aktivieren eines Visual Studio-Abonnements einen Benutzer aus der Liste aus, und wählen Sie dann **Benutzer zuweisen**.
+3. Wählen Sie zum Aktivieren eines Visual Studio-Abonnements einen Benutzer aus der Liste aus, und wählen Sie dann **Benutzer zuweisen** .
 
    > [!IMPORTANT]  
    > Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen**[neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
 
 4. Wiederholen Sie diesen Vorgang für jedes Abonnement, das Sie zuweisen möchten. Benutzer können ihre Abonnements im Visual Studio-Portal verwalten.
 
-   Sie können Abonnements jederzeit neu zuweisen, indem Sie einen zugewiesenen Benutzer entfernen und das Abonnement dann einem anderen Benutzer zuweisen.
+   >[!Note]
+   >Administratoren von Visual Studio-Abonnements können Abonnements eines Abonnenten einem anderen Abonnenten zuweisen, wenn seit dem Zeitpunkt der ursprünglichen Zuweisung 90 Tage vergangen sind. Weitere Informationen finden Sie im [Leitfaden zu Microsoft Partner-Programmen](https://aka.ms/partner-benefits-use-guide).
 
 ## <a name="manage-technical-benefits"></a>Verwalten von technischen Vorteilen
 
@@ -112,14 +113,14 @@ Gehen Sie folgendermaßen vor, um Ihre technischen Vorteile in Partner Center an
 
    **Technischer Support (Break-Fix)** : Nutzen Sie diesen technischen Support, wenn Funktionen beeinträchtigt sind oder nicht erwartungsgemäß funktionieren (wenn beispielsweise eine Fehlermeldung ausgegeben wird). Hier einige Erläuterungen:
 
-   - Nur für Gold-/Silver-Kompetenzpartner (nicht für Action Pack-Abonnenten verfügbar). Nutzen Sie **Signature Product Support** für **Cloudprodukte**.
+   - Nur für Gold-/Silver-Kompetenzpartner (nicht für Action Pack-Abonnenten verfügbar). Nutzen Sie **Signature Product Support** für **Cloudprodukte** .
 
-   - Sowohl für Action Pack-Abonnenten als auch für Gold-/Silver-Kompetenzpartner. Nutzen Sie **Microsoft-Produktsupport**-Incidents für **aktuelle lokale Produkte** (nur derzeit gültige und Vorgängerversionen).
+   - Sowohl für Action Pack-Abonnenten als auch für Gold-/Silver-Kompetenzpartner. Nutzen Sie **Microsoft-Produktsupport** -Incidents für **aktuelle lokale Produkte** (nur derzeit gültige und Vorgängerversionen).
 
      >[!NOTE]
      > Für technische Supportanfragen im Zusammenhang mit lokalen, Azure- (nicht CSP) und Dynamics-Produkten sind Zugriffs-ID und Vertrags-ID erforderlich. Um zukünftig Ihre Zugriffs-ID und Vertrags-ID zu ermitteln, können Sie sich auch im Thema zu [Ihren Vorteilen](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits) informieren.
   
-   **Technische Dienste vor dem Verkauf und für die Bereitstellung**:  Nutzen Sie diesen Support, wenn Sie Beratungsleistungen rund um den technischen Vertrieb oder die technische Bereitstellung benötigen. Diese Dienste können direkt im [Partner Center](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest) angefordert werden.
+   **Technische Dienste vor dem Verkauf und für die Bereitstellung** :  Nutzen Sie diesen Support, wenn Sie Beratungsleistungen rund um den technischen Vertrieb oder die technische Bereitstellung benötigen. Diese Dienste können direkt im [Partner Center](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest) angefordert werden.
 
    - Nutzen Sie für Action Pack-Abonnements und Gold-/Silver-Kompetenzpartner **Technische Dienste vor dem Verkauf und für die Bereitstellung** für Cloud- und Hybridlösungen.
   
@@ -136,7 +137,7 @@ Gehen Sie folgendermaßen vor, um Ihre technischen Vorteile in Partner Center an
 
 2. Wenn Sie ein Markteinführungsangebot oder -programm aktivieren möchten, müssen Sie zuerst einen Marketingkontakt für das Unternehmen zuweisen. Dieser Kontakt wird Folgemitteilungen zu Ihren aktiven Markteinführungsangeboten erhalten.
 
-3. Um Informationen zu Ihrem Marketingkontakt hinzuzufügen oder zu aktualisieren, wählen Sie oben auf der Seite „Markteinführung“ **Hinzufügen**, **Aktualisieren** oder **Ändern** aus. Führen Sie jetzt folgende Schritte aus:  
+3. Um Informationen zu Ihrem Marketingkontakt hinzuzufügen oder zu aktualisieren, wählen Sie oben auf der Seite „Markteinführung“ **Hinzufügen** , **Aktualisieren** oder **Ändern** aus. Führen Sie jetzt folgende Schritte aus:  
 
    ein. Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen**[neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
 
@@ -146,12 +147,12 @@ Gehen Sie folgendermaßen vor, um Ihre technischen Vorteile in Partner Center an
 
    c.  Geben Sie die Telefonnummer und die bevorzugte Sprache für diesen Marketingkontakt an. Nachdem Sie diese Informationen eingegeben haben, wählen Sie **Benutzer zuweisen** aus.
 
-4. Nachdem Sie Ihren Marketingkontakt aktualisiert haben, suchen Sie das Markteinführungsangebot, das Sie jetzt nutzen möchten. Wählen Sie dann den Abwärtspfeil ganz rechts neben der Zeile aus, um die Angebotsdetails zu erweitern. In dieser Liste werden die einzelnen verfügbaren Angebotsarten unter dem Namen des Vorteils angezeigt (z. B. **Silver Core**, **Gold Core** oder **ISV Co-Sell Ready**).
+4. Nachdem Sie Ihren Marketingkontakt aktualisiert haben, suchen Sie das Markteinführungsangebot, das Sie jetzt nutzen möchten. Wählen Sie dann den Abwärtspfeil ganz rechts neben der Zeile aus, um die Angebotsdetails zu erweitern. In dieser Liste werden die einzelnen verfügbaren Angebotsarten unter dem Namen des Vorteils angezeigt (z. B. **Silver Core** , **Gold Core** oder **ISV Co-Sell Ready** ).
 
 5. Wählen Sie **Aktivieren** aus, um das Angebot zu aktivieren.
 
    > [!NOTE]
-   >Es kann einige Tage dauern, bis die Anleitung per E-Mail beim benannten Marketingkontakt eingeht und das Markteinführungsangebot aktiviert wird. Sobald das Angebot aktiviert wurde, ändert sich die Seite „Markteinführung“ entsprechend. In der Spalte **Status** ändert sich der Eintrag des Angebots in **Aktiv**. In der Spalte **Läuft ab** ist das Datum angegeben, zu dem das Angebot abläuft. Sie können dieses Angebot bis zum Ablaufdatum nutzen. Erfahren Sie mehr über die [verschiedenen Arten verfügbarer Markteinführungsressourcen, -angebote und -programme](mpn-learn-about-go-to-market-benefits.md).  
+   >Es kann einige Tage dauern, bis die Anleitung per E-Mail beim benannten Marketingkontakt eingeht und das Markteinführungsangebot aktiviert wird. Sobald das Angebot aktiviert wurde, ändert sich die Seite „Markteinführung“ entsprechend. In der Spalte **Status** ändert sich der Eintrag des Angebots in **Aktiv** . In der Spalte **Läuft ab** ist das Datum angegeben, zu dem das Angebot abläuft. Sie können dieses Angebot bis zum Ablaufdatum nutzen. Erfahren Sie mehr über die [verschiedenen Arten verfügbarer Markteinführungsressourcen, -angebote und -programme](mpn-learn-about-go-to-market-benefits.md).  
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>Stornieren eines Mitgliedschaftsvorteils oder -angebots
 

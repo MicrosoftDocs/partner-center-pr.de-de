@@ -1,7 +1,7 @@
 ---
 title: Übersicht über die Co-op-und Anspruchs Übersicht
 ms.topic: article
-ms.date: 09/18/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Erfahren Sie, wie Sie einen erfolgreichen Co-op-Anspruch für ihre Anreize übermitteln, indem Sie die richtige Dokumentation, Rechnungen, Anweisungen und den Ausführungs Nachweis organisieren.
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a79ca29d3bf097d9248c596d54d21ea4222a62ab
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848220"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133081"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Kooperative Marketing Gelder verdienen
 
@@ -34,13 +34,16 @@ Mit Co-op-Geldern können Sie Marketingaktivitäten durchführen, die das Marken
 Weitere Informationen finden Sie auf der [Ressourcenseite für Co-op-Ressourcen](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) .
 
 >[!Important]
->Co-op-Ansprüche gelten nicht für die "Online Services Advisory (OSA) Sell", "Online Services Usage (OSU)-Microsoft 365" und "OSU-Business Application Incentive"-Programme. Informationen zum Übermitteln eines Anspruchs für eines dieser Programme finden Sie unter [Erstellen einer Kunden Verknüpfung mithilfe des cpor-Modells](submit-osa-claim.md).
+>Co-op-Ansprüche gelten nicht für die Online Services Advisory (OSA) Sell-Microsoft 365 und OSU-Business Application Incentive-Programme. Informationen zum Übermitteln eines Anspruchs für eines dieser Programme finden Sie unter [Erstellen einer Kunden Verknüpfung mithilfe des cpor-Modells](submit-osa-claim.md).
 
 ## <a name="how-co-op-funds-are-calculated"></a>Berechnen von Co-op-Geldern
 
 Microsoft berechnet berechtigte Incentive-Einnahmen mithilfe eines geteilten Prozentsatzes (z. b. 60% Rabatt-40% Co-op). Sie erhalten den Rabatt Anteil mithilfe der vorhandenen Zahlungs Frequenz für Ihr Programm, während Microsoft den Koop-Anteil der Incentive-Einnahmen übernimmt.
 
 Weitere Informationen zum abzahlen-und teilen-Prozentsatz finden Sie im Leitfaden für den Incentive-Programm. Verwenden Sie [dieses Verfahren](incentives-determined-your-program-eligibility.md) , um auf Ihre Programm Anleitung zuzugreifen.
+
+>[!NOTE]
+>Wenn Ihr Co-op-Gewinn im Zusammenschluss Zeitraum unter dem Schwellenwert liegt, wird der Co-op-Gewinn am Ende des Semesters in einen Rabatt konvertiert. Weitere Informationen oder zum Ermitteln des Schwellenwerts finden Sie im Leitfaden zum Incentive-Programm.
 
 ## <a name="when-to-claim-your-funds"></a>Wann sollten Sie Ihr Guthaben beanspruchen?
 
@@ -49,7 +52,7 @@ Die Zeitachse für Co-op-Geld ist in Zeiträume von 2 6 Monaten (H1 und H2) unte
 - H1 ist die erste Hälfte des Geschäftsjahres (1. Juli-31. Dezember).
 - H2 ist die zweite Hälfte des Geschäftsjahrs, 1. Juni 30. Januar.
 
-Der Zeitraum von sechs Monaten, in dem Sie Ihre Einnahmen als Ergebnis erwerben, wird zu Ihrem **Verdienst**. Sie müssen diese Gewinne zu einem bestimmten Zeitpunkt innerhalb der folgenden sechsmonatigen **Nutzungsdauer**verwenden. Wenn Sie Ihre Einnahmen nicht bis zum Ende der Nutzungsdauer verwenden, werden Sie nicht mehr verwendet. Der Anspruchs **Zeitraum** ist der Zeitraum von sechs Monaten, in dem Sie die Rückerstattung für Ihre Incentive-Programmaktivitäten anfordern können.
+Der Zeitraum von sechs Monaten, in dem Sie Ihre Einnahmen als Ergebnis erwerben, wird zu Ihrem **Verdienst** . Sie müssen diese Gewinne zu einem bestimmten Zeitpunkt innerhalb der folgenden sechsmonatigen **Nutzungsdauer** verwenden. Wenn Sie Ihre Einnahmen nicht bis zum Ende der Nutzungsdauer verwenden, werden Sie nicht mehr verwendet. Der Anspruchs **Zeitraum** ist der Zeitraum von sechs Monaten, in dem Sie die Rückerstattung für Ihre Incentive-Programmaktivitäten anfordern können.
 
 In der folgenden Tabelle sind die unterschiedlichen Zeiträume für die Inanspruchnahme, Nutzung und Inanspruchnahme aufgeführt. Sofern nicht anders angegeben, werden Zeiträume vom ersten Tag des ersten Monats bis zum letzten Tag des letzten Monats verlängert.
 
@@ -69,7 +72,7 @@ Die folgenden Ressourcen helfen Ihnen beim Einstieg in die Arbeit mit Co-op-Ansp
 | ------ | ----------- |
 | Übermitteln eines Anspruchs |  [Erstellen und Verwalten eines Co-op-Anspruchs für ein Incentive-Programm](create-incentives-claims.md)  |
 | Verwalten eines übermittelten Anspruchs | [Erstellen und Verwalten eines Co-op-Anspruchs für ein Incentive-Programm](create-incentives-claims.md)    |
-| Grundlegendes zu den wichtigsten Anforderungen für den Aktivitäts Anspruch | [Grundlegende Anforderungen für die Aktivitäten in Ihrem Incentive-Programm](core-requirements.md)   |
+| Grundlegendes zu den wichtigsten Anforderungen für den Aktivitäts Anspruch | [Grundlegende Anforderungen für die Aktivitäten in Ihrem Incentives-Programm](core-requirements.md)   |
 | Überprüfen der Details Ihres Incentives-Programms | [Leitfaden für Partner-Incentives-Co-Op](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
 | Erstellen einer Kunden Zuordnung und übermitteln eines Anspruchs | [Erstellen einer Kundenzuordnung mithilfe des CPOR-Modells](submit-osa-claim.md)   |
 

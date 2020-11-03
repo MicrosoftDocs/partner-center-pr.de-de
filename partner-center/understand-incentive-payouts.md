@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
+ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198086"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "93244062"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Details zum Programm anzeigen, verwalten und exportieren
 
@@ -39,8 +39,8 @@ Verwenden Sie diese Seiten, um Details zu den bisherigen, ausstehenden und bevor
 
 Über das Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)können Sie auf die Informationen zu den Incentives zugreifen:
 
-- Wählen Sie im Menü auf der linken Seite die Option **Incentives** aus. Unter " **Incentives**" (einschließlich **Übersicht**) werden verschiedene Optionen angezeigt. Erkunden Sie diese Optionen, um den Status von Incentive-Programmen, Incentive-Zahlungen, Einnahmen und Ansprüchen zu erlernen.
-- Wählen Sie in der oberen rechten Ecke das Symbol **Money** (Auszahlung) aus. Sie können dann andere Optionen auswählen, z. b. **Transaktionsverlauf**, **Zahlungen**, **Export Daten**oder **Office Sales Report**.
+- Wählen Sie im Menü auf der linken Seite die Option **Incentives** aus. Unter " **Incentives** " (einschließlich **Übersicht** ) werden verschiedene Optionen angezeigt. Erkunden Sie diese Optionen, um den Status von Incentive-Programmen, Incentive-Zahlungen, Einnahmen und Ansprüchen zu erlernen.
+- Wählen Sie in der oberen rechten Ecke das Symbol **Money** (Auszahlung) aus. Sie können dann andere Optionen auswählen, z. b. **Transaktionsverlauf** , **Zahlungen** , **Export Daten** oder **Office Sales Report** .
 
 Die folgenden Seiten werden hier beschrieben:
 
@@ -62,7 +62,7 @@ Diese Seite enthält auch Einnahmen und Zahlungen nach Standort oder Programm so
 So greifen Sie auf Ihre **Incentive-Übersicht** zu:
 
 1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
-2. Wählen Sie im Menü den Befehl **Incentives**und dann **Overview** aus.
+2. Wählen Sie im Menü den Befehl **Incentives** und dann **Overview** aus.
 3. Zeigen Sie im oberen Bereich der Seite die Zusammenfassung der Einnahmen und Zahlungen an. Weitere Details finden Sie in der Tabelle unten. Sie können die zugehörige Tabelle auch sortieren, gruppieren und erweitern:
 
    - Wenn Sie nach Spalte sortieren möchten, wählen Sie den Spaltennamen aus.
@@ -82,7 +82,7 @@ So greifen Sie auf Ihre **Incentive-Übersicht** zu:
 | Nicht mehr unterstützt  | Das spezielle Incentive-Programm wird nicht mehr im System "Incentives" angeboten. |
 | Registriert  | Alle Steuer-und Bankinformationen wurden überprüft. Es ist keine weitere Registrierungsaktion für den Partner erforderlich. |
 | Wird registriert  | Der Benutzer ist kein Incentive-Administrator, und die Registrierung erfolgt in der **erforderlichen Aktion** oder **bei** der Überprüfung der Registrierungs Zustände.|
-| Inaktiv/nicht berechtigt | Das Incentive-Programm ist zu diesem Zeitpunkt möglicherweise nicht für die Registrierung geöffnet, oder der Partner erfüllt nicht die aktuelle Berechtigung zur Registrierung oder erneuten Registrierung. <br><br> Wenn der Status nicht **qualifiziert**ist, erfüllt der Partner nicht die aktuellen Berechtigungsanforderungen für das Programm. Wenn Sie unter dem Registrierungsstatus den Link Informationen zu den **Berechtigungsanforderungen** anzeigen auswählen, werden die Voraussetzungen für die Berechtigung angezeigt, und welche dieser Anforderungen erfüllt sind. <br><br> Möglicherweise wird auch ein **inaktiver** Status für Registrierungen virtueller Organisationen (Vorg) oder Partner globaler Konten (Partner Global Account, PGA) angezeigt, die im Incentive-Programm nicht mehr aktiv sind.  |
+| Inaktiv/nicht berechtigt | Das Incentive-Programm ist zu diesem Zeitpunkt möglicherweise nicht für die Registrierung geöffnet, oder der Partner erfüllt nicht die aktuelle Berechtigung zur Registrierung oder erneuten Registrierung. <br><br> Wenn der Status nicht **qualifiziert** ist, erfüllt der Partner nicht die aktuellen Berechtigungsanforderungen für das Programm. Wenn Sie unter dem Registrierungsstatus den Link Informationen zu den **Berechtigungsanforderungen** anzeigen auswählen, werden die Voraussetzungen für die Berechtigung angezeigt, und welche dieser Anforderungen erfüllt sind. <br><br> Möglicherweise wird auch ein **inaktiver** Status für Registrierungen virtueller Organisationen (Vorg) oder Partner globaler Konten (Partner Global Account, PGA) angezeigt, die im Incentive-Programm nicht mehr aktiv sind.  |
 | Eingeladen  | Es wurde eine neue Einladungsprogramm-Registrierungs Einladung an den Partner gesendet, aber der Partner hat den Registrierungsprozess noch nicht gestartet. In der angrenzenden Spalte **Aktionen erforderlich** werden die nächsten Schritte und alle zugehörigen Links angezeigt.  |
 | Die Registrierung wird überprüft.  | Der Partner hat die Bank-und Steuerinformationen für eine neue oder vorhandene Registrierung bereits abgeschlossen oder aktualisiert und wartet darauf, dass Microsoft diese Informationen überprüft. Während der über **Prüfung wird die** Überprüfung der Registrierung möglicherweise für bis zu 48 Stunden angezeigt.  |
 
@@ -95,7 +95,7 @@ Die Summen auf dieser Seite stellen alle von Ihnen verwendeten MPN-IDs dar. Sie 
 |Nächste geschätzte Zahlung      |Die nächste nächste Zahlung an Sie (auch wenn andere in Kürze verfügbar sind) in US-Dollar.                                     |
 |Letzte Zahlung           |Der Betrag (in US-Dollar), der Programmname und die MPN-ID der letzten Zahlung.                                      |
 |Zahlungen nach Quelle       |Die Menge der Zahlungen in US-Dollar, die durch das Programm in den letzten 12 Monaten dargestellt wird.                                      |
-|Payments                       |Wählen Sie **bezahlt** oder **Ausstehend aus** , und sortieren Sie Sie nach Ihren Wünschen. Wenn Sie weitere Details zu einer bestimmten Zahlung erhalten, wählen Sie **Ansicht**aus. Wenn Sie eine Kopie der Zahlungsanweisung herunterladen möchten, wählen Sie **Herunterladen** aus. Es kann bis zu 24 Stunden dauern, bis die Daten für den Transaktionsverlauf angezeigt werden, sodass die zugehörigen Gewinne möglicherweise nicht sofort angezeigt werden.  |
+|Zahlungen                       |Wählen Sie **bezahlt** oder **Ausstehend aus** , und sortieren Sie Sie nach Ihren Wünschen. Wenn Sie weitere Details zu einer bestimmten Zahlung erhalten, wählen Sie **Ansicht** aus. Wenn Sie eine Kopie der Zahlungsanweisung herunterladen möchten, wählen Sie **Herunterladen** aus. Es kann bis zu 24 Stunden dauern, bis die Daten für den Transaktionsverlauf angezeigt werden, sodass die zugehörigen Gewinne möglicherweise nicht sofort angezeigt werden.  |
 
 Wählen Sie zum Exportieren der Daten auf dieser Seite **exportieren** aus, und befolgen Sie dann die Anweisungen auf der Seite Daten exportieren.
 
@@ -106,13 +106,68 @@ Zum Anzeigen weiterer Details zu einer Einnahme klicken Sie rechts auf der Seite
 
 Wählen Sie zum Exportieren der Transaktionsdaten auf dieser Seite die Option **exportieren** aus, und befolgen Sie dann die Anweisungen auf der Seite Daten exportieren. Dateien, die von der Seite „Transaktionsverlauf“ exportiert wurden, zeigen Daten in Transaktionswährung, Einnahmen in Transaktionswährung und US-Dollar sowie den gezahlten Wert in Auszahlungswährung.
 
+### <a name="submit-your-tax-invoice-as-proof-of-execution-poe"></a>Übermitteln der Steuerrechnung als Ausführungs Nachweis (PoE)
+
+>[!NOTE]
+>Dieser Inhalt bezieht sich **nur** auf Partner in Indien, China, Italien, Korea, Mexiko und Taiwan. <br><br>Partner in Indien müssen eine harte Kopie der Steuerrechnung einreichen.
+
+#### <a name="submit-a-tax-invoice"></a>Übermitteln einer Steuerrechnung
+
+Wenn Sie in einem der oben aufgeführten Länder Partner sind, werden Sie von Microsoft per e-Mail benachrichtigt, dass Sie eine Steuerrechnung einreichen müssen, um Ihre Incentive-Einnahmen zu beanspruchen. Die e-Mail, die Sie erhalten, enthält Anweisungen zum Übermitteln Ihrer Steuerrechnung sowie weitere erforderliche Informationen.
+
+Partner in Indien müssen ihre Steuerrechnung an die harte Kopie übermitteln. Partner in den anderen Ländern können entweder eine harte oder weiche Kopie einreichen.
+
+Sie müssen ihre Steuerrechnung innerhalb von 180 Tagen Ihres Anspruchs einreichen. Nachdem wir Ihre Rechnung erhalten und überprüft haben, verarbeiten wir Ihre Incentive-Zahlung.
+
+Sie müssen die folgenden Informationen zusammen mit ihrer Steuerrechnung einreichen:
+
+- Rechnungsnummer (Dies ist eine Zahl, die Sie generieren) 
+
+- Referenznummer für Channel-Incentives (CI) (von Microsoft bereitgestellt) 
+
+- Der Name Ihres Incentive-Programms
+
+- Der rechtliche Name und die Rechnungsadresse in Ihrem Partner Profil 
+
+- Ergebnis Betrag
+
+- Tax amount (Steuerbetrag)
+
+Wenn Sie Ihre Referenznummer für Channel-Anreize (CI) nicht kennen, können Sie Sie an den folgenden drei Stellen finden: 
+
+- E-Mail-Benachrichtigung, die Microsoft an Ihren Incentive-Administrator sendet. 
+
+- Das [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) (Anmeldung erforderlich) auf den Registerkarten " **bezahlt** " und " **Ausstehend** ".  
+
+- Ihr Zahlungs Bericht, der sich auf der [Exportseite für den Zahlungs Download](/partner-center/understand-incentive-payouts#payment-download-export)befindet. 
+
+#### <a name="if-your-submission-is-rejected"></a>Wenn Ihre Übermittlung abgelehnt wird
+
+Die wahrscheinlichste Ursache für die Ablehnung einer Übermittlung ist, wenn die Informationen in der Steuerrechnung nicht den Informationen in unseren Datensätzen entsprechen. Beispiele für fehlende oder falsche Daten sind: 
+
+- Nummer und Dienstnummer (GST) Ihres Unternehmens
+
+- Ihr harmonisiertes System von Nomenklatur (HSN) und Service Accounting Code (SAC)-Zahlen
+
+- Rechnungsnummer (darf 16 Ziffern nicht überschreiten)
+
+- Invoice Date
+
+- Steuerwert (inklusiv und exklusiv)
+
+- Wenn sich Ihr Unternehmen im gleichen Zustand wie Microsoft befindet, müssen die Steuer Prozentsätze für die zentralen waren und Dienst steuern (cgst) und die Steuern des Staats waren und der Dienst (sgst) ausgerichtet sein.
+
+- Wenn sich Ihr Unternehmen in einem anderen Zustand als Microsoft befindet, müssen Sie den Prozentsatz für die integrierten waren und Dienst steuern (igst) angeben.
+
+Übermittlungen können auch abgelehnt werden, wenn Sie mehr als 180 Tage nach dem Anspruch bereitgestellt werden, wenn die Rechnung ungültig ist, oder wenn die Daten falsch eingegeben wurden.
+
 ### <a name="estimated-payment-month"></a>Geschätzter Zahlungs Monat
 
 Die Seite Transaktionsverlauf enthält jetzt eine Tabelle mit ihren geschätzten Zahlungs Summen in den nächsten Monaten. Sie können diese Informationen auch in den Exporten Transaktionsverlauf und Zusammenfassungs Bericht anzeigen und herunterladen. Diese Informationen erleichtern das verbessern von reversationen und Zahlungs Projektionen.
 
 Der geschätzte Zahlungs Monat wird basierend auf Programm Konfigurations Regeln und Zeitachsen berechnet und im nächsten/bevorstehenden Zahlungszeitraum verarbeitet.
 
-Der geschätzte Zahlungs Monat ist zurzeit für alle Erwerbs Typen mit Ausnahme von Co-op verfügbar, die als **nicht zutreffend**angezeigt werden. Für den Gewinn vor dem 1. Juli 2020 wird der geschätzte Zahlungs Monat als **nicht verfügbar**angezeigt.
+Der geschätzte Zahlungs Monat ist zurzeit für alle Erwerbs Typen mit Ausnahme von Co-op verfügbar, die als **nicht zutreffend** angezeigt werden. Für den Gewinn vor dem 1. Juli 2020 wird der geschätzte Zahlungs Monat als **nicht verfügbar** angezeigt.
 
 #### <a name="estimated-payment-month-example"></a>Beispiel für geschätzten Zahlungs Monat
 
@@ -144,7 +199,7 @@ Beachten Sie, dass Ihre Zahlung nur im projizierten Monat freigegeben wird, wenn
 |Anstehend      |Der Zahlungsauftrag hat ausstehende interne Überprüfungen generiert, bevor die Zahlung verarbeitet wird.       |Nein       |
 |Ausstehende Steuerrechnung      |Ihre Steuerrechnung ist unvollständig oder ungültig.          |Sie müssen Ihre Steuerrechnung aktualisieren, bevor Sie bezahlt werden können.         |
 |Bei Überprüfung abgelehnt        |Die Zahlung wurde während der Überprüfung abgelehnt.          |Wenden Sie sich an den Microsoft-Support, um weitere Informationen zu erhalten.         |
-|Failed        |Die Zahlung ist aufgrund eines Microsoft-Systemfehlers fehlgeschlagen.         |Weitere Informationen erhalten Sie vom Microsoft Support.         |
+|Fehlgeschlagen        |Die Zahlung ist aufgrund eines Microsoft-Systemfehlers fehlgeschlagen.         |Weitere Informationen erhalten Sie vom Microsoft Support.         |
 |In Bearbeitung     |Die Zahlung wird ausgeführt.         |Nein         |
 |Falsche Zahlung        |Der Zahlungsvorgang wird wiederholt.          |Nein        |
 |Gesendet        |Die Zahlung wurde an Ihre Bank gesendet.          |Nein       |
@@ -165,7 +220,7 @@ Im folgenden finden Sie einige Überlegungen, wenn Sie versuchen, Daten zu expor
 
 - Die Seite „Daten exportieren“ wird nicht eigenständig aktualisiert. Möglicherweise müssen Sie die Seite manuell aktualisieren, um die neuesten Daten anzuzeigen.
 
-- Ihr Filter bewirkt möglicherweise einen Fehler vom Typ **Keine Daten verfügbar**. Dieser Fehler bedeutet wahrscheinlich, dass Sie den Standard Zeitraum in drei Monaten ausgewählt haben und dann eine Zahlungs-ID aus einem Verdienst außerhalb dieses Zeitraums ausgewählt haben. Erweitern Sie den Zeitraum, und versuchen Sie es erneut.
+- Ihr Filter bewirkt möglicherweise einen Fehler vom Typ **Keine Daten verfügbar** . Dieser Fehler bedeutet wahrscheinlich, dass Sie den Standard Zeitraum in drei Monaten ausgewählt haben und dann eine Zahlungs-ID aus einem Verdienst außerhalb dieses Zeitraums ausgewählt haben. Erweitern Sie den Zeitraum, und versuchen Sie es erneut.
 
 ## <a name="payment-download-export"></a>Zahlungs Download Export
 Mit dieser Option können Sie die Zahlungen, die Sie in Ihrer Bank für ein bestimmtes Programm erhalten haben, sowie die zugehörigen Steuern und den aggregierten Einnahmebetrag herunterladen.
@@ -279,12 +334,12 @@ Der Transaktions Zusammenfassungs Bericht bietet Transaktionsdetails auf Übersi
 2. Wählen Sie **Daten exportieren** aus.
 3. Wählen Sie die Registerkarte **Transaktions Zusammenfassung** aus.
 4. Wählen Sie die entsprechenden Filter aus, um die für aggregierte Einnahmen berechtigten Programme und Hebel anzuzeigen. Wenn keine Daten angezeigt werden, sind Ihre Programme nicht für aggregierte Hebesätze geeignet.
-5. Wählen Sie **Download starten**aus   , um den Bericht zu exportieren.  
+5. Wählen Sie **Download starten** aus   , um den Bericht zu exportieren.  
 
 >[!NOTE]
 >Der Transaktions Zusammenfassungs Bericht enthält keine Kunden-und Abonnement Informationen für Abonnements, die neuer als 60 Tage sind, oder wenn der Verbrauchs Umsatz weniger als einen Cent beträgt.
 
-|Spaltenname |Beschreibung |
+|Spaltenname |BESCHREIBUNG |
 |------ |:-----------|
 |  earningId | Eindeutiger Bezeichner für jede Einnahme  |
 |  participantID | Primäre Identität des Partners, der unter dem Programm die Einnahme erzielt  |

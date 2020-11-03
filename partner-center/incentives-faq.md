@@ -1,19 +1,19 @@
 ---
 title: FAQ zu Incentives
 ms.topic: how-to
-ms.date: 10/22/2020
+ms.date: 10/29/2020
 description: Häufig gestellte Fragen zu Microsoft-Incentives. Dieser Artikel enthält Fragen zu Benutzer Rollen, zur Registrierung oder zu den Vorgehensweisen für Fehlermeldungen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 468ad99771aabfd42960e43e0a711e10eddc62f0
-ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
+ms.openlocfilehash: b16fb54ede696ac623f68cff933daf8aaf1666e7
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "92523595"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133064"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Häufig gestellte Fragen zu Incentives
 
@@ -29,11 +29,11 @@ ms.locfileid: "92523595"
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Muss ich der globale Administrator sein, um sich bei den Incentives anzumelden?
 
-Es muss sich nicht um den globalen Administrator handeln. Der MPN-Administrator kann andere Benutzer auffordern, sich zu registrieren, wenn dies erforderlich ist, um Administrator zu werden, während der globale Administrator neue Benutzerkonten einrichten kann. Um die Anreize Ihres Unternehmens über das Tool zu verwalten, müssen Sie nicht der globale Administrator sein. Weitere Informationen zu Rollen und Berechtigungen finden Sie in der [Übersicht über Berechtigungen](permissions-overview.md).
+Nein. Sowohl der globale Administrator als auch der Konto Administrator können Benutzer als Incentive-Administratoren zuweisen. Incentives-Administratoren verwalten die Incentives-Programme des Unternehmens über Partner Center. Weitere Informationen finden Sie unter [Übersicht über Berechtigungen](permissions-overview.md).
 
-## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network"></a>Was muss ich tun, wenn mein Unternehmen bereits Mitglied der Microsoft Partner Network ist?
+## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network-mpn"></a>Was muss ich tun, wenn mein Unternehmen bereits Mitglied der Microsoft Partner Network (MPN) ist?
 
-Wenn Sie versuchen, MPN beizutreten und Ihr Unternehmen bereits Mitglied ist, wird die Domäne erkannt, und Sie werden dem vorhandenen Konto bereits zugeordnet. Dabei kann es sich um dasselbe Unternehmen oder ein zugehöriges Unternehmen handeln, das dieselbe e-Mail-Domäne oder dasselbe Azure-Aktivitäts Verzeichnis (Azure AD) zum Verwalten mehrerer Domänen verwendet.
+Wenn Sie versuchen, MPN beizutreten und Ihr Unternehmen bereits Mitglied ist, erkennt MPN die Domäne und verknüpft Sie mit dem vorhandenen Konto. Das vorhandene Konto kann dasselbe Unternehmen oder ein zugehöriges Unternehmen sein, das dieselbe e-Mail-Domäne oder dasselbe Azure-Aktivitäts Verzeichnis (Azure AD) verwendet, um mehrere Domänen zu verwalten.
 
 Sie können den primären Kontakt auf der Partner Profilseite identifizieren. Wenn Ihr Standort der mpnhq-Speicherort ist, müssen Sie nur mit den erforderlichen Berechtigungen zum Verwalten von Anreizen eingerichtet werden. Weitere Informationen zu Rollen und Berechtigungen finden Sie in der [Übersicht über Berechtigungen](permissions-overview.md).
 
@@ -41,35 +41,43 @@ Wenn Sie sich nicht im gleichen Land wie der mpnhq-Speicherort befinden, finden 
 
 ## <a name="what-user-roles-are-available"></a>Welche Benutzer Rollen sind verfügbar?
 
-Die Person, die das Unternehmen mit dem MPN verbindet, wird standardmäßig zum primären Kontakt und MPN-Administrator. Der Administrator kann Benutzer im Portal einladen und verwalten. Weitere Informationen zu Rollen und Berechtigungen finden Sie in der [Übersicht über Berechtigungen](permissions-overview.md).
+Die Person, die das Unternehmen im Partner Center registriert, wird standardmäßig zum primären Kontakt und globalen Administrator. Der Administrator kann Benutzer im Portal einladen und verwalten.
 
-Die wichtigsten Rollen für die Anreize sind die Administrator-und Incentive-Benutzer von Incentives. Der Administrator für Incentives verwaltet die Bank Details für den Partner. Der Incentive-Benutzer kann Berichte im Tool anzeigen, um zu sehen, was bezahlt wurde, und die Aufschlüsselung der einzelnen Zahlungen, aber keine Bank Details anzeigen oder bearbeiten. Weitere Informationen zu den Rollen und Berechtigungen der Benutzer "Incentive admin" und "Incentive" finden Sie in der [Übersicht über die Berechtigungen](permissions-overview.md). Beachten Sie, dass diese Rollen erst zur Auswahl verfügbar sind, wenn der Partner zur Registrierung für die Anreize aufgefordert wird. Beide Rollen können für alle Standorte unter dem Hauptsitz gelten.
+Die wichtigsten Rollen für die Anreize sind die Administrator-und Incentive-Benutzer von Incentives. Der admin-Administrator kann sich für Incentive-Programme registrieren und Bank-und Steuer Details für den Partner verwalten. Der Benutzer "Incentives" kann Berichte im Tool anzeigen, um zu sehen, was bezahlt wurde, und die Aufschlüsselung der einzelnen Zahlungen, aber keine Bank Details anzeigen oder bearbeiten. Beide Rollen können auf alle Standorte unter dem globalen Partner Konto angewendet werden.
 
-## <a name="how-can-i-find-out-who-has-admin-rights-for-my-company"></a>Wie kann ich herausfinden, wer über Administratorrechte für mein Unternehmen verfügt?
+Weitere Informationen finden Sie unter [Übersicht über Berechtigungen](permissions-overview.md).
 
-Sie können herausfinden, wer in Ihrem Unternehmen über die Rolle "globaler Administrator" oder "MPN-Konto Administrator" verfügt. Weitere Informationen [finden Sie untersuchen ihrer Rolle](/partner-center/find-your-role.md).  
+## <a name="how-can-i-find-out-who-has-global-or-account-admin-rights-for-my-company"></a>Wie kann ich herausfinden, wer über globale oder Konto Administratorrechte für mein Unternehmen verfügt?
+
+So finden Sie einen globalen Administrator oder Konto Administrator, der Rollen Änderungen vornehmen oder einem neuen Benutzer Rollen zuweisen kann:
+
+1. Wählen Sie im Partner Center über das Symbol "Kontoeinstellungen" in der oberen rechten Ecke " **Benutzerverwaltung** " aus.
+2. Filtern Sie entweder nach **globaler Administrator** oder **Konto Administrator** .
+3. Sie können auch zu **mein Profil** wechseln, **Rollen und Berechtigungen** auswählen und eine Liste der unterschiedlichen Administratoren anzeigen, die Ihnen helfen können, ihre Berechtigungen zu erhöhen.
+ 
+Weitere Informationen [finden Sie untersuchen ihrer Rolle](find-your-role.md).  
 
 ## <a name="i-cant-access-incentives-using-my-credentials"></a>Ich kann nicht über meine Anmelde Informationen auf die Anreize zugreifen.
 
-Der wahrscheinlichste Grund für den Mangel an Zugriff besteht darin, dass Ihre Berechtigungen nicht ordnungsgemäß in Partner Center eingerichtet werden. Verwenden Sie das folgende Verfahren, um dies zu beheben.
+Der Grund dafür, dass Sie keine Anreize sehen können, liegt darin, dass Sie nicht über die richtigen Berechtigungen verfügen. Verwenden Sie das folgende Verfahren, um dies zu beheben.
 
 1. Melden Sie sich mit ihren Azure AD Mandanten Anmelde Informationen (Ihre Anmelde Informationen für Ihre Arbeit) beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an. Wenn Sie sich nicht anmelden können, wenden Sie sich an den globalen Administrator Ihres Unternehmens.
 
-2. Wenn Sie bei der Anmeldung aufgefordert werden, aus Ihrem Geschäfts **Konto** oder **persönlichen Konto**auszuwählen, wählen Sie Geschäfts **Konto**aus.
+2. Wenn Sie bei der Anmeldung aufgefordert werden, aus Ihrem Geschäfts **Konto** oder **persönlichen Konto** auszuwählen, wählen Sie Geschäfts **Konto** aus.
 
-3. Wählen Sie im Partner Center-Menü die Option **Incentives**aus, und klicken Sie dann auf **Übersicht**. Wenn Sie nicht über Administrator Berechtigungen für den Administrator verfügen, werden Ihnen die Kontaktinformationen für alle globalen Administratoren und Konto Administratoren Ihres Unternehmens angezeigt. Wenden Sie sich an einen dieser Administratoren, um die Incentive-Rolle für die erforderlichen MPN-IDs und Incentive-Programme zu erhalten.
+3. Wählen Sie im Partner Center-Menü die Option **Incentives** aus, und klicken Sie dann auf **Übersicht** . Wenn Sie nicht über Administrator-oder Benutzerberechtigungen für Incentives verfügen, werden Ihnen die Kontaktinformationen für alle globalen Administratoren und Konto Administratoren Ihres Unternehmens angezeigt. Wenden Sie sich an einen dieser Administratoren, um die Incentive-Rolle für die erforderlichen MPN-IDs und Incentive-Programme zu erhalten.
 
-4. Wenn Sie bereits über eine Incentive-Administrator Rolle verfügen, sehen Sie die Registrierungen für Ihr Unternehmen für die MPN-IDs und Incentive-Programme, auf die Sie Zugriff haben.
- 
+4. Wenn Sie bereits über eine Administrator Rolle für Incentives verfügen, sehen Sie die Registrierungen für Ihr Unternehmen für die MPN-IDs und Incentive-Programme, auf die Sie Zugriff haben.
+
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Einige Registrierungen fehlen auf der Seite mit den Incentives (Übersicht).
 
 Wenn Sie auf der Seite "Übersicht über die **Übersicht** " weniger Registrierungen wie erwartet sehen, können Sie die folgenden Schritte ausführen.
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 
-2. Wählen Sie unter **Einstellungen**die Option [Benutzerverwaltung](https://partner.microsoft.com/pcv/users)aus.
+2. Wählen Sie unter **Einstellungen** die Option [Benutzerverwaltung](https://partner.microsoft.com/pcv/users)aus.
 
-3. Wählen Sie Ihren Namen aus, um Ihre Berechtigungen anzuzeigen. 
+3. Wählen Sie Ihren Namen aus, um Ihre Berechtigungen anzuzeigen.
 
 Wenn Sie Ihre Rolle oder Berechtigungen ändern müssen, sehen Sie sich den globalen oder Konto Administrator Ihres Unternehmens an.
 

@@ -295,9 +295,6 @@
         - name: Erstellen Ihres Ausführungsnachweises
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
-        - name: Einreichen einer Steuerrechnung als Ausführungsnachweis
-          href: incentives-tax-invoice-poe.md
-          displayName: 'incentives, invoice'
     - name: Incentives-Co-Op-Ansprüche
       items:
         - name: Incentive-Co-Op-Ansprüche

@@ -710,13 +710,10 @@
       displayName: 'tenant id, object id, domain name, azure ad tenant, tenantguid, Microsoft ID, directory id'
 - name: Sicherheitsanforderungen
   items:
-    - name: Übersicht
+    - name: Sicherheitsübersicht
       href: partner-security-requirements.md
     - name: Festlegen von MFA für Ihren Partnermandanten
       href: partner-security-requirements-mandating-mfa.md
-      displayName: csp
-    - name: Einrichten von Benutzern mit mehrstufiger Authentifizierung
-      href: mfa-for-users.md
       displayName: csp
     - name: Anforderungsstatus
       href: partner-security-compliance.md

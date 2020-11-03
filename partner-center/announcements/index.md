@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: f52caa9b536f289025a61ae245bb1f63d65a5698
+ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917211"
+ms.locfileid: "93027889"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,8 +22,9 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Oktober 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+|Funktionen|[Windows 10 Education-Upgrade steht nun qualifizierten Kunden von Cloud Solution Provider (CSP) zur Verfügung.](2020-october.md#16)|28. Oktober|
 |Funktionen|[Aktualisierte digitale Bereitstellung von Cloud Solution Provider (CSP) jetzt verfügbar](2020-october.md#15)|28. Oktober|
-|Funktionen|[Einführung eines Leistungsstandards für die Anforderungen an Partner mit direkter Abrechnung im CSP-Programm (Cloud Solution Provider)](2020-october.md#13)|27. Oktober|
+|Funktionen|[Einführung eines Leistungsstandards für die Anforderungen von Partnern mit direkter Abrechnung im CSP-Programm (Cloud Solution Provider)](2020-october.md#13)|27. Oktober|
 |Angebote/Märkte|[Aktualisierungen der Preisliste für CSP-Softwareabonnements (Cloud Solution Provider) vom Oktober 2020](2020-october.md#14)|26. Oktober|
 |Angebote/Märkte|[Microsoft 365 Business Voice: Angebotsaktualisierung](2020-october.md#12)|16. Oktober|
 |Funktionen|[Update vom November 2020: Leitfaden für Onlinedienste und Softwarekanalautorisierung](2020-october.md#11)|14. Oktober|

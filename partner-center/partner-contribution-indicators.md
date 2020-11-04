@@ -1,7 +1,7 @@
 ---
 title: Partnerbeitragsindikatoren
 ms.topic: article
-ms.date: 09/16/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über sieben Partner Beitrags Indikatoren (PCI), die Ihnen zeigen, wie Sie mit Dynamics 365 Customer Engagement oder Dynamics 365 Finance und Operations arbeiten.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
+ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175018"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93344390"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Partner Beitrags Indikatoren (PCI) zeigen Partner Auswirkung auf sieben wichtige Measures des Kunden Erfolgs an
 
@@ -42,23 +42,23 @@ PCI bietet einen ausgereiften Überblick über die technischen Funktionen eines 
 
 *Leistungsindikatoren:*
 
-1. **Netto neuer Umsatz**: Netto neuer Umsatz über alle Vertriebskanäle für Microsoft Dynamics 365-Produkte. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für Netto neuen Umsatz](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
+1. **Netto neuer Umsatz** : Netto neuer Umsatz über alle Vertriebskanäle für Microsoft Dynamics 365-Produkte. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für Netto neuen Umsatz](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
 
-2. **Net Customer Adds**: net-Kunden, die für Dynamics 365 über alle Vertriebskanäle erworben wurden. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für net Customer Adds](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
+2. **Net Customer Adds** : net-Kunden, die für Dynamics 365 über alle Vertriebskanäle erworben wurden. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für net Customer Adds](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
 
 *Funktions Indikatoren:*
 
-3. **Funktionale Berater**: die Anzahl der Personen, die einen derzeit aktiven funktionalen Berater haben, ordnet die Zertifizierung für Dynamics 365 zu. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für funktionale Berater](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
+3. **Funktionale Berater** : die Anzahl der Personen, die einen derzeit aktiven funktionalen Berater haben, ordnet die Zertifizierung für Dynamics 365 zu. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für funktionale Berater](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
 
-4. **Wachstum des funktionalen Beraters**: Zunahme der Anzahl der funktionalen Berater Zuordnungen.  Die baselinemomentaufnahme für die Wachstums Metrik des funktionalen Beraters in PCI wird jetzt am 1. Oktober 2020 übernommen. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für das Wachstum funktionaler Berater](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
+4. **Wachstum des funktionalen Beraters** : Zunahme der Anzahl der funktionalen Berater Zuordnungen.  Die baselinemomentaufnahme für die Wachstums Metrik des funktionalen Beraters in PCI wird jetzt am 1. Oktober 2020 übernommen. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für das Wachstum funktionaler Berater](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
 
-5. **Entwickler**: die Anzahl der Personen, die einen derzeit aktiven Entwickler haben, ordnet die Zertifizierung für Dynamics 365 zu. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für Entwickler](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
+5. **Entwickler** : die Anzahl der Personen, die einen derzeit aktiven Entwickler haben, ordnet die Zertifizierung für Dynamics 365 zu. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für Entwickler](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
 
 *Erfolgsindikatoren für Kunden:*
 
-6. **Neue große bereit Stellungen**: Anzahl der Produktions Mandanten, die in den letzten 12 Monaten den Schwellenwert für hohe Auslastung überschreiten. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für neue große bereit Stellungen](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
+6. **Neue große bereit Stellungen** : Anzahl der Produktions Mandanten, die in den letzten 12 Monaten den Schwellenwert für hohe Auslastung überschreiten. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für neue große bereit Stellungen](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
 
-7. **Monatliches aktives Benutzer Wachstum**: Wachstum in monatlich aktiven Benutzern für alle Kunden in den letzten 12 Monaten. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für die monatliche aktive Benutzer](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)Vergrößerung.)
+7. **Monatliches aktives Benutzer Wachstum** : Wachstum in monatlich aktiven Benutzern für alle Kunden in den letzten 12 Monaten. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für die monatliche aktive Benutzer](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)Vergrößerung.)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>Auswirkungen der PCI-Bewertung auf die Kompetenz Berechtigung
 Für jeden erreichten Indikator werden Punkte gewährt, was zu einer PCI-Bewertung mit einer einzelnen Zahl führt. 100 es sind maximal zulässige Punkte möglich. 
@@ -89,7 +89,7 @@ Jeder Indikator bringt eine Bewertung, die der Summe hinzugefügt wird. Dies sin
 |Kunden Erfolg: monatliches aktives Benutzer Wachstum  | 25 Punkte |
 
 Die folgende Abbildung bietet einen schnellen visuellen Verweis.
-:::image type="content" source="images/pci/perfnew.png" alt-text="Zeigt PCI-Ergebnisse, um Silver-oder Gold-Kompetenz zu erzielen." border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="Zeigt ein Diagramm mit maximal möglichen Bewertungen für jeden der sieben Partner Beitrags Indikatoren (PCI)." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>Schwellenwerte für jede PCI-Metrik
 
@@ -111,8 +111,8 @@ Weitere Informationen finden Sie in den folgenden Tabellen:
 | PCI-Metrik | Leistungsindikator: Netto neuer Umsatz | Leistungsindikator: neue Kunden hinzufügen | Funktions Indikator: Funktions Berater | Funktions Indikator: Wachstum des funktionalen Beraters | Funktions Indikator: Entwickler | Kunden Erfolgsindikator: neue große bereit Stellungen | Kunden Erfolgsindikator: monatliche aktive Benutzer Zunahme |
 |---|---|---|---|---|---|---|---|
 | **Maximale Anzahl von Punkten** | 10 Punkte | 10 Punkte | 15 Punkte | 15 Punkte | 5 Punkte | 20 Punkte | 25 Punkte |
-| **Entstehen** | 300.000 USD | 10 Punkte | 10 Punkte | *\* Siehe Hinweis* | 5 Punkte | 5 Punkte | 25 % |
-| **Entwickeln** | $150.000 | 5 Punkte | 5 Punkte |*\* Siehe Hinweis* | 2 Punkte | 1 Punkt | 25 % |
+| **Entstehen** | 300.000 USD | 10 | 10 | *\* Siehe Hinweis* | 5 | 5 | 25 % |
+| **Entwickeln** | $150.000 | 5  | 5  |*\* Siehe Hinweis* | 2 | 1 | 25 % |
 
 *\* Hinweis: die Wachstumsziele unterscheiden sich je nach Anzahl der baselineberater. Informationen zu Wachstumszielen finden Sie in [Tabelle 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) .*
 
@@ -122,8 +122,8 @@ Weitere Informationen finden Sie in den folgenden Tabellen:
 | PCI-Metrik | Leistungsindikator: Netto neuer Umsatz | Leistungsindikator: neue Kunden hinzufügen | Funktions Indikator: Funktions Berater | Funktions Indikator: Wachstum des funktionalen Beraters | Funktions Indikator: Entwickler | Kunden Erfolgsindikator: neue große bereit Stellungen | Kunden Erfolgsindikator: monatliche aktive Benutzer Zunahme |
 |---|---|---|---|---|---|---|---|
 | **Maximale Anzahl von Punkten** | 10 Punkte | 10 Punkte | 15 Punkte | 15 Punkte | 5 Punkte | 20 Punkte | 25 Punkte |
-| **Entstehen** | 300.000 USD | 3 Punkte | 15 Punkte | *\* Siehe Hinweis* | 5 Punkte | 3 Punkte | 25 % |
-| **Entwickeln** | $150.000 | 1 Punkt | 5 Punkte |*\* Siehe Hinweis* | 2 Punkte | 1 Punkt | 25 % |
+| **Entstehen** | 300.000 USD | 3 | 15 | *\* Siehe Hinweis* | 5  | 3 | 25 % |
+| **Entwickeln** | $150.000 | 1 | 5 |*\* Siehe Hinweis* | 2 | 1 | 25 % |
 
 *\* Hinweis: die Wachstumsziele unterscheiden sich je nach Anzahl der baselineberater. Informationen zu Wachstumszielen finden Sie in [Tabelle 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) .*
 
@@ -300,7 +300,7 @@ Führen Sie die folgenden Schritte aus, um die Diagramme und den Fortschritt der
 
 1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
-2. Wählen Sie im Navigationsmenü **CSP** aus, und wählen Sie dann **Partner Beitrags Indikatoren**aus. 
+2. Wählen Sie im Navigationsmenü **CSP** aus, und wählen Sie dann **Partner Beitrags Indikatoren** aus. 
 
    Das Dashboard Partner Beitrags Indikatoren mit zugeordneten Diagrammen sollte angezeigt werden.
 
@@ -313,7 +313,7 @@ In der folgenden Abbildung wird gezeigt, wie einige Bereiche und Diagramme auf d
 
 Weitere Informationen zur Verwendung dieses Bereichs finden Sie in der Sammlung von Ressourcen und Videos am Ende dieses Artikels.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="Zeigt PCI-Ergebnisse, um Silver-oder Gold-Kompetenz zu erzielen.":::
+   :::image type="content" source="images/pci/howto.png" alt-text="Erläuterung zum Diagramm":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 

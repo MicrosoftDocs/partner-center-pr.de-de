@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 4023c4a6b0bae4bb77655aed568ec22b81862884
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 7e608752b76c940e83434d7ec7daf3e4058512bd
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031783"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132843"
 ---
 # <a name="february-2020-announcements"></a>Ankündigungen für Februar 2020
 
@@ -175,7 +175,7 @@ In unserem System wird angezeigt, dass Ihre Organisation derzeit Basisrichtlinie
 
 ### <a name="key-considerations"></a>Wichtige Hinweise
 
-Die Richtlinie für Sicherheitsstandards ist eine der [Optionen](../partner-security-requirements.md#actions-that-you-need-to-take), die Partner je nach ihren geschäftlichen Bedürfnissen für die Umsetzung von MFA gemäß ihren Sicherheitsanforderungen wählen können. Sie bietet eine grundlegende Sicherheitsstufe, die ohne Zusatzkosten bereitgestellt wird. Informieren Sie sich, wie Sie [MFA für Ihre Organisation mit Azure AD aktivieren](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started), und lesen Sie die folgenden wichtigen Hinweise:
+Die Richtlinie für Sicherheitsstandards ist eine der [Optionen](../partner-security-requirements.md#implementing-multi-factor-authentication), die Partner je nach ihren geschäftlichen Bedürfnissen für die Umsetzung von MFA gemäß ihren Sicherheitsanforderungen wählen können. Sie bietet eine grundlegende Sicherheitsstufe, die ohne Zusatzkosten bereitgestellt wird. Informieren Sie sich, wie Sie [MFA für Ihre Organisation mit Azure AD aktivieren](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started), und lesen Sie die folgenden wichtigen Hinweise:
 
 - Partner, die den [bedingten Zugriff](/azure/active-directory/conditional-access/concept-conditional-access-policy-common) verwenden, haben keinen Zugang zu Sicherheitsstandards.
 - Sicherheitsstandards erzwingen alle Richtlinien gleichzeitig – einschließlich der Richtlinie zur Durchsetzung der MFA für Administratoren, der Richtlinie für den Endbenutzerschutz und der Richtlinie für die Durchsetzung der MFA für die Dienstverwaltung.

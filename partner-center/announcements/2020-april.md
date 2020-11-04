@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 7591868f31d51750fcb30c41f73cea47c7178955
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031843"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132993"
 ---
 # <a name="april-2020-announcements"></a>Ankündigungen für April 2020
 
@@ -168,7 +168,7 @@ Stärkere und laufende Sicherheits- und Datenschutzmaßnahmen gehören zu unsere
 
 Vor Kurzem haben wir die Aktivierung der Sicherheitsvorkehrungen für AOBO-Funktionen (Admin-on-Behalf-of) für alle Partnermandanten abgeschlossen, um die Unternehmen und Kunden unserer Partner vor Identitätsdiebstahl zu schützen.
 
-Zur weiteren Unterstützung von Partnern und Kunden beginnt **ab dem 1. Mai 2020 die Aktivierung von Sicherheitsvorkehrungen für Partner Center-Transaktionen im CSP-Programm** . Die Aktivierung der zusätzlichen Sicherheitsmaßnahmen bedeutet, dass Partner die mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für sämtliche Transaktionen im CSP-Programm über die Partner Center-Benutzeroberfläche oder APIs verwenden müssen, um nicht autorisierten Zugriff zu verhindern und ihre Kunden und Mandanten vor Sicherheitsincidents im Bereich Identitätsdiebstahl zu schützen. Weitere Informationen finden Sie [hier](../partner-security-requirements-mandating-mfa.md).
+Zur weiteren Unterstützung von Partnern und Kunden beginnt **ab dem 1. Mai 2020 die Aktivierung von Sicherheitsvorkehrungen für Partner Center-Transaktionen im CSP-Programm**. Die Aktivierung der zusätzlichen Sicherheitsmaßnahmen bedeutet, dass Partner die mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für sämtliche Transaktionen im CSP-Programm über die Partner Center-Benutzeroberfläche oder APIs verwenden müssen, um nicht autorisierten Zugriff zu verhindern und ihre Kunden und Mandanten vor Sicherheitsincidents im Bereich Identitätsdiebstahl zu schützen. Weitere Informationen finden Sie [hier](../partner-security-requirements-mandating-mfa.md).
 
 ### <a name="next-steps"></a>Nächste Schritte
 
@@ -192,7 +192,7 @@ Wenn Sie weitere Hilfe bei einem technischen Problem benötigen, können Sie ein
 Vielen Dank für Ihre Partnerschaft und dass Sie sich für die Vertrauenswürdigkeit unseres Ökosystems einsetzen.
 
 >[!NOTE] 
->Wenn Sie Baselinerichtlinien verwenden und nicht auf die Richtlinie für Sicherheitsstandards oder [andere MFA-Implementierungsoptionen](..\partner-security-requirements.md#actions-that-you-need-to-take) umgestellt haben, sollten Sie dies schnellstmöglich nachholen. [Hier finden Sie die wichtigsten Ressourcen](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
+>Wenn Sie Baselinerichtlinien verwenden und nicht auf die Richtlinie für Sicherheitsstandards oder [andere MFA-Implementierungsoptionen](..\partner-security-requirements.md#implementing-multi-factor-authentication) umgestellt haben, sollten Sie dies schnellstmöglich nachholen. [Hier finden Sie die wichtigsten Ressourcen](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/).
 
 ### <a name="change-log"></a>Änderungsprotokoll
 

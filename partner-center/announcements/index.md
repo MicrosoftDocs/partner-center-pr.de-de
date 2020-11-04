@@ -8,20 +8,25 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: a96dd7849b678357aaa28b8a35f113ead6f807ab
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.date: 11/02/2020
+ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
+ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133013"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93327248"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
 Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen werden häufig aktualisiert, überprüfen Sie sie daher in regelmäßigen Abständen.
 
-| **Kategorie** | **Ankündigungen für Oktober 2020** | **Angekündigt** |
+| **Kategorie** | **Ankündigungen für November 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+|Angebote/Märkte|[Windows 10 Education-Upgrade steht nun qualifizierten Kunden von Cloud Solution Provider (CSP) zur Verfügung.](2020-november.md#4)|2\. November|
+|Angebote/Märkte|[Aktualisierte digitale Bereitstellung von Cloud Solution Provider (CSP) jetzt verfügbar; Aktualisierungen der Preisliste für CSP-Softwareabonnements (Cloud Solution Provider) vom Oktober 2020](2020-november.md#3)|2\. November|
+|Angebote/Märkte|[Aktualisierungen der Preisliste für CSP-Softwareabonnements (Cloud Solution Provider) vom Oktober 2020](2020-november.md#2)|2\. November|
+|Angebote/Märkte|[Einführung eines Leistungsstandards für die Anforderungen von Partnern mit direkter Abrechnung im CSP-Programm (Cloud Solution Provider)](2020-november.md#1)|2\. November|
+| **Kategorie** | **Ankündigungen für Oktober 2020** | **Datum** |
 |Funktionen|[Windows Server-Softwareabonnements – Funktionsupdates](2020-october.md#17)|29. Oktober|
 |Funktionen|[Windows 10 Education-Upgrade steht nun qualifizierten Kunden von Cloud Solution Provider (CSP) zur Verfügung.](2020-october.md#16)|28. Oktober|
 |Funktionen|[Aktualisierte digitale Bereitstellung von Cloud Solution Provider (CSP) jetzt verfügbar](2020-october.md#15)|28. Oktober|

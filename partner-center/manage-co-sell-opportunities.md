@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b8d849de6987e107c327d2fd2dcf892fae5a3f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 9eb158163bb1a7ea5da0bc834e6bf7623f32a4dd
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198036"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363638"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Verwalten von Co-Selling-Verkaufschancen in Partner Center
 
@@ -40,7 +40,7 @@ Profitieren Sie von Co-Selling-Verkaufschancen.  Co-Selling-Möglichkeiten sind 
 **Lösungs Bewertung (SA)** – diese Arten von Vereinbarungen können nur von einer Gruppe von Partnern erstellt werden, die vom Geschäfts Team der Lösungs Bewertung geprüft werden, um Technologiebewertungen für Kunden durchzuführen, die Microsoft-Technologien verwenden oder planen.
 
 > [!NOTE]
-> Private Geschäfte, auch wenn Sie nicht wirklich kollaborativ sind, sind hier enthalten, um einen einfachen Weg für das Upgrade aller Pipeline Schritte auf eine Co-Selling-Verkaufschance in allen nicht terminalphasen zu bieten (**gewonnen, verloren, abgelehnt und abgelaufen**).
+> Private Geschäfte, auch wenn Sie nicht wirklich kollaborativ sind, sind hier enthalten, um einen einfachen Weg für das Upgrade aller Pipeline Schritte auf eine Co-Selling-Verkaufschance in allen nicht terminalphasen zu bieten ( **gewonnen, verloren, abgelehnt und abgelaufen** ).
 
 ## <a name="navigating-the-co-sell-section"></a>Navigieren im Co-Selling-Abschnitt
 
@@ -63,7 +63,7 @@ Sie können drei Arten von Verkaufschancen erstellen.
 
 Wählen Sie den Kunden für diesen speziellen Vertrag aus. Geben Sie den Speicherort ein, und geben Sie den Namen ein. Die Vorschlags Suche zeigt Empfehlungen basierend auf den Suchkriterien an. Da viele Unternehmen über mehr als eine Geschäftseinheit am gleichen Standort verfügen, werden möglicherweise mehrere Ergebnisse angezeigt. Wenn Sie nicht sicher sind, was Sie auswählen sollen, können Sie bestätigen, welche D-U-N-S-Nummer zu Ihrem Kunden gehört. Achten Sie darauf, die genaue Entsprechung für den Kunden auszuwählen, mit dem Sie arbeiten.
 
-Nachdem Sie auf **Wählen Sie den Kunden auswählen**, werden Sie aufgefordert, den Namen, die Telefonnummer und die e-Mail-Adresse für die Person einzugeben, die als Hauptkontakt Punkt für dieses Problem gilt. Diese Details sind optional und nur erforderlich, wenn Sie beabsichtigen, Microsoft-Verkäufe einzuladen, um Sie beim Engagement zu unterstützen. Wählen Sie **Weiter** aus.
+Nachdem Sie auf **Wählen Sie den Kunden auswählen** , werden Sie aufgefordert, den Namen, die Telefonnummer und die e-Mail-Adresse für die Person einzugeben, die als Hauptkontakt Punkt für dieses Problem gilt. Diese Details sind optional und nur erforderlich, wenn Sie beabsichtigen, Microsoft-Verkäufe einzuladen, um Sie beim Engagement zu unterstützen. Klicken Sie auf **Weiter**.
 
 > [!IMPORTANT]
 > Stellen Sie sicher, dass Sie die Zustimmung des Kunden erhalten haben, dem Microsoft seine Kontaktinformationen zur Verfügung zu stellen. Microsoft kann diese Informationen verwenden, um den Kunden direkt zu kontaktieren.
@@ -75,6 +75,7 @@ Geben Sie die Details des aktuellen Deals ein. Die unten definierten Felder kön
 | **Feldname** | **Obligatorisch/optional** | **Details** |
 |-------------|--------|-------|
 |**Name des Deals** | Obligatorisch. | Der Anzeige Name zur Identifizierung Ihres Deals zu einem späteren Zeitpunkt. |
+|**Location**| Obligatorisch. | Der MPN-Speicherort Bereich des Verweises. Verweis Benutzer mit diesem Speicherort können die Verweise anzeigen, wenn Sie Teil des Teams sind. Verweisadministratoren und verweisadministratoren mit globalem Gültigkeitsbereich können die Verweise unabhängig vom Standort anzeigen. Der Speicherort kann nicht bearbeitet werden, nachdem der Verweis erstellt wurde.|
 |**Geschätzter Wert** | Obligatorisch. | Der Wert des Deals basierend auf den Informationen, die beim Erstellen des-Deals verfügbar sind.|
 |**Geschätztes Schluss Datum**| Obligatorisch.| Das Datum, an dem Sie den Umgang mit dem Kunden erwarten. |
 |**CRM-ID**| Optional | Markieren Sie den Umgang mit der ID der Verkaufschance im jeweiligen CRM zum Nachverfolgen.|
@@ -99,14 +100,14 @@ In diesem Abschnitt müssen Sie die Informationen im Zusammenhang mit den Lösun
 
 Nachdem Sie die Lösungs Informationen bereitgestellt haben, klicken Sie auf Weiter, um zum Abschnitt zu wechseln, in dem Sie den Verkaufstyp festlegen können. Sie haben drei Optionen, wenn Sie Lösungen aus den ersten drei Optionen auswählen und keine Lösungs Bewertung:
 
-**Privates Geschäft**: Wenn Sie Microsoft nicht einladen und in diesem Schritt eine Einbindung erstellen, ist es vom Typ private Pipeline. Microsoft-Verkäufer haben keinen Einblick in die Details dieses Deals.
+**Privates Geschäft** : Wenn Sie Microsoft nicht einladen und in diesem Schritt eine Einbindung erstellen, ist es vom Typ private Pipeline. Microsoft-Verkäufer haben keinen Einblick in die Details dieses Deals.
 
 > [!Important]
 > Die Registrierung von Deals ist für private Geschäfte nicht anwendbar. Seien Sie vorsichtig, wenn Sie ein privates Geschäft mit berechtigten Lösungen erstellen, da diese nicht für die Registrierung in Partner Center qualifiziert sind.
 
-**Co-Selling-Vertrag:** Wenn Sie eine andere Option als die Standardauswahl für die Frage **"ermitteln Sie die Art der von Microsoft gewünschten Hilfe**" auswählen, wird ein Co-Selling-Deal durchgeführt, bei dem ein Microsoft-Verkäufer Ihnen möglicherweise bei der Schließung des Deals behilflich ist. Eine Anforderung der Hilfe von Microsoft ist keine Garantie dafür, dass ein Microsoft-Verkäufer an der Sache teilnehmen wird. Microsoft-Vertriebsmitarbeiter haben 14 Tage Zeit, um zu entscheiden, ob Sie teilnehmen möchten. Stellen Sie sicher, dass Sie im Abschnitt "Hinweise" den gewünschten Hilfe Typ identifizieren.
+**Co-Selling-Vertrag:** Wenn Sie eine andere Option als die Standardauswahl für die Frage **"ermitteln Sie die Art der von Microsoft gewünschten Hilfe** " auswählen, wird ein Co-Selling-Deal durchgeführt, bei dem ein Microsoft-Verkäufer Ihnen möglicherweise bei der Schließung des Deals behilflich ist. Eine Anforderung der Hilfe von Microsoft ist keine Garantie dafür, dass ein Microsoft-Verkäufer an der Sache teilnehmen wird. Microsoft-Vertriebsmitarbeiter haben 14 Tage Zeit, um zu entscheiden, ob Sie teilnehmen möchten. Stellen Sie sicher, dass Sie im Abschnitt "Hinweise" den gewünschten Hilfe Typ identifizieren.
 
-**Partner-zu-Partner-Arbeit (P2P)**: Sie können andere Partner zur Arbeit einladen, indem Sie auf den Link "Partner einladen" klicken. Im folgenden wird der Prozess zum Erstellen eines P2P-Vorgangs erläutert.
+**Partner-zu-Partner-Arbeit (P2P)** : Sie können andere Partner zur Arbeit einladen, indem Sie auf den Link "Partner einladen" klicken. Im folgenden wird der Prozess zum Erstellen eines P2P-Vorgangs erläutert.
 
 - **Wählen Sie einen Partner aus:** Nachdem Sie auf "einladen Partner" geklickt haben, können Sie mit der Eingabe des Partner namens beginnen, um eine vorgeschlagene Liste von Partnern zu erhalten, die mit dem Namen übereinstimmen, den Sie eingeben. Wählen Sie den Partner aus, an dem Sie interessiert sind, um zusätzliche Details für diesen Partner auszufüllen. Sie können nur nach Partnern suchen, die sich im Microsoft-Co-Selling-Ökosystem befinden und in Partner Center agieren.
 
@@ -134,44 +135,44 @@ Wenn Sie in dieser Phase einen neuen Co-Selling-Verkaufschancen von einem Micros
 
 - **Akzeptieren:** Geben Sie einen Namen für das Geschäft ein, bearbeiten Sie den geschätzten Wert und den geschätzten Kauf Zeitraum basierend auf ihrer Überprüfung. Nachdem Sie den Kontakt mit dem Kunden hergestellt haben, sollten Sie Informationen im Feld " **Notizen** " bereitstellen, um weitere Informationen zu den Anforderungen des Kunden zu erhalten. Sie können hier optional Ihre CRM-ID eingeben (nur für Ihre Referenz), die Marketingkampagnen-ID, die zu der jeweiligen Verkaufschance geführt hat, und Kontakte aus Ihrem Unternehmen hinzufügen, die an diesem Teil arbeiten werden.
 
-- Wählen Sie **Weiter**, wenn Sie fertig sind. Wir werden den Verweis auf **die nächste Phase**verschieben, was bedeutet, dass Sie den Kunden aktiv mit dem Kunden in Verbindung setzen möchten. Diese Informationen werden auch verwendet, um in Zukunft ähnliche Angebote zu finden.
+- Wählen Sie **Weiter** , wenn Sie fertig sind. Wir werden den Verweis auf **die nächste Phase** verschieben, was bedeutet, dass Sie den Kunden aktiv mit dem Kunden in Verbindung setzen möchten. Diese Informationen werden auch verwendet, um in Zukunft ähnliche Angebote zu finden.
 
-- **Ablehnen**: Wählen Sie den Grund für den Verlust des Deals aus, und fügen Sie Notizen hinzu, die Sie einschließen möchten, und wählen Sie dann **Schließen**aus. Wir archivieren Sie als **abgelehnt** und Benachrichtigen entweder Microsoft oder den Partner, der Ihnen diese Gelegenheit gesendet hat.
+- **Ablehnen** : Wählen Sie den Grund für den Verlust des Deals aus, und fügen Sie Notizen hinzu, die Sie einschließen möchten, und wählen Sie dann **Schließen** aus. Wir archivieren Sie als **abgelehnt** und Benachrichtigen entweder Microsoft oder den Partner, der Ihnen diese Gelegenheit gesendet hat.
 
 - Wenn Sie nicht innerhalb der vorgesehenen Zeit (derzeit 14 Tage) Antworten, archivieren wir Sie als **abgelaufen** und Benachrichtigen entweder Microsoft oder den Partner, der Ihnen diese Gelegenheit gesendet hat.
 
 ### <a name="accepted-stage"></a>Akzeptierte Phase
 
-Bemühen Sie sich, das Geschäft mit dem Kunden abzuschließen. Wenn Sie die Informationen ändern möchten, die Sie für eine akzeptierte Referenz angegeben haben, wählen Sie **Bearbeiten**aus. Anschließend können Sie den Namen, den geschätzten kauftermin, den geschätzten Wert, Notizen, die CRM-ID und/oder die Marketingkampagnen-ID aktualisieren.  Sie können auch **Team hinzufügen** auswählen, um den Namen, die Telefonnummer und die e-Mail-Adressen aller weiteren Personen anzugeben, die an diesem Teil arbeiten. Projektmappen können auch basierend auf dem Kundenbedarf bearbeitet werden.
+Bemühen Sie sich, das Geschäft mit dem Kunden abzuschließen. Wenn Sie die Informationen ändern möchten, die Sie für eine akzeptierte Referenz angegeben haben, wählen Sie **Bearbeiten** aus. Anschließend können Sie den Namen, den geschätzten kauftermin, den geschätzten Wert, Notizen, die CRM-ID und/oder die Marketingkampagnen-ID aktualisieren.  Sie können auch **Team hinzufügen** auswählen, um den Namen, die Telefonnummer und die e-Mail-Adressen aller weiteren Personen anzugeben, die an diesem Teil arbeiten. Projektmappen können auch basierend auf dem Kundenbedarf bearbeitet werden.
 
 Alle von Ihnen erstellten Angebote sind standardmäßig in der angenommenen Phase enthalten.
 
 Nachdem Sie mit der Arbeit an diesem Vorgang begonnen haben, können Sie die Details des Fortschritts bereitstellen, indem Sie die Verkaufsphasen im Auftrags Lebenszyklus markieren. Es gibt vier Phasen im Lebenszyklus, abgesehen von der anfänglichen Annahme oder Erstellung und den letzten gewonnenen oder verlorenen Phasen, wie unten erwähnt. Die Angabe dieser Details ist optional, aber es wird dringend empfohlen, diese zu teilen, damit Sie von Microsoft-Vertriebsmitarbeitern bei einem Co-Selling-Deal eine angemessene Hilfe erhalten.
 
-:::image type="content" source="images/pscmigration/salesstage.png" alt-text="Bild, das den Lebenszyklus zeigt, in dem die Verkaufsphase gekennzeichnet werden kann.&quot;:::
+:::image type="content" source="images/pscmigration/salesstage.png" alt-text="Bild, das den Lebenszyklus zeigt, in dem die Verkaufsphase gekennzeichnet werden kann.":::
 
 > [!Note]
-> Die Verkaufsphasen unterscheiden sich, wenn es sich um einen Lösungs Bewertungs Vorgang handelt. Das Markieren der Verkaufsphase ist auch für Lösungs Bewertungs Abschlüsse **obligatorisch** . Die Schaltfläche &quot; **gewinnt** &quot; wird erst aktiviert, nachdem alle Verkaufsphasen vom Partner als vollständig gekennzeichnet wurden.
+> Die Verkaufsphasen unterscheiden sich, wenn es sich um einen Lösungs Bewertungs Vorgang handelt. Das Markieren der Verkaufsphase ist auch für Lösungs Bewertungs Abschlüsse **obligatorisch** . Die Schaltfläche " **gewinnt** " wird erst aktiviert, nachdem alle Verkaufsphasen vom Partner als vollständig gekennzeichnet wurden.
 
 Im folgenden finden Sie die Tabelle mit den Verkaufsstufen und den entsprechenden Prozentsätzen für andere Geschäfte als Lösungs Bewertungen, die vom Microsoft Partner Center-Referenzsystem festgelegt werden.
 
 |**Name der Verkaufsphase**|**Prozentsatz der Verkaufsphase**|**Definition der Verkaufsphase**|
 |:----|:-----|:-----|
 |Erstellt|10 %|Erstellen eines ausgehenden Deals|
-|Akzeptiert|10 %|Akzeptieren eines eingehenden Deals.|
+|Zulässig|10 %|Akzeptieren eines eingehenden Deals.|
 |Qualified|20%|Qualifizieren Sie den Wert für das Geschäft und die Kundenanforderungen, bevor Sie fortfahren.|
 |Entstehen|40%|Entwickeln Sie das Problem weiter, um die detaillierten Anforderungen zum Vorbereiten eines POC-oder anderer Artefakte zu verstehen, die für einen formalen Vorschlag erforderlich sind.|
-|Proposed|60 %|Erstellen eines formalen Angebots für den Kunden basierend auf Ihren Anforderungen.|
-|Ausgehandelt|80%|Aushandeln der endgültigen Bedingungen basierend auf dem Vorschlag, um zum Endzustand zu gelangen – Gewinn oder Verlust des Vertrags.|
+|Proposed|60%|Erstellen eines formalen Angebots für den Kunden basierend auf Ihren Anforderungen.|
+|Ausgehandelt|80 %|Aushandeln der endgültigen Bedingungen basierend auf dem Vorschlag, um zum Endzustand zu gelangen – Gewinn oder Verlust des Vertrags.|
 |Gewonnen|100 %|Markieren des Deals als gewonnen.|
 
-Wenn Sie fertig sind, können Sie eine der beiden Aktionen ausführen, bei denen das Ergebnis als &quot; **gewinnt** &quot; oder &quot; **verloren** &quot; markiert wird, um das Ergebnis zu melden.
+Wenn Sie fertig sind, können Sie eine der beiden Aktionen ausführen, bei denen das Ergebnis als " **gewinnt** " oder " **verloren** " markiert wird, um das Ergebnis zu melden.
 
 > [!Note]
 > Es ist nicht erforderlich, dass Ihr Unternehmen die gleichen Verkaufsphasen befolgt. Auf diese Weise erkennt Partner Center die Verkaufsphasen der Geschäfte und ordnet die Phasen Ihres Unternehmens automatisch diesen Standard Stufen zu, wenn Sie diese Werte mithilfe der API übergeben. Wenn Sie die Partner Center-Benutzeroberfläche verwenden, werden die in der Tabelle gezeigten Prozentsätze verwendet, um die Verkaufsphasen zu markieren.
 
 > [!Important]
-> Bei bestimmten berechtigten Lösungen werden Sie nach der Auswahl von &quot;gewinnt&quot; aufgefordert, zusätzliche Informationen zum Registrieren Ihres Deals bereitzustellen. Microsoft überprüft die hier von Ihnen bereitgestellten Informationen und kann während des Überprüfungsvorgangs weitere Details anfordern. Weitere Informationen finden Sie unter [Registrieren Ihrer Angebote](register-deals.md).
+> Bei bestimmten berechtigten Lösungen werden Sie nach der Auswahl von "gewinnt" aufgefordert, zusätzliche Informationen zum Registrieren Ihres Deals bereitzustellen. Microsoft überprüft die hier von Ihnen bereitgestellten Informationen und kann während des Überprüfungsvorgangs weitere Details anfordern. Weitere Informationen finden Sie unter [Registrieren Ihrer Angebote](register-deals.md).
 
 Ein Problem kann nur dann für die Registrierung von Deals in Frage kommen, wenn es alle unten aufgeführten Kriterien erfüllt.
 
@@ -182,43 +183,12 @@ Ein Problem kann nur dann für die Registrierung von Deals in Frage kommen, wenn
 > [!Important]
 > Registrieren Sie den Teil nur dann, wenn der Name Ihres Unternehmens und die berechtigte Lösung im Vertrag eindeutig im Vertrag mit dem Kunden aufgeführt sind.
 
-Wenn der Vorgang für die Registrierung in Frage kommt, wird dem Lebenszyklus des Prozesses mit dem Namen &quot;Umgang-Registrierung" ein zusätzlicher Meilenstein hinzugefügt, wie unten gezeigt.
+Wenn der Vorgang für die Registrierung in Frage kommt, wird dem Lebenszyklus des Prozesses mit dem Namen "Umgang-Registrierung" ein zusätzlicher Meilenstein hinzugefügt, wie unten gezeigt.
 
-:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Bild, das den Lebenszyklus zeigt, in dem die Verkaufsphase gekennzeichnet werden kann.&quot;:::
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Das Image zeigt den Lebenszyklus, den Speicherort, von dem aus die Registrierung des Deals initiiert werden kann.":::
 
-> [!Note]
-> Die Verkaufsphasen unterscheiden sich, wenn es sich um einen Lösungs Bewertungs Vorgang handelt. Das Markieren der Verkaufsphase ist auch für Lösungs Bewertungs Abschlüsse **obligatorisch** . Die Schaltfläche &quot; **gewinnt** &quot; wird erst aktiviert, nachdem alle Verkaufsphasen vom Partner als vollständig gekennzeichnet wurden.
-
-Im folgenden finden Sie die Tabelle mit den Verkaufsstufen und den entsprechenden Prozentsätzen für andere Geschäfte als Lösungs Bewertungen, die vom Microsoft Partner Center-Referenzsystem festgelegt werden.
-
-|**Name der Verkaufsphase**|**Prozentsatz der Verkaufsphase**|**Definition der Verkaufsphase**|
-|:----|:-----|:-----|
-|Erstellt|10 %|Erstellen eines ausgehenden Deals|
-|Akzeptiert|10 %|Akzeptieren eines eingehenden Deals.|
-|Qualified|20%|Qualifizieren Sie den Wert für das Geschäft und die Kundenanforderungen, bevor Sie fortfahren.|
-|Entstehen|40%|Entwickeln Sie das Problem weiter, um die detaillierten Anforderungen zum Vorbereiten eines POC-oder anderer Artefakte zu verstehen, die für einen formalen Vorschlag erforderlich sind.|
-|Proposed|60 %|Erstellen eines formalen Angebots für den Kunden basierend auf Ihren Anforderungen.|
-|Ausgehandelt|80%|Aushandeln der endgültigen Bedingungen basierend auf dem Vorschlag, um zum Endzustand zu gelangen – Gewinn oder Verlust des Vertrags.|
-|Gewonnen|100 %|Markieren des Deals als gewonnen.|
-
-Wenn Sie fertig sind, können Sie eine der beiden Aktionen ausführen, bei denen das Ergebnis als &quot; **gewinnt** &quot; oder &quot; **verloren** &quot; markiert wird, um das Ergebnis zu melden.
-
-> [!Note]
-> Es ist nicht erforderlich, dass Ihr Unternehmen die gleichen Verkaufsphasen befolgt. Auf diese Weise erkennt Partner Center die Verkaufsphasen der Geschäfte und ordnet die Phasen Ihres Unternehmens automatisch diesen Standard Stufen zu, wenn Sie diese Werte mithilfe der API übergeben. Wenn Sie die Partner Center-Benutzeroberfläche verwenden, werden die in der Tabelle gezeigten Prozentsätze verwendet, um die Verkaufsphasen zu markieren.
-
-> [!Important]
-> Bei bestimmten berechtigten Lösungen werden Sie nach der Auswahl von &quot;gewinnt&quot; aufgefordert, zusätzliche Informationen zum Registrieren Ihres Deals bereitzustellen. Microsoft überprüft die hier von Ihnen bereitgestellten Informationen und kann während des Überprüfungsvorgangs weitere Details anfordern. Weitere Informationen finden Sie unter [Registrieren Ihrer Angebote](register-deals.md).
-
-Ein Problem kann nur dann für die Registrierung von Deals in Frage kommen, wenn es alle unten aufgeführten Kriterien erfüllt.
-
-1. Microsoft ist zur Sache eingeladen.
-2. Microsoft hat entweder die Einladung akzeptiert oder den Deal als gewonnen gekennzeichnet. Sie können den Microsoft-Status verstehen, indem Sie sich die Microsoft-Karte unter Ihren Details ansehen.
-3. Es gibt eine berechtigte Lösung für die Lösung.
-
-> [!Important]
-> Registrieren Sie den Teil nur dann, wenn der Name Ihres Unternehmens und die berechtigte Lösung im Vertrag eindeutig im Vertrag mit dem Kunden aufgeführt sind.
-
-Wenn der Vorgang für die Registrierung in Frage kommt, wird dem Lebenszyklus des Prozesses mit dem Namen &quot;Umgang-Registrierung" angezeigt. Der Vorgang wechselt in den Zustand "geschlossen", wenn die Überprüfung abgeschlossen ist.
+Sie können den Teil sofort registrieren, nachdem Sie den Deal als gewonnen markiert haben, oder zu einem späteren Zeitpunkt über die Schaltfläche "Lebenszyklus **Registrierung registrieren** ".
+Sobald der Vorgang registriert ist, können Sie den Status der Überprüfung des Vorgangs vom gleichen Lebenszyklus aus anzeigen. Wenn Ihr Unternehmen eine Aktion erfordert, werden entsprechende Fehler in der Ansicht "Umgang mit Lebenszyklus" angezeigt. Der Vorgang wechselt in den Zustand "geschlossen", wenn die Überprüfung abgeschlossen ist.
 
 > [!Important]
 > Sowohl der Überprüfungs Status als auch der endgültige Überprüfungs Status sind nur für die IP-Co-Selling-Angebote anwendbar.
@@ -236,7 +206,7 @@ In der folgenden Tabelle werden die Kombinationen von, die in dieser Phase des D
 
 ### <a name="closed-stage"></a>Geschlossene Phase
 
-Dies ist die letzte Phase für alle Verkaufschancen. Sie können alle Geschäfte anzeigen, die sich in den Phasen "gewinnt", " **verloren", "abgelehnt**" und " **abgelaufen** " befinden. Es gibt keine Aktionen, die Sie in dieser Phase durchführen können.
+Dies ist die letzte Phase für alle Verkaufschancen. Sie können alle Geschäfte anzeigen, die sich in den Phasen "gewinnt", " **verloren", "abgelehnt** " und " **abgelaufen** " befinden. Es gibt keine Aktionen, die Sie in dieser Phase durchführen können.
 
 ## <a name="frequently-asked-questions"></a>Häufig gestellte Fragen
 
@@ -248,81 +218,13 @@ Nein. die Geschäfte können nicht geändert werden, sobald Sie in einen Termina
 
 Dies kann vorkommen, wenn in Ihrem Unternehmen mehrere Mandanten demselben MPN-Konto zugeordnet sind. Wechseln Sie zu den Partner Center-Kontoeinstellungen, und überprüfen Sie die dem Konto zugeordneten Mandanten. Erstellen Sie dann ein Support Ticket, das eine Verknüpfung der Mandanten angefordert hat. Geben Sie die Mandanten-ID an, in die Sie sich beim Support Ticket angemeldet haben.
 
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Bild, das den Lebenszyklus zeigt, in dem die Verkaufsphase gekennzeichnet werden kann.&quot;:::
-
-> [!Note]
-> Die Verkaufsphasen unterscheiden sich, wenn es sich um einen Lösungs Bewertungs Vorgang handelt. Das Markieren der Verkaufsphase ist auch für Lösungs Bewertungs Abschlüsse **obligatorisch** . Die Schaltfläche &quot; **gewinnt** &quot; wird erst aktiviert, nachdem alle Verkaufsphasen vom Partner als vollständig gekennzeichnet wurden.
-
-Im folgenden finden Sie die Tabelle mit den Verkaufsstufen und den entsprechenden Prozentsätzen für andere Geschäfte als Lösungs Bewertungen, die vom Microsoft Partner Center-Referenzsystem festgelegt werden.
-
-|**Name der Verkaufsphase**|**Prozentsatz der Verkaufsphase**|**Definition der Verkaufsphase**|
-|:----|:-----|:-----|
-|Erstellt|10 %|Erstellen eines ausgehenden Deals|
-|Akzeptiert|10 %|Akzeptieren eines eingehenden Deals.|
-|Qualified|20%|Qualifizieren Sie den Wert für das Geschäft und die Kundenanforderungen, bevor Sie fortfahren.|
-|Entstehen|40%|Entwickeln Sie das Problem weiter, um die detaillierten Anforderungen zum Vorbereiten eines POC-oder anderer Artefakte zu verstehen, die für einen formalen Vorschlag erforderlich sind.|
-|Proposed|60 %|Erstellen eines formalen Angebots für den Kunden basierend auf Ihren Anforderungen.|
-|Ausgehandelt|80%|Aushandeln der endgültigen Bedingungen basierend auf dem Vorschlag, um zum Endzustand zu gelangen – Gewinn oder Verlust des Vertrags.|
-|Gewonnen|100 %|Markieren des Deals als gewonnen.|
-
-Wenn Sie fertig sind, können Sie eine der beiden Aktionen ausführen, bei denen das Ergebnis als &quot; **gewinnt** &quot; oder &quot; **verloren** &quot; markiert wird, um das Ergebnis zu melden.
-
-> [!Note]
-> Es ist nicht erforderlich, dass Ihr Unternehmen die gleichen Verkaufsphasen befolgt. Auf diese Weise erkennt Partner Center die Verkaufsphasen der Geschäfte und ordnet die Phasen Ihres Unternehmens automatisch diesen Standard Stufen zu, wenn Sie diese Werte mithilfe der API übergeben. Wenn Sie die Partner Center-Benutzeroberfläche verwenden, werden die in der Tabelle gezeigten Prozentsätze verwendet, um die Verkaufsphasen zu markieren.
-
-> [!Important]
-> Bei bestimmten berechtigten Lösungen werden Sie nach der Auswahl von &quot;gewinnt&quot; aufgefordert, zusätzliche Informationen zum Registrieren Ihres Deals bereitzustellen. Microsoft überprüft die hier von Ihnen bereitgestellten Informationen und kann während des Überprüfungsvorgangs weitere Details anfordern. Weitere Informationen finden Sie unter [Registrieren Ihrer Angebote](register-deals.md).
-
-Ein Problem kann nur dann für die Registrierung von Deals in Frage kommen, wenn es alle unten aufgeführten Kriterien erfüllt.
-
-1. Microsoft ist zur Sache eingeladen.
-2. Microsoft hat entweder die Einladung akzeptiert oder den Deal als gewonnen gekennzeichnet. Sie können den Microsoft-Status verstehen, indem Sie sich die Microsoft-Karte unter Ihren Details ansehen.
-3. Es gibt eine berechtigte Lösung für die Lösung.
-
-> [!Important]
-> Registrieren Sie den Teil nur dann, wenn der Name Ihres Unternehmens und die berechtigte Lösung im Vertrag eindeutig im Vertrag mit dem Kunden aufgeführt sind.
-
-Wenn der Vorgang für die Registrierung in Frage kommt, wird dem Lebenszyklus des Prozesses mit dem Namen &quot;Umgang-Registrierung":::
+:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Bild, das die Kontoeinstellungen anzeigt, in denen Mandanten Informationen gefunden werden können.":::
 
 **Q3. Wer erhält eine e-Mail-Benachrichtigung von Partner Center?**
 
 Der folgende Workflow erläutert, wie die e-Mails aus dem Partner Center-Referenzsystem für neue eingehende Partner Verweise an Partner gesendet werden.
 
-:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Bild, das den Lebenszyklus zeigt, in dem die Verkaufsphase gekennzeichnet werden kann.&quot;:::
-
-> [!Note]
-> Die Verkaufsphasen unterscheiden sich, wenn es sich um einen Lösungs Bewertungs Vorgang handelt. Das Markieren der Verkaufsphase ist auch für Lösungs Bewertungs Abschlüsse **obligatorisch** . Die Schaltfläche &quot; **gewinnt** &quot; wird erst aktiviert, nachdem alle Verkaufsphasen vom Partner als vollständig gekennzeichnet wurden.
-
-Im folgenden finden Sie die Tabelle mit den Verkaufsstufen und den entsprechenden Prozentsätzen für andere Geschäfte als Lösungs Bewertungen, die vom Microsoft Partner Center-Referenzsystem festgelegt werden.
-
-|**Name der Verkaufsphase**|**Prozentsatz der Verkaufsphase**|**Definition der Verkaufsphase**|
-|:----|:-----|:-----|
-|Erstellt|10 %|Erstellen eines ausgehenden Deals|
-|Akzeptiert|10 %|Akzeptieren eines eingehenden Deals.|
-|Qualified|20%|Qualifizieren Sie den Wert für das Geschäft und die Kundenanforderungen, bevor Sie fortfahren.|
-|Entstehen|40%|Entwickeln Sie das Problem weiter, um die detaillierten Anforderungen zum Vorbereiten eines POC-oder anderer Artefakte zu verstehen, die für einen formalen Vorschlag erforderlich sind.|
-|Proposed|60 %|Erstellen eines formalen Angebots für den Kunden basierend auf Ihren Anforderungen.|
-|Ausgehandelt|80%|Aushandeln der endgültigen Bedingungen basierend auf dem Vorschlag, um zum Endzustand zu gelangen – Gewinn oder Verlust des Vertrags.|
-|Gewonnen|100 %|Markieren des Deals als gewonnen.|
-
-Wenn Sie fertig sind, können Sie eine der beiden Aktionen ausführen, bei denen das Ergebnis als &quot; **gewinnt** &quot; oder &quot; **verloren** &quot; markiert wird, um das Ergebnis zu melden.
-
-> [!Note]
-> Es ist nicht erforderlich, dass Ihr Unternehmen die gleichen Verkaufsphasen befolgt. Auf diese Weise erkennt Partner Center die Verkaufsphasen der Geschäfte und ordnet die Phasen Ihres Unternehmens automatisch diesen Standard Stufen zu, wenn Sie diese Werte mithilfe der API übergeben. Wenn Sie die Partner Center-Benutzeroberfläche verwenden, werden die in der Tabelle gezeigten Prozentsätze verwendet, um die Verkaufsphasen zu markieren.
-
-> [!Important]
-> Bei bestimmten berechtigten Lösungen werden Sie nach der Auswahl von &quot;gewinnt&quot; aufgefordert, zusätzliche Informationen zum Registrieren Ihres Deals bereitzustellen. Microsoft überprüft die hier von Ihnen bereitgestellten Informationen und kann während des Überprüfungsvorgangs weitere Details anfordern. Weitere Informationen finden Sie unter [Registrieren Ihrer Angebote](register-deals.md).
-
-Ein Problem kann nur dann für die Registrierung von Deals in Frage kommen, wenn es alle unten aufgeführten Kriterien erfüllt.
-
-1. Microsoft ist zur Sache eingeladen.
-2. Microsoft hat entweder die Einladung akzeptiert oder den Deal als gewonnen gekennzeichnet. Sie können den Microsoft-Status verstehen, indem Sie sich die Microsoft-Karte unter Ihren Details ansehen.
-3. Es gibt eine berechtigte Lösung für die Lösung.
-
-> [!Important]
-> Registrieren Sie den Teil nur dann, wenn der Name Ihres Unternehmens und die berechtigte Lösung im Vertrag eindeutig im Vertrag mit dem Kunden aufgeführt sind.
-
-Wenn der Vorgang für die Registrierung in Frage kommt, wird dem Lebenszyklus des Prozesses mit dem Namen &quot;Umgang-Registrierung":::
+:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Bild, das die Logik zeigt, wie e-Mails für neue eingehende Verweise an Partner gesendet werden.":::
 
 ## <a name="getting-more-co-sell-opportunities"></a>Weitere Co-Selling-Möglichkeiten
 
@@ -330,7 +232,7 @@ Hier finden Sie einige Tipps, die Ihnen helfen, weitere Co-Selling-Verkaufschanc
 
 - **Reagieren Sie schnell auf die Geschäfte**. Wenn Sie rechtzeitig auf eingehende Anforderungen reagieren, erhöhen wir Ihre Sichtbarkeit in zukünftigen Ergebnissen der Partnersuche progressiv. Stellen Sie sicher, dass Ihr Team in Ihrem Sinne schnell reagiert.
 - **Seien Sie bei den Angeboten, die Sie akzeptieren, wählerisch**. Wir überwachen die Typen von Abschlüssen, die Sie akzeptieren und ablehnen, und verwenden diese Informationen, um Ihnen die Suche nach ähnlichen Vereinbarungen zu erleichtern. Wenn Sie nicht gut geeignete Angebote akzeptieren, können Sie Ihre Suchergebnisse nicht verbessern und sich auf die Qualität der von Ihnen empfangenen Möglichkeiten auswirken.
-- **Melden Sie den geschätzten Geschäftsumfang, Enddatum und den endgültigen Status Ihrer Geschäfte ** (gewonnen oder verloren) zurück an uns. Wir verwenden diese Informationen, um Ihnen weiterhin Qualitäts Referenzen zu bieten.
+- **Melden Sie den geschätzten Geschäftsumfang, Enddatum und den endgültigen Status Ihrer Geschäfte** (gewonnen oder verloren) zurück an uns. Wir verwenden diese Informationen, um Ihnen weiterhin Qualitäts Referenzen zu bieten.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

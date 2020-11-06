@@ -9,14 +9,14 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406363"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133047"
 ---
-# <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>Häufig gestellte Fragen zu den Sicherheitsanforderungen für Partner
+# <a name="common-questions-about-partner-security-requirements"></a>Allgemeine Fragen zu Sicherheitsanforderungen für Partner
 
 **Zielgruppe**
 
@@ -26,17 +26,16 @@ ms.locfileid: "91406363"
 
 - Alle aktivierten Benutzer einschließlich Gastbenutzer
 
-## <a name="partner-security-requirements"></a>Sicherheitsanforderungen für Partner
 
-Dieser Artikel enthält einige häufig gestellte Fragen zu den [Sicherheitsanforderungen für Partner](partner-security-requirements.md) sowie die entsprechenden Antworten.
+In diesem Artikel werden einige allgemeine Fragen zu den [Sicherheitsanforderungen für Partner](partner-security-requirements.md) beantwortet.
 
-### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>Was sind die Sicherheitsanforderungen für Partner, und warum sollten Partner sie implementieren?
+### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>Was sind die Sicherheitsanforderungen für Partner, und warum sollten Partner sie implementieren?
 
-Stärkere und laufende Sicherheits- und Datenschutzmaßnahmen gehören zu unseren wichtigsten Prioritäten, und wir unterstützen Partner weiterhin dabei, ihre Kunden und Mandanten zu schützen. Wir stellen immer mehr und immer ausgefeiltere Sicherheitsangriffe fest – insbesondere im Hinblick auf die Kompromittierung von Identitäten. Da vorbeugende Maßnahmen eine Schlüsselrolle bei der Gesamtverteidigungsstrategie spielen, um Sicherheitsangriffe abzuwehren, haben wir in 2019 [obligatorische Sicherheitsanforderungen](partner-security-requirements.md) eingeführt. Alle Partner, die am Cloud Solution Provider-Programm (CSP) teilnehmen, Control Panel Vendors und Berater sollten die Anforderungen implementieren, um konform zu bleiben.
+Stärkere und laufende Sicherheits- und Datenschutzmaßnahmen gehören zu unseren wichtigsten Prioritäten, und wir unterstützen Partner weiterhin dabei, ihre Kunden und Mandanten zu schützen. Wir stellen immer mehr und immer ausgefeiltere Sicherheitsangriffe fest – insbesondere im Hinblick auf die Kompromittierung von Identitäten. Da vorbeugende Maßnahmen eine Schlüsselrolle bei der Gesamtverteidigungsstrategie spielen, um Sicherheitsangriffe abzuwehren, haben wir in 2019 [obligatorische Sicherheitsanforderungen](partner-security-requirements.md) eingeführt. Alle Partner, die am Cloud Solution Provider-Programm (CSP) teilnehmen, Control Panel Vendors und Berater müssen die Anforderungen implementieren, um konform zu bleiben.
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Welches sind die wichtigsten Zeitpläne und Meilensteine?
 
-Die mit den Sicherheitsanforderungen verbundenen Bestimmungen, einschließlich Zeitplänen und Meilensteinen, wurden der [Microsoft Partner-Vereinbarung](microsoft-partner-agreement.md) im Jahr 2019 hinzugefügt. Sie müssen diese Sicherheitsanforderungen baldmöglichst implementieren, um die Voraussetzungen für Ihre Teilnahme am CSP-Programm zu erfüllen.
+Die mit den Sicherheitsanforderungen verbundenen Bestimmungen, einschließlich Zeitplänen und Meilensteinen, sind in der [Microsoft Partner-Vereinbarung](microsoft-partner-agreement.md) enthalten. Sie müssen diese Sicherheitsanforderungen baldmöglichst implementieren, um die Voraussetzungen für Ihre Teilnahme am CSP-Programm zu erfüllen.
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>Was geschieht, wenn ich diese Sicherheitsanforderungen für Partner nicht implementiere?
 
@@ -46,11 +45,11 @@ Partner, die diese Sicherheitsverfahren nicht einhalten, können dann möglicher
 
 ### <a name="do-the-security-requirements-apply-to-all-geographies"></a>Gelten die Sicherheitsanforderungen für alle geografischen Regionen?
 
-Ja, die Sicherheitsanforderungen gelten für alle geografischen Regionen. Es wird dringend empfohlen, dass alle Partner, die über eine unabhängige Cloud (21Vianet, US-Regierung und Deutschland) handeln, diese neuen Sicherheitsanforderungen sofort umsetzen. Diese Partner müssen jedoch nicht die neuen Sicherheitsanforderungen zum 1. August erfüllen. Microsoft wird in Zukunft zusätzliche Details zur Durchsetzung dieser Sicherheitsanforderungen für unabhängige Clouds bereitstellen.
+Ja, die Sicherheitsanforderungen gelten für alle geografischen Regionen. Es wird dringend empfohlen, dass alle Partner, die Transaktionen über eine unabhängige Cloud (US Government und Deutschland) ausführen, diese neuen Sicherheitsanforderungen sofort umsetzen. Diese Partner sind derzeit jedoch nicht verpflichtet, die Sicherheitsanforderungen zu erfüllen. Microsoft wird in Zukunft zusätzliche Details zur Durchsetzung dieser Sicherheitsanforderungen für unabhängige Clouds bereitstellen.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>Sind Ausnahmen für ein Konto möglich?
 
-Nein, kein Benutzerkonto kann davon ausgenommen werden, ein MFA-Verfahren durchzusetzen. Angesichts der umfassenden Privilegien, die mit dem Partnerstatus verbunden sind, muss die mehrstufige Authentifizierung gemäß der Microsoft Partner-Vereinbarung für jedes Benutzerkonto im Partnermandanten erzwungen werden.
+Nein, kein Benutzerkonto kann davon ausgenommen werden, MFA (Multi-Factor Authentication) zu erzwingen. Angesichts der umfassenden Privilegien, die mit dem Partnerstatus verbunden sind, muss die mehrstufige Authentifizierung gemäß der Microsoft Partner-Vereinbarung für jedes Benutzerkonto im Partnermandanten erzwungen werden.
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Woher weiß ich, ob ich die Sicherheitsanforderungen für Partner erfüllt habe?
 
@@ -59,7 +58,7 @@ Sie müssen die folgenden Schritte ausführen:
 - Sie müssen alle Anforderungen erfüllen, die in den [Sicherheitsanforderungen für Partner](partner-security-requirements.md) beschrieben werden.
 - Sie müssen sicherstellen, dass für alle Benutzerkonten in Ihrem Partnermandanten die mehrstufige Authentifizierung erzwungen wird.
 
-Um die wichtigsten Bereiche zu identifizieren, in denen Sie Maßnahmen ergreifen können, nutzen Sie den Bericht [Status der Sicherheitsanforderungen](https://partner.microsoft.com/commerce/security/compliance), der über das Partner Center verfügbar ist.
+Um die wichtigsten Bereiche zu identifizieren, in denen Sie Maßnahmen ergreifen können, nutzen Sie den [Bericht zum Status der Sicherheitsanforderungen](https://partner.microsoft.com/commerce/security/compliance), der über das Partner Center verfügbar ist.
 
 Weitere Informationen zum Statusbericht finden Sie unter [Status der Sicherheitsanforderungen für Partner](partner-security-compliance.md).
 
@@ -95,7 +94,7 @@ Alle Partner im CSP-Programm (Partner mit direkter Abrechnung, indirekte Anbiete
 
     Control Panel-Anbieter müssen das [Onboarding](enroll-as-cpv.md) in Partner Center als Control Panel-Anbieter durchführen und sofort mit der Umsetzung dieser Anforderung beginnen. Weitere Informationen findest du unter [Partner Center: Framework „Sicheres Anwendungsmodell“](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Control Panel-Anbieter müssen anstelle von Anmeldeinformationen die Zustimmung von CSP-Partnern akzeptieren und verwalten und alle vorhandenen Anmeldeinformationen von CSP-Partnern löschen.
 
-## <a name="multi-factor-authentication"></a>Mehrstufige Authentifizierung
+## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
 
 ### <a name="what-is-multi-factor-authentication-mfa"></a>Was ist die Multi-Factor Authentication (MFA)?
 
@@ -308,7 +307,7 @@ Die technische Erzwingung der Sicherheitsanforderungen für Partner wird überpr
 
 Die Azure Active Directory (Azure AD)-[„Basisrichtlinien“ werden demnächst entfernt und ersetzt](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) durch „Sicherheitsstandards“, einen umfassenderen Satz von Schutzrichtlinien für Sie und Ihre Kunden. [Sicherheitsstandards](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) können dazu beitragen, Ihre Organisation vor Sicherheitsangriffen im Zusammenhang mit Identitätsdiebstahl zu schützen.
 
-Ihre Implementierung der mehrstufigen Authentifizierung (Multi-Factor Authentication, MFA) wird infolge der Deaktivierung der Basisrichtlinien entfernt, wenn Sie nicht von den Basisrichtlinien auf die Richtlinie für Sicherheitsstandards oder [andere MFA-Implementierungsoptionen](partner-security-requirements.md#actions-that-you-need-to-take) umgestellt haben. Alle Benutzer in Ihren Partnermandanten, die durch MFA geschützte Vorgänge ausführen, werden aufgefordert, die MFA-Überprüfung abzuschließen. Ausführlichere Informationen dazu finden Sie [hier](partner-security-requirements-mandating-mfa.md).
+Ihre Implementierung der mehrstufigen Authentifizierung (Multi-Factor Authentication, MFA) wird infolge der Deaktivierung der Basisrichtlinien entfernt, wenn Sie nicht von den Basisrichtlinien auf die Richtlinie für Sicherheitsstandards oder [andere MFA-Implementierungsoptionen](partner-security-requirements.md#implementing-multi-factor-authentication) umgestellt haben. Alle Benutzer in Ihren Partnermandanten, die durch MFA geschützte Vorgänge ausführen, werden aufgefordert, die MFA-Überprüfung abzuschließen. Ausführlichere Informationen dazu finden Sie [hier](partner-security-requirements-mandating-mfa.md).
 Führen Sie eine der folgenden Aktionen aus, damit Ihre Konformität gewahrt bleibt und Unterbrechungen so gering wie möglich sind:
 
 - Umstellung auf Sicherheitsstandards

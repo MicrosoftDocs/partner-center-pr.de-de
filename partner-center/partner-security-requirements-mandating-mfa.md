@@ -1,7 +1,7 @@
 ---
-title: Festlegen von MFA für Ihren Partnermandanten
+title: Festlegen von Multi-Factor Authentication (MFA) für Ihren Partnermandanten
 ms.topic: article
-ms.date: 10/26/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie das Festlegen von MFA für Ihre Partnermandanten dazu beiträgt, Ihren Zugriff auf Kundenressourcen zu sichern. Enthält Beispielszenarien.
@@ -9,21 +9,19 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01122e81254a8e63f9bbf8d6bc3d3271accac74a
-ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
+ms.openlocfilehash: b6985054e927dd777d61ae30bd435ab4c6c4ea8c
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92680408"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133105"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Festlegen von Multi-Factor Authentication (MFA) für Ihren Partnermandanten
 
 **Zielgruppe**
 
 - Alle Partner im Cloud Solution Provider-Programm
-  - Direktrechnung
-  - Indirekter Anbieter
-  - Indirekter Wiederverkäufer
+- Alle Control Panel-Anbieter
 - Alle Berater
 
 **Betroffene Rollen**
@@ -34,18 +32,15 @@ ms.locfileid: "92680408"
 - Rechnungsadministrator
 - Globaler Administrator
 
-Diese Funktion soll Partnern helfen, ihren Zugriff auf Kundenressourcen vor Kompromittierungen von Anmeldeinformationen zu schützen.
-Partner müssen die mehrstufige Authentifizierung (Multi-Factor Authentication, MFA) für alle Benutzerkonten in ihrem Partnermandanten – einschließlich des Gastbenutzers – erzwingen. Mit diesem Feature werden diese Partnerrollen beauftragt, die MFA-Überprüfung für die folgenden Bereiche durchzuführen:
+Dieser Artikel enthält ausführliche Beispiele und Anleitungen für das Festlegen der mehrstufigen Authentifizierung (Multi-Factor Authentication, MFA) im Partner Center. Diese Funktion soll Partnern helfen, ihren Zugriff auf Kundenressourcen vor Kompromittierungen von Anmeldeinformationen zu schützen. Partner sind verpflichtet, MFA für alle Benutzerkonten in ihrem Partnermandanten durchzusetzen. Dazu gehören auch Gastbenutzer. Benutzer müssen die MFA-Überprüfung für die folgenden Bereiche durchführen:
 
 - [Partner Center-Dashboard](#partner-center-dashboard)
 - [Partner Center-API](#partner-center-api)
 - [Vom Partner delegierte Verwaltung](#partner-delegated-administration)
 
-Stärkere und laufende Sicherheits- und Datenschutzmaßnahmen gehören zu unseren wichtigsten Prioritäten, und wir unterstützen Partner weiterhin dabei, ihre Kunden und Mandanten zu schützen. Alle Partner, die am Cloud Solution Provider-Programm (CSP) teilnehmen, Control Panel Vendors (CPVs) und Berater sollten die [Sicherheitsanforderungen des Partners](partner-security-requirements.md) implementieren, um konform zu bleiben.
+Stärkere und laufende Sicherheits- und Datenschutzmaßnahmen gehören zu unseren wichtigsten Prioritäten, und wir unterstützen Partner weiterhin dabei, ihre Kunden und Mandanten zu schützen. Alle Partner, die am Cloud Solution Provider-Programm (CSP) teilnehmen, Control Panel Vendors (CPVs) und Berater sollten die [Sicherheitsanforderungen für Partner](partner-security-requirements.md) implementieren, um konform zu bleiben.
 
-Um Partnern dabei zu helfen, ihre Unternehmen und Kunden vor Vorfällen im Zusammenhang mit Identitätsdiebstahl zu schützen, haben wir die zusätzlichen Sicherheitsvorkehrungen für Partnermandanten aktiviert, die Partnern beim Schützen ihrer Mandanten und Kunden helfen können, indem eine MFA-Überprüfung (Multi-Factor Authentication) zur Verhinderung unbefugter Zugriffe festgelegt wird. 
-
-Diese Dokumentation liefert Partnern detaillierte Informationen und Anleitungen zur Aktivierung von Sicherheitsmaßnahmen.
+Um Partnern zu helfen, ihre Unternehmen und Kunden vor Identitätsdiebstahl und unbefugtem Zugriff zu schützen, haben wir zusätzliche Sicherheitsvorkehrungen für Partnermandanten aktiviert, die MFA vorschreiben und überprüfen. 
 
 ## <a name="partner-center-dashboard"></a>Partner Center-Dashboard
 
@@ -55,12 +50,7 @@ Bestimmte Seiten im Partner Center-Dashboard werden durch MFA geschützt, einsch
 - Alle Seiten auf der Registerkarte **Support > Kundenanforderungen** , z. B die Seite, auf die über https://partner.microsoft.com/dashboard/support/csp/customers/* zugegriffen wird
 - Abrechnungsseite
 
-Wenn Sie versuchen, auf eine dieser Seiten zuzugreifen und die MFA-Überprüfung zuvor nicht abgeschlossen haben, müssen Sie dies nun nachholen.
-
-> [!NOTE]
-> Andere Seiten im Partner Center, z. B. die Übersichtsseite oder die Seite zur Überprüfung der Dienstintegrität, werden nicht durch MFA geschützt.
-
-Die folgenden Benutzertypen sind für den Zugriff auf diese durch MFA geschützten Seiten autorisiert und daher von diesem Feature betroffen:
+In der folgenden Tabelle sind die Benutzertypen aufgeführt, die für den Zugriff auf diese durch MFA geschützten Seiten autorisiert sind (und daher von diesem Feature betroffen sind).
 
 
 | Durch MFA geschützte Seiten       | Administrator-Agents      |  Vertriebsbeauftragte     |   Helpdesk-Agents     | Globaler Administrator      |  Rechnungsadministrator     | 
@@ -69,9 +59,11 @@ Die folgenden Benutzertypen sind für den Zugriff auf diese durch MFA geschützt
 | Alle Seiten auf der Registerkarte „Support“ > „Kundenanforderungen“     | x      |       |    x   |       |       |
 | Abrechnungsseite     |   x    |       |       |    x   |   x    |
 
-## <a name="examples-showing-how-verification-works"></a>Beispiele für die Funktionsweise der Überprüfung
+Wenn Sie versuchen, auf eine dieser Seiten zuzugreifen und die MFA-Überprüfung zuvor nicht abgeschlossen haben, müssen Sie dies nun nachholen. Für andere Seiten im Partner Center, z. B. die Übersichtsseite oder die Seite zur Überprüfung der Dienstintegrität, ist MFA nicht erforderlich.
 
-Um die Funktionsweise der Überprüfung zu veranschaulichen, sehen Sie sich die folgenden beiden Beispiele an.
+## <a name="verification-examples"></a>Überprüfungsbeispiele
+
+Die folgenden Beispiele veranschaulichen die Funktionsweise der Überprüfung im Partner Center-Dashboard.
 
 ### <a name="example-1-partner-has-implemented-azure-ad-mfa"></a>Beispiel 1: Partner hat Azure AD MFA implementiert
 
@@ -108,7 +100,7 @@ Um die Funktionsweise der Überprüfung zu veranschaulichen, sehen Sie sich die 
 6. John versucht, auf eine der durch MFA geschützten Seiten im Partner Center zuzugreifen. Da John die MFA-Überprüfung nicht abgeschlossen hat, leitet Partner Center John an Azure AD um, um die MFA-Überprüfung abzuschließen. Da John MFA registriert hat, wird er dieses Mal nur aufgefordert, die MFA-Überprüfung abzuschließen.
 
 > [!NOTE]
->Aktion: Der Unternehmensadministrator sollte MFA jetzt über eine dieser [Optionen](partner-security-requirements.md#actions-that-you-need-to-take) implementieren, die von Partner Center vorgeschlagen werden.
+>Aktion: Unternehmensadministratoren haben [drei Möglichkeiten](partner-security-requirements.md#implementing-multi-factor-authentication) zur Implementierung von MFA.
 
 ## <a name="partner-center-api"></a>Partner Center-API
 
@@ -117,7 +109,7 @@ Die Partner Center-API unterstützt sowohl reine App-Authentifizierung als auch 
 Wenn App- und Benutzerauthentifizierung verwendet wird, erfordert Partner Center eine MFA-Überprüfung. Genauer gesagt: Wenn eine Partneranwendung eine API-Anforderung an Partner Center senden möchte, muss sie ein Zugriffstoken in den Autorisierungsheader der Anforderung einschließen. 
 
 > [!NOTE]
->[Sicheres Anwendungsmodell](/partner-center/develop/enable-secure-app-model) ist ein sicheres, skalierbares Framework zum Authentifizieren von CSP-Partnern und CPVS über die Microsoft Azure MFA-Architektur, wenn Sie die Partner Center-API aufrufen. Sie müssen sie implementieren, bevor Sie MFA für Ihren Mandanten aktivieren. 
+>Das [Framework „Sicheres Anwendungsmodell“](/partner-center/develop/enable-secure-app-model) ist ein skalierbares Framework zum Authentifizieren von CSP-Partnern und CPVs über die Microsoft Azure MFA-Architektur beim Aufruf von Partner Center-APIs. Sie müssen dieses Framework implementieren, bevor Sie MFA für Ihren Mandanten aktivieren. 
 
 Wenn Partner Center eine API-Anforderung mit einem Zugriffstoken empfängt, das mit App- und Benutzerauthentifizierung abgerufen wurde, prüft die Partner Center-API, ob der *MFA* -Wert im *AMR* -Anspruch (Authentication Method Reference) vorhanden ist. Sie können einen JWT-Decoder verwenden, um zu überprüfen, ob ein Zugriffstoken den erwarteten AMR-Wert enthält:
 
@@ -163,17 +155,17 @@ Wenn die reine App-Authentifizierung verwendet wird, funktionieren die APIs, die
 
 ## <a name="partner-delegated-administration"></a>Vom Partner delegierte Verwaltung
 
-### <a name="using-service-portals"></a>Verwenden von Dienstportalen
-
 Partnerkonten, einschließlich Administrator-Agents und Helpdesk-Agents, können ihre vom Partner delegierten Verwaltungsberechtigungen zum Verwalten von Kundenressourcen über Portale für Microsoft-Onlinedienste, die Befehlszeilenschnittstelle (CLI) und APIs (mit App- und Benutzerauthentifizierung) verwenden.
 
-Beim Zugriff auf Portale für Microsoft-Onlinedienste mithilfe der vom Partner delegierten Verwaltungsberechtigungen (Admin-on-Behalf-Of, AOBO, Administrator im Auftrag von) zum Verwalten von Kundenressourcen erfordern viele dieser Portale, dass sich das Partnerkonto interaktiv authentifiziert, wobei der Azure Active Directory-Mandant des Kunden als Authentifizierungskontext festgelegt ist: Das Partnerkonto ist für die Anmeldung beim Kundenmandanten erforderlich.
+### <a name="using-service-portals"></a>Verwenden von Dienstportalen
 
-Wenn Azure Active Directory solche Authentifizierungsanforderungen empfängt, muss das Partnerkonto eine MFA-Überprüfung durchführen. Je nachdem, ob es sich bei dem Partnerkonto um eine verwaltete oder eine Verbundidentität handelt, gibt es zwei Möglichkeiten:
+Beim Zugriff auf Portale für Microsoft-Onlinedienste mithilfe der vom Partner delegierten Verwaltungsberechtigungen (Admin-on-Behalf-Of, AOBO, Administrator im Auftrag von) zum Verwalten von Kundenressourcen erfordern viele dieser Portale, dass sich das Partnerkonto interaktiv authentifiziert, wobei der Azure AD-Mandant des Kunden als Authentifizierungskontext festgelegt ist: Das Partnerkonto ist für die Anmeldung beim Kundenmandanten erforderlich.
 
-- Wenn es sich bei dem Partnerkonto um eine **verwaltete** Identität handelt, wird der Benutzer direkt von Azure Active Directory aufgefordert, die MFA-Überprüfung abzuschließen. Wenn das Partnerkonto zuvor noch nicht für MFA mit Azure Active Directory registriert wurde, wird der Benutzer aufgefordert, zunächst die [MFA-Registrierung abzuschließen](#mfa-registration-experience).
+Wenn Azure AD solche Authentifizierungsanforderungen empfängt, muss das Partnerkonto eine MFA-Überprüfung durchführen. Je nachdem, ob es sich bei dem Partnerkonto um eine verwaltete oder eine Verbundidentität handelt, gibt es zwei Möglichkeiten:
 
-- Wenn es sich bei dem Partnerkonto um eine **Verbundidentität** handelt, ist die Vorgehensweise davon abhängig, wie der Partneradministrator den Verbund in Azure Active Directory konfiguriert hat. Beim Einrichten eines Verbunds in Azure Active Directory kann der Partneradministrator Azure Active Directory informieren, ob der Verbundidentitätsanbieter MFA unterstützt. Wenn dies der Fall ist, leitet Azure Active Directory den Benutzer an den Verbundidentitätsanbieter weiter, um die MFA-Überprüfung abzuschließen. Andernfalls wird der Benutzer von Azure Active Directory direkt aufgefordert, die MFA-Überprüfung abzuschließen. Wenn das Partnerkonto zuvor noch nicht für MFA mit Azure Active Directory registriert wurde, wird der Benutzer aufgefordert, zunächst die [MFA-Registrierung abzuschließen](#mfa-registration-experience).
+- Wenn es sich bei dem Partnerkonto um eine **verwaltete** Identität handelt, wird der Benutzer direkt von Azure AD aufgefordert, die MFA-Überprüfung abzuschließen. Wenn das Partnerkonto zuvor noch nicht für MFA mit Azure AD registriert wurde, wird der Benutzer aufgefordert, zunächst die [MFA-Registrierung abzuschließen](#mfa-registration-experience).
+
+- Wenn es sich bei dem Partnerkonto um eine **Verbundidentität** handelt, ist die Vorgehensweise davon abhängig, wie der Partneradministrator den Verbund in Azure AD konfiguriert hat. Beim Einrichten eines Verbunds in Azure AD kann der Partneradministrator Azure AD informieren, ob der Verbundidentitätsanbieter MFA unterstützt. Wenn dies der Fall ist, leitet Azure AD den Benutzer an den Verbundidentitätsanbieter weiter, um die MFA-Überprüfung abzuschließen. Andernfalls wird der Benutzer von Azure AD direkt aufgefordert, die MFA-Überprüfung abzuschließen. Wenn das Partnerkonto zuvor noch nicht für MFA mit Azure AD registriert wurde, wird der Benutzer aufgefordert, zunächst die [MFA-Registrierung abzuschließen](#mfa-registration-experience).
 
 Die Benutzererfahrung ähnelt insgesamt dem Szenario, in dem ein Endkundenmandant MFA für seine Administratoren implementiert hat. Beispielsweise hat der Kundenmandant [Azure AD-Sicherheitsstandards](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) aktiviert. Diese erfordern, dass sich alle Konten mit Administratorrechten mit MFA-Überprüfung beim Kundenmandanten anmelden, einschließlich Administrator-Agents und Helpdesk-Agents. Zu Testzwecken können Partner die [Azure AD-Sicherheitsstandards](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) im Kundenmandanten aktivieren und dann versuchen, vom Partner delegierte Verwaltungsberechtigungen für den Zugriff auf den Kundenmandanten zu verwenden.
 
@@ -202,19 +194,13 @@ Wenn das Partnerbenutzerkonto noch nicht für MFA registriert wurde, wird der Be
 
 Nachdem der Benutzer auf **Weiter** geklickt hat, wird er aufgefordert, aus einer Liste von Überprüfungsmethoden auszuwählen.
 
-:::image type="content" source="images/MfaRegistration2.png" alt-text="MFA-Registrierung, Schritt 1":::
+:::image type="content" source="images/MfaRegistration2.png" alt-text="MFA-Registrierung, Schritt 2":::
 
 Nach erfolgreicher Registrierung muss der Benutzer die MFA-Überprüfung basierend auf der vom Benutzer ausgewählten Überprüfungsmethode durchführen.
-
-## <a name="request-for-technical-exception"></a>Anfrage einer technischen Ausnahme
-
-Partner können eine technische Ausnahme beantragen, um die MFA-Überprüfung zu unterdrücken, wenn sie technische Probleme mit Microsoft-Onlinediensten haben und keine praktikable Lösung oder Problemumgehung verfügbar ist. Lesen Sie zuvor die folgenden Abschnitte:
-
-- [Liste der von Partnern gemeldeten häufigen Probleme](#list-of-common-issues-reported-by-partners)
-- [Einreichen einer Anfrage für eine technische Ausnahme](#how-to-submit-a-request-for-technical-exception)
  
-### <a name="list-of-common-issues-reported-by-partners"></a>Liste der von Partnern gemeldeten häufigen Probleme
-Bevor Sie eine technische Ausnahme beantragen, überprüfen Sie die Liste der häufigen Probleme, die von anderen Partnern gemeldet wurden, um zu verstehen, ob es sich um gültige Gründe für eine technische Ausnahme handelt.
+## <a name="list-of-common-issues"></a>Liste der häufigen Probleme
+
+Bevor Sie eine [technische Ausnahme](#how-to-submit-a-request-for-technical-exception) von der MFA-Anforderung beantragen, überprüfen Sie die Liste der häufigen Probleme, die von anderen Partnern gemeldet wurden, um festzustellen, ob Ihr Antrag gültig ist.
 
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Problem 1: Partner benötigt mehr Zeit für die Implementierung von MFA für seine Partner-Agents
 Ein Partner hat noch nicht damit begonnen oder ist noch dabei, MFA für seine Partner-Agents zu implementieren, die Zugriff auf Portale für Microsoft-Onlinedienste benötigen, um Kundenressourcen mit vom Partner delegierten Verwaltungsberechtigungen zu verwalten. Der Partner benötigt mehr Zeit, um die MFA-Implementierung abzuschließen. Handelt es sich um einen gültigen Grund für eine technische Ausnahme?
@@ -261,7 +247,9 @@ Ein Partner hat MFA für seine Benutzer mit einer MFA-Lösung eines Drittanbiete
 
 - Die Bestellung der Drittanbieter-MFA-Lösung, die Sie bereits verwenden oder verwenden möchten.
 
-### <a name="how-to-submit-a-request-for-technical-exception"></a>Einreichen einer Anfrage für eine technische Ausnahme
+## <a name="how-to-submit-a-request-for-technical-exception"></a>Einreichen einer Anfrage für eine technische Ausnahme
+
+Partner können eine technische Ausnahme beantragen, um die MFA-Überprüfung zu unterdrücken, wenn sie technische Probleme mit Microsoft-Onlinediensten haben und keine praktikable Lösung oder Problemumgehung verfügbar ist. Überprüfen Sie zuvor die [Liste der häufigen Probleme](#list-of-common-issues) im vorherigen Abschnitt.
 
 So reichen Sie eine Anfrage für eine technische Ausnahme ein:
 
@@ -271,6 +259,10 @@ So reichen Sie eine Anfrage für eine technische Ausnahme ein:
 
 3. Suchen Sie im Suchfeld nach **MFA – Request for exception** (MFA – Anfrage einer Ausnahme), oder wählen Sie nacheinander **CSP** in „Kategorie“, **Konten, Onboarding, Zugriff** in „Thema“, **MFA – Request for exception** im Unterthema und **Nächster Schritt** aus.
 
-4. Geben Sie die zum Einreichen einer Serviceanfrage erforderlichen Details an, und klicken Sie dann auf **Übermitteln** .
+4. Geben Sie die zum Einreichen einer Serviceanfrage erforderlichen Details an, und klicken Sie dann auf **Übermitteln**.
 
 Es kann bis zu drei Arbeitstage dauern, bis Microsoft eine Antwort auf eine Anfrage für eine technische Ausnahme bereitstellt.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+ - [Status der Sicherheitsanforderungen für Partner](partner-security-compliance.md)

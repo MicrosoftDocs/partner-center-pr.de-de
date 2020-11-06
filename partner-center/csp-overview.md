@@ -1,7 +1,7 @@
 ---
 title: Übersicht über das Cloud Solution Provider-Programm
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über die Vorteile und verschiedenen Modelle im Cloud Solution Provider (CSP)-Programm, um Ihr Unternehmen mit neuen Kunden und neuem Know-how voranzubringen.
@@ -9,19 +9,18 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e1f85f670de583052807c9ff2edfa84a50bd7daf
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: f72a4cffaa8557e7e8f56dd2253c99449e3a696d
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92197906"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045416"
 ---
 # <a name="cloud-solution-provider-program"></a>Programm für Cloud-Lösungsanbieter 
 
 **Zielgruppe**
 
 - Partner Center
-- Partner im CSP-Programm
 
 Dieser Artikel gibt einen Überblick über das Cloud Solution Provider (CSP)-Programm und erläutert die verschiedenen Betriebsmodelle und ihre Anforderungen sowie weitere Einzelheiten zum Verkauf über dieses Programm.  Das CSP-Programm hilft Ihnen, sich über den Weiterverkauf von Lizenzen hinaus stärker in die Geschäfte Ihrer Kunden einzubringen, und kann folgende Vorteile bieten: 
 
@@ -32,31 +31,33 @@ Dieser Artikel gibt einen Überblick über das Cloud Solution Provider (CSP)-Pro
 
 ## <a name="which-csp-model-is-best-for-me"></a>Welches CSP-Modell ist optimal für mich?
 
-### <a name="direct-bill-model"></a>Modell mit direkter Abrechnung
-
- Beim Modell mit direkter Abrechnung erwerben Partner Microsoft-Produkte und -Abonnements direkt von Microsoft und verkaufen sie über ihre internen Vertriebsmitarbeiter direkt an ihre Kunden. Partner, die bereits über eine geeignete Vertriebs-, Abrechnungs- und Supportinfrastruktur verfügen oder eine solche aufbauen möchten, können sich für das CSP-Direktmodell entscheiden. Die Anforderungen für direkte Partner wurden vor Kurzem geändert. Die neuen Anforderungen sind ab 31. August 2018 gültig. Direkte Partner müssen die neuen Anforderungen ab ihrem nächsten Registrierungszeitraum nach dem 31. August 2018 erfüllen.
-
-#### <a name="new-expanded-requirements"></a>Neue erweiterte Anforderungen
-
-Support
-
-- Erweitern Sie Ihre Supportmöglichkeiten durch den Erwerb eines Microsoft Advanced Support for Partners-Pakets für persönlichen, priorisierten Cloudsupport. Oder wählen Sie ein Microsoft Premier Support for Partners-Paket, um das gesamte Portfolio an proaktiven Diensten, erweiterten Problemsupport rund um die Uhr sowie eine technische Kontenverwaltung für Cloud-, Hybrid- und lokale Umgebungen zu nutzen.
-
-Dienste
-
-- Zeigen Sie auf, dass Sie mindestens einen verwalteten Dienst, einen IP-Dienst oder eine kundenspezifische Anwendungslösung anbieten. 
-
-- Erfüllen Sie die Mindestanforderungen an Infrastrukturfunktionen, wie Abrechnung und Bereitstellung. Wir beobachten die jährliche Leistung, um sicherzustellen, dass Partner mit direkter Abrechnung, die diese Anforderungen erfüllen, ein kontinuierliches Unternehmenswachstum verzeichnen. Derzeit gibt es keine spezifischen Leistungsziele, es kann aber sein, dass Microsoft künftig ein Leistungslimit einführt.
-
-- Eine aktive Microsoft Partner Network (MPN)-ID für den Standort, an dem Sie Produkte vertreiben möchten
-
 ### <a name="indirect-model"></a>Indirektes Modell
 
-Beim indirekten Modell erwerben Anbieter (auch als Händler bezeichnet) Microsoft-Produkte und -Abonnements direkt von Microsoft, vertreiben diese jedoch über ein Netzwerk indirekter Vertriebspartner an Kunden. Die Voraussetzungen für die Registrierung im CSP-Programm als indirekter Wiederverkäufer umfassen:
+Microsoft hilft allen Partnern, die am Cloud Solution Provider-Programm teilnehmen, das beste Modell für das Wachstum ihres Unternehmens zu finden. Microsoft hat ein globales Netzwerk qualifizierter indirekter Anbieter aufgebaut, die Partner beim erfolgreichen Ausbau ihres Cloudgeschäfts im Rahmen des Cloud Solution Provider-Programms unterstützen. Wenn Sie als indirekter Vertriebspartner teilnehmen, können Sie Ihre Markteinführungszeiten durch minimierte betriebliche Komplexität beschleunigen. 
 
-- Eine aktive Microsoft Partner Network (MPN)-ID für den Standort, an dem Sie Produkte vertreiben möchten
+Als indirekter Vertriebspartner können Sie mit indirekten Anbietern zusammenarbeiten, die Ihnen die Tools und Ressourcen bereitstellen können, die Sie bei der Verwaltung Ihrer Kundenbeziehung unterstützen. Beim indirekten Modell können Sie von einem indirekten Anbieter kaufen, der bei Kundensupport und Abrechnung mit Ihnen zusammenarbeiten kann.
+Sie benötigen Folgendes: 
+
+- Eine aktive Mitgliedschaft im Microsoft Partner Network und eine MPN-ID für den Standort, an dem Sie Produkte vertreiben möchten.
 - Die Befugnis, rechtliche Vereinbarungen im Namen Ihrer Organisation zu unterzeichnen
-- Eine Beziehung mit [einem offiziellen Microsoft-Anbieter](https://partnercenter.microsoft.com/partner/find-a-provider)
+- Eine Beziehung zu einem [offiziellen indirekten Microsoft-Anbieter](https://partnercenter.microsoft.com/partner/find-a-provider) im Cloud Solution Provider-Programm
+
+### <a name="direct-bill-model"></a>Modell mit direkter Abrechnung
+
+Beim Modell mit direkter Abrechnung erwerben Partner Microsoft-Produkte und -Abonnements direkt von Microsoft und verkaufen sie über ihre internen Vertriebsmitarbeiter direkt an ihre Kunden. Partner, die bereits über eine geeignete Vertriebs-, Abrechnungs- und Supportinfrastruktur verfügen oder eine solche aufbauen möchten, können sich für das Direktmodell entscheiden. Wir haben die Registrierungsanforderungen für Direktabrechnungspartner ab dem 27. Oktober 2020 aktualisiert.
+
+#### <a name="requirements"></a>Anforderungen
+
+Sehen Sie sich die aktualisierten Anforderungen für die direkte Abrechnung und die Empfehlungen weiter unten an, um festzustellen, wie Sie mit dem richtigen Modell im Cloud Solution Provider-Programm ein profitableres Geschäft auf- und ausbauen können:  
+
+- **Support:** Erweitern Sie Ihre Supportmöglichkeiten durch den Erwerb eines Microsoft Advanced Support for Partners-Pakets für persönlichen, priorisierten Cloudsupport. Oder wählen Sie ein Microsoft Premier Support for Partners-Paket, um das gesamte Portfolio an proaktiven Diensten, erweiterten Problemsupport rund um die Uhr sowie eine technische Kontenverwaltung für Cloud-, Hybrid- und lokale Umgebungen zu nutzen. Lesen Sie die Microsoft Partner-Vereinbarung, um weitere Informationen zu Ihrer Supportverpflichtung zu erhalten.
+- **Leistungsanforderung:** Vergewissern Sie sich, dass Sie in den vorangegangenen zwölf Monaten als indirekter Vertriebspartner einen Jahresumsatz von mindestens 300.000 USD im Rahmen des Cloud Solution Provider-Programms erzielt haben. Partner können ihren Umsatz in den letzten zwölf Monaten im Partner Center überprüfen. Die Verkäufe, aus denen sich Ihr Umsatz von 300.000 USD in den letzten zwölf Monaten ergibt, werden von Microsoft geprüft, und Sie werden möglicherweise um zusätzliche Informationen gebeten. Die Umsatzanforderung von 300.000 USD wird auf Grundlage des Cloudumsatzes berechnet und schließt unbefristete Software in CSP aus.
+- Erfüllen Sie die Mindestanforderungen an Infrastrukturfunktionen, wie Abrechnung und Bereitstellung.
+- Eine aktive Mitgliedschaft im Microsoft Partner Network und eine MPN-ID für den Standort, an dem Sie Produkte vertreiben möchten.
+
+#### <a name="recommendations"></a>Empfehlungen
+
+- **Aufzeigen wichtiger Funktionen:** Zeigen Sie auf, dass Sie mindestens einen verwalteten Dienst, einen IP-Dienst oder eine kundenspezifische Anwendungslösung anbieten. [Erfahren Sie mehr über das Hinzufügen von verwalteten Services](https://partner.microsoft.com/solutions/managed-services). 
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>Wo kann ich über das CSP-Programm verkaufen?
 

@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a4bb8eb1d3dbd24f4e18e96fb7b67c6e7332186
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93028773"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360002"
 ---
 # <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Aktualisieren von Windows 10 Home-Kunden auf Windows 10 Education
 
@@ -31,13 +31,13 @@ ms.locfileid: "93028773"
 
 Ab dem 1. November 2020 können CSPs, die Microsoft 365 a3-oder A5-oder Windows 10 Enterprise a3-oder A5-Abonnements erworben haben, bei ihren Bildungs Kunden bei der Aktualisierung von Windows 10 Home auf Windows 10 Education helfen, das sowohl für den Classroom als auch für das Remote lernen konzipiert ist.
 
-Ab dem 1. November 2020 ist Windows 10 Home ein qualifizierendes Betriebssystem für Bildungs Kunden, die über die Microsoft Cloud Vereinbarung (über CSP) lizenziert werden. Diese Berechtigung, die bis jetzt nur in den Education-Programmen der Volumen Lizenzierung (VL) verfügbar ist, wurde über Microsoft 365 Admin Portal-Unterstützung aktiviert. 
+Ab dem 1. November 2020 ist Windows 10 Home ein qualifizierendes Betriebssystem für Kunden im Bildungswesen, die eine Lizenz über den Microsoft Cloud-Vertrag (durch CSP) besitzen. Diese Berechtigung, die bisher nur in den Bildungsprogrammen mit Volumenlizenzierung (VL) verfügbar war, wird über den Support für das Microsoft 365-Verwaltungsportal bereitgestellt. 
 
-## <a name="how-the-upgrade-process-works"></a>Funktionsweise des Upgradevorgangs
+## <a name="how-the-upgrade-process-works"></a>Ablauf des Upgradeprozesses
 
-CSP-Partner können Ihre Kunden bei der Aktualisierung unterstützen, indem Sie eine Supportanfrage in Ihrem Namen einreichen. Microsoft-Support prüft die Anforderung, um sicherzustellen, dass sich der Kunde qualifiziert. Nachdem die Anforderung genehmigt wurde, stellt der Support dem Partner den Windows 10 pro Education-Schlüssel zur Verfügung, der dem Kunden die Möglichkeit geben kann.
+CSP-Partner können Ihre Kunden beim Upgrade unterstützen, indem sie eine Supportanfrage in deren Namen einreichen. Microsoft-Support prüft die Anforderung, um sicherzustellen, dass sich der Kunde qualifiziert. Nachdem die Anforderung genehmigt wurde, stellt der Support dem Partner den Windows 10 pro Education-Schlüssel zur Verfügung, der dem Kunden die Möglichkeit geben kann.
 
-Wenn der Kunde den Schlüssel installiert und das Gerät über Azure Active Directory (AAD) der Mandanten Domäne hinzugefügt wird, wird das Gerät automatisch auf Windows 10 Education (Abonnement) aktualisiert.   
+Sobald der Kunde den Schlüssel installiert und das Gerät über Azure Active Directory (AAD) der Mandantendomäne hinzugefügt wird, erfolgt automatisch ein Upgrade des Geräts auf Windows 10 Education (Abonnement).   
 
 ## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>Schritt-für-Schritt-Anleitung für Kunden zum Einstieg in Windows 10 Education
 
@@ -63,7 +63,7 @@ Partner sollten eine Supportanfrage erstellen und Schlüssel aus dem Support erh
 - **Beschreibung:** Anfordern von [Insert number]-Schlüsseln zum Aktivieren des Upgrades auf Windows 10 Education. (Beachten Sie, dass die Anzahl der angeforderten Schlüssel nicht größer sein darf als die Microsoft 365 a3/A5-oder Windows 10 Enterprise a3/A5-Abonnement Lizenzen.) Abonnement-ID des Kunden [fügen Sie die Abonnement-ID-GUID für das Microsoft 365 a3/A5-oder Windows 10 Enterprise a3/A5-Abonnement ein.]
 - **Kontaktnummer:** Dies wird vorab ausgefüllt. Lesen Sie, um zu bestätigen oder zu aktualisieren.
 - **E-Mail:** Dies wird vorab ausgefüllt und sollte die e-Mail sein, die Sie als Administrator des Microsoft-Portals verwenden (nur globaler Administrator oder Abrechnungs Administrator).
-- **Bevorzugte Kontaktmethode** : Wählen Sie **Telefon** aus, oder **Planen Sie einen Rückruf** .
+- **Bevorzugte Kontaktmethode** : Wählen Sie **Telefon** aus, oder **Planen Sie einen Rückruf**.
 
 8. Wählen Sie **Kontaktaufnahme** aus. Die erwartete Wartezeit ist im Bereich erforderliche **Hilfe?** angegeben.
 
@@ -100,4 +100,4 @@ Das Windows 10 Education-Upgrade basiert auf den aktiven Microsoft 365 a3/A5-ode
 Weitere Informationen finden Sie unter den folgenden Links:
 
 - [Windows-eduction-Features](https://www.microsoft.com/education/products/windows/features)
-- [Windows Education Hub](https://docs.microsoft.com/education/windows/)
+- [Windows Education Hub](/education/windows/)

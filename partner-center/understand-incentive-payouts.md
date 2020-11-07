@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
-ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
+ms.openlocfilehash: 8dcd559e9e52c246b720678f05dec9128a6ca366
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "93244062"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360053"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Details zum Programm anzeigen, verwalten und exportieren
 
@@ -40,7 +40,7 @@ Verwenden Sie diese Seiten, um Details zu den bisherigen, ausstehenden und bevor
 Über das Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)können Sie auf die Informationen zu den Incentives zugreifen:
 
 - Wählen Sie im Menü auf der linken Seite die Option **Incentives** aus. Unter " **Incentives** " (einschließlich **Übersicht** ) werden verschiedene Optionen angezeigt. Erkunden Sie diese Optionen, um den Status von Incentive-Programmen, Incentive-Zahlungen, Einnahmen und Ansprüchen zu erlernen.
-- Wählen Sie in der oberen rechten Ecke das Symbol **Money** (Auszahlung) aus. Sie können dann andere Optionen auswählen, z. b. **Transaktionsverlauf** , **Zahlungen** , **Export Daten** oder **Office Sales Report** .
+- Wählen Sie in der oberen rechten Ecke das Symbol **Money** (Auszahlung) aus. Sie können dann andere Optionen auswählen, z. b. **Transaktionsverlauf** , **Zahlungen** , **Export Daten** oder **Office Sales Report**.
 
 Die folgenden Seiten werden hier beschrieben:
 
@@ -139,7 +139,7 @@ Wenn Sie Ihre Referenznummer für Channel-Anreize (CI) nicht kennen, können Sie
 
 - Das [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) (Anmeldung erforderlich) auf den Registerkarten " **bezahlt** " und " **Ausstehend** ".  
 
-- Ihr Zahlungs Bericht, der sich auf der [Exportseite für den Zahlungs Download](/partner-center/understand-incentive-payouts#payment-download-export)befindet. 
+- Ihr Zahlungs Bericht, der sich auf der [Exportseite für den Zahlungs Download](#payment-download-export)befindet. 
 
 #### <a name="if-your-submission-is-rejected"></a>Wenn Ihre Übermittlung abgelehnt wird
 
@@ -199,7 +199,7 @@ Beachten Sie, dass Ihre Zahlung nur im projizierten Monat freigegeben wird, wenn
 |Anstehend      |Der Zahlungsauftrag hat ausstehende interne Überprüfungen generiert, bevor die Zahlung verarbeitet wird.       |Nein       |
 |Ausstehende Steuerrechnung      |Ihre Steuerrechnung ist unvollständig oder ungültig.          |Sie müssen Ihre Steuerrechnung aktualisieren, bevor Sie bezahlt werden können.         |
 |Bei Überprüfung abgelehnt        |Die Zahlung wurde während der Überprüfung abgelehnt.          |Wenden Sie sich an den Microsoft-Support, um weitere Informationen zu erhalten.         |
-|Fehlgeschlagen        |Die Zahlung ist aufgrund eines Microsoft-Systemfehlers fehlgeschlagen.         |Weitere Informationen erhalten Sie vom Microsoft Support.         |
+|Fehler        |Die Zahlung ist aufgrund eines Microsoft-Systemfehlers fehlgeschlagen.         |Weitere Informationen erhalten Sie vom Microsoft Support.         |
 |In Bearbeitung     |Die Zahlung wird ausgeführt.         |Nein         |
 |Falsche Zahlung        |Der Zahlungsvorgang wird wiederholt.          |Nein        |
 |Gesendet        |Die Zahlung wurde an Ihre Bank gesendet.          |Nein       |
@@ -220,7 +220,7 @@ Im folgenden finden Sie einige Überlegungen, wenn Sie versuchen, Daten zu expor
 
 - Die Seite „Daten exportieren“ wird nicht eigenständig aktualisiert. Möglicherweise müssen Sie die Seite manuell aktualisieren, um die neuesten Daten anzuzeigen.
 
-- Ihr Filter bewirkt möglicherweise einen Fehler vom Typ **Keine Daten verfügbar** . Dieser Fehler bedeutet wahrscheinlich, dass Sie den Standard Zeitraum in drei Monaten ausgewählt haben und dann eine Zahlungs-ID aus einem Verdienst außerhalb dieses Zeitraums ausgewählt haben. Erweitern Sie den Zeitraum, und versuchen Sie es erneut.
+- Ihr Filter bewirkt möglicherweise einen Fehler vom Typ **Keine Daten verfügbar**. Dieser Fehler bedeutet wahrscheinlich, dass Sie den Standard Zeitraum in drei Monaten ausgewählt haben und dann eine Zahlungs-ID aus einem Verdienst außerhalb dieses Zeitraums ausgewählt haben. Erweitern Sie den Zeitraum, und versuchen Sie es erneut.
 
 ## <a name="payment-download-export"></a>Zahlungs Download Export
 Mit dieser Option können Sie die Zahlungen, die Sie in Ihrer Bank für ein bestimmtes Programm erhalten haben, sowie die zugehörigen Steuern und den aggregierten Einnahmebetrag herunterladen.

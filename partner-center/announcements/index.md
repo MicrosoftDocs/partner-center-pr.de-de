@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
-ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
+ms.openlocfilehash: bf5204acd9783081ec91f3372cde0269891ff9de
+ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93327248"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "94333911"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,10 +22,12 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für November 2020** | **Angekündigt** |
 |---------|:---------|:---------|
-|Angebote/Märkte|[Windows 10 Education-Upgrade steht nun qualifizierten Kunden von Cloud Solution Provider (CSP) zur Verfügung.](2020-november.md#4)|2\. November|
-|Angebote/Märkte|[Aktualisierte digitale Bereitstellung von Cloud Solution Provider (CSP) jetzt verfügbar; Aktualisierungen der Preisliste für CSP-Softwareabonnements (Cloud Solution Provider) vom Oktober 2020](2020-november.md#3)|2\. November|
-|Angebote/Märkte|[Aktualisierungen der Preisliste für CSP-Softwareabonnements (Cloud Solution Provider) vom Oktober 2020](2020-november.md#2)|2\. November|
-|Angebote/Märkte|[Einführung eines Leistungsstandards für die Anforderungen von Partnern mit direkter Abrechnung im CSP-Programm (Cloud Solution Provider)](2020-november.md#1)|2\. November|
+|Funktionen|[Erweiterung von Partnerinhalten für kommerzielle Lizenzierung in der Operations Readiness-Katalogsammlung](2020-november.md#6)|2\. November|
+|Angebote/Märkte|[Einführung der Premium-SKU für Microsoft Teams-Räume](2020-november.md#5)|2\. November|
+|Angebote/Märkte|[Neue Advanced Communications-SKUs für Microsoft Teams für Government Community Cloud (GCC) in Kürze verfügbar](2020-november.md#4)|2\. November|
+|Angebote/Märkte|[Dynamics 365: Vor Kurzem eingeführte und bevorstehende neue Angebote und Produkte](2020-november.md#3)|2\. November|
+|Angebote/Märkte|[Einführung von Microsoft 365 Business Voice für gemeinnützige Organisationen](2020-november.md#2)|2\. November|
+|Angebote/Märkte|[CSP-Promo (Cloud Solution Provider) für Microsoft 365 Business Voice jetzt verfügbar](2020-november.md#1)|2\. November|
 | **Kategorie** | **Ankündigungen für Oktober 2020** | **Datum** |
 |Funktionen|[Windows Server-Softwareabonnements – Funktionsupdates](2020-october.md#17)|29. Oktober|
 |Funktionen|[Windows 10 Education-Upgrade steht nun qualifizierten Kunden von Cloud Solution Provider (CSP) zur Verfügung.](2020-october.md#16)|28. Oktober|

@@ -1,20 +1,20 @@
 ---
 title: Migration von Partner Sales Connect (PSC)
-ms.topic: article
-ms.date: 08/27/2020
-ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Microsoft-Partner von Partner Sales Connect (PSC) zu Partner Center migrieren und von Microsoft-Verkäufern gesendete Angebote erstellen oder verwalten können.
+ms.topic: article
 author: vikramb
 ms.author: vikramb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 11/06/2020
+ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999344"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381430"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Leitfaden zum Co-Selling im Partner Center (PC) für Partner, die von Partner Sales Connect (PSC) migrieren
 
@@ -30,7 +30,7 @@ ms.locfileid: "90999344"
 - Partner Sales Connect-Administrator (PSC)
 - Partner Sales Connect (PSC)-Deal-Manager
 
-Wie Sie wissen, verliert Ihr Unternehmen den Zugriff auf den PSC-Beitrag am 31. Dezember 2020. Allerdings finden Sie alles, was Sie tun möchten, um Co-Selling-Angebote zu erstellen, ihre Geschäfte zu verwalten und Aktionen durchzuführen, die von Microsoft-Verkäufern an Sie im Partner Center gesendet werden. Es gibt jedoch Unterschiede, und die folgende Anleitung hilft Ihnen, den Übergang zu Partner Center zu vereinfachen und zu vereinfachen.
+Wie Sie wissen, verliert Ihr Unternehmen den Zugriff auf den PSC-Beitrag für den 31. März 2021. Allerdings finden Sie alles, was Sie tun möchten, um Co-Selling-Angebote zu erstellen, ihre Geschäfte zu verwalten und Aktionen durchzuführen, die von Microsoft-Verkäufern an Sie im Partner Center gesendet werden. Es gibt jedoch Unterschiede, und die folgende Anleitung hilft Ihnen, den Übergang zu Partner Center zu vereinfachen und zu vereinfachen.
 
 >[!Important]
 > Wenn Sie sich hier befinden, weil Sie ein Banner zu der Migration gesehen haben, sind Sie an der richtigen Stelle. Dieses Handbuch gilt nicht für Lösungs Bewertungs (SA) und OEM-IOT-Partner, die ihre Geschäfte in PSC verwalten.
@@ -47,7 +47,7 @@ Wie Sie wissen, verliert Ihr Unternehmen den Zugriff auf den PSC-Beitrag am 31. 
 >[!Important]
 > Stellen Sie sicher, dass die im PSC-Banner angezeigte MPN-ID in der Liste der MPN-Standorte im Partner Center verfügbar ist. Sie können überprüfen, ob Sie in Partner Center auf "Kontoeinstellungen" und "[Standorte](manage-locations.md)" klicken, um die Liste aller mpns zu ermitteln, die dem Partner Center-Konto zugeordnet sind.
 
- :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Bild, das das PSC-Banner anzeigt, in dem die Partner die MPN-ID finden können.":::
+:::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="Bild, das das PSC-Banner anzeigt, in dem die Partner die MPN-ID finden können.":::
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>Wenn Sie PSC-Deal-Manager oder Verkäufer sind
 
@@ -63,26 +63,55 @@ Wenn die Registerkarte Verweise nicht angezeigt wird:
 
 - Der [globale Administrator](permissions-overview.md) Ihres Unternehmens kann Ihnen Zugriff auf die Registerkarte "Verweise" gewähren. Um ihren globalen Administrator zu finden, wechseln Sie über das Zahnrad Symbol in der oberen rechten Ecke des Partner Centers zu den Partner Einstellungen. Wählen Sie die Seite Benutzerverwaltung auf der zweiten Ebene der linken Navigationsleiste aus. Klicken Sie oben rechts auf der Seite auf die Dropdown-Ansicht mit "alle Benutzer", und wechseln Sie zu "globale Administratoren". Auf der Seite werden dann alle globalen Administratoren mit ihren jeweiligen e-Mail-IDs angezeigt. Wenden Sie sich an die IT-Abteilung, um den Zugriff auf Ihr Geschäftskonto zu erhalten.
 
->[!Important]
-> Wenn Ihre Rolle nur Benutzer im PSC verwaltet, können Sie die [Konto Administrator](permissions-overview.md#manage-mpn-membership-and-your-company) Rolle im Partner Center erhalten. Wenn Ihre Rolle auch die Verwaltung von Co-Selling-Verkaufschancen umfasst, sollten Sie die Administrator Rolle " [referenrals](permissions-overview.md#manage-referrals) " erhalten. Außerdem sollten Sie einen Change Management für die PSC-Administratoren treffen, damit Sie mit dem Partner Center-Konto Administrator zusammenarbeiten können, anstatt alle PSC-Administratoren, die sich einzeln an die Konto Administratoren des PCs wenden.
+  >[!Important]
+  > Wenn Ihre Rolle nur Benutzer im PSC verwaltet, können Sie die [Konto Administrator](permissions-overview.md#manage-mpn-membership-and-your-company) Rolle im Partner Center erhalten. Wenn Ihre Rolle auch die Verwaltung von Co-Selling-Verkaufschancen umfasst, sollten Sie die Administrator Rolle " [referenrals](permissions-overview.md#manage-referrals) " erhalten. Außerdem sollten Sie einen Change Management für die PSC-Administratoren treffen, damit Sie mit dem Partner Center-Konto Administrator zusammenarbeiten können, anstatt alle PSC-Administratoren, die sich einzeln an die Konto Administratoren des PCs wenden.
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Bild, das die Konto Administratoren auf der Seite Partner Einstellungen Benutzerverwaltung anzeigt.":::
+  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="Bild, das die Konto Administratoren auf der Seite &quot;Partner Einstellungen Benutzerverwaltung&quot; anzeigt.":::
 
 - Wechseln Sie im linken Navigationsbereich zur Registerkarte Verweise, und überprüfen Sie, ob Sie auf die Seiten zugreifen können.
 
+  >[!Note]
+  > Möglicherweise müssen Sie sich bei Partner Center abmelden und wieder anmelden, um Ihre Anmelde Informationen für den Zugriff auf die Seite "Verweise" zu aktualisieren.
+
+## <a name="user-migration"></a>Benutzermigration
+
+Nachdem Sie Ihr Konto in Partner Center eingerichtet haben, verwenden Sie den Benutzermigrations-Assistenten auf der Seite Co-Selling-Chancen, um den Mitarbeitern Ihres Unternehmens automatisch Partner Center-Rollen zuzuweisen.
+
 >[!Note]
-> Möglicherweise müssen Sie sich bei Partner Center abmelden und wieder anmelden, um Ihre Anmelde Informationen für den Zugriff auf die Seite "Verweise" zu aktualisieren.
+> Die Benutzer Migration kann nur von [Konto Administratoren](permissions-overview.md#manage-mpn-membership-and-your-company) Ihres Unternehmens ausgeführt werden. Wenn Sie nicht über die Konto Administrator Rolle verfügen, finden Sie einen Konto Administrator, der beim Einrichten der Benutzerkonten mit dem Assistenten für die Benutzer Migration behilflich sein kann. Die Funktionen für die Benutzer Migration werden ab dem 16. November 2020 verfügbar sein.
 
-Nachdem Sie Ihr Konto in Partner Center eingerichtet haben,
+:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Das Bild zeigt den Benutzermigrations-Assistenten.":::
 
-- Laden Sie alle Benutzer, die die Rolle "Deal Manager" oder "Verkäufer" im PSC zu Partner Center haben, als nächsten Schritt ein.
-- Der [Konto Administrator](permissions-overview.md#manage-mpn-membership-and-your-company) , der Ihnen beim Zugriff auf Verweise geholfen hat, kann alle Benutzer einladen.
-- Bitten Sie den Konto Administrator beim einladen der Benutzer, ihm die [verweisadministrator](permissions-overview.md#manage-referrals) -Rolle zuzuweisen.
-- Einige ihrer PSC-Benutzer verwenden möglicherweise ein nicht-Geschäftskonto oder ein Konto aus einer Domäne, die sich von der Domäne unterscheidet, die Sie im Partner Center verwenden. Alle Benutzer müssen sich mit Ihrem Geschäftskonto, das an Ihren Azure AD Mandanten angefügt ist, bei Partner Center anmelden. Der [globale Administrator](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) kann dabei helfen. Um ihren globalen Administrator zu finden, wechseln Sie über das Zahnrad Symbol in der oberen rechten Ecke des Partner Centers zu den Partner Einstellungen. Klicken Sie auf der zweiten Ebene der linken Navigationsleiste auf die Seite Benutzerverwaltung. Klicken Sie oben rechts auf der Seite auf die Dropdown-Ansicht mit "alle Benutzer", und wechseln Sie zu "globale Administratoren".
-- Der globale Administrator kann entweder ein neues Benutzerkonto in Ihrem Azure AD-Mandanten erstellen oder den Benutzern Zugriff auf Gastbenutzer zuweisen.
-- Nachdem die Konten für alle PSC-Deal-Manager und Benutzer eingerichtet sind, müssen Sie sich bei Partner Center anmelden, auf der Registerkarte "Referenzen" im linken Navigationsbereich auf "überprüfen" klicken und sicherstellen, dass die Seite "Verweise" angezeigt wird.
+Konto Administratoren erhalten einen Link für den PSC-Benutzermigrations-Assistenten auf der Seite Co-Selling-Verkaufschancen neben dem Leitfaden für Verweise. Sie können die Benutzer Migration initiieren, indem Sie auf den Link klicken. Diese Aktion kann mehrmals durchgeführt werden, bis allen Benutzern, die das Unternehmen migrieren möchte, die richtigen Rollen im Partner Center zugewiesen werden.
+
+Die Benutzer Migrations Tabelle enthält die folgenden Details:
+
+- Benutzerkonto-e-Mail-ID des Mitarbeiters
+- PSC-Partnerkonto: das Konto, mit dem der Mitarbeiter in PSC verknüpft ist.
+- PSC-Benutzerrolle: eine der drei Rollen, die in PSC zugewiesen sind.
+- PC-MPN-Speicherort: der Speicherort, für den dem Benutzer relevante PC-Rollen zugewiesen werden. Der MPN des PSC-Partnerkontos wird verwendet, um den entsprechenden MPN-Speicherort im Partner Center zu finden und Berechtigungen zuzuweisen. Die gesamte Organisation bezeichnet die Vorg-MPN-ID.
+- PC-Benutzer Rollen: Mitarbeiter werden basierend auf Ihren PSC-Benutzer Rollen Rollen zugewiesen. Admin in PSC erhält Verweise auf Administrator Rollen auf dem PC. Dem Verkäufer wird die Benutzerrolle "referenrals" auf dem PC zugewiesen. Weitere Informationen zu den PC-Rollen und den Benutzern, die diese Rollen in Partner Center verwenden können, finden Sie [hier](permissions-overview.md#manage-referrals) .
+- PC Aad-Mandant: der Mandant, dem die Benutzer im Partner Center zugewiesen sind
+- Status: Es gibt drei mögliche Zustände für den Status der Migration.
+    - Nicht migriert-dem Benutzer ist keine Rolle "PC-Verweise" zugewiesen.
+    - Migriert: der Benutzer wurde erfolgreich mit der entsprechenden zugewiesenen Rolle migriert, wie in der Tabelle gezeigt.
+    - Fehler: die Migration kann aufgrund eines Fehlers nicht durchgeführt werden.
+
+Bei der Migration können Fehler auftreten, und es treten Fehler in einigen Fällen auf, für die die Lösungen unten bereitgestellt werden
+
+1. Die PSC-Benutzer verwenden möglicherweise ein nicht-Geschäftskonto.
+
+2. Die PSC-Benutzer verwenden möglicherweise ein Konto aus einer anderen Domäne als dem, das Sie im Partner Center verwenden.
+
+   - Zum Beheben von Fehlern im Zusammenhang mit den Szenarien 1 und 2 müssen sich alle Benutzer über Ihr Geschäftskonto, das an Ihren Azure AD Mandanten angeschlossen ist, bei Partner Center anmelden. Der [globale Administrator](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) kann dabei helfen. Um ihren globalen Administrator zu finden, wechseln Sie über das Zahnrad Symbol in der oberen rechten Ecke des Partner Centers zu den Partner Einstellungen. Klicken Sie auf der zweiten Ebene der linken Navigationsleiste auf die Seite Benutzerverwaltung. Klicken Sie oben rechts auf der Seite auf die Dropdown-Ansicht mit "alle Benutzer", und wechseln Sie zu "globale Administratoren". Der globale Administrator kann entweder ein neues Benutzerkonto in Ihrem Azure AD-Mandanten erstellen oder den Benutzern Zugriff auf Gastbenutzer zuweisen. Nachdem die Konten für alle PSC-Deal-Manager und Benutzer eingerichtet sind, müssen Sie sich bei Partner Center anmelden, auf der Registerkarte "Referenzen" im linken Navigationsbereich auf "überprüfen" klicken und sicherstellen, dass die Seite "Verweise" angezeigt wird.
+
+3. Dem Benutzer ist bereits eine Verweis Rolle im Partner Center zugewiesen.
+    - Sie können die vorhandene Rolle des Benutzers auf der Seite "Benutzerverwaltung" in den Kontoeinstellungen überprüfen und bei Bedarf ändern.
+
+Nachdem Sie die Benutzer Migration abgeschlossen haben, verwenden Sie die folgende Anleitung, um die Migrationsstrategie zu bestimmen: 
 
 Wenn Ihr Unternehmen über ein PDM verfügt: Wenn Ihr Partner Center-Konto eingerichtet ist und Ihre Benutzer überrollen und Berechtigungen verfügen, können Sie Ihre Co-Selling-Aktivitäten in Partner Center verschieben. Informieren Sie das PDM, dass Sie den Switch anstatt warten müssen, bis der Stichtag für die Migration vollständig ist. Dadurch können alle neuen Angebote in Partner Center übertragen werden.
+
 >[!Note]
 >Nachdem Sie diesen Switch vorgenommen haben, können Sie nur auf die vorhandenen aktiven Vorgänge in PSC reagieren. Sie können weder neue Angebote erstellen noch Angebote von Microsoft-Verkäufern im PSC erhalten.
 
@@ -128,7 +157,7 @@ In diesem Abschnitt wird die exakte Zuordnung von Attributen zwischen PSC und Pa
 - Die Rolle "Geschäft" ist kein Pflichtfeld im PC. Sie wird weder in einem der Workflows angezeigt noch aufgezeichnet. Es wird automatisch auf der Seite des Microsoft-Verkäufers basierend auf den Lösungen abgeleitet, die dem Geschäft hinzugefügt werden.
 - Das Datum der letzten Änderung wird nicht auf der Seite mit den Verweis Details auf dem PC angezeigt. Partner können die Sortierungs Funktionen verwenden, um die Geschäfte basierend auf dem Datum der letzten Aktualisierung zu sortieren.
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Ansicht Partner Sales Connect (PSC) und der Partner Center-Ansicht.":::
+:::image type="content" source="images/pscmigration/gridview.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Ansicht &quot;Partner Sales Connect&quot; (PSC) und der Partner Center-Ansicht.":::
 
 **Detailansicht im PSC und Partner Center**
 
@@ -141,26 +170,26 @@ In diesem Abschnitt wird die exakte Zuordnung von Attributen zwischen PSC und Pa
 >[!Note]
 >Alle als "gewinnt" oder "verloren" markierten Geschäfte können nicht bearbeitet werden. Seien Sie vorsichtig, wenn Sie eine Aufgabe in einen dieser Terminal Zustände verschieben.
 
- :::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Partner Sales Connect (PSC)-Detailansicht und der Partner Center-Detailansicht.":::
+:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Partner Sales Connect (PSC)-Detailansicht und der Partner Center-Detailansicht.":::
 
 **PSC-Ansicht "Produkte hinzufügen" und Partner Center "Lösungen hinzufügen"**
 
- :::image type="content" source="images/pscmigration/products.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Ansicht Partner Sales Connect (PSC) Add Products (Partner Sales Connect) und der Partner Center-Ansicht Lösungen hinzufügen.":::
+:::image type="content" source="images/pscmigration/products.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Ansicht Partner Sales Connect (PSC) Add Products (Partner Sales Connect) und der Partner Center-Ansicht Lösungen hinzufügen.":::
 
 **Benutzerverwaltung in PSC und Partner Center**
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Partner Sales Connect (PSC)-Startseite und der Partner Center-Benutzerverwaltung in der Ansicht Kontoeinstellungen.":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Partner Sales Connect (PSC)-Startseite und der Partner Center-Benutzerverwaltung in der Ansicht &quot;Kontoeinstellungen&quot;.":::
 
 **Benutzer Rollenzuweisung in PSC und Partner Center**
 
 - Die entsprechende Rolle für den PSC-Administrator ist die Konto Administrator Rolle in Partner Center.
 - Im Partner Center gibt es nur eine Rolle für die Co-Selling-Verwaltung, bei der es sich um die Verweis Administrator Rolle handelt.
 
- :::image type="content" source="images/pscmigration/roles.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Rollen Zuweisungs Ansicht Partner Sales Connect (PSC) und der Partner Center-Rollen Zuweisungs Ansicht.":::
+:::image type="content" source="images/pscmigration/roles.png" alt-text="Das Bild zeigt die Feld Zuordnungen zwischen der Rollen Zuweisungs Ansicht Partner Sales Connect (PSC) und der Partner Center-Rollen Zuweisungs Ansicht.":::
 
 **Benachrichtigungen in PSC und Partner Center**
 
- :::image type="content" source="images/pscmigration/notifications.png" alt-text="Das Image zeigt die Zuordnung zwischen den PSC-Benachrichtigungen (Partner Sales Connect) und der Partner Center-Benachrichtigungs Ansicht.":::
+:::image type="content" source="images/pscmigration/notifications.png" alt-text="Das Image zeigt die Zuordnung zwischen den PSC-Benachrichtigungen (Partner Sales Connect) und der Partner Center-Benachrichtigungs Ansicht.":::
 
 ## <a name="moving-from-psc-to-partner-center---frequently-asked-questions"></a>Wechseln vom PSC zu Partner Center: häufig gestellte Fragen
 
@@ -246,7 +275,9 @@ Wenn Sie die Hilfe Themen für die Co-Selling-Hilfe noch nicht gelesen haben, he
 |Erstellen und Verwalten von Geschäftsprofilen|[Verwalten von Geschäftsprofilen](./create-a-marketing-profile.md)
 |Verwalten von Leads für Ihr Geschäftsprofil |[Verwalten von Leads](./manage-leads.md)|
 
-## <a name="additional-resources"></a>Zusätzliche Ressourcen
+## <a name="next-steps"></a>Nächste Schritte
+
+Befolgen Sie diese zusätzlichen Ressourcen:
 
 - [Partner Verkäufe stellen eine Verbindung mit der Partner Center-Arbeitsmappe](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) her, um die Vertriebsprozesse und-Rollen der Partner mithilfe von Partner Center im Vergleich zu Partner Sales Connect mit neuen Vertriebsprozessen auszurichten.
 - [Partner Center Co-Selling Operating Guide](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) : Leitfaden zum Identifizieren eines Betriebsmodells über Partner Center, um Leads oder Co-Selling-Verkaufschancen zu verwalten und Angebote zu registrieren.

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6bf3e3af8e0d1d87a63f86e892d8bddcd74b6460
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174838"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381408"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Behandeln von Problemen mit der Konto Einrichtung oder der MPN-Erneuerung
 
@@ -38,7 +38,7 @@ Die Details auf diesem Bildschirm können nicht geändert werden. Dies ist Entwu
 Wählen Sie **annehmen** und **fort** fahren aus.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>, Wenn die IT-Abteilung die **Anmeldung für Partner Center**ausgeschaltet hat.
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>, Wenn die IT-Abteilung die **Anmeldung für Partner Center** ausgeschaltet hat.
 
 Diese Meldung wird angezeigt, weil virale Benutzer deaktiviert sind oder wenn die virale Registrierung für den Azure AD Mandanten deaktiviert ist. Der globale Administrator für Ihr Azure AD Konto kann erforderliche Features aktivieren, indem Sie den folgenden PowerShell-Befehl ausführen:
 
@@ -50,7 +50,7 @@ Weitere Informationen finden Sie [unter Self-Service](/azure/active-directory/us
 
 Wenn Sie Ihr Kennwort vergessen haben, wählen Sie auf der Anmeldeseite den Link **kein Zugriff auf Ihr Konto?** aus. Mit dieser Option können Sie Ihr Kennwort zurücksetzen oder ihren globalen Administrator bitten, Ihnen neue Anmelde Informationen zuzuweisen.
 
-## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>Auf der QuickInfo zu Ihrem Unternehmen erhalten Sie den Fehler "ein Fehler ist aufgetreten".
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>Auf dem Bildschirm "erzählen Sie uns von Ihrem Unternehmen" erhalten Sie den Fehler "ein Fehler ist aufgetreten".
 
 Diese Fehlermeldung wird normalerweise angezeigt, wenn Sie versehentlich Sonderzeichen, Leerzeichen oder Ländercode in der Telefonnummer Ihres Unternehmens verwenden. Der im Feld für die Telefonnummer eingegebene Wert darf maximal 10 Zeichen enthalten.
 

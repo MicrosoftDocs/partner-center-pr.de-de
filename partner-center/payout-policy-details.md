@@ -1,82 +1,60 @@
 ---
-title: Details zu Auszahlungs Richtlinien-Microsoft Commercial Marketplace
+title: 'Auszahlungs Zeitpläne und Richtlinien Details: Azure Marketplace'
 description: Erfahren Sie mehr über Details im Zusammenhang mit kommerziellen Marketplace-Auszahlungs Richtlinien, einschließlich Zeitplänen und erneuter Überladung.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 09/28/2020
-ms.openlocfilehash: eec5f85f38280757bc1e5d5c36a4dd1ac5ce8d22
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 11/06/2020
+ms.openlocfilehash: 8986ef1d2a16d939530ed49875a21c13b0b97868
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174919"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381391"
 ---
-# <a name="payout-policy-details"></a>Auszahlungsrichtliniendetails
+# <a name="payout-schedules-and-policy-details"></a>Auszahlungs Zeitpläne und Richtlinien Details
 
-In diesem Artikel werden der Auszahlungsprozess von Microsoft, der Auszahlungszeitplan und die Entschädigungsrichtlinie erläutert, und Sie erfahren, wo Sie den Status einer Auszahlung finden.
+Dieser Artikel erläutert den Auszahlungsprozess von Microsoft, den auszahlungszeitplan, wo der Status einer Auszahlung zu finden ist, und den Prozess für die Nichtzahlung von Kunden.
 
 ## <a name="payment-schedules"></a>Zahlungspläne
 
-In den folgenden Abschnitten wird der Prozess für Auszahlungen beschrieben.
+In den folgenden Abschnitten wird der Auszahlungsprozess für **Konzernvertrag** -und **Kreditkarten-/Rechnung-** Transaktionen beschrieben.
 
-### <a name="enterprise-agreement-transactions-after-may-1-2020"></a>Enterprise Agreement-Transaktionen nach dem 1. Mai 2020
+### <a name="enterprise-agreement-transactions"></a>Transaktionen Konzernvertrag
 
-#### <a name="update-to-our-commercial-marketplace-publisher-payout-model"></a>Aktualisieren auf unser kommerzielles Marketplace-Herausgeber Auszahlungs Modell
+Wenn ein Kunde ein Produkt von Microsoft AppSource oder Azure Marketplace mit vorhandenem Microsoft-Konzernvertrag für Transaktionen kauft, werden im nächsten Auszahlungs Zeitraum 30 Tage nach Kunden Rechnung Zahlungen ausgegeben. Transaktionen, bei denen ein Kunde eine Kreditkarte verwendet, haben eine 30-tägige Beibehaltungsdauer vor der Auszahlung.
 
-Ab dem 1. Mai 2020 aktualisieren wir unsere Auszahlungsrichtlinie für Produkte, die von Kunden mit einem Microsoft Enterprise Agreement im Azure Marketplace oder in AppSource erworben werden. Wenn ein Kunde ein Produkt im Azure Marketplace oder in AppSource erwirbt und dabei sein vorhandenes Microsoft Enterprise Agreement verwendet, werden Auszahlungen für Transaktionen nach dem 1. Mai 2020 im nächsten Auszahlungszyklus 30 Tage nach der Kundenrechnung geleistet. Für Transaktionen, bei denen der Kunde eine Kreditkarte verwendet, gilt unverändert ein Einbehaltungszeitraum von 30 Tagen vor der Auszahlung. In dieser Tabelle werden Details zum auszahlungszeitplan angezeigt.
+Es kommt häufig vor, dass Microsoft die Zahlung vom Kunden sammelt. Weitere Informationen zu den Aktionen, die wir durchführen, wenn der Kunde [Microsoft nicht bezahlt](#process-for-customer-non-payment) , aber wir haben bereits eine Auszahlung ausgegeben.
 
-> [!NOTE]
-> Unter [Prozess bei Nichtzahlung des Kunden](#process-for-customer-non-payment) erfahren Sie, welche Maßnahmen wir ergreifen, wenn der Kunde nicht bezahlt und wir bereits eine Auszahlung an Sie geleistet haben.
-
-| Ereignis  | Datum (UTC) | Partnersichtbarkeit: Partner Center-Auszahlungsbericht  |  Partnersichtbarkeit: Partner Center-Analysen\* |
+| Ereignis | Beschreibung | Sichtbarkeit von Berichten | Zeit Steuerungs |
 | --- | --- | --- | --- |
-| Transaktion oder Nutzungsmonat | 01.08.2020–31.08.2020 | – | **Nutzungsbericht**: Anzeige des neuen Verbrauchs (wird alle vier Stunden aktualisiert)<br>**Auftragsbericht**: – |
-| Laufzeitende (Monat) | 31.08.2020 | – | **Nutzungsbericht**: Anzeige des Verbrauchs am Monatsende<br>**Auftragsbericht**: – |
-| Auftragsgenerierung | 03.09.2020–07.09.2020 | – | **Nutzungsbericht**: Anzeige des Verbrauchs mit Auftrags-ID/Auftragspositions-ID (OrderID/OrderLineItemID)<br>**Auftragsbericht**: Anzeige AKTIVER Kundenaufträge |
-| Berechnung der erzielten Auszahlung | 04.09.2020–10.09.2020 | Kennzeichnung als **Nicht verarbeitet** im Transaktionsverlauf des Auszahlungsdashboards | **Nutzungsbericht**: Anzeige des Verbrauchs mit Auftrags-ID/Auftragspositions-ID (OrderID/OrderLineItemID)<br>**Auftragsbericht**: Anzeige AKTIVER Kundenaufträge |
-| Monatliche Auszahlung | 10.05.2020 | Kennzeichnung als **Anstehend** im Transaktionsverlauf des Auszahlungsdashboards | **Nutzungsbericht**: Anzeige des Verbrauchs mit Auftrags-ID/Auftragspositions-ID (OrderID/OrderLineItemID)<br>**Auftragsbericht**: Anzeige AKTIVER Kundenaufträge |
-| Auszahlungsdatum\** | 15.10.2020 | Kennzeichnung als **Gesendet** im Transaktionsverlauf und im Auszahlungsabschnitt des Auszahlungsdashboards | **Nutzungsbericht**: Anzeige des Verbrauchs mit Auftrags-ID/Auftragspositions-ID (OrderID/OrderLineItemID)<br>**Auftragsbericht**: Anzeige AKTIVER Kundenaufträge |
-| Begleichung der Kundenrechnung | 01.12.2020 | Kennzeichnung als **Gesendet** im Transaktionsverlauf und im Auszahlungsabschnitt des Auszahlungsdashboards | **Nutzungsbericht**: Anzeige des Verbrauchs mit Auftrags-ID/Auftragspositions-ID (OrderID/OrderLineItemID)<br>**Auftragsbericht**: Anzeige AKTIVER Kundenaufträge  |
-|  |  |  |  |
+| Verwendung oder Monat der Transaktion | Der Kunde verwendet oder kauft einen Dienst. | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 1** |
+| Bestellung wird erstellt | Bestimmen der Gesamtauslastung, Transaktionen gesamt | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 2** |
+| Erstellungs Gewinn für ISV-Auszahlung | Bestimmen der Gebühren und Auszahlungs Einnahmen der Agentur | Im Transaktionsverlauf in der Auszahlungs Anweisung als nicht verarbeitet markiert | **Monat 3 (1. Woche)** |
+| Auszahlung vorbereiten | Der Gewinn ist für die monatliche Zahlung vorbereitet. | Im Transaktionsverlauf in der Auszahlungs Anweisung als demnächst markiert | **Monat 3 (1. Woche)** |
+| **Auszahlungsdatum** | **Die Zahlung wird an den Verleger gesendet.** | **Gekennzeichnet als in Transaktionsverlauf gesendet und im Abschnitt "Zahlungen" der Auszahlungs Anweisung** | **Monat 3 (nicht später als der 15.)** |
+| Von Kunde bezahlte Rechnung | Microsoft sammelt die Zahlung von Kunden | Keine Änderung | **Monat 4 bis 12** |
+|
 
-\* Verwendungs-und Auftrags Berichte sind im Abschnitt analysieren im Partner Center verfügbar. \* *. Das Auszahlungsdatum liegt in der Pacific Standard Time (PST).
+\* Das Auszahlungsdatum liegt in der Pacific Standard Time (PST).
 
 ### <a name="customers-who-pay-using-credit-card-or-invoice"></a>Kunden mit Kreditkarten- oder Rechnungszahlung
 
-Für alle Käufe mit Kreditkarte oder monatlicher Rechnung gilt ein Einbehaltungszeitraum von 30 Tagen, um sicherzustellen, dass die Zahlung tatsächlich erfolgt und es zu keinen Rückbuchungen oder möglichen Betrugsfällen kommt.
+Alle Käufe mit einer Kreditkarte oder einer monatlichen Rechnung verfügen über einen Zeitraum von 30 Tagen, um sicherzustellen, dass die Geldbeträge vom Kunden gesammelt werden.
 
-| Ereignis  | Datum (UTC) | Partnersichtbarkeit: Partner Center-Auszahlungsbericht  |  Partnersichtbarkeit: Partner Center-Analysen\*  |
+| Ereignis | Beschreibung | Sichtbarkeit von Berichten | Zeit Steuerungs |
 | --- | --- | --- | --- |
-| Transaktion oder Nutzungsmonat | 01.08.2019–31.08.2019 | – | **Nutzungsbericht**: Anzeige des neuen Verbrauchs (wird alle vier Stunden aktualisiert)<br>**Auftragsbericht**: – |
-| Laufzeitende (Monat) | 31.08.2019 | – | **Nutzungsbericht**: Anzeige des Verbrauchs am Monatsende<br>**Auftragsbericht**: – |
-| Auftragsgenerierung | 03.09.2019–07.09.2019 | – | **Nutzungsbericht**: Anzeige des Verbrauchs mit Auftrags-ID/Auftragspositions-ID (OrderID/OrderLineItemID)<br>**Auftragsbericht**: Anzeige AKTIVER Kundenaufträge |
-| Begleichung der Kundenrechnung | 07.09.2019–10.09.2019 | – | **Nutzungsbericht**: Anzeige des Verbrauchs mit Auftrags-ID/Auftragspositions-ID (OrderID/OrderLineItemID)<br>**Auftragsbericht**: Anzeige AKTIVER Kundenaufträge |
-| Berechnung der Auszahlung | 08.09.2019–12.09.2019 | Kennzeichnung als **Nicht verarbeitet** im Transaktionsverlauf des Auszahlungsdashboards | **Nutzungsbericht**: Anzeige des Verbrauchs mit Auftrags-ID/Auftragspositions-ID (OrderID/OrderLineItemID)<br>**Auftragsbericht**: Anzeige AKTIVER Kundenaufträge |
-| Monatliche Auszahlung | 05.11.2019\* | Kennzeichnung als **Anstehend** im Transaktionsverlauf des Auszahlungsdashboards | **Nutzungsbericht**: Anzeige des Verbrauchs mit Auftrags-ID/Auftragspositions-ID (OrderID/OrderLineItemID)<br>**Auftragsbericht**: Anzeige AKTIVER Kundenaufträge |
-| Auszahlungsdatum\** | 15.11.2019 | Kennzeichnung als **Gesendet** im Transaktionsverlauf und im Auszahlungsabschnitt des Auszahlungsdashboards | **Nutzungsbericht**: Anzeige des Verbrauchs mit Auftrags-ID/Auftragspositions-ID (OrderID/OrderLineItemID)<br>**Auftragsbericht**: Anzeige AKTIVER Kundenaufträge |
-|  |  |  |  |
+| Verwendung oder Monat der Transaktion | Der Kunde verwendet oder kauft einen Dienst. | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 1** |
+| Von Kunde bezahlte Rechnung | Ermitteln der Gesamtauslastung, des gesamten Transaktionswerts und der Kunden zahlungsrechnung | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 2** |
+| Erstellungs Gewinn für ISV-Auszahlung | Bestimmen der Gebühren und Auszahlungs Einnahmen der Agentur | Im Transaktionsverlauf in der Auszahlungs Anweisung als nicht verarbeitet markiert | **Monat 2** |
+| 30-tägige Beibehaltungszeitraum | Stellen Sie die Erfassung von Kosten, möglichen Rück Belastungs-und Erstattungs Anforderungen sicher. | Im Transaktionsverlauf in der Auszahlungs Anweisung als nicht verarbeitet markiert | **Monat 3** |
+| Auszahlung vorbereiten | Der Gewinn ist für die monatliche Zahlung vorbereitet. | Im Transaktionsverlauf in der Auszahlungs Anweisung als demnächst markiert | **Erste Woche des Monats 4** |
+| **Auszahlungsdatum** | **Die Zahlung wird an den Verleger gesendet.** | **Gekennzeichnet als in Transaktionsverlauf gesendet und im Abschnitt "Zahlungen" der Auszahlungs Anweisung** | **Monat 4 (spätestens 15.)** |
+|
 
-\* Auf Nutzungs- und Auftragsberichte kann im Analyseabschnitt in Partner Center zugegriffen werden.</br>\** Das Auszahlungsdatum ist in Pacific Standard Time (PST) angegeben.
-
-### <a name="enterprise-agreement-transactions-prior-to-may-1-2020"></a>Enterprise Agreement-Transaktionen vor dem 1. Mai 2020
-
-Alle Käufe vor diesem Datum werden gemäß dem folgenden Zeitplan verarbeitet und bezahlt, nachdem Microsoft die Zahlung von Kunden erhalten und die Marketplace-Gebühr verarbeitet hat.
-
-| Ereignis  | Datum (UTC)  | Partnersichtbarkeit: Partner Center-Auszahlungsbericht  |  Partnersichtbarkeit: Partner Center-Analysen\*  |
-| --- | --- | --- | --- |
-| Transaktion oder Nutzungsmonat | 01.08.2019–31.08.2019 | – | **Nutzungsbericht**: Anzeige des neuen Verbrauchs (wird alle vier Stunden aktualisiert)<br>**Auftragsbericht**: – |
-| Laufzeitende (Monat) | 31.08.2019 | – | **Nutzungsbericht**: Anzeige des Verbrauchs am Monatsende<br>**Auftragsbericht**: – |
-| Auftragsgenerierung | 03.09.2019–07.09.2019 | – | **Nutzungsbericht**: Anzeige des Verbrauchs mit Auftrags-ID/Auftragspositions-ID (OrderID/OrderLineItemID)<br>**Auftragsbericht**: Anzeige AKTIVER Kundenaufträge |
-| Begleichung der Kundenrechnung | 01.12.2019 | – | **Nutzungsbericht**: Anzeige des Verbrauchs mit Auftrags-ID/Auftragspositions-ID (OrderID/OrderLineItemID)<br>**Auftragsbericht**: Anzeige AKTIVER Kundenaufträge |
-| Berechnung der Auszahlung | 05.12.2019–07.12.2019 | Kennzeichnung als **Nicht verarbeitet** im Transaktionsverlauf des Auszahlungsdashboards | **Nutzungsbericht**: Anzeige des Verbrauchs mit Auftrags-ID/Auftragspositions-ID (OrderID/OrderLineItemID)<br>**Auftragsbericht**: Anzeige AKTIVER Kundenaufträge |
-| Monatliche Auszahlung | 05.01.2019 | Kennzeichnung als **Anstehend** im Transaktionsverlauf des Auszahlungsdashboards | **Nutzungsbericht**: Anzeige des Verbrauchs mit Auftrags-ID/Auftragspositions-ID (OrderID/OrderLineItemID)<br>**Auftragsbericht**: Anzeige AKTIVER Kundenaufträge |
-| Auszahlungsdatum\** | 15.01.2019 | Kennzeichnung als **Gesendet** im Transaktionsverlauf und im Auszahlungsabschnitt des Auszahlungsdashboards | **Nutzungsbericht**: Anzeige des Verbrauchs mit Auftrags-ID/Auftragspositions-ID (OrderID/OrderLineItemID)<br>**Auftragsbericht**: Anzeige AKTIVER Kundenaufträge |
-|  |  |  |  |
-
-\* Auf Nutzungs- und Auftragsberichte kann im Analyseabschnitt in Partner Center zugegriffen werden.</br>\** Das Auszahlungsdatum ist in Pacific Standard Time (PST) angegeben.
+\* Das Auszahlungsdatum liegt in der Pacific Standard Time (PST).
 
 ## <a name="process-for-customer-non-payment"></a>Prozess bei Nichtzahlung des Kunden
 
@@ -88,7 +66,7 @@ Microsoft verwendet eine der folgenden Methoden, um bereits an Sie geleistete Za
 
 Im Anschluss finden Sie einen Beispielzeitplan:
 
-| Ereignis | Ungefähres Datum | Partnersichtbarkeit |
+| Ereignis | Ungefähre Datumsangabe * | Partnersichtbarkeit |
 | --- | --- | --- |
 | Exemplarisches Auszahlungsdatum | 15.10.2020 | Kennzeichnung als **Gesendet** im Transaktionsverlauf und im Auszahlungsabschnitt des Auszahlungsdashboards |
 | <font color="red">Ausbleibende Kundenzahlung an Microsoft</font> | 02.12.2020–05.12.2020 | Keine Änderung, wie oben |
@@ -100,6 +78,8 @@ Im Anschluss finden Sie einen Beispielzeitplan:
 | Auszahlung wird abgezogen | 01.03.2021 | Partner Center-Auszahlungsauszug des Herausgebers enthält negative Transaktion |
 | Auszahlung wird einbehalten | 15.03.2021 | Partner Center-Auszahlungsauszug enthält zukünftige Auszahlungen. Zahlungen an den Herausgeber werden erst wieder geleistet, wenn der Saldo nicht mehr negativ ist.  |
 |||
+
+\* Das Auszahlungsdatum liegt in der Pacific Standard Time (PST).
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Anzahl der Tage bis zum Eingang von Zahlungen auf einem Auszahlungskonto
 
@@ -117,4 +97,4 @@ In der Regel senden wir die in einem Monat fälligen Zahlungen am 15. des Monats
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Steuerliche Aspekte für kommerzielle Marketplace-Herausgeber](tax-details-marketplace.md)
+Informieren Sie sich über die [Steuer Details](tax-details-marketplace.md).

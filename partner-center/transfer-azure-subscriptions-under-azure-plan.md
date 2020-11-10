@@ -9,16 +9,16 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "91980261"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433346"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Übertragen der Azure-Plan Abonnements eines Kunden an einen anderen Partner
 
-## <a name="applies-to"></a>Gilt für:
+**Geeignete Rollen**
 
 - Partner im CSP-Programm (Cloud Solution Provider)
 
@@ -66,28 +66,31 @@ Der Kunde muss auch die Abonnements ermitteln, die er vom aktuellen Partner übe
 
 Der zukünftige Partner des Abonnements muss ein Übertragungs Anforderungs Formular von Partner Center abschließen, um eine Abonnement Übertragung anzufordern:
 
-1.  Wählen Sie im Partner Center-Menü **Kunden**aus, und wählen Sie dann den Kunden aus, für den Sie ein Übertragungs Anforderungs Formular im Auftrag von ausführen möchten.
-2.  Wählen Sie im Menü Kunde die Option **Abonnements**aus.
+1.  Wählen Sie im Partner Center-Menü **Kunden** aus, und wählen Sie dann den Kunden aus, für den Sie ein Übertragungs Anforderungs Formular im Auftrag von ausführen möchten.
+2.  Wählen Sie im Menü Kunde die Option **Abonnements** aus.
 3.  Wählen Sie den Abschnitt **Übertragungs Anforderung** aus.
-4.  Wählen Sie im **Abschnitt Übertragungs Anforderung**die Option **neue Anforderung hinzufügen**aus.
+4.  Wählen Sie im **Abschnitt Übertragungs Anforderung** die Option **neue Anforderung hinzufügen** aus.
 
     :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Abschnitt Übertragungen":::
 
 5.  Vervollständigen Sie das Formular für **neue Übertragungsanforderungen** .
 
-6.  Wählen Sie Sende **Übertragungs Anforderung**  >  **senden**aus.
+6.  Wählen Sie Sende **Übertragungs Anforderung**  >  **senden** aus.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Abschnitt Übertragungen":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Formular zum Vervollständigen der Übertragungs Anforderung":::
 
 7.  Bestätigung der Übertragungs Anforderung überprüfen
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Abschnitt Übertragungen" lautet, sind keine Abbrüche möglich.
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Ausstehende Übertragung überprüfen":::
+
+    >[!Note]
+    >Der zukünftige Partner kann die Übertragungs Anforderung abbrechen, indem er in der oberen rechten Ecke nur **Anforderung abbrechen** auswählt, wenn der Übertragungs Anforderungs Status "Ausstehend" lautet. Wenn der Übertragungs Anforderungs Status "in Bearbeitung" oder "abgeschlossen" lautet, sind keine Abbrüche möglich.
 
 ## <a name="current-partner-tasks-to-be-completed"></a>Aktuelle Partner Aufgaben, die abgeschlossen werden müssen
 
 Der Administrator-Agent des aktuellen Partners des Kunden erhält eine e-Mail, dass der Kunde eine Übertragung der Abonnements anfordert:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Abschnitt Übertragungen":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Überprüfung":::
 
 Überprüfen und akzeptieren Sie das Übertragungs Anforderungs Formular von Partner Center, um die Abonnement Übertragung abzuschließen.
 
@@ -95,12 +98,12 @@ Der Administrator-Agent des aktuellen Partners des Kunden erhält eine e-Mail, d
 >Wenn der aktuelle Partner innerhalb von 30 Tagen keine Aktion durchführt, läuft die Anforderung ab, und der zukünftige Partner erhält eine, um eine neue Übertragungs Anforderung zu erstellen.
 
 1.  Wählen Sie über **Prüfen der Übertragungs Anforderung** per e-Mail oder
-1.  Wählen Sie im Partner Center-Menü **Kunden**aus, und wählen Sie dann den Kunden aus, für den eine Übertragungs Anforderung übermittelt wurde.
-2.  Wählen Sie im Menü Kunde die Option **Abonnements**aus.
+1.  Wählen Sie im Partner Center-Menü **Kunden** aus, und wählen Sie dann den Kunden aus, für den eine Übertragungs Anforderung übermittelt wurde.
+2.  Wählen Sie im Menü Kunde die Option **Abonnements** aus.
 3.  Wählen Sie den Abschnitt **Übertragungs Anforderung** aus.
 4.  Erweitern Sie Übertragungs Informationen, indem Sie die ausgewählte **Übertragungs Anforderungs-ID** unter **empfangene Anforderungen** auswählen.
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Abschnitt Übertragungen":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Übertragungs Anforderung für Quell Reviews":::
 
 5.  Überprüfen Sie die Übertragungs Anforderung. Wählen Sie die angeforderten zu übertragenden Azure-Abonnements aus.
 
@@ -111,7 +114,7 @@ Der Administrator-Agent des aktuellen Partners des Kunden erhält eine e-Mail, d
 
 6.  Wählen Sie dann **akzeptieren und übertragen** aus, um den Übertragungsvorgang abzuschließen.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Abschnitt Übertragungen":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Auswählen von Abonnements, die in ihren Azure-Plänen übertragen werden sollen":::
 
 7.  Bestätigung der Übertragungs Annahme anzeigen.
 

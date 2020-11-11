@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 18ebd0a82802e26295ed985084585306da464079
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92032033"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94487872"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Kennenlernen der von Microsoft ausgestellten IRS-Steuerformulare
 
@@ -23,11 +23,11 @@ In diesem Artikel werden weitere Informationen zu diesen Formularen erläutert, 
 
 | IRS-Steuerformular | BESCHREIBUNG | Verfügbarkeit |
 |--------------|-------------|--------------|
-|1099-MISC, 1099-K | Im Zusammenhang mit Verkaufsaktivitäten und/oder Zahlungen an Sie für die Teilnahme am Microsoft Marketplace | Gedruckte Formulare werden am oder vor dem 31. **Januar**postmarkiert, und PDF-Kopien werden in [Partner Center](https://partner.microsoft.com/dashboard) (in den **Partner Center-Kontoeinstellungen** unter " **Auszahlungs-und Steuer > Auszahlungs-und Steuer profile**") gleichzeitig bereitgestellt. |
-|1042-S | Im Zusammenhang mit Zahlungen, die für Sie durchgeführt werden und die USA der Steuerpflichtige Steuer | Gedruckte Formulare werden am oder vor dem 15. **März**postmarkiert, und PDF-Kopien werden in Partner Center (in den **Partner Center-Entwicklereinstellungen** unter **Auszahlungs-und Steuer > Auszahlungs-und Steuer profile**) gleichzeitig verfügbar sein.  |
+|1099-MISC, 1099-K | Im Zusammenhang mit Verkaufsaktivitäten und/oder Zahlungen an Sie für die Teilnahme am Microsoft Marketplace | Gedruckte Formulare werden am oder vor dem 31. **Januar** postmarkiert, und PDF-Kopien werden in [Partner Center](https://partner.microsoft.com/dashboard) (in den **Partner Center-Kontoeinstellungen** unter " **Auszahlungs-und Steuer > Auszahlungs-und Steuer profile** ") gleichzeitig bereitgestellt. |
+|1042-S | Im Zusammenhang mit Zahlungen, die für Sie durchgeführt werden und die USA der Steuerpflichtige Steuer | Gedruckte Formulare werden am oder vor dem 15. **März** postmarkiert, und PDF-Kopien werden in Partner Center (in den **Partner Center-Entwicklereinstellungen** unter **Auszahlungs-und Steuer > Auszahlungs-und Steuer profile** ) gleichzeitig verfügbar sein.  |
 
 > [!NOTE]
-> Die von uns verwendete Adresse in den IRS-Steuerformularen ergibt sich aus der Adresse Ihres [Steuer Profils](/azure/marketplace/marketplace-payout-account-setup). Wenn sich Ihre Adresse geändert hat, stellen Sie sicher, dass Sie die Adresse in Ihrem **Steuer Profil**aktualisieren.
+> Die von uns verwendete Adresse in den IRS-Steuerformularen ergibt sich aus der Adresse Ihres Steuer Profils, wenn Sie [Ihr Auszahlungs Konto und die Steuerformulare einrichten](set-up-your-payout-account.md). Wenn sich Ihre Adresse geändert hat, stellen Sie sicher, dass Sie die Adresse in Ihrem **Steuer Profil** aktualisieren.
 
 Die Steuerformulare werden von den folgenden Adressen an Sie gesendet:
 
@@ -53,7 +53,7 @@ Die Steuerformulare werden von den folgenden Adressen an Sie gesendet:
 
 | Wenn ich ein USA Entwickler kostenpflichtige Apps verkauft und...   | Ich sollte dieses Formular erhalten: |
 |------------------------|-----------------------|
-| Ich hatte **mehr als 200 App-Verkäufe** mit einem Gesamtbetrag dieser Umsätze über **$20.000 USD** im geltenden Steuerjahr (**ohne** zählen der Umsätze, die in Brasilien und China durch die Microsoft Store unter Windows 10 getätigt wurden.)| **1099-K:**<br/>Einreichende Instanz: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Wichtig:** Formular 1099-K enthält **Bruttoeinkaufsbeträge**, keine an Sie erfolgten Zahlungen.| 
+| Ich hatte **mehr als 200 App-Verkäufe** mit einem Gesamtbetrag dieser Umsätze über **$20.000 USD** im geltenden Steuerjahr ( **ohne** zählen der Umsätze, die in Brasilien und China durch die Microsoft Store unter Windows 10 getätigt wurden.)| **1099-K:**<br/>Einreichende Instanz: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Wichtig:** Formular 1099-K enthält **Bruttoeinkaufsbeträge** , keine an Sie erfolgten Zahlungen.| 
 | Ich habe mindestens **$10 Zahlungen** für (i) app-Verkäufe in Brasilien und China über den Microsoft Store auf Windows 10-oder (II)-Verkäufen im minecraft Marketplace erhalten.<br/><br/>**OR**<br/><br/>Ich habe mindestens $600 Zahlungen im Zusammenhang mit den App-Verkäufen von Microsoft im geltenden Steuerjahr erhalten (z. b. Anreizzahlungen oder Zahlungen von einem Wettbewerb oder einer Promotion).| **1099-Verschiedenes:**<br/>Zahlende Instanz: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Wichtig:** Bestimmte Unternehmenseinheiten erhalten keine 1099-MISC-Formulare, ungeachtet der erhaltenen Zahlungen von Microsoft.  Weitere Informationen finden Sie in Ihrem Steuerexperten.| 
 | Keine der Antworten oben trifft zu.| Keine |
 | <br/><br/>**Wenn ich ein USA Entwickler Werbeeinblendungen in apps und...** |<br/><br/>**Ich sollte dieses Formular erhalten:** |
@@ -74,7 +74,7 @@ Die Steuerformulare werden von den folgenden Adressen an Sie gesendet:
 | **Warum erhalte ich drei Kopien derselben Form 1042-S in einem Umschlag?** | Die IRS-Bestimmungen erfordern die Bereitstellung von drei Kopien des Formulars:<br/><br/>-1 für die Datensätze des Empfängers<br/>-Eine für die Einreichung mit einem USA Federal Tax return (falls zutreffend)<br/>-Eine für die Einreichung mit einer USA Zustands Steuer Rückgabe (falls zutreffend) |
 
 > [!NOTE]
-> Wenn Sie weitere Fragen oder Probleme im Zusammenhang mit **IRS-Steuerformularen**haben, besuchen Sie das Partner Center-Dashboard unter " [Hilfe und Support](https://partner.microsoft.com/dashboard/support/) ". Microsoft kann keine Fragen im Zusammenhang mit Ihren spezifischen Steuerumständen beantworten. Bei diesen Fragen wenden Sie sich an Ihre Steuerexperten.
+> Wenn Sie weitere Fragen oder Probleme im Zusammenhang mit **IRS-Steuerformularen** haben, besuchen Sie das Partner Center-Dashboard unter " [Hilfe und Support](https://partner.microsoft.com/dashboard/support/) ". Microsoft kann keine Fragen im Zusammenhang mit Ihren spezifischen Steuerumständen beantworten. Bei diesen Fragen wenden Sie sich an Ihre Steuerexperten.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

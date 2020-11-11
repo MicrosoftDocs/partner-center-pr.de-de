@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007404"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488131"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Einrichten von Auszahlungskonten und Steuerformularen
 
@@ -28,7 +28,7 @@ Nachdem Sie Ihr Konto eingerichtet haben, müssen Sie zwei Schritte ausführen, 
 - [Einrichten Ihres Auszahlungskontos](#payout-account)
 
 > [!NOTE]
-> Ausführliche Informationen dazu, wie und wann Sie das Geld für kostenpflichtige Angebote erhalten, finden Sie unter [Erhalten der Bezahlung](/azure/marketplace/marketplace-payout-account-setup).
+> Ausführliche Informationen dazu, wie und wann Sie Geld verdienen, finden Sie [im kommerziellen Marketplace unter kostenpflichtige Kosten](marketplace-get-paid.md).
 
 ## <a name="tax-forms"></a>Steuerformulare
 
@@ -52,7 +52,7 @@ Sie können Ihre Steuerformulare elektronisch in Partner Center ausfüllen und �
 
 4. Falls Sie ein vorhandenes Steuerprofil verwenden möchten, können Sie es in der Dropdownliste auswählen. Wählen Sie andernfalls die Option **Neues Profil erstellen** und dann **Senden** aus. Sie gelangen auf die Steuerprofilseite.
 
-5. Klicken Sie auf die Schaltfläche **Bearbeiten**, um Ihre Steuerinformationen zu bearbeiten.
+5. Klicken Sie auf die Schaltfläche **Bearbeiten** , um Ihre Steuerinformationen zu bearbeiten.
 
 6. Aktivieren Sie das entsprechende Optionsfeld, und wählen Sie Ihr Land/Ihre Region aus, wenn Sie dazu aufgefordert werden. Mit diesem Schritt wird die Microsoft-Geschäftseinheit festgelegt, die verwendet wird, um die Auszahlungen für Ihr Konto vorzunehmen.
 
@@ -77,11 +77,11 @@ Wenn Sie sich außerhalb der USA befinden, können Sie möglicherweise von Begü
 Ein Auszahlungskonto ist das Bankkonto, auf das wir Ihnen Ihre Verkaufserlöse überweisen. Sie können alle Zahlungskonten anzeigen, die Sie auf der Profilseite eingegeben haben.
 
 > [!NOTE]
-> Auf einigen Märkten können Sie PayPal für Ihr Auszahlungskonto nutzen. Informationen zur Unterstützung von PayPal für einen bestimmten Markt finden Sie unter [Zahlungsschwellenwerte, Methoden und Zeiträume](/azure/marketplace/payment-thresholds-methods-timeframes) und weiter unten im Abschnitt mit den [PayPal-Informationen](#paypal-info).
+> Auf einigen Märkten können Sie PayPal für Ihr Auszahlungskonto nutzen. Informationen zur Unterstützung von PayPal für einen bestimmten Markt finden Sie unter [Zahlungsschwellenwerte, Methoden und Zeiträume](payment-thresholds-methods-timeframes.md) und weiter unten im Abschnitt mit den [PayPal-Informationen](#paypal-info).
 
 ### <a name="create-a-payment-profile"></a>Erstellen eines Zahlungsprofils
 
-1. Wählen Sie in [Partner Center](https://partner.microsoft.com/dashboard)in der oberen rechten Ecke das Zahnrad Symbol für **Einstellungen** und dann **Kontoeinstellungen**aus.
+1. Wählen Sie in [Partner Center](https://partner.microsoft.com/dashboard)in der oberen rechten Ecke das Zahnrad Symbol für **Einstellungen** und dann **Kontoeinstellungen** aus.
 2. Wählen Sie unterhalb der Überschrift *Auszahlung und Steuer* die Option **Auszahlungs- und Steuerprofilzuweisung** aus.
 
     > [!NOTE]
@@ -89,7 +89,7 @@ Ein Auszahlungskonto ist das Bankkonto, auf das wir Ihnen Ihre Verkaufserlöse �
 
 3. Wählen Sie die Zahlungsmethode aus, die Sie konfigurieren möchten.
 
-4. Wählen Sie ein vorhandenes Zahlungsprofil aus, oder klicken Sie auf **Neues Zahlungsprofil erstellen**, um für die ausgewählte Zahlungsmethode ein neues Profil zu erstellen.
+4. Wählen Sie ein vorhandenes Zahlungsprofil aus, oder klicken Sie auf **Neues Zahlungsprofil erstellen** , um für die ausgewählte Zahlungsmethode ein neues Profil zu erstellen.
 
 ### <a name="create-a-bank-based-payment-profile"></a>Erstellen eines bankbasierten Zahlungsprofils
 
@@ -116,7 +116,7 @@ Falls Sie für den Empfang von Auszahlungen ein Bankkonto angegeben haben, müss
 
 Überprüfen Sie Folgendes, um sicherzustellen, dass die Auszahlungen für Sie erfolgreich sind:
 
-- Der **Name des Kontoinhabers**, den Sie in Partner Center für Ihr Auszahlungskonto eingegeben haben, muss mit dem Namen identisch sein, der Ihrem Bankkonto zugeordnet ist. Falls der Name für Ihr Bankkonto beispielsweise einen zweiten Vornamen enthält, müssen Sie unter **Name des Kontoinhabers** ebenfalls einen zweiten Vornamen hinzufügen.
+- Der **Name des Kontoinhabers** , den Sie in Partner Center für Ihr Auszahlungskonto eingegeben haben, muss mit dem Namen identisch sein, der Ihrem Bankkonto zugeordnet ist. Falls der Name für Ihr Bankkonto beispielsweise einen zweiten Vornamen enthält, müssen Sie unter **Name des Kontoinhabers** ebenfalls einen zweiten Vornamen hinzufügen.
 - Auszahlungen werden von Microsoft in US-Dollar direkt auf Ihr Bankkonto überwiesen.
 - Bankdaten, die in Partner Center in lateinischen Buchstaben eingegeben werden, werden in kyrillische Buchstaben übersetzt.
 
@@ -131,20 +131,20 @@ Sie können vorhandene Zahlungsprofile bearbeiten, falls Sie Änderungen vornehm
 3. Ihre Zahlungsprofile werden zusammen mit dem jeweiligen Status aufgeführt. Suchen Sie nach dem Profil, das Sie bearbeiten möchten, und klicken Sie ganz rechts auf **Bearbeiten**.
 
 > [!IMPORTANT]
-> Wenn Sie Ihr Zahlungskonto ändern, kann dies dazu führen, dass sich Ihre Zahlungen um maximal einen Zahlungszyklus verzögern. Diese Verzögerung tritt auf, weil wir die Kontoänderung überprüfen müssen. Dies ist der gleiche Vorgang wie bei der ersten Einrichtung des Zahlungskontos. Nachdem das Konto bestätigt wurde, erhalten Sie trotzdem den vollen Betrag. Zahlungen, die für den aktuellen Zahlungszyklus fällig sind, werden im nächsten Zyklus hinzugefügt. Weitere Informationen finden Sie unter [Erhalten der Bezahlung](/azure/marketplace/marketplace-payout-account-setup).
+> Wenn Sie Ihr Zahlungskonto ändern, kann dies dazu führen, dass sich Ihre Zahlungen um maximal einen Zahlungszyklus verzögern. Diese Verzögerung tritt auf, weil wir die Kontoänderung überprüfen müssen. Dies ist der gleiche Vorgang wie bei der ersten Einrichtung des Zahlungskontos. Nachdem das Konto bestätigt wurde, erhalten Sie trotzdem den vollen Betrag. Zahlungen, die für den aktuellen Zahlungszyklus fällig sind, werden im nächsten Zyklus hinzugefügt. Weitere Informationen finden Sie [im kommerziellen Marketplace unter "kostenpflichtige Kosten](marketplace-get-paid.md)".
 
 ### <a name="paypal-info"></a>PayPal-Informationen
 
 In einigen Ländern und Regionen können Sie ein Zahlungskonto erstellen, indem Sie Ihre PayPal-Informationen eingeben. Sie sollten aber wie folgt vorgehen, bevor Sie PayPal als Zahlungskontooption auswählen:
 
-- Lesen Sie die Informationen unter [Zahlungsschwellenwerte, Methoden und Zeiträume](/azure/marketplace/payment-thresholds-methods-timeframes), um zu ermitteln, ob PayPal in Ihrem Land bzw. Ihrer Region eine unterstützte Zahlungsmethode ist.
+- Lesen Sie die Informationen unter [Zahlungsschwellenwerte, Methoden und Zeiträume](payment-thresholds-methods-timeframes.md), um zu ermitteln, ob PayPal in Ihrem Land bzw. Ihrer Region eine unterstützte Zahlungsmethode ist.
 - Lesen Sie unten die häufig gestellten Fragen. Je nach Ihrer Situation ist PayPal unter Umständen nicht die beste Zahlungskontooption für Sie, sondern eher ein Bankkonto.
 
 Häufig gestellte Fragen zur Verwendung von PayPal als Zahlungsmethode:
 
 - **Welche PayPal-Einstellungen benötige ich, um Zahlungen zu erhalten?** Stellen Sie sicher, dass für Ihr PayPal-Konto eCheck-Zahlungen (elektronische Überweisungen) nicht blockiert sind. Diese Einstellung befindet sich bei PayPal auf der Seite mit den Einstellungen für den Zahlungsempfang. Weitere Informationen finden Sie auf der [Seite für die Einrichtung des PayPal-Kontos](https://go.microsoft.com/fwlink/p/?linkid=513139).
 
-- **Wird mein Land bzw. meine Region unterstützt?** Weitere Informationen dazu, wo PayPal als Zahlungsmethode unterstützt wird, finden Sie unter [Zahlungsschwellenwerte, Methoden und Zeiträume](/azure/marketplace/payment-thresholds-methods-timeframes).
+- **Wird mein Land bzw. meine Region unterstützt?** Weitere Informationen dazu, wo PayPal als Zahlungsmethode unterstützt wird, finden Sie unter [Zahlungsschwellenwerte, Methoden und Zeiträume](payment-thresholds-methods-timeframes.md).
 
 - **Muss mein PayPal-Konto für dasselbe Land bzw. die Region wie mein Partner Center-Konto registriert sein?** Nein. Beim Einrichten eines PayPal-Kontos können Sie die Standardkonfiguration übernehmen. Es sollten keine Probleme mit anderen Ländern/Regionen und Währungen auftreten, falls Sie die Zahlung in bestimmten Währungen nicht blockiert haben. Diese Einstellung befindet sich bei PayPal auf der Seite mit den Einstellungen für den Zahlungsempfang.
 
@@ -173,7 +173,7 @@ Wenn Sie als Herausgeber in Russland ansässig sind, müssen Sie bei Ihrer Bank 
 
 Überprüfen Sie Folgendes, um sicherzustellen, dass die Auszahlungen für Sie erfolgreich sind:
 
-- Der **Name des Kontoinhabers**, den Sie in Partner Center für Ihr Auszahlungskonto eingegeben haben, muss mit dem Namen identisch sein, der Ihrem Bankkonto zugeordnet ist. Falls der Name für Ihr Bankkonto beispielsweise einen zweiten Vornamen enthält, müssen Sie unter **Name des Kontoinhabers** ebenfalls einen zweiten Vornamen hinzufügen.
+- Der **Name des Kontoinhabers** , den Sie in Partner Center für Ihr Auszahlungskonto eingegeben haben, muss mit dem Namen identisch sein, der Ihrem Bankkonto zugeordnet ist. Falls der Name für Ihr Bankkonto beispielsweise einen zweiten Vornamen enthält, müssen Sie unter **Name des Kontoinhabers** ebenfalls einen zweiten Vornamen hinzufügen.
 - Auszahlungen werden von Microsoft in Rubel (RUB) direkt auf Ihr Bankkonto überwiesen.
 - Bankdaten, die in Partner Center in lateinischen Buchstaben eingegeben werden, werden in kyrillische Buchstaben übersetzt.
 - Auszahlungen müssen auf ein Bankkonto überwiesen werden, nicht auf eine Bankkarte.
@@ -205,4 +205,4 @@ Falls Sie für den Empfang von Auszahlungen ein Bankkonto angegeben haben, müss
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-[Abrechnung des kommerziellen Marketplace](/azure/marketplace/billing-details)
+[Zahlungserhalt im kommerziellen Marketplace](marketplace-get-paid.md)

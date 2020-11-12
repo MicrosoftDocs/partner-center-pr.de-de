@@ -4,15 +4,15 @@ description: Hier erhalten Sie Antworten auf häufig gestellte Fragen zu den Zah
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/11/2020
-ms.openlocfilehash: 44bd7f488e3d4e79c45cb2746c7e2a6da449a310
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175290"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532020"
 ---
 # <a name="common-questions-about-commercial-marketplace-payouts"></a>Häufige Fragen zu kommerziellen Marketplace-Auszahlungen
 
@@ -29,10 +29,10 @@ In diesem Artikel werden häufig gestellte Fragen zu Zahlungen im kommerziellen 
 #### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>Warum unterscheidet sich mein Ergebnis Betrag von dem, was ich erwartet habe?
 
 - Wenn die Bestellung von Ihrem Kunden teilweise bezahlt wurde, basiert Ihr Erwerbs Betrag auf dem teilweise bezahlten Betrag nach der deduktionsgebühr und der entsprechenden Steuer.
-- Überprüfen Sie die Zuständigkeit für Steuern nach Land. Für Länder, in denen Microsoft für die Steuerzahlung zuständig ist, wird der Steuerbetrag von Microsoft berechnet und von den Einnahmen des Herausgebers abgezogen. Der Transaktionsbetrag im Auszug ist der Betrag nach Abzug der Steuer. Weitere Informationen finden Sie unter [Steuerliche Aspekte für kommerzielle Marketplace-Herausgeber](tax-details-marketplace.md).
+- Überprüfen Sie die Zuständigkeit für Steuern nach Land. Für Länder/Regionen, in denen Microsoft für die Steuerzahlung zuständig ist, wird der Steuerbetrag von Microsoft berechnet und von den Einnahmen des Herausgebers abgezogen. Der Transaktionsbetrag im Auszug ist der Betrag nach Abzug der Steuer. Weitere Informationen finden Sie unter [Steuerliche Aspekte für kommerzielle Marketplace-Herausgeber](tax-details-marketplace.md).
 - SaaS-und IaaS-Angebote verfügen über eine reduzierte gebührengebühr von 10% anstelle der standardmäßigen 20%. Dies hat eine Gewinnquote von 90%. Dieses Angebot gilt bis zum 30. Juni 2021.
 
-**Weitere**Informationen: [kommerzieller Marketplace-Herausgeber Vertrag](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Details zu Auszahlungs Richtlinien](payout-policy-details.md), [Zahlungs Schwellenwert, Methode und Zeitrahmen](payment-thresholds-methods-timeframes.md), [kostenpflichtig im kommerziellen Marketplace](marketplace-get-paid.md), [Steuer Details](tax-details-marketplace.md), [Auszahlungs Anweisungen](payout-statement.md), [Bestell Dashboard in kommerziellen Marketplace Analytics](/azure/marketplace/partner-center-portal/orders-dashboard)
+**Weitere** Informationen: [kommerzieller Marketplace-Herausgeber Vertrag](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Details zu Auszahlungs Richtlinien](payout-policy-details.md), [Zahlungs Schwellenwert, Methode und Zeitrahmen](payment-thresholds-methods-timeframes.md), [kostenpflichtig im kommerziellen Marketplace](marketplace-get-paid.md), [Steuer Details](tax-details-marketplace.md), [Auszahlungs Anweisungen](payout-statement.md), [Bestell Dashboard in kommerziellen Marketplace Analytics](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="earnings-reconciliation"></a>Einnahmenabgleich
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>Wie kann ich Auszahlungsauszüge mit Auftrags- oder Nutzungsberichten in Analysen abgleichen?
@@ -47,7 +47,7 @@ Verwenden Sie assetid, OrderID und die Zeilen Element-ID, die im Bericht "Auszah
 - Für Unternehmenskunden wird der Verleger Gewinn in der Anweisung 1-2 Tage nach dem Bestelldatum angezeigt.
 - Für Kunden, die keine Enterprise-Kunden sind, wird der Verleger Gewinn in der Anweisung 1-2 Tage nach Erhalt der Kundenzahlung angezeigt.
 
-**Weitere**Informationen: [Auszahlungs Anweisungen](payout-statement.md), [Bestell Dashboard in kommerzieller Marketplace Analytics](/azure/marketplace/partner-center-portal/orders-dashboard)
+**Weitere** Informationen: [Auszahlungs Anweisungen](payout-statement.md), [Bestell Dashboard in kommerzieller Marketplace Analytics](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="payout-policies"></a>Auszahlungsrichtlinien
 
@@ -60,7 +60,7 @@ Verwenden Sie assetid, OrderID und die Zeilen Element-ID, die im Bericht "Auszah
 - Wenn Ihre Einnahmen den Status „Nicht verarbeitet“ aufweisen, können Sie das Datum der Auszahlungsbereitschaft für den Monat überprüfen, in dem Ihre Einnahmen für die Zahlung verarbeitet werden. Sobald Ihre Zahlung vorbereitet ist, ändert sich der Status ihres Erwerbs in "verarbeitet".  Microsoft gibt die Zahlungen jeweils am 15. des Monats frei, in dem diese die Auszahlungsbereitschaft erreichen.
 - Bei Bestellungen, die per Kreditkarte gezahlt werden, hält Microsoft 30 Tage lang Zahlungen, bis der Erwerb ausgereift ist.
 
- **Weitere**Informationen: [kommerzielle Marketplace-Herausgeber Vereinbarung](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Details zu Auszahlungs Richtlinien](payout-policy-details.md), [Steuer Details](tax-details-marketplace.md), [Zahlungs Schwellenwert, Methode und Zeitrahmen](payment-thresholds-methods-timeframes.md)
+ **Weitere** Informationen: [kommerzielle Marketplace-Herausgeber Vereinbarung](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Details zu Auszahlungs Richtlinien](payout-policy-details.md), [Steuer Details](tax-details-marketplace.md), [Zahlungs Schwellenwert, Methode und Zeitrahmen](payment-thresholds-methods-timeframes.md)
 
 ## <a name="payments-and-adjustments"></a>Zahlungen und Anpassungen
 
@@ -81,7 +81,7 @@ Die Währung der Auszahlung basiert auf der Währung, die Sie im Auszahlungsprof
 
 Bei Zahlungsanpassungen handelt es sich um Korrekturen von Zahlungen, um beispielsweise bei Systemproblemen einen Ausgleich vornehmen zu können. Im Auszahlungsauszug ist der Grund für die Anpassung (ReasonCode) angegeben. Dies ist nicht auf die direkte Abstimmung einzelner Transaktionen bezogen.
 
-**Weitere**Informationen: [kommerzielle Marketplace-Herausgeber Vereinbarung](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Details zu Auszahlungs Richtlinien](payout-policy-details.md), [Steuer Details](tax-details-marketplace.md), [Zahlungs Schwellenwert, Methode und Zeitrahmen](payment-thresholds-methods-timeframes.md)
+**Weitere** Informationen: [kommerzielle Marketplace-Herausgeber Vereinbarung](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Details zu Auszahlungs Richtlinien](payout-policy-details.md), [Steuer Details](tax-details-marketplace.md), [Zahlungs Schwellenwert, Methode und Zeitrahmen](payment-thresholds-methods-timeframes.md)
 
 ## <a name="taxes"></a>Steuern
 
@@ -91,11 +91,11 @@ Suchen Sie im heruntergeladenen Transaktionsverlauf nach der Spalte für das Ste
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>Wie kann ich Formulare für die Steuer auf Servicegebühren herunterladen?
 
-Navigieren Sie auf der Seite für die Auszahlungszahlung zum Bereich mit der Zahlungsliste.**** **** Für Zahlungen mit Steuer auf Servicegebühren wird ein Link zum entsprechenden Steuerformular angezeigt.
+Navigieren Sie auf der Seite für die Auszahlungszahlung zum Bereich mit der Zahlungsliste.  Für Zahlungen mit Steuer auf Servicegebühren wird ein Link zum entsprechenden Steuerformular angezeigt.
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Wie kann ich ein Formular für die Quellensteuer als PDF herunterladen?
 
-Navigieren Sie auf der Seite für die Auszahlungszahlung zum Bereich mit der Zahlungsliste.** **** Neben einer Zahlung wird ein Link zu einem Quellensteuerformular angezeigt.
+Navigieren Sie auf der Seite für die Auszahlungszahlung zum Bereich mit der Zahlungsliste.  Neben einer Zahlung wird ein Link zu einem Quellensteuerformular angezeigt.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Wo finde ich die Steuerformulare für das Jahresende?
 
@@ -104,16 +104,16 @@ Navigieren Sie zur [Profilseite](https://partner.microsoft.com/dashboard/payee/p
 #### <a name="how-do-i-find-withholding-tax-for-a-transaction"></a>Wo finde ich die Quellensteuer für eine Transaktion?
 Die Quellensteuer ist für US-amerikanische Herausgeber relevant, die ein W-9-Formular eingereicht haben. Die Quellensteuer wird für eine monatliche Zahlung berechnet.
 
-**Weitere**Informationen: [kommerzielle Marketplace-Herausgeber Vereinbarung](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Auszahlungs Richtlinien Details](payout-policy-details.md)
+**Weitere** Informationen: [kommerzielle Marketplace-Herausgeber Vereinbarung](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Auszahlungs Richtlinien Details](payout-policy-details.md)
 
 ## <a name="payout-statement-access"></a>Zugriff auf die Auszahlungs Anweisung
 
 #### <a name="how-do-i-access-a-payout-statement"></a>Wie kann ich auf einen Auszahlungsauszug zugreifen?
 
 1. Überprüfen Sie Ihre Rollen. Für den Zugriff auf den Auszahlungsauszug müssen Sie über die Rolle *Mitwirkender im Finanzbereich* oder *Kontobesitzer* verfügen.
-2. Wählen Sie in der Navigationsleiste oben rechts das **Auszahlungs** Symbol aus, um Ihre Auszahlungs Anweisung anzuzeigen. Wählen Sie einen **Transaktionsverlauf**, eine **Zahlung**und einen **Download**aus.
+2. Wählen Sie in der Navigationsleiste oben rechts das **Auszahlungs** Symbol aus, um Ihre Auszahlungs Anweisung anzuzeigen. Wählen Sie einen **Transaktionsverlauf** , eine **Zahlung** und einen **Download** aus.
 
-**Weitere**Informationen: [Auszahlungs Rollen und-Berechtigungen](payout-statement.md#roles-and-permissions), [Auszahlungs Anweisungen](payout-statement.md) 
+**Weitere** Informationen: [Auszahlungs Rollen und-Berechtigungen](payout-statement.md#roles-and-permissions), [Auszahlungs Anweisungen](payout-statement.md) 
 
 ## <a name="payout-statement-report"></a>Bericht zur Auszahlungs Anweisung
 
@@ -131,17 +131,17 @@ Dadurch wird Ihr Ergebnis als nicht verarbeitet, verarbeitet oder gesendet angez
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>Wie kann ich Formulare für die Steuer auf Servicegebühren herunterladen?
 
-Navigieren Sie auf der Seite für die Auszahlungszahlung zum Bereich mit der Zahlungsliste.**** **** Für Zahlungen mit Steuer auf Servicegebühren wird ein Link zum entsprechenden Steuerformular angezeigt.
+Navigieren Sie auf der Seite für die Auszahlungszahlung zum Bereich mit der Zahlungsliste.  Für Zahlungen mit Steuer auf Servicegebühren wird ein Link zum entsprechenden Steuerformular angezeigt.
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Gewusst wie ein Steuerformular für die Zurückhaltung in PDF herunterladen?
 
-Navigieren Sie auf der Seite für die Auszahlungszahlung zum Bereich mit der Zahlungsliste.**** **** Neben einer Zahlung wird ein Link zu einem Quellensteuerformular angezeigt.
+Navigieren Sie auf der Seite für die Auszahlungszahlung zum Bereich mit der Zahlungsliste.  Neben einer Zahlung wird ein Link zu einem Quellensteuerformular angezeigt.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Wo finde ich die Steuerformulare für das Jahresende?
 
 Navigieren Sie zur [Profilseite](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage), um die Steuerformulare für das Jahresende anzuzeigen.
 
-**Weitere**Informationen: [Auszahlungs Anweisungen](payout-statement.md), [Download für den Transaktionsverlauf](payout-statement.md#transaction-history-download)
+**Weitere** Informationen: [Auszahlungs Anweisungen](payout-statement.md), [Download für den Transaktionsverlauf](payout-statement.md#transaction-history-download)
 
 ## <a name="historical-statements"></a>Historische Auszüge
 
@@ -149,7 +149,7 @@ Navigieren Sie zur [Profilseite](https://partner.microsoft.com/dashboard/payee/p
 
 Der historische Auszug zeigt die Momentaufnahme der Auszahlungsdaten von Oktober 2019. Die hier aufgeführten Auszahlungs Informationen werden leider nicht aktualisiert. Um die neuesten Informationen zu erhalten, übermitteln Sie ein Support Ticket für die neuesten Daten.
 
-**Weitere**Informationen: [Auszahlungs Anweisungen](payout-statement.md), [Download für den Transaktionsverlauf](payout-statement.md#transaction-history-download)
+**Weitere** Informationen: [Auszahlungs Anweisungen](payout-statement.md), [Download für den Transaktionsverlauf](payout-statement.md#transaction-history-download)
 
 ## <a name="payout-export-api"></a>Auszahlungs Export-API
 

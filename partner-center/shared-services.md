@@ -8,19 +8,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 06/03/2020
-ms.openlocfilehash: 49b5bd1c9a7cd4c56f2fac28a45cc8a4b922b9b0
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.date: 11/11/2020
+ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "92333744"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532037"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Hinzufügen gemeinsamer Azure-Partner Dienste, damit Partner Azure-Abonnements zur eigenen Nutzung erwerben können
 
-**Zielgruppe**
-
-- Partner Center
  
 **Geeignete Rollen**
 
@@ -38,17 +35,17 @@ Azure Partner Shared Services ist eine neue Art von Angebot für Partner im CSP-
 
 2. Wenn Sie bereits einen Mandanten für gemeinsame Dienste haben, klicken Sie auf **Gemeinsame Dienste erstellen**.
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="Kontoeinstellungen > gemeinsame Dienste":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="Gemeinsame Dienste erstellen":::
 
 3. Dient zum Erstellen eines Mandanten für gemeinsame Dienste und Kaufen eines Azure CSP Shared Services-Abonnement, das für gemeinsame genutzte Ressourcen und interne Workloads verwendet werden kann.
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="Kontoeinstellungen > gemeinsame Dienste":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="Mandanten erstellen und Abonnement kaufen":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Informationen zum Angebot „Azure – Internal/Shared Services”
 
 - Das Azure – Internal/Shared Services-Abonnement ist ein neuer Azure-Angebotstyp in CSP, auf den über Partner Center zugegriffen wird, den Partner für die Verwendung von Azure nutzen.
 
-- Azure – Internal/Shared Services Angebot ist nicht für Rabatte und Anreize geeignet.
+- Azure – Internal/Shared Services Angebot ist für Rabatte und Anreize qualifiziert.  Azure Partner Shared Services-Abonnements sind berechtigt und können zum Erwerb von RIS verwendet werden.
 
 - Das Angebot „Azure – Internal/Shared Services” gilt nur für den Mandanten für gemeinsame Dienste.
 
@@ -62,7 +59,7 @@ Sie finden den Azure-Verbrauch in Ihrer CSP-Rechnung und in der Kontoabstimmungs
 
 ## <a name="azure-partner-shared-services-pricing"></a>Preise für Azure Partner Shared Services
 
-**Um die**neue Preis Datei für gemeinsame Azure-Partner Dienste anzuzeigen, besuchen  >  Sie**Preise und Angebote** , und wählen Sie die Preisliste des aktuellen Monats aus. In den kommenden Wochen wird auch eine spezielle Gebührenkarten-API veröffentlicht.
+**Um die** neue Preis Datei für gemeinsame Azure-Partner Dienste anzuzeigen, besuchen  >  Sie **Preise und Angebote** , und wählen Sie die Preisliste des aktuellen Monats aus. In den kommenden Wochen wird auch eine spezielle Gebührenkarten-API veröffentlicht.
 
 ## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace-Angebote und Azure Partner Shared Services
 
@@ -78,3 +75,7 @@ Partner mit byol oder kostenlosen Diensten, die mit APSS bereitgestellt werden, 
 Um den vollständigen Katalog mit den verfügbaren Marketplace-angeboten (nicht nur byol und kostenlose Dienste) nutzen zu können, empfiehlt es sich, dass CSP-Partner gemeinsame Dienste mithilfe von Azure-Web-Direct-  CSP-Partner, die byol-Ressourcen und kostenlose Dienst Ressourcen von Drittanbietern bereits aus dem Marketplace bereitgestellt haben und die Sie weiterhin verwenden möchten, und Bereitstellen von Drittanbieter-angeboten werden empfohlen, das APSS-Abonnement zu Web Direct [Migration vorhandener Azure-Abonnements](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)zu migrieren.
 
 Partner, die nach dem 1. März 2019 mit dem APSS-Abonnement fortfahren und neue [byol-Dienste](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) von Drittanbietern oder kostenlose Dienste bereitstellen möchten, können die Anweisungen von ISVs befolgen, um diese in ihren APSS-Abonnements bereitzustellen.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Verkaufen von Softwareabonnements über CSP](csp-software-subscriptions.md)

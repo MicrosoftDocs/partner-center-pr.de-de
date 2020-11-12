@@ -4,17 +4,17 @@ description: Informieren Sie sich über Auszahlungs Anweisungen und-Zusammenfass
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/23/2020
-ms.openlocfilehash: 460a7b1992d7db40e0f45d3aeb7e2236e9495e07
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335722"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532054"
 ---
-# <a name="payout-statements"></a>Auszahlungs Anweisungen
+# <a name="payout-statements"></a>Auszahlungsauszüge
 
 Die **Auszahlungs Erklärung** bietet einen Überblick über Ihre Auszahlungen von angeboten, die über den kommerziellen Marketplace verkauft werden. Es zeigt den Transaktionsverlauf Ihres Ergebnisses, schätzt Ihre nächste Zahlung und zeigt Zahlungs Trends an. Sie können auch den Transaktionsverlauf und die Zahlungsanweisungen herunterladen. In diesem Artikel wird erläutert, wie Sie auf Ihre Auszahlungs Erklärung und die unterschiedlichen Auszahlungs Seiten und Downloads zugreifen können, die Ihnen im Partner Center zur Verfügung stehen.
 
@@ -39,7 +39,7 @@ Melden Sie sich bei [Partner Center](https://partner.microsoft.com/dashboard/hom
 
 - Transaktionsverlauf
 - Zahlungen
-- Daten exportieren
+- Exportieren von Daten
 
 :::image type="content" source="images/payouts/payout-overview.png" alt-text="Veranschaulicht das Auszahlungs Symbol in der oberen rechten Ecke des Partner Center-Portals.":::
 
@@ -114,7 +114,7 @@ Klicken Sie oben auf der Seite auf " **herunterladen** ", um weitere Details zu 
 | LicensingProgramName | Name des Lizenzierungsprogramms |  |
 | LineItemId | Einzelne Position in der Rechnung eines Kunden |  |
 | localProviderSeller | Lokaler Anbieter/Seller of Record |  |
-| Reife Monat | Der geschätzte Zahlungs Monat | Alle |
+| Reife Monat | Der geschätzte Zahlungs Monat | All |
 | OrderId | Bezieht sich auf die Rechnung eines Kunden  | marketplaces |
 | parentProductId | Eindeutige ID des übergeordneten Produkts. Wenn kein übergeordnetes Produkt für die Transaktion vorhanden ist, entspricht die ID des übergeordneten Produkts der Produkt-ID. | marketplaces |
 | parentProductName | Name des übergeordneten Produkts. Wenn kein übergeordnetes Produkt für die Transaktion vorhanden ist, entspricht der Name des übergeordneten Produkts dem Produktnamen. | marketplaces |
@@ -127,7 +127,7 @@ Klicken Sie oben auf der Seite auf " **herunterladen** ", um weitere Details zu 
 | paymentStatus | Zahlungsstatus | All |
 | paymentStatusDescription | Benutzerfreundliche Beschreibung des Zahlungsstatus | All |
 | productId | Eindeutige Produkt-ID | marketplaces |
-| ProductName | Mit der Transaktion verknüpfter Produktname | Alle |
+| ProductName | Mit der Transaktion verknüpfter Produktname | All |
 | productType | Produkttyp, z. B. App, Add-On oder Spiel | marketplaces |
 | Programmcode | Dem Programmnamen zuzuordnende Zeichenfolge |  |
 | programName | Name des Incentive-/Store-Programms | All |
@@ -171,7 +171,7 @@ Auf der Seite **Zahlungen** finden Sie Informationen zu den Kosten, die Sie mit 
 >[!Note]
 > Qualifiziert für eine Auszahlung sind Beträge, die den [Zahlungsschwellenwert](payment-thresholds-methods-timeframes.md) von 50 US-Dollar erreichen. Weitere Informationen finden Sie in der [Microsoft-Herausgeber Vereinbarung](https://go.microsoft.com/fwlink/?LinkID=699560).
 
-:::image type="content" source="images/payouts/payments-overview.png" alt-text="Übersichtsseite Zahlungen.":::
+:::image type="content" source="images/payouts/payments-overview.png" alt-text="Übersichtsseite &quot;Zahlungen&quot;.":::
 
 - **Summe bezahlt in diesem Jahr** – die kombinierte Summe, die Sie in diesem Jahr in US-Dollar für alle Programme bezahlt haben.
 - **Nächste geschätzte Zahlung** – die nächste nächste Zahlung an Sie (auch wenn in Kürze andere vorhanden sind), in US-Dollar.
@@ -186,7 +186,7 @@ Auf der Seite **Zahlungen** finden Sie Informationen zu den Kosten, die Sie mit 
 
 - **Bezahlt** – alle Zahlungen wurden erfolgreich gesendet. Wählen Sie das Jahr im Dropdown Menü aus, um die in diesem Jahr veröffentlichten Zahlungen zu filtern.
 - **Ausstehende** – bevorstehende Zahlungen.
-- **Service Payment Tax (PDF-Format)** – verfügbar für die Zahlungen, die für die Gebühr für die Dienstgebühr unterliegen. Die Gebühren für die Dienstgebühr werden in **anderen Steuern**angezeigt.
+- **Service Payment Tax (PDF-Format)** – verfügbar für die Zahlungen, die für die Gebühr für die Dienstgebühr unterliegen. Die Gebühren für die Dienstgebühr werden in **anderen Steuern** angezeigt.
 - **View** – leitet eine Umleitung zum Transaktionsverlauf mit einer Liste der in die Zahlung enthaltenen Einnahmen um.
 
 Informationen dazu, warum Sie möglicherweise fehlende oder unerwartete Einnahmen haben, finden Sie unter [häufig gestellte Fragen zu kommerziellen Marketplace-Auszahlungen](payout-faq.md#why-are-my-earnings-missing).
@@ -236,9 +236,9 @@ Klicken Sie oben auf der Seite auf " **herunterladen** ", um weitere Details zu 
 | paymentDate | Datum, an dem die Zahlung von Microsoft gesendet wurde |
 |
 
-## <a name="export-data"></a>Daten exportieren
+## <a name="export-data"></a>Exportieren von Daten
 
-Die Seite " **Daten exportieren** " wird nicht eigenständig aktualisiert. Möglicherweise müssen Sie die Seite manuell aktualisieren, um die neuesten Daten anzuzeigen. Wählen Sie aus den drei Registerkarten aus, um entweder **Transaktionsverlauf**, **Zahlungen**, **Transaktions Zusammenfassung**oder Verlaufs **Anweisung**zu exportieren.
+Die Seite " **Daten exportieren** " wird nicht eigenständig aktualisiert. Möglicherweise müssen Sie die Seite manuell aktualisieren, um die neuesten Daten anzuzeigen. Wählen Sie aus den drei Registerkarten aus, um entweder **Transaktionsverlauf** , **Zahlungen** , **Transaktions Zusammenfassung** oder Verlaufs **Anweisung** zu exportieren.
 
 Der Filter führt möglicherweise zu einem Fehler, der **nicht verfügbar** ist. Dies kann vorkommen, wenn Sie den Standard Zeitraum in drei Monaten ausgewählt haben und dann eine Zahlungs-ID aus einem Verdienst ausgewählt haben, das außerhalb dieses Zeitraums liegt. Wenn dies der Fall ist, erweitern Sie den Zeitraum, und versuchen Sie es noch mal.
 
@@ -297,6 +297,6 @@ In der folgenden Tabelle werden die einzelnen Spalten in einer Verlaufs Anweisun
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Partner-Auszahlungs-API](https://apidocs.microsoft.com/services/partnerpayouts)
+- [Partnerauszahlungs-API](https://apidocs.microsoft.com/services/partnerpayouts)
 - [Auszahlungsrichtliniendetails](payout-policy-details.md)
 - Abrechnungsunterstützung erhalten Sie vom [Support für Herausgeber](https://partner.microsoft.com/support/v2/?stage=1).

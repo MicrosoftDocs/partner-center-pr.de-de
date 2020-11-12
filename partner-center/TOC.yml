@@ -338,9 +338,11 @@
         - name: Suchen der Desktopanzahl und Gebührenstufe für eine Vereinbarung
           href: chip-locate-agreement.md
         - name: Berechtigung für Solution Assessment
-          href: chip-solution-assessment.md
+          href: chip-solutions-assessment-eligible.md
         - name: Zahlungsstatus von Solution Assessment
           href: chip-solution-assessment-payment.md
+        - name: Häufig gestellte Fragen zu Solution Assessment
+          href: chip-faq.md
         - name: Probleme beim Zugriff auf CHIP
           href: chip-access-trouble.md
 - name: Abrechnung und Steuern
@@ -365,6 +367,10 @@
       href: daily-rated-usage-recon-files.md
     - name: Lizenzbasierte Abstimmungsdateien
       href: license-based-recon-files.md
+    - name: CSP-Abstimmungsdateien für einmaligen Erwerb
+      href: modern-invoice-reconciliation-file.md
+    - name: Berechnung des effektiven Preises pro Einheit
+      href: effective-unit-price-calculation.md
     - name: Allgemeine Abrechnungsszenarien
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'

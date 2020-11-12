@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 37b8072742db0a9f8eb6bda3b74bf2db66b32e3d
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132826"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433307"
 ---
 # <a name="october-2020-announcements"></a>Ankündigungen für Oktober 2020
 
@@ -23,6 +23,27 @@ Auf dieser Seite finden Sie Informationen zu den Ankündigungen vom Oktober 202
 Ankündigungen für 2020:  [März](2020-march.md) | [April](2020-april.md) | [Mai](2020-may.md) | [Juni](2020-june.md) | [Juli](2020-july.md) | [August](2020-august.md) | [September](2020-september.md) | Oktober
 
 ______________
+
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Korrektur der Anrufplanerweiterung 
+
+### <a name="categories"></a>Kategorien
+
+- Datum: 29.10.2020
+- Angebote/Märkte
+
+### <a name="impacted-audience"></a>Zielgruppe
+
+Direkte Anbieter, indirekte Anbieter und indirekte Wiederverkäufer
+
+### <a name="details"></a>Details
+
+Am 1. Oktober 2020 haben wir [die Verfügbarkeit des Office 365-Anrufplans in neuen Märkten](2020-september.md#2) angekündigt. Diese Ankündigung ist nicht korrekt, und 240 Minuten pro Benutzer pro Monat für nationale Pläne sind nicht wie zuvor erwähnt verfügbar. 
+
+
+Ausführliche Informationen zu Anrufplänen finden Sie in der [Produktdokumentation](/microsoftteams/calling-plan-landing-page) zu Microsoft Teams.
+
+
+________________
 
 ## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Windows Server-Softwareabonnements – Funktionsupdates
 

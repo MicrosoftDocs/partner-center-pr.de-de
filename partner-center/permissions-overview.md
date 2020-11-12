@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 4839fbd6fac5f84e5a2ebc40d1f7f48da6114113
+ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133030"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "93363621"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern im Unternehmen, die im Partner Center arbeiten müssen
 
@@ -127,21 +127,38 @@ Diese Rollen sind keine Azure Active Directory-Rollen. Mit diesen Rollen werden 
 ||* Erstellen von Supporttickets für das Partner Center
 ||* Anzeigen erstellter Partnersupporttickets
 
+## <a name="manage-referrals"></a>Verwalten von Empfehlungen
 
-## <a name="manage-referrals"></a>Verwalten von Empfehlungen 
+> [!Note]
+>Die neue Benutzerrolle für Empfehlungen ist ab dem 16. November 2020 verfügbar. Vorhandene Empfehlungsadministratoren behalten ihre Administratorrolle für Empfehlungen für das gesamte Unternehmen bei.
 
-|**Rolle**|**Funktionsumfang**|**Weitere Informationen**|
-|-----------------------------|:------------------------|---|
-|Empfehlungsadministrator       |* Anzeigen, Erstellen und Verwalten von Geschäftsprofilen|[Verwalten verschiedener Leads wie Kundenanfragen, durch Marketing qualifizierte Leads und durch den Vertrieb qualifizierte Leads](manage-leads.md)
-||* Empfangen und Verwalten von Empfehlungen
-||* Anzeigen, Erstellen und Verwalten von Co-Selling-Empfehlungen|
-||* Anzeigen, Erstellen und Verwalten von Serviceanfragen von Partnern
-|Unternehmensprofiladministrator   |* Anzeigen, Erstellen und Verwalten des Geschäftsprofils |[Erstellen eines Unternehmensprofils](create-a-marketing-profile.md)
-||* Anzeigen, Erstellen und Verwalten von Serviceanfragen von Partnern
-||* Erstellen von Supporttickets für das Partner Center
-||* Anzeigen erstellter Partnersupporttickets|
+|**Rolle** | **Funktionsumfang**|**Weitere Informationen**
+|------------------------------|:-------------------------|---|
+|Empfehlungsadministrator|Erstellen und Verwalten aller Einträge auf der Registerkarte „Empfehlungen“ im Partner Center|[Verwalten von Co-Selling-Verkaufschancen](manage-co-sell-opportunities.md)
+||    Anzeigen und Bearbeiten aller Co-Selling-Verkaufschancen und Leads
+||    Zuweisen von Teammitgliedern für einen Deal
+||    Anzeigen und Bearbeiten von Geschäftsprofilen
+||    Anzeigen und Registrieren von Deals für Verkaufschancen, die als gewonnen markiert und für die Dealregistrierung zugelassen sind
+||    Erstellen und Anzeigen von Supporttickets
+|Empfehlungsbenutzer|Erstellen und Verwalten von Co-Selling-Verkaufschancen nur, wenn sie Teil des Teams sind |[Verwalten von Co-Selling-Verkaufschancen](manage-co-sell-opportunities.md)
+||    Erstellen von Co-Selling-Verkaufschancen für die Standorte, an denen ihnen die Rolle zugewiesen ist
+||    Anzeigen und Registrieren von Deals für Verkaufschancen, die als gewonnen markiert und für die Dealregistrierung zugelassen sind, wenn sie Teammitglieder sind
+||    Erstellen und Anzeigen von Supporttickets
+|Unternehmensprofiladministrator|Erstellen und Verwalten von Geschäftsprofilen | [Verwalten von Geschäftsprofilen](create-a-marketing-profile.md)
+||    Erstellen und Anzeigen von Supporttickets
 
-## <a name="manage-incentives"></a>Verwalten von Incentives 
+Zusammen mit der neuen Benutzerrolle für Empfehlungen wird auch der Standortbereich für Deals eingeführt. In der folgenden Tabelle wird der Zugriff auf Deals basierend auf dem Standort erläutert.
+
+|**Scope** | **Funktionsumfang** |
+|------------------------------|:-------------------------|
+|Gesamtes Unternehmen | Sowohl Administratoren als auch Benutzer haben Zugriff zum Erstellen von Deals für jeden Standort in Ihrem Unternehmen.|
+|| Der Empfehlungsadministrator hat Zugriff zum Anzeigen und Bearbeiten aller Deals. |
+|| Empfehlungsbenutzer haben nur dann Zugriff zum Anzeigen und Bearbeiten aller Deals, wenn Sie Teil des Teams sind. |
+|Ein oder mehrere Standorte | Sowohl Administratoren als auch Benutzer haben Zugriff zum Erstellen von Deals für den zugewiesenen Standort in Ihrem Unternehmen.|
+|| Der Empfehlungsadministrator hat Zugriff zum Anzeigen und Bearbeiten aller Deals, die zu den zugewiesenen Standorten gehören.|
+|| Empfehlungsbenutzer haben Zugriff zum Anzeigen und Bearbeiten aller Deals, die zu den zugewiesenen Standorten gehören, wenn Sie Teil des Teams sind.|
+
+## <a name="manage-incentives"></a>Verwalten von Incentives
 
 |**Rolle** | **Funktionsumfang**|**Weitere Informationen**
 |------------------------------|:-------------------------|---|

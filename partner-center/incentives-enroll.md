@@ -1,19 +1,19 @@
 ---
 title: Einschreibungs Registrierung
 ms.topic: how-to
-ms.date: 09/25/2020
+ms.date: 11/12/2020
 description: Registrieren Sie sich für das Programm "Incentives", und weisen Sie die erforderlichen Rollen für die Benutzerverwaltung zu. In diesem Artikel wird der Registrierungsvorgang beschrieben.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 067ad9370da6a6deeaeac7b24e606fe0bcd555a9
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: eeb6fabcc1b84e72c8e418e97a8582916225552b
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175196"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626013"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Registrierung und Benutzerverwaltung im Incentives-Programm
 
@@ -23,7 +23,7 @@ ms.locfileid: "92175196"
 
 **Geeignete Rollen:**
 
-- Incentiveadministrator
+- Incentive admin
 
 >[!NOTE]
 >Bevor Sie sich für das Incentives-Programm anmelden können, müssen Sie das Partner-Mitgliedschafts Center bei der Partner Center- [Migration](prepare-pmc-pc-migration.md)abgeschlossen haben.
@@ -41,13 +41,15 @@ Der globale Administrator oder Konto Administrator muss die Benutzer Ihres Unter
 Wenn Ihr Unternehmen für die Teilnahme qualifiziert ist, sendet Microsoft Einladungen an den Konto Administrator und den Incentive-Administrator.
 
 >[!NOTE]
->Nur der Incentive-Administrator kann sich für Incentive-Programme registrieren. Wenn kein Incentive-Administrator für Ihren Standort vorhanden ist, müssen der globale Administrator und der Konto Administrator eine Zuweisung zuweisen. Der Incentive-Administrator muss für die Standort-MPN-IDs zugewiesen werden. Der globale Administrator oder Konto Administrator kann auch als Incentive-Administrator zugewiesen werden.
+>Nur der Incentive-Administrator kann sich für Incentive-Programme registrieren. Wenn kein Incentive-Administrator für Ihren Standort vorhanden ist, müssen der globale Administrator und der Konto Administrator eine Zuweisung zuweisen. Der Incentive-Administrator muss für die Standort-MPN-IDs zugewiesen werden. Der globale Administrator oder Konto Administrator kann auch als Incentive-Administrator zugewiesen werden. Weitere Informationen zu verschiedenen Rollen finden Sie unter [Verwalten von Anreizen](permissions-overview.md#manage-incentives).
 
 ## <a name="enrollment-process"></a>Registrierungsprozess
 
-Wenn Ihr Unternehmen für die Teilnahme qualifiziert ist, sendet Microsoft eine Einladung an den Administrator der berechtigten mpnlocationid, um mit der Registrierung zu beginnen. Diese e-Mail wird vom **Microsoft Partner Center**gesendet und verfügt über die Einladung für den Antragsteller **Partner Incentive**-Registrierung. Öffnen Sie die Einladung, **und klicken Sie auf starten.**
+Wenn Ihr Unternehmen für die Teilnahme qualifiziert ist, sendet Microsoft eine Einladung an den Incentive-Administrator der berechtigten mpnlocationid, um mit der Registrierung zu beginnen. Diese e-Mail wird vom **Microsoft Partner Center** gesendet und verfügt über die Einladung für den Antragsteller **Partner Incentive** -Registrierung. Öffnen Sie die Einladung, **und klicken Sie auf starten.**
 
-Sie sehen auch eine Einladung auf der Partner Center-Startseite. Nachdem Sie diese Meldung ausgewählt haben, können Sie Sie nicht mehr anzeigen. Der Administrator für Administratoren kann den Vorgang jedoch weiterhin starten, indem er sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) anmeldet und **Benutzerverwaltung**auswählt.
+Sie sehen auch eine Einladung auf der Partner Center-Startseite. Nachdem Sie diese Meldung ausgewählt haben, können Sie Sie nicht mehr anzeigen. Der Incentive-Administrator kann den Vorgang jedoch trotzdem durchführen, indem er sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) anmeldet und im linken Navigationsbereich unter " **Incentives** " die Option **Übersicht** auswählt Wählen Sie **registrieren** aus, und füllen Sie dann das Auszahlungs-und Steuer Profil für das Programm aus.
+
+Eine Registrierung gilt nur, wenn das Auszahlungs-und Steuer Profil, das Sie für die Registrierung bereitstellen, von Microsoft überprüft wird.
 
 Bestimmte Incentive-Programme haben keine Berechtigungs Kriterien und sind für alle Partner offen. Der Incentive-Administrator erhält auf der Seite "Incentive Overview" Einladungen für diese Programme, sofern Sie über Berechtigungen für das relevante Incentive-Programm und MPN verfügen. Microsoft sendet keine e-Mail-Einladungen für diese Programme.
 
@@ -55,7 +57,7 @@ Weitere Informationen zum Registrierungsvorgang erhalten Sie, wenn Sie das Regis
 
 ## <a name="expiration-and-renewal"></a>Ablauf und Erneuerung
 
-Die Registrierung von Incentives läuft am Ende des Geschäftsjahrs ab. Solange Sie jedoch ein berechtigter Partner mit einem aktiven Vertrag bleiben, führt Microsoft einen Roll Forward für Ihre Incentive-Registrierung in das nächste Geschäftsjahr aus. Sie müssen keine Maßnahmen ergreifen.
+Die Registrierung von Incentives läuft am Ende des Geschäftsjahrs ab. Solange Sie jedoch ein berechtigter Partner mit einem aktiven Vertrag bleiben, führt Microsoft einen Roll Forward für Ihre Incentive-Registrierung in das nächste Geschäftsjahr aus. Sie müssen keine Maßnahmen ergreifen, solange die für das Incentive-Programm erforderlichen Auszahlungs-und Steuerinformationen gemäß den Regeln des Incentive-Programms erfüllt sind.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

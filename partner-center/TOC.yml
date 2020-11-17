@@ -614,7 +614,7 @@
           href: advisor-create-a-purchase-offer.md
 - name: Partner Center-Daten und -Analysen
   items:
-    - name: Zugreifen auf Benutzerdaten und Analysen
+    - name: Zugreifen auf Abonnementdaten und -Analysen
       href: data-analysis-lp.md
     - name: "Analytics-App für Power\_BI"
       items:
@@ -628,7 +628,7 @@
       items:
         - name: Informationen zu Insights
           href: partner-center-insights.md
-          displayName: mpn
+          displayName: data
         - name: Rollenbasierter Zugriff auf Insights
           href: pci-roles.md
         - name: Insights-Berichte

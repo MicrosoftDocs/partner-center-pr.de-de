@@ -1,7 +1,7 @@
 ---
 title: Steigerung von Einführungsrate und Zufriedenheit
 ms.topic: how-to
-ms.date: 07/21/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Metriken im Partner Center verwenden. Metriken können zeigen, ob Ihr Unternehmen zunimmt, wie Kunden ihre Lizenzen verwenden und wo Sie sich mit den Investitionen beschäftigen.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d995d72f6b5f9fb3beafff91eee7518ee999bf6c
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545931"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691366"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Verwenden von Metriken im Partner Center, um Akzeptanz und Zufriedenheit zu steigern
 
@@ -49,13 +49,13 @@ Sie können Lizenz-und Benutzerdaten für einen einzelnen Kunden oder für das g
 
 3. Wählen Sie einen Kunden aus.
 
-4. Wählen Sie **Customer Insights**aus.
+4. Wählen Sie **Customer Insights** aus.
 
 ### <a name="find-license-and-user-data-across-your-portfolio"></a>Suchen von Lizenz-und Benutzerdaten in Ihrem gesamten Portfolio
 
 1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
-2. Wählen Sie **analysieren**aus, und wählen Sie eine der Analyseoptionen im Menü aus.
+2. Wählen Sie **analysieren** aus, und wählen Sie eine der Analyseoptionen im Menü aus.
 
 3. Wenn Sie Bereitstellungs-und Nutzungsdaten für den gesamten Kunden Satz herunterladen möchten, wählen Sie die Option **exportieren** (Pfeil nach unten) aus.
 
@@ -67,7 +67,7 @@ Terminologie:
 
 - **Bereitstellung %** = zugewiesene Lizenzen/verkaufte Lizenzen
 
-- **Nutzung %** = aktive Berechtigungen/Gesamtzahl der Berechtigungen
+- **Verwendung%** = aktive Benutzer/Benutzer gesamt
 
    Manchmal ist die prozentuale Nutzung überhöht oder größer als 100 %. Dies kann verschiedene Ursachen haben:
 
@@ -87,13 +87,13 @@ Wenn Sie viele Hilfe und Fragen zu Fragen haben, sind die Einführungs Zahlen in
 
 **Problem**: die Benutzer Akzeptanz Rate ist niedrig, und viele Lizenzen werden nicht verwendet.
 
-**Zu berücksichtigende**Punkte: Kunden können den Wert, der von der Software bereitgestellt werden könnte, nicht verstehen. Sie benötigen Hilfe bei der Planung der Art und Weise, wie Sie Sie in Ihren Tag einbinden können, um Aufgaben zu vereinfachen, die Sie bereits ausführen, oder um neue Arten von Produktivität zu ermöglichen.
+**Zu berücksichtigende** Punkte: Kunden können den Wert, der von der Software bereitgestellt werden könnte, nicht verstehen. Sie benötigen Hilfe bei der Planung der Art und Weise, wie Sie Sie in Ihren Tag einbinden können, um Aufgaben zu vereinfachen, die Sie bereits ausführen, oder um neue Arten von Produktivität zu ermöglichen.
 
-**Was Sie ausprobieren**sollten: Fallstudien, Benutzer Hinweise zu bestimmten Szenarien, Tutorial-Blogs oder Videos.
+**Was Sie ausprobieren** sollten: Fallstudien, Benutzer Hinweise zu bestimmten Szenarien, Tutorial-Blogs oder Videos.
 
 **Problem**: Es gibt eine große Anzahl von Supportanfragen für Hilfe und Anleitungen.
 
-**Zu berücksichtigende**Punkte: Kunden sind möglicherweise noch nicht mit der Software, der Produktversion oder ihrer Aufgabe vertraut.
+**Zu berücksichtigende** Punkte: Kunden sind möglicherweise noch nicht mit der Software, der Produktversion oder ihrer Aufgabe vertraut.
 
 **Was Sie ausprobieren sollten**: Sie können eine duale Strategie zum anbieten von Schulungen (persönlich oder Online) verwenden, um das allgemeine Know-how der Kunden zu verbessern, während gleichzeitig einige der Self-Service-Optionen für Kunden herauf gestuft werden.
 

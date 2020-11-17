@@ -9,12 +9,12 @@ ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/06/2020
-ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 34a18e4a4bf4d5c29265fdf76fae05b4ba16a3bc
+ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381430"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94670166"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Leitfaden zum Co-Selling im Partner Center (PC) für Partner, die von Partner Sales Connect (PSC) migrieren
 
@@ -78,7 +78,7 @@ Wenn die Registerkarte Verweise nicht angezeigt wird:
 Nachdem Sie Ihr Konto in Partner Center eingerichtet haben, verwenden Sie den Benutzermigrations-Assistenten auf der Seite Co-Selling-Chancen, um den Mitarbeitern Ihres Unternehmens automatisch Partner Center-Rollen zuzuweisen.
 
 >[!Note]
-> Die Benutzer Migration kann nur von [Konto Administratoren](permissions-overview.md#manage-mpn-membership-and-your-company) Ihres Unternehmens ausgeführt werden. Wenn Sie nicht über die Konto Administrator Rolle verfügen, finden Sie einen Konto Administrator, der beim Einrichten der Benutzerkonten mit dem Assistenten für die Benutzer Migration behilflich sein kann. Die Funktionen für die Benutzer Migration werden ab dem 16. November 2020 verfügbar sein.
+> Die Benutzer Migration kann nur von [Konto Administratoren](permissions-overview.md#manage-mpn-membership-and-your-company) Ihres Unternehmens ausgeführt werden. Wenn Sie nicht über die Konto Administrator Rolle verfügen, finden Sie einen Konto Administrator, der beim Einrichten der Benutzerkonten mit dem Assistenten für die Benutzer Migration behilflich sein kann. Die Funktionen für die Benutzer Migration werden ab dem 18. November 2020 verfügbar sein.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Das Bild zeigt den Benutzermigrations-Assistenten.":::
 
@@ -134,7 +134,7 @@ Dies ist ein wichtiger Schritt, der Ihnen bei der Vorbereitung auf Co-Selling im
 |Expiry|Es gibt kein Konzept für eine Ablaufzeit.|Eingehende Partner Verträge laufen in 14 Tagen ab, wenn Sie vom Partner nicht akzeptiert werden. Dasselbe gilt für ausgehende Partnerangebote, bei denen Sie in den abgelaufenen Status wechseln können, wenn der Microsoft-Verkäufer nicht innerhalb von 14 Tagen darauf reagiert.|
 |Details des Microsoft-Verkäufers|Sichtbar, sobald ein Problem erstellt wird.|Details des Microsoft-Verkäufers werden nur dann für Partner freigegeben, wenn der Verkäufer die Einladung zum Co-Selling von Partner explizit akzeptiert.|
 |[Private Pipeline](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|Nicht verfügbar.|Partner können ihre Pipeline freigeben, ohne den Microsoft-Verkäufern Einblick zu geben.|
-|Lösungen|Es können nur Lösungen hinzugefügt werden, die zu einer Preisliste gehören.|Partner können [Lösungen](manage-co-sell-opportunities.md#add-solutions) hinzufügen, die den folgenden Listen angehören. a) ihre eigenen Lösungen b) Lösungen aus dem Microsoft First Party Catalog (ähnlich der Rolle "Transaktions Rolle in PSC") und "c" Co-Selling-Lösungen von anderen Drittanbieter Partnern (ähnlich wie die Rolle "ISV-Rolle" in PSC).|
+|Projektmappen|Es können nur Lösungen hinzugefügt werden, die zu einer Preisliste gehören.|Partner können [Lösungen](manage-co-sell-opportunities.md#add-solutions) hinzufügen, die den folgenden Listen angehören. a) ihre eigenen Lösungen b) Lösungen aus dem Microsoft First Party Catalog (ähnlich der Rolle "Transaktions Rolle in PSC") und "c" Co-Selling-Lösungen von anderen Drittanbieter Partnern (ähnlich wie die Rolle "ISV-Rolle" in PSC).|
 |Zuweisungs Zuweisung|Nur der zugewiesene Verkäufer kann die Geschäfte anzeigen und darauf reagieren.|Team Mitglieder können einem Teil hinzugefügt werden, um die Mitarbeiter anzugeben, die an einem Teil arbeiten. es gibt keine Blockierung anderer verweisadministratoren, die diese Aktionen nicht anzeigen oder darauf reagieren.|
 |Kundenorganisation|Freier Formular Text Eintrag.|Sie können die [Kundenorganisation](manage-co-sell-opportunities.md#select-your-customer) anhand der [D-&B-Datenbank](https://www.dnb.com/) durchsuchen, indem Sie nur einige Zeichen eingeben. Der rechtliche Name und die Adresse werden automatisch basierend auf der Wahl aufgefüllt.|
 |Kundenkontakt|Nicht obligatorisch.|Für die private Pipeline Freigabe nicht obligatorisch. Erforderlich, wenn der Microsoft-Verkäufer eingeladen wird, an einer Co-Selling-Anforderung teilzunehmen.|

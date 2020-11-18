@@ -42,7 +42,7 @@ Contoso hat sein globales Partnerkonto (Partner Global Account, PGA) im Vereinig
 
 Zum Hinzufügen eines neuen CSP-Geschäftsstandorts müssen mehrere Voraussetzungen erfüllt sein:
 
-1. Sie müssen über eine Standort-MPN-ID in dem Land verfügen, in dem Sie geschäftlich tätig sein möchten.
+1. Sie müssen über eine Standort-MPN-ID in dem Land/der Region verfügen, in dem/der Sie geschäftlich tätig sein möchten.
 
 1. Sie benötigen einen neuen Azure AD-Mandanten in der [Geschäftsregion](regional-authorization-overview.md), der nicht bereits in CSP registriert ist. Erstellen Sie diesen bei der Registrierung in CSP.
  
@@ -71,15 +71,15 @@ Geben Sie rechtliche Firmendetails an, einschließlich des rechtsgültigen Firme
 
 1. Überprüfen Sie auf der Seite **[Standorte](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)** die Liste der Standorte, um sicherzustellen, dass der Standort, den Sie als juristische Entität wünschen, aufgeführt ist. Wenn dies nicht der Fall ist, fügen Sie ihn hinzu.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Struktur von MPN-Standorten":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Screenshot: Liste aller aktuellen Standorte auf der Seite mit den Standorten für Partner Center-Konten":::
 
 2. Wählen Sie **Partnerprofil** aus, und wählen Sie dann **Firmenprofil aktualisieren** aus.
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Struktur von MPN-Standorten":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Screenshot: Partner Center-Konto mit Informationen zum Partnerprofil und auswählbarer Aktualisierungsoption":::
 
 3. Wählen Sie die Region und die juristische Entität aus, und klicken Sie auf **Senden**.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Struktur von MPN-Standorten":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Screenshot zum Aktualisieren des rechtlichen Geschäftsprofils des Partners einschließlich Dropdownlisten, über die das Land oder die Region und die juristische Person aktualisiert werden können":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/10/2020
-ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488126"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691315"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,9 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für November 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+|Funktionen|[Änderung der Partnerabrechnungswährung für neue E-Commerce-Angebote in der EU/EFTA](2020-november.md#10)|17. November|
+|Funktionen|[API-Drosselung für Partner Center-APIs](2020-november.md#9)|17. November|
+|Funktionen|[409-Fehler aufgrund doppelter MCA-Anforderungen](2020-november.md#8)|16. November|
 |Funktionen|[Verfügbare Tests: Partner Center-API-Updates und Verbesserungen der Benutzeroberfläche (UI) für den Überprüfungsprozess für Kunden im Bildungswesen](2020-november.md#7)|10. November|
 |Funktionen|[Erweiterung von Partnerinhalten für kommerzielle Lizenzierung in der Operations Readiness-Katalogsammlung](2020-november.md#6)|2\. November|
 |Angebote/Märkte|[Einführung der Premium-SKU für Microsoft Teams-Räume](2020-november.md#5)|2\. November|

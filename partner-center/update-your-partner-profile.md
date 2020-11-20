@@ -1,20 +1,20 @@
 ---
 title: Überprüfen von Partnerprofilen
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie Ihre Unternehmensdetails überprüfen, z. B. den primären Kontakt-, die Adresse und Programminformationen. Sie können auch ihre rechtlichen Adressen und Abrechnungsadressen aktualisieren.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 07/10/2020
+ms.date: 11/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 9e2fbef36bcc4a191235570a0d1735bd755ad317
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490638"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94625996"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>Überprüfen von Partnerprofilinformationen im Partner Center
 
@@ -69,9 +69,17 @@ So aktualisieren Sie die MPN-ID, die Ihrem CSP-Konto zugeordnet ist:
 
 ## <a name="update-your-billing-address"></a>Aktualisieren der Abrechnungsadresse
 
-Wenn Sie der globale Administrator, Abrechnungsadministrator oder Administrator-Agent sind, können Sie die auf Ihrer Rechnung angezeigte Adresse in Ihrem **Abrechnungsprofil** ändern. Sie können jedoch den Unternehmensnamen auf Ihrer Rechnung aufgrund einer Einschränkung des Rechnungssystems nicht ändern.
+Wenn Sie der globale Administrator, Abrechnungsadministrator oder Administrator-Agent sind, können Sie Folgendes aktualisieren:
 
- 
+- Die auf Ihrer Rechnung angezeigte Adresse in Ihrem **Abrechnungsprofil**
+- Ihre Auftragsnummer
+
+Folgendes können Sie nicht ändern:
+ 
+- Firmenname
+- Land
+- Abrechnungsdatum
+ 
 ## <a name="next-steps"></a>Nächste Schritte
 
 - [Standorte verwalten](manage-locations.md)

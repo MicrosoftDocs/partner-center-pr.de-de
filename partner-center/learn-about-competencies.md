@@ -1,7 +1,7 @@
 ---
 title: Anforderungen für die Gold- und Silver-Kompetenzen von Microsoft
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie zum Elite-Partner von Microsoft werden und neue Kunden gewinnen können, indem Sie die Kompetenzanforderungen für die Gold- und Silver-Mitgliedschaftsstufen erfüllen.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1392a4c4a0147af3ffe18564da08061cd10cbc06
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100720"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691332"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Das Unternehmen durch den Erwerb von Microsoft-Kompetenzen differenzieren
 
@@ -24,9 +24,9 @@ ms.locfileid: "92100720"
 
 Demonstrieren Sie Ihr Fachwissen bei der Bereitstellung von Qualitätslösungen in mindestens einem speziellen Geschäftsbereich. Microsoft-Kompetenzen dienen zur Vorbereitung auf die Erfüllung der Kundenanforderungen. Mit ihnen kannst du neue Kunden gewinnen, die einen Microsoft-zertifizierten Lösungsanbieter suchen. Werden Sie Teil der Microsoft-Partnerelite, und heben Sie sich von anderen Anbietern ab.
 
-- Erwerben Sie eine **Silver** -Kompetenz, und demonstrieren Sie Ihre Zuverlässigkeit, Ihre Fähigkeiten und Ihr Engagement.
+- Erwerben Sie eine **Silver**-Kompetenz, und demonstrieren Sie Ihre Zuverlässigkeit, Ihre Fähigkeiten und Ihr Engagement.
 
-- Erwerben Sie eine **Gold** -Kompetenz, und demonstrieren Sie Ihre herausragenden Fähigkeiten in einem Microsoft-Lösungsbereich.
+- Erwerben Sie eine **Gold**-Kompetenz, und demonstrieren Sie Ihre herausragenden Fähigkeiten in einem Microsoft-Lösungsbereich.
 
 Der Erwerb einer Kompetenz kann auch den Zugang zu weiteren Vorteilen und Chancen ermöglichen:
 
@@ -65,6 +65,10 @@ Weitere Informationen zu den Anforderungen für den Erwerb von Silver- und Gold-
 
 - Erfahren Sie, wie Sie Ihr Fachwissen noch besser herausstellen können, indem Sie eine Gold-Kompetenz mit einer oder mehreren [erweiterten Spezialisierungen](advanced-specializations.md) kombinieren.
 
-- Erfahren Sie mehr über bestimmte [Go-to-Market-Vorteile](mpn-learn-about-go-to-market-benefits.md) in Verbindung mit Kompetenzen.
+- Erfahren Sie mehr über bestimmte [Markteinführungsressourcen](mpn-learn-about-go-to-market-benefits.md) in Verbindung mit Kompetenzen.
 
 - Erfahren Sie mehr über [Rechnungen und Steuern für Kompetenzen](mpn-view-print-maps-invoice.md).
+
+- Sehen Sie sich einen [Bericht zu Kompetenzen](pci-competencies-report.md) in Partner Center Insights an, der den aktuellen Status Ihrer Kompetenzen angibt.
+
+- Erhalten Sie Antworten auf [häufig gestellte Fragen](competencies-faq.md) zu Kompetenzen.

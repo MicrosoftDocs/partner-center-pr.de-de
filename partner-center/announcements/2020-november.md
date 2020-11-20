@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488107"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691298"
 ---
 # <a name="november-2020-announcements"></a>Ankündigungen für November 2020
 
@@ -23,6 +23,128 @@ Auf dieser Seite finden Sie Informationen zu den Ankündigungen vom November 20
 Ankündigungen für 2020: [April](2020-april.md) | [Mai](2020-may.md) | [Juni](2020-june.md) | [Juli](2020-july.md) | [August](2020-august.md) | [September](2020-september.md) | [Oktober](2020-October.md) | November
 
 ______________
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>Änderung der Partnerabrechnungswährung für neue E-Commerce-Angebote in der EU/EFTA  
+
+### <a name="categories"></a>Kategorien
+- Datum: 17.11.2020
+- Funktionen
+
+### <a name="impacted-audience"></a>Zielgruppe  
+
+Partner, die Transaktionen im Rahmen des Cloud Solution Provider-Programms in der EU/EFTA-Region ausführen 
+
+### <a name="summary"></a>Zusammenfassung 
+
+In der Region der Europäischen Union (EU)/Europäischen Freihandelszone (EFTA) wird für alle neuen E-Commerce-Angebote im Cloud Solution Provider-Programm der Abrechnungsstandort des Partners anstelle des Abrechnungsstandorts des Kunden verwendet. Das bedeutet, dass die Abrechnung für Partner von Microsoft auf der Währung am Standort des Partners und nicht auf der Währung am Standort des Kunden basiert. Dies wird in zwei Phasen umgesetzt: 
+
+- **Phase 1: Neue Kunden, die ein neues E-Commerce-Angebot in CSP erwerben**
+
+Ab Januar 2021 erfolgt für Partner mit neuen Kunden, die neue E-Commerce-Angebote erwerben, die Abrechnung für diese Käufe in der Währung am Standort des Partners. Für Partner mit Bestandskunden, die bereits neue E-Commerce-Angebote in CSP erworben haben, erfolgt die Abrechnung in dieser Phase weiterhin in der Währung am Standort der Kunden. 
+
+ 
+
+- **Phase 2: Bestandskunden, die vor Januar 2021 ein neues E-Commerce-Angebot in CSP erworben haben** 
+
+Im Anschluss an Phase 1 und während des Kalenderjahrs 2021 stellt Microsoft die Abrechnung neuer E-Commerce-Angebote für Partner mit Bestandskunden, die vor Januar 2021 ein neues E-Commerce-Angebot in CSP erworben haben, von der Währung am Kundenstandort auf die Währung am Partnerstandort um. Partner werden vorab benachrichtigt, bevor diese Änderung implementiert wird.  
+
+>[Hinweis] Diese Änderung wirkt sich nur auf die Abrechnungswährung der Partner aus und nicht auf die Preise neuer E-Commerce-Angebote in CSP. 
+
+Diese Änderung betrifft die folgenden neuen E-Commerce-Angebote: Azure-Abonnements, die Teil eines Azure-Plans sind, Azure-Reservierungen, Serverabonnements, unbefristete Software und Käufe im kommerziellen Microsoft-Marketplace im Rahmen des Cloud Solution Provider-Programms.
+
+### <a name="partner-benefits"></a>Partnervorteile  
+
+- Durch diese Neuerung werden Komplexität und Aufwand bei der Abrechnung mit mehreren Währungen in der EU/EFTA-Region für das neue E-Commerce-Verfahren reduziert.  
+
+- Partner erhalten eine konsolidierte Rechnung in einer einzigen Währung, und es wird keine Rechnung mehr für jede Kundenstandortwährung ausgestellt. 
+
+- Incentiveauszahlungen erfolgen in derselben Währung wie die Rechnung des Partners.
+
+- Partner werden eine geringere Abrechnungskomplexität gegenüber der Rechnungsstellung mit mehreren Währungen feststellen, wodurch Zeit und Ressourcen gespart werden, die derzeit für den Abgleich von Konten aufgewendet werden. 
+
+- Für Partner, die noch keine neuen E-Commerce-Angebote übernommen haben, wird diese Änderung an das vorherige Partnerabrechnungsmodell angepasst und ermöglicht den Partnern einen leichteren Übergang zum neuen E-Commerce-Verfahren in CSP. 
+
+### <a name="resources"></a>Ressourcen 
+
+Lesen Sie die Informationen zu diesem Thema im [Ressourcenkatalog für Vorgänge] (https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ auf der Microsoft-Partner-Website.  
+
+## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>API-Drosselung für Partner, die Partner Center-APIs aufrufen
+
+### <a name="categories"></a>Kategorien
+
+- Datum: 17.11.2020
+- Funktionen
+
+### <a name="summary"></a>Zusammenfassung
+
+Microsoft führt eine API-Drosselung für Partner ein, die Partner Center-APIs aufrufen, um eine konsistentere Leistung innerhalb einer bestimmten Zeitspanne zu erzielen.
+
+### <a name="impacted-audience"></a>Zielgruppe
+
+Partner, die Transaktionen im Rahmen des Cloud Solution Provider-Programms ausführen
+
+### <a name="details"></a>Details
+
+Microsoft implementiert im 1. Quartal 2021 eine API-Drosselung, um den Partnern, die Partner Center-APIs aufrufen, eine konsistentere Leistung innerhalb einer Zeitspanne zu ermöglichen. Durch die Drosselung wird die Anzahl von Anforderungen für einen Dienst innerhalb einer bestimmten Zeitspanne begrenzt, um eine übermäßige Nutzung von Ressourcen zu verhindern. Wenn ein Drosselungsschwellenwert überschritten wird, schränkt Partner Center alle weiteren Anforderungen von diesem Client für einen bestimmten Zeitraum ein.  
+
+### <a name="partner-benefits"></a>Partnervorteile 
+
+Partner Center ist darauf ausgelegt, eine große Anzahl von Anforderungen zu verarbeiten. Wenn jedoch eine übergroße Anzahl von Anforderungen von einigen wenigen Partnern gestellt wird, kann durch eine Drosselung die optimale Leistung und Zuverlässigkeit für alle Partner aufrechterhalten werden. Dies gewährleistet minimale Ausfallzeiten. Durch die Reduzierung der großen Anzahl von Anforderungen kann für alle Partner eine konsistente Leistung sichergestellt werden. 
+
+
+### <a name="apis-to-be-throttled"></a>Zu drosselnde APIs
+
+|**Vorgang**|**Dokumentation zu Partner Center**|
+|-------------------------|----------------------------------|
+|{baseURL}/v1/customers/{customer_id}/subscriptions|[Abrufen aller Abonnements eines Kunden](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Abrufen eines Abonnements nach ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/customers/{customer_id}/orders||[Abrufen aller Bestellungen eines Kunden](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Abrufen eines Auftrags nach ID](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Abrufen des Abonnementbereitstellungsstatus](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Verwalten von Aufträgen und Verwalten eines Abonnements](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[Abrufen einer Liste von Add-Ons für ein Abonnement](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[Abrufen einer Liste von Azure-Berechtigungen für ein Abonnement](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[Abrufen des Abonnementregistrierungsstatus](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Abrufen aller Übertragungen eines Kunden](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Abrufen des Status der Produktaktualisierung](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Abrufen einer Liste von Testwechselangeboten](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+  
+
+Mit dieser Ankündigung sollen Partner frühzeitig über die bevorstehenden Änderungen informiert werden, sodass sie entsprechende Vorbereitungen treffen können. Partnern wird dringend empfohlen, sich mit diesen APIs vertraut machen und die Aktivitätsprotokoll-API für mehr Effizienz und zur Vermeidung einer Drosselung zu verwenden. Weitere Informationen zu diesem Feature finden Sie im [Leitfaden zur API-Drosselung](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance). 
+
+### <a name="next-steps"></a>Nächste Schritte
+
+Lesen Sie den [Leitfaden zur API-Drosselung](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance), und führen Sie die erforderlichen Schritte aus. 
+
+
+
+## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>409-Fehler aufgrund doppelter MCA-Anforderungen
+
+### <a name="categories"></a>Kategorien
+
+- Datum: 16.11.2020
+- Funktionen
+
+### <a name="context"></a>Kontext
+
+- Im Februar dieses Jahres wurden Partner aufgefordert, die Microsoft-Kundenvereinbarung (MCuA) zu unterzeichnen. Hierbei handelte es sich um einen Wechsel vom vorherigen Microsoft Cloud-Vertrag (MCA). 
+- Im Rahmen dieser Änderung wurden die Partner aufgefordert, den Parameter für den Typ der Vereinbarung wie [hier](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement) dokumentiert einzufügen.
+
+### <a name="what-happened-next"></a>Was dann geschah:
+
+- Nicht alle Partner haben die Parameteranforderung in ihre Implementierung aufgenommen. Microsoft sendete den MCA an diese Partner zurück.
+- Der Partner sendete die Unterzeichnungsanforderung dann erneut an den Kunden und sendete den MCA wieder an Microsoft. 
+- Durch die Duplizierung war Microsoft in der Bereitstellung von Diensten für Partner beeinträchtigt.
+- Im September 2020 sendeten wir über Yammer in mehreren Foren eine Benachrichtigung an die Partner und forderten sie auf, den Parameter zu korrigieren. Microsoft konnte die Duplikate nicht länger akzeptieren, und sie würden 409-Fehler erhalten.
+
+>[Hinweis] Hierbei handelte es sich NICHT um einen neuen Vertrag/eine API-Änderung für Partner.
+
+- Im Oktober arbeiteten wir eng mit Partnern zusammen, bei denen die meisten doppelten Anforderungen auftraten, um das Problem zu beheben.
+- Derzeit erinnern wir die Partner und senden persönliche E-Mails an die zehn mit den höchsten Fallzahlen, damit diese ihre Anforderungen überprüfen und sich an uns wenden, sodass wir Ihnen beim Testen und Lösen des Problems helfen können.
+- Seit dem 10. November 2020 akzeptieren wir keine Duplikate mehr, und Partner, die die Parameter nicht korrigiert haben, erhalten 409-Fehler.
+- Inzwischen haben wir die Änderung, dass keine Duplikate akzeptiert werden, zurückgenommen. 
+- Ab dem 14. Januar 2021 werden wir jedoch wieder keine Duplikate mehr akzeptieren. Dadurch haben die Partner mehr Zeit, Anpassungen ihrerseits vorzunehmen. Wir haben bereits eine Benachrichtigung von einem Partner erhalten, dass er am 16. November eine Aktualisierung bereitstellen möchten, bei der wir eng zusammenarbeiten werden.
+- Wir bitten die Partner, sich an uns zu wenden, damit wir sie beim Testen unterstützen können. Dazu werden ihre Mandanten einem Test-Flight mit den Änderungen hinzugefügt, sodass sichergestellt werden kann, dass die Lösungsaktualisierung erwartungsgemäß funktioniert.
+
 
 
 ## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Verfügbare Tests: Partner Center-API-Updates und Verbesserungen der Benutzeroberfläche (UI) für den Überprüfungsprozess für Kunden im Bildungswesen

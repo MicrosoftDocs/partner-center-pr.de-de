@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94531986"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947663"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Auszahlungs Zeitpläne und Richtlinien Details
 
@@ -32,9 +32,9 @@ Es kommt häufig vor, dass Microsoft die Zahlung vom Kunden sammelt. Weitere Inf
 | --- | --- | --- | --- |
 | Verwendung oder Monat der Transaktion | Der Kunde verwendet oder kauft einen Dienst. | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 1** |
 | Bestellung wird erstellt | Bestimmen der Gesamtauslastung, Transaktionen gesamt | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 2** |
-| Erstellungs Gewinn für ISV-Auszahlung | Bestimmen der Gebühren und Auszahlungs Einnahmen der Agentur | Im Transaktionsverlauf in der Auszahlungs Anweisung als nicht verarbeitet markiert | **Monat 3 (1. Woche)** |
-| Auszahlung vorbereiten | Der Gewinn ist für die monatliche Zahlung vorbereitet. | Im Transaktionsverlauf in der Auszahlungs Anweisung als demnächst markiert | **Monat 3 (1. Woche)** |
-| **Auszahlungsdatum** | **Die Zahlung wird an den Verleger gesendet.** | **Gekennzeichnet als in Transaktionsverlauf gesendet und im Abschnitt "Zahlungen" der Auszahlungs Anweisung** | **Monat 3 (nicht später als der 15.)** |
+| Erstellungs Gewinn für ISV-Auszahlung | Bestimmen der Gebühren und Auszahlungs Einnahmen der Agentur | Im Transaktionsverlauf in der [Auszahlungs Anweisung](payout-statement.md) als nicht verarbeitet markiert | **Monat 3 (1. Woche)** |
+| Auszahlung vorbereiten | Der Gewinn ist für die monatliche Zahlung vorbereitet. | Im Transaktionsverlauf in der [Auszahlungs Anweisung](payout-statement.md) als demnächst markiert | **Monat 3 (1. Woche)** |
+| **Auszahlungsdatum** | **Die Zahlung wird an den Verleger gesendet.** | **Gekennzeichnet als in Transaktionsverlauf gesendet und im Abschnitt "Zahlungen" der [Auszahlungs Anweisung](payout-statement.md)** | **Monat 3 (nicht später als der 15.)** |
 | Von Kunde bezahlte Rechnung | Microsoft sammelt die Zahlung von Kunden | Keine Änderung | **Monat 4 bis 12** |
 |
 
@@ -48,10 +48,10 @@ Alle Käufe mit einer Kreditkarte oder einer monatlichen Rechnung verfügen übe
 | --- | --- | --- | --- |
 | Verwendung oder Monat der Transaktion | Der Kunde verwendet oder kauft einen Dienst. | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 1** |
 | Von Kunde bezahlte Rechnung | Ermitteln der Gesamtauslastung, des gesamten Transaktionswerts und der Kunden zahlungsrechnung | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 2** |
-| Erstellungs Gewinn für ISV-Auszahlung | Bestimmen der Gebühren und Auszahlungs Einnahmen der Agentur | Im Transaktionsverlauf in der Auszahlungs Anweisung als nicht verarbeitet markiert | **Monat 2** |
-| 30-tägige Beibehaltungszeitraum | Stellen Sie die Erfassung von Kosten, möglichen Rück Belastungs-und Erstattungs Anforderungen sicher. | Im Transaktionsverlauf in der Auszahlungs Anweisung als nicht verarbeitet markiert | **Monat 3** |
-| Auszahlung vorbereiten | Der Gewinn ist für die monatliche Zahlung vorbereitet. | Im Transaktionsverlauf in der Auszahlungs Anweisung als demnächst markiert | **Erste Woche des Monats 4** |
-| **Auszahlungsdatum** | **Die Zahlung wird an den Verleger gesendet.** | **Gekennzeichnet als in Transaktionsverlauf gesendet und im Abschnitt "Zahlungen" der Auszahlungs Anweisung** | **Monat 4 (spätestens 15.)** |
+| Erstellungs Gewinn für ISV-Auszahlung | Bestimmen der Gebühren und Auszahlungs Einnahmen der Agentur | Im Transaktionsverlauf in der [Auszahlungs Anweisung](payout-statement.md) als nicht verarbeitet markiert | **Monat 2** |
+| 30-tägige Beibehaltungszeitraum | Stellen Sie die Erfassung von Kosten, möglichen Rück Belastungs-und Erstattungs Anforderungen sicher. | Im Transaktionsverlauf in der [Auszahlungs Anweisung](payout-statement.md) als nicht verarbeitet markiert | **Monat 3** |
+| Auszahlung vorbereiten | Der Gewinn ist für die monatliche Zahlung vorbereitet. | Im Transaktionsverlauf in der [Auszahlungs Anweisung](payout-statement.md) als demnächst markiert | **Monat 4 (1. Woche)** |
+| **Auszahlungsdatum** | **Die Zahlung wird an den Verleger gesendet.** | **Gekennzeichnet als in Transaktionsverlauf gesendet und im Abschnitt "Zahlungen" der [Auszahlungs Anweisung](payout-statement.md)** | **Monat 4 (spätestens 15.)** |
 |
 
 \* Das Auszahlungsdatum liegt in der Pacific Standard Time (PST).
@@ -75,8 +75,8 @@ Im Anschluss finden Sie einen Beispielzeitplan:
 | Herausgeber wird über voraussichtliche Abschreibung informiert | 07.01.2021 | Herausgeber erhält eine E-Mail-Benachrichtigung mit der Information, dass der Kunde noch nicht bezahlt hat. Transaktions-ID und Dollarbetrag sind angegeben. |
 | Kunde erhält Kündigungsbenachrichtigung | 01.02.2021 | Keine |
 | Inkassoprozess endet/Betrag wird abgeschrieben | 15.02.2021 | Herausgeber erhält eine E-Mail-Benachrichtigung mit der Information, dass der Betrag abgeschrieben wurde. Transaktions-ID und Dollarbetrag sind angegeben. |
-| Auszahlung wird abgezogen | 01.03.2021 | Partner Center-Auszahlungsauszug des Herausgebers enthält negative Transaktion |
-| Auszahlung wird einbehalten | 15.03.2021 | Partner Center-Auszahlungsauszug enthält zukünftige Auszahlungen. Zahlungen an den Herausgeber werden erst wieder geleistet, wenn der Saldo nicht mehr negativ ist.  |
+| Auszahlung wird abgezogen | 01.03.2021 | Dem Verleger wird eine negative Transaktion in der Partner Center-Auszahlungs Anweisung angezeigt. |
+| Auszahlung wird einbehalten | 15.03.2021 | Zukünftige Auszahlungen werden in der Partner Center-Auszahlungs Anweisung angezeigt. Zahlungen an den Herausgeber werden erst wieder geleistet, wenn der Saldo nicht mehr negativ ist.  |
 |||
 
 \* Das Auszahlungsdatum liegt in der Pacific Standard Time (PST).
@@ -97,4 +97,4 @@ In der Regel senden wir die in einem Monat fälligen Zahlungen am 15. des Monats
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-Informieren Sie sich über die [Steuer Details](tax-details-marketplace.md).
+- [Steuerliche Aspekte für kommerzielle Marketplace-Herausgeber](tax-details-marketplace.md)

@@ -2,16 +2,16 @@
 title: Erstellen und Verwalten von privaten Azure Marketplace in Azure-Portal
 description: Erfahren Sie mehr über das Erstellen und Verwalten von privaten Azure Marketplace (Vorschau) im Azure-Portal.
 ms.prod: marketplace-customer
-ms.topic: article
+ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487702"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006938"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Erstellen und Verwalten von privaten Azure Marketplace (Vorschau) im Azure-Portal
 
@@ -37,8 +37,8 @@ Sie müssen diese Voraussetzungen erfüllen, bevor Sie die Marketplace-Administr
 
 - Sie haben Zugriff auf einen **globalen Administrator** Benutzer.
 - Der Mandant verfügt über mindestens ein Abonnement (kann ein beliebiger Typ sein).
-- Dem globalen Administrator Benutzer wird die Rolle " **Mitwirkender** " oder höher für das Abonnement zugewiesen, das Sie in Schritt 2 ausgewählt haben.
-- Für den Benutzer des globalen Administrators ist der Zugriff auf **Ja** festgelegt (siehe [Elevate-Access-Global-admin](/azure/role-based-access-control/elevate-access-global-admin)).
+- Dem globalen Administrator Benutzer wird die Rolle " **Mitwirkender** " oder höher für das ausgewählte Abonnement zugewiesen.
+- Für den Benutzer des globalen Administrators ist der Zugriff auf " **Ja** " festgelegt (siehe [erhöhen des Zugriffs zum Verwalten aller Azure-Abonnements und-Verwaltungs Gruppen](/azure/role-based-access-control/elevate-access-global-admin)).
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>Zuweisen der Marketplace-Administrator Rolle mithilfe von PowerShell
 
@@ -105,7 +105,6 @@ Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is availabl
 }
 
 Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-
 $elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
 
 if($elevatedAccessOnRoot.Count -eq 0)
@@ -222,6 +221,6 @@ Während die Produktdetailseite dem öffentlichen Azure Marketplace ähnelt, gib
 
     :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Angebots Banner mit dem Hinweis, dass ein Plan erstellt und verfügbare Pläne angezeigt werden können.":::
 
-## <a name="contact-support"></a>Kontaktieren Sie den Support.
+## <a name="contact-support"></a>Support kontaktieren
 
 Azure Marketplace Unterstützung finden Sie unter [Microsoft Q&A](/answers/products/). 

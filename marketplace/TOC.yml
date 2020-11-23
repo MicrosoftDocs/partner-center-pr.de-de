@@ -1,8 +1,11 @@
 - name: Microsoft Marketplace-Kundendokumentation
   href: index.yml
+- name: Azure Marketplace
   items:
     - name: Erstellen eines privaten Azure Marketplace
       href: create-manage-private-azure-marketplace.md
+    - name: Integration von Azure Marketplace-Partnerlösungen
+      href: partner-integrations.md
 - name: Verweis
   items:
     - name: Azure PowerShell

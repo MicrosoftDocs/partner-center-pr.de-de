@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/10/2020
-ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.date: 11/19/2020
+ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691315"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94932768"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,9 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für November 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+|Funktionen|[Neue, einheitliche Kontoverwaltungsoberfläche](2020-november.md#13)|18. November|
+|Angebote/Märkte|[Promotion für Office 365 E1 für mittelständische Unternehmen (LATAM, APAC und Indien)](2020-november.md#12)|18. November|
+|Funktionen|[Partner Center-API-Updates und Verbesserungen der Benutzeroberfläche zur Stärkung der Kundenprüfung in bestimmten Ländern](2020-november.md#11)|17. November|
 |Funktionen|[Änderung der Partnerabrechnungswährung für neue E-Commerce-Angebote in der EU/EFTA](2020-november.md#10)|17. November|
 |Funktionen|[API-Drosselung für Partner Center-APIs](2020-november.md#9)|17. November|
 |Funktionen|[409-Fehler aufgrund doppelter MCA-Anforderungen](2020-november.md#8)|16. November|

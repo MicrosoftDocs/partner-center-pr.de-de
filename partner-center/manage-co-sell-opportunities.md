@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9eb158163bb1a7ea5da0bc834e6bf7623f32a4dd
-ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
+ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "93363638"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417267"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Verwalten von Co-Selling-Verkaufschancen in Partner Center
 
@@ -40,7 +40,7 @@ Profitieren Sie von Co-Selling-Verkaufschancen.  Co-Selling-Möglichkeiten sind 
 **Lösungs Bewertung (SA)** – diese Arten von Vereinbarungen können nur von einer Gruppe von Partnern erstellt werden, die vom Geschäfts Team der Lösungs Bewertung geprüft werden, um Technologiebewertungen für Kunden durchzuführen, die Microsoft-Technologien verwenden oder planen.
 
 > [!NOTE]
-> Private Geschäfte, auch wenn Sie nicht wirklich kollaborativ sind, sind hier enthalten, um einen einfachen Weg für das Upgrade aller Pipeline Schritte auf eine Co-Selling-Verkaufschance in allen nicht terminalphasen zu bieten ( **gewonnen, verloren, abgelehnt und abgelaufen** ).
+> Private Geschäfte, auch wenn Sie nicht wirklich kollaborativ sind, sind hier enthalten, um einen einfachen Weg für das Upgrade aller Pipeline Schritte auf eine Co-Selling-Verkaufschance in allen nicht terminalphasen zu bieten (**gewonnen, verloren, abgelehnt und abgelaufen**).
 
 ## <a name="navigating-the-co-sell-section"></a>Navigieren im Co-Selling-Abschnitt
 
@@ -63,7 +63,7 @@ Sie können drei Arten von Verkaufschancen erstellen.
 
 Wählen Sie den Kunden für diesen speziellen Vertrag aus. Geben Sie den Speicherort ein, und geben Sie den Namen ein. Die Vorschlags Suche zeigt Empfehlungen basierend auf den Suchkriterien an. Da viele Unternehmen über mehr als eine Geschäftseinheit am gleichen Standort verfügen, werden möglicherweise mehrere Ergebnisse angezeigt. Wenn Sie nicht sicher sind, was Sie auswählen sollen, können Sie bestätigen, welche D-U-N-S-Nummer zu Ihrem Kunden gehört. Achten Sie darauf, die genaue Entsprechung für den Kunden auszuwählen, mit dem Sie arbeiten.
 
-Nachdem Sie auf **Wählen Sie den Kunden auswählen** , werden Sie aufgefordert, den Namen, die Telefonnummer und die e-Mail-Adresse für die Person einzugeben, die als Hauptkontakt Punkt für dieses Problem gilt. Diese Details sind optional und nur erforderlich, wenn Sie beabsichtigen, Microsoft-Verkäufe einzuladen, um Sie beim Engagement zu unterstützen. Klicken Sie auf **Weiter**.
+Nachdem Sie auf **Wählen Sie den Kunden auswählen**, werden Sie aufgefordert, den Namen, die Telefonnummer und die e-Mail-Adresse für die Person einzugeben, die als Hauptkontakt Punkt für dieses Problem gilt. Diese Details sind optional und nur erforderlich, wenn Sie beabsichtigen, Microsoft-Verkäufe einzuladen, um Sie beim Engagement zu unterstützen. Wählen Sie **Weiter** aus.
 
 > [!IMPORTANT]
 > Stellen Sie sicher, dass Sie die Zustimmung des Kunden erhalten haben, dem Microsoft seine Kontaktinformationen zur Verfügung zu stellen. Microsoft kann diese Informationen verwenden, um den Kunden direkt zu kontaktieren.
@@ -75,12 +75,12 @@ Geben Sie die Details des aktuellen Deals ein. Die unten definierten Felder kön
 | **Feldname** | **Obligatorisch/optional** | **Details** |
 |-------------|--------|-------|
 |**Name des Deals** | Obligatorisch. | Der Anzeige Name zur Identifizierung Ihres Deals zu einem späteren Zeitpunkt. |
-|**Location**| Obligatorisch. | Der MPN-Speicherort Bereich des Verweises. Verweis Benutzer mit diesem Speicherort können die Verweise anzeigen, wenn Sie Teil des Teams sind. Verweisadministratoren und verweisadministratoren mit globalem Gültigkeitsbereich können die Verweise unabhängig vom Standort anzeigen. Der Speicherort kann nicht bearbeitet werden, nachdem der Verweis erstellt wurde.|
+|**Speicherort**| Obligatorisch. | Der MPN-Speicherort Bereich des Verweises. Verweis Benutzer mit diesem Speicherort können die Verweise anzeigen, wenn Sie Teil des Teams sind. Verweisadministratoren und verweisadministratoren mit globalem Gültigkeitsbereich können die Verweise unabhängig vom Standort anzeigen. Der Speicherort kann nicht bearbeitet werden, nachdem der Verweis erstellt wurde.|
 |**Geschätzter Wert** | Obligatorisch. | Der Wert des Deals basierend auf den Informationen, die beim Erstellen des-Deals verfügbar sind.|
 |**Geschätztes Schluss Datum**| Obligatorisch.| Das Datum, an dem Sie den Umgang mit dem Kunden erwarten. |
 |**CRM-ID**| Optional | Markieren Sie den Umgang mit der ID der Verkaufschance im jeweiligen CRM zum Nachverfolgen.|
 |**Marketing Kampagnen-ID**| Optional | Erfassen Sie die Marketingkampagne, die zu diesem Problem geführt hat. Mit diesem Profil können Sie den ROI einer bestimmten Kampagne nachverfolgen, wenn Sie alle aus der Kampagne stammenden Geschäfte mit der gleichen ID markieren.|
-|**Notizen**| Optional | Aktualisieren Sie alle aktuellen Informationen, um anderen Mitarbeitern Ihres Unternehmens einen Einblick in den gleichen Umgang zu bieten, oder versuchen Sie, den aktuellen Zustand des Deals zu verstehen. Sie können dies auch als Kommunikationsprotokoll für Diskussionen zwischen Microsoft-Verkäufern und anderen Partnern in Ihrem Unternehmen verwenden.|
+|**Hinweise**| Optional | Aktualisieren Sie alle aktuellen Informationen, um anderen Mitarbeitern Ihres Unternehmens einen Einblick in den gleichen Umgang zu bieten, oder versuchen Sie, den aktuellen Zustand des Deals zu verstehen. Sie können dies auch als Kommunikationsprotokoll für Diskussionen zwischen Microsoft-Verkäufern und anderen Partnern in Ihrem Unternehmen verwenden.|
 
 ### <a name="add-team-members"></a>Hinzufügen von Teammitgliedern
 
@@ -100,14 +100,14 @@ In diesem Abschnitt müssen Sie die Informationen im Zusammenhang mit den Lösun
 
 Nachdem Sie die Lösungs Informationen bereitgestellt haben, klicken Sie auf Weiter, um zum Abschnitt zu wechseln, in dem Sie den Verkaufstyp festlegen können. Sie haben drei Optionen, wenn Sie Lösungen aus den ersten drei Optionen auswählen und keine Lösungs Bewertung:
 
-**Privates Geschäft** : Wenn Sie Microsoft nicht einladen und in diesem Schritt eine Einbindung erstellen, ist es vom Typ private Pipeline. Microsoft-Verkäufer haben keinen Einblick in die Details dieses Deals.
+**Privates Geschäft**: Wenn Sie Microsoft nicht einladen und in diesem Schritt eine Einbindung erstellen, ist es vom Typ private Pipeline. Microsoft-Verkäufer haben keinen Einblick in die Details dieses Deals.
 
 > [!Important]
 > Die Registrierung von Deals ist für private Geschäfte nicht anwendbar. Seien Sie vorsichtig, wenn Sie ein privates Geschäft mit berechtigten Lösungen erstellen, da diese nicht für die Registrierung in Partner Center qualifiziert sind.
 
-**Co-Selling-Vertrag:** Wenn Sie eine andere Option als die Standardauswahl für die Frage **"ermitteln Sie die Art der von Microsoft gewünschten Hilfe** " auswählen, wird ein Co-Selling-Deal durchgeführt, bei dem ein Microsoft-Verkäufer Ihnen möglicherweise bei der Schließung des Deals behilflich ist. Eine Anforderung der Hilfe von Microsoft ist keine Garantie dafür, dass ein Microsoft-Verkäufer an der Sache teilnehmen wird. Microsoft-Vertriebsmitarbeiter haben 14 Tage Zeit, um zu entscheiden, ob Sie teilnehmen möchten. Stellen Sie sicher, dass Sie im Abschnitt "Hinweise" den gewünschten Hilfe Typ identifizieren.
+**Co-Selling-Vertrag:** Wenn Sie eine andere Option als die Standardauswahl für die Frage **"ermitteln Sie die Art der von Microsoft gewünschten Hilfe**" auswählen, wird ein Co-Selling-Deal durchgeführt, bei dem ein Microsoft-Verkäufer Ihnen möglicherweise bei der Schließung des Deals behilflich ist. Eine Anforderung der Hilfe von Microsoft ist keine Garantie dafür, dass ein Microsoft-Verkäufer an der Sache teilnehmen wird. Microsoft-Vertriebsmitarbeiter haben 14 Tage Zeit, um zu entscheiden, ob Sie teilnehmen möchten. Stellen Sie sicher, dass Sie im Abschnitt "Hinweise" den gewünschten Hilfe Typ identifizieren.
 
-**Partner-zu-Partner-Arbeit (P2P)** : Sie können andere Partner zur Arbeit einladen, indem Sie auf den Link "Partner einladen" klicken. Im folgenden wird der Prozess zum Erstellen eines P2P-Vorgangs erläutert.
+**Partner-zu-Partner-Arbeit (P2P)**: Sie können andere Partner zur Arbeit einladen, indem Sie auf den Link "Partner einladen" klicken. Im folgenden wird der Prozess zum Erstellen eines P2P-Vorgangs erläutert.
 
 - **Wählen Sie einen Partner aus:** Nachdem Sie auf "einladen Partner" geklickt haben, können Sie mit der Eingabe des Partner namens beginnen, um eine vorgeschlagene Liste von Partnern zu erhalten, die mit dem Namen übereinstimmen, den Sie eingeben. Wählen Sie den Partner aus, an dem Sie interessiert sind, um zusätzliche Details für diesen Partner auszufüllen. Sie können nur nach Partnern suchen, die sich im Microsoft-Co-Selling-Ökosystem befinden und in Partner Center agieren.
 
@@ -135,9 +135,9 @@ Wenn Sie in dieser Phase einen neuen Co-Selling-Verkaufschancen von einem Micros
 
 - **Akzeptieren:** Geben Sie einen Namen für das Geschäft ein, bearbeiten Sie den geschätzten Wert und den geschätzten Kauf Zeitraum basierend auf ihrer Überprüfung. Nachdem Sie den Kontakt mit dem Kunden hergestellt haben, sollten Sie Informationen im Feld " **Notizen** " bereitstellen, um weitere Informationen zu den Anforderungen des Kunden zu erhalten. Sie können hier optional Ihre CRM-ID eingeben (nur für Ihre Referenz), die Marketingkampagnen-ID, die zu der jeweiligen Verkaufschance geführt hat, und Kontakte aus Ihrem Unternehmen hinzufügen, die an diesem Teil arbeiten werden.
 
-- Wählen Sie **Weiter** , wenn Sie fertig sind. Wir werden den Verweis auf **die nächste Phase** verschieben, was bedeutet, dass Sie den Kunden aktiv mit dem Kunden in Verbindung setzen möchten. Diese Informationen werden auch verwendet, um in Zukunft ähnliche Angebote zu finden.
+- Wählen Sie **Weiter**, wenn Sie fertig sind. Wir werden den Verweis auf **die nächste Phase** verschieben, was bedeutet, dass Sie den Kunden aktiv mit dem Kunden in Verbindung setzen möchten. Diese Informationen werden auch verwendet, um in Zukunft ähnliche Angebote zu finden.
 
-- **Ablehnen** : Wählen Sie den Grund für den Verlust des Deals aus, und fügen Sie Notizen hinzu, die Sie einschließen möchten, und wählen Sie dann **Schließen** aus. Wir archivieren Sie als **abgelehnt** und Benachrichtigen entweder Microsoft oder den Partner, der Ihnen diese Gelegenheit gesendet hat.
+- **Ablehnen**: Wählen Sie den Grund für den Verlust des Deals aus, und fügen Sie Notizen hinzu, die Sie einschließen möchten, und wählen Sie dann **Schließen** aus. Wir archivieren Sie als **abgelehnt** und Benachrichtigen entweder Microsoft oder den Partner, der Ihnen diese Gelegenheit gesendet hat.
 
 - Wenn Sie nicht innerhalb der vorgesehenen Zeit (derzeit 14 Tage) Antworten, archivieren wir Sie als **abgelaufen** und Benachrichtigen entweder Microsoft oder den Partner, der Ihnen diese Gelegenheit gesendet hat.
 
@@ -159,7 +159,7 @@ Im folgenden finden Sie die Tabelle mit den Verkaufsstufen und den entsprechende
 |**Name der Verkaufsphase**|**Prozentsatz der Verkaufsphase**|**Definition der Verkaufsphase**|
 |:----|:-----|:-----|
 |Erstellt|10 %|Erstellen eines ausgehenden Deals|
-|Zulässig|10 %|Akzeptieren eines eingehenden Deals.|
+|Akzeptiert|10 %|Akzeptieren eines eingehenden Deals.|
 |Qualified|20%|Qualifizieren Sie den Wert für das Geschäft und die Kundenanforderungen, bevor Sie fortfahren.|
 |Entstehen|40%|Entwickeln Sie das Problem weiter, um die detaillierten Anforderungen zum Vorbereiten eines POC-oder anderer Artefakte zu verstehen, die für einen formalen Vorschlag erforderlich sind.|
 |Proposed|60%|Erstellen eines formalen Angebots für den Kunden basierend auf Ihren Anforderungen.|
@@ -197,7 +197,7 @@ Sobald der Vorgang registriert ist, können Sie den Status der Überprüfung des
 
 In der folgenden Tabelle werden die Kombinationen von, die in dieser Phase des Deals eingeladen werden können, angezeigt.
 
-|**Ursprünglicher Typ**|**Wer kann eingeladen werden?**|**Notizen**|
+|**Ursprünglicher Typ**|**Wer kann eingeladen werden?**|**Hinweise**|
 |-----|:-----|:-----|
 |Privat|Microsoft und/oder andere Partner|Der Vorgang wird auf Co-Selling aktualisiert, wenn Microsoft eingeladen wird.|
 |Co-Selling|Andere Partner|Andere Partner können nur eingeladen werden, wenn Ihr Unternehmen den Vertrag initiiert hat. Partner können auf der Registerkarte eingehend nicht zu den Abschlüssen eingeladen werden.|
@@ -206,7 +206,7 @@ In der folgenden Tabelle werden die Kombinationen von, die in dieser Phase des D
 
 ### <a name="closed-stage"></a>Geschlossene Phase
 
-Dies ist die letzte Phase für alle Verkaufschancen. Sie können alle Geschäfte anzeigen, die sich in den Phasen "gewinnt", " **verloren", "abgelehnt** " und " **abgelaufen** " befinden. Es gibt keine Aktionen, die Sie in dieser Phase durchführen können.
+Dies ist die letzte Phase für alle Verkaufschancen. Sie können alle Geschäfte anzeigen, die sich in den Phasen "gewinnt", " **verloren", "abgelehnt**" und " **abgelaufen** " befinden. Es gibt keine Aktionen, die Sie in dieser Phase durchführen können.
 
 ## <a name="frequently-asked-questions"></a>Häufig gestellte Fragen
 
@@ -214,13 +214,7 @@ Dies ist die letzte Phase für alle Verkaufschancen. Sie können alle Geschäfte
 
 Nein. die Geschäfte können nicht geändert werden, sobald Sie in einen Terminal Zustand wechseln. "Abgelaufen", "ablehnen", "gewonnen" und "verloren" sind Terminal Zustände, in denen keine weiteren Updates für das Geschäft möglich sind Gehen Sie vorsichtig vor, wenn Sie den Deal in einen dieser Terminal Zustände verschieben.
 
-**Q2. Ich habe eine neue Verweis Benachrichtigung erhalten, kann Sie aber nicht in Partner Center finden?**
-
-Dies kann vorkommen, wenn in Ihrem Unternehmen mehrere Mandanten demselben MPN-Konto zugeordnet sind. Wechseln Sie zu den Partner Center-Kontoeinstellungen, und überprüfen Sie die dem Konto zugeordneten Mandanten. Erstellen Sie dann ein Support Ticket, das eine Verknüpfung der Mandanten angefordert hat. Geben Sie die Mandanten-ID an, in die Sie sich beim Support Ticket angemeldet haben.
-
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Bild, das die Kontoeinstellungen anzeigt, in denen Mandanten Informationen gefunden werden können.":::
-
-**Q3. Wer erhält eine e-Mail-Benachrichtigung von Partner Center?**
+**Q2. Wer erhält eine e-Mail-Benachrichtigung von Partner Center?**
 
 Der folgende Workflow erläutert, wie die e-Mails aus dem Partner Center-Referenzsystem für neue eingehende Partner Verweise an Partner gesendet werden.
 

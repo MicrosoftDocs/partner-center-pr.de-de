@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564730"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417250"
 ---
 # <a name="benefits-faq"></a>Häufig gestellte Fragen zu den Vorteilen
 
@@ -44,7 +44,7 @@ Verwenden Sie das folgende Verfahren, um Ihre Vorteile zu erneuern:
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 
-2. Wählen Sie im linken Navigationsbereich **MPN**aus.
+2. Wählen Sie im linken Navigationsbereich **MPN** aus.
 
 3. Wählen Sie auf der Registerkarte **MPN** die Option **Vorteile** aus.
 
@@ -87,16 +87,16 @@ Mithilfe der folgenden Schritte können Sie jeder Person in der Benutzer Verwalt
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 
-2. Wählen Sie im linken Navigationsbereich **MPN**aus.
+2. Wählen Sie im linken Navigationsbereich **MPN** aus.
 
-3. Wählen Sie **Vorteile**aus, und wählen Sie dann **Visual Studio**aus.
+3. Wählen Sie **Vorteile** aus, und wählen Sie dann **Visual Studio** aus.
 
 4. Weisen Sie die gewünschten Benutzer Ihren vorhandenen verfügbaren Visual Studio-Abonnements zu.
 
 Nachdem Sie das Abonnement zugewiesen haben, muss sich der Benutzer bei Visual Studio anmelden, um ihn zu verwalten.
 
 >[!Note]
-> Ein Benutzer, der einem Visual Studio-Abonnement auf Partner Center zugewiesen ist, kann erst 90 Tage nach der ursprünglichen Zuweisung entfernt werden.
+> Visual Studio-Abonnements können nach 90 Tagen nach der ursprünglichen Zuweisung von einem Abonnenten zu einem anderen neu zugewiesen werden.
 
 ## <a name="technical-benefits-and-support"></a>Technische Vorteile und Support
 
@@ -106,9 +106,9 @@ Installation, Aktivierung und andere produktbezogene Hilfe werden über Microsof
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 
-2. Wählen Sie im linken Navigationsbereich **MPN**aus.
+2. Wählen Sie im linken Navigationsbereich **MPN** aus.
 
-3. Wählen Sie **Vorteile**aus, und wählen Sie dann **technische Vorteile**aus.
+3. Wählen Sie **Vorteile** aus, und wählen Sie dann **technische Vorteile** aus.
 
 4. Verwenden Sie den Abschnitt Technische Vorteile, um eine Zugriffs-ID/Vertrags-ID zu aktivieren und zu erhalten.
 

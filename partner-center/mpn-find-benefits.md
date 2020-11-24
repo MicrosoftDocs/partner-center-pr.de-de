@@ -1,7 +1,7 @@
 ---
 title: Finden Sie Ihre Vorteile
 ms.topic: how-to
-ms.date: 09/02/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie Ihre MPN-Vorteile im Partner Center-Dashboard finden. Enthält Informationen dazu, wie Sie Ihre Zugriffs-ID und ihre Vertrags-ID für technische Vorteile finden.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175321"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812840"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Ermitteln Ihrer Microsoft Partner Network-Vorteile 
 
@@ -36,7 +36,7 @@ In diesem Artikel werden die Mitglieder der Microsoft Partner Network (MPN) erl�
 
 Als Microsoft Partner Network Mitglied hat Ihr Unternehmen Zugriff auf viele Vorteile, die möglicherweise beim Wachstum Ihres Unternehmens helfen. So können Sie herausfinden, was diese Vorteile sind:
 
-1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/home)an, wählen Sie **MPN**aus, und klicken Sie dann auf **Vorteile**.
+1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/home)an, wählen Sie **MPN** aus, und klicken Sie dann auf **Vorteile**.
 
 2. Aus Vorteilen können Sie die Vorteile von Interesse überprüfen, aktivieren, Sortieren oder herunterladen, die zu einer der Kategorien gehören, die Ihnen zur Verfügung stehen. Wählen Sie hierzu den Vorteil aus, zu dem Sie mehr erfahren möchten:
 
@@ -68,13 +68,13 @@ Technische Vorteile finden Sie in den Microsoft-Produktsupport-IDs, z. b. **Zugr
 
 1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an.
 
-2. Wählen Sie **MPN**und dann **Vorteile**aus, gefolgt von **technischen Vorteilen**.
+2. Wählen Sie **MPN** und dann **Vorteile** aus, gefolgt von **technischen Vorteilen**.
 
 3. Wählen Sie einen Vorteil aus der Liste aus. Erweitern Sie den Vorteil, um weitere Details anzuzeigen. 
 
    Sie sollten die jeweilige Produktsupport **Vertrags-ID** und die **Zugriffs-ID** sehen, die diesem Vorteil zugewiesen ist.  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Erweiterte Vorteile":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Beispiel für Gold-Kernkompetenz Support technischer Vorteil, der Microsoft-Produktsupport-IDs wie Vertrags-ID und Zugriffs-ID":::
 
    > [!NOTE]
    > Verfolgen Sie diese Support-IDs. Bestimmte Systeme können diese Abfragen, wenn Sie (oder einer der Benutzer Ihres Unternehmens) eine Supportanfrage im Zusammenhang mit einem bestimmten technischen Vorteil protokollieren. Alle Benutzer Ihres Unternehmens verwenden wahrscheinlich die gleiche Zugriffs-ID und Vertrags-ID.
@@ -83,7 +83,7 @@ Technische Vorteile finden Sie in den Microsoft-Produktsupport-IDs, z. b. **Zugr
 
 Informationen zu den Vorteilen, die mit den Microsoft-Action Pack, Silver-und/oder Gold-Kompetenzen verfügbar sind, finden Sie in den folgenden Ressourcen:
 
-- [Lizenz Tabelle für Microsoft Action Pack-Partner](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+- [Lizenz Tabelle für Microsoft Action Pack-Partner](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
 - [Lizenz Tabelle für Kompetenzpartner](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 

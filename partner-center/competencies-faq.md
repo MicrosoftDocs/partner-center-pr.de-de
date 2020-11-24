@@ -1,19 +1,19 @@
 ---
 title: 'Zuständigkeiten: häufig gestellte Fragen'
 ms.topic: article
-ms.date: 10/19/2020
+ms.date: 11/23/2020
 description: Antworten auf Fragen zum erreichen Microsoft Partner Network Gold-und Silber-Kompetenzen, zum Ablauf von Vorteilen, zur Verlängerung und zum Aktivieren von Lizenzen für Azure, Cloud, Visual Studio und technische und Supportleistungen
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: bdcb1db0dbeb96a5b732decc11691364ade36c13
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92755221"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812817"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Zuständigkeiten: häufig gestellte Fragen
 
@@ -54,7 +54,7 @@ Zeigen Sie die Insights-Berichte wie folgt an:
 
 1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
-1. Wählen Sie im Partner Center-Menü **Einblicke** aus, gefolgt von den **Kenntnissen der Organisation** . Ein kleineres Menü wird angezeigt.
+1. Wählen Sie im Partner Center-Menü **Einblicke** aus, gefolgt von den **Kenntnissen der Organisation**. Ein kleineres Menü wird angezeigt.
 
 1. Wählen Sie im Menü entweder **Training** oder **Microsoft Learn** aus.
 
@@ -79,7 +79,7 @@ Sehen Sie sich die folgenden Ressourcen an:
 
 - [Laden Sie](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) Lizenz Tabellen für Kompetenzpartner herunter.
 
-- [Laden Sie](https://assetsprod.microsoft.com/MPN-MAPS-Software-IUR-License-Table.xlsx) die Lizenz Tabelle für Microsoft Action Pack-Abonnement Partner herunter.
+- [Laden Sie](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf) die Lizenz Tabelle für Microsoft Action Pack-Abonnement Partner herunter.
 
 ## <a name="q-how-do-i-link-a-microsoft-certification-profile-id-mcp-id-or-mcid-to-my-microsoft-partner-center-account"></a>Q. Gewusst wie eine Microsoft-Zertifizierungs Profil-ID (MCP-ID oder MCID) mit meinem Microsoft Partner Center-Konto verknüpfen?
 

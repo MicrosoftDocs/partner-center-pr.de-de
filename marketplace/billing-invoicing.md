@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d0db9296157eb4a8f1d7ef7288d438cb39e1c026
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007223"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514774"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace Abrechnung und Rechnungsstellung
 
@@ -57,7 +57,7 @@ Wenn Sie Ihre Rechnung erhalten, variiert Folgendes:
 - Wenn Ihr Zahlungsinstrument eine Kreditkarte ist, werden Sie sofort nach dem Kauf der Reservierung in Rechnung gestellt. Diese Rechnung wird von ihrer monatlichen Rechnung getrennt.
 - Wenn Ihr Zahlungsinstrument "Check/Wire" ist, wird dieser Kauf in Ihre monatliche Marketplace-Rechnung aufgenommen.
 
-Rechnungen werden für Abrechnungskonten vom Typ „Microsoft Online Services-Programm“ (MOSP), „Microsoft-Kundenvereinbarung“ (Microsoft Customer Agreement, MCA) und „Microsoft Partner-Vereinbarung“ (Microsoft Partner Agreement, MPA) erstellt. Rechnungen werden basierend auf Ihrem Abrechnungs Kontotyp generiert. Azure Marketplace werden Sie nach dem Ende Ihres [Abrechnungszeitraums](/azure/cost-management-billing/understand/download-azure-invoice#why-you-might-not-see-an-invoice)einige Tage abgerechnet. Die Rechnung für Azure Marketplace-, Reservierungs-und Spot-VMS wird um den [neunten Tag des Monats](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)generiert. Es werden die entsprechenden Gebühren aus dem vorherigen Monat angezeigt. Wenn ein Benutzer beispielsweise am 1. März eine Reservierung gekauft hat und am 30. März eine weitere Reservierung erfolgt, umfasst eine einzige Rechnung im April beide Reservierungen.
+Rechnungen werden für Abrechnungskonten vom Typ „Microsoft Online Services-Programm“ (MOSP), „Microsoft-Kundenvereinbarung“ (Microsoft Customer Agreement, MCA) und „Microsoft Partner-Vereinbarung“ (Microsoft Partner Agreement, MPA) erstellt. Rechnungen werden basierend auf Ihrem Abrechnungs Kontotyp generiert. Azure Marketplace werden Sie nach dem Ende Ihres Abrechnungszeitraums einige Tage abgerechnet. Die Rechnung für Azure Marketplace-, Reservierungs-und Spot-VMS wird um den [neunten Tag des Monats](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)generiert. Es werden die entsprechenden Gebühren aus dem vorherigen Monat angezeigt. Wenn ein Benutzer beispielsweise am 1. März eine Reservierung gekauft hat und am 30. März eine weitere Reservierung erfolgt, umfasst eine einzige Rechnung im April beide Reservierungen.
 
 Weitere Informationen zu Rechnungen finden Sie Untergrund Legendes zu [Azure-Gebühren für externe Dienste](/azure/cost-management-billing/understand/understand-azure-marketplace-charges).
 

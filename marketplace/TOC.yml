@@ -1,11 +1,35 @@
 - name: Microsoft Marketplace-Kundendokumentation
   href: index.yml
+- name: Microsoft AppSource
+  items:
+    - name: Informationen zu Microsoft AppSource
+      href: appsource-overview.md
+    - name: Kaufen von Software in AppSource
+      href: purchase-software-appsource.md
 - name: Azure Marketplace
   items:
-    - name: Erstellen eines privaten Azure Marketplace
+    - name: Informationen zu Azure Marketplace
+      href: azure-marketplace-overview.md
+    - name: Erwerb
+      href: azure-purchasing-invoicing.md
+    - name: Abrechnung und Fakturierung
+      href: billing-invoicing.md
+    - name: Private Angebote
+      href: private-offers.md
+    - name: Berechtigung für die Abonnementübertragung
+      href: transfer-eligibility.md
+    - name: Erstellen und Verwalten eines privaten Azure Marketplace
       href: create-manage-private-azure-marketplace.md
     - name: Integration von Azure Marketplace-Partnerlösungen
       href: partner-integrations.md
+- name: Allgemeine Ressourcen
+  items:
+    - name: Erstattungsrichtlinien
+      href: refund-policies.md
+    - name: Verträge
+      href: legal-contracts.md
+    - name: Support
+      href: get-support.md
 - name: Verweis
   items:
     - name: Azure PowerShell

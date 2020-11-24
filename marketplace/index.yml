@@ -6,21 +6,51 @@ metadata:
   description: Erfahren Sie, wie Sie Lösungen, Anwendungen und Dienste von Microsoft-Partnern in unseren Online Geschäften finden und erwerben.
   ms.service: marketplace
   ms.topic: landing-page
-  author: dsindona
-  ms.author: dsindona
+  author: JasonWHowell
+  ms.author: jasonh
   ms.date: 11/17/2020
-  ms.openlocfilehash: ef9904ec327b26285e04aa4acc4ae11bf1def7b6
-  ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
+  ms.openlocfilehash: 00d4786e234f9ede011032a71233fdafa6724ab8
+  ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
   ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 11/18/2020
-  ms.locfileid: "94845253"
+  ms.lasthandoff: 11/21/2020
+  ms.locfileid: "95006921"
 landingContent:
+- title: Microsoft AppSource
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Was is Microsoft AppSource?
+      url: appsource-overview.md
+  - linkListType: get-started
+    links:
+    - text: Kaufen von Software in Microsoft AppSource
+      url: purchase-software-appsource.md
 - title: Azure Marketplace
   linkLists:
-  - linkListType: get-started
+  - linkListType: overview
+    links:
+    - text: Was ist Azure Marketplace?
+      url: azure-marketplace-overview.md
+  - linkListType: concept
+    links:
+    - text: Abrechnung und Fakturierung
+      url: billing-invoicing.md
+    - text: Berechtigung für die Abonnementübertragung
+      url: transfer-eligibility.md
+    - text: Integration von Azure Marketplace-Partnerlösungen
+      url: partner-integrations.md
+  - linkListType: how-to-guide
     links:
     - text: Erstellen und Verwalten eines privaten Azure Marketplace (Vorschau)
       url: create-manage-private-azure-marketplace.md
-    - text: Integration von Azure Marketplace-Partnerlösungen
-      url: partner-integrations.md
+- title: Häufige Szenarios
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Erstattungsrichtlinien
+      url: refund-policies.md
+    - text: Verträge
+      url: legal-contracts.md
+    - text: Anfordern von Support
+      url: get-support.md

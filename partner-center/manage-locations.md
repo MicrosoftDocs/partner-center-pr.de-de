@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Standorten im Partnerkonto
-ms.topic: article
-ms.date: 10/12/2020
+ms.topic: how-to
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie einen neuen Standort hinzufügen und wie die Standort-MPN-ID in Incentive-Programmen, CSP-Geschäftsaktionen, Abonnements und anderen Transaktionen verwendet wird.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100770"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514797"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Verwalten von MPN-Kontostandorten und Hinzufügen eines neuen Standorts
 
@@ -58,9 +58,9 @@ Geben Sie rechtliche Firmendetails an, einschließlich des rechtsgültigen Firme
 
 1. Melden Sie sich mit dem MPN-Konto im Partner Center an. Das MPN-Konto sollte über globale Administratorrechte oder Kontoadministratorrechte verfügen. 
 
-1. Wählen Sie das **Einstellungssymbol** und anschließend die **Partnereinstellungen** aus.
+1. Wählen Sie das **Einstellungssymbol** und anschließend die **Organisationseinstellungen** aus.
 
-2. Wählen Sie **Standorte** aus.
+2. Wählen Sie **Rechtliche Hinweise** und dann **Standorte** aus.
 
 3. Wählen Sie **Standort hinzufügen** aus, und fügen Sie die Adressdetails des Standorts ein, den Sie Ihrem Unternehmen hinzufügen möchten. Geben Sie auch einen Hauptansprechpartner für den Standort an.
 
@@ -69,18 +69,15 @@ Geben Sie rechtliche Firmendetails an, einschließlich des rechtsgültigen Firme
 
 ## <a name="change-global-partner-account-location"></a>Ändern des globalen Partnerkontostandorts
 
-1. Überprüfen Sie auf der Seite **[Standorte](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)** die Liste der Standorte, um sicherzustellen, dass der Standort, den Sie als juristische Entität wünschen, aufgeführt ist. Wenn dies nicht der Fall ist, fügen Sie ihn hinzu.
+1. Überprüfen Sie auf der Seite **[Geschäftsstandorte](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** die Liste der Standorte, um sicherzustellen, dass der Standort, den Sie als juristische Entität wünschen, aufgeführt ist. Wenn dies nicht der Fall ist, fügen Sie ihn hinzu.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="Screenshot: Liste aller aktuellen Standorte auf der Seite mit den Standorten für Partner Center-Konten":::
+   :::image type="content" source="images/accountsettings/location1.png" alt-text="Screenshot: Liste aller aktuellen Standorte auf der Seite mit den Standorten für Partner Center-Konten":::
 
-2. Wählen Sie **Partnerprofil** aus, und wählen Sie dann **Firmenprofil aktualisieren** aus.
-
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="Screenshot: Partner Center-Konto mit Informationen zum Partnerprofil und auswählbarer Aktualisierungsoption":::
-
+2. Wählen Sie **Rechtliche Hinweise** aus, und wählen Sie dann **Firmenprofil aktualisieren** aus.
+  
 3. Wählen Sie die Region und die juristische Entität aus, und klicken Sie auf **Senden**.
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="Screenshot zum Aktualisieren des rechtlichen Geschäftsprofils des Partners einschließlich Dropdownlisten, über die das Land oder die Region und die juristische Person aktualisiert werden können":::
-
+  
 ## <a name="next-steps"></a>Nächste Schritte
 
 - Erfahren Sie mehr über den [Überprüfungsprozess](verification-responses.md).

@@ -1,7 +1,7 @@
 ---
 title: Erwerben oder Verlängern von Microsoft Action Pack-Angeboten
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Hier erfährst du, wie du ein Microsoft Action Pack-Abonnement erwirbst und die Action Pack-Vorteile nutzen kannst. Darüber hinaus zeigen wir, wie du dein Abonnement verlängern, kündigen oder deine Abrechnung anzeigen kannst.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998374"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812850"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements oder der Silver- und Gold-Kompetenzen
 
@@ -52,7 +52,7 @@ Weitere Details zum Action Pack finden Sie auf der [Microsoft Partner Network](h
 ### <a name="check-your-renewal-eligibility"></a>Überprüfen Ihrer Berechtigung für eine Verlängerung
 
 >[!IMPORTANT]
->Wenn Sie zum Verlängern Ihres Abonnements in Partner Center eingeladen werden, beachten Sie geänderte Richtlinie für das Zeitfenster der Verlängerung. Sie können das Abonnement erst verlängern, wenn es abgelaufen ist. Wenn Ihr Abonnement beispielsweise am 22. Juni abläuft, können Sie es ab dem 23. Juni innerhalb von 30 Tagen verlängern.       
+>Wenn Sie zum Verlängern Ihres Abonnements in Partner Center eingeladen werden, beachten Sie geänderte Richtlinie für das Zeitfenster der Verlängerung. Sie können das Abonnement erst verlängern, wenn es abgelaufen ist. Wenn Ihr Abonnement beispielsweise am 22. Juni abläuft, können Sie es ab dem 23. Juni innerhalb von 30 Tagen verlängern.
 >Sie finden das Ablaufdatum Ihres Abonnements auf der Seite [**Mitgliedschaftsangebote**](https://partnercenter.microsoft.com/pcv/partnership/offers) (Anmeldung erforderlich). Wenn Sie zur Verlängerung in Partner Center berechtigt sind, führen Sie die folgenden Schritte aus.  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>So verlängern Sie ein Microsoft Action Pack-Abonnement in Partner Center
@@ -64,13 +64,13 @@ Weitere Details zum Action Pack finden Sie auf der [Microsoft Partner Network](h
     >[!NOTE]
     >Wenn **Abonnement verlängern** nicht angezeigt wird oder ausgeblendet ist, sind Sie noch nicht berechtigt, Ihr Action Pack-Abonnement zu verlängern. Wir haben unsere Richtlinie für das Zeitfenster Verlängerung geändert. Sie können das Abonnement erst verlängern, wenn es abgelaufen ist. Wenn Ihr Abonnement beispielsweise am 22. Juni abläuft, können Sie es ab dem 23. Juni innerhalb von 30 Tagen verlängern.  
 
-3. Wenn Sie per Kreditkarte bezahlen, folgen Sie den Anweisungen, um Ihre Kreditkarteninformationen hinzuzufügen. Wenn die Zahlung per elektronischer Überweisung erfolgt, geben Sie Namen, Telefonnummer und E-Mail-Adresse ein, und wählen Sie dann **Übermitteln** aus. 
-     
+3. Wenn Sie per Kreditkarte bezahlen, folgen Sie den Anweisungen, um Ihre Kreditkarteninformationen hinzuzufügen. Wenn die Zahlung per elektronischer Überweisung erfolgt, geben Sie Namen, Telefonnummer und E-Mail-Adresse ein, und wählen Sie dann **Übermitteln** aus.
+
 4. Überprüfe deine Auftragsdetails, und wähle dann **Kaufen** aus, um das Action Pack zu erwerben. Ihre Kreditkarte wird sofort belastet.
 
 5. Ihre Bestellung wird bestätigt. Wählen Sie **Schließen** aus.
 
-Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlängert. Sie können die automatische Verlängerung jederzeit in der Liste **Gekauft** deaktivieren. Allerdings können Sie die automatische Abonnementverlängerung erst wieder aktivieren, wenn Sie Ihr Abonnement erneut verlängern. 
+Ihr Action Pack-Abonnement wird automatisch jedes Jahr an diesem Datum verlängert.
 
 ### <a name="update-your-bill-to-address"></a>Aktualisieren Ihrer Rechnungsadresse
 
@@ -79,16 +79,6 @@ Beim Verlängern oder Erwerben von Action Pack haben Sie die Möglichkeit, Ihre 
  1. Nachdem Sie **Übermitteln** ausgewählt haben, können Sie die Details Ihres Kaufs überprüfen. Wenn Sie feststellen, dass Ihre Adresse aktualisiert werden muss, wählen Sie **Aktualisieren** aus.
   
  1. Aktualisieren Sie die Adresse auf der Seite **Partnerprofil**.
-
-## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>Deaktivieren der automatischen Verlängerung des Action Pack-Abonnements
-
-1. Zu Ihrer Seite [**Mitgliedschaftsangebote**](https://partnercenter.microsoft.com/pcv/partnership/offers) wechseln.  Wählen Sie **Microsoft Action Pack-Abonnement** aus, um die Abonnementdetails anzuzeigen. 
-
-2. Aktivieren Sie **Automatische Verlängerung deaktivieren**, wenn Sie Ihr Action Pack-Abonnement nicht jedes Jahr automatisch verlängern möchten. 
-
-    >[!NOTE]
-    >Wenn du die automatische Abonnementverlängerung deaktivierst, kannst du sie erst wieder aktivieren, wenn du das Abonnement erneut verlängerst. Wir erinnern dich vor Ablauf deines Abonnements an die Verlängerung.
-
 
 ## <a name="cancel-your-action-pack-subscription"></a>Kündigen Ihres Action Pack-Abonnements
 

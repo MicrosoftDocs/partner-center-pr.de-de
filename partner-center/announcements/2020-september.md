@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: 1020adc0b2410435b31726fcc8a44342064bc4e8
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
+ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031553"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "94878799"
 ---
 # <a name="september-2020-announcements"></a>Ankündigungen für September 2020
 
@@ -46,7 +46,7 @@ Das Microsoft 365 Admin Center verbessert die sichere Bereitstellung erworbener
 
 ### <a name="next-steps"></a>Nächste Schritte
 
-- Informieren Sie sich über die Microsoft 365 Admin Center-Software in der [Übersicht](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) sowie unter den [häufigen Aufgaben](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide) und den [Funktionen für Lizenzschlüssel](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- Informieren Sie sich über die Microsoft 365 Admin Center-Software in der [Übersicht](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) sowie unter den [häufigen Aufgaben](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true) und den [Funktionen für Lizenzschlüssel](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 - Leiten Sie diese Aktualisierungen an zuständige Teams in Ihrem Unternehmen weiter.
 
@@ -226,7 +226,7 @@ Die durch das russische föderale Gesetz Nr. 265-FZ eingeführten MwSt.-Änderu
 
 ### <a name="details"></a>Details
 
-Durch das russische föderale Gesetz Nr. 265-FZ vom 31. Juli 2020 wurde Artikel 149, Absatz 2, Unterpunkt 26 des russischen Steuergesetzbuchs geändert. Gemäß den Änderungen sind ab dem 1. Januar 2021 in Russland die Gewährung exklusiver IP-Rechte für Software und elektronische Datenbanken, die im einheitlichen Register **russischer** Software und elektronischer Datenbanken **nicht enthalten** sind, sowie das Erteilen der Nutzungsrechte für solche Software und Datenbanken (einschließlich Updates und Upgrades) wie auch das Gewähren des Remotezugriffs darauf über das Internet **nicht mehr von der Mehrwertsteuer befreit** . 
+Durch das russische föderale Gesetz Nr. 265-FZ vom 31. Juli 2020 wurde Artikel 149, Absatz 2, Unterpunkt 26 des russischen Steuergesetzbuchs geändert. Gemäß den Änderungen sind ab dem 1. Januar 2021 in Russland die Gewährung exklusiver IP-Rechte für Software und elektronische Datenbanken, die im einheitlichen Register **russischer** Software und elektronischer Datenbanken **nicht enthalten** sind, sowie das Erteilen der Nutzungsrechte für solche Software und Datenbanken (einschließlich Updates und Upgrades) wie auch das Gewähren des Remotezugriffs darauf über das Internet **nicht mehr von der Mehrwertsteuer befreit**. 
 
 **Bitte beachten Sie, dass nach den oben genannten Änderungen die Mehrwertsteuer in der durch die geltenden Gesetze definierten Höhe von MIOL auf alle nicht materiellen Microsoft-Produkte in Russland aufgeschlagen wird.**
 
@@ -337,7 +337,7 @@ Ab sofort ist Azure SQL Edge verfügbar – die Microsoft SQL-Daten-Engine für 
 ### <a name="details"></a>Details
 
 Heute kündigen wir die Verfügbarkeit von Azure SQL Edge an, einer für IoT-Workloads optimierten Engine für Echtzeitdaten. Diese Containerlösung basiert auf derselben Engine, die SQL Server und Azure SQL unterstützt, und bietet dieselbe branchenführende Sicherheit, bekannte Entwicklerfunktionen und -tools, die viele Teams bereits kennen und denen sie vertrauen.
-Azure SQL Edge kann ab **Donnerstag, dem 24. September** , von Cloud Solution Providers (CSPs) erworben werden.
+Azure SQL Edge kann ab **Donnerstag, dem 24. September**, von Cloud Solution Providers (CSPs) erworben werden.
 
 [Azure SQL Edge](https://aka.ms/sqledge) ist ein Container mit geringem Speicherbedarf, der das Streamen, Speichern und Analysieren von Daten unterstützt, um Einblicke in Echtzeit zu gewähren. Sie können ihn auf Edgeservern, Gateways und Geräten in verbundenen, nicht verbundenen oder hybriden Umgebungen bereitstellen.
 
@@ -432,7 +432,7 @@ Aktionen:
 
 #### <a name="mpa-reporting-in-partner-center"></a>MPA-Berichte im Partner Center
 
-1. Informieren Sie sich im MPA-Bericht über Details zu Ihren indirekten Vertriebspartnern, die über ein Konto im Partner Center verfügen, und über und den Annahmestatus ihrer MPAs. Um den Bericht anzuzeigen, melden Sie sich beim Partner Center an und navigieren im linken Menü zu **Analysieren/Vertriebspartneranalyse** .
+1. Informieren Sie sich im MPA-Bericht über Details zu Ihren indirekten Vertriebspartnern, die über ein Konto im Partner Center verfügen, und über und den Annahmestatus ihrer MPAs. Um den Bericht anzuzeigen, melden Sie sich beim Partner Center an und navigieren im linken Menü zu **Analysieren/Vertriebspartneranalyse**.
 
 2. Klicken Sie auf das Downloadsymbol auf der rechten Seite, um den Bericht herunterzuladen.
 3. Öffnen Sie eine leere Excel-Datei, und ziehen Sie die heruntergeladene TSV-Datei auf die Excel-Datei.

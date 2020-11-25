@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: e469f3a99a07715ebadf3b6bcca7b1cf1db46c44
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: f3503e4edf9b5e9081eb53b80a32f451db861a70
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031803"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947680"
 ---
 # <a name="august-2020-announcements"></a>Ankündigungen für August 2020
 
@@ -167,8 +167,6 @@ Das neue Advanced Communications-Add-On für Microsoft Teams ist jetzt für 12 
 
 Beim Start veröffentlicht
 - Begrenzung von Liveereignissen auf 20.000 Teilnehmer (50 gleichzeitig, 16 Stunden)
-- Integration der Compliance-Aufzeichnung (ISV) 
-- Integration der Contact Center-Lösung (ISV) 
 
 Später im Kalenderjahr 2020 veröffentlicht
 - Interaktive Teams-Besprechung mit 1.000 Personen 

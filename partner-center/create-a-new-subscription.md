@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 8c3cfc2a6576029a8fdfb902a7b3889b4ea6c628
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000524"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038879"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Erstellen, Aussetzen oder Stornieren von Kundenabonnements
 
@@ -36,8 +36,8 @@ Nachdem Sie für Ihre Kunden einen Datensatz im Partner Center erstellt haben, k
 
 Einige Angebote sind auf ein Abonnement pro Kunde beschränkt. Eine Liste der eingeschränkten Angebote finden Sie im Partner Center auf der Seite für Preise und Angebote.
 
-> [!IMPORTANT]
-> Als Partner im CSP-Programm können Sie nur **Lizenz basierte Saas-** Abonnements von ISV-Verlegern innerhalb von Partner Center erwerben. Dies bedeutet, dass Sie alle **lizenzbasierten Saas-** Angebote erwerben können, die der ISV-Verleger Ihnen zur Verfügung gestellt hat, einschließlich [exklusiver Angebote](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , auf die Sie Zugriff haben. Zum Erwerb oder zur Verwaltung anderer kommerzieller Marketplace-Angebote von ISVs (z. b. **nutzungsbasierte**, gemessene oder Verbrauchs basierte Angebote mit Azure-Anwendungen, Containern oder VMS) müssen Sie das Azure- [Verwaltungs Portal](https://portal.azure.com/)aufrufen. Weitere Informationen finden Sie unter [erwerben kommerzieller Marketplace-Produkte](csp-commercial-marketplace-purchase.md).
+>[!IMPORTANT]
+> Als Partner im CSP-Programm können Sie **Lizenz basierte** oder getaktete Saas **metered** -Abonnements von ISV-Verlegern innerhalb von Partner Center erwerben. Dies bedeutet, dass Sie ein **Lizenz basiertes** **oder** getaktetes SaaS-Angebot erwerben können, das der ISV-Verleger zur Verfügung gestellt hat, einschließlich [exklusiver Angebote](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , auf die Sie Zugriff haben. Zum Erwerb oder zur Verwaltung anderer kommerzieller Marketplace-Angebote von ISVs (z. b. nutzungsbasierte Angebote mit Azure-Anwendungen, Containern oder VMS) müssen Sie zum [Azure-Portal](https://portal.azure.com/)wechseln.
 
 ## <a name="create-a-new-subscription"></a>Erstellen eines neuen Abonnements
 
@@ -50,7 +50,7 @@ Einige Angebote sind auf ein Abonnement pro Kunde beschränkt. Eine Liste der ei
 4. Um nur bestimmte Arten von Abonnements anzuzeigen, treffen Sie eine Auswahl bei den verfügbaren Filter:
    - **Herausgeber**: Wählen Sie **Microsoft** aus, um nur Angebote von Microsoft oder **Partnern** anzuzeigen, um kommerzielle Marketplace-Produkte anzuzeigen, die von ISVs veröffentlicht werden.
    - **Abrechnungstyp**: Wählen Sie den Typ der Abonnement Abrechnung aus, den Sie verwenden möchten: **Lizenz** oder **Nutzung**. Informationen, die Ihnen bei der Entscheidung zwischen monatlicher und jährlicher Abrechnungs Häufigkeit helfen, finden Sie unter [Lizenz basierte Abrechnung](license-based-billing.md) .
-   - **Kategorie**: Wählen Sie **Enterprise**, **Small Business**oder **Testversion**aus. Informationen zu Testabonnements finden Sie unter [Testversionen von Microsoft-Produkten anbieten](offer-your-customers-trials-of-microsoft-products.md).
+   - **Kategorie**: Wählen Sie **Enterprise**, **Small Business** oder **Testversion** aus. Informationen zu Testabonnements finden Sie unter [Testversionen von Microsoft-Produkten anbieten](offer-your-customers-trials-of-microsoft-products.md).
 
 5. Wählen Sie die Produkt Abonnements aus, die Sie für Ihren Kunden erwerben möchten. Welche Produkte Sie sehen, hängt vom Typ des Kunden Segments (Education, Government usw.) und den von Ihnen angewendeten Filtern ab. Einige Angebote, die auf dem Marketplace angezeigt werden, sind möglicherweise nicht immer für einen bestimmten Kunden oder einen bestimmten CSP-Partner verfügbar. Dies kann folgende Ursache haben:
 
@@ -60,17 +60,17 @@ Einige Angebote sind auf ein Abonnement pro Kunde beschränkt. Eine Liste der ei
 
    - Für ISV-SaaS-Angebote gibt es möglicherweise einige Gründe, warum das Angebot nicht erworben werden kann: der ISV unterstützt das Abrechnungs Land oder die Region des Kunden möglicherweise nicht. der ISV hat möglicherweise entschieden, das Angebot nicht über das CSP-Programm verfügbar zu machen. oder der ISV hat das Angebot möglicherweise nur für bestimmte CSP-Partner [exklusiv](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) gestaltet. Das ISV-Angebot kann auch nicht über das Partner Center (z. b. Container oder einige Verwendungs basierte Angebote) übertragen werden.  
 
-6. Geben Sie für jedes Abonnement, das Sie hinzufügen möchten, die Anzahl der Lizenzen (falls erforderlich) ein, und wählen Sie **zum Warenkorb hinzufügen**aus.
+6. Geben Sie für jedes Abonnement, das Sie hinzufügen möchten, die Anzahl der Lizenzen (falls erforderlich) ein, und wählen Sie **zum Warenkorb hinzufügen** aus.
 
 7. Nachdem Sie Abonnements hinzugefügt haben, wählen Sie **überprüfen** aus, und überprüfen Sie Ihre Bestellung.
 
-8. Nachdem Sie Ihre Bestellungen überprüft haben und bereit sind, diese Abonnements zu erwerben, wählen Sie **kaufen**aus.
+8. Nachdem Sie Ihre Bestellungen überprüft haben und bereit sind, diese Abonnements zu erwerben, wählen Sie **kaufen** aus.
 
 9. Wenn Sie ein Abonnement für einen Kunden erworben haben, tritt Folgendes auf:
 
     - Sie können das Abonnement überprüfen oder bearbeiten, indem Sie den Abonnement Namen **auf der Abonnementseite des** Kunden auswählen. Dort können Sie Add-On-Lizenzen auswählen, falls verfügbar, die Menge der Lizenzen ändern oder das Abonnement aussetzen.
 
-    **Für ISV Saas-Abonnements (Lizenz basiert):**
+    **Für ISV Saas-Abonnements (Lizenz basierte und gemessene Abonnements):**
     - Sie erhalten einen Link zur Website des ISV-Verlegers. Dieser Link soll Ihnen helfen, die Bereitstellung oder das Konto für das Abonnement des Kunden abzuschließen.
       
     >[!NOTE]
@@ -147,11 +147,11 @@ Gehen Sie zum Kündigen eines lizenzbasierten SaaS-Abonnements eines ISV-Herausg
 
 3. Suchen Sie das Abonnement, das Sie abbrechen möchten.
 
-4. Wählen Sie in der Spalte **Status** den Wert **Abbrechen**aus. Wählen Sie anschließend **Übermitteln** aus, um Ihre Änderungen zu übermitteln.
+4. Wählen Sie in der Spalte **Status** den Wert **Abbrechen** aus. Wählen Sie anschließend **Übermitteln** aus, um Ihre Änderungen zu übermitteln.
 
-5. Wenn ein Dialogfeld angezeigt wird, füllen Sie alle relevanten Details aus, und wählen Sie dann **senden**aus.
+5. Wenn ein Dialogfeld angezeigt wird, füllen Sie alle relevanten Details aus, und wählen Sie dann **senden** aus.
 
-6. Um den Abbruch zu bestätigen, wählen Sie **Ja, Abbrechen**aus.
+6. Um den Abbruch zu bestätigen, wählen Sie **Ja, Abbrechen** aus.
 
 > [!NOTE]
 > Sie haben auch die Möglichkeit, ein Azure Marketplace Abonnement mithilfe von APIs abzubrechen. Informationen hierzu finden Sie unter [Abbrechen eines Azure Marketplace Abonnements](/partner-center/develop/cancel-an-azure-marketplace-subscription).

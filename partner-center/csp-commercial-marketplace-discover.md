@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e89473cf095be4cc87c96f1c2a6d0da224eccedd
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000414"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038849"
 ---
-# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>Entdecken Sie Angebote und Preise im Partner Center kommerziell Marketplace
+# <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Entdecken Sie Angebote und Preise im kommerziellen Marketplace von Partner Center
 
 **Zielgruppe**
 
@@ -28,21 +28,21 @@ ms.locfileid: "91000414"
 - Globaler Administrator
 - Administrator-Agent
 
-Wenn unabhängige Software Anbieter (Independent Software Anbieters, ISVs) ein Angebot im kommerziellen Marketplace veröffentlichen möchten, können Sie auch entscheiden, ob das Angebot im CSP-Programm zur Verfügung gestellt werden soll. Wenn Sie sich entscheiden, das Angebot über das CSP-Programm zu verkaufen, sollte CSP-Partner das Angebot im Partner Center Marketplace-Bereich sehen.
+Wenn unabhängige Software Anbieter (Independent Software Anbieters, ISVs) ein Angebot im kommerziellen Marketplace veröffentlichen möchten, können Sie auch entscheiden, ob das Angebot im CSP-Programm zur Verfügung gestellt werden soll. Wenn Sie sich entscheiden, das Angebot über das CSP-Programm zu verkaufen, sollte CSP-Partner das Angebot im Bereich Partner Center Marketplace sehen.
 
 Wenn ein ISV-Angebot im Partner Center nicht erwartungsgemäß angezeigt wird, liegt dies möglicherweise daran, dass Folgendes der Fall ist:
 
-- Der ISV hat beschlossen, das Angebot nicht über das CSP-Programm zu verkaufen. Beispielsweise können einige ISV-Produkte in anderen Bereichen des kommerziellen Marketplace (z. b. in [Microsoft AppSource](https://appsource.microsoft.com/) und [Azure Marketplace](https://azuremarketplace.microsoft.com/)) verfügbar gemacht werden, werden aber möglicherweise nicht für CSPs im Partner Center-Marketplace angezeigt.
+- Der ISV hat beschlossen, das Angebot nicht über das CSP-Programm zu verkaufen. Beispielsweise können einige ISV-Produkte in anderen Bereichen des kommerziellen Marketplace (z. b. in [Microsoft AppSource](https://appsource.microsoft.com/) und [Azure Marketplace](https://azuremarketplace.microsoft.com/)) zur Verfügung gestellt werden, werden aber möglicherweise nicht für Partner im CSP-Programm im Partner Center Marketplace angezeigt.
 
 - Der ISV beschloss, das Angebot ausschließlich für eine ausgewählte Anzahl von CSP-Partnern exklusiv zu gestalten. Weitere Informationen zu exklusiven Angeboten finden Sie unter weiter unten in diesem Hilfethema.
 
-- Der Angebotstyp kann nicht über das Partner Center oder Azure-Portal (z. b. Container oder einige Verwendungs basierte Angebote) übertragen werden.
+- Der Angebotstyp kann nicht über Partner Center oder Azure-Portal (z. b. Container oder einige Verwendungs basierte Angebote) transaktierbar sein.
 
 - Das Abrechnungs Land der zugeordneten Kunden wird für dieses ISV-Angebot möglicherweise nicht unterstützt.
 
 ## <a name="view-marketplace-offers-in-partner-center"></a>Anzeigen von Marketplace-angeboten im Partner Center
 
-Zum Anzeigen der verfügbaren kommerziellen Marketplace-Angebote im CSP-Programm: 
+Zum Anzeigen der verfügbaren kommerziellen Marketplace-Angebote im CSP-Programm:
 
 1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an, und wählen Sie dann im linken Navigationsmenü **CSP** aus.
 
@@ -78,9 +78,9 @@ Führen Sie die folgenden Schritte aus, um die neuesten Preis Details zu einem A
 
 1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an, und wählen Sie dann im linken Navigationsmenü **CSP** aus.
 
-2. Wählen Sie **verkaufen**aus, gefolgt von den **Preisen und angeboten**.
+2. Wählen Sie **verkaufen** aus, gefolgt von den **Preisen und angeboten**.
 
-3. Scrollen Sie nach unten zum Abschnitt **Marketplace** , wählen Sie einen Standort aus, und laden Sie **Marketplace-Preise**herunter. Dadurch wird eine Tabelle mit den neuesten Preisdaten für SaaS und Lizenz basierte Angebote generiert, die von ISV-Verlegern zur Verfügung gestellt werden. Einige Azure-Anwendungs Preise können auch hier angezeigt werden. Diese Informationen werden täglich aktualisiert, sodass Sie die aktuellen Preise beliebig oft überprüfen können.
+3. Scrollen Sie nach unten zum Abschnitt **Marketplace** , wählen Sie einen Standort aus, und laden Sie **Marketplace-Preise** herunter. Dadurch wird eine Kalkulations Tabelle mit den neuesten Preisdaten für SaaS, Lizenz basierte Angebote und gemessenen angeboten, die von ISV-Verlegern verfügbar sind, generiert. Einige Azure-Anwendungs Preise können auch hier angezeigt werden. Diese Informationen werden täglich aktualisiert, sodass Sie die aktuellen Preise beliebig oft überprüfen können.
 
 4. Wenn ein ISV-Produkt einen kostenlosen Testzeitraum enthält, werden in der Kalkulations Tabelle zwei Zeilen für das Produkt angezeigt:
 

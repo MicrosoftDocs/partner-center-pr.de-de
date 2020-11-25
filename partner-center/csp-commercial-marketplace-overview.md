@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000404"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038828"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Übersicht über den kommerziellen Marketplace im Partner Center
 
@@ -55,7 +55,7 @@ Als Partner im CSP-Programm können Sie viele kommerzielle Marketplace-Aktivitä
 
 - Das [Microsoft Azure Verwaltungs Portal](https://portal.azure.com/)
 
-    Or
+    oder
 
 - System oder Website eines Drittanbieter-ISV-Verlegers
 
@@ -68,7 +68,7 @@ Besuchen Sie die [Grundlagen der Abrechnung](billing-basics.md) , um mehr darüb
 
 In den folgenden Tabellen erfahren Sie, wo Sie eine bestimmte Marketplace-Aktivität für Lizenz basierte oder nutzungsbasierte ISV-Angebote durchführen können.
 
-|**Für Lizenz basierte SaaS-Angebote von ISVs**  |**Verwenden Sie**  |
+|**Für Lizenz basierte oder getaktete SaaS-Angebote von ISVs**  |**Verwenden Sie**  |
 |:------------------------------------|:------------------|
 |So finden Sie verfügbare Angebote und suchen nach verfügbaren angeboten  | Partner Center-Dashboard oder Partner Center-APIs  |
 |So erwerben Sie ein Angebot  | Partner Center-Dashboard oder Partner Center-APIs  |

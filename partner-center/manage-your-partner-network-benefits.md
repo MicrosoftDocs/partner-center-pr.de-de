@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 321e3c7f48106d29e44941f24b9cd709662618a9
-ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
+ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "92523585"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94932842"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Verwalten von Microsoft Partner Network-Mitgliedschaftsvorteilen und -Angeboten im Partner Center
 
@@ -43,7 +43,7 @@ Nach dem Erwerb eines Mitgliedschaftsvorteilspakets müssen Sie Softwareschlüss
 
 Vorteilspakete umfassen Zuweisungen von lizenzierter Software, Clouddiensten, Visual Studio-Abonnements und technischem Support. Vorteilspakete können auch bestimmte Markteinführungsressourcen und -angebote sowie marktbezogene Programme enthalten. Ausführliche Informationen zum Action Pack-Abonnement finden Sie auf der [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software)-Website.  
 
-Wenn Sie alle Ihre Mitgliedschaftsvorteile anzeigen und verwalten möchten, navigieren Sie zu Ihrer Seite [**Vorteile**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Alternativ können Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard) anmelden, im Menü auf der linken Seite die [ **Option „Vorteile“** ] auswählen und dann aus den angezeigten Vorteilsoptionen auswählen.  
+Wenn Sie alle Ihre Mitgliedschaftsvorteile anzeigen und verwalten möchten, navigieren Sie zu Ihrer Seite [**Vorteile**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Alternativ können Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) anmelden, im Menü auf der linken Seite die [**Option „Vorteile“** ] auswählen und dann aus den angezeigten Vorteilsoptionen auswählen.  
 
 Zum Aktivieren der meisten Vorteile oder zum Herunterladen zugehöriger Softwareschlüssel usw. erfordert Partner Center in der Regel eine Person, der die Rolle „Globaler Administrator“ oder „MPN-Partneradministrator“ zugewiesen ist. Wenn keine Vorteile angezeigt werden oder Vorteile nicht aktiviert werden können, wenden Sie sich an Ihren globalen Partner Center-Administrator, um sicherzustellen, dass Sie über die richtigen Berechtigungen verfügen. [Weitere Informationen zu Partner Center-Rollen](permissions-overview.md).
 
@@ -63,15 +63,34 @@ Zum Aktivieren der meisten Vorteile oder zum Herunterladen zugehöriger Software
 
    d. Folgen Sie den Links zum Herunterladen und Installieren der Softwareinstallationspakete.
 
-## <a name="manage-cloud-services-benefits"></a>Verwalten der Clouddienstvorteile
+## <a name="azure-and-cloud-products"></a>Azure- und Cloudprodukte
 
-1. Wählen Sie **Cloud** aus, um die Liste der Abonnements für cloudbasierte Dienste anzuzeigen.
+Auf der Registerkarte **Azure- und Cloudprodukte** werden die nutzungsbasierten Abonnements (Azure-Gutschrift) und die lizenzbasierten Abonnements (z. B. Office 365), die Ihnen bereitgestellt werden, die Anzahl der Lizenzen für jedes Produkt, der Angebotstyp, durch den dieses Vorteilsprodukt bereitgestellt wurde, der Vorteilstyp (unabhängig davon, ob er vom Kern stammt oder inkrementell ist) sowie das Ablaufdatum dieses Vorteils angezeigt.
 
-2. Suchen Sie das gewünschte Abonnement oder Produkt, und wählen Sie dann den Pfeil nach unten rechts in der Zeile für das Abonnement oder Produkt aus, um Details zum Abonnement oder Produkt anzuzeigen.
+:::image type="content" source="images/benefits/azuretab.png" alt-text="Registerkarte „Azure- und Cloudprodukte“":::
 
-3. Weisen Sie sich selbst als Benutzer zu, um das nutzungsbasierte Microsoft Azure-Abonnement zu aktivieren. Rufen Sie das Microsoft Azure-Portal auf, um das Abonnement zu verwalten.
+### <a name="usage-based-subscriptions---microsoft-azure-credit"></a>Nutzungsbasierte Abonnements – Microsoft Azure-Gutschrift
 
-   Wählen Sie zum Aktivieren von lizenzbasierten Abonnements **Schlüssel abrufen** aus, um die Produktlizenzschlüssel zu kopieren, und befolgen Sie dann die Anweisungen zum Aktivieren des Abonnements.  
+Es gibt zwei Arten von nutzungsbasierten Abonnements, die Sie je nach Angebotstyp, der für Sie als MPN-Partner aktiv ist (MAPS, Silver und/oder Gold), erhalten können. Dies ist die monatliche Gutschrift oder die Massengutschrift (Bulk Credit).
+
+Ihnen kann Folgendes bereitgestellt werden:
+
+- 100 USD/Monat (oder gleichwertiger Betrag in lokaler Währung) als monatliche Azure-Gutschrift und/oder
+- 6\.000 USD, 12.000 USD bzw. 13.000 USD/Jahr (oder jeweils gleichwertiger Betrag in lokaler Währung) als Azure Bulk Credit
+
+Wenn Sie ein Microsoft Azure-Abonnement in Partner Center aktivieren möchten, weisen Sie den Zugriff einem Benutzer innerhalb des Unternehmens (einschließlich Gastbenutzern) zu, für den ein Benutzereintrag in Ihrem Azure Active Directory erstellt ist.
+Bei der monatlichen Azure-Gutschrift von 100 USD/Monat (oder einem gleichwertigen Betrag in lokaler Währung) können Sie jederzeit Benutzer zu diesem Abonnement hinzufügen oder daraus entfernen. 
+
+Bei Azure Bulk Credit (jährlich) ist die Option zum Entfernen nicht in Partner Center verfügbar, aber Sie können das Massenguthaben während des Registrierungsjahres an eine andere Person übertragen. Ein Abonnement vom Typ Azure Bulk Credit (jährlich) kann nicht mit anderen Lizenzierungs-, Prepaid- oder Guthabenangeboten (z. B. Microsoft Enterprise Agreement, Cloud Solution Partner, Azure in Open, Azure Pass, Action Pack usw.) kombiniert werden.
+
+## <a name="license-based-subscriptions"></a>Lizenzbasierte Abonnements
+
+Im Abschnitt für lizenzbasierte Abonnements auf der Registerkarte „Azure- und Cloudprodukte“ sind alle Cloudprodukte aufgeführt, für die ein Product Key zur Aktivierung erforderlich ist (z. B. Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic, Power BI usw.) und die Ihnen je nach Angebotstyp angeboten werden, der für Sie als MPN-Partner aktiv ist (MAPS, Silver oder Gold).
+
+Zum Aktivieren der lizenzbasierten Abonnements klicken Sie auf das Dropdownsymbol neben dem betreffenden Produkt, und lesen Sie die Anweisungen zum Einlösen der Schlüssel. Nachdem Sie die Anweisungen gelesen haben, wählen Sie den Link aus, der Sie zum Portal zum Einlösen von Schlüsseln sowie zum zugewiesenen Schlüssel für Ihr Produkt weiterleitet.
+
+>[!IMPORTANT]
+>Beachten Sie, dass nach dem Einlösen eines Schlüssels dieser Schlüssel nicht ein zweites Mal eingelöst werden kann. Seien Sie sich deshalb im Klaren darüber, ob Sie weitere Lizenzen (Arbeitsplätze) hinzufügen oder das Enddatum verlängern müssen. Wenn Sie weitere Lizenzen hinzufügen und das Enddatum nicht verlängern, stellt Ihnen das System ein aktives Abonnement für weniger als 12 Monate zur Verfügung. Vergewissern Sie sich, dass Sie mit den richtigen Anmeldeinformationen angemeldet sind, um die Schlüssel auf dem richtigen Mandanten zu aktivieren.
 
 ## <a name="manage-visual-studio-subscriptions"></a>Verwalten von Visual Studio-Abonnements
 
@@ -79,7 +98,7 @@ Zum Aktivieren der meisten Vorteile oder zum Herunterladen zugehöriger Software
 
 2. Suchen Sie das gewünschte Abonnement, und wählen Sie dann den Pfeil nach unten rechts in der Zeile aus, um die Details zum Abonnement anzuzeigen.
 
-3. Wählen Sie zum Aktivieren eines Visual Studio-Abonnements einen Benutzer aus der Liste aus, und wählen Sie dann **Benutzer zuweisen** .
+3. Wählen Sie zum Aktivieren eines Visual Studio-Abonnements einen Benutzer aus der Liste aus, und wählen Sie dann **Benutzer zuweisen**.
 
    > [!IMPORTANT]  
    > Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen**[neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
@@ -113,14 +132,14 @@ Gehen Sie folgendermaßen vor, um Ihre technischen Vorteile in Partner Center an
 
    **Technischer Support (Break-Fix)** : Nutzen Sie diesen technischen Support, wenn Funktionen beeinträchtigt sind oder nicht erwartungsgemäß funktionieren (wenn beispielsweise eine Fehlermeldung ausgegeben wird). Hier einige Erläuterungen:
 
-   - Nur für Gold-/Silver-Kompetenzpartner (nicht für Action Pack-Abonnenten verfügbar). Nutzen Sie **Signature Product Support** für **Cloudprodukte** .
+   - Nur für Gold-/Silver-Kompetenzpartner (nicht für Action Pack-Abonnenten verfügbar). Nutzen Sie **Signature Product Support** für **Cloudprodukte**.
 
-   - Sowohl für Action Pack-Abonnenten als auch für Gold-/Silver-Kompetenzpartner. Nutzen Sie **Microsoft-Produktsupport** -Incidents für **aktuelle lokale Produkte** (nur derzeit gültige und Vorgängerversionen).
+   - Sowohl für Action Pack-Abonnenten als auch für Gold-/Silver-Kompetenzpartner. Nutzen Sie **Microsoft-Produktsupport**-Incidents für **aktuelle lokale Produkte** (nur derzeit gültige und Vorgängerversionen).
 
      >[!NOTE]
      > Für technische Supportanfragen im Zusammenhang mit lokalen, Azure- (nicht CSP) und Dynamics-Produkten sind Zugriffs-ID und Vertrags-ID erforderlich. Um zukünftig Ihre Zugriffs-ID und Vertrags-ID zu ermitteln, können Sie sich auch im Thema zu [Ihren Vorteilen](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits) informieren.
   
-   **Technische Dienste vor dem Verkauf und für die Bereitstellung** :  Nutzen Sie diesen Support, wenn Sie Beratungsleistungen rund um den technischen Vertrieb oder die technische Bereitstellung benötigen. Diese Dienste können direkt im [Partner Center](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest) angefordert werden.
+   **Technische Dienste vor dem Verkauf und für die Bereitstellung**:  Nutzen Sie diesen Support, wenn Sie Beratungsleistungen rund um den technischen Vertrieb oder die technische Bereitstellung benötigen. Diese Dienste können direkt im [Partner Center](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest) angefordert werden.
 
    - Nutzen Sie für Action Pack-Abonnements und Gold-/Silver-Kompetenzpartner **Technische Dienste vor dem Verkauf und für die Bereitstellung** für Cloud- und Hybridlösungen.
   
@@ -137,7 +156,7 @@ Gehen Sie folgendermaßen vor, um Ihre technischen Vorteile in Partner Center an
 
 2. Wenn Sie ein Markteinführungsangebot oder -programm aktivieren möchten, müssen Sie zuerst einen Marketingkontakt für das Unternehmen zuweisen. Dieser Kontakt wird Folgemitteilungen zu Ihren aktiven Markteinführungsangeboten erhalten.
 
-3. Um Informationen zu Ihrem Marketingkontakt hinzuzufügen oder zu aktualisieren, wählen Sie oben auf der Seite „Markteinführung“ **Hinzufügen** , **Aktualisieren** oder **Ändern** aus. Führen Sie jetzt folgende Schritte aus:  
+3. Um Informationen zu Ihrem Marketingkontakt hinzuzufügen oder zu aktualisieren, wählen Sie oben auf der Seite „Markteinführung“ **Hinzufügen**, **Aktualisieren** oder **Ändern** aus. Führen Sie jetzt folgende Schritte aus:  
 
    ein. Wählen Sie in der Liste einen Benutzer aus. Wenn der Benutzer, den Sie zuweisen möchten, nicht in der Liste vorhanden ist, können Sie unter **Kontoeinstellungen**[neue Benutzer hinzufügen](create-user-accounts-and-set-permissions.md).
 
@@ -147,12 +166,12 @@ Gehen Sie folgendermaßen vor, um Ihre technischen Vorteile in Partner Center an
 
    c.  Geben Sie die Telefonnummer und die bevorzugte Sprache für diesen Marketingkontakt an. Nachdem Sie diese Informationen eingegeben haben, wählen Sie **Benutzer zuweisen** aus.
 
-4. Nachdem Sie Ihren Marketingkontakt aktualisiert haben, suchen Sie das Markteinführungsangebot, das Sie jetzt nutzen möchten. Wählen Sie dann den Abwärtspfeil ganz rechts neben der Zeile aus, um die Angebotsdetails zu erweitern. In dieser Liste werden die einzelnen verfügbaren Angebotsarten unter dem Namen des Vorteils angezeigt (z. B. **Silver Core** , **Gold Core** oder **ISV Co-Sell Ready** ).
+4. Nachdem Sie Ihren Marketingkontakt aktualisiert haben, suchen Sie das Markteinführungsangebot, das Sie jetzt nutzen möchten. Wählen Sie dann den Abwärtspfeil ganz rechts neben der Zeile aus, um die Angebotsdetails zu erweitern. In dieser Liste werden die einzelnen verfügbaren Angebotsarten unter dem Namen des Vorteils angezeigt (z. B. **Silver Core**, **Gold Core** oder **ISV Co-Sell Ready**).
 
 5. Wählen Sie **Aktivieren** aus, um das Angebot zu aktivieren.
 
    > [!NOTE]
-   >Es kann einige Tage dauern, bis die Anleitung per E-Mail beim benannten Marketingkontakt eingeht und das Markteinführungsangebot aktiviert wird. Sobald das Angebot aktiviert wurde, ändert sich die Seite „Markteinführung“ entsprechend. In der Spalte **Status** ändert sich der Eintrag des Angebots in **Aktiv** . In der Spalte **Läuft ab** ist das Datum angegeben, zu dem das Angebot abläuft. Sie können dieses Angebot bis zum Ablaufdatum nutzen. Erfahren Sie mehr über die [verschiedenen Arten verfügbarer Markteinführungsressourcen, -angebote und -programme](mpn-learn-about-go-to-market-benefits.md).  
+   >Es kann einige Tage dauern, bis die Anleitung per E-Mail beim benannten Marketingkontakt eingeht und das Markteinführungsangebot aktiviert wird. Sobald das Angebot aktiviert wurde, ändert sich die Seite „Markteinführung“ entsprechend. In der Spalte **Status** ändert sich der Eintrag des Angebots in **Aktiv**. In der Spalte **Läuft ab** ist das Datum angegeben, zu dem das Angebot abläuft. Sie können dieses Angebot bis zum Ablaufdatum nutzen. Erfahren Sie mehr über die [verschiedenen Arten verfügbarer Markteinführungsressourcen, -angebote und -programme](mpn-learn-about-go-to-market-benefits.md).  
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>Stornieren eines Mitgliedschaftsvorteils oder -angebots
 

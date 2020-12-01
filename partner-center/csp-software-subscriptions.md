@@ -129,7 +129,7 @@ Zu Überprüfungs- oder Konformitätszwecken müssen Sie möglicherweise eine Li
 
 2. Wählen Sie das Zahnrad Symbol in der oberen rechten Ecke aus.
 
-3. Wählen Sie im Menü **Aktivitätsprotokoll**aus.
+3. Wählen Sie im Menü **Aktivitätsprotokoll** aus.
 
 4. Geben Sie den Datumsbereich für die Aktivität ein, die Sie anzeigen möchten. Im Aktivitätsprotokoll wird eine Liste der Benutzer angezeigt, die während des angegebenen Zeitraums entweder auf Softwareschlüssel zugegriffen oder Software heruntergeladen haben. 
 

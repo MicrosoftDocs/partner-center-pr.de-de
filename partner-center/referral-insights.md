@@ -59,13 +59,13 @@ Die Metriken für die prozentuale Änderung (in rot oder grün mit einem Pfeilin
 
 In diesem Abschnitt wird visuell angezeigt, wie Ihre Deals im Laufe ihres Lebenszyklus von einem Status in einen anderen wechseln. Sie können den gesamten Lebenszyklus basierend auf dem Dealumfang sowie den Dealwert in USD basierend auf dem Hauptpivot für diesen Abschnitt anzeigen. Der erste Abschnitt ist sowohl mit dem Status als auch dem Typ des Deals gekennzeichnet, um Ihnen den Umfang oder den Wert nach Typ visuell anzuzeigen. Es gibt auch einen Abschnitt **Vorherige Empfehlungen**, in dem die Deals angezeigt werden, die Sie in dem für den Bericht ausgewählten Zeitraum entweder angenommen/abgelehnt oder als gewonnen/verloren gekennzeichnet haben. Sie können Filter anwenden, um den Fortschritt der Deals über verschiedene Phasen in ihrem Lebenszyklus anzuzeigen.
 
-:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="Abbildung der Zusammenfassungskarte zur Analyse von Co-Selling-Verkaufschancen":::
+:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="Abbildung des Konvertierungstrichters für Empfehlungen":::
 
 ## <a name="deals-by-geography"></a>Deals nach Geografie
 
 Im diesem Abschnitt werden die Länder/Regionen angezeigt, aus denen die Deals stammen, zusammen mit Details zu jedem Land/jeder Region. Es gibt eine Tabellenansicht der Dealdetails für die einzelnen Länder sowie eine Kartenansicht aller Länder. Sie können auf ein bestimmtes Land/eine bestimmte Region in der Tabelle klicken oder auf die Kartenansicht klicken, um auf ein bestimmtes Land/eine bestimmte Region zu zoomen.
 
-:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Abbildung der Zusammenfassungskarte zur Analyse von Co-Selling-Verkaufschancen":::
+:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Abbildung der geografischen Verteilung von Empfehlungen":::
 
 ## <a name="deals-by-solutions"></a>Deals nach Lösungen
 
@@ -77,13 +77,13 @@ Je nach Pivotauswahl wird Ihnen der Erfolg der Deals nach Lösung aggregiert ang
 
 Die Tabelle enthält die Gesamtzahl der Deals, bei denen die Lösung enthalten ist, sowie den entsprechenden Status, z. B. „Gewonnene Deals“, „Verlorene Deals“, „Abgelaufene Deals“, zusammen mit dem insgesamt gewonnenen und verlorenen Dealwert in USD. Rechts neben der Tabelle ist zudem ein Diagramm zum Trend der Deals enthalten, das die Gesamtanzahl der Deals und den gewonnenen Dealwert in USD basierend auf der ausgewählten Lösung anzeigt. Standardmäßig sind alle Lösungen ausgewählt.
 
-:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="Abbildung der Zusammenfassungskarte zur Analyse von Co-Selling-Verkaufschancen":::
+:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="Abbildung des Erfolgs der Lösungen":::
 
 ## <a name="declined--lost-reasons"></a>Gründe für abgelehnte und verlorenen Deals
 
 Mithilfe dieses Abschnitts können Sie die Gründe analysieren, warum die Deals von Ihrem Unternehmen als **Abgelehnt** oder **Verloren** gekennzeichnet werden. Die Optionen in diesen Darstellungen entsprechen den Gründen, die von den Verkäufern beim Schließen des Deals als abgelehnt oder verloren ausgewählt wurden.
 
-:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Abbildung der Zusammenfassungskarte zur Analyse von Co-Selling-Verkaufschancen":::
+:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Abbildung der Gründe, die vom Partner beim Kennzeichnen eines Deals als abgelehnt oder verloren ausgewählt wurden":::
 
 ## <a name="comparison-charts"></a>Vergleichsdiagramme
 
@@ -96,13 +96,13 @@ Die folgenden drei Dimensionen können für den Datenvergleich ausgewählt werde
 
 Durch Auswahl des Dealtyps haben Sie die Möglichkeit, die Entwicklung von Empfehlungen in Bezug auf Co-Selling-Verkaufschancen und private Deals zu vergleichen. Sowohl für Märkte als auch Lösungen können Sie bis zu drei verschiedene Optionen zum Vergleichen der Erfolge auswählen. Im ersten Diagramm, bei dem es sich um ein Balkendiagramm handelt, werden die Daten mit einem Trend im Vergleich zum Vormonat angezeigt, der auf dem Hauptpivot basiert, d. h. dem Umfang oder dem gewonnenen Dealwert. Rechts neben dem Balkendiagramm ist außerdem ein Kreisdiagramm enthalten, das die Verteilung in Prozent für die gleichen Daten zeigt.
 
-:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Abbildung der Zusammenfassungskarte zur Analyse von Co-Selling-Verkaufschancen":::
+:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Abbildung des Vergleichsabschnitts":::
 
 ## <a name="raw-data-table"></a>Rohdatentabelle
 
 Die folgende Tabelle mit allen Rohdaten zu Co-Selling-Verkaufschancen ermöglicht Ihnen ein schnelles **Exportieren** der Daten für eine detaillierte oder benutzerdefinierte Analyse, die Sie durchführen möchten.
 
-:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Abbildung der Zusammenfassungskarte zur Analyse von Co-Selling-Verkaufschancen":::
+:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Abbildung der Rohdatentabelle für Empfehlungen":::
 
 ## <a name="no-data"></a>Keine Daten
 
@@ -114,7 +114,7 @@ Es kann mehrere Gründe geben, warum beim Zugreifen auf die Co-Selling-Analyse e
 - Es gibt keine Datensätze, die den von Ihnen angewendeten Filtern entsprechen. Versuchen Sie, die Filter zurückzusetzen.
 - Es besteht eine Verzögerung zwischen der Änderung des Verkaufschancenstatus und der entsprechenden Aktualisierung im Analysebericht. Überprüfen Sie den Bericht nach 24 Stunden.
 
-:::image type="content" source="images/referrals/nodata.png" alt-text="Abbildung der Zusammenfassungskarte zur Analyse von Co-Selling-Verkaufschancen":::
+:::image type="content" source="images/referrals/nodata.png" alt-text="Abbildung einer Visualisierung ohne Daten für Empfehlungen":::
 
 > [!NOTE]
 > Auf der Seite **Erkenntnisse zu Empfehlungen** werden nur Daten für Empfehlungen angezeigt, die im Partner Center generiert wurden. Es werden keine Daten für Empfehlungen angezeigt, die durch [Partner Sales Connect](https://support.microsoft.com/help/3170447/learn-to-use-partner-center-sales-connect) oder andere Mechanismen generiert wurden.

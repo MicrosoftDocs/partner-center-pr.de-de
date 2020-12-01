@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: cb0325aae30fe57a4be2be3e37bca1ee6aa1eab8
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360070"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439229"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Wichtige IDs für einen Benutzer suchen
 
@@ -31,7 +31,7 @@ In diesem Artikel wird beschrieben, wie Sie den [Azure-Portal](https://portal.az
 Führen Sie diese Schritte aus, um die Azure AD Mandanten-ID oder den primären Domänen Namen innerhalb des Azure-Portal zu ermitteln. (Wenn Sie eine Mandanten-ID Programm gesteuert finden möchten, finden Sie weitere Informationen untersuchen der Mandanten- [ID mit PowerShell oder der CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell).)
 
 > [!NOTE]
-> Die Mandanten-ID kann in verschiedenen Anwendungen oder Ressourcen als unterschiedliche Namen bezeichnet werden. Beispielsweise kann die Mandanten-ID als Verzeichnis-ID, der Azure Active Directory (Azure AD)-Mandant, Microsoft-ID oder für bestimmte Berichte (auch *tenantguid* ) bezeichnet werden.
+> Die Mandanten-ID kann in verschiedenen Anwendungen oder Ressourcen als unterschiedliche Namen bezeichnet werden. Beispielsweise kann die Mandanten-ID als Verzeichnis-ID, der Azure Active Directory (Azure AD)-Mandant, Microsoft-ID oder für bestimmte Berichte (auch *tenantguid*) bezeichnet werden.
 
 1. Melden Sie sich beim [Azure-Portal](https://portal.azure.com/) an.
 
@@ -78,3 +78,4 @@ Das Auffinden des Domänen Namens und der Mandanten-ID ist möglicherweise nicht
 - [Programm gesteuertes ermitteln Ihrer Mandanten-ID mit PowerShell oder der CLI](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [Weitere Informationen zu Benutzerprofilen finden Sie unter Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [Erfahren Sie, wie Partner Kunden Details in Partner Center sehen oder exportieren können.](see-your-customer-list.md)
+

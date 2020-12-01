@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 982d4ed310415349acde3d260afce04eb0d55ac5
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811250"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96438983"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Festlegen, überprüfen oder Entfernen eines monatlichen Azure-Ausgabenbudgets für Kunden im Partner Center
 
@@ -50,11 +50,11 @@ Sie können *ein monatliches Azure-Ausgabenbudget* für mehrere Kunden im Partne
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/)an.
 
-2. Wählen Sie im Menü auf der linken Seite unter **CSP**die Option **Azure-Ausgaben**aus.
+2. Wählen Sie im Menü auf der linken Seite unter **CSP** die Option **Azure-Ausgaben** aus.
 
-3. Wählen Sie auf der Seite **Azure-Ausgaben** unter **Kunden mit Microsoft Azure Abonnements**die Kunden aus, für die Sie ein Budget festlegen möchten.
+3. Wählen Sie auf der Seite **Azure-Ausgaben** unter **Kunden mit Microsoft Azure Abonnements** die Kunden aus, für die Sie ein Budget festlegen möchten.
 
-4. Geben Sie einen Wert für **monatliches Budget**ein.
+4. Geben Sie einen Wert für **monatliches Budget** ein.
 
 5. Wählen Sie übernehmen aus, **um die Änderungen** zu speichern.
 
@@ -62,11 +62,11 @@ Sie können auch *ein Budget für einen einzelnen Kunden* in seinen Abonnement E
 
 1. Melden Sie sich beim Partner Center-Dashboard an.
 
-2. Wählen Sie im Menü auf der linken Seite unter **CSP**die Option **Kunden**aus.
+2. Wählen Sie im Menü auf der linken Seite unter **CSP** die Option **Kunden** aus.
 
-3. Wählen Sie auf der Seite **Kunden** den **Firmennamen**des Kunden aus.
+3. Wählen Sie auf der Seite **Kunden** den **Firmennamen** des Kunden aus.
 
-4. Wählen Sie auf der Seite **Abonnements** des Kunden unter **Nutzungs basiertes Abonnement**die Option **Budget ändern**aus.
+4. Wählen Sie auf der Seite **Abonnements** des Kunden unter **Nutzungs basiertes Abonnement** die Option **Budget ändern** aus.
 
 5. Geben Sie einen Wert für das Budget ein.
 
@@ -78,11 +78,11 @@ Sie können *ein monatliches Azure-Ausgabenbudget* für Ihre Kunden im Partner C
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/)an.
 
-2. Wählen Sie im Menü auf der linken Seite unter **CSP**die Option **Azure-Ausgaben**aus.
+2. Wählen Sie im Menü auf der linken Seite unter **CSP** die Option **Azure-Ausgaben** aus.
 
-3. Wählen Sie auf der Seite **Azure-Ausgaben** unter **Kunden mit Microsoft Azure Abonnements**die Kunden aus, deren Budget Sie entfernen möchten.
+3. Wählen Sie auf der Seite **Azure-Ausgaben** unter **Kunden mit Microsoft Azure Abonnements** die Kunden aus, deren Budget Sie entfernen möchten.
 
-4. Wählen Sie **Budget entfernen**aus.
+4. Wählen Sie **Budget entfernen** aus.
 
 ## <a name="check-current-azure-spending"></a>Überprüfen der aktuellen Azure-Ausgaben
 
@@ -90,34 +90,39 @@ Sie können *die aktuellen Azure-Ausgaben und monatlichen Budgets von Kunden* je
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/)an.
 
-2. Wählen Sie im Menü auf der linken Seite unter **CSP**die Option **Azure-Ausgaben**aus.
+2. Wählen Sie im Menü auf der linken Seite unter **CSP** die Option **Azure-Ausgaben** aus.
 
-3. Auf der **Azure-Ausgaben** Seite unter **Kunden mit Microsoft Azure-Abonnements**können Sie eine Übersicht über die monatlichen Budgets von Kunden, die aktuellen Ausgabenschätzungen und den Prozentsatz des verwendeten Budgets anzeigen.
+3. Auf der **Azure-Ausgaben** Seite unter **Kunden mit Microsoft Azure-Abonnements** können Sie eine Übersicht über die monatlichen Budgets von Kunden, die aktuellen Ausgabenschätzungen und den Prozentsatz des verwendeten Budgets anzeigen.
 
 ## <a name="notifications-for-budget-limits"></a>Benachrichtigungen für Budget Limits
 
 Sie können *e-Mail-Benachrichtigungen* aktivieren, wenn die monatlichen Ausgaben Ihres Kunden dem Budget Limit nähern. Wenn Sie diese Option aktivieren, werden Sie benachrichtigt, wenn Kunden mindestens 80% Ihres monatlichen Budgets verwenden. Mit dieser Option können Sie Ihre Azure-Rechnung überwachen. So konfigurieren Sie e-Mail-Benachrichtigungen
 
-1. Melden Sie sich beim Partner Center an.
+1. Melden Sie sich bei Partner Center an.
 
-2. Wählen Sie im Menü auf der linken Seite unter **CSP**die Option **Azure-Ausgaben**aus.
+2. Wechseln Sie zu **Einstellungen**.
 
-3. Schalten **Sie auf** der Seite Azure- **Ausgaben** unter **e-Mail-Benachrichtigungen die Einstellung e-Mail-** Adressen **aktivieren auf ein.**
+3. Wählen Sie **meine Einstellungen** aus.
 
-4. Wählen Sie **e-Mail-Adresse ändern** , um die e-Mail-Adresse für Benachrichtigungen
+4. Konfigurieren Sie ggf. eine bevorzugte e-Mail-Adresse.
 
-5. Wenn die e-Mail-Adresse *nicht korrekt*ist, **Geben Sie die**richtige e-Mail-Adresse ein Wenn die e-Mail-Adresse *richtig ist*, wählen Sie **Abbrechen**aus.
+5. Konfigurieren Sie die bevorzugte Sprache für die Benachrichtigung.
+
+6. Wählen Sie im Abschnitt **Benachrichtigungseinstellungen** die Registerkarte **CSP** .
+
+7. Aktivieren Sie die e-Mail-Option **Azure-Ausgaben** Benachrichtigung, und **Speichern** Sie Sie.
+
 
 ## <a name="itemized-costs-by-service"></a>Itemisierte Kosten nach Dienst
 
 Sie können die *aufgelisteten Kosten (und die geschätzte Nutzung) nach Dienst für nutzungsbasierte Abonnements anzeigen*:
 
-1. Melden Sie sich beim Partner Center an.
+1. Melden Sie sich bei Partner Center an.
 
-2. Wählen Sie im Menü auf der linken Seite unter **CSP**die Option **Kunden**aus.
+2. Wählen Sie im Menü auf der linken Seite unter **CSP** die Option **Kunden** aus.
 
-3. Wählen Sie auf der Seite **Kunden** den **Firmennamen**des Kunden aus.
+3. Wählen Sie auf der Seite **Kunden** den **Firmennamen** des Kunden aus.
 
-4. Wählen Sie auf der Seite **Abonnements** des Kunden unter **nutzungsbasierte Abonnements**den Namen des **Abonnements**aus.
+4. Wählen Sie auf der Seite **Abonnements** des Kunden unter **nutzungsbasierte Abonnements** den Namen des **Abonnements** aus.
 
 5. Auf der Seite des Abonnements können Sie die **aufgelisteten Kosten** nach Dienst und die **geschätzte Nutzung** des aktuellen Monats überprüfen.

@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
+ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947663"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96513290"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Auszahlungs Zeitpläne und Richtlinien Details
 
@@ -31,16 +31,18 @@ Es kommt häufig vor, dass Microsoft die Zahlung vom Kunden sammelt. Weitere Inf
 | Ereignis | BESCHREIBUNG | Sichtbarkeit von Berichten | Zeit Steuerungs |
 | --- | --- | --- | --- |
 | Verwendung oder Monat der Transaktion | Der Kunde verwendet oder kauft einen Dienst. | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 1** |
-| Bestellung wird erstellt | Bestimmen der Gesamtauslastung, Transaktionen gesamt | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 2** |
-| Erstellungs Gewinn für ISV-Auszahlung | Bestimmen der Gebühren und Auszahlungs Einnahmen der Agentur | Im Transaktionsverlauf in der [Auszahlungs Anweisung](payout-statement.md) als nicht verarbeitet markiert | **Monat 3 (1. Woche)** |
+| Microsoft berechnet Abrechnungsbetrag | Bestimmen der Gesamtauslastung, Transaktionen gesamt | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 2** |
+| Auszahlungs Veröffentlichung | Bestimmen der Gebühren und Auszahlungs Einnahmen der Agentur | Im Transaktionsverlauf in der [Auszahlungs Anweisung](payout-statement.md) als nicht verarbeitet markiert | **Monat 3 (1. Woche)** |
 | Auszahlung vorbereiten | Der Gewinn ist für die monatliche Zahlung vorbereitet. | Im Transaktionsverlauf in der [Auszahlungs Anweisung](payout-statement.md) als demnächst markiert | **Monat 3 (1. Woche)** |
-| **Auszahlungsdatum** | **Die Zahlung wird an den Verleger gesendet.** | **Gekennzeichnet als in Transaktionsverlauf gesendet und im Abschnitt "Zahlungen" der [Auszahlungs Anweisung](payout-statement.md)** | **Monat 3 (nicht später als der 15.)** |
+| **Auszahlung gesendet** | **Die Zahlung wird an den Verleger gesendet.** | **Gekennzeichnet als in Transaktionsverlauf gesendet und im Abschnitt "Zahlungen" der [Auszahlungs Anweisung](payout-statement.md)** | **Monat 3 (nicht später als der 15.)** |
 | Von Kunde bezahlte Rechnung | Microsoft sammelt die Zahlung von Kunden | Keine Änderung | **Monat 4 bis 12** |
 |
 
 \* Das Auszahlungsdatum liegt in der Pacific Standard Time (PST).
 
-### <a name="customers-who-pay-using-credit-card-or-invoice"></a>Kunden mit Kreditkarten- oder Rechnungszahlung
+:::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="Die Zeitachse für Enterprise Agreement-Kunden.":::
+
+### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>Transaktionen mit Kreditkarte oder Rechnung (Überprüfung/Netzwerk)
 
 Alle Käufe mit einer Kreditkarte oder einer monatlichen Rechnung verfügen über einen Zeitraum von 30 Tagen, um sicherzustellen, dass die Geldbeträge vom Kunden gesammelt werden.
 
@@ -48,13 +50,15 @@ Alle Käufe mit einer Kreditkarte oder einer monatlichen Rechnung verfügen übe
 | --- | --- | --- | --- |
 | Verwendung oder Monat der Transaktion | Der Kunde verwendet oder kauft einen Dienst. | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 1** |
 | Von Kunde bezahlte Rechnung | Ermitteln der Gesamtauslastung, des gesamten Transaktionswerts und der Kunden zahlungsrechnung | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 2** |
-| Erstellungs Gewinn für ISV-Auszahlung | Bestimmen der Gebühren und Auszahlungs Einnahmen der Agentur | Im Transaktionsverlauf in der [Auszahlungs Anweisung](payout-statement.md) als nicht verarbeitet markiert | **Monat 2** |
+| Auszahlungs Veröffentlichung | Bestimmen der Gebühren und Auszahlungs Einnahmen der Agentur | Im Transaktionsverlauf in der [Auszahlungs Anweisung](payout-statement.md) als nicht verarbeitet markiert | **Monat 2** |
 | 30-tägige Beibehaltungszeitraum | Stellen Sie die Erfassung von Kosten, möglichen Rück Belastungs-und Erstattungs Anforderungen sicher. | Im Transaktionsverlauf in der [Auszahlungs Anweisung](payout-statement.md) als nicht verarbeitet markiert | **Monat 3** |
 | Auszahlung vorbereiten | Der Gewinn ist für die monatliche Zahlung vorbereitet. | Im Transaktionsverlauf in der [Auszahlungs Anweisung](payout-statement.md) als demnächst markiert | **Monat 4 (1. Woche)** |
-| **Auszahlungsdatum** | **Die Zahlung wird an den Verleger gesendet.** | **Gekennzeichnet als in Transaktionsverlauf gesendet und im Abschnitt "Zahlungen" der [Auszahlungs Anweisung](payout-statement.md)** | **Monat 4 (spätestens 15.)** |
+| **Auszahlung gesendet** | **Die Zahlung wird an den Verleger gesendet.** | **Gekennzeichnet als in Transaktionsverlauf gesendet und im Abschnitt "Zahlungen" der [Auszahlungs Anweisung](payout-statement.md)** | **Monat 4 (spätestens 15.)** |
 |
 
 \* Das Auszahlungsdatum liegt in der Pacific Standard Time (PST).
+
+:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="Zeitachsen der Zahlungen für Kreditkarten-und Rechnungs Kunden.":::
 
 ## <a name="process-for-customer-non-payment"></a>Prozess bei Nichtzahlung des Kunden
 

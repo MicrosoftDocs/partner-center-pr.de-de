@@ -1,25 +1,21 @@
 ---
 title: Häufig gestellte Fragen zu den Incentivezahlungen und Steuerprofilen
 ms.topic: article
-ms.date: 10/27/2020
+ms.date: 12/01/2020
 description: Häufig gestellte Fragen zu Incentives-Auszahlungs-und Steuer Profilen. Zu den Fragen gehört, warum Sie Ihre Auszahlungs-und Steuer Profile nicht sehen können und was damit zu tun ist.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7fae97fb1a527ab557d76bd3b5fd738315271899
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: d7a5e5ae5fa8bd23c3158efe7c0880f67544f9b9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133132"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474324"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Häufig gestellte Fragen zu den Auszahlungs-und Steuer Profilen für die Anreize
-
-Gilt für:
-
-- Partner Center
 
 Geeignete Rollen:
 
@@ -85,7 +81,9 @@ Wenn ein Steuer Profil abgelaufen ist oder demnächst abläuft, muss das Steuerf
 
 6. Wählen Sie **Bearbeiten** aus, um den Bearbeitungsprozess für Steuer Profile zu starten.
 
-7. Aktualisieren Sie die Steuerformulare, indem Sie die erforderlichen Details angeben.
+7. Suchen Sie nach dem **Steuerformular** Abschnitt, und wählen Sie dann **Steuerformular starten** aus.
+
+8. Aktualisieren Sie die Steuerformulare, indem Sie die erforderlichen Details angeben.
 
 ## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Wie stellt Microsoft sicher, dass die Bankinformationen tatsächlich der des Unternehmens sind und kein persönliches Bankkonto für einen Mitarbeiter?
 

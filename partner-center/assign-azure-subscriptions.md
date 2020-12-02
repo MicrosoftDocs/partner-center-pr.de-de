@@ -9,18 +9,19 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02bd7ca573be4b0b61da546f66c6102fbc752c2d
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8cac2a6edc9199befeae940ed271c3236440c260
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527686"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96473950"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Zuweisen von Azure-Abonnements zu Kunden im Partner Center
 
-**Zielgruppe**
+**Geeignete Rollen**
 
-- Partner Center
+- Globaler Administrator
+- Vertriebsbeauftragter
 
 ## <a name="assign-azure-subscriptions-to-your-customers"></a>Zuweisen von Azure-Abonnements zu ihren Kunden
 
@@ -40,7 +41,7 @@ ms.locfileid: "87527686"
 
 Nachdem Sie ein Microsoft Azure-Abonnement für einen Kunden erstellt haben, können Sie ihnen die Verwaltung des Abonnements ermöglichen. Zu diesem Zweck müssen Sie sich beim Microsoft Azure Verwaltungs Portal des Kunden anmelden. 
 
-1. Wenn Sie die Azure-Portal des Kunden öffnen möchten, erweitern Sie entweder die Liste der Kunden in der Kundenliste, oder wählen Sie den Namen des Kunden aus, und wählen Sie dann **Microsoft Azure-Verwaltungsportal**aus.
+1. Wenn Sie die Azure-Portal des Kunden öffnen möchten, erweitern Sie entweder die Liste der Kunden in der Kundenliste, oder wählen Sie den Namen des Kunden aus, und wählen Sie dann **Microsoft Azure-Verwaltungsportal** aus.
 
    > [!NOTE]  
    > Wenn Sie aufgefordert werden, sich beim Azure-Portal anzumelden, verfügen Sie möglicherweise nicht über delegierte Administratorrechte. Wählen Sie **Partnerschaft beantragen** aus, um den Kunden aufzufordern, Sie als registrierten Abonnementberater zu identifizieren. Nachdem der Kunde die Aufforderung annimmt, werden Ihnen automatisch delegierte Administratorrechte gewährt.

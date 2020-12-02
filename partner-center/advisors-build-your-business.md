@@ -9,19 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527006"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474171"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Ratgeber: Erstellen Sie Ihre Client Basis mit Office 365-Einladungen und Kauf angeboten
 
-**Zielgruppe**
 
-- Partner Center
- 
 **Geeignete Rollen**
 
 - Berater
@@ -29,7 +26,7 @@ ms.locfileid: "87527006"
 
 Als autorisierter Microsoft Advisor bietet **Partner Center** Ihnen die Möglichkeit, Ihre Client Basis zu erweitern und dauerhafte Beziehungen mit ihren Kunden zu erstellen. Mit Partner Center können Sie die Einladungen und Kaufangebote ihrer Kunden testen und Ihnen Delegierte Verwaltungsdienste anbieten, abhängig von den Diensten, die Sie zur Verfügung stellen.
 
-Wenn Sie sich bei Partner Center anmelden, finden Sie unter **Test-und Kaufangebote**einige Tools und Aufgaben, die Ihnen helfen, Ihr Unternehmen zu erweitern.
+Wenn Sie sich bei Partner Center anmelden, finden Sie unter **Test-und Kaufangebote** einige Tools und Aufgaben, die Ihnen helfen, Ihr Unternehmen zu erweitern.
 
 ## <a name="create-and-send-trial-invitations"></a>Erstellen und Senden von Einladungen zum Testen
 
@@ -53,5 +50,7 @@ Nach dem Senden einer Einladung zum Testen sollten Sie dem Kunden als Nächstes 
 Wenn Sie das Kaufangebot erstellen, wird eine benutzerdefinierte URL für Sie erstellt. Die URL enthält einen eingebetteten Code, mit dem Sie als Abonnement Ratgeber identifiziert werden. Sie können diese URL für einen oder mehrere Kunden verwenden. Senden Sie die URL per e-Mail an Ihren Kunden, oder veröffentlichen Sie Sie auf Ihrer Website.
 
 Wenn Ihr Kunde eine andere Anzahl von Lizenzen wünscht, senden Sie Ihnen ein neues Angebot, oder Sie können die Anzahl der Lizenzen ändern, wenn Sie das Abonnement erwerben.
+
+## <a name="next-steps"></a>Nächste Schritte
 
 Weitere Informationen zu Kauf angeboten finden Sie unter [Erstellen eines Kaufangebots](advisor-create-a-purchase-offer.md).

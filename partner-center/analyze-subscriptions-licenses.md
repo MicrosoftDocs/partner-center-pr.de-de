@@ -9,19 +9,14 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 07/08/2020
-ms.openlocfilehash: 8d16ef9150e83fbdd3c189aaa878ad466f3fe1f4
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 45a088129d09395abf355efde08c772744b98672
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367304"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474086"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analysieren Sie Abonnements und Lizenzen, um Geschäftsentscheidungen und neue Ziele zu fördern
-
-**Zielgruppe**
-
-- Partner Center
-- Partner im Cloud Solution Provider-Programm
 
 **Geeignete Rollen**
 
@@ -48,32 +43,44 @@ Wir verfolgen die folgenden Metriken:
 
 **Zusammenfassung**  
  - **Verkaufte Abonnements**: Anzahl der Abonnements, die für den angegebenen Zeitraum erstellt wurden  
- - **Verkaufte Lizenzen**: Anzahl der Lizenzen, die für den angegebenen Zeitraum verkauft wurden   
- - **Abonnements, die in 30 Tagen erneuert**werden: Anzahl der Abonnements, bei denen der Status für den angegebenen Zeitraum aktiv ist und für den die **Automatische** Wiederherstellung zutrifft
+  
+ - **Verkaufte Lizenzen**: Anzahl der Lizenzen, die für den angegebenen Zeitraum verkauft wurden  
+  
+ - **Abonnements, die in 30 Tagen erneuert** werden: Anzahl der Abonnements, bei denen der Status für den angegebenen Zeitraum aktiv ist und für den die **Automatische** Wiederherstellung zutrifft
+ 
  - **Aktive Abonnements**: Abonnements, bei denen der Status **aktiv** ist  
+ 
  - Angehaltene **Abonnements**: Anzahl der angehaltenen Abonnements, es ist kein Datumsfilter vorhanden.  
 
-**Produkt Aufschlüsselung**  
+**Produkt Aufschlüsselung**
+  
  - **Anzahl der Abonnements**: Top 5-Produkte, sortiert nach verkauften Abonnements  
+ 
  - **Lizenz Anzahl**: die 5 wichtigsten Produkte nach den verkauften sortierten Lizenzen
 
 **Beibehaltene Abonnements**
+
  - **Erneuert Abonnements**: Abonnements, die in den letzten 30 Tagen erneuert wurden.  
 
 **Änderungsumfang bei Abonnements**  
  - **Neue Abonnements**: Anzahl der neuen Abonnements im Zeitraum ohne kostenlose Testversionen  
+ 
  - Aufhebung der Bereitstellung von **Abonnements**: Anzahl der Abonnements, deren Bereitstellung aufgehoben oder nach Datum angehalten wurde  
 
-**Angehaltene Abonnements**  
+**Angehaltene Abonnements** 
+ 
  - Liste aller Abonnements mit dem Status **Angehalten** ohne Angebote kostenloser Testversionen  
   
 **Aktive Abonnements**
+
  - Liste aller aktiven Abonnements  
 
 **Konvertierungen von Abonnements kostenloser Testversionen**  
+
  - **Test Konvertierung**: Anzahl aller **aktiven** Abonnements, bei denen während des angegebenen Zeitraums eine Testversion für die Konvertierung gezahlt wurde  
 
 **Abonnements kostenloser Testversionen, die in 30 Tagen enden**  
+
  - Liste der gestarteten Abonnements kostenloser Testversionen, deren Enddatum innerhalb von 30 Tagen liegt und für die kein Startdatum für ein kostenpflichtiges Abonnement vorliegt  
 
 ## <a name="next-steps"></a>Nächste Schritte

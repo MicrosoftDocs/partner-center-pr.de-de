@@ -9,26 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198016"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474069"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Verwalten von Benutzern und Benutzerlizenzen für Kundenkonten
-
-**Zielgruppe**
-
-- Partner Center
 
 **Geeignete Rollen**
 
 - Globaler Administrator
 - Benutzerverwaltungsadministrator
 - Administrator-Agent
-- Vertriebsbeauftragter
-- Helpdesk-Agent
+
 
 Sie können neue Benutzer im Konto eines Kunden erstellen und löschen. Sie können auch ein oder mehrere Benutzerkonten wiederherstellen, die Sie zuvor innerhalb von 30 Tagen nach dem Löschvorgang gelöscht haben. Die vorherigen Abonnementzuweisungen des Benutzers werden ebenfalls wiederhergestellt (vorausgesetzt, die vorherigen Zuweisungen sind verfügbar).
 
@@ -91,7 +86,7 @@ Die folgenden Schritte gelten für das Hinzufügen oder Entfernen von Benutzerli
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Löschen von Benutzerkonten für einen Kunden
 
-1.  Wählen Sie im **Partner Center** -Menü die Option **Kunden**aus. Wählen Sie den Kunden in der Liste aus.
+1.  Wählen Sie im **Partner Center** -Menü die Option **Kunden** aus. Wählen Sie den Kunden in der Liste aus.
 
 2.  Wählen Sie im Menü des Kunden die Option **Users and licenses** (Benutzer und Lizenzen) aus. Wählen Sie den Benutzer in der Liste aus.
 
@@ -105,7 +100,7 @@ Wenn Sie dieses Konto wiederherstellen müssen, finden Sie es auf der Registerka
 
 1.  Wählen Sie im Menü **Partner Center** die Option **Kunden** und dann einen Kunden in der Liste aus.
 
-2.  Wählen Sie **Benutzer und Lizenzen**aus.
+2.  Wählen Sie **Benutzer und Lizenzen** aus.
 
 3.  Wählen Sie die Registerkarte **Gelöschte Benutzer ()** aus. Es sollte **(1)** oder größer sein, wenn gelöschte Benutzer wieder hergestellt werden können.
 
@@ -113,7 +108,7 @@ Wenn Sie dieses Konto wiederherstellen müssen, finden Sie es auf der Registerka
 
     Alle ausgewählten Benutzerkonten werden erneut auf der Seite **Benutzer und Lizenzen** angezeigt.
 
-## <a name="related-topics"></a>Verwandte Themen
+## <a name="related-topics"></a>Zugehörige Themen
 
 
 [Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer](bulk-license-provisioning-for-multiple-users.md)

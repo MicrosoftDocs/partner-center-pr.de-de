@@ -9,19 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: db32f3d48089457cb9c49196bcb190ccd4308582
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87526996"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474154"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Ratgeber: Erstellen und Senden einer Einladung zum Testen für Clients zum Testen von Office 365
 
-**Zielgruppe**
 
-- Partner Center
- 
 **Geeignete Rollen**
 
 - Berater
@@ -49,11 +46,15 @@ Wenn Sie für die delegierte Administration zertifiziert sind, können Sie der E
 
 3. Klicken Sie auf **Weiter**.
 
-4. Kopieren Sie auf der**Einladungs Seite Ihres Test** Zeitraums die Einladungs Informationen und die URL der Testversion, und fügen Sie Sie in eine e-Mail, ein Dokument oder eine Webseite ein, um eine angepasste Einladung für die Einladung zu erstellen.
+4. Kopieren Sie auf der **Einladungs Seite Ihres Test** Zeitraums die Einladungs Informationen und die URL der Testversion, und fügen Sie Sie in eine e-Mail, ein Dokument oder eine Webseite ein, um eine angepasste Einladung für die Einladung zu erstellen.
 
     > [!NOTE]
-    > Notieren Sie sich die Einladungs **Zusammenfassungs-ID**der Testversion. Verwenden Sie diese ID, um das Angebot zu verfolgen.
+    > Notieren Sie sich die Einladungs **Zusammenfassungs-ID** der Testversion. Verwenden Sie diese ID, um das Angebot zu verfolgen.
 
 5. Personalisieren Sie Ihre Nachricht, indem Sie Ihr Firmenlogo, eine Einführung, abschließende Hinweise oder andere Informationen einschließen.
 
 6. Senden Sie die Einladung zum Testen an Ihren Client.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Erstellen eines Kaufangebots](advisor-create-a-purchase-offer.md)

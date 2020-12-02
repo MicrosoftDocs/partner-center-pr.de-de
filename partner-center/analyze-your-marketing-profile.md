@@ -9,32 +9,24 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 45d40afc64c5c64801841d3cb758b49c8e107de7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4bb9311dc88a4abf4f2e14ae075430d1978b4bfe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999644"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474035"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analysieren Ihres Geschäfts Profils: erfahren Sie, wie gut Sie Zielkunden und mögliche Verweise gewinnen
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Zielgruppe**
-
-- Partner Center
-- Partner im Microsoft Partner Network
-- Partner im Cloud Solution Provider-Programm
-
 **Geeignete Rollen**
 
 - Globaler Administrator
 - MPN-Partneradministrator
-- Administrator für Empfehlungen
 - Unternehmensprofiladministrator
-- Administrator-Agent
-- Vertriebsbeauftragter
+- Empfehlungsadministrator
 
 Auf der Seite **Business profile Insights** in Partner Center sehen Sie, wie gut Sie die Aufmerksamkeit Ihrer Zielkunden erfassen und Referenzen erstellen können.
 
@@ -53,3 +45,8 @@ Das Diagramm für die **Profil Leistungs Zusammenfassung** enthält die folgende
 
 > [!TIP]
 > Wenn Sie damit beginnen, [auf diese Referenzen zu reagieren](manage-leads.md), lesen Sie die Seite " [Referenz](referral-insights.md) Informationen", um weitere Details zur Leistung Ihrer Verweise anzuzeigen.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Erstellen eines Unternehmensprofils](create-a-marketing-profile.md)
+- [In Partner Center erhalten Sie Erkenntnisse zu Empfehlungen und Informationen zur Entwicklung Ihrer Empfehlungen.](referral-insights.md)

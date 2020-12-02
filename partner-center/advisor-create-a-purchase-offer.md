@@ -9,18 +9,15 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a36f67609f0e51b0d65d0032610157fc4d81f97e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87526986"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474137"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Ratgeber: Erstellen eines Kaufangebots
 
-**Zielgruppe**
-
-- Partner Center
  
 **Geeignete Rollen**
 
@@ -56,7 +53,7 @@ Wenn Ihr Client eine andere Anzahl von Lizenzen wünscht, senden Sie Ihnen ein n
 4. Kopieren Sie auf der Seite **senden** die Informationen und die URL des Kaufangebots, und fügen Sie Sie in eine e-Mail, ein Dokument oder eine Webseite ein, um ein angepasstes Kaufangebot zu erstellen.
 
     > [!NOTE]
-    > Notieren Sie sich die **Zusammenfassungs-ID**des Kaufangebots. Verwenden Sie es, um das Angebot zu verfolgen.
+    > Notieren Sie sich die **Zusammenfassungs-ID** des Kaufangebots. Verwenden Sie es, um das Angebot zu verfolgen.
 
 5. Sie können die Nachricht personalisieren, indem Sie Ihr Firmenlogo, eine Einführung, abschließende Hinweise oder andere Informationen einschließen.
 
@@ -69,3 +66,7 @@ Wenn Ihr Client eine andere Anzahl von Lizenzen wünscht, senden Sie Ihnen ein n
     - Informieren Sie Clients darüber, wie Sie mit Fragen zum Dienst oder zum Angebot kontaktiert werden können.
     - Informieren Sie die Clients darüber, dass Sie die Anzahl der erworbenen Benutzerlizenzen Steuern und die Anzahl der Lizenzen ändern können, wenn Sie das Angebot annehmen.
     - Wenn Sie die delegierte Administration anbieten, erläutern Sie, worum es sich dabei handelt und welche Verantwortlichkeiten Sie dabei übernehmen. Weitere Informationen zur delegierten Administration finden Sie unter [anbieten der delegierten Administration](customers-revoke-admin-privileges.md).
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Erstellen Sie Ihre Client Basis mit Office 365-Einladungen und Kauf angeboten](advisors-build-your-business.md)

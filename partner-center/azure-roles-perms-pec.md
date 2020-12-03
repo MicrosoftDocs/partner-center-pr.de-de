@@ -9,14 +9,14 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f48774cb830ceb575a84177efb57431afdcb9b25
-ms.sourcegitcommit: 5fc28f6f81eaebb84e1faa71848afb504e181f37
+ms.openlocfilehash: 8c36883dc7d12b7ea0ce8f2644dbac86595ab131
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90011740"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534589"
 ---
-# <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>Rollen und Berechtigungen, die zum erwerben von Partnern berechtigt sind
+# <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>Rollen und Berechtigungen, die erforderlich sind, um Partner Guthaben zu verdienen
 
 Die folgenden Rollen entsprechen den Berechtigungsstufen, die bestimmen, ob ein Partner für Gutschriften für Partner qualifiziert ist.
 
@@ -147,3 +147,7 @@ Mitwirkender von virtuellen Computern | Ermöglicht Ihnen das Verwalten virtuell
 VM-Benutzeranmeldung | Anzeigen von virtuellen Computern im Portal und Anmelden als regulärer Benutzer. | Ja | 
 Mitwirkender von Webplan | Ermöglicht Ihnen das Verwalten der Webpläne für Websites, nicht aber den Zugriff darauf. | Ja | 
 Mitwirkender von Website | Ermöglicht Ihnen das Verwalten von Websites (nicht webplänen), aber nicht den Zugriff darauf. | Ja |
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Vom Partner erworbenes Guthaben – Übersicht über die Funktionsweise in der neuen E-Commerce-Oberfläche im CSP-Programm](partner-earned-credit.md)

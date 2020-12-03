@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999434"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534986"
 ---
-# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Verwenden von Windows Autopilot-Profilen auf neuen Geräten zum Anpassen der Standardbenutzer Freundlichkeit eines Kunden
-
-**Zielgruppe**
-
-- CSP-Partner mit Direktfakturierung, indirekte Anbieter und indirekte Vertriebspartner
+# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Verwenden von Windows Autopilot-Profilen auf neuen Geräten zum Anpassen der Out-of-Box-Experience eines Kunden
 
 **Geeignete Rollen**
 
@@ -60,7 +56,7 @@ Die folgenden Berechtigungen und Einschränkungen für die Verwaltung von Profil
 
 - Sie können vorhandene Geräte für Ihre Kunden verwalten, die Sie hinzugefügt haben.
 
-- Sie können keine Geräte verwalten, die Ihr Kunde in Microsoft Store für Unternehmen oder das Microsoft InTune Portal hochgeladen hat.
+- Es ist nicht möglich, Geräte zu verwalten, die Ihr Kunde in den Microsoft Store für Unternehmen oder in das Microsoft Intune-Portal hochgeladen hat.
 
 ## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Erstellen und Verwalten von Autopilot-Profilen im Partner Center
 
@@ -77,7 +73,7 @@ Im Partner Center können Sie Windows Autopilot-Bereitstellungsprofile erstellen
 
 3. Klicken Sie unter **Windows Autopilot-Profile** auf **Neues Profil hinzufügen**.
 
-4. Geben Sie Namen und eine Beschreibung des Profils ein, und konfigurieren Sie dann die Einstellungen für die Windows-Willkommensseite. Folgende Optionen stehen zur Auswahl:  
+4. Geben Sie Namen und eine Beschreibung des Profils ein, und konfigurieren Sie dann die Einstellungen für die Windows-Willkommensseite. Es stehen die folgenden Optionen zur Auswahl:  
 
    - Datenschutzeinstellungen beim Setup überspringen
 
@@ -149,15 +145,15 @@ Wenn Sie planen, die Kombination aus OEM-Name, Seriennummer und Modell zu verwen
 
 - Dieses Tupel funktioniert nur für neuere Geräte (z.B. 4K-Hashes) und wird für 128B-Hashes (RS2 und frühere Geräte) nicht unterstützt.
 
-- Bei der Registrierung des Tupels wird zwischen Groß- und Kleinschreibung unterschieden. Daher müssen die Daten in der Datei mit den Modell- und Herstellernamen ***genau*** mit den Angaben des OEM-Anbieters (Hardwareanbieters) übereinstimmen.
+- Bei der tupelregistrierung wird die Groß-/Kleinschreibung beachtet, sodass die Daten in der Datei mit den *_exactly_* Modell-und Herstellernamen übereinstimmen müssen, die vom OEM-Anbieter (Hardware Anbieter) bereitgestellt werden.
 
 Führen Sie die im Partner Center nachstehenden Anweisungen zum Hinzufügen von Geräten zum Konto eines Kunden aus.
 
-1. Wählen Sie im Partner Center-Menü **Kunden** und dann den Kunden aus, dessen Geräte Sie verwalten möchten.
+1. Wählen Sie im Partner Center-Menü _ *Customers** aus, und wählen Sie dann den Kunden aus, dessen Geräte Sie verwalten möchten.
 
 2. Wählen Sie auf der Detailseite des Kunden **Geräte** aus.
 
-3. Klicken Sie unter **Profile auf Geräte anwenden ** auf **Geräte hinzufügen**.
+3. Klicken Sie unter **Profile auf Geräte anwenden** auf **Geräte hinzufügen**.
 
 4. Geben Sie einen Namen für die Geräteliste aus, und klicken Sie dann auf **Durchsuchen**, um die Kundenliste (im Dateiformat CSV) ins Partner Center hochzuladen.
 

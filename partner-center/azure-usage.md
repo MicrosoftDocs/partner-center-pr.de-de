@@ -9,20 +9,21 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 226ebd27b4ca4cdef56ce833a58a10bed89f8056
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000185"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534946"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Microsoft Azure VM-Größe für die maximale Reservierungsnutzung
 
-**Zielgruppe**
+**Geeignete Rollen**
 
-- Partner Center
-- Azure-Portal
-- Partner im CSP-Programm
+- Administrator-Agent
+- Vertriebsbeauftragter
+
+In diesem Artikel wird erläutert, wie Sie die Größe eines virtuellen Computers (VM) mit den computinganforderungen ihrer Kunden anpassen, wenn Sie Microsoft Azure Reservierungen für diese Computer erwerben.
  
 > [!NOTE]
 > Dieser Artikel gilt nur für Partner im CSP-Programm (Cloud Solution Provider). Kunden, die andere Abonnementtypen (z. b. Pay-as-you-go, individuelle, Microsoft-Kunden Vereinbarung oder Konzernvertrag Abonnements) verwenden, sollten stattdessen [diese Azure-Reservierungs Dokumentation](/azure/cost-management-billing/reservations)lesen.
@@ -128,7 +129,7 @@ Weitere Informationen finden Sie unter Ermitteln der [Auslastungs Datensätze ei
 >[!IMPORTANT]
 >Kosten für Software wie etwa für Microsoft Windows Server sind derzeit nicht im Preis einer VM-Reservierung enthalten und erscheinen als separate Positionen in den Bestelldaten und auf Ihrer Rechnung. Wenn ein Kunde über die Azure-Hybridnutzungsvorteil verfügt, werden die Softwarekosten nicht angewendet. Weitere Informationen finden Sie unter [Nicht in reservierten Azure-VM-Instanzen enthaltene Softwarekosten](/azure/billing/billing-reserved-instance-windows-software-costs).  
 
-## <a name="azure-reservations-resources"></a>Ressourcen zu Azure-Reservierungen
+## <a name="next-steps"></a>Nächste Schritte
 
 |**Informationen über**   |**Artikel**    |
 |:-----------------------------|:-----------------|

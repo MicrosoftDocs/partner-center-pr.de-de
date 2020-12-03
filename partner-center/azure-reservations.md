@@ -9,20 +9,14 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 317d1f0295b79b79bf06f1091ae365bc7012b749
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 9dc92685503fd4b9b05e40337f72e810c1693779
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000234"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534895"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Verkaufen Sie Microsoft Azure Reservierungen an Kunden, die Partner Center, die Azure-Portal oder APIs verwenden.
-
-**Zielgruppe**
-
-- Partner Center
-- Microsoft Azure-Portal
-- Partner im CSP-Programm
 
 **Geeignete Rollen**
 
@@ -32,8 +26,10 @@ ms.locfileid: "91000234"
 - Vertriebsbeauftragter
 - Benutzerverwaltungsadministrator
 
+Als Partner im Cloud Solution Provider-Programm (CSP) können Sie Azure-Reservierungen für Kunden erwerben, verkaufen oder verwalten. Verwenden Sie Partner Center, die Azure-Portal oder die Partner Center-API.
+
 > [!NOTE]
-> Dieser Artikel gilt nur für Partner im CSP-Programm (Cloud Solution Provider). Kunden, die andere Abonnementtypen (z. b. Pay-as-you-go, individuelle, Microsoft-Kunden Vereinbarung oder Konzernvertrag Abonnements) verwenden, sollten stattdessen [diese Azure-Reservierungs Dokumentation](/azure/cost-management-billing/reservations)lesen.
+> Dieser Artikel gilt nur für Partner in CSP. Kunden, die andere Abonnementtypen (z. b. Pay-as-you-go, individuelle, Microsoft-Kunden Vereinbarung oder Konzernvertrag Abonnements) verwenden, sollten stattdessen [diese Azure-Reservierungs Dokumentation](/azure/cost-management-billing/reservations)lesen.
 
 Partner im CSP-Programm können Ihren Kunden Microsoft Azure Reservierungen anbieten. Kunden profitieren von deutlichen Einsparungen, wenn sie im Voraus reservieren. Azure-Reservierungen bieten Kunden Einfachheit und Flexibilität auf folgende Weise:
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Azure Reservierungen für Kunden kaufen
 description: Erfahren Sie, wie Sie Azure-Reservierungen im Namen Ihrer Kunden im Partner Center erwerben oder erwerben. Listet auch Märkte auf, bei denen Azure-Reservierungen nicht verfügbar sind.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: rbars
@@ -9,20 +9,14 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 22ee2b6b76662ae3c7f7a956dc42f4425c321309
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031253"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534606"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Kaufen von Microsoft Azure-Reservierungen im Auftrag Ihrer Kunden im Partner Center
-
-**Zielgruppe**
-
-- Partner Center
-- Microsoft Azure-Portal
-- Partner im CSP
 
 **Geeignete Rollen**
 
@@ -31,11 +25,13 @@ ms.locfileid: "92031253"
 - Helpdesk-Agent
 - Vertriebsbeauftragter
 - Benutzerverwaltungsadministrator
+
+In diesem Artikel wird erläutert, wie Sie Azure-Reservierungen im Namen Ihrer Kunden im Partner Center erwerben oder erwerben. Außerdem werden Märkte identifiziert, bei denen Azure-Reservierungen nicht verfügbar sind.
  
 > [!NOTE]
 > Dieser Artikel gilt nur für Partner im CSP-Programm (Cloud Solution Provider). Kunden, die andere Abonnementtypen (z. b. Pay-as-you-go, individuelle, Microsoft-Kunden Vereinbarung oder Konzernvertrag Abonnements) verwenden, sollten stattdessen [diese Azure-Reservierungs Dokumentation](/azure/cost-management-billing/reservations)lesen.
 
-## <a name="before-you-begin"></a>Vorbereitung
+## <a name="before-you-begin"></a>Voraussetzungen
 
 Lesen Sie die folgenden wichtigen Informationen, bevor Sie Azure-Reservierungen im Auftrag Ihrer Kunden kaufen. (Möchten Sie, dass Kunden ihre eigenen Azure-Reservierungen von einem früheren Azure-Abonnement erwerben können, das Sie für Sie erworben haben? Weitere Informationen finden [Sie unter Erteilen von Kunden Berechtigungen zum erwerben ihrer eigenen Azure-Reservierungen](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations).)
 
@@ -150,7 +146,8 @@ Führen Sie die folgenden Schritte aus, um Microsoft Azure-Reservierungen im Auf
 
 10. Um die Reservierung des Kunden im Azure-Portal zu verwalten, finden Sie den Kunden auf Ihrer **Kunden** Seite, und klicken Sie dann auf den Pfeil nach unten, um die Zeile des Kunden zu erweitern. Wählen Sie **Microsoft Azure-Verwaltungsportal** aus, um den Datensatz des Kunden im Azure-Portal zu öffnen.
 
-## <a name="azure-reservations-resources"></a>Ressourcen zu Azure-Reservierungen
+## <a name="next-steps"></a>Nächste Schritte
+
 |**Informationen über**   |**Artikel**    |
 |:-----------------------------|:-----------------|
 |Azure-Reservierungen in CSP (Übersicht)  | [Verkaufen von Microsoft Azure Reserved Instances](azure-reservations.md) |

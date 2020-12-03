@@ -1,22 +1,22 @@
 ---
-title: Aktualisieren von Windows 10 Home-Kunden auf Windows 10 Education
+title: Upgrade von Windows 10 Home auf Windows 10 Education
 ms.topic: article
 ms.date: 10/28/2020
-description: Aktualisieren von Windows 10 Home-Kunden auf Windows 10 Education
+description: Erfahren Sie, wie Cloud Solution Provider-Partner (CSP) einige ihrer Bildungs Kunden von Windows 10 Home auf Windows 10 Education upgraden können.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: eff687f59e433e3465048173e3f74821280bde41
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360002"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556411"
 ---
-# <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Aktualisieren von Windows 10 Home-Kunden auf Windows 10 Education
+# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Aktualisieren einiger Bildungs Kunden von Windows 10 Home auf Windows 10 Education
 
 **Zielgruppe**
 
@@ -63,7 +63,7 @@ Partner sollten eine Supportanfrage erstellen und Schlüssel aus dem Support erh
 - **Beschreibung:** Anfordern von [Insert number]-Schlüsseln zum Aktivieren des Upgrades auf Windows 10 Education. (Beachten Sie, dass die Anzahl der angeforderten Schlüssel nicht größer sein darf als die Microsoft 365 a3/A5-oder Windows 10 Enterprise a3/A5-Abonnement Lizenzen.) Abonnement-ID des Kunden [fügen Sie die Abonnement-ID-GUID für das Microsoft 365 a3/A5-oder Windows 10 Enterprise a3/A5-Abonnement ein.]
 - **Kontaktnummer:** Dies wird vorab ausgefüllt. Lesen Sie, um zu bestätigen oder zu aktualisieren.
 - **E-Mail:** Dies wird vorab ausgefüllt und sollte die e-Mail sein, die Sie als Administrator des Microsoft-Portals verwenden (nur globaler Administrator oder Abrechnungs Administrator).
-- **Bevorzugte Kontaktmethode** : Wählen Sie **Telefon** aus, oder **Planen Sie einen Rückruf**.
+- **Bevorzugte Kontaktmethode**: Wählen Sie **Telefon** aus, oder **Planen Sie einen Rückruf**.
 
 8. Wählen Sie **Kontaktaufnahme** aus. Die erwartete Wartezeit ist im Bereich erforderliche **Hilfe?** angegeben.
 
@@ -75,7 +75,7 @@ Partner sollten eine Supportanfrage erstellen und Schlüssel aus dem Support erh
 
 Zum Aktualisieren von Windows 10 Home mithilfe eines Windows 10 pro Education-Product Key muss der Kunde die folgenden Schritte ausführen:  
 
-1. Klicken Sie auf **Start** , und wählen Sie dann **Einstellungen > aktualisieren Sie & Sicherheits > Aktivierung** aus. Wählen Sie **Product Key ändern** aus, und geben Sie dann den 25-stelligen Windows 10 pro-Product Key ein. Wählen Sie **weiter** aus, um das Upgrade auf Windows 10 pro zu starten.
+1. Klicken Sie auf **Start**, und wählen Sie dann **Einstellungen > aktualisieren Sie & Sicherheits > Aktivierung** aus. Wählen Sie **Product Key ändern** aus, und geben Sie dann den 25-stelligen Windows 10 pro-Product Key ein. Wählen Sie **weiter** aus, um das Upgrade auf Windows 10 pro zu starten.
 
 2. Wenn das Gerät der Mandanten Domäne (über AAD) hinzugefügt wird, wird das Gerät automatisch auf Windows 10 Education aktualisiert.  
 

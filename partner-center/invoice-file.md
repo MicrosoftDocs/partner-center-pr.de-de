@@ -2,17 +2,17 @@
 title: Verstehen der Abrechnungs Rechnungen von Partner Center
 ms.topic: article
 ms.date: 05/18/2020
-description: Machen Sie sich mit den Feldern in der Rechnungs Datei für die Partner Center-Abrechnung vertraut. zu den Informationen gehören Felder und Definitionen für alle Rechnungs Felder und einmalige Gebühren Felder.
+description: Machen Sie sich mit den Feldern in der Rechnungs Datei für die Partner Center-Abrechnung vertraut. Enthaltene Felder und Definitionen für alle Rechnungs Felder und die Felder für die einmalige Abrechnung.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 121b0bc756e715af358eda30eff92cba35e802ed
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198006"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556292"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Informationen zu den Feldern der Partner Center-abrechnungsrechnung
 
@@ -37,7 +37,7 @@ Die folgenden Felder werden in den Rechnungs Dateien angezeigt.
 | Lizenzbasierte Gebühren | Die pauschalen monatlichen oder jährlichen Gebühren für Ihre erworbenen nutzungsbasierten Lizenzen, die im Voraus in Rechnung gestellt werden. Diese Zahl ist die Summe aller Gebühren in der **Teil** Ergebnisspalte (Spalte **T**) in der lizenzbasierten Abstimmungs Datei. |
 | Nutzungsbasierte Gebühren | Ihre Azure-Nutzung. Dies schließt neue Dienste oder Anwendungen ein, die während des Abrechnungszeitraums aktiviert und verwendet werden. Diese Zahl ist die Summe aller Gebühren in der Spalte **pretaxcharges** (Spalte **Z**) in der nutzungsbasierten Abstimmungs Datei. |
 | Discounts | Der Rabatt, den der Kunde vom normalen Preis des Abonnements erhält. Diese Zahl wird als *Pauschalbetrag*, nicht als Preis pro Einheit oder Lizenz angezeigt. |
-| Guthaben | Gutschriften oder Anpassungen für Änderungen an Abonnements (z. b. zum erhöhen oder verringern der Lizenz). |
+| Mitwirkende | Gutschriften oder Anpassungen für Änderungen an Abonnements (z. b. zum erhöhen oder verringern der Lizenz). |
 | Subtotal (Zwischensumme) | Gesamtbetrag vor Steuern und Gebühren und Guthaben exklusive Steuern |
 | Tax (Steuern) | Die Gesamt steuersumme für Ihre aktuellen Gebühren, wie im Abschnitt " **Details** " beginnend mit Seite 2 Ihrer Rechnung. Dabei handelt es sich um die Summe aller Gebühren in der Spalte " **taxAmount** " (Spalte **AA**) in der nutzungsbasierten Abstimmungs Datei und die Spalte " **Tax** " (Spalte **U**) in der lizenzbasierten Abstimmungs Datei. |
 | Andere Guthaben | Guthaben exklusive Steuern |
@@ -59,7 +59,7 @@ Die folgenden Felder gelten nur für **einmalige Gebühren** in Partner Center:
 | Feld | Definition |
 | ----- | ---------- |
 | Date | Kaufdatum. |
-| Beschreibung | Produktname |
+| BESCHREIBUNG | Produktname |
 | Menge | Die Anzahl erworbener Produkte (z. b. Reservierungen). |
 | Unit price | Preis pro Produkt (z. b. eine Reservierung). |
 | Discounts | Alle anwendbaren Rabatte. |

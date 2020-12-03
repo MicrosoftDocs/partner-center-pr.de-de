@@ -1,6 +1,6 @@
 ---
-title: Verbindung mit ihren Kunden herstellen
-description: Erfahren Sie, wie Sie eine Verbindung mit neuen und vorhandenen Kunden als indirekter Händler herstellen.
+title: Kontakt zu Ihren Kunden
+description: Wenn Sie ein indirekter Reseller im CSP-Programm sind, hilft Ihnen dieser Artikel dabei, sich mit ihren neuen und vorhandenen Kunden zu verbinden.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: dc0d5af728b5e17bc8070fae9c895adc2bf8db4c
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: cb8a3403968ddf5c83c7fdbd1d1af6f6f740d1ff
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92010702"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556309"
 ---
 # <a name="connect-with-customers"></a>Kontakt zu Kunden
 

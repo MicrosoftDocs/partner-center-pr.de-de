@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 05/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Synchronisieren Sie Ihre Verweise im Partner Center mit Ihrem Co-Selling-Connector für Dynamics 365 CRM. Verkäufer können sich dann in Ihrem CRM-System mit Microsoft zusammen verkaufen.
+description: Synchronisieren Sie Verweise in Partner Center mit Ihrem Co-Selling-Connector für Dynamics 365 CRM. Verkäufer können sich dann in Ihrem CRM-System mit Microsoft zusammen verkaufen.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: c92938bbb4ffa6875419d06a9bbf23010ee60724
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 18a54bf777cb987e8f486f85afcf277e04c1055c
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947781"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556360"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Co-Selling-Connector für Dynamics 365 CRM – Übersicht
 

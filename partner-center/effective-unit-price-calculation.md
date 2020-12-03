@@ -1,20 +1,20 @@
 ---
-title: Berechnung der effektiven Einheiten Preise
+title: Berechnung des effektiven Preises pro Einheit
 ms.topic: how-to
 ms.date: 11/10/2020
-description: Erfahren Sie mehr über die effektive Preis Einheit und deren Berechnung. Schließt eine Beispiel Berechnung ein.
+description: Erfahren Sie mehr über den effektiven Einzelpreis und seine Berechnung. Dieser Artikel enthält auch eine Beispiel Berechnung.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b65a79232656af6ddb69fede7a9ee35fe426a9d
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94498567"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556326"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Berechnung der effektiven Einheiten Preise für die Nutzung des Azure-Plans
 
@@ -55,7 +55,7 @@ In der Tabelle gelten die folgenden Werte:
 >[!NOTE]
 >Hinweis: die Verbrauchseinheit in diesem Beispiel enthält keine Tarife in den Preisen.
 
-| Datum | BCU (abrechenbare Verbrauchseinheit) | BC (Abrechnungskosten) | Effektiver Einheitspreis |
+| Date | BCU (abrechenbare Verbrauchseinheit) | BC (Abrechnungskosten) | Effektiver Einheitspreis |
 | ------ | ----------- | ----------- | ----------- |  
 | 3. Aug | 29 | 21,39 | 0.737586206896552 |
 | 10. Aug | 210,950039 | 155,63 | 0.737757626107858 |

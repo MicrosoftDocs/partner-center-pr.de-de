@@ -2,6 +2,8 @@
   href: index.yml
 - name: Ankündigungen
   href: announcements/TOC.md
+- name: Informationen zu Partner Center
+  href: overview.md
 - name: Mitgliedschaft im Partnernetzwerk
   items:
     - name: Partner von Microsoft
@@ -60,8 +62,13 @@
         - name: Ausnahme der Anwendungsentwicklungskompetenz
           href: app-dev-isv.md
     - name: Erweiterte Spezialisierungen-
-      href: advanced-specializations.md
-      displayName: mpn
+      items:
+        - name: Herausstellen Ihres Fachwissens
+          href: advanced-specializations.md
+          displayName: mpn
+        - name: Bewerben oder Überprüfen des Status
+          href: advanced-specializations-apply.md
+          displayName: mpn
     - name: Qualifizierung als Azure Expert MSP
       href: azure-expert-msp.md
     - name: Vorteile

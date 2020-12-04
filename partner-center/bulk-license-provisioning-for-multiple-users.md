@@ -9,18 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: de7b9775be925911dab6a7fd72b8f81a5b701bec
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: b2c59bc40b5092a4a2ee6e06bcb2e49a86e0201d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527396"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570653"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Zuweisen oder widerrufen von Lizenzen gleichzeitig für mehrere Benutzer in einem Kundenkonto
-
-**Zielgruppe**
-
-- Partner Center
 
 **Geeignete Rollen**
 
@@ -38,7 +34,7 @@ Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und ze
 
 1. Wählen Sie im Menü **Partner Center** die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 
-2. Wählen Sie **Benutzer und Lizenzen**aus.
+2. Wählen Sie **Benutzer und Lizenzen** aus.
 
 3. Aktivieren Sie das Kontrollkästchen für zwei oder mehr Benutzer aus der Liste. (Aktivieren Sie zum Auswählen aller Benutzer auf der aktuellen Seite das Kontrollkästchen oben in der Spalte **Benutzer**.)
 
@@ -80,7 +76,7 @@ Der Partner Center verfolgt alle kundeneigenen Lizenz Berechtigungen nach und ze
 
 1. Wählen Sie im Menü **Partner Center** die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 
-2. Wählen Sie **Benutzer und Lizenzen**aus.
+2. Wählen Sie **Benutzer und Lizenzen** aus.
 
 3. Aktivieren Sie das Kontrollkästchen für zwei oder mehr Benutzer aus der Liste. (Aktivieren Sie zum Auswählen aller Benutzer auf der aktuellen Seite das Kontrollkästchen oben in der Spalte **Benutzer**.)
 

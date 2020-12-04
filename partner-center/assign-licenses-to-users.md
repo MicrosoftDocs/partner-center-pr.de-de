@@ -1,22 +1,22 @@
 ---
-title: Verwalten von Benutzern und Benutzerlizenzen für Kundenkonten
+title: Verwalten von Benutzern für Kundenkonten
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie Benutzer für Ihre Kunden in Partner Center verwalten, z. b. Benutzerkonten erstellen, Benutzerlizenzen hinzufügen oder entfernen, Benutzer Kennwörter zurücksetzen und Benutzerkonten löschen oder wiederherstellen.
+description: 'Verwalten von Benutzern für Ihre Kunden im Partner Center: Erstellen von Benutzerkonten, hinzufügen oder Entfernen von Benutzerlizenzen, Zurücksetzen von Kenn Wörtern und löschen oder Wiederherstellen von Benutzerkonten.'
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474069"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570738"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Verwalten von Benutzern und Benutzerlizenzen für Kundenkonten
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Verwalten von Benutzern und Benutzerlizenzen für Kundenkonten 
 
 **Geeignete Rollen**
 
@@ -72,25 +72,25 @@ Die folgenden Schritte gelten für das Hinzufügen oder Entfernen von Benutzerli
 
 ## <a name="reset-a-users-password-for-a-customer"></a>Zurücksetzen eines Benutzerkennworts für einen Kunden
 
-1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
+1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
 2. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
 
-3.  Wählen Sie im Menü des Kunden die Option **Users and licenses** (Benutzer und Lizenzen) aus. Wählen Sie den Benutzer in der Liste aus.
+3. Wählen Sie im Menü des Kunden die Option **Users and licenses** (Benutzer und Lizenzen) aus. Wählen Sie den Benutzer in der Liste aus.
 
-4.  Wählen Sie am unteren Bildschirmrand **Kennwort zurücksetzen**. 
+4. Wählen Sie am unteren Bildschirmrand **Kennwort zurücksetzen**. 
 
-5.  Senden Sie das neue temporäre Kennwort an den Benutzer.
+5. Senden Sie das neue temporäre Kennwort an den Benutzer.
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Löschen von Benutzerkonten für einen Kunden
 
-1.  Wählen Sie im **Partner Center** -Menü die Option **Kunden** aus. Wählen Sie den Kunden in der Liste aus.
+1. Wählen Sie im **Partner Center** -Menü die Option **Kunden** aus. Wählen Sie den Kunden in der Liste aus.
 
-2.  Wählen Sie im Menü des Kunden die Option **Users and licenses** (Benutzer und Lizenzen) aus. Wählen Sie den Benutzer in der Liste aus.
+2. Wählen Sie im Menü des Kunden die Option **Users and licenses** (Benutzer und Lizenzen) aus. Wählen Sie den Benutzer in der Liste aus.
 
-3.  Wählen Sie unten auf dem Bildschirm die Option **Benutzerkonto löschen** aus.
+3. Wählen Sie unten auf dem Bildschirm die Option **Benutzerkonto löschen** aus.
 
 Wenn Sie dieses Konto wiederherstellen müssen, finden Sie es auf der Registerkarte **Gelöschte Benutzer** in der Liste **Benutzer und Lizenzen** des Kunden. Sie haben zum Wiederherstellen eines gelöschten Benutzers 30 Tage Zeit.
 
@@ -98,19 +98,18 @@ Wenn Sie dieses Konto wiederherstellen müssen, finden Sie es auf der Registerka
 
 ## <a name="restore-deleted-user-accounts"></a>Wiederherstellen gelöschter Benutzerkonten
 
-1.  Wählen Sie im Menü **Partner Center** die Option **Kunden** und dann einen Kunden in der Liste aus.
+1. Wählen Sie im Menü **Partner Center** die Option **Kunden** und dann einen Kunden in der Liste aus.
 
-2.  Wählen Sie **Benutzer und Lizenzen** aus.
+2. Wählen Sie **Benutzer und Lizenzen** aus.
 
-3.  Wählen Sie die Registerkarte **Gelöschte Benutzer ()** aus. Es sollte **(1)** oder größer sein, wenn gelöschte Benutzer wieder hergestellt werden können.
+3. Wählen Sie die Registerkarte **Gelöschte Benutzer ()** aus. Es sollte **(1)** oder größer sein, wenn gelöschte Benutzer wieder hergestellt werden können.
 
-4.  Aktivieren Sie das Kontrollkästchen von mindestens einem gelöschten Benutzer, und wählen Sie **Wiederherstellen**.
+4. Aktivieren Sie das Kontrollkästchen von mindestens einem gelöschten Benutzer, und wählen Sie **Wiederherstellen**.
 
     Alle ausgewählten Benutzerkonten werden erneut auf der Seite **Benutzer und Lizenzen** angezeigt.
 
-## <a name="related-topics"></a>Zugehörige Themen
+## <a name="next-steps"></a>Nächste Schritte
 
+- [Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer](bulk-license-provisioning-for-multiple-users.md)
 
-[Zuweisen oder Widerrufen von Lizenzen für mehrere Benutzer](bulk-license-provisioning-for-multiple-users.md)
-
-[Erstellen mehrerer Benutzer für ein Kundenkonto](adding-multiple-users-to-a-customer-account.md)
+- [Erstellen mehrerer Benutzer für ein Kundenkonto](adding-multiple-users-to-a-customer-account.md)

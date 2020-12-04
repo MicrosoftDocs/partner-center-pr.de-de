@@ -1,20 +1,20 @@
 ---
-title: Lösungs Status der Lösungsmöglichkeiten auf der Channel-Incentive-Plattform (Chip)
+title: Status der Chip Lösungs Bewertung
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Erfahren Sie, wie Sie den Lösungs Status Ihrer Lösungs Bewertungen auf dem Chip finden.
+description: Erfahren Sie, wie Sie den Status der Lösungs Bewertung auf der Channel-Incentive-Plattform (Chip) finden.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 035d500e41e3b28ac566ab42b3406c095dea7b11
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 8f453243d7d59fde84a6660f7160447fc05d68d1
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418117"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570381"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>Ermitteln des Verkaufschancen Status der Lösungs Bewertungen auf dem Chip
 
@@ -62,8 +62,8 @@ Wenn Sie weitere Fragen haben oder ein Support Ticket übermitteln möchten, kli
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Überprüfen des Zahlungsstatus in Chip](chip-payment-status.md)
-- [Support](report-problems-with-partner-center.md)
+- [Überprüfen des Zahlungsstatus in CHIP](chip-payment-status.md)
+- [Unterstützung](report-problems-with-partner-center.md)
 
 .
 

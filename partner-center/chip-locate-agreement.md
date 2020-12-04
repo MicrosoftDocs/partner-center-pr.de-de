@@ -1,22 +1,22 @@
 ---
-title: Suchen der Desktop Anzahl und der Gebühr für eine Vereinbarung
+title: Suchen der Desktop Anzahl, Kosten Stufe in Chip
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Gibt an, wo die Informationen zur Desktop Anzahl und zur Kosten Stufe in Chip ist.
+description: Erfahren Sie, wie Sie die Channel-Incentive-Plattform (Chip) verwenden, um die Informationen zur Desktop Anzahl und zur Gebühr für eine Vereinbarung zu ermitteln.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6eb763593427070fa309efe78fd39a294e9a6d99
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 51307be51de3c41aca9fb9d39ab623f4dac318a7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418123"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570551"
 ---
-# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Suchen der Desktop Anzahl und der Gebühr für eine Vereinbarung
+# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Suchen der Desktopanzahl und Gebührenstufe für eine Vereinbarung
 
 Sie können in Excel herunterladen. Dies ist eine Datei, die Vertragsdetails für die Desktop Anzahl und die Gebühren Stufe enthält.
 

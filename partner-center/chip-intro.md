@@ -1,20 +1,20 @@
 ---
-title: Navigieren in der Kanal-Incentive-Plattform (Chip)
+title: Verwenden der Channel-Incentive-Plattform (Chip)
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Erfahren Sie, wie Sie Chip für Ihre Incentives verwenden können.
+description: Erfahren Sie, wie Sie die Channel-Incentive-Plattform (Chip) für ihre Anreize verwenden können. Beachten Sie, dass diese Plattform am Ende von 2021 eingestellt wird.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ca669cb62995b84dc246cbc5db5d1b9ada8b8ed
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418116"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570399"
 ---
 # <a name="navigate-the-channel-incentives-platform-chip"></a>Navigieren Sie zur Channel-Incentive-Plattform (Chip).
 
@@ -41,4 +41,4 @@ Von dort aus können Sie die **Leistung** und den **Gewinn** für das ausgewähl
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Hinzufügen von Benutzern zu Ihrem Chip-Konto](chip-users.md)
+- [Hinzufügen von Benutzern zu Ihrem CHIP-Konto](chip-users.md)

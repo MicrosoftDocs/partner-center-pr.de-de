@@ -9,19 +9,21 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417250"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570687"
 ---
 # <a name="benefits-faq"></a>Häufig gestellte Fragen zu den Vorteilen
 
-Gilt für:
+**Geeignete Rollen**
 
-- Partner Center
-- Partner Center für Microsoft Cloud for US Government
+- MPN-Administrator
+
+Viele häufig gestellte Fragen zu Microsoft Partner Network-Vorteilen (MPN) werden in diesem Artikel behandelt.
+
 
 ## <a name="general-questions"></a>Allgemeine Fragen
 
@@ -87,7 +89,7 @@ Mithilfe der folgenden Schritte können Sie jeder Person in der Benutzer Verwalt
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 
-2. Wählen Sie im linken Navigationsbereich **MPN** aus.
+2. Wählen Sie im Partner Center-Menü die Option **MPN** aus.
 
 3. Wählen Sie **Vorteile** aus, und wählen Sie dann **Visual Studio** aus.
 
@@ -96,7 +98,7 @@ Mithilfe der folgenden Schritte können Sie jeder Person in der Benutzer Verwalt
 Nachdem Sie das Abonnement zugewiesen haben, muss sich der Benutzer bei Visual Studio anmelden, um ihn zu verwalten.
 
 >[!Note]
-> Visual Studio-Abonnements können nach 90 Tagen nach der ursprünglichen Zuweisung von einem Abonnenten zu einem anderen neu zugewiesen werden.
+> Visual Studio-Abonnements können nach der ursprünglichen Zuweisung von einem Abonnenten zu einem anderen 90 Tage neu zugewiesen werden.
 
 ## <a name="technical-benefits-and-support"></a>Technische Vorteile und Support
 
@@ -106,7 +108,7 @@ Installation, Aktivierung und andere produktbezogene Hilfe werden über Microsof
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 
-2. Wählen Sie im linken Navigationsbereich **MPN** aus.
+2. Wählen Sie im Partner Center-Menü die Option **MPN** aus.
 
 3. Wählen Sie **Vorteile** aus, und wählen Sie dann **technische Vorteile** aus.
 
@@ -115,3 +117,7 @@ Installation, Aktivierung und andere produktbezogene Hilfe werden über Microsof
 5. Melden Sie sich bei [Microsoft-Support](https://support.microsoft.com/supportforbusiness/productselection)an.
 
 6. Wählen Sie das Produkt aus, das Sie installieren möchten, und erstellen Sie dann ein technisches Support-Ticket.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Erwerben Sie eine erweiterte Spezialisierung, um Ihr Fachwissen vorzustellen](advanced-specializations.md)

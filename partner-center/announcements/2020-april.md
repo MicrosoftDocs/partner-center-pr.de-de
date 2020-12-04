@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132993"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439139"
 ---
 # <a name="april-2020-announcements"></a>Ankündigungen für April 2020
 
@@ -30,8 +30,8 @@ _________________
 
 - Datum: 2020-04-30
 - Typ: Funktionen
-- Status: Bald verfügbar
-- [Weitere Informationen](https://aka.ms/CSPCOVIDPromo)
+
+
 
 ### <a name="summary"></a>Zusammenfassung
 
@@ -49,7 +49,7 @@ Am 4. Mai 2020 führt Microsoft neue Rabattaktionen für Office 365 E1 und M
 Diese Promotions ersetzen das aktuelle Testangebot für Office 365 E1 und weisen folgende Unterschiede auf:
 
 - Partner bieten diese Office 365 E1- oder Microsoft 365 Business Basic-SKUs im Jahresabonnement an. Dabei nutzen sie eine CSP-Promotion und gewähren für die ersten 6 Monate einen 100 %-igen Rabatt, anstatt eine einmalige 6-monatige Test-SKU bereitzustellen. [Erfahren Sie mehr zu CSP-Promotions](../promotions.md).
-- Die Bestellung ist technisch „ausschließlich auf Neukunden“ beschränkt. Dies steht im Gegensatz zur Testversion von Office 365 E1, die lediglich durch eine schriftliche Regelung auf Neukunden beschränkt war. Weitere Informationen finden Sie in den [Microsoft Partner-FAQ](https://aka.ms/CSPCOVIDPromo).
+- Die Bestellung ist technisch „ausschließlich auf Neukunden“ beschränkt. Dies steht im Gegensatz zur Testversion von Office 365 E1, die lediglich durch eine schriftliche Regelung auf Neukunden beschränkt war. 
 - Für SMB-Kunden ist Microsoft 365 Business Basic in dieser Promotion enthalten. So können Partner dafür sorgen, dass Kunden mit weniger als 300 Arbeitsplätzen mit Microsoft 365 Business direkt in der richtigen Produktfamilie starten können.
 Kunden, die derzeit über eine Lizenz für die Testversion von Office 365 E1 verfügen (bis zum 4. Mai 2020 verfügbar), behalten ihren aktuellen Plan – diese Änderung gilt nur für reine Neukunden.
 
@@ -58,12 +58,13 @@ Definition von Neukunden
 Für diese Promotion berechtigte Neukunden sind:
 
 1. Neue Kundenmandanten
-2. Bestehende Kunden, die in ihrem Mandanten aktuell kein kostenpflichtiges oder kürzlich (innerhalb der letzten 30 Tage) gekündigtes Abonnement für eines der Produkte aufweisen, die im [Leitfaden mit häufig gestellten Fragen (FAQ) für Microsoft Partner](https://aka.ms/CSPCOVIDPromo) definiert sind.
+2. Bestandskunden, die in ihrem Mandanten aktuell kein kostenpflichtiges oder kürzlich (innerhalb der letzten 30 Tage) gekündigtes Abonnement für eines der Produkte aufweisen, die im Leitfaden mit häufig gestellten Fragen (FAQ) für Microsoft Partner definiert sind
 
+ 
 ### <a name="additional-resources"></a>Zusätzliche Ressourcen
 
 - Besuchen Sie das [Partner Center mit Ressourcen für mobiles Arbeiten](https://www.microsoft.com/microsoft-365/partners/remotework), um mehr über sichere Mobilarbeit zu erfahren.
-- Lesen Sie die [verwandten FAQ für Partner](https://aka.ms/CSPCOVIDPromo), um mehr über diese Änderungen zu erfahren.
+
 
 ### <a name="next-steps"></a>Nächste Schritte
 
@@ -172,7 +173,7 @@ Zur weiteren Unterstützung von Partnern und Kunden beginnt **ab dem 1. Mai 202
 
 ### <a name="next-steps"></a>Nächste Schritte
 
-- **Wenn Sie die empfohlenen Sicherheitsanforderungen zum Schutz Ihrer Mandanten und Benutzer nicht aktiviert haben** , sollten Sie dies sofort nachholen, damit Ihre Compliance erhalten bleibt und Geschäftsunterbrechungen bei der Verwaltung von Kunden oder beim Durchführen von Transaktionen im CSP-Programm vermieden werden. Partner, die diese Sicherheitsanforderungen nicht implementieren, gefährden damit möglicherweise ihre Teilnahme am CSP-Programm.
+- **Wenn Sie die empfohlenen Sicherheitsanforderungen zum Schutz Ihrer Mandanten und Benutzer nicht aktiviert haben**, sollten Sie dies sofort nachholen, damit Ihre Compliance erhalten bleibt und Geschäftsunterbrechungen bei der Verwaltung von Kunden oder beim Durchführen von Transaktionen im CSP-Programm vermieden werden. Partner, die diese Sicherheitsanforderungen nicht implementieren, gefährden damit möglicherweise ihre Teilnahme am CSP-Programm.
 - Indirekte Anbieter müssen diese Sicherheitsanforderungen für ihre Unternehmen selbst implementieren und mit ihren Handelspartnern zusammenarbeiten, um sicherzustellen, dass diese die Anforderungen ebenfalls implementieren. Dafür kann diese E-Mail-Vorlage eingesetzt werden. Wir nehmen zudem per E-Mail direkten Kontakt zu Ihren Handelspartnern auf.
 - Rufen Sie die [Statusseite zu den Partner Center-Sicherheitsanforderungen](https://partner.microsoft.com/commerce/security/compliance) auf, um Ihren Fortschritt und die wichtigsten Aktionen einzusehen. Arbeiten Sie mit Ihrem globalen Administrator zusammen, um den Fortschritt der Sicherheitsanforderungen für die einzelnen Mandanten regelmäßig zu überprüfen.
 - Wenden Sie sich an Ihren CPV (Control Panel Vendor), wenn Sie eine CPV-Lösung verwenden.
@@ -621,7 +622,7 @@ Die Operations Readiness-Ressourcen auf „partner.microsoft.com“ funktioniere
 Wie können Sie sich vorbereiten?
 
 - **Erfahren Sie mehr** zum Ort der neuen Microsoft-Partner-Website, indem Sie die aktualisierten Readiness-Materialien in der Katalogsammlung [Bald verfügbar: Operations Readiness-Ressourcen an einem zentralen Ort](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/) lesen.
-- **Nehmen Sie im April an einem Partner Community Call teil** , bei dem Sie mehr über die neue Umgebung erfahren und Fragen stellen können: [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
+- **Nehmen Sie im April an einem Partner Community Call teil**, bei dem Sie mehr über die neue Umgebung erfahren und Fragen stellen können: [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
 ### <a name="questions"></a>Noch Fragen?
 

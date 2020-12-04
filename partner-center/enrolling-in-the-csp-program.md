@@ -1,20 +1,20 @@
 ---
 title: Registrieren für das Programm für Cloud-Lösungsanbieter
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie sich für ein Vertriebsmodell des Cloud Solution Provider (CSP)-Programms registrieren, das am besten für Ihr Unternehmen geeignet ist – z. B. als indirekter Wiederverkäufer oder Direktabrechnungspartner.
+description: Erfahren Sie, wie Sie sich für ein Vertriebsmodell des Cloud Solution Provider-Programms (CSP) registrieren, das am besten für Ihr Unternehmen geeignet ist – z. B. als indirekter Wiederverkäufer oder Direktabrechnungspartner.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045399"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322082"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud-Lösungsanbieter
 
@@ -42,7 +42,7 @@ Die Überprüfung deiner Angaben kann mehrere Tage dauern. Wir werden Sie per E-
 3. Nachdem wir Ihre Informationen bestätigt haben, akzeptieren Sie die Vereinbarung für indirekte Microsoft-Wiederverkäufer.
 
 > [!IMPORTANT]  
-> Ein Partner im CSP-Programm kann derzeit einem anderen Partner im CSP-Programm keine Onlinedienste verkaufen. Microsoft überprüft ständig die Richtlinien und Möglichkeiten aller Programme. Alle Neuigkeiten zur Freigabe von Features oder Richtlinienänderungen werden über die üblichen Kommunikationskanäle angekündigt, einschließlich [Partner Center-Ankündigungen](announcements/index.md).
+> Ein Partner im CSP-Programm kann derzeit einem anderen Partner im CSP-Programm keine Onlinedienste verkaufen. Diese Einschränkung gilt nur für Mandanten, die für die Durchführung von CSP-Transaktionen verwendet werden. CSP-Partner, die einen Nicht-CSP-Mandanten für ihre Unternehmensnutzung verwenden, können Onlinedienste von einem anderen CSP-Partner erwerben. Microsoft überprüft ständig die Richtlinien und Möglichkeiten aller Programme. Alle Neuigkeiten zur Freigabe von Features oder Richtlinienänderungen werden über die üblichen Kommunikationskanäle angekündigt, einschließlich [Partner Center-Ankündigungen](announcements/index.md).
 
 ## <a name="enroll-as-an-indirect-reseller"></a>Sich als indirekter Wiederverkäufer registrieren
 
@@ -60,7 +60,7 @@ Verschiedene indirekte Anbieter bieten unterschiedliche Unterstützung und Leist
 
 Falls du noch nicht mit einem Anbieter (oder Händler) zusammenarbeitest, kannst du einen Anbieter in der [Liste mit offiziellen Microsoft-Anbietern](https://partnercenter.microsoft.com/partner/find-a-provider) finden.
 
-Weitere Informationen zu den Anforderungen, die du als indirekter Wiederverkäufer zur Teilnahme am CSP-Programm erfüllen musst, findest du unter [Erste Schritte als indirekter Reseller](https://partner.microsoft.com/cloud-solution-provider/whats-required) auf der [Microsoft Partner Network-Website](https://partner.microsoft.com/). 
+Weitere Informationen zu den Anforderungen, die du als indirekter Wiederverkäufer zur Teilnahme am CSP-Programm erfüllen musst, findest du unter [Erste Schritte als indirekter Reseller](https://partner.microsoft.com/cloud-solution-provider/whats-required) auf der [Microsoft Partner Network-Website](https://partner.microsoft.com/).
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Registrieren als Direktabrechnungspartner
 
@@ -99,4 +99,4 @@ Informieren Sie sich auf jeden Fall unter [Voraussetzungen für das Hinzufügen 
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Informationen zur Microsoft Partner-Vereinbarung für Partner im CSP-Programm](microsoft-partner-agreement.md)
+[Informationen zur Microsoft Partner-Vereinbarung für Partner im CSP-Programm](microsoft-partner-agreement.md)

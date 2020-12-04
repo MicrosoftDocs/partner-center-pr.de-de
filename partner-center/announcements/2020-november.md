@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514740"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439088"
 ---
 # <a name="november-2020-announcements"></a>Ankündigungen für November 2020
 
@@ -30,7 +30,7 @@ ______________
 - Datum: 24.11.2020
 - Funktionen
 
-## <a name="summary"></a>Zusammenfassung
+### <a name="summary"></a>Zusammenfassung
 
 Microsoft führt für Partner im Cloud Solution Provider-Programm die Möglichkeit ein, SaaS-Angebote mit getakteter Abrechnung in Partner Center zu erwerben. 
 
@@ -46,8 +46,7 @@ Microsoft führt für Partner im Cloud Solution Provider-Programm (einschließli
 
 Leiten Sie diese Informationen an alle zuständigen Mitarbeiter in Ihrem Unternehmen weiter.
 
-
-
+______________
 
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>Neue, einheitliche Kontoverwaltungsoberfläche
 
@@ -56,7 +55,7 @@ Leiten Sie diese Informationen an alle zuständigen Mitarbeiter in Ihrem Unterne
 - Datum: 18.11.2020
 - Funktionen
 
-## <a name="summary"></a>Zusammenfassung
+### <a name="summary"></a>Zusammenfassung
 
 Am 18. November beginnt Partner Center mit dem Rollout der neuen Kontoverwaltungsoberfläche, die mehr Benutzerfreundlichkeit für Partner bietet. Partner können nun Ihr Konto für alle Programme über „Einstellungen“ > „Kontoeinstellungen“ verwalten.
 
@@ -84,8 +83,7 @@ Melden Sie sich beim Partner Center-Dashboard an, wählen Sie das Symbol  **Ei
 
 Leiten Sie diese Informationen an alle zuständigen Mitarbeiter in Ihrem Unternehmen weiter.
 
-
-
+______________
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Promotion für Office 365 E1 für mittelständische Unternehmen (LATAM, APAC und Indien)
 
@@ -113,6 +111,7 @@ Diese ist ab dem 1. Dezember verfügbar. Leiten Sie in der Zwischenzeit diese I
 
 ### <a name="questions"></a>Fragen?
 Falls Sie Fragen haben oder weitere Informationen benötigen, wenden Sie sich an den [Partner Center-Support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp).
+
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Partner Center-API-Updates und Verbesserungen der Benutzeroberfläche zur Stärkung der Kundenprüfung in bestimmten Ländern
@@ -254,8 +253,6 @@ In der Region der Europäischen Union (EU)/Europäischen Freihandelszone (EFTA) 
 
 Ab Januar 2021 erfolgt für Partner mit neuen Kunden, die neue E-Commerce-Angebote erwerben, die Abrechnung für diese Käufe in der Währung am Standort des Partners. Für Partner mit Bestandskunden, die bereits neue E-Commerce-Angebote in CSP erworben haben, erfolgt die Abrechnung in dieser Phase weiterhin in der Währung am Standort der Kunden. 
 
- 
-
 - **Phase 2: Bestandskunden, die vor Januar 2021 ein neues E-Commerce-Angebot in CSP erworben haben** 
 
 Im Anschluss an Phase 1 und während des Kalenderjahrs 2021 stellt Microsoft die Abrechnung neuer E-Commerce-Angebote für Partner mit Bestandskunden, die vor Januar 2021 ein neues E-Commerce-Angebot in CSP erworben haben, von der Währung am Kundenstandort auf die Währung am Partnerstandort um. Partner werden vorab benachrichtigt, bevor diese Änderung implementiert wird.  
@@ -279,6 +276,8 @@ Diese Änderung betrifft die folgenden neuen E-Commerce-Angebote: Azure-Abonneme
 ### <a name="resources"></a>Ressourcen 
 
 Lesen Sie die Informationen zu diesem Thema im [Ressourcenkatalog für Vorgänge] (https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ auf der Microsoft-Partner-Website.  
+
+______________
 
 ## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>API-Drosselung für Partner, die Partner Center-APIs aufrufen
 
@@ -310,7 +309,7 @@ Partner Center ist darauf ausgelegt, eine große Anzahl von Anforderungen zu ver
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[Abrufen aller Abonnements eines Kunden](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Abrufen eines Abonnements nach ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[Abrufen aller Bestellungen eines Kunden](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders||[Abrufen aller Bestellungen eines Kunden](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Abrufen eines Auftrags nach ID](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Abrufen des Abonnementbereitstellungsstatus](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Verwalten von Aufträgen und Verwalten eines Abonnements](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -328,7 +327,7 @@ Mit dieser Ankündigung sollen Partner frühzeitig über die bevorstehenden Änd
 
 Lesen Sie den [Leitfaden zur API-Drosselung](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance), und führen Sie die erforderlichen Schritte aus. 
 
-
+______________
 
 ## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>409-Fehler aufgrund doppelter MCA-Anforderungen
 
@@ -365,8 +364,7 @@ Lesen Sie den [Leitfaden zur API-Drosselung](https://docs.microsoft.com/partner-
 
 - Leiten Sie diese Informationen an die entsprechenden Teams in Ihrer Organisation weiter, um sie bei der Vorbereitung auf diese Änderungen zu unterstützen.
 
-
->>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+______________
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Verfügbare Tests: Verbesserungen der Partner Center-API und -Benutzeroberfläche (UI) für den Überprüfungsprozess für Kunden im Bildungswesen
 
@@ -405,17 +403,17 @@ Zusätzlich zu diesen Verbesserungen freuen wir uns mitteilen zu können, dass i
 
 Microsoft behält sich das Recht vor, den Status jedes Kunden oder vorgeschlagenen Kunden als qualifizierter Nutzer von Bildungsangeboten zu überprüfen. Ausführliche Informationen dazu finden Sie unter den [Anforderungen für qualifizierte Nutzer für Forschung & Lehre](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7).
 
-## <a name="next-steps"></a>Nächste Schritte
+### <a name="next-steps"></a>Nächste Schritte
 
-Sehen Sie sich die neuen Änderungen der Partner Center-Benutzeroberfläche und -API sowie den Testleitfaden in der [Inhaltsauflistung zu den Verbesserungen des Überprüfungsprozesses für Kunden im Bildungswesen im Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) an.
+- Sehen Sie sich die neuen Änderungen der Partner Center-Benutzeroberfläche und -API sowie den Testleitfaden in der [Inhaltsauflistung zu den Verbesserungen des Überprüfungsprozesses für Kunden im Bildungswesen im Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) an.
 
-• Registrieren Sie sich für die Teilnahme am Test. (Ausführlichere Informationen finden Sie im [Testleitfaden](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf).) 
+- Registrieren Sie sich für die Teilnahme am Test. (Ausführlichere Informationen finden Sie im [Testleitfaden](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf).) 
 
-• Stellen Sie sicher, dass Ihre Organisation mit den [Anforderungen für qualifizierte Nutzer für Forschung & Lehre](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) vertraut ist. 
+- Stellen Sie sicher, dass Ihre Organisation mit den [Anforderungen für qualifizierte Nutzer für Forschung & Lehre](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) vertraut ist. 
 
-• Leiten Sie diese Informationen an die entsprechenden Teams in Ihrer Organisation und Ihre Handelspartner weiter, um sie bei der Vorbereitung auf diese Änderungen zu unterstützen.
+- Leiten Sie diese Informationen an die entsprechenden Teams in Ihrer Organisation und Ihre Handelspartner weiter, um sie bei der Vorbereitung auf diese Änderungen zu unterstützen.
 
-
+______________
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Erweiterung von Partnerinhalten für kommerzielle Lizenzierung in der Operations Readiness-Katalogsammlung
 
@@ -483,7 +481,7 @@ Mit dem Premium-Angebot haben Kunden Zugriff auf die neu veröffentlichten verwa
 #### <a name="microsoft-teams-rooms-managed-services"></a>Verwaltete Dienste für Microsoft Teams-Räume
 
 - Proaktive Verwaltung: Verwaltung Ihrer Raumsysteme, einschließlich Patching, Konfigurationsverwaltung und mehr, rund um die Uhr an 365 Tagen im Jahr.
-• Echtzeitüberwachung und Fehlerursachenanalyse: Überwachung und Erkennung mit orchestrierter Reaktion des Incident-Managements, die bei Bedarf von Microsoft in Abstimmung mit dem Kunden durchgeführt wird. Mit der mobilen App können Sie auch unterwegs auf dem Laufenden zu bleiben.
+- Echtzeitüberwachung und Fehlerursachenanalyse: Überwachung und Erkennung mit orchestrierter Reaktion des Incident-Managements, die bei Bedarf von Microsoft in Abstimmung mit dem Kunden durchgeführt wird. Mit der mobilen App können Sie auch unterwegs auf dem Laufenden zu bleiben.
 - Verwaltete Updates: Verwaltung und Bereitstellung von Anwendungs-, Windows KB- und Firmwareupdates.
 - Schutz vor Sicherheitsbedrohungen: Schutz vor Sicherheitsbedrohungen über Microsoft Defender Advanced Threat Protection.
 - Kundensupport: Ticketsupport rund um die Uhr an 365 Tagen durch unser dediziertes Service Operations Center mit unterstützter Incident-Behebung für nicht automatisierte Fälle. Differenzierte rollenbasierte Zugriffssteuerung.

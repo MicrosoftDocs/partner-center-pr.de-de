@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/19/2020
-ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.date: 12/03/2020
+ms.openlocfilehash: caf7527e82b6474c19714345ff9c3339a344704a
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932768"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570755"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
 Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen werden häufig aktualisiert, überprüfen Sie sie daher in regelmäßigen Abständen.
 
-| **Kategorie** | **Ankündigungen für November 2020** | **Angekündigt** |
+| **Kategorie** | **Ankündigungen für Dezember 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+|Angebote/Märkte|[Aktualisierung des Angebots für Microsoft 365 Business Voice mit Anrufplan in den USA in Kürze verfügbar](2020-december.md#2)|3\. Dezember|
+|Funktionen|[Jetzt verfügbar: Partner Center-API-Updates und Verbesserungen der Benutzeroberfläche für den Überprüfungsprozess für Kunden im Bildungswesen](2020-december.md#1)|3\. Dezember|
+| **Kategorie** | **Ankündigungen für November 2020** | **Angekündigt** |
 |Funktionen|[Neue, einheitliche Kontoverwaltungsoberfläche](2020-november.md#13)|18. November|
 |Angebote/Märkte|[Promotion für Office 365 E1 für mittelständische Unternehmen (LATAM, APAC und Indien)](2020-november.md#12)|18. November|
 |Funktionen|[Partner Center-API-Updates und Verbesserungen der Benutzeroberfläche zur Stärkung der Kundenprüfung in bestimmten Ländern](2020-november.md#11)|17. November|

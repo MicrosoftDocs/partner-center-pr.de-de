@@ -5,15 +5,15 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 12/04/2020
+ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663881"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755638"
 ---
-# <a name="vat-info"></a>Umsatzsteuerinfo
+# <a name="value-added-tax-vat-information"></a>Mehrwert Steuerungsinformationen
 
 **Gilt für:**
 
@@ -25,6 +25,24 @@ Wenn Sie während der Partner Center-Registrierung eine Umsatzsteuer-ID angeben 
 ## <a name="understanding-vat-numbers"></a>Grundlagen der Steuernummern
 
 Eine Umsatzsteuernummer ist eine ID, die für Länder oder Regionen in der EU verwendet wird Weitere Informationen finden Sie auf der offiziellen [vies-Website](http://ec.europa.eu/taxation_customs/vies/vieshome.do)der Europäischen Union.
+
+## <a name="location-specific-vat-information"></a>Ortsspezifische Umsatzsteuer Informationen
+
+Die folgenden Details gelten nur für die unten aufgeführten Länder oder Regionen.
+
+### <a name="european-union"></a>Europäische Union
+
+In den Mitgliedstaaten der Europäischen Union müssen Partner ihre gültige USt-IdNr. angeben, um eine ordnungsgemäße Steuerschuldumkehr und Abrechnung zu gewährleisten. Die USt-IdNr. muss nachweislich gültig sein.
+
+Microsoft unterstützt keine Gutschrift und keine erneute Abrechnung. Vor dem Verkauf von Abonnements müssen Sie [Ihre Umsatzsteuer-ID-Nummer](organization-tax-info.md) im Partner Center registrieren.
+
+### <a name="south-africa"></a>Südafrika
+
+Microsoft wendet nun die Standard-Mehrwertsteuer für digitale Inhalte und Dienste an, die von Partnern in Südafrika erworben wurden. Um die Umsatzsteuer aus Ihren Rechnungen auszuschließen und diese selbst zu verwalten, müssen Sie das Abrechnungs Profil Ihres Partners aktualisieren, indem Sie [Microsoft Ihre Umsatzsteuer-ID senden](organization-tax-info.md).
+
+### <a name="turkey"></a>Türkei
+
+Microsoft wendet nun die Standard-Mehrwertsteuer für digitale Inhalte und Dienste an, die von Partnern in der Türkei erworben wurden. Um die Umsatzsteuer aus Ihren Rechnungen auszuschließen und diese selbst zu verwalten, müssen Sie das Abrechnungs Profil Ihres Partners aktualisieren, indem Sie [Microsoft Ihre Umsatzsteuer-ID senden](organization-tax-info.md).
 
 ## <a name="accepted-formats-for-vat-numbers"></a>Gültige Formate für Umsatzsteuernummern
 
@@ -59,7 +77,7 @@ Beachten Sie, dass Microsoft keine Steuer Ratschläge bereitstellt, und die folg
 |Slowenien |-WST-Zahlen Format: 2 Buchstaben und 8 Ziffern<br/>-Land-/Regionscode: Si<br/>-Beispiel: SI12345678<br/>-Hinweise: die ersten Zeichen sind immer "Si". |
 |Spanien |-WST-Zahlen Format: 9 Ziffern<br/>-Land-/Regionscode: es<br/>-Beispiel: X12345678, 12345678x oder X1234567X<br/>-Notes: enthält 1 oder 2 Buchstaben: entweder First, Last oder First und Last. |
 |Schweden |-Umsatzsteuer Nummern Format: 12 Ziffern<br/>-Land-/Regionscode: SE<br/>-Beispiel: 123456789001<br/>-Hinweise: die letzten 2 Zeichen müssen "01" sein. |
-|United Kingdom |-WST-Zahlen Format: 9 oder 12 Ziffern<br/>-Land-/Regionscode: GB<br/>-Beispiel: 123456789 oder 123456789001<br/>-Notes: 9 Ziffern im Allgemeinen, aber 12 Ziffern, wenn die Zahl ein Unternehmen innerhalb einer Gruppe darstellt. |
+|Vereinigtes Königreich |-WST-Zahlen Format: 9 oder 12 Ziffern<br/>-Land-/Regionscode: GB<br/>-Beispiel: 123456789 oder 123456789001<br/>-Notes: 9 Ziffern im Allgemeinen, aber 12 Ziffern, wenn die Zahl ein Unternehmen innerhalb einer Gruppe darstellt. |
 ## <a name="next-steps"></a>Nächste Schritte
 
 - [Unternehmens Steuerungsinformationen und Vorgehensweise beim Hinzufügen oder Einreichen von Umsatzsteuer-IDs für Partner Center-Käufe](organization-tax-info.md)

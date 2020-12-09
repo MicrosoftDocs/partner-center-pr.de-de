@@ -169,7 +169,7 @@ Gehen Sie folgendermaßen vor, um einen Kauf zu stornieren:
 
 Wenn Sie versuchen, eine Bestellung zu stornieren, werden von Partner Center möglicherweise auch weitere Informationen angezeigt (unter der Dropdownliste mit den Bestellnummern). Diese Informationen können Folgendes umfassen:
 
-- Wie viele zum Stornieren der jeweiligen Bestellung verbleiben
+- Wie viele Tage zum Stornieren der jeweiligen Bestellung verbleiben
 
 - Ob Sie das Stornierungsfenster bereits überschritten haben und die Bestellung nicht mehr stornieren können
 

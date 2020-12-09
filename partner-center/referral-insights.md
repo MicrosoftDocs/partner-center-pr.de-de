@@ -55,7 +55,7 @@ Die Metriken für die prozentuale Änderung (in rot oder grün mit einem Pfeilin
 
 :::image type="content" source="images/referrals/cosellanalyticssummary.png" alt-text="Abbildung der Zusammenfassungskarte zur Analyse von Co-Selling-Verkaufschancen":::
 
-## <a name="conversion-funnel"></a>Konvertierungstrichter
+## <a name="conversion-funnel"></a>Conversion Funnel
 
 In diesem Abschnitt wird visuell angezeigt, wie Ihre Deals im Laufe ihres Lebenszyklus von einem Status in einen anderen wechseln. Sie können den gesamten Lebenszyklus basierend auf dem Dealumfang sowie den Dealwert in USD basierend auf dem Hauptpivot für diesen Abschnitt anzeigen. Der erste Abschnitt ist sowohl mit dem Status als auch dem Typ des Deals gekennzeichnet, um Ihnen den Umfang oder den Wert nach Typ visuell anzuzeigen. Es gibt auch einen Abschnitt **Vorherige Empfehlungen**, in dem die Deals angezeigt werden, die Sie in dem für den Bericht ausgewählten Zeitraum entweder angenommen/abgelehnt oder als gewonnen/verloren gekennzeichnet haben. Sie können Filter anwenden, um den Fortschritt der Deals über verschiedene Phasen in ihrem Lebenszyklus anzuzeigen.
 

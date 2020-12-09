@@ -1,7 +1,7 @@
 ---
 title: Software Assurance-Schulungs Beleg Programm
 ms.topic: article
-ms.date: 06/12/2020
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie sich beim Software Assurance-Schulungs-Gutscheinprogramm registrieren, damit Sie für die Bereitstellung von Schulungen und Planung für Unternehmenskunden kompensiert werden können.
@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811200"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926607"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>SATV-Programm (Software Assurance Training Voucher, Software Assurance-Trainingsgutschein) in Partner Center
 
@@ -45,11 +45,11 @@ Sie können die Berechtigung Ihres Unternehmens, einschließlich der anwendbaren
 
 ## <a name="enroll-in-the-training-program"></a>Registrieren beim Schulungsprogramm
 
-Nachdem Ihr Unternehmen die Berechtigungsanforderungen erfüllt und Ihre Programmteilnehmer den Schulungskurs zur Konformität bestanden haben, können Sie die Vereinbarung zum SATV-Programm (Software Assurance Training Voucher, Software Assurance-Trainingsgutschein) unterzeichnen und die Registrierung durchführen. Stellen Sie sicher, dass Sie alle [SATV-Programmrichtlinien](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)überprüfen, und befolgen Sie dann die Anweisungen in [Schritt 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) des Workflows, um den SATV-Registrierungsprozess in Partner Center abzuschließen.
+Wenn Ihr Unternehmen die Berechtigungsanforderungen erfüllt, können Sie die Software Assurance-Lizenz für Schulungs Beleg Programm Signieren und registrieren. Stellen Sie sicher, dass Sie alle [SATV-Programmrichtlinien](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)überprüfen, und befolgen Sie dann die Anweisungen in [Schritt 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) des Workflows, um den SATV-Registrierungsprozess in Partner Center abzuschließen.
 
 
 ## <a name="confirm-course-eligibility"></a>Bestätigen der Berechtigung für den Kurs
-Nach der Registrierung für das SATV-Programm können die Partner Schulungen für SATV qualifizierte Kurse anbieten, für die Kunden ihre Schulungsgutscheine einlösen können. Berechtigte Kurse sind im [SATV Course-Berechtigungs Katalog](https://savl-catalog.microsoft.com/)aufgeführt. Lesen Sie [Schritt 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) des Workflows, um zu verstehen, welche Arten von Kursen von SATV qualifiziert sind.
+Nach der Registrierung für das SATV-Programm können die Partner Schulungen für SATV qualifizierte Kurse anbieten, für die Kunden ihre Schulungsgutscheine einlösen können. Berechtigte Kurse sind im SATV-Kursberechtigungskatalog aufgeführt. Überprüfen Sie [Schritt 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) des Workflows, um zu verstehen, welche Arten von Kursen für SATV geeignet sind, oder rufen Sie einen Link zum Katalog für die Kurs Berechtigung ab.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Erstellen und Zuweisen von Gutscheinen durch Kunden
 

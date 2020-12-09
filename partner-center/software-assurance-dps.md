@@ -1,7 +1,7 @@
 ---
 title: Software Assurance-Planungsdienste
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie sich bei Microsoft Planning Services Engagement registrieren und qualifizieren, damit Sie Kunden mit Software Assurance Schulungen und andere Dienste anbieten können.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c61a649da7e4983be1a478fdd963ba937e7783b
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 03292d00864e30fd4941320748aef1590c9e2a80
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "88092036"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926643"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance-Planungsdienste in Partner Center
 
@@ -42,10 +42,9 @@ In diesem Artikel wird erläutert, wie Sie die einzelnen Schritte ausführen.
 
 ## <a name="verify-eligibility-new-partners"></a>Überprüfen der Berechtigung (neue Partner)
 
-Damit Partnerunternehmen und Berater sich bei einem der Angebote für Planungsdienste anmelden können, müssen Sie sowohl Kompatibilitäts Schulungsanforderungen als auch Kompetenzanforderungen erfüllen:
+Damit Partnerunternehmen und Berater sich bei einem der Angebote für Planungsdienste anmelden können, müssen Sie die Kompetenzanforderungen wie folgt erfüllen:
 
-- **Compliance-Schulungsanforderungen.** Die Konformitäts Schulungsanforderungen des Programms müssen auf Unternehmensebene erfüllt werden.
-- **Kompetenzanforderungen.** Die Kompetenzanforderungen gelten speziell für die bereit zufügende Einbindung. Ihr Unternehmen kann z. b. beim Angebot der Desktop Bereitstellungs Planung (Service Planning Service, DDPS) registriert werden. Sie können jedoch nur eine bestimmte Einbindung innerhalb des DDPS-Angebots in Anspruch nehmen, wenn Ihr Unternehmen auch eine qualifizierende Kompetenz für diese spezielle Einbindung hat.
+**Kompetenzanforderungen.** Die Kompetenzanforderungen gelten speziell für die bereit zufügende Einbindung. Ihr Unternehmen kann z. b. beim Angebot der Desktop Bereitstellungs Planung (Service Planning Service, DDPS) registriert werden. Sie können jedoch nur eine bestimmte Einbindung innerhalb des DDPS-Angebots in Anspruch nehmen, wenn Ihr Unternehmen auch eine qualifizierende Kompetenz für diese spezielle Einbindung hat.
 
 >[!NOTE]
 > Weitere Informationen zu den Berechtigungsanforderungen für bestimmte Engagements finden Sie unter [Voraussetzungen für die Planung von Dienst Engagements](software-assurance-dps-requirements.md).

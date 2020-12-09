@@ -1,7 +1,7 @@
 ---
 title: Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung
 description: Erfahren Sie, in welchen Fällen es sinnvoll ist, die Zustimmung zur Microsoft-Kundenvereinbarung im Namen Ihres Kunden zu bestätigen.
-ms.topic: article
+ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: aarzh-AaronZhang
@@ -9,28 +9,21 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: fcf1a682d0150675f8bc8660e8dd5215d4c4333c
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 921926ba44a592b8d2fb5da0a50697d62d9d95c7
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367334"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534776"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>Bestätigen der Zustimmung zur Microsoft-Kundenvereinbarung im Namen Ihres Kunden
 
-**Zielgruppe**
-
-- Partner Center
-- Microsoft 365 Admin Center
 
 **Geeignete Rollen**
 
+- Globaler Administrator
 - Administrator-Agent
-- Vertriebsbeauftragter
-
-**Geeignete Partnertypen**
-
-- Indirekte Handelspartner, Partner mit direkter Abrechnung, indirekte Anbieter
+- Helpdesk-Agent
 
 In diesem Artikel werden bestimmte Szenarien erörtert, in denen Sie die Zustimmung eines Kunden zur Microsoft-Kundenvereinbarung u. U. im Namen des Kunden bestätigen müssen.
 

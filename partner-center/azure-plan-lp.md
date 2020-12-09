@@ -9,14 +9,20 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a86ee34070b53fb7dcee3ffcd9c11c79a5a4b856
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 87638a036086db933e0375ec232f2d512d73653e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998370"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534742"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Einführung: Mit dem Azure-Plan können Partner Azure zu nutzungsbasierten Tarifen für Kunden erwerben.
+
+**Geeignete Rollen**
+
+- Administrator-Agent
+- Vertriebsbeauftragter
+- Globaler Administrator
 
 Microsoft hat mit dem Azure-Plan eine neue Commerce-Oberfläche im Partner Center eingeführt.  Mit dieser neuen Commerce-Funktionalität erhalten die Partner Zugriff auf Azure-Dienste zu nutzungsbasierten Tarifen im Rahmen des Microsoft-Kundenvertrags.
 
@@ -30,7 +36,7 @@ Stelle deine Kunden auf der neuen Commerce-Benutzeroberfläche im CSP-Programm i
 >Ab dem 1. Februar 2020 wird der vorhandene Microsoft Cloud-Vertrag aus dem CSP-Programm entfernt. Ab diesem Zeitpunkt ist die Partnerbestätigung (Nachweis) der Kundenakzeptanz für den neuen Microsoft-Kundenvertrag für alle anderen Angebote erforderlich, einschließlich Microsoft 365, Dynamics 365 und vorhandenem Azure. Partner im CSP können keine neue Bestellung für den Kunden ohne Nachweis des Microsoft-Kundenvertrags aufgeben. Ausführliche Informationen findest du unter [Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung](confirm-customer-agreement.md).
 
 
-## <a name="learn-about-the-azure-plan"></a>Weitere Informationen zum Azure-Plan
+## <a name="next-steps"></a>Nächste Schritte
 
 |**Aufgabe**   |**Artikel**   |
 |------------------|---------------------|

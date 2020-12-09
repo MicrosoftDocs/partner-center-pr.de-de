@@ -9,14 +9,20 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: 5ad7bd7c99d7caa044877c98aac6dc5e3ce69420
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: fcf75acef4afb80c5aec889911ffc2b4a53b6edd
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000574"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534912"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Verwenden nutzungsbasierter Tarife mit dem Azure-Plan
+
+**Geeignete Rollen**
+
+- Administrator-Agent
+- Vertriebsbeauftragter
+
 
 Microsoft hat eine neue Commerce-Oberfläche in Partner Center eingeführt.  Mit dieser neuen Commerce-Funktionalität erhalten die Partner Zugriff auf Azure-Dienste zu nutzungsbasierten Tarifen im Rahmen des Microsoft-Kundenvertrags.
 

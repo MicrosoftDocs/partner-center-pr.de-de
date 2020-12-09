@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000324"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534725"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Preisliste für die neue E-Commerce-Benutzeroberfläche in CSP für Azure
 
@@ -114,3 +114,7 @@ Mit dieser API können Partner auch monatliche Wechselkurse abrufen, da die Prei
 > Die Preis-API bezieht sich speziell auf Preise für den Azure-Plan. Für Azure-Ressourcen oder -Reservierungen, die für Nicht-Azure-Planabonnements bereitgestellt werden, sollten weiterhin die bestehende RateCard-API und die Preislisten verwendet werden, die auf der Seite „Preise und Angebote“ im Partner Center veröffentlicht werden. Die Preis-API für Azure-Pläne unterstützt keine software-, Marketplace- oder lizenzbasierten Preise wie Microsoft 365 oder Dynamics 365.
 
 Weitere Informationen zu Preisen für den Azure-Plan und zu Wechselkurs-APIs findest du in der vollständigen [Dokumentation zur Preis-API](/partner/develop/pricing).
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Verwalten von Abonnements und Ressourcen in einem Azure-Plan](azure-plan-manage.md)

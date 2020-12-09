@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1e06194bd83b5a2c9c2ed32ee32d4b4220a42dcf
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8a7ed3ad04846b1e222d3827488a8ac188653cac
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114730"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869281"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Wechseln von Partner Admin Center (PAC) zu Partner Center
 
@@ -31,14 +31,11 @@ Partner Center entwickelt sich zum zentralen Ort für die Verwaltung der Partner
 |**Aktion**   |**PAC**   |**Partner Center**   |
 |--------------|:--------------|:---------------|
 |Detaillierte Übersicht über Kontoaktivitäten und Kunden|Startseite|Partner Center|
-|Neue Kunden gewinnen und Angebote für kostenpflichtige Dienste und Testversionen bereitstellen|Geschäft ausbauen -> Angebot senden|Kostenpflichtige Angebote sind nicht verfügbar. Testversionen für CSP sind verfügbar, wenn ein Advisor-Partner indirekter CSP-Händler wird und einem indirekten CSP-Anbieter, der Testversionen unterstützt, zugeordnet wird. |
-|Anfordern von Beziehungen|(Händler und Berater) Geschäft ausbauen-> DAP-Anforderung senden|(Händler und Berater) Kunden -> Händlerbeziehung anfordern (siehe Hinweis unten)|
+|Neue Kunden gewinnen und Angebote für kostenpflichtige Dienste und Testversionen bereitstellen|Geschäft ausbauen -> Angebot senden|Partner Center: >-und Kaufangebote |
+|Anfordern von Beziehungen|(Händler und Berater) Geschäft ausbauen-> DAP-Anforderung senden|Kunden: > eine Beziehung anfordern (siehe Hinweis unten)|
 |Verwalten von Kunden|Kundenverwaltung – Kundenliste|Partner Center  -> Kunden|
-|Verwalten von Kundenabonnements|Kundenverwaltung -> Kundenliste -> Auswählen von Kunden|Partner Center: > Kunden > wählen Sie Kunde aus, oder fügen Sie Ihren Kunden der **Favoriten** Liste hinzu, indem Sie den Stern in der Kundenliste umschalten. Wählen Sie dann die **Favoriten** -Ausgabe aus, und wechseln Sie direkt zum **Verwalten von Abonnements** für Ihren Kunden.|
-|Verwalten im Kundenauftrag|Kundenverwaltung -> Kunden auswählen -> Administrator auswählen (Schaltfläche)|Partner Center-> Kunden-> wählen Sie Dienste aus der Dropdown Liste verwalten aus, > wählen Sie Dienst aus, oder fügen Sie Ihren Kunden der **Favoriten** Liste hinzu, indem Sie den Stern in der Kundenliste umschalten. Wählen Sie dann die **Favoriten** -Abmeldung aus, und navigieren Sie direkt zur **Verwaltung der Dienste** für den erforderlichen Dienst.|
+|Verwalten von Kundenabonnements|Kundenverwaltung -> Kundenliste -> Auswählen von Kunden|Partner Center: > Kunden > wählen Sie Kunde aus, oder suchen Sie einen Kunden anhand des Namens oder des Domänen Namens. Wechseln Sie dann zu **Benutzer und Lizenzen** für Ihren Kunden.|
+|Verwalten im Kundenauftrag|Kundenverwaltung -> Kunden auswählen -> Administrator auswählen (Schaltfläche)|Partner Center: > Kunden > wählen Sie Kunde aus, oder suchen Sie einen Kunden anhand des Namens oder des Domänen Namens. Wählen Sie dann in der Dropdown Liste Dienste verwalten aus, > Dienst auswählen.|
 |Erstellen von Serviceanfragen für Ihre Kunden|Serviceanfragen -> Kunden auswählen -> Schaltfläche „+“ auswählen | Partner Center -> Serviceanfragen -> Kundenanfragen -> Kunden auswählen -> Neue Anfrage|
 |Verwalten von Kundenserviceanfragen| Serviceanfragen  -> Kunden auswählen|Partner Center-> Service Requests-> Kundenanfragen > wählen Sie Kunde aus, oder fügen Sie den Service Request der **Favoriten** Liste hinzu, indem Sie den Stern in der Kunden Anforderungs Ansicht für den Kunden umschalten. Wählen Sie dann die **Favoriten** -Abmeldung aus, wählen Sie die Registerkarte " **Support Anfragen** " aus, und navigieren Sie direkt zu den Service Request-oder Updates direkt von **Favoriten**.|
 |Anzeigen der Integrität der von Ihnen verwalteten Microsoft Online Services|Dienstintegrität -> Aggregierter Zustand|Partner Center -> Dienstintegrität|
-
->Wichtig<br>
-Sie können über Partner Center weder Testangebote noch kostenpflichtige Angebote an Kunden senden. Verwenden Sie darüber hinaus zum Suchen von Kunden in Partner Center entweder den Kundennamen oder die verfügbare Kundendomäne, wenn Sie eine Partnerbeziehung mit dem Kunden erstellen.

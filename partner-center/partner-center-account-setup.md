@@ -4,17 +4,17 @@ ms.topic: conceptual
 ms.date: 11/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Erfahren Sie, wo Sie das Profil Ihres Unternehmens, Bank- und Steuerinformationen sowie weitere Angaben in Partner Center verwalten.
+description: Erfahren Sie, wie Sie mithilfe von Partner Center das Profil, Bankdetails und Steuerinformationen, Rollen, Berechtigungen und weitere Angaben zu Ihrem Unternehmen verwalten.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45b924fa9143d1b4947e5b88c2e14c41c4451d19
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96438996"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556445"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Verwalten Ihres Partner Center-Kontos – Unternehmensprofil, Bankdetails, Rollen, Berechtigungen und mehr
 

@@ -9,19 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ff64c265aadacca5389c16168d1e161936f5e88
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468528"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570704"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Abrechnungsübersicht für CSP-Programmpartner, die im Partner Center arbeiten 
-
-**Zielgruppe**
-
-- Partner Center
-- Partner im CSP-Programm (Cloud Solution Provider)
 
 **Geeignete Rollen**
 
@@ -31,13 +26,16 @@ ms.locfileid: "87468528"
 - Helpdesk-Agent
 - Vertriebsbeauftragter
 
+Dieser Artikel enthält grundlegende Informationen über die Abrechnung und Rechnungsstellung für CSP-Partner im Partner Center, einschließlich der Abrechnung von Kunden und der Vorgehensweise zum Auffinden und Lesen Ihrer Rechnung.
+
+
 ## <a name="find-your-bill"></a>Auffinden Ihrer Rechnung
 
 So finden Sie Ihre Rechnung:
 
-1. [Melden Sie sich beim Partner Center-Dashboard an](https://partner.microsoft.com/dashboard/home).
+1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an.
 
-2. Wählen Sie im Menü auf der linken Seite **Abrechnung** aus.
+2. Wählen Sie im Menü des Partner Center die Option **Abrechnung** aus.
 
 3. Auf der Seite **Abrechnung** können Sie Ihre letzte Rechnung oder frühere Rechnungen im Abschnitt **Abrechnungsverlauf** herunterladen.
 
@@ -45,7 +43,7 @@ So finden Sie Ihre Rechnung:
 
 Microsoft hat keine Anforderungen oder Bedingungen hinsichtlich Ihrer eigenen Abrechnung.
 
-Um die Nutzung eines Kunden zu ermitteln, [überprüfen Sie Ihre Kontenabstimmungsdateien](#find-your-bill). Sie können den Kundennamen und andere relevante Felder verwenden, um die Nutzung zu ermitteln.
+Um die Nutzung eines Kunden zu ermitteln, überprüfen Sie Ihre [Kontenabstimmungsdateien](#find-your-bill). Verwenden Sie den Kundennamen und andere relevante Felder, um die Nutzung zu ermitteln.
 
 ### <a name="billing-types"></a>Abrechnungsarten
 
@@ -173,3 +171,8 @@ Sie könnten müssen ggf. aus folgenden Gründen eine Gutschrift oder Neuberechn
 - Nach dem Generieren der Rechnung wurde eine Steuererstattung angewendet. Sie können eine Gutschrift oder Neuberechnung anfordern, damit die Steuerrückerstattung wieder in die ursprüngliche Rechnung aufgenommen wird. Dasselbe gilt auch für Rückerstattungen. Sie können eine Gutschrift oder Neuberechnung der ursprünglichen Rechnung anfordern und dann in einer Rückerstattung berücksichtigen.
 
 **Für alle einmaligen und wiederkehrenden Transaktionen** kann Microsoft eine Gutschrift ausstellen, wenn Sie diese oder eine Refakturierung anfordern. Bei Ausstellung der Gutschrift wird die Rechnung storniert. 
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Grundlegendes zur Rechnungs- und Abstimmungsdatei](read-your-bill.md)
+- [Allgemeine Abrechnungsszenarien für CSP-Programmpartner](common-billing-scenarios.md)

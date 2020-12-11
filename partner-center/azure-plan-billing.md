@@ -9,36 +9,36 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d8bb85357d796ae4917faf91c93db8fef4369c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92334028"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534691"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Neues E-Commerce-Verfahren in CSP: Azure-Abrechnung 
 
-**Geeignete Rollen:**
+**Geeignete Rollen**
 
 - Administrator-Agent
 - Abrechnungsadministrator
 - Globaler Administrator
 
-Abrechnungen im Rahmen eines Azure-Plans bieten ein vereinfachtes Abrechnungsverfahren, das ein einheitliches Abrechnungsdatum und einen Abrechnungszeitraum auf der Grundlage von Kalendermonaten verwendet.
+In diesem Artikel wird erläutert, wie Sie auf die Struktur der Rechnungs-/Abstimmungsdatei im Zusammenhang mit der Abrechnung für den Azure-Plan zugreifen und sie verstehen können. Abrechnungen im Rahmen eines Azure-Plans bieten ein vereinfachtes Abrechnungsverfahren, das ein einheitliches Abrechnungsdatum und einen Abrechnungszeitraum auf der Grundlage von Kalendermonaten verwendet.
 
 ## <a name="summary-of-billing-essentials"></a>Zusammenfassung der Abrechnungsgrundlagen
 
-- **Rechnungsdatum** : Die Rechnungs- und Abstimmungsdatei steht auf dem Partner Center-Dashboard bzw. über die -API am 8. des Monats zur Verfügung (Mitternacht UTC).
+- **Rechnungsdatum**: Die Rechnungs- und Abstimmungsdatei steht auf dem Partner Center-Dashboard bzw. über die -API am 8. des Monats zur Verfügung (Mitternacht UTC).
 
-- **Abrechnungszeitraum der Rechnung** : Der Abrechnungszeitraum der Rechnung ist am Kalendermonat ausgerichtet, z.B. 01.10.–31.10., 01.11.–30.11.
+- **Abrechnungszeitraum der Rechnung**: Der Abrechnungszeitraum der Rechnung ist am Kalendermonat ausgerichtet, z.B. 01.10.–31.10., 01.11.–30.11.
 
-- **Belastung von Dienstzeiträumen** : Die Gebühren richten sich nach dem Kalendermonat. Wenn ein Abrechnungspartner beispielsweise Azure-Dienste über einen Azure-Plan am 15.10. hinzufügt und der Kunde mit der Nutzung der Azure-Dienste am 15.10 beginnt, erhält der Abrechnungspartner am 08.11. die Rechnung/Abstimmung über den Kundenverbrauch für den Dienstzeitraum von 15.10–31.10. Die Rechnung des nächsten Monats, die am 08.12. generiert wird, enthält alle Gebühren für den Dienstzeitraum vom 01.11.–31.11.
+- **Belastung von Dienstzeiträumen**: Die Gebühren richten sich nach dem Kalendermonat. Wenn ein Abrechnungspartner beispielsweise Azure-Dienste über einen Azure-Plan am 15.10. hinzufügt und der Kunde mit der Nutzung der Azure-Dienste am 15.10 beginnt, erhält der Abrechnungspartner am 08.11. die Rechnung/Abstimmung über den Kundenverbrauch für den Dienstzeitraum von 15.10–31.10. Die Rechnung des nächsten Monats, die am 08.12. generiert wird, enthält alle Gebühren für den Dienstzeitraum vom 01.11.–31.11.
 
-- **Fälligkeit der Rechnung** : 60 Tage netto.
+- **Fälligkeit der Rechnung**: 60 Tage netto.
 
 - **Rechnungswährung** : Partner werden weiterhin in der offiziellen Landeswährung des Kunden abgerechnet. Wenn der Abrechnungspartner sich beispielsweise in Irland befindet und Kunden im Vereinigten Königreich, Norwegen und Deutschland bedient, erhält der Abrechnungspartner eine Rechnung/Abstimmung in GBP, NOK und EUR.
 
-- **Partnerincentives** : 45 Tage nach dem Ende des Rechnungsmonats bezahlt.
+- **Partnerincentives**: 45 Tage nach dem Ende des Rechnungsmonats bezahlt.
 
 ## <a name="access-your-invoices-and-reconciliation-files"></a>Zugriff auf Ihre Rechnungen und Abstimmungsdateien
 
@@ -106,7 +106,7 @@ So greifen Sie auf die Rechnungs- und Abstimmungsdatei zu:
 
 5. Weitere Abrechnungsdetails können Sie der Abstimmungsdatei zur Rechnung und der täglich ausgewerteten Nutzungsdatei entnehmen.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="Abrechnung":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="Rechnung":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Lesen der Rechnungs-/Abstimmungsdatei
 
@@ -134,7 +134,7 @@ So greifen Sie auf die Rechnungs- und Abstimmungsdatei zu:
 
   - Die Verbrauchseinheit ist vom 08.07–31.07. für **vom Partner erworbene Gutschrift für verwaltete Dienste** qualifiziert (der effektive Einzelpreis ergibt sich aus dem Endkundenpreis abzüglich der vom Partner erworbenen Gutschrift).
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="Abrechnung":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
 
 ## <a name="invoice-in-customer-currency"></a>Rechnung in Währung des Kunden
 
@@ -142,7 +142,7 @@ Im Rahmen eines Azure-Plans erbrachte Azure-Dienste haben Preise in USD und werd
 
 Microsoft nutzt Thompson Reuters zum Ermitteln des Wechselkurses, der für die Konvertierung aus der Preiswährung in die Abrechnungswährung verwendet wird. Die Wechselkurse werden aktualisiert und stehen am Tag vor dem Ersten des Monats zur Verfügung, für den sie gelten.
 
-**Beispiel** :  Nutzungsgebühren für den Dienstzeitraum vom 1. August–31. August unter Verwendung des am 31. Juli veröffentlichten Wechselkurses. Diese Gebühren werden auf der September-Rechnung aufgeführt, und der Wechselkurs ist auf der letzten Seite der Rechnung vermerkt.
+**Beispiel**:  Nutzungsgebühren für den Dienstzeitraum vom 1. August–31. August unter Verwendung des am 31. Juli veröffentlichten Wechselkurses. Diese Gebühren werden auf der September-Rechnung aufgeführt, und der Wechselkurs ist auf der letzten Seite der Rechnung vermerkt.
 
 ## <a name="azure-reservations"></a>Azure Reservations
 
@@ -160,7 +160,7 @@ Die bestehende Azure-Kaufumgebung wird aktualisiert, um die neue Azure-Planabrec
 
 Da die Abrechnungsmodell für Azure-Dienste unter einem Azure-Plan nachträglich nach Verbrauch berechnet wird, können Partner ein monatliches Budget festlegen und den Prozentsatz der Nutzung nachverfolgen, um zu vermeide, dass die Rechnung höher als erwartet ausfällt. Ein Budget kann auf einen Kunden oder auf mehrere Kunden zugleich angewendet werden. 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="Abrechnung":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Azure-Ausgaben":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 

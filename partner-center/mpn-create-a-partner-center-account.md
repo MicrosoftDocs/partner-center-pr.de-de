@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f94b11c4feb9cd1bedd97bebc537a504f9c4d127
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999354"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570789"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Erstellen eines Partner Center-Kontos zum Verwalten von Netzwerkvorteilen und Kompetenzen
 
@@ -25,21 +25,25 @@ ms.locfileid: "90999354"
 
 Damit Sie ein Konto in Partner Center erstellen oder sich für ein Partnerprogramm registrieren können, muss Ihr Unternehmen Mitglied im Microsoft Partner Network sein. Falls Sie noch kein Mitglied des Netzwerks sind, können Sie [jetzt beitreten](https://partner.microsoft.com/commercial#). Nachdem Sie ein Partner Center-Konto erstellt haben, schauen Sie sich dieses kurze Video an: [Entdecken Ihres Dashboards](https://vimeo.com/290338211).
 
-## <a name="before-you-begin"></a>Vorbereitung
+## <a name="get-a-work-email-address-before-setting-up-a-partner-center-account"></a>Beziehen einer geschäftlichen E-Mail-Adresse vor dem Einrichten eines Partner Center-Kontos
+
+Ihr Unternehmen muss eine E-Mail-Domäne erwerben, damit Sie geschäftliche E-Mail-Adressen für Ihre Mitarbeiter einrichten können. Wenden Sie sich an Ihre IT-Abteilung, um eine E-Mail-Domäne zu erwerben, da dies ein technischer Vorgang ist. Verwenden Sie die neue E-Mail-Domäne zum Einrichten des Azure AD-Mandanten und Ihres Partner Center-Kontos.
+
+## <a name="get-started"></a>Erste Schritte
 
 Zum Erstellen eines Kontos in Partner Center müssen Sie die folgenden Informationen zur Hand haben. Es empfiehlt sich unter Umständen, vor Beginn des Vorgangs folgende Angaben zu sammeln:
 
--   Geschäftliche E-Mail-Adresse des globalen Administrators.
+- Geschäftliche E-Mail-Adresse des globalen Administrators.
 
--   Wenn Sie nicht genau wissen, was das Geschäftskonto Ihres Unternehmens ist, lesen Sie [Das Geschäftskonto Ihrer Firma und Partner Center](azure-active-directory-tenants-and-partner-center.md). Falls Ihr Unternehmen kein Geschäftskonto hat, können Sie während des Kontoerstellungsprozesses eines erstellen. 
+- Wenn Sie nicht genau wissen, was das Geschäftskonto Ihres Unternehmens ist, lesen Sie [Das Geschäftskonto Ihrer Firma und Partner Center](azure-active-directory-tenants-and-partner-center.md). Falls Ihr Unternehmen kein Geschäftskonto hat, können Sie während des Kontoerstellungsprozesses eines erstellen. 
 
--   Offizieller geschäftlicher Name und geschäftliche Anschrift Ihres Unternehmens.  
+- Offizieller geschäftlicher Name und geschäftliche Anschrift Ihres Unternehmens.  
 
--   Befugnis zum Unterzeichnen von Vereinbarungen. Stellen Sie sicher, dass Sie berechtigt sind, Vereinbarungen im Auftrag Ihres Unternehmens zu unterzeichnen, weil Sie während des Registrierungsprozesses dazu aufgefordert werden.
+- Befugnis zum Unterzeichnen von Vereinbarungen. Stellen Sie sicher, dass Sie berechtigt sind, Vereinbarungen im Auftrag Ihres Unternehmens zu unterzeichnen, weil Sie während des Registrierungsprozesses dazu aufgefordert werden.
 
--   Name und geschäftliche E-Mail-Adresse der Person, die als Hauptansprechpartner fungieren soll. Aus Sicherheits- und Datenschutzgründen werden wir Ihren Hauptansprechpartner per E-Mail kontaktieren, um uns zu vergewissern, dass (1) er/sie sich für ein Partner Center-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrem Unternehmen gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung deiner Angaben fort.
+- Name und geschäftliche E-Mail-Adresse der Person, die als Hauptansprechpartner fungieren soll. Aus Sicherheits- und Datenschutzgründen werden wir Ihren Hauptansprechpartner per E-Mail kontaktieren, um uns zu vergewissern, dass (1) er/sie sich für ein Partner Center-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrem Unternehmen gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung deiner Angaben fort.
 
-Wir überprüfen diese Informationen im Rahmen des Kontoerstellungsprozesses. 
+Wir überprüfen diese Informationen im Rahmen des Kontoerstellungsprozesses. Weitere Informationen zum Überprüfungsprozess finden Sie unter [Kontoüberprüfung](verification-responses.md).
  
 ## <a name="create-a-partner-center-account"></a>Erstellen eines Partner Center-Kontos
 

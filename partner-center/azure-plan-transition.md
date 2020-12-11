@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000334"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534810"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Umstellen von Kunden von vorhandenen CSP-Azure-Angeboten auf einen Azure-Plan
 
@@ -27,9 +27,9 @@ ms.locfileid: "91000334"
 - Vertriebsbeauftragter
 - Benutzerverwaltungsadministrator
 
-Indirekte Anbieter und direkte Abrechnungspartner können zur neuen Commerce-Benutzeroberfläche wechseln, die im Microsoft Cloud Service Provider (CSP)-Programm für Azure verfügbar ist. (Indirekte Wiederverkäufer müssen ihre indirekten Anbieter durchgehen.) Kunden bietet sich ein optimiertes Verfahren zum Kauf von Clouddiensten, gleich ob sie bei Partnern, bei Microsoft-Verkäufern oder direkt im Web kaufen.
+In diesem Artikel wird erläutert, wie CSP-Partner das Partner Center nutzen können, um Kunden von vorhandenen CSP-Azure-Angeboten auf Azure-Dienste im Rahmen des Azure-Plans umstellen können. Indirekte Anbieter und direkte Abrechnungspartner können zur neuen Commerce-Benutzeroberfläche wechseln, die im Microsoft Cloud Service Provider (CSP)-Programm für Azure verfügbar ist. (Indirekte Wiederverkäufer müssen ihre indirekten Anbieter durchgehen.) Kunden bietet sich ein optimiertes Verfahren zum Kauf von Clouddiensten, gleich ob sie bei Partnern, bei Microsoft-Verkäufern oder direkt im Web kaufen.
 
-Die Funktion zur Umstellung ist nur für Kunden verfügbar, die zur neuen E-Commerce-Benutzeroberfläche für Azure wechseln und einen Microsoft-Kundenvertrag unterzeichnet haben, nicht aber für andere Angebote in CSP, wie etwa Office 365 oder Dynamics 365.
+Die Funktion zur Umstellung ist nur für Kunden verfügbar, die zur neuen E-Commerce-Benutzeroberfläche für Azure wechseln und die Microsoft-Kundenvereinbarung unterzeichnet haben. Sie steht nicht für andere Angebote in CSP wie Office 365 oder Dynamics 365 bereit.
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Umstellung vorhandener CSP-Angebote auf einen Azure-Plan
 

@@ -9,18 +9,14 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92333826"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534793"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Erstellen eines Geschäftskontos, durch das Ihr Unternehmen mit Ihrem Partner Center-Konto verknüpft wird
-
-**Zielgruppe**
-
-- Partner Center
 
 **Geeignete Rollen**
 
@@ -71,3 +67,8 @@ Wenn Sie ein Azure-Abonnement erwerben, mieten Sie im Wesentlichen einen dedizie
 Ein Azure-Geschäftskonto ist eine dedizierte und isolierte virtuelle Darstellung Ihres Unternehmens in der öffentlichen Azure-Cloud. Das Konto wird für Sie erstellt, wenn Sie einen Microsoft Cloud Service wie Azure, Microsoft Intune oder Office 365 abonnieren.
 
 Das Geschäftskonto hostet Ihre Azure AD-Benutzer und die zugehörigen Informationen – Kennwörter, Profildaten, Berechtigungen usw. Zudem enthält das Geschäftskonto Gruppen, Anwendungen und andere Informationen, die ein Unternehmen und seine Sicherheit betreffen.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Verwalten des Partner Center-Kontos](partner-center-account-setup.md)
+- [Nachverfolgen des Überprüfungsstatus](verification-responses.md)

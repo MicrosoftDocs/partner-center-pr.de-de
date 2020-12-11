@@ -1,7 +1,7 @@
 ---
 title: Abrufen der Administratorberechtigungen eines Kunden
 ms.topic: how-to
-ms.date: 06/19/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Rufen Sie die Berechtigungen ab, die Sie benötigen, um den Dienst oder das Abonnement eines Kunden in seinem Namen zu verwalten. Erfahren Sie, wie Berechtigungen erteilt, widerrufen und verwaltet werden.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: dcfc552016560ecc3167deebf96f7a75a72048bc
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545901"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534878"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Abrufen von Berechtigungen zum Verwalten des Diensts oder Abonnements eines Kunden
 
@@ -47,7 +47,7 @@ Um den Dienst oder das Abonnement im Auftrag eines Kunden verwalten zu können, 
 6.  Erweitern Sie zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundendatensatz, indem Sie neben seinem Namen auf den Pfeil nach unten klicken, und wählen Sie dann das Verwaltungsportal für den Dienst aus, den Sie verwalten möchten.
 
 >[!IMPORTANT]  
->Kunden können Administratorberechtigungen im Verwaltungsportal eines Diensts neu zuweisen oder entfernen. Erst wenn Sie Ihre Vereinbarung mit dem Kunden erneut verhandeln, sind Sie jedoch weiterhin für die Bereitstellung des Supports und die Einhaltung der Bedingungen der Vereinbarung für Cloud-Vertriebspartner verantwortlich, auch nachdem ein Kunde die Administratorberechtigungen neu zugewiesen oder entfernt hat. In diesem Fall können Sie sich an den Microsoft-Support wenden, wenn der Kunde Hilfe benötigt, um eine Serviceanfrage im Auftrag des Kunden zu öffnen.
+>Kunden können Administratorberechtigungen im Verwaltungsportal eines Diensts neu zuweisen oder entfernen. Sie müssen den Kunden jedoch darüber informieren, dass Sie bei Entfernen Ihrer Administratorberechtigungen nicht mehr in der Lage sein werden, eine Serviceanfrage an Microsoft in seinem Auftrag zu öffnen. Sie können diese Arten von Serviceanfragen so lange nicht mehr im Auftrag des Kunden öffnen, bis Sie die Vereinbarung mit dem Kunden erneut verhandelt haben.
 
 Ihre Kunden können über das Office 365-Verwaltungsportal ermitteln, welche ihrer Partner über Administratorrechte für ihren Mandanten verfügen. Aufgabe:
 

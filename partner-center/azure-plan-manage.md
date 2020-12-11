@@ -9,16 +9,21 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000604"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534929"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Verwalten von Abonnements und Ressourcen in einem Azure-Plan
 
-Wenn Sie einen Kunden auf den Azure-Plan umstellen, werden Ihnen standardmäßig privilegierte Administratorrechte in Azure zugewiesen (Abonnementbesitzerrechte im Auftrag, die durch den Administrator wahrgenommen werden).
+**Geeignete Rollen**
+
+- Administrator-Agent
+
+
+In diesem Artikel wird erläutert, wie CSP-Partner mithilfe der verschiedenen Optionen für die rollenbasierte Zugriffssteuerung (Role-Based Access Control, RBAC) die operative Kontrolle und Verwaltung der Azure-Ressourcen eines Kunden erreichen. Wenn Sie einen Kunden auf den Azure-Plan umstellen, werden Ihnen standardmäßig privilegierte Administratorrechte in Azure zugewiesen (Abonnementbesitzerrechte im Auftrag, die durch den Administrator wahrgenommen werden).
 
  > [!NOTE]
  > Die Administratorrechte für das Azure-Abonnement können vom Kunden auf Abonnement-, Ressourcengruppen- oder Workloadebene entfernt werden. 
@@ -29,7 +34,7 @@ Wenn Sie einen Kunden auf den Azure-Plan umstellen, werden Ihnen standardmäßig
 
 - **Azure Lighthouse**: AOBO bietet nicht die Flexibilität, verschiedene, getrennte Gruppen zu erstellen, die mit verschiedenen Kunden zusammenarbeiten, oder für Gruppen und Benutzer verschiedene Rollen zu aktivieren. Mithilfe von Azure Lighthouse können Sie verschiedene Gruppen verschiedenen Kunden oder Rollen zuweisen. Da Benutzer in Form der delegierten Ressourcenverwaltung von Azure über eine geeignete Zugriffsebene verfügen, können Sie die Anzahl der Benutzer verringern, die über die Rolle „Administrator-Agent“ verfügen (und daher vollständigen AOBO-Zugriff besitzen). Dies hilft, die Sicherheit zu verbessern, indem unnötiger Zugriff auf die Ressourcen deiner Kunden vermieden wird. Außerdem erhalten Sie mehr Flexibilität beim Verwalten mehrerer Kunden in großem Maßstab. Weitere Informationen finden Sie unter [Azure Lighthouse und das Programm für Cloud-Lösungsanbieter](/azure/lighthouse/concepts/cloud-solution-provider).
 
--  **Verzeichnis- oder Gastbenutzer oder [Dienstprinzipale](/azure/active-directory/develop/app-objects-and-service-principals)** : Sie können den Zugriff auf CSP-Abonnements im Detail delegieren, indem Sie Benutzer im Kundenverzeichnis hinzufügen oder Gastbenutzer hinzufügen und ihnen spezifische RBAC-Rollen zuweisen.
+- **Verzeichnis- oder Gastbenutzer oder [Dienstprinzipale](/azure/active-directory/develop/app-objects-and-service-principals)** : Sie können den Zugriff auf CSP-Abonnements im Detail delegieren, indem Sie Benutzer im Kundenverzeichnis hinzufügen oder Gastbenutzer hinzufügen und ihnen spezifische RBAC-Rollen zuweisen.
 
 Microsoft empfiehlt als Sicherheitsmaßnahme, dass Benutzer nur über die Minimalberechtigungen verfügen, die sie zum Durchführen ihrer Arbeit benötigen. Weitere Informationen erhalten Sie unter [Ressourcen für das Azure Active Directory Privileged Identity Management](/azure/active-directory/privileged-identity-management/pim-configure).
 

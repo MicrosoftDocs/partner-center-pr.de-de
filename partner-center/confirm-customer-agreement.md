@@ -1,6 +1,6 @@
 ---
 title: Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung
-description: Erfahre, wie du bestätigst, dass ein Kunde der Microsoft-Kundenvereinbarung zugestimmt hat. Teilnehmer am Cloud Solution Provider (CSP)-Programm benötigen diese, um Microsoft-Produkte und -Dienste für Kunden zu bestellen.
+description: CSP-Partner (Cloud Solution Provider) müssen vor dem Bestellen von Microsoft-Diensten für Kunden die Zustimmung des Kunden zur Microsoft-Kundenvereinbarung bestätigen.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 45a34473ff63875af8bd07962ea836661bc948ee
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 423cf1aab281ad8e77e03aa386b43360e1b99b3c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198056"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570568"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung im CSP-Partnerprogramm
 
@@ -32,9 +32,9 @@ Am 1. Oktober 2019 hat Microsoft die **Microsoft-Kundenvereinbarung** für das
 
 Kunden haben zwei Möglichkeiten, die Microsoft-Kundenvereinbarung zu akzeptieren. 
 
-**Option 1** : Der Partner bestätigt die Zustimmung des Kunden – Der Partner kann die Zustimmung des Kunden über die Partner Center-API, das Partner Center SDK oder das Partner Center-Dashboard bestätigen.
+**Option 1**: Der Partner bestätigt die Zustimmung des Kunden – Der Partner kann die Zustimmung des Kunden über die Partner Center-API, das Partner Center SDK oder das Partner Center-Dashboard bestätigen.
 
-**Option 2** : Der Kunde stimmt direkt zu: Der Partner kann den Kunden über eine URL einladen, damit dieser die Vereinbarung in Microsoft 365 Admin Center überprüfen und ihr zustimmen kann.
+**Option 2**: Der Kunde stimmt direkt zu: Der Partner kann den Kunden über eine URL einladen, damit dieser die Vereinbarung in Microsoft 365 Admin Center überprüfen und ihr zustimmen kann.
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Zugreifen auf die Vorlage für die Microsoft-Kundenvereinbarung
 
@@ -72,11 +72,11 @@ Um die folgenden Schritte ausführen zu können, musst du Administrator-Agent od
 
 3. Wählen Sie unter **Microsoft-Kundenvertrag** die Option **Aktualisieren** aus.
 
-4. Geben Sie **Vorname** , **Nachname** , **E-Mail-Adresse** und **Telefonnummer** (optional) der Person ein, die dem Vertrag zugestimmt hat. Geben Sie unter **Datum der Vertragsannahme** das entsprechende Datum ein. Dieses kann nicht auf ein Datum in der Zukunft festgelegt werden.
+4. Geben Sie **Vorname**, **Nachname**, **E-Mail-Adresse** und **Telefonnummer** (optional) der Person ein, die dem Vertrag zugestimmt hat. Geben Sie unter **Datum der Vertragsannahme** das entsprechende Datum ein. Dieses kann nicht auf ein Datum in der Zukunft festgelegt werden.
 
 5. Wählen Sie **Speichern und fortfahren** aus.
 
-   :::image type="content" source="images/mcua2-update2.png" alt-text="Neukunde":::
+   :::image type="content" source="images/mcua2-update2.png" alt-text="Bestandskunde":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>Abrufen der Bestätigung der Kundenzustimmung für einen Bestandskunden
 
@@ -128,7 +128,7 @@ Mit den folgenden Schritten kannst du einen neuen Kunden im Partner Center erste
 >[!NOTE] 
 >Neue Kunden können erst einen neuen Kauf tätigen, nachdem sie der Microsoft-Kundenvereinbarung zugestimmt haben.  
 
-   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Neukunde":::
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Erstellen eines neuen Kunden":::
 
 5. Sobald im Workflow für neue Kunden der Bildschirm **Bestätigung** angezeigt wird, musst du die Anmeldeinformationen des Kunden speichern. Diese Anmeldeinformationen musst du später dem Kunden mitteilen.
 
@@ -156,7 +156,7 @@ Mit den folgenden Schritten kannst du einen neuen Kunden einladen, die Handelspa
 
 4. Verwende diese E-Mail-Vorlage, um den Kunden einzuladen, dem Antrag auf eine **Handelspartnerschaft** und der **Microsoft-Kundenvereinbarung** zuzustimmen. (Anmerkung: Achte darauf, dass der Partner in der E-Mail-Einladung auch die automatisch bereitgestellte URL und die kürzlich erstellten Kundenanmeldeinformationen angibt.)
 
-   :::image type="content" source="images/mca/createrelationship.png" alt-text="Neukunde":::
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="Erstellen einer Beziehung":::
 
 5. Der Kunde empfängt die Einladung per E-Mail und klickt auf die parametrisierte URL. 
 
@@ -166,7 +166,7 @@ Mit den folgenden Schritten kannst du einen neuen Kunden einladen, die Handelspa
 
 8. Der Kunde kann unter derselben URL eine konsolidierte Liste verschiedener Partner anzeigen, mit denen er zusammenarbeitet. Er kann einen Partner auswählen, um Details anzuzeigen.
 
-   :::image type="content" source="images/mca/accept.jpg" alt-text="Neukunde":::
+   :::image type="content" source="images/mca/accept.jpg" alt-text="Zustimmen zur Vereinbarung":::
 
 
 ## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>Einladen eines bestehenden Kunden, die Vereinbarung zu überprüfen und ihr zuzustimmen
@@ -183,7 +183,7 @@ Mit den folgenden Schritten kannst du einen bestehenden Kunden einladen, die Mic
 
 5. Der Kunde kann unter derselben URL die konsolidierte Liste verschiedener Partner anzeigen, mit denen er zusammenarbeitet. Er kann einen Partner auswählen, um Details anzuzeigen.
 
-   :::image type="content" source="images/mca/customeraccept.png" alt-text="Neukunde":::
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="Kunde":::
 
 >[!NOTE]
 >In bestimmten Szenarien können Kunden der Microsoft-Kundenvereinbarung u. U. nicht direkt zustimmen. Weitere Informationen zu diesen Situationen findest du unter [Zwei Szenarien, in denen du die Zustimmung im Namen deines Kunden bestätigen musst](attest-acceptance-customer-agreement.md).

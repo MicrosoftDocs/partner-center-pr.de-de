@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
+ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175087"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "97153144"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Melden eines Dienst Problems im Namen eines Kunden, einschließlich des Zeit-und Vorgehensweise
 
@@ -31,11 +31,13 @@ Wenn Ihr Kunde ein Dienst Problem hat, das Sie nicht beheben können, und das di
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Übermitteln einer Serviceanfrage für einen Kunden
 
-1. Wählen Sie vom **Partner Center**-Menü **Serviceanfragen** und dann **Kundenanfragen** aus. 
+1. Wählen Sie im Menü "Partner Center" unter CSP die Option **Kunden** aus.
 
-2. Suchen Sie auf der Seite der Kundenanforderungen die gewünschten Kunden aus.
+2. Wählen Sie auf der Seite "Kunden" den gewünschten Kunden aus, oder suchen Sie danach.
+    
+3. Wählen Sie im Kundenmenü **Service Requests** aus.
 
-3. Wählen Sie aus dem Dropdownmenü **Neue Anforderung** entweder **Azure** oder **Office 365, Dynamics 365, Enterprise Mobility Suite** aus. Sie werden entweder an die Microsoft Azure-Portal oder an das Office 365 Admin Center umgeleitet.
+4. Wählen Sie aus dem Dropdownmenü **Neue Anforderung** entweder **Azure** oder **Office 365, Dynamics 365, Enterprise Mobility Suite** aus. Sie werden entweder an die Microsoft Azure-Portal oder an das Office 365 Admin Center umgeleitet.
 
 >[!NOTE]
 >Unterstützung von Betriebs Partnern, die Dynamics 365 im CSP-Dienst unterstützen, sind erforderlich, um eine Supportvereinbarung des Advanced Support for Partner (asfp)-Plans oder höher aufrechtzuerhalten. Diese Supportvereinbarung ist erforderlich, um Dynamics 365-Vorfälle im Auftrag eines CSP-Kunden zu übermitteln. [Weitere](https://partner.microsoft.com/support/partnersupport) Informationen zu den Optionen für die Supportvereinbarung.
@@ -79,12 +81,12 @@ In beiden Fällen können Sie das folgende Verfahren zum Erstellen einer Support
 
 1. Wählen Sie im Abschnitt **Service Request erstellen** die entsprechende Support Kategorie aus. Möglicherweise müssen Sie **mehr auswählen...** , um weitere Artikel anzuzeigen.
 
-2. Vervollständigen Sie das Service Request Formular, und wählen Sie **senden**aus.
+2. Vervollständigen Sie das Service Request Formular, und wählen Sie **senden** aus.
 
    > [!TIP]
    > Denken Sie daran, Ihre Kontaktinformationen und nicht die Ihres Kunden anzugeben.
 
-3. Überprüfen Sie später die Service Requests Ihres Kunden, indem Sie zum Office 365 Admin Center wechseln und **alle Support Tickets**anzeigen auswählen.
+3. Überprüfen Sie später die Service Requests Ihres Kunden, indem Sie zum Office 365 Admin Center wechseln und **alle Support Tickets** anzeigen auswählen.
 
 ### <a name="support-for-commercial-marketplace-products"></a>Support für Produkte des kommerziellen Marketplace
 

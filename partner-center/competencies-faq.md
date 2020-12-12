@@ -8,20 +8,18 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: adce1c8740489731c12e705c71962aba004b5bd3
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570483"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354456"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Zuständigkeiten: häufig gestellte Fragen
 
-Gilt für:
+**Geeignete Rollen**
 
-- Partner Center
-- Partner Center für Microsoft Cloud for US Government
-- Partner im MPN-Programm (Microsoft Partner Network)
+- MPN-Partneradministrator
 
 In diesem Artikel werden allgemeine Fragen zu Prüfungen, Zertifizierungen und Software Vorteilen im Zusammenhang mit dem Erreichen einer Microsoft Partner Network Kompetenz beantwortet.
 

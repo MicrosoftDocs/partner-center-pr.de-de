@@ -8,18 +8,17 @@ description: Hier finden Sie Antworten auf häufig gestellte Fragen zur Verwendu
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031263"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354541"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Problembehandlung bei Connectors mit Co-Selling-Empfehlungen
 
 **Gilt für:**
 
-- Partner Center
 - Dynamics 365 CRM
 - Salesforce-CRM
 
@@ -80,7 +79,7 @@ Befolgen Sie diese Schritte zur Problembehandlung:
 
 3. Was sollten Sie tun, wenn Sie den folgenden Fehler erhalten, während Sie den Partner Center für CRM-Flow in der Energie automatisierten Plattform aktivieren?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Fehlermeldung, die eine Anmeldung erfordert":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Fehlermeldung, die Updates erfordert":::
 
 Befolgen Sie diese Schritte zur Problembehandlung:
 
@@ -95,11 +94,11 @@ Wenn der Flow ausgeführt wird, fügen Sie Verbindungen zum Flow hinzu, und Sie 
 - Wählen Sie jeden Flow aus, und bearbeiten Sie ihn einzeln.
 - Alle Schritte im Flow erweitern 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Fehlermeldung, die eine Anmeldung erfordert":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Schritte, die Verbindungen benötigen":::
 
 - Wählen Sie die Schritte aus, bei denen das Warnsymbol angezeigt wird, um Verbindungen zuzuordnen, und fügen Sie Verbindungen hinzu. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Fehlermeldung, die eine Anmeldung erfordert":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Flow Schritt für Schritt bearbeiten":::
 
 
 5. Was sollten Sie tun, wenn die Flows der Connectors-Lösung für Co-Selling-Verweise nicht aktiviert werden?
@@ -114,9 +113,9 @@ A. In der Energie Automatisierung müssen Sie Flows in der folgenden Reihenfolge
 - Salesforce-Verkaufschance an Partner Center (Insider Preview)
 - Salesforce Microsoft-Lösungen an Partner Center (Insider Preview)
 
- B. Wählen Sie für jeden Flow die Option **nur Benutzer ausführen** aus. Wählen Sie **Verbindung verwenden** anstelle von **nur Benutzer ohne Benutzer bereit**stellen aus.  
+ B. Wählen Sie für jeden Flow die Option **nur Benutzer ausführen** aus. Wählen Sie **Verbindung verwenden** anstelle von **nur Benutzer ohne Benutzer bereit** stellen aus.  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Fehlermeldung, die eine Anmeldung erfordert":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="So aktivieren Sie einen Flow":::
 
 
 C. Aktivieren Sie die folgenden genannten Flows:
@@ -128,7 +127,7 @@ C. Aktivieren Sie die folgenden genannten Flows:
     
 D: Aktivieren Sie alle verbleibenden Flows.
 
-E. Wählen Sie unter Flow Partner Center-webhook-Registrierung die Option **Ausführen**aus. Geben Sie die **http-URL** aus der ersten Aktion im **Partner Center für den Salesforce** -Flow an. Wählen Sie unter **zu registrierende Ereignisse** alle vier Optionen aus, und wählen Sie zum Überschreiben **Ja**
+E. Wählen Sie unter Flow Partner Center-webhook-Registrierung die Option **Ausführen** aus. Geben Sie die **http-URL** aus der ersten Aktion im **Partner Center für den Salesforce** -Flow an. Wählen Sie unter **zu registrierende Ereignisse** alle vier Optionen aus, und wählen Sie zum Überschreiben **Ja**
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Fragen und Antworten zur Wartung und Wartung
 
@@ -138,9 +137,9 @@ Um sicherzustellen, dass Ihre Energie automatisierenden Flows erwartungsgemäß 
 
 2. Was sollten Sie tun, wenn Verweise angezeigt werden, die nicht ordnungsgemäß in der Partner Center-oder CRM-Umgebung synchronisiert sind?
  
-**Wählen Sie**überwachen aus, um den Status der Verweis Synchronisierung zu bestimmen. 
+**Wählen Sie** überwachen aus, um den Status der Verweis Synchronisierung zu bestimmen. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Fehlermeldung, die eine Anmeldung erfordert":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Synchronisieren von verweisen":::
 
 Stellen Sie sicher, dass die folgenden Bedingungen erfüllt sind:
 
@@ -156,7 +155,53 @@ Führen Sie die folgenden Schritte aus:
 
 - Partner Verkäufer müssen sicherstellen, dass die **Synchronisierung mit der Partner Center** -Option im CRM-Abschnitt aktiviert ist.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Fehlermeldung, die eine Anmeldung erfordert" geschlossen wird.
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Stellen Sie sicher, dass die Synchronisierung aktiviert ist":::
+
+- Verkäufer müssen den Umsatz und das Enddatum angeben, wenn Sie einen Lead qualifizieren.
+
+- Wenn die CRM-ID in der Erstellungs-oder **Aktualisierungs** **Phase der Co** -Selling-Verkaufschance bereitgestellt wird, aber eine Lead Gelegenheit mit dieser ID in CRM nicht gefunden wird, wird Update oder CREATE ignoriert.
+
+- Stellen Sie sicher, dass das Feld für die Verweis Währung in der Salesforce-Umgebung 
+
+4. Was Sie tun sollten, wenn der Connector getrennt wird und eine verweissynchronisierung fehlt. 
+
+Im folgenden sind einige der Optionen aufgeführt, die Sie ausprobieren können:
+
+- Überprüfen Sie, ob der Benutzername oder das Kennwort für den Partner Center-Benutzer mit Referenz Administrator Rollen abgelaufen ist
+
+- Sie können zur nicht synchronisierten Gelegenheit wechseln, eine geringfügige Aktualisierung vornehmen und beobachten, ob der Verweis synchronisiert wurde.
+
+- Wenn die Flows ausgeführt wurden und fehlgeschlagen sind, wählen Sie den Flow aus, und übermitteln Sie den ausgefallenen Testlauf erneut.
+
+5. Was sollten Sie tun, wenn Sie Zugriffs Verweigerungs Fehler erhalten?
+
+Stellen Sie sicher, dass die entsprechenden Rollen vorhanden sind
+
+- Rolle "Verweis Administrator" für Partner Center-Verkäufer 
+ 
+- System Administrator-oder systemanpassungsrolle in Ihrer CRM-Instanz
+
+- Stellen Sie sicher, dass sich der Benutzer mit dem Datenfluss Konto automatisch https://flow.microsoft.com bei mindestens einmal anmeldet.
+
+6. Was sollten Sie tun, wenn Sie sehen, dass der **Ländercode des Kundenkontos** beim Erstellen einer Co-Selling-Verkaufschance fehlt?
+
+Sie müssen dem Kundenkonto in CRM den aus zwei Buchstaben bestehenden ISO-Code hinzufügen.
+
+7. Was sollten Sie tun, wenn Sie sehen, dass die **Lösungs-ID erforderlich ist** , während Sie eine Co-Selling-Verkaufschance erstellen?
+
+Um einen Co-Selling-Verweis zu erstellen, benötigen Sie eine Microsoft Co-Selling-Lösung. 
+
+8. Was Sie tun sollten, wenn Sie die Co-Selling-Verkaufschancen in Partner Center sehen, die nicht mit CRM synchronisiert werden, auch wenn keine Datenflussfehler auftreten:
+
+Gehen Sie folgendermaßen vor:
+
+- Nachdem Sie im Partner Center einen neuen Co-Selling-Deal erstellt haben, überprüfen Sie, ob der Flow Partner Center auf Dynamics 365 aufgerufen wird (er wird möglicherweise mehrmals aufgerufen).
+
+- Wenn der Flow aufgerufen wird, überprüfen Sie alle aufgerufenen Flows, und identifizieren Sie die flowausführung, die das CRM aktualisieren würde. Sie können den Aktionen folgen und überprüfen, ob das CRM-Update oder ein Problem aufgetreten ist.
+
+- Überprüfen Sie den *neuen Deal** im Partner Center, um festzustellen, ob es mit der CRM-ID aufgefüllt wird
+
+- Stellen Sie sicher, dass das Geschäft im Partner Center nicht versehentlich als "gewonnen" oder "verloren" geschlossen wird.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

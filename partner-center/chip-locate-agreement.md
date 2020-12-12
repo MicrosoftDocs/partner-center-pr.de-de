@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51307be51de3c41aca9fb9d39ab623f4dac318a7
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 032ad30c17136dcf102af9134153a3921e29c38a
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570551"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354439"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Suchen der Desktopanzahl und Gebührenstufe für eine Vereinbarung
+
+**Geeignete Rollen**
+
+- Primärer Kontakt oder Programm Administrator
 
 Sie können in Excel herunterladen. Dies ist eine Datei, die Vertragsdetails für die Desktop Anzahl und die Gebühren Stufe enthält.
 

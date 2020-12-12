@@ -9,18 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133081"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354507"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Kooperative Marketing Gelder verdienen
-
-**Zielgruppe**
-
-- Partner Center
 
 **Geeignete Rollen**
 
@@ -52,7 +48,7 @@ Die Zeitachse für Co-op-Geld ist in Zeiträume von 2 6 Monaten (H1 und H2) unte
 - H1 ist die erste Hälfte des Geschäftsjahres (1. Juli-31. Dezember).
 - H2 ist die zweite Hälfte des Geschäftsjahrs, 1. Juni 30. Januar.
 
-Der Zeitraum von sechs Monaten, in dem Sie Ihre Einnahmen als Ergebnis erwerben, wird zu Ihrem **Verdienst** . Sie müssen diese Gewinne zu einem bestimmten Zeitpunkt innerhalb der folgenden sechsmonatigen **Nutzungsdauer** verwenden. Wenn Sie Ihre Einnahmen nicht bis zum Ende der Nutzungsdauer verwenden, werden Sie nicht mehr verwendet. Der Anspruchs **Zeitraum** ist der Zeitraum von sechs Monaten, in dem Sie die Rückerstattung für Ihre Incentive-Programmaktivitäten anfordern können.
+Der Zeitraum von sechs Monaten, in dem Sie Ihre Einnahmen als Ergebnis erwerben, wird zu Ihrem **Verdienst**. Sie müssen diese Gewinne zu einem bestimmten Zeitpunkt innerhalb der folgenden sechsmonatigen **Nutzungsdauer** verwenden. Wenn Sie Ihre Einnahmen nicht bis zum Ende der Nutzungsdauer verwenden, werden Sie nicht mehr verwendet. Der Anspruchs **Zeitraum** ist der Zeitraum von sechs Monaten, in dem Sie die Rückerstattung für Ihre Incentive-Programmaktivitäten anfordern können.
 
 In der folgenden Tabelle sind die unterschiedlichen Zeiträume für die Inanspruchnahme, Nutzung und Inanspruchnahme aufgeführt. Sofern nicht anders angegeben, werden Zeiträume vom ersten Tag des ersten Monats bis zum letzten Tag des letzten Monats verlängert.
 

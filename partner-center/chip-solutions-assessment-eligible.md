@@ -1,5 +1,5 @@
 ---
-title: Berechtigung zur Lösungs Bewertung
+title: Berechtigung für Solution Assessment
 ms.topic: how-to
 ms.date: 11/09/2020
 description: Erfahren Sie, wie Sie die Voraussetzungen für die Teilnahme am Lösungs Bewertungsprogramm überprüfen.
@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5feb30b62cb6b862cd3e474d46980f8654ba1c1
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447238"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354473"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Berechtigungsanforderungen für das Lösungs Bewertungsprogramm
+
+**Geeignete Rollen**
+
+- Primärer Kontakt oder Programm Administrator
 
 Partner mit aktivem und registriertem Status im Incentive-Programm zur Lösungs Bewertung in FY20 sind weiterhin für Anreize in FY21 verfügbar, wenn Sie über eine aktive MPN-Mitgliedschaft und eine aktive Silber-oder Gold-MPN-Kompetenz verfügen. Partner Qualifikationen werden jährlich auf die Berechtigung geprüft. Wenn etablierte Partner im aktuellen Jahr keine Anforderungen an die Eignung und Teilnahme erfüllen, werden Sie in der nächsten jährlichen Überprüfung entfernt. Alle neuen Partner werden über den lokalen Solution Assessment-Spezialisten (SAS) in Ihrem Bereich integriert. Die SAS identifiziert die Partner, die integriert werden sollen, basierend auf der Übereinstimmung von Kenntnissen und Fachkenntnissen im Partnerunternehmen und den geschäftlichen Anforderungen der von der SAS unterstützten Niederlassungen.
 
@@ -45,7 +49,7 @@ Weitere Details oder Informationen zum Lösungs Bewertungsprogramm erhalten Sie 
 ## <a name="next-steps"></a>Nächste Schritte
 
 - [Lösungs Bewertungs Status](chip-solution-assessment.md)
-- [Support](report-problems-with-partner-center.md)
+- [Unterstützung](report-problems-with-partner-center.md)
 
 
 

@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 616f706ddb4613f927e0c2830dd794fa3db3944e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05c46faa3fd012677b615caa228cf4f7c6fe6c90
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435399"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354575"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Stichproben von monatlichen Abrechnungs Szenarien für neue Abonnements, Ändern von Lizenz Beträgen oder Suspendierungen
 
@@ -29,27 +29,27 @@ Diese Beispiel [Szenarien gelten für allgemeine Abrechnungs Szenarien](common-b
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine monatliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungspositionen:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Betrag |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13.01.2018         |12.02.2018    |Gebühr für Zyklus   |4.00       |1        |4.00 |
 
 Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Betrag |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13.02.2018         |12.03.2018    |Gebühr für Zyklus   |4.00       |1        |4.00 |
 
-## <a name="change-license-quantity"></a>Anzahl an Lizenzen ändern
+## <a name="change-license-quantity"></a>Lizenzanzahl ändern
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine monatliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungspositionen:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Betrag |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13.01.2018         |12.02.2018    |Gebühr für Zyklus   |4.00       |1        |4.00    |
 
 Am 1. Februar erhöhen Sie die Anzahl der Lizenzen von 1 auf 2. Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungspositionen:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Betrag |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 | 13.01.2018        |12.02.2018    |Anteiliger Zyklus für Instanz   |-4,00       |1        |-4,00   |
 |13.01.2018         |31.01.2018    | Anteiliger Zyklus für Instanz   |2.45       |1        |2.45    |
@@ -70,13 +70,13 @@ Anteiliger Preis pro Einheit = 1,54 = 12 x 0,129
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine monatliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungspositionen:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Betrag |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13.01.2018         |12.02.2018    |Gebühr für Zyklus   |4.00       |1        |4.00    |
 
 Am 1. Februar setzen Sie das Abonnement aus. Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Betrag |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13.01.2018|12.02.2018|Stornierungsgebühr|-4,00|1|-4,00
 
@@ -84,19 +84,19 @@ Am 1. Februar setzen Sie das Abonnement aus. Am 15. Februar enthält die lizenzb
 
 Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine monatliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungspositionen:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Betrag |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13.01.2018|12.02.2018|Gebühr für Zyklus|4.00|1|4.00
 
 Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Betrag |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13.02.2018|12.03.2018|Gebühr für Zyklus|4.00|1|4.00
 
 Am 1. März setzen Sie das Abonnement aus. Am 15. März enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Betrag |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 01.03.2018|12.03.2018|Stornierungsgebühr|-1,72|1|-1,72
 
@@ -107,3 +107,7 @@ Preis pro Einheit = Tage im Dienstzeitraum x Preis pro Tag x Anzahl der Lizenzen
 Es gibt 12 Tage im anteiligen Zeitraum vom 01.03.2018 bis zum 12.03.2018.
 
 Deshalb beträgt der Preis pro Einheit = -1,716 (12 x 0,143 x (-1)).
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Abrechnungs Szenarien für einmalige Käufe und Auswahl von wiederkehrenden Käufen](common-billing-scenarios-onetime-recurring.md)

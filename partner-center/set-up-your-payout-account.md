@@ -6,14 +6,19 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514757"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492686"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Einrichten von Auszahlungskonten und Steuerformularen
+
+**Geeignete Rollen:**
+
+- Kontoadministrator
+- Globaler Administrator
 
 Um auf dem kommerziellen Marketplace Geld aus Angebotsverkäufen zu erhalten, müssen Sie in [Partner Center](https://partner.microsoft.com/dashboard) Ihr Auszahlungskonto einrichten und die erforderlichen Steuerformulare ausfüllen.
 
@@ -32,19 +37,16 @@ Nachdem Sie Ihr Konto eingerichtet haben, müssen Sie zwei Schritte ausführen, 
 
 ## <a name="tax-forms"></a>Steuerformulare
 
-### <a name="fill-out-your-tax-forms"></a>Ausfüllen von Steuerformularen
+Sie verwalten Ihre Steuer Profile und Steuerformulare auf der Seite mit den **Auszahlungs-und Steuersätzen** von Partner Center. Die Berechtigungen Ihrer Organisation bestimmen die Profile und Informationen, die Ihnen angezeigt werden.
 
-Zunächst müssen Sie ein Steuerprofil erstellen und es den Programmen zuweisen, an denen Sie teilnehmen. Sie können Ihr *Steuerprofil* für den kommerziellen Marketplace erstellen, indem Sie die folgenden Schritte ausführen:
+### <a name="create-or-update-your-tax-profile"></a>Steuer Profil erstellen oder aktualisieren
 
-- Geben Sie Ihr Land/Ihre Region (Wohnsitz) und Ihre Staatsbürgerschaft an.
-- Füllen Sie die entsprechenden Steuerformulare aus.
-
-Sie können Ihre Steuerformulare elektronisch in Partner Center ausfüllen und übermitteln. In den meisten Fällen müssen Sie keine Formulare drucken und per E-Mail senden.
+Zunächst müssen Sie ein Steuerprofil erstellen und es den Programmen zuweisen, an denen Sie teilnehmen. Führen Sie die folgenden Schritte aus, um Ihr *Steuer Profil* in Partner Center zu erstellen oder zu aktualisieren. Sie können Ihre Steuerformulare im Partner Center-Dashboard elektronisch ausfüllen und übermitteln. in den meisten Fällen müssen Sie keine Formulare drucken und per e-Mail versenden.
 
 > [!IMPORTANT]
 > In verschiedenen Ländern und Regionen gelten unterschiedliche Steueranforderungen. Wie viele Steuern Sie genau abführen müssen, hängt von den Ländern und Regionen ab, in denen Sie Ihr Angebot bereitstellen. Unter [Microsoft Azure Marketplace – Herausgebervertrag](https://go.microsoft.com/fwlink/p/?LinkID=699560) ist angegeben, für welche Länder/Regionen Microsoft die Mehrwertsteuer und Verbrauchssteuer für Sie überweist. Abhängig davon, wo Sie registriert sind, müssen Sie in anderen Ländern/Regionen unter Umständen die Mehrwert- und Verbrauchssteuer für Ihre Angebotsverkäufe direkt an die örtliche Steuerbehörde abführen. Darüber hinaus können Ihre erhaltenen App-Verkaufserlöse unter Umständen als Einkommen steuerbar sein. Es wird dringend empfohlen, sich an die entsprechende Behörde für Ihr Land bzw. Ihre Region zu wenden. Diese kann Ihnen am besten dabei helfen, die richtige Besteuerung für Ihre Aktivitäten auf dem kommerziellen Marketplace zu ermitteln.
 
-1. Wählen Sie in [Partner Center](https://partner.microsoft.com/dashboard)in der oberen rechten Ecke das Zahnrad Symbol " **Einstellungen** " und dann " **Kontoeinstellungen**" aus.
+1. Wählen Sie im [Partner Center-Dashboard](https://partner.microsoft.com/dashboard)in der oberen rechten Ecke das Zahnrad Symbol " **Einstellungen** " und dann " **Kontoeinstellungen**" aus.
 
 2. Wählen Sie im Navigationsmenü auf der linken Seite die Option **Auszahlung und Steuer** und dann **Auszahlungs- und Steuerprofilzuweisung** aus.
 

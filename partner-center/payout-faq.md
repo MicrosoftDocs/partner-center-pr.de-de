@@ -1,22 +1,69 @@
 ---
-title: Häufig gestellte Fragen zu Auszahlungs Informationen zum kommerziellen Marketplace von Microsoft
-description: Hier erhalten Sie Antworten auf häufig gestellte Fragen zu den Zahlungen im kommerziellen Marketplace. Hier finden Sie Antworten zu den Gründen, aus denen sich Ihre Einnahmen unterscheiden.
+title: FAQ zu Auszahlungs-und Steuer Profilen
+description: Hier erhalten Sie Antworten auf häufig gestellte Fragen zu Auszahlungs-und Steuer Details im Partner Center. Hier finden Sie Antworten zu den Gründen, aus denen sich Ihre Einnahmen unterscheiden.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 09/11/2020
-ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 11/25/2020
+ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532020"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492584"
 ---
-# <a name="common-questions-about-commercial-marketplace-payouts"></a>Häufige Fragen zu kommerziellen Marketplace-Auszahlungen
+# <a name="common-questions-about-payouts-and-taxes"></a>Häufige Fragen zu Auszahlungen und Steuern
 
-In diesem Artikel werden häufig gestellte Fragen zu Zahlungen im kommerziellen Marketplace beantwortet.
+**Geeignete Rollen**:
+
+- Kontoadministrator
+- Globaler Administrator
+- Incentiveadministrator
+
+In diesem Artikel werden häufig gestellte Fragen zu Auszahlungs-und Steuer Details in Partner Center beantwortet. zu den behandelten Themen gehören die Zeitüberschreitung bei Zahlungen, das Überprüfen der Ergebnis Berechtigung und die Wichtigkeit der ordnungsgemäßen Einrichtung ihrer Auszahlungs-und Steuer Profile.
+
+## <a name="profile-management"></a>Profilverwaltung
+
+#### <a name="why-do-i-need-to-provide-or-update-my-payout-andor-tax-details"></a>Warum muss ich meine Auszahlungs-und/oder Steuer Details angeben oder aktualisieren?
+
+Alle Partner, die sich bei einem neuen Programm registrieren, müssen gültige Auszahlungs-und Steuer Details angeben, um die Registrierung abzuschließen und ihre Zahlungen zu erhalten. Eine Registrierung gilt nur, nachdem Microsoft Ihr Auszahlungs-und Steuer Profil überprüft hat.
+
+Möglicherweise müssen Sie Ihre Informationen auch aktualisieren, wenn sich die Regeln für das Programm ändern oder wenn Aspekte Ihres Profils ablaufen oder veraltet sind. Wenn dies der Fall ist, wird auf der Übersichtsseite der Status **Aktion erforderlich – Update Bank und/oder Steuer Profil** angezeigt.
+
+#### <a name="how-do-i-find-set-up-or-update-payout-and-tax-details"></a>Gewusst wie Auszahlungs-und Steuer Details suchen, einrichten oder aktualisieren?
+
+Ausführliche Informationen zum Aktualisieren von Zahlungs-und Steuer Details in Partner Center finden Sie unter [Einrichten Ihres Auszahlungs Kontos und der Steuerformulare](set-up-your-payout-account.md).
+
+#### <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>Warum sehe ich meine Registrierungen nicht, wenn ich mein Auszahlungs- und Steuerprofil zuweise?
+
+Möglicherweise verfügen Sie nicht über die entsprechenden Berechtigungen, oder Sie sind mit einem Konto angemeldet, das nicht über diese Berechtigungen verfügt. Beispielsweise können nur Incentive-Administratoren für Ihren MPN-Speicherort Auszahlungs-und Steuer Profile erstellen oder verwalten. Wenden Sie sich zwecks Verwaltung der Berechtigungen für Bank und Steuern an den Administrator Ihrer Organisation.
+
+#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Ich kann mich nur bei meiner @onmicrosoft.com Domäne anmelden.   Wie sollte ich vorgehen?
+
+Bitten Sie Ihren Kontoadministrator, dem AAD-Konto zusätzliche Domänen hinzuzufügen.
+ 
+#### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Meine Organisation ist an mehreren Programmen beteiligt. Muss ich mein Zahlungs-und Steuer Profil mehrmals bereitstellen?
+
+Dies hängt von den Anforderungen Ihres Unternehmens ab. Zahlungs Profile werden auf Organisationsebene erstellt, sodass das gleiche Bank Profil über mehrere MPN-IDs und-Programme innerhalb einer Organisation hinweg zugewiesen werden kann. In den meisten Fällen können Sie entweder ein vorhandenes Profil wieder verwenden oder ein neues erstellen.
+
+Es kann jedoch Ausnahmen geben, wenn Sie Ihr Bankprofil verschiedenen Ländern oder Regionen zuordnen, da möglicherweise lokale Bank- oder Steuervorschriften gelten.
+
+Steuer Profile, die für einen MPN-Speicherort erstellt werden, werden wieder verwendet und automatisch aufgefüllt, wenn derselbe MPN-Standort an einem anderen Programm teilnimmt. Es kann jedoch Ausnahmen geben. Beispielsweise können die Auszahlungsregeln eines neuen Incentives-Programms zusätzliche Details zum Steuerprofil erfordern.
+
+#### <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Kann ich dieselben Bank-und Steuer Details für alle Incentive-Programme bei Microsoft verwenden?
+
+Wenn Ihr Unternehmen für mehrere Programme eingeladen ist, können Sie für alle Programme dasselbe Zahlungskonto verwenden, oder Sie können unterschiedliche Zahlungskonten für die verschiedenen Programme verwenden.
+
+
+#### <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Wie stellt Microsoft sicher, dass die Bankinformationen tatsächlich der des Unternehmens sind und kein persönliches Bankkonto für einen Mitarbeiter?
+
+Es liegt in der Verantwortung des Unternehmens, sicherzustellen, dass die Rolle des Incentive-Administrators, der über die Berechtigungen zum Bearbeiten dieser Informationen verfügt, nur den entsprechenden Mitarbeitern erteilt wird.
+
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Mein Steuer Profil ist abgelaufen. Wie kann ich dies korrigieren?
+
+Verwenden Sie die Schritte unter [erstellen oder Aktualisieren Ihres Steuer Profils](set-up-your-payout-account.md#create-or-update-your-tax-profile) , um Ihr Steuer Profil zu aktualisieren. Auf der Seite " **Steuer Profil** " können Sie in der Spalte **Ablaufdatum** Profile sehen, die abgelaufen sind oder bald ablaufen. 
 
 ## <a name="earnings-incorrect-or-missing"></a>Das Ergebnis ist falsch oder fehlt.
 
@@ -32,9 +79,10 @@ In diesem Artikel werden häufig gestellte Fragen zu Zahlungen im kommerziellen 
 - Überprüfen Sie die Zuständigkeit für Steuern nach Land. Für Länder/Regionen, in denen Microsoft für die Steuerzahlung zuständig ist, wird der Steuerbetrag von Microsoft berechnet und von den Einnahmen des Herausgebers abgezogen. Der Transaktionsbetrag im Auszug ist der Betrag nach Abzug der Steuer. Weitere Informationen finden Sie unter [Steuerliche Aspekte für kommerzielle Marketplace-Herausgeber](tax-details-marketplace.md).
 - SaaS-und IaaS-Angebote verfügen über eine reduzierte gebührengebühr von 10% anstelle der standardmäßigen 20%. Dies hat eine Gewinnquote von 90%. Dieses Angebot gilt bis zum 30. Juni 2021.
 
-**Weitere** Informationen: [kommerzieller Marketplace-Herausgeber Vertrag](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Details zu Auszahlungs Richtlinien](payout-policy-details.md), [Zahlungs Schwellenwert, Methode und Zeitrahmen](payment-thresholds-methods-timeframes.md), [kostenpflichtig im kommerziellen Marketplace](marketplace-get-paid.md), [Steuer Details](tax-details-marketplace.md), [Auszahlungs Anweisungen](payout-statement.md), [Bestell Dashboard in kommerziellen Marketplace Analytics](/azure/marketplace/partner-center-portal/orders-dashboard)
+**Weitere** Informationen: [kommerzieller Marketplace-Herausgeber Vertrag](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Details zu Auszahlungs Richtlinien](payout-policy-details.md), [Zahlungs Schwellenwert, Methode und Zeitrahmen](payment-thresholds-methods-timeframes.md), [kostenpflichtige](marketplace-get-paid.md), [steuerliche Details](tax-details-marketplace.md)und [Auszahlungs Anweisungen](payout-statement.md)
 
 ## <a name="earnings-reconciliation"></a>Einnahmenabgleich
+
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>Wie kann ich Auszahlungsauszüge mit Auftrags- oder Nutzungsberichten in Analysen abgleichen?
 Verwenden Sie assetid, OrderID und die Zeilen Element-ID, die im Bericht "Auszahlungs Transaktionsverlauf" mit analytischen Aufträgen und Verwendungs Berichten angezeigt werden. Verwenden Sie diese Zuordnung:
 
@@ -48,19 +96,6 @@ Verwenden Sie assetid, OrderID und die Zeilen Element-ID, die im Bericht "Auszah
 - Für Kunden, die keine Enterprise-Kunden sind, wird der Verleger Gewinn in der Anweisung 1-2 Tage nach Erhalt der Kundenzahlung angezeigt.
 
 **Weitere** Informationen: [Auszahlungs Anweisungen](payout-statement.md), [Bestell Dashboard in kommerzieller Marketplace Analytics](/azure/marketplace/partner-center-portal/orders-dashboard)
-
-## <a name="payout-policies"></a>Auszahlungsrichtlinien
-
-#### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>Wie kann ich die aktuelle Agenturgebühr und die Auszahlungsrate ermitteln?
-
-- Sehen Sie in der Herausgebervereinbarung für den kommerziellen Marketplace nach. Standardmäßig hat die Agenturgebühr eine Höhe von 20 %. Die für SaaS Co-Sell berechtigten Transaktionen haben eine reduzierte Gebühr von 10%. Achten Sie auf Ankündigungen zu Angeboten in Bezug auf die Agenturgebühr.
-- In ihrer Auszahlungs Anweisung gibt die Erwerbs Rate die tatsächliche Auszahlungsrate für eine bestimmte Transaktion an.
-
-#### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>Wann kann ich eine Zahlung von Microsoft erwarten, nachdem in meinem Auszug Einnahmen angezeigt werden?
-- Wenn Ihre Einnahmen den Status „Nicht verarbeitet“ aufweisen, können Sie das Datum der Auszahlungsbereitschaft für den Monat überprüfen, in dem Ihre Einnahmen für die Zahlung verarbeitet werden. Sobald Ihre Zahlung vorbereitet ist, ändert sich der Status ihres Erwerbs in "verarbeitet".  Microsoft gibt die Zahlungen jeweils am 15. des Monats frei, in dem diese die Auszahlungsbereitschaft erreichen.
-- Bei Bestellungen, die per Kreditkarte gezahlt werden, hält Microsoft 30 Tage lang Zahlungen, bis der Erwerb ausgereift ist.
-
- **Weitere** Informationen: [kommerzielle Marketplace-Herausgeber Vereinbarung](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Details zu Auszahlungs Richtlinien](payout-policy-details.md), [Steuer Details](tax-details-marketplace.md), [Zahlungs Schwellenwert, Methode und Zeitrahmen](payment-thresholds-methods-timeframes.md)
 
 ## <a name="payments-and-adjustments"></a>Zahlungen und Anpassungen
 
@@ -111,7 +146,7 @@ Die Quellensteuer ist für US-amerikanische Herausgeber relevant, die ein W-9-Fo
 #### <a name="how-do-i-access-a-payout-statement"></a>Wie kann ich auf einen Auszahlungsauszug zugreifen?
 
 1. Überprüfen Sie Ihre Rollen. Für den Zugriff auf den Auszahlungsauszug müssen Sie über die Rolle *Mitwirkender im Finanzbereich* oder *Kontobesitzer* verfügen.
-2. Wählen Sie in der Navigationsleiste oben rechts das **Auszahlungs** Symbol aus, um Ihre Auszahlungs Anweisung anzuzeigen. Wählen Sie einen **Transaktionsverlauf** , eine **Zahlung** und einen **Download** aus.
+2. Wählen Sie in der Navigationsleiste oben rechts das **Auszahlungs** Symbol aus, um Ihre Auszahlungs Anweisung anzuzeigen. Wählen Sie einen **Transaktionsverlauf**, eine **Zahlung** und einen **Download** aus.
 
 **Weitere** Informationen: [Auszahlungs Rollen und-Berechtigungen](payout-statement.md#roles-and-permissions), [Auszahlungs Anweisungen](payout-statement.md) 
 
@@ -157,6 +192,20 @@ Der historische Auszug zeigt die Momentaufnahme der Auszahlungsdaten von Oktober
 
 Verwenden Sie die [Partner-Auszahlungs-API](https://apidocs.microsoft.com/services/partnerpayouts).
 
+## <a name="commercial-marketplace-payout-policies"></a>Kommerzielle Marketplace-Auszahlungs Richtlinien
+
+#### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>Wie kann ich die aktuelle Agenturgebühr und die Auszahlungsrate ermitteln?
+
+- Sehen Sie in der Herausgebervereinbarung für den kommerziellen Marketplace nach. Standardmäßig hat die Agenturgebühr eine Höhe von 20 %. Die für SaaS Co-Sell berechtigten Transaktionen haben eine reduzierte Gebühr von 10%. Achten Sie auf Ankündigungen zu Angeboten in Bezug auf die Agenturgebühr.
+- In ihrer Auszahlungs Anweisung gibt die Erwerbs Rate die tatsächliche Auszahlungsrate für eine bestimmte Transaktion an.
+
+#### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>Wann kann ich eine Zahlung von Microsoft erwarten, nachdem in meinem Auszug Einnahmen angezeigt werden?
+- Wenn Ihre Einnahmen den Status „Nicht verarbeitet“ aufweisen, können Sie das Datum der Auszahlungsbereitschaft für den Monat überprüfen, in dem Ihre Einnahmen für die Zahlung verarbeitet werden. Sobald Ihre Zahlung vorbereitet ist, ändert sich der Status ihres Erwerbs in "verarbeitet".  Microsoft gibt die Zahlungen jeweils am 15. des Monats frei, in dem diese die Auszahlungsbereitschaft erreichen.
+- Bei Bestellungen, die per Kreditkarte gezahlt werden, hält Microsoft 30 Tage lang Zahlungen, bis der Erwerb ausgereift ist.
+
+ **Weitere** Informationen: [kommerzielle Marketplace-Herausgeber Vereinbarung](https://go.microsoft.com/fwlink/p/?LinkID=699560), [Details zu Auszahlungs Richtlinien](payout-policy-details.md), [Steuer Details](tax-details-marketplace.md), [Zahlungs Schwellenwert, Methode und Zeitrahmen](payment-thresholds-methods-timeframes.md)
+
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Zahlungserhalt im kommerziellen Marketplace](marketplace-get-paid.md)
+- [Bezahlung](marketplace-get-paid.md)
+- [Einrichten von Auszahlungskonten und Steuerformularen](set-up-your-payout-account.md)

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626030"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492465"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Erstellen und Verwalten von Auszahlungs-und Steuer Profilen für die Anreize im Partner Center
 
@@ -72,7 +72,7 @@ In den folgenden Abschnitten werden die Schritte zum Erstellen und Verwalten von
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/)an, und wählen Sie das Zahnrad Symbol aus, um das Menü " **Einstellungen** " zu öffnen. 
 
-2. Wählen Sie **Partner Einstellungen** aus, erweitern Sie den **Abschnitt Auszahlung und Steuern** , und wählen Sie dann **Auszahlungs-und Steuer Profil Zuweisung** aus. 
+2. Wählen Sie **Partner Einstellungen** aus, erweitern Sie den **Abschnitt Auszahlung und Steuern**, und wählen Sie dann **Auszahlungs-und Steuer Profil Zuweisung** aus. 
    
    Eine Liste der Programme wird angezeigt. Wählen Sie den Pfeil neben einem Programm aus, um die Profildetails anzuzeigen. 
 
@@ -152,4 +152,4 @@ Wenn Sie für Partnerunternehmen in Nordamerika Informationen zum Abschließen v
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Häufig gestellte Fragen zu den Incentivezahlungen und Steuerprofilen](incentives-payout-tax-profile-faqs.md)
+- [Häufige Fragen zu Auszahlungen und Steuern](payout-faq.md)

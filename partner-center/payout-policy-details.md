@@ -1,22 +1,27 @@
 ---
-title: 'Auszahlungs Zeitpläne und Richtlinien Details: Azure Marketplace'
-description: Erfahren Sie mehr über Details im Zusammenhang mit kommerziellen Marketplace-Auszahlungs Richtlinien, einschließlich Zeitplänen und erneuter Überladung.
+title: Auszahlungs Zeitpläne und-Prozesse
+description: Erfahren Sie mehr über Auszahlungen und Transaktionen, z. b. Zahlungs Zeitpläne und Wiederholungsprozesse für den kommerziellen Marketplace und andere Transaktionen.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/06/2020
-ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
-ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
+ms.date: 11/25/2020
+ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96513290"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492669"
 ---
-# <a name="payout-schedules-and-policy-details"></a>Auszahlungs Zeitpläne und Richtlinien Details
+# <a name="payout-schedules-and-processes"></a>Auszahlungs Zeitpläne und-Prozesse
 
-Dieser Artikel erläutert den Auszahlungsprozess von Microsoft, den auszahlungszeitplan, wo der Status einer Auszahlung zu finden ist, und den Prozess für die Nichtzahlung von Kunden.
+**Geeignete Rollen:**
+
+- Kontoadministrator
+- Globaler Administrator
+
+In diesem Artikel wird der Zahlungsplan von Microsoft erläutert, in dem der Status einer Auszahlung zu finden ist, und der Prozess für die Nichtzahlung von Kunden.
 
 ## <a name="payment-schedules"></a>Zahlungspläne
 
@@ -28,7 +33,7 @@ Wenn ein Kunde ein Produkt von Microsoft AppSource oder Azure Marketplace mit vo
 
 Es kommt häufig vor, dass Microsoft die Zahlung vom Kunden sammelt. Weitere Informationen zu den Aktionen, die wir durchführen, wenn der Kunde [Microsoft nicht bezahlt](#process-for-customer-non-payment) , aber wir haben bereits eine Auszahlung ausgegeben.
 
-| Ereignis | BESCHREIBUNG | Sichtbarkeit von Berichten | Zeit Steuerungs |
+| Ereignis | Beschreibung | Sichtbarkeit von Berichten | Zeit Steuerungs |
 | --- | --- | --- | --- |
 | Verwendung oder Monat der Transaktion | Der Kunde verwendet oder kauft einen Dienst. | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 1** |
 | Microsoft berechnet Abrechnungsbetrag | Bestimmen der Gesamtauslastung, Transaktionen gesamt | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 2** |
@@ -46,7 +51,7 @@ Es kommt häufig vor, dass Microsoft die Zahlung vom Kunden sammelt. Weitere Inf
 
 Alle Käufe mit einer Kreditkarte oder einer monatlichen Rechnung verfügen über einen Zeitraum von 30 Tagen, um sicherzustellen, dass die Geldbeträge vom Kunden gesammelt werden.
 
-| Ereignis | BESCHREIBUNG | Sichtbarkeit von Berichten | Zeit Steuerungs |
+| Ereignis | Beschreibung | Sichtbarkeit von Berichten | Zeit Steuerungs |
 | --- | --- | --- | --- |
 | Verwendung oder Monat der Transaktion | Der Kunde verwendet oder kauft einen Dienst. | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 1** |
 | Von Kunde bezahlte Rechnung | Ermitteln der Gesamtauslastung, des gesamten Transaktionswerts und der Kunden zahlungsrechnung | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 2** |
@@ -90,7 +95,7 @@ Im Anschluss finden Sie einen Beispielzeitplan:
 In der Regel senden wir die in einem Monat fälligen Zahlungen am 15. des Monats, es dauert jedoch einige Zeit, bis die Zahlung auf Ihrem Konto eingeht. Die Anzahl der Tage hängt von der Zahlungsmethode ab, die wir für Ihr Konto verwenden, wie unten beschrieben.
 
 > [!NOTE]
-> Die unten gezeigten Tage sind ungefähre Angaben. Es kann länger oder kürzer dauern, bis eine Auszahlung auf Ihrem Konto eingeht.
+> Die unten gezeigten Tage sind ungefähre Werte. das Erreichen Ihres Kontos kann mehr oder weniger Zeit in Anspruch nehmen.
 
 | Payment Method     | Anzahl der Tage bis zum Eingang auf dem Auszahlungskonto     |
 |--------------------|--------------------------------------------|

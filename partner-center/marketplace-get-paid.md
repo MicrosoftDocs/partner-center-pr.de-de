@@ -1,23 +1,28 @@
 ---
-title: Zahlungserhalt im kommerziellen Marketplace
-description: Erfahren Sie mehr über das Empfangen von Zahlungen für den Gewinn in der kommerziellen Marketplace-Azure Marketplace. Umfasst Auszahlungs Richtlinien, Auszahlungsstatus-und Auszahlungs Anweisungen.
+title: Kostenpflichtig im Partner Center
+description: Erfahren Sie, wie Sie Zahlungen für das Ergebnis als Microsoft-Partner erhalten, z. b. über kommerzielle Marketplace-Angebote, Incentive-Programme und das Cloud Solution Provider-Programm. Umfasst Auszahlungs Richtlinien, Auszahlungsstatus-und Auszahlungs Anweisungen.
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 09/28/2020
+ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e998ae248b5b09340cb4a7b57c8fbd77b59731d4
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514723"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492448"
 ---
-# <a name="getting-paid-in-the-commercial-marketplace"></a>Zahlungserhalt im kommerziellen Marketplace
+# <a name="getting-paid-in-partner-center"></a>Kostenpflichtig im Partner Center
+
+**Geeignete Rollen:**
+
+- Kontoadministrator
+- Globaler Administrator
 
 Dieser Artikel enthält wichtige Informationen zum Empfangen von Zahlungen für Ihre Angebote, Add-ons und Werbeeinnahmen. Es fasst die Auszahlungs Richtlinie, die erforderlichen Schritte vor dem kostenpflichtigen Tarif und die Übersicht über die Auszahlungs Anweisung zusammen.
 
-## <a name="commercial-marketplace-payout-policies-and-agreements"></a>Kommerzielle Marketplace-Auszahlungs Richtlinien und Vereinbarungen
+## <a name="payout-policies-and-agreements"></a>Auszahlungs Richtlinien und Vereinbarungen
 
 Wenn Sie bezahlt werden, müssen Sie die Vereinbarungen und die Auszahlungs Richtlinie einhalten.
 
@@ -49,4 +54,4 @@ Die Auszahlungs Anweisung zeigt Ihre Einnahmen aus den Verkäufen aus ihren ange
 ## <a name="next-steps"></a>Nächste Schritte
 
 - [Partner-Auszahlungs-API](https://apidocs.microsoft.com/services/partnerpayouts)
-- [Häufig gestellte Fragen zu Marketplace-Auszahlungen](payout-faq.md)
+- [Häufig gestellte Fragen zu Auszahlungen](payout-faq.md)

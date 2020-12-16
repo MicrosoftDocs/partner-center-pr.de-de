@@ -1,7 +1,7 @@
 ---
 title: Häufig gestellte Fragen zu den Vorteilen
 ms.topic: article
-ms.date: 09/08/2020
+ms.date: 12/15/2020
 description: Antworten auf Fragen zum Ablauf von Vorteilen, zur Verlängerung und zum Aktivieren von Lizenzen für Azure, Cloud, Visual Studio und technische und Supportleistungen
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570687"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514696"
 ---
 # <a name="benefits-faq"></a>Häufig gestellte Fragen zu den Vorteilen
 
@@ -98,7 +98,7 @@ Mithilfe der folgenden Schritte können Sie jeder Person in der Benutzer Verwalt
 Nachdem Sie das Abonnement zugewiesen haben, muss sich der Benutzer bei Visual Studio anmelden, um ihn zu verwalten.
 
 >[!Note]
-> Visual Studio-Abonnements können nach der ursprünglichen Zuweisung von einem Abonnenten zu einem anderen 90 Tage neu zugewiesen werden.
+> Visual Studio-Abonnements können von einem Abonnenten zu einem anderen neu zugewiesen werden, wenn seit dem Zeitpunkt der ursprünglichen Zuweisung 90 Tage vergangen sind.
 
 ## <a name="technical-benefits-and-support"></a>Technische Vorteile und Support
 

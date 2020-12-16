@@ -9,18 +9,15 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/30/2020
-ms.openlocfilehash: aacca72e9af45b2777364734c2b07dbe8101989d
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92333916"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354609"
 ---
 # <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Aktualisierte Methode zur Bestätigung der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung
 
-**Zielgruppe**
-
--  Partner Center
 
 **Geeignete Rollen**
 
@@ -48,7 +45,7 @@ Als Partner müssen Sie die Zustimmung Ihres Kunden zur Microsoft-Kundenvereinba
 
 - Datum der Zustimmung
 
-Direct-Bill-Partner und indirekte Anbieter müssen die Zustimmung des Kunden zur Microsoft-Kundenvereinbarung bestätigen, wenn sie über Partner Center oder die Partner Center-API Transaktionen ausführen. Die Bestätigung ist *obligatorisch* .
+Direct-Bill-Partner und indirekte Anbieter müssen die Zustimmung des Kunden zur Microsoft-Kundenvereinbarung bestätigen, wenn sie über Partner Center oder die Partner Center-API Transaktionen ausführen. Die Bestätigung ist *obligatorisch*.
 
 Wenn für einen bestimmten Kunden keine Bestätigung bereitgestellt wird:
 
@@ -70,7 +67,7 @@ Dies gilt für Produktions- und Sandboxumgebungen.
 
 Verwenden Sie das folgende Verfahren, um die Zustimmung des Kunden zu bestätigen, während Sie einen neuen Kundenmandanten im Partner Center erstellen. Beachten Sie, dass Sie dafür ein Administrator-Agent oder Vertriebsbeauftragter sein müssen.
 
-1. Wählen Sie **Kunden** und dann **Neuer Kunde** aus, und klicken Sie anschließend auf **Kontoinformationen** .
+1. Wählen Sie **Kunden** und dann **Neuer Kunde** aus, und klicken Sie anschließend auf **Kontoinformationen**.
 
 2. Geben Sie die Informationen zum **Unternehmen** und zum **Primären Kontakt** ein.
 
@@ -82,9 +79,9 @@ Verwenden Sie das folgende Verfahren, um die Zustimmung des Kunden zu bestätige
 
 5. Geben Sie die Details des Benutzers ein, der die Zustimmung bereitgestellt hat.
 
-   :::image type="content" source="images/mca/MCA3.png" alt-text="Unternehmensinformationen":::
+   :::image type="content" source="images/mca/MCA3.png" alt-text="Hinzufügen eines Annahmedatums":::
 
-   Standardmäßig werden die Informationen des primären Kontakts angezeigt. Wenn diese nicht richtig sind, wählen Sie **Aktualisieren** aus, und geben Sie dann **Vorname** , **Nachname** , **E-Mail-Adresse** und * *Telefonnummer* (optional) der Person ein, die der Vereinbarung zugestimmt hat.
+   Standardmäßig werden die Informationen des primären Kontakts angezeigt. Wenn diese nicht richtig sind, wählen Sie **Aktualisieren** aus, und geben Sie dann **Vorname**, **Nachname**, **E-Mail-Adresse** und **Telefonnummer* (optional) der Person ein, die der Vereinbarung zugestimmt hat.
 
 6. Wählen Sie **Weiter** aus, um mit den verbleibenden Schritten zum Erstellen des Kundenmandanten fortzufahren.
 
@@ -98,9 +95,9 @@ Beachten Sie, dass Sie dafür ein Administrator-Agent oder Vertriebsbeauftragter
 
 3. Wählen Sie unter **Microsoft-Kundenvereinbarung** die Option **Aktualisieren** aus.
 
-   :::image type="content" source="images/mca/mca4.png" alt-text="Unternehmensinformationen":::
+   :::image type="content" source="images/mca/mca4.png" alt-text="Aktualisieren":::
 
-4. Geben Sie **Vorname** , **Nachname** , **E-Mail-Adresse** und **Telefonnummer** (optional) des Benutzers ein, der dem Vertrag zugestimmt hat.
+4. Geben Sie **Vorname**, **Nachname**, **E-Mail-Adresse** und **Telefonnummer** (optional) des Benutzers ein, der dem Vertrag zugestimmt hat.
 
 5. Geben Sie unter **Datum der Vertragsannahme** das entsprechende Datum ein. Dieses kann nicht auf ein Datum in der Zukunft festgelegt werden.
 
@@ -110,7 +107,7 @@ Beachten Sie, dass Sie dafür ein Administrator-Agent oder Vertriebsbeauftragter
 
 Wenn Sie versuchen, einen neuen Auftrag für einen vorhandenen Kunden zu erstellen, den Sie zuvor noch nicht bestätigt haben, erhalten Sie eine Aufforderung, die Bestätigung abzuschließen. Führen Sie dazu die nachfolgend aufgeführten Schritte aus.
 
-1. Geben Sie **Vorname** , **Nachname** , **E-Mail-Adresse** und **Telefonnummer** (optional) des Benutzers ein, der dem Vertrag zugestimmt hat.
+1. Geben Sie **Vorname**, **Nachname**, **E-Mail-Adresse** und **Telefonnummer** (optional) des Benutzers ein, der dem Vertrag zugestimmt hat.
 
 2. Geben Sie unter **Datum der Vertragsannahme** das entsprechende Datum ein. Dieses kann nicht auf ein Datum in der Zukunft festgelegt werden.
 

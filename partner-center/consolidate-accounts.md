@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 3b20f29fcde9c910fd72d0aa86a1242b9c00859c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527813"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354524"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>Konsolidieren Ihrer Unternehmenskonten bei der Migration vom PMC zum Partner Center
 
@@ -62,3 +62,9 @@ Im PMC konnte jeder Standort über eigene standortspezifische Kompetenzen, MAPs 
 Im Partner Center werden alle Standortkonten zu einem globalen Konto zusammengefasst. Dies bedeutet, dass alle Markteinführungsangebote, -programme und -kompetenzen ebenfalls konsolidiert werden. Zusätzliche Vorteilstoolkits (ABTKs) sind nicht verfügbar. Allerdings können Sie die Verteilung der Marketingressourcen, Angebote, Programme und Kompetenzen je nach Unternehmensanforderungen organisieren. Wenn Sie eine Konsolidierung durchführen, kann Ihr Unternehmen über einen Verlängerungszeitraum von einem Jahr die bisher im PMC verwendeten Marketingressourcen, Angebote und Programme weiter nutzen.
 
 Weitere Informationen zu den Unterschieden zwischen PMC und Partner Center finden Sie unter [Umstellung von PMC auf Partner Center](guide-to-migration.md).
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Verwalten des Partner Center-Kontos](partner-center-account-setup.md)
+
+- [Standorte verwalten](manage-locations.md)

@@ -9,18 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556445"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011524"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Verwalten Ihres Partner Center-Kontos – Unternehmensprofil, Bankdetails, Rollen, Berechtigungen und mehr
 
 **Geeignete Rollen**: globaler Administrator, MPN-Administrator
 
-Das Konto, das Sie bei der Registrierung in Partner Center erstellen, besteht aus Ihrer beruflichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem Sie ein Konto erstellt haben, müssen Sie die Einrichtung des vollständigen Unternehmensprofils abschließen (einschließlich Supportinformationen, ggf. Steuerbefreiungen und Angaben zum Hauptansprechpartner). Das Unternehmenskonto umfasst außerdem Benutzerkonten für alle Personen, die Partner Center zum Hinzufügen oder Verwalten von Kunden, zum Verkaufen von Abonnements, zur Abrechnung und Fakturierung, zum Erstellen von Unternehmensprofilen, zum Verwalten von Empfehlungen, zum Arbeiten mit Incentives-Programmen und zum Bereitstellen von Support nutzen.
+Das Konto, das Sie bei der Registrierung im Partner Center erstellen, besteht aus Ihrer geschäftlichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem Sie ein Konto erstellt haben, müssen Sie die Einrichtung des vollständigen Unternehmensprofils abschließen (einschließlich Supportinformationen, ggf. Steuerbefreiungen und Angaben zum Hauptansprechpartner). Das Unternehmenskonto umfasst außerdem Benutzerkonten für alle Personen, die Partner Center zum Hinzufügen oder Verwalten von Kunden, zum Verkaufen von Abonnements, zur Abrechnung und Fakturierung, zum Erstellen von Unternehmensprofilen, zum Verwalten von Empfehlungen, zum Arbeiten mit Incentives-Programmen und zum Bereitstellen von Support nutzen.
 
 Weitere Informationen finden Sie auch in den Artikeln [Einladen von Mitarbeitern in das Partner Center](guide-to-migration.md) und [Hinzufügen eines neuen Benutzer](create-user-accounts-and-set-permissions.md).
 
@@ -41,9 +41,19 @@ Die Seite mit Kontoeinstellungen wird angezeigt.
 
 Unabhängig davon, ob Sie ein Partner oder ein Entwickler sind, verwenden Sie Ihre MPN-ID für Aktionen wie die Erstellung von Supporttickets. Ihre MPN-ID befindet sich auf der Seite **Rechtliche Hinweise**. Sie finden sie auch im **Identitätsprofil**.
 
+## <a name="account-settings---partners-resellers"></a>Kontoeinstellungen: Partner, Wiederverkäufer
+
+Wenn Sie das Symbol **Einstellungen** auswählen und das Menü **Kontoeinstellungen** öffnen und Ihr Unternehmen am Cloud Solution Provider-Programm teilnimmt, wird die Standardansicht **Rechtliche Hinweise** mit den beiden Registerkarten **Partner** und **Wiederverkäufer** angezeigt. Jede Registerkarte enthält Aspekte Ihres Unternehmens.
+
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menü mit den Registerkarten für Partner und Wiederverkäufer":::
+
+Auf der Registerkarte „Partner“ werden alle offiziellen Geschäftsinformationen, z. B. der registrierte rechtliche Name und die Adresse für Ihr Unternehmen, sowie der Hauptansprechpartner und die Geschäftsstandorte angezeigt. Die Registerkarte „Wiederverkäufer“ für Partner, die CSP-Geschäfte tätigen, umfasst das **Kundensupportprofil**.
+
+Wenn Ihr Unternehmen nicht an CSP teilnimmt, wird in der Standardansicht nur die Registerkarte **Partner** angezeigt, die das **Kundensupportprofil** enthält.
+
 ## <a name="organization-profile"></a>Organisationsprofil
 
-Auf diesen Seiten können Sie Verwaltungsaufgaben in Bereichen wie Rechtsgeschäftsprofil, Partnerprofil und Unternehmensstandorte ausführen. Wählen Sie Registerkarten wie **Rechtliche Hinweise** oder **Mandanten** aus (weiter unten ausführlicher beschrieben), um den jeweiligen Bereich zu bearbeiten. Wählen Sie die Registerkarte für das Programm aus, an dem Sie interessiert sind (MPN, CSP oder kommerzieller Marketplace), um die Informationen und Ihren Überprüfungsstatus anzuzeigen.
+Auf diesen Seiten können Sie detaillierte Bereiche Ihres Unternehmens verwalten, einschließlich Rechtsgeschäftsprofil, Partnerprofil und Mandanten. Verwalten Sie die einzelnen Bereich getrennt. Sie werden unten beschrieben. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Menü mit der Option „Rechtliche Hinweise“":::
 
@@ -81,7 +91,7 @@ Ihr Arbeitsbereich in Partner Center sowie die Bereiche, die Sie aktualisieren o
 
 Gehen Sie folgendermaßen vor, um Ihre bevorzugte E-Mail-Adresse für den Empfang von Partner Center-Benachrichtigungen zu aktualisieren:
 
-1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
+1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard) an.
 1. Wechseln Sie zu [**Meine Einstellungen**](https://partner.microsoft.com/dashboard/engagement/preference), wählen Sie den Link **Ändern** aus, aktualisieren Sie die E-Mail-Adresse, und wählen Sie dann **Speichern** aus.
 
 ### <a name="find-your-user-role"></a>Suchen Ihrer Benutzerrolle

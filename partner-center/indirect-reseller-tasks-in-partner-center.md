@@ -1,27 +1,23 @@
 ---
 title: Arbeiten mit indirekten Anbietern im CSP-Programm
 ms.topic: how-to
-ms.date: 10/09/2020
+ms.date: 12/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie indirekte Vertriebspartner mit indirekten Microsoft-Anbietern (oder Distributoren) zusammenarbeiten können, um Unterstützung beim Kundensupport und bei der Abrechnung zu erhalten.
 ms.prod: ''
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795847"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514743"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Informationen zum Arbeiten mit indirekten Anbietern im Cloud Solution Provider-Programm
-
-**Zielgruppe**
-
-- Partner Center
 
 **Geeignete Rollen**
 
@@ -70,35 +66,24 @@ Ab Oktober 2020 registrieren sich alle Microsoft-Partner, die erstmalig am CSP-
 
 1. Starten Sie den Registrierungsprozess, indem Sie zur [**Willkommensseite**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) wechseln.
 
-2. Vergewissern Sie sich auf der **Willkommensseite** , dass Sie über die erforderlichen Informationen für die Registrierung verfügen, und wählen Sie dann **Weiter** aus.
+2. Vergewissern Sie sich auf der **Willkommensseite**, dass Sie über die erforderlichen Informationen für die Registrierung verfügen, und wählen Sie dann **Weiter** aus.
 
-3. Melden Sie sich mit Ihrem Geschäftskonto an. Wählen Sie **Anmelden** aus, und geben Sie dann den Benutzernamen und das Kennwort zum Anmelden als ein globaler Administrator für Office 365, Microsoft Azure oder Microsoft Dynamics CRM an.
+3. Melden Sie sich mit Ihrem Geschäftskonto an, d. h. mit dem Benutzernamen und Kennwort, mit dem Sie sich als ein globaler Administrator für Office 365, Microsoft Azure oder Microsoft Dynamics CRM anmelden. Wenn Sie kein Geschäftskonto besitzen, wählen Sie **Erstellen** aus, um jetzt eines einzurichten. Nach dem Erstellen Ihres Geschäftskontos melden Sie sich mit den globalen Administratoranmeldeinformationen für Ihr neues Konto an.
 
-   Wenn Sie kein Geschäftskonto besitzen, wählen Sie **Erstellen** aus, um jetzt eines einzurichten. Nach dem Erstellen Ihres Geschäftskontos melden Sie sich mit den globalen Administratoranmeldeinformationen für Ihr neues Konto an.
-
-4. Überprüfen Sie die Informationen dazu, wie Sie Ihre Microsoft Partner Network-ID (MPN-ID) mit Ihrem neuen Partner Center-Konto verknüpfen. Wir müssen die MPN-ID Ihres Unternehmens mit dem neuen Partner Center-Konto verknüpfen, damit Sie die Vorteile und Incentives Ihrer Mitgliedschaft im Partner Center verwalten können. Wählen Sie **Anmelden** aus.
-
-5. Geben Sie den Benutzernamen ein, den Sie verwenden, um sich bei der PMC-Website (Partner Membership Center) anzumelden. Auf der Partner Membership Center-Website verwalten Sie derzeit Ihr Microsoft-Partnerkonto. Die Anmeldung bei Partner Membership Center ermöglicht es uns, Ihre MPN-ID abzurufen und Ihrem neuen Partner Center-Konto zuzuordnen. Wählen Sie **Weiter** aus.
-
-6. Geben Sie das Kennwort für Ihr Partner Membership Center-Konto ein, und wählen Sie dann **Anmelden** aus.
-
-7. Wählen Sie das Unternehmensprofil mit der MPN-ID aus, die mit Ihren Incentives, Mitgliedschaftsvorteilen und Kompetenzen verknüpft ist. Diese Informationen können dann auf Ihr Partner Center-Konto übertragen werden. Klicken Sie auf **Weiter** .
-
-   Wenn die MPN-ID, die Sie verwenden möchten, auf dieser Seite nicht aufgeführt ist, wählen Sie **Abbrechen** aus, und melden Sie sich mit dem Benutzernamen und Kennwort für das gewünschte Unternehmensprofil an.
 
    > [!IMPORTANT]  
-   > Wählen Sie die MPN-ID aus, die mit einem aktiven Unternehmensprofil verknüpft ist, das sich im selben Land/in derselben Region befindet wie Ihr Azure AD-Mandant.
+   > Wählen Sie die MPN-ID aus, die mit dem aktiven Unternehmensprofil verknüpft ist, das sich im selben Land/in derselben Region befindet wie Ihr Azure AD-Mandant.
 
-8. Geben Sie das offizielle Geschäftsprofil, Informationen zum Hauptansprechpartner und Kundensupportinformationen Ihres Unternehmens an, oder aktualisieren Sie diese. Wählen Sie **Jetzt registrieren** aus.
+4. Geben Sie das offizielle Geschäftsprofil, Informationen zum Hauptansprechpartner und Kundensupportinformationen Ihres Unternehmens an, oder aktualisieren Sie diese. (Um nach Ihren offiziellen Geschäftsinformationen zu suchen, wählen Sie **Organisationsprofil** und dann **Rechtliche Hinweise** aus.) Wählen Sie **Jetzt registrieren** aus.
 
-   Der Hauptansprechpartner muss eine Person in Ihrem Unternehmen sein, die wir im Zusammenhang mit Ihrer Bewerbung kontaktieren können. Dabei kann es sich entweder um Sie selbst oder eine andere Person in Ihrem Unternehmen handeln. Hinweis: Beachten Sie, dass wir keine E-Mail-Adressen von webbasierten E-Mail-Diensten wie Gmail, Yahoo Mail, iCloud Mail, AOL Mail oder Outlook-Mail akzeptieren.
+   Der Hauptansprechpartner ist die Person in Ihrem Unternehmen, die wir im Zusammenhang mit Ihrer Bewerbung kontaktieren können. Dabei kann es sich entweder um Sie selbst oder eine andere Person in Ihrem Unternehmen handeln. Hinweis: Beachten Sie, dass wir keine E-Mail-Adressen von webbasierten E-Mail-Diensten wie Gmail, Yahoo Mail, iCloud Mail, AOL Mail oder Outlook-Mail akzeptieren.
 
    > [!IMPORTANT]  
    > Aus Sicherheits- und Datenschutzgründen werden wir Ihren Hauptansprechpartner per E-Mail kontaktieren, um uns zu vergewissern, dass (1) er/sie sich für ein Partner Center-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrem Unternehmen gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung deiner Angaben fort. Wir halten den Hauptansprechpartner per E-Mail über den Status der Registrierung auf dem Laufenden.
 
-9. Wenn dein Partner Center-Konto einsatzbereit ist, vergewissere dich, ob du der Administrator-Agent-Gruppe hinzugefügt wurdest. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
+5. Wenn dein Partner Center-Konto einsatzbereit ist, vergewissere dich, ob du der Administrator-Agent-Gruppe hinzugefügt wurdest. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
 
-   1. Wählen Sie in **Partner Center** das Symbol **Einstellungen** und anschließend **Benutzerverwaltung** aus.
+   1. Wählen Sie im Partner Center-Dashboard das Symbol **Einstellungen** und dann unter **Kontoeinstellungen** die Option **Benutzerverwaltung** aus.
 
    2. Wählen Sie ihren Namen aus der Benutzerliste aus. Wählen Sie dann **Administrator-Agent** aus, sofern der Eintrag noch nicht ausgewählt ist. Wählen Sie **Aktualisieren** aus.
 
@@ -130,7 +115,7 @@ Wenn ein indirekter Anbieter im Partner Center mit dir zusammenarbeiten möchte,
    > [!NOTE]  
    > Wenn du eine Partnerschaft mit einem indirekten Anbieter eingehst, gestattest du ihm dadurch, im Namen deiner Kunden Aufträge zu übermitteln und Abonnements hinzuzufügen. Außerdem gewährst du ihm Administratorzugriff auf das Geschäftskonto deines Unternehmens. Nachdem Ihre Partnerschaft mit dem Anbieter eingerichtet wurde, können Sie den Administratorzugriff des Anbieters auf das Geschäftskonto im Office 365-Portal entfernen.
 
-4. Wählen Sie im **Partner Center** -Menü die Option **Indirekte Anbieter** aus, um eine Liste mit den Anbietern anzuzeigen, mit denen Sie zusammenarbeiten.
+4. Wählen Sie im **Partner Center**-Menü die Option **Indirekte Anbieter** aus, um eine Liste mit den Anbietern anzuzeigen, mit denen Sie zusammenarbeiten.
 
 5. Wählen Sie **Kunden anzeigen** aus, um eine Liste mit den Kunden anzuzeigen, die Sie sich mit dem Anbieter teilen.
 
@@ -138,6 +123,10 @@ Wenn ein indirekter Anbieter im Partner Center mit dir zusammenarbeiten möchte,
 
    > [!IMPORTANT]  
    > Ihr indirekter Anbieter muss eine Vertriebspartnerschaft mit Ihren Kunden haben, um in ihrem Namen Aufträge übermitteln zu können.
+
+## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>Ihr CSP-Land und die CSP-Regionen, in denen Sie geschäftlich tätig sind
+
+Ihr offizieller Geschäftsstandort als indirekter Wiederverkäufer (CSP Indirect Reseller) bestimmt die indirekten Anbieter, mit denen Sie arbeiten können, sowie die Regionen, in denen Sie CSP-Geschäfte tätigen können. Weitere Informationen finden Sie unter [Regionale Märkte und Währungen des Cloud Solution Provider-Programms, in denen Sie CSP-Angebote verkaufen können](regional-authorization-overview.md).
 
 
 ## <a name="next-steps"></a>Nächste Schritte

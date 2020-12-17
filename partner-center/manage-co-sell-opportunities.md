@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Co-Selling-Verkaufschancen
 ms.topic: article
-ms.date: 06/02/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Als qualifizierter Microsoft-Partner können Sie Co-Selling mit Microsoft durcharbeiten. Erfahren Sie, wie Sie Deals definieren, Microsoft zur Zusammenarbeit einladen oder gesendete Geschäfte anzeigen.
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417267"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622200"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Verwalten von Co-Selling-Verkaufschancen in Partner Center
 
@@ -44,13 +44,19 @@ Profitieren Sie von Co-Selling-Verkaufschancen.  Co-Selling-Möglichkeiten sind 
 
 ## <a name="navigating-the-co-sell-section"></a>Navigieren im Co-Selling-Abschnitt
 
-Der Co-Selling-Abschnitt enthält drei Registerkarten der obersten Ebene.
+Führen Sie die folgenden Schritte aus, um auf den Co-Selling-Abschnitt zuzugreifen:
 
-Eingehend **– alle** Verkaufschancen, die von Microsoft-Verkäufern für die gemeinsame Verkäufe an den Partner gesendet werden, sind auf dieser Registerkarte verfügbar.
+1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an.
 
-Ausgehend **– alle** Möglichkeiten, die vom Partner erstellt werden, sind auf dieser Registerkarte verfügbar. Partner können drei verschiedene Kategorien von Verkaufschancen erstellen – Co-Selling, private und Partner für Partner.
+2. Wählen Sie im Navigationsmenü auf der linken Seite die Option **Verweise** aus, gefolgt von **Co-Selling-Verkaufschancen**.
 
-**Favoriten** – Verkaufschancen, die auf den Registerkarten für eingehende oder ausgehende Co-Selling-Möglichkeiten als Favoriten gekennzeichnet sind, werden auf dieser Registerkarte angezeigt. Markieren Sie eine beliebige Gelegenheit als Favorit, indem Sie auf das Herz Symbol der Gelegenheit in der Listenansicht klicken. Sie können die Gelegenheit aus den Favoriten entfernen, indem Sie einfach erneut auf dasselbe Symbol klicken.
+   In diesem Abschnitt werden drei Registerkarten der obersten Ebene angezeigt:
+
+   - Eingehend **– alle** Verkaufschancen, die von Microsoft-Verkäufern für die gemeinsame Verkäufe an den Partner gesendet werden, sind auf dieser Registerkarte verfügbar.
+
+   - Ausgehend **– alle** Möglichkeiten, die vom Partner erstellt werden, sind auf dieser Registerkarte verfügbar. Partner können drei verschiedene Kategorien von Verkaufschancen erstellen – Co-Selling, private und Partner für Partner.
+
+   - **Favoriten** – Verkaufschancen, die auf den Registerkarten für eingehende oder ausgehende Co-Selling-Möglichkeiten als Favoriten gekennzeichnet sind, werden auf dieser Registerkarte angezeigt. Markieren Sie eine beliebige Gelegenheit als Favorit, indem Sie auf das Herz Symbol der Gelegenheit in der Listenansicht klicken. Sie können die Gelegenheit aus den Favoriten entfernen, indem Sie einfach erneut auf dasselbe Symbol klicken.
 
 ## <a name="creating-a-co-sell-opportunity"></a>Erstellen einer Co-Selling-Verkaufschance
 
@@ -75,12 +81,12 @@ Geben Sie die Details des aktuellen Deals ein. Die unten definierten Felder kön
 | **Feldname** | **Obligatorisch/optional** | **Details** |
 |-------------|--------|-------|
 |**Name des Deals** | Obligatorisch. | Der Anzeige Name zur Identifizierung Ihres Deals zu einem späteren Zeitpunkt. |
-|**Speicherort**| Obligatorisch. | Der MPN-Speicherort Bereich des Verweises. Verweis Benutzer mit diesem Speicherort können die Verweise anzeigen, wenn Sie Teil des Teams sind. Verweisadministratoren und verweisadministratoren mit globalem Gültigkeitsbereich können die Verweise unabhängig vom Standort anzeigen. Der Speicherort kann nicht bearbeitet werden, nachdem der Verweis erstellt wurde.|
+|**Standort**| Obligatorisch. | Der MPN-Speicherort Bereich des Verweises. Verweis Benutzer mit diesem Speicherort können die Verweise anzeigen, wenn Sie Teil des Teams sind. Verweisadministratoren und verweisadministratoren mit globalem Gültigkeitsbereich können die Verweise unabhängig vom Standort anzeigen. Der Speicherort kann nicht bearbeitet werden, nachdem der Verweis erstellt wurde.|
 |**Geschätzter Wert** | Obligatorisch. | Der Wert des Deals basierend auf den Informationen, die beim Erstellen des-Deals verfügbar sind.|
 |**Geschätztes Schluss Datum**| Obligatorisch.| Das Datum, an dem Sie den Umgang mit dem Kunden erwarten. |
 |**CRM-ID**| Optional | Markieren Sie den Umgang mit der ID der Verkaufschance im jeweiligen CRM zum Nachverfolgen.|
 |**Marketing Kampagnen-ID**| Optional | Erfassen Sie die Marketingkampagne, die zu diesem Problem geführt hat. Mit diesem Profil können Sie den ROI einer bestimmten Kampagne nachverfolgen, wenn Sie alle aus der Kampagne stammenden Geschäfte mit der gleichen ID markieren.|
-|**Hinweise**| Optional | Aktualisieren Sie alle aktuellen Informationen, um anderen Mitarbeitern Ihres Unternehmens einen Einblick in den gleichen Umgang zu bieten, oder versuchen Sie, den aktuellen Zustand des Deals zu verstehen. Sie können dies auch als Kommunikationsprotokoll für Diskussionen zwischen Microsoft-Verkäufern und anderen Partnern in Ihrem Unternehmen verwenden.|
+|**Notizen**| Optional | Aktualisieren Sie alle aktuellen Informationen, um anderen Mitarbeitern Ihres Unternehmens einen Einblick in den gleichen Umgang zu bieten, oder versuchen Sie, den aktuellen Zustand des Deals zu verstehen. Sie können dies auch als Kommunikationsprotokoll für Diskussionen zwischen Microsoft-Verkäufern und anderen Partnern in Ihrem Unternehmen verwenden.|
 
 ### <a name="add-team-members"></a>Hinzufügen von Teammitgliedern
 
@@ -197,7 +203,7 @@ Sobald der Vorgang registriert ist, können Sie den Status der Überprüfung des
 
 In der folgenden Tabelle werden die Kombinationen von, die in dieser Phase des Deals eingeladen werden können, angezeigt.
 
-|**Ursprünglicher Typ**|**Wer kann eingeladen werden?**|**Hinweise**|
+|**Ursprünglicher Typ**|**Wer kann eingeladen werden?**|**Notizen**|
 |-----|:-----|:-----|
 |Privat|Microsoft und/oder andere Partner|Der Vorgang wird auf Co-Selling aktualisiert, wenn Microsoft eingeladen wird.|
 |Co-Selling|Andere Partner|Andere Partner können nur eingeladen werden, wenn Ihr Unternehmen den Vertrag initiiert hat. Partner können auf der Registerkarte eingehend nicht zu den Abschlüssen eingeladen werden.|

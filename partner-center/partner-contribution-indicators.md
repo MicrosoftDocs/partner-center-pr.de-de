@@ -1,7 +1,7 @@
 ---
 title: Partnerbeitragsindikatoren
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über sieben Partner Beitrags Indikatoren (PCI), die Ihnen zeigen, wie Sie mit Dynamics 365 Customer Engagement oder Dynamics 365 Finance und Operations arbeiten.
@@ -9,14 +9,14 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
-ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
+ms.openlocfilehash: 336481cf390fb467c4768edfff9d9c38e8dd8f31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93344390"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636040"
 ---
-# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Partner Beitrags Indikatoren (PCI) zeigen Partner Auswirkung auf sieben wichtige Measures des Kunden Erfolgs an
+# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>Partnerbeitragsindikatoren (Partner Contribution Indicators, PCIs) zeigen die Auswirkung von Partnern auf sieben wichtige Kennzahlen des Kundenerfolgs.
 
 In diesem Artikel werden die sieben wichtigsten Partner Beitrags Indikatoren (PCI) beschrieben, mit denen der Fortschritt eines Partners beim erreichen und Verwalten der MPN-Kompetenz des Cloud-Business Applications (CBA) bewertet wird.
 
@@ -42,23 +42,23 @@ PCI bietet einen ausgereiften Überblick über die technischen Funktionen eines 
 
 *Leistungsindikatoren:*
 
-1. **Netto neuer Umsatz** : Netto neuer Umsatz über alle Vertriebskanäle für Microsoft Dynamics 365-Produkte. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für Netto neuen Umsatz](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
+1. **Netto neuer Umsatz**: Netto neuer Umsatz über alle Vertriebskanäle für Microsoft Dynamics 365-Produkte. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für Netto neuen Umsatz](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
 
-2. **Net Customer Adds** : net-Kunden, die für Dynamics 365 über alle Vertriebskanäle erworben wurden. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für net Customer Adds](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
+2. **Net Customer Adds**: net-Kunden, die für Dynamics 365 über alle Vertriebskanäle erworben wurden. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für net Customer Adds](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
 
 *Funktions Indikatoren:*
 
-3. **Funktionale Berater** : die Anzahl der Personen, die einen derzeit aktiven funktionalen Berater haben, ordnet die Zertifizierung für Dynamics 365 zu. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für funktionale Berater](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
+3. **Funktionale Berater**: die Anzahl der Personen, die einen derzeit aktiven funktionalen Berater haben, ordnet die Zertifizierung für Dynamics 365 zu. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für funktionale Berater](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
 
-4. **Wachstum des funktionalen Beraters** : Zunahme der Anzahl der funktionalen Berater Zuordnungen.  Die baselinemomentaufnahme für die Wachstums Metrik des funktionalen Beraters in PCI wird jetzt am 1. Oktober 2020 übernommen. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für das Wachstum funktionaler Berater](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
+4. **Wachstum des funktionalen Beraters**: Zunahme der Anzahl der funktionalen Berater Zuordnungen. Es gibt einige Optionen zum Abrufen von Punkten für diesen Indikator. Für eine Option ist es erforderlich, dass die Baseline-Momentaufnahme für die Wachstums Metrik für den Funktions Berater in PCI am 1. Oktober 2020 übernommen wird. (Ausführliche Informationen zu allen Optionen zum Abrufen von Punkten für diese Metrik finden Sie unter [Definitionen für das Wachstum des Funktions Beraters](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
 
-5. **Entwickler** : die Anzahl der Personen, die einen derzeit aktiven Entwickler haben, ordnet die Zertifizierung für Dynamics 365 zu. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für Entwickler](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
+5. **Entwickler**: die Anzahl der Personen, die einen derzeit aktiven Entwickler haben, ordnet die Zertifizierung für Dynamics 365 zu. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für Entwickler](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
 
 *Erfolgsindikatoren für Kunden:*
 
-6. **Neue große bereit Stellungen** : Anzahl der Produktions Mandanten, die in den letzten 12 Monaten den Schwellenwert für hohe Auslastung überschreiten. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für neue große bereit Stellungen](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
+6. **Neue große bereit Stellungen**: Anzahl der Produktions Mandanten, die in den letzten 12 Monaten den Schwellenwert für hohe Auslastung überschreiten. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für neue große bereit Stellungen](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
 
-7. **Monatliches aktives Benutzer Wachstum** : Wachstum in monatlich aktiven Benutzern für alle Kunden in den letzten 12 Monaten. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für die monatliche aktive Benutzer](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)Vergrößerung.)
+7. **Monatliches aktives Benutzer Wachstum**: Wachstum in monatlich aktiven Benutzern für alle Kunden in den letzten 12 Monaten. (Ausführliche Informationen zu dieser Metrik finden Sie unter [Definitionen für die monatliche aktive Benutzer](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)Vergrößerung.)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>Auswirkungen der PCI-Bewertung auf die Kompetenz Berechtigung
 Für jeden erreichten Indikator werden Punkte gewährt, was zu einer PCI-Bewertung mit einer einzelnen Zahl führt. 100 es sind maximal zulässige Punkte möglich. 
@@ -98,12 +98,12 @@ Jede PCI-Metrik weist von Microsoft festgelegte Schwellenwerte auf, mit denen de
 Die Punkte in den einzelnen Metriken werden so abgehandelt, dass Sie eine eindeutige PCI-Bewertung für Kunden Engagement und Finanzen und Vorgänge erzielen. Diese Bewertung wird monatlich aktualisiert.
 
 Partner können die maximale Punktzahl für eine Metrik erzielen, wenn sie die unten angegebenen Schwellenwerte erreichen oder übertreffen. Partielle Punkte können für alle Metriken erzielt werden, außer für das Wachstum des funktionalen Beraters.
+
 Beispielsweise wird bei einem entwickelten Marktpartner mit $150.000-Dollar im Nettoumsatz eine Hälfte ($ 150.000/$ 300000) der maximal 10 Punkte erzielt.
 
 Weitere Informationen finden Sie in den folgenden Tabellen:
 - [Tabelle 1. Kunden Bindungs Schwellenwerte](partner-contribution-indicators.md#table-1-customer-engagement-thresholds)
 - [Tabelle 2. Finanz-und Betriebs Schwellenwerte](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds)
-- [Tabelle 3. Wachstum des funktionalen Beraters](partner-contribution-indicators.md#table-3-functional-consultant-growth)
 
 ### <a name="table-1-customer-engagement-thresholds"></a>Tabelle 1 Kunden Bindungs Schwellenwerte
 
@@ -114,7 +114,7 @@ Weitere Informationen finden Sie in den folgenden Tabellen:
 | **Entstehen** | 300.000 USD | 10 | 10 | *\* Siehe Hinweis* | 5 | 5 | 25 % |
 | **Entwickeln** | $150.000 | 5  | 5  |*\* Siehe Hinweis* | 2 | 1 | 25 % |
 
-*\* Hinweis: die Wachstumsziele unterscheiden sich je nach Anzahl der baselineberater. Informationen zu Wachstumszielen finden Sie in [Tabelle 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) .*
+*\* Hinweis: die Wachstumsziele unterscheiden sich abhängig von der Anzahl der baselineberater und der spezifischen Option, die ein Partner zum Abrufen von Punkten verwendet. Weitere Informationen zu den Optionen zum Abrufen von Punkten oder den spezifischen Wachstumszielen der einzelnen Optionen finden Sie unter [Definitionen für das Wachstum des funktionalen](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)angriffsentwicklers.*
 
 ### <a name="table-2-finance-and-operations-thresholds"></a>Tabelle 2, Schwellenwerte für Finanzen und Betrieb
 
@@ -125,19 +125,7 @@ Weitere Informationen finden Sie in den folgenden Tabellen:
 | **Entstehen** | 300.000 USD | 3 | 15 | *\* Siehe Hinweis* | 5  | 3 | 25 % |
 | **Entwickeln** | $150.000 | 1 | 5 |*\* Siehe Hinweis* | 2 | 1 | 25 % |
 
-*\* Hinweis: die Wachstumsziele unterscheiden sich je nach Anzahl der baselineberater. Informationen zu Wachstumszielen finden Sie in [Tabelle 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) .*
-
-### <a name="table-3-functional-consultant-growth"></a>Tabelle 3-Funktions Berater Wachstum
-
->[!NOTE]
-> In der folgenden Tabelle wird eine Spalte **entwickelt** und **entwickelt** , deren funktionaler grundlegender grundlegender Wert ist, um Punkte zu verdienen. Das Datum der Baseline-Momentaufnahme wird am 1. Oktober 2020.
-
-
-| Entstehen | Entwickeln | Wachstum erforderlich, um alle 15 Punkte zu verdienen *
-|:---:|:---:|:---:|
-| 15-29 | 5-14 | 35 % |
-| 30–49 | 15-24 | 25 % |
-| 50 und höher | 25 und höher | 15 % |
+*\* Hinweis: die Wachstumsziele unterscheiden sich abhängig von der Anzahl der baselineberater und der spezifischen Option, die ein Partner zum Abrufen von Punkten verwendet. Weitere Informationen zu den Optionen zum Abrufen von Punkten oder den spezifischen Wachstumszielen der einzelnen Optionen finden Sie unter [Definitionen für das Wachstum des funktionalen](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)angriffsentwicklers.*
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>Ausführliche Definitionen von PCI-Metriken
 
@@ -208,13 +196,30 @@ Funktionale Berater sind eine Funktions Anzeige und einer der sieben wichtigsten
 
 - Funktionale Berater sind so definiert, wie die Anzahl der Personen, die einen derzeit aktiven funktionalen Berater haben, eine Zertifizierung zuordnen, wie z. b. eine Zertifizierung eines Kunden Engagement-Funktions Zertifikats oder eine Zertifizierung für Finanz-und Betriebs Zertifizierungs
 
-- Die Zertifizierung der Customer Engagement-Funktions Zertifizierung erfordert, dass eine Einzelperson Folgendes übergibt: MB-200 **und** eine der folgenden: MB-210, MB-220, MB-230, MB-240 oder MB6-898.
+- Die Zertifizierung der Customer Engagement-Funktions Zertifizierung erfordert eine Einzelperson:
+  - MB-200 \* oder pl-200<br/>
+  **und** eine der folgenden Prüfungen durch:
+  - MB-210, MB-220, MB-230, MB-240 oder MB6-898 \* \* .
 
-- Die Zertifizierung von Finanz-und Betriebs Funktions Beratern erfordert, dass eine Einzelperson Folgendes übergibt: MB-300 **und** eine der folgenden: MB-310, MB-320, MB-330, MB6-897 oder MB6-898.
+- Bei der Zertifizierung des Finanz-und Betriebs Funktions Zertifikats muss eine Person bestanden werden:
+  - MB-300<br/>
+  **und** eine der folgenden Prüfungen durch:
+  - MB-310, MB-320, MB-330, MB-897 \* \* oder MB6-898 \* \* .
+
+> [!NOTE]
+> Mit einem Sternchen () markierte Prüfungen \* werden in den kommenden Monaten zurückgezogen oder ersetzt. Im folgenden finden Sie spezifische Details:
+>
+> - Mit einem einzelnen Sternchen () markierte Prüfungen \* werden am 31. Dezember 2020 eingestellt. Die Prüfungen am 31. Dezember 2020 verbleiben zum erreichen und erneuern der Kompetenz bis zum 31. Dezember 2021, wenn Sie vor dem außer Kraft setzen der Benutzer eingestellt werden.
+> - Mit zwei Sternchen () markierte Prüfungen \* \* werden am 31. Januar 2021 eingestellt. Die Prüfungen am 31. Januar 2021 können bis zum 31. Januar 2022 bis zum 31. Januar verbleiben, bevor Sie außer Kraft gesetzt werden.
+
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>Definitionen für PCI-Metrik #4-Funktionalitäts Wachstum
 
-Das Wachstum des funktionalen Beraters ist ein Funktions Indikator und einer der sieben wichtigsten Partner Beitrags Indikatoren, die weiter oben [in diesem Artikel beschrieben](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)werden. Hier finden Sie weitere Informationen darüber, wie der Indikator für den Funktions Berater definiert wird und wie die Punkte dieser Kategorie berechnet werden:
+Das Wachstum des funktionalen Beraters ist ein Funktions Indikator und einer der sieben wichtigsten Partner Beitrags Indikatoren, die weiter oben [in diesem Artikel beschrieben](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)werden. Ein Partner verfügt über eine von zwei Optionen, um die für diese Metrik verfügbaren alles-oder-nichts-Punkte (15 oder 0 Punkte) zu erreichen. Es werden keine partiellen Punkte vergeben. 
+
+Hier finden Sie weitere Informationen darüber, wie der Indikator für den Funktions Berater definiert wird und wie die Punkte dieser Kategorie berechnet werden.
+
+**Option 1 zum Abrufen von Punkten:**
 
 - Das Wachstum des funktionalen Beraters ist als das Wachstum der Anzahl von zertifizierten funktionsberatungszuordnungen seit einer Baseline-Momentaufnahme definiert. Das Datum der Baseline-Momentaufnahme wird am 1. Oktober 2020.
 
@@ -224,7 +229,19 @@ Das Wachstum des funktionalen Beraters ist ein Funktions Indikator und einer der
 
 - Um sich für Punkte zu qualifizieren, benötigen Sie mindestens **15** funktionsberatungsmitarbeiter für entwickelte Marktpartner und **5** für die Entwicklung von Marktpartnern, wenn die Baseline-Momentaufnahme erstellt wird.
 
-- **Es werden keine partiellen Punkte vergeben.** Das Wachstum oberhalb der Baseline-Momentaufnahme muss die in Tabelle 3 angegebenen Schwellenwerte erfüllen oder überschreiten [. Wachstum des funktionalen Beraters](partner-contribution-indicators.md#table-3-functional-consultant-growth).
+- **Es werden keine partiellen Punkte vergeben.** Das Wachstum oberhalb der Baseline-Momentaufnahme muss den in der folgenden Tabelle angegebenen Schwellenwerten entsprechen oder diese überschreiten. Die Tabelle zeigt eine **entwickelte** und **entwickelte** Spalte mit der funktionalen beratungsbaseline, die benötigt wird, um Punkte zu verdienen.
+
+  | Entstehen | Entwickeln | Wachstum erforderlich, um alle 15 Punkte zu verdienen *
+  |:---:|:---:|:---:|
+  | 15-29 | 5-14 | 35 % |
+  | 30–49 | 15-24 | 25 % |
+  | 50 und höher | 25 und höher | 15 % |
+
+**Option zwei zum Abrufen von Punkten:**
+
+- Entwickelte Marktpartner können bei Ihrem ersten PCI-basierten CBA-Jahrestag in der Zeit 50 oder mehr Funktions Berater zertifizieren. (Bei der Entwicklung von Marktpartnern können 25 oder mehr funktionale Berater zeitlich für Ihr erstes PCI-basiertes CBA-Jahrestag zertifiziert werden.)
+
+- Wenn Sie diesen Schwellenwert erreichen, erhalten Sie die vollständigen 15 Punkte für das Wachstum des funktionalen Beraters für 24 Monate ab diesem Datum. Dies bedeutet, dass Sie für die Entwicklung von funktionalen Beratern für zwei CBA-Jubiläen maximale Anzahl von Punkten erhalten.
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>Definitionen für PCI-Metrik#5-Entwicklern
 
@@ -234,9 +251,21 @@ Entwickler sind eine Funktions Anzeige und eine der sieben wichtigsten Partner B
 
 - Die Punkte für den Entwickler Indikator basieren auf der Momentaufnahme des aktuellen Monats mit maximal 5 Punkten.
 
-- Kunden Engagement-Entwickler erhalten eine Gutschrift, wenn Sie sowohl MB-200 **als auch** einen der folgenden Schritte durchlaufen: MB-400 oder MB2-716.
+- Kunden Engagement-Entwickler erhalten bei der Übergabe eine Gutschrift:
+  - PL-400<br/>**or**
+  - MB-200 \* **und** eine der folgenden Prüfungen:
+    - MB-400 \* oder MB2-716\*\*
 
-- Finanz-und Betriebs Entwickler erhalten Gutschriften, wenn Sie sowohl MB-300 **als auch** einen der folgenden Schritte durchlaufen: MB-500 oder MB6-894.
+- Finanz-und Betriebs Entwickler erhalten bei der Übergabe eine Gutschrift:
+  - MB-300<br/>
+  **und** eine der folgenden Prüfungen durch:
+  - MB-500 oder MB-894\*\*
+
+> [!NOTE]
+> Mit einem Sternchen () markierte Prüfungen \* werden in den kommenden Monaten zurückgezogen oder ersetzt. Im folgenden finden Sie spezifische Details:
+>
+> - Mit einem einzelnen Sternchen () markierte Prüfungen \* werden am 31. Dezember 2020 eingestellt. Die Prüfungen am 31. Dezember 2020 verbleiben zum erreichen und erneuern der Kompetenz bis zum 31. Dezember 2021, wenn Sie vor dem außer Kraft setzen der Benutzer eingestellt werden.
+> - Mit zwei Sternchen () markierte Prüfungen \* \* werden am 31. Januar 2021 eingestellt. Die Prüfungen am 31. Januar 2021 können bis zum 31. Januar 2022 bis zum 31. Januar verbleiben, bevor Sie außer Kraft gesetzt werden.
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>Definitionen für PCI-Metrik#6-neue große bereit Stellungen
 

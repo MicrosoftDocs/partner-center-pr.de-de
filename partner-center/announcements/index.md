@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/03/2020
-ms.openlocfilehash: a373a6a956e8c8a8e8052a946cc82a8d82213da0
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.date: 12/17/2020
+ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622183"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666739"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,11 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Dezember 2020** | **Angekündigt** |
 |---------|:---------|:---------|
+|Angebote/Märkte|[Unbefristete Software im CSP-Programm:  Neue Produkte und geografische Regionen](2020-december.md#10)|17. Dezember|
+|Umsatzsteigerung|[Behörden, Bildungseinrichtungen und gemeinnützige Organisationen: Fortsetzung der Änderungen des Open License-Programms und Weiterentwicklung des CSP-Programms](2020-december.md#9)|17. Dezember|
+|Angebote/Märkte|[Änderungen der Anforderungen für das Onboarding von Kunden im CSP-Programm (Cloud Solution Provider)](2020-december.md#8)|17. Dezember|
+|Umsatzsteigerung|[Erinnerung: Unbefristete Software im CSP-Programm (Cloud Solution Provider) ab Januar 2021 allgemein verfügbar](2020-december.md#7)|17. Dezember|
+|Funktionen|[Leitfaden für Onlinedienste und Softwarekanalautorisierung](2020-december.md#6)|17. Dezember|
 |Angebote/Märkte|[Power Apps-Aktionsangebot jetzt verfügbar](2020-december.md#5)|16. Dezember|
 |Funktionen|[SDK-Release für .NET Standard (v1.16.3)](2020-december.md#4)|8\. Dezember|
 |Angebote/Märkte|[Versionshinweise zu den lizenzbasierten Preislisten aus Dezember 2020](2020-december.md#3)|8\. Dezember|

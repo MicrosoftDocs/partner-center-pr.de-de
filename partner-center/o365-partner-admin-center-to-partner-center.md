@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a9270f405b58ee065a67427395a392128b3eda1
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 51dd9bc389077f4b472e2e13f1170214ad1d382d
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114586"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720814"
 ---
 # <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Partner des Office 365 Partner admin Centers: Vorbereiten des Verschiebens von Geschäftsvorgängen in Partner Center
 
@@ -36,9 +36,7 @@ Wir stellen Office 365 Partner Admin Center-Features in Partner Center zur Verf�
 - Senden von Einladungen für Partnerschaften an Kunden im Namen Ihres Anbieters oder in Ihrem Namen
 - Einfacheres Verwalten einzelner Benutzer und Zuweisen von Lizenzen
 
-Sie können Partner Center direkt für viele der Aufgaben verwenden, die Sie derzeit im Office 365 Admin Center für Partner erledigen. 
-
-Zurzeit werden beide Websites unterstützt. Wenn Sie also den Umstieg auf die neue Website durchführen, können Sie weiterhin das Office 365 Partner Admin Center verwenden. Alle von Ihnen vorgenommenen Änderungen werden auf beiden Websites angezeigt.
+Für alle Aufgaben, die Sie zurzeit im Office 365 Partner Admin Center verwenden, werden Sie sofort an Partner Center umgeleitet.
 
 ## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a>Features des Office 365 Admin Center für Partner in Partner Center
 
@@ -46,9 +44,9 @@ Das Abschließen von Aufgaben in Partner Center erfolgt anders, als Sie im Offic
 
 | Feature im Office 365 Admin Center für Partner                       | Wo ist es im Partner Center? | 
 |   -----------------------------------------------  | -------------- |
-| Entwickeln Sie Ihr Unternehmen: Kaufangebot erstellen | Arbeiten Sie mit Ihrem Anbieter zusammen, um Angebot an Ihre Kunden zu verkaufen. |
+| Entwickeln Sie Ihr Unternehmen: Kaufangebot erstellen | Partner Center: Testangebote und Kaufangebote > Erstellen eines Kaufangebots |
 | Erstellen Ihres Unternehmens: anfordern Delegierter Administrator Berechtigungen | Partner Center: Kunden > eine Reseller-Beziehung anfordern |
-| Entwickeln Sie Ihr Unternehmen: Erstellen von Einladungen zum Testen | Nicht verfügbar. Sie können dazu weiterhin das Office 365 Admin Center für Partner verwenden. |
+| Entwickeln Sie Ihr Unternehmen: Erstellen von Einladungen zum Testen | Partner Center: Testangebote und Kaufangebote > Einladung zu Testzwecken erstellen |
 | Service Requests: Client Liste: Office 365 Admin Center | Partner Center: Kunden > Dienste verwalten |
 | Service Requests: Client Liste: Service Requests | Partner Center: Service Request > Kundenanfragen |
 | Service Requests: gekennzeichnet | Dashboard: Kunden: Wählen Sie den Stern neben dem Firmennamen aus. |

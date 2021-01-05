@@ -6,18 +6,18 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 5769326965955762d2c262fd42a099cf745417e6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
+ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007278"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "97771691"
 ---
-# <a name="what-is-microsoft-appsource"></a>Was ist Microsoft AppSource?
+# <a name="what-is-microsoft-appsource"></a>Was is Microsoft AppSource?
 
 Microsoft AppSource ist ein Online Shop, der Tausende von Geschäftsanwendungen und-Diensten enthält, die von branchenführenden Softwareanbietern erstellt werden. Mit appsource können Sie die Geschäftssoftware und-Dienste suchen, ausprobieren, kaufen und bereitstellen, die Sie bei der Durchführung Ihres Unternehmens unterstützen.
 
-Der appsource-Katalog enthält SaaS-Anwendungen (Software-as-a-Service), Lösungen, die für Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power apps und Beratungsdienste von Microsoft-Partnern erstellt wurden. Sie können auf den appsource-Produktkatalog unter und [https://appsource.microsoft.com](https://appsource.microsoft.com) in Microsoft 365, Dynamics 365 und Microsoft Power Platform zugreifen. Lösungen von appsource können auch von Microsoft-Resellern im Cloud Solution Provider-Programm zur Verfügung gestellt werden.
+Der appsource-Katalog enthält SaaS-Anwendungen (Software-as-a-Service), Lösungen, die für Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power apps und Beratungsdienste von Microsoft-Partnern erstellt wurden. Greifen Sie auf den appsource-Produktkatalog zu [https://appsource.microsoft.com](https://appsource.microsoft.com) oder über die Produktlösung in Microsoft 365, Dynamics 365 und Microsoft Power Platform zu. Lösungen von appsource können auch von Microsoft-Resellern im Cloud Solution Provider-Programm zur Verfügung gestellt werden.
 
 ## <a name="find-what-you-need-on-appsource"></a>Suchen nach den Anforderungen, die Sie in appsource benötigen
 
@@ -40,16 +40,20 @@ Um SaaS-Apps über appsource zu erwerben, benötigen Sie ein Azure Active Direct
 
 ## <a name="certification-and-security"></a>Zertifizierung und Sicherheit
 
-Jedes Produkt, das in appsource verfügbar ist, wurde gemäß bestimmten Kriterien zertifiziert. Wir empfehlen Ihnen dennoch, jedes Produkt sorgfältig zu überprüfen, um sicherzustellen, dass es die besonderen Anforderungen Ihrer Organisation erfüllt. Informationen zu den Zertifizierungsrichtlinien, die wir für jeden Angebotstyp überprüfen, finden Sie unter [kommerzielle Marketplace-Zertifizierungsrichtlinien](/legal/marketplace/certification-policies). Microsoft 365-apps haben einen [certification](/microsoft-365-app-certification/docs/enterprise-app-certification-guide) zusätzlichen Zertifizierungs [-und](/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) Nachweis Prozess für Verleger.
+Jedes Produkt, das in appsource verfügbar ist, wurde gemäß bestimmten Kriterien zertifiziert. Wir empfehlen Ihnen dennoch, jedes Produkt sorgfältig zu überprüfen, um sicherzustellen, dass es die besonderen Anforderungen Ihrer Organisation erfüllt. Informationen zu den Zertifizierungsrichtlinien, die wir für jeden Angebotstyp überprüfen, finden Sie unter [kommerzielle Marketplace-Zertifizierungsrichtlinien](/legal/marketplace/certification-policies). Microsoft 365-apps haben einen [](/microsoft-365-app-certification/docs/enterprise-app-certification-guide) zusätzlichen Zertifizierungs [-und](/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) Nachweis Prozess für Verleger.
 
-## <a name="terms-and-conditions"></a>Nutzungsbedingungen
+## <a name="terms-and-conditions"></a>Geschäftsbedingungen
 
-Der Softwarehersteller definiert den Preis, den Endbenutzer-Lizenzvertrag und die Datenschutzrichtlinien. Jedes Angebot in appsource enthält Links zum Lizenzvertrag und zur Datenschutzrichtlinie des Herausgebers. Die Bestätigung dieser Vereinbarungen und die Gelegenheit, Sie anzuzeigen, ist Teil des Einkaufs Flusses. Weitere Informationen finden Sie unter [rechtliche Verträge](legal-contracts.md) .
+Der Softwarehersteller definiert den Preis, den Endbenutzer-Lizenzvertrag und die Datenschutzrichtlinien. Jedes Angebot in appsource enthält Links zum Lizenzvertrag und zur Datenschutzrichtlinie des Herausgebers. Das anzeigen und bestätigen dieser Verträge ist Teil des Kauf Flusses. Weitere Informationen finden Sie unter [rechtliche Verträge](legal-contracts.md).
+
+## <a name="discover-saas-and-m365-integrated-apps"></a>Entdecken von SaaS-und M365-integrierten Apps
+
+Unsere Partner können zwischen Saas-und M365-integrierten Apps verknüpfen. Auf diese Weise können Sie die integrierten Apps herunterladen und verwenden, wenn Sie die verknüpfte Saas-APP erhalten. In diesem Fall gibt das Suchergebnis möglicherweise nur die SaaS-app zurück, die die Symbole der integrierten Apps anzeigt, die darin enthalten sind. Sie können auf der Seite mit den Produktdetails zwischen der SaaS-APP und der integrierten App navigieren. Wenn eine SaaS-App gekauft werden muss, finden Sie weitere Informationen unter [erwerben von Saas-angeboten auf Microsoft AppSource](purchase-software-appsource.md).
 
 ## <a name="find-ratings-and-reviews"></a>Suchen von Bewertungen und Reviews
 
-Auf jeder Listenseite finden Sie Bewertungen und Reviews von anderen Kunden. Bewertungen verwenden eine Skalierung von 5 Sternen, und die durchschnittliche Bewertung wird auf jeder Angebots Karte angezeigt. Ausführliche Reviews sind auch verfügbar, damit Sie sich über die Erfahrungen anderer Kunden informieren können. Nachdem Sie eine Lösung erworben haben, können Sie auch eine Bewertung und Überprüfung hinterlassen, damit andere Kundenentscheidungen treffen können.
+Auf jeder Listenseite finden Sie Bewertungen und Reviews von anderen Kunden. Bei Bewertungen wird eine Skalierung von fünf Sternen verwendet, und die durchschnittliche Bewertung wird auf jeder Angebots Karte angezeigt. Ausführliche Reviews sind auch verfügbar, damit Sie sich über die Erfahrungen anderer Kunden informieren können. Nachdem Sie eine Lösung erworben haben, können Sie auch eine Bewertung und Überprüfung hinterlassen, damit andere Kundenentscheidungen treffen können.
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Erwerben von Software auf Microsoft AppSource](purchase-software-appsource.md)
+- [Kaufen von Software in Microsoft AppSource](purchase-software-appsource.md)

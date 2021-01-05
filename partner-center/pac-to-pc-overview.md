@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da6a3ab2a2fab99f49b9f5ba22824e5e61f6d482
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174905"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720831"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>Umstellung vom Admin Center für Partner auf Partner Center
 
@@ -41,13 +41,10 @@ Im April 2018 wird das PAC ausgemustert, und CSP-Partner werden automatisch zu 
 
 - Cloud Solutions Provider-Partner: Wenn Sie CSP-Partner sind, werden Sie ab dem 2018 automatisch zum Partner Center umgeleitet.
 
-- Advisor-Partner (wenn Sie keine Transact-Übertragung durchführen und PAC zum Bereitstellen von Test/Anführungszeichen für Ihre Kunden verwenden): Sobald wir uns für die Zeitachse für Ihre automatische Umleitung zum Partner Center entscheiden, wird diese hier angekündigt.
+- Advisor-Partner (wenn Sie keine Transact-Übertragung durchführen und PAC zum Bereitstellen von Test/Anführungszeichen für Ihre Kunden verwenden): Wenn Sie ein Advisor-Partner sind, werden Sie automatisch zum Partner Center umgeleitet, beginnend ab Juni 2020.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Verwenden Sie Microsoft Partner Center ab sofort!
 
 Beginnen Sie jetzt mit [der Verwendung des Microsoft Partner Centers](https://partnercenter.microsoft.com/) , um sich für den Umstieg von PAC zu informieren.  Sie verwenden die gleichen Anmelde Informationen für das Partner Center, das Sie für PAC verwenden.
 
-> [!IMPORTANT]  
-> Einige im PAC verfügbare Features und Funktionen stehen in Partner Center nicht zur Verfügung.
-
- Lesen Sie den [Vergleich](moving-from-pac-to-pc.md), um diese Änderungen zu verstehen und sich mit ihnen vertraut zu machen. 
+Lesen Sie den [Vergleich](moving-from-pac-to-pc.md), um diese Änderungen zu verstehen und sich mit ihnen vertraut zu machen.

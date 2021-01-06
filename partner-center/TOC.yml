@@ -301,6 +301,9 @@
         - name: Incentive-Co-Op-Ansprüche
           href: claims-overview.md
           displayName: incentives
+        - name: Anzeigen der verfügbaren Co-Op-Mittel
+          href: incentives-view-funds.md
+          displayName: incentives
         - name: Verwalten von Co-Op-Ansprüchen
           href: create-incentives-claims.md
           displayName: incentives

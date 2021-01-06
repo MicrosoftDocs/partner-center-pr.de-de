@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776905"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916846"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Leitfaden zum Co-Selling im Partner Center (PC) für Partner, die von Partner Sales Connect (PSC) migrieren
 
@@ -153,7 +153,7 @@ Dies ist ein wichtiger Schritt, der Ihnen bei der Vorbereitung auf Co-Selling im
 |Expiry|Es gibt kein Konzept für eine Ablaufzeit.|Eingehende Partner Verträge laufen in 14 Tagen ab, wenn Sie vom Partner nicht akzeptiert werden. Dasselbe gilt für ausgehende Partnerangebote, bei denen Sie in den abgelaufenen Status wechseln können, wenn der Microsoft-Verkäufer nicht innerhalb von 14 Tagen darauf reagiert.|
 |Details des Microsoft-Verkäufers|Sichtbar, sobald ein Problem erstellt wird.|Details des Microsoft-Verkäufers werden nur dann für Partner freigegeben, wenn der Verkäufer die Einladung zum Co-Selling von Partner explizit akzeptiert.|
 |[Private Pipeline](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|Nicht verfügbar.|Partner können ihre Pipeline freigeben, ohne den Microsoft-Verkäufern Einblick zu geben.|
-|Projektmappen|Es können nur Lösungen hinzugefügt werden, die zu einer Preisliste gehören.|Partner können [Lösungen](manage-co-sell-opportunities.md#add-solutions) hinzufügen, die den folgenden Listen angehören. a) ihre eigenen Lösungen b) Lösungen aus dem Microsoft First Party Catalog (ähnlich der Rolle "Transaktions Rolle in PSC") und "c" Co-Selling-Lösungen von anderen Drittanbieter Partnern (ähnlich wie die Rolle "ISV-Rolle" in PSC).|
+|Lösungen|Es können nur Lösungen hinzugefügt werden, die zu einer Preisliste gehören.|Partner können [Lösungen](manage-co-sell-opportunities.md#add-solutions) hinzufügen, die den folgenden Listen angehören. a) ihre eigenen Lösungen b) Lösungen aus dem Microsoft First Party Catalog (ähnlich der Rolle "Transaktions Rolle in PSC") und "c" Co-Selling-Lösungen von anderen Drittanbieter Partnern (ähnlich wie die Rolle "ISV-Rolle" in PSC).|
 |Zuweisungs Zuweisung|Nur der zugewiesene Verkäufer kann die Geschäfte anzeigen und darauf reagieren.|Team Mitglieder können einem Teil hinzugefügt werden, um die Mitarbeiter anzugeben, die an einem Teil arbeiten. es gibt keine Blockierung anderer verweisadministratoren, die diese Aktionen nicht anzeigen oder darauf reagieren.|
 |Kundenorganisation|Freier Formular Text Eintrag.|Sie können die [Kundenorganisation](manage-co-sell-opportunities.md#select-your-customer) anhand der [D-&B-Datenbank](https://www.dnb.com/) durchsuchen, indem Sie nur einige Zeichen eingeben. Der rechtliche Name und die Adresse werden automatisch basierend auf der Wahl aufgefüllt.|
 |Kundenkontakt|Nicht obligatorisch.|Für die private Pipeline Freigabe nicht obligatorisch. Erforderlich, wenn der Microsoft-Verkäufer eingeladen wird, an einer Co-Selling-Anforderung teilzunehmen.|
@@ -320,6 +320,20 @@ Ihr PDMS kann nicht direkt im Gegensatz zu PSC auf Partner Center zugreifen. Es 
 - OCP Insights: Wenn PDMS nur die zugehörigen Geschäfte und Fortschritte anzeigen, können Sie das OCP Insights-Portal verwenden, um Ihre Organisations Ansicht zu erhalten. Hierbei handelt es sich um ein internes Tool, das nur für PDMS verfügbar ist. Beachten Sie, dass OCP Insights für die Benutzer Ihres Unternehmens nicht verfügbar ist.
 - Gastbenutzer in Partner Center: Sie können Ihr PDM- @microsoft.com Konto als Gastbenutzer in Partner Center hinzufügen und ihm eine verweisadministrator-Rolle zuweisen, damit Sie Verweise anzeigen und darauf reagieren können.
 - Erstellen eines [neuen Benutzers](./create-user-accounts-and-set-permissions.md#add-a-new-user) in Ihrem Mandanten: Sie können einen neuen Benutzer in Ihrem eigenen Mandanten erstellen und diese Details mit dem PDM teilen, sodass Sie Verweise anzeigen und auf ähnliche Verweise wie andere verweisbenutzer in Ihrem Konto reagieren können.
+
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>Ermitteln der richtigen MPN-ID, wenn Ihr Konto in PSC keinem ungültigen MPN zugeordnet ist
+
+Wenn Sie sich hier befinden, weil Sie ein Banner mit der Bezeichnung "PSC-ungültige MPN-ID-Zuordnungs Problem" erkannt haben, sind Sie an der richtigen Stelle.
+
+Suchen Sie zuerst nach der richtigen MPN-ID, indem Sie die folgenden Schritte ausführen.
+
+- Melden Sie sich bei Ihrem Partner Center-Konto an
+- Verwenden Sie die Anweisungen in der [Dokumentation zu den Kontoeinstellungen](./partner-center-account-setup.md#locate-your-mpn-id) , um die MPN-ID zu ermitteln.
+
+Als Nächstes
+
+- Wenn Sie über ein PDM verfügen, bitten Sie Sie, ihre MPN-ID mit der richtigen MPN-ID aus Ihrem Partner Center-Konto zu korrigieren.
+- Wenn Sie über kein PDM verfügen, senden Sie eine e-Mail an die im PSC-Banner angegebene Adresse, wobei Sie sowohl die im PSC-Banner angezeigten PSC-Kontoinformationen als auch die richtige MPN-ID aus Ihrem Partner Center-Konto angeben.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Ressourcen, die Sie beim Erstellen und Verwalten Ihrer Geschäfte in Partner Center unterstützen
 

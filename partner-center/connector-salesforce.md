@@ -1,19 +1,19 @@
 ---
 title: Der Co-Selling-Connector für das Salesforce CRM Partner Center
 ms.topic: how-to
-ms.date: 09/29/2020
+ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Synchronisieren Sie Ihre Verweise in Partner Center mit Ihrem Salesforce CRM. Verkäufer können sich dann in Ihrem CRM-System mit Microsoft zusammen verkaufen.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
+ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947850"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "97960950"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Co-Selling-Connector für Salesforce CRM – Übersicht
 
@@ -51,7 +51,7 @@ Um die Verweise auf Partner Center und Salesforce CRM zu synchronisieren, muss d
 
 3. Installieren Sie in Salesforce benutzerdefinierte Felder und Objekte mithilfe des unten aufgeführten Paketinstallers.
   
-Wechseln Sie [hier](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) , um das Paket in einem beliebigen Unternehmen zu installieren:
+Klicken Sie [hier](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) , um das Paket in einem beliebigen Unternehmen zu installieren.
 
 
 Hinweis: Wenn Sie in einem Sandkasten installieren, müssen Sie den anfänglichen Teil der URL durch ersetzen. http://test.salesforce.com
@@ -179,7 +179,7 @@ Die Partner Center-webhook-APIs ermöglichen es Ihnen, sich für Ressourcen Änd
 
 9. Stellen Sie sicher, dass im rechten Bereich das Fenster "Flow ausführen" geöffnet wird, und klicken Sie auf **weiter**.
 
-10. Geben Sie die folgenden Details ein:
+10. Geben Sie die folgenden Informationen an:
 
     1. **Http-auslöserendpunkt**: aus dem vorherigen Schritt kopierte URL
 

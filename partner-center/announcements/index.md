@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.date: 01/04/2021
+ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736534"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916812"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
 Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen werden häufig aktualisiert, überprüfen Sie sie daher in regelmäßigen Abständen.
 
-| **Kategorie** | **Ankündigungen für Dezember 2020** | **Angekündigt** |
+| **Kategorie** | **Ankündigungen für Januar 2021** | **Angekündigt** |
 |---------|:---------|:---------|
+|Funktionen|[Einstellung und Deaktivierung vorhandener GET- und PUT-Qualifizierungs-APIs für den Überprüfungsprozess für Kunden im Bildungswesen bis Ende Februar 2021](2021-january.md#2)|5\. Januar|
+|Angebote/Märkte|[Dynamics 365-Angebote für Februar 2021](2021-january.md#1)|4\. Januar|
+| **Kategorie** | **Ankündigungen für Dezember 2020** | **Angekündigt** |
 |Angebote|[Nicht genutzte Co-op-Mittel für Channel-Incentives aus dem FY21 H1-Verwendungszeitraum für das Rollout in den H2-Verwendungszeitraum](2020-december.md#13)|22. Dezember|
 |Funktionen|[DocuSign-Migration zu Adobe Sign in 2021 für Partner mit Microsoft Partner Agreements (MPAs)](2020-december.md#12)|22. Dezember|
 |Angebote/Märkte|[Preise und Katalogzeitpläne für Januar 2021](2020-december.md#11)|22. Dezember|

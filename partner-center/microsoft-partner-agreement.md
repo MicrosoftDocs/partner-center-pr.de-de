@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514761"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916829"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informationen zur Microsoft Partner-Vereinbarung für Partner im CSP-Programm
 
@@ -50,7 +50,7 @@ Sie müssen die Microsoft Partner-Vereinbarung vor dem 31. Januar 2020 unterzei
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>Bestätigen Ihrer Registrierung als CSP Indirect Reseller
 
-1. Wenn Sie noch nicht als [indirekter Wiederverkäufer](enrolling-in-the-csp-program.md) (CSP Indirect Reseller) im Partner Center registriert sind, müssen Sie zunächst diesen Schritt ausführen. Die restlichen Schritte führen nach der Registrierung als indirekter Wiederverkäufer im Partner Center aus.
+1. Wenn Sie noch nicht als [indirekter Wiederverkäufer](indirect-reseller-tasks-in-partner-center.md) (CSP Indirect Reseller) im Partner Center registriert sind, müssen Sie zunächst diesen Schritt ausführen. Die restlichen Schritte führen nach der Registrierung als indirekter Wiederverkäufer im Partner Center aus.
 
 1. Melden Sie sich mit den Anmeldeinformationen für Ihr globales CSP-Administratorkonto beim Partner Center an.
 

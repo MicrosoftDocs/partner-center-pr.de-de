@@ -9,26 +9,22 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c340baa12b834fae66888c08cf910d2918583ce1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4b4653e0f26bdce558dbdc70f03251e60277527f
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435149"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979653"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Verträge für CSP-Partner, die geschäftlich im kommerziellen Marketplace tätig sind
 
-**Zielgruppe**
-
-- Partner Center
-- Partner im CSP-Programm
 
 **Geeignete Rollen**
 
 - Globaler Administrator
 - Administrator-Agent
 
-Dieser Abschnitt bezieht sich auf Verträge für Partner im CSP-Programm, die Angebote oder Produkte von ISV Marketplace für Ihre Kunden über den kommerziellen Marketplace von Partner Center oder den Azure-Portal erwerben möchten.
+In diesem Artikel geht es um Verträge für Partner im CSP-Programm, die sich für den Erwerb von ISV Marketplace-angeboten oder-Produkten für Ihre Kunden aus dem kommerziellen Marketplace von Partner Center oder der Azure-Portal entscheiden.
 
 Das [CSP-Programmhandbuch](https://go.microsoft.com/fwlink/p/?LinkId=617100) enthält die Geschäftsbedingungen für kommerzielle Marketplace-Angebote zwischen Microsoft und Partnern im CSP-Programm. CSP-Partner sollten diese Geschäftsbedingungen überprüfen, um sicherzustellen, dass Sie innerhalb des Programms kompatibel sind.  
 

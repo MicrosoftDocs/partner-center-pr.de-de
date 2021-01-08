@@ -1,7 +1,7 @@
 ---
 title: Preise und Angebote
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Weitere Informationen finden Sie in den aktuellen Preislisten für Lizenz basierte Dienste wie Office 365, Microsoft Dynamics CRM und Enterprise Mobility Suite und Verwendungs basierte Dienste wie Azure.
@@ -9,18 +9,15 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18c671b7903914bbbca49ded24f54b808833a92e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444794"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979820"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preise und Angebote für Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure und mehr
 
-**Zielgruppe**
-
-- Partner Center
 
 **Geeignete Rollen**
 
@@ -74,7 +71,7 @@ Azure Usage-basierte Preise haben jedoch keine Vorschau. Partner können mithilf
 |**Produkttyp**   |**Produktbeispiele**  |**Vorschau verfügbar** |**Änderungsdetails**|
 |-----------------------|:-----------------------|:-------------------|------------------|
 |Lizenz basiert|Office, Dynamics, InTune, Windows Enterprise|30 Tage|Auflisten von Preisänderungen, die in Vorschau Preislisten als "Chng|
-|Verwendungs basiert|Azure-Ressourcen|Nicht verfügbar|Änderungsprotokoll in der Registerkarte " **Änderungs Verlauf** " des vorherigen Monats|
+|Nutzungsbasiert|Azure-Ressourcen|Nicht verfügbar|Änderungsprotokoll in der Registerkarte " **Änderungs Verlauf** " des vorherigen Monats|
 |Software||Nicht verfügbar|Manuelles Vergleichen von Preislisten von Monat zu Monat|
 |Reservations|Virtuelle Computer, vorab bezahlt|Nicht verfügbar|Manuelles Vergleichen von Preislisten von Monat zu Monat|
 
@@ -89,7 +86,7 @@ CSP bietet einige Dienste für spezielle Marktsegmente, z. b. Education, Non-Pro
 
 |**Segment**   |**Wer muss qualifiziert werden**   |**Partner qualifiziert Kunden**|**Aktivierte Produkttypen**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Kunde|Nein, Kunden Qualifizierung wird von Microsoft durchgeführt. |Nur Lizenz basiert|
+|Bildung|Kunde|Nein, Kunden Qualifizierung wird von Microsoft durchgeführt. |Nur Lizenz basiert|
 |Non-Profit|Kunde|Nein, Kunden, die sich außerhalb von Partner Center qualifizieren|Nur Lizenz basiert|
 |Government Community Cloud (GCC)|Partner und Kunde|Nachdem gcc aktiviert wurde, kann der Partner gcc-Kunden erstellen.| Nur Lizenz basiert|
 |Azure Government|Partner|Nach der Qualifikation arbeitet der Partner in einem CSP-Mandanten, der für Azure Government|Azure-Ressourcen|
@@ -157,7 +154,7 @@ Es gibt ungefähr 50 Dynamics-Angebote mit drei Jahres Bedingungen. Diese werden
 
 Das Basisangebot Microsoft 365 a1 hat eine Laufzeit von sechs Jahren.  Die Office 365 a1-Add-ons sind nach dem Erwerb dieses Basis Angebots verfügbar. 
 
-|**Angebotsname**   |**Angebots-ID**   |**Typ**|
+|**Angebotsname**   |**Angebots-ID**   |**Type**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Basisangebot|
 |Office 365 a1 für Lehrpersonal (für Gerät)|0757d14e-7c57-456F-8dab-47d164f2ff1f|Add-On|
@@ -169,7 +166,7 @@ Im folgenden finden Sie eine Zusammenfassung der Funktionsweise dieser Angebote:
 - Das Abonnement wird nicht erneuert und läuft nach 6 Jahren ab.
 - Die Abrechnungs Häufigkeit für das Angebot wird als jährlich angezeigt, aber der Partner wird nach dem Erwerb des Abonnements vorab auf der ersten Rechnung abgerechnet.
 - Abonnements für 72-monatige-monatige Angebote sind nach dem Kauf gesperrt und können nicht abgebrochen werden, und die Anzahl der Lizenzen kann dem Abonnement nach dem ersten Kauf
-- Partner, die abbrechen müssen, müssen ein Support Ticket mit dem Grund für den Abbruch und der Abonnement-ID erstellen, die Sie unterstützen müssen.
+- Dieses Abonnement kann nicht abgebrochen werden und kann nicht zurückerstattet werden.
 
 ## <a name="estimated-retail-price-erp"></a>Geschätzter Einzelhandelspreis (ERP)
 

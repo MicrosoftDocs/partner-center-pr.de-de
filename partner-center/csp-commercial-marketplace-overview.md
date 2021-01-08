@@ -9,19 +9,18 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038828"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979446"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Übersicht über den kommerziellen Marketplace im Partner Center
 
-**Zielgruppe**
+**Geeignete Rollen**
 
-- Partner Center
-- Partner im CSP-Programm
+- Globaler Administrator
 
 Wenn Sie ein Partner im CSP-Programm (Cloud Solution Provider) sind, können Sie Microsoft-Produkte zusammen mit Lösungen bündeln und verkaufen, die von Drittanbietern, unabhängigen Software Anbietern (Independent Software Providers, ISVs) veröffentlicht werden. Wenn Sie Lösungen auf diese Weise bündeln können, können Sie Endkunden besser bedienen und Ihr CSP-Dienst Geschäft steigern.
 
@@ -37,7 +36,7 @@ Als Partner im CSP-Programm können Sie Partner Center verwenden, um viele ISV-L
 
 Wenn Sie Partner im CSP-Programm sind, gibt es viele kommerzielle Marketplace-Aktivitäten, die Sie möglicherweise in Bezug auf ISV-Angebote durchführen möchten. Weitere Informationen zu den einzelnen Aktivitäten finden Sie in der folgenden Tabelle.
 
-|**Zweck**  |**Lesen**   |
+|**Wenn Sie**  |**Lesen**   |
 |:------------------------------------|:------------------|
 |Erfahren Sie, wie Sie verfügbare Angebote, Preise, Produktdetails oder Kontaktinformationen des Herausgebers anzeigen oder suchen. | [Angebote entdecken](csp-commercial-marketplace-discover.md) | 
 |Erfahren Sie, wie Sie ein Angebot erwerben und bereitstellen.   | [Kaufangebote](csp-commercial-marketplace-purchase.md)   | 

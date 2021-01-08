@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d32f42b2c4bd8e4ec6c659326d1a21385c0642f
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 5e6ca188aeb50cec6f847afb08be4a9d62b36984
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000514"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979675"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Verwalten Sie kommerzielle Marketplace-Produkte und-Angebote für Ihre Kunden
 
-**Zielgruppe**
-
-- Partner Center
-- Partner im CSP-Programm
 
 **Geeignete Rollen**
 
@@ -63,7 +59,7 @@ Der Herausgeber sollte Ihnen einen personalisierten Link und einen Autorisierung
 
 1. Sie finden diesen personalisierten Link auf dem ISV-Verleger auf verschiedene Arten:
 
-   - Sie können den Link auf der Bestätigungsseite sehen, der angezeigt wird, nachdem Sie ein ISV SaaS-Angebot erworben haben. Um diesen Link auf der Seite zu finden, suchen Sie nach, und wählen Sie **dann zu Verleger Website**wechseln aus.
+   - Sie können den Link auf der Bestätigungsseite sehen, der angezeigt wird, nachdem Sie ein ISV SaaS-Angebot erworben haben. Um diesen Link auf der Seite zu finden, suchen Sie nach, und wählen Sie **dann zu Verleger Website** wechseln aus.
 
    - Sie können den Link auf der Seite Abonnements eines bestimmten Kunden anzeigen. Dieser Verleger Link wird in der Zeile angezeigt, die dem für den Kunden erworbenen ISV-Angebot oder-Abonnement zugeordnet ist.
 
@@ -108,7 +104,7 @@ Für Angebote des kommerziellen Marketplace in Saas können Sie Benutzerlizenzen
 
 4. Suchen Sie auf der Seite Abonnement Details das Feld **Menge** . An dieser Stelle können Sie die Anzahl der Lizenzen erhöhen oder verringern.
 
-5. Ändern Sie die Menge, und wählen Sie dann **senden**aus.
+5. Ändern Sie die Menge, und wählen Sie dann **senden** aus.
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Verwalten von Abonnements mithilfe von Partner Center-APIs
 

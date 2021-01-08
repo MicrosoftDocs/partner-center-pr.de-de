@@ -9,14 +9,24 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000384"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979565"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>Für den Vertrieb in Microsoft National Clouds als Teil des CSP-Programms anwenden
+
+**Zielgruppe**
+
+- Partner Center für Microsoft Government Cloud
+- Partner Center für Microsoft Cloud Deutschland
+
+
+**Geeignete Rollen**
+
+- Globaler Administrator
 
 Neben dem Verkauf im Rahmen des globalen CSP-Programms können qualifizierte Microsoft-Partner auch Cloudlösungen an Kunden in drei nationalen Clouds verkaufen. Nationale Clouds sind in physischen und logischen Netzwerken isolierte Instanzen von Microsoft Enterprise Cloud-Diensten, die auf geografische Grenzen bestimmter Ländern beschränkt und von lokalen Mitarbeitern betrieben werden. 
 
@@ -24,7 +34,7 @@ Weitere Informationen zu nationalen Cloudlösungen von Microsoft finden Sie unte
 
 Microsoft stellt in diesen nationalen Clouds folgende Dienste zur Verfügung:
 
--   Geografisch begrenzte Microsoft Azure-Dienste bieten Hyperscale-Computing-, Speicher-, Netzwerk- und Identitätsverwaltungsfunktionen. Azure schützt Daten in der Cloud auf gesetzlich erforderlicher Ebene in puncto Sicherheit, Datenschutz, Steuerung, Konformität und Transparenz.
+-   Microsoft Azure in-Scope-Dienste bieten hyperskalierbare Computing-, Speicher-, Netzwerk-und Identitätsverwaltung. Azure schützt Daten in der Cloud auf gesetzlich erforderlicher Ebene in puncto Sicherheit, Datenschutz, Steuerung, Konformität und Transparenz.
 
 -   Microsoft Dynamics 365 ist eine cloudbasierte CRM-Lösung, die Mitarbeiter in Behörden mit Datenberichterstattungs-, Modellierfunktionen und Workflows ausstatten und Features bieten, die Zugriff auf sensible Daten beschränken können.
 
@@ -49,3 +59,7 @@ Qualifizierte Partner können Microsoft-Cloudlösungen an Kunden in allen diesen
     Microsoft ist der Technologieanbieter, aber nicht der Betreiber des Diensts. 21Vianet betreibt den Dienst unabhängig, bietet diesen an und verwaltet die Bereitstellung von Microsoft Cloud Services. Durch die Lizenzierung von Microsoft-Technologien kann 21Vianet Azure und Office 365-Dienste anbieten und Azure- und Office 365-Rechenzentren betreiben, wobei Daten auf dem chinesischen Festland verbleiben. 21Vianet bietet außerdem Abonnement- und Abrechnungsdienste sowie Support.
 
     Informationen zum Registrieren und Verkauf an Kunden von Azure und Office 365 in einer Betriebsumgebung mit 21Vianet in China finden Sie unter [Partner Center-Betreiber ist 21Vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Häufig gestellte Fragen zum Partner Center für Microsoft Cloud for US Government](faq-for-us-govt-cloud.md)

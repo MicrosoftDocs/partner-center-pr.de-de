@@ -1,6 +1,6 @@
 ---
 title: Erwerben kommerzieller Marketplace-Angebote
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d8eb2faec7c2ddd70ed0cacedebf4f9824441a7a
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 841308d535d4071ee0a8eabf3e70325edea5777c
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038854"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979715"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Erwerben Sie kommerzielle Marketplace-Produkte für Ihre Kunden im Partner Center
 
-**Zielgruppe**
-
-- Partner Center
-- Partner im CSP-Programm
 
 **Geeignete Rollen**
 
@@ -43,7 +39,7 @@ Informationen zum Erwerb eines lizenzbasierten oder getakteten Saas-Abonnements 
 Sie können auch [Partner Center-APIs](/partner-center/develop/) verwenden, um Abonnements für Ihre Kunden im kommerziellen Marketplace zu erstellen. (Weitere Informationen zur Verwendung von Partner Center-APIs finden Sie unter [Erstellen eines Abonnements für kommerzielle Marketplace-Produkte](/partner-center/develop/create-subscription-azure-marketplace-products).)
 
 >[!IMPORTANT]
-> Als Partner im CSP-Programm können Sie **Lizenz basierte** oder getaktete Saas **metered** -Abonnements von ISV-Verlegern innerhalb von Partner Center erwerben. Dies bedeutet, dass Sie ein **Lizenz basiertes** **oder** getaktetes SaaS-Angebot erwerben können, das der ISV-Verleger zur Verfügung gestellt hat, einschließlich [exklusiver Angebote](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , auf die Sie Zugriff haben. Zum Erwerb oder zur Verwaltung anderer kommerzieller Marketplace-Angebote von ISVs (z. b. nutzungsbasierte Angebote mit Azure-Anwendungen, Containern oder VMS) müssen Sie zum [Azure-Portal](https://portal.azure.com/)wechseln.
+> Als Partner im CSP-Programm können Sie **Lizenz basierte** oder getaktete Saas  -Abonnements von ISV-Verlegern innerhalb von Partner Center erwerben. Dies bedeutet, dass Sie ein **Lizenz basiertes** **oder** getaktetes SaaS-Angebot erwerben können, das der ISV-Verleger zur Verfügung gestellt hat, einschließlich [exklusiver Angebote](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) , auf die Sie Zugriff haben. Zum Erwerb oder zur Verwaltung anderer kommerzieller Marketplace-Angebote von ISVs (z. b. nutzungsbasierte Angebote mit Azure-Anwendungen, Containern oder VMS) müssen Sie zum [Azure-Portal](https://portal.azure.com/)wechseln.
 
 ## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Nutzungsbasierte Abonnements im Azure-Portal erwerben
 

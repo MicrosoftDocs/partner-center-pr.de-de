@@ -6,15 +6,15 @@ description: Erfahren Sie, wie Sie Ihre Unternehmensdetails überprüfen, z. B.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
+ms.date: 12/17/2020
 ms.localizationpriority: high
-ms.date: 11/23/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514706"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666790"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Überprüfen von Organisationsprofilinformationen im Partner Center
 
@@ -27,13 +27,13 @@ Wenn Sie sich zum ersten Mal bei Partner Center als globaler Administrator anmel
 
 Ihr Partnerprofil besteht aus Ihren juristischen Geschäftsinformationen, dem Namen und der E-Mail-Adresse des Hauptansprechpartners, den Programmen, an denen Ihr Unternehmen beteiligt ist, und gegebenenfalls Ihren anderen Unternehmen, die jetzt unter Ihrem Rechtsgeschäft zusammengefasst werden. Vergewissern Sie sich, dass der Name und die Adresse des Unternehmens in Ihrem Rechtsgeschäftsprofil keine Rechtschreibfehler und Abkürzungen enthalten und den formalen Geschäftsregistrierungsdatensätzen Ihres Unternehmens exakt entsprechen. Wenn Sie als Einzelunternehmer tätig sind, müssen Sie den Namen Ihres Unternehmens als rechtlichen Namen verwenden.
 
-1. Wechseln Sie zu **Einstellungen**, und wählen Sie **Kontoeinstellungen** aus.
+1. Wechseln Sie zum Symbol **Einstellungen**, und wählen Sie **Kontoeinstellungen** aus.
  
 1. Wählen Sie **Organisationsprofil** aus. 
 
 2. Überprüfen Sie Ihr **Rechtsgeschäftsprofil**, Ihre **Informationen zum primären Kontakt** sowie Ihre **Programminformationen**.
 
-Wenn Sie Ihre anderen Unternehmen unter Ihrem Rechtsgeschäft zusammengeführt haben, können Sie deren Informationen ebenfalls überprüfen. 
+Wenn Sie Ihre anderen Unternehmen unter Ihrem Rechtsgeschäft zusammengeführt haben, können Sie diese Informationen ebenfalls überprüfen. 
 
 ## <a name="update-your-legal-business-profile"></a>Aktualisieren des rechtlichen Geschäftsprofils
 
@@ -65,15 +65,11 @@ Wenn während der Migration von Partner Membership Center zu Partner Center das 
 
 So aktualisieren Sie die MPN-ID, die Ihrem CSP-Konto zugeordnet ist:
 
-1. Melden Sie sich beim Partner Center-Dashboard an.
+1. Melden Sie sich beim Partner Center-Dashboard an, und wählen Sie dann **Einstellungen** aus.
  
-1. Wählen Sie unter **Kontoeinstellungen** die Option **Organisationsprofil** aus.
+1. Wählen Sie unter **Kontoeinstellungen** die Option **Bezeichner** aus.
 
-1. Wählen Sie neben **Associated MPNID** (Zugeordnete MPN-ID) **Aktualisieren** aus.
- 
-1. Wählen Sie **Weiter**.
- 
-1. Fügen Sie Ihre MPN-ID hinzu.
+1. Verwenden Sie im Abschnitt **CSP** den Link **Aktualisieren**, um die MPN-ID zu aktualisieren, die Ihrem CSP-Konto zugeordnet ist. 
 
 
 ## <a name="update-your-billing-address"></a>Aktualisieren der Abrechnungsadresse

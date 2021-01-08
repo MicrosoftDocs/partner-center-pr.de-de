@@ -1,7 +1,7 @@
 ---
 title: Vom Partner erworbenes Guthaben für verwaltete Dienste
 ms.topic: article
-ms.date: 11/30/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie vom Microsoft-Partner erworbenes Guthaben (Partner Earned Credit, PEC) für verwaltete Dienste berechnet und ausgezahlt wird und wie Sie sicherstellen können, dass Sie berechtigt sind.
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 97af446c4021e9785833374131eee2f08431b5fe
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474307"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622166"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Wie von Partnern erworbene Guthaben berechnet und bezahlt werden
 
@@ -30,27 +30,29 @@ Von Partnern erworbene Guthaben für verwaltete Dienste (Partner-Earned Credit, 
 
 Lesen Sie auch [Reaktivieren von Administratorrechten für Azure CSP-Abonnements](revoke-reinstate-csp.md).
 
-## <a name="important-eligibility-and-calculation-information"></a>Wichtige Informationen zu Berechtigung und Berechnung
+## <a name="eligibility"></a>Berechtigung
 
-- Der Partner sollte einen aktiven MPN-Vertrag und eine gültige RBAC-Rolle besitzen, um erworbene Gutschriften für die von ihm verwalteten Azure-Ressourcen zu erhalten. 
+Um von Partnern erworbene Guthaben (PEC) zu erhalten, gelten die folgenden Anforderungen: 
 
-- Im Fall indirekter Anbieter und ihrer indirekten Wiederverkäufer ist der indirekte Anbieter für PEC qualifiziert, wenn entweder er, der indirekte Wiederverkäufer oder beide die operative Steuerung und Verwaltung der Azure-Ressourcen des Kunden in CSP rund um die Uhr (24/7) sicherstellen.
+- Sie müssen eine aktive MPN-Vereinbarung und eine gültige RBAC-Rolle (rollenbasierte Zugriffssteuerung) besitzen, um erworbene Guthaben für die von Ihnen verwalteten Azure-Ressourcen zu erhalten.
 
-- PEC ist der abgerechneten (kostenpflichtigen) Nutzung der Azure-Umgebung des Kunden in CSP zugeordnet, die vom Partner verwaltet wird. PEC ist nur für Partner in CSP verfügbar, die mit Microsoft abrechnen (indirekter Anbieter und Direktrechnungspartner). 
+- Sie müssen über die operative Kontrolle und Verwaltung der Azure-Ressourcen des Kunden in CSP rund um die Uhr (24/7) verfügen. Das bedeutet, dass Sie Administratorrechte für das Azure-Abonnement, die Azure-Ressourcengruppe und die Azure-Ressource des Kunden besitzen müssen. Im Fall indirekter Anbieter und ihrer indirekten Wiederverkäufer ist der indirekte Anbieter für PEC qualifiziert, wenn entweder er, der indirekte Wiederverkäufer oder beide über diese operative Kontrolle verfügen. Weitere Informationen darüber finden Sie unter [Reaktivieren von Administratorrechten für Azure CSP-Abonnements](https://docs.microsoft.com/partner-center/revoke-reinstate-csp).
 
-- Berechtigte Dienste: Von Partnern erworbenes Guthaben kann auf Dienste angerechnet werden, die in den **Preisen für Azure-Plannutzung** aufgelistet sind, die Partner von der Seite [Azure-Plan-Preise](https://partner.microsoft.com/commerce/sales) exportieren können. 
+- Zusätzlich zu den oben genannten Anforderungen können von Partnern erworbene Guthaben nur auf Dienste angerechnet werden, die in den Preisen für die Azure-Plannutzung aufgelistet sind, die Sie von der Seite [Preise für Azure-Pläne](https://partner.microsoft.com/commerce/sales) exportieren können.
 
-- Nicht berechtigte Dienste: Von Partnern erworbenes Guthaben kann auf Folgendes **_nicht_* _ angerechnet werden:
+- PEC kann auf folgende Dienste **nicht** angerechnet werden:
     - Azure-Planreservierungen
-    - Produkte von Drittanbietern, die in der Spalte **Tags** der Preisliste für die Azure-Plannutzung als _ *Drittanbieter** gekennzeichnet sind    
+    - Produkte von Drittanbietern, die in der Spalte „Tags“ der Preisliste für die Azure-Plannutzung als „Drittanbieter“ gekennzeichnet sind
     - Produkte in der Marketplace-Preisliste
-   - [Azure Spot-VMs](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
+    - [Azure Spot-VMs](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
-- PEC wird täglich berechnet und kann in der täglichen Nutzungsdatei und der Abstimmungsdatei zur monatlichen Rechnung angezeigt werden. Ein Partner (indirekter Anbieter oder indirekter Wiederverkäufer) muss den gesamten Tag hindurch (rund um die Uhr) Zugriff haben, um sicherzustellen, dass er PEC erwirbt. PEC wird täglich für die verwalteten Azure-Ressourcen berechnet. Die maximale PEC-Rate für einen angegebenen Abrechnungszeitraum (Monat) beträgt 15 %. Partner, die den permanenten privilegierten Zugriff während des gesamten Monats (Zugriffsdauer) und für alle in Frage kommenden Ressourcen (Zugriffsumfang) aufrechterhalten, erhalten die volle PEC-Rate von 15 %. Eine Reduzierung von Umfang und Dauer führt zu einer niedrigeren PEC-Rate für den Monat. In der Datei zur täglich bewerteten Nutzung ist für eine Azure-Ressource für jeden Tage angegeben, ob PEC angewendet wird oder nicht. Partner können sich auch für Warnungen registrieren, um zu erkennen, ob es Änderungen beim permanenten privilegierten Zugriff gibt.
+- PEC wird bis hinab zur Azure-Ressourcenebene erworben. Wenn Sie über gültigen Zugriff entweder auf Abonnement- oder Ressourcengruppenebene verfügen, wird PEC für jede Ressource erworben, für die ein Rollup zur höheren Entität durchgeführt wird.
 
-- PEC wird bis hinab zur Azure-Ressourcenebene erworben. Wenn der Partner über gültigen Zugriff verfügt, verdient jede Ressource auf Abonnement- oder Ressourcengruppenebene, die an die nächst höhere Entität berichtet, PEC.  
+- Ausführliche Informationen zu PEC sind auch auf der Seite [Azure Cost Management](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners) enthalten.
 
-- Die Details von PEC sind auch unter [Azure-Kostenmanagement](/azure/cost-management-billing/costs/get-started-partners) verfügbar.
+### <a name="calculation"></a>Berechnung
+
+PEC wird täglich berechnet und kann in der täglichen Nutzungsdatei und der Abstimmungsdatei zur monatlichen Rechnung angezeigt werden. Ein Partner (indirekter Anbieter oder indirekter Wiederverkäufer) muss den gesamten Tag hindurch (rund um die Uhr) Zugriff haben, um sicherzustellen, dass er PEC erwirbt. PEC wird täglich für die verwalteten Azure-Ressourcen berechnet. Die maximale PEC-Rate für einen angegebenen Abrechnungszeitraum (Monat) beträgt 15 %. Partner, die den permanenten privilegierten Zugriff während des gesamten Monats (Zugriffsdauer) und für alle in Frage kommenden Ressourcen (Zugriffsumfang) aufrechterhalten, erhalten die volle PEC-Rate von 15 %. Eine Reduzierung von Umfang und Dauer führt zu einer niedrigeren PEC-Rate für den Monat. In der Datei zur täglich bewerteten Nutzung ist für eine Azure-Ressource für jeden Tage angegeben, ob PEC angewendet wird oder nicht. Partner können sich auch für Warnungen registrieren, um Änderungen beim permanenten privilegierten Zugriff zu überwachen.
 
 ## <a name="azure-cost-management"></a>Azure-Kostenmanagement
 
@@ -66,10 +68,10 @@ Azure Cost Management (ACM) mit Kostenanalyse ermöglicht es Ihnen als Partner, 
 
 4. Wählen Sie **PartnerEarnedCreditApplied** in der Dropdownliste einer PivotChart aus, um die Kosten anzuzeigen, auf die PEC angerechnet wurden. Wenn die **PartnerEarnedCreditApplied**-Eigenschaft den Wert „True“ aufweist, wurde auf die zugehörigen Kosten das vom Partner erworbene Guthaben angerechnet. 
 
-Wenn die Eigenschaft „PartnerEarnedCreditApplied“ den Wert „False“ aufweist, haben die zugehörigen Kosten nicht die erforderliche Berechtigung für die Gutschrift erfüllt, oder der erworbene Dienst ist nicht für PEC qualifiziert.
+   Wenn die Eigenschaft „PartnerEarnedCreditApplied“ den Wert „False“ aufweist, haben die zugehörigen Kosten nicht die erforderliche Berechtigung für die Gutschrift erfüllt, oder der erworbene Dienst ist nicht für PEC qualifiziert.
 
->[!NOTE] 
->In der Regel dauert es 8–24 Stunden, bis die Verwendung von Diensten unter **Kostenmanagement** angezeigt wird, und die PEC-Gutschriften werden innerhalb von 48 Stunden ab dem Zeitpunkt des Zugriffs in Azure Cost Management angezeigt.
+   >[!NOTE] 
+   >In der Regel dauert es 8–24 Stunden, bis die Verwendung von Diensten unter **Kostenmanagement** angezeigt wird, und die PEC-Gutschriften werden innerhalb von 48 Stunden ab dem Zeitpunkt des Zugriffs in Azure Cost Management angezeigt.
 
 5. Sie können auch nach der **PartnerEarnedCreditApplied** Eigenschaft gruppieren und filtern, indem Sie die Filterfeatures **Gruppieren nach** verwenden, um einen Drilldown der Kosten auszuführen, für die PEC angerechnet ober nicht angerechnet wurden.
 

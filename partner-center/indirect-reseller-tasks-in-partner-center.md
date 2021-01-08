@@ -1,7 +1,7 @@
 ---
 title: Arbeiten mit indirekten Anbietern im CSP-Programm
 ms.topic: how-to
-ms.date: 12/11/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie indirekte Vertriebspartner mit indirekten Microsoft-Anbietern (oder Distributoren) zusammenarbeiten können, um Unterstützung beim Kundensupport und bei der Abrechnung zu erhalten.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514743"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636023"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Informationen zum Arbeiten mit indirekten Anbietern im Cloud Solution Provider-Programm
 
@@ -69,10 +69,7 @@ Ab Oktober 2020 registrieren sich alle Microsoft-Partner, die erstmalig am CSP-
 2. Vergewissern Sie sich auf der **Willkommensseite**, dass Sie über die erforderlichen Informationen für die Registrierung verfügen, und wählen Sie dann **Weiter** aus.
 
 3. Melden Sie sich mit Ihrem Geschäftskonto an, d. h. mit dem Benutzernamen und Kennwort, mit dem Sie sich als ein globaler Administrator für Office 365, Microsoft Azure oder Microsoft Dynamics CRM anmelden. Wenn Sie kein Geschäftskonto besitzen, wählen Sie **Erstellen** aus, um jetzt eines einzurichten. Nach dem Erstellen Ihres Geschäftskontos melden Sie sich mit den globalen Administratoranmeldeinformationen für Ihr neues Konto an.
-
-
-   > [!IMPORTANT]  
-   > Wählen Sie die MPN-ID aus, die mit dem aktiven Unternehmensprofil verknüpft ist, das sich im selben Land/in derselben Region befindet wie Ihr Azure AD-Mandant.
+  
 
 4. Geben Sie das offizielle Geschäftsprofil, Informationen zum Hauptansprechpartner und Kundensupportinformationen Ihres Unternehmens an, oder aktualisieren Sie diese. (Um nach Ihren offiziellen Geschäftsinformationen zu suchen, wählen Sie **Organisationsprofil** und dann **Rechtliche Hinweise** aus.) Wählen Sie **Jetzt registrieren** aus.
 
@@ -81,7 +78,16 @@ Ab Oktober 2020 registrieren sich alle Microsoft-Partner, die erstmalig am CSP-
    > [!IMPORTANT]  
    > Aus Sicherheits- und Datenschutzgründen werden wir Ihren Hauptansprechpartner per E-Mail kontaktieren, um uns zu vergewissern, dass (1) er/sie sich für ein Partner Center-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrem Unternehmen gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung deiner Angaben fort. Wir halten den Hauptansprechpartner per E-Mail über den Status der Registrierung auf dem Laufenden.
 
-5. Wenn dein Partner Center-Konto einsatzbereit ist, vergewissere dich, ob du der Administrator-Agent-Gruppe hinzugefügt wurdest. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
+5. Ordnen Sie Ihre MPN-ID Ihrem Azure AD-Mandanten zu.
+
+    1. Wählen Sie unter **Kontoeinstellungen** die Option **Bezeichner** aus.
+
+    1. Verwenden Sie im Abschnitt **CSP** den Link **Aktualisieren**, um die MPN-ID zu aktualisieren, die Ihrem CSP-Konto zugeordnet ist. 
+ 
+ > [!IMPORTANT]  
+   > Wählen Sie die MPN-ID aus, die mit dem aktiven Unternehmensprofil verknüpft ist, das sich im selben Land/in derselben Region befindet wie Ihr Azure AD-Mandant.
+
+6. Wenn dein Partner Center-Konto einsatzbereit ist, vergewissere dich, ob du der Administrator-Agent-Gruppe hinzugefügt wurdest. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
 
    1. Wählen Sie im Partner Center-Dashboard das Symbol **Einstellungen** und dann unter **Kontoeinstellungen** die Option **Benutzerverwaltung** aus.
 

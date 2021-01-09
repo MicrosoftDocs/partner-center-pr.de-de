@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: 93deb404cd056aab2a14015a4c89fad22f9d0c72
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916812"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979786"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Januar 2021** | **Angekündigt** |
 |---------|:---------|:---------|
+|Moderner Arbeitsplatz|[Änderung der Partnerabrechnungswährung für neue E-Commerce-Angebote in der EU/EFTA](2021-january.md#3)|7\. Januar|
 |Funktionen|[Einstellung und Deaktivierung vorhandener GET- und PUT-Qualifizierungs-APIs für den Überprüfungsprozess für Kunden im Bildungswesen bis Ende Februar 2021](2021-january.md#2)|5\. Januar|
 |Angebote/Märkte|[Dynamics 365-Angebote für Februar 2021](2021-january.md#1)|4\. Januar|
 | **Kategorie** | **Ankündigungen für Dezember 2020** | **Angekündigt** |

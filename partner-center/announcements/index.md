@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 93deb404cd056aab2a14015a4c89fad22f9d0c72
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 5de6dd2acff560a0093e51dfccb2454ea9cb71f4
+ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979786"
+ms.locfileid: "98040989"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,14 +22,15 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Januar 2021** | **Angekündigt** |
 |---------|:---------|:---------|
+|Angebote/Märkte|[Aktualisierungen der lizenzbasierten Preislisten für Januar 2021](2021-january.md#4)|8\. Januar|
 |Moderner Arbeitsplatz|[Änderung der Partnerabrechnungswährung für neue E-Commerce-Angebote in der EU/EFTA](2021-january.md#3)|7\. Januar|
 |Funktionen|[Einstellung und Deaktivierung vorhandener GET- und PUT-Qualifizierungs-APIs für den Überprüfungsprozess für Kunden im Bildungswesen bis Ende Februar 2021](2021-january.md#2)|5\. Januar|
 |Angebote/Märkte|[Dynamics 365-Angebote für Februar 2021](2021-january.md#1)|4\. Januar|
 | **Kategorie** | **Ankündigungen für Dezember 2020** | **Angekündigt** |
-|Angebote|[Nicht genutzte Co-op-Mittel für Channel-Incentives aus dem FY21 H1-Verwendungszeitraum für das Rollout in den H2-Verwendungszeitraum](2020-december.md#13)|22. Dezember|
-|Funktionen|[DocuSign-Migration zu Adobe Sign in 2021 für Partner mit Microsoft Partner Agreements (MPAs)](2020-december.md#12)|22. Dezember|
-|Angebote/Märkte|[Preise und Katalogzeitpläne für Januar 2021](2020-december.md#11)|22. Dezember|
-|Funktionen|[Microsoft 365-Unterstützung von Apps und Diensten des Internet Explorers 11 und Microsoft Edge-Legacy-Ankündigung](2020-december.md#10)|21. Dezember|
+|Angebote|[Nicht genutzte Co-O-Mittel für Channel-Incentives aus dem Nutzungszeitraum H1 des Geschäftsjahrs 2021 werden in den Nutzungszeitraum H2 übernommen](2020-december.md#13)|22. Dezember|
+|Funktionen|[DocuSign-Migration zu Adobe Sign im Jahr 2021 für Partner mit Microsoft Partner-Vereinbarung (MPA)](2020-december.md#12)|22. Dezember|
+|Angebote/Märkte|[Preis- und Katalogzeitpläne für Januar 2021](2020-december.md#11)|22. Dezember|
+|Funktionen|[Ankündigung zur Unterstützung von Microsoft 365-Apps und -Diensten durch Internet Explorer 11 und die Microsoft Edge-Legacyversion](2020-december.md#10)|21. Dezember|
 |Umsatzsteigerung|[Behörden, Bildungseinrichtungen und gemeinnützige Organisationen: Fortsetzung der Änderungen des Open License-Programms und Weiterentwicklung des CSP-Programms](2020-december.md#9)|17. Dezember|
 |Angebote/Märkte|[Änderungen der Anforderungen für das Onboarding von Kunden im CSP-Programm (Cloud Solution Provider)](2020-december.md#8)|17. Dezember|
 |Umsatzsteigerung|[Erinnerung: Unbefristete Software im CSP-Programm (Cloud Solution Provider) ab Januar 2021 allgemein verfügbar](2020-december.md#7)|17. Dezember|

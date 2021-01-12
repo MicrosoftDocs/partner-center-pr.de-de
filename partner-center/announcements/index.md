@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 5de6dd2acff560a0093e51dfccb2454ea9cb71f4
-ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
+ms.openlocfilehash: 2963a27a0b189b81540cf8c955feaa6237822e0b
+ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "98040989"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "98062432"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,8 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Januar 2021** | **Angekündigt** |
 |---------|:---------|:---------|
+|Angebote/Märkte|[Aktualisierung der Handelspreise für die indische Rupie](2021-january.md#6)|8\. Januar|
+|Angebote/Märkte|[Aktualisierungen von Anrufplan und Telefonsystem für den 1. Februar 2021](2021-january.md#5)|8\. Januar|
 |Angebote/Märkte|[Aktualisierungen der lizenzbasierten Preislisten für Januar 2021](2021-january.md#4)|8\. Januar|
 |Moderner Arbeitsplatz|[Änderung der Partnerabrechnungswährung für neue E-Commerce-Angebote in der EU/EFTA](2021-january.md#3)|7\. Januar|
 |Funktionen|[Einstellung und Deaktivierung vorhandener GET- und PUT-Qualifizierungs-APIs für den Überprüfungsprozess für Kunden im Bildungswesen bis Ende Februar 2021](2021-january.md#2)|5\. Januar|

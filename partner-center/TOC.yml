@@ -635,29 +635,39 @@
           href: pci-roles.md
         - name: Insights-Berichte
           items:
+            - name: Übersicht
+              href: pci-overview-report.md
+            - name: Kunde
+              href: pci-customer-report.md
+            - name: Leistung von Handelspartnern
+              href: pci-resellers-performance.md
+              displayName: 'indirect, reseller'
+            - name: Produktabonnements
+              href: pci-product-subscriptions-report.md
             - name: Azure-Nutzung
               href: pci-azure-usage-report.md
+            - name: Verwendung von Teams
+              href: pci-teams-usage-report.md
+            - name: "Verwendung von Office\_365"
+              href: pci-office-365-usage-report.md
+            - name: Verwendung von Dynamics
+              href: pci-dynamics-usage-report.md
+            - name: Verwendung von Enterprise Mobility + Security
+              href: pci-enterprise-mobility-security-usage-report.md
+            - name: Verwendung von Power BI
+              href: pci-power-bi-usage-report.md
+            - name: Training
+              href: pci-training-dashboard.md
+            - name: Microsoft Learn-Analysen
+              href: ms-learn-analytics.md
+            - name: Kompetenzen
+              href: pci-competencies-report.md
             - name: Vorteile
               href: pci-benefits-report.md
             - name: CloudAscent-Kaufneigung
               href: pci-customer-opportunities.md
-            - name: Kompetenzen
-              href: pci-competencies-report.md
-            - name: Kunde
-              href: pci-customer-report.md
-            - name: Microsoft Learn-Analysen
-              href: ms-learn-analytics.md
-            - name: Übersicht
-              href: pci-overview-report.md
             - name: Produktlizenzen
               href: pci-product-licenses-report.md
-            - name: Produktabonnements
-              href: pci-product-subscriptions-report.md
-            - name: Leistung von Handelspartnern
-              href: pci-resellers-performance.md
-              displayName: 'indirect, reseller'
-            - name: Training
-              href: pci-training-dashboard.md
         - name: Insights-FAQs
           href: pci-known-issues.md
         - name: Herunterladen von Insights-Berichten

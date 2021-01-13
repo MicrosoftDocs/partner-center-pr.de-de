@@ -9,22 +9,22 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514687"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105527"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Anforderungen für die Registrierung als CSP-Partner mit direkter Abrechnung
 
-**Zielgruppe**
+**Geeignete Rollen**
 
-- Angebote für Direktabrechnungspartner im Cloud Solution Provider-Programm
+- Globaler Administrator
 
 ## <a name="enroll-as-a-direct-partner"></a>Registrieren als direkter Partner
 
-Als Direktabrechnungspartner sind Sie die für die End-to-End-Beziehung mit Ihren Kunden und Microsoft verantwortlich. Als Direktabrechnungspartner sind Sie die für die End-to-End-Beziehung mit Ihren Kunden und Microsoft verantwortlich. Wir haben die Registrierungsanforderungen für Direktabrechnungspartner ab dem 27. Oktober 2020 aktualisiert. Mit diesen Anforderungen können Sie das Wachstum Ihres Unternehmens mit dem richtigen Cloud Solution Provider-Modell beschleunigen und Ihre Kundenbeziehungen mithilfe von Mehrwertdiensten und Support festigen.  
+Als Direktabrechnungspartner sind Sie die für die End-to-End-Beziehung mit Ihren Kunden und Microsoft verantwortlich. Wir haben die Registrierungsanforderungen für Direktabrechnungspartner ab dem 27. Oktober 2020 aktualisiert. Mit diesen Anforderungen können Sie das Wachstum Ihres Unternehmens mit dem richtigen Cloud Solution Provider-Modell beschleunigen und Ihre Kundenbeziehungen mithilfe von Mehrwertdiensten und Support festigen.  
 
 ### <a name="minimum-requirements"></a>Mindestanforderungen
 

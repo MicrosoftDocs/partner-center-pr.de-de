@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916829"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105510"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informationen zur Microsoft Partner-Vereinbarung für Partner im CSP-Programm
 
@@ -54,7 +54,7 @@ Sie müssen die Microsoft Partner-Vereinbarung vor dem 31. Januar 2020 unterzei
 
 1. Melden Sie sich mit den Anmeldeinformationen für Ihr globales CSP-Administratorkonto beim Partner Center an.
 
-1. Wählen Sie unter **Einstellungen** die Option [Partnerprofil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) aus.
+1. Wählen Sie unter **Einstellungen** die Option **Kontoeinstellungen** und dann [Partnerprofil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) aus.
 
 1. Überprüfen Sie den Abschnitt **Programminfo**. Wenn in Ihren Informationen nicht der Status **Indirekter Wiederverkäufer** angezeigt wird, müssen Sie sich als [indirekter Wiederverkäufer registrieren](indirect-reseller-tasks-in-partner-center.md).
 
@@ -80,6 +80,10 @@ So überprüfen Sie, ob Sie die MPA unterzeichnet haben:
 >[!NOTE]
 >Nur der globale Administrator in Ihrem Unternehmen kann die MPA anzeigen und unterzeichnen. Wenn Sie nicht der globale Administrator sind, müssen Sie Ihren globalen Administrator bitten, die MPA zu überprüfen.
 
+Sie können auch feststellen, ob Sie die Vereinbarung unterzeichnet haben, indem Sie unter **Kontoeinstellungen** die Option **Vereinbarungen** auswählen.
+
+:::image type="content" source="images/agreements/agreements.png" alt-text="Angabe, dass die MPA unterzeichnet wurde":::
+
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Herunterladen der entsprechenden schrittweisen Anleitung für die jeweilige Prozessphase
 
@@ -91,4 +95,4 @@ So überprüfen Sie, ob Sie die MPA unterzeichnet haben:
  
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Registrieren für das Cloud Solution Provider-Programm (CSP)](enrolling-in-the-csp-program.md)
+- [Registrieren für das Cloud Solution Provider-Programm (CSP)](indirect-reseller-tasks-in-partner-center.md)

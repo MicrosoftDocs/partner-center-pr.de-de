@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b93ce1394326887b4265114c58527c36379101d9
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007241"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182476"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace Einkauf
 
@@ -25,7 +25,7 @@ Wenn Sie über Azure Marketplace erwerben, entfällt die Komplexität der Verwal
 
 ## <a name="permission-to-purchase"></a>Kauf Berechtigung
 
-Nachdem Sie die richtige Software Anwendung gefunden haben, ist es einfach, den Kauf abzuschließen. Sie benötigen jedoch entsprechende Berechtigungen innerhalb des Azure-Abonnements. Da in Azure ein [rollenbasiertes Access Control](https://docs.microsoft.com/azure/role-based-access-control/overview) -Modell (RBAC) betrieben wird, benötigt Ihr Konto **Abonnement Besitzer** oder **Mitwirkender** -Berechtigungen, um einen Kauf zu tätigen.
+Nachdem Sie die richtige Software Anwendung gefunden haben, ist es einfach, den Kauf abzuschließen. Sie benötigen jedoch entsprechende Berechtigungen innerhalb des Azure-Abonnements. Da in Azure ein [rollenbasiertes Access Control](/azure/role-based-access-control/overview) -Modell (RBAC) betrieben wird, benötigt Ihr Konto **Abonnement Besitzer** oder **Mitwirkender** -Berechtigungen, um einen Kauf zu tätigen.
 
 Vergewissern Sie sich vor Abschluss des Kaufs, dass der Benutzer über die richtige Konfiguration im Azure-Mandanten verfügt. Dadurch werden Fehler beim Kauf verhindert.
 
@@ -55,7 +55,7 @@ Diese Einstellungen gelten für alle Benutzer mit Zugriff auf Ihr Azure-Abonneme
 
 ## <a name="cost-management"></a>Kostenverwaltung
 
-Wenn Sie Produkte aus Azure Marketplace erwerben, erhalten Sie Einblicke, die Ihnen bei der Verwaltung der Kosten helfen. Azure Cost Management ist ein kostenloses Tool zum Anzeigen von Informationen zu den Produkten, die Sie gekauft haben. Mit Cost Management können Sie die Details der Dienste anzeigen, für die Sie im Laufe der Zeit Geld aufwenden, und wie diese Kosten gegen das von Ihnen festgelegte Budget nachverfolgt werden. Zusätzlich zum Festlegen von Budgets können Sie Berichte planen und die Abonnementkosten analysieren. Weitere Informationen zu Azure Cost Management finden Sie im Microsoft Learn-Modul unter [Analysieren von Kosten und Erstellen von Budgets mit Azure Cost Management](https://docs.microsoft.com/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
+Wenn Sie Produkte aus Azure Marketplace erwerben, erhalten Sie Einblicke, die Ihnen bei der Verwaltung der Kosten helfen. Azure Cost Management ist ein kostenloses Tool zum Anzeigen von Informationen zu den Produkten, die Sie gekauft haben. Mit Cost Management können Sie die Details der Dienste anzeigen, für die Sie im Laufe der Zeit Geld aufwenden, und wie diese Kosten gegen das von Ihnen festgelegte Budget nachverfolgt werden. Zusätzlich zum Festlegen von Budgets können Sie Berichte planen und die Abonnementkosten analysieren. Weitere Informationen zu Azure Cost Management finden Sie im Microsoft Learn-Modul unter [Analysieren von Kosten und Erstellen von Budgets mit Azure Cost Management](/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
 
 Im Kostenanalysetool von Azure Cost Management können Sie Ihre Azure Marketplace-Gebühren und -Rechnungen anzeigen.
 
@@ -63,4 +63,4 @@ Im Kostenanalysetool von Azure Cost Management können Sie Ihre Azure Marketplac
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Abrechnung und Rechnungsstellung](billing-invoicing.md)
+- [Abrechnung und Fakturierung](billing-invoicing.md)

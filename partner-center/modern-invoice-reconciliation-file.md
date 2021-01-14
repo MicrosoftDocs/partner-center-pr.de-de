@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 71ffee8426244c211338e97becab516c07251e45
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94498559"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182578"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Felder für die einmalige Kauf Abstimmung von CSP-Dateien
 
@@ -22,15 +22,15 @@ In der folgenden Tabelle finden Sie Beschreibungen und Beispiel Werte für die F
 
 Weitere Informationen zum Abgleich von Dateien finden Sie unter [use the Versöhnungs files](use-the-reconciliation-files.md).
 
-| Column | BESCHREIBUNG | Beispielwert |
+| Spalte | BESCHREIBUNG | Beispielwert |
 | ------ | ----------- | ------------ |
 | PartnerId | Eindeutiger Bezeichner im GUID-Format für eine bestimmte Abrechnungs Entität. Für die Abstimmung nicht erforderlich. In allen Zeilen gleich. | *0e195b37-4574-4539-bc42-0e539b9684c0* |
 | CustomerId | Eindeutiger Microsoft-Bezeichner für den Kunden im GUID-Format. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Der in Partner Center angegebene Organisationsname des Kunden. Diese Spalte ist wichtig, um die Rechnung mit ihren Systeminformationen abzustimmen. | *Johnny modern cust DE2* |
 | CustomerDomainName | Der Domänen Name des Kunden. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | Das Land, in dem sich Ihr Kunde befindet. Sehen Sie sich die vollständige [Liste der Länder](/partner-center/regional-authorization-overview) für Ihre Region an.  | *DE* |
+| CustomerCountry | Das Land, in dem sich Ihr Kunde befindet. Sehen Sie sich die vollständige [Liste der Länder](./regional-authorization-overview.md) für Ihre Region an.  | *Liga* |
 | InvoiceNumber | Die Rechnungsnummer, die der Abstimmungs Datei zugeordnet ist.  | *G002297372* |
-| MPNID | MPN-Bezeichner des CSP-Partners. Weitere Informationen finden Sie unter Vorgehens [Weise beim itemisieren nach Partner](/partner-center/use-the-reconciliation-files#itemize-reconciliation-files-by-partner). | *6034453* |
+| MPNID | MPN-Bezeichner des CSP-Partners. Weitere Informationen finden Sie unter Vorgehens [Weise beim itemisieren nach Partner](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | Resellermpnid | MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement. | *6048879* |
 | OrderId | Eindeutiger Bezeichner für einen Auftrag auf der Microsoft-Abrechnungsplattform. Kann nützlich sein, um die Reihenfolge zu identifizieren, in der der Support kontaktiert Wird nicht für die Abstimmung verwendet. | *0et2qazvjgff9wgsknwzr5jlmhp10loc1* |
 | OrderDate | Datum, an dem die Bestellung platziert wurde. | *10/3/2020* |
@@ -39,8 +39,8 @@ Weitere Informationen zum Abgleich von Dateien finden Sie unter [use the Versöh
 | AvailabilityId | Der eindeutige Verfügbarkeits Bezeichner. | *DZH318Z08B80* |
 | SkuName | Der SKU-Name. | *Tabellen-LRS* |
 | ProductName | Der Produktname. | *Tabellen* |
-| ChargeType | Der [Typ der Belastung](/partner-center/recon-file-charge-types) oder der Anpassung. | *Neu* |
-| UnitPrice (Stückpreis) | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert | *0,045* |
+| ChargeType | Der [Typ der Belastung](./recon-file-charge-types.md) oder der Anpassung. | *Neu* |
+| UnitPrice | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert | *0,045* |
 | Menge | Die Anzahl der Lizenzen. Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert | *1* |
 | Subtotal (Zwischensumme) | Gesamtbetrag vor Steuern Das Teilergebnis sollte gleich der abrechenbaren Menge sein, multipliziert mit dem effektiven Einheitspreis. | *0* |
 | TaxTotal | Steuern der Steuerbeträge. Basierend auf den Steuerregeln Ihres Marktes und bestimmten Bedingungen. | *0* |
@@ -54,7 +54,7 @@ Weitere Informationen zum Abgleich von Dateien finden Sie unter [use the Versöh
 | ChargeStartDate | Das Datum, an dem das Partner Center die Abonnementgebühr berechnet. Wenn das Abonnement mit einem jährlichen Abrechnungszeitraum und einem monatlichen Abrechnungsplan gekauft wird, ist dies der Tag, an dem das Abonnement erworben wird. Beginnend mit der nächsten Abstimmungs Datei wird Sie um 30 Tage inkrementiert. | *9/1/2020* |
 | ChargeEndDate | Endtag der Gebühren für den Abrechnungszeitraum des Abonnements. Wenn das Abonnement mit einem jährlichen Abrechnungszeitraum und einem monatlichen Abrechnungsplan gekauft wird, ist dies der 30. Tag, nachdem das Abonnement erworben wurde. Beginnend mit der nächsten Abstimmungs Datei wird Sie um 30 Tage inkrementiert. | *30.09.2020* |
 | Termandbillingcycle | Die Dauer der weiteren Verpflichtung zum Fortsetzen des Abonnements zum Zeitpunkt des Kaufs. | *Gespeicherte Daten (GB/Monat)* |
-| Effectiveunitprice | Der Anteils mäßige Einheitspreis zum Berechnen der Kosten für den Abrechnungszeitraum. Rabatte, Anpassungen in Abrechnungs Tagen und andere Faktoren bestimmen den effektiven Einzelpreis. Weitere Informationen finden Sie unter [effektive Unit Price-Berechnung](/partner-center/effective-unit-price-calculation).  | *0,03825* |
+| Effectiveunitprice | Der Anteils mäßige Einheitspreis zum Berechnen der Kosten für den Abrechnungszeitraum. Rabatte, Anpassungen in Abrechnungs Tagen und andere Faktoren bestimmen den effektiven Einzelpreis. Weitere Informationen finden Sie unter [effektive Unit Price-Berechnung](./effective-unit-price-calculation.md).  | *0,03825* |
 | UnitType | Der Typ der Einheit, in der die Verbrauchseinheit berechnet wird. | *1 GB/Monat* |
 | AlternateId | Die Alternative ID des Auftrags Elements, auf das verwiesen wird. | *6dc5c039750a* |
 | Billablemenge | Die Gesamtmenge, die abgerechnet wird.  | *0,005001* |
@@ -63,7 +63,7 @@ Weitere Informationen zum Abgleich von Dateien finden Sie unter [use the Versöh
 | Pctobcexchangerate | Der Wechselkurs, der für die Preiswährung auf Abrechnungswährung angewendet wird. | *0,846202666* |
 | Pctobcexchangeratedate | Das Datum, an dem die Preiswährung der Abrechnungswährung festgelegt wird. | *30.09.2020* |
 | Meterbeschreibung | Beschreibung der Verbrauchseinheit.  | *Tabellen-lokal gespeicherte LRS-Daten (GB/Monat)* |
-| Reservationorderid | Die Reservierungs Auftrags-ID. | *E21A6344E398FFC1C4D7...* |
+| ReservationOrderId | Die Reservierungs Auftrags-ID. | *E21A6344E398FFC1C4D7...* |
 
 ## <a name="next-steps"></a>Nächste Schritte
 

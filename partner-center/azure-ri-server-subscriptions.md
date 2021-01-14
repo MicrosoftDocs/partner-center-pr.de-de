@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0434ad2e6494f5efc1b1e5e2aa003dc6587d7b4e
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 1d5386dd4b2b19e641cc9d731d4a3d0f44ab5ad6
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691349"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182493"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Erwerben, bereitstellen und & Verwalten von reservierten Azure-VM-Instanzen (RI) und Server Abonnements für Kunden
 
@@ -47,7 +47,7 @@ Beispielsweise können gewerbliche Kunden jetzt bis zu 72% im Vergleich zu Preis
 
 Bei einer nicht übereinstimmenden Kombination aus überzeugenden Preisen und nicht übereinstimmender Flexibilität bei der Bereitstellung sehen Kunden bei der Auswahl Azure Reservations den besten Gesamtwert.
 
-- Siehe [Kauf Reservierungen](https://docs.microsoft.com/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) im Azure-Portal.
+- Siehe [Kauf Reservierungen](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) im Azure-Portal.
 
 - Weitere Informationen finden Sie in der **Preisliste für den Azure RI CSP-Preis** in der Kategorie " **Microsoft Azure reservierte Instanzen** " auf der Seite " [Preise und Angebote](https://partner.microsoft.com/dashboard/sell/pricingandoffers) " im Partner Center für Software Abonnements und Jahresabonnements für Linux
 
@@ -69,24 +69,24 @@ Um zu verstehen, wie Sie Azure Reservations mit ihren Kunden positionieren und s
 
 1. Lesen und verstehen Sie das Handbuch für den [Partner Center New Commerce-Betriebshandbuch](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
-2. Informationen zu Updates für Azure Reservations-und Server Abonnements in der [Partner Center-API (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances).
+2. Informationen zu Updates für Azure Reservations-und Server Abonnements in der [Partner Center-API (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances).
 
 
 ### <a name="sales-readiness"></a>Vertriebsbereitschaft
 
 - [Remotedesktopdienste (RDS)-Client Zugriffslizenz (CAL) (Ankündigung)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 
-- [Azure reserved VM Instances (Azure-Portal)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Azure reserved VM Instances (Azure-Portal)](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 
-- [Server-Abonnements](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+- [Server-Abonnements](./csp-software-subscriptions.md)
 
-- [SQL-DB-Reservierungen (Azure-Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+- [SQL-DB-Reservierungen (Azure-Portal)](/azure/sql-database/sql-database-reserved-capacity)
 
-- [Azure Cosmos DB (Azure-Portal)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [Azure Cosmos DB (Azure-Portal)](/azure/cosmos-db/cosmos-db-reserved-capacity)
 
-- [SQL-verwaltete Instanz (Azure-Portal)](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+- [SQL-verwaltete Instanz (Azure-Portal)](/azure/sql-database/sql-database-managed-instance)
 
-- [SuSE und Red Hat Enterprise Linux (Azure-Portal)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [SuSE und Red Hat Enterprise Linux (Azure-Portal)](/azure/virtual-machines/linux/prepay-suse-software-charges)
 
 - [Red hat Linux in Azure](https://azure.com/redhat)
 
@@ -98,7 +98,7 @@ Um zu verstehen, wie Sie Azure Reservations mit ihren Kunden positionieren und s
 
 - [Azure-Preisrechner](https://azure.microsoft.com/pricing/calculator)
 
-- [Azure Databricks Einheiten Reservierungen](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+- [Azure Databricks Einheiten Reservierungen](/azure/billing/billing-prepay-databricks-reserved-capacity)
 
 
 ## <a name="training"></a>Training
@@ -114,7 +114,7 @@ Bei on-Demand-Ereignissen in der Vergangenheit aufgezeichnete Lizenz Bereitschaf
 
 - Azure Reservations Übersicht in CSP (Mai 2018)
 
-## <a name="operations"></a>Operations
+## <a name="operations"></a>Operationen (Operations)
 
 [Handbuch zum Service Center New Commerce-Betriebshandbuch](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf): umfassendes Handbuch, das wichtige Richtlinien und betriebliche Aspekte behandelt, wie z. b. Verträge, die Bestellung über Partner Center, Rechnungen, Preislisten Details, Anreize, Abstimmungs Dateien, API/SDK, Sandbox und gemeinsame Azure-Partner Dienste.
 

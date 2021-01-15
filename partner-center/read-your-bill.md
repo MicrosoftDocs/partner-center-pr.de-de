@@ -9,19 +9,15 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444989"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215814"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Informationen zu Ihrer Rechnung und Abstimmungs Datei: erfahren Sie, wie Sie diese im Partner Center finden.
 
-**Zielgruppe**
-
-- Partner Center
-- Partner Center für Microsoft Cloud for US Government
 
 **Geeignete Rollen**
 
@@ -62,7 +58,7 @@ Sie finden Ihre Rechnung auf der Seite Abrechnung des Dashboards im Partner Cent
 
 1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an. 
 
-2. Wählen Sie im Menü auf der linken Seite die Option **Abrechnung**aus. 
+2. Wählen Sie im Menü auf der linken Seite die Option **Abrechnung** aus. 
 
 3. Wählen Sie auf der Seite Abrechnung die Rechnung aus, die Sie herunterladen möchten. 
 
@@ -97,3 +93,7 @@ Eine ausführliche Beschreibung aller Felder in der Rechnungs Datei (einschließ
 ## <a name="understand-reconciliation-files"></a>Grundlegendes zu Abstimmungs Dateien
 
  Abstimmungs Dateien, die einen Drilldown/Details zu ihren Gebühren enthalten, können zusammen mit der Rechnung PDF heruntergeladen werden. Zu den Abstimmungs Dateien gehören Kunden Bezeichner und Abonnement Bezeichner, mit denen Sie Kunden Rechnungen erstellen können. Weitere Informationen zu den Reconnaissance-Dateien finden Sie unter  [Verwenden der](use-the-reconciliation-files.md) ababstimmungs Dateien. 
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Verwenden der Abstimmungsdateien](use-the-reconciliation-files.md)

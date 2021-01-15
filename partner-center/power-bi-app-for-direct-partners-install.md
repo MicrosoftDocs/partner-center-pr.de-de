@@ -10,18 +10,15 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64467ec608c2ca87dbc2b7d5dfb02adb08f13c18
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 754b3310918df9b38129cf1374ae3731d9d8062e
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302327"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215848"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installation und Vorschauversion der Partner Center Analytics-App für Microsoft Power BI
 
-**Zielgruppe**
-
-- Partner Center
 
 **Geeignete Rollen**
 -   Globaler Administrator
@@ -29,7 +26,7 @@ ms.locfileid: "86302327"
 -   Vertriebsbeauftragter
 -   Administrator-Agent
 
-## <a name="before-you-begin"></a>Voraussetzungen
+## <a name="before-you-begin"></a>Vorbereitungen
 
 Wählen Sie in der folgenden Liste verfügbarer Power BI-Apps die Anwendung aus, die für Ihr Unternehmen am relevantesten ist:
 - [Direkter Anbieter](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
@@ -56,7 +53,7 @@ Bevor Sie die Vorschauversion der Partner Center Analytics-App installieren, ste
 
 2. Klicken Sie auf **jetzt starten**. 
 
-3. Stimmen Sie den Bedingungen zu, indem Sie auf **weiter**klicken.
+3. Stimmen Sie den Bedingungen zu, indem Sie auf **weiter** klicken.
 
 4. Wählen Sie unter Sie haben bereits ein Konto?**Anmelden** aus.
 
@@ -77,7 +74,7 @@ Bevor Sie die Vorschauversion der Partner Center Analytics-App installieren, ste
 > [!NOTE]  
 >  Dieses Fenster erscheint möglicherweise erst nach einigen Minuten.
 
-12. Melden Sie sich auf der Seite **Partner Center Analytics-Connector** mit dem globalen Administrator, dem Administrator-Agent oder den Abrechnungs Administrator-Anmelde Informationen für den Azure AD Mandanten Ihres Unternehmens an, und wählen Sie dann **Anmelden**aus.
+12. Melden Sie sich auf der Seite **Partner Center Analytics-Connector** mit dem globalen Administrator, dem Administrator-Agent oder den Abrechnungs Administrator-Anmelde Informationen für den Azure AD Mandanten Ihres Unternehmens an, und wählen Sie dann **Anmelden** aus.
  
 13. Wählen Sie zum Zugriff aufgefordert werden, wählen Sie **Annehmen** aus. 
 

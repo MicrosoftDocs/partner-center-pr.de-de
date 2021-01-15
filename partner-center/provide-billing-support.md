@@ -9,30 +9,27 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 11a17550ed5c0ab2154ec0daa03818236b26e820
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949326"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215933"
 ---
-# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Bereitstellen von Abrechnungs Support für Ihre Kunden und Hilfe bei der Beantwortung Ihrer Abrechnungsfragen
+# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Bereitstellen von Abrechnungssupport für Kunden und Beantworten von Fragen zur Abrechnung
 
-**Zielgruppe**
-
-- Partner Center
-- Partner Center für Microsoft Cloud for US Government
 
 **Geeignete Rollen**
+
 - Globaler Administrator
 - Benutzeradministrator
 - Helpdesk-Agent
 - Abrechnungsadministrator
 - Vertriebsbeauftragter
 
-Sie steuern die Abrechnungsbeziehung mit Ihren Kunden und müssen diesen bei allen mit der Abrechnung verknüpften Fragen zur Seite stehen.
+Sie besitzen die abrechnungsbeziehung mit ihren Kunden, und Sie sind dafür verantwortlich, die Abrechnungs bezogenen Fragen zu beantworten, die Ihre Kunden möglicherweise haben.
 
-- Sie sind für die pünktliche Zahlung an Microsoft verantwortlich.
+- Sie sind verantwortlich für die Zeit Zahlungen an Microsoft.
 
 - Es wird empfohlen, eine klare Abrechnungsrichtlinie für Kunden aufzustellen, in der Ihr Abrechnungsprozess detailliert geregelt wird und in der die Auswirkungen auf den Zugriff auf Abonnements, Dienste oder Software beschrieben sind.
 
@@ -59,11 +56,14 @@ Partner sind verpflichtet, eingehende Supportanfragen von Kunden zu erhalten, Pr
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Bereitstellen von Abrechnung, Abonnementverwaltung und technischem Support 
 
-Bei jedem Onlinedienst gibt es bestimmte, detaillierte Anforderungen für die Bereitstellung von Abrechnung, Abonnementverwaltung und technischem Support für Kunden. Weitere Informationen finden Sie unter:
+Bei jedem Onlinedienst gibt es bestimmte, detaillierte Anforderungen für die Bereitstellung von Abrechnung, Abonnementverwaltung und technischem Support für Kunden. Weitere Informationen finden Sie unter
 
 - [Dynamics 365-Abonnements über CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
 - [Azure-Abonnements über CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [Office 365-Abonnements über CSP](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
- 
+ 
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Bereitstellen von technischem Support](provide-technical-support.md)

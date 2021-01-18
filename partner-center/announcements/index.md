@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 2963a27a0b189b81540cf8c955feaa6237822e0b
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
+ms.openlocfilehash: 6c7255f1bece1b107d173b8f1dc8a2b77defa992
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062432"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235952"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Januar 2021** | **Angekündigt** |
 |---------|:---------|:---------|
+|Angebote/Märkte|[Aktualisierung der Handelspreise für die indische Rupie](2021-january.md#7)|14. Januar|
 |Angebote/Märkte|[Aktualisierung der Handelspreise für die indische Rupie](2021-january.md#6)|8\. Januar|
 |Angebote/Märkte|[Aktualisierungen von Anrufplan und Telefonsystem für den 1. Februar 2021](2021-january.md#5)|8\. Januar|
 |Angebote/Märkte|[Aktualisierungen der lizenzbasierten Preislisten für Januar 2021](2021-january.md#4)|8\. Januar|

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 6c7255f1bece1b107d173b8f1dc8a2b77defa992
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
+ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235952"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "98560492"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,8 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Januar 2021** | **Angekündigt** |
 |---------|:---------|:---------|
+|Angebote/Märkte|[Sicherheits-, Konformitäts-und Identitätsstarts (SCI) am 1. Februar 2021](2021-january.md#9)|15. Januar|
+|Funktionen|[DocuSign-Migration zu Adobe Sign für Partner mit Microsoft Partner-Vereinbarung (MPA)](2021-january.md#8)|15. Januar|
 |Angebote/Märkte|[Aktualisierung der Handelspreise für die indische Rupie](2021-january.md#7)|14. Januar|
 |Angebote/Märkte|[Aktualisierung der Handelspreise für die indische Rupie](2021-january.md#6)|8\. Januar|
 |Angebote/Märkte|[Aktualisierungen von Anrufplan und Telefonsystem für den 1. Februar 2021](2021-january.md#5)|8\. Januar|

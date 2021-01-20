@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439088"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182544"
 ---
 # <a name="november-2020-announcements"></a>Ankündigungen für November 2020
 
@@ -40,7 +40,7 @@ Alle Partner
 
 ### <a name="details"></a>Details
 
-Microsoft führt für Partner im Cloud Solution Provider-Programm (einschließlich indirekter Anbieter und Partner mit direkter Abrechnung) die Möglichkeit ein, SaaS-Angebote mit [getakteter Abrechnung](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing) in Partner Center zu erwerben. Heute können Partner im Cloud Solution Provider-Programm [SaaS-Angebote mit getaktete Abrechnung über das Azure-Portal anzeigen und erwerben](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase). Diese neue Funktion ermöglicht es Partnern, diese Angebote über den CSP-Marketplace in Partner Center und die API zu erwerben, wie es bei anderen SaaS-Angebotstypen der Fall ist. 
+Microsoft führt für Partner im Cloud Solution Provider-Programm (einschließlich indirekter Anbieter und Partner mit direkter Abrechnung) die Möglichkeit ein, SaaS-Angebote mit [getakteter Abrechnung](/azure/marketplace/partner-center-portal/saas-metered-billing) in Partner Center zu erwerben. Heute können Partner im Cloud Solution Provider-Programm [SaaS-Angebote mit getaktete Abrechnung über das Azure-Portal anzeigen und erwerben](../csp-commercial-marketplace-purchase.md). Diese neue Funktion ermöglicht es Partnern, diese Angebote über den CSP-Marketplace in Partner Center und die API zu erwerben, wie es bei anderen SaaS-Angebotstypen der Fall ist. 
 
 ### <a name="next-steps"></a>Nächste Schritte
 
@@ -309,23 +309,23 @@ Partner Center ist darauf ausgelegt, eine große Anzahl von Anforderungen zu ver
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[Abrufen aller Abonnements eines Kunden](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Abrufen eines Abonnements nach ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[Abrufen aller Bestellungen eines Kunden](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Abrufen eines Auftrags nach ID](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Abrufen des Abonnementbereitstellungsstatus](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Verwalten von Aufträgen und Verwalten eines Abonnements](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[Abrufen einer Liste von Add-Ons für ein Abonnement](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[Abrufen einer Liste von Azure-Berechtigungen für ein Abonnement](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[Abrufen des Abonnementregistrierungsstatus](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Abrufen aller Übertragungen eines Kunden](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Abrufen des Status der Produktaktualisierung](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Abrufen einer Liste von Testwechselangeboten](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer_id}/orders||[Abrufen aller Bestellungen eines Kunden](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Abrufen eines Auftrags nach ID](/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Abrufen des Abonnementbereitstellungsstatus](/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Verwalten von Aufträgen und Verwalten eines Abonnements](/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[Abrufen einer Liste von Add-Ons für ein Abonnement](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[Abrufen einer Liste von Azure-Berechtigungen für ein Abonnement](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[Abrufen des Abonnementregistrierungsstatus](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Abrufen aller Übertragungen eines Kunden](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Abrufen des Status der Produktaktualisierung](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Abrufen einer Liste von Testwechselangeboten](/partner-center/develop/get-all-of-a-customer-s-transfers) 
   
 
-Mit dieser Ankündigung sollen Partner frühzeitig über die bevorstehenden Änderungen informiert werden, sodass sie entsprechende Vorbereitungen treffen können. Partnern wird dringend empfohlen, sich mit diesen APIs vertraut machen und die Aktivitätsprotokoll-API für mehr Effizienz und zur Vermeidung einer Drosselung zu verwenden. Weitere Informationen zu diesem Feature finden Sie im [Leitfaden zur API-Drosselung](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance). 
+Mit dieser Ankündigung sollen Partner frühzeitig über die bevorstehenden Änderungen informiert werden, sodass sie entsprechende Vorbereitungen treffen können. Partnern wird dringend empfohlen, sich mit diesen APIs vertraut machen und die Aktivitätsprotokoll-API für mehr Effizienz und zur Vermeidung einer Drosselung zu verwenden. Weitere Informationen zu diesem Feature finden Sie im [Leitfaden zur API-Drosselung](/partner-center/develop/api-throttling-guidance). 
 
 ### <a name="next-steps"></a>Nächste Schritte
 
-Lesen Sie den [Leitfaden zur API-Drosselung](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance), und führen Sie die erforderlichen Schritte aus. 
+Lesen Sie den [Leitfaden zur API-Drosselung](/partner-center/develop/api-throttling-guidance), und führen Sie die erforderlichen Schritte aus. 
 
 ______________
 
@@ -339,7 +339,7 @@ ______________
 ### <a name="context"></a>Kontext
 
 - Im Februar dieses Jahres wurden Partner aufgefordert, die Microsoft-Kundenvereinbarung (MCuA) zu unterzeichnen. Hierbei handelte es sich um einen Wechsel vom vorherigen Microsoft Cloud-Vertrag (MCA). 
-- Im Rahmen dieser Änderung wurden die Partner aufgefordert, den Parameter für den Typ der Vereinbarung wie [hier](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement) dokumentiert einzufügen.
+- Im Rahmen dieser Änderung wurden die Partner aufgefordert, den Parameter für den Typ der Vereinbarung wie [hier](/partner-center/develop/get-confirmation-of-customer-agreement) dokumentiert einzufügen.
 
 ### <a name="what-happened-next"></a>Was dann geschah:
 

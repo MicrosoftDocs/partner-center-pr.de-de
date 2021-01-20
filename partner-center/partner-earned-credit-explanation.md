@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622166"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182408"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Wie von Partnern erworbene Guthaben berechnet und bezahlt werden
 
@@ -36,7 +36,7 @@ Um von Partnern erworbene Guthaben (PEC) zu erhalten, gelten die folgenden Anfor
 
 - Sie müssen eine aktive MPN-Vereinbarung und eine gültige RBAC-Rolle (rollenbasierte Zugriffssteuerung) besitzen, um erworbene Guthaben für die von Ihnen verwalteten Azure-Ressourcen zu erhalten.
 
-- Sie müssen über die operative Kontrolle und Verwaltung der Azure-Ressourcen des Kunden in CSP rund um die Uhr (24/7) verfügen. Das bedeutet, dass Sie Administratorrechte für das Azure-Abonnement, die Azure-Ressourcengruppe und die Azure-Ressource des Kunden besitzen müssen. Im Fall indirekter Anbieter und ihrer indirekten Wiederverkäufer ist der indirekte Anbieter für PEC qualifiziert, wenn entweder er, der indirekte Wiederverkäufer oder beide über diese operative Kontrolle verfügen. Weitere Informationen darüber finden Sie unter [Reaktivieren von Administratorrechten für Azure CSP-Abonnements](https://docs.microsoft.com/partner-center/revoke-reinstate-csp).
+- Sie müssen über die operative Kontrolle und Verwaltung der Azure-Ressourcen des Kunden in CSP rund um die Uhr (24/7) verfügen. Das bedeutet, dass Sie Administratorrechte für das Azure-Abonnement, die Azure-Ressourcengruppe und die Azure-Ressource des Kunden besitzen müssen. Im Fall indirekter Anbieter und ihrer indirekten Wiederverkäufer ist der indirekte Anbieter für PEC qualifiziert, wenn entweder er, der indirekte Wiederverkäufer oder beide über diese operative Kontrolle verfügen. Weitere Informationen darüber finden Sie unter [Reaktivieren von Administratorrechten für Azure CSP-Abonnements](./revoke-reinstate-csp.md).
 
 - Zusätzlich zu den oben genannten Anforderungen können von Partnern erworbene Guthaben nur auf Dienste angerechnet werden, die in den Preisen für die Azure-Plannutzung aufgelistet sind, die Sie von der Seite [Preise für Azure-Pläne](https://partner.microsoft.com/commerce/sales) exportieren können.
 
@@ -48,7 +48,7 @@ Um von Partnern erworbene Guthaben (PEC) zu erhalten, gelten die folgenden Anfor
 
 - PEC wird bis hinab zur Azure-Ressourcenebene erworben. Wenn Sie über gültigen Zugriff entweder auf Abonnement- oder Ressourcengruppenebene verfügen, wird PEC für jede Ressource erworben, für die ein Rollup zur höheren Entität durchgeführt wird.
 
-- Ausführliche Informationen zu PEC sind auch auf der Seite [Azure Cost Management](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners) enthalten.
+- Ausführliche Informationen zu PEC sind auch auf der Seite [Azure Cost Management](/azure/cost-management-billing/costs/get-started-partners) enthalten.
 
 ### <a name="calculation"></a>Berechnung
 

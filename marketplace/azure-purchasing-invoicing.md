@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.date: 01/18/2021
+ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182476"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584196"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace Einkauf
 
@@ -60,6 +60,20 @@ Wenn Sie Produkte aus Azure Marketplace erwerben, erhalten Sie Einblicke, die Ih
 Im Kostenanalysetool von Azure Cost Management können Sie Ihre Azure Marketplace-Gebühren und -Rechnungen anzeigen.
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Verwenden Sie Azure Cost Management, um Einblicke in Ihre erworbenen Produkte zu erhalten.":::
+
+## <a name="purchase-validation-checks"></a>Kauf überprüfungsprüfungen
+
+Der Erwerb eines Angebots über Azure Marketplace kann aus unterschiedlichen Gründen fehlschlagen. Das Verwenden der Befehlszeilenschnittstelle (Command-Line Interface, CLI) für einen Einkauf führt wahrscheinlich zu Fehlern, da Sie möglicherweise versuchen, ein Angebot zu erwerben, das in Azure Marketplace nicht verfügbar oder nicht sichtbar ist. Im folgenden finden Sie die Überprüfungen, die einen Kauf Fehler verursachen können:
+
+1. Das Abonnement gehört zu einem Konzernvertrag (EA), und der EA-Administrator ist Azure Marketplace Käufe deaktiviert.
+1. Der EA-Administrator hat Käufe nur für kostenlose Angebote aktiviert, und das Angebot ist ein kostenpflichtiges Angebot.
+1. Das Angebot wurde im Marketplace nicht gefunden.
+1. Der unabhängige Software Hersteller (Independent Software Vendor, ISV) hat das Angebot, zumindest in Ihrer Region, nicht mehr verkauft.
+1. Das von Ihnen verwendete Abonnement gehört zu einem Abrechnungskonto in einer Region, in der das Angebot nicht verfügbar ist.
+1. Das Abonnement-/Abrechnungs Konto ist keinem gültigen Zahlungsinstrument (z. b. eine gültige Kreditkarte) zugeordnet.
+1. Das Abonnement gehört zu einem cloudlösungsanbieter (Cloud Solution Provider, CSP), und der ISV lehnt den Verkauf über einen CSP ab.
+1. Der private Marketplace ist für das Abonnement aktiviert, und das Angebot ist nicht in der Liste der zulässigen Angebote enthalten.
+1. Das Angebot ist für bestimmte Kunden privat/Vorschau, und das Abonnement ist nicht in der Liste der zulässigen Kunden enthalten.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

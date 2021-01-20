@@ -1,7 +1,7 @@
 ---
 title: Verkaufen lokaler Software über das CSP-Programm
 ms.topic: how-to
-ms.date: 05/05/2020
+ms.date: 01/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Partner im CSP-Programm lokale Software Abonnements im Auftrag von Kunden im Partner Center kaufen, verwalten, verkaufen und abbrechen können.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 179527f2edc710420be0b7119b758389dddf6947
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545611"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584173"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Verkaufen lokaler Software über das CSP-Programm (Cloud Solution Provider)
 
@@ -40,17 +40,12 @@ Um Softwareabonnements im Auftrag eines Kunden zu erwerben, wechseln Sie zur Det
 Nachdem Sie Ihre Software erworben haben, müssen Sie und ihre Kunden Sie herunterladen. Führen Sie dazu die nachfolgend aufgeführten Schritte aus. 
 
 >[!NOTE]
->Sie müssen ein Administrator-Agent sein, um Schlüssel abrufen und Software herunterladen zu können. 
+>Sie müssen ein Administrator-Agent sein, um Schlüssel abrufen und Software herunterladen zu können.
 
-1. Wechseln Sie zur Detailseite des Kunden, und wählen Sie dann **Software** aus. Sie sehen eine Liste der gesamten Software, die Sie im Auftrag des Kunden erworben haben. 
-2.  Erweitern Sie das Produkt, das Sie herunterladen möchten. Wählen Sie im Feld **Produkt auswählen** die **Version**, **Sprache** sowie **Dateityp/Betriebssystem** aus. 
-3.  Klicken Sie auf **Senden**, um die spezifischen Produkte anzuzeigen. 
-4.  Wählen Sie **Schlüssel und Downloads abrufen**. 
-5.  Klicken Sie auf **Herunterladen**, um den Download zu starten, oder **Link kopieren**, um den Link zu kopieren und an den Kunden zu senden. 
+1. Wechseln Sie zur Detailseite des Kunden, und wählen Sie dann **Software** aus. Sie sehen eine Liste der gesamten Software, die Sie im Auftrag des Kunden erworben haben.
+2. Kopieren Sie den Link von **Link zu Software Product Keys und Downloads,** und geben Sie den Link für Ihren Kunden frei. Wenn Sie diesen Link auswählen, werden Sie zum Microsoft Admin-Portal umgeleitet, um Ihre Product Keys herunterzuladen und abzurufen.
 
->[!NOTE]
->Dieser Link läuft nach zwei Wochen bzw. 50 Downloads ab, je nachdem, was zuerst eintritt. Kehren Sie nach Ablauf des Links zu dieser Seite zurück, und wählen Sie erneut **Schlüssel und Downloads abrufen** aus, um ihn für weitere zwei Wochen oder 50 Downloads zu aktivieren. Sie können dies beliebig oft tun. 
-
+Wenn Sie oder Ihre Kunden mehr über das Herunterladen von Lizenzschlüsseln erfahren möchten, finden Sie weitere Informationen unter [Herunterladen von Software und Produktlizenz Schlüsseln](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="cancel-a-purchase"></a>Stornieren eines Einkaufs
 
@@ -65,11 +60,11 @@ Gehen Sie wie folgt vor, um einen Kauf zu stornieren. Sobald die Stornierung abg
     - Grund für Rückerstattung
     - Angeforderter Betrag
 
-2.  Wählen Sie auf der Seite Details des Kunden die Option **Software**aus. Sie sehen eine Liste der Software, die Sie gekauft haben. 
+2.  Wählen Sie auf der Seite Details des Kunden die Option **Software** aus. Sie sehen eine Liste der Software, die Sie gekauft haben. 
 
 3.  Suchen Sie die Software, die Sie stornieren möchten, und wählen Sie **Abbrechen**. Die Seite **Melden eines Problems mit Partner Center** wird geöffnet. 
 
-4.  Wählen Sie unter **Details**in der Liste **Problemtyp** den Wert **CSP Purchase/Refund im Auftrag von Kunden aus**.
+4.  Wählen Sie unter **Details** in der Liste **Problemtyp** den Wert **CSP Purchase/Refund im Auftrag von Kunden aus**.
 
 5.  Füllen Sie die Felder für **Auswirkung** und **Titel** aus. 
 

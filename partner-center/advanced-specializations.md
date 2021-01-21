@@ -1,7 +1,7 @@
 ---
 title: Weitere Informationen zu erweiterten Spezialisierungs Informationen
 ms.topic: article
-ms.date: 01/12/2021
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Stärken Sie Ihr Geschäftsprofil im Microsoft-Partnerverzeichnis. Erfahren Sie mehr über die erweiterten Spezialisierungsmöglichkeiten, die Sie zusammen mit Ihren vorhandenen Gold-und Silver-Kompetenzen erreichen können.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ce29c533869214a15f18852c8946f46c0656a38
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204018"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658398"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Erwerben Sie eine erweiterte Spezialisierung, um Ihre validierten Funktionen vorzustellen
 
@@ -45,6 +45,7 @@ Jede erweiterte Spezialisierung entspricht einem Lösungs Bereich:
 
 Erweiterte **Azure** -Spezialisierungs Spezialisten:
 
+- Analyse auf Microsoft Azure
 - Data Warehouse-Migration zu Microsoft Azure
 - Kubernetes in Microsoft Azure
 - Migration von Linux-und Open Source-Datenbanken zu Microsoft Azure

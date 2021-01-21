@@ -1,7 +1,7 @@
 ---
 title: Verwalten des Partner Center-Kontos
 ms.topic: conceptual
-ms.date: 11/20/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie mithilfe von Partner Center das Profil, Bankdetails und Steuerinformationen, Rollen, Berechtigungen und weitere Angaben zu Ihrem Unternehmen verwalten.
@@ -9,16 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
-ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
+ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "97011524"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235969"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Verwalten Ihres Partner Center-Kontos – Unternehmensprofil, Bankdetails, Rollen, Berechtigungen und mehr
 
-**Geeignete Rollen**: globaler Administrator, MPN-Administrator
+**Geeignete Rollen**: globaler Administrator
+- MPN-Kontoadministrator
 
 Das Konto, das Sie bei der Registrierung im Partner Center erstellen, besteht aus Ihrer geschäftlichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem Sie ein Konto erstellt haben, müssen Sie die Einrichtung des vollständigen Unternehmensprofils abschließen (einschließlich Supportinformationen, ggf. Steuerbefreiungen und Angaben zum Hauptansprechpartner). Das Unternehmenskonto umfasst außerdem Benutzerkonten für alle Personen, die Partner Center zum Hinzufügen oder Verwalten von Kunden, zum Verkaufen von Abonnements, zur Abrechnung und Fakturierung, zum Erstellen von Unternehmensprofilen, zum Verwalten von Empfehlungen, zum Arbeiten mit Incentives-Programmen und zum Bereitstellen von Support nutzen.
 
@@ -60,6 +61,10 @@ Auf diesen Seiten können Sie detaillierte Bereiche Ihres Unternehmens verwalten
 ### <a name="legal-info"></a>Rechtliche Hinweise
 
 Wenn Sie Partner Center zum ersten Mal beitreten, durchläuft Ihr Unternehmen einen Überprüfungsprozess bei Microsoft. Sie können den Status Ihrer Überprüfung auf der Seite **Rechtliche Hinweise** verfolgen. Hier werden der Hauptansprechpartner (mit dem Microsoft bei Fragen zum Partner Kontakt aufnimmt) und der Hauptansprechpartner in rechtlichen Fragen (die Person, die Ihre rechtlichen Informationen und den Status verwaltet) angezeigt. Hier sind alle Geschäftsstandorte Ihres Unternehmens aufgeführt, und es können weitere hinzugefügt werden.
+
+### <a name="primary-contact-email"></a>E-Mail-Adresse des Hauptansprechpartners
+
+Die E-Mail-Adresse des Hauptansprechpartners wird verwendet, um Sie bezüglich der Überprüfung Ihres Kontos zu benachrichtigen. Es ist sehr wichtig, dass die für den Hauptansprechpartner bereitgestellte E-Mail-Adresse regelmäßig verwaltet und überwacht wird.  
 
 Erfahren Sie mehr über die [Überprüfung und Ihre Kontoinformationen](verification-responses.md).
 
@@ -122,9 +127,9 @@ Es stehen zahlreiche Partner Center-Programme zur Verfügung. Jedes Programm hat
 
 Weitere Informationen zum Registrieren für bestimmte Partner Center-Programme finden Sie in der folgenden Liste, die nicht alle Programme umfasst:
 
-- [Programm „Kommerzieller Marketplace“](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Programm „Kommerzieller Marketplace“](/azure/marketplace/partner-center-portal/create-account)
 - [Microsoft Partner Network-Mitgliedschaftsvorteile](mpn-overview.md)
-- [CSP-Programm](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [CSP-Programm](./enrolling-in-the-csp-program.md)
 - [Office Store](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Weitere Informationen zum Registrieren bei Partner Center-Programmen findest du auch unter [Partner Network-Ressourcen](https://partner.microsoft.com/).

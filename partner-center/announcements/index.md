@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: aa06fa03b29bb43d5b3c9d2c64e7208ebe9a9d5f
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.openlocfilehash: 83d2abd4c799a9776087efc4fb4f5e755ecbadad
+ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571651"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98685904"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,19 +22,20 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Januar 2021** | **Angekündigt** |
 |---------|:---------|:---------|
-|Umsatzsteigerung|[Unbefristete Software ist jetzt generell im Cloud Solution Provider-Programm verfügbar](2021-january.md#11).|19. Januar|
-|Umsatzsteigerung|[Erinnerung: Einführung in die API-Drosselung für Partner, die Partner Center-APIs aufrufen](2021-january.md#10)|19. Januar|
-|Angebote/Märkte|[Sicherheits-, Konformitäts-und Identitätsstarts (SCI) am 1. Februar 2021](2021-january.md#9)|15. Januar|
+|Funktionen|[Änderungen der Verfügbarkeit des Azure-Angebots in CSP in Bezug auf die neue E-Commerce-Benutzeroberfläche in CSP für Azure](2021-january.md#12)|21. Januar|
+|Umsatzsteigerung|[Unbefristete Software ist jetzt allgemein im Cloud Solution Provider-Programm verfügbar](2021-january.md#11)|19. Januar|
+|Umsatzsteigerung|[Erinnerung: Einführung einer API-Drosselung für Partner, die Partner Center-APIs aufrufen](2021-january.md#10)|19. Januar|
+|Angebote/Märkte|[Einführung von SCI-Angeboten (Sicherheit, Compliance and Identität) am 1. Februar 2021](2021-january.md#9)|15. Januar|
 |Funktionen|[DocuSign-Migration zu Adobe Sign für Partner mit Microsoft Partner-Vereinbarung (MPA)](2021-january.md#8)|15. Januar|
-|Angebote/Märkte|[Aktualisierung der Handelspreise für die indische Rupie](2021-january.md#7)|14. Januar|
+|Angebote/Märkte|[Aktualisierung der Handelspreise für die norwegische Krone](2021-january.md#7)|14. Januar|
 |Angebote/Märkte|[Aktualisierung der Handelspreise für die indische Rupie](2021-january.md#6)|8\. Januar|
-|Angebote/Märkte|[Aktualisierungen von Anrufplan und Telefonsystem für den 1. Februar 2021](2021-january.md#5)|8\. Januar|
+|Angebote/Märkte|[Aktualisierungen von Calling Plan und Phone System für den 1. Februar 2021](2021-january.md#5)|8\. Januar|
 |Angebote/Märkte|[Aktualisierungen der lizenzbasierten Preislisten für Januar 2021](2021-january.md#4)|8\. Januar|
 |Moderner Arbeitsplatz|[Änderung der Partnerabrechnungswährung für neue E-Commerce-Angebote in der EU/EFTA](2021-january.md#3)|7\. Januar|
 |Funktionen|[Einstellung und Deaktivierung vorhandener GET- und PUT-Qualifizierungs-APIs für den Überprüfungsprozess für Kunden im Bildungswesen bis Ende Februar 2021](2021-january.md#2)|5\. Januar|
 |Angebote/Märkte|[Dynamics 365-Angebote für Februar 2021](2021-january.md#1)|4\. Januar|
 | **Kategorie** | **Ankündigungen für Dezember 2020** | **Angekündigt** |
-|Angebote|[Nicht genutzte Co-O-Mittel für Channel-Incentives aus dem Nutzungszeitraum H1 des Geschäftsjahrs 2021 werden in den Nutzungszeitraum H2 übernommen](2020-december.md#13)|22. Dezember|
+|Angebote|[Nicht genutzte Co-Op-Mittel für Channel-Incentives aus dem Nutzungszeitraum H1 des Geschäftsjahrs 2021 werden in den Nutzungszeitraum H2 übernommen](2020-december.md#13)|22. Dezember|
 |Funktionen|[DocuSign-Migration zu Adobe Sign im Jahr 2021 für Partner mit Microsoft Partner-Vereinbarung (MPA)](2020-december.md#12)|22. Dezember|
 |Angebote/Märkte|[Preis- und Katalogzeitpläne für Januar 2021](2020-december.md#11)|22. Dezember|
 |Funktionen|[Ankündigung zur Unterstützung von Microsoft 365-Apps und -Diensten durch Internet Explorer 11 und die Microsoft Edge-Legacyversion](2020-december.md#10)|21. Dezember|

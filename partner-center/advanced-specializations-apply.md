@@ -1,7 +1,7 @@
 ---
 title: Für erweiterte Spezialisierungs Informationen anwenden
 ms.topic: how-to
-ms.date: 11/30/2020
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Stärken Sie Ihr Geschäftsprofil im Microsoft-Partnerverzeichnis. Erfahren Sie, wie Sie mithilfe von Partner Center erweiterte Spezialisierungs Arbeiten durchführen und diese erwerben.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dea98a5268feecbbea448592637a24f180d8eff2
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96440043"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658415"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Verwenden Sie das Partner Center, um erweiterte Spezialisierungs-und deren Status zu überprüfen.
 
@@ -60,17 +60,18 @@ Beide Aufgaben können im Partner Center ausgeführt werden.
 
 Erweiterte spezizierungen, die eine Überwachung mit einem Drittanbieter erfordern, umfassen Folgendes:
 
-- Data Warehouse Migration zu Microsoft Azure
-- Kubernetes auf Microsoft Azure
-- Migration von Linux-und Open Source-Datenbanken zu Microsoft Azure
-- Virtueller Microsoft Windows-Desktop
+- Analyse auf Microsoft Azure
+- Data Warehouse-Migration zu Microsoft Azure
+- Kubernetes in Microsoft Azure
+- Migration von Linux- und Open-Source-Datenbanken zu Microsoft Azure
+- Microsoft Windows Virtual Desktop
 - Modernisierung von Webanwendungen auf Microsoft Azure
 - Migration von Windows Server und SQL Server zu Microsoft Azure
 
 Erweiterte Spezialisierungs Schritte, die Kundenreferenzen erfordern, umfassen Folgendes:
 
-- Übernahme und Änderungs Verwaltung
-- Aufrufen für Microsoft Teams
+- Einführung und Change Management
+- Anrufe für Microsoft Teams
 - Besprechungen und Besprechungsräume für Microsoft Teams
 - SAP in Azure
 - Teamwork-Bereitstellung

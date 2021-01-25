@@ -110,6 +110,9 @@
     - name: Microsoft Partner-Vereinbarung – CSPs
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: Wie indirekte Anbieter ihren Wiederverkäufern bei der MPA-Übernahme helfen können
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: Anforderungen für direkte CSP-Partner
       href: direct-partner-new-requirements.md
       displayName: 'indirect, reseller, csp'

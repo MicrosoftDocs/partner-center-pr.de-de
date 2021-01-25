@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 83d2abd4c799a9776087efc4fb4f5e755ecbadad
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685904"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717844"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Januar 2021** | **Angekündigt** |
 |---------|:---------|:---------|
+|Funktionen|[Änderungen der Partner Center-Überwachungsprotokolle zur Einbeziehung zwei neuer Vorgangstypen für DAP](2021-january.md#13)|25. Januar|
 |Funktionen|[Änderungen der Verfügbarkeit des Azure-Angebots in CSP in Bezug auf die neue E-Commerce-Benutzeroberfläche in CSP für Azure](2021-january.md#12)|21. Januar|
 |Umsatzsteigerung|[Unbefristete Software ist jetzt allgemein im Cloud Solution Provider-Programm verfügbar](2021-january.md#11)|19. Januar|
 |Umsatzsteigerung|[Erinnerung: Einführung einer API-Drosselung für Partner, die Partner Center-APIs aufrufen](2021-january.md#10)|19. Januar|

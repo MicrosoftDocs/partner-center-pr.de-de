@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Standorten im Partnerkonto
 ms.topic: how-to
-ms.date: 11/23/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie einen neuen Standort hinzufügen und wie die Standort-MPN-ID in Incentive-Programmen, CSP-Geschäftsaktionen, Abonnements und anderen Transaktionen verwendet wird.
@@ -9,18 +9,15 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514797"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773429"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Verwalten von MPN-Kontostandorten und Hinzufügen eines neuen Standorts
 
-**Zielgruppe**
-
-- Partner Center
 
 **Geeignete Rollen**
 
@@ -38,7 +35,7 @@ Contoso hat sein globales Partnerkonto (Partner Global Account, PGA) im Vereinig
 
 :::image type="content" source="images/locations/locations1.png" alt-text="Struktur von MPN-Standorten":::
 
-## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>Voraussetzungen für das Hinzufügen eines neuen Standorts für ein CSP-Geschäft
+## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>Voraussetzungen für das Hinzufügen eines neuen Kontospeicherorts für ein CSP-Geschäft
 
 Zum Hinzufügen eines neuen CSP-Geschäftsstandorts müssen mehrere Voraussetzungen erfüllt sein:
 

@@ -1,20 +1,20 @@
 ---
-title: Auszahlungs Zeitpläne und-Prozesse
+title: Auszahlungszeitpläne und -prozesse
 description: Erfahren Sie mehr über Auszahlungen und Transaktionen, z. b. Zahlungs Zeitpläne und Wiederholungsprozesse für den kommerziellen Marketplace und andere Transaktionen.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.date: 12/04/2020
+ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492669"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861409"
 ---
-# <a name="payout-schedules-and-processes"></a>Auszahlungs Zeitpläne und-Prozesse
+# <a name="payout-schedules-and-processes"></a>Auszahlungszeitpläne und -prozesse
 
 **Geeignete Rollen:**
 
@@ -25,11 +25,11 @@ In diesem Artikel wird der Zahlungsplan von Microsoft erläutert, in dem der Sta
 
 ## <a name="payment-schedules"></a>Zahlungspläne
 
-In den folgenden Abschnitten wird der Auszahlungsprozess für **Konzernvertrag** -und **Kreditkarten-/Rechnung-** Transaktionen beschrieben.
+In den folgenden Abschnitten wird der Auszahlungsprozess für **Enterprise Agreement** -und **Kreditkarten-/Rechnung-** Transaktionen beschrieben.
 
-### <a name="enterprise-agreement-transactions"></a>Transaktionen Konzernvertrag
+### <a name="enterprise-agreement-transactions"></a>Transaktionen Enterprise Agreement
 
-Wenn ein Kunde ein Produkt von Microsoft AppSource oder Azure Marketplace mit vorhandenem Microsoft-Konzernvertrag für Transaktionen kauft, werden im nächsten Auszahlungs Zeitraum 30 Tage nach Kunden Rechnung Zahlungen ausgegeben. Transaktionen, bei denen ein Kunde eine Kreditkarte verwendet, haben eine 30-tägige Beibehaltungsdauer vor der Auszahlung.
+Wenn ein Kunde ein Produkt von Microsoft AppSource oder Azure Marketplace mit vorhandenem Microsoft-Enterprise Agreement für Transaktionen kauft, werden im nächsten Auszahlungs Zeitraum 30 Tage nach Kunden Rechnung Zahlungen ausgegeben. Transaktionen, bei denen ein Kunde eine Kreditkarte verwendet, haben eine 30-tägige Beibehaltungsdauer vor der Auszahlung.
 
 Es kommt häufig vor, dass Microsoft die Zahlung vom Kunden sammelt. Weitere Informationen zu den Aktionen, die wir durchführen, wenn der Kunde [Microsoft nicht bezahlt](#process-for-customer-non-payment) , aber wir haben bereits eine Auszahlung ausgegeben.
 
@@ -37,6 +37,7 @@ Es kommt häufig vor, dass Microsoft die Zahlung vom Kunden sammelt. Weitere Inf
 | --- | --- | --- | --- |
 | Verwendung oder Monat der Transaktion | Der Kunde verwendet oder kauft einen Dienst. | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 1** |
 | Microsoft berechnet Abrechnungsbetrag | Bestimmen der Gesamtauslastung, Transaktionen gesamt | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 2** |
+| Von Kunde bezahlte Rechnung | Microsoft sammelt die Zahlung von Kunden | Keine Änderung | **Monat 2** |
 | Auszahlungs Veröffentlichung | Bestimmen der Gebühren und Auszahlungs Einnahmen der Agentur | Im Transaktionsverlauf in der [Auszahlungs Anweisung](payout-statement.md) als nicht verarbeitet markiert | **Monat 3 (1. Woche)** |
 | Auszahlung vorbereiten | Der Gewinn ist für die monatliche Zahlung vorbereitet. | Im Transaktionsverlauf in der [Auszahlungs Anweisung](payout-statement.md) als demnächst markiert | **Monat 3 (1. Woche)** |
 | **Auszahlung gesendet** | **Die Zahlung wird an den Verleger gesendet.** | **Gekennzeichnet als in Transaktionsverlauf gesendet und im Abschnitt "Zahlungen" der [Auszahlungs Anweisung](payout-statement.md)** | **Monat 3 (nicht später als der 15.)** |

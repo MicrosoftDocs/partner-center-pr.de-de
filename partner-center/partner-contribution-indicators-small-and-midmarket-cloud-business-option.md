@@ -1,7 +1,7 @@
 ---
 title: 'Partner Beitrags Indikatoren: smmcs'
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Informieren Sie sich über die Partner Beitrags Indikatoren (PCI), die Sie erfüllen müssen, bevor Sie die Kompetenz für die Cloud-Lösungen von kleinen und mittelständischen Märkten erreichen können.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbde581a5a2d0b79b92be54abfba4920b53cbba4
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204114"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861426"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Nutzen Sie Partner Beitrags Indikatoren, um die Kompetenz der Cloud-Lösungen für kleine und mittelständische zu erreichen
 
@@ -157,13 +157,12 @@ Netto neuer Umsatz ist ein [Leistungsindikator](partner-contribution-indicators-
 - Netto neuer Umsatz ist als Netto neuer Umsatz in allen Vertriebskanälen für qualifizierende Dynamics 365-Produkte definiert.
 - Netto neuer Umsatz wird über einen nachfolgenden Zeitraum von 12 Monaten summiert und ermöglicht maximal 10 Punkte.
 - Die Punkte für den Netto neuen Umsatz werden als Abrechnungen abzüglich Gutschriften berechnet und über einen Zeitraum von 12 Monaten aggregiert.
-- Der Netto neue Umsatz wird anhand der folgenden, qualifizierenden Produkte berechnet, die entweder auf den Kunden Bindungs Pfad oder den Finanz-und Vorgangs Pfad folgen:
+- Der Netto neue Umsatz wird basierend auf einer beliebigen Kombination der folgenden, qualifizierenden Produkte berechnet:
   - Dynamics 365 Customer Engagement-qualifizierende Produkte: Vertrieb, Marketing, Kundendienst, Felddienst, Project Server, Plan 1, Automatisierung, Marketing, Microsoft Relationship Sales
-  - Zu den Finanz-und Betriebs berechtigten Produkten zählen: Business Central, Capacity and Storage, Finance und Operations (einschließlich Betrugsschutz, Vorgänge, Einzelhandel, Personalwesen, Plan 2), gemischte Realität, Team Mitglied
-  - Dynamics 365 Business Central
-
-- Vertriebskanäle umfassen Konzernvertrag (EA), Cloud Solution Provider (CSP) und Web Direct.
-- Nur für Konzernvertrag Umsatz: dieser Umsatz umfasst Einnahmen aus dem ersten Jahr der Vereinbarung. Wiederkehrende Umsätze aus dem zweiten und dritten Jahr sind nicht enthalten.
+  - Zu den Finanz-und Betriebs berechtigten Produkten gehören: Dynamics 365 Business Central, Capacity and Storage, Finance und Operations (einschließlich Betrugsschutz, Vorgänge, Einzelhandel, Personalwesen, Plan 2), gemischte Realität, Team Mitglied
+  
+- Vertriebskanäle umfassen Enterprise Agreement (EA), Cloud Solution Provider (CSP) und Web Direct.
+- Nur für Enterprise Agreement Umsatz: dieser Umsatz umfasst Einnahmen aus dem ersten Jahr der Vereinbarung. Wiederkehrende Umsätze aus dem zweiten und dritten Jahr sind nicht enthalten.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definitionen für PCI-Metrik #2-net Customer Adds
 
@@ -183,7 +182,7 @@ NET Customer Adds ist ein [Leistungsindikator](partner-contribution-indicators-s
 
 - Maximale und partielle Punkte können für Netto Kunden hinzugefügt werden.
 
-- Vertriebskanäle umfassen Konzernvertrag (EA), Cloud Solution Provider (CSP) und Web Direct.
+- Vertriebskanäle umfassen Enterprise Agreement (EA), Cloud Solution Provider (CSP) und Web Direct.
 
 - Für mehrere Partner, den gleichen Kunden oder Kunden, die direkt mit Microsoft arbeiten: Es gibt verschiedene Berechnungen von **Kunden Ergänzungen** und **Kunden Verlust** in Fällen, in denen mehrere Partner dem gleichen Kunden durch verschiedene Abonnements zugeordnet sind, oder für Fälle, in denen der Kunde möglicherweise bereits direkt mit Microsoft arbeitet. Diese Berechnungen werden unten angezeigt.
 

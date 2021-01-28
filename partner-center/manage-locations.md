@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Standorten im Partnerkonto
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie einen neuen Standort hinzufügen und wie die Standort-MPN-ID in Incentive-Programmen, CSP-Geschäftsaktionen, Abonnements und anderen Transaktionen verwendet wird.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773429"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98925045"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>Verwalten von MPN-Kontostandorten und Hinzufügen eines neuen Standorts
 
@@ -35,45 +35,51 @@ Contoso hat sein globales Partnerkonto (Partner Global Account, PGA) im Vereinig
 
 :::image type="content" source="images/locations/locations1.png" alt-text="Struktur von MPN-Standorten":::
 
-## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>Voraussetzungen für das Hinzufügen eines neuen Kontospeicherorts für ein CSP-Geschäft
+## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>Voraussetzungen für das Hinzufügen eines neuen Kontos für ein CSP-Geschäft
 
-Zum Hinzufügen eines neuen CSP-Geschäftsstandorts müssen mehrere Voraussetzungen erfüllt sein:
+Zum Hinzufügen eines neuen CSP-Geschäftskontos müssen Sie zunächst sicherstellen, dass die Voraussetzungen erfüllt sind.
 
-1. Sie müssen über eine Standort-MPN-ID in dem Land/der Region verfügen, in dem/der Sie geschäftlich tätig sein möchten.
-
-1. Sie benötigen einen neuen Azure AD-Mandanten in der [Geschäftsregion](regional-authorization-overview.md), der nicht bereits in CSP registriert ist. Erstellen Sie diesen bei der Registrierung in CSP.
- 
-3. Verwenden Sie den neuen AAD-Mandanten, um sich beim CSP-Programm in der Region zu registrieren.
-Geben Sie rechtliche Firmendetails an, einschließlich des rechtsgültigen Firmennamens, der Adresse sowie Angaben zum primären Kontakt. Dieses Konto wird überprüft. Stellen Sie daher sicher, dass Sie gültige Informationen hinzufügen.
+1. Sie müssen über eine Standort-MPN-ID in dem Land verfügen, in dem Sie CSP-Geschäfte tätigen möchten. Wenn Sie einen neuen MPN-Standort erstellen möchten, lesen Sie „Hinzufügen eines MPN-Standorts“ weiter unten.
+  
+1. Wenn Sie eine neue CSP Indirect Reseller-Registrierung erstellen möchten, lesen Sie [Arbeiten mit indirekten Anbietern](indirect-reseller-tasks-in-partner-center.md#get-started). 
 
 >[!NOTE] 
- >Denken Sie daran, sich mit den **neuen** Anmeldeinformationen für den **neuen** Azure AD-Mandanten anzumelden. Verwenden Sie nicht Ihre schon vorhandenen Anmeldeinformationen, da Partner Center erkennt, dass Sie bereits über ein Konto verfügen.
+ >Denken Sie daran, sich mit den **neuen** Anmeldeinformationen für das **neue** CSP-Konto anzumelden. Verwenden Sie nicht Ihre schon vorhandenen Anmeldeinformationen, da Partner Center erkennt, dass Sie bereits über ein Konto verfügen.
 
-4. Stimmen Sie der Microsoft Partner-Vereinbarung zu, und aktivieren Sie das Konto.
+2. Stimmen Sie der Microsoft Partner-Vereinbarung zu, und aktivieren Sie das Konto.
 
-## <a name="add-an-mpn-location"></a>Fügen Sie einen Standort für das MPN hinzu.
+## <a name="add-an-mpn-location"></a>Hinzufügen eines MPN-Standorts
 
-1. Melden Sie sich mit dem MPN-Konto im Partner Center an. Das MPN-Konto sollte über globale Administratorrechte oder Kontoadministratorrechte verfügen. 
+1. Melden Sie sich mit dem MPN-Konto im Partner Center an. (Ihre MPN-Anmeldeinformationen können sich von Ihren CSP-Anmeldeinformationen unterscheiden.) Das MPN-Konto sollte über globale Administratorrechte oder Kontoadministratorrechte verfügen. 
 
-1. Wählen Sie das **Einstellungssymbol** und anschließend die **Organisationseinstellungen** aus.
+1. Wählen Sie über das Symbol **Einstellungen** die **Kontoeinstellungen** und dann **Organisationsprofil** aus.
 
-2. Wählen Sie **Rechtliche Hinweise** und dann **Standorte** aus.
+2. Wählen Sie **Rechtliche Hinweise** und dann auf der Registerkarte **Partner** die Option **Geschäftsstandorte** aus. Klicken Sie anschließend auf **Standort hinzufügen**.
 
-3. Wählen Sie **Standort hinzufügen** aus, und fügen Sie die Adressdetails des Standorts ein, den Sie Ihrem Unternehmen hinzufügen möchten. Geben Sie auch einen Hauptansprechpartner für den Standort an.
+3. Geben Sie die erforderlichen Details einschließlich Firmenname, Adresse und Ansprechpartner für den Standort an, den Sie Ihrem Unternehmen hinzufügen möchten.
+ 
+1. Klicken Sie auf **Standort hinzufügen**. Dadurch wird eine neue MPN-ID für den neuen Standort erstellt, die Sie für CSP-Transaktionen und -Incentives verwenden können.
+
+:::image type="content" source="images/legal-biz.png" alt-text="Hinzufügen eines neuen Rechtsgeschäfts":::
 
 > [!NOTE]
 > In Partner Center hinzugefügte Standorte können nicht mehr entfernt werden. Wenn Sie die richtige MPN-ID für die Anmeldung verwendet haben, wird **MPN** im linken Menü von Partner Center angezeigt.
 
-## <a name="change-global-partner-account-location"></a>Ändern des globalen Partnerkontostandorts
+## <a name="change-country-of-partner-global-account"></a>Ändern des Lands für das globale Partnerkonto 
 
-1. Überprüfen Sie auf der Seite **[Geschäftsstandorte](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** die Liste der Standorte, um sicherzustellen, dass der Standort, den Sie als juristische Entität wünschen, aufgeführt ist. Wenn dies nicht der Fall ist, fügen Sie ihn hinzu.
+1. Melden Sie sich mit dem MPN-Konto im Partner Center an. (Ihre MPN-Anmeldeinformationen können sich von Ihren CSP-Anmeldeinformationen unterscheiden.) Das MPN-Konto sollte über globale Administratorrechte oder Kontoadministratorrechte verfügen. 
 
-   :::image type="content" source="images/accountsettings/location1.png" alt-text="Screenshot: Liste aller aktuellen Standorte auf der Seite mit den Standorten für Partner Center-Konten":::
+2. Wechseln Sie auf der Registerkarte **Partner** zu **Geschäftsstandorte**, und prüfen Sie die Liste der Standorte, um sicherzustellen, dass der Standort, den Sie als juristische Entität wünschen, aufgeführt ist. 
+ 
+1. Zum Hinzufügen eines Standorts klicken Sie auf **Standort hinzufügen**, und geben Sie im Flyout die erforderlichen Details einschließlich Firmenname, Adresse und Hauptansprechpartner für den Standort an, den Sie Ihrem Unternehmen hinzufügen möchten. 
+ 
+1. Wählen Sie neben der Dropdownliste **Land/Region** die Option **Land ändern** aus, und folgen Sie den angegebenen Schritten. 
 
-2. Wählen Sie **Rechtliche Hinweise** aus, und wählen Sie dann **Firmenprofil aktualisieren** aus.
-  
-3. Wählen Sie die Region und die juristische Entität aus, und klicken Sie auf **Senden**.
+:::image type="content" source="images/lbp.png" alt-text="Flyout mit Daten des Rechtsgeschäftsprofils":::
 
+5. Klicken Sie auf **Speichern**.
+
+6. Das Land des globalen MPN-Kontos wird in das neue rechtsgültige Land geändert.
   
 ## <a name="next-steps"></a>Nächste Schritte
 

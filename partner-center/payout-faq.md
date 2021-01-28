@@ -1,5 +1,5 @@
 ---
-title: FAQ zu Auszahlungs-und Steuer Profilen
+title: Häufig gestellte Fragen zu Auszahlungen und Steuerprofilen
 description: Hier erhalten Sie Antworten auf häufig gestellte Fragen zu Auszahlungs-und Steuer Details im Partner Center. Hier finden Sie Antworten zu den Gründen, aus denen sich Ihre Einnahmen unterscheiden.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/25/2020
-ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492584"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924902"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Häufige Fragen zu Auszahlungen und Steuern
 
@@ -128,10 +128,6 @@ Suchen Sie im heruntergeladenen Transaktionsverlauf nach der Spalte für das Ste
 
 Navigieren Sie auf der Seite für die Auszahlungszahlung zum Bereich mit der Zahlungsliste.  Für Zahlungen mit Steuer auf Servicegebühren wird ein Link zum entsprechenden Steuerformular angezeigt.
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Wie kann ich ein Formular für die Quellensteuer als PDF herunterladen?
-
-Navigieren Sie auf der Seite für die Auszahlungszahlung zum Bereich mit der Zahlungsliste.  Neben einer Zahlung wird ein Link zu einem Quellensteuerformular angezeigt.
-
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Wo finde ich die Steuerformulare für das Jahresende?
 
 Navigieren Sie zur [Profilseite](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage), um die Steuerformulare für das Jahresende anzuzeigen.
@@ -170,7 +166,7 @@ Navigieren Sie auf der Seite für die Auszahlungszahlung zum Bereich mit der Zah
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Gewusst wie ein Steuerformular für die Zurückhaltung in PDF herunterladen?
 
-Navigieren Sie auf der Seite für die Auszahlungszahlung zum Bereich mit der Zahlungsliste.  Neben einer Zahlung wird ein Link zu einem Quellensteuerformular angezeigt.
+Navigieren Sie auf der Seite für die Auszahlungszahlung zum Bereich mit der Zahlungsliste.  Neben einer Zahlung wird ein Link zu einem Quellensteuerformular angezeigt. Ein Steuerformular für die zurück Haltungs Steuerung gilt nur für ausgewählte Incentive-Programme, nicht für eine kommerzielle Marketplace-Auszahlung.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Wo finde ich die Steuerformulare für das Jahresende?
 

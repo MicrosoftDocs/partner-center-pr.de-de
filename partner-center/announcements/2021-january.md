@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/15/2021
-ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.date: 01/20/2021
+ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571668"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717827"
 ---
 # <a name="january-2021-announcements"></a>Ankündigungen für Januar 2021
 
@@ -23,6 +23,124 @@ Auf dieser Seite finden Sie Informationen zu den Ankündigungen vom Januar 2021
 Ankündigungen für 2021: Januar
 
 Ankündigungen für 2020: [Mai](2020-may.md) | [Juni](2020-june.md) | [Juli](2020-july.md) | [August](2020-august.md) | [September](2020-september.md) | [Oktober](2020-October.md) | [November](2020-november.md) | [Dezember](2020-december.md)  
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> Änderungen der Partner Center-Überwachungsprotokolle zur Einbeziehung zwei neuer Vorgangstypen für DAP
+
+### <a name="categories"></a>Kategorien
+
+- Datum: 25.01.2021
+- Funktionen
+
+### <a name="impacted-audience"></a>Zielgruppe
+
+Alle CSP-Partner
+
+### <a name="details"></a>Details
+
+Wie heute angekündigt, freuen wir uns, Ihnen mitteilen zu können, dass zwei neue Vorgangstypen in den Partner Center-Aktivitätsprotokollen bereitgestellt wurden, damit es für die Partner zu erkennen ist, wenn der Kunde die delegierten Administratorbeziehungen genehmigt oder entfernt hat.
+
+Die neuen Vorgangstypen lauten wie folgt:
+
+„operationType“: „dap_admin_relationship_terminated“
+
+„operationType“: „dap_admin_relationship_approved“
+
+### <a name="next-steps"></a>Nächste Schritte
+
+- Nutzen Sie die neuen Vorgangstypen, um die Ereignisse zu verfolgen, wenn der DAP vom Kunden genehmigt und vom Kunden beendet wurde.  
+- [Abrufen einer Aufzeichnung der Partner Center-Aktivität –Partner Center-App-Entwickler | Microsoft-Dokumentation](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Überwachungsressourcen – Partner Center-App-Entwickler | Microsoft-Dokumentation](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+
+### <a name="questions"></a>Haben Sie Fragen?
+
+Bei weiteren Fragen können Sie sich an die entsprechende CSP-Yammer-Community wenden.
+
+________________
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Änderungen der Verfügbarkeit des Azure-Angebots in CSP in Bezug auf das neue E-Commerce-Verfahren in CSP für Azure
+
+### <a name="categories"></a>Kategorien
+
+- Datum: 21.01.2021
+- Funktionen
+ 
+### <a name="impacted-audience"></a>Zielgruppe
+
+Alle Partner, die Transaktionen im Rahmen des CSP-Programms (Cloud Solution Provider) ausführen
+
+### <a name="details"></a>Details:
+
+#### <a name="the-new-commerce-experience-for-azure-in-csp"></a>Neues E-Commerce-Verfahren für Azure in CSP
+
+Das neue Microsoft E-Commerce-Verfahren sorgt für einen konsistenten und vereinfachten Kaufvorgang und ermöglicht Kunden eine digitale Transformation mit größerer Flexibilität in Bezug auf Art und Ort des Erwerbs. Partner spielen eine wichtige Rolle beim Weg der Kunden in die Cloud, unabhängig von den Kanälen, für die sich Kunden in Bezug auf Transaktionen mit Microsoft entscheiden. Sobald die aktualisierte E-Commerce-Plattform und das Modell vollständig eingeführt sind, können sich Partner über Vertriebsprozesse für größere Unternehmenskunden sowie für kleine und mittelständische Unternehmen beteiligen und erhalten Möglichkeiten, um ihre Beteiligung bei der Steigerung des Kundenerfolgs auszuweiten.
+
+Das neue E-Commerce-Verfahren für Azure im Cloud Solution Provider-Programm bietet Partnern mehr Möglichkeiten, verwaltete Dienste zu erstellen und bereitzustellen, den Kundenstamm weiter auszubauen und Kunden bei der digitalen Transformation zu unterstützen.
+
+Das neue E-Commerce-Verfahren bietet die folgenden Vorteile:
+
+- Vereinfacht den Azure-Kaufvorgang mit einem Azure-Plan.
+- Sorgt für eine bessere Preisabstimmung über alle Kanäle. Basierend auf dem Feedback von Kunden und Partnern wird beim neuen Azure-Verfahren im Cloud Solution Provider-Programm eine einzige Preisliste in USD verwendet, um Kunden und Partnern einheitliche Preise auf globaler Ebene zu bieten.
+- Durch die Bereitstellung von Tools, die die entsprechende Governance, Benutzerfreundlichkeit und Richtlinien für den Übergang zum neuen Azure-Verfahren im Cloud Solution Provider-Programm beinhalten, werden Hindernisse bei der Kundenakquisition verringert.
+- Ermöglicht Partnern eine effizientere Verwaltung ihrer Kunden durch die Nutzung von Funktionen wie Azure Lighthouse und Azure Cost Management. 
+- Erweitert den Zugriff auf Azure Marketplace.
+
+Bei der Erweiterung auf das neue E-Commerce-Verfahren für Azure haben wir Übergangstools bereitgestellt, die für größere Flexibilität bei der Verwaltung von Azure sorgen, um eine Anpassung an die sich entwickelnden Geschäftsanforderungen von Kunden zu ermöglichen und Ihren Kunden den Einstieg in das neue Azure-Angebot im Cloud Solution Provider-Programm zu erleichtern. Sehen Sie sich die Übersicht über die Tools an, die zur Unterstützung des Übergangs von Azure-Kundenabonnements im Cloud Solution Provider-Programm bereitstehen.
+
+#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>Neues Azure-Angebot im Cloud Solution Provider-Programm (Azure-Plan)
+
+Beim neuen E-Commerce-Verfahren erhalten die Partner über einen Azure-Plan Zugriff auf Azure-Dienste zu nutzungsbasierten Tarifen im Rahmen der Microsoft-Kundenvereinbarung. Dieser Plan vereinfacht den Kaufvorgang, da mehrere Azure-Abonnements in einem Azure-Plan erstellt werden können. Es ist nicht mehr erforderlich, eine separate Bestellung pro Azure-Abonnement im Partner Center zu übermitteln.
+
+#### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>Änderungen der Verfügbarkeit des vorherigen Azure-Angebots im Cloud Solution Provider-Programm
+
+Bei der Ankündigung des neuen Azure-Angebots im Cloud Solution Provider-Programm (Azure-Plan) wurden die Partner darüber informiert, dass das vorherige Azure-Angebot und die Azure-Plattform noch einige Zeit parallel zum neuen Azure-Verfahren verfügbar sein werden und dass die Partner sechs Monate im Voraus informiert werden, bevor Änderungen am vorherigen Azure-Angebot vorgenommen werden.
+
+Obwohl das neue Azure-Angebot im Cloud Solution Provider-Programm (Azure-Plan) Partnern ein verbessertes Verfahren bietet, möchten wir den Partnern Zeit geben, die neuen Azure-Funktionen in ihre Diensten zu integrieren und ihre Kunden auf das neue Verfahren umzustellen.
+
+Die Änderung des vorherigen Azure-Angebots erfolgt in drei Phasen. Heute erhalten Sie weitere Informationen zu diesen drei Phasen.
+
+#### <a name="three-phases"></a>Drei Phasen
+
+**Phase 1 – ab 21. Juli 2021**
+
+In Phase 1 werden alle neuen Geschäftsvorgänge im Rahmen des Azure Cloud Solution Provider-Programms mit dem neuen Azure-Planangebot durchgeführt. Es gelten die folgenden Richtlinien:
+
+- Für alle bestehenden Vertriebspartnerschaften zwischen Partnern und Kunden im Cloud Solution Provider-Programm gilt: Wenn der Kunde bereits das vorherige Azure-Angebot erworben hat, kann der Partner weiterhin Transaktionen dafür durchführen, und der Kunde kann weiterhin das vorherige Azure-Angebot von diesem Partner erwerben.
+- Das vorherige Azure-Angebot ist für neue Partner, die Transaktionen in CSP durchführen, nicht mehr verfügbar.
+- Das vorherige Azure-Angebot ist für neue Kunden, die über einen Partner in CSP kaufen, nicht mehr verfügbar.
+- Für alle neuen Vertriebspartnerschaften oder Neukundenakquisitionen können Partner nur Transaktionen für das neue Azure-Angebot (Azure-Plan) durchführen.
+- Für alle bestehenden Vertriebspartnerschaften zwischen Partnern und Kunden gilt: Wenn der Kunde noch nie Azure erworben hat, darf der Partner nur Transaktionen für das neue Azure-Angebot durchführen, und der Kunde darf nur das neue Azure-Angebot von diesem Partner erwerben.
+
+**Phase 2 – im Laufe des Kalenderjahrs 2022**
+
+In Phase 2, die im Laufe des Kalenderjahrs 2022 beginnen wird, werden Incentives und die Möglichkeit von Partnermargen aus dem vorherigen Azure-Angebot entfernt. Der Starttermin der Phase 2 wird den Partnern 6 Monate im Voraus mitgeteilt.
+
+**Phase 3 – Datum noch festzulegen**
+
+In Phase 3 werden alle verbleibenden Kunden des vorherigen Azure-Angebots zum neuen Azure-Angebot im Cloud Solution Provider-Programm (Azure-Plan) migriert. Wie bei den vorherigen Phasen wird auch der Starttermin der Phase 3 den Partnern 6 Monate im Voraus mitgeteilt.
+
+#### <a name="partner-earned-credit-pec"></a>Vom Partner erworbenes Guthaben (PEC)
+
+Beim neuen E-Commerce-Verfahren werden individuelle Mehrwertdienste von Partnern durch das Modell für vom Partner erworbenes Guthaben fortlaufend anerkannt. Mit dem vom Partner erworbenen Guthaben werden Partner belohnt, die sich auf die Steigerung des Kundenerfolgs durch Mehrwertdienste konzentrieren, die nachhaltige Rentabilität generieren.
+
+### <a name="next-steps"></a>Nächste Schritte:
+
+Partnern wird dringend empfohlen, sich mit den folgenden Ressourcen vertraut zu machen:
+
+#### <a name="partner-earned-credit-pec"></a>Vom Partner erworbenes Guthaben (PEC)
+
+- [Grundlegende Informationen zu vom Partner erworbenen Guthaben (Leitfaden) (microsoft.com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
+- [Vom Partner erworbenes Guthaben – Übersicht – Partner Center | Microsoft-Dokumentation](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
+- [Vom Partner erworbenes Guthaben für verwaltete Dienste – Partner Center | Microsoft-Dokumentation](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
+- [Rollen und Berechtigungen für vom Partner erworbenes Guthaben – Partner Center | Microsoft-Dokumentation](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [On-Demand-Schulungsmodul für vom Partner erworbenes Guthaben in Azure in CSP-Modulen (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
+
+#### <a name="the-new-commerce-experience"></a>Neues E-Commerce-Verfahren
+
+- [Ressourcenkatalog für Partner: Neues E-Commerce-Verfahren in CSP für Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+
+### <a name="questions"></a>Haben Sie Fragen?
+
+Bei Fragen im Zusammenhang mit dieser Benachrichtigung wenden Sie sich an den [Partner Center-Support](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ________________
 ## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Unbefristete Software ist jetzt allgemein im Cloud Solution Provider-Programm verfügbar
@@ -40,12 +158,11 @@ Alle CSP-Partner
 
 Wie heute [angekündigt](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/), freuen wir uns, Ihnen mitteilen zu können, dass kommerzielle, unbefristete Softwarelizenzen nun allen CSP-Partnern allgemein zum Verkauf zur Verfügung stehen. Die CSP-Preisliste für unbefristete Software im Partner Center wurde neu veröffentlicht und enthält jetzt weitere Produkte und geografische Regionen.
 
-Beachten Sie auch, dass ab heute die Partner Center-Funktionen für Software und Lizenzschlüssel eingestellt werden und dass Partner und Kunden künftig das Microsoft 365 Admin Center für diesen Zweck verwenden sollten.
-Weitere Informationen und die nächsten Schritte sind unten angegeben.
+Beachten Sie auch, dass ab heute die Partner Center-Funktionen für Software und Lizenzschlüssel eingestellt werden und dass Partner die Kunden zukünftig auf das Microsoft 365 Admin Center für diesen Zweck verweisen sollten. Weitere Informationen und die nächsten Schritte sind unten angegeben.
 
 ### <a name="next-steps"></a>Nächste Schritte
 
-- Laden Sie die **CSP-Preisliste für unbefristete Software** im Abschnitt **Software** auf der Partner Center-Seite [Preise und Angebote](https://partnercenter.microsoft.com/en-us/pcv/sales) herunter. Eine Auflistung der neu hinzugefügten Produkte und geografischen Regionen finden Sie [hier](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
+- Laden Sie die **CSP-Preisliste für unbefristete Software** im Abschnitt **Software** auf der Partner Center-Seite [Preise und Angebote](https://partnercenter.microsoft.com/pcv/sales) herunter. Eine Auflistung der neu hinzugefügten Produkte und geografischen Regionen finden Sie [hier](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 - Lesen Sie die [Anleitung zum Herunterladen von unbefristeter Software und Lizenzschlüsseln im Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/p/?linkid=2152525), und geben Sie diese Informationen an Ihre Kunden weiter, wenn sie zum Herunterladen ihrer Software und Lizenzschlüssel bereit sind.
 - Sehen Sie sich die Readiness-Materialien für [unbefristete Software im Cloud Solution Provider-Programm](https://partner.microsoft.com/resources/collection/software-in-csp#/) an. Verwenden Sie diese [Readiness-Karte](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf), um schnell die richtigen Informationen für Ihre Rolle zu finden.
 
@@ -431,7 +548,7 @@ Microsoft kündigt anstehende neue Änderungen der Dynamics 365-Angebote an, di
 
 Am 1. Februar 2021 stellt Microsoft ein neues Angebot für zusätzliche Antworten (Additional Response) mit einer Berechtigung für 1.000 Antworten als Ersatz für das bestehende Angebot mit 2.000 Umfrageantworten bereit, dessen Verkauf am 1. Februar 2021 endet.
 
-Details zur SKU können Sie dem Tabellenblatt „Customer Voice Addl Resp“ im Excel-Dokument für [Dynamics CSP-Angebote im Februar 2021](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) entnehmen. Weitere Informationen finden Sie auf der [Homepage zu Dynamics 365 Customer Voice](https://dynamics.microsoft.com/en-us/customer-voice/overview/).
+Details zur SKU können Sie dem Tabellenblatt „Customer Voice Addl Resp“ im Excel-Dokument für [Dynamics CSP-Angebote im Februar 2021](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) entnehmen. Weitere Informationen finden Sie auf der [Homepage zu Dynamics 365 Customer Voice](https://dynamics.microsoft.com/customer-voice/overview/).
 
 **Dynamics 365 Customer Service Insights – Ende des Lebenszyklus**
 

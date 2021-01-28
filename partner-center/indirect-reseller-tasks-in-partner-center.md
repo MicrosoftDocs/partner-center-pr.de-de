@@ -1,29 +1,27 @@
 ---
 title: Arbeiten mit indirekten Anbietern im CSP-Programm
 ms.topic: how-to
-ms.date: 12/16/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie indirekte Vertriebspartner mit indirekten Microsoft-Anbietern (oder Distributoren) zusammenarbeiten können, um Unterstützung beim Kundensupport und bei der Abrechnung zu erhalten.
 ms.prod: ''
 ms.custom: contperf-fy21q2
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97636023"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773443"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Informationen zum Arbeiten mit indirekten Anbietern im Cloud Solution Provider-Programm
 
 **Geeignete Rollen**
 
-
-- Alle Microsoft-Partner, die an einer Registrierung für das Cloud Solution Provider-Programm interessiert sind
-
+- Globaler Administrator
 
 Die rasant wachsende Nachfrage nach cloudbasierten Lösungen und Diensten bietet Microsoft-Partnern aller Größen zahlreiche Chancen für den Aufbau eines rentablen Cloudlösungsgeschäfts. Partner, die auf den Markt gehen, aber nicht mehrere Anbieter verwalten möchten oder die über keine Infrastruktur für das End-to-End-Kundenbeziehungsmanagement verfügen, können sich beim Microsoft-Programm für Cloud-Lösungsanbieter (Cloud Solution Provider, CSP) als indirekter Wiederverkäufer registrieren.
 
@@ -80,12 +78,11 @@ Ab Oktober 2020 registrieren sich alle Microsoft-Partner, die erstmalig am CSP-
 
 5. Ordnen Sie Ihre MPN-ID Ihrem Azure AD-Mandanten zu.
 
-    1. Wählen Sie unter **Kontoeinstellungen** die Option **Bezeichner** aus.
-
-    1. Verwenden Sie im Abschnitt **CSP** den Link **Aktualisieren**, um die MPN-ID zu aktualisieren, die Ihrem CSP-Konto zugeordnet ist. 
- 
+    1. Melden Sie sich mit Ihrem MPN-Konto an. Wechseln Sie zu **Einstellungen** -> **Kontoeinstellungen** -> **Organisationsprofil** -> **Bezeichner**. Zeigen Sie Ihre MPN-IDs an, und wählen Sie die ID aus, deren Land dem Land Ihres CSP-Kontos entspricht. Anders ausgedrückt: Ihr CSP-Konto und die zugehörige MPN-ID müssen sich in demselben Land bzw. derselben Region befinden.
+    
+     
  > [!IMPORTANT]  
-   > Wählen Sie die MPN-ID aus, die mit dem aktiven Unternehmensprofil verknüpft ist, das sich im selben Land/in derselben Region befindet wie Ihr Azure AD-Mandant.
+   > Wählen Sie die MPN-ID aus, die sich im gleichen Land oder der gleichen Region wie Ihr CSP-Konto befindet.
 
 6. Wenn dein Partner Center-Konto einsatzbereit ist, vergewissere dich, ob du der Administrator-Agent-Gruppe hinzugefügt wurdest. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
 
@@ -146,5 +143,5 @@ Ihr offizieller Geschäftsstandort als indirekter Wiederverkäufer (CSP Indirect
 - [Erstellen eines Unternehmensprofils](create-a-marketing-profile.md)
 
 - [Weitere Informationen zum Überprüfungsprozess](verification-responses.md)
- 
+
 - [Siehe die Anforderungen für Partner mit direkter Abrechnung](direct-partner-new-requirements.md)

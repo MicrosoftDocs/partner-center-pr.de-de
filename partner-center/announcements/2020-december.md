@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182561"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705044"
 ---
 # <a name="december-2020-announcements"></a>Ankündigungen für Dezember 2020
 
@@ -280,7 +280,7 @@ Am gleichen Tag findet auch Folgendes statt:
 
 - Die CSP-Preisliste für unbefristete Software wird im Partner Center neu veröffentlicht. Sie finden sie im Abschnitt **Software** auf der Seite [Verkaufen > Preise und Angebote](https://partnercenter.microsoft.com/pcv/sales), die weitere Produkte und geografische Regionen enthält. Ausführliche Informationen finden Sie [hier](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
 
-- Die Partner Center-Funktionen für Software und Lizenzschlüssel werden eingestellt (siehe [Ankündigung](./2020-september.md#17)), und Partner verwenden in Zukunft ausschließlich das Microsoft 365 Admin Center für diesen Zweck. Dadurch wird die sicherste und effizienteste Methode für Kunden gewährleistet. Informieren Sie sich über die Microsoft 365 Admin Center-Software in der [Übersicht](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) sowie unter den [häufigen Aufgaben](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) und den [Funktionen für Lizenzschlüssel](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
+- Die Partner Center-Funktionen für Software und Lizenzschlüssel werden eingestellt (siehe [Ankündigung](./2020-september.md#17)), und Partner weisen die Kunden darauf hin, in Zukunft ausschließlich das Microsoft 365 Admin Center für diesen Zweck zu nutzen. Dadurch wird die sicherste und effizienteste Methode für Kunden gewährleistet. Informieren Sie sich über die Microsoft 365 Admin Center-Software in der [Übersicht](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) sowie unter den [häufigen Aufgaben](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide) und den [Funktionen für Lizenzschlüssel](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf).
 
 ### <a name="perpetual-software-in-csp"></a>Unbefristete Software im CSP-Programm
 

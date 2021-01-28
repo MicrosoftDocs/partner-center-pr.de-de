@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
-ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
+ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94878799"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705010"
 ---
 # <a name="september-2020-announcements"></a>Ankündigungen für September 2020
 
@@ -36,7 +36,7 @@ Alle CSP-Partner (Cloud Solution Partner), die Transaktionen für Softwareangebo
 
 ### <a name="details"></a>Details
 
-Derzeit können Partner entweder Partner Center oder das Microsoft 365 Admin Center für den Download von Software und Lizenzschlüssel für CSP-Softwarebestellungen verwenden. Ab dem **19. Januar 2021** werden die Partner Center-Funktionen für Software und Lizenzschlüssel eingestellt, und Partner verwenden ausschließlich das **Microsoft 365 Admin Center** für diesen Zweck. Die Seite für Kundensoftware im Partner Center enthält dann einen „Deep-Link“ zum Microsoft 365 Admin Center, in dem Sie die Kundenlizenzen und Softwaredownloads abrufen können. Dadurch wird die sicherste und effizienteste Methode für Kunden gewährleistet.
+Derzeit können Partner entweder Partner Center oder das Microsoft 365 Admin Center für den Download von Software und Lizenzschlüssel für CSP-Softwarebestellungen verwenden. Ab dem **19. Januar 2021** werden die Partner Center-Funktionen für Software und Lizenzschlüssel eingestellt, und Partner weisen die Kunden darauf hin, ausschließlich das **Microsoft 365 Admin Center** für diesen Zweck zu nutzen. Die Seite für Kundensoftware im Partner Center enthält dann einen „Deep-Link“ zum Microsoft 365 Admin Center, auf den Sie die Kunden zum Abrufen der Kundenlizenzen und Softwaredownloads verweisen können. Dadurch wird die sicherste und effizienteste Methode für Kunden gewährleistet.
 
 Lizenzschlüssel und Downloadlinks für Software sind wertvolle und sehr gefragte Ressourcen geistigen Eigentums. Wenn diese kompromittiert werden, können die Aktivierungslimits schnell ausgeschöpft sein und eine negative Erfahrung für Kunden und Partner bewirken. Daher ist es sehr wichtig, dass Partner die sicherste Technologie und bewährte Methoden nutzen, um diese wertvollen Ressourcen und ihre Kunden zu schützen.
 

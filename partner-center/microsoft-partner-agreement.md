@@ -1,20 +1,20 @@
 ---
 title: Microsoft Partner-Vereinbarung (Microsoft Partner Agreement, MPA) für CSP
 ms.topic: how-to
-ms.date: 12/09/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über die Anforderungen an CSP-Partner von Microsoft, um diese einheitliche, digital akzeptierbare Microsoft Partner-Vereinbarung zu überprüfen und zu signieren.
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105510"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773456"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informationen zur Microsoft Partner-Vereinbarung für Partner im CSP-Programm
 
@@ -68,6 +68,20 @@ Sie müssen die Microsoft Partner-Vereinbarung vor dem 31. Januar 2020 unterzei
 
 Denken Sie daran, den CSP-Partnerschaftsantrag mit Ihrem indirekten Anbieter zu akzeptieren.
 
+## <a name="sign-the-mpa"></a>Unterzeichnen der MPA
+
+1. Melden Sie sich mit Ihrem CSP Indirect Reseller-Konto beim Partner Center an. Sie müssen der globale Administrator sein.
+1. Wechseln Sie zur Seite **[CSP-Übersicht](https://partner.microsoft.com/pcv/dashboard/overview)** .  Wenn weder **Zustimmen und fortfahren** noch das grüne Banner angezeigt wird, das Ihnen mitteilt, dass die MPA unterzeichnet ist, verfügen Sie nicht über die richtige Rolle zum Unterzeichnen der MPA. Wenden Sie sich zum Unterzeichnen der MPA an Ihren globalen Administrator.
+
+1. Wenn Sie die **Microsoft Partner-Vereinbarung** vor der Unterzeichnung anzeigen und herunterladen möchten, klicken Sie wie unten gezeigt auf den Link für die Microsoft Partner-Vereinbarung.
+
+:::image type="content" source="images/agreement-three.png" alt-text="Neue Position der MPA-Vereinbarung":::
+
+>[!NOTE]
+>Wenn der Link **Microsoft Partner-Vereinbarung** nicht angezeigt wird, überprüfen Sie Ihre Rolle im Partner Center. Nur globale Administratoren im CSP-Mandanten können die MPA im Partner Center anzeigen und unterzeichnen. Zum Überprüfen Ihrer Rolle wechseln Sie zu **Benutzerverwaltung**, und stellen Sie fest, ob das angemeldete Konto als **Globaler Administrator** gekennzeichnet ist. Andernfalls kann dieses Konto nicht zum Unterzeichnen der MPA verwendet werden. Auf der Seite „Benutzerverwaltung“ können Sie nach globalen Administratoren in Ihrem Unternehmen suchen.
+
+:::image type="content" source="images/user-management-clean.png" alt-text="Suchen nach Ihrer Rolle":::
+
 ## <a name="verify-that-you-have-signed-the-mpa"></a>Überprüfen, ob Sie die MPA unterzeichnet haben
 
 So überprüfen Sie, ob Sie die MPA unterzeichnet haben:
@@ -75,17 +89,17 @@ So überprüfen Sie, ob Sie die MPA unterzeichnet haben:
  Wechseln Sie als globaler Administrator für Ihr Unternehmen zur [CSP-Übersicht](https://partner.microsoft.com/pcv/dashboard/overview), und überprüfen Sie, ob das grüne Banner angezeigt wird, das bestätigt, dass Sie die MPA akzeptiert haben.
 
  
-:::image type="content" source="images/mpagreen.png" alt-text="Grünes Banner, das die Annahme der MPA bestätigt":::
+:::image type="content" source="images/banner-boxed.png" alt-text="Grünes Banner, das die Annahme der MPA bestätigt":::
 
 >[!NOTE]
 >Nur der globale Administrator in Ihrem Unternehmen kann die MPA anzeigen und unterzeichnen. Wenn Sie nicht der globale Administrator sind, müssen Sie Ihren globalen Administrator bitten, die MPA zu überprüfen.
 
 Sie können auch feststellen, ob Sie die Vereinbarung unterzeichnet haben, indem Sie unter **Kontoeinstellungen** die Option **Vereinbarungen** auswählen.
 
-:::image type="content" source="images/agreements/agreements.png" alt-text="Angabe, dass die MPA unterzeichnet wurde":::
+:::image type="content" source="images/agreement-new.png" alt-text="Angabe, dass die MPA unterzeichnet wurde":::
 
 
-## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>Herunterladen der entsprechenden schrittweisen Anleitung für die jeweilige Prozessphase
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>Herunterladen der entsprechenden schrittweisen Anleitung für die jeweilige Phase des MPA-Unterzeichnungsvorgangs
 
 1. Wenn Sie Ihr MPN-Konto vom PMC zum Partner Center migrieren: [Migrieren vom PMC zum Partner Center und Akzeptieren der Microsoft Partner-Vereinbarung](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 

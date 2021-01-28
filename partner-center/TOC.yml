@@ -51,6 +51,9 @@
         - name: Finden Ihrer MPN-Vorteile
           href: mpn-find-benefits.md
           displayName: mpn
+        - name: Bezahlen von Kompetenzgebühren
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
     - name: Kompetenzen
       items:
         - name: Weitere Informationen zu Kompetenzen

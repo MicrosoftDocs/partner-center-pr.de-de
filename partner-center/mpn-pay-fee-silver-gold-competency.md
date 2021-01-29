@@ -1,19 +1,19 @@
 ---
 title: Bezahlen der Gebühr für eine MPN-Kompetenz
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 01/28/2021
 description: Erfahren Sie, wie Sie die Gebühr bezahlen oder Zahlungsdetails aktualisieren, die mit dem erwerben oder Erneuern von einem oder mehreren Silber-oder Gold-Kompetenzen verknüpft sind.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ad807f958dd568fe098e341b80429bf517fb87d
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98921075"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042683"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Bezahlen der mit einer Silver-oder Gold-Kompetenz verbundenen Gebühr
 
@@ -25,7 +25,7 @@ ms.locfileid: "98921075"
 In diesem Artikel wird beschrieben, wie und wann die Kosten für das Erreichen einer Silver-oder Gold-Microsoft Partner Network Kompetenz abgerechnet werden. Außerdem wird beschrieben, wie Sie Ihre bevorzugte Zahlungsmethode ändern, wie Sie eine Bestellung abbrechen können und wie Sie bei der Umstellung von einer Silver-in Gold-Kompetenz einen Rabatt in Höhe von 25% erhalten.
 
 > [!NOTE]
-> Weitere Informationen zu den Vorteilen der Erzielung einer Silver-oder Gold-Kompetenz, den jeweiligen verfügbaren Kompetenzen und ihren besonderen Anforderungen finden Sie unter [Microsoft Partner Network Zuständigkeiten](https://partner.microsoft.com/membership/competencies). Weitere Informationen zu den Vorteilen der einzelnen verfügbaren Kompetenzen finden Sie auch in den Microsoft Partner Network [Lizenz Tabellen für Kompetenzen].
+> Weitere Informationen zu den Vorteilen der Erzielung einer Silver-oder Gold-Kompetenz, den jeweiligen verfügbaren Kompetenzen und ihren besonderen Anforderungen finden Sie unter [Microsoft Partner Network Zuständigkeiten](https://partner.microsoft.com/membership/competencies). Weitere Informationen zu den Vorteilen der einzelnen verfügbaren Kompetenzen finden Sie auch in den Microsoft Partner Network- [Lizenz Tabellen](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) .
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>Erfüllen der Anforderungen an die Kompetenz und Zahlung der Gebühr
 
@@ -43,7 +43,7 @@ Andernfalls führen Sie die folgenden Schritte aus, um die Gebühr für eine Sil
 
 2. Wählen Sie im Navigationsmenü [mitgliedschaftsangebote](https://partner.microsoft.com/dashboard/mpn/offers) aus. 
 
-3. Suchen Sie unter **Verfügbare Angebote** die Kachel "Silver Membership * *" oder " **Gold Membership** ", die mit ihrer jeweiligen Kompetenz verknüpft ist. 
+3. Suchen Sie unter Angebote, die **für den Kauf verfügbar** sind, die Kachel für die **Silver-Mitgliedschaft** oder die **goldene Mitgliedschafts** Kachel, die ihrer jeweiligen 
 
 4. Wählen Sie die Option **abonnieren** in der unteren rechten Ecke der jeweiligen Silver-oder Gold-Mitgliedschafts Kachel aus.
 
@@ -54,7 +54,7 @@ Andernfalls führen Sie die folgenden Schritte aus, um die Gebühr für eine Sil
 
 4. Überprüfen und bestätigen Sie auf der Seite " **Kauf Details** " die Details.
 
-   (Informieren Sie sich über [die Aktualisierung der **Steuer-ID** -Informationen Ihres Unternehmens](https://docs.microsoft.com/partner-center/organization-tax-info) oder der Rechnung Ihres Unternehmens [ **an** die Unternehmens Adresse](https://docs.microsoft.com/partner-center/mpn-get-action-pack).
+   (Informieren Sie sich über [die Aktualisierung der **Steuer-ID** -Informationen Ihres Unternehmens](https://docs.microsoft.com/partner-center/organization-tax-info) oder der Rechnung Ihres Unternehmens [ **an** die Unternehmens Adresse](https://docs.microsoft.com/partner-center/mpn-get-action-pack).)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Mitgliedschaft bietet die Seite &quot;Kauf Details&quot; mit Zahlungs Einstellungen." border="false":::
 
@@ -130,7 +130,7 @@ Wenn Sie Ihre Silber-oder Gold-Mitgliedschafts Gebühr über den elektronischen 
 
    :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="Detailseite mit den Feldern zum Hochladen einer auswählbaren Option zum Hochladen von Zahlungsnachweis für jedes erworbene Angebot." border="false":::
 
-1. Vervollständigen Sie die Informationen für die anderen Felder im Zusammenhang mit Ihrer aktuellen elektronischen Übertragungs Transaktion, z. b. **Zahlungsdatum**, * bezahlt an Kontonummer * * und **Transaktion/Ref Nr.**.
+1. Vervollständigen Sie die Informationen für die anderen Felder im Zusammenhang mit Ihrer aktuellen elektronischen Übertragungs Transaktion, wie z. b. **Zahlungsdatum**, **kostenpflichtige Kontonummer** und **Transaktion/Ref Nein**.
 
   Möglicherweise wird eine grüne Meldung angezeigt, die Sie darüber informiert, dass Ihre Anforderung erfolgreich abgeschlossen wurde.
 

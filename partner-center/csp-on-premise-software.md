@@ -1,7 +1,7 @@
 ---
 title: Verkaufen lokaler Software über das CSP-Programm
 ms.topic: how-to
-ms.date: 01/15/2021
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Partner im CSP-Programm lokale Software Abonnements im Auftrag von Kunden im Partner Center kaufen, verwalten, verkaufen und abbrechen können.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584173"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098855"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Verkaufen lokaler Software über das CSP-Programm (Cloud Solution Provider)
 
@@ -37,13 +37,16 @@ Um Softwareabonnements im Auftrag eines Kunden zu erwerben, wechseln Sie zur Det
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivieren und Verwalten von Softwareabonnements
 
-Nachdem Sie Ihre Software erworben haben, müssen Sie und ihre Kunden Sie herunterladen. Führen Sie dazu die nachfolgend aufgeführten Schritte aus. 
+Nachdem Sie Ihre Software erworben haben, müssen Ihre Kunden Sie herunterladen. Führen Sie dazu die nachfolgend aufgeführten Schritte aus.
 
 >[!NOTE]
 >Sie müssen ein Administrator-Agent sein, um Schlüssel abrufen und Software herunterladen zu können.
 
 1. Wechseln Sie zur Detailseite des Kunden, und wählen Sie dann **Software** aus. Sie sehen eine Liste der gesamten Software, die Sie im Auftrag des Kunden erworben haben.
-2. Kopieren Sie den Link von **Link zu Software Product Keys und Downloads,** und geben Sie den Link für Ihren Kunden frei. Wenn Sie diesen Link auswählen, werden Sie zum Microsoft Admin-Portal umgeleitet, um Ihre Product Keys herunterzuladen und abzurufen.
+2. Kopieren Sie den Deep-Link von **Link zu Software Product Keys und Downloads,** und geben Sie den Link für Ihren Kunden frei. Wenn Sie diesen Link auswählen, werden Sie an das Microsoft Admin Center umgeleitet, um Ihre Product Keys herunterzuladen und zu erhalten.
+
+>[!NOTE]
+>Nur Kunden können die Product Keys und Download Informationen im Microsoft Admin Center sehen. Partner können diese Informationen nicht sehen.
 
 Wenn Sie oder Ihre Kunden mehr über das Herunterladen von Lizenzschlüsseln erfahren möchten, finden Sie weitere Informationen unter [Herunterladen von Software und Produktlizenz Schlüsseln](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 

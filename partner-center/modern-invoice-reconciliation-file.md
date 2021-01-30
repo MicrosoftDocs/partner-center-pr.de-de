@@ -1,19 +1,19 @@
 ---
 title: Felder für das Wiederholen von Dateien für CSP-einmalige Käufe
 ms.topic: conceptual
-ms.date: 11/10/2020
+ms.date: 01/29/2021
 description: Erfahren Sie mehr über alle Elemente in ihrer CSP-Datei für die einmalige Kauf Abstimmung in Partner Center, einschließlich Beispiel Werten.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182578"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098804"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Felder für die einmalige Kauf Abstimmung von CSP-Dateien
 
@@ -64,6 +64,9 @@ Weitere Informationen zum Abgleich von Dateien finden Sie unter [use the Versöh
 | Pctobcexchangeratedate | Das Datum, an dem die Preiswährung der Abrechnungswährung festgelegt wird. | *30.09.2020* |
 | Meterbeschreibung | Beschreibung der Verbrauchseinheit.  | *Tabellen-lokal gespeicherte LRS-Daten (GB/Monat)* |
 | ReservationOrderId | Die Reservierungs Auftrags-ID. | *E21A6344E398FFC1C4D7...* |
+
+>[!NOTE]
+>Sie können Ihren Azure-Verbrauch in ihrer einmaligen Kauf Datei abstimmen. Wechseln Sie zu diesem Zweck zu Ihrer Datei für die tägliche Nutzung der Nutzungsdauer, und suchen Sie nach ihrer Abonnement-ID. Dadurch werden alle Kosten angezeigt, die ihrer Azure-Plan-ID zugeordnet sind. Ihre Azure-Abonnement-ID wird als "" "" "" "" "".
 
 ## <a name="next-steps"></a>Nächste Schritte
 

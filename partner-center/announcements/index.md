@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/27/2021
-ms.openlocfilehash: 6001199d4da9d000f82f16f9fcf2f945c3c3e08b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 01/28/2021
+ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924926"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042700"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,7 +22,8 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 | **Kategorie** | **Ankündigungen für Januar 2021** | **Angekündigt** |
 |---------|:---------|:---------|
-|Moderner Arbeitsplatz|[Änderung der Partnerabrechnungswährung für neue E-Commerce-Angebote in der EU/EFTA](2021-january.md#14)|27. Januar|
+|Moderner Arbeitsplatz|[Phase 1 jetzt aktiv: Änderung der Partnerabrechnungswährung für neue E-Commerce-Angebote in der EU/EFTA und im Vereinigten Königreich](2021-january.md#15)|28. Januar|
+|Moderner Arbeitsplatz|[Änderungen der Anforderungen für das Onboarding von Kunden im CSP-Programm (Cloud Solution Provider)](2021-january.md#14)|28. Januar|
 |Funktionen|[Aktualisierung und neue häufig gestellte Fragen zur Microsoft Partner-Vereinbarung (MPA) für indirekte Wiederverkäufer](2021-january.md#13)|27. Januar|
 |Funktionen|[Änderungen der Partner Center-Überwachungsprotokolle zur Einbeziehung zwei neuer Vorgangstypen für DAP](2021-january.md#12)|25. Januar|
 |Funktionen|[Änderungen der Verfügbarkeit des Azure-Angebots in CSP in Bezug auf die neue E-Commerce-Benutzeroberfläche in CSP für Azure](2021-january.md#11)|21. Januar|

@@ -36,3 +36,5 @@
   items:
     - name: Azure PowerShell
       href: /powershell/module/az.marketplace
+    - name: Bevorzugte Lösungen
+      href: preferred-solutions.md

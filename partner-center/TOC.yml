@@ -64,7 +64,9 @@
           displayName: 'renew, mpn'
         - name: Ausnahme der Anwendungsentwicklungskompetenz
           href: app-dev-isv.md
-    - name: Erweiterte Spezialisierungen-
+        - name: Verwenden des Skills-Berichts
+          href: mpn-skills-report.md
+    - name: Erweiterte Spezialisierungen
       items:
         - name: Herausstellen Ihres Fachwissens
           href: advanced-specializations.md

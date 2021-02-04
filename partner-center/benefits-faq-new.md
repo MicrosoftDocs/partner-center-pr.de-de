@@ -1,7 +1,7 @@
 ---
 title: FAQ zu Microsoft Partner Network Vorteilen
 ms.topic: article
-ms.date: 12/10/2020
+ms.date: 02/04/2021
 description: Es wurden Fragen zu Richtlinien bezüglich Microsoft Partner Network Vorteilen beantwortet.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: ef57b282a1a062ac34d48e7fc247175aa9dab32c
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97349510"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552391"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>FAQ zu Microsoft Partner Network Vorteilen
 
@@ -22,8 +22,13 @@ ms.locfileid: "97349510"
 
 - MPN-Partneradministrator
 
-
 Im folgenden Artikel werden einige der wichtigsten Fragen Microsoft Partner Network-Partnern (MPN) zu den Vorteilen der MPN-Mitgliedschaft, den Kompetenzen und Produktlizenzen beantwortet.
+
+## <a name="responding-to-covid-19"></a>Antworten auf covid-19
+
+**F**: **unser Kompetenz Stichtag wird angezeigt, und wir können die Kompetenzanforderungen aufgrund von Auswirkungen auf covid-19 nicht erfüllen. Was soll ich tun?**
+
+A. Wenn Ihr Kompetenz Jahrestag zwischen dem 1. Januar und dem 30. Juni 2021 liegt, erweitern wir Ihre vorhandene Kompetenz oder ihre Kompetenzen (mit Ausnahme der Cloud-Business Applications Kompetenz) bis zum nächsten Jahrestag in 2022. Sie müssen die Prüfungs-oder Leistungsanforderungen nicht erfüllen, aber Sie bezahlen weiterhin die Kompetenz Gebühr.Weitere Informationen finden Sie in unserem [Blogbeitrag](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 ## <a name="membership"></a>Membership
 
@@ -140,18 +145,7 @@ A. Das erreichen von Kompetenzen und Action Pack Kauf erfolgt im Partner Center 
 
 A. Sie können den [Support Abschnitt von Partner Center](https://partner.microsoft.com/support) aufrufen, um Links zu Ressourcen zu erhalten, die möglicherweise hilfreich sind, oder um bei Bedarf ein Ticket bei unserem Partner Support Team zu öffnen.
 
-## <a name="competency-extension-to-offset-effects-of-covid-19"></a>Kompetenzerweiterung zum Offset der Auswirkungen von covid-19
-
-**F: bietet Microsoft Hilfe bei Partnern an, die der Härte ausgesetzt sind?**
-
-A: für Partner mit einem Kompetenz Jahrestag zwischen dem 1. Juli und dem 31. Dezember 2020 erweitern wir die vorhandene Kompetenz oder Kompetenzen des Partners durch das nächste Jahrestag in 2021. Der Partner erhält eine Erneuerungs Erinnerung, um dieses neue Angebot widerzuspiegeln. Der Partner muss seine Kompetenz Gebühr innerhalb des 30-tägigen Erneuerungs Zeitraums bezahlen.
-
-**F: Was geschieht, wenn ein Partner seinen 30-tägigen Erneuerungs Zeitraum verpasst hat?**
-
-A: der Partner kann seine Kompetenz reaktivieren und wieder Zugriff auf Ressourcen und Vorteile erhalten, indem er seine Gebühr auf der Seite "mitgliedschaftsangebote" im Partner Center bis zu 30 Tage nach dem Jahrestag bezahlt hat. Wenn ein Partner die 30-tägige Toleranz Periode nach seinem Jahrestag verpasst hat, sollte er ein Support Ticket über das Partner Center einreichen, in dem die Details der Anforderung für die Gewährung einer covid-außer Kraft Setzung nach Ablauf des 30-tägigen Erneuerungs Zeitraums erteilt werden.
-
-Weitere Informationen finden Sie unter [Renew MPN offer](renew-mpn-offers.md).
-
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Ermitteln Ihrer Microsoft Partner Network-Vorteile](mpn-find-benefits.md) 
+- [Ermitteln Ihrer Microsoft Partner Network-Vorteile](mpn-find-benefits.md)
+- [MPN-Angebot erneuern](renew-mpn-offers.md)

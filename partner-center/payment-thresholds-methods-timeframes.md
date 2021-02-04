@@ -6,13 +6,13 @@ ms.author: eunjkim
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-ms.date: 09/02/2020
-ms.openlocfilehash: e8ab90251cc05253ad25069eaf9200f2f15e60fb
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 02/02/2021
+ms.openlocfilehash: 81c5ecb93caef7836dc6e6725a700ac74d881558
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532003"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530713"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Zahlungsschwellenwerte, -methoden und -zeitrahmen
 
@@ -33,6 +33,10 @@ In der Regel senden wir alle in einem Monat fälligen Zahlungen am 15. des Monat
 | ACH/SEPA-Überweisungen | 2-3 Werktage |
 | Überweisung | 7-10 Werktage |
 | | |
+
+>[!NOTE]
+>Aufgrund von Änderungen an den Devisenkursen kann der genaue Umsatz leicht von einer Währung zu einer anderen variieren. Die Wechselkurse werden monatlich berechnet. Je nachdem, wann die Transaktion stattfindet, wird der entsprechende Wechselkurs angewendet. Der Austausch Kurs und die Datums Rate, für die er erzwungen wurde, werden im Auszahlungsbericht in den Spalten ExchangeRate bzw. exchangeratedate angegeben.
+
 
 ## <a name="payment-methods-in-countries-and-regions"></a>Zahlungsmethoden in Ländern und Regionen
 

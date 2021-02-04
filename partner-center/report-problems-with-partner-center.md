@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
-ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94983339"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530662"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Melden von Problemen mit dem Partner Center und Übermitteln von Protokoll-oder Diagnoseinformationen
 
@@ -53,7 +53,7 @@ Wenn Ihr Problem eine Konversation mit Ihrem Support Advocate erfordert, können
 
 2. Partner Center prüft den Support Advocate-Kalender auf Verfügbarkeit.
 
-1. Wenn Sie einen Termin planen, sendet Partner Center Ihnen eine Kalender Einladung mit Informationen dazu, wie der Support Advocate Sie kontaktiert, damit Sie diesen Termin in Ihrem eigenen Arbeitskalender nachverfolgen können.
+1. Wenn Sie einen Termin planen, sendet Partner Center Ihnen eine Kalender Einladung mit Informationen dazu, wie der Support Advocate Sie kontaktiert, damit Sie diesen Termin in Ihrem eigenen Arbeitskalender nachverfolgen können.  Diese Funktion befindet sich immer noch in der Vorschau Phase, aber die e-Mail-und Kalender Einladung ist in englischer Sprache, aber der Advocate kann Sie in der Sprache unterstützen, die Sie beim Erstellen Ihres Tickets ausgewählt haben.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Datum und Uhrzeit":::
 

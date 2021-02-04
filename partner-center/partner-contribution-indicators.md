@@ -1,7 +1,7 @@
 ---
 title: Partner Beitrags Indikatoren-CBA
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 02/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über sieben Partner Beitrags Indikatoren (PCI), die Partner zeigen, wie Sie eine Silver-oder Gold Cloud-Business Applications Kompetenz erreichen können.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204069"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530815"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Verwenden von Partner Beitrags Indikatoren zum Erreichen der Cloud-Business Applications Kompetenz
 
@@ -125,7 +125,7 @@ Weitere Informationen finden Sie in den folgenden Tabellen:
 | PCI-Metrik | Leistungsindikator: Netto neuer Umsatz | Leistungsindikator: neue Kunden hinzufügen | Funktions Indikator: Funktions Berater | Funktions Indikator: Wachstum des funktionalen Beraters | Funktions Indikator: Entwickler | Kunden Erfolgsindikator: neue große bereit Stellungen | Kunden Erfolgsindikator: monatliche aktive Benutzer Zunahme |
 |---|---|---|---|---|---|---|---|
 | **Maximale Anzahl von Punkten** | 10 Punkte | 10 Punkte | 15 Punkte | 15 Punkte | 5 Punkte | 20 Punkte | 25 Punkte |
-| **Entstehen** | 300.000 USD | 10 | 10 | *\* Siehe Hinweis* | 5 | 5 | 25 % |
+| **Entstehen** | 300.000 USD | 10 | 15 | *\* Siehe Hinweis* | 5 | 5 | 25 % |
 | **Entwickeln** | $150.000 | 5  | 5  |*\* Siehe Hinweis* | 2 | 1 | 25 % |
 
 *\* Hinweis: die Wachstumsziele unterscheiden sich abhängig von der Anzahl der baselineberater und der spezifischen Option, die ein Partner zum Abrufen von Punkten verwendet. Weitere Informationen zu den Optionen zum Abrufen von Punkten oder den spezifischen Wachstumszielen der einzelnen Optionen finden Sie unter [Definitionen für das Wachstum des funktionalen](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)angriffsentwicklers.*
@@ -187,8 +187,8 @@ Netto neuer Umsatz ist ein [Leistungsindikator](partner-contribution-indicators.
   - Die qualifizierenden Produkte von Kunden sind: Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, Plan 1, Talent und Enterprise Team Mitglied.
   - Zu den Finanz-und Betriebs berechtigten Produkten zählen: Unified Operations, Finance, Supply Chain Management, Retail, Commerce, Plan 2, Mixed Reality, Talent und Enterprise Team Mitglied.
 
-- Vertriebskanäle umfassen Konzernvertrag (EA), Cloud Solution Provider (CSP) und Web Direct.
-- Nur für Konzernvertrag Umsatz: dieser Umsatz umfasst Einnahmen aus dem ersten Jahr der Vereinbarung. Wiederkehrende Umsätze aus dem zweiten und dritten Jahr sind nicht enthalten.
+- Vertriebskanäle umfassen Enterprise Agreement (EA), Cloud Solution Provider (CSP) und Web Direct.
+- Nur für Enterprise Agreement Umsatz: dieser Umsatz umfasst Einnahmen aus dem ersten Jahr der Vereinbarung. Wiederkehrende Umsätze aus dem zweiten und dritten Jahr sind nicht enthalten.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>Definitionen für PCI-Metrik #2-net Customer Adds
 
@@ -214,7 +214,7 @@ NET Customer Adds ist ein [Leistungsindikator](partner-contribution-indicators.m
   > [!NOTE]
   > Ausführliche Informationen zu entwickelten und entwickelten Märkten finden Sie in diesen [Microsoft Partner Network Definitionen](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
-- Vertriebskanäle umfassen Konzernvertrag (EA), Cloud Solution Provider (CSP) und Web Direct.
+- Vertriebskanäle umfassen Enterprise Agreement (EA), Cloud Solution Provider (CSP) und Web Direct.
 
 - Für mehrere Partner, den gleichen Kunden oder Kunden, die direkt mit Microsoft arbeiten: Es gibt verschiedene Berechnungen von **Kunden Ergänzungen** und **Kunden Verlust** in Fällen, in denen mehrere Partner dem gleichen Kunden durch verschiedene Abonnements zugeordnet sind, oder für Fälle, in denen der Kunde möglicherweise bereits direkt mit Microsoft arbeitet. Diese Berechnungen werden unten angezeigt.
 

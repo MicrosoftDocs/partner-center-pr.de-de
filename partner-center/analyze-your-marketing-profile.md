@@ -9,14 +9,14 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c3ca88d367ea9dea8df1bb2bb4945ecc7b900b26
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776809"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530832"
 ---
-# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analysieren ihrer Leads: sehen Sie sich an, wie gut Sie Zielkunden und mögliche Verweise gewinnen
+# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Analysieren ihrer Leads: Sehen Sie sich an, wie gut Sie beim Gewinnen von Zielkunden und möglichen Empfehlungen abschneiden.
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -24,11 +24,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **Geeignete Rollen**
 
 - Empfehlungsadministrator
-
-**Zielgruppe**
-
-- Marketplace-Leads
-- Qualifizierte Leads
 
 Auf der Seite **Leads** im Abschnitt **Analytics** unter Verweise können Sie sehen, wie Ihre Verweise funktionieren. Überprüfen Sie diese Metriken regelmäßig, um Trends oder Bereiche zu identifizieren, denen Sie Ihre Aufmerksamkeit widmen müssen, und beginnen Sie, Ihre Geschäftsziele bewusst anzusteuern.
 
@@ -58,7 +53,7 @@ Die Metriken für die prozentuale Änderung (in rot oder grün mit einem Pfeilin
 
 :::image type="content" source="images/referrals/leadsanalyticssummary.png" alt-text="Bild, das die Zusammenfassungs Karte der Leads Analytics anzeigt.":::
 
-## <a name="conversion-funnel"></a>Konvertierungstrichter
+## <a name="conversion-funnel"></a>Conversion Funnel
 
 In diesem Abschnitt wird visuell angezeigt, wie Ihre Deals im Laufe ihres Lebenszyklus von einem Status in einen anderen wechseln. Sie können den gesamten Lebenszyklus basierend auf dem Dealumfang sowie den Dealwert in USD basierend auf dem Hauptpivot für diesen Abschnitt anzeigen. Der erste Abschnitt ist mit dem Typ des Deals gekennzeichnet, um Ihnen einen visuellen Indikator für das Volume oder den Wert nach Typ zu geben. Es gibt auch einen Abschnitt, der **aus der Vergangenheit** stammt, der verwendet wird, um die Vorgänge anzugeben, für die Sie entweder die Annahme/Ablehnung durchgeführt haben, oder Sie in dem Zeitraum, der für den Bericht ausgewählt wurde, als "gewonnen/verloren" markiert haben. Sie können Filter anwenden, um den Fortschritt der Deals über verschiedene Phasen in ihrem Lebenszyklus anzuzeigen.
 
@@ -115,3 +110,7 @@ Es kann mehrere Gründe geben, warum beim Zugriff auf die Leads Analytics wie un
 
 > [!TIP]
 > Um zu erfahren, wie Ihre Co-Selling-Möglichkeiten durchgeführt werden, lesen Sie die Informationen auf der [Seite zusammen verkaufen von Verkaufschancen](referral-insights.md).
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Verwalten von Leads](manage-leads.md)

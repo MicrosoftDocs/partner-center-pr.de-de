@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215950"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588749"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Leitfaden zum Co-Selling im Partner Center (PC) für Partner, die von Partner Sales Connect (PSC) migrieren
 
@@ -127,7 +127,70 @@ Manchmal kann eine Migration fehlschlagen und zu Fehlern führen. Im folgenden f
 3. Dem Benutzer ist bereits eine Verweis Rolle im Partner Center zugewiesen.
     - Sie können die vorhandene Rolle des Benutzers überprüfen. Wählen Sie in der oberen rechten Ecke von Partner Center die Option **Einstellungen** (das Zahnrad Symbol) und dann **Kontoeinstellungen** aus. Wenn ein zweites Navigationsmenü angezeigt wird, wählen Sie **Benutzerverwaltung** aus, und suchen Sie nach dem Benutzer.
 
-Nachdem Sie die Benutzer Migration abgeschlossen haben, verwenden Sie die folgenden Anleitungen, um die Migrationsstrategie zu bestimmen:
+## <a name="psc-deals-migration"></a>Migration des PSC-Deals
+
+Nachdem Sie die Benutzer Migration abgeschlossen haben, verwenden Sie den Assistenten zum Verarbeiten von Migrationen auf der Seite mit den Co-Selling-Verkaufschancen, um alle berechtigten geöffneten Geschäfte vom PSC auf den PC zu bringen. **Der Link zum Migrieren von Geschäften ist nur für verweisadministratoren mit dem gesamten Organisationsbereich in Partner Center sichtbar.** Oben rechts auf der Seite mit den Co-Selling-Verkaufschancen wird eine Verknüpfung mit dem Namen **"PSC-Geschäfts Migration"** angezeigt, auf der der Assistent zum Behandeln von Migrationen geöffnet wird.
+
+Lesen Sie diesen Abschnitt, bevor Sie mit der Migration beginnen.
+
+**Zur Migration berechtigt**
+
+Nur einige Angebote sind für die Migration von PSC zu PC geeignet. Mithilfe dieses Migrations-Assistenten können Partner ihre Mitarbeiter an Partner Center bringen, wo Sie immer noch aktiv mit ihren Kunden zusammenarbeiten, um das Geschäft zu schließen. **Nur Geschäfte, die sich in einem geöffneten Zustand mit gültigen Details zum Partnerkonto (gültige MPN-ID) und nicht in der Registrierung befinden, sind für die Migration geeignet.**
+
+**Nicht für die Migration geeignet**
+
+- Lösungs Bewertungs Abschlüsse sind nicht für die Migration von Geschäften geeignet
+- OEM-Lizenzierungs geschäftsgeschäfte sind nicht für die Migration von Geschäften geeignet.
+- Alle Vorgänge, die im PSC als "gewonnen" gekennzeichnet wurden, sind nicht für die Migration geeignet. Registrieren Sie die Registrierung, wenn Sie für die als "gewinnt" gekennzeichneten Geschäfte berechtigt sind.
+
+## <a name="pre-requisites-for-deal-migration"></a>Erforderliche Komponenten für die Migration von Geschäftsanforderungen
+
+Bevor Sie mit der Migration von PCs beginnen, befolgen Sie die unten aufgeführten Anweisungen, um die PSC-Angebote für eine erfolgreiche Migration einzurichten.
+
+1. Alle Vertriebsteam Mitglieder in Ihrem Unternehmen, die an den offenen Geschäften arbeiten, werden über diese Migration informiert.
+2. Die Mitglieder des Vertriebsteams werden zur Verwendung von Partner Center zur Verwaltung von Aufgaben geschult.
+3. Die Geschäfte verfügen über alle erforderlichen Informationen, wie unten beschrieben.
+    - Kunden Unternehmens Details einschließlich Name und Adresse
+    - Kundenkontakt Details bei einem Co-Selling-Deal
+    - Mindestens eine Lösung
+    - Mindestens ein Teammitglied mit allen Details, Vorname, Nachname, e-Mail-ID und Telefonnummer
+    - Wert für Wert
+    - Enddatum des geschätzten Deals
+    - Partner Notizen
+
+Mit den Funktionen zum Massen herunterladen und Hochladen in PSC können Sie die Daten für alle berechtigten Verträge bereinigen.
+
+>[!Note]
+> Der Umgang mit der Migration ist auch dann erfolgreich, wenn die oben genannten Voraussetzungen nicht erfüllt werden. Aber Sie können den Status des Deals nicht ändern, wenn eines der oben genannten Pflichtfelder im Partner Center nicht verfügbar ist. Sie müssen dann alle erforderlichen Informationen eingeben, die in den Geschäften in Partner Center fehlen, um an diesen zu arbeiten. **Es wird dringend empfohlen, die berechtigten Verträge in PSC zu bereinigen, bevor Sie Sie zu Partner Center migrieren.**
+
+Der Umgang mit der Migration in Partner Center wird mit einem Mausklick erstellt. Sie müssen nur noch auf die Schaltfläche **"Verträge migrieren"** klicken, wenn Ihr Unternehmen zum Migrieren der berechtigten Verträge bereit ist. **Sie können die zu migrierenden Verträge nicht aus dem PSC auswählen. Wenn Sie keine Geschäfte zu Partner Center migrieren möchten, verschieben Sie Sie in den Zustand "geschlossen", bevor Sie mit der Migration beginnen.**
+
+>[!Note]
+> Nach dem Initiieren der Migration **kann es bis zu 24 Stunden dauern, bis die zu migrierenden Geschäfte migriert** sind.
+
+Nachdem die Migration abgeschlossen ist, wird die Banner Meldung mit einem Link zum Migrationsbericht in den Status geändert geändert. Laden Sie den Bericht herunter, um die Details zu den Vorschauen anzuzeigen, die vom PSC zum PC migriert wurden.
+
+Der Bericht enthält die folgenden Details.
+
+1. **Partner Center Engagement-ID** : der eindeutige Bezeichner im Partner Center für alle Geschäfte in einem Engagement. Es gibt zwei Geschäfte: eine für den Partner und eine für Microsoft in einem Co-Selling-Engagement im Partner Center.
+2. **Partner Center-Referenz-ID** : der eindeutige Bezeichner im Partner Center für den Vertrag, der zum Partner gehört.
+3. **Name** des Geschäfts namens: der Bezeichner für den in PSC angegebenen Wert.
+4. **PSC-Deal-ID** : der eindeutige Bezeichner im PSC für das Problem.
+5. **Fehler** : gibt an, ob bei der Migration eines bestimmten Deals ein Fehler aufgetreten ist.
+
+Alle Verträge, die erfolgreich migriert wurden, werden im PSC nicht angezeigt. Sie können mit den migrierten Geschäften in PCs arbeiten. Es gibt keine Änderungen an den Interaktionen mit den Microsoft-Verkäufern für Co-Selling-Angebote.
+
+Aus dem PSC migrierte Verträge stehen auf den Registerkarten für ein-und ausgehenden Datenverkehr basierend auf der Quelle des betreffenden Deals zur Verfügung. Alle von Partnern erstellten Angebote werden auf der Registerkarte ausgehend verfügbar sein, und von Microsoft initiierte Angebote werden auf der Registerkarte eingehende von Partner Center verfügbar sein. Nach der Migration werden zwei Arten von Deals erstellt.
+
+1. **Co-Selling** -Angebote: als Co-Selling im PSC markierte Geschäfte werden als Co-Selling-Angebote im Partner Center erstellt.
+2. **Partner-LED** -Angebote: Angebote, die nicht als Co-Selling gekennzeichnet sind, werden als Partner-LED-Angebote im Partner Center erstellt. Partner-LED-Angebote sind für Microsoft-Verkäufer sichtbar und können auf Co-Selling-Angebote aktualisiert werden, bevor der Endzustand erreicht wird (gewonnen, verloren). Außerdem sind Partner-LED-Angebote für die Registrierung geeignet, wenn es eine berechtigte Lösung für die Lösung gibt.
+
+>[!Important]
+> Wenn Fehler auftreten, die nicht migriert werden konnten, **können Sie die Migrations Migration erneut initiieren, indem Sie auf die Schaltfläche "Verträge migrieren" klicken**. Diese Option wird nur aktiviert, wenn noch einige berechtigte Verträge migriert werden müssen. Dies ist auch hilfreich, wenn Sie sich in der Übergangsphase befinden, in der nach dem Initiieren der Migration von Geschäften einige neue Angebote im PSC erstellt werden.
+
+Nachdem alle Geschäfte erfolgreich migriert wurden, wird das Banner mit der Schaltfläche **"Migrieren** von Geschäften" angezeigt, und die Schaltfläche " **zu** migrierende Geschäfte" wird **deaktiviert**.
+
+Verwenden Sie nach Abschluss der Migration und/oder der Migration der Migration die folgenden Anleitungen, um die Migrationsstrategie zu bestimmen:
 
 Wenn Ihr Unternehmen über einen Partner Development Manager (PDM) verfügt: Wenn Ihr Partner Center-Konto eingerichtet ist und Ihre Benutzer überrollen und Berechtigungen verfügen, können Sie Ihre Co-Selling-Aktivitäten in Partner Center verschieben. Informieren Sie das PDM, dass Sie den Switch anstatt warten müssen, bis der Stichtag für die Migration vollständig ist. Dadurch können alle neuen Angebote in Partner Center übertragen werden.
 
@@ -327,7 +390,7 @@ Wenn Sie sich hier befinden, weil Sie ein Banner mit der Bezeichnung "PSC-ungül
 
 Suchen Sie zuerst nach der richtigen MPN-ID, indem Sie die folgenden Schritte ausführen.
 
-- Melden Sie sich bei Ihrem Partner Center-Konto an
+- Melden Sie sich bei Ihrem Partner Center-Konto an.
 - Verwenden Sie die Anweisungen in der [Dokumentation zu den Kontoeinstellungen](./partner-center-account-setup.md#locate-your-mpn-id) , um die MPN-ID zu ermitteln.
 
 Als Nächstes

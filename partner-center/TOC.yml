@@ -118,6 +118,9 @@
     - name: Microsoft Partner-Vereinbarung – CSPs
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: Standorte verwalten
+      href: manage-locations.md
+      displayName: 'mpn, csp'
     - name: Wie indirekte Anbieter ihren Wiederverkäufern bei der MPA-Übernahme helfen können
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,9 +200,6 @@
         - name: Aktualisieren von Partnerprofilen
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Standorte verwalten
-          href: manage-locations.md
-          displayName: 'mpn, csp'
         - name: Control Panel Vendor
           href: enroll-as-cpv.md
           displayName: csp

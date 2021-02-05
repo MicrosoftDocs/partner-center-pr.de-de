@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.date: 02/03/2021
+ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042700"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552415"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
 Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen werden häufig aktualisiert, überprüfen Sie sie daher in regelmäßigen Abständen.
 
-| **Kategorie** | **Ankündigungen für Januar 2021** | **Angekündigt** |
+|**Kategorie**|**Ankündigungen für Februar 2021**|**Angekündigt**|
 |---------|:---------|:---------|
+|Funktionen|[Reaktion auf COVID-19: Microsoft Partner Network-Update](2021-february.md#3)|4\. Februar|
+|Funktionen|[Neue Updates für das Modul „Empfehlungen“ im Partner Center](2021-february.md#2)|4\. Februar|
+|Moderner Arbeitsplatz|[Einstellung und Deaktivierung von PUT-Qualifizierungs-APIs für den Überprüfungsprozess für Kunden im Bildungswesen zum 25. Februar 2021 und der GET-Qualifizierung zum 4. Mai 2021](2021-february.md#1)|4\. Februar|
+| **Kategorie** | **Ankündigungen für Januar 2021** | **Angekündigt** |
 |Moderner Arbeitsplatz|[Phase 1 jetzt aktiv: Änderung der Partnerabrechnungswährung für neue E-Commerce-Angebote in der EU/EFTA und im Vereinigten Königreich](2021-january.md#15)|28. Januar|
 |Moderner Arbeitsplatz|[Änderungen der Anforderungen für das Onboarding von Kunden im CSP-Programm (Cloud Solution Provider)](2021-january.md#14)|28. Januar|
 |Funktionen|[Aktualisierung und neue häufig gestellte Fragen zur Microsoft Partner-Vereinbarung (MPA) für indirekte Wiederverkäufer](2021-january.md#13)|27. Januar|

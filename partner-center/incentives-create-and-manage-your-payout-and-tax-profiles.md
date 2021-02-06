@@ -8,18 +8,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492465"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624237"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Erstellen und Verwalten von Auszahlungs-und Steuer Profilen für die Anreize im Partner Center
 
-**Gilt für:**
-
-- Partner Center
 
 **Geeignete Rollen:**
 
@@ -64,7 +61,7 @@ In den folgenden Abschnitten werden die Schritte zum Erstellen und Verwalten von
    - Wenn Sie sich nur bei der Domäne anmelden können, wenden Sie sich an @onmicrosoft.com Ihren Konto Administrator, um dem Azure AD Konto zusätzliche Domänen hinzuzufügen.
    - Wenn Sie aufgefordert werden, Geschäfts-, **Schul** -oder unikonto oder **persönliches Konto** auszuwählen, wählen Sie Geschäfts- **oder Schul Konto** aus.
 
-2. Wählen Sie das Zahnrad Symbol aus, um das Menü **Einstellungen** zu öffnen, und wählen Sie dann **Partner Einstellungen** aus.
+2. Wählen Sie das Zahnrad Symbol aus, um das Menü **Einstellungen** zu öffnen, und wählen Sie dann **Kontoeinstellungen** aus.
 
 3. Wählen Sie im Menü **Kontoeinstellungen** die Option **Auszahlung und Steuern** aus. 
 
@@ -72,7 +69,7 @@ In den folgenden Abschnitten werden die Schritte zum Erstellen und Verwalten von
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/)an, und wählen Sie das Zahnrad Symbol aus, um das Menü " **Einstellungen** " zu öffnen. 
 
-2. Wählen Sie **Partner Einstellungen** aus, erweitern Sie den **Abschnitt Auszahlung und Steuern**, und wählen Sie dann **Auszahlungs-und Steuer Profil Zuweisung** aus. 
+2. Wählen Sie **Kontoeinstellungen** aus, erweitern Sie den **Abschnitt Auszahlung und Steuern**, und wählen Sie dann **Auszahlungs-und Steuer Profil Zuweisung** aus. 
    
    Eine Liste der Programme wird angezeigt. Wählen Sie den Pfeil neben einem Programm aus, um die Profildetails anzuzeigen. 
 

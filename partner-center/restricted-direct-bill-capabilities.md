@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795767"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623982"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Eingeschränkte direkte Rechnungs Funktionen und die Anforderungen für direkte CSP-Abrechnungspartner  
 
@@ -29,11 +29,11 @@ Direkte Abrechnungspartner müssen die neuen [Anforderungen](direct-partner-new-
 
 Führen Sie die folgenden Schritte aus, um zu überprüfen, ob der Zugriff vom direkten Mandanten Mandanten auf die Rechte Rechnung eingeschränkt wurde.
 
-1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard)an.
+1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard) an.
 
-2. Wechseln Sie zu **Partner Einstellungen**  ->  **Partner Profil** .
+2. Wechseln Sie zu **Kontoeinstellungen**  ->  **Rechts Profil**.
 
-3. Suchen Sie unter **Programm Info** nach **Microsoft Cloud Lösungsanbieter Status** .
+3. Suchen Sie unter **Programm Info** nach **Microsoft Cloud Lösungsanbieter Status**.
 
 4. Wenn für den Programmstatus der Wert **eingeschränkt** festgestellt wird, bedeutet dies, dass der Zugriff ihres direkten Mandanten Mandanten auf direkte Rechnungen eingeschränkt wurde.
 
@@ -62,7 +62,7 @@ Vorhandene Direktabrechnungsabonnements sind nicht betroffen. Sie bleiben weiter
     >[!Note] 
     >Sie können vorhandenen Abonnements keine neuen Add-ons hinzufügen, da diese als neuer Kauf behandelt werden.
 
-- Bereitstellen neuer Azure-Ressourcen und Verwalten vorhandener Azure-Ressourcen unter vorhandenen Azure-Abonnements. Dies schließt Ressourcen ein, die über Azure Marketplace-und Visual Studio-Abonnements verfügbar sind.
+- Bereitstellen neuer Azure-Ressourcen und Verwalten vorhandener Azure-Ressourcen unter vorhandenen Azure-Abonnements. Dies schließt Ressourcen ein, die über Azure Marketplace und Visual Studio-Abonnements verfügbar sind.
 
 Neben neuen Käufen haben Sie auch keinen Zugriff mehr auf folgende Direktabrechnungsfunktionen in Partner Center:
 

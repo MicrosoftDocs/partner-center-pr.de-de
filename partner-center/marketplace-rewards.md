@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5822fbc1cb874f0199c4dc8e1e2c541a3ed3f9bd
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114166"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624254"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Verwalten von Marketplace-Prämien in Partner Center & Aktivieren von Marketing-, Vertriebs-und technischen Vorteilen
 
@@ -60,11 +60,11 @@ Die Marketplace-Bonus Informationen sind über den Azure AD-Mandanten und die MP
 
 1. Melden Sie sich entweder als globaler Administrator oder Konto Administrator bei der PGA im Partner Center an.
 
-2. Wählen Sie **Einstellungen** (oben rechts), **Partner Einstellungen**, Mandanten **aus.** 
+2. Wählen Sie **Einstellungen** (oben rechts), **Kontoeinstellungen**, Mandanten **aus.** 
 
 3. Wählen Sie **einen anderen Azure AD Mandanten zuordnen** aus, und wählen Sie den Azure AD Mandanten aus, den Sie der PGA zuordnen möchten.
 
-4. Fügen Sie einen Benutzernamen und ein Kennwort für jeden Benutzer im Azure AD Mandanten hinzu, den Sie zuordnen möchten, und wählen Sie **senden**aus.
+4. Fügen Sie einen Benutzernamen und ein Kennwort für jeden Benutzer im Azure AD Mandanten hinzu, den Sie zuordnen möchten, und wählen Sie **senden** aus.
 
 5. Melden Sie sich bei Partner Center ab, und melden Sie sich dann mit dem Benutzernamen und dem Kennwort für den Mandanten an, den Sie soeben der PGA zugeordnet haben.
 

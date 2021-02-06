@@ -9,18 +9,14 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367174"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624050"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Verkauf an spezialisierte Branchen wie Bildungs-, gemeinnützige und behördliche Benutzer
-
-**Zielgruppe**
-
-- Partner Center
 
 **Geeignete Rollen**
 
@@ -42,19 +38,19 @@ Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z. B
 
 Die folgenden Schritte gelten nur für indirekte Anbieter und direkte Rechnungs Partner. Indirekte Vertriebspartner müssen sich mit einem indirekten Anbieter verbinden, um qualifizierten Schulungs Benutzern akademische Angebote zu liefern.
 
-1. Klicken Sie in Ihrem Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)auf das Zahnrad Symbol in der oberen rechten Ecke des Fensters, um die **Kontoeinstellungen**zu öffnen.
+1. Klicken Sie in Ihrem Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)auf das Zahnrad Symbol in der oberen rechten Ecke des Fensters, um die **Kontoeinstellungen** zu öffnen.
 
-2. Suchen Sie in Ihrem **Partnerprofil** im Abschnitt mit den **Programminformationen** nach **Händlerqualifikationen**.
+2. Suchen Sie in Ihrem **rechtlichen Profil** im Abschnitt **Programminformationen** nach Reseller- **Qualifikationen**.
 
 3. Wenn Sie den Abschnitt **Händlerqualifikationen** nicht sehen können, wurden Sie noch nicht zum Erwerben von Sonderangeboten autorisiert.
 
 ## <a name="check-the-customer-qualifications"></a>Überprüfen der Kundenqualifikationen
 
-1. Wählen Sie im **Partner Center** -Menü die Option **Kunden**aus. Wählen Sie den Kunden in der Liste aus.
+1. Wählen Sie im **Partner Center** -Menü die Option **Kunden** aus. Wählen Sie den Kunden in der Liste aus.
 
-2. Wählen Sie im Menü Kunde die Option **Konto**aus. Prüfen Sie unter **Unternehmensinformationen** den Abschnitt **besondere Qualifikationen**.
+2. Wählen Sie im Menü Kunde die Option **Konto** aus. Prüfen Sie unter **Unternehmensinformationen** den Abschnitt **besondere Qualifikationen**.
 
-3. Wenn **spezielle Qualifizierungen** auf **None**festgelegt sind, der Kunde aber tatsächlich die Qualifikation erfüllt, können Sie die zugehörigen Details **Aktualisieren** , um Sie einzuschließen.
+3. Wenn **spezielle Qualifizierungen** auf **None** festgelegt sind, der Kunde aber tatsächlich die Qualifikation erfüllt, können Sie die zugehörigen Details **Aktualisieren** , um Sie einzuschließen.
 
 ## <a name="where-to-find-special-offers"></a>So finden Sie Sonderangebote
 

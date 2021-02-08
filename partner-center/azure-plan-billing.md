@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658432"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98925000"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>Neues E-Commerce-Verfahren in CSP: Azure-Abrechnung 
 
@@ -36,7 +36,7 @@ In diesem Artikel wird erläutert, wie Sie auf die Struktur der Rechnungs-/Absti
 
 - **Fälligkeit der Rechnung**: 60 Tage netto.
 
-- **Rechnungswährung** : Partner werden weiterhin in der offiziellen Landeswährung des Kunden abgerechnet. Wenn der Abrechnungspartner sich beispielsweise in Irland befindet und Kunden im Vereinigten Königreich, Norwegen und Deutschland bedient, erhält der Abrechnungspartner eine Rechnung/Abstimmung in GBP, NOK und EUR.
+- **Rechnungswährung** : Ab dem 28. Januar 2021 erfolgt für Partner in der Region der EU/EFTA und des Vereinigten Königreichs, die neue Kunden und CSP-Bestandskunden haben, welche zum ersten Mal neue E-Commerce-Angebote erwerben und deren Mandanten vor dem 11. Mai 2020 erstellt wurden, die Abrechnung für diese Käufe in der Währung am Standort des Partners. Für Partner außerhalb der Region der EU/EFTA und des Vereinigten Königreichs erfolgt die Abrechnung weiterhin in der Währung am Standort des Partners.
 
 - **Partnerincentives**: 45 Tage nach dem Ende des Rechnungsmonats bezahlt.
 

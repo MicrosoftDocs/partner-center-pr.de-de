@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/20/2021
-ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/28/2021
+ms.openlocfilehash: e450e109205481ff9c973935583307bf965e02ee
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717827"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098872"
 ---
 # <a name="january-2021-announcements"></a>Ankündigungen für Januar 2021
 
@@ -24,8 +24,166 @@ Ankündigungen für 2021: Januar
 
 Ankündigungen für 2020: [Mai](2020-may.md) | [Juni](2020-june.md) | [Juli](2020-july.md) | [August](2020-august.md) | [September](2020-september.md) | [Oktober](2020-October.md) | [November](2020-november.md) | [Dezember](2020-december.md)  
 
+_____________ 
+
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a> Phase 1 jetzt aktiv: Änderung der Partnerabrechnungswährung für neue E-Commerce-Angebote in der EU/EFTA und im Vereinigten Königreich
+
+### <a name="categories"></a>Kategorien
+
+- Datum: 28.01.2021
+- Funktionen
+
+### <a name="impacted-audience"></a>Zielgruppe
+
+- Alle Partner, die Transaktionen im Rahmen des Cloud Solution Provider-Programms in der EU/EFTA und im Vereinigten Königreich ausführen
+
+### <a name="details"></a>Details
+
+In der Europäischen Union (EU)/Europäischen Freihandelszone (EFTA) und im Vereinigten Königreich (UK) wird für alle neuen E-Commerce-Angebote im Cloud Solution Provider-Programm der Abrechnungsstandort des Partners anstelle des Abrechnungsstandorts des Kunden verwendet. Somit basiert die Abrechnung für Partner von Microsoft auf der Währung am Standort des Partners und nicht auf der Währung am Standort des Kunden. Diese Änderung wird in zwei Phasen umgesetzt:
+
+**Phase 1:**
+
+- Neue Kunden, die ein neues E-Commerce-Angebot in CSP erwerben
+
+- Bestandskunden, die erstmalig neue E-Commerce-Angebote erwerben und deren Mandant vor dem 11. Mai 2020 erstellt wurde
+
+Ab dem 28. Januar 2021 werden Partnern mit neuen Kunden, die ein neues E-Commerce-Angebot erwerben, oder Bestandskunden, die erstmalig neue E-Commerce-Angebote erwerben und deren Mandanten vor dem 11. Mai 2020 erstellt wurden, diese Käufe in der Währung am Standort des Partners in Rechnung gestellt.  
+
+Für Partner mit Bestandskunden, die bereits neue E-Commerce-Angebote in CSP erworben haben, erfolgt die Abrechnung in dieser Phase weiterhin in der Währung am Standort der Kunden. Darüber hinaus erfolgt die Abrechnung für Partner mit Bestandskunden, die erstmalig ein neues E-Commerce-Angebot erwerben und deren Mandanten am oder nach dem 11. Mai 2020 erstellt wurden, weiterhin in der Währung der Kunden.
+
+**Phase 2:**
+
+- Bestandskunden, die vor Phase 1 bereits ein neues E-Commerce-Angebot in CSP erworben haben
+- Bestandskunden, die erstmalig neue E-Commerce-Angebote erwerben und deren Mandant am oder nach dem 11. Mai 2020 erstellt wurde
+
+Im Anschluss an Phase 1 und während des Kalenderjahrs 2021 stellt Microsoft die Abrechnung neuer E-Commerce-Angebote für Partner mit Bestandskunden, die vor Phase 1 ein neues E-Commerce-Angebot in CSP erworben haben, sowie Kunden, deren Mandanten am oder nach dem 11. Mai 2020 erstellt wurden, von der Währung am Kundenstandort auf die Währung am Partnerstandort um. Partner werden rechtzeitig benachrichtigt, bevor diese Änderung implementiert wird.
+
+Nach Phase 2 erfolgt die Abrechnung für Partner in der EU/EFTA und im Vereinigten Königreich für alle Kunden und alle CSP-Käufe in der Währung am Standort des Partners.
+
+>[!NOTE]
+>Diese Änderung wirkt sich nur auf die Abrechnungswährung der Partner aus und nicht auf die Preise neuer E-Commerce-Angebote in CSP. Diese Änderung betrifft die folgenden neuen E-Commerce-Angebote: Azure-Abonnements, die Teil eines Azure-Plans sind, Azure-Reservierungen, Serverabonnements, unbefristete Software und Käufe im kommerziellen Microsoft-Marketplace im Rahmen des Cloud Solution Provider-Programms.
+
+### <a name="partner-benefits"></a>Partnervorteile
+
+Durch diese Neuerung werden Komplexität und Aufwand bei der Abrechnung mit mehreren Währungen in der EU/EFTA und im Vereinigten Königreich für das neue E-Commerce-Verfahren reduziert.
+
+- Partner erhalten eine konsolidierte Rechnung in einer einzigen Währung, und es wird keine Rechnung mehr für jede Kundenstandortwährung ausgestellt.
+- Incentiveauszahlungen erfolgen in derselben Währung wie die Rechnung des Partners.
+- Partner werden eine geringere Abrechnungskomplexität gegenüber der Rechnungsstellung mit mehreren Währungen feststellen, wodurch Zeit und Ressourcen gespart werden, die derzeit für den Abgleich von Konten aufgewendet werden.
+- Für Partner, die noch keine neuen E-Commerce-Angebote übernommen haben, wird diese Änderung an das vorherige Partnerabrechnungsmodell angepasst und ermöglicht den Partnern einen leichteren Übergang zum neuen E-Commerce-Verfahren in CSP.
+
+### <a name="next-steps"></a>Nächste Schritte
+
+Lesen Sie die Informationen zu diesem Thema im [Ressourcenkatalog für Vorgänge](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (Anmeldung erforderlich) auf der Microsoft-Partner-Website.  
+
+### <a name="questions"></a>Haben Sie Fragen?
+
+Bei Fragen im Zusammenhang mit dieser Benachrichtigung wenden Sie sich an den [Partner Center-Support](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (Anmeldung erforderlich).
+
+### <a name="change-log"></a>Änderungsprotokoll
+
+- 17. November 2020: Erstveröffentlichung
+- 7. Januar 2021: Hinzufügung eines zusätzlichen Szenarios für Phase 1 und Phase 2
+- 28. Januar 2021: 
+    -    Ankündigung des Beginns von Phase 1 
+    -    Verdeutlichung, dass das Vereinigte Königreich zwar nicht zur EU/EFTA gehört, aber Teil der [europäischen Region und des europäischen Markts von Microsoft](https://docs.microsoft.com/partner-center/regional-authorization-overview) und daher davon betroffen ist
+
+
 ________________
-## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> Änderungen der Partner Center-Überwachungsprotokolle zur Einbeziehung zwei neuer Vorgangstypen für DAP
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> Änderungen der Anforderungen für das Onboarding von Kunden im CSP-Programm (Cloud Solution Provider)
+
+### <a name="categories"></a>Kategorien
+
+- Datum: 28.01.2021
+- Verbesserte Sicherheit und Kompatibilität
+
+### <a name="impacted-audience"></a>Zielgruppe
+
+CSP-Partner mit direkter Abrechnung und indirekte Anbieter mit neuen Kunden oder Bestandskunden in den im nächsten Abschnitt aufgeführten Ländern
+
+### <a name="summary"></a>Zusammenfassung
+
+Im Rahmen unserer Verpflichtung, Partner und Kunden bei der Ausführung ihrer Geschäfte auf Vertrauensbasis zu unterstützen, werden wir ab Ende März 2021 zusätzliche Kundeninformationen anfordern.
+
+### <a name="details"></a>Details
+
+Microsoft setzt auf Vertrauen. Wir haben uns verpflichtet, eine kompatible und sichere Methode der Kundenüberprüfung zur Abwicklung von Kundenabonnements im CSP-Programm bereitzustellen. Ende März 2021 werden wir Verbesserungen der Partner Center-API und -Benutzeroberfläche (UI) einführen, die sich auf Partner auswirken, die die beiden folgenden Kriterien erfüllen:
+
+1. Der Partner hat eine direkte Abrechnungsbeziehung mit Microsoft (das heißt, er ist ein Partner mit direkter Abrechnung oder ein indirekter Anbieter).
+2. Der Partner tätigt Geschäfte mit neuen Kunden oder Bestandskunden in den folgenden Ländern:
+    - Thailand
+    - Vietnam
+    - Türkei
+    - Polen
+    - Südafrika
+    - Indien
+    - Brasilien
+    - Irak
+    - Myanmar
+    - Südsudan
+    - Saudi-Arabien
+    - Vereinigte Arabische Emirate
+    - Venezuela
+
+Partner, die diese Kriterien erfüllen, müssen beim Onboarding neuer Kunden oder beim Ändern von Bestandskundendetails die **rechtliche Identifizierung** des Kunden (auch als **Organisations-INN** des Kunden bezeichnet) und dessen **Telefonnummer** übermitteln. Diese Partner können auch einen optionalen **zweiten Vornamen** für den Kunden eingeben.
+
+Für Partner, die Geschäfte mit neuen Kunden oder Bestandskunden in den folgenden Ländern tätigen, erfolgte bereits ein Onboarding mit einer früheren Version im November 2020.
+
+- Armenien
+- Aserbaidschan
+- Belarus
+- Ungarn
+- Kasachstan
+- Kirgisistan
+- Moldawien
+- Russland
+- Tadschikistan
+- Ukraine
+- Usbekistan
+
+Partner mit Kunden in anderen Ländern weltweit haben Ende März 2021 die Möglichkeit, die **rechtliche Identifizierung**, die **Telefonnummer** und den **zweiten Vornamen** für Kunden als optionale Details einzugeben.
+
+### <a name="next-steps"></a>Nächste Schritte
+
+- Ausführlichere Anleitungen finden Sie in der technischen Dokumentation und unter den häufig gestellten Fragen in der jeweiligen [Sammlung für Partner](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) (Anmeldung erforderlich).
+- Bereiten Sie die Einbindung der Änderungen mithilfe der Partner Center-API und der Webbenutzeroberfläche vor. API/SDKs werden zu Testzwecken bereitgestellt.
+- Stellen Sie sicher, dass Sie beim Onboarding neuer Kunden oder beim Ändern von Bestandskundendetails die zusätzlichen Daten übermitteln.
+- Wenden Sie sich an Ihren CPV (Control Panel Vendor), wenn Sie eine CPV-Lösung verwenden.
+
+### <a name="questions"></a>Fragen?
+
+Wenn Sie Fragen im Bezug auf die rechtliche Identifizierung (auch INN oder TIN genannt) haben, wenden Sie sich an Ihren Steuerberater oder das örtliche Finanzamt. Microsoft kann in Steuerfragen keine Hilfestellung bieten.
+
+Wenn Sie Unterstützung hinsichtlich des Geschäftsbetriebs mit Microsoft benötigen, [erstellen Sie eine Serviceanfrage](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (Anmeldung erforderlich).
+
+________________
+## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Aktualisierung und neue häufig gestellte Fragen zur Microsoft Partner-Vereinbarung (MPA) für indirekte Wiederverkäufer 
+
+### <a name="categories"></a>Kategorien
+
+- Datum: 27.01.2021
+- Funktionen
+ 
+### <a name="impacted-audience"></a>Zielgruppe
+
+Alle indirekten Wiederverkäufer und indirekten Anbieter, die Transaktionen im Rahmen des CSP-Programms (Cloud Solution Provider) ausführen
+
+### <a name="details"></a>Details
+
+Die Implementierung der Microsoft Partner-Vereinbarung (MPA) wird derzeit durchgeführt. Zur weiteren Unterstützung von Anbietern und Wiederverkäufern haben wir das Feedback ausgewertet und nun häufige Fragen zum Akzeptieren der MPA auf einer neuen [Seite mit häufig gestellten Fragen](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) zusammengefasst.
+
+### <a name="next-steps"></a>Nächste Schritte
+
+**Indirekte Wiederverkäufer:** Wenn Sie die MPA nicht akzeptiert haben, sehen Sie sich die [häufig gestellten Fragen zur MPA](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) an, und folgen Sie [dieser schrittweisen Anleitung](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) zum Akzeptieren der MPA.
+
+**Indirekte Anbieter:** Nehmen Sie Kontakt mit Ihren indirekten Wiederverkäufern auf, und unterstützen Sie sie mithilfe der [häufig gestellten Fragen zur MPA](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) und [dieser schrittweisen Anleitung](https://docs.microsoft.com/partner-center/microsoft-partner-agreement).
+
+### <a name="questions"></a>Haben Sie Fragen?
+
+Bei Fragen im Zusammenhang mit dieser Benachrichtigung wenden Sie sich an den [Partner Center-Support](https://partner.microsoft.com/support/v2/?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4).
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="12"></a> Änderungen der Partner Center-Überwachungsprotokolle zur Einbeziehung zwei neuer Vorgangstypen für DAP
 
 ### <a name="categories"></a>Kategorien
 
@@ -57,7 +215,7 @@ Die neuen Vorgangstypen lauten wie folgt:
 Bei weiteren Fragen können Sie sich an die entsprechende CSP-Yammer-Community wenden.
 
 ________________
-## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Änderungen der Verfügbarkeit des Azure-Angebots in CSP in Bezug auf das neue E-Commerce-Verfahren in CSP für Azure
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="11"></a> Änderungen der Verfügbarkeit des Azure-Angebots in CSP in Bezug auf das neue E-Commerce-Verfahren in CSP für Azure
 
 ### <a name="categories"></a>Kategorien
 
@@ -143,7 +301,7 @@ Partnern wird dringend empfohlen, sich mit den folgenden Ressourcen vertraut zu 
 Bei Fragen im Zusammenhang mit dieser Benachrichtigung wenden Sie sich an den [Partner Center-Support](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
 ________________
-## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Unbefristete Software ist jetzt allgemein im Cloud Solution Provider-Programm verfügbar
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="10"></a> Unbefristete Software ist jetzt allgemein im Cloud Solution Provider-Programm verfügbar
 
 ### <a name="categories"></a>Kategorien
 
@@ -171,7 +329,7 @@ Beachten Sie auch, dass ab heute die Partner Center-Funktionen für Software und
 Bei weiteren Fragen können Sie sich an die entsprechende CSP-Yammer-Community wenden.
 
 _____________
-## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> Erinnerung: Einführung einer API-Drosselung für Partner, die Partner Center-APIs aufrufen 
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> Erinnerung: Einführung einer API-Drosselung für Partner, die Partner Center-APIs aufrufen 
 
 ### <a name="categories"></a>Kategorien
 
@@ -220,7 +378,7 @@ Sehen Sie sich die [Ressourcen](/partner-center/develop/api-throttling-guidanc
 
 _____________
 
-## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Einführung von SCI-Angeboten (Sicherheit, Compliance and Identität) am 1. Februar 2021 
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="8"></a>Einführung von SCI-Angeboten (Sicherheit, Compliance and Identität) am 1. Februar 2021 
 
 ### <a name="categories"></a>Kategorien
 
@@ -280,7 +438,7 @@ Bei weiteren Fragen zu diesen Angeboten können Sie sich an die entsprechende Ya
 
 _____________ 
 
-## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>DocuSign-Migration zu Adobe Sign für Partner mit Microsoft Partner-Vereinbarung (MPA) 
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="7"></a>DocuSign-Migration zu Adobe Sign für Partner mit Microsoft Partner-Vereinbarung (MPA) 
 
 ### <a name="categories"></a>Kategorien
 
@@ -326,7 +484,7 @@ Wenn Sie Fragen haben, wenden Sie sich über das [Call Logging Tool (CLT)](https
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>Aktualisierung der Handelspreise für die norwegische Krone 
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="6"></a>Aktualisierung der Handelspreise für die norwegische Krone 
 
 ### <a name="categories"></a>Kategorien
 
@@ -344,7 +502,7 @@ Die vollständige Ankündigung ist nur für Microsoft-Partner verfügbar. [Melde
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="6"></a>Aktualisierung der Handelspreise für die indische Rupie 
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="5"></a>Aktualisierung der Handelspreise für die indische Rupie 
 
 ### <a name="categories"></a>Kategorien
 
@@ -363,7 +521,7 @@ Die vollständige Ankündigung ist nur für Microsoft-Partner verfügbar. [Melde
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="5"></a>Aktualisierungen von Calling Plan und Phone System für den 1. Februar 2021
+## <a name="calling-plan-and-phone-system-updates-for-february-1-2021"></a><a name="4"></a>Aktualisierungen von Calling Plan und Phone System für den 1. Februar 2021
 
 ### <a name="categories"></a>Kategorien
 
@@ -403,7 +561,7 @@ Die folgenden Angebote sind für Geschäftskunden, Schüler/Studenten, Lehrkräf
 
 _____________ 
 
-## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>Aktualisierungen der lizenzbasierten Preislisten für Januar 2021 
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="3"></a>Aktualisierungen der lizenzbasierten Preislisten für Januar 2021 
 
 ### <a name="categories"></a>Kategorien
 
@@ -438,69 +596,6 @@ Partner sollten den aktuell verfügbaren Vorschaupreislisten für Januar und Feb
 
 - Partner sollten die neuesten Preislistendateien aus dem Partner Center herunterladen, um die korrigierten Preise für Januar und Februar zu erhalten. 
 - Globale Administratoren für betroffene Mandanten, die zwischen dem 1. Januar und dem 6. Januar Abonnements erworben haben, erhalten vor Ende Januar eine Partner Center-E-Mail mit weiteren Details. 
-
-_____________ 
-
-## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> Änderung der Partnerabrechnungswährung für neue E-Commerce-Angebote in der EU/EFTA
-
-### <a name="categories"></a>Kategorien
-
-- Datum: 07.01.2021
-- Funktionen
-
-### <a name="impacted-audience"></a>Zielgruppe
-
-- Alle Partner, die Transaktionen im Rahmen des Cloud Solution Provider-Programms in der EU/EFTA-Region ausführen 
-
-### <a name="details"></a>Details
-
-In der Region der Europäischen Union (EU)/Europäischen Freihandelszone (EFTA) wird für alle neuen E-Commerce-Angebote im Cloud Solution Provider-Programm der Abrechnungsstandort des Partners anstelle des Abrechnungsstandorts des Kunden verwendet. Somit basiert die Abrechnung für Partner von Microsoft auf der Währung am Standort des Partners und nicht auf der Währung am Standort des Kunden. Diese Änderung wird in zwei Phasen umgesetzt:
-
-**Phase 1:**
-
-- Neue Kunden, die ein neues E-Commerce-Angebot in CSP erwerben
-
-- Bestandskunden, die erstmalig neue E-Commerce-Angebote erwerben und deren Mandant vor dem 11. Mai 2020 erstellt wurde
-
-Ab dem 28. Januar 2021 werden Partnern mit neuen Kunden, die ein neues E-Commerce-Angebot erwerben, oder Bestandskunden, die erstmalig neue E-Commerce-Angebote erwerben und deren Mandanten vor dem 11. Mai 2020 erstellt wurden, diese Käufe in der Währung am Standort des Partners in Rechnung gestellt.  
-
-Für Partner mit Bestandskunden, die bereits neue E-Commerce-Angebote in CSP erworben haben, erfolgt die Abrechnung in dieser Phase weiterhin in der Währung am Standort der Kunden. Darüber hinaus erfolgt die Abrechnung für Partner mit Bestandskunden, die erstmalig ein neues E-Commerce-Angebot erwerben und deren Mandanten am oder nach dem 11. Mai 2020 erstellt wurden, weiterhin in der Währung der Kunden.
-
-**Phase 2:**
-
-- Bestandskunden, die vor Phase 1 bereits ein neues E-Commerce-Angebot in CSP erworben haben
-- Bestandskunden, die erstmalig neue E-Commerce-Angebote erwerben und deren Mandant am oder nach dem 11. Mai 2020 erstellt wurde
-
-Im Anschluss an Phase 1 und während des Kalenderjahrs 2021 stellt Microsoft die Abrechnung neuer E-Commerce-Angebote für Partner mit Bestandskunden, die vor Phase 1 ein neues E-Commerce-Angebot in CSP erworben haben, sowie Kunden, deren Mandanten am oder nach dem 11. Mai 2020 erstellt wurden, von der Währung am Kundenstandort auf die Währung am Partnerstandort um. Partner werden rechtzeitig benachrichtigt, bevor diese Änderung implementiert wird.
-
-Nach Phase 2 erfolgt die Abrechnung für Partner in der EU/EFTA-Region für alle Kunden und alle CSP-Käufe in der Währung am Standort des Partners.
-
->[!NOTE]
->Diese Änderung wirkt sich nur auf die Abrechnungswährung der Partner aus und nicht auf die Preise neuer E-Commerce-Angebote in CSP. Diese Änderung betrifft die folgenden neuen E-Commerce-Angebote: Azure-Abonnements, die Teil eines Azure-Plans sind, Azure-Reservierungen, Serverabonnements, unbefristete Software und Käufe im kommerziellen Microsoft-Marketplace im Rahmen des Cloud Solution Provider-Programms.
-
-
-### <a name="partner-benefits"></a>Partnervorteile
-
-Durch diese Neuerung werden Komplexität und Aufwand bei der Abrechnung mit mehreren Währungen in der EU/EFTA-Region für das neue E-Commerce-Verfahren reduziert.
-
-- Partner erhalten eine konsolidierte Rechnung in einer einzigen Währung, und es wird keine Rechnung mehr für jede Kundenstandortwährung ausgestellt.
-- Incentiveauszahlungen erfolgen in derselben Währung wie die Rechnung des Partners.
-- Partner werden eine geringere Abrechnungskomplexität gegenüber der Rechnungsstellung mit mehreren Währungen feststellen, wodurch Zeit und Ressourcen gespart werden, die derzeit für den Abgleich von Konten aufgewendet werden.
-- Für Partner, die noch keine neuen E-Commerce-Angebote übernommen haben, wird diese Änderung an das vorherige Partnerabrechnungsmodell angepasst und ermöglicht den Partnern einen leichteren Übergang zum neuen E-Commerce-Verfahren in CSP.
-
-### <a name="next-steps"></a>Nächste Schritte
-
-Lesen Sie die Informationen zu diesem Thema im [Ressourcenkatalog für Vorgänge](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (Anmeldung erforderlich) auf der Microsoft-Partner-Website.  
-
-### <a name="questions"></a>Haben Sie Fragen?
-
-Bei Fragen im Zusammenhang mit dieser Benachrichtigung wenden Sie sich an den [Partner Center-Support](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (Anmeldung erforderlich).
-
-### <a name="change-log"></a>Änderungsprotokoll
-
-- 17. November 2020: Erstveröffentlichung
-- 7\. Januar 2021: Hinzufügung eines zusätzlichen Szenarios für Phase 1 und Phase 2
-
 
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Einstellung und Deaktivierung vorhandener GET- und PUT-Qualifizierungs-APIs für den Überprüfungsprozess für Kunden im Bildungswesen bis Ende Februar 2021

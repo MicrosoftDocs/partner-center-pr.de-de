@@ -1,7 +1,7 @@
 ---
 title: Anforderungen für die Gold- und Silver-Kompetenzen von Microsoft
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie zum Elite-Partner von Microsoft werden und neue Kunden gewinnen können, indem Sie die Kompetenzanforderungen für die Gold- und Silver-Mitgliedschaftsstufen erfüllen.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
+ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691332"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98912538"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Das Unternehmen durch den Erwerb von Microsoft-Kompetenzen differenzieren
 
@@ -68,6 +68,8 @@ Weitere Informationen zu den Anforderungen für den Erwerb von Silver- und Gold-
 - Erfahren Sie mehr über bestimmte [Markteinführungsressourcen](mpn-learn-about-go-to-market-benefits.md) in Verbindung mit Kompetenzen.
 
 - Erfahren Sie mehr über [Rechnungen und Steuern für Kompetenzen](mpn-view-print-maps-invoice.md).
+
+- Erfahren Sie, wie Sie die mit einer Silver- oder Gold-Kompetenzmitgliedschaft verbundene [Gebühr bezahlen](mpn-pay-fee-silver-gold-competency.md).
 
 - Sehen Sie sich einen [Bericht zu Kompetenzen](pci-competencies-report.md) in Partner Center Insights an, der den aktuellen Status Ihrer Kompetenzen angibt.
 

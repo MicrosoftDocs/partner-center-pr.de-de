@@ -1,7 +1,7 @@
 ---
 title: Verkaufen von Softwareabonnements über CSP
 ms.topic: how-to
-ms.date: 06/18/2020
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Partner im CSP-Programm Partner Center verwenden können, um reservierte Azure-Instanzen und Serverabonnements für Kunden zu erwerben, zu verwalten, zu verkaufen und zu stornieren.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000484"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098838"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vertreiben von Softwareabonnements über das CSP (Cloud Solution Provider)-Programm
 
@@ -92,27 +92,18 @@ So kaufen Sie Softwareabonnements im Auftrag von Kunden:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivieren und Verwalten von Softwareabonnements
 
-Nachdem Sie das Softwareabonnement erworben haben, führen Sie die folgenden Schritte aus, um es herunterzuladen.
+Nachdem Sie die Software erworben haben, muss sie von Ihren Kunden heruntergeladen werden. Führen Sie dazu die nachfolgend aufgeführten Schritte aus.
 
 >[!NOTE]
->Sie müssen ein Administrator-Agent sein, um Software herunterladen und Aktivierungsschlüssel abrufen zu können.
+>Sie müssen ein Administrator-Agent sein, um Schlüssel abrufen und Software herunterladen zu können.
 
-1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
-
-2. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie dann einen Kunden aus der Liste aus.
-
-3. Wechseln Sie zur Detailseite des Kunden, und wählen Sie dann **Software** aus. Sie sehen eine Liste der gesamten Software, die Sie im Auftrag des Kunden erworben haben. 
-
-4. Erweitern Sie das Produkt, das Sie herunterladen möchten. Wählen Sie im Feld **Produkt auswählen** die **Version**, **Sprache** sowie **Dateityp/Betriebssystem** aus. 
-
-5. Klicken Sie auf **Senden**, um die spezifischen Produkte anzuzeigen. 
-
-6. Wählen Sie **Schlüssel und Downloads abrufen**. 
-
-7. Klicken Sie auf **Herunterladen**, um den Download zu starten, oder **Link kopieren**, um den Link zu kopieren und an den Kunden zu senden. 
+1. Wechseln Sie zur Detailseite des Kunden, und wählen Sie dann **Software** aus. Sie sehen eine Liste der gesamten Software, die Sie im Auftrag des Kunden erworben haben.
+2. Kopieren Sie den „Deep-Link“ aus **Link zu Software-Product Keys und Downloads**, und leiten Sie ihn an Ihren Kunden weiter. Wenn der Kunde auf diesen Link klickt, wird er zum Microsoft Admin Center weitergeleitet, wo er die Software herunterladen und seine Product Keys abrufen kann.
 
 >[!NOTE]
->Dieser Link läuft nach zwei Wochen bzw. 50 Downloads ab, je nachdem, was zuerst eintritt. Kehren Sie nach Ablauf des Links zu dieser Seite zurück, und wählen Sie erneut **Schlüssel und Downloads abrufen** aus, um ihn für weitere zwei Wochen oder 50 Downloads zu aktivieren. Sie können dies beliebig oft tun. 
+>Die Product Keys und Downloadinformationen im Microsoft Admin Center werden nur Kunden angezeigt. Für Partner sind diese Informationen nicht sichtbar.
+
+Wenn Sie oder Ihre Kunden mehr über das Herunterladen von Lizenzschlüsseln erfahren möchten, finden Sie weitere Informationen unter [Herunterladen von Software und Produktlizenzschlüsseln](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Downloads und Lizenzschlüssel für Serverabonnements, die Kunden über das Microsoft 365 Admin Center zur Verfügung stehen 
 

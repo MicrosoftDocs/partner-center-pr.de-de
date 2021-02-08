@@ -1,7 +1,7 @@
 ---
 title: Arbeiten mit indirekten Anbietern im CSP-Programm
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Hier erfahren Sie, wie indirekte Vertriebspartner mit indirekten Microsoft-Anbietern (oder Distributoren) zusammenarbeiten können, um Unterstützung beim Kundensupport und bei der Abrechnung zu erhalten.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
+ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773443"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99065470"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Informationen zum Arbeiten mit indirekten Anbietern im Cloud Solution Provider-Programm
 
@@ -76,30 +76,38 @@ Ab Oktober 2020 registrieren sich alle Microsoft-Partner, die erstmalig am CSP-
    > [!IMPORTANT]  
    > Aus Sicherheits- und Datenschutzgründen werden wir Ihren Hauptansprechpartner per E-Mail kontaktieren, um uns zu vergewissern, dass (1) er/sie sich für ein Partner Center-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrem Unternehmen gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung deiner Angaben fort. Wir halten den Hauptansprechpartner per E-Mail über den Status der Registrierung auf dem Laufenden.
 
-5. Ordnen Sie Ihre MPN-ID Ihrem Azure AD-Mandanten zu.
+5. Ordnen Sie Ihre MPN-ID Ihrem CSP-Konto zu. Ihr CSP-Konto und die zugehörige MPN-ID müssen sich in demselben Land befinden, und Ihre MPN-ID muss im Partner Center vorhanden sein.
+  
 
-    1. Melden Sie sich mit Ihrem MPN-Konto an. Wechseln Sie zu **Einstellungen** -> **Kontoeinstellungen** -> **Organisationsprofil** -> **Bezeichner**. Zeigen Sie Ihre MPN-IDs an, und wählen Sie die ID aus, deren Land dem Land Ihres CSP-Kontos entspricht. Anders ausgedrückt: Ihr CSP-Konto und die zugehörige MPN-ID müssen sich in demselben Land bzw. derselben Region befinden.
-    
-     
+   a. Melden Sie sich mit den Anmeldeinformationen für Ihr MPN-Konto beim Partner Center an. (Ihre MPN-Anmeldeinformationen können sich von Ihren CSP-Anmeldeinformationen unterscheiden.)
+   
+   b. Wechseln Sie zu **Einstellungen** -> **Kontoeinstellungen** -> **Organisationsprofil** -> **Bezeichner**.
+ 
+    c. Suchen Sie nach der MPN-ID mit dem Typ „Standort“, der dem Land dieses CSP-Kontos entspricht. 
+
+    d. Wenn Sie die Standort-MPN-ID, die dem zu verwendenden CSP-Konto entspricht, nicht finden, können Sie einen neuen Standort hinzufügen, um eine neue MPN-ID zu erstellen. Weitere Informationen finden Sie unter [Verwalten von Standorten](manage-locations.md).
+
+    e. Sie können diesen Schritt vorerst verschieben, doch können Sie erst nach der Zuordnung Ihrer MPN-ID zu Ihrem CSP-Konto die Microsoft Partner-Vereinbarung (MPA) unterzeichnen oder Transaktionen in CSP durchführen.
+
  > [!IMPORTANT]  
-   > Wählen Sie die MPN-ID aus, die sich im gleichen Land oder der gleichen Region wie Ihr CSP-Konto befindet.
+ > Wählen Sie die MPN-ID aus, die im Partner Center und in demselben Land wie Ihr CSP-Konto verfügbar ist, und stellen Sie sicher, dass Ihre MPN-ID im Partner Center vorhanden ist.
 
-6. Wenn dein Partner Center-Konto einsatzbereit ist, vergewissere dich, ob du der Administrator-Agent-Gruppe hinzugefügt wurdest. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
+6. Nachdem Microsoft die Registrierungsüberprüfung abgeschlossen hat (dies dauert drei bis fünf Werktage), unterzeichnen Sie die Microsoft Partner-Vereinbarung auf der [Übersichtsseite des Partner Center-Dashboards](https://partner.microsoft.com/pcv/dashboard/overview). Dazu verwenden Sie die Anmeldeinformationen eines globalen Administrators. Wenn Sie die **Microsoft Partner-Vereinbarung** vor der Unterzeichnung anzeigen und herunterladen möchten, klicken Sie wie unten gezeigt auf den Link für die Microsoft Partner-Vereinbarung.  Wenn sich Ihr Konto nach fünf Werktagen noch immer in der Überprüfung befindet, lesen Sie [Kontoüberprüfungsprozess](verification-responses.md).
+
+
+:::image type="content" source="images/agreement-three.png" alt-text="Neue Position der MPA-Vereinbarung":::
+
+ 
+7. Vergewissern Sie sich im Abschnitt mit den **Programminformationen** im Partner-Profil, dass Sie die Microsoft Partner-Vereinbarung unterzeichnet haben. Außerdem wird auf der CSP-Übersichtsseite eine Bannerbenachrichtigung zur Bestätigung angezeigt. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Grünes Banner für akzeptierte Vereinbarung":::
+
+
+8. Wenn dein Partner Center-Konto einsatzbereit ist, vergewissere dich, ob du der Administrator-Agent-Gruppe hinzugefügt wurdest. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
 
    1. Wählen Sie im Partner Center-Dashboard das Symbol **Einstellungen** und dann unter **Kontoeinstellungen** die Option **Benutzerverwaltung** aus.
 
    2. Wählen Sie ihren Namen aus der Benutzerliste aus. Wählen Sie dann **Administrator-Agent** aus, sofern der Eintrag noch nicht ausgewählt ist. Wählen Sie **Aktualisieren** aus.
-
-## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Alle indirekten Vertriebspartner müssen die Microsoft Partner-Vereinbarung unterzeichnen
-
-1.  Wenn Sie noch nicht von Partner Membership Center zu Partner Center gewechselt haben, nehmen Sie diese Umstellung jetzt vor. Hilfe bei der Umstellung auf Partner Center finden Sie im [Leitfaden zum Migrieren von PMC zu Partner Center](guide-to-migration.md). 
-
-2.  Wenn Sie über ein Partner Center-Mitgliedskonto (MPN-ID) verfügen, müssen Sie sich dennoch offiziell für das Cloud Solution Provider-Programm registrieren. Zum Überprüfen Ihres Mitgliedschaftsstatus wechseln Sie zu Ihrem [**Partner-Profil**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile), und bestätigen Sie den Kontotyp. Dann [registrieren Sie sich in CSP als indirekter Vertriebspartner](enrolling-in-the-csp-program.md). Nachdem Sie sich als indirekter Vertriebspartner registriert haben, [nehmen Sie die Anfrage für eine CSP-Beziehung von Ihrem indirekten Anbieter an](indirect-reseller-tasks-in-partner-center.md).
-
-3.  Wenn Sie sich bereits im Partner Center als indirekter Vertriebspartner registriert haben, müssen Sie die Microsoft Partner-Vereinbarung in der [Partner Center-Dashboardübersicht](https://partner.microsoft.com/pcv/dashboard/overview) mit den Anmeldeinformationen eines globalen Administrators akzeptieren. Vergewissern Sie sich im Abschnitt mit den **Programminformationen** im Partner-Profil, dass Sie die Microsoft Partner-Vereinbarung unterzeichnet haben. Außerdem wird auf der CSP-Übersichtsseite eine Bannerbenachrichtigung zur Bestätigung angezeigt. 
-
-:::image type="content" source="images/mpagreen.png" alt-text="Grünes Banner für akzeptierte Vereinbarung":::
-
 
 ## <a name="connect-with-an-indirect-provider"></a>Zusammenarbeiten mit einem indirekten Anbieter
 
@@ -145,3 +153,4 @@ Ihr offizieller Geschäftsstandort als indirekter Wiederverkäufer (CSP Indirect
 - [Weitere Informationen zum Überprüfungsprozess](verification-responses.md)
 
 - [Siehe die Anforderungen für Partner mit direkter Abrechnung](direct-partner-new-requirements.md)
+- [Microsoft-Partnervereinbarung](microsoft-partner-agreement.md)

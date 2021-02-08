@@ -1,7 +1,7 @@
 ---
 title: Übersicht über die Abrechnung im Partner Center
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 01/28/2021
 description: Informieren Sie sich über die grundlegende Abrechnung und Rechnungsstellung für CSP-Partner im Partner Center. Sie erfahren auch, wie Kunden abgerechnet werden und wie Sie Ihre Rechnung suchen und lesen können.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570704"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042717"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Abrechnungsübersicht für CSP-Programmpartner, die im Partner Center arbeiten 
 
@@ -53,7 +53,7 @@ Zu den Abrechnungsarten in Partner Center gehören **lizenzbasierte Abrechnung**
 
 **Lizenzbasierte und nutzungsbasierte Abrechnung**: Ihnen werden Produkte in der Währung des Landes oder der Region in Rechnung gestellt, in der Sie sich befinden. Die Abrechnung erfolgt unabhängig vom Standort des Kunden, an den Sie die Produkte verkauft haben.
 
-**Einmalige Abrechnung**: Ihre Rechnung wird im Kontext der Kundenwährung generiert. Dies bedeutet: Wenn Sie als Partner Transaktionen mit Kunden aus unterschiedlichen abrechenbaren Währungen durchführen, erhalten Sie für jeden Kundenwährungstyp eine Rechnung. Lesen Sie mehr zu [einmalig und wiederkehrend](azure-plan-billing.md). 
+**Einmalige Abrechnung**: Ab dem 28. Januar 2021 erfolgt für Partner in der Region der EU/EFTA und des Vereinigten Königreichs, die neue Kunden und CSP-Bestandskunden haben, welche zum ersten Mal neue E-Commerce-Angebote erwerben und deren Mandanten vor dem 11. Mai 2020 erstellt wurden, die Abrechnung für diese Käufe in der Währung am Standort des Partners.  Für Partner außerhalb der Region der EU/EFTA und des Vereinigten Königreichs erfolgt die Abrechnung weiterhin in der Währung am Standort des Partners. Lesen Sie mehr zu [einmalig und wiederkehrend](azure-plan-billing.md). 
 
 ## <a name="invoices"></a>Rechnungen
 
@@ -86,6 +86,8 @@ So zeigen Sie Preislisten an:
 Die Zahlungsbedingungen sind 60 Tage netto. Rechnungen müssen bis zum Fälligkeitsdatum (60 Tage nach dem Abrechnungsdatum) bezahlt werden. Andernfalls ist Ihr Konto im Rückstand, und das kann sich auf Ihre Registrierung im CSP auswirken. 
 
 Sie können den vollen Funktionsumfang Ihrer ausgesetzten Konten zurückerhalten, wenn Sie den fälligen Betrag zahlen.
+
+Sobald die korrigierten Abrechnungsinformationen bereitgestellt wurden, wird Ihre Zahlung innerhalb von fünf Werktagen auf der Abrechnungsseite im Partner Center angezeigt.
 
 ### <a name="taxes-and-vat"></a>Steuern und Mehrwertsteuer
 

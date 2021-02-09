@@ -1,27 +1,27 @@
 ---
 title: Problembehandlung bei Zahlungen und Einnahmen
 ms.topic: article
-ms.date: 10/30/2020
+ms.date: 02/05/2021
 description: Erfahren Sie, wie Sie Probleme beheben, z. b. fehlende oder falsche Einnahmen, Berechtigungsprobleme und wie Sie die Auswirkungen ihrer Anreize abstimmen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: e3a8890127ce9ff73fd09b7a35d4e167b5629f45
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189763"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834882"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Problembehandlung bei fehlenden Zahlungen, falschen Erträgen und anderen Problemen
 
-**Gilt für** :
+**Gilt für**:
 
 - Partner Center
 
-**Geeignete Rollen** :
+**Geeignete Rollen**:
 
 - Incentiveadministrator
 
@@ -37,7 +37,7 @@ Die Prüfung kann bis zu 48 Stunden dauern. Während dieser Zeit wird Ihr Profi
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>Wie erkenne ich, dass ich mein Auszahlungs- und Steuerprofil ordnungsgemäß ausgefüllt habe?
 
-Der Status Ihrer Registrierung wird auf der Seite „Übersicht“ angezeigt. Wenn Sie die Profilerstellung abgeschlossen haben, wird der Status der Registrierung **überprüft** . Nachdem wir Ihre Daten überprüft haben, **ändert sich der Status in "** registriert". Dieser Status gibt an, dass Ihr Auszahlungs-und Steuer Profil und Ihre Registrierung erfolgreich abgeschlossen wurden.
+Der Status Ihrer Registrierung wird auf der Seite „Übersicht“ angezeigt. Wenn Sie die Profilerstellung abgeschlossen haben, wird der Status der Registrierung **überprüft**. Nachdem wir Ihre Daten überprüft haben, **ändert sich der Status in "** registriert". Dieser Status gibt an, dass Ihr Auszahlungs-und Steuer Profil und Ihre Registrierung erfolgreich abgeschlossen wurden.
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>Warum muss ich mein Steuerprofil aktualisieren, um es mit einem neuen Incentives-Programm zu nutzen?
 
@@ -62,7 +62,7 @@ Fehlende oder falsche Zahlungen sind häufig auf eine der folgenden Ursachen zur
   
   3. Wählen Sie den gewünschten Dokument Link aus, und überprüfen Sie die Abschnitte. 
 
-Regeln für den **Partner** und **berechtigte Umsätze** .
+Regeln für den **Partner** und **berechtigte Umsätze**.
 
 - **Ihr Zahlungsprofil ist möglicherweise unvollständig.** Das Startdatum Ihrer Incentive-Einnahmen ist der erste Tag des Monats, in dem Sie alle Berechtigungsvoraussetzungen erfüllt haben, einschließlich Onboarding mit Auszahlungs- und Steuerdetails. In den Monaten vor der Vervollständigung der Angaben zu Auszahlung und Steuern stehen Einnahmen nicht zur Verfügung. Wenn Sie beispielsweise alle Anforderungen während des Monats April 2020 erfüllt haben, ist der 1. April 2020 das Startdatum für Ihre Einnahmen.
 - **Möglicherweise liegt eine ausstehende Aktion** vor.  Es könnte sein, dass Ihre Incentives nicht verarbeitet werden, weil eine Aktion von Ihnen noch aussteht.
@@ -70,9 +70,27 @@ Regeln für den **Partner** und **berechtigte Umsätze** .
   **So zeigen Sie ausstehende Aktionen an**
 
   1. Melden Sie sich bei [Partnern](https://partner.microsoft.com/membership/partner-incentives)an.
-  2. Öffnen Sie die Seite **Transaktionsverlauf** . Überprüfen Sie die Felder auf dieser Seite auf Ausstehende Aktionen, die abgeschlossen werden müssen, z. b. **ausstehende Steuer profile** , **ausstehende Zahlungs profile** oder **ausstehende Steuer Rechnungs Übermittlung** .
+  2. Öffnen Sie die Seite **Transaktionsverlauf** . Überprüfen Sie die Felder auf dieser Seite auf Ausstehende Aktionen, die abgeschlossen werden müssen, z. b. **ausstehende Steuer profile**, **ausstehende Zahlungs profile** oder **ausstehende Steuer Rechnungs Übermittlung**.
 
 Wenn diese Aktionen nicht hilfreich sind und ihre Zahlungen weiterhin fehlen oder nicht korrekt sind, wenden Sie sich an den [Support](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).
+
+## <a name="how-can-i-reconcile-my-adjustments"></a>Wie kann ich meine Anpassungen abstimmen?
+
+Sie können Ihre Anpassungen suchen und abstimmen, indem Sie Ihre Informationen zum Erwerb und zur Transaktion herunterladen.
+
+1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
+2. Wählen Sie in der oberen Navigationsleiste das Money-Symbol und dann **Transaktionsverlauf** aus.
+3. Wenden Sie die entsprechenden Filter an. (Siehe den **wichtigen** Hinweis unten.)
+4. Nachdem Sie die Daten gefiltert haben, klicken Sie auf **Download starten**, und wählen Sie dann **Daten exportieren** aus. Ihre Daten werden in einer CSV-Datei geöffnet.
+5. Navigieren Sie in der CSV-Datei zu Spalte P, **verdienungstyp**.
+6. Filtern Sie diese Spalte auf **Anpassung-Rabatt**. Sie können den Monat jeder Anpassung in den Spalten S sehen.
+
+>[!IMPORTANT]
+>Anpassungen, die auf vorherige Gewinn Zeiträume angewendet werden, sind in dem Ergebnis für den Monat, in dem die Anpassung angewendet wurde, nicht sichtbar. Anpassungen werden immer im Ergebnisbericht für den Monat angezeigt, auf den die Anpassung angewendet wurde.
+>
+>Beispielsweise wird eine Anpassung für den Wert vom Januar 2019, der im September 2019 verarbeitet wurde, nicht im Ergebnis Betrag für den 2019. September widerspiegeln. Wenn jedoch die Zahlung für September 2019 empfangen wird, enthält Sie die Anpassung für den Januar 2019, die im September angewendet wurde. In diesem Szenario müssen Sie die Transaktionsdetails für den Januar 2019 herunterladen, um die angewendete Anpassung anzuzeigen.
+>
+>Beachten Sie dies, wenn Sie Ihre Datumsfilter festlegen. Wie bereits erwähnt, werden Anpassungen für vorherige Zeiträume nur in dem Monat sichtbar, auf den die Anpassung angewendet wurde. Überprüfen Sie, ob der ausgewählte Datumsbereich mit dem Monat der Anpassung übereinstimmt, die Sie suchen möchten. Sie müssen möglicherweise **Alle löschen** auswählen, um die Filter zu entfernen, und dann neue anwenden.
 
 ## <a name="why-are-my-co-op-claim-payments-made-in-two-different-currencies"></a>Warum erfolgen Zahlungen für meinen Co-Op-Anspruch in zwei verschiedenen Währungen?
 
@@ -102,13 +120,13 @@ Fehlende oder falsche Einnahmen können durch eines der folgenden Probleme verur
 
 Das Ergebnis wird auf der Seite **Transaktionsverlauf** und auf der Seite **Zahlungen** angezeigt. Sie können auf beide Seiten zugreifen, indem Sie das **Auszahlungs** Symbol auf der Navigationsleiste im Partner Center auswählen.
 
-:::image type="content" source="images/incentives/paymenticon.png" alt-text="Transaktionsinformationen&quot;:::
+:::image type="content" source="images/incentives/paymenticon.png" alt-text="Transaktionsinformationen":::
 
 Monatliche Erwerbs Beträge in der Transaktions Verlaufs Ansicht können nicht mit dem für einen bestimmten Monat empfangenen Zahlungsbetrag übereinstimmen. Der Grund hierfür ist die Neuberechnung und die Anpassungen für vorherige Erwerbs Zeiträume, die auf zukünftige Zahlungen angewendet werden.
 
 Beispielsweise wird eine Anpassung für das Ergebnis vom Januar 2019, das im September 2019 verarbeitet wurde, nicht im Ergebnis Betrag für den 2019 Wenn jedoch die Zahlung für September 2019 empfangen wird, enthält Sie die Anpassung für den Januar 2019, die im September angewendet wurde.
 
-In diesem Szenario müssen Sie die Transaktionsdetails herunterladen, um eine vollständige Übersicht über alle in Ihrer Zahlung enthaltenen Einnahmen zu erhalten.  Außerdem können Sie zur Ansicht &quot;Zahlungen" navigieren, um Transaktionen für jede Zahlung herunterzuladen.
+In diesem Szenario müssen Sie die Transaktionsdetails herunterladen, um eine vollständige Übersicht über alle in Ihrer Zahlung enthaltenen Einnahmen zu erhalten.  Außerdem können Sie zur Ansicht "Zahlungen" navigieren, um Transaktionen für jede Zahlung herunterzuladen.
 
 ### <a name="transaction-history"></a>Transaktionsverlauf
 
@@ -123,7 +141,7 @@ Diese Ansicht ermöglicht es Ihnen, die Zahlungen für alle Programme und MPN-ID
 | Anzeigen der Zahlungsinformationen per Zeile, einschließlich der Beträge und Zahlungsbeträge in der lokalen Währung  | Siehe die **Liste der Zahlungs** Felder.   |
 | Herunterladen eines Buchstabens   |  **Zahlungs Übertragung** auswählen  |
 | Details der Transaktionsebene für eine bestimmte Zahlung anzeigen |  **Ansicht** auswählen  |
-| Transaktionsdetails in Excel exportieren  |  Wählen Sie **Download starten** aus, und klicken Sie dann auf **Daten exportieren** . Beachten Sie, dass alle ausgewählten Filter auf die exportierten Daten angewendet werden. Nachdem sich der Status in abgeschlossen geändert hat, wählen Sie **herunterladen** aus, und befolgen Sie die Anweisungen, um den Bericht zu den ausführlichen Transaktionen zu Aktualisieren Sie die Seite, wenn der Status nicht innerhalb von fünf Minuten aktualisiert wird.  |
+| Transaktionsdetails in Excel exportieren  |  Wählen Sie **Download starten** aus, und klicken Sie dann auf **Daten exportieren**. Beachten Sie, dass alle ausgewählten Filter auf die exportierten Daten angewendet werden. Nachdem sich der Status in abgeschlossen geändert hat, wählen Sie **herunterladen** aus, und befolgen Sie die Anweisungen, um den Bericht zu den ausführlichen Transaktionen zu Aktualisieren Sie die Seite, wenn der Status nicht innerhalb von fünf Minuten aktualisiert wird.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Fehlende oder falsche Einnahmen und Zahlungen
 
@@ -151,7 +169,7 @@ Wenden Sie sich an den [Support](https://partner.microsoft.com/dashboard/support
 
 3. Wählen Sie den Dokument Link für das jeweilige Programm aus.
 
-4. Lesen Sie im Dokument den Abschnitt **Programmstruktur und-Sätze** .
+4. Lesen Sie im Dokument den Abschnitt **Programmstruktur und-Sätze**.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

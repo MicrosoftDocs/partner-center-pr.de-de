@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.date: 02/05/2021
+ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552415"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588732"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,9 +22,10 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 |**Kategorie**|**Ankündigungen für Februar 2021**|**Angekündigt**|
 |---------|:---------|:---------|
-|Funktionen|[Reaktion auf COVID-19: Microsoft Partner Network-Update](2021-february.md#3)|4\. Februar|
-|Funktionen|[Neue Updates für das Modul „Empfehlungen“ im Partner Center](2021-february.md#2)|4\. Februar|
-|Moderner Arbeitsplatz|[Einstellung und Deaktivierung von PUT-Qualifizierungs-APIs für den Überprüfungsprozess für Kunden im Bildungswesen zum 25. Februar 2021 und der GET-Qualifizierung zum 4. Mai 2021](2021-february.md#1)|4\. Februar|
+|Funktionen|[Premium-Bewertungen, ein Add-On für Compliance Manager, ist ab dem 1. März 2021 erhältlich](2021-february.md#4)|5\. Februar|
+|Funktionen|[Reaktion auf COVID-19: Microsoft Partner Network-Update](2021-february.md#3)|4. Februar|
+|Funktionen|[Neue Updates für das Modul „Empfehlungen“ im Partner Center](2021-february.md#2)|4. Februar|
+|Moderner Arbeitsplatz|[Einstellung und Deaktivierung von PUT-Qualifizierungs-APIs für den Überprüfungsprozess für Kunden im Bildungswesen zum 25. Februar 2021 und der GET-Qualifizierung zum 4. Mai 2021](2021-february.md#1)|4. Februar|
 | **Kategorie** | **Ankündigungen für Januar 2021** | **Angekündigt** |
 |Moderner Arbeitsplatz|[Phase 1 jetzt aktiv: Änderung der Partnerabrechnungswährung für neue E-Commerce-Angebote in der EU/EFTA und im Vereinigten Königreich](2021-january.md#15)|28. Januar|
 |Moderner Arbeitsplatz|[Änderungen der Anforderungen für das Onboarding von Kunden im CSP-Programm (Cloud Solution Provider)](2021-january.md#14)|28. Januar|

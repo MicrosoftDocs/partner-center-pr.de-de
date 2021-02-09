@@ -1,19 +1,19 @@
 ---
 title: FAQ zu Incentives
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 02/05/2021
 description: Häufig gestellte Fragen zu Microsoft-Incentives. Dieser Artikel enthält Fragen zu Benutzer Rollen, zur Registrierung oder zu den Vorgehensweisen für Fehlermeldungen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624220"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99835066"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Häufig gestellte Fragen zu Incentives
 
@@ -67,17 +67,11 @@ Der Grund dafür, dass Sie keine Anreize sehen können, liegt darin, dass Sie ni
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Einige Registrierungen fehlen auf der Seite mit den Incentives (Übersicht).
 
-Wenn Sie auf der Seite "Übersicht über die **Übersicht** " weniger Registrierungen wie erwartet sehen, können Sie die folgenden Schritte ausführen.
+Wenn Sie entweder eine Einladung von erhalten haben oder sich bei angemeldet haben, sollten Sie ein Incentive-Programm, das nicht mehr im Dashboard angezeigt wird, überprüfen, ob Sie über die entsprechenden Zugriffsberechtigungen verfügen. Nur Benutzer mit der Rolle "Incentive-Benutzer" oder "Incentive admin" können das Programm sehen. Siehe [Suchen ihrer Rolle](https://docs.microsoft.com/partner-center/find-your-role).
 
-1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
+Wenn Sie Ihre Rolle oder Berechtigungen ändern müssen, wenden Sie sich an den globalen oder Konto Administrator Ihres Unternehmens. Informationen dazu, wer diese Personen sind, [finden Sie untersuchen des globalen Administrators](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin).
 
-2. Wählen Sie unter **Einstellungen** die Option [Benutzerverwaltung](https://partner.microsoft.com/pcv/users)aus.
-
-3. Wählen Sie Ihren Namen aus, um Ihre Berechtigungen anzuzeigen.
-
-Wenn Sie Ihre Rolle oder Berechtigungen ändern müssen, sehen Sie sich den globalen oder Konto Administrator Ihres Unternehmens an.
-
-Beachten Sie, dass auf dieser Seite nur Registrierungen angezeigt werden, die dem globalen Partner Konto zugeordnet sind, das dem Azure AD Mandanten zugeordnet ist. Wenn Ihr Unternehmen über mehr als eine PGA verfügt, benötigen Sie jeweils andere Anmelde Informationen.
+Beachten Sie, dass auf der Übersichtsseite nur Registrierungen angezeigt werden, die dem globalen Partner Konto zugeordnet sind, das dem Azure AD Mandanten zugeordnet ist. Wenn Ihr Unternehmen über mehr als eine PGA verfügt, benötigen Sie jeweils andere Anmelde Informationen.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>An wen sollte ich mich wenden, wenn ich eine Fehlermeldung erhalte oder während des Registrierungsvorgangs Hilfe benötige?
 

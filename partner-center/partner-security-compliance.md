@@ -9,27 +9,22 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 673728ad03d6617fa60ba4119f0ebbbaaa4ce328
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132962"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624152"
 ---
 # <a name="security-requirements-status-report"></a>Bericht zum Status der Sicherheitsanforderungen
 
-**Zielgruppe**
-
-- Alle Partner im Cloud Solution Provider-Programm
-- Alle Control Panel-Anbieter
-- Alle Berater
-
-**Geeignete Benutzer**
-- Alle aktivierten Benutzer einschließlich Gastbenutzer
+**Geeignete Rollen**
+- Control Panel Vendors
+- Globale Administratoren
 
 In diesem Artikel wird der Bericht zum Status der Sicherheitsanforderungen im Partner Center erläutert. Dieser Bericht enthält Metriken zur Einhaltung von [Sicherheitsanforderungen für Partner](partner-security-requirements.md) hinsichtlich der mehrstufigen Authentifizierung (Multi-Factor Authentication, MFA) für Benutzer in Ihrem Partnermandanten.
 
-Um auf diesen Bericht im [Partner Center](https://partner.microsoft.com/dashboard) zuzugreifen, wechseln Sie zu **Einstellungen** > **Partnereinstellungen** > **Status der Sicherheitsanforderungen**. Der Bericht wird täglich aktualisiert und stellt die Anmeldedaten der letzten sieben Tage dar.
+Um auf diesen Bericht im [Partner Center](https://partner.microsoft.com/dashboard) zuzugreifen, wechseln Sie zu **Einstellungen** > **Kontoeinstellungen** > **Status der Sicherheitsanforderungen**. Der Bericht wird täglich aktualisiert und stellt die Anmeldedaten der letzten sieben Tage dar.
 
 >[!NOTE]
 >Der Bericht zum Status der Sicherheitsanforderungen wird nur im Partner Center unterstützt. Er steht in der Microsoft Cloud for US Government oder der Microsoft Cloud Deutschland nicht zur Verfügung. Es wird dringend empfohlen, dass alle Partner, die Transaktionen über eine unabhängige Cloud (US Government und Deutschland) ausführen, diese neuen Sicherheitsanforderungen sofort umsetzen. Diese Partner sind derzeit jedoch nicht verpflichtet, die neuen Sicherheitsanforderungen zu erfüllen. Microsoft wird in Zukunft zusätzliche Details zur Durchsetzung dieser Sicherheitsanforderungen für unabhängige Clouds bereitstellen.
@@ -60,7 +55,7 @@ Die Metrik **Über das Partner Center-Portal** bezieht sich auf Aktivitäten im 
 - An den verbleibenden vier Tagen wurden von keinem der Mitarbeiter Vorgänge ausgeführt.
 - Von den 10 Vorgängen, die innerhalb des 7-Tage-Zeitraums stattgefunden haben, wurden zwei von Benutzern mit MFA-Überprüfung vorgenommen. Daher zeigt die Metrik 20 % an.
 
-Verwenden Sie die Datei für **Portalanforderungen ohne MFA** , um zu ermitteln, welcher Benutzer sich ohne MFA-Überprüfung beim Partner Center-Dashboard angemeldet hat, und wann der letzte Besuch innerhalb des Berichterstellungszeitfensters stattgefunden hat.
+Verwenden Sie die Datei für **Portalanforderungen ohne MFA**, um zu ermitteln, welcher Benutzer sich ohne MFA-Überprüfung beim Partner Center-Dashboard angemeldet hat, und wann der letzte Besuch innerhalb des Berichterstellungszeitfensters stattgefunden hat.
 
 #### <a name="appuser-mfa-verification"></a>MFA-Überprüfung für Anwendung und Benutzer
 
@@ -75,8 +70,8 @@ Die Metrik **Über API oder SDK** bezieht sich auf die Anwendungs- und Benutzera
 
 Wenn Sie wissen möchten, welche App- und Benutzeraktivitäten diese Metrik nicht zu 100 % erfüllen, verwenden Sie die folgenden Dateien:
 
-- **Zusammenfassung der API-Anforderungen** : Bietet Informationen zum allgemeinen MFA-Status nach Anwendung.
-- **Alle API-Anforderungen** : Enthält Details zu den einzelnen API-Anforderungen von Benutzern Ihres Mandanten. Das Ergebnis ist auf die letzten 10.000 Anforderungen beschränkt, um die Downloaderfahrung zu verbessern.
+- **Zusammenfassung der API-Anforderungen**: Bietet Informationen zum allgemeinen MFA-Status nach Anwendung.
+- **Alle API-Anforderungen**: Enthält Details zu den einzelnen API-Anforderungen von Benutzern Ihres Mandanten. Das Ergebnis ist auf die letzten 10.000 Anforderungen beschränkt, um die Downloaderfahrung zu verbessern.
 
 ## <a name="actions-for-mfa-status-below-100"></a>Aktionen für MFA-Status unter 100 %
 
@@ -107,9 +102,9 @@ Sie sollten wissen, ob MFA von Ihrer aktuellen Implementierung nur unter bestimm
 
 Wenn Sie eine MFA-Lösung eines Drittanbieters verwenden, bestimmen Sie, wie Sie diese in Azure AD integrieren. Im Allgemeinen gibt es zwei Methoden, einschließlich Partnerverbund und benutzerdefinierter Steuerelemente:
 
-* **Identitätsverbund** : Wenn Azure AD eine Authentifizierungsanforderung empfängt, leitet Azure AD den Benutzer zur Authentifizierung an den Verbundidentitätsanbieter um. Bei erfolgreicher Authentifizierung leitet der Verbundidentitätsanbieter den Benutzer zusammen mit einem SAML-Token wieder an Azure AD weiter. Damit Azure AD erkennen kann, dass der Benutzer die MFA-Überprüfung bei seiner Authentifizierung beim Verbundidentitätsanbieter abgeschlossen hat, muss das SAML-Token den Anspruch *authenticationmethodsreferences* (mit dem Wert *multipleauthn* ) enthalten. Überprüfen Sie, ob der Verbundidentitätsanbieter die Ausstellung eines solchen Anspruchs unterstützt. Ist dies der Fall, überprüfen Sie, ob der Verbundidentitätsanbieter entsprechend konfiguriert wurde. Wenn der Anspruch fehlt, liegen in Azure AD (und entsprechend auch im Partner Center) keine Informationen vor, dass der Benutzer die MFA-Überprüfung abgeschlossen hat, was dazu führen kann, dass die Metrik keine 100 % erreicht.
+* **Identitätsverbund**: Wenn Azure AD eine Authentifizierungsanforderung empfängt, leitet Azure AD den Benutzer zur Authentifizierung an den Verbundidentitätsanbieter um. Bei erfolgreicher Authentifizierung leitet der Verbundidentitätsanbieter den Benutzer zusammen mit einem SAML-Token wieder an Azure AD weiter. Damit Azure AD erkennen kann, dass der Benutzer die MFA-Überprüfung bei seiner Authentifizierung beim Verbundidentitätsanbieter abgeschlossen hat, muss das SAML-Token den Anspruch *authenticationmethodsreferences* (mit dem Wert *multipleauthn*) enthalten. Überprüfen Sie, ob der Verbundidentitätsanbieter die Ausstellung eines solchen Anspruchs unterstützt. Ist dies der Fall, überprüfen Sie, ob der Verbundidentitätsanbieter entsprechend konfiguriert wurde. Wenn der Anspruch fehlt, liegen in Azure AD (und entsprechend auch im Partner Center) keine Informationen vor, dass der Benutzer die MFA-Überprüfung abgeschlossen hat, was dazu führen kann, dass die Metrik keine 100 % erreicht.
 
-* **Benutzerdefiniertes Steuerelement** : Ein benutzerdefiniertes Azure AD-Steuerelement kann nicht verwendet werden, um zu ermitteln, ob ein Benutzer die MFA-Überprüfung über eine MFA-Lösung eines Drittanbieters abgeschlossen hat. Daher erscheint jeder Benutzer, der die MFA-Überprüfung mithilfe eines benutzerdefinierten Steuerelements abgeschlossen hat, für Azure AD (und in der Folge auch für das Partner Center) als mit nicht abgeschlossener MFA-Überprüfung angemeldet. Es empfiehlt sich, wo immer möglich dem Identitätsverbund bei der Integration in Azure Ad gegenüber benutzerdefinierten Steuerelementen den Vorzug zu geben.
+* **Benutzerdefiniertes Steuerelement**: Ein benutzerdefiniertes Azure AD-Steuerelement kann nicht verwendet werden, um zu ermitteln, ob ein Benutzer die MFA-Überprüfung über eine MFA-Lösung eines Drittanbieters abgeschlossen hat. Daher erscheint jeder Benutzer, der die MFA-Überprüfung mithilfe eines benutzerdefinierten Steuerelements abgeschlossen hat, für Azure AD (und in der Folge auch für das Partner Center) als mit nicht abgeschlossener MFA-Überprüfung angemeldet. Es empfiehlt sich, wo immer möglich dem Identitätsverbund bei der Integration in Azure Ad gegenüber benutzerdefinierten Steuerelementen den Vorzug zu geben.
 
 ### <a name="identify-which-users-have-signed-in-to-partner-center-without-mfa"></a>Identifizieren der Benutzer, die sich ohne MFA beim Partner Center angemeldet haben
 

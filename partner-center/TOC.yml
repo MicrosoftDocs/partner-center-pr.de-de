@@ -9,7 +9,7 @@
     - name: Partner von Microsoft
       href: mpn-overview.md
       displayName: mpn
-    - name: Erstellen eines Partner Center-Kontos
+    - name: Erstellen eines MPN-Kontos im Partner Center
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: Beziehen einer geschäftlichen E-Mail-Adresse
@@ -47,6 +47,9 @@
           displayName: 'renew, mpn'
         - name: Verlängern Ihrer Angebote
           href: renew-mpn-offers.md
+          displayName: mpn
+        - name: Anfordern einer Rückerstattung
+          href: mpn-refund-request.md
           displayName: mpn
         - name: Finden Ihrer MPN-Vorteile
           href: mpn-find-benefits.md
@@ -87,6 +90,9 @@
         - name: Vorteile der Markteinführung
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
+        - name: Demos für MPN-Partner
+          href: mpn-demos.md
+          displayName: mpn
         - name: Häufig gestellte Fragen zu den Vorteilen
           href: benefits-faq.md
           displayName: 'renew, license,'
@@ -121,9 +127,6 @@
     - name: Microsoft Partner-Vereinbarung – CSPs
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
-    - name: Standorte verwalten
-      href: manage-locations.md
-      displayName: 'mpn, csp'
     - name: Wie indirekte Anbieter ihren Wiederverkäufern bei der MPA-Übernahme helfen können
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -191,6 +194,9 @@
           displayName: mpn
         - name: Verknüpfen Ihres Geschäftskontos
           href: azure-active-directory-tenants-and-partner-center.md
+        - name: Standorte verwalten
+          href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: Überprüfen des Domänenbesitzes
           href: become-global-admin.md
         - name: Überprüfen der Kontoinformationen
@@ -256,6 +262,8 @@
       items:
         - name: Informationen zu Co-Selling-Leads
           href: manage-co-sell-opportunities.md
+        - name: Massenvorgänge
+          href: bulk-operations.md
         - name: Verwenden von Co-Selling-CRM-Connectors
           items:
             - name: "Dynamics\_365"

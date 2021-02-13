@@ -1,7 +1,7 @@
 ---
-title: Erstellen eines Partner Center-Kontos
+title: Erstellen eines MPN-Kontos im Partner Center
 ms.topic: article
-ms.date: 01/07/2021
+ms.date: 02/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Mitglieder im Microsoft Partner Network ein Partner Center-Konto erstellen können, um ihre Netzwerkvorteile und Kompetenzen zu verwalten.
@@ -9,109 +9,68 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7aa97760be9fdb2cc004ffd5612826f777c05c5
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
+ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979735"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "100013689"
 ---
-# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Erstellen eines Partner Center-Kontos zum Verwalten von Netzwerkvorteilen und Kompetenzen
+# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Erstellen eines MPN-Kontos im Partner Center zum Verwalten von Netzwerkvorteilen und Kompetenzen
 
-**Geeignete Rollen**
 
-- Globaler Administrator
-- Administrator-Agent
+Wenn Sie das Microsoft Partner Network (MPN) zum ersten Mal verwenden und noch keine MPN-ID besitzen, können Sie mit der Registrierung anhand der [Registrierungsanweisungen](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) beginnen.
 
-Damit Sie ein Konto in Partner Center erstellen oder sich für ein Partnerprogramm registrieren können, muss Ihr Unternehmen Mitglied im Microsoft Partner Network sein. Falls Sie noch kein Mitglied des Netzwerks sind, können Sie [jetzt beitreten](https://partner.microsoft.com/commercial#). Nachdem Sie ein Partner Center-Konto erstellt haben, schauen Sie sich dieses kurze Video an: [Entdecken Ihres Dashboards](https://vimeo.com/290338211).
+## <a name="prerequisites"></a>Voraussetzungen 
 
-## <a name="get-a-work-email-address-before-setting-up-a-partner-center-account"></a>Beziehen einer geschäftlichen E-Mail-Adresse vor dem Einrichten eines Partner Center-Kontos
+Wenn Sie ein Konto im Partner Center erstellen möchten, müssen Sie zunächst die folgenden Voraussetzungen erfüllen.  Es empfiehlt sich unter Umständen, vor Beginn des Vorgangs folgende Angaben zu sammeln:
 
-Ihr Unternehmen muss eine E-Mail-Domäne erwerben, damit Sie geschäftliche E-Mail-Adressen für Ihre Mitarbeiter einrichten können. Wenden Sie sich an Ihre IT-Abteilung, um eine E-Mail-Domäne zu erwerben, da dies ein technischer Vorgang ist. Verwenden Sie die neue E-Mail-Domäne zum Einrichten des Azure AD-Mandanten und Ihres Partner Center-Kontos.
-
-## <a name="get-started"></a>Erste Schritte
-
-Zum Erstellen eines Kontos in Partner Center müssen Sie die folgenden Informationen zur Hand haben. Es empfiehlt sich unter Umständen, vor Beginn des Vorgangs folgende Angaben zu sammeln:
-
-- Geschäftliche E-Mail-Adresse des globalen Administrators.
-
-- Wenn Sie nicht genau wissen, was das Geschäftskonto Ihres Unternehmens ist, lesen Sie [Das Geschäftskonto Ihrer Firma und Partner Center](azure-active-directory-tenants-and-partner-center.md). Falls Ihr Unternehmen kein Geschäftskonto hat, können Sie während des Kontoerstellungsprozesses eines erstellen. 
-
-- Offizieller geschäftlicher Name und geschäftliche Anschrift Ihres Unternehmens.  
+- Geschäftliche E-Mail-Adresse des Unternehmens ODER Office 365-Geschäftskonto. Weitere Informationen finden Sie unter [Geschäftskonto des Unternehmens und Partner Center](azure-active-directory-tenants-and-partner-center.md). 
+ 
+- Offizieller geschäftlicher Name und geschäftliche Anschrift Ihres Unternehmens.
 
 - Befugnis zum Unterzeichnen von Vereinbarungen. Stellen Sie sicher, dass Sie berechtigt sind, Vereinbarungen im Auftrag Ihres Unternehmens zu unterzeichnen, weil Sie während des Registrierungsprozesses dazu aufgefordert werden.
 
-- Name und geschäftliche E-Mail-Adresse der Person, die als Hauptansprechpartner fungieren soll. Aus Sicherheits- und Datenschutzgründen werden wir Ihren Hauptansprechpartner per E-Mail kontaktieren, um uns zu vergewissern, dass (1) er/sie sich für ein Partner Center-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrem Unternehmen gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung deiner Angaben fort.
+- Name und geschäftliche E-Mail-Adresse der Person, die als Hauptansprechpartner fungieren soll. Aus Sicherheits- und Datenschutzgründen senden wir eine E-Mail an Ihren Hauptansprechpartner, um die E-Mail-Adresse zu überprüfen und sicherzustellen, dass die E-Mail-Adresse zu Ihrem Unternehmen gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung der bereitgestellten Informationen fort. Die Überprüfung dauert normalerweise drei bis fünf Werktage. 
 
-Wir überprüfen diese Informationen im Rahmen des Kontoerstellungsprozesses. Weitere Informationen zum Überprüfungsprozess finden Sie unter [Kontoüberprüfung](verification-responses.md).
- 
-## <a name="create-a-partner-center-account"></a>Erstellen eines Partner Center-Kontos
+- Weitere Informationen zum Überprüfungsprozess finden Sie unter [Kontoüberprüfung](verification-responses.md).
 
-1.  Lesen Sie die Informationen auf der Seite **Willkommen**, und wählen Sie **Weiter** aus.
+>[!NOTE]
+>Wenn Ihre Microsoft Partner Network-Mitgliedschaft noch im Partner Membership Center (PMC) enthalten ist, müssen Sie Ihr Konto sofort zum Partner Center migrieren. Laden Sie die [schrittweise Anleitung zum Migrieren](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx) herunter.
 
-2.  Melden Sie sich beim Geschäftskonto Ihres Unternehmens als globaler Administrator an. Wenn Sie nicht genau wissen, was das Geschäftskonto Ihres Unternehmens ist, lesen Sie [Das Geschäftskonto Ihrer Firma und Partner Center](azure-active-directory-tenants-and-partner-center.md).
+## <a name="get-started"></a>Erste Schritte
 
-    Wählen Sie **Anmelden** aus, wenn Sie wissen, dass Ihr Unternehmen über ein geschäftliches E-Mail-Konto verfügt. Geben Sie auf der nächsten Seite die Anmeldeinformationen eines globalen Administrators für das Geschäftskonto ein. 
+1. Beginnen Sie mit der geschäftlichen E-Mail-Adresse, die Sie von Ihrem Unternehmen erhalten haben, z. B. you@yourcompanyname.com.
+ 
+    a.  Die E-Mail-Adresse muss gültig und für Sie zugänglich sein, da wir einen Überprüfungscode senden, um den Vorgang fortzusetzen.
 
-    Falls Ihr Unternehmen kein Geschäftskonto besitzt, wählen Sie **Konto erstellen** aus, um eines einzurichten. Melden Sie sich nach der Erstellung eines Geschäftskontos mit Ihren Anmeldeinformationen eines globalen Administrators für das soeben erstellte Konto an.
+    b.  Die E-Mail-Adresse darf keine Wörter wie „info“, „admin“, „email@..“ oder „marketing@...“ enthalten, da diese nicht unterstützt werden.
 
-3.  Geben Sie das offizielle Geschäftsprofil Ihres Unternehmens an oder aktualisieren Sie es.
+    c.  Um MAPS zu erwerben oder Kompetenzen zu verwalten, müssen Sie ein Upgrade für dieses Konto durchführen, indem Sie Ihre Domäne überprüfen und zum Administrator werden. 
 
-    Sie können entweder Ihr Unternehmensprofil suchen oder Unternehmensinformationen manuell eingeben. Wenn Ihr Unternehmen bei [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) registriert ist, verwenden Sie die DUNS-ID, um nach Ihren Unternehmensinformationen zu suchen. Wenn Sie die Unternehmensdetails selbst bereitstellen möchten, wählen Sie **Manuell** aus.
+2. Sie können sich mit Ihrem Office 365-Geschäftskonto anmelden, z. B. you@contoso.onmicrosoft.com.
 
-4. Nachdem Sie die Unternehmensinformationen bereitgestellt haben, geben Sie Informationen zum Hauptansprechpartner ein, und wählen Sie dann **Jetzt registrieren** aus.
+   >[!NOTE]
+   > Zum Registrieren bei MPN können Sie nicht die vorhandenen Anmeldeinformationen für Ihr CSP-Konto verwenden.
 
-    Der Hauptansprechpartner muss eine Person in Ihrem Unternehmen sein, die wir im Zusammenhang mit Ihrer Bewerbung kontaktieren können (entweder Sie selbst oder eine andere Person in Ihrem Unternehmen). Wir prüfen anhand dieser Informationen auch, ob diese Person in Ihrem Unternehmen arbeitet und sich für ein Partner Center-Konto registriert hat.
+3. Geben Sie die offiziellen Geschäftsdetails Ihres Unternehmens an.
 
-    > [!IMPORTANT]  
-    > Aus Sicherheits- und Datenschutzgründen werden wir Ihren Hauptansprechpartner per E-Mail kontaktieren, um uns zu vergewissern, dass (1) er/sie sich für ein Partner Center-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrem Unternehmen gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung deiner Angaben fort.
+Sie können entweder Ihr Unternehmensprofil suchen oder Unternehmensinformationen manuell eingeben. Wenn Ihr Unternehmen bei [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) registriert ist, verwenden Sie die DUNS-ID, um nach Ihren Unternehmensinformationen zu suchen. Wenn Sie die Unternehmensdetails selbst bereitstellen möchten, wählen Sie **Manuell** aus.
 
-5.  Lesen und akzeptieren Sie die Bestimmungen der Microsoft Partner Network-Vereinbarung. 
+Nachdem Sie die Unternehmensinformationen bereitgestellt haben, geben Sie Informationen zum Hauptansprechpartner ein, und wählen Sie dann **Jetzt registrieren** aus.
+Der Hauptansprechpartner muss eine Person in Ihrem Unternehmen sein, die wir im Zusammenhang mit Ihrer Bewerbung kontaktieren können (entweder Sie selbst oder eine andere Person in Ihrem Unternehmen).
 
-6.  Vergewissern Sie sich, dass Sie der Administrator-Agent-Gruppe hinzugefügt wurden. Um die Einrichtung Ihres Kontos (einschließlich des Hinzufügens weiterer Benutzer) abzuschließen, müssen Sie über Administrator-Agent-Berechtigungen verfügen. Führen Sie zum Anzeigen oder Aktualisieren Ihrer Berechtigungen die folgenden Schritte aus:
+>[!IMPORTANT]
+>Aus Sicherheits- und Datenschutzgründen senden wir eine E-Mail an Ihren Hauptansprechpartner, um die E-Mail-Adresse zu überprüfen und sicherzustellen, dass die E-Mail-Adresse zu Ihrem Unternehmen gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung der von Ihnen bereitgestellten Informationen fort. Die Überprüfung dauert normalerweise drei bis fünf Werktage. 
 
-    ein. Wählen Sie im Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home**) das Symbol **Einstellungen** und anschließend **Benutzerverwaltung** aus.  
+## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Anzeigen von Kontodetails oder Anzeigen und Herunterladen der MPN-Vereinbarung
 
-    b. Wähle deinen Namen aus der Benutzerliste und dann **Administrator-Agent** aus, sofern diese Option nicht bereits ausgewählt ist. Wählen Sie **Aktualisieren** aus.  
+Melden Sie sich mit Ihren MPN-Anmeldeinformationen beim Partner Center an. Wählen Sie [**Partnerprofil**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) aus, um die rechtlichen Details Ihres Unternehmens, Ihren Überprüfungsstatus und Ihre MPN-IDs anzuzeigen und ggf. neue MPN-Standorte zu erstellen. 
 
-## <a name="view-mpn-account-details"></a>Anzeigen von MPN-Kontodetails
+Sie können auch andere wichtige Informationen wie MPN-IDs anzeigen, MPN-Standorte verwalten und die Microsoft Partner-Vereinbarung anzeigen. Verwenden Sie dazu die Links im linken Menü wie im folgenden Screenshot gezeigt.
 
-Nachdem Sie ein Partner Center-Konto erstellt haben, können Sie zum Partner Center zurückkehren, um verschiedene Kontodetails anzuzeigen. Viele dieser Details sind auf der Seite **Partnerprofil** in Ihrem Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) enthalten.
+:::image type="content" source="images/mpn-new.png" alt-text="Partnerprofil":::
 
-Diese Details umfassen Folgendes:
-
-- Offizielles Geschäftsprofil Ihres Unternehmens
-
-- Informationen zu Ihrer MPN-ID
-
-- Links zu aktuellen Vereinbarungen im Zusammenhang mit Ihrem registrierten Microsoft-Programm
-
-  Wenn Sie z. B. für das MPN-Programm registriert sind, wird ein Link zur aktuellen Microsoft Partner Network-Vereinbarung angezeigt. Wenn Sie für andere Partnerprogramme wie das CSP-Programm (Cloud Solution Provider) registriert sind, werden möglicherweise auch Links zu anderen Vereinbarungen angezeigt, z. B. der Microsoft Partner-Vereinbarung. 
-
-  > [!NOTE]
-  > Diese Art von Links kann nützlich sein, wenn Sie eine Vereinbarung überprüfen, darauf zugreifen oder herunterladen möchten, oder wenn Sie das Datum prüfen möchten, an dem sie unterzeichnet wurde.
-
-### <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Anzeigen von Kontodetails oder Anzeigen und Herunterladen der MPN-Vereinbarung
-
-Führen Sie die folgenden Schritte aus, um Kontodetails anzuzeigen oder die MPN-Vereinbarung anzuzeigen und herunterzuladen:
-
-1. Melden Sie sich mit dem Benutzernamen und Kennwort Ihres Geschäftskonto beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
-
-2. Eine Übersichtsseite wird angezeigt. (Wenn die Übersichtsseite nicht angezeigt wird, wählen Sie im linken Navigationsmenü die Option **Übersicht** aus.)
-
-3. Wählen Sie das Zahnradsymbol in der oberen rechten Ecke des Dashboards und dann **Partnereinstellungen** aus. Dadurch gelangen Sie zur Seite „Partnerprofil“.
-
-4. Auf der Seite „Partnerprofil“ werden verschiedene Bereiche angezeigt. Hierzu gehören ein Bereich **Unternehmensprofil** und ein Bereich **Programminfos**.
-
-5. Suchen Sie unter **Programminfos** nach dem Feld **MPN-Programmstatus**. Dadurch wird ein Link zu Ihrer Microsoft Partner Network-Vereinbarung angezeigt. Außerdem wird Ihr aktueller Status im Programm beschrieben.
-
-
-   :::image type="content" source="images/accountsettings/mpn-program-info-download-mpn-agreement.png" alt-text="Abbildung des Bereichs „Programminfos“ auf der Seite „Partnerprofil“ mit einem roten Kasten zur Hervorhebung des Felds „MPN-Programmstatus“ in diesem Bereich sowie dem zugehörigen Link zur Microsoft Partner Network-Vereinbarung":::
-
-6. Wählen Sie **Microsoft Partner Network-Vereinbarung** aus, um diese Vereinbarung anzuzeigen oder herunterzuladen.  
-
-> [!NOTE]
-> Mithilfe der oben genannten Schritte können Sie auch andere Vereinbarungen für andere registrierte Programme anzeigen oder herunterladen, z. B. die Microsoft Partner-Vereinbarung, wenn Sie für das CSP-Programm (Cloud Solution Provider) registriert sind.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

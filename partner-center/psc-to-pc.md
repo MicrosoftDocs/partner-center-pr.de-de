@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588749"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281358"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Leitfaden zum Co-Selling im Partner Center (PC) für Partner, die von Partner Sales Connect (PSC) migrieren
 
@@ -158,7 +158,7 @@ Bevor Sie mit der Migration von PCs beginnen, befolgen Sie die unten aufgeführt
     - Enddatum des geschätzten Deals
     - Partner Notizen
 
-Mit den Funktionen zum Massen herunterladen und Hochladen in PSC können Sie die Daten für alle berechtigten Verträge bereinigen.
+Mit den Funktionen zum Massen herunterladen und Hochladen in PSC können Sie alle fehlenden Details in der Vereinbarung für alle berechtigten Verträge hinzufügen.
 
 >[!Note]
 > Der Umgang mit der Migration ist auch dann erfolgreich, wenn die oben genannten Voraussetzungen nicht erfüllt werden. Aber Sie können den Status des Deals nicht ändern, wenn eines der oben genannten Pflichtfelder im Partner Center nicht verfügbar ist. Sie müssen dann alle erforderlichen Informationen eingeben, die in den Geschäften in Partner Center fehlen, um an diesen zu arbeiten. **Es wird dringend empfohlen, die berechtigten Verträge in PSC zu bereinigen, bevor Sie Sie zu Partner Center migrieren.**
@@ -178,9 +178,9 @@ Der Bericht enthält die folgenden Details.
 4. **PSC-Deal-ID** : der eindeutige Bezeichner im PSC für das Problem.
 5. **Fehler** : gibt an, ob bei der Migration eines bestimmten Deals ein Fehler aufgetreten ist.
 
-Alle Verträge, die erfolgreich migriert wurden, werden im PSC nicht angezeigt. Sie können mit den migrierten Geschäften in PCs arbeiten. Es gibt keine Änderungen an den Interaktionen mit den Microsoft-Verkäufern für Co-Selling-Angebote.
+Alle Verträge, die erfolgreich migriert wurden, werden im PSC nicht angezeigt. Sie können weiterhin an den migrierten Geschäften in PCs arbeiten, einschließlich der Fertigstellung der Registrierung auf dem PC. Es gibt keine Änderungen an den Interaktionen mit den Microsoft-Verkäufern für Co-Selling-Angebote.
 
-Aus dem PSC migrierte Verträge stehen auf den Registerkarten für ein-und ausgehenden Datenverkehr basierend auf der Quelle des betreffenden Deals zur Verfügung. Alle von Partnern erstellten Angebote werden auf der Registerkarte ausgehend verfügbar sein, und von Microsoft initiierte Angebote werden auf der Registerkarte eingehende von Partner Center verfügbar sein. Nach der Migration werden zwei Arten von Deals erstellt.
+Aus dem PSC migrierte Verträge stehen auf den Registerkarten für ein-und ausgehenden Datenverkehr basierend auf der Quelle des betreffenden Deals zur Verfügung. Alle von Ihrem Unternehmen gemeinsam genutzten Geschäfte sind auf der Registerkarte ausgehend verfügbar, und von Microsoft initiierte Angebote werden auf der Registerkarte eingehende von Partner Center verfügbar sein. Nach der Migration werden zwei Arten von Deals erstellt.
 
 1. **Co-Selling** -Angebote: als Co-Selling im PSC markierte Geschäfte werden als Co-Selling-Angebote im Partner Center erstellt.
 2. **Partner-LED** -Angebote: Angebote, die nicht als Co-Selling gekennzeichnet sind, werden als Partner-LED-Angebote im Partner Center erstellt. Partner-LED-Angebote sind für Microsoft-Verkäufer sichtbar und können auf Co-Selling-Angebote aktualisiert werden, bevor der Endzustand erreicht wird (gewonnen, verloren). Außerdem sind Partner-LED-Angebote für die Registrierung geeignet, wenn es eine berechtigte Lösung für die Lösung gibt.
@@ -386,12 +386,20 @@ Ihr PDMS kann nicht direkt im Gegensatz zu PSC auf Partner Center zugreifen. Es 
 
 ## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>Ermitteln der richtigen MPN-ID, wenn Ihr Konto in PSC keinem gültigen MPN zugeordnet ist
 
-Wenn Sie sich hier befinden, weil Sie ein Banner mit der Bezeichnung "PSC-ungültige MPN-ID-Zuordnungs Problem" erkannt haben, sind Sie an der richtigen Stelle.
+Wenn Sie sich hier befinden, weil Sie ein Banner mit der Bezeichnung "PSC-ungültige MPN-ID-Zuordnungs Problem" erkannt haben, sind Sie an der richtigen Stelle. Ihr Konto wurde möglicherweise aufgrund der folgenden Gründe mit einer ungültigen MPN-ID verknüpft.
+
+- Ihr Unternehmen verfügt über kein Partner Center-Konto.
+- Ihr PDM hat einen Fehler beim Eingeben der MPN-ID Ihres Kontos in den internen Systemen hergestellt, die ihr PSC-Konto mit Ihrem Partner Center-Konto (mpnid) verknüpfen.
+- Ihr Unternehmen hat die Migration vom Partner Membership Center (PMC) auf den PC nicht durchgeführt.
 
 Suchen Sie zuerst nach der richtigen MPN-ID, indem Sie die folgenden Schritte ausführen.
 
 - Melden Sie sich bei Ihrem Partner Center-Konto an.
 - Verwenden Sie die Anweisungen in der [Dokumentation zu den Kontoeinstellungen](./partner-center-account-setup.md#locate-your-mpn-id) , um die MPN-ID zu ermitteln.
+
+Der folgende Screenshot zeigt die genaue Position, an der Sie Ihre Partner Center-MPN-ID finden.
+
+:::image type="content" source="images/pscmigration/findingMPNID.png" alt-text="Bild, das die Kontoeinstellungen anzeigt, in denen der Partner ihre MPN-ID finden kann."  lightbox="images/pscmigration/findingMPNID.png":::
 
 Als Nächstes
 

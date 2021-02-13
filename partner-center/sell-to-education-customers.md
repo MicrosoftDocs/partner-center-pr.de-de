@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: a101c3d29b947950179ca0ae446f049ccf785bb8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916911"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281303"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Verkaufen von Angeboten an Bildungs Kunden und How to Create a Education Customer in Partner Center
 
@@ -27,7 +27,7 @@ ms.locfileid: "97916911"
 
 ## <a name="create-an-education-customer"></a>Erstellen eines Education-Kunden
 
-In diesem Artikel wird erläutert, wie Sie einen Bildungs Kunden in Partner Center erstellen und Schulungsprodukte an Sie verkaufen. Außerdem wird erläutert, wie Sie den Überprüfungs Status anzeigen und ggf. die Überprüfungs Anforderung erneut senden.
+In diesem Artikel wird erläutert, wie Sie einen Bildungs Kunden in Partner Center erstellen und Schulungsprodukte an Sie verkaufen. Außerdem wird erläutert, wie Sie den Überprüfungs Status anzeigen und ggf. die Überprüfungs Anforderung erneut senden. Schulungsangebote sind zurzeit **nur für Lizenz basierte Dienste** wie Microsoft 365, Dynamics, InTune usw. verfügbar. Es ist nicht für andere Typen verfügbar (Software Abonnements, unbefristete Software oder Azure-Produkte).
 
 > [!IMPORTANT]
 > Microsoft überprüft jeden neu erstellten Kunden Mandanten für Bildungseinrichtungen, um sicherzustellen, dass Sie für Schulungsangebote qualifiziert sind.  Stellen Sie sicher, dass Sie die erforderlichen Informationen so genau und vollständig wie möglich eingeben, um Verzögerungen beim Überprüfungsprozess zu verhindern.
@@ -75,7 +75,7 @@ Status Beispiele:
 
 Wenn Ihr Kunde die anfängliche Überprüfung nicht bestanden hat, können Sie nun die Informationen korrigieren und erneut übermitteln.
 
-### <a name="correct-the-customer-account-information"></a>Kundenkontoinformationen korrigieren
+### <a name="correct-the-customer-account-information"></a>Korrigieren von Kundenkontoinformationen
 
 Sie müssen über globale Administratorrechte verfügen, um die Kundeninformationen aktualisieren zu können. Sie aktualisieren die Informationen im Office 365-Portal, da diese Daten nicht über das Partner Center-Portal aktualisiert werden können.
 
@@ -87,7 +87,7 @@ Sie müssen über globale Administratorrechte verfügen, um die Kundeninformatio
 
 4. Sie werden auf einer neuen Registerkarte Ihres Browsers an das Office 365 Admin Center umgeleitet. Möglicherweise werden Sie aufgefordert, sich mit Ihren Anmelde Informationen anzumelden.
 
-5. Wählen Sie **Einstellungen** aus.
+5. Klicken Sie auf **Einstellungen**.
 
 6. Wählen Sie oben auf dem Bildschirm die Registerkarte **Organisations Profil** und dann **Organisations Informationen** aus. Sie können jetzt die Kunden Details aktualisieren.
 

@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 2c1cb2adc28a19f265643c5e2756fbdf1195b970
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624050"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281273"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Verkauf an spezialisierte Branchen wie Bildungs-, gemeinnützige und behördliche Benutzer
 
@@ -24,7 +24,7 @@ ms.locfileid: "99624050"
 - Administrator-Agent
 - Vertriebsbeauftragter
 
-Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z. B. für Bildungsinstitute, Wohltätigkeitsorganisationen, kleine Unternehmen und Behörden. Sie und Ihre Kunden müssen qualifiziert sein, damit Sie Sonderpreise anbieten können. 
+Microsoft bietet ermäßigte Sonderpreise für ausgewählte Kundengruppen, z. B. für Bildungsinstitute, Wohltätigkeitsorganisationen, kleine Unternehmen und Behörden. Sie und Ihre Kunden müssen qualifiziert sein, damit Sie Sonderpreise anbieten können. Diese speziellen Preisangebote sind zurzeit **nur für Lizenz basierte Dienste** wie Microsoft 365, Dynamics, InTune usw. verfügbar. Es ist nicht für andere Typen verfügbar (Software Abonnements, unbefristete Software oder Azure-Produkte).
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Anforderungen für den Verkauf an spezielle Branchen
 

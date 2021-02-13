@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182408"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623999"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Wie von Partnern erworbene Guthaben berechnet und bezahlt werden
 
@@ -52,7 +52,7 @@ Um von Partnern erworbene Guthaben (PEC) zu erhalten, gelten die folgenden Anfor
 
 ### <a name="calculation"></a>Berechnung
 
-PEC wird täglich berechnet und kann in der täglichen Nutzungsdatei und der Abstimmungsdatei zur monatlichen Rechnung angezeigt werden. Ein Partner (indirekter Anbieter oder indirekter Wiederverkäufer) muss den gesamten Tag hindurch (rund um die Uhr) Zugriff haben, um sicherzustellen, dass er PEC erwirbt. PEC wird täglich für die verwalteten Azure-Ressourcen berechnet. Die maximale PEC-Rate für einen angegebenen Abrechnungszeitraum (Monat) beträgt 15 %. Partner, die den permanenten privilegierten Zugriff während des gesamten Monats (Zugriffsdauer) und für alle in Frage kommenden Ressourcen (Zugriffsumfang) aufrechterhalten, erhalten die volle PEC-Rate von 15 %. Eine Reduzierung von Umfang und Dauer führt zu einer niedrigeren PEC-Rate für den Monat. In der Datei zur täglich bewerteten Nutzung ist für eine Azure-Ressource für jeden Tage angegeben, ob PEC angewendet wird oder nicht. Partner können sich auch für Warnungen registrieren, um Änderungen beim permanenten privilegierten Zugriff zu überwachen.
+PEC wird täglich berechnet und kann in der täglichen Nutzungsdatei und der Abstimmungsdatei zur monatlichen Rechnung angezeigt werden. Ein Partner (indirekter Anbieter oder indirekter Wiederverkäufer) muss den gesamten Tag hindurch (rund um die Uhr) Zugriff haben, um sicherzustellen, dass er PEC erwirbt. PEC wird täglich für die verwalteten Azure-Ressourcen berechnet. Partner, die den permanenten privilegierten Zugriff während des gesamten Monats (Zugriffsdauer) und für alle in Frage kommenden Ressourcen (Zugriffsumfang) aufrechterhalten, erhalten die volle PEC-Rate. Eine Reduzierung von Umfang und Dauer führt zu einer niedrigeren PEC-Rate für den Monat. In der Datei zur täglich bewerteten Nutzung ist für eine Azure-Ressource für jeden Tage angegeben, ob PEC angewendet wird oder nicht. Partner können sich auch für Warnungen registrieren, um Änderungen beim permanenten privilegierten Zugriff zu überwachen.
 
 ## <a name="azure-cost-management"></a>Azure-Kostenmanagement
 

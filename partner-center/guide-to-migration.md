@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b6646ff943ff219c41c975d60e66a46d1e0f595
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: dd566a6d9ef60747eb7fd515b4d63d87d991da2a
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175238"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624186"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>Leitfaden zum Migrieren von PMC zu Partner Center
 
@@ -53,7 +53,7 @@ Wenn Ihr Unternehmen keine geschäftliche E-Mail-Adresse und keinen AAD-Mandante
 >[!NOTE]
 >Wenn Sie ein Partner in China sind und sowohl im Microsoft Partner Network als auch im Cloud Solution Provider-Programm (CSP) registriert sind, haben Sie einen separaten Mandanten für jedes Konto. Ihr Konto mit dem Cloud Solution Provider-Programm wird in der nationalen Cloud verwaltet und Ihr Microsoft Partner Network-Konto in der globalen Cloud. Die beiden Konten können nicht verknüpft werden.
 
-:::image type="content" source="images/migration/newtellusabout.png" alt-text="Erste Schritte":::
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="Machen Sie einige Angaben zu Ihrem Unternehmen":::
 
 Nachdem Sie die Informationen überprüft oder aktualisiert haben, wählen Sie **Zustimmen und fortfahren** aus.
 Die „Bestimmungen“ auf dieser Seite sind **identisch mit denjenigen** in der Vereinbarung, die Ihr Unternehmen bereits in PMC unterzeichnet hat.  
@@ -71,7 +71,7 @@ Wenn Sie **Zustimmen und fortfahren** auswählen, werden auch folgende Schritte 
 
 Nachdem Ihr neuer Azure AD-Mandant erstellt wurde, können Sie Ihre Mitarbeiter einladen, sich bei Partner Center anzumelden.
 
-:::image type="content" source="images/migration/invite.png" alt-text="Erste Schritte":::
+:::image type="content" source="images/migration/invite.png" alt-text="Einladen von Mitarbeitern":::
 
 Falls Sie sich bei einem vorhandenen AAD-Mandanten angemeldet haben, wurden Ihre Mitarbeiter zusammen mit Ihnen verschoben. Weisen Sie in diesem Fall Ihren Mitarbeitern Rollen zu, die festlegen, welche Berechtigungen sie in Partner Center haben. 
 
@@ -84,11 +84,11 @@ Sollte Ihr AAD-Mandant neu sein, wurde niemandem die Rolle „globaler Administr
 
 Während Sie bereits erworbene Angebote sofort nutzen können, können Sie neue Angebote erst dann erwerben, nachdem Sie den Schritt zum Zuweisen eines globalen Administrators abgeschlossen haben.
 
-:::image type="content" source="images/migration/takecontrol.png" alt-text="Erste Schritte":::
+:::image type="content" source="images/migration/takecontrol.png" alt-text="Übernehmen der Kontrolle":::
 
 Wenn Sie „Erste Schritte“ auswählen, wird folgender Bildschirm angezeigt:
 
-:::image type="content" source="images/migration/verifytxt.png" alt-text="Erste Schritte":::
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Überprüfen des Domänenbesitzes":::
 
 Ihre Domänenregistrierungsstelle wurde bereits automatisch ausgefüllt. Nur der Domänenbesitzer kann die DNS-Datei aktualisieren. Wenn Sie also die Textdatei kopieren und Ihrem DNS-Datensatz hinzufügen, können wir überprüfen, ob Sie der Besitzer sind. Es dauert ein paar Minuten, bis das Update erfolgt. Sie müssen sich bei Partner Center abmelden und dann wieder anmelden. Jetzt lautet Ihre Rolle „globaler Administrator“.
 
@@ -96,11 +96,11 @@ Ihre Domänenregistrierungsstelle wurde bereits automatisch ausgefüllt. Nur der
 
 Sehen Sie sich die Einführung zum Dashboard an. Hier können Sie Ihre Mitgliedschaft verwalten, ein Geschäftsprofil für Empfehlungen hinzufügen, sich beim Cloud Solution Provider-Programm registrieren sowie für Ihr Unternehmen relevante Benachrichtigungen und Angebote jederzeit anzeigen, indem Sie **Dashboard** auswählen. Sie können auch Incentives verwalten, auf dem Marketplace kaufen, sich für Markteinführungsdienste registrieren und vieles mehr ausführen.  
 
-:::image type="content" source="images/migration/fre.png" alt-text="Erste Schritte":::
+:::image type="content" source="images/migration/fre.png" alt-text="Tour":::
 
 ## <a name="sign-the-microsoft-partner-agreement"></a>Unterzeichnen der Microsoft Partner-Vereinbarung
 
-Wenn Sie ein indirekter Vertriebspartner sind, müssen Sie sich nach der Einrichtung Ihres Partner Center-Kontos immer noch offiziell beim Cloud Solution Provider-Programm registrieren. Zum Überprüfen Ihres Mitgliedschaftsstatus wechseln Sie zu Ihrem [Partner-Profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile), und bestätigen Sie den Kontotyp. Dann registrieren Sie sich in CSP als [indirekter Vertriebspartner](enrolling-in-the-csp-program.md).
+Wenn Sie ein indirekter Vertriebspartner sind, müssen Sie sich nach der Einrichtung Ihres Partner Center-Kontos immer noch offiziell beim Cloud Solution Provider-Programm registrieren. Zum Überprüfen Ihres Mitgliedschaftsstatus wechseln Sie zu Ihrem [rechtlichen Profil](https://partner.microsoft.com/pcv/accountsettings/partnerprofile), und bestätigen Sie den Kontotyp. Dann registrieren Sie sich in CSP als [indirekter Vertriebspartner](enrolling-in-the-csp-program.md).
 
  Nachdem Sie sich als indirekter Vertriebspartner registriert haben, nehmen Sie die [Anfrage für eine CSP-Beziehung mit Ihrem indirekten Anbieter](indirect-reseller-tasks-in-partner-center.md) an.
 

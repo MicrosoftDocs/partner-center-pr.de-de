@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098838"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834855"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vertreiben von Softwareabonnements über das CSP (Cloud Solution Provider)-Programm
 
@@ -95,7 +95,7 @@ So kaufen Sie Softwareabonnements im Auftrag von Kunden:
 Nachdem Sie die Software erworben haben, muss sie von Ihren Kunden heruntergeladen werden. Führen Sie dazu die nachfolgend aufgeführten Schritte aus.
 
 >[!NOTE]
->Sie müssen ein Administrator-Agent sein, um Schlüssel abrufen und Software herunterladen zu können.
+>Sie müssen ein Administrator-Agent sein, um den Link zu Schlüsseln und Downloads abrufen zu können.
 
 1. Wechseln Sie zur Detailseite des Kunden, und wählen Sie dann **Software** aus. Sie sehen eine Liste der gesamten Software, die Sie im Auftrag des Kunden erworben haben.
 2. Kopieren Sie den „Deep-Link“ aus **Link zu Software-Product Keys und Downloads**, und leiten Sie ihn an Ihren Kunden weiter. Wenn der Kunde auf diesen Link klickt, wird er zum Microsoft Admin Center weitergeleitet, wo er die Software herunterladen und seine Product Keys abrufen kann.

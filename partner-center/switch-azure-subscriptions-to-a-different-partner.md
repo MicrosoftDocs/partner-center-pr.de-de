@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 992dd7f9901efd0176395fb626e4048d5229e82b
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 94df138eb94d79fb0e472744f19337ad536eb90d
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "91980241"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281258"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Erfahren Sie, wie Sie die Azure-Abonnements eines Kunden auf einen anderen Partner übertragen
 
@@ -47,15 +47,15 @@ Führen Sie die folgenden manuellen Schritte aus, um die Azure-Dienste oder-Abon
 
    2. Wählen Sie im Abschnitt **Supporttickets** die Dropdownliste **Neues Ticket** aus und anschließend **Microsoft Azure**.
    
-   3. Wählen Sie im [Azure-Portal](https://portal.azure.com)die Option **neue Supportanfrage**aus.
+   3. Wählen Sie im [Azure-Portal](https://portal.azure.com)die Option **neue Supportanfrage** aus.
    
    4. Wählen Sie in Schritt 1 **Abonnement Verwaltung** als Problemtyp aus, geben Sie die Abonnement-ID an, die Sie übertragen möchten, und wählen Sie **Cloud Solution Provider** als Support Plan aus.
    
    5. Wählen Sie in Schritt 2 die Option **C-minimale Auswirkung** aus, und wählen Sie **andere allgemeine Fragen** als Problemtyp aus.
    
-   6. Laden Sie das [CSP-Abonnementübertragungsformular](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA) herunter.
+   6. Laden Sie das [CSP-Abonnementübertragungsformular](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC) herunter.
 
-3. Der Partner für das Abonnement: füllen Sie das [Formular für das CSP-Abonnement Transfer](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)aus, Signieren Sie es, und senden Sie es dann an den Kunden. 
+3. Der Partner für das Abonnement: füllen Sie das [Formular für das CSP-Abonnement Transfer](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)aus, Signieren Sie es, und senden Sie es dann an den Kunden. 
 
    Sie benötigen folgende Informationen, um das Formular auszufüllen:
 
@@ -92,7 +92,7 @@ Führen Sie die folgenden manuellen Schritte aus, um die Azure-Dienste oder-Abon
      ```
 
      >[!NOTE]
-     > Die Mandanten- **ID** des Kunden wird im Partner Center als Microsoft- **ID**des Kunden angezeigt. Wenn Sie die Microsoft-ID (Mandanten-ID) für einen bestimmten Kunden ermitteln möchten, melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an. Wählen Sie dann im Menü die Option **Kunden** aus. Suchen Sie den Kunden in der Liste. Wählen Sie den Pfeil nach unten aus, um die Liste des Kunden zu erweitern. Informationen zum *Domänen Namen* des Kunden und zur **Microsoft-ID**des Kunden werden angezeigt. Verwenden Sie die 16-stellige **Microsoft-ID** im PowerShell-Cmdlet.
+     > Die Mandanten- **ID** des Kunden wird im Partner Center als Microsoft- **ID** des Kunden angezeigt. Wenn Sie die Microsoft-ID (Mandanten-ID) für einen bestimmten Kunden ermitteln möchten, melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an. Wählen Sie dann im Menü die Option **Kunden** aus. Suchen Sie den Kunden in der Liste. Wählen Sie den Pfeil nach unten aus, um die Liste des Kunden zu erweitern. Informationen zum *Domänen Namen* des Kunden und zur **Microsoft-ID** des Kunden werden angezeigt. Verwenden Sie die 16-stellige **Microsoft-ID** im PowerShell-Cmdlet.
 
    - Anzeigen der Rollen für das Konto, einschließlich des vorherigen CSP-Partners:
 
@@ -104,7 +104,7 @@ Führen Sie die folgenden manuellen Schritte aus, um die Azure-Dienste oder-Abon
 
    - Wählen Sie im Menü „Partner Center” **Kunden**.
    - Suchen Sie den Kunden in der Liste. Wählen Sie den Namen Ihres Unternehmens aus (Doppelklicken). Dadurch wird die Seite Kunden **Abonnements** geöffnet.
-   - Wählen Sie im Menü Kunden Detail die Option **Dienst Verwaltung**aus.
+   - Wählen Sie im Menü Kunden Detail die Option **Dienst Verwaltung** aus.
    - Unter **Microsoft Azure** klicken Sie auf den Link, um zum **Microsoft Azure-Verwaltungsportal** zu wechseln.
 
 ## <a name="next-steps"></a>Nächste Schritte

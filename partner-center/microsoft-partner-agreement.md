@@ -1,7 +1,7 @@
 ---
 title: Microsoft Partner-Vereinbarung (Microsoft Partner Agreement, MPA) für CSP
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 02/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über die Anforderungen an CSP-Partner von Microsoft, um diese einheitliche, digital akzeptierbare Microsoft Partner-Vereinbarung zu überprüfen und zu signieren.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773456"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281328"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informationen zur Microsoft Partner-Vereinbarung für Partner im CSP-Programm
 
@@ -34,6 +34,8 @@ Sie müssen die Microsoft Partner-Vereinbarung vor dem 31. Januar 2020 unterzei
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>Sicherstellen, dass Ihre MPN-ID aktiv ist und zum Partner Center migriert wurde
 
 1. Wenn Sie Ihr MPN-Konto nicht vom Partner Membership Center (PMC) zum Partner Center migriert haben, müssen Sie das [MPN-Konto zum Partner Center migrieren](move-pmc-pc-map.md). Die restlichen Schritte führen Sie nach Abschluss der Migration aus. 
+
+1. Falls Sie über kein MPN-Konto oder über keine ID verfügen, müssen Sie zuerst dem Microsoft Partner Network-Programm beitreten. [Informationen zum Beitreten zum MPN](mpn-create-a-partner-center-account.md).
 
 1. Melden Sie sich mit den Anmeldeinformationen für Ihr MPN-Konto beim Partner Center an.
  
@@ -103,7 +105,7 @@ Sie können auch feststellen, ob Sie die Vereinbarung unterzeichnet haben, indem
 
 1. Wenn Sie Ihr MPN-Konto vom PMC zum Partner Center migrieren: [Migrieren vom PMC zum Partner Center und Akzeptieren der Microsoft Partner-Vereinbarung](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. Wenn Sie sich als indirekter Wiederverkäufer (CSP Indirect Reseller) im Partner Center registrieren möchten: [Onboarding für MPN-Mitglieder und die Microsoft Partner-Vereinbarung](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. Wenn Sie sich in Partner Center als CSP Indirect Reseller registrieren möchten: [Onboarding für MPN-Mitglieder und die Microsoft Partner-Vereinbarung](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
 3. Wenn Sie nach Abschluss von Schritt 1 und/oder Schritt 2 oben Ihren MPA-Status im Partner Center überprüfen möchten: [Überprüfen der Zustimmung zur Microsoft Partner-Vereinbarung](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  

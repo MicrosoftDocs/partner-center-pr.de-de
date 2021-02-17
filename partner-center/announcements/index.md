@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
+ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588732"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "100490154"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,9 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 |**Kategorie**|**Ankündigungen für Februar 2021**|**Angekündigt**|
 |---------|:---------|:---------|
+|Funktionen|[Einführung von Microsoft Viva Topics](2021-february.md#7)|12. Februar|
+|Angebote/Märkte|[Preisänderungen bei Microsoft 365 E3 für März 2021](2021-february.md#6)|11. Februar|
+|Angebote/Märkte|[Aktualisierung der lizenzbasierten Vorschaupreisliste für die norwegische Krone](2021-february.md#5)|10. Februar|
 |Funktionen|[Premium-Bewertungen, ein Add-On für Compliance Manager, ist ab dem 1. März 2021 erhältlich](2021-february.md#4)|5\. Februar|
 |Funktionen|[Reaktion auf COVID-19: Microsoft Partner Network-Update](2021-february.md#3)|4. Februar|
 |Funktionen|[Neue Updates für das Modul „Empfehlungen“ im Partner Center](2021-february.md#2)|4. Februar|
@@ -31,7 +34,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 |Moderner Arbeitsplatz|[Änderungen der Anforderungen für das Onboarding von Kunden im CSP-Programm (Cloud Solution Provider)](2021-january.md#14)|28. Januar|
 |Funktionen|[Aktualisierung und neue häufig gestellte Fragen zur Microsoft Partner-Vereinbarung (MPA) für indirekte Wiederverkäufer](2021-january.md#13)|27. Januar|
 |Funktionen|[Änderungen der Partner Center-Überwachungsprotokolle zur Einbeziehung zwei neuer Vorgangstypen für DAP](2021-january.md#12)|25. Januar|
-|Funktionen|[Änderungen der Verfügbarkeit des Azure-Angebots in CSP in Bezug auf die neue E-Commerce-Benutzeroberfläche in CSP für Azure](2021-january.md#11)|21. Januar|
+|Funktionen|[Änderungen der Verfügbarkeit des Azure-Angebots in CSP in Bezug auf das neue E-Commerce-Verfahren in CSP für Azure](2021-january.md#11)|21. Januar|
 |Umsatzsteigerung|[Unbefristete Software ist jetzt allgemein im Cloud Solution Provider-Programm verfügbar](2021-january.md#10)|19. Januar|
 |Umsatzsteigerung|[Erinnerung: Einführung einer API-Drosselung für Partner, die Partner Center-APIs aufrufen](2021-january.md#9)|19. Januar|
 |Angebote/Märkte|[Einführung von SCI-Angeboten (Sicherheit, Compliance and Identität) am 1. Februar 2021](2021-january.md#8)|15. Januar|

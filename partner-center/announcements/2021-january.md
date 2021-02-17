@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99974755"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541015"
 ---
 # <a name="january-2021-announcements"></a>Ankündigungen für Januar 2021
 
@@ -348,7 +348,9 @@ Alle Partner, die Transaktionen im Rahmen des CSP-Programms (Cloud Solution Prov
 
 Ab Februar 2021 implementiert Microsoft eine API-Drosselung, um den Partnern, die Partner Center-APIs aufrufen, eine konsistentere Leistung innerhalb einer Zeitspanne zu ermöglichen. Durch die Drosselung wird die Anzahl von Anforderungen für einen Dienst in einer Zeitspanne begrenzt, um eine übermäßige Nutzung von Ressourcen zu verhindern. Wenn ein Drosselungsschwellenwert überschritten wird, schränkt Partner Center alle weiteren Anforderungen von diesem Client für einen bestimmten Zeitraum ein.
   
-**Partnervorteile:** Partner Center ist darauf ausgelegt, eine große Anzahl von Anforderungen zu verarbeiten. Wenn jedoch eine übergroße Anzahl von Anforderungen von einigen wenigen Partnern gestellt wird, kann durch eine Drosselung die optimale Leistung und Zuverlässigkeit für alle Partner aufrechterhalten werden.  
+**Partnervorteile:**
+
+Partner Center ist darauf ausgelegt, eine große Anzahl von Anforderungen zu verarbeiten. Wenn jedoch eine übergroße Anzahl von Anforderungen von einigen wenigen Partnern gestellt wird, kann durch eine Drosselung die optimale Leistung und Zuverlässigkeit für alle Partner aufrechterhalten werden.  
 
 - Durch eine Drosselung werden minimale Ausfallzeiten sichergestellt.
 - Eine Drosselung reduziert die Anzahl von Anforderungen mit hohem Volumen und sorgt so für eine konsistente Leistung für alle Partner.

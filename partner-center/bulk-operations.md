@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 831fbc294bfd82caef77489f74747bb32cf0b12c
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100334573"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645638"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Massen Vorgänge für Co-Selling-Möglichkeiten mithilfe von CSV (Comma-Separated Value)-Dateien
 
@@ -71,7 +71,7 @@ Kunden Adresszeile 2|Nein|Adresszeile 2 des Kunden Unternehmens.|NE 148 Straße
 Kundenort|Ja|Stadt, in der sich die Kundenorganisation befindet.|Redmond
 Bundesland/Kanton des Kunden|Nein|Zustand, in dem sich die Kundenorganisation befindet.|Washington
 Postleitzahl des Kunden|Nein|Postleitzahl der Region, in der sich die Kundenorganisation befindet.|98052
-Land des Kunden|Ja|Das Land/die Region, in dem sich die Kundenorganisation befindet. Verwenden Sie die drei Buchstaben für Ländercodes, wie [hier]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)erwähnt.|USA
+Land des Kunden|Ja|Das Land/die Region, in dem sich die Kundenorganisation befindet. Verwenden Sie die beiden Buchstaben Ländercodes, wie [hier]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)erwähnt.|US
 ID "D-U-n-S"|Nein|Versuchen Sie, die DUNS-ID der Kundenorganisation abzurufen. Dies trägt dazu bei, dass die Kundenorganisation auf der Microsoft-Seite schneller abgeglichen wird, was eine schnellere Zuweisung von Verkäufern ermöglicht. Sie können die DUNS-ID von dieser [Website](https://www.dnb.com/duns-number/lookup.html)kostenlos erhalten.|81466849
 Vorname des Kundenkontakts|Depends (Abhängig)|Der Vorname ist nur obligatorisch, wenn Sie die Microsoft-Hilfe benötigen. Der Vorname des primären Kontakts der Kundenorganisation, der an diesem Teil arbeitet.|John
 Nachname des Kundenkontakts|Depends (Abhängig)|Der Nachname ist nur obligatorisch, wenn Sie Microsoft Help benötigen. Nachname des primären Kontakts der Kundenorganisation, der an diesem Teil arbeitet.|Kunde
@@ -87,7 +87,7 @@ Währung|Ja|Die Währung, in der der Wert für den Wert eingegeben wird. Die Wä
 Geschätztes Schluss Datum|Ja|Das geschätzte Schluss Datum des Deals basierend auf den anfänglichen Konversationen mit dem Kunden im Format mm/dd/yyyy. <br/> **Das Datum sollte in der UTC-Zeitzone liegen. Alle Datumsangaben, die in der Benutzeroberfläche von Partner Center angezeigt werden, basieren auf lokalisierten Zeitzonen. Wenn Sie sich den Verweis ansehen, für den Sie das Datum in der UTC-Zeitzone angegeben haben, gibt es möglicherweise einen Unterschied in der Partner Center-Benutzeroberfläche.**|1/30/2020
 CRM-ID|Nein|Bezeichner dieses spezifischen Verweises in Ihrem CRM-System, falls vorhanden. Dies ist ein kostenloses Formular Texteingabefeld.|34234324-sdfsdf-345345-SFD
 Marketing Kampagnen-ID|Nein|Dieses Feld gibt die Marketingkampagne an, die zu diesem speziellen Verweis geführt hat. Normalerweise für die ROI-Berechnung verwendet|BingSummer2020
-Hinweise|Nein|Ausführliche Hinweise zu den Aktualisierungen im Zusammenhang mit der Referenz|Dies ist eine Beispiel Notiz.
+Notizen|Nein|Ausführliche Hinweise zu den Aktualisierungen im Zusammenhang mit der Referenz|Dies ist eine Beispiel Notiz.
 Microsoft-Hilfe erforderlich?|Ja|Hiermit geben Sie an, ob Microsoft Ihnen helfen soll, diese Co-Selling-Anforderung zu tätigen.|Ja
 Welche spezielle Hilfe von Microsoft ist verfügbar?|Depends (Abhängig)|Eine der sechs verschiedenen Möglichkeiten, wie Microsoft Ihnen helfen kann. Dies gilt nur, wenn Sie für die Frage "die Microsoft-Hilfe ist erforderlich? " <br/> **Geben Sie eine Zahl auf der Grundlage der folgenden Optionen ein.** <br/><br/> **1**-Arbeits Auslastungs spezifischer Wert-Vorschlag  <br/> **2**: technische Kunden Architektur  <br/> **3**: Proof of Concept/Demo  <br/> **4**-Anführungszeichen und Lizenzierung  <br/> Kunden Erfolg mit **5** Kunden nach dem Verkauf  <br/> **6**-allgemein oder Sonstiges|1|
 Freigeben mit dem Microsoft-Vertriebsteam|Ja|Hiermit geben Sie an, ob Sie die Details des Deals mit dem Microsoft-Vertriebsteam teilen möchten. Dies gilt nur, wenn Sie für die Frage "die Microsoft-Hilfe ist erforderlich? "|Ja

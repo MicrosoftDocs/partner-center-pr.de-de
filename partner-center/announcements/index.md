@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/05/2021
-ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100540980"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756152"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,11 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 |**Kategorie**|**Ankündigungen für Februar 2021**|**Angekündigt**|
 |---------|:---------|:---------|
+|Funktionen|[PUT-Qualifizierungs-APIs sind eingestellt, GET-Qualifizierung wird im Mai eingestellt](2021-february.md#14)|25. Februar|
+|Funktionen|[Gemeinsame Nutzung von Co-Selling-Deals in großem Umfang mithilfe der Partner Center-Funktion für Massenvorgänge](2021-february.md#13)|25. Februar|
+|Funktionen|[Migrieren Ihrer Deals aus Partner Sales Connect (PSC) mithilfe der neuen Funktion für die Dealmigration](2021-february.md#12)|25. Februar|
+|Funktionen|[Mehr Flexibilität mit partnergeführten Co-Selling-Deals](2021-february.md#11)|25. Februar|
+|Funktionen|[Änderungen beim Onboarding von Kunden im CSP-Programm (Cloud Solution Provider)](2021-february.md#10)|25. Februar|
 |Funktionen|[Jetzt verfügbar: DocuSign-Migration zu Adobe Sign für Partner mit Microsoft Partner-Vereinbarung (MPA)](2021-february.md#9)|16. Februar|
 |Umsatzsteigerung|[Erinnerung: Einführung einer API-Drosselung für Partner, die Partner Center-APIs aufrufen](2021-february.md#8)|16. Februar|
 |Funktionen|[Einführung von Microsoft Viva Topics](2021-february.md#7)|12. Februar|

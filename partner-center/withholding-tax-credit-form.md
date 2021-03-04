@@ -9,18 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 064a5ea1e712ca66504536652543c0523fc73eae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174933"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755724"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Erhalten von Gutschriften in Ihrem Partner Center-Konto für die Steuerverweigerung
 
-Gilt für:
+**Geeignete Rollen**
 
-- Partner Center
+- Kontoadministrator
+- Abrechnungsadministrator
 
 ## <a name="overview"></a>Übersicht
 
@@ -45,7 +46,9 @@ Führen Sie die folgenden Schritte aus, um eine neue Steuer gegen übereinhaltun
 
 4. Überprüfen Sie die Rechnungsdetails, um sicherzustellen, dass Sie die Anforderung für die richtige Rechnung einreichen.
 
-   :::image type="content" source="images/wht2.png" alt-text="Übermitteln von neuen Steuermitteln für eine Rechnung" ist der Betrag, den Sie erwarten.
+   :::image type="content" source="images/wht2.png" alt-text="Ausführliche Informationen zu Steuerinformationen für eine Rechnung":::
+
+5. Geben Sie unter **Steuern der Steuerinformationen** das Ergebnis "Gesamtsumme" ein. Die "Summe der Summe" ist der Betrag, den Sie erwarten.
 
 6. **Fügen** Sie ein Steuer Zertifikat an. Sie müssen eine **digitale Kopie** Ihres Zertifikats für die zurück **Haltung** von Steuer Zertifikaten in Ihre Steuern. Sie haben dieses Zertifikat von Ihrer lokalen Steuerbehörde erhalten, wenn Sie Ihre Steuern an Ihre lokale Steuerbehörde bezahlen. Der Rechnungs Steuerungs Betrag im Steuer Zertifikat für die Rechnungsstellung muss mit dem Gesamtbetrag in der steuerungskennisanforderung identisch sein.
 
@@ -66,11 +69,11 @@ Das Überprüfungsteam erfordert möglicherweise, dass Sie Korrekturen vornehmen
 
 2. Wählen Sie im Menü auf der linken Seite die Option **Abrechnung** aus.
 
-3. Suchen Sie im **Abrechnungs Verlauf**der **Abrechnungs** Seite nach der Anforderung für die steuerliche Zurückhaltung. Anforderungen, die Ihre Aufmerksamkeit erfordern, werden den Status "ausstehende partneraktion" aufweisen.
+3. Suchen Sie im **Abrechnungs Verlauf** der **Abrechnungs** Seite nach der Anforderung für die steuerliche Zurückhaltung. Anforderungen, die Ihre Aufmerksamkeit erfordern, werden den Status "ausstehende partneraktion" aufweisen.
 
 4. Klicken Sie auf die Anforderungs-ID und den Status der steuerungskennung, um zur Seite der Anforderung zu gehen.
 
-5. Wählen Sie unter **Status**die Option **aktualisieren und erneut übermitteln** .
+5. Wählen Sie unter **Status** die Option **aktualisieren und erneut übermitteln** .
 
 6. Überprüfen Sie die Kommentare von den Reviewern, um zu prüfen, welche Elemente geändert werden müssen.
 
@@ -84,7 +87,7 @@ Wenn Sie die Anforderung übermitteln, wird Sie an das Prüfungsteam zurückgese
 
 Genehmigte steuerungsanträge-Anforderungen werden für Ihre nächste Rechnung ausgeführt, wobei der geschuldete Betrag abgeschrieben wird. Anforderungen, die als **abgeschlossen** gekennzeichnet werden, sollten innerhalb von 10 Werktagen angewendet werden. 
 
-Die gelöschten Beträge werden im **Abschnitt Abrechnungs Verlauf der Abrechnungs Seite**angezeigt. Die gelöschten Beträge werden in der Spalte **Letzte Zahlung** neben der Rechnung angezeigt, an die die Anforderung übermittelt wurde.
+Die gelöschten Beträge werden im **Abschnitt Abrechnungs Verlauf der Abrechnungs Seite** angezeigt. Die gelöschten Beträge werden in der Spalte **Letzte Zahlung** neben der Rechnung angezeigt, an die die Anforderung übermittelt wurde.
 
    > [!IMPORTANT]
    > Vorherige Rechnungen werden nicht erneut generiert oder neu ausgestellt. Der clearace-Betrag wird einfach auf die Zahlungen der vorangegangenen Monate angewendet.
@@ -108,4 +111,4 @@ Partner, die Anforderungen für die deutsche Steuerverweigerung einreichen, soll
 Die Partner sollten den oben beschriebenen neuen Prozess verwenden, um neue Anforderungen zu übermitteln und die Erstellung von Supportanfragen nicht mehr für neue Steuererklärungen zu steuern. Partner mit zusätzlichen Fragen zu den Anforderungen an die steuerliche Zurückhaltung können [Supportanfragen einreichen](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed). Support Anfragen sollen Partnern bei vorhandenen Anforderungen helfen, damit Sie über Ihre **Anforderungs-ID** verfügen müssen, um ein neues Ticket zu übermitteln. Wenn Partner eine Anforderung nicht mithilfe des neuen Prozesses übermitteln können, sollten Sie eine Zahl (alle 1) in das Supportanfrage Formular eingeben. 
 
    > [!IMPORTANT]
-   > Partner müssen sich nicht an den Support wenden, wenn Ihr Anforderungs Status " **abgeschlossen**" lautet. Dieser Status wird im **Abrechnungs Verlauf** neben der Rechnung für die Übermittlung angezeigt. Die **letzten Zahlungs** Beträge neben der Rechnung sollten den Betrag der Steuern der Steuern, der zehn Tage nach dem Markieren der Anforderung als **abgeschlossen**entspricht.
+   > Partner müssen sich nicht an den Support wenden, wenn Ihr Anforderungs Status " **abgeschlossen**" lautet. Dieser Status wird im **Abrechnungs Verlauf** neben der Rechnung für die Übermittlung angezeigt. Die **letzten Zahlungs** Beträge neben der Rechnung sollten den Betrag der Steuern der Steuern, der zehn Tage nach dem Markieren der Anforderung als **abgeschlossen** entspricht.

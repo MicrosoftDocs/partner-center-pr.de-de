@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04ad6a0c2c7a6330d2e1230f046ee78b2a7405c8
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: d3941d09d6ec808f3d188521c4f0c51c9a6d0222
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949549"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755766"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Grundlegendes zu nutzungsbasierten Abstimmungs Dateien und ihren spezifischen Feldern im Partner Center
 
@@ -21,13 +21,18 @@ Gilt für:
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
 
-Wenn Sie Ihre Kosten mit der Nutzung eines Kunden abstimmen möchten, vergleichen Sie **resellerid**, **resellername**und **resellerbillableaccount** aus der Abstimmungs Datei mit dem **Kundennamen** und der **Abonnement-ID** aus Partner Center.
+**Geeignete Rollen**
+
+- Kontoadministrator
+- Abrechnungsadministrator
+
+Wenn Sie Ihre Kosten mit der Nutzung eines Kunden abstimmen möchten, vergleichen Sie **resellerid**, **resellername** und **resellerbillableaccount** aus der Abstimmungs Datei mit dem **Kundennamen** und der **Abonnement-ID** aus Partner Center.
 
 ## <a name="fields-in-usage-based-reconciliation-files"></a>Felder in Verwendungs basierten Abstimmungs Dateien
 
 Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den Raten.
 
-| Spalte | BESCHREIBUNG | Beispiel Wert (e) |
+| Column | BESCHREIBUNG | Beispiel Wert (e) |
 | ------ | ----------- | ------------ |
 | PartnerId | Die Partner-ID im GUID-Format. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | Name des Partners | *"Configuration Manager", Ltd.* |
@@ -68,6 +73,10 @@ Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den
 | UsageDate | Datum der Dienstbereitstellung. | *2/1/2019 0:00* |
 | MeteredRegion | Gibt den Speicherort eines Rechenzentrums innerhalb der Region an (für Dienste, bei denen dieser Wert anwendbar und aufgefüllt ist). | *Asien, Osten*, *Süd Asien, Osten*, *Europa, Norden*, *Europa, Westen*, USA, Norden- *Mitte*, USA, *Süden-Mitte* |
 | MeteredService | Gibt die Verwendung einzelner Azure-Dienste an, wenn diese nicht explizit in der **Service Name** -Spalte identifiziert werden. Beispielsweise werden Datenübertragungen in der Spalte **Service Name** als *Microsoft Azure-all-Dienste* gemeldet. | *AccessControl*, *CDN*, *Compute*, *Datenbank*, *ServiceBus*, *Speicher* |
-| MeteredServiceType | Unterüberschrift für das Feld " **meteredservice** ", das weitere Erläuterungen zur Nutzung von Azure-Diensten bietet. | *Außen* |
-| Projekt | Benutzerdefinierter Name für die jeweilige Dienstinstanz. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
+| MeteredServiceType | Unterüberschrift für das Feld " **meteredservice** ", das weitere Erläuterungen zur Nutzung von Azure-Diensten bietet. | *EXTERNAL* |
+| Project | Benutzerdefinierter Name für die jeweilige Dienstinstanz. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | Die Anzahl der Azure Service Bus Verbindungen, die an einem bestimmten Tag bereitgestellt und verwendet wurden. | *1,000000 Verbindungen/30 Tage* (wenn Sie über eine einzeln bereitgestellte Verbindung während eines 30-tägigen Monats verfügen), *25 Verbindungen/30 Tage – wird verwendet: 1,000000* (wenn Sie über ein 25 Pack Service Bus Verbindungen verfügen und 1 an diesem Tag verwendet haben) |
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Grundlegendes zu den Feldern in den lizenzbasierten Abstimmungs Dateien von Partner Center](license-based-recon-files.md)

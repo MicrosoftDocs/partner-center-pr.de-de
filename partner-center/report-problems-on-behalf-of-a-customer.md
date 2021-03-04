@@ -1,7 +1,7 @@
 ---
 title: Melden von Problemen im Auftrag eines Kunden
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wann Sie ein Kundendienst Problem an Microsoft eskalieren und wie Sie ein Support Ticket für verschiedene Typen von Microsoft-Diensten einreichen.
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97153144"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756435"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Melden eines Dienst Problems im Namen eines Kunden, einschließlich des Zeit-und Vorgehensweise
 
@@ -146,8 +146,6 @@ Wenn Sie sich direkt beim Office 365 Admin Center anmelden, sehen Sie das Center
 Bei Problemen im Zusammenhang mit: Dynamics 365 planen Sie Abonnements, Lizenzierung, Abrechnung, Finanzen & Vorgänge, Dynamics 365-Produktlizenzen oder benötigen Sie technischen Support:
  
 Wenden Sie sich an [Dynamics-Support](/dynamics365/customer-engagement/admin/contact-technical-support).
-
-Lesen Sie [Support für Microsoft Dynamics](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur).
 
 ## <a name="next-steps"></a>Nächste Schritte
 

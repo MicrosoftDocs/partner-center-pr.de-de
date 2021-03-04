@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281358"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756190"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Leitfaden zum Co-Selling im Partner Center (PC) für Partner, die von Partner Sales Connect (PSC) migrieren
 
@@ -28,12 +28,15 @@ ms.locfileid: "100281358"
 
 Dieser Artikel enthält Anleitungen für Partner, die eine Migration von Partner Verkäufen zum Partner Center durchführen, sodass Sie weiterhin Co-Selling-Angebote im Partner Center erstellen und verwalten können.
 
-Wie Sie wissen, verliert Ihr Unternehmen den Zugriff auf das PSC nach dem 31. März 2021. Allerdings finden Sie weiterhin alle Elemente, die Sie in Partner Center verwenden möchten, wie z. b. das Erstellen von Co-Selling-Geschäften, das Verwalten Ihrer Geschäfte und das Handeln von angeboten, die von Microsoft-Verkäufern an Sie gesendet werden.
-
-Es gibt jedoch Unterschiede. Anhand der folgenden Anleitungen können Sie den Übergang zu Partner Center vereinfachen und einfacher gestalten.
+>[!Note]
+> Wenn Sie sich hier befinden, weil Sie ein Banner zu der Migration gesehen haben, sind Sie an der richtigen Stelle. Dieses Handbuch gilt nicht für die Lösungs Bewertung (SA) und OEM-Lizenzierungs Geschäftspartner, die ihre Geschäfte im PSC verwalten.
 
 >[!Important]
-> Wenn Sie sich hier befinden, weil Sie ein Banner zu der Migration gesehen haben, sind Sie an der richtigen Stelle. Dieses Handbuch gilt nicht für Lösungs Bewertungs (SA) und OEM-IOT-Partner, die ihre Geschäfte in PSC verwalten.
+> Ab dem 1. Mai 2021 kann Ihr Unternehmen keine Geschäfte in PSC erstellen oder bearbeiten. **Sie können weiterhin die vorhandenen Daten über den Massen Export in PSC herunterladen. Nach diesem Datum können Sie auch geöffnete Deals von PSC zu Partner Center [Migrieren](psc-to-pc.md#psc-deals-migration) .** <br><br> Wenn es Aktionen gibt, an denen Sie aktiv arbeiten und die IP-Co-Selling-berechtigte Lösungen enthalten, haben Sie zwei Möglichkeiten: <br><br> 1. Markieren Sie den Deal als "gewinnt", und füllen Sie die Registrierung im PSC vor dem 30. April 2021 aus. <br> 2. [Migrieren Sie die Geschäfte](psc-to-pc.md#psc-deals-migration) zu Partner Center, damit Sie mehr Zeit für die Arbeit mit dem Umgang haben und die Registrierung beginnen können.
+
+Wie Sie wissen, **verliert das Unternehmen den Zugriff auf das PSC nach dem 31. Mai 2021**. Allerdings finden Sie weiterhin alle Elemente, die Sie in Partner Center verwenden möchten, wie z. b. das Erstellen von Co-Selling-Geschäften, das Verwalten Ihrer Geschäfte und das Handeln von angeboten, die von Microsoft-Verkäufern an Sie gesendet werden.
+
+Es gibt jedoch Unterschiede. Anhand der folgenden Anleitungen können Sie den Übergang zu Partner Center vereinfachen und einfacher gestalten.
 
 ## <a name="before-you-move-things-you-need-to-know"></a>Bevor Sie fortfahren, müssen Sie wissen, was Sie wissen müssen.
 
@@ -90,7 +93,7 @@ So finden Sie den Konto Administrator Ihres Unternehmens:
 Nachdem Sie Ihr Konto in Partner Center eingerichtet haben, verwenden Sie den Benutzermigrations-Assistenten auf der Seite Co-Selling-Chancen, um den Mitarbeitern Ihres Unternehmens automatisch Partner Center-Rollen zuzuweisen.
 
 >[!Note]
-> Die Benutzer Migration kann nur von [Konto Administratoren](permissions-overview.md#manage-mpn-membership-and-your-company) Ihres Unternehmens ausgeführt werden. Wenn Sie nicht über die Konto Administrator Rolle verfügen, finden Sie einen Konto Administrator, der beim Einrichten der Benutzerkonten mithilfe des Benutzermigrations-Assistenten behilflich sein kann. Die Funktionen für die Benutzer Migration werden ab dem 18. November 2020 verfügbar sein.
+> Die Benutzer Migration kann nur von [Konto Administratoren](permissions-overview.md#manage-mpn-membership-and-your-company) Ihres Unternehmens ausgeführt werden. Wenn Sie nicht über die Konto Administrator Rolle verfügen, finden Sie einen Konto Administrator, der beim Einrichten der Benutzerkonten mithilfe des Benutzermigrations-Assistenten behilflich sein kann.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Das Bild zeigt den Benutzermigrations-Assistenten.":::
 
@@ -135,7 +138,7 @@ Lesen Sie diesen Abschnitt, bevor Sie mit der Migration beginnen.
 
 **Zur Migration berechtigt**
 
-Nur einige Angebote sind für die Migration von PSC zu PC geeignet. Mithilfe dieses Migrations-Assistenten können Partner ihre Mitarbeiter an Partner Center bringen, wo Sie immer noch aktiv mit ihren Kunden zusammenarbeiten, um das Geschäft zu schließen. **Nur Geschäfte, die sich in einem geöffneten Zustand mit gültigen Details zum Partnerkonto (gültige MPN-ID) und nicht in der Registrierung befinden, sind für die Migration geeignet.**
+Nur einige Angebote sind für die Migration von PSC zu PC geeignet. Mithilfe dieses Migrations-Assistenten können Partner ihre Mitarbeiter an Partner Center bringen, wo Sie immer noch aktiv mit ihren Kunden zusammenarbeiten, um das Geschäft zu schließen. **Nur Geschäfte, die sich in einem geöffneten Zustand befinden, der ab dem 1. Januar 2020 mit gültigen Details zum Partnerkonto (gültige MPN-ID) und nicht in der Registrierung durchgeführt wurde, sind für die Migration geeignet**
 
 **Nicht für die Migration geeignet**
 
@@ -200,7 +203,7 @@ Wenn Ihr Unternehmen über einen Partner Development Manager (PDM) verfügt: Wen
 Wenn Ihr Unternehmen nicht über ein PDM verfügt, stellen Sie sicher, dass alle Benutzerkonten von allen Benutzern eingerichtet und überprüft werden. Sie werden über eine e-Mail und ein Banner im PSC benachrichtigt, wenn Sie mit dem Co-Selling im Partner Center beginnen können. Denken Sie daran, dass Sie weiterhin die vorhandenen aktiven Geschäfte in PSC verwalten müssen.
 
 >[!Important]
->Aktive Geschäfte werden nicht auf den PC migriert. Bis zum 31. März 2021 müssen die Geschäfte geschlossen und registriert werden.
+> Bis zum 30. April 2021 müssen Sie die als gewonnen markierten Verträge registrieren.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>Nächste Schritte für PSC-Administratoren, PSC-Deal-Manager und PSC-Verkäufer
 

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042683"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757392"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Bezahlen der mit einer Silver-oder Gold-Kompetenz verbundenen Gebühr
 
@@ -37,7 +37,7 @@ Andernfalls führen Sie die folgenden Schritte aus, um die Gebühr für eine Sil
 
 - Sie haben bereits die [Anforderungen](https://partner.microsoft.com/membership/competencies) erfüllt, um eine bestimmte Silver-oder Gold-Kompetenz zu erzielen.
 
-- Ihnen wurde die Partner Center-Rolle [globaler Administrator oder MPN-Partner Administrator](https://docs.microsoft.com/partner-center/permissions-overview)zugewiesen. Wenn Sie ein Gastbenutzer ohne eine dieser Rollen sind, wird Ihnen der Zugriff auf einige der unten beschriebenen Partner Center-Seiten verweigert. Wenn dies der Fall ist, wenden Sie sich an [ihren globalen Administrator](https://docs.microsoft.com/partner-center/find-your-role) , und bitten Sie ihn, Ihnen die entsprechende Rolle zuzuweisen. 
+- Ihnen wurde die Partner Center-Rolle [globaler Administrator oder MPN-Partner Administrator](./permissions-overview.md)zugewiesen. Wenn Sie ein Gastbenutzer ohne eine dieser Rollen sind, wird Ihnen der Zugriff auf einige der unten beschriebenen Partner Center-Seiten verweigert. Wenn dies der Fall ist, wenden Sie sich an [ihren globalen Administrator](./find-your-role.md) , und bitten Sie ihn, Ihnen die entsprechende Rolle zuzuweisen. 
 
 1. Melden Sie sich mit den Anmelde Informationen für Ihr Unternehmen-Geschäftskonto beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an.
 
@@ -54,7 +54,7 @@ Andernfalls führen Sie die folgenden Schritte aus, um die Gebühr für eine Sil
 
 4. Überprüfen und bestätigen Sie auf der Seite " **Kauf Details** " die Details.
 
-   (Informieren Sie sich über [die Aktualisierung der **Steuer-ID** -Informationen Ihres Unternehmens](https://docs.microsoft.com/partner-center/organization-tax-info) oder der Rechnung Ihres Unternehmens [ **an** die Unternehmens Adresse](https://docs.microsoft.com/partner-center/mpn-get-action-pack).)
+   (Informieren Sie sich über [die Aktualisierung der **Steuer-ID** -Informationen Ihres Unternehmens](./organization-tax-info.md) oder der Rechnung Ihres Unternehmens [ **an** die Unternehmens Adresse](./mpn-get-action-pack.md).)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Mitgliedschaft bietet die Seite &quot;Kauf Details&quot; mit Zahlungs Einstellungen." border="false":::
 

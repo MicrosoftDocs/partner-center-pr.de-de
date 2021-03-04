@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Benutzern für Kundenkonten
 ms.topic: how-to
-ms.date: 05/13/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 'Verwalten von Benutzern für Ihre Kunden im Partner Center: Erstellen von Benutzerkonten, hinzufügen oder Entfernen von Benutzerlizenzen, Zurücksetzen von Kenn Wörtern und löschen oder Wiederherstellen von Benutzerkonten.'
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570738"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756075"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Verwalten von Benutzern und Benutzerlizenzen für Kundenkonten 
 
@@ -28,6 +28,9 @@ ms.locfileid: "96570738"
 Sie können neue Benutzer im Konto eines Kunden erstellen und löschen. Sie können auch ein oder mehrere Benutzerkonten wiederherstellen, die Sie zuvor innerhalb von 30 Tagen nach dem Löschvorgang gelöscht haben. Die vorherigen Abonnementzuweisungen des Benutzers werden ebenfalls wiederhergestellt (vorausgesetzt, die vorherigen Zuweisungen sind verfügbar).
 
 Wenn Sie neue Abonnements für einen Kunden kaufen, sollte der Kunde eine Liste aller Benutzer erhalten, die Konten, die Benutzerberechtigungen und die von den einzelnen Benutzern benötigten Dienste benötigen.  
+
+>[!NOTE]
+>Im Abschnitt **Benutzer und Lizenzen** der Registerkarte **Kunde** werden alle Benutzer angezeigt, die im Mandanten eines bestimmten Kunden erstellt wurden, einschließlich der Benutzer, die über Lizenzen verfügen, die von einem anderen CSP-Partner oder einem anderen Einkaufskanal erworben wurden
 
 Sie können [Abonnements gleichzeitig mehreren Benutzern zuweisen](bulk-license-provisioning-for-multiple-users.md), indem Sie die Namen mithilfe einer [Excel-kompatiblen CSV-Datei](adding-multiple-users-to-a-customer-account.md) importieren.
 

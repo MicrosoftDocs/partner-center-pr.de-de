@@ -1,5 +1,5 @@
 ---
-title: Auszahlungsaufstellungen
+title: Auszahlungsauszüge
 description: Informieren Sie sich über Auszahlungs Anweisungen und-Zusammenfassungen sowie über das Anzeigen und Exportieren von Zahlungsdaten aus dem Microsoft Partner Center.
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
@@ -7,14 +7,14 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 10/29/2020
-ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492635"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756161"
 ---
-# <a name="payout-statements"></a>Auszahlungsaufstellungen
+# <a name="payout-statements"></a>Auszahlungsauszüge
 
 **Geeignete Rollen:**
 
@@ -47,7 +47,7 @@ Melden Sie sich bei [Partner Center](https://partner.microsoft.com/dashboard/hom
 
 - Transaktionsverlauf
 - Zahlungen
-- Exportieren von Daten
+- Daten exportieren
 
 :::image type="content" source="images/payouts/payout-overview.png" alt-text="Veranschaulicht das Auszahlungs Symbol in der oberen rechten Ecke des Partner Center-Portals.":::
 
@@ -99,11 +99,11 @@ Der geschätzte Zahlungs Monat ist zurzeit für alle Erwerbs Typen mit Ausnahme 
 
 In der folgenden Tabelle wird ein Beispiel für einen geschätzten Zahlungs Monat angezeigt.
 
-| Month (Monat) | Amount |
+| Month (Monat) | Amount (Betrag) |
 | ------ | :-----------: |
 |  Sep-2020 |  $7.273,99   |
 |  Oct-2020 | $8.692,30  |
-|  November-2020 | $107,89  |
+|  Nov. 2020 | $107,89  |
 
 Der geschätzte Betrag kann aus einer Vielzahl von Gründen von der tatsächlichen Menge abweichen:
 
@@ -129,7 +129,7 @@ Klicken Sie oben auf der Seite auf " **herunterladen** ", um weitere Details zu 
 >- **lastpaymentcurrency**  Die Währung, in der die letzte Zahlung über alle mpns eingegangen ist, an die der derzeit angemeldete Partner Zugriff hat. Wenn keine Zahlung eingegangen ist, ist die letzte Zahlungswährung US-Dollar.
 >- **earningamountinlastpaymentcurrency**  Der Erwerbs Betrag in der letzten Zahlungswährung.
 
-| Spaltenname | Beschreibung | Anwendbarkeit für Incentive-Programme/marketplaces |
+| Spaltenname | BESCHREIBUNG | Anwendbarkeit für Incentive-Programme/marketplaces |
 | --- | --- | --- |
 | agreementEndDate | Enddatum der Vereinbarung | Incentives – nur einige Programme |
 | agreementNumber | Vereinbarungsnummer | Incentives – nur einige Programme |
@@ -138,7 +138,7 @@ Klicken Sie oben auf der Seite auf " **herunterladen** ", um weitere Details zu 
 | claimId | Eindeutiger Bezeichner für den Anspruch | Incentives – nur einige Programme |
 | customerCountry | Land/Region des Kunden | marketplaces |
 | CustomerEmail |  |  |
-| customerName | Ist immer leer | Nur Incentive-Programme (Ausnahme: OEM) und marketplaces |
+| customerName | Kann leer sein. | Nur Incentive-Programme (Ausnahme: OEM) und marketplaces. Für CSP-Transaktionen wird in marketplaces der Name des CSP angezeigt. |
 | customertenantid |  |  |
 | distributorId | Verteiler-ID | Incentives – nur einige Programme |
 | distributorName | Verteilername | Incentives – nur einige Programme |
@@ -161,7 +161,7 @@ Klicken Sie oben auf der Seite auf " **herunterladen** ", um weitere Details zu 
 | LicensingProgramName | Name des Lizenzierungsprogramms |  |
 | LineItemId | Einzelne Position in der Rechnung eines Kunden |  |
 | localProviderSeller | Lokaler Anbieter/Seller of Record |  |
-| Reife Monat | Der geschätzte Zahlungs Monat | Alle |
+| Reife Monat | Der geschätzte Zahlungs Monat | All |
 | OrderId | Bezieht sich auf die Rechnung eines Kunden  | marketplaces |
 | parentProductId | Eindeutige ID des übergeordneten Produkts. Wenn kein übergeordnetes Produkt für die Transaktion vorhanden ist, entspricht die ID des übergeordneten Produkts der Produkt-ID. | marketplaces |
 | parentProductName | Name des übergeordneten Produkts. Wenn kein übergeordnetes Produkt für die Transaktion vorhanden ist, entspricht der Name des übergeordneten Produkts dem Produktnamen. | marketplaces |
@@ -174,7 +174,7 @@ Klicken Sie oben auf der Seite auf " **herunterladen** ", um weitere Details zu 
 | paymentStatus | Zahlungsstatus | All |
 | paymentStatusDescription | Benutzerfreundliche Beschreibung des Zahlungsstatus | All |
 | productId | Eindeutige Produkt-ID | marketplaces |
-| ProductName | Mit der Transaktion verknüpfter Produktname | Alle |
+| ProductName | Mit der Transaktion verknüpfter Produktname | All |
 | productType | Produkttyp, z. B. App, Add-On oder Spiel | marketplaces |
 | Programmcode | Dem Programmnamen zuzuordnende Zeichenfolge |  |
 | programName | Name des Incentive-/Store-Programms | All |
@@ -298,7 +298,7 @@ In der folgenden Tabelle werden die verschiedenen Erwerbsstatus erläutert.
 | paymentDate | Datum, an dem die Zahlung von Microsoft gesendet wurde |
 |
 
-## <a name="export-data"></a>Exportieren von Daten
+## <a name="export-data"></a>Daten exportieren
 
 Die Seite " **Daten exportieren** " wird nicht eigenständig aktualisiert. Möglicherweise müssen Sie die Seite manuell aktualisieren, um die neuesten Daten anzuzeigen. Wählen Sie aus den drei Registerkarten aus, um entweder **Transaktionsverlauf**, **Zahlungen**, **Transaktions Zusammenfassung** oder Verlaufs **Anweisung** zu exportieren.
 

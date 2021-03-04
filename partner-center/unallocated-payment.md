@@ -9,18 +9,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bddf0482e20817f9087a3610104652dabdef72c4
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: d3920cbdc52a844477aacac9c7ac2122c14edeba
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811120"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755815"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Verwalten nicht zugewiesener Zahlungen auf Ihrer Partner Center-Abrechnungs Seite
 
-**Zielgruppe**
+**Geeignete Rollen**
 
-- Partner Center
+- Abrechnungsadministrator
+- Kontoadministrator
 
 Gelegentlich wird auf Ihrer Abrechnungs Seite möglicherweise eine nicht zugewiesene Zahlung angezeigt. Eine nicht zugewiesene Zahlung ist eine Zahlung, die Sie an Microsoft vorgenommen haben und die Sie nicht auf eine bestimmte Rechnung angewendet haben.
 
@@ -35,3 +36,7 @@ Gelegentlich wird auf Ihrer Abrechnungs Seite möglicherweise eine nicht zugewie
 Um diesen Betrag auf eine bestimmte Rechnung anzuwenden, senden Sie eine e-Mail an, bposcapp@microsoft.com und teilen Sie uns mit, auf welche Rechnung diese Zahlung angewendet werden soll Stellen Sie sicher, dass Sie alle Informationen einschließen, die Sie hätten, wenn Sie eine Zahlung durchführen würden. Ihre Abrechnungs Seite wird in 5-6 Tagen aktualisiert. 
 
 Nicht zugewiesene Zahlungen bleiben erhalten, bis Sie Sie einer Rechnung zuweisen. 
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Abrechnung für kommerzielle Marketplace-Produkte und-Abonnements im Partner Center](csp-commercial-marketplace-billing.md)

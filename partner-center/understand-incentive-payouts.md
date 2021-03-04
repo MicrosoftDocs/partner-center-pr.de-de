@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4bf1c7a2abceffc812666456ddae252fca70d8f1
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492720"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755854"
 ---
 # <a name="view-your-incentives-program-details"></a>Details zu den Programm Details anzeigen
-
-**Zielgruppe**
-
-- Partner Center
 
 **Geeignete Rollen**
 
@@ -37,7 +33,7 @@ In diesem Artikel wird erläutert, wie Sie auf die Übersichtsseite " **meine In
 
 ## <a name="access-the-incentives-overview-page"></a>Seite "Übersicht über die Incentives"
 
-1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard)an.
+1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard) an.
 1. Wählen Sie im Menü den Befehl **Incentives** und dann **Overview** aus.
 1. Zeigen Sie im oberen Bereich der Seite die Zusammenfassung der Einnahmen und Zahlungen an. Weitere Details finden Sie in der Tabelle unten. Sie können die zugehörige Tabelle auch sortieren, gruppieren und erweitern:
 
@@ -67,7 +63,7 @@ Wählen Sie das Auszahlungs Symbol in der oberen rechten Ecke des Bildschirms au
 
 - Transaktionsverlauf
 - Zahlungen
-- Exportieren von Daten
+- Daten exportieren
 
 :::image type="content" source="images/payouts/payout-overview.png" alt-text="Veranschaulicht das Auszahlungs Symbol in der oberen rechten Ecke des Partner Center-Portals.":::
 
@@ -76,4 +72,5 @@ Diese Informationen umfassen den Gesamtgewinn und die Gesamtzahlungen, seit Sie 
 Sie können auch die [Partner-Auszahlungs-API](https://apidocs.microsoft.com/services/partnerpayouts) verwenden, um eine Verbindung zu Auszahlungs Transaktionen und Zahlungsdaten direkt herzustellen und diese zu erhalten. Weitere Informationen finden Sie unter [Auszahlungs Anweisungen](payout-statement.md) .
 
 ## <a name="next-steps"></a>Nächste Schritte
-- [Auszahlungsaufstellungen](payout-statement.md)
+
+- [Auszahlungsauszüge](payout-statement.md)

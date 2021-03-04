@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99835066"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756717"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Häufig gestellte Fragen zu Incentives
 
@@ -67,9 +67,9 @@ Der Grund dafür, dass Sie keine Anreize sehen können, liegt darin, dass Sie ni
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Einige Registrierungen fehlen auf der Seite mit den Incentives (Übersicht).
 
-Wenn Sie entweder eine Einladung von erhalten haben oder sich bei angemeldet haben, sollten Sie ein Incentive-Programm, das nicht mehr im Dashboard angezeigt wird, überprüfen, ob Sie über die entsprechenden Zugriffsberechtigungen verfügen. Nur Benutzer mit der Rolle "Incentive-Benutzer" oder "Incentive admin" können das Programm sehen. Siehe [Suchen ihrer Rolle](https://docs.microsoft.com/partner-center/find-your-role).
+Wenn Sie entweder eine Einladung von erhalten haben oder sich bei angemeldet haben, sollten Sie ein Incentive-Programm, das nicht mehr im Dashboard angezeigt wird, überprüfen, ob Sie über die entsprechenden Zugriffsberechtigungen verfügen. Nur Benutzer mit der Rolle "Incentive-Benutzer" oder "Incentive admin" können das Programm sehen. Siehe [Suchen ihrer Rolle](./find-your-role.md).
 
-Wenn Sie Ihre Rolle oder Berechtigungen ändern müssen, wenden Sie sich an den globalen oder Konto Administrator Ihres Unternehmens. Informationen dazu, wer diese Personen sind, [finden Sie untersuchen des globalen Administrators](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin).
+Wenn Sie Ihre Rolle oder Berechtigungen ändern müssen, wenden Sie sich an den globalen oder Konto Administrator Ihres Unternehmens. Informationen dazu, wer diese Personen sind, [finden Sie untersuchen des globalen Administrators](./find-your-role.md#find-your-global-admin).
 
 Beachten Sie, dass auf der Übersichtsseite nur Registrierungen angezeigt werden, die dem globalen Partner Konto zugeordnet sind, das dem Azure AD Mandanten zugeordnet ist. Wenn Ihr Unternehmen über mehr als eine PGA verfügt, benötigen Sie jeweils andere Anmelde Informationen.
 

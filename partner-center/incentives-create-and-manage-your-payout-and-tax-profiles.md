@@ -1,19 +1,19 @@
 ---
 title: Auszahlungs- und Steuerprofile in Partner Center
 ms.topic: how-to
-ms.date: 11/12/2020
+ms.date: 02/24/2021
 description: Erstellen und verwalten Sie Ihr Auszahlungs-und Steuer Profil, damit Sie für Ihre Incentives kostenpflichtig sind. Umfasst das Erstellen, verwalten und Verwenden von unterschiedlichen Profilen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ba8c1a811d66a5e6233f625c3981283341ea546c
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624237"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756587"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Erstellen und Verwalten von Auszahlungs-und Steuer Profilen für die Anreize im Partner Center
 
@@ -86,10 +86,22 @@ In den folgenden Abschnitten werden die Schritte zum Erstellen und Verwalten von
 
     >[!NOTE]
     >Die Verfügbarkeit der Zahlungsmethode hängt von den Regeln des Incentive-Programms ab.
+
+    - Wenn Ihre Speicherort-MPN-ID von einer lokalen Microsoft-Niederlassung für ein bestimmtes Incentive-Programm gezahlt wird und LRD-Guthaben (Limited Risk Distributor) als Zahlungsmethode zulässt, wird Ihr Zahlungsprofil mit der Zahlungsmethode für die LRD-Gutschrift vorab ausgefüllt. In der LRD-Gutschrift Zahlungsmethode für die entsprechende MPN-ID des Incentive-Programms und des Standorts wird die **Bestätigung** oder über **Prüfung** als Status im Abschnitt Zahlungsprofil angezeigt.
+    
+       Wählen Sie über **Prüfung erforderlich** aus, um die Details der CSP-Mandanten-ID zu bestätigen und zu überprüfen, die dem Speicherort MPN und der Zahlungsmethode zugeordnet sind, um die Zahlungs Notiz Überprüfen Sie im Dialogfeld **Details zum Kredit Hinweis** , ob die ID des CSP-Mandanten und die angegebenen Details richtig sind. Wenn Sie mehr als eine Mandanten-ID haben, wählen Sie die CSP-Mandanten-ID, für die Sie Zahlungen erhalten möchten, sorgfältig aus. Wählen Sie als nächstes bestätigen aus, um zu **bestätigen** , dass Ihre Unternehmens Details richtig sind, und dass die Incentive-Zahlung an die von Ihnen ausgewählte CSP-Mandanten-ID vorgenommen werden soll.
+ 
+      Wenn der Status **bestätigt** angezeigt wird, wurde die Zuweisung der CSP-Mandanten-ID abgeschlossen, und es ist keine weitere Aktion erforderlich. Sie können weiterhin bestätigt auswählen, um die Details der Zuweisung anzuzeigen.
+   
+      In Ländern, in denen Partner explizit anfordern müssen, eine Steuerbefreiung anzuwenden, gibt es eine Option zum Anwenden von Steuer Ausnahmen neben dem Steuer Profil im Steuer Profilabschnitt des Incentive-Programms und des Standort-MPN. Wenn Sie dieses Kontrollkästchen aktivieren, werden die Vorteile der Tax-Ausnahme auf Ihre Incentive-Gutschrift 
+   
+      Diese Zahlungsmethode ist derzeit nur für die Partner von Australien, Neuseeland und Kanada für das Microsoft Commerce Incentive-Programm verfügbar. Wenn Sie ein direkter Rechnungs Partner oder indirekter Anbieter in diesen drei Ländern sind, die für das MCI-Programm registriert sind, und Sie keine LRD-Gutschrift als Zahlungsmethode sehen, vergewissern Sie sich, dass Ihre Mandanten-ID dem entsprechenden Partnerkonto für MPN-Speicherort zugeordnet ist. Weitere Informationen zu diesem Thema finden Sie unter Vorgehens [Weise beim Aktualisieren Ihres Organisations Profils](update-your-partner-profile.md).
+
     
 5. Wählen Sie die **Währung** aus.
 
 6. Wenn Sie alle Zahlungs Felder ausgefüllt haben, wählen Sie über **Mitteln** aus.
+
 
 ## <a name="create-your-bank-profile"></a>Erstellen Ihres Bank Profils
 

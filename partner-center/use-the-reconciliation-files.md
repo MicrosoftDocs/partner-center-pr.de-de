@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: d927b138c32b3e5f6f5d906db898e17f89a85aae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488079"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755782"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Erfahren Sie, wie Sie die Zeilen Elemente in Ihren Partner Center-Abstimmungs Dateien lesen.
 
@@ -23,20 +23,20 @@ Gilt für:
 - Partner Center
 - Partner Center für Microsoft Cloud for US Government
 
-Sie können Ihre Abstimmungs Dateien aus Partner Center herunterladen, um eine ausführliche Ansicht der einzelnen Kosten in einem Abrechnungszeitraum anzuzeigen. Zu den Zeilen Element Details zählen Gebühren für die Abonnements der einzelnen Kunden und detaillierte Ereignisse (z. b. das Hinzufügen von Lizenzen zu einem Abonnement).
-
-Geeignete Rollen:
+**Geeignete Rollen**
 
 - Abrechnungsadministrator
 - Globaler Administrator
+
+Sie können Ihre Abstimmungs Dateien aus Partner Center herunterladen, um eine ausführliche Ansicht der einzelnen Kosten in einem Abrechnungszeitraum anzuzeigen. Zu den Zeilen Element Details zählen Gebühren für die Abonnements der einzelnen Kunden und detaillierte Ereignisse (z. b. das Hinzufügen von Lizenzen zu einem Abonnement).
 
 Informationen zum Lesen der **Rechnung** finden Sie unter [Lesen der](read-your-bill.md)Rechnung.
 
 ## <a name="understand-reconciliation-file-fields"></a>Grundlegendes zu Abstimmungs Datei Feldern
 
-- [Lizenz basierte Abstimmungs Datei Felder](license-based-recon-files.md)
-- [Verwendungs basierte Abstimmungs Datei Felder](usage-based-recon-files.md)
-- [Nutzungs Abgleich-Datei Felder für die tägliche Bewertung](daily-rated-usage-recon-files.md)
+- [Grundlegendes zu den Feldern in lizenzbasierten Abstimmungsdateien von Partner Center](license-based-recon-files.md)
+- [Grundlegendes zu nutzungsbasierten Abstimmungsdateien und ihren spezifischen Feldern im Partner Center](usage-based-recon-files.md)
+- [Abstimmungsdateien zur täglich bewerteten Nutzung: Felder](daily-rated-usage-recon-files.md)
 - [Felder für das einmalige kaufen von CSP-Abstimmungs Dateien](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Grundlegendes zu Lade Typen in Abgleich Dateien
@@ -93,3 +93,7 @@ So können Sie die **Reseller MPN-ID** anzeigen oder aktualisieren:
 4. Wählen Sie im Menü Kunde die Option **Abonnements** aus.
 5. Wählen Sie das Abonnement aus der Liste aus.
 6. Wählen Sie **Aktualisieren** aus, um **Vertriebspartner (MPN-ID)** zu ändern.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Lesen Ihrer Rechnung & Datei "Reconnaissance"](read-your-bill.md) 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 412abdd0de9154d897252004440f7d8d153ec74b
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 927135e3615d554ed4180dc9100ab0c4d5a3586e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834818"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756049"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Verkaufen lokaler Software über das CSP-Programm (Cloud Solution Provider)
 
@@ -40,7 +40,7 @@ Um Softwareabonnements im Auftrag eines Kunden zu erwerben, wechseln Sie zur Det
 Nachdem Sie die Software erworben haben, muss sie von Ihren Kunden heruntergeladen werden. Führen Sie dazu die nachfolgend aufgeführten Schritte aus.
 
 >[!NOTE]
->Sie müssen ein Administrator-Agent sein, um den Link zu Schlüsseln und Downloads zu erhalten.
+>Sie müssen ein Administrator-Agent sein, um den Link zu Schlüsseln und Downloads abrufen zu können.
 
 1. Wechseln Sie zur Detailseite des Kunden, und wählen Sie dann **Software** aus. Sie sehen eine Liste der gesamten Software, die Sie im Auftrag des Kunden erworben haben.
 2. Kopieren Sie den „Deep-Link“ aus **Link zu Software-Product Keys und Downloads**, und leiten Sie ihn an Ihren Kunden weiter. Wenn der Kunde auf diesen Link klickt, wird er zum Microsoft Admin Center weitergeleitet, wo er die Software herunterladen und seine Product Keys abrufen kann.
@@ -48,7 +48,7 @@ Nachdem Sie die Software erworben haben, muss sie von Ihren Kunden heruntergelad
 >[!NOTE]
 >Die Product Keys und Downloadinformationen im Microsoft Admin Center werden nur Kunden angezeigt. Für Partner sind diese Informationen nicht sichtbar.
 
-Wenn Sie oder Ihre Kunden mehr über das Herunterladen von Lizenzschlüsseln erfahren möchten, finden Sie weitere Informationen unter [Herunterladen von Software und Produktlizenzschlüsseln](https://go.microsoft.com/fwlink/p/?linkid=2152525).
+Wenn Sie oder Ihre Kunden mehr über das Herunterladen von Lizenzschlüsseln erfahren möchten, finden Sie weitere Informationen unter [Herunterladen von Software und Produktlizenzschlüsseln](/microsoft-365/admin/setup/download-software-licenses-csp).
 
 ## <a name="cancel-a-purchase"></a>Stornieren eines Einkaufs
 

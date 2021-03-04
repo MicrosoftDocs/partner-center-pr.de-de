@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861409"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756844"
 ---
 # <a name="payout-schedules-and-processes"></a>Auszahlungszeitpläne und -prozesse
 
@@ -33,11 +33,10 @@ Wenn ein Kunde ein Produkt von Microsoft AppSource oder Azure Marketplace mit vo
 
 Es kommt häufig vor, dass Microsoft die Zahlung vom Kunden sammelt. Weitere Informationen zu den Aktionen, die wir durchführen, wenn der Kunde [Microsoft nicht bezahlt](#process-for-customer-non-payment) , aber wir haben bereits eine Auszahlung ausgegeben.
 
-| Ereignis | Beschreibung | Sichtbarkeit von Berichten | Zeit Steuerungs |
+| Ereignis | BESCHREIBUNG | Sichtbarkeit von Berichten | Zeit Steuerungs |
 | --- | --- | --- | --- |
 | Verwendung oder Monat der Transaktion | Der Kunde verwendet oder kauft einen Dienst. | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 1** |
 | Microsoft berechnet Abrechnungsbetrag | Bestimmen der Gesamtauslastung, Transaktionen gesamt | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 2** |
-| Von Kunde bezahlte Rechnung | Microsoft sammelt die Zahlung von Kunden | Keine Änderung | **Monat 2** |
 | Auszahlungs Veröffentlichung | Bestimmen der Gebühren und Auszahlungs Einnahmen der Agentur | Im Transaktionsverlauf in der [Auszahlungs Anweisung](payout-statement.md) als nicht verarbeitet markiert | **Monat 3 (1. Woche)** |
 | Auszahlung vorbereiten | Der Gewinn ist für die monatliche Zahlung vorbereitet. | Im Transaktionsverlauf in der [Auszahlungs Anweisung](payout-statement.md) als demnächst markiert | **Monat 3 (1. Woche)** |
 | **Auszahlung gesendet** | **Die Zahlung wird an den Verleger gesendet.** | **Gekennzeichnet als in Transaktionsverlauf gesendet und im Abschnitt "Zahlungen" der [Auszahlungs Anweisung](payout-statement.md)** | **Monat 3 (nicht später als der 15.)** |
@@ -52,7 +51,7 @@ Es kommt häufig vor, dass Microsoft die Zahlung vom Kunden sammelt. Weitere Inf
 
 Alle Käufe mit einer Kreditkarte oder einer monatlichen Rechnung verfügen über einen Zeitraum von 30 Tagen, um sicherzustellen, dass die Geldbeträge vom Kunden gesammelt werden.
 
-| Ereignis | Beschreibung | Sichtbarkeit von Berichten | Zeit Steuerungs |
+| Ereignis | BESCHREIBUNG | Sichtbarkeit von Berichten | Zeit Steuerungs |
 | --- | --- | --- | --- |
 | Verwendung oder Monat der Transaktion | Der Kunde verwendet oder kauft einen Dienst. | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 1** |
 | Von Kunde bezahlte Rechnung | Ermitteln der Gesamtauslastung, des gesamten Transaktionswerts und der Kunden zahlungsrechnung | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 2** |

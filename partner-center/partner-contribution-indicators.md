@@ -1,7 +1,7 @@
 ---
 title: Partner Beitrags Indikatoren-CBA
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über sieben Partner Beitrags Indikatoren (PCI), die Partner zeigen, wie Sie eine Silver-oder Gold Cloud-Business Applications Kompetenz erreichen können.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530815"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756550"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Verwenden von Partner Beitrags Indikatoren zum Erreichen der Cloud-Business Applications Kompetenz
 
@@ -155,7 +155,7 @@ Sie können nur Gutschriften für diese PCI-Metriken für einen bestimmten Kunde
 - Sie sind der Anspruchs Partner von Record (cpor) für ein kostenpflichtiges Abonnement, das zum Mandanten dieses Kunden gehört.
 - Sie sind Digital Partner of Record (dpor) für ein kostenpflichtiges Abonnement, das zum Mandanten dieses Kunden gehört.
 
-Ein Partner wird zum cpor, wenn er mit einem Kunden auf der Abonnement Ebene über den Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) Incentive oder über den Dynamics 365 [Online Services Usage](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU)-Anreiz verfügt.
+Ein Partner wird zum cpor, wenn er mit einem Kunden auf der Abonnement Ebene über den Dynamics 365 Online Services Advisor (OSA) Incentive oder über den Dynamics 365 Online Services Usage (OSU)-Anreiz verfügt. Weitere Informationen finden Sie Untergrund Legendes zu [cpor-Zuordnungen](incentives-customer-associations-intro.md).
 
 Ein Partner wird dann zum DPOR, wenn eine Kundenbeziehung auf Abonnementebene innerhalb des Produkts eingegangen wurde.
 

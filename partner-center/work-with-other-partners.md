@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ae635b77acc82ea705f3405d1c15aa7d02684dd
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: 944f02af414a2865cadf94cd4fbf41c2555e066b
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322099"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755706"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Verschiedene Möglichkeiten, mit anderen Partnern in Partner Center zu arbeiten
 
-**Zielgruppe**
+**Geeignete Rollen**
 
-- Partner Center
+- Konto Administrator
 
 Das Microsoft Cloud Solution Provider-Programm (CSP) bietet Partnern Möglichkeiten, auf diese Weise zusammenzuarbeiten.
 
@@ -55,4 +55,4 @@ Die Multi-Channel-Funktion von Partner Center unterstützt Szenarien, in denen e
 Die Multichannel-Unterstützung ist auch in Microsoft-Angeboten für nationale Clouds verfügbar.
 
 > [!IMPORTANT]  
-> Ein Partner im CSP-Programm kann derzeit einem anderen Partner im CSP-Programm keine Onlinedienste verkaufen. Diese Einschränkung gilt nur für den Mandanten, der zum Durchführen von CSP-Transaktionen verwendet wird. CSP-Partner, die einen nicht-CSP-Mandanten für Ihre Unternehmens Nutzung verwenden, können Onlinedienste von einem anderen CSP-Partner erwerben. Microsoft überprüft ständig die Richtlinien und Möglichkeiten aller Programme. Alle Neuigkeiten zur Freigabe von Features oder Richtlinienänderungen werden über die üblichen Kommunikationskanäle angekündigt, einschließlich [Partner Center-Ankündigungen](announcements/index.md).
+> Ein Partner im CSP-Programm kann derzeit einem anderen Partner im CSP-Programm keine Onlinedienste verkaufen. Diese Einschränkung gilt nur für Mandanten, die für die Durchführung von CSP-Transaktionen verwendet werden. CSP-Partner, die einen Nicht-CSP-Mandanten für ihre Unternehmensnutzung verwenden, können Onlinedienste von einem anderen CSP-Partner erwerben. Microsoft überprüft ständig die Richtlinien und Möglichkeiten aller Programme. Alle Neuigkeiten zur Freigabe von Features oder Richtlinienänderungen werden über die üblichen Kommunikationskanäle angekündigt, einschließlich [Partner Center-Ankündigungen](announcements/index.md).

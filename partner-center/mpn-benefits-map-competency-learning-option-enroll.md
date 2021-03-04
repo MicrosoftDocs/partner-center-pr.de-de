@@ -1,5 +1,5 @@
 ---
-title: Als Lernpartner registrieren
+title: Registrieren als Learning Partner
 ms.topic: how-to
 ms.date: 02/05/2021
 description: Verwenden Sie Partner Center, um sich für das Lern Partner Programm anzumelden. Dies kann auf der Grundlage der Lern Action Pack oder der lernoption für Silver-oder Gold-Kompetenzen durchzuführen sein.
@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e4f2b395ac421c9c01a813689723901374124a
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99975662"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756141"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Verwenden von Partner Center zum Registrieren als Microsoft-Lernpartner
 
@@ -40,7 +40,7 @@ Bei der Anmeldung beim Lern Partner Programm sind folgende Punkte zu beachten:
 
 **Update für covid-19**
 
-Microsoft bietet eine Kompetenzerweiterung (mit Ausnahme von Cloud Business Applications-Kompetenz) und erweiterte Spezialisierungs Erweiterung für Partner mit Anniversary Dates (AD) zwischen dem 1. Januar 2021 und dem 30. Juni 2021. Weitere Informationen finden Sie in unserem [Partner Blogbeitrag](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) .
+Microsoft bietet eine Verlängerung von Kompetenzen (mit Ausnahme der Cloud Business Applications-Kompetenz) und erweiterten Spezialisierungen für Partner mit Jahrestagen zwischen dem 1. Januar 2021 und dem 30. Juni 2021. Weitere Informationen finden Sie im [Partnerblogbeitrag](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 
 Um auf dem Laufenden zu bleiben, informieren Sie sich über [unsere Blogs](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn) , und sehen Sie sich unsere [Yammer-Seite für Lern Partner](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI4NDU0NDI3In0/all)an. Programmdokumente und monatliche communityaufrufaufzeichnungen finden Sie auch auf unserer [Lernressourcen Seite](https://partner.microsoft.com/marketing/learning-resources#/).
 
@@ -115,7 +115,7 @@ Die Besprechung eines KPIs bezieht sich nicht auf die Dauer des Trainings. Weite
 
 ### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>Q. Warum wird ich nicht als Microsoft Learning-Partner im Lernpartner Verzeichnis angezeigt?
 
-Möglicherweise müssen Sie Sie dem [Lern Partner Verzeichnis](https://docs.microsoft.com/learn/certifications/partners)hinzufügen. Sie können dann über die Seite "Lern Partner Verzeichnis" eine Verknüpfung mit Ihrer Website herstellen.
+Möglicherweise müssen Sie Sie dem [Lern Partner Verzeichnis](/learn/certifications/partners)hinzufügen. Sie können dann über die Seite "Lern Partner Verzeichnis" eine Verknüpfung mit Ihrer Website herstellen.
 
 Dies ist ein manueller Prozess, der während der dritten Woche nur einmal pro Monat übermittelt wird. Das nachfolgende Update ist bis zum Ende der ersten Woche des folgenden Monats sichtbar. Um die Situation zu beheben, wenden Sie sich an den [Support von Partner Frontline](https://partner.microsoft.com/support). Stellen Sie sicher, dass die folgenden Details bereitgestellt werden:
 

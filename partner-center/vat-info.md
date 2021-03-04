@@ -6,19 +6,19 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
-ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: 6ed9f7b9bbe33e209a2e482ab4f3035decb46245
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755638"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755737"
 ---
 # <a name="value-added-tax-vat-information"></a>Mehrwert Steuerungsinformationen
 
-**Gilt für:**
+**Geeignete Rollen**
 
-- Partner Center
-- Kommerzieller Marketplace
+- Kontoadministrator
+
 
 Wenn Sie während der Partner Center-Registrierung eine Umsatzsteuer-ID angeben müssen, finden Sie hier einige Informationen, um Ihnen den Einstieg zu erleichtern.
 
@@ -77,7 +77,8 @@ Beachten Sie, dass Microsoft keine Steuer Ratschläge bereitstellt, und die folg
 |Slowenien |-WST-Zahlen Format: 2 Buchstaben und 8 Ziffern<br/>-Land-/Regionscode: Si<br/>-Beispiel: SI12345678<br/>-Hinweise: die ersten Zeichen sind immer "Si". |
 |Spanien |-WST-Zahlen Format: 9 Ziffern<br/>-Land-/Regionscode: es<br/>-Beispiel: X12345678, 12345678x oder X1234567X<br/>-Notes: enthält 1 oder 2 Buchstaben: entweder First, Last oder First und Last. |
 |Schweden |-Umsatzsteuer Nummern Format: 12 Ziffern<br/>-Land-/Regionscode: SE<br/>-Beispiel: 123456789001<br/>-Hinweise: die letzten 2 Zeichen müssen "01" sein. |
-|Vereinigtes Königreich |-WST-Zahlen Format: 9 oder 12 Ziffern<br/>-Land-/Regionscode: GB<br/>-Beispiel: 123456789 oder 123456789001<br/>-Notes: 9 Ziffern im Allgemeinen, aber 12 Ziffern, wenn die Zahl ein Unternehmen innerhalb einer Gruppe darstellt. |
+|United Kingdom |-WST-Zahlen Format: 9 oder 12 Ziffern<br/>-Land-/Regionscode: GB<br/>-Beispiel: 123456789 oder 123456789001<br/>-Notes: 9 Ziffern im Allgemeinen, aber 12 Ziffern, wenn die Zahl ein Unternehmen innerhalb einer Gruppe darstellt. |
+
 ## <a name="next-steps"></a>Nächste Schritte
 
 - [Unternehmens Steuerungsinformationen und Vorgehensweise beim Hinzufügen oder Einreichen von Umsatzsteuer-IDs für Partner Center-Käufe](organization-tax-info.md)

@@ -99,6 +99,11 @@
         - name: Azure- und Cloudvorteile
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
+        - name: Visual Studio-Vorteile
+          href: mpn-benefits-visual-studio.md
+          displayname: 'visual studio, mpn, activate'
+        - name: Vorteile von technischen Presales- und Bereitstellungsdiensten
+          href: technical-benefits.md
     - name: Marketplace-Prämien
       href: marketplace-rewards.md
     - name: Software Assurance
@@ -447,6 +452,8 @@
           displayName: 'region, regio'
         - name: Beantragen einer SLA-Gutschrift bei Microsoft
           href: request-credit.md
+        - name: Auswirkungen von Steuerrichtlinien auf die Auszahlung
+          href: tax-policies-affect-payout.md
     - name: Einrichten eines Kundenbudgets für Azure-Kosten
       href: set-an-azure-spending-budget-for-your-customers.md
       displayName: csp

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756190"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124821"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Leitfaden zum Co-Selling im Partner Center (PC) für Partner, die von Partner Sales Connect (PSC) migrieren
 
@@ -32,9 +32,9 @@ Dieser Artikel enthält Anleitungen für Partner, die eine Migration von Partner
 > Wenn Sie sich hier befinden, weil Sie ein Banner zu der Migration gesehen haben, sind Sie an der richtigen Stelle. Dieses Handbuch gilt nicht für die Lösungs Bewertung (SA) und OEM-Lizenzierungs Geschäftspartner, die ihre Geschäfte im PSC verwalten.
 
 >[!Important]
-> Ab dem 1. Mai 2021 kann Ihr Unternehmen keine Geschäfte in PSC erstellen oder bearbeiten. **Sie können weiterhin die vorhandenen Daten über den Massen Export in PSC herunterladen. Nach diesem Datum können Sie auch geöffnete Deals von PSC zu Partner Center [Migrieren](psc-to-pc.md#psc-deals-migration) .** <br><br> Wenn es Aktionen gibt, an denen Sie aktiv arbeiten und die IP-Co-Selling-berechtigte Lösungen enthalten, haben Sie zwei Möglichkeiten: <br><br> 1. Markieren Sie den Deal als "gewinnt", und füllen Sie die Registrierung im PSC vor dem 30. April 2021 aus. <br> 2. [Migrieren Sie die Geschäfte](psc-to-pc.md#psc-deals-migration) zu Partner Center, damit Sie mehr Zeit für die Arbeit mit dem Umgang haben und die Registrierung beginnen können.
+> Ab dem 1. April 2021 kann Ihr Unternehmen keine Geschäfte in PSC erstellen oder bearbeiten. **Sie können weiterhin die vorhandenen Daten über den Massen Export in PSC herunterladen. Nach diesem Datum können Sie auch geöffnete Deals von PSC zu Partner Center [Migrieren](psc-to-pc.md#psc-deals-migration) .** <br><br> Wenn es Aktionen gibt, an denen Sie aktiv arbeiten und die IP-Co-Selling-berechtigte Lösungen enthalten, haben Sie zwei Möglichkeiten: <br><br> 1. Markieren Sie den Deal als "gewinnt", und füllen Sie die Registrierung im PSC vor dem 31. März 2021 aus. <br> 2. [Migrieren Sie die Geschäfte](psc-to-pc.md#psc-deals-migration) zu Partner Center, damit Sie mehr Zeit für die Arbeit mit dem Umgang haben und die Registrierung beginnen können.
 
-Wie Sie wissen, **verliert das Unternehmen den Zugriff auf das PSC nach dem 31. Mai 2021**. Allerdings finden Sie weiterhin alle Elemente, die Sie in Partner Center verwenden möchten, wie z. b. das Erstellen von Co-Selling-Geschäften, das Verwalten Ihrer Geschäfte und das Handeln von angeboten, die von Microsoft-Verkäufern an Sie gesendet werden.
+Wie Sie wissen, **verliert das Unternehmen den Zugriff auf das PSC nach dem 30. April 2021**. Allerdings finden Sie weiterhin alle Elemente, die Sie in Partner Center verwenden möchten, wie z. b. das Erstellen von Co-Selling-Geschäften, das Verwalten Ihrer Geschäfte und das Handeln von angeboten, die von Microsoft-Verkäufern an Sie gesendet werden.
 
 Es gibt jedoch Unterschiede. Anhand der folgenden Anleitungen können Sie den Übergang zu Partner Center vereinfachen und einfacher gestalten.
 

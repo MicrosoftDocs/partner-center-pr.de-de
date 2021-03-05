@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 10/29/2020
-ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 3/2/2021
+ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756161"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185348"
 ---
 # <a name="payout-statements"></a>Auszahlungsauszüge
 
@@ -56,8 +56,7 @@ Sie können auch die [Partner-Auszahlungs-API](https://apidocs.microsoft.com/ser
 
 ## <a name="transaction-history"></a>Transaktionsverlauf
 
-Die Seite **Transaktionsverlauf** zeigt die Zusammenfassung ihres Ergebnisses, die geschätzte nächste Zahlung und ihren Gewinn-und Zahlungs Trend in den letzten 36 Monaten an. Sie können auch Transaktionsdetails aus diesem Abschnitt herunterladen.
-
+Die Seite **Transaktionsverlauf** zeigt die Zusammenfassung ihres Ergebnisses, die geschätzte nächste Zahlung und ihren Gewinn-und Zahlungs Trend in den letzten 36 Monaten an. Sie können auch Transaktionsdetails aus diesem Abschnitt herunterladen.<br><br>In diesem Bericht werden alle für die Auszahlung berechtigten Einnahmen angezeigt, einschließlich der noch nicht gesendeten Zahlungen. Der Gewinn kann als Auszahlung genutzt werden, wenn ein ISV alle Bank-und Steuerinformationen im Partner Center abgeschlossen hat, >$50, das ISV-Konto aktiv ist und der Kunde in Rechnung gestellt wurde (für EA-Transaktionen) oder die Zahlung (bei nicht-EA-Transaktionen) eingegangen ist.
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="Transaktions Übersicht.":::
 

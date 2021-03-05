@@ -8,20 +8,22 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/25/2021
-ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 03/03/2021
+ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756152"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029932"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
 Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen werden häufig aktualisiert, überprüfen Sie sie daher in regelmäßigen Abständen.
 
-|**Kategorie**|**Ankündigungen für Februar 2021**|**Angekündigt**|
+|**Kategorie**|**Ankündigungen für März 2021**|**Angekündigt**|
 |---------|:---------|:---------|
+|Funktionen|[Microsoft-Lösung für universelles Drucken jetzt in einigen Suites verfügbar](2021-march.md#1)|3\. März|
+|**Kategorie**|**Ankündigungen für Februar 2021**|**Angekündigt**|
 |Funktionen|[PUT-Qualifizierungs-APIs sind eingestellt, GET-Qualifizierung wird im Mai eingestellt](2021-february.md#14)|25. Februar|
 |Funktionen|[Gemeinsame Nutzung von Co-Selling-Deals in großem Umfang mithilfe der Partner Center-Funktion für Massenvorgänge](2021-february.md#13)|25. Februar|
 |Funktionen|[Migrieren Ihrer Deals aus Partner Sales Connect (PSC) mithilfe der neuen Funktion für die Dealmigration](2021-february.md#12)|25. Februar|

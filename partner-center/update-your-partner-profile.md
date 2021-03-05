@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124770"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220261"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>Überprüfen von Unternehmensprofilinformationen im Partner Center
 
@@ -54,8 +54,7 @@ Aktualisieren Sie Ihre juristische Adresse im Partner Center.
 1. Wenn Sie **Senden** auswählen, wird Ihre juristische Identität neu bewertet, und Sie erhalten eine weitere E-Mail, die Sie akzeptieren müssen.
 
 >[!Important]
->Als CSP-Partner (Cloud Solution Provider) können Sie das mit Ihrer juristischen Adresse verknüpfte Land nicht ändern. Das Land Ihrer juristischen Adresse ist an Ihren Mandanten und Ihre Dienste sowie an die Währung gebunden, in der Sie Geschäfte tätigen. Wenn Sie nicht am CSP-Programm teilnehmen, können Sie das mit Ihrer juristischen Adresse verknüpfte Land ändern. Partner mit direkter Abrechnung und indirekte Anbieter können den rechtlichen Namen Ihres Unternehmens nicht ändern, wenn der Überprüfungsstatus „Autorisiert“ lautet. Wenn Sie den Namen ändern müssen, müssen Sie ein [Supportticket erstellen](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
-
+>Als CSP-Partner (Cloud Solution Provider) können Sie das mit Ihrer juristischen Adresse verknüpfte Land nicht ändern. Das Land Ihrer juristischen Adresse ist an Ihren Mandanten und Ihre Dienste sowie an die Währung gebunden, in der Sie Geschäfte tätigen. Partner mit direkter Abrechnung und indirekte Anbieter können den rechtlichen Namen Ihres Unternehmens nicht ändern, wenn der Überprüfungsstatus „Autorisiert“ lautet. Wenn Sie den Namen ändern müssen, müssen Sie ein [Supportticket erstellen](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
 
 ## <a name="update-your-mpn-global-business-account"></a>Aktualisieren Ihres globalen MPN-Geschäftskontos

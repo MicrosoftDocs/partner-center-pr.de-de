@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 03/05/2021
+ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924902"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247658"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Häufige Fragen zu Auszahlungen und Steuern
 
@@ -40,7 +40,7 @@ Ausführliche Informationen zum Aktualisieren von Zahlungs-und Steuer Details in
 
 Möglicherweise verfügen Sie nicht über die entsprechenden Berechtigungen, oder Sie sind mit einem Konto angemeldet, das nicht über diese Berechtigungen verfügt. Beispielsweise können nur Incentive-Administratoren für Ihren MPN-Speicherort Auszahlungs-und Steuer Profile erstellen oder verwalten. Wenden Sie sich zwecks Verwaltung der Berechtigungen für Bank und Steuern an den Administrator Ihrer Organisation.
 
-#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Ich kann mich nur bei meiner @onmicrosoft.com Domäne anmelden.   Wie sollte ich vorgehen?
+#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Ich kann mich nur bei meiner @onmicrosoft.com Domäne anmelden. Wie sollte ich vorgehen?
 
 Bitten Sie Ihren Kontoadministrator, dem AAD-Konto zusätzliche Domänen hinzuzufügen.
  
@@ -63,7 +63,14 @@ Es liegt in der Verantwortung des Unternehmens, sicherzustellen, dass die Rolle 
 
 #### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Mein Steuer Profil ist abgelaufen. Wie kann ich dies korrigieren?
 
-Verwenden Sie die Schritte unter [erstellen oder Aktualisieren Ihres Steuer Profils](set-up-your-payout-account.md#create-or-update-your-tax-profile) , um Ihr Steuer Profil zu aktualisieren. Auf der Seite " **Steuer Profil** " können Sie in der Spalte **Ablaufdatum** Profile sehen, die abgelaufen sind oder bald ablaufen. 
+Wenn ein Steuer Profil abgelaufen ist oder demnächst abläuft, muss das Steuerformular, das Sie für Microsoft bereitgestellt haben, aktualisiert werden. Führen Sie die folgenden Schritte aus, um Ihr Steuer Profil zu aktualisieren:
+
+1. Melden Sie sich beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/home)an, und wählen Sie das Zahnrad Symbol aus, um das Menü " **Einstellungen** " zu öffnen.
+2. Wählen Sie **Kontoeinstellungen** aus, erweitern Sie den Abschnitt **Auszahlung und Steuern** , und wählen Sie dann **Auszahlungs-und Steuer** Profil aus.
+3. **Steuer** Profil auswählen
+4. Überprüfen Sie das **Ablaufdatum** der Spalte, und navigieren Sie zu dem Steuer Profil, das abgelaufen ist oder demnächst abläuft.
+5. Wählen Sie **Bearbeiten** aus, um den Bearbeitungsprozess für Steuer Profile zu starten.
+6. Geben Sie im Abschnitt Steuer Form die aktualisierten Details an.
 
 ## <a name="earnings-incorrect-or-missing"></a>Das Ergebnis ist falsch oder fehlt.
 

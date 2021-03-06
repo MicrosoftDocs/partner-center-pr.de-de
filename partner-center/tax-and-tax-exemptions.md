@@ -1,7 +1,7 @@
 ---
 title: Regionale Steuern und Steuerbefreiungen
 ms.topic: article
-ms.date: 12/04/2020
+ms.date: 03/05/2021
 description: Für CSP-Programmpartner erfahren Sie mehr über steuerliche Zuständigkeiten pro Region, über das Übermitteln von Steuer Ausnahmen für CSP-Verkäufe und über die Unterstützung von Steuerfragen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,15 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3777ea3dbf6d889787c942e584087b2378659adb
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755587"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247678"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Informieren Sie sich über die Steuern und Steuer Befreiungs Details nach Region oder Land für Partner im CSP-Programm.
 
-Gilt für:
-
-- Partner Center
-- Partner Center für Microsoft Cloud for US Government
 
 Das CSP-Programm (Cloud Solution Provider) ist ein Vertriebskanal, der sich auf den Verkauf von Produkten durch den Partner konzentriert. Daher ist Microsoft nicht immer in der Lage, Umsatzsteuern für Partner Rechnungen zu berechnen. Die Regeln variieren je nach Land und/Region. Sie können [länderspezifische und regionsspezifische Details für Steuerbefreiungen](#country-and-region-tax-details)überprüfen.
 
@@ -33,9 +29,8 @@ Für Kanada und die USA sind spezifische Steuerinformationen verfügbar. Für Ta
 
 Wenn Sie sich in einem anderen Land oder einer Region befinden, die Steuern belastet, sehen Sie sich [die Informationen für andere Regionen](#other-regions)an.
 
-Wenn Sie weitere Fragen haben, [fordern Sie Unterstützung im Partner Center an](#support).
 
-### <a name="canada"></a>Kanada
+### <a name="canada"></a>Canada
 
 Die meisten Handelspartner sind nicht von der GST/HST/QST befreit. Wenden Sie sich an den Steuer Ratgeber, um zu bestimmen, ob Sie für eine Ausnahme qualifiziert sind und welche Dokumentation Sie für Microsoft bereitstellen sollten.
 

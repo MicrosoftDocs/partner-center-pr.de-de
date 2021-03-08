@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/04/2021
-ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: c504c3b7ed0cffe8b698b308ca66ab591e55cccf
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185280"
+ms.locfileid: "102220273"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,8 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 |**Kategorie**|**Ankündigungen für März 2021**|**Angekündigt**|
 |---------|:---------|:---------|
+|Funktionen|[Softwarelizenzschlüssel und Softwaredownload im Partner Center](2021-march.md#4)|5. März|
+|Funktionen|[Migrieren Ihrer Deals aus Partner Sales Connect (PSC) in Partner Center](2021-march.md#3)|5. März|
 |Funktionen|[Neue Microsoft Dynamics 365-Produkte und -Angebote ab 1. April 2021](2021-march.md#2)|4\. März|
 |Funktionen|[Microsoft-Lösung für universelles Drucken jetzt in einigen Suites verfügbar](2021-march.md#1)|3\. März|
 |**Kategorie**|**Ankündigungen für Februar 2021**|**Angekündigt**|

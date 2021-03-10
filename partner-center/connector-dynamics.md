@@ -8,12 +8,12 @@ description: Synchronisieren Sie Verweise in Partner Center mit Ihrem Co-Selling
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
+ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756803"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102532043"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Co-Selling-Connector für Dynamics 365 CRM – Übersicht
 
@@ -31,7 +31,7 @@ Die Lösung basiert auf der Microsoft Power automatisieren-Lösung und verwendet
 |**Themen**   |**Details**   |**Links**   |
 |--------------|--------------------|------|
 |Microsoft Partner Network-ID |Sie benötigen eine gültige MPN-ID.|So fügen Sie [MPN](https://partner.microsoft.com/) an|
-|Co-Sell Ready|Ihre IP-/Dienst-Lösung muss für den Co-Selling bereit sein.|[Vertrieb mit Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|Co-Sell Ready (Für Co-Selling bereit)|Ihre IP-/Dienst-Lösung muss für den Co-Selling bereit sein.|[Vertrieb mit Microsoft](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |Partner Center-Konto|Die MPN-ID, die dem Partner Center-Mandanten zugeordnet ist, muss mit der MPN-ID identisch sein, die ihrer Co-Selling-Lösung zugeordnet ist. Vergewissern Sie sich, dass Sie Ihre Co-Selling-Verweise im Partner Center-Portal sehen können, bevor Sie die Connectors bereitstellen.|[Verwalten Ihres Kontos](create-user-accounts-and-set-permissions.md)|
 |Partner Center-Benutzerrollen|Der Mitarbeiter, der die Connectors installieren und verwenden soll, muss ein Administrator sein.|[Zuweisen von Rollen und Berechtigungen zu Benutzern](create-user-accounts-and-set-permissions.md)| 
 |Dynamics 365 CRM|Die CRM-Benutzerrolle ist Systemadministrator oder SystemCustomizer.|[Zuweisen von Rollen in Dynamics 365](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
@@ -104,7 +104,7 @@ Stellen Sie sicher, dass Sie die Lösung in einer-Staging-Instanz von CRM testen
      
       7. Nachdem Sie alle Verbindungen hinzugefügt haben, sollten in Ihrer Umgebung die folgenden Verbindungen angezeigt werden:
 
-:::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Verbindungen":::
+         :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Verbindungen":::
    
 ## <a name="edit-the-connections"></a>Verbindungen bearbeiten
 
@@ -141,7 +141,7 @@ Die Partner Center-webhook-APIs ermöglichen es Ihnen, sich für Ressourcen Änd
 
 3. Wählen Sie das **Kopier** Symbol aus, um die bereitgestellte HTTP Post-URL zu kopieren.
 
- :::image type="content" source="images/webhook-video.gif" alt-text="Verwenden von webhooks zum Registrieren von Ressourcen Änderungen":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="Verwenden von webhooks zum Registrieren von Ressourcen Änderungen":::
 
 4. Wählen Sie die Option "Partner Center-webhook-Registrierung (Insider Vorschau)", und wählen Sie dann **Ausführen** aus.
 
@@ -205,7 +205,7 @@ So aktualisieren Sie einen Umgebungsvariablen Wert:
 
 3. Aktualisieren Sie den **aktuellen Wert** (Standardwert nicht aktualisieren) mithilfe der Option " **neuer Wert** ", und geben Sie den Wert an. Der Wert muss mit dem Datentyp der Variablen identisch sein, z. b. wenn der Datentyp Yes/No entweder yes oder No Value annimmt.
 
-:::image type="content" source="images/environment-variables-video.gif" alt-text="Aktualisieren von Umgebungsvariablen":::
+ :::image type="content" source="images/environment-variables-video.gif" alt-text="Aktualisieren von Umgebungsvariablen":::
 
 - End-to-End-bidirektionale Co-Selling-Synchronisierung
 

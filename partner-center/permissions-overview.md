@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: 80aeb62ba875d4ecd7c11063663f7c2d29912bdf
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 964c0e6be3003c2b3c9da8828d6e896e2fff82f9
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492703"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756461"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Zuweisen von Rollen und Berechtigungen zu Benutzern im Unternehmen, die im Partner Center arbeiten müssen
 
@@ -128,9 +128,6 @@ Diese Rollen sind keine Azure Active Directory-Rollen. Mit diesen Rollen werden 
 ||* Anzeigen erstellter Partnersupporttickets
 
 ## <a name="manage-referrals"></a>Verwalten von Empfehlungen
-
-> [!Note]
->Die neue Benutzerrolle für Empfehlungen ist ab dem 18. November 2020 verfügbar. Vorhandene Empfehlungsadministratoren behalten ihre Administratorrolle für Empfehlungen für das gesamte Unternehmen bei.
 
 |**Rolle** | **Funktionsumfang**|**Weitere Informationen**
 |------------------------------|:-------------------------|---|

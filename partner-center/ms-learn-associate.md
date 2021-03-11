@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9feeb3e40b2113e787dc80baa5ff1f807dc8df04
-ms.sourcegitcommit: 80b703dc10892b5c2140785dd2fc22bbffd887c1
+ms.openlocfilehash: 9828c791cf1b1ee99eb8a23ec84869472a2c8114
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "99224297"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756580"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Verknüpfen oder Aufheben der Verknüpfung einer Microsoft-Zertifizierungsprofil-ID (MCID) mit einem MPN-Konto (Microsoft Partner Network)
 
@@ -82,6 +82,6 @@ Bei Fragen im Zusammenhang mit dem Zusammenführungsprozess für das Microsoft-Z
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Benutzerrollen und -berechtigungen](https://docs.microsoft.com/partner-center/permissions-overview)
+- [Benutzerrollen und -berechtigungen](./permissions-overview.md)
 - [Kompetenzen](https://partner.microsoft.com/membership/competencies)
 - [Der Microsoft Learn-Analysebericht enthält den Status der Lernenden in Ihrem Unternehmen](ms-learn-analytics.md)

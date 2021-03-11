@@ -1,7 +1,7 @@
 ---
 title: Übersicht über die Co-op-und Anspruchs Übersicht
 ms.topic: article
-ms.date: 10/29/2020
+ms.date: 03/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Erfahren Sie, wie Sie einen erfolgreichen Co-op-Anspruch für ihre Anreize übermitteln, indem Sie die richtige Dokumentation, Rechnungen, Anweisungen und den Ausführungs Nachweis organisieren.
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 99098b49ded4808edfd4ee895565d1563c52675a
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354507"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022705"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>Kooperative Marketing Gelder verdienen
 
@@ -54,10 +54,10 @@ In der folgenden Tabelle sind die unterschiedlichen Zeiträume für die Inanspru
 
 |  Wenn Ihr erverdienst/Ihr Zuordnungs Zeitraum  |Ihr Geschäfts Halbjahr ist  |  Der Verwendungs Zeitraum beträgt  |  Ihre Anspruch Frist ist  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**Juli, 2020**| FY20 H1  |  Jan-Juni 2021  |  16. Feb. Aug 15 2021  |
-|**Jan-Juni 2021** |  FY20 H2  |  Juli, 2021  |  Aug 16 2021-Feb 15 2022  |
-|**Juli, 2021**|  FY21 H1  |  Jan-Juni 2022  |  16. Feb. Aug 15 2022  |
-|**Jan-Juni 2022** |  FY21 H2  |  Juli, 2022  |  Aug 16 2022-Feb 15 2023  |
+|**Juli, 2020**| FY21 H1  |  Jan-Juni 2021  |  16. Feb. Aug 15 2021  |
+|**Jan-Juni 2021** |  FY21 H2  |  Juli, 2021  |  Aug 16 2021-Feb 15 2022  |
+|**Juli, 2021**|  FY22 H1  |  Jan-Juni 2022  |  16. Feb. Aug 15 2022  |
+|**Jan-Juni 2022** |  FY22 H2  |  Juli, 2022  |  Aug 16 2022-Feb 15 2023  |
 
 >[!NOTE]
 >Microsoft behält sich das Recht vor, die Original Prüfung der Ausführungs Prüfung (PoE) anzufordern. Sie sollten alle Ihre ursprünglichen Dokumente 24 Monate nach dem Aktivitäts Datum aufbewahren.

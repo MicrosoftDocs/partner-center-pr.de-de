@@ -1,7 +1,7 @@
 ---
 title: Abrufen von Empfehlungsdaten
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Überprüfen Sie Ihre Erkenntnisse zu Empfehlungen regelmäßig im Partner Center, um zu berücksichtigende Trends und Bereiche für Optimierungen zu identifizieren, damit Sie Ihre Unternehmensziele erreichen.
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3496e57e9a9947d725a64d70b317779182f77583
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422382"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756486"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>In Partner Center erhalten Sie Erkenntnisse zu Empfehlungen und Informationen zur Entwicklung Ihrer Empfehlungen.
 
@@ -117,7 +117,7 @@ Es kann mehrere Gründe geben, warum beim Zugreifen auf die Co-Selling-Analyse e
 :::image type="content" source="images/referrals/nodata.png" alt-text="Abbildung einer Visualisierung ohne Daten für Empfehlungen":::
 
 > [!NOTE]
-> Auf der Seite **Erkenntnisse zu Empfehlungen** werden nur Daten für Empfehlungen angezeigt, die im Partner Center generiert wurden. Es werden keine Daten für Empfehlungen angezeigt, die durch [Partner Sales Connect](https://support.microsoft.com/help/3170447/learn-to-use-partner-center-sales-connect) oder andere Mechanismen generiert wurden.
+> Auf der Seite **Erkenntnisse zu Empfehlungen** werden nur Daten für Empfehlungen angezeigt, die im Partner Center generiert wurden. Es werden keine Daten für Empfehlungen angezeigt, die durch [Partner Sales Connect](psc-to-pc.md) oder andere Mechanismen generiert wurden.
 
 > [!TIP]
 > Um die Leistung Ihres Geschäftsprofils auf der [Lösungsanbieter suchen](https://www.microsoft.com/solution-providers/home)-Oberfläche darzustellen, arbeiten Sie die Seite [Erkenntnisse zu Geschäftsprofilen](analyze-your-marketing-profile.md) durch.

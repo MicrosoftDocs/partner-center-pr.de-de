@@ -7,19 +7,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d3941d09d6ec808f3d188521c4f0c51c9a6d0222
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 5a1a2707b12e4bdb7452711019aa8ae43d4b6b1a
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755766"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022756"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Grundlegendes zu nutzungsbasierten Abstimmungs Dateien und ihren spezifischen Feldern im Partner Center
-
-Gilt für:
-
-- Partner Center
-- Partner Center für Microsoft Cloud for US Government
 
 **Geeignete Rollen**
 
@@ -32,7 +27,7 @@ Wenn Sie Ihre Kosten mit der Nutzung eines Kunden abstimmen möchten, vergleiche
 
 Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den Raten.
 
-| Column | BESCHREIBUNG | Beispiel Wert (e) |
+| Column | Beschreibung | Beispiel Wert (e) |
 | ------ | ----------- | ------------ |
 | PartnerId | Die Partner-ID im GUID-Format. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | Name des Partners | *"Configuration Manager", Ltd.* |

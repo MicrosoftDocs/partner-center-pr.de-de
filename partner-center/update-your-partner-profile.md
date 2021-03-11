@@ -6,17 +6,17 @@ description: Erfahren Sie, wie Sie Ihre Unternehmensdetails überprüfen, z. B.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/03/2021
+ms.date: 03/10/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.openlocfilehash: 5ade6d7c587561cc1af4a7645d1e4b0cce9a505e
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220261"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770242"
 ---
-# <a name="verify-your-company-profile-information-in-partner-center"></a>Überprüfen von Unternehmensprofilinformationen im Partner Center
+# <a name="verify-or-update-your-company-profile-information"></a>Überprüfen oder Aktualisieren Ihrer Unternehmensprofilinformationen 
 
 **Geeignete Rollen**
 
@@ -26,7 +26,6 @@ ms.locfileid: "102220261"
 Wenn Sie sich zum ersten Mal bei Partner Center als globaler Administrator anmelden, sollten Sie bestätigen, dass alle Unternehmensdetails richtig sind. Hierzu gehören der primäre Kontakt, der rechtliche Geschäftsname und die Adresse sowie Programminformationen. Wenn Ihr Unternehmen mehr als einen Standort hat, überprüfen Sie Ihre Standortdaten auf Richtigkeit. Als globaler Administrator, Abrechnungsadministrator oder Administrator-Agent können Sie auch Ihre Abrechnungs- und Steuerinformationen einsehen und aktualisieren.
 
 Ihr Partnerprofil besteht aus Ihren juristischen Geschäftsinformationen, dem Namen und der E-Mail-Adresse des Hauptansprechpartners, den Programmen, an denen Ihr Unternehmen beteiligt ist, und gegebenenfalls Ihren anderen Unternehmen, die jetzt unter Ihrem Rechtsgeschäft zusammengefasst werden. Vergewissern Sie sich, dass der Name und die Adresse des Unternehmens in Ihrem Rechtsgeschäftsprofil keine Rechtschreibfehler und Abkürzungen enthalten und den formalen Geschäftsregistrierungsdatensätzen Ihres Unternehmens exakt entsprechen. Wenn Sie als Einzelunternehmer tätig sind, müssen Sie den Namen Ihres Unternehmens als rechtlichen Namen verwenden.
-
 
 
 ## <a name="locate-the-legal-business-profile"></a>Suchen des Rechtsgeschäftsprofils
@@ -39,22 +38,37 @@ Ihr Partnerprofil besteht aus Ihren juristischen Geschäftsinformationen, dem Na
 
 Wenn Sie Ihre anderen Unternehmen unter Ihrem Rechtsgeschäft zusammengeführt haben, können Sie diese Informationen ebenfalls überprüfen. 
 
-## <a name="update-your-legal-business-profile"></a>Aktualisieren des Rechtsgeschäftsprofils
+## <a name="update-your-legal-business-profile"></a>Aktualisieren des Rechtsgeschäftsprofils 
 
-Aktualisieren Sie Ihre juristische Adresse im Partner Center.
+Aktualisieren des juristischen Firmennamens oder der juristischen Adresse in Partner Center
 
 >[!Important]
 >- Bei MPN-Konten können sowohl der globale Administrator als auch der Kontoadministrator den rechtlichen Firmennamen aktualisieren.
 >- Bei CSP Indirect Reseller-Konten kann nur der globale Administrator den rechtlichen Firmennamen aktualisieren. 
+>- Partner mit direkter Abrechnung und indirekte Anbieter können den juristischen Namen Ihres Unternehmens nicht ändern, wenn der Überprüfungsstatus des Kontos **Autorisiert** lautet. Wenn Sie den Namen ändern müssen, müssen Sie ein [Supportticket erstellen](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
 
-1. Wechseln Sie zu **Einstellungen**, und wählen Sie **Organisationsprofil** aus.
 
-2. Wählen Sie **Rechtliche Hinweise** und dann das zu verwendende Rechtsgeschäftsprofil aus.
+
+1. Wechseln Sie zu **Einstellungen** > **Kontoeinstellungen**, und wählen Sie **Organisationsprofil** aus.
+
+2. Wählen Sie **Rechtliche Hinweise** und dann das zu aktualisierende juristische Geschäftsprofil (Partner oder Handelspartner) aus.
+
+1. Klicken Sie neben Firmenname/Adresse auf **Aktualisieren**, und ändern Sie die Details.
  
-1. Wenn Sie **Senden** auswählen, wird Ihre juristische Identität neu bewertet, und Sie erhalten eine weitere E-Mail, die Sie akzeptieren müssen.
+1. Wenn Sie **Senden** auswählen, wird Ihre juristische Identität neu bewertet.
+
+1. Wenn die Überprüfung fehlschlägt, erfahren Sie [hier](verification-responses.md), wie Sie das Problem beheben.
 
 >[!Important]
->Als CSP-Partner (Cloud Solution Provider) können Sie das mit Ihrer juristischen Adresse verknüpfte Land nicht ändern. Das Land Ihrer juristischen Adresse ist an Ihren Mandanten und Ihre Dienste sowie an die Währung gebunden, in der Sie Geschäfte tätigen. Partner mit direkter Abrechnung und indirekte Anbieter können den rechtlichen Namen Ihres Unternehmens nicht ändern, wenn der Überprüfungsstatus „Autorisiert“ lautet. Wenn Sie den Namen ändern müssen, müssen Sie ein [Supportticket erstellen](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).
+>Wenn Sie CSP-Partner (Cloud Solution Provider) sind, können Sie das mit Ihrer juristischen Adresse verknüpfte Land ändern. Das Land Ihrer juristischen Adresse ist an Ihren Mandanten und Ihre Dienste sowie an die Währung gebunden, in der Sie Geschäfte tätigen. Informationen zur Aktualisierung des MPN-Lands finden Sie unter [Ändern des Lands für das globale Partnerkonto](manage-locations.md#change-country-of-partner-global-account).
+
+
+### <a name="who-can-update-legal-business-name-and-when"></a>Wer den juristischen Firmennamen wann aktualisieren kann
+
+|**Program**|**Benutzer, der den Firmennamen aktualisieren darf**|**Zulässiger Zeitpunkt (Status) für die Aktualisierung**|**Zulässig**|
+|---------------------|:-------------------------------|:------------|:-----------------|
+MPN|Globaler Administrator; Kontoadministrator|Autorisiert; Ausstehend; Abgelehnt| Zulässig|
+|CSP: Indirekter Wiederverkäufer|Globaler Administrator|Autorisiert; Ausstehend; Abgelehnt| Zulässig|
 
 
 ## <a name="update-your-mpn-global-business-account"></a>Aktualisieren Ihres globalen MPN-Geschäftskontos
@@ -78,7 +92,6 @@ So aktualisieren Sie die MPN-ID, die Ihrem CSP-Konto zugeordnet ist:
 ## <a name="update-your-csp-legal-billing-address"></a>Aktualisieren Ihrer juristischen Adresse auf der CSP-Abrechnung
 
 Wenn Sie der globale Administrator, Abrechnungsadministrator oder Administrator-Agent sind, können Sie die auf Ihrer Rechnung angezeigte Adresse in Ihrem **Auszahlungs- und Steuerprofil** ändern. Sie können jedoch den Unternehmensnamen auf Ihrer Rechnung aufgrund einer Einschränkung des Rechnungssystems nicht ändern.
-
 
 
 ## <a name="next-steps"></a>Nächste Schritte

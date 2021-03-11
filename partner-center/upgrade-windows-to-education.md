@@ -9,21 +9,21 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c66a0d4ed7aa798321c42de34d879dc63de6a16b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755834"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022739"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Aktualisieren einiger Bildungs Kunden von Windows 10 Home auf Windows 10 Education
 
 **Geeignete Rollen**
 
 - Administrator-Agent
-- Helpdesk-Agent
+- Abrechnungsadministrator
 
-## <a name="overview"></a>Übersicht
+## <a name="overview"></a>Overview
 
 Ab dem 1. November 2020 können CSPs, die Microsoft 365 a3-oder A5-oder Windows 10 Enterprise a3-oder A5-Abonnements erworben haben, bei ihren Bildungs Kunden bei der Aktualisierung von Windows 10 Home auf Windows 10 Education helfen, das sowohl für den Classroom als auch für das Remote lernen konzipiert ist.
 
@@ -57,8 +57,8 @@ Partner sollten eine Supportanfrage erstellen und Schlüssel aus dem Support erh
 
 - **Titel:** Upgrade von Windows 10 Home auf Windows 10 Education Product Key
 - **Beschreibung:** Anfordern von [Insert number]-Schlüsseln zum Aktivieren des Upgrades auf Windows 10 Education. (Beachten Sie, dass die Anzahl der angeforderten Schlüssel nicht größer sein darf als die Microsoft 365 a3/A5-oder Windows 10 Enterprise a3/A5-Abonnement Lizenzen.) Abonnement-ID des Kunden [fügen Sie die Abonnement-ID-GUID für das Microsoft 365 a3/A5-oder Windows 10 Enterprise a3/A5-Abonnement ein.]
-- **Kontaktnummer:** Dies wird vorab ausgefüllt. Lesen Sie, um zu bestätigen oder zu aktualisieren.
-- **E-Mail:** Dies wird vorab ausgefüllt und sollte die e-Mail sein, die Sie als Administrator des Microsoft-Portals verwenden (nur globaler Administrator oder Abrechnungs Administrator).
+- **Kontaktnummer:** Diese wird vorab ausgefüllt. Lesen Sie, um zu bestätigen oder zu aktualisieren.
+- **E-Mail:** Dies wird vorab ausgefüllt und sollte die e-Mail-Adresse sein, die Sie als Administrator des Microsoft-Portals verwenden (nur globaler Administrator oder Abrechnungs Administrator).
 - **Bevorzugte Kontaktmethode**: Wählen Sie **Telefon** aus, oder **Planen Sie einen Rückruf**.
 
 8. Wählen Sie **Kontaktaufnahme** aus. Die erwartete Wartezeit ist im Bereich erforderliche **Hilfe?** angegeben.
@@ -92,8 +92,9 @@ Bildungs Kunden sollten kostengünstige Windows 10-Schulungsgeräte über unsere
 **Gibt es einen Stichtag für den Fall, dass der Support kontaktiert und der Upgradeschlüssel erhalten werden soll?**
 Das Windows 10 Education-Upgrade basiert auf den aktiven Microsoft 365 a3/A5-oder Windows 10 Enterprise a3/A5-lizenzabonnements des Kunden. Wenn der Kunde das Abonnement nicht verlängert oder verlängert, wird auch die Berechtigung für das Upgrade beendet.
 
+## <a name="next-steps"></a>Nächste Schritte
+
 **Wo können Partner mehr über Windows 10 Education erfahren?**
-Weitere Informationen finden Sie unter den folgenden Links:
 
 - [Windows-eduction-Features](https://www.microsoft.com/education/products/windows/features)
 - [Windows Education Hub](/education/windows/)

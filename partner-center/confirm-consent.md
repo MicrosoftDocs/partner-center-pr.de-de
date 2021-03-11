@@ -8,15 +8,15 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/30/2020
-ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.date: 03/02/2021
+ms.openlocfilehash: ab2f5be77f6480b4a8b47bef0e0fd5096f7c1776
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354609"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029915"
 ---
-# <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Aktualisierte Methode zur Bestätigung der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung
 
 
 **Geeignete Rollen**
@@ -30,8 +30,6 @@ ms.locfileid: "97354609"
 > * Partner Center für Microsoft-Cloud Deutschland
 > * Partner Center für Microsoft Cloud for US Government
 
->[!NOTE]
->Ab dem 31. Januar 2020 müssen alle Kunden (vorhandene Kunden und Neukunden) die neue Microsoft-Kundenvereinbarung signieren. Weitere Informationen finden Sie unter [Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung](confirm-customer-agreement.md).
 
 Als Partner müssen Sie die Zustimmung Ihres Kunden zur Microsoft-Kundenvereinbarung einholen, bevor Sie Microsoft-Produkte und -Dienste für diesen Kunden bestellen können. Um Partner bei der Einhaltung von Complianceanforderungen zu unterstützen, bittet Microsoft die Partner, die Zustimmung durch Bereitstellung der folgenden Details zu der Person, die dem Vertrag zugestimmt hat, zu bestätigen:
 
@@ -46,6 +44,9 @@ Als Partner müssen Sie die Zustimmung Ihres Kunden zur Microsoft-Kundenvereinba
 - Datum der Zustimmung
 
 Direct-Bill-Partner und indirekte Anbieter müssen die Zustimmung des Kunden zur Microsoft-Kundenvereinbarung bestätigen, wenn sie über Partner Center oder die Partner Center-API Transaktionen ausführen. Die Bestätigung ist *obligatorisch*.
+
+>[!NOTE]
+>Ab dem 31. Januar 2020 müssen alle Kunden (vorhandene Kunden und Neukunden) die neue Microsoft-Kundenvereinbarung signieren. Weitere Informationen finden Sie unter [Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung](confirm-customer-agreement.md).
 
 Wenn für einen bestimmten Kunden keine Bestätigung bereitgestellt wird:
 

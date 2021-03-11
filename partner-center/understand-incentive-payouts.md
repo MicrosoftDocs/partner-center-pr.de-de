@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 4c4b3a9a71027f5fb02bc29566c20c214e3df371
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755854"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022807"
 ---
 # <a name="view-your-incentives-program-details"></a>Details zu den Programm Details anzeigen
 
@@ -22,11 +22,10 @@ ms.locfileid: "101755854"
 
 - Incentive-Administrator
 - Incentive-Benutzer
-- Schreib geschützter Incentive-Viewer
 - Globaler Administrator
 - MPN-Partneradministrator
 
-In diesem Artikel wird erläutert, wie Sie auf die Übersichtsseite " **meine Incentives** " zugreifen, die den Gesamtstatus Ihrer Incentive-Programme sowie den Status der einzelnen Programme an jedem Standort anzeigt. Außerdem gibt es die verschiedenen Registrierungsstatus. 
+In diesem Artikel wird die Übersichtsseite " **meine Incentives** " erläutert, die den Gesamtstatus Ihrer Incentive-Programme sowie den Status der einzelnen Programme an jedem Standort anzeigt. Außerdem gibt es die verschiedenen Registrierungsstatus.
 
 >[!NOTE]
 >Weitere Informationen zu Incentives und Incentive-Features in Partner Center finden Sie unter [Partner Investitionen und-Anreize](https://partner.microsoft.com/membership/partner-incentives) (Anmeldung erforderlich).
@@ -63,7 +62,7 @@ Wählen Sie das Auszahlungs Symbol in der oberen rechten Ecke des Bildschirms au
 
 - Transaktionsverlauf
 - Zahlungen
-- Daten exportieren
+- Exportieren von Daten
 
 :::image type="content" source="images/payouts/payout-overview.png" alt-text="Veranschaulicht das Auszahlungs Symbol in der oberen rechten Ecke des Partner Center-Portals.":::
 

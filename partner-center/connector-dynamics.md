@@ -1,19 +1,19 @@
 ---
 title: Der Co-Selling-Connector für Dynamics 365 CRM Partner Center
+description: Synchronisieren Sie Verweise in Partner Center mit Ihrem Co-Selling-Connector für Dynamics 365 CRM. Verkäufer können sich dann in Ihrem CRM-System mit Microsoft zusammen verkaufen.
 ms.topic: how-to
-ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Synchronisieren Sie Verweise in Partner Center mit Ihrem Co-Selling-Connector für Dynamics 365 CRM. Verkäufer können sich dann in Ihrem CRM-System mit Microsoft zusammen verkaufen.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
-ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
+ms.date: 03/01/2021
+ms.openlocfilehash: 1b0f8f12cf60db0dcc03aae24316e869cbf34376
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "102532043"
+ms.locfileid: "102619408"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Co-Selling-Connector für Dynamics 365 CRM – Übersicht
 
@@ -88,7 +88,7 @@ Stellen Sie sicher, dass Sie die Lösung in einer-Staging-Instanz von CRM testen
 
    - Der CRM-Administrator mit den Energie automatisierten Flows in der Lösung.
 
-      1. Wählen Sie in der linken Navigationsleiste **Verbindungen** aus, und wählen Sie die Projekt Mappe "Partner Center-Verweise" aus der Liste aus.
+      1. Wählen Sie in der linken Navigationsleiste **Verbindungen** aus, und wählen Sie die Projekt Mappe **Partner Center-Verweise** aus der Liste aus.
 
       2. Erstellen Sie eine Verbindung, indem Sie auf **Verbindung erstellen** klicken.
 
@@ -110,11 +110,11 @@ Stellen Sie sicher, dass Sie die Lösung in einer-Staging-Instanz von CRM testen
 
 1. Kehren Sie zur Seite **Lösungen** zurück, und wählen Sie **Standard** Projekt Mappe aus. Wählen Sie **Verbindungs Verweis (Vorschau)** aus, indem Sie auf **alle** klicken.
 
-:::image type="content" source="images/connection-reference-video.gif" alt-text="Bearbeiten der Verbindungen":::
+   :::image type="content" source="images/connection-reference-video.gif" alt-text="Bearbeiten der Verbindungen":::
 
 2. Bearbeiten Sie jede der Verbindungen nacheinander, indem Sie das Symbol drei Punkte auswählen. Fügen Sie die relevanten Verbindungen hinzu.
 
-:::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Aufgeführte Verbindungen"::: 
+   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Aufgeführte Verbindungen"::: 
 
 3.  Kehren Sie zur Seite Lösungen zurück, wählen Sie Partner Center-Synchronisierungs Synchronisierung für Dynamics 365 aus, und schalten Sie den Flow ein, indem Sie in der folgenden Reihenfolge auf das drei-Punkte-Symbol neben jedem Flow klicken. Wenn beim Einschalten des Flows Probleme auftreten, lesen Sie die Schritte zur [Anpassung](connector-dynamics.md#customize-synchronization-steps) und [Problem](connectors-troubleshoot.md)Behandlung. 
 
@@ -171,19 +171,19 @@ Im folgenden finden Sie die verfügbaren Anpassungen:
 
 - Wert für die Handhabung: Standardmäßig wird der Wert für den Wert aus Partner Center in CRM mit und von **estimatedvalue** synchronisiert. Wenn Sie in CRM ein anderes Feld für den zu synchronisierenden Wert haben:
 
-    a.    Aktualisieren Sie den Feldnamen für den Geschäftswert in der Dynamics 365-Umgebungsvariablen mit dem Feldnamen von CRM. Beachten Sie, dass Sie den Namen des Felds nicht seinen anzeigen Amen angeben sollten.
+  a. Aktualisieren Sie den Feldnamen für den Geschäftswert in der Dynamics 365-Umgebungsvariablen mit dem Feldnamen von CRM. Beachten Sie, dass Sie den Namen des Felds nicht seinen anzeigen Amen angeben sollten.
 
-    b.    Bearbeiten **[anpassen] erstellen oder erhalten Sie Details aus Dynamics 365 Flow**  , navigieren Sie zu **erstellen oder aktualisieren** der Gelegenheit in CRM, und aktualisieren Sie **eine neue Gelegenheit** , und **Aktualisieren Sie vorhandene** Verkaufschancen Aktionen, um den Wert von **dealvalue** dem richtigen Feld in CRM zuzuweisen. Entfernen Sie außerdem die **dealvalue-Zuweisung** aus dem Feld **geschätztes Umsatz** .
+  b. Bearbeiten **[anpassen] erstellen oder erhalten Sie Details aus Dynamics 365 Flow**  , navigieren Sie zu **erstellen oder aktualisieren** der Gelegenheit in CRM, und aktualisieren Sie **eine neue Gelegenheit** , und **Aktualisieren Sie vorhandene** Verkaufschancen Aktionen, um den Wert von **dealvalue** dem richtigen Feld in CRM zuzuweisen. Entfernen Sie außerdem die **dealvalue-Zuweisung** aus dem Feld **geschätztes Umsatz** .
 
 - Ländercode des Kundenkontos: Es ist obligatorisch, bei der Erstellung eines neuen Verweises einen Ländercode mit zwei Buchstaben (ISO 3166) bereitzustellen. Standardmäßig wird Ländercode mit dem address1_country-Feld des Kontos in CRM synchronisiert. Wenn Sie in CRM ein anderes Feld für die Synchronisierung von Ländercode haben:
 
-   a.    Für ein Feld mit zwei Buchstaben, das kein Such Land für Ländercodes ist:
+   a. Für ein Feld mit zwei Buchstaben, das kein Such Land für Ländercodes ist:
 
    - Aktualisieren Sie den Ländercode-Feldnamen für das Kundenkonto in der Dynamics 365-Umgebungsvariablen mit dem Feldnamen von CRM. Beachten Sie, dass Sie den Namen des Felds nicht seinen anzeigen Amen angeben sollten.
 
    - Bearbeiten **[anpassen] erstellen oder erhalten Sie Details aus Dynamics 365 Flow**  , und navigieren Sie zu erstellen oder in der CRM-Aktion zum Erstellen eines Kundenkontos, um dem richtigen Feld in CRM einen Länder Wert zuzuweisen. Entfernen Sie außerdem die Länder Wert Zuweisung aus dem Feld Adresse 1: Land/Region.
 
-   b.    Für ein suchbasiertes Ländercode Feld Unterkonto:
+   b. Für ein suchbasiertes Ländercode Feld Unterkonto:
 
    - Fügen Sie ein neues benutzerdefiniertes Feld in "Account" hinzu, und füllen Sie es mit zwei buchstabischem Ländercode (ISO 3166) auf der Grundlage des im Nachschlage basierten Feld ausgewählten Werts und umgekehrt.
 
@@ -205,7 +205,7 @@ So aktualisieren Sie einen Umgebungsvariablen Wert:
 
 3. Aktualisieren Sie den **aktuellen Wert** (Standardwert nicht aktualisieren) mithilfe der Option " **neuer Wert** ", und geben Sie den Wert an. Der Wert muss mit dem Datentyp der Variablen identisch sein, z. b. wenn der Datentyp Yes/No entweder yes oder No Value annimmt.
 
- :::image type="content" source="images/environment-variables-video.gif" alt-text="Aktualisieren von Umgebungsvariablen":::
+   :::image type="content" source="images/environment-variables-video.gif" alt-text="Aktualisieren von Umgebungsvariablen":::
 
 - End-to-End-bidirektionale Co-Selling-Synchronisierung
 
@@ -242,13 +242,11 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
 
   :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="{alt-text}":::
 
-
-
 - Nachdem Sie Microsoft-Lösungen hinzugefügt haben, können Sie die Details der Co-Selling-Lösung vorab auffüllen, damit ihre Verkäufer Sie nicht hinzufügen müssen. Zum Hinzufügen eines neuen Lösungs Details wechseln Sie in CRM zum Microsoft Solution Details-Objekt, und klicken Sie auf **Datensatz hinzufügen** , um einen Eintrag hinzuzufügen, oder verwenden Sie **Excel Upload** , um mehrere Einträge hinzuzufügen.
 
-:::image type="content" source="images/dynamic-1a.png" alt-text="Details zur Lösung":::
+  :::image type="content" source="images/dynamic-1a.png" alt-text="Details zur Lösung":::
 
-### <a name="scenarios"></a>SS
+### <a name="scenarios"></a>Szenarien:
 
 1. Verweis Synchronisierung, wenn der Verweis in CRM erstellt oder aktualisiert und in Partner Center synchronisiert wird:
 
@@ -265,6 +263,7 @@ Die folgenden benutzerdefinierten Felder sollten Teil des CRM-Abschnitts sein:
          :::image type="content" source="images/dynamic-3a.png" alt-text="So erhalten Sie geeignete Felder in der Kartenansicht":::
 
       - **Kundenkontakt**: um eine Co-Selling-Referenz zu erstellen, fügen Sie der Verkaufschance einen Kundenkontakt hinzu.
+
       - **Mit Partner Center synchronisieren**: Ja
 
       - Microsoft-Lösungen: zum Freigeben eines Verweises an Microsoft fügen Sie der Verkaufschance eine gültige Co-Selling-oder Microsoft-Lösung hinzu.

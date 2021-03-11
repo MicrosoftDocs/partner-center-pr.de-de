@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124821"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770271"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>Leitfaden zum Co-Selling im Partner Center (PC) für Partner, die von Partner Sales Connect (PSC) migrieren
 
@@ -81,7 +81,7 @@ So finden Sie den Konto Administrator Ihres Unternehmens:
 
    Auf der Seite werden alle Konto Administratoren mit ihren jeweiligen e-Mail-Adressen angezeigt. Senden Sie eine e-Mail an Sie, und bitten Sie Sie, die Administrator Rolle "referenrals" für Ihr Geschäftskonto zuzuweisen.
 
-  :::image type="content" source="images/pscmigration/account-admin.png" alt-text="Bild, das die Konto Administratoren auf der Seite &quot;Partner Einstellungen Benutzerverwaltung&quot; anzeigt.":::
+  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="Bild, das die Konto Administratoren auf der Seite &quot;Partner Einstellungen Benutzerverwaltung&quot; anzeigt.":::
 
 >[!Important]
 >- Wenn Ihre Rolle nur die Verwaltung von Benutzern im PSC umfasst, bitten Sie den Konto Administrator Ihres Unternehmens, Ihnen die [Konto Administrator](permissions-overview.md#manage-mpn-membership-and-your-company) Rolle im Partner Center zuzuweisen. 
@@ -95,7 +95,7 @@ Nachdem Sie Ihr Konto in Partner Center eingerichtet haben, verwenden Sie den Be
 >[!Note]
 > Die Benutzer Migration kann nur von [Konto Administratoren](permissions-overview.md#manage-mpn-membership-and-your-company) Ihres Unternehmens ausgeführt werden. Wenn Sie nicht über die Konto Administrator Rolle verfügen, finden Sie einen Konto Administrator, der beim Einrichten der Benutzerkonten mithilfe des Benutzermigrations-Assistenten behilflich sein kann.
 
-:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Das Bild zeigt den Benutzermigrations-Assistenten.":::
+:::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Das Bild zeigt den Benutzermigrations-Assistenten.":::
 
 Konto Administratoren sehen einen Link für den PSC-Benutzermigrations-Assistenten auf der Seite Co-Selling-Verkaufschancen neben dem Leitfaden für Verweise. Sie können die Benutzer Migration initiieren, indem Sie den Link auswählen. Administratoren können den Link auswählen, um die Benutzer Migration zu initiieren. Sie können diesen Schritt für die Benutzer Migration mehrmals durchführen, bis allen Benutzern im Partner Center die richtigen Rollen zugewiesen sind.
 

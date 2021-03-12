@@ -1,7 +1,7 @@
 ---
 title: Partner Beitrags Indikatoren-CBA
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 03/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über sieben Partner Beitrags Indikatoren (PCI), die Partner zeigen, wie Sie eine Silver-oder Gold Cloud-Business Applications Kompetenz erreichen können.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756550"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193646"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Verwenden von Partner Beitrags Indikatoren zum Erreichen der Cloud-Business Applications Kompetenz
 
@@ -274,11 +274,11 @@ Ein Partner verfügt über eine von zwei Optionen, um die für diese Metrik verf
 
 - **Es werden keine partiellen Punkte vergeben.** Das Wachstum oberhalb der Baseline-Momentaufnahme muss den in der folgenden Tabelle angegebenen Schwellenwerten entsprechen oder diese überschreiten. Die Tabelle zeigt eine **entwickelte** und **entwickelte** Spalte mit der funktionalen beratungsbaseline, die benötigt wird, um Punkte zu verdienen.
 
-  | Entstehen | Entwickeln | Wachstum erforderlich, um alle 15 Punkte zu verdienen *
+  | Entstehen | Entwickeln | Wachstum erforderlich, um alle 15 Punkte zu verdienen
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35 % |
   | 30–49 | 15-24 | 25 % |
-  | 50 und höher | 25 und höher | 15 % |
+  | 50 und höher | 25 und höher | Siehe Optionen unten |
 
 **Option zwei zum Abrufen von Punkten:**
 

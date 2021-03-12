@@ -1,6 +1,6 @@
 ---
 title: Ankündigungen für November 2020
-description: Ankündigungen für November 2020 zum Microsoft Partner Center, einschließlich neuer Funktionen, Promotionen, Angebote, Märkte oder Änderungen an bestehenden Angeboten.
+description: Ankündigungen für November 2020 zum Microsoft Partner Center, einschließlich neuer Funktionen, Promotions, Angebote, Märkte oder Änderungen an bestehenden Angeboten.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182544"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756404"
 ---
 # <a name="november-2020-announcements"></a>Ankündigungen für November 2020
 
@@ -668,7 +668,7 @@ Vom 1. November 2020 bis 30. April 2021 gelten für neue und verlängerte Ab
    |Einführungspromotion für Microsoft 365 Business Voice (ohne Anrufplan)|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
    |Einführungspromotion für Microsoft 365 Business Voice (ohne Anrufplan) in den USA|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
 
-Diese Promotionen gelten für folgende Kunden:
+Diese Promotions gelten für folgende Kunden:
 
 - Neue Kundenmandanten
 - Bestehende Kundenmandanten, die kein aktives oder kürzlich (innerhalb der letzten 30 Tage) gekündigtes Abonnement für eine Business Voice- oder Audiokonferenz-Lizenz im Rahmen des CSP, von Web Direct oder eines anderen kommerziellen Microsoft-Kanals aufweisen
@@ -680,8 +680,8 @@ Diese Promotionen gelten für folgende Kunden:
 
 ### <a name="next-steps"></a>Nächste Schritte
 
-- Erkunden Sie die Möglichkeiten der Promotionen für Besprechungs- und Anruflösungen, und leiten Sie diese Informationen an alle zuständigen Mitarbeiter in Ihrem Unternehmen weiter.
-- Integrieren Sie diese Promotionen in Ihre Microsoft 365-Vertriebsprozesse.
+- Erkunden Sie die Möglichkeiten der Promotions für Besprechungs- und Anruflösungen, und leiten Sie diese Informationen an alle zuständigen Mitarbeiter in Ihrem Unternehmen weiter.
+- Integrieren Sie diese Promotions in Ihre Microsoft 365-Vertriebsprozesse.
 - Verdeutlichen Sie Kunden, auf welche Weise sie profitieren, wenn sie Teams durch Business Voice erweitern. 
 
 ________________

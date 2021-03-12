@@ -1,7 +1,7 @@
 ---
 title: Verkaufen von Softwareabonnements über CSP
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Partner im CSP-Programm Partner Center verwenden können, um reservierte Azure-Instanzen und Serverabonnements für Kunden zu erwerben, zu verwalten, zu verkaufen und zu stornieren.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834855"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475193"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vertreiben von Softwareabonnements über das CSP (Cloud Solution Provider)-Programm
 
@@ -92,18 +92,25 @@ So kaufen Sie Softwareabonnements im Auftrag von Kunden:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Aktivieren und Verwalten von Softwareabonnements
 
-Nachdem Sie die Software erworben haben, muss sie von Ihren Kunden heruntergeladen werden. Führen Sie dazu die nachfolgend aufgeführten Schritte aus.
+Nach dem Erwerb müssen Sie oder Ihre Kunden die Software herunterladen (Partner über Partner Center; Kunden über das Microsoft 365 Admin Center). Führen Sie dazu die nachfolgend aufgeführten Schritte aus. Es ist wichtig, die Risiken im Zusammenhang mit dem Kopieren von Links und dem Herunterladen von Software zu kennen. Weitere Informationen finden Sie unter **Verwenden von Partner Center zum Abrufen von Downloads und Lizenzschlüsseln für Kundensoftware** im [Leitfaden zum neuen E-Commerce-Verfahren in Partner Center](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf).
 
 >[!NOTE]
->Sie müssen ein Administrator-Agent sein, um den Link zu Schlüsseln und Downloads abrufen zu können.
+>Sie müssen ein Administrator-Agent in Partner Center sein, um den Link zu Schlüsseln und Downloads abrufen zu können.
 
 1. Wechseln Sie zur Detailseite des Kunden, und wählen Sie dann **Software** aus. Sie sehen eine Liste der gesamten Software, die Sie im Auftrag des Kunden erworben haben.
-2. Kopieren Sie den „Deep-Link“ aus **Link zu Software-Product Keys und Downloads**, und leiten Sie ihn an Ihren Kunden weiter. Wenn der Kunde auf diesen Link klickt, wird er zum Microsoft Admin Center weitergeleitet, wo er die Software herunterladen und seine Product Keys abrufen kann.
+
+2. Wählen Sie die **Version**, **Sprache** und **Bits** des Produkts und dann **Schlüssel und Downloads abrufen** aus. 
+
+3. Wählen Sie **Schlüssel abrufen** aus. Dadurch wird der 32-stellige Product Key in einem Popup-Dialogfeld angezeigt, das Sie kopieren und an den Kunden senden können. 
+
+4. Wählen Sie **Download** aus, um die Bits herunterzuladen. 
+
+5. Wählen Sie **Link kopieren** aus, wenn Sie den Link zum Bits-Download an den Kunden senden möchten. 
+
+6. Sie können auch auf **Abbrechen** für die Softwarebestellung klicken, und erhalten eine Gutschrift über 100 % (falls dies innerhalb der Kündigungsfrist von 60 Tagen geschieht).
 
 >[!NOTE]
->Die Product Keys und Downloadinformationen im Microsoft Admin Center werden nur Kunden angezeigt. Für Partner sind diese Informationen nicht sichtbar.
-
-Wenn Sie oder Ihre Kunden mehr über das Herunterladen von Lizenzschlüsseln erfahren möchten, finden Sie weitere Informationen unter [Herunterladen von Software und Produktlizenzschlüsseln](https://go.microsoft.com/fwlink/p/?linkid=2152525).
+>Nur Kunden haben Zugriff auf die Anzeige der Product Keys und Downloadinformationen im Microsoft 365 Admin Center (globale Administratorrolle erforderlich). Partner müssen diese Informationen in Partner Center anzeigen.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Downloads und Lizenzschlüssel für Serverabonnements, die Kunden über das Microsoft 365 Admin Center zur Verfügung stehen 
 

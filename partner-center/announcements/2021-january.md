@@ -1,6 +1,6 @@
 ---
 title: Ankündigungen für Januar 2021
-description: Ankündigungen für Januar 2021 zum Microsoft Partner Center, einschließlich neuer Funktionen, Promotionen, Angebote, Märkte oder Änderungen an bestehenden Angeboten.
+description: Ankündigungen für Januar 2021 zum Microsoft Partner Center, einschließlich neuer Funktionen, Promotions, Angebote, Märkte oder Änderungen an bestehenden Angeboten.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 03/08/2021
+ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541015"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102514118"
 ---
 # <a name="january-2021-announcements"></a>Ankündigungen für Januar 2021
 
@@ -86,7 +86,7 @@ Bei Fragen im Zusammenhang mit dieser Benachrichtigung wenden Sie sich an den [P
 - 7. Januar 2021: Hinzufügung eines zusätzlichen Szenarios für Phase 1 und Phase 2
 - 28. Januar 2021: 
     -    Ankündigung des Beginns von Phase 1 
-    -    Verdeutlichung, dass das Vereinigte Königreich zwar nicht zur EU/EFTA gehört, aber Teil der [europäischen Region und des europäischen Markts von Microsoft](https://docs.microsoft.com/partner-center/regional-authorization-overview) und daher davon betroffen ist
+    -    Verdeutlichung, dass das Vereinigte Königreich zwar nicht zur EU/EFTA gehört, aber Teil der [europäischen Region und des europäischen Markts von Microsoft](../regional-authorization-overview.md) und daher davon betroffen ist
 
 
 ________________
@@ -170,13 +170,13 @@ Alle indirekten Wiederverkäufer und indirekten Anbieter, die Transaktionen im R
 
 ### <a name="details"></a>Details
 
-Die Implementierung der Microsoft Partner-Vereinbarung (MPA) wird derzeit durchgeführt. Zur weiteren Unterstützung von Anbietern und Wiederverkäufern haben wir das Feedback ausgewertet und nun häufige Fragen zum Akzeptieren der MPA auf einer neuen [Seite mit häufig gestellten Fragen](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) zusammengefasst.
+Die Implementierung der Microsoft Partner-Vereinbarung (MPA) wird derzeit durchgeführt. Zur weiteren Unterstützung von Anbietern und Wiederverkäufern haben wir das Feedback ausgewertet und nun häufige Fragen zum Akzeptieren der MPA auf einer neuen [Seite mit häufig gestellten Fragen](../mpa-indirect-provider-faq.md) zusammengefasst.
 
 ### <a name="next-steps"></a>Nächste Schritte
 
-**Indirekte Wiederverkäufer:** Wenn Sie die MPA nicht akzeptiert haben, sehen Sie sich die [häufig gestellten Fragen zur MPA](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) an, und folgen Sie [dieser schrittweisen Anleitung](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) zum Akzeptieren der MPA.
+**Indirekte Wiederverkäufer:** Wenn Sie die MPA nicht akzeptiert haben, sehen Sie sich die [häufig gestellten Fragen zur MPA](../mpa-indirect-provider-faq.md) an, und folgen Sie [dieser schrittweisen Anleitung](../microsoft-partner-agreement.md) zum Akzeptieren der MPA.
 
-**Indirekte Anbieter:** Nehmen Sie Kontakt mit Ihren indirekten Wiederverkäufern auf, und unterstützen Sie sie mithilfe der [häufig gestellten Fragen zur MPA](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) und [dieser schrittweisen Anleitung](https://docs.microsoft.com/partner-center/microsoft-partner-agreement).
+**Indirekte Anbieter:** Nehmen Sie Kontakt mit Ihren indirekten Wiederverkäufern auf, und unterstützen Sie sie mithilfe der [häufig gestellten Fragen zur MPA](../mpa-indirect-provider-faq.md) und [dieser schrittweisen Anleitung](../microsoft-partner-agreement.md).
 
 ### <a name="questions"></a>Haben Sie Fragen?
 
@@ -207,8 +207,8 @@ Die neuen Vorgangstypen lauten wie folgt:
 ### <a name="next-steps"></a>Nächste Schritte
 
 - Nutzen Sie die neuen Vorgangstypen, um die Ereignisse zu verfolgen, wenn der DAP vom Kunden genehmigt und vom Kunden beendet wurde.  
-- [Abrufen einer Aufzeichnung der Partner Center-Aktivität –Partner Center-App-Entwickler | Microsoft-Dokumentation](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
-- [Überwachungsressourcen – Partner Center-App-Entwickler | Microsoft-Dokumentation](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+- [Abrufen einer Aufzeichnung der Partner Center-Aktivität –Partner Center-App-Entwickler | Microsoft-Dokumentation](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Überwachungsressourcen – Partner Center-App-Entwickler | Microsoft-Dokumentation](/partner-center/develop/auditing-resources)
 
 ### <a name="questions"></a>Haben Sie Fragen?
 
@@ -287,9 +287,9 @@ Partnern wird dringend empfohlen, sich mit den folgenden Ressourcen vertraut zu 
 #### <a name="partner-earned-credit-pec"></a>Vom Partner erworbenes Guthaben (PEC)
 
 - [Grundlegende Informationen zu vom Partner erworbenen Guthaben (Leitfaden) (microsoft.com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
-- [Vom Partner erworbenes Guthaben – Übersicht – Partner Center | Microsoft-Dokumentation](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
-- [Vom Partner erworbenes Guthaben für verwaltete Dienste – Partner Center | Microsoft-Dokumentation](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
-- [Rollen und Berechtigungen für vom Partner erworbenes Guthaben – Partner Center | Microsoft-Dokumentation](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [Vom Partner erworbenes Guthaben – Übersicht – Partner Center | Microsoft-Dokumentation](../partner-earned-credit.md?branch=main)
+- [Vom Partner erworbenes Guthaben für verwaltete Dienste – Partner Center | Microsoft-Dokumentation](../partner-earned-credit-explanation.md?branch=main)
+- [Rollen und Berechtigungen für vom Partner erworbenes Guthaben – Partner Center | Microsoft-Dokumentation](../azure-roles-perms-pec.md)
 - [On-Demand-Schulungsmodul für vom Partner erworbenes Guthaben in Azure in CSP-Modulen (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
 
 #### <a name="the-new-commerce-experience"></a>Neues E-Commerce-Verfahren
@@ -314,6 +314,9 @@ Alle CSP-Partner
 
 ### <a name="details"></a>Details
 
+>[!NOTE]
+>Aufgrund von Partnerfeedback werden die Partner Center-Funktionen zum Abrufen von Software und Lizenzschlüsseln für Bestellungen von unbefristeter Software und Serverabonnementsoftware reaktiviert. Sie werden im vorherigen Zustand vor dem Entfernen am 19. Januar 2021 wiederhergestellt. Weitere Informationen finden Sie in den [Ankündigungen für März 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+
 Wie heute [angekündigt](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/), freuen wir uns, Ihnen mitteilen zu können, dass kommerzielle, unbefristete Softwarelizenzen nun allen CSP-Partnern allgemein zum Verkauf zur Verfügung stehen. Die CSP-Preisliste für unbefristete Software im Partner Center wurde neu veröffentlicht und enthält jetzt weitere Produkte und geografische Regionen.
 
 Beachten Sie auch, dass ab heute die Partner Center-Funktionen für Software und Lizenzschlüssel eingestellt werden und dass Partner die Kunden zukünftig auf das Microsoft 365 Admin Center für diesen Zweck verweisen sollten. Weitere Informationen und die nächsten Schritte sind unten angegeben.
@@ -321,12 +324,18 @@ Beachten Sie auch, dass ab heute die Partner Center-Funktionen für Software und
 ### <a name="next-steps"></a>Nächste Schritte
 
 - Laden Sie die **CSP-Preisliste für unbefristete Software** im Abschnitt **Software** auf der Partner Center-Seite [Preise und Angebote](https://partnercenter.microsoft.com/pcv/sales) herunter. Eine Auflistung der neu hinzugefügten Produkte und geografischen Regionen finden Sie [hier](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).
-- Lesen Sie die [Anleitung zum Herunterladen von unbefristeter Software und Lizenzschlüsseln im Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/p/?linkid=2152525), und geben Sie diese Informationen an Ihre Kunden weiter, wenn sie zum Herunterladen ihrer Software und Lizenzschlüssel bereit sind.
+- Lesen Sie die [Anleitung zum Herunterladen von unbefristeter Software und Lizenzschlüsseln im Microsoft 365 Admin Center](/microsoft-365/admin/setup/download-software-licenses-csp), und geben Sie diese Informationen an Ihre Kunden weiter, wenn sie zum Herunterladen ihrer Software und Lizenzschlüssel bereit sind.
 - Sehen Sie sich die Readiness-Materialien für [unbefristete Software im Cloud Solution Provider-Programm](https://partner.microsoft.com/resources/collection/software-in-csp#/) an. Verwenden Sie diese [Readiness-Karte](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf), um schnell die richtigen Informationen für Ihre Rolle zu finden.
 
 ### <a name="questions"></a>Haben Sie Fragen?
 
 Bei weiteren Fragen können Sie sich an die entsprechende CSP-Yammer-Community wenden.
+
+### <a name="change-log"></a>Änderungsprotokoll:
+
+- 19. Januar 2021: Erstveröffentlichung 
+
+- 5\. März 2021: Hinweis zur Wiederherstellung der Partner Center-Funktionen für Software und Lizenzschlüssel ganz oben hinzugefügt.
 
 _____________
 ## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> Erinnerung: Einführung einer API-Drosselung für Partner, die Partner Center-APIs aufrufen 

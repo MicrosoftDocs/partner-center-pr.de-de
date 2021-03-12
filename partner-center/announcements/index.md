@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/09/2021
-ms.openlocfilehash: a524dbf8162886d88a4a9548653d32e094d8620f
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.date: 03/11/2021
+ms.openlocfilehash: 801ec42953279ca52d0f0a9631e41a811d09fd4c
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619425"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193612"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,8 +22,9 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 |**Kategorie**|**Ankündigungen für März 2021**|**Angekündigt**|
 |---------|:---------|:---------|
+|Funktionen|[Migrieren Ihrer Lösungen von der OCP-Markteinführung (One Commercial Partner GTM) zum kommerziellen Microsoft-Marketplace](2021-march.md#6)|12. März|
 |Funktionen|[Ausweitung des neuen E-Commerce-Verfahrens im CSP-Programm (Cloud Solution Provider) für Azure auf Russland](2021-march.md#5)|10. März|
-|Funktionen|[Softwarelizenzschlüssel und Softwaredownload im Partner Center](2021-march.md#4)|5. März|
+|Funktionen|[Softwarelizenzschlüssel und Softwaredownload in Partner Center](2021-march.md#4)|5. März|
 |Funktionen|[Migrieren Ihrer Deals aus Partner Sales Connect (PSC) in Partner Center](2021-march.md#3)|5. März|
 |Funktionen|[Neue Microsoft Dynamics 365-Produkte und -Angebote ab 1. April 2021](2021-march.md#2)|4\. März|
 |Funktionen|[Microsoft-Lösung für universelles Drucken jetzt in einigen Suites verfügbar](2021-march.md#1)|3\. März|

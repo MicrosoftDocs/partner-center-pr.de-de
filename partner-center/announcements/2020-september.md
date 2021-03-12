@@ -1,6 +1,6 @@
 ---
 title: Ankündigungen für September 2020
-description: 'Ankündigungen für September 2020 zum Microsoft Partner Center: neue Funktionen, Promotionen, Angebote, Märkte oder Änderungen an bestehenden Angeboten.'
+description: 'Ankündigungen für September 2020 zum Microsoft Partner Center: neue Funktionen, Promotions, Angebote, Märkte oder Änderungen an bestehenden Angeboten.'
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/30/2020
-ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705010"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102514084"
 ---
 # <a name="september-2020-announcements"></a>Ankündigungen für September 2020
 
@@ -23,7 +23,7 @@ Auf dieser Seite finden Sie Informationen zu den Ankündigungen vom September 2
 Ankündigungen für 2020: [Februar](2020-february.md) | [März](2020-march.md) | [April](2020-april.md) | [Mai](2020-may.md) | [Juni](2020-june.md) | [Juli](2020-july.md) | [August](2020-august.md) | September
 
 ________________
-## <a name="partner-center-software-license-key-and-download-fulfillment-notice"></a><a name="17"></a>Hinweis zu Softwarelizenzschlüsseln und Softwaredownload im Partner Center
+## <a name="partner-center-software-license-key-and-download-fulfillment-notice"></a><a name="17"></a>Hinweis zu Softwarelizenzschlüsseln und Softwaredownload in Partner Center
 
 ### <a name="categories"></a>Kategorien
 
@@ -35,6 +35,9 @@ ________________
 Alle CSP-Partner (Cloud Solution Partner), die Transaktionen für Softwareangebote durchführen
 
 ### <a name="details"></a>Details
+
+>[!NOTE]
+>Aufgrund von Partnerfeedback werden die Partner Center-Funktionen zum Abrufen von Software und Lizenzschlüsseln für Bestellungen von unbefristeter Software und Serverabonnementsoftware reaktiviert. Sie werden im vorherigen Zustand vor dem Entfernen am 19. Januar 2021 wiederhergestellt. Weitere Informationen finden Sie in den [Ankündigungen für März 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
 
 Derzeit können Partner entweder Partner Center oder das Microsoft 365 Admin Center für den Download von Software und Lizenzschlüssel für CSP-Softwarebestellungen verwenden. Ab dem **19. Januar 2021** werden die Partner Center-Funktionen für Software und Lizenzschlüssel eingestellt, und Partner weisen die Kunden darauf hin, ausschließlich das **Microsoft 365 Admin Center** für diesen Zweck zu nutzen. Die Seite für Kundensoftware im Partner Center enthält dann einen „Deep-Link“ zum Microsoft 365 Admin Center, auf den Sie die Kunden zum Abrufen der Kundenlizenzen und Softwaredownloads verweisen können. Dadurch wird die sicherste und effizienteste Methode für Kunden gewährleistet.
 
@@ -54,6 +57,12 @@ Das Microsoft 365 Admin Center verbessert die sichere Bereitstellung erworbener
 
 Bei Fragen im Zusammenhang mit dieser Benachrichtigung wenden Sie sich an den [Partner Center-Support](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
+### <a name="change-log"></a>Änderungsprotokoll:
+
+- 30. September 2020: Erstveröffentlichung 
+
+- 5\. März 2021: Hinweis zur Wiederherstellung der Partner Center-Funktionen für Software und Lizenzschlüssel ganz oben hinzugefügt.
+
 ________________
 ## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>Weiterentwicklung des Cloud Solution Provider (CSP)- und Änderungen des Open License-Programms: Weg zu einer besseren Partner- und Benutzerfreundlichkeit
 
@@ -68,6 +77,9 @@ Alle Partner im CSP- und Open-Programm
 
 ### <a name="details"></a>Details
 
+>[!NOTE]
+>Aufgrund von Partnerfeedback werden die Partner Center-Funktionen zum Abrufen von Software und Lizenzschlüsseln für Bestellungen von unbefristeter Software und Serverabonnementsoftware reaktiviert. Sie werden im vorherigen Zustand vor dem Entfernen am 19. Januar 2021 wiederhergestellt. Weitere Informationen finden Sie in den [Ankündigungen für März 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+
 Das Microsoft CSP-Programm ist mit mehr als 90.000 teilnehmenden Unternehmen exponentiell gewachsen. Es ist unser primärer Partnervertriebsprozess für kleine und mittelständische Unternehmen sowie für kleinere Unternehmenskunden innerhalb der neuen Handelsplattform. Auf Grundlage dieser Dynamik haben wir heute angekündigt, dass wir die Möglichkeiten für Partner im CSP-Programm erweitern. Details finden Sie in unserem [Partnerblogbeitrag](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
 
 ### <a name="next-steps"></a>Nächste Schritte
@@ -80,6 +92,11 @@ Das Microsoft CSP-Programm ist mit mehr als 90.000 teilnehmenden Unternehmen exp
 
 Bei Fragen im Zusammenhang mit dieser Benachrichtigung wenden Sie sich an den [Partner Center-Support](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
 
+### <a name="change-log"></a>Änderungsprotokoll:
+
+- 30. September 2020: Erstveröffentlichung
+
+- 5\. März 2021: Hinweis zur Wiederherstellung der Partner Center-Funktionen für Software und Lizenzschlüssel ganz oben hinzugefügt.
 
 ________________
 ## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>Jetzt verfügbar: Neues Tool für den Abonnementübergang zwischen Partnern im Azure-Plan 

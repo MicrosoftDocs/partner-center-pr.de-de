@@ -1,17 +1,17 @@
 ---
 title: Übersicht über Microsoft AppSource
 description: Erfahren Sie mehr über den Microsoft AppSource Online Store und die Art und Weise, wie Sie und einen umfangreichen Katalog von Software und Lösungen finden.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
-ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
+ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "98759859"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412521"
 ---
 # <a name="what-is-microsoft-appsource"></a>Was is Microsoft AppSource?
 
@@ -42,7 +42,7 @@ Um SaaS-Apps über appsource zu erwerben, benötigen Sie ein Azure Active Direct
 
 Jedes Produkt, das in appsource verfügbar ist, wurde gemäß bestimmten Kriterien zertifiziert. Wir empfehlen Ihnen dennoch, jedes Produkt sorgfältig zu überprüfen, um sicherzustellen, dass es die besonderen Anforderungen Ihrer Organisation erfüllt. Informationen zu den Zertifizierungsrichtlinien, die wir für jeden Angebotstyp überprüfen, finden Sie unter [kommerzielle Marketplace-Zertifizierungsrichtlinien](/legal/marketplace/certification-policies). Microsoft 365-apps haben einen [](/microsoft-365-app-certification/docs/enterprise-app-certification-guide) zusätzlichen Zertifizierungs [-und](/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) Nachweis Prozess für Verleger.
 
-## <a name="terms-and-conditions"></a>Geschäftsbedingungen
+## <a name="terms-and-conditions"></a>Nutzungsbedingungen
 
 Der Softwarehersteller definiert den Preis, den Endbenutzer-Lizenzvertrag und die Datenschutzrichtlinien. Jedes Angebot in appsource enthält Links zum Lizenzvertrag und zur Datenschutzrichtlinie des Herausgebers. Das anzeigen und bestätigen dieser Verträge ist Teil des Kauf Flusses. Weitere Informationen finden Sie unter [rechtliche Verträge](legal-contracts.md).
 

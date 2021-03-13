@@ -1,17 +1,17 @@
 ---
 title: Erstellen und Verwalten von privaten Azure Marketplace im Azure-Portal
 description: Erfahren Sie mehr über das Erstellen und Verwalten von privaten Azure Marketplace (Vorschau) im Azure-Portal. Mit der privaten Azure Marketplace (Vorschauversion) können Administratoren steuern, welche Lösungen von Drittanbietern Ihre Benutzer verwenden können.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: 73b9137728fba93704d9b0cb2bc93a3f6498bd90
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: dbd67ee1d4e9775d37318ec6389888f03a50b6ec
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101757070"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412708"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Erstellen und Verwalten von privaten Azure Marketplace im Azure-Portal
 
@@ -337,6 +337,6 @@ Nein. Die private Azure Marketplace ermöglicht IT-Administratoren, Lösungen vo
 
 Microsoft unterstützt Linux-und Open-Source-Technologie in Azure. Unterstützte [Linux-Distributionen](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros) werden in Azure unterstützt, und der Preis ist in virtuelle Computer integriert. Da der Azure Linux-Agent bereits auf Azure Marketplace vorinstalliert ist, wird er wie ein Microsoft-Angebot behandelt. Da Microsoft-Angebote standardmäßig genehmigt werden, können unterstützte Linux-Distributionen nicht in privaten Azure Marketplace verwaltet werden und sind standardmäßig genehmigt.
 
-## <a name="contact-support"></a>Kontaktieren des Supports
+## <a name="contact-support"></a>Support kontaktieren
 
 - Azure Marketplace Unterstützung finden Sie unter [Microsoft Q&A](/answers/products/).

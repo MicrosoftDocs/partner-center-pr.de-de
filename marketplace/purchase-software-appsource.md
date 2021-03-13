@@ -1,23 +1,23 @@
 ---
 title: Erwerben von Saas-angeboten auf Microsoft AppSource
 description: Erfahren Sie, wie Sie SaaS-Apps (Software-as-a-Service) von Microsoft-Partnern auf Microsoft AppSource erwerben.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 2d5e406e159d0d919dbf8b3542e636376cffacf6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 0a0bd1dff70ed18ed8f4fc45b78d8b935f24adaf
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007217"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412691"
 ---
 # <a name="how-to-purchase-saas-apps-on-microsoft-appsource"></a>Erwerben von Saas-apps auf Microsoft AppSource
 
 [Microsoft AppSource](https://appsource.microsoft.com/) enthält Tausende von Geschäftsanwendungen, einschließlich Saas-Apps (Software-as-a-Service) und Add-ons für Dynamics 365, Microsoft 365, Power BI und powerapps. Appsource umfasst kostenlose apps, Testversionen und kostenpflichtige Abonnements, und Sie können die Gebühren, Upgrades, Downgrades und Stornierungen über das [Microsoft 365 Admin Center](/microsoft-365/admin/admin-overview/about-the-admin-center)an einem zentralen Ort verwalten. In diesem Artikel wird erläutert, wie Sie kostenpflichtige Saas-Abonnements in appsource erwerben.
 
-## <a name="requirements"></a>Anforderungen
+## <a name="requirements"></a>Requirements (Anforderungen)
 
 Um eine SaaS-APP zu erwerben, benötigen Sie Folgendes:
 
@@ -54,4 +54,4 @@ Nach dem Eingang der Bestellung kann es bis zur Bestätigung einige Sekunden dau
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Was ist Microsoft AppSource?](appsource-overview.md)
+- [Was is Microsoft AppSource?](appsource-overview.md)

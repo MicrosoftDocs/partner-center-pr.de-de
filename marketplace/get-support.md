@@ -1,17 +1,17 @@
 ---
 title: Unterstützung für Microsoft AppSource und Azure Marketplace
 description: Erfahren Sie, wie Sie Support für Microsoft AppSource und Azure Marketplace erhalten.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/18/2020
-ms.openlocfilehash: 82e3e9e599429449e0f7462deb4e3843abf75077
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: d8deccc2a48ac29f3c370e9b20d551bf2b95c1ad
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007211"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412623"
 ---
 # <a name="how-to-get-support-for-microsoft-appsource-and-azure-marketplace"></a>So erhalten Sie Support für Microsoft AppSource und Azure Marketplace
 

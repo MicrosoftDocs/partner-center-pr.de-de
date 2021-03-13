@@ -1,17 +1,17 @@
 ---
 title: Erwerben von Software und Lösungen aus Azure Marketplace
 description: Erfahren Sie mehr über Tools, die den Erwerb und die Verwaltung von Software in Azure Marketplace vereinfachen und optimieren.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: ac20b3c0603f886104499ab8de6da1d3459bbd57
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584196"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412572"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace Einkauf
 
@@ -19,7 +19,7 @@ Azure Marketplace verfügt über zahlreiche Tools und Features, die den Erwerb, 
 
 ## <a name="simplified-procurement"></a>Vereinfachte Beschaffung
 
-Der Azure Marketplace hilft Ihnen durch verschiedene Kaufoptionen dabei, den Beschaffungsprozess zu vereinfachen. Wenn Sie Produkte mit einer Kreditkarte kaufen, die Ihrem Azure-Konto zugeordnet ist, werden alle Käufe in einer einzelnen Rechnung konsolidiert und der Kreditkarte Ihrer Wahl in Rechnung gestellt. Wenn Sie ein großer Kunde sind, können Sie ihn mit einem Konzernvertrag erwerben. Bei einem EA werden alle Software Käufe automatisch in ihrer Azure-Rechnung aufgeführt. Auf Ihrer Rechnung sind dann zuerst die Gebühren für die Nutzung von Azure aufgeführt und dann die Azure Marketplace-Gebühren.
+Der Azure Marketplace hilft Ihnen durch verschiedene Kaufoptionen dabei, den Beschaffungsprozess zu vereinfachen. Wenn Sie Produkte mit einer Kreditkarte kaufen, die Ihrem Azure-Konto zugeordnet ist, werden alle Käufe in einer einzelnen Rechnung konsolidiert und der Kreditkarte Ihrer Wahl in Rechnung gestellt. Wenn Sie ein großer Kunde sind, können Sie ihn mit einem Enterprise Agreement erwerben. Bei einem EA werden alle Software Käufe automatisch in ihrer Azure-Rechnung aufgeführt. Auf Ihrer Rechnung sind dann zuerst die Gebühren für die Nutzung von Azure aufgeführt und dann die Azure Marketplace-Gebühren.
 
 Wenn Sie über Azure Marketplace erwerben, entfällt die Komplexität der Verwaltung einzelner Hersteller Beziehungen und-Rechnungen. Sie erhalten eine einzelne, konsolidierte monatliche Rechnung von Microsoft, die sowohl Ihre Azure Marketplace Käufe als auch Ihre Azure-Gebühren umfasst.
 
@@ -65,7 +65,7 @@ Im Kostenanalysetool von Azure Cost Management können Sie Ihre Azure Marketplac
 
 Der Erwerb eines Angebots über Azure Marketplace kann aus unterschiedlichen Gründen fehlschlagen. Das Verwenden der Befehlszeilenschnittstelle (Command-Line Interface, CLI) für einen Einkauf führt wahrscheinlich zu Fehlern, da Sie möglicherweise versuchen, ein Angebot zu erwerben, das in Azure Marketplace nicht verfügbar oder nicht sichtbar ist. Im folgenden finden Sie die Überprüfungen, die einen Kauf Fehler verursachen können:
 
-1. Das Abonnement gehört zu einem Konzernvertrag (EA), und der EA-Administrator ist Azure Marketplace Käufe deaktiviert.
+1. Das Abonnement gehört zu einem Enterprise Agreement (EA), und der EA-Administrator ist Azure Marketplace Käufe deaktiviert.
 1. Der EA-Administrator hat Käufe nur für kostenlose Angebote aktiviert, und das Angebot ist ein kostenpflichtiges Angebot.
 1. Das Angebot wurde im Marketplace nicht gefunden.
 1. Der unabhängige Software Hersteller (Independent Software Vendor, ISV) hat das Angebot, zumindest in Ihrer Region, nicht mehr verkauft.

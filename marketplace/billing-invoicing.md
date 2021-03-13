@@ -1,17 +1,17 @@
 ---
 title: Abrechnung und Rechnungsstellung für Azure Marketplace Kunden
 description: In diesem Artikel werden häufig gestellte Fragen zur Abrechnung und Rechnungsstellung für Azure Marketplace Kunden beschrieben.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0d03554f96acf6cd2953d3b968192ffbb23185ce
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514774"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412606"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace Abrechnung und Rechnungsstellung
 
@@ -50,7 +50,7 @@ Ihnen werden Ihre wiederkehrenden Käufe in dem Zeitraum in Rechnung gestellt, i
 
 ## <a name="invoices"></a>Invoices
 
-Sie erhalten eine e-Mail am Anfang jedes Kalendermonats, wenn Ihre Rechnung in der Azure-Portal verfügbar ist. In Ihrer Rechnung werden alle kostenlosen und kostenpflichtigen Angebote angezeigt, die Sie während des Kalendermonats gekauft und/oder genutzt haben. Wenn Sie nur über kostenlose Angebote verfügen, werden Ihnen nur $0 Zeilen Elemente angezeigt, und Sie müssen keine Zahlungs Maßnahmen ergreifen. **Konzernvertrag Kunden** erhalten eine kombinierte Rechnung mit Azure-und Azure Marketplace Gebühren (ausgenommen Kunden in Australien, Japan und Singapur). **Kunden, die direkt von Azure Marketplace kaufen** , erhalten eine Rechnung nur für Azure Marketplace Käufe. Weitere Informationen finden Sie unter [Rechnungen für "MSP-Konten](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)".
+Sie erhalten eine e-Mail am Anfang jedes Kalendermonats, wenn Ihre Rechnung in der Azure-Portal verfügbar ist. In Ihrer Rechnung werden alle kostenlosen und kostenpflichtigen Angebote angezeigt, die Sie während des Kalendermonats gekauft und/oder genutzt haben. Wenn Sie nur über kostenlose Angebote verfügen, werden Ihnen nur $0 Zeilen Elemente angezeigt, und Sie müssen keine Zahlungs Maßnahmen ergreifen. **Enterprise Agreement Kunden** erhalten eine kombinierte Rechnung mit Azure-und Azure Marketplace Gebühren (ausgenommen Kunden in Australien, Japan und Singapur). **Kunden, die direkt von Azure Marketplace kaufen** , erhalten eine Rechnung nur für Azure Marketplace Käufe. Weitere Informationen finden Sie unter [Rechnungen für "MSP-Konten](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)".
 
 Wenn Sie Ihre Rechnung erhalten, variiert Folgendes:
 

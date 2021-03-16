@@ -5,13 +5,14 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 03/12/2021
+ms.custom: contperf-fy21q3
+ms.openlocfilehash: 26de300413e9b718545489b1ab4a3aa6a0286bf3
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412521"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486865"
 ---
 # <a name="what-is-microsoft-appsource"></a>Was is Microsoft AppSource?
 
@@ -21,13 +22,25 @@ Der appsource-Katalog enthält SaaS-Anwendungen (Software-as-a-Service), Lösung
 
 ## <a name="find-what-you-need-on-appsource"></a>Suchen nach den Anforderungen, die Sie in appsource benötigen
 
-Appsource bietet einfache Such-und Filteroptionen, um Ihnen das schnelle Auffinden der gesuchten Elemente zu erleichtern. Verwenden Sie die Suchleiste am oberen Rand der Seite, um nach Lösungen nach Hersteller, Produktname oder Schlüsselwörtern zu suchen. Verwenden Sie die Filter am oberen Rand der Seite, um die Ergebnisse basierend auf der Verfügbarkeit einer kostenlosen Testversion oder Testversion, des Preismodells (kostenlos oder bezahlt) und der Bewertungen einzuschränken.
+Appsource bietet einfache Such-und Filteroptionen, die Ihnen helfen, das gesuchte schnell zu finden. Verwenden Sie die **Such** Leiste am oberen Rand der Seite, um nach Lösungen nach Hersteller, Produktname oder Schlüsselwörtern zu suchen.
 
-Im linken Bereich können Sie die Ergebnisse anhand einer Liste von Produkttypen, Kategorien und Branchen filtern. Appsource-Produkttypen basieren auf Produkten wie Microsoft 365 und powerapps. Kategorien basieren auf Geschäftsfunktionen, z. b. Zusammenarbeit und Marketing. Sie können auch aus einer Liste von Branchen, z. b. Landwirtschaft und Produktion, wählen.
+[![Zeigt die Angebotsseite von Microsoft appsource an.](media/appsource-overview/appsource-home-page.png)](media/appsource-overview/appsource-home-page.png#lightbox)
+
+Wenn Sie den [App](https://appsource.microsoft.com/marketplace/apps)-Katalog erkunden, verwenden Sie die Filter am oberen Rand der Seite, um die Ergebnisse basierend auf der Verfügbarkeit einer kostenlosen Testversion oder Testversion, des Preismodells (kostenlos oder kostenpflichtig) und der Kundenbewertungen einzuschränken.
+
+Im linken Bereich können Sie die Ergebnisse anhand einer Liste von Produkttypen, Kategorien und Branchen filtern. Appsource-Produkttypen basieren auf Produkten wie Microsoft 365, Dynamics 365 und Power Platform. Kategorien basieren auf Geschäftsfunktionen wie z. b. Vertrieb, Zusammenarbeit oder Marketing. Sie können auch eine Auswahl aus einer Liste von Branchentreffen, z. b. Finanzdienstleistungen, Gesundheitswesen und Verteilung.
+
+## <a name="microsoft-preferred-solutions"></a>Bevorzugte Microsoft-Lösungen
+
+Beim Suchen oder Filtern des Katalogs können die Ergebnisse von Microsoft bevorzugte Lösungen enthalten, die über den bevorzugten Badge der Lösungen in der unteren rechten Ecke der App-Karte oder über das Badge auf der Produktdetailseite identifiziert werden.
+
+:::image type="content" source="media/appsource-overview/preferred-solution-badge.png" alt-text="Zeigt den bevorzugten appsource-Anbieter Badge an.":::
+
+Bevorzugte Lösungen werden von einem Team von Microsoft-Experten ausgewählt und von Microsoft-Partnern mit umfassenden, bewährten Fachkenntnissen und Funktionen veröffentlicht, um bestimmte Kundenanforderungen in einer Kategorie, Industrie oder Branche zu erfüllen.
 
 ## <a name="take-action-on-a-listing"></a>Aktion für eine Auflistung ausführen
 
-Wenn Sie in den _App-Ergebnissen_ eine App auswählen, wird die Listenseite für diese APP angezeigt. Jede Auflistung in appsource unterstützt eine oder mehrere der folgenden Auflistungs Optionen:
+Wählen Sie in den *App-Ergebnissen* eine APP aus, um die Listenseite für diese APP anzuzeigen. Wählen Sie eine Liste aus, indem Sie eine oder mehrere der folgenden Aktionen auswählen:
 
 - **Jetzt erhalten**: kaufen Sie die Lösung sofort.
 - **Test** Version: erkunden Sie eine zusammengestellte Demo. Eine Testversion verwendet nicht Ihre Produktionsdaten oder-Umgebung, sondern Sie können ermitteln, ob die Lösung Ihren Geschäftsanforderungen entspricht.

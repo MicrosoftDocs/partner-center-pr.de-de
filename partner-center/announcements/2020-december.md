@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: 12c9ad9975be4be725d7b8c2fda77b0fdaa66887
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705044"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102514101"
 ---
 # <a name="december-2020-announcements"></a>Ankündigungen für Dezember 2020
 
@@ -274,6 +274,9 @@ Alle CSP-Partner
 
 ### <a name="details"></a>Details
 
+>[!NOTE]
+>Aufgrund von Partnerfeedback werden die Partner Center-Funktionen zum Abrufen von Software und Lizenzschlüsseln für Bestellungen von unbefristeter Software und Serverabonnementsoftware reaktiviert. Sie werden im vorherigen Zustand vor dem Entfernen am 19. Januar 2021 wiederhergestellt. Weitere Informationen finden Sie in den [Ankündigungen für März 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+
 Wir möchten Sie daran erinnern, dass ab dem **19. Januar 2021** alle für das CSP-Programm registrierten Partner kommerzielle, unbefristete Softwarelizenzen für die lokale Bereitstellung über CSP verkaufen können. Dadurch wird Kunden die Lizenzierungsflexibilität geboten, die sie im Rahmen ihrer digitalen Transformation benötigen.
 
 Am gleichen Tag findet auch Folgendes statt:
@@ -301,6 +304,12 @@ Sehen Sie sich die folgenden Ressourcen an, und geben Sie diese Informationen an
 ### <a name="questions"></a>Haben Sie Fragen?
 
 Bei weiteren Fragen zu diesen Angeboten können Sie sich an die entsprechende Yammer-Community wenden.
+
+### <a name="change-log"></a>Änderungsprotokoll:
+
+- 17. Dezember 2020: Erstveröffentlichung 
+
+- 5\. März 2021: Hinweis zur Wiederherstellung der Partner Center-Funktionen für Software und Lizenzschlüssel ganz oben hinzugefügt.
 
 ______________
 

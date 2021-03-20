@@ -1,25 +1,21 @@
 ---
 title: Berechtigung für Incentive-Programm
-description: Stellen Sie sicher, dass Ihr Incentives-Programm qualifiziert ist, damit Sie bezahlt werden können. Dieser Vorgang umfasst das Überprüfen der Berechtigung im Programmhandbuch.
+description: Stellen Sie sicher, dass Sie die Berechtigungsanforderungen für das Incentives-Programm erfüllt haben. Dieser Vorgang umfasst das Überprüfen der Berechtigung im Programmhandbuch.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 89d523d637a5a7641e9a9a8be255a1525ca66752
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 03/16/2021
+ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175220"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712159"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Festlegen der Berechtigung für Ihr Incentive-Programm
-
-**Gilt für**:
-
-- Partner Center
 
 **Geeignete Rollen**:
 
@@ -40,7 +36,11 @@ Sie finden die spezifischen Anforderungen zur Berechtigung für das Programm im 
 
 3. Wählen Sie das gewünschte Programm aus.
 
-4. Wählen Sie im Feld **Programmdetails** die Option **Programmleitfaden** aus.
+4. Wählen Sie im Feld **Status** die Option **Berechtigungsanforderungen** aus.
+
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="Screenshot ist ein Beispiel für die Anforderungs Anforderungen.":::
+
+5. Sie müssen alle Bereiche, die deaktiviert sind, vervollständigen, um die Berechtigung zu erfüllen. Jedes Incentive-Programm verfügt über einen eigenen Satz von Anforderungen.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

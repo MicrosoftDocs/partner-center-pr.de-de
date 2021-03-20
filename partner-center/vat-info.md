@@ -6,12 +6,14 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
-ms.openlocfilehash: 6ed9f7b9bbe33e209a2e482ab4f3035decb46245
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
+ms.openlocfilehash: c0778ac4ba4d33dc9e60e33f4d158d264a31946e
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755737"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712136"
 ---
 # <a name="value-added-tax-vat-information"></a>Mehrwert Steuerungsinformationen
 
@@ -77,7 +79,7 @@ Beachten Sie, dass Microsoft keine Steuer Ratschläge bereitstellt, und die folg
 |Slowenien |-WST-Zahlen Format: 2 Buchstaben und 8 Ziffern<br/>-Land-/Regionscode: Si<br/>-Beispiel: SI12345678<br/>-Hinweise: die ersten Zeichen sind immer "Si". |
 |Spanien |-WST-Zahlen Format: 9 Ziffern<br/>-Land-/Regionscode: es<br/>-Beispiel: X12345678, 12345678x oder X1234567X<br/>-Notes: enthält 1 oder 2 Buchstaben: entweder First, Last oder First und Last. |
 |Schweden |-Umsatzsteuer Nummern Format: 12 Ziffern<br/>-Land-/Regionscode: SE<br/>-Beispiel: 123456789001<br/>-Hinweise: die letzten 2 Zeichen müssen "01" sein. |
-|United Kingdom |-WST-Zahlen Format: 9 oder 12 Ziffern<br/>-Land-/Regionscode: GB<br/>-Beispiel: 123456789 oder 123456789001<br/>-Notes: 9 Ziffern im Allgemeinen, aber 12 Ziffern, wenn die Zahl ein Unternehmen innerhalb einer Gruppe darstellt. |
+|Vereinigtes Königreich |-WST-Zahlen Format: 9 oder 12 Ziffern<br/>-Land-/Regionscode: GB<br/>-Beispiel: 123456789 oder 123456789001<br/>-Notes: 9 Ziffern im Allgemeinen, aber 12 Ziffern, wenn die Zahl ein Unternehmen innerhalb einer Gruppe darstellt. |
 
 ## <a name="next-steps"></a>Nächste Schritte
 

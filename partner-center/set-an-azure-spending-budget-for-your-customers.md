@@ -1,7 +1,7 @@
 ---
 title: Festlegen eines Azure-Ausgabenbudgets für Kunden
 ms.topic: how-to
-ms.date: 06/03/2020
+ms.date: 03/17/2021
 description: Erfahren Sie, wie Sie ein monatliches Azure-Ausgabenbudget für Ihre Kunden einrichten oder entfernen und wie Sie Azure-Ausgaben Daten anzeigen und Budget bezogene Benachrichtigungen festlegen.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: eaf54898d7a130ca38e5a2aaeba279fb722c9e66
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96438983"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712748"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Festlegen, überprüfen oder Entfernen eines monatlichen Azure-Ausgabenbudgets für Kunden im Partner Center
 
-Gilt für:
+**Geeignete Rollen**
 
-- Partner Center
-- Partner Center für Microsoft Cloud for US Government
+- Administrator-Agent
 
 Sie können [ein monatliches Azure-Ausgabenbudget für Ihre Kunden](#set-azure-spending-budget) im Partner Center festlegen. Dadurch können Ihre Kunden ihre Azure-Ausgaben verwalten. Mit dieser Option können Sie die Azure-Ausgaben ihrer Kunden mit dem Budget innerhalb des Monats vergleichen. Außerdem hilft es Ihren Kunden, ihre Azure-Ausgaben zu berechnen, sodass Ihre monatliche Rechnung nicht höher als erwartet ist.
 
@@ -48,7 +47,7 @@ Die Ausgaben Daten werden *einmal täglich aktualisiert*. Ihre Kunden können we
 
 Sie können *ein monatliches Azure-Ausgabenbudget* für mehrere Kunden im Partner Center festlegen:
 
-1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/)an.
+1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 
 2. Wählen Sie im Menü auf der linken Seite unter **CSP** die Option **Azure-Ausgaben** aus.
 
@@ -76,7 +75,7 @@ Sie können auch *ein Budget für einen einzelnen Kunden* in seinen Abonnement E
 
 Sie können *ein monatliches Azure-Ausgabenbudget* für Ihre Kunden im Partner Center entfernen:
 
-1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/)an.
+1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 
 2. Wählen Sie im Menü auf der linken Seite unter **CSP** die Option **Azure-Ausgaben** aus.
 
@@ -88,7 +87,7 @@ Sie können *ein monatliches Azure-Ausgabenbudget* für Ihre Kunden im Partner C
 
 Sie können *die aktuellen Azure-Ausgaben und monatlichen Budgets von Kunden* jederzeit nachverfolgen:
 
-1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/)an.
+1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 
 2. Wählen Sie im Menü auf der linken Seite unter **CSP** die Option **Azure-Ausgaben** aus.
 
@@ -126,3 +125,8 @@ Sie können die *aufgelisteten Kosten (und die geschätzte Nutzung) nach Dienst 
 4. Wählen Sie auf der Seite **Abonnements** des Kunden unter **nutzungsbasierte Abonnements** den Namen des **Abonnements** aus.
 
 5. Auf der Seite des Abonnements können Sie die **aufgelisteten Kosten** nach Dienst und die **geschätzte Nutzung** des aktuellen Monats überprüfen.
+
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Neues E-Commerce-Verfahren in CSP: Azure-Abrechnung](azure-plan-billing.md)

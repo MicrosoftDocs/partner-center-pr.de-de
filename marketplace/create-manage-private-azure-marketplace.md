@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: dbd67ee1d4e9775d37318ec6389888f03a50b6ec
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 8cfe0e95d1655530c9bc9d24b1efe85e6432236b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412708"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712765"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Erstellen und Verwalten von privaten Azure Marketplace im Azure-Portal
 
@@ -21,7 +21,7 @@ Als Marketplace-Administrator (zugewiesene Rolle) beginnen Sie mit einem deaktiv
 
 > [!NOTE]
 > - Private Azure Marketplace befinden sich auf Mandanten Ebene, sodass allen Benutzern unter dem Mandanten dieselbe Liste angezeigt wird.
-> - Alle Microsoft-Lösungen (einschließlich unterstütztes [Linux-Verteilungen](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) werden automatisch privaten Azure Marketplace hinzugefügt.
+> - Alle Microsoft-Lösungen (einschließlich unterstütztes [Linux-Verteilungen](/azure/virtual-machines/linux/endorsed-distros)) werden automatisch privaten Azure Marketplace hinzugefügt.
 
 ## <a name="assign-the-marketplace-admin-role"></a>Zuweisen der Marketplace-Administrator Rolle
 
@@ -187,7 +187,7 @@ Ein Element ist eine Kombination aus einem Angebot und einem Plan. Sie können a
 4. Klicken Sie unten links auf **Done (abgeschlossen** ), nachdem Sie Ihre Auswahl getroffen haben.
 
 >[!Note]
-> Das **Hinzufügen von Elementen** zum Marketplace ist nur für Angebote verfügbar, die nicht von Microsoft unterstützt werden. Microsoft-Lösungen (einschließlich unterstützter [Linux-Verteilungen](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) werden als "standardmäßig genehmigt" gekennzeichnet und können nicht im privaten Marketplace verwaltet werden.
+> Das **Hinzufügen von Elementen** zum Marketplace ist nur für Angebote verfügbar, die nicht von Microsoft unterstützt werden. Microsoft-Lösungen (einschließlich unterstützter [Linux-Verteilungen](/azure/virtual-machines/linux/endorsed-distros)) werden als "standardmäßig genehmigt" gekennzeichnet und können nicht im privaten Marketplace verwaltet werden.
 
 ## <a name="edit-items-plans"></a>Element Pläne bearbeiten
 
@@ -249,7 +249,7 @@ So greifen Sie auf das Benachrichtigungs Center zu:
 Wenn private Azure Marketplace aktiviert ist, sehen Benutzer, welche Pläne der Marketplace-Administrator genehmigt hat.
 
 - Ein grünes **genehmigter** Hinweis gibt an, dass ein von ihnen genehmigtes Partner Angebot (nicht von Microsoft) genehmigt wird.
-- Ein blauer **genehmigter** Hinweis gibt an, dass ein Microsoft-Angebot (einschließlich unterstütztes [Linux-Verteilungen](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) genehmigt ist.
+- Ein blauer **genehmigter** Hinweis gibt an, dass ein Microsoft-Angebot (einschließlich unterstütztes [Linux-Verteilungen](/azure/virtual-machines/linux/endorsed-distros)) genehmigt ist.
 
 Benutzer können zwischen angeboten filtern, die nicht genehmigt sind und nicht genehmigt sind:
 
@@ -304,7 +304,7 @@ Es gibt derzeit zwei Möglichkeiten, Dienste von Drittanbietern im Marketplace e
 
     :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="Zeigt, wie Dienste im E-A-Portal eingeschränkt werden.":::
 
-2. Erstellen Sie eine Azure-Richtlinie, um nur bestimmte VMS zuzulassen. Ausführliche Informationen zum Erzwingen von Richtlinien für virtuelle Windows-Computer finden Sie unter [Anwenden von Richtlinien auf Windows-VMS mit Azure Resource Manager](https://docs.microsoft.com/azure/virtual-machines/windows/policy).
+2. Erstellen Sie eine Azure-Richtlinie, um nur bestimmte VMS zuzulassen. Ausführliche Informationen zum Erzwingen von Richtlinien für virtuelle Windows-Computer finden Sie unter [Anwenden von Richtlinien auf Windows-VMS mit Azure Resource Manager](/azure/virtual-machines/windows/policy).
 
 Die private Azure Marketplace ermöglicht mehr Flexibilität bei der Einschränkung und bei der Ermöglichung spezifischer Angebote und Pläne. Er informiert Endbenutzer über die Verfügbarkeit für die Bereitstellung im Marketplace-Katalog, auch wenn Sie versuchen, Drittanbieter Dienste bereitzustellen. Um die Bereitstellung von Diensten von Drittanbietern zuzulassen, legen Sie im EA-Portal und im Azure-Portal Azure Marketplace auf ein/aktivieren fest.
 
@@ -314,7 +314,7 @@ Die private Azure Marketplace ermöglicht mehr Flexibilität bei der Einschränk
 
 #### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>Worin besteht der Unterschied zwischen einem privaten Angebot und einem privaten Azure Marketplace?
 
-Ein **privates Angebot** ermöglicht Verlegern das Erstellen von Plänen, die nur für Zielkunden sichtbar sind. Dies ermöglicht es Ihnen, angepasste Lösungen privat mit ausgehandelten Preisen, privaten Geschäftsbedingungen und spezialisierten Konfigurationen gemeinsam zu nutzen. Weitere Informationen finden Sie unter [private Angebote im kommerziellen Marketplace](https://docs.microsoft.com/azure/marketplace/private-offers).
+Ein **privates Angebot** ermöglicht Verlegern das Erstellen von Plänen, die nur für Zielkunden sichtbar sind. Dies ermöglicht es Ihnen, angepasste Lösungen privat mit ausgehandelten Preisen, privaten Geschäftsbedingungen und spezialisierten Konfigurationen gemeinsam zu nutzen. Weitere Informationen finden Sie unter [private Angebote im kommerziellen Marketplace](/azure/marketplace/private-offers).
 
 Mit dem **privaten Azure Marketplace** in der Azure-Portal können Administratoren vorab genehmigen, welche Lösungen von Drittanbietern Ihre Benutzer bereitstellen können. Bei einer privaten Azure Marketplace können die Benutzer die Vorteile der Azure Marketplace nutzen, indem Sie kompatible Angebote finden, kaufen und bereitstellen. Zum Verwalten von Abonnement basierten privaten angeboten im privaten Marketplace muss der Marketplace-Administrator mindestens über die Rolle "lesen" für das jeweilige Abonnement verfügen.
 
@@ -326,17 +326,17 @@ Abonnement basierte private Angebote sind nur für die aufgeführten Abonnements
 
 #### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>Können wir benutzerdefinierte Images in private Azure Marketplace einschließen?
 
-Nein. Die private Azure Marketplace ermöglicht IT-Administratoren, Lösungen von Drittanbietern von globalen Azure Marketplace zu verwalten und zu betreiben. Da benutzerdefinierte Images sich nicht auf globalen Azure Marketplace befinden, kann der IT-Administrator die benutzerdefinierten Images nicht auswählen und auswählen. Wenn Sie benutzerdefinierte Images freigeben möchten, verwenden Sie die frei [gegebene Image Galerie](https://docs.microsoft.com/azure/virtual-machines/shared-image-galleries).
+Nein. Die private Azure Marketplace ermöglicht IT-Administratoren, Lösungen von Drittanbietern von globalen Azure Marketplace zu verwalten und zu betreiben. Da benutzerdefinierte Images sich nicht auf globalen Azure Marketplace befinden, kann der IT-Administrator die benutzerdefinierten Images nicht auswählen und auswählen. Wenn Sie benutzerdefinierte Images freigeben möchten, verwenden Sie die frei [gegebene Image Galerie](/azure/virtual-machines/shared-image-galleries).
 
-1. Schritt-für-Schritt-Anleitung Erstellen eines freigegebenen Image Katalogs (SIG) ([CLI](https://docs.microsoft.com/azure/virtual-machines/shared-images-cli), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/shared-images-powershell)).
-2. Erstellen Sie eine Image Definition innerhalb von SIG. Der Kunde sollte für das Feld "OS-State" **generalisiert** auswählen. ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
-3. Bringen Sie ein verwaltetes Image in den freigegebenen Image Katalog ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-powershell)).
-4. Die SIG-VM-Images befinden sich in einem Abonnement. Verwenden Sie eine APP-Registrierung ([CLI](https://docs.microsoft.com/azure/virtual-machines/linux/share-images-across-tenants), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/windows/share-images-across-tenants)), um Sie für andere Abonnements verfügbar zu machen.
+1. Schritt-für-Schritt-Anleitung Erstellen eines freigegebenen Image Katalogs (SIG) ([CLI](/azure/virtual-machines/shared-images-cli), [PowerShell](/azure/virtual-machines/shared-images-powershell)).
+2. Erstellen Sie eine Image Definition innerhalb von SIG. Der Kunde sollte für das Feld "OS-State" **generalisiert** auswählen. ([CLI](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShell](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
+3. Bringen Sie ein verwaltetes Image in den freigegebenen Image Katalog ([CLI](/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell)).
+4. Die SIG-VM-Images befinden sich in einem Abonnement. Verwenden Sie eine APP-Registrierung ([CLI](/azure/virtual-machines/linux/share-images-across-tenants), [PowerShell](/azure/virtual-machines/windows/share-images-across-tenants)), um Sie für andere Abonnements verfügbar zu machen.
 
 #### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>Warum werden einige Angebote **standardmäßig genehmigt** , auch wenn der Verleger nicht Microsoft ist?
 
-Microsoft unterstützt Linux-und Open-Source-Technologie in Azure. Unterstützte [Linux-Distributionen](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros) werden in Azure unterstützt, und der Preis ist in virtuelle Computer integriert. Da der Azure Linux-Agent bereits auf Azure Marketplace vorinstalliert ist, wird er wie ein Microsoft-Angebot behandelt. Da Microsoft-Angebote standardmäßig genehmigt werden, können unterstützte Linux-Distributionen nicht in privaten Azure Marketplace verwaltet werden und sind standardmäßig genehmigt.
+Microsoft unterstützt Linux-und Open-Source-Technologie in Azure. Unterstützte [Linux-Distributionen](/azure/virtual-machines/linux/endorsed-distros) werden in Azure unterstützt, und der Preis ist in virtuelle Computer integriert. Da der Azure Linux-Agent bereits auf Azure Marketplace vorinstalliert ist, wird er wie ein Microsoft-Angebot behandelt. Da Microsoft-Angebote standardmäßig genehmigt werden, können unterstützte Linux-Distributionen nicht in privaten Azure Marketplace verwaltet werden und sind standardmäßig genehmigt.
 
-## <a name="contact-support"></a>Support kontaktieren
+## <a name="contact-support"></a>Kontaktieren des Supports
 
 - Azure Marketplace Unterstützung finden Sie unter [Microsoft Q&A](/answers/products/).

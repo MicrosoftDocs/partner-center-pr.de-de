@@ -4,15 +4,17 @@ ms.topic: article
 ms.date: 06/08/2020
 description: Erfahren Sie mehr über alle Elemente in ihrer nutzungsbasierten Abstimmungs Datei im Partner Center. Enthält einige Beispiele.
 author: sodeb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a1a2707b12e4bdb7452711019aa8ae43d4b6b1a
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 403b2704c600f21fc06576e679ff538a74ae5046
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022756"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712969"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Grundlegendes zu nutzungsbasierten Abstimmungs Dateien und ihren spezifischen Feldern im Partner Center
 
@@ -27,7 +29,7 @@ Wenn Sie Ihre Kosten mit der Nutzung eines Kunden abstimmen möchten, vergleiche
 
 Die folgenden Felder enthalten Informationen zu den verwendeten Diensten und den Raten.
 
-| Column | Beschreibung | Beispiel Wert (e) |
+| Column | BESCHREIBUNG | Beispiel Wert (e) |
 | ------ | ----------- | ------------ |
 | PartnerId | Die Partner-ID im GUID-Format. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | Name des Partners | *"Configuration Manager", Ltd.* |

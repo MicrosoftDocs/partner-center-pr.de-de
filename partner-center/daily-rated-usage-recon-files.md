@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031963"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712238"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Erfahren Sie, wie Sie Nutzungs Abgleich-Dateien für die tägliche Bewertung in Partner Center lesen.
 
@@ -35,7 +35,7 @@ In diesem Artikel wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit täglic
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Felder in den Nutzungs Abgleich-Dateien mit täglicher Bewertung
 
-| Column | Beschreibung |
+| Column | BESCHREIBUNG |
 | ------ | ----------- |
 | PartnerId | Die Partner-ID im GUID-Format. |
 | PartnerName | Name des Partners |
@@ -70,7 +70,7 @@ In diesem Artikel wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit täglic
 | ResourceGroup | Stellt einen Container dar, der verwandte Ressourcen für eine Azure-Lösung enthält. |
 | ResourceURI | Der URI der verwendeten Ressource. |
 | ChargeType | Der Typ der Gebühr oder Berichtigung.  |
-| UnitPrice (Stückpreis) | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dieser Preis den im Abrechnungssystem während der Abstimmung gespeicherten Informationen entspricht. |
+| UnitPrice | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dieser Preis den im Abrechnungssystem während der Abstimmung gespeicherten Informationen entspricht. |
 | Menge | Anzahl der Lizenzen. Stellen Sie sicher, dass dieser Preis den im Abrechnungssystem während der Abstimmung gespeicherten Informationen entspricht. |
 | UnitType | Der Typ der Einheit, mit der die Verbrauchseinheit in Rechnung gestellt wird.  |
 | Billingpretaxtotal | Gesamtbetrag der Abrechnung vor Steuern.<br/> _**Billingpretaxtotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
@@ -87,7 +87,8 @@ In diesem Artikel wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit täglic
 | Berelementid | Stellt die Azure-Abonnement-ID dar. |
 | Berelementdescription | Stellt den Namen der Azure-Abonnement-ID dar. |
 | Partnerearnedcreditprozentsatz | Zeigt die partnerearnedcredit für das Zeilen Element an. Das verdiente Guthaben ist entweder 0 oder 15 Prozent. |
-
+| Creditprozentsatz | Hiermit wird die Azure-Verbrauchs Gutschrift angezeigt. Die erworbenen Gutschriften sind entweder 0 oder 100 Prozent. |
+| Credittype | Der Typ der Gutschrift. Beispielsweise wird die **Azure-Gutschrift zugewiesen.** |
 >[!NOTE]
 >Die tägliche Bewertung dauert normalerweise 24 Stunden, damit Sie im Partner Center angezeigt wird oder über API auf Sie zugegriffen werden kann.
 

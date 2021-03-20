@@ -10,18 +10,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3cf34aa52bd1d0359736dbcf6cc5ed9029f6d9e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f2f1a4ce2ed1ea4ed21de68454a123458120edfd
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756767"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712935"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>Benutzer- und Lizenzverwaltung im Partner Center für Microsoft Cloud for US Government
 
 **Zielgruppe**
 
-- Partner Center für Microsoft Cloud for US Government
+- Partner Center für Microsoft Government Cloud
 
 **Geeignete Rollen**
 
@@ -42,7 +42,7 @@ Nachdem Sie sich erfolgreich beim Azure-Portal für Microsoft Cloud for US Gover
 
 -  [**Zurücksetzen des Kennworts für einen Benutzer in Azure Active Directory**](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**Verwandte Themen**
+**Zugehörige Themen**
 
 -  [**Partner Center für Microsoft Cloud for US Government**](partner-center-for-microsoft-us-govt-cloud.md)
 

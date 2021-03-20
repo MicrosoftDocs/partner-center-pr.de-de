@@ -4,14 +4,16 @@ description: Informationen zu den Steuerformularen, die von Microsoft ausgestell
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 42c5d6f0d31e6509253fe44d5b97606fc688f177
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487872"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712816"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Kennenlernen der von Microsoft ausgestellten IRS-Steuerformulare
 
@@ -23,8 +25,8 @@ In diesem Artikel werden weitere Informationen zu diesen Formularen erläutert, 
 
 | IRS-Steuerformular | BESCHREIBUNG | Verfügbarkeit |
 |--------------|-------------|--------------|
-|1099-MISC, 1099-K | Im Zusammenhang mit Verkaufsaktivitäten und/oder Zahlungen an Sie für die Teilnahme am Microsoft Marketplace | Gedruckte Formulare werden am oder vor dem 31. **Januar** postmarkiert, und PDF-Kopien werden in [Partner Center](https://partner.microsoft.com/dashboard) (in den **Partner Center-Kontoeinstellungen** unter " **Auszahlungs-und Steuer > Auszahlungs-und Steuer profile** ") gleichzeitig bereitgestellt. |
-|1042-S | Im Zusammenhang mit Zahlungen, die für Sie durchgeführt werden und die USA der Steuerpflichtige Steuer | Gedruckte Formulare werden am oder vor dem 15. **März** postmarkiert, und PDF-Kopien werden in Partner Center (in den **Partner Center-Entwicklereinstellungen** unter **Auszahlungs-und Steuer > Auszahlungs-und Steuer profile** ) gleichzeitig verfügbar sein.  |
+|1099-MISC, 1099-K | Im Zusammenhang mit Verkaufsaktivitäten und/oder Zahlungen an Sie für die Teilnahme am Microsoft Marketplace | Gedruckte Formulare werden am oder vor dem 31. **Januar** postmarkiert, und PDF-Kopien werden in [Partner Center](https://partner.microsoft.com/dashboard) (in den **Partner Center-Kontoeinstellungen** unter " **Auszahlungs-und Steuer > Auszahlungs-und Steuer profile**") gleichzeitig bereitgestellt. |
+|1042-S | Im Zusammenhang mit Zahlungen, die für Sie durchgeführt werden und die USA der Steuerpflichtige Steuer | Gedruckte Formulare werden am oder vor dem 15. **März** postmarkiert, und PDF-Kopien werden in Partner Center (in den **Partner Center-Entwicklereinstellungen** unter **Auszahlungs-und Steuer > Auszahlungs-und Steuer profile**) gleichzeitig verfügbar sein.  |
 
 > [!NOTE]
 > Die von uns verwendete Adresse in den IRS-Steuerformularen ergibt sich aus der Adresse Ihres Steuer Profils, wenn Sie [Ihr Auszahlungs Konto und die Steuerformulare einrichten](set-up-your-payout-account.md). Wenn sich Ihre Adresse geändert hat, stellen Sie sicher, dass Sie die Adresse in Ihrem **Steuer Profil** aktualisieren.
@@ -36,15 +38,15 @@ Die Steuerformulare werden von den folgenden Adressen an Sie gesendet:
 | Geschäftsgruppe         | Juristische Entität          | Adresse                                          |
 |------------------------|-----------------------|--------------------------------------------------|
 | Windows, Office, Azure | Microsoft Corporation | One Microsoft Way<br>Redmond, WA 98052 USA        |
-| Werbung            | Microsoft Online Inc. | 6880 Sierra Center Parkway<br>Reno, NV 98511 USA |
+| Advertising            | Microsoft Online Inc. | 6880 Sierra Center Parkway<br>Reno, NV 98511 USA |
 
 **Nicht-US-Bürger:**
 
 | Geschäftsgruppe         | Juristische Entität          | Adresse                                          |
 |------------------------|-----------------------|--------------------------------------------------|
 | Windows, Office, Azure | Microsoft Ireland Operations Limited (Zahlung erfolgt durch Microsoft Corporation über Microsoft Irland, das als qualifizierter Vermittler für Microsoft Corporation fungiert) | One Microsoft Place<br>South County Business Park<br>Leopardstown, Dublin 18, D18 P521, Irland|
-| Werbung          | Microsoft Ireland Operations Limited (Zahlung erfolgt durch Microsoft Online Inc. über Microsoft Irland, das als Auszahlungs-Agent für Microsoft Online Inc. fungiert) | One Microsoft Place<br>Südcounty& Geschäfts Park<br>Leopardstown, Dublin 18, D18 P521, Irland |
-| Werbung            | Microsoft Online Inc. | 6880 Sierra Center Parkway<br>Reno, NV 98511 USA |
+| Advertising          | Microsoft Ireland Operations Limited (Zahlung erfolgt durch Microsoft Online Inc. über Microsoft Irland, das als Auszahlungs-Agent für Microsoft Online Inc. fungiert) | One Microsoft Place<br>Südcounty& Geschäfts Park<br>Leopardstown, Dublin 18, D18 P521, Irland |
+| Advertising            | Microsoft Online Inc. | 6880 Sierra Center Parkway<br>Reno, NV 98511 USA |
 
 >[!NOTE]
 > \* Die Bürger der folgenden Länder, die Werbeeinnahmen verdienen, werden über Microsoft Ireland Operations Limited bezahlt: Österreich, Belgien, Bulgarien, Kroatien, Zypern, Tschechien, Dänemark, Estland, Finnland, Frankreich, Deutschland, Griechenland, Ungarn, Irland, China, Italien, Lettland, Liechtenstein, Litauen, Luxemburg, Malta, Monaco, Niederlande, Norwegen, Polen, Portugal, Rumänien, Slowakei, Slowenien, Südafrika, Spanien, Schweden, Schweiz, Vereinigtes Königreich
@@ -53,7 +55,7 @@ Die Steuerformulare werden von den folgenden Adressen an Sie gesendet:
 
 | Wenn ich ein USA Entwickler kostenpflichtige Apps verkauft und...   | Ich sollte dieses Formular erhalten: |
 |------------------------|-----------------------|
-| Ich hatte **mehr als 200 App-Verkäufe** mit einem Gesamtbetrag dieser Umsätze über **$20.000 USD** im geltenden Steuerjahr ( **ohne** zählen der Umsätze, die in Brasilien und China durch die Microsoft Store unter Windows 10 getätigt wurden.)| **1099-K:**<br/>Einreichende Instanz: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Wichtig:** Formular 1099-K enthält **Bruttoeinkaufsbeträge** , keine an Sie erfolgten Zahlungen.| 
+| Ich hatte **mehr als 200 App-Verkäufe** mit einem Gesamtbetrag dieser Umsätze über **$20.000 USD** im geltenden Steuerjahr (**ohne** zählen der Umsätze, die in Brasilien und China durch die Microsoft Store unter Windows 10 getätigt wurden.)| **1099-K:**<br/>Einreichende Instanz: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Wichtig:** Formular 1099-K enthält **Bruttoeinkaufsbeträge**, keine an Sie erfolgten Zahlungen.| 
 | Ich habe mindestens **$10 Zahlungen** für (i) app-Verkäufe in Brasilien und China über den Microsoft Store auf Windows 10-oder (II)-Verkäufen im minecraft Marketplace erhalten.<br/><br/>**OR**<br/><br/>Ich habe mindestens $600 Zahlungen im Zusammenhang mit den App-Verkäufen von Microsoft im geltenden Steuerjahr erhalten (z. b. Anreizzahlungen oder Zahlungen von einem Wettbewerb oder einer Promotion).| **1099-Verschiedenes:**<br/>Zahlende Instanz: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Wichtig:** Bestimmte Unternehmenseinheiten erhalten keine 1099-MISC-Formulare, ungeachtet der erhaltenen Zahlungen von Microsoft.  Weitere Informationen finden Sie in Ihrem Steuerexperten.| 
 | Keine der Antworten oben trifft zu.| Keine |
 | <br/><br/>**Wenn ich ein USA Entwickler Werbeeinblendungen in apps und...** |<br/><br/>**Ich sollte dieses Formular erhalten:** |
@@ -64,7 +66,7 @@ Die Steuerformulare werden von den folgenden Adressen an Sie gesendet:
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Für Entwickler außerhalb der USA
 
 
-| | |
+| **Frage** | **Antwort** |
 |---|---|
 | **Ich habe ein Formular 1042-S von Microsoft erhalten. Wozu dient es?** | Microsoft hat Ihnen mindestens ein Formular 1042-S bereitgestellt, da wir Ihnen Beträge bezahlt haben, die an die Steuerbehörde der USA gemeldet werden müssen und quellensteuerpflichtig sind.  Formular 1042-S wird für diese Meldeanforderung verwendet. | 
 | **Was muss ich mit den Formularen tun?** | Im Allgemeinen ist keine spezifische Aktion Ihrerseits erforderlich. Das Formular 1042-S kann hilfreich sein, wenn Sie bei Ihren Steuerbehörden eine beliebige Form eines Steuerkredits beantragen möchten.  Weitere Informationen zu diesem Thema finden Sie in ihren eigenen Steuerberatern. | 

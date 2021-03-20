@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 85287746381ee0ac18bc570650cc310df7ef6219
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102186650"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712901"
 ---
 # <a name="technical-support-benefits"></a>Vorteile des technischen Supports
 
@@ -23,7 +23,7 @@ ms.locfileid: "102186650"
 -   MPN-Partneradministrator 
 -   Administrator-Agent 
 
-## <a name="overview"></a>Übersicht
+## <a name="overview"></a>Überblick
 
 Dieser Artikel richtet sich an Mitglieder von Microsoft Partner Network Partnern (MPN), die wissen müssen, wie ein technischer Supportfall mithilfe von MPN-Partner Vorteilen erstellt werden kann.
 
@@ -58,12 +58,10 @@ Technischer Support bietet Problembehandlung für ein bestimmtes Problem, eine F
 Im Rahmen der Microsoft Partner Network Mitgliedschaft sind Partner für den folgenden technischen Support berechtigt.
 
 
-|                           Technischer Support                          |  Action Pack |                                      Silver-Kompetenz                                      |                                        Gold-Kompetenz                                        |   |
-|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
-| Microsoft-Produkt Support<br>Für die aktuelle lokale <br>nur Produkte | 10 Vorfälle | 15 Vorfälle                                                                                | 20 Vorfälle                                                                                  |   |
-| Signatur-Cloud-Support<br>Nur für Cloud-Produkte                   |              | Cloudanwendungen:<br>Unbegrenzt<br>         <br>Weitere Kompetenzen:<br>5 Vorfälle         | Cloudanwendungen:<br>Unbegrenzt<br>          <br>Weitere Kompetenzen:<br>10 Vorfälle   
-
-
+| Technischer Support |  Action Pack | Silver-Kompetenz | Gold-Kompetenz |
+|:---:|:---:|:---:|:---:|
+| Microsoft-Produkt Support<br>Für die aktuelle lokale <br>nur Produkte | 10 Vorfälle | 15 Vorfälle  | 20 Vorfälle |
+| Signatur-Cloud-Support<br>Nur für Cloud-Produkte |  | Cloudanwendungen:<br>Unbegrenzt<br><br>Weitere Kompetenzen:<br>5 Vorfälle  | Cloudanwendungen:<br>Unbegrenzt<br>          <br>Weitere Kompetenzen:<br>10 Vorfälle  |
 
 * Cloudanwendungen umfassen: Sicherheitskompetenz, Cloud-Business Applications, cloudplattform, cloudproduktivität, Enterprise Mobility Management, kleine und mittelständische cloudlösungen.
 

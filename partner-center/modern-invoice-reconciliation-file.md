@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098804"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712255"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Felder für die einmalige Kauf Abstimmung von CSP-Dateien
 
@@ -22,13 +22,13 @@ In der folgenden Tabelle finden Sie Beschreibungen und Beispiel Werte für die F
 
 Weitere Informationen zum Abgleich von Dateien finden Sie unter [use the Versöhnungs files](use-the-reconciliation-files.md).
 
-| Spalte | BESCHREIBUNG | Beispielwert |
+| Column | BESCHREIBUNG | Beispielwert |
 | ------ | ----------- | ------------ |
 | PartnerId | Eindeutiger Bezeichner im GUID-Format für eine bestimmte Abrechnungs Entität. Für die Abstimmung nicht erforderlich. In allen Zeilen gleich. | *0e195b37-4574-4539-bc42-0e539b9684c0* |
 | CustomerId | Eindeutiger Microsoft-Bezeichner für den Kunden im GUID-Format. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | Der in Partner Center angegebene Organisationsname des Kunden. Diese Spalte ist wichtig, um die Rechnung mit ihren Systeminformationen abzustimmen. | *Johnny modern cust DE2* |
 | CustomerDomainName | Der Domänen Name des Kunden. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | Das Land, in dem sich Ihr Kunde befindet. Sehen Sie sich die vollständige [Liste der Länder](./regional-authorization-overview.md) für Ihre Region an.  | *Liga* |
+| CustomerCountry | Das Land, in dem sich Ihr Kunde befindet. Sehen Sie sich die vollständige [Liste der Länder](./regional-authorization-overview.md) für Ihre Region an.  | *DE* |
 | InvoiceNumber | Die Rechnungsnummer, die der Abstimmungs Datei zugeordnet ist.  | *G002297372* |
 | MPNID | MPN-Bezeichner des CSP-Partners. Weitere Informationen finden Sie unter Vorgehens [Weise beim itemisieren nach Partner](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | Resellermpnid | MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement. | *6048879* |
@@ -64,6 +64,7 @@ Weitere Informationen zum Abgleich von Dateien finden Sie unter [use the Versöh
 | Pctobcexchangeratedate | Das Datum, an dem die Preiswährung der Abrechnungswährung festgelegt wird. | *30.09.2020* |
 | Meterbeschreibung | Beschreibung der Verbrauchseinheit.  | *Tabellen-lokal gespeicherte LRS-Daten (GB/Monat)* |
 | ReservationOrderId | Die Reservierungs Auftrags-ID. | *E21A6344E398FFC1C4D7...* |
+| "Credideboncode" | Die Bonitäts Beschreibung. | *Azure-Verbrauchs Guthaben* |
 
 >[!NOTE]
 >Sie können Ihren Azure-Verbrauch in ihrer einmaligen Kauf Datei abstimmen. Wechseln Sie zu diesem Zweck zu Ihrer Datei für die tägliche Nutzung der Nutzungsdauer, und suchen Sie nach ihrer Abonnement-ID. Dadurch werden alle Kosten angezeigt, die ihrer Azure-Plan-ID zugeordnet sind. Ihre Azure-Abonnement-ID wird als "" "" "" "" "".

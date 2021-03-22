@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/24/2021
-ms.openlocfilehash: b3f62bb6d6d48e9dbcdcb906041a1653de436606
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 3e3f1d576c03e437c218f7902c7770a1203eba70
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022790"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768719"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Technische Presales und Bereitstellungs Dienste (TPD) erkunden 
 
@@ -46,7 +46,7 @@ Melden Sie sich mit einem Benutzerkonto von MPN an, um **[eine Anforderung für 
 
 Die Vorteile ihrer Technical Presales und der Bereitstellungs Dienste (TPD) werden automatisch aktiviert und sind für alle zugeordneten Benutzer von MPN verfügbar. 
 
-So zeigen Sie Ihre technischen Vorteile in Partner Center an
+Um Ihre technischen Vorteile in Partner Center anzuzeigen:
 
 1. Melden Sie sich mit Ihrem zugeordneten MPN-Konto beim Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)an. 
 

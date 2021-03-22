@@ -3,21 +3,22 @@ title: Auswirkungen von Steuer Richtlinien auf die Auszahlung der Azure Marketpl
 description: Erfahren Sie, wie sich Steuer Richtlinien auf die Auszahlung der Azure Marketplace auswirken.
 ms.topic: conceptual
 ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 817cdb895efab553b6f0131cdcdcf9b24bc6db3e
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712952"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768821"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Auswirkungen von Steuer Richtlinien auf die Auszahlung der Azure Marketplace
 
 **Geeignete Rollen**
 -    Globaler Administrator
--    Benutzeradministrator
+-    Benutzerverwaltungsadministrator
 -    Administrator-Agent
 
 ## <a name="introduction"></a>Einführung

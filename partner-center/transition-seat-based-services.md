@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 68ed2e839a55206fe9e0692d0fbfd086e15fb0ff
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: ebcd04e5612de350e103cbfd5f8c7e272c19a785
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000634"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768685"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Verschieben Lizenz basierter Kunden aus anderen Kanälen & Partnern in das Cloud Solution Provider-Programm
-
-**Zielgruppe**
-
-- Partner Center
 
 Wenn Ihr Kunde mehrere Partner beauftragen möchte, übertragen Sie seine Abonnements zu einem anderen Partner, oder verwalten Sie seine Abonnements, die er woanders erworben hat. Sie können diese manuell verschieben. Sie können auch Kunden von einem anderen Kanal in das Partner Center verschieben.
 
@@ -34,7 +30,7 @@ Wenn Ihr Kunde mehrere Partner beauftragen möchte, übertragen Sie seine Abonne
 
 
    >[!NOTE]
-   >Der Kunde ist möglicherweise berechtigt, eine Gutschrift zu erhalten, wenn er über das Verwaltungs Portal für Microsoft 365 (M365) erworben wurde (z. b. durch monatliche oder jährliche Abrechnung direkt von Microsoft). Guthaben für Abonnements, die direkt von Microsoft erworben werden, werden vom **M365-Abrechnungs Support**behandelt. Weitere Informationen zum [Abbrechen Ihres M365-Abonnements finden Sie](/microsoft-365/commerce/subscriptions/cancel-your-subscription)unter M365. Wenn Sie Administratorrechte für den Kunden delegiert haben, können Sie sich im Auftrag Ihres Kunden an den Support von "Support" wenden. Wenn dies nicht der Fall ist, bitten Sie Ihren Kunden, sich direkt an den M365-Support zu wenden, um herauszufinden, für wie viele Gutschriften Sie berechtigt sind und wie diese Gutschrift erteilt wird. Lesen Sie die Informationen zu [Delegierten Administratorrechten](customers-revoke-admin-privileges.md).
+   >Der Kunde ist möglicherweise berechtigt, eine Gutschrift zu erhalten, wenn er über das Verwaltungs Portal für Microsoft 365 (M365) erworben wurde (z. b. durch monatliche oder jährliche Abrechnung direkt von Microsoft). Guthaben für Abonnements, die direkt von Microsoft erworben werden, werden vom **M365-Abrechnungs Support** behandelt. Weitere Informationen zum [Abbrechen Ihres M365-Abonnements finden Sie](/microsoft-365/commerce/subscriptions/cancel-your-subscription)unter M365. Wenn Sie Administratorrechte für den Kunden delegiert haben, können Sie sich im Auftrag Ihres Kunden an den Support von "Support" wenden. Wenn dies nicht der Fall ist, bitten Sie Ihren Kunden, sich direkt an den M365-Support zu wenden, um herauszufinden, für wie viele Gutschriften Sie berechtigt sind und wie diese Gutschrift erteilt wird. Lesen Sie die Informationen zu [Delegierten Administratorrechten](customers-revoke-admin-privileges.md).
 
 
 4. Dann führt der Kunde ohne Unterbrechungen mit den Abonnements fort, die Sie bereitgestellt haben.

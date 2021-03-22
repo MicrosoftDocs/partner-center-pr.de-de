@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9622f02039360e8ab39f459c9a2fe082ec70c854
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756737"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768702"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Behandeln von Problemen mit der Konto Einrichtung oder der MPN-Erneuerung
 
@@ -28,20 +28,20 @@ Hier finden Sie einige Vorschläge zur Problembehandlung bei häufigen Problemen
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Was geschieht, wenn Sie vom Partner Mitgliedschafts Center migrieren und keine Firmen Informationsfelder bearbeiten können.
 
-In Fällen, in denen Ihr Unternehmen bereits in Partner Center (z. –. CSP-Konto) vorhanden ist, wird Ihnen ein Schreib geschützter Bildschirm angezeigt. Auf diesem Bildschirm werden alle Informationen zu Ihrem Unternehmen angezeigt, so wie es im Partner Center vorhanden ist.
+In Fällen, in denen Ihr Unternehmen bereits in Partner Center vorhanden ist (z. b. ein CSP-Konto) – wird Ihnen ein Schreib geschützter Bildschirm angezeigt. Auf diesem Bildschirm werden alle Informationen zu Ihrem Unternehmen angezeigt, so wie es im Partner Center vorhanden ist.
 
 Die Details auf diesem Bildschirm können nicht geändert werden. Dies ist Entwurfs bedingt und kein Fehler.
 
 Wählen Sie **annehmen** und **fort** fahren aus.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>, Wenn die IT-Abteilung die **Anmeldung für Partner Center** ausgeschaltet hat.
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>Wenn die IT-Abteilung die **Anmeldung für Partner Center** ausgeschaltet hat
 
 Diese Meldung wird angezeigt, weil virale Benutzer deaktiviert sind oder wenn die virale Registrierung für den Azure AD Mandanten deaktiviert ist. Der globale Administrator für Ihr Azure AD Konto kann erforderliche Features aktivieren, indem Sie den folgenden PowerShell-Befehl ausführen:
 
 **Set-msolcompanysettings-zustellwemailverifiedusers $true-allowadhocabonnements $true**
 
-Weitere Informationen finden Sie [unter Self-Service](/azure/active-directory/users-groups-roles/directory-self-service-signup) -Registrierung.
+Weitere Informationen finden Sie [unter Self-Service](/azure/active-directory/users-groups-roles/directory-self-service-signup)-Registrierung.
 
 ## <a name="you-forgot-your-password"></a>Sie haben Ihr Kennwort vergessen.
 

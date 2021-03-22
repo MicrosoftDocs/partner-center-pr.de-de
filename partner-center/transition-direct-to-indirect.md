@@ -9,18 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 0e7676df62aa6ea91492f9904ac810397fb0e5aa
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624305"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768753"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum indirekten CSP-Wiederverkäufer
 
 **Geeignete Rollen**
 
-- Globale Administratoren
+- Globaler Administrator
 
 >[!Note]
 >Dieser Artikel richtet sich an Direktabrechnungspartner, die indirekte Wiederverkäufer werden möchten. Auch wenn Sie noch keine explizite Entscheidung getroffen haben, sich als indirekter Reseller anzumelden, werden direkt Rechnungs Partner, die die neuen [Anforderungen](direct-partner-new-requirements.md) für das CSP Direct Bill Partner Program nicht erfüllen, von Microsoft informiert, wenn Ihre [direkten Rechnungs Funktionen eingeschränkt](restricted-direct-bill-capabilities.md)werden.
@@ -127,9 +127,9 @@ Direktabrechnungskunden und Kunden für den indirekten Wiederverkauf werden unte
 
 ### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>So erkennen Sie Kunden, die Sie als Direktabrechnungspartner gewonnen haben:
 
-1. **Kunden** auswählen
+1. Wählen Sie **Kunden** aus.
 
-2. Wählen Sie einen Kunden aus, um dessen Details anzuzeigen.
+2. Wählen Sie einen Kunden aus, um seine Details anzuzeigen.
 
 3. Wenn Sie diesen Kunden als Direktabrechnungspartner gewonnen haben, werden Optionen zum **Hinzufügen** oder **Anzeigen von Produkten** sowie die Abonnements des Kunden angezeigt.
 
@@ -162,7 +162,7 @@ Mit dem Feature für die Reseller-Beziehungs Erweiterung können Sie eine Resell
 
 - Ihr indirekter Anbieter wird nicht mit [Delegierten Administratorrechten](customers-revoke-admin-privileges.md) für den Kunden Mandanten bereitgestellt. Wenn Ihr indirekter Anbieter Delegierte Administratorrechte erfordert, müssen Sie stattdessen eine indirekte Reseller-Einladung an den Kunden senden.
 
-- Sobald die Reseller-Beziehung eingerichtet ist, wird der indirekte Anbieter als CSP-Partner für den Kunden auf der Seite Partnerbeziehungen in [M365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/partners) und [Microsoft Store for Business](/microsoft-store/work-with-partner-microsoft-store-business)angezeigt.
+- Sobald die Reseller-Beziehung eingerichtet ist, wird der indirekte Anbieter als CSP-Partner für den Kunden auf der Seite Partnerbeziehungen in [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/partners) und [Microsoft Store for Business](/microsoft-store/work-with-partner-microsoft-store-business)angezeigt.
 
     > [!IMPORTANT]
     > Um Verwirrung und Missverständnisse zu vermeiden, werden Sie von Ihrem Partnervertrag vertraglich dazu verpflichtet, die Zustimmung des Kunden Vertrags zu übermitteln, bevor Sie mit dem Relationship-Erweiterungs Feature eine Reseller-Beziehung zwischen einem bestehenden Kunden der direkt Rechnung und einem indirekten Anbieter herstellen.
@@ -223,7 +223,7 @@ Microsoft Cloud Vereinbarung ist bis zum 31. Januar 2020 gültig. Nach diesem Da
 
 Beim indirekten CSP-Modell haben indirekte Reseller keine Abrechnungs Beziehungen mit Microsoft. Stattdessen erhalten indirekte Vertriebspartner Abonnements für Ihre Kunden über ihre indirekten Anbieter. Bei der Umstellung von Direct Bill Partner auf indirekte Reseller müssen Sie die vorhandenen Abonnements, die Sie als direkten Rechnungs Partner haben, an Ihren indirekten Anbieter übertragen. Sie können das Feature für die Self-served-Abonnement Übertragung im Partner Center-Dashboard verwenden, um dies zu tun.
 
-### <a name="pre-requisites"></a>Voraussetzungen
+### <a name="prerequisites"></a>Voraussetzungen
 
 - Diese Funktion steht nur für den Übergang von Partnern zur Verfügung, die die indirekte Registrierung des Wiederverkäufers mithilfe Ihrer vorhandenen direkt Rechnungs Partner Mandanten abgeschlossen haben.
 

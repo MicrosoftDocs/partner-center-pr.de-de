@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/10/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 5ade6d7c587561cc1af4a7645d1e4b0cce9a505e
-ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
+ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "102770242"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712595"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Überprüfen oder Aktualisieren Ihrer Unternehmensprofilinformationen 
 
@@ -55,7 +55,7 @@ Aktualisieren des juristischen Firmennamens oder der juristischen Adresse in Par
 
 1. Klicken Sie neben Firmenname/Adresse auf **Aktualisieren**, und ändern Sie die Details.
  
-1. Wenn Sie **Senden** auswählen, wird Ihre juristische Identität neu bewertet.
+1. Wenn Sie **Senden** auswählen, wird Ihre juristische Identität neu bewertet. Wir bewerten nur das, was Sie geändert haben.
 
 1. Wenn die Überprüfung fehlschlägt, erfahren Sie [hier](verification-responses.md), wie Sie das Problem beheben.
 

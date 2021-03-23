@@ -1,7 +1,7 @@
 ---
 title: Erstellen eines MPN-Kontos im Partner Center
 ms.topic: article
-ms.date: 02/08/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Mitglieder im Microsoft Partner Network ein Partner Center-Konto erstellen können, um ihre Netzwerkvorteile und Kompetenzen zu verwalten.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100013689"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570208"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Erstellen eines MPN-Kontos im Partner Center zum Verwalten von Netzwerkvorteilen und Kompetenzen
 
@@ -23,7 +23,7 @@ Wenn Sie das Microsoft Partner Network (MPN) zum ersten Mal verwenden und noch k
 
 ## <a name="prerequisites"></a>Voraussetzungen 
 
-Wenn Sie ein Konto im Partner Center erstellen möchten, müssen Sie zunächst die folgenden Voraussetzungen erfüllen.  Es empfiehlt sich unter Umständen, vor Beginn des Vorgangs folgende Angaben zu sammeln:
+Wenn Sie ein Konto im Partner Center erstellen möchten, müssen Sie die folgenden Voraussetzungen erfüllen.  Es empfiehlt sich unter Umständen, vor Beginn des Vorgangs folgende Angaben zu sammeln:
 
 - Geschäftliche E-Mail-Adresse des Unternehmens ODER Office 365-Geschäftskonto. Weitere Informationen finden Sie unter [Geschäftskonto des Unternehmens und Partner Center](azure-active-directory-tenants-and-partner-center.md). 
  
@@ -40,7 +40,8 @@ Wenn Sie ein Konto im Partner Center erstellen möchten, müssen Sie zunächst d
 
 ## <a name="get-started"></a>Erste Schritte
 
-1. Beginnen Sie mit der geschäftlichen E-Mail-Adresse, die Sie von Ihrem Unternehmen erhalten haben, z. B. you@yourcompanyname.com.
+1. Beginnen Sie auf der Seite [**Erste Schritte**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) mit Ihrer geschäftlichen E-Mail-Adresse, die Sie von Ihrem Unternehmen erhalten haben (z. B. you@yourcompanyname.com).
+
  
     a.  Die E-Mail-Adresse muss gültig und für Sie zugänglich sein, da wir einen Überprüfungscode senden, um den Vorgang fortzusetzen.
 

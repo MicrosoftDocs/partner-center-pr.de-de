@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9828c791cf1b1ee99eb8a23ec84869472a2c8114
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 515a35584d8c31538b6722a282c53181c7809420
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756580"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022722"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Verknüpfen oder Aufheben der Verknüpfung einer Microsoft-Zertifizierungsprofil-ID (MCID) mit einem MPN-Konto (Microsoft Partner Network)
 
@@ -33,8 +33,7 @@ Gehen Sie wie nachfolgend beschrieben vor, um Zugriff auf Partner University zu 
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 2. Wählen Sie oben rechts das blaue Symbol **Mein Profil** aus.
-3. Wählen Sie im Feld **Ihr Learning** die Option **Zugriff auf Partner University erhalten** aus.
-Ihr Partner University-Konto wird jetzt Ihrem Partner Center-Benutzerkonto zugeordnet. Ihre Bewertungen werden innerhalb von 72 Stunden in dem Bericht zu Benutzerfähigkeiten im Partner Center wiedergegeben. Bei neu bestandenen Bewertungen kann es sieben bis zehn Tage dauern, bis sie im Bericht wiedergespiegelt werden.
+3. Wählen Sie im Feld **Ihr Learning** die Option **Zugriff auf Partner University erhalten** aus. Sie müssen die Anmeldeinformationen für Ihr Partner University-Konto eingeben (nicht für Ihr Partner Center-Konto). Ihr Partner University-Konto wird jetzt Ihrem Partner Center-Benutzerkonto zugeordnet. Ihre Bewertungen werden innerhalb von 72 Stunden in dem Bericht zu Benutzerfähigkeiten im Partner Center wiedergegeben. Bei neu bestandenen Bewertungen kann es sieben bis zehn Tage dauern, bis sie im Bericht wiedergespiegelt werden.
 4. Zum Entfernen der Zuordnung wählen Sie **Zugriff entfernen** aus.
 
 ## <a name="associate-a-microsoft-learning-account"></a>Zuordnen eines Microsoft Learning-Kontos
@@ -47,6 +46,10 @@ Gehen Sie wie nachfolgend beschrieben vor, um ein Microsoft Learning-Konto zuzuo
 
 >[!NOTE]
 >Wenn die Anmeldeinformationen für das Microsoft Learning-Konto mit den Anmeldeinformationen für das Partner University-Konto identisch sind, wählen Sie **email@address zum Zuordnen meines Microsoft Learning-Kontos verwenden** aus.
+
+## <a name="download-skills-report-microsoft-certification-list"></a>Herunterladen des Qualifikationsberichts (Microsoft-Zertifizierungsliste)
+Wenn Sie detaillierte Informationen benötigen, kann ein globaler Administrator oder MPN-Partneradministrator über das Partner Center auf den Qualifikationsbericht zugreifen und ihn herunterladen. Weitere Informationen finden Sie [hier](https://docs.microsoft.com/partner-center/mpn-skills-report#view-skills-report-data).
+
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Häufig gestellte Fragen zum Verknüpfen von Konten
 

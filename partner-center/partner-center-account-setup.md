@@ -1,7 +1,7 @@
 ---
 title: Verwalten des Partner Center-Kontos
 ms.topic: conceptual
-ms.date: 01/14/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie mithilfe von Partner Center das Profil, Bankdetails und Steuerinformationen, Rollen, Berechtigungen und weitere Angaben zu Ihrem Unternehmen verwalten.
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235969"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103487001"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Verwalten Ihres Partner Center-Kontos – Unternehmensprofil, Bankdetails, Rollen, Berechtigungen und mehr
 
@@ -26,7 +26,7 @@ Das Konto, das Sie bei der Registrierung im Partner Center erstellen, besteht au
 Weitere Informationen finden Sie auch in den Artikeln [Einladen von Mitarbeitern in das Partner Center](guide-to-migration.md) und [Hinzufügen eines neuen Benutzer](create-user-accounts-and-set-permissions.md).
 
 >[!NOTE]
->Das Menü „Kontoeinstellungen“ ändert sich je nach Programmen, für die Sie registriert sind. Wenn Sie z. B. ein Partner im Cloud Solution Provider-Programm (CSP) sind, können Sie Ihre Azure Shared Services über „Kontoeinstellungen“ verwalten.
+>Das Menü „Kontoeinstellungen“ ändert sich je nach Programmen, für die Sie registriert sind. Wenn Sie z. B. ein Partner im Cloud Solution Provider-Programm (CSP) sind, können Sie Ihre Azure Shared Services über **Kontoeinstellungen** verwalten.
 
 ## <a name="account-management"></a>Kontenverwaltung
 
@@ -51,6 +51,20 @@ Wenn Sie das Symbol **Einstellungen** auswählen und das Menü **Kontoeinstellun
 Auf der Registerkarte „Partner“ werden alle offiziellen Geschäftsinformationen, z. B. der registrierte rechtliche Name und die Adresse für Ihr Unternehmen, sowie der Hauptansprechpartner und die Geschäftsstandorte angezeigt. Die Registerkarte „Wiederverkäufer“ für Partner, die CSP-Geschäfte tätigen, umfasst das **Kundensupportprofil**.
 
 Wenn Ihr Unternehmen nicht an CSP teilnimmt, wird in der Standardansicht nur die Registerkarte **Partner** angezeigt, die das **Kundensupportprofil** enthält.
+
+### <a name="when-you-are-in-more-than-one-account"></a>Vorhandensein mehrerer Konten
+
+Sie können mehr als einem Konto angehören. Wenn im linken Navigationsmenü die „Kontoauswahl“ angezeigt wird, können Sie überprüfen, ob Sie mehreren Konten angehören.
+
+:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Erkennen der Kontoauswahl":::
+
+Wenn die Kontoauswahl nicht angezeigt wird, gehören Sie nur einem Konto an. 
+
+Wenn Sie auf diese Auswahl klicken, werden alle Konten, denen Sie angehören, in Form einer Liste angezeigt. Sie können dann auf einen beliebigen Eintrag klicken und zu diesem Konto wechseln. Alle daraufhin angezeigten Elemente stehen mit diesem Konto in Zusammenhang.  
+
+Im folgenden Beispiel gehört der angemeldete Benutzer den drei hervorgehobenen Konten an. Der Benutzer kann durch Klicken zwischen den einzelnen Konten wechseln.
+
+:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="Konten, denen Sie angehören":::
 
 ## <a name="organization-profile"></a>Organisationsprofil
 
@@ -90,7 +104,7 @@ Diese Seite enthält Details zu Ihren Auszahlungen und Steuern, einschließlich 
 
 ## <a name="user-management"></a>Benutzerverwaltung
 
-Ihr Arbeitsbereich in Partner Center sowie die Bereiche, die Sie aktualisieren oder anzeigen können, hängen von Ihrer Rolle und den jeweiligen Berechtigungen ab, die dieser Rolle zugeordnet sind. Wenn Sie beispielsweise kein Incentives-Administrator sind, können Sie auf der Seite „Incentives“ keinerlei Änderungen vornehmen, obwohl Sie die Daten möglicherweise anzeigen können.
+Ihr Arbeitsbereich in Partner Center sowie die Bereiche, die Sie aktualisieren oder anzeigen können, hängen von Ihrer Rolle und den jeweiligen Berechtigungen ab, die dieser Rolle zugeordnet sind. Wenn Sie beispielsweise kein Incentives-Administrator sind, können Sie auf der Seite „Incentives“ keinerlei Änderungen vornehmen, obwohl Sie die Daten möglicherweise anzeigen können. Weitere Informationen zu Rollen und Berechtigungen finden Sie [hier](permissions-overview.md).
 
 ### <a name="update-preferred-email"></a>Aktualisieren der bevorzugten E-Mail-Adresse
 

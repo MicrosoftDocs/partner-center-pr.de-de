@@ -8,13 +8,13 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 07/01/2020
-ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.date: 03/23/2021
+ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567048"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880768"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Wiederverkäufern im Programm für Cloud-Lösungsanbieter
 
@@ -74,7 +74,7 @@ Senden Sie zum Einrichten einer Partnerschaft eine E-Mail mit einer Partnerschaf
 
 Fügen Sie auf der Seite mit den Abonnementdetails im Feld Reseller (MPN-ID) den Vertriebspartner hinzu, mit dem Sie zusammenarbeiten möchten. Stellen Sie sicher, dass Sie die MPN-ID verwenden, die mit dem Partnerstandort Konto des Wiederverkäufers verknüpft ist, das Sie für die Einbindung in Partner Center Dadurch wird sichergestellt, dass der Wiederverkäufer die entsprechenden Anreize erhält und über eine aktive Microsoft-Partner Vereinbarung zum Einbinden der Transaktion verfügt.
 
-1. Wählen Sie im **Partner Center** -Menü die Option für **indirekte Vertriebspartner** aus.
+1. Wählen Sie im **Partner Center**-Menü die Option für **indirekte Vertriebspartner** aus.
 
 2. Wählen Sie auf der Seite für **indirekte Vertriebspartner** die Option zum **Anfordern einer Partnerschaft** aus. Ein E-Mail-Entwurf wird angezeigt.
 
@@ -101,7 +101,7 @@ Wenn Sie sich bei bestehenden Abonnements für die Zusammenarbeit mit einem indi
 | **So erreichen Sie dies** | **Aktion** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | Aktivieren des Wiederverkäufers zum Verwalten des Kontos eines Kunden und zum Verwalten Ihrer Abonnements Administrator Berechtigungen | Zuordnen eines Vertriebspartners zu einem Kundenkonto beim Hinzufügen neuer Kunden | Auf der Seite **Neuer Kunde** |
-| Dem Vertriebspartner ermöglichen, das Azure-Konto eines Kunden zu verwalten|Zuordnen eines Vertriebspartners zu einem Azure-Kundenkonto beim Hinzufügen neuer Kunden|Wählen Sie im **Azure Service-Portal** die Option [Benutzereinstellungen](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) aus, um dem indirekten Vertriebspartner eine **Mandanten-Besitzer** -Berechtigungen zu erteilen|
+| Dem Vertriebspartner ermöglichen, das Azure-Konto eines Kunden zu verwalten|Zuordnen eines Vertriebspartners zu einem Azure-Kundenkonto beim Hinzufügen neuer Kunden|Wählen Sie im **Azure Service-Portal** die Option [Benutzereinstellungen](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) aus, um dem indirekten Vertriebspartner eine **Mandanten-Besitzer**-Berechtigungen zu erteilen|
 | Zuschreiben von Incentives für Vertriebspartner | Ordnen Sie den Vertriebspartner dem (neuen oder vorhandenen) Abonnement zu. | Auf der Seite **Neues Abonnement** |
 | Delegieren des Kundensupports für bestimmte Abonnements an den Vertriebspartner | Wählen Sie den Vertriebspartner in der Liste der **designierten Supportkontakte** aus. | Auf der Detailseite des Abonnements: Wählen Sie den Kunden von Ihrer **Kunden** Seite aus, und wählen Sie dann auf der Seite **Abonnements** des Kunden das Abonnement aus. |
 
@@ -132,7 +132,7 @@ Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren S
 
 ### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Hinzufügen neuer Kunden und Zuordnen zu indirekten Vertriebspartnern
 
-1. Wählen Sie im **Partner Center** -Menü die Option für **indirekte Vertriebspartner** aus.
+1. Wählen Sie im **Partner Center**-Menü die Option für **indirekte Vertriebspartner** aus.
 
 2. Suchen Sie den indirekten Vertriebspartner, dem Sie neue Kunden zuweisen möchten, und wählen Sie dann **Neuen Kunden hinzufügen** aus. Beachten Sie, dass der indirekte Vertriebspartner im Formular mit den Kundendetails bereits für Sie ausgewählt ist. Geben Sie die Details des Kunden an, und klicken Sie dann auf **Weiter: Abonnements**.
 
@@ -168,6 +168,10 @@ Wenn Kunden neue Abonnements erwerben, vorhandene aktualisieren oder zusätzlich
 7. Klicken Sie abschließend auf **Senden**.
 
 ## <a name="next-steps"></a>Nächste Schritte
+
+Hier finden Sie Antworten auf Ihre Fragen zum Microsoft-Partner Vertrag
+
+- [Wie indirekte Anbieter bei der Übernahme der Microsoft-Partner Vereinbarung helfen können: häufig gestellte Fragen](mpa-indirect-provider-faq.md)
 
 Weitere Informationen zur Verwaltung von Kundenkonten und -abonnements finden Sie hier:
 

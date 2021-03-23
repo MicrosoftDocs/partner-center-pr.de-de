@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: c8910b98e32abe10ae3bc86f24aae7bec2630741
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712188"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880717"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Massen Vorgänge für Co-Selling-Möglichkeiten mithilfe von CSV (Comma-Separated Value)-Dateien
 
@@ -82,7 +82,7 @@ Unter Status des Partner Verweises|Ja|Gibt den genauen Status des Deals an. Verw
 Microsoft-Referenz Status|Depends (Abhängig)|Gibt den Status der Co-Selling-Anforderung an, die Sie an Microsoft gesendet haben. Dieses Feld ist schreibgeschützt. Alle Änderungen, die an diesem Feld beim Importieren der Daten vorgenommen werden, werden ignoriert.| Ausstehend
 Abgelehnter/verlorener Grund|Depends (Abhängig)| Sie müssen diese Informationen nur angeben, wenn Sie den unter Status des Felds entweder in "abgelehnt" oder "verloren" ändern. Andernfalls können Sie diese Spalte ignorieren. <br/> **Geben Sie eine Zahl auf der Grundlage der folgenden Optionen ein.** <br/><br/> **1**-das Projektbudget ist nicht ausreichend.  <br/> **2**: der Kunde hat nicht geantwortet.  <br/> **3**-Kunde hat einen anderen Hersteller gewählt  <br/> **4** : Kundenanforderung nicht erfüllt  <br/> **5** , kein Kunde <br/> **6**-vorgeschlagene zeilige Zeit ist zu kurz <br/> **7** : Melden Sie sich als Missbrauch, Spam oder Phishing an <br/> **8** -weitere |6|
 Sales Stage|Nein|Dies ist das Feld, das die ausführliche Verkaufsphase des Verweises angibt. Weitere Informationen zu Verkaufsphasen [finden Sie hier](./manage-co-sell-opportunities.md) .|40
-Geschätzter Werte Wert|Ja|"Der Wert des Deals basierend auf den ersten Konversationen mit dem Kunden. Dies kann geändert werden, bis der Status eines der Terminal Zustände erreicht wird.| gewonnen oder verloren. "|12563
+Geschätzter Werte Wert|Ja|Der Wert des Deals, der auf den ersten Konversationen mit dem Kunden basiert. Dies kann geändert werden, bis der Status eines der von Ihnen **gewonnenen** oder verlorenen Terminal Zustände erreicht ist **.**|12563
 Währung|Ja|Die Währung, in der der Wert für den Wert eingegeben wird. Die Währungscodes finden Sie [hier](https://en.wikipedia.org/wiki/ISO_4217).|USD
 Geschätztes Schluss Datum|Ja|Das geschätzte Schluss Datum des Deals basierend auf den anfänglichen Konversationen mit dem Kunden im Format mm/dd/yyyy. <br/> **Das Datum sollte in der UTC-Zeitzone liegen. Alle Datumsangaben, die in der Benutzeroberfläche von Partner Center angezeigt werden, basieren auf lokalisierten Zeitzonen. Wenn Sie sich den Verweis ansehen, für den Sie das Datum in der UTC-Zeitzone angegeben haben, gibt es möglicherweise einen Unterschied in der Partner Center-Benutzeroberfläche.**|1/30/2020
 CRM-ID|Nein|Bezeichner dieses spezifischen Verweises in Ihrem CRM-System, falls vorhanden. Dies ist ein kostenloses Formular Texteingabefeld.|34234324-sdfsdf-345345-SFD

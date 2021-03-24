@@ -9,18 +9,14 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: c9ad5b1c0671ff1d27d25c6f92499b72d77e6c22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367624"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028416"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Migrieren von Skype for Business Online Plan 1-Abonnements zu neueren Versionen von Office 365
-
-**Zielgruppe**
-
-- Partner Center
 
 Der Skype for Business Online-Plan 1 wird ab dem 1. August 2018 eingestellt. Nach diesem Datum können Kunden keine neuen Skype for Business Plan 1-Abonnements mehr erwerben, und bestehende Abonnements werden bei Ablauf nicht automatisch verlängert. Es steht außerdem keine Verlängerungsoption zur Verfügung. Auf der Detailseite des Abonnements wurde der Skype for Business Online Plan 1-Abonnementstatus von „Datum der automatischen Verlängerung: [Datum]“ in „Gültig bis [Datum]“ geändert.  
 
@@ -39,7 +35,7 @@ Mit den neuen Plänen können Ihre Kunden neuere Features und Funktionen in Offi
 - Option 2: Microsoft 365 Enterprise F1
 - Option 3: Weitere Office 365-Pläne
 
-|**Feature**    |**Option 1**   |**Option 2**   |**Option 3**   |
+|**Feature**    |**Option 1:**   |**Option 2:**   |**Option 3**   |
 |:-----------------|:-----------------|:-------------|:------------|
 |Alle in Skype for Business Online Plan 1 enthaltenen Features|Ja   |Ja   |Ja   |
 |Chatten und Anwesenheit |Ja   |Ja   |Ja   |
@@ -68,11 +64,11 @@ Ihr Kunde sollte nun sowohl alte als auch neue Abonnements haben, das alte Skype
 
 5. Deaktivieren Sie auf der Seite **Lizenzen verwalten** das Kontrollkästchen für Skype for Business Online Plan 1, und wählen Sie einen neuen Serviceplan für das Abonnement aus, auf das der Kunde umgestellt wird.
 
-6. Klicken Sie auf **Submit** (Senden). Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt. Führen Sie denselben Prozess für andere Benutzer durch, die Lizenzzuweisungen benötigen.
+6. Klicken Sie auf **Senden**. Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt. Führen Sie denselben Prozess für andere Benutzer durch, die Lizenzzuweisungen benötigen.
 
 Nachdem Sie die Benutzerlizenz zum neuen Dienst migriert haben, können Sie das eingestellte Abonnement auf der obersten Kundenebene ohne Bedenken stornieren.
 
-7. Wählen Sie im **Partner Center** -Menü die Option **Kunden**aus. Wählen Sie den Kunden, dessen Abonnement Sie stornieren möchten.
+7. Wählen Sie im **Partner Center** -Menü die Option **Kunden** aus. Wählen Sie den Kunden, dessen Abonnement Sie stornieren möchten.
 
 8. Legen Sie auf der Seite mit den Abonnementdetails das Abonnement auf **Ausgesetzt** fest.
 

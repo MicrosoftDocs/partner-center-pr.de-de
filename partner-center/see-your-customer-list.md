@@ -9,19 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40df034e88a1bba7829d6f73e0fb970795a2a0dd
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 38ab5b3ef871aa8a969e8da48e2cb6f4cfebf4c6
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811260"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028331"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Verwalten der Kundenliste: suchen, aktualisieren oder Exportieren von Kunden im Partner Center
 
 **Zielgruppe**
 
-- Partner Center
-- Partner Center für Microsoft Cloud for US Government
+- Partner Center für Microsoft Government Cloud
 
 Kundendatensätze gehören zu den wichtigsten Informationsressourcen in Partner Center. Sie können Ihre Kundenkontendatenbank durchsuchen oder die gesamte Kundendatenbank bzw. eine Teilmenge in eine Excel-kompatible, durch Trennzeichen getrennte Datei (CSV-Datei) exportieren. Sie können auch Informationen zu Kundenabonnements in eine CSV-Datei exportieren.
 
@@ -29,20 +28,20 @@ Darüber hinaus enthalten die Aktivitätsprotokolle exportierbare Daten zu Trans
 
 ## <a name="search-for-a-customer"></a>Suchen nach einem Kunden
 
-1.  Wählen Sie im **Partner Center** -Menü die Option **Kunden**aus.
-2.  Um nach einem Kunden zu suchen, geben Sie in das Suchfeld den Kundennamen oder den Domänennamen ein.
-3.  Wählen Sie den **Pfeil nach unten** am Ende einer Kundenzeile aus, um die Microsoft-ID des Kunden sowie die verknüpften Abonnements und Quicklinks zu Diensten anzuzeigen.
+1. Wählen Sie im **Partner Center** -Menü die Option **Kunden** aus.
+2. Um nach einem Kunden zu suchen, geben Sie in das Suchfeld den Kundennamen oder den Domänennamen ein.
+3. Wählen Sie den **Pfeil nach unten** am Ende einer Kundenzeile aus, um die Microsoft-ID des Kunden sowie die verknüpften Abonnements und Quicklinks zu Diensten anzuzeigen.
 
 ## <a name="update-a-customers-company-name"></a>Firmennamen von Kunden aktualisieren
 
-Wählen Sie im **Partner Center** -Menü die Option **Kunden**aus.
-2.  Um nach einem Kunden zu suchen, geben Sie in das Suchfeld den Kundennamen oder den Domänennamen ein.
-3.  Wählen Sie den **Pfeil nach unten** am Ende einer Kundenzeile aus, um die Microsoft-ID des Kunden sowie die verknüpften Abonnements und Quicklinks zu Diensten anzuzeigen.
-4.  Aktualisieren Sie in den Daten zum **Rechnungsempfänger** den Unternehmensnamen. Wenn Sie den neuen Wert speichern, wird er in die Kundenliste aufgenommen. Dadurch werden nur der Firmenname für die Rechnungsadresse und der Wert in der Kundenliste geändert. Anderswo werden die Änderungen nicht wiedergegeben.
+Wählen Sie im **Partner Center** -Menü die Option **Kunden** aus.
+2. Um nach einem Kunden zu suchen, geben Sie in das Suchfeld den Kundennamen oder den Domänennamen ein.
+3. Wählen Sie den **Pfeil nach unten** am Ende einer Kundenzeile aus, um die Microsoft-ID des Kunden sowie die verknüpften Abonnements und Quicklinks zu Diensten anzuzeigen.
+4. Aktualisieren Sie in den Daten zum **Rechnungsempfänger** den Unternehmensnamen. Wenn Sie den neuen Wert speichern, wird er in die Kundenliste aufgenommen. Dadurch werden nur der Firmenname für die Rechnungsadresse und der Wert in der Kundenliste geändert. Anderswo werden die Änderungen nicht wiedergegeben.
 
 ## <a name="export-your-customer-list"></a>Exportieren der Kundenliste
 
-1. Wählen Sie im **Partner Center** -Menü die Option **Kunden**aus.
+1. Wählen Sie im **Partner Center** -Menü die Option **Kunden** aus.
 2. Wählen Sie **Kunden exportieren** aus.
 
    Partner Center konvertiert die gesamte Kundenliste in eine CSV-Datei und lädt sie in den Standarddownloadordner auf Ihrem Computer hoch. Sie können auch Teilmengen von Kundendaten exportieren. Zu den Datenspalten gehören u. a.:
@@ -59,7 +58,7 @@ Wählen Sie im **Partner Center** -Menü die Option **Kunden**aus.
 
 ## <a name="export-customer-subscription-information"></a>Exportieren von Informationen zum Kundenabonnement
 
-1. Wählen Sie im **Partner Center** -Menü die Option **Kunden**aus.
+1. Wählen Sie im **Partner Center** -Menü die Option **Kunden** aus.
 
 2. Wählen Sie den **Unternehmensnamen** eines Kunden aus. Die Seite **Abonnements** des Kunden wird geöffnet und zeigt die vollständige Liste der Produktabonnements an.
 

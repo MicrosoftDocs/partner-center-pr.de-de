@@ -2,20 +2,21 @@
 title: Einrichten von Auszahlungskonten und Steuerformularen – kommerzieller Microsoft-Marketplace
 description: Erfahren Sie hier, wie Sie Ihr Auszahlungskonto einrichten und die erforderlichen Steuerformulare ausfüllen müssen, um auf dem kommerziellen Marketplace Geld aus Angebotsverkäufen zu erhalten.
 ms.topic: conceptual
-ms.service: marketplace
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492686"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028433"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Einrichten von Auszahlungskonten und Steuerformularen
 
-**Geeignete Rollen:**
+**Geeignete Rollen**
 
 - Kontoadministrator
 - Globaler Administrator
@@ -54,7 +55,7 @@ Zunächst müssen Sie ein Steuerprofil erstellen und es den Programmen zuweisen,
 
 4. Falls Sie ein vorhandenes Steuerprofil verwenden möchten, können Sie es in der Dropdownliste auswählen. Wählen Sie andernfalls die Option **Neues Profil erstellen** und dann **Senden** aus. Sie gelangen auf die Steuerprofilseite.
 
-5. Klicken Sie auf die Schaltfläche **Bearbeiten**, um Ihre Steuerinformationen zu bearbeiten.
+5. Wählen Sie die Schaltfläche **Bearbeiten** aus, um die Steuerinformationen zu bearbeiten.
 
 6. Aktivieren Sie das entsprechende Optionsfeld, und wählen Sie Ihr Land/Ihre Region aus, wenn Sie dazu aufgefordert werden. Mit diesem Schritt wird die Microsoft-Geschäftseinheit festgelegt, die verwendet wird, um die Auszahlungen für Ihr Konto vorzunehmen.
 
@@ -91,7 +92,7 @@ Ein Auszahlungskonto ist das Bankkonto, auf das wir Ihnen Ihre Verkaufserlöse �
 
 3. Wählen Sie die Zahlungsmethode aus, die Sie konfigurieren möchten.
 
-4. Wählen Sie ein vorhandenes Zahlungsprofil aus, oder klicken Sie auf **Neues Zahlungsprofil erstellen**, um für die ausgewählte Zahlungsmethode ein neues Profil zu erstellen.
+4. Wählen Sie ein vorhandenes Zahlungsprofil aus, oder wählen Sie **Neues Zahlungsprofil erstellen** aus, um ein neues Profil für die ausgewählte Zahlungsmethode zu erstellen.
 
 ### <a name="create-a-bank-based-payment-profile"></a>Erstellen eines bankbasierten Zahlungsprofils
 
@@ -111,7 +112,7 @@ Falls Sie für den Empfang von Auszahlungen ein Bankkonto angegeben haben, müss
 
 5. Sie müssen für jedes Programm, an dem Sie teilnehmen, ein Zahlungsprofil auswählen. Es ist aber möglich, dasselbe Profil für mehrere Programme zu nutzen.
 
-6. Klicken Sie auf „Senden“, um Ihre Änderungen zu speichern.
+6. Wählen Sie übermitteln aus, um die Änderungen zu speichern.
 
    > [!NOTE]
    > Es kann bis zu 48 Stunden dauern, bis die Informationen in Ihrem Profil von Microsoft überprüft wurden. Nach Abschluss dieses Prozesses wird unter *Status der Überprüfung* der Status **Abgeschlossen** angezeigt.
@@ -130,7 +131,7 @@ Sie können vorhandene Zahlungsprofile bearbeiten, falls Sie Änderungen vornehm
 
 2. Wählen Sie unterhalb der Überschrift *Auszahlung und Steuer* die Option **Auszahlungs- und Steuerprofile** aus.
 
-3. Ihre Zahlungsprofile werden zusammen mit dem jeweiligen Status aufgeführt. Suchen Sie nach dem Profil, das Sie bearbeiten möchten, und klicken Sie ganz rechts auf **Bearbeiten**.
+3. Ihre Zahlungsprofile werden zusammen mit dem jeweiligen Status aufgeführt. Suchen Sie das Profil, das Sie bearbeiten möchten, und klicken Sie ganz rechts auf **Bearbeiten** .
 
 > [!IMPORTANT]
 > Wenn Sie Ihr Zahlungskonto ändern, kann dies dazu führen, dass sich Ihre Zahlungen um maximal einen Zahlungszyklus verzögern. Diese Verzögerung tritt auf, weil wir die Kontoänderung überprüfen müssen. Dies ist der gleiche Vorgang wie bei der ersten Einrichtung des Zahlungskontos. Nachdem das Konto bestätigt wurde, erhalten Sie trotzdem den vollen Betrag. Zahlungen, die für den aktuellen Zahlungszyklus fällig sind, werden im nächsten Zyklus hinzugefügt. Weitere Informationen finden Sie [im kommerziellen Marketplace unter "kostenpflichtige Kosten](marketplace-get-paid.md)".
@@ -203,7 +204,7 @@ Falls Sie für den Empfang von Auszahlungen ein Bankkonto angegeben haben, müss
 3. Geben Sie die Details zum Kontoinhaber an.
 4. Wählen Sie auf der Seite *Profilzuweisung* die Währung aus, die von uns für Ihre Auszahlungen verwendet werden soll.
 5. Sie müssen für jedes Programm, an dem Sie teilnehmen, ein Zahlungsprofil auswählen. Es ist aber möglich, dasselbe Profil für mehrere Programme zu nutzen.
-6. Klicken Sie auf „Senden“, um Ihre Änderungen zu speichern.
+6. Wählen Sie übermitteln aus, um die Änderungen zu speichern.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

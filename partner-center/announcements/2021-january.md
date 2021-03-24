@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: 2dd1563aab9d2505932bf35a9f1fe7ef22c1be28
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514118"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712459"
 ---
 # <a name="january-2021-announcements"></a>Ankündigungen für Januar 2021
 
@@ -315,7 +315,7 @@ Alle CSP-Partner
 ### <a name="details"></a>Details
 
 >[!NOTE]
->Aufgrund von Partnerfeedback werden die Partner Center-Funktionen zum Abrufen von Software und Lizenzschlüsseln für Bestellungen von unbefristeter Software und Serverabonnementsoftware reaktiviert. Sie werden im vorherigen Zustand vor dem Entfernen am 19. Januar 2021 wiederhergestellt. Weitere Informationen finden Sie in den [Ankündigungen für März 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>Aufgrund von Partnerfeedback werden die Partner Center-Funktionen zum Abrufen von Software und Lizenzschlüsseln für Bestellungen von unbefristeter Software und Serverabonnementsoftware reaktiviert. Sie werden im vorherigen Zustand vor dem Entfernen am 19. Januar 2021 wiederhergestellt. Weitere Informationen finden Sie in den [Ankündigungen für März 2021](./2021-march.md#4).
 
 Wie heute [angekündigt](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/), freuen wir uns, Ihnen mitteilen zu können, dass kommerzielle, unbefristete Softwarelizenzen nun allen CSP-Partnern allgemein zum Verkauf zur Verfügung stehen. Die CSP-Preisliste für unbefristete Software im Partner Center wurde neu veröffentlicht und enthält jetzt weitere Produkte und geografische Regionen.
 

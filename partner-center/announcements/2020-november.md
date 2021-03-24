@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756404"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712527"
 ---
 # <a name="november-2020-announcements"></a>Ankündigungen für November 2020
 
@@ -305,11 +305,11 @@ Partner Center ist darauf ausgelegt, eine große Anzahl von Anforderungen zu ver
 
 ### <a name="apis-to-be-throttled"></a>Zu drosselnde APIs
 
-|**Vorgang**|**Dokumentation zu Partner Center**|
+| **Vorgang** | **Dokumentation zu Partner Center** |
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[Abrufen aller Abonnements eines Kunden](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Abrufen eines Abonnements nach ID](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[Abrufen aller Bestellungen eines Kunden](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders|[Abrufen aller Bestellungen eines Kunden](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[Abrufen eines Auftrags nach ID](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[Abrufen des Abonnementbereitstellungsstatus](/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[Verwalten von Aufträgen und Verwalten eines Abonnements](/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -318,7 +318,7 @@ Partner Center ist darauf ausgelegt, eine große Anzahl von Anforderungen zu ver
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[Abrufen des Abonnementregistrierungsstatus](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/customers/{customer-tenant-id}/transfers|[Abrufen aller Übertragungen eines Kunden](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Abrufen des Status der Produktaktualisierung](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Abrufen einer Liste von Testwechselangeboten](/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[Abrufen einer Liste von Testwechselangeboten](/partner-center/develop/get-all-of-a-customer-s-transfers) |
   
 
 Mit dieser Ankündigung sollen Partner frühzeitig über die bevorstehenden Änderungen informiert werden, sodass sie entsprechende Vorbereitungen treffen können. Partnern wird dringend empfohlen, sich mit diesen APIs vertraut machen und die Aktivitätsprotokoll-API für mehr Effizienz und zur Vermeidung einer Drosselung zu verwenden. Weitere Informationen zu diesem Feature finden Sie im [Leitfaden zur API-Drosselung](/partner-center/develop/api-throttling-guidance). 

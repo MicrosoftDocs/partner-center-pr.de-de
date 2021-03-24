@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: b8f6f565e92ca4ac95d0787dff99893208722f02
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514084"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712510"
 ---
 # <a name="september-2020-announcements"></a>Ankündigungen für September 2020
 
@@ -37,7 +37,7 @@ Alle CSP-Partner (Cloud Solution Partner), die Transaktionen für Softwareangebo
 ### <a name="details"></a>Details
 
 >[!NOTE]
->Aufgrund von Partnerfeedback werden die Partner Center-Funktionen zum Abrufen von Software und Lizenzschlüsseln für Bestellungen von unbefristeter Software und Serverabonnementsoftware reaktiviert. Sie werden im vorherigen Zustand vor dem Entfernen am 19. Januar 2021 wiederhergestellt. Weitere Informationen finden Sie in den [Ankündigungen für März 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>Aufgrund von Partnerfeedback werden die Partner Center-Funktionen zum Abrufen von Software und Lizenzschlüsseln für Bestellungen von unbefristeter Software und Serverabonnementsoftware reaktiviert. Sie werden im vorherigen Zustand vor dem Entfernen am 19. Januar 2021 wiederhergestellt. Weitere Informationen finden Sie in den [Ankündigungen für März 2021](./2021-march.md#4).
 
 Derzeit können Partner entweder Partner Center oder das Microsoft 365 Admin Center für den Download von Software und Lizenzschlüssel für CSP-Softwarebestellungen verwenden. Ab dem **19. Januar 2021** werden die Partner Center-Funktionen für Software und Lizenzschlüssel eingestellt, und Partner weisen die Kunden darauf hin, ausschließlich das **Microsoft 365 Admin Center** für diesen Zweck zu nutzen. Die Seite für Kundensoftware im Partner Center enthält dann einen „Deep-Link“ zum Microsoft 365 Admin Center, auf den Sie die Kunden zum Abrufen der Kundenlizenzen und Softwaredownloads verweisen können. Dadurch wird die sicherste und effizienteste Methode für Kunden gewährleistet.
 
@@ -78,7 +78,7 @@ Alle Partner im CSP- und Open-Programm
 ### <a name="details"></a>Details
 
 >[!NOTE]
->Aufgrund von Partnerfeedback werden die Partner Center-Funktionen zum Abrufen von Software und Lizenzschlüsseln für Bestellungen von unbefristeter Software und Serverabonnementsoftware reaktiviert. Sie werden im vorherigen Zustand vor dem Entfernen am 19. Januar 2021 wiederhergestellt. Weitere Informationen finden Sie in den [Ankündigungen für März 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>Aufgrund von Partnerfeedback werden die Partner Center-Funktionen zum Abrufen von Software und Lizenzschlüsseln für Bestellungen von unbefristeter Software und Serverabonnementsoftware reaktiviert. Sie werden im vorherigen Zustand vor dem Entfernen am 19. Januar 2021 wiederhergestellt. Weitere Informationen finden Sie in den [Ankündigungen für März 2021](./2021-march.md#4).
 
 Das Microsoft CSP-Programm ist mit mehr als 90.000 teilnehmenden Unternehmen exponentiell gewachsen. Es ist unser primärer Partnervertriebsprozess für kleine und mittelständische Unternehmen sowie für kleinere Unternehmenskunden innerhalb der neuen Handelsplattform. Auf Grundlage dieser Dynamik haben wir heute angekündigt, dass wir die Möglichkeiten für Partner im CSP-Programm erweitern. Details finden Sie in unserem [Partnerblogbeitrag](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/).
 

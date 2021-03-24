@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 12c9ad9975be4be725d7b8c2fda77b0fdaa66887
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514101"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712544"
 ---
 # <a name="december-2020-announcements"></a>Ankündigungen für Dezember 2020
 
@@ -275,7 +275,7 @@ Alle CSP-Partner
 ### <a name="details"></a>Details
 
 >[!NOTE]
->Aufgrund von Partnerfeedback werden die Partner Center-Funktionen zum Abrufen von Software und Lizenzschlüsseln für Bestellungen von unbefristeter Software und Serverabonnementsoftware reaktiviert. Sie werden im vorherigen Zustand vor dem Entfernen am 19. Januar 2021 wiederhergestellt. Weitere Informationen finden Sie in den [Ankündigungen für März 2021](https://docs.microsoft.com/partner-center/announcements/2021-march#4).
+>Aufgrund von Partnerfeedback werden die Partner Center-Funktionen zum Abrufen von Software und Lizenzschlüsseln für Bestellungen von unbefristeter Software und Serverabonnementsoftware reaktiviert. Sie werden im vorherigen Zustand vor dem Entfernen am 19. Januar 2021 wiederhergestellt. Weitere Informationen finden Sie in den [Ankündigungen für März 2021](./2021-march.md#4).
 
 Wir möchten Sie daran erinnern, dass ab dem **19. Januar 2021** alle für das CSP-Programm registrierten Partner kommerzielle, unbefristete Softwarelizenzen für die lokale Bereitstellung über CSP verkaufen können. Dadurch wird Kunden die Lizenzierungsflexibilität geboten, die sie im Rahmen ihrer digitalen Transformation benötigen.
 

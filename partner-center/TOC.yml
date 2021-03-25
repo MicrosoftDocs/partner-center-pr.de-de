@@ -111,6 +111,8 @@
         - name: Technische Vorteile
           href: mpn-benefits-technical-support.md
           displayname: 'support, incidents, technical'
+        - name: Erstellen eines Logos mit Logo Builder
+          href: mpn-logo-builder.md
     - name: Marketplace-Prämien
       href: marketplace-rewards.md
     - name: Software Assurance

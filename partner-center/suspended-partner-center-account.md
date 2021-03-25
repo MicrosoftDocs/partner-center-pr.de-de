@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d362e78cccf1372760a38f849b0a29a0a31c1ac
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 194ae71b026b3dc5419ad86d0988249223137462
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365736"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028246"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Wiederherstellen eines gesperrten Partner Center-Kontos: Gründe und Vorgehensweise
 
@@ -22,8 +22,7 @@ In diesem Artikel wird beschrieben, was zu tun ist, wenn Ihr Partner Center-Kont
 
 **Zielgruppe**
 
--  Partner Center
--  Partner Center für Microsoft Cloud for US Government
+- Partner Center für Microsoft Government Cloud
 
 **Geeignete Rollen**
 
@@ -37,7 +36,7 @@ In diesem Artikel wird beschrieben, was zu tun ist, wenn Ihr Partner Center-Kont
 
 Microsoft kann ein Partner Center-Konto aus den folgenden Gründen aussetzen:
 
-- Wenn die Zahlung des aktuellen Abrechnungsbetrags 60 Tage überfällig ist 
+- Wenn die Zahlung des aktuellen Abrechnungsbetrags 60 Tage überfällig ist
 - Wenn ein erheblicher Missbrauch des Kontos entdeckt wird
 - Wenn Probleme sich auf indirekte Anbieter Vorgänge auswirken und sich negativ auf Ihr Konto auswirken (nur indirekte Reseller)
 - Wenn sich Ihr Konto Profil im Zustand "fehlerhaft" oder "abgelehnt" befindet
@@ -48,7 +47,7 @@ Wenn Sie wissen, dass Ihr Konto aktuell ist, überprüfen Sie Ihre [Partner Prof
 
 Wenn Sie nicht sicher sind, ob Ihr Konto aktuell ist, wählen Sie im **Partner Center** -Menü die Option **Abrechnung** aus, um Ihre Rechnung zu überprüfen. Auf der Abrechnungsseite können Sie Ihren Abrechnungsverlauf und -trend, den fälligen Betrag für den aktuellen Monat, Links zu Ihrer Rechnung und zu den Abstimmungsdateien sowie Ihre letzte Zahlung anzeigen.
 
-Wenn Ihr Konto überfällig ist, folgen Sie den Anweisungen auf Ihrer Rechnung und entrichten Sie die Gebühr und senden Sie dann eine Supportanfrage, um Ihr Konto zu reaktivieren. 
+Wenn Ihr Konto überfällig ist, befolgen Sie die Anweisungen auf Ihrer Rechnung, um die Zahlung anzuordnen und dann eine Supportanfrage zur Wiederherstellung Ihres Kontos zu senden. 
 
 Weitere Unterstützung bei der erneuten Aktivierung Ihres Kontos erhalten Sie beim [Support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create).
 
@@ -56,4 +55,4 @@ Weitere Unterstützung bei der erneuten Aktivierung Ihres Kontos erhalten Sie be
 
 - [Überprüfen von Partnerprofilen](update-your-partner-profile.md)
 
-- [Überprüfen Sie Ihre Kontoinformationen, wenn Sie sich in einem neuen Partner Center-Programm anmelden.](verification-responses.md)
+- [Überprüfen der Kontoinformationen bei der Registrierung für ein neues Partner Center-Programm](verification-responses.md)

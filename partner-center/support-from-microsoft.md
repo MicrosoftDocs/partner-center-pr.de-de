@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2531534106f421e7378f1f3f0b29361792b4a4ac
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 72b4952dea16202f3a3b74a295a0c636152cb4cd
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114871"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028215"
 ---
 # <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Unterstützung von Microsoft: Wann Probleme eskaliert werden, wie Sie gemeldet werden oder wie die Dienst Integrität überprüft wird
 
 **Zielgruppe**
 
-- Partner Center
-- Partner Center für Microsoft Cloud for US Government
+- Partner Center für Microsoft Government Cloud
 
 Bei Problemen mit einem Microsoft-Dienst oder mit Partner Center können Sie den Fall an Microsoft eskalieren, um Hilfe zu erhalten, und das Problem nachverfolgen, bis es behoben ist.
 
@@ -34,9 +33,9 @@ Bei Problemen mit einem Microsoft-Dienst oder mit Partner Center können Sie den
 [Mit unseren APIs automatisierte Dienst Benachrichtigungen erhalten](get-automated-service-notifications-with-our-apis.md) : cloudlösungsanbieter können automatisierte Dienst Benachrichtigungen für die Kundendienste erhalten.
 
 
- 
+ 
 
- 
+ 
 
 
 

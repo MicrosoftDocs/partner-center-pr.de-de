@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89286495"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028263"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Anzeigen der Berechtigungsanforderungen für die Planung von Dienst Engagements
 
 **Geeignete Rollen**
 
 - Globaler Administrator
-- MPN-Partner Administrator
+- MPN-Partneradministrator
 
-In diesem Thema erhalten Sie Informationen zu den Berechtigungsanforderungen, die Sie erfüllen müssen, damit Ihr Unternehmen Software Assurance Planning Services-Engagements für Microsoft registrieren oder bereitstellen kann.
+In diesem Artikel erhalten Sie Informationen zu den Berechtigungsanforderungen, die Sie erfüllen müssen, damit Ihr Unternehmen Software Assurance Planning Services-Engagements für Microsoft registrieren oder bereitstellen kann.
 
 >[!NOTE]
 > Neben der Erfüllung der Berechtigungsanforderungen für ein Planungsdienst Angebot müssen Sie auch mehrere weitere Schritte ausführen, bevor Sie die Software Assurance-Planungsdienste bereitstellen können. Eine Übersicht über alle erforderlichen Schritte finden Sie unter [Software Assurance Planning Services in Partner Center](software-assurance-dps.md).

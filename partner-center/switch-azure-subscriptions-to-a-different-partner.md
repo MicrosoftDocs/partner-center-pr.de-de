@@ -9,20 +9,19 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b9058b00708e0ed745c7d6343dfd9c04382cfa9e
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 20e00034e9c20a5d41500892df059b34a9347a63
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645655"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028297"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Erfahren Sie, wie Sie die Azure-Abonnements eines Kunden auf einen anderen Partner übertragen
 
 **Zielgruppe**
 
-- Partner Center für Microsoft Cloud for US Government
+- Partner Center für Microsoft Government Cloud
 - Partner Center für Microsoft Global Cloud
-- Partner im CSP-Programm (Cloud Solution Provider)
 
 In diesem Artikel wird beschrieben, wie ein Kunde seine Microsoft Azure Dienste von einem Cloud Solution Provider (CSP) zu einem anderen wechseln kann.
 
@@ -43,7 +42,7 @@ Führen Sie die folgenden manuellen Schritte aus, um die Azure-Dienste oder-Abon
 
    Erstellen eines Azure-Servicetickets in Partner Center, um eine Abonnementübertragung anzufordern.
 
-   1. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie den Kunden aus der Liste aus. Wählen Sie anschließend **Dienstverwaltung** aus. 
+   1. Wählen Sie im Menü „Partner Center“ die Option **Kunden** aus, und wählen Sie den Kunden aus der Liste aus. Wählen Sie anschließend **Dienstverwaltung** aus.
 
    2. Wählen Sie im Abschnitt **Supporttickets** die Dropdownliste **Neues Ticket** aus und anschließend **Microsoft Azure**.
    
@@ -100,12 +99,12 @@ Führen Sie die folgenden manuellen Schritte aus, um die Azure-Dienste oder-Abon
      Get-AzRoleAssignment
      ```
 
-7. Entfernen veralteter Zugriffsberechtigungen
+7. Veraltete Zugriffsberechtigungen entfernen:
 
    - Wählen Sie im Menü „Partner Center” **Kunden**.
-   - Suchen Sie den Kunden in der Liste. Wählen Sie den Namen Ihres Unternehmens aus (Doppelklicken). Dadurch wird die Seite Kunden **Abonnements** geöffnet.
+   - Suchen Sie den Kunden in der Liste. Wählen Sie den Namen Ihres Unternehmens aus (Doppelklicken). Mit dieser Aktion wird die Seite Kunden **Abonnements** geöffnet.
    - Wählen Sie im Menü Kunden Detail die Option **Dienst Verwaltung** aus.
-   - Unter **Microsoft Azure** klicken Sie auf den Link, um zum **Microsoft Azure-Verwaltungsportal** zu wechseln.
+   - Klicken Sie unter **Microsoft Azure** auf den Link, um zum **Microsoft Azure-Verwaltungsportal** zu wechseln.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

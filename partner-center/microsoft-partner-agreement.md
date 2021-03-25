@@ -1,7 +1,7 @@
 ---
 title: Microsoft Partner-Vereinbarung (Microsoft Partner Agreement, MPA) für CSP
 ms.topic: how-to
-ms.date: 02/11/2021
+ms.date: 03/23/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über die Anforderungen an CSP-Partner von Microsoft, um diese einheitliche, digital akzeptierbare Microsoft Partner-Vereinbarung zu überprüfen und zu signieren.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281328"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880802"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informationen zur Microsoft Partner-Vereinbarung für Partner im CSP-Programm
 
@@ -110,5 +110,7 @@ Sie können auch feststellen, ob Sie die Vereinbarung unterzeichnet haben, indem
 3. Wenn Sie nach Abschluss von Schritt 1 und/oder Schritt 2 oben Ihren MPA-Status im Partner Center überprüfen möchten: [Überprüfen der Zustimmung zur Microsoft Partner-Vereinbarung](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>Nächste Schritte
+
+- [Wie indirekte Anbieter ihren Wiederverkäufern bei der Übernahme der Microsoft Partner-Vereinbarung helfen können – häufig gestellte Fragen](mpa-indirect-provider-faq.md)
 
 - [Registrieren für das Cloud Solution Provider-Programm (CSP)](indirect-reseller-tasks-in-partner-center.md)

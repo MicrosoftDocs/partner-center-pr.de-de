@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/18/2021
-ms.openlocfilehash: 87d71434a44bcfe66f7a928291007237e9c958c6
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 03/22/2021
+ms.openlocfilehash: 669bf079b095cff1c7198aa63dc900453bbd745a
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712289"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880751"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,9 +22,11 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 |**Kategorie**|**Ankündigungen für März 2021**|**Angekündigt**|
 |---------|:---------|:---------|
-|Funktionen|[CSP-Angebot für kommerziellen Marketplace und CSP-Anreize im FY21 für berechtigte Angebote](2021-march.md#12)|18. März|
-|Funktionen|[Power BI Premium-Angebot und Update für erforderliche Komponenten](2021-march.md#11)|18. März|
-|Angebote/Märkte|[Preisaktualisierungen für Microsoft 365 F3](2021-march.md#10)|16. März|
+|Angebote/Märkte|[Korrekturen an der Preisliste für unbefristete Software vom 1. März 2021](2021-march.md#14)|23. März|
+|Funktionen|[SDK-Release für .NET Standard (v1.17.0)](2021-march.md#13)|23. März|
+|Funktionen|[Angebot im kommerziellen CSP-Marketplace und CSP-Incentives im Geschäftsjahr 2021 für berechtigte Angebote](2021-march.md#12)|18. März|
+|Funktionen|[Aktualisierung der Benennung und erforderlichen Komponenten für Power BI Premium-Angebote](2021-march.md#11)|18. März|
+|Angebote/Märkte|[Aktualisierung der Preise im März für Microsoft 365 F3](2021-march.md#10)|16. März|
 |Fördern von Effizienz und Skalierung|[Aktualisieren eines rechtlichen Firmennamens über Partner Center](2021-march.md#9)|16. März|
 |Funktionen|[Neuerungen bei der Weiterentwicklung des CSP-Programms (Cloud Solution Provider) und Änderungen des Open License-Programms](2021-march.md#8)|15. März|
 |Umsatzsteigerung|[Aktualisierung einer früheren Ankündigung: Premiumbewertungen, ein Add-On für Compliance Manager](2021-march.md#7)|15. März|

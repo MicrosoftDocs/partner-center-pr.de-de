@@ -1,7 +1,7 @@
 ---
 title: Verwalten des Partner Center-Kontos
 ms.topic: conceptual
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie mithilfe von Partner Center das Profil, Bankdetails und Steuerinformationen, Rollen, Berechtigungen und weitere Angaben zu Ihrem Unternehmen verwalten.
@@ -9,19 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
-ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
+ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103487001"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712845"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Verwalten Ihres Partner Center-Kontos – Unternehmensprofil, Bankdetails, Rollen, Berechtigungen und mehr
 
 **Geeignete Rollen**: globaler Administrator
 - MPN-Kontoadministrator
 
-Das Konto, das Sie bei der Registrierung im Partner Center erstellen, besteht aus Ihrer geschäftlichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem Sie ein Konto erstellt haben, müssen Sie die Einrichtung des vollständigen Unternehmensprofils abschließen (einschließlich Supportinformationen, ggf. Steuerbefreiungen und Angaben zum Hauptansprechpartner). Das Unternehmenskonto umfasst außerdem Benutzerkonten für alle Personen, die Partner Center zum Hinzufügen oder Verwalten von Kunden, zum Verkaufen von Abonnements, zur Abrechnung und Fakturierung, zum Erstellen von Unternehmensprofilen, zum Verwalten von Empfehlungen, zum Arbeiten mit Incentives-Programmen und zum Bereitstellen von Support nutzen.
+Das Konto, das Sie bei der Registrierung im Partner Center erstellen, besteht aus Ihrer geschäftlichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem Sie ein Konto erstellt haben, müssen Sie die Einrichtung des vollständigen Unternehmensprofils abschließen (einschließlich Supportinformationen, ggf. Steuerbefreiungen und Angaben zum Hauptansprechpartner). Das Konto Ihres Unternehmens enthält auch Benutzerkonten für alle Personen in Ihrem Team, die Partner Center verwenden. Zu deren Aufgaben zählen u. a. das Hinzufügen oder Verwalten von Kunden, das Verkaufen von Abonnements, das Arbeiten mit Abrechnung und Fakturierung, das Erstellen von Geschäftsprofilen, das Verwalten von Empfehlungen, das Arbeiten mit Incentiveprogrammen, das Bereitstellen von Support usw.
 
 Weitere Informationen finden Sie auch in den Artikeln [Einladen von Mitarbeitern in das Partner Center](guide-to-migration.md) und [Hinzufügen eines neuen Benutzer](create-user-accounts-and-set-permissions.md).
 
@@ -30,7 +30,7 @@ Weitere Informationen finden Sie auch in den Artikeln [Einladen von Mitarbeitern
 
 ## <a name="account-management"></a>Kontenverwaltung
 
-Um auf die Kontenverwaltung in Partner Center für alle Partner (kommerziell und Entwickler) zuzugreifen, melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an. Wählen Sie anschließend die Option **Einstellungen** (das Zahnradsymbol) in der oberen rechten Ecke des Bildschirms und dann **Kontoeinstellungen** aus. Sie müssen nicht mehr zwischen Partner- und Entwicklereinstellungen wählen, da alle Profile und Einstellungen nun kombiniert sind.
+Alle kommerziellen und Entwicklungspartner greifen auf die **Kontoverwaltung** in Partner Center zu, indem sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) anmelden und dann die Option **Einstellungen** (das Zahnradsymbol) in der oberen rechten Ecke des Bildschirms und anschließend **Kontoeinstellungen** auswählen. Sie müssen nicht mehr zwischen Partner- und Entwicklereinstellungen wählen. Alle Profile und Einstellungen sind nun kombiniert.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="Symbol „Einstellungen“":::
 
@@ -50,13 +50,13 @@ Wenn Sie das Symbol **Einstellungen** auswählen und das Menü **Kontoeinstellun
 
 Auf der Registerkarte „Partner“ werden alle offiziellen Geschäftsinformationen, z. B. der registrierte rechtliche Name und die Adresse für Ihr Unternehmen, sowie der Hauptansprechpartner und die Geschäftsstandorte angezeigt. Die Registerkarte „Wiederverkäufer“ für Partner, die CSP-Geschäfte tätigen, umfasst das **Kundensupportprofil**.
 
-Wenn Ihr Unternehmen nicht an CSP teilnimmt, wird in der Standardansicht nur die Registerkarte **Partner** angezeigt, die das **Kundensupportprofil** enthält.
+Wenn Ihr Unternehmen nicht am CSP-Programm teilnimmt, wird in der Standardansicht nur die Registerkarte **Partner** angezeigt, die das **Kundensupportprofil** enthält.
 
 ### <a name="when-you-are-in-more-than-one-account"></a>Vorhandensein mehrerer Konten
 
 Sie können mehr als einem Konto angehören. Wenn im linken Navigationsmenü die „Kontoauswahl“ angezeigt wird, können Sie überprüfen, ob Sie mehreren Konten angehören.
 
-:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Erkennen der Kontoauswahl":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Erkennen der Kontoauswahl":::
 
 Wenn die Kontoauswahl nicht angezeigt wird, gehören Sie nur einem Konto an. 
 
@@ -64,7 +64,7 @@ Wenn Sie auf diese Auswahl klicken, werden alle Konten, denen Sie angehören, in
 
 Im folgenden Beispiel gehört der angemeldete Benutzer den drei hervorgehobenen Konten an. Der Benutzer kann durch Klicken zwischen den einzelnen Konten wechseln.
 
-:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="Konten, denen Sie angehören":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Konten, denen Sie angehören":::
 
 ## <a name="organization-profile"></a>Organisationsprofil
 
@@ -74,11 +74,17 @@ Auf diesen Seiten können Sie detaillierte Bereiche Ihres Unternehmens verwalten
 
 ### <a name="legal-info"></a>Rechtliche Hinweise
 
-Wenn Sie Partner Center zum ersten Mal beitreten, durchläuft Ihr Unternehmen einen Überprüfungsprozess bei Microsoft. Sie können den Status Ihrer Überprüfung auf der Seite **Rechtliche Hinweise** verfolgen. Hier werden der Hauptansprechpartner (mit dem Microsoft bei Fragen zum Partner Kontakt aufnimmt) und der Hauptansprechpartner in rechtlichen Fragen (die Person, die Ihre rechtlichen Informationen und den Status verwaltet) angezeigt. Hier sind alle Geschäftsstandorte Ihres Unternehmens aufgeführt, und es können weitere hinzugefügt werden.
+Wenn Sie Partner Center zum ersten Mal beitreten, durchläuft Ihr Unternehmen einen Überprüfungsprozess bei Microsoft. Sie können den Status Ihrer Überprüfung auf der Seite **Rechtliche Hinweise** verfolgen. Hier werden der Hauptansprechpartner (mit dem Microsoft bei Fragen zum Partner Kontakt aufnimmt) und der Hauptansprechpartner in rechtlichen Fragen (die Person, die Ihre rechtlichen Informationen und den Status verwaltet) angezeigt. Hier sind alle Geschäftsstandorte Ihres Unternehmens aufgeführt, und es können weitere hinzugefügt werden. 
+
+### <a name="provide-your-companys-legal-business-details"></a>Angeben der offiziellen Geschäftsdetails Ihres Unternehmens
+
+Sie können entweder Ihr Unternehmensprofil suchen oder Unternehmensinformationen manuell eingeben. Wenn Ihr Unternehmen bei [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) registriert ist, verwenden Sie die DUNS-ID, um nach Ihren Unternehmensinformationen zu suchen. Wenn Sie die Unternehmensdetails selbst bereitstellen möchten, wählen Sie **Manuell** aus.
+
+Wenn sich Ihr Unternehmen in **Armenien**, **Ungarn**, **Kirgisistan**, **Moldawien**, **Usbekistan** oder **Russland** befindet und Sie Ihre Adresse manuell eingeben, prüfen wir die Adresse für Sie. Wenn die von Ihnen eingegebene Adresse von der überprüften abweicht, wird empfohlen, die überprüfte Adresse zu verwenden. Durch die Überprüfung wird sichergestellt, dass die Adresse sowohl richtig als auch für den Versand geeignet ist.
 
 ### <a name="primary-contact-email"></a>E-Mail-Adresse des Hauptansprechpartners
 
-Die E-Mail-Adresse des Hauptansprechpartners wird verwendet, um Sie bezüglich der Überprüfung Ihres Kontos zu benachrichtigen. Es ist sehr wichtig, dass die für den Hauptansprechpartner bereitgestellte E-Mail-Adresse regelmäßig verwaltet und überwacht wird.  
+Die E-Mail-Adresse des Hauptansprechpartners wird verwendet, um Sie bezüglich der Überprüfung Ihres Kontos zu benachrichtigen. Es ist wichtig, dass die für den Hauptansprechpartner bereitgestellte E-Mail-Adresse regelmäßig verwaltet und überwacht wird.  
 
 Erfahren Sie mehr über die [Überprüfung und Ihre Kontoinformationen](verification-responses.md).
 

@@ -1,7 +1,7 @@
 ---
 title: Erstellen eines MPN-Kontos im Partner Center
 ms.topic: article
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Mitglieder im Microsoft Partner Network ein Partner Center-Konto erstellen können, um ihre Netzwerkvorteile und Kompetenzen zu verwalten.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570208"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712918"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Erstellen eines MPN-Kontos im Partner Center zum Verwalten von Netzwerkvorteilen und Kompetenzen
 
@@ -43,11 +43,11 @@ Wenn Sie ein Konto im Partner Center erstellen möchten, müssen Sie die folgend
 1. Beginnen Sie auf der Seite [**Erste Schritte**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) mit Ihrer geschäftlichen E-Mail-Adresse, die Sie von Ihrem Unternehmen erhalten haben (z. B. you@yourcompanyname.com).
 
  
-    a.  Die E-Mail-Adresse muss gültig und für Sie zugänglich sein, da wir einen Überprüfungscode senden, um den Vorgang fortzusetzen.
+    a.  Die E-Mail-Adresse muss gültig und für Sie zugänglich sein, da wir einen Überprüfungscode an diese E-Mail-Adresse senden, um den Vorgang fortzusetzen.
 
-    b.  Die E-Mail-Adresse darf keine Wörter wie „info“, „admin“, „email@..“ oder „marketing@...“ enthalten, da diese nicht unterstützt werden.
+    b.  Die E-Mail-Adresse darf keine Wörter wie „info“, „admin“, „email@.“ oder „marketing@...“ enthalten. Diese Adressformate werden nicht unterstützt.
 
-    c.  Um MAPS zu erwerben oder Kompetenzen zu verwalten, müssen Sie ein Upgrade für dieses Konto durchführen, indem Sie Ihre Domäne überprüfen und zum Administrator werden. 
+    c.  Zum Erwerb von MAPS und zur Verwaltung von Kompetenzen müssen Sie ein Kontoupgrade durchführen. Hierzu müssen Sie [Ihre Domäne überprüfen](become-global-admin.md) und Administrator werden. 
 
 2. Sie können sich mit Ihrem Office 365-Geschäftskonto anmelden, z. B. you@contoso.onmicrosoft.com.
 
@@ -58,8 +58,11 @@ Wenn Sie ein Konto im Partner Center erstellen möchten, müssen Sie die folgend
 
 Sie können entweder Ihr Unternehmensprofil suchen oder Unternehmensinformationen manuell eingeben. Wenn Ihr Unternehmen bei [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) registriert ist, verwenden Sie die DUNS-ID, um nach Ihren Unternehmensinformationen zu suchen. Wenn Sie die Unternehmensdetails selbst bereitstellen möchten, wählen Sie **Manuell** aus.
 
-Nachdem Sie die Unternehmensinformationen bereitgestellt haben, geben Sie Informationen zum Hauptansprechpartner ein, und wählen Sie dann **Jetzt registrieren** aus.
-Der Hauptansprechpartner muss eine Person in Ihrem Unternehmen sein, die wir im Zusammenhang mit Ihrer Bewerbung kontaktieren können (entweder Sie selbst oder eine andere Person in Ihrem Unternehmen).
+Wenn sich Ihr Unternehmen in **Armenien**, **Ungarn**, **Kirgisistan**, **Moldawien**, **Usbekistan** oder **Russland** befindet und Sie Ihre Adresse manuell eingeben, prüfen wir die Adresse für Sie. Wenn die von Ihnen eingegebene Adresse von der überprüften abweicht, wird empfohlen, die überprüfte Adresse zu verwenden. Dadurch wird sichergestellt, dass die Elemente der Adresse den von der Postbehörde des Landes definierten Standards entsprechen, ordnungsgemäß formatiert sind und für den Versand geeignet sind.  
+
+Nachdem Sie die Unternehmensinformationen eingegeben haben, geben Sie Informationen zum Hauptansprechpartner ein. Der Hauptansprechpartner muss eine Person in Ihrem Unternehmen sein, die wir im Zusammenhang mit Ihrer Bewerbung kontaktieren können (bei diesem Ansprechpartner kann es sich um Sie selbst oder eine andere Person in Ihrem Unternehmen handeln).
+
+4. Wählen Sie **Jetzt registrieren** aus.
 
 >[!IMPORTANT]
 >Aus Sicherheits- und Datenschutzgründen senden wir eine E-Mail an Ihren Hauptansprechpartner, um die E-Mail-Adresse zu überprüfen und sicherzustellen, dass die E-Mail-Adresse zu Ihrem Unternehmen gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung der von Ihnen bereitgestellten Informationen fort. Die Überprüfung dauert normalerweise drei bis fünf Werktage. 
@@ -75,14 +78,14 @@ Sie können auch andere wichtige Informationen wie MPN-IDs anzeigen, MPN-Standor
 
 ## <a name="next-steps"></a>Nächste Schritte
 
--   [Erstellen von Benutzerkonten und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
+-  [Erstellen von Benutzerkonten und Zuweisen von Berechtigungen](create-user-accounts-and-set-permissions.md)
 
--   [Erstmaliges Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements](mpn-get-action-pack.md)
+-  [Erstmaliges Erwerben oder Verlängern eines Microsoft Action Pack-Abonnements](mpn-get-action-pack.md)
 
--   [Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile](manage-your-partner-network-benefits.md)
+-  [Verwalten der Microsoft Partner Network-Mitgliedschaftsvorteile](manage-your-partner-network-benefits.md)
 
--   [Erfahren Sie mehr über die Kompetenzanforderungen für die Silber- und Gold-Mitgliedschaft.](https://partner.microsoft.com/membership/competencies)
+-  [Erfahren Sie mehr über die Kompetenzanforderungen für die Silber- und Gold-Mitgliedschaft.](https://partner.microsoft.com/membership/competencies)
 
--   [Erstellen Sie ein Unternehmensprofil, um Vertriebsleads von Microsoft zu erhalten.](create-a-marketing-profile.md)
+-  [Erstellen Sie ein Unternehmensprofil, um Vertriebsleads von Microsoft zu erhalten.](create-a-marketing-profile.md)
 
--   [Erhalten und Verwalten von Vertriebsleads von Microsoft](manage-leads.md)
+-  [Erhalten und Verwalten von Vertriebsleads von Microsoft](manage-leads.md)

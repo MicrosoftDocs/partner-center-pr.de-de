@@ -8,33 +8,29 @@ description: Fordern Sie eine Beziehung mit einem Kunden für Multi-Channel-Szen
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 26f39943ecc06f70b0194f1e892c4cfa218f5ee9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007414"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548970"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Anfordern einer Handelspartnerbeziehung von einem Kunden in Partner Center
 
-**Zielgruppe**
-
-- Partner Center
-
 Wenn Sie den Dienst oder das Abonnement eines Kunden in seinem Namen verwalten möchten, müssen Sie dem Kunden Administrator Berechtigungen für diesen Dienst oder das Abonnement erteilen und den Microsoft-Kundenvertrag signieren.
 
-Wenn Sie eine Vertriebspartnerschaft mit einem Kunden aufbauen und nur die von Ihnen bereitgestellten Azure-Abonnements verwalten möchten, ist es nicht erforderlich, Administratorrechte zu erhalten.
+Wenn Sie eine Reseller-Beziehung mit einem Kunden herstellen und nur die von Ihnen bereitgestellten Azure-Abonnements verwalten möchten, müssen Sie keine Administrator Berechtigungen erwerben.
 
 >[!NOTE] 
 >Die Option zum Anfordern von Berechtigungen ist nicht für Partner verfügbar, die Microsoft Cloud für die US-Regierung oder Microsoft Cloud Deutschland betreiben. Weitere Informationen finden Sie unter [Kunden delegieren Administratorrechte an Partner](customers-revoke-admin-privileges.md).
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden zur Einrichtung einer Vertriebspartnerschaft mit Ihnen
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Einladen eines Kunden, eine Vertriebspartnerschaft mit Ihnen einzugehen
 
 Sie können eine Reseller-Beziehung mit einem Kunden aus Ihrem Land oder aus derselben Region anfordern.
 
 1. Wählen Sie im **Partner Center**-Menü die Option **Kunden** und anschließend **Vertriebspartnerschaft beantragen** aus.
 
-2. Um Administrator Berechtigungen für diesen Kunden anzufordern, wählen Sie **Delegierte Administratorrechte für Azure Active Directory und Office 365 einschließen**aus. Deaktivieren Sie diese Option, um die Beziehung ohne Anforderung von Administratorberechtigungen herzustellen.
+2. Um Administrator Berechtigungen für diesen Kunden anzufordern, wählen Sie **Delegierte Administratorrechte für Azure Active Directory und Office 365 einschließen** aus. Deaktivieren Sie diese Option, um die Beziehung ohne Anforderung von Administratorberechtigungen herzustellen.
 
 3. Überprüfen Sie auf der nächsten Seite den Entwurf der E-Mail. Sie können den Entwurf der Nachricht in Ihrer Standardanwendung für E-Mails öffnen oder in die Zwischenablage kopieren und in eine E-Mail einfügen.
 

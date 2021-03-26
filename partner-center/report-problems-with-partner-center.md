@@ -9,23 +9,24 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582035"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549174"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Anfragen und Diagnosetool des Partner Center-Portals
 
 **Zielgruppe**
 
-- Partner Center
-- Partner Center für Microsoft Cloud for US Government
+- Partner Center für Microsoft Government Cloud
 
 **Geeignete Rollen**
 
-Alle angemeldeten Partner Center-Benutzer können Partner Supportanfragen erstellen. Benutzer können nur Supportanfragen anzeigen, die Sie nach der Anmeldung beim Partner Center übermittelt haben.
+- Alle Partner, die an Partner Center interessiert sind
+
+Alle angemeldeten Partner Center-Benutzer können eine Partner Supportanfrage erstellen. Benutzer können nur Supportanfragen anzeigen, die Sie nach der Anmeldung beim Partner Center übermittelt haben.
 Wenden Sie sich an den Partner Center-Support, wenn Sie Probleme finden oder Hilfe bei den Fehlern im Partner Center-Portal Senden Sie Diagnoseinformationen, damit das Problem schneller behoben werden kann.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Melden eines Problems mit Partner Center
@@ -77,7 +78,7 @@ Wenn ein Fehler auftritt, während Sie sich auf einer Partner Center-Seite befin
 
 Sie erhalten eine Vorschau der Diagnoseinformationen und können diese auf eine Datei speichern, die Sie der Anfrage hinzufügen können. So senden Sie uns die Informationen:
 
-3. Überprüfen Sie vor dem Senden die Informationen in der Datei, da sie persönlich identifizierbare Informationen enthalten können, die Sie entfernen möchten.
+3. Überprüfen Sie die Informationen in der Datei, bevor Sie Sie senden, da Sie personenbezogene Daten enthalten kann, die Sie möglicherweise entfernen möchten.
 
     >[!NOTE]
     >In einigen Browsern wird der Abschnitt **Seitenansicht** am unteren Rand der Seite **Vorschau** möglicherweise leer angezeigt. Dies ist in Ordnung.

@@ -3,23 +3,24 @@ title: Gebührenarten für Abstimmungsdateien
 ms.topic: article
 ms.date: 06/05/2020
 description: Ermitteln Sie die Arten von Gebühren (z. b. Lizenz basiert, Nutzungs basiert und einmalig), Gutschriften und Rabatte in Partner Center-Abstimmungs Dateien.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
-ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
+ms.openlocfilehash: ba42ac5beb28a3cf819c54a86385fb79853cdcd0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87479113"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549225"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Informationen zu den verschiedenen Lade Typen in Partner Center-Abstimmungs Dateien
 
 **Zielgruppe**
 
-- Partner Center
-- Partner Center für Microsoft Cloud for US Government
+- Partner Center für Microsoft Government Cloud
 
 **Geeignete Rollen**
 
@@ -27,7 +28,7 @@ ms.locfileid: "87479113"
 - Abrechnungsadministrator
 - Globaler Administrator
 
-In diesem Thema werden die Zuordnungen zwischen einem Rechnungs Abschnitt und den zugehörigen Abrechnungs Typen beschrieben, die möglicherweise in der Abstimmungs Datei liegen. Ihre Rechnung enthält eine Zusammenfassung der Gebühren. Die Abstimmungs Datei bietet eine detaillierte Aufschlüsselung der Zeilen Element Transaktionen, einschließlich der Lade Typen. Weitere Informationen zum Abgleich von Dateien finden [Sie unter Verwenden](use-the-reconciliation-files.md)von Abstimmungs Dateien.
+In diesem Artikel werden die Zuordnungen zwischen einem Rechnungs Abschnitt und den zugehörigen Abrechnungs Typen beschrieben, die sich möglicherweise in der Abstimmungs Datei befinden. Ihre Rechnung enthält eine Zusammenfassung der Gebühren. Die Abstimmungs Datei bietet eine detaillierte Aufschlüsselung der Zeilen Element Transaktionen, einschließlich der Lade Typen. Weitere Informationen zum Abgleich von Dateien finden [Sie unter Verwenden](use-the-reconciliation-files.md)von Abstimmungs Dateien.
 
 Sowohl [nutzungsbasierte ababstimmungs Dateien](usage-based-recon-files.md) als auch [Lizenz basierte ababstimmungs Dateien](license-based-recon-files.md) zeigen nur nutzungsbezogene Transaktionen und Gebühren an (genutzte Einheiten und zugehörige Gebühren).
 
@@ -78,7 +79,7 @@ Um diese Nutzungsgebühren Ihrer Rechnung zuzuordnen, addieren Sie die Spalte **
 | Nutzungsgebühr beim Stornieren bewerten | Zugriffsnutzungsgebühr bei Abbruch für eine nicht bezahlte Nutzung im aktuellen Abrechnungszeitraum. |
 | Nutzungsgebühr für den aktuellen Zyklus bewerten | Zugriffsnutzungsgebühr für den aktuellen Abrechnungszeitraum. |
 
-### <a name="credits"></a>Guthaben
+### <a name="credits"></a>Mitwirkende
 
 So ordnen Sie diese Gutschriften Ihrer Rechnung zu:
 

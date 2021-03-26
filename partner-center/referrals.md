@@ -9,18 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf832377cdaa6a680fef3ea3c2535f20a3ad65e1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 391768b14473c3cbdaf5049007c36bbf28dd1167
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999134"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549208"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Steigerung des Umsatzes mit Empfehlungen von Microsoft
-
-**Zielgruppe**
-
-- Partner Center
 
 Viele Kunden suchen nach qualifizierten Experten, die sie bei der Implementierung von Microsoft-Technologien und -Lösungen unterstützen. Microsoft erhält häufig direkte Supportanfragen von Kunden über unsere Marketingaktivitäten und von unseren internen Microsoft-Vertriebsmitarbeitern. Kunden nutzen darüber hinaus die Funktion [**Lösungsanbieter suchen**](https://www.microsoft.com/solution-providers/search), um Unternehmen zu finden, die sie bei der Erfüllung ihrer Unternehmensanforderungen unterstützen können. 
 

@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756435"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549055"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Melden eines Dienst Problems im Namen eines Kunden, einschließlich des Zeit-und Vorgehensweise
 
 **Zielgruppe**
 
-- Partner Center
-- Partner Center für Microsoft Cloud for US Government
+- Partner Center für Microsoft Government Cloud
 
 **Geeignete Rollen**
 
@@ -104,7 +103,7 @@ So finden Sie Kontaktdaten des ISV:
 
 ## <a name="faq"></a>Häufig gestellte Fragen
 
-Im folgenden finden Sie häufig gestellte Fragen zu Dienst Anforderungen, die Sie im Auftrag eines Kunden einreichen können. 
+In den folgenden häufig gestellten Fragen zu Service Requests, die Sie im Auftrag eines Kunden einreichen können, finden Sie weitere Informationen. 
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Was ist Bestandteil des Supportanspruchs?
 
@@ -120,8 +119,8 @@ Unsere Reaktionszeiten hängen vom Schweregrad des übermittelten Ereignisses ab
 
 Anfängliche Reaktionszeiten für **technische Fehlerbehebung**:
 
-- Kritische Auswirkungen (Schweregrad A): 2 Stunden (Erhebliche Ausfälle oder Beeinträchtigungen in Bezug auf Dienste. Ausfall der Produktionssdienste.)
-- Moderate Auswirkung (Schweregrad B): vier Stunden (mittlerer Verlust oder Verschlechterung der Dienste. Die Produktions Dienste sind teilweise betroffen.)
+- Kritische Auswirkung (Schweregrad A): zwei Stunden (erheblicher Verlust oder eine Beeinträchtigung der Dienste). Ausfall der Produktionssdienste.)
+- Moderate Auswirkung (Schweregrad B): vier Stunden (mittlerer Verlust oder Minderung der Dienste. Die Produktions Dienste sind teilweise betroffen.)
 - Minimale Auswirkung (Schweregrad C): acht Stunden (minimaler Verlust oder Verschlechterung der Dienste. Dienste sind weiterhin verfügbar oder nicht-Produktions Dienste betroffen.)
 
 Die anfänglichen Reaktionszeiten gelten nur für englischsprachigen Support. Support in der Landessprache steht nur während der Geschäftszeiten zur Verfügung.

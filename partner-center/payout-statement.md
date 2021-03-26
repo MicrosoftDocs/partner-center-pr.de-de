@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 3/2/2021
-ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 3/22/2021
+ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185348"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549242"
 ---
 # <a name="payout-statements"></a>Auszahlungsauszüge
 
@@ -47,7 +47,7 @@ Melden Sie sich bei [Partner Center](https://partner.microsoft.com/dashboard/hom
 
 - Transaktionsverlauf
 - Zahlungen
-- Daten exportieren
+- Exportieren von Daten
 
 :::image type="content" source="images/payouts/payout-overview.png" alt-text="Veranschaulicht das Auszahlungs Symbol in der oberen rechten Ecke des Partner Center-Portals.":::
 
@@ -169,7 +169,7 @@ Klicken Sie oben auf der Seite auf " **herunterladen** ", um weitere Details zu 
 | participantName | Name des Partners, der die Einnahme erzielt | All |
 | partnerCountryCode | Standort/Land/Region des Partners, der die Einnahme erzielt | All |
 | partNumber | Ist immer leer | Einige Incentive-Programme und-Markt Orte |
-| paymentId | Eindeutige ID für die Zahlung. Diese Nummer ist normalerweise auf Ihrem Kontoauszug zu sehen | Nur SAP-Zahlungen |
+| paymentId | Eindeutiger Bezeichner zum Korrelieren aller Transaktionen im Transaktions Bericht mit einer bestimmten Zahlung im Zahlungs Bericht | All |
 | paymentStatus | Zahlungsstatus | All |
 | paymentStatusDescription | Benutzerfreundliche Beschreibung des Zahlungsstatus | All |
 | productId | Eindeutige Produkt-ID | marketplaces |
@@ -297,7 +297,7 @@ In der folgenden Tabelle werden die verschiedenen Erwerbsstatus erläutert.
 | paymentDate | Datum, an dem die Zahlung von Microsoft gesendet wurde |
 |
 
-## <a name="export-data"></a>Daten exportieren
+## <a name="export-data"></a>Exportieren von Daten
 
 Die Seite " **Daten exportieren** " wird nicht eigenständig aktualisiert. Möglicherweise müssen Sie die Seite manuell aktualisieren, um die neuesten Daten anzuzeigen. Wählen Sie aus den drei Registerkarten aus, um entweder **Transaktionsverlauf**, **Zahlungen**, **Transaktions Zusammenfassung** oder Verlaufs **Anweisung** zu exportieren.
 

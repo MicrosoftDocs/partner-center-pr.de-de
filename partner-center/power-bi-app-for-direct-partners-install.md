@@ -10,25 +10,27 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 754b3310918df9b38129cf1374ae3731d9d8062e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: ad0c2f3ee7d130c49dea6ba354e6794e29fd9e9f
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215848"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633691"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Installation und Vorschauversion der Partner Center Analytics-App für Microsoft Power BI
 
 
 **Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   Vertriebsbeauftragter
--   Administrator-Agent
 
-## <a name="before-you-begin"></a>Vorbereitungen
+- Globaler Administrator
+- Benutzerverwaltungsadministrator
+- Vertriebsbeauftragter
+- Administrator-Agent
+
+## <a name="before-you-begin"></a>Voraussetzungen
 
 Wählen Sie in der folgenden Liste verfügbarer Power BI-Apps die Anwendung aus, die für Ihr Unternehmen am relevantesten ist:
+
 - [Direkter Anbieter](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
 - [Indirekter Anbieter](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
@@ -49,25 +51,25 @@ Bevor Sie die Vorschauversion der Partner Center Analytics-App installieren, ste
 
 ## <a name="to-install-the-app"></a>So installieren Sie die App
 
-1. Klicken Sie im obigen Abschnitt auf den entsprechenden Link für die APP-Quelle (direkter Anbieter/indirekter Anbieter/indirekter Reseller).
+1. Wählen Sie den entsprechenden Link für die APP-Quelle (direkter Anbieter/indirekter Anbieter/indirekter Reseller) im obigen Abschnitt aus.
 
-2. Klicken Sie auf **jetzt starten**. 
+2. Wählen Sie **Jetzt herunterladen** aus. 
 
-3. Stimmen Sie den Bedingungen zu, indem Sie auf **weiter** klicken.
+3. Stimmen Sie den Nutzungsbedingungen zu, indem Sie **weiter** auswählen.
 
 4. Wählen Sie unter Sie haben bereits ein Konto?**Anmelden** aus.
 
-5. Geben Sie auf der nächsten Seite den Benutzernamen und das Kennwort für Power BI und wählen Sie dann Anmelden aus.
+5. Geben Sie auf der nächsten Seite den Benutzernamen und das Kennwort für Power BI und wählen Sie dann **Anmelden** aus.
 
 6. Installieren Sie den Arbeitsbereich, indem Sie den Arbeitsbereichs Namen angeben.
 
 7. Sie finden die Vorlagen-apps, die im Abschnitt "Apps" installiert sind.
 
-8. Klicken Sie auf apps, und wählen Sie die installierten Apps aus.
+8. Wählen Sie **apps** aus, und wählen Sie die installierten apps.
 
 9. Die ersten Schritte mit dem Bildschirm "neue App" werden geöffnet.
 
-10. Zum Herstellen einer Verbindung mit den Daten klicken Sie auf **verbinden**.
+10. Wählen Sie zum Herstellen einer Verbindung mit den Daten **verbinden** aus.
 
 11. Überprüfen Sie im Popup Fenster **Verbindung mit Partner Center-Analyse herstellen** , ob die **Authentifizierungsmethode** auf **oAuth2** festgelegt ist, oder wählen Sie **oAuth2** in der Liste aus, wenn dies nicht der Fall ist. 
 

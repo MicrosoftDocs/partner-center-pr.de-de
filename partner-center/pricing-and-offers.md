@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281290"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633759"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preise und Angebote für Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure und mehr
 
@@ -22,7 +22,7 @@ ms.locfileid: "100281290"
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - Administrator-Agent
 - MPN-Partneradministrator
 - Vertriebsbeauftragter
@@ -30,7 +30,7 @@ ms.locfileid: "100281290"
 
 Um die neuesten Programme und Angebote für Cloud Solution Provider anzuzeigen, wechseln Sie im Partner Portal zu **verkaufen > Preise und Angebote**. Für die verschiedenen verfügbaren Produkttypen finden Sie separate Preislisten. Die folgenden Preislisten sind auf der Seite " **Preise und Angebote** " verfügbar:
 
-- **Lizenz basierte Dienste** enthalten Preisinformationen für Office 365, Enterprise Mobility und Security E3 sowie und Dynamics 365. Der Abschnitt Lizenz basierte Preise umfasst die aktuellen und Vorschau Preise sowie die Angebots Listen Matrix. Preislisten enthalten den Listenpreis und geschätzte Einzelhandelspreise (ERP) für Angebote in allen unterstützten Währungen. Die Angebots Listen Matrix enthält Marktverfügbarkeit und andere wichtige Informationen zu den angeboten. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
+- **Lizenz basierte Dienste** beinhalten Preisinformationen für Office 365, Enterprise Mobility und Security E3 sowie und Dynamics 365. Der Abschnitt Lizenz basierte Preise umfasst die aktuellen und Vorschau Preise sowie die Angebots Listen Matrix. Preislisten enthalten den Listenpreis und geschätzte Einzelhandelspreise (ERP) für Angebote in allen unterstützten Währungen. Die Angebots Listen Matrix enthält Marktverfügbarkeit und andere wichtige Informationen zu den angeboten. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
 - **Nutzungsbasierte Dienste** enthalten Preisinformationen für Microsoft Azure und Visual Studio. Sie können außerdem den [Preisrechner für Azure Services im CSP](https://azure.microsoft.com/pricing/calculator/) verwenden. Der Verwendungs basierte Download umfasst sowohl die CSP-Preisliste für alle unterstützten Währungen als auch die Preis Dateien für gemeinsame Dienste in ERP. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
 - **Microsoft Azure reservierten Instanzen** enthält Preisinformationen für alle unterstützten Währungen für reservierte Azure-Instanzen. Der Preis Download umfasst auch die Preise für gemeinsame Dienste in ERP. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
 - **Software Abonnements** beinhalten Preise für Begriffs basierte Software Abonnements für alle unterstützten Währungen. Die Preis Datei enthält alle unterstützten Währungen mit dem Listenpreis und MSRP. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
@@ -95,7 +95,7 @@ Partner Ränder: der Unterschied zwischen dem Listenpreis und den geschätzten E
 
 ## <a name="add-on-offer-types"></a>Add-on-Angebots Typen
 
-Lizenz basierte Dienste können entweder als basisangebote oder als Add-ons erworben werden. Nur basisangebote können über den Partner Center-Katalog ermittelt und erworben werden. Add-ons müssen nach dem Erwerb der basisangebote angewendet werden. Die Spalte für den **sekundären Lizenztyp** der lizenzbasierten Preisliste enthält Informationen zu den einzelnen angeboten und deren Typ. Basisangebote verfügen über **nicht spezifische** Werte in der Spalte der sekundären Lizenztypen der Preisliste und können im Katalog erworben werden. Die Werte für den sekundären Lizenztyp des **Add-on** können nicht im Katalog erworben werden. So erwerben Sie diese Add-ons:
+Lizenz basierte Dienste können entweder als basisangebote oder als Add-ons erworben werden. Nur basisangebote können über den Partner Center-Katalog ermittelt und erworben werden. Sie müssen Add-ons nach dem Erwerb der basisangebote anwenden. Die Spalte für den **sekundären Lizenztyp** der lizenzbasierten Preisliste enthält Informationen zu den einzelnen angeboten und deren Typ. Basisangebote verfügen über **nicht spezifische** Werte in der Spalte der sekundären Lizenztypen der Preisliste und können im Katalog erworben werden. Die Werte für den sekundären Lizenztyp des **Add-on** können nicht im Katalog erworben werden. So erwerben Sie diese Add-ons:
 
 1. Sehen Sie sich die Angebots Listen Matrix an, um die Liste der Angebots-IDs anzuzeigen, die erworben werden müssen, bevor Sie ein Add-on erwerben können.
 2. Erwerben des Basis Angebots aus dem Katalog
@@ -143,9 +143,9 @@ Alle Preise in den Preislisten der Partner Center-CSP sind Tax inklusiv. Weitere
 
 ### <a name="36-month-offers"></a>36-monatige Angebote
 
-Es gibt ungefähr 50 Dynamics-Angebote mit drei Jahres Bedingungen. Diese werden im Titel der Angebote durch **(36 Mo)** identifiziert. Diese Angebote sind den jährlichen angeboten sehr ähnlich. Der einzige Unterschied besteht in Bezug auf den Begriff. Diese Angebote haben eine Laufzeit von drei Jahren, d. h., die Abonnements werden automatisch nach drei Jahren verlängert und nicht in einer. Im folgenden finden Sie eine Zusammenfassung der Funktionsweise dieser Angebote:
+Es gibt ungefähr 50 Dynamics-Angebote mit drei Jahres Bedingungen. Diese werden im Titel der Angebote durch **(36 Mo)** identifiziert. Diese Angebote ähneln den jährlichen angeboten. Der einzige Unterschied besteht in Bezug auf den Begriff. Diese Angebote haben eine Laufzeit von drei Jahren, sodass die Abonnements automatisch nach drei Jahren erneuert werden. Im folgenden finden Sie eine Zusammenfassung der Funktionsweise dieser Angebote:
 
-- Die Nutzungsbedingungen sind 36 Monate, die Abonnements werden nach drei Jahren automatisch verlängert.
+- Die Bestimmungen sind 36 Monate, Abonnements werden automatisch nach drei Jahren erneuert.
 - Partner können die Anzahl der Lizenzen während der Laufzeit des Abonnements abbrechen oder ändern.
 - Die jährliche Erneuerung erfolgt zum Preis der kaufzeit für die dreijährige Laufzeit.
 - Die Abrechnungs Häufigkeit beträgt immer noch jährlich oder monatlich.
@@ -154,7 +154,7 @@ Es gibt ungefähr 50 Dynamics-Angebote mit drei Jahres Bedingungen. Diese werden
 
 Das Basisangebot Microsoft 365 a1 hat eine Laufzeit von sechs Jahren.  Die Office 365 a1-Add-ons sind nach dem Erwerb dieses Basis Angebots verfügbar. 
 
-|**Angebotsname**   |**Angebots-ID**   |**Typ**|
+|**Angebotsname**   |**Angebots-ID**   |**Type**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Basisangebot|
 |Office 365 a1 für Lehrpersonal (für Gerät)|0757d14e-7c57-456F-8dab-47d164f2ff1f|Add-On|
@@ -162,8 +162,8 @@ Das Basisangebot Microsoft 365 a1 hat eine Laufzeit von sechs Jahren.  Die Offic
 
 Im folgenden finden Sie eine Zusammenfassung der Funktionsweise dieser Angebote:
 
-- Der Begriff ist 72 Monate oder 6 Jahre
-- Das Abonnement wird nicht erneuert und läuft nach 6 Jahren ab.
+- Der Begriff ist 72 Monate oder sechs Jahre
+- Das Abonnement wird nicht erneuert und läuft nach sechs Jahren ab.
 - Die Abrechnungs Häufigkeit für das Angebot wird als jährlich angezeigt, aber der Partner wird nach dem Erwerb des Abonnements vorab auf der ersten Rechnung abgerechnet.
 - Abonnements für 72-monatige-monatige Angebote sind nach dem Kauf gesperrt und können nicht abgebrochen werden, und die Anzahl der Lizenzen kann dem Abonnement nach dem ersten Kauf
 - Dieses Abonnement kann nicht abgebrochen werden und kann nicht zurückerstattet werden.

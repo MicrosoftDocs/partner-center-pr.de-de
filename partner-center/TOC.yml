@@ -167,13 +167,9 @@
     - name: Anweisungen zur Mandantenkonsolidierung für regionale CSP-Autorisierung
       href: csp-regional-authorization-tenant-consolidation.md
       displayName: 'regio, region, csp'
-    - name: Aktualisieren der Bestätigungsmethode für Zustimmung zur Microsoft-Kundenvereinbarung
-      href: confirm-consent.md
-    - name: Bestätigen der Zustimmung zur Microsoft-Kundenvereinbarung
+    - name: So bestätigen Sie die Zustimmung des Kunden zur Microsoft-Kundenvereinbarung
       href: confirm-customer-agreement.md
-      displayName: csp
-    - name: Wann muss die Zustimmung zur Kundenvereinbarung im Namen eines Kunden bestätigt werden?
-      href: attest-acceptance-customer-agreement.md
+      displayName: 'csp, agreement'
     - name: Bewerben für den Verkauf in nationalen Clouds
       href: csp-national-clouds-overview.md
       items:

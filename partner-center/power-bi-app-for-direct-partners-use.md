@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 244cb852728d47360cf8ecd1d1e9ccb641466b1d
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: f5bdb166562593b970f40c23921dc80b2a1cb8ad
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215746"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633861"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Ihre Geschäftsdaten mit der Partner Center Analytics-App für Microsoft Power BI anzeigen
 
@@ -24,7 +24,7 @@ ms.locfileid: "98215746"
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - Vertriebsbeauftragter
 - Administrator-Agent
 
@@ -48,7 +48,7 @@ Nutzen Sie eine visuelle Darstellung Ihrer Daten mit der Partner Center Analytic
 
 - Alle geschätzten Kosten werden vor Steuern/Abrechnungsdaten angezeigt und sind nicht rechtlich bindend. Die geschätzten Kosten dienen nur zu Informationszwecken.
 
-- Die Kundeninformationen basieren auf Abonnements. Alle Kunden, für die Sie vor Kurzem Konten erstellt haben, die jedoch noch kein Abonnement haben, sind nicht in den Werten enthalten.
+- Die Kundeninformationen basieren auf Abonnements. Alle Kunden, für die Sie vor kurzem ein Konto erstellt haben, aber noch keine Abonnements haben, sind nicht in Zählungen enthalten.
 
 - Die geschätzten Kosten basiert auf der aktuellen Gebührenkarte, die auf den CSP-Preisen basiert.
 

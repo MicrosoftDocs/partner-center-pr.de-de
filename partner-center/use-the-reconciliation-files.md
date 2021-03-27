@@ -1,7 +1,7 @@
 ---
 title: Verwenden der Abstimmungs Dateien
 ms.topic: article
-ms.date: 03/10/2021
+ms.date: 03/26/2021
 description: Erfahren Sie mehr über das Abgleichen von Dateien in Partner Center und über die Interpretation der detaillierten Zeilen Element Sichten für einen bestimmten Abrechnungszeitraum.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022773"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633895"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Erfahren Sie, wie Sie die Zeilen Elemente in Ihren Partner Center-Abstimmungs Dateien lesen.
 
@@ -56,6 +56,27 @@ Führen Sie die folgenden Schritte aus, um alle Formatierungs Probleme in den Ab
 
 Abstimmungs Dateien können sehr groß sein und werden manchmal nur schwer heruntergeladen. Informationen zum programmgesteuerten herunterladen von Abstimmungs Dateien finden Sie unter [Get Rechnungs Items](/partner-center/develop/get-invoiceline-items).
 
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Wenn die Datei das Zeilen Limit in Excel überschreitet
+
+Wenn Sie eine Abstimmungs Datei herunterladen, aber nicht in Microsoft Excel öffnen können, bedeutet dies wahrscheinlich, dass die Datei mehr Zeilen enthält, als in Excel zulässig sind. Wenn dies der Fall ist, können Sie eine der folgenden Prozeduren verwenden, um die Datei zu öffnen.
+
+### <a name="open-a-recon-file-in-power-bi"></a>Öffnen Sie eine Datei für die Wiederaufnahme in Power BI
+
+1. Laden Sie die Abstimmungs Datei wie gewohnt herunter.
+2. Laden Sie eine Instanz von Power BI herunter, installieren und öffnen Sie Sie.
+3. Wählen Sie auf der Registerkarte Power BI **Startseite** **Daten erhalten** aus.
+4. Wählen Sie in der Liste der **allgemeinen Datenquellen** die Option **Text/CSV** aus.
+5. Wenn Sie dazu aufgefordert werden, öffnen Sie Ihre Reconnaissance-Datei.
+
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Öffnen einer Datei "Reconnaissance" in einer Excel-Pivottabelle
+
+1. Laden Sie die Abstimmungs Datei wie gewohnt herunter.
+2. Öffnen Sie eine neue Datei in Microsoft Excel.
+3. Wählen Sie auf der Registerkarte **Daten** Daten **erhalten** aus, wählen Sie **aus Datei aus**, und wählen Sie dann **Text/CSV** aus.
+4. Wenn Sie dazu aufgefordert werden, öffnen Sie Ihre Reconnaissance-Datei. Ihre Daten werden angezeigt.
+5. Wählen Sie im Dropdown Menü **Laden** die Option **Laden in** aus, und klicken Sie dann auf **OK**.
+6. Wählen Sie im Dialogfeld **Daten importieren** die Option **pivotfähiger Bericht** aus, um die Datei zu öffnen.
+
 ## <a name="map-taxes-or-vat"></a>Map-Steuern oder Mehrwertsteuer
 
 So ordnen Sie der Rechnung Steuern oder Mehrwertsteuer (Tax) hinzu:
@@ -67,7 +88,7 @@ So ordnen Sie der Rechnung Steuern oder Mehrwertsteuer (Tax) hinzu:
 
 Partner im **indirekten Modell** können diese zusätzlichen Felder sowohl in lizenzbasierten als auch auf Verwendungs basierten Abstimmungs Dateien verwenden, um die Dateien vom Wiederverkäufer zu itemisieren.
 
-| MPN-ID | Beschreibung |
+| MPN-ID | BESCHREIBUNG |
 | ------ | ----------- |
 | MPN-ID | Der Microsoft Partner Network (MPN)-Bezeichner des CSP-Partners (Cloud Solution Provider) (direkt oder indirekt). |
 | [MPN-ID der Handelspartner](#reseller-mpn-id) | Der [MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement](#reseller-mpn-id). Dieses Feld entspricht der Wiederverkäufer-ID, die für das jeweilige Abonnement in Partner Center aufgeführt ist. Wird nur in den Abstimmungsdateien für Partner im indirekten Modell angezeigt. |

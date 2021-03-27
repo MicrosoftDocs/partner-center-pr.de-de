@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/22/2021
-ms.openlocfilehash: 669bf079b095cff1c7198aa63dc900453bbd745a
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: e2cba4baf497fb51ecd05c01f10e67632bb05c39
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880751"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549038"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,8 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 |**Kategorie**|**Ankündigungen für März 2021**|**Angekündigt**|
 |---------|:---------|:---------|
+|Angebote/Moderner Arbeitsplatz|[Microsoft Operations: Neuer Produkteinführungskalender](2021-march.md#16)|25. März|
+|Funktionen|[Änderungen der Anforderungen für das Onboarding von Kunden im CSP-Programm](2021-march.md#15)|25. März|
 |Angebote/Märkte|[Korrekturen an der Preisliste für unbefristete Software vom 1. März 2021](2021-march.md#14)|23. März|
 |Funktionen|[SDK-Release für .NET Standard (v1.17.0)](2021-march.md#13)|23. März|
 |Funktionen|[Angebot im kommerziellen CSP-Marketplace und CSP-Incentives im Geschäftsjahr 2021 für berechtigte Angebote](2021-march.md#12)|18. März|

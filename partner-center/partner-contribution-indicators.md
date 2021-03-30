@@ -1,7 +1,7 @@
 ---
 title: Partner Beitrags Indikatoren-CBA
 ms.topic: article
-ms.date: 03/11/2021
+ms.date: 03/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie mehr über sieben Partner Beitrags Indikatoren (PCI), die Partner zeigen, wie Sie eine Silver-oder Gold Cloud-Business Applications Kompetenz erreichen können.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.openlocfilehash: 8c050a14e258675369d8ff847c806192f44c7509
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193646"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730262"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Verwenden von Partner Beitrags Indikatoren zum Erreichen der Cloud-Business Applications Kompetenz
 
@@ -25,6 +25,8 @@ ms.locfileid: "103193646"
 - Kontoadministrator
 
 In diesem Artikel werden sieben wichtige Partner Beitrags Indikatoren (PCI) beschrieben, mit denen der Fortschritt eines Partners in Bezug auf das erreichen oder beibehalten einer Silver-oder Gold Cloud-Business Applications-Kompetenz bewertet wird
+
+Sie können den PCI-Status im Partner Beitrags Dashboard sehen. Die Daten werden am 20. jedes Monats mit Daten aus dem vorherigen Monat aktualisiert. Beispielsweise werden Februar-Daten am 20. März veröffentlicht.
 
 > [!NOTE]
 > Erfahren Sie, wie Partner einen anderen Satz von Partner-Beitrags Metriken verwenden können, um die Silver-oder Gold Small-und Mittel Market Cloud Solutions-Kompetenz durch die Cloud-Business Applications SMB-Option zu erzielen. Weitere Informationen finden Sie unter [Verwenden von Partner Beitrags Indikatoren für die IT-Kompetenz von kleinen und mittelständischen cloudlösungen](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md). Sie können auch [mehr](https://partner.microsoft.com/membership/competencies) über Kompetenzen und deren Anforderungen erfahren.
@@ -109,6 +111,20 @@ Die folgende Abbildung bietet einen schnellen visuellen Verweis.
 
 Jede PCI-Metrik weist von Microsoft festgelegte Schwellenwerte auf, mit denen dein Unternehmen die maximale Punktzahl erzielen kann. Diese Schwellenwerte unterscheiden sich hinsichtlich der Kundenbindung und der Finanz-und Vorgangs Pfade, mit denen die Cloud-Business Applications Kompetenz erreicht wird. Die Schwellenwerte unterscheiden sich auch für Partner, die in entwickelten Märkten arbeiten, und für Partner, die ausschließlich in der Entwicklung Die **entwickelte** oder **entwickelte** Markt Kategorisierung eines Landes basiert auf den [Microsoft Partner Network Definitionen](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).
 
+Beachten Sie, dass 4 Metriken basierend auf dem Speicherort gemessen werden, an dem der Partner geschäftlich tätig ist Dies bedeutet, dass ein Partner, der auf einem Entwicklungsmarkt registriert ist, der über Kunden von einem entwickelten Markt verfügt, das PCI-Ergebnis für entwickelte Länder erfüllen muss.
+
+Die folgende Tabelle zeigt, welcher Speicherort nach Metrik gilt.
+
+| Metrikname | Speicherort |
+|:-------|:--------|
+| Neuer Nettoumsatz | Kundenstandort |
+| NET Customer-Add | Kundenstandort |
+| Funktions Berater | Partnerstandort |
+| Entwickler | Partnerstandort |
+| Zuwachs Funktionsberater | Partnerstandort |
+| Mau-Wachstum | Kundenstandort |
+| Neue große Bereitstellungen | Kundenstandort |
+
 Die Punkte in den einzelnen Metriken werden so abgehandelt, dass Sie eine eindeutige PCI-Bewertung für Kunden Engagement und Finanzen und Vorgänge erzielen. Diese Bewertung wird monatlich aktualisiert.
 
 Partner können die maximale Punktzahl für eine Metrik erzielen, wenn sie die unten angegebenen Schwellenwerte erreichen oder übertreffen. Partielle Punkte können für alle Metriken erzielt werden, außer für das Wachstum des funktionalen Beraters.
@@ -160,7 +176,7 @@ Ein Partner wird zum cpor, wenn er mit einem Kunden auf der Abonnement Ebene üb
 Ein Partner wird dann zum DPOR, wenn eine Kundenbeziehung auf Abonnementebene innerhalb des Produkts eingegangen wurde.
 
 > [!NOTE]
-> Wenn für ein bestimmtes Kunden Abonnement sowohl cpor als auch dpor vorhanden sind, erhält der cpor eine Gutschrift für die relevanten PCI-Metriken, die diesem Abonnement zugeordnet sind. Wenn die Zuordnung über OSA erfolgte, erhält das cpor die Gutschrift für den Netto neuen Umsatz und den Netto Kunden hinzugefügt. Wenn die Zuordnung über OSU erfolgte, erhält das cpor die Gutschrift für neue bereit Stellungen und eine monatliche aktive Benutzer Vergrößerung.
+> Wenn für ein bestimmtes Kunden Abonnement sowohl cpor als auch dpor vorhanden sind, erhält der cpor eine Gutschrift für die relevanten PCI-Metriken, die diesem Abonnement zugeordnet sind. Wenn die Zuordnung über OSA (Umsatz Anspruch) erfolgte, erhält das cpor die Gutschrift für den Netto neuen Umsatz und den Netto Kunden hinzugefügt. Wenn die Zuordnung über OSU (nutzungsanspruch) erfolgte, erhält das cpor die Gutschrift für neue bereit Stellungen und eine monatliche aktive Benutzer Vergrößerung. Ansprüche vor dem Verkauf sind nicht für PCI geeignet.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Ausführliche PCI-metrikdefinitionen für diese Kompetenz
 
@@ -324,9 +340,10 @@ Bei neuen großen bereit Stellungen handelt es sich um einen [Kunden Erfolgsindi
   
   (Ausführliche Informationen zu entwickelten und entwickelten Märkten finden Sie in diesen [Microsoft Partner Network Definitionen](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf).)
 
-- Ein Mandant hat den monatlichen aktiven Benutzer Schwellenwert überschritten, wenn der Mandant lautet: 
+- Ein Mandant hat den monatlichen aktiven Benutzer Schwellenwert überschritten, wenn der Mandant lautet:
 
-  - Unterhalb des angegebenen Schwellenwerts vor 12 Monaten *und*
+  - Unterhalb des angegebenen Schwellenwerts vor 12 Monaten **und**
+
   - Dieser Schwellenwert wurde mindestens einmal in den nachfolgenden 11 Monaten überschritten.
 
 - Monatlich aktive Benutzer werden auf Mandanten Ebene gezählt und nur über die kostenpflichtigen Abonnements unter dem Mandanten summiert.

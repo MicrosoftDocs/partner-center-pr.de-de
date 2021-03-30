@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633895"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730080"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Erfahren Sie, wie Sie die Zeilen Elemente in Ihren Partner Center-Abstimmungs Dateien lesen.
 
@@ -77,6 +77,15 @@ Wenn Sie eine Abstimmungs Datei herunterladen, aber nicht in Microsoft Excel öf
 5. Wählen Sie im Dropdown Menü **Laden** die Option **Laden in** aus, und klicken Sie dann auf **OK**.
 6. Wählen Sie im Dialogfeld **Daten importieren** die Option **pivotfähiger Bericht** aus, um die Datei zu öffnen.
 
+## <a name="negative-amount-displayed"></a>Negativer Betrag angezeigt
+
+Möglicherweise wird eine negative Menge in der Abstimmungs Datei angezeigt. Dies ist wahrscheinlich auf eine der folgenden Ursachen zurückzuführen:
+
+- Sie haben ihre Anzahl von Lizenzen vor kurzem abgebrochen oder reduziert.
+- Sie haben Gutschriften für einen Service License Agreement (SLA) oder für die Azure-Nutzung erhalten.
+
+Weitere Informationen zu dieser Transaktion finden Sie in Ihrem Attributtyp-Attribut in der Abstimmungs Datei.
+
 ## <a name="map-taxes-or-vat"></a>Map-Steuern oder Mehrwertsteuer
 
 So ordnen Sie der Rechnung Steuern oder Mehrwertsteuer (Tax) hinzu:
@@ -88,7 +97,7 @@ So ordnen Sie der Rechnung Steuern oder Mehrwertsteuer (Tax) hinzu:
 
 Partner im **indirekten Modell** können diese zusätzlichen Felder sowohl in lizenzbasierten als auch auf Verwendungs basierten Abstimmungs Dateien verwenden, um die Dateien vom Wiederverkäufer zu itemisieren.
 
-| MPN-ID | BESCHREIBUNG |
+| MPN-ID | Beschreibung |
 | ------ | ----------- |
 | MPN-ID | Der Microsoft Partner Network (MPN)-Bezeichner des CSP-Partners (Cloud Solution Provider) (direkt oder indirekt). |
 | [MPN-ID der Handelspartner](#reseller-mpn-id) | Der [MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement](#reseller-mpn-id). Dieses Feld entspricht der Wiederverkäufer-ID, die für das jeweilige Abonnement in Partner Center aufgeführt ist. Wird nur in den Abstimmungsdateien für Partner im indirekten Modell angezeigt. |

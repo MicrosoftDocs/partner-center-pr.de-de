@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/22/2021
-ms.openlocfilehash: e2cba4baf497fb51ecd05c01f10e67632bb05c39
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 0020a43bd17e42bdfc13ab6745a65f63637c702b
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549038"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730058"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 |**Kategorie**|**Ankündigungen für März 2021**|**Angekündigt**|
 |---------|:---------|:---------|
+|Angebote/Moderner Arbeitsplatz|[Neue Benutzeroberfläche des Exchange Admin Center (EAC)](2021-march.md#17)|29. März|
 |Angebote/Moderner Arbeitsplatz|[Microsoft Operations: Neuer Produkteinführungskalender](2021-march.md#16)|25. März|
 |Funktionen|[Änderungen der Anforderungen für das Onboarding von Kunden im CSP-Programm](2021-march.md#15)|25. März|
 |Angebote/Märkte|[Korrekturen an der Preisliste für unbefristete Software vom 1. März 2021](2021-march.md#14)|23. März|

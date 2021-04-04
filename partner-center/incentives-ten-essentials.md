@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 41ea71b2461c8497b90acc0f265c4f946faa55b7
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714557"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179104"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>Die 10 Grundlagen für die Arbeit mit Incentives
-
-**Zielgruppe**
-
-- Partner Center
-- Partner im Microsoft Partner Network (MPN)
 
 **Geeignete Rollen**
 
@@ -49,7 +44,7 @@ Es ist wichtig, dass Sie ein solides Verständnis der Rollen und Berechtigungen 
 
 ## <a name="5-review-the-incentives-faq"></a>5. Überprüfen Sie die häufig gestellten Fragen.
 
-Erhalten Sie Antworten auf häufig gestellte Fragen, bevor Sie Sie Fragen. Wir aktualisieren die häufig gestellten Fragen zu den Incentives häufig, indem wir Informationen aus Microsoft-Support und die direkte Kommunikation mit Partnern verwenden. [Hier](incentives-faq.md)finden Sie die häufig gestellten Fragen.
+Erhalten Sie Antworten auf häufig gestellte Fragen, bevor Sie Sie Fragen. Häufig werden die häufig gestellten Fragen zu den Incentives mithilfe von Informationen aus Microsoft-Support und der direkten Kommunikation mit Partnern aktualisiert. [Hier](incentives-faq.md)finden Sie die häufig gestellten Fragen.
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. bestätigen Sie Ihre Programm Berechtigung.
 

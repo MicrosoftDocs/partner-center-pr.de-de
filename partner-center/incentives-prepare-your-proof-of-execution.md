@@ -8,20 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 82c45a1edcc19dc26dfefff88f59c598ab9bc6ea
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: d0e5dca008f73a13fb25e9322c492a053037e633
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714384"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179444"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>Erstellen und Übermitteln von Dokumenten für Ihren Incentive-Ausführungs Nachweis (PoE)
 
-**Gilt für:**
-
-- Partner Center
-
-**Geeignete Rollen:**
+**Geeignete Rollen**
 
 - Incentiveadministrator
 
@@ -37,9 +33,9 @@ Bevor Sie für Ihre Incentives bezahlt werden, müssen Sie einen detaillierten A
 
 4. Suchen Sie im Abschnitt **Kampagnen** nach der gewünschten Aktivität.
 
-5. Wählen Sie in der Spalte **Nachweis der Ausführung** die Option **Poe hinzufügen**aus.
+5. Wählen Sie in der Spalte **Nachweis der Ausführung** die Option **Poe hinzufügen** aus.
 
-6. Geben Sie auf der **Seite neuer Ausführungs Nachweis**die erforderlichen Felder ein.
+6. Geben Sie auf der **Seite neuer Ausführungs Nachweis** die erforderlichen Felder ein.
 
    - **Name**  Ein Anzeige Name für den Co-op-Anspruch.
    - **Datum**  Das Ausführungs Datum. Dieses Datum muss zwischen dem Startdatum und dem Enddatum der Kampagne liegen.
@@ -57,12 +53,12 @@ Bevor Sie für Ihre Incentives bezahlt werden, müssen Sie einen detaillierten A
 9. Wenn Sie fertig sind, wählen Sie **Anspruch erstellen** aus.
 
 10. Laden Sie auf der Seite mit den **Rechnungs- und Ausgabeninformationen** eines der folgenden beiden Dokumente hoch:
-    - **Rechnung von Drittanbietern**  Wählen Sie im Feld **Rechnungen von Drittanbietern** die Option **Dateien zum Hochladen ziehen oder durchsuchen**aus. Fügen Sie die Rechnung und die erforderlichen Rechnungsdetails hinzu, und wählen Sie dann **Speichern**aus.
-    - **Bericht zum Zertifizierungsdienst**  Wählen Sie **Zertifizierungsdienst Bericht hinzufügen**aus. Füllen Sie auf der Seite **einen Zertifizierungsdienst Bericht generieren** die erforderlichen Felder aus, und klicken Sie dann auf **Speichern**.
+    - **Rechnung von Drittanbietern**  Wählen Sie im Feld **Rechnungen von Drittanbietern** die Option **Dateien zum Hochladen ziehen oder durchsuchen** aus. Fügen Sie die Rechnung und die erforderlichen Rechnungsdetails hinzu, und wählen Sie dann **Speichern** aus.
+    - **Bericht zum Zertifizierungsdienst**  Wählen Sie **Zertifizierungsdienst Bericht hinzufügen** aus. Füllen Sie auf der Seite **einen Zertifizierungsdienst Bericht generieren** die erforderlichen Felder aus, und klicken Sie dann auf **Speichern**.
 
-11. Sie können auch bei Bedarf **Nachweis Dokumente** hochladen. Wählen Sie im Feld **Nachweis Dokumente** die Option **Dateien zum Hochladen ziehen oder durchsuchen**aus. Wenn Sie Nachweis Dokumente auswählen, müssen Sie Erläuterungen zu den Anmerkungen hinzufügen. Nachdem Sie eine Anmerkung hinzugefügt haben, wählen Sie **Speichern** aus.
+11. Sie können auch bei Bedarf **Nachweis Dokumente** hochladen. Wählen Sie im Feld **Nachweis Dokumente** die Option **Dateien zum Hochladen ziehen oder durchsuchen** aus. Wenn Sie Nachweis Dokumente auswählen, müssen Sie Erläuterungen zu den Anmerkungen hinzufügen. Nachdem Sie eine Anmerkung hinzugefügt haben, wählen Sie **Speichern** aus.
 
-12. Geben Sie vor dem Übermitteln des Poe alle abschließenden Kommentare ein, und wählen Sie dann **Anspruch senden**aus.
+12. Geben Sie vor dem Übermitteln des Poe alle abschließenden Kommentare ein, und wählen Sie dann **Anspruch senden** aus.
 
 ## <a name="view-the-status-of-a-poe"></a>Anzeigen des Status eines Poe
 
@@ -81,6 +77,6 @@ Bevor Sie für Ihre Incentives bezahlt werden, müssen Sie einen detaillierten A
    - Genehmigt
    - Rejected (Abgelehnt)
 
-## <a name="next-steps"></a>Nächste Schritte:
+## <a name="next-steps"></a>Nächste Schritte
 
 - [Erste Schritte mit Incentives](incentives-get-started-intro.md)

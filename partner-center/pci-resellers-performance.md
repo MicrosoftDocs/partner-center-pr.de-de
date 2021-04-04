@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94cf24309486628d92878e0d8d5038b45c7b85df
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 7d2331cfb1b0edf25815de0070b5668d0b91df6f
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280509"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086888"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>Reseller Performance Dashboard in Partner Center Insights
 
@@ -22,8 +22,8 @@ ms.locfileid: "89280509"
 
 - Globaler Administrator
 - Administrator-Agent
-- Berichtanzeige
-- Executive Report Viewer
+- Berichtleser
+- Executive Report-Leser
 
 Das Reseller Performance-Dashboard in Partner Center Insights bietet einen Überblick über die Leistung verschiedener indirekter Reseller eines indirekten CSP-Anbieters. Das Dashboard enthält Daten zu den Wiederverkäufern, die aktiv sind, wie viel Umsatz Sie generieren und welche Produkte Umsatz bringen. Indirekte Anbieter können anhand ihres Namens nach einem bestimmten Reseller suchen und im Reseller Performance-Dashboard nach Details für den Reseller suchen.
 
@@ -68,7 +68,7 @@ Das Micro-Diagramm zeigt den Monat-über-Monat-Trend des Umsatzes während des a
 
 ## <a name="geographical-spread-of-resellers"></a>Geografische Verteilung von Wiederverkäufern
 
-Die Ansicht * * Reseller by geography stellt die geografische Verteilung der Wiederverkäufer bereit. Mithilfe dieses Widgets können **Partner Gesamt**Umsätze, **neuhändler**und in **Rechnung gestellte Umsätze (USD)** anzeigen, die nach verschiedenen geografischen Regionen aufgeteilt werden.
+Die Ansicht * * Reseller by geography stellt die geografische Verteilung der Wiederverkäufer bereit. Mithilfe dieses Widgets können **Partner Gesamt** Umsätze, **neuhändler** und in **Rechnung gestellte Umsätze (USD)** anzeigen, die nach verschiedenen geografischen Regionen aufgeteilt werden.
 
 Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte zu zoomen. Drücken Sie die **Start** Option in der Karte, um zur ursprünglichen Ansicht zurückzukehren. Zeigen Sie auf die Karte, um den in **Rechnung gestellten Umsatz (USD)** nach Land anzuzeigen. Der in Rechnung gestellte Umsatz (USD) im Raster ist Sortier Bar.
 
@@ -92,7 +92,7 @@ In dieser Ansicht wird ein monatlicher Trend des in Rechnung gestellten Umsatzes
 
 ## <a name="reseller-performance-by-products"></a>Wiederverkäufer Leistung nach Produkten
 
-In dieser Ansicht werden wichtige Metriken wie der in Rechnung gestellte Umsatz, die Anzahl der Abonnements und die Anzahl der Lizenzen für verschiedene Produkte monatlich auf Monatsbasis bereitgestellt. Das Kreis Diagramm auf der rechten Seite zeigt die allgemeine Aufteilung dieser Metriken nach verschiedenen Produkten an, sodass der Partner einen kurzen Einblick in die unterschiedlichen Produkte erhält, die der Händler verkauft.
+In dieser Ansicht werden wichtige Metriken wie der in Rechnung gestellte Umsatz, die Anzahl der Abonnements und die Anzahl der Lizenzen für verschiedene Produkte monatlich im Monat angezeigt. Das Kreis Diagramm auf der rechten Seite zeigt die allgemeine Aufteilung der Metriken nach verschiedenen Produkten an, sodass der Partner einen kurzen Einblick in die unterschiedlichen Produkte erhält, die der Händler verkauft.
 
 :::image type="content" source="images/pci/pci-res-perf-resel-perf-product-1.png" alt-text="Wiederverkäufer Leistung nach Produkten":::
 

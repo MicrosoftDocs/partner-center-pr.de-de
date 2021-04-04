@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 971d3fbc4b172b66e5b5099bc16999eefc57279c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714394"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179172"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Verwenden Sie diese Ressourcen, um die Erstellung von Anreiz Plänen und Ausführungs nachproben zu unterstützen.
-
-**Zielgruppe**
-
-- Partner Center
-- Partner im Microsoft Partner Network (MPN)
 
 **Geeignete Rollen**
 
@@ -40,7 +35,7 @@ Ein Incentive-Co-op-Anspruchs Plan beschreibt die Marketingkampagnen, Aktivität
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>Was ist ein Ausführungs Nachweis (PoE)?
 
-Nachdem Sie sich für Ihre Incentives bezahlt haben, müssen Sie eine ausführliche Ausführungs Prüfung (PoE) an Microsoft senden. Der Poe kann Details zu jeder zugehörigen Kampagne, das Datum, an dem eine Aktivität aufgetreten ist, den beanspruchten Betrag usw. enthalten. 
+Nachdem Sie sich für Ihre Incentives bezahlt haben, müssen Sie eine ausführliche Ausführungs Prüfung (PoE) an Microsoft senden. Der Poe kann Details zu jeder zugehörigen Kampagne, das Datum, an dem eine Aktivität durchgeführt wurde, und den beanspruchten Betrag enthalten. 
 
 Erfahren Sie mehr über das [Vorbereiten der Ausführungs nachprobe](incentives-prepare-your-proof-of-execution.md).
 

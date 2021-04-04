@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f1709d9a95e3509edbc431a851a2f1fdc0aae01
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14cd4664ecfb140b82dfd27994ff99c7a62d2261
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220299"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086905"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Bericht "Produktlizenzen" im Partner Center Insights-Dashboard
 
 **Geeignete Rollen**
+
 - Globaler Administrator
 - Administrator-Agent
-- Berichtanzeige
-- Executive Report Viewer
+- Berichtleser
+- Executive Report-Leser
 
-Der Bericht zu den Produktlizenzen enthält Lizenz Analysen für Lizenz basierte cloudprodukte, z. b. O365, Dynamics, M365, Power BI usw. Die hier vorgestellte Analyse ist mit der Nutzung der Lizenzen verknüpft, die Sie verkauft haben oder die Sie für Ihre Kunden verwalten. Die folgenden Abschnitte finden Sie im Bericht zu Produktlizenzen.
+Der Bericht zu den Produktlizenzen enthält Lizenz Analysen für Lizenz basierte cloudprodukte wie Office 365, Dynamics, Microsoft 365, Power BI und anderen. Die hier vorgestellte Analyse ist mit der Nutzung der Lizenzen verknüpft, die Sie verkauft haben oder die Sie für Ihre Kunden verwalten. Die folgenden Abschnitte finden Sie im Bericht zu Produktlizenzen.
 
 - Zusammenfassung
 - Geografische Verteilung von Lizenzen
@@ -36,14 +37,14 @@ Der Bericht zu den Produktlizenzen enthält Lizenz Analysen für Lizenz basierte
 
 ## <a name="summary"></a>Zusammenfassung
 
-Der Abschnitt "Zusammenfassung" enthält eine Momentaufnahme Ansicht von Key Performance Indicator (KPIs), die den verkauften, bereitgestellten und verwendeten Cloud-Produktlizenzen zugeordnet sind. Auf diese Weise können Sie die aktive Nutzung anhand der Lizenzen nachverfolgen, die Sie an Ihre Kunden verkauft haben.
+Der Abschnitt "Zusammenfassung" enthält eine Momentaufnahme Ansicht von Key Performance Indicator (KPIs), die den verkauften, bereitgestellten und verwendeten cloudproduktlizenzen zugeordnet sind. Auf diese Weise können Sie die aktive Nutzung anhand der Lizenzen nachverfolgen, die Sie an Ihre Kunden verkauft haben.
 
 :::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Zusammenfassung des Lizenz Berichts":::
 
-Weitere Informationen zu den einzelnen Abschnitten der Zusammenfassung finden Sie unten.
+Weitere Informationen zu den einzelnen Abschnitten der Zusammenfassung finden Sie unten:
 
 - Licenses: 
-  - Aktuelle Anzahl aller Lizenzen, die von Ihnen für Lizenz basierte cloudprodukte (z. b. O365, Dynamics, M365, Power BI usw.) verkauft oder verwaltet werden.
+  - Aktuelle Anzahl aller Lizenzen, die von Ihnen für Lizenz basierte cloudprodukte wie Office 365, Dynamics, Microsoft 365, Power BI und andere verkauft oder verwaltet werden.
   - Prozentuale Vergrößerung oder Abnahme dieser Lizenzen im ausgewählten Datumsbereich.
   - Lizenz Trend Micro-Diagramm: das Micro-Diagramm zeigt den Monat-über-Monat-Trend der Lizenz Anzahl im ausgewählten Datumsbereich.
 

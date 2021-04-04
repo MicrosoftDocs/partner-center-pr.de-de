@@ -8,16 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: cd54249e1fb53fdf3a753b38d1e9999008b9d79a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712159"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179221"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Festlegen der Berechtigung für Ihr Incentive-Programm
 
-**Geeignete Rollen**:
+**Geeignete Rollen**
 
 - Globaler Administrator
 - Incentiveadministrator
@@ -40,7 +40,7 @@ Sie finden die spezifischen Anforderungen zur Berechtigung für das Programm im 
 
    :::image type="content" source="images/incentives/eligibility.png" alt-text="Screenshot ist ein Beispiel für die Anforderungs Anforderungen.":::
 
-5. Sie müssen alle Bereiche, die deaktiviert sind, vervollständigen, um die Berechtigung zu erfüllen. Jedes Incentive-Programm verfügt über einen eigenen Satz von Anforderungen.
+5. Vervollständigen Sie alle Bereiche, die deaktiviert sind, um die Berechtigung zu erfüllen. Jedes Incentive-Programm verfügt über einen eigenen Satz von Anforderungen.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

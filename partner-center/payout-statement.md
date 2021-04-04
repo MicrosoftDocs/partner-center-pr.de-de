@@ -1,22 +1,22 @@
 ---
 title: Auszahlungsauszüge
 description: Informieren Sie sich über Auszahlungs Anweisungen und-Zusammenfassungen sowie über das Anzeigen und Exportieren von Zahlungsdaten aus dem Microsoft Partner Center.
-ms.subservice: partnercenter-marketplace-publisher
-ms.service: marketplace
+ms.subservice: partnercenter-mpn
+ms.service: partner-dashboard
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549242"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087092"
 ---
 # <a name="payout-statements"></a>Auszahlungsauszüge
 
-**Geeignete Rollen:**
+**Geeignete Rollen**
 
 - Kontoadministrator
 - Globaler Administrator
@@ -73,7 +73,7 @@ Zum Anzeigen weiterer Details zu einer Einnahme klicken Sie rechts auf der Seite
 
 ### <a name="transaction-history-summary"></a>Transaktionsverlauf-Zusammenfassung
 
-Dies zeigt Details zum Erwerb, einschließlich des Ursprungs der ergaben aus dem Produkt, das die ergaben Datumsangaben, den Status und den geschätzten Zahlungs Monat verkauft.
+In dieser Ansicht werden Details zu den Details angezeigt, einschließlich des Ursprungs der ergaben aus dem Produkt, das erstatusdaten, den Status und den geschätzten Zahlungs Monat verkauft.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="Transaktionsverlauf.":::
 
@@ -98,7 +98,7 @@ Der geschätzte Zahlungs Monat ist zurzeit für alle Erwerbs Typen mit Ausnahme 
 
 In der folgenden Tabelle wird ein Beispiel für einen geschätzten Zahlungs Monat angezeigt.
 
-| Month (Monat) | Amount (Betrag) |
+| Monat | Amount (Betrag) |
 | ------ | :-----------: |
 |  Sep-2020 |  $7.273,99   |
 |  Oct-2020 | $8.692,30  |
@@ -116,7 +116,7 @@ Beachten Sie, dass Ihre Zahlung nur im projizierten Monat freigegeben wird, wenn
 - Ihr Steuer Profil muss auf dem neuesten Stand sein.
 - Ihre Einnahmen müssen den minimalen Erstellungs Schwellenwert, der in Ihrem Programmhandbuch definiert ist, erfüllen oder überschreiten.
 - Auszahlung bei Halt: Wenn Sie auf der Seite "Profil Zuweisung" die Option "meine Zahlung aufbewahren" auswählen.
-- Auszahlungs Instrument nicht verfügbar: Zahlungs-oder/oder Steuer Profil ist nicht abgeschlossen.
+- Auszahlungs Instrument nicht verfügbar: das Zahlungs-oder/oder Steuer Profil ist nicht abgeschlossen.
 
 ### <a name="transaction-history-download"></a>Download von Transaktionsverläufen
 
@@ -128,7 +128,7 @@ Klicken Sie oben auf der Seite auf " **herunterladen** ", um weitere Details zu 
 >- **lastpaymentcurrency**  Die Währung, in der die letzte Zahlung über alle mpns eingegangen ist, an die der derzeit angemeldete Partner Zugriff hat. Wenn keine Zahlung eingegangen ist, ist die letzte Zahlungswährung US-Dollar.
 >- **earningamountinlastpaymentcurrency**  Der Erwerbs Betrag in der letzten Zahlungswährung.
 
-| Spaltenname | BESCHREIBUNG | Anwendbarkeit für Incentive-Programme/marketplaces |
+| Spaltenname | Beschreibung | Anwendbarkeit für Incentive-Programme/marketplaces |
 | --- | --- | --- |
 | agreementEndDate | Enddatum der Vereinbarung | Incentives – nur einige Programme |
 | agreementNumber | Vereinbarungsnummer | Incentives – nur einige Programme |
@@ -160,7 +160,7 @@ Klicken Sie oben auf der Seite auf " **herunterladen** ", um weitere Details zu 
 | LicensingProgramName | Name des Lizenzierungsprogramms |  |
 | LineItemId | Einzelne Position in der Rechnung eines Kunden |  |
 | localProviderSeller | Lokaler Anbieter/Seller of Record |  |
-| Reife Monat | Der geschätzte Zahlungs Monat | All |
+| Reife Monat | Der geschätzte Zahlungs Monat | Alle |
 | OrderId | Bezieht sich auf die Rechnung eines Kunden  | marketplaces |
 | parentProductId | Eindeutige ID des übergeordneten Produkts. Wenn kein übergeordnetes Produkt für die Transaktion vorhanden ist, entspricht die ID des übergeordneten Produkts der Produkt-ID. | marketplaces |
 | parentProductName | Name des übergeordneten Produkts. Wenn kein übergeordnetes Produkt für die Transaktion vorhanden ist, entspricht der Name des übergeordneten Produkts dem Produktnamen. | marketplaces |
@@ -169,11 +169,11 @@ Klicken Sie oben auf der Seite auf " **herunterladen** ", um weitere Details zu 
 | participantName | Name des Partners, der die Einnahme erzielt | All |
 | partnerCountryCode | Standort/Land/Region des Partners, der die Einnahme erzielt | All |
 | partNumber | Ist immer leer | Einige Incentive-Programme und-Markt Orte |
-| paymentId | Eindeutiger Bezeichner zum Korrelieren aller Transaktionen im Transaktions Bericht mit einer bestimmten Zahlung im Zahlungs Bericht | All |
+| paymentId | Eindeutiger Bezeichner zum Korrelieren aller Transaktionen im Transaktions Bericht mit einer bestimmten Zahlung im Zahlungs Bericht | Alle |
 | paymentStatus | Zahlungsstatus | All |
 | paymentStatusDescription | Benutzerfreundliche Beschreibung des Zahlungsstatus | All |
 | productId | Eindeutige Produkt-ID | marketplaces |
-| ProductName | Mit der Transaktion verknüpfter Produktname | All |
+| ProductName | Mit der Transaktion verknüpfter Produktname | Alle |
 | productType | Produkttyp, z. B. App, Add-On oder Spiel | marketplaces |
 | Programmcode | Dem Programmnamen zuzuordnende Zeichenfolge |  |
 | programName | Name des Incentive-/Store-Programms | All |
@@ -220,7 +220,7 @@ In der folgenden Tabelle werden die Ursachen Codes für Anpassungen und deren Be
 | Co-op-Rollover | Anpassung, bei der die Zusammenführung von Co-op-Ergebnissen in einen anderen Zeitraum übertragen wird |
 | OPS-Anpassung | Anpassung, die Fehler bei der Microsoft-System Berechnung korrigiert. |
 | OPS-Anpassung Microsoft falsche Calc | Anpassung, mit der falsch Skalierungen korrigiert werden. |
-| OPS-Anpassung Microsoft falsche Registrierung | Anpassung der in die Registrierung bezogenen falsch Skalierungen. |
+| OPS-Anpassung Microsoft falsche Registrierung | Anpassung bei falsch Skalierungen im Zusammenhang mit der Registrierung. |
 | Partner Zuordnung (Abonnement) MCI/CSP | Anpassung, mit der die Abonnement falsche Ausrichtung korrigiert wird. |
 | Richtlinien Ausnahme | Anpassung, die eine Programm Regel überschreibt.  |
 | Ergebnis des vorherigen Zeitraums | Anpassung für das Ergebnis außerhalb des aktuellen Erwerbs Zeitraums. |

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sehen Sie sich an, welche Typen von Microsoft-Partner Vorteilen Sie erhalten haben, um Ihr Unternehmen zu erweitern, die Effizienz zu verbessern und die Fähigkeiten Ihres Teams zu Verb
+description: Sehen Sie sich an, welche Typen von Microsoft-Partner Vorteilen Sie erhalten haben, um Ihr Unternehmen zu erweitern, die Effizienz zu verbessern und die Fähigkeiten Ihres Teams zu verbessern
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444885"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087007"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Im Partner Center Insights-Dashboard verfügbarer Leistungsbericht
 
@@ -22,10 +22,10 @@ ms.locfileid: "87444885"
 
 - Globaler Administrator
 - Administrator-Agent
-- Berichtanzeige
-- Executive Report Viewer
+- Berichtleser
+- Executive Report-Leser
 
-Als Microsoft-Partner können Sie auf eine Reihe von Vorteilen zugreifen, die die neuesten Technologien und Innovationen nutzen, um Sie bei der Verbesserung der Fähigkeiten Ihres Teams zu unterstützen, die Effizienz zu verbessern und Ihr Geschäft zu steigern. Zu den Vorteilen von Paketen gehören: Zuordnungen lizenzierter Software, Cloud Services, Visual Studio-Abonnements und Support. Diese Pakete können auch bestimmte Markt Einführungs Ressourcen, Angebote und Programme enthalten. Der Bericht "Vorteile" zeigt Trends zu den Vorteilen, auf die Sie zugegriffen haben, und deren Auslastung während des ausgewählten Datums Bereichs.
+Als Microsoft-Partner können Sie auf eine Reihe von Vorteilen zugreifen, die die neuesten Technologien und Innovationen nutzen, um Sie bei der Verbesserung der Fähigkeiten Ihres Teams zu unterstützen, die Effizienz zu verbessern und Ihr Geschäft zu steigern. Zu den Vorteilen von Paketen gehören: Zuordnungen lizenzierter Software, Cloud Services, Visual Studio-Abonnements und Support. Diese Pakete können auch bestimmte Markt Einführungs Ressourcen, Angebote und Programme enthalten. Der Bericht "Vorteile" zeigt Trends zu den Vorteilen, auf die Sie zugegriffen haben, und deren Verwendung während des ausgewählten Datums Bereichs.
 
 :::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="Übersicht über die Vorteile":::
 
@@ -39,7 +39,7 @@ Sie können die folgenden Diagramme im Bericht "Vorteile" visualisieren:
 - Markteinführung
 
  > [!NOTE]
- > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administrator Berechtigungen für Berichte verfügen.
+ > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administratorrechte für Berichte verfügen.
 
 ## <a name="summary"></a>Zusammenfassung
 

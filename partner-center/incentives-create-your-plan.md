@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e3d2ec916a8c8a9d29b5ba82db6542d55bd84e8
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714484"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179257"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Generieren eines Marketingplans für Ihr Incentives-Programm
 
-**Gilt für:**
-
-- Partner Center
-
-**Geeignete Rollen:**
+**Geeignete Rollen**
 
 - Incentiveadministrator
 - Abrechnungsadministrator
@@ -44,13 +40,13 @@ Weitere Informationen zu den Plänen für Ihr spezielles Incentives-Programm fin
 
 2. Wählen Sie unter **Incentives** im linken Navigationsmenü **Programm** und dann Ihr Programm aus. 
 
-3. Suchen Sie auf der Seite **Programm** den entsprechenden Markt für Ihren Plan, und wählen Sie dann **Plan erstellen**aus. 
+3. Suchen Sie auf der Seite **Programm** den entsprechenden Markt für Ihren Plan, und wählen Sie dann **Plan erstellen** aus. 
 
 4. Füllen Sie auf der Seite **neuer Plan** die erforderlichen Felder aus. **Währung** ist der Wert, den der Plan widerspiegeln soll. **Reviewer-e-Mail** sollte die Microsoft-e-Mail-Adresse Ihres Konto Managers sein. Beachten Sie, dass pro MPN-ID, Finanzierung, Programm und Zeitraum nur ein Plan erstellt werden kann. Wählen Sie **Speichern** aus.
 
 5. Überprüfen Sie auf der Statusseite des Plans die angezeigten Informationen. Wählen Sie **Bearbeiten** aus, um die Informationen zu aktualisieren.
 
-6. Wenn die Informationen auf dieser Seite richtig sind, wählen Sie **neue Kampagne**aus.
+6. Wenn die Informationen auf dieser Seite richtig sind, wählen Sie **neue Kampagne** aus.
 
 7. Füllen Sie die erforderlichen Felder auf der Seite **neue Kampagne** aus, und klicken Sie dann auf **Speichern**.
 
@@ -90,9 +86,9 @@ Sie müssen Ihren Plan am letzten Tag des Programmjahrs erstellen und übermitte
 
 Microsoft zahlt Ihnen jeden Monat basierend auf Ihren Einnahmen und den Grenzwerten Ihres Plans den entsprechenden Betrag aus. Zahlungen erfolgen am 15. Tag des Folgemonats.
 
-Wenn für Ihren Plan beispielsweise 10.000 USD genehmigt sind und Sie im April 5.000 USD eingenommen haben, werden Ihnen am 15. Mai 5.000 USD ausgezahlt.
+Wenn Ihr Plan z. b. für $10.000 genehmigt ist und Sie im Monat April $5.000 erworben haben, erhalten Sie am 15. Mai $5.000.
 
-Wenn Sie für denselben Plan im April 15.000 USD einnehmen, erhalten Sie am 15. Mai eine Zahlung in Höhe von 10.000 USD, weil der Grenzwert für Ihren Plan 10.000 USD beträgt. Sie müssen den Grenzwert für Ihren Plan für den nächsten Monat erhöhen, damit Sie höhere Zahlungen erhalten können.
+Wenn Sie im gleichen Plan $15.000 im Monat April verdienen, erhalten Sie $10.000 am 15. Mai, da $10.000 das Limit für Ihren Plan war. Sie müssen den Grenzwert für Ihren Plan für den nächsten Monat erhöhen, damit Sie höhere Zahlungen erhalten können.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

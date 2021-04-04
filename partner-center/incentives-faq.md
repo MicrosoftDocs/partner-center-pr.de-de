@@ -8,19 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756717"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179495"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Häufig gestellte Fragen zu Incentives
 
-**Geeignete Rollen:**
+**Geeignete Rollen**
 
 - Incentiveadministrator
-
 - Incentivebenutzer
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Muss ich der globale Administrator sein, um sich bei den Incentives anzumelden?
@@ -55,7 +54,7 @@ Weitere Informationen [finden Sie untersuchen ihrer Rolle](find-your-role.md).
 
 ## <a name="i-cant-access-incentives-using-my-credentials"></a>Ich kann nicht über meine Anmelde Informationen auf die Anreize zugreifen.
 
-Der Grund dafür, dass Sie keine Anreize sehen können, liegt darin, dass Sie nicht über die richtigen Berechtigungen verfügen. Verwenden Sie das folgende Verfahren, um dies zu beheben.
+Der Grund dafür, dass Sie keine Anreize sehen können, liegt darin, dass Sie nicht über die richtigen Berechtigungen verfügen. Verwenden Sie das folgende Verfahren, um dieses Problem zu beheben.
 
 1. Melden Sie sich mit ihren Azure AD Mandanten Anmelde Informationen (Ihre Anmelde Informationen für Ihre Arbeit) beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an. Wenn Sie sich nicht anmelden können, wenden Sie sich an den globalen Administrator Ihres Unternehmens.
 
@@ -71,7 +70,7 @@ Wenn Sie entweder eine Einladung von erhalten haben oder sich bei angemeldet hab
 
 Wenn Sie Ihre Rolle oder Berechtigungen ändern müssen, wenden Sie sich an den globalen oder Konto Administrator Ihres Unternehmens. Informationen dazu, wer diese Personen sind, [finden Sie untersuchen des globalen Administrators](./find-your-role.md#find-your-global-admin).
 
-Beachten Sie, dass auf der Übersichtsseite nur Registrierungen angezeigt werden, die dem globalen Partner Konto zugeordnet sind, das dem Azure AD Mandanten zugeordnet ist. Wenn Ihr Unternehmen über mehr als eine PGA verfügt, benötigen Sie jeweils andere Anmelde Informationen.
+Auf der Übersichtsseite werden nur Registrierungen angezeigt, die dem globalen Partner Konto zugeordnet sind, das dem Azure AD Mandanten zugeordnet ist. Wenn Ihr Unternehmen über mehr als eine PGA verfügt, benötigen Sie jeweils andere Anmelde Informationen.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>An wen sollte ich mich wenden, wenn ich eine Fehlermeldung erhalte oder während des Registrierungsvorgangs Hilfe benötige?
 

@@ -8,22 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: eeb6fabcc1b84e72c8e418e97a8582916225552b
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 22233b8dd41776b34bb4ec1d202f6e84a6ded3fc
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626013"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179137"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Registrierung und Benutzerverwaltung im Incentives-Programm
 
-**Gilt für:**
+**Geeignete Rollen**
 
-- Partner Center
-
-**Geeignete Rollen:**
-
-- Incentive admin
+- Incentiveadministrator
 
 >[!NOTE]
 >Bevor Sie sich für das Incentives-Programm anmelden können, müssen Sie das Partner-Mitgliedschafts Center bei der Partner Center- [Migration](prepare-pmc-pc-migration.md)abgeschlossen haben.
@@ -45,7 +41,7 @@ Wenn Ihr Unternehmen für die Teilnahme qualifiziert ist, sendet Microsoft Einla
 
 ## <a name="enrollment-process"></a>Registrierungsprozess
 
-Wenn Ihr Unternehmen für die Teilnahme qualifiziert ist, sendet Microsoft eine Einladung an den Incentive-Administrator der berechtigten mpnlocationid, um mit der Registrierung zu beginnen. Diese e-Mail wird vom **Microsoft Partner Center** gesendet und verfügt über die Einladung für den Antragsteller **Partner Incentive** -Registrierung. Öffnen Sie die Einladung, **und klicken Sie auf starten.**
+Wenn Ihr Unternehmen für die Teilnahme qualifiziert ist, sendet Microsoft eine Einladung an den Incentive-Administrator der berechtigten mpnlocationid, um mit der Registrierung zu beginnen. Diese e-Mail wird vom **Microsoft Partner Center** gesendet und verfügt über die Einladung für den Antragsteller **Partner Incentive**-Registrierung. Öffnen Sie die Einladung, **und klicken Sie auf starten.**
 
 Sie sehen auch eine Einladung auf der Partner Center-Startseite. Nachdem Sie diese Meldung ausgewählt haben, können Sie Sie nicht mehr anzeigen. Der Incentive-Administrator kann den Vorgang jedoch trotzdem durchführen, indem er sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) anmeldet und im linken Navigationsbereich unter " **Incentives** " die Option **Übersicht** auswählt Wählen Sie **registrieren** aus, und füllen Sie dann das Auszahlungs-und Steuer Profil für das Programm aus.
 

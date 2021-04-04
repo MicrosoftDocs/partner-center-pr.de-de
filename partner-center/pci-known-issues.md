@@ -9,20 +9,21 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182323"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086871"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>Partner Einblicke – häufig gestellte Fragen
 
 **Geeignete Rollen**
+
 - Berichtleser
 - Executive Report-Leser
 
-Dies bezieht sich auf bekannte Probleme beim Anzeigen oder Rendern von Berichten, die mit Insights verknüpft sind.
+Dieser Artikel behandelt bekannte Probleme beim Anzeigen oder Rendern von Berichten, die mit Insights verknüpft sind.
 
 F) **der Insights-Hub wird in meinem Partner Center-Konto nicht angezeigt. Was soll ich tun?**
 

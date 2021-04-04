@@ -8,20 +8,21 @@ description: Sehen Sie sich an, was Sie gut machen und wo Sie die Verwendung von
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 345e721ebec5396a0681ec2f357b8778169c0887
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146682"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086718"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Der Team Verwendungs Bericht, der im Partner Center Insights-Dashboard verfügbar ist.
 
 **Geeignete Rollen**
+
 - Globaler Administrator
 - Administrator-Agent
-- Berichtanzeige
-- Executive Report Viewer
+- Berichtleser
+- Executive Report-Leser
 
 Der Bericht "Team Nutzung" enthält Metriken, die sich auf die Workloads ihrer Teams beziehen, die Sie für Ihre Kunden verkauft oder verwaltet haben Die folgenden Abschnitte können Sie im Bericht zur Verwendung von Teams anzeigen.
 
@@ -51,19 +52,19 @@ Der Abschnitt "Zusammenfassung" enthält eine Momentaufnahme Ansicht der wichtig
 
 ## <a name="conversations-trend"></a>Konversationen Trend
 
-Der Trend "Konversationen" zeigt den monatlichen Trend der Teambesprechungen, Anrufe und Telefonsysteme sowie die durchschnittliche Besprechungs Dauer in Minuten an.
+Der Trendbericht "Konversationen" zeigt den monatlichen Trend der Teambesprechungen, Anrufe und Telefonsysteme sowie die durchschnittliche Besprechungs Dauer in Minuten an.
 
 :::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="Teams Verwendungs Konversations Trends":::
 
 ## <a name="teams-usage-by-workloads"></a>Verwendung von Teams nach Workloads
 
-Die Teams, die von Workloads verwendet werden, sehen die monatliche Aufteilung von Desktop-, Mobil-und Webbenutzern von Teams, die nach Workloads aufgeteilt sind.
+Der Bericht "Team Nutzung nach Workloads" zeigt die monatliche Aufteilung der Desktop-, Mobil-und Webbenutzer von Teams, die nach Workloads aufgeteilt sind.
 
 :::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Verwendung von Teams nach Workloads":::
 
 ## <a name="top-customers-by-usage"></a>Top-Kunden nach Nutzung
 
-Die Kunden mit den höchsten Nutzungsbedingungen stellen die Nutzung der Top-Kunden in Bezug auf Teambesprechungen, Anrufe und Telefonsysteme sowie Drittanbieter-apps dar.
+Der Bericht "Top Customers by Usage" zeigt die Nutzung der Top-Kunden für Teams Besprechungen, Anrufe, Telefonsysteme und Drittanbieter-apps.
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Top-Kunden nach Nutzung":::
 

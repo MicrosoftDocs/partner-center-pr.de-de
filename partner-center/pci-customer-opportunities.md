@@ -8,27 +8,28 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 09/18/2020
-ms.openlocfilehash: fd017884c29df3874a06e8c4213c6fe5f05a8995
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 2cdb63c8f7e29fc8a56e920b587e47c382c6eacb
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175286"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086956"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>Im Partner Center-Dashboard verfügbare cloudascent-Neigungs Berichte
 
 **Geeignete Rollen**
+
 - Executive Report-Leser
 - Berichtleser
 
-Das Partner Center-Dashboard bietet herunterladbare Daten aus dem cloudascent-Programm. Die Daten zeigen die Kunden Neigung zum Kauf von Microsoft-Produkten an.  In diesem Artikel wird beschrieben, wie Sie diese Daten zusammenbrechen, wie Sie die Bewertung nutzen und was Sie bedeutet.
+Das Partner Center-Dashboard bietet herunterladbare Daten aus dem cloudascent-Programm. Die Daten zeigen die Kunden Neigung zum Kauf von Microsoft-Produkten an.  In diesem Artikel wird beschrieben, wie Sie die Daten zusammenführen, wie Sie die Bewertung verwenden und was Sie bedeutet.
 
 ## <a name="summary-definitions"></a>Zusammenfassungs Definitionen
 
 - **SMC-Kunden**– Dies ist die Gesamtzahl der Kunden in den "Neigungen"-Downloads.  Kunden werden nach Partner of Record identifiziert.
 - **Verträge ablaufen**– innerhalb des aktuellen Geschäftsjahrs geben wir die Anzahl der ablaufenden Vereinbarungen an.
 - **Ablaufender Umsatz**– der Umsatz, der den ablaufenden Vereinbarungen zugeordnet ist.
-- **Öffnen**Sie den abgelaufenen Umsatz – den Umsatz, der den offenen Ablauf Verträgen zugeordnet ist.
+- **Öffnen** Sie den abgelaufenen Umsatz – den Umsatz, der den offenen Ablauf Verträgen zugeordnet ist.
 
 :::image type="content" source="images/pci/cust-oppor-1.png" alt-text="Screenshot des Übersichts Dashboards für Kunden Chancen.":::
 
@@ -40,22 +41,22 @@ Das Segment Small to Mittel Business (SMB) ist weiter in drei unterschiedliche u
 
    Wir definieren Top nicht verwaltete zwei Möglichkeiten:
 
-   - **Top nicht verwaltetes Benutzer basiertes**– umfasst Konten mit 300 oder mehr Mitarbeitern. User-Based Konten sind hervorragend für den erstmaligen Kauf oder die Erweiterung von benutzerbasierten Abonnement Produkten wie M365, D365 oder Surface geeignet.
+   - **Top nicht verwaltetes Benutzer basiertes**– umfasst Konten mit 300 oder mehr Mitarbeitern. User-Based Konten sind hervorragend für den erstmaligen Kauf oder die Erweiterung von benutzerbasierten Abonnement Produkten wie Microsoft 365, Dynamics 365 oder Surface geeignet.
    - **Top nicht verwaltetes serverbasiertes** – schließt Konten mit Azure-Potenzial ein, das größer als $10K ist. Compute-basierte Konten enthalten bereits vorhandene Azure. Konten mit erheblichem Potenzial für das zukünftige Jahr und Konten, die noch Azure erwerben, aber ein Potenzial für Azure haben, das größer als $10K ist.
 
 2. **Mittelständische Unternehmen** umfassen vorhandene Kunden und Perspektiven Konten mit 25 bis 300 Mitarbeitern.
 
 3. **Small Business** umfasst alle verbleibenden Unternehmen mit weniger als 25 Mitarbeitern.
 
-:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Screenshot des Übersichts Dashboards für Kunden Chancen.":::
+:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Customer by SMC-Typ.":::
 
-Die meisten **nicht verwalteten** und **mittelständischen unter** Segmente stellen High-Life-Time-Kunden (LTV)-Kunden für Microsoft und Microsoft-Partner dar. Daher sind Sie die führenden Schwerpunktbereiche für das Wachstum in diesem Segment. In diesen beiden unter Segmenten sind wir besser positioniert, um den Socket mit M365 zu erwerben, mit D365/Azure Line of Business (LOB)-apps weiter zu monetarisieren und ein hohes LTV für Microsoft zu realisieren.
+Die meisten **nicht verwalteten** und **mittelständischen unter** Segmente stellen High-Life-Time-Kunden (LTV)-Kunden für Microsoft und Microsoft-Partner dar. Aus diesem Grund sind Sie die führenden Schwerpunktbereiche für das Wachstum in diesem Segment. In diesen beiden unter Segmenten sind wir besser positioniert, um den Socket mit Microsoft 365 zu erwerben, Sie mit D365/Azure Line of Business (LOB)-apps zu monetarisieren und ein hohes LTV für Microsoft zu realisieren.
 
-Heute haben wir zwei wichtige Bereiche von Verkaufschancen – 1. Unsere Kunden fügen Wachstum hinzu. 2. Wir haben zwar eine gute Lösung für Cloud Sockets mit M365, aber wir haben eine große Gelegenheit in D365 und Azure.
+Heute haben wir zwei wichtige Bereiche von Verkaufschancen – 1. Unsere Kunden fügen Wachstum hinzu. 2. Wir haben zwar eine gute Lösung für Cloud Sockets, die mit Microsoft 365, aber wir haben eine große Gelegenheit in D365 und Azure.
 
 Der folgende Screenshot stellt die drei SMB-unter Segmente und die optimierten Routen zu Market dar. Cloudascent priorisieren Sie die Profilerstellung, Bewertung und Modellierung aller obersten, nicht verwalteten und mittelgroßen Geschäftskonten.
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Screenshot des Übersichts Dashboards für Kunden Chancen.":::
+:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="Screenshot der SMB-unter Segmente.":::
 
 ## <a name="cloudascent-machine-learning"></a>Cloudascent-Machine Learning
 
@@ -67,7 +68,7 @@ SMB nutzt Machine Learning-Technologie, um Kunden Vorhersagen für Umsätze und 
 
 - **Optimierung**: das Machine Learning System optimiert die Modelle, indem die Transaktionsdaten monatlich und die Abonnement Daten vierteljährlich genutzt werden.  Mithilfe der Win/Loss-Daten passt der Machine Learning die Algorithmen an und überprüft, ob die Modelle erwartungsgemäß funktionieren, indem Sie Cluster Empfehlungen mit Verkaufschancen in MSX vergleicht.
 
-:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Screenshot des Übersichts Dashboards für Kunden Chancen.":::
+:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="Screenshot von SMB Machine Learning.":::
 
 ## <a name="cloudascent-propensity"></a>Cloudascent-Neigung
 
@@ -91,7 +92,20 @@ Mithilfe von Signalen, die mithilfe von Webcrawlern und Daten aus verschiedenen 
 
    - Die beabsichtigte Bewertung wird monatlich aktualisiert.
 
-   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="Screenshot des Übersichts Dashboards für Kunden Chancen." zu definieren, werden die folgenden Schritte durchlaufen:
+   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="Cloudascent-SMB-Vorhersagemodelle.":::
+
+3. Clustering
+
+   Die Signale für fit und Intent werden in einem Clustering-Ergebnis zusammengefasst. Cloudascent verfügt über vier Cluster:
+
+      - Act-Kunden
+      - Evaluieren: Marketing bereite Kunden
+      - Kampagnen zur Sensibilisierung von Pflege Vorzügen
+      - Bildung: Schulungen und Überwachen der Absicht
+
+   Das Clustering ermöglicht es Benutzern, auf Grundlage von Segment Faktoren auf bestimmte Kunden für Vertriebs-und Marketinginitiativen zu abzielen, z. b.: Produkt, vertikal, Industrie und vertikal.
+
+   Die Registerkarte **Modell Modell** in den cloudascent-Arbeitsmappen teilt die Neigung und den geschätzten Leerraum. Um das Clustering von "fit" und "Intent" zu definieren, werden die folgenden Schritte durchlaufen:
 
       1. Mithilfe von ml-Modellen berechnen wir zuerst die Customer fit-Bewertung und die Intent-Bewertung auf einer Skala von 100.  Genaue Ergebnisse variieren basierend auf ml-Modellen.  Folgende Beispiel Ergebnisse:
 
@@ -104,11 +118,11 @@ Mithilfe von Signalen, die mithilfe von Webcrawlern und Daten aus verschiedenen 
 
       2. Mithilfe der oben genannten Regel klassifizieren wir Unternehmen als hoch, Mittel, niedrig und sehr niedrig zwischen Kunden-und Intent-Signalen.
 
-      3. Wir zeichnen Customer fit-und Intent-Signale in einer 2D-Matrix, wobei jede Schnittmenge die Neigung darstellt.     Beispielsweise "High fit + High Intent = a1", die die höchste Neigung darstellt.
+      3. Wir zeichnen Customer fit-und Intent-Signale in einer 2D-Matrix, wobei jede Schnittmenge die Neigung darstellt. Beispielsweise "High fit + High Intent = a1", die die höchste Neigung darstellt.
 
       4. Schließlich gruppieren Sie diese Segmente, um Cluster zu bilden.  Beispiel: a1, a2, a3, A4 bildet den Act Now-Cluster.
 
-         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="Screenshot des Übersichts Dashboards für Kunden Chancen.":::
+         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="Cloudascent-Modelle.":::
 
    Für diese Kunden empfiehlt es sich, jetzt agieren und Kunden zu evaluieren.
 
@@ -116,10 +130,10 @@ Mithilfe von Signalen, die mithilfe von Webcrawlern und Daten aus verschiedenen 
 
 Die folgende Grafik enthält eine Ansicht der einzelnen Modell Modell in cloudascent:
 
-:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="Screenshot des Übersichts Dashboards für Kunden Chancen.":::
+:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="Cloudascent-neiglichkeits Modell.":::
 
 Leerraum Modelle bestehen aus Vorhersagen für vorhandene Microsoft-Kunden, bei denen Sie nicht über ein Produkt und/oder Kunden für neue potenziellen Kunden verfügen.
 
-Upselling-Modelle verwenden Transaktionsdaten, um das Potenzial für Upselling in Azure und M365-SKUs vorherzusagen.
+Upselling-Modelle verwenden Transaktionsdaten, um das Potenzial für Upselling in Azure und Microsoft 365 SKUs vorherzusagen.
 
-EOS nutzt das Ende der Dienst Kunden für Win 7, Office 2010, SQL Server und Windows Server. Die EOS-Daten werden aus MS Sales abgerufen und mit dem Modell der cloudascent-Neigung, soweit verfügbar, überlagert. EOS-Daten sind in den modernen arbeiten und Azure-Verkaufs spielen tätig.
+EOS nutzt das Ende der Dienst Kunden für Windows 7, Office 2010, SQL Server und Windows Server. Die EOS-Daten werden aus MS Sales abgerufen und mit dem Modell der cloudascent-Neigung, soweit verfügbar, überlagert. EOS-Daten sind in den modernen arbeiten und Azure-Verkaufs spielen tätig.

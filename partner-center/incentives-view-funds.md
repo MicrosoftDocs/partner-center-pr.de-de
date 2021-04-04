@@ -8,16 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: a33ff22a448f407fe0b795c43953fef7ee21e1bd
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5b9ff5ad5c2d20b25175830188981a18da9bc29a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182510"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179427"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Verfügbare, verdiente und verbleibende Co-op-Geld anzeigen
 
-**Geeignete Rollen:**
+**Geeignete Rollen**
 
 - Incentiveadministrator
 - Incentivebenutzer
@@ -36,7 +36,7 @@ Sie können Ihre Incentive-Co-op-Geld im [Partner Center-Dashboard](https://part
 
 Wenn Sie der Ansicht sind, dass die in der Zusammenfassung angezeigten Beträge Abweichungen aufweisen, können Sie den Transaktions Bericht aus dem vorherigen Zeitraum herunterladen. Mit diesem Bericht können Sie die Menge an Co-op-Geldern ermitteln, die für den ausgewählten Verwendungs Zeitraum erworben wurden. Informationen zum Herunterladen von Transaktions Berichten oder zum Überprüfen der übermittelten Ansprüche, um sicherzustellen [, dass die](./payout-statement.md#transaction-history)verbleibende Co-op-Menge genau ist
 
-Wenn Sie weiterhin Probleme beim Abgleich der Beträge haben oder einige Co-op-Guthaben nicht sichtbar sind, können Sie das Support Ticket öffnen. Wählen Sie hierzu das Fragezeichen-Symbol in der oberen rechten Ecke der Seite aus, und wählen Sie dann " **Incentives**" aus.
+Wenn Sie weiterhin Probleme beim Abgleich der Beträge haben oder einige Co-op-Geld nicht sichtbar sind, können Sie ein Support Ticket öffnen. Wählen Sie hierzu das Fragezeichen-Symbol in der oberen rechten Ecke der Seite aus, und wählen Sie dann " **Incentives**" aus.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

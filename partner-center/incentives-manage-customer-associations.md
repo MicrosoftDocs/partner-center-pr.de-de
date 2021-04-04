@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714434"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179478"
 ---
 # <a name="manage-incentives-customer-associations"></a>Verwalten von Incentives-Kunden Zuordnungen
 
-**Gilt für:**
-
-- Partner Center
-
-**Geeignete Rollen:**
+**Geeignete Rollen**
 
 - Abrechnungsadministrator
 - Globaler Administrator
@@ -79,7 +75,7 @@ Wenn 30 Tage vergangen sind und Sie trotzdem einen abgelehnten Anspruch überneh
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
 2. Öffnen Sie den Anspruch, den Sie in Konflikt stellen möchten.
-3. Wählen Sie auf der Seite Anspruch die Option **Streit**aus.
+3. Wählen Sie auf der Seite Anspruch die Option **Streit** aus.
 4. Geben Sie eine geschäftliche Begründung und/oder einen aktualisierten Poe ein, die erläutern, warum die Ablehnung erneut in Erwägung gezogen werden soll.
 5. Wenn Sie mit dem Hinzufügen der Informationen fertig sind, wählen Sie **Dispute** (Widersprechen) aus. Unsere Reviewer sollten Sie mit Ergebnissen innerhalb von fünf Arbeitstagen kontaktieren.
 
@@ -87,7 +83,7 @@ Wenn 30 Tage vergangen sind und Sie trotzdem einen abgelehnten Anspruch überneh
 
 Es gibt drei Hauptgründe für die Ablehnung eines cpor Association-Anspruchs.
 
-**Partner Anforderung:** Partner können anfordern, dass Ihre Zuordnung abgelehnt wird. Diese Begründung wird größtenteils verwendet, wenn der Partner einen cpor-Zuordnungs Anspruch versehentlich mithilfe eines falschen MPN erstellt hat und eine falsche Aktivität ausgewählt hat (z. b.... Sie entscheiden sich für die Umsatz Zuordnung anstelle von vorab Verkäufen) oder arbeiten nicht länger mit dem Kunden.
+**Partner Anforderung:** Partner können anfordern, dass Ihre Zuordnung abgelehnt wird. Diese Begründung wird größtenteils verwendet, wenn der Partner einen cpor-Zuordnungs Anspruch versehentlich mithilfe eines falschen MPN erstellt hat, eine falsche Aktivität ausgewählt hat (z. b. weil Sie Umsatz Zuordnung anstelle von Vorverkäufen gewählt haben) oder nicht mehr mit dem Kunden zusammenarbeitet.
 
 **Kunden Verlust:** Sobald der cpor Association-Anspruch den Poe-Genehmigungsprozess erfolgreich durchlaufen hat, ändert sich der Status in "genehmigt", während der Kunde die Möglichkeit erhält, die Zustimmung der Zuordnung abzulehnen. Wenn der Kunde die Zustimmung verweigert, wird die Zuordnung abgelehnt.
 

@@ -8,24 +8,20 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: c6ff8915384f8c7ab98fa058f2e45e3d0b4f7214
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834882"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179512"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Problembehandlung bei fehlenden Zahlungen, falschen Erträgen und anderen Problemen
 
-**Gilt für**:
-
-- Partner Center
-
-**Geeignete Rollen**:
+**Geeignete Rollen**
 
 - Incentiveadministrator
 
-Dieser Artikel hilft Ihnen bei der Behebung von Ergebnis-oder Zahlungsproblemen in Ihrem Incentive-Programm. Zu den behandelten Themen zählen die zeitliche Steuerung von Zahlungen, die Überprüfung der Ergebnis Berechtigung und die Wichtigkeit der ordnungsgemäßen Einrichtung ihrer Auszahlungs-und Steuer Profile.
+Dieser Artikel hilft Ihnen bei der Behebung von Ergebnis-oder Zahlungsproblemen in Ihrem Incentive-Programm. Zu den behandelten Themen zählen die zeitliche Planung von Zahlungen, die Überprüfung ihrer Gewinn Berechtigung und die Wichtigkeit der ordnungsgemäßen Einrichtung ihrer Auszahlungs-und Steuer Profile.
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Wer kann Auszahlungs-und Steuer Profile für meine Organisation erstellen oder aktualisieren?
 
@@ -122,7 +118,7 @@ Das Ergebnis wird auf der Seite **Transaktionsverlauf** und auf der Seite **Zahl
 
 :::image type="content" source="images/incentives/paymenticon.png" alt-text="Transaktionsinformationen":::
 
-Monatliche Erwerbs Beträge in der Transaktions Verlaufs Ansicht können nicht mit dem für einen bestimmten Monat empfangenen Zahlungsbetrag übereinstimmen. Der Grund hierfür ist die Neuberechnung und die Anpassungen für vorherige Erwerbs Zeiträume, die auf zukünftige Zahlungen angewendet werden.
+Monatliche Erwerbs Beträge in der Transaktions Verlaufs Ansicht können nicht mit dem für einen bestimmten Monat empfangenen Zahlungsbetrag übereinstimmen. Dies liegt an Neuberechnungen und Anpassungen für vorherige Erwerbs Zeiträume, die auf zukünftige Zahlungen angewendet werden.
 
 Beispielsweise wird eine Anpassung für das Ergebnis vom Januar 2019, das im September 2019 verarbeitet wurde, nicht im Ergebnis Betrag für den 2019 Wenn jedoch die Zahlung für September 2019 empfangen wird, enthält Sie die Anpassung für den Januar 2019, die im September angewendet wurde.
 
@@ -141,11 +137,11 @@ Diese Ansicht ermöglicht es Ihnen, die Zahlungen für alle Programme und MPN-ID
 | Anzeigen der Zahlungsinformationen per Zeile, einschließlich der Beträge und Zahlungsbeträge in der lokalen Währung  | Siehe die **Liste der Zahlungs** Felder.   |
 | Herunterladen eines Buchstabens   |  **Zahlungs Übertragung** auswählen  |
 | Details der Transaktionsebene für eine bestimmte Zahlung anzeigen |  **Ansicht** auswählen  |
-| Transaktionsdetails in Excel exportieren  |  Wählen Sie **Download starten** aus, und klicken Sie dann auf **Daten exportieren**. Beachten Sie, dass alle ausgewählten Filter auf die exportierten Daten angewendet werden. Nachdem sich der Status in abgeschlossen geändert hat, wählen Sie **herunterladen** aus, und befolgen Sie die Anweisungen, um den Bericht zu den ausführlichen Transaktionen zu Aktualisieren Sie die Seite, wenn der Status nicht innerhalb von fünf Minuten aktualisiert wird.  |
+| Transaktionsdetails in Excel exportieren  |  Wählen Sie **Download starten** aus, und klicken Sie dann auf **Daten exportieren**. Alle ausgewählten Filter werden auf die exportierten Daten angewendet. Nachdem sich der Status in abgeschlossen geändert hat, wählen Sie **herunterladen** aus, und befolgen Sie die Anweisungen, um den Bericht zu den ausführlichen Transaktionen zu Aktualisieren Sie die Seite, wenn der Status nicht innerhalb von fünf Minuten aktualisiert wird.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Fehlende oder falsche Einnahmen und Zahlungen
 
-Wenn Sie keine Zahlungs-oder Transaktionsdetails finden können, überprüfen Sie, ob Sie die richtigen Filter angewendet haben. Beachten Sie Folgendes: da sich einige Programmnamen geändert haben (z. b. CSP 1T Direct Partner ist jetzt CSP Direct Bill Partner), müssen Sie möglicherweise mehrere Auswahlmöglichkeiten verwenden.
+Wenn Sie keine Zahlungs-oder Transaktionsdetails finden können, überprüfen Sie, ob Sie die richtigen Filter angewendet haben. Da sich einige Programmnamen geändert haben (z. b. CSP 1T Direct Partner ist jetzt CSP Direct Bill Partner), müssen Sie möglicherweise mehrere Auswahlmöglichkeiten verwenden.
 
 Wenden Sie sich an den [Support](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives), wenn Sie Ihre Gewinne noch nicht finden oder glauben, dass die angezeigten Einnahmen nicht korrekt sind.
 

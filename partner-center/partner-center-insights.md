@@ -9,16 +9,17 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2b1a09253b7a9e9c8863f07b729ad116689a4642
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: ba8389ff613b47b17b87a6769674e33948fdc37d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490628"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086582"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>Partner Center Insights: ein Dashboard, das zeigt, wie ein kommerzieller Partner von Microsoft ist
 
 **Geeignete Rollen**
+
 - Globaler Administrator
 - Kontoadministrator
 - Executive Report-Leser
@@ -26,7 +27,7 @@ ms.locfileid: "89490628"
 
 ## <a name="introduction"></a>Einführung
 
-Insights ist ein einheitliches Berichterstattungs Dashboard im Partner Center für die kommerziellen Partner von Microsoft, die beim Microsoft Partner Network-Programm (MPN) registriert sind. Das Insights-Dashboard bietet eine 360-stufige Ansicht Ihrer Key Performance Indicator (KPI) für cloudprodukte wie Office, Azure, Dynamics und Lizenzierungsmodelle wie CSP und EA. Es stellt einen umfangreichen Satz von KPI-Berichten zur Verfügung, mit denen Sie datengestützte Entscheidungen für Ihre Organisation treffen können. 
+Das Insights-Dashboard ist ein einheitliches Bericht Erstellungs Dashboard im Partner Center für die kommerziellen Partner von Microsoft, die im MPN-Programm (Microsoft Partner Network) registriert sind. Das Insights-Dashboard bietet eine 360-stufige Ansicht Ihrer Key Performance Indicator (KPI) für cloudprodukte wie Office, Azure, Dynamics und Lizenzierungsmodelle wie CSP und EA. Es stellt einen umfangreichen Satz von KPI-Berichten zur Verfügung, mit denen Sie datengestützte Entscheidungen für Ihre Organisation treffen können. 
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Rollenbasierte Zugriffs Steuerung für das Insights-Dashboard
 
@@ -78,7 +79,7 @@ Die folgenden Berichte sind als Teil des Insights-Dashboards verfügbar.
 
 - Produkte: Liste aller von Ihrer Organisation verkauften/verwalteten Microsoft Cloud Produkte, z. b. O365, Azure, D365, EMS, Power BI usw.
 - Kunden Märkte: Liste der Kundenländer
-- Partner Zuordnungen: Ihr Zuordnungstyp mit ihren Kunden Abonnements, z. b. Digital Partner of Record (dpor), delegierte Administrator Berechtigung (DAP), Partner admin Link (PAL) usw. 
+- Partner Zuordnungen: Ihr Zuordnungstyp mit den Abonnements ihrer Kunden, z. b. Digital Partner of Record (dpor), Delegierte Administratorrechte (DAP) und Partner admin Link (PAL). 
 - Partner Standorte: Liste aller MPN-Standorte Ihrer Organisation.
 - Vertriebskanäle: alle Vertriebskanäle/Preise, mit denen Sie Produkte und Dienste kaufen bzw. bereitstellen, nämlich CSP, EA, CSP indirekt, direkt, Advisor, offen, andere
 - Kundensegmente: Liste der Kundensegmente der Partner Kundenbasis.

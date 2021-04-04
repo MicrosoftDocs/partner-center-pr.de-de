@@ -8,13 +8,13 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.date: 07/08/2020
-ms.openlocfilehash: 45a088129d09395abf355efde08c772744b98672
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.date: 03/31/2021
+ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474086"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103790"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>Analysieren Sie Abonnements und Lizenzen, um Geschäftsentscheidungen und neue Ziele zu fördern
 
@@ -28,6 +28,10 @@ ms.locfileid: "96474086"
 Daten unterstützen Geschäftsentscheidungen. Verwenden Sie die Metriken auf der Seite **Abonnement-und Lizenz Analyse** , um Ihre Erfolge und Bereiche zu identifizieren, die mehr Aufmerksamkeit erfordern. Nutzen Sie diese Informationen bei der Planung neuer Geschäftsziele.
 
 **CSP-TTM-Umsatz (USD)**: Diese Metrik repräsentiert den aggregierten, von CSP in Rechnung gestellten Umsatz (USD) für die nachgestellten zwölf Monate (TTM) für die Partnerstandort Konten und das globale Partnerkonto (PGA), dem dieses CSP-Konto zugeordnet ist. Wenn Sie über andere CSP-Konten mit einer anderen-Datenbank verfügen, müssen Sie sich bei jeder von Ihnen anmelden, um den entsprechenden aggregierten TTM-Umsatz anzuzeigen.  Klicken Sie auf den Link Details herunterladen, um eine Aufschlüsselung der TTM-Einnahmen (USD) pro MPN-ID zu erhalten.
+
+>[!NOTE]
+>Die Preise für die lokale Währung (Legacy Commerce FX) im Handel werden innerhalb von +/-5% von US-Dollar verwaltet. Der Legacy-Handelswechsel Kurs (FX) unterscheidet sich von den Abrechnungs-FX-Sätzen, die von Azure in der modernen Handels Führung genutzt werden. Die Preise für die Preise für die moderne Commerce-Abrechnung basieren auf den Microsoft P&L-Tarifen (Reuters FX-Raten von Finanz Feed). Die Preise für die Legacy-Commerce FX sind Microsoft Confidential.
+
 
 Der Rest des Berichts kann basierend auf den folgenden Produkten pivotieren:
 
@@ -82,6 +86,8 @@ Wir verfolgen die folgenden Metriken:
 **Abonnements kostenloser Testversionen, die in 30 Tagen enden**  
 
  - Liste der gestarteten Abonnements kostenloser Testversionen, deren Enddatum innerhalb von 30 Tagen liegt und für die kein Startdatum für ein kostenpflichtiges Abonnement vorliegt  
+
+
 
 ## <a name="next-steps"></a>Nächste Schritte
 

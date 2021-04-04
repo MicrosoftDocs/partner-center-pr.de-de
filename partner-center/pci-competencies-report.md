@@ -9,28 +9,29 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d03533d69df4600879dbc90622b640a932ab069
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 292b5535bdcc40164e738ec967a689c51f6d8f47
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220468"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086259"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Im Partner Center Insights-Dashboard verfügbarer Bericht "Kompetenzen"
 
 **Geeignete Rollen**
+
 - Globaler Administrator
 - Administrator-Agent
-- Berichtanzeige
-- Executive Report Viewer
+- Berichtleser
+- Executive Report-Leser
 
-Mit den Kompetenzen kann Ihr Unternehmen ihre technische Funktion zur Bereitstellung von Microsoft-Lösungen veranschaulichen. Die Microsoft-Kompetenzen sind so konzipiert, dass Sie die Anforderungen Ihrer Kunden erfüllen und ihr Fachwissen an potenzielle Kunden präsentieren können. Sie verfügen über eine Vielzahl von Vorteilen von Microsoft, z. b. enthaltene Mengen an Azure-Verbrauch, Berechtigungen für cloudprodukte wie O365, technischen Support, Markt Einführungsangebote usw. Heute gibt es insgesamt 19 Kompetenzen in den folgenden Kategorien: **App und Infrastruktur**, **Geschäftsanwendungen**, **Daten und Ki** und **moderner Arbeitsplatz**. Kompetenzen werden beispielsweise in Silver-oder Gold-Stufen eingeteilt. Es gibt einen höheren Balken für die Gold-Kompetenz und eine zugeordnete höhere Menge an Marketingressourcen, angeboten und Programmen.  
+Mit den Kompetenzen kann Ihr Unternehmen ihre technische Funktion zur Bereitstellung von Microsoft-Lösungen veranschaulichen. Die Microsoft-Kompetenzen sind so konzipiert, dass Sie die Anforderungen Ihrer Kunden erfüllen und ihr Fachwissen an potenzielle Kunden präsentieren können. Sie verfügen über eine Vielzahl von Vorteilen von Microsoft, z. b. enthaltene Mengen an Azure-Verbrauch, Berechtigungen für cloudprodukte wie Office 365, technischen Support, Markt Einführungsangebote und andere. Heute gibt es insgesamt 19 Kompetenzen in den folgenden Kategorien: **App und Infrastruktur**, **Geschäftsanwendungen**, **Daten und Ki** und **moderner Arbeitsplatz**. Kompetenzen werden beispielsweise in Silver-oder Gold-Stufen eingeteilt. Es gibt einen höheren Balken für die Gold-Kompetenz und eine zugeordnete höhere Menge an Marketingressourcen, angeboten und Programmen.  
 
 Wenn Sie mehr über den Lebenszyklus des Lebenszyklus, die Kompetenz und andere Kompetenz Berichte erfahren möchten, erhalten Sie mehr Verwendungs Informationen aus dem kompetenzbericht.
 
 ## <a name="competency-life-cycle"></a>Lebenszyklus der Kompetenz
 
-Aus Sicht des Lebenszyklus beginnen Partner mit der Entwicklung von Key Performance Indicator (KPIs), die zum Erreichen spezifischer Kompetenzen erforderlich sind. Sobald Sie den Schwellenwert für eine bestimmte Kompetenz über alle erforderlichen Metriken erreichen, werden Sie für eine Kompetenz **qualifiziert** . Partner können dann das Kompetenz Angebot (Silver oder Gold) bezahlen, um die Kompetenz zu erreichen und in dieser Kompetenz **aktiv** zu werden. Der **aktive** Status der Kompetenz ist für ein Jahr ab dem Datum der Erlangung der Kompetenz gültig (Dies wird als **Jahrestag** der Kompetenz bezeichnet). Am Ende des Jahres Jahrs müssen Partner die Kompetenzanforderungen erfüllen. Wenn diese Anforderungen nicht wieder erfüllt werden, verlieren Sie die Kompetenz. Ein **Risiko** Status für eine zuvor ersagte Kompetenz bedeutet, dass bestimmte Schlüsselmetriken an den Schwellenwert für das **Enddatum**der Zuständigkeiten unterliegen.
+Aus Sicht des Lebenszyklus beginnen Partner mit der Entwicklung von Key Performance Indicator (KPIs), die zum Erreichen spezifischer Kompetenzen erforderlich sind. Sobald Sie den Schwellenwert für eine bestimmte Kompetenz über alle erforderlichen Metriken erreichen, werden Sie für eine Kompetenz **qualifiziert** . Partner können dann das Kompetenz Angebot (Silver oder Gold) bezahlen, um die Kompetenz zu erreichen und in dieser Kompetenz **aktiv** zu werden. Der **aktive** Status der Kompetenz ist für ein Jahr ab dem Datum der Erlangung der Kompetenz gültig (Dies wird als **Jahrestag** der Kompetenz bezeichnet). Am Ende des Jahres Jahrs müssen Partner die Kompetenzanforderungen erfüllen. Wenn Sie diese Anforderungen nicht wieder erfüllen, verlieren Sie die Kompetenz. Ein **Risiko** Status für eine zuvor ersagte Kompetenz bedeutet, dass bestimmte Schlüsselmetriken an den Schwellenwert für das **Enddatum** der Zuständigkeiten unterliegen.
 
 ## <a name="competency-attainment"></a>Kompetenz Erreichung
 
@@ -53,7 +54,7 @@ Die folgenden Abschnitte werden im Bericht "Kompetenzen" angezeigt:
 
 ### <a name="summary"></a>Zusammenfassung
 
-Die Zusammenfassungs Ansicht zeigt die Anzahl der Kompetenzen mit ihren Namen auf den einzelnen Zuständigkeits Stufen (Gold/Silver) in allen Phasen des Lebenszyklus der Kompetenz. Zu den Phasen des Lebenszyklus der Kompetenz gehören: **Started**, **qualified**, **Active**und **Risk**. Beispiel: Cloud-Kompetenzanforderungen fallen in zwei Kategorien: Fähigkeiten und Leistung.
+Die Zusammenfassungs Ansicht zeigt die Anzahl der Kompetenzen mit ihren Namen auf den einzelnen Zuständigkeits Stufen (Gold/Silver) in allen Phasen des Lebenszyklus der Kompetenz. Zu den Phasen des Lebenszyklus der Kompetenz gehören: **Started**, **qualified**, **Active** und **Risk**. Beispiel: Cloud-Kompetenzanforderungen fallen in zwei Kategorien: Fähigkeiten und Leistung.
 
 - Started: die Anzahl der Kompetenzen, für die mindestens eine der zugrunde liegenden Anforderungen erfüllt ist.
 Aufschlüsselung der Anzahl gestarteter Zuständigkeiten nach Kompetenzniveau (Silber/Gold) mit Kompetenz Namen.
@@ -73,7 +74,7 @@ In dieser Ansicht wird der Status von Kompetenz Metriken anhand der Schwellenwer
 
 Der Bericht kann nach folgenden zwei Datumsbereichen pivotiert werden:
 
-1. TTM-Ansicht: Hiermit wird die Partner Leistung in den letzten zwölf Monaten (TTM) aufgelistet.
+1. TTM-Ansicht: Hiermit wird die Partner Leistung in den letzten 12 Monaten (TTM) aufgelistet.
 2. Anniversary Year-Ansicht: Hiermit wird die Partner Leistung vom vorherigen Jahrestag bis zum nächsten Anniversary Date aufgelistet.
 
 :::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="Analyse der Kompetenz Metrik":::

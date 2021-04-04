@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b18f42f34951e09272d59c75b4588e962809ce62
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: a7278e6dff35d7941fbe44b65609dc4a2443c1f3
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624203"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132756"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Fügen Sie dem Abrechnungs Profil eine Umsatzsteuer-ID hinzu.
 
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - Abrechnungsadministrator
 - Administrator-Agent
 - Vertriebsbeauftragter
@@ -31,10 +31,10 @@ Sie können das folgende Verfahren verwenden, um Ihr Abrechnungs Profil so zu ak
 ## <a name="update-your-billing-profile-with-your-vat-id"></a>Aktualisieren Ihres Abrechnungs Profils mit ihrer Umsatzsteuer-ID
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
-2. Wählen Sie im Menü " **Einstellungen** " (Zahnrad Symbol) die Option **Kontoeinstellungen** aus.
-3. Wählen Sie auf der Seite **Kontoeinstellungen** im Menü Seite die Option **Partner Abrechnungs Profil** aus.
+2. Wählen Sie im Menü **Einstellungen** (Zahnradsymbol) die Option **Kontoeinstellungen** aus.
+3. Wählen Sie auf der Seite **Kontoeinstellungen** im Seitenmenü die Option **Partnerabrechnungsprofil** aus.
 4. Wählen Sie im Abschnitt **Finanzdaten** die Option **Aktualisieren** aus.
-5. Geben Sie für die **Steuer-ID des Unternehmens** Ihre ID-Nummer an.
+5. Geben Sie unter **Steuernummer des Unternehmens** Ihre USt-IdNr. ein.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

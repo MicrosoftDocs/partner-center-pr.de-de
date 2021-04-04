@@ -8,24 +8,21 @@ description: Verkaufen Sie minecraft Education Edition-Abonnements an qualifizie
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4fa7c3828bc6c6bc3fb711184a876c0b92b925
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2c1c49dee1e9531a725f679b52adc18d4e5d856b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000064"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133011"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Verkaufen von minecraft: Education Edition-Abonnements für Bildungs Kunden
 
-**Zielgruppe**
-
--  Partner Center
-
 **Geeignete Rollen**
--   Globaler Administrator
--   Benutzeradministrator
--   Vertriebsbeauftragter
--   Administrator-Agent
+
+- Globaler Administrator
+- Benutzerverwaltungsadministrator
+- Vertriebsbeauftragter
+- Administrator-Agent
 
 Partner, die mit Bildungseinrichtungen zusammenarbeiten, können Ihnen **minecraft: Education Edition** -Abonnements anbieten. Sie erwerben das Abonnement im Auftrag des Kunden in Partner Center, und der Kunde lädt die Software dann aus dem [Microsoft Store für Bildungseinrichtungen](https://educationstore.microsoft.com) herunter. 
 
@@ -38,7 +35,7 @@ Partner, die mit Bildungseinrichtungen zusammenarbeiten, können Ihnen **minecra
 Führen Sie die folgenden Schritte aus, um **minecraft: Education Edition** -Abonnements im [Partner Center](https://partnercenter.microsoft.com/pcv/dashboard/overview
 ) (Anmeldung erforderlich) zu erwerben:
 
-  1.  Wählen Sie im Menü „Partner Center” die Option **Kunden** aus.
+  1.  Wählen Sie im Menü „Partner Center” **Kunden** aus.
   
   2.  Wählen Sie den Bildungskunden aus der Kundenliste und dann **Abonnements hinzufügen** aus.
   

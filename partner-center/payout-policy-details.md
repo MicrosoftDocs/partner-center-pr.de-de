@@ -1,22 +1,22 @@
 ---
 title: Auszahlungszeitpläne und -prozesse
 description: Erfahren Sie mehr über Auszahlungen und Transaktionen, z. b. Zahlungs Zeitpläne und Wiederholungsprozesse für den kommerziellen Marketplace und andere Transaktionen.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756844"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086174"
 ---
 # <a name="payout-schedules-and-processes"></a>Auszahlungszeitpläne und -prozesse
 
-**Geeignete Rollen:**
+**Geeignete Rollen**
 
 - Kontoadministrator
 - Globaler Administrator
@@ -33,7 +33,7 @@ Wenn ein Kunde ein Produkt von Microsoft AppSource oder Azure Marketplace mit vo
 
 Es kommt häufig vor, dass Microsoft die Zahlung vom Kunden sammelt. Weitere Informationen zu den Aktionen, die wir durchführen, wenn der Kunde [Microsoft nicht bezahlt](#process-for-customer-non-payment) , aber wir haben bereits eine Auszahlung ausgegeben.
 
-| Ereignis | BESCHREIBUNG | Sichtbarkeit von Berichten | Zeit Steuerungs |
+| Ereignis | Beschreibung | Sichtbarkeit von Berichten | Zeit Steuerungs |
 | --- | --- | --- | --- |
 | Verwendung oder Monat der Transaktion | Der Kunde verwendet oder kauft einen Dienst. | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 1** |
 | Microsoft berechnet Abrechnungsbetrag | Bestimmen der Gesamtauslastung, Transaktionen gesamt | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 2** |
@@ -51,7 +51,7 @@ Es kommt häufig vor, dass Microsoft die Zahlung vom Kunden sammelt. Weitere Inf
 
 Alle Käufe mit einer Kreditkarte oder einer monatlichen Rechnung verfügen über einen Zeitraum von 30 Tagen, um sicherzustellen, dass die Geldbeträge vom Kunden gesammelt werden.
 
-| Ereignis | BESCHREIBUNG | Sichtbarkeit von Berichten | Zeit Steuerungs |
+| Ereignis | Beschreibung | Sichtbarkeit von Berichten | Zeit Steuerungs |
 | --- | --- | --- | --- |
 | Verwendung oder Monat der Transaktion | Der Kunde verwendet oder kauft einen Dienst. | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 1** |
 | Von Kunde bezahlte Rechnung | Ermitteln der Gesamtauslastung, des gesamten Transaktionswerts und der Kunden zahlungsrechnung | Dashboard für [Nutzung](/azure/marketplace/partner-center-portal/usage-dashboard) oder [Bestellung](/azure/marketplace/partner-center-portal/orders-dashboard) | **Monat 2** |
@@ -67,13 +67,13 @@ Alle Käufe mit einer Kreditkarte oder einer monatlichen Rechnung verfügen übe
 
 ## <a name="process-for-customer-non-payment"></a>Prozess bei Nichtzahlung des Kunden
 
-In seltenen Fällen gelingt es Microsoft nicht, Kundenzahlungen für Käufe im kommerziellen Marketplace einzuziehen. Sollte ein Kunde seiner Zahlungsverpflichtung gegenüber Microsoft nicht gemäß dem entsprechenden Abrechnungszeitplan nachkommen, beginnt der Inkassoprozess. Dieser dauert ungefähr vier Monate und beinhaltet eine beharrliche Kommunikation durch Microsoft. Sollte die Zahlung bis zum Ende dieses Prozesses nicht eingehen, schreibt Microsoft den Betrag als uneinbringlich ab.
+In seltenen Fällen gelingt es Microsoft nicht, Kundenzahlungen für Käufe im kommerziellen Marketplace einzuziehen. Sollte ein Kunde seiner Zahlungsverpflichtung gegenüber Microsoft nicht gemäß dem entsprechenden Abrechnungszeitplan nachkommen, beginnt der Inkassoprozess. Dieser dauert ungefähr vier Monate und beinhaltet eine beharrliche Kommunikation durch Microsoft. Wenn die Zahlung am Ende dieses Vorgangs nicht empfangen wird, schreibt Microsoft den Betrag als nicht aufgängig.
 
 Aufgrund des hier beschriebenen Auszahlungsprozesses wurden von Microsoft unter Umständen bereits Zahlungen an Herausgeber (Sie) geleistet, die letztendlich uneinbringlich sind. Für Beträge dieser Art gibt es daher einen Ausgleichsprozess. Wenn der Inkassoprozess für einen Kunden gestartet wurde und die Käufe voraussichtlich abgeschrieben werden müssen, erhalten Sie eine entsprechende Benachrichtigung, um Sie darüber zu informieren, dass Ihre (bereits erhaltene) Zahlung unter Umständen ausgeglichen werden muss.
 
 Microsoft verwendet eine der folgenden Methoden, um bereits an Sie geleistete Zahlungen zurückzuerhalten: (1) Microsoft kann die unbezahlten Beträge mit zukünftigen Auszahlungen verrechnen. Wenn also beispielsweise Auszahlungen in Höhe von 1.000 USD als uneinbringlich eingestuft und abgeschrieben werden, werden Ihre zukünftigen Auszahlungen so lange zurückgehalten, bis die 1.000 USD ausgeglichen sind. (2) Alternativ kann Microsoft von Herausgebern eine Rückerstattung für nicht geleistete Zahlungen verlangen oder ihnen den entsprechenden Betrag in Rechnung stellen.
 
-Im Anschluss finden Sie einen Beispielzeitplan:
+Der folgende Zeitplan ist ein Beispiel:
 
 | Ereignis | Ungefähre Datumsangabe * | Partnersichtbarkeit |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Im Anschluss finden Sie einen Beispielzeitplan:
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Anzahl der Tage bis zum Eingang von Zahlungen auf einem Auszahlungskonto
 
-In der Regel senden wir die in einem Monat fälligen Zahlungen am 15. des Monats, es dauert jedoch einige Zeit, bis die Zahlung auf Ihrem Konto eingeht. Die Anzahl der Tage hängt von der Zahlungsmethode ab, die wir für Ihr Konto verwenden, wie unten beschrieben.
+Wir senden in der Regel eine beliebige Zahlung in einem bestimmten Monat am 15. Tag des Monats, aber es dauert eine Weile, bis die Zahlung Ihr Konto erreicht hat. Die Anzahl der Tage hängt von der Zahlungsmethode ab, die wir für Ihr Konto verwenden, wie unten beschrieben.
 
 > [!NOTE]
 > Die unten gezeigten Tage sind ungefähre Werte. das Erreichen Ihres Kontos kann mehr oder weniger Zeit in Anspruch nehmen.

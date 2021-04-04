@@ -4,27 +4,28 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sehen Sie sich an, was Sie gut machen und wo Sie die Nutzung von Azure-Abonnements verbessern können, die Sie für Ihre Kunden verkaufen oder verwalten.
+description: Sehen Sie, was Sie gut machen und wo Sie Ihre Nutzung von Azure-Abonnements verbessern können, die Sie für Ihre Kunden verkaufen oder verwalten.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220728"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086208"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Azure-Verwendungs Bericht, der im Partner Center Insights-Dashboard verfügbar ist
 
 **Geeignete Rollen**
+
 - Globaler Administrator
 - Administrator-Agent
-- Berichtanzeige
-- Executive Report Viewer
+- Berichtleser
+- Executive Report-Leser
 
-Der Azure-Verwendungs Bericht zeigt Metriken im Zusammenhang mit den Azure-Abonnements ihrer Kunden an. Dies umfasst den Azure-Verbrauchs Umsatz und die Nutzung nach Abrechnungs Kategorien. Die folgenden Abschnitte können Sie im Azure-Verwendungs Bericht anzeigen.
+Der Azure-Verwendungs Bericht zeigt Metriken im Zusammenhang mit den Azure-Abonnements ihrer Kunden an. Dieser Bericht enthält den Azure-Verbrauchs Umsatz und die Nutzung nach Abrechnungs Kategorien. Die folgenden Abschnitte können Sie im Azure-Verwendungs Bericht anzeigen.
 
 - Zusammenfassung
 - Azure-Nutzung nach Geografie
@@ -37,9 +38,10 @@ Der Azure-Verwendungs Bericht zeigt Metriken im Zusammenhang mit den Azure-Abonn
 
 Der Abschnitt Zusammenfassung enthält eine Momentaufnahme Ansicht der KPIs (Key Performance Indicator) für Azure-Abonnements, die von Ihnen für Ihre Kunden verkauft oder verwaltet werden.  
 
-- Azure-Abonnements: die aktuelle Anzahl von Azure-Kunden Abonnements, die von Ihrem prozentualen Wachstum oder der Abnahme von Azure-Abonnements während des ausgewählten Datums Bereichs verkauft oder verwaltet werden.
+- Azure-Abonnements: aktuelle Anzahl von Azure-Kunden Abonnements, die von Ihnen verkauft oder verwaltet werden.
+Prozentualer Zuwachs oder ablehnen dieser Azure-Abonnements während des ausgewählten Datums Bereichs.
 
-Das Micro-Diagramm zeigt einen Monat-für-Monat-Trend der Anzahl der Azure-Abonnements für den ausgewählten Datumsbereich.
+Das Micro-Diagramm zeigt einen Monat-für-Monat-Trend der Azure-Abonnement Anzahl für den ausgewählten Datumsbereich.
 - Aktive Azure-Abonnements: aktuelle Anzahl der von Ihnen verkauften oder verwalteten Azure-Abonnements, die in den letzten 30 Tagen aktiv genutzt wurden.
 Prozentuale Vergrößerung oder Ablehnung dieser Abonnements während des ausgewählten Datums Bereichs.
 

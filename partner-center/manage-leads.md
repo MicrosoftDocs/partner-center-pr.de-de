@@ -9,21 +9,14 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944477"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133113"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Verwalten verschiedener Leads wie Kundenanfragen, durch Marketing qualifizierte Leads und durch den Vertrieb qualifizierte Leads
-
-**Zielgruppe**
-
-- Partner Center
-- Empfehlungen
-- Microsoft-Lösungsanbieter
-- Geschäftsprofile
 
 **Geeignete Rollen**
 
@@ -46,9 +39,9 @@ Die Voraussetzung für den Empfang von Leads besteht darin, [ein Geschäftsprofi
 
 Im Abschnitt Leads befinden sich drei Registerkarten der obersten Ebene. 
 
-**Marketplace-Leads** – alle Leads aus den Seiten Suchläufen von Microsoft Solution Provider, bei denen es sich um Kundenanfragen handelt.
+**Marketplace-Leads** – Dies sind alle Leads, die von den Seiten Suchvorgängen von Microsoft-Lösungsanbietern stammen. Dies sind Kundenanfragen.
 
-**Qualifizierte Leads** – alle Leads von Type Marketing Qualified und Sales Qualified sind auf dieser Registerkarte verfügbar.
+**Qualifizierte Leads** – Dies sind alle Leads des qualifizierten Typs "Marketing" und "Sales qualified".
 
 **Favoriten** – alle Leads, die auf der Registerkarte Marketplace-Leads oder qualifizierte Leads als Favoriten gekennzeichnet sind, werden auf dieser Registerkarte angezeigt. Sie können beliebige Leads als Favoriten markieren, indem Sie in der Listenansicht auf das Herz Symbol in der Führungs Fläche klicken. Sie können den Lead aus den Favoriten entfernen, indem Sie einfach erneut auf dasselbe Symbol klicken.
 
@@ -62,7 +55,7 @@ In dieser Phase haben Sie entweder direkt vom Kunden oder von einem Microsoft-Mi
 
 Sie können in dieser Phase zwei Aktionen ausführen: akzeptieren oder ablehnen Sie den Verweis:
 
-- **Akzeptieren:** Geben Sie einen Namen für den Deal, den geschätzten Wert für das Geschäft und den geschätzten Kauf Zeitraum ein. Sie sollten auch Informationen im Feld **Anmerkungen** bereitstellen, um ausführlicher zu erläutern, was der Kunde sucht. Sie können hier optional Ihre CRM-ID eingeben (nur für Ihre Referenz), die ID der Marketingkampagne, die zu dem jeweiligen Lead geführt hat, und zusätzliche Kontakte aus Ihrem Unternehmen hinzufügen. Wählen Sie **Weiter**, wenn Sie fertig sind. Wir werden den Verweis auf die **nächste Phase**verschieben, was bedeutet, dass Sie den Kunden aktiv mit dem Kunden in Verbindung setzen möchten. Diese Informationen werden auch verwendet, um in Zukunft ähnliche Angebote zu finden. 
+- **Accept**: Geben Sie einen Namen für den Deal, den geschätzten Wert für den Wert und den geschätzten kaufzeit Rahmen ein. Sie sollten auch Informationen im Feld **Anmerkungen** bereitstellen, um ausführlicher zu erläutern, was der Kunde sucht. Sie können hier optional Ihre CRM-ID eingeben (nur für Ihre Referenz), die ID der Marketingkampagne, die zu dem jeweiligen Lead geführt hat, und zusätzliche Kontakte aus Ihrem Unternehmen hinzufügen. Wählen Sie **Weiter**, wenn Sie fertig sind. Wir werden den Verweis auf die **nächste Phase** verschieben, was bedeutet, dass Sie den Kunden aktiv mit dem Kunden in Verbindung setzen möchten. Diese Informationen werden auch verwendet, um in Zukunft ähnliche Angebote zu finden. 
 
 - **Ablehnen**: Wählen Sie den Grund für den Verlust des Deals aus, und fügen Sie Notizen hinzu, die Sie einschließen möchten, und wählen Sie dann **Schließen** aus. Wir archivieren Sie als **abgelehnt** und benachrichtigen den Kunden, einen anderen Partner auszuwählen.
 
@@ -73,7 +66,7 @@ Sie können in dieser Phase zwei Aktionen ausführen: akzeptieren oder ablehnen 
 
 ### <a name="accepted-stage"></a>Akzeptierte Phase
 
-Wenn Sie den Aufwand schließen möchten, wählen Sie **Bearbeiten**aus, wenn Sie die Informationen ändern möchten, die Sie für eine akzeptierte Referenz bereitgestellt haben. Anschließend können Sie den Namen, den geschätzten kauftermin, den geschätzten Wert, Notizen, die CRM-ID und/oder die Marketingkampagnen-ID aktualisieren.  Sie können auch die Option **Ihre Mitarbeiter hinzufügen** auswählen, um den Namen, die Telefonnummer und die e-Mail-Adressen aller weiteren Personen anzugeben, die an diesem Teil arbeiten.
+Wenn Sie den Aufwand schließen möchten, wählen Sie **Bearbeiten** aus, wenn Sie die Informationen ändern möchten, die Sie für eine akzeptierte Referenz bereitgestellt haben. Anschließend können Sie den Namen, den geschätzten kauftermin, den geschätzten Wert, Notizen, die CRM-ID und/oder die Marketingkampagnen-ID aktualisieren.  Sie können auch die Option **Ihre Mitarbeiter hinzufügen** auswählen, um den Namen, die Telefonnummer und die e-Mail-Adressen aller weiteren Personen anzugeben, die an diesem Teil arbeiten.
 
 Wenn Sie fertig sind, können Sie eine der beiden Aktionen ausführen, die das Ergebnis als " **gewonnen** " **markieren, um das Ergebnis zu melden** , damit wir es entsprechend archivieren können.
 
@@ -85,15 +78,15 @@ Dies ist eine Terminalphase, in der alle Verkaufschancen letztendlich erreicht w
 
 Hier finden Sie einige Tipps, die Ihnen helfen, geeignetere Verweise zu erhalten:
 
-- **Wählen Sie in Ihrem [Unternehmensprofil](create-a-marketing-profile.md) Schlüsselwörter und Einstellungen aus, die Ihr einzigartiges Expertenwissen und Geschäftsmodell darstellen**. Entfernen Sie Schlüsselwörter, die Verweise generieren, für die Sie nicht interessiert sind. Wenn Sie nicht an Unternehmen mit einer bestimmten Größe interessiert sind, sollten Sie diese Einstellung aktualisieren.
+- **Wählen Sie Schlüsselwörter und Einstellungen aus, die Ihr eindeutiges Know-how und Geschäftsmodell in Ihrem [Geschäftsprofil](create-a-marketing-profile.md)darstellen**. Entfernen Sie Schlüsselwörter, die Verweise generieren, für die Sie nicht interessiert sind. Wenn Sie nicht an Unternehmen mit einer bestimmten Größe interessiert sind, sollten Sie diese Einstellung aktualisieren.
 
-- **Überprüfen Sie Ihre Kontaktinformationen in Ihrem [Geschäftsprofil](create-a-marketing-profile.md) für jeden Standort** . Stellen Sie sicher, dass Ihr Team eingehende Warnungen erhält.
+- **Überprüfen Sie Ihre Kontaktinformationen in Ihrem [Geschäftsprofil](create-a-marketing-profile.md) für jeden Standort**. Stellen Sie sicher, dass Ihr Team eingehende Warnungen erhält.
 
-- **Schnelle Reaktion auf Verweise** Wenn Sie rechtzeitig auf eingehende Anforderungen reagieren, erhöhen wir Ihre Sichtbarkeit in zukünftigen Kunden Suchergebnissen. Stellen Sie sicher, dass Ihr Team in Ihrem Sinne schnell reagiert.
+- **Reagieren Sie schnell auf Empfehlungen**. Wenn Sie rechtzeitig auf eingehende Anforderungen reagieren, erhöhen wir Ihre Sichtbarkeit in zukünftigen Kunden Suchergebnissen. Stellen Sie sicher, dass Ihr Team in Ihrem Sinne schnell reagiert.
 
-- **Seien Sie mit den von Ihnen akzeptierten Abschlüssen Choosy** . Wir überwachen die Typen von Abschlüssen, die Sie akzeptieren und ablehnen, und verwenden diese Informationen, um Ihnen die Suche nach ähnlichen Vereinbarungen zu erleichtern. Wenn Sie nicht gut geeignete Angebote akzeptieren, können Sie die Suchergebnisse nicht verbessern und sich auf die Qualität der Leads auswirken, die Sie erhalten.
+- **Seien Sie bei den Angeboten, die Sie akzeptieren, wählerisch**. Wir überwachen die Typen von Abschlüssen, die Sie akzeptieren und ablehnen, und verwenden diese Informationen, um Ihnen die Suche nach ähnlichen Vereinbarungen zu erleichtern. Wenn Sie nicht gut geeignete Angebote akzeptieren, können Sie die Suchergebnisse nicht verbessern und sich auf die Qualität der Leads auswirken, die Sie erhalten.
 
-- **Melden Sie den geschätzten Geschäftsumfang, Enddatum und den endgültigen Status Ihrer Geschäfte ** (gewonnen oder verloren) zurück an uns. Wir verwenden diese Informationen, um Ihnen weiterhin Qualitäts Referenzen zu bieten.
+- **Melden Sie die geschätzten Größen für das Geschäft, die schließenden Datumsangaben und den endgültigen Status Ihrer Geschäfte (gewonnen oder verloren)**. Wir verwenden diese Informationen, um Ihnen weiterhin Qualitäts Referenzen zu bieten.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

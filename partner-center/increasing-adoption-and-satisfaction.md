@@ -9,24 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 7a42381e6c7f3b33acae887f78fb87b5d309279e
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691366"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178934"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Verwenden von Metriken im Partner Center, um Akzeptanz und Zufriedenheit zu steigern
-
-**Zielgruppe**
-
-- Partner Center
-- Programm für Cloud-Lösungsanbieter
 
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - Administrator-Agent
 - Vertriebsbeauftragter
 
@@ -61,7 +56,7 @@ Sie können Lizenz-und Benutzerdaten für einen einzelnen Kunden oder für das g
 
 Terminologie:
 
-- **Berechtigung** = eine Lizenz, die der Benutzer verwendet (er wird nicht für Betrug oder Nichtzahlung angehalten, es wurde kein Upgrade auf eine andere Lizenz durchgeführt, er wurde nicht vom Benutzer abgebrochen usw.)
+- **Berechtigung** = eine Lizenz, für die der Benutzer berechtigt ist (er wird nicht für Betrug oder Nichtzahlung angehalten, es wurde kein Upgrade auf eine andere Lizenz durchgeführt, er wurde nicht vom Benutzer abgebrochen, oder ein anderes Problem).
 
 - **Aktiv** = gibt an, ob der abonnierte Benutzer die Berechtigung für eine Aufgabe in den letzten 28 Kalendertagen verwendet hat.
 
@@ -69,7 +64,7 @@ Terminologie:
 
 - **Verwendung%** = aktive Benutzer/Benutzer gesamt
 
-   Manchmal ist die prozentuale Nutzung überhöht oder größer als 100 %. Dies kann verschiedene Ursachen haben:
+   Manchmal ist die prozentuale Nutzung überhöht oder größer als 100 %. Dieses Problem kann aus verschiedenen Gründen auftreten:
 
   - Die Lizenz wurde aufgrund eines Mitarbeiterwechsels beim Kunden auf einen neuen Benutzer übertragen.
 
@@ -77,7 +72,7 @@ Terminologie:
 
   - Wenn der Kunde über ein Testabonnement verfügt, wird die Aktivität erfasst, aber das Abonnement wird nicht auf die Gesamtberechtigungen angerechnet.
 
-  - Wenn einige Kunden Yammer viel intensiver nutzen als per Lizenz vereinbart, können die Daten erheblich verzerrt sein.
+  - Wenn einige Kunden Yammer erheblich mehr verwenden, als Sie mit Ihrer Lizenz berechtigt sind, können die Daten drastisch verzerrt werden.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

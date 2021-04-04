@@ -8,21 +8,21 @@ ms.subservice: partnercenter-mpn
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 458f055dc55d6026ec042c4c40766635d229c08b
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 26162b4164d3bb8f1572c460f431efab056e1a8a
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100082947"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132586"
 ---
 # <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>Demos für MPN-Partner – Microsoft 365, Dynamics 365, Teams usw.
 
-**Geeignete Rollen**:
+**Geeignete Rollen**
 
 - MPN-Partneradministrator
 - Kontoadministrator
 
-Microsoft Partner Network bietet eine Vielzahl von Demos für Silver-, Gold-und Action Pack-Partner.
+Microsoft Partner Network (MPN) stellt eine breite Palette von Demos für Silver-, Gold-und Action Pack-Partner bereit.
 
 ## <a name="access-mpn-demos"></a>MPN-Demos aufrufen
 

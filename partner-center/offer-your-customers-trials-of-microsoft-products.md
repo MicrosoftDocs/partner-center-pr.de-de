@@ -9,23 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53f4a16ac5d0f33fd534d7fd9a13eaf5a25cf3ea
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999214"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132330"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Bieten Sie Kunden 30-tägige kostenlose Testversionen von Microsoft-Produkten an.
 
-**Zielgruppe**
-
-- Partner Center
-
 **Geeignete Rollen**
--   Globaler Administrator 
--   Benutzeradministrator
--   Vertriebsbeauftragter
+
+- Globaler Administrator
+- Benutzerverwaltungsadministrator
+- Vertriebsbeauftragter
 
 Eine gute Möglichkeit, Kunden neue Microsoft-Produkte vorzustellen, besteht darin, 30 Tage kostenlose Testversionen anzubieten. Sie können sich für die Testversionen im Katalog ebenso wie für viele andere Onlinedienste registrieren. Alle Partner können daran teilnehmen.
 
@@ -54,8 +51,8 @@ Testlizenzen sollten Benutzern auf die gleiche Weise zugewiesen werden, wie die 
 Verschaffen Sie sich eine Testversion für Ihren Kunden im Partner Center:
 
 1. Navigieren Sie im Partner Center unter **Verkaufen** zu **Katalog**. 
-2. Klicken Sie im Katalog unter **Billing frequency** (Abrechnungshäufigkeit) auf **Trial offer** (Testangebot). Dadurch werden nur kostenlose Testversionen angezeigt und kostenpflichtige Angebote ausgeblendet. Testversionen werden im Katalog auf der Registerkarte **Testversionen** angezeigt.
-3. Wählen Sie die kostenlose Testversion aus, die Sie anbieten möchten, und wählen Sie dann **Übermitteln** aus. Alle Testversionen werden 30 Tage lang in Rechnung gestellt. Sie können sie auch zu einem beliebigen Zeitpunkt während des Testzeitraums in ein kostenpflichtiges Abonnement umwandeln.
+2. Wählen Sie im Katalog unter **Abrechnungs Häufigkeit** die Option **Testangebot** aus. Dadurch werden nur kostenlose Testversionen angezeigt und kostenpflichtige Angebote ausgeblendet. Testversionen werden im Katalog auf der Registerkarte **Testversionen** angezeigt.
+3. Wählen Sie die kostenlose Testversion aus, die Sie anbieten möchten, und wählen Sie dann **Übermitteln** aus. Alle Testversionen gelten für 30 Tage, in denen keine Kosten in Rechnung gestellt werden. Sie können sie auch zu einem beliebigen Zeitpunkt während des Testzeitraums in ein kostenpflichtiges Abonnement umwandeln.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Umstellen von Testversionen in kostenpflichtige Abonnements
 
@@ -73,7 +70,7 @@ Sie können mithilfe von Partner Center Tests in kostenpflichtige Abonnements ko
 1. Wählen Sie auf der Abonnementseite des Kunden die kostenlose Testversion aus.
 2. Wählen Sie **Testabonnement auf kostenpflichtiges Abonnement umstellen** aus.
 3. Geben Sie die gewünschte Anzahl von Lizenzen und die Abrechnungshäufigkeit ein, und wählen Sie **Übernehmen** aus.
-4. Die Abrechnung für das kostenpflichtige Abonnement beginnt am Konvertierungs Datum, und das Abonnement wird zwölf Monate nach dem Konvertierungs Datum automatisch veröffentlicht. 
+4. Die Abrechnung für das kostenpflichtige Abonnement beginnt am Konvertierungs Datum, und das Abonnement wird automatisch um 12 Monate nach dem Konvertierungs Datum erneuert. 
 
 ### <a name="convert-trials-using-apis"></a>Konvertieren von Testversionen mithilfe von APIs
 
@@ -88,7 +85,7 @@ Nicht alle Tests können in kostenpflichtige Abonnements konvertiert werden. Par
 
 |**Testversion**   |**Kompatible Small Business-Angebote**   |**Kompatible Enterprise-Angebote**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Testversion der kommerziellen Cloud von Microsoft Teams (vom Benutzer initiiert)   |Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 Business Premium   | F3 (ehemals F1), Office 365 for Enterprise (E1, E3 und E5), M365 F1/F3, M365 Enterprise (E3)   |
+|Testversion der kommerziellen Cloud von Microsoft Teams (vom Benutzer initiiert)   |Microsoft 365 Business Basic, Microsoft 365 Business Standard, Microsoft 365 Business Premium   | F3 (ehemals F1), Office 365 for Enterprise (E1, E3 und E5), Microsoft 365 F1/F3, Microsoft 365 Enterprise (E3)   |
 
 >[!NOTE]
 >Die oben aufgeführten Angebote verfügen über ähnliche Servicepläne mit ähnlichen Funktionen, es gibt jedoch möglicherweise einige Unterschiede zwischen den angeboten.
@@ -107,7 +104,7 @@ Die jährlichen Abrechnungs-und kostenlosen Testversionen sind in unabhängigen 
 
 Kostenlose Testversionen können sowohl für monatliche als auch für jährlich in Rechnung gestellte Abonnements verwendet werden. Sie können die Abrechnungs Häufigkeit auswählen, wenn Sie die Testversion in ein kostenpflichtiges Abonnement konvertieren.
 
-Das Startdatum des Abonnements basiert auf dem Konvertierungs Datum. Wenn die kostenlose Testversion in ein kostenpflichtiges Angebot mit jährlicher Abrechnung umgewandelt wird, liegt das Verlängerungsdatum des Abonnements zwölf Monate nach dem Datum der Umwandlung. Wird die kostenlose Testversion in ein kostenpflichtiges Angebot mit monatlicher Abrechnung umgewandelt, liegt das Verlängerungsdatum des Abonnements zwölf Monate nach dem auf das Datum der Umwandlung folgenden Abrechnungsdatum.
+Das Startdatum des Abonnements basiert auf dem Konvertierungs Datum. Wenn die kostenlose Testversion mit jährlicher Abrechnung in ein kostenpflichtiges Angebot konvertiert wird, beträgt das Abonnement Erneuerungsdatum 12 Monate ab dem Konvertierungs Datum. Wird die kostenlose Testversion in ein kostenpflichtiges Angebot mit monatlicher Abrechnung umgewandelt, liegt das Verlängerungsdatum des Abonnements zwölf Monate nach dem auf das Datum der Umwandlung folgenden Abrechnungsdatum.
 
 ### <a name="invoices"></a>Invoices
 

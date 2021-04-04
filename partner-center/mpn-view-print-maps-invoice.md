@@ -9,23 +9,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4102dae63c07a85993f1cf4a9a9dc91e42ee493a
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: b61fd5c3c68b3bbd9396cf55a53c22b85523d976
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120044"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132790"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Rechnungen und Steuern im Microsoft Partner Network
-
-**Zielgruppe**
-
-- Partner Center
 
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - MPN-Partneradministrator
 - Abrechnungsadministrator
 - Administrator-Agent
@@ -38,28 +34,28 @@ Sie müssen ein globaler Administrator oder MPN-Partner Administrator sein, um d
 
 1.  Melden Sie sich mit Ihrem Geschäftskonto bei [Partner Center](https://partner.microsoft.com/dashboard/home) an, und wählen Sie im Menü auf der linken Seite **MPN** aus.
 
-4.  Wählen Sie in der Dropdown Liste **mitgliedschaftsangebote** aus, um die verfügbaren Angebote sowie die verfügbaren Rechnungen für das aktuelle Registrierungs Jahr anzuzeigen. Wählen Sie **Abgelaufen** aus, um die Rechnungen für die vorherigen Jahre anzuzeigen.
+4.  Wählen Sie in der Dropdown Liste **mitgliedschaftsangebote** aus, um die verfügbaren Angebote und die verfügbaren Rechnungen für das aktuelle Registrierungs Jahr anzuzeigen. Wählen Sie **Abgelaufen** aus, um die Rechnungen für die vorherigen Jahre anzuzeigen.
 
-6.  Wählen Sie die gewünschte Rechnung aus, und wählen Sie dann **Rechnung herunterladen**aus. 
+6.  Wählen Sie die gewünschte Rechnung aus, und wählen Sie dann **Rechnung herunterladen** aus. 
 
 ## <a name="file-a-tax-exemption"></a>Beantragen einer Steuerbefreiung
 
-1.  Wählen Sie im Partner Center die Option **Einstellungen**aus.
-    - Wählen Sie **Partner Profil**aus, um Ihre MPN-ID zu ermitteln.
+1.  Wählen Sie im Partner Center die Option **Einstellungen** aus.
+    - Wählen Sie **Partner Profil** aus, um Ihre MPN-ID zu ermitteln.
 
-2.  Erstellen Sie ein neues Supportticket. Wählen Sie im Partner Center **Service Requests**aus, wählen Sie **Partner Center-Anforderungen**aus, und wählen Sie dann **neue Anforderung**aus.
+2.  Erstellen Sie ein neues Supportticket. Wählen Sie im Partner Center **Service Requests** aus, wählen Sie **Partner Center-Anforderungen** aus, und wählen Sie dann **neue Anforderung** aus.
 
-3.  Füllen Sie das Formular aus. Wählen Sie für den **Problemtyp**die Option **mein Profil kann nicht verwaltet**aus. Fügen Sie in der Beschreibung ihre MPN-ID ein.
+3.  Füllen Sie das Formular aus. Wählen Sie für den **Problemtyp** die Option **mein Profil kann nicht verwaltet** aus. Fügen Sie in der Beschreibung ihre MPN-ID ein.
 
 4.  Nachdem Sie das Ticket übermittelt haben, erhalten Sie von Microsoft eine E-Mail mit der Bitte um weitere Informationen. Fügen Sie Ihrer Antwort die erforderlichen Bescheinigungen für Ihre Steuerbefreiung bei.
 
 ## <a name="send-microsoft-your-vat-id-number"></a>Übermitteln der USt-IdNr. an Microsoft
 
-1.  Wählen Sie im Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/home)die Option **mitgliedschaftsangebote**aus, und wählen Sie dann **verfügbar**aus. 
+1.  Wählen Sie im Partner Center- [Dashboard](https://partner.microsoft.com/dashboard/home)die Option **mitgliedschaftsangebote** aus, und wählen Sie dann **verfügbar** aus. 
 
 2.  Wählen Sie **Ihre Umsatzsteuer-ID hinzufügen**. 
 
-3.  Geben Sie die ID für Ihr Unternehmen ein, wählen Sie **Hinzufügen**aus, und klicken Sie dann auf **weiter**. 
+3.  Geben Sie die ID für Ihr Unternehmen ein, wählen Sie **Hinzufügen** aus, und klicken Sie dann auf **weiter**. 
 
 ## <a name="next-steps"></a>Nächste Schritte
 

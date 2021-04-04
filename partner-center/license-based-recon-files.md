@@ -2,28 +2,30 @@
 title: Lizenzbasierte Abstimmungsdateien
 ms.topic: article
 ms.date: 05/18/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie Lizenz basierte ababstimmungs Dateien im Partner Center lesen. In diesem Artikel wird die Bedeutung der einzelnen Felder in ihrer lizenzbasierten Reconnaissance-Datei erläutert.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86581db73f1bf2b6660af45aca4747a5db779bbe
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: bc97156d23fa4ea1082a0ad4a931ff36375897a7
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444914"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178917"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Grundlegendes zu den Feldern in den lizenzbasierten Abstimmungs Dateien von Partner Center
 
 **Zielgruppe**
 
-- Partner Center
-- Partner Center für Microsoft Cloud for US Government
+- Partner Center für Microsoft Government Cloud
 
 **Geeignete Rollen**
+
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - Abrechnungsadministrator
 - Administrator-Agent
 
@@ -44,14 +46,14 @@ Vergleichen Sie die **Syndication_Partner_Subscription_Number** aus der Abstimmu
 | OfferId | Eindeutige Angebots Kennung. Standard Angebots Bezeichner, wie in der Preisliste definiert. *Dieser Wert stimmt nicht mit der **Angebots-ID** aus der Preisliste. Siehe **durableofferid** .* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
 | DurableOfferID | Eindeutiger Bezeichner für permanente Angebote, wie in der Preisliste definiert. *Dieser Wert entspricht der **Angebots-ID** aus der Preisliste.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
 | OfferName | Der Name des Service-Angebots, das der Kunde gekauft hat, wie in der Preisliste definiert. | *Microsoft Office 365 (Plan E3)* |
-| SubscriptionStartDate | Das Startdatum des Abonnements. Die Uhrzeit ist immer der Tagesanfang (0:00 Uhr). Dieses Feld ist auf den Tag festgelegt, an dem die Bestellung übermittelt wurde. Wird in Verbindung mit dem Abonnement **Enddatum** verwendet, um zu bestimmen, ob sich der Kunde noch innerhalb des ersten Jahres des Abonnements befindet oder ob das Abonnement für das folgende Jahr erneuert wurde. | *2/1/2019 0:00* |
-| SubscriptionEndDate | Das Enddatum des Abonnements. Die Uhrzeit ist immer der Tagesanfang (0:00 Uhr). Entweder *12 Monate Plus **x** Tage nach dem Startdatum* , um das Abrechnungsdatum des Partners oder *12 Monate ab dem Erneuerungsdatum*auszurichten. Bei Verlängerung werden die Preise gemäß der aktuellen Preisliste aktualisiert. Vor einer automatischen Verlängerung ist möglicherweise die Kommunikation mit dem Kunden erforderlich. | *2/1/2019 0:00* |
+| SubscriptionStartDate | Das Startdatum des Abonnements. Die Uhrzeit ist immer der Tagesanfang (0:00 Uhr). Dieses Feld ist auf den Tag festgelegt, an dem die Bestellung übermittelt wurde. Wird mit dem Abonnement **Enddatum** verwendet, um zu bestimmen, ob der Kunde noch innerhalb des ersten Jahres des Abonnements liegt oder ob das Abonnement für das folgende Jahr erneuert wurde. | *2/1/2019 0:00* |
+| SubscriptionEndDate | Das Enddatum des Abonnements. Die Uhrzeit ist immer der Tagesanfang (0:00 Uhr). Entweder *12 Monate Plus **x** Tage nach dem Startdatum* , um das Abrechnungsdatum des Partners oder *12 Monate ab dem Erneuerungsdatum* auszurichten. Bei Verlängerung werden die Preise gemäß der aktuellen Preisliste aktualisiert. Vor einer automatischen Verlängerung ist möglicherweise die Kommunikation mit dem Kunden erforderlich. | *2/1/2019 0:00* |
 | ChargeStartDate | Der erste Tag, an dem Gebühren anfallen. Die Uhrzeit ist immer der Tagesanfang (0:00 Uhr). Wird verwendet, um tägliche Gebühren (*pro-anteilig* ) zu berechnen, wenn ein Kunde die Lizenznummern ändert. | *2/1/2019 0:00* |
 | ChargeEndDate | Letzter Tag, an dem Gebühren anfallen. Die Uhrzeit ist immer auf das Tagesende um 23:59 Uhr festgelegt. Wird verwendet, um tägliche Gebühren (*pro-anteilig* ) zu berechnen, wenn ein Kunde die Lizenznummern ändert. | *2/28/2019 23:59* |
 | ChargeType | Der [Typ der Belastung](recon-file-charge-types.md) oder der Anpassung. | Siehe " [Abrechnung](recon-file-charge-types.md)". |
-| UnitPrice | Preis pro Lizenz entsprechend der Preisliste zum Kaufzeitpunkt. Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert | *6,82* |
+| UnitPrice | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert | *6,82* |
 | Menge | Anzahl der Lizenzen. Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert | *2* |
-| Betrag | Gesamtpreis für die Menge Wird verwendet, um zu überprüfen, ob die Betrag Berechnung mit der Berechnung dieses Werts für Ihre Kunden übereinstimmt. | *13,32* |
+| Amount (Betrag) | Gesamtpreis für die Menge Wird verwendet, um zu überprüfen, ob die Betrag Berechnung mit der Berechnung dieses Werts für Ihre Kunden übereinstimmt. | *13,32* |
 | TotalOtherDiscount | Rabattbetrag auf diese Gebühren. Produktlizenzen, die in einer Kompetenz oder in Karten enthalten sind, oder neue Abonnements, die für einen Anreiz geeignet sind, enthalten in dieser Spalte ebenfalls einen Rabatt Betrag. | *2,32* |
 | Subtotal (Zwischensumme) | Gesamtbetrag vor Steuern Überprüft, ob Ihr Teilergebnis mit dem erwarteten Gesamtbetrag übereinstimmt, falls ein Rabatt vorliegt. | *11* |
 | Tax (Steuern) | Steuern der Steuerbeträge. Basierend auf den Steuerregeln Ihres Marktes und bestimmten Bedingungen. | *0* |

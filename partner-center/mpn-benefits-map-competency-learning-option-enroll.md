@@ -8,19 +8,19 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756141"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133045"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Verwenden von Partner Center zum Registrieren als Microsoft-Lernpartner
 
 **Geeignete Rollen**
 
 - MPN-Partneradministrator
-- MPN-Kontoadministrator
+- Kontoadministrator
 
 In diesem Artikel werden die verschiedenen Möglichkeiten beschrieben, wie sich ein Partner im Microsoft Partner Network für das Lernpartner Programm registrieren kann.
 
@@ -50,7 +50,7 @@ Learning Action Pack ist der grundlegende Eintrag in das Lern Partner Programm. 
 
 Lern Action Pack unterstützen Partner, die Schulungsdienste, Angebote oder Rabatte im Schulungs-Marketplace bereitstellen möchten, und profitieren von Vorteilen, die Partner bei der Auswahl von Experten in verschiedenen Microsoft-Produktlinien unterstützen.
 
-Nicht-Lernpartner können Schulungssoftware zum vollständigen Preis nur für interne Schulungen erwerben. Wenn Sie den Inhalt außerhalb Ihrer Organisation übermitteln möchten, benötigen Sie einen Microsoft Certified Trainer (1 MCT) und müssen sich für das Lern Action Pack registrieren.
+Nicht-Lernpartner können Schulungssoftware zum vollständigen Preis nur für interne Schulungen erwerben. Wenn Sie den Inhalt außerhalb Ihrer Organisation übermitteln möchten, benötigen Sie einen Microsoft Certified Trainer (ein MCT) und müssen sich für das Lern Action Pack registrieren.
 
 Nachdem Sie die erforderlichen KPIs erreicht haben, können Sie die zusätzlichen Anforderungen erfüllen und sich für ein Upgrade auf eine Silver/Gold-lernoption entscheiden.
 
@@ -109,7 +109,7 @@ Wenden Sie sich an den [Partner Frontline](https://partner.microsoft.com/support
 
 KPI-Berichte werden während der Mitte des Monats einmal im Monat aktualisiert. Die Berechtigungs Berechtigung für das Lernprogramm wird für KPIs gemessen, die während der letzten 12 Monate der Leistungs Aktivität basierend auf Ihrem Jahrestag erreicht wurden. Beispielsweise werden ab dem 15. Januar 2020 KPI-Daten für den Zeitraum von Januar 2019 bis Dezember 2019 angezeigt. Wenn Ihre Rechnung vom Januar 2020 datiert wurde, sind die entsprechenden KPIs ab dem 15. Februar 2019 sichtbar. **Auftragsbestätigungen und Partner Berichte werden nicht akzeptiert.** Nur tatsächliche Rechnungen werden akzeptiert.
 
-### <a name="q-does-a-one-day-training-equate-to-1-kpi"></a>Q. Entspricht eine eintägige Schulung 1 KPI?
+### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>Q. Entspricht eine eintägige Schulung einem KPI?
 
 Die Besprechung eines KPIs bezieht sich nicht auf die Dauer des Trainings. Weitere Informationen zum Messen von KPIs finden Sie in den Leistungs Beispielen im Registrierungs Handbuch für den [Lern Partner](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/).
 

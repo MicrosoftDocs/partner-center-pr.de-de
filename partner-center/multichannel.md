@@ -9,24 +9,23 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f743834578b4a4b40453704a9ca1ef5adf4bc82
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 925532881b6f28b2e7a9d06372a92eed95716d48
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390647"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132722"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Unterstützung für mehrere Kanäle: Verwenden anderer Partner zur Unterstützung von Kunden Abonnements, die an anderer Stelle
 
 **Zielgruppe**
 
-- Partner Center
-- Partner Center für Microsoft Cloud for US Government
+- Partner Center für Microsoft Government Cloud
 
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - Vertriebsbeauftragter
 
 Das Multichannel-Feature von Partner Center unterstützt Szenarien, in denen ein Kunde einen Partner für die Verwaltung und Unterstützung eines Abonnements beauftragen möchte, das Sie an anderer Stelle erworben haben. Dieser Multichannel-Support gilt in folgenden Fällen:

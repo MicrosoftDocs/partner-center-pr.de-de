@@ -9,19 +9,19 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000074"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132654"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Verschieben mehrerer Unternehmen von Partner Membership Center (PMC) zum Partner Center
 
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - Administrator-Agent
 - Vertriebsbeauftragter
 
@@ -80,7 +80,7 @@ Die Angaben basieren auf den Informationen in PMC und werden überprüft, um sic
 
 Wenn sich das Konto, das Sie verschieben, im gleichen Land oder in derselben Region wie das bestehende Konto befindet, können Sie entscheiden, ob Sie diese Adresse verwenden oder eine andere hinzufügen möchten. Wenn Sie eine andere Adresse verwenden, wird diese überprüft. Wenn Sie dieselbe Adresse verwenden möchten, werden die vorhandene Adresse und der primäre Kontakt verwendet.
 
-Nachdem Sie die Informationen auf diesem Bildschirm überprüft und ggf. bearbeitet haben, klicken Sie auf „Senden“, damit Ihre Konten konsolidiert werden.
+Nachdem Sie die Informationen auf diesem Bildschirm überprüft/bearbeitet haben, wählen Sie über **Mitteln** aus, und ihre Konten werden konsolidiert.
 
 ## <a name="partner-profile"></a>Partnerprofil
 

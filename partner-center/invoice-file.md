@@ -4,22 +4,24 @@ ms.topic: article
 ms.date: 05/18/2020
 description: Machen Sie sich mit den Feldern in der Rechnungs Datei für die Partner Center-Abrechnung vertraut. Enthaltene Felder und Definitionen für alle Rechnungs Felder und die Felder für die einmalige Abrechnung.
 author: sodeb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 44bda5256b14722f143a5bf937e73b2533b8c9f5
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556292"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178900"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Informationen zu den Feldern der Partner Center-abrechnungsrechnung
 
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - Abrechnungsadministrator
 - Helpdesk-Agent
 
@@ -33,7 +35,7 @@ Die folgenden Felder werden in den Rechnungs Dateien angezeigt.
 | ----- | ---------- |
 | US FEIN | Ihre Federal Employer Identification Number (fein). Dies ist Ihre USA Federal Tax Identifier-Nummer. |
 | Kundennummer | Ihre Kundennummer |
-| Bill to | Die Adresse, an die wir Ihre Rechnung senden. Sie können Ihren Firmennamen und/oder Ihre Adresse in Ihrem Partner Center-Abrechnungs Profil ändern. |
+| Bill to | Die Adresse, an die wir Ihre Rechnung senden. Sie können den Namen und die Adresse Ihres Unternehmens in Ihrem Partner Center-Abrechnungs Profil ändern. |
 | Lizenzbasierte Gebühren | Die pauschalen monatlichen oder jährlichen Gebühren für Ihre erworbenen nutzungsbasierten Lizenzen, die im Voraus in Rechnung gestellt werden. Diese Zahl ist die Summe aller Gebühren in der **Teil** Ergebnisspalte (Spalte **T**) in der lizenzbasierten Abstimmungs Datei. |
 | Nutzungsbasierte Gebühren | Ihre Azure-Nutzung. Dies schließt neue Dienste oder Anwendungen ein, die während des Abrechnungszeitraums aktiviert und verwendet werden. Diese Zahl ist die Summe aller Gebühren in der Spalte **pretaxcharges** (Spalte **Z**) in der nutzungsbasierten Abstimmungs Datei. |
 | Discounts | Der Rabatt, den der Kunde vom normalen Preis des Abonnements erhält. Diese Zahl wird als *Pauschalbetrag*, nicht als Preis pro Einheit oder Lizenz angezeigt. |
@@ -63,6 +65,6 @@ Die folgenden Felder gelten nur für **einmalige Gebühren** in Partner Center:
 | Menge | Die Anzahl erworbener Produkte (z. b. Reservierungen). |
 | Unit price | Preis pro Produkt (z. b. eine Reservierung). |
 | Discounts | Alle anwendbaren Rabatte. |
-| Vorsteuerbetrag | Zwischensumme der Einkäufe vor Steuern. |
+| Vorsteuerbetrag | Teil Summe der Käufe vor Steuern. |
 | Mehrwertsteuer | Steuerbetrag. |
 | Gesamt | Der Gesamtbetrag, der bezahlt werden soll. |

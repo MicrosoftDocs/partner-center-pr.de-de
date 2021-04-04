@@ -9,21 +9,22 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 6adf7039f6ad389f61c9cd0b5e4ad9454db06a5b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712901"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133028"
 ---
 # <a name="technical-support-benefits"></a>Vorteile des technischen Supports
 
 **Geeignete Rollen**
--   Globaler Administrator 
--   MPN-Partneradministrator 
--   Administrator-Agent 
 
-## <a name="overview"></a>Überblick
+- Globaler Administrator
+- MPN-Partneradministrator
+- Administrator-Agent
+
+## <a name="overview"></a>Übersicht
 
 Dieser Artikel richtet sich an Mitglieder von Microsoft Partner Network Partnern (MPN), die wissen müssen, wie ein technischer Supportfall mithilfe von MPN-Partner Vorteilen erstellt werden kann.
 
@@ -38,11 +39,11 @@ So können Sie Ihre technischen Vorteile in Partner Center anzeigen und aktivier
 2. Erweitern Sie im linken Navigationsmenü die Option Vorteile, und wählen Sie dann **technische Vorteile** aus. Die Seite "technische Vorteile" wird mit einer Liste von Vorteilen des technischen Supports angezeigt, die für Ihre Angebote für die Mitgliedschaft in Gold, Silver oder Microsoft Action Pack verfügbar sind. 
 
     > [!NOTE]
-    >Wenn Sie über keine aktiven mitgliedschaftsangebote verfügen, wird die Meldung "anscheinend haben Sie noch keine Vorteile" angezeigt. Wenn Ihr Unternehmen über aktive mitgliedschaftsangebote verfügt, diese aber nicht angezeigt werden, haben Sie sich möglicherweise mit dem falschen Konto angemeldet. Um Ihr Konto zu überprüfen, klicken Sie oben rechts auf der Seite auf das Symbol " **Konto** ", und klicken Sie auf **Anmelden mit einem anderen Konto** (falls erforderlich).
+    >Wenn Sie über keine aktiven mitgliedschaftsangebote verfügen, wird die Meldung "anscheinend haben Sie noch keine Vorteile" angezeigt. Wenn Ihr Unternehmen über aktive mitgliedschaftsangebote verfügt, diese aber nicht angezeigt werden, haben Sie sich möglicherweise mit dem falschen Konto angemeldet. Um Ihr Konto zu überprüfen, klicken Sie oben rechts auf der Seite auf das Symbol " **Konto** ", und wählen Sie " **Anmelden mit einem anderen Konto** (falls erforderlich)" aus.
 
 3. Für den Einstieg in den Microsoft-Produktsupport oder den Support-Produktsupport müssen Sie den Vorteil aktivieren. Die Zugriffs-ID und die Vertrags-ID werden nach der erfolgreichen Aktivierung angezeigt. 
 
-    -   Um den Vorteil zu aktivieren, klicken Sie auf die Schaltfläche aktivieren. Das für die Aktivierung verwendete Benutzerkonto erfordert die Administrator Rollen globaler Administrator oder MPN-Partner. Die Verarbeitung Ihrer Aktivierungsanforderung kann einige Tage in Anspruch nehmen. 
+    -   Aktivieren Sie die Schaltfläche aktivieren, um den Vorteil zu aktivieren. Das für die Aktivierung verwendete Benutzerkonto erfordert die Administrator Rollen globaler Administrator oder MPN-Partner. Die Verarbeitung Ihrer Aktivierungsanforderung kann einige Tage in Anspruch nehmen. 
 
     - Sie können den Microsoft-Produktsupport und den Signatur Produktsupport (Gold-und Silver-Mitglieder) verwenden, wenn die Zugriffs-ID und die Vertrags-ID angezeigt werden. 
 
@@ -73,7 +74,7 @@ Wenn Sie den Vorteil zum ersten Mal nutzen, benötigen Sie die Zugriffs-ID und d
 
 Alle Benutzerkonten (AAD oder MSA) können technischen Support für lokale Produkte verwenden, wenn Sie über die Zugriffs-ID und die Vertrags-ID verfügen.
 
-Klicken Sie auf [Unterstützung für Unternehmen](https://support.serviceshub.microsoft.com/supportforbusiness/create) , um eine Supportanfrage für ein lokales Produkt zu erstellen.
+Wählen Sie [Unterstützung für Unternehmen aus](https://support.serviceshub.microsoft.com/supportforbusiness/create) , um eine Supportanfrage für ein lokales Produkt zu erstellen.
 
 ## <a name="signature-cloud-support-cloud-only"></a>Signatur-cloudunterstützung (nur Cloud)
 
@@ -83,7 +84,7 @@ Wenn Sie den Vorteil zum ersten Mal nutzen, benötigen Sie die Zugriffs-ID und d
 
 CSP-Partner, die Azure-Anforderungen erstellen, können den Support Plan "Cloud Solution Provider" verwenden, ohne einen Supportvertrag hinzuzufügen.
 
-Benutzer mit der Rolle " **Administrator-Agent** " können im linken Navigationsmenü unter "CSP" [Kunden](https://partner.microsoft.com/commerce/customers/list) auswählen, **Dienst Verwaltung** auswählen und auf " **neue Anforderung**" klicken.  Wenn Sie die relevante Arbeitsauslastung auswählen, wird das Arbeits Auslastungs spezifische Portal geöffnet, und Sie fügen einen Supportvertrag hinzu und erstellen eine Anforderung.
+Benutzer mit der Rolle **Administrator-Agent** können [Kunden](https://partner.microsoft.com/commerce/customers/list) im linken Navigationsmenü unter CSP auswählen, **Dienst Verwaltung** auswählen und **neue Anforderung** auswählen.  Wenn Sie die relevante Arbeitsauslastung auswählen, wird das Arbeits Auslastungs spezifische Portal geöffnet, und Sie fügen einen Supportvertrag hinzu und erstellen eine Anforderung.
 
 ## <a name="partner-support-plans"></a>Partner Support Pläne
 

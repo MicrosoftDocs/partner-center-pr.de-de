@@ -9,24 +9,19 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51dd9bc389077f4b472e2e13f1170214ad1d382d
-ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
+ms.openlocfilehash: 9e4f67bd7dcea1cc41a7e4400aa0624eb4dbada5
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97720814"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132705"
 ---
 # <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Partner des Office 365 Partner admin Centers: Vorbereiten des Verschiebens von Geschäftsvorgängen in Partner Center
-
-**Zielgruppe** 
-
-- Partner Center
-- Office 365 Admin Center für Partner
 
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - Administrator-Agent
 - Vertriebsbeauftragter
 

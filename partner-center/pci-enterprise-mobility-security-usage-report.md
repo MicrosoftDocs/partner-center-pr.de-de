@@ -8,20 +8,21 @@ description: Sehen Sie sich an, was Sie gut machen und wo Sie die Verwendung von
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 48577571e77bd0181b78e01558a07edd1a3b925d
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: c62e074c7329ada33390b77be13c523660344d49
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146706"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086276"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security Verwendungs Bericht, der im Partner Center Insights-Dashboard verfügbar ist
 
 **Geeignete Rollen**
+
 - Globaler Administrator
 - Administrator-Agent
-- Berichtanzeige
-- Executive Report Viewer
+- Berichtleser
+- Executive Report-Leser
 
 Der Bericht "Enterprise Mobility + Security Verwendung" enthält Nutzungsdaten für die Enterprise Mobility + Security Abonnements, die Sie für Ihre Kunden verkauft oder verwaltet haben. Die folgenden Abschnitte können Sie im Bericht zur Enterprise Mobility + Security Verwendung anzeigen.
 
@@ -38,7 +39,7 @@ Der Bericht "Enterprise Mobility + Security Verwendung" enthält Nutzungsdaten f
 
 Der Abschnitt Zusammenfassung enthält eine Momentaufnahme Ansicht der Schlüsselindikatoren im Zusammenhang mit Enterprise Mobility + Security Nutzungs Abonnements, die Sie für Ihre Kunden verkauft oder verwaltet haben. 
 
-- Neue Abonnements: die Gesamtanzahl der Abonnements, die während des ausgewählten Zeitraums verkauft oder verwaltet wurden.
+- Neue Abonnements: die Gesamtanzahl der Abonnements, die während des ausgewählten Zeitraums verkauft oder verwaltet werden.
 
    Das Micro-Diagramm zeigt einen Monat-für-Monat-Trend eines neuen Abonnements für den ausgewählten Datumsbereich.
 

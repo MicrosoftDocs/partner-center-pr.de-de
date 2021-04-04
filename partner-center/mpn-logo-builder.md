@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60d83a79151d90ff98ead8d5be00c259a9cf4b3
-ms.sourcegitcommit: 673c467aa8ef4e02ff24fbc3e7d4f904316141e4
+ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104909289"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132399"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Erstellen eines Partner Logos, eines zertifizierten Buchstabens oder eines Preises mit Logo Builder
 
 **Geeignete Rollen**
 
-- Alle Partner Center-Benutzer, die mehr über Logo Builder erfahren möchten
+- Alle Partner, die mehr über Logo Builder erfahren möchten
 
 Der Wert für das Erreichen einer Silver-oder Gold-Kompetenz ist die Gelegenheit, Kunden zu unterscheiden. Ein Logo, das Sie für Ihre Vertriebs-und Marketingmaterialien und Ihr Geschäftsprofil in Partner Center verwenden können, um die von Ihnen erworbenen Kompetenzen oder Kompetenzen vorzustellen, ist in Ihren Kompetenz Vorteilen enthalten. 
 
@@ -28,7 +28,7 @@ Wenn Sie im MSP-Programm für Azure-Experten zugestimmt haben, einen Partner des
 
 ## <a name="what-is-available-in-logo-builder"></a>Verfügbare Funktionen in Logo Builder
 
-Was für Ihr Unternehmen in Logo Builder verfügbar ist, ist an Ihrer Microsoft Partner Network-Mitgliedschaft (MPN) ausgerichtet. Es dauert bis zu 24 Stunden, bis eine Änderung ihrer MPN-Mitgliedschaft, wie z. b. das Erreichen einer neuen Kompetenz, widergespiegelt wird.  
+Die Logos, die für Ihr Unternehmen in Logo Builder verfügbar sind, werden an Ihre Microsoft Partner Network Mitgliedschaft (MPN) angepasst. Es dauert bis zu 24 Stunden, bis eine Änderung ihrer MPN-Mitgliedschaft, wie z. b. das Erreichen einer neuen Kompetenz, widergespiegelt wird.
 
 Die Assets, die Sie in Logo Builder erstellen können, umfassen Folgendes:
 

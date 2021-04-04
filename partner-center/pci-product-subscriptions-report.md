@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8df91ec4072b1873a240d42fa2382ebcc00b9bc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 019e489b4738515639bf181591dfbc671e1b795d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220328"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086191"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Bericht "Produkt Abonnements" im Partner Center Insights-Dashboard verfügbar
 
 **Geeignete Rollen**
+
 - Globaler Administrator
 - Administrator-Agent
-- Berichtanzeige
-- Executive Report Viewer
+- Berichtleser
+- Executive Report-Leser
 
-Der Bericht zu den Produkt Abonnements enthält Analysen zu cloudabonnements, die Sie verkauft haben oder die Sie für Ihre Kunden verwalten. Dabei handelt es sich um einen produktspezifischen Bericht, der die Leistung von Abonnements umfasst, die cloudprodukten wie Office 365, Azure, Dynamics usw. zugeordnet sind.
+Der Bericht zu den Produkt Abonnements enthält Analysen zu cloudabonnements, die Sie verkauft haben oder die Sie für Ihre Kunden verwalten. Dabei handelt es sich um einen produktspezifischen Bericht, der die Leistung von Abonnements umfasst, die mit cloudprodukten wie Office 365, Azure, Dynamics und anderen verknüpft sind.
 
 Die folgenden Abschnitte finden Sie im Bericht zu Produkt Abonnements.
 
@@ -44,7 +45,7 @@ Der Abschnitt Zusammenfassung enthält eine Momentaufnahme Ansicht der KPIs (Key
 
 :::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Zusammenfassung der Abonnement Berichte":::
 
-Weitere Informationen zu den einzelnen Abschnitten der Zusammenfassung finden Sie unten.
+Weitere Informationen zu den einzelnen Abschnitten der Zusammenfassung finden Sie unten:
 
 - Abonnements:
   - Aktuelle Anzahl der cloudproduktabonnements, die von Ihnen verkauft oder verwaltet werden.
@@ -70,7 +71,7 @@ Weitere Informationen zu den einzelnen Abschnitten der Zusammenfassung finden Si
 
 ## <a name="geographical-spread-of-subscriptions"></a>Geografische Verteilung von Abonnements
 
-In der Ansicht " **Abonnements nach Geografie** " wird die geografische Verteilung der Gesamt Abonnements nach kundenmärkten angezeigt. Der gesamte Abonnement Betrag umfasst sowohl verkaufte Abonnements als auch aktive Abonnements.
+Die Ansicht **Abonnements nach Geografie** zeigt die geografische Verteilung der Gesamt Abonnements nach kundenmärkten. Der gesamte Abonnement Betrag umfasst sowohl verkaufte Abonnements als auch aktive Abonnements.
 
 In der Tabelle " **Länder/Region** " werden die Gesamtanzahl der Länder/Regionen, in denen Sie Abonnements haben, sowie der Betrag pro Land der Gesamt-und aktiven Abonnements angezeigt.
 
@@ -82,19 +83,19 @@ Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte
 
 Diese Ansicht zeigt einen Trend von Abonnements. Diese werden für den ausgewählten Datumsbereich in verschiedene Kategorien unterteilt (neu, vorhandene, Änderungen). Die X-Achse stellt Monate des ausgewählten Datums Bereichs dar. Die Y-Achse stellt die Anzahl der Abonnements dar. Versennte Abonnements werden auf der negativen Skala der Y-Achse dargestellt. 
 
-Das gestapelte Säulendiagramm zeigt eine Aufschlüsselung neuer, vorhandener und Änderungs Abonnements für den Monat. Sie können das Säulendiagramm neu erstellen, wobei Sie mit bestimmten Stapel Elementen aufgeschlüsselt sind. Wählen Sie zu diesem Zweck die einzelnen Elemente in der Legende aus. Sie können auch den Schieberegler oberhalb des Diagramms nutzen, um einen bestimmten Zeitraum zu vergrößern.
+Das gestapelte Säulendiagramm zeigt eine Aufschlüsselung neuer, vorhandener und Änderungs Abonnements für den Monat. Sie können das Säulendiagramm neu erstellen, wobei Sie mit bestimmten Stapel Elementen aufgeschlüsselt sind. Wählen Sie zu diesem Zweck die einzelnen Elemente in der Legende aus. Sie können auch den Schieberegler oberhalb des Diagramms verwenden, um einen bestimmten Zeitraum zu vergrößern.
 
 :::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="Hinzufügungen und Änderungen von Abonnements":::
 
 ## <a name="subscription-distribution"></a>Abonnement Verteilung
 
-Diese Ansicht zeigt eine Aufschlüsselung Ihrer aktuellen Abonnements durch ihre MPN-Standorte, Kundensegmente, Vertriebskanäle/Azure-Preismodell und den Zuweisungs Typen (z. b. dpor, DAP usw.). Klicken Sie auf die entsprechenden Registerkarten, um die Aufteilung nach diesen Kategorien anzuzeigen. Um das Kreis Diagramm mit einer Aufschlüsselung bestimmter Element Kategorien zu erstellen, wählen Sie die Element Kategorien in der Legende aus.
+Diese Ansicht zeigt eine Aufschlüsselung Ihrer aktuellen Abonnements durch ihre MPN-Standorte, Kundensegmente, Vertriebskanäle/Azure-Preismodelle und den Zuweisungs Typen (z. b. dpor, DAP und andere). Wählen Sie die entsprechenden Registerkarten aus, um die Aufteilung nach diesen Kategorien anzuzeigen. Um das Kreis Diagramm mit einer Aufschlüsselung bestimmter Element Kategorien zu erstellen, wählen Sie die Element Kategorien in der Legende aus.
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="Abonnement Verteilung":::
 
 ## <a name="subscription-state-distribution"></a>Verteilung des Abonnement Status
 
-Diese Ansicht zeigt die Verteilung Ihrer aktuellen Kunden Abonnements nach Abonnement Zustand oder-Status. Dies schließt die folgenden Abonnement Zustände ein: **aktiv**, deaktiviert **, bereitgestellt,** **offen**, **ingraceperiod**, **Closed**und **andere**. **Disabled**
+Diese Ansicht zeigt die Verteilung Ihrer aktuellen Kunden Abonnements nach Abonnement Zustand oder-Status. Dies schließt die folgenden Abonnement Zustände ein: **aktiv**, deaktiviert **, bereitgestellt,** **offen**, **ingraceperiod**, **Closed** und **andere**. 
 
 :::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="Verteilung des Abonnement Status":::
 

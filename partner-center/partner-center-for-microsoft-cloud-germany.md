@@ -9,23 +9,23 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 606806f3796796873c37f6dfcac35e5993efe575
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174982"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086514"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Partner Center für Microsoft Cloud Deutschland für Partner, die Kunden in EU-& EFTA-Ländern verkaufen
 
 **Zielgruppe**
 
--  Partner Center für Microsoft-Cloud Deutschland
+- Partner Center für Microsoft-Cloud Deutschland
 
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - Administrator-Agent
 - Vertriebsbeauftragter
 - Abrechnungsadministrator
@@ -41,7 +41,7 @@ Microsoft Cloud Deutschland stellt eine separate Instanz von [Microsoft Azure](h
 
 ## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Migrieren von Kunden aus Microsoft Cloud Deutschland in eine andere europäische Region
 
-Bevor Sie ein Kunden Abonnement von Microsoft Cloud Deutschland zu einer anderen europäischen Region migrieren können, müssen Sie über ein vorhandenes CSP-Konto verfügen, das sich in dieser Region befindet und aktiv ist. Wenn Sie noch nicht über ein Konto verfügen, werden Sie aufgefordert, während der CSP-Konto Auswahl in Partner Center eine solche zu erstellen. Nachdem Sie das neue Konto erstellt haben, werden Ihre Kunden dem ausgewählten Mandanten zugeordnet.
+Bevor Sie ein Kunden Abonnement von Microsoft Cloud Deutschland zu einer anderen europäischen Region migrieren können, müssen Sie über ein vorhandenes Cloud Solution Provider-Konto (CSP) verfügen, das sich in dieser Region befindet und aktiv ist. Wenn Sie noch nicht über ein Konto verfügen, werden Sie aufgefordert, während der CSP-Konto Auswahl in Partner Center eine solche zu erstellen. Nachdem Sie das neue Konto erstellt haben, werden Ihre Kunden dem ausgewählten Mandanten zugeordnet.
 
 ### <a name="you-already-have-a-csp-account"></a>Sie verfügen bereits über ein CSP-Konto.
 
@@ -53,7 +53,7 @@ Bevor Sie ein Kunden Abonnement von Microsoft Cloud Deutschland zu einer anderen
 
 1. Melden Sie sich bei dem Mandanten als globaler Administrator an.
  
-1. Überprüfen Sie die Informationen auf der Bestätigungsseite, und wählen Sie dann **bestätigen**aus.
+1. Überprüfen Sie die Informationen auf der Bestätigungsseite, und wählen Sie dann **bestätigen** aus.
  
 6.  Wenn der Vorgang erfolgreich ist, werden Sie aufgefordert, **Details anzeigen** oder **Dashboard anzeigen** zu wählen, um weitere Informationen zu erhalten. 
 
@@ -72,8 +72,8 @@ Bevor Sie ein Kunden Abonnement von Microsoft Cloud Deutschland zu einer anderen
 1. Melden Sie sich bei CSP Microsoft Cloud Deutschland-Mandanten als globaler Administrator an.
 
 1. Navigieren Sie im linken Menü zu der CSP-Übersichtsseite.
-. 
-1. Wenn Sie dazu aufgefordert werden, wählen Sie **Ich habe keinen Mandanten in der Europäischen Region**, und wählen Sie dann **Neues Konto erstellen**aus. 
+ 
+1. Wenn Sie dazu aufgefordert werden, wählen Sie **Ich habe keinen Mandanten in der Europäischen Region**, und wählen Sie dann **Neues Konto erstellen** aus. 
  
 1. Sie gelangen zur Partner Center-Registrierungsseite, auf der Sie einen neuen Mandanten und ein CSP-Konto in einer Europäischen Region erstellen können.
   

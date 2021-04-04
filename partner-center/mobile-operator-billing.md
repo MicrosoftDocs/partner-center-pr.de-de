@@ -1,19 +1,19 @@
 ---
 title: Abrechnung durch Mobile Bediener-Microsoft Store
 description: Die Microsoft Store bietet die Abrechnung mobiler Bediener als Zahlungsmethode für Mobile Operatoren, die diese Funktion unterstützen.
-ms.date: 05/29/2020
+ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: Windows 10, UWP, Mobile-Operatoren, Mobile Abrechnung, Abrechnung mobiler Bediener
 ms.localizationpriority: medium
-ms.openlocfilehash: 010451506df0d6115a8e1b4781e6fb40ab8853bb
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 5556da39b252f5004cd7d1828310743875a8da7f
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335691"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178815"
 ---
 # <a name="mobile-operator-billing"></a>Abrechnung über den Mobilfunkanbieter
 
@@ -34,18 +34,20 @@ Die folgenden mobilen Operatoren unterstützen derzeit die Abrechnung mobiler Be
 | Australien            | Optus                                                   |
 | Österreich              | A1 Telekom, Hutchison 3G Österreich, T-Mobile/Tele. Ring  |
 | Belgien              | Basis, der Proxy                                          |
-| Kanada               | Telus                                                   |
-| Tschechien              | T-Mobile                                                |
+| Canada               | Telus                                                   |
+| Tschechien              | T-Mobile, Vodafone, O2                                  |
 | Dänemark              | 3, TDC/YouSee, Telenor, Telia                         |
 | Finnland              | DNA, Elisa                                              |
 | Frankreich               | Orange                                                  |
 | Deutschland              | O2, Telekom Deutschland, Vodafone                       |
 | Ungarn              | Telenor                                                 |
-| Italien                | Tre, Wind                                               |
+| Italien                | Tre, Wind, Vodafone                                     |
+| Korea                | SK Telecom                                              |
 | Malaysia             | Digi                                                    |
-| Niederlande          | KPN/Telfort                                           |
+| Niederlande          | KPN/Telfort, Vodafone                                 |
 | Norwegen               | Telenor/talkmore, Telia/OneCall                     |
-| Polen               | Orange, Play                                            |
+| Polen               | Orange, Play, T-Mobile                                  |
+| Saudi-Arabien         | STC                                                     |
 | Singapur            | M1 Limited, Starhub                                     |
 | Slowakei             | Slowakische Telekom                                          |
 | Südafrika         | Vodacom                                                 |
@@ -56,4 +58,4 @@ Die folgenden mobilen Operatoren unterstützen derzeit die Abrechnung mobiler Be
 | Türkei               | Turkcell                                                |
 | Vereinigte Arabische Emirate | Etisalat                                                |
 | USA        | Sprint, Verizon                                         |
-| Vereinigtes Königreich       | 3 UK, EE, O2, Vodaphone                                 |
+| United Kingdom       | 3 UK, EE, O2, Vodafone                                 |

@@ -9,16 +9,17 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7b0be301b9c0fc56200c128b225fc849a2f04c2
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175276"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086225"
 ---
 # <a name="download-reports"></a>Herunterladen von Berichten
 
 **Geeignete Rollen**
+
 - Executive Report-Leser
 - Berichtleser
 
@@ -34,7 +35,7 @@ Um einen Bericht zu generieren, wählen Sie **zuerst den Bericht aus der Dropdow
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="Neuen Bericht erstellen":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Neuen Bericht erstellen":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Generierte Berichte":::
 
 >[!NOTE] 
 >Nur die Benutzer, die als Executive-Bericht-Viewer dienen, können Berichte herunterladen. Weitere Informationen zum rollenbasierten Zugriff auf die Insights-Dashboardberichte finden Sie unter [PCI-Rollen](pci-roles.md). 
@@ -43,7 +44,7 @@ Um einen Bericht zu generieren, wählen Sie **zuerst den Bericht aus der Dropdow
 
 Die folgenden Berichte sind zum Herunterladen verfügbar:
 
-**Partner Profile** gibt Details zum Partner an. Details wie Partner-ID, Partner Name, Partnerstadt, Partnerland usw. sind im Bericht verfügbar. Für diesen Bericht sind keine Aggregationen oder lookbacks anwendbar.
+**Partner Profile** gibt Details zum Partner an. Details wie Partner-ID, Partner Name, Partnerstadt und Partnerländer sind im Bericht verfügbar. Für diesen Bericht sind keine Aggregationen oder lookbacks anwendbar.
 
 **Kunden Details** enthält Details zu Kunden, denen ein Partner zugeordnet ist. Außerdem werden wichtige Metriken wie verkaufte Lizenzen, aggregierte ACR usw. bereitstellt. Der Bericht wird monatlich aggregiert.
 

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712255"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103773"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Felder für die einmalige Kauf Abstimmung von CSP-Dateien
 
@@ -51,8 +51,8 @@ Weitere Informationen zum Abgleich von Dateien finden Sie unter [use the Versöh
 | PublisherId | Ein eindeutiger Bezeichner, der vom Partner Center zum Identifizieren des Verlegers verwendet wird. | *AS* |
 | SubscriptionDescription | Der Name des Service-Angebots, das der Kunde gekauft hat, wie in der Preisliste definiert. Diese Spalte ist ein identisches Feld für "Offername". | *Azure-Plan* |
 | SubscriptionId | Eindeutiger Bezeichner für ein Abonnement auf der Microsoft-Abrechnungsplattform. Wird nicht für die Abstimmung verwendet. Beachten Sie, dass dieser Bezeichner nicht mit der Abonnement-ID in der Partner Administrator Konsole identisch ist. | *307628r1-d9d2-f. c-ea1f -4183f 0cae308* |
-| ChargeStartDate | Das Datum, an dem das Partner Center die Abonnementgebühr berechnet. Wenn das Abonnement mit einem jährlichen Abrechnungszeitraum und einem monatlichen Abrechnungsplan gekauft wird, ist dies der Tag, an dem das Abonnement erworben wird. Beginnend mit der nächsten Abstimmungs Datei wird Sie um 30 Tage inkrementiert. | *9/1/2020* |
-| ChargeEndDate | Endtag der Gebühren für den Abrechnungszeitraum des Abonnements. Wenn das Abonnement mit einem jährlichen Abrechnungszeitraum und einem monatlichen Abrechnungsplan gekauft wird, ist dies der 30. Tag, nachdem das Abonnement erworben wurde. Beginnend mit der nächsten Abstimmungs Datei wird Sie um 30 Tage inkrementiert. | *30.09.2020* |
+| ChargeStartDate | Das Datum, an dem der Abrechnungszeitraum eines Abonnements beginnt. | *9/1/2020* |
+| ChargeEndDate | Das Datum, an dem der Abrechnungszeitraum eines Abonnements endet. | *30.09.2020* |
 | Termandbillingcycle | Die Dauer der weiteren Verpflichtung zum Fortsetzen des Abonnements zum Zeitpunkt des Kaufs. | *Gespeicherte Daten (GB/Monat)* |
 | Effectiveunitprice | Der Anteils mäßige Einheitspreis zum Berechnen der Kosten für den Abrechnungszeitraum. Rabatte, Anpassungen in Abrechnungs Tagen und andere Faktoren bestimmen den effektiven Einzelpreis. Weitere Informationen finden Sie unter [effektive Unit Price-Berechnung](./effective-unit-price-calculation.md).  | *0,03825* |
 | UnitType | Der Typ der Einheit, in der die Verbrauchseinheit berechnet wird. | *1 GB/Monat* |

@@ -1,5 +1,5 @@
 ---
-title: Insights-Schulungs Dashboard.
+title: Insights-Schulungs Dashboard
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
@@ -9,16 +9,17 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10646cb4ecc6c48c5187c96740a2c05610c9d3cc
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: bad11a2f480aaa229708a3e9a108466a130b4127
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175258"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086242"
 ---
 # <a name="trainings-dashboard"></a>Schulungs Dashboard
 
 **Geeignete Rollen**
+
 - Executive Report-Leser
 - Berichtleser
 
@@ -34,7 +35,7 @@ Das Trainings Dashboard bietet Einblicke in die Zertifizierungen, BEWERTUNGEN un
 
 ## <a name="summary"></a>Zusammenfassung
 
-Der Abschnitt Zusammenfassung enthält eine numerische momentaufnahmenansicht verschiedener Leistungsindikatoren, die sich auf Ihre Schulungen beziehen. Die verschiedenen Leistungsindikatoren sind zertifizierte Personen, Zertifizierungen, Personen mit Prüfungs Anmelde Informationen, Prüfungs Anmelde Informationen, Personen mit Bewertungs Anmelde Informationen und Bewertungs Anmelde Informationen. Die Daten in diesem Abschnitt werden auf der Grundlage des ausgewählten Datums Bereichs aktualisiert, der drei Monate (3 Mio.), sechs Monate (6 Mio.) & 12 Monate (1 y) oder einem benutzerdefinierten Datenbereich (Benutzer definiert) sein kann. 
+Der Abschnitt Zusammenfassung enthält eine numerische momentaufnahmenansicht verschiedener Leistungsindikatoren, die sich auf Ihre Schulungen beziehen. Die verschiedenen Leistungsindikatoren sind zertifizierte Personen, Zertifizierungen, Personen mit Prüfungs Anmelde Informationen, Prüfungs Anmelde Informationen, Personen mit Bewertungs Anmelde Informationen und Bewertungs Anmelde Informationen. Die Daten in diesem Abschnitt werden auf der Grundlage des ausgewählten Datums Bereichs aktualisiert, der drei Monate (3 Mio.), sechs Monate (6 Mio.) und 12 Monate (1 y) bzw. ein benutzerdefinierter Datenbereich (Benutzer definiert) sein kann. 
 
 :::image type="content" source="images/pci/td-summary.png" alt-text="Zusammenfassung":::
 
@@ -43,19 +44,22 @@ Der Abschnitt Zusammenfassung enthält eine numerische momentaufnahmenansicht ve
 - **Einzelpersonen mit Bewertungen**: gibt die Anzahl der unterschiedlichen Personen mit Bewertungs Anmelde Informationen in Ihrem Unternehmen an. 
 - **Bewertungs Anzahl**: stellt die Gesamtzahl der Bewertungen dar, die von Einzelpersonen in Ihrem Unternehmen durchgeführt wurden.
 - **Einzelpersonen mit Untersuchungen**: gibt die Anzahl der unterschiedlichen Personen mit Prüfungs Anmelde Informationen in Ihrem Unternehmen an. 
-- **Anzahl der Prüfungen: stellt**die Gesamtzahl der Prüfungen dar, die von Personen in Ihrem Unternehmen durchgeführt wurden.
+- **Anzahl der Prüfungen: stellt** die Gesamtzahl der Prüfungen dar, die von Personen in Ihrem Unternehmen durchgeführt wurden.
 
 ## <a name="training-performance"></a>Trainingsleistung
 
-Die Trainingsleistung zeigt die Anzahl von Einzel Monaten und die Schulungen, die von Einzelpersonen in Ihrem Unternehmen abgeschlossen wurden. Sie wird durch Zertifizierungen, BEWERTUNGEN und Prüfungen in Form eines Diagramms für den ausgewählten Datumsbereich aufgeteilt. Die X-Achse stellt die Monate für den ausgewählten Datumsbereich dar. Die Y-Achse stellt die eindeutige Anzahl von Einzelpersonen und die Anzahl der durchgeführten Schulungen für den ausgewählten Trainingstyp dar. Klicken Sie auf die entsprechenden Registerkarten oberhalb des Diagramms, um die Aufschlüsselung nach trainingart anzuzeigen. Die Diagramm Daten können über das Download Symbol im TSV-Format für den ausgewählten Datumsbereich heruntergeladen werden.
+Die Trainingsleistung zeigt die Anzahl von Einzel Monaten und die Schulungen, die von Einzelpersonen in Ihrem Unternehmen abgeschlossen wurden. Sie wird durch Zertifizierungen, BEWERTUNGEN und Prüfungen in Form eines Diagramms für den ausgewählten Datumsbereich aufgeteilt. Die X-Achse stellt die Monate für den ausgewählten Datumsbereich dar. Die Y-Achse stellt die eindeutige Anzahl von Einzelpersonen und die Anzahl der durchgeführten Schulungen für den ausgewählten Trainingstyp dar. Wählen Sie die entsprechenden Registerkarten oberhalb des Diagramms aus, um die Aufschlüsselung nach trainingart anzuzeigen. Die Diagramm Daten können über das Download Symbol im TSV-Format für den ausgewählten Datumsbereich heruntergeladen werden.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Zusammenfassung":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Trainingsleistung":::
 
 ## <a name="individuals-performance"></a>Leistung einzelner Benutzer
 
 Der Abschnitt "Performance" (Einzelpersonen) enthält Informationen zu Schulungen, die von Einzelpersonen in Ihrem Unternehmen für den ausgewählten Datumsbereich durchgeführt werden. Suchen Sie im linken Bereich des Abschnitts nach dem Namen einer Person, und wählen Sie ihn aus. Im rechten Bereich des Abschnitts werden die Trainingsdetails für die ausgewählte Person angezeigt.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Zusammenfassung" steht nur Benutzern zur Verfügung, die als Viewer für ausführbare Berichte dienen. 
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Einmalige Leistung":::
+
+>[!NOTE] 
+> Der Abschnitt "Einzelleistung" steht nur Benutzern zur Verfügung, die als Viewer für ausführbare Berichte dienen. 
 
 ## <a name="next-steps"></a>Nächste Schritte
 

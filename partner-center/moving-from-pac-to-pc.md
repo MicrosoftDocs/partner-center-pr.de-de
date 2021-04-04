@@ -9,23 +9,20 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a7ed3ad04846b1e222d3827488a8ac188653cac
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 064235ebdfee1e85a95908cf7a03f8e6fc676b00
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869281"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132603"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>Wechseln von Partner Admin Center (PAC) zu Partner Center
 
-**Zielgruppe**
-- Partner Center
-- Partner Admin Center
-
 **Geeignete Rollen**
+
 - Globaler Administrator
 
-Partner Center entwickelt sich zum zentralen Ort für die Verwaltung der Partnerschaft mit Microsoft und deinen Kunden. In Partner Center können Sie die Mitgliedschaft, Kundenempfehlungen, Incentives und alle anderen Aspekte des Programms für Cloud Solution Provider (CSP) verwalten. Dort können Sie die meisten Aufgaben ausführen, die Sie in PAC in Partner Center ausgeführt haben, auch wenn sich einige Features oder Aktionen anders funktionieren.
+Partner Center entwickelt sich zum zentralen Ort für die Verwaltung der Partnerschaft mit Microsoft und deinen Kunden. Im Partner Center können Sie die Mitgliedschaft, Kundenreferenzen, Anreize und alle anderen Aspekte des Cloud Solution Provider Program (CSP) verwalten. Sie können den größten Teil der Arbeit in PAC im Partner Center ausführen, obwohl einige Features oder Aktionen anders funktionieren.
 
 
 |**Aktion**   |**PAC**   |**Partner Center**   |

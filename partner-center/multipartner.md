@@ -9,24 +9,23 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 728a1b7ec4d6b51174f1d3f6fcf21a6385fc4e7a
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: c2f8e4d3351c9905d7066534946b24bd9a8c8cd4
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322116"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132263"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Unterstützung mehrerer Partner für Kunden, die mit mehr als einem Partner arbeiten möchten
 
 **Zielgruppe**
 
-- Partner Center
-- Partner Center für Microsoft Cloud for US Government
+- Partner Center für Microsoft Government Cloud
 
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - Vertriebsbeauftragter
 
 Die Multi-Partner-Funktion von Partner Center unterstützt Szenarien, in denen ein Kunde mit mehr als einem Partner arbeiten möchte. Beispielsweise möchte ein Kunde mit einem Partner aufgrund seiner Kenntnisse in Bezug auf Office 365, gleichzeitig aber mit einem anderen Partner zusammenarbeiten, der auf Microsoft Azure spezialisiert ist.
@@ -46,4 +45,4 @@ Folgendes ist mit der Multipartner-Funktionalität nicht möglich:
 - Ändern des registrierten Abonnementberaters für ein Abonnement
 
 > [!IMPORTANT]  
-> Ein Partner im CSP-Programm kann derzeit einem anderen Partner im CSP-Programm keine Onlinedienste verkaufen. Diese Einschränkung gilt nur für den Mandanten, der zum Durchführen von CSP-Transaktionen verwendet wird. CSP-Partner, die einen nicht-CSP-Mandanten für Ihre Unternehmens Nutzung verwenden, können Onlinedienste von einem anderen CSP-Partner erwerben. Microsoft überprüft ständig die Richtlinien und Möglichkeiten aller Programme. Alle Neuigkeiten zur Freigabe von Features oder Richtlinienänderungen werden über die üblichen Kommunikationskanäle angekündigt, einschließlich [Partner Center-Ankündigungen](announcements/index.md).
+> Ein Partner im CSP-Programm kann derzeit einem anderen Partner im CSP-Programm keine Onlinedienste verkaufen. Diese Einschränkung gilt nur für Mandanten, die für die Durchführung von CSP-Transaktionen verwendet werden. CSP-Partner, die einen Nicht-CSP-Mandanten für ihre Unternehmensnutzung verwenden, können Onlinedienste von einem anderen CSP-Partner erwerben. Microsoft überprüft ständig die Richtlinien und Möglichkeiten aller Programme. Alle Neuigkeiten zur Freigabe von Features oder Richtlinienänderungen werden über die üblichen Kommunikationskanäle angekündigt, einschließlich [Partner Center-Ankündigungen](announcements/index.md).

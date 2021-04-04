@@ -9,25 +9,25 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880768"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178951"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Arbeiten mit indirekten Wiederverkäufern im Programm für Cloud-Lösungsanbieter
 
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - Administrator-Agent
 - Vertriebsbeauftragter
 
 Angesichts der Komplexität und hohen Dynamik des Technologiemarkts möchten sich Kunden mit Technologielösungen einen Wettbewerbsvorteil verschaffen. In einem solchen Umfeld ist es für Partner sinnvoll, in Partner-zu-Partner-Programme zu investieren, um ihr Angebot zu erweitern und den Kunden noch mehr Möglichkeiten zu bieten.
 
-Neue Vertriebspartner versuchen, auf dem Markt Fuß zu fassen, und möchten ihre Lösungen auch Kunden außerhalb ihrer Märkte und Regionen anbieten. Als etablierter Technologieanbieter können Sie Ihnen beim Einstieg in den Markt helfen. Partner mit indirekten Wiederverkäufern im CSP-Programm (Cloud Solution Provider), um sich mit anderen Partnern zu verbinden, neue Lösungen auf den Markt zu bringen und Kunden die Übernahme von Clouddiensten voranzutreiben.
+Neue Vertriebspartner versuchen, auf dem Markt Fuß zu fassen, und möchten ihre Lösungen auch Kunden außerhalb ihrer Märkte und Regionen anbieten. Als etablierter Technologieanbieter sind Sie gut positioniert, um Ihre Route zum Markt zu bringen. Partner mit indirekten Wiederverkäufern im CSP-Programm (Cloud Solution Provider), um sich mit anderen Partnern zu verbinden, neue Lösungen auf den Markt zu bringen und Kunden die Übernahme von Clouddiensten voranzutreiben.
 
 Im (zweistufigen) Modell mit indirektem Anbieter und Vertriebspartner bieten Sie Kunden in Zusammenarbeit mit indirekten Vertriebspartnern Cloudlösungen von Microsoft an. Sie kaufen Produkte und Abonnements direkt von Microsoft und bieten diese Lösungen dann den Kunden über Vertriebspartner an.
 
@@ -45,7 +45,7 @@ Informationen dazu, was erforderlich ist, um als indirekter Reseller an dem CSP-
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>Aufgaben indirekter Anbieter im Partner Center
 
-Führen Sie zum Einrichten und Verwalten Ihrer Partnerschaft mit indirekten Vertriebspartnern und Kunden im Partner-Dashboard folgende Schritte aus. Die Schritte 2 und 3 werden im folgenden ausführlicher beschrieben.
+Führen Sie zum Einrichten und Verwalten Ihrer Partnerschaft mit indirekten Vertriebspartnern und Kunden im Partner-Dashboard folgende Schritte aus. Die Schritte 2 und 3 werden unten ausführlicher beschrieben.
 
 1. Überprüfen Sie das Profil Ihres Unternehmens in [der Liste der offiziellen indirekten Anbieter von Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider).
 
@@ -111,7 +111,7 @@ Führen Sie die folgenden Schritte aus, um die Partnerschaft mit dem vorhandenen
 
 1. Wählen Sie im Menü Partner Center auf dem Dashboard **indirekte Reseller** aus. 
 
-2. Wählen Sie auf der Seite **indirekte Reseller** die Option **Partnerschaft entfernen** aus. Eine Meldung mit der Aufforderung zur Bestätigung wird angezeigt. Wählen Sie ja, um fortzufahren.
+2. Wählen Sie auf der Seite **indirekte Reseller** die Option **Partnerschaft entfernen** aus. Eine Meldung wird angezeigt, in der Sie zur Bestätigung aufgefordert werden. Wählen Sie **Ja** aus, um fortzufahren.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Partnerschaft entfernen":::
 
@@ -151,7 +151,7 @@ Wenn Sie einen Vertriebspartner einem neuen Benutzerkonto zuordnen, delegieren S
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Hinzufügen neuer Abonnements zu Kundenkonten
 
-Wenn Kunden neue Abonnements erwerben, vorhandene aktualisieren oder zusätzliche Lizenzen erwerben möchten, nehmen Sie diese Änderungen im Konto des Kunden über das M365-Portal vor. Dies ist in der Azure-Portal nicht möglich.
+Wenn Kunden neue Abonnements erwerben, vorhandene aktualisieren oder zusätzliche Lizenzen erwerben möchten, nehmen Sie diese Änderungen im Konto des Kunden über das Microsoft 365-Portal vor. Dies ist in der Azure-Portal nicht möglich.
 
 1. Wählen Sie im Menü **Partner Center** die Option **Kunden** aus.
 
@@ -171,7 +171,7 @@ Wenn Kunden neue Abonnements erwerben, vorhandene aktualisieren oder zusätzlich
 
 Hier finden Sie Antworten auf Ihre Fragen zum Microsoft-Partner Vertrag
 
-- [Wie indirekte Anbieter bei der Übernahme der Microsoft-Partner Vereinbarung helfen können: häufig gestellte Fragen](mpa-indirect-provider-faq.md)
+- [Wie indirekte Anbieter ihren Wiederverkäufern bei der Übernahme der Microsoft Partner-Vereinbarung helfen können – häufig gestellte Fragen](mpa-indirect-provider-faq.md)
 
 Weitere Informationen zur Verwaltung von Kundenkonten und -abonnements finden Sie hier:
 

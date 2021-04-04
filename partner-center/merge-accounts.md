@@ -2,20 +2,22 @@
 title: Zusammenführen Ihres Partnerkontos mit einem anderen Partnerkonto
 description: Erfahren Sie, wie Sie Ihr Partnerkonto mit einem anderen Partnerkonto in Partner Center zusammenführen können, für Unternehmen, die aktive Microsoft-Partner im Partner Center sind.
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182595"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133062"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>Zusammenführen Ihres Partnerkontos mit einem anderen Partnerkonto
 
-**Zutreffende Rollen**
+**Geeignete Rollen**
 
 - Kontoadministrator
 
@@ -35,7 +37,7 @@ Zwei oder mehr Unternehmen, die aktive Microsoft-Partner sind und über Konten i
 
 - Die Rollen des Benutzers werden übernommen. Wenn ein Benutzer beispielsweise der admin-Administrator für einen bestimmten Standort wäre, wäre er nach der Fusion weiterhin vorhanden und kann die vor der Fusion erkannten Anreize sehen.
 
-- Azure AD Mandanten und CSP-Konten werden nicht zusammengeführt und haben keine Auswirkung.
+- Azure AD Mandanten und CSP-Konten werden nicht zusammengeführt und haben keine Auswirkungen.
 
 - Veröffentlichte Angebote und Co-Selling-Pipeline Daten, die beiden Unternehmen zugeordnet sind, werden beibehalten.
 
@@ -65,7 +67,7 @@ Wenn Sie sich dazu entschließen, die Einladung zum Zusammenführen von Konten z
 
   - Kompetenz: das Partnerunternehmen erhält ein Paket mit Kern Vorteilen, das mit der höchsten Erreichung verbunden ist, sowie Kompetenz spezifische Vorteile, die der Partner für ein globales Partnerkonto infrage kommt.
 
-- Alle Vorteile unterliegen dem [Nutzungs Leit Faden für Microsoft Partner Network Vorteile](https://aka.ms/partner-benefits-use-guide). Beispiel: ein aktiviertes O365 E3-Token ist für zwölf (12) Monate nach der Aktivierung funktionsfähig. Nachdem ein Token für Lizenzen für einen Mandanten aktiviert wurde, werden diese Lizenzen möglicherweise nicht mehr in einen anderen Mandanten verschoben.
+- Alle Vorteile unterliegen dem [Nutzungs Leit Faden für Microsoft Partner Network Vorteile](https://aka.ms/partner-benefits-use-guide). Beispiel: ein aktiviertes O365 E3-Token ist nach der Aktivierung 12 Monate lang funktionsfähig. Nachdem ein Token für Lizenzen für einen Mandanten aktiviert wurde, werden diese Lizenzen möglicherweise nicht mehr in einen anderen Mandanten verschoben.
 
 - Die MCP-ID-Zuordnungen für beide Unternehmen werden beibehalten und der PGA-MPN-ID zugeordnet.
 
@@ -94,33 +96,33 @@ Wenn Sie sich dazu entschließen, die Einladung zum Zusammenführen von Konten z
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Beispiel für zwei Unternehmen, die Konten zusammenführen
 
-1. Von "Configuration Manager" 
+1. Von "Configuration Manager", Ltd. 
 
     a. eine [globale MPN-ID 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) und eine [der untergeordneten Speicherort-MPN-IDs 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
   
     b. einen Azure AD Mandanten = @contoso.com
  
     c. eine Gold-Kompetenz ab dem 1. Oktober 2020
-2. Fabricam hat
+2. Fabrikam, Inc. hat
  
     a.  eine globale MPN-ID von 3333333 und zwei untergeordnete Speicherort-MPN-IDs von 4444444 und 5555555
 
-    b.  einen Azure AD Mandanten = @fabricam.com
+    b.  einen Azure AD Mandanten = @fabrikam.com
 
     c.  zwei Gold-Kompetenzen, die bis zum 1. Dezember 2020 ablaufen
-3.  Von "Configuration Manager" wird fabricam gekauft, und [hier](https://partner.microsoft.com/dashboard/account/merger) wird eine Merge-Anforderung initiiert.
-4.  Fabricam meldet sich bei Partner Center an und wechselt zu der gleichen Seite wie in Schritt #3, um die Anforderung von "tentoso" zu genehmigen.
+3.  Von "Configuration Manager" wird Fabrikam gekauft, und [hier](https://partner.microsoft.com/dashboard/account/merger) wird eine Merge-Anforderung initiiert.
+4.  Fabrikam meldet sich bei Partner Center an und wechselt zu der gleichen Seite wie in Schritt #3, um die Anforderung von "tentoso" zu genehmigen.
 5.  Die Details der Zusammenführung auf derselben Seite werden von "Configuration Manager" überprüft, und Sie erhalten eine Bestätigung, dass die Konto Zusammenführung fortgesetzt werden kann.
 6.  Nach der Zusammenführung wird das Unternehmens Konto wie folgt angezeigt:
 
     a.  Ein Unternehmen mit dem Namen "CSO" mit einer globalen MPN-ID von 1111111 und vier untergeordneten Speicherort-MPN-IDs von 2222222, 3333333, 4444444 und 5555555
     
-    b.  Sie verfügt über zwei Azure AD Mandanten ( @contoso.com + @fabricam.com ), die Zugriff auf dasselbe Partner Center-Konto haben.
+    b.  Sie verfügt über zwei Azure AD Mandanten ( @contoso.com + @fabrikam.com ), die Zugriff auf dasselbe Partner Center-Konto haben.
     
     c.  Sie verfügt über zwei Kompetenz Vorteil-Pakete: eine, die bis zum 1. Oktober 2020 endet, und eine andere, die am 1. Dezember 2020 abläuft. Sie sind in der Lage, als ein einzelnes Kompetenz-Vorteil-Paket am 1. Dezember 2020 zu erneuern. Wenn Sie sich erneuern, behält "Configuration Manager" alle drei Kompetenzen bei, obwohl Sie nur ein einzelnes Vorteils Paket verwalten können.
     
-7.  Die Administratoren von "Administratoren" von "Configuration Manager" Verwalten weiterhin Partner Center-Rollen für @contoso.com Benutzer. Die Administratoren von fabricam verwalten weiterhin Partner Center-Rollen für @fabricam.com Benutzer. Die Administratoren von "Configuration Manager" können nur die Benutzer von fabricam verwalten, wenn Sie als Gast in den Mandanten von fabricam eingeladen werden.
-8.  Die Verbindung zwischen dem Mandanten @fabricam.com und den neuen Anmelde Informationen für fabricam-Mitarbeiter @contoso.com mit neuen Rollen und Berechtigungen kann von "Configuration Manager" ignoriert werden.
+7.  Die Administratoren von "Administratoren" von "Configuration Manager" Verwalten weiterhin Partner Center-Rollen für @contoso.com Benutzer. Die Administratoren von Fabrikam verwalten weiterhin Partner Center-Rollen für @fabrikam.com Benutzer. Die Administratoren von "Configuration Manager" können nur die Benutzer von Fabrikam verwalten, wenn Sie als Gast in den Mandanten von Fabrikam eingeladen werden.
+8.  Der Mandant kann von "Configuration Manager" ignoriert @fabrikam.com werden, und die neuen Anmelde Informationen für den Fabrikam-Mitarbeiter werden erneut @contoso.com mit neuen Rollen und Berechtigungen ausgestellt.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

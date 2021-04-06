@@ -2,17 +2,19 @@
 title: Häufige monatliche Abrechnungs Szenarien
 ms.topic: article
 ms.date: 05/13/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 'Häufige Szenarien in Partner Center bei der monatlichen Abrechnung: umfasst das Hinzufügen neuer Abonnements, das Ändern der Lizenz Menge und das Anhalten von Abonnements.'
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05c46faa3fd012677b615caa228cf4f7c6fe6c90
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 4fe5c33fe549604f25500dd333d187e6b70ad73e
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354575"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502513"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Stichproben von monatlichen Abrechnungs Szenarien für neue Abonnements, Ändern von Lizenz Beträgen oder Suspendierungen
 
@@ -27,29 +29,29 @@ Diese Beispiel [Szenarien gelten für allgemeine Abrechnungs Szenarien](common-b
 
 ## <a name="new-monthly-subscription"></a>Neues monatliches Abonnement
 
-Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine monatliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungspositionen:
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für "$ 4/Monat" und wählen die monatliche Abrechnung aus. Die Lizenz basierte ababstimmungs Datei für den 15. Januar enthält die folgenden Abrechnungs Zeilen:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13.01.2018         |12.02.2018    |Gebühr für Zyklus   |4.00       |1        |4.00 |
 
-Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
+Die Lizenz basierte ababstimmungs Datei von Februar 15 enthält die folgende Abrechnungs Zeile:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13.02.2018         |12.03.2018    |Gebühr für Zyklus   |4.00       |1        |4.00 |
 
 ## <a name="change-license-quantity"></a>Lizenzanzahl ändern
 
-Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine monatliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungspositionen:
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für "$ 4/Monat" und wählen die monatliche Abrechnung aus. Die Lizenz basierte ababstimmungs Datei für den 15. Januar enthält die folgenden Abrechnungs Zeilen:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13.01.2018         |12.02.2018    |Gebühr für Zyklus   |4.00       |1        |4.00    |
 
-Am 1. Februar erhöhen Sie die Anzahl der Lizenzen von 1 auf 2. Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungspositionen:
+Am 1. Februar erhöhen Sie Ihre Lizenz Menge von einem auf zwei. Die Lizenz basierte ababstimmungs Datei für den 15. Februar enthält die folgenden Abrechnungs Zeilen:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 | 13.01.2018        |12.02.2018    |Anteiliger Zyklus für Instanz   |-4,00       |1        |-4,00   |
 |13.01.2018         |31.01.2018    | Anteiliger Zyklus für Instanz   |2.45       |1        |2.45    |
@@ -68,35 +70,35 @@ Anteiliger Preis pro Einheit = 1,54 = 12 x 0,129
 
 ## <a name="suspend-before-30-days"></a>Aussetzen eines Abonnements innerhalb von 30 Tagen
 
-Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine monatliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungspositionen:
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für "$ 4/Monat" und wählen die monatliche Abrechnung aus. Die Lizenz basierte ababstimmungs Datei für den 15. Januar enthält die folgenden Abrechnungs Zeilen:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |13.01.2018         |12.02.2018    |Gebühr für Zyklus   |4.00       |1        |4.00    |
 
-Am 1. Februar setzen Sie das Abonnement aus. Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
+Am 1. Februar Sperren Sie ein Abonnement. Die Lizenz basierte ababstimmungs Datei von Februar 15 enthält die folgende Abrechnungs Zeile:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13.01.2018|12.02.2018|Stornierungsgebühr|-4,00|1|-4,00
 
 ## <a name="suspend-after-30-days"></a>Aussetzen eines Abonnements nach 30 Tagen
 
-Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für 4 USD pro Monat und wählen eine monatliche Abrechnung aus. Am 15. Januar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungspositionen:
+Ihr Abrechnungsdatum ist der 15. jedes Monats. Am 13. Januar erwerben Sie ein neues Abonnement mit einer Lizenz für "$ 4/Monat" und wählen die monatliche Abrechnung aus. Die Lizenz basierte ababstimmungs Datei für den 15. Januar enthält die folgenden Abrechnungs Zeilen:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13.01.2018|12.02.2018|Gebühr für Zyklus|4.00|1|4.00
 
-Am 15. Februar enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
+Die Lizenz basierte ababstimmungs Datei von Februar 15 enthält die folgende Abrechnungs Zeile:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 13.02.2018|12.03.2018|Gebühr für Zyklus|4.00|1|4.00
 
-Am 1. März setzen Sie das Abonnement aus. Am 15. März enthält die lizenzbasierte Kontenabstimmungsdatei folgende Rechnungsposition:
+Am 1. März brechen Sie das Abonnement ab. Die Lizenz basierte ababstimmungs Datei vom März 15 enthält die folgende Abrechnungs Zeile:
 
-|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount |
+|Startdatum der Abrechnung |Enddatum der Abrechnung |Gebührentyp |Unit Price |Menge |Amount (Betrag) |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 01.03.2018|12.03.2018|Stornierungsgebühr|-1,72|1|-1,72
 

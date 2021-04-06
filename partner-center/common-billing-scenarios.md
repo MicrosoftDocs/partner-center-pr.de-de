@@ -9,18 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dcac190570d42fa165d33226c3ad33ec836f521b
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 44f4e45b53d6da7c8ed08678f8b05719cc9c2d7a
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444628"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502445"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Häufige Abrechnungs Szenarien für CSP-Programmpartner, die in Partner Center arbeiten
-
-Gilt für:
-
-- Abrechnungsprogramm für cloudlösungsanbieter (CSP)
 
 **Geeignete Rollen**
 
@@ -29,7 +25,7 @@ Gilt für:
 - Helpdesk-Agent
 - Vertriebsbeauftragter
 
-In diesen Themen wird erläutert, was Sie auf Ihrer Rechnung erwarten sollten, nachdem Sie neue Abonnements hinzugefügt, die Anzahl der Lizenzen an ein Abonnement angepasst oder ein Abonnement gekündigt haben. Andere [Partner Center-Abrechnungs Typen](billing-different-types.md), z. b. nutzungsbasierte und Lizenz basierte Abonnements, werden unterschiedlich abgerechnet.
+In diesen Artikeln wird erläutert, was Sie auf Ihrer Rechnung erwarten sollten, nachdem Sie neue Abonnements hinzugefügt, die Anzahl der Lizenzen an ein Abonnement angepasst oder ein Abonnement gekündigt haben. Andere [Partner Center-Abrechnungs Typen](billing-different-types.md), z. b. nutzungsbasierte und Lizenz basierte Abonnements, werden unterschiedlich abgerechnet.
 
 | Art der Abrechnung | Behandelte Szenarien |
 | --------------- | ----------------- |

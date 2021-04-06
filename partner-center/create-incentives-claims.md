@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9b2f0b3acbbf3ad9648301b85cec3b8837e3e51e
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 9780aa80fdcaab6cfd240127b80155cbfb8dcd26
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132945"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502917"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>Erstellen und Verwalten eines Co-op-Anspruchs für Incentives
-
-**Zielgruppe**
-
-- Partner Center
 
 **Geeignete Rollen**
 
@@ -44,7 +40,7 @@ Auf der Seite mit den Anspruchsdetails können Sie andere Benutzer Ihrer Organis
 
 ### <a name="manage-your-claims"></a>Verwalten Ihrer Ansprüche
 
-Alle Aktivitäten im Rahmen der Erstellung des Anspruchs werden im **Verlauf** angezeigt. Jedes Mal, wenn Kollegen Belege oder Kommentare hinzufügen, wird diese Aktion im **Verlauf** gespeichert. Bis Sie den Anspruch senden, lautet der Status **In Bearbeitung** . Der Status Ihres Anspruchs ändert sich, während er den Genehmigungsprozess durchläuft. Manchmal können Sie während der Überprüfung eines Anspruchs Feedback zu einem bestimmten Element in der Dokumentation zur Nachweis der Ausführung erhalten. Feedback und Anfragen für zusätzliche Informationen werden ebenfalls im Anspruchsverlauf angezeigt.
+Alle Aktivitäten im Rahmen der Erstellung des Anspruchs werden im **Verlauf** angezeigt. Jedes Mal, wenn Kollegen Belege oder Kommentare hinzufügen, wird diese Aktion im **Verlauf** gespeichert. Bis Sie den Anspruch senden, lautet der Status **In Bearbeitung**. Der Status Ihres Anspruchs ändert sich, während er den Genehmigungsprozess durchläuft. Manchmal können Sie während der Überprüfung eines Anspruchs Feedback zu einem bestimmten Element in der Dokumentation zur Nachweis der Ausführung erhalten. Feedback und Anfragen für zusätzliche Informationen werden ebenfalls im Anspruchsverlauf angezeigt.
 
 Sie können Ihren Anspruch nicht mehr bearbeiten, nachdem Sie ihn übermittelt haben, es sei denn, ein Prüfer fordert zusätzliche Informationen an.
 

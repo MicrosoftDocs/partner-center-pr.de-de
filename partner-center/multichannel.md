@@ -9,18 +9,18 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 925532881b6f28b2e7a9d06372a92eed95716d48
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 9bf577b6869a8b48215cb404df872d79f38e6a5e
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132722"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441981"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Unterstützung für mehrere Kanäle: Verwenden anderer Partner zur Unterstützung von Kunden Abonnements, die an anderer Stelle
 
 **Zielgruppe**
 
-- Partner Center für Microsoft Government Cloud
+- Partner Center für Microsoft Cloud for US Government
 
 **Geeignete Rollen**
 

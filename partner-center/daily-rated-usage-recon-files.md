@@ -3,22 +3,23 @@ title: Nutzungs Abgleich-Dateien mit täglicher Bewertung
 ms.topic: article
 ms.date: 06/12/2020
 description: Erfahren Sie, wie Sie Nutzungs Abgleich-Dateien für die tägliche Bewertung in Partner Center lesen. Enthält Beschreibungen für bestimmte Felder in der Datei "Reconnaissance".
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 89080cb580d9b451454d108c6ef0ce0a08c1bf0c
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712238"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441896"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Erfahren Sie, wie Sie Nutzungs Abgleich-Dateien für die tägliche Bewertung in Partner Center lesen.
 
 **Zielgruppe**
 
-- Partner Center
 - Partner Center für Microsoft Cloud for US Government
 
 **Geeignete Rollen**
@@ -79,7 +80,7 @@ In diesem Artikel wird erläutert, wie Sie Nutzungs Abgleich-Dateien mit täglic
 | PricingCurrency | Die Währung in der Preisliste. |
 | ServiceInfo1 | Die Anzahl der Service Bus Verbindungen, die an einem bestimmten Tag bereitgestellt und verwendet wurden. |
 | ServiceInfo2 | Ein Legacyfeld, in dem optionale dienstspezifische Metadaten erfasst werden. |
-| Tags | Stellt eine logische Organisation von Azure-Ressourcen dar, die vom Benutzer festgelegt werden. |
+| `Tags` | Stellt eine logische Organisation von Azure-Ressourcen dar, die vom Benutzer festgelegt werden. |
 | AdditionalInfo | Alle zusätzlichen Informationen, die in den anderen Spalten nicht enthalten sind. |
 | Effectiveunitprice | Der tatsächliche Wert, der pro Einheit berechnet wird, einschließlich aller Rabatte, erworbenen Gutschriften usw. |
 | Pctobcexchangerate | Wechselkurs für Preiswährung auf Abrechnungswährung. |

@@ -9,18 +9,17 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 77695d061c9ce42f32c95abfd8475064991954f9
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 4422c5b002f8233f9d6225e7d4e7a82f6e37a280
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545851"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441845"
 ---
-# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Eskalieren von Problemen an Microsoft und erfahren, welche Probleme für die Microsoft-Eskalation besser geeignet sind  
+# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Eskalieren von Problemen an Microsoft und Bestimmen, welche Probleme besser für die Eskalation an Microsoft geeignet sind  
 
 **Zielgruppe**
 
-- Partner Center
 - Partner Center für Microsoft Cloud for US Government
 
 **Geeignete Rollen**
@@ -48,7 +47,7 @@ Es gibt jedoch einige Typen von Problemen, mit denen Sie sich an Microsoft wende
 
 1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
-2. Wählen Sie im Partner Center-Menü **Kunden**aus, und wählen Sie dann den Kunden aus, der Unterstützung benötigt.
+2. Wählen Sie im Partner Center-Menü **Kunden** aus, und wählen Sie dann den Kunden aus, der Unterstützung benötigt.
 
 3. Wählen Sie **Dienstverwaltung** und dann **Serviceanfragen** aus.
 

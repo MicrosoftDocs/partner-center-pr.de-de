@@ -9,18 +9,20 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03cd603cf65b1e999cf95fd10d76e6ccc6c403e8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999334"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441998"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>Was ist zu tun, wenn der einzige Administrator für Ihr MPN-Programm das Unternehmen verlassen hat?
 
-**Zielgruppe**
+**Geeignete Rollen**
 
-- Partner Center
+- MPN-Partneradministrator
+- Kontoadministrator
+- Globaler Administrator
 
 Der folgende Artikel führt Sie durch drei typische Szenarien, in denen beschrieben wird, was geschehen soll, wenn Ihr MPN-Administrator das Unternehmen verlassen hat.
 
@@ -28,7 +30,7 @@ Der folgende Artikel führt Sie durch drei typische Szenarien, in denen beschrie
 
 In diesem Fall kann eine andere Person im Unternehmen der Rolle MPN-Partner Administrator zugewiesen werden. Um der Rolle einer bestimmten MPN-Partner Administrator-/kontoadministratorrolle zugewiesen zu werden:
 
-1. Melden Sie sich mit Ihrem Geschäftskonto bei Ihrem Partner Center-Konto an (z. b. tom@contoso.com ).
+1. Melden Sie sich mit Ihrem Geschäftskonto bei Ihrem Partner Center-Konto an (z tom@contoso.com . b.).
 1. Über den Filter der **Benutzer Verwaltungs** Seite auf dem globalen Administrator, um zu sehen, wer die globalen Administratoren für Ihr Unternehmen sind. 
 1. Wenden Sie sich an einen der globalen Administratoren, und bitten Sie ihn, Ihnen die MPN-spezifische Rolle zuzuweisen, die Sie benötigen. 
 
@@ -55,7 +57,7 @@ Befolgen Sie die Schritte für die [Administrator Übernahme](/azure/active-dire
 Wenn Sie nicht sicher sind, ob Ihr Unternehmen ein Geschäftskonto besitzt, können Sie das folgendermaßen überprüfen.
 
 1. Melden Sie sich beim [Azure-Verwaltungs Portal](https://ms.portal.azure.com)an.
-2. Wählen Sie im linken Menü **Azure Active Directory** aus, und wählen Sie dann **Domänen Namen**aus.
+2. Wählen Sie im linken Menü **Azure Active Directory** aus, und wählen Sie dann **Domänen Namen** aus.
 Wenn Sie bereits ein Geschäftskonto haben, wird Ihr Domänenname aufgeführt.
 
 >[!Note]

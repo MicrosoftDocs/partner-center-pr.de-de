@@ -1,5 +1,5 @@
 ---
-title: Partner Center für Microsoft Government Cloud
+title: Partner Center für die Microsoft US Government-Cloud
 ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
@@ -9,18 +9,18 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 658b8ae4a8ae837f57e28298db47a288ac87edd8
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 2d25fcb99695a726ab99fca4c4163e268a464526
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087143"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441828"
 ---
-# <a name="partner-center-for-microsoft-government-cloud-supports-partner-offers-to-government-agencies"></a>Partner Center für Microsoft Government Cloud unterstützt Partnerangebote für Regierungsbehörden.
+# <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>Partner Center für Microsoft Cloud für die US-Regierung unterstützt Partnerangebote für Regierungsbehörden.
 
 **Zielgruppe**
 
-- Partner Center für Microsoft Government Cloud
+- Partner Center für Microsoft Cloud for US Government
 
 **Geeignete Rollen**
 
@@ -30,22 +30,22 @@ ms.locfileid: "106087143"
 - Vertriebsbeauftragter
 - Abrechnungsadministrator
 
-## <a name="microsoft-government-cloud-meeting-data-protection-requirements"></a>Microsoft Government Cloud: erfüllen der Datenschutzanforderungen
+## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud für die US-Regierung: erfüllen der Datenschutzanforderungen
 
-Microsoft Government Cloud wurde für die US-Regierung entwickelt und ermöglicht die Auswahl von US-amerikanischen Bundes-, Bundesstaats-, Kommunal-oder Stammes Entitäten aus einer Reihe von Microsoft-Cloud Computing Services. Um die spezifischen Anforderungen von Kunden im öffentlichen Sektor bestmöglich zu erfüllen, hat Microsoft bedeutende Rechenzentren investiert und ist für die Einhaltung der Datenschutz Konformität mit den US-Bundes-und-Bundesstaaten-Richtlinien,-Vorgaben und-Anforderungen vorgesehen. Partner Center for Microsoft Government Cloud ermöglicht Partnern, Microsoft Cloud Services an diese Kunden weiter zu verkaufen.
+Das für die US-Regierung entwickelte Microsoft Cloud für die US-Regierung ermöglicht die Auswahl von US-amerikanischen Bundes-, Bundesstaats-, Kommunal-oder stammeseinheiten aus einer Reihe von Microsoft-Cloud Computing Services. Um die spezifischen Anforderungen von Kunden im öffentlichen Sektor bestmöglich zu erfüllen, hat Microsoft bedeutende Rechenzentren investiert und ist für die Einhaltung der Datenschutz Konformität mit den US-Bundes-und-Bundesstaaten-Richtlinien,-Vorgaben und-Anforderungen vorgesehen. Partner Center für Microsoft Cloud for US Government ermöglicht Partnern den Weiterverkauf von Microsoft-Clouddiensten an diese Kunden.
 
-Beachten Sie, dass einige der Funktionen, die in Partner Center verfügbar sind, unter Umständen noch nicht im Partner Center für Microsoft Government Cloud verfügbar sind.
+Beachten Sie, dass einige der verfügbaren Funktionen in Partner Center möglicherweise noch nicht in Partner Center für Microsoft Cloud for US Government verfügbar sind.
 
-Die Microsoft Government Cloud bietet eine separate Instanz von [Microsoft Azure](https://azure.microsoft.com/overview/clouds/government/) , die die Datenschutzanforderungen von behördlichen Sicherheits-, Datenschutz-und Complianceanforderungen erfüllt. 
+Microsoft Cloud for US Government bietet eine separate Instanz von [Microsoft Azure](https://azure.microsoft.com/overview/clouds/government/), die die Datenschutzanforderungen in Bezug auf Sicherheit, Privatsphäre und Compliance von Behörden erfüllt. 
 
-Weitere Informationen finden Sie im Datenblatt der [Microsoft Government-Cloud](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF).
+Weitere Informationen finden Sie im [Microsoft Cloud für das Daten](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)Blatt "US-Regierung".
 
-## <a name="partner-center-for-microsoft-government-cloud-selling-cloud-solutions-to-us-government-entities"></a>Partner Center für Microsoft Government Cloud: verkaufen von cloudlösungen an US Government-Entitäten
+## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>Partner Center für Microsoft Cloud für die US-Regierung: verkaufen von cloudlösungen an US Government-Entitäten
 
-Nachdem Sie sich im CSP-Programm (Cloud Solution Provider) für Microsoft Government Cloud registriert haben, nutzen Sie Partner Center, um cloudspezifische Lösungen und Dienste an Ihre US Government-Kunden zu verkaufen. 
+Nachdem Sie sich für das CSP-Programm (Cloud Solution Provider) für Microsoft Cloud for US Government registriert haben, können Sie Partner Center verwenden, um cloudspezifische Lösungen und Dienste an US-Behördenkunden zu verkaufen. 
 
 > [!NOTE]  
-> Zum Zeitpunkt der Veröffentlichung dieses Artikels waren die folgenden Partner Center-Features noch nicht im Partner Center für Microsoft Government Cloud verfügbar (seit der Veröffentlichung wurden einige der Features möglicherweise dem Partner Center hinzugefügt, und diese Liste ist möglicherweise veraltet):
+> Zum Zeitpunkt der Veröffentlichung dieses Artikels, waren folgende Partner Center-Funktionen noch nicht in Partner Center für Microsoft Cloud for US Government verfügbar. (Seit der Veröffentlichung wurden Partner Center möglicherweise einige Funktionen hinzugefügt, und diese Liste ist möglicherweise nicht mehr aktuell.)
 
 - Einen Partner suchen
 - Geschäftsprofile
@@ -58,14 +58,14 @@ Nachdem Sie sich im CSP-Programm (Cloud Solution Provider) für Microsoft Govern
 - Registrierung unabhängiger Softwarehersteller (Independent Software Vendor, ISV)
 - Spezielle Kundenqualifikation
 
-Die folgenden Partner Center-Aufgaben werden mithilfe des Azure-Verwaltungs Portals für Microsoft Government Cloud verwaltet: 
+Die folgenden Partner Center-Aufgaben werden mithilfe des Azure-Verwaltungsportals für Microsoft Cloud for US Government verwaltet: 
 
 - Verwaltung der Benutzer des Partners
 - Benutzer- und -Lizenzverwaltung für Kunden
 - Zurücksetzen der Kennwörter von Benutzern
 
-Weitere Informationen zum Verwalten von Benutzern und Lizenzen finden Sie unter [Benutzer-und Lizenzverwaltung im Partner Center für die Microsoft Government-Cloud](user-management-in-partner-center-for-microsoft-us-govt-cloud.md).
+Informationen zum Verwalten von Benutzern und Lizenzen finden Sie unter [Benutzer- und Lizenzverwaltung in Partner Center für Microsoft Cloud for US Government](user-management-in-partner-center-for-microsoft-us-govt-cloud.md).
 
-Informationen zur Anmeldung bei CSP für Microsoft Government Cloud finden Sie unter " [Anmelden bei CSP für Microsoft Government Cloud](enroll-in-csp-for-microsoft-us-govt-cloud.md)".
+Informationen zur Anmeldung bei CSP für Microsoft Government Cloud finden Sie unter " [Anmelden bei CSP für Microsoft Cloud für US-Behörden](enroll-in-csp-for-microsoft-us-govt-cloud.md).
 
-Eine FAQ finden Sie unter [häufig gestellte Fragen zum CSP-Programm für die Microsoft Government-Cloud](faq-for-us-govt-cloud.md).
+Lesen Sie [Häufig gestellte Fragen zum Cloud Solution Provider-Programm (CSP) für Microsoft Cloud for US Government](faq-for-us-govt-cloud.md)

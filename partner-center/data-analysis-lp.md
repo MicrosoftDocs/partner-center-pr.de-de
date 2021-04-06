@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19e7cf9442660a24d36b5f7c20fab156fdc0d59a
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626070"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441879"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Verwenden von Analytics, um mehr über die Abonnement Einnahmen zu erfahren
 
@@ -36,9 +36,9 @@ Um Ihr CSP-Geschäft planen zu können, müssen Sie wissen, wie Kunden ihre Micr
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Umsatz des nachgestellten Twelve-Month (TTM)
 
-Der nachfolgende 12-Monats-CSP-Umsatz repräsentiert den nachfolgenden Umsatz des Cloud Solution Provider-Programms in USD auf globaler Kontoebene des Partners. Die Daten werden am 8. jedes Monats aktualisiert, um die nachfolgenden zwölfmonatigen Umsätze bis zum vorherigen Monat anzuzeigen. Beispielsweise sollten Sie am 9. September 2020 in der Lage sein, das TTM für den festgelegten Zeitraum zwischen September 2019 und August 2020 anzuzeigen.
+Der nachfolgende 12-Monats-CSP-Umsatz repräsentiert den nachfolgenden Umsatz des Cloud Solution Provider-Programms in USD auf globaler Kontoebene des Partners. Die Daten werden am achten jedes Monats aktualisiert, um die nachfolgenden zwölfmonatigen Umsätze bis zum vorherigen Monat anzuzeigen. Beispielsweise sollten Sie am 9. September 2020 in der Lage sein, das TTM für den festgelegten Zeitraum zwischen September 2019 und August 2020 anzuzeigen.
 
-Der in Partner Center angezeigte Umsatz wird für ein festes Zeitintervall von zwölf Monaten berechnet und kann nicht in einen kürzeren Zeitrahmen geändert werden.
+Der in Partner Center angezeigte Umsatz wird für ein festes Zeitintervall von 12 Monaten berechnet und kann nicht in einen kürzeren Zeitrahmen geändert werden.
 
 So sehen Sie eine Aufschlüsselung des Umsatzes auf der Kontoebene Ihres Partner Standorts:
 
@@ -51,14 +51,14 @@ So sehen Sie eine Aufschlüsselung des Umsatzes auf der Kontoebene Ihres Partner
 
 In der unteren Hälfte des Bildschirms wird eine Zusammenfassung der Abonnements angezeigt. Verwenden Sie die folgenden Filter, um die erforderlichen Abonnement Details anzuzeigen:  
 
-1. **Dauer** : Sie können die Abonnement Zusammenfassung für 
+1. **Dauer**: Sie können die Abonnement Zusammenfassung für 
 
 - 30D – letzte 30 Tage
 - 3 Mio. – letzte 3 Monate
 - 6 Mio. – letzte 6 Monate
 - 12 Mio. – Letzte 12 Monate
 
-2. **Produkttyp** :
+2. **Produkttyp**:
  
 - Office 365
 - Microsoft 365

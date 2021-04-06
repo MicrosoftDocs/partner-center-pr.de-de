@@ -9,19 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19f86ec5353abc21e14a3a8ac2ef17dd17924cfe
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4feaa8cba8ba17f553b5e936dcf892ffbf7ccc82
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000464"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441301"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Erteilen Sie Kunden eine Berechtigung im Partner Center, um Ihre eigenen Produkte oder Dienste zu erwerben.
-
-**Zielgruppe**
-
-- Partner Center
-- Partner im CSP-Programm
 
 **Geeignete Rollen**
 
@@ -32,7 +27,7 @@ In diesem Artikel wird gezeigt, wie ein Partner im Cloud Solution Provider-Progr
 
 Partner im CSP-Programm nutzen häufig Partner Center und ihren kommerziellen Marketplace, um Lösungen und Dienste für Ihre Kunden zu erwerben. Partner ermöglichen es einigen Kunden dann, diese Dienste selbst direkt aus dem Azure-Portal bereitzustellen.
 
-Hier sehen Sie ein Beispiel. Nehmen wir an, dass Sie ein Azure-Plan Abonnement für einen Kunden im Partner Center erwerben. Anschließend legen Sie im Auftrag des Kunden weitere Ressourcen oder Dienste zu diesem Abonnement hinzu. In diesem Fall können Sie Azure-Reservierungen dem Abonnement des Kunden hinzufügen (z. b. durch Hinzufügen reservierter Instanzen virtueller Computer). Sie können dem Kunden dann gestatten, die Azure-Reservierungs Ressourcen selbst in der Azure-Portal bereitzustellen.
+Hier ist ein Beispiel. Nehmen wir an, dass Sie ein Azure-Plan Abonnement für einen Kunden im Partner Center erwerben. Anschließend legen Sie im Auftrag des Kunden weitere Ressourcen oder Dienste zu diesem Abonnement hinzu. In diesem Fall können Sie Azure-Reservierungen dem Abonnement des Kunden hinzufügen (z. b. durch Hinzufügen reservierter Instanzen virtueller Computer). Sie können dem Kunden dann gestatten, die Azure-Reservierungs Ressourcen selbst in der Azure-Portal bereitzustellen.
 
 Mit dem Feature " **Kunden Berechtigungen** " bieten Sie den Kunden nun mehr Self-Service-Optionen für Azure-Ressourcen. Durch Aktivieren der Berechtigungen für den Kunden gestatten Sie Kunden, ihre eigenen Ressourcen zu erwerben (z. b., um Ihre eigenen Azure-Reservierungen zu erwerben).  
 
@@ -103,7 +98,7 @@ So überprüfen Sie, ob dem Kunden die Rolle " **Besitzer** " für ein Azure-Abo
 
 1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
-2. Wählen Sie **CSP**und dann **Kunden** aus, und wählen Sie den Kunden aus.
+2. Wählen Sie **CSP** und dann **Kunden** aus, und wählen Sie den Kunden aus.
 
 3. Wählen Sie **Abonnements** für diesen Kunden aus, und suchen Sie nach dem jeweiligen Azure-Abonnement.
 
@@ -119,7 +114,7 @@ So aktivieren oder deaktivieren Sie Kunden Berechtigungen in Partner Center:
 
 1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 
-2. Wählen Sie im linken Navigationsmenü **CSP**und dann **Kunden**aus. Eine Kundenliste wird angezeigt.
+2. Wählen Sie im linken Navigationsmenü **CSP** und dann **Kunden** aus. Eine Kundenliste wird angezeigt.
 
 3. Wählen Sie einen bestimmten Kundennamen aus.
 
@@ -127,9 +122,9 @@ So aktivieren oder deaktivieren Sie Kunden Berechtigungen in Partner Center:
 
 5. Suchen Sie unten auf der Seite den Bereich **Kunden Berechtigungen** .
 
-   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="Kunden Berechtigungen auf der Seite Konto." border="true":::
+   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="Kunden Berechtigungen auf der Seite &quot;Konto&quot;." border="true":::
 
-6. Suchen Sie unter **Azure-Reservierungen**die Option **Kauf von Kunden gestatten** .
+6. Suchen Sie unter **Azure-Reservierungen** die Option **Kauf von Kunden gestatten** .
 
 7. Um die Kunden Berechtigungen zu aktivieren, verschieben Sie den Schalter neben dieser Option in die Position an der Position **an** . Um die Kunden Berechtigungen zu deaktivieren, verschieben Sie den Schalter an die Position **aus** .
 

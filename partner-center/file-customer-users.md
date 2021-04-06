@@ -9,18 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07a28e5310716f3df11caa36e51339e877e65627
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8ba08d97f1d360eae5af1941ed36753addd24939
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87528180"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441420"
 ---
 # <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Hinzufügen mehrerer Benutzer zu einem Kundenkonto durch Erstellen einer CSV-Datei
-
-**Zielgruppe**
-
-- Partner Center
 
 **Geeignete Rollen**
 
@@ -44,10 +40,10 @@ Geben Sie die folgenden Daten in die Datendatei ein:
 |:-------- |:------  |:----- |
 | Vorname  | Vorname des Benutzers (optionales Feld)  | Maximal 50 Zeichen  |
 | Nachname  | Nachname des Benutzers (optionales Feld)  | Maximal 50 Zeichen  |
-| Anzeigename    | Der im Partner Center angezeigte Name (erforderliches Feld)                            | Maximal 50 Zeichen                         |
-| E-Mail   | Geschäftliche e-Mail-Adresse des Benutzers im Kunden Unternehmen (Pflichtfeld)           | Jeder Benutzer muss über eine eindeutige E-Mail-Adresse verfügen. |
-| Statusaktualisierung   | Hiermit wird angegeben, ob der Datensatz des neuen Benutzers erfolgreich erstellt wurde. | \*\*Keine Angabe\*\*                        |
+| `Display name`    | Der im Partner Center angezeigte Name (erforderliches Feld)                            | Maximal 50 Zeichen                         |
+| Email   | Geschäftliche e-Mail-Adresse des Benutzers im Kunden Unternehmen (Pflichtfeld)           | Jeder Benutzer muss über eine eindeutige E-Mail-Adresse verfügen. |
+| Statusaktualisierung   | Wird verwendet, um anzugeben, ob der neue Benutzerdaten Satz erfolgreich erstellt wurde. | \*\*Keine Angabe\*\*                        |
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Vorgehensweise beim Hinzufügen von mehreren Benutzern für einen Kunden](adding-multiple-users-to-a-customer-account.md)
+- [Hinzufügen mehrerer Benutzer für einen Kunden](adding-multiple-users-to-a-customer-account.md)

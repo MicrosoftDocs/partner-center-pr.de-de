@@ -9,18 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624135"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549106"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Verlängern von MPN-Angeboten für Kompetenzen und erweiterte Spezialisierungen während des Verlängerungszeitraums
-
-### <a name="applies-to"></a>Gilt für:
-
-- Partner Center
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Reaktion auf COVID-19: Microsoft Partner Network-Update
 
@@ -42,7 +38,7 @@ Wenn Sie Ihr Abonnement innerhalb des Zeitfensters verlängern, liegt der neue J
 
 4. Um dieses Angebot nutzen zu können, navigieren Sie zu **Mitgliedschaftsangebote**. Sie müssen möglicherweise die Kompetenzgebühr bezahlen, um den Vorgang abzuschließen, je nach dem Status des Kaufs bzw. der Verlängerung Ihrer Kompetenz.
 
-Um die Erweiterung zu nutzen, müssen Sie Ihre Mitgliedschaft aus dem Partner Membership Center (PMC) in das Partner Center verschoben haben, um ihre Kompetenz zu verlängern und die Gebühr zu bezahlen. Wenn Sie Ihre Mitgliedschaft nicht verschoben haben, können Sie noch heute [mehr erfahren](prepare-pmc-pc-migration.md)  und die  [Umstellung durchführen](https://partners.microsoft.com/partnerprogram/Welcome.aspx) .  
+Um die Erweiterung zu nutzen, müssen Sie Ihre Mitgliedschaft aus dem Partner Membership Center (PMC) in das Partner Center verschoben haben, um ihre Kompetenz zu verlängern und die Gebühr zu bezahlen. Wenn Sie Ihre Mitgliedschaft nicht verschoben haben, können Sie noch heute [mehr erfahren](prepare-pmc-pc-migration.md) und die [Umstellung durchführen](https://partners.microsoft.com/partnerprogram/Welcome.aspx).  
 
 ## <a name="next-steps"></a>Nächste Schritte
 

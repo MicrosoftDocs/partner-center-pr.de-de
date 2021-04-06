@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Standorten im Partnerkonto
 ms.topic: how-to
-ms.date: 02/08/2021
+ms.date: 04/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie einen neuen Standort hinzufügen und wie die Standort-MPN-ID in Incentive-Programmen, CSP-Geschäftsaktionen, Abonnements und anderen Transaktionen verwendet wird.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005906"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441325"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Verwalten von MPN-Kontostandorten und Hinzufügen (Löschen) eines Standorts
 
@@ -26,9 +26,9 @@ ms.locfileid: "100005906"
 
 Die Standort-MPN-ID identifiziert jeden spezifischen Standort Ihres Unternehmens und wird für die Registrierung bei Incentive-Programmen, für die Abwicklung von Transaktionen als Cloud Solution Provider (CSP) und andere geschäftliche Transaktionen verwendet. Die globale MPN-ID wird für transaktionsfremde Aktivitäten verwendet (etwa für Supportanfragen).
 
-## <a name="the-following-is-a-typical-scenario"></a>Ein typisches Szenario:
+## <a name="the-following-scenario-is-typical"></a>Hier ein typisches Szenario:
 
-Contoso hat sein globales Partnerkonto (Partner Global Account, PGA) im Vereinigten Königreich. Dies ist das registrierte Unternehmen, und seine globale MPN-ID wird für die Verwaltung aller transaktionsfremden Angelegenheiten verwendet. Contoso verfügt außerdem über Partnerstandortkonten (Partner Location Account, PLA), die den Niederlassungen oder Abteilungen an anderen Standorten im Vereinigten Königreich, Frankreich und den USA entsprechen. In der MPN-Kontostruktur werden diese PLAs als eindeutige Standort-MPN-IDs dargestellt. Die PLAs werden für transaktionsbezogene Angelegenheiten (beispielsweise CSP- oder Incentive-Programme) verwendet. Auszahlungen sind an spezifische Standorte gebunden. 
+Contoso hat sein globales Partnerkonto (Partner Global Account, PGA) im Vereinigten Königreich. Bei dem PGA handelt es sich um das registrierte Unternehmen, und seine globale MPN-ID wird für die Verwaltung aller transaktionsfremden Angelegenheiten verwendet. Contoso verfügt außerdem über Partnerstandortkonten (Partner Location Account, PLA), die den Niederlassungen oder Abteilungen an anderen Standorten im Vereinigten Königreich, Frankreich und den USA entsprechen. In der MPN-Kontostruktur werden diese PLAs als eindeutige Standort-MPN-IDs dargestellt. Die PLAs werden für transaktionsbezogene Angelegenheiten (beispielsweise CSP- oder Incentive-Programme) verwendet. Auszahlungen sind an spezifische Standorte gebunden. 
 
 >[!NOTE]
 >Zwischen einem CSP-Mandanten und einer MPN-Standort-ID besteht eine 1:1-Beziehung.
@@ -56,13 +56,32 @@ Zum Hinzufügen eines neuen CSP-Geschäftskontos müssen Sie zunächst sicherste
  
 1. Wählen Sie über das Symbol **Einstellungen** die Optionen **Kontoeinstellungen**, **Organisationsprofil**, **Rechtliche Hinweise** aus. 
 
-1. Vergewissern Sie sich, dass auf der Registerkarte **Partner** keine Fehlermeldung im Banner angezeigt wird, in der Sie dazu aufgefordert werden, von PMC migrierte Standorte zu korrigieren. Wenn dies der Fall ist, befolgen Sie die Anweisungen, und korrigieren Sie diese Standorte. 
+1. Vergewissern Sie sich, dass auf der Registerkarte **Partner** keine Fehlermeldung im Banner angezeigt wird, in der Sie dazu aufgefordert werden, von PMC migrierte Standorte zu korrigieren.  Wenn Ihre Standorte in PMC nicht ordnungsgemäß eingerichtet wurden und noch nicht in PC übergegangen sind, müssen Sie diese Standorte aktualisieren.
 
-3. Wird keine Fehlermeldung angezeigt, wählen Sie unter **Einstellungen** die Optionen **Kontoeinstellungen**, **Organisationsprofil**, **Bezeichner** aus.
+:::image type="content" source="images/locations/location-two.png" alt-text="Screenshot zum Aktualisieren des Standorts":::
+ 
+4.  Wählen Sie im Bildschirm **PMC-Standorte überprüfen** die Option **Aktualisieren** aus.
+Aktualisieren Sie die folgenden Felder:
 
-4. Suchen Sie nach der MPN-ID mit dem Typ „Standort“, der dem Land dieses CSP-Kontos entspricht, und verwenden Sie sie für die folgende Suche und um die Zuordnung abzuschließen.
+- **Feld „Name“** : Stellen Sie sicher, dass der Name des Unternehmensstandorts korrekt ist. Wenn ein Duplikatfehler angezeigt wird, versuchen Sie, den Wert z. B. von „Contoso“ in „Contoso, Inc“ zu ändern.
 
-5. Wenn Sie die Standort-MPN-ID, die dem zu verwendenden CSP-Konto entspricht, nicht finden, können Sie einen neuen Standort hinzufügen, um eine neue MPN-ID zu erstellen. Weitere Informationen finden Sie im folgenden Abschnitt **Hinzufügen eines MPN-Standorts**.
+- **Feld „Juristische Entität“** : Stellen Sie sicher, dass Sie die juristische Entität ausgewählt haben, an die der Standort gebunden ist.
+
+- **Felder „Adresszeile 1“ und „Adresszeile 2“** : Vergewissern Sie sich, dass die Adresse richtig ist.
+
+- **Felder „Stadt“ und „Bundesland/Kanton“** : Stellen Sie sicher, dass die Kombination von Stadt und Bundesland/Kanton richtig ist. Es gibt Länder, bei denen das Dropdownmenü zur Auswahl des Bundeslands/Kantons verwendet wird. Bei anderen Ländern muss der Eintrag in das Feld manuell erfolgen.
+
+- **Feld „Postleitzahl“** : Stellen Sie sicher, dass das Feld für die Postleitzahl mit dem jeweiligen Land, der Region, der Stadt oder der Adresse übereinstimmt.
+
+- **Felder für Informationen zum Hauptansprechpartner**: Stellen Sie sicher, dass die Felder für den Vor- und Nachnamen ausgefüllt sind und dass es sich bei der geschäftlichen E-Mail-Adresse nicht um eine private Adresse handelt (z. B. @outlook.com, @live.com usw.).
+
+- **Feld „Telefonnummer“** : Vergewissern Sie sich, dass die Telefonnummer keine Sonderzeichen, Leerzeichen oder die Landeskennzahl enthält. Der im Feld „Telefonnummer“ eingegebene Wert umfasst immer maximal zehn Zeichen.
+
+5. Wird keine Fehlermeldung angezeigt, wählen Sie unter **Einstellungen** die Optionen **Kontoeinstellungen**, **Organisationsprofil**, **Bezeichner** aus.
+
+6. Suchen Sie nach der MPN-ID mit dem Typ „Standort“, der dem Land dieses CSP-Kontos entspricht, und verwenden Sie diese, um die Zuordnung abzuschließen.
+
+7. Wenn Sie die Standort-MPN-ID, die dem zu verwendenden CSP-Konto entspricht, nicht finden, können Sie einen neuen Standort hinzufügen, um eine neue MPN-ID zu erstellen. Weitere Informationen finden Sie im folgenden Abschnitt **Hinzufügen eines MPN-Standorts**.
 
 ## <a name="add-an-mpn-location"></a>Hinzufügen eines MPN-Standorts
 
@@ -80,6 +99,7 @@ Zum Hinzufügen eines neuen CSP-Geschäftskontos müssen Sie zunächst sicherste
 
 > [!NOTE]
 > In Partner Center hinzugefügte Standorte können nicht mehr entfernt werden. Wenn Sie die richtige MPN-ID für die Anmeldung verwendet haben, wird **MPN** im linken Menü von Partner Center angezeigt.
+
 
 ## <a name="delete-a-location"></a>Löschen eines Standorts
 

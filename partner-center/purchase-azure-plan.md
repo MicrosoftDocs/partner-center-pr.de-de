@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 7645495e481010a92cc4f9cd95bf26f5e3783b70
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215899"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633827"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Erwerben Sie den Azure-Plan für Kunden und greifen Sie auf die neuesten Azure-Dienste zu nutzungsbasierten Tarifen zu.
 
 **Geeignete Rollen**
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - Vertriebsbeauftragter
 
 Wenn Sie im Rahmen des Microsoft-Kundenvertrags einen Azure-Plan für Ihre Kunden erwerben, haben Sie Zugriff auf den Gesamtkatalog der neuesten Azure-Dienste zu nutzungsbasierten Tarifen. CSP-Partner können jetzt auf jeden Azure-Dienst zugreifen, sobald er die allgemeine Verfügbarkeit erreicht hat. Ein Partner kann über mehrere Azure-Abonnements in einem Azure-Plan verfügen. 
@@ -79,7 +79,7 @@ Azure-Reservierungen müssen einem aktiven Azure-Abonnement zugeordnet werden. W
 >Wenn der Kunde noch keinen aktiven Azure-Plan besitzt, wähle Azure aus, um jetzt einen hinzuzufügen. Weitere Anweisungen finden Sie unter [Kaufen von Azure-Reservierungen](azure-reservations-buying.md#purchase-azure-reservations).
 
 >[!Note]
->Der Umfang einer Reservierung kann im Partner Center derzeit nur auf **Freigegeben** festgelegt werden. Um den Umfang eines Einzelabonnements auszuwählen oder den Umfang von einem freigegebenen in ein Einzelabonnement zu aktualisieren, wechseln Sie wie nachfolgend beschrieben zum **Microsoft Azure-Verwaltungsportal**. 
+>Der Umfang einer Reservierung kann im Partner Center derzeit nur auf **Freigegeben** festgelegt werden. Um den Umfang eines Einzelabonnements auszuwählen oder den Umfang von einem freigegebenen Abonnement in ein Einzelabonnement zu aktualisieren, navigieren Sie wie nachfolgend beschrieben zum **Microsoft Azure-Verwaltungsportal**. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Einstellung „Freigegeben“ für den Umfang der Reservierungen":::
 

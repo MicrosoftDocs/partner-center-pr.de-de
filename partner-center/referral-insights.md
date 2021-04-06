@@ -9,19 +9,14 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f58a7cc34b5b5b5755f652faf220d290ec2a355d
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756486"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549259"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>In Partner Center erhalten Sie Erkenntnisse zu Empfehlungen und Informationen zur Entwicklung Ihrer Empfehlungen.
-
-**Zielgruppe**
-
-- Co-Selling-Verkaufschancen
-- Private Deals
 
 Auf der Seite **Co-Selling-Verkaufschancen** im Abschnitt **Analysen** unter „Empfehlungen“ können Sie die Entwicklung Ihrer Empfehlungen sehen. Überprüfen Sie diese Metriken regelmäßig, um Trends oder Bereiche zu identifizieren, denen Sie Ihre Aufmerksamkeit widmen müssen, und beginnen Sie, Ihre Geschäftsziele bewusst anzusteuern.
 
@@ -32,9 +27,9 @@ Um die Erkenntnisse zu Ihren Co-Selling-Verkaufschancen anzuzeigen, navigieren S
 
 ## <a name="apply-filters"></a>Anwenden von Filtern
 
-Im oberen Bereich der Seite **Co-Selling-Verkaufschancen** können Sie den Zeitraum auswählen, für den Daten angezeigt werden sollen. Standardmäßig ist **3M** (drei Monate) ausgewählt, Sie können sich aber entscheiden, stattdessen Daten für einen Zeitraum von sechs Monaten oder einem Jahr anzuzeigen. Sie können auch **Benutzerdefiniert** auswählen, um Daten für alle Empfehlungen innerhalb eines bestimmten Zeitraums anzuzeigen.
+Im oberen Bereich der Seite **Co-Selling-Verkaufschancen** können Sie den Zeitraum auswählen, für den Daten angezeigt werden sollen. Standardmäßig ist **3M** (drei Monate) ausgewählt, Sie können sich aber entscheiden, stattdessen Daten für sechs Monate oder ein Jahr anzuzeigen. Sie können auch **Benutzerdefiniert** auswählen, um Daten für alle Empfehlungen innerhalb eines bestimmten Zeitraums anzuzeigen.
 
-Sie können auf die Schaltfläche „Filter“ klicken, um den Bereich zu öffnen, in dem Sie alle Daten auf dieser Seite nach Kundenname, Land/Region, Dealtyp, Dealrichtung, Lösungsname und Status filtern können. Die Details dieser Filter sind nachfolgend angegeben.
+Sie können die Schaltfläche **Filter** auswählen, um den Bereich zu öffnen, in dem Sie alle Daten auf dieser Seite nach Kundenname, Land, Dealtyp, Dealrichtung, Lösungsname und Status filtern können. Die Details dieser Filter sind nachfolgend angegeben.
 
 - **Kundenname**: Der Standardwert lautet **Alle**, aber Sie können die Daten auf einen oder mehrere ausgewählte Kunden begrenzen.
 - **Land/Region**: Der Standardwert lautet **Alle**, aber Sie können die Daten auf ein oder mehrere Länder des ausgewählten Kunden begrenzen.
@@ -63,7 +58,7 @@ In diesem Abschnitt wird visuell angezeigt, wie Ihre Deals im Laufe ihres Lebens
 
 ## <a name="deals-by-geography"></a>Deals nach Geografie
 
-Im diesem Abschnitt werden die Länder/Regionen angezeigt, aus denen die Deals stammen, zusammen mit Details zu jedem Land/jeder Region. Es gibt eine Tabellenansicht der Dealdetails für die einzelnen Länder sowie eine Kartenansicht aller Länder. Sie können auf ein bestimmtes Land/eine bestimmte Region in der Tabelle klicken oder auf die Kartenansicht klicken, um auf ein bestimmtes Land/eine bestimmte Region zu zoomen.
+Im diesem Abschnitt werden die Länder/Regionen angezeigt, aus denen die Deals stammen, zusammen mit Details zu jedem Land/jeder Region. Es gibt eine Tabellenansicht der Dealdetails für die einzelnen Länder sowie eine Kartenansicht aller Länder. Sie können ein bestimmtes Land in der Tabelle oder die Kartenansicht auswählen, um auf ein bestimmtes Land zu zoomen.
 
 :::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Abbildung der geografischen Verteilung von Empfehlungen":::
 
@@ -94,7 +89,7 @@ Die folgenden drei Dimensionen können für den Datenvergleich ausgewählt werde
 - Märkte
 - Lösungen
 
-Durch Auswahl des Dealtyps haben Sie die Möglichkeit, die Entwicklung von Empfehlungen in Bezug auf Co-Selling-Verkaufschancen und private Deals zu vergleichen. Sowohl für Märkte als auch Lösungen können Sie bis zu drei verschiedene Optionen zum Vergleichen der Erfolge auswählen. Im ersten Diagramm, bei dem es sich um ein Balkendiagramm handelt, werden die Daten mit einem Trend im Vergleich zum Vormonat angezeigt, der auf dem Hauptpivot basiert, d. h. dem Umfang oder dem gewonnenen Dealwert. Rechts neben dem Balkendiagramm ist außerdem ein Kreisdiagramm enthalten, das die Verteilung in Prozent für die gleichen Daten zeigt.
+Durch Auswahl des Dealtyps können Sie die Entwicklung von Empfehlungen in Bezug auf Co-Selling-Verkaufschancen und private Deals vergleichen. Sowohl für Märkte als auch Lösungen können Sie bis zu drei verschiedene Optionen zum Vergleichen der Erfolge auswählen. Im ersten Diagramm, bei dem es sich um ein Balkendiagramm handelt, werden die Daten mit einem Trend im Vergleich zum Vormonat angezeigt, der auf dem Hauptpivot basiert, d. h. dem Umfang oder dem gewonnenen Dealwert. Rechts neben dem Balkendiagramm ist außerdem ein Kreisdiagramm enthalten, das die Verteilung in Prozent für die gleichen Daten zeigt.
 
 :::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Abbildung des Vergleichsabschnitts":::
 

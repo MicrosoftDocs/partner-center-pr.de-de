@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474171"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557731"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Ratgeber: Erstellen Sie Ihre Client Basis mit Office 365-Einladungen und Kauf angeboten
 
 
 **Geeignete Rollen**
 
-- Berater
+- Advisor
 
 
 Als autorisierter Microsoft Advisor bietet **Partner Center** Ihnen die Möglichkeit, Ihre Client Basis zu erweitern und dauerhafte Beziehungen mit ihren Kunden zu erstellen. Mit Partner Center können Sie die Einladungen und Kaufangebote ihrer Kunden testen und Ihnen Delegierte Verwaltungsdienste anbieten, abhängig von den Diensten, die Sie zur Verfügung stellen.
@@ -45,7 +45,7 @@ Weitere Informationen zu Einladungen zum Testen finden Sie unter [Erstellen eine
 > [!NOTE]
 > Diese Funktion ist nur für Microsoft-Partner verfügbar, die autorisierte Abonnement Berater sind.
 
-Nach dem Senden einer Einladung zum Testen sollten Sie dem Kunden als Nächstes ein Kaufangebot senden. Sie können ein Angebot anpassen, sodass es die spezifischen Dienste Ihres Kunden sowie die richtige Anzahl von Benutzerlizenzen enthält. Wenn Sie für die delegierte Administration zertifiziert sind, können Sie dem Kaufangebot eine Option hinzufügen, die es Ihnen ermöglicht, das Abonnement im Auftrag Ihres Kunden zu verwalten.
+Nach dem Senden einer Einladung zum Testen sollten Sie dem Kunden als Nächstes ein Kaufangebot senden. Sie können ein Angebot anpassen, sodass es die spezifischen Dienste Ihres Kunden und die richtige Anzahl von Benutzerlizenzen enthält. Wenn Sie für die delegierte Administration zertifiziert sind, können Sie dem Kaufangebot eine Option hinzufügen, die es Ihnen ermöglicht, das Abonnement im Auftrag Ihres Kunden zu verwalten.
 
 Wenn Sie das Kaufangebot erstellen, wird eine benutzerdefinierte URL für Sie erstellt. Die URL enthält einen eingebetteten Code, mit dem Sie als Abonnement Ratgeber identifiziert werden. Sie können diese URL für einen oder mehrere Kunden verwenden. Senden Sie die URL per e-Mail an Ihren Kunden, oder veröffentlichen Sie Sie auf Ihrer Website.
 

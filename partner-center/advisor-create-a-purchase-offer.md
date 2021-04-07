@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: a60b75c9eee3601b488fd52fe22b4d2551b526e3
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474137"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557748"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Ratgeber: Erstellen eines Kaufangebots
 
  
 **Geeignete Rollen**
 
-- Berater
+- Advisor
 
 
 > [!NOTE]
@@ -48,7 +48,7 @@ Wenn Ihr Client eine andere Anzahl von Lizenzen wünscht, senden Sie Ihnen ein n
     - **Lizenz Anzahl**: Wenn Sie ein Abonnement auswählen, geben Sie die Anzahl der Lizenzen ein, die Sie in das Kaufangebot einschließen möchten.
     - **Delegierte Administration**: diese Option ist nur für Partner verfügbar, die für das anbieten der delegierten Administration zertifiziert sind. Wählen Sie diese Option aus, wenn Sie dem Client die delegierte Administration anbieten möchten. Wenn Sie dies tun, kann Ihr Client das Kaufangebot mit oder ohne Annahme der delegierten Administration akzeptieren.
 
-3. Klicken Sie auf **Weiter**.
+3. Wählen Sie **Weiter** aus.
 
 4. Kopieren Sie auf der Seite **senden** die Informationen und die URL des Kaufangebots, und fügen Sie Sie in eine e-Mail, ein Dokument oder eine Webseite ein, um ein angepasstes Kaufangebot zu erstellen.
 

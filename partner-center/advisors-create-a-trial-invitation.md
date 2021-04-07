@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 8c6f6cb5ba700618aebe773cffd566e4077a676d
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474154"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557714"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Ratgeber: Erstellen und Senden einer Einladung zum Testen für Clients zum Testen von Office 365
 
 
 **Geeignete Rollen**
 
-- Berater
+- Advisor
 
 > [!NOTE]
 > Diese Funktion ist nur für Microsoft-Partner verfügbar, die autorisierte Abonnement Berater sind.
@@ -44,7 +44,7 @@ Wenn Sie für die delegierte Administration zertifiziert sind, können Sie der E
     - **Test Abonnements**: die Liste der Test Abonnements, die Sie auswählen können, wird durch den Verwendungs Standort des Clients oder der Region des Clients bestimmt.
     - **Delegierte Administration**: diese Option ist nur für Partner verfügbar, die für das anbieten der delegierten Administration zertifiziert sind. Wählen Sie diese Option aus, wenn Sie dem Client die delegierte Administration anbieten möchten. Wenn Sie dies tun, kann Ihr Client die Einladung zum Testen mit oder ohne Annahme der delegierten Administration akzeptieren. Weitere Informationen zur delegierten Administration finden Sie unter [anbieten der delegierten Administration](customers-revoke-admin-privileges.md).
 
-3. Klicken Sie auf **Weiter**.
+3. Wählen Sie **Weiter** aus.
 
 4. Kopieren Sie auf der **Einladungs Seite Ihres Test** Zeitraums die Einladungs Informationen und die URL der Testversion, und fügen Sie Sie in eine e-Mail, ein Dokument oder eine Webseite ein, um eine angepasste Einladung für die Einladung zu erstellen.
 

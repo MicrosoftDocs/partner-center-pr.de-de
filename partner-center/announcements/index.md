@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2021
-ms.openlocfilehash: a345ae94c5765231ac69e703941770855a1df878
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/02/2021
+ms.openlocfilehash: f550a1b145a4de7a6ecd13dd42241b059da55533
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280852"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374415"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 |**Kategorie**|**Ankündigungen für April 2021**|**Angekündigt**|
 |---------|:---------|:---------|
+|Funktionen|[Neues Format für die PDF-Rechnung beim neuen E-Commerce-Verfahren in CSP](2021-april.md#3)|5. April|
 |Funktionen|[Änderungen der Anforderungen für das Onboarding von Kunden im CSP-Programm (Cloud Solution Provider)](2021-april.md#2)|2\. April|
 |Funktionen|[Anzeige der Produkteinführungen und -angebote in diesem Monat](2021-april.md#1)|1\. April|
 |**Kategorie**|**Ankündigungen für März 2021**|**Angekündigt**|

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215814"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964356"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Informationen zu Ihrer Rechnung und Abstimmungs Datei: erfahren Sie, wie Sie diese im Partner Center finden.
 
@@ -27,6 +27,20 @@ ms.locfileid: "98215814"
 
 
 Ihre **Rechnung** ist eine **Zusammenfassung aller Kosten Ihres Partner Centers** (Programm übergreifend, alle Produkte und alle Kunden). 
+
+## <a name="find-your-bill-and-reconciliation-file"></a>Suchen der Rechnung und der Abstimmungs Datei 
+
+Sie finden Ihre Rechnung auf der Seite Abrechnung des Dashboards im Partner Center. Sie können auf dieser Seite auch ihren Abrechnungs Verlauf, Ausgaben Trends und Abstimmungs Dateien finden. 
+
+1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an. 
+
+2. Wählen Sie im Menü auf der linken Seite die Option **Abrechnung** aus. 
+
+3. Wählen Sie auf der Seite „Abrechnungsstatus“ eine Rechnung oder Kontenabstimmungsdatei aus, um ausführlichere Informationen anzuzeigen. 
+
+Einen Link zu ihrer neuesten Rechnung finden Sie oben auf der Seite unter Account Saldo as of Last Rechnungs Date. 
+
+Vorherige Rechnungen finden Sie im Abschnitt Abrechnungs Verlauf. Wählen Sie das entsprechende Jahr aus, und wählen Sie dann den Dropdown Pfeil neben dem entsprechenden Abrechnungszeitraum aus. Wählen Sie den Link neben Rechnungen (PDF) aus, um die Rechnung dieses Zeitraums herunterzuladen. 
 
 ## <a name="invoice-types"></a>Rechnungs Typen
 
@@ -52,19 +66,6 @@ Beispiel:
 
 - Der Partner erhält eine weitere Rechnung PDF und eine Abstimmungs Datei, in der die Gebühren für das Angebot "145P" in EUR (oder die Partner Abrechnungswährung) abgedeckt werden. 
 
-## <a name="find-your-bill"></a>Auffinden Ihrer Rechnung 
-
-Sie finden Ihre Rechnung auf der Seite Abrechnung des Dashboards im Partner Center. Sie können auf dieser Seite auch ihren Abrechnungs Verlauf, Ausgaben Trends und Abstimmungs Dateien finden. 
-
-1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an. 
-
-2. Wählen Sie im Menü auf der linken Seite die Option **Abrechnung** aus. 
-
-3. Wählen Sie auf der Seite Abrechnung die Rechnung aus, die Sie herunterladen möchten. 
-
-Einen Link zu ihrer neuesten Rechnung finden Sie oben auf der Seite unter Account Saldo as of Last Rechnungs Date. 
-
-Vorherige Rechnungen finden Sie im Abschnitt Abrechnungs Verlauf. Wählen Sie das entsprechende Jahr aus, und wählen Sie dann den Dropdown Pfeil neben dem entsprechenden Abrechnungszeitraum aus. Wählen Sie den Link neben Rechnungen (PDF) aus, um die Rechnung dieses Zeitraums herunterzuladen. 
 
 ## <a name="understanding-invoice-pdf"></a>Grundlegendes zur Rechnung PDF 
 

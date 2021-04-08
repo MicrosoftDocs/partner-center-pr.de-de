@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e769758e14f48f6f7deb9dfe3354fa377a559c87
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 62bb526d1eab17a13e70b147a318b6e6fdaa84fb
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087109"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964441"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Aktivieren Microsoft Partner Network technischen Vorteilen außerhalb von Partner Center
 
@@ -33,7 +33,7 @@ Wenn Ihre MPN-Mitgliedschaft noch im Partner Membership Center (PMC) ist, benöt
 
 Wenn Sie PMC-Benutzer sind, finden Sie in dieser Tabelle Weitere Informationen zum Aktivieren Ihrer technischen Vorteile.
 
-(Wenn Sie bereits über ein Partner Center-Konto mit globalem Administrator-oder MPN-Partner Administrator Zugriff verfügen, finden Sie weitere Informationen unter [Verwalten Ihrer technischen Vorteile](manage-your-partner-network-benefits.md#manage-technical-benefits).)
+(Wenn Sie bereits über ein Partner Center-Konto mit globalem Administrator-oder MPN-Partner Administrator Zugriff verfügen, finden Sie weitere Informationen unter [Verwalten Ihrer technischen Vorteile](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits#manage-technical-benefits) .
 
 |Für diese Region  | Kontakt |
 |:--------|:------------|

@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80f7882da44c8072db1dd287f6fbee4f79341d29
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570157"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964389"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Erstellen eines Geschäftsprofils, um Vertriebsleads von Microsoft zu erhalten und Kunden die Suche nach Ihrem Angebot zu erleichtern
 
@@ -84,16 +84,7 @@ Beginnen Sie, indem Sie Ihre eigenen Tags im Abschnitt „Partnererfahrung“ hi
 
 Andere bei der Suche verwendete Tags:
 
--  **Kompetenz-Tags** sind eine Auszeichnung, die sich ein Unternehmen für seine Kenntnisse verdient hat.
--  **Unterstützungs-Tags** werden erzielt, wenn Microsoft oder Ihre Kunden, die mit Ihnen gearbeitet haben, Ihre Arbeit unterstützen.
-
-#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a>Microsoft die Unterstützung meiner Fachgebiete erlauben
-
-Es wird empfohlen, diese Einstellung aktiviert zu lassen. 
-
-Wenn du Kundenerfolge über das Partner Center oder durch die Teilnahme an anderen Microsoft-Zertifizierungen oder -Programmen nachweist, fügen wir automatisch Unterstützung für deine spezifischen Produkte, Dienste und Branchen hinzu, die zu diesem Erfolg beitragen. Unterstützungen sind ein wichtiger Faktor in Suchergebnissen.
-
-Wenn es Produkte gibt, für die du Leistungen erbringst, die du lieber nicht in deinem Profil anzeigen möchtest, kannst du dieses Kontrollkästchen deaktivieren und dein Profil manuell verwalten. Diese Unterstützungen werden aus der Ansicht der Kunden ausgeblendet. Sie können sie jedoch später jederzeit wieder zu Ihrem Profil hinzufügen.
+- **Kompetenz-Tags** sind eine Auszeichnung, die sich ein Unternehmen für seine Kenntnisse verdient hat.
 
 ### <a name="customer-preferences"></a>Kundenpräferenzen
 
@@ -121,13 +112,12 @@ Wenn Sie bereits 5 wichtige Standorte angegeben haben und einen ändern müssen,
 
 Nachdem Sie Ihr Profil veröffentlicht haben, werden Aktualisierungen in Suchanfragen unter [Lösungsanbieter suchen](https://www.microsoft.com/solution-providers/home) innerhalb von 24 Stunden angezeigt.
 
-## <a name="improve-the-visibility-of-your-profile"></a>Verbessern der Sichtbarkeit Ihres Profils 
+## <a name="improve-the-visibility-of-your-profile"></a>Verbessern der Sichtbarkeit Ihres Profils
 
 - **[Reagieren Sie schnell auf Anfragen](manage-leads.md)** . Wenn Sie eine Kundenempfehlung erhalten, kann eine schnellere Antwort für zukünftige Kunden zu besseren Ergebnissen auf den Suchseiten führen.
 
 - **Seien Sie wählerisch bei Ihren Tags**.  Es ist besser, weniger Tags zu haben, die die Angebote, Lösungen, Nutzenversprechen und Alleinstellung deines Unternehmens am besten darstellen, damit du konsistent Erfolge nachweisen kannst.  Davon profitieren Sie in zukünftigen Suchergebnissen.
 - **Verdienen Sie sich Kompetenz-Tags** über Microsoft, um Ihr Sachverständnis in Bezug auf unsere Produkte zu demonstrieren.
-- **Verdienen Sie sich Unterstützungs-Tags** von Kunden, die Ihre Arbeit zu schätzen wissen.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

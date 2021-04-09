@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: b960a903c2ba85963047033094636da6dc599f90
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633759"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964424"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preise und Angebote für Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure und mehr
 
@@ -28,7 +28,7 @@ ms.locfileid: "105633759"
 - Vertriebsbeauftragter
 - Abrechnungsadministrator
 
-Um die neuesten Programme und Angebote für Cloud Solution Provider anzuzeigen, wechseln Sie im Partner Portal zu **verkaufen > Preise und Angebote**. Für die verschiedenen verfügbaren Produkttypen finden Sie separate Preislisten. Die folgenden Preislisten sind auf der Seite " **Preise und Angebote** " verfügbar:
+Um die neuesten Programme und Angebote für Cloud Solution Provider anzuzeigen, besuchen Sie das Dashboard des Partner Portals, um **> Preise und Angebote zu verkaufen**. Für die verschiedenen verfügbaren Produkttypen finden Sie separate Preislisten. Die folgenden Preislisten sind auf der Seite " **Preise und Angebote** " verfügbar:
 
 - **Lizenz basierte Dienste** beinhalten Preisinformationen für Office 365, Enterprise Mobility und Security E3 sowie und Dynamics 365. Der Abschnitt Lizenz basierte Preise umfasst die aktuellen und Vorschau Preise sowie die Angebots Listen Matrix. Preislisten enthalten den Listenpreis und geschätzte Einzelhandelspreise (ERP) für Angebote in allen unterstützten Währungen. Die Angebots Listen Matrix enthält Marktverfügbarkeit und andere wichtige Informationen zu den angeboten. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
 - **Nutzungsbasierte Dienste** enthalten Preisinformationen für Microsoft Azure und Visual Studio. Sie können außerdem den [Preisrechner für Azure Services im CSP](https://azure.microsoft.com/pricing/calculator/) verwenden. Der Verwendungs basierte Download umfasst sowohl die CSP-Preisliste für alle unterstützten Währungen als auch die Preis Dateien für gemeinsame Dienste in ERP. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.

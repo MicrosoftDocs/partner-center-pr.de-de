@@ -9,17 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712845"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132280"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Verwalten Ihres Partner Center-Kontos – Unternehmensprofil, Bankdetails, Rollen, Berechtigungen und mehr
 
-**Geeignete Rollen**: globaler Administrator
-- MPN-Kontoadministrator
+**Geeignete Rollen** 
+
+- Globaler Administrator
+- Kontoadministrator
 
 Das Konto, das Sie bei der Registrierung im Partner Center erstellen, besteht aus Ihrer geschäftlichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem Sie ein Konto erstellt haben, müssen Sie die Einrichtung des vollständigen Unternehmensprofils abschließen (einschließlich Supportinformationen, ggf. Steuerbefreiungen und Angaben zum Hauptansprechpartner). Das Konto Ihres Unternehmens enthält auch Benutzerkonten für alle Personen in Ihrem Team, die Partner Center verwenden. Zu deren Aufgaben zählen u. a. das Hinzufügen oder Verwalten von Kunden, das Verkaufen von Abonnements, das Arbeiten mit Abrechnung und Fakturierung, das Erstellen von Geschäftsprofilen, das Verwalten von Empfehlungen, das Arbeiten mit Incentiveprogrammen, das Bereitstellen von Support usw.
 
@@ -60,7 +62,7 @@ Sie können mehr als einem Konto angehören. Wenn im linken Navigationsmenü die
 
 Wenn die Kontoauswahl nicht angezeigt wird, gehören Sie nur einem Konto an. 
 
-Wenn Sie auf diese Auswahl klicken, werden alle Konten, denen Sie angehören, in Form einer Liste angezeigt. Sie können dann auf einen beliebigen Eintrag klicken und zu diesem Konto wechseln. Alle daraufhin angezeigten Elemente stehen mit diesem Konto in Zusammenhang.  
+Wenn Sie auf diese Auswahl klicken, werden alle Konten, denen Sie angehören, in Form einer Liste angezeigt. Sie können dann einen beliebigen Eintrag auswählen und zu diesem Konto wechseln. Alle daraufhin angezeigten Elemente stehen mit diesem Konto in Zusammenhang.  
 
 Im folgenden Beispiel gehört der angemeldete Benutzer den drei hervorgehobenen Konten an. Der Benutzer kann durch Klicken zwischen den einzelnen Konten wechseln.
 
@@ -84,7 +86,7 @@ Wenn sich Ihr Unternehmen in **Armenien**, **Ungarn**, **Kirgisistan**, **Moldaw
 
 ### <a name="primary-contact-email"></a>E-Mail-Adresse des Hauptansprechpartners
 
-Die E-Mail-Adresse des Hauptansprechpartners wird verwendet, um Sie bezüglich der Überprüfung Ihres Kontos zu benachrichtigen. Es ist wichtig, dass die für den Hauptansprechpartner bereitgestellte E-Mail-Adresse regelmäßig verwaltet und überwacht wird.  
+Die E-Mail-Adresse des Hauptansprechpartners wird verwendet, um Sie über die Überprüfung Ihres Kontos zu benachrichtigen. Es ist wichtig, dass die für den Hauptansprechpartner bereitgestellte E-Mail-Adresse regelmäßig verwaltet und überwacht wird.  
 
 Erfahren Sie mehr über die [Überprüfung und Ihre Kontoinformationen](verification-responses.md).
 

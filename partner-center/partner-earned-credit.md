@@ -9,19 +9,19 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 5561c2e183c1dc50b573f89769da27317c83ba00
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556394"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086531"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>Vom Partner erworbenes Guthaben – Übersicht über die Funktionsweise in der neuen E-Commerce-Oberfläche im CSP-Programm
 
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - Administrator-Agent
 - Abrechnungsadministrator
 - Vertriebsbeauftragter
@@ -30,7 +30,7 @@ Das vom Partner erworbene Guthaben stellt in der neuen E-Commerce-Oberfläche vo
 
 Angesichts Tausender Dienste in Azure und mehrerer Kaufoptionen kann die Preisgestaltung viele Kunden und Partner vor Schwierigkeiten stellen. In der neuen E-Commerce-Oberfläche für Azure haben wir uns an einzelnen Preisprinzipien mit globaler Gültigkeit orientiert, die für alle von uns durchgeführten Datenbewegungen gelten. CSP-Partner können Azure zu den veröffentlichten Preisen anbieten. Dies bietet mehr Transparenz für ihre Kunden und stärkt das Vertrauen.
 
-Die Kundenanforderungen an digitale Transformation ändern die Art von Wert, die von Partnern angeboten wird. Viele Kunden wenden sich an Partner, die Dienste über die Transaktion hinaus anbieten. Diese Dienste können helfen, ihre Journey in die Cloud zu vereinfachen und Azure-Dienste effizient zu nutzen. Die Dienste werden kontinuierlich angeboten und umfassen Azure-Bestandsüberwachung, Richtlinien- und Governanceverwaltung, Setup und Optimierung der Konfiguration, technischen Support sowie viele weitere Dienste. 
+Die Kundenanforderungen an digitale Transformation ändern die Art von Wert, die von Partnern angeboten wird. Viele Kunden wenden sich an Partner, die Dienste über die Transaktion hinaus anbieten. Diese Dienste können helfen, ihre Journey in die Cloud zu vereinfachen und Azure-Dienste effizient zu nutzen. Die Dienste werden kontinuierlich angeboten und umfassen Azure-Bestandsüberwachung, Richtlinien- und Governanceverwaltung, Setup und Optimierung der Konfiguration, technischen Support sowie verschiedene andere Dienste. 
 
 Für diese Dienste muss ein Partner bestens mit der Azure-Umgebung des Kunden vertraut sein sowie fortlaufende und passende Governance und Steuerung über die von ihm verwalteten zugrunde liegenden Ressourcen besitzen. Abrechnungspartner, die diese Verwaltung des Cloudbetriebs rund um die Uhr (24/7) bieten, sind für eine **vom Partner erworbene Gutschrift für verwaltete Dienste** in der Azure-Umgebung des Kunden qualifiziert, deren Governance und Steuerung beim Partner liegen.
 
@@ -51,7 +51,7 @@ Wenn Kunden die Umstellung auf Cloud Computing-Plattformen vollziehen, sehen sie
 
 Ihre Kunden erwarten von Ihnen Hilfe bei der optimalen Nutzung des Hostings ihres Geschäfts in Azure. Mit verwalteten Diensten können Sie Ihren Kunden regelmäßig Service auf höchstem Niveau bieten. Zu den alltäglichen Betriebs- und Supportvorgängen, die Sie anbieten können, gehören etwa:
 
-- **Cloud Operations- und Managementdienste**: Kunden erwarten von Microsoft-Partnern die Senkung von Kosten durch Azure bei gleichzeitiger Wiederherstellung der zurzeit bestehenden Isolation, Sicherheitsrichtlinien und Überwachungsmodelle. Sie erwarten von Partnern darüber hinaus den Zugriff auf ausgereifte Tools zum Bestimmen der Eignung von Workloads sowie der einmaligen Bereitstellungskosten und der fortlaufenden Betriebskosten von Azure. Ferner benötigen Kunden Support bei Automatisierung und Orchestrierung, beim Patchen von Updates, der Konfigurationsverwaltung, Sicherung und Notfallwiederherstellung sowie der Identitätsverwaltung. 
+- **Cloud Operations- und Managementdienste**: Kunden erwarten von Microsoft-Partnern die Senkung von Kosten durch Azure bei gleichzeitiger Wiederherstellung der zurzeit bestehenden Isolation, Sicherheitsrichtlinien und Überwachungsmodelle. Sie erwarten von Partnern darüber hinaus den Zugriff auf ausgereifte Tools zum Bestimmen der Eignung von Workloads und der einmaligen Bereitstellungskosten sowie der fortlaufenden Betriebskosten von Azure. Ferner benötigen Kunden Support bei Automatisierung und Orchestrierung, beim Patchen von Updates, der Konfigurationsverwaltung, Sicherung und Notfallwiederherstellung sowie der Identitätsverwaltung. 
 
 - **Cloudüberwachung und technischer Support**: In einer von der Cloud beherrschten Welt haben sich auch die Tools und Anforderungen weiterentwickelt, aber das Auffinden der richtigen Ressource zum Verwalten der IT-Infrastruktur bleibt problematisch. Die meisten Organisationen haben einfach nicht genügend Zeit, Ressourcen oder dedizierte Mitarbeiter, um jeden Aspekt der IT zu überwachen, und es ist genau diese Stelle an der Sie, der vertrauenswürdige Partner, den größten Mehrwert bieten. Zwar bietet Azure viele integrierte Überwachungsfunktionen, trotzdem besteht ein Bedarf an Partnern, die zusätzliche, tiefer greifende Tools bieten, falsch positive Befunde von echten Warnungen unterscheiden und proaktiv auf Warnungen reagieren, bevor ein messbares Nachlassen der Leistung eintritt. 
 

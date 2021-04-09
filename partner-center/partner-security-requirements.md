@@ -9,24 +9,18 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 351d0715645b6e43607279393cdc376d898a7f54
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: b7fa76999d2e071f80c0175a8dfcbc1afe527bfc
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132976"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087058"
 ---
 # <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Sicherheitsanforderungen für die Verwendung von Partner Center oder Partner Center-APIs
 
-**Zielgruppe**
+**Geeignete Rollen**
 
-- Alle Partner im Cloud Solution Provider-Programm
-- Alle Control Panel-Anbieter
-- Alle Berater
-
-**Geeignete Benutzer**
-
-- Alle aktivierten Benutzer einschließlich Gastbenutzer
+- Alle Partner Center-Benutzer
 
 In diesem Artikel werden die obligatorischen Sicherheitsanforderungen für Berater, Control Panel Vendors und Partner, die am Cloud Solution Provider-Programm teilnehmen, sowie Authentifizierungsoptionen und andere Sicherheitsaspekte erläutert. Datenschutzmaßnahmen und Sicherheit gehören zu unseren obersten Prioritäten. Wir wissen, dass die beste Verteidigung die Prävention ist und dass wir nur so stark sind wie unser schwächstes Glied. Deshalb müssen alle in unserem Partnerumfeld handeln und sicherstellen, dass sie über angemessene Sicherheitsvorkehrungen verfügen.
 
@@ -51,7 +45,7 @@ Zur Einhaltung der Sicherheitsanforderungen für Partner müssen Sie MFA für je
 
 - Implementieren Sie [Azure Active Directory (Azure AD)-Sicherheitsstandards](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults). Weitere Informationen finden Sie im [nächsten Abschnitt](#security-defaults).
 
-- Erwerben Sie Azure Active Directory Premium für jedes Benutzerkonto. Weitere Informationen finden Sie unter [Planen einer Bereitstellung von Azure Multi-Factor Authentication](/azure/active-directory/authentication/howto-mfa-getstarted).
+- Erwerben Sie Azure Active Directory Premium für jedes Benutzerkonto. Weitere Informationen finden Sie unter [Planen einer Bereitstellung von Azure AD Multi-Factor Authentication](/azure/active-directory/authentication/howto-mfa-getstarted).
 
 - Verwenden Sie eine Drittanbieterlösung zur Erzwingung von MFA für jedes Benutzerkonto in Ihrem Partnermandanten. Um sicherzustellen, dass die Lösung die erwarteten Ergebnisse liefert, informieren Sie sich, [wie die Sicherheitsanforderungen durchgesetzt werden](#how-the-requirements-are-enforced).
 
@@ -74,7 +68,7 @@ Eine der Optionen, die Partner zur Implementierung von MFA-Anforderungen wählen
 
 - Das Azure AD Connect-Synchronisierungskonto ist von den Sicherheitsstandards ausgeschlossen.
 
-Ausführliche Informationen finden Sie unter [Übersicht über Azure Multi-Factor Authentication für Ihre Organisation](/azure/active-directory/authentication/concept-mfa-get-started) und [Was sind Sicherheitsstandards?](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+Ausführliche Informationen finden Sie unter [Übersicht über Azure AD Multi-Factor Authentication für Ihre Organisation](/azure/active-directory/authentication/concept-mfa-get-started) und [Was sind Sicherheitsstandards?](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
 > [!NOTE]
 > Azure AD-Sicherheitsstandards sind die Weiterentwicklung der Baselineschutzrichtlinien in vereinfachter Form. Wenn Sie die Baselineschutzrichtlinien bereits aktiviert haben, wird dringend empfohlen, [Sicherheitsstandards](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults) zu aktivieren.
@@ -87,11 +81,11 @@ Es wird empfohlen, vor der Durchführung von Aktionen die folgenden Punkte zu ü
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>Verfügen Sie über eine Anwendung oder ein Gerät, von der bzw. dem die Verwendung moderner Authentifizierung nicht unterstützt wird?
 
-Wenn Sie MFA erzwingen, verwendet die Legacyauthentifizierung Protokolle wie IMAP, POP3, SMTP usw., die blockiert werden, da sie MFA nicht unterstützen. Verwenden Sie im Fall dieser Einschränkung das Feature [App-Kennwörter](/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords), um sicherzustellen, dass die Authentifizierung für die Anwendung oder das Gerät weiterhin möglich ist. Sehen Sie sich die [Überlegungen zur Verwendung von App-Kennwörtern](/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) an, um festzustellen, ob sie in Ihrer Umgebung verwendet werden können.
+Wenn Sie MFA erzwingen, verwendet die Legacyauthentifizierung Protokolle wie IMAP, POP3, SMTP und andere, die blockiert werden, da sie MFA nicht unterstützen. Verwenden Sie im Fall dieser Einschränkung das Feature [App-Kennwörter](/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords), um sicherzustellen, dass die Authentifizierung für die Anwendung oder das Gerät weiterhin möglich ist. Sehen Sie sich die [Überlegungen zur Verwendung von App-Kennwörtern](/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) an, um festzustellen, ob sie in Ihrer Umgebung verwendet werden können.
 
 #### <a name="do-you-have-office-365-users-with-licenses-associated-with-your-partner-tenant"></a>Verfügen Sie über Office 365-Benutzer mit Lizenzen, die Ihrem Partnermandanten zugeordnet sind?
 
-Vor der Implementierung einer beliebigen Lösung wird empfohlen, die Microsoft Office-Version zu ermitteln, die Benutzer im Partnermandanten verwenden. Es besteht die Möglichkeit, dass für Ihre Benutzer Verbindungsprobleme bei Anwendungen wie Outlook auftreten. Bevor Sie MFA erzwingen, sollten Sie sicherstellen, dass Sie Outlook 2013 SP1 oder höher verwenden und Ihr Unternehmen über eine moderne Authentifizierung verfügt. Weitere Informationen finden Sie unter [Aktivieren der modernen Authentifizierung in Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
+Vor der Implementierung einer beliebigen Lösung wird empfohlen, die Microsoft Office-Versionen zu ermitteln, die Benutzer im Partnermandanten verwenden. Es besteht die Möglichkeit, dass für Ihre Benutzer Verbindungsprobleme bei Anwendungen wie Outlook auftreten. Bevor Sie MFA erzwingen, sollten Sie sicherstellen, dass Sie Outlook 2013 SP1 oder höher verwenden und Ihr Unternehmen über eine moderne Authentifizierung verfügt. Weitere Informationen finden Sie unter [Aktivieren der modernen Authentifizierung in Exchange Online](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
 
 Sie müssen zwei Registrierungsschlüssel erstellen, um eine moderne Authentifizierung für Geräte mit Windows zu ermöglichen, auf denen Microsoft Office 2013 installiert ist. Weitere Informationen finden Sie unter [Aktivieren der modernen Authentifizierung für Office 2013 auf Windows-Geräten](/office365/admin/security-and-compliance/enable-modern-authentication).
 
@@ -107,19 +101,19 @@ Es ist wichtig, jede Unternehmensrichtlinie zu identifizieren, die Mitarbeiter d
 
 #### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>Über welche Automatisierung oder Integration verfügen Sie, die Benutzeranmeldeinformationen für die Authentifizierung nutzt?
 
-Da MFA für jeden Benutzer, einschließlich Dienstkonten, in Ihrem Partnerverzeichnis erzwungen wird, wirkt sich dies auf jede Automatisierung oder Integration aus, die Benutzeranmeldeinformationen für die Authentifizierung nutzt. Daher ist es wichtig, dass Sie feststellen, welche Konten in diesen Situationen verwendet werden. Im Folgenden eine Liste mit Beispielanwendungen oder -diensten, die infrage kommen:
+Da MFA für jeden Benutzer, einschließlich Dienstkonten, in Ihrem Partnerverzeichnis erzwungen wird, wirkt sich dies auf jede Automatisierung oder Integration aus, die Benutzeranmeldeinformationen für die Authentifizierung verwendet. Daher ist es wichtig, dass Sie feststellen, welche Konten in diesen Situationen verwendet werden. Im Folgenden eine Liste mit Beispielanwendungen oder -diensten, die infrage kommen:
 
 - Systemsteuerung, die für die Bereitstellung von Ressourcen im Namen Ihrer Kunden verwendet wird
 
 - Integration mit jeder Plattform, die für die Fakturierung (in Bezug auf das CSP-Programm) und Unterstützung Ihrer Kunden verwendet wird
 
-- PowerShell-Skripts, die die Module Az, AzureRM, Azure AD, MS Online, usw. verwenden
+- PowerShell-Skripts, die die Module Az, AzureRM, Azure AD, MS Online und andere verwenden
 
-Die obige Liste ist nicht vollständig. Daher ist es wichtig, dass Sie eine vollständige Bewertung aller Anwendungen oder Dienste in Ihrer Umgebung durchführen, die Benutzeranmeldeinformationen für die Authentifizierung nutzen. Um die Anforderung für MFA zu erfüllen, sollten Sie nach Möglichkeit die Anweisungen im [Framework für das sichere Anwendungsmodell](/partner-center/develop/enable-secure-app-model) implementieren.
+Die obige Liste ist nicht vollständig. Daher ist es wichtig, dass Sie eine vollständige Bewertung aller Anwendungen oder Dienste in Ihrer Umgebung durchführen, die Benutzeranmeldeinformationen für die Authentifizierung verwenden. Um die Anforderung für MFA zu erfüllen, sollten Sie nach Möglichkeit die Anweisungen im [Framework für das sichere Anwendungsmodell](/partner-center/develop/enable-secure-app-model) implementieren.
 
 ## <a name="accessing-your-environment"></a>Zugriff auf Ihre Umgebung
 
-Um besser zu verstehen, was oder wer die Authentifizierung vornimmt, ohne zur MFA aufgefordert zu werden, sollten Sie die Anmeldeaktivitäten überprüfen. Über Azure Active Directory Premium können Sie den Anmeldebericht nutzen. Weitere Informationen zu diesem Thema finden Sie unter [Berichte zu Anmeldeaktivitäten im Azure Active Directory-Portal](/azure/active-directory/reports-monitoring/concept-sign-ins). Wenn Sie nicht über Azure Active Directory Premium verfügen oder nach einer Möglichkeit suchen, diese Anmeldeaktivität über PowerShell abzurufen, müssen Sie das Cmdlet [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) aus dem [Partner Center PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/)-Modul verwenden.
+Um besser zu verstehen, was oder wer die Authentifizierung vornimmt, ohne zur MFA aufgefordert zu werden, sollten Sie die Anmeldeaktivitäten überprüfen. Über Azure Active Directory Premium können Sie den Anmeldebericht verwenden. Weitere Informationen zu diesem Thema finden Sie unter [Berichte zu Anmeldeaktivitäten im Azure Active Directory-Portal](/azure/active-directory/reports-monitoring/concept-sign-ins). Wenn Sie nicht über Azure Active Directory Premium verfügen oder nach einer Möglichkeit suchen, diese Anmeldeaktivität über PowerShell abzurufen, müssen Sie das Cmdlet [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) aus dem [Partner Center PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/)-Modul verwenden.
 
 ## <a name="how-the-requirements-are-enforced"></a>Vorgehensweise beim Erzwingen der Anforderungen
 
@@ -127,7 +121,7 @@ Sicherheitsanforderungen für Partner werden von Azure AD und im Gegenzug vom P
 
 Nach der Aktivierung werden Benutzer im Partnermandanten aufgefordert, die MFA-Überprüfung abzuschließen, wenn sie AOBO-Vorgänge (Admin-on-Behalf-Of, Administrator im Auftrag von) ausführen, auf das Partner Center-Portal zugreifen oder Partner Center-APIs aufrufen. Weitere Informationen finden Sie unter [Festlegen von Multi-Factor Authentication (MFA) für Ihren Partnermandanten](partner-security-requirements-mandating-mfa.md). 
 
-Partner, die die Anforderungen nicht erfüllen, sollten diese Maßnahmen schnellstmöglich implementieren, um Geschäftsunterbrechungen zu vermeiden. Wenn du Azure Multi-Factor Authentication oder Azure AD-Sicherheitsstandards verwendest, musst du keine weiteren Maßnahmen ergreifen.
+Partner, die die Anforderungen nicht erfüllen, sollten diese Maßnahmen schnellstmöglich implementieren, um Geschäftsunterbrechungen zu vermeiden. Wenn Sie Azure Active Directory Multi-Factor Authentication oder Azure AD-Sicherheitsstandards verwenden, müssen Sie keine weiteren Maßnahmen ergreifen.
 
 Wenn Sie eine MFA-Lösung eines Drittanbieters verwenden, besteht die Möglichkeit, dass der MFA-Anspruch nicht ausgegeben wird. Wenn dieser Anspruch fehlt, kann Azure AD nicht ermitteln, ob die Authentifizierungsanforderung durch MFA angefordert wurde. Informationen dazu, wie du überprüfst, ob deine Lösung den erwarteten Anspruch ausgibt, findest du unter [Testen der Sicherheitsanforderungen für Partner](/powershell/partnercenter/test-partner-security-requirements). 
 

@@ -154,7 +154,7 @@ Es gibt ungefähr 50 Dynamics-Angebote mit drei Jahres Bedingungen. Diese werden
 
 Das Basisangebot Microsoft 365 a1 hat eine Laufzeit von sechs Jahren.  Die Office 365 a1-Add-ons sind nach dem Erwerb dieses Basis Angebots verfügbar. 
 
-|**Angebotsname**   |**Angebots-ID**   |**Type**|
+|**Angebotsname**   |**Angebots-ID**   |**Typ**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Basisangebot|
 |Office 365 a1 für Lehrpersonal (für Gerät)|0757d14e-7c57-456F-8dab-47d164f2ff1f|Add-On|

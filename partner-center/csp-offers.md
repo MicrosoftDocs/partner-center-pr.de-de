@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59e84162b85df197b135bcf5792fd2e730b53e56
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943927"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502866"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Übersicht über Partnerangebote im Cloud Solution Provider-Programm
-
-**Zielgruppe**
-
-- CSP-Partner
 
 **Geeignete Rollen**
 
@@ -28,7 +24,7 @@ ms.locfileid: "86943927"
 - Globaler Administrator
 - Vertriebsbeauftragter
 
-Für Microsoft-Partner im Cloud Solution Provider-Programm (CSP) gibt es einen stetig wachsenden Katalog an verfügbaren Angeboten. Sie können das gesamte Spektrum von [Microsoft Cloud Services](https://partner.microsoft.com/cloud-solution-provider/products-and-services) sowie eine Vielzahl zusätzlicher Angebote verkaufen, die sich häufig ändern. Um die aktuellen CSP-Angebote des laufenden Monats zu finden, melden Sie sich beim Partner Center an, und wechseln Sie zur Seite [**Preise und Angebote**](https://partnercenter.microsoft.com/pcv/sales).  
+Für Microsoft-Partner im Cloud Solution Provider-Programm (CSP) gibt es einen stetig wachsenden Katalog an verfügbaren Angeboten. Sie können das gesamte Spektrum von [Microsoft Cloud Services](https://partner.microsoft.com/cloud-solution-provider/products-and-services) sowie verschiedene andere Angebote verkaufen, die sich häufig ändern. Um die aktuellen CSP-Angebote des laufenden Monats zu finden, melden Sie sich beim Partner Center an, und wechseln Sie zur Seite [**Preise und Angebote**](https://partnercenter.microsoft.com/pcv/sales).  
 
 Noch nicht für das Cloud Solution Provider-Programm registriert? Unter [Cloud Solution Provider](https://partner.microsoft.com/cloud-solution-provider) finden Sie weitere Informationen zur Registrierung. 
 
@@ -111,14 +107,14 @@ Um Produkte und Dienstleistungen im Auftrag Ihrer CSP-Kunden zu kaufen, wählen 
 
 ## <a name="rules-for-special-segments"></a>Regeln für spezielle Segmente
 
-Einige lizenzbasierte Angebote können nur unter bestimmten Bedingungen erworben werden. Zu den speziellen Segmentangeboten gehören Education-, Non-Profit- und GCC-Angebote (Government Community Cloud). Details zu diesen Kaufbedingungen finden Sie im Thema [Kaufregeln für spezielle Segmente](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
+Einige lizenzbasierte Angebote können nur unter bestimmten Bedingungen erworben werden. Zu den speziellen Segmentangeboten gehören Angebote für Bildungseinrichtungen, gemeinnützige Organisationen und GCC (Government Community Cloud). Details zu diesen Kaufbedingungen finden Sie im Thema [Kaufregeln für spezielle Segmente](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).
 
 ## <a name="troubleshooting-catalog-purchases"></a>Problembehandlung bei Katalogkäufen
 
 Es kann verschiedene Gründe dafür geben, dass Sie das von Ihnen gesuchte Angebot im Katalog nicht finden. Prüfen Sie die folgenden Punkte, wenn Sie das erwartete Angebot nicht finden können.
 
-- **Vergewissern Sie sich, dass Ihr Kunde qualifiziert ist**. Bei vielen Angeboten müssen besondere Qualifikationen an Kunden verkauft werden. Zu diesen speziellen Segmenten zählen Bildung, Gemeinnützigkeit und die Government Community Cloud (GCC). Vergewissern Sie sich vor dem Übermitteln eines Problems zunächst, dass die Qualifikationen des Kunden entsprechend festgelegt sind. Sie können dies überprüfen, indem Sie in der Kundenliste auf den Kunden klicken und das Konto anzeigen. Für das Konto ist ggf. eine spezielle Qualifikation festgelegt. Wenn Sie ein Bildungsangebot für einen Kunden erwerben möchten, der nicht qualifiziert ist, werden diese Angebote im Katalog nicht angezeigt. Weitere Informationen zum Qualifizieren Ihrer Kunden finden Sie in der [Dokumentation zu speziellen Segmenten](get-special-pricing-for-offers.md).
-- **Entscheiden Sie, ob Sie ein Add-On oder ein Basisangebot erwerben**. Viele der lizenzbasierten Dienste wie Microsoft 365 und Dynamics 365 ermöglichen sowohl den Katalogerwerb von Basisangeboten als auch Add-Ons. Im Katalog können nur Basisangebote erworben werden. Um Add-Ons zu erwerben, müssen Sie zunächst das Basisangebot im Katalog erwerben, dann den Kunden in der Kundenliste auswählen und schließlich das Abonnement für das Basisangebot auswählen. Add-Ons können auf dieser Seite zum Verwalten von Abonnements auf das Basisangebot angewandt werden. 
+- **Vergewissern Sie sich, dass Ihr Kunde qualifiziert ist**. Viele Angebote erfordern besondere Qualifikationen, um an Kunden verkauft zu werden. Zu diesen speziellen Segmenten gehören Bildungseinrichtungen, gemeinnützige Organisationen und GCC (Government Community Cloud). Vergewissern Sie sich vor dem Übermitteln eines Problems zunächst, dass die Qualifikationen des Kunden entsprechend festgelegt sind. Sie können dies überprüfen, indem Sie den Kunden in der Kundenliste auswählen und das Konto anzeigen. Für das Konto ist ggf. eine spezielle Qualifikation festgelegt. Wenn Sie Bildungsangebote für einen Kunden erwerben möchten, der nicht qualifiziert ist, werden diese Angebote im Katalog nicht angezeigt. Weitere Informationen zum Qualifizieren Ihrer Kunden finden Sie in der [Dokumentation zu speziellen Segmenten](get-special-pricing-for-offers.md).
+- **Entscheiden Sie, ob Sie ein Add-On oder ein Basisangebot erwerben möchten**. Viele lizenzbasierte Dienste wie Microsoft 365 und Dynamics 365 unterstützen sowohl Katalogkäufe von Basisangeboten als auch von Add-Ons. Im Katalog können nur Basisangebote erworben werden. Um Add-Ons zu erwerben, müssen Sie zunächst das Basisangebot im Katalog erwerben, dann den Kunden aus der Kundenliste auswählen und anschließend das Abonnement für das Basisangebot auswählen. Add-Ons können auf dieser Seite zum Verwalten von Abonnements auf das Basisangebot angewandt werden. 
 - **Vergewissern Sie sich, dass die Produkte in Ihrem Markt verfügbar sind**. Viele Produkte und Dienste sind so konfiguriert, dass sie nur an Kunden in bestimmten Ländern verkauft werden. Die Liste der unterstützten Länder finden Sie in den verschiedenen Preislistendateien. Die Länder, in denen lizenzbasierte Dienste unterstützt werden, sind in der Angebotslistenmatrix auf der Seite mit den Preisen und Angeboten enthalten.
 - **Vergewissern Sie sich, dass die Angebote in der Preisliste verfügbar sind**. Die Liste der verfügbaren Angebote kann monatlich geändert werden. Wenn Sie ein Angebot im Katalog nicht finden, vergewissern Sie sich, dass es in den aktuellen Preislisten auf der Seite **Verkaufen > Preise und Angebote** verfügbar ist.
 

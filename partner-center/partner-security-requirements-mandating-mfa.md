@@ -9,27 +9,21 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b6985054e927dd777d61ae30bd435ab4c6c4ea8c
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 21e0ebd58835be34f9cc161072ff3690b30abf57
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133105"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086361"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>Festlegen von Multi-Factor Authentication (MFA) für Ihren Partnermandanten
 
-**Zielgruppe**
-
-- Alle Partner im Cloud Solution Provider-Programm
-- Alle Control Panel-Anbieter
-- Alle Berater
-
-**Betroffene Rollen**
+**Geeignete Rollen**
 
 - Administrator-Agent
 - Vertriebsbeauftragter
 - Helpdesk-Agent
-- Rechnungsadministrator
+- Abrechnungsadministrator
 - Globaler Administrator
 
 Dieser Artikel enthält ausführliche Beispiele und Anleitungen für das Festlegen der mehrstufigen Authentifizierung (Multi-Factor Authentication, MFA) im Partner Center. Diese Funktion soll Partnern helfen, ihren Zugriff auf Kundenressourcen vor Kompromittierungen von Anmeldeinformationen zu schützen. Partner sind verpflichtet, MFA für alle Benutzerkonten in ihrem Partnermandanten durchzusetzen. Dazu gehören auch Gastbenutzer. Benutzer müssen die MFA-Überprüfung für die folgenden Bereiche durchführen:
@@ -46,8 +40,8 @@ Um Partnern zu helfen, ihre Unternehmen und Kunden vor Identitätsdiebstahl und 
 
 Bestimmte Seiten im Partner Center-Dashboard werden durch MFA geschützt, einschließlich:
 
-- Alle Seiten auf der Registerkarte **Kunden** , z. B. alle Seiten, auf die über die folgende URL zugegriffen werden kann: https://partner.microsoft.com/commerce/*
-- Alle Seiten auf der Registerkarte **Support > Kundenanforderungen** , z. B die Seite, auf die über https://partner.microsoft.com/dashboard/support/csp/customers/* zugegriffen wird
+- Alle Seiten auf der Registerkarte **Kunden**, z. B. alle Seiten, auf die über die folgende URL zugegriffen werden kann: https://partner.microsoft.com/commerce/*
+- Alle Seiten auf der Registerkarte **Support > Kundenanforderungen**, z. B die Seite, auf die über https://partner.microsoft.com/dashboard/support/csp/customers/* zugegriffen wird
 - Abrechnungsseite
 
 In der folgenden Tabelle sind die Benutzertypen aufgeführt, die für den Zugriff auf diese durch MFA geschützten Seiten autorisiert sind (und daher von diesem Feature betroffen sind).
@@ -111,7 +105,7 @@ Wenn App- und Benutzerauthentifizierung verwendet wird, erfordert Partner Center
 > [!NOTE]
 >Das [Framework „Sicheres Anwendungsmodell“](/partner-center/develop/enable-secure-app-model) ist ein skalierbares Framework zum Authentifizieren von CSP-Partnern und CPVs über die Microsoft Azure MFA-Architektur beim Aufruf von Partner Center-APIs. Sie müssen dieses Framework implementieren, bevor Sie MFA für Ihren Mandanten aktivieren. 
 
-Wenn Partner Center eine API-Anforderung mit einem Zugriffstoken empfängt, das mit App- und Benutzerauthentifizierung abgerufen wurde, prüft die Partner Center-API, ob der *MFA* -Wert im *AMR* -Anspruch (Authentication Method Reference) vorhanden ist. Sie können einen JWT-Decoder verwenden, um zu überprüfen, ob ein Zugriffstoken den erwarteten AMR-Wert enthält:
+Wenn Partner Center eine API-Anforderung mit einem Zugriffstoken empfängt, das mit App- und Benutzerauthentifizierung abgerufen wurde, prüft die Partner Center-API, ob der *MFA*-Wert im *AMR*-Anspruch (Authentication Method Reference) vorhanden ist. Sie können einen JWT-Decoder verwenden, um zu überprüfen, ob ein Zugriffstoken den erwarteten AMR-Wert enthält:
 
 ``` csharp
 {
@@ -174,7 +168,7 @@ Die Benutzererfahrung ähnelt insgesamt dem Szenario, in dem ein Endkundenmandan
 
 ### <a name="using-service-apis"></a>Verwenden von Dienst-APIs
 
-Einige Microsoft-Onlinedienste-APIs (z. B. Azure Resource Manager, Azure AD Graph, Microsoft Graph usw.) unterstützen Partner durch vom Partner delegierte Verwaltungsberechtigungen, um Kundenressourcen programmgesteuert zu verwalten. Um vom Partner delegierte Verwaltungsberechtigungen mit diesen APIs zu nutzen, muss die Partneranwendung ein Zugriffstoken in den API-Anforderungsautorisierungsheader einschließen. Das Zugriffstoken wird abgerufen, indem sich ein Partnerbenutzerkonto bei Azure AD authentifiziert. Dabei wird das Azure AD des Kunden als Authentifizierungskontext festgelegt. Die Partneranwendung erfordert, dass sich ein Partnerbenutzerkonto beim Kundenmandanten anmeldet.
+Einige Microsoft-Onlinedienste-APIs (z. B. Azure Resource Manager, Azure AD Graph, Microsoft Graph usw.) unterstützen Partner durch vom Partner delegierte Verwaltungsberechtigungen, um Kundenressourcen programmgesteuert zu verwalten. Um vom Partner delegierte Verwaltungsberechtigungen mit diesen APIs zu verwenden, muss die Partneranwendung ein Zugriffstoken in den API-Anforderungsautorisierungsheader einschließen. Das Zugriffstoken wird abgerufen, indem sich ein Partnerbenutzerkonto bei Azure AD authentifiziert. Dabei wird das Azure AD des Kunden als Authentifizierungskontext festgelegt. Die Partneranwendung erfordert, dass sich ein Partnerbenutzerkonto beim Kundenmandanten anmeldet.
 
 Wenn Azure AD eine solche Authentifizierungsanforderung empfängt, verlangt Azure AD, dass das Partnerbenutzerkonto eine MFA-Überprüfung durchführt. Wenn das Partnerbenutzerkonto noch nicht für MFA registriert wurde, wird das Benutzerkonto zunächst aufgefordert, die MFA-Registrierung abzuschließen.
 
@@ -205,7 +199,7 @@ Bevor Sie eine [technische Ausnahme](#how-to-submit-a-request-for-technical-exce
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Problem 1: Partner benötigt mehr Zeit für die Implementierung von MFA für seine Partner-Agents
 Ein Partner hat noch nicht damit begonnen oder ist noch dabei, MFA für seine Partner-Agents zu implementieren, die Zugriff auf Portale für Microsoft-Onlinedienste benötigen, um Kundenressourcen mit vom Partner delegierten Verwaltungsberechtigungen zu verwalten. Der Partner benötigt mehr Zeit, um die MFA-Implementierung abzuschließen. Handelt es sich um einen gültigen Grund für eine technische Ausnahme?
 
-**Antwort** : Nein Der Partner muss planen, MFA für seine Benutzer zu implementieren, um Unterbrechungen zu vermeiden.
+**Antwort**: Nein Der Partner muss planen, MFA für seine Benutzer zu implementieren, um Unterbrechungen zu vermeiden.
 
 > [!NOTE]
 > Auch wenn der Partner MFA für seine Partner-Agents nicht implementiert hat, können die Partner-Agents dennoch auf Portale für Microsoft-Onlinedienste mit vom Partner delegierten Verwaltungsberechtigungen zugreifen – vorausgesetzt, sie können die MFA-Registrierung und MFA-Überprüfung abschließen, wenn sie bei der Anmeldung beim Kundenmandanten dazu aufgefordert werden. Das Abschließen der MFA-Registrierung aktiviert den Benutzer nicht automatisch für MFA.
@@ -213,23 +207,23 @@ Ein Partner hat noch nicht damit begonnen oder ist noch dabei, MFA für seine Pa
 ##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>Problem 2: Partner hat MFA nicht für Benutzerkonten implementiert, die keine delegierten Verwaltungsberechtigungen verwenden
 Ein Partner verfügt über einige Benutzer in seinen Partnermandanten, die keinen Zugriff auf Portale für Microsoft-Onlinedienste benötigen, um Kundenressourcen mit vom Partner delegierten Verwaltungsberechtigungen zu verwalten. Der Partner ist gerade dabei, MFA für diese Benutzer zu implementieren, und benötigt mehr Zeit zum Abschließen des Vorgangs. Handelt es sich um einen gültigen Grund für eine technische Ausnahme?
 
-**Antwort** : Nein Da diese Benutzerkonten keine vom Partner delegierten Verwaltungsberechtigungen zum Verwalten von Kundenressourcen verwenden, müssen sie sich nicht beim Kundenmandanten anmelden. Sie sind nicht davon betroffen, dass Azure AD während der Anmeldung beim Kundenmandanten eine MFA-Überprüfung erfordert.
+**Antwort**: Nein Da diese Benutzerkonten keine vom Partner delegierten Verwaltungsberechtigungen zum Verwalten von Kundenressourcen verwenden, müssen sie sich nicht beim Kundenmandanten anmelden. Sie sind nicht davon betroffen, dass Azure AD während der Anmeldung beim Kundenmandanten eine MFA-Überprüfung erfordert.
 
 ##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Problem 3: Partner hat MFA für Benutzerdienstkonten nicht implementiert
 Ein Partner verfügt über einige Benutzerkonten in seinen Partnermandanten, die von Geräten als Dienstkonten verwendet werden. Dabei handelt es sich um Konten mit geringen Berechtigungen, die keinen Zugriff auf Partner Center oder Portale für Microsoft-Onlinedienste benötigen, um Kundenressourcen mit vom Partner delegierten Verwaltungsberechtigungen zu verwalten. Handelt es sich um einen gültigen Grund für eine technische Ausnahme?
 
-**Antwort** : Nein Da diese Benutzerkonten keine vom Partner delegierten Verwaltungsberechtigungen zum Verwalten von Kundenressourcen verwenden, müssen sie sich nicht beim Kundenmandanten anmelden. Sie sind nicht davon betroffen, dass Azure AD während der Anmeldung beim Kundenmandanten eine MFA-Überprüfung erfordert.
+**Antwort**: Nein Da diese Benutzerkonten keine vom Partner delegierten Verwaltungsberechtigungen zum Verwalten von Kundenressourcen verwenden, müssen sie sich nicht beim Kundenmandanten anmelden. Sie sind nicht davon betroffen, dass Azure AD während der Anmeldung beim Kundenmandanten eine MFA-Überprüfung erfordert.
 
 ##### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Problem 4: Partner kann MFA nicht mithilfe der MS Authenticator-App implementieren
 Ein Partner verfügt über eine „Clean Desk“-Richtlinie, die es Mitarbeitern nicht gestattet, ihre persönlichen mobilen Geräte in ihrem Arbeitsbereich zu verwenden. Ohne Zugriff auf ihre persönlichen mobilen Geräte können die Mitarbeiter die MS Authenticator-App nicht installieren, die die einzige MFA-Überprüfung ist, die von den Azure AD-Sicherheitsstandards unterstützt wird. Handelt es sich um einen gültigen Grund für eine technische Ausnahme?
 
-**Antwort** : Nein, dies ist kein gültiger Grund für eine technische Ausnahme. Der Partner sollte die folgenden Alternativen berücksichtigen, damit seine Mitarbeiter beim Zugriff auf Partner Center die MFA-Überprüfung trotzdem durchführen können:
+**Antwort**: Nein, dies ist kein gültiger Grund für eine technische Ausnahme. Der Partner sollte die folgenden Alternativen berücksichtigen, damit seine Mitarbeiter beim Zugriff auf Partner Center die MFA-Überprüfung trotzdem durchführen können:
 - Partner können sich auch für Azure AD Premium oder MFA-Lösungen von Drittanbietern registrieren (kompatibel mit Azure AD), die zusätzliche Überprüfungsmethoden bereitstellen können.
 
 ##### <a name="issue-5-partner-cannot-implement-mfa-due-to-the-use-of-legacy-authentication-protocols"></a>Problem 5: Partner kann MFA aufgrund der Verwendung von Legacyauthentifizierungsprotokollen nicht implementieren
 Ein Partner arbeitet mit einigen Partner-Agents zusammen, die noch ältere Authentifizierungsprotokolle verwenden, die nicht mit MFA kompatibel sind. Beispielsweise verwenden die Benutzer noch Outlook 2010, das auf Legacyauthentifizierungsprotokollen basiert. Wenn MFA für diese Partner-Agents aktiviert wird, wird die Verwendung von Legacyauthentifizierungsprotokollen unterbrochen.
 
-**Antwort** : Nein, dies ist kein gültiger Grund für eine technische Ausnahme. Es wird dringend empfohlen, dass Partner aufgrund potenzieller Sicherheitsrisiken von der Verwendung veralteter Authentifizierungsprotokolle Abstand nehmen, da diese Protokolle nicht durch MFA-Überprüfung geschützt werden können und für eine Gefährdung von Anmeldeinformationen weitaus anfälliger sind. Wenn der Wechsel von der Verwendung von Legacyauthentifizierungsprotokollen nicht möglich ist, sollten sich Partner für Azure AD Premium registrieren, das die Verwendung von Anwendungskennwörtern unterstützt. Anwendungskennwörter sind einmalige, vom System generierte Kennwörter, die in der Regel stärker als manuell vom Benutzer generierte Kennwörter sind. Mithilfe von Anwendungskennwörtern können Partner MFA für ihre Benutzer implementieren und dabei auf Anwendungskennwörter nur für ältere Authentifizierungsprotokolle zurückgreifen.
+**Antwort**: Nein, dies ist kein gültiger Grund für eine technische Ausnahme. Es wird dringend empfohlen, dass Partner aufgrund potenzieller Sicherheitsrisiken von der Verwendung veralteter Authentifizierungsprotokolle Abstand nehmen, da diese Protokolle nicht durch MFA-Überprüfung geschützt werden können und für eine Gefährdung von Anmeldeinformationen weitaus anfälliger sind. Wenn der Wechsel von der Verwendung von Legacyauthentifizierungsprotokollen nicht möglich ist, sollten sich Partner für Azure AD Premium registrieren, das die Verwendung von Anwendungskennwörtern unterstützt. Anwendungskennwörter sind einmalige, vom System generierte Kennwörter, die in der Regel stärker als manuell vom Benutzer generierte Kennwörter sind. Mithilfe von Anwendungskennwörtern können Partner MFA für ihre Benutzer implementieren und dabei auf Anwendungskennwörter nur für ältere Authentifizierungsprotokolle zurückgreifen.
 
 Lesen Sie den Beitrag zu [Standardauthentifizierung und Exchange Online](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-auth-and-exchange-online-february-2020-update/ba-p/1191282), um den neuesten Plan zur Unterstützung der Legacyauthentifizierung für Outlook zu verstehen, und folgen Sie dem [Teamblog zu Exchange](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange), um die bevorstehenden Neuerungen zu erfahren. 
 
@@ -239,7 +233,7 @@ Lesen Sie den Beitrag zu [Standardauthentifizierung und Exchange Online](https:/
 ##### <a name="issue-6-partner-has-implemented-third-party-mfa-that-isnt-recognized-by-azure-ad"></a>Problem 6: Partner hat Drittanbieter-MFA implementiert, die von Azure AD nicht erkannt wird
 Ein Partner hat MFA für seine Benutzer mit einer MFA-Lösung eines Drittanbieters implementiert. Der Partner kann jedoch die MFA-Lösung des Drittanbieters nicht ordnungsgemäß konfigurieren, um Azure AD zu vermitteln, dass die MFA-Überprüfung während der Benutzerauthentifizierung durchgeführt wurde. Handelt es sich um einen gültigen Grund für eine technische Ausnahme?
 
-**Antwort** : Ja, dieses Problem kann als gültiger Grund für eine technische Ausnahme angesehen werden. Lassen Sie sich vor dem Einreichen einer Anfrage für eine technische Ausnahme durch den MFA-Lösungsdrittanbieter Folgendes bestätigen: Die MFA-Lösung kann nicht so konfiguriert werden, dass der Anspruch *authenticationmethodsreferences* (mit dem Wert *multipleauthn* ) an Azure AD übermittelt wird, um anzugeben, dass die MFA-Überprüfung während der Benutzerauthentifizierung abgeschlossen wurde. Beim Einreichen einer Anfrage für eine technische Ausnahme müssen Sie Details zur verwendeten MFA-Lösung eines Drittanbieters mitteilen, die Integrationsmethode angeben (z. B. über einen Identitätsverbund oder die Verwendung eines benutzerdefinierten Azure AD-Steuerelements) und die folgenden Informationen als unterstützende Dokumente bereitstellen:
+**Antwort**: Ja, dieses Problem kann als gültiger Grund für eine technische Ausnahme angesehen werden. Lassen Sie sich vor dem Einreichen einer Anfrage für eine technische Ausnahme durch den MFA-Lösungsdrittanbieter Folgendes bestätigen: Die MFA-Lösung kann nicht so konfiguriert werden, dass der Anspruch *authenticationmethodsreferences* (mit dem Wert *multipleauthn*) an Azure AD übermittelt wird, um anzugeben, dass die MFA-Überprüfung während der Benutzerauthentifizierung abgeschlossen wurde. Beim Einreichen einer Anfrage für eine technische Ausnahme müssen Sie Details zur verwendeten MFA-Lösung eines Drittanbieters mitteilen, die Integrationsmethode angeben (z. B. über einen Identitätsverbund oder die Verwendung eines benutzerdefinierten Azure AD-Steuerelements) und die folgenden Informationen als unterstützende Dokumente bereitstellen:
 
 - Die Drittanbieter-MFA-Konfigurationen.
 
@@ -255,11 +249,11 @@ So reichen Sie eine Anfrage für eine technische Ausnahme ein:
 
 1. Melden Sie sich bei Partner Center als globaler Administrator oder Administrator-Agent an.
 
-2. Erstellen Sie eine neue Partner-Serviceanfrage, indem Sie zu **Support** > **Partner-Supportanfragen** navigieren und auf **Neue Anfrage** klicken.
+2. Erstellen Sie eine neue Partner-Serviceanfrage, indem Sie zu **Support** > **Partner-Supportanfragen** navigieren und **Neue Anfrage** auswählen.
 
-3. Suchen Sie im Suchfeld nach **MFA – Request for exception** (MFA – Anfrage einer Ausnahme), oder wählen Sie nacheinander **CSP** in „Kategorie“, **Konten, Onboarding, Zugriff** in „Thema“, **MFA – Request for exception** im Unterthema und **Nächster Schritt** aus.
+3. Suchen Sie im Suchfeld nach **MFA – Request for exception** (MFA – Anfrage einer Ausnahme), oder wählen Sie nacheinander **CSP** in „Kategorie“, **Konten, Onboarding, Zugriff** in „Thema“, **MFA – Request for exception** im Unterthema und dann **Nächster Schritt** aus.
 
-4. Geben Sie die zum Einreichen einer Serviceanfrage erforderlichen Details an, und klicken Sie dann auf **Übermitteln**.
+4. Geben Sie die zum Einreichen einer Serviceanfrage erforderlichen Details an, und wählen Sie dann **Übermitteln** aus.
 
 Es kann bis zu drei Arbeitstage dauern, bis Microsoft eine Antwort auf eine Anfrage für eine technische Ausnahme bereitstellt.
 

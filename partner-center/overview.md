@@ -8,16 +8,16 @@ description: Verwenden Sie Partner Center, um Geschäftstransaktionen mit Micros
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 3b5627e9ade9a1e7fd8b5576ed8fd80202b974eb
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582647"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132246"
 ---
 # <a name="what-is-partner-center"></a>Was ist Partner Center?
 
-##### <a name="appropriate-roles"></a>Geeignete Rollen
+**Geeignete Rollen**
 
 - Alle Partner, die an Partner Center interessiert sind
 

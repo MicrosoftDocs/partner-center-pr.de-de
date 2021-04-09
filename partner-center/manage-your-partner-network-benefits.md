@@ -9,23 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932842"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133096"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Verwalten von Microsoft Partner Network-Mitgliedschaftsvorteilen und -Angeboten im Partner Center
-
-**Zielgruppe**
-
-- Partner Center
 
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - Administrator-Agent
 - MPN-Partneradministrator
 
@@ -45,7 +41,7 @@ Vorteilspakete umfassen Zuweisungen von lizenzierter Software, Clouddiensten, Vi
 
 Wenn Sie alle Ihre Mitgliedschaftsvorteile anzeigen und verwalten möchten, navigieren Sie zu Ihrer Seite [**Vorteile**](https://partnercenter.microsoft.com/pcv/partnership/benefits) (Anmeldung erforderlich). Alternativ können Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) anmelden, im Menü auf der linken Seite die [**Option „Vorteile“** ] auswählen und dann aus den angezeigten Vorteilsoptionen auswählen.  
 
-Zum Aktivieren der meisten Vorteile oder zum Herunterladen zugehöriger Softwareschlüssel usw. erfordert Partner Center in der Regel eine Person, der die Rolle „Globaler Administrator“ oder „MPN-Partneradministrator“ zugewiesen ist. Wenn keine Vorteile angezeigt werden oder Vorteile nicht aktiviert werden können, wenden Sie sich an Ihren globalen Partner Center-Administrator, um sicherzustellen, dass Sie über die richtigen Berechtigungen verfügen. [Weitere Informationen zu Partner Center-Rollen](permissions-overview.md).
+Zum Aktivieren der meisten Vorteile oder zum Herunterladen zugehöriger Softwareschlüssel erfordert Partner Center in der Regel eine Person, der die Rolle „Globaler Administrator“ oder „MPN-Partneradministrator“ zugewiesen ist. Wenn keine Vorteile angezeigt werden oder Vorteile nicht aktiviert werden können, wenden Sie sich an Ihren globalen Partner Center-Administrator, um sicherzustellen, dass Sie über die richtigen Berechtigungen verfügen. [Weitere Informationen zu Partner Center-Rollen](permissions-overview.md).
 
 ## <a name="manage-software-benefits"></a>Verwalten von Softwarevorteilen
 
@@ -85,9 +81,9 @@ Bei Azure Bulk Credit (jährlich) ist die Option zum Entfernen nicht in Partner 
 
 ## <a name="license-based-subscriptions"></a>Lizenzbasierte Abonnements
 
-Im Abschnitt für lizenzbasierte Abonnements auf der Registerkarte „Azure- und Cloudprodukte“ sind alle Cloudprodukte aufgeführt, für die ein Product Key zur Aktivierung erforderlich ist (z. B. Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic, Power BI usw.) und die Ihnen je nach Angebotstyp angeboten werden, der für Sie als MPN-Partner aktiv ist (MAPS, Silver oder Gold).
+Im Abschnitt für lizenzbasierte Abonnements auf der Registerkarte „Azure- und Cloudprodukte“ sind alle Cloudprodukte aufgeführt, für die ein Product Key zur Aktivierung erforderlich ist, z. B. Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD Basic, Power BI. Der für Sie als MPN-Partner aktive Angebotstyp (MAPS, Silver oder Gold) bestimmt, welche Produkte aufgelistet werden.
 
-Zum Aktivieren der lizenzbasierten Abonnements klicken Sie auf das Dropdownsymbol neben dem betreffenden Produkt, und lesen Sie die Anweisungen zum Einlösen der Schlüssel. Nachdem Sie die Anweisungen gelesen haben, wählen Sie den Link aus, der Sie zum Portal zum Einlösen von Schlüsseln sowie zum zugewiesenen Schlüssel für Ihr Produkt weiterleitet.
+Zum Aktivieren der lizenzbasierten Abonnements klicken Sie auf das Dropdownsymbol neben dem betreffenden Produkt, und lesen Sie die Anweisungen zum Einlösen der Schlüssel. Nachdem Sie die Anweisungen gelesen haben, wählen Sie den Link aus, der Sie zum Portal zum Einlösen von Schlüsseln und zum zugewiesenen Schlüssel für Ihr Produkt weiterleitet.
 
 >[!IMPORTANT]
 >Beachten Sie, dass nach dem Einlösen eines Schlüssels dieser Schlüssel nicht ein zweites Mal eingelöst werden kann. Seien Sie sich deshalb im Klaren darüber, ob Sie weitere Lizenzen (Arbeitsplätze) hinzufügen oder das Enddatum verlängern müssen. Wenn Sie weitere Lizenzen hinzufügen und das Enddatum nicht verlängern, stellt Ihnen das System ein aktives Abonnement für weniger als 12 Monate zur Verfügung. Vergewissern Sie sich, dass Sie mit den richtigen Anmeldeinformationen angemeldet sind, um die Schlüssel auf dem richtigen Mandanten zu aktivieren.

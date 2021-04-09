@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/08/2021
-ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/01/2021
+ms.openlocfilehash: 7e6082c645a4c5bcc3e0f766ffe7d82e73d46c15
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712544"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280920"
 ---
 # <a name="december-2020-announcements"></a>Ankündigungen für Dezember 2020
 
@@ -189,15 +189,14 @@ Die vollständige Ankündigung ist nur für Microsoft-Partner verfügbar. [Melde
 ______________
 
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Änderungen der Anforderungen für das Onboarding von Kunden im CSP-Programm (Cloud Solution Provider)
-
 ### <a name="categories"></a>Kategorien
 
-- Datum: 17.12.2020
+- Datum: 02.04.2021
 - Angebote/Märkte
- 
+
 ### <a name="summary"></a>Zusammenfassung
 
-Im Rahmen unserer Verpflichtung, Partner und Kunden bei der Ausführung ihrer Geschäfte auf Vertrauensbasis zu unterstützen, werden wir ab Ende März 2021 zusätzliche Kundeninformationen anfordern.
+Im Rahmen unserer Verpflichtung, Partner und Kunden bei der Ausführung ihrer Geschäfte auf Vertrauensbasis zu unterstützen, werden wir ab dem 25. März 2021 zusätzliche Kundeninformationen anfordern.
 
 ### <a name="impacted-audience"></a>Zielgruppe
 
@@ -205,11 +204,12 @@ CSP-Partner mit direkter Abrechnung und indirekte Anbieter mit neuen Kunden oder
 
 ### <a name="details"></a>Details
 
-Microsoft setzt auf Vertrauen. Wir haben uns verpflichtet, eine kompatible und sichere Methode der Kundenüberprüfung zur Abwicklung von Kundenabonnements im CSP-Programm bereitzustellen. Ende März 2021 werden wir Verbesserungen der Partner Center-API und -Benutzeroberfläche (UI) einführen, die sich auf Partner auswirken, die die beiden folgenden Kriterien erfüllen:
+Microsoft setzt auf Vertrauen. Wir haben uns verpflichtet, eine kompatible und sichere Methode der Kundenüberprüfung zur Abwicklung von Kundenabonnements im CSP-Programm bereitzustellen. Am 25. März 2021 werden wir Verbesserungen der Partner Center-API und -Benutzeroberfläche (UI) einführen, die sich auf Partner auswirken, die die beiden folgenden Kriterien erfüllen:
 
 1. Der Partner hat eine direkte Abrechnungsbeziehung mit Microsoft (das heißt, er ist ein Partner mit direkter Abrechnung oder ein indirekter Anbieter).
 
 2. Der Partner tätigt Geschäfte mit neuen Kunden oder Bestandskunden in den folgenden Ländern:
+
     - Thailand
     - Vietnam
     - Türkei
@@ -224,7 +224,9 @@ Microsoft setzt auf Vertrauen. Wir haben uns verpflichtet, eine kompatible und s
     - Vereinigte Arabische Emirate
     - Venezuela
 
-Partner, die diese Kriterien erfüllen, müssen bei der nächsten Aktualisierung oder Abonnementerstellung für einen Kunden die **rechtliche Identifizierung** des Kunden (auch als **Organisations-INN** des Kunden bezeichnet) und dessen **Telefonnummer** senden. Diese Partner können auch einen optionalen **zweiten Vornamen** für den Kunden eingeben.
+Partner, die diese Kriterien erfüllen, müssen bei der nächsten Aktualisierung oder Abonnementerstellung für einen Kunden dessen Firmenregistrierungs-ID (auch als Organisations-INN des Kunden bezeichnet) und Telefonnummer angeben. Diese Partner können auch einen optionalen zweiten Vornamen für den Kunden eingeben.
+
+Beachten Sie, dass Sie beim Hinzufügen Ihrer Firmenregistrierungs-ID Ihre Unternehmenssteuer-ID und nicht die persönliche ID des Kunden verwenden sollten.
 
 Für Partner, die Geschäfte mit neuen Kunden oder Bestandskunden in den folgenden Ländern tätigen, erfolgte bereits ein Onboarding mit einer früheren Version im November 2020.
 
@@ -240,7 +242,7 @@ Für Partner, die Geschäfte mit neuen Kunden oder Bestandskunden in den folgend
 - Ukraine
 - Usbekistan
 
-Partner mit Kunden in anderen Ländern weltweit haben Ende März 2021 die Möglichkeit, die **rechtliche Identifizierung**, die **Telefonnummer** und den **zweiten Vornamen** für Kunden als optionale Details einzugeben.
+Partner mit Kunden in anderen Ländern weltweit haben Ende März 2021 die Möglichkeit, die Firmenregistrierungs-ID, die Telefonnummer und den zweiten Vornamen für Kunden als optionale Details einzugeben.
 
 ### <a name="next-steps"></a>Nächste Schritte
 
@@ -251,9 +253,19 @@ Partner mit Kunden in anderen Ländern weltweit haben Ende März 2021 die Mögl
 
 ### <a name="questions"></a>Fragen?
 
-Wenn Sie Fragen im Bezug auf die rechtliche Identifizierung (auch INN oder TIN genannt) haben, wenden Sie sich an Ihren Steuerberater oder das örtliche Finanzamt. Microsoft kann in Steuerfragen keine Hilfestellung bieten. 
+Wenn Sie Fragen in Bezug auf die Firmenregistrierungs-ID (auch INN oder TIN genannt) haben, wenden Sie sich an Ihren Steuerberater oder das örtliche Finanzamt. Microsoft kann in Steuerfragen keine Hilfestellung bieten.
 
-Wenn Sie Unterstützung hinsichtlich des Geschäftsbetriebs mit Microsoft benötigen, [erstellen Sie eine Serviceanfrage](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+Wenn Sie Unterstützung hinsichtlich des Geschäftsbetriebs mit Microsoft benötigen, erstellen Sie eine [Serviceanfrage](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+### <a name="change-log"></a>Änderungsprotokoll:
+
+17. Dezember 2020: Erstveröffentlichung
+
+2\. April 2021: Aktualisierungen:
+
+- Einführungsdatum wurde angegeben
+- Titel für Organisations-INN wurde in Firmenregistrierungs-ID geändert
+- Hinweis zur Verdeutlichung der Firmenregistrierungs-ID wurde hinzugefügt
 
 ______________
 
@@ -399,7 +411,7 @@ ______________
 
 ### <a name="impacted-audience"></a>Zielgruppe
 
-Direct Bill Partner sowie Indirect Provider, die am CSP-Programm teilnehmen, die das Partner Center .NET SDK verwenden.
+Partner mit direkter Abrechnung und indirekte Anbieter, die am CSP-Programm teilnehmen und das Partner Center .NET SDK verwenden
 
 ### <a name="details"></a>Details
 

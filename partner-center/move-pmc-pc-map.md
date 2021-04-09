@@ -9,21 +9,22 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6fc3fbfbc5ebf874460fbf2f0065150089db39d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dae147c45aca27657f1e88b6943279f9771313d6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436809"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132994"
 ---
 # <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>Umstellung von Partner Membership Center (PMC) auf Partner Center
 
 **Geeignete Rollen**
--    Globaler Administrator
+
+- Globaler Administrator
 
 Wir vereinfachen die Geschäftstätigkeit mit uns, indem wir eine einzelne Website (Partner Center) einführen, die als zentrale Anlaufstelle dient. Alle Aktivitäten, die du von Partner Membership Center (PMC) kennst, kannst du auch über das Dashboard in Partner Center ausführen. 
 
-Darüber hinaus kannst du noch viele weitere Aufgaben erledigen – alles in einer einzigen Website. Die Begriffe und Features unterscheiden sich jedoch leicht. Mithilfe der Tour zum Dashboard sollten Sie unbedingt herausfinden, welche Funktion sich wo befindet.
+Darüber hinaus können noch viele weitere Aufgaben erledigt werden, ohne diese Website zu verlassen. Die Begriffe und Features unterscheiden sich jedoch leicht. Die Tour durch das Dashboard verdeutlicht, wo bestimmte Aufgaben ausgeführt werden und welche Features verfügbar sind.
 
 Die folgende Tabelle zeigt einige der Unterschiede zwischen PMC und Partner Center.
 
@@ -43,7 +44,7 @@ Die folgende Tabelle zeigt einige der Unterschiede zwischen PMC und Partner Cent
 
 |**PMC**   |**Partner Center**|
 |----------------------|:-----------------------------|
-|Es konnten die Anmeldeinformationen sowohl für Microsoft-Konten (MSA) also auch für persönliche Konten (joe@outlook.com) verwendet werden.|Du musst die Anmeldeinformationen für dein Geschäftskonto verwenden (joe@joescompany.com). Weitere Informationen findest du unter [Das Geschäftskonto deines Unternehmens und Partner Center](azure-active-directory-tenants-and-partner-center.md).|
+|Es konnten die Anmeldeinformationen sowohl für Microsoft-Konten (MSA) also auch für persönliche Konten (joe@outlook.com) verwendet werden.|Es müssen die Anmeldeinformationen für das Geschäftskonto verwendet werden (z. B. joe@joescompany.com). Weitere Informationen findest du unter [Das Geschäftskonto deines Unternehmens und Partner Center](azure-active-directory-tenants-and-partner-center.md).|
 
 ## <a name="user-roles"></a>Benutzerrollen
 
@@ -61,7 +62,7 @@ Die folgende Tabelle zeigt einige der Unterschiede zwischen PMC und Partner Cent
 |Additional Benefits Tool Kits (ABTKs) standen zur Verfügung, bis sie im Oktober 2018 eingestellt wurden.|Keine ABTKs. Ein MAPS pro Unternehmen, eine Silver-Kompetenz pro Unternehmen, eine Gold-Kompetenz pro Unternehmen.|
 ||MAPS kann erworben werden, sofern noch nicht vorhanden. Der MAPS-Besitz ist nicht an Kompetenzen gebunden.  
 |Der Zugriff auf Vorteile erfolgte per Partner Digital Download (PDD). |Alle Vorteile sind im Partner Center verfügbar.|
-|Kompetenzen und Vorteile waren auf mehrere Standorte aufgeteilt.|Kompetenzen und Vorteile aus allen Standorten sind auf Unternehmensebene (PGA) konsolidiert und bleiben bis zum Jahrestag erhalten. Zu diesem Zeitpunkt muss ein Neuerwerb oder eine Verlängerung auf Unternehmensebene erfolgen. Leistung und Fähigkeiten werden ebenso wie Kompetenzen global aggregiert.|
+|Kompetenzen und Vorteile waren auf mehrere Standorte aufgeteilt.|Kompetenzen und Vorteile aus allen Standorten sind auf Unternehmensebene (PGA) konsolidiert und bleiben bis zum Jahrestag erhalten. Zu diesem Zeitpunkt muss ein Neuerwerb oder eine Verlängerung auf Unternehmensebene erfolgen. Leistung, Fähigkeiten und Kompetenzen werden global aggregiert.|
 |Ansprüche aus Software Assurance-Vouchern wurden im Voucher Validation and Redemption-Tool (VVR) geltend gemacht.|Jetzt kannst du im Partner Center auf Software Assurance Training Vouchers (SATV) und/oder Deployed Planning Services (DPS) zugreifen und diese verwalten.  Das veraltete VRR-Tool wird am 1. Oktober 2019 außer Betrieb genommen.  |
 
 ## <a name="associating-mcp-ids-to-partner-center"></a>Zuordnen von MCP-IDs zu Partner Center

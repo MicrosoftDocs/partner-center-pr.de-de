@@ -9,24 +9,24 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 022e7aabd0d850660f8236dce9a4fab9069af01b
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99623999"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087126"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>Wie von Partnern erworbene Guthaben berechnet und bezahlt werden
 
 **Geeignete Rollen**
 
 - Globaler Administrator
-- Benutzeradministrator
+- Benutzerverwaltungsadministrator
 - Administrator-Agent
 - Abrechnungsadministrator
 - Vertriebsbeauftragter
 
-Von Partnern erworbene Guthaben für verwaltete Dienste (Partner-Earned Credit, PEC) bedeuten Anerkennung und Belohnung für Partner, die die Kontrolle und Verwaltung der IT Operations der Azure-Umgebungen ihrer Kunden rund um die Uhr ganz oder teilweise innehaben. Standardmäßig werden Partnern in CSP die erforderlichen Zugriffsrechte auf das Kundenabonnement erteilt, die es ihnen ermöglichen, die operative Verwaltung und Steuerung der Abonnementressourcen rund um die Uhr (24/7) durchzuführen. Weitere Möglichkeiten, wie der Kunde den Zugriff für den handelnden Partner bereitstellen kann, sind im folgenden Abschnitt beschrieben. Der monatliche Rechnungsbetrag ist bezogen auf die vom Partner erworbene Gutschrift netto. Die Partner können die PEC-Details in ihrer monatlichen Abstimmungsdatei sehen. Informationen zu weiteren Verfahren, mit denen ein Kunde den Zugriff für den handelnden Partner bereitstellen kann, finden Sie unter [Verwalten von Abonnements und Ressourcen in einem Azure-Plan](azure-plan-manage.md).
+Von Partnern erworbene Guthaben für verwaltete Dienste (Partner-Earned Credit, PEC) bedeuten Anerkennung und Belohnung für Partner, die die Kontrolle und Verwaltung der IT Operations der Azure-Umgebungen ihrer Kunden rund um die Uhr ganz oder teilweise innehaben. Standardmäßig werden Partnern in CSP die erforderlichen Zugriffsrechte auf das Kundenabonnement erteilt, die es ihnen ermöglichen, die operative Verwaltung und Steuerung der Abonnementressourcen rund um die Uhr (24/7) durchzuführen. Weitere Möglichkeiten, wie Kunden den Zugriff für handelnde Partner bereitstellen können, sind im folgenden Abschnitt beschrieben. Der monatliche Rechnungsbetrag ist bezogen auf das vom Partner erworbene Guthaben netto. Die Partner können die PEC-Details in ihrer monatlichen Abstimmungsdatei sehen. Informationen zu weiteren Verfahren, mit denen ein Kunde den Zugriff für den handelnden Partner bereitstellen kann, finden Sie unter [Verwalten von Abonnements und Ressourcen in einem Azure-Plan](azure-plan-manage.md).
 
 Lesen Sie auch [Reaktivieren von Administratorrechten für Azure CSP-Abonnements](revoke-reinstate-csp.md).
 

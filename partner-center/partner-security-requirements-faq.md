@@ -9,23 +9,18 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: f2bf6823fdd976632fb8ad9c8f11ce99835d76a5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133047"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087075"
 ---
 # <a name="common-questions-about-partner-security-requirements"></a>Allgemeine Fragen zu Sicherheitsanforderungen für Partner
 
-**Zielgruppe**
+**Geeignete Rollen**
 
-- Partner Center
-
-**Geeignete Benutzer**
-
-- Alle aktivierten Benutzer einschließlich Gastbenutzer
-
+- Alle Partner Center-Benutzer
 
 In diesem Artikel werden einige allgemeine Fragen zu den [Sicherheitsanforderungen für Partner](partner-security-requirements.md) beantwortet.
 
@@ -53,7 +48,7 @@ Nein, kein Benutzerkonto kann davon ausgenommen werden, MFA (Multi-Factor Authen
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Woher weiß ich, ob ich die Sicherheitsanforderungen für Partner erfüllt habe?
 
-Sie müssen die folgenden Schritte ausführen:
+Führen Sie die folgenden Schritte aus:
 
 - Sie müssen alle Anforderungen erfüllen, die in den [Sicherheitsanforderungen für Partner](partner-security-requirements.md) beschrieben werden.
 - Sie müssen sicherstellen, dass für alle Benutzerkonten in Ihrem Partnermandanten die mehrstufige Authentifizierung erzwungen wird.
@@ -77,7 +72,7 @@ Alle Partner im CSP-Programm (Partner mit direkter Abrechnung, indirekte Anbiete
     - Indirekte Anbieter müssen für das Onboarding in Partner Center mit indirekten Handelspartnern zusammenarbeiten, sofern dies nicht bereits erfolgt ist, und ihre Handelspartner dazu anhalten, die Anforderungen zu erfüllen.
     - Azure MFA wird allen Benutzern im Partnermandanten über Azure AD-Sicherheitsstandards kostenlos zur Verfügung gestellt. Dabei wird nur die Überprüfungsmethode einer Authenticator-Anwendung verwendet, die zeitbasierte Einmalkennwörter (Time Based One Time, TOTP) unterstützt.
     - Weitere Verifizierungsmethoden sind über die [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium)-SKUs verfügbar, wenn andere Methoden wie ein Telefonanruf oder eine SMS erforderlich sind.
-    - Beim Zugriff auf kommerzielle Clouddienste von Microsoft können Partner für jedes Konto auch die MFA-Lösung eines Drittanbieters nutzen.
+    - Beim Zugriff auf kommerzielle Clouddienste von Microsoft können Partner für jedes Konto auch die MFA-Lösung eines Drittanbieters verwenden.
 
 2. **Übernehmen des Frameworks „Sicheres Anwendungsmodell“**
 
@@ -98,7 +93,7 @@ Alle Partner im CSP-Programm (Partner mit direkter Abrechnung, indirekte Anbiete
 
 ### <a name="what-is-multi-factor-authentication-mfa"></a>Was ist die Multi-Factor Authentication (MFA)?
 
-Die MFA ist ein Sicherheitsmechanismus, mit dem Einzelpersonen über mehr als ein erforderliches Sicherheits- und Validierungsverfahren authentifiziert werden. Dabei sind mindestens zwei der folgenden Authentifizierungsmethoden erforderlich:
+MFA ist ein Sicherheitsmechanismus zum Authentifizieren von Einzelpersonen über mehr als ein erforderliches Sicherheits- und Validierungsverfahren. Dabei sind mindestens zwei der folgenden Authentifizierungsmethoden erforderlich:
 
 - Etwas, das Sie wissen (in der Regel ein Kennwort)
 - Etwas, das Sie besitzen (ein vertrauenswürdiges Gerät, das sich nicht leicht duplizieren lässt, z. B. ein Telefon)
@@ -145,7 +140,7 @@ Weitere Informationen Sie in [Azure AD-Verbund – Kompatibilitätsliste](/azure
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>Wie kann ich die MFA in unserer Sandbox für die Integration testen?
 
-Das Feature für die Azure AD-Sicherheitsstandards sollte aktiviert sein. Alternativ kannst du auch Drittanbieterlösungen verwenden, die den Verbund nutzen.
+Das Feature für die Azure AD-Sicherheitsstandards sollte aktiviert sein. Alternativ können Sie eine Drittanbieterlösung verwenden, die den Verbund nutzt.
 
 ### <a name="will-enabling-mfa-affect-how-i-interact-with-my-customers-tenant"></a>Wirkt sich die Aktivierung der MFA darauf aus, wie ich mit meinem Kundenmandanten interagiere?
 
@@ -165,7 +160,7 @@ Ja. Die Sicherheitsanforderungen für Partner gelten auch für die Sandbox zur I
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>Wie konfiguriere ich ein Konto für den Notfallzugriff?
 
-Es hat sich bewährt, ein oder zwei Konten für den Notfallzugriff einzurichten, um eine versehentliche Aussperrung aus dem Azure AD-Mandanten zu verhindern. Aufgrund der Sicherheitsanforderungen für Partner muss sich jeder Benutzer per MFA authentifizieren. Diese Anforderung bedeutet, dass Sie die Definition eines Kontos für den Notfallzugriff ändern müssen. Du könntest z. B. ein Konto verwenden, das eine Drittanbieterlösung für die MFA nutzt.
+Es hat sich bewährt, ein oder zwei Konten für den Notfallzugriff einzurichten, um eine versehentliche Aussperrung aus dem Azure AD-Mandanten zu verhindern. Aufgrund der Sicherheitsanforderungen für Partner muss sich jeder Benutzer per MFA authentifizieren. Diese Anforderung bedeutet, dass Sie die Definition eines Kontos für den Notfallzugriff ändern müssen. Dabei kann es sich um ein Konto handeln, das eine Drittanbieterlösung für MFA verwendet.
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>Ist der Active Directory-Verbunddienst (Active Directory Federation Service, ADFS) erforderlich, wenn ich eine Drittanbieterlösung verwende?
 
@@ -187,7 +182,7 @@ Nein. Die Sicherheitsanforderungen für Partner haben keine Auswirkungen auf das
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>Wer sollte das sichere Anwendungsmodell übernehmen, um die Anforderungen zu erfüllen?
 
-Microsoft führt ein sicheres, skalierbares Framework für die Authentifizierung von CSP-Partnern und Control Panel-Anbietern ein, das auf der Multi-Factor Authentication basiert. Weitere Informationen finden Sie im [Leitfaden für das sichere Anwendungsmodell](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Alle Partner, die eine benutzerdefinierte Integration über APIs (z. B. Azure Resource Manager, Microsoft Graph, Partner Center-API usw.) entwickelt oder mithilfe von PowerShell eine benutzerdefinierte Automatisierung implementiert haben, müssen das [Framework „Sicheres Anwendungsmodell“](/partner-center/develop/enable-secure-app-model) übernehmen, um die Integration in Microsoft-Clouddienste zu ermöglichen.
+Microsoft führt ein sicheres, skalierbares Framework für die Authentifizierung von CSP-Partnern (Cloud Solution Provider) und CPV-Anbietern (Control Panel Vendor) ein, das auf Multi-Factor Authentication basiert. Weitere Informationen finden Sie im [Leitfaden für das sichere Anwendungsmodell](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). Alle Partner, die eine benutzerdefinierte Integration über APIs (z. B. Azure Resource Manager, Microsoft Graph, Partner Center-API usw.) entwickelt oder mithilfe von PowerShell eine benutzerdefinierte Automatisierung implementiert haben, müssen das [Framework „Sicheres Anwendungsmodell“](/partner-center/develop/enable-secure-app-model) übernehmen, um die Integration in Microsoft-Clouddienste zu ermöglichen.
 
 ### <a name="what-is-the-secure-application-model"></a>Was ist das sichere Anwendungsmodell?
 
@@ -210,7 +205,7 @@ Control Panel-Anbieter müssen das [Onboarding](enroll-as-cpv.md) in Partner Cen
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>Muss das sichere Anwendungsmodell nur für die Partner Center-API bzw. das Partner Center SDK implementiert werden?
 
-Das Erzwingen der mehrstufigen Authentifizierung für alle Benutzerkonten wirkt sich auf jede Automatisierung oder Integration aus, die für die nicht interaktive Ausführung vorgesehen ist. Gemäß den Partnersicherheitsanforderungen muss das sichere Anwendungsmodell für die Partner Center API aktiviert werden. Das Modell kann aber auch genutzt werden, um eine Zwei-Faktor-Authentifizierung mit Automatisierung und Integration einzurichten.
+Das Erzwingen der mehrstufigen Authentifizierung für alle Benutzerkonten wirkt sich auf jede Automatisierung oder Integration aus, die für die nicht interaktive Ausführung vorgesehen ist. Gemäß den Partnersicherheitsanforderungen muss das sichere Anwendungsmodell für die Partner Center-API aktiviert werden. Das Modell kann aber auch verwendet werden, um eine Zwei-Faktor-Authentifizierung mit Automatisierung und Integration einzurichten.
 
 >[!Note] 
 >Ressourcen, auf die zugegriffen wird, müssen die zugriffstokenbasierte Authentifizierung unterstützen.
@@ -246,7 +241,7 @@ Wenn CPVs den Registrierungslink erhalten möchten, müssen sie [CPVHelp@microso
 
 Nachdem du dich bei Partner Center angemeldet und deine Anwendungen registriert hast, kannst du auf Partner Center-APIs zugreifen. Neue CPVs erhalten die Informationen zu ihrer Sandbox über eine Partner Center-Benachrichtigung. Nach der Registrierung als Control Panel-Anbieter für Microsoft und Zustimmung zur CPV-Vereinbarung stehen dir folgende Möglichkeiten zur Verfügung:
 
-1. Verwalten von mehrinstanzenfähigen Anwendungen (Anwendungen im Azure-Portal hinzufügen, Anwendungen in Partner Center registrieren und deren Registrierung aufheben).
+1. Verwalten von mehrinstanzenfähigen Anwendungen (Anwendungen im Azure-Portal hinzufügen sowie Anwendungen in Partner Center registrieren und deren Registrierung aufheben).
 
    >[!Note]
    >CPVs müssen ihre Anwendungen in Partner Center registrieren, um die Autorisierung für Partner Center-APIs zu erhalten. Das Hinzufügen von Anwendungen in das Azure-Portal allein reicht nicht aus, um CPV-Anwendungen für Partner Center-APIs zu autorisieren.
@@ -299,7 +294,7 @@ Wenn Sie nicht genau wissen, ob Ihre Drittanbieterlösung den erwarteten Anspruc
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA blockiert meinen Support meines Kunden über AOBO. Wie kann ich vorgehen?
 
-Die technische Erzwingung der Sicherheitsanforderungen für Partner wird überprüft, wenn das authentifizierte Konto zur mehrstufigen Authentifizierung aufgefordert wurde. Wenn dies nicht geschehen ist, werden Sie auf die Anmeldeseite umgeleitet und zur erneuten Authentifizierung aufgefordert. Weitere Informationen und Anleitungen finden Sie in dieser Dokumentation zum [Festlegen von Multi-Factor Authentication (MFA) für Ihren Partnermandanten](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). In dem Fall, in dem Ihre Domäne keine Verbunddomäne ist, werden Sie nach erfolgreicher Authentifizierung aufgefordert, die mehrstufige Authentifizierung einzurichten. Nach Abschluss dieses Vorgangs können Sie Ihre Kunden mithilfe von AOBO verwalten. In dem Fall, in dem Ihre Domäne eine Verbunddomäne ist, müssen Sie sicherstellen, dass das Konto zur mehrstufigen Authentifizierung aufgefordert wird.
+Die technische Erzwingung der Sicherheitsanforderungen für Partner wird überprüft, wenn das authentifizierte Konto zur mehrstufigen Authentifizierung aufgefordert wurde. Wenn dies nicht geschehen ist, werden Sie zur Anmeldeseite umgeleitet und zur erneuten Authentifizierung aufgefordert. Weitere Informationen und Anleitungen finden Sie in dieser Dokumentation zum [Festlegen von Multi-Factor Authentication (MFA) für Ihren Partnermandanten](partner-security-requirements-mandating-mfa.md#partner-delegated-administration). In dem Fall, in dem Ihre Domäne keine Verbunddomäne ist, werden Sie nach erfolgreicher Authentifizierung aufgefordert, die mehrstufige Authentifizierung einzurichten. Nach Abschluss dieses Vorgangs können Sie Ihre Kunden mithilfe von AOBO verwalten. In dem Fall, in dem Ihre Domäne eine Verbunddomäne ist, müssen Sie sicherstellen, dass das Konto zur mehrstufigen Authentifizierung aufgefordert wird.
 
 ## <a name="security-defaults-transition"></a>Umstellung von Sicherheitsstandards
 

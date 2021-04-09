@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 419dba1490e19c8895fce35a031c7424114e5125
-ms.sourcegitcommit: 493130f8b8e9cf9b6ad31035bb4d7f78863788ac
+ms.openlocfilehash: 76b540364b1a47de66d0343f0646ab035b8de97c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "99474256"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132433"
 ---
 # <a name="using-the-skills-report"></a>Verwenden des Qualifikationsberichts
 
@@ -59,7 +59,7 @@ Führen Sie die folgenden Schritte aus, um Qualifikationsberichtsdaten aus dem P
 
 1. Verwenden Sie das Benutzerkonto mit der entsprechenden Partner Center-Rolle, und melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard) an.
 2. Wählen Sie im linken Navigationsmenü **MPN** und dann **Kompetenzen** aus.
-3. Suchen Sie oben rechts auf der Seite „Kompetenzen“ die folgenden Optionen:  **Kompetenzleistungsbericht** und **Bericht zu Qualifikationen herunterladen**. Sie haben die Möglichkeit, Qualifikationsberichtsdaten auf der Partner Center-Benutzeroberfläche oder in Form eines heruntergeladenen Arbeitsblatts anzuzeigen.
+3. Suchen Sie oben rechts auf der Seite „Kompetenzen“ die folgenden Optionen: **Kompetenzleistungsbericht** und **Bericht zu Qualifikationen herunterladen**. Sie haben die Möglichkeit, Qualifikationsberichtsdaten auf der Partner Center-Benutzeroberfläche oder in Form eines heruntergeladenen Arbeitsblatts anzuzeigen.
    :::image type="content" source="images/competencies/mpn-skills-report-1.png" alt-text="Partner Center-Seite „Kompetenzen“ mit zwei hervorgehobenen Optionen in der oberen rechten Ecke" border="true":::
    - Um eine übersichtliche Ansicht der Qualifikationsberichtsdaten zu erhalten, wählen Sie **Kompetenzleistungsbericht** und dann **Daten zu Benutzerfähigkeiten** oben links auf der Seite „Kompetenzbericht“ aus. 
       :::image type="content" source="images/competencies/mpn-skills-report-2.png" alt-text="Partner Center-Seite „Kompetenzbericht“ mit der Option „Daten zu Benutzerfähigkeiten“ in der oberen linken Ecke" border="true":::

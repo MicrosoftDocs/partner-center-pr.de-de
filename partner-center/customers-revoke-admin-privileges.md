@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 624b66c7912af1f0109b6aadeffb67c5d4e9ea4b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534878"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502496"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Abrufen von Berechtigungen zum Verwalten des Diensts oder Abonnements eines Kunden
-
-**Zielgruppe**
-
-- Partner Center
 
 **Geeignete Rollen**
 

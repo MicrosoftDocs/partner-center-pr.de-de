@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880802"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441267"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>Informationen zur Microsoft Partner-Vereinbarung für Partner im CSP-Programm
 
@@ -24,7 +24,7 @@ ms.locfileid: "104880802"
 
 Die Microsoft Partner-Vereinbarung bietet Microsoft-Partnern eine einheitliche, digital akzeptierbare Partnervereinbarung. Die Microsoft Partner-Vereinbarung enthält eine Reihe unbefristeter Bestimmungen, mit denen Microsoft, Partner und Kunden Datenschutz, Datensicherheit und Compliance unterstützen und solide Geschäftspraktiken fördern können.
 
-Alle Partner im Cloud Solution Provider-Programm (einschließlich indirekter Anbieter, indirekter Vertriebspartner und Partner mit direkter Abrechnung) können die MPA online im Partner Center unterzeichnen. Partner mit Direktabrechnung und indirekte Anbieter, die in der Government-Cloud tätig sind, können das MPA ebenfalls im Partner Center unterzeichnen.
+Alle Partner im Cloud Solution Provider-Programm (einschließlich indirekter Anbieter, indirekter Vertriebspartner und Partner mit direkter Abrechnung) können die MPA online im Partner Center unterzeichnen. Partner mit direkter Abrechnung und indirekte Anbieter, die in Microsoft Cloud for US Government tätig sind, können das MPA ebenfalls im Partner Center unterzeichnen.
 
 Sie müssen die Microsoft Partner-Vereinbarung vor dem 31. Januar 2020 unterzeichnen, um weiterhin am CSP-Programm teilnehmen zu können. Sie werden vom Partner Center daran erinnert, dass Sie die Vereinbarung nun einfach im Partner Center unterzeichnen können.
 
@@ -75,7 +75,7 @@ Denken Sie daran, den CSP-Partnerschaftsantrag mit Ihrem indirekten Anbieter zu 
 1. Melden Sie sich mit Ihrem CSP Indirect Reseller-Konto beim Partner Center an. Sie müssen der globale Administrator sein.
 1. Wechseln Sie zur Seite **[CSP-Übersicht](https://partner.microsoft.com/pcv/dashboard/overview)** .  Wenn weder **Zustimmen und fortfahren** noch das grüne Banner angezeigt wird, das Ihnen mitteilt, dass die MPA unterzeichnet ist, verfügen Sie nicht über die richtige Rolle zum Unterzeichnen der MPA. Wenden Sie sich zum Unterzeichnen der MPA an Ihren globalen Administrator.
 
-1. Wenn Sie die **Microsoft Partner-Vereinbarung** vor der Unterzeichnung anzeigen und herunterladen möchten, klicken Sie wie unten gezeigt auf den Link für die Microsoft Partner-Vereinbarung.
+1. Wenn Sie die **Microsoft Partner-Vereinbarung** vor der Unterzeichnung anzeigen und herunterladen möchten, wählen Sie wie unten gezeigt den Link für die Microsoft Partner-Vereinbarung aus.
 
 :::image type="content" source="images/agreement-three.png" alt-text="Neue Position der MPA-Vereinbarung":::
 

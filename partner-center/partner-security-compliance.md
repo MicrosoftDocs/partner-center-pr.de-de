@@ -9,18 +9,18 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: d56b9675ea405b29190f68420037ea9a92f3d831
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624152"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086548"
 ---
 # <a name="security-requirements-status-report"></a>Bericht zum Status der Sicherheitsanforderungen
 
 **Geeignete Rollen**
-- Control Panel Vendors
-- Globale Administratoren
+- CPV-Administrator
+- Globaler Administrator
 
 In diesem Artikel wird der Bericht zum Status der Sicherheitsanforderungen im Partner Center erläutert. Dieser Bericht enthält Metriken zur Einhaltung von [Sicherheitsanforderungen für Partner](partner-security-requirements.md) hinsichtlich der mehrstufigen Authentifizierung (Multi-Factor Authentication, MFA) für Benutzer in Ihrem Partnermandanten.
 
@@ -53,7 +53,7 @@ Die Metrik **Über das Partner Center-Portal** bezieht sich auf Aktivitäten im 
 - Am zweiten Tag hat sich John beim Partner Center-Dashboard ohne MFA-Überprüfung angemeldet und fünf Vorgänge ausgeführt.
 - Am dritten Tag hat sich Jane beim Partner Center-Dashboard mit MFA-Überprüfung angemeldet und zwei Vorgänge ausgeführt.
 - An den verbleibenden vier Tagen wurden von keinem der Mitarbeiter Vorgänge ausgeführt.
-- Von den 10 Vorgängen, die innerhalb des 7-Tage-Zeitraums stattgefunden haben, wurden zwei von Benutzern mit MFA-Überprüfung vorgenommen. Daher zeigt die Metrik 20 % an.
+- Von den zehn Vorgängen, die innerhalb des Sieben-Tage-Zeitraums stattgefunden haben, wurden zwei von Benutzern mit MFA-Überprüfung vorgenommen. Daher zeigt die Metrik 20 % an.
 
 Verwenden Sie die Datei für **Portalanforderungen ohne MFA**, um zu ermitteln, welcher Benutzer sich ohne MFA-Überprüfung beim Partner Center-Dashboard angemeldet hat, und wann der letzte Besuch innerhalb des Berichterstellungszeitfensters stattgefunden hat.
 

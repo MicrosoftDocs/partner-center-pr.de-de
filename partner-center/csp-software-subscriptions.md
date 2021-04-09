@@ -9,25 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475193"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502551"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Vertreiben von Softwareabonnements über das CSP (Cloud Solution Provider)-Programm
-
-**Zielgruppe**
-
-- Cloud Solution Provider
 
 **Geeignete Rollen**
 
 - Administrator-Agent
 - Globaler Administrator
 
-Durch Azure-Reservierungen und -Serverabonnements (Windows Server- und SQL Server-Abonnements) können Partner im CSP-Programm die schnell wachsende Kundennachfrage nach kostengünstigeren Lösungen zur Unterstützung höchst vorhersagbarer, beständiger Cloudworkloads besser erfüllen. 
+Durch Azure-Reservierungen und Serverabonnements können Partner im CSP-Programm die schnell wachsende Kundennachfrage nach kostengünstigeren Lösungen zur Unterstützung höchst vorhersehbarer, persistenter Cloudworkloads erfüllen. 
 
 Sie können jetzt Azure-Reservierungen und Serverabonnements im Auftrag von Geschäftskunden über das Partner Center und das Azure-Portal erwerben, bereitstellen und verwalten, indem Sie den Azure-Hybridvorteil nutzen.
 

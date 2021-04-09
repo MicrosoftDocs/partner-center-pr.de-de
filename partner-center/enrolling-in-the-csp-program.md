@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712272"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441811"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud-Lösungsanbieter
-
-**Zielgruppe**
-
-- Partner Center  
 
 **Geeignete Rollen**
 
@@ -34,7 +30,7 @@ Um sich beim Programm für Cloud Solution Provider zu registrieren, benötigen S
 
 Beim Ausfüllen der CSP-Anwendung benötigen Sie die MPN-ID Ihres Unternehmens, eine vollständige Geschäftsadresse, Bankverbindungen und die E-Mail-Adresse des Mitarbeiters, der als Administrator für Partner Center fungiert.
 
-1. Melden Sie sich mit Ihrer geschäftlichen E-Mail-Adresse (d. h. Ihren Azure AD-Mandanten-Anmeldeinformationen) bei Partner Center an.
+1. Melden Sie sich mit Ihrer geschäftlichen E-Mail-Adresse (d. h. Ihren Azure AD-Mandanten-Anmeldeinformationen) bei Partner Center an.
 
 2. Erstellen Sie Ihr Partnerprofil, und ordnen Sie Ihre MPN-ID Ihrem Profil zu.
 Die Überprüfung deiner Angaben kann mehrere Tage dauern. Wir werden Sie per E-Mail informieren, wenn unsere Überprüfung abgeschlossen ist.
@@ -73,7 +69,7 @@ Als Direktabrechnungspartner sind Sie die für die End-to-End-Beziehung mit Ihre
 |**MPN-ID**   |Eine aktive Mitgliedschaft im Microsoft Partner Network und eine MPN-ID für den Standort, an dem Sie Produkte vertreiben möchten.    |
 |**Zustimmung**   |Die Befugnis zum Akzeptieren und Signieren von Vereinbarungen im Namen Ihres Unternehmens|
 |**Support**   |Die Fähigkeit, Ihren Kunden Cloud-Produktunterstützung der ersten Ebene zu bieten. <br>Ein Microsoft-Supportplan, entweder Erweiterter Support für Partner (Advanced Support for Partners, ASfP) oder Premiumsupport für Partner (Premier Support for Partners, PSfP). [Supportpläne vergleichen](https://partner.microsoft.com/support/partnersupport).<br> WICHTIG: Sie müssen vor dem Erwerb eines Supportplans eine Bonitätsprüfung bestehen. Wir benachrichtigen Sie per E-Mail, wenn Sie die Bonitätsprüfung bestanden haben. |
-|**Umsatzanforderung**|Sie müssen in den vorangegangenen zwölf Monaten als indirekter Vertriebspartner einen Jahresumsatz von mindestens 300.000 USD im Rahmen des Cloud Solution Provider-Programms aufweisen. Partner können ihren Umsatz in den letzten zwölf Monaten im Partner Center überprüfen.<br/>Die Verkäufe, aus denen sich Ihr Umsatz von 300.000 USD in den letzten zwölf Monaten ergibt, werden von Microsoft geprüft, und Sie werden möglicherweise um zusätzliche Informationen gebeten. Die Umsatzanforderung von 300.000 USD wird auf Grundlage des Cloudumsatzes berechnet und schließt unbefristete Software in CSP aus.|
+|**Umsatzanforderung**|Sie müssen in den vorangegangenen zwölf Monaten als indirekter Wiederverkäufer einen Jahresumsatz von mindestens 300.000 USD im Rahmen des Cloud Solution Provider-Programms aufweisen. Partner können ihren Umsatz in den letzten zwölf Monaten im Partner Center überprüfen.<br/>Die Verkäufe, aus denen sich Ihr Umsatz von 300.000 USD in den letzten zwölf Monaten ergibt, werden von Microsoft geprüft, und Sie werden möglicherweise um zusätzliche Informationen gebeten. Die Umsatzanforderung von 300.000 USD wird auf Grundlage des Cloudumsatzes berechnet und schließt unbefristete Software in CSP aus.|
 |**Debitoren** |Infrastruktur zur Verwaltung der Kundenabrechnung und -bereitstellung|
 |**Empfehlung**|             |
 |**Managed Services**   |Mindestens einen verwalteten Service, einen IP-Service oder eine Kundenlösungsanwendung. Weitere Informationen zum Hinzufügen von [verwalteten Services](https://partner.microsoft.com/business-opportunities/managed-services-provider).|

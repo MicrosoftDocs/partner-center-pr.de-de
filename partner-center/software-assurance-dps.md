@@ -1,31 +1,43 @@
 ---
-title: Software Assurance-Planungsdienste
+title: Deaktivierung der Software Assurance-Planungsdienste
 ms.topic: article
-ms.date: 12/02/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Erfahren Sie, wie Sie sich bei Microsoft Planning Services Engagement registrieren und qualifizieren, damit Sie Kunden mit Software Assurance Schulungen und andere Dienste anbieten können.
+description: Die Microsoft-Planungsdienste werden eingestellt.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028222"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024992"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>Software Assurance-Planungsdienste in Partner Center
+# <a name="software-assurance-planning-services-retirement"></a>Deaktivierung der Software Assurance-Planungsdienste
 
 **Geeignete Rollen**
 
 - Globaler Administrator
 - MPN-Partneradministrator
 
-Als genehmigter Planungsdienste-Partner kompensiert Microsoft Sie bei der Bereitstellung von Planungs Verpflichtungen für Unternehmenskunden vor der Bereitstellung. Die Teilnahme an diesem Programm kann Ihnen helfen, mehr Kunden zu gewinnen, ihr zuverlässiger Planungspartner zu werden und zu weiteren Kundeneinsätzen führen.
 
-## <a name="get-started"></a>Erste Schritte
+Planungsdienste werden von den Vorteilen der Software Assurance vollständig außer Betrieb genommen, Kunden können jedoch weiterhin mit Partnern zusammenarbeiten, um Planungsdienst Tage für ihre Verpflichtungen zu verwenden, während die Gutscheine gültig sind. Dies sind die wichtigen Daten, die zur Programm Deaktivierung führen: 
+
+- 1. Februar 2020: die Planung von Cloud-Engagements in der Planung wurde eingestellt.  
+- 1. Februar 2020: Schulungs Gutscheine können nicht mehr in Planungsdienst Tage konvertiert werden.  
+- 1. Februar 2021: Kunden können die Vorteile der Planungsdienste nicht mehr nutzen. 
+- 30. Juni 2021: Letzter Tag für Kunden zum Erstellen/Zuweisen von Planungsdienst-Gutscheinen. Alle verbleibenden Planungsdienst Tage werden am 1. Juli 2021 entfernt.
+- 1. Januar 2022: Letzter Tag für Partner zum Einlösen von Planungsdienst-Gutscheinen. Der Partner erhält nach der Einlösung 60 Tage, um den Zahlungs Anforderungs Prozess abzuschließen.  
+
+>[!NOTE]
+>Es gibt keine Änderung am Lebenszyklus der Gutschein. Nachdem ein Gutschein erstellt/zugewiesen wurde, müssen die Gutschein Reservierung, das Kundenengagement und die Gutschein Einlösung innerhalb von 180 Tagen vor dem Ablauf des Gutscheins abgeschlossen werden.  Weitere Informationen zum Planen der Dienstprogramm-Deaktivierung finden Sie in den [hier](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) aufgeführten FAQs (Anmeldung erforderlich).  Wenden Sie sich an das Support Team für regionale Partner: Support Team für [EMEA](mailto:savoucher@msdirectservices.com). [Allgemeiner Partner Support](https://partner.microsoft.com/dashboard/support/servicerequests)
+
+## <a name="until-june-30-2021"></a>Bis zum 30. Juni 2021
+
+### <a name="get-started"></a>Erste Schritte
 
 Wenn Sie mit den Software Assurance-Planungs Diensten noch nicht vertraut sind, führen Sie die folgenden Schritte aus. Wenn Sie bereits in den Planungsdienst Programmen aktiv sind, beginnen Sie mit jeder neuen Verpflichtung bei Schritt 4 (4).
 
@@ -62,8 +74,6 @@ Wenn Ihr Unternehmen die Berechtigungsanforderungen erfüllt, können Sie die So
 
 Vergewissern Sie sich zunächst, dass alle [Planungsdienste-Programmrichtlinien](https://go.microsoft.com/fwlink/?linkid=2115984)überprüft werden. Befolgen Sie dann die Anweisungen in [Schritt 2](https://go.microsoft.com/fwlink/?linkid=2115983) des Workflows, um den Registrierungsprozess für die Planung von Diensten in Partner Center abzuschließen.
 
->[!NOTE]
-> Sie müssen Ihre Anforderungen erneuern und jedes Jahr erneut in den Planungsdienst Programmen anmelden.
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Erstellen oder Aktualisieren des Geschäfts Profils Ihres Unternehmens (neue Partner)
 

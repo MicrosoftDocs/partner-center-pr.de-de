@@ -1,28 +1,37 @@
 ---
-title: Software Assurance-Schulungs Beleg Programm
+title: Deaktivierung des Software Assurance-Schulungs Beleg Programms
 ms.topic: article
-ms.date: 12/09/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Erfahren Sie, wie Sie sich beim Software Assurance-Schulungs-Gutscheinprogramm registrieren, damit Sie für die Bereitstellung von Schulungen und Planung für Unternehmenskunden kompensiert werden können.
+description: Das Software Assurance-Schulungs Beleg Programm wird eingestellt.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926607"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024975"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>SATV-Programm (Software Assurance Training Voucher, Software Assurance-Trainingsgutschein) in Partner Center
+# <a name="training-vouchers-program-retirement"></a>Deaktivierungs Programm für Schulungs Gutscheine
 
-Fördern Sie das Wachstum Ihres Unternehmen, indem Sie sich bei Software Assurance-Partnerprogrammen registrieren. Microsoft vergütet Partner für die Bereitstellung von Schulungen, Planungs- und anderen Diensten für Unternehmenskunden mit Software Assurance.
+Schulungs Gutscheine werden von den Vorteilen der Software Assurance vollständig abgekoppelt, Kunden können jedoch weiterhin Gutschein Tage für Schulungsleiter verwenden, während die Gutscheine gültig sind. Dies sind die wichtigen Daten, die zur Programm Deaktivierung führen: 
 
-Als anerkannter Software Assurance-Schulungspartner vergütet Microsoft Sie für die Bereitstellung von technischen Schulungen für Unternehmenskunden im Austausch gegen Gutscheine, die sie mit Software Assurance erhalten. Die Teilnahme an diesem Programm kann Ihnen helfen, mehr Kunden zu gewinnen und deren vertrauenswürdiger Lernpartner zu werden.
+- 1. Februar 2020: das Azure-Training wurde aus dem Schulungs Beleg Katalog eingestellt.
+- 1. Februar 2020: Schulungs Gutscheine können nicht mehr in Planungsdienst Tage konvertiert werden.  
+- 1. Februar 2021: Kunden haben keine Schulungs Vorteile mehr. 
+- 30. Juni 2021: Letzter Tag für Kunden, Schulungs Gutscheine zu erstellen/zuzuweisen. Alle verbleibenden Schulungs Beleg Tage werden am 1. Juli 2021 entfernt.
+- 1. Januar 2022: Letzter Tag für Partner, um Schulungs Gutscheine einlösen zu können. Der Partner erhält nach der Einlösung 60 Tage, um den Zahlungs Anforderungs Prozess abzuschließen.  
 
-## <a name="get-started"></a>Erste Schritte
+>[!NOTE]
+>Es gibt keine Änderung am Lebenszyklus der Gutschein. Nachdem ein Gutschein erstellt/zugewiesen wurde, müssen die Reservierungs Reservierung, die Trainings Sitzungen und die Gutschein Einlösung innerhalb von 180 Tagen vor dem Ablauf des Gutscheins abgeschlossen werden.  Weitere Informationen zum Zurücksetzen des Trainings-debugdens finden Sie in den [hier](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) aufgeführten FAQs (Anmeldung erforderlich).  Sehen Sie sich die vollständige Liste der für SATV berechtigten Schulungskurse im Schulungs Vorteil-Produktkatalog an.  Wenden Sie sich an das Support Team für regionale Partner: Support Team für [EMEA](mailto:savoucher@msdirectservices.com). [Allgemeiner Partner Support](https://partner.microsoft.com/dashboard/support/servicerequests).
+
+## <a name="until-june-30-2021"></a>Bis zum 30. Juni 2021
+
+### <a name="get-started"></a>Erste Schritte
 
 Wenn Sie noch nicht mit den Software Assurance-Schulungs Diensten vertraut sind, führen Sie die folgenden Schritte aus. Wenn Sie bereits im Schulungs Beleg Programm aktiv sind, beginnen Sie mit Schritt 4 (4) unten. 
 

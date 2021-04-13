@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: b08ac8d76324270f32db481a92387b20650f42f5
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024975"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266485"
 ---
 # <a name="training-vouchers-program-retirement"></a>Deaktivierungs Programm für Schulungs Gutscheine
 
@@ -29,7 +29,7 @@ Schulungs Gutscheine werden von den Vorteilen der Software Assurance vollständi
 >[!NOTE]
 >Es gibt keine Änderung am Lebenszyklus der Gutschein. Nachdem ein Gutschein erstellt/zugewiesen wurde, müssen die Reservierungs Reservierung, die Trainings Sitzungen und die Gutschein Einlösung innerhalb von 180 Tagen vor dem Ablauf des Gutscheins abgeschlossen werden.  Weitere Informationen zum Zurücksetzen des Trainings-debugdens finden Sie in den [hier](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) aufgeführten FAQs (Anmeldung erforderlich).  Sehen Sie sich die vollständige Liste der für SATV berechtigten Schulungskurse im Schulungs Vorteil-Produktkatalog an.  Wenden Sie sich an das Support Team für regionale Partner: Support Team für [EMEA](mailto:savoucher@msdirectservices.com). [Allgemeiner Partner Support](https://partner.microsoft.com/dashboard/support/servicerequests).
 
-## <a name="until-june-30-2021"></a>Bis zum 30. Juni 2021
+
 
 ### <a name="get-started"></a>Erste Schritte
 

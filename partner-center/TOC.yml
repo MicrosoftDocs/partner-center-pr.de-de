@@ -12,8 +12,6 @@
     - name: Erstellen eines MPN-Kontos im Partner Center
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
-    - name: Beziehen einer geschäftlichen E-Mail-Adresse
-      href: buy-email-domain.md
     - name: Problembehandlung der Kontoeinrichtung
       href: troubleshoot-account-sign-n.md
     - name: Wechsel zum Partner Center
@@ -246,7 +244,7 @@
           href: reset-a-user-password.md
         - name: Zurücksetzen des eigenen Kennworts
           href: reset-my-pasword.md
-        - name: Benutzer kann sich nicht anmelden
+        - name: Beheben von Problemen bei der Anmeldung
           href: unable-to-sign-in.md
         - name: Benutzer hat keinen MPN-Administrator
           href: no-mpn-admin.md
@@ -390,8 +388,6 @@
     - name: Grundlagen zur Abrechnung
       href: billing-basics.md
       displayName: invoice
-    - name: Abrechnungsarten in Partner Center
-      href: billing-different-types.md
     - name: Erläuterungen zur Rechnung
       href: read-your-bill.md
       displayName: invoice

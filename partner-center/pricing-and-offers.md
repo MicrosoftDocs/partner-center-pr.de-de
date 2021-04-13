@@ -178,7 +178,7 @@ Die meisten Preislisten enthalten einen Listenpreis, den Preis, der dem Partner 
 |Produkt oder Dienst  |Details zur ERP-und MSRP-Preisliste  |
 |Lizenzbasierte Dienste  |In den lizenzbasierten Preislisten als ERP aufgeführt  |
 |Nutzungsbasierte Azure-Dienste  |Finden Sie in den entsprechenden Preislisten für gemeinsame Dienste.  |
-|Azure-Reservierungen  |Finden Sie in den entsprechenden Preislisten für gemeinsame Dienste.  |
+|Azure Reservations  |Finden Sie in den entsprechenden Preislisten für gemeinsame Dienste.  |
 |Verwendung basierend auf Azure-Plänen  |Preise sind nicht Rabatt in Preistabellen  |
 |Azure-Plan Reservierungen  |Referenz zu Preislisten für gemeinsame Dienste von Azure-Reservierungen  |
 |Softwareabonnements  |Aufgeführt als msrp in den Preislisten zu Software Abonnements  |

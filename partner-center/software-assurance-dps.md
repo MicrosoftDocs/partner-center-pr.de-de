@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024992"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266502"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Deaktivierung der Software Assurance-Planungsdienste
 
@@ -35,7 +35,6 @@ Planungsdienste werden von den Vorteilen der Software Assurance vollständig au�
 >[!NOTE]
 >Es gibt keine Änderung am Lebenszyklus der Gutschein. Nachdem ein Gutschein erstellt/zugewiesen wurde, müssen die Gutschein Reservierung, das Kundenengagement und die Gutschein Einlösung innerhalb von 180 Tagen vor dem Ablauf des Gutscheins abgeschlossen werden.  Weitere Informationen zum Planen der Dienstprogramm-Deaktivierung finden Sie in den [hier](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) aufgeführten FAQs (Anmeldung erforderlich).  Wenden Sie sich an das Support Team für regionale Partner: Support Team für [EMEA](mailto:savoucher@msdirectservices.com). [Allgemeiner Partner Support](https://partner.microsoft.com/dashboard/support/servicerequests)
 
-## <a name="until-june-30-2021"></a>Bis zum 30. Juni 2021
 
 ### <a name="get-started"></a>Erste Schritte
 

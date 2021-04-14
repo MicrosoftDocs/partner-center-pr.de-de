@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502866"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964339"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Übersicht über Partnerangebote im Cloud Solution Provider-Programm
 
@@ -105,6 +105,15 @@ Um Produkte und Dienstleistungen im Auftrag Ihrer CSP-Kunden zu kaufen, wählen 
 
 8. Die Details Ihrer Bestellung, einschließlich Ihrer Bestellnummer, werden auf der nächsten Seite angezeigt. Klicken Sie auf **Fertig**, und wechseln Sie zur Seite **Bestellverlauf**.
 
+### <a name="customer-order-history"></a>Bestellverlauf des Kunden
+
+So zeigen Sie den Bestellverlauf eines Kunden an:
+
+1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an.
+2. Wählen Sie im Menü auf der linken Seite **Kunden** aus.
+3. Suchen Sie auf der Seite **Kunden** nach dem Kunden, dessen Bestellverlauf Sie anzeigen möchten. Wählen Sie die NACH-UNTEN-TASTE aus, um den Datensatz des Kunden zu erweitern.
+4. Wählen Sie **Bestellungen anzeigen** aus, um den Bestellverlauf des Kunden anzuzeigen.
+ 
 ## <a name="rules-for-special-segments"></a>Regeln für spezielle Segmente
 
 Einige lizenzbasierte Angebote können nur unter bestimmten Bedingungen erworben werden. Zu den speziellen Segmentangeboten gehören Angebote für Bildungseinrichtungen, gemeinnützige Organisationen und GCC (Government Community Cloud). Details zu diesen Kaufbedingungen finden Sie im Thema [Kaufregeln für spezielle Segmente](get-special-pricing-for-offers.md#purchase-rules-for-special-segments).

@@ -6,15 +6,15 @@ description: Erfahren Sie, wie Sie Ihre Unternehmensdetails überprüfen, z. B.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/10/2021
+ms.date: 04/12/2021
 ms.localizationpriority: medium
-ms.custom: contperf-fy21q3
-ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.custom: contperf-fy21q4
+ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712595"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315869"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Überprüfen oder Aktualisieren Ihrer Unternehmensprofilinformationen 
 
@@ -92,6 +92,17 @@ So aktualisieren Sie die MPN-ID, die Ihrem CSP-Konto zugeordnet ist:
 ## <a name="update-your-csp-legal-billing-address"></a>Aktualisieren Ihrer juristischen Adresse auf der CSP-Abrechnung
 
 Wenn Sie der globale Administrator, Abrechnungsadministrator oder Administrator-Agent sind, können Sie die auf Ihrer Rechnung angezeigte Adresse in Ihrem **Auszahlungs- und Steuerprofil** ändern. Sie können jedoch den Unternehmensnamen auf Ihrer Rechnung aufgrund einer Einschränkung des Rechnungssystems nicht ändern.
+
+:::image type="content" source="images/billing-profile.png" alt-text="Screenshot des Bereichs, in dem Abrechnungsinformationen hinzugefügt werden":::
+
+|**Feld**  |**Beschreibung**|  
+|---------------------|:------------------|
+|Firmenname des Rechnungsempfängers|Der Firmenname, der in den Informationen zum Rechnungsempfänger auf Ihrer CSP-Rechnung angezeigt wird.  Dieser kann in Partner Center nicht bearbeitet werden.  Zum Aktualisieren erstellen Sie ein Supportticket.|
+|Rechnungsadresse|Die auf der CSP-Rechnung angegebene Rechnungsadresse. Kann über das [Abrechnungsprofil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial) aktualisiert werden.|
+|Rechnungskontakt|Die Details zum Rechnungskontakt (Vorname, Nachname, primäre Nummer) für das CSP-Konto.  Kann über das [Abrechnungsprofil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial) aktualisiert werden.|
+|Auftragsnummer|Die Auftragsnummer, die auf der Partnerrechnung angezeigt wird.  Kann über das [Abrechnungsprofil](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial) aktualisiert werden.|
+|Steuernummer des Unternehmens|Unternehmen in einigen Ländern können ihre [Umsatzsteuernummer oder eine lokale Entsprechung](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number) angeben. Um Ihre Steuer-/USt-IdNr. zu aktualisieren, müssen Sie ein globaler Administrator, Abrechnungsadministrator oder Administrator-Agent sein.|
+|Abrechnungswährung|Die Abrechnungswährung für Ihr CSP-Konto wird durch das rechtsgültige Land des CSP-Kontos bestimmt.  Dies kann nach der Erstellung des CSP-Kontos nicht geändert werden.|
 
 
 ## <a name="next-steps"></a>Nächste Schritte

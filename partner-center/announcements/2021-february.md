@@ -10,39 +10,41 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 79d492fa907f9d2b9318ba9fa9850401b61a2b7d
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/08/2021
+ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280903"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266468"
 ---
 # <a name="february-2021-announcements"></a>Ankündigungen für Februar 2021
 
 Auf dieser Seite finden Sie Informationen zu den Ankündigungen vom Februar 2021 für Microsoft Partner Center.
 
 ________________
-## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14"></a> PUT-Qualifizierungs-APIs sind eingestellt, GET-Qualifizierung wird im Mai eingestellt
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>Erinnerung: Einstellung der GET-Qualifizierung am 4. Mai 2021
 
 ### <a name="categories"></a>Kategorien
 
-- Datum: 25. Februar 2021
+- Datum: 09.04.2021
 - Funktionen
 
 ### <a name="impacted-audience"></a>Zielgruppe
 
-Partner, die Angebote für Bildungseinrichtungen, gemeinnützige Organisationen und GCC im Rahmen des Cloud Solution Provider-Programms über die Partner Center-API vertreiben
+Partner, die Angebote für Bildungseinrichtungen, gemeinnützige Organisationen und GCC (Government Community Cloud) im Rahmen des Cloud Solution Provider-Programms über die Partner Center-API vertreiben
 
 ### <a name="details"></a>Details
 
-Diese Ankündigung ist eine Weiterführung zu den [im Dezember veröffentlichten Verbesserungen](2020-december.md#1) im Partner Center. Im Rahmen dieser Veröffentlichung wurden neue GET- und POST-Qualifizierungs-APIs bereitgestellt. Infolgedessen wurden **die vorhandenen PUT-Qualifizierungs-APIs deaktiviert, und die GET-Qualifizierung wird zum 4. Mai 2021 eingestellt**. Sobald dies geschieht, müssen Sie zur Verwendung der neuen POST-APIs in Partner Center wechseln, um Angebote für Bildungseinrichtungen zu erwerben. Ebenso müssen Sie die neue GET-Qualifizierung-API verwenden, um vorab qualifizierte Angebote für gemeinnützige Organisationen und GCC erwerben zu können.
+Diese Ankündigung ist eine Weiterführung zu den [im Dezember veröffentlichten Verbesserungen](https://docs.microsoft.com/partner-center/announcements/2020-december#1) in Partner Center. Im Rahmen dieser Veröffentlichung wurden neue GET- und POST-Qualifizierungs-APIs bereitgestellt. Infolgedessen wird die vorhandene GET-Qualifizierung zum 4. Mai 2021 eingestellt. Zu diesem Zeitpunkt müssen Sie auf die Verwendung der neuen POST-APIs in Partner Center umgestellt haben, um Angebote für Bildungseinrichtungen zu erwerben, sowie auf die neue GET-Qualifizierungs-API, um vorab qualifizierte Angebote für gemeinnützige Organisationen und GCC zu erwerben.
 
 ### <a name="next-steps"></a>Nächste Schritte
 
-- **Führen Sie eine Aktualisierung auf die neuen APIs** für eine erfolgreiche und rechtzeitige Umstellung aus.
-- **Informieren Sie sich über die neuen Änderungen der Partner Center-APIs, und lesen Sie die Anleitungen** in den Operations Readiness-Ressourcen: [Verbesserungen des Überprüfungsprozesses für Kunden im Bildungswesen im Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
-- **Leiten Sie diese Informationen an die entsprechenden Teams in Ihrer Organisation und Ihre Handelspartner weiter**, um sie bei der Vorbereitung auf diese Änderungen zu unterstützen.
+- Führen Sie für eine erfolgreiche und rechtzeitige Umstellung eine Aktualisierung auf die neuen APIs durch.
+
+- Informieren Sie sich über die neuen Änderungen der Partner Center-API, und lesen Sie die Anleitungen in den Operations Readiness-Ressourcen: [Verbesserungen des Überprüfungsprozesses für Kunden im Bildungswesen in Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+
+- Leiten Sie diese Informationen an die entsprechenden Teams in Ihrer Organisation und Ihre Handelspartner weiter, um sie bei der Vorbereitung auf diese Änderungen zu unterstützen.
 
 ### <a name="questions"></a>Haben Sie Fragen?
 
@@ -50,8 +52,10 @@ Bei Fragen im Zusammenhang mit dieser Benachrichtigung wenden Sie sich an den [P
 
 ### <a name="change-log"></a>Änderungsprotokoll
 
+- April: Erinnerung an die anstehende Einstellung der GET-Qualifizierung 
 - Februar: Aktualisierte Zeitpläne für die Einstellung von GET- und PUT-Qualifizierungen
 - Januar: Erinnerung an die anstehende Einstellung von GET- und PUT-Qualifizierungen
+
 
 ________________
 ## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Gemeinsame Nutzung von Co-Selling-Deals in großem Umfang mithilfe der Partner Center-Funktion für Massenvorgänge
@@ -475,7 +479,7 @@ Alle Partner
 
 Microsoft bietet eine Verlängerung von Kompetenzen (mit Ausnahme der Cloud Business Applications-Kompetenz) und erweiterten Spezialisierungen für Partner mit Jahrestagen zwischen dem 1. Januar 2021 und dem 30. Juni 2021. Weitere Informationen finden Sie im [Partnerblogbeitrag](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
 ________________
-## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Neue Updates für das Modul „Empfehlungen“ im Partner Center
+## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Neue Updates für das Modul „Empfehlungen“ in Partner Center
 
 ### <a name="categories"></a>Kategorien
 
@@ -486,21 +490,21 @@ ________________
 
 - Partner mit Co-Selling-Angeboten
 - Partner mit einem transaktionsfähigen Angebot, das eine für Incentives berechtigte Azure-Lösung im kommerziellen Marketplace verwendet
-- Alle Partner, die das Modul „Empfehlungen“ im Partner Center verwenden
+- Alle Partner, die das Modul „Empfehlungen“ in Partner Center verwenden
 
 ### <a name="details"></a>Details
 
-Zu Beginn des neuen Jahres werden weitere Funktionen hinzugefügt, um die Co-Selling-Möglichkeiten im Partner Center zu verbessern und zu erweitern. Mithilfe dieser neuen Funktionen können Sie die Geschwindigkeit von Angeboten erhöhen, den Zugriff für Verkäufer erweitern und Ihr Geschäft besser skalieren. Diese neuen Ergänzungen werden im Modul „Empfehlungen“ eingeführt und helfen Ihnen, mehr Kunden über andere Microsoft-Partner oder Microsoft-Verkäufer zu erreichen, während Sie Ihre Pipeline mit Microsoft an einem zentralen Ort verwalten.  
+Zu Beginn des neuen Jahres werden weitere Funktionen hinzugefügt, um die Co-Selling-Möglichkeiten in Partner Center zu verbessern und zu erweitern. Mithilfe dieser neuen Funktionen können Sie die Geschwindigkeit von Angeboten erhöhen, den Zugriff für Verkäufer erweitern und Ihr Geschäft besser skalieren. Diese neuen Ergänzungen werden im Modul „Empfehlungen“ eingeführt und helfen Ihnen, mehr Kunden über andere Microsoft-Partner oder Microsoft-Verkäufer zu erreichen, während Sie Ihre Pipeline mit Microsoft an einem zentralen Ort verwalten.  
 
-Nachfolgend sind die Neuerungen im Modul „Empfehlungen“ im Partner Center aufgeführt:
+Nachfolgend sind die Neuerungen im Modul „Empfehlungen“ in Partner Center aufgeführt:
 
-#### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Alle Partner, die das Modul „Empfehlungen“ im Partner Center verwenden  
+#### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Alle Partner, die das Modul „Empfehlungen“ in Partner Center verwenden  
 
 - [Erstellen neuer SMB-Verbindungen](../connect-with-your-customers.md): Co-Selling und Zusammenarbeit mit Microsoft-Verkäufern, um eingehende Verkaufschancen in Bezug auf SMB-Kunden zu erhalten.
 
 - [Erweitern von Empfehlungsberechtigungen](../permissions-overview.md#manage-referrals): Zuweisen von Empfehlungsberechtigungen für Benutzer, je nachdem, ob diese über Administratorberechtigungen (Zugriff auf alle Co-Selling-Verkaufschancen) oder Benutzerberechtigungen (Zugriff auf spezifische Co-Selling-Verkaufschancen des Benutzers) verfügen sollen.
 
-- [Migration von Partner Sales Connect-Benutzern](../psc-to-pc.md#user-migration): Zuordnen vorhandener Partner Sales Connect-Benutzerberechtigungen zu den entsprechenden Berechtigungen von Empfehlungsadministratoren und Empfehlungsbenutzern im Partner Center und anschließende Massenanwendung der neuen Berechtigungen für Benutzer. Lesen Sie die [Dokumentation zu Empfehlungsberechtigungen](../permissions-overview.md#manage-referrals), um mehr über die Verwaltung von Empfehlungen zu erfahren.  
+- [Migration von Partner Sales Connect-Benutzern](../psc-to-pc.md#user-migration): Zuordnen vorhandener Partner Sales Connect-Benutzerberechtigungen zu den entsprechenden Berechtigungen von Empfehlungsadministratoren und Empfehlungsbenutzern in Partner Center und anschließende Massenanwendung der neuen Berechtigungen für Benutzer. Lesen Sie die [Dokumentation zu Empfehlungsberechtigungen](../permissions-overview.md#manage-referrals), um mehr über die Verwaltung von Empfehlungen zu erfahren.  
 
 #### <a name="partners-with-co-sell-ready-offers"></a>Partner mit Co-Selling-Angeboten
 
@@ -530,12 +534,12 @@ Partner, die Angebote für Bildungseinrichtungen, gemeinnützige Organisationen 
 
 ### <a name="details"></a>Details
 
-Diese Ankündigung ist eine Weiterführung zu den [im Dezember veröffentlichten Verbesserungen](./2020-december.md#1) im Partner Center. Im Rahmen dieser Veröffentlichung wurden neue GET- und POST-Qualifizierungs-APIs bereitgestellt. Infolgedessen werden **die vorhandenen PUT-Qualifizierungs-APIs im Partner Center zum 25. Februar 2021 und die GET-Qualifizierung zum 4. Mai 2021 deaktiviert**. Ab diesem Zeitpunkt müssen Sie auf die Verwendung der neuen POST-APIs im Partner Center umgestellt haben, um Angebote für Bildungseinrichtungen erwerben zu können, sowie auf die neuen GET-Qualifizierungs-APIs, um vorab qualifizierte Angebote für gemeinnützige Organisationen und GCC erwerben zu können.
+Diese Ankündigung ist eine Weiterführung zu den [im Dezember veröffentlichten Verbesserungen](./2020-december.md#1) in Partner Center. Im Rahmen dieser Veröffentlichung wurden neue GET- und POST-Qualifizierungs-APIs bereitgestellt. Infolgedessen werden **die vorhandenen PUT-Qualifizierungs-APIs in Partner Center zum 25. Februar 2021 und die GET-Qualifizierung zum 4. Mai 2021 deaktiviert**. Ab diesem Zeitpunkt müssen Sie auf die Verwendung der neuen POST-APIs in Partner Center umgestellt haben, um Angebote für Bildungseinrichtungen erwerben zu können, sowie auf die neue GET-Qualifizierungs-API, um vorab qualifizierte Angebote für gemeinnützige Organisationen und GCC erwerben zu können.
 
 ### <a name="next-steps"></a>Nächste Schritte
 
 - **Führen Sie eine Aktualisierung auf die neuen APIs** für eine erfolgreiche und rechtzeitige Umstellung aus.
-- **Informieren Sie sich über die neuen Änderungen der Partner Center-APIs, und lesen Sie die Anleitungen** in den Operations Readiness-Ressourcen: [Verbesserungen des Überprüfungsprozesses für Kunden im Bildungswesen im Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- **Informieren Sie sich über die neuen Änderungen der Partner Center-APIs, und lesen Sie die Anleitungen** in den Operations Readiness-Ressourcen: [Verbesserungen des Überprüfungsprozesses für Kunden im Bildungswesen in Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 - **Leiten Sie diese Informationen an die entsprechenden Teams in Ihrer Organisation und Ihre Handelspartner weiter**, um sie bei der Vorbereitung auf diese Änderungen zu unterstützen.
 
 ### <a name="questions"></a>Haben Sie Fragen?

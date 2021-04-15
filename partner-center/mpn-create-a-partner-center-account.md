@@ -1,7 +1,7 @@
 ---
-title: Erstellen eines MPN-Kontos im Partner Center
+title: Erstellen eines MPN-Kontos in Partner Center
 ms.topic: article
-ms.date: 03/18/2021
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Mitglieder im Microsoft Partner Network ein Partner Center-Konto erstellen können, um ihre Netzwerkvorteile und Kompetenzen zu verwalten.
@@ -9,23 +9,23 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712918"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266536"
 ---
-# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Erstellen eines MPN-Kontos im Partner Center zum Verwalten von Netzwerkvorteilen und Kompetenzen
+# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Erstellen eines MPN-Kontos in Partner Center zum Verwalten von Netzwerkvorteilen und Kompetenzen
 
 
 Wenn Sie das Microsoft Partner Network (MPN) zum ersten Mal verwenden und noch keine MPN-ID besitzen, können Sie mit der Registrierung anhand der [Registrierungsanweisungen](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) beginnen.
 
 ## <a name="prerequisites"></a>Voraussetzungen 
 
-Wenn Sie ein Konto im Partner Center erstellen möchten, müssen Sie die folgenden Voraussetzungen erfüllen.  Es empfiehlt sich unter Umständen, vor Beginn des Vorgangs folgende Angaben zu sammeln:
+Wenn Sie ein Konto in Partner Center erstellen möchten, müssen Sie die folgenden Voraussetzungen erfüllen.  Es empfiehlt sich unter Umständen, vor Beginn des Vorgangs folgende Angaben zu sammeln:
 
-- Geschäftliche E-Mail-Adresse des Unternehmens ODER Office 365-Geschäftskonto. Weitere Informationen finden Sie unter [Geschäftskonto des Unternehmens und Partner Center](azure-active-directory-tenants-and-partner-center.md). 
+- Geschäftliche E-Mail-Adresse des Unternehmens ODER Office 365-Geschäftskonto. Ihr Unternehmen muss möglicherweise eine E-Mail-Domäne erwerben, damit Sie geschäftliche E-Mail-Adressen für Ihre Mitarbeiter einrichten können. Weitere Informationen findest du unter [Das Geschäftskonto deines Unternehmens und Partner Center](azure-active-directory-tenants-and-partner-center.md). 
  
 - Offizieller geschäftlicher Name und geschäftliche Anschrift Ihres Unternehmens.
 

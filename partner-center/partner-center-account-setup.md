@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 08499c306079d0cb900d528247309afdf21b23bb
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132280"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315897"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Verwalten Ihres Partner Center-Kontos – Unternehmensprofil, Bankdetails, Rollen, Berechtigungen und mehr
 
@@ -23,7 +23,7 @@ ms.locfileid: "106132280"
 - Globaler Administrator
 - Kontoadministrator
 
-Das Konto, das Sie bei der Registrierung im Partner Center erstellen, besteht aus Ihrer geschäftlichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem Sie ein Konto erstellt haben, müssen Sie die Einrichtung des vollständigen Unternehmensprofils abschließen (einschließlich Supportinformationen, ggf. Steuerbefreiungen und Angaben zum Hauptansprechpartner). Das Konto Ihres Unternehmens enthält auch Benutzerkonten für alle Personen in Ihrem Team, die Partner Center verwenden. Zu deren Aufgaben zählen u. a. das Hinzufügen oder Verwalten von Kunden, das Verkaufen von Abonnements, das Arbeiten mit Abrechnung und Fakturierung, das Erstellen von Geschäftsprofilen, das Verwalten von Empfehlungen, das Arbeiten mit Incentiveprogrammen, das Bereitstellen von Support usw.
+Das Konto, das Sie bei der Registrierung in Partner Center erstellen, besteht aus Ihrer geschäftlichen E-Mail-Adresse und Ihren Geschäftsinformationen. Nachdem Sie ein Konto erstellt haben, müssen Sie die Einrichtung des vollständigen Unternehmensprofils abschließen (einschließlich Supportinformationen, ggf. Steuerbefreiungen und Angaben zum Hauptansprechpartner). Das Konto Ihres Unternehmens enthält auch Benutzerkonten für alle Personen in Ihrem Team, die Partner Center verwenden. Zu deren Aufgaben zählen u. a. das Hinzufügen oder Verwalten von Kunden, das Verkaufen von Abonnements, das Arbeiten mit Abrechnung und Fakturierung, das Erstellen von Geschäftsprofilen, das Verwalten von Empfehlungen, das Arbeiten mit Incentiveprogrammen, das Bereitstellen von Support usw.
 
 Weitere Informationen finden Sie auch in den Artikeln [Einladen von Mitarbeitern in das Partner Center](guide-to-migration.md) und [Hinzufügen eines neuen Benutzer](create-user-accounts-and-set-permissions.md).
 

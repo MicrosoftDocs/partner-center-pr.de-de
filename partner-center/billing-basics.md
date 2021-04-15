@@ -1,22 +1,22 @@
 ---
-title: Übersicht über die Abrechnung im Partner Center
+title: Übersicht über die Abrechnung in Partner Center
 ms.topic: article
 ms.date: 01/28/2021
-description: Informieren Sie sich über die grundlegende Abrechnung und Rechnungsstellung für CSP-Partner im Partner Center. Sie erfahren auch, wie Kunden abgerechnet werden und wie Sie Ihre Rechnung suchen und lesen können.
+description: Informieren Sie sich über die grundlegende Abrechnung und Rechnungsstellung für CSP-Partner in Partner Center. Sie erfahren auch, wie Kunden abgerechnet werden und wie Sie Ihre Rechnung suchen und lesen können.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042717"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964373"
 ---
-# <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Abrechnungsübersicht für CSP-Programmpartner, die im Partner Center arbeiten 
+# <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>Abrechnungsübersicht für CSP-Programmpartner, die in Partner Center arbeiten 
 
 **Geeignete Rollen**
 
@@ -26,7 +26,7 @@ ms.locfileid: "99042717"
 - Helpdesk-Agent
 - Vertriebsbeauftragter
 
-Dieser Artikel enthält grundlegende Informationen über die Abrechnung und Rechnungsstellung für CSP-Partner im Partner Center, einschließlich der Abrechnung von Kunden und der Vorgehensweise zum Auffinden und Lesen Ihrer Rechnung.
+Dieser Artikel enthält grundlegende Informationen über die Abrechnung und Rechnungsstellung für CSP-Partner in Partner Center, einschließlich der Abrechnung von Kunden und der Vorgehensweise zum Auffinden und Lesen Ihrer Rechnung.
 
 
 ## <a name="find-your-bill"></a>Auffinden Ihrer Rechnung
@@ -67,11 +67,7 @@ Bei einmaliger und wiederkehrender Abrechnung ist der Abrechnungszeitraum am Kal
 
 Preislisten werden monatlich aktualisiert. Vorschaupreislisten sind einen (1) Monat im Voraus verfügbar.
 
-So zeigen Sie Preislisten an:
-
-1. [Melden Sie sich beim Partner Center-Dashboard an](https://partner.microsoft.com/dashboard/home).
-2. Wählen Sie im Menü auf der linken Seite **Verkaufen** aus, und wählen Sie dann **Preise und Angebote** aus.
-3. Auf der Seite **Preise und Angebote** finden Sie die Preislisten für 6 Monate (einschließlich des aktuellen Monats) und die Vorschaupreislisten (falls zutreffend).
+Zum Anzeigen der neuesten Cloud Solution Provider-Programme und -Angebote rufen Sie das Parterportal-Dashboard und dann **Verkaufen > Preise und Angebote** auf. Dort finden Sie separate Preislisten für die verschiedenen verfügbaren Produkttypen. Die folgenden Preislisten stehen auf der Seite **Preise und Angebote** zur Verfügung:
 
 **Lizenzbasierte** Preise werden für die Dauer des Abonnements (in der Regel 12 Monate nach dem Kaufdatum) garantiert. 
 
@@ -87,7 +83,7 @@ Die Zahlungsbedingungen sind 60 Tage netto. Rechnungen müssen bis zum Fälligke
 
 Sie können den vollen Funktionsumfang Ihrer ausgesetzten Konten zurückerhalten, wenn Sie den fälligen Betrag zahlen.
 
-Sobald die korrigierten Abrechnungsinformationen bereitgestellt wurden, wird Ihre Zahlung innerhalb von fünf Werktagen auf der Abrechnungsseite im Partner Center angezeigt.
+Sobald die korrigierten Abrechnungsinformationen bereitgestellt wurden, wird Ihre Zahlung innerhalb von fünf Werktagen auf der Abrechnungsseite in Partner Center angezeigt.
 
 ### <a name="taxes-and-vat"></a>Steuern und Mehrwertsteuer
 
@@ -99,19 +95,6 @@ Für eine **Freistellung von der Umsatzsteuer (USt)** müssen Sie Ihre Umsatzste
 
 Weitere Steuerinformationen erhalten Sie von Ihrem örtlichen Finanzamt oder Steuerberater.
 
-### <a name="change-billing-frequency"></a>Ändern der Abrechnungshäufigkeit
-
-Die Abrechnungshäufigkeit wird auf Bestellebene geändert, und sobald die Häufigkeit geändert wurde, wird der überarbeitete Abrechnungszyklus auf alle Abonnements in dieser Bestellung angewendet. 
-
-So ändern Sie die Abrechnungshäufigkeit für einen Onlinedienst für einen Kunden:
-
-1. [Melden Sie sich beim Partner Center-Dashboard an](https://partner.microsoft.com/dashboard/home).
-2. Wählen Sie im Menü auf der linken Seite **Kunden** aus.
-3. Wählen Sie den Kunden aus, dessen Abonnementabrechnungshäufigkeit Sie ändern möchten.
-4. Wählen Sie auf der Seite **Abonnements** des Kunden das Abonnement aus, das Sie ändern möchten.
-5. Wählen Sie auf der Seite **Details** unter **Fakturierungsintervall** entweder **Monatlich** oder **Jährlich** aus. Es wird Ihnen eine Bestätigungsseite mit wichtigen Informationen zum Ändern der Abrechnungshäufigkeit sowie eine Liste der Abonnements angezeigt, die gleich geändert werden.
-6. Wählen Sie **OK** aus, damit die Änderung vorgenommen wird (oder **Abbrechen**, um sie rückgängig zu machen).
-
 ### <a name="adjustmentscreditscancellations"></a>Anpassungen/Guthaben/Kündigungen
 
 Gutschriften für Kündigungen für lizenzbasierte Dienste werden bei Kündigungen in der Zyklusmitte für nicht genutzte Tage anteilsmäßig berechnet (und Lizenzreduzierungen entsprechend dieser Formel):
@@ -121,6 +104,7 @@ Gutschriften für Kündigungen für lizenzbasierte Dienste werden bei Kündigung
 Microsoft stellt keine Gebühren für eine vorzeitige Beendigung bei der Kündigung lizenzbasierter Dienste in Rechnung.
 
 ### <a name="billing-rules"></a>Abrechnungsregeln
+
 Heute gibt es zwei Arten von Abrechnungshäufigkeiten: Jährlich und monatlich.  
 Getaktete Dienstleistungspreise können sich innerhalb des Abrechnungszyklus ändern.
 
@@ -146,24 +130,6 @@ Getaktete Dienstleistungspreise können sich innerhalb des Abrechnungszyklus än
 
 - Die Ihnen zugesendete Rechnung enthält nur die für den jeweiligen Monat anfallenden Gebühren. 
 
-## <a name="manage-one-time-billing"></a>Verwalten von einmaliger Abrechnung
-
-### <a name="billing-status-invoices-and-reconciliation-files"></a>Abrechnungsstatus, Rechnungen und Kontenabstimmungsdateien
-
-Gehen Sie zum Anzeigen Ihres aktuellen Abrechnungsstatus, Ihrer Rechnungen und Kontenabstimmungsdateien folgendermaßen vor:
-
-1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an.
-2. Wählen Sie im Menü auf der linken Seite **Abrechnung** und dann **Wiederkehrende und einmalige Käufe** aus.
-3. Wählen Sie auf der Seite „Abrechnungsstatus“ eine Rechnung oder Kontenabstimmungsdatei aus, um ausführlichere Informationen anzuzeigen.
-
-### <a name="customer-order-history"></a>Bestellverlauf des Kunden
-
-So zeigen Sie den Bestellverlauf eines Kunden an:
-
-1. Melden Sie sich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an.
-2. Wählen Sie im Menü auf der linken Seite **Kunden** aus.
-3. Suchen Sie auf der Seite **Kunden** nach dem Kunden, dessen Bestellverlauf Sie anzeigen möchten. Wählen Sie die NACH-UNTEN-TASTE aus, um den Datensatz des Kunden zu erweitern.
-4. Wählen Sie **Bestellungen anzeigen** aus, um den Bestellverlauf des Kunden anzuzeigen.
 
 ### <a name="credit-notes"></a>Gutschriften
 
@@ -178,3 +144,6 @@ Sie könnten müssen ggf. aus folgenden Gründen eine Gutschrift oder Neuberechn
 
 - [Grundlegendes zur Rechnungs- und Abstimmungsdatei](read-your-bill.md)
 - [Allgemeine Abrechnungsszenarien für CSP-Programmpartner](common-billing-scenarios.md)
+- [Ändern der Abrechnungshäufigkeit](common-billing-scenarios.md)
+- [Bestellverlauf des Kunden](csp-offers.md) 
+- [Preise und Angebote](pricing-and-offers.md)

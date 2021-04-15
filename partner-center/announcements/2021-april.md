@@ -10,17 +10,51 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 2cd791425fd30d18b8db5f999eb773fc0e2f37e6
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.date: 04/08/2021
+ms.openlocfilehash: 441d41e6212399657124b6116e1f2c05ce734211
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374432"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266519"
 ---
 # <a name="april-2021-announcements"></a>Ankündigungen für April 2021
 
 Auf dieser Seite finden Sie die Ankündigungen vom April 2021 für Microsoft Partner Center.
+
+________________
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Erinnerung: Einstellung der GET-Qualifizierung am 4. Mai 2021
+
+### <a name="categories"></a>Kategorien
+
+- Datum: 09.04.2021
+- Funktionen
+
+### <a name="impacted-audience"></a>Zielgruppe
+
+Partner, die Angebote für Bildungseinrichtungen, gemeinnützige Organisationen und GCC (Government Community Cloud) im Rahmen des Cloud Solution Provider-Programms über die Partner Center-API vertreiben
+
+### <a name="details"></a>Details
+
+Diese Ankündigung ist eine Weiterführung zu den [im Dezember veröffentlichten Verbesserungen](https://docs.microsoft.com/partner-center/announcements/2020-december#1) in Partner Center. Im Rahmen dieser Veröffentlichung wurden neue GET- und POST-Qualifizierungs-APIs bereitgestellt. Infolgedessen wird die vorhandene GET-Qualifizierung zum 4. Mai 2021 eingestellt. Zu diesem Zeitpunkt müssen Sie auf die Verwendung der neuen POST-APIs in Partner Center umgestellt haben, um Angebote für Bildungseinrichtungen zu erwerben, sowie auf die neue GET-Qualifizierungs-API, um vorab qualifizierte Angebote für gemeinnützige Organisationen und GCC zu erwerben.
+
+### <a name="next-steps"></a>Nächste Schritte
+
+- Führen Sie für eine erfolgreiche und rechtzeitige Umstellung eine Aktualisierung auf die neuen APIs durch.
+
+- Informieren Sie sich über die neuen Änderungen der Partner Center-API, und lesen Sie die Anleitungen in den Operations Readiness-Ressourcen: [Verbesserungen des Überprüfungsprozesses für Kunden im Bildungswesen in Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+
+- Leiten Sie diese Informationen an die entsprechenden Teams in Ihrer Organisation und Ihre Handelspartner weiter, um sie bei der Vorbereitung auf diese Änderungen zu unterstützen.
+
+### <a name="questions"></a>Haben Sie Fragen?
+
+Bei Fragen im Zusammenhang mit dieser Benachrichtigung wenden Sie sich an den [Partner Center-Support](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).
+
+### <a name="change-log"></a>Änderungsprotokoll
+
+- April: Erinnerung an die anstehende Einstellung der GET-Qualifizierung 
+- Februar: Aktualisierte Zeitpläne für die Einstellung von GET- und PUT-Qualifizierungen
+- Januar: Erinnerung an die anstehende Einstellung von GET- und PUT-Qualifizierungen
 
 ________________
 ## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>Neues Format für die PDF-Rechnung beim neuen E-Commerce-Verfahren in CSP

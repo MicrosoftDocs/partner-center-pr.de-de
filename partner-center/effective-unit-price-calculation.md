@@ -2,64 +2,66 @@
 title: Berechnung des effektiven Preises pro Einheit
 ms.topic: how-to
 ms.date: 04/02/2021
-description: Erfahren Sie mehr über den effektiven Einzelpreis und seine Berechnung. Dieser Artikel enthält auch eine Beispiel Berechnung.
+description: Erfahren Sie mehr über den effektiven Einzelpreis und seine Berechnung. Dieser Artikel enthält auch eine Beispielberechnung.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a662e0b815c979b3454762c5b35eb510887c96ad
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 6c3c3a672de015c9f38fa0e34232da8d9913177c
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374390"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528571"
 ---
-# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Berechnung der effektiven Einheiten Preise für die Nutzung des Azure-Plans
+# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Effektive Berechnung des Einzelpreis für den Azure-Planverbrauch
 
-## <a name="the-effective-unit-price"></a>Der effektive Einheitspreis
+## <a name="the-effective-unit-price"></a>Der effektive Einzelpreis
 
-Der Preis für die effektive Einheit wird auf der Verbrauchseinheit berechnet (im Gegensatz zur Ressourcenebene) und entsprechend der Verbrauchseinheit täglich angepasst.
+Der effektive Einzelpreis wird auf Verbrauchseinheitsebene (im Gegensatz zur Ressourcenebene) berechnet und täglich entsprechend der Verbrauchseinheitsnutzung angepasst.
 
-Wir berechnen den effektiven Einzelpreis mithilfe der folgenden drei Faktoren:
+Wir berechnen den effektiven Einzelpreis anhand der folgenden drei Faktoren:
 
-- Verbrauch, der täglich im gesamten Abrechnungszeitraum überwacht wird
-- Abrechnungskosten für die Verbrauchseinheit
+- Verbrauch, der während des abrechnungszyklus täglich überwacht wird
+- Arechnungsfähige Kosten für die Verbrauchsanzeige
 - Tiering (falls zutreffend)
 
-Da wir die tägliche Nutzung im gesamten Abrechnungszeitraum überwachen, schwankt der effektive Einzelpreis. Der endgültige Preis für einen bestimmten Abrechnungszeitraum ist verfügbar, nachdem die Verbrauchs Berechnung angehalten und der Abrechnungszeitraum geschlossen wurde. Die meisten Änderungen am Verbrauch werden nach dem vierten oder fünften Dezimaltrennzeichen angezeigt.
+Da der Verbrauch während des abrechnungszyklus täglich überwacht wird, schwankt der effektive Einzelpreis. Der Endpreis für einen bestimmten Abrechnungszyklus ist verfügbar, nachdem wir die Verbrauchsberechnung beenden und den Abrechnungszeitraum geschlossen haben. Nach der vierten oder fünften Dezimalstelle werden die meisten Änderungen im Verbrauch angezeigt.
 
-## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Erfahren Sie, ob Ihre Verbrauchseinheit mehrstufige Preise verwendet.
+## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Finden Sie heraus, ob Ihre Verbrauchsmessung mehrstufige Preise verwendet.
 
-Wenn Sie nicht wissen, ob Ihre Verbrauchseinheit mehrstufige Preise verwendet, verwenden Sie das unten beschriebene Verfahren, um sich zu informieren. 
+Wenn Sie nicht wissen, ob Ihre Verbrauchsanzeige mehrstufige Preise verwendet, gehen Sie wie folgt vor, um dies herauszufinden. 
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard/) an.
-2. Wählen Sie **verkaufen** aus, wählen Sie **Preise und Angebote** aus, und wählen Sie dann **Azure-Plan Preise** aus.
-3. Suchen Sie nach ihrer ID, und laden Sie dann Ihre Preisdaten herunter. 
+2. Wählen **Sie Verkaufen** aus, wählen Sie Preise und **Angebote** aus, und wählen Sie dann Preise **für Azure-Plan aus.**
+3. Suchen Sie ihre Verbrauchsanzeige nach ID, und laden Sie dann Ihre Preisdaten herunter. 
 
-## <a name="sample-calculation"></a>Beispiel Berechnung
+## <a name="sample-calculation"></a>Beispielberechnung
 
-In der folgenden Tabelle finden Sie ein Beispiel dafür, wie der effektive Einzelpreis während des Öffnungs Zeitraums berechnet wird.
+Die folgende Tabelle enthält ein Beispiel dafür, wie wir den effektiven Einzelpreis während des offenen Zeitraums berechnen.
 
 In der Tabelle gelten die folgenden Werte: 
 
-- **Up** = Einheitspreis der Ressource/Stunde = 0,868
+- **UP** = Einzelpreis der Ressource/Stunde = 0,868
 
-- **BCU** = abrechenbare Verbrauchseinheit für die Verbrauchseinheit
+- **BCU** = Abrechenbare Verbrauchseinheit für die Verbrauchseinheit
 
-- **BC** = Abrechnungskosten für die Verbrauchseinheit = BCU * up * 0,85. Dies spiegelt eine Anpassung für den 15% PEC-Rabatt wider. Wir verwenden dann den unteren Grenzwert der-Funktion, um den Wert auf zwei Ziffern nach dem Dezimaltrennzeichen zu beschränken, um den minimalen Betrag zu berechnen. 
+- **BC** = Abrechenbare Kosten für die Verbrauchsmessung = BCU * UP * 0,85. Dies spiegelt eine Anpassung des PEC-Rabatts von 15 % wider. Wir verwenden dann die untere Grenze der Funktion, um den Wert auf zwei Ziffern nach dem Dezimaltrennzeichen zu beschränken, um den Mindestbetrag zu berechnen. 
 
-- **Effektiver Einheitspreis** = BCU/BC
+- **Effektiver Einzelpreis** = BCU/BC
 
 >[!NOTE]
->Die Verbrauchseinheit in diesem Beispiel enthält keine Tarife in den Preisen. Die effektiven Einheiten Preisfaktoren in Rabatt Prozentsätzen und anderen Anpassungen.
 
-| Date | BCU (abrechenbare Verbrauchseinheit) | BC (Abrechnungskosten) | Effektiver Einheitspreis |
+>Hinweis: Die Verbrauchseinheit in diesem Beispiel verfügt nicht über Tarife für Preise oder andere Rabatte– die Effektiven Preiseinheitenfaktoren in Rabattprozentsätzen und andere Anpassungen.
+
+
+| Date | BCU (Abrechenbare Verbrauchseinheit) | BC (Abrechenbare Kosten) | Effektiver Einzelpreis |
 | ------ | ----------- | ----------- | ----------- |  
-| 3. Aug | 29 | 21,39 | 0.737586206896552 |
-| 10. Aug | 210,950039 | 155,63 | 0.737757626107858 |
-| 25. Aug | 555,950039 | 410,17 | 0.737782122900436 |
+| 3-Aug | 29 | 21.39 | 0.737586206896552 |
+| 10-Aug | 210.950039 | 155.63 | 0.737757626107858 |
+| 25-Aug | 555.950039 | 410.17 | 0.737782122900436 |
 
 ## <a name="next-steps"></a>Nächste Schritte
 

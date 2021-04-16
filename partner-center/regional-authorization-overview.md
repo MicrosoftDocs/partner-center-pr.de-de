@@ -1,7 +1,7 @@
 ---
 title: Globale CSP-Märkte
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Sehen Sie sich die Länder, Regionen und Währungen an, in denen Sie CSP-Angebote basierend auf dem Standort Ihres Unternehmens verkaufen können.
@@ -9,25 +9,30 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926660"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528604"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider Program (regionale Märkte und Währungen), in denen Sie CSP-Angebote verkaufen können
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider regionalen Märkte und Währungen des Programms, in denen Sie CSP-Angebote verkaufen können
 
-Ihr Markt wird durch den Standort Ihres Unternehmens bestimmt. Ihr Markt umfasst die Regionen und/oder Länder, in denen Sie Angebote von Cloud Solution Provider (CSP) verkaufen können.
+Ihr Markt wird durch den Standort Ihres Unternehmens bestimmt. Ihr Markt umfasst die Regionen und/oder Länder, in denen Sie CSP-Programmangebote (Cloud Solution Provider) verkaufen können.
 
-Wenn sich Ihr Unternehmen z. b. im USA befindet, können Sie CSP-Angebote an Kunden in den USA und in US-amerikanischen Außeninseln verkaufen. Wenn sich Ihr Unternehmen in Brasilien befindet, können Sie CSP-Angebote nur an Kunden in Brasilien verkaufen. Wenn sich Ihr Unternehmen in der Region Afrika befindet, können Sie die CSP-Angebote an Kunden in allen 18 Ländern der Region Afrika verkaufen.
+Wenn sich Ihr Unternehmen beispielsweise im USA befindet, können Sie CSP-Angebote an Kunden in den USA und auf den US-Amerikanischen Außeninseln verkaufen. Wenn sich Ihr Unternehmen in Brasilien befindet, können Sie CSP-Angebote nur an Kunden in Brasilien verkaufen. Wenn sich Ihr Unternehmen in der Region Afrika befindet, können Sie die CSP-Angebote an Kunden in allen 18 Ländern der Region Afrika verkaufen.
 
-Bevor Sie CSP-Angebote im Auftrag eines Kunden bestellen können, muss der Kunde die Microsoft-Kundenvereinbarung unterzeichnen. Sie finden den entsprechenden Microsoft-Kundenvertrag für Ihre Region/Ihr Land [hier](agreements.md).
+Bevor Sie CSP-Angebote im Auftrag eines Kunden bestellen können, muss der Kunde die Microsoft-Kundenvereinbarung unterzeichnen. Die entsprechenden Microsoft-Kundenvereinbarung für Ihre Region/Ihr Land finden Sie [hier.](agreements.md)
+
+## <a name="azure-plan-for-csp-region-availability"></a>Azure-Plan für CSP-Regionsverfügbarkeit  
+
+Der Azure-Plan für CSP ist in weniger Regionen als Azure Software for CSP verfügbar.  Informationen zu den neuesten Updates zur regionalen Verfügbarkeit für  [den Azure-Plan](purchase-azure-plan.md) finden Sie unter Erwerben des Azure-Plans. 
 
 >[!IMPORTANT]
-> Sie müssen bestätigen, dass ein Kunde den Microsoft-Kundenvertrag akzeptiert hat, indem er Informationen über die Person bereitstellt, die ihn signiert hat. Ausführlichere Informationen findest du unter [Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung](confirm-consent.md).
+> Sie müssen bestätigen, dass ein Kunde die Microsoft-Kundenvereinbarung akzeptiert hat, indem Sie Informationen zu der Person bereitstellen, die ihn signiert hat. Ausführlichere Informationen findest du unter [Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung](confirm-consent.md).
 
 Suchen Sie den Standort Ihres Unternehmens in einer der folgenden Listen, um zu ermitteln, wo Sie CSP-Angebote verkaufen können. Sie benötigen eine aktive Microsoft Partner Network (MPN)-ID für den Standort, an dem Sie verkaufen möchten.  
+
 
 ## <a name="for-unsupported-countries"></a>Für nicht unterstützte Länder
 
@@ -54,7 +59,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 | Tschad                     |   USD    |
 | Komoren                  |   USD    |
 | Kongo                    |   USD    |
-| Kongo, Demokratische Republik              |   USD    |
+| Kongo (DRK)              |   USD    |
 | Côte d'Ivoire            |   USD    |
 | Dschibuti                 |   USD    |
 | Äquatorialguinea        |   USD    |
@@ -133,7 +138,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Guam                  |  AUD     |
 |  Heard und McDonaldinseln| AUD |
 |  Kiribati              |   AUD    |
-|  Marshallinseln      |   AUD    |
+|  Marshall-Inseln      |   AUD    |
 |  Mikronesien            |   AUD    |
 |  Nauru                 |   AUD    |
 |  Niue                  |   AUD    |
@@ -217,7 +222,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Spitzbergen und Jan Mayen|NOK|
 |  Schweden         |   SEK    |
 |  Schweiz    |   CHF    |
-|  VEREINIGTES KÖNIGREICH             |   GBP    |
+|  UK             |   GBP    |
 |  Vatikanstadt   |          |
 |
 
@@ -276,7 +281,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Ecuador        |   USD    |
 |  El Salvador    |   USD    |
 |  Falklandinseln|  USD    |
-|  Französisch-Guyana  |   USD    |
+|  Französisch-Guayana  |   USD    |
 |  Grenada        |   USD    |
 |  Guadeloupe     |   USD    |
 |  Guatemala      |   USD    |
@@ -293,15 +298,15 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Peru           |   USD    |
 |  Puerto Rico    |   USD    |
 |  Saba           |   USD    |
-|  Saint Barthélemy|  USD    |
+|  St. Barthélemy|  USD    |
 |  St. Kitts und Nevis|    |
 |  St. Lucia    |   USD    |
-|  Saint Martin   |   USD    |
+|  St. Martin   |   USD    |
 |  St. Vincent und die Grenadinen| USD |
 |  Sint Eustatius |   USD    |
 |  Sint Maarten   |   USD    |
 |  Südgeorgien und die Südlichen Sandwichinseln| USD|
-|  Suriname       |   USD    |
+|  Surinam       |   USD    |
 |  Trinidad und Tobago|USD   |
 |  Turks- und Caicosinseln| USD|
 |  Uruguay        |   USD    |

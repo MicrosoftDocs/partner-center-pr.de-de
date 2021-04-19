@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: c2941c6dcda9551a97ca903f050488ea8fe363c1
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 9fd3dcb98ec0105e17fb107ba75c35916cd108db
+ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266451"
+ms.lasthandoff: 04/17/2021
+ms.locfileid: "107584197"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,8 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 |**Kategorie**|**Ankündigungen für April 2021**|**Angekündigt**|
 |---------|:---------|:---------|
+|Funktionen|[Jetzt verfügbar: Readiness-Leitfaden für globale Promotions](2021-april.md#6)|16. April|
+|Community: Einladungen und Erinnerungen|[Aktualisierungen und Erinnerungen der CSP-Community (Cloud Solution Provider) im April](2021-april.md#5)|16. April|
 |Funktionen|[Erinnerung: Einstellung der GET-Qualifizierung am 4. Mai 2021](2021-april.md#4)|9. April|
 |Funktionen|[Neues Format für die PDF-Rechnung beim neuen E-Commerce-Verfahren in CSP](2021-april.md#3)|5. April|
 |Funktionen|[Änderungen der Anforderungen für das Onboarding von Kunden im CSP-Programm (Cloud Solution Provider)](2021-april.md#2)|2\. April|

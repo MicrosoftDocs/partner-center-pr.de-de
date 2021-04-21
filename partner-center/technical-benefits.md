@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: 6a03d06b858f2932621dc0e50a571a17708be3bc
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 3aacafcbf839ad2e862ef968ca0b2f132c55a825
+ms.sourcegitcommit: 7d1396a832517d5d8dddc45ca29481aac9b8dde5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086650"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "107742119"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Erkunden der technischen Presales- und Bereitstellungsdienste (TPD) 
 
@@ -41,6 +41,18 @@ Zusätzlich zu lokalen Instanzen von Windows 10, Windows Server und Microsoft S
 Melden Sie sich mit einem beliebigen MPN-Benutzerkonto an, um **[eine Serviceanfrage für technische Presales- und Bereitstellungsdienste (TPD) zu erstellen](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (Aktivierung des technischen Vorteils ist nicht erforderlich).
 
 :::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Vorteile von technischen Presales- und Bereitstellungsdiensten" :::
+
+## <a name="in-scope-products-and-services"></a>Enthaltene Produkte und Dienste
+
+Für die folgenden Produkte und Dienste werden technische Presales- und Bereitstellungsdienste geboten:
+- **Microsoft 365**: Alle Microsoft Office 365-Komponenten, z. B. Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype for Business Server 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Active Directory, Azure Information Protection
+  - *Nicht enthalten: Ausschließlich lokale Office-Server – Exchange und SharePoint*
+- **Business Applications**: Microsoft Dynamics 365 (online), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
+  - *Nicht enthalten: Ausschließlich lokale Versionen von Dynamics 365, GP, SL, AX, NAV*
+- **Microsoft Azure**: Alle Microsoft Azure-Lösungen und zugehörigen Dienste, z. B. Infrastructure-as-a-Service, Platform-as-a-Service, Data Platform, BI Analytics, Cognitive Services, Azure Machine Learning, Azure Stack
+- **Windows Server**: Windows Server mit grundlegendem Support (gemäß **[Produktlebenszyklus](https://docs.microsoft.com/lifecycle/policies/fixed)** )
+  - System Center umfasst verwandte Produkte wie SCCM, sofern im Zusammenhang mit Cloud- oder Hybridszenarien
+- **Windows 10**: Windows 10-Betriebssystem, Geräte, universelle Apps
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Übermitteln einer Serviceanfrage für technische Presales- und Bereitstellungsdienste 
 

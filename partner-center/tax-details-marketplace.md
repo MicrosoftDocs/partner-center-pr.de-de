@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/16/2021
-ms.openlocfilehash: fcd3905777cd69665158ebff73f115bf6dd00b9d
-ms.sourcegitcommit: 1f090ea858b25d1d0664d6e94cb4a6898e91dd85
+ms.openlocfilehash: 1838c047cff119cafb2711d6f044c03f197a9963
+ms.sourcegitcommit: e33a9451e99f4276fe616fca35754ef43f70391e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107715917"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "107894059"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Steuerliche Aspekte für kommerzielle Marketplace-Herausgeber
 
@@ -39,16 +39,16 @@ In **Handelspartnern** fungiert Microsoft als Vertriebspartner und nicht als Age
 |   |    |    |   |
 |---------------|:------------------|:--------|:----------|
 |Amerikanische Jungferninseln|Kongo (DRK)|Jersey|Norfolkinsel|
-|Afghanistan|Cookinseln|Jordanien|Ukraine|
-|Albanien|Costa Rica|Kasachstan|Vanuatu|
-|Algerien|Cote d'Ivore|Kenia|Vatikanstadt|
-|Amerikanisch-Samoa|Curaçao|Kiribati|Venezuela|
-|Andorra|Butbutti|Kuwait|Vietnam|
-|Angola|Dominica|Kirgisistan|Soll & Futuna|
-|Anguilla|Dominikanische Republik|Laos|Jemen|
-|Antarktis|Ecuador|Libanon|Sambia|
-|Antigua und Barbuda|Ägypten|Lesotho|Uruguay||Nordmazedonien|
-|Aruba|El Salvador|Liberia|
+|Afghanistan|Cookinseln|Jordanien|Nordmazedonien|
+|Albanien|Costa Rica|Kasachstan|Ukraine|
+|Algerien|Cote d'Ivore|Kenia|Vanuatu|
+|Amerikanisch-Samoa|Curaçao|Kiribati|Vatikanstadt|
+|Andorra|Butbutti|Kuwait|Venezuela|
+|Angola|Dominica|Kirgisistan|Vietnam|
+|Anguilla|Dominikanische Republik|Laos|Soll & Futuna|
+|Antarktis|Ecuador|Libanon|Jemen|
+|Antigua und Barbuda|Ägypten|Lesotho|Sambia|
+|Aruba|El Salvador|Liberia|Uruguay|
 |Aserbaidschan|Äquatorialguinea|Libyen|
 |Bangladesch|Eritrea|Macau (SAR) |
 |Barbados|Äthiopien|Madagaskar|
@@ -61,7 +61,7 @@ In **Handelspartnern** fungiert Microsoft als Vertriebspartner und nicht als Age
 |&&&|Gibraltar|Mauritius|
 |Botsuana|Grönland|Ma Ote|
 |Bouvetinsel|Grenada|Mikronesien|
-|Britische Jungferninseln|Guadeloupe|Moldawien
+|Britische Jungferninseln|Guadeloupe|Moldau
 |Brunei|Guam|Mongolei|
 |Burkina Faso|Guatemala|Montenegro|
 |Burundi|Guernsey|Montserrat|
@@ -74,7 +74,7 @@ In **Handelspartnern** fungiert Microsoft als Vertriebspartner und nicht als Age
 |Weihnachtsinsel|Irak|Nicaragua|
 |Cocos (Keeling)Islands|Israel|Niger|
 |Komoren|Jamaica|Nigeria|
-|Kongo|Japan|Niue|
+|Kongo (Demokratische Republik)|Japan|Niue|
 
 
 ### <a name="microsoft-managed-countries"></a>Von Microsoft verwaltete Länder
@@ -92,7 +92,7 @@ In **Handelspartnern** fungiert Microsoft als Vertriebspartner und nicht als Age
 |Kroatien|Irland|Portugal|Taiwan|
 |Zypern|Italien|Rumänien|Türkei|
 Tschechien|Lettland|Russland|Vereinigte Arabische Emirate|
-|Dänemark|Liechtenstein|Saudi-Arabien|Vereinigtes Königreich|
+|Dänemark|Liechtenstein|Saudi-Arabien|United Kingdom|
 |Estland|Litauen|Serbien|USA einschließlich Rico Rico|
 
 

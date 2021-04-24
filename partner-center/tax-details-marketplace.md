@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/16/2021
-ms.openlocfilehash: 1838c047cff119cafb2711d6f044c03f197a9963
-ms.sourcegitcommit: e33a9451e99f4276fe616fca35754ef43f70391e
+ms.openlocfilehash: 8181a446bf279d059bca50ebd0c2e5b6c0f7c65b
+ms.sourcegitcommit: 8f9787c11f3b6a3d641c361e6b7cf1d64fea9d83
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107894059"
+ms.lasthandoff: 04/23/2021
+ms.locfileid: "107927746"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Steuerliche Aspekte für kommerzielle Marketplace-Herausgeber
 
@@ -36,7 +36,7 @@ In **Handelspartnern** fungiert Microsoft als Vertriebspartner und nicht als Age
 
 ### <a name="publisherdeveloper-managed-countries"></a>Herausgeber-/Entwicklerverwaltete Länder: 
 
-|   |    |    |   |
+| Länder | Länder (fortsetzung) | Länder (fortsetzung) | Länder (fortsetzung) |
 |---------------|:------------------|:--------|:----------|
 |Amerikanische Jungferninseln|Kongo (DRK)|Jersey|Norfolkinsel|
 |Afghanistan|Cookinseln|Jordanien|Nordmazedonien|
@@ -72,14 +72,14 @@ In **Handelspartnern** fungiert Microsoft als Vertriebspartner und nicht als Age
 |Zentralafrikanische Republik|Heard Island & Mc Islands|Nauru|
 |Tschad|Honduras|Nepal|
 |Weihnachtsinsel|Irak|Nicaragua|
-|Cocos (Keeling)Islands|Israel|Niger|
+|Kokosinseln|Israel|Niger|
 |Komoren|Jamaica|Nigeria|
 |Kongo (Demokratische Republik)|Japan|Niue|
 
 
 ### <a name="microsoft-managed-countries"></a>Von Microsoft verwaltete Länder
 
-| | |  |  |
+| Länder | Länder (fortsetzung) | Länder (fortsetzung) | Länder (fortsetzung) |
 |---------|-----------|--------|----|
 |Armenien|Finnland|Luxemburg|Singapur|
 |Österreich|Frankreich|Malaysia|Slowakei|
@@ -100,9 +100,9 @@ Tschechien|Lettland|Russland|Vereinigte Arabische Emirate|
 
 |**Country**|**Kommerzieller Marketplace (Azure Marketplace & AppSource)**| **Consumer Marketplace (Microsoft Store)**|
 |------------------|:-----------------|:---------------|
-|Brasilien|Reseller except: Publisher managed for purchases through CSP customer purchase scenario (Herausgeber verwaltet für Käufe über das CSP-Kundenkaufszenario)|Von Entwicklern verwaltet außer: Handelspartner für Käufe über Geräte, die auf Windows 10|
-|Mexiko|Von Microsoft verwaltet außer: Reseller für Käufe über das Enterprise Agreement-Kundenkaufszenario|Von Microsoft verwaltet|
-|Australien|Von Microsoft verwaltet außer: Reseller für Käufe über das Enterprise Agreement-Kundenkaufszenario|Von Microsoft verwaltet|
+|Brasilien|Handelspartner mit Ausnahme: Herausgeber, der für Käufe verwaltet wird, die über das CSP-Kundenkaufszenario getätigt wurden|Vom Entwickler verwaltet, mit Ausnahme: Wiederverkäufer für Käufe, die über Geräte getätigt wurden, die auf Windows 10|
+|Mexiko|Von Microsoft verwaltet, außer: Reseller für Käufe über Enterprise Agreement-Kundenkaufszenario|Von Microsoft verwaltet|
+|Australien|Von Microsoft verwaltet, außer: Reseller für Käufe über Enterprise Agreement-Kundenkaufszenario|Von Microsoft verwaltet|
 China|Marketplace nicht aktiviert|Wiederverkäufer aktiviert, außer: Entwickler, der für mobile Kommunikationsgeräte mit Windows Phone 7.x und auf PCs mit Windows 8.x verwaltet wird|
 |Bahrain|Vom Herausgeber verwaltet|Von Microsoft verwaltet|
 |Oman|Vom Herausgeber verwaltet|Von Microsoft verwaltet|
@@ -120,9 +120,9 @@ Microsoft sammelt Steuern auf Ladengebühren in den folgenden Ländern, in denen
 |----------------|-----------------------------|-----------------------|
 |Australien|Steuern der Dienstgebühr|Steuern der Dienstgebühr|
 |Kanada|Steuern der Dienstgebühr|Steuern der Dienstgebühr|
-|Mexiko|–|Steuer auf Dienstgebühr|
-|Neuseeland|Steuern der Dienstgebühr|Steuern der Dienstgebühr|
-|Singapur|Steuern der Dienstgebühr|Steuern der Dienstgebühr|
+|Mexiko|–|Steuern auf die Dienstgebühr|
+|Neuseeland|Steuern auf die Dienstgebühr|Steuern auf die Dienstgebühr|
+|Singapur|Steuern auf die Dienstgebühr|Steuern auf die Dienstgebühr|
 
 
 ## <a name="next-steps"></a>Nächste Schritte

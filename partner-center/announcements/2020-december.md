@@ -159,7 +159,7 @@ Der neue Microsoft Edge ist unser bester und modernster Browser, und wir freuen 
 
 - Lesen Sie den Blogbeitrag, um sich über die Details der Ankündigung zu informieren.
 - Nutzen Sie diese Gelegenheit, um Kontakt mit Ihren Partnern zur Unterstützung bei der Bereitstellung des neuen Microsoft Edge aufzunehmen.
-- Weitere Ressourcen und Informationen: [Edge auf YouTube](https://www.youtube.com/channel/UCIGx7oT8p6-jUpOfg98yelA) oder [Einführung von Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+- Weitere Ressourcen und Informationen: [Microsoft Edge auf YouTube](https://www.youtube.com/channel/UCIGx7oT8p6-jUpOfg98yelA) oder [Einführung von Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
 
 ### <a name="questions"></a>Fragen
 

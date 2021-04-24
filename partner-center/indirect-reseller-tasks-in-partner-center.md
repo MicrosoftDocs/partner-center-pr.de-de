@@ -76,21 +76,21 @@ Ab Oktober 2020 registrieren sich alle Microsoft-Partner, die erstmalig am CSP-
    > [!IMPORTANT]  
    > Aus Sicherheits- und Datenschutzgründen werden wir Ihren Hauptansprechpartner per E-Mail kontaktieren, um uns zu vergewissern, dass (1) er/sie sich für ein Partner Center-Konto registriert hat und dass (2) die E-Mail-Adresse zu Ihrem Unternehmen gehört. Nachdem der Hauptansprechpartner die E-Mail-Adresse bestätigt hat, fahren wir mit der Prüfung deiner Angaben fort. Wir halten den Hauptansprechpartner per E-Mail über den Status der Registrierung auf dem Laufenden.
 
-5. Ordnen Sie Ihre MPN-ID Ihrem CSP-Konto zu. Ihr CSP-Konto und die zugehörige MPN-ID müssen sich in demselben Land befinden, und Ihre MPN-ID muss im Partner Center vorhanden sein.
+5. Ordnen Sie Ihre MPN-ID Ihrem CSP-Konto zu. Ihr CSP-Konto und die zugehörige MPN-ID müssen sich in demselben Land/derselben Region befinden, und Ihre MPN-ID muss im Partner Center vorhanden sein.
   
 
    a. Melden Sie sich mit den Anmeldeinformationen für Ihr MPN-Konto beim Partner Center an. (Ihre MPN-Anmeldeinformationen können sich von Ihren CSP-Anmeldeinformationen unterscheiden.)
    
    b. Wechseln Sie zu **Einstellungen** -> **Kontoeinstellungen** -> **Organisationsprofil** -> **Bezeichner**.
  
-    c. Suchen Sie nach der MPN-ID mit dem Typ „Standort“, der dem Land dieses CSP-Kontos entspricht. 
+    c. Suchen Sie nach der MPN-ID mit dem Typ „Standort“, der dem Land/der Region dieses CSP-Kontos entspricht. 
 
     d. Wenn Sie die Standort-MPN-ID, die dem zu verwendenden CSP-Konto entspricht, nicht finden, können Sie einen neuen Standort hinzufügen, um eine neue MPN-ID zu erstellen. Weitere Informationen finden Sie unter [Verwalten von Standorten](manage-locations.md).
 
     e. Sie können diesen Schritt vorerst verschieben, doch können Sie erst nach der Zuordnung Ihrer MPN-ID zu Ihrem CSP-Konto die Microsoft Partner-Vereinbarung (MPA) unterzeichnen oder Transaktionen in CSP durchführen.
 
  > [!IMPORTANT]  
- > Wählen Sie die MPN-ID aus, die im Partner Center und in demselben Land wie Ihr CSP-Konto verfügbar ist, und stellen Sie sicher, dass Ihre MPN-ID im Partner Center vorhanden ist.
+ > Wählen Sie die MPN-ID aus, die im Partner Center und in demselben Land/derselben Region wie Ihr CSP-Konto verfügbar ist, und stellen Sie sicher, dass Ihre MPN-ID im Partner Center vorhanden ist.
 
 6. Nachdem Microsoft die Registrierungsüberprüfung abgeschlossen hat (dies dauert drei bis fünf Werktage), unterzeichnen Sie die Microsoft Partner-Vereinbarung auf der [Übersichtsseite des Partner Center-Dashboards](https://partner.microsoft.com/pcv/dashboard/overview). Dazu verwenden Sie die Anmeldeinformationen eines globalen Administrators. Wenn Sie die **Microsoft Partner-Vereinbarung** vor der Unterzeichnung anzeigen und herunterladen möchten, klicken Sie wie unten gezeigt auf den Link für die Microsoft Partner-Vereinbarung.  Wenn sich Ihr Konto nach fünf Werktagen noch immer in der Überprüfung befindet, lesen Sie [Kontoüberprüfungsprozess](verification-responses.md).
 

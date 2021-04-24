@@ -60,7 +60,7 @@ Aktualisieren des juristischen Firmennamens oder der juristischen Adresse in Par
 1. Wenn die Überprüfung fehlschlägt, erfahren Sie [hier](verification-responses.md), wie Sie das Problem beheben.
 
 >[!Important]
->Wenn Sie CSP-Partner (Cloud Solution Provider) sind, können Sie das mit Ihrer juristischen Adresse verknüpfte Land ändern. Das Land Ihrer juristischen Adresse ist an Ihren Mandanten und Ihre Dienste sowie an die Währung gebunden, in der Sie Geschäfte tätigen. Informationen zur Aktualisierung des MPN-Lands finden Sie unter [Ändern des Lands für das globale Partnerkonto](manage-locations.md#change-country-of-partner-global-account).
+>Wenn Sie CSP-Partner (Cloud Solution Provider) sind, können Sie das mit Ihrer juristischen Adresse verknüpfte Land/die verknüpfte Region ändern. Das Land/die Region Ihrer juristischen Adresse ist an Ihren Mandanten und Ihre Dienste sowie an die Währung gebunden, in der Sie Geschäfte tätigen. Informationen zur Aktualisierung des MPN-Lands finden Sie unter [Ändern des Lands für das globale Partnerkonto](manage-locations.md#change-country-of-partner-global-account).
 
 
 ### <a name="who-can-update-legal-business-name-and-when"></a>Wer den juristischen Firmennamen wann aktualisieren kann

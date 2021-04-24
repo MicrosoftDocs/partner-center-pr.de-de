@@ -82,7 +82,7 @@ Wenn Sie Partner Center zum ersten Mal beitreten, durchläuft Ihr Unternehmen ei
 
 Sie können entweder Ihr Unternehmensprofil suchen oder Unternehmensinformationen manuell eingeben. Wenn Ihr Unternehmen bei [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) registriert ist, verwenden Sie die DUNS-ID, um nach Ihren Unternehmensinformationen zu suchen. Wenn Sie die Unternehmensdetails selbst bereitstellen möchten, wählen Sie **Manuell** aus.
 
-Wenn sich Ihr Unternehmen in **Armenien**, **Ungarn**, **Kirgisistan**, **Moldawien**, **Usbekistan** oder **Russland** befindet und Sie Ihre Adresse manuell eingeben, prüfen wir die Adresse für Sie. Wenn die von Ihnen eingegebene Adresse von der überprüften abweicht, wird empfohlen, die überprüfte Adresse zu verwenden. Durch die Überprüfung wird sichergestellt, dass die Adresse sowohl richtig als auch für den Versand geeignet ist.
+Wenn sich Ihr Unternehmen in **Armenien**, **Ungarn**, **Kirgisistan**, **Republik Moldau**, **Usbekistan** oder **Russland** befindet und Sie Ihre Adresse manuell eingeben, prüfen wir die Adresse für Sie. Wenn die von Ihnen eingegebene Adresse von der überprüften abweicht, wird empfohlen, die überprüfte Adresse zu verwenden. Durch die Überprüfung wird sichergestellt, dass die Adresse sowohl richtig als auch für den Versand geeignet ist.
 
 ### <a name="primary-contact-email"></a>E-Mail-Adresse des Hauptansprechpartners
 

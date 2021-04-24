@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 12/15/2020
-ms.openlocfilehash: ac4b6ef6a061a68ef623c7666804a4db1582785f
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/15/2021
+ms.openlocfilehash: 2f6fd9ef3fdcc88627b2eb2d257a837d28e097ee
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712205"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528590"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>Anforderungen für die Registrierung als CSP-Partner mit direkter Abrechnung
 
@@ -33,7 +33,8 @@ Als Direktabrechnungspartner sind Sie die für die End-to-End-Beziehung mit Ihre
 |**MPN-ID**   |Eine aktive Mitgliedschaft im Microsoft Partner Network und eine MPN-ID für den Standort, an dem Sie Produkte vertreiben möchten.   |
 |**Zustimmung**   |Die Befugnis zum Akzeptieren und Signieren von Vereinbarungen im Namen Ihres Unternehmens|
 |**Support**   |Die Fähigkeit, Ihren Kunden Cloud-Produktunterstützung der ersten Ebene zu bieten. <br/>Ein Microsoft-Supportplan, entweder Erweiterter Support für Partner (Advanced Support for Partners, ASfP) oder Premiumsupport für Partner (Premier Support for Partners, PSfP). [Supportpläne vergleichen](https://partner.microsoft.com/support/partnersupport).<br/>WICHTIG: Sie müssen vor dem Erwerb eines Supportplans eine Bonitätsprüfung bestehen. Wir benachrichtigen Sie per E-Mail, wenn Sie die Bonitätsprüfung bestanden haben. |
-|**Umsatzanforderung**|Sie müssen in den vorangegangenen zwölf Monaten als indirekter Vertriebspartner einen Jahresumsatz von mindestens 300.000 USD im Rahmen des Cloud Solution Provider-Programms aufweisen. Partner können ihren Umsatz in den letzten zwölf Monaten im Partner Center überprüfen.<br/>Die Verkäufe, aus denen sich Ihr Umsatz von 300.000 USD in den letzten zwölf Monaten ergibt, werden von Microsoft geprüft, und Sie werden möglicherweise um zusätzliche Informationen gebeten. Die Umsatzanforderung von 300.000 USD wird auf Grundlage des Cloudumsatzes berechnet und schließt unbefristete Software in CSP aus.|
+|**Umsatzanforderung**|Sie müssen in den vorangegangenen zwölf Monaten als indirekter Vertriebspartner einen Jahresumsatz von mindestens 300.000 USD im Rahmen des Cloud Solution Provider-Programms aufweisen. Vergewissern Sie sich, dass Ihre Organisation die Umsatzanforderung in [Partner Center Analytics](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) erfüllt. Partner können ihren Umsatz in den letzten zwölf Monaten in Partner Center überprüfen.<br/>Die Verkäufe, aus denen sich Ihr Umsatz von 300.000 USD in den letzten zwölf Monaten ergibt, werden von Microsoft geprüft, und Sie werden möglicherweise um zusätzliche Informationen gebeten. Die Umsatzanforderung von 300.000 USD wird auf Grundlage des Cloudumsatzes berechnet und schließt unbefristete Software in CSP aus.|
+|**CSP-Anforderung**|Sie müssen mindestens zwölf Monate lang Transaktionen als indirekter Wiederverkäufer ausführen.| 
 |**Debitoren** |Infrastruktur zur Verwaltung der Kundenabrechnung und -bereitstellung|
 |**Empfehlung**|             |
 |**Managed Services**   |Mindestens einen verwalteten Service, einen IP-Service oder eine Kundenlösungsanwendung. Weitere Informationen zum Hinzufügen von [verwalteten Services](https://partner.microsoft.com/business-opportunities/managed-services-provider).|
@@ -41,9 +42,10 @@ Als Direktabrechnungspartner sind Sie die für die End-to-End-Beziehung mit Ihre
 
 ### <a name="verify-direct-bill-eligibility"></a>Prüfen der Berechtigung für die Direktabrechnung
 
-Nachdem Sie sich vergewissert haben, dass Sie die Mindestanforderungen für die Registrierung als Direktabrechnungspartner erfüllen, können Sie mit dem [Registrierungsformular](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global) fortfahren.
+Nachdem Sie sich vergewissert haben, dass Sie die Mindestanforderungen für die Registrierung als Direktabrechnungspartner erfüllen, können Sie mit dem [Registrierungsformular](https://forms.office.com/r/0fP4fFT8n8) fortfahren.
 
 Wenn Ihr Unternehmen die Voraussetzungen für die Registrierung als Direktabrechnungspartner erfüllt und Sie die Bewerbung abgeschlossen haben, überprüfen und verifizieren wir die Unternehmensinformationen, die Sie bei der Registrierung angegeben haben. Im Rahmen dieser Überprüfung wird Ihr Unternehmen auch einer Bonitätsprüfung unterzogen. Wir benachrichtigen Sie per E-Mail, wenn Ihr Unternehmen die Bonitätsprüfung bestanden hat.
+
 >[!IMPORTANT]
 >Die Bonitätsprüfung kann einige Tage dauern. Erwerben Sie in diesem Zeitraum KEINEN Microsoft-Supportplan. Erwerben Sie KEINEN Microsoft-Supportplan, bis wir Sie über die bestandene Bonitätsprüfung informiert haben.
 

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/20/2021
-ms.openlocfilehash: 47723bd4b2deed703e224f7151a1d85a478aa8a7
-ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
+ms.date: 04/22/2021
+ms.openlocfilehash: 4e5faf1467ea12aac8f4dfaa4c35455159f64632
+ms.sourcegitcommit: 1e1aea329fdeef526e5273d2a4d8f5ec767ac49c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "107823366"
+ms.lasthandoff: 04/23/2021
+ms.locfileid: "107917615"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -76,7 +76,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 |Funktionen|[DocuSign-Migration zu Adobe Sign für Partner mit Microsoft Partner-Vereinbarung (MPA)](2021-january.md#7)|15. Januar|
 |Angebote/Märkte|[Aktualisierung der Handelspreise für die norwegische Krone](2021-january.md#6)|14. Januar|
 |Angebote/Märkte|[Aktualisierung der Handelspreise für die indische Rupie](2021-january.md#5)|8\. Januar|
-|Angebote/Märkte|[Aktualisierungen von Calling Plan und Phone System für den 1. Februar 2021](2021-january.md#4)|8\. Januar|
+|Angebote/Märkte|[Aktualisierungen von Calling Plan und Phone System zum 1. Februar 2021](2021-january.md#4)|8\. Januar|
 |Angebote/Märkte|[Aktualisierungen der lizenzbasierten Preislisten für Januar 2021](2021-january.md#3)|8\. Januar|
 |Funktionen|[Einstellung und Deaktivierung vorhandener GET- und PUT-Qualifizierungs-APIs für den Überprüfungsprozess für Kunden im Bildungswesen bis Ende Februar 2021](2021-january.md#2)|5\. Januar|
 |Angebote/Märkte|[Dynamics 365-Angebote für Februar 2021](2021-january.md#1)|4\. Januar|

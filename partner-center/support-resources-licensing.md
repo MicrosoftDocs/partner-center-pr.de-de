@@ -1,99 +1,102 @@
 ---
-title: Microsoft-Lizenzierungs Ressourcen
+title: Microsoft-Lizenzierungsressourcen
 ms.topic: article
 ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Als Microsoft-Partner haben Sie möglicherweise Fragen zur Verwendung verschiedener Lizenzierungs Programme von Microsoft. Dieser Artikel enthält Ressourcen, die Ihnen helfen können.
+description: Als Microsoft-Partner haben Sie möglicherweise Fragen zur Verwendung verschiedener Microsoft-Lizenzierungsprogramme. Dieser Artikel enthält Ressourcen, die Ihnen helfen können.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: d0b7e12c17054434e4d07c532739b0d079b49cca
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756817"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002897"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Leitfaden zum Lizenzieren von Ressourcen für Microsoft-Partner 
 
+**Geeignete Rollen**
 
-In diesem Artikel werden Ressourcen für die Beantwortung von Fragen zur Partner Lizenzierung erläutert.
+- Hilfe-Agent
 
-Als Microsoft-Partner können Sie an einem oder mehreren Lizenzierungs Programmen, Kanälen oder Vereinbarungen beteiligt sein. Wenn Sie im Partner Center-Dashboard arbeiten, kann dies Programme wie das CSP-Programm (Cloud Solution Provider) oder das MPN-Programm (Microsoft Partner Network) enthalten. Andere Lizenzierungs Programme umfassen Enterprise Agreement (EA)-Lizenzen, Volumen Lizenzierung (VL), das OEM-Lizenzprogramm, das Software Assurance-Schulungs-oder-Gutscheinprogramm oder das Open Licensing-Programm.
+In diesem Artikel werden Ressourcen zur Beantwortung von Fragen zur Partnerlizenzierung beschrieben.
 
-Jedem Programm sind bestimmte Verträge und Bedingungen zugeordnet. Analog dazu verfügen die jeweiligen Produkte, die Sie verwenden, möglicherweise über zusätzliche, produktspezifische Lizenzverträge, die ihrer Verwendung zugeordnet sind.
+Als Microsoft-Partner sind Sie möglicherweise an einem oder mehrere Lizenzierungsprogrammen, Kanälen oder Vereinbarungen beteiligt. Wenn Sie im Partner Center-Dashboard arbeiten, kann dies Programme wie das programm Cloud Solution Provider (CSP) oder das programm Microsoft Partner Network (MPN) enthalten. Andere Lizenzierungsprogramme umfassen Enterprise Agreement (EA)-Lizenzen, Die Volumenlizenzierung (Volume Licensing, VL), das OEM-Lizenzprogramm, das Software Assurance-Schulungs- oder Gutscheinprogramm oder das Open Licensing-Programm.
 
-Wenn Sie Fragen zur Funktionsweise dieser Programme haben, können diese Ressourcen Ihnen helfen.
+Jedem Programm sind bestimmte Vereinbarungen und Bedingungen zugeordnet. Ebenso können für die von Ihnen bestimmten Produkte zusätzliche, produktspezifische Lizenzverträge im Zusammenhang mit ihrer Verwendung enthalten sein.
+
+Wenn Sie Fragen zur Funktionsweise dieser Programme haben, können diese Ressourcen helfen.
 
 > [!NOTE]
-> Wenn Sie Hilfe bei ausführlicheren Lizenzierungs Fragen oder bei einem Kundenangebot benötigen, beginnen Sie mit dem zugewiesenen indirekten Anbieter Ihres Lizenzierungs Programms (für das CSP-Programm) oder dem Programm Verteiler. Sie sind häufig die besten, ersten Kontaktpunkte für bestimmte Lizenzfragen oder Fragen zum Erstellen von Kunden angeboten, SKU-Käufen oder Voraussetzungen. Wenn Sie nicht über einen Partner verfügen, der diese Rolle für Sie bedient, finden Sie weitere Informationen untersuchen [eines Partners](find-a-partner.md) zum Suchen eines Partners.
+> Wenn Sie Hilfe bei ausführlicheren Lizenzierungsfragen oder mit einem Kundenangebot benötigen, beginnen Sie mit dem zugewiesenen indirekten Anbieter Ihres Lizenzierungsprogramms (für das CSP-Programm) oder Ihrem Programmverteiler. Sie sind häufig ihre besten ersten Ansprechpartner für bestimmte Lizenzfragen oder fragen zur Erstellung von Kundenangeboten, SKU-Käufen oder Voraussetzungen. Wenn Sie keinen Partner haben, der diese Rolle für Sie hat, finden Sie unter [Suchen eines](find-a-partner.md) Partners nach einem Partner weitere Informationen.
 >
-> Sie können sich auch an Ihre Microsoft-Kontakte wenden, um ein internes Team von Lizenzierungs Experten zu nutzen. Wenn Sie nicht über bestimmte Microsoft-Kontakte verfügen, besuchen Sie den [Partner Support](https://partner.microsoft.com/support/v2/?stage=1) , und geben Sie im Feld **Probleme** der Support Seite den Typ **Lizenzierung** ein. 
+> Sie können sich auch an Ihre Microsoft-Kontakte setzen, um ein internes Team von Lizenzierungsexperten zu nutzen. Wenn Sie nicht über bestimmte Microsoft-Kontakte verfügen,  wechseln Sie im Feld Probleme der Supportseite zu [Partnersupport](https://partner.microsoft.com/support/v2/?stage=1) und Geben Sie **lizenzierung** ein. 
 
-## <a name="general-resources-about-licensing-and-license-training"></a>Allgemeine Ressourcen zu Lizenzierungs-und Lizenz Schulungen
+## <a name="general-resources-about-licensing-and-license-training"></a>Allgemeine Ressourcen zu Lizenzierung und Lizenztraining
 
-Weitere Informationen zu bestimmten Lizenzierungs Programmen finden Sie in den folgenden Ressourcen.
+Weitere Informationen zu bestimmten Lizenzierungsprogrammen finden Sie in den folgenden Ressourcen.
 
 >[!NOTE]
-> Möglicherweise müssen Sie in bestimmten Programmen registriert sein, bevor Sie auf alle hier gezeigten Ressourcen zugreifen können. Erfahren Sie mehr über das Anmelden im [MPN-Programm](https://partner.microsoft.com/membership) oder im [CSP-Programm](https://partner.microsoft.com/membership/cloud-solution-provider).
+> Möglicherweise müssen Sie bei bestimmten Programmen registriert sein, bevor Sie auf alle hier gezeigten Ressourcen zugreifen können. Erfahren Sie mehr über die Registrierung beim [MPN-](https://partner.microsoft.com/membership) oder [CSP-Programm.](https://partner.microsoft.com/membership/cloud-solution-provider)
 
 |Aufgabe  | ... finden Sie hier weitere Informationen  |
 |:------------------|:--------------- |
-|Vergleichen von CSP-Programm Lizenzen mit anderen Lizenzierungs Modellen *(allgemeine Übersicht)* | Wechseln Sie zur [CSP](https://partner.microsoft.com/licensing/)-Registrierungsseite. Scrollen Sie nach unten, bis Sie den Abschnitt *Vergleichen von CSP mit anderen Lizenzierungs Modellen* sehen.  |
-|Vergleichen verschiedener Partner Lizenzverträge für Microsoft Cloud Services und lokale Software *(detaillierte Ansicht)*  | [Microsoft-Lizenzverträge](https://partner.microsoft.com/licensing/licensing-agreements)  |
-|Erfahren Sie mehr über die Volumen Lizenzierung (VL) und die Lizenzierung für bestimmte Lösungen.  | [Microsoft-Lizenzierung-Produkte und-Lösungen](https://www.microsoft.com/licensing/default) |
-|Erfahren Sie mehr über die Volumen Lizenzierungs Schulungen und-Ressourcen, die bei VL-Preisen,-angeboten,-Vereinbarungen, Produktaktivierung und anderen Tools helfen können.  | [Microsoft Partner Network Schulungen und Ressourcen](https://partner.microsoft.com/licensing/training-and-resources) |
-|Erkunden Sie die Schulungsmodule für die Lizenzierung für die **Lizenzierung** .  | [Lizenzierung vorbereiten](https://www.getlicensingready.com/)  |
-|Informieren Sie sich über die Lizenzierungs Prüfung, die Sie beim Entwerfen und Bereitstellen von Microsoft-Lizenzierungs Lösungen für große Unternehmen unterstützt *(die Prüfung wird ab dem 31. Januar 2021 um 11:59 Uhr Mitte)*  | [Prüfung 70-705](/learn/certifications/exams/70-705) |
+|Vergleichen von CSP-Programmlizenzen mit anderen Lizenzierungsmodellen *(allgemeine Übersicht)* | Wechseln Sie zur [CSP-Registrierungsseite.](https://partner.microsoft.com/licensing/) Scrollen Sie nach unten, bis der Abschnitt Vergleich von *CSP mit anderen Lizenzierungsmodellen angezeigt* wird.  |
+|Vergleichen verschiedener Partnerlizenzverträge für Microsoft-Clouddienste und lokale Software *(detaillierte Ansicht)*  | [Microsoft-Lizenzierungsverträge](https://partner.microsoft.com/licensing/licensing-agreements)  |
+|Erfahren Sie mehr über Volumenlizenzierung (Volume Licensing, VL) und Lizenzierung für bestimmte Lösungen.  | [Microsoft-Lizenzierung: Produkte und Lösungen](https://www.microsoft.com/licensing/default) |
+|Erfahren Sie mehr über volumenlizenzierende Schulungen und Ressourcen, die Sie bei VL-Preisen, Zitaten, Vereinbarungen, Produktaktivierung und anderen Tools unterstützen können.  | [Microsoft Partner Network Training und Ressourcen](https://partner.microsoft.com/licensing/training-and-resources) |
+|Machen Sie sich mit den Trainingsmodulen zum **Lizenzieren bereit.**  | [Bereiten Sie die Lizenzierung vor.](https://www.getlicensingready.com/)  |
+|Erfahren Sie mehr über die Lizenzierungsprüfung, mit der Sie Microsoft-Lizenzierungslösungen für große Organisationen entwerfen und bereitstellen können *(die Prüfung wird am 31. Januar 2021 um 23:59 Uhr Central Time eingestellt).*  | [Prüfung 70-705](/learn/certifications/exams/70-705) |
 
-## <a name="program-specific-and-product-specific-licensing-terms-and-agreements"></a>Programm spezifische und produktspezifische Lizenzierungs Bestimmungen und Vereinbarungen
+## <a name="program-specific-and-product-specific-licensing-terms-and-agreements"></a>Programmspezifische und produktspezifische Lizenzbedingungen und -vereinbarungen
 
-Diese anderen Ressourcen sind möglicherweise hilfreich. Für den Zugriff auf einige dieser Ressourcen müssen Sie möglicherweise zuerst im [MPN-Programm](https://partner.microsoft.com/membership)registriert werden.
+Möglicherweise sind diese anderen Ressourcen hilfreich. Um auf einige dieser Ressourcen zugreifen zu können, müssen Sie möglicherweise zuerst beim [MPN-Programm](https://partner.microsoft.com/membership)registriert sein.
 
 |Aufgabe  | ... finden Sie hier weitere Informationen  |
 |:------------------|:--------------- |
-|Überprüfen Sie die aktuelle Version der Microsoft-Produktbedingungen für Produkte oder Dienste im Microsoft-Volumen Lizenzierungsprogramm, oder laden Sie Sie herunter. | [Suchen Sie nach Ihrem Produkt oder Dienst](https://www.microsoft.com/licensing/terms/) , oder [Suchen Sie hier](http://www.microsoftvolumelicensing.com/)  |
-|Erfahren Sie mehr über das Software Assurance-Programm und die zugehörige Lizenz sowie über die Funktionsweise von Zahlung und Gutscheine.  | [Übersicht über Software Assurance](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-default.aspx) oder [Software Assurance-Vorteile und-Anforderungen](software-assurance-lp.md) |
-|Überprüfen Sie die Details zu den internen Benutzerrechten oder Vorteilen von MPN.  | [Leitfaden für das Microsoft Partner Network-Programm](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)  |
-|Hier finden Sie OEM-Partner Materialien wie Pre-Installation Kits oder Schulungen.  | [Microsoft-Geräte Partner Center](https://devicepartner.microsoft.com/)  |
-|Beantworten Sie die Fragen zur Verwendung von OEM-Kunden oder Einzelhandelskunden (auch bekannt als vollständig gepackte Produkte oder FPP-Kunden). Dies gilt für Kunden, deren Software von Microsoft oder einem Computerhersteller lizenziert wurde. *(Diese Bedingungen gelten nicht für Kunden im Volumen Lizenzierungsprogramm.)*  | [Nutzungsbedingungen für den Einzelhandel (FPP)](https://www.microsoft.com/useterms)  |
+|Lesen oder laden Sie die aktuelle Version der Microsoft-Produktbedingungen für Produkte oder Dienste im Microsoft-Volumenlizenzprogramm herunter. | [Suchen Sie nach Ihrem Produkt oder Dienst,](https://www.microsoft.com/licensing/terms/) oder [suchen Sie hier.](http://www.microsoftvolumelicensing.com/)  |
+|Erfahren Sie mehr über das Software Assurance-Programm und die zugehörige Lizenz sowie über die Funktionsweise von Zahlungen und Gutscheinen.  | [Übersicht über software assurance](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-default.aspx) oder [Software Assurance Vorteile und Anforderungen](software-assurance-lp.md) |
+|Überprüfen Sie details zu internen MPN-Nutzungsrechten oder -Vorteilen.  | [Leitfaden für das Microsoft Partner Network-Programm](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)  |
+|Suchen Sie OEM-Partnermaterialien wie Vorinstallationskits oder Schulungen.  | [Microsoft-Partner Center](https://devicepartner.microsoft.com/)  |
+|Beantworten Sie Nutzungsfragen für OEM-Kunden oder Einzelhandelskunden (auch als Vollpaketprodukt oder FPP-Kunden bekannt). Dies gilt für Kunden, deren Software von Microsoft oder einem Computerhersteller für sie lizenziert wurde. *(Diese Bedingungen gelten nicht für Kunden im Volumenlizenzierungsprogramm.)*  | [Nutzungsbedingungen für Einzelhandel (FPP)](https://www.microsoft.com/useterms)  |
 
-## <a name="resources-associated-with-license-fulfillment-or-financing-options"></a>Ressourcen im Zusammenhang mit der Lizenz Erfüllung oder den Finanzierungsoptionen
+## <a name="resources-associated-with-license-fulfillment-or-financing-options"></a>Ressourcen im Zusammenhang mit Lizenzerfüllungs- oder Optionsoptionen
 
-Wenn Sie bestimmte Fragen zum Erfüllungs-, Zahlungs-oder Finanzierungs Zeitpunkt der Lizenzierung haben, ist Ihre erste Anlauf Person der indirekte Anbieter (für das CSP-Programm) oder der Programm Verteiler. Möglicherweise finden Sie auch die folgenden Ressourcen, die hilfreich sind.
-
-|Aufgabe  | Siehe  |
-|:------------------|:--------------- |
-|Beantworten Sie Fragen zu Installationsmedien im Volumen Lizenzierungsprogramm. | [Seite "Lizenz Erfüllung"](https://www.microsoft.com/licensing/existing-customer/fulfillment.aspx)  |
-|Beantworten Sie Fragen zu Onlinedienste für die folgenden Registrierungs Programme: Enterprise Agreement (EA), Server-und cloudregistrierung (SCE) und Open Value-Abonnement (OVS).  | [Schulungen und Ressourcen zum Microsoft Volume Licensing Center](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
-|Fragen zur Beantwortung von Antworten zu Onlinedienste, die mit dem Microsoft-Produkt und-Dienstvertrag (MPSA) verknüpft sind.  | [Microsoft Business Center-Schulungs-und-Ressourcen](https://www.microsoft.com/licensing/existing-customer/business-center-training-and-resources.aspx#tab=2) oder die [MPSA-Lizenzierung (Übersicht](https://www.microsoft.com/licensing/mpsa/default) )  |  
-|Fragen zur Beantwortung von Antworten zu Onlinedienste, die dem CSP-Programm (Cloud Solution Provider) zugeordnet sind.  | [Verkaufen von CSP-Abonnements an Kunden](customer-subscriptions.md)  |
-|Beantworten Sie Fragen zu den Zahlungs-und Finanzierungsoptionen von Microsoft.  | [FAQ zum Microsoft-Finanzierungsprogramm](https://download.microsoft.com/download/3/9/0/390DF0B3-8B15-4E65-AF5E-71A7280E7682/Microsoft-Financing-Program-FAQ-Customer_en-US.pdf)  |
-
-## <a name="more-resources-to-help-with-price-lists-customer-deals-license-activation-or-credits"></a>Weitere Ressourcen zur Unterstützung bei Preislisten, Kundengeschäften, Lizenzaktivierung oder Gutschriften
-
-Ihr indirekter Anbieter (für das CSP-Programm) oder der Programm Verteiler sollte in der Lage sein, viele ihrer speziellen Fragen zur Lizenzierung oder zum Durchführung von Kunden angeboten zu beantworten. Die folgenden Ressourcen können Ihnen auch helfen.
+Wenn Sie spezifische Fragen zur Lizenzerfüllung, Zahlung oder Zahlung haben, ist Ihr erster Ansprechpartner Ihr indirekter Anbieter (für das CSP-Programm) oder Ihr Programmverteiler. Möglicherweise sind auch die folgenden Ressourcen hilfreich.
 
 |Aufgabe  | Siehe  |
 |:------------------|:--------------- |
-|Suchen eines Partners oder Verteilers | [Finden Sie einen Partner, der Ihnen helfen kann](find-a-partner.md)  |
-|Anzeigen der Preise und Angebote für das CSP-Programm über das Partner Center-Dashboard *(muss im CSP-Programm registriert sein, um dieses Dashboard anzuzeigen)*  |[Übersicht über CSP-Preise und-Angebote](pricing-and-offers.md) oder [CSP-Dokumente und-Ressourcen](csp-documents-and-learning-resources.md) |
-|Erkunden Sie Marketingmaterialien, um Sie bei der Kundenlösung zu unterstützen  | [Material zur MPN-Partner Bereitschaft](https://partner.microsoft.com/asset#/?type=marketing-campaigns&area=mrkt)  |
-|Erhalten Sie Hilfe von Microsoft Technical Presales und Bereitstellungs Diensten für einen Kunden-oder Online Fall  | [Übersicht über Technical Presales und Bereitstellungs Dienste](https://partner.microsoft.com/training/technical-presales-deployment-services) oder [Support Übersicht](https://support.microsoft.com/help/3121537/using-technical-presales-and-deployment-services)  |
-|Erfahren Sie, wie Sie Microsoft Azure in Open Licensing aktivieren.   | [FAQ zu Online Dienst Aktivierung für geöffnete Programme](/licensing/online-service-activation-faq)  |
-|Wie und wann soll eine SLA-Gutschrift von Microsoft für Kunden, die von einem Ausfall betroffen sind, berechnet und angefordert werden?  | [Anfordern einer SLA-Gutschrift für einen Ausfall](request-credit.md)   |
-|Hilfe von der Microsoft Partner Community erhalten  | [Microsoft Partner Community-Forum](https://www.microsoftpartnercommunity.com)  |
+|Beantworten Sie Fulfillment-Fragen zu Installationsmedien im Volumenlizenzierungsprogramm. | [Seite "Lizenzerfüllung"](https://www.microsoft.com/licensing/existing-customer/fulfillment.aspx)  |
+|Beantworten Sie Fulfillment-Onlinedienste für die folgenden Registrierungsprogramme: Enterprise Agreement (EA), Server- und Cloudregistrierung (SCE) und Open Value Subscription (OVS).  | [Schulungen und Ressourcen im Microsoft Volume Licensing Center](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
+|Beantworten Sie Fulfillment-Onlinedienste, die dem Microsoft-Produkt- und Dienstvertrag (MPSA) zugeordnet sind.  | [Microsoft Business Center-Schulungen und -Ressourcen](https://www.microsoft.com/licensing/existing-customer/business-center-training-and-resources.aspx#tab=2) oder übersicht [über die MPSA-Lizenzierung](https://www.microsoft.com/licensing/mpsa/default)  |  
+|Beantworten Sie Fulfillment-Fragen zu Onlinedienste, die dem Cloud Solution Provider -Programm (CSP) zugeordnet sind.  | [Verkaufen von CSP-Abonnements an Kunden](customer-subscriptions.md)  |
+|Beantworten Sie Fragen zu Zahlungs- und Zahlungsoptionen von Microsoft.  | [Häufig gestellte Fragen zum Microsoft-Programm](https://download.microsoft.com/download/3/9/0/390DF0B3-8B15-4E65-AF5E-71A7280E7682/Microsoft-Financing-Program-FAQ-Customer_en-US.pdf)  |
+
+## <a name="more-resources-to-help-with-price-lists-customer-deals-license-activation-or-credits"></a>Weitere Ressourcen für Preislisten, Kundenangebote, Lizenzaktivierung oder Guthaben
+
+Ihr indirekter Anbieter (für das CSP-Programm) oder Ihr Programmverteiler sollte in der Lage sein, viele Ihrer spezifischen Fragen zur Lizenzierung oder zum Durchführen von Kundenvereinbarungen zu beantworten. Die folgenden Ressourcen sind möglicherweise auch für Sie hilfreich.
+
+|Aufgabe  | Siehe  |
+|:------------------|:--------------- |
+|Suchen eines Partners oder Verteilers | [Suchen eines Partners, der Ihnen helfen kann](find-a-partner.md)  |
+|Anzeigen der Preise und Angebote des CSP-Programms über das dashboard Partner Center *(muss für das CSP-Programm registriert sein, um dieses Dashboard anzuzeigen)*  |[Übersicht über CSP-Preise und -Angebote](pricing-and-offers.md) oder [CSP-Dokumente und -Ressourcen](csp-documents-and-learning-resources.md) |
+|Erkunden von Marketingmaterialien zur Unterstützung eines Kundendeals  | [MPN-Partnerbereitschaftsmaterial](https://partner.microsoft.com/asset#/?type=marketing-campaigns&area=mrkt)  |
+|Hilfe von Microsoft Technical Presales and Deployment Services für einen Kundenvertrag oder einen Onlinefall  | [Übersicht über technische Vorverkaufs- und Bereitstellungsdienste](https://partner.microsoft.com/training/technical-presales-deployment-services) oder [Supportübersicht](https://support.microsoft.com/help/3121537/using-technical-presales-and-deployment-services)  |
+|Erfahren Sie, wie Sie Microsoft Azure in Open Licensing aktivieren.   | [Häufig gestellte Fragen zur Onlinedienstaktivierung für offene Programme](/licensing/online-service-activation-faq)  |
+|Berechnen und Anfordern eines SLA-Guthabens von Microsoft für Kunden, die von einem Ausfall betroffen sind  | [Anfordern eines SLA-Guthabens für einen Ausfall](request-credit.md)   |
+|Hilfe von der Microsoft-Partnercommunity erhalten  | [Microsoft-Partnercommunityforum](https://www.microsoftpartnercommunity.com)  |
 
 ## <a name="help-from-microsoft-support"></a>Hilfe von Microsoft-Support
 
-Als Microsoft-Partner können Sie von anderen Partnern, die an Ihrem Erfolg beteiligt sind, Hilfe anfordern. Sie können auch Microsoft-Support Unterstützung anfordern. Support Experten stehen Ihnen zur Verfügung, um Sie bei Problemen mit dem Partnerprogramm, Unterstützung von Unterstützung, Problemen mit Microsoft-Produkten, Abrechnungsfragen und mehr zu unterstützen.
+Als Microsoft-Partner können Sie hilfe von anderen Partnern anfordern, die an Ihrem Erfolg beteiligt sind. Sie können auch hilfe von der Microsoft-Support. Supportexperten sind verfügbar, um Sie bei Problemen mit Partnerprogrammen, Presales-Unterstützung, Problemen mit Microsoft-Produkten, Abrechnungsfragen und mehr zu unterstützen.
 
-Wechseln Sie zum [Microsoft-Partner Support](https://partner.microsoft.com/support/?stage=1) , um Ihre Supportoptionen anzuzeigen oder ein Support Ticket zu starten.
+Wechseln Sie [Microsoft Partner Support,](https://partner.microsoft.com/support/?stage=1) um Ihre Supportoptionen zu sehen oder ein Supportticket zu starten.
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Weitere Support Ressourcen anzeigen](https://partner.microsoft.com/support/?stage=1)
+- [Anzeigen von mehr Supportressourcen](https://partner.microsoft.com/support/?stage=1)
 - [Einen Partner suchen](find-a-partner.md)
 - [Erfahren Sie mehr über das MPN-Programm, oder registrieren Sie es.](https://partner.microsoft.com/membership)
 - [Erfahren Sie mehr über das CSP-Programm, oder registrieren Sie es.](https://partner.microsoft.com/membership/cloud-solution-provider)

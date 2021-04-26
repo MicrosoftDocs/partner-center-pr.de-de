@@ -4,38 +4,41 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bei Problemen mit einem Microsoft-Dienst oder mit Partner Center können Sie den Fall an Microsoft eskalieren, um Hilfe zu erhalten, und das Problem nachverfolgen, bis es behoben ist.
+description: Wenn Sie Probleme mit einem Microsoft-Dienst oder mit Partner Center haben, können Sie an Microsoft eskalieren, um Hilfe zu erhalten, und das Problem nachverfolgen, bis es gelöst ist.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f10d1266d9de0cb166580f070f3d05e8f61092b
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: a22dd2a8ec8ce3da3aa0967741685a2f28cc0a15
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441599"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002806"
 ---
-# <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Unterstützung von Microsoft: Wann Probleme eskaliert werden, wie Sie gemeldet werden oder wie die Dienst Integrität überprüft wird
+# <a name="support-from-microsoft"></a>Support von Microsoft
 
 **Zielgruppe**
 
 - Partner Center für Microsoft Cloud for US Government
 
-Bei Problemen mit einem Microsoft-Dienst oder mit Partner Center können Sie den Fall an Microsoft eskalieren, um Hilfe zu erhalten, und das Problem nachverfolgen, bis es behoben ist.
+**Geeignete Rollen**
 
-[Partner Center-Support](report-problems-with-partner-center.md) : Holen Sie sich Hilfe, und erstellen Sie Tickets für alle Partner Center-Programme.
+- Hilfe-Agent
 
-[Unterstützung im Namen von Kunden](report-problems-on-behalf-of-a-customer.md) : Hier erhalten Sie Hilfe und melden Probleme für Ihren Kunden.
+Wenn Sie Probleme mit einem Microsoft-Dienst oder mit Partner Center haben, können Sie das Problem an Microsoft melden, das Problem an Microsoft eskalieren, um Hilfe zu erhalten, und das Problem nachverfolgen, bis es gelöst ist.
 
-[Überprüfen Sie die Dienst](check-service-health.md) Integrität: Überprüfen Sie, ob in Partner Center aktuelle bekannte Dienst Ausfälle vorhanden sind.
+[Partner Center Support:](report-problems-with-partner-center.md) Erhalten Sie Hilfe, und erstellen Sie Tickets für Partner Center Programme.
 
-[Mit unseren APIs automatisierte Dienst Benachrichtigungen erhalten](get-automated-service-notifications-with-our-apis.md) : cloudlösungsanbieter können automatisierte Dienst Benachrichtigungen für die Kundendienste erhalten.
+[Support im Auftrag von Kunden:](report-problems-on-behalf-of-a-customer.md) Erhalten Sie Hilfe, und melden Sie Probleme bei Ihrem Kunden.
 
+[Dienstzustand](check-service-health.md) überprüfen: Überprüfen Sie, ob derzeit bekannte Dienstausfälle in Partner Center.
 
- 
+[Erhalten automatisierter Dienstbenachrichtigungen mit unseren APIs:](get-automated-service-notifications-with-our-apis.md) Cloudlösungsanbieter können automatisierte Dienstbenachrichtigungen für die Dienste ihrer Kunden erhalten.
 
- 
+## <a name="next-steps"></a>Nächste Schritte
 
-
-
+- [Anzeigen von mehr Supportressourcen](https://partner.microsoft.com/support/?stage=1)
+- [Einen Partner suchen](find-a-partner.md)
+- [Erfahren Sie mehr über das MPN-Programm, oder registrieren Sie es.](https://partner.microsoft.com/membership)
+- [Erfahren Sie mehr über das CSP-Programm, oder registrieren Sie es.](https://partner.microsoft.com/membership/cloud-solution-provider)

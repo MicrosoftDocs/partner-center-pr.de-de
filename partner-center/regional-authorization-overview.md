@@ -9,27 +9,31 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528604"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120765"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider regionalen Märkte und Währungen des Programms, in denen Sie CSP-Angebote verkaufen können
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider Programm für regionale Märkte und Währungen, in denen Sie CSP-Angebote verkaufen können
 
-Ihr Markt wird durch den Standort Ihres Unternehmens bestimmt. Ihr Markt umfasst die Regionen und/oder Länder, in denen Sie CSP-Programmangebote (Cloud Solution Provider) verkaufen können.
+**Geeignete Rollen**
 
-Wenn sich Ihr Unternehmen beispielsweise im USA befindet, können Sie CSP-Angebote an Kunden in den USA und auf den US-Amerikanischen Außeninseln verkaufen. Wenn sich Ihr Unternehmen in Brasilien befindet, können Sie CSP-Angebote nur an Kunden in Brasilien verkaufen. Wenn sich Ihr Unternehmen in der Region Afrika befindet, können Sie die CSP-Angebote an Kunden in allen 18 Ländern der Region Afrika verkaufen.
+- Globaler Administrator
 
-Bevor Sie CSP-Angebote im Auftrag eines Kunden bestellen können, muss der Kunde die Microsoft-Kundenvereinbarung unterzeichnen. Die entsprechenden Microsoft-Kundenvereinbarung für Ihre Region/Ihr Land finden Sie [hier.](agreements.md)
+Ihr Markt wird durch den Standort Ihres Unternehmens bestimmt. Ihr Markt umfasst die Regionen und/oder Länder, in denen Sie angebote Cloud Solution Provider CSP-Programm (CSP) verkaufen können.
 
-## <a name="azure-plan-for-csp-region-availability"></a>Azure-Plan für CSP-Regionsverfügbarkeit  
+Wenn sich Ihr Unternehmen beispielsweise in der USA befindet, können Sie CSP-Angebote an Kunden in den USA und auf den US-Amerikanischen Outlying Islands verkaufen. Wenn sich Ihr Unternehmen in Brasilien befindet, können Sie CSP-Angebote nur an Kunden in Brasilien verkaufen. Wenn sich Ihr Unternehmen in der Region Afrika befindet, können Sie die CSP-Angebote an Kunden in allen 18 Ländern der Region Afrika verkaufen.
 
-Der Azure-Plan für CSP ist in weniger Regionen als Azure Software for CSP verfügbar.  Informationen zu den neuesten Updates zur regionalen Verfügbarkeit für  [den Azure-Plan](purchase-azure-plan.md) finden Sie unter Erwerben des Azure-Plans. 
+Bevor Sie CSP-Angebote im Auftrag eines Kunden bestellen können, muss der Kunde die Microsoft-Kundenvereinbarung unterzeichnen. Die entsprechenden Microsoft-Kundenvereinbarung für Ihre Region/Ihr Land finden [Sie hier.](agreements.md)
+
+## <a name="azure-plan-for-csp-region-availability"></a>Verfügbarkeit der Azure-Plan für CSP-Regionen  
+
+Der Azure-Plan für CSP ist in weniger Regionen als Azure Software für CSP verfügbar. Die neuesten Updates zur regionalen Verfügbarkeit für den Azure-Plan finden Sie unter [Erwerben des Azure-Plans.](purchase-azure-plan.md)
 
 >[!IMPORTANT]
-> Sie müssen bestätigen, dass ein Kunde die Microsoft-Kundenvereinbarung akzeptiert hat, indem Sie Informationen zu der Person bereitstellen, die ihn signiert hat. Ausführlichere Informationen findest du unter [Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung](confirm-consent.md).
+> Sie müssen bestätigen, dass ein Kunde die Microsoft-Kundenvereinbarung akzeptiert hat, indem Sie Informationen über die Person bereitstellen, die sie signiert hat. Ausführlichere Informationen findest du unter [Bestätigen der Zustimmung des Kunden zur Microsoft-Kundenvereinbarung](confirm-consent.md).
 
 Suchen Sie den Standort Ihres Unternehmens in einer der folgenden Listen, um zu ermitteln, wo Sie CSP-Angebote verkaufen können. Sie benötigen eine aktive Microsoft Partner Network (MPN)-ID für den Standort, an dem Sie verkaufen möchten.  
 
@@ -40,7 +44,7 @@ Wenn Ihr Land nicht unterstützt wird, richten Sie die CSP-Kundenbeziehung mit d
 
 - Direktabrechnungspartner verwenden die folgende URL: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0. Ersetzen Sie **partnertenantguid** durch Ihre Mandanten-ID. 
 
-- URL für indirekte Vertriebspartner: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid. Ersetzen Sie **IRtenantguid** durch Ihre Mandanten-ID. Ersetzen Sie **IRMPNID** durch Ihre MPN-ID sowie **IPtenantguid** durch Ihre Mandanten-ID für indirekte Anbieter.
+- URL für indirekte Vertriebspartner: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid. Ersetzen **Sie IRtenantguid durch** Ihre Mandanten-ID. Ersetzen **Sie IRMPNID** durch Ihre MPN-ID und **IPtenantguid durch** Ihre Mandanten-ID des indirekten Anbieters.
 
 ## <a name="africa-region-and-market"></a>Afrika: Region und Markt
 
@@ -59,7 +63,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 | Tschad                     |   USD    |
 | Komoren                  |   USD    |
 | Kongo                    |   USD    |
-| Kongo (DRK)              |   USD    |
+| Kongo (DRC)              |   USD    |
 | Côte d'Ivoire            |   USD    |
 | Dschibuti                 |   USD    |
 | Äquatorialguinea        |   USD    |
@@ -90,7 +94,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 | Sierra Leone             |   USD    |
 | Somalia                  |   USD    |
 | Südsudan              |   USD    |
-| St. Helena, Ascension und Tristan da Cunha|    USD   |
+| St. Helena, Ascension, Tristan da Cunha|    USD   |
 | Tansania                 |   USD    |
 | Togo                     |   USD    |
 | Uganda                   |   USD    |
@@ -134,11 +138,11 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Kokosinseln|   AUD   |
 |  Cookinseln          |   AUD    |
 |  Fidschi                  |   AUD    |
-|  Französische Süd- und Antarktisgebiete| AUD |
+|  Französische Gebiete im südlichen Indischen Ozean| AUD |
 |  Guam                  |  AUD     |
 |  Heard und McDonaldinseln| AUD |
 |  Kiribati              |   AUD    |
-|  Marshall-Inseln      |   AUD    |
+|  Marshallinseln      |   AUD    |
 |  Mikronesien            |   AUD    |
 |  Nauru                 |   AUD    |
 |  Niue                  |   AUD    |
@@ -150,7 +154,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Salomonen       |   AUD    |
 |  Tokelau               |   AUD    |
 |  Tonga                 |   AUD    |
-|  Tuvalu                |   AUD    |
+|  Tuwalu                |   AUD    |
 |  Wallis und Futuna     |   AUD    |
 |
 
@@ -190,7 +194,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Tschechische Republik |   EUR    |
 |  Dänemark        |   DKK    |
 |  Estland        |   EUR    |
-|  Faröer  |   EUR    |
+|  Färöer  |   EUR    |
 |  Finnland        |   EUR    |
 |  Frankreich         |   EUR    |
 |  Deutschland        |   EUR    |
@@ -201,7 +205,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Ungarn        |   EUR    |
 |  Island        |   EUR    |
 |  Irland        |   EUR    |
-|  Isle of Man    |   GBP    |
+|  Insel Man    |   GBP    |
 |  Italien          |   EUR    |
 |  Jersey         |   GBP    |
 |  Lettland         |   EUR    |
@@ -285,10 +289,10 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Grenada        |   USD    |
 |  Guadeloupe     |   USD    |
 |  Guatemala      |   USD    |
-|  Guyana         |   USD    |
+|  Guayana         |   USD    |
 |  Haiti          |   USD    |
 |  Honduras       |   USD    |
-|  Jamaica        |   USD    |
+|  Jamaika        |   USD    |
 |  Martinique     |   USD    |
 |  Mexiko         |   USD    |
 |  Montserrat     |   USD    |
@@ -305,7 +309,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  St. Vincent und die Grenadinen| USD |
 |  Sint Eustatius |   USD    |
 |  Sint Maarten   |   USD    |
-|  Südgeorgien und die Südlichen Sandwichinseln| USD|
+|  Südgeorgien und Südliche Sandwichinseln| USD|
 |  Surinam       |   USD    |
 |  Trinidad und Tobago|USD   |
 |  Turks- und Caicosinseln| USD|
@@ -333,7 +337,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Georgien        |   USD    |
 |  Irak           |   USD    |
 |  Israel         |   USD    |
-|  Jordanien         |   USD    |
+|  Jordan         |   USD    |
 |  Kasachstan     |   USD    |
 |  Kosovo         |   USD    |
 |  Kuwait         |   USD    |
@@ -404,5 +408,5 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Land/Region       | Währung |
 |  -------------        |:--------:|
 |  USA        |   USD    |
-|  USA Kleinere Amerikanische Überseeinseln|   USD    |
+|  USA Amerikanische Überseeinseln|   USD    |
 |

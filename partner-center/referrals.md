@@ -1,22 +1,26 @@
 ---
-title: Erweitern Sie Ihr Business mit Microsoft-Referenzen
+title: Wachstum Ihres Unternehmens mit Microsoft-Empfehlungen
 ms.topic: article
 ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie ein Geschäftsprofil erstellen, um Vertriebs Leads über die Partner Center-Referenzfunktion zu generieren, und dann auf diese Verweise zu reagieren.
+description: Erfahren Sie, wie Sie ein Geschäftsprofil erstellen, um Vertriebs leads über das feature Partner Center Referrals (Empfehlungen) zu generieren und dann auf diese Empfehlungen zu reagieren.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 391768b14473c3cbdaf5049007c36bbf28dd1167
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 149897c0afa12c4c45df974dafb5c47826274174
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549208"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120730"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Steigerung des Umsatzes mit Empfehlungen von Microsoft
+
+**Geeignete Rollen**
+
+- Empfehlungsadministrator
 
 Viele Kunden suchen nach qualifizierten Experten, die sie bei der Implementierung von Microsoft-Technologien und -Lösungen unterstützen. Microsoft erhält häufig direkte Supportanfragen von Kunden über unsere Marketingaktivitäten und von unseren internen Microsoft-Vertriebsmitarbeitern. Kunden nutzen darüber hinaus die Funktion [**Lösungsanbieter suchen**](https://www.microsoft.com/solution-providers/search), um Unternehmen zu finden, die sie bei der Erfüllung ihrer Unternehmensanforderungen unterstützen können. 
 

@@ -1,116 +1,123 @@
 ---
-title: Übersicht über das Übersicht über Partner Center Insights
+title: Partner Center Insights-Übersichtsdashboard
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sehen Sie sich eine Momentaufnahme der Verwendung von Vertrieb und Bereitstellung, Kundenwachstum und Umsatzwachstum mit Lizenzen, Abonnements und Azure-Verbrauch an.
+description: Sehen Sie sich eine Momentaufnahme der Umsatz- und Bereitstellungsentwicklung, des Kundenwachstums und des Umsatzwachstums mit Lizenzen, Abonnements und azure-Nutzung an.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91075e8aab1759904a1549dd38bee6fb886c1c65
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14d280a65fa7c72ed382fd8b27e0354a4aa9e190
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220488"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120816"
 ---
-# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Übersicht über Dashboardberichte in Partner Center Insights
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Partner Center-Einblicke – Berichte im Dashboard „Übersicht“
  
-Das Übersichts Dashboard bietet eine Momentaufnahme Ansicht der wichtigsten Leistungsindikatoren, wie z. b. Kunden, Abonnements, Azure-Verbrauchs Umsätze, Lizenzen usw. Sie können die folgenden Diagramme im Übersichtsbericht visualisieren.
+**Geeignete Rollen**
+
+- Globaler Administrator
+- Administrator-Agent
+- Berichtleser
+- Executive Report-Leser
+
+Das Dashboard Insights-Übersicht bietet eine Momentaufnahmeansicht der Key Performance Indicators wie Kunden, Abonnements, Azure Consumption Revenue und Lizenzen. Sie können die folgenden Diagramme im Bericht Übersicht visualisieren.
 
 - Zusammenfassung  
 - Geografische Verteilung Ihrer Kunden, Abonnements und Lizenzen  
-- Trend für Kundenwachstum 
-- Trend zum Wachstum von Abonnements 
-- Azure-Trend zum Umsatzwachstum 
-- Trend zum Wachstum von Lizenzen 
+- Kundenwachstumstrend 
+- Wachstumstrend für Abonnements 
+- Umsatzsteigerungstrend in Azure 
+- Wachstumstrend bei Lizenzen 
 
 ## <a name="summary"></a>Zusammenfassung
 
-Die Zusammenfassung enthält Informationen zu Kunden, Azure-verbrauchter Umsatz (ACR), verkauften Abonnements, aktiven Abonnements und bereitgestellten Lizenzen. 
+Die Zusammenfassung enthält Informationen zu Kunden, Azure-Umsatzverbrauch (ACR), verkauften Abonnements, aktiven Abonnements und bereitgestellten Lizenzen. 
 
-:::image type="content" source="images/pci/summary.png" alt-text="Zusammenfassungs Lizenzen":::
+:::image type="content" source="images/pci/summary.png" alt-text="Zusammenfassungslizenzen":::
 
-Weitere Informationen zu den einzelnen Abschnitten der Zusammenfassung finden Sie unten.
+Weitere Informationen zu den einzelnen Abschnitten der Zusammenfassung finden Sie hier.
 
 ### <a name="customers"></a>Kunden
 
-Der Bereich " **Kunden** " umfasst Folgendes:
+Der **Bereich Kunden** umfasst Folgendes:
 
-- Die aktuelle Anzahl aller Kunden mit mindestens einem aktiven Abonnement, das Ihrem Unternehmen über unterschiedliche Zuweisungs Typen und über alle cloudprodukte zugeordnet ist.
-- Das prozentuale Wachstum von Kunden während des ausgewählten Datums Bereichs.
-- Das Micro-Diagramm zeigt den Monat-über-Monat-Trend der Kundenanzahl innerhalb des ausgewählten Datums Bereichs.
+- Die aktuelle Anzahl aller Kunden mit mindestens einem aktiven Abonnement, das Ihrem Unternehmen über verschiedene Zuordnungstypen und alle Cloudprodukte zugeordnet ist.
+- Das prozentuale Wachstum der Kunden während des ausgewählten Datumsbereichs.
+- Das Mikrodiagramm zeigt den Monatlichen Trend der Kundenanzahl innerhalb des ausgewählten Datumsbereichs an.
 
-### <a name="azure-consumed-revenue-acr"></a>Von Azure verbrauchter Umsatz (ACR)
+### <a name="azure-consumed-revenue-acr"></a>Azure-Umsatzverbrauch (ACR)
 
-Der Bereich **Azure verbrauchter Umsatz (ACR)** in der Zusammenfassung umfasst Folgendes:
+Der **Azure-Umsatzverbrauch (ACR)** in der Zusammenfassung umfasst Folgendes:
 
-- Der gesamte von Azure belegte Umsatz (in US $), der Ihnen über den ausgewählten Datumsbereich zugeordnet ist.
-- Das prozentuale Wachstum oder der Rückgang in attributierten ACR (in US $) während des ausgewählten Datums Bereichs.
-- Das Micro-Diagramm zeigt einen monatlichen Trend von ACR US $, der Ihnen über den ausgewählten Datumsbereich zugeordnet ist. 
+- Die Gesamtanzahl Azure-Umsatzverbrauch (in US $), die Ihnen über den ausgewählten Datumsbereich zugeordnet ist.
+- Das prozentuale Wachstum oder der Prozentuale Rückgang der attributiert ACR (in US $) während des ausgewählten Datumsbereichs.
+- Das Mikrodiagramm zeigt einen monatlichen Trend von ACR US$, der Ihnen über den ausgewählten Datumsbereich zugeschrieben wird. 
 
 > [!NOTE]
-> Azure-verbrauchte Umsatzdaten (ACR) sind für Benutzer verfügbar, denen die Rolle "Executive Report Viewer" zugewiesen ist. 
+> ACR-Daten (Azure-Umsatzverbrauch) stehen Benutzern zur Verfügung, denen die Rolle "Berichts-Viewer für Führungskräfte" zugewiesen wurde. 
  
 ### <a name="subscriptions-sold"></a>Verkaufte Abonnements
 
-Der Bereich für **verkaufte Abonnements** in der Zusammenfassung umfasst Folgendes:
+Der Bereich **"Verkaufte Abonnements"** in der Zusammenfassung enthält Folgendes:
 
-- Die Gesamtanzahl der aktuellen cloudproduktabonnements (aktiv und inaktiv), die von Ihnen verkauft oder verwaltet werden.  
-- Das prozentuale Wachstum oder der Rückgang der Abonnements während des ausgewählten Datums Bereichs.
-- Das Micro-Diagramm zeigt den Trend für den Monat im Vergleich zu den Gesamt Abonnements des ausgewählten Datums Bereichs.
+- Die Gesamtzahl der von Ihnen verkauften oder verwalteten Cloudproduktabonnements (aktiv und inaktiv).  
+- Das prozentuale Wachstum oder der Rückgang von Abonnements während des ausgewählten Datumsbereichs.
+- Das Mikrodiagramm zeigt den Monatlich-im-Monat-Trend der gesamten Abonnements über den ausgewählten Datumsbereich an.
 
 ### <a name="active-subscriptions"></a>Aktive Abonnements
 
-Der Bereich **aktive Abonnements** in der Zusammenfassung umfasst Folgendes:
+Der Bereich **Aktive Abonnements** in der Zusammenfassung enthält Folgendes:
 
-- Die aktuelle Anzahl der cloudabonnements, bei der die aktive Verwendung basierend auf Produkt Telemetrie gemessen wird. Dies schließt alle Test Abonnements im Fall von Azure-Abonnements aus.  
-- Das prozentuale Wachstum aktiver Abonnements im ausgewählten Datumsbereich.
-- Im Micro-Diagramm wird der Trend für den Monat im Vergleich zu aktiven Abonnements im ausgewählten Datumsbereich dargestellt.
+- Die aktuelle Anzahl von Cloud-Produktabonnements mit aktiver Nutzung, gemessen basierend auf der Produkttelemetrie. Dies schließt alle Testabonnements im Fall von Azure-Abonnements aus.  
+- Das prozentuale Wachstum aktiver Abonnements über den ausgewählten Datumsbereich.
+- Das Mikrodiagramm zeigt den Monatlich-im-Monat-Trend aktiver Abonnements über den ausgewählten Datumsbereich an.
  
 ### <a name="licenses-deployed"></a>Bereitgestellte Lizenzen
 
-Der Bereich zur Bereitstellung von **Lizenzen** in der Zusammenfassung umfasst Folgendes:
+Der Bereich **Bereitgestellte Lizenzen** in der Zusammenfassung enthält Folgendes:
  
-- Die Anzahl aller Cloud-Produktlizenzen, die im ausgewählten Zeitraum in ihren Kunden Abonnements bereitgestellt werden. 
-- Das prozentuale Wachstum oder ablehnen dieser Lizenzen während des ausgewählten Datums Bereichs. 
-- Das Micro-Diagramm zeigt den Monat-für-Monat-Trend der Anzahl der zugewiesenen Lizenzen im ausgewählten Datumsbereich.
+- Die Anzahl aller Cloudproduktlizenzen, die im ausgewählten Zeitraum in Ihren Kundenabonnements bereitgestellt wurden. 
+- Das prozentuale Wachstum oder der Prozentuale Rückgang dieser Lizenzen während des ausgewählten Datumsbereichs. 
+- Das Mikrodiagramm zeigt den Monatlich-Monat-Trend dieser zugewiesenen Lizenzen für den ausgewählten Datumsbereich an.
 
-## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Geografische Verteilung von Kunden, Abonnements und Lizenzen
+## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Geografische Verteilung Ihrer Kunden, Abonnements und Lizenzen
 
-Diese Ansicht ist eine geografische Verteilung von Gesamt Kunden, Abonnements und Lizenzen nach Kunden Land. Klicken Sie auf die verschiedenen Registerkarten, um die einzelnen Einblicke in der Karte anzuzeigen. Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte zu zoomen. Kehren Sie zur ursprünglichen Ansicht zurück, indem Sie auf der Karte auf die Start Schaltfläche klicken. Wenn Sie auf die einzelnen Registerkarten (z. b. "Kunden", "Abonnements") klicken, wird der Wert der Metrik für jedes Land sowie der Gesamtbetrag für das Land angezeigt.  
+Diese Ansicht ist eine geografische Verteilung der Gesamtanzahl von Kunden, Abonnements und Lizenzen nach Kundenland. Wählen Sie die verschiedenen Registerkarten aus, um die einzelnen Erkenntnisse auf der Karte anzuzeigen. Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte zu zoomen. Gehen Sie zur ursprünglichen Ansicht zurück, indem Sie auf der Karte auf die Schaltfläche Start klicken. Wenn Sie auf jede Registerkarte klicken (z. B. Kunden, Abonnements), werden der Wert der Metrik für jedes Land und der Prozentwert von Total für das Land angezeigt.  
 
 :::image type="content" source="images/pci/geosummary.png" alt-text="Geografische Zusammenfassung":::
 
-## <a name="customers-growth-trend"></a>Trend für Kundenwachstum
+## <a name="customers-growth-trend"></a>Kundenwachstumstrend
 
-Monatlicher Trend der Gesamtanzahl der Kunden, die für den ausgewählten Datumsbereich gelten. Die X-Achse stellt Monate des ausgewählten Datums Bereichs dar, und die Y-Achse stellt die Gesamtzahl der Kunden für diesen Monat dar. 
+Monatlicher Trend der Gesamtzahl der Kunden für den ausgewählten Datumsbereich. Die X-Achse stellt Monate des ausgewählten Datumsbereichs und die Y-Achse die Gesamtkundenanzahl für diesen Monat dar. 
 
-:::image type="content" source="images/pci/customergrowth.png" alt-text="Trend für Kundenwachstum":::
+:::image type="content" source="images/pci/customergrowth.png" alt-text="Kundenwachstumstrend":::
 
-## <a name="subscriptions-growth-trend"></a>Trend zum Wachstum von Abonnements
+## <a name="subscriptions-growth-trend"></a>Wachstumstrend für Abonnements
 
-Hiermit wird der Trend der Anzahl der Kunden Abonnements für den ausgewählten Datumsbereich angegeben. Die X-Achse stellt Monate des ausgewählten Datums Bereichs dar, und die Y-Achse repräsentiert die Anzahl der Abonnements, die für das Produkt ausgewählt wurden. Scrollen Sie durch den Schieberegler am oberen Rand des Diagramms, um das Diagramm zu einem bestimmten Zeitraum zu vergrößern. 
+Dies gibt den Trend ihrer Kundenabonnements für den ausgewählten Datumsbereich an. Die X-Achse stellt Monate des ausgewählten Datumsbereichs und die Y-Achse die Abonnementanzahl des ausgewählten Produkts dar. Scrollen Sie durch den Schieberegler oben im Diagramm, um das Diagramm auf einen bestimmten Zeitraum zu zoomen. 
 
-:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Trend für Abonnement Wachstum":::
+:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Abonnementwachstumstrend":::
 
-## <a name="azure-consumed-revenue-growth-trend"></a>Azure-Trend zum Umsatzwachstum
+## <a name="azure-consumed-revenue-growth-trend"></a>Azure-Umsatzverbrauch Wachstumstrend
 
-Monatlicher Trend der von Azure genutzten Einnahmen US $, die Ihnen über den ausgewählten Datumsbereich zugeordnet sind. Die X-Achse stellt Monate des ausgewählten Datums Bereichs dar, und die Y-Achse repräsentiert den gesamten von Azure genutzten Umsatz US $, der Ihnen während des Monats zugeordnet wurde.
+Monatlicher Trend von Azure verbrauchter Umsatz US$, der Ihnen über den ausgewählten Datumsbereich zugeordnet ist. Die X-Achse stellt Monate des ausgewählten Datumsbereichs dar, und die Y-Achse stellt den gesamten von Azure verbrauchten Umsatz US$ dar, der Ihnen während des Monats zugeordnet ist.
 
 > [!NOTE]
-> Azure verbrauchter Umsatz (ACR) ist nur für Benutzer sichtbar, denen die Rolle "Executive Report Viewer" zugewiesen wurde. 
+> Azure-Umsatzverbrauch (ACR) ist nur für Benutzer sichtbar, denen die Rolle "Executive Report Viewer" zugewiesen wurde. 
 
-:::image type="content" source="images/pci/azureconsumed.png" alt-text="Azure-Nutzung":::
+:::image type="content" source="images/pci/azureconsumed.png" alt-text="Azure-Verbrauch":::
 
-## <a name="licenses-growth-trend"></a>Trend zum Wachstum von Lizenzen
+## <a name="licenses-growth-trend"></a>Wachstumstrend bei Lizenzen
  
-Trend der Lizenzen, die während des ausgewählten Datums Bereichs von allen Kunden zugewiesen wurden. Die X-Achse stellt Monate des ausgewählten Datums Bereichs dar, und die Y-Achse steht für die Anzahl der Lizenzen, die Sie ausgewählt haben. Scrollen Sie durch den Schieberegler am oberen Rand des Diagramms, um das Diagramm zu einem bestimmten Zeitraum zu vergrößern.  
+Trend der Lizenzen, die von allen Kunden während des ausgewählten Datumsbereichs zugewiesen wurden. Die X-Achse stellt Monate des ausgewählten Datumsbereichs und die Y-Achse die Anzahl der Lizenzen des ausgewählten Produkts dar. Scrollen Sie durch den Schieberegler oben im Diagramm, um das Diagramm auf einen bestimmten Zeitraum zu vergrößern.  
 
 :::image type="content" source="images/pci/licensesgrowth.png" alt-text="Lizenzen":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-Weitere Berichte finden Sie unter [Partner Center Insights](partner-center-insights.md).
+Weitere Berichte finden Sie unter [Partner Center Insights.](partner-center-insights.md)

@@ -1,73 +1,78 @@
 ---
-title: Felder für das Wiederholen von Dateien für CSP-einmalige Käufe
+title: Dateifelder für einmalige CSP-Käufe neu konfigurieren
 ms.topic: conceptual
 ms.date: 01/29/2021
-description: Erfahren Sie mehr über alle Elemente in ihrer CSP-Datei für die einmalige Kauf Abstimmung in Partner Center, einschließlich Beispiel Werten.
+description: Erfahren Sie mehr über alle Elemente in Ihrer CSP-Abstimmungsdatei für einmaligen Kauf in Partner Center, einschließlich Beispielwerten.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103773"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120714"
 ---
-# <a name="csp-one-time-purchase-reconciliation-file-fields"></a>Felder für die einmalige Kauf Abstimmung von CSP-Dateien
+# <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP-Felder für einmalige Kaufabstimmungsdatei
 
-## <a name="using-the-recon-file"></a>Verwenden der Datei "Reconnaissance"
-In der folgenden Tabelle finden Sie Beschreibungen und Beispiel Werte für die Felder in der Abstimmungs Datei für die einmaligen Käufe von CSP.
+**Geeignete Rollen**
 
-Weitere Informationen zum Abgleich von Dateien finden Sie unter [use the Versöhnungs files](use-the-reconciliation-files.md).
+- Kontoadministrator
+- Abrechnungs-Agent
+
+## <a name="using-the-recon-file"></a>Verwenden der Recon-Datei
+Die folgende Tabelle enthält Beschreibungen und Beispielwerte für die Felder in der Abstimmungsdatei für einmalige CSP-Käufe.
+
+Weitere Informationen zu Abstimmungsdateien finden Sie unter [Verwenden der Abstimmungsdateien.](use-the-reconciliation-files.md)
 
 | Column | BESCHREIBUNG | Beispielwert |
 | ------ | ----------- | ------------ |
-| PartnerId | Eindeutiger Bezeichner im GUID-Format für eine bestimmte Abrechnungs Entität. Für die Abstimmung nicht erforderlich. In allen Zeilen gleich. | *0e195b37-4574-4539-bc42-0e539b9684c0* |
+| PartnerId | Eindeutiger Bezeichner im GUID-Format für eine bestimmte Abrechnungsentität. Für die Abstimmung nicht erforderlich. In allen Zeilen gleich. | *0e195b37-4574-4539-bc42-0e539b9684c0* |
 | CustomerId | Eindeutiger Microsoft-Bezeichner für den Kunden im GUID-Format. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
-| CustomerName | Der in Partner Center angegebene Organisationsname des Kunden. Diese Spalte ist wichtig, um die Rechnung mit ihren Systeminformationen abzustimmen. | *Johnny modern cust DE2* |
-| CustomerDomainName | Der Domänen Name des Kunden. | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | Das Land, in dem sich Ihr Kunde befindet. Sehen Sie sich die vollständige [Liste der Länder](./regional-authorization-overview.md) für Ihre Region an.  | *DE* |
-| InvoiceNumber | Die Rechnungsnummer, die der Abstimmungs Datei zugeordnet ist.  | *G002297372* |
-| MPNID | MPN-Bezeichner des CSP-Partners. Weitere Informationen finden Sie unter Vorgehens [Weise beim itemisieren nach Partner](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
-| Resellermpnid | MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement. | *6048879* |
-| OrderId | Eindeutiger Bezeichner für einen Auftrag auf der Microsoft-Abrechnungsplattform. Kann nützlich sein, um die Reihenfolge zu identifizieren, in der der Support kontaktiert Wird nicht für die Abstimmung verwendet. | *0et2qazvjgff9wgsknwzr5jlmhp10loc1* |
-| OrderDate | Datum, an dem die Bestellung platziert wurde. | *10/3/2020* |
-| ProductId | Der eindeutige Bezeichner des Produkts. | *DZH318Z0BNZ5* |
-| SkuId | Der eindeutige SKU-Bezeichner. | *006g* |
-| AvailabilityId | Der eindeutige Verfügbarkeits Bezeichner. | *DZH318Z08B80* |
-| SkuName | Der SKU-Name. | *Tabellen-LRS* |
+| CustomerName | Der in Partner Center angegebene Organisationsname des Kunden. Diese Spalte ist wichtig für die Abstimmung der Rechnung mit Ihren Systeminformationen. | *Johnny Modern Cust DE2* |
+| CustomerDomainName | Domänenname des Kunden. | *testcustomerdomain.onmicrosoft.com* |
+| CustomerCountry | Das Land, in dem sich Ihr Kunde befindet. Sehen Sie sich [die vollständige Liste der Länder](./regional-authorization-overview.md) für Ihre Region an.  | *DE* |
+| InvoiceNumber | Die Rechnungsnummer, die der Abstimmungsdatei zugeordnet ist.  | *G002297372* |
+| MPNID | MPN-Bezeichner des CSP-Partners. Weitere Informationen finden Sie unter [Itemisieren nach Partner.](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner) | *6034453* |
+| ResellerMpnId | MPN-ID des Vertriebspartners des Datensatzes für das Abonnement. | *6048879* |
+| OrderId | Eindeutiger Bezeichner für einen Auftrag auf der Microsoft-Abrechnungsplattform. Kann nützlich sein, um den Auftrag zu identifizieren, wenn Sie sich an den Support wenden. Wird nicht für die Abstimmung verwendet. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
+| OrderDate | Datum, an dem die Bestellung aufgegeben wurde. | *10/3/2020* |
+| ProductId | Der eindeutige Bezeichner des Produkts. | *DESH318Z0BNZ5* |
+| SkuId | Der eindeutige SKU-Bezeichner. | *006G* |
+| AvailabilityId | Der eindeutige Verfügbarkeitsbezeichner. | *DESH318Z08B80* |
+| SkuName | Der SKU-Name. | *Tabellen – LRS* |
 | ProductName | Der Produktname. | *Tabellen* |
-| ChargeType | Der [Typ der Belastung](./recon-file-charge-types.md) oder der Anpassung. | *Neu* |
-| UnitPrice | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert | *0,045* |
-| Menge | Die Anzahl der Lizenzen. Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert | *1* |
-| Subtotal (Zwischensumme) | Gesamtbetrag vor Steuern Das Teilergebnis sollte gleich der abrechenbaren Menge sein, multipliziert mit dem effektiven Einheitspreis. | *0* |
-| TaxTotal | Steuern der Steuerbeträge. Basierend auf den Steuerregeln Ihres Marktes und bestimmten Bedingungen. | *0* |
-| Gesamt | Der Gesamtbetrag ist gleich dem Teilergebnis plus dem Steuerbetrag. | *0* |
-| Währung | Ihre Rechnung wird im Kontext der Kunden Währung generiert. Dies bedeutet: Wenn Sie als Partner Transaktionen mit Kunden aus unterschiedlichen abrechenbaren Währungen durchführen, erhalten Sie für jeden Kundenwährungstyp eine Rechnung.  | *EUR* |
-| Preis Beschreibung | Die Gründe für die Anpassungen im Einzelpreis. Dies sind die Hauptgründe, aber nicht auf die Bestimmung des effektiven Einheits Preises beschränkt. | *["15,0% Partner Guthaben für verwaltete Dienste"]* |
+| ChargeType | Die [Art der Gebühr](./recon-file-charge-types.md) oder Anpassung. | *Neu* |
+| UnitPrice | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dies den Informationen entspricht, die während der Abstimmung in Ihrem Abrechnungssystem gespeichert sind. | *0.045* |
+| Menge | Die Anzahl der Lizenzen. Stellen Sie sicher, dass dies den Informationen entspricht, die während der Abstimmung in Ihrem Abrechnungssystem gespeichert sind. | *1* |
+| Subtotal (Zwischensumme) | Gesamtbetrag vor Steuern Die Teilsumme sollte gleich der agerechneten Menge multipliziert mit dem effektiven Einzelpreis sein. | *0* |
+| TaxTotal | Steuerbetragsgebühr. Basierend auf den Steuerregeln Ihres Markts und bestimmten Umständen. | *0* |
+| Gesamt | Der Gesamtbetrag entspricht der Teilsumme zuzüglich des Steuerbetrags. | *0* |
+| Währung | Ihre Rechnung wird im Kontext der Währung des Kunden generiert. Dies bedeutet: Wenn Sie als Partner Transaktionen mit Kunden aus unterschiedlichen abrechenbaren Währungen durchführen, erhalten Sie für jeden Kundenwährungstyp eine Rechnung.  | *EUR* |
+| PriceAdjustmentDescription | Die Gründe für die Anpassungen des Einzelpreises. Dies sind die Hauptgründe, aber nicht beschränkt auf die Bestimmung des effektiven Einzelpreises. | *["15,0% Vom Partner verdientes Guthaben für verwaltete Dienste"]* |
 | PublisherName | Herausgeber des Produkts.  | *Microsoft* |
-| PublisherId | Ein eindeutiger Bezeichner, der vom Partner Center zum Identifizieren des Verlegers verwendet wird. | *AS* |
-| SubscriptionDescription | Der Name des Service-Angebots, das der Kunde gekauft hat, wie in der Preisliste definiert. Diese Spalte ist ein identisches Feld für "Offername". | *Azure-Plan* |
-| SubscriptionId | Eindeutiger Bezeichner für ein Abonnement auf der Microsoft-Abrechnungsplattform. Wird nicht für die Abstimmung verwendet. Beachten Sie, dass dieser Bezeichner nicht mit der Abonnement-ID in der Partner Administrator Konsole identisch ist. | *307628r1-d9d2-f. c-ea1f -4183f 0cae308* |
+| PublisherId | Ein eindeutiger Bezeichner, Partner Center den Herausgeber identifiziert. | *Nicht verfügbar* |
+| SubscriptionDescription | Der Name des Service-Angebots, das der Kunde gekauft hat, wie in der Preisliste definiert. Diese Spalte ist ein identisches Feld mit OfferName. | *Azure-Plan* |
+| SubscriptionId | Eindeutiger Bezeichner für ein Abonnement auf der Microsoft-Abrechnungsplattform. Wird nicht für die Abstimmung verwendet. Beachten Sie, dass dieser Bezeichner nicht mit der Abonnement-ID in der Partner-Verwaltungskonsole identisch ist. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
 | ChargeStartDate | Das Datum, an dem der Abrechnungszeitraum eines Abonnements beginnt. | *9/1/2020* |
 | ChargeEndDate | Das Datum, an dem der Abrechnungszeitraum eines Abonnements endet. | *30.09.2020* |
-| Termandbillingcycle | Die Dauer der weiteren Verpflichtung zum Fortsetzen des Abonnements zum Zeitpunkt des Kaufs. | *Gespeicherte Daten (GB/Monat)* |
-| Effectiveunitprice | Der Anteils mäßige Einheitspreis zum Berechnen der Kosten für den Abrechnungszeitraum. Rabatte, Anpassungen in Abrechnungs Tagen und andere Faktoren bestimmen den effektiven Einzelpreis. Weitere Informationen finden Sie unter [effektive Unit Price-Berechnung](./effective-unit-price-calculation.md).  | *0,03825* |
-| UnitType | Der Typ der Einheit, in der die Verbrauchseinheit berechnet wird. | *1 GB/Monat* |
-| AlternateId | Die Alternative ID des Auftrags Elements, auf das verwiesen wird. | *6dc5c039750a* |
-| Billablemenge | Die Gesamtmenge, die abgerechnet wird.  | *0,005001* |
-| Billingfrequency | Der zum Zeitpunkt des Kaufs ausgewählte Abrechnungsplan. | *AS*  |
+| TermAndBillingCycle | Die Verpflichtung zur Verlängerung des Abonnements zum Zeitpunkt des Kaufs. | *Gespeicherte Daten (GB/Monat)* |
+| EffectiveUnitPrice | Der anteilsmäßig berechnete Einzelpreis zum Berechnen der Kosten für den Abrechnungszyklus. Rabatte, Anpassungen an Abrechnungstagen und andere Faktoren bestimmen den effektiven Einzelpreis. Weitere Informationen finden Sie unter [Effective Unit Price Calculation](./effective-unit-price-calculation.md).  | *0.03825* |
+| Unittype | Der Typ der Einheit, in der die Verbrauchseinheit in Rechnung gestellt wird. | *1 GB/Monat* |
+| AlternateId | Die alternative ID des Auftragszeilenelements, auf das verwiesen wird. | *6dc5c039750a* |
+| BillableQuantity | Die in Rechnung gestellte Gesamtmenge.  | *0.005001* |
+| BillingFrequency | Der zum Zeitpunkt des Kaufs ausgewählte Abrechnungsplan. | *Nicht verfügbar*  |
 | PricingCurrency | Die Währung in der Preisliste. | *USD* |
-| Pctobcexchangerate | Der Wechselkurs, der für die Preiswährung auf Abrechnungswährung angewendet wird. | *0,846202666* |
-| Pctobcexchangeratedate | Das Datum, an dem die Preiswährung der Abrechnungswährung festgelegt wird. | *30.09.2020* |
-| Meterbeschreibung | Beschreibung der Verbrauchseinheit.  | *Tabellen-lokal gespeicherte LRS-Daten (GB/Monat)* |
-| ReservationOrderId | Die Reservierungs Auftrags-ID. | *E21A6344E398FFC1C4D7...* |
-| "Credideboncode" | Die Bonitäts Beschreibung. | *Azure-Verbrauchs Guthaben* |
+| PCToBCExchangeRate | Der Wechselkurs, der für die Preiswährung in die Abrechnungswährung angewendet wird. | *0.846202666* |
+| PCToBCExchangeRateDate | Das Datum, an dem die Preiswährung für die Abrechnungswährung bestimmt wird. | *30.09.2020* |
+| MeterDescription | Beschreibung der Verbrauchsmessung.  | *Tabellen – Gespeicherte LRS-Daten (GB/Monat)* |
+| ReservationOrderId | Die ID des Reservierungsauftrags. | *E21A6344E398FFC1C4D7...* |
+| CreditReasonCode | Die Kreditbeschreibung. | *Azure-Verbrauchsguthaben* |
 
 >[!NOTE]
->Sie können Ihren Azure-Verbrauch in ihrer einmaligen Kauf Datei abstimmen. Wechseln Sie zu diesem Zweck zu Ihrer Datei für die tägliche Nutzung der Nutzungsdauer, und suchen Sie nach ihrer Abonnement-ID. Dadurch werden alle Kosten angezeigt, die ihrer Azure-Plan-ID zugeordnet sind. Ihre Azure-Abonnement-ID wird als "" "" "" "" "".
+>Sie können Ihren Azure-Verbrauch in Ihrer Einmaligen Kauf-Recon-Datei abstimmen. Wechseln Sie dazu zu Ihrer täglich bewerteten Nutzungs-Recon-Datei, und suchen Sie nach Ihrer SubscriptionID. Dadurch werden alle Kosten angezeigt, die Ihrer Azure-Plan-ID zugeordnet sind. Ihre Azure SubscriptionID wird als EntitlementID angezeigt.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

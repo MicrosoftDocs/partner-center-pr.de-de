@@ -4,46 +4,46 @@ ms.topic: article
 ms.date: 08/25/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Als Microsoft-Partner haben Sie möglicherweise Fragen dazu, wie Sie Ihre Kunden oder bestimmte Programme unterstützen können. Finden Sie weitere Partner, die Ihnen helfen können.
+description: Als Microsoft-Partner haben Sie möglicherweise Fragen dazu, wie Sie Ihren Kunden oder bestimmten Programmen helfen können. Suchen Sie nach anderen Partnern, die Ihnen helfen können.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b056d21fd1581c9fa478f720addec0c1d4c3c87
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041014"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172335"
 ---
-# <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Finden Sie einen Partner oder Lösungsanbieter zur Beantwortung von Fragen zu Programmen, Lizenzierung oder Kundengeschäften. 
+# <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Suchen eines Partners oder Lösungsanbieters, um Fragen zu Programmen, Lizenzierung oder Kundenvereinbarungen zu beantworten 
 
-**Zielgruppe**
+**Geeignete Rollen**
 
-- Microsoft MPN-Partner, CSP-Partner und andere
+- Alle Microsoft-Partner
 
-In diesem Artikel wird Microsoft-Partnern erläutert, wie Sie nach anderen Partnern suchen können, die Ihnen und ihren Kunden dabei helfen können, mit Microsoft-Produkten und-Diensten
+In diesem Artikel erfahren Microsoft-Partner, wie Sie andere Partner finden, die sie und ihre Kunden bei Microsoft-Produkten und -Diensten unterstützen können.
 
 ## <a name="different-microsoft-partners-and-solution-providers"></a>Verschiedene Microsoft-Partner und Lösungsanbieter
 
 Es gibt viele Arten von Partnern oder Verteilern im Microsoft-Partnerökosystem. Einige der in diesem Artikel behandelten Themen umfassen Folgendes:
 
-- Programm indirekte Vertriebspartner von Cloud Solution Provider (CSP) und deren indirekte Anbieter
-- Volumen Lizenzierungsprogramm Verteiler
+- indirekte Vertriebspartner im Cloud Solution Provider-Programm (CSP) und deren indirekte Anbieter
+- Volumenlizenzprogrammverteiler
 - OEM-Verteiler
 
-Weitere Informationen zu Partnerbeziehungen im CSP-Programm finden [Sie unter unterschiedliche Möglichkeiten für die Arbeit mit anderen Partnern in Partner Center](work-with-other-partners.md).
+Weitere Informationen zu Partnerbeziehungen im CSP-Programm finden Sie unter [Verschiedene Möglichkeiten, wie Sie mit anderen Partnern in Partner Center arbeiten können.](work-with-other-partners.md)
 
 ## <a name="find-a-partner-solution-provider-or-distributor"></a>Suchen eines Partners, Lösungsanbieters oder Verteilers
 
-In der folgenden Tabelle finden Sie Informationen zum Auffinden eines Partners oder Verteilers.
+Informationen zur Suche nach einem Partner oder Verteiler finden Sie in der folgenden Tabelle.
 
 |Aufgabe  | ... finden Sie hier weitere Informationen  |
 |:------------------|:--------------- |
-|Suchen eines indirekten CSP-Anbieters *(für indirekte CSP-Reseller, die noch nicht über einen indirekten Anbieter verfügen)* | [Microsoft Partner Network indirekte Anbieter Suchseite](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
-|Suchen eines Lösungsanbieters oder-Verteilers für den Volumen Lizenzierungsprogramm  | [Microsoft Solution Provider-Suchseite](https://www.microsoft.com/solution-providers/home)  |
-|Suchen eines autorisierten OEM-Kanal Verteilers von Microsoft  | [OEM-Suchseite für Microsoft Device Partner Center](https://devicepartner.microsoft.com/connect/distributor)  |
+|Suchen eines indirekten CSP-Anbieters *(für indirekte CSP-Vertriebspartner, denen noch kein indirekter Anbieter zugewiesen ist)* | [Microsoft Partner Network Seite für die Suche nach indirekten Anbietern](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
+|Suchen eines Lösungsanbieters oder Verteilers für ein Volumenlizenzprogramm  | [Suchseite des Microsoft-Lösungsanbieters](https://www.microsoft.com/solution-providers/home)  |
+|Suchen eines von Microsoft autorisierten OEM-Kanalverteilers  | [Microsoft Device Partner Center OEM-Suchseite](https://devicepartner.microsoft.com/connect/distributor)  |
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Als indirekter Reseller im CSP-Programm werden](https://partner.microsoft.com/licensing)
-- [Weitere Informationen zu indirekten Wiederverkäufern und indirekten Anbietern im CSP-Programm](work-with-other-partners.md)
+- [Indirekter Vertriebspartner im CSP-Programm werden](https://partner.microsoft.com/licensing)
+- [Weitere Informationen zu indirekten Vertriebspartnern und indirekten Anbietern im CSP-Programm](work-with-other-partners.md)

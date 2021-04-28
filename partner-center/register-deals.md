@@ -9,14 +9,18 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54421817782f05eec1cc57c11cd02a51664c094b
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 96c0b320850b4ee648e98fc5da97d9f25faaf405
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: de-DE
 ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120748"
+ms.locfileid: "108172427"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registrieren Sie Deals, die Sie in Partner Center, damit Sie später weitere Verkaufschancen erhalten.
+
+**Geeignete Rollen**
+
+- Empfehlungsadministrator
 
 Sie können die von Ihnen im Partner Center gewonnenen Angebote registrieren, indem Sie zusätzliche Informationen zum Vertrag bereitstellen. Diese Informationen helfen uns, Ihnen in Zukunft weitere Möglichkeiten zu bieten.
 

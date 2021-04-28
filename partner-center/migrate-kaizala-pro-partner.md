@@ -1,47 +1,52 @@
 ---
-title: Migrieren von kaizala pro-Abonnements zu Microsoft365
-description: Erfahren Sie, wie Sie kaizala pro-Abonnements zu Microsoft365-oder Office 365-Versionen migrieren. Lesen Sie diesen Artikel, um weitere Informationen zum Übergang ihrer Kunden zu erhalten.
+title: Migrieren von Kaizala Pro-Abonnements zu Microsoft 365
+description: Erfahren Sie, wie Sie Kaizala Pro-Abonnements zu Microsoft 365- oder Office 365-Versionen migrieren. Weitere Informationen zum Übergang Ihrer Kunden finden Sie in diesem Artikel.
 ms.topic: article
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 96d18c8f728c56b705d378ac56dcf46e777157f0
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175175"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172403"
 ---
-# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>Migrieren von eigenständigen kaizala pro-Abonnements zu Microsoft365-oder Office 365-Versionen
+# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Migrieren eigenständiger Kaizala Pro-Abonnements zu Microsoft 365- oder Office 365-Versionen
 
-Ab dem 1. Juli 2020 beendet Microsoft den Umsatz des eigenständigen kaizala pro-Dienstanbieter. Kunden können nach diesem Datum keine neuen kaizala pro-Abonnements mehr erwerben, und vorhandene kaizala pro-Abonnements werden nicht automatisch erneuert, wenn Sie ablaufen.
+**Geeignete Rollen**
 
-Um die Kontinuität für Kunden zu gewährleisten, sollten Sie Kunden mit abgelaufenen, eigenständigen kaizala pro-Abonnements auf eine unterstützte SKU-Option umstellen, die unten aufgeführt ist. Wir empfehlen, Kunden vor dem jährlichen Enddatum des Abonnements in neue Abonnements zu verschieben, um Dienst Ausfälle für Kunden zu vermeiden.
+- Vertriebsbeauftragter
 
-Wenn Sie die API (entweder "Kamm" oder "Partner Center") verwenden, können Sie ablaufende Abonnements ermitteln, indem Sie das Enddatum des Abonnements und die Eigenschaft "automatisch erneuern" auf "false" festlegen `auto renew = False` .
+Ab dem 1. Juli 2020 beendet Microsoft den Umsatz des eigenständigen Kaizala Pro-Diensts. Kunden können nach diesem Datum keine neuen Kaizala Pro-Abonnements mehr erwerben, und vorhandene Kaizala Pro-Abonnements werden nicht automatisch verlängert, wenn sie ablaufen.
 
-Die E4-Abonnements werden auf den `auto renew=False` 1. Juli 2020 festgelegt. Sie können Kunden jederzeit in einen neuen Plan verschieben.
+Um die Kontinuität für Kunden sicherzustellen, sollten Sie Kunden mit ablaufenden eigenständigen Kaizala Pro-Abonnements auf eine unterstützte SKU-Option umsteigen, die unten aufgeführt ist. Es wird empfohlen, Kunden vor dem jährlichen Enddatum des Abonnements in neue Abonnements zu verschieben, um Dienstausfälle für Kunden zu vermeiden.
 
-## <a name="kaizala-pro-standalone-replacement-plans"></a>Eigenständige "kaizala pro"-Ersetzungs Pläne
+Wenn Sie die API verwenden (entweder MIT oder Partner Center), können Sie ablaufende Abonnements ermitteln, indem Sie das Enddatum des Abonnements zusammen mit der Eigenschaft für die automatische Verlängerung auf FALSE festlegen: `auto renew = False` .
 
-Mit den neuen Plänen können Ihre Kunden in Microsoft 365 neuere Features und Funktionen nutzen. Preisdetails finden Sie in der Preisliste und der Angebotslistenmatrix in Partner Center.
+Die E4-Abonnements werden `auto renew=False` am 1. Juli 2020 auf festgelegt. Sie können Kunden jederzeit in einen neuen Plan verschieben.
 
-- [**Microsoft 365 für Unternehmen**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2), einschließlich:  
+## <a name="kaizala-pro-standalone-replacement-plans"></a>Kaizala Pro – eigenständige Ersetzungspläne
+
+Mit den neuen Plänen können Ihre Kunden neuere Features und Funktionen in Microsoft 365 nutzen. Preisdetails finden Sie in der Preisliste und der Angebotslistenmatrix in Partner Center.
+
+- [**Microsoft 365 für Unternehmen,**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2)einschließlich:  
    - Microsoft 365 Business Basic
    - Microsoft 365 Business Standard
-   - Microsoft 365 Business Premium
+   - Microsoft 365 Business Premium
     
-- [**Microsoft 365 für Frontline**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab), einschließlich:
+- [**Microsoft 365 für Frontline,**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab)einschließlich:
    - Microsoft 365 F3 (ehemals Microsoft 365 F1) und Office 365 F3
     
-- [**Microsoft 365 für Unternehmen**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans), einschließlich: 
+- [**Microsoft 365 für Enterprise,**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)einschließlich: 
    - Office 365 E1
    - Microsoft 365 E3 and Office 365 E3
    - Microsoft 365 E5 und Office 365 E5
 
-- [**Microsoft 365 für Bildungseinrichtungen**](https://www.microsoft.com/education/buy-license/microsoft365), einschließlich: 
+- [**Microsoft 365 für Bildungseinrichtungen,**](https://www.microsoft.com/education/buy-license/microsoft365)einschließlich: 
     - Microsoft 365 A1 und Office 365 A1
     - Microsoft 365 A3 und Office 365 A3
     - Microsoft 365 A5 und Office 365 A5
@@ -61,30 +66,30 @@ C. Stornieren des alten Abonnements
 
 ### <a name="a-purchase-the-new-subscription"></a>A. Kauf des neuen Abonnements
 
-1. Wenn Sie das neue Abonnement erwerben möchten, wählen Sie im **Partner Center** -Menü **Kunden**aus, wählen Sie den zu verschiebenden Kunden aus, und klicken Sie dann auf **Abonnements hinzufügen**.
+1. Um das neue Abonnement zu erwerben, wählen Sie im **Menü Partner Center** die Option **Kunden** aus, wählen Sie den Kunden aus, den Sie verschieben möchten, und wählen Sie dann **Abonnements hinzufügen** aus.
 
 2. Wählen Sie aus dem Katalog das Abonnement aus, das Sie kaufen möchten (in diesem Fall eine der oben genannten Optionen), geben Sie die nötigen Anzahl von Lizenzen ein, und wählen Sie dann **Übermitteln** aus.
 
-Ihr Kunde sollte nun sowohl alte als auch neue Abonnements haben, das alte, eigenständige kaizala pro-Abonnement und das neue Abonnement "target", z. b. Option 1-Office 365 Enterprise F1.
+Ihr Kunde sollte nun sowohl über alte als auch über neue Abonnements, das alte eigenständige Kaizala Pro-Abonnement und das neue Zielabonnement verfügen, z. B. Option 1 – Office 365 Enterprise F1.
 
 ### <a name="b-reassign-current-user-licenses"></a>B. Neuzuweisen der aktuellen Benutzerlizenzen
 
 1. Wählen Sie zum erneuten Zuweisen von Benutzerlizenzen des Kunden im Menü **Partner Center** die Option **Kunden** aus. Wählen Sie dann den zu verschiebenden Kunden und die Option **Benutzer und Lizenzen** aus. Die Seite Benutzer und Lizenzen des Kunden wird geöffnet.
 
-2. Um die Benutzerlizenz erneut zuzuweisen, wählen Sie den neu zuzuweisenden Benutzer aus, und wählen Sie dann **Lizenzen verwalten**aus.
+2. Um die Benutzerlizenz neu zuzuweisen, wählen Sie den neu zuzuweisenden Benutzer und dann **Lizenzen verwalten** aus.
 
-3. Deaktivieren Sie auf der Seite **Lizenzen verwalten** das Kontrollkästchen für die eigenständige kaizala pro-Lizenz, und wählen Sie einen neuen Dienstplan für das Abonnement aus, zu dem der Kunde wechselt.
+3. Aktivieren Sie **auf der Seite** Lizenzen verwalten das Kontrollkästchen Kaizala Pro Standalone-Lizenz, und wählen Sie einen neuen Serviceplan für das Abonnement aus, in das der Kunde um zieht.
 
-4.  Klicken Sie auf **Submit** (Senden). Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt. Führen Sie denselben Prozess für andere Benutzer durch, die Lizenzzuweisungen benötigen.
+4.  Klicken Sie auf **Senden**. Anschließend werden auf einer Bestätigungsseite die neuen Lizenzzuweisungen aufgeführt. Führen Sie denselben Prozess für andere Benutzer durch, die Lizenzzuweisungen benötigen.
 
 ### <a name="c-cancel-old-subscription"></a>C. Stornieren des alten Abonnements
 
 Nachdem Sie die Benutzerlizenz zum neuen Dienst migriert haben, können Sie das eingestellte Abonnement auf der obersten Kundenebene ohne Bedenken stornieren.
 
-1.  Wählen Sie im **Partner Center** -Menü die Option **Kunden**aus. Wählen Sie den Kunden, dessen Abonnement Sie stornieren möchten.
+1.  Wählen Sie **Partner Center** Menü Kunden **aus.** Wählen Sie den Kunden, dessen Abonnement Sie stornieren möchten.
 
 2.  Legen Sie auf der Seite mit den Abonnementdetails das Abonnement auf **Ausgesetzt** fest.
 
-3.  Klicken Sie auf **Submit** (Senden).
+3.  Klicken Sie auf **Senden**.
 
 Das alte Abonnement ist nun ausgesetzt, und das neue Abonnement ist aktiv. Die Bereitstellung des ausgesetzten Abonnements wird nach 120 Tagen automatisch aufgehoben. Für den Kunden fallen für das alte Abonnement keine zusätzlichen Kosten an.

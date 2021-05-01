@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32a41ac1695d40cf300b76af96ce824fcd48122d
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 74fc22180aabf15dc6dd4109afb51518ccad5f10
+ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712799"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108067506"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Verknüpfen oder Aufheben der Verknüpfung einer Microsoft-Zertifizierungsprofil-ID (MCID) mit einem MPN-Konto (Microsoft Partner Network)
 
@@ -73,9 +73,9 @@ Das Konto des Benutzers muss vom globalen Administrator gelöscht werden, nachde
 
 Der Administrator sollte zuerst die verwendete E-Mail-Adresse überprüfen und dann den Benutzer kontaktieren, dem die Kontoinformationen bereitgestellt wurden.
 
-### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited"></a>Ein Benutzer versucht, sein MCP Learning-Konto seinem Profil im Partner Center zuzuordnen, und erhält eine Meldung, dass die Zuordnung begrenzt ist.
+### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited-for-example-you-have-attempted-to-associate-with-a-partner-organization-however-we-require-a-period-of-30-days-between-associations-your-next-available-date-for-a-subsequent-association-is-xxx"></a>Ein Benutzer versucht, sein MCP Learning-Konto seinem Profil im Partner Center zuzuordnen, und erhält eine Meldung, dass die Zuordnung begrenzt ist. Beispiel: „Sie haben versucht, eine Zuordnung zu einer Partnerorganisation durchzuführen. Es ist jedoch ein Zeitraum von 30 Tagen zwischen Zuordnungen erforderlich. Ihr nächstes verfügbares Datum für eine nachfolgende Zuordnung ist der XXX.“
 
-Zum Schutz vor Missbrauch verfügt eine MCP-Einzelperson über eine begrenzte Anzahl von Zuordnungen pro Jahr. Jeder Benutzer kann das Datum in seinem Profil prüfen, um festzustellen, wann eine neue Zuordnung durchgeführt werden kann. Wenn der Benutzer nach diesem Datum Probleme bei der Zuordnung hat, sollte er sich an den Support wenden.  
+Zum Schutz vor Missbrauch verfügt eine MCP-Einzelperson über eine begrenzte Anzahl von drei zulässigen Zuordnungen pro Jahr. Zwischen den einzelnen Zuordnungen liegt eine Wartezeit von 30 Tagen, die zu Beginn der Zuordnung startet. Jeder Benutzer kann das Datum in seinem Profil prüfen, um festzustellen, wann eine neue Zuordnung durchgeführt werden kann. Wenn der Benutzer nach diesem Datum Probleme bei der Zuordnung hat, sollte er sich an den Support wenden.  
 
 ## <a name="how-to-get-support"></a>Anfordern von Support
 

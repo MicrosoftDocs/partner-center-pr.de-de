@@ -10,17 +10,61 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/19/2021
-ms.openlocfilehash: 4da672da3ee96d0fb3aea7919ea85214ec8c976f
-ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
+ms.date: 04/20/2021
+ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
+ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107728928"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "107823383"
 ---
 # <a name="april-2021-announcements"></a>Ankündigungen für April 2021
 
 Auf dieser Seite finden Sie die Ankündigungen vom April 2021 für Microsoft Partner Center.
+
+________________
+## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Hinweis zur Richtlinie für den Rückgabezeitraum für Software im CSP-Programm (Cloud Solution Provider) und zum Ablauf des Downloadlinks
+
+### <a name="categories"></a>Kategorien
+
+- Datum: 21.04.2021
+- Funktionen
+
+### <a name="summary"></a>Zusammenfassung
+
+Es gibt Änderungen bei der Richtlinie für den Rückgabezeitraum für Software in CSP und dem Ablauf des Downloadlinks.
+
+### <a name="impacted-audience"></a>Zielgruppe
+
+Partner, die Transaktionen für Angebote für unbefristete Software oder Softwareabonnements in CSP durchführen
+
+### <a name="details"></a>Details
+
+Beachten Sie die folgenden wichtigen Mitteilungen zum Kauf von unbefristeter Software und Softwareabonnements über Partner Center:
+
+#### <a name="software-return-period-policy"></a>Richtlinie für den Rückgabezeitraum für Software
+
+Ab dem 1. Juni 2021 ändert sich der Rückgabezeitraum für Softwareangebote in CSP, wie in der Microsoft Partner-Vereinbarung (MPA) festgelegt, von 60 Tagen ab Bestelldatum in 30 Tage ab Bestelldatum.
+
+Nachdem eine Bestellung für ein Softwareangebot übermittelt wurde, haben Partner 30 Tage ab dem Bestelldatum Zeit, Änderungen an einer solchen Bestellung einzureichen:
+
+- Jede unbefristete Softwarelizenz, die innerhalb des 30-tägigen Rückgabezeitraums zurückgegeben wird, erhält eine vollständige Gutschrift des gezahlten Kaufpreises.
+
+- Jedes Softwareabonnementprodukt, das innerhalb des 30-tägigen Rückgabezeitraums zurückgegeben wird, erhält eine anteilige Gutschrift des gezahlten Kaufpreises.
+
+Diese Benachrichtigung ist eine Fortführung unserer E-Mail-Mitteilungen, die im Dezember 2020 und April 2021 an alle CSP-Partner gesendet wurden und Informationen zum Rückgabezeitraum und anderen Aktualisierungen der MPA enthielten. In diesen Mitteilungen finden Sie ausführliche Informationen zu Änderungen, die sich auf die MPA auswirken.
+
+#### <a name="software-download-link-expiry"></a>Ablauf des Downloadlinks für Software
+
+Ab dem 3. Juni 2021 weisen die Downloadlinks für unbefristete Software und Softwareabonnementprodukte, die über Partner Center erworben wurden, ein Ablaufdatum von fünf Tagen nach dem ersten Download auf. Der Ablaufzeitraum gilt für alle Käufe vor dem 3. Juni 2021 sowie am oder nach dem 3. Juni 2021.
+
+### <a name="next-steps"></a>Nächste Schritte
+
+Lesen Sie die [häufig gestellten Fragen zum Rückgabezeitraum in CSP und dem Ablauf des Downloadlinks](https://partner.microsoft.com/resources/detail/csp-software-return-period-download-expiry-faq-pdf), und informieren Sie alle entsprechenden Teams in Ihrer Organisation über diese Änderungen:
+
+### <a name="questions"></a>Haben Sie Fragen?
+
+Bei Fragen zu diesen Angeboten können Sie sich an die entsprechende Yammer-Community wenden.
 
 ________________
 ## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Open Licensing-Programm: Umstellung von Handelspartnern auf das CSP-Programm (Cloud Solution Provider)

@@ -9,14 +9,18 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 779f785899039765ba4a9da42d3e6bb4a828976d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549106"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018083"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Verlängern von MPN-Angeboten für Kompetenzen und erweiterte Spezialisierungen während des Verlängerungszeitraums
+
+**Geeignete Rollen**
+
+- MPN-Partneradministrator
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>Reaktion auf COVID-19: Microsoft Partner Network-Update
 

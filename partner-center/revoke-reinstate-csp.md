@@ -9,16 +9,16 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f536d975d3c644a7afa29a95a3cb45608f6b2c9f
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: 26768bdf33c03145a893fa445eab6ebf92ca9b1c
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315846"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018186"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Wiederherstellen von Administratorrechten für Azure CSP-Abonnements eines Kunden  
 
-**Zutreffende Rollen**
+**Geeignete Rollen**
 
 - Globaler Administrator
 - Administrator-Agent
@@ -39,7 +39,7 @@ Ihr Kunde kann die CSP-Rollenzuweisung neu erstellen, sofern Sie ihm die Objekt-
 
 1. Melden Sie sich beim Partner Center-Dashboard an, und wählen Sie im Partner Center-Menü **Kunden** aus.
 
-2. Wählen Sie den Kunden aus, mit dem Sie arbeiten, und **beantragen Sie eine Vertriebspartnerschaft**. Dadurch wird ein Link zum Kunden mit Mandantenadministratorrechten generiert.
+2. Wählen Sie den Kunden aus, mit dem Sie arbeiten, und **beantragen Sie eine Vertriebspartnerschaft**. Durch diese Aktion wird ein Link zum Kunden mit Mandantenadministratorrechten generiert.
 
 3. Dieser Kunde muss den Link auswählen und den Antrag auf Vertriebspartnerschaft genehmigen.
 
@@ -79,7 +79,7 @@ Ihr Kunde kann die CSP-Rollenzuweisung neu erstellen, sofern Sie ihm die Objekt-
     ```
 
 
-Wenn die Besitzerrollenberechtigung auf Ressourcengruppen- oder Ressourcenebene anstelle der Abonnementebene erteilt werden soll, können die folgenden Befehle verwendet werden:
+Wenn Sie die Besitzerrollenberechtigung auf Ressourcengruppen- oder Ressourcenebene statt auf Abonnementebene erteilen möchten, können Sie die folgenden Befehle verwenden:
 
 
 ```powershell

@@ -9,14 +9,18 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: 3aacafcbf839ad2e862ef968ca0b2f132c55a825
-ms.sourcegitcommit: 7d1396a832517d5d8dddc45ca29481aac9b8dde5
+ms.openlocfilehash: b6af92907f56f85435cf3fb1c16b13196cf35e08
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "107742119"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284484"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Erkunden der technischen Presales- und Bereitstellungsdienste (TPD) 
+
+**Geeignete Rollen**
+
+- MPN-Partneradministrator
 
 Dieser Artikel enthält eine Beschreibung der MPN-Vorteile (Microsoft Partner Network), die mit der Nutzung der technischen Presales- und Bereitstellungsdienste (TPD) verbunden sind, z. B. Beratungsgespräche, Presales-Unterstützung, Beratungsstunden und mehr.
 

@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a22dd2a8ec8ce3da3aa0967741685a2f28cc0a15
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: e863a5dbb86dae2c1cd3395589b4d4318eb0dba1
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002806"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284144"
 ---
 # <a name="support-from-microsoft"></a>Support von Microsoft
 
@@ -24,7 +24,7 @@ ms.locfileid: "108002806"
 
 **Geeignete Rollen**
 
-- Hilfe-Agent
+- Helpdesk-Agent
 
 Wenn Sie Probleme mit einem Microsoft-Dienst oder mit Partner Center haben, können Sie das Problem an Microsoft melden, das Problem an Microsoft eskalieren, um Hilfe zu erhalten, und das Problem nachverfolgen, bis es gelöst ist.
 

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/22/2021
-ms.openlocfilehash: 4e5faf1467ea12aac8f4dfaa4c35455159f64632
-ms.sourcegitcommit: 1e1aea329fdeef526e5273d2a4d8f5ec767ac49c
+ms.date: 04/27/2021
+ms.openlocfilehash: 935aef8dd3b19462c162911c893a49c3d6c7d337
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2021
-ms.locfileid: "107917615"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172423"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,7 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 |**Kategorie**|**Ankündigungen für April 2021**|**Angekündigt**|
 |---------|:---------|:---------|
+|Funktionen|[Neuer Speicherort für Dokumentation zu Partner Center-API-Swagger](2021-april.md#9)|26. April|
 |Funktionen|[Hinweis zur Richtlinie für den Rückgabezeitraum für Software im CSP-Programm (Cloud Solution Provider) und zum Ablauf des Downloadlinks](2021-april.md#8)|21. April|
 |Umsatzsteigerung|[Open Licensing-Programm: Umstellung von Handelspartnern auf das CSP-Programm (Cloud Solution Provider)](2021-april.md#7)|19. April|
 |Funktionen|[Jetzt verfügbar: Readiness-Leitfaden für globale Promotions](2021-april.md#6)|16. April|

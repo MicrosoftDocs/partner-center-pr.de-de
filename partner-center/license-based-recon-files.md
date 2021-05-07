@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie Lizenz basierte ababstimmungs Dateien im Partner Center lesen. In diesem Artikel wird die Bedeutung der einzelnen Felder in ihrer lizenzbasierten Reconnaissance-Datei erläutert.
+description: Erfahren Sie, wie Sie lizenzbasierte Abstimmungsdateien in Partner Center. In diesem Artikel wird die Bedeutung jedes Felds in Ihrer lizenzbasierten Recon-Datei erläutert.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c311de4a504785e15cefc7a93f1ee3da396ea7d
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 117acfa8c50496ddaa75789b2bb3f55c642e4fe6
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441284"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702908"
 ---
-# <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Grundlegendes zu den Feldern in den lizenzbasierten Abstimmungs Dateien von Partner Center
+# <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Verstehen der Felder in Partner Center lizenzbasierten Abstimmungsdateien
 
 **Zielgruppe**
 
@@ -29,37 +29,37 @@ ms.locfileid: "106441284"
 - Abrechnungsadministrator
 - Administrator-Agent
 
-Vergleichen Sie die **Syndication_Partner_Subscription_Number** aus der Abstimmungs Datei mit der **Abonnement-ID** aus Partner Center, um Ihre Änderungen mit den Aufträgen eines Kunden abzustimmen.
+Um Ihre Änderungen mit den Bestellungen  eines Kunden abgleichen zu können, vergleichen Sie die Syndication_Partner_Subscription_Number aus der Abstimmungsdatei mit der **Abonnement-ID** Partner Center.
 
-## <a name="fields-in-license-based-reconciliation-files"></a>Felder in lizenzbasierten Abstimmungs Dateien
+## <a name="fields-in-license-based-reconciliation-files"></a>Felder in lizenzbasierten Abstimmungsdateien
 
 | Column | BESCHREIBUNG | Beispielwert |
 | ------ | ----------- | ------------ |
-| PartnerId | Eindeutiger Bezeichner im GUID-Format für eine bestimmte Abrechnungs Entität. Für die Abstimmung nicht erforderlich. In allen Zeilen gleich. | *8ddd03642-test-test-test-46b58d356b4e* |
+| PartnerId | Eindeutiger Bezeichner im GUID-Format für eine bestimmte Abrechnungsentität. Für die Abstimmung nicht erforderlich. In allen Zeilen gleich. | *8ddd03642-test-test-test-46b58d356b4e* |
 | CustomerId | Eindeutiger Microsoft-Bezeichner für den Kunden im GUID-Format. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
-| CustomerName | Der in Partner Center angegebene Organisationsname des Kunden. *Sehr wichtiges Feld für die Abstimmung der Rechnung mit ihren Systeminformationen.* | *Testkunde A* |
-| MPNID | MPN-Bezeichner des CSP-Partners. Weitere Informationen finden [Sie unter Vorgehensweise beim itemisieren nach Partner](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
-| Resellermpnid | MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement.  |
-| OrderId | Eindeutiger Bezeichner für einen Auftrag auf der Microsoft-Abrechnungsplattform. Kann nützlich sein, um die Reihenfolge zu identifizieren, in der der Support kontaktiert Wird nicht für die Abstimmung verwendet. | *566890604832738111* |
-| SubscriptionId | Eindeutiger Bezeichner für ein Abonnement auf der Microsoft-Abrechnungsplattform. Kann beim Kontaktieren des Supports hilfreich sein, um das Abonnement zu identifizieren. Wird nicht für die Abstimmung verwendet. *Dieser Wert ist nicht mit der Abonnement- **ID** in der Partner Administrator Konsole identisch. Weitere Informationen finden Sie unter **syndicationpartnerabonnementionnumber** .* | *usCBMgAAAAAAAAIA* |
-| SyndicationPartnerSubscriptionNumber | Eindeutiger Bezeichner des Abonnements. Ein Kunde kann über mehrere Abonnements für denselben Plan verfügen. Diese Spalte ist wichtig für die Analyse der Abgleich Datei. Dieses Feld wird der **Abonnement-ID** in der Partner Administrator Konsole zugeordnet. | *fb977ab5-test-test-test-24c8d9591708* |
-| OfferId | Eindeutige Angebots Kennung. Standard Angebots Bezeichner, wie in der Preisliste definiert. *Dieser Wert stimmt nicht mit der **Angebots-ID** aus der Preisliste. Siehe **durableofferid** .* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
-| DurableOfferID | Eindeutiger Bezeichner für permanente Angebote, wie in der Preisliste definiert. *Dieser Wert entspricht der **Angebots-ID** aus der Preisliste.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
+| CustomerName | Der in Partner Center angegebene Organisationsname des Kunden. *Sehr wichtiges Feld für die Abstimmung der Rechnung mit Ihren Systeminformationen.* | *Testkunde A* |
+| MPNID | MPN-Bezeichner des CSP-Partners. Erfahren [Sie, wie Sie nach Partner auf elementisieren.](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner) | *4390934* |
+| ResellerMpnId | MPN-Bezeichner des Vertriebspartners des Datensatzes für das Abonnement.  |
+| OrderId | Eindeutiger Bezeichner für einen Auftrag auf der Microsoft-Abrechnungsplattform. Kann nützlich sein, um die Bestellung zu identifizieren, wenn Sie sich an den Support wenden. Wird nicht für die Abstimmung verwendet. | *566890604832738111* |
+| SubscriptionId | Eindeutiger Bezeichner für ein Abonnement auf der Microsoft-Abrechnungsplattform. Kann nützlich sein, um das Abonnement zu identifizieren, wenn Sie sich an den Support wenden. Wird nicht für die Abstimmung verwendet. *Dieser Wert ist nicht mit der **Abonnement-ID** in der Partner Admin Console identisch. Weitere Informationen finden **Sie stattdessen unter SyndicationPartnerSubscriptionNumber.*** | *usCBMgAAAAAAAAIA* |
+| SyndicationPartnerSubscriptionNumber | Eindeutiger Bezeichner des Abonnements. Ein Kunde kann über mehrere Abonnements für denselben Plan verfügen. Diese Spalte ist für die Analyse der Abstimmungsdatei wichtig. Dieses Feld wird der **Abonnement-ID** in der Partneradministratorkonsole zugeordnet. | *fb977ab5-test-test-test-24c8d9591708* |
+| OfferId | Eindeutiger Angebotsbezeichner. Standard-Angebotsbezeichner, wie in der Preisliste definiert. *Dieser Wert stimmt nicht mit der **Angebots-ID** aus der Preisliste überein. Siehe stattdessen **DurableOfferID.*** | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
+| DurableOfferID | Eindeutiger permanenter Angebotsbezeichner, wie in der Preisliste definiert. *Dieser Wert entspricht der **Angebots-ID** aus der Preisliste.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
 | OfferName | Der Name des Service-Angebots, das der Kunde gekauft hat, wie in der Preisliste definiert. | *Microsoft Office 365 (Plan E3)* |
-| SubscriptionStartDate | Das Startdatum des Abonnements. Die Uhrzeit ist immer der Tagesanfang (0:00 Uhr). Dieses Feld ist auf den Tag festgelegt, an dem die Bestellung übermittelt wurde. Wird mit dem Abonnement **Enddatum** verwendet, um zu bestimmen, ob der Kunde noch innerhalb des ersten Jahres des Abonnements liegt oder ob das Abonnement für das folgende Jahr erneuert wurde. | *2/1/2019 0:00* |
-| SubscriptionEndDate | Das Enddatum des Abonnements. Die Uhrzeit ist immer der Tagesanfang (0:00 Uhr). Entweder *12 Monate Plus **x** Tage nach dem Startdatum* , um das Abrechnungsdatum des Partners oder *12 Monate ab dem Erneuerungsdatum* auszurichten. Bei Verlängerung werden die Preise gemäß der aktuellen Preisliste aktualisiert. Vor einer automatischen Verlängerung ist möglicherweise die Kommunikation mit dem Kunden erforderlich. | *2/1/2019 0:00* |
-| ChargeStartDate | Der erste Tag, an dem Gebühren anfallen. Die Uhrzeit ist immer der Tagesanfang (0:00 Uhr). Wird verwendet, um tägliche Gebühren (*pro-anteilig* ) zu berechnen, wenn ein Kunde die Lizenznummern ändert. | *2/1/2019 0:00* |
-| ChargeEndDate | Letzter Tag, an dem Gebühren anfallen. Die Uhrzeit ist immer auf das Tagesende um 23:59 Uhr festgelegt. Wird verwendet, um tägliche Gebühren (*pro-anteilig* ) zu berechnen, wenn ein Kunde die Lizenznummern ändert. | *2/28/2019 23:59* |
-| ChargeType | Der [Typ der Belastung](recon-file-charge-types.md) oder der Anpassung. | Siehe " [Abrechnung](recon-file-charge-types.md)". |
-| UnitPrice | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert | *6,82* |
-| Menge | Anzahl der Lizenzen. Stellen Sie sicher, dass dies mit den Informationen übereinstimmt, die im Abrechnungssystem während der Abstimmung gespeichert | *2* |
-| Amount (Betrag) | Gesamtpreis für die Menge Wird verwendet, um zu überprüfen, ob die Betrag Berechnung mit der Berechnung dieses Werts für Ihre Kunden übereinstimmt. | *13,32* |
-| TotalOtherDiscount | Rabattbetrag auf diese Gebühren. Produktlizenzen, die in einer Kompetenz oder in Karten enthalten sind, oder neue Abonnements, die für einen Anreiz geeignet sind, enthalten in dieser Spalte ebenfalls einen Rabatt Betrag. | *2,32* |
-| Subtotal (Zwischensumme) | Gesamtbetrag vor Steuern Überprüft, ob Ihr Teilergebnis mit dem erwarteten Gesamtbetrag übereinstimmt, falls ein Rabatt vorliegt. | *11* |
-| Tax (Steuern) | Steuern der Steuerbeträge. Basierend auf den Steuerregeln Ihres Marktes und bestimmten Bedingungen. | *0* |
+| SubscriptionStartDate | Das Startdatum des Abonnements in UTC. Die Uhrzeit ist immer der Tagesanfang (0:00 Uhr). Dieses Feld wird auf den Tag festgelegt, an dem der Auftrag übermittelt wurde. Wird mit **SubscriptionEndDate** verwendet, um zu bestimmen, ob sich der Kunde noch innerhalb des ersten Jahres des Abonnements befindet oder ob das Abonnement für das folgende Jahr erneuert wurde. | *2/1/2019 0:00* |
+| SubscriptionEndDate | Das Enddatum des Abonnements in UTC. Die Uhrzeit ist immer der Tagesanfang (0:00 Uhr). Entweder *12 Monate plus **x** Tage nach dem Startdatum,* um mit dem Abrechnungsdatum des Partners in Einklang zu bringen, oder *12 Monate nach dem Verlängerungsdatum.* Bei Verlängerung werden die Preise gemäß der aktuellen Preisliste aktualisiert. Vor einer automatischen Verlängerung ist möglicherweise die Kommunikation mit dem Kunden erforderlich. | *2/1/2019 0:00* |
+| ChargeStartDate | Der erste Tag, an dem Gebühren anfallen. Die Uhrzeit ist immer der Tagesanfang (0:00 Uhr). Wird verwendet, um tägliche Gebühren *(anteilige* Gebühren) zu berechnen, wenn ein Kunde Lizenznummern ändert. | *2/1/2019 0:00* |
+| ChargeEndDate | Letzter Tag, an dem Gebühren anfallen. Die Uhrzeit ist immer auf das Tagesende um 23:59 Uhr festgelegt. Wird verwendet, um tägliche Gebühren *(anteilige* Gebühren) zu berechnen, wenn ein Kunde Lizenznummern ändert. | *2/28/2019 23:59* |
+| ChargeType | Die [Art der Gebühr](recon-file-charge-types.md) oder Anpassung. | Siehe [Gebührentypen.](recon-file-charge-types.md) |
+| UnitPrice | Preis pro Lizenz, wie in der Preisliste zum Zeitpunkt des Kaufs veröffentlicht. Stellen Sie sicher, dass dies den Informationen entspricht, die während der Abstimmung in Ihrem Abrechnungssystem gespeichert sind. | *6.82* |
+| Menge | Anzahl der Lizenzen. Stellen Sie sicher, dass dies den Informationen entspricht, die während der Abstimmung in Ihrem Abrechnungssystem gespeichert sind. | *2* |
+| Amount (Betrag) | Gesamtpreis für die Menge Wird verwendet, um zu überprüfen, ob die Berechnung des Betrags der Berechnung dieses Werts für Ihre Kunden entspricht. | *13.32* |
+| TotalOtherDiscount | Rabattbetrag auf diese Gebühren. Produktlizenzen, die in einer Kompetenz oder maps enthalten sind, oder neue Abonnements, die für einen Incentive berechtigt sind, enthalten ebenfalls einen Rabattbetrag in dieser Spalte. | *2.32* |
+| Subtotal (Zwischensumme) | Gesamtbetrag vor Steuern Überprüft, ob Ihre Teilsumme mit der erwarteten Summe im Falle eines Rabatts entspricht. | *11* |
+| Tax (Steuern) | Steuerbetragsgebühr. Basierend auf den Steuerregeln Ihres Markts und bestimmten Umständen. | *0* |
 | TotalForCustomer | Gesamtsumme nach Steuern. Überprüft, ob in der Rechnung Steuern berechnet werden. | *11* |
-| Währung | Währungstyp. Jede Abrechnungsentität weist nur eine Währung auf. Überprüfen Sie, ob Sie Ihrer ersten Rechnung entspricht. Überprüfen Sie nach allen wichtigen Updates der Abrechnungs Plattform erneut. | *EUR* |
-| DomainName | Der Domänen Name des Kunden. Dieses Feld wird ggf. bis zum zweiten Abrechnungszyklus leer angezeigt. *Verwenden Sie dieses Feld nicht als eindeutigen Bezeichner für den Kunden. Der Kunde/Partner kann die Vanity oder die Standard Domäne über das Office 365-Portal aktualisieren.* | *example.onmicrosoft.com* |
-| SubscriptionName | Spitzname des Abonnements. Wenn kein Spitzname angegeben ist, verwendet Partner Center den **Offername**. | *Project Online* |
-| SubscriptionDescription | Der Name des Service-Angebots, das der Kunde gekauft hat, wie in der Preisliste definiert. (Dies ist ein identisches Feld für " **Offername**".) | *PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT* |
-| AbrechnungszyklusTyp | Einmalige Abrechnungs Häufigkeit.| *Monatlich* |
+| Währung | Währungstyp. Jede Abrechnungsentität weist nur eine Währung auf. Überprüfen Sie, ob sie ihrer ersten Rechnung entspricht. Überprüfen Sie es nach allen wichtigen Updates der Abrechnungsplattform erneut. | *EUR* |
+| DomainName | Domänenname des Kunden. Dieses Feld wird ggf. bis zum zweiten Abrechnungszyklus leer angezeigt. *Verwenden Sie dieses Feld nicht als eindeutigen Bezeichner für den Kunden. Der Kunde/Partner kann die Vanity- oder Standarddomäne über das Office 365-Portal aktualisieren.* | *example.onmicrosoft.com* |
+| SubscriptionName | Spitzname des Abonnements. Wenn kein Spitzname angegeben ist, Partner Center **OfferName verwendet.** | *PROJECT ONLINE* |
+| SubscriptionDescription | Der Name des Service-Angebots, das der Kunde gekauft hat, wie in der Preisliste definiert. (Dies ist ein identisches Feld **mit OfferName**.) | *PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT* |
+| AbrechnungszyklusTyp | Häufigkeit der einmaligen Abrechnung.| *Monatlich* |

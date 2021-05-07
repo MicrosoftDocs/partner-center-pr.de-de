@@ -1,7 +1,7 @@
 ---
 title: Registrieren für das Programm für Cloud-Lösungsanbieter
 ms.topic: how-to
-ms.date: 11/29/2020
+ms.date: 04/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie sich für ein Vertriebsmodell des Cloud Solution Provider-Programms (CSP) registrieren, das am besten für Ihr Unternehmen geeignet ist – z. B. als indirekter Wiederverkäufer oder Direktabrechnungspartner.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441811"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213379"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud-Lösungsanbieter
 
@@ -92,6 +92,38 @@ Unter [Übergang vom CSP-Direktabrechnungspartner (Cloud Solution Provider) zum 
 
 Ihr Markt wird durch den Standort Ihres Unternehmens bestimmt. Ihr Markt umfasst die Regionen und/oder Länder, in denen Sie CSP-Angebote verkaufen können. Unter [Regionale Märkte und Währungen des Cloud Solution Provider-Programms](regional-authorization-overview.md) finden Sie Informationen zu Marktstandorten und Währungen.
 Informieren Sie sich auf jeden Fall unter [Voraussetzungen für das Hinzufügen eines neuen Standorts für ein CSP-Geschäft](manage-locations.md).
+
+## <a name="provide-partner-registration-id-number-for-specific-countries"></a>Angeben der Partnerregistrierungs-ID für bestimmte Länder
+
+Wenn Sie ein indirekter Anbieter, Partner mit direkter Abrechnung oder indirekter Wiederverkäufer sind und Geschäfte mit neuen Kunden oder Bestandskunden in den folgenden Ländern tätigen, müssen Sie Registrierungs-IDs für Ihr Unternehmen bereitstellen. Ist das Land, in dem Sie geschäftlich tätig sind, nachfolgend nicht aufgelistet, ist die Angabe der Registrierungs-ID optional.
+
+- Armenien 
+- Aserbaidschan 
+- Belarus 
+- Brasilien 
+- Ungarn 
+- Indien 
+- Irak 
+- Kasachstan 
+- Kirgisistan 
+- Moldawien 
+- Myanmar 
+- Polen 
+- Russland 
+- Saudi-Arabien 
+- Südafrika 
+- Südsudan  
+- Tadschikistan 
+- Thailand
+- Türkei 
+- Ukraine 
+- Vereinigte Arabische Emirate 
+- Usbekistan 
+- Venezuela
+- Vietnam 
+
+
+Weitere Informationen finden Sie unter [Informationen zur Registrierungs-ID](reg-number-id.md).
 
 ## <a name="next-steps"></a>Nächste Schritte
 

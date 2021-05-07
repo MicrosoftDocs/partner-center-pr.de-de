@@ -10,17 +10,96 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/20/2021
-ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
-ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
+ms.date: 04/29/2021
+ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "107823383"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328048"
 ---
 # <a name="april-2021-announcements"></a>Ankündigungen für April 2021
 
 Auf dieser Seite finden Sie die Ankündigungen vom April 2021 für Microsoft Partner Center.
+
+## <a name="readiness-updated-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="10"></a>Bereitschaft: Aktualisierte API zur Überprüfung von Kundenadressen im CSP-Programm geht im Juni online; Testfunktion jetzt verfügbar
+
+### <a name="categories"></a>Kategorien
+
+- Datum: 30.04.2021
+- Bereitschaft
+
+### <a name="summary"></a>Zusammenfassung
+
+Damit Partner und Kunden ihre Geschäfte auf Vertrauensbasis tätigen können, laden wir Partner ein, Änderungen an der Adressüberprüfungs-API für alle Länder weltweit zu testen.
+
+### <a name="impacted-audience"></a>Zielgruppe
+
+CSP-Partner mit direkter Abrechnung und indirekte Anbieter, die neue Adressdetails für Kunden erstellen oder bestehende Details aktualisieren
+
+### <a name="details"></a>Details
+
+Microsoft setzt auf Vertrauen. Wir haben uns verpflichtet, eine kompatible und sichere Methode der Überprüfung von Kundenadressen zur Abwicklung von Kundenabonnements im CSP-Programm bereitzustellen. Ab dem 31. März 2021 haben wir Änderungen an der Adressüberprüfungs-API eingeführt. Wir laden Partner ein, die API vor der Liveschaltung Ende Juni 2021 zu testen. 
+
+Beachten Sie, dass diese Änderungen nur die Adressüberprüfungs-API betreffen. Die APIs zum Erstellen von Kunden und Aktualisieren von Abrechnungsprofilen sind nicht betroffen. Obwohl die vorgeschlagene Adresse derzeit nicht in der API zum Erstellen von Kunden verwendet werden muss, wird dies dringend empfohlen.
+
+Die Antwort gibt eine der folgenden Statusmeldungen zurück:
+
+| Status     | Beschreibung |    Anzahl der zurückgegebenen vorgeschlagenen Adressen |
+|-------|---------------|-------------------|
+|Versandfähigkeit überprüft | Die Adresse ist überprüft und für den Versand geeignet. | Eine |
+|Überprüft | Die Adresse ist überprüft. | Eine |
+|Interaktion erforderlich | Die vorgeschlagene Adresse wurde erheblich geändert und muss vom Benutzer bestätigt werden. | Eine |
+|Straße unvollständig | Die angegebene Straße in der Adresse ist unvollständig und erfordert weitere Informationen. | Mehrere – maximal drei |
+|Räumlichkeiten unvollständig | Die angegebenen Räumlichkeiten (Gebäudenummer, Suitenummer und andere) sind unvollständig und erfordern weitere Informationen. | Mehrere – maximal drei |
+|Mehrere | Mehrere Felder in der Adresse sind unvollständig (möglicherweise einschließlich der Felder für Straße und Räumlichkeiten). | Mehrere – maximal drei |
+|Keine | Die Adresse ist falsch. | Keine |
+|Nicht überprüft | Die Adresse konnte den Überprüfungsprozess nicht durchlaufen. | Keine |
+
+Bei US-Postleitzahlen werden zusätzlich vier Ziffern und ein Bindestrich zurückgegeben, z. B. 12345-6789.
+
+### <a name="next-steps"></a>Nächste Schritte
+
+- Ausführlichere Anleitungen finden Sie in der technischen Dokumentation und unter den häufig gestellten Fragen in der [jeweiligen Sammlung für Partner](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/).
+- Bereiten Sie die Einbindung der Änderungen mithilfe der Partner Center-API und der Webbenutzeroberfläche vor. 
+- Teilen Sie dem Fachexperten (Ali Khaki) Ihre Sandbox-Mandanten-ID mit, damit Sie in die Testphase einbezogen werden und mit der Vorbereitung für die Aktualisierung beginnen können. 
+- Wenden Sie sich an Ihren CPV (Control Panel Vendor), wenn Sie eine CPV-Lösung verwenden.
+
+### <a name="questions"></a>Fragen?
+
+Wenn Sie Unterstützung hinsichtlich des Geschäftsbetriebs mit Microsoft benötigen, wenden Sie sich an Ihre Yammer-Gruppe beim Partner-Support oder erstellen Sie eine [Serviceanfrage](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+_______________
+## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>Neuer Speicherort für Dokumentation zu Partner Center-API-Swagger
+
+### <a name="categories"></a>Kategorien
+
+- Datum: 26.04.2021
+- Funktionen
+
+### <a name="summary"></a>Zusammenfassung
+
+Die Dokumente zu Partner Center-API-Swagger wurden von der [vorherigen Swagger-Dokumentationswebsite](https://apidocs.microsoft.com/services/partnercenter) zu einer [neuen Swagger-Dokumentationswebsite](https://docs.microsoft.com/rest/api/partner-center-rest/) migriert.
+
+### <a name="impacted-audience"></a>Zielgruppe
+
+Partner mit direkter Abrechnung und indirekte Anbieter, die am CSP-Programm (Cloud Solution Provider) teilnehmen und die Partner Center-APIs verwenden
+
+### <a name="details"></a>Details
+
+Ab dem 26. April 2021 befindet sich die Dokumentation zu Partner Center-API-Swagger, einschließlich der REST-API-Inhalte, auf einer [neuen Website](https://docs.microsoft.com/rest/api/partner-center-rest/). Auf die alte Website kann nach einigen Wochen nicht mehr zugegriffen werden.
+
+### <a name="benefits"></a>Vorteile
+
+Die Dokumentation zu Partner Center-API-Swagger umfasst eine **Testen**-Funktion. Um diese Funktion zu nutzen, benötigen Sie ein Bearertoken, das Sie mithilfe der unter [Partner Center-Authentifizierung](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication) aufgeführten Schritte generieren können.
+
+### <a name="next-steps"></a>Nächste Schritte
+
+Leiten Sie diese Informationen an das geeignete Team in Ihrem Unternehmen weiter, damit es seine Prozesse überprüfen und aktualisieren kann.
+
+### <a name="questions"></a>Haben Sie Fragen?
+
+Bei Fragen zu diesen Angeboten können Sie sich an die entsprechende Yammer-Community wenden.
 
 ________________
 ## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Hinweis zur Richtlinie für den Rückgabezeitraum für Software im CSP-Programm (Cloud Solution Provider) und zum Ablauf des Downloadlinks

@@ -8,20 +8,27 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/27/2021
-ms.openlocfilehash: b6b16a8453d9e93e2600c53bedcef7dc29c14e16
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.date: 05/05/2021
+ms.openlocfilehash: 1aad6d1384e7043f13ad5f023d06f5e7fa1301e5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328031"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702772"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
 Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen werden häufig aktualisiert, überprüfen Sie sie daher in regelmäßigen Abständen.
 
-|**Kategorie**|**Ankündigungen für April 2021**|**Angekündigt**|
+|**Kategorie**|**Ankündigungen für Mai 2021**|**Angekündigt**|
 |---------|:---------|:---------|
+|Funktionen|[Aktualisierung: Scheduler-Produkteinführung hat sich verzögert](2021-may.md#6)|5. Mai|
+|Funktionen|[Unbefristete Software im CSP-Programm bald in China verfügbar](2021-may.md#5)|5. Mai|
+|Funktionen|[Letzte Erinnerung: Einstellung der GET-Qualifizierung am 6. Mai 2021](2021-may.md#4)|4\. Mai|
+|Angebote/Märkte|[Korrekturen der Preisliste für lizenzbasierte Dienste vom 1. Mai 2021](2021-may.md#3)|4\. Mai|
+|Funktionen|[Ankündigung der Qualifikation als staatliche Einrichtung](2021-may.md#2)|4\. Mai|
+| Angebote/Geschäftsanwendungen|[Anzeige der Produkteinführungen und -angebote in diesem Monat](2021-may.md#1)|3\. Mai|
+|**Kategorie**|**Ankündigungen für April 2021**|**Angekündigt**|
 |Bereitschaft|[Aktualisierte API zur Überprüfung von Kundenadressen im CSP-Programm geht im Juni online; Testfunktion jetzt verfügbar](2021-april.md#10)|30. April|
 |Funktionen|[Neuer Speicherort für Dokumentation zu Partner Center-API-Swagger](2021-april.md#9)|26. April|
 |Funktionen|[Hinweis zur Richtlinie für den Rückgabezeitraum für Software im CSP-Programm (Cloud Solution Provider) und zum Ablauf des Downloadlinks](2021-april.md#8)|21. April|

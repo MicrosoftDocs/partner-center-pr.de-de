@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Standorten im Partnerkonto
 ms.topic: how-to
-ms.date: 04/05/2021
+ms.date: 05/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Sie einen neuen Standort hinzufügen und wie die Standort-MPN-ID in Incentive-Programmen, CSP-Geschäftsaktionen, Abonnements und anderen Transaktionen verwendet wird.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 8a2b4fa8b204b10d5d45c0e1409ab4bc463e272f
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441325"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702891"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>Verwalten von MPN-Kontostandorten und Hinzufügen (Löschen) eines Standorts
 
@@ -50,7 +50,7 @@ Zum Hinzufügen eines neuen CSP-Geschäftskontos müssen Sie zunächst sicherste
 
 1. Wenn Sie sich als Partner mit direkter Abrechnung registrieren möchten, lesen Sie die [Anforderungen für Partner mit direkter Abrechnung](direct-partner-new-requirements.md).
 
-## <a name="view-your-mpn-locations"></a>Anzeigen Ihrer MPN-Standorte
+## <a name="view-and-update-your-mpn-locations"></a>Anzeigen und Aktualisieren Ihrer MPN-Standorte
 
 1. Melden Sie sich mit den Anmeldeinformationen für Ihr MPN-Konto beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an. (Ihre MPN-Anmeldeinformationen können sich von Ihren CSP-Anmeldeinformationen unterscheiden.) 
  
@@ -100,6 +100,37 @@ Aktualisieren Sie die folgenden Felder:
 > [!NOTE]
 > In Partner Center hinzugefügte Standorte können nicht mehr entfernt werden. Wenn Sie die richtige MPN-ID für die Anmeldung verwendet haben, wird **MPN** im linken Menü von Partner Center angezeigt.
 
+## <a name="add-the-registration-number-id"></a>Hinzufügen der Registrierungs-ID
+
+Wenn Sie ein indirekter Anbieter, Partner mit direkter Abrechnung oder indirekter Wiederverkäufer sind und Geschäfte mit neuen Kunden oder Bestandskunden in den folgenden Ländern tätigen, müssen Sie Registrierungs-IDs für Ihr Unternehmen bereitstellen. Ist das Land, in dem Sie geschäftlich tätig sind, nachfolgend nicht aufgelistet, ist die Angabe der Registrierungs-ID optional.
+
+- Armenien 
+- Aserbaidschan 
+- Belarus 
+- Brasilien 
+- Ungarn 
+- Indien 
+- Irak 
+- Kasachstan 
+- Kirgisistan 
+- Moldawien 
+- Myanmar 
+- Polen 
+- Russland 
+- Saudi-Arabien 
+- Südafrika 
+- Südsudan  
+- Tadschikistan 
+- Thailand
+- Türkei 
+- Ukraine 
+- Vereinigte Arabische Emirate 
+- Usbekistan 
+- Venezuela
+- Vietnam 
+
+
+Weitere Informationen finden Sie unter [Informationen zur Registrierungs-ID](reg-number-id.md).
 
 ## <a name="delete-a-location"></a>Löschen eines Standorts
 

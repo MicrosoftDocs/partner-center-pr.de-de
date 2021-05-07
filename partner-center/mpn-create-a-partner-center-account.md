@@ -1,7 +1,7 @@
 ---
-title: Erstellen eines MPN-Kontos in Partner Center
+title: Erstellen eines MPN-Kontos im Partner Center
 ms.topic: article
-ms.date: 04/08/2021
+ms.date: 04/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Erfahren Sie, wie Mitglieder im Microsoft Partner Network ein Partner Center-Konto erstellen können, um ihre Netzwerkvorteile und Kompetenzen zu verwalten.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 27cd00b5475914019963fad381b36b47a017dcf1
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 2b4c96f2099d50d05360320070d7c0d96f4590f6
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120799"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213396"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Erstellen eines MPN-Kontos in Partner Center zum Verwalten von Netzwerkvorteilen und Kompetenzen
 
@@ -64,6 +64,41 @@ Sie können entweder Ihr Unternehmensprofil suchen oder Unternehmensinformatione
 Wenn sich Ihr Unternehmen in **Armenien**, **Ungarn**, **Kirgisistan**, **Republik Moldau**, **Usbekistan** oder **Russland** befindet und Sie Ihre Adresse manuell eingeben, prüfen wir die Adresse für Sie. Wenn die von Ihnen eingegebene Adresse von der überprüften abweicht, wird empfohlen, die überprüfte Adresse zu verwenden. Dadurch wird sichergestellt, dass die Elemente der Adresse den von der Postbehörde des Landes definierten Standards entsprechen, ordnungsgemäß formatiert sind und für den Versand geeignet sind.  
 
 Nachdem Sie die Unternehmensinformationen eingegeben haben, geben Sie Informationen zum Hauptansprechpartner ein. Der Hauptansprechpartner muss eine Person in Ihrem Unternehmen sein, die wir im Zusammenhang mit Ihrer Bewerbung kontaktieren können (bei diesem Ansprechpartner kann es sich um Sie selbst oder eine andere Person in Ihrem Unternehmen handeln).
+
+## <a name="registration-id-numbers-by-country"></a>Registrierungs-IDs nach Land
+
+Wenn Sie ein indirekter Anbieter, Partner mit direkter Abrechnung oder indirekter Wiederverkäufer sind und Geschäfte mit neuen Kunden oder Bestandskunden in den folgenden Ländern tätigen, müssen Sie Registrierungs-IDs für Ihr Unternehmen bereitstellen. Ist das Land, in dem Sie geschäftlich tätig sind, nachfolgend nicht aufgelistet, ist die Angabe der Registrierungs-ID optional.
+
+Die folgende Tabelle enthält Beispiele für die Registrierungsnummern, die für jedes Land erfasst werden. Falls mehrere IDs aufgeführt sind, ist jeweils nur eine erforderlich.
+
+| **Land oder Region** | **Details** | 
+|:--|:--|:--|:--|:--|:--|
+| **Armenien** | INN: Steueridentifikationsnummer<br>Umsatzsteuernummer (auch als Umsatzsteuer-Identifikationsnummer bezeichnet): Dies ist die eindeutige Nummer, die eine steuerpflichtige Person (Unternehmen) oder eine nicht steuerpflichtige juristische Person identifiziert, die für die Umsatzsteuer registriert ist.<br>Nummer des öffentlichen Diensts |  |  | |  |
+| **Aserbaidschan**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf): Steueridentifikationsnummer<br>INN: Steueridentifikationsnummer |  |  |  |  |
+| **Belarus**  | UNP: Dies ist eine neunstellige Zahl (numerisch für Organisationen, alphanumerisch für Einzelpersonen), die eine Regionskennung, eine Seriennummer pro Region und eine Prüfziffer enthält. |  |  |  |  |
+|**Brasilien** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) (Cadastro Nacional da Pessoa Jurídica, nationales Register für juristische Personen): Dies ist eine Identifikationsnummer, die von der Bundessteuerbehörde von Brasilien für brasilianische Unternehmen ausgestellt wird.  |  |  |  |  |
+| **China** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf): Steueridentifikationsnummer |  |  |  |  |
+| **Ungarn**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf): Steueridentifikationsnummer |  |  |  |  |
+| **Indien** | USt.-IdNr.<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) (Presence Across India): Die Einbeziehung von PAN India bedeutet, dass es eine Organisation gibt, die an mehreren Standorten in Indien tätig ist. |  |  |  |  |
+| **Irak** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/): Steueridentifikationsnummer |  |  |  |  |
+| **Kasachstan**  | BIN: Bankidentifikationsnummer<br>IIN: Ausstelleridentifikationsnummer |  |  |  |  |
+| **Kirgisistan**  | INN: Steueridentifikationsnummer |  |  |  |  |
+| **Moldawien**  | IDNO: Die eindeutige staatliche Identifikationsnummer, die der juristischen Person zugewiesen ist (auch bekannt als Steuercode).<br>IDNP: Persönlicher Geburtscode („Numarul de Identificare“) |  |  |  |  |
+| **Myanmar** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/): Steueridentifikationsnummer |  |  |  |  |
+| **Polen**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf): Steueridentifikationsnummer<br>[PESEL](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf): Die in Polen verwendete nationale Identifikationsnummer (Polish Powszechny Elektroniczny System Ewidencji Ludności, universelles elektronisches System zur Registrierung der Bevölkerung) |  |  |  |  |
+| **Russland**  | [INN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf): Steueridentifikationsnummer (Russisch : „Individualiy Nomer Nalogoplatelshika“) |  |  |  |  |
+| **Saudi-Arabien** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf): Steueridentifikationsnummer |  |  |  |  |
+| **Südafrika** | TRN : Registrierungsnummer für Warenverkehr |  |  |  |  |
+| **Südsudan** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/): Steueridentifikationsnummer |  |  |  |  |
+| **Tadschikistan**  | INN: Steueridentifikationsnummer<br>EIN: Arbeitgeberkennnummer<br>KPP: Dies ist ein Code, der den Grund für die Registrierung der Organisation wiedergibt. |  |  |  |  |
+| **Thailand** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/): Steueridentifikationsnummer |  |  |  |  |
+| **Türkei** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf): Steueridentifikationsnummer<br>NIN |  |  |  |  |
+| **Ukraine**  | EGRPOU<br>EDRPOU: Lokale ID |  |  |  |  |
+| **Vereinigte Arabische Emirate** | USt.-IdNr.<br>[Umsatzsteuernummer](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) (auch als Umsatzsteuer-Identifikationsnummer bezeichnet): Dies ist die eindeutige Nummer, die eine steuerpflichtige Person (Unternehmen) oder eine nicht steuerpflichtige juristische Person identifiziert, die für die Umsatzsteuer registriert ist. |  |  |  |  |
+| **USA** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce): Arbeitgeberkennnummer |  |  |  |  |
+| **Usbekistan**  | INN: Steueridentifikationsnummer |  |  |  |  |
+| **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/): Steueridentifikationsnummer |  |  |  |  |
+| **Venezuela** | RIF: Steuernummer („Registro de Identificificón Fiscal“) |  |  |  |  |
 
 4. Wählen Sie **Jetzt registrieren** aus.
 

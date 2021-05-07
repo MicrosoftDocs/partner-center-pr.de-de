@@ -9,53 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 12954a5f7eafb138794de879a41026ef54c65da7
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 17b8082b8a42050892ff434010952d5f91a39431
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374386"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328065"
 ---
 # <a name="march-2021-announcements"></a>Ankündigungen für März 2021
 
 Auf dieser Seite finden Sie die Ankündigungen vom März 2021 für Microsoft Partner Center.
 
-________________
-## <a name="updated-csp-customer-address-validation-api-now-available-for-testing"></a><a name="18"></a>Aktualisierte API zur Überprüfung von Kundenadressen im CSP-Programm jetzt zum Testen verfügbar
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="18"></a>Bereitschaft: Änderungen an der API zur Überprüfung von Kundenadressen im CSP-Programm (Cloud Solution Provider) gehen im Juni online; Testfunktion jetzt verfügbar
 
 ### <a name="categories"></a>Kategorien
 
-- Datum: 31.03.2021
-- Funktionen
+- Datum: 30.04.2021
+- Bereitschaft
 
 ### <a name="summary"></a>Zusammenfassung
 
-Im Rahmen unserer Verpflichtung, Partner und Kunden bei der Ausführung ihrer Geschäfte auf Vertrauensbasis zu unterstützen, laden wir Partner weltweit ein, die Änderungen an der ValidateAddress-API zu testen.
+Damit Partner und Kunden ihre Geschäfte auf Vertrauensbasis tätigen können, laden wir Partner ein, Änderungen an der Adressüberprüfungs-API für alle Länder weltweit zu testen.
 
 ### <a name="impacted-audience"></a>Zielgruppe
 
-Alle CSP-Partner mit direkter Abrechnung und indirekte Anbieter, die neue Adressdetails für Kunden erstellen oder bestehende Details aktualisieren
+CSP-Partner mit direkter Abrechnung und indirekte Anbieter, die neue Adressdetails für Kunden erstellen oder bestehende Details aktualisieren
 
 ### <a name="details"></a>Details
 
-Microsoft setzt auf Vertrauen. Wir haben uns verpflichtet, eine kompatible und sichere Methode der Überprüfung von Kundenadressen zur Abwicklung von Kundenabonnements im CSP-Programm bereitzustellen. Heute, am 31. März 2021, haben wir Änderungen an der ValidateAddress-API eingeführt, die wir gerne von Ihnen testen lassen möchten, bevor die Änderungen im Juni 2021 umgesetzt werden. 
+Microsoft setzt auf Vertrauen. Wir haben uns verpflichtet, eine kompatible und sichere Methode der Überprüfung von Kundenadressen zur Abwicklung von Kundenabonnements im CSP-Programm bereitzustellen. Ab dem 31. März 2021 haben wir Änderungen an der Adressüberprüfungs-API eingeführt, die wir gerne von Partnern testen lassen möchten, bevor die Änderungen im Juni 2021 umgesetzt werden.
 
-Beachten Sie, dass diese Änderungen nur die ValidateAddress-API betreffen. Die CreateCustomer-API and UpdateBillingProfile-API sind nicht betroffen.
+Änderungen betreffen nur die Adressüberprüfungs-API. Die APIs zum Erstellen von Kunden und Aktualisieren von Abrechnungsprofilen sind nicht betroffen.
 
 Die Antwort gibt eine der folgenden Statusmeldungen zurück:
 
-| Status | Beschreibung | Anzahl der zurückgegebenen vorgeschlagenen Adressen |
-|----------|-------------|-------------------|
-| VerifiedShippable | Die Adresse ist überprüft und für den Versand geeignet. | Eine |
-| Verified | Die Adresse ist überprüft. | Eine |
-| InteractionRequired | Die vorgeschlagene Adresse wurde erheblich geändert und muss vom Benutzer bestätigt werden. | Eine |
-| StreetPartial | Die angegebene Straße in der Adresse ist unvollständig und erfordert weitere Informationen. | Mehrere – maximal drei|
-| PremisesPartial | Die angegebenen Räumlichkeiten (Gebäudenummer, Suitenummer usw.) sind unvollständig und erfordern weitere Informationen. | Mehrere – maximal drei |
-| Multiple | Mehrere Felder in der Adresse sind unvollständig (möglicherweise StreetPartial and PremisesPartial eingeschlossen). | Mehrere – maximal drei |
-| None | Die Adresse ist falsch. | Keine |
-| NotValidated | Die Adresse konnte den Überprüfungsprozess nicht durchlaufen.  | Keine |
+| Status     | Beschreibung |    Anzahl der zurückgegebenen vorgeschlagenen Adressen |
+|-------|---------------|-------------------|
+|Versandfähigkeit überprüft | Die Adresse ist überprüft und für den Versand geeignet. | Eine |
+|Überprüft | Die Adresse ist überprüft. | Eine |
+|Interaktion erforderlich | Die vorgeschlagene Adresse wurde erheblich geändert und muss vom Benutzer bestätigt werden. | Eine |
+|Straße unvollständig | Die angegebene Straße in der Adresse ist unvollständig und erfordert weitere Informationen. | Mehrere – maximal drei |
+|Räumlichkeiten unvollständig | Die angegebenen Räumlichkeiten (Gebäudenummer, Suitenummer und andere) sind unvollständig und erfordern weitere Informationen. | Mehrere – maximal drei |
+|Mehrere | Mehrere Felder in der Adresse sind unvollständig (möglicherweise einschließlich der Felder für Straße und Räumlichkeiten). | Mehrere – maximal drei |
+|Keine | Die Adresse ist falsch. | Keine |
+|Nicht überprüft | Die Adresse konnte den Überprüfungsprozess nicht durchlaufen. | Keine |
 
-Nachdem eine Adresse über die ValidateAddress-API übermittelt wurde, wird das folgende Antwortschema zurückgegeben:
+Bei US-Postleitzahlen werden zusätzlich vier Ziffern und ein Bindestrich zurückgegeben, z. B. 12345-6789.
+
+Nachdem eine Adresse über die Adressüberprüfungs-API zur Überprüfung übermittelt wurde, wird das folgende Antwortschema zurückgegeben:
 
 ```csharp
 
@@ -103,18 +104,18 @@ Sehen Sie sich die folgende Beispielantwort an. Beachten Sie, dass die Antwort f
 ```csharp
 
 "suggested_address": {
-    "Country": "US",
-    "region": "WA",
-    "city": "Redmond",
-    "address_line1": "1 Microsoft Way",
-    "postal_Code": "98052-8300"
+              "Country": "US",
+              "region": "WA",
+              "city": "Redmond",
+              "address_line1": "1 Microsoft Way",
+              "postal_Code": "98052-8300"
 },
 "original_address": {
-    "Country": "US",
-    "region": "WA",
-    "city": "Redmond",
-    "address_line1": "1 Micro Way",
-    "postal_Code": "98052"
+              "Country": "US",
+              "region": "WA",
+              "city": "Redmond",
+              "address_line1": "1 Micro Way",
+              "postal_Code": "98052"
 },
 "status":  "InteractionRequired",
 "validation_message": "Address field invalid for property: ‘Street’"
@@ -123,13 +124,19 @@ Sehen Sie sich die folgende Beispielantwort an. Beachten Sie, dass die Antwort f
 
 ### <a name="next-steps"></a>Nächste Schritte
 
-- Teilen Sie unserem Fachexperten (SME), Ali Khaki, Ihre Sandbox-Mandanten-ID mit, damit Sie in die Testphase einbezogen werden und mit der Vorbereitung für die Aktualisierung beginnen können.
+- Teilen Sie dem Fachexperten (Ali Khaki) Ihre Sandbox-Mandanten-ID mit, damit Sie in die Testphase einbezogen werden und mit der Vorbereitung für die Aktualisierung beginnen können.
 
 - Wenden Sie sich an Ihren CPV (Control Panel Vendor), wenn Sie eine CPV-Lösung verwenden.
 
 ### <a name="questions"></a>Fragen?
 
-Wenn Sie Fragen haben oder Unterstützung hinsichtlich des Geschäftsbetriebs mit Microsoft benötigen, wenden Sie sich an Ihre Yammer-Gruppe beim Partner-Support.
+Wenn Sie Unterstützung hinsichtlich des Geschäftsbetriebs mit Microsoft benötigen, wenden Sie sich an Ihre Yammer-Gruppe beim Partner-Support.
+
+### <a name="change-log"></a>Änderungsprotokoll:
+
+- 31. März 2020: Erstveröffentlichung
+
+- 30. April 2021: Aktualisierungen der Details zu Beispielantworten und Postleitzahl
 
 ________________
 ## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Neue Benutzeroberfläche des Exchange Admin Center (EAC)

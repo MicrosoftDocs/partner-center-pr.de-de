@@ -30,8 +30,11 @@
         - name: Aktivieren von Vorteilen für die PMC
           href: partner-membership-center-tech-benefits-activate.md
           displayName: mpn
-    - name: Mitgliedschaftsangebote
+    - name: Mitgliedschaftsvorteile
       items:
+        - name: Übersicht über die Vorteile
+          href: manage-your-partner-network-benefits.md
+          displayName: mpn
         - name: Action Pack
           href: mpn-get-action-pack.md
           displayName: 'renew, mpn'
@@ -44,50 +47,21 @@
         - name: Finden Ihrer MPN-Vorteile
           href: mpn-find-benefits.md
           displayName: mpn
-        - name: Bezahlen von Kompetenzgebühren
-          href: mpn-pay-fee-silver-gold-competency.md
-          displayName: mpn
-    - name: Kompetenzen
+        - name: 'Vorteile bei Richtlinien und Verwendung: Häufig gestellte Fragen'
+          href: benefits-faq-new.md
+        - name: Häufig gestellte Fragen zu den Vorteilen
+          href: benefits-faq.md
+          displayName: 'renew, license,'
+        - name: Anzeigen oder Herunterladen Ihrer MPN-Rechnung
+          href: mpn-view-print-maps-invoice.md
+    - name: Verfügbare Vorteile
       items:
-        - name: Weitere Informationen zu Kompetenzen
-          href: learn-about-competencies.md
-          displayName: mpn
-        - name: Registrieren als Learning Partner
-          href: mpn-benefits-map-competency-learning-option-enroll.md
-          displayName: mpn
-        - name: Häufig gestellte Fragen zu Kompetenzen
-          href: competencies-faq.md
-          displayName: 'renew, mpn'
-        - name: Ausnahme der Anwendungsentwicklungskompetenz
-          href: app-dev-isv.md
-        - name: Verwenden des Skills-Berichts
-          href: mpn-skills-report.md
-    - name: Erweiterte Spezialisierungen
-      items:
-        - name: Herausstellen Ihres Fachwissens
-          href: advanced-specializations.md
-          displayName: mpn
-        - name: Bewerben oder Überprüfen des Status
-          href: advanced-specializations-apply.md
-          displayName: mpn
-    - name: Qualifizierung als Azure Expert MSP
-      href: azure-expert-msp.md
-    - name: Vorteile
-      items:
-        - name: Übersicht über die Vorteile
-          href: manage-your-partner-network-benefits.md
-          displayName: mpn
         - name: Vorteile der Markteinführung
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
         - name: Demos für MPN-Partner
           href: mpn-demos.md
           displayName: mpn
-        - name: 'Vorteile bei Richtlinien und Verwendung: Häufig gestellte Fragen'
-          href: benefits-faq-new.md
-        - name: Häufig gestellte Fragen zu den Vorteilen
-          href: benefits-faq.md
-          displayName: 'renew, license,'
         - name: Azure- und Cloudvorteile
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
@@ -118,11 +92,33 @@
           items:
             - name: Qualifizierungsanforderungen
               href: software-assurance-dps-requirements.md
-    - name: Rechnungen und Steuern
-      href: mpn-view-print-maps-invoice.md
-      displayName: 'invoice, mpn'
-    - name: Testen neuer Features
-      href: test-drive-new-features.md
+    - name: Kompetenzen
+      items:
+        - name: Weitere Informationen zu Kompetenzen
+          href: learn-about-competencies.md
+          displayName: mpn
+        - name: Registrieren als Learning Partner
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
+        - name: Häufig gestellte Fragen zu Kompetenzen
+          href: competencies-faq.md
+          displayName: 'renew, mpn'
+        - name: Bezahlen von Kompetenzgebühren
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
+        - name: Ausnahme der Anwendungsentwicklungskompetenz
+          href: app-dev-isv.md
+        - name: Verwenden des Skills-Berichts
+          href: mpn-skills-report.md
+    - name: Erweiterte Spezialisierungen
+      items:
+        - name: Herausstellen Ihres Fachwissens
+          href: advanced-specializations.md
+        - name: Bewerben oder Überprüfen des Status
+          href: advanced-specializations-apply.md
+          displayName: mpn
+    - name: Qualifizierung als Azure Expert MSP
+      href: azure-expert-msp.md
 - name: Cloud Solution Provider (CSP)
   href: csp-overview.md
   displayName: csp
@@ -141,7 +137,7 @@
       displayName: 'indirect, reseller, csp'
     - name: 'Microsoft-Kundenvereinbarungen (nach Region, Sprache)'
       href: agreements.md
-      displayName: 'regio, region, MPA'
+      displayName: 'region, MPA'
     - name: Eingeschränkter Zugriff für Partner mit direkter Abrechnung
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
@@ -579,6 +575,8 @@
         - name: Übertragen von Azure-Abonnements
           href: switch-azure-subscriptions-to-a-different-partner.md
           displayName: csp
+        - name: Übertragen von Azure-Planabonnements eines Kunden an einen anderen Partner
+          href: transfer-azure-subscriptions-under-azure-plan.md
     - name: Softwareabonnements
       href: csp-software-subscriptions.md
       displayName: 'subscription, cancel'

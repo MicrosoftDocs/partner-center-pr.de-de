@@ -1,7 +1,7 @@
 ---
 title: Abrufen von Empfehlungsdaten
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 04/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Überprüfen Sie Ihre Erkenntnisse zu Empfehlungen regelmäßig im Partner Center, um zu berücksichtigende Trends und Bereiche für Optimierungen zu identifizieren, damit Sie Ihre Unternehmensziele erreichen.
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120850"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328082"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>In Partner Center erhalten Sie Erkenntnisse zu Empfehlungen und Informationen zur Entwicklung Ihrer Empfehlungen.
 
@@ -76,7 +76,7 @@ Im diesem Abschnitt werden die Länder/Regionen angezeigt, aus denen die Deals s
 
 ## <a name="deals-by-solutions"></a>Deals nach Lösungen
 
-In diesem Diagramm sehen Sie, welche Ihrer Lösungen die größte Anzahl Empfehlungen und den höchsten Dealwert erbringt. Die Tabelle hat drei Pivots: Co-Selling, partnergeführt und privat.
+In diesem Diagramm sehen Sie, welche Ihrer Lösungen die größte Anzahl Empfehlungen und den höchsten Dealwert erbringt. Die Tabelle hat drei Pivots: Co-Selling, Partnergeführt und Privat.
 Je nach Pivotauswahl wird Ihnen der Erfolg der Deals nach Lösung aggregiert angezeigt.
 
 > [!NOTE]
@@ -94,8 +94,7 @@ Mithilfe dieses Abschnitts können Sie die Gründe analysieren, warum die Deals 
 
 ## <a name="comparison-charts"></a>Vergleichsdiagramme
 
-Mithilfe des Vergleichsabschnitts können Sie die Daten zu Empfehlungen auf Grundlage mehrerer Dimensionen sowohl hinsichtlich des Umfangs als auch des gewonnenen Dealwerts in USD vergleichen.
-Die folgenden drei Dimensionen können für den Datenvergleich ausgewählt werden:
+Mithilfe des Vergleichsabschnitts können Sie die Daten zu Empfehlungen auf Grundlage mehrerer Dimensionen sowohl hinsichtlich des Umfangs als auch des gewonnenen Dealwerts in USD vergleichen. Die folgenden drei Dimensionen können für den Datenvergleich ausgewählt werden:
 
 - Dealtyp
 - Märkte
@@ -128,3 +127,8 @@ Es kann mehrere Gründe geben, warum beim Zugreifen auf die Co-Selling-Analyse e
 
 > [!TIP]
 > Um die Leistung Ihres Geschäftsprofils auf der [Lösungsanbieter suchen](https://www.microsoft.com/solution-providers/home)-Oberfläche darzustellen, arbeiten Sie die Seite [Erkenntnisse zu Geschäftsprofilen](analyze-your-marketing-profile.md) durch.
+
+## <a name="next-steps"></a>Nächste Schritte
+
+- [Umsatzsteigerung mit Microsoft-Empfehlungen](referrals.md)
+- [Analysieren Ihrer Leads](analyze-your-marketing-profile.md)

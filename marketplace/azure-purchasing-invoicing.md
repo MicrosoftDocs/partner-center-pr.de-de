@@ -1,79 +1,79 @@
 ---
-title: Erwerben von Software und Lösungen aus Azure Marketplace
-description: Erfahren Sie mehr über Tools, die den Erwerb und die Verwaltung von Software in Azure Marketplace vereinfachen und optimieren.
+title: Erwerb von Software und Lösungen Azure Marketplace
+description: Erfahren Sie mehr über Tools, die Softwarekäufe und -verwaltung in Azure Marketplace.
 ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 01/18/2021
-ms.openlocfilehash: ac20b3c0603f886104499ab8de6da1d3459bbd57
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 04/15/2021
+ms.openlocfilehash: cfe37f26ad685ca723336d8559d15d4a64048f4b
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412572"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630082"
 ---
-# <a name="azure-marketplace-purchasing"></a>Azure Marketplace Einkauf
+# <a name="azure-marketplace-purchasing"></a>Azure Marketplace Käufe
 
-Azure Marketplace verfügt über zahlreiche Tools und Features, die den Erwerb, die Rechnungsstellung und die Verwaltung der Kauf Richtlinien vereinfachen und optimieren.
+Azure Marketplace verfügt über zahlreiche Tools und Features, die den Prozess des Kaufs, der Rechnungsstellung und der Verwaltung von Kaufrichtlinien vereinfachen und optimieren.
 
 ## <a name="simplified-procurement"></a>Vereinfachte Beschaffung
 
-Der Azure Marketplace hilft Ihnen durch verschiedene Kaufoptionen dabei, den Beschaffungsprozess zu vereinfachen. Wenn Sie Produkte mit einer Kreditkarte kaufen, die Ihrem Azure-Konto zugeordnet ist, werden alle Käufe in einer einzelnen Rechnung konsolidiert und der Kreditkarte Ihrer Wahl in Rechnung gestellt. Wenn Sie ein großer Kunde sind, können Sie ihn mit einem Enterprise Agreement erwerben. Bei einem EA werden alle Software Käufe automatisch in ihrer Azure-Rechnung aufgeführt. Auf Ihrer Rechnung sind dann zuerst die Gebühren für die Nutzung von Azure aufgeführt und dann die Azure Marketplace-Gebühren.
+Der Azure Marketplace hilft Ihnen durch verschiedene Kaufoptionen dabei, den Beschaffungsprozess zu vereinfachen. Wenn Sie Produkte mithilfe einer Kreditkarte erwerben, die Ihrem Azure-Konto zugeordnet ist, werden alle Käufe auf einer einzelnen Rechnung konsolidiert und der Kreditkarte Ihrer Wahl in Rechnung gestellt. Wenn Sie ein großer Kunde sind, können Sie mithilfe eines Enterprise Agreement. Mit einem EA werden alle Softwarekäufe automatisch in Ihrer Azure-Rechnung enthalten. Auf Ihrer Rechnung sind dann zuerst die Gebühren für die Nutzung von Azure aufgeführt und dann die Azure Marketplace-Gebühren.
 
-Wenn Sie über Azure Marketplace erwerben, entfällt die Komplexität der Verwaltung einzelner Hersteller Beziehungen und-Rechnungen. Sie erhalten eine einzelne, konsolidierte monatliche Rechnung von Microsoft, die sowohl Ihre Azure Marketplace Käufe als auch Ihre Azure-Gebühren umfasst.
+Wenn Sie über Azure Marketplace erwerben, entfällt die Komplexität der Verwaltung einzelner Herstellerbeziehungen und Rechnungen. Sie erhalten eine einzelne konsolidierte monatliche Rechnung von Microsoft, die sowohl Ihre Azure Marketplace als auch Ihre Azure-Gebühren enthält.
 
-## <a name="permission-to-purchase"></a>Kauf Berechtigung
+## <a name="permission-to-purchase"></a>Kaufberechtigung
 
-Nachdem Sie die richtige Software Anwendung gefunden haben, ist es einfach, den Kauf abzuschließen. Sie benötigen jedoch entsprechende Berechtigungen innerhalb des Azure-Abonnements. Da in Azure ein [rollenbasiertes Access Control](/azure/role-based-access-control/overview) -Modell (RBAC) betrieben wird, benötigt Ihr Konto **Abonnement Besitzer** oder **Mitwirkender** -Berechtigungen, um einen Kauf zu tätigen.
+Nachdem Sie die richtige Softwareanwendung gefunden haben, ist der Kauf einfach. Sie benötigen jedoch geeignete Berechtigungen innerhalb des Azure-Abonnements. Da Azure auf einem RBAC-Modell [(Role Based Access Control)](/azure/role-based-access-control/overview)  arbeitet,  benötigt Ihr Konto Berechtigungen für Abonnementbesitzer oder Mitwirkende, um einen Kauf tätigen zu können.
 
-Vergewissern Sie sich vor Abschluss des Kaufs, dass der Benutzer über die richtige Konfiguration im Azure-Mandanten verfügt. Dadurch werden Fehler beim Kauf verhindert.
+Stellen Sie vor abschluss eines Kaufs sicher, dass der Benutzer über die richtige Konfiguration im Azure-Mandanten verfügt. Dies hilft, Fehler während des Kaufs zu vermeiden.
 
-Suchen Sie im Azure Marketplace im Azure-Portal nach der Anwendung, die Sie kaufen möchten, und wählen Sie **Erstellen** oder **Einrichten + abonnieren** aus. Sie werden aufgefordert, einige Informationen abzuschließen, bevor Sie Ihre neue Lösung verwenden können.
+Suchen Sie Azure Marketplace im Azure-Portal die Anwendung, die Sie kaufen möchten,  und wählen Sie Erstellen oder **Einrichten + abonnieren aus.** Sie werden aufgefordert, einige Informationen zu machen, bevor Sie Ihre neue Lösung verwenden können.
 
-:::image type="content" source="media/overview/offer-create-screen.png" alt-text="Die Schaltfläche zum Erstellen des Angebots.":::
+:::image type="content" source="media/overview/offer-create-screen.png" alt-text="Die Schaltfläche &quot;Erstellen&quot; des Angebots.":::
 
-:::image type="content" source="media/overview/button-set-up-and-subscribe.png" alt-text="Die Schaltfläche &quot;einrichten + abonnieren&quot;.":::
+:::image type="content" source="media/overview/button-set-up-and-subscribe.png" alt-text="Die Schaltfläche Einrichten + abonnieren.":::
 
-Wenn Sie eine Lösung aus dem Azure Marketplace Online Store bereitstellen möchten, klicken Sie auf der Seite Produktbeschreibung auf **jetzt starten** , und melden Sie sich mit den Anmelde Informationen Ihres Azure-Kontos an.
+Wenn Sie eine Lösung aus dem Azure Marketplace Onlineshop bereitstellen möchten, wählen Sie auf der Seite mit der Produktbeschreibung die Option **Jetzt** abrufen aus, und melden Sie sich dann mit den Anmeldeinformationen Ihres Azure-Kontos an.
 
-:::image type="content" source="media/overview/sign-in-to-azure-marketplace.png" alt-text="Das Dialogfeld Azure Marketplace anmelden.":::
+:::image type="content" source="media/overview/sign-in-to-azure-marketplace.png" alt-text="Das Dialogfeld für die Azure Marketplace Anmeldung.":::
 
-Nachdem Sie sich angemeldet haben, werden Sie an das Produkt im Azure-Portal umgeleitet, um den Kauf abzuschließen.
+Nachdem Sie sich angemeldet haben, werden Sie auf das Produkt im Azure-Portal umgeleitet, um Ihren Kauf abzuschließen.
 
-## <a name="purchase-policy-management"></a>Kauf Richtlinien Verwaltung
+## <a name="purchase-policy-management"></a>Verwaltung von Kaufrichtlinien
 
-Microsoft ermöglicht Ihnen die Verwaltung von Benutzer Käufen über Ihr Abrechnungs Profil als Azure-Abonnement Administrator. Wählen Sie zwischen drei Optionen aus:
+Mit Microsoft können Sie Benutzerkäufe über Ihr Abrechnungsprofil als Azure-Abonnementadministrator verwalten. Wählen Sie zwischen drei Optionen aus:
 
-- **Free + bezahlt** – ermöglicht Benutzern das Abrufen beliebiger Azure Marketplace Softwareanwendungen.
-- **Free** – ermöglicht es Benutzern, nur kostenlose Software aus Azure Marketplace bereitzustellen.
-- **Nein** – verhindert, dass Benutzer Software aus Azure Marketplace bereitstellen.
+- **Free + Paid** : Ermöglicht Benutzern das Erwerben beliebiger Azure Marketplace Softwareanwendung.
+- **Free:** Ermöglicht Benutzern, nur kostenlose Software aus Azure Marketplace bereitzustellen.
+- **Nein:** Verhindert, dass Benutzer Software aus Azure Marketplace bereitstellen.
 
-Diese Einstellungen gelten für alle Benutzer mit Zugriff auf Ihr Azure-Abonnement, das Ihnen die Möglichkeit bietet, die IT-Beschaffung über den Azure-Portal zu steuern.
+Diese Einstellungen gelten für alle Benutzer mit Zugriff auf Ihr Azure-Abonnement, wodurch Sie die IT-Beschaffung über die Azure-Portal steuern können.
 
-:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Steuern der IT-Beschaffung durch die Azure-Portal":::
+:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Steuern der IT-Beschaffung über die Azure-Portal":::
 
 ## <a name="cost-management"></a>Kostenverwaltung
 
-Wenn Sie Produkte aus Azure Marketplace erwerben, erhalten Sie Einblicke, die Ihnen bei der Verwaltung der Kosten helfen. Azure Cost Management ist ein kostenloses Tool zum Anzeigen von Informationen zu den Produkten, die Sie gekauft haben. Mit Cost Management können Sie die Details der Dienste anzeigen, für die Sie im Laufe der Zeit Geld aufwenden, und wie diese Kosten gegen das von Ihnen festgelegte Budget nachverfolgt werden. Zusätzlich zum Festlegen von Budgets können Sie Berichte planen und die Abonnementkosten analysieren. Weitere Informationen zu Azure Cost Management finden Sie im Microsoft Learn-Modul unter [Analysieren von Kosten und Erstellen von Budgets mit Azure Cost Management](/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
+Wenn Sie Produkte von Azure Marketplace erwerben, möchten Sie Erkenntnisse gewinnen, die Ihnen beim Verwalten der Kosten helfen. Azure Cost Management ist ein kostenloses Tool zum Anzeigen von Informationen zu den erworbenen Produkten. Sie können Cost Management verwenden, um Details darüber anzuzeigen, für welche Dienste Sie im Laufe der Zeit Geld ausgeben und wie diese Kosten im Vergleich zu den von Ihnen festgelegten Budgets nachverfolgt werden. Zusätzlich zum Festlegen von Budgets können Sie Berichte planen und Abonnementkosten analysieren. Weitere Informationen zu Azure Cost Management finden Sie im modul Microsoft Learn unter Analysieren von [Kosten und Erstellen von Budgets mit Azure Cost Management](/learn/modules/analyze-costs-create-budgets-azure-cost-management/).
 
 Im Kostenanalysetool von Azure Cost Management können Sie Ihre Azure Marketplace-Gebühren und -Rechnungen anzeigen.
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Verwenden Sie Azure Cost Management, um Einblicke in Ihre erworbenen Produkte zu erhalten.":::
 
-## <a name="purchase-validation-checks"></a>Kauf überprüfungsprüfungen
+## <a name="purchase-validation-checks"></a>Überprüfungen der Kaufvalidierung
 
-Der Erwerb eines Angebots über Azure Marketplace kann aus unterschiedlichen Gründen fehlschlagen. Das Verwenden der Befehlszeilenschnittstelle (Command-Line Interface, CLI) für einen Einkauf führt wahrscheinlich zu Fehlern, da Sie möglicherweise versuchen, ein Angebot zu erwerben, das in Azure Marketplace nicht verfügbar oder nicht sichtbar ist. Im folgenden finden Sie die Überprüfungen, die einen Kauf Fehler verursachen können:
+Der Erwerb eines Angebots über Azure Marketplace kann aus verschiedenen Gründen fehlschlagen. Die Verwendung der Befehlszeilenschnittstelle (COMMAND-Line Interface, CLI) für einen Kauf führt wahrscheinlicher zu Fehlern, da Sie möglicherweise versuchen, ein Angebot zu erwerben, das in Azure Marketplace nicht verfügbar oder sichtbar ist. Im Folgenden finden Sie die Überprüfungen, die dazu führen können, dass ein Kauf fehlschlägt:
 
-1. Das Abonnement gehört zu einem Enterprise Agreement (EA), und der EA-Administrator ist Azure Marketplace Käufe deaktiviert.
+1. Das Abonnement gehört zu einem Enterprise Agreement (EA), und der EA-Administrator hat Azure Marketplace deaktiviert.
 1. Der EA-Administrator hat Käufe nur für kostenlose Angebote aktiviert, und das Angebot ist ein kostenpflichtiges Angebot.
 1. Das Angebot wurde im Marketplace nicht gefunden.
-1. Der unabhängige Software Hersteller (Independent Software Vendor, ISV) hat das Angebot, zumindest in Ihrer Region, nicht mehr verkauft.
-1. Das von Ihnen verwendete Abonnement gehört zu einem Abrechnungskonto in einer Region, in der das Angebot nicht verfügbar ist.
-1. Das Abonnement-/Abrechnungs Konto ist keinem gültigen Zahlungsinstrument (z. b. eine gültige Kreditkarte) zugeordnet.
-1. Das Abonnement gehört zu einem cloudlösungsanbieter (Cloud Solution Provider, CSP), und der ISV lehnt den Verkauf über einen CSP ab.
+1. Der unabhängige Softwarehersteller (Independent Software Vendor, ISV) hat das Angebot mindestens in Ihrer Region als veraltet (ehemals Verkaufsstopp) bezeichnet.
+1. Das abonnement, das Sie verwenden, gehört zu einem Abrechnungskonto in einer Region, in der das Angebot nicht verfügbar ist.
+1. Das Abonnement-/Abrechnungskonto ist einem gültigen Zahlungsmittel (z. B. einer gültigen Kreditkarte) nicht zugeordnet.
+1. Das Abonnement gehört zu einem Cloud Solution Provider (CSP), und der ISV hat den Verkauf über einen CSP abgelehnt.
 1. Der private Marketplace ist für das Abonnement aktiviert, und das Angebot ist nicht in der Liste der zulässigen Angebote enthalten.
-1. Das Angebot ist für bestimmte Kunden privat/Vorschau, und das Abonnement ist nicht in der Liste der zulässigen Kunden enthalten.
+1. Das Angebot ist privat/Vorschau für bestimmte Kunden, und das Abonnement ist nicht in der Liste der zulässigen Kunden enthalten.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

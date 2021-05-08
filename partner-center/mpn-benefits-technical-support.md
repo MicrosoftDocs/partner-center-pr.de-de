@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e8f99028fbb26003c0f18a85c5a6d7e416fecd60
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 9aa451a3267cee70282aaad5e018e2f377edb82f
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172199"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630116"
 ---
 # <a name="technical-support-benefits"></a>Vorteile des technischen Supports
 
@@ -39,7 +39,7 @@ So zeigen Sie Ihre technischen Vorteile in Partner Center an und aktivieren sie:
 2. Erweitern Sie im linken Navigationsmenü die Option Vorteile, und wählen Sie die Option **Technische Vorteile** aus. Die Seite „Technische Vorteile“ wird angezeigt. Sie enthält eine Liste mit den technischen Supportvorteilen, die für Ihre Angebote zur Gold-, Silver- oder Microsoft Action Pack-Mitgliedschaft verfügbar sind. 
 
     > [!NOTE]
-    >Wenn Sie über keine aktiven Mitgliedschaftsangebote verfügen, wird die Meldung "Es sieht so aus, als ob Sie noch keine Vorteile haben" angezeigt. Wenn Ihr Unternehmen über aktive Mitgliedschaftsangebote verfügt, diese aber nicht angezeigt werden, haben Sie sich ggf. mit dem falschen Konto angemeldet. Um Ihr Konto zu überprüfen, wählen Sie **oben** rechts auf der Seite das Kontosymbol aus, und wählen Sie bei Bedarf Mit einem anderen **Konto anmelden** aus.
+    >Wenn Sie über keine aktiven Mitgliedschaftsangebote verfügen, wird die Meldung "Es sieht so aus, als ob Sie noch keine Vorteile haben" angezeigt. Wenn Ihr Unternehmen über aktive Mitgliedschaftsangebote verfügt, diese aber nicht angezeigt werden, haben Sie sich ggf. mit dem falschen Konto angemeldet. Um Ihr Konto zu überprüfen, wählen Sie **oben** rechts auf der Seite das Kontosymbol und dann (falls erforderlich) Die Option Mit einem anderen **Konto anmelden** aus.
 
 3. Um mit der Verwendung eines Microsoft-Produktsupports oder Signaturproduktsupports zu beginnen, müssen Sie den Vorteil aktivieren. Zugriffs-ID und Vertrags-ID werden nach erfolgreicher Aktivierung angezeigt. 
 
@@ -47,16 +47,16 @@ So zeigen Sie Ihre technischen Vorteile in Partner Center an und aktivieren sie:
 
     - Sie können den Microsoft-Produktsupport und den Signaturproduktsupport (Gold- und Silver-Mitglieder) verwenden, wenn die Zugriffs-ID und die Vertrags-ID angezeigt werden. 
 
- 4. Sie benötigen die Zugriffs-ID und Vertrags-ID, wenn Sie den Microsoft-Produktsupport oder signaturproduktsupport zum ersten Mal verwenden.  
+ 4. Sie benötigen die Zugriffs-ID und vertrags-ID, wenn Sie den Microsoft-Produktsupport oder signaturproduktsupport zum ersten Mal verwenden.  
 
 ## <a name="technical-support-entitlement-and-supported-products"></a>Berechtigung für technischen Support und unterstützte Produkte
 
-Der technische Support bietet Problembehandlung für ein bestimmtes Problem, eine Fehlermeldung oder eine Funktion, die nicht wie erwartet funktioniert.
+Der technische Support bietet Problembehandlung für ein bestimmtes Problem, eine Fehlermeldung oder eine Funktionalität, die nicht wie erwartet funktioniert.
 
 > [!NOTE]
-> Ihre Vorteile des technischen Supports müssen aktiviert werden, bevor Sie sie nutzen können. 
+> Ihre Technischen Supportvorteile müssen aktiviert werden, bevor Sie sie nutzen können. 
 
-Im Rahmen der Microsoft Partner Network-Mitgliedschaft sind Partner für den folgenden technischen Support berechtigt:
+Im Rahmen der Microsoft Partner Network-Mitgliedschaft sind Partner für den folgenden technischen Support berechtigt.
 
 
 | Technischer Support |  Action Pack | Silver-Kompetenz | Gold-Kompetenz |
@@ -77,13 +77,13 @@ Jedes Benutzerkonto (AAD oder MSA) kann technischen Support für lokale Produkte
 Wählen Sie [Support for Business](https://support.serviceshub.microsoft.com/supportforbusiness/create) aus, um eine Supportanfrage für ein lokales Produkt zu erstellen.
 
 ## <a name="how-many-partner-support-incidents-are-remaining"></a>Wie viele Partnersupport-Incidents verbleiben?
-Sie können diese Informationen nur über das support for business-portal (Support für Unternehmen) im lokalen Supportportal abrufen. Leider werden diese Informationen in den Cloudportalen wie Azure, LCS usw. nicht angezeigt.
+Sie können diese Informationen nur über das support for Business-Portal des lokalen Supports abrufen. Leider werden diese Informationen in den Cloudportalen wie Azure, LCS usw. nicht angezeigt.
 
 Sie müssen Support for Business verwenden und den Prozess starten, um einen lokalen Supportfall zu erstellen. Wir erstellen keine Supportanfrage, da wir den Prozess nicht abschließen. Die benötigten Informationen werden in Schritt 2 angezeigt.
 
-Schritt 1: Auswählen von Windows 10 und Eingeben von Dummyinformationen
+Schritt 1: Öffnen Sie [Support for Business,](https://support.serviceshub.microsoft.com/supportforbusiness/create) wählen Sie Windows 10 aus, und geben Sie Dummyinformationen ein.
 
-Schritt 2: Fügen Sie den Supportvertrag mithilfe der Zugriffs-ID und der Vertrags-ID hinzu. Für den lokalen Support wird der Partnersupportvertrag angezeigt, der das Startdatum, das Enddatum und die verbleibenden Incidents umfasst. Erweitern Sie den Bereich "Möchten Sie nicht verfügbare Supportpläne anzeigen?" Im Abschnitt finden Sie Informationen zur Partnersignatur. Der Partnersupport wird hier nur angezeigt, wenn die Verträge abgelaufen sind, sie keine Incidents mehr haben oder ein altes lokales Produkt ausgewählt haben (Supportprodukte finden Sie [unter aka.ms/n-1).](https://aka.ms/n-1)
+Schritt 2: Wenn Ihr Supportvertrag ihrem Konto bereits zugeordnet ist, sollten Supportvorfälle angezeigt werden. Für den lokalen Support sollte der Partnersupportvertrag angezeigt werden (es sei denn, er ist nicht mehr gültig), und dies schließt das Startdatum, das Enddatum und die verbleibenden Incidents ein. Wenn Sie Ihren Supportvertrag zuordnen müssen, erweitern Sie "Müssen Sie Weitere Supportpläne erwerben oder hinzufügen", und klicken Sie auf die Schaltfläche Vertrag hinzufügen, um Ihre Zugriffs-ID und Vertrags-ID einzugeben. Erweitern Sie "Möchten Sie nicht verfügbare Supportpläne anzeigen?" Im Abschnitt finden Sie Informationen zur Partnersignatur. Der Partnersupport wird hier nur angezeigt, wenn die Verträge abgelaufen sind, keine Incidents mehr vorhanden sind oder Sie ein altes lokales Produkt ausgewählt haben (Supportprodukte finden Sie [unter aka.ms/n-1).](https://aka.ms/n-1)
 
 **Ausführlichere Informationen finden Sie unter [Wie viele Partnersupport-Incidents verbleiben?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
 
@@ -91,9 +91,9 @@ Schritt 2: Fügen Sie den Supportvertrag mithilfe der Zugriffs-ID und der Vertra
 
 Gold- oder Silver-Kompetenzpartner können **Signature Cloud Support** für technischen Support für Cloudprodukte verwenden. 
 
-Sie benötigen die Zugriffs-ID und vertrags-ID, wenn Sie den Vorteil zum ersten Mal nutzen. Die Vorteile werden Ihrem Benutzerkonto zugeordnet, bis sie ablaufen oder keine weiteren Supportfälle mehr vorhanden sind.
+Sie benötigen die Zugriffs-ID und vertrags-ID, wenn Sie den Vorteil zum ersten Mal nutzen. Die Vorteile werden Ihrem Benutzerkonto zugeordnet, bis sie ablaufen oder keine weiteren Supportvorfälle mehr vorhanden sind.
 
-CSP-Partner, die Azure-Anforderungen erstellen, können den Supportplan "Cloud Solution Provider" verwenden, ohne einen Supportvertrag hinzuzufügen.
+CSP-Partner, die Azure-Anforderungen erstellen, können den Supportplan "Cloud Solution Provider" verwenden, ohne einen Supportvertrag hinzufügen zu müssen.
 
 Benutzer mit **der Administrator-Agent-Rolle** können [im](https://partner.microsoft.com/commerce/customers/list) linken Navigationsmenü unter CSP die Option Kunden auswählen, dienstverwaltung und dann **Neue Anforderung auswählen.**  Wenn Sie die relevante Workload auswählen, wird das workloadspezifische Portal geöffnet, und Sie fügen einen Supportvertrag hinzu und erstellen eine Anforderung.
 
@@ -105,11 +105,11 @@ Wenn Sie die Azure-Portal verwenden, verwenden Sie Signature Cloud Support, inde
 
 Möglicherweise wird die Fehlermeldung *"Diese Zugriffs-ID ist bereits einem Konto zugeordnet. Wenden Sie sich an Ihren Technischen Konto-Manager, um eine neue Zugriffs-ID zu erhalten.* **Diese Fehlermeldung ist ungültig und sollte ignoriert werden.** Wir haben angefordert, dass der Fehler deaktiviert und durch eine nützliche Diagnosefehlermeldung ersetzt wird. 
 
-Es wird die obige "Zugriffs-ID ist bereits zugeordnet..." -Fehler, wenn Sie einem Konto bei Verwendung des -Kontos mehr als einmal einen Supportvertrag Azure-Portal. Sehen Sie sich die folgenden Szenarien an:
+Es wird die obige "Zugriffs-ID ist bereits zugeordnet..." Fehler, wenn Sie einem Konto bei Verwendung des -Kontos mehr als einmal einen Supportvertrag Azure-Portal. Sehen Sie sich die folgenden Szenarien an:
 
 1. Wenn Sie technische Vorteile in Gold oder Silber haben und zuvor den Vertrag für den lokalen Support hinzugefügt haben, verwenden Sie die Azure-Portal und fügen den Vertrag ein zweites Mal demselben Konto hinzu. Sie müssen den Supportvertrag nur einmal einem Konto zuordnen, daher müssen Sie keine Supportvorteile in Azure verknüpfen. Wenn Sie Die Vorteile der Linkunterstützung nutzen, wenn der Vertrag bereits dem Konto zugeordnet ist, wird der Fehler angezeigt und sollte ignoriert werden. Verwenden Sie + New Supportanfrage, und erstellen Sie wie gewohnt einen Supportfall, und der Supportplan wird angezeigt.
 
-2. Wenn der Supportvertrag abgelaufen ist oder signature 10pack (Gold-Hybrid-Kompetenz) oder Signature 5pack (Silver-Hybrid-Kompetenz) keine verbleibenden Vorfälle haben, wird der Supportvertrag ausgeblendet, da er ungültig ist. Wenn Sie die Vorteile der Linkunterstützung erneut nutzen, wird der Fehler angezeigt, da der Vertrag bereits zugeordnet ist. Sie müssen einen neuen Supportplan erwerben, um Azure-Supportfälle zu erhalten. 
+2. Wenn der Supportvertrag abgelaufen ist oder die Signature 10pack (Gold-Hybrid-Kompetenz) oder Signature 5pack (Silver-Hybrid-Kompetenz) keine Weiteren Incidents aufweisen, wird der Supportvertrag ausgeblendet, da er ungültig ist. Wenn Sie die Vorteile der Linkunterstützung erneut nutzen, wird der Fehler angezeigt, da der Vertrag bereits zugeordnet ist. Sie müssen einen neuen Supportplan erwerben, um Azure-Supportfälle zu erhalten. 
 
 Informationen zu kostenpflichtigen Supportangeboten für Partner finden Sie weiter unten unter Partnersupportpläne.
 

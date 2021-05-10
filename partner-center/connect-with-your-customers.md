@@ -1,6 +1,6 @@
 ---
 title: Kontakt zu Ihren Kunden
-description: Wenn Sie ein indirekter Reseller im CSP-Programm sind, hilft Ihnen dieser Artikel dabei, sich mit ihren neuen und vorhandenen Kunden zu verbinden.
+description: Wenn Sie ein indirekter Vertriebspartner im CSP-Programm sind, hilft Ihnen dieser Artikel dabei, eine Verbindung mit Ihren neuen und vorhandenen Kunden herzustellen.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,17 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 5ad30c83381e03cf26304092a7e291495cf4342c
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: adea177bd190fa3fd22b9ba60b5643b9d466ee4d
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492652"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686193"
 ---
 # <a name="connect-with-customers"></a>Kontakt zu Kunden
 
 
- **Geeignete Rollen**
+**Geeignete Rollen**
 
 - Globaler Administrator
 - Administrator-Agent
@@ -59,7 +59,7 @@ Zum Verwalten von Abonnements und Diensten im Auftrag eines Kunden muss eine Ver
 
 Um Administratorberechtigungen zum Verwalten von Abonnements und Diensten eines neuen Kunden zu erhalten **und** damit dein indirekter Anbieter neue Aufträge in ihrem Namen übermitteln kann, kannst du den Kunden zum Aufbau einer Vertriebspartnerschaft mit dir und deinem Anbieter einladen.
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Einladen eines Kunden, gleichzeitig eine Reseller-Beziehung mit Ihnen und Ihrem indirekten Anbieter herzustellen
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Einladen eines Kunden, gleichzeitig eine Vertriebspartnerschaft mit Ihnen und Ihrem indirekten Anbieter herzustellen
 
 1. Wählen Sie im **Partner Center**-Menü die Option **Indirekte Anbieter** aus.
 

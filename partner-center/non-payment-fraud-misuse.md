@@ -1,6 +1,6 @@
 ---
 title: Verwalten von Nichtbezahlung, Betrug oder Missbrauch
-description: Erfahren Sie mehr über die verschiedenen Risiken bei Online Transaktionen und die bewährten Methoden zum Verwalten und mindern dieser Risiken in Partner Center.
+description: Erfahren Sie mehr über die verschiedenen Risiken im Zusammenhang mit Onlinetransaktionen und die bewährten Methoden zum Verwalten und Minimieren dieser Risiken in Partner Center.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,16 +9,16 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 9b3beef70052ad204327dd53c4aa9f477056bbcb
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441862"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686295"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Verwalten von Nichtzahlung, Betrug oder Missbrauch im Partner Center
 
-Gilt für:
+**Zielgruppe**
 
 - Partner Center für Microsoft Cloud for US Government
 
@@ -29,21 +29,21 @@ Gilt für:
 - Administrator-Agent
 - Abrechnungsadministrator
 
-Sie sind finanziell verantwortlich für betrügerische Einkäufe Ihrer Kunden und/oder für die Nichtzahlung von gekauften Dienstleistungen durch Ihre Kunden. Daher wird *dringend empfohlen, dass Sie die Verhinderung von Betrugsschutz-und Erkennungs Risiken durchsetzen*.
+Sie sind finanziell verantwortlich für betrügerische Einkäufe Ihrer Kunden und/oder für die Nichtzahlung von gekauften Dienstleistungen durch Ihre Kunden. Aus diesem *Grund wird dringend empfohlen, Kontrollen* zur Betrugs- und Erkennungsrisikominderung zu verwenden.
 
 Um betrügerische Aktivitäten oder Missbrauch zu vermeiden und/oder zu bekämpfen, ist es wichtig, potenzielle Risiken zu verstehen und Richtlinien und Praktiken zu entwickeln, die Ihre Gefährdung verringern können.
 
-## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Erzwingung der von Microsoft akzeptablen Nutzungsrichtlinie
+## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Erzwingung der Microsoft-Richtlinie zur zulässigen Verwendung
 
-Wenn Microsoft Partner-oder Kunden Aktivitäten erkennt, die wir bestätigen oder vermuten, dass Sie die akzeptable Nutzungsrichtlinie verletzen, führen wir Erzwingungs Schritte aus. Der Kunde könnte sofort angehalten werden. Sie werden über Erzwingungs Aktionen benachrichtigt oder bei Ihren Anfragen von Microsoft aktualisiert.
+Wenn Microsoft Partner- oder Kundenaktivitäten erkennt, die wir bestätigen oder vermuten, dass sie gegen die Richtlinie zur zulässigen Verwendung verstoßen, werden wir Schritte zur Erzwingung ergreifen. Der Kunde kann sofort angehalten werden. Sie werden über Erzwingungsaktionen benachrichtigt oder auf Ihre Anforderungen von Microsoft aktualisiert.
 
-## <a name="abuse-of-service-risks"></a>Missbrauch von Dienst Risiken
+## <a name="abuse-of-service-risks"></a>Missbrauch von Dienstrisiken
 
-**Der Missbrauch von Dienst** Risiken bedeutet, dass Kunden, die Clouddienste verwenden, gegen die akzeptable Nutzungsrichtlinie von Microsoft verstoßen.
+**Missbrauch von Dienstrisiken** bedeutet, dass Kunden, die Clouddienste verwenden, gegen die Richtlinie zur zulässigen Nutzung von Microsoft verstoßen.
 
-### <a name="examples-of-abuse-of-service"></a>Beispiele für den Missbrauch von Diensten
+### <a name="examples-of-abuse-of-service"></a>Beispiele für missbrauchten Dienst
 
-Beispiele für diese Verstöße gegen die Acceptable Use Policy von Microsoft können Folgendes umfassen:
+Beispiele für diese Verstöße gegen die Richtlinie zur zulässigen Verwendung von Microsoft sind:
 
 - Spamming
 - Hacken
@@ -52,51 +52,51 @@ Beispiele für diese Verstöße gegen die Acceptable Use Policy von Microsoft k�
 - Verteilung von Schadsoftware
 - Weiterverkauf unrechtmäßig erworbener Abonnements
 
-## <a name="theft-of-service-risks"></a>Diebstahl von Dienst Risiken
+## <a name="theft-of-service-risks"></a>Diebstahl von Dienstrisiken
 
-**Der Diebstahl von Dienst** Risiken bedeutet, dass Kunden, die nicht über die Absicht verfügen, für genutzte Dienste zu bezahlen. Dieser Diebstahl kann die Verwendung von gestohlenen Zahlungsinstrumenten, das Bereitstellen falscher Abrechnungsinformationen und/oder das standardmäßige überprüfen von ausstehenden Guthaben beinhalten.
+**Der Diebstahl von Dienstrisiken** bedeutet, dass Kunden nicht die Absicht haben, für verbrauchte Dienste zu zahlen. Bei diesem Diebstahl kann es sich um die Verwendung gestohlener Zahlungsmittel, die Bereitstellung falscher Abrechnungsinformationen und/oder den Ausfall ausstehender Salden handelt.
 
-### <a name="examples-of-service-theft"></a>Beispiele für den Diebstahl von Diensten
+### <a name="examples-of-service-theft"></a>Beispiele für Dienstdiebstahl
 
-Beispiele für diese Online Transaktionsrisiken sind:
+Beispiele für diese Onlinetransaktionsrisiken sind:
 
-- Transaktionen, die nicht in der Person vorkommen ("Kreditkarte nicht vorhanden" Transaktionen)
+- Transaktionen, die nicht persönlich auftreten ("Kreditkartentransaktionen nicht vorhanden")
 - Falsch angegebene Identitäten
-- Dienste, die bereitgestellt und verwendet werden, bevor die erste Zahlung erfolgt
-- Aufstrebende Märkte und/oder Hochrisiko Bereiche für Online Betrug
-- Automatisieren der Kontoerstellung und des Kaufs durch fehlerhafte Actors
+- Dienste, die bereitgestellt und verwendet werden, bevor die erste Zahlung empfangen wird
+- Neue Märkte und/oder Regionen mit hohem Risiko für Online-Betrug
+- Automatisieren der Kontoerstellung und des Kaufs durch Bad Actors
 
-## <a name="managing-online-risk"></a>Verwalten des Online Risikos
+## <a name="managing-online-risk"></a>Verwalten von Onlinerisiken
 
-Anhand der folgenden Empfehlungen können Sie Richtlinien und Vorgehensweisen entwickeln, um das Risiko von Online Transaktionsrisiken im Lebenszyklus Ihrer Kundenbeziehungen zu verringern.
+Sie können die folgenden Empfehlungen verwenden, um Richtlinien und Methoden zu entwickeln, um die Gefährdung durch Onlinetransaktionsrisiken im Lebenszyklus Ihrer Kundenbeziehungen zu reduzieren.
 
-### <a name="onboarding-new-customers"></a>Onboarding von neuen Kunden
+### <a name="onboarding-new-customers"></a>Onboarding neuer Kunden
 
-Vorschläge zum Verringern von Online Risiken beim Onboarding von neuen Kunden:
+Vorschläge zur Verringerung von Onlinerisiken beim Onboarding neuer Kunden:
 
-- Richten Sie nach Möglichkeit persönliche Beziehungen mit Kunden ein (z. b. kontaktieren von Kunden per Telefon).
-- Überprüfen Sie die Anmelde Informationen und den Hintergrund der Kunden durch bessere Methoden (z. b. durch die Verwendung von Gutschriften oder Geschäfts kommerziellen Berichten).
-- Verwenden Sie die Multi-Factor Authentication (z. b. die SMS-Überprüfung) während der Registrierung, um das Risiko für die Erstellung und den Einkauf von Robotor
-- Verwalten und Nachverfolgen von Identitäten mithilfe von Diensten (z. b. digitalen Identitäts Diensten).
-- Bewerten Sie die Finanzstärke von Kunden durch strenge Kreditkarten-Betrugs Erkennungssysteme.
-- Richten Sie eine Richtlinie zum Löschen von Sammlungen ein Beschreiben Sie den Prozess ihrer Sammlungen, und wenn der Zugriff auf Abonnements durch eine Nichtzahlung beeinträchtigt wird. (Sie können den Zugriff auf [die Abonnements eines Kunden für eine](create-a-new-subscription.md#suspend-a-subscription) Nichtzahlung deaktivieren oder diese Sperren.)
+- Stellen Sie nach Möglichkeit persönliche Beziehungen mit Kunden her (z. B. telefonische Kontaktaufnahme mit Kunden).
+- Überprüfen Sie die Anmeldeinformationen und den Hintergrund der Kunden mithilfe besserer Methoden (z. B. mitHilfe von Kreditausstellen oder Geschäftlichen Berichtsbehörden).
+- Verwenden Sie die mehrstufige Authentifizierung (z. B. SMS-Überprüfung) während der Registrierung, um die Gefährdung durch die Erstellung und den Kauf von Roboterkonten zu minimieren.
+- Verwalten und Nachverfolgen von Identitäten mithilfe von Diensten (z. B. digitale Identitätsdienste).
+- Bewerten Sie die Finanzielle Stärke der Kunden mithilfe strenger Systeme zur Erkennung von Kreditkarten betrugsversuchen.
+- Richten Sie eine Richtlinie für eindeutige Sammlungen ein. Beschreiben Sie Ihren Sammlungsprozess und wann der Zugriff auf Abonnements durch die Nichtzahlung beeinträchtigt wird. (Sie können den Zugriff deaktivieren oder [abonnements eines Kunden aussetzen,](create-a-new-subscription.md#suspend-a-subscription) wenn keine Zahlung erfolgt.)
 
 ### <a name="managing-customer-accounts"></a>Kundenkonten
 
 Vorschläge für die Verwaltung von Kundenkonten nach dem Kauf:
 
-- Implementieren Sie einen Prozess zum schnellen empfangen, überprüfen, reagieren und reagieren auf Microsoft-Benachrichtigungen.
-- Arbeiten Sie mit Kunden zusammen, um Ihre geschäftlichen Anforderungen für die cloudnutzung zu verstehen, während Sie Einstellungen für die Überwachung (Sie können z. b. [ein monatliches Azure-Ausgabenbudget](set-an-azure-spending-budget-for-your-customers.md) in Partner Center festlegen. Mit diesem Verständnis können Sie die Kundennutzung während des Monats überwachen und benachrichtigt werden, wenn sich Kunden in der Nähe Ihres Budgets befinden.)
-- Überwachen Sie die [Kunden Aktivitäts Protokolle](activity-logs.md) regelmäßig, um den Betrug frühzeitig zu
-- Führen Sie schnell Maßnahmen aus, wenn verdächtige Aktivitäten erkannt werden.
-- Vermeiden Sie es, den Benutzern vollen Administrator Zugriff auf Abonnements zu gewähren, ohne zuvor die Steuerungsmaßnahmen zur Risikominderung
+- Implementieren Sie einen Prozess zum schnellen Empfangen, Überprüfen, Reagieren auf und Reagieren auf Microsoft-Benachrichtigungen.
+- Arbeiten Sie mit Kunden zusammen, um ihre Geschäftlichen Anforderungen an die Cloudnutzung zu verstehen, während Sie geeignete Überwachungsschwellenwerte festlegen. (Beispielsweise können Sie [ein monatliches Azure-Ausgabenbudget](set-an-azure-spending-budget-for-your-customers.md) in Partner Center festlegen. Dieses Verständnis ermöglicht es Ihnen, die Kundennutzung während des Monats zu überwachen und benachrichtigt zu werden, wenn Kunden ihrem Budget nahe kommen.)
+- Überwachen Sie regelmäßig [Kundenaktivitätsprotokolle,](activity-logs.md) um Betrug frühzeitig zu erkennen.
+- Ergreifen Sie schnelle Maßnahmen, wenn verdächtige Aktivitäten erkannt werden.
+- Vermeiden Sie es, Kunden vollständigen Administratorzugriff auf Abonnements zu erteilen, ohne zuerst Kontrollen zur Risikominderung zu implementieren.
 
 ### <a name="managing-customer-billing"></a>Verwalten der Kundenabrechnung
 
-Vorschläge zur Verwaltung der Kundenabrechnung nach dem Kauf:
+Vorschläge für die Verwaltung der Kundenabrechnung nach dem Kauf sind:
 
-- Anfordern von Vorabzahlungen vor anfänglichen Transaktionen und der Abrechnung.
-- Akzeptieren Sie keine risikoreichen Zahlungsinstrumente (z. b. vorab bezahlte Karten oder gespeicherte Wertkarten).
-- Überwachen von Kunden Zahlungen und Abrechnungen von Konten. Erzwingen Sie eine aggressive Durchsetzung standardisierter Prozesse für späte Zahlungen oder eine Nichtzahlung.
+- Fordern Sie Vorauszahlungen vor den ersten Transaktionen und der Abrechnung an.
+- Akzeptieren Sie keine Risikozahlungsarten (z. B. vorausbezahlungte Karten oder Karten mit gespeicherten Wert).
+- Überwachen Sie Kundenzahlungen und veraltete Konten. Erzwingen Sie aggressiv standardisierte Dunningprozesse bei Zahlungsverzug oder Nichtzahlung.
 
 Detailliertere Strategien zur Minderung des Onlinerisikos finden Sie in der [Anleitung zur Verwaltung von Onlinetransaktionsrisiken](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt).

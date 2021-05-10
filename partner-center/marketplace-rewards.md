@@ -4,33 +4,33 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Partner, die Angebote im kommerziellen Marketplace veröffentlichen, können sich auf Vorteile stützen, die Marketingunterstützung bieten.
+description: Partner, die Angebote im kommerziellen Marketplace veröffentlichen, haben Anspruch auf Vorteile, die Marketingsupport bieten.
 author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: e279ad8299def820287207c36c670c6051e26f2f
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624254"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686244"
 ---
-# <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Verwalten von Marketplace-Prämien in Partner Center & Aktivieren von Marketing-, Vertriebs-und technischen Vorteilen
+# <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Verwalten Marketplace Rewards in Partner Center &, um Marketing-, Vertriebs- und technische Vorteile zu aktivieren
 
-Geeignete Rollen:
+**Geeignete Rollen**
 
 - MPN-Partneradministrator
 - Globaler Administrator
 - Administrator-Agent
 
-Wenn Sie Software Angebote in unserem kommerziellen Marketplace veröffentlichen, bietet Marketplace-Prämien gezielte Unterstützung für alle Angebote mit Marketing-, Vertriebs-und technischen Vorteilen.
+Wenn Sie Softwareangebote in unserem kommerziellen Marketplace veröffentlichen, bietet Marketplace Rewards gezielte Unterstützung für alle Ihre Angebote mit Marketing-, Vertriebs- und technischen Vorteilen.
 
-Die Berechtigungs Berechtigung für Marketplace-Prämien wird basierend auf allen Verleger Profilen berechnet, die mit dem Unternehmen der Unternehmens- Um Ihre Berechtigung für das Marketplace-Prämienprogramm zu überprüfen, besuchen Sie die Partner Center [Marketplace-Seite](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace)"Bonus".
+Marketplace Rewards Berechtigung wird basierend auf allen Herausgeberprofilen berechnet, die mit dem PGA MPN-Unternehmen verknüpft sind. Um Ihre Berechtigung für das Marketplace Rewards zu überprüfen, wechseln Sie zur Partner Center [Marketplace Rewards Seite](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace).
 
 ## <a name="sales-and-marketing-benefits"></a>Vertriebs- und Marketingvorteile
 
-1. Wählen Sie im Partner Center- [Dashboard](https://partner.microsoft.com/dashboard)auf der Marketplace-Bonusseite die Registerkarte **Vertrieb und Marketing Vorteile** aus, um die Liste der Vorteile anzuzeigen. 
+1. Wählen Sie auf Partner Center [Dashboard auf](https://partner.microsoft.com/dashboard)der seite die Registerkarte Sales and Marketing benefits (Vertriebs- und **Marketingvorteile)** Marketplace Rewards, um Ihre Liste der Vorteile anzuzeigen. 
 
 2. Um einen beliebigen Marketing- und Vertriebsvorteil zu aktivieren, müssen Sie zunächst einen Marketingkontakt zuweisen. Dieser Kontakt erhält dann weitere Informationen zu Ihren Marketplace-Prämien.
 
@@ -54,19 +54,19 @@ Die Berechtigungs Berechtigung für Marketplace-Prämien wird basierend auf alle
 
 ## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>Warum wird das Prämienprogramm für den kommerziellen Marketplace in meinem Dashboard nicht angezeigt?
 
-Die Marketplace-Bonus Informationen sind über den Azure AD-Mandanten und die MPN-ID verfügbar, die zum Erstellen Ihres Partner Center-Kontos verwendet wurde. Dieses Konto wird als globales Partner Konto (Partner Global Account, PGA) Ihres Unternehmens bezeichnet. Wenn sich Ihr Azure AD Mandanten von dem für das MPN-Onboarding verwendeten Mandanten unterscheidet, damit Sie das Marketplace-Menü für den kommerziellen Bonus anzeigen können, müssen Sie es der PGA-Version Ihres Unternehmens zuordnen.
+Die Marketplace-Prämieninformationen sind über den Azure AD Mandanten und die MPN-ID verfügbar, die zum Erstellen Ihres kontos Partner Center wurden. Dieses Konto wird als globales Partnerkonto (Partner Global Account, PGA) Ihres Unternehmens bezeichnet. Wenn ihr Azure AD-Mandant sich von dem für das MPN-Onboarding verwendeten mandantent, müssen Sie ihn dem PGA Ihres Unternehmens zuordnen, damit Sie das Menü "Kommerzieller Prämien-Marketplace" sehen können.
 
-### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>So ordnen Sie einen Azure AD Mandanten der PGA Ihres Unternehmens zu
+### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>So ordnen Sie Azure AD Mandanten dem PGA Ihres Unternehmens zu
 
-1. Melden Sie sich entweder als globaler Administrator oder Konto Administrator bei der PGA im Partner Center an.
+1. Melden Sie sich entweder als globaler Administrator oder Kontoadministrator beim PGA in Partner Center.
 
-2. Wählen Sie **Einstellungen** (oben rechts), **Kontoeinstellungen**, Mandanten **aus.** 
+2. Wählen **Sie Einstellungen** (oben rechts), **Kontoeinstellungen** und **Mandanten aus.** 
 
-3. Wählen Sie **einen anderen Azure AD Mandanten zuordnen** aus, und wählen Sie den Azure AD Mandanten aus, den Sie der PGA zuordnen möchten.
+3. Wählen **Sie Einen anderen Azure AD zuordnen und** dann den Azure AD, den Sie dem PGA zuordnen möchten.
 
-4. Fügen Sie einen Benutzernamen und ein Kennwort für jeden Benutzer im Azure AD Mandanten hinzu, den Sie zuordnen möchten, und wählen Sie **senden** aus.
+4. Fügen Sie den Benutzernamen und das Kennwort eines beliebigen Benutzers im Azure AD Mandanten hinzu, den Sie zuordnen möchten, und wählen Sie **Senden aus.**
 
-5. Melden Sie sich bei Partner Center ab, und melden Sie sich dann mit dem Benutzernamen und dem Kennwort für den Mandanten an, den Sie soeben der PGA zugeordnet haben.
+5. Melden Sie sich Partner Center ab, und melden Sie sich dann mit dem Benutzernamen und Kennwort für den Mandanten an, den Sie dem PGA gerade zugeordnet haben.
 
-6. Im linken Navigationsmenü sehen Sie nun die Marketplace-Programminformationen des kommerziellen Bonus.
+6. Im linken Navigationsmenü können Sie nun die Programminformationen für den Kommerziellen Prämien-Marketplace anzeigen.
 

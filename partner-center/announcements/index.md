@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/07/2021
-ms.openlocfilehash: 0263522eed42dbbdd11dc43f6aed490ce61b261d
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.openlocfilehash: dd0823e56371347bb212122b79e31fbc124dff2e
+ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630133"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109712514"
 ---
 # <a name="partner-center-announcements"></a>Partner Center-Ankündigungen
 
@@ -22,6 +22,9 @@ Erfahren Sie mehr über wichtige Partner Center-Updates. Diese Informationen wer
 
 |**Kategorie**|**Ankündigungen für Mai 2021**|**Angekündigt**|
 |---------|:---------|:---------|
+|Funktionen|[Analysen für partnergeführte Co-Selling-Deals](2021-may.md#9)|10. Mai|
+|Funktionen|[Incentive-Programme für Hosting und Handelspartner mit SPLA bis zum 30. September 2021 verlängert](2021-may.md#8)|7\. Mai|
+|Funktionen|[Funktion für Standardbankprofile in Partner Center für Incentiveregistrierung verfügbar](2021-may.md#7)|7\. Mai|
 |Funktionen|[Aktualisierung: Scheduler-Produkteinführung hat sich verzögert](2021-may.md#6)|5. Mai|
 |Funktionen|[Unbefristete Software im CSP-Programm bald in China verfügbar](2021-may.md#5)|5. Mai|
 |Funktionen|[Letzte Erinnerung: Einstellung der GET-Qualifizierung am 6. Mai 2021](2021-may.md#4)|4\. Mai|

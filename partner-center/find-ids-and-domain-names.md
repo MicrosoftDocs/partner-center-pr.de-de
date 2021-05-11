@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 17b0100bf5e45e931a765a73fb98afddf6dba656
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172250"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740283"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Suchen wichtiger IDs für einen Benutzer
 
@@ -32,18 +32,18 @@ In diesem Artikel wird beschrieben, wie Sie die [Azure-Portal](https://portal.az
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Suchen der Microsoft Azure AD Mandanten-ID und des primären Domänennamens
 
-Führen Sie diese Schritte aus, um die Azure AD Mandanten-ID oder den primären Domänennamen innerhalb des Azure-Portal zu finden. (Wenn Sie eine Mandanten-ID programmgesteuert suchen möchten, finden Sie weitere Informationen unter Suchen einer [Mandanten-ID mit PowerShell oder cli.)](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell)
+Führen Sie diese Schritte aus, um die Azure AD Mandanten-ID oder den primären Domänennamen innerhalb des Azure-Portal zu suchen. (Wenn Sie eine Mandanten-ID programmgesteuert suchen möchten, finden Sie weitere Informationen unter Suchen der [Mandanten-ID mit PowerShell oder der CLI.)](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell)
 
 > [!NOTE]
-> Die Mandanten-ID kann in verschiedenen Anwendungen oder Ressourcen als unterschiedliche Namen bezeichnet werden. Die Mandanten-ID kann beispielsweise als Verzeichnis-ID, Azure Active Directory Mandant (Azure AD), Microsoft-ID oder für bestimmte Berichte bezeichnet werden, sogar als *tenantguid*.
+> Die Mandanten-ID kann in verschiedenen Anwendungen oder Ressourcen als unterschiedliche Namen bezeichnet werden. Die Mandanten-ID kann z. B. als Verzeichnis-ID, Azure Active Directory Mandant (Azure AD), Microsoft-ID oder für bestimmte Berichte bezeichnet werden, sogar als *tenantguid*.
 
 1. Melden Sie sich beim [Azure-Portal](https://portal.azure.com/) an.
 
 2. Wählen Sie die Menüoption **Azure Active Directory** aus.
 
-   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Zeigt Azure-Portal auswahl der option Azure Active Directory im Menü an.":::
+   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Zeigt Azure-Portal auswählen der option Azure Active Directory im Menü an.":::
 
-3. Eine Azure Active Directory **Seite Übersicht** wird angezeigt. Um die Azure AD Mandanten-ID oder den primären Domänennamen zu finden, suchen Sie nach dem Feld **Mandanten-ID** und dem Feld **Primäre Domäne.** Diese Felder werden im Abschnitt Mandanteninformationen angezeigt.
+3. Eine Azure Active Directory **Seite Übersicht** wird angezeigt. Suchen Sie nach dem Feld Mandanten-ID und dem Feld Primäre **Domäne,** um die Azure AD **Mandanten-ID** oder den primären Domänennamen zu suchen. Diese Felder werden im Abschnitt Mandanteninformationen angezeigt.
 
    :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Zeigt die Seite Übersicht mit zwei hervorgehobenen Feldern an: Mandanten-ID und primärer Domänenname.":::
 

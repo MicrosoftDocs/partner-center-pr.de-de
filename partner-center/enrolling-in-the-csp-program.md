@@ -1,7 +1,7 @@
 ---
 title: Registrieren für das Programm für Cloud-Lösungsanbieter
 ms.topic: how-to
-ms.date: 04/19/2021
+ms.date: 05/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Erfahren Sie, wie Sie sich für ein Vertriebsmodell des Cloud Solution Provider-Programms (CSP) registrieren, das am besten für Ihr Unternehmen geeignet ist – z. B. als indirekter Wiederverkäufer oder Direktabrechnungspartner.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
-ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
+ms.openlocfilehash: 5be78c55a10e6db1ff0ec057b2a6a06e4373f7a7
+ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "108213379"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109712480"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Registrieren für das Programm für Cloud-Lösungsanbieter
 
@@ -76,7 +76,7 @@ Als Direktabrechnungspartner sind Sie die für die End-to-End-Beziehung mit Ihre
 
 ### <a name="verify-direct-bill-eligibility"></a>Prüfen der Berechtigung für die Direktabrechnung
 
-Nachdem Sie sich vergewissert haben, dass Sie die Mindestanforderungen für die Registrierung als Direktabrechnungspartner erfüllen, können Sie mit dem [Registrierungsformular](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global) fortfahren.
+Nachdem Sie sich vergewissert haben, dass Sie die Mindestanforderungen für die Registrierung als Direktabrechnungspartner erfüllen, können Sie mit dem [Registrierungsformular](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR39X9dQFZ3FMghsMA7GOTNJUQVRPMk9KUVJZRDA1T1pSTkRSMzIzRUlOWSQlQCN0PWcu) fortfahren.
 
 Wenn Ihr Unternehmen die Voraussetzungen für die Registrierung als Direktabrechnungspartner erfüllt und Sie die Bewerbung abgeschlossen haben, überprüfen und verifizieren wir die Unternehmensinformationen, die Sie bei der Registrierung angegeben haben. Im Rahmen dieser Überprüfung wird Ihr Unternehmen auch einer Bonitätsprüfung unterzogen. Wir benachrichtigen Sie per E-Mail, wenn Ihr Unternehmen die Bonitätsprüfung bestanden hat.
 >[!IMPORTANT]

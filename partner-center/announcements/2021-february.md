@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 0b8938004bb15f1fc58a15333e97297627fa9b24
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266468"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740334"
 ---
 # <a name="february-2021-announcements"></a>Ankündigungen für Februar 2021
 
@@ -36,7 +36,7 @@ Partner, die Angebote für Bildungseinrichtungen, gemeinnützige Organisationen 
 
 ### <a name="details"></a>Details
 
-Diese Ankündigung ist eine Weiterführung zu den [im Dezember veröffentlichten Verbesserungen](https://docs.microsoft.com/partner-center/announcements/2020-december#1) in Partner Center. Im Rahmen dieser Veröffentlichung wurden neue GET- und POST-Qualifizierungs-APIs bereitgestellt. Infolgedessen wird die vorhandene GET-Qualifizierung zum 4. Mai 2021 eingestellt. Zu diesem Zeitpunkt müssen Sie auf die Verwendung der neuen POST-APIs in Partner Center umgestellt haben, um Angebote für Bildungseinrichtungen zu erwerben, sowie auf die neue GET-Qualifizierungs-API, um vorab qualifizierte Angebote für gemeinnützige Organisationen und GCC zu erwerben.
+Diese Ankündigung ist eine Weiterführung zu den [im Dezember veröffentlichten Verbesserungen](2020-december.md#1) in Partner Center. Im Rahmen dieser Veröffentlichung wurden neue GET- und POST-Qualifizierungs-APIs bereitgestellt. Infolgedessen wird die vorhandene GET-Qualifizierung zum 4. Mai 2021 eingestellt. Zu diesem Zeitpunkt müssen Sie auf die Verwendung der neuen POST-APIs in Partner Center umgestellt haben, um Angebote für Bildungseinrichtungen zu erwerben, sowie auf die neue GET-Qualifizierungs-API, um vorab qualifizierte Angebote für gemeinnützige Organisationen und GCC zu erwerben.
 
 ### <a name="next-steps"></a>Nächste Schritte
 
@@ -320,7 +320,7 @@ Partner Center ist darauf ausgelegt, eine große Anzahl von Anforderungen zu ver
 
 | Vorgang | Partner Center-Dokumentation |
 | ------ | ------- |
-|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Abrufen aller Abonnements eines Kunden](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Abrufen aller Abonnements eines Kunden](/partner-center/develop/get-all-of-a-customer-s-subscriptions) |
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [Abrufen eines Abonnements nach ID](/partner-center/develop/get-a-subscription-by-id) |
 |{baseURL}/v1/customers/{customer_id}/orders  | [Abrufen aller Kundenaufträge](/partner-center/develop/get-all-of-a-customer-s-orders) |
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [Abrufen eines Auftrags nach ID](/partner-center/develop/get-an-order-by-id) |

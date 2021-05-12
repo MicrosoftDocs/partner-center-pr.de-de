@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08499c306079d0cb900d528247309afdf21b23bb
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315897"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740385"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Verwalten Ihres Partner Center-Kontos – Unternehmensprofil, Bankdetails, Rollen, Berechtigungen und mehr
 
@@ -163,5 +163,5 @@ Weitere Informationen zum Registrieren bei Partner Center-Programmen findest du 
 - [Zuweisen von Rollen und Berechtigungen zu Benutzern](permissions-overview.md)
 - [Verwalten des MPN-Kontos: Standorte](manage-locations.md)
 - [Zurücksetzen eines Benutzerkennworts](reset-a-user-password.md)
-- [API: Abrufen des rechtlichen Geschäftsprofils eines Partners](https://docs.microsoft.com/partner-center/develop/get-legal-business-profile.md)
+- [API: Abrufen des rechtlichen Geschäftsprofils eines Partners](/partner-center/develop/get-legal-business-profile)
 - [Entdecken von Angeboten und Preisen im kommerziellen Marketplace von Partner Center](csp-commercial-marketplace-discover.md)

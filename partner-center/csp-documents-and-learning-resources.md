@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 77d56a22e12b369b5df6fc50a8ee28b7db73192b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: d40acba3e45cfa90cbf0c5ffb8cdb0d4f484421b
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502883"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686227"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Programmleitfaden, Vereinbarungen, Preislisten und Angebote zu Cloud Solution Provider
 
@@ -22,6 +22,10 @@ ms.locfileid: "106502883"
 
 - Partner Center für Microsoft Cloud for US Government
 
+**Geeignete Rollen**
+
+- Globaler Administrator
+- Administrator-Agent
 
 Sehen Sie sich die Informationen in diesem Artikel am, um die Anforderungen für die Teilnahme am Programm für Cloud Solution Provider (Cloud Solution Provider, CSP) von Microsoft zu verstehen.
 

@@ -4,25 +4,23 @@ ms.topic: article
 ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie indirekte Anbieter mit indirekten Resellern im Cloud Solution Provider-Programm (CSP) zusammenarbeiten, und legen Sie fest, welche Rolle für Sie geeignet ist.
+description: Erfahren Sie, wie indirekte Anbieter im CSP-Programm (Cloud Solution Provider) mit indirekten Handelspartnern zusammenarbeiten, und bestimmen Sie, welche Rolle für Sie am richtigen ist.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ce5baddcc6d598ec4d926e74a6f4a85a3b4cbbbe
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: d8370b213a3d0fd96a4d2ef457de1140ee4549f6
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712561"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794886"
 ---
-# <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Verschiedene Möglichkeiten, mit anderen Partnern in Partner Center zu arbeiten
+# <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>Verschiedene Möglichkeiten zur Zusammenarbeit mit anderen Partnern in Partner Center
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Kontoadministrator
 
-- Kontoadministrator
-
-Das Microsoft Cloud Solution Provider-Programm (CSP) bietet Partnern Möglichkeiten, auf diese Weise zusammenzuarbeiten.
+Das Programm Cloud Solution Provider (CSP) von Microsoft bietet Partnern die Möglichkeit, auf diese Weise zusammen zu arbeiten.
 
 ## <a name="indirect-provider-indirect-reseller-model"></a>Indirekter Anbieter – indirekter Vertriebspartner
 
@@ -44,13 +42,13 @@ Sie sind nicht sicher, ob Sie sich als indirekter Vertriebspartner oder als dire
 
 ## <a name="multi-partner-support"></a>Support für mehrere Partner
 
-Die Multi-Partner-Funktion von Partner Center unterstützt Szenarien, in denen ein Kunde mit mehr als einem Partner arbeiten muss. Beispielsweise möchte der Kunde mit einem Partner aufgrund seiner Kenntnisse in Bezug auf Office 365 zusammenarbeiten, gleichzeitig aber einen anderen Partner beauftragen, der auf Microsoft Azure spezialisiert ist. Weitere Informationen finden Sie unter [Multipartner-Unterstützung](multipartner.md).
+Partner Center-Feature für mehrere Partner unterstützt Szenarien, in denen ein Kunde mit mehr als einem Partner zusammenarbeiten muss. Beispielsweise möchte der Kunde mit einem Partner aufgrund seiner Kenntnisse in Bezug auf Office 365 zusammenarbeiten, gleichzeitig aber einen anderen Partner beauftragen, der auf Microsoft Azure spezialisiert ist. Weitere Informationen finden Sie unter [Multipartner-Unterstützung](multipartner.md).
 
 Die Unterstützung mehrerer Partner ist auch in Microsoft-Angeboten für nationale Clouds verfügbar.
 
 ## <a name="multi-channel-support"></a>Multichannel-Unterstützung
 
-Die Multi-Channel-Funktion von Partner Center unterstützt Szenarien, in denen ein Kunde einen Partner für die Bereitstellung und Unterstützung eines Abonnements beauftragen möchte, das Sie anderweitig erworben haben Weitere Informationen finden Sie unter [Multichannel-Unterstützung](multichannel.md).
+Partner Center-Feature unterstützt Szenarien, in denen ein Kunde einen Partner einstellen möchte, um ein Abonnement, das er an anderer Stelle erworben hat, bereitstellen und unterstützen zu können. Weitere Informationen finden Sie unter [Multichannel-Unterstützung](multichannel.md).
 
 Die Multichannel-Unterstützung ist auch in Microsoft-Angeboten für nationale Clouds verfügbar.
 

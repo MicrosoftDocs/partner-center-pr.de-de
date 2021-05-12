@@ -1,124 +1,121 @@
 ---
-title: Verwenden der Abstimmungs Dateien
+title: Verwenden Ihrer Abstimmungsdateien
 ms.topic: article
 ms.date: 03/26/2021
-description: Erfahren Sie mehr über das Abgleichen von Dateien in Partner Center und über die Interpretation der detaillierten Zeilen Element Sichten für einen bestimmten Abrechnungszeitraum.
+description: Erfahren Sie mehr über Abstimmungsdateien in Partner Center und wie Sie die detaillierten Zeilenansichten der Gebühren für einen bestimmten Abrechnungszyklus interpretieren.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.openlocfilehash: 755881d0bd96b9d601346ebb6271bd524c31d0a3
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730080"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794954"
 ---
-# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Erfahren Sie, wie Sie die Zeilen Elemente in Ihren Partner Center-Abstimmungs Dateien lesen.
+# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Erfahren Sie, wie Sie die Zeilenelemente in Ihren Partner Center Abstimmungsdateien lesen.
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Abrechnungsadministrator | Globaler Administrator
 
-- Abrechnungsadministrator
-- Globaler Administrator
+Sie können Ihre Abstimmungsdateien aus Partner Center herunterladen, um eine detaillierte Zeilenansicht der einzelnen Gebühren in einem Abrechnungszyklus zu erhalten. Die Details der Einzelnen enthalten Gebühren für die Abonnements der einzelnen Kunden und detaillierte Ereignisse (z. B. das kurzfristige Hinzufügen von Lizenzen zu einem Abonnement).
 
-Sie können Ihre Abstimmungs Dateien aus Partner Center herunterladen, um eine ausführliche Ansicht der einzelnen Kosten in einem Abrechnungszeitraum anzuzeigen. Zu den Zeilen Element Details zählen Gebühren für die Abonnements der einzelnen Kunden und detaillierte Ereignisse (z. b. das Hinzufügen von Lizenzen zu einem Abonnement).
+Informationen zum Lesen Ihrer **Rechnung** finden Sie unter [Lesen Ihrer Rechnung.](read-your-bill.md)
 
-Informationen zum Lesen der **Rechnung** finden Sie unter [Lesen der](read-your-bill.md)Rechnung.
-
-## <a name="understand-reconciliation-file-fields"></a>Grundlegendes zu Abstimmungs Datei Feldern
+## <a name="understand-reconciliation-file-fields"></a>Grundlegendes zu Abstimmungsdateifeldern
 
 - [Grundlegendes zu den Feldern in lizenzbasierten Abstimmungsdateien von Partner Center](license-based-recon-files.md)
 - [Grundlegendes zu nutzungsbasierten Abstimmungsdateien und ihren spezifischen Feldern im Partner Center](usage-based-recon-files.md)
 - [Abstimmungsdateien zur täglich bewerteten Nutzung: Felder](daily-rated-usage-recon-files.md)
-- [Felder für das einmalige kaufen von CSP-Abstimmungs Dateien](modern-invoice-reconciliation-file.md)
+- [Felder für die CSP-Abstimmungsdatei für einmaligen Kauf](modern-invoice-reconciliation-file.md)
 
-## <a name="understand-charge-types-in-reconciliation-files"></a>Grundlegendes zu Lade Typen in Abgleich Dateien
+## <a name="understand-charge-types-in-reconciliation-files"></a>Grundlegendes zu Gebührentypen in Abstimmungsdateien
 
-Informationen zu den Gebühren Typen in Abgleich Dateien (Spalte **chargetype** ) finden Sie unter Abgleichen von [Datei Gebühren Typen](recon-file-charge-types.md).
+Informationen zu den Gebührentypen in Abstimmungsdateien (Spalte **ChargeType)** finden Sie unter Gebührentypen für [Abstimmungsdateien.](recon-file-charge-types.md)
 
 ## <a name="fix-formatting-issues"></a>Beheben von Formatierungsproblemen
 
-Gelegentlich kann eine Abstimmungs Datei Formatierungs Probleme enthalten. Dieses Problem kann z. b. auftreten, wenn das Gebiets Schema "en-US" nicht verwendet wird.
+Gelegentlich kann eine Abstimmungsdatei Formatierungsprobleme enthalten. Dieses Problem kann beispielsweise auftreten, wenn das Gebietsschema "en-US" nicht verwendet wird.
 
-Führen Sie die folgenden Schritte aus, um alle Formatierungs Probleme in den Abstimmungs Dateien zu beheben:
+Führen Sie die folgenden Schritte aus, um Formatierungsprobleme in Ihren Abstimmungsdateien zu beheben:
 
-1. Öffnen Sie die Abstimmungs Datei (im CSV-Format) in Microsoft Excel.
+1. Öffnen Sie die Abstimmungsdatei (im CSV-Format) in Microsoft Excel.
 2. Wählen Sie die erste Spalte in der Datei aus.
-3. Öffnen **Sie den Assistenten zum Konvertieren von Text in Spalten**. Wählen Sie im Menüband **Daten** aus, und wählen Sie dann **Text in Spalten** aus.
-4. Wählen Sie im Assistenten einen **Begrenzungs Dateityp** aus. Klicken Sie anschließend auf **Weiter**.
-5. Wählen Sie im Feld **Trenn** Zeichen die Option **Komma** aus. (Wenn die **Tab** -Taste bereits ausgewählt ist, können Sie diese Option aktivieren.) Klicken Sie dann auf **weiter**.
-6. Wählen Sie im Feld **Spaltendaten Format** die Option **Date: mdy** aus. Klicken Sie anschließend auf **Weiter**.
-7. Wählen Sie im Feld **Spaltendaten Format** die Option **Text** für alle Spalten vom Typ Summe aus. Wählen Sie **Fertig stellen** aus.
+3. Öffnen Sie den **Assistenten zum Konvertieren von Text in Spalten.** Wählen Sie im Menüband **Daten** und dann **Text in Spalten aus.**
+4. Wählen Sie im Assistenten **Dateityp mit Trennzeichen aus.** Klicken Sie anschließend auf **Weiter**.
+5. Wählen Sie **im Feld Trennzeichen** die Option **Komma aus.** (Wenn **tab** bereits ausgewählt ist, können Sie diese Option aktivieren.) Wählen Sie dann Weiter **aus.**
+6. Wählen Sie **im Feld Spaltendatenformat** die Option **Date:MDY aus.** Klicken Sie anschließend auf **Weiter**.
+7. Wählen Sie **im Feld Spaltendatenformat** die Option **Text für** alle Betragsspalten aus. Wählen Sie **Fertig stellen** aus.
 
-## <a name="download-reconciliation-files-programmatically"></a>Programm gesteuertes herunterladen von Abstimmungs Dateien
+## <a name="download-reconciliation-files-programmatically"></a>Programmgesteuertes Herunterladen von Abstimmungsdateien
 
-Abstimmungs Dateien können sehr groß sein und werden manchmal nur schwer heruntergeladen. Informationen zum programmgesteuerten herunterladen von Abstimmungs Dateien finden Sie unter [Get Rechnungs Items](/partner-center/develop/get-invoiceline-items).
+Abstimmungsdateien können sehr groß sein und sind manchmal schwierig herunterzuladen. Informationen zum programmgesteuerten Herunterladen von Abstimmungsdateien finden Sie unter [Get invoice line items](/partner-center/develop/get-invoiceline-items).
 
-## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Wenn die Datei das Zeilen Limit in Excel überschreitet
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Wenn Ihre Datei das Zeilenlimit in Excel überschreitet
 
-Wenn Sie eine Abstimmungs Datei herunterladen, aber nicht in Microsoft Excel öffnen können, bedeutet dies wahrscheinlich, dass die Datei mehr Zeilen enthält, als in Excel zulässig sind. Wenn dies der Fall ist, können Sie eine der folgenden Prozeduren verwenden, um die Datei zu öffnen.
+Wenn Sie eine Abstimmungsdatei herunterladen, aber nicht in Microsoft Excel öffnen können, bedeutet dies wahrscheinlich, dass die Datei mehr Zeilen enthält, als Excel erlaubt. In diesem Fall können Sie eine der folgenden Verfahren verwenden, um die Datei zu öffnen.
 
-### <a name="open-a-recon-file-in-power-bi"></a>Öffnen Sie eine Datei für die Wiederaufnahme in Power BI
+### <a name="open-a-recon-file-in-power-bi"></a>Öffnen Sie eine Recon-Datei in Power BI
 
-1. Laden Sie die Abstimmungs Datei wie gewohnt herunter.
-2. Laden Sie eine Instanz von Power BI herunter, installieren und öffnen Sie Sie.
-3. Wählen Sie auf der Registerkarte Power BI **Startseite** **Daten erhalten** aus.
-4. Wählen Sie in der Liste der **allgemeinen Datenquellen** die Option **Text/CSV** aus.
-5. Wenn Sie dazu aufgefordert werden, öffnen Sie Ihre Reconnaissance-Datei.
+1. Laden Sie die Abstimmungsdatei wie gewohnt herunter.
+2. Laden Sie eine Instanz von herunter, installieren Sie sie, und öffnen Power BI.
+3. Wählen Sie Power BI **Registerkarte Start** die Option **Daten erhalten aus.**
+4. Wählen Sie in der Liste **common data sources (Allgemeine Datenquellen)** die Option **Text/CSV aus.**
+5. Öffnen Sie ihre Recon-Datei, wenn Sie dazu aufgefordert werden.
 
-### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Öffnen einer Datei "Reconnaissance" in einer Excel-Pivottabelle
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Öffnen einer Recon-Datei in einer Excel-Pivottabelle
 
-1. Laden Sie die Abstimmungs Datei wie gewohnt herunter.
+1. Laden Sie die Abstimmungsdatei wie gewohnt herunter.
 2. Öffnen Sie eine neue Datei in Microsoft Excel.
-3. Wählen Sie auf der Registerkarte **Daten** Daten **erhalten** aus, wählen Sie **aus Datei aus**, und wählen Sie dann **Text/CSV** aus.
-4. Wenn Sie dazu aufgefordert werden, öffnen Sie Ihre Reconnaissance-Datei. Ihre Daten werden angezeigt.
-5. Wählen Sie im Dropdown Menü **Laden** die Option **Laden in** aus, und klicken Sie dann auf **OK**.
-6. Wählen Sie im Dialogfeld **Daten importieren** die Option **pivotfähiger Bericht** aus, um die Datei zu öffnen.
+3. Wählen Sie **auf der** Registerkarte Daten die Option **Daten herunterladen** aus, wählen Sie Aus **Datei** aus, und wählen Sie **dann Text/CSV aus.**
+4. Öffnen Sie ihre Recon-Datei, wenn Sie dazu aufgefordert werden. Ihre Daten werden angezeigt.
+5. Wählen **Sie** im Dropdownmenü Laden die Option **Laden in** und dann **OK** aus.
+6. Wählen **Sie** im Dialogfeld Daten importieren die Option **PivotTable-Bericht** aus, um die Datei zu öffnen.
 
 ## <a name="negative-amount-displayed"></a>Negativer Betrag angezeigt
 
-Möglicherweise wird eine negative Menge in der Abstimmungs Datei angezeigt. Dies ist wahrscheinlich auf eine der folgenden Ursachen zurückzuführen:
+Möglicherweise wird in Ihrer Abstimmungsdatei ein negativer Betrag angezeigt. Dieses Problem hat häufig eine der folgenden Ursachen:
 
-- Sie haben ihre Anzahl von Lizenzen vor kurzem abgebrochen oder reduziert.
-- Sie haben Gutschriften für einen Service License Agreement (SLA) oder für die Azure-Nutzung erhalten.
+- Sie haben ihre Anzahl von Lizenzen vor Kurzem gekündigt oder reduziert.
+- Sie haben entweder eine Gutschrift für einen Dienstlizenzvertrag (Service License Agreement, SLA) oder für die Azure-Nutzung erhalten.
 
-Weitere Informationen zu dieser Transaktion finden Sie in Ihrem Attributtyp-Attribut in der Abstimmungs Datei.
+Um weitere Informationen über diese Transaktion zu erhalten, überprüfen Sie das Attribut „Gebührentyp“ in Ihrer Abstimmungsdatei.
 
-## <a name="map-taxes-or-vat"></a>Map-Steuern oder Mehrwertsteuer
+## <a name="map-taxes-or-vat"></a>Zuordnen von Steuern oder Steuern
 
-So ordnen Sie der Rechnung Steuern oder Mehrwertsteuer (Tax) hinzu:
+So ordnen Sie Steuern oder Mehrwertsteuer (USt) Ihrer Rechnung zu:
 
-- Addieren Sie die Spalte " **Tax** " aus der lizenzbasierten Datei.
-- Addieren Sie die Spalte " **taxAmount** " aus der Verwendungs basierten Datei.
+- Addiert die Spalte **Steuern** aus der lizenzbasierten Datei.
+- Addiert die **Spalte TaxAmount** aus der nutzungsbasierten Datei.
 
-## <a name="itemize-reconciliation-files-by-partner"></a>Abstimmungs Dateien nach Partner itemisieren
+## <a name="itemize-reconciliation-files-by-partner"></a>Itemize reconciliation files by partner (Abstimmungsdateien nach Partner auf itemisieren)
 
-Partner im **indirekten Modell** können diese zusätzlichen Felder sowohl in lizenzbasierten als auch auf Verwendungs basierten Abstimmungs Dateien verwenden, um die Dateien vom Wiederverkäufer zu itemisieren.
+Partner im **indirekten Modell** können diese zusätzlichen Felder sowohl in lizenzbasierten als auch in nutzungsbasierten Abstimmungsdateien verwenden, um die Dateien nach Handelspartner aufzuschlüsseln.
 
 | MPN-ID | Beschreibung |
 | ------ | ----------- |
-| MPN-ID | Der Microsoft Partner Network (MPN)-Bezeichner des CSP-Partners (Cloud Solution Provider) (direkt oder indirekt). |
-| [MPN-ID der Handelspartner](#reseller-mpn-id) | Der [MPN-Bezeichner des Reseller of-Datensatzes für das Abonnement](#reseller-mpn-id). Dieses Feld entspricht der Wiederverkäufer-ID, die für das jeweilige Abonnement in Partner Center aufgeführt ist. Wird nur in den Abstimmungsdateien für Partner im indirekten Modell angezeigt. |
+| MPN-ID | Der MPN-Bezeichner (Microsoft Partner Network) des CSP-Partners (Cloud Solution Provider) (direkt oder indirekt). |
+| [MPN-ID der Handelspartner](#reseller-mpn-id) | Der [MPN-Bezeichner des Datensatzhändlers für das Abonnement.](#reseller-mpn-id) Dieses Feld entspricht der Reseller-ID, die für das jeweilige Abonnement in Partner Center aufgeführt ist. Wird nur in den Abstimmungsdateien für Partner im indirekten Modell angezeigt. |
 
 ### <a name="reseller-mpn-id"></a>MPN-ID der Handelspartner
 
-Wenn ein CSP-Partner das Abonnement direkt an den Kunden verkauft hat, wird die **MPN-ID** zweimal aufgelistet, sowohl als **MPN-ID** als auch als **Reseller MPN-ID**.
+Wenn ein CSP-Partner das Abonnement direkt an den Kunden verkauft hat, wird seine **MPN-ID** zweimal aufgeführt, sowohl als **MPN-ID** als auch als **Reseller MPN ID**.
 
-Wenn ein CSP-Partner über einen Reseller ohne **MPN-ID** verfügt, wird dieser Wert stattdessen auf die **MPN-ID** des Partners festgelegt.
+Wenn ein CSP-Partner über einen Handelspartner ohne **MPN-ID** verfügt, wird dieser Wert stattdessen auf die **MPN-ID** des Partners festgelegt.
 
-Wenn der CSP-Partner eine **Reseller MPN-ID** entfernt, wird dieser Wert auf *-1* festgelegt.
+Wenn der CSP-Partner eine **Reseller-MPN-ID** entfernt, wird dieser Wert auf *-1* festgelegt.
 
-So können Sie die **Reseller MPN-ID** anzeigen oder aktualisieren:
+So zeigen Sie die **MPN-ID des Wiederverkäufers an oder aktualisieren sie:**
 
 1. Melden Sie sich bei Partner Center an.
 2. Wählen Sie im Menü „Partner Center” **Kunden**.
 3. Wählen Sie den Kunden in der Liste aus.
-4. Wählen Sie im Menü Kunde die Option **Abonnements** aus.
+4. Wählen Sie im Kundenmenü Abonnements **aus.**
 5. Wählen Sie das Abonnement aus der Liste aus.
 6. Wählen Sie **Aktualisieren** aus, um **Vertriebspartner (MPN-ID)** zu ändern.
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Lesen Ihrer Rechnung & Datei "Reconnaissance"](read-your-bill.md) 
+- [Lesen der Rechnungs- &-Recon-Datei](read-your-bill.md) 

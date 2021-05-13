@@ -1,88 +1,83 @@
 ---
-title: Enterprise Mobility + Security Verwendungs Bericht für Partner Center Insights
+title: nutzungsbericht zu Partner Center Insights Enterprise Mobility + Security
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sehen Sie sich an, was Sie gut machen und wo Sie die Verwendung von Enterprise Mobility + Security Abonnements verbessern können, die Sie für Ihre Kunden verkaufen oder verwalten.
+description: Sehen Sie sich an, was Sie gut machen und wo Sie die Nutzung von Enterprise Mobility + Security Abonnements verbessern können, die Sie für Ihre Kunden verkaufen oder verwalten.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: c62e074c7329ada33390b77be13c523660344d49
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 8b0784e2d81b4483eb374120be2411729d922a47
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086276"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854620"
 ---
-# <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security Verwendungs Bericht, der im Partner Center Insights-Dashboard verfügbar ist
+# <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security Nutzungsbericht, der über das Partner Center Insights-Dashboard verfügbar ist
 
-**Geeignete Rollen**
+**Geeignete Rollen:** globale | | des Administrator-Agents Berichts-Viewer-| Berichtsanzeige der Geschäftsleitung
 
-- Globaler Administrator
-- Administrator-Agent
-- Berichtleser
-- Executive Report-Leser
-
-Der Bericht "Enterprise Mobility + Security Verwendung" enthält Nutzungsdaten für die Enterprise Mobility + Security Abonnements, die Sie für Ihre Kunden verkauft oder verwaltet haben. Die folgenden Abschnitte können Sie im Bericht zur Enterprise Mobility + Security Verwendung anzeigen.
+Der Enterprise Mobility + Security Nutzungsbericht enthält Nutzungsdaten für die Enterprise Mobility + Security Abonnements, die Sie für Ihre Kunden verkauft oder verwaltet haben. Sie können die folgenden Abschnitte im Enterprise Mobility + Security Nutzungsbericht anzeigen.
 
 - Zusammenfassung
-- Enterprise Mobility + Security Verwendung nach Geografie
-- Enterprise Mobility + Security Verwendung durch SKU
-- Abonnement Leistung
-- Enterprise Mobility + Security Verwendungs Verteilung
+- Enterprise Mobility + Security Nutzung nach Geografie
+- Enterprise Mobility + Security Nutzung nach SKU
+- Abonnementleistung
+- Enterprise Mobility + Security Nutzungsverteilung
 
  > [!NOTE]
- > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administratorrechte für Berichte verfügen.
+ > Dieser Bericht ist über das Insights-Dashboard verfügbar. Um diesen Bericht anzuzeigen, muss Ihnen eine bestimmte Rolle in Partner Center zugewiesen werden, z. B. globaler Administrator, Kontoadministrator, Berichts-Viewer oder Berichts-Viewer der Geschäftsleitung. Weitere Informationen finden Sie unter Globaler Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer mit Executive Report Viewer-Berechtigungen verfügbar.
 
 ## <a name="summary"></a>Zusammenfassung
 
-Der Abschnitt Zusammenfassung enthält eine Momentaufnahme Ansicht der Schlüsselindikatoren im Zusammenhang mit Enterprise Mobility + Security Nutzungs Abonnements, die Sie für Ihre Kunden verkauft oder verwaltet haben. 
+Der Zusammenfassungsabschnitt enthält eine Momentaufnahmeansicht der Schlüsselindikatoren im Zusammenhang mit Enterprise Mobility + Security Nutzungsabonnements, die Sie für Ihre Kunden verkauft oder verwaltet haben. 
 
-- Neue Abonnements: die Gesamtanzahl der Abonnements, die während des ausgewählten Zeitraums verkauft oder verwaltet werden.
+- Neue Abonnements: Gesamtanzahl der abonnements, die während des ausgewählten Zeitraums verkauft oder verwaltet wurden.
 
-   Das Micro-Diagramm zeigt einen Monat-für-Monat-Trend eines neuen Abonnements für den ausgewählten Datumsbereich.
+   Das Micro-Diagramm zeigt einen Monatlich-im-Monat-Trend eines neuen Abonnements für Ihren ausgewählten Datumsbereich an.
 
-- Verfügbare Arbeitsplätze: die Gesamtzahl der Lizenzen, die während des ausgewählten Zeitraums verkauft wurden.
+- Verfügbare Arbeitsplätze: Gesamtanzahl der im ausgewählten Zeitraum verkauften Lizenzen.
 
-   Das Micro-Diagramm zeigt einen Monat-über-Monat-Trend der Anzahl verfügbarer Arbeitsplätze während des ausgewählten Datums Bereichs.
+   Das Micro-Diagramm zeigt einen Monatlich-im-Monat-Trend der anzahl verfügbarer Arbeitsplätze während des ausgewählten Datumsbereichs an.
 
-- Monatlich aktive Verwendung: Anzahl der Lizenzen, die im vorherigen Monat verwendet wurden.
+- Monatliche aktive Nutzung: Anzahl der Lizenzen, die im vorherigen Monat verwendet wurden.
 
-   Das Micro-Diagramm zeigt einen monatlichen Trend der Lizenzen, die im ausgewählten Zeitraum verwendet werden.
+   Das Micro-Diagramm zeigt einen monatlichen Trend von Lizenzen, die im ausgewählten Zeitraum verwendet wurden.
 
-:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="EMS-Verwendungs Zusammenfassung":::
+:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="EMS-Nutzungszusammenfassung":::
 
-## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security Verwendung nach Geografie
+## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security der Nutzung nach Geografie
 
-Die **Enterprise Mobility + Security Nutzung nach Geografie** zeigt die Verteilung der monatlich aktiven Benutzer (Mau) und der bezahlten verfügbaren Einheiten (Pau) nach Kunden Land. Mau bezieht sich auf die Anzahl der Lizenzen, die im vorherigen Monat verwendet werden, und die Anzahl der bezahlten oder verwalteten Arbeitsplätze, die während des ausgewählten Zeitraums verkauft oder verwaltet werden. Hellere Farben auf der Karte stellen niedrigere Werte dar, während dunklere Farben höhere Werte darstellen. Sie können ein Land im Raster suchen und auswählen. Sie können auch vergrößern, um eine genauere Betrachtung anzuzeigen.
+Die **Enterprise Mobility + Security nach Geografie** zeigt die Verteilung von monatlich aktiven Benutzern (MAU) und kostenpflichtigen verfügbaren Einheiten (Paid Available Units, PAU) nach Kundenland. MAU bezieht sich auf die Anzahl der Lizenzen, die im vorigen Monat verwendet wurden, und PAU bezieht sich auf die Anzahl der bezahlten Lizenzen, die während des ausgewählten Zeitraums verkauft oder verwaltet wurden. Hellere Farben auf der Karte stellen niedrigere Werte dar, während dunklere Farben höhere Werte darstellen. Sie können ein Land im Raster suchen und auswählen. Sie können auch vergrößern, um einen genaueren Blick darauf zu erhalten.
 
-Die Tabelle " **Länder/Region** " zeigt die Gesamtanzahl der Länder/Regionen an, in denen Azure-Verwendungs Ereignisse generiert werden.
+Die **Tabelle Anzahl der Länder/Regionen** enthält die Gesamtanzahl der Länder/Regionen, in denen Azure-Nutzungsereignisse generiert werden.
 
-Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte zu zoomen. Wählen Sie die **Start** Option auf der Karte aus, um die ursprüngliche Ansicht wiederherzustellen.
+Sie können ein Land im Raster suchen und auswählen, um an den Ort in der Karte zu zoomen. Wählen Sie auf **der** Karte die Option Start aus, um zur ursprünglichen Ansicht zurück zu gehen.
 
 :::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="EMS-Nutzung nach Geografie":::
 
-## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security Verwendung durch SKU
+## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security nutzung nach SKU
 
-Die Enterprise Mobility + Security Nutzung durch SKU stellt die monatliche Aufschlüsselung von Mau und Pau durch SKUs dar.
+Die Enterprise Mobility + Security SKU zeigt die monatliche Aufschlüsselung von MAU und PAU nach SKUs.
 
-:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="EMS-Nutzung durch SKU":::
+:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="EMS-Nutzung nach SKU":::
 
-## <a name="subscriptions-performance"></a>Abonnement Leistung
+## <a name="subscriptions-performance"></a>Abonnementleistung
 
-Die Abonnement Leistung stellt die Aufschlüsselung von Mau und Pau durch SKUs pro Kunden Abonnement dar. Die Daten für die Top 100-Kunden nach dem Umsatz in Rechnung sind in der Tabelle aufgeführt, und Sie können nach beliebigen Kunden suchen oder die Rohdaten herunterladen, um Details für alle Kunden anzuzeigen.
+Die Abonnementleistung zeigt die Aufschlüsselung von MAU und PAU nach SKUs pro Kundenabonnement. Daten für die 100 wichtigsten Kunden nach abgerechnetem Umsatz werden in der Tabelle angezeigt, und Sie können nach einem beliebigen Kunden suchen oder die Rohdaten herunterladen, um Details für alle Kunden anzuzeigen.
 
-:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="EMS-Abonnement Leistung":::
+:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="Leistung des EMS-Abonnements":::
 
-## <a name="enterprise-mobility--security-usage-distribution"></a>Enterprise Mobility + Security Verwendungs Verteilung
+## <a name="enterprise-mobility--security-usage-distribution"></a>Enterprise Mobility + Security der Nutzungsverteilung
 
-Die Verteilung der Enterprise Mobility + Security Verwendung stellt die Aufschlüsselung von Pau und Abonnements nach SKUs dar.
+Die Enterprise Mobility + Security der Nutzungsverteilung zeigt die Aufschlüsselung von PAU und Abonnements nach SKUs.
 
-:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="EMS-Verwendungs Verteilung":::
+:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="EMS-Nutzungsverteilung":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- Weitere Berichte finden Sie unter [Partner Center Insights](partner-center-insights.md).
+- Weitere Berichte finden Sie unter [Partner Center Insights.](partner-center-insights.md)
 
-- Sie können die Rohdaten, die diesen Bericht über den Abschnitt Berichte herunterladen im Insights-Dashboard herunterladen. [Weitere Informationen](pci-download-reports.md) 
+- Sie können die Rohdaten für diesen Bericht aus dem Abschnitt Berichte herunterladen im Insights-Dashboard herunterladen. [Weitere Informationen](pci-download-reports.md) 

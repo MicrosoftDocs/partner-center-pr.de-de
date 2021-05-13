@@ -4,187 +4,180 @@ ms.topic: article
 ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Weitere Informationen finden Sie in den aktuellen Preislisten für Lizenz basierte Dienste wie Office 365, Microsoft Dynamics CRM und Enterprise Mobility Suite und Verwendungs basierte Dienste wie Azure.
+description: Aktuelle Preislisten für lizenzbasierte Dienste wie Office 365, Microsoft Dynamics CRM und Enterprise Mobility Suite sowie nutzungsbasierte Dienste wie Azure finden Sie hier.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b960a903c2ba85963047033094636da6dc599f90
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 1cf69258b507258e1186514c54fa11ebf8a57d36
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964424"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854518"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Preise und Angebote für Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure und mehr
 
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Globale Administratorrechte | Administratorrechte für | Administrator-Agent| MPN-Partneradministrator| Sales agent | Abrechnungsadministrator
 
-- Globaler Administrator
-- Benutzerverwaltungsadministrator
-- Administrator-Agent
-- MPN-Partneradministrator
-- Vertriebsbeauftragter
-- Abrechnungsadministrator
+Zum Anzeigen der neuesten Cloud Solution Provider-Programme und -Angebote rufen Sie das Parterportal-Dashboard und dann **Verkaufen > Preise und Angebote** auf. Dort finden Sie separate Preislisten für die verschiedenen verfügbaren Produkttypen. Die folgenden Preislisten stehen auf der Seite **Preise und Angebote** zur Verfügung:
 
-Um die neuesten Programme und Angebote für Cloud Solution Provider anzuzeigen, besuchen Sie das Dashboard des Partner Portals, um **> Preise und Angebote zu verkaufen**. Für die verschiedenen verfügbaren Produkttypen finden Sie separate Preislisten. Die folgenden Preislisten sind auf der Seite " **Preise und Angebote** " verfügbar:
-
-- **Lizenz basierte Dienste** beinhalten Preisinformationen für Office 365, Enterprise Mobility und Security E3 sowie und Dynamics 365. Der Abschnitt Lizenz basierte Preise umfasst die aktuellen und Vorschau Preise sowie die Angebots Listen Matrix. Preislisten enthalten den Listenpreis und geschätzte Einzelhandelspreise (ERP) für Angebote in allen unterstützten Währungen. Die Angebots Listen Matrix enthält Marktverfügbarkeit und andere wichtige Informationen zu den angeboten. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
-- **Nutzungsbasierte Dienste** enthalten Preisinformationen für Microsoft Azure und Visual Studio. Sie können außerdem den [Preisrechner für Azure Services im CSP](https://azure.microsoft.com/pricing/calculator/) verwenden. Der Verwendungs basierte Download umfasst sowohl die CSP-Preisliste für alle unterstützten Währungen als auch die Preis Dateien für gemeinsame Dienste in ERP. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
-- **Microsoft Azure reservierten Instanzen** enthält Preisinformationen für alle unterstützten Währungen für reservierte Azure-Instanzen. Der Preis Download umfasst auch die Preise für gemeinsame Dienste in ERP. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
-- **Software Abonnements** beinhalten Preise für Begriffs basierte Software Abonnements für alle unterstützten Währungen. Die Preis Datei enthält alle unterstützten Währungen mit dem Listenpreis und MSRP. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
-- Die **Preise für Azure-Pläne** umfassen Preisinformationen für Azure-Plan Verbrauchs Dienste sowie Preise für die Azure-Plan Reservierung. Preise sind direkte Preise oder ERP und können für einen beliebigen unterstützten Markt abgerufen werden. Die Daten in diesen Dateien werden täglich aktualisiert.
-- **Foreign Exchange-Kurse** werden zur Berechnung der Abrechnung zwischen USD und der lokalen Währung der Partner verwendet. Die Tarife werden am ersten jedes Monats aktualisiert und sind für den angegebenen Monat true. die Tarife werden zur Verfügung gestellt. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
-- **Marketplace** umfasst die Preise für ISV-Lösungen aus dem kommerziellen Marketplace von Microsoft. Die Preise werden pro Markt abgerufen. Die Daten in diesen Dateien werden täglich aktualisiert.
+- **Lizenzbasierte Dienste enthalten** Preisinformationen für Office 365, Enterprise Mobility und Security E3 sowie und Dynamics 365. Der Abschnitt Lizenzbasierte Preise enthält aktuelle Preise und Vorschaupreise sowie die Angebotslistenmatrix. Preislisten enthalten Listenpreis und geschätzte Einzelhandelspreise (ERP) für Angebote in allen unterstützten Währungen. Die Angebotslistenmatrix enthält die Marktverfügbarkeit und andere wichtige Informationen zu den Angeboten. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
+- **Nutzungsbasierte Dienste enthalten** Preisinformationen für Microsoft Azure und Visual Studio. Sie können außerdem den [Preisrechner für Azure Services im CSP](https://azure.microsoft.com/pricing/calculator/) verwenden. Der nutzungsbasierte Download enthält sowohl die CSP-Preislisten für alle unterstützten Währungen als auch die Shared Services-Preisdateien in ERP. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
+- **Microsoft Azure Reservierte Instanzen enthält** Preisinformationen für alle unterstützten Währungen für reservierte Azure-Instanzen. Der Preisdownload enthält auch die Preise für gemeinsame Dienste in ERP. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
+- **Softwareabonnements** enthalten Preise für laufzeitbasierte Softwareabonnements für alle unterstützten Währungen. Die Preisdatei enthält alle unterstützten Währungen mit Listenpreis und MSRP. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
+- **Die Preise des Azure-Plans** enthalten Preisinformationen für Azure-Planverbrauchsdienste sowie Preise für Azure-Planreservierungen. Preise sind direkte Preise oder ERP und können für jeden unterstützten Markt abgerufen werden. Die Daten in diesen Dateien werden täglich aktualisiert.
+- **Wechselkurse** werden zum Berechnen der Abrechnung verwendet, die zwischen USD und der lokalen Währung des Partners berechnet wird. Die Preise werden am ersten von jedem Monat aktualisiert und gelten für den angegebenen Monat, für den die Preise verfügbar gemacht werden. Diese Dateien werden am ersten Tag jedes Monats aktualisiert.
+- **Marketplace** enthält Preise für ISV-Lösungen aus dem kommerziellen Marketplace von Microsoft. Die Preise werden pro Markt abgerufen. Die Daten in diesen Dateien werden täglich aktualisiert.
 
 > [!Note] 
-> Nur CSP-Partner mit der Funktion zum Transact können Preislisten anzeigen und herunterladen. Indirekte Händler wenden sich an [ihren CSP-Anbieter]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) , um Details zu den Preisen anzufordern.
+> Nur CSP-Partner, die transaktionen können, können Preislisten anzeigen und herunterladen. Indirekte Vertriebspartner sollten [sich an ihren CSP-Anbieter wenden,]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) um Details zu den Preisen anzufordern.
 
-## <a name="price-list-preview-and-change-frequency"></a>Preislisten Vorschau und Änderungs Häufigkeit 
+## <a name="price-list-preview-and-change-frequency"></a>Preislistenvorschau und Änderungshäufigkeit 
 
-Lizenz basierte Dienste enthalten eine Vorschau der Preisliste, die 30 Tage vor allen Änderungen bereitgestellt wird. Um die Vorschau der Preisliste anzuzeigen, besuchen Sie **> Preise und Angebote zu verkaufen**. Für nutzungsbasierte Dienste gibt es keine Preis Vorschau, da diese Dienste dynamisch sind. In der folgenden Tabelle wird erläutert, wie die Preislisten Tabelle gelesen wird.
+Lizenzbasierte Dienste enthalten eine Preislistenvorschau, die 30 Tage vor allen Änderungen bereitgestellt wird. Die Preislistenvorschau finden Sie unter **Verkaufen > Preise und Angebote.** Es gibt keine Preisvorschau für nutzungsbasierte Dienste, da diese Dienste dynamisch sind. In der folgenden Tabelle wird erläutert, wie die Preislistentabelle gelesen wird.
 
 |**Element**        |**Definition**      |
 |:-----------   |:-----------   |
-|ADD   |Ein neues Element in der Preisliste.|
-|CHG   |Änderungen am Listenpreis von Monat zu Monat. Andere Änderungen, die nicht mit dem Listenpreis zusammenhängen, können eintreten, wenn Partner Preislisten zwischen Monaten vergleichen, um Änderungen an anderen Eigenschaften zu ermitteln.|
-|DEL   |Ein Element, das aus der Preisliste entfernt wurde.|
-|UNC   |Listenpreis unverändert aus der Preisliste des vorherigen Monats  |
+|ADD   |Ein neues Element in der Preisliste|
+|CHG   |Änderungen am Listenpreis von Monat zu Monat. Andere Änderungen, die sich nicht auf den Listenpreis beziehen, können auftreten. Partner sollten Preislisten zwischen Monaten vergleichen, um Änderungen an anderen Eigenschaften zu bestimmen.|
+|DEL   |Ein aus der Preisliste entferntes Element|
+|UNC   |Listenpreis unverändert gegenüber der Preisliste des Vormonats  |
 |Gültig ab (Datum)   |Das erste Datum, an dem ein Angebot bestellt werden kann    |
 |Gültig bis (Datum)   |Das letzte Datum, an dem ein Angebot bestellt werden kann   |
 |Angebotsanzeigename   |Der für den Kunden sichtbare Name des Angebots   |
 |Angebots-ID   |Der interne Bezeichner für das Angebot   |
-|Lizenzvertragstyp   |Lizenzvertrags Typen können entweder "Corporate", "Government" oder "Academic" lauten. Der Vertragstyp bestimmt, an welche Kundentypen das Angebot verkauft werden kann.|
-|Bestelleinheit   |Die Dauer des erworbenen Angebots. Kauf Einheiten sind in der Regel ein Monat.   |
-|Sekundärer Lizenztyp   |Sekundäre Lizenztypen sind entweder nicht spezifisch, Add-on oder Testversion. Add-on gibt an, dass die erforderlichen Produkte vom Kunden vor dem Erwerb des Add-on erworben werden müssen.|
-|Art des Endkunden   |Bezieht sich auf den Lizenz Vertragstyp: Corporate License-Cloud Reseller Corporate, Government License-Cloud Reseller Government oder Academic License-Cloud Reseller Dozenten oder Cloud Reseller Student   |
+|Lizenzvertragstyp   |Lizenzvertragstypen können entweder Unternehmens-, Behörden- oder Akademische Typen sein. Der Vertragstyp bestimmt, an welchen Kundentyp das Angebot verkauft werden kann.|
+|Bestelleinheit   |Die Dauer des erworbenen Angebots. Kaufeinheiten sind in der Regel ein Monat.   |
+|Sekundärer Lizenztyp   |Sekundäre Lizenztypen sind entweder nicht spezifisch, Add-On oder Testversion. Das Add-On gibt an, dass es erforderliche Produkte gibt, die der Kunde vor dem Kauf des Add-Ons erwerben muss.|
+|Art des Endkunden   |Bezieht sich auf den Lizenzvertragstyp: Unternehmenslizenz – Cloud reseller corporate, government license – cloud reseller government oder academic license – Cloud Reseller-Lehrkörper oder Cloud Reseller Student   |
 |Listenpreis   |Der Preis, den der Partner zahlt   |
 |ERP-Preis   |Der geschätzte oder empfohlene Einzelhandelspreis für den Kunden   |
 
 ## <a name="price-changes"></a>Preisänderungen
 
-Preisänderungen werden häufig vorkommen. Partner können Preisänderungen für Lizenz basierte Angebote antizipieren, indem Sie sich die Preislisten Vorschau ansehen. Öffnen Sie auf dem Partner Center-Dashboard die Seite "Preise und Angebote", um die Vorschau der Preisliste anzuzeigen.
+Preisänderungen kommen häufig vor. Partner können Preisänderungen für lizenzbasierte Angebote in der Preislistenvorschau antizipieren. Öffnen Sie Partner Center Dashboard die Seite Preise und Angebote, um die Vorschau der Preisliste anzuzeigen.
 
-Azure Usage-basierte Preise haben jedoch keine Vorschau. Partner können mithilfe der Ratecard-API, die die Abrechnungspreise für diesen Tag zurückgibt, die Preisänderungen für Azure-Verbrauchseinheiten aufrechterhalten.
+Die nutzungsbasierten Preise von Azure haben jedoch keine Vorschau. Partner können mit den Preisänderungen beim Azure-Verbrauch mit der RateCard-API mithalten, die die Preise für die Verbrauchszähler des Tages zurückgibt.
 
 |**Produkttyp**   |**Produktbeispiele**  |**Vorschau verfügbar** |**Änderungsdetails**|
 |-----------------------|:-----------------------|:-------------------|------------------|
-|Lizenz basiert|Office, Dynamics, InTune, Windows Enterprise|30 Tage|Auflisten von Preisänderungen, die in Vorschau Preislisten als "Chng|
-|Nutzungsbasiert|Azure-Ressourcen|Nicht verfügbar|Änderungsprotokoll in der Registerkarte " **Änderungs Verlauf** " des vorherigen Monats|
+|Lizenzbasierte|Office, Dynamics, Intune, Windows Enterprise|30 Tage|Auflisten der mit CHNG markierten Preisänderungen in der Vorschaupreisliste|
+|Nutzungsbasiert|Azure-Ressourcen|Nicht verfügbar|Änderungsprotokoll, das auf der Registerkarte Änderungsverlauf der Preisliste des vorigen **Monats verfügbar** ist|
 |Software||Nicht verfügbar|Manuelles Vergleichen von Preislisten von Monat zu Monat|
-|Reservations|Virtuelle Computer, vorab bezahlt|Nicht verfügbar|Manuelles Vergleichen von Preislisten von Monat zu Monat|
+|Reservations|Virtuelle Computer, im Voraus bezahlt|Nicht verfügbar|Manuelles Vergleichen von Preislisten von Monat zu Monat|
 
-Nutzungsbasierte Preise können sich im Laufe eines Monats ändern. Um die täglichen Preise für diese Azure-Ressourcen zu erhalten, müssen Partner die Ratecard-API anrufen. 
+Nutzungsbasierte Preise können sich im Laufe eines Monats ändern. Um die aktuellen täglichen Preise für diese Azure-Ressourcen zu erhalten, müssen Partner die RateCard-API aufrufen. 
 
 > [!Note] 
-> Abonnementpreis Änderungen gelten nur während einer Verlängerung. Die monatliche Gebühr für einen Partner wird durch den Kauf Preis oder den Preis zum Zeitpunkt der Erstellung eines Abonnements festgelegt. Wenn ein Preis erhöht oder verringert wird, nachdem die Jahresfrist bezogen wurde, wird dem Partner der geänderte Preis bis zur Verlängerung nicht berechnet (in der Regel in der 12-monatigen Laufzeit).
+> Änderungen am Abonnementpreis gelten nur während einer Verlängerung. Die monatliche Gebühr eines Partners wird zum Preis des Kaufs oder zum Zeitpunkt der Erstellung eines Abonnements bestimmt. Wenn sich ein Preis erhöht oder verringert, nachdem die jährliche Laufzeit erworben wurde, wird dem Partner der geänderte Preis erst nach der Verlängerung in Rechnung gestellt – in der Regel zur Laufzeit von 12 Monaten.
 
 ## <a name="pricing-and-special-segments"></a>Preise und spezielle Segmente
 
-CSP bietet einige Dienste für spezielle Marktsegmente, z. b. Education, Non-Profit und Government Community Cloud. Nicht alle Dienste sind in jedem Kanal verfügbar. Standardmäßig wird kein Segment verwendet, das als "kommerzielles"-Segment bezeichnet wird. Alle lizenzbasierten Preise sind in der lizenzbasierten Preisliste auf der Seite Preise und Angebote verfügbar. Azure Government Preise sind in der nutzungsbasierten Preisliste verfügbar, wenn Sie beim Azure Government aktivierten CSP-Mandanten angemeldet sind. Software Abonnements und unbefristete Software unterstützen diese speziellen Segmente noch nicht.
+CSP bietet einige Dienste für spezielle Segmente an, z. B. Bildung, Gemeinnützige Cloud und Government Community Cloud. Nicht alle Dienste sind in jedem Kanal verfügbar. Kein Segment ist standardmäßig auf das als "kommerzielles" Segment bezeichnete Segment eingestellt. Alle lizenzbasierten Preise sind in der lizenzbasierten Preisliste auf der Seite Preise und Angebote verfügbar. Azure Government Preise sind in der nutzungsbasierten Preisliste verfügbar, wenn sie beim Azure Government aktivierten CSP-Mandanten angemeldet sind. Softwareabonnements und unbefristete Software unterstützen diese speziellen Segmente noch nicht.
 
-|**Segment**   |**Wer muss qualifiziert werden**   |**Partner qualifiziert Kunden**|**Aktivierte Produkttypen**|
+|**Segment**   |**Wer muss sich qualifizieren?**   |**Partner qualifiziert Kunden**|**Aktivierte Produkttypen**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|Kunde|Nein, Kunden Qualifizierung wird von Microsoft durchgeführt. |Nur Lizenz basiert|
-|Non-Profit|Kunde|Nein, Kunden, die sich außerhalb von Partner Center qualifizieren|Nur Lizenz basiert|
-|Government Community Cloud (GCC)|Partner und Kunde|Nachdem gcc aktiviert wurde, kann der Partner gcc-Kunden erstellen.| Nur Lizenz basiert|
-|Azure Government|Partner|Nach der Qualifikation arbeitet der Partner in einem CSP-Mandanten, der für Azure Government|Azure-Ressourcen|
+|Education|Kunde|Nein, die Kundenqualifizierung wird von Microsoft durchgeführt. |Nur lizenzbasiert|
+|Non-Profit|Kunde|Nein, kundenqualifiziert sich außerhalb von Partner Center|Nur lizenzbasiert|
+|Government Community Cloud (GCC)|Partner und Kunde|Sobald GCC aktiviert ist, kann der Partner GCC-Kunden erstellen.| Nur lizenzbasierte|
+|Azure Government|Partner|Nach der Qualifikation arbeitet der Partner in einem CSP-Mandanten, der spezifisch für Azure Government|Azure-Ressourcen|
 
-Partner Ränder: der Unterschied zwischen dem Listenpreis und den geschätzten Einzelhandelspreisen kann von Segment zu Segment abweichen. In der Regel haben Education und Non-Profit für CSP-Partner tendenziell niedrigere oder keine Ränder. Genaue Werte finden Sie in der lizenzbasierten Preisliste. 
+Die Partnergewinne, die Differenz zwischen dem Listenpreis und den geschätzten Einzelhandelspreisen, können von Segment zu Segment variieren. In der Regel haben Bildungseinrichtungen und gemeinnützige Organisationen tendenziell niedrigere oder gar keine Ränder für CSP-Partner. Genaue Werte finden Sie in der lizenzbasierten Preisliste. 
 
-## <a name="add-on-offer-types"></a>Add-on-Angebots Typen
+## <a name="add-on-offer-types"></a>Add-On-Angebotstypen
 
-Lizenz basierte Dienste können entweder als basisangebote oder als Add-ons erworben werden. Nur basisangebote können über den Partner Center-Katalog ermittelt und erworben werden. Sie müssen Add-ons nach dem Erwerb der basisangebote anwenden. Die Spalte für den **sekundären Lizenztyp** der lizenzbasierten Preisliste enthält Informationen zu den einzelnen angeboten und deren Typ. Basisangebote verfügen über **nicht spezifische** Werte in der Spalte der sekundären Lizenztypen der Preisliste und können im Katalog erworben werden. Die Werte für den sekundären Lizenztyp des **Add-on** können nicht im Katalog erworben werden. So erwerben Sie diese Add-ons:
+Lizenzbasierte Dienste können entweder als Basisangebote oder als Add-Ons erworben werden. Nur Basisangebote können über den Katalog Partner Center werden. Sie müssen Add-Ons anwenden, nachdem Sie die Basisangebote erhalten haben. Die Spalte lizenzbasierter Preisliste **Sekundärer Lizenztyp** enthält Informationen zu jedem Angebot und seinem Typ. Basisangebote enthalten **in der Spalte** für den sekundären Lizenztyp der Preisliste nicht spezifische Werte und können im Katalog erworben werden. Sekundäre Lizenztypwerte des **Add-Ons** können nicht im Katalog erworben werden. So erwerben Sie diese Add-Ons:
 
-1. Sehen Sie sich die Angebots Listen Matrix an, um die Liste der Angebots-IDs anzuzeigen, die erworben werden müssen, bevor Sie ein Add-on erwerben können.
-2. Erwerben des Basis Angebots aus dem Katalog
-3. Navigieren Sie zu Ihrem Kunden aus der Kundenliste. Klicken Sie auf das Abonnement für das Basisangebot, das Sie soeben erworben haben. Auf der Seite Abonnement verwalten werden verfügbare Add-ons angezeigt, die auf das Basisangebot angewendet werden können.
+1. Sehen Sie sich die Liste der Angebots-IDs an, die erworben werden müssen, bevor Sie ein Add-On erwerben können.
+2. Erwerben des Basisangebots aus dem Katalog
+3. Navigieren Sie in der Kundenliste zu Ihrem Kunden. Klicken Sie auf das Abonnement für das Basisangebot, das Sie gerade erworben haben. Auf der Seite Abonnement verwalten werden verfügbare Add-Ons angezeigt, die auf das Basisangebot angewendet werden können.
 
 > [!Note] 
-> Einige basisangebote verfügen über Werte vom **Typ "Unit Type** " für **Add-on-Lizenzen**. Bei einem Basisangebot bedeutet dies lediglich, dass Sie nach dem Erwerb keine Benutzerlizenzen zuweisen. Wenn das Angebot im Katalog erworben werden kann, handelt es sich um ein **Basisangebot** , unabhängig vom Einheitstyp in der Benutzeroberfläche.
+> Einige Basisangebote verfügen **über Unit-Typwerte** von **Add-On-Lizenzen.** Für ein Basisangebot bedeutet dies einfach, dass Sie nach dem Kauf keine Benutzerlizenzen zuweisen. Wenn das Angebot im Katalog erworben werden kann, handelt es sich um ein **Basisangebot,** unabhängig vom Einheitentyp auf der Benutzeroberfläche.
 
 ## <a name="pricing-between-azure-and-non-azure"></a>Preise zwischen Azure-Angeboten und Azure-fremden Angeboten
 
-Die Preise unterscheiden sich in verschiedenen Angebots Typen. Lizenz basierte Preise sind in der Regel der Betrag pro Lizenz für einen bestimmten Monat. Nutzungsbasierte Preise werden durch die Verwendung einer bestimmten Ressource und eine zugeordnete Abrechnungs-ID bestimmt. Für Partner fallen keine Gebühren für den Erwerb des Azure-Abonnements an. Allerdings werden den Partnern Ressourcen in Rechnung gestellt, die von verschiedenen bereit Stellungen im Rahmen des Azure-Abonnements beansprucht werden. Die Preise in der nutzungsbasierten Preisliste werden um verschiedene Ressourcen Zähler-IDs in Azure organisiert.
+Die Preise unterscheiden sich bei verschiedenen Arten von Angeboten. Lizenzbasierte Preise sind in der Regel der Betrag pro Lizenz für einen bestimmten Monat. Nutzungsbasierte Preise werden durch die Verwendung einer bestimmten Ressource mit einer zugeordneten Verbrauchszähler-ID bestimmt. Partnern wird der Erwerb des Azure-Abonnements nicht in Rechnung gestellt. Partner werden jedoch für Ressourcen in Rechnung gestellt, die von verschiedenen Bereitstellungen im Rahmen des Azure-Abonnements genutzt werden. Die Preise in der nutzungsbasierten Preisliste sind nach verschiedenen Ressourcenzähler-IDs in Azure organisiert.
 
-Azure-Reservierungen sind Begriffs basierte Käufe für den jeweiligen Ressourcentyp Virtual Machines. Der Erwerb einer Azure-Reservierung ermöglicht einem Partner das vorab bezahlen (ein oder drei Jahre) und die Reservierung eines bestimmten virtuellen Computers. Durch Reservierungen werden die Partner Kosten eingespart und sichergestellt, dass Ihr virtueller Computer für die Dauer der Laufzeit immer verfügbar ist. Ein Partner kann die gewünschte Reservierung an die nutzungsbasierten Ressourcen Zähler-IDs ausrichten. Die Abrechnungs Einheiten sind für die gesamte Ressource konsistent, unabhängig davon, ob der Partner einen virtuellen Computer kauft oder den virtuellen Computer einfach als Verwendungs basierte Ressource bereitstellt.
+Azure-Reservierungen sind laufzeitbasierte Käufe für den jeweiligen Ressourcentyp – Virtual Machines. Durch den Erwerb einer Azure-Reservierung kann ein Partner vorab bezahlen (Nutzungsbedingungen für ein oder drei Jahre) und einen bestimmten virtuellen Computer reservieren. Reservierungen sparen dem Partner Geld und stellen sicher, dass sein virtueller Computer für die Dauer der Laufzeit immer verfügbar ist. Ein Partner kann die gewünschte Reservierung an den nutzungsbasierten Ressourcenzähler-IDs ausrichten. Die Verbrauchszähler-IDs sind ressourcenübergreifend konsistent, unabhängig davon, ob der Partner einen virtuellen Computer kauft oder den virtuellen Computer einfach als nutzungsbasierte Ressource bereitstellt.
 
 ## <a name="offers-matrix"></a>Angebotsmatrix
 
-Zeigen Sie auf der Seite "Preise und Angebote" die Angebots Matrix für den Cloud-Reseller an, um sich über die unterschiedlichen SKUs und Produktpakete zu informieren, die Ihnen zur Verfügung stehen. Die Angebotsmatrix gibt auch Aufschluss darüber, welche Angebote pro Gebiet verfügbar sind. Wenn ein Element in der Preisliste, aber nicht in der Angebots Matrix aufgeführt ist, bedeutet dies, dass die Produkte noch nicht sortiert werden können. Die Angebotsmatrix wird aktualisiert, sobald sie bestellt werden können.
+Sehen Sie sich auf der Seite Preise und Angebote die Angebotsmatrix für Cloudhändler an, um mehr über die verschiedenen SKUs und Produktpakete zu erfahren, die Ihnen zum Verkauf zur Verfügung stehen. Die Angebotsmatrix gibt auch Aufschluss darüber, welche Angebote pro Gebiet verfügbar sind. Wenn ein Artikel in der Preisliste, aber nicht in der Angebotsmatrix aufgeführt ist, bedeutet dies, dass die Produkte noch nicht bestellt werden können. Die Angebotsmatrix wird aktualisiert, sobald sie bestellt werden können.
 
 Für CSP-Partner, die die Partner Center Software Development Kits (SDKs) verwenden. veröffentlicht Microsoft auf der Seite „Preise und Angebote“ auch eine Liste mit den Azure-Diensten in CSP.
 
-### <a name="offers-matrix-and-price-list-questions"></a>Angebote zu Matrizen und Preislisten
+### <a name="offers-matrix-and-price-list-questions"></a>Fragen zu Angebotsmatrix und Preisliste
 
-Wenn Sie Fragen zur Preisliste oder Angebots Matrix haben, senden Sie eine Service Request über das Partner Center.
+Wenn Sie Fragen zur Preisliste oder Angebotsmatrix haben, übermitteln Sie eine Serviceanfrage über die Partner Center.
 
-## <a name="offer-limits"></a>Angebots Limits
+## <a name="offer-limits"></a>Angebotslimits
 
-Einige Lizenz basierte Angebote haben bestimmte Regeln und Einschränkungen, die mehrere Käufe für denselben Kunden zulassen. Diese Regeln gelten für die meisten Tests und viele der kleinen geschäftlichen Angebote. **Small Business-Angebote** werden durch die Angebote definiert, die eine maximale Anzahl von Lizenzen aufweisen, die kleiner als 300 ist.
+Einige lizenzbasierte Angebote verfügen über bestimmte Regeln und Einschränkungen, die mehrere Käufe für denselben Kunden verbieten. Diese Regeln gelten für die meisten Testversionen und viele der Angebote für kleine Unternehmen. **Angebote für kleine Unternehmen** werden durch angebote definiert, deren maximale Lizenzanzahl kleiner als 300 ist.
 
-Diese Kauf Einschränkungen werden als Teil der Angebots Konfiguration definiert und können durch die Suche in der Angebots Listen Matrix gefunden werden. Zwei Datenspalten werden zusammen verwendet, um die Erzwingung zu definieren: 1. Bereich für Angebots Beschränkung und 2. Angebots Limit. Die Einschränkungen werden während eines Kaufs erzwungen. Der Katalog in Partner Center lässt nicht zu, dass ein Partner mehr Angebote kauft, als die Regeln zulassen. Jeder Versuch, die Einschränkungen zu verletzen, führt zu einem Fehler.
+Diese Kaufeinschränkungen werden als Teil der Angebotskonfiguration definiert und finden Sie in der Angebotslistenmatrix. Zwei Datenspalten arbeiten zusammen, um die Erzwingung zu definieren: 1. Angebotslimitbereich und 2. Angebotslimit. Die Einschränkungen werden während eines Kaufs erzwungen. Der Katalog im Partner Center lässt nicht zu, dass ein Partner mehr Angebote kaufen kann, als die Regeln zulassen. Jeder Versuch, die Einschränkungen zu verletzen, führt zu einem Fehler.
 
-Der Bereich des Angebots Limits wird als Spalte in der Angebots Listen Matrix aufgezeichnet und kann Werte von "None", "Lifetime" oder "Concurrent" aufweisen. 
+Der Bereich "Angebotslimit" wird als Spalte in der Angebotslistenmatrix aufgezeichnet und kann werte "None", "Lifetime" oder "Concurrent" haben. 
 
-- Angebote mit " **keine** " können ohne Einschränkungen erworben werden.
-- **Lebensdauer** -Angebote können nur einmal erworben werden.
-- **Gleichzeitige** Angebote können so oft wie durch den Wert des **Angebots Limits** für dieses Angebot zugelassen erworben werden. Die meisten Testversionen verfügen über einen Gültigkeitsbereich für die Lebensdauer Angebote mit einem Angebots Limit von "1". Die meisten kleinen Geschäftsangebote verfügen über einen Grenzwert für gleichzeitige Angebote mit einem Angebots Limit von "2".
+- Angebote mit **None** können ohne Einschränkungen erworben werden.
+- **Lebensdauerangebote** können nur einmal erworben werden.
+- **Gleichzeitige** Angebote können so oft erworben werden, wie durch den Angebotsgrenzwert **für** dieses Angebot zulässig ist. Die meisten Testversionen verfügen über einen Bereich für die Angebotsbegrenzung für die Lebensdauer mit einem Angebotsgrenzwert von "1". Die meisten Angebote für kleine Unternehmen verfügen über einen gleichzeitigen Angebotsgrenzbereich mit einem Angebotslimit von "2".
 
 > [!IMPORTANT]
-> Parallelitäts Grenzwerte werden auch dann erzwungen, wenn ein Angebot abgebrochen wird. Ein Angebot muss vollständig abgebrochen und dann bereitgestellt werden, um einen zusätzlichen Speicherplatz freizugeben, der einen anderen Kauf ermöglicht.
+> Parallelitätsgrenzwerte werden auch dann erzwungen, wenn ein Angebot storniert wird. Ein Angebot muss vollständig storniert und dann die Erneutentteilung abgebrochen werden, um zusätzlichen Speicherplatz frei zu geben, der einen weiteren Kauf ermöglicht.
 
 ### <a name="taxes-and-pricing"></a>Steuern und Preise
 
-Alle Preise in den Preislisten der Partner Center-CSP sind Tax inklusiv. Weitere Informationen finden Sie im Partner Center in den Dokumenten [Steuern und Steuern](tax-and-tax-exemptions.md).
+Alle Preise in CSP-Preislisten in Partner Center sind inklusiv. Weitere Informationen finden Sie im Partner Center [Steuer- und Steuerausnahmen.](tax-and-tax-exemptions.md)
 
-## <a name="multi-year-term-offers"></a>Angebote für mehrjährige Laufzeit
+## <a name="multi-year-term-offers"></a>Laufzeitangebote für mehrere Jahre
 
 ### <a name="36-month-offers"></a>36-monatige Angebote
 
-Es gibt ungefähr 50 Dynamics-Angebote mit drei Jahres Bedingungen. Diese werden im Titel der Angebote durch **(36 Mo)** identifiziert. Diese Angebote ähneln den jährlichen angeboten. Der einzige Unterschied besteht in Bezug auf den Begriff. Diese Angebote haben eine Laufzeit von drei Jahren, sodass die Abonnements automatisch nach drei Jahren erneuert werden. Im folgenden finden Sie eine Zusammenfassung der Funktionsweise dieser Angebote:
+Es gibt ca. 50 Dynamics-Angebote mit Laufzeiten von drei Jahren. Diese werden durch **(36 Mo)** im Titel der Angebote identifiziert. Diese Angebote ähneln den jährlichen Laufzeitangeboten. Der einzige Unterschied besteht in ihrem Begriff. Diese Angebote haben eine Laufzeit von drei Jahren, sodass die Abonnements automatisch nach drei Statt nach einem Jahr verlängert werden. Im Folgenden finden Sie eine Zusammenfassung der Funktionsweise dieser Angebote:
 
-- Die Bestimmungen sind 36 Monate, Abonnements werden automatisch nach drei Jahren erneuert.
-- Partner können die Anzahl der Lizenzen während der Laufzeit des Abonnements abbrechen oder ändern.
-- Die jährliche Erneuerung erfolgt zum Preis der kaufzeit für die dreijährige Laufzeit.
-- Die Abrechnungs Häufigkeit beträgt immer noch jährlich oder monatlich.
+- Die Bedingungen sind 36 Monate, Abonnements werden nach drei Jahren automatisch verlängert.
+- Partner können die Anzahl der Lizenzen während der Laufzeit des Abonnements kündigen oder ändern.
+- Die jährliche Verlängerung erfolgt zum Preis der Kaufzeit für die Laufzeit von drei Jahren.
+- Die Abrechnungshäufigkeit ist weiterhin jährlich oder monatlich.
 
 ### <a name="72-month-offers"></a>72-monatige Angebote
 
-Das Basisangebot Microsoft 365 a1 hat eine Laufzeit von sechs Jahren.  Die Office 365 a1-Add-ons sind nach dem Erwerb dieses Basis Angebots verfügbar. 
+Microsoft 365 A1-Basisangebot hat eine Laufzeit von sechs Jahren.  Die Office 365 A1-Add-Ons sind nach dem Erwerb dieses Basisangebots verfügbar. 
 
 |**Angebotsname**   |**Angebots-ID**   |**Typ**|
 |-------------------|-----------------------|----------------------------|
 |Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Basisangebot|
-|Office 365 a1 für Lehrpersonal (für Gerät)|0757d14e-7c57-456F-8dab-47d164f2ff1f|Add-On|
-|Office 365 a1 für Studenten (für das Gerät)|bae285a9-d56b-4384-b02f-38adc61a6f 12|Add-On|
+|Office 365 A1 für Lehrpersonal (für Gerät)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Add-On|
+|Office 365 A1 für Kursteilnehmer (für Gerät)|bae285a9-d56b-4384-b02f-38adc61a6f12|Add-On|
 
-Im folgenden finden Sie eine Zusammenfassung der Funktionsweise dieser Angebote:
+Im Folgenden finden Sie eine Zusammenfassung der Funktionsweise dieser Angebote:
 
-- Der Begriff ist 72 Monate oder sechs Jahre
-- Das Abonnement wird nicht erneuert und läuft nach sechs Jahren ab.
-- Die Abrechnungs Häufigkeit für das Angebot wird als jährlich angezeigt, aber der Partner wird nach dem Erwerb des Abonnements vorab auf der ersten Rechnung abgerechnet.
-- Abonnements für 72-monatige-monatige Angebote sind nach dem Kauf gesperrt und können nicht abgebrochen werden, und die Anzahl der Lizenzen kann dem Abonnement nach dem ersten Kauf
-- Dieses Abonnement kann nicht abgebrochen werden und kann nicht zurückerstattet werden.
+- Die Laufzeit beträgt 72 Monate oder sechs Jahre.
+- Das Abonnement wird nicht verlängert und läuft nach sechs Jahren ab.
+- Die Abrechnungshäufigkeit für das Angebot wird als jährlich angezeigt, dem Partner wird jedoch nach dem Erwerb des Abonnements die erste Rechnung in Rechnung gestellt.
+- Abonnements für A1-Angebote mit 72 Monaten sind nach dem Kauf gesperrt und können nicht storniert werden, und die Anzahl der Lizenzen kann dem Abonnement nach dem ersten Kauf nicht hinzugefügt werden.
+- Dieses Abonnement kann nicht storniert und nicht rückerstattet werden.
 
 ## <a name="estimated-retail-price-erp"></a>Geschätzter Einzelhandelspreis (ERP)
 
-Die meisten Preislisten enthalten einen Listenpreis, den Preis, der dem Partner in Rechnung gestellt wird, und den geschätzten Einzelhandelspreis. Der geschätzte Einzelhandelspreis (ERP) wird auch als von Microsoft empfohlener Einzelhandelspreis oder MSRP bezeichnet. Diese beiden Werte, ERP und MSRP, stellen den geschätzten Markt Wert der Produkte dar, wenn ein Kunde die Produkte direkt von Microsoft kaufen würde. Im folgenden finden Sie Informationen zu ERP/MSRP-Details für die einzelnen Produkt-oder Dienst Typen. 
+Die meisten Preislisten enthalten einen Listenpreis, den Preis, der dem Partner in Rechnung steht, und den geschätzten Einzelhandelspreis. Der geschätzte Einzelhandelspreis (ESTIMATED Retail Price, ERP) wird auch als von Microsoft vorgeschlagener Einzelhandelspreis oder MSRP bezeichnet. Diese beiden Werte, ERP und MSRP, stellen den geschätzten Marktwert der Produkte dar, wenn ein Kunde die Produkte direkt bei Microsoft kaufen würde. Im Folgenden finden Sie ERP/MSRP-Details für die einzelnen Produkt- oder Diensttypen. 
 
 
-|**Produkt oder Dienst**        |**Details zur ERP-und MSRP-Preisliste**      |
+|**Produkt oder Dienst**        |**ERP- und MSRP-Preislistendetails**      |
 |:-----------   |:-----------   |
-|Produkt oder Dienst  |Details zur ERP-und MSRP-Preisliste  |
+|Produkt oder Dienst  |ERP- und MSRP-Preislistendetails  |
 |Lizenzbasierte Dienste  |In den lizenzbasierten Preislisten als ERP aufgeführt  |
-|Nutzungsbasierte Azure-Dienste  |Finden Sie in den entsprechenden Preislisten für gemeinsame Dienste.  |
-|Azure Reservations  |Finden Sie in den entsprechenden Preislisten für gemeinsame Dienste.  |
-|Verwendung basierend auf Azure-Plänen  |Preise sind nicht Rabatt in Preistabellen  |
-|Azure-Plan Reservierungen  |Referenz zu Preislisten für gemeinsame Dienste von Azure-Reservierungen  |
-|Softwareabonnements  |Aufgeführt als msrp in den Preislisten zu Software Abonnements  |
-|Marketplace  |Aufgeführt als msrp in Marketplace-Preislisten  |
+|Nutzungsbasierte Azure-Dienste  |Entsprechende Preislisten für gemeinsame Dienste finden Sie hier.  |
+|Azure-Reservierungen  |Entsprechende Preislisten für gemeinsame Dienste finden Sie hier.  |
+|Nutzungsbasierte Azure-Pläne  |Preise werden in Preisblättern ohne Rabatt für den Einzelhandel angegeben.  |
+|Azure-Planreservierungen  |Referenz zu Den Preislisten für gemeinsam genutzte Azure-Reservierungen  |
+|Softwareabonnements  |In Preislisten für Softwareabonnements als MSRP aufgeführt  |
+|Marketplace  |In Marketplace-Preislisten als MSRP aufgeführt  |
 
 Weitere Ressourcen: 
 
-- [Preise für Azure-Plan](azure-plan-price-list.md)
-- [Übersicht über Azure-Preise](https://azure.microsoft.com/pricing/)
+- [Azure-Plan – Preise](azure-plan-price-list.md)
+- [Übersicht über die Azure-Preise](https://azure.microsoft.com/pricing/)

@@ -1,35 +1,29 @@
 ---
-title: Abrechnungs Support für Kunden
+title: Anbieten von Abrechnungssupport für Kunden
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie mehr über den Kunden Abrechnungs Support, der von CSP-Programmpartnern benötigt wird. Diese Unterstützung umfasst das Besitz der Kunden abrechnungsbeziehung und das Beantworten von Abrechnungsfragen.
+description: Erfahren Sie mehr über den Kundenabrechnungssupport, der von CSP-Programmpartnern benötigt wird. Dieser Support umfasst das Besitzen der Kundenabrechnungsbeziehung und das Beantworten von Abrechnungsfragen.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b369cd263f1852c54c260fa39860e7acafae5f90
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: dd8a9b09d4dbd45c0d76bce1674babfd5e17cdbe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633657"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854127"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Bereitstellen von Abrechnungssupport für Kunden und Beantworten von Fragen zur Abrechnung
 
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Globale Administratorrechte | Administratorrechte für | Helpdesk-| Abrechnungsadministrator| Vertriebs-Agent
 
-- Globaler Administrator
-- Benutzerverwaltungsadministrator
-- Helpdesk-Agent
-- Abrechnungsadministrator
-- Vertriebsbeauftragter
+Sie besitzen die Abrechnungsbeziehung mit Ihren Kunden und sind für die Beantwortung der abrechnungsbezogenen Fragen ihrer Kunden verantwortlich.
 
-Sie besitzen die abrechnungsbeziehung mit ihren Kunden, und Sie sind dafür verantwortlich, die Abrechnungs bezogenen Fragen zu beantworten, die Ihre Kunden möglicherweise haben.
-
-- Sie sind für die Zeit Zahlungen an Microsoft verantwortlich.
+- Sie sind für die zeitbasierten Zahlungen an Microsoft verantwortlich.
 
 - Es wird empfohlen, eine klare Abrechnungsrichtlinie für Kunden aufzustellen, in der Ihr Abrechnungsprozess detailliert geregelt wird und in der die Auswirkungen auf den Zugriff auf Abonnements, Dienste oder Software beschrieben sind.
 
@@ -39,12 +33,12 @@ Sie besitzen die abrechnungsbeziehung mit ihren Kunden, und Sie sind dafür vera
 
 Partner des CSP-Modells sind vertrauenswürdige Berater für ihre Kunden und für die gesamte Kundenbeziehung zuständig. Hierzu gehört auch eine entsprechende Unterstützung, wenn der Kunde eine Frage oder ein Problem hat. Durch die Supportkontakte können Partner mehr über den Kunden und sein Unternehmen lernen und auch neue Dienste und Lösungen identifizieren, die den Nutzen erhöhen.
 
-Um die Supportanforderungen zu erfüllen, kann der Partner Support von einer anderen Entität weiterverkaufen, die gesamte Supportstruktur oder einen Teil davon auslagern und/oder eine Struktur einrichten, um direkte Unterstützung anzubieten.  Der Partner kann Kunden den Support vollständig oder teilweise in Rechnung stellen. Der Partner sollte für seine Kunden die von Ihnen bereitgestellte Unterstützung, die Dienststunden und die Kontaktmethode sowie die Preise (bei einem gebührenpflichtigen Support) formulieren. 
+Um die Supportanforderungen zu erfüllen, kann der Partner Support von einer anderen Entität weiterverkaufen, die gesamte Supportstruktur oder einen Teil davon auslagern und/oder eine Struktur einrichten, um direkte Unterstützung anzubieten.  Der Partner kann Kunden den Support vollständig oder teilweise in Rechnung stellen. Der Partner sollte seinen Kunden den Support, die Dienstzeiten und die Kontaktmethode sowie die Preise (bei Gebühren für Support) bereitstellen. 
 
 >[!Note]
 >Wenn Sie kein CSP sind und Fragen zur Kundenabrechnung haben, lesen Sie das spezifische Portal für die entsprechenden Produkte oder Dienste.
 
-Partner müssen eingehende Supportanfragen von Kunden erhalten, Probleme diagnostizieren, um die bestmögliche Fähigkeit des Partners zu diagnostizieren und dann Probleme zu beheben, die sich innerhalb des Bereichs der Basis Linien-Unterstützungs Grenzen befinden. Wenn der Partner ein Problem nicht lösen kann, kann er es an Microsoft über die folgenden Supportwerkzeuge eskalieren:
+Partner müssen eingehende Supportanfragen von Kunden erhalten, Probleme so diagnostizieren, dass sie die Möglichkeiten des Partners optimal erfüllen, und dann Probleme beheben, die innerhalb der Grenzen des Baselinesupports liegen. Wenn der Partner ein Problem nicht lösen kann, kann er es an Microsoft über die folgenden Supportwerkzeuge eskalieren:
 
 - Support für **kommerzielle** Probleme ist für alle Partner im CSP-Programm verfügbar.
 

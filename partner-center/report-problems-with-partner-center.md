@@ -1,61 +1,57 @@
 ---
-title: Anfragen und Diagnosetool des Partner Center-Portals
+title: Partner Center Portalanforderungen und Diagnosetool
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Erfahren Sie, wie Sie Probleme mit dem Partner Center melden und Diagnoseinformationen für das Partner Support Team sammeln.
+description: Erfahren Sie, wie Sie Probleme mit Partner Center melden und Diagnoseinformationen für das Partnersupportteam sammeln.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b009d7131f9d6941513a04e866006d1908ba741
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441641"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855606"
 ---
-# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Anfragen und Diagnosetool des Partner Center-Portals
+# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>Partner Center Portalanforderungen und Diagnosetool
 
-**Zielgruppe**
+**Gilt für**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partner Center für Microsoft Cloud for US Government
+**Geeignete Rollen:** Alle Partner, die an Partner Center interessiert sind
 
-**Geeignete Rollen**
-
-- Alle Partner, die an Partner Center interessiert sind
-
-Alle angemeldeten Partner Center-Benutzer können eine Partner Supportanfrage erstellen. Benutzer können nur Supportanfragen anzeigen, die Sie nach der Anmeldung beim Partner Center übermittelt haben.
-Wenden Sie sich an den Partner Center-Support, wenn Sie Probleme finden oder Hilfe bei den Fehlern im Partner Center-Portal Senden Sie Diagnoseinformationen, damit das Problem schneller behoben werden kann.
+Alle angemeldeten Partner Center Benutzer können eine Partnersupportanfrage erstellen. Benutzer können Supportanfragen, die sie nach der Anmeldung bei Partner Center übermittelt haben, nur anzeigen.
+Wenden Sie sich an Partner Center Support, wenn Sie Probleme finden oder Hilfe bei Partner Center Portalfehlern benötigen. Senden Sie diagnose, damit das Problem schneller behoben werden kann.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Melden eines Problems mit Partner Center
 
-1. Wählen Sie in Ihrem **Partner Center** -Dashboard **Unterstützung** und dann **Partner Supportanfragen** aus.
+1. Wählen Sie in Ihrem **Partner Center-Dashboard** **die** Option Support und dann **Partnersupportanfragen** aus.
 
-2. Wählen Sie **neue Anforderung** aus, und suchen Sie dann nach dem Problemtyp, der Ihr Problem am besten beschreibt. Wählen Sie den Problemtyp aus, und **Überprüfen Sie Lösungen**
+2. Wählen Sie **Neue Anforderung** aus, und suchen Sie dann nach dem Problemtyp, der Ihr Problem am besten beschreibt. Wählen Sie den Problemtyp und **Lösungen überprüfen aus.**
 
-3. Auf der Seite **Empfohlene Lösungen** finden Sie Schritte oder Verwandte Dokumente, die Ihnen helfen können, Ihr Problem zu beheben.
+3. Auf der Seite **Empfohlene Lösungen** finden Sie Schritte oder zugehörige Dokumente, die Ihnen bei der Lösung Ihres Problems helfen können.
 
-4. Wenn die **empfohlenen Lösungen** das Problem gelöst haben, können Sie **zum Dashboard zurückkehren** auswählen. Wenn Sie trotzdem Hilfe benötigen, können Sie den Vorgang fortsetzen und **Problem Details angeben**.
+4. Wenn das Problem mit **den empfohlenen Lösungen** gelöst wurde, können Sie **zum Dashboard zurückkehren** auswählen. Wenn Sie weiterhin Hilfe benötigen, können Sie fortfahren und **Problemdetails angeben.**
 
-5. Vervollständigen Sie die **Problem Details** , und über **Mitteln** Sie Sie. Ein Partner-Supportmitarbeiter wird sich bei Ihnen melden.
+5. Füllen Sie die **Problemdetails** aus, und **senden Sie** dann . Ein Partner-Supportmitarbeiter wird sich bei Ihnen melden.
 
-## <a name="schedule-a-support-appointment"></a>Planen eines Support Termins 
+## <a name="schedule-a-support-appointment"></a>Planen eines Supporttermins 
 
-**Derzeit als Vorschau verfügbar*
+**Derzeit in der Vorschau*
 
-Wenn Ihr Problem eine Konversation mit Ihrem Support Advocate erfordert, können Sie den Termin in den ticketdetails planen.
+Wenn Ihr Problem eine Konversation mit Ihrem Support advocate erfordert, können Sie den Termin über Ihre Ticketdetails planen.
 
-:::image type="content" source="images/support/ticket.png" alt-text="Planen eines Support Termins":::
+:::image type="content" source="images/support/ticket.png" alt-text="Planen eines Supporttermins":::
 
-1.  Wählen Sie auf der Seite ticketdetails im Partner Center ein verfügbares Datum und eine Uhrzeit für den Support Advocate-Kalender aus. In Ihrer lokalen Zeitzone werden nur die verfügbaren Datumsangaben und Uhrzeiten angezeigt.
+1.  Wählen Sie auf der Ticketdetailsepage in Partner Center ein verfügbares Datum und eine verfügbare Uhrzeit im Kalender des Support advocate aus. In Ihrer lokalen Zeitzone werden nur verfügbare Datums- und Uhrzeitangaben zu sehen sein.
 
-:::image type="content" source="images/support/ticket2.png" alt-text="Terminplan Termin":::
+:::image type="content" source="images/support/ticket2.png" alt-text="Termin planen":::
 
-2. Partner Center prüft den Support Advocate-Kalender auf Verfügbarkeit.
+2. Partner Center überprüft den Kalender des Support advocate auf Verfügbarkeit.
 
-1. Wenn Sie einen Termin planen, sendet Partner Center Ihnen eine Kalender Einladung mit Informationen dazu, wie der Support Advocate Sie kontaktiert, damit Sie diesen Termin in Ihrem eigenen Arbeitskalender nachverfolgen können.  Diese Funktion befindet sich immer noch in der Vorschau Phase, aber die e-Mail-und Kalender Einladung ist in englischer Sprache, aber der Advocate kann Sie in der Sprache unterstützen, die Sie beim Erstellen Ihres Tickets ausgewählt haben.
+1. Wenn Sie einen Termin planen, sendet Partner Center Ihnen eine Kalendereinladung mit Informationen dazu, wie der Support Advocate Sie kontaktieren wird, damit Sie diesen Termin in Ihrem eigenen Arbeitskalender nachverfolgen können.  Diese Funktion befindet sich zwar noch in der Vorschau, die E-Mail- und Kalendereinladung ist jedoch auf Englisch, aber der Advocate kann Sie in der Sprache unterstützen, die Sie beim Erstellen Ihres Tickets ausgewählt haben.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Datum und Uhrzeit":::
 
@@ -63,14 +59,14 @@ Wenn Ihr Problem eine Konversation mit Ihrem Support Advocate erfordert, können
 
 **Partnersupport**
 
-:::image type="content" source="images/support/hoop.png" alt-text="Support Stunden des Vorgangs":::
+:::image type="content" source="images/support/hoop.png" alt-text="Supportstunden des Betriebs":::
 
 ## <a name="send-diagnostics"></a>Senden von Diagnosen
 
-Wenn ein Fehler auftritt, während Sie sich auf einer Partner Center-Seite befinden, werden Sie möglicherweise aufgefordert, Protokollinformationen zu sammeln. Wählen Sie **Weitere Informationen sammeln** aus dem Link aus, der oben auf der Seite angezeigt wird, um das Client Diagnosetool zu öffnen. Mit diesem Tool werden Informationen gesammelt, die vom Supportteam des Partners benötigt werden, um die Ursache des Fehlers zu ermitteln. 
+Wenn ein Fehler auftritt, während Sie sich auf einer seite Partner Center, werden Sie möglicherweise aufgefordert, Protokollinformationen zu erfassen. Klicken **Sie über den Link,** der oben auf der Seite nach unten angezeigt wird, auf Weitere Informationen sammeln, um das Clientdiagnosetool zu öffnen. Mit diesem Tool werden Informationen gesammelt, die vom Supportteam des Partners benötigt werden, um die Ursache des Fehlers zu ermitteln. 
 
 >[!NOTE]
->Auf Partner Center-Seiten, die **/PCV/** in der URL enthalten, können Sie das Tool manuell öffnen, um diese Informationen zu sammeln.
+>Auf Partner Center Seiten, die **/pcv/** in der URL enthalten, können Sie das Tool manuell öffnen, um diese Informationen zu sammeln.
 
 1. Wechseln Sie auf die Seite mit dem Problem.
 
@@ -78,7 +74,7 @@ Wenn ein Fehler auftritt, während Sie sich auf einer Partner Center-Seite befin
 
 Sie erhalten eine Vorschau der Diagnoseinformationen und können diese auf eine Datei speichern, die Sie der Anfrage hinzufügen können. So senden Sie uns die Informationen:
 
-3. Überprüfen Sie die Informationen in der Datei, bevor Sie Sie senden, da Sie personenbezogene Daten enthalten kann, die Sie möglicherweise entfernen möchten.
+3. Überprüfen Sie die Informationen in der Datei, bevor Sie sie senden, da sie personenbezogene Daten enthalten kann, die Sie möglicherweise entfernen möchten.
 
     >[!NOTE]
     >In einigen Browsern wird der Abschnitt **Seitenansicht** am unteren Rand der Seite **Vorschau** möglicherweise leer angezeigt. Dies ist in Ordnung.
@@ -91,4 +87,4 @@ Der Partner-Support fordert Sie unter Umständen dazu auf, dieses Tool mehrmals 
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Melden eines Dienst Problems im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md)
+- [Melden eines Dienstproblems im Auftrag eines Kunden](report-problems-on-behalf-of-a-customer.md)

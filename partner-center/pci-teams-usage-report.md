@@ -1,75 +1,70 @@
 ---
-title: Verwendungs Bericht für Partner Center Insights-Teams
+title: Nutzungsbericht für Partner Center Insights-Teams
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Sehen Sie sich an, was Sie gut machen und wo Sie die Verwendung von Teams-Abonnements verbessern können, die Sie für Ihre Kunden verkaufen oder verwalten.
+description: Sehen Sie sich an, was Ihnen gut geht und wo Sie die Nutzung von Teams-Abonnements verbessern können, die Sie für Ihre Kunden verkaufen oder verwalten.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: c4bf8a3aa0365b30d7de56cb599e3db087cb4c05
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086718"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855181"
 ---
-# <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Der Team Verwendungs Bericht, der im Partner Center Insights-Dashboard verfügbar ist.
+# <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Teams-Nutzungsbericht, der über das Dashboard Partner Center Insights verfügbar ist
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Globale Administratorrechte | Administrator-Agent| Berichts-Viewer| Executive Report Viewer
 
-- Globaler Administrator
-- Administrator-Agent
-- Berichtleser
-- Executive Report-Leser
-
-Der Bericht "Team Nutzung" enthält Metriken, die sich auf die Workloads ihrer Teams beziehen, die Sie für Ihre Kunden verkauft oder verwaltet haben Die folgenden Abschnitte können Sie im Bericht zur Verwendung von Teams anzeigen.
+Der Bericht "Teams-Nutzung" enthält Metriken zu Ihren Teams-Workloads, die Sie für Ihre Kunden verkauft oder verwaltet haben. Sie können die folgenden Abschnitte im Bericht zur Teams-Nutzung anzeigen.
 
 - Zusammenfassung
-- Konversationen Trend
-- Verwendung von Teams nach Workloads
+- Konversationstrend
+- Teams-Nutzung nach Workloads
 - Top-Kunden nach Nutzung
 
  > [!NOTE]
- > Dieser Bericht ist über das Insights-Dashboard verfügbar. Zum Anzeigen dieses Berichts müssen Sie eine bestimmte Rolle im Partner Center zuweisen, z. b. globaler Administrator, Konto Administrator, Berichts-Viewer oder Executive Report Viewer. Weitere Informationen finden Sie unter der globale Administrator Ihres Unternehmens. bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Administratorrechte für Berichte verfügen.
+ > Dieser Bericht ist über das Insights-Dashboard verfügbar. Um diesen Bericht anzeigen zu können, muss Ihnen eine bestimmte Rolle in Partner Center zugewiesen werden, z. B. globaler Administrator, Kontoadministrator, Berichts-Viewer oder Berichts-Viewer für Führungskräfte. Weitere Informationen finden Sie im globalen Administrator Ihres Unternehmens. Bestimmte Datentypen in diesem Bericht sind möglicherweise auch nur für Benutzer verfügbar, die über Berechtigungen des Berichts-Viewers verfügen.
 
 ## <a name="summary"></a>Zusammenfassung
 
-Der Abschnitt "Zusammenfassung" enthält eine Momentaufnahme Ansicht der wichtigsten Indikatoren im Zusammenhang mit Teams-Workloads, die von Ihnen für Ihre Kunden verkauft oder verwaltet werden.  
+Der Zusammenfassungsabschnitt enthält eine Momentaufnahmeansicht der Wichtigsten Indikatoren im Zusammenhang mit Teams-Workloads, die von Ihnen für Ihre Kunden verkauft oder verwaltet werden.  
 
-- Kunden: eindeutige Anzahl von Kunden, die Teams als Arbeitsauslastung für den ausgewählten Zeitraum verwenden.
+- Kunden: Eindeutige Anzahl von Kunden, die Teams als Workload für die ausgewählte Dauer verwenden.
 
-- Anzahl der Besprechungen: Anzahl der Teams, die von ihren Kunden durchgeführt werden.
+- Anzahl der Besprechungen: Anzahl von Teams-Besprechungen, die von Ihren Kunden durchgeführt werden.
 
-- Tägliche durchschnittliche Besprechungs Anzahl pro Kunde: tägliche durchschnittliche Besprechungs Anzahl pro Kunde. 
+- Tägliche durchschnittliche Anzahl von Besprechungen pro Kunde: Tägliche durchschnittliche Anzahl von Besprechungen pro Kunde. 
 
-- Besprechungs Dauer (Stunden): gesamte Besprechungs Dauer (in Stunden). 
+- Besprechungsdauer (Stunden): Gesamtdauer der Besprechung in Stunden. 
 
-- Durchschnittliche Besprechungs Dauer (Minuten): durchschnittliche Besprechungs Dauer (in Minuten). 
+- Durchschnittliche Besprechungsdauer (Minuten): Durchschnittliche Besprechungsdauer in Minuten. 
 
-:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Zusammenfassung der Team Nutzung":::
+:::image type="content" source="images/pci/pci-teams-usage-summary.png" alt-text="Zusammenfassung der Teams-Nutzung":::
 
-## <a name="conversations-trend"></a>Konversationen Trend
+## <a name="conversations-trend"></a>Konversationstrend
 
-Der Trendbericht "Konversationen" zeigt den monatlichen Trend der Teambesprechungen, Anrufe und Telefonsysteme sowie die durchschnittliche Besprechungs Dauer in Minuten an.
+Der Bericht conversations trend (Konversationstrend) zeigt den monatlichen Trend von Teams-Besprechungen, Anrufen und Telefonsystemen zusammen mit der durchschnittlichen Besprechungsdauer in Minuten.
 
-:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="Teams Verwendungs Konversations Trends":::
+:::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="Konversationstrends bei der Teams-Nutzung":::
 
-## <a name="teams-usage-by-workloads"></a>Verwendung von Teams nach Workloads
+## <a name="teams-usage-by-workloads"></a>Teams-Nutzung nach Workloads
 
-Der Bericht "Team Nutzung nach Workloads" zeigt die monatliche Aufteilung der Desktop-, Mobil-und Webbenutzer von Teams, die nach Workloads aufgeteilt sind.
+Im Bericht Teams usage by workloads (Teams-Nutzung nach Workloads) wird die monatliche Aufteilung von Desktop-, mobilen und Webbenutzern von Teams nach Workloads angezeigt.
 
-:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Verwendung von Teams nach Workloads":::
+:::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="Teams-Nutzung nach Workloads":::
 
 ## <a name="top-customers-by-usage"></a>Top-Kunden nach Nutzung
 
-Der Bericht "Top Customers by Usage" zeigt die Nutzung der Top-Kunden für Teams Besprechungen, Anrufe, Telefonsysteme und Drittanbieter-apps.
+Im Bericht Top customers by usage (Top-Kunden nach Nutzung) wird die Nutzung der wichtigsten Kunden für Teams-Besprechungen, Anrufe und Telefonsysteme und Drittanbieter-Apps angezeigt.
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Top-Kunden nach Nutzung":::
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- Weitere Berichte finden Sie unter [Partner Center Insights](partner-center-insights.md).
+- Weitere Berichte finden Sie unter [Partner Center Insights.](partner-center-insights.md)
 
-- Sie können die Rohdaten, die diesen Bericht über den Abschnitt Berichte herunterladen im Insights-Dashboard herunterladen. [Weitere Informationen](pci-download-reports.md) 
+- Sie können die Rohdaten für diesen Bericht aus dem Abschnitt Berichte herunterladen im Insights-Dashboard herunterladen. [Weitere Informationen](pci-download-reports.md) 

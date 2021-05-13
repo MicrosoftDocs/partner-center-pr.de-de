@@ -1,100 +1,97 @@
 ---
-title: Upgrade von Windows 10 Home auf Windows 10 Education
+title: Upgrade Windows 10 Home auf Windows 10 Education
 ms.topic: article
 ms.date: 10/28/2020
-description: Erfahren Sie, wie Cloud Solution Provider-Partner (CSP) einige ihrer Bildungs Kunden von Windows 10 Home auf Windows 10 Education upgraden können.
+description: Erfahren Sie, Cloud Solution Provider CSP-Partner einige ihrer Education-Kunden von Windows 10 Home auf Windows 10 Education
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 806ddcd6e55a72ac2e1d15bdbec7c27c604917dc
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022739"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818693"
 ---
-# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Aktualisieren einiger Bildungs Kunden von Windows 10 Home auf Windows 10 Education
+# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Upgrade einiger Education-Kunden von Windows 10 Home auf Windows 10 Education
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Administrator-Agent| Abrechnungsadministrator
 
-- Administrator-Agent
-- Abrechnungsadministrator
+## <a name="overview"></a>Übersicht
 
-## <a name="overview"></a>Overview
-
-Ab dem 1. November 2020 können CSPs, die Microsoft 365 a3-oder A5-oder Windows 10 Enterprise a3-oder A5-Abonnements erworben haben, bei ihren Bildungs Kunden bei der Aktualisierung von Windows 10 Home auf Windows 10 Education helfen, das sowohl für den Classroom als auch für das Remote lernen konzipiert ist.
+Ab dem 1. November 2020 können CSPs, die Microsoft 365 A3- oder A5- oder Windows 10 Enterprise A3- oder A5-Abonnements erworben haben, ihren Education-Kunden beim Upgrade von Windows 10 Home auf Windows 10 Education helfen, das sowohl für classroom als auch für Remotelernen konzipiert ist.
 
 Ab dem 1. November 2020 ist Windows 10 Home ein qualifizierendes Betriebssystem für Kunden im Bildungswesen, die eine Lizenz über den Microsoft Cloud-Vertrag (durch CSP) besitzen. Diese Berechtigung, die bisher nur in den Bildungsprogrammen mit Volumenlizenzierung (VL) verfügbar war, wird über den Support für das Microsoft 365-Verwaltungsportal bereitgestellt. 
 
 ## <a name="how-the-upgrade-process-works"></a>Ablauf des Upgradeprozesses
 
-CSP-Partner können Ihre Kunden beim Upgrade unterstützen, indem sie eine Supportanfrage in deren Namen einreichen. Microsoft-Support prüft die Anforderung, um sicherzustellen, dass sich der Kunde qualifiziert. Nachdem die Anforderung genehmigt wurde, stellt der Support dem Partner den Windows 10 pro Education-Schlüssel zur Verfügung, der dem Kunden die Möglichkeit geben kann.
+CSP-Partner können Ihre Kunden beim Upgrade unterstützen, indem sie eine Supportanfrage in deren Namen einreichen. Microsoft-Support überprüft die Anforderung, um sicherzustellen, dass der Kunde qualifiziert ist. Sobald die Anforderung genehmigt wurde, stellt der Support den Windows 10 Pro Education Schlüssel an den Partner zur Verfügung, der ihn dann an den Kunden senden kann.
 
 Sobald der Kunde den Schlüssel installiert und das Gerät über Azure Active Directory (AAD) der Mandantendomäne hinzugefügt wird, erfolgt automatisch ein Upgrade des Geräts auf Windows 10 Education (Abonnement).   
 
-## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>Schritt-für-Schritt-Anleitung für Kunden zum Einstieg in Windows 10 Education
+## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>Schritt-für-Schritt-Prozess für Kunden zum Windows 10 Education
 
-Partner sollten eine Supportanfrage erstellen und Schlüssel aus dem Support erhalten. Partner geben diese Schlüssel dann für Ihre Kunden frei.
+Partner sollten eine Supportanfrage erstellen und Schlüssel vom Support erhalten. Partner geben diese Schlüssel dann für ihre Kunden weiter.
 
-### <a name="partners--how-to-get-the-keys"></a>Partner – so erhalten Sie die folgenden Schlüssel:
+### <a name="partners--how-to-get-the-keys"></a>Partner: Informationen zum Erhalten der Schlüssel:
 
 1. Melden Sie sich beim [Partner Center-Dashboard](https://partner.microsoft.com/dashboard) an.
 
-2. Wählen Sie im Partner Center-Menü **Kunden** aus, und wählen Sie dann den Kunden aus, der Unterstützung benötigt.
+2. Wählen Sie Partner Center Menü Kunden **aus,** und wählen Sie dann den Kunden aus, der Support benötigt.
 
 3. Wählen Sie **Dienstverwaltung** und dann **Serviceanfragen** aus.
 
-4. Wählen Sie **neue Anforderung** aus, und wählen Sie dann **Office 365 und Enterprise Mobility Suite** aus.
+4. Wählen **Sie Neue Anforderung** und dann Office **365 und Enterprise Mobility Suite aus.**
 
 5. Sie gelangen zum Office 365-Portal. Hier melden Sie sich mit Ihren Partner Center-Anmeldeinformationen an.
 
-6. Wählen Sie im Menü auf der linken Seite **Support, neue Dienst** Anfrage aus.
+6. Select **Support, New service** request from left-hand menu.
 
-7. Fügen Sie die folgenden Details in das Supportanfrage ein:
+7. Fügen Sie die folgenden Details in die Supportanfrage:
 
-- **Titel:** Upgrade von Windows 10 Home auf Windows 10 Education Product Key
-- **Beschreibung:** Anfordern von [Insert number]-Schlüsseln zum Aktivieren des Upgrades auf Windows 10 Education. (Beachten Sie, dass die Anzahl der angeforderten Schlüssel nicht größer sein darf als die Microsoft 365 a3/A5-oder Windows 10 Enterprise a3/A5-Abonnement Lizenzen.) Abonnement-ID des Kunden [fügen Sie die Abonnement-ID-GUID für das Microsoft 365 a3/A5-oder Windows 10 Enterprise a3/A5-Abonnement ein.]
-- **Kontaktnummer:** Diese wird vorab ausgefüllt. Lesen Sie, um zu bestätigen oder zu aktualisieren.
-- **E-Mail:** Dies wird vorab ausgefüllt und sollte die e-Mail-Adresse sein, die Sie als Administrator des Microsoft-Portals verwenden (nur globaler Administrator oder Abrechnungs Administrator).
-- **Bevorzugte Kontaktmethode**: Wählen Sie **Telefon** aus, oder **Planen Sie einen Rückruf**.
+- **Titel:** Windows 10 Home, um Windows 10 Education Product Key zu aktualisieren
+- **Beschreibung:** Anfordern von [Einfügenummer]-Schlüsseln, um das Upgrade auf Windows 10 Education. (Beachten Sie, dass die Anzahl der angeforderten Schlüssel nicht größer als Ihre Microsoft 365 A3/A5- oder Windows 10 Enterprise A3/A5-Abonnementlizenzen sein darf.) Abonnement-ID des Kunden [Fügen Sie die KUNDENabonnement-ID-GUID für Microsoft 365 A3/A5 oder Windows 10 Enterprise A3/A5-Abonnement ein.]
+- **Kontaktnummer:** Dies wird vorab ausgefüllt. überprüfen, um zu bestätigen oder zu aktualisieren.
+- **E-Mail-Adresse:** Dies ist bereits ausgefüllt und sollte die E-Mail sein, die Sie als Administrator im Microsoft-Portal verwenden (nur globaler Administrator oder Abrechnungsadministrator).
+- **Bevorzugte Kontaktmethode:** Wählen Sie **Telefon** aus, oder **planen Sie einen Rückruf.**
 
-8. Wählen Sie **Kontaktaufnahme** aus. Die erwartete Wartezeit ist im Bereich erforderliche **Hilfe?** angegeben.
+8. Wählen Sie **Kontakt mit mir aufnehmen** aus. Die erwartete Wartezeit wird im Bereich **Hilfe benötigen?** angezeigt.
 
-9. **Microsoft-Support** wird die Anforderung überprüfen, um sicherzustellen, dass der Kunde qualifiziert ist. Nachdem die Anforderung genehmigt wurde, sendet Sie eine e-Mail an den Partner, die Anweisungen zum Zugreifen auf die Schlüssel enthält.
+9. **Microsoft-Support** überprüft die Anforderung, um sicherzustellen, dass der Kunde qualifiziert ist. Sobald die Anforderung genehmigt wurde, sendet sie eine E-Mail an den Partner, die Anweisungen zum Zugriff auf die Schlüssel enthält.
 
-10. **Partner** geben die Schlüssel und andere Anweisungen an Ihre Kunden weiter.
+10. **Partner** geben die Schlüssel und andere Anweisungen für ihre Kunden frei.
 
 ### <a name="customer-applies-the-upgrade"></a>Der Kunde wendet das Upgrade an:
 
-Zum Aktualisieren von Windows 10 Home mithilfe eines Windows 10 pro Education-Product Key muss der Kunde die folgenden Schritte ausführen:  
+Um Windows 10 Home mit einem Windows 10 Pro Education Product Key zu aktualisieren, muss der Kunde folgende Schritte ausführen:  
 
-1. Klicken Sie auf **Start**, und wählen Sie dann **Einstellungen > aktualisieren Sie & Sicherheits > Aktivierung** aus. Wählen Sie **Product Key ändern** aus, und geben Sie dann den 25-stelligen Windows 10 pro-Product Key ein. Wählen Sie **weiter** aus, um das Upgrade auf Windows 10 pro zu starten.
+1. Wählen Sie **Start** und dann **Einstellungen > Update & Security > Activation** aus. Wählen Sie **Product Key ändern** aus, und geben Sie dann die 25 Zeichen Windows 10 Pro Product Key ein. Wählen Sie **Weiter** aus, um das Upgrade auf Windows 10 Pro zu starten.
 
-2. Wenn das Gerät der Mandanten Domäne (über AAD) hinzugefügt wird, wird das Gerät automatisch auf Windows 10 Education aktualisiert.  
+2. Wenn das Gerät der Mandantendomäne (über AAD) beigetreten ist, wird das Gerät automatisch auf Windows 10 Education aktualisiert.  
 
 ## <a name="frequently-asked-questions"></a>Häufig gestellte Fragen
 
 **Welche Kunden sind berechtigt?**
-CSP-Kunden, die sich als akademisch qualifizieren und über aktive Windows 10 Enterprise a3/A5-oder Microsoft 365 a3/A5-lizenzabonnements verfügen, können Ihre Windows 10-Heimgeräte auf Windows 10 Education upgraden. Leiten Sie andere Bildungs Kunden, die diese Angebote über VL lizenzieren, an das Volume Licensing Service Center (VLSC) weiter.
+CSP-Kunden, die als akademische Abonnements qualifiziert sind und über aktive Windows 10 Enterprise A3/A5- oder Microsoft 365 A3/A5-Lizenzabonnements verfügen, können ihre Windows 10 Home Geräte auf Windows 10 Education aktualisieren. Leiten Sie andere Education-Kunden, die diese Angebote über VL lizenzieren, an das Volume Licensing Service Center (VLSC) weiter.
 
 **Können meine VL-Kunden diesen Prozess verwenden?**
-Nein, VL-Kunden, die Lizenzen über die Registrierung für Bildungseinrichtungen (EES), Open Value-Abonnements für Education Solutions (OVS-es) und School (School) erhalten, sollten Sie den [VLSC](https://www.microsoft.com/Licensing/servicecenter/default.aspx) besuchen, um Produkte und Schlüssel herunterzuladen. 
+Nein, VL-Kunden, die eine Lizenz über Enrollment for Education Solutions (EES), Open Value Subscription for Education Solutions (OVS-ES) und School erwerben, sollten zu [VLSC](https://www.microsoft.com/Licensing/servicecenter/default.aspx) wechseln, um Produkte und Schlüssel herunterzuladen. 
 
-**Der Kunde benötigt mehr Schlüssel als ursprünglich angefordert. Wie kann ich Sie erhalten?**
-Sie können eine zusätzliche Supportanfrage für Schlüssel für die Windows 10-Heimgeräte Ihres Kunden einreichen. Die Gesamtmenge über mehrere Anforderungen hinweg sollte nicht größer sein als die Gesamtanzahl der aktiven Lizenzen für Microsoft 365 a3/A5-oder Windows 10 Enterprise a3/A5-Abonnements.
+**Mein Kunde benötigt mehr Schlüssel als ursprünglich angefordert. Wie erhalte ich sie?**
+Sie können eine zusätzliche Supportanfrage für Schlüssel für die Windows 10 Home Geräte Ihres Kunden übermitteln. Die Gesamtmenge über mehrere Anforderungen sollte nicht größer sein als die Gesamtanzahl der aktiven Lizenzen für Microsoft 365 A3/A5- oder Windows 10 Enterprise A3/A5-Abonnements.
 
-**Meine Kunden sind im Begriff, mehr Windows 10-Heimgeräte zu erwerben. Können Sie weitere Upgrades erhalten?**
-Bildungs Kunden sollten kostengünstige Windows 10-Schulungsgeräte über unsere [Form des zukünftigen](https://www.microsoft.com/education/products/windows/shapethefuture.aspx) Programms in Erwägung gezogen werden, und es entfällt, dass Windows 10-Heimgeräte aktualisiert werden müssen. Wenn Sie mehr Windows 10-Heimgeräte erwerben, müssen Partner über das Microsoft-Verwaltungs Portal eine neue Supportanfrage einreichen.
+**Mein Kunde ist dabei, weitere gerätespezifische Windows 10 Home zu kaufen. Können sie weitere Upgrades erhalten?**
+Education-Kunden sollten im Rahmen unseres Shape the Future-Programms kostengünstige Windows 10 Education berücksichtigen und kein Upgrade für Windows 10 Home durchführen. [](https://www.microsoft.com/education/products/windows/shapethefuture.aspx) Wenn sie mehr Windows 10 Home erwerben, müssen Partner über das Microsoft-Verwaltungsportal eine neue Supportanfrage senden.
 
-**Gibt es einen Stichtag für den Fall, dass der Support kontaktiert und der Upgradeschlüssel erhalten werden soll?**
-Das Windows 10 Education-Upgrade basiert auf den aktiven Microsoft 365 a3/A5-oder Windows 10 Enterprise a3/A5-lizenzabonnements des Kunden. Wenn der Kunde das Abonnement nicht verlängert oder verlängert, wird auch die Berechtigung für das Upgrade beendet.
+**Gibt es eine Frist, wann Sie sich an den Support wenden und den Upgradeschlüssel erhalten müssen?**
+Das Windows 10 Education upgrade basiert auf den aktiven A3/A5- Microsoft 365 A3/A5- oder Windows 10 Enterprise A3/A5-Lizenzabonnements des Kunden. Wenn der Kunde das Abonnement nicht verlängert oder verlängert, endet auch die Berechtigung zum Upgrade.
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-**Wo können Partner mehr über Windows 10 Education erfahren?**
+**Wo können Partner mehr über Windows 10 Education?**
 
-- [Windows-eduction-Features](https://www.microsoft.com/education/products/windows/features)
+- [Features für die Windows-Einführung](https://www.microsoft.com/education/products/windows/features)
 - [Windows Education Hub](/education/windows/)

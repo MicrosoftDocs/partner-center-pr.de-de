@@ -7,19 +7,16 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 255ae28af5b29645b06ad0ae6a1f9660ad334c3c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702806"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854842"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Einrichten von Auszahlungskonten und Steuerformularen
 
-**Geeignete Rollen**
-
-- Kontoadministrator
-- Globaler Administrator
+**Geeignete Rollen:** Kontoadministrator-| Globaler Administrator
 
 Um auf dem kommerziellen Marketplace Geld aus Angebotsverkäufen zu erhalten, müssen Sie in [Partner Center](https://partner.microsoft.com/dashboard) Ihr Auszahlungskonto einrichten und die erforderlichen Steuerformulare ausfüllen.
 
@@ -34,20 +31,20 @@ Nachdem Sie Ihr Konto eingerichtet haben, müssen Sie zwei Schritte ausführen, 
 - [Einrichten Ihres Auszahlungskontos](#payout-account)
 
 > [!NOTE]
-> Ausführliche Informationen dazu, wie und wann Sie für das Geld bezahlt werden, das Ihr Angebot macht, finden Sie unter [Erhalten von Zahlungen im kommerziellen Marketplace.](marketplace-get-paid.md)
+> Weitere Informationen dazu, wie und wann Sie für das Geld bezahlt werden, das Ihr Angebot macht, finden Sie unter Getting paid in the commercial marketplace (Erhalten von [Kostenpflichtigen im kommerziellen Marketplace).](marketplace-get-paid.md)
 
 ## <a name="tax-forms"></a>Steuerformulare
 
-Sie verwalten Ihr Steuerprofil und Ihre Steuerformulare auf der Seite **Auszahlung und Steuern** der Partner Center. Die Berechtigungen Ihrer Organisation bestimmen die angezeigten Profile und Informationen.
+Sie verwalten Ihr Steuerprofil und Ihre Steuerformulare auf der **Seite Auszahlung** und Steuer des Partner Center. Die Berechtigungen Ihrer Organisation bestimmen die Angezeigten Profile und Informationen.
 
 ### <a name="create-or-update-your-tax-profile"></a>Erstellen oder Aktualisieren Ihres Steuerprofils
 
-Zunächst müssen Sie ein Steuerprofil erstellen und es den Programmen zuweisen, an denen Sie teilnehmen. Verwenden Sie die folgenden Schritte, um Ihr *Steuerprofil* in Partner Center zu erstellen oder zu aktualisieren. Sie können Ihre Steuerformulare im Partner Center Dashboard auf elektronische Weise ausfüllen und übermitteln. In den meisten Fällen müssen Sie keine Formulare drucken und per E-Mail senden.
+Zunächst müssen Sie ein Steuerprofil erstellen und es den Programmen zuweisen, an denen Sie teilnehmen. Verwenden Sie die folgenden Schritte zum Erstellen oder Aktualisieren Ihres *Steuerprofils* in Partner Center. Sie können Ihre Steuerformulare auf dem Dashboard ausfüllen und Partner Center übermitteln. In den meisten Fällen müssen Sie keine Formulare drucken und per E-Mail versenden.
 
 > [!IMPORTANT]
 > In verschiedenen Ländern und Regionen gelten unterschiedliche Steueranforderungen. Wie viele Steuern Sie genau abführen müssen, hängt von den Ländern und Regionen ab, in denen Sie Ihr Angebot bereitstellen. Unter [Microsoft Azure Marketplace – Herausgebervertrag](https://go.microsoft.com/fwlink/p/?LinkID=699560) ist angegeben, für welche Länder/Regionen Microsoft die Mehrwertsteuer und Verbrauchssteuer für Sie überweist. Abhängig davon, wo Sie registriert sind, müssen Sie in anderen Ländern/Regionen unter Umständen die Mehrwert- und Verbrauchssteuer für Ihre Angebotsverkäufe direkt an die örtliche Steuerbehörde abführen. Darüber hinaus können Ihre erhaltenen App-Verkaufserlöse unter Umständen als Einkommen steuerbar sein. Es wird dringend empfohlen, sich an die entsprechende Behörde für Ihr Land bzw. Ihre Region zu wenden. Diese kann Ihnen am besten dabei helfen, die richtige Besteuerung für Ihre Aktivitäten auf dem kommerziellen Marketplace zu ermitteln.
 
-1. Wählen Sie im [Partner Center Dashboard](https://partner.microsoft.com/dashboard)das Zahnradsymbol **Einstellungen** in der oberen rechten Ecke und dann **Kontoeinstellungen** aus.
+1. Wählen Sie [Partner Center Dashboard](https://partner.microsoft.com/dashboard)das  Zahnradsymbol Einstellungen in der oberen rechten Ecke und dann **Kontoeinstellungen aus.**
 
 2. Wählen Sie im Navigationsmenü auf der linken Seite die Option **Auszahlung und Steuer** und dann **Auszahlungs- und Steuerprofilzuweisung** aus.
 
@@ -55,7 +52,7 @@ Zunächst müssen Sie ein Steuerprofil erstellen und es den Programmen zuweisen,
 
 4. Falls Sie ein vorhandenes Steuerprofil verwenden möchten, können Sie es in der Dropdownliste auswählen. Wählen Sie andernfalls die Option **Neues Profil erstellen** und dann **Senden** aus. Sie gelangen auf die Steuerprofilseite.
 
-5. Wählen Sie die Schaltfläche **Bearbeiten** aus, um Ihre Steuerinformationen zu bearbeiten.
+5. Wählen Sie die **Schaltfläche Bearbeiten** aus, um Ihre Steuerinformationen zu bearbeiten.
 
 6. Aktivieren Sie das entsprechende Optionsfeld, und wählen Sie Ihr Land/Ihre Region aus, wenn Sie dazu aufgefordert werden. Mit diesem Schritt wird die Microsoft-Geschäftseinheit festgelegt, die verwendet wird, um die Auszahlungen für Ihr Konto vorzunehmen.
 
@@ -84,7 +81,7 @@ Ein Auszahlungskonto ist das Bankkonto, auf das wir Ihnen Ihre Verkaufserlöse �
 
 ### <a name="create-a-payment-profile"></a>Erstellen eines Zahlungsprofils
 
-1. Wählen Sie [in Partner Center](https://partner.microsoft.com/dashboard)das Zahnradsymbol **Einstellungen** in der oberen rechten Ecke und dann **Kontoeinstellungen** aus.
+1. Wählen [Partner Center](https://partner.microsoft.com/dashboard)das **Zahnradsymbol** Einstellungen in der oberen rechten Ecke und dann **Kontoeinstellungen aus.**
 2. Wählen Sie unterhalb der Überschrift *Auszahlung und Steuer* die Option **Auszahlungs- und Steuerprofilzuweisung** aus.
 
     > [!NOTE]
@@ -92,7 +89,7 @@ Ein Auszahlungskonto ist das Bankkonto, auf das wir Ihnen Ihre Verkaufserlöse �
 
 3. Wählen Sie die Zahlungsmethode aus, die Sie konfigurieren möchten.
 
-4. Wählen Sie ein vorhandenes Zahlungsprofil aus, oder wählen **Sie Neues Zahlungsprofil erstellen** aus, um ein neues Profil für die ausgewählte Zahlungsmethode zu erstellen.
+4. Wählen Sie ein vorhandenes Zahlungsprofil aus, oder wählen Sie **Neues Zahlungsprofil erstellen** aus, um ein neues Profil für die ausgewählte Zahlungsmethode zu erstellen.
 
 ### <a name="create-a-bank-based-payment-profile"></a>Erstellen eines bankbasierten Zahlungsprofils
 
@@ -127,14 +124,14 @@ Falls Sie für den Empfang von Auszahlungen ein Bankkonto angegeben haben, müss
 
 Sie können vorhandene Zahlungsprofile bearbeiten, falls Sie Änderungen vornehmen oder fehlerhafte Informationen korrigieren müssen.
 
-1. Wählen Sie [in Partner Center](https://partner.microsoft.com/dashboard)das Zahnradsymbol **Einstellungen** in der oberen rechten Ecke und dann  **Kontoeinstellungen** aus.
+1. Wählen [Partner Center](https://partner.microsoft.com/dashboard)das **Zahnradsymbol** Einstellungen in der oberen rechten Ecke und dann **Kontoeinstellungen aus.**
 
 2. Wählen Sie unterhalb der Überschrift *Auszahlung und Steuer* die Option **Auszahlungs- und Steuerprofile** aus.
 
-3. Ihre Zahlungsprofile werden zusammen mit dem jeweiligen Status aufgeführt. Suchen Sie das Profil, das Sie bearbeiten möchten, und wählen Sie ganz rechts **Bearbeiten** aus.
+3. Ihre Zahlungsprofile werden zusammen mit dem jeweiligen Status aufgeführt. Suchen Sie das Profil, das Sie bearbeiten möchten, und wählen **Sie ganz** rechts Bearbeiten aus.
 
 > [!IMPORTANT]
-> Wenn Sie Ihr Zahlungskonto ändern, kann dies dazu führen, dass sich Ihre Zahlungen um maximal einen Zahlungszyklus verzögern. Diese Verzögerung tritt auf, weil wir die Kontoänderung überprüfen müssen. Dies ist der gleiche Vorgang wie bei der ersten Einrichtung des Zahlungskontos. Nachdem das Konto bestätigt wurde, erhalten Sie trotzdem den vollen Betrag. Zahlungen, die für den aktuellen Zahlungszyklus fällig sind, werden im nächsten Zyklus hinzugefügt. Weitere Informationen finden Sie unter Erhalten von [Zahlungen im kommerziellen Marketplace.](marketplace-get-paid.md)
+> Wenn Sie Ihr Zahlungskonto ändern, kann dies dazu führen, dass sich Ihre Zahlungen um maximal einen Zahlungszyklus verzögern. Diese Verzögerung tritt auf, weil wir die Kontoänderung überprüfen müssen. Dies ist der gleiche Vorgang wie bei der ersten Einrichtung des Zahlungskontos. Nachdem das Konto bestätigt wurde, erhalten Sie trotzdem den vollen Betrag. Zahlungen, die für den aktuellen Zahlungszyklus fällig sind, werden im nächsten Zyklus hinzugefügt. Weitere Informationen finden Sie unter Erhalten von [Kostenpflichtigen](marketplace-get-paid.md)im kommerziellen Marketplace.
 
 ### <a name="paypal-info"></a>PayPal-Informationen
 

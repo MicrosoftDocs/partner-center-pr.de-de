@@ -8,18 +8,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 38d0748548dca4f46eb60d5d36e1a55ad5fa1d67
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: d34984c3bbe8588cf2a5a40f7c50b14ba6928405
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284433"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818676"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Kennenlernen der von Microsoft ausgestellten IRS-Steuerformulare
 
-**Geeignete Rollen**
-
-- Globaler Administrator
+**Geeignete Rollen:** Globaler Administrator
 
 Möglicherweise erhalten Sie jedes Jahr ein oder mehrere Steuerformulare von Microsoft. Dies hängt von Ihrem Standort und der Menge der Verkäufe oder Zahlungen ab, die Sie erhalten. Microsoft muss diese Formulare ausstellen und bei der Bundessteuerbehörde der USA (IRS) einreichen.
 
@@ -48,12 +46,12 @@ Die Steuerformulare werden von den folgenden Adressen an Sie gesendet:
 
 | Geschäftsgruppe         | Rechtsträger          | Adresse                                          |
 |------------------------|-----------------------|--------------------------------------------------|
-| Windows, Office, Azure | Microsoft Ireland Operations Limited (Die Zahlung erfolgt über Microsoft Corporation Microsoft Irland als qualifizierter Vermittler für Microsoft Corporation) | One Microsoft Place<br>South County Business Park<br>Dublins über Dublin 18, D18 P521, Irland|
+| Windows, Office, Azure | Microsoft Ireland Operations Limited (Die Zahlung erfolgt durch Microsoft Corporation über Microsoft Irland, das als qualifizierter Vermittler für Microsoft Corporation fungiert) | One Microsoft Place<br>South County Business Park<br>Dublin, Dublin 18, D18 P521, Irland|
 | Advertising          | Microsoft Ireland Operations Limited (Die Zahlung erfolgt von Microsoft Online Inc. über Microsoft Irland, das als Auszahlungs-Agent für Microsoft Online Inc. fungiert.) | One Microsoft Place<br>South County& Business Park<br>Dublins über Dublin 18, D18 P521, Irland |
 | Advertising            | Microsoft Online Inc. | 6880 Sierra Center Parkway<br>Reno, NV 98511 USA |
 
 >[!NOTE]
-> \* Die Bürger der folgenden Länder, die Werbeeinnahmen erhalten, werden über microsoft Australia Operations Limited bezahlt: "Deutschland", "Deutschland", "Isle of Man", "Slowakisch", "Frankreich", "Norwegen", "Portugal", "Norwegen", "Frankreich", "Südafrika", "Spanien", "Schweiz" und "Vereinigtes Königreich".
+> \* Bürger aus den folgenden Ländern, die Werbeeinnahmen erhalten, werden über die Microsoft Australia Operations Limited bezahlt: "Deutschland", "Deutschland", "Isle of Man", "Isle of Man", "Islands", "Slowakisch", "Frankreich", "Schweiz", "Norwegen", "Frankreich", "Norwegen", "Portugal", "Norwegen", "Südafrika", "Spanien", "Spanien", "Schweiz" und "Vereinigtes Königreich".
 
 ## <a name="for-developers-located-in-the-united-states"></a>Für Entwickler in den USA
 
@@ -63,7 +61,7 @@ Die Steuerformulare werden von den folgenden Adressen an Sie gesendet:
 | Ich habe **mindestens 10 US-Dollar** an Zahlungen für (i) App-Verkäufe in Brasilien und China über die Microsoft Store unter Windows 10 oder (ii) Verkäufe im Marketplace von Sites erhalten.<br/><br/>**OR**<br/><br/>Ich habe mindestens 600 USD an Zahlungen erhalten, die nicht im Zusammenhang mit App-Verkäufen von Microsoft im entsprechenden Steuerjahr stehen (z. B. Incentivezahlungen oder Zahlungen aus einem Wettbewerb oder einer Promotion).| **1099-MISC:**<br/>Zahlende Instanz: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Wichtig:** Bestimmte Unternehmenseinheiten erhalten keine 1099-MISC-Formulare, ungeachtet der erhaltenen Zahlungen von Microsoft.  Wenden Sie sich an Ihren Steuerexperten, um weitere Informationen zu erfahren.| 
 | Keine der Antworten oben trifft zu.| Keine |
 | <br/><br/>**Wenn ich ein USA Entwickler Werbeanzeigen in Apps und...** |<br/><br/>**Ich sollte dieses Formular erhalten:** |
-|Ich habe im entsprechenden Steuerjahr **mindestens 600 US-Dollar** an Zahlungen von Anzeigen in Apps erhalten. | **1099-MISC:**<br/>Zahlende Instanz: Microsoft Online Inc<br/>EIN: \* \* \* \* \* 0505<br/><br/>**Wichtig:** Bestimmte Unternehmenseinheiten erhalten keine 1099-MISC-Formulare, ungeachtet der erhaltenen Zahlungen von Microsoft.  Wenden Sie sich an Ihren Steuerprofi, um weitere Informationen zu erhalten. |
+|Ich habe im geltenden Steuerjahr mindestens **600** USD an Zahlungen von Werbeanzeigen in Apps erhalten. | **1099-MISC:**<br/>Zahlende Instanz: Microsoft Online Inc<br/>EIN: \* \* \* \* \* 0505<br/><br/>**Wichtig:** Bestimmte Unternehmenseinheiten erhalten keine 1099-MISC-Formulare, ungeachtet der erhaltenen Zahlungen von Microsoft.  Wenden Sie sich an Ihren Steuerprofi, um weitere Informationen zu erhalten. |
 | Ich habe im geltenden Steuerjahr weniger als **600** USD an Zahlungen von Werbeanzeigen in Apps erhalten. | Keine |
 
 

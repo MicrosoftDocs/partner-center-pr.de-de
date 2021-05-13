@@ -9,20 +9,18 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: b3b1f3e1593f7e35bd3b9ed6c56ea28683bff95a
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018066"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855487"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Eingeschränkte Direktabrechnungsfunktionen und die Anforderungen, die für CSP-Partner mit direkter Abrechnung erforderlich sind
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Globaler Administrator
 
-- Globaler Administrator
-
-## <a name="overview"></a>Übersicht
+## <a name="overview"></a>Überblick
 
 Direktabrechnungspartner müssen die neuen Anforderungen [erfüllen, um](direct-partner-new-requirements.md) im CSP-Programm für Partner mit direkter Abrechnung verbleiben zu können. Andernfalls wird Ihr Zugriff auf die Funktionen der direkten Abrechnung schließlich eingeschränkt, und sie können bestimmte Aufgaben (z. B. die Durchführung neuer Käufe für Ihre Kunden) nicht mehr übernehmen.
 
@@ -61,7 +59,7 @@ Vorhandene Direktabrechnungsabonnements sind nicht betroffen. Sie bleiben weiter
 
 - Anpassen der Lizenzanzahl vorhandener lizenzbasierter Abonnements
 
-- Passen Sie die Lizenzanzahl vorhandener Add-Ons für ein Abonnement an. 
+- Anpassen der Lizenzanzahl vorhandener Add-Ons für ein Abonnement. 
 
     >[!Note]
     >Sie können vorhandenen Abonnements keine neuen Add-Ons hinzufügen, da sie als neuer Kauf behandelt werden.

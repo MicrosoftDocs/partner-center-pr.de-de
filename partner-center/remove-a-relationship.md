@@ -9,18 +9,16 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d6ff07d2c54d006478b290ad53c024a55dea4e18
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: 735a8b2c2436df61216ceb476be4a55b18785325
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018100"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855691"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>Entfernen einer Handelspartnerbeziehung mit einem Kunden in Partner Center
 
-**Geeignete Rollen**
-
-- Globaler Administrator
+**Geeignete Rollen:** Globaler Administrator
 
 In diesem Artikel wird beschrieben, wie Sie eine Handelspartnerbeziehung mit einem Kunden in Partner Center entfernen.
 

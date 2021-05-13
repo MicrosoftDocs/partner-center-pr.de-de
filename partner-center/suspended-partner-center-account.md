@@ -9,22 +9,18 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d9366ccb7c091fded16387c963dc2f2eab4b2d88
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: da1b93e757ad923f8a1c11e21ed2b957ecf1ad11
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002823"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854756"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Wiederherstellen eines gesperrten Partner Center-Kontos: Gründe und Vorgehensweise
 
-**Zielgruppe**
+**Gilt für**: Partner Center | Partner Center for Microsoft Cloud for US Government
 
-- Partner Center für Microsoft Cloud for US Government
-
-**Geeignete Rollen**
-
-- Globaler Administrator
+**Geeignete Rollen:** Globaler Administrator
 
 In diesem Artikel wird beschrieben, was zu tun ist, wenn Ihr Partner Center-Konto gesperrt ist.
 

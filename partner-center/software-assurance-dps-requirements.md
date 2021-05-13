@@ -1,57 +1,54 @@
 ---
-title: Berechtigung für die Planung von Dienst Engagements
+title: Berechtigung für Planning Services-Engagements
 ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Informieren Sie sich über die Berechtigungsanforderungen für jede Software Assurance Planning Services-Einbindung, die ein Unternehmen für Unternehmenskunden anbieten kann.
+description: Erfahren Sie mehr über die Berechtigungsanforderungen für jedes Software Assurance Planning Services-Engagement, das ein Unternehmen möglicherweise Unternehmenskunden anbieten möchte.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 844a795330a0c10ef51f6b47ce15afa37d3d71f5
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028263"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855249"
 ---
-# <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Anzeigen der Berechtigungsanforderungen für die Planung von Dienst Engagements
+# <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Anzeigen der Berechtigungsanforderungen für Planning Services-Engagements
 
-**Geeignete Rollen**
+**Geeignete Rollen:** globale | MPN-Partneradministrator
 
-- Globaler Administrator
-- MPN-Partneradministrator
-
-In diesem Artikel erhalten Sie Informationen zu den Berechtigungsanforderungen, die Sie erfüllen müssen, damit Ihr Unternehmen Software Assurance Planning Services-Engagements für Microsoft registrieren oder bereitstellen kann.
+In diesem Artikel erfahren Sie mehr über die Berechtigungsanforderungen, die Sie erfüllen müssen, bevor Ihr Unternehmen Software Assurance Planning Services-Engagements für Microsoft registrieren oder bereitstellen kann.
 
 >[!NOTE]
-> Neben der Erfüllung der Berechtigungsanforderungen für ein Planungsdienst Angebot müssen Sie auch mehrere weitere Schritte ausführen, bevor Sie die Software Assurance-Planungsdienste bereitstellen können. Eine Übersicht über alle erforderlichen Schritte finden Sie unter [Software Assurance Planning Services in Partner Center](software-assurance-dps.md).
+> Neben der Erfüllung der Berechtigungsanforderungen für ein Planning Services-Angebot müssen Sie auch mehrere andere Schritte ausführen, bevor Sie Software Assurance Planning Services-Engagements bereitstellen können. Eine Übersicht über alle erforderlichen Schritte finden Sie unter [Software Assurance Planning Services in Partner Center](software-assurance-dps.md).
 
-## <a name="learn-more-about-each-engagement"></a>Weitere Informationen zu den einzelnen Engagement
+## <a name="learn-more-about-each-engagement"></a>Weitere Informationen zu den einzelnen Engagements
 
-Jede Planungsdienste-Einbindung verfügt über eigene, spezifische Berechtigungsanforderungen und eine eigene zulässige maximale Dauer.
+Jedes Planning Services-Engagement verfügt über eigene, spezifische Berechtigungsanforderungen und seine eigenen zulässigen maximalen Daueren.
 
-Weitere Informationen zu diesen Engagement-spezifischen Kompetenzanforderungen finden Sie in der folgenden Tabelle.
+Weitere Informationen zu diesen engagementspezifischen Kompetenzanforderungen finden Sie in der folgenden Tabelle.
 
 | Name der Einbindung | Erforderliche Kompetenzen für dieses Engagement | Weitere Informationen finden Sie im Datenblatt für dieses Angebot. |
 |:--- |:--- |:--- |
-| Planen der Bereitstellung von Windows und Office  | Silber-oder Gold Fenster und-Geräte  |  [DDPS-Engagements (Desktop Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116072)
-| Planen der Bereitstellung mobiler Produktivität  | Silver oder Gold Enterprise Mobility Management oder Windows und Geräte  | [DDPS-Engagements (Desktop Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| Modern IT Enterprise Security Proof of Concept |  Silver oder Gold Enterprise Mobility Management  | [DDPS-Engagements (Desktop Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| Aktualisieren von Microsoft Dynamics 365 für Customer Engagement  | Silver oder Gold Cloud Business Applications oder Cloud Customer Relationship Management  | [Dynamics Deployment Planning Services-Engagement (dydps)](https://go.microsoft.com/fwlink/?linkid=2116073)
-| Migration zu Microsoft Dynamics 365 für Kunden Engagement  | Silver oder Gold Cloud Business Applications oder Cloud Customer Relationship Management  | [Dynamics Deployment Planning Services-Engagement (dydps)](https://go.microsoft.com/fwlink/?linkid=2116073)
-| Aktualisieren von Microsoft Dynamics 365 für Finanzen und Betrieb  | Gold Enterprise Resource Planning (ERP)  | [Dynamics Deployment Planning Services-Engagement (dydps)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
-| Modernialisieren Ihrer Windows Server-Plattform | Silber-oder Gold Datacenter | [Private Cloud-, Verwaltungs-und virtualisierungsplanungs Dienste-Engagement (pvdps)](https://go.microsoft.com/fwlink/?linkid=2115982) |
-| Planen der SharePoint-Bereitstellung  | Silver-oder Gold-Zusammenarbeit und-Inhalt  | [Angebote für die SharePoint-Bereitstellungs Planung (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Lösungs Planung für Projekt-und Portfolio Verwaltung (ppm)  | Silver oder Gold Project and Portfolio Management (ppm)  | [Angebote für die SharePoint-Bereitstellungs Planung (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Exchange-Bereitstellungs Planung  | Silber-oder Gold-Messaging  | [Angebote der Skype for Business-und Exchange-Bereitstellungs Planung (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
-Planen der Bereitstellung von Skype for Business  | Silber-oder Gold-Kommunikation  | [Angebote der Skype for Business-und Exchange-Bereitstellungs Planung (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
-| Data Estate-Modernisierung  | Datenanalyse oder Datenplattform für Gold  | [SQL Server Bereitstellungs Planungsdienste (ssdps)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
+| Planen der Windows- und Office-Bereitstellung  | Windows und Geräte mit Silber oder Gold  |  [DDPS-Engagements (Desktop Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116072)
+| Planen der Bereitstellung mobiler Produktivität  | Silver oder Gold Enterprise Mobility Management ODER Windows und Geräte  | [DDPS-Engagements (Desktop Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| Modern IT Enterprise Security Proof of Concept |  Enterprise Mobility Management mit Silber oder Gold  | [DDPS-Engagements (Desktop Deployment Planning Services)](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| Upgrade von Microsoft Dynamics 365 for Customer Engagement  | Silver oder Gold Cloud Business Applications ODER Cloud Customer Relationship Management  | [Dynamics Deployment Planning Services-Engagements (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Migrieren zu Microsoft Dynamics 365 for Customer Engagement  | Silver oder Gold Cloud Business Applications ODER Cloud Customer Relationship Management  | [Dynamics Deployment Planning Services-Engagements (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Aktualisieren von Microsoft Dynamics 365 for Finance and Operations  | Gold Enterprise Resource Planning (ERP)  | [Dynamics Deployment Planning Services-Engagements (DYDPS)](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| Modernisieren der Windows Server-Plattform | Silver- oder Gold-Rechenzentrum | [Private Cloud-, Management and Virtualization Planning Services-Engagements (PVDPS)](https://go.microsoft.com/fwlink/?linkid=2115982) |
+| SharePoint-Bereitstellungsplanung  | Silver- oder Gold-Zusammenarbeit und -Inhalte  | [Engagements von SharePoint Deployment Planning Services (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| Projekt- und Portfolioverwaltung (PPM) – Lösungsplanung  | Silver oder Gold Project and Portfolio Management (PPM)  | [Engagements von SharePoint Deployment Planning Services (SDPS)](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| Exchange-Bereitstellungsplanung  | Silber- oder Goldmessaging  | [Skype for Business- und Exchange Deployment Planning Services-Engagements (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+Skype for Business-Bereitstellungsplanung  | Silver oder Gold Communications  | [Skype for Business- und Exchange Deployment Planning Services -Engagements (S-EDPS)](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+| Modernisierung von Datenbestand  | Gold Data Analytics ODER Data Platform  | [SQL Server-Bereitstellungsplanungsdienste (DEPLOYMENT Planning Services, SSDPS)](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
 ## <a name="next-steps"></a>Nächste Schritte
 
 - [Software Assurance Planning Services-Workflow](https://go.microsoft.com/fwlink/?linkid=2115983)
-- [FAQ zu Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2116077)
+- [häufig gestellte Fragen zu Software Assurance Planning Services](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [Software Assurance Planning Services-Richtlinien](https://go.microsoft.com/fwlink/?linkid=2115984)
-- [Nicht abgekoppelte Engagements von Software Assurance Planning Services](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)
+- [Software Assurance Planning Services– eingestellte Engagements](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

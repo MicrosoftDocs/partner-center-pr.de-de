@@ -1,32 +1,27 @@
 ---
-title: Verwenden von Partner Center Analytics für Power BI
+title: Verwenden Partner Center Analytics für Power BI
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Erfahren Sie, wie Sie Ihre Geschäftsdaten mithilfe der Partner Center Analytics-APP für Power BI anzeigen (für direkte Partner in CSP).
+description: Erfahren Sie, wie Sie Ihre Geschäftsdaten mithilfe der Partner Center Analytics-App für Power BI (für direkte Partner in CSP) anzeigen.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5bdb166562593b970f40c23921dc80b2a1cb8ad
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 96fe57f6e89928a69051c2e201c444882500b844
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633861"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855028"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Ihre Geschäftsdaten mit der Partner Center Analytics-App für Microsoft Power BI anzeigen
 
 
 
-**Geeignete Rollen**
-
-- Globaler Administrator
-- Benutzerverwaltungsadministrator
-- Vertriebsbeauftragter
-- Administrator-Agent
+**Geeignete Rollen:** Globale Administratorrechte | Administratorrechte für | Sales agent | Administrator-Agent
 
 ## <a name="view-your-business-data"></a>Anzeigen Ihrer Geschäftsdaten
 
@@ -40,7 +35,7 @@ Nutzen Sie eine visuelle Darstellung Ihrer Daten mit der Partner Center Analytic
 
 - Geschätzte Kosten (auf Grundlage der aktuellen Gebührenkarte)
 
-- Möglichkeit zum Exportieren von Datasets und Erstellen von benutzerdefinierten Berichten, einschließlich pro Kunde.
+- Möglichkeit zum Exportieren von Datasets und Erstellen benutzerdefinierter Berichte, einschließlich pro Kunde.
 
 ### <a name="about-the-partner-center-analytics-app-preview-release"></a>Informationen zur Vorschauversion der Partner Center Analytics-App
 
@@ -48,7 +43,7 @@ Nutzen Sie eine visuelle Darstellung Ihrer Daten mit der Partner Center Analytic
 
 - Alle geschätzten Kosten werden vor Steuern/Abrechnungsdaten angezeigt und sind nicht rechtlich bindend. Die geschätzten Kosten dienen nur zu Informationszwecken.
 
-- Die Kundeninformationen basieren auf Abonnements. Alle Kunden, für die Sie vor kurzem ein Konto erstellt haben, aber noch keine Abonnements haben, sind nicht in Zählungen enthalten.
+- Die Kundeninformationen basieren auf Abonnements. Alle Kunden, für die Sie vor Kurzem Konten erstellt haben, aber noch keine Abonnements haben, werden nicht in die Anzahl einbezogen.
 
 - Die geschätzten Kosten basiert auf der aktuellen Gebührenkarte, die auf den CSP-Preisen basiert.
 
@@ -56,111 +51,111 @@ Nutzen Sie eine visuelle Darstellung Ihrer Daten mit der Partner Center Analytic
 
 ### <a name="business-insights-report"></a>Geschäftsinformationen-Bericht
 
-- **Kunden** Mandanten: Anzahl der unterschiedlichen Azure AD Mandanten von Kunden, die Abonnements erworben haben
+- **Kunden-Mandanten:** Anzahl unterschiedlicher Azure AD Mandanten von Kunden, die Abonnements erworben haben
 
-- **Neu (Letzte 30 Tage)**: neue Kunden kaufen mindestens ein Abonnement in den letzten 30 Tagen
+- **Neu (letzte 30 Tage):** Neue Kunden, die in den letzten 30 Tagen mindestens ein Abonnement erwerben
 
-- Änderungs Rate **(Letzte 30 Tage)**: Kunden ohne die Abonnements "aktiv", "in der Toleranz" oder "deaktiviert"
+- **Änderungsabwanderung (letzte 30 Tage):** Kunden ohne "aktive", "in Grace"- oder "deaktivierte" Abonnements
 
-- **Neu (Letzte 24 Stunden)**: neue Kunden kaufen mindestens ein Abonnement in den letzten 24 Stunden
+- **Neu (letzte 24 Stunden):** Neue Kunden, die in den letzten 24 Stunden mindestens ein Abonnement erwerben
 
-- **Geschätzte monatliche Kosten in den letzten 12 Monaten**: Monat im Vergleich zum Monat im Vergleich zu einem monatlichen Betrag der geschätzten vorab Steuerrechnung, aggregiert im Verlauf der letzten 12 Monate
+- Geschätzte monatliche Kosten in den letzten **12** Monaten: Trend von Monat zu Monat des geschätzten Rechnungsbetrags vor Steuern, der monatlich über den Zeitraum der letzten 12 Monate aggregiert wurde
 
-- **Geschätzte Kosten nach Produkt in den letzten 12 Monaten**: verkaufte Produkte nach geschätzten Dollarbetrag der vorab Steuerrechnung, aggregiert über den Zeitraum der letzten 12 Monate. Dieser Status gibt an, dass die besten Produkte den größten Umsatz bringen.
+- Geschätzte Kosten nach Produkt in den letzten **12** Monaten: Verkaufte Produkte sortiert nach geschätztem Rechnungsbetrag vor Steuern, aggregiert über den Zeitraum der letzten 12 Monate. Dieser Status gibt die wichtigsten Produkte an, die den größten Umsatz bringen.
 
-- Kunden, die sich **in den letzten 12 Monaten im** Vergleich zu einem Monat im Vergleich zu einem Monat im Vergleich zu den letzten 12 Monaten aggregiert haben
+- **Kunden in den letzten 12** Monaten: Monatlicher Trend von Neukunden und Abwanderungskunden im Zeitraum der letzten 12 Monate aggregiert
 
-- **Geschätzte Kosten nach Kunde in den letzten 12 Monaten**: Kunden, die nach dem geschätzten Dollarbetrag der vorab Steuerrechnung sortiert wurden, der über den Zeitraum der letzten 12 Monate aggregiert wurde. Dieser Status gibt an, dass Top-Kunden die meisten Umsätze einbringen.
+- Geschätzte Kosten nach Kunde in den letzten **12** Monaten: Kunden sortiert nach dem geschätzten Rechnungsbetrag vor Steuern, aggregiert über den Zeitraum der letzten 12 Monate. Dieser Status gibt die wichtigsten Kunden an, die den größten Umsatz erzielen.
 
-- **Kundenanzahl nach Produkt**: verkaufte Produkte nach zugeordneten Kunden. Dieser Status gibt an, dass die meisten Kunden die besten Produkte verkauft haben.
+- **Kundenanzahl nach Produkt:** Verkaufte Produkte sortiert nach zugeordneten Kunden. Dieser Status gibt die wichtigsten Produkte an, die an die meisten Kunden verkauft werden.
 
 ### <a name="subscription-insights-report"></a>Abonnement-Bericht
 
-- **Abonnement Status**:
+- **Abonnementstatus:**
 
-- Aktiv: Abonnements, die entweder zum Zustand "aktiv" oder "in der Toleranz" gehören
+- Aktiv: Abonnements, die entweder zum Zustand "aktiv" oder "in Grace" gehören
 
-  - Angehalten: Abonnements, die zum Zustand "deaktiviert" gehören
+  - Angehalten: Abonnements, die zum Status "Deaktiviert" gehören
 
-  - Aufhebung der Bereitstellung: Abonnements, die zum Status "bereitgestellt" oder "abgelaufen" gehören.
+  - Bereitstellung aufgehoben: Abonnements, die zum Status "Bereitstellung aufgehoben" oder "Abgelaufen" gehören
 
 - **Ablaufstatus**:
 
-  - Abgelaufen: Abonnements, die bereits abgelaufen sind (wobei das Enddatum des Abonnements in der Vergangenheit liegt)
+  - Abgelaufen: Abonnements, die bereits abgelaufen sind (das Enddatum des Abonnements liegt in der Vergangenheit)
 
-  - Läuft nach 30 Tagen ab: Abonnements, die nach 30 Tagen ablaufen (wobei das Enddatum des Abonnements nach den nächsten 30 Tagen liegt)
+  - Ablauf nach 30 Tagen: Abonnements, die nach 30 Tagen ablaufen (wobei das Enddatum des Abonnements nach den nächsten 30 Tagen liegt)
 
-  - Läuft innerhalb von 30 Tagen ab: Abonnements, die innerhalb der nächsten 30 Tage ablaufen (wobei das Enddatum des Abonnements zwischen heute und 30 Tagen liegt)
+  - Ablauf in 30 Tagen: Abonnements, die innerhalb der nächsten 30 Tage ablaufen (wobei das Enddatum des Abonnements zwischen heute und den nächsten 30 Tagen liegt)
 
-- **Abonnements Gesamt**: Abonnements im Status "aktiv", "in der Toleranz" oder "deaktiviert"
+- **Abonnements gesamt:** Abonnements mit dem Status "aktiv", "ordnungsgemäß" oder "deaktiviert"
 
-- **Neu (Letzte 30 Tage)**: neue Abonnements, die innerhalb der letzten 30 Tage von Kunden erworben wurden
+- **Neu (letzte 30 Tage):** Neue Abonnements, die von Kunden innerhalb der letzten 30 Tage erworben wurden
 
-- **Neu (Letzte 24 Stunden)**: neue Abonnements, die innerhalb der letzten 24 Stunden von Kunden erworben wurden
+- **Neu (letzte 24 Stunden):** Neue Abonnements, die von Kunden innerhalb der letzten 24 Stunden erworben wurden
 
-- Läuft innerhalb von **30 Tagen** ab: Abonnements, die innerhalb der nächsten 30 Tage ablaufen
+- **Ablauf in 30 Tagen:** Abonnements, die innerhalb der nächsten 30 Tage ablaufen
 
-- Änderungs Rate **(Letzte 30 Tage)**: Abonnements, die innerhalb der letzten 30 Tage deaktiviert oder angehalten (deaktiviert) wurden.
+- **Änderungsrate (letzte 30 Tage):** Abonnements, die innerhalb der letzten 30 Tage nicht mehr bereitgestellt oder angehalten (deaktiviert) wurden
 
-- **Verteilung nach Abonnementtypen**:% Verteilung der Abonnements Gesamt gemäß Lizenz basiert und Nutzungs basierter Abonnementtyp
+- **Verteilung nach Abonnementtypen:**% Verteilung der Gesamtabonnements nach lizenzbasiertem und nutzungsbasiertem Abonnementtyp
 
-- **Anzahl aktiver Abonnements nach Produkt**: verkaufte Produkte sortiert nach Anzahl aktiver Abonnements
+- **Anzahl aktiver Abonnements nach Produkt:** Verkaufte Produkte sortiert nach Anzahl aktiver Abonnements
 
-- **Abonnements im Vergleich zu den letzten 12 Monaten**: Monat im Vergleich zu einem Monat im Vergleich zu den in den letzten 12 Monaten monatlich aggregierten Abonnements und Änderungs Abonnements
+- **Abonnements über die letzten 12 Monate:** Monatlicher Trend neuer Abonnements und Abwanderungsabonnements, die im Zeitraum der letzten 12 Monate monatlich aggregiert wurden
 
-- **Kunden Abonnement Details**: detaillierte Ansicht der Kunden, Abonnements und Angebote
+- **Details zum Kundenabonnement:** Detaillierte Ansicht der Kunden, Abonnements und Angebote
 
 ### <a name="license-insights-report"></a>Lizenzbericht:
 
-- **Lizenzen Gesamt**: Gesamtzahl der Lizenzen, die über alle lizenzbasierten Abonnements aggregiert werden
+- **Lizenzen gesamt:** Gesamtanzahl von Lizenzen, die über alle lizenzbasierten Abonnements aggregiert werden
 
-- **Neu (Letzte 30 Tage)**: Lizenz Addition innerhalb der letzten 30 Tage
+- **Neu (letzte 30 Tage):** Lizenzerweiterung innerhalb der letzten 30 Tage
 
-- Änderungs Rate **(Letzte 30 Tage)**: Lizenz Reduzierung innerhalb der letzten 30 Tage
+- **Änderungsrate (letzte 30 Tage):** Lizenzverringerung innerhalb der letzten 30 Tage
 
-- **Neu (Letzte 24 Stunden)**: Hinzufügen von Lizenzen innerhalb der letzten 24 Stunden
+- **Neu (letzte 24 Stunden):** Lizenzerweiterung innerhalb der letzten 24 Stunden
 
-- **Lizenzen im Verlauf der letzten 90 Tage**: Monat im Vergleich zum Monat im Vergleich zum Zeitraum der letzten 90 Tage monatlich aggregiert
+- **Lizenzen über die letzten 90 Tage:** Monatlicher Trend von Lizenzzufügungen und -reduzierungen, der monatlich über den Zeitraum der letzten 90 Tage aggregiert wurde
 
-- **Anzahl aktiver Lizenzen nach Produkt**: verkaufte Produkte sortiert nach aktiver Lizenz Anzahl
+- **Anzahl der aktiven Lizenzen nach Produkt:** Verkaufte Produkte sortiert nach Anzahl aktiver Lizenzen
 
-- **Anzahl aktiver Lizenzen nach Kunde**: nach aktiver Lizenz Anzahl sortierte Kunden
+- **Anzahl der aktiven Lizenzen nach Kunde:** Kunden sortiert nach anzahl aktiver Lizenzen
 
-- Details zu Kunden Lizenz Ereignissen im Verlauf der **letzten 90 Tage**: ausführliche Ansicht der Kunden, Abonnements und Abonnement Ereignisse einschließlich Ereignis Datum, Ereignis Name, Menge und Änderung der Menge.
+- Details zu Kundenlizenzereignissen der letzten **90** Tage: Detaillierte Ansicht der Kunden-, Abonnement- und Abonnementereignisse, einschließlich Ereignisdatum, Ereignisname, Menge und Änderung der Menge.
 
 ### <a name="licenses-usage-report"></a>Lizenznutzungsbericht:
 
-- **Vom Produkt zugewiesene Lizenzen**: verkaufte Produkte sortiert nach Lizenz Zuweisungs Anzahl
+- **Nach Produkt zugewiesene Lizenzen:** Verkaufte Produkte sortiert nach Anzahl der Lizenzzuweisungen
 
-- **Von Produkt verwendete Lizenzen**: verkaufte Produkte nach Lizenz Verwendungs Anzahl
+- **Nach Produkt verwendete Lizenzen:** Verkaufte Produkte sortiert nach Anzahl der Lizenznutzungen
 
 - **Kundenverteilung für zugewiesene Lizenzen**: Prozentuale Verteilung von Kunden in 20 Prozent-Schritten nach Lizenzzuweisung in Prozent
 
 - **Kundenverteilung für genutzte Lizenzen**: Prozentuale Verteilung von Kunden in 20 Prozent-Schritten nach Lizenznutzung in Prozent
 
-- **Vom Kunden zugewiesene Lizenzen**: ausführliche Ansicht der verkauften Lizenzen und von Kunden und Produkten zugewiesene Lizenzen
+- **Vom Kunden zugewiesene Lizenzen:** Detaillierte Ansicht der verkauften lizenzen und von Kunden und Produkten zugewiesenen Lizenzen
 
-- **Von Customer verwendete Lizenzen**: Ausführliche Übersicht über verkaufte Lizenzen und von Kunden und Produkten verwendete Lizenzen
+- **Vom Kunden verwendete Lizenzen:** Detaillierte Ansicht der verkauften lizenzen und von Kunden und Produkten verwendeten Lizenzen
 
 ### <a name="azure-insights-report"></a>Azure-Bericht:
 
-- **Nutzungsbasierte Kunden in den letzten 12 Monaten**: Monat im Vergleich zu einem Monat im Vergleich zu neuen nutzungsbasierten Kunden und nutzungsbasierten nutzungsbasierten Kunden, die monatlich im Zeitraum der letzten 12 Monate aggregiert wurden
+- **Nutzungsbasierte Kunden** in den letzten 12 Monaten: Monatlicher Trend von neuen nutzungsbasierten Kunden und kunden, die auf der nutzungsbasierten Kundenabwanderung basieren, die monatlich über den Zeitraum der letzten 12 Monate aggregiert wurden
 
-- **Nutzungsbasierte Abonnements in den letzten 12 Monaten**: Monat im Vergleich zu einem Monat im Vergleich zu neuen Verwendungs basierten Abonnements und nutzungsbasierten Abonnements, die monatlich im Zeitraum der letzten 12 Monate aggregiert wurden
+- **Nutzungsbasierte Abonnements** in den letzten 12 Monaten: Monatlicher Trend für neue nutzungsbasierte Abonnements und abwanderungsbasierte Abonnements, die monatlich über den Zeitraum der letzten 12 Monate aggregiert wurden
 
-- **Geschätzte Kosten der Nutzung durch Kunden in den letzten 60 Tagen**: nutzungsbasierte Kunden, sortiert nach geschätzter Dollarbetrag der vorab Steuerrechnung, aggregiert über den Zeitraum der letzten 60 Tage. Dieser Status gibt an, dass die besten nutzungsbasierten Kunden die meisten Umsätze einbringen.
+- Geschätzte Nutzungskosten nach Kunde in den letzten **60** Tagen: Nutzungsbasierte Kunden, sortiert nach dem geschätzten Rechnungsbetrag vor Steuern, aggregiert über den Zeitraum der letzten 60 Tage. Dieser Status gibt die nutzungsbasierten Kunden an, die den meisten Umsatz erzielen.
 
-- **Geschätzte Kosten der Nutzung nach Kategorie im Verlauf der letzten 60 Tage**: Verbrauchs Kategorien von Verwendungs basierten Abonnements, sortiert nach geschätzten Dollarbetrag der vorab Steuerrechnung, aggregiert über den Zeitraum der letzten 60 Tage.
+- Geschätzte Nutzungskosten nach Kategorie in den letzten **60** Tagen: Verbrauchsklassen nutzungsbasierter Abonnements, sortiert nach dem geschätzten Rechnungs-Dollarbetrag vor Steuern, aggregiert über den Zeitraum der letzten 60 Tage.
 
-- **Geschätzte Kosten der Nutzung nach Abonnement im Verlauf der letzten 60 Tage**: nutzungsbasierte Abonnements nach geschätzter Dollarbetrag der vorab Steuerrechnung, aggregiert über den Zeitraum der letzten 60 Tage.
+- Geschätzte Nutzungskosten nach Abonnement in den letzten **60** Tagen: Nutzungsbasierte Abonnements nach geschätztem Rechnungsbetrag vor Steuern, aggregiert über den Zeitraum der letzten 60 Tage.
 
-- **Geschätzte Nutzung der Kunden nach Ausgabenbudget**: Kunden, geordnet nach Prozentsatz Ihres aktuellen Ausgabenbudgets, das den Schwellenwert überschreitet (100%).
+- **Geschätzte Nutzungskosten des Kunden nach Ausgabenbudget:** Kunden werden nach Dem Prozentsatz ihres aktuellen Ausgabenbudgets sortiert, das den Schwellenwert überschreitet (100 %).
 
 ### <a name="azure-resource-usage-report"></a>Azure-Ressourcennutzungsbericht:
 
-- **Nutzung von Azure-Ressourcen nach Tag für den ausgewählten Zeitraum**: tägliche Verbrauchseinheiten für jede gemessene Ressource in jedem nutzungsbasierten Abonnement für den ausgewählten Zeitraum innerhalb der letzten 60 Tage.
+- **Nutzung von Azure-Ressourcen** nach Tag für den ausgewählten Zeitraum: Tägliche Verbrauchseinheiten für jede gemessene Ressource in jedem nutzungsbasierten Abonnement für den ausgewählten Zeitraum innerhalb der letzten 60 Tage.
 
-- **Geschätzte Nutzungskosten der Azure-Ressourcen für den ausgewählten Zeitraum**: geschätzte Kosten basierend auf der aktuellen Preiskarte für jede gemessene Ressource in jedem nutzungsbasierten Abonnement für den ausgewählten Zeitraum innerhalb der letzten 60 Tage. 
+- **Geschätzte Nutzungskosten von Azure-Ressourcen für den ausgewählten Zeitraum:** Geschätzte Kosten basierend auf der karte mit der neuesten Rate für jede gemessene Ressource in jedem nutzungsbasierten Abonnement für den ausgewählten Zeitraum innerhalb der letzten 60 Tage. 
 
 ## <a name="next-steps"></a>Nächste Schritte
 

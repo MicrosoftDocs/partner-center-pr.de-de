@@ -4,30 +4,27 @@ ms.topic: how-to
 ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: In Partner Center erfahren Sie, wie Sie die Abrechnungsinformationen eines Kunden aktualisieren oder Unternehmens Details aktualisieren.
+description: In Partner Center erfahren Sie, wie Sie die Abrechnungsinformationen eines Kunden aktualisieren oder Unternehmensdetails aktualisieren.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c291a2cf859d0c21570a06fab5bc36b19eccfda2
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f3fd7a4adfb3e88b875c8178a260c353e1414f1e
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755845"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818710"
 ---
-# <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>Aktualisieren von Kundenkontoinformationen, Unternehmens Details und Kunden Abrechnungsinformationen im Partner Center
+# <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>Aktualisieren von Kundenkontoinformationen, Unternehmensdetails und Kundenabrechnungsinformationen in Partner Center
 
-**Geeignete Rollen**
+**Geeignete Rollen:** Globale Administratorrechte | Vertriebs-Agent
 
-- Globaler Administrator
-- Vertriebsbeauftragter
-
-Sie können die Abrechnungsinformationen eines Kunden und weitere Unternehmensdetails in Partner Center aktualisieren. Sie können auch [Ihre Berechtigung für einen Kunden erteilen oder entfernen, um eigene Produkte oder Dienste zu erwerben](give-customers-permission.md).
+Sie können die Abrechnungsinformationen eines Kunden und weitere Unternehmensdetails in Partner Center aktualisieren. Sie können einem Kunden auch die Berechtigung erteilen oder entfernen, seine [eigenen Produkte oder Dienste zu erwerben.](give-customers-permission.md)
 
 ## <a name="update-customer-details"></a>Aktualisieren von Kundendetails
 
-1. Wählen Sie im **Partner Center** -Menü die Option **Kunden** aus. Wählen Sie dann einen Kunden in der Liste aus.
+1. Wählen Sie **Partner Center** Menü Kunden **aus.** Wählen Sie dann einen Kunden in der Liste aus.
 
 2. Wählen Sie im Kundenmenü **Konto** und dann **Aktualisieren** aus.
 
@@ -35,4 +32,4 @@ Sie können die Abrechnungsinformationen eines Kunden und weitere Unternehmensde
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-- [Erteilen Sie Kunden eine Berechtigung im Partner Center, um Ihre eigenen Produkte oder Dienste zu erwerben.](give-customers-permission.md)
+- [Erteilen sie Kunden die Berechtigung, Partner Center eigene Produkte oder Dienste zu erwerben.](give-customers-permission.md)

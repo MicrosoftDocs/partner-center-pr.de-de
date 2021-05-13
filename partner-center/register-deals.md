@@ -9,18 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96c0b320850b4ee648e98fc5da97d9f25faaf405
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 8f8b3a086f968ed00deefa718d3abc18223ba600
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172427"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855742"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Registrieren Sie Deals, die Sie in Partner Center, damit Sie später weitere Verkaufschancen erhalten.
 
-**Geeignete Rollen**
-
-- Empfehlungsadministrator
+**Geeignete Rollen:** Empfehlungsadministrator
 
 Sie können die von Ihnen im Partner Center gewonnenen Angebote registrieren, indem Sie zusätzliche Informationen zum Vertrag bereitstellen. Diese Informationen helfen uns, Ihnen in Zukunft weitere Möglichkeiten zu bieten.
 
@@ -44,7 +42,7 @@ Geben Sie auf der Seite **Neues Angebot** die folgenden Informationen an.
 - **Startdatum des Vertrags:** Das Datum, an dem der Vertrag beginnt. Verwenden Sie für Transaktionen mit nutzungsbasierten Bezahlung (PAYG) das Datum der ersten Rechnung.
 - **Enddatum des Vertrags:** Wenn der Vertrag an einem bestimmten Datum endet, wählen Sie **Hat ein Enddatum** aus, und geben Sie dieses Datum an. Wenn der Vertrag kein bestimmtes Enddatum hat, wählen Sie **Unbefristet aus.** Verwenden Sie für Transaktionen mit nutzungsbasierten Bezahlung (PAYG) das Datum der letzten oder letzten Rechnung.
 - **Vertragsdatum:** Das Datum, an dem der endgültige Vertrag von Ihrer Organisation und vom Kunden unterzeichnet wurde. Verwenden Sie für Transaktionen mit nutzungsbasierten Bezahlung (PAYG) das Datum der ersten Rechnung.
-- **Registrierungskontakt:** **Vorname,** **Nachname,** Telefonnummer und **E-Mail-Adresse** für eine Person in Ihrer Organisation, an die wir uns wenden können, wenn wir weitere Details zu den hier angegebenen Informationen benötigen. 
+- **Registrierungskontakt:** **Vorname,** **Nachname,** Telefonnummer und **E-Mail-Adresse** für eine Person in Ihrer Organisation, an die wir uns wenden können, wenn wir weitere Details zu den hier bereitgestellten Informationen benötigen. 
 
 Wenn Sie alle Abschnitte der Seite ausgefüllt haben, klicken Sie auf **Registrieren**. Die Angebotsregistrierung wird dann auf die Seite **In Bearbeitung** verschoben. Microsoft prüft anschließend die von Ihnen bereitgestellten Informationen.
 

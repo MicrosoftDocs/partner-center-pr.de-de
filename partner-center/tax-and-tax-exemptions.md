@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 7e6db20296075774a6254116df898e15ecc50034
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284467"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856031"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>Informationen zu Steuern und Steuerausnahmen nach Region oder Land für Partner im CSP-Programm
 
-**Geeignete Rollen**
-
-- Globaler Administrator
+**Geeignete Rollen:** Globaler Administrator
 
 Das Cloud Solution Provider -Programm (CSP) ist ein Vertriebskanal, der sich auf den Partnerverkauf von Produkten konzentriert. Daher ist Microsoft nicht immer verpflichtet, auf Partnerrechnungen Die Verkaufssteuer zu berechnen. Die Regeln variieren je nach Land und/oder Region. Sie können [länder- und regionspezifische Details für Steuerausnahmen überprüfen.](#country-and-region-tax-details)
 
@@ -59,7 +57,7 @@ Bevor Sie eine Steuerausnahme einreichen, stellen Sie sicher, dass Sie die folge
 
 - Sie müssen für jeden CSP-Mandanten eine Steuerausnahme erstellen.
 
-- Sie müssen entweder Ihre Steuernummer oder die Identifikationsnummer des Bundesarbeitsgebers (Federal Identification Number, FEIN) übermitteln. Diese Nummer wird in der Regel in Ihrem Steuerzertifikat angezeigt.
+- Sie müssen entweder Ihre Steuernummer oder die Federal Identification Number (FEIN) des Arbeitgebers übermitteln. Diese Nummer wird in der Regel in Ihrem Steuerzertifikat angezeigt.
 
 - Abhängig von Ihrem Land, Ihrer Region oder Ihrem Bundesstaat verfügt Ihre Steuerausnahme über rechtliche Richtlinien, die für die lokale Steuerabteilung (oder eine ähnliche Abteilung) spezifisch sind und entsprechend verwaltet werden müssen. Viele Standorte verfügen zwar über Steuerzertifikate, die jährlich erneuert werden, aber einige Standorte können um zwei oder mehr Jahre verlängert werden. Sie sollten diese und andere Informationen überprüfen, indem Sie entweder Ihr Zertifikat überprüfen oder sich an Ihre lokale Steuerstelle wenden.
 
@@ -67,7 +65,7 @@ Wenn Sie bereit sind, Ihre Steuerausnahme zu erstellen, öffnen Sie ein Ticket m
 
 ## <a name="support"></a>Support
 
-Wenn Sie Fragen zu Steuerausnahmen und -rückerstattungen oder anderen steuerbezogenen Fragen haben, wenden Sie sich an Partner Center. Es kann etwa zwei Wochen dauern, bis Microsoft Kontakt mit Ihnen aufnimmt, um das Problem zu beheben.
+Wenn Sie Fragen zu Steuerausnahmen und Rückerstattungen oder andere steuerbezogene Fragen haben, wenden Sie sich an Partner Center. Es kann etwa zwei Wochen dauern, bis Microsoft Kontakt mit Ihnen aufnimmt, um das Problem zu beheben.
 
 ## <a name="next-steps"></a>Nächste Schritte
 

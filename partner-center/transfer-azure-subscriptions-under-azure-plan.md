@@ -9,20 +9,16 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: f0abfdfd2fbb242f7cdbe0ded04d387ea712cce5
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: dcacc6da51fe40c7eb05997f5409ef5fadbcf693
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702721"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856048"
 ---
-# <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Übertragen der Azure-Planabonnements eines Kunden an einen anderen Partner
+# <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Übertragen von Azure-Planabonnements eines Kunden an einen anderen Partner
 
-**Geeignete Rollen**
-
-- Kontoadministrator
-- Vertriebsbeauftragter
-- Abrechnungs-Agent
+**Geeignete Rollen:** Kontoadministrator-| Sales agent | Abrechnungs-Agent
 
 In diesem Artikel wird beschrieben, wie ein Kunde seine Azure-Abonnements unter einem Azure-Plan von einem Cloud Solution Provider (CSP) in einen anderen umschalten kann.
 
@@ -42,7 +38,7 @@ Der Kunde muss mit beiden Partnern (aktuell und zukünftig) im Gespräch sein, b
 - Azure Role-Based Access Control (RBAC) ist von der Übertragung nicht betroffen.
 - Der Administrator im Auftrag von (AOBO) wird dem zukünftigen Partner nicht standardmäßig gewährt.
 - Marketplace-Produkte von Drittanbietern werden übertragen, solange die Produkte die Marketplace-Berechtigungsprüfung bestehen.
-    - Es gibt keine speziellen Rabatte oder regionalen Einschränkungen.
+    - Es gibt keine besonderen Rabatte oder regionalen Einschränkungen.
     - Die Produkte sind nicht abonnementbasiert.
     - Der zukünftige Partner sollte mit dem Herausgeber zusammenarbeiten, um sicherzustellen, dass er sich in der Liste mit den Zulässigen für die Bereitstellung des Produkts befindet.
     - Wenn nicht alle diese Bedingungen erfüllt sind, um die Marketplace-Produkte zu übertragen, sollten sie storniert, die Azure-Abonnements übertragen und dann marketplace-Produkte mit dem neuen Partner erneut erworben werden.
@@ -51,7 +47,7 @@ Der Kunde muss mit beiden Partnern (aktuell und zukünftig) im Gespräch sein, b
 
 - Der Kunde betreibt den aktuellen CSP-Partner bei seiner Absicht, zu übergehen.
 - Zukünftiger CSP-Partner arbeitet mit Kunden zusammen, um sicherzustellen, dass die Kundenanforderungen erfüllt werden können.
-- Zukünftiger CSP-Partner stellt eine Beziehung mit dem Kunden her und erwirbt einen Azure-Plan, bevor der Übergang beginnt.  
+- Zukünftiger CSP-Partner richtet eine Beziehung mit dem Kunden ein und erwirbt einen Azure-Plan, bevor der Übergang beginnt.  
 - Kunde muss Microsoft-Kundenvereinbarung mit zukünftigem CSP-Partner signieren
 - Der zukünftige CSP-Partner muss die Microsoft Partner-Vereinbarung signiert haben, um dieses Tool verwenden zu können.
 
@@ -68,8 +64,8 @@ Der Kunde muss auch die Abonnements identifizieren, die er vom aktuellen Partner
 
 Der zukünftige Partner des Abonnements muss ein Übertragungsanforderungsformular von Partner Center ausfüllen, um eine Abonnementübertragung anzufordern:
 
-1.  **Wählen** Sie im Menü Partner Center kunden und dann den Kunden aus, für den Sie ein Formular für eine Übertragungsanforderung ausfüllen möchten.
-2.  Wählen Sie im Menü Kunde die Option **Abonnements aus.**
+1.  Wählen Sie im menü Partner Center die Option **Kunden** und dann den Kunden aus, für den Sie ein Formular für eine Übertragungsanforderung ausfüllen möchten.
+2.  Wählen Sie im Menü Kunde die Option **Abonnements** aus.
 3.  Wählen Sie den **Abschnitt Übertragungsanforderung** aus.
 4.  Wählen Sie **im Abschnitt Übertragungsanforderung** die Option **Neue Anforderung hinzufügen aus.**
 
@@ -131,9 +127,9 @@ Der Administrator-Agent des aktuellen Partners des Kunden erhält eine E-Mail, d
 
 ### <a name="managing-your-transferred-customer-subscriptions"></a>Verwalten Ihrer übertragenen Kundenabonnements
 
-- Der Zugriff auf vorhandene Benutzer, Gruppen oder Dienstprinzipale, die per rollenbasierter Azure-Zugriffssteuerung (Azure Role-Based Access Control, Azure RBAC) zugewiesen wurden, ist von der Übertragung nicht betroffen. Die rollenbasierte Zugriffssteuerung in Azure (Azure Role-Based Access Control, [Azure RBAC)](/azure/role-based-access-control/overview) unterstützt Ihren Kunden bei der Verwaltung, wer Zugriff auf Azure-Ressourcen hat, was er mit diesen Ressourcen tun kann und auf welche Bereiche er Zugriff hat. Als neuer Partner erhalten Sie nach der Abonnementübertragung keinen RBAC-Zugriff auf die Ressourcen Ihres Kunden. Der vorherige Partner Ihres Kunden behält seinen RBAC-Zugriff. Arbeiten Sie mit Ihrem Kunden zusammen, um zu verstehen, wer Einblicke in seine Abonnements hat und wie sie gewünschte Änderungen vornehmen können.
+- Der Zugriff auf vorhandene Benutzer, Gruppen oder Dienstprinzipale, die per rollenbasierter Azure-Zugriffssteuerung (Azure Role-Based Access Control, Azure RBAC) zugewiesen wurden, ist von der Übertragung nicht betroffen. Die rollenbasierte Zugriffssteuerung in Azure (Azure Role-Based Access Control, [Azure RBAC)](/azure/role-based-access-control/overview) unterstützt Ihren Kunden bei der Verwaltung, wer Zugriff auf Azure-Ressourcen hat, was er mit diesen Ressourcen tun kann und auf welche Bereiche er Zugriff hat. Als neuer Partner erhalten Sie nach der Abonnementübertragung keinen RBAC-Zugriff auf die Ressourcen Ihres Kunden. Der vorherige Partner Ihres Kunden behält seinen RBAC-Zugriff bei. Arbeiten Sie mit Ihrem Kunden zusammen, um zu verstehen, wer Einblicke in seine Abonnements hat und wie sie gewünschte Änderungen vornehmen können.
 
-- Daher ist es wichtig, dass Ihr Kunde den Azure RBAC-Zugriff für seinen vorherigen Partner entfernt und dem neuen Partner Zugriff hinzufüge. Weitere Informationen dazu, wie Ihr Kunde neuen Zugriff bietet, finden Sie unter Was [ist die rollenbasierte Zugriffssteuerung in Azure (Azure Role-Based Access Control, Azure RBAC)?](/azure/role-based-access-control/overview) Weitere Informationen dazu, wie Ihr Kunde den RBAC-Zugriff Ihres vorherigen Partners entfernt, finden Sie unter [Entfernen einer Rollenzuweisung.](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)
+- Daher ist es wichtig, dass Ihr Kunde den Azure RBAC-Zugriff für seinen vorherigen Partner entfernt und den Zugriff für den neuen Partner hinzufüge. Weitere Informationen dazu, wie Ihr Kunde neuen Zugriff bietet, finden Sie unter Was [ist die rollenbasierte Zugriffssteuerung in Azure (Azure Role-Based Access Control, Azure RBAC)?](/azure/role-based-access-control/overview) Weitere Informationen dazu, wie Ihr Kunde den RBAC-Zugriff Ihres vorherigen Partners entfernt, finden Sie unter [Entfernen einer Rollenzuweisung.](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)
 
 - Darüber hinaus erhalten Sie nicht automatisch [AOBO-Zugriff (Admin on Behalf Of)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) auf Ihre Abonnements. AOBO ist erforderlich, damit Partner die Azure-Abonnements ihrer Kunden in ihrem Namen verwalten können. Weitere Informationen zu Azure-Berechtigungen finden Sie unter Abrufen von Berechtigungen zum Verwalten des Diensts [oder Abonnements eines Kunden.](./customers-revoke-admin-privileges.md)
 

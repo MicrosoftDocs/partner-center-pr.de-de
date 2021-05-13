@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 15203b24188bd8303f61f362ff5f0f901714a813
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120765"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855776"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Cloud Solution Provider Programm für regionale Märkte und Währungen, in denen Sie CSP-Angebote verkaufen können
 
-**Geeignete Rollen**
-
-- Globaler Administrator
+**Geeignete Rollen:** Globaler Administrator
 
 Ihr Markt wird durch den Standort Ihres Unternehmens bestimmt. Ihr Markt umfasst die Regionen und/oder Länder, in denen Sie angebote Cloud Solution Provider CSP-Programm (CSP) verkaufen können.
 
@@ -63,7 +61,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 | Tschad                     |   USD    |
 | Komoren                  |   USD    |
 | Kongo                    |   USD    |
-| Kongo (DRC)              |   USD    |
+| Kongo (DRK)              |   USD    |
 | Côte d'Ivoire            |   USD    |
 | Dschibuti                 |   USD    |
 | Äquatorialguinea        |   USD    |
@@ -138,11 +136,11 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Kokosinseln|   AUD   |
 |  Cookinseln          |   AUD    |
 |  Fidschi                  |   AUD    |
-|  Französische Gebiete im südlichen Indischen Ozean| AUD |
+|  Französische Süd- und Antarktisgebiete| AUD |
 |  Guam                  |  AUD     |
 |  Heard und McDonaldinseln| AUD |
 |  Kiribati              |   AUD    |
-|  Marshallinseln      |   AUD    |
+|  Marshall-Inseln      |   AUD    |
 |  Mikronesien            |   AUD    |
 |  Nauru                 |   AUD    |
 |  Niue                  |   AUD    |
@@ -154,7 +152,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Salomonen       |   AUD    |
 |  Tokelau               |   AUD    |
 |  Tonga                 |   AUD    |
-|  Tuwalu                |   AUD    |
+|  Tuvalu                |   AUD    |
 |  Wallis und Futuna     |   AUD    |
 |
 
@@ -194,7 +192,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Tschechische Republik |   EUR    |
 |  Dänemark        |   DKK    |
 |  Estland        |   EUR    |
-|  Färöer  |   EUR    |
+|  Faröer  |   EUR    |
 |  Finnland        |   EUR    |
 |  Frankreich         |   EUR    |
 |  Deutschland        |   EUR    |
@@ -205,7 +203,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Ungarn        |   EUR    |
 |  Island        |   EUR    |
 |  Irland        |   EUR    |
-|  Insel Man    |   GBP    |
+|  Isle of Man    |   GBP    |
 |  Italien          |   EUR    |
 |  Jersey         |   GBP    |
 |  Lettland         |   EUR    |
@@ -226,7 +224,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Spitzbergen und Jan Mayen|NOK|
 |  Schweden         |   SEK    |
 |  Schweiz    |   CHF    |
-|  UK             |   GBP    |
+|  Vereinigtes Königreich             |   GBP    |
 |  Vatikanstadt   |          |
 |
 
@@ -289,10 +287,10 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Grenada        |   USD    |
 |  Guadeloupe     |   USD    |
 |  Guatemala      |   USD    |
-|  Guayana         |   USD    |
+|  Guyana         |   USD    |
 |  Haiti          |   USD    |
 |  Honduras       |   USD    |
-|  Jamaika        |   USD    |
+|  Jamaica        |   USD    |
 |  Martinique     |   USD    |
 |  Mexiko         |   USD    |
 |  Montserrat     |   USD    |
@@ -337,7 +335,7 @@ Wenn der Standort Ihres Unternehmens in der folgenden Liste aufgeführt ist, kö
 |  Georgien        |   USD    |
 |  Irak           |   USD    |
 |  Israel         |   USD    |
-|  Jordan         |   USD    |
+|  Jordanien         |   USD    |
 |  Kasachstan     |   USD    |
 |  Kosovo         |   USD    |
 |  Kuwait         |   USD    |

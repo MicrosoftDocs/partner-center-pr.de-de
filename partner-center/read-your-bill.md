@@ -1,99 +1,95 @@
 ---
-title: Lesen Ihrer Rechnung & Datei "Reconnaissance"
+title: Lesen der Rechnungs- &-Recon-Datei
 ms.topic: article
 ms.date: 06/05/2020
-description: Erfahren Sie mehr über Ihre Rechnung & Abstimmungs Dateien. Ihre Rechnung zeigt Partner Center-Gebühren für das Programm, die Produkte und Kunden für diesen monatlichen Zeitraum an.
+description: Erfahren Sie mehr über Ihre Rechnungs- & Abstimmungsdateien. Auf Ihrer Rechnung Partner Center die Gebühren für das Programm, die Produkte und die Kunden für diesen monatlichen Zeitraum.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f16b619aba838da1d1da0c5eb13648ebb107c802
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964356"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855912"
 ---
-# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Informationen zu Ihrer Rechnung und Abstimmungs Datei: erfahren Sie, wie Sie diese im Partner Center finden.
+# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Informationen zu Ihrer Rechnungs- und Abstimmungsdatei: Erfahren Sie, wie Sie sie in der Partner Center
 
 
-**Geeignete Rollen**
-
-- Globaler Administrator
-- Abrechnungsadministrator
-- Administrator-Agent
+**Geeignete Rollen:** Globale Administratorrechte | Abrechnungsadministrator| Administrator-Agent
 
 
-Ihre **Rechnung** ist eine **Zusammenfassung aller Kosten Ihres Partner Centers** (Programm übergreifend, alle Produkte und alle Kunden). 
+Ihre **Rechnung** ist eine **Zusammenfassung ihrer Partner Center** Gebühren (programmübergreifend, alle Produkte und alle Kunden). 
 
-## <a name="find-your-bill-and-reconciliation-file"></a>Suchen der Rechnung und der Abstimmungs Datei 
+## <a name="find-your-bill-and-reconciliation-file"></a>Suchen ihrer Rechnungs- und Abstimmungsdatei 
 
-Sie finden Ihre Rechnung auf der Seite Abrechnung des Dashboards im Partner Center. Sie können auf dieser Seite auch ihren Abrechnungs Verlauf, Ausgaben Trends und Abstimmungs Dateien finden. 
+Sie finden Ihre Rechnung auf der Seite Abrechnung des Dashboards in Partner Center. Auf dieser Seite finden Sie auch Ihren Abrechnungsverlauf, Ihre Ausgabentrends und Abstimmungsdateien. 
 
 1. Melde dich beim Partner Center-[Dashboard](https://partner.microsoft.com/dashboard/home) an. 
 
-2. Wählen Sie im Menü auf der linken Seite die Option **Abrechnung** aus. 
+2. Wählen Sie im Menü auf der linken Seite Abrechnung **aus.** 
 
 3. Wählen Sie auf der Seite „Abrechnungsstatus“ eine Rechnung oder Kontenabstimmungsdatei aus, um ausführlichere Informationen anzuzeigen. 
 
-Einen Link zu ihrer neuesten Rechnung finden Sie oben auf der Seite unter Account Saldo as of Last Rechnungs Date. 
+Einen Link zu Ihrer neuesten Rechnung finden Sie oben auf der Seite unter Kontostand ab dem letzten Rechnungsdatum. 
 
-Vorherige Rechnungen finden Sie im Abschnitt Abrechnungs Verlauf. Wählen Sie das entsprechende Jahr aus, und wählen Sie dann den Dropdown Pfeil neben dem entsprechenden Abrechnungszeitraum aus. Wählen Sie den Link neben Rechnungen (PDF) aus, um die Rechnung dieses Zeitraums herunterzuladen. 
+Vorherige Rechnungen finden Sie im Abschnitt Abrechnungsverlauf. Wählen Sie das entsprechende Jahr und dann den Dropdownpfeil neben dem entsprechenden Abrechnungszeitraum aus. Wählen Sie den Link neben Rechnungen (PDF) aus, um die Rechnung für diesen Zeitraum herunterzuladen. 
 
-## <a name="invoice-types"></a>Rechnungs Typen
+## <a name="invoice-types"></a>Rechnungstypen
 
-Microsoft gibt eine Rechnung für Lizenz basierte Gebühren (z. b. Office 365) und nutzungsbasierte Gebühren (z. b. Azure) und eine separate Rechnung für einmalige Gebühren (z. b. Azure RI, Marketplace oder Azure-Plan) aus.
+Microsoft stellt eine Rechnung für lizenzbasierte Gebühren (z. B. Office 365) und nutzungsbasierte Gebühren (z. B. Azure) und eine separate Rechnung für einmalige Gebühren (z. B. Azure RI, Marketplace oder Azure-Plan) aus.
 
 Beispiel:  
 
-**Szenario 1 [Einzel Währung]**: Partner verfügt über Einkäufe für das Angebot "145P" und "O365 Licenses",  
+**Szenario 1 [Einzelne Währung]**: Partner hat Käufe für 145P-Angebote und O365-Lizenzen,  
 
-- Der Partner erhält eine Rechnung PDF und 2 Abstimmungs Dateien, die die Gebühren für O365 und Azure (145P) abdecken.  
+- Partner erhalten eine PDF-Rechnung und zwei Abstimmungsdateien, die die Gebühren für O365 und Azure (145p) abdecken.  
 
-**Szenario 2 [Einzel Währung]**: der Partner hat Käufe für den Azure-RI-, Marketplace-und/oder Azure-Plan zusammen mit 145P-Käufen.
+**Szenario 2 [Einzelne Währung]**: Partner haben Käufe für Azure RI, Marketplace und/oder Azure-Plan zusammen mit 145p-Käufen.
 
-- Der Partner erhält eine Rechnung PDF und eine Abstimmungs Datei mit den Gebühren für Azure (145P). 
+- Partner erhalten eine PDF-Rechnung und eine Abstimmungsdatei, die die Gebühren für Azure (145p) abdecken. 
 
-- Der Partner erhält eine weitere Rechnung PDF und eine Abstimmungs Datei mit den Gebühren für den Azure RI-, Marketplace-und Azure-Plan. 
+- Partner erhalten eine weitere RECHNUNGS-PDF-Datei und eine Abstimmungsdatei, die ihre Gebühren für Azure RI, Marketplace und Azure-Plan abdeckt. 
 
-**Szenario 3 [Multi-currency]**: der Partner hat Käufe für Azure RI in DKK und Azure-Plan in EUR zusammen mit 145P-Käufen in EUR.
+**Szenario 3 [Multiwährung]**: Partner hat Käufe für Azure RI in DKK und Azure-Plan in EURO zusammen mit 145p-Käufen in €.
 
-- Der Partner erhält eine Rechnung PDF und eine Abstimmungs Datei, die die Gebühren für Azure RI in DKK abdeckt. 
+- Der Partner erhält eine RECHNUNGS-PDF-Datei und eine Abstimmungsdatei, die die Gebühren für Azure RI in DKK abdeckt. 
 
-- Der Partner erhält eine Rechnung PDF und eine Abstimmungs Datei, in der die Gebühren für den Azure-Plan in Euro abgerechnet werden. 
+- Der Partner erhält eine RECHNUNGS-PDF-Datei und eine Abstimmungsdatei, die die Gebühren für den Azure-Plan in EURO abdeckt. 
 
-- Der Partner erhält eine weitere Rechnung PDF und eine Abstimmungs Datei, in der die Gebühren für das Angebot "145P" in EUR (oder die Partner Abrechnungswährung) abgedeckt werden. 
+- Der Partner erhält eine weitere RECHNUNGS-PDF-Datei und eine Abstimmungsdatei, die die Gebühren für ein 145p-Angebot in EURO (oder der Abrechnungswährung des Partners) abdeckt. 
 
 
-## <a name="understanding-invoice-pdf"></a>Grundlegendes zur Rechnung PDF 
+## <a name="understanding-invoice-pdf"></a>Grundlegendes zur RECHNUNGS-PDF-Datei 
 
-**Rechnungen für Nutzungs-und Lizenz basierte Gebühren**: Rechnungen für Gebühren für Dienste wie Office 365 und Azure sind innerhalb von zwei (2) Tagen nach dem ausgewählten Abrechnungsdatum [UTC] verfügbar.  
+**Rechnungen für Nutzungs- und lizenzbasierte Gebühren:** Rechnungen für Gebühren für Dienste wie Office 365 und Azure sind innerhalb von zwei (2) Tagen nach dem ausgewählten Abrechnungsdatum [UTC] verfügbar.  
 
-**Rechnungen für einmalige und wiederkehrende Gebühren**: Rechnungen für Gebühren für Dienste wie Azure RI, Azure-Plan, Marketplace sind nicht später als 8. jeden Monats verfügbar.  
+**Rechnungen für einmalige und wiederkehrende Gebühren:** Rechnungen für Gebühren für Dienste wie Azure RI, Azure-Plan und Marketplace sind bis zum 8. jedes Monats verfügbar.  
 
-Im folgenden finden Sie einige der Schlüsselfelder im PDF-Dokument der Rechnung –
+Im Folgenden finden Sie einige der Schlüsselfelder im PDF-Dokument für Rechnungen:
 
-**Rechnungsnummer**: eindeutiger Bezeichner für das Rechnungsdokument, das für den jeweiligen Abrechnungszeitraum generiert wurde. 
+**Rechnungsnummer:** Eindeutiger Bezeichner für das für den jeweiligen Abrechnungszeitraum generierte Rechnungsdokument. 
 
-**Abrechnungszeitraum**: Dies ist der Zeitraum, in dem Sie Verwendungs-und Lizenz basierte Dienste haben. 
+**Abrechnungszeitraum:** Dies ist der Zeitraum, in dem Sie über Nutzungen und lizenzbasierte Dienste verfügen. 
 
-**Rechnungsdatum**: Das Abrechnungsdatum oder das Enddatum, an dem Ihre Rechnung monatlich generiert wird. 
+**Rechnungsdatum:** Das Abrechnungsdatum oder das Jahrestag, an dem Ihre Rechnung jeden Monat generiert wird. 
 
-**Fälligkeitsdatum der Zahlung**: das Datum, an dem Ihre Zahlung empfangen werden muss. 
+**Fälligkeitsdatum** der Zahlung: Das Datum, an dem Ihre Zahlung empfangen werden muss. 
 
-**Gebühren**: der Betrag, der in ihrer Abrechnungswährung für den jeweiligen Abrechnungszeitraum fällig ist. 
+**Gebühren:** Der in Ihrer Abrechnungswährung für den jeweiligen Abrechnungszeitraum fällige Betrag. 
 
-**Gutschriften**: Guthaben (z. b. SLA) oder Anpassungen der an Abonnements vorgenommenen Änderungen (z. b. die Lizenz Zunahme oder Abnahme). 
+**Guthaben:** Guthaben (z. B. SLA) oder Anpassungen für Änderungen an Abonnements (z. B. Erhöhung oder Verringerung der Lizenz). 
 
-**Zahlungsanweisungen**: Beschreibung der Bezahlung Ihrer Rechnung basierend auf Ihrer Region. Stellen Sie bei einer Zahlung immer sicher, dass Sie Ihre Rechnungsnummer einschließen. 
+**Zahlungsanweisungen:** Beschreibung der Zahlung Ihrer Rechnung basierend auf Ihrer Region. Achten Sie bei einer Zahlung immer darauf, Dass Sie Ihre Rechnungsnummer angeben. 
 
-Eine ausführliche Beschreibung aller Felder in der Rechnungs Datei (einschließlich der Felder für einmalige Gebühren) finden Sie unter [Rechnungs Datei Felder](invoice-file.md). 
+Eine ausführliche Beschreibung aller Felder in Ihrer Rechnungsdatei (einschließlich der Felder für einmalige Gebühren) finden Sie unter Felder für [Die Rechnungsdatei.](invoice-file.md) 
 
-## <a name="understand-reconciliation-files"></a>Grundlegendes zu Abstimmungs Dateien
+## <a name="understand-reconciliation-files"></a>Verstehen von Abstimmungsdateien
 
- Abstimmungs Dateien, die einen Drilldown/Details zu ihren Gebühren enthalten, können zusammen mit der Rechnung PDF heruntergeladen werden. Zu den Abstimmungs Dateien gehören Kunden Bezeichner und Abonnement Bezeichner, mit denen Sie Kunden Rechnungen erstellen können. Weitere Informationen zu den Reconnaissance-Dateien finden Sie unter  [Verwenden der](use-the-reconciliation-files.md) ababstimmungs Dateien. 
+ Abstimmungsdateien, die einen Drilldown bzw. detaillierte Details zu Ihren Gebühren enthalten, können zusammen mit der PDF-Rechnung heruntergeladen werden. Die Abstimmungsdateien enthalten Kunden-IDs und Abonnement-IDs, die Sie zum Erstellen von Kundenrechnungen verwenden können. Weitere Informationen zu den  [Abstimmungsdateien](use-the-reconciliation-files.md) finden Sie unter Verwenden der Abstimmungsdateien. 
 
 ## <a name="next-steps"></a>Nächste Schritte
 

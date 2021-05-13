@@ -8,19 +8,16 @@ description: Fordern Sie eine Beziehung mit einem Kunden für Szenarien mit mehr
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 55f86e6e48b0b897410826e22564e2d27e25258b
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: f8265973157540cff698790ddb2effa912abeeb7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018134"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856116"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>Anfordern einer Handelspartnerbeziehung von einem Kunden in Partner Center
 
-**Geeignete Rollen**
-
-- Administrator-Agent
-- Globaler Administrator
+**Geeignete Rollen:** Administrator-Agent-| Globaler Administrator
 
 Wenn Sie den Dienst oder das Abonnement eines Kunden in dessen Namen verwalten möchten, muss der Kunde Ihnen Administratorberechtigungen für diesen Dienst oder dieses Abonnement erteilen und die Microsoft-Kundenvereinbarung signieren.
 
@@ -46,7 +43,7 @@ Sie können eine Vertriebspartnerschaft mit einem Kunden innerhalb Ihres Landes 
 5. Nachdem der Kunde Ihre Einladung angenommen hat, wird er auf der Seite **Kunden** angezeigt und kann den Dienst für den Kunden von dort aus bereitstellen und verwalten.
 
    > [!NOTE]
-   > Wenn der Kunde die Microsoft-Kundenvereinbarung noch nicht akzeptiert hat, wird er dazu aufgefordert, wenn er Ihre Einladung annimmt. Der Kunde muss globaler Administrator sein, um die Einladung anzunehmen.
+   > Wenn der Kunde die Microsoft-Kundenvereinbarung noch nicht akzeptiert hat, wird er aufgefordert, dies zu tun, wenn er Ihre Einladung annimmt. Der Kunde muss globaler Administrator sein, um die Einladung anzunehmen.
 
 6. Erweitere zum Verwalten des Kontos, des Diensts, der Benutzer und der Lizenzen des Kunden den Kundeneintrag, indem du neben seinem Namen auf den nach unten weisenden Pfeil klickst.
 

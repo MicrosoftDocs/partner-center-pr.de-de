@@ -9,18 +9,16 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d84f67edd38b9e8f665a18699fb1f03c9888549d
-ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
+ms.openlocfilehash: deb9a0af8c0b398d3bb9761a3aa1e7db382d1093
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109712497"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855827"
 ---
 # <a name="registration-id-number-information"></a>Informationen zur Registrierungs-ID
 
-**Geeignete Rollen**
-
-- Globaler Administrator
+**Geeignete Rollen**: Globaler Administrator
  
 Wenn Sie ein indirekter Anbieter, Partner mit direkter Abrechnung oder indirekter Wiederverkäufer sind und Geschäfte mit neuen Kunden oder Bestandskunden in den folgenden Ländern tätigen, müssen Sie Registrierungs-IDs für Ihr Unternehmen bereitstellen. Wir verwenden die Registrierungs-ID, um die Details Ihres Kontos zu überprüfen. Ist das Land, in dem Sie geschäftlich tätig sind, nachfolgend nicht aufgelistet, ist die Angabe der Registrierungs-ID optional.
 
@@ -28,10 +26,10 @@ Wenn Sie ein indirekter Anbieter, Partner mit direkter Abrechnung oder indirekte
 
 | **Land oder Region** | **Details** |
 |:--|:--|
-| **Armenien** | INN: Steueridentifikationsnummer<br>Umsatzsteuernummer (auch als Umsatzsteuer-Identifikationsnummer bezeichnet): Dies ist die eindeutige Nummer, die eine steuerpflichtige Person (Unternehmen) oder eine nicht steuerpflichtige juristische Person identifiziert, die für die Umsatzsteuer registriert ist.<br>Nummer des öffentlichen Diensts |
+| **Armenien** | INN: Steueridentifikationsnummer<br>Umsatzsteuernummer (auch als Umsatzsteuer-Identifikationsnummer bezeichnet): Dieser Wert ist die eindeutige Nummer, die eine steuerpflichtige Person (Unternehmen) oder eine nicht steuerpflichtige juristische Person identifiziert, die für die Umsatzsteuer registriert ist.<br>Nummer des öffentlichen Diensts |
 | **Aserbaidschan**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf): Steueridentifikationsnummer<br>INN: Steueridentifikationsnummer |
-| **Belarus**  | UNP: Dies ist eine neunstellige Zahl (numerisch für Organisationen, alphanumerisch für Einzelpersonen), die eine Regionskennung, eine Seriennummer pro Region und eine Prüfziffer enthält. |
-|**Brasilien** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) (Cadastro Nacional da Pessoa Jurídica, nationales Register für juristische Personen): Dies ist eine Identifikationsnummer, die von der Bundessteuerbehörde von Brasilien für brasilianische Unternehmen ausgestellt wird.  |
+| **Belarus**  | UNP: Dies ist ein neunstelliger Wert (numerisch für Organisationen, alphanumerisch für Einzelpersonen), der eine Regionskennung, eine Seriennummer pro Region und eine Prüfziffer enthält. |
+|**Brasilien** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) (Cadastro Nacional da Pessoa Jurídica, nationales Register für juristische Personen): Dieser Wert ist eine Identifikationsnummer, die von der Bundessteuerbehörde von Brasilien für brasilianische Unternehmen ausgestellt wird.  |
 | **China** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf): Steueridentifikationsnummer |
 | **Ungarn**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf): Steueridentifikationsnummer |
 | **Indien** | Steuernummer<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) (Presence Across India): Die Einbeziehung von PAN India bedeutet, dass es eine Organisation gibt, die an mehreren Standorten in Indien tätig ist. |
@@ -45,11 +43,11 @@ Wenn Sie ein indirekter Anbieter, Partner mit direkter Abrechnung oder indirekte
 | **Saudi-Arabien** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf): Steueridentifikationsnummer |
 | **Südafrika** | TRN : Registrierungsnummer für Warenverkehr |
 | **Südsudan** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/): Steueridentifikationsnummer |
-| **Tadschikistan**  | INN: Steueridentifikationsnummer<br>EIN: Arbeitgeberkennnummer<br>KPP: Dies ist ein Code, der den Grund für die Registrierung der Organisation wiedergibt. |
+| **Tadschikistan**  | INN: Steueridentifikationsnummer<br>EIN: Arbeitgeberkennnummer<br>KPP: Dieser Wert ist ein Code, der den Grund für die Registrierung der Organisation wiedergibt. |
 | **Thailand** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/): Steueridentifikationsnummer |
 | **Türkei** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf): Steueridentifikationsnummer<br>NIN |
 | **Ukraine**  | EGRPOU<br>EDRPOU: Lokale ID |
-| **Vereinigte Arabische Emirate** | Steuernummer<br>[Umsatzsteuernummer](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) (auch als Umsatzsteuer-Identifikationsnummer bezeichnet): Dies ist die eindeutige Nummer, die eine steuerpflichtige Person (Unternehmen) oder eine nicht steuerpflichtige juristische Person identifiziert, die für die Umsatzsteuer registriert ist. |
+| **Vereinigte Arabische Emirate** | Steuernummer<br>[Umsatzsteuernummer](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) (auch als Umsatzsteuer-Identifikationsnummer bezeichnet): Dieser Wert ist die eindeutige Nummer, die eine steuerpflichtige Person (Unternehmen) oder eine nicht steuerpflichtige juristische Person identifiziert, die für die Umsatzsteuer registriert ist. |
 | **USA** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce): Arbeitgeberkennnummer |
 | **Usbekistan**  | INN: Steueridentifikationsnummer |
 | **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/): Steueridentifikationsnummer |

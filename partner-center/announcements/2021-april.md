@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328048"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702823"
 ---
 # <a name="april-2021-announcements"></a>Ankündigungen für April 2021
 
@@ -308,11 +308,12 @@ Das monatliche CSP Community Call Q&A ist der beste Ort für Fragen im Bezug auf
 Wenden Sie sich an den [Support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp), um weitere Informationen zu erhalten.
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Erinnerung: Einstellung der GET-Qualifizierung am 4. Mai 2021
+## <a name="final-reminder-deprecation-of-get-qualification-on-may-6-2021"></a><a name="4"></a>Letzte Erinnerung: Einstellung der GET-Qualifizierung am 6. Mai 2021
 
 ### <a name="categories"></a>Kategorien
 
-- Datum: 09.04.2021
+- Datum: 04.05.2021
+
 - Funktionen
 
 ### <a name="impacted-audience"></a>Zielgruppe
@@ -321,13 +322,13 @@ Partner, die Angebote für Bildungseinrichtungen, gemeinnützige Organisationen 
 
 ### <a name="details"></a>Details
 
-Diese Ankündigung ist eine Weiterführung zu den [im Dezember veröffentlichten Verbesserungen](https://docs.microsoft.com/partner-center/announcements/2020-december#1) in Partner Center. Im Rahmen dieser Veröffentlichung wurden neue GET- und POST-Qualifizierungs-APIs bereitgestellt. Infolgedessen wird die vorhandene GET-Qualifizierung zum 4. Mai 2021 eingestellt. Zu diesem Zeitpunkt müssen Sie auf die Verwendung der neuen POST-APIs in Partner Center umgestellt haben, um Angebote für Bildungseinrichtungen zu erwerben, sowie auf die neue GET-Qualifizierungs-API, um vorab qualifizierte Angebote für gemeinnützige Organisationen und GCC zu erwerben.
+Diese Ankündigung ist eine Weiterführung zu den [im Dezember veröffentlichten Verbesserungen](https://docs.microsoft.com/partner-center/announcements/2020-december#1) in Partner Center. Im Rahmen dieser Veröffentlichung wurden neue GET- und POST-Qualifizierungs-APIs bereitgestellt. Infolgedessen wird **die vorhandene GET-Qualifizierung am 6. Mai 2021 eingestellt**. Zu diesem Zeitpunkt müssen Sie auf die Verwendung der neuen POST-APIs in Partner Center umgestellt haben. Mit den neuen POST-APIs können Sie Angebote für Bildungseinrichtungen erwerben, während Sie mit den neuen GET-APIs vorab qualifizierte Angebote für gemeinnützige Organisationen und GCC erwerben können.
 
 ### <a name="next-steps"></a>Nächste Schritte
 
-- Führen Sie für eine erfolgreiche und rechtzeitige Umstellung eine Aktualisierung auf die neuen APIs durch.
+- Führen Sie für eine erfolgreiche und rechtzeitige Umstellung eine **Aktualisierung auf die neuen APIs** durch.
 
-- Informieren Sie sich über die neuen Änderungen der Partner Center-API, und lesen Sie die Anleitungen in den Operations Readiness-Ressourcen: [Verbesserungen des Überprüfungsprozesses für Kunden im Bildungswesen in Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+- **Informieren Sie sich über die neuen Änderungen der Partner Center-API, und lesen Sie die Anleitungen** in den Operations Readiness-Ressourcen: [Verbesserungen des Überprüfungsprozesses für Kunden im Bildungswesen in Partner Center](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
 
 - Leiten Sie diese Informationen an die entsprechenden Teams in Ihrer Organisation und Ihre Handelspartner weiter, um sie bei der Vorbereitung auf diese Änderungen zu unterstützen.
 
@@ -337,8 +338,12 @@ Bei Fragen im Zusammenhang mit dieser Benachrichtigung wenden Sie sich an den [P
 
 ### <a name="change-log"></a>Änderungsprotokoll
 
-- April: Erinnerung an die anstehende Einstellung der GET-Qualifizierung 
+- 4\. Mai 2021: Letzte Erinnerung an die anstehende Einstellung der GET-Qualifizierung
+
+- 9\. April 2021: Erinnerung an die anstehende Einstellung der GET-Qualifizierung 
+
 - Februar: Aktualisierte Zeitpläne für die Einstellung von GET- und PUT-Qualifizierungen
+
 - Januar: Erinnerung an die anstehende Einstellung von GET- und PUT-Qualifizierungen
 
 ________________
